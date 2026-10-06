@@ -1,8 +1,7 @@
-# ADR-0001: Var datapoolen ska bo – repo och lagring
+# 0001 — Var datapoolen ska bo: ett repo, bara text
 
-- Status: **Accepterad** (2026-10-06)
-- Datum: 2026-10-06
-- Beslutsfattare: Morgan
+**Status:** Accepterad 2026-10-06
+**Beslutsfattare:** Morgan
 
 ## Sammanhang
 

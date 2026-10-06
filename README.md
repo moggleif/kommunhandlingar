@@ -17,6 +17,9 @@ Bakgrunden står i [ADR-0001](docs/adr/0001-var-datapoolen-ska-bo.md).
 
 ## Dokumentation
 
+- [AGENTS.md](AGENTS.md) – regler för alla som arbetar i repot, människa som AI
+- [docs/02-KRAV.md](docs/02-KRAV.md) – vad poolen ska göra
+- [docs/03-ARKITEKTUR.md](docs/03-ARKITEKTUR.md) – hur den byggs
 - [docs/adr/](docs/adr/) – arkitekturbeslut, med diskussionen bakom
 - [docs/kallor/kungsbacka.md](docs/kallor/kungsbacka.md) – hur Kungsbacka
   publicerar sina handlingar, och vad som återstår att verifiera
