@@ -49,6 +49,7 @@ src/kommunhandlingar/
 kommuner/<kommun>.yaml
 data/<kommun>/<organ>/<år>/<datum>/<typ>.md
 data/<kommun>/<organ>/<år>/<datum>/<typ>.tabeller/<n>.csv
+scripts/          verktyg för utvecklingen, t.ex. storlekskontrollen
 tests/fixtures/
 ```
 

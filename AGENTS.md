@@ -27,8 +27,9 @@ som inte löser ett verkligt problem.
 
 ## Ren kod – strikt
 
-Små, enkla filer och funktioner. Gränserna är hårda: de kontrolleras i CI
-från första kodraden, och ett undantag kräver en kommentar som säger varför.
+Små, enkla filer och funktioner. Gränserna är hårda och kontrolleras i CI
+(se `docs/01-BIDRA.md`). Ett undantag skrivs som `# undantag: <skäl>` på
+raden där funktionen eller filen börjar.
 
 | Mått                         | Mål   | Hård gräns |
 | ---------------------------- | ----- | ---------- |
@@ -59,7 +60,7 @@ krav eller ett test. Det betyder:
 | Vad poolen ska göra (beteenden, G/W/T)          | `docs/02-KRAV.md`                  |
 | Hur den är byggd (flöde, datamodell, format)    | `docs/03-ARKITEKTUR.md`            |
 | Varför den är byggd så (beslut och diskussion)  | `docs/decisions/` (MADR)           |
-| Hur man sätter upp, kör och testar              | `docs/01-BIDRA.md` (skapas med koden) |
+| Hur man sätter upp, kör och testar              | `docs/01-BIDRA.md`                 |
 | Hur en viss kommun publicerar                   | `docs/kallor/<kommun>.md`          |
 | En kommuns organ, adresser och filnamnsmönster  | `kommuner/<kommun>.yaml`           |
 | Ett dokuments härkomst och konverteringskvalitet | front matter i dokumentets `.md`  |

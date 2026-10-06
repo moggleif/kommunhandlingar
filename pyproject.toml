@@ -1,0 +1,30 @@
+[project]
+name = "kommunhandlingar"
+version = "0.0.0"
+requires-python = ">=3.12"
+
+[tool.ruff]
+target-version = "py312"
+line-length = 88
+
+[tool.ruff.lint]
+# Gränserna i "Ren kod – strikt" i AGENTS.md. Rader per funktion och fil
+# kontrolleras av scripts/kontrollera_storlek.py, som ruff saknar regler för.
+preview = true
+explicit-preview-rules = true
+select = [
+  "E", "F", "W", "I", "B", "UP", "SIM",
+  "C90",      # cyklomatisk komplexitet
+  "PLR0913",  # parametrar
+  "PLR0917",  # positionella parametrar
+  "PLR1702",  # nästlingsnivåer (preview)
+  "ERA",      # bortkommenterad kod
+]
+
+[tool.ruff.lint.mccabe]
+max-complexity = 8
+
+[tool.ruff.lint.pylint]
+max-args = 4
+max-positional-args = 4
+max-nested-blocks = 3

@@ -18,6 +18,7 @@ Bakgrunden står i [ADR-0001](docs/decisions/0001-ett-repo-bara-text.md).
 ## Dokumentation
 
 - [AGENTS.md](AGENTS.md) – regler för alla som arbetar i repot, människa som AI
+- [docs/01-BIDRA.md](docs/01-BIDRA.md) – hur man kör kontrollerna
 - [docs/02-KRAV.md](docs/02-KRAV.md) – vad poolen ska göra
 - [docs/03-ARKITEKTUR.md](docs/03-ARKITEKTUR.md) – hur den byggs
 - [docs/decisions/](docs/decisions/) – arkitekturbeslut, med diskussionen bakom
