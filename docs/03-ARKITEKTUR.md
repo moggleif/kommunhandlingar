@@ -10,7 +10,8 @@ när koden kommer är det koden som gäller och dokumentet rättas efter den.
 kommuner/<kommun>.yaml
         │
         ▼
-1. upptäck   adaptrar per plattform  →  kandidater: organ, datum, typ, URL, källa
+1. upptäck   adaptrar per plattform  →  kandidater: organ, datum, typ, URL,
+                                         källa, källnyckel
         │
         ▼
 2. hämta     artig HTTP-klient        →  PDF i en temporär katalog
@@ -42,8 +43,18 @@ Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
   (Sitevisions nod-id, Episervers adress) när adressen eller filnamnet
   ändras. En ny sha256 är en ny version och skriver över filen;
   git-historiken är versionshistoriken.
-- Ärendet är ett attribut: diarienummer listas i front matter när de är
-  kända. Diariet är en källa till mötesdokument, inte till egna dokument.
+- Platsen bestäms första gången källnyckeln hittas och följer sedan
+  källnyckeln. `<lopnr>` och `<namn>` används bara när platsen annars
+  skulle vara upptagen; reglerna står i ADR-0003.
+- `<namn>` bildas ur källans rubrik eller filnamn: små bokstäver, å och ä
+  blir `a`, ö blir `o`, andra diakritiska tecken tas bort, allt som inte är
+  bokstav eller siffra blir bindestreck, flera bindestreck i rad blir ett,
+  och bindestreck först och sist tas bort. Namnet kortas till högst 80
+  tecken vid ett bindestreck. Ger två rubriker samma namn får det senare
+  `-2`.
+- Ärendet är ett attribut: `arenden` listar diarienummer, är tom när
+  dokumentet inte rör något ärende och `null` när det inte är känt.
+  Diariet är en källa till mötesdokument, inte till egna dokument.
 
 ## Katalogstruktur
 
@@ -54,8 +65,8 @@ src/kommunhandlingar/
   konvertering/    pdf → md, tabeller, OCR-reserv, kvalitetsmått
   index/
 kommuner/<kommun>.yaml
-data/<kommun>/<organ>/<år>/<datum>[-<n>]/<typ>[-<namn>].md
-data/<kommun>/<organ>/<år>/<datum>[-<n>]/<typ>[-<namn>].tabeller/<n>.csv
+data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
+data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<nr>.csv
 scripts/          verktyg för utvecklingen, t.ex. storlekskontrollen
 tests/fixtures/
 ```
@@ -67,7 +78,9 @@ tests/fixtures/
 kommun: kungsbacka
 organ: ga
 datum: 2025-10-16
+lopnr: null
 typ: protokoll
+namn: null
 kallnyckel: sitevision:18.4ac81f8819a0f459fef1dd70
 arenden: [GA-2024-00194]
 kalla_url: https://…/Protokoll….pdf

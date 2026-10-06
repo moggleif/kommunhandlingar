@@ -23,7 +23,7 @@ kunna läggas till utan kodändring.
 - **När** upptäckten körs
 - **Så** listas varje sammanträde för varje organ i konfigurationen, med
   kallelse, handlingar, protokoll och bilagor som separata dokument, var
-  och ett med organ, datum och typ.
+  och ett med organ, datum, typ och källnyckel.
 
 ## K3 — Historiken hämtas så långt bakåt den finns
 
@@ -72,13 +72,17 @@ kunna läggas till utan kodändring.
 
 ## K9 — Ändrade dokument blir nya versioner
 
-- **Givet** att kommunen byter ut en fil som redan finns i poolen, under ny
-  adress eller nytt filnamn men med samma källnyckel
+- **Givet** att kommunen byter ut en fil som redan finns i poolen – under
+  samma adress, eller under ny adress eller nytt filnamn med samma
+  källnyckel
 - **När** nästa körning hittar den nya filen
 - **Så** konverteras den nya versionen och skrivs över den gamla på samma
   sökväg, och git-historiken visar vad som ändrats.
-- **Givet** att filen har samma sha256 som den som redan finns
-- **Så** ändras ingenting.
+
+- **Givet** att filen under en ny adress har samma sha256 som den som
+  redan finns
+- **När** nästa körning hittar den
+- **Så** uppdateras bara `kalla_url`, och texten konverteras inte om.
 
 ## K10 — Hämtningen är artig
 

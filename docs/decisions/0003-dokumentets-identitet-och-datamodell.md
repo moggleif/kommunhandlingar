@@ -50,36 +50,50 @@ när kommunen ger den ny adress eller nytt filnamn.
 
 Beslutet i detalj:
 
-* **Sammanträdet** identifieras av kommun, organ och datum. Hålls två
-  sammanträden samma dag får det senare ett löpnummer: `<datum>-2`.
-* **Dokumentet** identifieras av sitt sammanträde, sin typ (`kallelse`,
-  `handlingar`, `protokoll`, `bilaga`) och, när källan publicerar flera
-  filer av samma typ för sammanträdet, ett namn ur källans rubrik eller
-  filnamn. Bilagor och handlingar som är uppdelade per ärende har alltid
-  ett namn.
-* **Källnyckeln** är adapterns stabila id för filen – för Sitevision
-  nod-id:t, för Episerver den ursprungliga adressen. Den står i front
-  matter. En fil vars källnyckel redan finns i poolen är samma dokument,
-  även om adressen eller filnamnet har ändrats.
+* **Källnyckeln** är adapterns stabila id för filen, på formen
+  `<plattform>:<id>` – för Sitevision nod-id:t, för Episerver den
+  ursprungliga adressen. För en kopia i Internet Archive är det
+  originalets nyckel, inte arkivets adress. Den är unik inom kommunen och
+  står i front matter.
+* **Dokumentet placeras en gång.** Första gången en källnyckel hittas får
+  dokumentet en plats i modellen: sammanträde, typ (`kallelse`,
+  `handlingar`, `protokoll`, `bilaga`) och, vid behov, ett namn. Platsen
+  skrivs i front matter och ändras inte därefter. Hittas samma källnyckel
+  igen är det samma dokument på samma sökväg, även om adressen, filnamnet
+  eller rubriken har ändrats.
+* **Sammanträdet** är kommun, organ och datum. Hålls två sammanträden
+  samma dag får det som kommer senare i källans lista ett löpnummer:
+  `<datum>-2`.
+* **Namnet** behövs när en plats redan är upptagen: bilagor och
+  handlingar uppdelade per ärende har alltid ett namn, och ett dokument
+  som kommer till en upptagen plats får ett namn ur källans rubrik eller
+  filnamn. Det första dokumentet behåller sin plats utan namn.
+* **En ny källnyckel på en upptagen plats** är en ny version av det
+  dokument som står där om den gamla källnyckeln inte längre finns i
+  källan – så blir ett justerat protokoll som publiceras som en ny nod en
+  ny version av det ojusterade. Finns båda kvar i källan är det två
+  dokument, och det nya får ett namn.
 * **Versionen** är originalets sha256. En ny sha256 för samma dokument
-  skrivs över den gamla filen; git-historiken är versionshistoriken. Ett
-  ojusterat protokoll som ersätts av det justerade är en ny version.
-* **Ärendet** är ett attribut, inte en nivå i sökvägen: diarienummer som
-  dokumentet rör listas i front matter när de är kända.
+  skrivs över den gamla filen; git-historiken är versionshistoriken. En
+  kopia från en äldre ögonblicksbild ersätter aldrig en nyare version.
+  Samma sha256 under ny adress ändrar bara `kalla_url`.
+* **Ärendet** är ett attribut, inte en nivå i sökvägen: `arenden` i front
+  matter listar diarienumren, är tom när dokumentet inte rör något ärende
+  och `null` när det inte är känt.
 * **Diariet** är en källa till mötesdokument. Diarieärenden utan
   sammanträde ingår inte i poolen.
 
-Sökvägen blir:
+Sökvägen blir
 
 ```
-data/<kommun>/<organ>/<år>/<datum>[-<n>]/<typ>[-<namn>].md
-data/<kommun>/<organ>/<år>/<datum>[-<n>]/<typ>[-<namn>].tabeller/<n>.csv
+data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 ```
 
 till exempel
-`data/kungsbacka/ks/2019/2019-05-28/handlingar-arende-4-kommunbudget-2020.md`.
-`<namn>` skrivs med små bokstäver, å/ä som `a`, ö som `o` och allt annat
-som inte är bokstav eller siffra som bindestreck.
+`data/kungsbacka/ks/2019/2019-05-28/handlingar-arende-4-kommunbudget-2020-plan-2021-2022.md`.
+Hur `<namn>` bildas ur rubriken, och var tabellerna läggs, står i
+[`docs/03-ARKITEKTUR.md`](../03-ARKITEKTUR.md). Sökvägen förfinar den i
+ADR-0001, alternativ F.
 
 ### Consequences
 
@@ -89,10 +103,11 @@ som inte är bokstav eller siffra som bindestreck.
   extra lagras – i linje med ADR-0001.
 * Bra, eftersom de äldre per-ärende-filerna och dagens sammanslagna PDF:er
   ryms i samma modell.
-* Dåligt, eftersom `<namn>` hämtas ur källans rubrik. Byter kommunen rubrik
-  på en bilaga utan att källnyckeln följer med blir det ett nytt dokument.
-* Dåligt, eftersom ett sammanträde som upptäcks i efterhand samma dag som
-  ett annat kan kräva att löpnumren ändras. Det väntas vara sällsynt.
+* Dåligt, eftersom vem som får platsen utan namn beror på vad som hittades
+  först; samma källa kan ge olika sökvägar i två pooler som byggts i olika
+  ordning.
+* Dåligt, eftersom en fil som kommunen lägger upp under en helt ny
+  källnyckel, medan den gamla ligger kvar, blir ett nytt dokument.
 * Neutralt, eftersom ärendenivån i datat får vänta på ett eget steg som
   läser ut paragrafer och diarienummer ur texten.
 
@@ -103,10 +118,12 @@ När koden kommer:
 * Ett test visar att sökvägen byggs ur organ, datum, löpnummer, typ och
   namn enligt regeln ovan, och att två bilagor eller två sammanträden
   samma dag ger olika sökvägar.
-* Ett test visar att en fil med känd källnyckel men ny adress skriver över
-  det befintliga dokumentet.
-* CI kontrollerar att varje `.md` under `data/` ligger på en sökväg som
-  stämmer med `organ`, `datum` och `typ` i dess front matter.
+* Ett test visar att en fil med känd källnyckel men ny adress eller ny
+  rubrik skriver över det befintliga dokumentet, att samma sha256 bara
+  ändrar `kalla_url`, och att en ny källnyckel på en upptagen plats följer
+  regeln ovan.
+* CI kontrollerar att varje `.md` under `data/` ligger på den sökväg som
+  `organ`, `datum`, `lopnr`, `typ` och `namn` i dess front matter ger.
 
 ## Pros and Cons of the Options
 
@@ -179,6 +196,14 @@ data/kungsbacka/arenden/KS-2019-00123/tjansteskrivelse.md
    * Diarieärenden utan sammanträde i poolen eller utanför: utanför
      (Claude); diariet blir bara en källa till mötesdokument.
 4. **Morgan sa ja** till alla fyra rekommendationerna 2026-10-06.
+5. **Granskningen (fas 6)** visade att plats och källnyckel kunde säga
+   olika saker: ett nytt filnamn gav ett nytt namn och en ny sökväg, och
+   ett justerat protokoll som ny nod krockade med det ojusterade. Claude
+   lade till att platsen bestäms en gång och sedan följer källnyckeln,
+   och regeln för en ny källnyckel på en upptagen plats. Samtidigt
+   preciserades källnyckelns form och räckvidd, att `arenden` skiljer
+   tomt från okänt, och att en äldre Wayback-kopia aldrig ersätter en
+   nyare version.
 
 ### Vad som inte avgörs här
 
@@ -186,7 +211,9 @@ data/kungsbacka/arenden/KS-2019-00123/tjansteskrivelse.md
 * Hur körningen vet vad som redan hämtats, och om det behövs ett index –
   issue #3.
 * Vilken källa som går före när samma dokument finns både live och i
-  Wayback – när adaptrarna skrivs (#10).
+  Wayback – när adaptrarna skrivs.
+* Hur diarienummer normaliseras (`KS 2023-00686` mot `GA-2024-00194`) –
+  när ärendena läses ut.
 
 ### När beslutet bör omprövas
 
