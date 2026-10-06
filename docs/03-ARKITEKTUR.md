@@ -10,7 +10,8 @@ när koden kommer är det koden som gäller och dokumentet rättas efter den.
 kommuner/<kommun>.yaml
         │
         ▼
-1. upptäck   adaptrar per plattform  →  kandidater: organ, datum, typ, URL, källa
+1. upptäck   adaptrar per plattform  →  kandidater: organ, datum, typ, URL,
+                                         källa, källnyckel
         │
         ▼
 2. hämta     artig HTTP-klient        →  PDF i en temporär katalog
@@ -29,18 +30,33 @@ bara det som är nytt eller ändrat.
 
 ```
 Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
-            └── Sammanträde (datum)
+            └── Sammanträde (datum, löpnummer om flera samma dag)
                   └── Dokument (kallelse | handlingar | protokoll | bilaga)
+                        │   namn, källnyckel, ärenden (diarienummer)
                         └── Version (sha256, hämtad, källa)
 ```
 
 - Organ är data, inte kod: de byter namn och slås ihop.
-- **Öppen fråga – identitet.** Vad som identifierar ett dokument och en
-  version är inte bestämt. Organ, datum och typ räcker inte: ett möte kan ha
-  flera bilagor, äldre handlingar och diariet är ordnade per ärende
-  (diarienummer), och Sitevision ger en ny adress när en fil byts ut under
-  samma nod-id. Det avgörs i en ADR innan den första koden skrivs, och
-  sökvägarna nedan följer det beslutet.
+- **Identitet** ([ADR-0003](decisions/0003-dokumentets-identitet-och-datamodell.md)).
+  Ett dokument identifieras av sin plats i modellen – organ, datum,
+  löpnummer, typ och namn – och känns igen på adapterns källnyckel
+  (Sitevisions nod-id, Episervers adress) när adressen eller filnamnet
+  ändras. En ny sha256 är en ny version och skriver över filen;
+  git-historiken är versionshistoriken.
+- Platsen bestäms första gången källnyckeln hittas och följer sedan
+  källnyckeln. `<lopnr>` används när två sammanträden hålls samma dag.
+  `<namn>` används alltid för bilagor och handlingar uppdelade per ärende,
+  och annars bara när platsen redan är upptagen. Reglerna står i ADR-0003.
+- `<namn>` bildas ur källans rubrik eller filnamn: små bokstäver, å och ä
+  blir `a`, ö blir `o`, andra diakritiska tecken tas bort, allt som inte är
+  bokstav eller siffra blir bindestreck, flera bindestreck i rad blir ett,
+  och bindestreck först och sist tas bort. Namnet kortas till högst 80
+  tecken, vid sista bindestrecket om det finns ett. Blir namnet tomt, eller
+  ger två rubriker samma namn, får dokumentet ett löpnummer som namn: `2`,
+  `3`, …
+- Ärendet är ett attribut: `arenden` listar diarienummer, är tom när
+  dokumentet inte rör något ärende och `null` när det inte är känt.
+  Diariet är en källa till mötesdokument, inte till egna dokument.
 
 ## Katalogstruktur
 
@@ -51,8 +67,8 @@ src/kommunhandlingar/
   konvertering/    pdf → md, tabeller, OCR-reserv, kvalitetsmått
   index/
 kommuner/<kommun>.yaml
-data/<kommun>/<organ>/<år>/<datum>/<typ>.md
-data/<kommun>/<organ>/<år>/<datum>/<typ>.tabeller/<n>.csv
+data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
+data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<nr>.csv
 scripts/          verktyg för utvecklingen, t.ex. storlekskontrollen
 tests/fixtures/
 ```
@@ -64,7 +80,12 @@ tests/fixtures/
 kommun: kungsbacka
 organ: ga
 datum: 2025-10-16
+lopnr: null
 typ: protokoll
+namn: null
+kallnyckel: sitevision:18.4ac81f8819a0f459fef1dd70
+tidigare_kallnycklar: []
+arenden: [GA-2024-00194]
 kalla_url: https://…/Protokoll….pdf
 sha256: 3f9a…
 bytes: 812345
