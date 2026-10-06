@@ -57,6 +57,21 @@ kunna läggas till utan kodändring.
 - **Så** finns ändå en `.md` med metadata, kvalitetsnivå per dokument och
   per sida, och status – dokumentet utelämnas aldrig.
 
+- **Givet** en sida utan läsbart textlager
+- **När** dokumentet konverteras
+- **Så** läses sidan med OCR och märks `ocr`. Når OCR inte
+  säkerhetströskeln märks sidan `ej-konverterad`, och ingen text från den
+  skrivs.
+
+- **Givet** en fil som inte går att öppna som PDF – krypterad, trasig
+  eller inte en PDF alls
+- **När** konverteringen försöker
+- **Så** skrivs en `.md` med kvalitet `ej-konverterad` och orsaken i `fel`.
+
+- **Givet** ett dokument där sidorna fått olika kvalitet
+- **När** konverteringen är klar
+- **Så** är dokumentets kvalitet den som den sämsta sidan ger.
+
 - **Givet** ett dokument som upptäckten hittat men som inte gick att hämta
   (till exempel 404, avbruten anslutning eller en kapad Wayback-kopia)
 - **När** försöket är gjort

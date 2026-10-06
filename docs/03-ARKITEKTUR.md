@@ -127,10 +127,10 @@ bytes: 812345
 sidor: 14
 hamtad: 2026-10-06T15:40:12+02:00
 konverterad: 2026-10-06T15:40:31+02:00
-pipeline: kommunhandlingar 0.1 / <verktyg> <version>
+pipeline: kommunhandlingar 0.1.0 / <verktyg> <version>
 kvalitet: full        # full | text-utan-tabeller | ocr | delvis | ej-konverterad | ej-hamtad
-fel: null             # kort orsakskod när något inte gick, t.ex. http-404, avbruten, kapad
-kvalitet_per_sida: [ok, ok, ocr, tabell-osaker, …]
+fel: null             # kort orsakskod när något inte gick, t.ex. http-404, kapad, krypterad
+kvalitet_per_sida: [ok, ok, ocr, tabell-osaker, …]   # ok | tom | tabell-osaker | ocr | ej-konverterad
 ---
 ```
 
@@ -141,3 +141,47 @@ det första försöket som misslyckades med orsaken i `fel` och adressen i
 `kalla_url`. Härkomsten är då
 källänken, källnyckeln och försöket
 ([ADR-0004](decisions/0004-inkrementell-korning-poolen-ar-tillstandet.md)).
+
+### Konvertering och kvalitet
+
+Verktyg och trösklar står i
+[ADR-0005](decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md).
+
+Varje sida får en kvalitet. Den sämsta först:
+
+| Sida             | Betyder                                                          |
+| ---------------- | ---------------------------------------------------------------- |
+| `ej-konverterad` | Sidan gick inte att läsa, eller OCR nådde inte säkerhetströskeln. Ingen text från sidan skrivs. |
+| `ocr`            | Sidan saknade läsbart textlager och lästes med OCR.              |
+| `tabell-osaker`  | Texten är läst, men en tabell på sidan gick inte att läsa säkert (K5). |
+| `ok`             | Textlagret är läst, och sidans tabeller är säkra.                |
+| `tom`            | Sidan har varken text eller bild.                                |
+
+- **Läsbart textlager** betyder att textlagret har minst ett visst antal
+  tecken och att andelen oläsliga tecken (`(cid:…)`, styrtecken, ersättningstecken)
+  ligger under en gräns. Annars renderas sidan och läses med OCR.
+- **En säker tabell** är avgränsad av ritade linjer, så att varje ord
+  hamnar i en cell. En tabell som bara hålls ihop av mellanrum, eller där
+  ord korsar cellgränser, är osäker: den sparas som CSV märkt osäker, och
+  sidan blir `tabell-osaker`. Tabeller på en sida som lästs med OCR är
+  alltid osäkra.
+
+Dokumentets kvalitet följer av sidorna, och den första regeln som stämmer
+gäller:
+
+| Dokument             | När                                                          |
+| -------------------- | ------------------------------------------------------------ |
+| `ej-hamtad`          | Filen gick inte att hämta (ADR-0004).                        |
+| `ej-konverterad`     | Filen gick inte att öppna, eller ingen sida gick att läsa.   |
+| `delvis`             | Någon sida är `ej-konverterad`.                              |
+| `ocr`                | Någon sida är `ocr`.                                         |
+| `text-utan-tabeller` | Någon sida är `tabell-osaker`.                               |
+| `full`               | Alla sidor är `ok` eller `tom`.                              |
+
+När filen inte gick att öppna står orsaken i `fel`: `krypterad`,
+`trasig-pdf` eller `inte-pdf`. `kvalitet_per_sida` är då `null`.
+
+`pipeline` är poolens version ur `pyproject.toml` följd av varje verktyg
+som faktiskt användes på dokumentet, med sin version: OCR-verktyget står
+bara med när någon sida lästes med OCR. Versionen höjs när en ändring i
+konverteringen ändrar vad den skriver.
