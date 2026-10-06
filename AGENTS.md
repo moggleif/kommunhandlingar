@@ -28,8 +28,8 @@ som inte löser ett verkligt problem.
 ## Ren kod – strikt
 
 Små, enkla filer och funktioner. Gränserna är hårda och kontrolleras i CI
-(se `docs/01-BIDRA.md`). Ett undantag skrivs som `# undantag: <skäl>` på
-raden där funktionen eller filen börjar.
+(se `docs/01-BIDRA.md`). Ett undantag kräver ett skäl i koden; hur det
+skrivs står i `docs/01-BIDRA.md`.
 
 | Mått                         | Mål   | Hård gräns |
 | ---------------------------- | ----- | ---------- |

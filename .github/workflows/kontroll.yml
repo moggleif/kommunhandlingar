@@ -17,6 +17,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Inga binärer (ADR-0001)
+        run: "! git ls-files --eol | grep 'i/-text'"
       - run: pip install "ruff==0.16.10"
       - run: ruff check .
       - run: ruff format --check .
