@@ -18,7 +18,7 @@ vägledningen i samma ändring. Tydlighet före fyndighet.
 | ----------------------------------------------- | --------------------------------------- |
 | Vad poolen ska göra (beteenden, G/W/T)          | `docs/02-KRAV.md`                       |
 | Hur den är byggd (flöde, datamodell, format)    | `docs/03-ARKITEKTUR.md`                 |
-| Varför den är byggd så (beslut och diskussion)  | `docs/adr/`                             |
+| Varför den är byggd så (beslut och diskussion)  | `docs/decisions/`                             |
 | Hur man sätter upp, kör och testar              | `docs/01-BIDRA.md` (skapas med koden)   |
 | Hur en viss kommun publicerar                   | `docs/kallor/<kommun>.md`               |
 | En kommuns organ, adresser och filnamnsmönster  | `kommuner/<kommun>.yaml`                |
@@ -35,7 +35,7 @@ står på två ställen är en bugg som väntar på att glida isär.
 - **Adaptrar per publiceringsplattform, inte per kommun.** Kod som läser en
   webbplats eller ett diarium skrivs för plattformen (t.ex. Sitevision,
   Ciceron) och styrs av konfigurationen.
-- **Bara text lagras** (ADR 0001). PDF:en hämtas tillfälligt, konverteras
+- **Bara text lagras** (ADR-0001). PDF:en hämtas tillfälligt, konverteras
   och raderas. Inga PDF:er eller andra binärer checkas in.
 - **Varje textfil bär sin härkomst** i front matter: källänk, originalets
   sha256, tid för hämtning och för konvertering, pipelineversion och
@@ -59,7 +59,7 @@ står på två ställen är en bugg som väntar på att glida isär.
 1. **Förankra det.** Ändringen hör till ett GitHub-issue med
    Given/When/Then-kriterier. Ändras ett beteende uppdateras
    `docs/02-KRAV.md` i samma ändring. Ett arkitekturbeslut får en ny ADR
-   (se `docs/adr/README.md`).
+   (se `docs/decisions/README.md`).
 2. **Testa först.** Skriv det fallerande testet ur issuets kriterier, sedan
    koden. Adaptrar testas mot sparade sidor och små riktiga PDF:er i
    `tests/fixtures/`, utan nät. Försvaga eller ta aldrig bort ett befintligt
@@ -69,11 +69,7 @@ står på två ställen är en bugg som väntar på att glida isär.
 5. **Gren, inte `main`.** Arbeta på en egen gren. Öppna ingen pull request
    om ingen bett om det.
 
-## ADR:er
+## Beslut (ADR)
 
-- Beslut som är svåra att ändra får en ADR, med alternativen och
-  diskussionen bakom – så att nästa person ser *varför*, inte bara *vad*.
-- En rekommendation skriven av en AI-agent märks med vem som skrev den;
-  beslutet fattas av en människa och står under **Beslut**.
-- En accepterad ADR ändras inte. Ett ändrat beslut blir en ny ADR som
-  ersätter den gamla, och de länkar till varandra.
+Beslut som är svåra att ändra skrivs som ADR enligt MADR, med alternativen
+och diskussionen bakom. Reglerna står i `docs/decisions/README.md`.

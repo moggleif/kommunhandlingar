@@ -2,7 +2,7 @@
 
 Det här beskriver hur poolen är tänkt att byggas. Inget av det är kod än;
 när koden kommer är det koden som gäller och dokumentet rättas efter den.
-*Varför* står i [docs/adr/](adr/).
+*Varför* står i [docs/decisions/](decisions/).
 
 ## Flödet
 

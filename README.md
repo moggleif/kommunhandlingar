@@ -13,14 +13,14 @@ står i en konfigurationsfil per kommun.
 PDF:en hämtas tillfälligt, konverteras och raderas. Kvar blir texten, och
 överst i varje Markdown-fil står varifrån den kom, när den hämtades och
 konverterades, originalets sha256 och hur väl konverteringen lyckades.
-Bakgrunden står i [ADR-0001](docs/adr/0001-var-datapoolen-ska-bo.md).
+Bakgrunden står i [ADR-0001](docs/decisions/0001-ett-repo-bara-text.md).
 
 ## Dokumentation
 
 - [AGENTS.md](AGENTS.md) – regler för alla som arbetar i repot, människa som AI
 - [docs/02-KRAV.md](docs/02-KRAV.md) – vad poolen ska göra
 - [docs/03-ARKITEKTUR.md](docs/03-ARKITEKTUR.md) – hur den byggs
-- [docs/adr/](docs/adr/) – arkitekturbeslut, med diskussionen bakom
+- [docs/decisions/](docs/decisions/) – arkitekturbeslut, med diskussionen bakom
 - [docs/kallor/kungsbacka.md](docs/kallor/kungsbacka.md) – hur Kungsbacka
   publicerar sina handlingar, och vad som återstår att verifiera
 ## Vad som återanvänds från politik-repot
