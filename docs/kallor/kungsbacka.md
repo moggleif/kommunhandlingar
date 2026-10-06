@@ -38,6 +38,9 @@
   serverside; i så fall räcker HTML-tolkning).
 - Om sidan exponerar ett `sitemap.xml` som täcker `/download/`-noderna.
 - Om Sitevisions REST-API (`/rest-api/…`) är öppet – det är det sällan.
+- Att en utbytt fil **alltid** får ny tidsstämpel i adressen. Den
+  inkrementella körningen bygger på det
+  ([ADR-0004](../decisions/0004-inkrementell-korning-poolen-ar-tillstandet.md)).
 
 ## 2. Kommunens webbplats – äldre plattform (Episerver), bara via Wayback
 

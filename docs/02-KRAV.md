@@ -57,11 +57,17 @@ kunna läggas till utan kodändring.
 - **Så** finns ändå en `.md` med metadata, kvalitetsnivå per dokument och
   per sida, och status – dokumentet utelämnas aldrig.
 
-- **Givet** ett dokument som upptäckten hittat men som inte gick att hämta
-  (till exempel 404, avbruten anslutning eller en kapad Wayback-kopia)
+- **Givet** ett dokument som upptäckten hittat, som inte redan finns i
+  poolen och som inte gick att hämta (till exempel 404, avbruten anslutning
+  eller en kapad Wayback-kopia)
 - **När** försöket är gjort
 - **Så** finns en `.md` med metadata, kvalitet `ej-hamtad`, tid för försöket
   och orsaken, och nästa körning försöker igen.
+
+- **Givet** ett dokument som redan finns i poolen och en ny adress för det
+  som inte gick att hämta
+- **När** försöket är gjort
+- **Så** lämnas dokumentets `.md` orörd, och nästa körning försöker igen.
 
 ## K7 — Luckor redovisas
 
@@ -71,8 +77,9 @@ kunna läggas till utan kodändring.
 
 ## K8 — Körningen är inkrementell och kan avbrytas
 
-- **Givet** att en källnyckel redan finns i poolen, i `kallnyckel` eller
-  `tidigare_kallnycklar`, med samma `kalla_url` som upptäckten anger
+- **Givet** att en källnyckel redan finns i poolen som ett dokuments
+  `kallnyckel`, med samma `kalla_url` som upptäckten anger och utan
+  kvalitet `ej-hamtad`
 - **När** en ny körning startas
 - **Så** hämtas filen inte, och dokumentets `.md` lämnas orörd.
 
