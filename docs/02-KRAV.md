@@ -72,9 +72,13 @@ kunna läggas till utan kodändring.
 
 ## K9 — Ändrade dokument blir nya versioner
 
-- **Givet** att kommunen byter ut en fil som redan finns i poolen
+- **Givet** att kommunen byter ut en fil som redan finns i poolen, under ny
+  adress eller nytt filnamn men med samma källnyckel
 - **När** nästa körning hittar den nya filen
-- **Så** konverteras den nya versionen, och git-historiken visar vad som ändrats.
+- **Så** konverteras den nya versionen och skrivs över den gamla på samma
+  sökväg, och git-historiken visar vad som ändrats.
+- **Givet** att filen har samma sha256 som den som redan finns
+- **Så** ändras ingenting.
 
 ## K10 — Hämtningen är artig
 

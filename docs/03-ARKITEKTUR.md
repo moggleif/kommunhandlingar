@@ -29,18 +29,21 @@ bara det som är nytt eller ändrat.
 
 ```
 Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
-            └── Sammanträde (datum)
+            └── Sammanträde (datum, löpnummer om flera samma dag)
                   └── Dokument (kallelse | handlingar | protokoll | bilaga)
+                        │   namn, källnyckel, ärenden (diarienummer)
                         └── Version (sha256, hämtad, källa)
 ```
 
 - Organ är data, inte kod: de byter namn och slås ihop.
-- **Öppen fråga – identitet.** Vad som identifierar ett dokument och en
-  version är inte bestämt. Organ, datum och typ räcker inte: ett möte kan ha
-  flera bilagor, äldre handlingar och diariet är ordnade per ärende
-  (diarienummer), och Sitevision ger en ny adress när en fil byts ut under
-  samma nod-id. Det avgörs i en ADR innan den första koden skrivs, och
-  sökvägarna nedan följer det beslutet.
+- **Identitet** ([ADR-0003](decisions/0003-dokumentets-identitet-och-datamodell.md)).
+  Ett dokument identifieras av sin plats i modellen – organ, datum,
+  löpnummer, typ och namn – och känns igen på adapterns källnyckel
+  (Sitevisions nod-id, Episervers adress) när adressen eller filnamnet
+  ändras. En ny sha256 är en ny version och skriver över filen;
+  git-historiken är versionshistoriken.
+- Ärendet är ett attribut: diarienummer listas i front matter när de är
+  kända. Diariet är en källa till mötesdokument, inte till egna dokument.
 
 ## Katalogstruktur
 
@@ -51,8 +54,8 @@ src/kommunhandlingar/
   konvertering/    pdf → md, tabeller, OCR-reserv, kvalitetsmått
   index/
 kommuner/<kommun>.yaml
-data/<kommun>/<organ>/<år>/<datum>/<typ>.md
-data/<kommun>/<organ>/<år>/<datum>/<typ>.tabeller/<n>.csv
+data/<kommun>/<organ>/<år>/<datum>[-<n>]/<typ>[-<namn>].md
+data/<kommun>/<organ>/<år>/<datum>[-<n>]/<typ>[-<namn>].tabeller/<n>.csv
 scripts/          verktyg för utvecklingen, t.ex. storlekskontrollen
 tests/fixtures/
 ```
@@ -65,6 +68,8 @@ kommun: kungsbacka
 organ: ga
 datum: 2025-10-16
 typ: protokoll
+kallnyckel: sitevision:18.4ac81f8819a0f459fef1dd70
+arenden: [GA-2024-00194]
 kalla_url: https://…/Protokoll….pdf
 sha256: 3f9a…
 bytes: 812345
