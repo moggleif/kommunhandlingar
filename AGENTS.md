@@ -74,7 +74,8 @@ Skriv aldrig om ett annat dokuments fakta – länka till dem.
   kodändring är abstraktionen fel.
 - **Adaptrar per publiceringsplattform, inte per kommun.**
 - **Bara text lagras** (ADR-0001). PDF:en hämtas tillfälligt, konverteras och
-  raderas. Inga binärer checkas in.
+  raderas. Inga binärer checkas in, utom små testfixturer under
+  `tests/fixtures/` (högst 1 MB per fil).
 - **Varje textfil bär sin härkomst**: källänk, sha256, tid för hämtning och
   konvertering, pipelineversion och kvalitet.
 - **Tomt är inte noll.** Det som inte gick att konvertera, eller som saknas,
@@ -103,8 +104,9 @@ en gång.
   det färdiga arbetet; båda väntar på en människas bekräftelse. Mellan dem
   körs faserna utan avstämningar.
 - **Fas 6 görs av någon annan än den som skrev ändringen** – i praktiken
-  granskningsagenten, som börjar utan sammanhang. Hittar den något går
-  arbetet tillbaka till fas 5.
+  granskningsagenten, som börjar utan sammanhang. Ett **blockerande** fynd
+  skickar arbetet tillbaka till fas 5. Övriga fynd rättas eller avvisas med
+  ett skäl, eller blir issues. Fas 5 och 6 redovisas i PR-texten.
 - **Committa efter varje fas** som ger ett stabilt resultat.
 - **Gren, inte `main`.**
 

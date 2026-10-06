@@ -64,7 +64,9 @@ fil i stället för med lagrade original.
 
 ### Confirmation
 
-* Inga PDF:er eller andra binärer i repot – kontrolleras i CI.
+* Inga PDF:er eller andra binärer i repot – kontrolleras i CI. Små
+  testfixturer under `tests/fixtures/` är undantagna (förtydligat
+  2026-10-06, se AGENTS.md); de är testdata, inte poolens data.
 * Varje `.md` under `data/` har front matter med källänk, sha256, tider för
   hämtning och konvertering, pipelineversion och kvalitet – kontrolleras i CI.
 

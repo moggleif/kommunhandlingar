@@ -34,5 +34,12 @@ undersökte, och vad du fann. "Inget hittat" gäller bara om du säger vad du
 tittade på och varför det håller. Att bara hitta en liten sak efter en större
 ändring är ett tecken på att granskningen var för ytlig – gräv djupare.
 
-Svara med en lista per perspektiv: vad som undersöktes, fynd (med fil och
-rad), och hur allvarligt varje fynd är.
+Svara med en lista per perspektiv: vad som undersöktes och fynd med fil och
+rad. Ge varje fynd en av tre nivåer:
+
+- **Blockerande** – fel, motsägelse eller brott mot en regel; skickar
+  arbetet tillbaka till fas 5.
+- **Bör** – rättas i ändringen eller blir ett issue.
+- **Kan vänta** – noteras.
+
+Avsluta med fynden sorterade per nivå.

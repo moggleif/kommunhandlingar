@@ -1,7 +1,7 @@
 # Krav (beteenden)
 
 Kraven beskriver hur det färdiga systemet fungerar, som Given/When/Then.
-Varje krav motsvaras av ett eller flera GitHub-issues.
+Varje krav får ett GitHub-issue när arbetet på det börjar.
 
 ## Syfte
 
@@ -72,8 +72,8 @@ kunna läggas till utan kodändring.
 
 ## K9 — Ändrade dokument blir nya versioner
 
-- **Givet** att kommunen byter ut en fil under samma adress
-- **När** nästa körning hittar ett nytt sha256
+- **Givet** att kommunen byter ut en fil som redan finns i poolen
+- **När** nästa körning hittar den nya filen
 - **Så** konverteras den nya versionen, och git-historiken visar vad som ändrats.
 
 ## K10 — Hämtningen är artig

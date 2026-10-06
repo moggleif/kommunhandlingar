@@ -17,8 +17,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Inga binärer (ADR-0001)
-        run: "! git ls-files --eol | grep 'i/-text'"
+      - name: Inga binärer utom små testfixturer (AGENTS.md)
+        run: |
+          if git ls-files --eol | grep 'i/-text' | grep -v $'\ttests/fixtures/'; then exit 1; fi
+          if find tests/fixtures -type f -size +1M 2>/dev/null | grep .; then exit 1; fi
       - run: pip install "ruff==0.16.10"
       - run: ruff check .
       - run: ruff format --check .

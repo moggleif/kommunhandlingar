@@ -7,8 +7,8 @@ description: Fas 7–8 i kommunhandlingar. Använd när fas 5 och granskningen �
 
 ## Fas 7 – Kontrollpunkt och pull request
 
-1. Kontrollera att utdata från fas 5 och granskningens fynd per perspektiv
-   finns. Annars är de faserna inte klara.
+1. Kontrollera att utdata från fas 5 och granskningens fynd finns, och att
+   inget blockerande fynd är kvar. Sammanfatta båda i PR-texten.
 2. Presentera det färdiga arbetet och **vänta på bekräftelse**.
 3. Uppdatera grenen mot senaste `main`, kör all verifiering igen.
 4. Öppna en PR: kort rubrik i imperativ (under 70 tecken), punktlista med

@@ -2,10 +2,9 @@
 
 > Sammanställt 2026-10-06 ur anteckningarna i `moggleif/politik`
 > (`data/KALLOR.md`, `scripts/hamta_fullmaktige.py`, `scripts/extrahera_utbud.py`)
-> och de faktiska adresser repot redan hämtat från. **Kommunens servrar gick inte
-> att nå från molnmiljön** (nätverkspolicyn nekar kungsbacka.se, ciceronsok,
-> arkiv och web.archive.org), så allt nedan märkt *att verifiera* ska kontrolleras
-> live innan adaptrarna skrivs. Se issue om källkartläggning.
+> och de faktiska adresser repot redan hämtat från. Allt märkt *att verifiera*
+> är inte kontrollerat mot den levande webbplatsen och ska kontrolleras innan
+> adaptrarna skrivs.
 
 ## 1. Kommunens webbplats – nuvarande plattform (Sitevision)
 
@@ -19,8 +18,8 @@
   - Exempel: `…/download/18.4ac81f8819a0f459fef1dd70/1761285111298/Protokoll för nämnden för Gymnasium & Arbetsmarknad  2025-10-16.pdf`
   - Exempel: `…/download/18.5689acbf1a086271040226f9/1789034138535/Handlingar för möte Nämnden för Gymnasium & Arbetsmarknad den 2026-09-17.pdf`
 - **Samma nod-id kan få ny tidsstämpel** när filen byts ut
-  (befolkningsprognosen 2025: `…/1756727320521/` och `…/1782303262032/`). Nod-id är
-  alltså dokumentets identitet, tidsstämpeln dess version. Det avgör hur versioner av samma dokument känns igen.
+  (befolkningsprognosen 2025: `…/1756727320521/` och `…/1782303262032/`). Hur det
+  påverkar ett dokuments identitet är en öppen fråga i `docs/03-ARKITEKTUR.md`.
 - Filnamnen bär organ och datum i klartext: "Protokoll för …", "Handlingar
   för/till möte … den ÅÅÅÅ-MM-DD", och (enligt KALLOR.md) en separat kallelse.
 - **Handlingarna är en sammanslagen PDF per möte**, 3–33 MB för en nämnd.

@@ -35,8 +35,12 @@ Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
 ```
 
 - Organ är data, inte kod: de byter namn och slås ihop.
-- Ett dokument identifieras av organ, datum och typ; en version av sitt
-  sha256. Samma fil hittad i flera källor är en version med flera källor.
+- **Öppen fråga – identitet.** Vad som identifierar ett dokument och en
+  version är inte bestämt. Organ, datum och typ räcker inte: ett möte kan ha
+  flera bilagor, äldre handlingar och diariet är ordnade per ärende
+  (diarienummer), och Sitevision ger en ny adress när en fil byts ut under
+  samma nod-id. Det avgörs i en ADR innan den första koden skrivs, och
+  sökvägarna nedan följer det beslutet.
 
 ## Katalogstruktur
 
