@@ -10,21 +10,56 @@ när koden kommer är det koden som gäller och dokumentet rättas efter den.
 kommuner/<kommun>.yaml
         │
         ▼
-1. upptäck   adaptrar per plattform  →  kandidater: organ, datum, typ, URL,
+1. upptäck   adaptrar per plattform  →  kandidatlista: organ, datum, typ, URL,
                                          källa, källnyckel
         │
         ▼
-2. hämta     artig HTTP-klient        →  PDF i en temporär katalog
+2. hämta och konvertera, ett dokument i taget
+             jämför med front matter →  hoppa över, eller:
+             artig HTTP-klient        →  PDF i en temporär fil utanför repot
+             konvertering             →  .md + tabeller som .csv, PDF:en raderas
         │
         ▼
-3. konvertera                          →  .md + tabeller som .csv, PDF:en raderas
-        │
-        ▼
-4. indexera                            →  index över alla dokument, luckor och versioner
+3. indexera                            →  index över alla dokument, luckor och versioner
 ```
 
-Varje steg är ett eget kommando, läser bara föregående stegs utdata och gör
-bara det som är nytt eller ändrat.
+Varje steg är ett eget kommando. Steg 1 och 3 läser bara föregående stegs
+utdata; steg 2 läser kandidatlistan och dessutom poolens front matter, som
+är tillståndet. Kandidatlistan skrivs till en arbetskatalog utanför repot
+och tas fram på nytt vid varje körning.
+
+### Inkrementell körning
+
+Hur och varför står i
+[ADR-0004](decisions/0004-inkrementell-korning-poolen-ar-tillstandet.md).
+
+- **Poolen är tillståndet.** Det finns ingen separat tillståndsfil. Steg 2
+  läser front matter i `data/<kommun>/` och slår upp varje kandidat på
+  `kallnyckel` och `tidigare_kallnycklar`.
+- **Adressen är signalen.** Vilka kandidater som hämtas står i K8. Adressen
+  jämförs som sträng; adaptern ger alltid samma form av samma adress.
+- **Upptäckten ger högst en kandidat per källnyckel.** Finns filen på flera
+  adresser väljer adaptern den som gäller, annars skulle körningarna
+  turas om att hämta varandras adresser. Valet är stabilt: en ny kopia av
+  oförändrat innehåll, till exempel en ny ögonblicksbild i Internet
+  Archive, ger inte en ny kandidat. Hur Wayback-adaptern väljer avgörs när
+  den skrivs.
+- **PDF:en finns bara medan dokumentet behandlas.** Den hämtas till en
+  temporär fil utanför repot och raderas när dokumentet är konverterat,
+  även om konverteringen misslyckas.
+- **Tabellerna först, `.md` sist.** Tabellkatalogen ersätts som helhet, så
+  att inga tabeller från en äldre version blir kvar. Sedan skrivs `.md`
+  till en temporär fil i samma katalog, med ett namn som inte slutar på
+  `.md`, som byter namn till den rätta. Avbryts körningen
+  emellan står nya tabeller bredvid den gamla `.md`; dess `kalla_url` är
+  då fortfarande den gamla, så nästa körning gör om dokumentet. Att bara
+  checka in färdiga körningar hör till issue #5.
+- **Ett misslyckat hämtningsförsök** skriver aldrig över en fullständig
+  `.md`. Har dokumentet ingen ger försöket en `.md` med kvalitet
+  `ej-hamtad`, försökets tid i `hamtad` och orsaken i `fel` (K6); den bär
+  också dokumentets plats. Den filen skrivs om bara när `fel` eller
+  `kalla_url` ändras, så att en körning utan ändringar inte ger några
+  diffar.
 
 ## Datamodell
 
@@ -93,7 +128,16 @@ sidor: 14
 hamtad: 2026-10-06T15:40:12+02:00
 konverterad: 2026-10-06T15:40:31+02:00
 pipeline: kommunhandlingar 0.1 / <verktyg> <version>
-kvalitet: full        # full | text-utan-tabeller | ocr | delvis | ej-konverterad
+kvalitet: full        # full | text-utan-tabeller | ocr | delvis | ej-konverterad | ej-hamtad
+fel: null             # kort orsakskod när något inte gick, t.ex. http-404, avbruten, kapad
 kvalitet_per_sida: [ok, ok, ocr, tabell-osaker, …]
 ---
 ```
+
+`kvalitet` och `fel` är tillsammans dokumentets status (K6). När kvalitet
+är `ej-hamtad` finns inget original: `sha256`, `bytes`, `sidor`,
+`konverterad` och `kvalitet_per_sida` är `null`, och `hamtad` är tiden för
+det första försöket som misslyckades med orsaken i `fel` och adressen i
+`kalla_url`. Härkomsten är då
+källänken, källnyckeln och försöket
+([ADR-0004](decisions/0004-inkrementell-korning-poolen-ar-tillstandet.md)).

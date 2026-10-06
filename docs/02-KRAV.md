@@ -50,12 +50,21 @@ kunna läggas till utan kodändring.
 - **Givet** en tabell som inte går att läsa säkert
 - **Så** märks den som osäker i stället för att sparas som om den vore riktig.
 
-## K6 — Det som inte gick att konvertera syns
+## K6 — Det som inte gick att hämta eller konvertera syns
 
 - **Givet** ett dokument som inte gick att konvertera, helt eller delvis
 - **När** konverteringen är klar
 - **Så** finns ändå en `.md` med metadata, kvalitetsnivå per dokument och
   per sida, och status – dokumentet utelämnas aldrig.
+
+- **Givet** ett dokument som upptäckten hittat men som inte gick att hämta
+  (till exempel 404, avbruten anslutning eller en kapad Wayback-kopia)
+- **När** försöket är gjort
+- **Så** skrivs en `.md` med metadata, kvalitet `ej-hamtad`, tid för
+  försöket och orsaken – om dokumentet inte redan har en fullständig
+  `.md`. En fullständig `.md` lämnas orörd. Nästa körning försöker igen;
+  misslyckas den med samma orsak och samma adress ändras ingenting, annars
+  skrivs `ej-hamtad`-filen om.
 
 ## K7 — Luckor redovisas
 
@@ -65,19 +74,49 @@ kunna läggas till utan kodändring.
 
 ## K8 — Körningen är inkrementell och kan avbrytas
 
-- **Givet** att poolen redan innehåller tidigare körningar
+- **Givet** att en källnyckel redan finns i poolen som ett dokuments
+  `kallnyckel`, med samma `kalla_url` som upptäckten anger och utan
+  kvalitet `ej-hamtad`
 - **När** en ny körning startas
-- **Så** hämtas och konverteras bara dokument som är nya eller har ändrats,
-  och en avbruten körning fortsätter där den slutade.
+- **Så** hämtas filen inte, och dokumentets `.md` lämnas orörd.
+
+- **Givet** att en källnyckel finns i ett dokuments `tidigare_kallnycklar`
+- **När** en ny körning hittar den
+- **Så** känns den igen som samma dokument, hämtas inte, och ersätter inte
+  den nyare källnyckeln.
+
+- **Givet** en kandidat som är en kopia från en ögonblicksbild tagen före
+  versionen som står i poolen för samma källnyckel – före ögonblicksbilden
+  i `kalla_url` när den är en arkivkopia, annars före `hamtad` – och
+  dokumentet inte har kvalitet `ej-hamtad`
+- **När** en ny körning hittar den
+- **Så** hämtas den inte; en äldre kopia ersätter aldrig en nyare version.
+
+- **Givet** en källnyckel som inte finns i poolen, eller en ny `kalla_url`
+  för en källnyckel som finns, eller ett dokument med kvalitet `ej-hamtad`
+- **När** körningen når det
+- **Så** hämtas och konverteras filen. Ett nytt dokument skrivs enligt K4
+  och K6, en ny adress för ett befintligt dokument enligt K9, och ett
+  dokument med `ej-hamtad` som nu går att hämta skrivs som en fullständig
+  `.md` på samma sökväg.
+
+- **Givet** att en körning avbryts mitt i
+- **När** nästa körning startas
+- **Så** finns ingen PDF i repot och ingen halvskriven `.md`, och nästa
+  körning gör färdigt det som återstår.
 
 ## K9 — Ändrade dokument blir nya versioner
 
-- **Givet** att kommunen byter ut en fil som redan finns i poolen – under
-  samma adress, eller under ny adress eller nytt filnamn med samma
-  källnyckel
+- **Givet** att kommunen byter ut en fil som redan finns i poolen, under
+  ny adress eller nytt filnamn med samma källnyckel
 - **När** nästa körning hittar den nya filen
 - **Så** konverteras den nya versionen och skrivs över den gamla på samma
   sökväg, och git-historiken visar vad som ändrats.
+
+- **Givet** att den nya versionen inte går att konvertera
+- **När** konverteringen är klar
+- **Så** skrivs den ändå över den gamla, med ny `kalla_url`, ny sha256 och
+  kvaliteten den fick (K6), och git-historiken behåller den gamla texten.
 
 - **Givet** att filen under en ny adress har samma källnyckel och samma
   sha256 som den som redan finns

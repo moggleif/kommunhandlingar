@@ -77,7 +77,8 @@ Skriv aldrig om ett annat dokuments fakta – länka till dem.
   raderas. Inga binärer checkas in, utom små testfixturer under
   `tests/fixtures/` (högst 1 MB per fil).
 - **Varje textfil bär sin härkomst**: källänk, sha256, tid för hämtning och
-  konvertering, pipelineversion och kvalitet.
+  konvertering, pipelineversion och kvalitet. Ett dokument som inte gick att
+  hämta bär källänk, tid för försöket och orsaken (ADR-0004).
 - **Tomt är inte noll.** Det som inte gick att konvertera, eller som saknas,
   registreras som det – ingenting utelämnas tyst.
 - **Hellre märka än gissa.** Osäkra tabeller och sidor märks som osäkra.
