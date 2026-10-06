@@ -50,12 +50,18 @@ kunna läggas till utan kodändring.
 - **Givet** en tabell som inte går att läsa säkert
 - **Så** märks den som osäker i stället för att sparas som om den vore riktig.
 
-## K6 — Det som inte gick att konvertera syns
+## K6 — Det som inte gick att hämta eller konvertera syns
 
 - **Givet** ett dokument som inte gick att konvertera, helt eller delvis
 - **När** konverteringen är klar
 - **Så** finns ändå en `.md` med metadata, kvalitetsnivå per dokument och
   per sida, och status – dokumentet utelämnas aldrig.
+
+- **Givet** ett dokument som upptäckten hittat men som inte gick att hämta
+  (till exempel 404, avbruten anslutning eller en kapad Wayback-kopia)
+- **När** försöket är gjort
+- **Så** finns en `.md` med metadata, kvalitet `ej-hamtad`, tid för försöket
+  och orsaken, och nästa körning försöker igen.
 
 ## K7 — Luckor redovisas
 
@@ -65,16 +71,25 @@ kunna läggas till utan kodändring.
 
 ## K8 — Körningen är inkrementell och kan avbrytas
 
-- **Givet** att poolen redan innehåller tidigare körningar
+- **Givet** att en källnyckel redan finns i poolen, i `kallnyckel` eller
+  `tidigare_kallnycklar`, med samma `kalla_url` som upptäckten anger
 - **När** en ny körning startas
-- **Så** hämtas och konverteras bara dokument som är nya eller har ändrats,
-  och en avbruten körning fortsätter där den slutade.
+- **Så** hämtas filen inte, och dokumentets `.md` lämnas orörd.
+
+- **Givet** en källnyckel som inte finns i poolen, eller som finns med en
+  annan `kalla_url`, eller ett dokument med kvalitet `ej-hamtad`
+- **När** körningen når det
+- **Så** hämtas och konverteras filen, och K9 avgör vad som skrivs.
+
+- **Givet** att en körning avbryts mitt i
+- **När** nästa körning startas
+- **Så** har varje dokument antingen en färdig `.md` eller ingen ny alls,
+  ingen PDF ligger kvar i repot, och bara det som återstår hämtas.
 
 ## K9 — Ändrade dokument blir nya versioner
 
-- **Givet** att kommunen byter ut en fil som redan finns i poolen – under
-  samma adress, eller under ny adress eller nytt filnamn med samma
-  källnyckel
+- **Givet** att kommunen byter ut en fil som redan finns i poolen, under
+  ny adress eller nytt filnamn med samma källnyckel
 - **När** nästa körning hittar den nya filen
 - **Så** konverteras den nya versionen och skrivs över den gamla på samma
   sökväg, och git-historiken visar vad som ändrats.
