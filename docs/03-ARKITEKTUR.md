@@ -23,9 +23,10 @@ kommuner/<kommun>.yaml
 3. indexera                            →  index över alla dokument, luckor och versioner
 ```
 
-Varje steg är ett eget kommando och läser bara föregående stegs utdata.
-Kandidatlistan är en arbetsfil som inte checkas in; den går att ta fram
-igen genom att köra upptäckten.
+Varje steg är ett eget kommando. Steg 1 och 3 läser bara föregående stegs
+utdata; steg 2 läser kandidatlistan och dessutom poolens front matter, som
+är tillståndet. Kandidatlistan skrivs till en arbetskatalog utanför repot
+och tas fram på nytt vid varje körning.
 
 ### Inkrementell körning
 
@@ -34,26 +35,26 @@ Hur och varför står i
 
 - **Poolen är tillståndet.** Det finns ingen separat tillståndsfil. Steg 2
   läser front matter i `data/<kommun>/` och slår upp varje kandidat på
-  `kallnyckel`.
-- **Adressen är signalen.** Samma källnyckel med samma `kalla_url` hämtas
-  inte. En ny källnyckel, en ny adress eller kvalitet `ej-hamtad` hämtas,
-  och sha256 avgör sedan enligt ADR-0003 om det är en ny version eller bara
-  en ny adress.
+  `kallnyckel` och `tidigare_kallnycklar`.
+- **Adressen är signalen.** Vilka kandidater som hämtas står i K8. Adressen
+  jämförs som sträng; adaptern ger alltid samma form av samma adress.
 - **Upptäckten ger högst en kandidat per källnyckel.** Finns filen på flera
   adresser väljer adaptern den som gäller, annars skulle körningarna
   turas om att hämta varandras adresser.
-- **PDF:en finns bara under ett dokument.** Den hämtas till en temporär fil
-  utanför repot och raderas när dokumentet är konverterat, även om
-  konverteringen misslyckas.
-- **`.md` skrivs sist,** till en temporär fil som sedan byter namn till den
-  rätta, så att en avbruten körning aldrig lämnar en halvskriven `.md`.
-  Tabellerna skrivs före. Den som avbryts kör om; det som redan är skrivet
-  hoppas över.
-- **Ett misslyckat hämtningsförsök** för ett dokument som inte finns i
-  poolen ger en `.md` med kvalitet `ej-hamtad`, försökets tid i `hamtad`
-  och orsaken i `fel` (K6); den bär också dokumentets plats. Gäller
-  försöket en ny adress för ett dokument som redan finns, lämnas dess `.md`
-  orörd. I båda fallen försöker nästa körning igen.
+- **PDF:en finns bara medan dokumentet behandlas.** Den hämtas till en
+  temporär fil utanför repot och raderas när dokumentet är konverterat,
+  även om konverteringen misslyckas.
+- **Tabellerna först, `.md` sist.** Tabellkatalogen ersätts som helhet, så
+  att inga tabeller från en äldre version blir kvar. Sedan skrivs `.md`
+  till en temporär fil som byter namn till den rätta. Avbryts körningen
+  emellan står nya tabeller bredvid den gamla `.md`; dess `kalla_url` är
+  då fortfarande den gamla, så nästa körning gör om dokumentet. Att bara
+  checka in färdiga körningar hör till issue #5.
+- **Ett misslyckat hämtningsförsök** skriver aldrig över en befintlig
+  `.md`. Har dokumentet ingen ger försöket en `.md` med kvalitet
+  `ej-hamtad`, försökets tid i `hamtad` och orsaken i `fel` (K6); den bär
+  också dokumentets plats. Misslyckas nästa försök av samma orsak skrivs
+  ingenting, så att en körning utan ändringar inte ger några diffar.
 
 ## Datamodell
 
@@ -123,11 +124,14 @@ hamtad: 2026-10-06T15:40:12+02:00
 konverterad: 2026-10-06T15:40:31+02:00
 pipeline: kommunhandlingar 0.1 / <verktyg> <version>
 kvalitet: full        # full | text-utan-tabeller | ocr | delvis | ej-konverterad | ej-hamtad
-fel: null             # orsaken när kvalitet är ej-hamtad eller ej-konverterad
+fel: null             # orsaken när något inte gick: ej-hamtad, ej-konverterad, delvis
 kvalitet_per_sida: [ok, ok, ocr, tabell-osaker, …]
 ---
 ```
 
-När kvalitet är `ej-hamtad` finns inget original: `sha256`, `bytes`,
-`sidor`, `konverterad` och `kvalitet_per_sida` är `null`, och `hamtad` är
-tiden för försöket.
+`kvalitet` och `fel` är tillsammans dokumentets status (K6). När kvalitet
+är `ej-hamtad` finns inget original: `sha256`, `bytes`, `sidor`,
+`konverterad` och `kvalitet_per_sida` är `null`, och `hamtad` är tiden för
+det första försöket som misslyckades av orsaken i `fel`. Härkomsten är då
+källänken, källnyckeln och försöket
+([ADR-0004](decisions/0004-inkrementell-korning-poolen-ar-tillstandet.md)).
