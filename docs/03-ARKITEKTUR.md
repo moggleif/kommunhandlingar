@@ -44,14 +44,16 @@ Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
   ändras. En ny sha256 är en ny version och skriver över filen;
   git-historiken är versionshistoriken.
 - Platsen bestäms första gången källnyckeln hittas och följer sedan
-  källnyckeln. `<lopnr>` och `<namn>` används bara när platsen annars
-  skulle vara upptagen; reglerna står i ADR-0003.
+  källnyckeln. `<lopnr>` används när två sammanträden hålls samma dag.
+  `<namn>` används alltid för bilagor och handlingar uppdelade per ärende,
+  och annars bara när platsen redan är upptagen. Reglerna står i ADR-0003.
 - `<namn>` bildas ur källans rubrik eller filnamn: små bokstäver, å och ä
   blir `a`, ö blir `o`, andra diakritiska tecken tas bort, allt som inte är
   bokstav eller siffra blir bindestreck, flera bindestreck i rad blir ett,
   och bindestreck först och sist tas bort. Namnet kortas till högst 80
-  tecken vid ett bindestreck. Ger två rubriker samma namn får det senare
-  `-2`.
+  tecken, vid sista bindestrecket om det finns ett. Blir namnet tomt, eller
+  ger två rubriker samma namn, får dokumentet ett löpnummer som namn: `2`,
+  `3`, …
 - Ärendet är ett attribut: `arenden` listar diarienummer, är tom när
   dokumentet inte rör något ärende och `null` när det inte är känt.
   Diariet är en källa till mötesdokument, inte till egna dokument.
@@ -82,6 +84,7 @@ lopnr: null
 typ: protokoll
 namn: null
 kallnyckel: sitevision:18.4ac81f8819a0f459fef1dd70
+tidigare_kallnycklar: []
 arenden: [GA-2024-00194]
 kalla_url: https://…/Protokoll….pdf
 sha256: 3f9a…

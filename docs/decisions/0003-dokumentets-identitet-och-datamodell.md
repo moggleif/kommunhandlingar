@@ -61,22 +61,26 @@ Beslutet i detalj:
   skrivs i front matter och ändras inte därefter. Hittas samma källnyckel
   igen är det samma dokument på samma sökväg, även om adressen, filnamnet
   eller rubriken har ändrats.
-* **Sammanträdet** är kommun, organ och datum. Hålls två sammanträden
-  samma dag får det som kommer senare i källans lista ett löpnummer:
-  `<datum>-2`.
-* **Namnet** behövs när en plats redan är upptagen: bilagor och
-  handlingar uppdelade per ärende har alltid ett namn, och ett dokument
-  som kommer till en upptagen plats får ett namn ur källans rubrik eller
-  filnamn. Det första dokumentet behåller sin plats utan namn.
+* **Sammanträdet** är kommun, organ och datum. Att två sammanträden hålls
+  samma dag avgör adaptern ur källan (klockslag eller separata poster);
+  det sammanträde som placeras senare får ett löpnummer: `<datum>-2`.
+* **Namnet** bildas ur källans rubrik eller filnamn. Bilagor och
+  handlingar uppdelade per ärende har alltid ett namn. Övriga dokument får
+  ett namn bara när platsen redan är upptagen; det första behåller sin
+  plats utan namn.
 * **En ny källnyckel på en upptagen plats** är en ny version av det
-  dokument som står där om den gamla källnyckeln inte längre finns i
-  källan – så blir ett justerat protokoll som publiceras som en ny nod en
-  ny version av det ojusterade. Finns båda kvar i källan är det två
-  dokument, och det nya får ett namn.
+  dokument som står där om den gamla källnyckeln inte längre finns i den
+  lista som läses (den levande sidan eller den ögonblicksbild som läses) –
+  så blir ett justerat protokoll som publiceras som en ny nod en ny
+  version av det ojusterade. `kallnyckel` får den nya nyckeln och den
+  gamla flyttas till `tidigare_kallnycklar`, så att den känns igen om den
+  dyker upp igen. Finns båda kvar i listan är det två dokument, och det
+  nya får ett namn.
 * **Versionen** är originalets sha256. En ny sha256 för samma dokument
   skrivs över den gamla filen; git-historiken är versionshistoriken. En
-  kopia från en äldre ögonblicksbild ersätter aldrig en nyare version.
-  Samma sha256 under ny adress ändrar bara `kalla_url`.
+  kopia från en äldre ögonblicksbild ersätter aldrig en nyare version;
+  ögonblicksbildens tid står i Wayback-adressen i `kalla_url`. Samma
+  sha256 under ny adress och samma källnyckel ändrar bara `kalla_url`.
 * **Ärendet** är ett attribut, inte en nivå i sökvägen: `arenden` i front
   matter listar diarienumren, är tom när dokumentet inte rör något ärende
   och `null` när det inte är känt.
@@ -119,11 +123,12 @@ När koden kommer:
   namn enligt regeln ovan, och att två bilagor eller två sammanträden
   samma dag ger olika sökvägar.
 * Ett test visar att en fil med känd källnyckel men ny adress eller ny
-  rubrik skriver över det befintliga dokumentet, att samma sha256 bara
-  ändrar `kalla_url`, och att en ny källnyckel på en upptagen plats följer
+  rubrik skriver över det befintliga dokumentet, att samma sha256 med
+  samma källnyckel bara ändrar `kalla_url`, och att en ny källnyckel på en upptagen plats följer
   regeln ovan.
 * CI kontrollerar att varje `.md` under `data/` ligger på den sökväg som
-  `organ`, `datum`, `lopnr`, `typ` och `namn` i dess front matter ger.
+  `kommun`, `organ`, `datum` (som också ger `<år>`), `lopnr`, `typ` och
+  `namn` i dess front matter ger.
 
 ## Pros and Cons of the Options
 
@@ -204,6 +209,10 @@ data/kungsbacka/arenden/KS-2019-00123/tjansteskrivelse.md
    preciserades källnyckelns form och räckvidd, att `arenden` skiljer
    tomt från okänt, och att en äldre Wayback-kopia aldrig ersätter en
    nyare version.
+6. **Andra granskningen** visade att samma sha256 kunde slå ihop två
+   olika dokument, till exempel samma bilaga till KS och KF. Regeln
+   gäller därför bara inom samma källnyckel. Den gamla källnyckeln sparas
+   i `tidigare_kallnycklar` när en ny tar över platsen.
 
 ### Vad som inte avgörs här
 
