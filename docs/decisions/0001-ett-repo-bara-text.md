@@ -68,7 +68,9 @@ fil i stället för med lagrade original.
   testfixturer under `tests/fixtures/` är undantagna (förtydligat
   2026-10-06, se AGENTS.md); de är testdata, inte poolens data.
 * Varje `.md` under `data/` har front matter med källänk, sha256, tider för
-  hämtning och konvertering, pipelineversion och kvalitet – kontrolleras i CI.
+  hämtning och konvertering, pipelineversion och kvalitet – kontrolleras i CI. Ett dokument
+  som inte gick att hämta saknar original och därmed sha256 (förtydligat
+  2026-10-06, se ADR-0004).
 
 ## Pros and Cons of the Options
 

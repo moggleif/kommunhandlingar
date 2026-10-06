@@ -44,9 +44,9 @@ när den bara får vara tillfällig?
 ## Decision Outcome
 
 Valt alternativ: "A – Adressen per källnyckel är signalen", eftersom det är
-det enda alternativet där en körning utan ändringar inte gör något anrop
-per dokument, utom för det som misslyckats tidigare, och det klarar sig
-med det som front matter redan innehåller.
+det undviker anrop per dokument när ingenting ändrats, utom för det som
+misslyckats tidigare, utan något tillstånd utöver det som front matter
+redan innehåller.
 
 Beslutet i detalj (kraven står i K6, K8 och K9):
 
@@ -59,9 +59,10 @@ Beslutet i detalj (kraven står i K6, K8 och K9):
   en ny version eller bara en ny adress.
 * **Det som ADR-0003 redan avgjort hämtas inte.** En källnyckel i
   `tidigare_kallnycklar` är samma dokument och ersätter inte den nyare
-  nyckeln. En kopia från en ögonblicksbild tagen före `hamtad` kan inte
-  vara en nyare version, utom när dokumentet har `ej-hamtad` och alltså
-  ingen version alls.
+  nyckeln. En kopia från en ögonblicksbild tagen före versionen i poolen
+  kan inte vara en nyare version. Versionens tid är ögonblicksbilden i
+  `kalla_url` när den är en arkivkopia, annars `hamtad`. Har dokumentet
+  `ej-hamtad` finns ingen version att jämföra med.
 * **En fil som byts ut under samma adress upptäcks inte.** Sitevision ger
   en ny tidsstämpel i adressen när filen byts ut, och en Wayback-kopia
   ändras aldrig. Att det alltid är så för Sitevision, och hur övriga
@@ -69,7 +70,8 @@ Beslutet i detalj (kraven står i K6, K8 och K9):
   adress" stryks.
 * **Upptäckten ger högst en kandidat per källnyckel,** i samma form varje
   gång. Finns filen på flera adresser väljer adaptern den som gäller;
-  annars skulle körningarna turas om att hämta varandras adresser.
+  annars skulle körningarna turas om att hämta varandras adresser. Valet
+  är stabilt: en ny kopia av oförändrat innehåll ger inte en ny kandidat.
 * **Hämta och konvertera är ett steg, ett dokument i taget.** PDF:en hämtas
   till en temporär fil utanför repot och raderas när dokumentet är
   konverterat, även om konverteringen misslyckas.
@@ -80,9 +82,9 @@ Beslutet i detalj (kraven står i K6, K8 och K9):
   ändrats gör nästa körning om dokumentet.
 * **Ett misslyckat hämtningsförsök syns, men tar aldrig bort text.** Har
   dokumentet ingen `.md` skrivs en med kvalitet `ej-hamtad`, tid för
-  försöket och orsaken i `fel` (K6); den bär också dokumentets plats. Finns
-  en `.md` lämnas den orörd. Nästa körning försöker igen, och misslyckas
-  den av samma orsak skrivs ingenting.
+  försöket och en kort orsakskod i `fel` (K6); den bär också dokumentets
+  plats. En fullständig `.md` lämnas orörd. Nästa körning försöker igen,
+  och `ej-hamtad`-filen skrivs om bara när orsaken eller adressen ändrats.
 * **Härkomsten för ett dokument som inte gick att hämta** är källänken,
   källnyckeln, tiden för försöket och orsaken. Det finns ingen sha256 att
   ange. Det smalnar av ADR-0001:s Confirmation ("varje `.md` har sha256"),
@@ -119,15 +121,16 @@ När koden kommer, ett test för varje fall i K8 och för:
 * att en kandidat med känd källnyckel och samma `kalla_url` inte hämtas,
   och att en ny källnyckel, en ny adress och ett dokument med `ej-hamtad`
   hämtas,
-* att en källnyckel i `tidigare_kallnycklar` och en äldre ögonblicksbild
-  inte hämtas,
+* att en källnyckel i `tidigare_kallnycklar` och en ögonblicksbild äldre
+  än versionen i poolen inte hämtas, och att en nyare hämtas,
 * att upptäckten ger högst en kandidat per källnyckel,
 * att en körning som avbryts under konverteringen, eller mellan
   tabellerna och `.md`, inte lämnar någon PDF och ingen halvskriven `.md`,
   och att nästa körning gör färdigt dokumentet utan kvarlämnade tabeller,
 * att ett misslyckat försök på ett nytt dokument ger en `.md` med
-  `ej-hamtad`, att ett misslyckat försök aldrig skriver över en befintlig
-  `.md`, och att ett nytt försök med samma orsak inte ändrar något,
+  `ej-hamtad`, att ett misslyckat försök aldrig skriver över en fullständig
+  `.md`, att ett nytt försök med samma orsak och adress inte ändrar något,
+  och att en ny orsak eller adress skriver om `ej-hamtad`-filen,
 * att ett dokument med `ej-hamtad` som nu går att hämta blir en
   fullständig `.md` på samma sökväg.
 
@@ -224,6 +227,12 @@ En hash av varje listningssida sparas; bara sidor som ändrats läses vidare.
    helhet, att ett misslyckat försök aldrig skriver över en befintlig
    `.md` och inte skriver om sig själv, och att härkomsten för ett
    dokument utan original är försöket – vilket AGENTS.md nu säger.
+8. **Andra granskningen** visade att spärren mot äldre kopior jämförde
+   med fel tid (`hamtad` i stället för ögonblicksbilden), och att det var
+   oklart när en `ej-hamtad`-fil skrivs om. Spärren jämför nu med
+   versionens tid, `fel` blev en kort orsakskod, och `ej-hamtad`-filen
+   skrivs om när orsaken eller adressen ändras. Adapterns val av adress
+   ska vara stabilt över tid.
 
 ### Vad som inte avgörs här
 
@@ -236,6 +245,11 @@ En hash av varje listningssida sparas; bara sidor som ändrats läses vidare.
 * En fil som länkas från flera sammanträden är ett dokument på en plats
   (ADR-0003). Om det andra sammanträdet ska visa att dokumentet finns
   avgörs när adaptrarna och luckorna (K7) skrivs.
+* Hur indexsteget får veta vilka källor som prövats och när (K7), när
+  kandidatlistan inte checkas in – när indexet och luckorna skrivs.
+* Att tabeller kan bli liggande bredvid en gammal `.md` om körningen
+  avbryts och källan sedan går tillbaka till den gamla adressen – med
+  issue #5, som avgör hur bara färdiga körningar checkas in.
 
 ### När beslutet bör omprövas
 

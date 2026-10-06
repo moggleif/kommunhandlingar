@@ -61,9 +61,10 @@ kunna läggas till utan kodändring.
   (till exempel 404, avbruten anslutning eller en kapad Wayback-kopia)
 - **När** försöket är gjort
 - **Så** skrivs en `.md` med metadata, kvalitet `ej-hamtad`, tid för
-  försöket och orsaken – om dokumentet inte redan har en `.md`. Finns en
-  `.md` lämnas den orörd. Nästa körning försöker igen, och misslyckas den
-  av samma orsak ändras ingenting.
+  försöket och orsaken – om dokumentet inte redan har en fullständig
+  `.md`. En fullständig `.md` lämnas orörd. Nästa körning försöker igen;
+  misslyckas den med samma orsak och samma adress ändras ingenting, annars
+  skrivs `ej-hamtad`-filen om.
 
 ## K7 — Luckor redovisas
 
@@ -85,8 +86,9 @@ kunna läggas till utan kodändring.
   den nyare källnyckeln.
 
 - **Givet** en kandidat som är en kopia från en ögonblicksbild tagen före
-  `hamtad` för dokumentet med samma källnyckel, och dokumentet inte har
-  kvalitet `ej-hamtad`
+  versionen som står i poolen för samma källnyckel – före ögonblicksbilden
+  i `kalla_url` när den är en arkivkopia, annars före `hamtad` – och
+  dokumentet inte har kvalitet `ej-hamtad`
 - **När** en ny körning hittar den
 - **Så** hämtas den inte; en äldre kopia ersätter aldrig en nyare version.
 
