@@ -25,6 +25,33 @@ som inte löser ett verkligt problem.
   konfiguration skild från beteende.
 - Kvalitet är en del av arbetet, inte ett sista steg.
 
+## Ren kod – strikt
+
+Små, enkla filer och funktioner. Gränserna är hårda: de kontrolleras i CI
+från första kodraden, och ett undantag kräver en kommentar som säger varför.
+
+| Mått                         | Mål   | Hård gräns |
+| ---------------------------- | ----- | ---------- |
+| Rader per funktion           | ≤ 15  | 30         |
+| Rader per fil                | ≤ 150 | 250        |
+| Parametrar per funktion      | ≤ 3   | 4          |
+| Nästlingsnivåer              | ≤ 2   | 3          |
+| Cyklomatisk komplexitet      | ≤ 5   | 8          |
+
+**Ingen kod "för säkerhets skull".** Varje rad ska kunna motiveras av ett
+krav eller ett test. Det betyder:
+
+- Ingen abstraktion – basklass, fabrik, register, konfigurationsflagga –
+  förrän det finns två konkreta fall som behöver den.
+- Inga oanvända parametrar, grenar, importer eller "framtida" stöd.
+- Inget skydd mot tillstånd som inte kan uppstå. Fånga bara undantag som
+  går att hantera där de fångas; aldrig ett tyst `except`.
+- Inga kommentarer som återberättar koden, inga docstrings som upprepar
+  funktionsnamnet, ingen kvarlämnad felsökning.
+- Standardbiblioteket först. Ett nytt beroende motiveras i PR:en.
+- Den kortaste läsbara lösningen vinner. En ändring som tar bort kod är
+  en bra ändring.
+
 ## Var varje sanning bor
 
 | Sanning                                         | Ägare                              |

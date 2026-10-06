@@ -14,8 +14,11 @@ description: Fas 4 i kommunhandlingar. Använd när krav, design och validerings
   testerna den hör till.
 - Kod för en publiceringsplattform läser allt kommunspecifikt ur
   konfigurationen. Ett kommunnamn i koden är en bugg.
-- Funktioner: en sak, på en abstraktionsnivå. Helst under 20 rader, över 50
-  kräver skäl. Högst tre parametrar och tre nivåers nästling.
+- Följ "Ren kod – strikt" i `AGENTS.md`: gränserna för storlek och
+  komplexitet, och ingen kod "för säkerhets skull". Funktioner gör en sak,
+  på en abstraktionsnivå.
+- Läs din egen diff innan fasen är klar och stryk allt som inte krävs av
+  ett krav eller ett test.
 - Namn som säger vad saken är i domänen (`sammantrade`, inte `data`).
 - Kommentarer förklarar avsikt och begränsningar, inte otydlig kod – gör
   koden tydligare i stället.
