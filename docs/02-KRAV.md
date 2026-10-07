@@ -13,7 +13,7 @@ kunna läggas till utan kodändring.
 ## K1 — En kommun läggs till med konfiguration
 
 - **Givet** att en kommun publicerar via en plattform som redan har en adapter
-- **När** någon skriver `kommuner/<kommun>.yaml` med organ, startadresser och
+- **När** någon skriver `kommuner/<kommun>.toml` med organ, startadresser och
   filnamnsmönster
 - **Så** hämtas och konverteras kommunens handlingar utan att någon kod ändras.
 

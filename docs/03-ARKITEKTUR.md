@@ -7,7 +7,7 @@ när koden kommer är det koden som gäller och dokumentet rättas efter den.
 ## Flödet
 
 ```
-kommuner/<kommun>.yaml
+kommuner/<kommun>.toml
         │
         ▼
 1. upptäck   adaptrar per plattform  →  kandidatlista: organ, datum, typ, URL,
@@ -149,12 +149,72 @@ src/kommunhandlingar/
   hamtning/        artig HTTP-klient
   konvertering/    pdf → md, tabeller, OCR-reserv, kvalitetsmått
   index/
-kommuner/<kommun>.yaml
+kommuner/<kommun>.toml
+hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<nr>.csv
 scripts/          verktyg för utvecklingen, t.ex. storlekskontrollen
 tests/fixtures/
 ```
+
+## Kommunkonfigurationen
+
+Hur och varför står i
+[ADR-0008](decisions/0008-kommunkonfigurationen-i-toml.md). En kommun är en
+fil, `kommuner/<kommun>.toml`, och filnamnet är `kommun` i front matter.
+Filen läses med `tomllib`.
+
+```toml
+namn = "Kungsbacka kommun"
+
+[[organ]]
+id = "ga"
+namn = ["Nämnden för Gymnasium & Arbetsmarknad"]
+# fran = ÅÅÅÅ-MM-DD
+# till = ÅÅÅÅ-MM-DD
+# foregangare = ["…"]
+
+[[kalla]]
+adapter = "sitevision"
+startsidor = ["https://…"]
+
+[[kalla.monster]]
+typ = "protokoll"
+regex = '^Protokoll (?:för|från) (?P<organ>.+?)\s+(?P<datum>\d{4}-\d{2}-\d{2})'
+```
+
+| Fält                   | Betyder                                                      |
+| ---------------------- | ------------------------------------------------------------ |
+| `namn`                 | Kommunens namn.                                              |
+| `organ.id`             | Organets katalog i `data/` och `organ` i front matter: små bokstäver a–z, siffror och bindestreck. |
+| `organ.namn`           | Alla namn källorna använt för organet, minst ett.            |
+| `organ.fran`, `till`   | Giltighetsperioden, som datum. Utelämnas när de inte är kända. |
+| `organ.foregangare`    | Id för organ som gick upp i det här. Varje id finns i filen. |
+| `kalla.adapter`        | Adaptern som läser källan.                                   |
+| `kalla.monster`        | Hur adaptern översätter en rubrik, ett filnamn eller en sökväg till organ, datum och typ. |
+| `monster.regex`        | Ett reguljärt uttryck. Namngivna grupper: `organ`, `datum` (`ÅÅÅÅ-MM-DD`) och `typ`. |
+| `monster.typ`          | Dokumenttypen, när uttrycket inte har gruppen `typ`.         |
+
+- **Källorna står i prioritetsordning.** Övriga fält i en källa är
+  adapterns egna och beskrivs här när adaptern skrivs.
+- **Ett organnamn** jämförs med organens `namn` utan hänsyn till
+  versaler och med flera blanksteg i rad som ett. Ett namn som inte finns
+  i filen ger ingen kandidat; det nämns i körningens sammanfattning.
+- **Ett okänt fält**, ett ogiltigt id, en föregångare som inte finns
+  eller en okänd grupp i ett mönster stoppar körningen innan något
+  hämtas.
+- **Ett organ som byter namn** får ett namn till. Ett organ som ersätts av
+  ett nytt blir ett nytt organ, med det gamla som föregångare.
+
+`hamtning.toml` i roten gäller alla kommuner: User-Agent och det minsta
+intervallet mellan anrop till samma värd (K10), ett för alla värdar och
+ett längre för en värd som visat sig behöva det. Fälten bestäms när den
+artiga HTTP-klienten skrivs.
+
+`docs/kallor/<kommun>.md` beskriver hur kommunen publicerar, vad som är
+belagt och hur, vad som är att verifiera och kända luckor. Organ,
+adresser och mönster står i kommunfilen; källbeskrivningen länkar dit i
+stället för att upprepa dem.
 
 ## Front matter
 
