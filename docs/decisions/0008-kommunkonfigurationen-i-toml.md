@@ -49,8 +49,7 @@ Var artighetens intervall står:
 
 Valt alternativ: "A – TOML" och "1 – Artigheten per värd i en gemensam
 fil", eftersom TOML läses av `tomllib` i standardbiblioteket och inte
-gissar typer, och
-eftersom bara en gemensam fil kan hålla ett intervall per värd när flera
+gissar typer, och eftersom bara en gemensam fil kan hålla ett intervall per värd när flera
 kommuner delar värd.
 
 * **En fil per kommun**, `kommuner/<kommun>.toml`. Filnamnet är kommunens
@@ -70,14 +69,13 @@ kommuner delar värd.
   som skriver datum i en annan ordning inte kräver någon kodändring. En
   rubrik som inget mönster eller organnamn passar tas inte in utan nämns
   i körningens sammanfattning.
-* **Artigheten** – User-Agent och intervall per värd – står i
-  `hamtning.toml` i roten. Den skrivs med den artiga HTTP-klienten, som
-  håller intervallet per värd över alla kommuner i körningen.
-* **`docs/kallor/<kommun>.md`** beskriver hur kommunen publicerar, vad som
-  är belagt och hur, vad som är att verifiera, och kända luckor.
-  Konfigurationsfilen äger organ, adresser och mönster, och
-  källbeskrivningen länkar dit i stället för att upprepa dem;
-  exempeladresser som belägg får stå kvar.
+* **Artigheten** – User-Agent och det minsta intervallet mellan anrop
+  till samma värd – står i `hamtning.toml` i roten. Den skrivs med den
+  artiga HTTP-klienten, som håller intervallet för varje värd för sig
+  över alla kommuner i körningen.
+* **`docs/kallor/<kommun>.md`** beskriver hur kommunen publicerar.
+  Konfigurationsfilen äger organ, adresser och mönster; gränsen står i
+  arkitekturen.
 * **Ingen riktig kommunfil skrivs nu.** `kommuner/kungsbacka.toml`
   skrivs med den första koden som läser den, när organlistan är
   verifierad mot webbplatsen; då rättas `docs/kallor/kungsbacka.md` efter
@@ -89,8 +87,9 @@ form och är ett annat beslut.
 ### Consequences
 
 * Bra, eftersom konfigurationen inte kräver något beroende.
-* Bra, eftersom inga ord blir sanningsvärden av sig själva: `no`, `NO`
-  och `off` är strängar, och bara `true` och `false` är sanningsvärden.
+* Bra, eftersom inga ord blir sanningsvärden av sig själva: utan
+  citattecken är `no` och `off` ett syntaxfel, inom citattecken
+  strängar, och bara `true` och `false` är sanningsvärden.
 * Bra, eftersom reguljära uttryck står inom `'…'` utan dubbla bakstreck.
 * Bra, eftersom två kommuner på samma värd inte kan hämta tätare än
   värdens intervall.
@@ -181,7 +180,11 @@ kontrollerar att inget om en kommun står i koden.
    organ har samma namn och vem som avgör om ett källfält är okänt, och
    rättade påståendet om YAML:s typer: ett tal och ett datum utan
    citattecken är tal och datum i båda formaten, men bara YAML 1.1 gör
-   ord till sanningsvärden.
+   ord till sanningsvärden. En andra granskning lade till att ett år
+   ska ha fyra siffror, att en utelämnad giltighetsperiod är öppen och
+   att intervallet i `hamtning.toml` är ett enda, som klienten håller
+   för varje värd för sig. Rättelserna efter granskningen bekräftas av
+   ägaren i pull requesten.
 6. **ADR-0001** nämner `kommuner/*.yaml` i sina skisser. Den detaljen
    ersätts här, och ADR-0001 har fått en anteckning; beslutet om ett repo
    med bara text står fast.

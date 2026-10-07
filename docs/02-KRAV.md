@@ -27,8 +27,8 @@ kunna läggas till utan kodändring.
 - **Så** listas varje sammanträde för varje organ i konfigurationen, med
   kallelse, handlingar, protokoll och bilagor som separata dokument, var
   och ett med organ, datum, typ och källnyckel.
-- **Givet** en rubrik eller ett filnamn som inget mönster eller organnamn i
-  konfigurationen passar
+- **Givet** en rubrik, ett filnamn eller en sökväg som konfigurationen inte
+  översätter till organ, datum och typ
 - **När** upptäckten körs
 - **Så** blir det ingen kandidat, och det nämns i körningens sammanfattning.
 
