@@ -245,6 +245,20 @@ faller kontrollerna natt efter natt, och att sekundtalet per sida var
 hämtat från ett bortvalt alternativ. Båda rättades, och dokumentet som
 läggs åt sidan nämns i jobbets sammanfattning.
 
+### GitHubs gränser
+
+Beslutet bygger på GitHubs villkor som de stod 2026-10-07. De kan
+ändras, och då ska beslutet läsas om:
+
+* Ett jobb på GitHubs runners får ta högst 6 timmar –
+  [Actions limits](https://docs.github.com/en/actions/reference/limits).
+* Ett schema i ett publikt repo stängs av efter 60 dagar utan aktivitet –
+  [Events that trigger workflows](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows), under `schedule`.
+* En push eller PR med Actions egen token startar inga nya workflows –
+  [GITHUB_TOKEN](https://docs.github.com/en/actions/concepts/security/github_token).
+* Standardrunners är gratis för publika repon –
+  [GitHub Actions billing](https://docs.github.com/en/billing/concepts/product-billing/github-actions).
+
 ### När beslutet bör omprövas
 
 Om ett dokument inte hinner bli klart inom budgeten, om Actions inte

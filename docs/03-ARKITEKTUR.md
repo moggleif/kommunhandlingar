@@ -77,13 +77,17 @@ två startas står i K11.
   nytt dokument. Efter 5 timmar och 30 minuter läggs det pågående
   dokumentet åt sidan: dess tabellkatalog och temporära fil tas bort om
   de inte finns på `main`, och annars återställs de dit. Dokumentet nämns
-  i jobbets sammanfattning, och körningen går vidare till kontrollerna. Resten av tiden fram till Actions gräns på 6 timmar
-  är till för kontrollerna och pushen.
+  i jobbets sammanfattning, och körningen går vidare till kontrollerna.
+  Resten av tiden fram till Actions gräns på 6 timmar per jobb är till
+  för kontrollerna och pushen. Budgeten är vår egen och följer GitHubs
+  gräns ([Actions limits](https://docs.github.com/en/actions/reference/limits),
+  kontrollerat 2026-10-07); ändrar GitHub gränsen ändras budgeten.
 - **Datakontrollerna körs innan något pushas.** Har `main` fått nya
   commits under körningen läggs körningens commit ovanpå och kontrollerna
   körs igen med koden från `main`. Blir det en konflikt eller faller
   kontrollerna pushas ingenting.
-- **En push med Actions egen token startar inga workflows**, så
+- **En push med Actions egen token startar inga workflows**
+  ([GITHUB_TOKEN](https://docs.github.com/en/actions/concepts/security/github_token), kontrollerat 2026-10-07), så
   `kontroll.yml` körs inte på datacommiten. Kontrollerna i jobbet är de
   enda den får.
 
