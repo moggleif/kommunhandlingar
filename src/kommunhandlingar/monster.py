@@ -68,8 +68,11 @@ def tolka(
 
 
 def datum_av(grupper: dict, manadsnamn: tuple[str, ...]) -> date | None:
-    if None in (grupper.get("ar"), grupper.get("manad"), grupper.get("dag")):
+    delar = [grupper.get(grupp) for grupp in ("ar", "manad", "dag")]
+    if delar == [None, None, None]:
         return None
+    if None in delar:
+        raise IngenKandidat("datumet är ofullständigt")
     if not re.fullmatch(r"\d{4}", grupper["ar"]):
         raise IngenKandidat(f"året {grupper['ar']!r} har inte fyra siffror")
     manad = manadsnummer(grupper["manad"], manadsnamn)

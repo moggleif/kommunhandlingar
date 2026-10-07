@@ -1,7 +1,7 @@
 """Krav: K2 i docs/02-KRAV.md, ADR-0011. Test: tests/test_sitevision.py.
 
 Läser en Sitevision-mötessidas filer i sidans ordning, med rubriken för
-mötet de står under: den senaste `<h3>`. Filerna står som länkar i
+mötet de står under: den senaste `<h3>` efter årets `<h2>`. Filerna står som länkar i
 filportleten eller som JSON i `AppRegistry.registerInitialState`.
 """
 

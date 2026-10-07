@@ -104,16 +104,19 @@ class TestUpptack(unittest.TestCase):
         self.assertEqual([k.datum for k in kandidater], [date(2024, 5, 15)])
 
     def test_absolut_adress_till_filen(self):
-        html = sida(
-            (
-                "2 maj 2024",
-                lank("a1", "Kallelse%202024-05-02.pdf").replace(
-                    '"/', '"https://exempelby.se/'
-                ),
-            )
-        )
+        adress = "https://exempelby.se/download/18.a1/1/Kallelse%202024-05-02.pdf"
+        html = sida(("2 maj 2024", f'<a href="{adress}">Kallelse</a>'))
         kandidater, _ = self.upptack(html)
-        self.assertEqual([k.kallnyckel for k in kandidater], ["sitevision:18.a1"])
+        self.assertEqual(
+            [(k.kallnyckel, k.url) for k in kandidater], [("sitevision:18.a1", adress)]
+        )
+
+    def test_nytt_ar_nollstaller_rubriken(self):
+        fil = lank("a1", "protokoll%20%C2%A7%201.pdf")
+        kandidater, avvisade = self.upptack(
+            sida(("2 maj 2024", "")) + "<h2>2025</h2>" + fil
+        )
+        self.assertEqual((kandidater, len(avvisade)), ([], 1))
 
     def test_andra_lankar_raknas_inte(self):
         kandidater, avvisade = self.upptack(

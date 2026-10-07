@@ -82,9 +82,10 @@ class TestTolka(unittest.TestCase):
             "år utan fyra siffror": "kallelse 24-11-11",
             "okänt månadsnamn": "kallelse 2025-mars-03",
             "tom typ": " 2025-03-03",
+            "ofullständigt datum": "kallelse 2025--03",
         }
         poster = monster(
-            {"regex": r"(?P<typ>kallelse|) (?P<ar>\d+)-(?P<manad>\w+)-(?P<dag>\d+)"}
+            {"regex": r"(?P<typ>kallelse|) (?P<ar>\d+)-(?P<manad>\w+)?-(?P<dag>\d+)"}
         )
         for orsak, text in fall.items():
             with self.subTest(orsak), self.assertRaises(IngenKandidat):

@@ -231,7 +231,8 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
   versaler och med flera blanksteg i rad som ett. Bara organ vars
   giltighetsperiod omfattar datumet räknas.
 - **Ingen kandidat** blir det av en rubrik som inget mönster matchar, ett
-  organnamn som inget organ har på datumet, ett datum som inte finns,
+  organnamn som inget organ har på datumet, ett datum som är ofullständigt,
+  inte finns,
   inte har fyrsiffrigt år eller har ett okänt månadsnamn, och en typ som
   inte är `kallelse`, `handlingar`, `protokoll` eller `bilaga` (utan
   hänsyn till versaler). Var och en nämns i körningens sammanfattning.

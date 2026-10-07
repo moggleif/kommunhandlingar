@@ -52,11 +52,9 @@ def rubrik(text: str, var: str) -> re.Pattern:
 
 
 def rattelser(tabell: dict, var: str) -> dict[str, date]:
-    for kallnyckel, datum in tabell.items():
-        if not kallnyckel.startswith("sitevision:") or not schema.ar_av_slag(
-            datum, date
-        ):
-            raise Konfigurationsfel(f"{var}: rättelsen för {kallnyckel!r}")
+    for nyckel, datum in tabell.items():
+        if not nyckel.startswith("sitevision:") or not schema.ar_av_slag(datum, date):
+            raise Konfigurationsfel(f"{var}: rättelsen för {nyckel!r}")
     return tabell
 
 
