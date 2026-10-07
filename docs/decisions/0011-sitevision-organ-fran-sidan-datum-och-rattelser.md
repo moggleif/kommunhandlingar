@@ -34,14 +34,15 @@ uppgifterna inte stämmer?
 
 ### Vad siffrorna säger
 
-De 17 mötessidorna hade 2026-10-07 1 672 filer (unika nod-id:n):
+De 17 mötessidorna hade 2026-10-07 1 672 filer (unika nod-id:n). Läst
+med kommunfilens mönster blir de:
 
 | Fall | Filer |
 | --- | ---: |
-| Typ och fullständigt datum i filnamnet, samma som rubriken | 1 616 |
-| Typ i filnamnet, datum bara i rubriken | 17 |
-| Filnamnets datum skiljer sig från rubrikens | 25 |
-| Ingen typ i filnamnet | 14 |
+| Typ och datum i filnamnet, samma som rubriken eller rubriken utan datum | 1 613 |
+| Typ i filnamnet, datum bara i rubriken | 24 |
+| Typ i filnamnet, och filnamnets datum skiljer sig från rubrikens | 25 |
+| Ingen av de fyra typerna | 10 |
 
 * **Datum bara i rubriken:** "Valnämnden protokoll 24-11-11",
   "… protokoll § 22", "Protokoll GA januari.signerad.pub".
@@ -53,8 +54,9 @@ De 17 mötessidorna hade 2026-10-07 1 672 filer (unika nod-id:n):
   Byggnadsnämndens arbetsutskott, där kallelsen säger 4 april men
   rubriken "5 april 2024 (flyttat från 4 april)".
 * **Ingen typ:** 9 är budget, årsredovisning, delårsrapport, nämndbudget,
-  särredovisning och avfallsföreskrifter; 4 är protokollsutdrag med bara
-  "§" i namnet; 1 är ett enskilt ärende.
+  särredovisning och avfallsföreskrifter, och 1 är ett enskilt ärende.
+  Protokollsutdrag med bara "§" i namnet och revisionens
+  sammanträdesanteckningar räknas som protokoll (nedan).
 * **Organnamnen i filnamnen** har stavfel ("Arbetmarknad",
   "arbetutskott") och kortformer ("GA"). Sidan säger alltid vilket organ
   det är.
@@ -88,7 +90,7 @@ uppgifter säger emot varandra.
 * **Avviker filnamnets datum från rubrikens** blir filen ingen kandidat
   och nämns i sammanfattningen, om inte kommunfilen har en rättelse:
   källnyckeln och det rätta datumet. Rättelsen gäller före både filnamn
-  och rubrik. Kungsbackas 24 rättelser är belagda med datumet i
+  och rubrik. Kungsbackas 25 rättelser är belagda med datumet i
   kallelsens eller protokollets egen text, eller med rubrikens
   uppgift om att mötet flyttats.
 * **En fil på flera ställen** blir en kandidat: det första stället som
@@ -119,7 +121,7 @@ uppgifter säger emot varandra.
 * Dåligt, eftersom en fil som står under fel möte men har samma datum i
   rubrik och filnamn inte upptäcks. Inget sådant fall har setts.
 * Neutralt, eftersom ett mönster utan datum gör rubriken till den enda
-  källan för datumet, och rubrikens fel då inte märks. Det gäller 17
+  källan för datumet, och rubrikens fel då inte märks. Det gäller 24
   filer, och rubrikerna har bara setts ha fel när filnamnet också har ett
   datum att jämföra med.
 
@@ -140,7 +142,7 @@ Kungsbacka står i koden.
   ny kod.
 * Dåligt, eftersom varje stavning av varje organ måste stå som ett namn i
   kommunfilen, och nya stavfel faller bort.
-* Dåligt, eftersom de 17 filerna utan datum i namnet aldrig blir
+* Dåligt, eftersom de 24 filerna utan datum i namnet aldrig blir
   kandidater.
 * Dåligt, eftersom rubrikens rätta datum inte används när filnamnet har
   fel.
@@ -162,7 +164,7 @@ Kungsbacka står i koden.
 ### D – Rubrikens datum vinner
 
 * Bra, eftersom rubriken är sidans egen ordning.
-* Dåligt, eftersom 19 filer hamnar på fel datum för gott, bland dem
+* Dåligt, eftersom 20 filer hamnar på fel datum för gott, bland dem
   ett helt möte för Förskola & Grundskola ett år fel.
 
 ## More Information
@@ -187,8 +189,8 @@ Kungsbacka står i koden.
    Byggnadsnämndens arbetsutskott säger kallelsen 4 april och rubriken
    att mötet flyttades till 5 april; rättelsen är 5 april, så att mötets
    alla dokument hamnar på samma datum. Revisionens anteckningar från ett
-   tvådagarsmöte (19–20 augusti 2024) får den första dagen. En av de 25
-   avvikande filerna, avfallsföreskrifterna, har ingen typ och behöver
+   tvådagarsmöte (19–20 augusti 2024) får den första dagen. Avfallsföreskrifterna
+   har också olika datum i filnamn och rubrik, men ingen typ, och behöver
    ingen rättelse.
 6. **Ett belägg för att organet ska tas från sidan** kom under
    implementationen: "Sammanträdesprotokoll Nämnden för Förskola &
