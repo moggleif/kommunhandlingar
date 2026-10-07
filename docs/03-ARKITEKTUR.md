@@ -65,6 +65,21 @@ Hur och varför står i
   `kalla_url` ändras, så att en körning utan ändringar inte ger några
   diffar.
 
+### Ordningen kandidaterna tas i
+
+Hur och varför står i
+[ADR-0010](decisions/0010-ordningen-organ-for-organ.md). Beteendet står i
+K13.
+
+- **Organ för organ, i `[[organ]]`-listans ordning** i
+  `kommuner/<kommun>.toml`. Listans ordning är prioriteringen; det finns
+  inget eget fält för den.
+- **Inom ett organ:** protokoll, kallelser, övriga dokument, handlingar.
+  Den ordningen står i koden och är densamma för alla kommuner.
+- **Inom en typ:** det äldsta sammanträdet först.
+- Ordningen beror bara på konfigurationen och kandidaternas egna
+  uppgifter, så samma kandidatlista tas alltid i samma ordning.
+
 ### Körning och incheckning
 
 Hur och varför står i
