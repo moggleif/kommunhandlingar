@@ -137,8 +137,7 @@ Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
   tecken, vid sista bindestrecket om det finns ett. Blir namnet tomt, eller
   ger två rubriker samma namn, får dokumentet ett löpnummer som namn: `2`,
   `3`, …
-- Ärendet är ett attribut: `arenden` listar diarienummer, är tom när
-  dokumentet inte rör något ärende och `null` när det inte är känt.
+- Ärendet är ett attribut, `arenden` i [front matter](#front-matter).
   Diariet är en källa till mötesdokument, inte till egna dokument.
 
 ## Katalogstruktur
@@ -266,10 +265,10 @@ matter. Varje fält finns alltid, och ett fält som inte har något värde är
 
 | Fält                   | Betyder                                                      | `null` när |
 | ---------------------- | ------------------------------------------------------------ | ---------- |
-| `kommun`               | Kommunens id, filnamnet i `kommuner/`.                       | aldrig |
+| `kommun`               | Kommunens id, kommunfilens namn utan `.toml`.                | aldrig |
 | `organ`                | Organets id i kommunfilen.                                   | aldrig |
 | `datum`                | Sammanträdets datum, `ÅÅÅÅ-MM-DD`.                           | aldrig |
-| `lopnr`                | Sammanträdets löpnummer samma dag (ADR-0003).                | sammanträdet är ensamt den dagen |
+| `lopnr`                | Sammanträdets löpnummer samma dag (ADR-0003).                | sökvägen saknar löpnummer |
 | `typ`                  | `kallelse`, `handlingar`, `protokoll` eller `bilaga`.        | aldrig |
 | `namn`                 | `<namn>` i sökvägen (ADR-0003).                              | sökvägen saknar namn |
 | `kallnyckel`           | Adapterns källnyckel (ADR-0003).                             | aldrig |
@@ -281,7 +280,7 @@ matter. Varje fält finns alltid, och ett fält som inte har något värde är
 | `sidor`                | Originalets antal sidor.                                     | `ej-hamtad`, eller filen gick inte att öppna |
 | `hamtad`               | Tiden för hämtningen; för `ej-hamtad` det första misslyckade försöket. | aldrig |
 | `konverterad`          | Tiden för konverteringen.                                    | `ej-hamtad` |
-| `pipeline`             | Poolens version och verktygen som läste dokumentet (nedan); för `ej-hamtad` bara poolens version. | aldrig |
+| `pipeline`             | Poolens version och verktygen som läste dokumentet (nedan).  | aldrig |
 | `kvalitet`             | Dokumentets kvalitet (nedan).                                | aldrig |
 | `fel`                  | Kort orsakskod, till exempel `http-404`, `kapad` eller `krypterad`. | originalet hämtades och gick att öppna |
 | `kvalitet_per_sida`    | Varje sidas kvalitet, i sidordning (nedan).                  | `ej-hamtad`, eller filen gick inte att öppna |
@@ -380,10 +379,10 @@ gäller. Den sämsta sidan avgör:
 När filen inte gick att öppna står orsaken i `fel`: `krypterad` (filen
 kräver lösenord för att öppnas; ett lösenord som bara begränsar utskrift
 eller ändring hindrar inte), `trasig-pdf` (också en fil utan sidor) eller
-`inte-pdf`. Då är `kvalitet_per_sida`, `tal_obekraftade` och `sidor`
-`null`, medan `sha256` och `bytes` beskriver den hämtade filen. Har filen
-sidor men ingen av dem gick att läsa är `fel` `null`, och `sidor`,
-`kvalitet_per_sida` och `tal_obekraftade` visar sidorna som de är.
+`inte-pdf`; vilka fält som då är `null` står i
+[Front matter](#front-matter). Har filen sidor men ingen av dem gick att
+läsa är `fel` `null`, och `sidor`, `kvalitet_per_sida` och
+`tal_obekraftade` visar sidorna som de är.
 
 `pipeline` är poolens version ur `pyproject.toml` följd av de verktyg som
 läste dokumentet, med version: alltid pdfplumber och pdfminer.six, och
@@ -397,18 +396,25 @@ pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. Versionen höjs när en
 
 Hur och varför står i
 [ADR-0009](decisions/0009-tabellernas-harkomst-och-csv-format.md). Varje
-säker tabell blir en CSV i dokumentets `.tabeller/`-katalog, som har
-samma namn som `.md` utan ändelsen.
+säker tabell blir en CSV i dokumentets tabellkatalog, som heter som
+`.md` men med `.tabeller` i stället för `.md`. Ett dokument utan säkra
+tabeller har ingen tabellkatalog.
 
-- **Filnamnet** är `<sida>-<nr>.csv`: sidnumret från 1, och tabellens
-  nummer på sidan från 1 uppifrån och ned. `3-2.csv` är den andra
-  tabellen på sidan 3. Numren på en sida följer på varandra utan lucka,
-  och sidan är `ok` eller `tabell-osaker`.
-- **Härkomsten** är front matter i katalogens `.md`. Tabellerna har
-  ingen egen.
-- **Formatet** är CSV enligt [RFC 4180](https://www.rfc-editor.org/rfc/rfc4180)
-  med UTF-8 utan BOM, komma som skiljetecken och radslut LF. Varje rad
-  har lika många fält. Cellerna står som de lästes: inget tal görs om,
-  decimalkommat står kvar, en tom cell är tom, och en radbrytning i en
-  cell står kvar inom citattecken. Den första raden är tabellens första
-  rad och tolkas inte som rubrik.
+- **Filnamnet** är `<sida>-<nr>.csv`, utan inledande nollor: sidnumret
+  från 1, och tabellens nummer på sidan från 1, uppifrån och ned och vid
+  samma höjd från vänster till höger. `3-2.csv` är den andra tabellen på
+  sidan 3.
+- **Härkomsten** är front matter i tabellkatalogens `.md`. Tabellerna
+  har ingen egen. Står sidan i `tal_obekraftade` är talen i dess CSV:er
+  inte bekräftade; det syns bara i `.md`.
+- **Formatet** är CSV som i [RFC 4180](https://www.rfc-editor.org/rfc/rfc4180),
+  men med radslut LF i stället för CRLF: UTF-8 utan BOM och komma som
+  skiljetecken. Varje rad har lika många fält. Cellerna står som de
+  lästes: inget tal görs om, decimalkommat står kvar, och en radbrytning
+  i en cell står kvar inom citattecken. En tom cell är tom, och en
+  sammanslagen cells text står i dess första cell, uppe till vänster,
+  medan cellerna den täcker är tomma. Den första raden är tabellens
+  första rad och tolkas inte som rubrik.
+- **Datakontrollen** prövar att varje CSV heter så, att numren på en
+  sida följer på varandra utan lucka, och att sidan finns och är `ok`
+  eller `tabell-osaker`.

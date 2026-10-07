@@ -2,7 +2,7 @@
 
 En datapool med kommunernas politiska handlingar: kallelser, handlingar och
 protokoll från kommunfullmäktige, kommunstyrelsen och nämnderna, konverterade
-till Markdown och CSV med källa och kvalitet i varje fil. Kungsbacka först,
+till Markdown och CSV med källa och kvalitet i varje dokument. Kungsbacka först,
 men inget i koden vet vilken kommun det gäller.
 
 Det här är den stående vägledningen för var och en som arbetar i repot,
