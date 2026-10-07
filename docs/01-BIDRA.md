@@ -45,8 +45,8 @@ kontrollerar också att inga binärer är incheckade.
 
 ## Webbplatsen
 
-Webbplatsen byggs lokalt till en katalog som öppnas i webbläsaren
-(K14, ADR-0012):
+Webbplatsen byggs lokalt, från repots rot, till en katalog som öppnas i
+webbläsaren (K14, ADR-0012):
 
 ```sh
 python3 -m kommunhandlingar.webbplats _site https://github.com/moggleif/kommunhandlingar

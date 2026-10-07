@@ -104,7 +104,8 @@ två startas står i K11.
 - **En push med Actions egen token startar inga workflows**
   ([GITHUB_TOKEN](https://docs.github.com/en/actions/concepts/security/github_token), kontrollerat 2026-10-07), så
   `kontroll.yml` körs inte på datacommiten. Kontrollerna i jobbet är de
-  enda den får.
+  enda den får. Av samma skäl startar jobbet efter pushen `webbplats.yml` med
+  `workflow_dispatch`, som Actions egen token får starta.
 
 Datakontrollerna, i körningen och i CI:
 
@@ -517,6 +518,8 @@ push till `main` och för hand. Inget av det som byggs checkas in.
 - **Statisk och utan beroenden:** bara standardbiblioteket, ingen
   JavaScript och inga externa resurser. All text går genom
   `html.escape`. Ingen information bärs av färg.
-- **Nattkörningen** pushar med Actions egen token, och en sådan push
-  startar inga workflows (se [Körning och incheckning](#körning-och-incheckning)).
-  När nattjobbet skrivs ska det därför starta `webbplats.yml` självt.
+- **Efter nattkörningen** byggs webbplatsen om av körningen själv (se
+  [Körning och incheckning](#körning-och-incheckning)).
+- **Dokumenten** måste ha ett `organ` ur kommunfilen, en `typ` och en
+  `kvalitet` ur tabellerna ovan. Annars stoppas bygget med filens namn,
+  så att inget dokument utelämnas tyst ur tabellerna.

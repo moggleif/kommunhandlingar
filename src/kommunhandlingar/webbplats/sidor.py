@@ -54,7 +54,7 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 
 def meny(mall: Mall, aktuell: str) -> str:
     poster = [("index.html", "Start")] + [
-        (f"{k.id}.html", k.namn) for k in sorted(mall.kommuner, key=lambda k: k.id)
+        (f"{k.id}.html", k.namn) for k in mall.kommuner
     ]
     lankar = "".join(
         menypost(adress, namn, adress == aktuell) for adress, namn in poster
@@ -81,10 +81,8 @@ def startsida(mall: Mall) -> str:
         f'<li><a href="{k.id}.html">{escape(k.namn)}</a></li>' for k in mall.kommuner
     )
     innehall = (
-        "<p>En datapool med kommunernas politiska handlingar: kallelser, "
-        "handlingar och protokoll från kommunfullmäktige, kommunstyrelsen och "
-        "nämnderna, konverterade till Markdown och CSV. Varje dokument säger "
-        "varifrån det kom och hur väl konverteringen lyckades.</p>"
+        f'<p>Vad poolen är och hur den byggs står i <a href="{escape(mall.repo)}'
+        '#readme">README</a>.</p>'
         f"<h2>Vad poolen innehåller</h2><ul>{kommuner}</ul>"
     )
     return sida(mall, "index.html", "kommunhandlingar", innehall)

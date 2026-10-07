@@ -4,25 +4,28 @@ from datetime import datetime
 from pathlib import Path
 
 from kommunhandlingar import konfiguration
+from kommunhandlingar.fel import Datafel
+from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats import frontmatter, sidor
+from kommunhandlingar.webbplats.rakning import okanda
 
 
 def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> None:
     kommuner = [konfiguration.las(f) for f in sorted((rot / "kommuner").glob("*.toml"))]
     mall = sidor.Mall(kommuner, repo, byggd)
     ut.mkdir(parents=True, exist_ok=True)
-    skriv(ut / "index.html", sidor.startsida(mall))
+    (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
     for kommun in kommuner:
-        dokument = las_dokument(rot / "data" / kommun.id)
-        skriv(ut / f"{kommun.id}.html", sidor.statussida(mall, kommun, dokument))
+        dokument = las_dokument(rot / "data" / kommun.id, kommun)
+        html = sidor.statussida(mall, kommun, dokument)
+        (ut / f"{kommun.id}.html").write_text(html, encoding="utf-8")
 
 
-def las_dokument(katalog: Path) -> list[dict[str, str]]:
-    return [
-        frontmatter.las(fil.read_text(encoding="utf-8"))
-        for fil in sorted(katalog.rglob("*.md"))
-    ]
-
-
-def skriv(fil: Path, html: str) -> None:
-    fil.write_text(html, encoding="utf-8")
+def las_dokument(katalog: Path, kommun: Kommun) -> list[dict[str, str]]:
+    dokument = []
+    for fil in sorted(katalog.rglob("*.md")):
+        falt = frontmatter.las(fil.read_text(encoding="utf-8"))
+        if fel := okanda(falt, kommun):
+            raise Datafel(f"{fil}: okänt {', '.join(fel)}")
+        dokument.append(falt)
+    return dokument

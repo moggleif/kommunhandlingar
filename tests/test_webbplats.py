@@ -6,6 +6,7 @@ import unittest
 from datetime import UTC, datetime
 from pathlib import Path
 
+from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import las
 from kommunhandlingar.webbplats import frontmatter, rakning, sidor
 from kommunhandlingar.webbplats.bygg import bygg
@@ -122,14 +123,27 @@ class TestSidor(unittest.TestCase):
 
 
 class TestBygg(unittest.TestCase):
+    def setUp(self):
+        tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(tmp.cleanup)
+        self.rot, self.ut = Path(tmp.name) / "repo", Path(tmp.name) / "ut"
+        (self.rot / "kommuner").mkdir(parents=True)
+        shutil.copy(FIXTURER / "exempelby.toml", self.rot / "kommuner")
+
+    def spara(self, text: str) -> None:
+        mote = self.rot / "data" / "exempelby" / "fsn" / "2024" / "2024-05-02"
+        mote.mkdir(parents=True)
+        (mote / "protokoll.md").write_text(text, encoding="utf-8")
+
     def test_webbplatsen_byggs_ur_kommunfilerna_och_poolen(self):
-        with tempfile.TemporaryDirectory() as tmp:
-            rot, ut = Path(tmp) / "repo", Path(tmp) / "ut"
-            (rot / "kommuner").mkdir(parents=True)
-            shutil.copy(FIXTURER / "exempelby.toml", rot / "kommuner")
-            mote = rot / "data" / "exempelby" / "fsn" / "2024" / "2024-05-02"
-            mote.mkdir(parents=True)
-            (mote / "protokoll.md").write_text(dokument(), encoding="utf-8")
-            bygg(rot, ut, REPO, TID)
-            self.assertIn("Exempelby kommun", (ut / "index.html").read_text())
-            self.assertIn("Dokument: 1", (ut / "exempelby.html").read_text())
+        self.spara(dokument())
+        bygg(self.rot, self.ut, REPO, TID)
+        self.assertIn("Exempelby kommun", (self.ut / "index.html").read_text())
+        self.assertIn("Dokument: 1", (self.ut / "exempelby.html").read_text())
+
+    def test_okant_organ_typ_eller_kvalitet_stoppar_bygget(self):
+        self.spara(dokument(organ="nedlagd", typ="beslut", kvalitet="bra"))
+        with self.assertRaisesRegex(
+            Datafel, r"protokoll\.md.*'nedlagd'.*'beslut'.*'bra'"
+        ):
+            bygg(self.rot, self.ut, REPO, TID)

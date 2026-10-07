@@ -247,6 +247,11 @@ kunna läggas till utan kodändring.
 - **När** webbplatsen byggs
 - **Så** visar statussidan för varje organ antal dokument på varje
   kvalitetsnivå och antal sidor med obekräftade tal.
+- **Givet** ett dokument vars organ inte står i kommunfilen, eller vars typ
+  eller kvalitet inte finns i schemat
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med dokumentets filnamn, i stället för att
+  dokumentet utelämnas tyst ur tabellerna.
 - **Givet** en ändring på `main`
 - **När** den har checkats in
 - **Så** byggs webbplatsen om och publiceras på GitHub Pages, och varje

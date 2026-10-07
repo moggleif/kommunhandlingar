@@ -3,6 +3,7 @@
 from collections import Counter
 from dataclasses import dataclass
 
+from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.frontmatter import lista
 
@@ -29,6 +30,19 @@ class Organrad:
     @property
     def dokument(self) -> int:
         return self.typer.total()
+
+
+def okanda(dokument: dict[str, str], kommun: Kommun) -> list[str]:
+    tillatna = {
+        "organ": {organ.id for organ in kommun.organ},
+        "typ": set(TYPORDNING),
+        "kvalitet": set(KVALITETER),
+    }
+    return [
+        f"{falt} {dokument[falt]!r}"
+        for falt, varden in tillatna.items()
+        if dokument[falt] not in varden
+    ]
 
 
 def rakna(kommun: Kommun, dokument: list[dict[str, str]]) -> list[Organrad]:

@@ -1,4 +1,5 @@
-"""Krav: K1 och K2. Test: tests/test_konfiguration.py, tests/test_monster.py."""
+"""Krav: K1, K2 och K14. Test: tests/test_konfiguration.py, tests/test_monster.py,
+tests/test_webbplats.py."""
 
 
 class Konfigurationsfel(Exception):
@@ -7,3 +8,7 @@ class Konfigurationsfel(Exception):
 
 class IngenKandidat(Exception):
     """En fil blir ingen kandidat; orsaken nämns i sammanfattningen (K2)."""
+
+
+class Datafel(Exception):
+    """Ett dokument i poolen följer inte schemat; webbplatsbygget stoppas (K14)."""

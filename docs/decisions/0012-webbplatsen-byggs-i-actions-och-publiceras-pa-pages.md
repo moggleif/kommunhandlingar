@@ -19,10 +19,9 @@ Var byggs sidorna, och hur kommer de ut på Pages?
 
 * Varje tal på sidan räknas ur poolens front matter, så sidan får inte
   kunna glida isär från datat.
-* `main` tar bara emot ändringar via pull request, utan undantag.
 * Inga genererade filer i repot som någon kan frestas att redigera för
   hand.
-* Inga nya beroenden och inget byggsteg som behöver underhållas.
+* Inga nya beroenden, ingen sajtgenerator och ingen bundler.
 
 ## Considered Options
 
@@ -43,7 +42,7 @@ statisk HTML utan JavaScript och utan externa resurser.
 ### Consequences
 
 * Bra, eftersom ett tal på sidan alltid kommer ur samma commit som datat.
-* Bra, eftersom rulesetet för `main` inte behöver något undantag.
+* Bra, eftersom ingen gren utöver `main` behöver skyddas eller skrivas till.
 * Dåligt, eftersom Pages måste ställas om en gång till källan
   "GitHub Actions" i repots inställningar.
 * Dåligt, eftersom en push med Actions egen token inte startar
@@ -68,8 +67,8 @@ publicerar, och inget under `_site/` checkas in.
 * Bra, eftersom Pages kan läsa `docs/` direkt, utan workflow.
 * Dåligt, eftersom `docs/` redan är dokumentationen, och sidorna då
   hamnar bland den.
-* Dåligt, eftersom varje ny siffra kräver en commit, och via rulesetet en
-  pull request.
+* Dåligt, eftersom varje ny siffra kräver att HTML:en byggs om och
+  checkas in tillsammans med datat, också i nattkörningen.
 * Dåligt, eftersom genererad HTML i repot kan redigeras för hand och glida
   isär från datat.
 
@@ -97,9 +96,14 @@ räkna en andel av, eftersom upptäcktslistan inte sparas
 Matrisen organ × år och luckorna (K7) väntar tills det finns riktig data.
 
 Invändningen mot `docs/` var att mappen redan är dokumentationen och att
-nattkörningen inte kan checka in på `main` utan pull request. En
+genererad HTML på `main` måste byggas om i samma commit som varje
+ändring i datat, annars glider den isär. En
 sajtgenerator avvisades eftersom den inte sparar något arbete: talen
 måste räknas i Python oavsett, och resten är en meny och en sidfot.
+
+Issue #12 talar om att sidan byggs ur indexet. Indexet (steg 3 i
+flödet) finns inte än, så statussidan räknar direkt ur front matter. När
+indexet finns kan sidan läsa det i stället, utan att beslutet ändras.
 
 Beslutet bör omprövas om webbplatsen växer till något som behöver sök
 eller många sidtyper.
