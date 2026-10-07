@@ -1,8 +1,8 @@
 ---
 status: accepted
 date: 2026-10-06
-decision-makers: Morgan
-consulted: Claude
+decision-makers: projektägaren
+consulted: AI-agenten
 ---
 
 # Kort AGENTS.md, faserna som skills och en egen granskningsagent
@@ -25,10 +25,10 @@ utvecklas?
   felen i den.
 * **Sammanhang i implementationen.** Krav, design och kod bygger på
   varandra; att lämna över mellan agenter tappar detaljer.
-* **Beprövat arbetssätt.** Morgans tidigare repon har fungerande upplägg:
+* **Beprövat arbetssätt.** Tidigare repon har fungerande upplägg:
   `moggleif/libell` (CLAUDE.md med ägartabell och definition av klart) och
-  `MorganDigitalAsyncTransparency/community` (AGENT.md med faserna 0–8,
-  kontrollpunkter och synkade kopior för varje verktyg).
+  ett community-repo (AGENT.md med faserna 0–8, kontrollpunkter och
+  synkade kopior för varje verktyg).
 
 ## Considered Options
 
@@ -106,29 +106,29 @@ CLAUDE.md                         @AGENTS.md
 
 ### Diskussionen som ledde fram till beslutet
 
-1. **Första versionen (Claude)** var en CLAUDE.md med projektets regler.
-   Morgan tyckte att instruktionerna behövde vara bättre och frågade om
+1. **Första versionen (agenten)** var en CLAUDE.md med projektets regler.
+   Projektägaren tyckte att instruktionerna behövde vara bättre och frågade om
    CLAUDE.md och en agentfil hade samma innehåll och var länkade, och om de
    byggde på `moggleif/libell`.
-2. **Libell-modellen (Claude).** AGENTS.md blev den enda vägledningen med
+2. **Libell-modellen (agenten).** AGENTS.md blev den enda vägledningen med
    ägartabell, regler och definition av klart enligt libell, och CLAUDE.md
    importerar den. Kraven och arkitekturen fick egna dokument, och besluten
-   flyttades till MADR på Morgans begäran.
-3. **Morgan: community-repots AGENT.md verkar bättre.** Den har faserna
+   flyttades till MADR på projektägarens begäran.
+3. **Projektägaren: community-repots AGENT.md verkar bättre.** Den har faserna
    0–8, kontrollpunkter och en granskning ur fem perspektiv, och hålls i takt
    med CLAUDE.md och Copilot med en hook och en CI-kontroll.
-4. **Morgan: men den är ett år gammal – ska vi ha en agent per fas?**
-5. **Svar (Claude):** inte en agent per fas. Fas 1–5 bygger på varandra och
+4. **Projektägaren: men den är ett år gammal – ska vi ha en agent per fas?**
+5. **Svar (agenten):** inte en agent per fas. Fas 1–5 bygger på varandra och
    vinner på samma sammanhang. Det som vinner på en egen agent är
    granskningen, eftersom en agent som inte skrev koden hittar mer. Det som
    åldrats i community-filen är att allt ligger i en fil som alltid läses in;
-   i dag kan instruktioner laddas när de behövs. Claude rekommenderade A.
-6. **Morgan valde A.**
+   i dag kan instruktioner laddas när de behövs. Agenten rekommenderade A.
+6. **Projektägaren valde A.**
 
 ### Ursprung
 
 Principerna, faserna och granskningsperspektiven kommer ur `AGENT.md` i
-`MorganDigitalAsyncTransparency/community`. Ägartabellen och regeln om att
+ett tidigare community-repo. Ägartabellen och regeln om att
 koden har rätt kommer ur `CLAUDE.md` i `moggleif/libell`.
 
 ### När beslutet bör omprövas

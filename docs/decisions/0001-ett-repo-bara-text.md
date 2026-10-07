@@ -1,8 +1,8 @@
 ---
 status: accepted
 date: 2026-10-06
-decision-makers: Morgan
-consulted: Claude
+decision-makers: projektägaren
+consulted: AI-agenten
 ---
 
 # Ett repo med bara text – PDF:en raderas efter konvertering
@@ -58,7 +58,7 @@ fil i stället för med lagrade original.
   hämtas på nytt. Kommunen visar bara ungefär två år bakåt, så för äldre
   dokument kan det bli svårt.
 * Dåligt, eftersom kod och text har samma synlighet. Repot är publikt
-  (Morgans beslut: protokoll och handlingar är offentliga).
+  (ägarens beslut: protokoll och handlingar är offentliga).
 * Neutralt, eftersom repot växer för varje kommun; texten kan brytas ut per
   kommun senare om det behövs.
 
@@ -149,31 +149,31 @@ luckan syns.
 
 ### Diskussionen som ledde fram till beslutet
 
-1. **Första förslaget (Claude): kod och data isär.** Utgångspunkten var att
+1. **Första förslaget (agenten): kod och data isär.** Utgångspunkten var att
    10–30 GB PDF inte ryms i git. Alternativ A–E togs fram, som alla sparar
-   originalen någonstans. Claude rekommenderade B.
-2. **Morgan: varför spara PDF:erna alls?** Hämta PDF:en tillfälligt,
+   originalen någonstans. Agenten rekommenderade B.
+2. **Ägaren: varför spara PDF:erna alls?** Hämta PDF:en tillfälligt,
    konvertera, skriv källänk och datum för hämtning och konvertering överst
    i Markdown-filen och radera PDF:en. Då återstår bara text, och ett repo
    räcker. Det blev alternativ F.
-3. **Invändning (Claude): konvertering kan behöva göras om.** Verktygen för
-   OCR och tabeller blir bättre, och kommunen visar bara ~2 år bakåt. Claude
+3. **Invändning (agenten): konvertering kan behöva göras om.** Verktygen för
+   OCR och tabeller blir bättre, och kommunen visar bara ~2 år bakåt. Agenten
    föreslog att osäkra PDF:er skulle sparas tills vidare.
-4. **Morgan: det som inte går att konvertera går inte att använda som
+4. **Ägaren: det som inte går att konvertera går inte att använda som
    data.** Det som behövs är att varje fil anger hur väl konverteringen
    lyckades. Vad ska originalet då vara till?
-5. **Svar (Claude): två användningar** – konvertera om senare, och belägga en
+5. **Svar (agenten): två användningar** – konvertera om senare, och belägga en
    siffra som ifrågasätts. Båda klaras med källänk och sha256. Förslaget att
    spara osäkra PDF:er ströks, och kvalitetsnivå per dokument och sida lades
    till.
 6. **Överenskommet: konvertera om senare = leta upp filen igen senare.**
    Projektet lagrar inga PDF:er.
-7. **Synlighet.** Morgan beslutade att repot är publikt, eftersom
-   handlingarna är offentliga. Claude påpekade att namn räknas som
+7. **Synlighet.** Ägaren beslutade att repot är publikt, eftersom
+   handlingarna är offentliga. Agenten påpekade att namn räknas som
    personuppgifter i GDPR; att kunna ta bort ett dokument som kommunen själv
    drar tillbaka räcker som hantering.
 
-Claude rekommenderade till slut F. Beslutet fattades av Morgan 2026-10-06.
+Agenten rekommenderade till slut F. Beslutet fattades av ägaren 2026-10-06.
 
 ### Vad som återanvänds från moggleif/politik
 

@@ -1,8 +1,8 @@
 ---
 status: accepted
 date: 2026-10-06
-decision-makers: Morgan
-consulted: Claude
+decision-makers: projektägaren
+consulted: AI-agenten
 ---
 
 # Dokumentet identifieras av sin plats i modellen och en källnyckel; sha256 är versionen
@@ -185,25 +185,25 @@ data/kungsbacka/arenden/KS-2019-00123/tjansteskrivelse.md
 1. **Problemet (granskningen av grunden).** Fas 6 i PR #1 påpekade att
    organ, datum och typ inte räcker som identitet och att sökvägen krockar.
    Det blev issue #2.
-2. **Förslaget (Claude).** Claude tog fram A–D och rekommenderade B:
+2. **Förslaget (agenten).** Agenten tog fram A–D och rekommenderade B:
    platsen i modellen ger läsbara sökvägar, och källnyckeln löser
    Sitevisions nya adresser. C förkastades eftersom git-historiken då inte
    visar vad som ändrats, och D eftersom dagens handlingar inte är
    uppdelade per ärende.
-3. **Fyra frågor till Morgan, med Claudes rekommendation:**
-   * Identitet: B (Claude rekommenderade B).
+3. **Fyra frågor till ägaren, med agentens rekommendation:**
+   * Identitet: B (agenten rekommenderade B).
    * Ärendet som attribut i front matter eller som katalognivå: attribut
-     (Claude), eftersom en ärendenivå i sökvägen bara passar de äldre
+     (agenten), eftersom en ärendenivå i sökvägen bara passar de äldre
      filerna.
    * Versioner som överskrivning med git-historiken som versioner, eller
-     gamla versioner som egna filer: överskrivning (Claude), som K9 redan
+     gamla versioner som egna filer: överskrivning (agenten), som K9 redan
      säger.
    * Diarieärenden utan sammanträde i poolen eller utanför: utanför
-     (Claude); diariet blir bara en källa till mötesdokument.
-4. **Morgan sa ja** till alla fyra rekommendationerna 2026-10-06.
+     (agenten); diariet blir bara en källa till mötesdokument.
+4. **Ägaren sa ja** till alla fyra rekommendationerna 2026-10-06.
 5. **Granskningen (fas 6)** visade att plats och källnyckel kunde säga
    olika saker: ett nytt filnamn gav ett nytt namn och en ny sökväg, och
-   ett justerat protokoll som ny nod krockade med det ojusterade. Claude
+   ett justerat protokoll som ny nod krockade med det ojusterade. Agenten
    lade till att platsen bestäms en gång och sedan följer källnyckeln,
    och regeln för en ny källnyckel på en upptagen plats. Samtidigt
    preciserades källnyckelns form och räckvidd, att `arenden` skiljer

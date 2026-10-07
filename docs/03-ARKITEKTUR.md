@@ -127,17 +127,119 @@ bytes: 812345
 sidor: 14
 hamtad: 2026-10-06T15:40:12+02:00
 konverterad: 2026-10-06T15:40:31+02:00
-pipeline: kommunhandlingar 0.1 / <verktyg> <version>
-kvalitet: full        # full | text-utan-tabeller | ocr | delvis | ej-konverterad | ej-hamtad
-fel: null             # kort orsakskod när något inte gick, t.ex. http-404, avbruten, kapad
-kvalitet_per_sida: [ok, ok, ocr, tabell-osaker, …]
+pipeline: kommunhandlingar <version> / <verktyg> <version> …
+kvalitet: ocr         # full | text-utan-tabeller | ocr | delvis | ej-konverterad | ej-hamtad
+fel: null             # kort orsakskod när något inte gick, t.ex. http-404, kapad, krypterad
+kvalitet_per_sida: [ok, ok, ocr, tabell-osaker, …]   # ok | tom | tabell-osaker | ocr | ej-konverterad
+tal_obekraftade: [3]  # sidor med tal som inte är bekräftade; [] = alla tal bekräftade
 ---
 ```
 
 `kvalitet` och `fel` är tillsammans dokumentets status (K6). När kvalitet
 är `ej-hamtad` finns inget original: `sha256`, `bytes`, `sidor`,
-`konverterad` och `kvalitet_per_sida` är `null`, och `hamtad` är tiden för
-det första försöket som misslyckades med orsaken i `fel` och adressen i
-`kalla_url`. Härkomsten är då
+`konverterad`, `kvalitet_per_sida` och `tal_obekraftade` är `null`, och
+`hamtad` är tiden för det första försöket som misslyckades med orsaken i
+`fel` och adressen i `kalla_url`. Härkomsten är då
 källänken, källnyckeln och försöket
 ([ADR-0004](decisions/0004-inkrementell-korning-poolen-ar-tillstandet.md)).
+
+### Konvertering och kvalitet
+
+Reglerna och trösklarna står här; varför de valdes, och mätningarna bakom
+dem, står i [ADR-0005](decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md).
+Text och tabeller läses med pdfplumber. OCR görs med Tesseract och svensk
+modell på sidor renderade med pypdfium2.
+
+Text och tal märks var för sig. `kvalitet` och `kvalitet_per_sida` säger
+hur texten lästes; `tal_obekraftade` säger på vilka sidor talen inte är
+bekräftade och därför inte ska användas som data.
+
+Varje sida får en kvalitet:
+
+| Sida             | Betyder                                                          |
+| ---------------- | ---------------------------------------------------------------- |
+| `ej-konverterad` | Sidan skulle läsas med OCR, men Tesseract kände inte igen några ord eller medelsäkerheten nådde inte tröskeln. Ingen text från sidan skrivs. |
+| `ocr`            | Sidan lästes med OCR. Den får inga CSV:er.                       |
+| `tabell-osaker`  | Textlagret är läst, men sidan har en osäker tabell.              |
+| `ok`             | Textlagret är läst, och sidans tabeller är säkra.                |
+| `tom`            | Sidan har inga tecken och är, renderad, nästan helt vit.          |
+
+Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
+
+1. **Tom:** inga tecken, och sidan renderad i 72 dpi har högst 0,5 %
+   pixlar som inte är vita → `tom`. Det gäller också en tom inskannad
+   baksida och en sida med bara en ram eller ett streck.
+2. **Skanning:** den yta som bilderna tillsammans täcker är minst 90 % av
+   sidan, och sidan har färre än 50 synliga tecken. Osynlig text
+   (renderingsläge 3, som ett tidigare OCR-lager har) räknas inte, och en
+   stämpel eller ett diarienummer i synlig text hindrar inte → OCR.
+3. **Oläsligt textlager:** mer än 1 % av textlagrets tecken är oläsliga
+   (`(cid:…)`, styrtecken, ersättningstecken) → OCR.
+4. **Inga tecken:** sidan har bilder eller ritad grafik men inga tecken →
+   OCR, så att text som gjorts om till kurvor inte försvinner tyst.
+5. **Annars** läses textlagret, hur kort det än är, och sidan blir `ok`
+   eller `tabell-osaker`.
+
+- **OCR:** sidan renderas och läses av Tesseract med svensk modell
+  (`swe`). Upplösningen och förberedelsen av bilden bestäms när
+  konverteringen skrivs, mot den inskannade blanketten som testfixtur. Säkerheten är medelvärdet av Tesseracts säkerhet för de
+  ord den känt igen (poster med säkerhet −1 räknas inte). Är den minst 70
+  blir sidan `ocr`. Annars, och när Tesseract inte känner igen några ord,
+  blir den `ej-konverterad`: den har innehåll, en karta, ett foto eller
+  handskrift, som inte blev text. På en OCR-sida letas inga tabeller;
+  hela sidans text är OCR-text, och den läses för sammanhangets skull,
+  inte som data. Talen i OCR-texten står omärkta i texten; att de inte är
+  bekräftade syns bara i `tal_obekraftade`.
+- **`tal_obekraftade`** listar, med sidnummer från 1, varje sida vars tal
+  inte är bekräftade: varje sida som är `ocr`, varje sida som är
+  `ej-konverterad`, eftersom talen på den inte är lästa, och varje sida
+  med textlager där något tecken är oläsligt, eftersom tecknet kan ha
+  varit en siffra. Övriga tal i ett läst textlager är bekräftade: de är
+  de tal PDF:en innehåller. Det säger ingenting om vilken cell de hör
+  till; det avgörs av reglerna för tabeller nedan. Talen på en sida som
+  inte står i listan går att använda som data, och en tom lista betyder
+  att det gäller varje tal i dokumentet.
+- **En säker tabell** är avgränsad av ritade linjer: streck och fyllda
+  rektanglar som är högst 2 punkter breda eller höga. Bredare fyllda ytor,
+  som färgade rader och kolumner, är inga linjer. Tabellen har minst två
+  rader och två kolumner, och varje ord inom dess yta har sin mittpunkt i
+  en cell. En säker tabell skrivs som CSV.
+- **En osäker tabell** är minst tre talrader på sidan, var som helst
+  utanför de säkra tabellerna. Raderna tas ur sidans text med bevarad
+  uppställning, och fält skiljs åt av två eller fler mellanslag. En
+  talrad har minst två fält som är tal. Ett tal är ett heltal, där
+  tusentalen får skiljas med mellanslag eller hårt mellanslag, med
+  eventuellt minustecken (`-`, `−` eller `–`), decimalkomma och
+  procenttecken, med eller utan mellanslag före: `2027`, `-1 845`, `21,33`, `53%`,
+  `53 %`, men inte `2026-08-11` eller `2023-00686`. En osäker tabell
+  skrivs inte som CSV. Varje följd av talrader, där bara tomma rader får
+  stå emellan, står i `.md` som ett eget kodblock märkt `osaker-tabell`,
+  med uppställningen bevarad, och sidan blir `tabell-osaker`.
+
+Dokumentets kvalitet följer av sidorna, och den första regeln som stämmer
+gäller. Den sämsta sidan avgör:
+
+| Dokument             | När                                                          |
+| -------------------- | ------------------------------------------------------------ |
+| `ej-hamtad`          | Filen gick inte att hämta (ADR-0004).                        |
+| `ej-konverterad`     | Filen gick inte att öppna, eller ingen sida är `ok`, `tabell-osaker` eller `ocr`. |
+| `delvis`             | Någon sida är `ej-konverterad`.                              |
+| `ocr`                | Någon sida är `ocr`.                                         |
+| `text-utan-tabeller` | Någon sida är `tabell-osaker`.                               |
+| `full`               | Alla sidor är `ok` eller `tom`.                              |
+
+När filen inte gick att öppna står orsaken i `fel`: `krypterad` (filen
+kräver lösenord för att öppnas; ett lösenord som bara begränsar utskrift
+eller ändring hindrar inte), `trasig-pdf` (också en fil utan sidor) eller
+`inte-pdf`. Då är `kvalitet_per_sida`, `tal_obekraftade` och `sidor`
+`null`, medan `sha256` och `bytes` beskriver den hämtade filen. Har filen
+sidor men ingen av dem gick att läsa är `fel` `null`, och `sidor`,
+`kvalitet_per_sida` och `tal_obekraftade` visar sidorna som de är.
+
+`pipeline` är poolens version ur `pyproject.toml` följd av de verktyg som
+läste dokumentet, med version: alltid pdfplumber och pdfminer.six, och
+pypdfium2 samt Tesseract och språkmodellens version när någon sida
+lästes med OCR, till exempel
+`kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 /
+pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. Versionen höjs när en
+ändring i konverteringen ändrar vad den skriver.

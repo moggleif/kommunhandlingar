@@ -23,9 +23,17 @@
   ([ADR-0003](../decisions/0003-dokumentets-identitet-och-datamodell.md)).
 - Filnamnen bär organ och datum i klartext: "Protokoll för …", "Handlingar
   för/till möte … den ÅÅÅÅ-MM-DD", och (enligt KALLOR.md) en separat kallelse.
-- **Handlingarna är en sammanslagen PDF per möte**, 3–33 MB för en nämnd.
+- **Handlingarna är en sammanslagen PDF per möte**, 3–33 MB för en nämnd
+  och 46 MB för kommunfullmäktige 2026-08-11 (228 sidor).
   Ärendena (tjänsteskrivelser, bilagor) ligger efter varandra i samma fil.
   Kallelsen listar ärendena och är liten.
+- **PDF:ernas form** (kontrollerat 2026-10-06 för
+  [ADR-0005](../decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md)):
+  protokoll och tjänsteskrivelser har textlager. Handlingarna innehåller
+  också skannade sidor – ifyllda blanketter utan textlager och
+  motioner och interpellationer som redan fått ett OCR-lager. Tjänsteskrivelsernas
+  tabeller är ritade med linjer; budgetens tabeller har bara vågräta
+  linjer och färgade kolumner.
 - Nämndsidorna listar **ungefär två år bakåt** (för GA: från 2024).
 - Fullmäktige sänds och arkiveras som video (YouTube 2022–2024, Screen9 2024–),
   med kapitel per ärende och inlägg. Redan hämtat i politik-repot.

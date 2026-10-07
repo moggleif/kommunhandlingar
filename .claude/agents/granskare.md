@@ -29,6 +29,11 @@ Argumentera mot ändringen ur vart och ett av dessa sex perspektiv:
   tillstånd som inte kan uppstå, varje kommentar som återberättar koden och
   varje funktion eller fil över gränserna. Föreslå vad som kan strykas.
 
+Kontrollera dessutom, oavsett perspektiv, regeln **Inga personnamn** i
+`AGENTS.md`: i alla filer på grenen, i commit-meddelandena
+(`git log main..HEAD`) och i PR- och issuetexterna. Går en text inte att
+läsa, säg att den inte är kontrollerad. Varje fynd är **Blockerande**.
+
 För varje perspektiv: namnge minst en konkret fil, funktion eller scenario du
 undersökte, och vad du fann. "Inget hittat" gäller bara om du säger vad du
 tittade på och varför det håller. Att bara hitta en liten sak efter en större
