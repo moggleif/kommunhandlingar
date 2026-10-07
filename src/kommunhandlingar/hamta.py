@@ -11,21 +11,18 @@ import argparse
 import json
 import sys
 from collections import Counter
-from datetime import UTC, date, datetime, timedelta
+from datetime import UTC, date, datetime
 from importlib.metadata import version
 from pathlib import Path
 
-from kommunhandlingar import konfiguration, pool
+from kommunhandlingar import konfiguration, pool, tidsbudget
 from kommunhandlingar.behandla import Steg2, behandla
 from kommunhandlingar.fel import Konfigurationsfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
 from kommunhandlingar.kandidat import Kandidat
 from kommunhandlingar.konvertering import ocr
-from kommunhandlingar.tidsbudget import Tidsgrans, hard_grans
-
-MJUK = timedelta(hours=5)
-HARD = timedelta(hours=5, minutes=30)
+from kommunhandlingar.tidsbudget import Tidsgrans
 
 
 def las_kandidater(fil: Path) -> list[Kandidat]:
@@ -40,27 +37,20 @@ def nu() -> datetime:
 def kor(steg: Steg2, kandidater: list[Kandidat], mjuk: datetime) -> Counter:
     utfall: Counter = Counter()
     for nr, kandidat in enumerate(kandidater):
-        if steg.tid() >= mjuk:
-            utfall["väntar på nästa körning"] += len(kandidater) - nr
-            break
         try:
+            if steg.tid() >= mjuk:
+                utfall["väntar på nästa körning"] += len(kandidater) - nr
+                break
             resultat = behandla(steg, kandidat)
         except Tidsgrans:
-            resultat = "lagd åt sidan vid tidsgränsen"
+            print(f"lagd åt sidan vid tidsgränsen: {kandidat.url}", flush=True)
+            utfall["lagd åt sidan vid tidsgränsen"] += 1
             utfall["väntar på nästa körning"] += len(kandidater) - nr - 1
-        utfall[resultat] += 1
-        if resultat.startswith(("ej hämtad", "lagd åt sidan")):
-            print(f"{resultat}: {kandidat.url}", flush=True)
-        if resultat.startswith("lagd åt sidan"):
             break
+        utfall[resultat] += 1
+        if resultat.startswith("ej hämtad"):
+            print(f"{resultat}: {kandidat.url}", flush=True)
     return utfall
-
-
-def budget(start: datetime | None) -> datetime:
-    if start is None:
-        return datetime.max.replace(tzinfo=UTC)
-    hard_grans(max(1, int((start + HARD - nu()).total_seconds())))
-    return start + MJUK
 
 
 def main(kommunfil: Path, arbetskatalog: Path, start: datetime | None) -> None:
@@ -77,7 +67,13 @@ def main(kommunfil: Path, arbetskatalog: Path, start: datetime | None) -> None:
         tid=nu,
         version=f"kommunhandlingar {version('kommunhandlingar')}",
     )
-    for resultat, antal in sorted(kor(steg, kandidater, budget(start)).items()):
+    if start:
+        tidsbudget.starta_hard_grans(start, nu())
+    try:
+        utfall = kor(steg, kandidater, tidsbudget.mjuk_grans(start))
+    finally:
+        tidsbudget.stoppa()
+    for resultat, antal in sorted(utfall.items()):
         print(f"{antal} {resultat}")
 
 

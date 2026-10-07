@@ -8,7 +8,7 @@ from datetime import timedelta
 from pathlib import Path
 from unittest import mock
 
-from kommunhandlingar import pool
+from kommunhandlingar import pool, tidsbudget
 from kommunhandlingar.behandla import Steg2
 from kommunhandlingar.datakontroll import fel_i
 from kommunhandlingar.hamta import kor
@@ -76,6 +76,26 @@ class TestBudgeten(unittest.TestCase):
             utfall = self.kor(TID + timedelta(hours=1))
         self.assertEqual(utfall["lagd åt sidan vid tidsgränsen"], 1)
         self.assertEqual(list(self.data.rglob("*")), [])
+
+
+class TestGranserna(unittest.TestCase):
+    def setUp(self):
+        gammal = signal.getsignal(signal.SIGALRM)
+        self.addCleanup(signal.signal, signal.SIGALRM, gammal)
+        self.addCleanup(tidsbudget.stoppa)
+
+    def test_mjuk_grans(self):
+        self.assertEqual(tidsbudget.mjuk_grans(TID), TID + timedelta(hours=5))
+        self.assertGreater(tidsbudget.mjuk_grans(None), TID + timedelta(days=9999))
+
+    def test_hard_grans_raknas_fran_jobbets_start(self):
+        nu = TID + timedelta(hours=1)
+        tidsbudget.starta_hard_grans(TID, nu)
+        self.assertEqual(signal.alarm(0), 4 * 3600 + 30 * 60)
+
+    def test_passerad_hard_grans_avbryter_genast(self):
+        tidsbudget.starta_hard_grans(TID, TID + timedelta(hours=6))
+        self.assertEqual(signal.alarm(0), 1)
 
 
 class TestSkrivningenAvbrytsInte(unittest.TestCase):

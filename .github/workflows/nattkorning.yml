@@ -45,15 +45,10 @@ jobs:
       - name: Bara textfiler under data/
         run: |
           git add -A
-          if git diff --cached --name-only | grep -v '^data/'; then exit 1; fi
+          if git -c core.quotePath=false diff --cached --name-only | grep -v '^data/'; then exit 1; fi
           if git diff --cached --numstat | grep '^-'; then exit 1; fi
       - name: Checka in på en egen gren
         run: |
-          {
-            echo '```'
-            tail -n 200 "$RUNNER_TEMP/sammanfattning.txt"
-            echo '```'
-          } >> "$GITHUB_STEP_SUMMARY"
           if git diff --cached --quiet; then
             echo "Inget nytt i poolen." >> "$GITHUB_STEP_SUMMARY"
             exit 0
@@ -64,3 +59,11 @@ jobs:
           git commit -q -m "Nattkörning $(date -u +%F)"
           git push origin "HEAD:refs/heads/$gren"
           echo "Datat ligger på grenen \`$gren\`; öppna en PR därifrån (ADR-0015)." >> "$GITHUB_STEP_SUMMARY"
+      - name: Sammanfattning
+        if: always()
+        run: |
+          {
+            echo '```'
+            tail -n 200 "$RUNNER_TEMP/sammanfattning.txt" 2>/dev/null || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"

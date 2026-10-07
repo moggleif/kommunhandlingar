@@ -8,6 +8,10 @@ den mjuka gränsen redan är passerad.
 
 import signal
 from contextlib import contextmanager
+from datetime import UTC, datetime, timedelta
+
+MJUK = timedelta(hours=5)
+HARD = timedelta(hours=5, minutes=30)
 
 
 class Tidsgrans(BaseException):
@@ -18,9 +22,17 @@ def avbryt(signum, ram) -> None:
     raise Tidsgrans
 
 
-def hard_grans(sekunder: int) -> None:
+def mjuk_grans(start: datetime | None) -> datetime:
+    return datetime.max.replace(tzinfo=UTC) if start is None else start + MJUK
+
+
+def starta_hard_grans(start: datetime, nu: datetime) -> None:
     signal.signal(signal.SIGALRM, avbryt)
-    signal.alarm(sekunder)
+    signal.alarm(max(1, int((start + HARD - nu).total_seconds())))
+
+
+def stoppa() -> None:
+    signal.alarm(0)
 
 
 @contextmanager

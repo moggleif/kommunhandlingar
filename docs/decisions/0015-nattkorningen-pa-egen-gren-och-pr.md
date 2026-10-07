@@ -55,7 +55,11 @@ rekommenderas som nästa steg.
 * **Datakontrollerna körs i körningen och i CI** på varje PR, så en
   datacommit får samma kontroller som all annan ändring.
 * **Webbplatsen byggs om** av mergen till `main`, som startar
-  `webbplats.yml` som vanligt.
+  `webbplats.yml` som vanligt. ADR-0012:s konsekvens att nattkörningen
+  måste starta webbplatsbygget själv gäller därför inte längre.
+* **Flera omergade grenar** innehåller samma dokument med olika
+  `hamtad`. Merga den nyaste och ta bort de äldre: det de hade utöver den
+  hämtas igen av nästa körning.
 * "Gren, inte `main`" i AGENTS.md gäller nu utan undantag.
 
 Det som ADR-0006 i övrigt bestämde gäller: Actions varje natt och för

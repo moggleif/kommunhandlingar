@@ -102,4 +102,5 @@ körningen innan den checkar in, står under "Körning och incheckning" i
 `.github/workflows/nattkorning.yml` går varje natt och kan startas för
 hand under Actions. Den pushar en gren `nattkorning/<datum>-<id>` när
 något ändrats; öppna en PR från den och merga när "Ren kod och tester"
-gått igenom (ADR-0015).
+gått igenom (ADR-0015). Ligger flera grenar omergade, merga den nyaste
+och ta bort de äldre; det de hade utöver den hämtas igen nästa natt.
