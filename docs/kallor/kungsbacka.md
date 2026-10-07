@@ -41,8 +41,8 @@ Listan flyttas till `kommuner/kungsbacka.toml` när den skrivs
 | Valnämnden | `valnamndens-sammantraden` |
 | Kommunrevisionen | `kommunrevisionens-sammantraden` |
 
-Sidorna länkade 2026-10-07 till 1 654 filer (unika nod-id:n), alla PDF
-utom ett protokoll i Word-format (Valnämnden 2024-02-05, `.docx`).
+Sidorna hade 2026-10-07 1 671 filer (unika nod-id:n), alla PDF utom ett
+protokoll i Word-format (Valnämnden 2024-02-05, `.docx`).
 
 Utan egen mötessida:
 
@@ -63,16 +63,23 @@ till fullmäktiges sida, `besok-kommunfullmaktige` och
 
 ### Hur sidorna är byggda
 
-- **Allt står i HTML:en från servern**, inget laddas med JavaScript och
-  inget pagineras: alla år ligger på samma sida.
+- **Allt står i HTML:en från servern** och inget pagineras: alla år
+  ligger på samma sida.
 - Varje år är en rubrik `<h2>` "Kallelser, handlingar och protokoll från
-  möten ÅÅÅÅ", varje möte en `<h3>` "D månad ÅÅÅÅ", och mötets filer en
-  lista i Sitevisions filportlet (`sv-file-portlet`). Länktexten är
-  filnamnet följt av typ och storlek ("Pdf, 4.5 MB").
-- **Möten utan filer finns.** Kommande möten får sin rubrik innan
-  kallelsen läggs ut, och fyra redan hållna möten saknade filer
-  2026-10-07: Tekniks arbetsutskott 6 maj 2024, 12 januari 2026 och
-  10 augusti 2026, och revisionen 3 juni 2026.
+  möten ÅÅÅÅ" och varje möte en `<h3>` "D månad ÅÅÅÅ".
+- **Mötets filer står i en av två former.** De flesta ligger som länkar i
+  Sitevisions filportlet (`sv-file-portlet`), med filnamnet följt av typ
+  och storlek som länktext ("Pdf, 4.5 MB"). De nyaste mötena har i stället
+  en portlet som ritas i webbläsaren, och filerna står bara som JSON i
+  HTML:en, i `AppRegistry.registerInitialState('12.…', {"files": […]})`:
+  17 filer under nio möten 2026-10-07. Varje post har `id` (nod-id:t),
+  `name`, `uri`, `url`, `fileSize`, `lastModifiedDateTime` och
+  `lastModifiedBy`. En adapter som bara läser länkarna missar de nyaste
+  dokumenten.
+- **`lastModifiedBy` är den som laddat upp filen** och förs inte in i
+  poolen (AGENTS.md, "Inga personnamn").
+- **Tre redan hållna möten saknade filer** 2026-10-07, alla hos Tekniks
+  arbetsutskott: 6 maj 2024, 12 januari 2026 och 10 augusti 2026.
 - **Sidorna visar bara möten från januari 2024.** Varje sida börjar i
   januari eller februari 2024; äldre år ligger inte kvar, och
   sökfunktionen hittar inga protokoll från 2023. Om äldre år plockas bort
@@ -96,7 +103,8 @@ till fullmäktiges sida, `besok-kommunfullmaktige` och
 - **Tidsstämpeln stämmer med filens `Last-Modified`.** Befolkningsprognosen
   `18.3ae5986a198e623c951df996` har tidsstämpeln `1782303262032`
   (2026-06-24 12:14:22 UTC), och svaret har `Last-Modified: Wed, 24 Jun
-  2026 12:14:22 GMT`.
+  2026 12:14:22 GMT`. JSON-postens `lastModifiedDateTime` skiljer sig
+  bara ett par millisekunder från adressens tidsstämpel.
 - **En gammal eller påhittad tidsstämpel ger 301** till den gällande
   adressen; den äldre `…/1756727320521/` och `…/1/` leder båda dit. Ett
   borttaget nod-id ger 404.
@@ -161,7 +169,7 @@ Hur adaptern hanterar det avgörs när den skrivs (#25).
   (tjänsteskrivelser, bilagor) ligger efter varandra i samma fil.
   Kallelsen listar ärendena och är liten.
 - **Storleken varierar kraftigt.** Enligt länktexterna 2026-10-07 är
-  hälften av de 488 handlingsfilerna under 6,6 MB, men 36 är över 100 MB
+  hälften av de omkring 490 handlingsfilerna under 6,6 MB, men 36 är över 100 MB
   och den största 308,8 MB (Kommunstyrelsen 2025-04-22). De stora är
   kommunstyrelsens, dess arbetsutskotts och fullmäktiges.
 - **PDF:ernas form** (kontrollerat 2026-10-06 för
