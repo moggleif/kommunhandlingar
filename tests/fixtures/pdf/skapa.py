@@ -32,6 +32,7 @@ def text(c: Canvas, rader: list[str], y: float = 780) -> None:
 
 def textsida(c: Canvas) -> None:
     text(c, ["Protokoll 2026-08-11", "Dnr KS 2023-00686", "Paragraf 12 beslutades."])
+    c.line(60, 700, 300, 700)  # ett ensamt streck är ingen tabell
 
 
 def rutnat(c: Canvas, x: list[float], y: list[float]) -> None:

@@ -5,9 +5,9 @@ from pathlib import Path
 
 from kommunhandlingar.konvertering.dokument import konvertera
 from kommunhandlingar.konvertering.kvalitet import dokumentets
-from kommunhandlingar.konvertering.sida import langd_av, tackt_yta
 from kommunhandlingar.konvertering.tabeller import som_csv, som_markdown
 from kommunhandlingar.konvertering.text import ar_talrad, stycken
+from kommunhandlingar.konvertering.vag import langd_av, tackt_yta
 
 PDF = Path(__file__).parent / "fixtures" / "pdf"
 

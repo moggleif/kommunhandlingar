@@ -4,14 +4,13 @@ Läser en PDF sida för sida och ger Markdown-texten, tabellerna som CSV och
 kvaliteten per sida och för dokumentet.
 """
 
-from dataclasses import dataclass, field
+import sys
+from dataclasses import dataclass
 from importlib.metadata import version
 from pathlib import Path
 
 import pdfplumber
 import pypdfium2 as pdfium
-from pdfminer.psexceptions import PSException
-from pdfplumber.utils.exceptions import PdfminerException
 
 from kommunhandlingar.konvertering import kvalitet
 from kommunhandlingar.konvertering.las_sida import Sida, las_sida
@@ -25,7 +24,6 @@ class Resultat:
     kvalitet: str
     fel: str | None = None
     sidor: list[Sida] | None = None
-    verktyg: tuple[str, ...] = field(default=VERKTYG)
 
     @property
     def kvalitet_per_sida(self) -> list[str] | None:
@@ -38,8 +36,8 @@ class Resultat:
         return [nr for nr, s in enumerate(self.sidor, 1) if s.tal_obekraftade]
 
 
-def versioner(verktyg: tuple[str, ...]) -> list[str]:
-    return [f"{namn} {version(namn)}" for namn in verktyg]
+def versioner() -> list[str]:
+    return [f"{namn} {version(namn)}" for namn in VERKTYG]
 
 
 def konvertera(pdf: Path) -> Resultat:
@@ -52,7 +50,10 @@ def konvertera(pdf: Path) -> Resultat:
     except pdfium.PdfiumError as fel:
         losenord = fel.err_code == pdfium.raw.FPDF_ERR_PASSWORD
         return Resultat("ej-konverterad", "krypterad" if losenord else "trasig-pdf")
-    except (PdfminerException, PSException):
+    except Exception as fel:
+        # pdfminer kastar godtyckliga undantag (TypeError, IndexError, …) för
+        # trasiga filer. En fil får inte stoppa körningen; orsaken syns i loggen.
+        print(f"{pdf.name}: {type(fel).__name__}: {fel}", file=sys.stderr)
         return Resultat("ej-konverterad", "trasig-pdf")
     if not sidor:
         return Resultat("ej-konverterad", "trasig-pdf")

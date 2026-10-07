@@ -10,8 +10,8 @@ import pypdfium2 as pdfium
 from pdfplumber.page import Page
 
 from kommunhandlingar.konvertering import tabeller
-from kommunhandlingar.konvertering.sida import olasliga, vag
 from kommunhandlingar.konvertering.text import stycken
+from kommunhandlingar.konvertering.vag import olasliga, vag
 
 RENDERING_72_DPI = 1
 

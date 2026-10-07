@@ -21,10 +21,9 @@ class Plats:
     datum: date
     typ: str
     namn: str | None = None
-    lopnr: int | None = None
 
     def sokvag(self, kommun: str) -> PurePosixPath:
-        dag = self.datum.isoformat() + (f"-{self.lopnr}" if self.lopnr else "")
+        dag = self.datum.isoformat()
         fil = self.typ + (f"-{self.namn}" if self.namn else "") + ".md"
         return PurePosixPath(kommun, self.organ, str(self.datum.year), dag, fil)
 

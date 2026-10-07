@@ -3,7 +3,8 @@ Test: tests/test_hamta.py.
 
 Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta,
 konvertera och skriv. Ett misslyckat försök skriver aldrig över en
-fullständig `.md`.
+fullständig `.md`. K8:s regel om äldre ögonblicksbilder väntar på
+Wayback-adaptern.
 """
 
 import hashlib
@@ -26,112 +27,109 @@ class Steg2:
     data: Path
     kommun: str
     pool: Pool
-    klient: object
+    klient: object  # har fil(url, mal), som hamtning.klient.Klient
     nycklar: frozenset[str]
     tid: Callable[[], datetime]
     version: str
+
+
+@dataclass(frozen=True)
+class Dokument:
+    kandidat: Kandidat
+    sokvag: PurePosixPath
+    befintlig: dict[str, str] | None
+    namn: str | None = None
 
 
 def behandla(steg: Steg2, kandidat: Kandidat) -> str:
     if kandidat.kallnyckel in steg.pool.tidigare:
         return "tidigare källnyckel"
     sokvag = steg.pool.efter_nyckel.get(kandidat.kallnyckel)
-    befintlig = steg.pool.efter_sokvag.get(sokvag) if sokvag else None
-    if befintlig and befintlig["kalla_url"] == kandidat.url and hel(befintlig):
-        return "oförändrad"
     if sokvag is None:
-        sokvag, befintlig = placera(steg, kandidat)
+        dokument = placera(steg, kandidat)
+    else:
+        dokument = Dokument(kandidat, sokvag, steg.pool.efter_sokvag[sokvag])
+    gammal = dokument.befintlig
+    if sokvag and gammal["kalla_url"] == kandidat.url and hel(gammal):
+        return "oförändrad"
     with tempfile.TemporaryDirectory() as katalog:
         pdf = Path(katalog) / "original.pdf"
         hamtad = steg.tid()
         try:
             steg.klient.fil(kandidat.url, pdf)
         except Hamtfel as fel:
-            return misslyckad(steg, Doc(kandidat, sokvag, befintlig), fel.orsak, hamtad)
-        return hamtad_fil(steg, Doc(kandidat, sokvag, befintlig), pdf, hamtad)
-
-
-@dataclass(frozen=True)
-class Doc:
-    kandidat: Kandidat
-    sokvag: PurePosixPath
-    befintlig: dict[str, str] | None
+            return misslyckad(steg, dokument, fel.orsak, hamtad)
+        return hamtad_fil(steg, dokument, pdf, hamtad)
 
 
 def hel(falt: dict[str, str]) -> bool:
     return falt["kvalitet"] != "ej-hamtad"
 
 
-def placera(steg: Steg2, kandidat: Kandidat) -> tuple[PurePosixPath, dict | None]:
+def placera(steg: Steg2, kandidat: Kandidat) -> Dokument:
     namn = namn_av(kandidat.filnamn.removesuffix(".pdf").removesuffix(".PDF"))
     plats = Plats(kandidat.organ, kandidat.datum, kandidat.typ)
     if kandidat.typ == "bilaga":
-        plats = replace(plats, namn=ledigt_namn(namn, lambda _: False))
-    upptagen = steg.pool.efter_sokvag.get(plats.sokvag(steg.kommun))
+        plats = replace(plats, namn=namn or "2")
+    sokvag = plats.sokvag(steg.kommun)
+    upptagen = steg.pool.efter_sokvag.get(sokvag)
     if upptagen is None:
-        return plats.sokvag(steg.kommun), None
+        return Dokument(kandidat, sokvag, None, plats.namn)
     if upptagen["kallnyckel"] not in steg.nycklar:
-        return plats.sokvag(steg.kommun), upptagen
+        return Dokument(kandidat, sokvag, upptagen)
 
     def finns(forslag: str) -> bool:
         return (
             replace(plats, namn=forslag).sokvag(steg.kommun) in steg.pool.efter_sokvag
         )
 
-    return replace(plats, namn=ledigt_namn(namn, finns)).sokvag(steg.kommun), None
+    plats = replace(plats, namn=ledigt_namn(namn, finns))
+    return Dokument(kandidat, plats.sokvag(steg.kommun), None, plats.namn)
 
 
-def misslyckad(steg: Steg2, doc: Doc, orsak: str, hamtad: datetime) -> str:
-    gammal = doc.befintlig
+def misslyckad(steg: Steg2, dokument: Dokument, orsak: str, hamtad: datetime) -> str:
+    gammal = dokument.befintlig
     if gammal and hel(gammal):
-        return "ej hämtad, fullständig .md orörd"
-    if gammal and (gammal["fel"], gammal["kalla_url"]) == (orsak, doc.kandidat.url):
-        return "ej hämtad, oförändrad"
-    forsta = gammal["hamtad"] if gammal else hamtad.isoformat()
-    falt = grundfalt(steg, doc) | {
-        "hamtad": forsta,
+        return f"ej hämtad ({orsak}), fullständig .md orörd"
+    adress = dokument.kandidat.url
+    if gammal and (gammal["fel"], gammal["kalla_url"]) == (orsak, adress):
+        return f"ej hämtad ({orsak}), oförändrad"
+    falt = grundfalt(steg, dokument) | {
+        "hamtad": gammal["hamtad"] if gammal else hamtad.isoformat(),
         "pipeline": steg.version,
         "kvalitet": "ej-hamtad",
         "fel": orsak,
     }
-    spara(steg, doc.sokvag, frontmatter.skriv(falt), {})
+    spara(steg, dokument.sokvag, frontmatter.skriv(falt), {})
     return f"ej hämtad ({orsak})"
 
 
-def hamtad_fil(steg: Steg2, doc: Doc, pdf: Path, hamtad: datetime) -> str:
+def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtad: datetime) -> str:
     with pdf.open("rb") as fil:
         sha256 = hashlib.file_digest(fil, "sha256").hexdigest()
-    gammal = doc.befintlig
-    if (
-        gammal
-        and gammal["kallnyckel"] == doc.kandidat.kallnyckel
-        and gammal["sha256"] == sha256
+    gammal = dokument.befintlig
+    if gammal and (gammal["kallnyckel"], gammal["sha256"]) == (
+        dokument.kandidat.kallnyckel,
+        sha256,
     ):
-        return ny_adress(steg, doc)
+        return ny_adress(steg, dokument)
     resultat = konvertera(pdf)
-    falt = (
-        grundfalt(steg, doc)
-        | {
-            "sha256": sha256,
-            "bytes": pdf.stat().st_size,
-            "hamtad": hamtad.isoformat(),
-            "konverterad": steg.tid().isoformat(),
-        }
-        | kvalitetsfalt(steg, resultat)
-    )
-    md = steg.data / doc.sokvag
-    katalog = skrivning.tabellkatalog(md).name
+    falt = grundfalt(steg, dokument) | kvalitetsfalt(steg, resultat)
+    falt |= {"sha256": sha256, "bytes": pdf.stat().st_size}
+    falt |= {"hamtad": hamtad.isoformat(), "konverterad": steg.tid().isoformat()}
+    md = steg.data / dokument.sokvag
     text = frontmatter.skriv(falt)
     if resultat.sidor:
+        katalog = skrivning.tabellkatalog(md).name
         text += "\n" + skrivning.brodtext(resultat.sidor, katalog)
-    spara(steg, doc.sokvag, text, skrivning.tabellfiler(resultat.sidor or []))
+    spara(steg, dokument.sokvag, text, skrivning.tabellfiler(resultat.sidor or []))
     return "konverterad"
 
 
 def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
     return {
         "sidor": len(resultat.sidor) if resultat.sidor else None,
-        "pipeline": " / ".join([steg.version, *versioner(resultat.verktyg)]),
+        "pipeline": " / ".join([steg.version, *versioner()]),
         "kvalitet": resultat.kvalitet,
         "fel": resultat.fel,
         "kvalitet_per_sida": resultat.kvalitet_per_sida,
@@ -139,54 +137,47 @@ def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
     }
 
 
-def ny_adress(steg: Steg2, doc: Doc) -> str:
-    md = steg.data / doc.sokvag
+def ny_adress(steg: Steg2, dokument: Dokument) -> str:
+    md = steg.data / dokument.sokvag
     _, huvud, kropp = md.read_text(encoding="utf-8").split("---\n", 2)
-    falt = frontmatter.las(f"---\n{huvud}---\n") | {"kalla_url": doc.kandidat.url}
-    spara(steg, doc.sokvag, frontmatter.skriv(falt) + kropp, None)
+    falt = frontmatter.las(f"---\n{huvud}---\n") | {"kalla_url": dokument.kandidat.url}
+    text = frontmatter.skriv(falt) + kropp
+    skrivning.skriv_md(md, text)
+    steg.pool.satt(dokument.sokvag, frontmatter.las(text))
     return "ny adress, samma innehåll"
 
 
-def grundfalt(steg: Steg2, doc: Doc) -> dict:
+def grundfalt(steg: Steg2, dokument: Dokument) -> dict:
     return (
         dict.fromkeys(frontmatter.FALT)
-        | platsfalt(doc)
+        | platsfalt(dokument)
         | {
             "kommun": steg.kommun,
-            "kallnyckel": doc.kandidat.kallnyckel,
-            "tidigare_kallnycklar": tidigare(doc),
-            "kalla_url": doc.kandidat.url,
+            "kallnyckel": dokument.kandidat.kallnyckel,
+            "tidigare_kallnycklar": tidigare(dokument),
+            "kalla_url": dokument.kandidat.url,
         }
     )
 
 
-def platsfalt(doc: Doc) -> dict:
-    if doc.befintlig:
-        return {f: doc.befintlig[f] for f in ("organ", "datum", "lopnr", "typ", "namn")}
-    k = doc.kandidat
-    namn = namn_i(doc.sokvag, k.typ)
-    return {"organ": k.organ, "datum": k.datum, "typ": k.typ, "namn": namn}
+def platsfalt(dokument: Dokument) -> dict:
+    gammal = dokument.befintlig
+    if gammal:
+        return {f: gammal[f] for f in ("organ", "datum", "lopnr", "typ", "namn")}
+    k = dokument.kandidat
+    return {"organ": k.organ, "datum": k.datum, "typ": k.typ, "namn": dokument.namn}
 
 
-def tidigare(doc: Doc) -> list[str]:
-    gammal = doc.befintlig
+def tidigare(dokument: Dokument) -> list[str]:
+    gammal = dokument.befintlig
     if not gammal:
         return []
     nycklar = frontmatter.lista(gammal["tidigare_kallnycklar"])
-    if gammal["kallnyckel"] != doc.kandidat.kallnyckel:
+    if gammal["kallnyckel"] != dokument.kandidat.kallnyckel:
         nycklar.append(gammal["kallnyckel"])
     return nycklar
 
 
-def namn_i(sokvag: PurePosixPath, typ: str) -> str | None:
-    namn = sokvag.stem.removeprefix(typ).removeprefix("-")
-    return namn or None
-
-
-def spara(steg: Steg2, sokvag: PurePosixPath, text: str, tabeller: dict | None) -> None:
-    md = steg.data / sokvag
-    if tabeller is None:
-        skrivning.skriv_md(md, text)
-    else:
-        skrivning.skriv(md, text, tabeller)
+def spara(steg: Steg2, sokvag: PurePosixPath, text: str, tabeller: dict) -> None:
+    skrivning.skriv(steg.data / sokvag, text, tabeller)
     steg.pool.satt(sokvag, frontmatter.las(text))

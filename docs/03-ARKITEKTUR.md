@@ -366,8 +366,8 @@ kalla_url: https://…/Protokoll….pdf
 sha256: 3f9a…
 bytes: 812345
 sidor: 14
-hamtad: 2026-10-06T15:40:12+02:00
-konverterad: 2026-10-06T15:40:31+02:00
+hamtad: 2026-10-06T13:40:12+00:00
+konverterad: 2026-10-06T13:40:31+00:00
 pipeline: kommunhandlingar <version> / <verktyg> <version> …
 kvalitet: ocr
 fel: null
@@ -551,6 +551,13 @@ utfallen och nämner varje dokument som inte gick att hämta, med orsak.
 - **PDF:en** strömmas till en temporär katalog utanför repot, och
   katalogen tas bort när dokumentet är klart, också om något gick fel.
 - **Tiderna** `hamtad` och `konverterad` skrivs i UTC, på sekunden.
+- **OCR finns inte än**
+  ([#36](https://github.com/moggleif/kommunhandlingar/issues/36)). En sida
+  som enligt reglerna ska läsas med OCR blir till dess `ej-konverterad`
+  utan försök, och den schemalagda körningen startar inte förrän OCR finns.
+- **En fil som pdfplumber eller pdfminer inte kan läsa**, hur felet än
+  ser ut, blir `ej-konverterad` med `trasig-pdf`, och felet skrivs ut, så
+  att en enda fil inte stoppar körningen.
 - **Ett dokument med samma källnyckel och sha256** under en ny adress får
   bara ny `kalla_url`; texten och tabellerna rörs inte.
 

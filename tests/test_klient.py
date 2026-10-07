@@ -91,7 +91,7 @@ class TestKlient(unittest.TestCase):
 
     def test_robots_som_inte_gar_att_hamta_stoppar(self):
         Server.svar["/robots.txt"] = [(503, {}, "")] * 4
-        with self.assertRaisesRegex(Hamtfel, "^http-503$"):
+        with self.assertRaisesRegex(Hamtfel, "^robots-http-503$"):
             self.klient.text(self.bas + "/a")
 
     def test_nytt_forsok_efter_tomt_svar_och_5xx(self):
@@ -131,7 +131,7 @@ class TestKlient(unittest.TestCase):
             self.assertEqual(self.klient.text(self.bas + "/a"), "ok")
 
     def test_ingen_server_ger_anslutning(self):
-        with self.assertRaisesRegex(Hamtfel, "^anslutning$"):
+        with self.assertRaisesRegex(Hamtfel, "^robots-anslutning$"):
             self.klient.text("http://127.0.0.1:1/a")
 
     def test_okand_teckenkodning(self):
@@ -147,7 +147,7 @@ class TestKlient(unittest.TestCase):
 
     def test_429_pa_robots_stoppar(self):
         Server.svar["/robots.txt"] = [(429, {}, "")] * 4
-        with self.assertRaisesRegex(Hamtfel, "^http-429$"):
+        with self.assertRaisesRegex(Hamtfel, "^robots-http-429$"):
             self.klient.text(self.bas + "/a")
 
     def test_robots_med_bom(self):
@@ -161,6 +161,30 @@ class TestKlient(unittest.TestCase):
         self.klient.text(self.bas + "/a")
         self.klient.text(self.bas.replace("http", "HTTP") + "/b")
         self.assertEqual(self.vantat, [5, 5])
+
+    def test_fel_pa_robots_minns_for_varden(self):
+        Server.svar["/robots.txt"] = [(503, {}, "")] * 4
+        for _ in range(2):
+            with self.assertRaisesRegex(Hamtfel, "^robots-http-503$"):
+                self.klient.text(self.bas + "/a")
+        self.assertEqual(len(Server.anrop), 4)
+
+    def test_fil_stromas_till_disk(self):
+        Server.svar["/a.pdf"] = [(200, {}, "%PDF-1.4 innehåll")]
+        with tempfile.TemporaryDirectory() as katalog:
+            mal = Path(katalog) / "a.pdf"
+            self.klient.fil(self.bas + "/a.pdf", mal)
+            self.assertEqual(mal.read_text(), "%PDF-1.4 innehåll")
+
+    def test_avkortad_fil_forsoks_igen(self):
+        Server.svar["/a.pdf"] = [
+            (200, {"Content-Length": "3000000"}, "%PDF-1.4"),
+            (200, {}, "%PDF-1.4 hel"),
+        ]
+        with tempfile.TemporaryDirectory() as katalog:
+            mal = Path(katalog) / "a.pdf"
+            self.klient.fil(self.bas + "/a.pdf", mal)
+            self.assertEqual(mal.read_text(), "%PDF-1.4 hel")
 
 
 class TestInstallningar(unittest.TestCase):

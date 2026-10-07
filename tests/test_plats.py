@@ -13,10 +13,6 @@ class TestPlats(unittest.TestCase):
             str(plats.sokvag("kungsbacka")),
             "kungsbacka/ks/2019/2019-05-28/handlingar-arende-4.md",
         )
-        self.assertEqual(
-            str(Plats("kf", date(2024, 1, 2), "protokoll", lopnr=2).sokvag("x")),
-            "x/kf/2024/2024-01-02-2/protokoll.md",
-        )
 
     def test_namnet(self):
         self.assertEqual(

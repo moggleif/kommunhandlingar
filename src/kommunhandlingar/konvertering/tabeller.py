@@ -18,7 +18,7 @@ def sakra(sida: Page) -> list[Table]:
     linjer = sida.lines + [
         r for r in sida.rects if min(r["width"], r["height"]) <= LINJEBREDD
     ]
-    if not linjer:
+    if len(linjer) < 2:
         return []
     installning = {
         "vertical_strategy": "explicit",
@@ -34,9 +34,8 @@ def sakra(sida: Page) -> list[Table]:
 def ar_saker(tabell: Table, ord_: list[dict]) -> bool:
     if len(tabell.rows) < 2 or max(len(rad.cells) for rad in tabell.rows) < 2:
         return False
-    celler = [c for c in tabell.cells if c]
     inne = [mitt(o) for o in ord_ if inom(mitt(o), tabell.bbox)]
-    return all(any(inom(punkt, c) for c in celler) for punkt in inne)
+    return all(any(inom(punkt, c) for c in tabell.cells) for punkt in inne)
 
 
 def mitt(objekt: dict) -> tuple[float, float]:

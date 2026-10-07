@@ -6,7 +6,14 @@ build-backend = "setuptools.build_meta"
 name = "kommunhandlingar"
 version = "0.1.0"
 requires-python = ">=3.12"
-dependencies = ["pdfplumber==0.11.10", "pypdfium2==5.14.0"]
+# Konverteringen (ADR-0005, ADR-0014). pdfminer.six och Pillow används också
+# direkt och låses därför här, på de versioner pdfplumber drar in.
+dependencies = [
+  "pdfplumber==0.11.10",
+  "pdfminer.six==20260107",
+  "pypdfium2==5.14.0",
+  "pillow==12.3.0",
+]
 
 [project.optional-dependencies]
 # Samma versioner i CI och lokalt; Dependabot håller dem uppdaterade.

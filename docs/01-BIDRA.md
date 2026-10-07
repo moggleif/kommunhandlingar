@@ -67,8 +67,8 @@ python3 -m kommunhandlingar.upptack kommuner/kungsbacka.toml /tmp/kommunhandling
 ## Hämtning och konvertering
 
 Steg 2 läser kandidatlistan från samma arbetskatalog och skriver i `data/`
-(ADR-0014). Varje fil hämtas med fem sekunders mellanrum, så en hel kommun
-tar timmar:
+(ADR-0014). Varje fil hämtas med intervallet i `hamtning.toml` emellan, så
+en hel kommun tar timmar:
 
 ```sh
 python3 -m kommunhandlingar.hamta kommuner/kungsbacka.toml /tmp/kommunhandlingar

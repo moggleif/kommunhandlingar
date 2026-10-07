@@ -113,7 +113,9 @@ class TestSteg2(unittest.TestCase):
         )
         self.assertEqual(falt["pipeline"], "kommunhandlingar 0.1.0")
         fore = self.md().read_text()
-        self.assertEqual(self.kor(kandidat("s:1", "u1")), ["ej hämtad, oförändrad"])
+        self.assertEqual(
+            self.kor(kandidat("s:1", "u1")), ["ej hämtad (http-404), oförändrad"]
+        )
         self.assertEqual(self.md().read_text(), fore)
         self.klient.filer["u1"] = "fel:tomt-svar"
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["ej hämtad (tomt-svar)"])
@@ -126,7 +128,8 @@ class TestSteg2(unittest.TestCase):
         self.kor(kandidat("s:1", "u1"))
         fore = self.md().read_text()
         self.assertEqual(
-            self.kor(kandidat("s:1", "u2")), ["ej hämtad, fullständig .md orörd"]
+            self.kor(kandidat("s:1", "u2")),
+            ["ej hämtad (http-503), fullständig .md orörd"],
         )
         self.assertEqual(self.md().read_text(), fore)
 
@@ -154,6 +157,24 @@ class TestSteg2(unittest.TestCase):
         self.assertFalse(self.md().with_suffix(".tabeller").exists())
         self.assertEqual(self.falt()["fel"], "inte-pdf")
         self.assertEqual(self.falt()["sidor"], "null")
+
+    def test_ny_adress_skriver_om_ej_hamtad(self):
+        self.klient.filer |= {"u1": "fel:http-404", "u2": "fel:http-404"}
+        self.kor(kandidat("s:1", "u1"))
+        self.assertEqual(self.kor(kandidat("s:1", "u2")), ["ej hämtad (http-404)"])
+        self.assertEqual(self.falt()["kalla_url"], "u2")
+
+    def test_avbruten_korning_gors_fardig(self):
+        self.klient.filer |= {"u1": "sidor.pdf", "u2": "begransad.pdf"}
+        self.kor(kandidat("s:1", "u1"))
+        katalog = self.md().with_suffix(".tabeller")
+        (katalog.parent / "protokoll.tabeller.ny").mkdir()
+        (katalog.parent / "protokoll.tabeller.ny" / "9-9.csv").write_text("x\n")
+        self.md().with_name("protokoll.md.tmp").write_text("halv")
+        self.assertEqual(self.kor(kandidat("s:1", "u2")), ["konverterad"])
+        rester = sorted(p.name for p in self.md().parent.iterdir())
+        self.assertEqual(rester, ["protokoll.md", "protokoll.tabeller"])
+        self.assertEqual(sorted(p.name for p in katalog.iterdir()), ["2-1.csv"])
 
     def test_bilaga_har_alltid_namn(self):
         self.klient.filer["u1"] = "sidor.pdf"

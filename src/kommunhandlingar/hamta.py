@@ -14,7 +14,7 @@ from pathlib import Path
 
 from kommunhandlingar import konfiguration, pool
 from kommunhandlingar.behandla import Steg2, behandla
-from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
+from kommunhandlingar.fel import Konfigurationsfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
 from kommunhandlingar.kandidat import Kandidat
@@ -34,7 +34,7 @@ def kor(steg: Steg2, kandidater: list[Kandidat]) -> Counter:
     for kandidat in kandidater:
         resultat = behandla(steg, kandidat)
         utfall[resultat] += 1
-        if resultat.startswith("ej hämtad ("):
+        if resultat.startswith("ej hämtad"):
             print(f"{resultat}: {kandidat.url}", flush=True)
     return utfall
 
@@ -63,5 +63,5 @@ if __name__ == "__main__":
         )
     try:
         main(Path(sys.argv[1]), Path(sys.argv[2]))
-    except (Konfigurationsfel, Hamtfel) as fel:
+    except Konfigurationsfel as fel:
         sys.exit(f"Stoppad: {fel}")

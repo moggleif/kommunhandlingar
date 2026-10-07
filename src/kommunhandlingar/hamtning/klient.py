@@ -45,7 +45,7 @@ class Klient:
         self.installningar = installningar
         self.klocka, self.sov = klocka, sov
         self.senast: dict[str, float] = {}
-        self.regler: dict[str, tuple[robots.Regel, ...]] = {}
+        self.regler: dict[str, tuple[robots.Regel, ...] | Hamtfel] = {}
         self.oppnare = build_opener(IngenOmdirigering)
 
     def text(self, url: str) -> str:
@@ -64,7 +64,12 @@ class Klient:
     def robotregler(self, url: str) -> tuple[robots.Regel, ...]:
         varden = vard(url)
         if varden not in self.regler:
-            self.regler[varden] = self.las_robots(varden)
+            try:
+                self.regler[varden] = self.las_robots(varden)
+            except Hamtfel as fel:
+                self.regler[varden] = Hamtfel(f"robots-{fel.orsak}")
+        if isinstance(self.regler[varden], Hamtfel):
+            raise self.regler[varden]
         return self.regler[varden]
 
     def las_robots(self, varden: str) -> tuple[robots.Regel, ...]:
@@ -93,7 +98,7 @@ class Klient:
                 return las(svar)
         except HTTPError as fel:
             raise http_fel(fel) from fel
-        except OSError as fel:
+        except (URLError, ConnectionError, TimeoutError) as fel:
             raise natfel(fel) from fel
         except HTTPException as fel:
             raise NyttForsok("avbrutet-svar") from fel
@@ -117,6 +122,11 @@ def las_text(svar) -> str:
 def spara(svar, mal: Path) -> None:
     with mal.open("wb") as fil:
         shutil.copyfileobj(svar, fil, BLOCK)
+    # http.client ger tomt i stället för IncompleteRead när en läsning i
+    # bitar bryts av, så längden jämförs med vad servern lovade.
+    langd = svar.headers.get("Content-Length")
+    if langd is not None and mal.stat().st_size != int(langd):
+        raise NyttForsok("avbrutet-svar")
 
 
 def http_fel(fel: HTTPError) -> Exception:
@@ -129,7 +139,7 @@ def http_fel(fel: HTTPError) -> Exception:
     return Hamtfel(orsak)
 
 
-def natfel(fel: OSError) -> Exception:
+def natfel(fel: URLError | ConnectionError | TimeoutError) -> Exception:
     # urllib slår in fel vid sändningen i URLError, men inte vid svaret.
     grund = fel.reason if isinstance(fel, URLError) else fel
     if isinstance(grund, ConnectionResetError):

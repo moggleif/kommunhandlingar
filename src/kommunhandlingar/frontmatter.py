@@ -1,11 +1,11 @@
-"""Krav: K4, K6 och K14 i docs/02-KRAV.md. Test: tests/test_frontmatter.py,
+"""Krav: K4, K6 och K14 i docs/02-KRAV.md. Test: tests/test_hamta.py,
 tests/test_webbplats.py.
 
 Front matter så som schemat i docs/03-ARKITEKTUR.md#front-matter skriver den:
 varje fält på en egen rad, i schemats ordning, listor inom hakparenteser.
 """
 
-from datetime import date, datetime
+from datetime import date
 
 FALT = (
     "kommun",
@@ -50,8 +50,8 @@ def skriv(falt: dict) -> str:
 def varde_av(varde) -> str:
     if varde is None:
         return "null"
-    if isinstance(varde, list | tuple):
+    if isinstance(varde, list):
         return "[" + ", ".join(varde_av(v) for v in varde) + "]"
-    if isinstance(varde, date | datetime):
+    if isinstance(varde, date):
         return varde.isoformat()
     return str(varde)
