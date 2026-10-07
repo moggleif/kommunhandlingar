@@ -1,10 +1,9 @@
 # Arkitektur
 
-Det här beskriver hur poolen är tänkt att byggas. Av upptäckten finns
-kommunfilen, mönstren, ordningen och Sitevision-adaptern som kod;
-HTTP-klienten och kommandot kommer i
-[#29](https://github.com/moggleif/kommunhandlingar/issues/29). Där koden
-finns är det koden som gäller, och dokumentet rättas efter den.
+Det här beskriver hur poolen är tänkt att byggas. Upptäckten (steg 1)
+finns som kod: kommunfilen, mönstren, ordningen, Sitevision-adaptern,
+HTTP-klienten och kommandot. Där koden finns är det koden som gäller, och
+dokumentet rättas efter den.
 *Varför* står i [docs/decisions/](decisions/).
 
 ## Flödet
@@ -163,7 +162,8 @@ src/kommunhandlingar/
   kandidat.py      kandidaten och ordningen (K13)
   adaptrar/        en modul per plattform (sitevision, wayback, ciceron, …);
                    sitevision_html.py läser mötessidan, sitevision.py tolkar den
-  hamtning/        artig HTTP-klient
+  upptack.py       steg 1: hämtar källsidorna och skriver kandidatlistan
+  hamtning/        artig HTTP-klient: robots.txt, intervall och nya försök
   konvertering/    pdf → md, tabeller, OCR-reserv, kvalitetsmått
   index/
   webbplats/       statussidorna och startsidan för GitHub Pages
@@ -294,16 +294,55 @@ bun = "https://exempelby.se/…/barn-och-ungdomsnamndens-sammantraden"
 - **En fil som står under flera möten** blir en kandidat: det första
   stället i sidans ordning som ger en kandidat gäller.
 
-`hamtning.toml` i roten gäller alla kommuner: User-Agent och det minsta
-intervallet mellan anrop till samma värd (K10). Intervallet är ett och
-detsamma, och HTTP-klienten håller det för varje värd för sig, över alla
-kommuner i körningen; en ny kommun på en ny värd ändrar alltså inte
-filen. Fälten bestäms när klienten skrivs.
-
 `docs/kallor/<kommun>.md` beskriver hur kommunen publicerar, vad som är
 belagt och hur, vad som är att verifiera och kända luckor. Organ,
 adresser och mönster står i kommunfilen; källbeskrivningen länkar dit i
 stället för att upprepa dem. Exempeladresser som belägg får stå kvar.
+
+## Hämtningen
+
+Hur och varför står i
+[ADR-0013](decisions/0013-artig-hamtning-och-kandidatlistan.md). Allt
+som hämtas går genom HTTP-klienten i `hamtning/`, med bara
+standardbiblioteket.
+
+`hamtning.toml` i roten gäller alla kommuner:
+
+| Fält         | Betyder                                                         |
+| ------------ | --------------------------------------------------------------- |
+| `user_agent` | User-Agent i varje anrop: vem vi är och hur vi nås.             |
+| `intervall`  | Minsta antalet sekunder mellan anrop till samma värd, räknat från slutet av det förra. |
+
+- **Intervallet** hålls för varje värd för sig, över alla kommuner i
+  körningen; en ny kommun på en ny värd ändrar alltså inte filen.
+- **`robots.txt`** hämtas en gång per värd och körning och läses enligt
+  RFC 9309: gruppen för vår produkt (User-Agent fram till första `/` eller
+  mellanslag) gäller, annars gruppen `*`; den längsta regel som träffar
+  sökvägen med frågesträng avgör, och `Allow` vinner vid lika längd. `*`
+  och `$` stöds, och reglerna procentkodas innan de jämförs. Svarar
+  `robots.txt` 4xx, utom 429, gäller inga regler. Går den inte att hämta
+  hämtas ingenting från värden. En stängd adress ger orsaken `robots`.
+- **Nya försök** görs vid 429, 5xx, tidsgräns (60 sekunder), när servern
+  stänger anslutningen utan svar och när svaret bryts av: efter 5, 10 och
+  20 sekunder, eller den tid `Retry-After` anger, högst 300 sekunder.
+  Efter det fjärde försöket är orsaken `http-<kod>`, `tidsgrans`,
+  `tomt-svar` eller `avbrutet-svar`.
+- **Inget nytt försök** görs vid andra 4xx och vid omdirigeringar, som
+  inte följs, så att målet aldrig hämtas utan att prövas mot `robots.txt`
+  och intervallet. Orsaken är `http-<kod>`. En server som inte går att nå
+  ger `anslutning`, och en sida som inte går att avkoda `teckenkodning`.
+
+### Kandidatlistan
+
+`python -m kommunhandlingar.upptack kommuner/<kommun>.toml <arbetskatalog>`
+läser `hamtning.toml` i samma repo som kommunfilen och stoppas om
+arbetskatalogen ligger i repot. Det hämtar varje källsida, kör adaptern och skriver
+`<arbetskatalog>/<kommun>.kandidater.json`: en lista i ordningen från
+K13, en post per kandidat med fälten `organ`, `datum` (`ÅÅÅÅ-MM-DD`),
+`typ`, `url`, `kalla`, `kallnyckel` och `filnamn`. Sammanfattningen
+skrivs ut: antal kandidater per organ och varje fil som inte blev
+kandidat, med orsak och källsida. En källsida som inte går att hämta
+stoppar körningen innan listan skrivs.
 
 ## Front matter
 

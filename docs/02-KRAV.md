@@ -42,6 +42,17 @@ kunna läggas till utan kodändring.
   sammanfattning – om inte kommunens konfiguration har en rättelse för
   filens källnyckel. Då gäller rättelsens datum.
 
+- **Givet** en kommunfil
+- **När** upptäckten körs
+- **Så** skrivs kandidatlistan till en arbetskatalog utanför repot, i den
+  ordning K13 anger, och sammanfattningen visar antalet kandidater per
+  organ och varje fil som inte blev kandidat, med orsak.
+- **Givet** en källsida som inte går att hämta, eller en arbetskatalog i
+  repot
+- **När** upptäckten körs
+- **Så** stoppas körningen med adressen och orsaken, och ingen
+  kandidatlista skrivs.
+
 ## K3 — Historiken hämtas så långt bakåt den finns
 
 - **Givet** att kommunens webbplats bara visar de senaste åren
@@ -184,6 +195,33 @@ kunna läggas till utan kodändring.
 - **Så** följs `robots.txt`, User-Agent anger vem vi är och hur vi nås,
   anropen till samma värd ligger minst det konfigurerade intervallet isär,
   och 429/5xx leder till att körningen väntar och backar.
+- **Givet** en adress som `robots.txt` stänger, för vår User-Agent eller
+  för alla
+- **När** den ska hämtas
+- **Så** hämtas den inte, och orsaken är `robots`.
+- **Givet** en värd vars `robots.txt` svarar 4xx, utom 429
+- **När** något ska hämtas från den
+- **Så** gäller inga begränsningar utöver intervallet.
+- **Givet** en värd vars `robots.txt` inte går att hämta, efter de nya
+  försöken
+- **När** något ska hämtas från den
+- **Så** hämtas ingenting från värden.
+- **Givet** ett anrop som får 429 eller 5xx, som inte får något svar
+  inom tidsgränsen, eller där servern stänger anslutningen eller bryter av
+  svaret
+- **När** det sker
+- **Så** görs ett nytt försök efter en väntan som fördubblas för varje
+  försök, eller efter den tid `Retry-After` anger, högst fem minuter, och
+  efter det sista försöket är orsaken svaret eller felet.
+- **Givet** ett anrop som får en annan 4xx än 429, eller en omdirigering
+- **När** det sker
+- **Så** görs inget nytt försök, omdirigeringen följs inte, och orsaken är
+  `http-` och statuskoden.
+- **Givet** en server som inte går att nå, eller en sida i en teckenkodning
+  som inte går att läsa
+- **När** något hämtas
+- **Så** görs inget nytt försök, och orsaken är `anslutning` respektive
+  `teckenkodning`.
 
 ## K11 — Bara färdiga och kontrollerade körningar når poolen
 

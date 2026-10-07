@@ -1,5 +1,5 @@
-"""Krav: K1, K2 och K14. Test: tests/test_konfiguration.py, tests/test_monster.py,
-tests/test_webbplats.py."""
+"""Krav: K1, K2, K10 och K14. Test: tests/test_konfiguration.py,
+tests/test_monster.py, tests/test_webbplats.py, tests/test_klient.py."""
 
 
 class Konfigurationsfel(Exception):
@@ -12,3 +12,11 @@ class IngenKandidat(Exception):
 
 class Datafel(Exception):
     """Ett dokument i poolen följer inte schemat; webbplatsbygget stoppas (K14)."""
+
+
+class Hamtfel(Exception):
+    """En adress gick inte att hämta; `orsak` är koden, som `http-404` (K10)."""
+
+    def __init__(self, orsak: str, adress: str = ""):
+        super().__init__(f"{adress}: {orsak}" if adress else orsak)
+        self.orsak = orsak
