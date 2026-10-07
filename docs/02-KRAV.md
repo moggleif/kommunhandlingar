@@ -215,17 +215,10 @@ kunna läggas till utan kodändring.
 - **Givet** en kandidatlista för en kommun
 - **När** hämtningen börjar
 - **Så** tas kandidaterna organ för organ, i den ordning organen står i
-  kommunens konfiguration, och inom ett organ protokoll först, sedan
-  kallelser, sedan övriga dokument och sist handlingar, och inom varje typ
-  det äldsta sammanträdet först.
+  kommunens konfiguration; inom ett organ protokoll, kallelser, bilagor
+  och sist handlingar; inom varje typ det äldsta sammanträdet först; och
+  vid lika värden i källnyckelns ordning.
 
-- **Givet** två körningar efter varandra med samma kandidatlista
-- **När** de hämtar
-- **Så** tar de kandidaterna i samma ordning: ordningen beror bara på
-  konfigurationen och kandidaternas egna uppgifter, inte på i vilken
-  ordning upptäckten hittade dem.
-
-- **Givet** en kandidat vars typ inte är protokoll, kallelse eller
-  handlingar
-- **När** hämtningen når organet
-- **Så** tas den efter kallelserna och före handlingarna.
+- **Givet** samma kandidatlista i en annan upptäcktsordning
+- **När** hämtningen börjar
+- **Så** tas kandidaterna i samma ordning.

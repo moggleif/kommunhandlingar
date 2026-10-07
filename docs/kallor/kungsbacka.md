@@ -19,7 +19,9 @@ Mötessidorna ligger under
 `https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/<sida>`.
 Listan flyttas till `kommuner/kungsbacka.toml` när den skrivs
 ([ADR-0008](../decisions/0008-kommunkonfigurationen-i-toml.md),
-[#25](https://github.com/moggleif/kommunhandlingar/issues/25)).
+[#25](https://github.com/moggleif/kommunhandlingar/issues/25)). Ordningen
+organen ska stå i där, som också är hämtordningen, står i
+[ADR-0010](../decisions/0010-ordningen-organ-for-organ.md).
 
 | Organ | `<sida>` |
 |---|---|

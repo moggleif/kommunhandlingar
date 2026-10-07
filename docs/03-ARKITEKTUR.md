@@ -67,18 +67,11 @@ Hur och varför står i
 
 ### Ordningen kandidaterna tas i
 
-Hur och varför står i
-[ADR-0010](decisions/0010-ordningen-organ-for-organ.md). Beteendet står i
-K13.
-
-- **Organ för organ, i `[[organ]]`-listans ordning** i
-  `kommuner/<kommun>.toml`. Listans ordning är prioriteringen; det finns
-  inget eget fält för den.
-- **Inom ett organ:** protokoll, kallelser, övriga dokument, handlingar.
-  Den ordningen står i koden och är densamma för alla kommuner.
-- **Inom en typ:** det äldsta sammanträdet först.
-- Ordningen beror bara på konfigurationen och kandidaternas egna
-  uppgifter, så samma kandidatlista tas alltid i samma ordning.
+Vilken ordning står i K13, och hur och varför i
+[ADR-0010](decisions/0010-ordningen-organ-for-organ.md). Ordningen
+mellan organ är `[[organ]]`-listans ordning i kommunfilen; det finns
+inget eget fält för den. Ordningen inom ett organ står i koden och är
+densamma för alla kommuner.
 
 ### Körning och incheckning
 
@@ -177,8 +170,7 @@ Hur och varför står i
 [ADR-0008](decisions/0008-kommunkonfigurationen-i-toml.md). En kommun är en
 fil, `kommuner/<kommun>.toml`, och filnamnet är `kommun` i front matter.
 Filen läses med `tomllib`. Ordningen på `[[organ]]` är den ordning
-organen hämtas i ([K13](02-KRAV.md#k13--kandidaterna-hämtas-i-en-bestämd-ordning),
-[ADR-0010](decisions/0010-ordningen-organ-for-organ.md)). Exemplet är påhittat:
+organen hämtas i (K13). Exemplet är påhittat:
 
 ```toml
 namn = "Exempelby kommun"
