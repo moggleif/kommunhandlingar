@@ -1,14 +1,15 @@
 """Krav: K10 i docs/02-KRAV.md, ADR-0013. Test: tests/test_klient.py.
 
-Håller intervallet per värd, följer robots.txt och försöker igen vid 429,
-5xx, tidsgräns och en anslutning som stängs utan svar.
+Håller intervallet per värd, följer robots.txt, följer inga omdirigeringar
+och försöker igen vid 429, 5xx, tidsgräns och svar som bryts av.
 """
 
 import time
 from collections.abc import Callable
+from http.client import HTTPException
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
-from urllib.request import Request, urlopen
+from urllib.request import HTTPRedirectHandler, Request, build_opener
 
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.hamtning import robots
@@ -16,13 +17,19 @@ from kommunhandlingar.hamtning.installningar import Installningar
 
 FORSOK = 4
 FORSTA_VANTAN = 5
+LANGSTA_VANTAN = 300
 TIDSGRANS = 60
 
 
 class NyttForsok(Exception):
     def __init__(self, orsak: str, vantan: int | None = None):
         super().__init__(orsak)
-        self.vantan = vantan
+        self.orsak, self.vantan = orsak, vantan
+
+
+class IngenOmdirigering(HTTPRedirectHandler):
+    def redirect_request(self, *_):
+        return None
 
 
 class Klient:
@@ -36,6 +43,7 @@ class Klient:
         self.klocka, self.sov = klocka, sov
         self.senast: dict[str, float] = {}
         self.regler: dict[str, tuple[robots.Regel, ...]] = {}
+        self.oppnare = build_opener(IngenOmdirigering)
 
     def text(self, url: str) -> str:
         if not robots.tillater(self.robotregler(url), url):
@@ -52,32 +60,32 @@ class Klient:
         try:
             text = self.med_forsok(f"{varden}/robots.txt")
         except Hamtfel as fel:
-            if not str(fel).startswith("http-4"):
+            if not fel.orsak.startswith("http-4") or fel.orsak == "http-429":
                 raise
             return ()
         return robots.tolka(text, produkt(self.installningar.user_agent))
 
     def med_forsok(self, url: str) -> str:
-        for forsok in range(1, FORSOK):
+        for forsok in range(FORSOK):
             try:
                 return self.anrop(url)
             except NyttForsok as fel:
-                self.sov(fel.vantan or FORSTA_VANTAN * 2 ** (forsok - 1))
-        try:
-            return self.anrop(url)
-        except NyttForsok as fel:
-            raise Hamtfel(str(fel)) from fel
+                if forsok == FORSOK - 1:
+                    raise Hamtfel(fel.orsak) from fel
+                self.sov(fel.vantan or FORSTA_VANTAN * 2**forsok)
 
     def anrop(self, url: str) -> str:
         self.vanta_pa(vard(url))
         fraga = Request(url, headers={"User-Agent": self.installningar.user_agent})
         try:
-            with urlopen(fraga, timeout=TIDSGRANS) as svar:
-                return svar.read().decode(svar.headers.get_content_charset() or "utf-8")
+            with self.oppnare.open(fraga, timeout=TIDSGRANS) as svar:
+                return avkoda(svar.read(), svar.headers.get_content_charset())
         except HTTPError as fel:
             raise http_fel(fel) from fel
         except OSError as fel:
             raise natfel(fel) from fel
+        except HTTPException as fel:
+            raise NyttForsok("avbrutet-svar") from fel
         finally:
             self.senast[vard(url)] = self.klocka()
 
@@ -88,11 +96,20 @@ class Klient:
                 self.sov(kvar)
 
 
+def avkoda(innehall: bytes, teckenkodning: str | None) -> str:
+    try:
+        return innehall.decode(teckenkodning or "utf-8")
+    except (LookupError, UnicodeDecodeError) as fel:
+        raise Hamtfel("teckenkodning") from fel
+
+
 def http_fel(fel: HTTPError) -> Exception:
     orsak = f"http-{fel.code}"
     if fel.code == 429 or fel.code >= 500:
         efter = fel.headers.get("Retry-After", "")
-        return NyttForsok(orsak, int(efter) if efter.isdigit() else None)
+        return NyttForsok(
+            orsak, min(int(efter), LANGSTA_VANTAN) if efter.isdigit() else None
+        )
     return Hamtfel(orsak)
 
 
@@ -108,7 +125,7 @@ def natfel(fel: OSError) -> Exception:
 
 def vard(url: str) -> str:
     delar = urlsplit(url)
-    return f"{delar.scheme}://{delar.netloc}"
+    return f"{delar.scheme}://{delar.netloc}".lower()
 
 
 def produkt(user_agent: str) -> str:

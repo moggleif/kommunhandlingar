@@ -57,8 +57,8 @@ publicerar på GitHub Pages vid varje push till `main`.
 
 ## Upptäckten
 
-Kandidatlistan för en kommun tas fram från repots rot (steg 1, ADR-0013).
-Den hämtar kommunens källsidor artigt, så det tar några minuter:
+Kandidatlistan för en kommun skrivs till en katalog utanför repot (steg 1,
+ADR-0013). Kommunens källsidor hämtas artigt, så det tar några minuter:
 
 ```sh
 python3 -m kommunhandlingar.upptack kommuner/kungsbacka.toml /tmp/kommunhandlingar

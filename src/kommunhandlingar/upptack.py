@@ -2,6 +2,7 @@
 
 Steg 1: `python -m kommunhandlingar.upptack <kommunfil> <arbetskatalog>`.
 Hämtar kommunens källsidor, kör adaptern och skriver kandidatlistan.
+`hamtning.toml` läses från repot som kommunfilen ligger i.
 """
 
 import json
@@ -35,7 +36,7 @@ def sida(klient, adress: str) -> str:
     try:
         return klient.text(adress)
     except Hamtfel as fel:
-        raise Hamtfel(f"{adress}: {fel}") from fel
+        raise Hamtfel(fel.orsak, adress) from fel
 
 
 def skriv(kandidater: list[Kandidat], fil: Path) -> None:
@@ -53,18 +54,29 @@ def sammanfattning(
     return "\n".join(rader)
 
 
-def main(kommunfil: str, arbetskatalog: str) -> None:
-    kommun = konfiguration.las(Path(kommunfil))
-    klient = Klient(installningar.las(Path("hamtning.toml")))
+def utanfor_repot(katalog: Path, rot: Path) -> Path:
+    if katalog.resolve().is_relative_to(rot.resolve()):
+        raise Konfigurationsfel(f"arbetskatalogen {katalog} ligger i repot")
+    return katalog
+
+
+def main(kommunfil: Path, arbetskatalog: Path) -> None:
+    rot = kommunfil.resolve().parent.parent
+    katalog = utanfor_repot(arbetskatalog, rot)
+    kommun = konfiguration.las(kommunfil)
+    klient = Klient(installningar.las(rot / "hamtning.toml"))
     kandidater, avvisade = upptack(kommun, klient)
-    katalog = Path(arbetskatalog)
     katalog.mkdir(parents=True, exist_ok=True)
     skriv(kandidater, katalog / f"{kommun.id}.kandidater.json")
     print(sammanfattning(kommun, kandidater, avvisade))
 
 
 if __name__ == "__main__":
+    if len(sys.argv) != 3:
+        sys.exit(
+            "Användning: python -m kommunhandlingar.upptack <kommunfil> <arbetskatalog>"
+        )
     try:
-        main(*sys.argv[1:])
+        main(Path(sys.argv[1]), Path(sys.argv[2]))
     except (Konfigurationsfel, Hamtfel) as fel:
         sys.exit(f"Stoppad: {fel}")

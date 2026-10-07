@@ -5,10 +5,10 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from kommunhandlingar.fel import Hamtfel
+from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 from kommunhandlingar.konfiguration import las
-from kommunhandlingar.upptack import sammanfattning, skriv, upptack
-from tests.test_konfiguration import FIXTURER
+from kommunhandlingar.upptack import sammanfattning, skriv, upptack, utanfor_repot
+from tests.test_konfiguration import FIXTURER, ROT
 from tests.test_sitevision import lank, sida
 
 
@@ -66,3 +66,9 @@ class TestUpptack(unittest.TestCase):
             set(poster[0]),
             {"organ", "datum", "typ", "url", "kalla", "kallnyckel", "filnamn"},
         )
+
+    def test_arbetskatalogen_ligger_utanfor_repot(self):
+        with self.assertRaisesRegex(Konfigurationsfel, "ligger i repot"):
+            utanfor_repot(ROT / "arbete", ROT)
+        with tempfile.TemporaryDirectory() as katalog:
+            self.assertEqual(utanfor_repot(Path(katalog), ROT), Path(katalog))

@@ -2,11 +2,14 @@
 
 import tempfile
 import threading
+import time
 import unittest
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
+from unittest import mock
 
 from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
+from kommunhandlingar.hamtning import klient
 from kommunhandlingar.hamtning.installningar import Installningar, las
 from kommunhandlingar.hamtning.klient import Klient
 
@@ -25,6 +28,9 @@ class Server(BaseHTTPRequestHandler):
         kod, rubriker, kropp = Server.svar[self.path].pop(0)
         if kod is None:
             self.close_connection = True
+            return
+        if kod == "sov":
+            time.sleep(0.5)
             return
         self.send_response(kod)
         for namn, varde in rubriker.items():
@@ -94,9 +100,14 @@ class TestKlient(unittest.TestCase):
         self.assertEqual(self.vantat, [5, 5, 10])
 
     def test_retry_after_foljs(self):
-        Server.svar["/a"] = [(429, {"Retry-After": "30"}, ""), (200, {}, "ok")]
+        Server.svar["/a"] = [
+            (429, {"Retry-After": "30"}, ""),
+            (429, {"Retry-After": "86400"}, ""),
+            (429, {}, ""),
+            (200, {}, "ok"),
+        ]
         self.assertEqual(self.klient.text(self.bas + "/a"), "ok")
-        self.assertIn(30, self.vantat)
+        self.assertEqual(self.vantat, [5, 30, 300, 20])
 
     def test_ger_upp_efter_fyra_forsok(self):
         Server.svar["/a"] = [(None, {}, "")] * 4
@@ -110,17 +121,63 @@ class TestKlient(unittest.TestCase):
             self.klient.text(self.bas + "/a")
         self.assertEqual(len(Server.anrop), 2)
 
+    def test_kapat_svar_forsoks_igen(self):
+        Server.svar["/a"] = [(200, {"Content-Length": "100"}, "abc"), (200, {}, "ok")]
+        self.assertEqual(self.klient.text(self.bas + "/a"), "ok")
+
+    def test_tidsgrans_forsoks_igen(self):
+        Server.svar["/a"] = [("sov", {}, ""), (200, {}, "ok")]
+        with mock.patch.object(klient, "TIDSGRANS", 0.1):
+            self.assertEqual(self.klient.text(self.bas + "/a"), "ok")
+
+    def test_ingen_server_ger_anslutning(self):
+        with self.assertRaisesRegex(Hamtfel, "^anslutning$"):
+            self.klient.text("http://127.0.0.1:1/a")
+
+    def test_okand_teckenkodning(self):
+        Server.svar["/a"] = [(200, {"Content-Type": "text/html; charset=foo"}, "x")]
+        with self.assertRaisesRegex(Hamtfel, "^teckenkodning$"):
+            self.klient.text(self.bas + "/a")
+
+    def test_omdirigering_foljs_inte(self):
+        Server.svar["/a"] = [(302, {"Location": "/hemligt"}, "")]
+        with self.assertRaisesRegex(Hamtfel, "^http-302$"):
+            self.klient.text(self.bas + "/a")
+        self.assertNotIn("/hemligt", [a for a, _ in Server.anrop])
+
+    def test_429_pa_robots_stoppar(self):
+        Server.svar["/robots.txt"] = [(429, {}, "")] * 4
+        with self.assertRaisesRegex(Hamtfel, "^http-429$"):
+            self.klient.text(self.bas + "/a")
+
+    def test_robots_med_bom(self):
+        Server.svar["/robots.txt"] = [(200, {}, "\ufeffUser-agent: *\nDisallow: /")]
+        with self.assertRaisesRegex(Hamtfel, "^robots$"):
+            self.klient.text(self.bas + "/a")
+
+    def test_vardens_versaler_spelar_ingen_roll(self):
+        Server.svar["/a"] = [(200, {}, "a")]
+        Server.svar["/b"] = [(200, {}, "b")]
+        self.klient.text(self.bas + "/a")
+        self.klient.text(self.bas.replace("http", "HTTP") + "/b")
+        self.assertEqual(self.vantat, [5, 5])
+
 
 class TestInstallningar(unittest.TestCase):
     def test_hamtning_toml_lases(self):
-        installningar = las(ROT / "hamtning.toml")
-        self.assertIn("github.com/moggleif/kommunhandlingar", installningar.user_agent)
-        self.assertEqual(installningar.intervall, 5)
+        self.assertEqual(las(ROT / "hamtning.toml").intervall, 5)
 
-    def test_okant_falt_stoppar(self):
+    def stoppas(self, text: str):
         katalog = tempfile.TemporaryDirectory()
         self.addCleanup(katalog.cleanup)
         fil = Path(katalog.name) / "hamtning.toml"
-        fil.write_text('user_agent = "x"\nintervall = 5\ntakt = 1\n')
+        fil.write_text('user_agent = "x"\n' + text)
         with self.assertRaises(Konfigurationsfel):
             las(fil)
+
+    def test_okant_falt_stoppar(self):
+        self.stoppas("intervall = 5\ntakt = 1\n")
+
+    def test_intervall_maste_vara_sekunder(self):
+        self.stoppas("intervall = true\n")
+        self.stoppas("intervall = -1\n")

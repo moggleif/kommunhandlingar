@@ -319,19 +319,24 @@ standardbiblioteket.
   RFC 9309: gruppen för vår produkt (User-Agent fram till första `/` eller
   mellanslag) gäller, annars gruppen `*`; den längsta regel som träffar
   sökvägen med frågesträng avgör, och `Allow` vinner vid lika längd. `*`
-  och `$` stöds. Svarar `robots.txt` 4xx gäller inga regler. Går den inte
-  att hämta hämtas ingenting från värden. En stängd adress ger orsaken
-  `robots`.
-- **Nya försök** görs vid 429, 5xx, tidsgräns (60 sekunder) och när
-  servern stänger anslutningen utan svar: efter 5, 10 och 20 sekunder,
-  eller den tid `Retry-After` anger. Efter det fjärde försöket är orsaken
-  `http-<kod>`, `tidsgrans` eller `tomt-svar`. Andra 4xx försöks inte
-  igen, och ett fel i anslutningen ger `anslutning`.
+  och `$` stöds, och reglerna procentkodas innan de jämförs. Svarar
+  `robots.txt` 4xx, utom 429, gäller inga regler. Går den inte att hämta
+  hämtas ingenting från värden. En stängd adress ger orsaken `robots`.
+- **Nya försök** görs vid 429, 5xx, tidsgräns (60 sekunder), när servern
+  stänger anslutningen utan svar och när svaret bryts av: efter 5, 10 och
+  20 sekunder, eller den tid `Retry-After` anger, högst 300 sekunder.
+  Efter det fjärde försöket är orsaken `http-<kod>`, `tidsgrans`,
+  `tomt-svar` eller `avbrutet-svar`.
+- **Inget nytt försök** görs vid andra 4xx och vid omdirigeringar, som
+  inte följs, så att målet aldrig hämtas utan att prövas mot `robots.txt`
+  och intervallet. Orsaken är `http-<kod>`. En server som inte går att nå
+  ger `anslutning`, och en sida som inte går att avkoda `teckenkodning`.
 
 ### Kandidatlistan
 
 `python -m kommunhandlingar.upptack kommuner/<kommun>.toml <arbetskatalog>`
-körs från repots rot. Det hämtar varje källsida, kör adaptern och skriver
+läser `hamtning.toml` i samma repo som kommunfilen och stoppas om
+arbetskatalogen ligger i repot. Det hämtar varje källsida, kör adaptern och skriver
 `<arbetskatalog>/<kommun>.kandidater.json`: en lista i ordningen från
 K13, en post per kandidat med fälten `organ`, `datum` (`ÅÅÅÅ-MM-DD`),
 `typ`, `url`, `kalla`, `kallnyckel` och `filnamn`. Sammanfattningen

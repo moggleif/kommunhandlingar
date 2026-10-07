@@ -45,6 +45,17 @@ class TestRobots(unittest.TestCase):
         self.assertFalse(far(text, "/hemligt"))
         self.assertFalse(far(text, "/oppet", "annanrobot"))
 
+    def test_egen_grupp_med_version(self):
+        text = (
+            "User-agent: *\nDisallow: /\n\nUser-agent: kommunhandlingar/1.0\nAllow: /"
+        )
+        self.assertTrue(far(text, "/oppet"))
+
+    def test_regeln_procentkodas(self):
+        self.assertFalse(
+            far("User-agent: *\nDisallow: /nämnd", "/n%C3%A4mnd/protokoll")
+        )
+
     def test_tom_egen_grupp_tillater_allt(self):
         text = "User-agent: *\nDisallow: /\n\nUser-agent: kommunhandlingar\nDisallow:"
         self.assertTrue(far(text, "/oppet"))

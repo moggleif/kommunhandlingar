@@ -1,5 +1,5 @@
 ---
-status: accepted
+status: proposed
 date: 2026-10-07
 decision-makers: projektägaren
 consulted: AI-agenten
@@ -62,12 +62,19 @@ enligt [RFC 9309](https://www.rfc-editor.org/rfc/rfc9309)**, och
   vinner vid lika längd. `*` och `$` stöds. Svarar `robots.txt` 4xx
   finns inga begränsningar. Går den inte att hämta efter de nya försöken
   hämtas ingenting från värden.
-* **Nya försök:** vid 429, 5xx, en anslutning som stängs utan svar och en
-  tidsgräns. Väntan är 5 sekunder och fördubblas, eller så lång som
-  `Retry-After` anger i sekunder. Efter fyra försök är orsaken
-  `http-<kod>`, `tomt-svar` eller `tidsgrans`. Andra 4xx försöks inte
-  igen. En stängd adress ger orsaken `robots`. Antalet försök och
-  väntetiderna står i koden: de är beteende, inte artighet.
+* **Nya försök:** vid 429, 5xx, en anslutning som stängs utan svar, ett
+  svar som bryts av och en tidsgräns. Väntan är 5 sekunder och fördubblas,
+  eller så lång som `Retry-After` anger i sekunder, högst fem minuter, så
+  att en körning inte sover bort sin tidsbudget. Efter fyra försök är
+  orsaken `http-<kod>`, `tomt-svar`, `avbrutet-svar` eller `tidsgrans`.
+  Andra 4xx försöks inte igen. 429 på `robots.txt` räknas som att den
+  inte gick att hämta, inte som att den saknas. En stängd adress ger
+  orsaken `robots`. Antalet försök och väntetiderna står i koden: de är
+  beteende, inte artighet. Mönstret är detsamma som i politik-repots
+  `hamta()` (README).
+* **Omdirigeringar följs inte.** De ger `http-<kod>`, så att målet aldrig
+  hämtas utan att ha prövats mot `robots.txt` och intervallet.
+  Kungsbackas sidor och filer omdirigeras inte i dag.
 * **Kandidatlistan** skrivs till `<arbetskatalog>/<kommun>.kandidater.json`
   som en lista i ordningen från K13, med kandidatens fält och datumet som
   `ÅÅÅÅ-MM-DD`. Sammanfattningen skrivs ut: kandidater per organ och
@@ -85,9 +92,9 @@ enligt [RFC 9309](https://www.rfc-editor.org/rfc/rfc9309)**, och
   på nytt, och listan kan sparas som underlag efter en körning.
 * Dåligt, eftersom läsningen av `robots.txt` är vår egen och måste
   testas mot RFC:ns regler.
-* Dåligt, eftersom en omdirigering följs av `urllib` utan att målet
-  prövas mot `robots.txt` eller intervallet. Kungsbackas sidor och filer
-  omdirigeras inte i dag.
+* Dåligt, eftersom en källa som börjar omdirigera ger `http-301` eller
+  `http-302` tills klienten lär sig pröva målet. Det syns, i stället för
+  att gå förbi `robots.txt`.
 
 ### Confirmation
 
@@ -147,9 +154,14 @@ När klienten skrevs visade det sig att `urllib.robotparser` i Python
 bryter mot K10 på ett sätt som inte syns. Projektägaren hade gett
 klartecken att arbetet går vidare under natten enligt agentens
 rekommendationer, och agenten valde den egna läsningen framför ett
-beroende. Beslutet bör omprövas om projektet ändå tar in ett bibliotek
-för hämtning.
+beroende. Det valet har projektägaren inte sett, så ADR:n står som
+`proposed` tills projektägaren tagit ställning. Beslutet bör omprövas om
+projektet ändå tar in ett bibliotek för hämtning.
 
-Fem sekunder valdes eftersom upptäckten bara gör 18 anrop (17 sidor och
-`robots.txt`) och servern redan är långsam. I steg 2, med över tusen
+Granskningen (fas 6) hittade att en BOM först i `robots.txt`, 429 på
+`robots.txt`, ett `Retry-After` på ett dygn och en omdirigering kunde gå
+förbi reglerna. Alla fyra rättades före merge.
+
+Fem sekunder valdes eftersom upptäckten bara gör ett anrop per källsida
+och servern redan är långsam. I steg 2, med över tusen
 filer, är det tiden för själva överföringen som dominerar.

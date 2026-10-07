@@ -15,4 +15,8 @@ class Datafel(Exception):
 
 
 class Hamtfel(Exception):
-    """En adress gick inte att hämta; texten är orsakskoden, som `http-404` (K10)."""
+    """En adress gick inte att hämta; `orsak` är koden, som `http-404` (K10)."""
+
+    def __init__(self, orsak: str, adress: str = ""):
+        super().__init__(f"{adress}: {orsak}" if adress else orsak)
+        self.orsak = orsak
