@@ -165,3 +165,29 @@ kunna läggas till utan kodändring.
 - **Så** följs `robots.txt`, User-Agent anger vem vi är och hur vi nås,
   anropen till samma värd ligger minst det konfigurerade intervallet isär,
   och 429/5xx leder till att körningen väntar och backar.
+
+## K11 — Bara färdiga och kontrollerade körningar når poolen
+
+- **Givet** en körning, schemalagd eller startad för hand
+- **När** dess tidsbudget är slut
+- **Så** startar den inget nytt dokument, gör färdigt det den håller på
+  med om det hinner bli klart före budgetens hårda gräns och lägger det
+  annars åt sidan utan att något av det blir kvar, och checkar in det som
+  är klart; nästa körning fortsätter med resten, och ett dokument som
+  lagts åt sidan syns i körningens sammanfattning.
+
+- **Givet** en körning som har ändrat något
+- **När** den ska checka in
+- **Så** körs datakontrollerna först, och bara om de går igenom når
+  ändringen `main`, som en commit som bara rör filer under `data/`.
+
+- **Givet** en körning vars resultat inte klarar datakontrollerna, som
+  stoppas av ett oväntat fel, eller som avbryts innan den checkat in
+- **När** den slutar
+- **Så** ändras ingenting i poolen, körningen syns som misslyckad, och
+  nästa körning börjar från `main` som den är.
+
+- **Givet** att en körning redan pågår
+- **När** en till startas, schemalagd eller för hand
+- **Så** körs de aldrig samtidigt: den nya väntar tills den första är
+  klar, och en start som väntar ersätts av en senare start.

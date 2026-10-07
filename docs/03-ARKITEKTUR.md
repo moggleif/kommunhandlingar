@@ -52,14 +52,58 @@ Hur och varför står i
   till en temporär fil i samma katalog, med ett namn som inte slutar på
   `.md`, som byter namn till den rätta. Avbryts körningen
   emellan står nya tabeller bredvid den gamla `.md`; dess `kalla_url` är
-  då fortfarande den gamla, så nästa körning gör om dokumentet. Att bara
-  checka in färdiga körningar hör till issue #5.
+  då fortfarande den gamla, så nästa körning gör om dokumentet. En sådan
+  körning checkas aldrig in (se nedan).
 - **Ett misslyckat hämtningsförsök** skriver aldrig över en fullständig
   `.md`. Har dokumentet ingen ger försöket en `.md` med kvalitet
   `ej-hamtad`, försökets tid i `hamtad` och orsaken i `fel` (K6); den bär
   också dokumentets plats. Den filen skrivs om bara när `fel` eller
   `kalla_url` ändras, så att en körning utan ändringar inte ger några
   diffar.
+
+### Körning och incheckning
+
+Hur och varför står i
+[ADR-0006](decisions/0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md).
+Vad en körning gör när budgeten tar slut, när kontrollerna faller och när
+två startas står i K11.
+
+- **Pipelinen är ett kommando** som inte vet var det körs. GitHub Actions
+  startar det varje natt och för hand (`workflow_dispatch`), i en
+  `concurrency`-grupp utan `cancel-in-progress`. Gruppen håller högst en
+  körning i kö; en senare start ersätter den som väntar.
+- **Varje körning börjar från en ren utcheckning av `main`.**
+- **Tidsbudget, räknat från jobbets start.** Efter 5 timmar startas inget
+  nytt dokument. Efter 5 timmar och 30 minuter läggs det pågående
+  dokumentet åt sidan: dess tabellkatalog och temporära fil tas bort om
+  de inte finns på `main`, och annars återställs de dit. Dokumentet nämns
+  i jobbets sammanfattning, och körningen går vidare till kontrollerna.
+  Resten av tiden fram till Actions gräns på 6 timmar per jobb är till
+  för kontrollerna och pushen. Budgeten är vår egen och följer GitHubs
+  gräns ([Actions limits](https://docs.github.com/en/actions/reference/limits),
+  kontrollerat 2026-10-07); ändrar GitHub gränsen ändras budgeten.
+- **Datakontrollerna körs innan något pushas.** Har `main` fått nya
+  commits under körningen läggs körningens commit ovanpå och kontrollerna
+  körs igen med koden från `main`. Blir det en konflikt eller faller
+  kontrollerna pushas ingenting.
+- **En push med Actions egen token startar inga workflows**
+  ([GITHUB_TOKEN](https://docs.github.com/en/actions/concepts/security/github_token), kontrollerat 2026-10-07), så
+  `kontroll.yml` körs inte på datacommiten. Kontrollerna i jobbet är de
+  enda den får.
+
+Datakontrollerna, i körningen och i CI:
+
+- Inga binärer utom små testfixturer (ADR-0001).
+- Varje `.md` under `data/` har front matter enligt
+  [Front matter](#front-matter), med de fält som är `null` för
+  `ej-hamtad` och för en fil som inte gick att öppna.
+- Sökvägen stämmer med front matter: kommun, organ, år, datum, löpnummer,
+  typ och namn enligt [Katalogstruktur](#katalogstruktur).
+- Varje `.tabeller/`-katalog har sin `.md`.
+- Inga temporära filer finns under `data/`.
+
+Bara i körningen, eftersom en vanlig PR ändrar kod och dokument: att
+körningen bara har ändrat filer under `data/`.
 
 ## Datamodell
 

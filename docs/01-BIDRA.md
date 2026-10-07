@@ -29,5 +29,8 @@ inga binärer är incheckade.
   på första raden för en hel fil.
 - Ruffs gränser: `# noqa: <regel>  # undantag: <skäl>` på raden ruff pekar ut.
 
-Kontrollen av härkomst i dokumentens front matter (ADR-0001) kommer med
-konverteringen, när det finns dokument att kontrollera.
+Datakontrollerna, bland dem kontrollen av härkomst i dokumentens front
+matter (ADR-0001), kommer med pipelinen, när det finns dokument att
+kontrollera. Vilka de är, och vilken som bara körs i den schemalagda
+körningen innan den checkar in, står under "Körning och incheckning" i
+[03-ARKITEKTUR.md](03-ARKITEKTUR.md) (ADR-0006).
