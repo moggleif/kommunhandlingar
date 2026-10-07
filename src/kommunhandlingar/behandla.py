@@ -129,7 +129,7 @@ def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtad: datetime) -> 
 def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
     return {
         "sidor": len(resultat.sidor) if resultat.sidor else None,
-        "pipeline": " / ".join([steg.version, *versioner()]),
+        "pipeline": " / ".join([steg.version, *versioner(resultat)]),
         "kvalitet": resultat.kvalitet,
         "fel": resultat.fel,
         "kvalitet_per_sida": resultat.kvalitet_per_sida,

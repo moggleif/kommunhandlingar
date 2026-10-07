@@ -12,7 +12,7 @@ from pathlib import Path
 import pdfplumber
 import pypdfium2 as pdfium
 
-from kommunhandlingar.konvertering import kvalitet
+from kommunhandlingar.konvertering import kvalitet, ocr
 from kommunhandlingar.konvertering.las_sida import Sida, las_sida
 
 VERKTYG = ("pdfplumber", "pdfminer.six")
@@ -36,8 +36,10 @@ class Resultat:
         return [nr for nr, s in enumerate(self.sidor, 1) if s.tal_obekraftade]
 
 
-def versioner() -> list[str]:
-    return [f"{namn} {version(namn)}" for namn in VERKTYG]
+def versioner(resultat: Resultat) -> list[str]:
+    lasta = [f"{namn} {version(namn)}" for namn in VERKTYG]
+    kvaliteter = set(resultat.kvalitet_per_sida or [])
+    return lasta + (ocr.verktyg() if kvaliteter & {"ocr", "ej-konverterad"} else [])
 
 
 def konvertera(pdf: Path) -> Resultat:

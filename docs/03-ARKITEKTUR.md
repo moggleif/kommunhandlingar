@@ -446,13 +446,21 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
 5. **Annars** läses textlagret, hur kort det än är, och sidan blir `ok`
    eller `tabell-osaker`.
 
-- **OCR:** sidan renderas och läses av Tesseract med svensk modell
-  (`swe`). Upplösningen och förberedelsen av bilden bestäms när
-  konverteringen skrivs, mot den inskannade blanketten som testfixtur. Säkerheten är medelvärdet av Tesseracts säkerhet för de
+- **OCR:** sidan renderas med pypdfium2 i 300 dpi och gråskala, utan
+  annan förberedelse, och läses av Tesseract med svensk modell (`swe`).
+  Det läser den inskannade sidan i `tests/fixtures/pdf/` rätt; den är
+  ren och rak, och upplösningen är ännu inte prövad mot riktiga
+  skanningar. Säkerheten är medelvärdet av Tesseracts säkerhet för de
   ord den känt igen (poster med säkerhet −1 räknas inte). Är den minst 70
   blir sidan `ocr`. Annars, och när Tesseract inte känner igen några ord,
   blir den `ej-konverterad`: den har innehåll, en karta, ett foto eller
-  handskrift, som inte blev text. På en OCR-sida letas inga tabeller;
+  handskrift, som inte blev text. Tesseract körs utan
+  orienteringsdetektering, så en liggande skanning blir också
+  `ej-konverterad`. Fallerar Tesseract på en sida, eller blir den inte
+  klar på fem minuter, blir sidan `ej-konverterad` och felet skrivs ut;
+  dokumentets övriga sidor behålls. Saknas Tesseract eller `swe` stoppas
+  steg 2 innan något dokument läses, så att ingen sida märks
+  `ej-konverterad` för att miljön saknar något. På en OCR-sida letas inga tabeller;
   hela sidans text är OCR-text, och den läses för sammanhangets skull,
   inte som data. Talen i OCR-texten står omärkta i texten; att de inte är
   bekräftade syns bara i `tal_obekraftade`.
@@ -508,7 +516,9 @@ pypdfium2 samt Tesseract och språkmodellens version när någon sida
 lästes med OCR, till exempel
 `kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 /
 pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. För `ej-hamtad` har inget
-verktyg läst dokumentet, och `pipeline` är bara poolens version. En fil
+verktyg läst dokumentet, och `pipeline` är bara poolens version.
+Språkmodellens version är paketet `tesseract-ocr-swe`:s version utan epok
+och revision; går den inte att läsa ur paketsystemet står `okänd`. En fil
 som inte gick att öppna har lästs av pdfplumber och pdfminer.six.
 Versionen höjs när en ändring i konverteringen ändrar vad den skriver.
 
@@ -551,10 +561,6 @@ utfallen och nämner varje dokument som inte gick att hämta, med orsak.
 - **PDF:en** strömmas till en temporär katalog utanför repot, och
   katalogen tas bort när dokumentet är klart, också om något gick fel.
 - **Tiderna** `hamtad` och `konverterad` skrivs i UTC, på sekunden.
-- **OCR finns inte än**
-  ([#36](https://github.com/moggleif/kommunhandlingar/issues/36)). En sida
-  som enligt reglerna ska läsas med OCR blir till dess `ej-konverterad`
-  utan försök, och den schemalagda körningen startar inte förrän OCR finns.
 - **En fil som pdfplumber eller pdfminer inte kan läsa**, hur felet än
   ser ut, blir `ej-konverterad` med `trasig-pdf`, och felet skrivs ut, så
   att en enda fil inte stoppar körningen.

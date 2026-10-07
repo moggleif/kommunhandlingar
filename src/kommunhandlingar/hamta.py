@@ -18,6 +18,7 @@ from kommunhandlingar.fel import Konfigurationsfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
 from kommunhandlingar.kandidat import Kandidat
+from kommunhandlingar.konvertering import ocr
 
 
 def las_kandidater(fil: Path) -> list[Kandidat]:
@@ -40,6 +41,7 @@ def kor(steg: Steg2, kandidater: list[Kandidat]) -> Counter:
 
 
 def main(kommunfil: Path, arbetskatalog: Path) -> None:
+    ocr.kontrollera()
     rot = kommunfil.resolve().parent.parent
     kommun = konfiguration.las(kommunfil)
     kandidater = las_kandidater(arbetskatalog / f"{kommun.id}.kandidater.json")
