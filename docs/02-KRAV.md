@@ -232,3 +232,31 @@ kunna läggas till utan kodändring.
 - **Givet** samma kandidatlista i en annan upptäcktsordning
 - **När** hämtningen börjar
 - **Så** tas kandidaterna i samma ordning.
+
+## K14 — Webbplatsen visar vad poolen innehåller
+
+- **Givet** en kommunfil och poolens dokument under `data/<kommun>/`
+- **När** webbplatsen byggs
+- **Så** har kommunen en statussida med en rad per organ, i den ordning
+  organen står i kommunfilen, med antal sammanträden och antal dokument
+  av varje typ.
+- **Givet** ett organ i kommunfilen som inte har något dokument i poolen
+- **När** webbplatsen byggs
+- **Så** står organet med på statussidan, märkt "inget hämtat än".
+- **Givet** dokument med olika kvalitet
+- **När** webbplatsen byggs
+- **Så** visar statussidan för varje organ antal dokument på varje
+  kvalitetsnivå och antal sidor med obekräftade tal.
+- **Givet** ett dokument vars organ inte står i kommunfilen, eller vars typ
+  eller kvalitet inte finns i schemat
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med dokumentets filnamn, i stället för att
+  dokumentet utelämnas tyst ur tabellerna.
+- **Givet** en ändring på `main`
+- **När** den har checkats in
+- **Så** byggs webbplatsen om och publiceras på GitHub Pages, och varje
+  sida säger när den byggdes.
+- **Givet** en sida på webbplatsen
+- **När** den visas
+- **Så** har den samma meny, med startsidan och en statussida per kommun,
+  och en sidfot som länkar till repot.

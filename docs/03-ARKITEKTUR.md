@@ -104,7 +104,8 @@ två startas står i K11.
 - **En push med Actions egen token startar inga workflows**
   ([GITHUB_TOKEN](https://docs.github.com/en/actions/concepts/security/github_token), kontrollerat 2026-10-07), så
   `kontroll.yml` körs inte på datacommiten. Kontrollerna i jobbet är de
-  enda den får.
+  enda den får. Av samma skäl startar jobbet efter pushen `webbplats.yml` med
+  `workflow_dispatch`, som Actions egen token får starta.
 
 Datakontrollerna, i körningen och i CI:
 
@@ -165,6 +166,7 @@ src/kommunhandlingar/
   hamtning/        artig HTTP-klient
   konvertering/    pdf → md, tabeller, OCR-reserv, kvalitetsmått
   index/
+  webbplats/       statussidorna och startsidan för GitHub Pages
 kommuner/<kommun>.toml
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
@@ -332,7 +334,8 @@ tal_obekraftade: [3]
 
 Det här avsnittet äger schemat; värdena står i varje dokuments front
 matter. Varje fält finns alltid, och ett fält som inte har något värde är
-`null`.
+`null`. Varje fält står på en egen rad, och en lista skrivs
+inom hakparenteser på samma rad, som i exemplet.
 
 | Fält                   | Betyder                                                      | `null` när |
 | ---------------------- | ------------------------------------------------------------ | ---------- |
@@ -491,3 +494,32 @@ tabeller har ingen tabellkatalog.
 - **Datakontrollen** prövar att varje CSV heter så, att numren på en
   sida följer på varandra utan lucka, och att sidan finns och är `ok`
   eller `tabell-osaker`.
+
+## Webbplatsen
+
+Hur och varför står i
+[ADR-0012](decisions/0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md).
+Webbplatsen är statisk HTML som byggs av
+`python -m kommunhandlingar.webbplats <utkatalog> <repoadress>` och
+publiceras på GitHub Pages av `.github/workflows/webbplats.yml` vid varje
+push till `main` och för hand. Inget av det som byggs checkas in.
+
+- **Sidorna:** en startsida och en statussida per kommunfil i `kommuner/`,
+  `<kommun>.html`. Varje sida har samma meny – startsidan och kommunerna
+  i bokstavsordning efter id – och en sidfot som länkar till repot och
+  säger när sidan byggdes.
+- **Statussidan** räknar ur front matter i varje `.md` under
+  `data/<kommun>/`, utan något index. Den har en rad per organ i
+  kommunfilens ordning: antal sammanträden (olika `datum` och `lopnr`),
+  antal dokument per `typ`, antal dokument per `kvalitet` och antal sidor
+  i `tal_obekraftade`. Ett organ utan dokument står med som "inget hämtat
+  än". Sidan räknar men visar inga andelar, eftersom det ännu inte finns
+  något att räkna andelen av.
+- **Statisk och utan beroenden:** bara standardbiblioteket, ingen
+  JavaScript och inga externa resurser. All text går genom
+  `html.escape`. Ingen information bärs av färg.
+- **Efter nattkörningen** byggs webbplatsen om av körningen själv (se
+  [Körning och incheckning](#körning-och-incheckning)).
+- **Dokumenten** måste ha ett `organ` ur kommunfilen, en `typ` och en
+  `kvalitet` ur tabellerna ovan. Annars stoppas bygget med filens namn,
+  så att inget dokument utelämnas tyst ur tabellerna.
