@@ -99,11 +99,11 @@ Datakontrollerna, i körningen och i CI:
 
 - Inga binärer utom små testfixturer (ADR-0001).
 - Varje `.md` under `data/` har front matter enligt
-  [Front matter](#front-matter), med de fält som är `null` för
-  `ej-hamtad` och för en fil som inte gick att öppna.
+  [Front matter](#front-matter).
 - Sökvägen stämmer med front matter: kommun, organ, år, datum, löpnummer,
   typ och namn enligt [Katalogstruktur](#katalogstruktur).
-- Varje `.tabeller/`-katalog har sin `.md`.
+- Varje `.tabeller/`-katalog har sin `.md`, och varje CSV i den följer
+  [Tabeller](#tabeller).
 - Inga temporära filer finns under `data/`.
 
 Bara i körningen, eftersom en vanlig PR ändrar kod och dokument: att
@@ -137,8 +137,7 @@ Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
   tecken, vid sista bindestrecket om det finns ett. Blir namnet tomt, eller
   ger två rubriker samma namn, får dokumentet ett löpnummer som namn: `2`,
   `3`, …
-- Ärendet är ett attribut: `arenden` listar diarienummer, är tom när
-  dokumentet inte rör något ärende och `null` när det inte är känt.
+- Ärendet är ett attribut, `arenden` i [front matter](#front-matter).
   Diariet är en källa till mötesdokument, inte till egna dokument.
 
 ## Katalogstruktur
@@ -152,7 +151,7 @@ src/kommunhandlingar/
 kommuner/<kommun>.toml
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
-data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<nr>.csv
+data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>-<nr>.csv
 scripts/          verktyg för utvecklingen, t.ex. storlekskontrollen
 tests/fixtures/
 ```
@@ -253,19 +252,43 @@ sidor: 14
 hamtad: 2026-10-06T15:40:12+02:00
 konverterad: 2026-10-06T15:40:31+02:00
 pipeline: kommunhandlingar <version> / <verktyg> <version> …
-kvalitet: ocr         # full | text-utan-tabeller | ocr | delvis | ej-konverterad | ej-hamtad
-fel: null             # kort orsakskod när något inte gick, t.ex. http-404, kapad, krypterad
-kvalitet_per_sida: [ok, ok, ocr, tabell-osaker, …]   # ok | tom | tabell-osaker | ocr | ej-konverterad
-tal_obekraftade: [3]  # sidor med tal som inte är bekräftade; [] = alla tal bekräftade
+kvalitet: ocr
+fel: null
+kvalitet_per_sida: [ok, ok, ocr, tabell-osaker, …]
+tal_obekraftade: [3]
 ---
 ```
 
+Det här avsnittet äger schemat; värdena står i varje dokuments front
+matter. Varje fält finns alltid, och ett fält som inte har något värde är
+`null`.
+
+| Fält                   | Betyder                                                      | `null` när |
+| ---------------------- | ------------------------------------------------------------ | ---------- |
+| `kommun`               | Kommunens id, kommunfilens namn utan `.toml`.                | aldrig |
+| `organ`                | Organets id i kommunfilen.                                   | aldrig |
+| `datum`                | Sammanträdets datum, `ÅÅÅÅ-MM-DD`.                           | aldrig |
+| `lopnr`                | Sammanträdets löpnummer samma dag (ADR-0003).                | sökvägen saknar löpnummer |
+| `typ`                  | `kallelse`, `handlingar`, `protokoll` eller `bilaga`.        | aldrig |
+| `namn`                 | `<namn>` i sökvägen (ADR-0003).                              | sökvägen saknar namn |
+| `kallnyckel`           | Adapterns källnyckel (ADR-0003).                             | aldrig |
+| `tidigare_kallnycklar` | Källnycklar dokumentet haft tidigare (K9); `[]` när inga.     | aldrig |
+| `arenden`              | Diarienummer; `[]` när dokumentet inte rör något ärende.      | det inte är känt |
+| `kalla_url`            | Adressen originalet hämtades från, eller försöktes hämtas från. | aldrig |
+| `sha256`               | Originalets sha256.                                          | `ej-hamtad` |
+| `bytes`                | Originalets storlek i byte.                                  | `ej-hamtad` |
+| `sidor`                | Originalets antal sidor.                                     | `ej-hamtad`, eller filen gick inte att öppna |
+| `hamtad`               | Tiden för hämtningen; för `ej-hamtad` det första misslyckade försöket. | aldrig |
+| `konverterad`          | Tiden för konverteringen.                                    | `ej-hamtad` |
+| `pipeline`             | Poolens version och verktygen som läste dokumentet (nedan).  | aldrig |
+| `kvalitet`             | Dokumentets kvalitet (nedan).                                | aldrig |
+| `fel`                  | Kort orsakskod, till exempel `http-404`, `kapad` eller `krypterad`. | originalet hämtades och gick att öppna |
+| `kvalitet_per_sida`    | Varje sidas kvalitet, i sidordning (nedan).                  | `ej-hamtad`, eller filen gick inte att öppna |
+| `tal_obekraftade`      | Sidor vars tal inte är bekräftade (nedan); `[]` när alla är det. | `ej-hamtad`, eller filen gick inte att öppna |
+
 `kvalitet` och `fel` är tillsammans dokumentets status (K6). När kvalitet
-är `ej-hamtad` finns inget original: `sha256`, `bytes`, `sidor`,
-`konverterad`, `kvalitet_per_sida` och `tal_obekraftade` är `null`, och
-`hamtad` är tiden för det första försöket som misslyckades med orsaken i
-`fel` och adressen i `kalla_url`. Härkomsten är då
-källänken, källnyckeln och försöket
+är `ej-hamtad` finns inget original, och härkomsten är källänken,
+källnyckeln och försöket
 ([ADR-0004](decisions/0004-inkrementell-korning-poolen-ar-tillstandet.md)).
 
 ### Konvertering och kvalitet
@@ -328,7 +351,7 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   rektanglar som är högst 2 punkter breda eller höga. Bredare fyllda ytor,
   som färgade rader och kolumner, är inga linjer. Tabellen har minst två
   rader och två kolumner, och varje ord inom dess yta har sin mittpunkt i
-  en cell. En säker tabell skrivs som CSV.
+  en cell. En säker tabell skrivs som CSV enligt [Tabeller](#tabeller).
 - **En osäker tabell** är minst tre talrader på sidan, var som helst
   utanför de säkra tabellerna. Raderna tas ur sidans text med bevarad
   uppställning, och fält skiljs åt av två eller fler mellanslag. En
@@ -356,15 +379,44 @@ gäller. Den sämsta sidan avgör:
 När filen inte gick att öppna står orsaken i `fel`: `krypterad` (filen
 kräver lösenord för att öppnas; ett lösenord som bara begränsar utskrift
 eller ändring hindrar inte), `trasig-pdf` (också en fil utan sidor) eller
-`inte-pdf`. Då är `kvalitet_per_sida`, `tal_obekraftade` och `sidor`
-`null`, medan `sha256` och `bytes` beskriver den hämtade filen. Har filen
-sidor men ingen av dem gick att läsa är `fel` `null`, och `sidor`,
-`kvalitet_per_sida` och `tal_obekraftade` visar sidorna som de är.
+`inte-pdf`; vilka fält som då är `null` står i
+[Front matter](#front-matter). Har filen sidor men ingen av dem gick att
+läsa är `fel` `null`, och `sidor`, `kvalitet_per_sida` och
+`tal_obekraftade` visar sidorna som de är.
 
 `pipeline` är poolens version ur `pyproject.toml` följd av de verktyg som
 läste dokumentet, med version: alltid pdfplumber och pdfminer.six, och
 pypdfium2 samt Tesseract och språkmodellens version när någon sida
 lästes med OCR, till exempel
 `kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 /
-pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. Versionen höjs när en
-ändring i konverteringen ändrar vad den skriver.
+pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. För `ej-hamtad` har inget
+verktyg läst dokumentet, och `pipeline` är bara poolens version. En fil
+som inte gick att öppna har lästs av pdfplumber och pdfminer.six.
+Versionen höjs när en ändring i konverteringen ändrar vad den skriver.
+
+## Tabeller
+
+Hur och varför står i
+[ADR-0009](decisions/0009-tabellernas-harkomst-och-csv-format.md). Varje
+säker tabell blir en CSV i dokumentets tabellkatalog, som heter som
+`.md` men med `.tabeller` i stället för `.md`. Ett dokument utan säkra
+tabeller har ingen tabellkatalog.
+
+- **Filnamnet** är `<sida>-<nr>.csv`, utan inledande nollor: sidnumret
+  från 1, och tabellens nummer på sidan från 1, uppifrån och ned och vid
+  samma höjd från vänster till höger. `3-2.csv` är den andra tabellen på
+  sidan 3.
+- **Härkomsten** är front matter i tabellkatalogens `.md`. Tabellerna
+  har ingen egen. Står sidan i `tal_obekraftade` är talen i dess CSV:er
+  inte bekräftade; det syns bara i `.md`.
+- **Formatet** är CSV som i [RFC 4180](https://www.rfc-editor.org/rfc/rfc4180),
+  men med radslut LF i stället för CRLF: UTF-8 utan BOM och komma som
+  skiljetecken. Varje rad har lika många fält. Cellerna står som de
+  lästes: inget tal görs om, decimalkommat står kvar, och en radbrytning
+  i en cell står kvar inom citattecken. En tom cell är tom, och en
+  sammanslagen cells text står i dess första cell, uppe till vänster,
+  medan cellerna den täcker är tomma. Den första raden är tabellens
+  första rad och tolkas inte som rubrik.
+- **Datakontrollen** prövar att varje CSV heter så, att numren på en
+  sida följer på varandra utan lucka, och att sidan finns och är `ok`
+  eller `tabell-osaker`.

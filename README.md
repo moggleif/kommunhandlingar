@@ -11,8 +11,8 @@ står i en konfigurationsfil per kommun.
 ## Hur det fungerar
 
 PDF:en hämtas tillfälligt, konverteras och raderas. Kvar blir texten, och
-överst i varje Markdown-fil står varifrån den kom, när den hämtades och
-konverterades, originalets sha256 och hur väl konverteringen lyckades.
+överst i varje Markdown-fil står varifrån den kom och hur väl
+konverteringen lyckades ([fälten](docs/03-ARKITEKTUR.md#front-matter)).
 Bakgrunden står i [ADR-0001](docs/decisions/0001-ett-repo-bara-text.md).
 
 ## Dokumentation

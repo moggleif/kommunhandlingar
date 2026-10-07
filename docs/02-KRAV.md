@@ -44,9 +44,10 @@ kunna läggas till utan kodändring.
 
 - **Givet** ett hämtat PDF-dokument
 - **När** det konverteras
-- **Så** skrivs en `.md` vars front matter anger källänk, originalets
-  sha256, tid för hämtning och konvertering, pipelineversion och
-  kvalitet – och PDF:en raderas.
+- **Så** skrivs en `.md` vars front matter anger varifrån originalet
+  kom, vilket original det var, när det hämtades och konverterades, med
+  vilka verktyg och med vilken kvalitet – och PDF:en raderas. Fälten står
+  i [Front matter](03-ARKITEKTUR.md#front-matter).
 
 ## K5 — Tabeller blir CSV
 
@@ -54,7 +55,8 @@ kunna läggas till utan kodändring.
 - **När** det konverteras
 - **Så** skrivs varje tabell som går att läsa säkert som en CSV-fil
   bredvid dokumentets `.md`, med sidnummer, och tabellen syns också i
-  Markdown-texten.
+  Markdown-texten. Varje CSV går att föra tillbaka till sitt dokument,
+  och därmed till dokumentets härkomst.
 - **Givet** en tabell som inte går att läsa säkert
 - **Så** märks den som osäker i stället för att sparas som om den vore riktig:
   den blir ingen CSV, den står i Markdown märkt som osäker tabell, och
