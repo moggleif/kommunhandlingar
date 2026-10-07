@@ -448,12 +448,19 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
 
 - **OCR:** sidan renderas med pypdfium2 i 300 dpi och gråskala, utan
   annan förberedelse, och läses av Tesseract med svensk modell (`swe`).
-  Det läser den inskannade blanketten i `tests/fixtures/pdf/` rätt, med
-  säkerheten 95. Säkerheten är medelvärdet av Tesseracts säkerhet för de
+  Det läser den inskannade sidan i `tests/fixtures/pdf/` rätt; den är
+  ren och rak, och upplösningen är ännu inte prövad mot riktiga
+  skanningar. Säkerheten är medelvärdet av Tesseracts säkerhet för de
   ord den känt igen (poster med säkerhet −1 räknas inte). Är den minst 70
   blir sidan `ocr`. Annars, och när Tesseract inte känner igen några ord,
   blir den `ej-konverterad`: den har innehåll, en karta, ett foto eller
-  handskrift, som inte blev text. På en OCR-sida letas inga tabeller;
+  handskrift, som inte blev text. Tesseract körs utan
+  orienteringsdetektering, så en liggande skanning blir också
+  `ej-konverterad`. Fallerar Tesseract på en sida, eller blir den inte
+  klar på fem minuter, blir sidan `ej-konverterad` och felet skrivs ut;
+  dokumentets övriga sidor behålls. Saknas Tesseract eller `swe` stoppas
+  steg 2 innan något dokument läses, så att ingen sida märks
+  `ej-konverterad` för att miljön saknar något. På en OCR-sida letas inga tabeller;
   hela sidans text är OCR-text, och den läses för sammanhangets skull,
   inte som data. Talen i OCR-texten står omärkta i texten; att de inte är
   bekräftade syns bara i `tal_obekraftade`.

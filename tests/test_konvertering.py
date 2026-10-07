@@ -1,14 +1,21 @@
 """Krav: K4–K6, ADR-0005 och ADR-0009. Kod: src/kommunhandlingar/konvertering/."""
 
+import os
 import unittest
 from pathlib import Path
+from types import SimpleNamespace
+from unittest import mock
 
+import pypdfium2 as pdfium
+
+from kommunhandlingar.fel import Konfigurationsfel
+from kommunhandlingar.konvertering import ocr
 from kommunhandlingar.konvertering.dokument import konvertera, versioner
 from kommunhandlingar.konvertering.kvalitet import dokumentets
 from kommunhandlingar.konvertering.ocr import medelsakerhet
 from kommunhandlingar.konvertering.tabeller import som_csv, som_markdown
 from kommunhandlingar.konvertering.text import ar_talrad, stycken
-from kommunhandlingar.konvertering.vag import langd_av, tackt_yta
+from kommunhandlingar.konvertering.vag import langd_av, tackt_yta, vag
 
 PDF = Path(__file__).parent / "fixtures" / "pdf"
 
@@ -128,6 +135,50 @@ class TestRegler(unittest.TestCase):
     def test_tackt_yta_raknar_overlapp_en_gang(self):
         self.assertEqual(tackt_yta([(0, 0, 10, 10), (5, 5, 15, 15)]), 175)
         self.assertEqual(langd_av([(0, 4), (2, 6), (8, 9)]), 7)
+
+    def test_mer_an_en_procent_olasliga_tecken_ger_ocr(self):
+        def sida(olasliga: int):
+            tecken = ["(cid:3)"] * olasliga + ["a"] * (100 - olasliga)
+            chars = [{"text": t} for t in tecken]
+            return SimpleNamespace(chars=chars, images=[], width=595, height=842)
+
+        self.assertEqual(vag(sida(1), lambda: 1.0), "text")
+        self.assertEqual(vag(sida(2), lambda: 1.0), "ocr")
+        self.assertEqual(
+            vag(
+                SimpleNamespace(
+                    chars=[{"text": "\ufffd"}] * 2, images=[], width=1, height=1
+                ),
+                lambda: 1.0,
+            ),
+            "ocr",
+        )
+
+
+class TestOcrFel(unittest.TestCase):
+    def test_tesseract_som_fallerar_marker_bara_sidan(self):
+        with mock.patch.object(ocr, "tesseract", return_value=False):
+            resultat = konvertera(PDF / "sidor.pdf")
+        self.assertEqual(resultat.fel, None)
+        self.assertEqual(resultat.kvalitet_per_sida[0], "ok")
+        self.assertEqual(resultat.kvalitet_per_sida[10], "ej-konverterad")
+
+    def test_sakerhet_under_troskeln_ger_ingen_text(self):
+        sida = pdfium.PdfDocument(PDF / "sidor.pdf")[10]
+        with mock.patch.object(ocr, "medelsakerhet", return_value=69.9):
+            self.assertIsNone(ocr.las(sida))
+
+    def test_saknad_tesseract_stoppar_innan_nagot_lases(self):
+        with mock.patch.dict(os.environ, {"PATH": ""}):
+            with self.assertRaises(Konfigurationsfel):
+                ocr.kontrollera()
+            self.assertEqual(ocr.modellversion(), "okänd")
+        with (
+            mock.patch.object(ocr, "SPRAK", "finns-inte"),
+            self.assertRaises(Konfigurationsfel),
+        ):
+            ocr.kontrollera()
+        ocr.kontrollera()
 
 
 class TestOcrSakerhet(unittest.TestCase):
