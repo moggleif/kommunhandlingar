@@ -70,19 +70,23 @@ två startas står i K11.
 
 - **Pipelinen är ett kommando** som inte vet var det körs. GitHub Actions
   startar det varje natt och för hand (`workflow_dispatch`), i en
-  `concurrency`-grupp utan `cancel-in-progress`.
-- **Varje körning börjar från en ren utcheckning av `main`.** Dess
-  tidsbudget är 5 timmar räknat från jobbets start, och den sista timmen
-  fram till Actions gräns på 6 timmar räcker för att göra färdigt
-  dokumentet, köra kontrollerna och pusha.
+  `concurrency`-grupp utan `cancel-in-progress`. Gruppen håller högst en
+  körning i kö; en senare start ersätter den som väntar.
+- **Varje körning börjar från en ren utcheckning av `main`.**
+- **Tidsbudget, räknat från jobbets start.** Efter 5 timmar startas inget
+  nytt dokument. Efter 5 timmar och 30 minuter avbryts det pågående
+  dokumentet, dess filer återställs till `main`, och körningen går vidare
+  till kontrollerna. Resten av tiden fram till Actions gräns på 6 timmar
+  är till för kontrollerna och pushen.
 - **Datakontrollerna körs innan något pushas.** Har `main` fått nya
   commits under körningen läggs körningens commit ovanpå och kontrollerna
-  körs igen; går det inte pushas ingenting.
+  körs igen med koden från `main`. Blir det en konflikt eller faller
+  kontrollerna pushas ingenting.
 - **En push med Actions egen token startar inga workflows**, så
   `kontroll.yml` körs inte på datacommiten. Kontrollerna i jobbet är de
   enda den får.
 
-Datakontrollerna, i körningen och i CI på varje PR:
+Datakontrollerna, i körningen och i CI:
 
 - Inga binärer utom små testfixturer (ADR-0001).
 - Varje `.md` under `data/` har front matter enligt
@@ -91,11 +95,10 @@ Datakontrollerna, i körningen och i CI på varje PR:
 - Sökvägen stämmer med front matter: kommun, organ, år, datum, löpnummer,
   typ och namn enligt [Katalogstruktur](#katalogstruktur).
 - Varje `.tabeller/`-katalog har sin `.md`.
+- Inga temporära filer finns under `data/`.
 
-Bara i körningen, eftersom en vanlig PR ändrar kod och dokument:
-
-- Körningen har bara ändrat filer under `data/`.
-- Inga temporära filer finns kvar.
+Bara i körningen, eftersom en vanlig PR ändrar kod och dokument: att
+körningen bara har ändrat filer under `data/`.
 
 ## Datamodell
 

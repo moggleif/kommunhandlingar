@@ -48,43 +48,33 @@ körningar utan nya konton eller hemligheter, och kontrollerna gör det en
 människas granskning av en nattlig körning inte skulle göra: läser varje
 fil.
 
-Beslutet i detalj (kraven står i K11):
+Beslutet i korthet. Beteendet står i K11 och hur körningen går till i
+[03-ARKITEKTUR.md](../03-ARKITEKTUR.md), under "Körning och incheckning".
 
 * **Pipelinen är ett vanligt kommando** som inte vet var det körs. Actions
-  är det som startar det, varje natt och för hand (`workflow_dispatch`).
-  En egen server kan starta samma kommando
-  ([#18](https://github.com/moggleif/kommunhandlingar/issues/18)).
-* **Varje körning börjar från en ren utcheckning av `main`.** Det som en
-  avbruten körning lämnat efter sig, till exempel tabeller bredvid en
-  gammal `.md` (ADR-0004), finns aldrig kvar till nästa körning.
-* **Tidsbudget i stället för en historisk körning.** En körning har en
-  budget på 5 timmar räknat från jobbets start, under Actions gräns på 6
-  timmar per jobb; den sista timmen är till för att göra färdigt det
-  pågående dokumentet, köra kontrollerna och pusha. När
-  budgeten är slut gör den färdigt dokumentet den håller på med och
-  slutar. Arbetskatalogen är då hel, och det som är klart checkas in.
-  Nästa natt fortsätter där den slutade (K8). Historiken fylls natt för
-  natt tills den är ikapp; därefter tar varje natt bara det nya.
-* **Datakontrollerna körs före push.** Går de inte igenom pushas
-  ingenting och körningen syns som misslyckad i Actions. Kontrollerna av
-  själva datat körs också i CI på varje PR; att bara `data/` ändrats och
-  att inga temporära filer finns kvar kontrolleras bara i körningen. En
-  push med Actions egen token startar inga workflows, så kontrollerna i
-  jobbet är de enda en datacommit får. Vad de kontrollerar står i
-  [03-ARKITEKTUR.md](../03-ARKITEKTUR.md).
-* **En commit per körning, direkt till `main`, bara under `data/`.**
-  Körningen är det enda som skriver direkt till `main`; kod och dokument
-  går via gren och PR som förut. Har `main` fått nya commits under
-  körningen läggs körningens commit ovanpå och kontrollerna körs igen.
-  Går det inte pushas ingenting.
-* **Bara en körning åt gången.** Körningarna delar en
-  `concurrency`-grupp, så två körningar skriver aldrig samma filer.
+  startar det varje natt och för hand. En egen server kan starta samma
+  kommando ([#18](https://github.com/moggleif/kommunhandlingar/issues/18)).
+* **Varje körning börjar från en ren utcheckning av `main`,** så det som
+  en avbruten körning lämnat efter sig, till exempel tabeller bredvid en
+  gammal `.md` (ADR-0004), aldrig finns kvar till nästa körning.
+* **Tidsbudget i stället för en historisk körning.** Varje körning
+  hämtar så länge budgeten räcker och checkar in det som är klart. Nästa
+  natt fortsätter där den slutade (K8). Historiken fylls natt för natt
+  tills den är ikapp; därefter tar varje natt bara det nya.
+* **Ett dokument som inte hinner bli klart lämnas till nästa körning.**
+  Budgeten har en hård gräns före Actions gräns på 6 timmar. Det
+  pågående dokumentet avbryts där, dess filer återställs till `main`, och
+  resten checkas in. Ett långt inskannat dokument kan därmed inte kasta
+  hela nattens arbete.
+* **Datakontrollerna körs före push**, och bara om de går igenom blir
+  körningen en commit direkt till `main`, bara under `data/`. Körningen
+  är det enda som skriver direkt till `main`; kod och dokument går via
+  gren och PR som förut.
 * **Ett fel stoppar körningen utan att något checkas in.** Ett oväntat
-  fel i pipelinen, att jobbet avbryts av tidsgränsen eller att runnern
-  försvinner ger samma sak: ingenting pushas, körningen syns som
-  misslyckad, och nästa körning börjar om från `main`. Ett dokument som
-  inte går att hämta eller konvertera är inget fel i den meningen; det
-  skrivs med sin kvalitet (K6).
+  fel i pipelinen, att jobbet dödas eller att runnern försvinner ger
+  samma sak: ingenting pushas och körningen syns som misslyckad. Ett
+  dokument som inte går att hämta eller konvertera är inget fel i den
+  meningen; det skrivs med sin kvalitet (K6).
 
 ### Consequences
 
@@ -100,7 +90,11 @@ Beslutet i detalj (kraven står i K11):
   fel i pipelinen som kontrollerna inte fångar hamnar på `main` och rättas
   med en revert och en ny körning.
 * Dåligt, eftersom Actions schema kan försenas, och ett jobb aldrig får ta
-  mer än 6 timmar. Historiken tar flera nätter.
+  mer än 6 timmar. Historiken tar flera nätter, och ett dokument som
+  ensamt tar längre än budgeten blir aldrig klart. Med ADR-0005:s
+  mätningar, upp till ungefär 11 sekunder per inskannad sida, är det ett
+  inskannat dokument på mer än ungefär 1 700 sidor; det största som setts
+  hittills har 228 sidor.
 * Dåligt, eftersom ett fel i pipelinen kastar hela nattens arbete, och
   ett dokument som alltid får pipelinen att krascha stoppar poolen tills
   felet är rättat. Det är avsiktligt: hellre stanna än checka in något
@@ -145,8 +139,8 @@ Beslutet i detalj (kraven står i K11):
 * Dåligt, eftersom en PR som skapas med Actions egen token inte startar
   några workflows av sig själv. Antingen behövs en personlig token eller
   en GitHub App, alltså en hemlighet till att sköta, eller så kör jobbet
-  kontrollerna själv och mergar via API:t, och då är det A med en PR
-  runt.
+  kontrollerna själv och mergar via API:t, och då är det A med en
+  PR runt.
 * Dåligt, eftersom en PR per natt är brus som ingen läser.
 
 ### C – GitHub Actions varje natt; en PR per körning som en människa mergar
@@ -197,8 +191,9 @@ Beslutet i detalj (kraven står i K11):
    granskar datat är kontrollerna. B ger samma kontroller, men Actions
    egen token startar inga workflows på en PR den själv skapat, så B
    kräver antingen en hemlighet eller att jobbet kontrollerar och mergar
-   själv – och då tillför PR:en bara brus. Agenten rekommenderade A och att undantaget skrivs
-   ut i `AGENTS.md`, så att regeln och verkligheten säger samma sak.
+   själv – och då tillför PR:en bara brus. Agenten rekommenderade A och
+   att undantaget skrivs ut i `AGENTS.md`, så att regeln och
+   verkligheten säger samma sak.
 4. **Den historiska hämtningen.** Issuet frågade hur länge en historisk
    hämtning får ta. Agenten föreslog ingen egen körning för historiken:
    K8 gör redan varje körning avbrytbar, så en tidsbudget räcker. Med
@@ -234,10 +229,18 @@ utan att något checkas in. Avstängt schema efter 60 dagar och skydd av
 kategoriskt. En gräns för filstorlek ströks, eftersom inget krav
 motiverade den.
 
+Den andra granskningen visade att ett långt inskannat dokument som
+startar strax före budgetens slut kunde få jobbet dödat vid 6 timmar,
+natt efter natt, utan att något checkades in. Budgeten fick därför en
+hård gräns där det pågående dokumentet avbryts och lämnas till nästa
+körning. Detaljerna som stod både här och i arkitekturen står nu bara i
+arkitekturen.
+
 ### När beslutet bör omprövas
 
-Om Actions inte räcker – jobbgränsen, schemat eller en kommun som
-blockerar runnern – när en egen server finns (#18), eller om `main`
-behöver ett skydd som körningen inte kan undantas från. Om
+Om ett dokument inte hinner bli klart inom budgeten, om Actions inte
+räcker – jobbgränsen, schemat eller en kommun som blockerar runnern –,
+när en egen server finns (#18), eller om `main` behöver ett skydd som
+körningen inte kan undantas från. Om
 kontrollerna visar sig släppa igenom fel som en människa hade sett,
 bör en PR per körning (B eller C) prövas igen.

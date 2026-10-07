@@ -168,10 +168,12 @@ kunna läggas till utan kodändring.
 
 ## K11 — Bara färdiga och kontrollerade körningar når poolen
 
-- **Givet** en schemalagd körning
+- **Givet** en körning, schemalagd eller startad för hand
 - **När** dess tidsbudget är slut
-- **Så** gör den färdigt dokumentet den håller på med, slutar, och checkar
-  in det som är klart; nästa körning fortsätter med resten.
+- **Så** startar den inget nytt dokument, gör färdigt det den håller på
+  med om det hinner bli klart före budgetens hårda gräns och lämnar det
+  annars orört, och checkar in det som är klart; nästa körning fortsätter
+  med resten.
 
 - **Givet** en körning som har ändrat något
 - **När** den ska checka in
@@ -186,5 +188,5 @@ kunna läggas till utan kodändring.
 
 - **Givet** att en körning redan pågår
 - **När** en till startas, schemalagd eller för hand
-- **Så** körs de aldrig samtidigt: den nya startar först när den första
-  är klar.
+- **Så** körs de aldrig samtidigt: den nya väntar tills den första är
+  klar.
