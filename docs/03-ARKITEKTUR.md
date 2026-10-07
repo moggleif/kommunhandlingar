@@ -52,14 +52,43 @@ Hur och varför står i
   till en temporär fil i samma katalog, med ett namn som inte slutar på
   `.md`, som byter namn till den rätta. Avbryts körningen
   emellan står nya tabeller bredvid den gamla `.md`; dess `kalla_url` är
-  då fortfarande den gamla, så nästa körning gör om dokumentet. Att bara
-  checka in färdiga körningar hör till issue #5.
+  då fortfarande den gamla, så nästa körning gör om dokumentet. En sådan
+  körning checkas aldrig in (se nedan).
 - **Ett misslyckat hämtningsförsök** skriver aldrig över en fullständig
   `.md`. Har dokumentet ingen ger försöket en `.md` med kvalitet
   `ej-hamtad`, försökets tid i `hamtad` och orsaken i `fel` (K6); den bär
   också dokumentets plats. Den filen skrivs om bara när `fel` eller
   `kalla_url` ändras, så att en körning utan ändringar inte ger några
   diffar.
+
+### Körning och incheckning
+
+Hur och varför står i
+[ADR-0006](decisions/0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md);
+kraven i K11.
+
+- **Pipelinen är ett kommando.** GitHub Actions startar det varje natt och
+  för hand. Det vet inte var det körs.
+- **Varje körning börjar från en ren utcheckning av `main`** och har en
+  tidsbudget på 5 timmar. När budgeten är slut gör den färdigt dokumentet
+  den håller på med och slutar.
+- **Datakontrollerna körs innan något pushas**, och i CI på varje PR. Går
+  de igenom blir körningen en commit direkt till `main`; annars pushas
+  ingenting. Körningen är det enda som skriver direkt till `main`.
+- **Bara en körning åt gången** (en `concurrency`-grupp).
+
+Datakontrollerna:
+
+- Inga binärer utom små testfixturer (ADR-0001).
+- Varje `.md` under `data/` har front matter enligt
+  [Front matter](#front-matter), med de fält som är `null` för
+  `ej-hamtad` och för en fil som inte gick att öppna.
+- Sökvägen stämmer med front matter: kommun, organ, år, datum, löpnummer,
+  typ och namn enligt [Katalogstruktur](#katalogstruktur).
+- Varje `.tabeller/`-katalog har sin `.md`, och inga temporära filer finns
+  kvar.
+- Körningen har bara ändrat filer under `data/`.
+- Ingen fil är större än 10 MB.
 
 ## Datamodell
 
