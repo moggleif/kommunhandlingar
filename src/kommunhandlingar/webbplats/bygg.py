@@ -3,10 +3,10 @@
 from datetime import datetime
 from pathlib import Path
 
-from kommunhandlingar import konfiguration
+from kommunhandlingar import frontmatter, konfiguration
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats import frontmatter, sidor
+from kommunhandlingar.webbplats import sidor
 from kommunhandlingar.webbplats.rakning import okanda
 
 

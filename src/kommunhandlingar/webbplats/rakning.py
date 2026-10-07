@@ -3,9 +3,9 @@
 from collections import Counter
 from dataclasses import dataclass
 
+from kommunhandlingar.frontmatter import lista
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.frontmatter import lista
 
 # Dokumentets kvalitetsnivåer, från bäst till sämst (docs/03-ARKITEKTUR.md).
 KVALITETER = (

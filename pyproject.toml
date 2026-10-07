@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "kommunhandlingar"
 version = "0.1.0"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = ["pdfplumber==0.11.10", "pypdfium2==5.14.0"]
 
 [project.optional-dependencies]
 # Samma versioner i CI och lokalt; Dependabot håller dem uppdaterade.
