@@ -16,6 +16,9 @@ kunna läggas till utan kodändring.
 - **När** någon skriver `kommuner/<kommun>.toml` med organ, startadresser och
   filnamnsmönster
 - **Så** hämtas och konverteras kommunens handlingar utan att någon kod ändras.
+- **Givet** en konfiguration som inte följer schemat
+- **När** körningen startar
+- **Så** stoppas den innan något hämtas, med felet i sammanfattningen.
 
 ## K2 — Alla organ och dokumenttyper hittas
 
@@ -24,6 +27,10 @@ kunna läggas till utan kodändring.
 - **Så** listas varje sammanträde för varje organ i konfigurationen, med
   kallelse, handlingar, protokoll och bilagor som separata dokument, var
   och ett med organ, datum, typ och källnyckel.
+- **Givet** en rubrik eller ett filnamn som inget mönster eller organnamn i
+  konfigurationen passar
+- **När** upptäckten körs
+- **Så** blir det ingen kandidat, och det nämns i körningens sammanfattning.
 
 ## K3 — Historiken hämtas så långt bakåt den finns
 
