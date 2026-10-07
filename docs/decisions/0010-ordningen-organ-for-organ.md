@@ -183,12 +183,17 @@ ADR-0005 valde:
 
 | Mått | Värde |
 | --- | --- |
-| Hämtning | MÄTNING_HAMTNING |
-| Sidor | MÄTNING_SIDOR |
-| Textlager med pdfplumber | MÄTNING_TEXT |
-| Sidor utan textlager | MÄTNING_UTAN |
+| Hämtning | 4 min 31 s (323 783 886 byte) |
+| Sidor | 1 716 |
+| Textlager med pdfplumber | 452 s för alla sidor, 0,26 s per sida |
+| Sidor utan textlager | 124, som med ADR-0005:s 3 s per inskannad sida blir ungefär 6 min OCR |
 
-MÄTNING_SLUTSATS
+Hämtning, textlager och OCR blir tillsammans ungefär 18 minuter, mot en
+budget på 5 timmar. Tabellerna är inte medräknade: filen har 685 761
+ritade linjer, och hur lång tid det tar att läsa tabeller ur dem är inte
+mätt. Mätningen gjordes i en molnsession, inte i Actions. En annan fil kan
+ha fler inskannade sidor; ett helt inskannat dokument på 1 716 sidor
+skulle med samma takt ta omkring 1,5 timme.
 
 Storleken i megabyte säger alltså lite om tiden: det är antalet sidor,
 och särskilt antalet inskannade sidor, som kostar. ADR-0006 har redan en
