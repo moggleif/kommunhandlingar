@@ -4,7 +4,13 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from scripts.kontrollera_storlek import MAX_RADER_FIL, MAX_RADER_FUNKTION, brott_i_fil
+from scripts.kontrollera_storlek import (
+    MAX_RADER_FIL,
+    MAX_RADER_FUNKTION,
+    ROT,
+    brott_i_fil,
+    pythonfiler,
+)
 
 
 def funktion(rader: int, huvud: str = "def f():") -> str:
@@ -50,6 +56,9 @@ class TestKontrolleraStorlek(unittest.TestCase):
 
     def test_sidbrytning_i_strang_gor_inte_fel(self):
         self.assertEqual(self.kontrollera('s = "a\x0cb"\n'), [])
+
+    def test_src_kontrolleras(self):
+        self.assertIn(ROT / "src" / "kommunhandlingar" / "monster.py", pythonfiler())
 
 
 if __name__ == "__main__":

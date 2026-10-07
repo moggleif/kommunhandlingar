@@ -269,9 +269,10 @@ bun = "https://exempelby.se/…/barn-och-ungdomsnamndens-sammantraden"
 | `kalla.rubrik`    | Ett reguljärt uttryck med grupperna `ar`, `manad` och `dag`, som läser mötesrubriken. |
 | `kalla.rattelser` | Källnyckel och det rätta datumet, för filer vars filnamn och rubrik anger olika datum. |
 
-- **Källnyckeln** är `sitevision:` och nod-id:t; adressen är den
-  absoluta adressen med sökvägen kodad på ett sätt, så att samma fil får
-  samma adress oavsett form. Filnamnet är adressens sista del, avkodad.
+- **Källnyckeln** är `sitevision:` och nod-id:t. Adressen är länkens
+  eller JSON-postens `uri` som sidan skriver den, gjord absolut; båda
+  formerna kodar sökvägen på samma sätt. Filnamnet är adressens sista del,
+  avkodad.
 - **Mönstren** prövas mot filnamnet och har ingen grupp `organ`.
 - **Datumet** är rättelsens, om filen har en. Annars filnamnets, om
   mönstret har ett, och rubrikens annars. Anger filnamnet och rubriken

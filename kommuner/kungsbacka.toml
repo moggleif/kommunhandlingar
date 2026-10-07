@@ -1,0 +1,153 @@
+# Kungsbacka kommun. Schemat står i docs/03-ARKITEKTUR.md#kommunkonfigurationen,
+# och hur kommunen publicerar i docs/kallor/kungsbacka.md.
+#
+# Organen står i den ordning de hämtas (K13, ADR-0010): Gymnasium &
+# Arbetsmarknad, Förskola & Grundskola, Byggnadsnämnden, Teknik, Service,
+# övriga nämnder, sist kommunstyrelsen, dess arbetsutskott och fullmäktige.
+# Varje arbetsutskott står direkt efter sin nämnd.
+
+namn = "Kungsbacka kommun"
+
+[[organ]]
+id = "ga"
+namn = ["Nämnden för Gymnasium & Arbetsmarknad"]
+
+[[organ]]
+id = "fg"
+namn = ["Nämnden för Förskola & Grundskola"]
+
+[[organ]]
+id = "fg-au"
+namn = ["Förskola & Grundskolas arbetsutskott"]
+
+[[organ]]
+id = "bygg"
+namn = ["Byggnadsnämnden"]
+
+[[organ]]
+id = "bygg-au"
+namn = ["Byggnadsnämndens arbetsutskott"]
+
+[[organ]]
+id = "teknik"
+namn = ["Nämnden för Teknik"]
+
+[[organ]]
+id = "teknik-au"
+namn = ["Tekniks arbetsutskott"]
+
+[[organ]]
+id = "service"
+namn = ["Nämnden för Service"]
+
+[[organ]]
+id = "ifo"
+namn = ["Nämnden för Individ & Familjeomsorg"]
+
+[[organ]]
+id = "kultur"
+namn = ["Nämnden för Kultur & Fritid"]
+
+[[organ]]
+id = "miljo"
+namn = ["Nämnden för Miljö & Hälsoskydd"]
+
+[[organ]]
+id = "vo"
+namn = ["Nämnden för Vård & Omsorg"]
+
+[[organ]]
+id = "val"
+namn = ["Valnämnden"]
+
+[[organ]]
+id = "revision"
+namn = ["Kommunrevisionen"]
+
+[[organ]]
+id = "ks"
+namn = ["Kommunstyrelsen"]
+
+[[organ]]
+id = "ks-au"
+namn = ["Kommunstyrelsens arbetsutskott"]
+
+[[organ]]
+id = "kf"
+namn = ["Kommunfullmäktige"]
+
+# Mötessidorna på kungsbacka.se (ADR-0011): organet är sidans, typen står i
+# filnamnet, och datumet i filnamnet eller i mötets rubrik.
+[[kalla]]
+adapter = "sitevision"
+manader = [
+  "januari", "februari", "mars", "april", "maj", "juni",
+  "juli", "augusti", "september", "oktober", "november", "december",
+]
+rubrik = '^(?P<dag>\d{1,2}) (?P<manad>[a-zåäö]+) (?P<ar>\d{4})'
+
+# Typ och datum, i den ordning de oftast står: "Kommunfullmäktige protokoll 2026-08-11".
+[[kalla.monster]]
+regex = '(?i)(?P<typ>kallelse|handlingar|protokoll).*?(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag>\d{2})'
+
+# Typ utan fullständigt datum: "Valnämnden protokoll 24-11-11"; datumet tas ur rubriken.
+[[kalla.monster]]
+regex = '(?i)(?P<typ>kallelse|handlingar|protokoll)'
+
+# Revisionens sammanträdesanteckningar, protokollsutdrag med bara "§" och
+# stavningen "potokoll" är protokoll.
+[[kalla.monster]]
+typ = "protokoll"
+regex = '(?i)(?:potokoll|sammanträdesanteckningar|§).*?(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag>\d{2})'
+
+[[kalla.monster]]
+typ = "protokoll"
+regex = '(?i)potokoll|sammanträdesanteckningar|§'
+
+[kalla.sidor]
+ga = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/gymnasium--arbetsmarknads-sammantraden"
+fg = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/forskola--grundskolas-sammantraden"
+fg-au = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/forskola--grundskolas-arbetsutskotts-sammantraden"
+bygg = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/byggnadsnamndens-sammantraden"
+bygg-au = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/byggnadsnamndens-arbetsutskotts-sammantraden"
+teknik = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/tekniks-sammantraden"
+teknik-au = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/tekniks-arbetsutskotts-sammantraden"
+service = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/services-sammantraden"
+ifo = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/individ--familjeomsorgs-sammantraden"
+kultur = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/kultur--fritids-sammantraden"
+miljo = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/miljo--halsoskydds-sammantraden"
+vo = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/vard--omsorgs-sammantraden"
+val = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/valnamndens-sammantraden"
+revision = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/kommunrevisionens-sammantraden"
+ks = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/kommunstyrelsens-sammantraden"
+ks-au = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/kommunstyrelsens-arbetsutskotts-sammantraden"
+kf = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/kommunfullmaktiges-sammantraden"
+
+# Filer vars filnamn och rubrik anger olika datum (K2, ADR-0011). Datumet är
+# belagt i kallelsens eller protokollets egen text, hämtad 2026-10-07.
+[kalla.rattelser]
+"sitevision:18.1825fec18e5f70a9a511ecd" = 2024-04-05  # rubriken: flyttat från 4 april
+"sitevision:18.1825fec18e5f70a9a511ff9" = 2024-04-05  # rubriken: flyttat från 4 april
+"sitevision:18.3ae5986a198e623c951d7f33" = 2025-09-04  # kallelsen: 4 september 2025
+"sitevision:18.3ae5986a198e623c951d7f34" = 2025-09-04  # kallelsen: 4 september 2025
+"sitevision:18.200e637a19913f2eef183c71" = 2025-09-04  # kallelsen: 4 september 2025
+"sitevision:18.1e3990b19223341db9d07af" = 2024-09-30  # kallelsen och protokollet: 30 september 2024
+"sitevision:18.1e3990b19223341db9d1f61" = 2024-09-30  # kallelsen och protokollet: 30 september 2024
+"sitevision:18.20293f1d19233944f50a0ade" = 2024-09-30  # kallelsen och protokollet: 30 september 2024
+"sitevision:18.7080f49f194742605d84db42" = 2025-01-22  # kallelsen: 22 januari 2025
+"sitevision:18.7080f49f194742605d84db43" = 2025-01-22  # kallelsen: 22 januari 2025
+"sitevision:18.29af6da91949d95a61c38088" = 2025-01-22  # kallelsen: 22 januari 2025
+"sitevision:18.5b0e44671961df388b27f8e3" = 2025-04-24  # kallelsen: 24 april 2025
+"sitevision:18.5b0e44671961df388b27f8e4" = 2025-04-24  # kallelsen: 24 april 2025
+"sitevision:18.3a2671b919684e771256c96e" = 2025-04-24  # kallelsen: 24 april 2025
+"sitevision:18.6a370aed1a0ad9793db13950" = 2026-09-17  # protokollet: 2026-09-17
+"sitevision:18.6a370aed1a0ad9793db9f470" = 2026-09-17  # protokollet: 2026-09-17
+"sitevision:18.1e3990b19223341db92774a" = 2024-08-19  # anteckningarna: 2024-08-19, 20; första dagen
+"sitevision:18.61908d1900fce2b318c7b" = 2024-05-23  # anteckningarna: 2024-05-23
+"sitevision:18.66facb8818d54d93d3e6b18" = 2024-01-22  # protokollet: 2024-01-22
+"sitevision:18.8bcd94c18d8729c25b25ab4" = 2024-01-22  # anteckningarna: 2024-01-22, 23; första dagen
+"sitevision:18.79dd6618f7759b3391498" = 2024-05-14  # protokollet: 2024-05-14
+"sitevision:18.7a6e5f58196f632c13184453" = 2024-05-14  # protokollet: 2024-05-14
+"sitevision:18.49d36ef2191e50b885087c30" = 2024-09-19  # kallelsen och protokollet: 19 september 2024
+"sitevision:18.49d36ef2191e50b885087c31" = 2024-09-19  # kallelsen och protokollet: 19 september 2024
+"sitevision:18.6111bcdb1920bbb80f8af74b" = 2024-09-19  # kallelsen och protokollet: 19 september 2024

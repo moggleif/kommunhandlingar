@@ -190,6 +190,13 @@ Kungsbacka står i koden.
    tvådagarsmöte (19–20 augusti 2024) får den första dagen. En av de 25
    avvikande filerna, avfallsföreskrifterna, har ingen typ och behöver
    ingen rättelse.
+6. **Ett belägg för att organet ska tas från sidan** kom under
+   implementationen: "Sammanträdesprotokoll Nämnden för Förskola &
+   Grundskolas arbetsutskott 21 augusti" står på nämndens sida, och
+   protokollet självt är nämndens, 2024-08-21. Filnamnet hade gett fel
+   organ.
+7. **En fil med två typer i namnet**, "Kallelse och handlingar för möte
+   …", blir den typ som står först, `kallelse`.
 
 ### När beslutet bör omprövas
 
