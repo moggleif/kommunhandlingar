@@ -19,7 +19,9 @@ Mötessidorna ligger under
 `https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/<sida>`.
 Listan flyttas till `kommuner/kungsbacka.toml` när den skrivs
 ([ADR-0008](../decisions/0008-kommunkonfigurationen-i-toml.md),
-[#25](https://github.com/moggleif/kommunhandlingar/issues/25)).
+[#25](https://github.com/moggleif/kommunhandlingar/issues/25)). I vilken
+ordning organen ska stå där, och därmed hämtas, står i
+[ADR-0010](../decisions/0010-ordningen-organ-for-organ.md).
 
 | Organ | `<sida>` |
 |---|---|
@@ -170,9 +172,11 @@ Hur adaptern hanterar det avgörs när den skrivs (#25).
   Kallelsen listar ärendena och är liten.
 - **Storleken varierar kraftigt.** Enligt länktexterna och JSON-postens
   `fileSize` 2026-10-07 är hälften av de omkring 490 handlingsfilerna
-  under 6,6 MB, men 36 är över 100 MB
+  under 6,7 MB, men 36 är över 100 MB
   och den största 308,8 MB (Kommunstyrelsen 2025-04-22). De stora är
-  kommunstyrelsens, dess arbetsutskotts och fullmäktiges.
+  kommunstyrelsens, dess arbetsutskotts och fullmäktiges. Fördelningen per
+  organ och typ, och vad den betyder för ordningen, står i
+  [ADR-0010](../decisions/0010-ordningen-organ-for-organ.md).
 - **PDF:ernas form** (kontrollerat 2026-10-06 för
   [ADR-0005](../decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md)):
   protokoll och tjänsteskrivelser har textlager. Handlingarna innehåller

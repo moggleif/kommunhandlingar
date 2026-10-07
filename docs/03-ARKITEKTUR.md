@@ -65,6 +65,14 @@ Hur och varför står i
   `kalla_url` ändras, så att en körning utan ändringar inte ger några
   diffar.
 
+### Ordningen kandidaterna tas i
+
+Vilken ordning står i K13, och hur och varför i
+[ADR-0010](decisions/0010-ordningen-organ-for-organ.md). Ordningen
+mellan organ är `[[organ]]`-listans ordning i kommunfilen; det finns
+inget eget fält för den. Ordningen inom ett organ står i koden och är
+densamma för alla kommuner.
+
 ### Körning och incheckning
 
 Hur och varför står i
@@ -161,7 +169,8 @@ tests/fixtures/
 Hur och varför står i
 [ADR-0008](decisions/0008-kommunkonfigurationen-i-toml.md). En kommun är en
 fil, `kommuner/<kommun>.toml`, och filnamnet är `kommun` i front matter.
-Filen läses med `tomllib`. Exemplet är påhittat:
+Filen läses med `tomllib`. Ordningen på `[[organ]]` är den ordning
+organen hämtas i (K13). Exemplet är påhittat:
 
 ```toml
 namn = "Exempelby kommun"

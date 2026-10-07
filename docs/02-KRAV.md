@@ -209,3 +209,16 @@ kunna läggas till utan kodändring.
 - **När** en ny körning är klar
 - **Så** står dokumentets `.md` och tabeller kvar orörda, också när
   dokumentet har kvalitet `ej-hamtad`.
+
+## K13 — Kandidaterna hämtas i en bestämd ordning
+
+- **Givet** en kandidatlista för en kommun
+- **När** hämtningen börjar
+- **Så** tas kandidaterna organ för organ, i den ordning organen står i
+  kommunens konfiguration; inom ett organ protokoll, kallelser, bilagor
+  och sist handlingar; inom varje typ det äldsta sammanträdet först; och
+  vid lika värden i källnyckelns ordning.
+
+- **Givet** samma kandidatlista i en annan upptäcktsordning
+- **När** hämtningen börjar
+- **Så** tas kandidaterna i samma ordning.
