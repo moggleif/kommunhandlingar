@@ -13,9 +13,12 @@ kunna läggas till utan kodändring.
 ## K1 — En kommun läggs till med konfiguration
 
 - **Givet** att en kommun publicerar via en plattform som redan har en adapter
-- **När** någon skriver `kommuner/<kommun>.yaml` med organ, startadresser och
+- **När** någon skriver `kommuner/<kommun>.toml` med organ, startadresser och
   filnamnsmönster
 - **Så** hämtas och konverteras kommunens handlingar utan att någon kod ändras.
+- **Givet** en konfiguration som inte följer schemat
+- **När** körningen startar
+- **Så** stoppas den innan något hämtas, med felet i sammanfattningen.
 
 ## K2 — Alla organ och dokumenttyper hittas
 
@@ -24,6 +27,10 @@ kunna läggas till utan kodändring.
 - **Så** listas varje sammanträde för varje organ i konfigurationen, med
   kallelse, handlingar, protokoll och bilagor som separata dokument, var
   och ett med organ, datum, typ och källnyckel.
+- **Givet** en rubrik, ett filnamn eller en sökväg som konfigurationen inte
+  översätter till organ, datum och typ
+- **När** upptäckten körs
+- **Så** blir det ingen kandidat, och det nämns i körningens sammanfattning.
 
 ## K3 — Historiken hämtas så långt bakåt den finns
 

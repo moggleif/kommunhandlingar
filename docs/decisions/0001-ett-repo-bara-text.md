@@ -131,6 +131,8 @@ github.com/<ägare>/<repo>
   data/<kommun>/<organ>/<år>/<datum>/<typ>.md   + tabeller som .csv
 ```
 
+(Konfigurationen är `kommuner/*.toml` sedan 2026-10-07, se ADR-0008.)
+
 PDF:en hämtas till en temporär katalog, konverteras och raderas. Front
 matter i varje `.md` bär källänk, sha256, tider, pipelineversion och
 kvalitet per dokument och per sida (se `docs/03-ARKITEKTUR.md`). Även ett

@@ -62,7 +62,8 @@ krav eller ett test. Det betyder:
 | Varför den är byggd så (beslut och diskussion)  | `docs/decisions/` (MADR)           |
 | Hur man sätter upp, kör och testar              | `docs/01-BIDRA.md`                 |
 | Hur en viss kommun publicerar                   | `docs/kallor/<kommun>.md`          |
-| En kommuns organ, adresser och filnamnsmönster  | `kommuner/<kommun>.yaml`           |
+| En kommuns organ, adresser och filnamnsmönster  | `kommuner/<kommun>.toml`           |
+| Hämtningens User-Agent och intervall per värd   | `hamtning.toml`                    |
 | Ett dokuments härkomst och konverteringskvalitet | front matter i dokumentets `.md`  |
 
 Skriv aldrig om ett annat dokuments fakta – länka till dem.
@@ -70,7 +71,7 @@ Skriv aldrig om ett annat dokuments fakta – länka till dem.
 ## Regler som inte förhandlas
 
 - **Inget hårdkodat om en kommun.** Kommunnamn, organ, adresser, datumformat
-  och filnamnsmönster står i `kommuner/<kommun>.yaml`. Kräver en ny kommun en
+  och filnamnsmönster står i `kommuner/<kommun>.toml`. Kräver en ny kommun en
   kodändring är abstraktionen fel.
 - **Adaptrar per publiceringsplattform, inte per kommun.**
 - **Bara text lagras** (ADR-0001). PDF:en hämtas tillfälligt, konverteras och
