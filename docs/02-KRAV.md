@@ -31,6 +31,16 @@ kunna läggas till utan kodändring.
   översätter till organ, datum och typ
 - **När** upptäckten körs
 - **Så** blir det ingen kandidat, och det nämns i körningens sammanfattning.
+- **Givet** en fil som står på flera ställen i källan, till exempel under
+  två sammanträden
+- **När** upptäckten körs
+- **Så** blir den en enda kandidat.
+- **Givet** en källa som anger sammanträdets datum på två ställen, och de
+  inte stämmer överens
+- **När** upptäckten körs
+- **Så** blir det ingen kandidat, och det nämns i körningens
+  sammanfattning – om inte kommunens konfiguration har en rättelse för
+  filens källnyckel. Då gäller rättelsens datum.
 
 ## K3 — Historiken hämtas så långt bakåt den finns
 

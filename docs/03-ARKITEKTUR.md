@@ -11,7 +11,7 @@ kommuner/<kommun>.toml
         │
         ▼
 1. upptäck   adaptrar per plattform  →  kandidatlista: organ, datum, typ, URL,
-                                         källa, källnyckel
+                                         källa, källnyckel, filnamn
         │
         ▼
 2. hämta och konvertera, ett dokument i taget
@@ -152,6 +152,9 @@ Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
 
 ```
 src/kommunhandlingar/
+  konfiguration.py kommunfilen läses och kontrolleras
+  monster.py       mönstren: typ och datum ur en text
+  kandidat.py      kandidaten och ordningen (K13)
   adaptrar/        en modul per plattform (sitevision, wayback, ciceron, …)
   hamtning/        artig HTTP-klient
   konvertering/    pdf → md, tabeller, OCR-reserv, kvalitetsmått
@@ -199,7 +202,8 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
 | `organ.foregangare`    | Id för organ som gick upp i det här (datamodellen). Varje id finns i filen. |
 | `kalla.adapter`        | Adaptern som läser källan.                                   |
 | `kalla.monster`        | Hur adaptern översätter en rubrik, ett filnamn eller en sökväg till organ, datum och typ. |
-| `monster.regex`        | Ett reguljärt uttryck med de namngivna grupperna `organ`, `ar` (fyra siffror), `manad` och `dag`, och ibland `typ`. |
+| `kalla.manader`        | Månadernas namn i källan, januari först. Utelämnas när källan skriver månaden med siffror. |
+| `monster.regex`        | Ett reguljärt uttryck med de namngivna grupperna `organ`, `ar` (fyra siffror), `manad` och `dag`, och `typ`, var och en när källan har den. |
 | `monster.typ`          | Dokumenttypen, när uttrycket inte har gruppen `typ`.         |
 
 - **Id** för kommun och organ är katalognamn: små bokstäver a–z, siffror
@@ -208,27 +212,74 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
   den har utöver `adapter` och `monster`; de beskrivs här när adaptern
   skrivs.
 - **Datumet** byggs av grupperna `ar`, `manad` och `dag`, så att ordningen
-  och skiljetecknen i källan står i mönstret och inte i koden.
+  och skiljetecknen i källan står i mönstret och inte i koden. `manad` är
+  siffror eller ett av namnen i `manader`, utan hänsyn till versaler.
+- **Det ett mönster inte ger, ger adaptern ur källan.** Ett mönster har
+  `ar`, `manad` och `dag` tillsammans eller inte alls, och gruppen `organ`
+  bara när adaptern inte vet organet. Varifrån adaptern tar resten står
+  under adaptern nedan.
 - **Mönstren prövas i ordning** var som helst i texten, och det första
   som matchar gäller, också när det sedan inte ger någon kandidat.
 - **Ett organnamn** jämförs med organens `namn` utan hänsyn till
   versaler och med flera blanksteg i rad som ett. Bara organ vars
   giltighetsperiod omfattar datumet räknas.
 - **Ingen kandidat** blir det av en rubrik som inget mönster matchar, ett
-  organnamn som inget organ har på datumet, ett datum som inte finns eller
-  inte har fyrsiffrigt år, och en typ som inte är `kallelse`,
-  `handlingar`, `protokoll` eller `bilaga` (utan hänsyn till versaler).
-  Var och en nämns i körningens sammanfattning.
+  organnamn som inget organ har på datumet, ett datum som inte finns,
+  inte har fyrsiffrigt år eller har ett okänt månadsnamn, och en typ som
+  inte är `kallelse`, `handlingar`, `protokoll` eller `bilaga` (utan
+  hänsyn till versaler). Var och en nämns i körningens sammanfattning.
 - **Körningen stoppas innan något hämtas** när filen inte följer
   schemat: ett fält som varken schemat eller adaptern har, ett id som
   inte är ett katalognamn eller som två organ delar, ett organ utan
-  namn, en föregångare som inte finns, ett mönster vars grupper inte är
-  `organ`, `ar`, `manad`, `dag` och högst `typ`, ett mönster med både
-  eller ingen av gruppen och fältet `typ`, och två organ med samma namn
-  och överlappande giltighetsperiod.
+  namn, en föregångare som inte finns, ett mönster med en annan grupp än
+  `organ`, `ar`, `manad`, `dag` och `typ`, med bara några av `ar`,
+  `manad` och `dag` eller med en grupp adaptern inte tar, ett mönster med
+  både eller ingen av gruppen och fältet `typ`, en månadslista som inte
+  har tolv olika namn, ett värde av fel slag (text, lista, datum), och
+  två organ med samma namn och överlappande giltighetsperiod.
 - **Ett organ som byter namn** får ett namn till. Ett organ som ersätts av
   ett nytt blir ett nytt organ, med det gamla som föregångare; de kan ha
   samma namn om perioderna inte överlappar.
+
+### Sitevision
+
+Hur och varför står i
+[ADR-0011](decisions/0011-sitevision-organ-fran-sidan-datum-och-rattelser.md).
+Adaptern läser mötessidornas HTML, som den får som text. Varje möte är
+en rubrik, och mötets filer står antingen som länkar i filportleten
+(`/download/18.<nod-id>/…`) eller som JSON i
+`AppRegistry.registerInitialState`. Båda läses.
+
+```toml
+[[kalla]]
+adapter = "sitevision"
+manader = ["januari", "februari", …, "december"]
+rubrik = '^(?P<dag>\d{1,2}) (?P<manad>[a-zåäö]+) (?P<ar>\d{4})'
+
+[kalla.sidor]
+bun = "https://exempelby.se/…/barn-och-ungdomsnamndens-sammantraden"
+
+[kalla.rattelser]
+"sitevision:18.1a2b3c" = 2025-04-24   # belägg: kallelsens datum
+```
+
+| Fält              | Betyder                                                         |
+| ----------------- | --------------------------------------------------------------- |
+| `kalla.sidor`     | Organets id och adressen till dess mötessida. Organet är sidans. |
+| `kalla.rubrik`    | Ett reguljärt uttryck med grupperna `ar`, `manad` och `dag`, som läser mötesrubriken. |
+| `kalla.rattelser` | Källnyckel och det rätta datumet, för filer vars filnamn och rubrik anger olika datum. |
+
+- **Källnyckeln** är `sitevision:` och nod-id:t; adressen är den
+  absoluta adressen med sökvägen kodad på ett sätt, så att samma fil får
+  samma adress oavsett form. Filnamnet är adressens sista del, avkodad.
+- **Mönstren** prövas mot filnamnet och har ingen grupp `organ`.
+- **Datumet** är rättelsens, om filen har en. Annars filnamnets, om
+  mönstret har ett, och rubrikens annars. Anger filnamnet och rubriken
+  olika datum blir filen ingen kandidat (K2). En rubrik som rubrikmönstret
+  inte läser ("17 och 18 augusti 2026") ger inget datum, och filnamnets
+  gäller ensamt.
+- **En fil som står under flera möten** blir en kandidat: det första
+  stället i sidans ordning som ger en kandidat gäller.
 
 `hamtning.toml` i roten gäller alla kommuner: User-Agent och det minsta
 intervallet mellan anrop till samma värd (K10). Intervallet är ett och
