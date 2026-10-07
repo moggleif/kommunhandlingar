@@ -49,6 +49,8 @@ avfallsföreskrifter, ett enskilt ärende och några protokollsparagrafer
 utan typ i filnamnet. Vilka av dem som blir kandidater, och med vilken
 typ, avgörs när adaptern skrivs (#25).
 
+Storlekarna är som kommunen anger dem, och 1 GB räknas här som 1 000 MB.
+
 Per organ, i den ordning som beslutas nedan:
 
 | Organ | Filer | Samlat |
@@ -129,6 +131,11 @@ Beslutet i korthet. Beteendet står i K13 och var ordningen läses i
   som rör hela kommunen – kommer sist, trots att deras protokoll
   tillsammans är under 50 MB. Det är ägarens val: hela organ i tur och
   ordning, de tunga sist.
+* Dåligt, eftersom de tre tunga organen under två till tre nätter har
+  sina protokoll men inte alla sina handlingar – just det läge som
+  alternativ C avvisades för. Det är en avvägning: det gäller bara de tre
+  sista organen och bara tills deras handlingar är hämtade, och under
+  tiden finns åtminstone alla deras beslut.
 * Dåligt, eftersom ny historik för ett tidigt organ, till exempel från
   Wayback eller diariet, tas före nya dokument från ett senare organ. Ett
   nytt protokoll från fullmäktige kan då vänta flera nätter medan äldre
@@ -285,5 +292,8 @@ inskannat och på flera tusen sidor – står sig.
 * När en kommun vill ha organen i en annan ordning i filen än i
   hämtningen (då blir B aktuellt).
 * När ett dokument visar sig ta mer än en natts budget.
+* När tiden för att läsa tabellerna är mätt, eftersom den inte ingår i
+  tidsuppskattningen ovan.
+* När körningen flyttas till en egen server (#18), som ändrar budgeten.
 * När ny historik (#23, #24) får nya dokument för senare organ att vänta
   märkbart.
