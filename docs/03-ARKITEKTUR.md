@@ -176,7 +176,9 @@ tests/fixtures/
 Hur och varför står i
 [ADR-0008](decisions/0008-kommunkonfigurationen-i-toml.md). En kommun är en
 fil, `kommuner/<kommun>.toml`, och filnamnet är `kommun` i front matter.
-Filen läses med `tomllib`. Exemplet är påhittat:
+Filen läses med `tomllib`. Ordningen på `[[organ]]` är den ordning
+organen hämtas i ([K13](02-KRAV.md#k13--kandidaterna-hämtas-i-en-bestämd-ordning),
+[ADR-0010](decisions/0010-ordningen-organ-for-organ.md)). Exemplet är påhittat:
 
 ```toml
 namn = "Exempelby kommun"
