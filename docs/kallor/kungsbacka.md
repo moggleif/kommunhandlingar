@@ -69,14 +69,14 @@ till fullmäktiges sida, `besok-kommunfullmaktige` och
   möten ÅÅÅÅ" och varje möte en `<h3>` "D månad ÅÅÅÅ".
 - **Mötets filer står i en av två former.** De flesta ligger som länkar i
   Sitevisions filportlet (`sv-file-portlet`), med filnamnet följt av typ
-  och storlek som länktext ("Pdf, 4.5 MB"). De nyaste mötena har i stället
-  en portlet som ritas i webbläsaren, och filerna står bara som JSON i
-  HTML:en, i `AppRegistry.registerInitialState('12.…', {"files": […]})`:
+  och storlek som länktext ("Pdf, 4.5 MB"). En del av mötena från juni
+  2026 och senare har i stället en portlet som ritas i webbläsaren, och
+  filerna står bara som JSON i HTML:en, i `AppRegistry.registerInitialState('12.…', {"files": […]})`:
   17 filer under nio möten 2026-10-07. Varje post har `id` (nod-id:t),
   `name`, `uri`, `url`, `fileSize`, `lastModifiedDateTime` och
-  `lastModifiedBy`. En adapter som bara läser länkarna missar de nyaste
-  dokumenten.
-- **`lastModifiedBy` är den som laddat upp filen** och förs inte in i
+  `lastModifiedBy`. En adapter som bara läser länkarna missar dem, så
+  båda formerna måste läsas för varje möte.
+- **`lastModifiedBy` är den som senast ändrat filen** och förs inte in i
   poolen (AGENTS.md, "Inga personnamn").
 - **Tre redan hållna möten saknade filer** 2026-10-07, alla hos Tekniks
   arbetsutskott: 6 maj 2024, 12 januari 2026 och 10 augusti 2026.
@@ -168,8 +168,9 @@ Hur adaptern hanterar det avgörs när den skrivs (#25).
 - **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena
   (tjänsteskrivelser, bilagor) ligger efter varandra i samma fil.
   Kallelsen listar ärendena och är liten.
-- **Storleken varierar kraftigt.** Enligt länktexterna 2026-10-07 är
-  hälften av de omkring 490 handlingsfilerna under 6,6 MB, men 36 är över 100 MB
+- **Storleken varierar kraftigt.** Enligt länktexterna och JSON-postens
+  `fileSize` 2026-10-07 är hälften av de omkring 490 handlingsfilerna
+  under 6,6 MB, men 36 är över 100 MB
   och den största 308,8 MB (Kommunstyrelsen 2025-04-22). De stora är
   kommunstyrelsens, dess arbetsutskotts och fullmäktiges.
 - **PDF:ernas form** (kontrollerat 2026-10-06 för
