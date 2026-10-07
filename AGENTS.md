@@ -64,7 +64,8 @@ krav eller ett test. Det betyder:
 | Hur en viss kommun publicerar                   | `docs/kallor/<kommun>.md`          |
 | En kommuns organ, adresser och filnamnsmönster  | `kommuner/<kommun>.toml`           |
 | Hämtningens User-Agent och intervall per värd   | `hamtning.toml`                    |
-| Ett dokuments härkomst och konverteringskvalitet | front matter i dokumentets `.md`  |
+| Front matter-schemat och tabellernas format     | `docs/03-ARKITEKTUR.md`            |
+| Ett dokuments härkomst och kvalitet (värdena)   | front matter i dokumentets `.md`   |
 
 Skriv aldrig om ett annat dokuments fakta – länka till dem.
 
@@ -77,9 +78,10 @@ Skriv aldrig om ett annat dokuments fakta – länka till dem.
 - **Bara text lagras** (ADR-0001). PDF:en hämtas tillfälligt, konverteras och
   raderas. Inga binärer checkas in, utom små testfixturer under
   `tests/fixtures/` (högst 1 MB per fil).
-- **Varje textfil bär sin härkomst**: källänk, sha256, tid för hämtning och
-  konvertering, pipelineversion och kvalitet. Ett dokument som inte gick att
-  hämta bär källänk, tid för försöket och orsaken (ADR-0004).
+- **Varje textfil bär sin härkomst**: ett dokument i sin front matter,
+  också när det inte gick att hämta (ADR-0004), och en tabell genom sitt
+  dokument (ADR-0009). Fälten står i
+  [docs/03-ARKITEKTUR.md](docs/03-ARKITEKTUR.md#front-matter).
 - **Tomt är inte noll.** Det som inte gick att konvertera, eller som saknas,
   registreras som det – ingenting utelämnas tyst.
 - **Hellre märka än gissa.** Osäkra tabeller och sidor märks som osäkra.
