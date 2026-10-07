@@ -117,10 +117,8 @@ en gång.
   skickar arbetet tillbaka till fas 5. Övriga fynd rättas eller avvisas med
   ett skäl, eller blir issues. Fas 5 och 6 redovisas i PR-texten.
 - **Committa efter varje fas** som ger ett stabilt resultat.
-- **Gren, inte `main`.** Det enda undantaget är den schemalagda
-  körningen, också när den startas för hand, som checkar in data direkt
-  till `main`, bara under `data/` och bara efter datakontrollerna
-  (ADR-0006).
+- **Gren, inte `main`**, utan undantag. Också den schemalagda körningen
+  checkar in på en egen gren och når `main` genom en PR (ADR-0015).
 
 ## Agentfiler
 

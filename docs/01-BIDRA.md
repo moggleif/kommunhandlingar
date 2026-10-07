@@ -85,8 +85,22 @@ som behöver reportlab, pypdf och Pillow. De är inte projektets beroenden.
   på första raden för en hel fil.
 - Ruffs gränser: `# noqa: <regel>  # undantag: <skäl>` på raden ruff pekar ut.
 
-Datakontrollerna, bland dem kontrollen av härkomst i dokumentens front
-matter (ADR-0001), kommer med pipelinen, när det finns dokument att
-kontrollera. Vilka de är, och vilken som bara körs i den schemalagda
+## Datakontrollerna
+
+CI och den schemalagda körningen prövar allt under `data/` (K11):
+
+```sh
+python3 -m kommunhandlingar.datakontroll data
+```
+
+Vilka kontrollerna är, och vilken som bara körs i den schemalagda
 körningen innan den checkar in, står under "Körning och incheckning" i
-[03-ARKITEKTUR.md](03-ARKITEKTUR.md) (ADR-0006).
+[03-ARKITEKTUR.md](03-ARKITEKTUR.md) (ADR-0006, ADR-0015).
+
+## Den schemalagda körningen
+
+`.github/workflows/nattkorning.yml` går varje natt och kan startas för
+hand under Actions. Den pushar en gren `nattkorning/<datum>-<id>` när
+något ändrats; öppna en PR från den och merga när "Ren kod och tester"
+gått igenom (ADR-0015). Ligger flera grenar omergade, merga den nyaste
+och ta bort de äldre; det de hade utöver den hämtas igen nästa natt.

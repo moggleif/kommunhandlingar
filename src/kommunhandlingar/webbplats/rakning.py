@@ -6,16 +6,7 @@ from dataclasses import dataclass
 from kommunhandlingar.frontmatter import lista
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
-
-# Dokumentets kvalitetsnivåer, från bäst till sämst (docs/03-ARKITEKTUR.md).
-KVALITETER = (
-    "full",
-    "text-utan-tabeller",
-    "ocr",
-    "delvis",
-    "ej-konverterad",
-    "ej-hamtad",
-)
+from kommunhandlingar.konvertering.kvalitet import KVALITETER
 
 
 @dataclass(frozen=True)
