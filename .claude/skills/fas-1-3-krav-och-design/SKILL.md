@@ -22,9 +22,10 @@ Skapa en gren innan något skrivs. Committa efter varje fas.
   - minst tre alternativ med för- och nackdelar,
   - diskussionen under *More Information*: invändningar, svar och vad som
     avgjorde,
-  - en rekommendation från en agent märks med vem som gav den,
-  - beslutet fattas av en människa (`decision-makers`); till dess är
-    status `proposed`.
+  - en rekommendation från en agent märks som AI-agentens, och
+    AI-agenten står under `consulted`,
+  - beslutet fattas av en människa (`decision-makers`, med roll och
+    aldrig namn); till dess är status `proposed`.
 - Hitta varje fil som beskriver eller indexerar den del som ändras – krav,
   arkitektur, ADR-index, `docs/kallor/<kommun>.md`, README – och uppdatera
   dem nu, inte i efterhand.

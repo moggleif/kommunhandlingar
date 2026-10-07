@@ -1,8 +1,8 @@
 ---
 status: accepted
 date: 2026-10-06
-decision-makers: Morgan
-consulted: Claude
+decision-makers: projektägaren
+consulted: AI-agenten
 ---
 
 # Inkrementell körning: poolen är tillståndet och adressen är signalen
@@ -195,32 +195,32 @@ En hash av varje listningssida sparas; bara sidor som ändrats läses vidare.
 
 1. **Problemet (issue #3).** K8 gick inte att uppfylla som det stod, eftersom
    PDF:en raderas och sha256 inte kan jämföras utan ny nedladdning.
-2. **Iakttagelsen (Claude).** Efter ADR-0003 bär front matter redan
+2. **Iakttagelsen (agenten).** Efter ADR-0003 bär front matter redan
    `kallnyckel`, `kalla_url` och `sha256`. Poolen kan då vara sitt eget
    tillstånd, och en körning jämför det upptäckten hittar med det som står
    i filerna.
-3. **Tre frågor till Morgan, med Claudes rekommendation:**
-   * Vad räknas som en ändring: adressen per källnyckel (Claude
+3. **Tre frågor till ägaren, med agentens rekommendation:**
+   * Vad räknas som en ändring: adressen per källnyckel (agenten
      rekommenderade det), villkorade anrop (B) eller allt nedladdat (C).
-     Claude pekade på att Sitevision ger ny tidsstämpel när en fil byts ut
+     Agenten pekade på att Sitevision ger ny tidsstämpel när en fil byts ut
      och att Wayback-kopior aldrig ändras.
    * Ska en fil som byts ut under samma adress upptäckas: nej för nu
-     (Claude), eftersom ingen av Kungsbackas kända källor gör så. Frågan
+     (agenten), eftersom ingen av Kungsbackas kända källor gör så. Frågan
      tas upp igen om kartläggningen av källorna
      ([#10](https://github.com/moggleif/kommunhandlingar/issues/10)) visar
      en källa som beter sig så.
    * Var finns PDF:en mellan stegen: hämta och konvertera som ett steg per
-     dokument (Claude), en gemensam temporär katalog för körningen, eller
+     dokument (agenten), en gemensam temporär katalog för körningen, eller
      en tillståndsfil med kö (D).
-4. **En följd som Claude lade till:** ett dokument som inte gick att
+4. **En följd som agenten lade till:** ett dokument som inte gick att
    hämta behöver också en `.md`, annars minns ingenting försöket.
-5. **Morgan sa ja** till alla rekommendationerna 2026-10-06.
-6. **Under skrivandet (Claude)** preciserades att ett misslyckat försök
+5. **Ägaren sa ja** till alla rekommendationerna 2026-10-06.
+6. **Under skrivandet (agenten)** preciserades att ett misslyckat försök
    på en ny adress inte får skriva över ett dokument som redan finns, och
    att upptäckten bara får ge en kandidat per källnyckel, så att två
    adresser för samma fil inte hämtas om varannan gång.
 7. **Granskningen (fas 6)** visade att reglerna inte täckte allt som
-   ADR-0003 redan bestämt. Claude lade till att en källnyckel i
+   ADR-0003 redan bestämt. Agenten lade till att en källnyckel i
    `tidigare_kallnycklar` och en äldre Wayback-kopia inte hämtas, vad som
    händer när ett dokument med `ej-hamtad` till sist går att hämta och när
    en ny version inte går att konvertera, att tabellkatalogen ersätts som

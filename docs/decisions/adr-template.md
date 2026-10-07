@@ -2,9 +2,9 @@
 # Valfria metadata. Ta bort det som inte används.
 status: "{proposed | rejected | accepted | deprecated | … | superseded by ADR-0123}"
 date: {ÅÅÅÅ-MM-DD då beslutet senast uppdaterades}
-decision-makers: {alla som fattade beslutet}
-consulted: {de vars synpunkter inhämtades, i dialog}
-informed: {de som hålls informerade}
+decision-makers: {rollerna som fattade beslutet, aldrig namn}
+consulted: {rollerna vars synpunkter inhämtades, i dialog}
+informed: {rollerna som hålls informerade}
 ---
 
 # {kort rubrik som säger både problemet och lösningen}
