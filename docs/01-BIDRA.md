@@ -31,5 +31,6 @@ inga binärer är incheckade.
 
 Datakontrollerna, bland dem kontrollen av härkomst i dokumentens front
 matter (ADR-0001), kommer med pipelinen, när det finns dokument att
-kontrollera. De körs både i CI och i den schemalagda körningen innan den
-checkar in (ADR-0006).
+kontrollera. Vilka de är, och vilka som bara körs i den schemalagda
+körningen innan den checkar in, står under "Körning och incheckning" i
+[03-ARKITEKTUR.md](03-ARKITEKTUR.md) (ADR-0006).

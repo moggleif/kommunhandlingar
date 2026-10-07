@@ -64,20 +64,25 @@ Hur och varför står i
 ### Körning och incheckning
 
 Hur och varför står i
-[ADR-0006](decisions/0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md);
-kraven i K11.
+[ADR-0006](decisions/0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md).
+Vad en körning gör när budgeten tar slut, när kontrollerna faller och när
+två startas står i K11.
 
-- **Pipelinen är ett kommando.** GitHub Actions startar det varje natt och
-  för hand. Det vet inte var det körs.
-- **Varje körning börjar från en ren utcheckning av `main`** och har en
-  tidsbudget på 5 timmar. När budgeten är slut gör den färdigt dokumentet
-  den håller på med och slutar.
-- **Datakontrollerna körs innan något pushas**, och i CI på varje PR. Går
-  de igenom blir körningen en commit direkt till `main`; annars pushas
-  ingenting. Körningen är det enda som skriver direkt till `main`.
-- **Bara en körning åt gången** (en `concurrency`-grupp).
+- **Pipelinen är ett kommando** som inte vet var det körs. GitHub Actions
+  startar det varje natt och för hand (`workflow_dispatch`), i en
+  `concurrency`-grupp utan `cancel-in-progress`.
+- **Varje körning börjar från en ren utcheckning av `main`.** Dess
+  tidsbudget är 5 timmar räknat från jobbets start, och den sista timmen
+  fram till Actions gräns på 6 timmar räcker för att göra färdigt
+  dokumentet, köra kontrollerna och pusha.
+- **Datakontrollerna körs innan något pushas.** Har `main` fått nya
+  commits under körningen läggs körningens commit ovanpå och kontrollerna
+  körs igen; går det inte pushas ingenting.
+- **En push med Actions egen token startar inga workflows**, så
+  `kontroll.yml` körs inte på datacommiten. Kontrollerna i jobbet är de
+  enda den får.
 
-Datakontrollerna:
+Datakontrollerna, i körningen och i CI på varje PR:
 
 - Inga binärer utom små testfixturer (ADR-0001).
 - Varje `.md` under `data/` har front matter enligt
@@ -85,10 +90,12 @@ Datakontrollerna:
   `ej-hamtad` och för en fil som inte gick att öppna.
 - Sökvägen stämmer med front matter: kommun, organ, år, datum, löpnummer,
   typ och namn enligt [Katalogstruktur](#katalogstruktur).
-- Varje `.tabeller/`-katalog har sin `.md`, och inga temporära filer finns
-  kvar.
+- Varje `.tabeller/`-katalog har sin `.md`.
+
+Bara i körningen, eftersom en vanlig PR ändrar kod och dokument:
+
 - Körningen har bara ändrat filer under `data/`.
-- Ingen fil är större än 10 MB.
+- Inga temporära filer finns kvar.
 
 ## Datamodell
 

@@ -178,12 +178,13 @@ kunna läggas till utan kodändring.
 - **Så** körs datakontrollerna först, och bara om de går igenom når
   ändringen `main`, som en commit som bara rör filer under `data/`.
 
-- **Givet** en körning vars resultat inte klarar datakontrollerna, eller
-  som avbryts innan den checkat in
+- **Givet** en körning vars resultat inte klarar datakontrollerna, som
+  stoppas av ett oväntat fel, eller som avbryts innan den checkat in
 - **När** den slutar
 - **Så** ändras ingenting i poolen, körningen syns som misslyckad, och
   nästa körning börjar från `main` som den är.
 
 - **Givet** att en körning redan pågår
 - **När** en till startas, schemalagd eller för hand
-- **Så** väntar den nya tills den första är klar.
+- **Så** körs de aldrig samtidigt: den nya startar först när den första
+  är klar.

@@ -58,14 +58,19 @@ Beslutet i detalj (kraven står i K11):
   avbruten körning lämnat efter sig, till exempel tabeller bredvid en
   gammal `.md` (ADR-0004), finns aldrig kvar till nästa körning.
 * **Tidsbudget i stället för en historisk körning.** En körning har en
-  budget på 5 timmar, under Actions gräns på 6 timmar per jobb. När
+  budget på 5 timmar räknat från jobbets start, under Actions gräns på 6
+  timmar per jobb; den sista timmen är till för att göra färdigt det
+  pågående dokumentet, köra kontrollerna och pusha. När
   budgeten är slut gör den färdigt dokumentet den håller på med och
   slutar. Arbetskatalogen är då hel, och det som är klart checkas in.
   Nästa natt fortsätter där den slutade (K8). Historiken fylls natt för
   natt tills den är ikapp; därefter tar varje natt bara det nya.
 * **Datakontrollerna körs före push.** Går de inte igenom pushas
-  ingenting och körningen syns som misslyckad i Actions. Samma kontroller
-  körs i CI på varje PR. Vad de kontrollerar står i
+  ingenting och körningen syns som misslyckad i Actions. Kontrollerna av
+  själva datat körs också i CI på varje PR; att bara `data/` ändrats och
+  att inga temporära filer finns kvar kontrolleras bara i körningen. En
+  push med Actions egen token startar inga workflows, så kontrollerna i
+  jobbet är de enda en datacommit får. Vad de kontrollerar står i
   [03-ARKITEKTUR.md](../03-ARKITEKTUR.md).
 * **En commit per körning, direkt till `main`, bara under `data/`.**
   Körningen är det enda som skriver direkt till `main`; kod och dokument
@@ -74,9 +79,12 @@ Beslutet i detalj (kraven står i K11):
   Går det inte pushas ingenting.
 * **Bara en körning åt gången.** Körningarna delar en
   `concurrency`-grupp, så två körningar skriver aldrig samma filer.
-* **Det som dör hårt checkas inte in.** Avbryts jobbet av tidsgränsen,
-  eller försvinner runnern, är ingenting pushat; nästa körning gör om det
-  som återstod.
+* **Ett fel stoppar körningen utan att något checkas in.** Ett oväntat
+  fel i pipelinen, att jobbet avbryts av tidsgränsen eller att runnern
+  försvinner ger samma sak: ingenting pushas, körningen syns som
+  misslyckad, och nästa körning börjar om från `main`. Ett dokument som
+  inte går att hämta eller konvertera är inget fel i den meningen; det
+  skrivs med sin kvalitet (K6).
 
 ### Consequences
 
@@ -93,10 +101,19 @@ Beslutet i detalj (kraven står i K11):
   med en revert och en ny körning.
 * Dåligt, eftersom Actions schema kan försenas, och ett jobb aldrig får ta
   mer än 6 timmar. Historiken tar flera nätter.
+* Dåligt, eftersom ett fel i pipelinen kastar hela nattens arbete, och
+  ett dokument som alltid får pipelinen att krascha stoppar poolen tills
+  felet är rättat. Det är avsiktligt: hellre stanna än checka in något
+  ingen vet är rätt, och felet syns som en röd körning.
 * Dåligt, eftersom runnerns adress ligger hos en molnleverantör som en
-  kommun skulle kunna blockera. Det har inte setts hittills.
-* Neutralt, eftersom ett skydd av `main` som kräver PR för varje ändring
-  måste undanta körningen om det slås på.
+  kommun skulle kunna blockera.
+* Dåligt, eftersom GitHub stänger av schemat i ett publikt repo efter 60
+  dagar utan aktivitet i repot, till exempel när historiken är ikapp och
+  källorna står still. Det måste då slås på igen för hand.
+* Dåligt, eftersom ett skydd av `main` som kräver PR för varje ändring
+  inte går att slå på utan att körningen undantas, och om Actions egen
+  token inte kan undantas behövs just den hemlighet som beslutet
+  undviker.
 * Neutralt, eftersom borttagning av dokument (#7) ska vara beslutad innan
   den första körningen checkar in data.
 
@@ -110,8 +127,6 @@ Beslutet i detalj (kraven står i K11):
   datakontrollerna före push.
 * Ett test för varje datakontroll, och för att tidsbudgeten låter det
   pågående dokumentet bli färdigt.
-* Granskningen (fas 6) kontrollerar att ingen annan workflow skriver till
-  `main`.
 
 ## Pros and Cons of the Options
 
@@ -128,8 +143,10 @@ Beslutet i detalj (kraven står i K11):
 * Bra, eftersom "Gren, inte `main`" gäller utan undantag.
 * Bra, eftersom varje körning får en sida med diff och kontroller.
 * Dåligt, eftersom en PR som skapas med Actions egen token inte startar
-  några workflows, så kontrollerna körs inte på den. Det kräver en
-  personlig token eller en GitHub App: en hemlighet till att sköta.
+  några workflows av sig själv. Antingen behövs en personlig token eller
+  en GitHub App, alltså en hemlighet till att sköta, eller så kör jobbet
+  kontrollerna själv och mergar via API:t, och då är det A med en PR
+  runt.
 * Dåligt, eftersom en PR per natt är brus som ingen läser.
 
 ### C – GitHub Actions varje natt; en PR per körning som en människa mergar
@@ -179,7 +196,8 @@ Beslutet i detalj (kraven står i K11):
    nattlig körning med hundratals filer gör ingen det; det som faktiskt
    granskar datat är kontrollerna. B ger samma kontroller, men Actions
    egen token startar inga workflows på en PR den själv skapat, så B
-   kräver en hemlighet. Agenten rekommenderade A och att undantaget skrivs
+   kräver antingen en hemlighet eller att jobbet kontrollerar och mergar
+   själv – och då tillför PR:en bara brus. Agenten rekommenderade A och att undantaget skrivs
    ut i `AGENTS.md`, så att regeln och verkligheten säger samma sak.
 4. **Den historiska hämtningen.** Issuet frågade hur länge en historisk
    hämtning får ta. Agenten föreslog ingen egen körning för historiken:
@@ -204,9 +222,22 @@ Beslutet i detalj (kraven står i K11):
 * Hur Tesseract och språkmodellen installeras i körningen med den version
   som `pipeline` anger (ADR-0005) – med pipelinen.
 
+### Granskningen
+
+Den oberoende granskningen (fas 6) fann en motsägelse: kontrollerna
+sades köras i CI på varje PR, men en av dem – att bara `data/` ändrats –
+kan inte gå igenom på en PR med kod. Kontrollerna delades i de som gäller
+datat och de som bara gäller körningen. Granskningen visade också att ett
+fel i pipelinen mitt i natten inte var bestämt; det stoppar nu körningen
+utan att något checkas in. Avstängt schema efter 60 dagar och skydd av
+`main` lades till bland konsekvenserna, och skälet mot B skrevs mindre
+kategoriskt. En gräns för filstorlek ströks, eftersom inget krav
+motiverade den.
+
 ### När beslutet bör omprövas
 
 Om Actions inte räcker – jobbgränsen, schemat eller en kommun som
-blockerar runnern – eller när en egen server finns (#18). Om
+blockerar runnern – när en egen server finns (#18), eller om `main`
+behöver ett skydd som körningen inte kan undantas från. Om
 kontrollerna visar sig släppa igenom fel som en människa hade sett,
 bör en PR per körning (B eller C) prövas igen.
