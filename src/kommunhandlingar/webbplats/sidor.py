@@ -6,7 +6,8 @@ from html import escape
 
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.rakning import KVALITETER, Organrad, rakna
+from kommunhandlingar.konvertering.kvalitet import KVALITETER
+from kommunhandlingar.webbplats.rakning import Organrad, rakna
 
 STIL = """
 body { font-family: system-ui, sans-serif; max-width: 72rem; margin: 0 auto;

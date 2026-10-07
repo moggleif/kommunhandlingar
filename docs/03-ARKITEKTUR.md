@@ -78,35 +78,39 @@ densamma för alla kommuner.
 ### Körning och incheckning
 
 Hur och varför står i
-[ADR-0006](decisions/0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md).
+[ADR-0006](decisions/0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md)
+och, för hur datat når `main`,
+[ADR-0015](decisions/0015-nattkorningen-pa-egen-gren-och-pr.md).
 Vad en körning gör när budgeten tar slut, när kontrollerna faller och när
 två startas står i K11.
 
-- **Pipelinen är ett kommando** som inte vet var det körs. GitHub Actions
-  startar det varje natt och för hand (`workflow_dispatch`), i en
-  `concurrency`-grupp utan `cancel-in-progress`. Gruppen håller högst en
-  körning i kö; en senare start ersätter den som väntar.
+- **Pipelinen är ett kommando** som inte vet var det körs.
+  `.github/workflows/nattkorning.yml` startar det varje natt och för hand
+  (`workflow_dispatch`), i en `concurrency`-grupp utan
+  `cancel-in-progress`. Gruppen håller högst en körning i kö; en senare
+  start ersätter den som väntar. Jobbet kör upptäckten och steg 2 för
+  varje kommunfil i `kommuner/`.
 - **Varje körning börjar från en ren utcheckning av `main`.**
-- **Tidsbudget, räknat från jobbets start.** Efter 5 timmar startas inget
-  nytt dokument. Efter 5 timmar och 30 minuter läggs det pågående
-  dokumentet åt sidan: dess tabellkatalog och temporära fil tas bort om
-  de inte finns på `main`, och annars återställs de dit. Dokumentet nämns
-  i jobbets sammanfattning, och körningen går vidare till kontrollerna.
-  Resten av tiden fram till Actions gräns på 6 timmar per jobb är till
-  för kontrollerna och pushen. Budgeten är vår egen och följer GitHubs
-  gräns ([Actions limits](https://docs.github.com/en/actions/reference/limits),
+- **Tidsbudget, räknat från jobbets start** (`hamta --start`). Efter 5
+  timmar startas inget nytt dokument. Efter 5 timmar och 30 minuter
+  avbryts det pågående dokumentet (`SIGALRM`), utom medan det skrivs: då
+  skrivs det klart. Ett avbrutet dokument har inte skrivit något, eftersom
+  allt skrivs efter hämtning och konvertering och PDF:en ligger utanför
+  repot. Det nämns i sammanfattningen, och körningen går vidare till
+  kontrollerna. Resten av tiden fram till Actions gräns på 6 timmar per
+  jobb är till för kontrollerna och pushen. Budgeten är vår egen och följer
+  GitHubs gräns ([Actions limits](https://docs.github.com/en/actions/reference/limits),
   kontrollerat 2026-10-07); ändrar GitHub gränsen ändras budgeten.
-- **Datakontrollerna körs innan något pushas.** Har `main` fått nya
-  commits under körningen läggs körningens commit ovanpå och kontrollerna
-  körs igen med koden från `main`. Blir det en konflikt eller faller
-  kontrollerna pushas ingenting.
-- **En push med Actions egen token startar inga workflows**
-  ([GITHUB_TOKEN](https://docs.github.com/en/actions/concepts/security/github_token), kontrollerat 2026-10-07), så
-  `kontroll.yml` körs inte på datacommiten. Kontrollerna i jobbet är de
-  enda den får. Av samma skäl startar jobbet efter pushen `webbplats.yml` med
-  `workflow_dispatch`, som Actions egen token får starta.
+- **Datakontrollerna körs innan något pushas**, och sedan att bara filer
+  under `data/` har ändrats och att inget av dem är binärt. Faller något
+  pushas ingenting.
+- **Körningen pushar en egen gren**, `nattkorning/<datum>-<körningens id>`,
+  och datat når `main` genom en PR, där "Ren kod och tester" kör samma
+  kontroller. Har körningen inte ändrat något pushas ingen gren. Mergen
+  till `main` bygger om webbplatsen.
 
-Datakontrollerna, i körningen och i CI:
+Datakontrollerna, i körningen och i CI
+(`python -m kommunhandlingar.datakontroll data`, utom binärerna):
 
 - Inga binärer utom små testfixturer (ADR-0001).
 - Varje `.md` under `data/` har front matter enligt
@@ -116,6 +120,9 @@ Datakontrollerna, i körningen och i CI:
 - Varje `.tabeller/`-katalog har sin `.md`, och varje CSV i den följer
   [Tabeller](#tabeller).
 - Inga temporära filer finns under `data/`.
+- Front matter hänger ihop: `ej-hamtad` har ett `fel` och inga
+  originalfält, `sidor` stämmer med `kvalitet_per_sida`, och varje sida
+  som är `ocr` eller `ej-konverterad` står i `tal_obekraftade`.
 
 Bara i körningen, eftersom en vanlig PR ändrar kod och dokument: att
 körningen bara har ändrat filer under `data/`.
@@ -170,6 +177,8 @@ src/kommunhandlingar/
   plats.py         sökvägen och namnet för ett nytt dokument (ADR-0003)
   skrivning.py     `.md` och tabellkatalog, tabellerna först och `.md` sist
   frontmatter.py   front matter läses och skrivs
+  tidsbudget.py    budgetens hårda gräns, som inte avbryter en skrivning
+  datakontroll*.py datakontrollerna av allt under data/ (K11)
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
   webbplats/       statussidorna och startsidan för GitHub Pages
 kommuner/<kommun>.toml
@@ -460,7 +469,8 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   klar på fem minuter, blir sidan `ej-konverterad` och felet skrivs ut;
   dokumentets övriga sidor behålls. Saknas Tesseract eller `swe` stoppas
   steg 2 innan något dokument läses, så att ingen sida märks
-  `ej-konverterad` för att miljön saknar något. På en OCR-sida letas inga tabeller;
+  `ej-konverterad` för att miljön saknar något. På en OCR-sida letas
+  inga tabeller;
   hela sidans text är OCR-text, och den läses för sammanhangets skull,
   inte som data. Talen i OCR-texten står omärkta i texten; att de inte är
   bekräftade syns bara i `tal_obekraftade`.
@@ -617,8 +627,8 @@ push till `main` och för hand. Inget av det som byggs checkas in.
 - **Statisk och utan beroenden:** bara standardbiblioteket, ingen
   JavaScript och inga externa resurser. All text går genom
   `html.escape`. Ingen information bärs av färg.
-- **Efter nattkörningen** byggs webbplatsen om av körningen själv (se
-  [Körning och incheckning](#körning-och-incheckning)).
+- **Efter nattkörningen** byggs webbplatsen om när körningens PR mergas
+  (se [Körning och incheckning](#körning-och-incheckning)).
 - **Dokumenten** måste ha ett `organ` ur kommunfilen, en `typ` och en
   `kvalitet` ur tabellerna ovan. Annars stoppas bygget med filens namn,
   så att inget dokument utelämnas tyst ur tabellerna.

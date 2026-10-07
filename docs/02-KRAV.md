@@ -235,8 +235,10 @@ kunna läggas till utan kodändring.
 
 - **Givet** en körning som har ändrat något
 - **När** den ska checka in
-- **Så** körs datakontrollerna först, och bara om de går igenom når
-  ändringen `main`, som en commit som bara rör filer under `data/`.
+- **Så** körs datakontrollerna först, och bara om de går igenom checkas
+  ändringen in, på en egen gren som en commit som bara rör filer under
+  `data/`; den når `main` genom en PR där samma kontroller körs igen
+  (ADR-0015).
 
 - **Givet** en körning vars resultat inte klarar datakontrollerna, som
   stoppas av ett oväntat fel, eller som avbryts innan den checkat in
