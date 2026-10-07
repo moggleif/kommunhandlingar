@@ -1,10 +1,13 @@
 # Källor: Kungsbacka kommun
 
-> Webbplatsen (avsnitt 1) är kontrollerad mot den levande sidan 2026-10-07
-> ([#10](https://github.com/moggleif/kommunhandlingar/issues/10)). Övrigt
-> bygger på anteckningarna i `moggleif/politik` (`data/KALLOR.md`,
-> `scripts/hamta_fullmaktige.py`, `scripts/extrahera_utbud.py`) och är inte
-> kontrollerat än: diariet, anslagstavlan och e-arkivet i
+> Webbplatsen (avsnitt 1 och sökfunktionen i avsnitt 4) är kontrollerad mot
+> den levande sidan 2026-10-07
+> ([#10](https://github.com/moggleif/kommunhandlingar/issues/10)). Det
+> besvarar de punkter om Sitevision som ADR-0004 och ADR-0007 lämnade till
+> #10. Avsnitt 2 och 3 bygger på anteckningarna i `moggleif/politik`
+> (`data/KALLOR.md`, `scripts/hamta_fullmaktige.py`,
+> `scripts/extrahera_utbud.py`) och är inte kontrollerade än: diariet,
+> anslagstavlan och e-arkivet i
 > [#23](https://github.com/moggleif/kommunhandlingar/issues/23), Wayback i
 > [#24](https://github.com/moggleif/kommunhandlingar/issues/24).
 
@@ -18,31 +21,33 @@ Listan flyttas till `kommuner/kungsbacka.toml` när den skrivs
 ([ADR-0008](../decisions/0008-kommunkonfigurationen-i-toml.md),
 [#25](https://github.com/moggleif/kommunhandlingar/issues/25)).
 
-| Organ | `<sida>` | Filer | Första möte |
-|---|---|---:|---|
-| Kommunfullmäktige | `kommunfullmaktiges-sammantraden` | 81 | 2024-02-06 |
-| Kommunstyrelsen | `kommunstyrelsens-sammantraden` | 92 | 2024-01-23 |
-| Kommunstyrelsens arbetsutskott | `kommunstyrelsens-arbetsutskotts-sammantraden` | 233 | 2024-01-09 |
-| Byggnadsnämnden | `byggnadsnamndens-sammantraden` | 107 | 2024-01-18 |
-| Byggnadsnämndens arbetsutskott | `byggnadsnamndens-arbetsutskotts-sammantraden` | 121 | 2024-02-01 |
-| Nämnden för Förskola & Grundskola | `forskola--grundskolas-sammantraden` | 94 | 2024-01-17 |
-| Förskola & Grundskolas arbetsutskott | `forskola--grundskolas-arbetsutskotts-sammantraden` | 90 | 2024-01-10 |
-| Nämnden för Gymnasium & Arbetsmarknad | `gymnasium--arbetsmarknads-sammantraden` | 98 | 2024-01-24 |
-| Nämnden för Individ & Familjeomsorg | `individ--familjeomsorgs-sammantraden` | 83 | 2024-02-22 |
-| Nämnden för Kultur & Fritid | `kultur--fritids-sammantraden` | 90 | 2024-01-24 |
-| Nämnden för Miljö & Hälsoskydd | `miljo--halsoskydds-sammantraden` | 102 | 2024-01-25 |
-| Nämnden för Service | `services-sammantraden` | 90 | 2024-01-18 |
-| Nämnden för Teknik | `tekniks-sammantraden` | 103 | 2024-01-17 |
-| Tekniks arbetsutskott | `tekniks-arbetsutskotts-sammantraden` | 70 | 2024-02-05 |
-| Nämnden för Vård & Omsorg | `vard--omsorgs-sammantraden` | 101 | 2024-01-25 |
-| Valnämnden | `valnamndens-sammantraden` | 38 | 2024-02-05 |
-| Kommunrevisionen | `kommunrevisionens-sammantraden` | 60 | 2024-02-19 |
+| Organ | `<sida>` |
+|---|---|
+| Kommunfullmäktige | `kommunfullmaktiges-sammantraden` |
+| Kommunstyrelsen | `kommunstyrelsens-sammantraden` |
+| Kommunstyrelsens arbetsutskott | `kommunstyrelsens-arbetsutskotts-sammantraden` |
+| Byggnadsnämnden | `byggnadsnamndens-sammantraden` |
+| Byggnadsnämndens arbetsutskott | `byggnadsnamndens-arbetsutskotts-sammantraden` |
+| Nämnden för Förskola & Grundskola | `forskola--grundskolas-sammantraden` |
+| Förskola & Grundskolas arbetsutskott | `forskola--grundskolas-arbetsutskotts-sammantraden` |
+| Nämnden för Gymnasium & Arbetsmarknad | `gymnasium--arbetsmarknads-sammantraden` |
+| Nämnden för Individ & Familjeomsorg | `individ--familjeomsorgs-sammantraden` |
+| Nämnden för Kultur & Fritid | `kultur--fritids-sammantraden` |
+| Nämnden för Miljö & Hälsoskydd | `miljo--halsoskydds-sammantraden` |
+| Nämnden för Service | `services-sammantraden` |
+| Nämnden för Teknik | `tekniks-sammantraden` |
+| Tekniks arbetsutskott | `tekniks-arbetsutskotts-sammantraden` |
+| Nämnden för Vård & Omsorg | `vard--omsorgs-sammantraden` |
+| Valnämnden | `valnamndens-sammantraden` |
+| Kommunrevisionen | `kommunrevisionens-sammantraden` |
 
-Filer = unika nod-id:n på sidan 2026-10-07, sammanlagt 1 653. Senaste möte
-på varje sida är från augusti eller september 2026.
+Sidorna länkade 2026-10-07 till 1 654 filer (unika nod-id:n), alla PDF
+utom ett protokoll i Word-format (Valnämnden 2024-02-05, `.docx`).
 
 Utan egen mötessida:
 
+- **Gymnasium & Arbetsmarknads individutskott** nämns med sina
+  mötesdatum på `namndernas-sammantraden`, men har inga dokument.
 - **Krisledningsnämnden** sammanträder bara vid extraordinära händelser
   och har ingen mötessida.
 - **Överförmyndarnämnden** är gemensam med Mölndal, Härryda, Partille och
@@ -50,9 +55,11 @@ Utan egen mötessida:
 - **Bolagen** (Eksta Bostads AB, Stiftelsen Tjolöholm) har inga handlingar
   på kungsbacka.se.
 
-Sidorna `politiska-moten-och-sammantraden`, `namndernas-sammantraden`,
-`besok-kommunfullmaktige`, `webbsandningar-fran-kommunfullmaktige` och
-`prenumerera-pa-handlingar-…` har inga dokument.
+Inga dokument finns heller på startsidan för mötena, på
+`namndernas-sammantraden` (som listar årets planerade mötesdatum per
+organ) och på `prenumerera-pa-handlingar-…`, eller på de två undersidorna
+till fullmäktiges sida, `besok-kommunfullmaktige` och
+`webbsandningar-fran-kommunfullmaktige`.
 
 ### Hur sidorna är byggda
 
@@ -62,9 +69,14 @@ Sidorna `politiska-moten-och-sammantraden`, `namndernas-sammantraden`,
   möten ÅÅÅÅ", varje möte en `<h3>` "D månad ÅÅÅÅ", och mötets filer en
   lista i Sitevisions filportlet (`sv-file-portlet`). Länktexten är
   filnamnet följt av typ och storlek ("Pdf, 4.5 MB").
-- **Sidorna visar bara möten från januari 2024.** Äldre år ligger inte
-  kvar, och sökfunktionen hittar inga protokoll från 2023. Om äldre år
-  plockas bort varje år reds ut i #24.
+- **Möten utan filer finns.** Kommande möten får sin rubrik innan
+  kallelsen läggs ut, och fyra redan hållna möten saknade filer
+  2026-10-07: Tekniks arbetsutskott 6 maj 2024, 12 januari 2026 och
+  10 augusti 2026, och revisionen 3 juni 2026.
+- **Sidorna visar bara möten från januari 2024.** Varje sida börjar i
+  januari eller februari 2024; äldre år ligger inte kvar, och
+  sökfunktionen hittar inga protokoll från 2023. Om äldre år plockas bort
+  varje år reds ut i #24.
 - **`sitemap.xml`** pekar på `sitemapindex.xml` → `sitemap1.xml.gz`, med
   2 665 sidor men inga `/download/`-filer. Den räcker för att hitta
   mötessidorna, inte filerna.
@@ -72,14 +84,16 @@ Sidorna `politiska-moten-och-sammantraden`, `namndernas-sammantraden`,
 - **`robots.txt`** stänger bland annat `/*?sv*`, `/*?start*`, `/*?date*`
   och `/*91.*`. Den sista träffar i dag ett protokoll,
   "Nämnden för Vård & Omsorg protokoll 2025-05-15, §§ 74, 76-91.pdf".
+  Eftersom hämtningen följer `robots.txt` (K10) kan det inte hämtas, och
+  syns som ej hämtat (K6) tills regeln eller filnamnet ändras.
 
 ### Adresser och versioner
 
 - Dokumenten serveras som
-  `https://kungsbacka.se/download/18.<nod-id>/<tidsstämpel-ms>/<filnamn>.pdf`.
+  `https://kungsbacka.se/download/18.<nod-id>/<tidsstämpel-ms>/<filnamn>`.
   Nod-id:t är dokumentets källnyckel; adressen pekar bara ut en version
   ([ADR-0003](../decisions/0003-dokumentets-identitet-och-datamodell.md)).
-- **Tidsstämpeln är filens ändringstid.** Befolkningsprognosen
+- **Tidsstämpeln stämmer med filens `Last-Modified`.** Befolkningsprognosen
   `18.3ae5986a198e623c951df996` har tidsstämpeln `1782303262032`
   (2026-06-24 12:14:22 UTC), och svaret har `Last-Modified: Wed, 24 Jun
   2026 12:14:22 GMT`.
@@ -90,12 +104,14 @@ Sidorna `politiska-moten-och-sammantraden`, `namndernas-sammantraden`,
   ny tidsstämpel (befolkningsprognosen), eller så laddas en ny fil upp och
   den gamla tas bort: handlingarna till Gymnasium & Arbetsmarknad
   2026-09-17 låg först på `18.5689acbf1a086271040226f9`, som nu ger 404,
-  och ligger nu på `18.65c780211a0adcd46dd258bb` med "(1)" i namnet. Båda
-  fallen täcks av ADR-0003 (ny källnyckel på en upptagen plats) och
-  [ADR-0004](../decisions/0004-inkrementell-korning-poolen-ar-tillstandet.md).
+  och ligger nu på `18.65c780211a0adcd46dd258bb` med "(1)" i namnet. Det
+  första är en känd källnyckel med ny adress, det andra en ny källnyckel
+  på en upptagen plats; båda regleras i ADR-0003, och
+  [ADR-0004](../decisions/0004-inkrementell-korning-poolen-ar-tillstandet.md)
+  bygger på att adressen ändras.
 - **Antagande:** att en fil som byts ut under samma nod-id alltid får ny
-  tidsstämpel. Det kan inte bevisas utifrån, men tidsstämpeln är filens
-  ändringstid, så en ändrad fil utan ny tidsstämpel har inte setts.
+  tidsstämpel. Det går inte att belägga utifrån. Inget fall av motsatsen
+  har setts, och ADR-0004:s "upptäcks inte" gäller fortfarande.
 
 ### Filnamnen
 
@@ -104,9 +120,9 @@ Filnamnen skrivs för hand och bär organ, typ och datum, men utan fast form.
 - **Grundformen** är "`<organ>` kallelse|handlingar|protokoll
   ÅÅÅÅ-MM-DD.pdf", till exempel "Kommunfullmäktige protokoll
   2026-08-11.pdf". Gymnasium & Arbetsmarknad skriver oftast "Kallelse för
-  möte Nämnden för … den ÅÅÅÅ-MM-DD", Tekniks arbetsutskott "… arbetsutskott
-  - Protokoll ÅÅÅÅ-MM-DD", och revisionen har "sammanträdesanteckningar"
-  utöver protokoll.
+  möte Nämnden för … den ÅÅÅÅ-MM-DD", Nämnden för Teknik och dess
+  arbetsutskott ibland "… - Protokoll ÅÅÅÅ-MM-DD", och revisionen har
+  "sammanträdesanteckningar" utöver protokoll.
 - **Avvikelser som förekommer:** stavfel i organnamnet ("Byggnadsnämdens",
   "Ftitid", "Häsloskydd", "Omsog") och i typen ("potokoll"), datum som
   `240612`, `24-11-11` eller bara en månad, inget datum alls, ändelsen
@@ -124,25 +140,30 @@ Filnamnen skrivs för hand och bär organ, typ och datum, men utan fast form.
 Rubriken och filnamnet är båda skrivna för hand och säger inte alltid
 samma sak.
 
-- **Datumen skiljer sig i 13 möten.** En del är uppenbara fel: "22 januari
+- **Datumen skiljer sig i ett tiotal möten** (minst ett filnamn med ett
+  annat datum än mötets rubrik). En del är uppenbara fel: "22 januari
   2024" under rubriken för 2025 med filer daterade 2025-01-22, och "14 maj
   2024" med "protokoll 2025-05-14". Andra kan vara avsiktliga: revisionens
   anteckningar från ett möte ligger under nästa möte.
-- **Samma filer ligger under två möten.** Hos Gymnasium & Arbetsmarknad
-  ligger filerna från 2025-05-15 både under "15 maj 2025" och under "24
-  april 2025", och filerna från 2025-04-24 under "27 mars 2025".
-- **Rubriker utan år** ("16 oktober") och med tillägg ("5 april 2024
-  (flyttat från 4 april)", "17 och 18 augusti 2026", "Extrainsatt
-  sammanträde …", ", extra arbetsutskott").
+- **Filerna har hamnat under fel möte** hos Gymnasium & Arbetsmarknad:
+  filerna från 2025-05-15 ligger både under "15 maj 2025" och under "24
+  april 2025", och filerna från 2025-04-24 ligger bara under "27 mars
+  2025". Mötet 27 mars 2025 har därmed inga egna filer på sidan.
+- **Rubriker utan år** ("16 oktober", "21 augusti") och med tillägg ("5
+  april 2024 (flyttat från 4 april)", "17 och 18 augusti 2026", "27-28
+  januari 2025", "Extrainsatt sammanträde …", ", extra arbetsutskott").
 
 Hur adaptern hanterar det avgörs när den skrivs (#25).
 
 ### Dokumentens innehåll
 
-- **Handlingarna är en sammanslagen PDF per möte**, 3–33 MB för en nämnd
-  och 46 MB för kommunfullmäktige 2026-08-11 (228 sidor).
-  Ärendena (tjänsteskrivelser, bilagor) ligger efter varandra i samma fil.
+- **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena
+  (tjänsteskrivelser, bilagor) ligger efter varandra i samma fil.
   Kallelsen listar ärendena och är liten.
+- **Storleken varierar kraftigt.** Enligt länktexterna 2026-10-07 är
+  hälften av de 488 handlingsfilerna under 6,6 MB, men 36 är över 100 MB
+  och den största 308,8 MB (Kommunstyrelsen 2025-04-22). De stora är
+  kommunstyrelsens, dess arbetsutskotts och fullmäktiges.
 - **PDF:ernas form** (kontrollerat 2026-10-06 för
   [ADR-0005](../decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md)):
   protokoll och tjänsteskrivelser har textlager. Handlingarna innehåller
@@ -155,8 +176,9 @@ Hur adaptern hanterar det avgörs när den skrivs (#25).
 
 ### Att tänka på vid hämtning
 
-- Servern svarar ibland med ett tomt svar; ett nytt försök efter några
-  sekunder brukar lyckas.
+- Servern stänger ibland anslutningen utan att svara (curl: "Empty reply
+  from server"). Ett nytt försök efter fem sekunder lyckades varje gång
+  2026-10-07.
 
 ## 2. Kommunens webbplats – äldre plattform (Episerver), bara via Wayback
 
@@ -202,7 +224,7 @@ Täckningsmatrisen per organ och år tas fram i #24.
 
 | Period | Källa | Form |
 |---|---|---|
-| 2024-01 → | kungsbacka.se (Sitevision), kontrollerat | En PDF per möte och typ, protokoll ibland delat |
+| 2024-01 → | kungsbacka.se (Sitevision), kontrollerat | Oftast en PDF per möte och typ; protokoll ibland delat |
 | ~2022–2023 | Wayback av Sitevision-sidor + diariet | Luckor väntas (#24) |
 | ~2015–2022 | Wayback av Episerver `globalassets` | En PDF per ärende; luckor (#24) |
 | 2019-11 → | Ciceron | Per ärende, om nedladdning är öppen (#23) |
