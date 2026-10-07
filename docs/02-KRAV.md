@@ -191,3 +191,17 @@ kunna läggas till utan kodändring.
 - **När** en till startas, schemalagd eller för hand
 - **Så** körs de aldrig samtidigt: den nya väntar tills den första är
   klar, och en start som väntar ersätts av en senare start.
+
+## K12 — Poolen är en ögonblicksbild
+
+- **Givet** ett dokument i poolen som inte längre finns i någon källa,
+  för att kommunen tagit bort det eller för att källan inte visar så
+  långt bakåt
+- **När** en ny körning är klar
+- **Så** står dokumentets `.md` och tabeller kvar orörda.
+
+- **Givet** att kommunen byter ut ett dokument, till exempel mot en
+  version där uppgifter strukits
+- **När** nästa körning hittar den nya versionen
+- **Så** skrivs den in enligt K9, och den tidigare texten finns kvar i
+  git-historiken, som inte skrivs om.
