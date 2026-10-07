@@ -16,35 +16,16 @@
 ### Organen och deras sidor
 
 Mötessidorna ligger under
-`https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/<sida>`.
-Listan flyttas till `kommuner/kungsbacka.toml` när den skrivs
+`https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/<sida>`,
+en sida per organ. Organen, deras sidor och ordningen de hämtas i står i
+[`kommuner/kungsbacka.toml`](../../kommuner/kungsbacka.toml)
 ([ADR-0008](../decisions/0008-kommunkonfigurationen-i-toml.md),
-[#25](https://github.com/moggleif/kommunhandlingar/issues/25)). I vilken
-ordning organen ska stå där, och därmed hämtas, står i
-[ADR-0010](../decisions/0010-ordningen-organ-for-organ.md).
-
-| Organ | `<sida>` |
-|---|---|
-| Kommunfullmäktige | `kommunfullmaktiges-sammantraden` |
-| Kommunstyrelsen | `kommunstyrelsens-sammantraden` |
-| Kommunstyrelsens arbetsutskott | `kommunstyrelsens-arbetsutskotts-sammantraden` |
-| Byggnadsnämnden | `byggnadsnamndens-sammantraden` |
-| Byggnadsnämndens arbetsutskott | `byggnadsnamndens-arbetsutskotts-sammantraden` |
-| Nämnden för Förskola & Grundskola | `forskola--grundskolas-sammantraden` |
-| Förskola & Grundskolas arbetsutskott | `forskola--grundskolas-arbetsutskotts-sammantraden` |
-| Nämnden för Gymnasium & Arbetsmarknad | `gymnasium--arbetsmarknads-sammantraden` |
-| Nämnden för Individ & Familjeomsorg | `individ--familjeomsorgs-sammantraden` |
-| Nämnden för Kultur & Fritid | `kultur--fritids-sammantraden` |
-| Nämnden för Miljö & Hälsoskydd | `miljo--halsoskydds-sammantraden` |
-| Nämnden för Service | `services-sammantraden` |
-| Nämnden för Teknik | `tekniks-sammantraden` |
-| Tekniks arbetsutskott | `tekniks-arbetsutskotts-sammantraden` |
-| Nämnden för Vård & Omsorg | `vard--omsorgs-sammantraden` |
-| Valnämnden | `valnamndens-sammantraden` |
-| Kommunrevisionen | `kommunrevisionens-sammantraden` |
+[ADR-0010](../decisions/0010-ordningen-organ-for-organ.md)).
 
 Sidorna hade 2026-10-07 1 671 filer (unika nod-id:n), alla PDF utom ett
 protokoll i Word-format (Valnämnden 2024-02-05, `.docx`).
+Sidorna sparades samma kväll, då med 1 672 filer, och ligger som
+fixturer i `tests/fixtures/sitevision/`.
 
 Utan egen mötessida:
 
@@ -78,8 +59,10 @@ till fullmäktiges sida, `besok-kommunfullmaktige` och
   `name`, `uri`, `url`, `fileSize`, `lastModifiedDateTime` och
   `lastModifiedBy`. En adapter som bara läser länkarna missar dem, så
   båda formerna måste läsas för varje möte.
-- **`lastModifiedBy` är den som senast ändrat filen** och förs inte in i
-  poolen (AGENTS.md, "Inga personnamn").
+- **`lastModifiedBy` pekar ut den som senast ändrat filen**, som ett
+  internt användar-id ("255.…") 2026-10-07, och förs inte in i poolen.
+  I de sparade sidorna i `tests/fixtures/` är det utbytt mot ett
+  platshållar-id.
 - **Tre redan hållna möten saknade filer** 2026-10-07, alla hos Tekniks
   arbetsutskott: 6 maj 2024, 12 januari 2026 och 10 augusti 2026.
 - **Sidorna visar bara möten från januari 2024.** Varje sida börjar i
@@ -163,7 +146,11 @@ samma sak.
   april 2024 (flyttat från 4 april)", "17 och 18 augusti 2026", "27-28
   januari 2025", "Extrainsatt sammanträde …", ", extra arbetsutskott").
 
-Hur adaptern hanterar det avgörs när den skrivs (#25).
+Hur adaptern hanterar det står i
+[ADR-0011](../decisions/0011-sitevision-organ-fran-sidan-datum-och-rattelser.md):
+organet tas från sidan, datumet ur filnamnet eller rubriken, och när de
+avviker gäller en rättelse i kommunfilen, belagd med datumet i kallelsen
+eller protokollet.
 
 ### Dokumentens innehåll
 

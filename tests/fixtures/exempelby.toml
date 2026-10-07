@@ -1,0 +1,35 @@
+# En påhittad kommun för testerna av kommunfilen (ADR-0008).
+namn = "Exempelby kommun"
+
+[[organ]]
+id = "bun"
+namn = ["Barn- och ungdomsnämnden"]
+till = 2022-12-31
+
+[[organ]]
+id = "fsn"
+namn = ["Förskole- och skolnämnden"]
+fran = 2023-01-01
+foregangare = ["bun"]
+
+[[kalla]]
+adapter = "sitevision"
+manader = [
+  "januari", "februari", "mars", "april", "maj", "juni",
+  "juli", "augusti", "september", "oktober", "november", "december",
+]
+rubrik = '^(?P<dag>\d{1,2}) (?P<manad>[a-zåäö]+) (?P<ar>\d{4})'
+
+[[kalla.monster]]
+regex = '(?i)(?P<typ>kallelse|protokoll).*?(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag>\d{2})'
+
+[[kalla.monster]]
+typ = "protokoll"
+regex = '§'
+
+[kalla.sidor]
+bun = "https://exempelby.se/bun"
+fsn = "https://exempelby.se/fsn"
+
+[kalla.rattelser]
+"sitevision:18.abc" = 2024-05-02

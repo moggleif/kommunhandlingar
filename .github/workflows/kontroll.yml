@@ -21,8 +21,10 @@ jobs:
         run: |
           if git ls-files --eol | grep 'i/-text' | grep -v $'\ttests/fixtures/'; then exit 1; fi
           if find tests/fixtures -type f -size +1M 2>/dev/null | grep .; then exit 1; fi
-      - run: pip install "ruff==0.16.10"
+      - run: pip install -e ".[utveckling]"
       - run: ruff check .
       - run: ruff format --check .
       - run: python scripts/kontrollera_storlek.py
       - run: python -m unittest discover -s tests -t .
+      - name: Kända sårbarheter i projektets beroenden
+        run: pip-audit .
