@@ -8,6 +8,9 @@ tabeller dessutom till CSV, så att det går att bygga analyser ovanpå.
 Kungsbacka först. Ingenting i koden ska veta vilken kommun det gäller – det
 står i en konfigurationsfil per kommun.
 
+Vad poolen innehåller just nu syns på webbplatsen:
+<https://moggleif.github.io/kommunhandlingar/>.
+
 ## Hur det fungerar
 
 PDF:en hämtas tillfälligt, konverteras och raderas. Kvar blir texten, och
