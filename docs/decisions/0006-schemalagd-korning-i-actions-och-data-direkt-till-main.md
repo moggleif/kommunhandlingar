@@ -239,6 +239,12 @@ hård gräns där det pågående dokumentet avbryts och lämnas till nästa
 körning. Detaljerna som stod både här och i arkitekturen står nu bara i
 arkitekturen.
 
+Den tredje granskningen fann inget blockerande. Den visade att ett
+dokument som läggs åt sidan måste ta bort sina ospårade filer, annars
+faller kontrollerna natt efter natt, och att sekundtalet per sida var
+hämtat från ett bortvalt alternativ. Båda rättades, och dokumentet som
+läggs åt sidan nämns i jobbets sammanfattning.
+
 ### När beslutet bör omprövas
 
 Om ett dokument inte hinner bli klart inom budgeten, om Actions inte
