@@ -115,7 +115,7 @@ en gång.
   ett skäl, eller blir issues. Fas 5 och 6 redovisas i PR-texten.
 - **Committa efter varje fas** som ger ett stabilt resultat.
 - **Gren, inte `main`.** Det enda undantaget är den schemalagda
-  körningen, som checkar in data direkt till `main`, bara under `data/`
+  körningen, också när den startas för hand, som checkar in data direkt till `main`, bara under `data/`
   och bara efter datakontrollerna (ADR-0006).
 
 ## Agentfiler

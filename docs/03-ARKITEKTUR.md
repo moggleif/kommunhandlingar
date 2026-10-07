@@ -74,9 +74,10 @@ två startas står i K11.
   körning i kö; en senare start ersätter den som väntar.
 - **Varje körning börjar från en ren utcheckning av `main`.**
 - **Tidsbudget, räknat från jobbets start.** Efter 5 timmar startas inget
-  nytt dokument. Efter 5 timmar och 30 minuter avbryts det pågående
-  dokumentet, dess filer återställs till `main`, och körningen går vidare
-  till kontrollerna. Resten av tiden fram till Actions gräns på 6 timmar
+  nytt dokument. Efter 5 timmar och 30 minuter läggs det pågående
+  dokumentet åt sidan: dess tabellkatalog och temporära fil tas bort om
+  de inte finns på `main`, och annars återställs de dit. Dokumentet nämns
+  i jobbets sammanfattning, och körningen går vidare till kontrollerna. Resten av tiden fram till Actions gräns på 6 timmar
   är till för kontrollerna och pushen.
 - **Datakontrollerna körs innan något pushas.** Har `main` fått nya
   commits under körningen läggs körningens commit ovanpå och kontrollerna

@@ -62,9 +62,10 @@ Beslutet i korthet. Beteendet står i K11 och hur körningen går till i
   natt fortsätter där den slutade (K8). Historiken fylls natt för natt
   tills den är ikapp; därefter tar varje natt bara det nya.
 * **Ett dokument som inte hinner bli klart lämnas till nästa körning.**
-  Budgeten har en hård gräns före Actions gräns på 6 timmar. Det
-  pågående dokumentet avbryts där, dess filer återställs till `main`, och
-  resten checkas in. Ett långt inskannat dokument kan därmed inte kasta
+  Budgeten har en hård gräns före Actions gräns på 6 timmar. Där läggs
+  det pågående dokumentet åt sidan: allt det skrivit tas bort eller
+  återställs till `main`, det nämns i jobbets sammanfattning, och resten
+  checkas in. Ett långt inskannat dokument kan därmed inte kasta
   hela nattens arbete.
 * **Datakontrollerna körs före push**, och bara om de går igenom blir
   körningen en commit direkt till `main`, bara under `data/`. Körningen
@@ -92,9 +93,9 @@ Beslutet i korthet. Beteendet står i K11 och hur körningen går till i
 * Dåligt, eftersom Actions schema kan försenas, och ett jobb aldrig får ta
   mer än 6 timmar. Historiken tar flera nätter, och ett dokument som
   ensamt tar längre än budgeten blir aldrig klart. Med ADR-0005:s
-  mätningar, upp till ungefär 11 sekunder per inskannad sida, är det ett
-  inskannat dokument på mer än ungefär 1 700 sidor; det största som setts
-  hittills har 228 sidor.
+  mätning av det valda alternativet, ungefär 3 sekunder per inskannad
+  sida, är det ett inskannat dokument på flera tusen sidor; den största
+  PDF:en som setts hittills har 228 sidor.
 * Dåligt, eftersom ett fel i pipelinen kastar hela nattens arbete, och
   ett dokument som alltid får pipelinen att krascha stoppar poolen tills
   felet är rättat. Det är avsiktligt: hellre stanna än checka in något
@@ -119,8 +120,10 @@ Beslutet i korthet. Beteendet står i K11 och hur körningen går till i
   och `workflow_dispatch`, en `concurrency`-grupp utan
   `cancel-in-progress`, `contents: write` bara i det jobbet, och kör
   datakontrollerna före push.
-* Ett test för varje datakontroll, och för att tidsbudgeten låter det
-  pågående dokumentet bli färdigt.
+* Ett test för varje datakontroll, för att inget nytt dokument startar
+  när budgeten är slut, för att det pågående dokumentet blir färdigt när
+  det hinner, och för att ett dokument som läggs åt sidan vid den hårda
+  gränsen inte lämnar några filer kvar, så att kontrollerna går igenom.
 
 ## Pros and Cons of the Options
 
