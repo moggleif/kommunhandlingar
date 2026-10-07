@@ -55,6 +55,15 @@ python3 -m kommunhandlingar.webbplats _site https://github.com/moggleif/kommunha
 `_site/` checkas inte in; `.github/workflows/webbplats.yml` bygger och
 publicerar på GitHub Pages vid varje push till `main`.
 
+## Upptäckten
+
+Kandidatlistan för en kommun tas fram från repots rot (steg 1, ADR-0013).
+Den hämtar kommunens källsidor artigt, så det tar några minuter:
+
+```sh
+python3 -m kommunhandlingar.upptack kommuner/kungsbacka.toml /tmp/kommunhandlingar
+```
+
 ## Undantag
 
 - Rader per funktion eller fil: `# undantag: <skäl>` på `def`-raden, eller

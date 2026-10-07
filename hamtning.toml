@@ -1,0 +1,3 @@
+# Artigheten vid hämtning, gemensam för alla kommuner (K10, ADR-0008, ADR-0013).
+user_agent = "kommunhandlingar (+https://github.com/moggleif/kommunhandlingar)"
+intervall = 5  # sekunder mellan anrop till samma värd

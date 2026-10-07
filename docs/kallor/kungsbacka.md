@@ -178,7 +178,10 @@ eller protokollet.
 
 - Servern stänger ibland anslutningen utan att svara (curl: "Empty reply
   from server"). Ett nytt försök efter fem sekunder lyckades varje gång
-  2026-10-07.
+  2026-10-07. Det hände också mitt i en hämtning av `robots.txt`.
+  HTTP-klienten försöker igen (ADR-0013).
+- Upptäckten med kommunfilen gav 2026-10-07 1 662 kandidater av 1 672
+  filer, på drygt två minuter med fem sekunder mellan anropen.
 
 ## 2. Kommunens webbplats – äldre plattform (Episerver), bara via Wayback
 
