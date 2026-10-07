@@ -3,7 +3,7 @@
 import copy
 import tomllib
 import unittest
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 
 from kommunhandlingar.fel import Konfigurationsfel
@@ -71,6 +71,7 @@ class TestFelStopparKorningen(unittest.TestCase):
 
     def test_varde_av_fel_slag(self):
         self.stoppas(lambda d: d["organ"][0].update(fran="2019-01-01"))
+        self.stoppas(lambda d: d["organ"][0].update(fran=datetime(2019, 1, 1, 8)))
         self.stoppas(lambda d: d["organ"][0].update(namn="Barn- och ungdomsnämnden"))
         self.stoppas(lambda d: d.update(organ={}))
 

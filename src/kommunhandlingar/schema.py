@@ -1,6 +1,7 @@
 """Krav: K1 i docs/02-KRAV.md. Test: tests/test_konfiguration.py."""
 
 import re
+from datetime import date, datetime
 
 from kommunhandlingar.fel import Konfigurationsfel
 
@@ -20,9 +21,16 @@ def varde(post: dict, falt: str, slag: type, var: str):
 
 
 def valfritt(post: dict, falt: str, slag: type, var: str):
-    if falt in post and not isinstance(post[falt], slag):
+    if falt in post and not ar_av_slag(post[falt], slag):
         raise Konfigurationsfel(f"{var}: {falt} ska vara {slag.__name__}")
     return post.get(falt)
+
+
+def ar_av_slag(varde, slag: type) -> bool:
+    # En tidpunkt är en date för isinstance, men inget datum i kommunfilen.
+    return isinstance(varde, slag) and not (
+        slag is date and isinstance(varde, datetime)
+    )
 
 
 def textlista(post: dict, falt: str, var: str) -> tuple[str, ...]:

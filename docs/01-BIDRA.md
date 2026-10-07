@@ -12,14 +12,15 @@ git clone https://github.com/moggleif/kommunhandlingar.git
 cd kommunhandlingar
 python3 -m venv .venv
 . .venv/bin/activate
-pip install -e . "ruff==0.16.10" "pip-audit==2.10.1"
+pip install -e ".[utveckling]"
 ```
 
 `pip install -e .` gör paketet i `src/kommunhandlingar/` importerbart, så
-att testerna når det. Versionerna av ruff och pip-audit är desamma som i
-`.github/workflows/kontroll.yml`; ruffs förhandsregler kan ändras mellan
-versioner. Med [uv](https://docs.astral.sh/uv/) går samma ruff att köra
-utan installation: `uvx ruff@0.16.10 check .`.
+att testerna når det. `[utveckling]` tar med ruff och pip-audit i de
+versioner som står i `pyproject.toml`, samma som CI installerar; ruffs
+förhandsregler kan ändras mellan versioner. Med
+[uv](https://docs.astral.sh/uv/) går samma ruff att köra utan
+installation: `uvx ruff@<versionen i pyproject.toml> check .`.
 
 ## Allt grönt före incheckning
 
@@ -38,7 +39,8 @@ Gränserna för storlek och komplexitet står i "Ren kod – strikt" i
 (`pyproject.toml`); `scripts/kontrollera_storlek.py` kontrollerar rader per
 funktion och fil, som ruff saknar regler för. `pip-audit` letar efter kända
 sårbarheter i projektets beroenden, och Dependabot
-(`.github/dependabot.yml`) föreslår nya versioner av dem och av Actions. CI
+(`.github/dependabot.yml`) föreslår nya versioner av beroendena, av ruff
+och pip-audit och av Actions. CI
 kontrollerar också att inga binärer är incheckade.
 
 ## Undantag

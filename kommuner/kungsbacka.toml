@@ -1,10 +1,7 @@
 # Kungsbacka kommun. Schemat står i docs/03-ARKITEKTUR.md#kommunkonfigurationen,
 # och hur kommunen publicerar i docs/kallor/kungsbacka.md.
 #
-# Organen står i den ordning de hämtas (K13, ADR-0010): Gymnasium &
-# Arbetsmarknad, Förskola & Grundskola, Byggnadsnämnden, Teknik, Service,
-# övriga nämnder, sist kommunstyrelsen, dess arbetsutskott och fullmäktige.
-# Varje arbetsutskott står direkt efter sin nämnd.
+# Organen står i den ordning de hämtas (K13, ADR-0010).
 
 namn = "Kungsbacka kommun"
 

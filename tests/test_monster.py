@@ -8,14 +8,8 @@ from kommunhandlingar.monster import kompilera, manader, tolka
 
 GRUPPER = {"ar", "manad", "dag", "typ"}
 DATUM = r"(?P<ar>\d+)-(?P<manad>\d+)-(?P<dag>\d+)"
-MANADER = ("januari", "februari", "mars", "april", "maj", "juni") + (
-    "juli",
-    "augusti",
-    "september",
-    "oktober",
-    "november",
-    "december",
-)
+MANADER = ("januari", "februari", "mars", "april", "maj", "juni")
+MANADER += ("juli", "augusti", "september", "oktober", "november", "december")
 
 
 def monster(*poster: dict):
@@ -87,9 +81,10 @@ class TestTolka(unittest.TestCase):
             "datum som inte finns": "kallelse 2025-02-30",
             "år utan fyra siffror": "kallelse 24-11-11",
             "okänt månadsnamn": "kallelse 2025-mars-03",
+            "tom typ": " 2025-03-03",
         }
         poster = monster(
-            {"regex": r"(?P<typ>kallelse) (?P<ar>\d+)-(?P<manad>\w+)-(?P<dag>\d+)"}
+            {"regex": r"(?P<typ>kallelse|) (?P<ar>\d+)-(?P<manad>\w+)-(?P<dag>\d+)"}
         )
         for orsak, text in fall.items():
             with self.subTest(orsak), self.assertRaises(IngenKandidat):

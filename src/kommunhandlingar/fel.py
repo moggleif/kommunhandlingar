@@ -7,7 +7,3 @@ class Konfigurationsfel(Exception):
 
 class IngenKandidat(Exception):
     """En fil blir ingen kandidat; orsaken nämns i sammanfattningen (K2)."""
-
-    def __init__(self, orsak: str):
-        super().__init__(orsak)
-        self.orsak = orsak

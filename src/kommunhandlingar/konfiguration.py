@@ -69,7 +69,7 @@ def organ_av(post: dict) -> Organ:
 
 
 def kontrollera_organ(organ: tuple[Organ, ...]) -> None:
-    kontrollera_id(organ)
+    kontrollera_id_och_foregangare(organ)
     for i, a in enumerate(organ):
         for b in organ[i + 1 :]:
             if delar_namn(a, b) and overlappar(a, b):
@@ -78,7 +78,7 @@ def kontrollera_organ(organ: tuple[Organ, ...]) -> None:
                 )
 
 
-def kontrollera_id(organ: tuple[Organ, ...]) -> None:
+def kontrollera_id_och_foregangare(organ: tuple[Organ, ...]) -> None:
     id_ = [o.id for o in organ]
     for o in organ:
         if id_.count(o.id) > 1:

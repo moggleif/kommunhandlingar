@@ -56,11 +56,11 @@ def manader(post: dict, var: str) -> tuple[str, ...]:
 def tolka(
     monster: tuple[Monster, ...], text: str, manadsnamn: tuple[str, ...]
 ) -> Tolkning:
-    for kandidat in monster:
-        traff = kandidat.uttryck.search(text)
+    for monstret in monster:
+        traff = monstret.uttryck.search(text)
         if traff:
             grupper = traff.groupdict()
-            typ = (grupper.get("typ") or kandidat.typ).casefold()
+            typ = (monstret.typ or grupper["typ"] or "").casefold()
             if typ not in TYPORDNING:
                 raise IngenKandidat(f"okänd typ {typ!r}")
             return Tolkning(typ, datum_av(grupper, manadsnamn))
@@ -68,7 +68,7 @@ def tolka(
 
 
 def datum_av(grupper: dict, manadsnamn: tuple[str, ...]) -> date | None:
-    if grupper.get("ar") is None:
+    if None in (grupper.get("ar"), grupper.get("manad"), grupper.get("dag")):
         return None
     if not re.fullmatch(r"\d{4}", grupper["ar"]):
         raise IngenKandidat(f"året {grupper['ar']!r} har inte fyra siffror")

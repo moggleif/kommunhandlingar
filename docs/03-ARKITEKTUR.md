@@ -156,9 +156,12 @@ Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
 ```
 src/kommunhandlingar/
   konfiguration.py kommunfilen läses och kontrolleras
+  schema.py        kontrollerna av fält och värden i kommunfilen
+  fel.py           konfigurationsfel och "ingen kandidat"
   monster.py       mönstren: typ och datum ur en text
   kandidat.py      kandidaten och ordningen (K13)
-  adaptrar/        en modul per plattform (sitevision, wayback, ciceron, …)
+  adaptrar/        en modul per plattform (sitevision, wayback, ciceron, …);
+                   sitevision_html.py läser mötessidan, sitevision.py tolkar den
   hamtning/        artig HTTP-klient
   konvertering/    pdf → md, tabeller, OCR-reserv, kvalitetsmått
   index/
@@ -188,8 +191,8 @@ fran = 2019-01-01
 # foregangare = ["…"]       # id för organ i samma fil
 
 [[kalla]]
-adapter = "sitevision"
-# … adapterns egna fält, till exempel startadresser
+adapter = "…"
+# … adapterns egna fält, till exempel startadresser (Sitevision nedan)
 
 [[kalla.monster]]
 typ = "protokoll"
@@ -213,7 +216,8 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
   och bindestreck.
 - **Källorna står i prioritetsordning.** Varje adapter anger vilka fält
   den har utöver `adapter` och `monster`; de beskrivs här när adaptern
-  skrivs.
+  skrivs. Med en enda adapter väljer konfigurationen den direkt; ett
+  sätt att slå upp adaptrar kommer med den andra.
 - **Datumet** byggs av grupperna `ar`, `manad` och `dag`, så att ordningen
   och skiljetecknen i källan står i mönstret och inte i koden. `manad` är
   siffror eller ett av namnen i `manader`, utan hänsyn till versaler.
@@ -249,7 +253,9 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
 Hur och varför står i
 [ADR-0011](decisions/0011-sitevision-organ-fran-sidan-datum-och-rattelser.md).
 Adaptern läser mötessidornas HTML, som den får som text. Varje möte är
-en rubrik, och mötets filer står antingen som länkar i filportleten
+en rubrik `<h3>` och varje år en `<h2>`, som i Kungsbackas mall. En
+annan kommuns mall kan ha andra nivåer; då blir rubriknivån ett fält.
+Mötets filer står antingen som länkar i filportleten
 (`/download/18.<nod-id>/…`) eller som JSON i
 `AppRegistry.registerInitialState`. Båda läses.
 
@@ -281,7 +287,8 @@ bun = "https://exempelby.se/…/barn-och-ungdomsnamndens-sammantraden"
   mönstret har ett, och rubrikens annars. Anger filnamnet och rubriken
   olika datum blir filen ingen kandidat (K2). En rubrik som rubrikmönstret
   inte läser ("17 och 18 augusti 2026") ger inget datum, och filnamnets
-  gäller ensamt.
+  gäller ensamt. En rubrik som mönstret läser men vars datum inte finns
+  eller vars månad är okänd ger ingen kandidat, som ett filnamn gör (K2).
 - **En fil som står under flera möten** blir en kandidat: det första
   stället i sidans ordning som ger en kandidat gäller.
 

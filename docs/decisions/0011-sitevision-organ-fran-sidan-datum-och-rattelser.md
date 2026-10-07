@@ -200,6 +200,9 @@ Kungsbacka står i koden.
    organ.
 7. **En fil med två typer i namnet**, "Kallelse och handlingar för möte
    …", blir den typ som står först, `kallelse`.
+8. **Protokollet i Word-format** (Valnämnden 2024-02-05, `.docx`) blir
+   en kandidat som de andra. Upptäckten ser inte filformatet;
+   konverteringen märker det (K6, `inte-pdf`).
 
 ### När beslutet bör omprövas
 

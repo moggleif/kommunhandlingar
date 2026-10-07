@@ -2,7 +2,7 @@
 
 import copy
 import unittest
-from datetime import date
+from datetime import date, datetime
 
 from kommunhandlingar.adaptrar.sitevision import upptack
 from kommunhandlingar.fel import Konfigurationsfel
@@ -103,6 +103,18 @@ class TestUpptack(unittest.TestCase):
         self.assertEqual(avvisade, [])
         self.assertEqual([k.datum for k in kandidater], [date(2024, 5, 15)])
 
+    def test_absolut_adress_till_filen(self):
+        html = sida(
+            (
+                "2 maj 2024",
+                lank("a1", "Kallelse%202024-05-02.pdf").replace(
+                    '"/', '"https://exempelby.se/'
+                ),
+            )
+        )
+        kandidater, _ = self.upptack(html)
+        self.assertEqual([k.kallnyckel for k in kandidater], ["sitevision:18.a1"])
+
     def test_andra_lankar_raknas_inte(self):
         kandidater, avvisade = self.upptack(
             sida(("2 maj 2024", '<a href="/kontakta-oss">Kontakt</a>'))
@@ -137,8 +149,31 @@ class TestSitevisionsFaltStopparFel(unittest.TestCase):
             )
         )
 
+    def test_rattelse_som_ar_en_tidpunkt(self):
+        self.stoppas(
+            lambda kalla: kalla["rattelser"].update(
+                {"sitevision:18.abd": datetime(2024, 5, 2, 10)}
+            )
+        )
+
     def test_sidor_saknas(self):
         self.stoppas(lambda kalla: kalla.pop("sidor"))
+
+
+AVVISADE = [
+    "1384 2026-00068  om hastighet på Gåsevadholmsvägen.pdf",
+    "Avfallsföreskrifter, Reviderad utställningsversion & förändringslogg"
+    " 2026-08-03.pdf",
+    "Delårsrapport 2024 för Kungsbacka kommun.pdf",
+    "Kommunbudget 2025, plan 2026-2027.pdf",
+    "Kommunbudget 2027, plan 2028-2029, kommunstyrelsens förslag till"
+    " kommunfullmäktige.pdf",
+    "Nämndbudget 2026, Nämnden för Teknik.pdf",
+    "Särredovisning Teknik 2023.pdf",
+    "Årsredovisning 2023 för Kungsbacka kommun.pdf",
+    "Årsredovisning 2024 för Kungsbacka kommun.pdf",
+    "Årsredovisning 2025 för Kungsbacka kommun.pdf",
+]
 
 
 class TestKungsbackasSparadeSidor(unittest.TestCase):
@@ -159,23 +194,9 @@ class TestKungsbackasSparadeSidor(unittest.TestCase):
         self.assertEqual(len({k.kallnyckel for k in self.kandidater}), 1662)
 
     def test_de_som_inte_blev_kandidater(self):
-        borjan = sorted(a.filnamn.split()[0] for a in self.avvisade)
+        avvisade = sorted((a.filnamn, a.orsak) for a in self.avvisade)
         self.assertEqual(
-            borjan,
-            [
-                "1384",
-                "Avfallsföreskrifter,",
-                "Delårsrapport",
-                "Kommunbudget",
-                "Kommunbudget",
-            ]
-            + [
-                "Nämndbudget",
-                "Särredovisning",
-                "Årsredovisning",
-                "Årsredovisning",
-                "Årsredovisning",
-            ],
+            avvisade, [(namn, "inget mönster matchar") for namn in AVVISADE]
         )
 
     def test_varje_rattelse_galler(self):

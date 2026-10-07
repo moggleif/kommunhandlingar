@@ -53,7 +53,9 @@ def rubrik(text: str, var: str) -> re.Pattern:
 
 def rattelser(tabell: dict, var: str) -> dict[str, date]:
     for kallnyckel, datum in tabell.items():
-        if not kallnyckel.startswith("sitevision:") or not isinstance(datum, date):
+        if not kallnyckel.startswith("sitevision:") or not schema.ar_av_slag(
+            datum, date
+        ):
             raise Konfigurationsfel(f"{var}: rättelsen för {kallnyckel!r}")
     return tabell
 
@@ -65,7 +67,7 @@ def upptack(
     avvisade: dict[str, Avvisad] = {}
     for organ, adress in kalla.sidor.items():
         for forekomst in forekomster(html_per_sida[adress], adress):
-            nyckel = f"sitevision:{forekomst.nodid}"
+            nyckel = kallnyckel(forekomst)
             if nyckel in kandidater:
                 continue
             try:
@@ -73,19 +75,29 @@ def upptack(
                 avvisade.pop(nyckel, None)
             except IngenKandidat as fel:
                 avvisade.setdefault(
-                    nyckel, Avvisad(adress, forekomst.filnamn, fel.orsak)
+                    nyckel, Avvisad(adress, forekomst.filnamn, str(fel))
                 )
     return list(kandidater.values()), list(avvisade.values())
 
 
+def kallnyckel(forekomst: Forekomst) -> str:
+    return f"sitevision:{forekomst.nodid}"
+
+
 def kandidat(kalla: Kalla, organ: str, adress: str, forekomst: Forekomst) -> Kandidat:
-    nyckel = f"sitevision:{forekomst.nodid}"
+    nyckel = kallnyckel(forekomst)
     tolkning = monster.tolka(kalla.monster, forekomst.filnamn, kalla.manader)
     datum = kalla.rattelser.get(nyckel) or motesdatum(
         kalla, tolkning.datum, forekomst.rubrik
     )
     return Kandidat(
-        organ, datum, tolkning.typ, forekomst.adress, adress, nyckel, forekomst.filnamn
+        organ=organ,
+        datum=datum,
+        typ=tolkning.typ,
+        url=forekomst.adress,
+        kalla=adress,
+        kallnyckel=nyckel,
+        filnamn=forekomst.filnamn,
     )
 
 
