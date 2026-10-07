@@ -232,9 +232,8 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
   giltighetsperiod omfattar datumet räknas.
 - **Ingen kandidat** blir det av en rubrik som inget mönster matchar, ett
   organnamn som inget organ har på datumet, ett datum som är ofullständigt,
-  inte finns,
-  inte har fyrsiffrigt år eller har ett okänt månadsnamn, och en typ som
-  inte är `kallelse`, `handlingar`, `protokoll` eller `bilaga` (utan
+  inte finns, inte har fyrsiffrigt år eller har ett okänt månadsnamn, och
+  en typ som inte är `kallelse`, `handlingar`, `protokoll` eller `bilaga` (utan
   hänsyn till versaler). Var och en nämns i körningens sammanfattning.
 - **Körningen stoppas innan något hämtas** när filen inte följer
   schemat: ett fält som varken schemat eller adaptern har, ett id som
