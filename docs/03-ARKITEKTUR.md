@@ -389,8 +389,10 @@ läste dokumentet, med version: alltid pdfplumber och pdfminer.six, och
 pypdfium2 samt Tesseract och språkmodellens version när någon sida
 lästes med OCR, till exempel
 `kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 /
-pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. Versionen höjs när en
-ändring i konverteringen ändrar vad den skriver.
+pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. För `ej-hamtad` har inget
+verktyg läst dokumentet, och `pipeline` är bara poolens version. En fil
+som inte gick att öppna har lästs av pdfplumber och pdfminer.six.
+Versionen höjs när en ändring i konverteringen ändrar vad den skriver.
 
 ## Tabeller
 

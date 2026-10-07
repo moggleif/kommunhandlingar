@@ -46,8 +46,8 @@ alternativet där varken härkomsten eller sidnumret står på två ställen,
 och tabellkatalogen redan hör till sin `.md`.
 
 * **Filnamnet** är `<sida>-<nr>.csv` i dokumentets `.tabeller/`-katalog:
-  sidnumret räknat från 1, och tabellens nummer på sidan, från 1 i
-  läsordning. `3-2.csv` är den andra tabellen på sidan 3.
+  sidnumret räknat från 1, och tabellens nummer på sidan, från 1.
+  `3-2.csv` är den andra tabellen på sidan 3.
 * **Härkomsten** är front matter i katalogens `.md`, som har samma namn
   som katalogen utan `.tabeller`. Där står original, tider, pipeline och
   sidans kvalitet.
