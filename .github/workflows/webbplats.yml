@@ -1,0 +1,41 @@
+# Bygger webbplatsen ur main och publicerar den på GitHub Pages (K14, ADR-0012).
+name: Webbplats
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  bygg:
+    name: Bygg webbplatsen
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
+      - run: python -m kommunhandlingar.webbplats _site "${{ github.server_url }}/${{ github.repository }}"
+      - uses: actions/upload-pages-artifact@v3
+
+  publicera:
+    name: Publicera på GitHub Pages
+    needs: bygg
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.publicering.outputs.page_url }}
+    steps:
+      - id: publicering
+        uses: actions/deploy-pages@v4

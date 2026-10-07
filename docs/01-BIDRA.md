@@ -43,6 +43,18 @@ sårbarheter i projektets beroenden, och Dependabot
 och pip-audit och av Actions. CI
 kontrollerar också att inga binärer är incheckade.
 
+## Webbplatsen
+
+Webbplatsen byggs lokalt till en katalog som öppnas i webbläsaren
+(K14, ADR-0012):
+
+```sh
+python3 -m kommunhandlingar.webbplats _site https://github.com/moggleif/kommunhandlingar
+```
+
+`_site/` checkas inte in; `.github/workflows/webbplats.yml` bygger och
+publicerar på GitHub Pages vid varje push till `main`.
+
 ## Undantag
 
 - Rader per funktion eller fil: `# undantag: <skäl>` på `def`-raden, eller
