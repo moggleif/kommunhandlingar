@@ -21,6 +21,8 @@ jobs:
         run: |
           if git ls-files --eol | grep 'i/-text' | grep -v $'\ttests/fixtures/'; then exit 1; fi
           if find tests/fixtures -type f -size +1M 2>/dev/null | grep .; then exit 1; fi
+      - name: Tesseract med svensk modell (OCR, ADR-0005)
+        run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-swe
       - run: pip install -e ".[utveckling]"
       - run: ruff check .
       - run: ruff format --check .

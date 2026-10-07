@@ -66,8 +66,8 @@ class TestSteg2(unittest.TestCase):
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["konverterad"])
         falt = self.falt()
         self.assertEqual(falt["kvalitet"], "delvis")
-        self.assertEqual(falt["sidor"], "10")
-        self.assertEqual(falt["tal_obekraftade"], "[5, 6, 7, 9]")
+        self.assertEqual(falt["sidor"], "11")
+        self.assertEqual(falt["tal_obekraftade"], "[5, 6, 7, 9, 11]")
         self.assertTrue(
             falt["pipeline"].startswith("kommunhandlingar 0.1.0 / pdfplumber ")
         )
@@ -77,7 +77,7 @@ class TestSteg2(unittest.TestCase):
         )
         text = self.md().read_text()
         self.assertIn("[Tabell 2-1](protokoll.tabeller/2-1.csv)", text)
-        self.assertIn("<!-- sida 10 -->", text)
+        self.assertIn("<!-- sida 11 -->\n\nAnsökan om partistöd", text)
         self.assertEqual(list(self.md().parent.glob("*.tmp")), [])
 
     def test_samma_adress_hamtas_inte_igen(self):

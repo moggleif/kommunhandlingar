@@ -8,7 +8,8 @@ beroenden: `python tests/fixtures/pdf/skapa.py`. Varje sida i `sidor.pdf`
 import random
 from pathlib import Path
 
-from PIL import Image
+import reportlab
+from PIL import Image, ImageDraw, ImageFont
 from pypdf import PdfReader, PdfWriter
 from reportlab.lib.utils import ImageReader
 from reportlab.pdfgen.canvas import Canvas
@@ -81,6 +82,28 @@ def skanning(c: Canvas, synligt: str = "", osynligt: str = "") -> None:
         c.drawText(objekt)
 
 
+def inskannad_text(c: Canvas) -> None:
+    """En inskannad blankett: text som bild i 150 dpi, utan textlager."""
+    bild = Image.new("L", (1240, 1754), 255)
+    rita = ImageDraw.Draw(bild)
+    typsnitt = ImageFont.truetype(
+        str(Path(reportlab.__file__).parent / "fonts" / "Vera.ttf"), 32
+    )
+    for i, rad in enumerate(BLANKETT):
+        rita.text((120, 150 + 60 * i), rad, fill=0, font=typsnitt)
+    c.drawImage(ImageReader(bild.convert("1")), 0, 0, B, H)
+
+
+BLANKETT = [
+    "Ansökan om partistöd",
+    "Partiets namn: Exempelpartiet",
+    "Antal mandat i fullmäktige: 4",
+    "Kontaktperson och telefonnummer",
+    "Redovisningen bifogas enligt beslut",
+    "i kommunfullmäktige.",
+]
+
+
 def kurvor(c: Canvas) -> None:
     sokvag = c.beginPath()
     sokvag.moveTo(60, 600)
@@ -100,6 +123,7 @@ SIDOR = [
     lambda c: skanning(c, synligt="Omslag med en lång rubrik och mer text " * 3),
     kurvor,
     lambda c: c.line(60, 400, 500, 400),
+    inskannad_text,
 ]
 
 

@@ -1,7 +1,7 @@
 """Krav: K5 och K6 i docs/02-KRAV.md, ADR-0005. Test: tests/test_konvertering.py.
 
-En sida blir `tom`, läses ur textlagret, eller behöver OCR. OCR kommer i
-#36; till dess blir en sådan sida `ej-konverterad`, utan text.
+En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
+får inga tabeller, och dess tal är aldrig bekräftade.
 """
 
 from dataclasses import dataclass, field
@@ -9,8 +9,8 @@ from dataclasses import dataclass, field
 import pypdfium2 as pdfium
 from pdfplumber.page import Page
 
-from kommunhandlingar.konvertering import tabeller
-from kommunhandlingar.konvertering.text import stycken
+from kommunhandlingar.konvertering import ocr, tabeller
+from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
 
 RENDERING_72_DPI = 1
@@ -29,8 +29,15 @@ def las_sida(sida: Page, rendering: pdfium.PdfPage) -> Sida:
         case "tom":
             return Sida("tom", False)
         case "ocr":
-            return Sida("ej-konverterad", True)
+            return ocr_sida(rendering)
     return textsida(sida)
+
+
+def ocr_sida(rendering: pdfium.PdfPage) -> Sida:
+    text = ocr.las(rendering)
+    if text is None:
+        return Sida("ej-konverterad", True)
+    return Sida("ocr", True, komprimera(text.splitlines()))
 
 
 def ej_vita(rendering: pdfium.PdfPage) -> float:

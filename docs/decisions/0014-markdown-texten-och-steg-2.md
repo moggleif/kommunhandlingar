@@ -100,7 +100,5 @@ här valde agenten utan att projektägaren sett den, så ADR:n står som
 betyder att poolen konverteras om, vilket kräver att PDF:erna hämtas
 igen så länge de finns kvar hos kommunen.
 
-Sidor som behöver OCR blir `ej-konverterad` tills OCR finns
-([#36](https://github.com/moggleif/kommunhandlingar/issues/36)). Den
-schemalagda körningen startar inte före det, så ingen sådan sida når
-poolen.
+En OCR-sida skrivs som Tesseracts text under sin sidkommentar
+([#36](https://github.com/moggleif/kommunhandlingar/issues/36)).

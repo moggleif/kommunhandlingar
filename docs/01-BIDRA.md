@@ -4,6 +4,8 @@
 
 - Python 3.12 eller senare
 - git
+- Tesseract med svensk modell, för OCR och testerna
+  (`apt-get install tesseract-ocr tesseract-ocr-swe`)
 
 ## Uppsättning från en tom maskin
 
