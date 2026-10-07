@@ -23,8 +23,8 @@ får historiken skrivas om?
 ## Decision Drivers
 
 * **Att försvinna ur källan är det normala.** Kungsbackas nämndsidor
-  visar ungefär två år bakåt, och allt äldre finns bara i Internet Archive
-  ([källorna](../kallor/kungsbacka.md)). Poolen finns för att behålla det
+  visar ungefär två år bakåt, och allt äldre finns i Internet Archive och
+  diariet ([källorna](../kallor/kungsbacka.md)). Poolen finns för att behålla det
   som källan inte längre visar.
 * **Handlingarna är offentliga.** Det poolen tar in har kommunen själv
   publicerat.
@@ -65,15 +65,14 @@ alternativ kräver kod och rutiner för ett fall som inte har inträffat.
 * Bra, eftersom ingen kloning av repot blir inaktuell av en force-push.
 * Dåligt, eftersom en uppgift som kommunen publicerat av misstag ligger
   kvar i poolen och i historiken, också efter att kommunen rättat den.
-* Neutralt, eftersom poolen bara innehåller det kommunen själv
-  publicerat, och kopior utanför repot ändå inte hade gått att nå.
+  Byter kommunen ut filen under samma adress upptäcks utbytet inte alls
+  (ADR-0004, #10), och den orättade texten står kvar som gällande
+  version.
 
 ### Confirmation
 
-* K12 testas när pipelinen skrivs: ett dokument i poolen som inte finns
-  bland kandidaterna lämnas orört.
-* Granskaren (fas 6) kontrollerar att ingen ändring tar bort dokument
-  under `data/` som försvunnit ur källan.
+K12 testas när pipelinen skrivs: ett dokument i poolen som ingen
+kandidat har lämnas orört.
 
 ## Pros and Cons of the Options
 
@@ -132,6 +131,16 @@ om med `git filter-repo` och force-push.
    att det räcker att kunna ta bort ett dokument som kommunen drar
    tillbaka. Det här beslutet ersätter den bedömningen: poolen tar inte
    bort dokument som kommunen drar tillbaka.
+
+### Granskningen
+
+Den oberoende granskningen (fas 6) fann att ADR-0001 fortfarande lovade
+borttagning utan att hänvisa hit; punkten fick en anteckning. Kravets
+rubrik undviker ordet ögonblicksbild, som i K8 betyder en kopia i
+Internet Archive, och kravet säger att det gäller dokument som ingen
+kandidat har, så att det inte läses som att det krockar med K9. En
+utlovad kontroll i granskningen ströks, eftersom granskaren aldrig ser de
+nattliga körningarna, och ett scenario som upprepade K9 ströks.
 
 ### När beslutet bör omprövas
 
