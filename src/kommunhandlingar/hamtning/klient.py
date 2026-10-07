@@ -4,9 +4,11 @@ Håller intervallet per värd, följer robots.txt, följer inga omdirigeringar
 och försöker igen vid 429, 5xx, tidsgräns och svar som bryts av.
 """
 
+import shutil
 import time
 from collections.abc import Callable
 from http.client import HTTPException
+from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
 from urllib.request import HTTPRedirectHandler, Request, build_opener
@@ -19,6 +21,7 @@ FORSOK = 4
 FORSTA_VANTAN = 5
 LANGSTA_VANTAN = 300
 TIDSGRANS = 60
+BLOCK = 1 << 20
 
 
 class NyttForsok(Exception):
@@ -42,47 +45,60 @@ class Klient:
         self.installningar = installningar
         self.klocka, self.sov = klocka, sov
         self.senast: dict[str, float] = {}
-        self.regler: dict[str, tuple[robots.Regel, ...]] = {}
+        self.regler: dict[str, tuple[robots.Regel, ...] | Hamtfel] = {}
         self.oppnare = build_opener(IngenOmdirigering)
 
     def text(self, url: str) -> str:
+        self.prova(url)
+        return self.med_forsok(url, las_text)
+
+    def fil(self, url: str, mal: Path) -> None:
+        """Strömmar svaret till `mal`; filer kan vara hundratals MB."""
+        self.prova(url)
+        self.med_forsok(url, lambda svar: spara(svar, mal))
+
+    def prova(self, url: str) -> None:
         if not robots.tillater(self.robotregler(url), url):
             raise Hamtfel("robots")
-        return self.med_forsok(url)
 
     def robotregler(self, url: str) -> tuple[robots.Regel, ...]:
         varden = vard(url)
         if varden not in self.regler:
-            self.regler[varden] = self.las_robots(varden)
+            try:
+                self.regler[varden] = self.las_robots(varden)
+            except Hamtfel as fel:
+                self.regler[varden] = Hamtfel(f"robots-{fel.orsak}")
+        if isinstance(self.regler[varden], Hamtfel):
+            raise self.regler[varden]
         return self.regler[varden]
 
     def las_robots(self, varden: str) -> tuple[robots.Regel, ...]:
         try:
-            text = self.med_forsok(f"{varden}/robots.txt")
+            text = self.med_forsok(f"{varden}/robots.txt", las_text)
         except Hamtfel as fel:
             if not fel.orsak.startswith("http-4") or fel.orsak == "http-429":
                 raise
             return ()
         return robots.tolka(text, produkt(self.installningar.user_agent))
 
-    def med_forsok(self, url: str) -> str:
+    def med_forsok(self, url: str, las: Callable):
         for forsok in range(FORSOK):
             try:
-                return self.anrop(url)
+                return self.anrop(url, las)
             except NyttForsok as fel:
                 if forsok == FORSOK - 1:
                     raise Hamtfel(fel.orsak) from fel
                 self.sov(fel.vantan or FORSTA_VANTAN * 2**forsok)
 
-    def anrop(self, url: str) -> str:
+    def anrop(self, url: str, las: Callable):
         self.vanta_pa(vard(url))
         fraga = Request(url, headers={"User-Agent": self.installningar.user_agent})
         try:
             with self.oppnare.open(fraga, timeout=TIDSGRANS) as svar:
-                return avkoda(svar.read(), svar.headers.get_content_charset())
+                return las(svar)
         except HTTPError as fel:
             raise http_fel(fel) from fel
-        except OSError as fel:
+        except (URLError, ConnectionError, TimeoutError) as fel:
             raise natfel(fel) from fel
         except HTTPException as fel:
             raise NyttForsok("avbrutet-svar") from fel
@@ -96,11 +112,21 @@ class Klient:
                 self.sov(kvar)
 
 
-def avkoda(innehall: bytes, teckenkodning: str | None) -> str:
+def las_text(svar) -> str:
     try:
-        return innehall.decode(teckenkodning or "utf-8")
+        return svar.read().decode(svar.headers.get_content_charset() or "utf-8")
     except (LookupError, UnicodeDecodeError) as fel:
         raise Hamtfel("teckenkodning") from fel
+
+
+def spara(svar, mal: Path) -> None:
+    with mal.open("wb") as fil:
+        shutil.copyfileobj(svar, fil, BLOCK)
+    # http.client ger tomt i stället för IncompleteRead när en läsning i
+    # bitar bryts av, så längden jämförs med vad servern lovade.
+    langd = svar.headers.get("Content-Length")
+    if langd is not None and mal.stat().st_size != int(langd):
+        raise NyttForsok("avbrutet-svar")
 
 
 def http_fel(fel: HTTPError) -> Exception:
@@ -113,7 +139,7 @@ def http_fel(fel: HTTPError) -> Exception:
     return Hamtfel(orsak)
 
 
-def natfel(fel: OSError) -> Exception:
+def natfel(fel: URLError | ConnectionError | TimeoutError) -> Exception:
     # urllib slår in fel vid sändningen i URLError, men inte vid svaret.
     grund = fel.reason if isinstance(fel, URLError) else fel
     if isinstance(grund, ConnectionResetError):

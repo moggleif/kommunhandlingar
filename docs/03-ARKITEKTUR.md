@@ -1,9 +1,9 @@
 # Arkitektur
 
 Det här beskriver hur poolen är tänkt att byggas. Upptäckten (steg 1)
-finns som kod: kommunfilen, mönstren, ordningen, Sitevision-adaptern,
-HTTP-klienten och kommandot. Där koden finns är det koden som gäller, och
-dokumentet rättas efter den.
+och hämtningen och konverteringen (steg 2) finns som kod; indexet (steg 3)
+gör det inte än. Där koden finns är det koden som gäller, och dokumentet
+rättas efter den.
 *Varför* står i [docs/decisions/](decisions/).
 
 ## Flödet
@@ -164,8 +164,13 @@ src/kommunhandlingar/
                    sitevision_html.py läser mötessidan, sitevision.py tolkar den
   upptack.py       steg 1: hämtar källsidorna och skriver kandidatlistan
   hamtning/        artig HTTP-klient: robots.txt, intervall och nya försök
-  konvertering/    pdf → md, tabeller, OCR-reserv, kvalitetsmått
-  index/
+  hamta.py         steg 2: tar kandidatlistan in i poolen, ett dokument i taget
+  behandla.py      steg 2 för en kandidat: hoppa över, hämta, konvertera, skriva
+  pool.py          poolens front matter, uppslagen på källnyckel och sökväg
+  plats.py         sökvägen och namnet för ett nytt dokument (ADR-0003)
+  skrivning.py     `.md` och tabellkatalog, tabellerna först och `.md` sist
+  frontmatter.py   front matter läses och skrivs
+  konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
   webbplats/       statussidorna och startsidan för GitHub Pages
 kommuner/<kommun>.toml
 hamtning.toml
@@ -361,8 +366,8 @@ kalla_url: https://…/Protokoll….pdf
 sha256: 3f9a…
 bytes: 812345
 sidor: 14
-hamtad: 2026-10-06T15:40:12+02:00
-konverterad: 2026-10-06T15:40:31+02:00
+hamtad: 2026-10-06T13:40:12+00:00
+konverterad: 2026-10-06T13:40:31+00:00
 pipeline: kommunhandlingar <version> / <verktyg> <version> …
 kvalitet: ocr
 fel: null
@@ -506,6 +511,55 @@ pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. För `ej-hamtad` har inget
 verktyg läst dokumentet, och `pipeline` är bara poolens version. En fil
 som inte gick att öppna har lästs av pdfplumber och pdfminer.six.
 Versionen höjs när en ändring i konverteringen ändrar vad den skriver.
+
+### Markdown-texten
+
+Hur och varför står i
+[ADR-0014](decisions/0014-markdown-texten-och-steg-2.md). Efter front
+matter följer sidorna i ordning. Varje sida börjar med kommentaren
+`<!-- sida N -->`, så att en sida i `kvalitet_per_sida` eller
+`tal_obekraftade` går att hitta i texten.
+
+- **Texten** är textlagret med bevarad uppställning (pdfplumber,
+  `layout=True`). Raderna skrivs utan indrag, men mellanrummen inne i
+  raden står kvar, så att två tal i följd inte flyter ihop. Flera tomma
+  rader blir en.
+- **En osäker tabell** står där den står på sidan, som ett kodblock märkt
+  `osaker-tabell` med uppställningen kvar.
+- **En säker tabell** står inte i sidans text. Den står efter texten, i
+  sidans ordning, som en länk till sin CSV (`[Tabell 3-1](<namn>.tabeller/3-1.csv)`)
+  följd av tabellen i Markdown. Där är första raden tabellhuvud, eftersom
+  Markdown kräver ett; `|` skrivs `\|` och en radbrytning `<br>`.
+- **En sida utan text** (`tom`, `ej-konverterad`) har bara sin kommentar.
+  En `.md` för ett dokument som inte gick att hämta eller öppna har ingen
+  text alls.
+
+## Steg 2: hämta och konvertera
+
+`python -m kommunhandlingar.hamta kommuner/<kommun>.toml <arbetskatalog>`
+läser `<arbetskatalog>/<kommun>.kandidater.json` och skriver i `data/` i
+samma repo som kommunfilen. Kandidaterna tas i listans ordning, och för
+var och en avgör K8 och K9 vad som händer. Sammanfattningen räknar
+utfallen och nämner varje dokument som inte gick att hämta, med orsak.
+
+- **Platsen** för en ny källnyckel är organ, datum och typ. En bilaga får
+  alltid ett namn, ur filnamnet utan `.pdf`. Är platsen upptagen av ett
+  dokument vars källnyckel inte längre finns bland kandidaterna blir den
+  nya filen en ny version av det, och den gamla källnyckeln flyttas till
+  `tidigare_kallnycklar`. Finns den kvar får det nya dokumentet ett namn
+  ur filnamnet, eller ett löpnummer om namnet är upptaget eller tomt.
+- **PDF:en** strömmas till en temporär katalog utanför repot, och
+  katalogen tas bort när dokumentet är klart, också om något gick fel.
+- **Tiderna** `hamtad` och `konverterad` skrivs i UTC, på sekunden.
+- **OCR finns inte än**
+  ([#36](https://github.com/moggleif/kommunhandlingar/issues/36)). En sida
+  som enligt reglerna ska läsas med OCR blir till dess `ej-konverterad`
+  utan försök, och den schemalagda körningen startar inte förrän OCR finns.
+- **En fil som pdfplumber eller pdfminer inte kan läsa**, hur felet än
+  ser ut, blir `ej-konverterad` med `trasig-pdf`, och felet skrivs ut, så
+  att en enda fil inte stoppar körningen.
+- **Ett dokument med samma källnyckel och sha256** under en ny adress får
+  bara ny `kalla_url`; texten och tabellerna rörs inte.
 
 ## Tabeller
 

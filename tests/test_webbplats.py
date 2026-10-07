@@ -6,9 +6,10 @@ import unittest
 from datetime import UTC, datetime
 from pathlib import Path
 
+from kommunhandlingar import frontmatter
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import las
-from kommunhandlingar.webbplats import frontmatter, rakning, sidor
+from kommunhandlingar.webbplats import rakning, sidor
 from kommunhandlingar.webbplats.bygg import bygg
 
 FIXTURER = Path(__file__).parent / "fixtures"

@@ -64,6 +64,19 @@ ADR-0013). Kommunens källsidor hämtas artigt, så det tar några minuter:
 python3 -m kommunhandlingar.upptack kommuner/kungsbacka.toml /tmp/kommunhandlingar
 ```
 
+## Hämtning och konvertering
+
+Steg 2 läser kandidatlistan från samma arbetskatalog och skriver i `data/`
+(ADR-0014). Varje fil hämtas med intervallet i `hamtning.toml` emellan, så
+en hel kommun tar timmar:
+
+```sh
+python3 -m kommunhandlingar.hamta kommuner/kungsbacka.toml /tmp/kommunhandlingar
+```
+
+PDF-fixturerna i `tests/fixtures/pdf/` skapas av `skapa.py` där bredvid,
+som behöver reportlab, pypdf och Pillow. De är inte projektets beroenden.
+
 ## Undantag
 
 - Rader per funktion eller fil: `# undantag: <skäl>` på `def`-raden, eller
