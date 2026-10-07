@@ -191,3 +191,12 @@ kunna läggas till utan kodändring.
 - **När** en till startas, schemalagd eller för hand
 - **Så** körs de aldrig samtidigt: den nya väntar tills den första är
   klar, och en start som väntar ersätts av en senare start.
+
+## K12 — Det som en gång tagits in tas inte bort
+
+- **Givet** ett dokument i poolen vars källnyckel och plats ingen kandidat
+  har, för att kommunen tagit bort det eller för att källan inte visar så
+  långt bakåt
+- **När** en ny körning är klar
+- **Så** står dokumentets `.md` och tabeller kvar orörda, också när
+  dokumentet har kvalitet `ej-hamtad`.

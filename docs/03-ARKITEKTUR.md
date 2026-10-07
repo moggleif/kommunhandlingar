@@ -54,6 +54,10 @@ Hur och varför står i
   emellan står nya tabeller bredvid den gamla `.md`; dess `kalla_url` är
   då fortfarande den gamla, så nästa körning gör om dokumentet. En sådan
   körning checkas aldrig in (se nedan).
+- **Det som en gång tagits in tas inte bort** (K12,
+  [ADR-0007](decisions/0007-poolen-ar-en-ogonblicksbild.md)). Ett
+  dokument står kvar när det försvinner ur källan, och historiken på
+  `main` skrivs inte om.
 - **Ett misslyckat hämtningsförsök** skriver aldrig över en fullständig
   `.md`. Har dokumentet ingen ger försöket en `.md` med kvalitet
   `ej-hamtad`, försökets tid i `hamtad` och orsaken i `fel` (K6); den bär

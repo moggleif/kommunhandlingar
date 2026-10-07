@@ -171,7 +171,8 @@ luckan syns.
 7. **Synlighet.** Ägaren beslutade att repot är publikt, eftersom
    handlingarna är offentliga. Agenten påpekade att namn räknas som
    personuppgifter i GDPR; att kunna ta bort ett dokument som kommunen själv
-   drar tillbaka räcker som hantering.
+   drar tillbaka räcker som hantering. (Ersatt 2026-10-07, se ADR-0007:
+   poolen tar inte bort dokument som kommunen drar tillbaka.)
 
 Agenten rekommenderade till slut F. Beslutet fattades av ägaren 2026-10-06.
 
