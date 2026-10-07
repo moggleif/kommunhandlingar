@@ -103,7 +103,8 @@ uppgifter säger emot varandra.
   ger inga löpnummer. Det avgörs när ett fall finns.
 * **Adaptern läser HTML som text** och hämtar ingenting själv. Den artiga
   HTTP-klienten (K10) och kommandot som hämtar sidorna och skriver
-  kandidatlistan är ett eget arbete. Där hör också filer som `robots.txt`
+  kandidatlistan är ett eget arbete
+  ([#29](https://github.com/moggleif/kommunhandlingar/issues/29)). Där hör också filer som `robots.txt`
   stänger hemma: kandidaten finns, och hämtningen nekas (K6).
 
 ### Consequences

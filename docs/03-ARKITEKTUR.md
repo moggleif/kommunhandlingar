@@ -1,7 +1,10 @@
 # Arkitektur
 
-Det här beskriver hur poolen är tänkt att byggas. Inget av det är kod än;
-när koden kommer är det koden som gäller och dokumentet rättas efter den.
+Det här beskriver hur poolen är tänkt att byggas. Av upptäckten finns
+kommunfilen, mönstren, ordningen och Sitevision-adaptern som kod;
+HTTP-klienten och kommandot kommer i
+[#29](https://github.com/moggleif/kommunhandlingar/issues/29). Där koden
+finns är det koden som gäller, och dokumentet rättas efter den.
 *Varför* står i [docs/decisions/](decisions/).
 
 ## Flödet
