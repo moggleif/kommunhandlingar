@@ -73,9 +73,10 @@ Mätningen visade också en brist i ADR-0005:s regel för tabeller med
 linjer: två rader eller kolumner som linjerna inte skiljer åt hamnar i
 samma cell, till exempel `2 445,1 -8 323,3 -5 878,2 143,4` eller
 `4 078⏎4 054`. Talen är rätt, men cellen är fel. I poolen gäller det
-minst 407 av 8 403 CSV:er. **En tabell med linjer där en cell rymmer mer
+minst 619 av 8 403 CSV:er. **En tabell med linjer där en cell rymmer mer
 än ett tal är därför inte längre säker.** Det prövas både på cellens text
-och på ordens lägen, med samma regel för fält som ovan. Tabellen prövas
+och på ordens lägen, med samma regel för fält som ovan men med ett
+tvetydigt mellanrum som gräns. Tabellen prövas
 i stället enligt reglerna ovan, och klarar den inte dem står den kvar i
 sidans text och sidan blir `tabell-osaker`. Det skärper ADR-0005:s definition av en säker
 tabell; resten av ADR-0005 gäller som förut.
@@ -85,8 +86,8 @@ förut.
 
 ### Consequences
 
-* Bra, eftersom budgettabeller med talen i linje blir CSV: i fyra
-  budgetdokument 98 tabeller med 612 rader, utan ett enda fel tal.
+* Bra, eftersom budgettabeller med talen i linje blir CSV: i två
+  budgetar och två årsredovisningar 98 tabeller med 612 rader, utan ett enda fel tal.
 * Bra, eftersom inget nytt beroende behövs, och regeln är kort nog att
   läsa i ARKITEKTUR.
 * Bra, eftersom en cell med flera tal, i de former reglerna känner igen,
@@ -94,7 +95,7 @@ förut.
 * Dåligt, eftersom många tabeller förblir osäkra: tabeller med en
   kodkolumn före etiketten, med centrerade tal, med åldrar eller år som
   etikett, eller med ett sidnummer eller en fotnot direkt under. I de fyra
-  dokumenten var 23 av 41 sidor fortfarande `tabell-osaker`.
+  dokumenten var 22 av 41 sidor fortfarande `tabell-osaker`.
 * Dåligt, eftersom en rad med bara årtal direkt ovanför tabellen, högst
   tre teckenhöjder ifrån, blir en talrad i följden, och då blir hela
   tabellen osäker.
@@ -107,14 +108,16 @@ förut.
 * Dåligt, eftersom rubrikerna oftast inte följer med: bara 14 av 98
   tabeller fick rubrikrader. Rubrikerna står kvar i texten ovanför.
 * Dåligt, eftersom en tabell med linjer som har flera tal i en cell nu
-  blir osäker också när en människa kan läsa den. Minst 407 av poolens
+  blir osäker också när en människa kan läsa den. Minst 619 av poolens
   8 403 CSV:er har en sådan cell, räknat på cellernas text. I
   stickproven var de flesta en hel rad med tal i en cell, till exempel
   fem procenttal per rad i personaltabellerna, eller sammanslagna
-  rader, men också rubriker som `Bokslut Bokslut⏎2024 2025` och listor
-  som `240304 1 st⏎240318 1 st`.
+  rader, men också rubriker som `Bokslut Bokslut⏎2024 2025`, en rubrik
+  och ett tal i samma cell som `Utfall 2022⏎50,1`, och listor som
+  `240304 1 st⏎240318 1 st`. Hit hör också några rutor med löptext där
+  två rader slutar på ett tal, som `artikel 33⏎och 34`.
 * Dåligt, eftersom fler sidor blir `tabell-osaker` i handlingarna från
-  nämnderna, när de fällda tabellerna med linjer märks: 53 blev 65 i
+  nämnderna, när de fällda tabellerna med linjer märks: 43 blev 69 i
   proven. Förut blev de flesta av dem `ok` med fel celler i en CSV.
 * Neutralt, eftersom en upphöjd fotnotssiffra direkt efter ett tal
   fortfarande står ihop med talet i texten, som förut. Den blir bara inte
@@ -131,8 +134,12 @@ förut.
 * Fixturer i `tests/fixtures/pdf/sidor.pdf` med facit som går att räkna
   för hand: en tabell utan lodräta linjer, en med rubrikrad, tom cell och
   streck, en där talen inte står i linje, en tabell med linjer där en
-  cell rymmer två tal, och en med en upphöjd fotnotssiffra direkt efter
-  ett tal (`tests/test_olinjerade.py`, `tests/test_konvertering.py`).
+  cell rymmer två tal, en där de två talen står under rader som läses
+  som en tabell utan lodräta linjer, och en med en upphöjd fotnotssiffra
+  direkt efter ett tal (`tests/test_olinjerade.py`,
+  `tests/test_konvertering.py`).
+* Celler med flera tal och med ett tal, som text och som ord med
+  koordinater (`tests/test_celler.py`).
 * Påhittade ord med koordinater prövar varje regel för sig: fälten, rader
   utan etikett, tal och streck ur linje, en kolumn med ett enda tal, text
   mellan kolumnerna, ett tvetydigt mellanrum, radavståndet, en tabell med
@@ -184,11 +191,11 @@ förut.
 2. **Mätningen.** Fyra dokument hämtades från kungsbacka.se 2026-10-08:
    kommunbudget 2027 och 2025 och årsredovisning 2025 och 2024. Med A
    blev 98 tabeller med 612 rader CSV, och 41 sidor med osäker tabell
-   blev 23. Ingen rad skilde sig från samma rad i pdfplumbers text med
+   blev 22. Ingen rad skilde sig från samma rad i pdfplumbers text med
    uppställning: etiketten och talen i samma ordning. Kolumnerna
    kontrollerades för hand mot sidan i nio tabeller. I 29 slumpvis valda
    handlingar från nämnderna (1 876 sidor) blev 6 tabeller med 61 rader
-   CSV, och 53 sidor med osäker tabell blev 65, eftersom 31 av 510
+   CSV, och 43 sidor med osäker tabell blev 69, eftersom 37 av 510
    tabeller med linjer fälldes för att en cell rymde flera tal. Där var
    de flesta osäkra
    "tabellerna" diagramaxlar, innehållsförteckningar och tabeller med en
@@ -238,5 +245,15 @@ förut.
    bredvid en tabell vars första kolumn är små heltal, som åldrar, kan
    bli etiketter; agenten hittade ingen regel för det som inte också
    fällde riktiga tabeller med en kolumn för noter.
+   Det fjärde varvet visade att enheter med versal (`1 200 Tkr 1 300 Tkr`)
+   och två tal med text emellan i en cell (`4 078⏎varav bidrag⏎4 054`,
+   `Medelvärde 4,5⏎Median 5`) gick igenom, att ett datum som `15 maj⏎2024`
+   fälldes, att en fälld tabell gav `ok` när en del av den lästs som
+   tabell utan lodräta linjer, och att ett tvetydigt mellanrum i en cell
+   gjorde varje ord till ett fält. Nu räknas raderna som är ett tal eller
+   en kort etikett följd av ett tal, var de än står i cellen, enheterna
+   är en fast lista i gemener eller versaler, sidan prövas på siffrorna i
+   den fällda tabellen, och bara det tvetydiga mellanrummet blir en
+   gräns.
 7. **Omprövas** om en vanlig sorts tabell förblir osäker, till exempel
    tabeller med kodkolumn; då kan reglerna utökas med fler etikettfält.

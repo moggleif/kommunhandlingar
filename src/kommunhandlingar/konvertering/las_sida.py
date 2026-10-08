@@ -54,7 +54,7 @@ def textsida(sida: Page) -> Sida:
     rutor += [t.bbox for t in utan_linjer]
     utanfor = sida.filter(lambda o: not i_tabell(o, rutor))
     text, osaker = stycken(utanfor.extract_text(layout=True))
-    osaker = osaker or not all(tackt(f, rutor) for f in fallda)
+    osaker = osaker or any(olast_siffra(c, fallda, rutor) for c in sida.chars)
     hittade = [(t.bbox, tabeller.rader(t)) for t in linjerade]
     hittade += [(t.bbox, t.rader) for t in utan_linjer]
     hittade.sort(key=lambda t: (round(t[0][1]), t[0][0]))
@@ -66,10 +66,10 @@ def textsida(sida: Page) -> Sida:
     )
 
 
-def tackt(ruta: tuple, rutor: list[tuple]) -> bool:
-    """En fälld tabell med linjer som lästs som tabell utan lodräta linjer."""
-    punkt = ((ruta[0] + ruta[2]) / 2, (ruta[1] + ruta[3]) / 2)
-    return any(tabeller.inom(punkt, r) for r in rutor)
+def olast_siffra(tecken: dict, fallda: list[tuple], rutor: list[tuple]) -> bool:
+    """En siffra i en fälld tabell med linjer som inte lästs i någon tabell."""
+    i_fallda = any(tabeller.inom(tabeller.mitt(tecken), f) for f in fallda)
+    return tecken["text"].isdigit() and i_fallda and not i_tabell(tecken, rutor)
 
 
 def i_tabell(objekt: dict, rutor: list[tuple]) -> bool:

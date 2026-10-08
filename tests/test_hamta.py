@@ -176,7 +176,7 @@ class TestSteg2(unittest.TestCase):
         self.assertEqual(rester, ["protokoll.md", "protokoll.tabeller"])
         self.assertEqual(
             sorted(p.name for p in katalog.iterdir()),
-            ["12-1.csv", "14-1.csv", "2-1.csv", "3-1.csv"],
+            ["12-1.csv", "14-1.csv", "16-1.csv", "2-1.csv", "3-1.csv"],
         )
 
     def test_bilaga_har_alltid_namn(self):

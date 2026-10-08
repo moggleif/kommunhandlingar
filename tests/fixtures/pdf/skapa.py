@@ -180,16 +180,18 @@ def kurvor(c: Canvas) -> None:
 
 
 def linjer_runt_tva_priser(c: Canvas) -> None:
-    """Ingen linje mellan de två priserna, och enheten gör raden till text."""
-    rutnat(c, [60, 210, 410], [775, 755, 735, 715])
-    for i, (namn, a, b) in enumerate(
-        [("Lunch", "1 200 kr", "1 300 kr"), ("Middag", "800 kr", "850 kr")]
-    ):
+    """Ingen linje mellan de två priserna, och enheten gör raden till text.
+    Raderna ovanför läses som tabell utan lodräta linjer och täcker rutans
+    mitt, men inte priserna."""
+    rader = [("Frukost", "50", "60"), ("Kaffe", "20", "25"), ("Te", "15", "20")]
+    rader += [("Fika", "30", "35")]
+    rader += [("Lunch", "1 200 kr", "1 300 kr"), ("Middag", "800 kr", "850 kr")]
+    rutnat(c, [60, 210, 410], [775 - 20 * i for i in range(len(rader) + 1)])
+    for i, (namn, a, b) in enumerate(rader):
         y = 760 - 20 * i
         c.drawString(65, y, namn)
         c.drawRightString(300, y, a)
         c.drawRightString(400, y, b)
-    c.drawString(65, 720, "Fika")
 
 
 SIDOR = [

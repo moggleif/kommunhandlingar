@@ -29,6 +29,11 @@ FLERA = [
     "- -2 001",
     "– –",
     "Intäkter\n4 078\n4 054",
+    "1 200 Tkr 1 300 Tkr",
+    "1 200 MKR\n1 300 MKR",
+    "4 078\nvarav bidrag\n4 054",
+    "Intäkter 4 078\nKostnader -1 845",
+    "2021\nMedelvärde 4,5\nMedian 5",
 ]
 ETT = [
     "4 078",
@@ -45,6 +50,8 @@ ETT = [
     "4 078 kr",
     "10 kap 1 och 2",
     "5 år (dag 5,15 och\n25 bevaras)",
+    "15 maj\n2024",
+    "1 och\n2 st",
 ]
 
 
@@ -69,6 +76,11 @@ class TestCeller(unittest.TestCase):
         self.assertTrue(flera_falt([ord_("120", 0, 15), ord_("135", 25, 40)]))
         kr = [ord_("1", 0, 5), ord_("200", 7, 22), ord_("kr", 24, 34)]
         self.assertTrue(flera_falt([*kr, ord_("-", 50, 54)]))
+
+    def test_tvetydigt_mellanrum_ar_en_grans(self):
+        ca = [ord_("ca", 0, 10), ord_("2", 17, 22), ord_("445", 24, 39)]
+        self.assertFalse(flera_falt(ca))
+        self.assertTrue(flera_falt([ord_("120", 0, 15), ord_("135", 22, 37)]))
 
     def test_etikett_och_tal_ar_ett_tal(self):
         self.assertFalse(flera_falt([ord_("Antal", 0, 25), ord_("135", 45, 60)]))

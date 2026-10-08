@@ -1,5 +1,5 @@
 """Krav: K5 i docs/02-KRAV.md, ADR-0005, ADR-0009 och ADR-0016.
-Test: tests/test_konvertering.py.
+Test: tests/test_konvertering.py och tests/test_celler.py.
 
 En säker tabell är avgränsad av ritade linjer: streck och fyllda
 rektanglar som är högst 2 punkter breda eller höga. Varje ord inom
@@ -10,22 +10,21 @@ tabellens yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer
 import csv
 import io
 import re
-from itertools import pairwise
 
 from pdfplumber.page import Page
 from pdfplumber.table import Table
 
-from kommunhandlingar.konvertering.falt import Falt, falt, radvis
+from kommunhandlingar.konvertering.falt import falt, radvis
 from kommunhandlingar.konvertering.text import TAL
 
 LINJEBREDD = 2
-# En rad i en cell som är ett tal, med eller utan parentes och en kort enhet,
-# eller ett streck.
-TALRAD = re.compile(
-    r"\(?[-−–+]?\d+(?:[  ]\d{3})*(?:[,.]\d+)?\)?(?: ?%| [a-zåäö]{1,4})?|[-−–]"
-)
+ENHET = r"%|kr|tkr|mkr|mnkr|mdkr|st"
+# Ett tal, med eller utan parentes och enhet.
+TALET = rf"\(?[-−–+]?\d+(?:[  ]\d{{3}})*(?:[,.]\d+)?\)?(?: ?(?:{ENHET}))?"
+TALRAD = re.compile(rf"{TALET}|[-−–]", re.IGNORECASE)
+# En etikett på ett eller två ord utan siffror följd av ett tal.
+ETIKETT_OCH_TAL = re.compile(rf"[^\d\s]+(?: [^\d\s]+)? {TALET}", re.IGNORECASE)
 VARDE = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?|[-−–]")
-ENHET = re.compile(r"%|kr|tkr|mkr|mnkr|mdkr|st")
 SKILJE = re.compile(r"\s+/\s+|[\s()]+")
 
 
@@ -65,13 +64,14 @@ def rymmer_flera_tal(tabell: Table, ord_: list[dict]) -> bool:
 
 def flera_tal(cell: str) -> bool:
     rader_ = [r.strip() for r in cell.split("\n")]
-    talrader = [TALRAD.fullmatch(r) is not None for r in rader_]
-    i_foljd = any(a and b for a, b in pairwise(talrader))
-    return i_foljd or any(map(flera_pa_raden, rader_))
+    med_tal = sum(
+        1 for r in rader_ if TALRAD.fullmatch(r) or ETIKETT_OCH_TAL.fullmatch(r)
+    )
+    return med_tal > 1 or any(map(flera_pa_raden, rader_))
 
 
 def flera_pa_raden(rad: str) -> bool:
-    delar = [d for d in SKILJE.split(rad) if d and not ENHET.fullmatch(d)]
+    delar = [d for d in SKILJE.split(rad) if d and not re.fullmatch(ENHET, d, re.I)]
     return (
         len(delar) > 1
         and all(VARDE.fullmatch(d) for d in delar)
@@ -83,8 +83,10 @@ def flera_falt(ord_: list[dict]) -> bool:
     """Två fält på samma rad i cellen som var för sig är ett tal eller ett
     streck."""
     for rad in radvis(ord_):
-        falt_ = falt(rad) or [Falt(o["text"], o["x0"], o["x1"]) for o in rad]
-        if sum(1 for f in falt_ if TALRAD.fullmatch(f.text)) > 1:
+        if (
+            sum(1 for f in falt(rad, dela_tvetydiga=True) if TALRAD.fullmatch(f.text))
+            > 1
+        ):
             return True
     return False
 

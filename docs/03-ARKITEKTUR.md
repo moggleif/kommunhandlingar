@@ -490,12 +490,13 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   rader och två kolumner, varje ord inom dess yta har sin mittpunkt i
   en cell, och ingen cell rymmer mer än ett tal. En cell rymmer mer än
   ett tal när
-  - två rader i följd i den var för sig är ett tal (med eller utan
-    förtecken, parentes, procenttecken eller en enhet på högst fyra
-    bokstäver) eller ett ensamt streck, som `4 078⏎4 054`,
-    `(2 100)⏎1 978` eller `Intäkter⏎4 078⏎4 054`;
+  - två rader i den var för sig är ett tal (med eller utan förtecken,
+    parentes eller någon av enheterna nedan), ett ensamt streck, eller
+    en etikett på ett eller två ord utan siffror följd av ett tal, som
+    `4 078⏎4 054`, `(2 100)⏎1 978`, `4 078⏎varav bidrag⏎4 054` eller
+    `Utfall 2022⏎50,1`;
   - en rad bara består av tal och streck, med enheterna `%`, `kr`, `tkr`,
-    `mkr`, `mnkr`, `mdkr` och `st` borträknade och mellanslag, parenteser
+    `mkr`, `mnkr`, `mdkr` och `st`, i gemener eller versaler, borträknade och mellanslag, parenteser
     och snedstreck med mellanslag omkring som skiljetecken, och de
     tillsammans inte är ett tal (en decimalpunkt räknas som
     decimalkomma), som `65,0 70,0`, `1 234 (1 150)`,
@@ -505,9 +506,10 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
     och ett tvetydigt mellanrum räknat som en gräns, som `120   135`.
 
   Två rader eller kolumner som linjerna inte skiljer åt hamnar annars i
-  samma cell. En sådan tabell blir ingen CSV. Läses den inte heller som
-  en tabell utan lodräta linjer står dess text kvar i sidans text, och
-  sidan blir `tabell-osaker`.
+  samma cell. En sådan tabell blir ingen CSV. Står en siffra ur den
+  utanför de tabeller som lästs säkert, också när en del av den lästs
+  som en tabell utan lodräta linjer, blir sidan `tabell-osaker`, och
+  texten står kvar i sidans text.
 - **En säker tabell utan lodräta linjer** läses ur de ord som står
   utanför tabellerna med linjer, enligt
   [Tabeller utan lodräta linjer](#tabeller-utan-lodrata-linjer).

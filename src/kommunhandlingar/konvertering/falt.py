@@ -1,4 +1,5 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0016. Test: tests/test_olinjerade.py.
+"""Krav: K5 i docs/02-KRAV.md, ADR-0016. Test: tests/test_olinjerade.py och
+tests/test_celler.py.
 
 Ord på en rad delas i fält efter mellanrummen: högst en halv teckenhöjd
 är samma fält, minst en hel ett nytt, och däremellan tvetydigt
@@ -29,15 +30,16 @@ def radvis(ord_: list[dict]) -> list[list[dict]]:
     return [sorted(g, key=lambda o: o["x0"]) for g in grupper]
 
 
-def falt(ord_: list[dict]) -> list[Falt] | None:
-    """Radens fält, eller None när ett mellanrum är tvetydigt."""
+def falt(ord_: list[dict], dela_tvetydiga: bool = False) -> list[Falt] | None:
+    """Radens fält. Ett tvetydigt mellanrum ger None, eller en gräns när
+    `dela_tvetydiga` är satt."""
     grupper = [[ord_[0]]]
     for vanster, hoger in pairwise(ord_):
         mellanrum = hoger["x0"] - vanster["x1"]
         hojd = max(o["bottom"] - o["top"] for o in (vanster, hoger))
         if mellanrum <= SAMMA_FALT * hojd:
             grupper[-1].append(hoger)
-        elif mellanrum >= NYTT_FALT * hojd:
+        elif mellanrum >= NYTT_FALT * hojd or dela_tvetydiga:
             grupper.append([hoger])
         else:
             return None
