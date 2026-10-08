@@ -11,7 +11,7 @@ permissions:
 jobs:
   prov:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 150
     steps:
       - name: Äldsta generationen (~/link/)
         run: |
@@ -35,7 +35,7 @@ jobs:
                       print("FEL", url, fel); time.sleep(15 * (forsok + 1))
               return ""
           bas = "kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/"
-          q = urllib.parse.urlencode({"url": bas, "matchType": "prefix", "filter": ["statuscode:200", "mimetype:text/html"], "fl": "timestamp,original", "collapse": "timestamp:6"}, doseq=True)
+          q = urllib.parse.urlencode({"url": bas, "matchType": "prefix", "filter": ["statuscode:200", "mimetype:text/html"], "fl": "timestamp,original", "collapse": "timestamp:4"}, doseq=True)
           lista = [r.split() for r in hamta("https://web.archive.org/cdx/search/cdx?" + q).splitlines()]
           lista = [(t, u) for t, u in lista if re.search(r"sammantraden/[a-z-]+-sammantraden/?$", u)]
           print("SNAPSHOTS", len(lista))
@@ -48,4 +48,4 @@ jobs:
               for nod, namn in filer:
                   print("FIL", t, u.rstrip("/").split("/")[-1], nod, urllib.parse.unquote(namn))
           PY
-          python3 sidor.py
+          python3 -u sidor.py
