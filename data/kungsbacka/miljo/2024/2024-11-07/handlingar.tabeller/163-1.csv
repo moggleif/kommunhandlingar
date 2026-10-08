@@ -1,0 +1,16 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärende enligt livsmedelslagen,,,,
+Processgrupp:,Hantera prövning livsmedelsanläggningar,,,,
+Process:,Prövning utfärda exportintyg,,,,
+Processnummer:,7.6.1.07,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Begäran kommer in,Begäran,EDP Vision,Digitalt,Se anmärkning,"Gallras när verksamheten upphört eller
+inom 10 år."
+"Granska begäran och
+kvalitetssäkra",Produktbeskrivning,EDP Vision,Digitalt,Se anmärkning,"Kan gallras när verksamheten upphör eller
+inom 10 år."
+Utfärda intyg,Exportintyg,EDP Vision,Digitalt,Se anmärkning,"Kan gallras när verksamheten upphör eller
+inom 10 år."
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning. Överklagan
+avser avgiften."

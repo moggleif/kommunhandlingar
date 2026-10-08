@@ -1,0 +1,26 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,HR/Personal,,,,
+Processgrupp:,Kompetensförsörjning,,,,
+Process:,Hantera omställning,,,,
+Processnummer:,2.3.2.5,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+,"Genomförd
+omplaceringsutredning",PersonaktNovi,Digitalt,Bevaras,
+,"Erbjudande om
+omplacering till annan
+enhet",Personakt,Papper,Bevaras,
+,Beslut om omplacering,Personakt,Papper,Bevaras,
+,"Anmälan om företräde
+till återanställning",Personakt,"PapperSe
+anmärkning",Bevaras,"Anmälan på papper förvaras i fysisk
+personakt, digital anmälan förvaras i digital
+personakt."
+,"Överenskommelse om
+tillfällig anställning",Personakt,Papper,Bevaras,"Vid exempelvis utlån mellan förvaltningar,
+helgtjänstgöring, tidsbegränsat chefsskap och
+utbyte med universitet."
+,"Beslut om nedsättning
+av tjänst",Personakt,Papper,Bevaras,"Exempelvis beslut från Försäkringskassan om
+delvis sjukersättning."
+,"Överenskommelse om
+tidsbegränsat chefskap",Personakt,Papper,Bevaras,Kan även kallas förordnande.

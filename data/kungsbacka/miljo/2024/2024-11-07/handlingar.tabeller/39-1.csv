@@ -1,0 +1,36 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Hantera prövning om miljöfarlig verksamhet,,,,
+Process:,Prövning installation av värmepump,,,,
+Processnummer:,7.5.1.07,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Anmälan med bilagor
+kommer in och
+mottagningsbekräftelse
+skickas ut",Anmälan,EDP Vision,Digitalt,Bevaras,
+,Mottagningsbekräftelse,EDP Vision,Digitalt,5 år,
+,Situationsplan,EDP Vision,Digitalt,Bevaras,
+,Ritning,EDP Vision,Digitalt,Bevaras,
+,Produktinformation,EDP Vision,Digitalt,Bevaras,
+Granska,Kompletteringsbegäran,EDP Vision,Digitalt,5 år,
+,"Begäran om yttrande/
+remiss",EDP Vision,Digitalt,5 år,
+,Yttrande/remissvar,EDP Vision,Digitalt,Bevaras,
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+"Besluta samt skicka ut
+tidkort",Beslut,EDP Vision,Digitalt,Bevaras,
+,Tidkort,EDP Vision,Digitalt,5 år,
+"Delge beslut och
+signerat
+delgivningskvitto
+kommer in",Delgivningskvitto,EDP Vision,Digitalt,5 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,5 år,
+"Överklagan kommer
+in",Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

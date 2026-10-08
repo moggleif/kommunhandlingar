@@ -1,0 +1,18 @@
+Verksamhetstyp:,Styrande,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Hantera prövning om miljöfarlig verksamhet,,,,
+Process:,Klassning och avgift (gemensam process för miljöskydd och hälsoskydd),,,,
+Processnummer:,7.5.1.11,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Kommunicera med
+verksamhetsutövare",Underrättelse,EDP Vision,Digitalt,Bevaras,
+,Synpunkter,EDP Vision,Digitalt,Bevaras,
+Besluta om avgift,Beslut,EDP Vision,Digitalt,Bevaras,
+"Delge beslut och
+signerat
+delgivningskvitto
+kommer in",Delgivningskvitto,EDP Vision,Digitalt,10 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,10 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

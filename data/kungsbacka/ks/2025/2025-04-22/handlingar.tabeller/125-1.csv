@@ -1,0 +1,26 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Ledning,,,,
+Processgrupp:,Verksamhetsledning,,,,
+Process:,Hantera skadeståndsanspråk,,,,
+Processnummer:,1.1.3.5,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Initiera och
+sammanställa",Krav/anmälan,Diarium,Digitalt,Bevaras,"Ev. pappershandlingar skannas och förs till ärendet
+i diarium."
+,Kvitton,Diarium,Digitalt,Bevaras,"Ev. pappershandlingar skannas och förs till ärendet
+i diarium."
+,Bilder,Diarium,Digitalt,Bevaras,"Ev. pappershandlingar skannas och förs till ärendet
+i diarium."
+,"Korrespondens av
+betydelse",Diarium,Digitalt,Bevaras,"Ev. pappershandlingar skannas och förs till ärendet
+i diarium."
+,Tjänsteanteckning,Diarium,Digitalt,Bevaras,
+Utreda,Utredning,Diarium,Digitalt,Bevaras,"Utredning görs av extern försäkringsmäklare eller
+försäkringsbolag. Ev. pappershandlingar skannas
+och förs till ärendet i diarium."
+,Besked,Diarium,Digitalt,Bevaras,"Ev. pappershandlingar skannas och förs till ärendet
+i diarium."
+,Bokföringsorder,Diarium,Digitalt,Bevaras,"Bokföringsorder för utbetalning av skadestånd finns
+även i ekonomisystemet."
+,Regresskrav,Diarium,Digitalt,Bevaras,"Ev. pappershandlingar skannas och förs till ärendet
+i diarium."

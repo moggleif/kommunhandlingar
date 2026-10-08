@@ -1,0 +1,23 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt alkohollagen och tobakslagen,,,,
+Processgrupp:,"Hantera prövning enligt alkohollagen, tobakslagen och lagen om receptfria läkemedel",,,,
+Process:,Prövning återkallelse av tobakstillstånd,,,,
+Processnummer:,7.7.2.06,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Återkallelse av
+tobakstillstånd kommer in
+och
+mottagningsbekräftelse
+skickas ut",Återkallelse,EDP Vision,Digitalt,Bevaras,"Återkallelse av tobakstillstånd egen begäran
+och konkurs."
+,Mottagningsbekräftelse,EDP Vision,Digitalt,5 år,
+"Besluta om återkallelse
+av tobakstillstånd",Tjänsteskrivelse,EDP Vision,Digitalt,Bevaras,
+,Beslut,EDP Vision,Digitalt,Bevaras,
+"Delge beslut och signerat
+delgivningskvitto kommer
+in",Delgivningskvitto,EDP Vision,Digitalt,5 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,5 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

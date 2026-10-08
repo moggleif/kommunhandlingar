@@ -1,0 +1,34 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt alkohollagen och tobakslagen,,,,
+Processgrupp:,Hantera prövning enligt alkohollagen,,,,
+Process:,Prövning tillfälligt serveringstillstånd,,,,
+Processnummer:,7.7.1.02,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Ansökan med bilagor
+kommer in och
+mottagningsbekräftelse
+skickas ut",Ansökan,EDP Vision,Digitalt,5 år,
+,Mottagningsbekräftelse,EDP Vision,Digitalt,5 år,
+Bilagor till ansökan,Planritning,EDP Vision,Digitalt,5 år,
+,Kreditupplysning,EDP Vision,Digitalt,5 år,
+,Fullmakt,EDP Vision,Digitalt,5 år,
+,Verksamhetsbeskrivning,EDP Vision,Digitalt,5 år,
+,Meny,EDP Vision,Digitalt,5 år,
+,Hyresavtal,EDP Vision,Digitalt,5 år,
+,Skuldebrev,EDP Vision,Digitalt,5 år,
+,Kontoutdrag,EDP Vision,Digitalt,5 år,
+,Kunskapsprov,EDP Vision,Digitalt,5 år,
+"Skicka ut bekräftelse på
+komplett ansökan eller
+begäran om
+komplettering","Begäran om
+komplettering",EDP Vision,Digitalt,5 år,
+,Mottagningsbevis,EDP Vision,Digitalt,5 år,
+Utreda,Tjänsteanteckning,EDP Vision,Digitalt,5 år,"Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Korrespondens,EDP Vision,Digitalt,5 år,"Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,"Begäran om
+yttrande/remiss",EDP Vision,Digitalt,5 år,
+,Yttrande/remissvar,EDP Vision,Digitalt,5 år,
+,Utredning,EDP Vision,Digitalt,5 år,

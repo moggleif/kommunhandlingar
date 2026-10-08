@@ -1,0 +1,21 @@
+System,Typ,Operativsystem/plattformsstöd,Webbläsare eller appplattform
+Combine,Webb,"Windows 10 Pro 64-bit eller senare
+rekommenderas. Interna tester görs på
+Windows 10 och 11. Combine bör fungera
+även på macOS och Linux, men detta testas
+inte av leverantören.","Edge och Chrome rekommenderas.
+Safari och Firefox bör fungera."
+,Mobil,"Android och iOS stöds. Nuvarande OS-version
+och en version bakåt testas.",Mobilapp för Android och iOS.
+Intraphone,Webb,"Webbapplikation med krav på
+internetuppkoppling.","Chromebaserade webbläsare, till
+exempel Edge och Chrome."
+,Mobil,Android 11.0 eller senare.,"Mobilapp för Android. Google Play-
+konto rekommenderas för varje enhet."
+Alfa,Webb,"Windows 7-11. Fungerar även på de flesta
+andra plattformar såsom Android, iPhone och
+iPad, med begränsad funktionalitet.","Google Chrome och Edge. JavaScript
+och cookies ska vara aktiverade för
+https://alfaecaresignit.se."
+,Mobil,Android 11 eller högre samt iOS 15 eller högre.,"Mobilapp via Google Play eller App
+Store."

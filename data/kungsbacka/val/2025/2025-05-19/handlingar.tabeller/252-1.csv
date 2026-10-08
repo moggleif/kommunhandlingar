@@ -1,0 +1,31 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,HR/Personal,,,,
+Processgrupp:,Upphörande av anställning,,,,
+Process:,Hantera uppsägning från arbetsgivaren,,,,
+Processnummer:,2.3.9.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Informera,"Kopia på varsel om
+uppsägning",Se anmärkning,Papper,Se anmärkning,"Original skickas till fack. Varsel som resulterar i
+avslut bevaras i Novi.
+Varsel som inte resulterar i avslut e-postas till
+personalarkiv och gallras efter 2 år.
+personalarkivet@kungsbacka.se"
+,"Kopia på
+underättelse om
+uppsägning",Se anmärkning,Digitalt,Se anmärkning,"Original skickas till medarbetare. Underättelse som
+resulterar i avslut bevaras i Novi.
+Underrättelse som inte resulterar i avslut e-postas
+till personalarkiv och gallras efter 2 år.
+personalarkivet@kungsbacka.se"
+,"Kopia på varsel om
+avsked",Se anmärkning,Papper,Se anmärkning,"Original skickas till berörd. Varsel som resulterar i
+avslut bevaras i Novi.
+Varsel som inte resulterar i avslut e-postas till
+personalarkiv och gallras efter 2 år.
+personalarkivet@kungsbacka.se"
+,"Kopia på
+underättelse om
+avsked",Se anmärkning,Papper,Se anmärkning,"Original skickas till berörd. Underättelse som
+resulterar i avslut bevaras i Novi."
+Besluta,"Besked om avslut
+av anställning",Personakt,Papper,Bevaras,

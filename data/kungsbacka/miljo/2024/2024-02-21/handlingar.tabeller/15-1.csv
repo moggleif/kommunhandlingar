@@ -1,0 +1,33 @@
+Spec Ansv/vks/proj,"Driftredovisning/
+Projektnamn",Bokslut 2023,,,Orsak samt nämndens begäran om resultatdisponering till bokslut o budgetavvikelse,,,,,,,,,
+,,,,,Underskott,,Överskott,,,,Summering - nämndens förslag till beslut,,,
+,,Årsbudget,Utfall,Avvikelse,Ombudgeteras,"Förs till
+resultatfond","Typ 1 - ej
+utförverksamhet
+återredovisas","Typ 2 - versamhet
+till annan nämnd
+återredovisas","Typ 3 - egna
+effektiviseringar
+till resultatfond","Typ 4 - Pågående
+ej avslutade
+projekt
+Ombudgeteras","Summa till
+resultatfond","Summa att
+ombudgetera","Summa att
+återredovisa","Kontrollsumma mot
+bokslutsavvikelse. BÖR
+SLUTA MED ""0"" I
+SUMMAN"
+A,B,C,D,E=D-C,F,G,H,I,J,K,L=G+J,M=F+K,N=H+I,O=F+G+H+I+J+K-E
+"Nämndverksamhet
+7100",Drift,-955,-947,"8,0",,,8,,,,0,0,8,0
+"Nämndverksamhet
+7100","Projekt 1713
+Utbildning NMH",-389,-64,"325,0",,,,,,325,0,325,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+Totalt nämnden,,-1 344,-1 011,333,0,0,8,0,0,325,0,325,8,0
