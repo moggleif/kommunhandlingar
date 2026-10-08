@@ -248,7 +248,12 @@ och släpper in oss prövas i Actions innan PR:en mergas.
    mötessida utan kopior ska nämnas. Vid provet 2026-10-08 svarade
    arkivet ibland med en HTML-sida, "Temporarily Offline", i stället för
    CDX-listan; den räknas som en fråga som inte besvaras.
-9. **`%%EOF` bara för arkivet.** Kapningen har bara setts i arkivet; för
+9. **Avstängt till att börja med.** Ägaren beslutade samma kväll att
+   arkivet inte ska köras förrän konverteringen och hanteringen av
+   dokumenten är bra, eftersom dokumenten annars kan behöva göras om.
+   Koden finns, men Kungsbackas kommunfil har `wayback = false`. Att slå
+   på arkivet är att ändra den raden.
+10. **`%%EOF` bara för arkivet.** Kapningen har bara setts i arkivet; för
    de levande källorna fångar HTTP-klienten ett avbrutet svar. Kontrollen
    tillåter några byte efter `%%EOF`, som filer ofta har.
 

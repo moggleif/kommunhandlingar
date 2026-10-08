@@ -33,7 +33,7 @@ class TestKommunfilen(unittest.TestCase):
         self.assertEqual(len(kommun.organ), 17)
         self.assertEqual(kommun.organ[0].id, "ga")
         self.assertEqual([o.id for o in kommun.organ[-3:]], ["ks", "ks-au", "kf"])
-        self.assertTrue(kommun.kallor[0].wayback)
+        self.assertFalse(kommun.kallor[0].wayback)
 
     def test_utan_arkiv(self):
         self.assertFalse(las(FIXTURER / "exempelby.toml").kallor[0].wayback)

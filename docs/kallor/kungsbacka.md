@@ -202,9 +202,10 @@ politik-repot fick 404 på `globalassets`-adresserna.
 | Episerver, `globalassets` | 2017–2022 | `www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/<organ>/<typ>/<år>/[<datum>/]<fil>.pdf` | Handlingarna **en PDF per ärende** |
 | Sitevision | 2021 → | `kungsbacka.se/download/18.<nod-id>/<tidsstämpel>/<filnamn>` | Som i avsnitt 1 |
 
-Sitevision-generationen hämtas i nattkörningen, sist och nyast först
-([ADR-0018](../decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md));
-de två Episerver-generationerna hämtas inte än.
+Sitevision-generationen kan hämtas i nattkörningen, sist och nyast först
+([ADR-0018](../decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)),
+men är avstängd (`wayback = false`) tills konverteringen är färdig. De två
+Episerver-generationerna hämtas inte än.
 
 Organ och typ står i sökvägen i de två Episerver-generationerna, och i
 filnamnet hos Sitevision. Organen hette annorlunda förr, och några finns
