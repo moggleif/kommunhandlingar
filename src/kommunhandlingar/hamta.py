@@ -3,7 +3,8 @@ Test: tests/test_hamta.py.
 
 Steg 2: `python -m kommunhandlingar.hamta <kommunfil> <arbetskatalog> [--start N]`.
 Läser kandidatlistan från steg 1 och tar kandidaterna i dess ordning, ett
-dokument i taget, in i `data/` i samma repo som kommunfilen. Med `--start`
+dokument i taget, in i `data/` i samma repo som kommunfilen; de som bara
+ska konverteras om tas sist (ADR-0019). Med `--start`
 gäller tidsbudgeten i K11, räknad från jobbets start.
 """
 
@@ -16,7 +17,7 @@ from importlib.metadata import version
 from pathlib import Path
 
 from kommunhandlingar import konfiguration, pool, tidsbudget
-from kommunhandlingar.behandla import Steg2, behandla
+from kommunhandlingar.behandla import Steg2, behandla, ordna
 from kommunhandlingar.fel import Konfigurationsfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
@@ -70,7 +71,7 @@ def main(kommunfil: Path, arbetskatalog: Path, start: datetime | None) -> None:
     if start:
         tidsbudget.starta_hard_grans(start, nu())
     try:
-        utfall = kor(steg, kandidater, tidsbudget.mjuk_grans(start))
+        utfall = kor(steg, ordna(steg, kandidater), tidsbudget.mjuk_grans(start))
     finally:
         tidsbudget.stoppa()
     for resultat, antal in sorted(utfall.items()):

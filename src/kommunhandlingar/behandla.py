@@ -1,9 +1,9 @@
-"""Krav: K4, K6, K8 och K9 i docs/02-KRAV.md, ADR-0003 och ADR-0004.
+"""Krav: K4, K6, K8 och K9 i docs/02-KRAV.md, ADR-0003, ADR-0004 och ADR-0019.
 Test: tests/test_hamta.py.
 
-Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta,
-konvertera och skriv. Ett misslyckat försök skriver aldrig över en
-fullständig `.md`. K8:s regel om äldre ögonblicksbilder väntar på
+Steg 2 för en kandidat: hoppa över det som redan finns i poolens version,
+annars hämta, konvertera och skriv. Ett misslyckat försök skriver aldrig
+över en fullständig `.md`. K8:s regel om äldre ögonblicksbilder väntar på
 Wayback-adaptern. Skrivningen avbryts aldrig av tidsgränsen (K11).
 """
 
@@ -51,7 +51,7 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
     else:
         dokument = Dokument(kandidat, sokvag, steg.pool.efter_sokvag[sokvag])
     gammal = dokument.befintlig
-    if sokvag and gammal["kalla_url"] == kandidat.url and hel(gammal):
+    if sokvag and samma_kalla(gammal, kandidat) and aktuell(steg, gammal):
         return "oförändrad"
     with tempfile.TemporaryDirectory() as katalog:
         pdf = Path(katalog) / "original.pdf"
@@ -65,6 +65,27 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
 
 def hel(falt: dict[str, str]) -> bool:
     return falt["kvalitet"] != "ej-hamtad"
+
+
+def samma_kalla(falt: dict[str, str], kandidat: Kandidat) -> bool:
+    return falt["kalla_url"] == kandidat.url and hel(falt)
+
+
+def aktuell(steg: Steg2, falt: dict[str, str]) -> bool:
+    return falt["pipeline"].split(" / ")[0] == steg.version
+
+
+def ordna(steg: Steg2, kandidater: list[Kandidat]) -> list[Kandidat]:
+    """Kandidater som bara ska konverteras om sist, i övrigt i listans ordning."""
+
+    def bara_omkonvertering(kandidat: Kandidat) -> bool:
+        sokvag = steg.pool.efter_nyckel.get(kandidat.kallnyckel)
+        gammal = steg.pool.efter_sokvag.get(sokvag)
+        return (
+            bool(gammal) and samma_kalla(gammal, kandidat) and not aktuell(steg, gammal)
+        )
+
+    return sorted(kandidater, key=bara_omkonvertering)
 
 
 def placera(steg: Steg2, kandidat: Kandidat) -> Dokument:
@@ -109,10 +130,11 @@ def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtad: datetime) -> 
     with pdf.open("rb") as fil:
         sha256 = hashlib.file_digest(fil, "sha256").hexdigest()
     gammal = dokument.befintlig
-    if gammal and (gammal["kallnyckel"], gammal["sha256"]) == (
+    samma_fil = gammal is not None and (gammal["kallnyckel"], gammal["sha256"]) == (
         dokument.kandidat.kallnyckel,
         sha256,
-    ):
+    )
+    if samma_fil and aktuell(steg, gammal):
         return ny_adress(steg, dokument)
     resultat = konvertera(pdf)
     falt = grundfalt(steg, dokument) | kvalitetsfalt(steg, resultat)
@@ -124,7 +146,7 @@ def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtad: datetime) -> 
         katalog = skrivning.tabellkatalog(md).name
         text += "\n" + skrivning.brodtext(resultat.sidor, katalog)
     spara(steg, dokument.sokvag, text, skrivning.tabellfiler(resultat.sidor or []))
-    return "konverterad"
+    return "konverterad om" if samma_fil else "konverterad"
 
 
 def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
