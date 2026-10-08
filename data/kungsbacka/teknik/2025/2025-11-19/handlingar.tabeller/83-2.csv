@@ -1,0 +1,37 @@
+"30-, 31-, 32- Aerobt granulärt slam (AGS)",,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+"Q-medel inklusive internströmmar, 50%",8 724,11 287,m³/d
+Antal buffertbassänger inlopp,1,1,st
+"Buffertbassäng inlopp, längd","22,25","22,25",m
+"Buffertbassäng inlopp, bredd","13,1","13,1",m
+"Buffertbassäng inlopp, djup vatten","7,6","7,6",m
+"Buffertbassäng inlopp, djup bassäng",,,m
+Processvolym buffertbassäng inlopp,2215,2215,m³
+Antal Bioreaktorer,2,2,st
+"Bioreaktor, längd","27,4","27,4",m
+"Bioreaktor, bredd","17,75","17,75",m
+Djup processvolymer,"9,0","9,0",m
+"Bioreaktorer, djup bassäng",,,m
+Processvolym totalt bioreaktorer,8754,8754,m³
+SS koncentration,,,kg SS/m³
+"Blåsmaskiner, antal",4,4,st
+Luftflöde per maskin,3000,3000,Nm3/h
+Design T,13,13,° C
+Antal buffertbassäng utlopp,1,1,st
+"Buffertbassäng utlopp, längd","14,65","14,65",m
+"Buffertbassäng utlopp, bredd","12,9","12,9",m
+"Buffertbassäng utlopp, djup vatten","7,0","7,0",m
+"Buffertbassäng utlopp, djup bassäng","7,7","7,7",m
+Processvolym buffertbassäng utlopp,1323,1323,m³
+,,,
+"Inkommande BOD , mängd
+7",1396,1794,kg/d
+"Inkommande N, mängd",422,490,kg/d
+"Inkommande P, mängd",51,65,kg/d
+"Inkommande SS, mängd",1278,1666,kg/d
+"Utgående BOD -halt (omräknad från BOD )
+7 5",9,9,mg/l
+Utgående N-halt,"7,4","7,4",mg/l
+Utgående P-halt,"1,0","1,0",mg/l
+Utgående SS-halt,15,15,mg/l

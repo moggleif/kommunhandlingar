@@ -1,0 +1,16 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,HR/Personal,,,,
+Processgrupp:,Personalhälsa,,,,
+Process:,Utföra medicinska kontroller,,,,
+Processnummer:,2.3.5.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera medicinska
+kontroller","Korrespondens med
+företagshälsovård och
+medarbetare",Outlook,Digitalt,Vid inaktualitet,Uppgifter av ringa karaktär.
+,Tjänstbarhetsintyg,Personakt,Papper,Bevaras,"Intyg som krävs för vissa riskfyllda arbeten enligt
+Arbetsmiljöverkets föreskrift om medicinska
+kontroller."
+,"Resultat av
+drogtestning",Adato,Digitalt,"Vid avslutad
+anställning",

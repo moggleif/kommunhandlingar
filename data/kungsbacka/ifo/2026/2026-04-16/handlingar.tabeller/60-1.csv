@@ -1,0 +1,32 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för personer med funktionsnedsättning,,,,
+Process:,Hantera gruppbostad och servicebostad,,,,
+Processnummer:,6.5.2.11,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn
+bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Genomföra insats,Genomförandeplan,Combine,Digital,5 år/Bevaras,
+,Handlingsplan,Combine,Digital,5 år/Bevaras,
+,Journalanteckning,Combine,Digital,5 år/Bevaras,
+,Egenvårdsblankett,Combine,Digital,5 år/Bevaras,
+,Välkomstsamtal,Combine,Digital,5 år/Bevaras,Dokumenteras genom journalanteckning.
+,"Kopia av
+anteckningar från
+annan
+kommun/landsting",Combine,"Digital/
+papper",Se anmärkning,"Relevanta anteckningar tillförs personakt. Övrigt
+gallras när det inte längre behövs för verksamheten."
+,"Korrespondens av
+vikt med brukare,
+närstående,
+ställföreträdare,
+ombud",Combine,Digital,5 år/Bevaras,"Läggs in som sammanfattande journalanteckning i
+Combine."
+,"Nyckelkvittenser,
+boendes nycklar",Låst skåp,Papper,Se anmärkning,Gallras 2 år efter återlämnande
+,"Redovisning av
+boendes privata
+medel",Combine,Digitalt,5 år/Bevaras,"Redovisning ges till god man och överenskommelse
+läggs in i Combine."

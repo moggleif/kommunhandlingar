@@ -1,0 +1,40 @@
+Verksamhetstyp:,Samhällsbyggnad,,,,
+Verksamhetsområde:,Hantera tekniska frågor,,,,
+Processgrupp:,"Gator, vägar och parkering",,,,
+Process:,Föreningsbidrag samhällsbyggnad,,,,
+Processnummer:,8.2.5.7,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Leda - Styra -
+Organisera","Riktlinjer för lekplatsbidrag,
+särskilt vägbidrag och
+vägbidrag",Ciceron,Digitalt,Bevaras,
+"Hantera
+vägföreningar","Karta över
+vägföreningsområde",QGIS,Digitalt,Se anm.,Uppdateras löpande.
+,Register över vägföreningar,QGIS,Digitalt,Se anm.,Uppdateras löpande.
+Hantera vägbidrag,"Ansökan om kommunalt
+vägbidrag för enskilda vägar","Open ePlatform/
+E-arkiv",Digitalt,Bevaras,"Inklusive eventuella bilagor, till exempel
+årsmötesprotokoll, ekonomisk redovisning
+och karta. Överförs årligen till
+förvaltningens mellanarkiv i e-arkivet."
+,"Beslut om kommunalt
+vägbidrag för enskilda vägar","Open ePlatform/
+E-arkiv",Digitalt,Bevaras,"Överförs årligen till förvaltningens
+mellanarkiv i e-arkivet."
+"Hantera särskilt
+vägbidrag","Ansökan om kommunalt
+särskilt vägbidrag","Open ePlatform/
+E-arkiv",Digitalt,Bevaras,"Inklusive bilagor till exempel offert och
+foton. Överförs årligen till förvaltningens
+mellanarkiv i e-arkivet."
+,"Beslut om kommunalt särskilt
+vägbidrag","Open ePlatform/
+E-arkiv",Digitalt,Bevaras,"Överförs årligen till förvaltningens
+mellanarkiv i e-arkivet."
+"Hantera
+lekplatsbidrag","Ansökan om kommunalt
+bidrag för lekplatser","Open ePlatform/
+E-arkiv",Digitalt,Bevaras,"Inklusive bilagor till exempel offert och
+foton. Överförs årligen till förvaltningens
+mellanarkiv i e-arkivet."

@@ -1,0 +1,33 @@
+64-Slamavvattning,,,
+Parameter,Värde,Värde,Enhet
+Kapacitet per maskin,620,620,kg TS/d
+Normal/förväntad drift per maskin*,300,300,kg TS/d
+Slammängd att avvattna,4 614,7 505,kg TS/d
+TS slam in,"2,5–5","2,5–5",%
+Slamflöde in,91–183,115–229,m³/d
+TS slam ut,20–25,20–25,%
+Slamflöde ut,18–23,30–38,m³/d
+Rejektvatten,133,163,m³/d
+Avvattning alternativ drift – separata linjer,,,
+Pumpar primärslam till avvattning (2 totalt) (separata linjer),,,
+"Flöde (TS 2,5–5%)",51–102,67–133,m3/d
+"Flöde, 20 h/d","2,6–5,1","3,3–6,7",m3/h
+Antal pumpar i drift,1,1,
+Dim kapacitet per pump,"5,1","6,7",m3/h
+Vald kapacitet,,,m3/h
+Pumpar bioslam till avvattning (2 totalt) (separata linjer),,,
+"Flöde (TS 2,5–5%)",40–80,48–80,m3/d
+"Flöde, 20 h/d","2,0–4,0","2,4–4,8",m3/h
+Antal pumpar i drift,1,1,
+Dim kapacitet per pump,"4,0","4,8",m3/h
+Vald kapacitet,,,m3/h
+Avvattning primärslam (separata linjer),,,
+TS-mängd,2 555,3 333,kg TS/d
+"TS-mängd, 20 h/d",128,166,kg TS/h
+"Flöde in, 20 h/d (TS 2,5–5%)","2,0–4,0","2,4–4,8",m3/h
+"Flöde ut, 20–25% TS",10–13,13–17,m3/d
+Avvattning bioslam (separata linjer),,,
+TS-mängd bioslam,2 009,2 398,kg TS/d
+"TS-mängd, 20 h/d",102,206,kg TS/h
+"Flöde in, 20 h/d (TS 2,5–5%)","2,0–4,0","2,4–4,8",m3/h
+"Flöde ut, 20–25% TS",8–10,10–12,m3/d

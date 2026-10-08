@@ -4,6 +4,8 @@
 
 - Python 3.12 eller senare
 - git
+- Tesseract med svensk modell, för OCR och testerna
+  (`apt-get install tesseract-ocr tesseract-ocr-swe`)
 
 ## Uppsättning från en tom maskin
 
@@ -77,14 +79,34 @@ python3 -m kommunhandlingar.hamta kommuner/kungsbacka.toml /tmp/kommunhandlingar
 PDF-fixturerna i `tests/fixtures/pdf/` skapas av `skapa.py` där bredvid,
 som behöver reportlab, pypdf och Pillow. De är inte projektets beroenden.
 
+## Figurerna
+
+Sidor med figurer tolkas för hand av en Claude-session, i omgångar, enligt
+`.claude/skills/tolka-figurer/SKILL.md` (K15, ADR-0017). Kommandona och
+formatet står under "Tolkade figurer" i [03-ARKITEKTUR.md](03-ARKITEKTUR.md).
+
 ## Undantag
 
-- Rader per funktion eller fil: `# undantag: <skäl>` på `def`-raden, eller
-  på första raden för en hel fil.
+- Rader per funktion: `# undantag: <skäl>` på `def`-raden. En fil har
+  inget undantag; blir den för lång delas den.
 - Ruffs gränser: `# noqa: <regel>  # undantag: <skäl>` på raden ruff pekar ut.
 
-Datakontrollerna, bland dem kontrollen av härkomst i dokumentens front
-matter (ADR-0001), kommer med pipelinen, när det finns dokument att
-kontrollera. Vilka de är, och vilken som bara körs i den schemalagda
+## Datakontrollerna
+
+CI och den schemalagda körningen prövar allt under `data/` (K11):
+
+```sh
+python3 -m kommunhandlingar.datakontroll data
+```
+
+Vilka kontrollerna är, och vilken som bara körs i den schemalagda
 körningen innan den checkar in, står under "Körning och incheckning" i
-[03-ARKITEKTUR.md](03-ARKITEKTUR.md) (ADR-0006).
+[03-ARKITEKTUR.md](03-ARKITEKTUR.md) (ADR-0006, ADR-0015).
+
+## Den schemalagda körningen
+
+`.github/workflows/nattkorning.yml` går varje natt och kan startas för
+hand under Actions. Den pushar en gren `nattkorning/<datum>-<id>` när
+något ändrats; öppna en PR från den och merga när "Ren kod och tester"
+gått igenom (ADR-0015). Ligger flera grenar omergade, merga den nyaste
+och ta bort de äldre; det de hade utöver den hämtas igen nästa natt.

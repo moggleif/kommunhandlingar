@@ -1,0 +1,25 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Hantera inrapporterade händelser och anmälningar,,,,
+Process:,"Hantera övriga inkomna anmälningar, myndighet, som inte är orosanmälningar",,,,
+Processnummer:,6.1.2.3,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Begära,"Underrättelse och
+begäran om
+handlingar och
+uppgifter från IVO",Ciceron,Digital,Bevaras,
+Besvara,Yttrande,Ciceron,Digital,Bevaras,
+Inhämta synpunkter,"Möjlighet att
+lämna förslag till
+beslut från IVO",Ciceron,Digital,Bevaras,
+Inhämta synpunkter,"Förslag till beslut
+från IVO",Ciceron,Digital,Bevaras,
+Besluta,Beslut från IVO,Ciceron,Digital,Bevaras,
+Korrespondens,Korrespondens,Ciceron,Digital,Se anmärkning,"Korrespondens av betydelse diarieförs och bevaras.
+Korrespondens av ringa eller tillfällig betydelse
+gallras vid inaktualitet"
+Hantera anmälan,Polisanmälan,Ciceron,Digital,Bevaras,"När förvaltningen upprättar anmälan om brott mot
+verksamheten. För polisanmälningar i
+individärende, se klientprocessen. För
+polisanmälningar rörande personal, se
+informationshanteringsplanen för stödprocesser."

@@ -1,4 +1,4 @@
-"""Krav: K4, K6 och K14 i docs/02-KRAV.md. Test: tests/test_hamta.py,
+"""Krav: K4, K6, K14 och K15 i docs/02-KRAV.md. Test: tests/test_hamta.py,
 tests/test_webbplats.py.
 
 Front matter så som schemat i docs/03-ARKITEKTUR.md#front-matter skriver den:
@@ -28,6 +28,8 @@ FALT = (
     "fel",
     "kvalitet_per_sida",
     "tal_obekraftade",
+    "figurer",
+    "tolkade",
 )
 
 

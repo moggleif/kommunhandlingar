@@ -1,0 +1,13 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Styrning,,,,
+Processgrupp:,Hantera styrning,,,,
+Process:,Hantera taxor och avgifter,,,,
+Processnummer:,1.2.1.4,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Producera dokument,Taxa,Diarium,Digitalt,Bevaras,
+,Avgift,Diarium,Digitalt,Bevaras,
+,Tjänsteskrivelse,Diarium,Digitalt,Bevaras,
+Beslut,Protokoll,,,,"Taxor beslutas av fullmäktige, se 1.1.1.1
+Avgifter beslutas i regel av fullmäktige, vissa kan
+beslutas av nämnd, se respektive nämnds
+reglemente."

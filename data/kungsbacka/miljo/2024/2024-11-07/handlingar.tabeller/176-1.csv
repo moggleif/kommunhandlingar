@@ -1,0 +1,27 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt alkohollagen och tobakslagen,,,,
+Processgrupp:,Hantera prövning enligt alkohollagen,,,,
+Process:,Prövning anordnande av provsmakning,,,,
+Processnummer:,7.7.1.04,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Anmälan med bilagor
+kommer in och
+mottagningsbekräftelse
+skickas ut",Anmälan,EDP Vision,Digitalt,3 år,
+,Mottagningsbekräftelse,EDP Vision,Digitalt,3 år,
+,Verksamhetsbeskrivning,EDP Vision,Digitalt,3 år,
+,Meny,EDP Vision,Digitalt,3 år,
+,"Hyresavtal/
+platsupplåtelse",EDP Vision,Digitalt,3 år,
+"Skicka ut bekräftelse på
+komplett anmälan eller
+begäran om
+komplettering",Begäran komplettering,EDP Vision,Digitalt,3 år,
+,Mottagningsbevis,EDP Vision,Digitalt,3 år,
+Utreda,Tjänsteanteckning,EDP Vision,Digitalt,3 år,"Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Korrespondens,EDP Vision,Digitalt,3 år,"Korrespondens av ringa eller
+tillfällig betydelse rensas när ärendet
+avslutas."
+"Skicka ut bekräftelse till
+verksamhetsutövare",Bekräftelse,EDP Vision,Digitalt,3 år,

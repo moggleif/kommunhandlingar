@@ -78,35 +78,39 @@ densamma för alla kommuner.
 ### Körning och incheckning
 
 Hur och varför står i
-[ADR-0006](decisions/0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md).
+[ADR-0006](decisions/0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md)
+och, för hur datat når `main`,
+[ADR-0015](decisions/0015-nattkorningen-pa-egen-gren-och-pr.md).
 Vad en körning gör när budgeten tar slut, när kontrollerna faller och när
 två startas står i K11.
 
-- **Pipelinen är ett kommando** som inte vet var det körs. GitHub Actions
-  startar det varje natt och för hand (`workflow_dispatch`), i en
-  `concurrency`-grupp utan `cancel-in-progress`. Gruppen håller högst en
-  körning i kö; en senare start ersätter den som väntar.
+- **Pipelinen är ett kommando** som inte vet var det körs.
+  `.github/workflows/nattkorning.yml` startar det varje natt och för hand
+  (`workflow_dispatch`), i en `concurrency`-grupp utan
+  `cancel-in-progress`. Gruppen håller högst en körning i kö; en senare
+  start ersätter den som väntar. Jobbet kör upptäckten och steg 2 för
+  varje kommunfil i `kommuner/`.
 - **Varje körning börjar från en ren utcheckning av `main`.**
-- **Tidsbudget, räknat från jobbets start.** Efter 5 timmar startas inget
-  nytt dokument. Efter 5 timmar och 30 minuter läggs det pågående
-  dokumentet åt sidan: dess tabellkatalog och temporära fil tas bort om
-  de inte finns på `main`, och annars återställs de dit. Dokumentet nämns
-  i jobbets sammanfattning, och körningen går vidare till kontrollerna.
-  Resten av tiden fram till Actions gräns på 6 timmar per jobb är till
-  för kontrollerna och pushen. Budgeten är vår egen och följer GitHubs
-  gräns ([Actions limits](https://docs.github.com/en/actions/reference/limits),
+- **Tidsbudget, räknat från jobbets start** (`hamta --start`). Efter 5
+  timmar startas inget nytt dokument. Efter 5 timmar och 30 minuter
+  avbryts det pågående dokumentet (`SIGALRM`), utom medan det skrivs: då
+  skrivs det klart. Ett avbrutet dokument har inte skrivit något, eftersom
+  allt skrivs efter hämtning och konvertering och PDF:en ligger utanför
+  repot. Det nämns i sammanfattningen, och körningen går vidare till
+  kontrollerna. Resten av tiden fram till Actions gräns på 6 timmar per
+  jobb är till för kontrollerna och pushen. Budgeten är vår egen och följer
+  GitHubs gräns ([Actions limits](https://docs.github.com/en/actions/reference/limits),
   kontrollerat 2026-10-07); ändrar GitHub gränsen ändras budgeten.
-- **Datakontrollerna körs innan något pushas.** Har `main` fått nya
-  commits under körningen läggs körningens commit ovanpå och kontrollerna
-  körs igen med koden från `main`. Blir det en konflikt eller faller
-  kontrollerna pushas ingenting.
-- **En push med Actions egen token startar inga workflows**
-  ([GITHUB_TOKEN](https://docs.github.com/en/actions/concepts/security/github_token), kontrollerat 2026-10-07), så
-  `kontroll.yml` körs inte på datacommiten. Kontrollerna i jobbet är de
-  enda den får. Av samma skäl startar jobbet efter pushen `webbplats.yml` med
-  `workflow_dispatch`, som Actions egen token får starta.
+- **Datakontrollerna körs innan något pushas**, och sedan att bara filer
+  under `data/` har ändrats och att inget av dem är binärt. Faller något
+  pushas ingenting.
+- **Körningen pushar en egen gren**, `nattkorning/<datum>-<körningens id>`,
+  och datat når `main` genom en PR, där "Ren kod och tester" kör samma
+  kontroller. Har körningen inte ändrat något pushas ingen gren. Mergen
+  till `main` bygger om webbplatsen.
 
-Datakontrollerna, i körningen och i CI:
+Datakontrollerna, i körningen och i CI
+(`python -m kommunhandlingar.datakontroll data`, utom binärerna):
 
 - Inga binärer utom små testfixturer (ADR-0001).
 - Varje `.md` under `data/` har front matter enligt
@@ -116,6 +120,11 @@ Datakontrollerna, i körningen och i CI:
 - Varje `.tabeller/`-katalog har sin `.md`, och varje CSV i den följer
   [Tabeller](#tabeller).
 - Inga temporära filer finns under `data/`.
+- Front matter hänger ihop: `ej-hamtad` har ett `fel` och inga
+  originalfält, `sidor` stämmer med `kvalitet_per_sida`, och varje sida
+  som är `ocr` eller `ej-konverterad` står i `tal_obekraftade`.
+- Figurerna och tolkningarna hänger ihop, och varje tal i en tolkad CSV
+  står i sidans text, enligt [Tolkade figurer](#tolkade-figurer).
 
 Bara i körningen, eftersom en vanlig PR ändrar kod och dokument: att
 körningen bara har ändrat filer under `data/`.
@@ -160,7 +169,8 @@ src/kommunhandlingar/
   fel.py           konfigurationsfel och "ingen kandidat"
   monster.py       mönstren: typ och datum ur en text
   kandidat.py      kandidaten och ordningen (K13)
-  adaptrar/        en modul per plattform (sitevision, wayback, ciceron, …);
+  adaptrar/        en modul per publiceringsplattform (sitevision, ciceron, …)
+                   eller arkiv (wayback);
                    sitevision_html.py läser mötessidan, sitevision.py tolkar den
   upptack.py       steg 1: hämtar källsidorna och skriver kandidatlistan
   hamtning/        artig HTTP-klient: robots.txt, intervall och nya försök
@@ -170,12 +180,16 @@ src/kommunhandlingar/
   plats.py         sökvägen och namnet för ett nytt dokument (ADR-0003)
   skrivning.py     `.md` och tabellkatalog, tabellerna först och `.md` sist
   frontmatter.py   front matter läses och skrivs
+  tidsbudget.py    budgetens hårda gräns, som inte avbryter en skrivning
+  datakontroll*.py datakontrollerna av allt under data/ (K11)
+  tolkning.py      arbetslistan och renderingen av figurerna (K15)
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
   webbplats/       statussidorna och startsidan för GitHub Pages
 kommuner/<kommun>.toml
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>-<nr>.csv
+data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>-<nr>.tolkad.csv
 scripts/          verktyg för utvecklingen, t.ex. storlekskontrollen
 tests/fixtures/
 ```
@@ -373,6 +387,8 @@ kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ocr, tabell-osaker, …]
 tal_obekraftade: [3]
+figurer: [5, 9]
+tolkade: [5]
 ---
 ```
 
@@ -403,6 +419,8 @@ inom hakparenteser på samma rad, som i exemplet.
 | `fel`                  | Kort orsakskod, till exempel `http-404`, `kapad` eller `krypterad`. | originalet hämtades och gick att öppna |
 | `kvalitet_per_sida`    | Varje sidas kvalitet, i sidordning (nedan).                  | `ej-hamtad`, eller filen gick inte att öppna |
 | `tal_obekraftade`      | Sidor vars tal inte är bekräftade (nedan); `[]` när alla är det. | `ej-hamtad`, eller filen gick inte att öppna |
+| `figurer`              | Sidor som kan ha en figur ([Figurer](#figurer)); `[]` när inga. | `ej-hamtad`, filen gick inte att öppna, eller dokumentet konverterades före version 0.3.0 |
+| `tolkade`              | Sidor som har tolkats ([Tolkade figurer](#tolkade-figurer)); `[]` när inga. | när `figurer` är `null` |
 
 `kvalitet` och `fel` är tillsammans dokumentets status (K6). När kvalitet
 är `ej-hamtad` finns inget original, och härkomsten är källänken,
@@ -412,7 +430,9 @@ källnyckeln och försöket
 ### Konvertering och kvalitet
 
 Reglerna och trösklarna står här; varför de valdes, och mätningarna bakom
-dem, står i [ADR-0005](decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md).
+dem, står i [ADR-0005](decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md),
+för tabellerna i [ADR-0016](decisions/0016-tabeller-utan-lodrata-linjer.md)
+och för figurerna i [ADR-0017](decisions/0017-figurer-marks-och-tolkas-i-efterhand.md).
 Text och tabeller läses med pdfplumber. OCR görs med Tesseract och svensk
 modell på sidor renderade med pypdfium2.
 
@@ -426,7 +446,7 @@ Varje sida får en kvalitet:
 | ---------------- | ---------------------------------------------------------------- |
 | `ej-konverterad` | Sidan skulle läsas med OCR, men Tesseract kände inte igen några ord eller medelsäkerheten nådde inte tröskeln. Ingen text från sidan skrivs. |
 | `ocr`            | Sidan lästes med OCR. Den får inga CSV:er.                       |
-| `tabell-osaker`  | Textlagret är läst, men sidan har en osäker tabell.              |
+| `tabell-osaker`  | Textlagret är läst, men sidan har en osäker tabell, eller siffror ur en tabell med linjer som inte gick att läsa säkert. |
 | `ok`             | Textlagret är läst, och sidans tabeller är säkra.                |
 | `tom`            | Sidan har inga tecken och är, renderad, nästan helt vit.          |
 
@@ -446,13 +466,22 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
 5. **Annars** läses textlagret, hur kort det än är, och sidan blir `ok`
    eller `tabell-osaker`.
 
-- **OCR:** sidan renderas och läses av Tesseract med svensk modell
-  (`swe`). Upplösningen och förberedelsen av bilden bestäms när
-  konverteringen skrivs, mot den inskannade blanketten som testfixtur. Säkerheten är medelvärdet av Tesseracts säkerhet för de
+- **OCR:** sidan renderas med pypdfium2 i 300 dpi och gråskala, utan
+  annan förberedelse, och läses av Tesseract med svensk modell (`swe`).
+  Det läser den inskannade sidan i `tests/fixtures/pdf/` rätt; den är
+  ren och rak, och upplösningen är ännu inte prövad mot riktiga
+  skanningar. Säkerheten är medelvärdet av Tesseracts säkerhet för de
   ord den känt igen (poster med säkerhet −1 räknas inte). Är den minst 70
   blir sidan `ocr`. Annars, och när Tesseract inte känner igen några ord,
   blir den `ej-konverterad`: den har innehåll, en karta, ett foto eller
-  handskrift, som inte blev text. På en OCR-sida letas inga tabeller;
+  handskrift, som inte blev text. Tesseract körs utan
+  orienteringsdetektering, så en liggande skanning blir också
+  `ej-konverterad`. Fallerar Tesseract på en sida, eller blir den inte
+  klar på fem minuter, blir sidan `ej-konverterad` och felet skrivs ut;
+  dokumentets övriga sidor behålls. Saknas Tesseract eller `swe` stoppas
+  steg 2 innan något dokument läses, så att ingen sida märks
+  `ej-konverterad` för att miljön saknar något. På en OCR-sida letas
+  inga tabeller;
   hela sidans text är OCR-text, och den läses för sammanhangets skull,
   inte som data. Talen i OCR-texten står omärkta i texten; att de inte är
   bekräftade syns bara i `tal_obekraftade`.
@@ -468,8 +497,34 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
 - **En säker tabell** är avgränsad av ritade linjer: streck och fyllda
   rektanglar som är högst 2 punkter breda eller höga. Bredare fyllda ytor,
   som färgade rader och kolumner, är inga linjer. Tabellen har minst två
-  rader och två kolumner, och varje ord inom dess yta har sin mittpunkt i
-  en cell. En säker tabell skrivs som CSV enligt [Tabeller](#tabeller).
+  rader och två kolumner, varje ord inom dess yta har sin mittpunkt i
+  en cell, och ingen cell rymmer mer än ett tal. En cell rymmer mer än
+  ett tal när
+  - två rader i den var för sig är ett tal (med eller utan förtecken,
+    decimalpunkt, parentes eller någon av enheterna nedan), ett ensamt streck, eller
+    en etikett på ett eller två ord utan siffror följd av ett tal, som
+    `4 078⏎4 054`, `(2 100)⏎1 978`, `4 078⏎varav bidrag⏎4 054` eller
+    `Utfall 2022⏎50,1`;
+  - en rad bara består av tal och streck, med enheterna `%`, `kr`, `tkr`,
+    `mkr`, `mnkr`, `mdkr` och `st`, oavsett skiftläge, borträknade,
+    mellanslag, parenteser och snedstreck med mellanslag omkring som
+    skiljetecken, och de tillsammans inte är ett tal (en decimalpunkt
+    räknas som decimalkomma), som `65,0 70,0`, `1 234 (1 150)`,
+    `74 984 kr 80%` eller `4 078 -`; eller
+  - två fält på samma rad i cellen var för sig är ett tal eller ett
+    streck, med fälten avgränsade som i tabellerna utan lodräta linjer
+    och ett tvetydigt mellanrum räknat som en gräns, som `120   135`.
+
+  Två rader eller kolumner som linjerna inte skiljer åt hamnar annars i
+  samma cell. En sådan tabell blir ingen CSV. Står en siffra ur den
+  utanför de tabeller som lästs säkert, också när en del av den lästs
+  som en tabell utan lodräta linjer, blir sidan `tabell-osaker`, och
+  texten står kvar i sidans text.
+- **En säker tabell utan lodräta linjer** läses ur de ord som står
+  utanför tabellerna med linjer, enligt
+  [Tabeller utan lodräta linjer](#tabeller-utan-lodrata-linjer).
+- Båda sorterna skrivs som CSV enligt [Tabeller](#tabeller), numrerade
+  tillsammans efter läget på sidan.
 - **En osäker tabell** är minst tre talrader på sidan, var som helst
   utanför de säkra tabellerna. Raderna tas ur sidans text med bevarad
   uppställning, och fält skiljs åt av två eller fler mellanslag. En
@@ -506,11 +561,90 @@ läsa är `fel` `null`, och `sidor`, `kvalitet_per_sida` och
 läste dokumentet, med version: alltid pdfplumber och pdfminer.six, och
 pypdfium2 samt Tesseract och språkmodellens version när någon sida
 lästes med OCR, till exempel
-`kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 /
+`kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 /
 pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. För `ej-hamtad` har inget
-verktyg läst dokumentet, och `pipeline` är bara poolens version. En fil
+verktyg läst dokumentet, och `pipeline` är bara poolens version.
+Språkmodellens version är paketet `tesseract-ocr-swe`:s version utan epok
+och revision; går den inte att läsa ur paketsystemet står `okänd`. En fil
 som inte gick att öppna har lästs av pdfplumber och pdfminer.six.
 Versionen höjs när en ändring i konverteringen ändrar vad den skriver.
+
+### Figurer
+
+Varje sida som inte är `tom` prövas för figurer: diagram, kartor, scheman
+och bilder. En sida som kan ha en figur står i `figurer`. Regeln får
+hellre ta med en sida för mycket än missa en; den som tolkar sidan avgör
+om det är en figur. Sidan står i `figurer` när något av det här gäller:
+
+1. **En bild** täcker minst 2 % av sidan men mindre än 90 %. En mindre
+   bild är oftast en logotyp, och en större är en skanning.
+2. **Minst 8 ritade objekt** – kurvor, och rektanglar som är bredare
+   och högre än 2 punkter, syns och inte har något tecken inom sig –
+   ligger inom en rektangel som täcker minst 2 % av sidan. Ett vapen
+   eller en ikon har många kurvor på en liten yta, och en tabell har
+   linjer och rutor med text i.
+
+Bilder och objekt med mittpunkten i en säker tabell räknas inte. En
+rektangel syns när den har en kantlinje eller en fyllning som inte är
+vit. En stapel med talet inuti räknas inte, så ett diagram med talen i
+staplarna kan missas; ett diagram i en skanning hittas inte alls.
+
+### Tabeller utan lodräta linjer
+
+Hur och varför står i
+[ADR-0016](decisions/0016-tabeller-utan-lodrata-linjer.md). Reglerna
+gäller sidans ord utanför tabellerna med linjer, med koordinater i
+punkter. Ett ord delas där teckenstorleken ändras, så att en upphöjd
+fotnotssiffra inte blir en del av talet framför. En tabell som inte
+uppfyller alla regler blir ingen CSV; dess talrader står kvar i texten
+och blir en osäker tabell som förut.
+
+1. **Rader:** orden grupperas efter överkanten, med 3 punkters tolerans
+   som i pdfplumbers text med uppställning, och sorteras från vänster.
+2. **Fält:** två ord i följd hör till samma fält när mellanrummet är
+   högst en halv teckenhöjd (den högre av ordens höjd), och till olika
+   fält när det är minst en teckenhöjd. Ett mellanrum däremellan är
+   tvetydigt. Så skiljs tusentalsmellanrummet i `4 078` från mellanrummet
+   mellan två kolumner.
+3. **Tabellrad:** första fältet är en etikett med minst en bokstav, minst
+   ett fält följer, och varje följande fält är ett tal (enligt
+   definitionen ovan) eller ett ensamt streck (`-`, `−` eller `–`).
+4. **Följd:** rader i följd som är tabellrader eller talrader, där en
+   talrad har minst två fält som är tal, eller minst två ord som är tal
+   när ett mellanrum är tvetydigt. Avståndet mellan två rader i följden
+   är högst tre teckenhöjder. En tabell blir det bara om varje rad i
+   följden är en tabellrad och minst tre av dem har två tal eller fler.
+5. **Kolumner:** talen grupperas efter sin högerkant; de som ligger högst
+   2 punkter från gruppens första hör till samma kolumn. Varje kolumn har
+   minst två tal, varje streck står med högerkanten i linje med en
+   kolumn, och kolumnerna överlappar inte varandra eller etiketterna:
+   varje kolumns vänstra kant ligger till höger om föregående kolumns
+   högra kant, och den första till höger om den etikett som slutar
+   längst till höger. Består den första kolumnen bara av fyrsiffriga
+   heltal, år eller koder, är den en kolumn med etiketter, och det som
+   står till vänster är något annat, till exempel text i en spalt
+   bredvid; då blir det ingen tabell.
+6. **Rubrikrader:** raderna närmast ovanför, högst tre teckenhöjder
+   ifrån raden under, tas med från tabellen och uppåt så länge raden inte
+   är en tabellrad eller talrad, har minst ett fält i en kolumn, och
+   varje fält utom ett första står med högerkanten i linje med en kolumn
+   (högst 2 punkter ifrån) och börjar till höger om föregående kolumns
+   högra kant, eller om den etikett som slutar längst till höger för den
+   första kolumnen. Ett första fält som börjar till vänster om där den
+   etiketten slutar, och slutar före den första kolumnen, är rubrikens
+   etikett. Rubriken tas med bara om den översta
+   rubrikraden har en rubrik i varje kolumn, och om raden ovanför den är
+   en ensam etikett till vänster om kolumnerna, ligger längre bort, eller
+   inte finns; annars tas ingen rubrikrad med, så att en rubrik aldrig
+   blir halv.
+7. **Ensam:** inget annat ord på sidan, inte heller i en tabell med
+   linjer, får ha sin mittpunkt inom den rektangel som omsluter tabellens
+   ord.
+
+Varje rad i CSV:n är etiketten följd av en cell per kolumn, tom där
+raden saknar värde. En rubrikrad har sin etikett i första cellen.
+Cellerna är fältens ord med ett mellanslag emellan, som de står i
+textlagret; inget tal görs om.
 
 ### Markdown-texten
 
@@ -526,7 +660,8 @@ matter följer sidorna i ordning. Varje sida börjar med kommentaren
   rader blir en.
 - **En osäker tabell** står där den står på sidan, som ett kodblock märkt
   `osaker-tabell` med uppställningen kvar.
-- **En säker tabell** står inte i sidans text. Den står efter texten, i
+- **En säker tabell**, med eller utan lodräta linjer, står inte i sidans
+  text. Den står efter texten, i
   sidans ordning, som en länk till sin CSV (`[Tabell 3-1](<namn>.tabeller/3-1.csv)`)
   följd av tabellen i Markdown. Där är första raden tabellhuvud, eftersom
   Markdown kräver ett; `|` skrivs `\|` och en radbrytning `<br>`.
@@ -551,10 +686,6 @@ utfallen och nämner varje dokument som inte gick att hämta, med orsak.
 - **PDF:en** strömmas till en temporär katalog utanför repot, och
   katalogen tas bort när dokumentet är klart, också om något gick fel.
 - **Tiderna** `hamtad` och `konverterad` skrivs i UTC, på sekunden.
-- **OCR finns inte än**
-  ([#36](https://github.com/moggleif/kommunhandlingar/issues/36)). En sida
-  som enligt reglerna ska läsas med OCR blir till dess `ej-konverterad`
-  utan försök, och den schemalagda körningen startar inte förrän OCR finns.
 - **En fil som pdfplumber eller pdfminer inte kan läsa**, hur felet än
   ser ut, blir `ej-konverterad` med `trasig-pdf`, och felet skrivs ut, så
   att en enda fil inte stoppar körningen.
@@ -572,7 +703,9 @@ tabeller har ingen tabellkatalog.
 - **Filnamnet** är `<sida>-<nr>.csv`, utan inledande nollor: sidnumret
   från 1, och tabellens nummer på sidan från 1, uppifrån och ned och vid
   samma höjd från vänster till höger. `3-2.csv` är den andra tabellen på
-  sidan 3.
+  sidan 3. En tabell som tolkats ur ett diagram heter
+  `<sida>-<nr>.tolkad.csv` och numreras för sig
+  ([Tolkade figurer](#tolkade-figurer)).
 - **Härkomsten** är front matter i tabellkatalogens `.md`. Tabellerna
   har ingen egen. Står sidan i `tal_obekraftade` är talen i dess CSV:er
   inte bekräftade; det syns bara i `.md`.
@@ -586,7 +719,72 @@ tabeller har ingen tabellkatalog.
   första rad och tolkas inte som rubrik.
 - **Datakontrollen** prövar att varje CSV heter så, att numren på en
   sida följer på varandra utan lucka, och att sidan finns och är `ok`
-  eller `tabell-osaker`.
+  eller `tabell-osaker`. För en tolkad CSV prövar den i stället att
+  sidan står i `tolkade` och att talen står i sidans text
+  ([Tolkade figurer](#tolkade-figurer)).
+
+## Tolkade figurer
+
+Hur och varför står i
+[ADR-0017](decisions/0017-figurer-marks-och-tolkas-i-efterhand.md). En
+figur tolkas i efterhand, för hand, av en Claude-session, enligt
+`.claude/skills/tolka-figurer/SKILL.md`. Konverteringen tolkar ingenting.
+
+- **Arbetslistan** är varje dokument med sidor i `figurer` som inte står
+  i `tolkade`:
+  `python -m kommunhandlingar.tolkning lista data`.
+- **Sidorna** renderas med
+  `python -m kommunhandlingar.tolkning rendera <md> <katalog>`, som hämtar
+  originalet från `kalla_url` med samma artighet som steg 2, prövar att
+  sha256 stämmer med front matter och sparar varje otolkad sida i
+  `figurer` som `<sida>.png` i 144 dpi. PDF:en raderas. Har originalet
+  ändrats renderas ingenting, och dokumentet står kvar i arbetslistan
+  tills det konverteras om.
+- **Tolkningen** står sist på sidan i `.md`, efter sidans text och
+  tabeller, och börjar med kommentaren
+  `<!-- tolkning: <modell>, <ÅÅÅÅ-MM-DD> -->`. Därefter, för varje figur
+  på sidan, i sidans ordning:
+  - **ett diagram med utskrivna tal** blir en tolkad CSV,
+    `<sida>-<nr>.tolkad.csv` i tabellkatalogen, och en länk till den
+    (`[Tolkad tabell 5-1](<namn>.tabeller/5-1.tolkad.csv)`) följd av en
+    mening om vad diagrammet visar. Bara tal som står utskrivna i
+    diagrammet tas med, aldrig en stapels höjd avläst mot axeln;
+  - **ett schema eller ett flöde** blir ett kodblock märkt `mermaid`;
+  - **en karta, ett foto eller ett diagram utan utskrivna tal** blir en
+    kort beskrivning.
+
+  En sida som inte hade någon figur får bara kommentaren och meningen
+  `Ingen figur.`
+- **`tolkade`** får sidans nummer när tolkningen är skriven, så att
+  `tolkade` alltid är sidor ur `figurer`, i samma ordning.
+- **Datakontrollen** prövar att `figurer` och `tolkade` är `null`
+  samtidigt, att `figurer` bara har sidor som finns i dokumentet, att
+  `tolkade` är sidor ur `figurer` i ordning, och att varje sida i
+  `tolkade`, och ingen annan, har precis en tolkning, med modell och
+  datum. Har dokumentet en tolkning ska sidkommentarerna stå en gång
+  var, från 1 till sista sidan. I en tolkad CSV ska varje tal i varje
+  cell stå i sidans text före tolkningen, och en cell med siffror som
+  inte är ett helt tal, som `65–79 år` eller `2022-23`, ska stå
+  ordagrant där. Sidans text är då utan länkarna till tabellerna, och
+  ett tal är ett helt tal med tusentalsmellanrum: `120` står inte i
+  `1 120` eller `1 250–1 120`, och inget tal står i `13.30`,
+  `2025-10-08`, `2022/23`, `K15` eller `3a`. En cell som står ordagrant
+  är heller ingen del av ett tal: `5–3` står inte i `2,5–3,5`, och
+  `250–300` inte i `1 250–300`. Eftersom tusentalen skiljs med
+  mellanslag läses tal med ett enda mellanslag emellan ihop, som axeln
+  `0 100 200` eller värdena `90 130`, och ett sådant tal går inte att
+  ta med för sig. Två siffergrupper som kan vara ett tal delat över en
+  radbrytning eller ett smalt mellanslag, en till tre siffror följda av
+  exakt tre, räknas inte som tal, så att `5⏎053 kronor` inte ger talen
+  `5` och `053`. Står båda delarna ensamma på var sin rad, eller med
+  minst två mellanslag till resten av raden, som talen i ett diagram,
+  räknas de. På en sida som lästs med OCR stäms talen
+  av mot OCR-texten och är lika obekräftade som den. Att texten före
+  tolkningen är orörd prövas inte mekaniskt; det syns i PR:ens diff.
+- **En ny konvertering** av dokumentet skriver om `.md` och
+  tabellkatalogen som vanligt, också när bara källnyckeln har bytts
+  (K9); tolkningarna försvinner då, och sidorna hamnar i arbetslistan
+  igen.
 
 ## Webbplatsen
 
@@ -611,8 +809,8 @@ push till `main` och för hand. Inget av det som byggs checkas in.
 - **Statisk och utan beroenden:** bara standardbiblioteket, ingen
   JavaScript och inga externa resurser. All text går genom
   `html.escape`. Ingen information bärs av färg.
-- **Efter nattkörningen** byggs webbplatsen om av körningen själv (se
-  [Körning och incheckning](#körning-och-incheckning)).
+- **Efter nattkörningen** byggs webbplatsen om när körningens PR mergas
+  (se [Körning och incheckning](#körning-och-incheckning)).
 - **Dokumenten** måste ha ett `organ` ur kommunfilen, en `typ` och en
   `kvalitet` ur tabellerna ovan. Annars stoppas bygget med filens namn,
   så att inget dokument utelämnas tyst ur tabellerna.

@@ -1,0 +1,40 @@
+Nr,Bevistema,"Åberopad
+handling"
+4.,"at t Gotit ska tillse att all kommunikation till och från systemet ska vara skyddad mot
+obehörig åtkomst.","- C0
+- C4"
+5.,"at t Gotit ska åtgärda identifierade brister avseende IT-säkerheten omgående enligt
+dokumenterad plan och redovisa för kommunen.","- C0
+- C1
+- C4
+- C5"
+6.,at t Gotit ska ha dokumenterade rutiner för hantering av säkerhetsincidenter.,"- C0
+- C1
+- C4
+- C5"
+7.,at t Gotit har en skyldighet att säkerställa korrekta behörigheter i systemet.,"- C0
+- C1
+- C5
+- C6"
+8.,"at t Gotit inte har sett till att systemet är utformat med tillräcklig hög säkerhetsnivå,
+inte uppfyllt sin omsorgsplikt och inte vidtagit nödvändiga åtgärder för att efterleva
+avtalade IT-säkerheten.","- 4
+- 37"
+9.,"at t Systemet som Gotit levererat har upprepade gånger visat fel avseende
+skyddsnivåerna, och att inte utformat systemet med tillräcklig hög säkerhetsnivå
+och att systemet inte uppfyllt kommunens kravlista.","- 4
+- 37"
+10.,at t Gotit inte har tillsett att systemet är skyddat mot obehörig åtkomst,"- 4
+- 37"
+11.,at t Gotit inte har åtgärdat identifierade brister omgående.,"- 4
+- 37"
+12.,at t Gotit inte har haft dokumenterade rutiner för incidenthantering,"- 4
+- 37"
+13.,at t Gotit inte har säkerställt korrekta behörigheter i systemet.,"- 4
+- 37"
+14.,"at t Gotit har skyldigheter att följa avtalade processer och rutiner för
+förvaltningsåtagandet, inklusive incidenthanteringsarbete","- C5
+- C6"
+15.,at t Gotit har underlåtit att följa avtalade rutiner för incidenthantering.,"- C5
+- C6
+- 4"

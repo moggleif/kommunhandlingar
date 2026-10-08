@@ -1,0 +1,29 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Informationsförvaltning,,,,
+Processgrupp:,Arkivförvaltning (Kommunarkiv),,,,
+Process:,Hantera arkiv,,,,
+Processnummer:,2.1.5.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Ta emot arkiv,Mall,Samarbetsrum,Digitalt,Vid inaktualitet,Mall över leveranskvitto. Uppdateras vid behov.
+,"Kvitto på
+levererade
+handlingar till
+kommunarkiv","Pärm i
+kommunarkivet",Papper,Bevaras,"Kopia på Ifyllt kvitto bevaras hos kommunarkivet.
+Originalet bevaras hos respektive förvaltning. Se
+process: 2.1.4.1 Överlämna arkiv. Handlingstyp
+även kallad leveranskvitto och leveransreversal."
+Lämna över arkiv,"Kvitto på
+överlämnade
+handlingar från
+kommunarkiv","Pärm i
+kommunarkivet",Papper,Bevaras,Bevis på att leverans från kommunarkivet har skett.
+"Sammanställa
+statistik","Statistik över
+arkivförfrågningar",Samarbetsrum,Digitalt,Bevaras,"Sammanställning över antal förfrågningar och typ
+av handling till kommunarkivet."
+"Sammanställa
+arkivrutiner",Rutinbeskrivning,Samarbetsrum,Digitalt,Vid inaktualitet,"Exempelvis rutin för att hitta bygglovshandlingar
+vid begäran av utlämnande. Uppdateras vid behov."
+Utöva tillsyn,Tillsynsrapport,Diarium,Digitalt,Bevaras,"Tillsyn av förvaltningarnas arkiv, utförd av
+kommunarkivet."

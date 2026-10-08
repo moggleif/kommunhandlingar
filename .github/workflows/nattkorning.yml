@@ -1,0 +1,75 @@
+# Den schemalagda körningen (K11, ADR-0006 och ADR-0015): upptäckt och
+# steg 2 för varje kommun, datakontrollerna, och en egen gren med datat.
+name: Nattkörning
+
+on:
+  schedule:
+    - cron: "23 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: nattkorning
+  cancel-in-progress: false
+
+# `shell: bash` ger `-eo pipefail`; utan den kör Actions `bash -e`, och ett
+# fel i steg 2 före `| tee` skulle inte stoppa körningen (K11).
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  korning:
+    name: Hämta och konvertera
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: write
+    steps:
+      - name: Jobbets start, som tidsbudgeten räknas från
+        run: echo "START=$(date +%s)" >> "$GITHUB_ENV"
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tesseract med svensk modell (OCR, ADR-0005)
+        run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-swe
+      - run: pip install -e .
+      - name: Upptäckt och steg 2 för varje kommun
+        run: |
+          for kommunfil in kommuner/*.toml; do
+            python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete"
+            python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
+              --start "$START" | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+          done
+      - name: Datakontrollerna
+        run: python -m kommunhandlingar.datakontroll data
+      - name: Bara textfiler under data/
+        run: |
+          git add -A
+          if git -c core.quotePath=false diff --cached --name-only | grep -v '^data/'; then exit 1; fi
+          if git diff --cached --numstat | grep '^-'; then exit 1; fi
+      - name: Checka in på en egen gren
+        run: |
+          if git diff --cached --quiet; then
+            echo "Inget nytt i poolen." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          gren="nattkorning/$(date -u +%F)-${{ github.run_id }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Nattkörning $(date -u +%F)"
+          git push origin "HEAD:refs/heads/$gren"
+          echo "Datat ligger på grenen \`$gren\`; öppna en PR därifrån (ADR-0015)." >> "$GITHUB_STEP_SUMMARY"
+      - name: Sammanfattning
+        if: always()
+        run: |
+          {
+            echo '```'
+            tail -n 200 "$RUNNER_TEMP/sammanfattning.txt" 2>/dev/null || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"

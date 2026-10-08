@@ -1,0 +1,34 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Demokrati och insyn,,,,
+Processgrupp:,Allmänna handlingar,,,,
+Process:,Hantera vidareutnyttjande och öppna data,,,,
+Processnummer:,1.4.1.3,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+,"Begäran om
+vidarenyttjande",Diarium,Digitalt,Bevaras,
+,Korrespondens,Diarium,Digitalt,Se anmärkning,"Korrespondens av vikt för ärendet diarieförs i
+diarium och bevaras. Korrespondens av ringa och
+tillfällig betydelse gallras vid inaktualitet."
+,Utredning,Diarium,Digitalt,2 år,
+,Beslut,Diarium,Digitalt,Bevaras,"Positivt beslut registreras som anteckning i ärendet.
+Avslag på begäran registreras som signerat beslut."
+,Avtal,Diarium,"Se
+anmärkning",Bevaras,"Avtal som upprättas på papper skannas och
+diarieförs digitalt i diarium. Pappret förvaras i
+närarkiv och gallras vid inaktualitet."
+,"Information om
+vidarenyttjande",Se anmärkning,Digitalt,Se anmärkning,"Avser information om eventuella avgifter,
+beräkningsgrund och andra villkor för
+vidarenyttjandet. Publiceras på webb och
+uppdateras löpande."
+,"Förteckning över
+öppna data",Se anmärkning,Digitalt,Se anmärkning,Publiceras på webb. Uppdateras löpande.
+,Öppna data,Se anmärkning,Digitalt,Se anmärkning,"Avser data från en rad nyckeltal som publiceras på
+kommunens webb via SKRs databas Kolada. På
+kommunens webb visas endast den aktuella uppgift
+som hämtas från databasen från Kolada. Webben
+uppdateras löpande."
+,Grunddata,Se anmärkning,Digitalt,Se anmärkning,"Avser data som hämtas eller lämnas från ett system
+direkt till en användare till exempel via API:er.
+Grunddata hanteras i övrigt enlig
+hanteringsanvisningen för berörd process."

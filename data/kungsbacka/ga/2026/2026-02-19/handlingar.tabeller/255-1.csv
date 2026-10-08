@@ -1,0 +1,90 @@
+2.5.04,2024-09-10,"Som gymnasieadministratör vill jag kunna välja vilka
+inriktningar, programfördjupningar och individuella val som är
+aktuella för skolan och som blir grunden för den lokala
+poängplanen. Detta för att jag inte manuellt ska behöva lägga
+till varje kurs som programmet innehåller.","Av Regelsamling framgår att varje program har olika inriktningar, valbara
+programfördjupningar och individuella valbara kurser. Paketeringen av
+kurser som är valbara för elever kan ändras varje år och är unikt för varje
+gymnasieskola och program. Systemet måste därför vara flexibelt och
+enkelt att justera. Val av inriktning och kurser att utgångspunkten är
+Skolverkets program och programstrukturer. Utifrån den organiserar och
+beslutar rektor vilka kurser som eleven ska kunna välja. Det styrs av: 1.
+Program eleven går på; 2. Årskurs eleven är inskriven på; 3. Inriktning
+eleven väljer Eleven ska därför göra en mängd val av inriktningar,
+fördjupningspaket och individuella kurser.","När jag som administratör anger vilka
+inriktningar, programfördjupningar och
+individuella val som är aktuella för
+skolan kan jag inte ange vilka
+inriktningar som är valbara under
+aktuellt läsår. När jag försöker ange
+aktuella inriktningar för nästa läsår kan
+jag enbart koppla till eller från för hela
+skolan. Systemet uppfyller inte kravet
+på att tillämpa regelsamlingen i detta
+fall eftersom det inte går att välja vilka
+inriktningar som är aktuella på skolan
+för nästa läsår utan att påverka
+elevers pågående inriktningar.","Specificering; elever som inte omfattas av valet
+blir påverkade när inriktningarna sätts i valet.
+Instruktioner ska kunna anges för respektive
+inriktning.",Valmodul,
+2.5.15,2024-09-10,"Som gymnasieadministratör rektor och specialpedagog vill jag
+kunna se sammanställning av individuella studieplaner för hel
+klass samtidigt. Detta för att säkerställa elevs fullständiga
+studiegång och gymnasieexamen.","Av kravet framgår att specialpedagog ska se samanställning av individuella
+studieplaner för hel klass samtidigt.","När jag som specialpedagog ska
+kontrollera en klass sammanställning
+av individuella studieplaner saknas
+funktionen. För att få den
+informationen jag har behov av krävs
+att jag går igenom varje elev
+individuellt och gör en egen
+samanställning utanför systemet.
+Systemet uppfyller inte kravet i detta
+fall eftersom specialpedagog inte kan
+se sammanställning av individuella
+studieplaner för hel klass samtidigt.","Gotit justerar behörighet för specialpedagog så att
+de kan se och skriva ut sammanställning av
+individuella studieplaner. (Se och skriva ut
+samanställning av individuella studieplaner för hel
+klass samtidigt)",Behörighet,
+2.5.42,2024-09-10,"Som gymnasieadministratör vill jag kunna öppna valet för en
+enskild elev eftersom eleven kan ha varit frånvarande när
+valet genomfördes.",,,,Valmodul,
+3.3.05,2024-09-10,"Systemet ska ha ett flexibelt behörighetssystem som är
+anpassat till Kommunens organisation och därtill
+sammanhängande behörighetshierarki. Det skall vara möjligt
+för behörig administratör på en högre nivå att administrera
+behörigheter på en lägre nivå genom att tilldela behörighet att
+lägga upp nya användare, tilldela eller ändra behörigheter
+samt ta bort användare så att dessa användare endast får
+tillgång till de funktioner och de uppgifter som de behöver för
+att kunna fullgöra sitt arbete. Sådana ändringar ska ge ett
+konsekvent genomslag i alla delar och på alla nivåer i
+Systemet","Krav 2.5.15 När jag som specialpedagog ska kontrollera en klassens
+sammanställning av individuella studieplaner saknas funktion. För att få den
+informationen jag har behov av krävs att jag går igenom varje elev
+individuellt och gör en egen samanställning utanför systemet. Systemet
+uppfyller inte kravet i detta fall eftersom specialpedagog inte kan se
+sammanställning av individuella studieplaner för hel klass samtidigt. Krav
+5.3.8 När jag som lärare ska registrera beskrivning till specialiseringskurser
+saknas funktionen i Systemet. Systemet uppfyller inte kravet i detta fall
+eftersom lärare inte kan registrera beskrivning till specialiseringskurser","Krav 5.3.8 Av kravet framgår att lärare
+ska registrera beskrivning till
+specialiseringskurs. Krav 2.5.15 Av
+kravet framgår att specialpedagog ska
+se samanställning av individuella
+studieplaner för hel klass samtidigt.","5.3.8 Gotit anpassar systemet så att
+gymnasielärare kan registrera beskrivning för
+specialiseringskurser för hel grupp samtidigt.
+2.5.15 behörigheten specialpedagog kopplas till
+nuvarande funktion. (Se och skriva ut
+samanställning av individuella studieplaner för hel
+klass samtidigt)",Behörighet,
+5.3.08,2024-09-10,"Som gymnasielärare eller gymnasieadministratör vill jag
+kunna registrera beskrivning till specialiseringskurser. Detta
+för att beskrivningen ska finnas med på ”upplysningar betyg”
+enligt gymnasieförordningen.",,,"Som gymnasielärare vill jag kunna skriva
+beskrivning på specialiseringskurser för en hel
+grupp samtidigt utan att behöva skriva in
+informationen för enskilda elever.",Behörighet,Se 3.3.5

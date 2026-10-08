@@ -1,0 +1,19 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för barn och ungdomar,,,,
+Process:,Besluta om kvalificerad kontaktfamilj eller kontaktperson,,,,
+Processnummer:,6.3.1.5,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn
+bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Utforma uppdrag,Vårdplan,Combine,Digital,5 år/Bevaras,
+Genomföra uppdrag,Genomförandeplan,Combine,Digital,5 år/Bevaras,
+,"Omprövning eller
+övervägande enligt
+LVU",Combine,Digital,5 år/Bevaras,Information till Sociala utskottet var 6:e månad
+Följa upp,Mötesanteckningar,Combine,Digital,5 år/Bevaras,
+Avsluta,"Beslut om att avsluta
+insats enligt LVU",Combine,Digital,5 år/Bevaras,
+,"Beslut om att avsluta
+insats enligt SoL",Combine,Digital,5 år/Bevaras,

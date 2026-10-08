@@ -1,0 +1,35 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Hantera klagomål i kärnverksamheten hos Miljö & Hälsoskydd,,,,
+Process:,Klagomål störande ljud,,,,
+Processnummer:,7.5.7.01,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Klagomål inkommer,Klagomål,EDP Vision,Digitalt,5 år,
+,Karta,EDP Vision,Digitalt,5 år,
+,Störningsdagbok,EDP Vision,Digitalt,5 år,
+Utreda,Korrespondens,EDP Vision,Digitalt,5 år,"Korrespondens av ringa eller tillfällig
+betydelse rensas vid när ärendet avslutas."
+,Tjänsteanteckning,EDP Vision,Digitalt,5 år,"Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+Redovisning kommer in,Åtgärdsförslag,EDP Vision,Digitalt,5 år,
+,Redovisning av åtgärder,EDP Vision,Digitalt,5 år,
+Utföra platsbesök,Rapport,EDP Vision,Digitalt,5 år,
+,Inspektionsanteckning,EDP Vision,Digitalt,5 år,
+,Fotografi,EDP Vision,Digitalt,5 år,
+"Skicka underrättelse inför
+beslut och svar kommer in
+från sökanden","Kommunicera enligt
+förvaltningslagen",EDP Vision,Digitalt,5 år,
+,"Svar på kommunicering
+enligt förvaltningslagen",EDP Vision,Digitalt,5 år,
+"Besluta samt skicka ut
+tidkort",Tjänsteskrivelse,EDP Vision,Digitalt,Bevaras,
+,Beslut,EDP Vision,Digitalt,Bevaras,
+,Tidkort,EDP Vision,Digitalt,5 år,
+"Delge beslut och signerat
+delgivningskvitto kommer
+in",Delgivningskvitto,EDP Vision,Digitalt,5 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,EDP Vision,5 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

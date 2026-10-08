@@ -4,6 +4,16 @@ Dokumentets kvalitet följer av sidornas; den första regeln som stämmer
 gäller (docs/03-ARKITEKTUR.md#konvertering-och-kvalitet).
 """
 
+# Dokumentets kvalitetsnivåer, från bäst till sämst.
+KVALITETER = (
+    "full",
+    "text-utan-tabeller",
+    "ocr",
+    "delvis",
+    "ej-konverterad",
+    "ej-hamtad",
+)
+SIDKVALITETER = ("ok", "tabell-osaker", "ocr", "tom", "ej-konverterad")
 LASTA = {"ok", "tabell-osaker", "ocr"}
 
 

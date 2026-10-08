@@ -1,0 +1,14 @@
+Faktor,Sannolikhet,Faktor,Konsekvens
+1,Osannolik (1 gång/10 år),1,"Ofarlig/försumbar
+(Övergående)"
+2,Mindre troligt (1 gång/år),,
+,,2,Lindrig (Utan sjukvård)
+3,"Ganska vanligt (Flera ggr/
+år)",,
+,,3,"Kännbar (Kan behöva
+sjukvård)"
+4,Vanligt (1 gång/månad),,
+,,4,Allvarlig (Sjukskrivning)
+5,"Mycket vanligt (1
+gång/vecka)",,
+,,5,"Katastrofal (Död, men för liv)"

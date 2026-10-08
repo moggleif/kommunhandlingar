@@ -4,7 +4,7 @@ Test: tests/test_hamta.py.
 Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta,
 konvertera och skriv. Ett misslyckat försök skriver aldrig över en
 fullständig `.md`. K8:s regel om äldre ögonblicksbilder väntar på
-Wayback-adaptern.
+Wayback-adaptern. Skrivningen avbryts aldrig av tidsgränsen (K11).
 """
 
 import hashlib
@@ -20,6 +20,7 @@ from kommunhandlingar.kandidat import Kandidat
 from kommunhandlingar.konvertering.dokument import Resultat, konvertera, versioner
 from kommunhandlingar.plats import Plats, ledigt_namn, namn_av
 from kommunhandlingar.pool import Pool
+from kommunhandlingar.tidsbudget import utan_avbrott
 
 
 @dataclass(frozen=True)
@@ -129,11 +130,13 @@ def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtad: datetime) -> 
 def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
     return {
         "sidor": len(resultat.sidor) if resultat.sidor else None,
-        "pipeline": " / ".join([steg.version, *versioner()]),
+        "pipeline": " / ".join([steg.version, *versioner(resultat)]),
         "kvalitet": resultat.kvalitet,
         "fel": resultat.fel,
         "kvalitet_per_sida": resultat.kvalitet_per_sida,
         "tal_obekraftade": resultat.tal_obekraftade,
+        "figurer": resultat.figurer,
+        "tolkade": None if resultat.figurer is None else [],
     }
 
 
@@ -142,7 +145,8 @@ def ny_adress(steg: Steg2, dokument: Dokument) -> str:
     _, huvud, kropp = md.read_text(encoding="utf-8").split("---\n", 2)
     falt = frontmatter.las(f"---\n{huvud}---\n") | {"kalla_url": dokument.kandidat.url}
     text = frontmatter.skriv(falt) + kropp
-    skrivning.skriv_md(md, text)
+    with utan_avbrott():
+        skrivning.skriv_md(md, text)
     steg.pool.satt(dokument.sokvag, frontmatter.las(text))
     return "ny adress, samma innehåll"
 
@@ -179,5 +183,6 @@ def tidigare(dokument: Dokument) -> list[str]:
 
 
 def spara(steg: Steg2, sokvag: PurePosixPath, text: str, tabeller: dict) -> None:
-    skrivning.skriv(steg.data / sokvag, text, tabeller)
+    with utan_avbrott():
+        skrivning.skriv(steg.data / sokvag, text, tabeller)
     steg.pool.satt(sokvag, frontmatter.las(text))

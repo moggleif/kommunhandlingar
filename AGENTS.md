@@ -27,9 +27,11 @@ som inte löser ett verkligt problem.
 
 ## Ren kod – strikt
 
-Små, enkla filer och funktioner. Gränserna är hårda och kontrolleras i CI
+Små, enkla filer och funktioner. Den hårda gränsen kontrolleras i CI
 (se `docs/01-BIDRA.md`). Ett undantag kräver ett skäl i koden; hur det
-skrivs står i `docs/01-BIDRA.md`.
+skrivs står i `docs/01-BIDRA.md`. Målet prövas i granskningen (fas 6): en
+funktion eller fil som tillkommer eller ändras och hamnar över målet
+behöver ett skäl i PR-texten. Befintlig kod prövas när den ändras.
 
 | Mått                         | Mål   | Hård gräns |
 | ---------------------------- | ----- | ---------- |
@@ -117,10 +119,8 @@ en gång.
   skickar arbetet tillbaka till fas 5. Övriga fynd rättas eller avvisas med
   ett skäl, eller blir issues. Fas 5 och 6 redovisas i PR-texten.
 - **Committa efter varje fas** som ger ett stabilt resultat.
-- **Gren, inte `main`.** Det enda undantaget är den schemalagda
-  körningen, också när den startas för hand, som checkar in data direkt
-  till `main`, bara under `data/` och bara efter datakontrollerna
-  (ADR-0006).
+- **Gren, inte `main`**, utan undantag. Också den schemalagda körningen
+  checkar in på en egen gren och når `main` genom en PR (ADR-0015).
 
 ## Agentfiler
 

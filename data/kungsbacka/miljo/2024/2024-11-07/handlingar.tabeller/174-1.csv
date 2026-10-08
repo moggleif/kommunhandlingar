@@ -1,0 +1,33 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt alkohollagen och tobakslagen,,,,
+Processgrupp:,Hantera prövning enligt alkohollagen,,,,
+Process:,Prövning provsmakningstillstånd,,,,
+Processnummer:,7.7.1.03,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Ansökan/anmälan med
+bilagor kommer in och
+mottagnings-bekräftelse
+skickas ut",Ansökan,EDP Vision,Digitalt,Bevaras,
+,Anmälan,EDP Vision,Digitalt,Bevaras,"Anmälan görs om det finns ett stadigvarande
+tillstånd i grunden."
+,Mottagningsbekräftelse,EDP Vision,Digitalt,3 år,
+Bilagor till ansökan,Kreditupplysning,EDP Vision,Digitalt,Bevaras,
+,Fullmakt,EDP Vision,Digitalt,3 år,
+,Verksamhetsbeskrivning,EDP Vision,Digitalt,3 år,
+,Hyresavtal,EDP Vision,Digitalt,3 år,
+,Skuldebrev,EDP Vision,Digitalt,3 år,
+,Kontoutdrag,EDP Vision,Digitalt,3 år,
+,Kunskapsprov,EDP Vision,Digitalt,3 år,
+"Skicka ut bekräftelse på
+komplett
+ansökan/anmälan eller
+begäran om
+komplettering","Begäran om
+komplettering",EDP Vision,Digitalt,3 år,
+,Mottagningsbevis,EDP Vision,Digitalt,3 år,
+Utreda,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."

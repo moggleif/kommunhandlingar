@@ -1,0 +1,17 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för personer med funktionsnedsättning,,,,
+Process:,Hantera kontaktperson,,,,
+Processnummer:,6.5.2.8,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn
+bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Genomföra insats,Avtal,Mellanarkiv,Digital,5 år/Bevaras,Mellanarkiv refererar till e-arkivet
+,"Löpande
+arbetsanteckningar",Samarbetsrum,Digital,Se anmärkning,"Relevant dokumentation sammanfattas i personakt.
+Övrigt gallras när det inte längre behövs för
+verksamheten. Inga personuppgifter får förekomma
+i samarbetsrum."
+Avsluta,"Beslut om att
+avsluta insats",Combine,Digital,5 år/Bevaras,

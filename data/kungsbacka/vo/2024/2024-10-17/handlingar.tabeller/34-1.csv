@@ -1,0 +1,15 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Hantera inrapporterade händelser och anmälningar,,,,
+Process:,Hantera anmälningar enligt lex Maria,,,,
+Processnummer:,6.1.2.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Utreda,Utredning med beslut,DF Respons Ciceron,Digital,5 år,
+,"Utredning om allvarlig vårdskada
+eller risk för allvarlig vårdskada som
+anmäls till IVO",Ciceron,Digital,Bevaras,
+Anmäla,Anmälan till IVO,Ciceron,Digital,Bevaras,"Tillsammans med andra
+utgående handlingar."
+Bekräfta,"Bekräftelse från IVO om att anmälan
+enligt lex Maria har mottagits",Ciceron,Digital,Bevaras,
+Besluta,Beslut från IVO,Ciceron,Digital,Bevaras,

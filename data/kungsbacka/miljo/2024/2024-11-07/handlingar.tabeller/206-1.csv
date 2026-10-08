@@ -1,0 +1,28 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt alkohollagen och tobakslagen,,,,
+Processgrupp:,"Hantera klagomål, alkohollagen, tobakslagen och lagen om receptfria läkemedel",,,,
+Process:,Klagomål servering och tobak,,,,
+Processnummer:,7.7.7.01,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Klagomål kommer in,Klagomål,EDP Vision,Digitalt,5 år,"Klagomål om missförhållanden, brister
+servering och brister tobak"
+"Underrätta verksamheten
+genom besök/telefon/e-
+post",Underrättelse,EDP Vision,Digitalt,5 år,"Underrättelse av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+"Redovisning kommer in
+från verksamhetsutövaren
+och handläggare
+granskar den",Fotografi,EDP Vision,Digitalt,5 år,
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras i 5 år.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras i 5 år.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+"Vid obefogat klagomål
+skickas en bekräftelse ut
+om att ärendet avslutas",Bekräftelse,EDP Vision,Digitalt,5 år,
+"Vid befogat klagomål
+upprättas ett nytt
+tillsynsärende",-,-,-,-,Se aktuell tillsynsprocess

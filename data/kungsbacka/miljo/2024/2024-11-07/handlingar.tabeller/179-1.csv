@@ -1,0 +1,31 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt alkohollagen och tobakslagen,,,,
+Processgrupp:,Hantera prövning enligt alkohollagen,,,,
+Process:,Prövning kryddning av spritdryck som snaps,,,,
+Processnummer:,7.7.1.07,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Anmälan med bilagor
+kommer in och
+mottagningsbekräftelse
+skickas ut",Anmälan,EDP Vision,Digitalt,Bevaras,
+,Mottagningsbekräftelse,EDP Vision,Digitalt,3 år,
+,Verksamhetsbeskrivning,EDP Vision,Digitalt,3 år,
+,Meny,EDP Vision,Digitalt,3 år,
+,Hyresavtal,EDP Vision,Digitalt,3 år,
+,Skuldebrev,EDP Vision,Digitalt,3 år,
+,Kontoutdrag,EDP Vision,Digitalt,3 år,
+,Finansieringshandlingar,EDP Vision,Digitalt,3 år,
+"Skicka ut bekräftelse på
+komplett anmälan eller
+begäran om
+komplettering",Begäran komplettering,EDP Vision,Digitalt,3 år,
+,Mottagningsbevis,EDP Vision,Digitalt,3 år,
+Utreda,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,"Begäran om yttrande/
+remiss",EDP Vision,Digitalt,3 år,
+,Yttrande/remissvar,EDP Vision,Digitalt,Bevaras,

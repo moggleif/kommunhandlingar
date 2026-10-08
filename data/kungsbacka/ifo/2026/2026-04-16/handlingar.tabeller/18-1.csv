@@ -1,0 +1,24 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Verksamhetsnära ledning,,,,
+Process:,Hantera ansvar och ersättning mellan kommuner,,,,
+Processnummer:,6.0.1.6,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn
+bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Överflytta ärende
+mellan kommuner","Begäran om
+överflyttning av
+ärende från annan
+kommun",Ciceron/Combine,Digital,5 år/Bevaras,"Begäran diarieförs på respektive kärnprocess. Om
+kommunen godtar begäran registreras ett ärende i
+Combine där handlingarna rörande brukaren
+registreras."
+,Svar om plats,Ciceron/Combine,Digital,5 år/Bevaras,
+,"Ansökan om
+överflyttning av
+ärende",Ciceron,Digital,Bevaras,Till IVO
+,"Beslut om
+överflyttning av
+ärende",Ciceron,Digital,Bevaras,Från IVO

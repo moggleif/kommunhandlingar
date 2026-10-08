@@ -50,9 +50,9 @@ class TestKontrolleraStorlek(unittest.TestCase):
         kallkod = "x = 1\n" * (MAX_RADER_FIL + 1)
         self.assertEqual(len(self.kontrollera(kallkod)), 1)
 
-    def test_fil_med_undantag_godkanns(self):
+    def test_fil_over_gransen_har_inget_undantag(self):
         kallkod = "# undantag: genererad\n" + "x = 1\n" * MAX_RADER_FIL
-        self.assertEqual(self.kontrollera(kallkod), [])
+        self.assertEqual(len(self.kontrollera(kallkod)), 1)
 
     def test_sidbrytning_i_strang_gor_inte_fel(self):
         self.assertEqual(self.kontrollera('s = "a\x0cb"\n'), [])

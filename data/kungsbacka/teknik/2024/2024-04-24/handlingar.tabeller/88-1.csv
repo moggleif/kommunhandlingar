@@ -1,0 +1,16 @@
+Kostnadspost,Enhet,Enhetspriser
+El,SEK/kWh,"1,90"
+Fjärrvärme (köpt),SEK/kWh,"1,00"
+Fjärrvärme (såld),SEK/kWh,"0,10"
+PIX 111,SEK/kg,"2,00"
+PAX XL-60,SEK/kg,"3,00"
+Torrpolymer,SEK/kg,59
+Etanol (biobaserad),SEK/kg,14
+Slamdisponeringskostnad,SEK/ton,500
+Biokol (såld produkt),SEK/ton biokol,920
+Kolkrediter (sålda),SEK/ton biokol,0
+Uppgraderad biogas,SEK/kWh,"0,55"
+Slamdisponeringskostnad,SEK/ton rötat slam,500
+,SEK/ton kalkat slam,293
+Slambehandlingskostand,SEK/ton råslam,600
+Bränd kalk,SEK/ton,2688

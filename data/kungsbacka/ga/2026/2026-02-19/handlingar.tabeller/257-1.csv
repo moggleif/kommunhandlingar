@@ -1,0 +1,55 @@
+2.5.44,2024-11-19,"Som gymnasieadministratör vill jag kunna själv styra
+uppbyggnaden av valet och de instruktioner som ska finnas i
+valet. Detta för att valet varierar mellan olika program och olika
+kurser. Det blir också tydligare för eleven när denne gör sitt
+val.","Av Regelsamling framgår att varje program har olika inriktningar, valbara
+programfördjupningar och individuella valbara kurser. Paketeringen av
+kurser som är valbara för elever kan ändras varje år och är unikt för varje
+gymnasieskola och program. Systemet måste därför vara flexibelt och enkelt
+att justera. Utgångspunkten är Skolverkets program och programstrukturer.
+Utifrån dessa organiserar och beslutar rektor vilka kurser som eleven ska
+kunna välja. Det styrs av: 1. Program eleven går på.; 2. Årskurs eleven är
+inskriven på; 3. Inriktning eleven väljer Eleven ska därför göra en mängd val
+av inriktningar, fördjupningspaket och individuella kurser","När jag som administratör skapar valet
+har jag behov att ange vilka
+inriktningar som är aktuella för valet.
+Detta då rektorn kan besluta att starta
+eller pausa inriktningar från läsår till
+läsår. Systemet uppfyller inte kravet på
+att tillämpa regelsamlingen i detta fall
+eftersom det inte går att välja vilka
+inriktningar som är aktuella för valet.","Instruktioner ska kunna anges för respektive
+inriktning.",Valmodul,Se 2.5.38
+2.5.47,2024-11-19,"Som gymnasieadministratör vill jag kunna simulera och
+kontrollera platstilldelningen innan jag tilldelar eleven plats på
+kursen. Detta för att rektorerna ska kunna göra en till grupp
+och sedan ska alla elever kunna se sina val samtidigt. Ibland
+så ändras förutsättningarna för valet så att max/min antalet
+elever på kurser ändras.","Av Regelsamling framgår att varje program har olika inriktningar, valbara
+programfördjupningar och individuella valbara kurser. Paketeringen av
+kurser som är valbara för elever kan ändras varje år och är unikt för varje
+gymnasieskola och program. Systemet måste därför vara flexibelt och enkelt
+att justera. Utgångspunkten är Skolverkets program och programstrukturer.
+Utifrån dessa organiserar och beslutar rektor vilka kurser som eleven ska
+kunna välja. Det styrs av: 1. Program eleven går på; 2. Årskurs eleven är
+inskriven på; 3. Inriktning eleven väljer Eleven ska därför göra en mängd val
+av inriktningar, fördjupningspaket och individuella kurser. När eleven gör val
+av kurser så ska systemet säkra upp att; 4. Eleven inte läst kursen tidigare;
+5. Eleven inte kan välja samma kurs som är gjort i förstahandsvalet för
+programfördjupningskurser och individuella val. Individuella val, språkval och
+programfördjupningar ska kunna paketeras i olika schemapositioner så att
+eleven kan välja kurser som inte schemamässigt krockar.","Som administratör har jag behov att
+Systemet hjälper mig att säkerställa så
+att eleverna inte gjort val av samma
+kurs både som programfördjupning
+och individuellt val innan jag simulerar
+platstilldelning. Detta då den
+simulerade platstilldelningen blir
+missvisande när elever har samma
+kurskod på flera ställen i samma val.
+Systemet uppfyller inte kravet på att
+tillämpa regelsamlingen i detta fall
+eftersom det inte går att säkerställa att
+eleven inte valt samma kurskod mer
+än en gång i valet och därmed är den
+simulerade platstilldelningen felaktig.",,Valmodul,Se 2.5.38

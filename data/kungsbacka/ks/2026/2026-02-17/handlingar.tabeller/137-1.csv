@@ -1,0 +1,22 @@
+"Utformning
+Scenario",Väjningsplikt,"Väjningsplikt
++ Extra
+körfält
+Tölöleden",Signalreglering,"Signalreglering
++ Svängfält
+norrifrån
+Söderåleden","Signalreglering
++ Extra körfält
+Tölövägen
++ Svängfält
+norrifrån
+Söderåleden"
+"Önskvärd
+servicenivå","0,6","0,6","0,8","0,8","0,8"
+"Godtagbar
+servicenivå","0,6 - 1,0","0,6 - 1,0","0,8 - 1,0","0,8 - 1,0","0,8 - 1,0"
+Nuläge,"0,72",,,,
+"Nuläge + Tölö
+8:26 + Sjukhuset","0,84",,,,
+2050 låg,"1,12","0,89","0,73",,
+2050 hög,"4,94","4,2",över 1,"0,77","0,66"

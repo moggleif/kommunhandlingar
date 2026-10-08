@@ -1,0 +1,18 @@
+22-Mellansedimentering & Returslampumpstation,,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Antal mellansedimenteringar,2,2,st
+Volym (båda),5 945,5 945,m³
+Yta (båda),1 320,1 320,m²
+Djup,"4,5","4,5",m
+Vätskedjup,"3,85","3,85",m
+SVI,150,150,ml/g
+Ytbelastning Q-dim,"0,39","0,50",m/h
+Ytbel. Q-dim inkl tvättvatten från sandfilter,"0,48","0,59",m/h
+Ytbel. Q-max inkl tvättvatten från sandfilter,"0,86","0,86",m/h
+"Slamytbelastning, Q-dim","1,2–2,2","1,5–2,8",kg SS/m2*d
+"Slamytbelastning, Q-max","2,1–4,0","2,1–4,0",kg SS/m2*d
+"Returslampumpar, antal",4,4,st
+"Returslampumpar, kapacitet per pump",400,400,m3/h
+"Flytslampumpstation, antal pumpar",1,1,st
+"Flytslampump, kapacitet",,,m3/h

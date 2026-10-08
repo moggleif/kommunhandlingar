@@ -1,0 +1,34 @@
+Processgrupp:,,,,,
+Process:,,,,,
+Processnummer:,5.2.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Anta och placera,"Ansökan om plats i
+förskola",IST,Digitalt,2 år efter placering,
+,Placeringsmeddelanden,IST,Digitalt,"Gallras när svar
+inkommit",
+,"Svar på erbjudande om
+plats",IST,Digitalt,1 år efter placering,
+,"Inkomstuppgifter från
+vårdnadshavare",IST,Digitalt,10 år,
+,Kölistor,IST,Digitalt,Uppdateras löpande,
+,"Ansökan om
+omplacering",IST,Digitalt,Vid inaktualitet,
+,Anmälan om uppehåll,IST,Digitalt,Vid inaktualitet,
+,"Anmälan om fortsatt
+frånvaro",IST,Digitalt,Vid inaktualitet,
+Registrera närvaro,Närvaroschema,Vklass,Digitalt,3 år,
+"Hantera
+uppsägning av
+plats",Uppsägning,IST,Digitalt,3 år,
+"Driva pedagogisk
+verksamhet","Dokumentation från
+utvecklingssamtal",Vklass,Digitalt,"Vid avslutad
+förskolegång",
+,"Dokumentation på
+individnivå",Vklass,Digitalt,"Vid avslutad
+förskolegång","Avser både foton, film och text som kan kopplas till
+läroplansmål."
+,"Dokumentation på
+gruppnivå och
+förskolenivå",Vklass,Digitalt,Se anm.,"Avser både foton, film och text som kan kopplas till
+läroplansmål."

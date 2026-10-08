@@ -1,0 +1,34 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Hantera prövning av hälsoskyddsverksamhet,,,,
+Process:,Prövning hygienisk verksamhet,,,,
+Processnummer:,7.5.3.01,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Anmälan med bilagor
+kommer in",Anmälan,EDP Vision,Digitalt,Bevaras,
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Egenkontroll,EDP Vision,Digitalt,Bevaras,
+,Ritning,EDP Vision,Digitalt,Bevaras,
+,Fotografi,EDP Vision,Digitalt,Bevaras,
+,Flödesprotokoll,EDP Vision,Digitalt,Bevaras,
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+Utreda,Begäran om komplettering,EDP Vision,Digitalt,Bevaras,
+Utföra platsbesök,Fotografi,EDP Vision,Digitalt,Bevaras,
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Lokalens utformning,EDP Vision,Digitalt,Bevaras,
+,Ventilation,EDP Vision,Digitalt,Bevaras,
+,Ansvarsfördelning,EDP Vision,Digitalt,Bevaras,
+"Skicka underrättelse
+inför nekande beslut
+och svar kommer in
+från sökanden","Kommunicera enligt
+förvaltningslagen",EDP Vision,Digitalt,Bevaras,
+,"Svar på kommunicering
+enligt förvaltningslagen",EDP Vision,Digitalt,Bevaras,
+,Tjänsteskrivelse,EDP Vision,Digitalt,Bevaras,
