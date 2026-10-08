@@ -369,7 +369,7 @@ K13, en post per kandidat med fälten `organ`, `datum` (`ÅÅÅÅ-MM-DD`),
 `typ`, `url`, `kalla`, `kallnyckel` och `filnamn`. Sammanfattningen
 skrivs ut: antal kandidater per organ och varje fil som inte blev
 kandidat, med orsak och källsida. En källsida som inte går att hämta
-stoppar körningen innan listan skrivs.
+stoppar körningen innan listan skrivs, utom i arkivet ([Arkivet](#arkivet)).
 
 ### Arkivet
 
