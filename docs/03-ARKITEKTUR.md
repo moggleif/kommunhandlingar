@@ -436,7 +436,7 @@ Varje sida får en kvalitet:
 | ---------------- | ---------------------------------------------------------------- |
 | `ej-konverterad` | Sidan skulle läsas med OCR, men Tesseract kände inte igen några ord eller medelsäkerheten nådde inte tröskeln. Ingen text från sidan skrivs. |
 | `ocr`            | Sidan lästes med OCR. Den får inga CSV:er.                       |
-| `tabell-osaker`  | Textlagret är läst, men sidan har en osäker tabell.              |
+| `tabell-osaker`  | Textlagret är läst, men sidan har en osäker tabell, eller siffror ur en tabell med linjer som inte gick att läsa säkert. |
 | `ok`             | Textlagret är läst, och sidans tabeller är säkra.                |
 | `tom`            | Sidan har inga tecken och är, renderad, nästan helt vit.          |
 
@@ -491,14 +491,15 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   en cell, och ingen cell rymmer mer än ett tal. En cell rymmer mer än
   ett tal när
   - två rader i den var för sig är ett tal (med eller utan förtecken,
-    parentes eller någon av enheterna nedan), ett ensamt streck, eller
+    decimalpunkt, parentes eller någon av enheterna nedan), ett ensamt streck, eller
     en etikett på ett eller två ord utan siffror följd av ett tal, som
     `4 078⏎4 054`, `(2 100)⏎1 978`, `4 078⏎varav bidrag⏎4 054` eller
     `Utfall 2022⏎50,1`;
   - en rad bara består av tal och streck, med enheterna `%`, `kr`, `tkr`,
-    `mkr`, `mnkr`, `mdkr` och `st`, i gemener eller versaler, borträknade och mellanslag, parenteser
-    och snedstreck med mellanslag omkring som skiljetecken, och de
-    tillsammans inte är ett tal (en decimalpunkt räknas som
+    `mkr`, `mnkr`, `mdkr` och `st`, oavsett skiftläge, borträknade,
+    mellanslag, parenteser och snedstreck med mellanslag omkring som
+    skiljetecken, och ett minustecken först i raden fört till talet, och
+    de tillsammans inte är ett tal (en decimalpunkt räknas som
     decimalkomma), som `65,0 70,0`, `1 234 (1 150)`,
     `74 984 kr 80%` eller `4 078 -`; eller
   - två fält på samma rad i cellen var för sig är ett tal eller ett

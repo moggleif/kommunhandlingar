@@ -5,6 +5,10 @@ En säker tabell är avgränsad av ritade linjer: streck och fyllda
 rektanglar som är högst 2 punkter breda eller höga. Varje ord inom
 tabellens yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer
 än ett tal.
+
+Talen i en cell känns igen vidare än `text.TAL`, med decimalpunkt,
+plustecken, parentes och enhet, eftersom ett tal för mycket bara fäller
+tabellen, medan ett tal för lite ger en cell med två tal i en CSV.
 """
 
 import csv
@@ -20,12 +24,14 @@ from kommunhandlingar.konvertering.text import TAL
 LINJEBREDD = 2
 ENHET = r"%|kr|tkr|mkr|mnkr|mdkr|st"
 # Ett tal, med eller utan parentes och enhet.
-TALET = rf"\(?[-−–+]?\d+(?:[  ]\d{{3}})*(?:[,.]\d+)?\)?(?: ?(?:{ENHET}))?"
+TALET = rf"\(?[-−–+]?\d+(?:[ \xa0]\d{{3}})*(?:[,.]\d+)?\)?(?: ?(?:{ENHET}))?"
 TALRAD = re.compile(rf"{TALET}|[-−–]", re.IGNORECASE)
 # En etikett på ett eller två ord utan siffror följd av ett tal.
 ETIKETT_OCH_TAL = re.compile(rf"[^\d\s]+(?: [^\d\s]+)? {TALET}", re.IGNORECASE)
 VARDE = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?|[-−–]")
 SKILJE = re.compile(r"\s+/\s+|[\s()]+")
+# Excels format för negativa tal ställer minustecknet till vänster i cellen.
+FORTECKEN_FORST = re.compile(r"^\s*([-−–])\s+(?=\d)")
 
 
 def sakra(sida: Page) -> tuple[list[Table], list[tuple]]:
@@ -71,6 +77,7 @@ def flera_tal(cell: str) -> bool:
 
 
 def flera_pa_raden(rad: str) -> bool:
+    rad = FORTECKEN_FORST.sub(r"\1", rad)
     delar = [d for d in SKILJE.split(rad) if d and not re.fullmatch(ENHET, d, re.I)]
     return (
         len(delar) > 1

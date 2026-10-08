@@ -91,8 +91,9 @@ kunna läggas till utan kodändring.
 - **Givet** en tabell som inte går att läsa säkert
 - **Så** märks den som osäker i stället för att sparas som om den vore riktig:
   den blir ingen CSV, och sidan märks `tabell-osaker`. Står den i texten
-  som rader med flera tal står den i Markdown märkt som osäker tabell. En tabell på en sida som lästs med OCR
-  blir aldrig CSV, och sidan behåller sin OCR-märkning.
+  som rader med flera tal står den i Markdown märkt som osäker tabell.
+  En tabell på en sida som lästs med OCR blir aldrig CSV, och sidan
+  behåller sin OCR-märkning.
 
 ## K6 — Det som inte gick att hämta eller konvertera syns
 

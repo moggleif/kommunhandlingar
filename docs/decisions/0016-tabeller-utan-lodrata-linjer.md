@@ -73,7 +73,7 @@ Mätningen visade också en brist i ADR-0005:s regel för tabeller med
 linjer: två rader eller kolumner som linjerna inte skiljer åt hamnar i
 samma cell, till exempel `2 445,1 -8 323,3 -5 878,2 143,4` eller
 `4 078⏎4 054`. Talen är rätt, men cellen är fel. I poolen gäller det
-minst 619 av 8 403 CSV:er. **En tabell med linjer där en cell rymmer mer
+minst 615 av 8 403 CSV:er. **En tabell med linjer där en cell rymmer mer
 än ett tal är därför inte längre säker.** Det prövas både på cellens text
 och på ordens lägen, med samma regel för fält som ovan men med ett
 tvetydigt mellanrum som gräns. Tabellen prövas
@@ -108,7 +108,7 @@ förut.
 * Dåligt, eftersom rubrikerna oftast inte följer med: bara 14 av 98
   tabeller fick rubrikrader. Rubrikerna står kvar i texten ovanför.
 * Dåligt, eftersom en tabell med linjer som har flera tal i en cell nu
-  blir osäker också när en människa kan läsa den. Minst 619 av poolens
+  blir osäker också när en människa kan läsa den. Minst 615 av poolens
   8 403 CSV:er har en sådan cell, räknat på cellernas text. I
   stickproven var de flesta en hel rad med tal i en cell, till exempel
   fem procenttal per rad i personaltabellerna, eller sammanslagna
@@ -119,6 +119,17 @@ förut.
 * Dåligt, eftersom fler sidor blir `tabell-osaker` i handlingarna från
   nämnderna, när de fällda tabellerna med linjer märks: 43 blev 69 i
   proven. Förut blev de flesta av dem `ok` med fel celler i en CSV.
+* Dåligt, eftersom en tabell utan lodräta linjer delas där en rad bara
+  har en etikett, som ett gruppnamn. Varje del blir en egen CSV, och en
+  summarad hamnar i den sista delen fast den summerar hela tabellen.
+  Varje tal står på rätt rad, men tabellen syns inte som en helhet.
+* Dåligt, eftersom reglerna för celler med flera tal bara känner de
+  vanligaste enheterna. Två tal med `SEK`, `kkr`, `procent`, `år`,
+  `kr/st` eller en fotnotsmarkör som `4 054*` i samma cell går igenom;
+  i proven fanns inget sådant fall. Åt andra hållet fälls ett
+  telefonnummer som `114 14` och ett postnummer som `434 81`, och
+  rutor där två rader börjar med ett kort ord och ett tal, som
+  `Bilaga 1⏎Bilaga 2`.
 * Neutralt, eftersom en upphöjd fotnotssiffra direkt efter ett tal
   fortfarande står ihop med talet i texten, som förut. Den blir bara inte
   en del av en CSV.
@@ -194,7 +205,7 @@ förut.
    blev 22. Ingen rad skilde sig från samma rad i pdfplumbers text med
    uppställning: etiketten och talen i samma ordning. Kolumnerna
    kontrollerades för hand mot sidan i nio tabeller. I 29 slumpvis valda
-   handlingar från nämnderna (1 876 sidor) blev 6 tabeller med 61 rader
+   handlingar från nämnderna (1 876 sidor) blev 11 tabeller med 82 rader
    CSV, och 43 sidor med osäker tabell blev 69, eftersom 37 av 510
    tabeller med linjer fälldes för att en cell rymde flera tal. Där var
    de flesta osäkra
@@ -255,5 +266,8 @@ förut.
    är en fast lista i gemener eller versaler, sidan prövas på siffrorna i
    den fällda tabellen, och bara det tvetydiga mellanrummet blir en
    gräns.
+   Det femte varvet visade att Excels format för negativa tal, med
+   minustecknet till vänster i cellen, fällde riktiga tabeller; ett
+   minustecken först i raden förs nu till talet.
 7. **Omprövas** om en vanlig sorts tabell förblir osäker, till exempel
    tabeller med kodkolumn; då kan reglerna utökas med fler etikettfält.

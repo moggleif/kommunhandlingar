@@ -51,6 +51,7 @@ ETT = [
     "10 kap 1 och 2",
     "5 år (dag 5,15 och\n25 bevaras)",
     "15 maj\n2024",
+    "-      54 627",
     "1 och\n2 st",
 ]
 
