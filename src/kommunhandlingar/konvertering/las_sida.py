@@ -1,8 +1,9 @@
-"""Krav: K5 och K6 i docs/02-KRAV.md, ADR-0005 och ADR-0016.
+"""Krav: K5, K6 och K15 i docs/02-KRAV.md, ADR-0005, ADR-0016 och ADR-0017.
 Test: tests/test_konvertering.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
-får inga tabeller, och dess tal är aldrig bekräftade.
+får inga tabeller, och dess tal är aldrig bekräftade. En sida som inte är
+tom prövas för figurer.
 """
 
 from dataclasses import dataclass, field
@@ -10,7 +11,7 @@ from dataclasses import dataclass, field
 import pypdfium2 as pdfium
 from pdfplumber.page import Page
 
-from kommunhandlingar.konvertering import ocr, olinjerade, tabeller
+from kommunhandlingar.konvertering import figurer, ocr, olinjerade, tabeller
 from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
 
@@ -23,6 +24,7 @@ class Sida:
     tal_obekraftade: bool
     text: str = ""
     tabeller: list[list[list[str]]] = field(default_factory=list)
+    figur: bool = False
 
 
 def las_sida(sida: Page, rendering: pdfium.PdfPage) -> Sida:
@@ -30,15 +32,15 @@ def las_sida(sida: Page, rendering: pdfium.PdfPage) -> Sida:
         case "tom":
             return Sida("tom", False)
         case "ocr":
-            return ocr_sida(rendering)
+            return ocr_sida(rendering, figurer.har_figur(sida, []))
     return textsida(sida)
 
 
-def ocr_sida(rendering: pdfium.PdfPage) -> Sida:
+def ocr_sida(rendering: pdfium.PdfPage, figur: bool) -> Sida:
     text = ocr.las(rendering)
     if text is None:
-        return Sida("ej-konverterad", True)
-    return Sida("ocr", True, komprimera(text.splitlines()))
+        return Sida("ej-konverterad", True, figur=figur)
+    return Sida("ocr", True, komprimera(text.splitlines()), figur=figur)
 
 
 def ej_vita(rendering: pdfium.PdfPage) -> float:
@@ -63,6 +65,7 @@ def textsida(sida: Page) -> Sida:
         olasliga(sida) > 0,
         text,
         [rader for _, rader in hittade],
+        figurer.har_figur(sida, rutor),
     )
 
 

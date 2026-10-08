@@ -19,6 +19,8 @@ kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok]
 tal_obekraftade: [21, 23, 24, 25, 26, 27, 29, 32, 44, 45, 46, 47, 49, 50, 51, 52, 53, 71, 72, 73, 78, 79]
+figurer: null
+tolkade: null
 ---
 
 <!-- sida 1 -->

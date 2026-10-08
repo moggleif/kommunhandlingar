@@ -19,6 +19,8 @@ kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ocr, ok, ok]
 tal_obekraftade: [3]
+figurer: null
+tolkade: null
 ---
 
 <!-- sida 1 -->

@@ -51,14 +51,14 @@ class Pool(unittest.TestCase):
     def fel(self) -> list[str]:
         return fel_i(self.data)
 
-
-class TestDatakontroll(Pool):
     def andra(self, relativ: str, **falt) -> None:
         md = self.data / relativ
         _, huvud, kropp = md.read_text(encoding="utf-8").split("---\n", 2)
         nya = frontmatter.las(f"---\n{huvud}---\n") | falt
         md.write_text(frontmatter.skriv(nya) + kropp, encoding="utf-8")
 
+
+class TestDatakontroll(Pool):
     def test_poolen_som_steg_2_skriver_den_gar_igenom(self):
         self.assertEqual(self.fel(), [])
         self.assertTrue((self.data / DOKUMENT).with_suffix(".tabeller").is_dir())
@@ -134,9 +134,8 @@ class TestTabellkontroll(Pool):
 
     def test_namn(self):
         (self.katalog / "02-1.csv").write_text("a\n")
-        self.assertEqual(
-            self.fel(), [f"{self.relativ}/02-1.csv: heter inte <sida>-<nr>.csv"]
-        )
+        namn = "<sida>-<nr>.csv eller <sida>-<nr>.tolkad.csv"
+        self.assertEqual(self.fel(), [f"{self.relativ}/02-1.csv: heter inte {namn}"])
 
     def test_lucka_i_numren(self):
         (self.katalog / "2-3.csv").write_text("a\n")

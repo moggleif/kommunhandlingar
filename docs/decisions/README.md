@@ -41,3 +41,4 @@ Regler för det här repot, utöver MADR:
 | 0014 | [Markdown-texten har en kommentar per sida, uppställningen kvar och de säkra tabellerna efter sidans text](0014-markdown-texten-och-steg-2.md) | proposed |
 | 0015 | [Nattkörningen checkar in på en egen gren, och datat når `main` genom en PR med samma kontroller som all annan ändring](0015-nattkorningen-pa-egen-gren-och-pr.md) | proposed |
 | 0016 | [Tabeller utan lodräta linjer läses ur textlagrets ord och blir CSV bara när talen står i linje](0016-tabeller-utan-lodrata-linjer.md) | proposed |
+| 0017 | [Sidor med figurer märks vid konverteringen och tolkas i efterhand av en Claude-session](0017-figurer-marks-och-tolkas-i-efterhand.md) | proposed |

@@ -19,6 +19,8 @@ kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
+figurer: null
+tolkade: null
 ---
 
 <!-- sida 1 -->

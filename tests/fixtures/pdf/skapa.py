@@ -1,4 +1,5 @@
-"""Krav: K5 och K6, ADR-0005. Skapar PDF-fixturerna för tests/test_konvertering.py.
+"""Krav: K5, K6 och K15, ADR-0005 och ADR-0017.
+Skapar PDF-fixturerna för tests/test_konvertering.py.
 
 Körs för hand med reportlab, pypdf och Pillow, som inte är projektets
 beroenden: `python tests/fixtures/pdf/skapa.py`. Varje sida i `sidor.pdf`
@@ -194,6 +195,19 @@ def linjer_runt_tva_priser(c: Canvas) -> None:
         c.drawRightString(400, y, b)
 
 
+def stapeldiagram(c: Canvas) -> None:
+    """Två serier om fyra staplar, med talet ovanför varje stapel."""
+    c.drawString(60, 780, "Antal besök per år")
+    for i, ar in enumerate(("2023", "2024", "2025", "2026")):
+        x = 100 + 100 * i
+        c.drawString(x, 480, ar)
+        for j, (varde, farg) in enumerate(((120 + 10 * i, 0.2), (90 + 5 * i, 0.6))):
+            c.setFillColorRGB(farg, 0.4, 1 - farg)
+            c.rect(x + 30 * j, 500, 25, varde, stroke=0, fill=1)
+            c.setFillGray(0)
+            c.drawString(x + 30 * j, 505 + varde, str(varde))
+
+
 SIDOR = [
     textsida,
     linjetabell,
@@ -211,6 +225,7 @@ SIDOR = [
     linjer_med_tva_tal_i_en_cell,
     fotnot_vid_talet,
     linjer_runt_tva_priser,
+    stapeldiagram,
 ]
 
 
