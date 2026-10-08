@@ -56,6 +56,15 @@ Hur och varför står i
   emellan står nya tabeller bredvid den gamla `.md`; dess `kalla_url` är
   då fortfarande den gamla, så nästa körning gör om dokumentet. En sådan
   körning checkas aldrig in (se nedan).
+- **En äldre version av poolen konverteras om** (K8,
+  [ADR-0019](decisions/0019-omkonvertering-efter-poolens-version.md)).
+  Ett fullständigt dokument vars `pipeline` börjar med en annan version
+  av poolen än den som körs hämtas igen från `kalla_url` och konverteras
+  om, efter alla andra kandidater. Det är versionen som avgör, och den
+  höjs när konverteringen ändrar vad den skriver (se
+  [Konvertering och kvalitet](#konvertering-och-kvalitet)), så en
+  höjning konverterar om hela poolen under de närmaste nätterna. PDF:en
+  sparas inte mellan körningarna; den hämtas igen.
 - **Det som en gång tagits in tas inte bort** (K12,
   [ADR-0007](decisions/0007-poolen-ar-en-ogonblicksbild.md)). Ett
   dokument står kvar när det försvinner ur källan, och historiken på
@@ -690,7 +699,8 @@ utfallen och nämner varje dokument som inte gick att hämta, med orsak.
   ser ut, blir `ej-konverterad` med `trasig-pdf`, och felet skrivs ut, så
   att en enda fil inte stoppar körningen.
 - **Ett dokument med samma källnyckel och sha256** under en ny adress får
-  bara ny `kalla_url`; texten och tabellerna rörs inte.
+  bara ny `kalla_url`; texten och tabellerna rörs inte. Har det en äldre
+  version av poolen konverteras det om i stället.
 
 ## Tabeller
 
