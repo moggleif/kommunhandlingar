@@ -29,8 +29,9 @@ som inte löser ett verkligt problem.
 
 Små, enkla filer och funktioner. Den hårda gränsen kontrolleras i CI
 (se `docs/01-BIDRA.md`). Ett undantag kräver ett skäl i koden; hur det
-skrivs står i `docs/01-BIDRA.md`. Målet kontrolleras i granskningen (fas 6):
-kod över målet behöver ett skäl att inte delas.
+skrivs står i `docs/01-BIDRA.md`. Målet prövas i granskningen (fas 6): en
+funktion eller fil som tillkommer eller ändras och hamnar över målet
+behöver ett skäl i PR-texten. Befintlig kod prövas när den ändras.
 
 | Mått                         | Mål   | Hård gräns |
 | ---------------------------- | ----- | ---------- |
