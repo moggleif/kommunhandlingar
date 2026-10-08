@@ -1,0 +1,35 @@
+Verksamhetsområde:,Gemensam skolverksamhet,,,,
+Processgrupp:,Hantera skolekonomiska frågor,,,,
+Process:,Hantera skolekonomiska frågor,,,,
+Processnummer:,5.1.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera personal-
+fördelning","Personallista i
+ekonomisystem",Raindance,Digitalt,Se anmärkning,Uppdateras löpande i systemet.
+Hantera skolpeng,Beslut om bidragsnivå,Ciceron,Digitalt,Bevaras,
+,"Fil från
+elevhanteringssystem
+(för kommunala enheter)","Raindance/
+Samarbetsrum",Digitalt,7 år,"Filer registreras manuellt i FG/uppföljning i
+Raindance för kommunala skolor."
+,"Fil från
+elevhanteringssystem
+(för fristående enheter)","Raindance/
+Samarbetsrum",Papper,7 år,"Vid utbetalning till fristående enheter läses filerna
+automatiskt in i Raindance.
+Kopior finns digitalt i Raindance och i samarbetsrum."
+,"Manuell utbetalning
+(för fristående enheter)",Raindance,Papper,7 år,"Manuella utbetalningar registreras i
+leverantörsregistret i Raindance."
+"Hantera
+statsbidrag",Ansökan om statsbidrag,Ciceron,Digitalt,Bevaras,"Underlag skickas till Skolverket via e-tjänst, ansökan
+genereras och inkommer."
+,"Beslut om tilldelning av
+statsbidrag",Ciceron,Digitalt,Bevaras,"Inkommer som avisering via e-post och kan laddas
+ned från e-tjänst."
+,"Begäran om utbetalning
+eller rekvisition",Ciceron,Digitalt,Bevaras,Skickas till Skolverket via e-tjänst
+,"Redovisning av
+statsbidrag",Ciceron,Digitalt,Bevaras,
+,Beslut om redovisning,Ciceron,Digitalt,Bevaras,"Inkommer som avisering via e-post och beslutet
+laddas ned från e-tjänst."

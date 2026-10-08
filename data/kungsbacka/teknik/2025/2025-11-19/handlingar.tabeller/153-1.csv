@@ -1,0 +1,47 @@
+"Projekt
+Arendalsleden
+351958",,,"Plats Kungsbacka
+Borrhål 25TY02
+Datum 2025 09 17 1221"
+"Förborrningsdjup 2,00 m
+Startdjup 2,00 m
+Stoppdjup 20,00 m
+Grundvattenyta 1,50 m
+Referens my
+Nivå vid referens 4,86 m","Förborrat material Fyllning
+Geometri Normal
+Vätska i filter Glycerin
+Operatör Michaela Eriksson
+Utrustning Geotech 504
+x Portryck registrerat vid sondering",,
+"Kalibreringsdata
+Spets 4231 Inre friktion O 0,0 kPa
+c
+Datum 2025-09-01 Inre friktion O 0,0 kPa
+f
+Areafaktor a 0,815 Cross talk c 0,000
+1
+Areafaktor b 0,000 Cross talk c 0,000
+2",,"Nollvärden, kPa
+Portryck Friktion Spetstryck
+Före 254,80 106,10 2,61
+Efter 246,30 106,20 2,59
+Diff -8,50 0,10 -0,01
+Korrigering
+Portryck (ingen)
+Friktion (ingen)
+Spetstryck (ingen)
+Bedömd sonderingsklass D",
+"Skalfaktorer
+Portryck Friktion Spetstryck
+OmrådeFaktor Område Faktor Område Faktor
+Använd skalfaktorer vid beräkning",,,
+"Portrycksobservationer Skiktgränser Klassificering
+Djup (m) Portryck (kPa) Djup (m) Djup (m) Densitet
+1,50 0,00 Från Till (ton/m3) Flytgräns Jordart
+0,00 1,70 1,90 0,00 F:grsa
+1,70 2,00 1,60 0,74 Le(t)
+2,00 2,50 0,74
+2,50 3,00 1,39
+3,00 20,00 1,39",,,
+Anmärkning,,,

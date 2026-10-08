@@ -1,0 +1,38 @@
+"Hantera utbetalning
+från Future","Utbetalningsfil till
+Swedbank",Se anm,Digitalt,7 år,P:\EDP Future Filer\Utbetalningar\SUS\Arkiv
+"Hantera
+kravhantering",Betalningspåminnelser,Se anm.,Digitalt,2 år,"Raindance: I systemet. Går inte att exportera Future:
+P:\EDP Future Filer\Kravfil\Parajett\Arkiv"
+,Inkassokrav,Se anm.,Digitalt,7 år,"Raindance:
+P:\DFiles\Inkassobolag\Intrum\Inkassokrav
+Future: P:\EDP Future Filer\Kravfil\Intrum\Arkiv"
+,"Betalningsföreläggande
+betalda","Närarkiv
+Vägmästaren",Papper,7 år,"Betalning registreras i KRP och när hela skulden är
+betald sätts alla underlag i pärmen
+“Betalningsföreläggande betalda”."
+,"Avskrivningar,
+kundfakturor","Närarkiv,
+Vägmästaren",Papper,7 år,"Avskrivning utförs i Raindance och Future. Fordran
+skrivs av i bokföringen och skulden registreras hos
+efterbevakningsföretaget.
+Vid avskrivning gentemot gäldenär registreras fordran
+inte hos efterbevakningsföretaget."
+Hantera autogiro,"Medgivande/avanmälning
+ar från BGC","Närarkiv,
+Vägmästaren",Papper,"Gallras vid
+inaktualitet","Ansökning/avanmälan inkommer via Internetbanken,
+Autogiro Online eller via blankett. Ansökningarna
+som sker digitalt skrivs ut och arkiveras i närarkiv.
+Ansökningarna som sker digitalt spara ner under
+respektive BG-nummer:
+KSF Ekonomi KLK -
+Dokument\Kundteamet\AUTOGIRO\Medgivanden\åå
+åå"
+Hantera E-faktura,"Anmälan/avanmälan e-
+faktura kundreskontran",Se anm.,Digitalt,7 år,"Anmälan/avanmälan läses in digitalt i Raindance och
+Future.
+Inlästa filer sparas ner:
+Raindance: P:\DFiles\Efaktura\Inlast
+Future: P:\EDP Future Filer\Efaktura\Arkiv"

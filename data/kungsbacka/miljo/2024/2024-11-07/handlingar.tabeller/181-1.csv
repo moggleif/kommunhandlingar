@@ -1,0 +1,23 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt alkohollagen och tobakslagen,,,,
+Processgrupp:,Hantera prövning enligt alkohollagen,,,,
+Process:,Prövning lokal för cateringsverksamhet,,,,
+Processnummer:,7.7.1.08,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Anmälan med bilaga
+kommer in och
+mottagningsbekräftelse
+skickas ut",Anmälan,EDP Vision,Digitalt,Bevaras,
+,Mottagningsbekräftelse,EDP Vision,Digitalt,3 år,
+,Brandskyddsbeskrivning,EDP Vision,Digitalt,3 år,
+Utreda anmälan,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,"Begäran om
+yttrande/remiss",EDP Vision,Digitalt,3 år,
+,Yttrande/remissvar,EDP Vision,Digitalt,Bevaras,
+"Skicka ut bekräftelse till
+verksamhetsutövare",Bekräftelse,EDP Vision,Digitalt,Bevaras,

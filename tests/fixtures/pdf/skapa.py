@@ -1,4 +1,5 @@
-"""Krav: K5 och K6, ADR-0005. Skapar PDF-fixturerna för tests/test_konvertering.py.
+"""Krav: K5, K6 och K15, ADR-0005 och ADR-0017.
+Skapar PDF-fixturerna för tests/test_konvertering.py.
 
 Körs för hand med reportlab, pypdf och Pillow, som inte är projektets
 beroenden: `python tests/fixtures/pdf/skapa.py`. Varje sida i `sidor.pdf`
@@ -71,6 +72,73 @@ def olinjerad(c: Canvas) -> None:
         c.line(60, y - 5, 360, y - 5)
 
 
+def olinjerad_med_huvud(c: Canvas) -> None:
+    c.drawString(60, 780, "Driftbudget")
+    rader = [
+        ("Belopp, tkr", "Budget 2027", "Plan 2028"),
+        ("Intäkter", "4 078", "4 054"),
+        ("Kostnader", "-1 845", "-2 001"),
+        ("Ombudget", "500", ""),
+        ("Avgifter", "-", "120"),
+        ("Netto", "2 233", "2 053"),
+    ]
+    for i, (namn, a, b) in enumerate(rader):
+        y = 760 - 20 * i
+        c.drawString(60, y, namn)
+        c.drawRightString(260, y, a)
+        c.drawRightString(360, y, b)
+
+
+def ej_i_linje(c: Canvas) -> None:
+    for i, (namn, a, b) in enumerate(
+        [
+            ("Intäkter", "4 078", "12"),
+            ("Kostnader", "-1 845", "3 001"),
+            ("Netto", "7", "45"),
+        ]
+    ):
+        y = 760 - 20 * i
+        c.drawString(60, y, namn)
+        c.drawString(200, y, a)
+        c.drawString(300, y, b)
+
+
+def linjer_med_tva_tal_i_en_cell(c: Canvas) -> None:
+    rutnat(c, [60, 210, 310, 410], [775, 755, 735, 695])
+    for i, (namn, a, b) in enumerate(
+        [
+            ("Post", "2026", "2027"),
+            ("Intäkter", "4 078", "4 054"),
+            ("Kostnader", "-1 845", "-2 001"),
+            ("Netto", "2 233", "2 053"),
+        ]
+    ):
+        y = 760 - 20 * i
+        c.drawString(65, y, namn)
+        c.drawRightString(305, y, a)
+        c.drawRightString(405, y, b)
+
+
+def fotnot_vid_talet(c: Canvas) -> None:
+    """Fotnoten 3 står upphöjd direkt efter 40, så att 40 och 3 slutar i linje."""
+    for i, (namn, a, b) in enumerate(
+        [
+            ("Intäkter", "4 078", "40"),
+            ("Kostnader", "-1 845", "12"),
+            ("Netto", "2 233", "20"),
+        ]
+    ):
+        y = 760 - 20 * i
+        c.drawString(60, y, namn)
+        c.drawRightString(260, y, a)
+        fot = c.stringWidth("3", "Helvetica", 7) if i == 0 else 0
+        c.drawRightString(360 - fot, y, b)
+    c.setFont("Helvetica", 7)
+    c.drawRightString(360, 764, "3")
+    c.setFont("Helvetica", 12)
+    c.drawString(60, 690, "3) Inklusive bidrag.")
+
+
 def skanning(c: Canvas, synligt: str = "", osynligt: str = "") -> None:
     c.drawImage(brus(), 0, 0, B, H)
     if synligt:
@@ -112,6 +180,34 @@ def kurvor(c: Canvas) -> None:
     c.drawPath(sokvag, stroke=0, fill=1)
 
 
+def linjer_runt_tva_priser(c: Canvas) -> None:
+    """Ingen linje mellan de två priserna, och enheten gör raden till text.
+    Raderna ovanför läses som tabell utan lodräta linjer och täcker rutans
+    mitt, men inte priserna."""
+    rader = [("Frukost", "50", "60"), ("Kaffe", "20", "25"), ("Te", "15", "20")]
+    rader += [("Fika", "30", "35")]
+    rader += [("Lunch", "1 200 kr", "1 300 kr"), ("Middag", "800 kr", "850 kr")]
+    rutnat(c, [60, 210, 410], [775 - 20 * i for i in range(len(rader) + 1)])
+    for i, (namn, a, b) in enumerate(rader):
+        y = 760 - 20 * i
+        c.drawString(65, y, namn)
+        c.drawRightString(300, y, a)
+        c.drawRightString(400, y, b)
+
+
+def stapeldiagram(c: Canvas) -> None:
+    """Två serier om fyra staplar, med talet ovanför varje stapel."""
+    c.drawString(60, 780, "Antal besök per år")
+    for i, ar in enumerate(("2023", "2024", "2025", "2026")):
+        x = 100 + 100 * i
+        c.drawString(x, 480, ar)
+        for j, (varde, farg) in enumerate(((120 + 10 * i, 0.2), (90 + 5 * i, 0.6))):
+            c.setFillColorRGB(farg, 0.4, 1 - farg)
+            c.rect(x + 30 * j, 500, 25, varde, stroke=0, fill=1)
+            c.setFillGray(0)
+            c.drawString(x + 30 * j, 505 + varde, str(varde))
+
+
 SIDOR = [
     textsida,
     linjetabell,
@@ -124,6 +220,12 @@ SIDOR = [
     kurvor,
     lambda c: c.line(60, 400, 500, 400),
     inskannad_text,
+    olinjerad_med_huvud,
+    ej_i_linje,
+    linjer_med_tva_tal_i_en_cell,
+    fotnot_vid_talet,
+    linjer_runt_tva_priser,
+    stapeldiagram,
 ]
 
 

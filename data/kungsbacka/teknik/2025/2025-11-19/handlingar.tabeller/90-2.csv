@@ -1,0 +1,23 @@
+53-Polymerhantering,,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Polymerberedning förtjockning primärslam,,,
+Antal,1,1,
+Polymer dos,5–10,5–10,g/kg TS
+Polymer mängd,13–26,17–33,kg/d
+"Polymer mängd, 20 h drift","0,6–1,3","0,8–1,7",kg/h
+Vald kapacitet,"1,5","2,0",kg/h
+Koncentration,"0,1","0,1",%
+Pumpar till polymer förtjockning primärslam,,,
+Flöde polymer,13–26,17–33,m3/d
+"Flöde, 20 h drift","0,6–1,3","0,8–1,7",m3/h
+Antal pumpar,2,2,
+Flöde per pump,"1,3","1,7",m3/h
+Vald kapacitet,"1,5","2,0",m3/h
+Polymerberedning förtjockning bioslam,,,
+Antal,1,1,
+Polymer dos,5–10,5–10,g/kg TS
+Polymer mängd,10–20,12–24,kg/d
+"Polymer mängd, 20 h drift","0,5–1,0","0,6–1,2",kg/h
+Vald kapacitet,"1,0","1,5",kg/h
+Koncentration,"0,1","0,1",%

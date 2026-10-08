@@ -1,0 +1,29 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Hantera dispensansökningar,,,,
+Process:,Prövning dispens spridning av gödsel,,,,
+Processnummer:,7.5.5.04,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Ansökan med bilagor
+kommer in och
+mottagningsbekräftelse
+skickas ut",Ansökan,EDP Vision,Digitalt,20 år,
+,Karta,EDP Vision,Digitalt,20 år,
+,Växtodlingsplan,EDP Vision,Digitalt,20 år,
+,Mottagningsbekräftelse,EDP Vision,Digitalt,20 år,
+Granska,Begäran om komplettering,EDP Vision,Digitalt,20 år,
+,Korrespondens,EDP Vision,Digitalt,20 år,"Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+Utföra platsbesök,Tjänsteanteckning,EDP Vision,Digitalt,20 år,"Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Inspektionsrapport,EDP Vision,Digitalt,20 år,
+"Besluta samt skicka ut
+tidkort",Beslut,EDP Vision,Digitalt,Bevaras,
+,Tidkort,EDP Vision,Digitalt,20 år,
+"Delge beslut och signerat
+delgivningskvitto kommer
+in",Delgivningskvitto,EDP Vision,Digitalt,20 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,20 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

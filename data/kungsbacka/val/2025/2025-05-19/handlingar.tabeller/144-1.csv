@@ -1,0 +1,13 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Ledning,,,,
+Processgrupp:,Myndighetsredovisning,,,,
+Process:,Lämna övriga uppgifter till SCB,,,,
+Processnummer:,1.1.4.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Initiera,Korrespondens,Diarium,Digitalt,5 år,
+,Webenkät,Diarium,Digitalt,5 år,Ifylld webenkät sparas ner och diarieförs.
+,Formulär,Diarium,Digitalt,5 år,"Inkommer från SCB som excelark och är baserad
+på det enkätsvar kommunen skickade till SCB."
+Sammanställa,Underlag,Diarium,Digitalt,5 år,"Avser underlag som inhämtas från diverse system
+och förvaltningar."
+Lämna,Ifyllt formulär,Diarium,Digitalt,5 år,

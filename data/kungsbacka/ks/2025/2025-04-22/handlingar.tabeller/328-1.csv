@@ -1,0 +1,23 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,HR/Personal,,,,
+Processgrupp:,Samverkan och förhandling,,,,
+Process:,Hantera LAS,,,,
+Processnummer:,2.3.1.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Meddela fack om
+varsel","Kopia på varsel om
+uppsägning",Se anmärkning,Papper,Se anmärkning,"Original skickas till fack. Varsel som resulterar i
+avslut bevaras och läggs i personakt.
+Varsel som inte resulterar i avslut e-postas till
+personalarkiv och gallras efter 2 år.
+personalarkivet@kungsbacka.se"
+,"Kopia på varsel om
+avsked",Se anmärkning,Papper,Se anmärkning,"Original skickas till berörd. Varsel som resulterar i
+avslut bevaras och läggs i personakt.
+Varsel som inte resulterar i avslut e-postas till
+personalarkiv och gallras efter 2 år.
+personalarkivet@kungsbacka.se"
+,"Varselbrev av
+tidsbegränsad
+anställning","HR-administratör
+för LAS/Winlas",Papper,2 år,

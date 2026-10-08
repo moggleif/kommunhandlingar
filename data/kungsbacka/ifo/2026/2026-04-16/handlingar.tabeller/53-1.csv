@@ -1,0 +1,34 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för personer med funktionsnedsättning,,,,
+Process:,"Hantera ansökan eller anmälan, utreda och fatta beslut enligt socialtjänstlagen eller lag om stöd och service till vissa funktionshindrade",,,,
+Processnummer:,6.5.1.1,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn
+bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Aktualisera,"Ansökan om insats
+samt bilagor",Combine,Digital,5 år/Bevaras,"Pappersoriginal skannas in i Combine och gallras
+därefter."
+Utreda,"Utredning i enskilt
+ärende",Combine,Digital,5 år/Bevaras,
+,"Inkommen, utgående
+eller upprättad
+handling av betydelse
+för ärendet",Combine,Digital,5 år/Bevaras,"Pappersoriginal skannas in i Combine och gallras
+därefter."
+,"Inkommen, utgående
+eller upprättad
+handling av tillfällig
+betydelse för ärendet
+och/eller av
+rutinmässig karaktär",Combine,Digital,"Gallras när det inte
+längre behövs för
+utredningen",
+,"Registerkontroll, som
+utgör underlag för
+beslut",Combine,Digital,5 år/Bevaras,"Registerkontroller med tillfällig betydelse, kan
+gallras vid inaktualitet. Pappersoriginal skannas in i
+Combine och gallras därefter."
+,Fullmakt,Combine/Närarkiv,"Digital/
+papper",5 år/Bevaras,Bevaras både digitalt och på papper.

@@ -1,0 +1,16 @@
+Riskanalys,"Analys av risk för brister i verksamhetens kvalitet från
+ett omsorgstagare- och patientperspektiv. Ej att
+sammanblandas med riskanalys från till exempel
+arbetstagarperspektiv."
+Sannolikhet,"Avser uppskattad sannolikhet för att något ska inträffa
+som leder till brist i verksamhetens kvalitet. Bedöms på
+en fyrgradig skala, där 1 representerar lägsta tänkbara
+sannolikhet och 4 representerar högsta tänkbara."
+Allvarlighetsgrad,"Avser uppskattad konsekvens om risk inträffar. Bedöms
+på en fyrgradig skala där 1 representerar minsta
+tänkbara konsekvens och 4 representerar högsta
+tänkbara."
+Riskvärde,"Sammantagen bedömning av riskens värde. Beräknas
+genom att multiplicera sannolikhet med
+allvarlighetsgrad. Riskvärdets storlek avgör hur risken
+ska hanteras."

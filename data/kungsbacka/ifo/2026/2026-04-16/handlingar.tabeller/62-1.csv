@@ -1,0 +1,34 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för personer med funktionsnedsättning,,,,
+Process:,Hantera daglig verksamhet,,,,
+Processnummer:,6.5.2.12,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn
+bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Genomföra insats,Genomförandeplan,Combine,Digital,5 år/Bevaras,
+,Levnadsberättelse,Combine,Digital,5 år/Bevaras,
+,Handlingsplan,Combine,Digital,5 år/Bevaras,
+,Journalanteckning,Combine,Digital,5 år/Bevaras,
+,"Korrespondens av
+vikt med brukare,
+närstående,
+ställföreträdare,
+ombud",Combine,Digital,5 år/Bevaras,
+,"Underlag för
+utbetalning av
+habiliteringsersättning",Samarbetsrum,Digital,"Gallras 7 år efter
+det kalenderår då
+räkenskapsåret
+avslutades",
+,"Löpande
+arbetsanteckning",Combine/Närarkiv,"Digital/
+Papper",Se anmärkning,"Gallras när det inte längre behövs för
+verksamheten. Anteckningar av relevans tillförs
+personakt i Combine."
+,"Kopia av
+anteckningar från",Combine/Närarkiv,"Digital/
+Papper",Se anmärkning,"Gallras när det inte längre behövs för
+verksamheten. Anteckningar av relevans tillförs
+personakt i Combine."

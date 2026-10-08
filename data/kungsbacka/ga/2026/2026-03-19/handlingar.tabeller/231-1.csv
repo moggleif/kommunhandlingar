@@ -1,0 +1,47 @@
+,,raderar webbläsardata
+"Uppladdade filer till Sveas
+källor","Underleverantör enligt
+underbilaga 2a","Tills administratörer tar bort
+filen manuellt, eller när
+organisationen raderas från
+systemet"
+"Ljudfiler (uppladdade filer och
+inspelningar)",På användarens enhet,Tills transkriberingen är klar
+Transkriberingar,På användarens enhet,"Tills användaren raderar
+datan i Sveas gränssnitt eller
+raderar webbläsardata"
+"Användarinformation (email,
+id, organisation, o.s.v.)","Underleverantör enligt
+underbilaga 2a","Tills användaren raderas från
+systemet"
+"Organisationsinformation
+(användarinformation,
+dokument, o.s.v.)","Underleverantör enligt
+underbilaga 2a","Tills organisationen raderas
+från systemet"
+"Användarassistenter och
+organisations assistenter
+(och dokument uppladdade
+till assistenten)","Underleverantör enligt
+underbilaga 2a","Tills administratören raderar
+assistenten, eller
+organisationen raderas från
+systemet"
+"Annoteringsunderlag
+(textutdrag från
+organisationens källor)","Underleverantör enligt
+underbilaga 2a","Tills en administratör ber om
+att ta bort underlaget"
+"Annoterad data (det som
+produceras av användare)","Underleverantör enligt
+underbilaga 2a","Tills annotatören eller
+administratör ber om att ta
+bort den annoterade datan"
+"Händelselogg och
+användarstatistik","Underleverantör enligt
+underbilaga 2a","När användare eller
+organisation raderas från
+systemet frånkopplas
+händelseloggen och
+användarstatistik från
+användar-ID (anonymisering)"

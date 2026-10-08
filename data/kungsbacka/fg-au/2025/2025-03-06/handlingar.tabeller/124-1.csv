@@ -1,0 +1,34 @@
+Processgrupp:,Driva grundskola och förskoleklass,,,,
+Process:,Anta och placera elev,,,,
+Processnummer:,5.4.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera val av
+skola","Överlämnad
+dokumentation från
+annan skola",Vklass,Digitalt,Bevaras,"T.ex. betyg från annan kommun. Registreras i
+Vklass."
+,"Ansökan om val eller
+byte av skola",Artvise,Digitalt,Se anmärkning,"Gallring sker automatiskt av Artvise support efter 18
+månader."
+,"Avslag beslut om
+placering vid skolenhet",Ciceron,Digitalt,Bevaras,
+,"Pedagogisk överlämning
+mellan skolformer och
+skolor inom Kungsbacka",Vklass,Digitalt,Bevaras,
+,Studieplan,IST,Digitalt,Bevaras,
+,Placering för elev,IST,Digitalt,Bevaras,
+,"Beslut om att gå om en
+årskurs",Prorenata,Digitalt,Bevaras,7 kap 4c §
+,"Beslut om att flytta upp
+elev en årskurs",Prorenata,Digitalt,Bevaras,4 kap. 7 § skolförordningen
+,"Beslut och motivering
+om befrielse från
+skyldighet att delta i
+obligatoriska inslag i
+undervisningen",Prorenata,Digitalt,Bevaras,Beslut enligt 7 kap. 19 § skollagen.
+,"Överklagan om befrielse
+från obligatoriska inslag i
+undervisningen",Ciceron,Digitalt,Bevaras,"För hantering av överklagan, se separat
+kommunövergripande process 1.4.4.1"
+,"Beslut om särskild
+undervisning i hemmet",Prorenata,Digitalt,Bevaras,Beslut enligt 24 kap. 20–21 §§ skollagen.

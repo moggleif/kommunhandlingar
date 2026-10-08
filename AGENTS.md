@@ -27,9 +27,11 @@ som inte löser ett verkligt problem.
 
 ## Ren kod – strikt
 
-Små, enkla filer och funktioner. Gränserna är hårda och kontrolleras i CI
+Små, enkla filer och funktioner. Den hårda gränsen kontrolleras i CI
 (se `docs/01-BIDRA.md`). Ett undantag kräver ett skäl i koden; hur det
-skrivs står i `docs/01-BIDRA.md`.
+skrivs står i `docs/01-BIDRA.md`. Målet prövas i granskningen (fas 6): en
+funktion eller fil som tillkommer eller ändras och hamnar över målet
+behöver ett skäl i PR-texten. Befintlig kod prövas när den ändras.
 
 | Mått                         | Mål   | Hård gräns |
 | ---------------------------- | ----- | ---------- |

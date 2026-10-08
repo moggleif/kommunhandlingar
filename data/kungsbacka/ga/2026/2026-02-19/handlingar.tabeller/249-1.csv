@@ -1,0 +1,60 @@
+Krav-ID,Release,Kravtext,Hänvisning,Användarbeskrivning,Justering 230825,Kategori,Övrigt
+4.1.34,2024-04-09,"Systemet ska kunna integreras dubbelriktat mot IT-
+pedagogiska systemet, Vklass","Enligt gymnasieförordningen ska ett Utdrag ur betygskatalogen innehålla
+ogiltig frånvaro. 2011:123 (skolverket.se)","När jag som administratör ska skriva
+ut Utdrag ur betygskatalog för elev så
+saknas information om ogiltig
+frånvaro. Detta då integrationen inte
+uppfyller kravet.","Gotit säkerställer att hämta frånvaro från Vklass
+via API till systemet så att admin kan skriva ut
+Utdrag ur betygskatalog med elevens totala
+frånvaro.",Integration,
+2.2.07,2024-04-09,"Som administratör vill jag kunna se placeringar som inte är
+aktiva just nu, både bakåt och framåt i tiden. Detta för att
+ibland kommer frågor om hur många barn/elever vi har haft
+placerade eller hur många barn/elever som kommer att
+placeras på en enhet.",,"När jag som administratör kontrollerar
+placeringar framåt/bakåt i tiden så får
+jag information per dagens datum.
+Dock saknas information om
+placeringar om såväl bakåt som
+framåt i tiden. Vad leverantören anger
+i Egenkontrollen och under testfall
+GA02 i Bilaga 1 till brev 2023-03-01 är
+inte en lösning på hur administratören
+ska kunna se information om
+placeringar framåt i tiden eller på
+angivet datum. Kravet är därmed inte
+uppfyllt.",,"Elevadministrat
+ion",
+2.5.26,2024-04-09,"Som gymnasieadministratör vill jag att information om vilken
+årskurs en elev går, vid vilken enhet elev är inskriven och till
+vilken poängplan som elev är kopplad, ska leda till att elev
+antingen flyttas till nästa läsår på samma skola eller slutar och
+skrivs ut. Detta för att effektivisera arbetet och minska den
+manuella hanteringen",,,"OBS ELEVER PÅ IM-PROGRAMMET FÅR INTE
+FLYTTAS UPP TILL ÅK.2, DE GÅR ENBART ÅK.1
+IMA, IMY, IMS Gäller inte: IMV = programinriktat
+val som följer programmet ex. SA Som admin vill
+jag vara säker på att vid läsårsskifte elever som
+ska fortsätta läsa ett på IMA, IMY och IMS inte
+flyttas upp till årskurs 2 utan kvarskrivs på åk 1.
+Detta rör inte IMV. LÖSNING SKA VARA PÅ
+PLATS INNAN NÄSTA LÄSÅRSSKIFTE.","Elevadministrat
+ion",
+5.1.20,2024-04-09,"""Som administratör vill jag kunna vill jag kunna se en rapport
+som illustrerar elevers Betyg per program, rektorsenheten och
+totalt för enheten
+• Totalt antal elever
+• Andel (%) med examen
+• Andel (%) med studiebevis
+• Andel (%) med grundläggande behörighet
+• Andel (%) med utökat program
+• Genomsnittligt betygspoäng
+• Genomsnittligt betygspoäng för elever med examen
+• Antal elever som får F i en kurs""",,,,Betygsstatistik,
+5.1.21,2024-04-09,"Som gymnasieadministratör och rektor vill jag kunna skapa
+rapporter som illustrerar antal elever totalt per årskurs,
+rektorsenhet, skola och program. Jag vill kunna filtrera enligt
+rektorsenhet, specifik inriktning, elever med mer än 250p F
+och elever med TF-nummer.",,,,Betygsstatistik,

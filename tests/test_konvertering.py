@@ -33,7 +33,7 @@ class TestSidorna(unittest.TestCase):
             [
                 "ok",  # löptext med datum och diarienummer
                 "ok",  # tabell med linjer och en färgad rad
-                "tabell-osaker",  # tabell utan lodräta linjer
+                "ok",  # tabell utan lodräta linjer, talen i linje
                 "tom",  # tom sida
                 "ej-konverterad",  # skanning av brus: OCR finner inga ord
                 "ej-konverterad",  # brus med osynligt OCR-lager: läses om
@@ -42,6 +42,12 @@ class TestSidorna(unittest.TestCase):
                 "ej-konverterad",  # en ritad yta utan tecken
                 "tom",  # bara ett streck
                 "ocr",  # inskannad blankett
+                "ok",  # tabell utan lodräta linjer med rubrikrad
+                "tabell-osaker",  # tabell utan lodräta linjer, talen inte i linje
+                "ok",  # linjer, men en cell rymmer två tal
+                "tabell-osaker",  # en upphöjd fotnotssiffra direkt efter ett tal
+                "tabell-osaker",  # linjer, men två priser i en cell
+                "ok",  # stapeldiagram med talen ovanför staplarna
             ],
         )
         self.assertEqual(self.resultat.kvalitet, "delvis")
@@ -76,10 +82,10 @@ class TestSidorna(unittest.TestCase):
         self.assertNotIn("4 078", sida.text)
 
     def test_osaker_tabell_behaller_uppstallningen(self):
-        text = self.resultat.sidor[2].text
-        self.assertTrue(text.startswith("```osaker-tabell\nIntäkter"))
-        self.assertIn("4 078         4 054", text)
-        self.assertEqual(self.resultat.sidor[2].tabeller, [])
+        sida = self.resultat.sidor[12]
+        self.assertTrue(sida.text.startswith("```osaker-tabell\nIntäkter"))
+        self.assertIn("4 078        12", sida.text)
+        self.assertEqual(sida.tabeller, [])
 
 
 class TestFilerSomInteGarAttOppna(unittest.TestCase):
@@ -95,6 +101,7 @@ class TestFilerSomInteGarAttOppna(unittest.TestCase):
             )
             self.assertIsNone(resultat.kvalitet_per_sida)
             self.assertIsNone(resultat.tal_obekraftade)
+            self.assertIsNone(resultat.figurer)
 
     def test_losenord_som_bara_begransar_hindrar_inte(self):
         self.assertEqual(konvertera(PDF / "begransad.pdf").kvalitet, "delvis")

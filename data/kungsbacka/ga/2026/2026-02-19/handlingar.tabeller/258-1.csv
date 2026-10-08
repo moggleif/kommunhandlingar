@@ -1,0 +1,61 @@
+Krav-ID,Release,Kravtext,Hänvisning,Användarbeskrivning,Justering 230825,Kategori,Övrigt
+5.3.15,2025-02-11,"Som administratör vill jag att systemet hjälper mig att rätt
+betyg hamnar i rätt kuvert genom att skriva ut ett försättsblad
+med namn som kan visas i ett fönsterkuvert","Av krav 4.1.10 framgår att systemet ska tillämpa de föreskrifter som krävs
+enligt Skolverket.","När jag som gymnasieadministratör
+skriver ut Utdrag ur betygskatalog
+saknas försättsblad och därmed kan
+inte betygen läggas i ett fönsterkuvert.
+För att uppnå kravuppfyllnad krävs att
+Systemet skriver ut ett försättsblad i
+samband med att jag skriver ut ett
+Utdrag ur betygskatalogen.","Ändringshanteras gäller enbart utdrag ur
+betygskatalog Gotit lägger till en checkruta för att
+få ut ett försättsblad anpassat efter önskade
+inställningar på sidan Rapporter/Betyg/utdrag
+betygskatalog. Försättsbladet kommer läggas före
+respektive elevs utdrag i PDF-utskrift.",Betyg,
+5.1.01,2025-02-11,"Som ekonom eller administratör inom förskola- och fritidshem,
+grundskola och gymnasium vill jag kunna ta fram rapporter
+som kan visa antingen faktiskt antal eller procentuell andel (av
+elever).",,Kravställda rapporter saknas.,Ändringshantera,Rapporter,
+2.5.21,2025-02-11,"Som specialpedagog vill jag kunna i samband med
+åtgärdsprogram upprättas i systemet meddela
+gymnasieadministratör att en anpassning av studieplanen är
+beslutad. Detta för att tydligt i systemet kunna spåra när och
+hur beslutet om anpassning har skett.",,"Funktionen saknas för att meddela
+gymnasieadministratör att en
+anpassning av studieplanen är
+beslutad, vilket i detta fall har
+kravställts för att användas av en
+specialpedagog i samband med
+upprättandet av ett åtgärdsprogram i
+Systemet. Funktionen är nödvändig för
+spårbarhet i Systemet, i detta fall med
+avseende på när och hur beslutet om
+anpassning har skett.","Som specialpedagog vill jag, när ett
+åtgärdsprogram upprättats i Prorenata, kunna
+skriva en notis i systemet som ger en automatisk
+avisering till administratör. Se funktionen för
+skolbyte. Gotit anpassar systemet så att när
+specialpedagog meddelar i systemet om beslut av
+anpassning så meddelas administratör, likt
+funktionen skolbyte.",Behörighet,
+3.3.08,2025-02-11,"Systemet ska ha funktioner för att kunna kravställa
+aktiveringsdata (pinkod, lösenord etc.) vad gäller komplexitet,
+längd och livslängd.","Kommunen har angett till leverantören vilka parametrar som är krav-ställda.
+Parametrar: 10 tecken uppbyggt på minst tre av följande - Stor bokstav, liten
+bokstav, siffra och tecken","När jag som Systemförvaltare är i
+behov av att skapa en användare som
+saknar möjlighet att verifiera sig in i
+systemet med exempelvis BankID ska
+Systemet skapa användarnamn och
+lösenord enligt kommunens
+kravställda parametrar. Systemet
+skapar inget lösenord enligt
+kravställda parametrar. För att uppnå
+kravuppfyllnad krävs att Systemet
+skapar lösenord med kravställda
+parametrar.","Gotit lägger in de önskade parametrarna: 10
+tecken uppbyggt på minst tre av följande - Stor
+bokstav, liten bokstav, siffra och tecken.",Övrig,

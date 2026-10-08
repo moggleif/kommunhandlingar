@@ -78,11 +78,22 @@ kunna läggas till utan kodändring.
   bredvid dokumentets `.md`, med sidnummer, och tabellen syns också i
   Markdown-texten. Varje CSV går att föra tillbaka till sitt dokument,
   och därmed till dokumentets härkomst.
+- **Givet** en tabell utan lodräta linjer, där varje rad är en etikett
+  följd av tal och talen står i linje i kolumner
+- **Så** går den att läsa säkert och blir CSV som en tabell med linjer.
+  Rubrikraderna ovanför följer med när varje rubrik står i linje med sin
+  kolumn; annars står de kvar i texten.
+- **Givet** en tabell med linjer där en cell rymmer mer än ett tal
+- **Så** går den inte att läsa säkert med linjerna som cellgränser. Det
+  som inte går att läsa som en tabell utan lodräta linjer står kvar i
+  sidans text, och står en siffra ur tabellen där märks sidan
+  `tabell-osaker`.
 - **Givet** en tabell som inte går att läsa säkert
 - **Så** märks den som osäker i stället för att sparas som om den vore riktig:
-  den blir ingen CSV, den står i Markdown märkt som osäker tabell, och
-  sidan märks `tabell-osaker`. En tabell på en sida som lästs med OCR
-  blir aldrig CSV, och sidan behåller sin OCR-märkning.
+  den blir ingen CSV, och sidan märks `tabell-osaker`. Står den i texten
+  som rader med flera tal står den i Markdown märkt som osäker tabell.
+  En tabell på en sida som lästs med OCR blir aldrig CSV, och sidan
+  behåller sin OCR-märkning.
 
 ## K6 — Det som inte gick att hämta eller konvertera syns
 
@@ -300,3 +311,48 @@ kunna läggas till utan kodändring.
 - **När** den visas
 - **Så** har den samma meny, med startsidan och en statussida per kommun,
   och en sidfot som länkar till repot.
+
+## K15 — Figurer märks och kan tolkas
+
+- **Givet** en sida som kan ha ett diagram, en karta, ett schema eller
+  en bild
+- **När** dokumentet konverteras
+- **Så** står sidan i dokumentets `figurer`. En liten logotyp eller ett
+  vapen räknas inte, och en sida för mycket är bättre än en för lite.
+- **Givet** poolen
+- **När** arbetslistan tas fram
+- **Så** står varje dokument med sidor i `figurer` som inte står i
+  `tolkade`, med de sidorna.
+- **Givet** ett dokument i arbetslistan
+- **När** dess sidor ska tolkas
+- **Så** hämtas originalet på nytt, och sidorna renderas bara om
+  originalet har samma sha256 som när det konverterades. PDF:en raderas
+  efteråt.
+- **Givet** ett diagram vars tal står utskrivna
+- **När** sidan tolkas
+- **Så** blir talen en tolkad CSV, `<sida>-<nr>.tolkad.csv`. Varje tal i
+  den står också i sidans text; ett tal som bara går att läsa av mot en
+  axel tas inte med.
+- **Givet** ett schema eller ett flöde
+- **När** sidan tolkas
+- **Så** blir det ett Mermaid-diagram sist på sidan.
+- **Givet** en karta, ett foto eller ett diagram utan utskrivna tal
+- **När** sidan tolkas
+- **Så** blir det en kort beskrivning sist på sidan.
+- **Givet** en tolkad sida
+- **När** tolkningen är klar
+- **Så** står sidan i `tolkade`, och tolkningen står sist på sidan, märkt
+  som tolkad, med vem som tolkade och när.
+- **Givet** ett tolkat dokument
+- **När** det konverteras om
+- **Så** försvinner tolkningarna, och sidorna står i arbetslistan igen.
+- **Givet** en tolkad CSV med ett tal som inte står i sidans text, eller
+  siffror som inte är ett helt tal och inte står ordagrant i sidans
+  text, eller på en sida som inte står i `tolkade`; eller en sida i
+  `tolkade` utan precis en tolkning med modell och datum, en tolkning
+  på en sida som inte står där, eller ett tolkat dokument där en sida
+  står två gånger; eller `tolkade` som inte är sidor ur `figurer`, i
+  ordning, `figurer` med en sida som inte finns, eller det ena av dem
+  `null` men inte det andra
+- **När** datakontrollen körs
+- **Så** faller den.

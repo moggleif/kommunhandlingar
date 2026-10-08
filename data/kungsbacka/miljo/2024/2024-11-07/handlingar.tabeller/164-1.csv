@@ -1,0 +1,34 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärende enligt livsmedelslagen,,,,
+Processgrupp:,Utöva tillsyn livsmedelsanläggningar,,,,
+Process:,Tillsyn av livsmedelsanläggning,,,,
+Processnummer:,7.6.6.01,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Utföra tillsyn och begära in
+kompletterande uppgifter",Fotografi,EDP Vision,Digitalt,Bevaras,
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Produktspecifikation,EDP Vision,Digitalt,Bevaras,
+,Provrapport,EDP Vision,Digitalt,Bevaras,
+"Underrätta
+verksamhetsutövaren",Kontrollrapport,EDP Vision,Digitalt,Bevaras,
+"Skicka underrättelse inför
+nekande beslut och
+verksamhetsutövaren
+kommer in med svar","Kommunicera enligt
+förvaltningslagen",EDP Vision,Digitalt,Bevaras,
+,"Svar på kommunicering
+enligt förvaltningslagen",EDP Vision,Digitalt,Bevaras,
+"Verksamhetsutövaren har
+vidtagit åtgärder",Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+Besluta om rättelse,Tjänsteskrivelse,EDP Vision,Digitalt,Bevaras,
+,Beslut,EDP Vision,Digitalt,Bevaras,
+"Delge beslut och signerat
+delgivningskvitto kommer in",Delgivningskvitto,EDP Vision,Digitalt,5 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,5 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

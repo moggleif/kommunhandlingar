@@ -17,15 +17,8 @@ Skapa en gren innan något skrivs. Committa efter varje fas.
 ## Fas 2 – Design och dokumentation
 
 - Beskriv hur kraven uppfylls i `docs/03-ARKITEKTUR.md`.
-- **Ett beslut som är svårt att ändra får en ADR** i `docs/decisions/`
-  enligt `adr-template.md` (MADR 4). Regler i `docs/decisions/README.md`:
-  - minst tre alternativ med för- och nackdelar,
-  - diskussionen under *More Information*: invändningar, svar och vad som
-    avgjorde,
-  - en rekommendation från en agent märks som AI-agentens, och
-    AI-agenten står under `consulted`,
-  - beslutet fattas av en människa (`decision-makers`, med roll och
-    aldrig namn); till dess är status `proposed`.
+- **Ett beslut som är svårt att ändra får en ADR** i `docs/decisions/`,
+  enligt reglerna i `docs/decisions/README.md`.
 - Hitta varje fil som beskriver eller indexerar den del som ändras – krav,
   arkitektur, ADR-index, `docs/kallor/<kommun>.md`, README – och uppdatera
   dem nu, inte i efterhand.

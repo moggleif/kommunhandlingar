@@ -1,0 +1,13 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Ledning,,,,
+Processgrupp:,Yttrande och enkäter,,,,
+Process:,Hantera yttranden,,,,
+Processnummer:,1.1.5.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Registrera,Remiss,Diarium,Digitalt,Bevaras,"Avser inkommen remiss. Ev. pappershandlingar
+skannas, förs till ärendet i diarium och gallras."
+,Begäran om yttrande,Diarium,Digitalt,Bevaras,"Avser inkommen begäran om yttrande. Ev.
+pappershandlingar skannas och förs till ärendet i
+diarium."
+Besvara,Svar på remiss,Diarium,Digitalt,Bevaras,
+,Yttrande,Diarium,Digitalt,Bevaras,

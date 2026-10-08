@@ -1,0 +1,72 @@
+,"åtgärder relaterade till Incidenten inom de
+tidsfrister som framgår av tabellen under punkt
+18.3.","och att åtgärder
+påbörjats."
+"Bilaga C2 SLA
+p. 2 samt Bilaga
+C5 Allmänna
+bestämmelser
+p. 18.3","Prioritering av incidenter sker enligt avsnitt två
+i Bilaga C2 SLA, samt Bilaga C5 Allmänna
+bestämmelser p. 18.3, enligt följande.
+Brådskande: Starttid för analys eller åtgärd ska
+vara inom 2 timmar från mottagande av
+incidentanmälan. Återrapportering ska ske
+varannan timme. Incidenten ska vara avhjälp
+inom 8 timmar från mottagande av
+incidentanmälan.
+Hög: Starttid för analys eller åtgärd ska vara
+inom 2 timmar från mottagande av
+incidentanmälan. Återrapportering ska ske var
+4:e timme. Incidenten ska vara avhjälp inom 8
+timmar från mottagande av incidentanmälan.
+Normal: Starttid för analys eller åtgärd ska
+vara inom 1 kalenderdag från mottagande av
+incidentanmälan. Återrapportering ska ske
+dagligen. Incidenten ska vara avhjälp inom 5
+kalenderdagar från mottagande av
+incidentanmälan.","Prioritering av incidenter
+sker enligt Gotits
+prioriteringsmodell enligt
+följande.
+i. Kritisk: Allvarliga
+incidenter som har
+mycket stor påverkan på
+verksamheten innebär
+brådskande (sic!) att
+undanröja incidenten.
+Gotit ska påbörja
+felanalys och
+felavhjälpande inom 2
+timmar efter upptäckt
+eller inkommen
+anmälan.
+ii. Hög: Allvarliga
+incidenter som har
+påverkar på vissa
+användare innebär
+brådskande (sic!) att
+undanröja incidenten.
+Gotit ska påbörja
+felanalys inom 4 timmar
+efter upptäckt eller
+inkommen anmälan.
+iii. Medium: Incidenter
+som har mindre
+påverkan på
+verksamheten innebär
+angeläget (sic!) att
+undanröja incidenten.
+Gotit ska påbörja
+felanalys inom 8 timmar
+efter upptäckt eller
+inkommen anmälan.
+iv. Låg: Incident utan
+påverkan på
+verksamheten som
+endast kräver åtgärder
+efter överenskommelse
+och rättelse i ny version.
+hög, medel och låg, med
+återrapporterings- och
+avhjälpandetider som"

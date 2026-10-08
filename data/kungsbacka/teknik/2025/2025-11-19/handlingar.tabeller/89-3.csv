@@ -1,0 +1,11 @@
+"46-Brutet vatten, pumpstation",,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Längd,"1,65","1,65",m
+Bredd,3,3,m
+Djup,"6,96","6,96",m
+Vätskedjup,,,m
+Processvolym,,,m3
+Flöde,,,m3/h
+Antal pumpar,3,3,st
+Vald kapacitet per pump,35,35,m3/h

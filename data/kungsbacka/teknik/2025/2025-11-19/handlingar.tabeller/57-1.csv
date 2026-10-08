@@ -1,0 +1,195 @@
+Lö,Kat,Verksamhetsdel,Beskrivning av riskmoment,Åtgärd / Förtydligande,Komment,Belopp till målbudget,,,Viktning %,,,
+Kategori (Kat),,,"Kostnadsökning, personsäkerhet, miljö etc",,Medverka,Möjlighet,Risker,,,,,
+Ek=Ekonomi,,,,,nBdesetällare,,,,"4= 100% utfall
+3= Hög risk/möjlighet (75-
+100%)
+2= medium risk/möjlighet (25-
+75%)
+1= låg risk/möjlighet (0-25%)
+0= kräver aktivt
+beslutsfattande BE",,,
+Te=Teknik,,,,,Byggentr.,"Inköpsvinster eller annat
+tex plocka bort","Kostnad att överföra som
+riskpeng till målbudget",,,,,
+Tid=Tid,,,,,Markentr.,,,,,,,
+Mi=Miljö,,,,,Grundentr.,,,,,,,
+Am= Arbetsmiljö,,,,Ej aktuellt att utreda vidare / Ej aktuellt att genomföra,Elentr. (EL),,,,,,,
+Ju=Juridik,,,,Utreds vidare. Omfattning? Alternativ? mm,Vsentr.,,,,,,,
+"Sko=Samarbete, kompetens, or",,,ganisation,Förändringen genomförs,(VVeSn)tentr.,,,,,,,
+V=verksamheten/hyresgästen,,,,Ytterligare förklaring krävs för att förstå frågeställningen,(SVtoEm)entr.,,,,,,,
+,,,,,(STE),,,,,,,Sannolikhetsberäknad R&M
+,,,,,Ansvar,- 21 036 302 kr,142 880 363 kr,Summa,,PUE-arvode TE-arvode,,
+1,,Övergripande,Index Bygg,"Räknat 2,5% per år i Index Material, 3 % per år för löner YA & 4 % per år för löner TJM",TE,- 3 000 000 kr,3 000 000 kr,0,2,,"9,5%",- kr
+2,,Övergripande,Index Mark,Beräknat efter ByggDialogs mall,ME,- 500 000 kr,500 000 kr,0,2,"10,5%","9,5%",- kr
+3,,Övergripande,Index Process,Index beräknat varje inköp,P,,1 000 000 kr,1 000 000,1,"15,0%","9,5%","157 406,25 kr"
+4,,Övergripande,Index VS,Beräknat efter ByggDialogs mall,VS,,285 000 kr,285 000,1,"11,0%","9,5%","43 300,41 kr"
+5,,Övergripande,Index VENT,Beräknat efter ByggDialogs mall,VE,- 366 302 kr,370 198 kr,3 896,3,"11,0%","9,5%","3 551,54 kr"
+6,,Övergripande,Index EL,Beräknat efter ByggDialogs mall,EL,- 1 000 000 kr,,-1 000 000,1,"13,0%","9,5%","- 154 668,75 kr"
+7,,Övergripande,Index Stomme,6 % som snitt över produktionstiden,STE,- 200 000 kr,200 000 kr,0,2,"11,0%","9,5%",- kr
+8,,Övergripande,Index Grund,"2M i Index, möjlighet att köpa på sig mtrl om index sticker iväg",GE,- 1 000 000 kr,1 000 000 kr,0,2,"16,5%","9,5%",- kr
+9,,Övergripande,Omvärldsläget,"Materialpriser rörliga i skakigt omvärldsläge, Cementkris, Tariffer, stopp i Suezkanal etc",TE,,3 000 000 kr,3 000 000,2,,"9,5%","1 642 500,00 kr"
+10,,Övergripande,Valutaändringar,På framförallt stål & processutrustning,TE,- 1 000 000 kr,3 000 000 kr,2 000 000,2,,"9,5%","1 095 000,00 kr"
+11,,Övergripande,Vinterkostnad,"Snöstkottning, maskintimmar, täckning material, YA-timmar etc",TE,,2 000 000 kr,2 000 000,2,,"9,5%","1 095 000,00 kr"
+12,,Övergripande,Risk dyrare betong närmaste åren,"9540 kubik i projektet. Indexreglererat enl rad 1, men risk för högre priser",TE,,2 000 000 kr,2 000 000,2,,"9,5%","1 095 000,00 kr"
+13,,Övergripande,Risk dyrare provisorier,"Projekterat och med i kalkyl det vi ser idag, men risk för ytterligare provisorier",TE,,5 000 000 kr,5 000 000,3,,"9,5%","4 106 250,00 kr"
+14,,Övergripande,Exponeringsklasser,"Fastslagit i projektet, men under omarbetning",TE,- 1 000 000 kr,1 000 000 kr,0,2,,"9,5%",- kr
+15,,Övergripande,Sekundärsmide,"Räknat schablonmässigt, kommer framgå under bygghandlingsprojekteringen",TE,,1 000 000 kr,1 000 000,2,,"9,5%","547 500,00 kr"
+16,,Övergripande,Industriabsorbenter,"Ingår enligt handling/BBR, ev behövs mer för bättre komfort",TE,- 500 000 kr,500 000 kr,0,1,,"9,5%",- kr
+17,,Övergripande,YA övertid & inarbetning,"Eventull övertid för gjutningar etc, ev inarbetning för att hålla tidplan",TE,,3 000 000 kr,3 000 000,2,,"9,5%","1 642 500,00 kr"
+18,,Övergripande,Atex-klass i byggnader,"Under utredning, kan innebära merkostnad för Installationer",TE,,1 000 000 kr,1 000 000,2,,"9,5%","547 500,00 kr"
+19,,Övergripande,Brist på byggström,Wattbank/Batteri kan behövas,TE,,500 000 kr,500 000,2,,"9,5%","273 750,00 kr"
+20,,Övergripande,"Durk, trappor, räcken","Utreds vidare gällande korrosionsklass, utförande i glasfiber etc",TE,,500 000 kr,500 000,2,,"9,5%","273 750,00 kr"
+21,,Block 1,Ytskydd Nya Betongkonstruktioner,"Liner på btg-ytor i EDN med i kalkyl, risk finns att det kommer behövas i fler volymer",TE,,1 000 000 kr,1 000 000,2,,"9,5%","547 500,00 kr"
+22,,Block 1,Ny Sandfilterleverantör,Påverkas byggnaden i volym och storlek,TE,- 1 000 000 kr,2 000 000 kr,1 000 000,2,,"9,5%","547 500,00 kr"
+23,,Block 2,Ytskydd Nya Betongkonstruktioner,"Liner på undersida bjälklag & skvalpzon vägg i slamlager med i kalkyl, risk finns att det kommer behövas i fler volymer",TE,,1 000 000 kr,1 000 000,2,,"9,5%","547 500,00 kr"
+24,,Block 2,Efterspänning armering i balkar/bjälklag över AGS,"Svårkalkylerat innan K har räknat på det, momentet uppskattat till 600 000 kr i kalkyl",TE,,2 000 000 kr,2 000 000,2,,"9,5%","1 095 000,00 kr"
+25,,Block 2,Kanaler i AGS för avskiljd Avdragsränna,"Svårt moment, risk för mer tidskrävande",TE,,1 000 000 kr,1 000 000,2,,"9,5%","547 500,00 kr"
+26,,Block 3,A05 - Skick betong i kulvert,"Inventering visar att betongen är bra, förbättring ytskikt med i kalkyl, men om större åtgärder ändå behövs",TE,,500 000 kr,500 000,2,,"9,5%","273 750,00 kr"
+27,,Block 3,B01 - Skick betong i QD,"Ej inventerad, men prefab från 90-talet, troligtvis ok. Cementmebran hela ytan i kalkyl, men om större åtgärder krävs",TE,,3 000 000 kr,3 000 000,2,,"9,5%","1 642 500,00 kr"
+28,,Block 3,B03 - Skick betong i MS,"Inventering visar att åtgärder krävs,vattenbilning + 30 mm sprutbetong alla ytor i kalkyl. Om delar av konstruktionen
+behöver gjutas om.",TE,,1 500 000 kr,1 500 000,1,,"9,5%","205 312,50 kr"
+29,,Block 3,B04 - Skick betong i MS,"Inventering visar att åtgärder krävs,vattenbilning + 30 mm sprutbetong alla ytor i kalkyl. Om delar av konstruktionen
+behöver gjutas om.",TE,,1 500 000 kr,1 500 000,1,,"9,5%","205 312,50 kr"
+30,,Block 3,"B06 - svårkalkylerad, risk för ytterligare åtgärder","Betongrenovering, nya stomdelar etc",TE,,1 500 000 kr,1 500 000,2,,"9,5%","821 250,00 kr"
+31,,Block 3,B08/B14 - Åtgärder/renovering/ny pålning regnbassänger,"Hanterat i kalkyl, men svårkalkylerat ingrep i befintlig bassäng",TE,,3 000 000 kr,3 000 000,2,,"9,5%","1 642 500,00 kr"
+32,,Block 3,B09 - Skick betong i BIO-P,"Ej möjlig att inventera, troligtvis den mest påverkade volymen. Vattenbilning + 30 mm sprutbetong alla ytor i kalkyl.
+Om delar av konstruktionen behöver gjutas om.",TE,,4 000 000 kr,4 000 000,2,,"9,5%","2 190 000,00 kr"
+33,,Block 3,Stor ledning till QD,"Troligtvis i dåligt skick, relining kan behövas",TE,,1 000 000 kr,1 000 000,3,,"9,5%","821 250,00 kr"
+34,,Block 4,Stomvalsinriktningsändring/-justering,Återbrukad stomme räknat i kalkyl för A14,TE,- 500 000 kr,,-500 000,1,,"9,5%","- 68 437,50 kr"
+35,,Block 4,Labutrsutning behöver kompletteras,Utsrustning enligt Rumsfunktionsprogram ingår,TE,,500 000 kr,500 000,1,,"9,5%","68 437,50 kr"
+36,,Block 4,Verkstadsutrustning,"Uppskattat i kalkyl, om projektet ska köpa in mer utrustning",TE,,500 000 kr,500 000,1,,"9,5%","68 437,50 kr"
+37,,Block 4,Omfattning Renovering/Ombyggnad A04,Omfattning av ny stomkomplettering samt ytskikt kan öka beroende på skick av befintlig delar.,TE,,1 000 000 kr,1 000 000,2,,"9,5%","547 500,00 kr"
+38,,Övergripande,Övergripande Rivning,Risk för ytterligare frischaktningar kopplat till rivning,R,,300 000 kr,300 000,1,"15,0%","9,5%","47 221,88 kr"
+39,,Övergripande,Övergripande Rivning,Risk för ytterligare ställningsbyggnation kopplat till rivning,R,,300 000 kr,300 000,1,"15,0%","9,5%","47 221,88 kr"
+40,,Övergripande,Övergripande Rivning,Ökning av FA och miljöförstörande avfall,R,,400 000 kr,400 000,2,"15,0%","9,5%","251 850,00 kr"
+41,,Block 3,A05 Rivning,Volatila skrotpriser,R,- 30 000 kr,30 000 kr,0,2,"15,0%","9,5%",- kr
+42,,Block 3,A05 Rivning,Föroreningar i Vägg- & Golvbeläggningar/Färg,R,,400 000 kr,400 000,1,"15,0%","9,5%","62 962,50 kr"
+43,,Block 3,A05 Rivning,Försäljning av kompressorer & Utrustning,R,- 50 000 kr,,-50 000,2,"15,0%","9,5%","- 31 481,25 kr"
+44,,Block 3,B01 Rivning,Deponi impregnerat trä samt luftdysor,R,,70 000 kr,70 000,2,"15,0%","9,5%","44 073,75 kr"
+45,,Block 3,B03 & B04 Rivning,Volatila skrotpriser,R,- 15 000 kr,5 000 kr,-10 000,2,"15,0%","9,5%","- 6 296,25 kr"
+46,,Block 3,B03 & B04 Rivning,FA i form av färg eller ytbehandling,R,,50 000 kr,50 000,2,"15,0%","9,5%","31 481,25 kr"
+47,,Block 3,B03 & B04 Rivning,Dolda konstruktioner & Rördragningar som ska rivas,R,,100 000 kr,100 000,2,"15,0%","9,5%","62 962,50 kr"
+48,,Block 3,B06 Rivning,Deponi betong vid föroreningar,R,,80 000 kr,80 000,2,"15,0%","9,5%","50 370,00 kr"
+49,,Block 3,B08 Rivning,Deponi betong vid föroreningar,R,,123 057 kr,123 057,2,"15,0%","9,5%","77 479,76 kr"
+50,,Block 3,B08 Rivning,"Räknat med borrning för stålpålar, krävs fyrkantssågning & Borrning ökar priset",R,,200 000 kr,200 000,2,"15,0%","9,5%","125 925,00 kr"
+51,,Block 3,B14 Rivning,Deponi betong vid föroreningar,R,,23 708 kr,23 708,1,"15,0%","9,5%","3 731,79 kr"
+52,,Block 3,B14 Rivning,Risk rivning av betongkonstruktioner utanför bassäng,R,,300 000 kr,300 000,1,"15,0%","9,5%","47 221,88 kr"
+53,,Block 4,A04 Rivning,"Försäljning inredning, tegel etc",R,- 30 000 kr,,-30 000,2,"15,0%","9,5%","- 18 888,75 kr"
+54,,Block 4,A04 Rivning,"Avväxlingar vid tak- & stomrivning, väderskydd",R,,200 000 kr,200 000,1,"15,0%","9,5%","31 481,25 kr"
+55,,Övergripande,"Geotekniska avvikelser eller andra risker förknippade med jord, berg och vatten. Exempel men inte begränsat till detta är
+lösare/fastare jord en förutsatt, högt grundvattentryck, avsänkning av grundvatten, stabilitetsproblem. Detta kan exempelvis leda till
+skred, större rörelser som skadar omkringliggande konstruktioner, förseningar i projektet, ändrade metodval och ökade kostnader.","Vi har gjort en fackmannamässig bedömning vilket också GK3 granskat att omfattning på den geoteknsika
+undnersöknignen är tillräcklig omfattning. Det kvarstår ändå risker som det alltid gör när man arbetar med geoteknik.",GE,,2 250 000,2 250 000,2,"17,0%","9,5%","1 441 293,75 kr"
+56,,Övergripande,"Bortslagning av pålar/spont/stag eller annan grundläggning. Exemplevis pga av släntberg, hinder mm. Kan exempelvis resultera i
+fler pålar, ändring av metodval.",Hinder är svårt att veta på förhand.,GE,,4 000 000,4 000 000,3,"17,0%","9,5%","3 843 450,00 kr"
+57,,Övergripande,"Framtagna värden på rörelser stämmer inte med verkligheten. Kan resultera i större rörelse både vertiakalt och horisontellt.
+Större/mindre massundanträngning eller vibrationer än beräknat kan leda till skador, förseningar, kostnadsökningar.","Rörelser och beräningar gjorde enligt alla gällande normer. Kontrollerade mot tidigare erfarenehtesvärden. Sen är det
+hårda krav och små avvikelser exmeplvis i geoteknik kan leda till förändringar.",GE,,2 250 000,2 250 000,2,"17,0%","9,5%","1 441 293,75 kr"
+58,,Övergripande,"Svårt att räkna på installationskapaciter kan gå både långsamrare och snabbare. Detta beror bland annat på hur jorden uppför sig.
+Borrar man för snabbt kan luft fastna i marken och det uppstår mer rörelser eller motsatt (Damsugare). Också hur pållängder lirar
+med jorddjup. Påverkan av bef verksamhet.",Kapaciteter uppskattade,GE,- 630 000 kr,630 000,0,3,"17,0%","9,5%",- kr
+59,,Övergripande,"Inköpskostnader kan variera över tid. Dels index, valuta risk och materialrisk.",Väldigt svår att bedöma. Går inte .,GE,- 225 000 kr,4 500 000,4 275 000,3,"17,0%","9,5%","4 107 687,19 kr"
+60,,Övergripande,Spill på material är svårt att uppskatta kan både blir mer eller mindre. Eller att pålarna blir längre/kortare.,"Beror lite på tur att längderna blir ok mot beställda längder samt att geoteknik inte avviker för mycket. Vi förutsätter att
+K har angett rätt längder i sin K handling. Det är de längderna vi utgår ifrån. För Hullspisspålarna kan det vara ett
+alternativ att använda sig av slagskarv där man slår i spillbiten får utredas.",GE,- 50 000 kr,300 000,250 000,3,"17,0%","9,5%","240 215,63 kr"
+61,,Övergripande,"Föroreningar och utsläpp kan orsaka stopp i vår produktion eller att extra skyddsurustning behövs. Exempelv på detta kan vara
+föroreningar i mark, utsläpp från maskin eller från ARN.",,GE,,200 000,200 000,1,"17,0%","9,5%","32 028,75 kr"
+62,,Övergripande,"Yttre påverkan såsom exemeplvis krig, politik, TRV (väg och järnvägar), pandemi, naturfenomen, tull, stöld osv.",,GE,,5 000 000,5 000 000,1,"17,0%","9,5%","800 718,75 kr"
+63,,Övergripande,"Väder. Exempelvis extrem kyla, snö, skyfall eller vind.","Kan påverka dels framdrift, tidsplan och således kostnadsökning men också kvaliten på arbetet då det kan vara
+svårare att innehålla tolleranser.",GE,,400 000,400 000,3,"17,0%","9,5%","384 345,00 kr"
+64,,Övergripande,Problem med leverans av material. Kan exempelvis ta slut eller bli försenat. Vilket leder till mer kostnader och tidsförlägning.,"Tidspressat speciellt på de första inköpen. Små störningar kan resultera i problem. Samt att det är först till kvarn som
+gäller på materialet.",GE,,400 000,400 000,1,"17,0%","9,5%","64 057,50 kr"
+65,,Övergripande,Ändring av personalstyrka då det är ett lågt jobb. Dels kan personal bli sjuk. Men också byta tjänst eller sluta.,,GE,,500 000,500 000,2,"17,0%","9,5%","320 287,50 kr"
+66,,Övergripande,Samordning på arbetsplatsen. Risk att personal blir klämd eller skadar sig för de är nära våra maskiner. Problem med buller.,,GE,,400 000,400 000,1,"17,0%","9,5%","64 057,50 kr"
+67,,Övergripande,Sammordning på arbetsplatsen:Vi inte får tillräkligt med lageryta för att på ett effektivt sätt kunna producera.,,GE,,300 000,300 000,2,"17,0%","9,5%","192 172,50 kr"
+68,,Övergripande,"Ledningar eller andra konstruktioner går sönder. Detta kan ske av olika anledningar exempelvis at vi pålar i dem för att vi inte viste
+att de fanns. Att de inte tål de krav som ställts utan går av ändå.","Viktigt att beställare har koll på alla konstruktioer i mark samt har koll på befitliga konstruktioner så att rätt
+gärnsvärden sätts.",GE,,350 000,350 000,3,"17,0%","9,5%","336 301,88 kr"
+69,,Övergripande,Ingående mängder i kalkyl stämmer inte överrens med underlag.,Är en risk dels inför risktpriset men också fortlöpande i projektet.,GE,,300 000,300 000,1,"17,0%","9,5%","48 043,13 kr"
+70,,Övergripande,Bugg i dataprogram gör att kostnadsstyrning/kalkyl/beräkningsprogram inte fungerar.,,GE,,100 000,100 000,2,"17,0%","9,5%","64 057,50 kr"
+71,,Övergripande,Förändingar i sent skede. Beslut tas försent. Vi kan inte planera och maximera vår framdrigt eller det missas saker.,Känns som en större risk inför uppstart av det första Blocket.,GE,,500 000,500 000,2,"17,0%","9,5%","320 287,50 kr"
+72,,Övergripande,"Arbetsmoment flyttas i tid mot tidsplanen vilket kan skapa utmaningar i samordning, inköp och övrig planering.",,GE,,500 000,500 000,2,"17,0%","9,5%","320 287,50 kr"
+73,,Övergripande,Oförutsetta tillkommande arbetsmoment. Så som exempelvis spont för ledninsgschakt,"Går enklare att lösa under tiden då vi har en organisation på plats. Men kan vara mer besvärligt mellan block då vi inte
+har någon organisation på plats.",GE,,250 000,250 000,2,"17,0%","9,5%","160 143,75 kr"
+74,,Övergripande,"Återanvända material, billigare inköp. Metodval.",Undersökning om altantiva köp eller återanvändning bör göras. Utreda om andra metoder är med lämpande.,GE,,,0,1,"17,0%","9,5%",- kr
+75,,Övergripande,Risk att vi inte får ta på rätt maskin. Marknaden börjar bli het och det finns ett begränsat antal maskiner på marknaden.,Kan behöva ha en kortare maskin som producerar sämre.,GE,,250 000,250 000,1,"17,0%","9,5%","40 035,94 kr"
+76,,Block 1,Berget svårare att hantera avseende sprängning,Mindre salvor/ ger längre tid,ME,,1 500 000,1 500 000,2,"10,5%","9,5%","907 481,25 kr"
+79,,Övergripande,VA-mtrl en kostsam post,Gemensamma inköp,ME,-250 000,,-250 000,2,"10,5%","9,5%","- 151 246,88 kr"
+80,,Övergripande,Återbruk Berg,nyttja sprängt berg i projektet,ME,-150 000,,-150 000,2,"10,5%","9,5%","- 90 748,13 kr"
+81,,Övergripande,Sälja allt berg,Inkomst som gagnar projektet. Ca 20 000 ton x 15kr=,ME,-300 000,,-300 000,2,"10,5%","9,5%","- 181 496,25 kr"
+83,,Övergripande,Provtagningsbrunnar,Ökar i antal,ME,,1 500 000,1 500 000,2,"10,5%","9,5%","907 481,25 kr"
+85,,Övergripande,Sämre schaktbara massor än beräknat,kapacitetsförsämring vid schakt och VA-jobb,ME,,3 000 000,3 000 000,2,"10,5%","9,5%","1 814 962,50 kr"
+86,,Övergripande,begränsad framkomlighet,väntetider,ME,,1 500 000,1 500 000,2,"10,5%","9,5%","907 481,25 kr"
+90,,Övergripande,Provisorier,Okända provisorier som kan tillkomma under projektets gång.,ME,,2 000 000,2 000 000,2,"10,5%","9,5%","1 209 975,00 kr"
+93,,Övergripande,Fall B massor klassa som förorenade.,Skulle cirka hälften av massorna klassas som förorenade.,ME,,5 500 000,5 500 000,2,"10,5%","9,5%","3 327 431,25 kr"
+94,,Övergripande,Minskat trasportavstånd schaktmassor,"transport minskar från 3tim till 1,5 tim / vända schakt.",ME,-1 300 000,,-1 300 000,2,"10,5%","9,5%","- 786 483,75 kr"
+95,,Övergripande,"Lättfyllning 1000 m3, Hasopor ingår idag i kalkyl 20251006",Ökning av lättfyllnad. 1300 m3. Inkl arbete.,ME,,1 251 900,1 251 900,2,"10,5%","9,5%","757 383,85 kr"
+96,,Övergripande,"Flödesmätarbrunn på utloppsledning, komplexitet ökar",Omfattning och utförande ej klart,ME,,500 000,500 000,2,"10,5%","9,5%","302 493,75 kr"
+97,,Övergripande,Vid eventuellt elstödsbidrag för elgrävmaskin,Lägre timpris med cirka 100kr/tim,ME,-100 000,,-100 000,2,"10,5%","9,5%","- 60 498,75 kr"
+98,,Övergripande,Rening av byggvatten vid förhäjda värden,Hyra av anläggning för rening.,ME,,2 500 000,2 500 000,2,"10,5%","9,5%","1 512 468,75 kr"
+99,,Övergripande,Ökade mängder vid sprängning,Fler kubik än upptaget i kalkyl behöver sprängas bort. Räknat att det ökar med 2000m3,ME,,1 208 000,1 208 000,2,"10,5%","9,5%","730 824,90 kr"
+101,,Övergripande,Vabon. Va-Arbetare.,Behövs vara fler än 1 VA-arbetare från Vabon,ME,,2 173 500,2 173 500,2,"10,5%","9,5%","1 314 940,33 kr"
+102,,Övergripande,Vabon. Hyra utrustning,Minskad åtgång,ME,-50 000,,-50 000,2,"10,5%","9,5%","- 30 249,38 kr"
+103,,Övergripande,Vabon. Tv-inspektion,Minskar,ME,-50 000,,-50 000,2,"10,5%","9,5%","- 30 249,38 kr"
+104,,Övergripande,Vabon. Täthetskontroll av självfallsledningar,Minskar,ME,-50 000,,-50 000,2,"10,5%","9,5%","- 30 249,38 kr"
+105,,Övergripande,Fullgörandeförsäkring,Ökar,ME,,150 000,150 000,2,"10,5%","9,5%","90 748,13 kr"
+106,,Övergripande,"Ökade kostnader arbetstid UE - En del är befintligt och det finns en viss ombyggnadsfaktor där saker och ting tar mer tid än
+förväntat. Även beroende på framkomlighet och hur smidigt det går. Ibland är det trångt, många på samma plats. Ibland kan det
+vara strul med ställning som behöver byggas om etc. Har IBAB fått med allt?
+Separat plastentreprenör?",,P,-1 000 000,5 000 000,4 000 000,2,"15,0%","9,5%","2 518 500,00 kr"
+107,,Övergripande,Ökade kostnader för montagematerial UE (kostnadsförändringar och allt är inte med i MTO'er som kalkyler baserats på),,P,,3 000 000,3 000 000,2,"15,0%","9,5%","1 888 875,00 kr"
+108,,Övergripande,Ökad kostnad för tillverkning UE (tillverkningsritningar tas fram i bygghandlingsskede),,P,,3 000 000,3 000 000,2,"15,0%","9,5%","1 888 875,00 kr"
+109,,Övergripande,"Förändat resursbehov avseende ingenjörstid (felaktig bedömning, förändrad tidplan, längre injusteringstid/intrimmning etc)",,P,-500 000,1 000 000,500 000,2,"15,0%","9,5%","314 812,50 kr"
+110,,Bloick 3,Kostnadsökning - byte till Nordic water filter.,,P,,5 000 000,5 000 000,2,"15,0%","9,5%","3 148 125,00 kr"
+111,,Övergripande,Ljuddämpare till blåsmaskiner,,P,,700 000,700 000,2,"15,0%","9,5%","440 737,50 kr"
+112,,Övergripande,Isolering av rör,,P,,800 000,800 000,3,"15,0%","9,5%","755 550,00 kr"
+113,,Övergripande,"Tillkommande luckor, ventiler, maskiner, instrument.
+Tryckluftslister, omrörare stenficka t.ex",,P,,3 000 000,3 000 000,2,"15,0%","9,5%","1 888 875,00 kr"
+114,,Övergripande,Kostnadsökning: Desinfektion av tekniskt vatten,,P,,1 000 000,1 000 000,0,"15,0%","9,5%",- kr
+115,,Övergripande,Fördyrade fraktkostnader,,P,,500 000,500 000,2,"15,0%","9,5%","314 812,50 kr"
+116,,Övergripande,"Provisoriska installationer (temporära lösningar såsom flytt av pumpar, provisorisk dosering etc)",,P,,1 500 000,1 500 000,3,"15,0%","9,5%","1 416 656,25 kr"
+117,,Block 3,Kostnadsökning: Befintliga installationer i sämre skick än förväntat /överaskningar,,P,,1 000 000,1 000 000,2,"15,0%","9,5%","629 625,00 kr"
+118,,Övergripande,Minskad godstjocklek på rör där det är självfall eller lågt tryck,,P,-500 000,,-500 000,1,"15,0%","9,5%","- 78 703,13 kr"
+119,,Övergripande,"Möjligt att återanvända processutrustning såsom bef. Blåsmaskiner till sandfång eller pumpar till actiflo samt IBAB's ventillista.
+Sweco arbetar med återbrukslista",,P,-250 000,,-250 000,2,"15,0%","9,5%","- 157 406,25 kr"
+120,,Block 3,Dämpskärmar i försedimentering,,P,,200 000,200 000,2,"15,0%","9,5%","125 925,00 kr"
+121,,Block 3,Luckor försedimentering kan komma att ändras till automatiska luckor,,P,,500 000,500 000,3,"15,0%","9,5%","472 218,75 kr"
+122,,Block 2,Utbyte till rostfritt bottenluftarsystem i AGS? risk avser merkostnad. Dyrare rör och längre installationstid,,P,,500 000,500 000,3,"15,0%","9,5%","472 218,75 kr"
+123,,Block 3,Tömningspumpar QD,,P,,200 000,200 000,0,"15,0%","9,5%",- kr
+124,,Övergripande,Utgående flödesmätare - Möjlighet om vi kan hitta en billigare lösning,,P,-500 000,,-500 000,1,"15,0%","9,5%","- 78 703,13 kr"
+125,,Block 1,Risk - längre tidsåtgång för inblåsning av sand till sandfiltren,,P,,50 000,50 000,1,"15,0%","9,5%","7 870,31 kr"
+126,,Övergripande,"Risk - kostnadsdrivande provtryckning av luftledningar (PED) (tillfällig stämpning av ledningar m.m). Helt totalt onödigt men kan
+komma att ställas krav på",,P,,1 000 000,1 000 000,2,"15,0%","9,5%","629 625,00 kr"
+127,,Övergripande,Blåsmaskiner slamlager i väntan på offert,,P,,250 000,250 000,1,"15,0%","9,5%","39 351,56 kr"
+128,,Övergripande,Osäkerheter i kalkyl,"Osäkerheter i kalkyl, en hel del är fortsatt ej dimensionerat eller färdigritat",VS,- 750 000 kr,950 000 kr,200 000,2,"11,0%","9,5%","121 545,00 kr"
+129,,Övergripande,Bra förutsättningar för effektivt montage,Iarbetning montagetid,VS,- 350 000 kr,,-350 000,2,"11,0%","9,5%","- 212 703,75 kr"
+130,,Övergripande,Omfattning av rördragning för polymere,"Ingen ritat alls i Block2, Block 1",VS,- 100 000 kr,200 000 kr,100 000,2,"11,0%","9,5%","60 772,50 kr"
+131,,Övergripande,Bra flyt i projekteringen,Tydliga beslut och bra planering,VS,- 150 000 kr,,-150 000,2,"11,0%","9,5%","- 91 158,75 kr"
+132,,Övergripande,Dimensionering av rör och armaturer,Dimensionering ej klar i systemhandling,VS,- 300 000 kr,300 000 kr,0,2,"11,0%","9,5%",- kr
+133,,Övergripande,Möjlighet till återbruk av produkter,,VS,- 100 000 kr,,-100 000,1,"11,0%","9,5%","- 15 193,13 kr"
+134,,Övergripande,Inhyrd VS personal,Bödämning är nu att vi gör jobbet med egna montörer,VS,,350 000 kr,350 000,2,"11,0%","9,5%","212 703,75 kr"
+135,,Block 1,Ny omfattning sandfilter,,VS,,125 000 kr,125 000,2,"11,0%","9,5%","75 965,63 kr"
+136,,Övergripande,Omfattning provisorier,"Generellt lite på ventilation, ev provisoriska tält/pumpstationer",VE,- 50 000 kr,,-50 000,2,"11,0%","9,5%","- 30 386,25 kr"
+137,,Övergripande,"Inköpsbesparingar, utbyte material",Goda möjligheter lägga mycket hos en lev och få bra pris,VE,1 500 000 kr,,1 500 000,2,"11,0%","9,5%","911 587,50 kr"
+138,,Övergripande,Osäkerhet med kalkyl då många delar inte är färdigprojekterade.,"Projektera fram handlingar. +5% - 2,5%",VE,- 650 000 kr,800 000,150 000,2,"11,0%","9,5%","91 158,75 kr"
+139,,Övergripande,"Långt projekt, behöver säkerhetsställa rendudans. Risk med att tjm tid går över",Säkerhetställ god arbetsmiljö så alla trivs. Rekrytera i tid,VE,,850 000,850 000,2,"11,0%","9,5%","516 566,25 kr"
+140,,Block 3,Osäkerhet kemibyggnad B14 pga järnklorid mm,"Finns möjlighet att förenkla vent, beskostad av energi",VE,- 400 000 kr,,-400 000,3,"11,0%","9,5%","- 364 635,00 kr"
+141,,Övergripande,"I kalkyl räknat med endast egen personal, inhyrd kostar mer. Gäller år 27-28",3000h + 100kr/h,VE,,300 000,300 000,3,"11,0%","9,5%","273 476,25 kr"
+142,,Övergripande,Aggregat AZ / RF istället för RF /RF,SH räknat med dyrare alternativ,VE,- 650 000 kr,,-650 000,3,"11,0%","9,5%","- 592 531,88 kr"
+143,,Block 1,Lukt från inkoppsbyggnad,"Ny placeing av inlopp, ny utrustning. Finns liten risk att mer lukt uppstår än idag",VE,,1 850 000,1 850 000,1,"11,0%","9,5%","281 072,81 kr"
+144,,Övergripande,Kemfilter ventilation till EL-rum. Med idag 8st.,Se över behov och placeringar luftintag.,VE,- 160 000 kr,,-160 000,2,"11,0%","9,5%","- 97 236,00 kr"
+145,,Block 1,Ändring A01 sandfilter,Risk 32st anslutningar istället för 3. Möjlighet mindre byggnad.,VE,- 30 000 kr,320 000,290 000,3,"11,0%","9,5%","264 360,38 kr"
+146,,Övergripande,Projektingenjörstid,Rektrytering Q3-26-Q30,VE,- 500 000 kr,1 000 000,500 000,3,"11,0%","9,5%","455 793,75 kr"
+147,,Block 2,Programmering AGS,Osäkerhet ang. AGS och styrning.,EL,,150 000 kr,150 000,2,"13,0%","9,5%","92 801,25 kr"
+148,,Övergripande,Tillkommande processutrustning,Kalkyl bygger på nu gällande objektslista som kan förändras,EL,,1 500 000 kr,1 500 000,3,"13,0%","9,5%","1 392 018,75 kr"
+149,,Block 3,Återbruk ställverk,Återbruk av bef. ställverk till B02 och B06,EL,- 500 000 kr,,-500 000,3,"13,0%","9,5%","- 464 006,25 kr"
+150,,Övergripande,Demontering och provisorier,Kan bli mindre än beräknat,EL,- 250 000 kr,,-250 000,2,"13,0%","9,5%","- 154 668,75 kr"
+151,,Övergripande,Inhyrd arbetskraft,Svårt att planera flera år framåt. Kan bli aktuellt att hyra arbetskraft vid toppar.,EL,,1 000 000 kr,1 000 000,2,"13,0%","9,5%","618 675,00 kr"
+152,,Övergripande,Utökning passagekontroll,Tillkommande dörrar med kortläsare,EL,,100 000 kr,100 000,2,"13,0%","9,5%","61 867,50 kr"
+153,,Övergripande,Programmering o drifttagning,Extra programmering i samband med drifttagning. Fungerar inte enligt funktionsbeskrivning el. dyl.,EL,,1 000 000 kr,1 000 000,3,"13,0%","9,5%","928 012,50 kr"
+154,,Block 1,Nya sandfilter,Kan bli fler objekt till nya och fler filter,EL,,500 000 kr,500 000,2,"13,0%","9,5%","309 337,50 kr"
+155,,Övergripande,Inköp återbrukade HDF,Kostnader för rivning/framtagning av håldäck kan skilja beroende på förutsättningar för rivningsobjektet,STE,,200 000 kr,200 000,2,"11,0%","9,5%","121 545,00 kr"
+156,,Övergripande,Inköp stål(Valuta) och leverantörsval,"Valutaförändring och val av lev, ca 85 ton stål",STE,- 1 500 000 kr,,-1 500 000,1,"11,0%","9,5%","- 227 896,88 kr"
+157,,Övergripande,"Vinter, kostnader och försening","Kostnader för betongtillsatser, snöröjning (tid och material) risk 1,5 %",STE,,435 000 kr,435 000,2,"11,0%","9,5%","264 360,38 kr"
+158,,Övergripande,Plåtsandwichfasad ner mot bottenplatta. Risk för skador under entr.tid,Skydda med påkörningskydd och reparation vid skada.,STE,,150 000 kr,150 000,2,"11,0%","9,5%","91 158,75 kr"
+,,,,,,- 21 036 302 kr,142 880 363 kr,,,,,"73 073 887,65 kr"

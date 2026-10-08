@@ -1,0 +1,30 @@
+VEXP Bolsheden 1:9 IN,-2 250 000,
+VEXP Bolsheden 1:9 UT,,500 000
+VEXP Frillesås-Rya 3:77 IN,,
+"VEXP Frillesås-Rya 3:77
+UT",,200 000
+VEXP Kungsbacka 6:8 IN,,
+VEXP Kungsbacka 6:8 UT,20 000,
+VEXP Rågelund 1:127 IN,,
+VEXP Rågelund 1:127 UT,,5 000 000
+"VEXP Skårby 2:3 och 2:4
+IN",,
+"VEXP Skårby 2:3 och 2:4
+UT",,500 000
+VEXP Skällared 3:55 IN,,
+VEXP Skällared 3:55 UT,,300 000
+"VEXP Stockalid 1:4 och
+1:39 IN",-5 000 000,
+"VEXP Stockalid 1:4 och
+1:39 UT",5 000 000,
+"VEXP Sydöstra centrum
+etapp 1 IN",,
+"VEXP Sydöstra centrum
+etapp 1 UT",2 000 000,2 000 000
+VEXP Tölö 4:148 IN,,
+VEXP Tölö 4:148 UT,1400 000,
+"VEXP Tölöberg 2 & Tölö
+1:17 IN",,
+"VEXP Tölöberg 2 & Tölö
+1:17 UT",3 500 000,3 500 000
+VEXP Varla 2:412 IN,,

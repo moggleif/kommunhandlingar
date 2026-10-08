@@ -1,0 +1,16 @@
+62-Bioslamlager (QD och AGS),,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Antal,1,1,st
+Längd,"8,1","8,1",m
+Bredd,"4,2","4,2",m
+Djup slam,7,7,m
+Djup bassäng,"7,4","7,4",m
+Total volym,238,238,m³
+Uppehållstid,"0,6–1,2","0,5–1,0",dygn
+Antal pumpar (till förtjockning),2,2,
+Maxflöde per pump,"10,0","12,0",m3/h
+Dim kapacitet per pump,10,12,m3/h
+Vald kapacitet per pump*,15,15,m3/h
+"Luftbehov (2 Nm3/m3, h)",476,476,m3 luft/h
+Vald blåsmaskinskapacitet,600,600,m3 luft/h

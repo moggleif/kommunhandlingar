@@ -1,0 +1,30 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärende enligt livsmedelslagen,,,,
+Processgrupp:,Hantera klagomål & RASFF (Rapid Alert System for Food and Feed: System för snabb varning om livsmedel och foder),,,,
+Process:,Misstänkt matförgiftning,,,,
+Processnummer:,7.6.7.03,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Anmälan kommer in,Anmälan,EDP Vision,Digitalt,10 år,
+Underrätta verksamheten,Korrespondens,EDP Vision,Digitalt,10 år,"Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+Göra platsbesök och utreda,Fotografi,EDP Vision,Digitalt,10 år,
+,Tjänsteanteckning,EDP Vision,Digitalt,10 år,"Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+"Skicka kontrollrapport till
+verksamhetsutövare",Kontrollrapport,EDP Vision,Digitalt,10 år,
+"Skicka underrättelse inför
+nekande beslut och
+verksamhetsutövaren
+kommer in med svar","Kommunicera enligt
+förvaltningslagen",EDP Vision,Digitalt,10 år,
+,"Svar på kommunicering
+enligt förvaltningslagen",EDP Vision,Digitalt,10 år,
+"Besluta om att vidta
+åtgärder",Tjänsteskrivelse,EDP Vision,Digitalt,Bevaras,
+,Beslut,EDP Vision,Digitalt,Bevaras,
+"Delge beslut och signerat
+delgivningskvitto kommer in",Delgivningskvitto,EDP Vision,Digitalt,10 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,10 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

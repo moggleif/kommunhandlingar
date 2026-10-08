@@ -1,0 +1,13 @@
+66-Rejektvattenlager - avvattning,,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Antal,1,1,st
+Längd,"11,3","11,3",m
+Bredd,"3,0","3,0",m
+Djup,"4,1","4,1",m
+Djup bassäng,"4,75","4,75",
+Volym,139,139,m³
+Rejektvattenflöde,147–303,187–385,m³/d
+"Flöde max, 20 h/d",15,19,m³/h
+Antal pumpar,2,2,
+Kapacitet per pump,20,20,m³/h

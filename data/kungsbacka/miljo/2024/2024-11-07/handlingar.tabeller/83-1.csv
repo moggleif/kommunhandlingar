@@ -1,0 +1,32 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Utöva tillsyn enligt miljöbalken – Miljöskydd,,,,
+Process:,Tillsyn förorenat område,,,,
+Processnummer:,7.5.6.02,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Granska,Ansvarskoll,EDP Vision,Digitalt,Bevaras,
+,Ansvarsbedömning,EDP Vision,Digitalt,Bevaras,
+,Ansvarsutredning,EDP Vision,Digitalt,Bevaras,
+,Översiktskarta,EDP Vision,Digitalt,Bevaras,
+,Objektsammanfattning,EDP Vision,Digitalt,Bevaras,
+,Mifoblankett,EDP Vision,Digitalt,Bevaras,
+,Analysresultat,EDP Vision,Digitalt,Bevaras,
+,Provtagningsplan,EDP Vision,Digitalt,Bevaras,
+,Miljöteknisk markundersökning,EDP Vision,Digitalt,Bevaras,
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+"Skicka underrättelse inför
+beslut och svar kommer in
+från sökanden","Kommunicera enligt
+förvaltningslagen",EDP Vision,Digitalt,5 år,
+,"Svar på kommunicering enligt
+förvaltningslagen",EDP Vision,Digitalt,Bevaras,
+Besluta samt skicka ut tidkort,Beslut,EDP Vision,Digitalt,Bevaras,
+,Tidkort,EDP Vision,Digitalt,5 år,
+"Delge beslut och signerat
+delgivningskvitto kommer in",Delgivningskvitto,EDP Vision,Digitalt,5 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,5 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

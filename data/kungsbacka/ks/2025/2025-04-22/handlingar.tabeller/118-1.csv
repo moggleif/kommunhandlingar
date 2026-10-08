@@ -1,0 +1,24 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Ledning,,,,
+Processgrupp:,Fullmäktige,,,,
+Process:,Hantera förtroendevalda,,,,
+Processnummer:,1.1.1.5,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Initiera,Avsägelse av uppdrag,Diarium,Digitalt,Bevaras,
+"Besluta om
+entledigande",Protokoll,Diarium,Digitalt,Bevaras,"Vid avsägelse beslutar fullmäktige om
+entledigande, se 1.1.1.1 Hantera fullmäktige."
+Expediera,Protokollsutdrag,Diarium,Digitalt,Bevaras,"Protokollsutdrag för entledigande till fullmäktige
+skickas till länsstyrelsen. Övriga skickas till
+berörda organ och personer."
+"Besluta om
+entledigande till
+fullmäktige",Beslut om ersättare,Diarium,Digitalt,Bevaras,"Beslut om ersättare och nya ledamöter till
+fullmäktige fattas av länsstyrelsen."
+"Beslut om ersättare
+till nämnd",Beslut om ersättare,Diarium,Digitalt,Bevaras,"Ersättare till nämnd tillkännages av
+valberedningens ordförande. Beslut fattas av
+fullmäktige, se 1.1.1.1 Hantera fullmäktige."
+"Uppdatera
+förtroende-
+mannaregister",Förtroendemannaregister,Troman,Digitalt,Bevaras,
