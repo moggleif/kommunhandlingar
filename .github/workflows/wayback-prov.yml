@@ -1,0 +1,41 @@
+# Tillfällig: prövar om Actions når web.archive.org (#24). Tas bort före merge.
+name: Wayback-prov
+
+on:
+  push:
+    branches: [claude/project-thread-xyxzz8]
+
+permissions:
+  contents: read
+
+jobs:
+  prov:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: CDX-listorna
+        run: |
+          cdx() { curl -sS --retry 4 --retry-delay 10 --retry-all-errors -m 300 -A "kommunhandlingar (+https://github.com/moggleif/kommunhandlingar)" -G "https://web.archive.org/cdx/search/cdx" "$@"; }
+          echo "=== EPISERVER"
+          cdx --data-urlencode "url=kungsbacka.se" --data-urlencode "matchType=domain" \
+            --data-urlencode "filter=urlkey:.*moten-handlingar-och-protokoll.*" \
+            --data-urlencode "fl=timestamp,original,statuscode,mimetype,length" | sort -k2 > episerver.txt
+          wc -l episerver.txt; cat episerver.txt
+          sleep 10
+          echo "=== MOTESSIDOR"
+          cdx --data-urlencode "url=kungsbacka.se" --data-urlencode "matchType=domain" \
+            --data-urlencode "filter=urlkey:.*(sammantraden|moten-och-sammantraden|moten-handlingar).*" \
+            --data-urlencode "filter=mimetype:text/html" \
+            --data-urlencode "fl=timestamp,original,statuscode" | sort -k2 > sidor.txt
+          wc -l sidor.txt; cat sidor.txt
+          sleep 10
+          echo "=== DOWNLOAD"
+          cdx --data-urlencode "url=kungsbacka.se/download/" --data-urlencode "matchType=prefix" \
+            --data-urlencode "filter=urlkey:.*(protokoll|kallelse|handlingar|potokoll|sammantr).*" \
+            --data-urlencode "fl=timestamp,original,statuscode,mimetype,length" | sort -k2 > download.txt
+          wc -l download.txt; cat download.txt
+      - name: En kopia
+        run: |
+          url="https://web.archive.org/web/2019id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/handlingar/2019/2019-05-28/arende-4---kommunbudget-2020-plan-2021-2022.pdf"
+          curl -sS -L --retry 4 --retry-delay 10 --retry-all-errors -m 300 -o kopia.pdf -w '%{http_code} %{size_download}\n' "$url"
+          tail -c 32 kopia.pdf | od -c | tail -3
