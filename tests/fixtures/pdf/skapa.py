@@ -71,6 +71,53 @@ def olinjerad(c: Canvas) -> None:
         c.line(60, y - 5, 360, y - 5)
 
 
+def olinjerad_med_huvud(c: Canvas) -> None:
+    c.drawString(60, 780, "Driftbudget")
+    rader = [
+        ("Belopp, tkr", "Budget 2027", "Plan 2028"),
+        ("Intäkter", "4 078", "4 054"),
+        ("Kostnader", "-1 845", "-2 001"),
+        ("Ombudget", "500", ""),
+        ("Avgifter", "-", "120"),
+        ("Netto", "2 233", "2 053"),
+    ]
+    for i, (namn, a, b) in enumerate(rader):
+        y = 760 - 20 * i
+        c.drawString(60, y, namn)
+        c.drawRightString(260, y, a)
+        c.drawRightString(360, y, b)
+
+
+def ej_i_linje(c: Canvas) -> None:
+    for i, (namn, a, b) in enumerate(
+        [
+            ("Intäkter", "4 078", "12"),
+            ("Kostnader", "-1 845", "3 001"),
+            ("Netto", "7", "45"),
+        ]
+    ):
+        y = 760 - 20 * i
+        c.drawString(60, y, namn)
+        c.drawString(200, y, a)
+        c.drawString(300, y, b)
+
+
+def linjer_med_tva_tal_i_en_cell(c: Canvas) -> None:
+    rutnat(c, [60, 210, 310, 410], [775, 755, 735, 695])
+    for i, (namn, a, b) in enumerate(
+        [
+            ("Post", "2026", "2027"),
+            ("Intäkter", "4 078", "4 054"),
+            ("Kostnader", "-1 845", "-2 001"),
+            ("Netto", "2 233", "2 053"),
+        ]
+    ):
+        y = 760 - 20 * i
+        c.drawString(65, y, namn)
+        c.drawRightString(305, y, a)
+        c.drawRightString(405, y, b)
+
+
 def skanning(c: Canvas, synligt: str = "", osynligt: str = "") -> None:
     c.drawImage(brus(), 0, 0, B, H)
     if synligt:
@@ -124,6 +171,9 @@ SIDOR = [
     kurvor,
     lambda c: c.line(60, 400, 500, 400),
     inskannad_text,
+    olinjerad_med_huvud,
+    ej_i_linje,
+    linjer_med_tva_tal_i_en_cell,
 ]
 
 

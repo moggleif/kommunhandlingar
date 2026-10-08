@@ -13,7 +13,7 @@ from kommunhandlingar.konvertering import ocr
 from kommunhandlingar.konvertering.dokument import konvertera, versioner
 from kommunhandlingar.konvertering.kvalitet import dokumentets
 from kommunhandlingar.konvertering.ocr import medelsakerhet
-from kommunhandlingar.konvertering.tabeller import som_csv, som_markdown
+from kommunhandlingar.konvertering.tabeller import flera_tal, som_csv, som_markdown
 from kommunhandlingar.konvertering.text import ar_talrad, stycken
 from kommunhandlingar.konvertering.vag import langd_av, tackt_yta, vag
 
@@ -33,7 +33,7 @@ class TestSidorna(unittest.TestCase):
             [
                 "ok",  # löptext med datum och diarienummer
                 "ok",  # tabell med linjer och en färgad rad
-                "tabell-osaker",  # tabell utan lodräta linjer
+                "ok",  # tabell utan lodräta linjer, talen i linje
                 "tom",  # tom sida
                 "ej-konverterad",  # skanning av brus: OCR finner inga ord
                 "ej-konverterad",  # brus med osynligt OCR-lager: läses om
@@ -42,6 +42,9 @@ class TestSidorna(unittest.TestCase):
                 "ej-konverterad",  # en ritad yta utan tecken
                 "tom",  # bara ett streck
                 "ocr",  # inskannad blankett
+                "ok",  # tabell utan lodräta linjer med rubrikrad
+                "tabell-osaker",  # tabell utan lodräta linjer, talen inte i linje
+                "ok",  # linjer, men en cell rymmer två tal
             ],
         )
         self.assertEqual(self.resultat.kvalitet, "delvis")
@@ -76,10 +79,10 @@ class TestSidorna(unittest.TestCase):
         self.assertNotIn("4 078", sida.text)
 
     def test_osaker_tabell_behaller_uppstallningen(self):
-        text = self.resultat.sidor[2].text
-        self.assertTrue(text.startswith("```osaker-tabell\nIntäkter"))
-        self.assertIn("4 078         4 054", text)
-        self.assertEqual(self.resultat.sidor[2].tabeller, [])
+        sida = self.resultat.sidor[12]
+        self.assertTrue(sida.text.startswith("```osaker-tabell\nIntäkter"))
+        self.assertIn("4 078        12", sida.text)
+        self.assertEqual(sida.tabeller, [])
 
 
 class TestFilerSomInteGarAttOppna(unittest.TestCase):
@@ -117,6 +120,18 @@ class TestRegler(unittest.TestCase):
         self.assertTrue(ar_talrad("Andel   21,33   53 %   53%"))
         self.assertFalse(ar_talrad("Datum   2026-08-11   2023-00686"))
         self.assertFalse(ar_talrad("Belopp 2027 och 2028"))
+
+    def test_en_cell_med_flera_tal(self):
+        for cell in ("4 078\n4 054", "2025\n14", "65,0 70,0 75,0", "1 2"):
+            self.assertTrue(flera_tal(cell), cell)
+        for cell in (
+            "4 078",
+            "-2 313,1",
+            "Budget\n2027",
+            "2025-12-23",
+            "1384 2025-00400",
+        ):
+            self.assertFalse(flera_tal(cell), cell)
 
     def test_tva_talrader_ar_ingen_tabell(self):
         text, osaker = stycken("A   1   2\nB   3   4\nText")

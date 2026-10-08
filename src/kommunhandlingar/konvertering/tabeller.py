@@ -1,17 +1,23 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0005 och ADR-0009. Test: tests/test_konvertering.py.
+"""Krav: K5 i docs/02-KRAV.md, ADR-0005, ADR-0009 och ADR-0016.
+Test: tests/test_konvertering.py.
 
 En säker tabell är avgränsad av ritade linjer: streck och fyllda
 rektanglar som är högst 2 punkter breda eller höga. Varje ord inom
-tabellens yta ska ha sin mittpunkt i en cell.
+tabellens yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer
+än ett tal.
 """
 
 import csv
 import io
+import re
 
 from pdfplumber.page import Page
 from pdfplumber.table import Table
 
+from kommunhandlingar.konvertering.text import TAL
+
 LINJEBREDD = 2
+SIFFERGRUPP = re.compile(r"[-−–]?\d+(?:,\d+)?%?")
 
 
 def sakra(sida: Page) -> list[Table]:
@@ -34,8 +40,19 @@ def sakra(sida: Page) -> list[Table]:
 def ar_saker(tabell: Table, ord_: list[dict]) -> bool:
     if len(tabell.rows) < 2 or max(len(rad.cells) for rad in tabell.rows) < 2:
         return False
+    if any(flera_tal(c) for rad in rader(tabell) for c in rad):
+        return False
     inne = [mitt(o) for o in ord_ if inom(mitt(o), tabell.bbox)]
     return all(any(inom(punkt, c) for c in tabell.cells) for punkt in inne)
+
+
+def flera_tal(cell: str) -> bool:
+    delar = cell.split()
+    return (
+        len(delar) > 1
+        and all(SIFFERGRUPP.fullmatch(d) for d in delar)
+        and not TAL.fullmatch(cell.strip())
+    )
 
 
 def mitt(objekt: dict) -> tuple[float, float]:
