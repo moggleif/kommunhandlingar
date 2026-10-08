@@ -1,5 +1,5 @@
-"""Krav: K4–K6, K8, K9, K11 och K13 i docs/02-KRAV.md, ADR-0004.
-Test: tests/test_hamta.py.
+"""Krav: K4–K6, K8, K9, K11 och K13 i docs/02-KRAV.md, ADR-0004 och ADR-0019.
+Test: tests/test_hamta.py och tests/test_omkonvertering.py.
 
 Steg 2: `python -m kommunhandlingar.hamta <kommunfil> <arbetskatalog> [--start N]`.
 Läser kandidatlistan från steg 1 och tar kandidaterna i dess ordning, ett
@@ -17,7 +17,7 @@ from importlib.metadata import version
 from pathlib import Path
 
 from kommunhandlingar import konfiguration, pool, tidsbudget
-from kommunhandlingar.behandla import Steg2, behandla, ordna
+from kommunhandlingar.behandla import Steg2, bara_omkonvertering, behandla
 from kommunhandlingar.fel import Konfigurationsfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
@@ -33,6 +33,10 @@ def las_kandidater(fil: Path) -> list[Kandidat]:
 
 def nu() -> datetime:
     return datetime.now(UTC).replace(microsecond=0)
+
+
+def ordna(steg: Steg2, kandidater: list[Kandidat]) -> list[Kandidat]:
+    return sorted(kandidater, key=lambda k: bara_omkonvertering(steg, k))
 
 
 def kor(steg: Steg2, kandidater: list[Kandidat], mjuk: datetime) -> Counter:

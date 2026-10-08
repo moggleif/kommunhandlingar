@@ -202,7 +202,9 @@ kunna läggas till utan kodändring.
 - **Givet** att filen under en ny adress har samma källnyckel och samma
   sha256 som den som redan finns
 - **När** nästa körning hittar den
-- **Så** uppdateras bara `kalla_url`, och texten konverteras inte om.
+- **Så** uppdateras bara `kalla_url`, och texten konverteras inte om, om
+  inte dokumentets `pipeline` har en annan version av poolen än den som
+  körs; då konverteras det om som i K8.
 
 - **Givet** att kommunen publicerar en fil under en ny källnyckel på ett
   dokuments plats, och den gamla källnyckeln inte längre finns i källan
@@ -290,7 +292,8 @@ kunna läggas till utan kodändring.
   kommunens konfiguration; inom ett organ protokoll, kallelser, bilagor
   och sist handlingar; inom varje typ det äldsta sammanträdet först; och
   vid lika värden i källnyckelns ordning. Kandidater som bara ska
-  konverteras om (K8) tas efter alla andra, i samma ordning sinsemellan.
+  konverteras om (K8) tas efter alla andra i samma kandidatlista, i samma
+  ordning sinsemellan.
 
 - **Givet** samma kandidatlista i en annan upptäcktsordning
 - **När** hämtningen börjar

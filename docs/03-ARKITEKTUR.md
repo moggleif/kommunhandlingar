@@ -60,7 +60,7 @@ Hur och varför står i
   [ADR-0019](decisions/0019-omkonvertering-efter-poolens-version.md)).
   Ett fullständigt dokument vars `pipeline` börjar med en annan version
   av poolen än den som körs hämtas igen från `kalla_url` och konverteras
-  om, efter alla andra kandidater. Det är versionen som avgör, och den
+  om, efter alla andra kandidater i samma lista. Det är versionen som avgör, och den
   höjs när konverteringen ändrar vad den skriver (se
   [Konvertering och kvalitet](#konvertering-och-kvalitet)), så en
   höjning konverterar om hela poolen under de närmaste nätterna. PDF:en
@@ -576,7 +576,10 @@ verktyg läst dokumentet, och `pipeline` är bara poolens version.
 Språkmodellens version är paketet `tesseract-ocr-swe`:s version utan epok
 och revision; går den inte att läsa ur paketsystemet står `okänd`. En fil
 som inte gick att öppna har lästs av pdfplumber och pdfminer.six.
-Versionen höjs när en ändring i konverteringen ändrar vad den skriver.
+Versionen höjs när en ändring i konverteringen ändrar vad den skriver,
+och bara då: varje höjning gör att hela poolen hämtas och konverteras om
+([ADR-0019](decisions/0019-omkonvertering-efter-poolens-version.md)).
+Verktygens versioner i `pipeline` ger ingen omkonvertering.
 
 ### Figurer
 

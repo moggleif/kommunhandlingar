@@ -1,5 +1,5 @@
 """Krav: K4, K6, K8 och K9 i docs/02-KRAV.md, ADR-0003, ADR-0004 och ADR-0019.
-Test: tests/test_hamta.py.
+Test: tests/test_hamta.py och tests/test_omkonvertering.py.
 
 Steg 2 för en kandidat: hoppa över det som redan finns i poolens version,
 annars hämta, konvertera och skriv. Ett misslyckat försök skriver aldrig
@@ -75,17 +75,10 @@ def aktuell(steg: Steg2, falt: dict[str, str]) -> bool:
     return falt["pipeline"].split(" / ")[0] == steg.version
 
 
-def ordna(steg: Steg2, kandidater: list[Kandidat]) -> list[Kandidat]:
-    """Kandidater som bara ska konverteras om sist, i övrigt i listans ordning."""
-
-    def bara_omkonvertering(kandidat: Kandidat) -> bool:
-        sokvag = steg.pool.efter_nyckel.get(kandidat.kallnyckel)
-        gammal = steg.pool.efter_sokvag.get(sokvag)
-        return (
-            bool(gammal) and samma_kalla(gammal, kandidat) and not aktuell(steg, gammal)
-        )
-
-    return sorted(kandidater, key=bara_omkonvertering)
+def bara_omkonvertering(steg: Steg2, kandidat: Kandidat) -> bool:
+    sokvag = steg.pool.efter_nyckel.get(kandidat.kallnyckel)
+    gammal = steg.pool.efter_sokvag[sokvag] if sokvag else None
+    return bool(gammal) and samma_kalla(gammal, kandidat) and not aktuell(steg, gammal)
 
 
 def placera(steg: Steg2, kandidat: Kandidat) -> Dokument:
@@ -127,8 +120,7 @@ def misslyckad(steg: Steg2, dokument: Dokument, orsak: str, hamtad: datetime) ->
 
 
 def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtad: datetime) -> str:
-    with pdf.open("rb") as fil:
-        sha256 = hashlib.file_digest(fil, "sha256").hexdigest()
+    sha256 = sha256_av(pdf)
     gammal = dokument.befintlig
     samma_fil = gammal is not None and (gammal["kallnyckel"], gammal["sha256"]) == (
         dokument.kandidat.kallnyckel,
@@ -147,6 +139,11 @@ def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtad: datetime) -> 
         text += "\n" + skrivning.brodtext(resultat.sidor, katalog)
     spara(steg, dokument.sokvag, text, skrivning.tabellfiler(resultat.sidor or []))
     return "konverterad om" if samma_fil else "konverterad"
+
+
+def sha256_av(pdf: Path) -> str:
+    with pdf.open("rb") as fil:
+        return hashlib.file_digest(fil, "sha256").hexdigest()
 
 
 def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:

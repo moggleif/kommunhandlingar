@@ -54,15 +54,22 @@ ingen lagring och inget nytt arbetsflöde.
   som har en kandidat med samma källnyckel och adress, hämtas igen.
   Versionerna jämförs som lika eller olika, inte som äldre eller nyare;
   en nyare version i poolen än i koden kan bara uppstå om en äldre
-  utcheckning körs, och då är det den som gäller.
-* **Ordningen.** Sådana kandidater tas efter alla andra, i K13:s ordning
-  sinsemellan. Den mjuka gränsen i K11 avgör hur många som hinns med;
+  utcheckning körs, eller en lokal installation vars version inte följt
+  med `pyproject.toml`; nattkörningen installerar alltid på nytt.
+* **Ordningen.** Sådana kandidater tas efter alla andra i samma
+  kandidatlista, i K13:s ordning sinsemellan. Det lägger till ett sista
+  led i ordningen från ADR-0010. Den mjuka gränsen i K11 avgör hur många som hinns med;
   resten väntar på nästa natt. Wayback (#51) körs efter de levande
   källornas kandidater, och därmed också efter deras omkonvertering.
 * **Samma sha256** ger en ny konvertering på samma sökväg, med text,
   tabeller och alla fält från den nya versionen, och `hamtad` och
   `konverterad` från den här körningen. Sammanfattningen räknar det som
   "konverterad om".
+* **Hur det syns.** Versionen står först i `pipeline`, som förut. Ett
+  dokument som ännu inte är omkonverterat har den gamla versionen där.
+* **Bara poolens version räknas,** inte verktygens. En ny version av
+  pdfplumber eller Tesseract ger ingen omkonvertering; ändrar den vad
+  konverteringen skriver höjs poolens version i samma ändring.
 * **En annan sha256** är en ny version enligt K9, som förut.
 * **Filen går inte att hämta.** Den gamla `.md` står orörd, som vid varje
   misslyckat försök (ADR-0004), och nästa körning försöker igen.
@@ -85,22 +92,32 @@ ingen lagring och inget nytt arbetsflöde.
   inte konverteras om.
 * Dåligt, eftersom en omkonvertering tar bort dokumentets tolkade figurer
   (ADR-0017). 2026-10-08 är inget dokument tolkat.
+* Dåligt, eftersom en ny version av konverteringen som gör sämre ifrån
+  sig på en fil skriver över en bättre text för samma sha256. Git-
+  historiken behåller den.
 * Neutralt, eftersom en höjning som bara ändrar ett fält också
-  konverterar om allt. Den som höjer versionen avgör.
+  konverterar om allt. Därför höjs versionen bara när konverteringen
+  ändrar vad den skriver, vilket står i arkitekturen.
+* Neutralt, eftersom `hamtad` blir tiden för den senaste hämtningen. Det
+  är den K8 jämför en äldre ögonblicksbild med, och en kopia som är äldre
+  än den förra hämtningen är det också äldre än den nya.
 
 ### Confirmation
 
-Tester i `tests/test_hamta.py`:
+Tester i `tests/test_hamta.py` och `tests/test_omkonvertering.py`:
 
 * ett dokument med en annan version och samma adress hämtas och
   konverteras om, med den nya versionen i `pipeline`, och räknas som
   "konverterad om",
 * ett dokument med samma version och samma adress hämtas inte,
 * ett misslyckat försök att hämta det skriver inte över det,
+* ett dokument med en annan version och en annan sha256 under samma
+  adress blir en ny version,
 * ett dokument med en annan version under en ny adress och samma
   sha256 konverteras om, i stället för att bara få en ny adress,
 * omkonverteringens kandidater tas efter de andra, och sinsemellan i
-  listans ordning.
+  listans ordning, medan en ny adress och ett dokument med `ej-hamtad`
+  inte flyttas.
 
 ## Pros and Cons of the Options
 

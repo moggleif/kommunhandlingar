@@ -8,7 +8,7 @@ from datetime import UTC, date, datetime
 from pathlib import Path
 
 from kommunhandlingar import frontmatter, pool
-from kommunhandlingar.behandla import Steg2, behandla, ordna
+from kommunhandlingar.behandla import Steg2, behandla
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.hamta import las_kandidater
 from kommunhandlingar.kandidat import Kandidat
@@ -36,14 +36,16 @@ def kandidat(nyckel: str, url: str, typ: str = "protokoll", filnamn: str = "P.pd
     return Kandidat("ks", date(2025, 4, 22), typ, url, "sida", nyckel, filnamn)
 
 
-class TestSteg2(unittest.TestCase):
+class Steg2Fall(unittest.TestCase):
     def setUp(self):
         katalog = tempfile.TemporaryDirectory()
         self.addCleanup(katalog.cleanup)
         self.data = Path(katalog.name)
         self.klient = Klient()
 
-    def steg(self, kandidater, version: str = "kommunhandlingar 0.2.0") -> Steg2:
+    def steg(
+        self, kandidater: list[Kandidat], version: str = "kommunhandlingar 0.2.0"
+    ) -> Steg2:
         return Steg2(
             self.data,
             "exempelby",
@@ -54,8 +56,10 @@ class TestSteg2(unittest.TestCase):
             version,
         )
 
-    def kor(self, *kandidater: Kandidat, version: str = "kommunhandlingar 0.2.0"):
-        steg = self.steg(kandidater, version)
+    def kor(
+        self, *kandidater: Kandidat, version: str = "kommunhandlingar 0.2.0"
+    ) -> list[str]:
+        steg = self.steg(list(kandidater), version)
         return [behandla(steg, k) for k in kandidater]
 
     def md(self, namn: str = "protokoll") -> Path:
@@ -64,6 +68,8 @@ class TestSteg2(unittest.TestCase):
     def falt(self, namn: str = "protokoll") -> dict[str, str]:
         return frontmatter.las(self.md(namn).read_text(encoding="utf-8"))
 
+
+class TestSteg2(Steg2Fall):
     def test_nytt_dokument_med_tabeller(self):
         self.klient.filer["u1"] = "sidor.pdf"
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["konverterad"])
@@ -183,44 +189,6 @@ class TestSteg2(unittest.TestCase):
             sorted(p.name for p in katalog.iterdir()),
             ["12-1.csv", "14-1.csv", "16-1.csv", "2-1.csv", "3-1.csv"],
         )
-
-    def test_annan_version_konverteras_om(self):
-        self.klient.filer["u1"] = "sidor.pdf"
-        self.kor(kandidat("s:1", "u1"), version="kommunhandlingar 0.1.0")
-        self.assertEqual(self.kor(kandidat("s:1", "u1")), ["konverterad om"])
-        self.assertEqual(self.klient.anrop, ["u1", "u1"])
-        self.assertTrue(self.falt()["pipeline"].startswith("kommunhandlingar 0.2.0 /"))
-        self.assertEqual(self.falt()["figurer"], "[17]")
-        self.assertEqual(self.kor(kandidat("s:1", "u1")), ["oförändrad"])
-
-    def test_annan_version_som_inte_gar_att_hamta_star_kvar(self):
-        self.klient.filer["u1"] = "sidor.pdf"
-        self.kor(kandidat("s:1", "u1"), version="kommunhandlingar 0.1.0")
-        fore = self.md().read_text()
-        self.klient.filer["u1"] = "fel:http-404"
-        self.assertEqual(
-            self.kor(kandidat("s:1", "u1")),
-            ["ej hämtad (http-404), fullständig .md orörd"],
-        )
-        self.assertEqual(self.md().read_text(), fore)
-
-    def test_annan_version_under_ny_adress_konverteras_om(self):
-        self.klient.filer |= {"u1": "sidor.pdf", "u3": "sidor.pdf"}
-        self.kor(kandidat("s:1", "u1"), version="kommunhandlingar 0.1.0")
-        self.assertEqual(self.kor(kandidat("s:1", "u3")), ["konverterad om"])
-        falt = self.falt()
-        self.assertEqual(falt["kalla_url"], "u3")
-        self.assertTrue(falt["pipeline"].startswith("kommunhandlingar 0.2.0 /"))
-
-    def test_omkonverteringen_tas_sist(self):
-        gamla = [kandidat("s:1", "u1"), kandidat("s:3", "u3", "kallelse")]
-        self.klient.filer |= {"u1": "sidor.pdf", "u3": "sidor.pdf"}
-        self.kor(*gamla, version="kommunhandlingar 0.1.0")
-        ny = kandidat("s:2", "u2", "bilaga")
-        lista = [*gamla, ny]
-        self.assertEqual(ordna(self.steg(lista), lista), [ny, *gamla])
-        nuvarande = self.steg(lista, "kommunhandlingar 0.1.0")
-        self.assertEqual(ordna(nuvarande, lista), lista)
 
     def test_bilaga_har_alltid_namn(self):
         self.klient.filer["u1"] = "sidor.pdf"
