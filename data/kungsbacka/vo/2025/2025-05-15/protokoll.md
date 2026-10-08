@@ -19,4 +19,6 @@ kvalitet: ej-hamtad
 fel: robots
 kvalitet_per_sida: null
 tal_obekraftade: null
+figurer: null
+tolkade: null
 ---

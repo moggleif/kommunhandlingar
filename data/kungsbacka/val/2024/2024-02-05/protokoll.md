@@ -19,4 +19,6 @@ kvalitet: ej-konverterad
 fel: inte-pdf
 kvalitet_per_sida: null
 tal_obekraftade: null
+figurer: null
+tolkade: null
 ---
