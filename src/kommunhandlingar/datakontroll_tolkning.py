@@ -18,8 +18,12 @@ MARKERING = re.compile(r"<!-- tolkning: [^,\n]+, \d{4}-\d{2}-\d{2} -->")
 SIDA = re.compile(r"<!-- sida (\d+) -->")
 LANK = re.compile(r"\[[^\]]*\]\([^)]*\)")
 SIFFRA = re.compile(r"\d")
-# Blanksteg som kan skilja tusentalen men inte läses så.
-SMALT = "[\t\u2009\u202f]"
+# Två siffergrupper som kan vara ett tal delat över en radbrytning eller
+# ett smalt blanksteg, som `5⏎053`.
+DELAT = re.compile(
+    r"(?<![\d,.])(\d{1,3})([\t\u2007\u2009\u202f]|[ \t]*[\n\u2028]\s*)"
+    r"(?=(\d{3})(?![\d,]))"
+)
 # Ett helt tal, med tusentalsmellanrum: `120` står inte i `1 120` eller
 # `1 250–1 120`, och inget tal står i `13.30`, `2025-10-08`, `2022/23`
 # eller `K15`.
@@ -91,7 +95,12 @@ def talfel(fil: Path, md: Path, sida: int) -> list[str]:
 
 
 def sidans_tal(text: str) -> set[str]:
-    return {m.group() for m in TALEN.finditer(text) if fristaende(text, m)}
+    granser = tvetydiga(text)
+    return {
+        m.group()
+        for m in TALEN.finditer(text)
+        if m.start() not in granser and m.end() not in granser
+    }
 
 
 def ordagrant(cell: str, text: str) -> bool:
@@ -99,26 +108,29 @@ def ordagrant(cell: str, text: str) -> bool:
     är ingen del av ett tal med tusentalsmellanrum."""
     fore = FORE + (r"(?<!\d[ \xa0])" if cell[:1].isdigit() else "")
     efter = EFTER + (r"(?![ \xa0]\d)" if cell[-1:].isdigit() else "")
+    granser = tvetydiga(text)
     traffar = re.finditer(fore + re.escape(cell) + efter, text)
-    return any(fristaende(text, m) for m in traffar)
+    return any(m.start() not in granser and m.end() not in granser for m in traffar)
 
 
-def fristaende(text: str, traff: re.Match) -> bool:
-    """Träffen är ingen del av ett tal över en radbrytning eller ett annat
-    blanksteg: står en siffra intill på andra sidan ska både träffen och
-    grannraden stå ensamma på sina rader, som talen i ett diagram."""
-    fore, efter = text[: traff.start()], text[traff.end() :]
-    if re.search(rf"\d{SMALT}\Z", fore) or re.match(rf"{SMALT}\d", efter):
-        return False
-    fore, efter = re.search(r"\d\n\Z", fore), re.match(r"\n\d", efter)
-    if not (fore or efter):
-        return True
-    rader = text.split("\n")
-    nr = text.count("\n", 0, traff.start())
-    grannar = [rader[nr - 1] if fore else "", rader[nr + 1] if efter else ""]
-    return rader[nr].strip() == traff.group() and all(map(ensamt, grannar))
+def tvetydiga(text: str) -> set[int]:
+    """Var ett tal kan vara delat: slutet på första delen och början på
+    den andra. Två tal på var sin rad som står ensamma där, som i ett
+    diagram, är inte delade."""
+    granser = set()
+    for delat in DELAT.finditer(text):
+        if not ensamma(text, delat):
+            granser |= {delat.end(1), delat.start(3)}
+    return granser
 
 
-def ensamt(rad: str) -> bool:
-    """Raden är tom, ett tal eller ett enda ord."""
-    return TALEN.fullmatch(rad.strip()) is not None or len(rad.split()) <= 1
+def ensamma(text: str, delat: re.Match) -> bool:
+    radbrytning = "\n" in delat.group(2)
+    return radbrytning and all(
+        raden(text, delat.start(n)) == delat.group(n) for n in (1, 3)
+    )
+
+
+def raden(text: str, i: int) -> str:
+    slut = text.find("\n", i)
+    return text[text.rfind("\n", 0, i) + 1 : len(text) if slut < 0 else slut].strip()

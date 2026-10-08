@@ -97,7 +97,10 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
   inte att rendera förrän dokumentet konverteras om.
 * Dåligt, eftersom tal som står med ett enda mellanslag emellan, som en
   axel `0 100 200` eller värden som `90 130`, läses ihop som tusental,
-  och då inte går att ta med för sig.
+  och då inte går att ta med för sig. Två siffergrupper som kan vara
+  ett tal delat över en radbrytning, som `5⏎053`, går inte heller att ta
+  med; det gäller 837 av poolens 417 250 tal. Står båda delarna ensamma
+  på var sin rad räknas de som två tal, också om de var ett.
 * Neutralt, eftersom talen i en tolkad CSV på en sida som lästs med OCR
   stäms av mot OCR-texten, och därför är lika obekräftade som den.
 * Neutralt, eftersom ett Mermaid-diagram och en beskrivning inte prövas
@@ -119,8 +122,10 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
   sida som står två gånger, `tolkade` utanför `figurer`, en sida i
   `figurer` som inte finns, `figurer` och `tolkade` som inte är `null`
   samtidigt, och en lucka i numren
-  (`tests/test_datakontroll_tolkning.py`). En ny konvertering tar bort
-  de tolkade CSV:erna (`tests/test_figurer.py`).
+  (`tests/test_datakontroll_tolkning.py`). Talen i sidans text prövas
+  med tal delade över en radbrytning och ett smalt mellanslag, och med
+  ett stapeldiagram ur poolen med flera tal per rad. En ny konvertering
+  tar bort de tolkade CSV:erna (`tests/test_figurer.py`).
 
 ## Pros and Cons of the Options
 
@@ -200,6 +205,9 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
    Det femte varvet visade att ett tal som bryts över två rader i
    löptexten, som `5⏎053`, gav två tal. Ett tal intill en radbrytning
    räknas nu bara när det står ensamt på sin rad, som i ett diagram.
+   Det sjätte varvet visade att det fällde över tusen tal i diagram med
+   flera tal per rad. Nu gäller regeln bara två grupper som har formen
+   av ett delat tusental.
 4. **Omprövas** när arbetslistan har prövats några omgångar, om en
    rutin ska ta över, eller om falsklarmen från tabeller kostar för
    mycket.

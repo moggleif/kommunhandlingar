@@ -772,11 +772,11 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
   `250–300` inte i `1 250–300`. Eftersom tusentalen skiljs med
   mellanslag läses tal med ett enda mellanslag emellan ihop, som axeln
   `0 100 200` eller värdena `90 130`, och ett sådant tal går inte att
-  ta med för sig. Ett tal intill en radbrytning och en siffra räknas
-  bara när både talet och grannraden står ensamma på sina rader, som
-  talen i ett diagram, så att `5⏎053 kronor` inte ger talen `5` och
-  `053`; intill en tab eller ett smalt mellanslag och en siffra räknas
-  det inte alls. På en sida som lästs med OCR stäms talen
+  ta med för sig. Två siffergrupper som kan vara ett tal delat över en
+  radbrytning eller ett smalt mellanslag, en till tre siffror följda av
+  exakt tre, räknas inte som tal, så att `5⏎053 kronor` inte ger talen
+  `5` och `053`. Står båda delarna ensamma på var sin rad, som talen i
+  ett diagram, räknas de. På en sida som lästs med OCR stäms talen
   av mot OCR-texten och är lika obekräftade som den. Att texten före
   tolkningen är orörd prövas inte mekaniskt; det syns i PR:ens diff.
 - **En ny konvertering** av dokumentet skriver om `.md` och

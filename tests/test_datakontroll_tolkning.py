@@ -129,15 +129,20 @@ class TestSidansTal(unittest.TestCase):
         self.assertEqual(TALEN.findall(text), [])
 
     def test_tal_delat_av_en_radbrytning_raknas_inte(self):
-        text = "riksgenomsnittet (5\n053 kronor) och 1\u2009250"
+        text = "riksgenomsnittet (5\n053 kronor), 1\u202f250 och 39 \n\n000"
         self.assertEqual(sidans_tal(text), set())
         self.assertFalse(ordagrant("053 kronor", text))
+        self.assertFalse(sidans_tal("Andel 5\n053"))
 
     def test_tal_pa_var_sin_rad_i_ett_diagram(self):
         text = "Besök\n\n150\n140\n130\n0–5\n6–15"
         self.assertEqual(sidans_tal(text), {"150", "140", "130"})
         self.assertTrue(ordagrant("0–5", text))
-        self.assertFalse(sidans_tal("5\n053 kronor"))
+        staplar = "Procent\n60\n53\n37  47  49\n32\n42  31 mått 2\n4,5%"
+        self.assertEqual(
+            sidans_tal(staplar),
+            {"60", "53", "37", "47", "49", "32", "42", "31", "2", "4,5%"},
+        )
 
 
 if __name__ == "__main__":
