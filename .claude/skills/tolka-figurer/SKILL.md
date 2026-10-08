@@ -35,8 +35,8 @@ Formatet står i `docs/03-ARKITEKTUR.md#tolkade-figurer`. Läs det först.
 6. Radera bilderna. Kör `python -m kommunhandlingar.datakontroll data`
    och rätta det som faller. Faller ett tal som står i sidans text, för
    att det läses ihop med ett tal bredvid eller kan vara en del av ett
-   tal som delats över en radbrytning, skriv en beskrivning i stället
-   för en tolkad CSV.
+   tal som delats över en radbrytning eller ett smalt mellanslag, skriv
+   en beskrivning i stället för en tolkad CSV.
 7. Committa bara filer under `data/` och öppna en PR. Den når `main` som
    all annan ändring.
 

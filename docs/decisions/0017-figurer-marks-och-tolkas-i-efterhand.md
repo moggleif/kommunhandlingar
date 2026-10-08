@@ -100,8 +100,8 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
   och då inte går att ta med för sig. Två siffergrupper som kan vara
   ett tal delat över en radbrytning, som `5⏎053`, går inte heller att ta
   med; 2026-10-08 gällde det 611 av poolens 417 250 tal. Står båda
-  delarna ensamma på var sin rad räknas de som två tal, också om de var
-  ett.
+  delarna ensamma på var sin rad, eller med minst två mellanslag till
+  resten av raden, räknas de som två tal, också om de var ett.
 * Neutralt, eftersom talen i en tolkad CSV på en sida som lästs med OCR
   stäms av mot OCR-texten, och därför är lika obekräftade som den.
 * Neutralt, eftersom ett Mermaid-diagram och en beskrivning inte prövas

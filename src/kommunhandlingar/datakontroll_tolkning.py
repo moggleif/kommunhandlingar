@@ -18,7 +18,7 @@ MARKERING = re.compile(r"<!-- tolkning: [^,\n]+, \d{4}-\d{2}-\d{2} -->")
 SIDA = re.compile(r"<!-- sida (\d+) -->")
 LANK = re.compile(r"\[[^\]]*\]\([^)]*\)")
 SIFFRA = re.compile(r"\d")
-KOLUMN = re.compile(r"\s{2,}")
+KOLUMN = re.compile(" {2,}")
 # Två siffergrupper som kan vara ett tal delat över en radbrytning eller
 # ett smalt blanksteg, som `5⏎053`.
 DELAT = re.compile(

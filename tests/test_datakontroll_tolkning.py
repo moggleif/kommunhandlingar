@@ -138,9 +138,11 @@ class TestSidansTal(unittest.TestCase):
         self.assertFalse(sidans_tal("1\u2009250"))
 
     def test_bara_ett_delat_tusental_ar_tvetydigt(self):
-        self.assertEqual(sidans_tal("1234\n567"), {"1234", "567"})
-        self.assertEqual(sidans_tal("2,5\n053"), {"2,5", "053"})
-        diagram = "200      186\n180      170"
+        self.assertEqual(sidans_tal("1234\n567 kronor"), {"1234", "567"})
+        self.assertEqual(sidans_tal("5\n0534 kronor"), {"5", "0534"})
+        self.assertEqual(sidans_tal("2,5\n053 kr"), {"2,5", "053"})
+        self.assertEqual(sidans_tal("13.5\n053 kr"), {"053"})
+        diagram = "200  186\n   180  170"
         self.assertEqual(sidans_tal(diagram), {"200", "186", "180", "170"})
 
     def test_tal_pa_var_sin_rad_i_ett_diagram(self):
