@@ -18,11 +18,11 @@ MARKERING = re.compile(r"<!-- tolkning: [^,\n]+, \d{4}-\d{2}-\d{2} -->")
 SIDA = re.compile(r"<!-- sida (\d+) -->")
 LANK = re.compile(r"\[[^\]]*\]\([^)]*\)")
 SIFFRA = re.compile(r"\d")
+KOLUMN = re.compile(r"\s{2,}")
 # Två siffergrupper som kan vara ett tal delat över en radbrytning eller
 # ett smalt blanksteg, som `5⏎053`.
 DELAT = re.compile(
-    r"(?<![\d,.])(\d{1,3})([\t\u2007\u2009\u202f]|[ \t]*[\n\u2028]\s*)"
-    r"(?=(\d{3})(?![\d,]))"
+    r"(?<![\d,.])(\d{1,3})(?:[\u2009\u202f]|[ \t]*\n\s*)(?=(\d{3})(?!\d))"
 )
 # Ett helt tal, med tusentalsmellanrum: `120` står inte i `1 120` eller
 # `1 250–1 120`, och inget tal står i `13.30`, `2025-10-08`, `2022/23`
@@ -115,22 +115,22 @@ def ordagrant(cell: str, text: str) -> bool:
 
 def tvetydiga(text: str) -> set[int]:
     """Var ett tal kan vara delat: slutet på första delen och början på
-    den andra. Två tal på var sin rad som står ensamma där, som i ett
-    diagram, är inte delade."""
+    den andra. Står delarna ensamma på var sin rad, eller med minst två
+    mellanslag till resten av raden, som i ett diagram, är de inte delade."""
     granser = set()
     for delat in DELAT.finditer(text):
         if not ensamma(text, delat):
-            granser |= {delat.end(1), delat.start(3)}
+            granser |= {delat.end(1), delat.start(2)}
     return granser
 
 
 def ensamma(text: str, delat: re.Match) -> bool:
-    radbrytning = "\n" in delat.group(2)
-    return radbrytning and all(
-        raden(text, delat.start(n)) == delat.group(n) for n in (1, 3)
-    )
+    forsta = KOLUMN.split(raden(text, delat.start(1)))[-1]
+    andra = KOLUMN.split(raden(text, delat.start(2)))[0]
+    return forsta == delat.group(1) and andra == delat.group(2)
 
 
 def raden(text: str, i: int) -> str:
+    borjan = text.rfind("\n", 0, i) + 1
     slut = text.find("\n", i)
-    return text[text.rfind("\n", 0, i) + 1 : len(text) if slut < 0 else slut].strip()
+    return text[borjan : len(text) if slut < 0 else slut].strip()

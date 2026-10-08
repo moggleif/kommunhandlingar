@@ -99,8 +99,9 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
   axel `0 100 200` eller värden som `90 130`, läses ihop som tusental,
   och då inte går att ta med för sig. Två siffergrupper som kan vara
   ett tal delat över en radbrytning, som `5⏎053`, går inte heller att ta
-  med; det gäller 837 av poolens 417 250 tal. Står båda delarna ensamma
-  på var sin rad räknas de som två tal, också om de var ett.
+  med; 2026-10-08 gällde det 611 av poolens 417 250 tal. Står båda
+  delarna ensamma på var sin rad räknas de som två tal, också om de var
+  ett.
 * Neutralt, eftersom talen i en tolkad CSV på en sida som lästs med OCR
   stäms av mot OCR-texten, och därför är lika obekräftade som den.
 * Neutralt, eftersom ett Mermaid-diagram och en beskrivning inte prövas
@@ -207,7 +208,9 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
    räknas nu bara när det står ensamt på sin rad, som i ett diagram.
    Det sjätte varvet visade att det fällde över tusen tal i diagram med
    flera tal per rad. Nu gäller regeln bara två grupper som har formen
-   av ett delat tusental.
+   av ett delat tusental, också med decimaler (`2⏎054,5`), och delar som
+   står med minst två mellanslag till resten av raden räknas som
+   ensamma.
 4. **Omprövas** när arbetslistan har prövats några omgångar, om en
    rutin ska ta över, eller om falsklarmen från tabeller kostar för
    mycket.

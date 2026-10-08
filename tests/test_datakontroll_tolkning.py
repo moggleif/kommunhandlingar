@@ -133,6 +133,15 @@ class TestSidansTal(unittest.TestCase):
         self.assertEqual(sidans_tal(text), set())
         self.assertFalse(ordagrant("053 kronor", text))
         self.assertFalse(sidans_tal("Andel 5\n053"))
+        self.assertFalse(sidans_tal("5\n053 kronor") & {"5", "053"})
+        self.assertFalse(sidans_tal("byggnadsarea om 2\n054,5 kvm"))
+        self.assertFalse(sidans_tal("1\u2009250"))
+
+    def test_bara_ett_delat_tusental_ar_tvetydigt(self):
+        self.assertEqual(sidans_tal("1234\n567"), {"1234", "567"})
+        self.assertEqual(sidans_tal("2,5\n053"), {"2,5", "053"})
+        diagram = "200      186\n180      170"
+        self.assertEqual(sidans_tal(diagram), {"200", "186", "180", "170"})
 
     def test_tal_pa_var_sin_rad_i_ett_diagram(self):
         text = "Besök\n\n150\n140\n130\n0–5\n6–15"

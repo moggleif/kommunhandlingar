@@ -775,8 +775,9 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
   ta med för sig. Två siffergrupper som kan vara ett tal delat över en
   radbrytning eller ett smalt mellanslag, en till tre siffror följda av
   exakt tre, räknas inte som tal, så att `5⏎053 kronor` inte ger talen
-  `5` och `053`. Står båda delarna ensamma på var sin rad, som talen i
-  ett diagram, räknas de. På en sida som lästs med OCR stäms talen
+  `5` och `053`. Står båda delarna ensamma på var sin rad, eller med
+  minst två mellanslag till resten av raden, som talen i ett diagram,
+  räknas de. På en sida som lästs med OCR stäms talen
   av mot OCR-texten och är lika obekräftade som den. Att texten före
   tolkningen är orörd prövas inte mekaniskt; det syns i PR:ens diff.
 - **En ny konvertering** av dokumentet skriver om `.md` och
