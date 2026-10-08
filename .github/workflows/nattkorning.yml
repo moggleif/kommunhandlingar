@@ -14,6 +14,12 @@ concurrency:
   group: nattkorning
   cancel-in-progress: false
 
+# `shell: bash` ger `-eo pipefail`; utan den kör Actions `bash -e`, och ett
+# fel i steg 2 före `| tee` skulle inte stoppa körningen (K11).
+defaults:
+  run:
+    shell: bash
+
 jobs:
   korning:
     name: Hämta och konvertera
