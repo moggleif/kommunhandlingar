@@ -18,6 +18,8 @@ MARKERING = re.compile(r"<!-- tolkning: [^,\n]+, \d{4}-\d{2}-\d{2} -->")
 SIDA = re.compile(r"<!-- sida (\d+) -->")
 LANK = re.compile(r"\[[^\]]*\]\([^)]*\)")
 SIFFRA = re.compile(r"\d")
+# Blanksteg som kan skilja tusentalen men inte läses så.
+SMALT = "[\t\u2009\u202f]"
 # Ett helt tal, med tusentalsmellanrum: `120` står inte i `1 120` eller
 # `1 250–1 120`, och inget tal står i `13.30`, `2025-10-08`, `2022/23`
 # eller `K15`.
@@ -71,7 +73,7 @@ def sidans_text(md: str, sida: int) -> str:
 
 def talfel(fil: Path, md: Path, sida: int) -> list[str]:
     text = sidans_text(md.read_text(encoding="utf-8"), sida)
-    talen = set(TALEN.findall(text))
+    talen = sidans_tal(text)
     celler = csv.reader(fil.read_text(encoding="utf-8").splitlines())
     fel = []
     for cell in (c for rad in celler for c in rad):
@@ -88,9 +90,35 @@ def talfel(fil: Path, md: Path, sida: int) -> list[str]:
     return fel
 
 
+def sidans_tal(text: str) -> set[str]:
+    return {m.group() for m in TALEN.finditer(text) if fristaende(text, m)}
+
+
 def ordagrant(cell: str, text: str) -> bool:
     """Cellen står som den är i sidans text, som etiketten `65–79 år`, och
     är ingen del av ett tal med tusentalsmellanrum."""
     fore = FORE + (r"(?<!\d[ \xa0])" if cell[:1].isdigit() else "")
     efter = EFTER + (r"(?![ \xa0]\d)" if cell[-1:].isdigit() else "")
-    return re.search(fore + re.escape(cell) + efter, text) is not None
+    traffar = re.finditer(fore + re.escape(cell) + efter, text)
+    return any(fristaende(text, m) for m in traffar)
+
+
+def fristaende(text: str, traff: re.Match) -> bool:
+    """Träffen är ingen del av ett tal över en radbrytning eller ett annat
+    blanksteg: står en siffra intill på andra sidan ska både träffen och
+    grannraden stå ensamma på sina rader, som talen i ett diagram."""
+    fore, efter = text[: traff.start()], text[traff.end() :]
+    if re.search(rf"\d{SMALT}\Z", fore) or re.match(rf"{SMALT}\d", efter):
+        return False
+    fore, efter = re.search(r"\d\n\Z", fore), re.match(r"\n\d", efter)
+    if not (fore or efter):
+        return True
+    rader = text.split("\n")
+    nr = text.count("\n", 0, traff.start())
+    grannar = [rader[nr - 1] if fore else "", rader[nr + 1] if efter else ""]
+    return rader[nr].strip() == traff.group() and all(map(ensamt, grannar))
+
+
+def ensamt(rad: str) -> bool:
+    """Raden är tom, ett tal eller ett enda ord."""
+    return TALEN.fullmatch(rad.strip()) is not None or len(rad.split()) <= 1

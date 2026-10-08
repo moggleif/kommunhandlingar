@@ -96,8 +96,8 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
   hämtas igen (ADR-0004); dess sidor står kvar i arbetslistan men går
   inte att rendera förrän dokumentet konverteras om.
 * Dåligt, eftersom tal som står med ett enda mellanslag emellan, som en
-  axel `0 100 200` eller värden som `90 130`, läses ihop som tusental, och då inte går att ta med
-  för sig.
+  axel `0 100 200` eller värden som `90 130`, läses ihop som tusental,
+  och då inte går att ta med för sig.
 * Neutralt, eftersom talen i en tolkad CSV på en sida som lästs med OCR
   stäms av mot OCR-texten, och därför är lika obekräftade som den.
 * Neutralt, eftersom ett Mermaid-diagram och en beskrivning inte prövas
@@ -197,6 +197,9 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
    Det fjärde varvet visade samma fel vid tusentalsmellanrummet
    (`250–300` ur `1 250–300`) och vid snedstreck (`23` ur `2022/23`), och
    att tolkningens modell och datum inte prövades. Nu prövas alla tre.
+   Det femte varvet visade att ett tal som bryts över två rader i
+   löptexten, som `5⏎053`, gav två tal. Ett tal intill en radbrytning
+   räknas nu bara när det står ensamt på sin rad, som i ett diagram.
 4. **Omprövas** när arbetslistan har prövats några omgångar, om en
    rutin ska ta över, eller om falsklarmen från tabeller kostar för
    mycket.

@@ -7,7 +7,12 @@ ovanför staplarna och åren 2023–2026 under dem.
 
 import unittest
 
-from kommunhandlingar.datakontroll_tolkning import TALEN, ordagrant, sidans_text
+from kommunhandlingar.datakontroll_tolkning import (
+    TALEN,
+    ordagrant,
+    sidans_tal,
+    sidans_text,
+)
 from tests.test_datakontroll import DOKUMENT, Pool
 
 TABELLER = DOKUMENT.replace(".md", ".tabeller")
@@ -122,6 +127,17 @@ class TestSidansTal(unittest.TestCase):
     def test_inga_delar_av_tal_eller_ord(self):
         text = "covid-19, ADR-0017, K15, 3a, 2022/23 och spannet 1 250–1 300"
         self.assertEqual(TALEN.findall(text), [])
+
+    def test_tal_delat_av_en_radbrytning_raknas_inte(self):
+        text = "riksgenomsnittet (5\n053 kronor) och 1\u2009250"
+        self.assertEqual(sidans_tal(text), set())
+        self.assertFalse(ordagrant("053 kronor", text))
+
+    def test_tal_pa_var_sin_rad_i_ett_diagram(self):
+        text = "Besök\n\n150\n140\n130\n0–5\n6–15"
+        self.assertEqual(sidans_tal(text), {"150", "140", "130"})
+        self.assertTrue(ordagrant("0–5", text))
+        self.assertFalse(sidans_tal("5\n053 kronor"))
 
 
 if __name__ == "__main__":
