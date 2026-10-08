@@ -18,8 +18,12 @@ from kommunhandlingar.konvertering.text import TAL
 
 LINJEBREDD = 2
 SIFFERGRUPP = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?")
-# En rad i en cell som är ett tal, med eller utan en kort enhet, eller ett streck.
-TALRAD = re.compile(r"[-−–+]?\d[\d  .,]*(?: ?%| [a-zåäö]{1,4})?|[-−–]")
+# En rad i en cell som är ett tal, med eller utan parentes och en kort enhet,
+# eller ett streck.
+TALRAD = re.compile(r"\(?[-−–+]?\d[\d  .,]*\)?(?: ?%| [a-zåäö]{1,4})?|[-−–]")
+SKILJE = re.compile(r"[\s()/]+")
+SAMMA_FALT = 0.5
+SIFFRA = re.compile(r"\d")
 
 
 def sakra(sida: Page) -> list[Table]:
@@ -43,19 +47,38 @@ def ar_saker(tabell: Table, ord_: list[dict]) -> bool:
         return False
     if any(flera_tal(c) for rad in rader(tabell) for c in rad):
         return False
+    if any(glest([o for o in ord_ if inom(mitt(o), c)]) for c in tabell.cells):
+        return False
     inne = [mitt(o) for o in ord_ if inom(mitt(o), tabell.bbox)]
     return all(any(inom(punkt, c) for c in tabell.cells) for punkt in inne)
 
 
 def flera_tal(cell: str) -> bool:
     rader_ = [r.strip() for r in cell.split("\n")]
-    if sum(1 for r in rader_ if TALRAD.fullmatch(r)) > 1:
-        return True
-    delar = [d for d in cell.split() if d != "%"]
+    return sum(1 for r in rader_ if TALRAD.fullmatch(r)) > 1 or any(
+        map(flera_pa_raden, rader_)
+    )
+
+
+def flera_pa_raden(rad: str) -> bool:
+    delar = [d for d in SKILJE.split(rad) if d and d != "%"]
     return (
         len(delar) > 1
         and all(SIFFERGRUPP.fullmatch(d) for d in delar)
-        and not TAL.fullmatch(cell.strip())
+        and not TAL.fullmatch(rad.strip("()"))
+    )
+
+
+def glest(ord_: list[dict]) -> bool:
+    """Två ord med siffror på samma rad i cellen, med mer än en halv
+    teckenhöjd emellan: två tal, som i olinjerade tabeller (ADR-0016)."""
+    ord_ = sorted(ord_, key=lambda o: (round(o["top"]), o["x0"]))
+    return any(
+        abs(a["top"] - b["top"]) <= 3
+        and SIFFRA.search(a["text"])
+        and SIFFRA.search(b["text"])
+        and b["x0"] - a["x1"] > SAMMA_FALT * (a["bottom"] - a["top"])
+        for a, b in zip(ord_, ord_[1:], strict=False)
     )
 
 

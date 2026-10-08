@@ -13,7 +13,12 @@ from kommunhandlingar.konvertering import ocr
 from kommunhandlingar.konvertering.dokument import konvertera, versioner
 from kommunhandlingar.konvertering.kvalitet import dokumentets
 from kommunhandlingar.konvertering.ocr import medelsakerhet
-from kommunhandlingar.konvertering.tabeller import flera_tal, som_csv, som_markdown
+from kommunhandlingar.konvertering.tabeller import (
+    flera_tal,
+    glest,
+    som_csv,
+    som_markdown,
+)
 from kommunhandlingar.konvertering.text import ar_talrad, stycken
 from kommunhandlingar.konvertering.vag import langd_av, tackt_yta, vag
 
@@ -133,6 +138,11 @@ class TestRegler(unittest.TestCase):
             "4 078\n4 054 tkr",
             "+5,0\n-2,0",
             "4.078 4.054",
+            "65,0 70,0\nBudget",
+            "Budget 2027\n65,0 70,0",
+            "(2 100)\n1 978",
+            "1 234 (1 150)",
+            "4 078 / 4 054",
         ):
             self.assertTrue(flera_tal(cell), cell)
         for cell in (
@@ -141,8 +151,18 @@ class TestRegler(unittest.TestCase):
             "Budget\n2027",
             "2025-12-23",
             "1384 2025-00400",
+            "(2 100)",
         ):
             self.assertFalse(flera_tal(cell), cell)
+
+    def test_glest_mellanrum_i_en_cell_ar_flera_tal(self):
+        def ord_(text: str, x0: float, x1: float) -> dict:
+            return {"text": text, "x0": x0, "x1": x1, "top": 0, "bottom": 10}
+
+        tusental = [ord_("142", 0, 15), ord_("217", 17, 32), ord_("956", 34, 49)]
+        self.assertFalse(glest(tusental))
+        self.assertTrue(glest([ord_("120", 0, 15), ord_("135", 25, 40)]))
+        self.assertFalse(glest([ord_("Antal", 0, 25), ord_("135", 45, 60)]))
 
     def test_tva_talrader_ar_ingen_tabell(self):
         text, osaker = stycken("A   1   2\nB   3   4\nText")

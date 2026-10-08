@@ -58,22 +58,24 @@ Reglerna står i
 * ett mellanrum är antingen inom ett fält (högst en halv teckenhöjd) eller
   mellan två fält (minst en hel), och ett mellanrum däremellan gör raden
   oanvändbar,
-* varje rad är en etikett följd av tal eller streck, och raderna står
-  högst tre teckenhöjder isär,
+* varje rad är en etikett följd av minst ett tal eller streck, och
+  raderna står högst tre teckenhöjder isär,
 * talen står med högerkanten i linje (högst 2 punkter ifrån), varje
-  kolumn har minst två tal, strecken står i linje med en kolumn, och
-  kolumnerna överlappar inte varandra eller etiketterna,
+  kolumn har minst två tal, strecken står i linje med en kolumn,
+  kolumnerna överlappar inte varandra eller etiketterna, och den första
+  kolumnen är inte bara år eller koder,
 * rubrikraderna ovanför följer med bara om hela rubriken står i linje
   och den översta raden har en rubrik i varje kolumn,
 * inget annat ord, inte heller i en tabell med linjer, ligger inom
   tabellens yta.
 
 Mätningen visade också en brist i ADR-0005:s regel för tabeller med
-linjer: två rader som linjerna inte skiljer åt hamnar i samma cell, till
-exempel `2 445,1 -8 323,3 -5 878,2 143,4` eller `4 078⏎4 054`. Talen är
-rätt, men cellen är fel. I poolen gällde det 324 av 8 403 CSV:er. **En
+linjer: två rader eller kolumner som linjerna inte skiljer åt hamnar i
+samma cell, till exempel `2 445,1 -8 323,3 -5 878,2 143,4` eller
+`4 078⏎4 054`. Talen är rätt, men cellen är fel. I poolen gällde det 324 av 8 403 CSV:er. **En
 tabell med linjer där en cell rymmer mer än ett tal är därför inte längre
-säker.** Den prövas i stället enligt reglerna ovan, och klarar den inte
+säker.** Det prövas både på cellens text och på ordens lägen, med samma
+regel för fält som ovan. Tabellen prövas i stället enligt reglerna ovan, och klarar den inte
 dem blir den osäker. Det skärper ADR-0005:s definition av en säker
 tabell; resten av ADR-0005 gäller som förut.
 
@@ -86,11 +88,19 @@ förut.
   budgetdokument 98 tabeller med 612 rader, utan ett enda fel tal.
 * Bra, eftersom inget nytt beroende behövs, och regeln är kort nog att
   läsa i ARKITEKTUR.
-* Bra, eftersom ingen CSV längre har flera tal i samma cell.
+* Bra, eftersom en cell med flera tal, i de former reglerna känner igen,
+  inte längre blir en del av en CSV.
 * Dåligt, eftersom många tabeller förblir osäkra: tabeller med en
   kodkolumn före etiketten, med centrerade tal, med åldrar eller år som
   etikett, eller med ett sidnummer eller en fotnot direkt under. I de fyra
   dokumenten var 21 av 41 sidor fortfarande `tabell-osaker`.
+* Dåligt, eftersom en rad med bara årtal direkt ovanför tabellen, högst
+  tre teckenhöjder ifrån, blir en talrad i följden, och då blir hela
+  tabellen osäker.
+* Dåligt, eftersom text i en spalt bredvid en tabell utan etiketter, där
+  den första kolumnen är tal men inte år eller koder, kan bli tabellens
+  etiketter. Granskningen visade fallet med år; i de 33 dokumenten fanns
+  inget av det andra slaget.
 * Dåligt, eftersom en etikett som bryts över två rader står i CSV:n med
   den del som står på talens rad; resten står i texten.
 * Dåligt, eftersom rubrikerna oftast inte följer med: bara 14 av 98
@@ -171,7 +181,8 @@ förut.
    uppställning: etiketten och talen i samma ordning. Kolumnerna
    kontrollerades för hand mot sidan i nio tabeller. I 29 slumpvis valda
    handlingar från nämnderna (1 876 sidor) blev 6 tabeller med 61 rader
-   CSV, och 53 sidor med osäker tabell blev 49. Där var de flesta osäkra
+   CSV, och 53 sidor med osäker tabell blev 51. Där blev också 3 av 485
+   tabeller med linjer osäkra, eftersom en cell rymde en hel rad med tal. Där var de flesta osäkra
    "tabellerna" diagramaxlar, innehållsförteckningar och tabeller med en
    kodkolumn.
 3. **Varför rubrikerna kräver hela raden.** En rubrik som bara delvis
@@ -197,5 +208,16 @@ förut.
    tal, och en cell prövas rad för rad. Granskningen ledde också till att
    den översta rubrikraden måste ha en rubrik i varje kolumn, så att en
    titel eller en enhet för hela tabellen inte blir en kolumns rubrik.
+   Det andra varvet hittade tre fall till: löptext i en spalt bredvid
+   en tabell med år som första kolumn blev tabellens etiketter, celler
+   som `(2 100)⏎1 978` och `1 234 (1 150)` räknades som ett tal, och tre
+   kolumner tresiffriga tal utan lodräta linjer emellan, `120 135 142`,
+   såg ut som ett tal med tusentalsmellanrum. En första kolumn med bara
+   år eller koder gör därför tabellen osäker, en cell prövas rad för rad
+   med parenteser och snedstreck som skiljetecken, och mellanrummen
+   mellan orden i en cell prövas med samma regel som fälten. Agenten
+   valde regeln om år och koder framför en regel om stycken, eftersom
+   den inte ändrade någon av de 104 tabellerna i proven, medan en regel
+   om text ovanför och under också hade fällt tabeller med en titel.
 7. **Omprövas** om en vanlig sorts tabell förblir osäker, till exempel
    tabeller med kodkolumn; då kan reglerna utökas med fler etikettfält.

@@ -22,6 +22,7 @@ NYTT_FALT = 1.0
 RADMELLANRUM = 3
 BOKSTAV = re.compile(r"[^\W\d_]")
 STRECK = re.compile(r"[-−–]")
+AR_ELLER_KOD = re.compile(r"\d{4}")
 
 
 @dataclass(frozen=True)
@@ -128,6 +129,8 @@ def tabell(rader_: list[Rad], foljd: tuple[int, int]) -> Tabell | None:
     kropp = [kroppsrad(e, c, kolumner_) for e, c in delar]
     if None in kropp or not atskilda(kolumner_, etiketternas_slut):
         return None
+    if all(AR_ELLER_KOD.fullmatch(r[1]) for r in kropp if r[1]):
+        return None  # en etikettkolumn, och etiketterna till vänster är annan text
     huvud = huvudet(rader_[: borjan + 1], kolumner_, etiketternas_slut)
     ord_ = [o for r in rader_[borjan - len(huvud) : slut] for o in r.ord]
     return Tabell(ram(ord_), huvud + kropp, len(ord_))
@@ -187,8 +190,9 @@ def huvudrad(falt_: list[Falt] | None, kolumner_: list, etiketternas_slut: float
     if not falt_:
         return None
     rubrik = [""] * (len(kolumner_) + 1)
-    if kolumn(falt_[0], kolumner_) is None and falt_[0].x1 < kolumner_[0][0]:
-        rubrik[0], falt_ = falt_[0].text, falt_[1:]
+    forsta = falt_[0]
+    if forsta.x0 < etiketternas_slut and forsta.x1 < kolumner_[0][0]:
+        rubrik[0], falt_ = forsta.text, falt_[1:]
     granser = [etiketternas_slut] + [x1 for _, x1 in kolumner_]
     for f in falt_:
         i = kolumn(f, kolumner_)

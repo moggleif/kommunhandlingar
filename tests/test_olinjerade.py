@@ -89,6 +89,13 @@ class TestTabeller(unittest.TestCase):
         ar = rad(180, None, ("2012", 200), ("2013", 300))
         self.assertEqual(tabeller(sida(*BUDGET, ar), []), [])
 
+    def test_ar_i_forsta_kolumnen_ger_ingen_tabell(self):
+        ar = [
+            rad(100 + 20 * i, "Löptext i spalten", (str(2021 + i), 200), ("62", 300))
+            for i in range(3)
+        ]
+        self.assertEqual(tabeller(sida(*ar), []), [])
+
     def test_tal_ur_linje_ger_ingen_tabell(self):
         sned = rad(180, "Summa", ("1 000", 205), ("2 000", 300))
         self.assertEqual(tabeller(sida(*BUDGET, sned), []), [])
@@ -150,6 +157,10 @@ class TestRubriker(unittest.TestCase):
 
     def test_rubrik_som_borjar_bland_etiketterna_tas_inte_med(self):
         rubrik = [ord_("Verksamhetens", 200, 80, 120), ord_("Plan", 300, 80, 25)]
+        self.assertEqual(self.rubriker(rubrik), [])
+
+    def test_rubrik_i_mellanrummet_tas_inte_med(self):
+        rubrik = [ord_("Utfall", 130, 80, 25), *self.BUDGET_PLAN]
         self.assertEqual(self.rubriker(rubrik), [])
 
     def test_rubrik_utan_varje_kolumn_overst_tas_inte_med(self):

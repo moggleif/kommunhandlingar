@@ -490,11 +490,15 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   rader och två kolumner, varje ord inom dess yta har sin mittpunkt i
   en cell, och ingen cell rymmer mer än ett tal. En cell rymmer mer än
   ett tal när minst två av dess rader var för sig är ett tal (med eller
-  utan förtecken, procenttecken eller en enhet på högst fyra bokstäver)
-  eller ett ensamt streck, som `4 078⏎4 054` eller `4 078⏎-`, eller när
-  den på en rad har flera siffergrupper som tillsammans inte är ett tal,
-  som `65,0 70,0`. Två rader som linjerna inte skiljer åt hamnar annars i
-  samma cell.
+  utan förtecken, parentes, procenttecken eller en enhet på högst fyra
+  bokstäver) eller ett ensamt streck, som `4 078⏎4 054`, `(2 100)⏎1 978`
+  eller `4 078⏎-`; när en rad bara har siffergrupper, åtskilda av
+  mellanslag, parenteser eller snedstreck, som tillsammans inte är ett
+  tal, som `65,0 70,0` eller `1 234 (1 150)`; eller när två ord med
+  siffror på samma rad i cellen har mer än en halv teckenhöjd emellan,
+  som i `120   135`, enligt samma regel för fält som i tabellerna utan
+  lodräta linjer. Två rader eller kolumner som linjerna inte skiljer åt
+  hamnar annars i samma cell.
 - **En säker tabell utan lodräta linjer** läses ur de ord som står
   utanför tabellerna med linjer, enligt
   [Tabeller utan lodräta linjer](#tabeller-utan-lodrata-linjer).
@@ -561,9 +565,9 @@ och blir en osäker tabell som förut.
    fält när det är minst en teckenhöjd. Ett mellanrum däremellan är
    tvetydigt. Så skiljs tusentalsmellanrummet i `4 078` från mellanrummet
    mellan två kolumner.
-3. **Tabellrad:** första fältet är en etikett med minst en bokstav, och
-   varje följande fält är ett tal (enligt definitionen ovan) eller ett
-   ensamt streck (`-`, `−` eller `–`).
+3. **Tabellrad:** första fältet är en etikett med minst en bokstav, minst
+   ett fält följer, och varje följande fält är ett tal (enligt
+   definitionen ovan) eller ett ensamt streck (`-`, `−` eller `–`).
 4. **Följd:** rader i följd som är tabellrader eller talrader, där en
    talrad har minst två fält som är tal, eller minst två ord som är tal
    när ett mellanrum är tvetydigt. Avståndet mellan två rader i följden
@@ -574,15 +578,20 @@ och blir en osäker tabell som förut.
    minst två tal, varje streck står med högerkanten i linje med en
    kolumn, och kolumnerna överlappar inte varandra eller etiketterna:
    varje kolumns vänstra kant ligger till höger om föregående kolumns
-   högra kant, och den första till höger om den längsta etiketten.
+   högra kant, och den första till höger om den etikett som slutar
+   längst till höger. Består den första kolumnen bara av fyrsiffriga
+   heltal, år eller koder, är den en kolumn med etiketter, och det som
+   står till vänster är något annat, till exempel text i en spalt
+   bredvid; då blir det ingen tabell.
 6. **Rubrikrader:** raderna närmast ovanför, högst tre teckenhöjder
    ifrån raden under, tas med från tabellen och uppåt så länge raden inte
    är en tabellrad eller talrad, har minst ett fält i en kolumn, och
    varje fält utom ett första står med högerkanten i linje med en kolumn
    (högst 2 punkter ifrån) och börjar till höger om föregående kolumns
-   högra kant, eller om den längsta etiketten för den första kolumnen. Ett
-   första fält som inte står i någon kolumn är rubrikens etikett och
-   slutar före den första kolumnen. Rubriken tas med bara om den översta
+   högra kant, eller om den etikett som slutar längst till höger för den
+   första kolumnen. Ett första fält som börjar till vänster om där den
+   etiketten slutar, och slutar före den första kolumnen, är rubrikens
+   etikett. Rubriken tas med bara om den översta
    rubrikraden har en rubrik i varje kolumn, och om raden ovanför den är
    en ensam etikett till vänster om kolumnerna, ligger längre bort, eller
    inte finns; annars tas ingen rubrikrad med, så att en rubrik aldrig
