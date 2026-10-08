@@ -1,0 +1,39 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Hantera prövning om miljöfarlig verksamhet,,,,
+Process:,Prövning efterbehandling av förorenade områden,,,,
+Processnummer:,7.5.1.06,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Anmälan med bilagor
+kommer in och
+mottagningsbekräftelse
+skickas ut",Anmälan,EDP Vision,Digitalt,Bevaras,
+,Situationsplan,EDP Vision,Digitalt,Bevaras,
+,Analysresultat,EDP Vision,Digitalt,Bevaras,
+,Egenkontroll,EDP Vision,Digitalt,Bevaras,
+,Fotografi,EDP Vision,Digitalt,Bevaras,
+,Certifikat,EDP Vision,Digitalt,Bevaras,
+,Mottagningsbekräftelse,EDP Vision,Digitalt,10 år,
+Utreda,Begäran om komplettering,EDP Vision,Digitalt,10 år,
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+"Besluta om
+försiktighetsmått och
+skicka ut tidkort",Beslut,EDP Vision,Digitalt,Bevaras,
+,Tidkort,EDP Vision,Digitalt,10 år,
+"Delge beslut och
+signerat
+delgivningskvitto
+kommer in",Delgivningskvitto,EDP Vision,Digitalt,10 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,10 år,
+Slutrapport kommer in,Slutrapport,EDP Vision,Digitalt,Bevaras,
+"Granska och skicka
+bekräftelse till
+verksamhetsutövaren",Bekräftelse,EDP Vision,Digitalt,Bevaras,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

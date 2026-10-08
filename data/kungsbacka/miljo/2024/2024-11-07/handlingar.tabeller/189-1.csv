@@ -1,0 +1,22 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt alkohollagen och tobakslagen,,,,
+Processgrupp:,Hantera prövning enligt alkohollagen,,,,
+Process:,Prövning återkallelse av serveringstillstånd,,,,
+Processnummer:,7.7.1.14,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Anmälan om återkallelse
+kommer in och
+mottagningsbekräftelse
+skickas ut",Anmälan om återkallelse,EDP Vision,Digitalt,Bevaras,"Återkallelse av serveringstillstånd egen
+begäran och konkurs."
+,Mottagningsbekräftelse,EDP Vision,Digitalt,3 år,
+"Besluta om återkallelse
+av serveringstillstånd",Tjänsteskrivelse,EDP Vision,Digitalt,Bevaras,
+,Beslut,EDP Vision,Digitalt,Bevaras,
+"Delge beslut och signerat
+delgivningskvitto kommer
+in",Delgivningskvitto,EDP Vision,Digitalt,3 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,3 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

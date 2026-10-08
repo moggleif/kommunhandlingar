@@ -1,0 +1,37 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Hantera kemiska produkter,,,,
+Process:,Prövning spridning av kemiska bekämpningsmedel,,,,
+Processnummer:,7.5.2.02,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Ansökan med bilagor
+kommer in och
+mottagningsbekräftelse
+skickas ut",Ansökan,EDP Vision,Digitalt,Bevaras,
+,Mottagningsbekräftelse,EDP Vision,Digitalt,5 år,
+,Karta,EDP Vision,Digitalt,Bevaras,
+,Inspektionsrapport,EDP Vision,Digitalt,Bevaras,
+,Hanteringsplan,EDP Vision,Digitalt,Bevaras,
+,Säkerhetsdatablad,EDP Vision,Digitalt,Bevaras,
+,Fotografi,EDP Vision,Digitalt,Bevaras,
+Granska,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+"Besluta samt skicka ut
+tidkort",Beslut,EDP Vision,Digitalt,Bevaras,
+,Tidkort,EDP Vision,Digitalt,5 år,
+"Delge beslut och
+signerat
+delgivningskvitto
+kommer in",Delgivningskvitto,EDP Vision,Digitalt,5 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,5 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."
+Följa upp beslutet,Sprutjournal,EDP Vision,Digitalt,Bevaras,
+"Granska redovisning och
+bekräfta till
+verksamhetsutövaren",Bekräftelse,EDP Vision,Digitalt,5 år,

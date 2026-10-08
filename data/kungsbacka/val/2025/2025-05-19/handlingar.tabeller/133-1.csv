@@ -1,0 +1,19 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Ledning,,,,
+Processgrupp:,Fullmäktige,,,,
+Process:,Hantera särskilda beredningar,,,,
+Processnummer:,1.1.1.3,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Kalla till
+sammanträde",Kallelse,Diarium,Digitalt,2 år,
+,Beslutsunderlag,,Digitalt,Se anmärkning,"Beslutsunderlag hanteras enligt separat process för
+ärendehantering. Huvudregel är att de registreras i
+diarium."
+Hålla sammanträde,Närvarolista,Diarium,Digitalt,Bevaras,"Ingår i protokollet, se 1.1.1.1 Hantera fullmäktige."
+,Omröstningslista,Diarium,Digitalt,Bevaras,"Ingår i protokollet, se 1.1.1.1 Hantera fullmäktige."
+,Dagordning,Diarium,Digitalt,2 år,
+"Besluta och
+expediera",Protokoll,Diarium,Digitalt,Bevaras,
+,Protokollsutdrag,Diarium,Digitalt,Se anmärkning,"Protokollsutdrag registreras tillsammans med
+respektive ärende, bevaras. Utdrag som ligger på
+själva sammanträdet kan gallras efter 2 år."

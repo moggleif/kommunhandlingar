@@ -1,0 +1,49 @@
+Insats (KVÅ-kod),Nivå,Schablontid (min)
+"Läkemedelstillförsel, rektal (DT020)",,8
+"Läkemedelstillförsel, transkutan (DT022)",,8
+"Läkemedelstillförsel, vaginal (DT023)",,8
+"Läkemedelstillförsel, via inhalation (DT024)",Nivå 1,5
+"Läkemedelstillförsel, via inhalation (DT024)",Nivå 2,13
+Sondmatning (DV065),,13
+Massage DV073 (I) Taktil massage,,15
+"G - Kompensation, information/undervisning, samordning, administrativ handläggning",,
+Extra tillsyn (GA002),,13
+K - Kungsbacka kommuns åtgärdskoder,,
+Motståndsandning med PEP-flöjt/mask (KBA030),,13
+Behandling med hostmaskin (KBA031),,15
+Behandling med Bilevel/CPAP (KBA032),,13
+Behandling med hemventilator och rubens blåsa (KBA033),,23
+Inställning av luftmängd i luftdyna (KBA034),Nivå 1,10
+Inställning av luftmängd i luftdyna (KBA034),Nivå 2,20
+Rikning (KBA061),,23
+Behandling med motoriserad arm- och bentränare (KBA071),,20
+Behandling med tippbräda/stårullstol (KBA072),,33
+Skötsel av urinkateter (KBA101),,13
+Skötsel av gastrostomiport (KBA102),,10
+Överlämna iordningställda läkemedel från apodos och dosett (KBA201),,6
+Lämna ut apodosrulle (KBA202),,4
+Läkemedelstillförsel via öron (KBA204),,5
+Iordningställa tarmreglerande läkemedel ur originalförpackning (KBA205),,6
+"Injicera ordinerad insulindos eller andra diabetesläkemedel subkutant till patient med stabil
+blodsockernivå (KBA208)",,10
+Injicera ordinerat antitrombosläkemedel i färdigställda doser (KBA209),,10
+Överlämna apodosrulle i medicingivare (KBA211),,20
+P - ICF-associerade utredande åtgärder,,
+Bedömning av sömnfunktioner (PA007),,9
+Bedömning av emotionella funktioner (PA011),,15
+Bedömning av smärta (PB009),,10
+Pulsmätning (PD001),,9
+Ödemmätning (PD006),,9
+Bedömning av andningsfunktion (PD007),,10
+Bedömning av värmereglerande funktioner (PE010),,9
+Bedömning av näringsintag (PE015),,9
+Bedömning av urinutsöndringsfunktioner (PF001),,9
+Bedömning av huden (PH001),,9
+Q - ICF-associerade behandlande åtgärder,,
+Underlättande av sömn (QA004),,13
+Stöd vid oro (QA009),,23
+Balansträning (QB001),Nivå 1,10
+Balansträning (QB001),Nivå 2,20
+Yrselträning (QB002),,18
+Fallprevention (QB003),,23
+Smärtreducerande behandling (QB008),,18

@@ -1,0 +1,43 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Inköp,,,,
+Processgrupp:,Inköp,,,,
+Process:,Hantera upphandling över direktupphandlingsgräns,,,,
+Processnummer:,2.5.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Förbereda och
+initiera
+upphandlingsärende","Inköpsgrundande handling t.ex.
+anskaffningsbeslut,
+investeringsbeslut","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"I de fall särskilt beslut från nämnd tas,
+diarieförs detta och expedieras till Service
+Inköp, Upphandling. I andra fall avgör
+volymerna om upphandling ska genomföras."
+Annonsera,Annons i databas,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,Anbudsförfrågan,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Innehåller administrativa föreskrifter.
+Administreras i Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,Infordran/inbjudan,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,Kravspecifikation,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,Avtalsvillkor,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,"Lista
+upphandlingsdokumentshämtare","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+"Genomföra
+upphandling","Frågor från anbudsgivare och
+svar, under annonseringstiden","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"När frågorna blir av betydelse för
+upphandlingen går det ut ett förtydligande,
+meddelande till alla anbudsgivare.
+Administreras i Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"

@@ -1,0 +1,15 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Hantera inrapporterade händelser och anmälningar,,,,
+Process:,Hantera anmälningar enligt lex Sarah,,,,
+Processnummer:,6.1.2.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Rapportera,Rapport,DF Respons Ciceron,Digital,5 år,
+Utreda,Utredning med beslut,DF Respons Ciceron,Digital,5 år,
+,"Utredning om ett missförhållande
+eller påtaglig risk för ett
+missförhållande som anmäls till IVO",Ciceron,Digital,Bevaras,
+Anmäla,Anmälan till IVO,Ciceron,Digital,Bevaras,
+Bekräfta,"Bekräftelse från IVO om att anmälan
+enligt lex Sarah har mottagits",Ciceron,Digital,Bevaras,
+Besluta,Beslut från IVO,Ciceron,Digital,Bevaras,

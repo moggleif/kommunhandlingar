@@ -1,0 +1,23 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Utöva tillsyn enligt miljöbalken – Miljöskydd,,,,
+Process:,Rapportering – Cistern som tagits ur bruk,,,,
+Processnummer:,7.5.6.11,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Anmälan om borttagning
+inkommer",Anmälan,EDP Vision,Digitalt,Bevaras,
+,Borttagningsintyg,EDP Vision,Digitalt,Bevaras,
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+"Avgiftsbeslut tas, anmälan
+godkänns eller icke
+godkänns",Beslut,EDP Vision,Digitalt,Bevaras,
+,Bekräftelse,EDP Vision,Digitalt,Bevaras,
+"Delge beslut och signerat
+delgivningskvitto kommer
+in",Delgivningskvitto,EDP Vision,Digitalt,5 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,5 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

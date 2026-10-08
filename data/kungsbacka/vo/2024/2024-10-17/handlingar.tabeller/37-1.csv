@@ -1,0 +1,40 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för äldre och personer med funktionsnedsättning,,,,
+Process:,"Hantera ansökan eller anmälan, utreda och fatta beslut om bistånd enligt socialtjänstlagen",,,,
+Processnummer:,6.5.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Anmäla,"Anmälan till överförmyndaren om
+behov av god man eller förvaltare",Combine,Digital,"5 år (5, 15, 25
+bevaras)",
+Hantera ansökan,Ansökan om bistånd,Combine,Digital,"5 år (5, 15, 25
+bevaras)",
+Hantera anmälan,"Anmälan som ger upphov till ett
+ärende",Combine,Digital,"5 år (5, 15, 25
+bevaras)",
+"Genomföra samordnad
+individuell planering
+(SIP)","Samordnad individuell planering
+(SIP)",Combine,Digital,"5 år (5, 15, 25
+bevaras)",
+"Utreda och bedöma
+behov",Utredning,Combine,Digital,"5 år (5, 15, 25
+bevaras)",
+Hantera underlag,"Inkomna, utgående och upprättade
+handlingar av betydelse för ärendet",Combine,Digital,"5 år (5, 15, 25
+bevaras)",
+,"Inkomna, utgående och upprättade
+handlingar av tillfällig betydelse
+och/eller rutinmässig karaktär",Combine,Digital,Vid inaktualitet,
+Hantera fullmakt,Fullmakt,Combine,Digital,"5 år (5, 15, 25
+bevaras)",
+Dokumentera,Journalanteckning,Combine,Digital,"5 år (5, 15, 25
+bevaras)",
+Kommunicera utredning,Kommunikation,Combine,Digital,"5 år (5, 15, 25
+bevaras)",
+Besluta,Beslut om bifall/avslag om bistånd,Combine,Digital,"5 år (5, 15, 25
+bevaras)",
+"Hantera ej verkställt
+beslut","Tjänsteskrivelse om Rapportering av
+ej verkställda beslut enligt
+socialtjänstlagen",Ciceron,Digital,Bevaras,

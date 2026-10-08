@@ -1,0 +1,35 @@
+,Mötesanteckning,Insidan,Digitalt,Vid inaktualitet,"Exempelvis vid utvecklingsråd,
+användarforum och leverantörsmöten."
+,Korrespondens,Outlook,Digitalt,Vid inaktualitet,
+Dokumentera,Uppföljningsrapport,Diarium,Digitalt,10 år,
+,Presentation,Insidan,Digitalt,Vid inaktualitet,"Exempelvis presentationer vid
+användarträffar, ledningsgruppsmöten
+och leverantörsmöten."
+,Kommunikationsplan,Insidan,Digitalt,Vid inaktualitet,"Exempelvis vid incident eller införande
+av ny funktion."
+,Handlingsplan,Diarium,Digital,Bevaras,"Kan även benämnas åtgärdslista eller
+kontinuitetsplan. Exempelvis åtgärder
+som ska följas upp efter en
+informationsklassning av systemet."
+"Dokumentera
+händelser",Händelselogg,"Respektive
+verksamhetssystem",Digitalt,Vid inaktualitet,"Information som användare har åtkomst
+till och som visar händelser som
+användare genomfört."
+,Integritetslogg,"Respektive
+verksamhetssystem",Digitalt,10 år,"Även kallad användarlogg eller
+granskningslogg. Vid systembyte och
+eventuell volymstyrd gallring ska
+informationen plockas ut från
+verksamhetssystemet och förvaras
+digitalt.
+Logg som dokumenterar tillgång till
+information (till exempel databasfrågor,
+anropens ursprung/plats, ansvarig
+användare för operationer, datum,
+tidpunkt, berörda tabeller och fält) och
+som kan behövas i revisioner, ansvars-
+/disciplinärenden, skadestånd, brottmål
+till exempel dataintrång med mera.
+Om loggen vid kontroll leder till åtgärd
+ska den diarieföras och bevaras."

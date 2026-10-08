@@ -1,0 +1,35 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,HR/Personal,,,,
+Processgrupp:,Övriga personalåtgärder,,,,
+Process:,Hantering av disciplinåtgärder,,,,
+Processnummer:,2.3.8.2,,,,
+Aktivitet,Handling,Förvaring,Format,"Bevara/Gallr
+a",Anmärkning
+Informera,Skriftligt förtydligande,Personakt,Papper,Bevaras,
+,Kallelse,Novi,Digitalt,Vid inaktualitet,
+,"Underrättelse/varsel
+om varning",PersonaktNovi,PapperDigitalt,Bevaras,"Original skickas till medarbetaren. En kopia av
+underrättelsen sparas."
+,Varsel om varning,Novi,Digitalt,Bevaras,"Original skickas till medarbetarens fackförbund.
+En kopia av varsel sparas."
+,"Begäran om
+överläggning",Handläggare,Papper,Vid inaktualitet,
+,"Tolkningsföreträde från
+fackförbund",Novi,Digitalt,Bevaras,
+,Skriftlig varning,Personakt,Papper,Bevaras,Även kallad skriftlig erinran.
+,Handlingsplan,PersonaktNovi,PapperDigitalt,Bevaras,
+,"Anteckningar från
+medvetandegörande
+samtaldisciplinärende
+/misskötsamhetsärende",PersonaktNovi,PapperDigitalt,Bevaras,Exempelvis från förtydligande samtal.
+,"Underrättelse om
+avstängning",Novi,Digitalt,Bevaras,Skickas till fackförbund.
+Besluta,Beslut om avstängning,PersonaktNovi,PapperDigitalt,Bevaras,
+,"Beslut om skriftlig
+varning med
+underskrift",Personakt,Papper,Bevaras,"2 exemplar upprättas. Arbetsgivarens exemplar
+undertecknas av behörig företrädare och av
+medarbetaren när den mottages alternativt
+bevittnas."
+,"Underrättelse om
+avstämning",Personakt,Papper,Bevaras,Skickas till fackförbund.

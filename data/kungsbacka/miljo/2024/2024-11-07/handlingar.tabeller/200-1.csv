@@ -1,0 +1,35 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt alkohollagen och tobakslagen,,,,
+Processgrupp:,"Utöva tillsyn enligt alkohollagen, tobakslagen och lagen om receptfria läkemedel",,,,
+Process:,Inre tillsyn serveringstillstånd,,,,
+Processnummer:,7.7.6.02,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Utföra inre tillsyn,Tillsynsrapport,EDP Vision,Digitalt,Bevaras,
+Utreda,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,"Yttrande från
+verksamhetsutövaren",EDP Vision,Digitalt,Se anmärkning,"Bevaras i tillsynsärenden som leder till
+utredning om erinran, varning, sanktion
+eller återkallelse av serveringstillståndet.
+Gallras efter 5 år i övriga ärenden."
+,Fotografi,EDP Vision,Digitalt,Se anmärkning,"Bevaras i tillsynsärenden som leder till
+utredning om erinran, varning, sanktion
+eller återkallelse av serveringstillståndet.
+Gallras efter 5 år i övriga ärenden."
+,Utredning,EDP Vision,Digitalt,Bevaras,
+Besluta om erinran,Beslut,EDP Vision,Digitalt,Bevaras,Om ärendet inte går vidare till nämnd.
+"Skicka underrättelse inför
+beslut om varning,
+sanktion eller återkallelse
+av serveringstillståndet
+och verksamhetsutövarens
+svar kommer in","Kommunicera enligt
+förvaltningslagen",EDP Vision,Digitalt,Bevaras,
+,"Svar på
+kommunicering enligt
+förvaltningslagen",EDP Vision,Digitalt,Bevaras,
+,Tjänsteskrivelse,EDP Vision,Digitalt,Bevaras,

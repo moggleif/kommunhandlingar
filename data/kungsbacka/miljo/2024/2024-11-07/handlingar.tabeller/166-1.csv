@@ -1,0 +1,16 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärende enligt livsmedelslagen,,,,
+Processgrupp:,Hantera klagomål & RASFF (Rapid Alert System for Food and Feed: System för snabb varning om livsmedel och foder),,,,
+Process:,Inkommen RASFF (Rapid Alert System for Food and Feed: System för snabb varning om livsmedel och foder),,,,
+Processnummer:,7.6.7.01,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+RASFF kommer in,"Rapport risker i
+livsmedelskedjan",EDP Vision,Digitalt,5 år,
+Utreda,Korrespondens,EDP Vision,Digitalt,5 år,"Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Tjänsteanteckning,EDP Vision,Digitalt,5 år,"Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+"Återrapportera till
+livsmedelsverket att
+verksamheten har tagit bort
+produkten ur sortimentet",Kontrollrapport,EDP Vision,Digitalt,5 år,

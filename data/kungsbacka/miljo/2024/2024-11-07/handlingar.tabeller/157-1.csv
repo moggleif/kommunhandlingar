@@ -1,0 +1,16 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärende enligt livsmedelslagen,,,,
+Processgrupp:,Hantera prövning livsmedelsanläggningar,,,,
+Process:,Prövning registrering av livsmedelsanläggning,,,,
+Processnummer:,7.6.1.01,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Anmälan kommer in,Anmälan,EDP Vision,Digitalt,Bevaras,
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Fullmakt,EDP Vision,Digitalt,Bevaras,
+"Beslut på att verksamheten
+har registrerats skickas ut",Beslut,EDP Vision,Digitalt,Bevaras,

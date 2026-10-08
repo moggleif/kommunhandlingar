@@ -1,0 +1,40 @@
+,,,,,"handelssystemet. Originalkvittot kan slängas när det
+finns bifogat."
+"Betala
+leverantörsfakturor",Manuell utbetalning,"Se
+anmärkning",Papper,7 år,"Manuella utbetalningar registreras i Raindance.
+Arkiveras hos respektive förvaltning i sju år."
+,"Utbetalningsfil till
+BGC/Swedbank","Se
+anmärkning",Digitalt,7 år,"Ekonomi skickar tre olika filer:
+Leverantörbetalningar:
+P:\DFiles\Utbetalningar\LR\BG\Arkiv
+Utlandsbetalningar:
+P:\DFiles\Utbetalningar\LR\Sepa\Arkiv
+Utbetalningar privatpersoner via Swedbank SUS:
+P:\DFiles\Utbetalningar\LR\SUS\Arkiv"
+,Utbetalningsjournal,"Se
+anmärkning",Digitalt,7 år,"Utbetalningsjournal skapas i Raindance för alla
+utbetalningssätten och arkiveras på
+P:\DFiles\Arkiv\LR\Utbet_journal"
+,"Återredovisade
+leverantörsbetalning","Se
+anmärkning",Digitalt,7 år,"Fil från BGC som avser utbetalda
+leverantörsbetalningar.
+P:\DFiles\Bg\Kvittens_levbet\Arkiv_kvittens_levbet."
+,"Återredovisade
+leverantörsbetalningar från
+Raindance till Proceedo","Se
+anmärkning",Digitalt,2 år,P:\DFiles\Arkiv\LR\Aterrapp_betaldag
+,"Avvisade
+leverantörsbetalning","Närarkiv
+Vägmästaren",Papper,2 år,"Besked om avvisade leverantörsbetalningar kommer
+från Bankgirocentralen. Ansvarig handläggare
+åtgärdar utbetalningen i ekonomisystemet."
+,"Avvisade
+leverantörsutbetalning SUS","Närarkiv
+Vägmästaren",Papper,7 år,"Besked om avvisade leverantörsbetalningar kommer i
+Internetbanken som ett elektroniskt dokument.
+Sparas tillsammans med kassaverifikationer."
+,Ej inlöst utbetalning,"Se
+anmärkning",Digitalt,7 år,Listor arkiveras på två olika ställen:
