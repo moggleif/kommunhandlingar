@@ -498,9 +498,8 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   - en rad bara består av tal och streck, med enheterna `%`, `kr`, `tkr`,
     `mkr`, `mnkr`, `mdkr` och `st`, oavsett skiftläge, borträknade,
     mellanslag, parenteser och snedstreck med mellanslag omkring som
-    skiljetecken, och ett minustecken först i raden fört till talet, och
-    de tillsammans inte är ett tal (en decimalpunkt räknas som
-    decimalkomma), som `65,0 70,0`, `1 234 (1 150)`,
+    skiljetecken, och de tillsammans inte är ett tal (en decimalpunkt
+    räknas som decimalkomma), som `65,0 70,0`, `1 234 (1 150)`,
     `74 984 kr 80%` eller `4 078 -`; eller
   - två fält på samma rad i cellen var för sig är ett tal eller ett
     streck, med fälten avgränsade som i tabellerna utan lodräta linjer

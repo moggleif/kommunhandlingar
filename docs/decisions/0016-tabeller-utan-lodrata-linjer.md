@@ -73,7 +73,7 @@ Mätningen visade också en brist i ADR-0005:s regel för tabeller med
 linjer: två rader eller kolumner som linjerna inte skiljer åt hamnar i
 samma cell, till exempel `2 445,1 -8 323,3 -5 878,2 143,4` eller
 `4 078⏎4 054`. Talen är rätt, men cellen är fel. I poolen gäller det
-minst 615 av 8 403 CSV:er. **En tabell med linjer där en cell rymmer mer
+minst 619 av 8 403 CSV:er. **En tabell med linjer där en cell rymmer mer
 än ett tal är därför inte längre säker.** Det prövas både på cellens text
 och på ordens lägen, med samma regel för fält som ovan men med ett
 tvetydigt mellanrum som gräns. Tabellen prövas
@@ -108,7 +108,7 @@ förut.
 * Dåligt, eftersom rubrikerna oftast inte följer med: bara 14 av 98
   tabeller fick rubrikrader. Rubrikerna står kvar i texten ovanför.
 * Dåligt, eftersom en tabell med linjer som har flera tal i en cell nu
-  blir osäker också när en människa kan läsa den. Minst 615 av poolens
+  blir osäker också när en människa kan läsa den. Minst 619 av poolens
   8 403 CSV:er har en sådan cell, räknat på cellernas text. I
   stickproven var de flesta en hel rad med tal i en cell, till exempel
   fem procenttal per rad i personaltabellerna, eller sammanslagna
@@ -126,7 +126,8 @@ förut.
 * Dåligt, eftersom reglerna för celler med flera tal bara känner de
   vanligaste enheterna. Två tal med `SEK`, `kkr`, `procent`, `år`,
   `kr/st` eller en fotnotsmarkör som `4 054*` i samma cell går igenom;
-  i proven fanns inget sådant fall. Åt andra hållet fälls ett
+  i proven fanns inget sådant fall. Åt andra hållet fälls Excels format
+  för negativa tal, med minustecknet till vänster i cellen, ett
   telefonnummer som `114 14` och ett postnummer som `434 81`, och
   rutor där två rader börjar med ett kort ord och ett tal, som
   `Bilaga 1⏎Bilaga 2`.
@@ -267,7 +268,9 @@ förut.
    den fällda tabellen, och bara det tvetydiga mellanrummet blir en
    gräns.
    Det femte varvet visade att Excels format för negativa tal, med
-   minustecknet till vänster i cellen, fällde riktiga tabeller; ett
-   minustecken först i raden förs nu till talet.
+   minustecknet till vänster i cellen, fäller riktiga tabeller. Agenten
+   prövade att föra minustecknet till talet, men tabellerna föll ändå
+   på ordens lägen, där ett sådant minustecken inte går att skilja från
+   ett streck i en grannkolumn, så regeln togs bort igen.
 7. **Omprövas** om en vanlig sorts tabell förblir osäker, till exempel
    tabeller med kodkolumn; då kan reglerna utökas med fler etikettfält.

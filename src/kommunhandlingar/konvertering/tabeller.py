@@ -30,8 +30,6 @@ TALRAD = re.compile(rf"{TALET}|[-−–]", re.IGNORECASE)
 ETIKETT_OCH_TAL = re.compile(rf"[^\d\s]+(?: [^\d\s]+)? {TALET}", re.IGNORECASE)
 VARDE = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?|[-−–]")
 SKILJE = re.compile(r"\s+/\s+|[\s()]+")
-# Excels format för negativa tal ställer minustecknet till vänster i cellen.
-FORTECKEN_FORST = re.compile(r"^\s*([-−–])\s+(?=\d)")
 
 
 def sakra(sida: Page) -> tuple[list[Table], list[tuple]]:
@@ -77,7 +75,6 @@ def flera_tal(cell: str) -> bool:
 
 
 def flera_pa_raden(rad: str) -> bool:
-    rad = FORTECKEN_FORST.sub(r"\1", rad)
     delar = [d for d in SKILJE.split(rad) if d and not re.fullmatch(ENHET, d, re.I)]
     return (
         len(delar) > 1

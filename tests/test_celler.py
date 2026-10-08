@@ -30,6 +30,7 @@ FLERA = [
     "– –",
     "Intäkter\n4 078\n4 054",
     "1 200 Tkr 1 300 Tkr",
+    "4\xa0078\n4\xa0054",
     "1 200 MKR\n1 300 MKR",
     "4 078\nvarav bidrag\n4 054",
     "Intäkter 4 078\nKostnader -1 845",
@@ -51,7 +52,6 @@ ETT = [
     "10 kap 1 och 2",
     "5 år (dag 5,15 och\n25 bevaras)",
     "15 maj\n2024",
-    "-      54 627",
     "1 och\n2 st",
 ]
 
