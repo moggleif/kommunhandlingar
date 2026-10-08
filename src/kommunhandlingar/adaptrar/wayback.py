@@ -10,6 +10,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from urllib.parse import urlencode
 
+from kommunhandlingar.fel import Hamtfel
+
 CDX = "https://web.archive.org/cdx/search/cdx"
 # Var läsare av PDF letar efter filens slut (PDF 1.7, 7.5.5).
 SLUTET = 1024
@@ -32,7 +34,16 @@ def fraga(klient, adress: str, mimetyp: str, prefix: bool = False) -> list[Kopia
     ]
     if prefix:
         parametrar.append(("matchType", "prefix"))
-    rader = json.loads(klient.text(f"{CDX}?{urlencode(parametrar)}").strip() or "[]")
+    var = f"arkivets lista för {adress}"
+    try:
+        rader = json.loads(
+            klient.text(f"{CDX}?{urlencode(parametrar)}").strip() or "[]"
+        )
+    except Hamtfel as fel:
+        raise Hamtfel(fel.orsak, var) from fel
+    except ValueError as fel:
+        # Arkivet svarar ibland med en HTML-sida, "Temporarily Offline".
+        raise Hamtfel("inte-json", var) from fel
     return [Kopia(tid, original, int(langd)) for tid, original, langd in rader[1:]]
 
 

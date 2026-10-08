@@ -51,7 +51,7 @@ kunna läggas till utan kodändring.
   repot
 - **När** upptäckten körs
 - **Så** stoppas körningen med adressen och orsaken, och ingen
-  kandidatlista skrivs.
+  kandidatlista skrivs. För arkivet gäller K16.
 
 ## K3 — Historiken hämtas så långt bakåt den finns
 
@@ -372,11 +372,18 @@ kunna läggas till utan kodändring.
 - **Givet** att den levande hämtningen har nått tidsbudgetens mjuka gräns
 - **När** arkivet står på tur
 - **Så** frågas arkivet inte, och nästa körning försöker igen.
+- **Givet** att tidsbudgetens hårda gräns nås medan arkivet upptäcks
+- **När** gränsen nås
+- **Så** avbryts upptäckten, arkivets lista blir tom, och det som hämtats
+  från de levande källorna checkas in.
 - **Givet** en fråga till arkivet som inte besvaras, efter de nya försöken
   i K10
 - **När** arkivet upptäcks
 - **Så** hoppas frågan över och nämns i sammanfattningen; körningen går
   vidare, och det som hämtats checkas in.
+- **Givet** en mötessida som arkivet inte har någon kopia av
+- **När** arkivet upptäcks
+- **Så** nämns den i sammanfattningen.
 - **Givet** en källnyckel som finns i poolen utan kvalitet `ej-hamtad`, eller
   en plats som har ett dokument med en källnyckel som inte finns i arkivets
   kandidatlista
@@ -394,3 +401,6 @@ kunna läggas till utan kodändring.
   1 024 byte
 - **När** den har hämtats
 - **Så** blir dokumentet `ej-hamtad` med `fel: kapad` (K6).
+- **Givet** ett `ej-hamtad` från en levande källa
+- **När** arkivets kopia av samma källnyckel inte heller går att hämta
+- **Så** lämnas dokumentets `.md` orörd.

@@ -54,7 +54,7 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
     else:
         dokument = Dokument(kandidat, sokvag, steg.pool.efter_sokvag[sokvag])
     gammal = dokument.befintlig
-    if steg.arkiv and gammal and (sokvag is None or hel(gammal)):
+    if steg.arkiv and ingen_lucka(sokvag, gammal):
         return "finns redan; arkivet fyller bara luckor"
     if sokvag and gammal["kalla_url"] == kandidat.url and hel(gammal):
         return "oförändrad"
@@ -72,6 +72,12 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
 
 def hel(falt: dict[str, str]) -> bool:
     return falt["kvalitet"] != "ej-hamtad"
+
+
+def ingen_lucka(sokvag: PurePosixPath | None, gammal: dict[str, str] | None) -> bool:
+    """Källnyckeln har ett fullständigt dokument, eller platsen har ett med en
+    källnyckel som inte står i listan (då gav `placera` ett befintligt utan sökväg)."""
+    return gammal is not None and (sokvag is None or hel(gammal))
 
 
 def placera(steg: Steg2, kandidat: Kandidat) -> Dokument:
@@ -102,6 +108,9 @@ def misslyckad(steg: Steg2, dokument: Dokument, orsak: str, hamtad: datetime) ->
     adress = dokument.kandidat.url
     if gammal and (gammal["fel"], gammal["kalla_url"]) == (orsak, adress):
         return f"ej hämtad ({orsak}), oförändrad"
+    if steg.arkiv and gammal and gammal["kalla_url"] != adress:
+        # Annars skriver den levande källan och arkivet om filen varannan gång.
+        return f"ej hämtad ({orsak}), den levande källans försök orört"
     falt = grundfalt(steg, dokument) | {
         "hamtad": gammal["hamtad"] if gammal else hamtad.isoformat(),
         "pipeline": steg.version,

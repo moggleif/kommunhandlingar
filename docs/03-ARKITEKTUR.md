@@ -173,7 +173,7 @@ src/kommunhandlingar/
   schema.py        kontrollerna av fält och värden i kommunfilen
   fel.py           konfigurationsfel och "ingen kandidat"
   monster.py       mönstren: typ och datum ur en text
-  kandidat.py      kandidaten och ordningen (K13)
+  kandidat.py      kandidaten, ordningen (K13, K16) och listans sökväg
   adaptrar/        en modul per publiceringsplattform (sitevision, ciceron, …)
                    eller arkiv (wayback);
                    sitevision_html.py läser mötessidan, sitevision.py tolkar den,
@@ -289,7 +289,7 @@ Mötets filer står antingen som länkar i filportleten
 ```toml
 [[kalla]]
 adapter = "sitevision"
-arkiv = "wayback"
+wayback = true
 manader = ["januari", "februari", …, "december"]
 rubrik = '^(?P<dag>\d{1,2}) (?P<manad>[a-zåäö]+) (?P<ar>\d{4})'
 
@@ -305,7 +305,7 @@ bun = "https://exempelby.se/…/barn-och-ungdomsnamndens-sammantraden"
 | `kalla.sidor`     | Organets id och adressen till dess mötessida. Organet är sidans. |
 | `kalla.rubrik`    | Ett reguljärt uttryck med grupperna `ar`, `manad` och `dag`, som läser mötesrubriken. |
 | `kalla.rattelser` | Källnyckel och det rätta datumet, för filer vars filnamn och rubrik anger olika datum. |
-| `kalla.arkiv`     | `"wayback"`: sidorna läses också ur Internet Archive ([Arkivet](#arkivet)). Utelämnas annars. |
+| `kalla.wayback`   | `true`: sidorna läses också ur Internet Archive ([Arkivet](#arkivet)). Utelämnas annars. |
 
 - **Källnyckeln** är `sitevision:` och nod-id:t. Adressen är länkens
   eller JSON-postens `uri` som sidan skriver den, gjord absolut; båda
@@ -378,9 +378,10 @@ Hur och varför står i
 och beteendet i K16.
 `python -m kommunhandlingar.upptack kommuner/<kommun>.toml <arbetskatalog>
 --arkiv --start <N>` skriver `<arbetskatalog>/<kommun>.arkiv.kandidater.json`
-i samma form som kandidatlistan, för de källor som har `arkiv = "wayback"`.
+i samma form som kandidatlistan, för de källor som har `wayback = true`.
 Är tidsbudgetens mjuka gräns räknat från `--start` passerad blir listan
-tom, och arkivet frågas inte.
+tom, och arkivet frågas inte. Nås den hårda gränsen (`SIGALRM`) under
+upptäckten avbryts den, och listan blir tom.
 
 - **CDX-tjänsten** (`https://web.archive.org/cdx/search/cdx`) ger
   arkivets kopior med status 200: för varje mötessida (`text/html`) och,
@@ -396,9 +397,11 @@ tom, och arkivet frågas inte.
   adress, sedan den största kopian (`length`) och vid lika den äldsta.
   Har arkivet ingen kopia av en fil på sidan blir den ingen kandidat, med
   orsaken `ingen kopia i arkivet`. `kalla_url` blir kopians adress.
-- **En fråga som inte besvaras**, efter klientens nya försök, nämns i
-  sammanfattningen som "Arkivet svarade inte" och hoppas över. Utan
-  fillistan blir det inga kandidater alls.
+- **Noteringar.** En fråga som inte besvaras efter klientens nya försök,
+  eller som ger något annat än JSON (arkivet svarar ibland med en
+  HTML-sida, "Temporarily Offline"), och en mötessida som arkivet inte har
+  någon kopia av, hoppas över och står i sammanfattningen efter
+  "Arkivet:". Utan fillistan blir det inga kandidater alls.
 
 `python -m kommunhandlingar.hamta … --arkiv` läser arkivets lista, och
 steg 2 gör som för de levande källorna med två skillnader:
@@ -406,7 +409,9 @@ steg 2 gör som för de levande källorna med två skillnader:
 - **Bara luckor.** En kandidat vars källnyckel finns i poolen utan
   `ej-hamtad`, eller vars plats har ett dokument vars källnyckel inte
   finns i arkivets lista, hämtas inte ("finns redan; arkivet fyller bara
-  luckor"). Ett `ej-hamtad` med samma källnyckel fylls.
+  luckor"). Ett `ej-hamtad` med samma källnyckel fylls; misslyckas också
+  arkivets försök står det första kvar orört, när det gällde en annan
+  adress.
 - **Kapade kopior.** En hämtad kopia utan `%%EOF` bland de sista 1 024
   byten blir `ej-hamtad` med `fel: kapad`.
 

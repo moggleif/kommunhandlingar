@@ -67,23 +67,28 @@ FILKOPIOR = [
 ]
 
 
+def arkivet() -> Klient:
+    """Två ögonblicksbilder av bun, och en fsn som arkivet inte svarar för."""
+    cdx = {
+        FILER: FILKOPIOR,
+        (BUN, "mimetype:text/html"): SIDKOPIOR,
+        (FSN, "mimetype:text/html"): Hamtfel("anslutning"),
+    }
+    sidor = {
+        bild("20231201000000", BUN): NY_BILD,
+        bild("20221115000000", BUN): GAMMAL_BILD,
+    }
+    return Klient(cdx, sidor)
+
+
 class TestArkivetsUpptackt(unittest.TestCase):
     def setUp(self):
-        self.kalla = replace(
-            las(FIXTURER / "exempelby.toml").kallor[0], arkiv="wayback"
-        )
-        self.cdx = {
-            FILER: FILKOPIOR,
-            (BUN, "mimetype:text/html"): SIDKOPIOR,
-            (FSN, "mimetype:text/html"): Hamtfel("anslutning"),
-        }
-        self.sidor = {
-            bild("20231201000000", BUN): NY_BILD,
-            bild("20221115000000", BUN): GAMMAL_BILD,
-        }
+        self.kalla = replace(las(FIXTURER / "exempelby.toml").kallor[0], wayback=True)
+        self.klient = arkivet()
+        self.cdx, self.sidor = self.klient.cdx, self.klient.sidor
 
     def upptack(self):
-        return upptack(self.kalla, Klient(self.cdx, self.sidor))
+        return upptack(self.kalla, self.klient)
 
     def test_nyaste_versionen_och_storsta_kopian(self):
         kandidater, _, _ = self.upptack()
@@ -133,3 +138,8 @@ class TestArkivetsUpptackt(unittest.TestCase):
             self.upptack(),
             ([], [], ["arkivets lista för exempelby.se/download/: tidsgrans"]),
         )
+
+    def test_en_motessida_utan_kopior_noteras(self):
+        self.cdx[(FSN, "mimetype:text/html")] = []
+        _, _, noteringar = self.upptack()
+        self.assertEqual(noteringar, [f"{FSN}: ingen kopia av mötessidan i arkivet"])

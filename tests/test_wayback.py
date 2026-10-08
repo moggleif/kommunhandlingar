@@ -14,6 +14,7 @@ from kommunhandlingar.adaptrar.wayback import (
     kapad,
     sista_per_ar,
 )
+from kommunhandlingar.fel import Hamtfel
 
 
 class Klient:
@@ -47,6 +48,18 @@ class TestCdx(unittest.TestCase):
                 "matchType": ["prefix"],
             },
         )
+
+    def test_svar_som_inte_ar_json(self):
+        with self.assertRaisesRegex(Hamtfel, "arkivets lista för k.se/a: inte-json"):
+            fraga(Klient("<html>Temporarily Offline</html>"), "k.se/a", "text/html")
+
+    def test_fel_far_fragans_adress(self):
+        class Fel:
+            def text(self, url):
+                raise Hamtfel("http-503")
+
+        with self.assertRaisesRegex(Hamtfel, "arkivets lista för k.se/a: http-503"):
+            fraga(Fel(), "k.se/a", "text/html")
 
     def test_inga_kopior(self):
         self.assertEqual(fraga(Klient("\n"), "k.se/a", "text/html"), [])

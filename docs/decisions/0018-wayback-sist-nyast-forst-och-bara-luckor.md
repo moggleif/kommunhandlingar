@@ -65,8 +65,8 @@ Det ersätter den del av ADR-0010 som gäller ny historik. Ordningen för de
 levande källorna är oförändrad. Beteendet står i K3, K13 och K16, och hur
 det är byggt i [03-ARKITEKTUR.md](../03-ARKITEKTUR.md).
 
-* **Arkivet slås på per källa.** En Sitevision-källa med `arkiv =
-  "wayback"` läses också ur de arkiverade kopiorna av sina mötessidor.
+* **Arkivet slås på per källa.** En Sitevision-källa med `wayback =
+  true` läses också ur de arkiverade kopiorna av sina mötessidor.
   Inget annat i kommunfilen upprepas: organ, mönster, rubrik och rättelser
   är källans.
 * **Ordningen.** Nattjobbet kör först upptäckt och steg 2 för de levande
@@ -78,6 +78,9 @@ det är byggt i [03-ARKITEKTUR.md](../03-ARKITEKTUR.md).
   `ej-hamtad`, till exempel `robots`, räknas som försökt och stoppar inte
   arkivet. Har den levande hämtningen tagit budgeten är den mjuka gränsen
   passerad; då frågas arkivet inte alls, och nästa natt försöker igen.
+  Nås den hårda gränsen medan arkivet upptäcks avbryts upptäckten och
+  arkivets lista blir tom, så att jobbet hinner checka in det levande
+  före Actions gräns på sex timmar.
 * **Ett avbrott i arkivet stoppar ingenting.** Arkivet frågas efter att
   det levande är hämtat. Svarar en fråga till arkivet inte, efter K10:s
   nya försök, hoppas den över och nämns i sammanfattningen, och det som
@@ -89,26 +92,31 @@ det är byggt i [03-ARKITEKTUR.md](../03-ARKITEKTUR.md).
   när dess plats har ett dokument med en annan källnyckel som inte finns i
   arkivets lista. Två filer ur arkivet på samma plats, till exempel ett
   protokoll delat i två, blir två dokument som förut (ADR-0003). Ett
-  `ej-hamtad` från den levande källan kan fyllas ur arkivet.
+  `ej-hamtad` från den levande källan kan fyllas ur arkivet; går inte
+  heller arkivets kopia att hämta står den levande källans försök kvar, så
+  att de två inte skriver om filen varannan gång.
 * **Valet av kopia.** Källnyckeln är originalets, `sitevision:<nod-id>`,
   som den levande. För varje nod-id tas den nyaste versionen, det vill
   säga den största tidsstämpeln i Sitevisions adress (K9). Bland
-  arkivets kopior av den versionen tas den största (CDX-fältet `length`),
-  och vid lika storlek den äldsta. En kapad kopia är mindre än en hel av
-  samma fil, så den största är den som bäst kan vara hel, och valet beror
-  bara på arkivets lista.
+  arkivets kopior av den versionen tas den största och vid lika den
+  äldsta. Storleken är CDX-fältet `length`, den komprimerade postens
+  längd i arkivet, som följer filens storlek. En kapad kopia är mindre än
+  en hel av samma fil, så den största är den som bäst kan vara hel, och
+  valet beror bara på arkivets lista.
 * **De arkiverade mötessidorna.** För varje mötessida läses den sista
   ögonblicksbilden från varje år. Sidan visar tre år, så den sista från
   ett år visar det året och de två före i sin slutliga form. Filerna läses
   med samma adapter som de levande sidorna (ADR-0011), och den nyaste
-  ögonblicksbilden går först när samma fil står på flera.
+  ögonblicksbilden går först när samma fil står på flera. En mötessida
+  som arkivet inte har någon kopia av nämns i sammanfattningen.
 * **Kapad kopia.** En hämtad kopia som inte har `%%EOF` bland sina sista
   1 024 byte blir `ej-hamtad` med `fel: kapad`. En kopia som har `%%EOF`
   men inte går att öppna följer K6 som alla andra filer. Kontrollen görs
   bara för arkivet.
 * **Härkomsten** är `kalla_url`, kopians adress
   `https://web.archive.org/web/<tidsstämpel>id_/<originalets adress>`, där
-  tidsstämpeln är ögonblicksbildens (ADR-0003). Inget nytt fält.
+  tidsstämpeln är den då arkivet sparade filen (ADR-0003). Inget nytt
+  fält.
 
 ### Consequences
 
@@ -127,6 +135,15 @@ det är byggt i [03-ARKITEKTUR.md](../03-ARKITEKTUR.md).
   med en fråga och omkring fem ögonblicksbilder per mötessida.
 * Dåligt, eftersom en fil som bara finns kapad i arkivet förblir
   `ej-hamtad` med `fel: kapad`. Den syns, och kan begäras ut hos kommunen.
+  Det gäller också när bara den nyaste versionen är kapad och en äldre
+  finns hel: den äldre är ersatt och tas inte i stället.
+* Dåligt, eftersom en fil som kommunen ersatt med ett nytt nod-id mellan
+  två ögonblicksbilder blir två dokument på samma plats, där det senare
+  får ett namn. Arkivets lista kan inte skilja ett utbyte från ett
+  protokoll som delats i två filer. Båda är filer som kommunen
+  publicerat, och inget skrivs över.
+* Dåligt, eftersom en fil vars levande försök är `ej-hamtad` och vars
+  kopia är kapad laddas ned på nytt varje natt, utan att något skrivs.
 * Neutralt, eftersom den största kopian kan vara en annan version än en
   mindre, om arkivet sparat två olika filer under samma adress. Sitevision
   ger en ny tidsstämpel för en ny version, så det bör inte hända där.
@@ -138,8 +155,11 @@ först; att en källnyckel i poolen och en upptagen plats inte hämtas ur
 arkivet; att den nyaste versionen och den största kopian väljs, vid lika
 den äldsta; att den sista ögonblicksbilden per år läses; att en kopia utan
 `%%EOF` blir `kapad` och en med `%%EOF` följt av några byte inte blir det;
-att en fråga som inte besvaras nämns och inte stoppar upptäckten; och att
-arkivet inte frågas efter den mjuka gränsen. Att `web.archive.org` svarar
+att en fråga som inte besvaras, ett svar som inte är JSON och en mötessida
+utan kopior nämns och inte stoppar upptäckten; att den levande källans
+försök inte skrivs om av ett misslyckat försök ur arkivet; att arkivet inte
+frågas efter den mjuka gränsen; och att den hårda gränsen ger en tom
+lista. Att `web.archive.org` svarar
 och släpper in oss prövas i Actions innan PR:en mergas.
 
 ## Pros and Cons of the Options
@@ -193,8 +213,8 @@ och släpper in oss prövas i Actions innan PR:en mergas.
    fylls år för år för alla organ samtidigt. Inom ett datum gäller K13:s
    organ och typ. Ordningen för de levande källorna ändras inte; de tar
    ungefär en natt.
-4. **Ägaren begränsade arkivet till Kungsbacka.** Det står som `arkiv =
-   "wayback"` i Kungsbackas kommunfil, inte i koden. Nattjobbet kör ändå
+4. **Ägaren begränsade arkivet till Kungsbacka.** Det står som `wayback =
+   true` i Kungsbackas kommunfil, inte i koden. Nattjobbet kör ändå
    arkivet efter de levande källorna för alla kommuner, eftersom det inte
    kostar något extra och följer kravet som det står.
 5. **Bara luckor (ägarens ja).** Agentens argument: arkivet är äldre än
@@ -202,7 +222,9 @@ och släpper in oss prövas i Actions innan PR:en mergas.
    finns, och ADR-0003 säger redan att en äldre ögonblicksbild aldrig
    ersätter en nyare version. Regeln om upptagen plats behövs för att
    ADR-0003 annars skulle göra en ersatt, äldre fil ur arkivet till en ny
-   version av det levande dokumentet på samma plats.
+   version av det levande dokumentet på samma plats. Inom arkivets egen
+   lista hjälper regeln inte: två nod-id:n på samma plats blir två
+   dokument (se Consequences).
 6. **Den största kopian (ägarens ja).** Issuet krävde att valet inte låser
    fast en kapad kopia när en hel finns. Agentens argument: en kapning tar
    bort slutet av filen, så den hela kopian är alltid den största. Att
@@ -211,7 +233,15 @@ och släpper in oss prövas i Actions innan PR:en mergas.
 7. **Den sista ögonblicksbilden per år** är agentens val, för att begränsa
    antalet sidor som läses varje natt till omkring fem per mötessida, mot
    69 kopior av sex sidor som #24 räknade.
-8. **`%%EOF` bara för arkivet.** Kapningen har bara setts i arkivet; för
+8. **Granskningen (fas 6)** hittade att upptäckten i arkivet saknade en
+   hård tidsgräns: ett segt arkiv strax före fem timmar hade kunnat ta
+   jobbet förbi Actions gräns, och då hade inget checkats in. Därför den
+   hårda gränsen också i arkivets upptäckt. Den föreslog också `wayback =
+   true` i stället för en sträng med ett enda tillåtet värde, och att en
+   mötessida utan kopior ska nämnas. Vid provet 2026-10-08 svarade
+   arkivet ibland med en HTML-sida, "Temporarily Offline", i stället för
+   CDX-listan; den räknas som en fråga som inte besvaras.
+9. **`%%EOF` bara för arkivet.** Kapningen har bara setts i arkivet; för
    de levande källorna fångar HTTP-klienten ett avbrutet svar. Kontrollen
    tillåter några byte efter `%%EOF`, som filer ofta har.
 

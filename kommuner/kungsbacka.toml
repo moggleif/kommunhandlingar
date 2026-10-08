@@ -78,7 +78,7 @@ namn = ["Kommunfullmäktige"]
 # också ur Internet Archive, för de år de inte längre visar (ADR-0018).
 [[kalla]]
 adapter = "sitevision"
-arkiv = "wayback"
+wayback = true
 manader = [
   "januari", "februari", "mars", "april", "maj", "juni",
   "juli", "augusti", "september", "oktober", "november", "december",

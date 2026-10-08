@@ -3,9 +3,10 @@ Test: tests/test_upptack.py.
 
 Steg 1: `python -m kommunhandlingar.upptack <kommunfil> <arbetskatalog>
 [--arkiv] [--start N]`. Hämtar kommunens källsidor, kör adaptern och
-skriver kandidatlistan; med `--arkiv` arkivets lista, som inte skrivs med
-några kandidater när tidsbudgetens mjuka gräns räknat från `--start` är
-passerad. `hamtning.toml` läses från repot som kommunfilen ligger i.
+skriver kandidatlistan; med `--arkiv` arkivets lista, som blir tom när
+tidsbudgetens mjuka gräns räknat från `--start` är passerad, eller när den
+hårda nås under upptäckten. `hamtning.toml` läses från repot som
+kommunfilen ligger i.
 """
 
 import argparse
@@ -22,6 +23,7 @@ from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
 from kommunhandlingar.kandidat import Avvisad, Kandidat, lista, ordna, ordna_bakat
+from kommunhandlingar.tidsbudget import Tidsgrans
 
 
 def upptack(
@@ -38,17 +40,33 @@ def upptack(
 
 
 def upptack_arkiv(
+    kommun: konfiguration.Kommun, klient, start: datetime | None
+) -> tuple[list[Kandidat], list[Avvisad], list[str]]:
+    """Arkivet frågas inte efter den mjuka gränsen och avbryts vid den hårda."""
+    if datetime.now(UTC) >= tidsbudget.mjuk_grans(start):
+        return [], [], ["väntar på nästa körning; tidsbudgeten är slut"]
+    if start:
+        tidsbudget.starta_hard_grans(start, datetime.now(UTC))
+    try:
+        return las_arkivet(kommun, klient)
+    except Tidsgrans:
+        return [], [], ["avbrutet vid tidsbudgetens hårda gräns"]
+    finally:
+        tidsbudget.stoppa()
+
+
+def las_arkivet(
     kommun: konfiguration.Kommun, klient
 ) -> tuple[list[Kandidat], list[Avvisad], list[str]]:
     kandidater: list[Kandidat] = []
     avvisade: list[Avvisad] = []
-    obesvarade: list[str] = []
+    noteringar: list[str] = []
     for kalla in kommun.kallor:
-        if kalla.arkiv:
-            nya, bort, utan_svar = sitevision_arkiv.upptack(kalla, klient)
+        if kalla.wayback:
+            nya, bort, noterat = sitevision_arkiv.upptack(kalla, klient)
             kandidater, avvisade = kandidater + nya, avvisade + bort
-            obesvarade += utan_svar
-    return ordna_bakat(kandidater, [o.id for o in kommun.organ]), avvisade, obesvarade
+            noteringar += noterat
+    return ordna_bakat(kandidater, [o.id for o in kommun.organ]), avvisade, noteringar
 
 
 def sida(klient, adress: str) -> str:
@@ -64,12 +82,16 @@ def skriv(kandidater: list[Kandidat], fil: Path) -> None:
 
 
 def sammanfattning(
-    kommun: konfiguration.Kommun, kandidater: list[Kandidat], avvisade: list[Avvisad]
+    kommun: konfiguration.Kommun,
+    kandidater: list[Kandidat],
+    avvisade: list[Avvisad],
+    noteringar: tuple[str, ...] | list[str] = (),
 ) -> str:
     antal = Counter(k.organ for k in kandidater)
     rader = [f"{len(kandidater)} kandidater, {len(avvisade)} filer utan kandidat"]
     rader += [f"  {o.id}: {antal[o.id]}" for o in kommun.organ]
     rader += [f"Ingen kandidat: {a.filnamn} ({a.orsak}) på {a.kalla}" for a in avvisade]
+    rader += [f"Arkivet: {notering}" for notering in noteringar]
     return "\n".join(rader)
 
 
@@ -84,20 +106,13 @@ def main(arg: argparse.Namespace) -> None:
     katalog = utanfor_repot(arg.arbetskatalog, rot)
     kommun = konfiguration.las(arg.kommunfil)
     klient = Klient(installningar.las(rot / "hamtning.toml"))
-    katalog.mkdir(parents=True, exist_ok=True)
-    fil = lista(katalog, kommun.id, arg.arkiv)
-    if arg.arkiv and datetime.now(UTC) >= tidsbudget.mjuk_grans(arg.start):
-        skriv([], fil)
-        print("Arkivet väntar på nästa körning: tidsbudgeten är slut.")
-        return
-    obesvarade: list[str] = []
     if arg.arkiv:
-        kandidater, avvisade, obesvarade = upptack_arkiv(kommun, klient)
+        kandidater, avvisade, noteringar = upptack_arkiv(kommun, klient, arg.start)
     else:
-        kandidater, avvisade = upptack(kommun, klient)
-    skriv(kandidater, fil)
-    print(sammanfattning(kommun, kandidater, avvisade))
-    print("".join(f"Arkivet svarade inte: {fraga}\n" for fraga in obesvarade), end="")
+        (kandidater, avvisade), noteringar = upptack(kommun, klient), []
+    katalog.mkdir(parents=True, exist_ok=True)
+    skriv(kandidater, lista(katalog, kommun.id, arg.arkiv))
+    print(sammanfattning(kommun, kandidater, avvisade, noteringar))
 
 
 def argument() -> argparse.Namespace:

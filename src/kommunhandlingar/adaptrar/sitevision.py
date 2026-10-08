@@ -9,8 +9,7 @@ from kommunhandlingar.adaptrar.sitevision_html import Forekomst, forekomster
 from kommunhandlingar.fel import IngenKandidat, Konfigurationsfel
 from kommunhandlingar.kandidat import Avvisad, Kandidat
 
-FALT = {"adapter", "monster", "manader", "sidor", "rubrik", "rattelser", "arkiv"}
-ARKIV = ("wayback",)
+FALT = {"adapter", "monster", "manader", "sidor", "rubrik", "rattelser", "wayback"}
 MONSTERGRUPPER = {"ar", "manad", "dag", "typ"}
 
 
@@ -21,7 +20,7 @@ class Kalla:
     monster: tuple[monster.Monster, ...]
     manader: tuple[str, ...]
     rattelser: dict[str, date]
-    arkiv: str | None = None
+    wayback: bool
 
 
 def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
@@ -36,7 +35,7 @@ def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
         ),
         monster.manader(post, var),
         rattelser(schema.valfritt(post, "rattelser", dict, var) or {}, var),
-        arkiv(post, var),
+        schema.valfritt(post, "wayback", bool, var) or False,
     )
 
 
@@ -59,13 +58,6 @@ def rattelser(tabell: dict, var: str) -> dict[str, date]:
         if not nyckel.startswith("sitevision:") or not schema.ar_av_slag(datum, date):
             raise Konfigurationsfel(f"{var}: rättelsen för {nyckel!r}")
     return tabell
-
-
-def arkiv(post: dict, var: str) -> str | None:
-    namn = schema.valfritt(post, "arkiv", str, var)
-    if namn is not None and namn not in ARKIV:
-        raise Konfigurationsfel(f"{var}: okänt arkiv {namn!r}")
-    return namn
 
 
 def upptack(

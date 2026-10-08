@@ -187,8 +187,9 @@ eller protokollet.
 Kontrollerat 2026-10-08 med Internet Archives CDX-tjänst
 (`https://web.archive.org/cdx/search/cdx`), körd från GitHub Actions
 ([#24](https://github.com/moggleif/kommunhandlingar/issues/24)). Molnmiljön
-som AI-agenten arbetar i når inte `web.archive.org` (anslutningen bryts);
-Actions gör det, både CDX-listorna och hela kopior.
+som AI-agenten arbetar i nådde inte `web.archive.org` 2026-10-08 på
+dagen (anslutningen bröts), men gjorde det ibland samma kväll; Actions
+når både CDX-listorna och hela kopior.
 
 Webbplatsen har haft tre generationer. Dokumenten från de två
 Episerver-generationerna och Sitevisions år 2021–2023 hittas inte från den
@@ -325,6 +326,11 @@ plattformarna låg parallellt en tid.
   `fel: kapad`
   ([ADR-0018](../decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)).
 - Några kopior är sparade som 404-sidor (`text/html`) och räknas inte.
+- CDX-fältet `length` är den komprimerade postens längd i arkivet, inte
+  filens. Tre av 7 137 filrader hade 2026-10-08 ett negativt värde och
+  rangordnas därför som minst.
+- CDX svarar ibland med en HTML-sida, "Internet Archive: Temporarily
+  Offline", i stället för listan.
 - Hela kopian hämtas med `https://web.archive.org/web/<tidsstämpel>id_/<adress>`;
   `id_` ger filen som den var, utan Waybacks ram.
 - `archive.org` svarade 429 på upprepade anrop; `web.archive.org` bröt

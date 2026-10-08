@@ -13,6 +13,7 @@ from pathlib import Path
 
 from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 from kommunhandlingar.konfiguration import las
+from kommunhandlingar.tidsbudget import Tidsgrans
 from kommunhandlingar.upptack import (
     main,
     sammanfattning,
@@ -21,9 +22,9 @@ from kommunhandlingar.upptack import (
     upptack_arkiv,
     utanfor_repot,
 )
-from tests import test_sitevision_arkiv as arkivet
 from tests.test_konfiguration import FIXTURER, ROT
 from tests.test_sitevision import lank, sida
+from tests.test_sitevision_arkiv import arkivet
 
 
 class Klient:
@@ -90,22 +91,34 @@ class TestUpptack(unittest.TestCase):
 
 class TestArkivet(unittest.TestCase):
     def setUp(self):
-        self.kommun = las(FIXTURER / "exempelby.toml")
+        exempelby = las(FIXTURER / "exempelby.toml")
+        self.utan_arkiv = exempelby
+        kalla = replace(exempelby.kallor[0], wayback=True)
+        self.kommun = replace(exempelby, kallor=(kalla,))
 
     def test_utan_arkiv_i_konfigurationen_fragas_inget(self):
-        self.assertEqual(upptack_arkiv(self.kommun, Klient({})), ([], [], []))
+        self.assertEqual(upptack_arkiv(self.utan_arkiv, Klient({}), None), ([], [], []))
 
     def test_arkivets_lista_nyast_forst(self):
-        kalla = replace(self.kommun.kallor[0], arkiv="wayback")
-        kommun = replace(self.kommun, kallor=(kalla,))
-        fall = arkivet.TestArkivetsUpptackt()
-        fall.setUp()
-        klient = arkivet.Klient(fall.cdx, fall.sidor)
-        kandidater, _, obesvarade = upptack_arkiv(kommun, klient)
+        kandidater, _, noteringar = upptack_arkiv(self.kommun, arkivet(), None)
         self.assertEqual(
             [str(k.datum) for k in kandidater], ["2022-05-03", "2022-05-02"]
         )
-        self.assertEqual(len(obesvarade), 1)
+        self.assertEqual(
+            noteringar, ["arkivets lista för https://exempelby.se/fsn: anslutning"]
+        )
+
+    def test_noteringarna_star_i_sammanfattningen(self):
+        text = sammanfattning(self.kommun, [], [], ["https://a: anslutning"])
+        self.assertIn("\nArkivet: https://a: anslutning", text)
+
+    def test_den_harda_gransen_ger_en_tom_lista(self):
+        class Avbryter:
+            def text(self, url):
+                raise Tidsgrans
+
+        resultat = upptack_arkiv(self.kommun, Avbryter(), datetime.now(UTC))
+        self.assertEqual(resultat, ([], [], ["avbrutet vid tidsbudgetens hårda gräns"]))
 
     def test_arkivet_fragas_inte_efter_den_mjuka_gransen(self):
         with tempfile.TemporaryDirectory() as katalog:
@@ -119,4 +132,7 @@ class TestArkivet(unittest.TestCase):
                 main(arg)
             lista = Path(katalog) / "kungsbacka.arkiv.kandidater.json"
             self.assertEqual(json.loads(lista.read_text("utf-8")), [])
-        self.assertIn("Arkivet väntar på nästa körning", utskrift.getvalue())
+        self.assertIn(
+            "Arkivet: väntar på nästa körning; tidsbudgeten är slut",
+            utskrift.getvalue(),
+        )

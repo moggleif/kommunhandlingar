@@ -43,9 +43,11 @@ class TestArkivet(unittest.TestCase):
         )
         return [behandla(steg, k) for k in kandidater]
 
+    def md(self, namn: str = "protokoll") -> Path:
+        return self.data / "exempelby/ks/2025/2025-04-22" / f"{namn}.md"
+
     def falt(self, namn: str = "protokoll") -> dict[str, str]:
-        md = self.data / "exempelby/ks/2025/2025-04-22" / f"{namn}.md"
-        return frontmatter.las(md.read_text(encoding="utf-8"))
+        return frontmatter.las(self.md(namn).read_text(encoding="utf-8"))
 
     def test_ett_dokument_i_poolen_andras_inte(self):
         self.klient.filer |= {"u1": "begransad.pdf", "w1": "sidor.pdf"}
@@ -86,9 +88,17 @@ class TestArkivet(unittest.TestCase):
 
     def test_kapningen_provas_bara_for_arkivet(self):
         self.klient.filer["u1"] = "kapad:begransad.pdf"
-        self.assertNotEqual(
-            self.kor(kandidat("s:1", "u1"), arkiv=False), ["ej hämtad (kapad)"]
+        self.assertEqual(self.kor(kandidat("s:1", "u1"), arkiv=False), ["konverterad"])
+
+    def test_den_levande_kallans_forsok_skrivs_inte_om(self):
+        self.klient.filer |= {"u1": "fel:robots", "w1": "kapad:begransad.pdf"}
+        self.kor(kandidat("s:1", "u1"), arkiv=False)
+        fore = self.md().read_text()
+        self.assertEqual(
+            self.kor(kandidat("s:1", "w1")),
+            ["ej hämtad (kapad), den levande källans försök orört"],
         )
+        self.assertEqual(self.md().read_text(), fore)
 
 
 if __name__ == "__main__":

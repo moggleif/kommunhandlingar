@@ -67,8 +67,8 @@ python3 -m kommunhandlingar.upptack kommuner/kungsbacka.toml /tmp/kommunhandling
 ```
 
 Arkivets lista (K16, ADR-0018) tas fram med `--arkiv` och hämtas med
-samma flagga till steg 2. `web.archive.org` nås inte från alla miljöer, men
-från GitHub Actions:
+samma flagga till steg 2. `web.archive.org` svarar inte alltid och nås inte
+från alla miljöer; från GitHub Actions gör den det:
 
 ```sh
 python3 -m kommunhandlingar.upptack kommuner/kungsbacka.toml /tmp/kommunhandlingar --arkiv
