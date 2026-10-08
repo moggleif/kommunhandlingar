@@ -12,7 +12,7 @@ from dataclasses import replace
 from urllib.parse import urlsplit
 
 from kommunhandlingar.adaptrar import sitevision, wayback
-from kommunhandlingar.adaptrar.sitevision_html import NEDLADDNING
+from kommunhandlingar.adaptrar.sitevision_html import NEDLADDNING, forekomster
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.kandidat import Avvisad, Kandidat
 
@@ -69,9 +69,13 @@ def ogonblicksbilder(klient, sidadress: str) -> tuple[list[tuple[str, str]], lis
     bilder, fel = [], []
     for adress in map(wayback.adress, wayback.sista_per_ar(kopior)):
         try:
-            bilder.append((adress, klient.text(adress)))
+            html = klient.text(adress)
+            forekomster(html, adress)  # en kapad sida går inte att läsa
+            bilder.append((adress, html))
         except Hamtfel as hamtfel:
             fel.append(f"{adress}: {hamtfel.orsak}")
+        except ValueError:
+            fel.append(f"{adress}: sidan går inte att läsa")
     return bilder, fel
 
 

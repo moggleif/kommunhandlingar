@@ -85,7 +85,7 @@ def sammanfattning(
     kommun: konfiguration.Kommun,
     kandidater: list[Kandidat],
     avvisade: list[Avvisad],
-    noteringar: tuple[str, ...] | list[str] = (),
+    noteringar: list[str],
 ) -> str:
     antal = Counter(k.organ for k in kandidater)
     rader = [f"{len(kandidater)} kandidater, {len(avvisade)} filer utan kandidat"]
@@ -109,7 +109,8 @@ def main(arg: argparse.Namespace) -> None:
     if arg.arkiv:
         kandidater, avvisade, noteringar = upptack_arkiv(kommun, klient, arg.start)
     else:
-        (kandidater, avvisade), noteringar = upptack(kommun, klient), []
+        kandidater, avvisade = upptack(kommun, klient)
+        noteringar = []
     katalog.mkdir(parents=True, exist_ok=True)
     skriv(kandidater, lista(katalog, kommun.id, arg.arkiv))
     print(sammanfattning(kommun, kandidater, avvisade, noteringar))

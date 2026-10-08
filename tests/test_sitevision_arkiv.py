@@ -143,3 +143,13 @@ class TestArkivetsUpptackt(unittest.TestCase):
         self.cdx[(FSN, "mimetype:text/html")] = []
         _, _, noteringar = self.upptack()
         self.assertEqual(noteringar, [f"{FSN}: ingen kopia av mötessidan i arkivet"])
+
+    def test_en_kapad_ogonblicksbild_noteras(self):
+        self.sidor[bild("20221115000000", BUN)] = (
+            '<script>AppRegistry.registerInitialState(\'12.1\',{"files":[{"id"'
+        )
+        kandidater, _, noteringar = self.upptack()
+        self.assertEqual(len(kandidater), 2)
+        self.assertIn(
+            f"{bild('20221115000000', BUN)}: sidan går inte att läsa", noteringar
+        )

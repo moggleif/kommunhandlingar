@@ -88,9 +88,11 @@ det är byggt i [03-ARKITEKTUR.md](../03-ARKITEKTUR.md).
   bara för arkivet. En fil som inte går att hämta blir `ej-hamtad` (K6)
   och prövas igen nästa natt.
 * **Arkivet fyller bara luckor.** En kandidat ur arkivet hämtas inte när
-  dess källnyckel redan finns i poolen och inte är `ej-hamtad`, och inte
-  när dess plats har ett dokument med en annan källnyckel som inte finns i
-  arkivets lista. Två filer ur arkivet på samma plats, till exempel ett
+  dess källnyckel redan finns i poolen och inte är `ej-hamtad`, inte när
+  dess plats har ett dokument från en levande källa, och inte när platsens
+  dokument ur arkivet har en källnyckel som inte finns i arkivets lista.
+  Ett dokument kommer ur arkivet när dess `kalla_url` är en kopia i
+  arkivet. Två filer ur arkivet på samma plats, till exempel ett
   protokoll delat i två, blir två dokument som förut (ADR-0003). Ett
   `ej-hamtad` från den levande källan kan fyllas ur arkivet; går inte
   heller arkivets kopia att hämta står den levande källans försök kvar, så
@@ -139,9 +141,12 @@ det är byggt i [03-ARKITEKTUR.md](../03-ARKITEKTUR.md).
   finns hel: den äldre är ersatt och tas inte i stället.
 * Dåligt, eftersom en fil som kommunen ersatt med ett nytt nod-id mellan
   två ögonblicksbilder blir två dokument på samma plats, där det senare
-  får ett namn. Arkivets lista kan inte skilja ett utbyte från ett
+  får ett namn, när ingen av dem finns på den levande sidan. Arkivets lista kan inte skilja ett utbyte från ett
   protokoll som delats i två filer. Båda är filer som kommunen
   publicerat, och inget skrivs över.
+* Dåligt, eftersom ett protokoll som delats i två filer, där den levande
+  sidan bara har den ena, inte får den andra ur arkivet: platsen har ett
+  levande dokument.
 * Dåligt, eftersom en fil vars levande försök är `ej-hamtad` och vars
   kopia är kapad laddas ned på nytt varje natt, utan att något skrivs.
 * Neutralt, eftersom den största kopian kan vara en annan version än en
@@ -222,9 +227,11 @@ och släpper in oss prövas i Actions innan PR:en mergas.
    finns, och ADR-0003 säger redan att en äldre ögonblicksbild aldrig
    ersätter en nyare version. Regeln om upptagen plats behövs för att
    ADR-0003 annars skulle göra en ersatt, äldre fil ur arkivet till en ny
-   version av det levande dokumentet på samma plats. Inom arkivets egen
-   lista hjälper regeln inte: två nod-id:n på samma plats blir två
-   dokument (se Consequences).
+   version av det levande dokumentet på samma plats. Det andra
+   granskningsvarvet visade att regeln måste gälla varje plats med ett
+   levande dokument, eftersom arkivets lista också har de levande filernas
+   nod-id:n från ögonblicksbilderna 2024–2026. Inom arkivets egna dokument
+   blir två nod-id:n på samma plats två dokument (se Consequences).
 6. **Den största kopian (ägarens ja).** Issuet krävde att valet inte låser
    fast en kapad kopia när en hel finns. Agentens argument: en kapning tar
    bort slutet av filen, så den hela kopian är alltid den största. Att

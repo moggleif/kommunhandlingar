@@ -400,18 +400,20 @@ upptäckten avbryts den, och listan blir tom.
 - **Noteringar.** En fråga som inte besvaras efter klientens nya försök,
   eller som ger något annat än JSON (arkivet svarar ibland med en
   HTML-sida, "Temporarily Offline"), och en mötessida som arkivet inte har
-  någon kopia av, hoppas över och står i sammanfattningen efter
+  någon kopia av eller en ögonblicksbild som inte går att läsa, hoppas
+  över och står i sammanfattningen efter
   "Arkivet:". Utan fillistan blir det inga kandidater alls.
 
 `python -m kommunhandlingar.hamta … --arkiv` läser arkivets lista, och
 steg 2 gör som för de levande källorna med två skillnader:
 
 - **Bara luckor.** En kandidat vars källnyckel finns i poolen utan
-  `ej-hamtad`, eller vars plats har ett dokument vars källnyckel inte
-  finns i arkivets lista, hämtas inte ("finns redan; arkivet fyller bara
+  `ej-hamtad`, vars plats har ett dokument från en levande källa, eller
+  vars plats har ett dokument ur arkivet (`kalla_url` på
+  `https://web.archive.org/web/`) vars källnyckel inte finns i arkivets
+  lista, hämtas inte ("finns redan; arkivet fyller bara
   luckor"). Ett `ej-hamtad` med samma källnyckel fylls; misslyckas också
-  arkivets försök står det första kvar orört, när det gällde en annan
-  adress.
+  arkivets försök står den levande källans försök kvar orört.
 - **Kapade kopior.** En hämtad kopia utan `%%EOF` bland de sista 1 024
   byten blir `ej-hamtad` med `fel: kapad`.
 

@@ -54,7 +54,7 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
     else:
         dokument = Dokument(kandidat, sokvag, steg.pool.efter_sokvag[sokvag])
     gammal = dokument.befintlig
-    if steg.arkiv and ingen_lucka(sokvag, gammal):
+    if steg.arkiv and ingen_lucka(steg, kandidat, sokvag, gammal):
         return "finns redan; arkivet fyller bara luckor"
     if sokvag and gammal["kalla_url"] == kandidat.url and hel(gammal):
         return "oförändrad"
@@ -74,17 +74,30 @@ def hel(falt: dict[str, str]) -> bool:
     return falt["kvalitet"] != "ej-hamtad"
 
 
-def ingen_lucka(sokvag: PurePosixPath | None, gammal: dict[str, str] | None) -> bool:
-    """Källnyckeln har ett fullständigt dokument, eller platsen har ett med en
-    källnyckel som inte står i listan (då gav `placera` ett befintligt utan sökväg)."""
-    return gammal is not None and (sokvag is None or hel(gammal))
+def ingen_lucka(steg: Steg2, kandidat: Kandidat, sokvag, gammal) -> bool:
+    """Arkivet tar inte en källnyckel med ett fullständigt dokument, en plats
+    med ett dokument från en levande källa, eller en plats vars dokument ur
+    arkivet har en källnyckel som inte står i listan (`placera` ger det)."""
+    if sokvag is not None:
+        return hel(gammal)
+    upptagen = steg.pool.efter_sokvag.get(grundplats(kandidat).sokvag(steg.kommun))
+    levande = upptagen is not None and not wayback.ar_kopia(upptagen["kalla_url"])
+    return levande or gammal is not None
+
+
+def grundplats(kandidat: Kandidat) -> Plats:
+    plats = Plats(kandidat.organ, kandidat.datum, kandidat.typ)
+    if kandidat.typ == "bilaga":
+        return replace(plats, namn=filnamnet(kandidat) or "2")
+    return plats
+
+
+def filnamnet(kandidat: Kandidat) -> str:
+    return namn_av(kandidat.filnamn.removesuffix(".pdf").removesuffix(".PDF"))
 
 
 def placera(steg: Steg2, kandidat: Kandidat) -> Dokument:
-    namn = namn_av(kandidat.filnamn.removesuffix(".pdf").removesuffix(".PDF"))
-    plats = Plats(kandidat.organ, kandidat.datum, kandidat.typ)
-    if kandidat.typ == "bilaga":
-        plats = replace(plats, namn=namn or "2")
+    plats = grundplats(kandidat)
     sokvag = plats.sokvag(steg.kommun)
     upptagen = steg.pool.efter_sokvag.get(sokvag)
     if upptagen is None:
@@ -97,7 +110,7 @@ def placera(steg: Steg2, kandidat: Kandidat) -> Dokument:
             replace(plats, namn=forslag).sokvag(steg.kommun) in steg.pool.efter_sokvag
         )
 
-    plats = replace(plats, namn=ledigt_namn(namn, finns))
+    plats = replace(plats, namn=ledigt_namn(filnamnet(kandidat), finns))
     return Dokument(kandidat, plats.sokvag(steg.kommun), None, plats.namn)
 
 
@@ -108,7 +121,7 @@ def misslyckad(steg: Steg2, dokument: Dokument, orsak: str, hamtad: datetime) ->
     adress = dokument.kandidat.url
     if gammal and (gammal["fel"], gammal["kalla_url"]) == (orsak, adress):
         return f"ej hämtad ({orsak}), oförändrad"
-    if steg.arkiv and gammal and gammal["kalla_url"] != adress:
+    if steg.arkiv and gammal and not wayback.ar_kopia(gammal["kalla_url"]):
         # Annars skriver den levande källan och arkivet om filen varannan gång.
         return f"ej hämtad ({orsak}), den levande källans försök orört"
     falt = grundfalt(steg, dokument) | {

@@ -384,8 +384,9 @@ kunna läggas till utan kodändring.
 - **Givet** en mötessida som arkivet inte har någon kopia av
 - **När** arkivet upptäcks
 - **Så** nämns den i sammanfattningen.
-- **Givet** en källnyckel som finns i poolen utan kvalitet `ej-hamtad`, eller
-  en plats som har ett dokument med en källnyckel som inte finns i arkivets
+- **Givet** en källnyckel som finns i poolen utan kvalitet `ej-hamtad`, en
+  plats som har ett dokument från en levande källa, eller en plats vars
+  dokument ur arkivet har en källnyckel som inte finns i arkivets
   kandidatlista
 - **När** en kandidat ur arkivet för den källnyckeln eller platsen tas
 - **Så** hämtas den inte, och dokumentet i poolen lämnas orört.

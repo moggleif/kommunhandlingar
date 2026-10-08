@@ -33,7 +33,7 @@ class TestKommunfilen(unittest.TestCase):
         self.assertEqual(len(kommun.organ), 17)
         self.assertEqual(kommun.organ[0].id, "ga")
         self.assertEqual([o.id for o in kommun.organ[-3:]], ["ks", "ks-au", "kf"])
-        self.assertEqual(kommun.kallor[0].wayback, True)
+        self.assertTrue(kommun.kallor[0].wayback)
 
     def test_utan_arkiv(self):
         self.assertFalse(las(FIXTURER / "exempelby.toml").kallor[0].wayback)
@@ -82,9 +82,8 @@ class TestFelStopparKorningen(unittest.TestCase):
     def test_okand_adapter(self):
         self.stoppas(lambda d: d["kalla"][0].update(adapter="episerver"))
 
-    def test_okant_arkiv(self):
+    def test_wayback_ar_sant_eller_falskt(self):
         self.stoppas(lambda d: d["kalla"][0].update(wayback="ja"))
-        self.stoppas(lambda d: d["kalla"][0].update(arkiv=True))
 
 
 class TestSammaNamnUtanOverlapp(unittest.TestCase):

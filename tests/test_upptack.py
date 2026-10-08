@@ -55,7 +55,7 @@ class TestUpptack(unittest.TestCase):
         )
         kandidater, avvisade = upptack(self.kommun, klient)
         self.assertEqual([k.kallnyckel[-2:] for k in kandidater], ["b2", "b1", "f1"])
-        text = sammanfattning(self.kommun, kandidater, avvisade)
+        text = sammanfattning(self.kommun, kandidater, avvisade, [])
         self.assertIn("3 kandidater, 1 filer utan kandidat", text)
         self.assertIn("  bun: 2", text)
         self.assertIn("Budget 2022.pdf (inget mönster matchar)", text)
