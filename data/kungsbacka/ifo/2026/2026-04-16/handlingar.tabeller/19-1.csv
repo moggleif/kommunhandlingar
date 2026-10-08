@@ -1,0 +1,27 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Processgrupp: Verksamhetsnära ledning,,,,
+Process:,Hantera styrda dokument,,,,
+Processnummer:,6.0.2.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+,Styrdokument,"Verksamhetsstyrning
+IF",Digital,Se anmärkning,"Avser kopior på styrdokument och kan förvaras i
+Verksamhetsstyrning förutsatt att man uppdaterar
+vid revidering. Original bevaras i Ciceron enligt
+ledningsprocess 1.2.1.3. Till styrdokument räknas t
+ex. delegeringsförteckning, reglemente, policy,
+riktlinje, regel, strategi och plan."
+,"Stödjande
+dokument","Verksamhetsstyrning
+IF",Digital,"Bevaras/uppdateras
+fortlöpande","Avser rådgivande/stödjande dokument som t.ex.
+handbok, instruktion, beskrivning och rutin."
+,"Redovisande
+dokument","Verksamhetsstyrning
+IF",Digital,Se anmärkning,"Avser redovisande dokument som t.ex. protokoll,
+presentation, rapport och ska bevaras. Kopior av
+samverkansprotokoll kan förvaras i
+Verksamhetsstyrning och tas bort när det inte
+längre behövs för verksamheten. Original av
+samverkansprotokoll bevaras i Ciceron enligt
+stödprocess 2.3.1.1."

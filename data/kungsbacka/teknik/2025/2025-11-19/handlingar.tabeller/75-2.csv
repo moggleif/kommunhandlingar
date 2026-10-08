@@ -1,0 +1,9 @@
+50-Kemikaliehantering – Järnklorid,,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Antal kemikalitankar järnklorid,2,2,st
+Volym per tank,30,30,m³
+Total volym järnklorid,60,60,m³
+"Antal pumpar (CAS, mellansed, 2st HFR)",4,4,
+Kapacitet per pump: HFR,160,160,l/h
+Kapacitet per pump: CAS och mellansed,,,l/h

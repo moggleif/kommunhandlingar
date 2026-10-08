@@ -1,0 +1,119 @@
+4.1.10,2024-06-18,"Systemet ska – i tillämpliga delar av de Centrala
+Verksamhetsprocesserna – vara konfigurerat i enlighet med de
+vid var tid styrande regler som följer nedanstående
+regelsamlingar","Av regelsamlingen, gymnasieförordning - följer att huvudmannen ska skriva
+in elever på program som är registrerade på Skolverkets skolenhetsregister.
+Av Krav 2.5.1 framgår att regelsamlingen ska tillämpas för alla
+administrativa processer.","När jag som administratör skriver in en
+elev manuellt under pågående termin
+blir eleven inskriven av systemet på
+byggprogrammet på skolenhet 1 trots
+att detta program inte är registrerat på
+Skolverkets skolenhetsregister för
+denna skolenhet. Detta misstag kan
+uppstå eftersom Systemet föreslår alla
+program för skolan. Systemet uppfyller
+inte kravet på att tillämpa
+regelsamlingen i detta fall eftersom vi
+som huvudman inte kunnat koppla
+program till skolenheter.","Gotit lägger till möjlighet att koppla program till
+skolenhet. När man registrerar en elev på
+skolenhet så kommer program som ej finns på
+skolenheten inte accepteras i registreringen. När
+eleven placerats på program och i klass ska
+eleven med automatik tilldelas de grupper som är
+kopplade till klassen under förutsättning att det
+inte finns fler än en, varvid manuell hantering ska
+ske. Man kommer fortfarande kunna spara eleven
+utan skolenhet på program då detta är ett annat
+krav från Kungsbacka att kunna registrera elev
+utan bestämd skolenhet.","Elevadministrat
+ion",
+2.5.10,2024-06-18,"Som gymnasieadministratör vill jag att elev ska kunna tilldelas
+enhet, skolform, klass, årskurs, program, inriktning,
+undervisningsgrupper och individuell studieplan. Detta för att
+kunna dokumentera elevens utbildning.","Systemet ska tilldela eleven de grupper som de med automatik tillhör när
+eleven tilldelats enhet, skolform, program, inriktning och klass. När en elev
+som går i en klass ska läsa en kurs aktuell termin enligt den individuella
+studieplanen så ska systemet med automatik placera eleven i den
+undervisningsgruppen om det inte finns flera undervisningsgrupper att välja
+på. Exempelvis eleven läser Engelska 5 och går i klass SA20A. Eleven
+placeras i undervisningsgruppen ENGENG05-SA20A.","När jag som administratör skriver in en
+elev i Systemet ska Systemet placera
+eleven automatiskt i
+undervisningsgrupper för kurser som
+finns i den individuella studieplanen.
+Systemet uppfyller inte kravet på att
+tillämpa regelsamlingen i detta fall
+eftersom Systemet inte placerar
+automatiskt eleven i
+undervisningsgrupp utan
+administratören måste hantera det
+manuellt. Kravet är därmed inte","Regelsamling 2.5.1 & 2.5.38 Gotit kompletterar
+bilaga i krav 2.5.1 Systemet tilldelar eleven de
+grupper som är kopplade till elevens klass. Finns
+de fler än en grupp i samma kurs/tillfälle så
+hanteras kopplingen manuellt.",Automatisk,"Se punkt 3
+under krav
+2.5.1"
+2.5.02,2024-06-18,"Som gymnasieadministratör vill jag kunna registrera läsårstider
+och start- och sluttider för läsåret för att kunna rapportera till
+CSN på korrekt sätt och för att organisering av skolan knyts till
+läsåret.","Av regelsamlingen framgår att den lokala poängplanen innebär att kurserna
+planeras för årskurs och termin för programmets startår. Av Krav 2.5.1
+framgår att regelsamlingen ska tillämpas för alla administrativa processer","uppfyllt.
+Som gymnasieadministratör behöver
+Systemet vara master gällande data
+för läsårstider så att jag därefter kan
+manuellt rapportera in dem varje år till
+CSN på ett korrekt sätt. Det är inte
+möjligt att ange start- och sluttid för
+hösttermin och vårtermin.",,Termin,Se 2.5.1
+2.5.06,2024-06-18,"Som gymnasieadministratör vill jag kunna göra ändringar i
+poängplaner som systemet har skapat, för att effektivisera mitt
+arbete.","Av ordlistan framgår att en poängplanen ska omfatta skolans beslutade
+struktur och planering av hur kurser ska fördelas över årskurser och
+terminer. Bygger på Skolverkets programstruktur. Av regelsamlingen
+framgår att den lokala poängplanen innebär att kurserna planeras för
+årskurs och termin för programmets startår. Exempelvis så kan poäng-
+planen för Teknikprogrammet skilja sig åt om eleven startar 2019 eller 2020
+och därmed i vilken ordningen, kursutbud eller vilken årskurs/termin eleven
+läser en kurs. Av Krav 2.5.1 framgår att regelsamlingen ska tillämpas för alla
+administrativa processer.","När jag som administratör ändrar i
+poängplanen att en kurs ska läsas på
+vårterminen i stället för höstterminen
+saknas möjlighet att ange termin som
+kurs ska läsas. Systemet uppfyller inte
+kravet på att tillämpa ordlista och
+regelsamlingen i detta fall eftersom det
+inte går att ange vilken termin kursen
+ska läsas i poängplanen.",,Termin,Se 2.5.1
+4.1.42,2024-06-18,"Systemet ska innehålla timplaner, programstrukturer och
+kurser från Skolverket.","Av ordlistan framgår att en poängplanen ska omfatta skolans beslutade
+struktur och planering av hur kurser ska fördelas över årskurser och
+terminer. Bygger på Skolverkets programstruktur. Av regelsamlingen
+framgår att den lokala poängplanen innebär att kurserna planeras för
+årskurs och termin för programmets startår. Exempelvis så kan
+poängplanen för Teknikprogrammet skilja sig åt om eleven startar 2019 eller
+2020 och därmed i vilken ordning, kursutbud eller vilken årskurs/termin
+eleven läser en kurs. Av Krav 2.5.1 framgår att regelsamlingen ska tillämpas
+för alla administrativa processer.","När jag som administratör planerar när
+kurserna ska läsas för respektive
+program/inriktning/årskurs/startår har
+jag behov att ange vilken/vilka
+terminer kursen ska läsas. Detta för att
+en kurs kan läsas på en eller flera
+terminer. Systemet uppfyller inte
+kravet såsom det definieras med
+ledning av ordlistan. Systemet
+uppfyller inte heller kravet att tillämpa
+regelsamlingen. I detta fall går det inte
+att ange vilken termin kursen ska läsas
+i poängplanen.","Kopplingen termin i studieplansmallen ska få
+genomslag i automatskapa grupp och därmed rätt
+start- och slutdatum för gruppen. Ex. 150p kurs
+som går över hela åk.1 och ht åk.1 får datum
+230817–250117 Ska vara synligt med termin i
+elevens individuella studieplan KBA måste kunna
+ange start- och slutdatum för termin för respektive
+läsår som ska få genomslag i hela systemet.",Terminer,Se 2.5.1

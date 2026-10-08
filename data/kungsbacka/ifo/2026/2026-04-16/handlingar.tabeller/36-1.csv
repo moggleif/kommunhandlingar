@@ -1,0 +1,37 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för barn och ungdomar,,,,
+Process:,"Utreda enskilt hem, familjehem eller jourhem",,,,
+Processnummer:,6.3.1.2,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn
+bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Hantera ansökningar,"Ansökan om att bli
+familjehem, inte
+aktuella",Combine,Digital,5 år/Bevaras,"Ansökan inkommer via telefon. Registreras i
+verksamhetssystem endast när registerutdrag
+inkommit till myndigheten."
+,"Ansökan om att bli
+familjehem,
+aktuella",Combine,Digital,5 år/Bevaras,"Ansökan inkommer via telefon. Registreras i
+verksamhetssystem endast när registerutdrag
+inkommit till myndigheten."
+,Resursregistret,Combine,Digital,Se anmärkning,Uppdateras fortlöpande
+,Journalanteckningar,Combine,Digital,5 år/Bevaras,
+Utreda hem,"Utredning av
+familjehem,
+jourhem,
+kontaktfamilj,
+kontaktperson",Combine,Digital,5 år/Bevaras,"Inklusive registerutdrag och intyg. En kopia av den
+sammanställda familjehemsutredningen förvaras i
+det placerade barnets akt."
+,"Registerutdrag, som
+utgör underlag för
+beslut",Combine,Digital,5 år/Bevaras,
+,"Registerutdrag, som
+ej utgör underlag
+för beslut.",,,"Gallras när det inte
+längre behövs för
+utredningen.",
+Besluta,Medgivandebeslut,Combine,Digital,5 år/Bevaras,

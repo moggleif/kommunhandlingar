@@ -1,0 +1,31 @@
+2.2.14,,"Försäljning av material.
+Över ett prisbasbelopp.
+Upp till ett prisbasbelopp.","FC
+Bitr. FC
+VC Fastighet
+EC Fordon
+Bitr. FC
+VC
+EC Fastighet",Återrapporteras 1 gång per år.
+2.2.15,,"Hantera externa hyresavtal avseende lokaler mellan
+kommun och hyresvärd med upp till 4 års avtalstid
+och en årshyra upp till 30 basbelopp exklusive
+mervärdesskatt.","FC
+Bitr. FC
+VC Fastighet
+EC Fastighet admin",
+2.2.16,,"Hantera uppsägning av externa hyresavtal för
+villkorsändring avseende lokaler mellan kommun
+och hyresvärd.","FC
+Bitr. FC
+VC Fastighet
+EC Fastighet admin
+Administrativ förvaltare",
+"2.2.17
+NY",,"Hantera hyresavtal avseende lokaler mellan
+kommun och extern hyresgäst med upp till 4 års
+avtalstid och en årshyra upp till 30 basbelopp
+exklusive mervärdesskatt","FC
+Bitr. FC
+VC Fastighet
+EC Fastighet admin",

@@ -1,0 +1,11 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Verksamhetsnära ledning,,,,
+Process:,Hantera loggar,,,,
+Processnummer:,6.0.3.6,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Utreda,Loggar,Ciceron,Digital,10 år,"Avser loggar av åtkomst till verksamhetssystemet
+Combine. Om uppgifter i loggar leder till utredning
+eller åtgärd, ska loggarna bevaras tillsammans med
+det ärende som skapas."
+Utreda,Loggningskontrollrapporter,Ciceron,Digital,2 år,

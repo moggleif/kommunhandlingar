@@ -1,0 +1,20 @@
+20-Quattro Denipho,,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Bioreaktorer,1,1,st
+Diameter,40,40,m
+Processvolym (exkl ssh),7 200,7 200,m³
+Vätskedjup,6,6,m
+SS koncentration,"2,5–4,7","2,5–4,7",Kg SS/m³
+"Returslampumpning, årsmedel",80,80,"% av inkommande
+flöde till QD"
+"Blåsmaskiner, antal (tre nya en äldre i reserv)",4,4,st
+"Luftflöde per maskin (vid 0,8 bar)",1770,1770,Nm3/h
+"Inkommande BOD7, mängd",1396,1794,kg/d
+"Inkommande N, mängd",422,490,kg/d
+"Inkommande P, mängd",51,65,kg/d
+"Inkommande SS, mängd",1278,1666,kg/d
+Utgående BOD7-halt*,6,"7,5",mg/l
+Utgående N-halt*,"3,9","6,9",mg/l
+Utgående P-halt*,"0,4","0,4",mg/l
+Utgående SS-halt*,10,12,mg/l

@@ -1,0 +1,109 @@
+Krav-ID,Release,Kravtext,Hänvisning,Användarbeskrivning,Justering 230825,Kategori,Övrigt
+2.5.01,2024-06-18,"Som gymnasieadministratör vill jag att systemet tillämpar
+Regler Gymnasiet i alla administrativa processer som finns i
+systemet","Av ordlistan framgår att en poängplanen ska omfatta skolans beslutade
+struktur och planering av hur kurser ska fördelas över årskurser och
+terminer. Bygger på Skolverkets programstruktur. Av regelsamlingen
+framgår att den lokala poängplanen innebär att kurserna planeras för
+årskurs och termin för programmets startår. Exempelvis så kan
+poängplanen för Teknikprogrammet skilja sig åt om eleven startar 2019 eller
+2020 och därmed i vilken ordning, kursutbud eller vilken årskurs/termin
+eleven läser en kurs. Av Krav 2.5.1 framgår att regelsamlingen ska tillämpas
+för alla administrativa processer.","När jag som administratör ändrar i
+poängplanen att en kurs ska läsas på
+vårterminen i stället för höstterminen
+saknas möjlighet att ange vilken termin
+som kurs ska läsas på. Systemet
+uppfyller inte kravet på att tillämpa
+ordlista och regelsamlingen i detta fall
+eftersom det inte går att ange vilken
+termin kursen ska läsas i
+poängplanen. Avser även krav: 2.5.2;
+2.5.6; 2.5.10; 2.5.26; 4.1.42; 4.1.10;
+5.3.1; 5.3.13","1. Kopplingen termin i studieplansmallen ska få
+genomslag i automatskapa grupp och därmed rätt
+start- och slutdatum för gruppen. Ex. 150p kurs
+som går över hela åk.1 och ht åk.1 får ex. datum
+230817–250117. Ska vara synligt med termin i
+elevens individuella studieplan. Kommunen måste
+kunna ange start- och slutdatum för termin för
+respektive läsår som ska få genomslag i hela
+systemet. Gotit lägger till möjlighet att koppla
+program till skolenhet. När man registrerar en elev
+på skolenhet så kommer program som ej finns på
+skolenheten inte accepteras i registreringen. När
+eleven placerats på program och i klass ska
+eleven med automatik tilldelas de grupper som är
+kopplade till klassen under förutsättning att det
+inte finns fler än en, varvid manuell hantering ska
+ske. Man kommer fortfarande kunna spara eleven
+utan skolenhet på program då detta är ett annat
+krav från Kommunen att kunna registrera elev
+utan bestämd skolenhet. Gotit ser till så att man
+kan justera frånvarotiden för en elev både för höst","Elevadministrat
+ion, Termin,
+Gruppkoppling",
+,,,,,"och vårterminen på ett läsår oavsett datum vid
+utskrift. Som admin vill jag att det ska gå att
+registrera kurser terminsvis på
+studieplansmallarna och på så sätt få en mer
+detaljerad vy över elevernas studieplaner. Detta
+ska få genomslag i automatskapa grupp så att
+grupper hamnar på rätt terminer automatiskt och
+får korrekt start och slutdatum. Detta ska vara
+synligt på elevens studieplan. När man anger start-
+och slutdatum på termin ska det få genomslag på
+dessa punkter i systemet.",,
+2.5.07,2024-06-18,"Som gymnasieadministratör vill jag kunna granska och ändra
+systemets förslag till undervisningsgrupper innan de sparas.
+Detta för att all information om nästa läsårs
+undervisningsgrupper inte finns i systemet vid tillfället när
+undervisningsgrupperna skapas.","Av Ordlistan framgår att: Undervisningsgrupp: En organisatorisk del där en
+samling elever undervisas gemensamt i ett ämne eller kurs. Grupp: Alla
+typer av grupper som förekommer i undervisningsverksamhet. Exempelvis
+mentorsgrupp, lunchtid osv. Av Regelsamlingen framgår det att Systemet
+ska automatiskt kunna skapa undervisningsgrupper utifrån poängplan och
+klass. Utifrån poängplan ser man vilka kurser som eleven ska läsa under
+terminen. Då skapas en undervisningsgrupp för varje klass som har den här
+kursen. Exempel Utifrån poängplanen för samhällsprogrammet läser alla
+elever Engelska 5 under HT/VT i årkurs 1. Då ska en undervisningsgrupp
+skapas för varje klass i årskurs 1 med den namnstandard som är föreskriven
+i designrestriktionerna","När jag som gymnasieadministratör vill
+granska och ändra Systemets förslag
+till undervisningsgrupper kan jag inte
+göra de ändringar som krävs för att
+undervisningsgrupperna ska bli
+korrekta. En ändring av
+undervisningsgrupp innebär
+exempelvis; antal
+undervisningsgrupper, namn,
+tidsperiod, typ av grupp. Systemet
+automatskapar inte
+undervisningsgrupperna utifrån klass
+och poängplan utan det krävs
+manuella administrativa steg för att
+skapa rätt undervisningsgrupp. För att
+uppnå kravresultat krävs att Systemet
+automatiskt skapar
+undervisningsgrupper utifrån
+poängplan och klass. Samt att
+gymnasieadministratören kan göra de
+ändringar som krävs för att skapa
+korrekta undervisningsgrupper.","Gotit gör nödvändiga tillägg av funktionalitet i
+funktionen Automatskapa grupp för att möta
+önskemålen. 1. Möjlighet att koppla klasser i
+gruppgenerering. 2. Möjlighet att välja de klasser
+man vill autoskapa för, exempelvis SA23a – e. 3.
+Funktionen ska då skapa relevanta grupper tex
+ENG5-SA23a – e 4. Möjlighet att skapa alla
+grupptyper som man har i kommunen genom att
+man väljer om grupptypen ska vara tillgänglig i
+Automatskapa grupp. 5. Möjlighet att lägga in
+egna rader (se grundskolans funktion) 6. Lägga
+till en radera-funktion per rad i Automatskapa
+grupp. 7. Lägga till en checkruta där man enkelt
+kan ange vilken termin som gruppen ska vara
+aktiv. Förtydligande: Finns de 5 st klasser i åk.1
+på SA-programmet så ska de skapas ex. 5 st
+grupper för kursen engelska 5. En för vardera
+klassen.",Grupper,

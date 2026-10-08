@@ -1,0 +1,26 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för barn och ungdomar,,,,
+Process:,Tillhandahålla påföljd; ungdomstjänst eller samhällstjänst,,,,
+Processnummer:,6.3.1.7,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn
+bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Aktualisera,"Dom från
+tingsrätten",Combine,Digital,5 år/Bevaras,
+,"Yttrande till
+domstol gällande
+påföljd",Combine,Digital,5 år/Bevaras,
+,Journalanteckningar,Combine,Digital,5 år/Bevaras,
+Genomföra uppdrag,"Register över
+arbetsplatser",,Digital,"Uppdateras
+kontinuerligt",
+,"Korrespondens med
+arbetsplatser",Combine,Digital,5 år/Bevaras,
+Följa upp,"Rapport från
+arbetsplats",Combine,Digital,5 år/Bevaras,
+,"Återkoppling till
+åklagare",Combine,Digital,5 år/Bevaras,
+Avsluta,"Beslut om att
+avsluta insatsen",Combine,Digital,5 år/Bevaras,

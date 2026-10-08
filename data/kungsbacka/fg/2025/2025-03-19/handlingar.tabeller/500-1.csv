@@ -1,0 +1,33 @@
+Processgrupp:,,,,,
+Process:,,,,,
+Processnummer:,5.1.4.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Administrera
+skolskjuts",Regler kring skolskjuts,Ciceron,Digitalt,Bevaras,
+,"Incidentrapporter i
+samband med skolskjuts",Ciceron,Digitalt,Bevaras,
+,"Lista över alla skolskjuts-
+beslut som är beslutade
+enligt delegations-
+förteckningen",Ciceron,Digitalt,Bevaras,
+,Skolskjutsansökan,Sokigo,Digitalt,Vid inaktualitet,
+"Hantera beviljade
+ansökningar om
+skolskjuts","Beslut, beviljat",Sokigo,Digitalt,Vid inaktualitet,
+,"Tillstånd/planering från
+skolskjutsleverantör","Pärm i skolans
+närarkiv",Papper,1 år,
+,Kvittens av skolkort,"Pärm i skolans
+närarkiv",Papper,Vid läsårets slut,
+"Hantera avslagna
+ansökningar om
+skolskjuts",Beslut,Sokigo,Digitalt,Bevaras,"Avser avslagsbeslut eller beslut där ansökan delvis
+har godkänts. I beslutet finns även
+ansökningsuppgifterna.
+Om beslutet överklagas diarieförs det även i Ciceron."
+,"Korrespondens med
+berörda",Ciceron,Digitalt,Se anm.,"Korrespondens av betydelse bevaras. Korrespondens
+av tillfällig karaktär gallras vid inakualitet."
+,"Överklagan av beslut om
+skolskjuts",Ciceron,Digitalt,Bevaras,"Avslagsbeslutet För hantering av överklagan, se
+separat kommunövergripande process 1.4.4.1"
