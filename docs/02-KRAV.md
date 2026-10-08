@@ -349,7 +349,10 @@ kunna läggas till utan kodändring.
 - **Givet** en tolkad CSV med ett tal som inte står i sidans text, eller
   siffror som inte är ett helt tal och inte står ordagrant i sidans
   text, eller på en sida som inte står i `tolkade`; eller en sida i
-  `tolkade` utan precis en tolkning, en tolkning på en sida som inte
-  står där, eller ett tolkat dokument där en sida står två gånger
+  `tolkade` utan precis en tolkning med modell och datum, en tolkning
+  på en sida som inte står där, eller ett tolkat dokument där en sida
+  står två gånger; eller `tolkade` som inte är sidor ur `figurer`, i
+  ordning, `figurer` med en sida som inte finns, eller det ena av dem
+  `null` men inte det andra
 - **När** datakontrollen körs
 - **Så** faller den.

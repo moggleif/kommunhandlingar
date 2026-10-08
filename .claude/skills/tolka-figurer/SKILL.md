@@ -33,7 +33,9 @@ Formatet står i `docs/03-ARKITEKTUR.md#tolkade-figurer`. Läs det först.
    - **Ingen figur:** `Ingen figur.`
 5. Lägg sidans nummer i `tolkade`, i nummerordning.
 6. Radera bilderna. Kör `python -m kommunhandlingar.datakontroll data`
-   och rätta det som faller.
+   och rätta det som faller. Faller ett tal som står i sidans text, för
+   att det läses ihop med ett tal bredvid, skriv en beskrivning i
+   stället för en tolkad CSV.
 7. Committa bara filer under `data/` och öppna en PR. Den når `main` som
    all annan ändring.
 

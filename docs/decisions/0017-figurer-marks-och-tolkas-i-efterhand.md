@@ -96,7 +96,7 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
   hämtas igen (ADR-0004); dess sidor står kvar i arbetslistan men går
   inte att rendera förrän dokumentet konverteras om.
 * Dåligt, eftersom tal som står med ett enda mellanslag emellan, som en
-  axel `0 100 200`, läses ihop som tusental, och då inte går att ta med
+  axel `0 100 200` eller värden som `90 130`, läses ihop som tusental, och då inte går att ta med
   för sig.
 * Neutralt, eftersom talen i en tolkad CSV på en sida som lästs med OCR
   stäms av mot OCR-texten, och därför är lika obekräftade som den.
@@ -115,9 +115,12 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
 * Datakontrollen prövas med en tolkad CSV vars tal står i sidans text,
   ett tal som bara står i tolkningen, siffror som inte är ett helt tal,
   en etikett som står ordagrant, en sida som inte står i `tolkade`, en
-  tolkad sida utan tolkning eller med två, en sida som står två gånger,
-  `figurer` och `tolkade` som inte är `null` samtidigt, och en lucka i
-  numren (`tests/test_datakontroll_tolkning.py`).
+  tolkad sida utan tolkning, med två eller utan modell och datum, en
+  sida som står två gånger, `tolkade` utanför `figurer`, en sida i
+  `figurer` som inte finns, `figurer` och `tolkade` som inte är `null`
+  samtidigt, och en lucka i numren
+  (`tests/test_datakontroll_tolkning.py`). En ny konvertering tar bort
+  de tolkade CSV:erna (`tests/test_figurer.py`).
 
 ## Pros and Cons of the Options
 
@@ -191,6 +194,9 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
    ett tal, som `5–3` ur `2,5–3,5`, och att `figurer` kunde ha sidor som
    inte finns. Den ordagranna cellen har nu samma gränser som talen, och
    talen tas inte ur ord som `K15` eller ur ett spann som `1 250–1 300`.
+   Det fjärde varvet visade samma fel vid tusentalsmellanrummet
+   (`250–300` ur `1 250–300`) och vid snedstreck (`23` ur `2022/23`), och
+   att tolkningens modell och datum inte prövades. Nu prövas alla tre.
 4. **Omprövas** när arbetslistan har prövats några omgångar, om en
    rutin ska ta över, eller om falsklarmen från tabeller kostar för
    mycket.

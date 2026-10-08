@@ -14,15 +14,18 @@ from pathlib import Path
 from kommunhandlingar import frontmatter
 
 TOLKNING = "<!-- tolkning:"
+MARKERING = re.compile(r"<!-- tolkning: [^,\n]+, \d{4}-\d{2}-\d{2} -->")
 SIDA = re.compile(r"<!-- sida (\d+) -->")
 LANK = re.compile(r"\[[^\]]*\]\([^)]*\)")
 SIFFRA = re.compile(r"\d")
 # Ett helt tal, med tusentalsmellanrum: `120` står inte i `1 120` eller
-# `1 250–1 120`, och inget tal står i `13.30`, `2025-10-08` eller `K15`.
-FORE = r"(?<![\w,.:])(?<!\w[-−–])" + "".join(
-    rf"(?<!\d[-−–]\d{{{n}}}[ \xa0])" for n in (1, 2, 3)
+# `1 250–1 120`, och inget tal står i `13.30`, `2025-10-08`, `2022/23`
+# eller `K15`.
+FORE = (
+    r"(?<![\w,.:/])(?<!\w[-−–])"
+    r"(?<!\d[-−–]\d[ \xa0])(?<!\d[-−–]\d\d[ \xa0])(?<!\d[-−–]\d\d\d[ \xa0])"
 )
-EFTER = r"(?![.,:−–-]?\d)(?!\w)"
+EFTER = r"(?![.,:/−–-]?\d)(?!\w)"
 TALEN = re.compile(
     rf"{FORE}[-−–]?(?>\d{{1,3}}(?:[ \xa0]\d{{3}})+|\d+)(?:,\d+)?(?: ?%)?{EFTER}"
 )
@@ -48,9 +51,11 @@ def dokumentfel(falt: dict[str, str], text: str) -> list[str]:
 
 def antalfel(nr: str, sida: str, tolkade: list[str]) -> list[str]:
     antal, ska = sida.count(TOLKNING), 1 if nr in tolkade else 0
-    return (
-        [f"sidan {nr} har {antal} tolkningar men ska ha {ska}"] if antal != ska else []
-    )
+    if antal != ska:
+        return [f"sidan {nr} har {antal} tolkningar men ska ha {ska}"]
+    if len(MARKERING.findall(sida)) != antal:
+        return [f"sidan {nr} har en tolkning utan modell och datum"]
+    return []
 
 
 def sidorna(md: str) -> dict[str, str]:
@@ -84,5 +89,8 @@ def talfel(fil: Path, md: Path, sida: int) -> list[str]:
 
 
 def ordagrant(cell: str, text: str) -> bool:
-    """Cellen står som den är i sidans text, som etiketten `65–79 år`."""
-    return re.search(rf"{FORE}{re.escape(cell)}{EFTER}", text) is not None
+    """Cellen står som den är i sidans text, som etiketten `65–79 år`, och
+    är ingen del av ett tal med tusentalsmellanrum."""
+    fore = FORE + (r"(?<!\d[ \xa0])" if cell[:1].isdigit() else "")
+    efter = EFTER + (r"(?![ \xa0]\d)" if cell[-1:].isdigit() else "")
+    return re.search(fore + re.escape(cell) + efter, text) is not None

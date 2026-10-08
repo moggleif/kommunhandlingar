@@ -76,6 +76,13 @@ class TestTolkning(Pool):
         fel = f"{DOKUMENT}: figurer har sidor som inte finns i dokumentet"
         self.assertEqual(self.fel(), [fel])
 
+    def test_tolkning_utan_modell_och_datum(self):
+        self.tolka("År,Besök\n2023,120\n")
+        md = self.md.read_text(encoding="utf-8")
+        self.md.write_text(md.replace("modell, 2026-10-08", "x"), encoding="utf-8")
+        fel = f"{DOKUMENT}: sidan 17 har en tolkning utan modell och datum"
+        self.assertEqual(self.fel(), [fel])
+
     def test_tolkade_utanfor_figurer(self):
         self.andra(DOKUMENT, tolkade="[3]")
         fel = f"{DOKUMENT}: tolkade är inte sidor ur figurer, i ordning"
@@ -108,9 +115,12 @@ class TestSidansTal(unittest.TestCase):
         self.assertFalse(ordagrant("5–79", "Åldrar 65–79 år"))
         self.assertFalse(ordagrant("5–3", "ökning 2,5–3,5 procent"))
         self.assertFalse(ordagrant("65–79", "65–79,5"))
+        for del_ in ("250–1 300", "1 250–1"):
+            self.assertFalse(ordagrant(del_, "spannet 1 250–1 300 kr"))
+        self.assertFalse(ordagrant("250–300", "ökning 1 250–300"))
 
     def test_inga_delar_av_tal_eller_ord(self):
-        text = "covid-19, ADR-0017, K15, bilaga 3a och spannet 1 250–1 300"
+        text = "covid-19, ADR-0017, K15, 3a, 2022/23 och spannet 1 250–1 300"
         self.assertEqual(TALEN.findall(text), [])
 
 
