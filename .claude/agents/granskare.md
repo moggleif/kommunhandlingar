@@ -27,7 +27,7 @@ Argumentera mot ändringen ur vart och ett av dessa sex perspektiv:
   strikt" i `AGENTS.md`. Peka ut varje abstraktion med bara ett
   användningsfall, varje oanvänd parameter eller gren, varje skydd mot ett
   tillstånd som inte kan uppstå, varje kommentar som återberättar koden och
-  varje funktion eller fil över gränserna. Föreslå vad som kan strykas.
+  varje funktion eller fil över målet utan skäl. Föreslå vad som kan strykas.
 
 Kontrollera dessutom, oavsett perspektiv, regeln **Inga personnamn** i
 `AGENTS.md`: i alla filer på grenen, i commit-meddelandena

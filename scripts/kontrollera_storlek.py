@@ -16,7 +16,7 @@ def brott_i_fil(fil: Path) -> list[str]:
     text = fil.read_text(encoding="utf-8")
     rader = text.split("\n")
     fynd = []
-    if text.count("\n") > MAX_RADER_FIL and not UNDANTAG.search(rader[0]):
+    if text.count("\n") > MAX_RADER_FIL:
         fynd.append(f"{fil}: över {MAX_RADER_FIL} rader")
     for nod in ast.walk(ast.parse(text)):
         if not isinstance(nod, ast.FunctionDef | ast.AsyncFunctionDef):
