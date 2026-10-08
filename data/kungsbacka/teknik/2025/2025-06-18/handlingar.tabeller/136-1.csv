@@ -1,0 +1,30 @@
+Verksamhetstyp:,Samhällsbyggnad,,,,
+Verksamhetsområde:,Hantera tekniska frågor,,,,
+Processgrupp:,Avfall och återvinning,,,,
+Process:,Hantera avfallsabonnemang,,,,
+Processnummer:,8.2.2.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera
+avfallstjänster och
+sophämtning",Interndebiteringsunderlag,EDP Future,Digitalt,Vid inaktualitet,
+,Informationsbrev,EDP Future,Digitalt,Vid inaktualitet,Information av ringa karaktär gallras direkt.
+,"Anmälan om nytt
+abonnemang",EDP Future,Digitalt,Se anm.,"Gallras när kunden flyttar från fastigheten och
+abonnemanget upphör."
+,"Anmälan om flytt eller
+ägarbyte",EDP Future,Digitalt,Se anm.,"Gallras när kunden flyttar från fastigheten och
+abonnemanget upphör."
+,"Överenskommelse om
+hämtningsplats",EDP Future,Digitalt,Se anm.,Gallras när överenskommelsen upphör.
+,"Beslut om anvisad
+hämtningsplats",Ciceron,Digitalt,Bevaras,Inklusive underlag.
+,"Ansökan om tillfälligt
+uppehåll i sophämtning
+eller slamtömning",EDP Future,Digitalt,Se anm.,Gallras när kunden flyttar från fastigheten.
+,"Beslut om tillfälligt
+uppehåll i sophämtning
+eller slamtömning",EDP Future,Digitalt,Se anm.,Gallras när kunden flyttar från fastigheten.
+,"Ansökan om tillstånd att
+använda eller
+återkallande av
+gemensamt avfallskärl",EDP Future,Digitalt,Se anm.,Gallras när kunden flyttar från fastigheten.

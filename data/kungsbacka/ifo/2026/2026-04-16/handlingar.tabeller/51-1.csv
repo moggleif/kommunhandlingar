@@ -1,0 +1,34 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för vuxna,,,,
+Process:,Utreda kontaktperson för vuxna,,,,
+Processnummer:,6.4.1.4,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn
+bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Aktualisera,"Ansökan om att bli
+kontaktperson, icke
+aktuella",Combine,Papper,5 år/Bevaras,"Ansökan inkommer via telefon. Registreras i
+verksamhetssystem endast när registerutdrag
+inkommit till myndigheten."
+,"Ansökan om att bli
+kontaktperson,
+aktuell",Combine,Digital,5 år/Bevaras,"Ansökan inkommer via telefon. Registreras i
+verksamhetssystem endast när registerutdrag
+inkommit till myndigheten."
+,Journalanteckningar,Combine,Digital,5 år/Bevaras,
+Utreda och besluta,Utredning,Combine,Digital,5 år/Bevaras,
+,"Registerutdrag, som
+utgör underlag för
+beslut",Combine,Digital,5 år/Bevaras,
+,"Registerutdrag, som
+ej utgör underlag
+för beslut",,,"Gallras när det inte
+längre behövs för
+utredningen.",
+,Beslut,Combine,Digital,5 år/Bevaras,
+Genomföra,"Blankett för
+ekonomiuträkning",Combine,Digital,5 år/Bevaras,
+Följa upp och avsluta,Mötesanteckningar,Combine,Digital,5 år/Bevaras,
+,Avslut i ärende,Combine,Digital,5 år/Bevaras,

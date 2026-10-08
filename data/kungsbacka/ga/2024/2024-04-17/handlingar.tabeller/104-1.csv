@@ -1,0 +1,21 @@
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Anmäla,Anmälan från personal om Lex Sarah,DF Respons,Digitalt,Bevaras,
+,"Anmälan till Inspektionen för vård och
+omsorg",Ciceron,Digitalt,Bevaras,
+Utreda,"Utredning av enhetschef (eller utsedd
+utredare)",DF Respons,Digitalt,Bevaras,
+,Utredning av SAS,Ciceron,Digitalt,Bevaras,"Avser utredning med eventuella
+bilagor."
+Beslut,Beslut från utredning,Ciceron,Digitalt,Bevaras,"Avser beslut från SAS utredning med
+eventuella åtgärder samt beslut om
+anmälan till IVO."
+,"Beslut från Inspektionen för vård och
+omsorg",Ciceron,Digitalt,Bevaras,
+"6.1.2.3 Process: Hantera övriga anmälningar, myndighet",,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Hantera polisanmälan,Anmälan,Combine,Digitalt,Se anm.,"Polisrapport om brott/ misstanke om
+brott kan gallras vid inaktualitet, om
+den inte ligger till grund för beslut
+om insats inom socialtjänsten."
+"6.1.2.4 Process: Hantera övriga anmälningar, allmänhet",,,,,
+Beskrivning: Klagomål eller synpunkter från allmänhet.,,,,,

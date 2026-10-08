@@ -1,0 +1,26 @@
+40-Efterdenitrifikation,,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Antal reaktorer,2,2,st
+Processvolym 1 reaktor,418,418,m³
+Total volym,836,836,m³
+Djup processvolymer,"8,15","8,15",m
+Djup bassäng,9,9,m
+"HRT (Q -Q )
+medel max",31–71,25–55,min
+Fyllnadsgrad,27,33,%
+Bärarmängd,220,275,m³
+Specifik yta,600,600,m2/m3
+"Pumpar etanol , antal",2,2,st
+Dim kapacitet per pump,,,l/h
+Design T,8->13,8->13,° C
+"Dim inkommande mängd NO -N (Q -Q )
+3 medel max",170–384,220–480,kg/d
+"Dim inkommande halt NO -N
+3",10,10,mg/l
+"Utgående NO -N-halt, 8° C
+3","2,2","5,4",mg/l
+"Utgående NO -N-halt, 11° C
+3","1,8","4,6",mg/l
+"Utgående NO -N-halt, 15° C
+3","1,6","3,1",mg/l

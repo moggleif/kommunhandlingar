@@ -1,0 +1,11 @@
+43-Spolavloppspumpstation,,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Längd,"1,65","1,65",m
+Bredd,"1,5","1,5",m
+Djup,"6,96","6,96",m
+Vätskedjup,,,m
+Processvolym,,,m3
+Spolmängd,121,121,m3/h
+Antal pumpar,2,2,st
+Vald kapacitet per pump,200,200,m3/h

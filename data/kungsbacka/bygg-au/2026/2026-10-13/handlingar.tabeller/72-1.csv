@@ -1,0 +1,29 @@
+GATA,Lokalgata,"Gata inom allmän plats avsedd för både
+motorfordonstrafik och för gång- och cykeltrafik."
+GATA1,Lokalgata,"Gata med fri höjd om 2,7 meter inom allmän plats
+avsedd för både motorfordonstrafik och för gång- och
+cykeltrafik.
+Syftar till att skapa fri höjd för gångbana samt
+fordonstrafik."
+GATA2,Lokalgata,"Gata med fri höjd om 4,7 meter inom allmän plats
+avsedd för både motorfordonstrafik och för gång- och
+cykeltrafik.
+Syftar till att skapa fri höjd för fordonstrafik där Lbn
+är dimensionerande."
+GATA3,Lokalgata,"Gata med fri höjd om 6,8 meter inom allmän plats
+avsedd för gång- och cykeltrafik.
+Syftar till att skapa siktlinje under utkragande
+byggnadsdel och ett gent tvärstråk."
+PARK,Anlagd park,"Parkområde som inrymmer gång- och cykelvägar,
+planteringar, lekplatser, bollplaner, scener och kiosker
+med mera. Syftet är att skapa rekreationsytor både för
+de boende, invånare och besökare."
+VÄG,Väg,"Väg inom allmän plats avsedd för både
+motorfordonstrafik och gång- och cykel. Syftet med
+användningen är att möjliggöra för trafik till och från
+tätorten samt genom den."
+VÄG1,Väg,"Väg med fri höjd om 3,6 meter inom allmän plats
+avsedd för både motorfordonstrafik och gång- och
+cykel. Syftet med användningen är att möjliggöra för
+trafik till och från tätorten samt genom den. Syftar till
+att skapa fri höjd för gång- och cykelväg."

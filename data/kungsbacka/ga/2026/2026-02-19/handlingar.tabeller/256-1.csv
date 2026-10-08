@@ -1,0 +1,132 @@
+Krav-ID,Release,Kravtext,Hänvisning,Användarbeskrivning,Justering 230825,Kategori,Övrigt
+5.3.16,2024-11-19,"Som administratör och systemadministratör vill jag kunna ange
+start- och slutdatum för när läraren ska kunna registrera betyg
+både för hela kommunen, skolform, skolan och för enskild
+grupp. Detta för att lärare inte ska kunna registrera betyg efter
+att jag har skrivit ut betygskataloger.",,"När jag som administratör vill ange
+slut- och startdatum för när läraren ska
+kunna registrera betyg så möjliggör
+inte Systemet det. För att uppnå
+kravuppfyllnad krävs det att systemet
+möjliggör att ange start- och sluttid för
+lärare att registrera betyg, alternativt
+ställa in antal dagar efter gruppen
+slutdatum.","Gotit gör en administrations vy där man efter hand
+som användare, med rätt behörighet, kan justera
+antalet dagar efter gruppens slutdatum som lärare
+kommer åt betygsättning. Ska styras på Enhet för
+GY. Ska styras på Skolform för FG.",Betyg,
+2.5.38,2024-11-19,"Som gymnasieadministratör, elev och rektor vill jag att
+systemet med automatik arbetar utifrån Regler Gymnasiet när
+jag arbetar med val av inriktning, fördjupningspaket- och
+individuella kurser för elever på gymnasiet.","Av regelsamlingen framgår det att Val av inriktning och kurser Inom
+gymnasieskolan finns 18 nationella gymnasieprogram: sex
+högskoleförberedande program och 12 yrkesprogram, samt
+introduktionsprogram och program för gymnasiesärskolan. Varje program
+har olika inriktningar, valbara programfördjupningar och individuella valbara
+kurser. Paketeringen av kurser som är valbara för elever kan ändras varje år
+och är unikt för varje gymnasieskola och program. Systemet måste därför
+vara flexibelt och enkelt att justera. Utgångspunkten är Skolverkets program
+och programstrukturer. Utifrån dessa organiserar och beslutar rektor vilka
+kurser som eleven ska kunna välja. Det styrs av: 1. Program eleven går på;
+2. Årskurs eleven är inskriven på 3; Inriktning eleven väljer Eleven ska därför
+göra en mängd val av inriktningar, fördjupningspaket och individuella kurser.
+När eleven gör val av kurser så ska systemet säkra upp att; 4. Eleven inte
+läst kursen tidigare; 5. Eleven inte kan välja samma kurs som är gjort i
+förstahandsvalet för programfördjupningskurser och individuella val.
+Individuella val, språkval och programfördjupningar ska kunna paketeras i
+olika schemapositioner så att eleven kan välja kurser som inte
+schemamässigt krockar. Systemet ska kontrollera vid tilldelning att kursen
+inte redan är tilldelad eleven i aktuell studieplanen. Systemet ska tilldela
+eleverna den kurs och undervisningsgrupp som den har valt efter att
+administratör har godkänt tilldelningen av elever i undervisningsgruppen.
+Om det enbart finns en grupp som är kopplad till kursen eleven valt så ska
+eleven med automatik placeras i den gruppen. Om det finns flera grupper att
+välja på så ska administratören kunna göra ett manuellt val av vilka elever
+som ska tilldelas grupperna på ett så enkelt sätt som möjligt","När jag som elev ska göra mitt val av
+inriktning saknas möjligheten i
+Systemet och jag kan därför inte
+fullfölja mitt val då jag inte vet vilka
+kurser som är valbara för respektive
+valbar inriktning. Som elev på
+Samhällsprogrammet kan jag inte göra
+mitt val av språk som
+programgemensamt som jag har rätt
+till enligt Skolverkets programstruktur
+då funktionen saknas i Systemet. När
+jag som administratör kollar på
+elevens grupper saknas de grupper
+som Systemet med automatik ska
+placera eleven i enligt regelsamlingen.","1. Gotit ser till så att denna existerande
+inställning anpassas så att det inte är möjligt för
+eleven att välja samma kurskod på olika
+kurstillfällen/kurstyper (individuellt val,
+programfördjupning, programgemensamt). Gotit
+säkerställer att det går att välja kurser med
+kurstypen Programgemensamt i valutbud steg 3.
+Sen kan man koppla dem i uppsättningen av valet
+precis som övriga kurser. Gotit ger möjlighet att
+administrera inriktningsvalet från användarhåll och
+styra instruktioner på relevanta sidor i valet.
+Valadministratör kommer då behöva koppla
+elevgrupper till de inriktningarna som de ska ha i
+sitt utbud. Elever som inte omfattas av valet bir
+inte påverkade när inriktningarna inte finns. Gotit
+ser till så att kurstillfällen kan kopplas till valda
+inriktningar som tillägg på grundfunktionen där
+man väljer elevgrupper att koppla till kurstillfällen.
+Kursutbudet styrs av den inriktning som är vald av
+eleven. Om eleven byter inriktning så förändras
+utbudet i nästa steg till att stämma med den valda
+inriktningen.",Valmodul,
+2.5.39,2024-11-19,"Som gymnasieadministratör vill jag kunna definiera vilka val
+som finns för varje program, inriktning och årskurs. Detta för
+att elev ska kunna ha rätt alternativ att välja emellan.","Av Regelsamling framgår under rubriken Val av inriktning och kurser att
+utgångspunkten är Skolverkets program och programstrukturer. Utifrån den
+organiserar och beslutar rektor vilka kurser som eleven ska kunna välja. Det
+styrs av: 1. Program eleven går på; 2. Årskurs eleven är inskriven på; 3.
+Inriktning eleven väljer Eleven ska därför göra en mängd val av inriktningar,
+fördjupningspaket och individuella kurser.","När jag som administratör definierar
+vilka val som finns för varje program,
+inriktning och årskurs kan jag ange
+kurserna beroende på program
+och/eller årskurs samt om en elev har
+en inriktning. Däremot saknas funktion
+i Systemet att definiera val av kurser
+baserat på den inriktning eleven väljer.
+Systemet uppfyller inte kravet på att
+definiera val efter den inriktning eleven
+väljer.",,Valmodul,
+2.5.40,2024-11-19,"Som elev vill jag kunna ansöka om kurser för mitt
+gymnasieprogram för att jag vill kunna välja inriktning,
+fördjupningskurser och valbara kurser utifrån mitt eget intresse
+och inom skolans utbud.","Av Regelsamling framgår att varje program har olika inriktningar, valbara
+programfördjupningar och individuella valbara kurser. Paketeringen av
+kurser som är valbara för elever kan ändras varje år och är unikt för varje
+gymnasieskola och program. Systemet måste därför vara flexibelt och enkelt
+att justera. Utgångspunkten är Skolverkets program och programstrukturer.
+Utifrån dessa organiserar och beslutar rektor vilka kurser som eleven ska
+kunna välja. Det styrs av: 1. Program eleven går på; 2. Årskurs eleven är
+inskriven på; 3. Inriktning eleven väljer Eleven ska därför göra en mängd val
+av inriktningar, fördjupningspaket och individuella kurser. När eleven gör val
+av kurser så ska systemet säkra upp att; 4. Eleven inte läst kursen tidigare;
+5. Eleven inte kan välja samma kurs som är gjort i förstahandsvalet för
+programfördjupningskurser och individuella val. Individuella val, språkval och
+programfördjupningar ska kunna paketeras i olika schemapositioner så att
+eleven kan välja kurser som inte schemamässigt krockar","När jag som elev ska ansöka om
+inriktning, fördjupningskurser och
+valbara kurser har jag behov att veta
+det valbara kursutbudet för respektive
+inriktning. Detta för att jag ska
+säkerställa att jag väljer rätt. Systemet
+uppfyller inte kravet på att tillämpa
+regelsamlingen i detta fall eftersom det
+inte går att välja inriktning och därefter
+under samma val få rätt kursutbud
+presenterat för eleven.","Specificering; elev på ex. samhällsprogrammet
+har obligatoriskt att läsa 200p språk och måste
+därmed kunna välja språk som
+programgemensamt.",Valmodul,
+2.5.41,2024-11-19,"Som elev vill jag att systemet ska presentera instruktioner för
+mig hur mitt val ska genomföras. Detta för att jag enkelt ska
+förstå vilka val jag ska göra.",,,,Valmodul,

@@ -1,0 +1,28 @@
+Verksamhetstyp:,Samhällsbyggnad,,,,
+Verksamhetsområde:,Hantera tekniska frågor,,,,
+Processgrupp:,Vatten och avlopp,,,,
+Process:,Driva reningsverk,,,,
+Processnummer:,8.2.1.5,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Hantera produktion,"Ansökan om
+miljötillstånd",Ciceron,Digitalt,Bevaras,
+,"Beslut om
+miljötillstånd",Ciceron,Digitalt,Bevaras,
+,"Tillsynsprotokoll
+enligt miljötillstånd",Ciceron,Digitalt,Bevaras,
+,Driftdata,SCADA,Digitalt,Bevaras,
+,Provresultat,Samarbetsrum,Digitalt,Bevaras,"Kopia i pärm Hammargård
+avloppsreningsverk."
+,"Dokumentation
+Revaq",Samarbetsrum,Digitalt,10 år,"Dokumentation angående slamspridning finns
+även i pärm på Hammargård
+avloppsreningsverk."
+,Miljörapport,Ciceron,Digitalt,Bevaras,
+,"Rutinmässig
+korrespondens
+med
+tillsynsmyndighet",Ciceron,Digitalt,10 år,
+,"Anmälan till
+tillsynsmyndighet",Ciceron,Digitalt,10 år,
+,"Besiktnings-
+protokoll",Samarbetsrum,Digitalt,Vid inaktualitet,Gallras när besiktning är genomförd.

@@ -1,0 +1,91 @@
+Krav-ID,Release,Kravtext,Hänvisning,Användarbeskrivning,Justering 230825,Kategori,Övrigt
+2.2.28,2023-12-04,"Som ekonomiadministratör vill jag kunna skriva ut
+fakturaunderlag per betalningsmottagare från systemet för att
+jag behöver kunna posta fakturaunderlaget.","Enligt Skatteverket framgår vad ett fakturaunderlag ska innehålla. Av
+Regelsamling framgår vidare att varje enhet ska få rätt ersättning för de
+barn och elever de har placerade i respektive verksamhet. Vid beräkning av
+ekonomiunderlag till intern resursfördelning, utbetalning av bidrag till
+fristående enheter, interkommunal ersättning och andra ekonomiunderlag
+fördelas rätt belopp för varje barn och elev utifrån specifika prislistor för
+varje verksamhet, program, inriktning och kategori och för den tidsperiod
+som de olika ekonomiberäkningarna görs för. Systemet ska kunna använda
+sig av olika resursfördelningsmodeller och prislistor beroende på vilken
+verksamhet barnet/eleven är placerat i. Resursfördelningsmodellen
+beskriver vilket grundbelopp verksamheten ska erhålla för barn och elever
+som är placerade där. Prislistan är generell för GR (Kommuner inom
+Göteborgs Regionen) och uppdateras årsvis. För övriga kommuner så skiljer
+sig prislistan.","När jag som ekonomiadministratör
+skriver ut fakturaunderlaget så saknas
+information samt att informationen i
+fakturaunderlaget inte anpassas till
+utskriften och därmed inte är läsbar.
+På fakturaunderlaget saknas
+information såsom tidsperiod, typ av
+fakturaunderlag, avsändare etc.
+Systemet uppfyller inte kravet i detta
+fall eftersom fakturaunderlaget saknar
+grundläggande obligatorisk information
+samt att underlaget kräver bearbetning
+innan utskrift kan ske.","Gotit visar förslag på utseende av underlag för
+Kommunen som godkänner.",Ekonomi,
+2.3.50,2023-12-04,"Som administratör vill jag kunna placera gymnasiesärelever i
+en fritidsgrupp som enkelt ska kunna administreras och
+skickas över till andra system enligt SS12000-standard.",,"Det saknas den kravställda funktion
+genom vilken jag som administratör
+ska kunna placera gymnasiesärelever i
+en fritidsgrupp och skicka över
+resultatet till andra system efter att ha
+genomfört grundläggande
+administration.","Gotit hårdkodar en grupptyp som går med
+integrationen SS12000 till Vklass fritidshem",Integration,
+2.5.09,2023-12-04,"Som gymnasieadministratör vill jag flexibelt kunna
+återanvända tidigare års undervisningsgrupper exempelvis
+genom att kopiera. Det för att många grupper inte kan skapas
+utifrån en logisk struktur utan måste skapas manuellt. Exempel
+på det är språkgrupper.","Av Ordlistan framgår att: Undervisningsgrupp: En organisatorisk del där en
+samling elever undervisas gemensamt i ett ämne eller kurs. Grupp: Alla
+typer av grupper som förekommer i undervisningsverksamhet. Exempelvis
+mentorsgrupp, lunchtid osv. Av Regelsamlingen framgår det att det finns en
+del av gruppstrukturen som återvänds varje nytt läsår och kan inte skapas
+utifrån en logisk följd från poängplan och klass. Systemet ska kunna
+återanvända undervisningsgrupper utifrån föregående läsår.","När jag som gymnasieadministratör
+återskapar de undervisningsgrupper
+som Systemet inte med automatik kan
+skapa utifrån poängplanen behöver jag
+ange start- och slutdatum för
+undervisnings-grupperna. För att
+uppnå kravuppfyllnad krävs att
+Systemet anger nästa läsårs start- och
+slutdatum för undervisningsgrupperna.","Gotit återställer automatiseringen så att man
+kodmässigt föreslår kommande grupper med start
+och slutdatum exakt ett år fram åt från
+originalgruppens datum.",Grupper,
+4.1.15,2023-12-04,"Systemet ska innehålla en dubbelriktad integration mot Elin för
+att skicka och ta emot information om elevers skolplacering i
+Göteborgsregionen. Systemet ska skriva in elever automatiskt
+genom att använda skolplacering från Elin.","Av Ordlistan framgår att ELIN är ett Externt system. ELIN är
+Göteborgsregionens gemensamma elevinformationssystem.","Jag som ekonom kan inte verifiera att
+eleverna som framgår fakturaunderlag
+från andra kommun/skola som framgår
+av fakturaunderlaget. Detta då
+Systemet inte har skrivit in eleverna
+automatiskt i Systemet. För
+närvarande har Systemet endast
+tillhandahållit den inlästa informationen
+från ELIN och instruerat kommunen de
+tillkommande manuella administrativa
+åtgärder från ekonom att utföra som
+krävs för att uppnå det kravställda
+resultatet. Kravet är emellertid inte
+uppfyllt innan antagningsinformationen
+(som läses tillbaka från ELIN) är
+automatiskt inskriven i Systemet som
+framgår av kravet. Kravet är emellertid
+inte uppfyllt innan
+antagningsinformationen (som läses
+tillbaka från ELIN) är automatiskt
+inskriven i Systemet som framgår av
+kravet.","Gotit lägger till checkbox i vyn som gör att admin
+kan hantera flera elever samtidigt utan att växla
+vy. Dialog med kommunen och specificera lösning
+innan så Kommunen kan verifiera.",Integration,

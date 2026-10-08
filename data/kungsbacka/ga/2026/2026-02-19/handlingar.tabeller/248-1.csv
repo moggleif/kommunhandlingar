@@ -1,0 +1,67 @@
+Krav-ID,Release,Kravtext,Hänvisning,Användarbeskrivning,Justering 230825,Kategori,Övrigt
+2.2.13,2024-02-08,"Som administratör vill jag kunna ersätta en lärares tjänstgöring
+genom att byta ut samtliga lärares undervisningsgruppen och
+eller enskilda undervisningsgrupper och koppla de till en ny
+lärares tjänstgöring.","Av Ordlistan framgår att en Undervisningsgrupp är en organisatorisk del där
+en samling elever undervisas gemensamt i ett ämne eller kurs. Grupp är alla
+typer av grupper som förekommer i undervisningsverksamhet. Exempelvis
+mentorsgrupp, lunchtid osv.","När jag som administratör vill ersätta
+lärarens samtliga grupper avses alla
+grupptyper som ska finnas i Systemet.
+Detta bland annat för att administrera
+korrekt när en lärare avslutar sin tjänst
+under pågående läsår. För att kravet
+ska uppfyllas måste jag som
+administratör kunna ersätta alla
+grupptyper i en lärares tjänstgöring
+med hjälp av den kravställda
+funktionen i Systemet. Eftersom detta
+inte är möjligt är kravet inte uppfyllt.","Gotit lägger till möjligheten att koppla alla typer av
+grupper på webbsidan
+Studieadministration/Lärare/tjänstefördelning till
+den nya lärarens tjänstgöring vid byte av lärares
+tjänst. Undervisningsgrupper ersätts med alla
+grupptyper samtidigt","Elevadministrat
+ion",
+2.5.25,2024-02-08,"Som gymnasieadministratör vill jag kunna se en översiktsbild
+över elevens personuppgifter och studiegång för att det är
+information som jag ofta behöver när jag handlägger ärenden
+för en elev på skolan.",,"När jag som administratör granskar
+översiktsbilden i Systemet saknar jag
+information om när eleven bytt
+inriktning, program, klass med mera.
+För att uppnå kravuppfyllelse krävs att
+Systemet visar en översiktsbild över
+elevens studiegång, vilket omfattar
+historisk information.","Gotit gör sidan Elevhistorik tillgänglig på
+grunduppgifter via en länk som kan öppnas och
+stängas utan att växla webbsida. Förtydligande:
+Det går att göra ändringar i Popup fönstret.","Elevadministrat
+ion",
+2.5.17,2024-02-08,"Som elev vill jag ha en individuell studieplan för att jag ska
+kunna veta vilka kurser jag ska läsa för att få min
+gymnasieexamen.",,"När jag som elev vill se min
+individuella studieplan i Systemet så
+saknas information och jag vet inte
+vilka kurser som jag ska läsa. För att
+uppnå kravuppfyllnad krävs att
+Systemet visar korrekt och uppdaterad
+individuell studieplan för eleven i
+Systemet.","Det har uppstått en brist där elevernas
+studieplansmallskopplingar ignoreras på publika
+tjänsten och behöver i nuläget kopplas direkt på
+eleverna av administratör för korrekt visning. Detta
+är ej tanken med funktionen och ska åtgärdas.",Publik sida,
+2.5.24,2024-02-08,"Som gymnasieadministratör, mentor, rektor, specialpedagog
+och studievägledare vill jag att individuell studieplan ska ha
+samma layout oavsett om jag tittar på den i systemet och vid
+utskrift. Vid utskrift ska elevens studieplan och övrigas
+(gymnasieadministratör, mentor, rektor, specialpedagog och
+studievägledare) överensstämma",,"När jag som elev vill se min
+individuella studieplan i Systemet så
+saknas information och jag vet inte
+vilka kurser som jag ska läsa. För att
+uppnå kravuppfyllnad krävs att
+Systemet visar korrekt och uppdaterad
+individuell studieplan för eleven i
+Systemet.",,Publik sida,

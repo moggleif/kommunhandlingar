@@ -1,0 +1,31 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för barn och ungdomar,,,,
+Process:,"Hantera ansökan eller anmälan, utreda och fatta beslut om insatser för barn och ungdomar",,,,
+Processnummer:,6.3.1.1,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5 Socialtjänstlagen.
+Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn bevaras. Övriga handlingar
+gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Aktualisera,"Ansökningar med
+eventuella bilagor, t.ex.
+kontaktfamilj,
+kontaktperson,
+familjebehandling",Combine,Digital,5 år/Bevaras,"Pappershandling skannas in till Combine och
+gallras därefter."
+,"Begäran om överflyttning
+av ärende från annan
+kommun",Combine/Ciceron,Digital,Bevaras,Se process 6.0.1.6
+,Orosanmälningar,Combine,Digital,5 år/Bevaras,"Pappershandling skannas in till Combine och
+gallras därefter. Samtliga orosanmälningar för barn
+och ungdomar dokumenteras i personakt."
+,"Ärendeblad, journalblad,
+aktualisering",Combine,Digital,5 år/Bevaras,
+Utreda,Utredning i enskilt ärende,Combine,Digital,5 år/Bevaras,
+,Kallelser,Combine,Digital,"Gallras vid
+inaktualitet",
+,Polisrapporter,Combine,Digital,5 år/Bevaras,"Pappershandling skannas in till Combine och
+gallras därefter."
+,"Registerkontroll som utgör
+underlag för beslut",Combine,Digital,5 år/Bevaras,"Pappershandling skannas in till Combine och
+gallras därefter."

@@ -1,0 +1,11 @@
+41-Sandfiltrering,,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Typ av filter,DynaSand,DynaSand,-
+Antal sandfilter,32,32,st
+"Total filteryta, sandfilter",160,160,m²
+Hydraulisk ytbelastning vid 1600 m3/h,10,10,m/h
+Hydraulisk ytbelastning vid 2000 m3/h,"12,5","12,5",m/h
+"Inkommande P, mängd",14,16,kg/d
+"Inkommande SS, mängd",260,330,kg/d
+Utgående P-halt,"0,08","0,08",mg/l

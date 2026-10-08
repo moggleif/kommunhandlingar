@@ -1,0 +1,31 @@
+Processgrupp:,Driva förskola,,,,
+Process:,Driva förskola,,,,
+Processnummer:,5.2.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Anta och placera,"Ansökan om plats i
+förskola",IST,Digitalt,2 år efter placering,
+,Placeringsmeddelande,IST,Digitalt,Vid inaktualitet,
+,"Svar på erbjudande om
+plats",IST,Digitalt,1 år efter placering,
+,"Inkomstuppgift från
+vårdnadshavare",IST,Digitalt,7 år,
+,Kölista,IST,Digitalt,Uppdateras löpande,
+,"Ansökan om
+omplacering",IST,Digitalt,Vid inaktualitet,
+,Anmälan om uppehåll,IST,Digitalt,Vid inaktualitet,
+,"Anmälan om fortsatt
+frånvaro",IST,Digitalt,Vid inaktualitet,
+Registrera närvaro,Närvaroschema,Vklass,Digitalt,2 år,Avser barnens planerade närvarotider.
+,"Registrerad daglig
+närvaro",Vklass,Digitalt,5 år,Avser barnens faktiska närvaro.
+"Hantera
+uppsägning av
+plats",Uppsägning,IST,Digitalt,3 år,
+"Driva pedagogisk
+verksamhet","Dokumentation från
+utvecklingssamtal",Vklass,Digitalt,"Vid avslutad
+förskolegång",
+,"Dokumentation på
+individnivå",Vklass,Digitalt,"Vid avslutad
+förskolegång","Avser både ,foton, film och text som kan kopplas till
+läroplansmål."

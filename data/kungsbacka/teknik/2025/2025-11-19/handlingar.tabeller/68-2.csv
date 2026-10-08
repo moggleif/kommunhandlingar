@@ -1,0 +1,22 @@
+03-Sandfång & Sandavskiljning,,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Antal,2,2,st
+Längd,"14,5","14,5",m
+Bredd,"4,05 (3,6)","4,05 (3,6)",m
+Djup bassäng,"4,05","4,05",m
+Vätskedjup,"3,2","3,2",m
+"Processvolym, totalt (beräknad med votning)",319,319,m³
+Area totalt (yta),104,104,m²
+"Blåsmaskiner, antal",2,2,st
+Luftflöde per maskin,300,300,Nm3/h
+Uppehållstid Q-dim,19,14,min
+Uppehållstid Q-max grovrening,"3,1","2,4",min
+Ytbelastning Q-dim,"9,8","12,8",m/h
+Ytbelastning Q-max grovrening,"58,8","76,5",m/h
+"Sandtvätt, antal",2,2,st
+Sandtvätt kapacitet per maskin,20,20,l/s
+"Sandtvätt avskiljning sand >0,2 mm",95,95,%
+Sandutmatning,1,1,m3/h
+Glödförlust i avskild sand,<5,<5,%
+TS i avskild sand,>80,>80,%

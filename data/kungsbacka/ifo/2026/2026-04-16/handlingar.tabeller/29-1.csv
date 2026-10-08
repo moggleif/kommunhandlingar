@@ -1,0 +1,19 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Hantera inrapporterade händelser och anmälningar,,,,
+Process:,Hantera anmälningar enligt lex Maja,,,,
+Processnummer:,6.1.2.6,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Anmäla,"Anmälan till
+Länsstyrelsen",,,,"Under kontorstid görs anmälan till Länsstyrelsen
+och kan göras via webbformulär, genom att ringa
+eller skicka brev"
+Anmäla,"Anmälan till
+Polisen",,,,"Utanför kontorstid görs anmälan till Polisen om det
+föreligger en direkt fara för djur"
+Korrespondera,Korrespondens,Combine,Digital,5 år/Bevaras,"Om den enskilde informeras om personalens
+bedömning och att en anmälan kommer att göras till
+Länsstyrelsen ska samtalet dokumenteras i journal.
+Även åtgärder som den enskilde kommer att göra
+ska dokumenteras.
+Födda den 5:e, 15:e och 25:e i varje månad bevaras"

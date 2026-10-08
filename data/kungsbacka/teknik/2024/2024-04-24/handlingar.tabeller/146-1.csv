@@ -1,0 +1,31 @@
+Parameter,Värde,Värde,"Envidan /
+förstudie",Enhet
+År,2037,2050,2050,
+"Förtjockat slam till
+rötkammare",,,,
+Kg TS/d,6 032,7 456,7 456,Kg
+TS-halt (%),5,5,,%
+Flöde,121,149,,m³/d
+Rötkammare,,,,
+Antal,2,2,2,st
+"Volym per
+rötkammare",1 300,1 300,1 300,m³
+Total volym,2 600,2 600,2 600,m³
+Uppehållstid,"21,6","17,4","22,1",dygn
+Organisk belastning,"1,62",2,,"Kg GF/m³, d"
+"Oganiskt material /
+Glödförlust",70,70,,%
+Utrötningsgrad,50,50,,%
+Gasbildning / kg GF,95,95,,%
+Gasproduktion,2 006,2 479,,m³/d
+"Rötat slam till
+hygieniseringstankar",,,,
+Kg TS/d,3 921,4 846,,Kg TS/d
+TS-halt (%),"3,25","3,25",,%
+Flöde,121,149,,m³/d
+"Antal
+hygieniseringstankar",4,4,4,st
+Tankdiameter,"3,6","3,6","3,6",m
+Vätskedjup,10,10,10,m
+Volym per tank,100,100,100,m³
+Uppehållstid,-,-,-,-

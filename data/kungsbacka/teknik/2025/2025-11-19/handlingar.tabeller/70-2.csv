@@ -1,0 +1,22 @@
+10-Försedimentering,,,
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Antal,4,4,st
+Längd,"26,75","26,75",m
+Bredd,"4,9","4,9",m
+Vätskedjup,"3,37","3,37",m
+Bassängdjup,"3,87","3,87",m
+"Processvolym, totalt",1 767,1 767,m³
+Area totalt,524,524,m²
+Ytbelastning Q-dim (Qpdwf),"1,9","2,5",m/h
+Ytbelastning Q-max,"7,9","8,4",m/h
+Förväntad BOD-reduktion,30,30,%
+Förväntad SS-reduktion,50,50,%
+Förväntad N-reduktion,5,5,%
+Förväntad P-reduktion,15,15,%
+Primärslam,2 528,3 308,kg SS/d
+Antagen TS-halt (%),"2,25","2,25",%
+Primärslam m³/d,114,148,m³/d
+Scenario min TS-halt (%),"0,8","0,8",%
+"Primärslam, maxflöde m³/d",316,414,m³/d
+"Primärslampumpar, kapacitet per pump",20,20,m³/h
