@@ -41,3 +41,9 @@ Repot byggs inte vidare; följande kopieras in och anpassas:
 
 Politik-repot kan i sin tur senare läsa ur poolen i stället för att hämta
 nämndhandlingar själv.
+
+## Licens
+
+[MIT](LICENSE) gäller koden. Texten och tabellerna i `data/` återger
+kommunernas allmänna handlingar och får ingen egen licens här. Bilagor kan
+innehålla verk av andra än kommunen, och där finns upphovsrätten kvar.

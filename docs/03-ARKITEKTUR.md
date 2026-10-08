@@ -169,7 +169,8 @@ src/kommunhandlingar/
   fel.py           konfigurationsfel och "ingen kandidat"
   monster.py       mönstren: typ och datum ur en text
   kandidat.py      kandidaten och ordningen (K13)
-  adaptrar/        en modul per plattform (sitevision, wayback, ciceron, …);
+  adaptrar/        en modul per publiceringsplattform (sitevision, ciceron, …)
+                   eller arkiv (wayback);
                    sitevision_html.py läser mötessidan, sitevision.py tolkar den
   upptack.py       steg 1: hämtar källsidorna och skriver kandidatlistan
   hamtning/        artig HTTP-klient: robots.txt, intervall och nya försök

@@ -9,6 +9,7 @@ Regler för det här repot, utöver MADR:
 
 - Ett beslut som är svårt att ändra kommer **med en ny ADR i samma pull
   request**.
+- **Minst tre alternativ**, vart och ett med för- och nackdelar.
 - **Diskussionen hör hemma i ADR:en**, under *More Information*: hur
   resonemanget gick, invändningar och svar, och vad som avgjorde.
 - `decision-makers` är människor och skrivs med roll, aldrig namn
@@ -16,6 +17,7 @@ Regler för det här repot, utöver MADR:
   `projektägaren`. En AI-agent som gett en rekommendation står som
   `AI-agenten` under `consulted`. I texten räcker "ägaren" och "agenten"
   när det inte går att förväxla.
+- Beslutet fattas av en människa. Till dess är status `proposed`.
 - En accepterad ADR skrivs inte om. Undantaget är redaktionella
   ändringar som inte ändrar beslutet, som att ta bort ett personnamn.
 - Ändras beslutet skrivs en ny ADR, och den gamla får
