@@ -343,9 +343,13 @@ kunna läggas till utan kodändring.
 - **När** tolkningen är klar
 - **Så** står sidan i `tolkade`, och tolkningen står sist på sidan, märkt
   som tolkad, med vem som tolkade och när.
+- **Givet** ett tolkat dokument
+- **När** det konverteras om
+- **Så** försvinner tolkningarna, och sidorna står i arbetslistan igen.
 - **Givet** en tolkad CSV med ett tal som inte står i sidans text, eller
-  siffror som inte är ett helt tal, eller på en sida som inte står i
-  `tolkade`; eller en sida i `tolkade` utan precis en tolkning, eller en
-  tolkning på en sida som inte står där
+  siffror som inte är ett helt tal och inte står ordagrant i sidans
+  text, eller på en sida som inte står i `tolkade`; eller en sida i
+  `tolkade` utan precis en tolkning, en tolkning på en sida som inte
+  står där, eller ett tolkat dokument där en sida står två gånger
 - **När** datakontrollen körs
 - **Så** faller den.

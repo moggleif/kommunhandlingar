@@ -7,7 +7,7 @@ ovanför staplarna och åren 2023–2026 under dem.
 
 import unittest
 
-from kommunhandlingar.datakontroll_tolkning import TALEN, sidans_text
+from kommunhandlingar.datakontroll_tolkning import TALEN, ordagrant, sidans_text
 from tests.test_datakontroll import DOKUMENT, Pool
 
 TABELLER = DOKUMENT.replace(".md", ".tabeller")
@@ -45,15 +45,25 @@ class TestTolkning(Pool):
         self.assertEqual(
             self.fel(),
             [
-                f"{DOKUMENT}: sidan 17 har 1 tolkningar, men står inte i tolkade",
+                f"{DOKUMENT}: sidan 17 har 1 tolkningar men ska ha 0",
                 f"{TABELLER}/17-1.tolkad.csv: sidan 17 står inte i tolkade",
             ],
         )
 
     def test_tolkad_sida_utan_tolkning(self):
         self.andra(DOKUMENT, tolkade="[17]")
-        fel = f"{DOKUMENT}: sidan 17 har 0 tolkningar, och står i tolkade"
+        fel = f"{DOKUMENT}: sidan 17 har 0 tolkningar men ska ha 1"
         self.assertEqual(self.fel(), [fel])
+
+    def test_tva_tolkningar_pa_en_sida(self):
+        self.tolka("År,Besök\n2023,120\n", tolkning="<!-- tolkning: m, d -->")
+        fel = f"{DOKUMENT}: sidan 17 har 2 tolkningar men ska ha 1"
+        self.assertEqual(self.fel(), [fel])
+
+    def test_en_sida_till_i_tolkningen(self):
+        self.tolka("År,Besök\n2023,999\n", tolkning="<!-- sida 17 -->\n999")
+        fel = f"{DOKUMENT}: sidorna står inte en gång var och i ordning"
+        self.assertEqual(self.fel()[0], fel)
 
     def test_tolkade_utanfor_figurer(self):
         self.andra(DOKUMENT, tolkade="[3]")
@@ -81,6 +91,10 @@ class TestSidansTal(unittest.TestCase):
     def test_hela_tal(self):
         text = "Antal 1 120 och -45 % samt 3,5."
         self.assertEqual(TALEN.findall(text), ["1 120", "-45 %", "3,5"])
+
+    def test_en_etikett_som_star_ordagrant(self):
+        self.assertTrue(ordagrant("65–79 år", "Åldrar 65–79 år och 80–"))
+        self.assertFalse(ordagrant("5–79", "Åldrar 65–79 år"))
 
 
 if __name__ == "__main__":

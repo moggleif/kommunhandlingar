@@ -754,13 +754,18 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
   `tolkade` alltid är sidor ur `figurer`, i samma ordning.
 - **Datakontrollen** prövar att `figurer` och `tolkade` är `null`
   samtidigt, att `tolkade` är sidor ur `figurer` i ordning, och att
-  varje sida i `tolkade`, och ingen annan, har precis en tolkning. I en
-  tolkad CSV ska varje tal i varje cell stå i sidans text före
-  tolkningen, och en cell får inte ha siffror som inte är ett helt tal.
-  Sidans text är då utan länkarna till tabellerna, och ett tal är ett
-  helt tal med tusentalsmellanrum: `120` står inte i `1 120`, och inget
-  tal står i `13.30` eller `2025-10-08`. På en sida som lästs med OCR
-  stäms talen av mot OCR-texten och är lika obekräftade som den.
+  varje sida i `tolkade`, och ingen annan, har precis en tolkning. Har
+  dokumentet en tolkning ska sidkommentarerna stå en gång var, från 1
+  till `sidor`. I en tolkad CSV ska varje tal i varje cell stå i sidans
+  text före tolkningen, och en cell med siffror som inte är ett helt
+  tal, som `65–79 år` eller `2022-23`, ska stå ordagrant där. Sidans
+  text är då utan länkarna till tabellerna, och ett tal är ett helt tal
+  med tusentalsmellanrum: `120` står inte i `1 120`, och inget tal står
+  i `13.30` eller `2025-10-08`. Tal som står med ett enda mellanslag
+  emellan, som axeln `0 100 200`, läses därför ihop, och ett sådant tal
+  går inte att ta med för sig. På en sida som lästs med OCR stäms talen
+  av mot OCR-texten och är lika obekräftade som den. Att texten före
+  tolkningen är orörd prövas inte mekaniskt; det syns i PR:ens diff.
 - **En ny konvertering** av dokumentet skriver om `.md` och
   tabellkatalogen som vanligt, också när bara källnyckeln har bytts
   (K9); tolkningarna försvinner då, och sidorna hamnar i arbetslistan

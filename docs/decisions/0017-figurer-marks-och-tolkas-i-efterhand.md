@@ -71,8 +71,10 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
 
 * Bra, eftersom en sida med figur går att hitta i front matter, också
   innan den är tolkad.
-* Bra, eftersom ett tal i en tolkad CSV alltid står i dokumentets text;
-  det modellen bidrar med är vilken rad och kolumn talet hör till.
+* Bra, eftersom ett tal i en tolkad CSV står i sidans text före
+  tolkningen; det modellen bidrar med är vilken rad och kolumn talet hör
+  till. Att den texten är orörd prövas inte mekaniskt, men syns i PR:ens
+  diff.
 * Bra, eftersom inget nytt beroende behövs och nattkörningen inte ändras
   mer än att den skriver två fält till.
 * Dåligt, eftersom regeln tar med många sidor som inte har en figur:
@@ -93,6 +95,9 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
 * Dåligt, eftersom ett original som byts ut under samma adress inte
   hämtas igen (ADR-0004); dess sidor står kvar i arbetslistan men går
   inte att rendera förrän dokumentet konverteras om.
+* Dåligt, eftersom tal som står med ett enda mellanslag emellan, som en
+  axel `0 100 200`, läses ihop som tusental, och då inte går att ta med
+  för sig.
 * Neutralt, eftersom talen i en tolkad CSV på en sida som lästs med OCR
   stäms av mot OCR-texten, och därför är lika obekräftade som den.
 * Neutralt, eftersom ett Mermaid-diagram och en beskrivning inte prövas
@@ -104,12 +109,15 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
   skanning, åtta och sju staplar, ett vapen av kurvor på liten yta, vita
   och tunna rutor, rutor med text i och rutor i en säker tabell
   (`tests/test_figurer.py`).
-* Ett stapeldiagram i `tests/fixtures/pdf/sidor.pdf` blir `figurer: [16]`.
+* Ett stapeldiagram i `tests/fixtures/pdf/sidor.pdf` blir `figurer: [17]`.
 * Arbetslistan och renderingen prövas mot fixturen, också med ett
   original som har ändrats.
 * Datakontrollen prövas med en tolkad CSV vars tal står i sidans text,
-  ett tal som bara står i tolkningen, och en sida som inte står i
-  `tolkade` (`tests/test_datakontroll.py`).
+  ett tal som bara står i tolkningen, siffror som inte är ett helt tal,
+  en etikett som står ordagrant, en sida som inte står i `tolkade`, en
+  tolkad sida utan tolkning eller med två, en sida som står två gånger,
+  `figurer` och `tolkade` som inte är `null` samtidigt, och en lucka i
+  numren (`tests/test_datakontroll_tolkning.py`).
 
 ## Pros and Cons of the Options
 
@@ -171,8 +179,14 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
    prövade celler som helt var ett tal, och att länkarna till
    tabellerna, klockslag och datum gav tal att stämma av mot. Nu prövas
    varje tal i varje cell, en cell med siffror som inte är ett helt tal
-   faller, och varje tolkad sida ska ha precis en tolkning, så att ett
-   tal som modellen skrivit utan märkning inte räknas som sidans text.
+   faller, och varje tolkad sida ska ha precis en tolkning, så att en
+   tolkning utan märkning inte räknas som sidans text. Det andra varvet
+   visade att en sidkommentar till i tolkningen gjorde ett tal i den till
+   sidans text, att text före märkningen räknas som sidans, och att
+   etiketter som `65–79 år` aldrig gick att skriva. Nu ska sidorna stå
+   en gång var, en etikett med siffror får stå med när den står
+   ordagrant i sidans text, och att texten före märkningen är orörd
+   lämnas åt granskningen av PR:en, som alla tolkningar går genom.
 4. **Omprövas** när arbetslistan har prövats några omgångar, om en
    rutin ska ta över, eller om falsklarmen från tabeller kostar för
    mycket.

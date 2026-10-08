@@ -1,5 +1,5 @@
 """Krav: K11 och K15 i docs/02-KRAV.md, ADR-0009 och ADR-0017.
-Test: tests/test_datakontroll.py.
+Test: tests/test_datakontroll.py och tests/test_datakontroll_tolkning.py.
 
 Datakontrollen av en CSV i en tabellkatalog (docs/03-ARKITEKTUR.md#tabeller):
 namnet, att katalogen har sin `.md`, att sidan är läst ur textlagret eller
