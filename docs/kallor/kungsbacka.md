@@ -68,8 +68,8 @@ till fullmäktiges sida, `besok-kommunfullmaktige` och
   arbetsutskott: 6 maj 2024, 12 januari 2026 och 10 augusti 2026.
 - **Sidorna visar bara möten från januari 2024.** Varje sida börjar i
   januari eller februari 2024; äldre år ligger inte kvar, och
-  sökfunktionen hittar inga protokoll från 2023. Om äldre år plockas bort
-  varje år reds ut i #24.
+  sökfunktionen hittar inga protokoll från 2023. Att sidorna bara visar
+  tre år står i [avsnitt 2](#mötessidorna-visar-bara-tre-år).
 - **`sitemap.xml`** pekar på `sitemapindex.xml` → `sitemap1.xml.gz`, med
   2 665 sidor men inga `/download/`-filer. Den räcker för att hitta
   mötessidorna, inte filerna.
@@ -190,28 +190,32 @@ Kontrollerat 2026-10-08 med Internet Archives CDX-tjänst
 som AI-agenten arbetar i når inte `web.archive.org` (anslutningen bryts);
 Actions gör det, både CDX-listorna och hela kopior.
 
-Webbplatsen har haft tre generationer, och dokumenten från alla tre finns
-bara kvar i Wayback. Alla deras adresser ger 404 live.
+Webbplatsen har haft tre generationer. Dokumenten från de två
+Episerver-generationerna och Sitevisions år 2021–2023 hittas inte från den
+levande webbplatsen. Om deras adresser svarar live är inte prövat här;
+politik-repot fick 404 på `globalassets`-adresserna.
 
 | Generation | År | Adress till filerna | Form |
 |---|---|---|---|
-| Episerver, äldre | 2013–2017 | `www.kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/<organ>/<typ>/<år>/<fil>.pdf` | Dagordning, protokoll och handlingar per möte |
+| Episerver, äldre | 2013–2017 | `www.kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/<organ>/<typ>/<år>/<fil>.pdf` | Dagordning, protokoll och handlingar; ibland flera handlingar per möte |
 | Episerver, `globalassets` | 2017–2022 | `www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/<organ>/<typ>/<år>/[<datum>/]<fil>.pdf` | Handlingarna **en PDF per ärende** |
 | Sitevision | 2021 → | `kungsbacka.se/download/18.<nod-id>/<tidsstämpel>/<filnamn>` | Som i avsnitt 1 |
 
 Organ och typ står i sökvägen i de två Episerver-generationerna, och i
 filnamnet hos Sitevision. Organen hette annorlunda förr, och några finns
-inte längre: Äldreomsorg, Funktionsstöd, Gymnasie och Vuxenutbildning,
-Fritid och Folkhälsa, Kultur och Turism och Kommunstyrelsens
+inte längre: Äldreomsorg och dess arbetsutskott, Funktionsstöd, Gymnasie
+och Vuxenutbildning, Fritid och Folkhälsa, Kultur och Turism och Kommunstyrelsens
 personalutskott.
 
 ### Mötessidorna visar bara tre år
 
-Arkiverade kopior av Sitevision-sidorna i avsnitt 1, från april 2022 och
-framåt, visar högst tre år: det innevarande och de två föregående. När
-ett nytt år kommer till försvinner det äldsta från sidan. Det som
-publicerats 2021–2023 hittas alltså bara via Wayback, och varje år faller
-ett år till ur den levande källan.
+69 arkiverade kopior av sex av Sitevision-sidorna i avsnitt 1, från april
+2022 till maj 2026, visar aldrig fler än tre årsrubriker. Byggnadsnämndens
+sida visade till exempel 2021–2023 i november 2023 och 2022–2024 i mars
+2024. Det äldsta året försvinner alltså från sidan någon gång efter att ett
+nytt år kommit till; exakt när visar kopiorna inte. Det som publicerats
+2021–2023 hittas därför inte från den levande sidan, bara via Wayback och
+möjligen diariet (avsnitt 3).
 
 ### Täckning
 
@@ -222,9 +226,9 @@ Episerver och organets `id` i
 [`kommuner/kungsbacka.toml`](../../kommuner/kungsbacka.toml) hos
 Sitevision. Att en fil finns betyder inte att kopian är hel (se nedan).
 
-**Episerver, äldre (2013–2017).** 1 072 filer. Utanför matrisen: 23 filer
-som inte ligger i en mapp per typ och år, de flesta från Kommunstyrelsens
-personalutskott 2014.
+**Episerver, äldre (2013–2017).** 1 072 PDF-filer, 1 049 i matrisen.
+Utanför matrisen: 23 filer som inte ligger i en mapp per typ och år, de
+flesta från Kommunstyrelsens personalutskott 2014.
 
 | organ | 2013 | 2014 | 2015 | 2016 | 2017 |
 |---|---|---|---|---|---|
@@ -248,8 +252,14 @@ personalutskott 2014.
 | Äldreomsorg | p6 k5 | p17 k13 h12 | p2 k3 h3 | p3 k10 h7 | p4 k4 h4 |
 | Äldreomsorgens arbetsutskott |  |  |  |  | p1 k1 h1 |
 
-**Episerver, `globalassets` (2017–2022).** Handlingarna är en fil per
-ärende, därför de stora talen hos fullmäktige och kommunstyrelsen.
+**Episerver, `globalassets` (2017–2022).** 1 795 PDF-filer, 1 781 i
+matrisen; filer med samma namn under `http`, `https` och med eller utan
+`www` räknas en gång. Handlingarna är en fil per ärende, därför de stora
+talen hos fullmäktige och kommunstyrelsen. Kommunrevisionen har ingen mapp
+per typ; dess filer är protokoll och sammanträdesanteckningar. Utanför
+matrisen: 14 filer som inte ligger i en mapp per organ och år, bland dem
+fyra protokoll (till exempel `kft-protokoll-2019-01-31.pdf`), två
+kungörelser och en lista med sammanträdesdagar.
 
 | organ | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
 |---|---|---|---|---|---|---|
@@ -261,6 +271,7 @@ personalutskott 2014.
 | gymnasium--arbetsmarknad |  | p8 k5 h7 |  | p1 | p14 k13 h14 |  |
 | individ-och-familjeomsorg |  |  |  | p8 k4 h7 | p16 k9 h9 | p2 k1 h2 |
 | kommunfullmaktige |  |  | p1 h1 | p1 | p10 k8 h96 | p2 k1 h2 |
+| kommunrevisionen |  |  | p15 | p6 | p17 | p4 |
 | kommunstyrelsen |  | p18 k11 h254 | p19 k11 h229 | h2 | p13 k11 h116 | p1 k2 h3 |
 | kommunstyrelsens-arbetsutskott |  |  | h2 | h5 | p31 k28 h107 | p7 k7 h7 |
 | kultur-och-fritid |  |  | p8 k10 h16 | h2 | p10 k10 h11 | p2 k2 h2 |
@@ -272,9 +283,10 @@ personalutskott 2014.
 | valnamnd |  |  |  |  | p3 k3 h5 | k1 h1 |
 | vard--omsorg |  |  | p11 k8 h9 | p4 k4 h5 | p8 k9 h9 |  |
 
-**Sitevision (2021–2023).** Åren från 2024 finns på den levande sidan
-(avsnitt 1). Utanför matrisen: 36 filer vars namn saknar organ, typ eller
-fullständigt datum (till exempel `Protokoll 230920.signerad.pub.pdf`).
+**Sitevision (2021–2023).** 1 384 nod-id:n i matrisen; ett nod-id räknas
+en gång även när det förekommer med flera tidsstämplar (versioner). Åren
+från 2024 finns på den levande sidan (avsnitt 1). Utanför matrisen: 36
+filer, från alla år, vars namn saknar organ, typ eller fullständigt datum (till exempel `Protokoll 230920.signerad.pub.pdf`).
 Deras organ och datum står bara på den arkiverade mötessidan.
 
 | organ | 2021 | 2022 | 2023 |
@@ -303,9 +315,9 @@ plattformarna låg parallellt en tid.
 ### Att tänka på vid hämtning
 
 - **Kopior kapas tyst.** Samma fil kan ha flera kopior av olika storlek,
-  till exempel fullmäktiges handlingar 2022-06-15: 59,8 MB i en kopia och
-  1,0 MB i en annan. En kopia ska sluta på `%%EOF` och gå att öppna innan
-  den godtas (K3, K6).
+  till exempel fullmäktiges handlingar 2022-06-15, där CDX anger 59,8 MB
+  för en kopia och 1,0 MB för en annan. Hur en hel kopia känns igen och väljs avgörs med
+  adaptern ([#51](https://github.com/moggleif/kommunhandlingar/issues/51)).
 - Några kopior är sparade som 404-sidor (`text/html`) och räknas inte.
 - Hela kopian hämtas med `https://web.archive.org/web/<tidsstämpel>id_/<adress>`;
   `id_` ger filen som den var, utan Waybacks ram.
@@ -342,6 +354,6 @@ plattformarna låg parallellt en tid.
 | 2024-01 → | kungsbacka.se (Sitevision), kontrollerat | Oftast en PDF per möte och typ; protokoll ibland delat |
 | 2021–2023 | Wayback av Sitevision | Som live; mötessidan visar bara tre år |
 | 2017–2022 | Wayback av Episerver `globalassets` | En PDF per ärende |
-| 2013–2017 | Wayback av äldre Episerver (`Global`) | Per möte |
+| 2013–2017 | Wayback av äldre Episerver (`Global`) | Dagordning, protokoll och handlingar |
 | 2019-11 → | Ciceron | Per ärende, om nedladdning är öppen (#23) |
 | äldre | Begäran hos kommunarkivet | Manuellt |

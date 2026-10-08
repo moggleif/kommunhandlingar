@@ -61,29 +61,6 @@ kunna läggas till utan kodändring.
   Archive och kommunens diarium), och varje dokument registreras med den
   källa det hittades i.
 
-- **Givet** en natt då de vanliga källorna har kandidater kvar som inte
-  hunnits med
-- **När** körningen når Internet Archive
-- **Så** hämtas ingenting därifrån den natten; Wayback fyller luckor och
-  tas först när allt från de vanliga källorna är hämtat inom tidsbudgeten.
-
-- **Givet** ett dokument som finns både i en levande källa och i Internet
-  Archive
-- **När** upptäckten körs
-- **Så** blir det en kandidat från den levande källan och ingen från
-  Wayback.
-
-- **Givet** flera arkivkopior av samma fil
-- **När** upptäckten väljer kopia
-- **Så** väljs samma kopia varje natt, och en ny kopia av oförändrat
-  innehåll ger ingen ny kandidat (ADR-0004).
-
-- **Givet** en arkivkopia som inte slutar på `%%EOF` eller inte går att
-  öppna som PDF – Wayback kapar kopior tyst
-- **När** den hämtas
-- **Så** blir dokumentet `ej-hamtad` med `fel: kapad` (K6), och ingen
-  text ur kopian skrivs.
-
 ## K4 — Varje dokument blir en Markdown-fil med härkomst
 
 - **Givet** ett hämtat PDF-dokument
