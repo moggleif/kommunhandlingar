@@ -1,7 +1,8 @@
-"""Krav: K2 och K13 i docs/02-KRAV.md. Test: tests/test_kandidat.py."""
+"""Krav: K2, K13 och K16 i docs/02-KRAV.md. Test: tests/test_kandidat.py."""
 
 from dataclasses import dataclass
 from datetime import date
+from pathlib import Path
 
 # Ordningen inom ett organ (ADR-0010); också de typer som finns (K2).
 TYPORDNING = ("protokoll", "kallelse", "bilaga", "handlingar")
@@ -35,3 +36,22 @@ def ordna(kandidater: list[Kandidat], organordning: list[str]) -> list[Kandidat]
         )
 
     return sorted(kandidater, key=nyckel)
+
+
+def ordna_bakat(kandidater: list[Kandidat], organordning: list[str]) -> list[Kandidat]:
+    """Arkivets ordning (ADR-0018): det nyaste sammanträdet först, för alla organ."""
+
+    def nyckel(kandidat: Kandidat) -> tuple:
+        return (
+            -kandidat.datum.toordinal(),
+            organordning.index(kandidat.organ),
+            TYPORDNING.index(kandidat.typ),
+            kandidat.kallnyckel,
+        )
+
+    return sorted(kandidater, key=nyckel)
+
+
+def lista(arbetskatalog: Path, kommun: str, arkiv: bool) -> Path:
+    slag = ".arkiv" if arkiv else ""
+    return arbetskatalog / f"{kommun}{slag}.kandidater.json"

@@ -1,22 +1,27 @@
-"""Krav: K2 och K13 i docs/02-KRAV.md, ADR-0013. Test: tests/test_upptack.py.
+"""Krav: K2, K13 och K16 i docs/02-KRAV.md, ADR-0013 och ADR-0018.
+Test: tests/test_upptack.py.
 
-Steg 1: `python -m kommunhandlingar.upptack <kommunfil> <arbetskatalog>`.
-Hämtar kommunens källsidor, kör adaptern och skriver kandidatlistan.
-`hamtning.toml` läses från repot som kommunfilen ligger i.
+Steg 1: `python -m kommunhandlingar.upptack <kommunfil> <arbetskatalog>
+[--arkiv] [--start N]`. Hämtar kommunens källsidor, kör adaptern och
+skriver kandidatlistan; med `--arkiv` arkivets lista, som inte skrivs med
+några kandidater när tidsbudgetens mjuka gräns räknat från `--start` är
+passerad. `hamtning.toml` läses från repot som kommunfilen ligger i.
 """
 
+import argparse
 import json
 import sys
 from collections import Counter
 from dataclasses import asdict
+from datetime import UTC, datetime
 from pathlib import Path
 
-from kommunhandlingar import konfiguration
-from kommunhandlingar.adaptrar import sitevision
+from kommunhandlingar import konfiguration, tidsbudget
+from kommunhandlingar.adaptrar import sitevision, sitevision_arkiv
 from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
-from kommunhandlingar.kandidat import Avvisad, Kandidat, ordna
+from kommunhandlingar.kandidat import Avvisad, Kandidat, lista, ordna, ordna_bakat
 
 
 def upptack(
@@ -30,6 +35,20 @@ def upptack(
         kandidater += nya
         avvisade += bort
     return ordna(kandidater, [o.id for o in kommun.organ]), avvisade
+
+
+def upptack_arkiv(
+    kommun: konfiguration.Kommun, klient
+) -> tuple[list[Kandidat], list[Avvisad], list[str]]:
+    kandidater: list[Kandidat] = []
+    avvisade: list[Avvisad] = []
+    obesvarade: list[str] = []
+    for kalla in kommun.kallor:
+        if kalla.arkiv:
+            nya, bort, utan_svar = sitevision_arkiv.upptack(kalla, klient)
+            kandidater, avvisade = kandidater + nya, avvisade + bort
+            obesvarade += utan_svar
+    return ordna_bakat(kandidater, [o.id for o in kommun.organ]), avvisade, obesvarade
 
 
 def sida(klient, adress: str) -> str:
@@ -60,23 +79,38 @@ def utanfor_repot(katalog: Path, rot: Path) -> Path:
     return katalog
 
 
-def main(kommunfil: Path, arbetskatalog: Path) -> None:
-    rot = kommunfil.resolve().parent.parent
-    katalog = utanfor_repot(arbetskatalog, rot)
-    kommun = konfiguration.las(kommunfil)
+def main(arg: argparse.Namespace) -> None:
+    rot = arg.kommunfil.resolve().parent.parent
+    katalog = utanfor_repot(arg.arbetskatalog, rot)
+    kommun = konfiguration.las(arg.kommunfil)
     klient = Klient(installningar.las(rot / "hamtning.toml"))
-    kandidater, avvisade = upptack(kommun, klient)
     katalog.mkdir(parents=True, exist_ok=True)
-    skriv(kandidater, katalog / f"{kommun.id}.kandidater.json")
+    fil = lista(katalog, kommun.id, arg.arkiv)
+    if arg.arkiv and datetime.now(UTC) >= tidsbudget.mjuk_grans(arg.start):
+        skriv([], fil)
+        print("Arkivet väntar på nästa körning: tidsbudgeten är slut.")
+        return
+    obesvarade: list[str] = []
+    if arg.arkiv:
+        kandidater, avvisade, obesvarade = upptack_arkiv(kommun, klient)
+    else:
+        kandidater, avvisade = upptack(kommun, klient)
+    skriv(kandidater, fil)
     print(sammanfattning(kommun, kandidater, avvisade))
+    print("".join(f"Arkivet svarade inte: {fraga}\n" for fraga in obesvarade), end="")
+
+
+def argument() -> argparse.Namespace:
+    tolk = argparse.ArgumentParser(prog="python -m kommunhandlingar.upptack")
+    tolk.add_argument("kommunfil", type=Path)
+    tolk.add_argument("arbetskatalog", type=Path)
+    tolk.add_argument("--arkiv", action="store_true", help="arkivets lista (K16)")
+    tolk.add_argument("--start", type=tidsbudget.tidpunkt, help=tidsbudget.START)
+    return tolk.parse_args()
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        sys.exit(
-            "Användning: python -m kommunhandlingar.upptack <kommunfil> <arbetskatalog>"
-        )
     try:
-        main(Path(sys.argv[1]), Path(sys.argv[2]))
+        main(argument())
     except (Konfigurationsfel, Hamtfel) as fel:
         sys.exit(f"Stoppad: {fel}")

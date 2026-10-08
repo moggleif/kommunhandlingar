@@ -1,10 +1,11 @@
-"""Krav: K4, K6, K8 och K9 i docs/02-KRAV.md, ADR-0003 och ADR-0004.
-Test: tests/test_hamta.py.
+"""Krav: K4, K6, K8, K9 och K16 i docs/02-KRAV.md, ADR-0003, ADR-0004 och
+ADR-0018. Test: tests/test_hamta.py.
 
 Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta,
 konvertera och skriv. Ett misslyckat försök skriver aldrig över en
-fullständig `.md`. K8:s regel om äldre ögonblicksbilder väntar på
-Wayback-adaptern. Skrivningen avbryts aldrig av tidsgränsen (K11).
+fullständig `.md`. En kandidat ur ett arkiv fyller bara luckor, så att en
+äldre kopia aldrig ersätter ett dokument i poolen. Skrivningen avbryts
+aldrig av tidsgränsen (K11).
 """
 
 import hashlib
@@ -15,6 +16,7 @@ from datetime import datetime
 from pathlib import Path, PurePosixPath
 
 from kommunhandlingar import frontmatter, skrivning
+from kommunhandlingar.adaptrar import wayback
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.kandidat import Kandidat
 from kommunhandlingar.konvertering.dokument import Resultat, konvertera, versioner
@@ -32,6 +34,7 @@ class Steg2:
     nycklar: frozenset[str]
     tid: Callable[[], datetime]
     version: str
+    arkiv: bool = False
 
 
 @dataclass(frozen=True)
@@ -51,6 +54,8 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
     else:
         dokument = Dokument(kandidat, sokvag, steg.pool.efter_sokvag[sokvag])
     gammal = dokument.befintlig
+    if steg.arkiv and gammal and (sokvag is None or hel(gammal)):
+        return "finns redan; arkivet fyller bara luckor"
     if sokvag and gammal["kalla_url"] == kandidat.url and hel(gammal):
         return "oförändrad"
     with tempfile.TemporaryDirectory() as katalog:
@@ -60,6 +65,8 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
             steg.klient.fil(kandidat.url, pdf)
         except Hamtfel as fel:
             return misslyckad(steg, dokument, fel.orsak, hamtad)
+        if steg.arkiv and wayback.kapad(pdf):
+            return misslyckad(steg, dokument, "kapad", hamtad)
         return hamtad_fil(steg, dokument, pdf, hamtad)
 
 

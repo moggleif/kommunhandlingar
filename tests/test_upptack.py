@@ -1,13 +1,27 @@
-"""Krav: K2 och K13, ADR-0013. Kod: src/kommunhandlingar/upptack.py."""
+"""Krav: K2, K13 och K16, ADR-0013 och ADR-0018.
+Kod: src/kommunhandlingar/upptack.py."""
 
+import argparse
 import json
 import tempfile
 import unittest
+from contextlib import redirect_stdout
+from dataclasses import replace
+from datetime import UTC, datetime
+from io import StringIO
 from pathlib import Path
 
 from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 from kommunhandlingar.konfiguration import las
-from kommunhandlingar.upptack import sammanfattning, skriv, upptack, utanfor_repot
+from kommunhandlingar.upptack import (
+    main,
+    sammanfattning,
+    skriv,
+    upptack,
+    upptack_arkiv,
+    utanfor_repot,
+)
+from tests import test_sitevision_arkiv as arkivet
 from tests.test_konfiguration import FIXTURER, ROT
 from tests.test_sitevision import lank, sida
 
@@ -72,3 +86,37 @@ class TestUpptack(unittest.TestCase):
             utanfor_repot(ROT / "arbete", ROT)
         with tempfile.TemporaryDirectory() as katalog:
             self.assertEqual(utanfor_repot(Path(katalog), ROT), Path(katalog))
+
+
+class TestArkivet(unittest.TestCase):
+    def setUp(self):
+        self.kommun = las(FIXTURER / "exempelby.toml")
+
+    def test_utan_arkiv_i_konfigurationen_fragas_inget(self):
+        self.assertEqual(upptack_arkiv(self.kommun, Klient({})), ([], [], []))
+
+    def test_arkivets_lista_nyast_forst(self):
+        kalla = replace(self.kommun.kallor[0], arkiv="wayback")
+        kommun = replace(self.kommun, kallor=(kalla,))
+        fall = arkivet.TestArkivetsUpptackt()
+        fall.setUp()
+        klient = arkivet.Klient(fall.cdx, fall.sidor)
+        kandidater, _, obesvarade = upptack_arkiv(kommun, klient)
+        self.assertEqual(
+            [str(k.datum) for k in kandidater], ["2022-05-03", "2022-05-02"]
+        )
+        self.assertEqual(len(obesvarade), 1)
+
+    def test_arkivet_fragas_inte_efter_den_mjuka_gransen(self):
+        with tempfile.TemporaryDirectory() as katalog:
+            arg = argparse.Namespace(
+                kommunfil=ROT / "kommuner" / "kungsbacka.toml",
+                arbetskatalog=Path(katalog),
+                arkiv=True,
+                start=datetime(2026, 1, 1, tzinfo=UTC),
+            )
+            with redirect_stdout(StringIO()) as utskrift:
+                main(arg)
+            lista = Path(katalog) / "kungsbacka.arkiv.kandidater.json"
+            self.assertEqual(json.loads(lista.read_text("utf-8")), [])
+        self.assertIn("Arkivet väntar på nästa körning", utskrift.getvalue())
