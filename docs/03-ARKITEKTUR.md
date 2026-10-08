@@ -682,8 +682,9 @@ matter följer sidorna i ordning. Varje sida börjar med kommentaren
 
 `python -m kommunhandlingar.hamta kommuner/<kommun>.toml <arbetskatalog>`
 läser `<arbetskatalog>/<kommun>.kandidater.json` och skriver i `data/` i
-samma repo som kommunfilen. Kandidaterna tas i listans ordning, och för
-var och en avgör K8 och K9 vad som händer. Sammanfattningen räknar
+samma repo som kommunfilen. Kandidaterna tas i listans ordning, utom de
+som bara ska konverteras om, som tas sist (K13), och för var och en avgör
+K8 och K9 vad som händer. Sammanfattningen räknar
 utfallen och nämner varje dokument som inte gick att hämta, med orsak.
 
 - **Platsen** för en ny källnyckel är organ, datum och typ. En bilaga får

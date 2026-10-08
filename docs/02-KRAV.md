@@ -145,8 +145,9 @@ kunna läggas till utan kodändring.
 ## K8 — Körningen är inkrementell och kan avbrytas
 
 - **Givet** att en källnyckel redan finns i poolen som ett dokuments
-  `kallnyckel`, med samma `kalla_url` som upptäckten anger och utan
-  kvalitet `ej-hamtad`
+  `kallnyckel`, med samma `kalla_url` som upptäckten anger, utan
+  kvalitet `ej-hamtad` och med den version av poolen som körs i
+  `pipeline`
 - **När** en ny körning startas
 - **Så** hämtas filen inte, och dokumentets `.md` lämnas orörd.
 
