@@ -1,5 +1,5 @@
 """Krav: K15, ADR-0017. Kod: src/kommunhandlingar/konvertering/figurer.py och
-src/kommunhandlingar/figurer.py.
+src/kommunhandlingar/tolkning.py.
 
 Sidan är 100 × 100 punkter, så att en andel av sidan är lika många
 kvadratpunkter i hundratal: en bild på 20 × 20 täcker 4 %.
@@ -10,11 +10,13 @@ import tempfile
 import unittest
 from pathlib import Path
 from types import SimpleNamespace
+from unittest import mock
 
 from kommunhandlingar import frontmatter
-from kommunhandlingar.figurer import arbetslista, rendera
+from kommunhandlingar.konvertering import las_sida
 from kommunhandlingar.konvertering.dokument import konvertera
 from kommunhandlingar.konvertering.figurer import har_figur
+from kommunhandlingar.tolkning import AndratOriginal, arbetslista, rendera
 from tests.test_hamta import Klient
 
 PDF = Path(__file__).parent / "fixtures" / "pdf"
@@ -72,6 +74,11 @@ class TestRegeln(unittest.TestCase):
     def test_ytor_i_en_saker_tabell_raknas_inte(self):
         self.assertFalse(har_figur(sida(rects=STAPLAR), [(0, 0, 100, 100)]))
 
+    def test_en_sida_som_lases_med_ocr_provas_ocksa(self):
+        with mock.patch.object(las_sida.figurer, "har_figur", return_value=True):
+            sidor = konvertera(PDF / "sidor.pdf").sidor
+        self.assertEqual((sidor[8].kvalitet, sidor[8].figur), ("ej-konverterad", True))
+
     def test_stapeldiagrammet_i_fixturen_marks(self):
         self.assertEqual(konvertera(PDF / "sidor.pdf").figurer, [17])
 
@@ -105,10 +112,16 @@ class TestVerktygen(unittest.TestCase):
         self.assertEqual(png, self.rot / "17.png")
         self.assertGreater(png.stat().st_size, 0)
 
+    def test_dokument_utan_otolkade_sidor_hamtas_inte(self):
+        self.skriv(figurer="null", tolkade="null")
+        klient = Klient()
+        self.assertEqual(rendera(self.md, self.rot / "ny", klient), [])
+        self.assertEqual(klient.anrop, [])
+
     def test_ett_andrat_original_renderas_inte(self):
         klient = Klient()
         klient.filer["u1"] = "begransad.pdf"
-        with self.assertRaises(SystemExit):
+        with self.assertRaises(AndratOriginal):
             rendera(self.md, self.rot, klient)
         self.assertEqual(list(self.rot.glob("*.png")), [])
 

@@ -2,11 +2,12 @@
 
 Verktygen för den som tolkar figurerna (docs/03-ARKITEKTUR.md#tolkade-figurer):
 
-- `python -m kommunhandlingar.figurer lista <data>` skriver arbetslistan,
+- `python -m kommunhandlingar.tolkning lista <data>` skriver arbetslistan,
   varje dokument med sidor i `figurer` som inte står i `tolkade`.
-- `python -m kommunhandlingar.figurer rendera <md> <katalog>` hämtar
+- `python -m kommunhandlingar.tolkning rendera <md> <katalog>` hämtar
   dokumentets original, prövar att sha256 stämmer med front matter och
   sparar de otolkade figursidorna som PNG i katalogen. PDF:en raderas.
+  Ett dokument utan otolkade sidor hämtas inte.
 """
 
 import argparse
@@ -18,10 +19,15 @@ from pathlib import Path
 import pypdfium2 as pdfium
 
 from kommunhandlingar import frontmatter
+from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
 
 SKALA = 2
+
+
+class AndratOriginal(Exception):
+    """Originalet har inte samma sha256 som när det konverterades."""
 
 
 def otolkade(falt: dict[str, str]) -> list[int]:
@@ -40,11 +46,14 @@ def arbetslista(data: Path) -> list[str]:
 
 def rendera(md: Path, katalog: Path, klient: Klient) -> list[Path]:
     falt = frontmatter.las(md.read_text(encoding="utf-8"))
+    if not otolkade(falt):
+        return []
+    katalog.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory() as tillfallig:
         pdf = Path(tillfallig) / "original.pdf"
         klient.fil(falt["kalla_url"], pdf)
         if hashlib.sha256(pdf.read_bytes()).hexdigest() != falt["sha256"]:
-            sys.exit(f"{md}: originalet har ändrats sedan det konverterades")
+            raise AndratOriginal(f"{md}: originalet har ändrats sedan konverteringen")
         with pdfium.PdfDocument(pdf) as dokument:
             return [spara(dokument, nr, katalog) for nr in otolkade(falt)]
 
@@ -61,7 +70,7 @@ def klient_for(md: Path) -> Klient:
 
 
 def argument() -> argparse.Namespace:
-    tolk = argparse.ArgumentParser(prog="python -m kommunhandlingar.figurer")
+    tolk = argparse.ArgumentParser(prog="python -m kommunhandlingar.tolkning")
     kommandon = tolk.add_subparsers(dest="kommando", required=True)
     kommandon.add_parser("lista").add_argument("data", type=Path)
     rendering = kommandon.add_parser("rendera")
@@ -70,10 +79,17 @@ def argument() -> argparse.Namespace:
     return tolk.parse_args()
 
 
-if __name__ == "__main__":
-    arg = argument()
+def main(arg: argparse.Namespace) -> None:
     if arg.kommando == "lista":
-        print("\n".join(arbetslista(arg.data)))
-    else:
+        for rad in arbetslista(arg.data):
+            print(rad)
+        return
+    try:
         for png in rendera(arg.md, arg.katalog, klient_for(arg.md)):
             print(png)
+    except (AndratOriginal, Hamtfel) as fel:
+        sys.exit(f"Stoppad: {fel}")
+
+
+if __name__ == "__main__":
+    main(argument())

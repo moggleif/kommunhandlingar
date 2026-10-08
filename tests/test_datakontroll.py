@@ -169,30 +169,6 @@ class TestTabellkontroll(Pool):
                 fil.write_bytes(innehall)
                 self.assertEqual(self.fel(), [f"{self.relativ}/2-1.csv: {fel}"])
 
-    def tolka(self, csv: str, tolkade: str = "[17]", tolkning: str = "") -> None:
-        md = self.data / DOKUMENT
-        text = md.read_text(encoding="utf-8")
-        text += f"\n<!-- tolkning: modell, 2026-10-08 -->\n\n{tolkning}\n"
-        md.write_text(text, encoding="utf-8")
-        self.andra(DOKUMENT, tolkade=tolkade)
-        (self.katalog / "17-1.tolkad.csv").write_text(csv)
-
-    def test_tolkad_csv_med_talen_ur_sidans_text(self):
-        self.tolka("År,Besök\n2023,120\n2024,130\n")
-        self.assertEqual(self.fel(), [])
-
-    def test_tolkad_csv_med_ett_tal_som_inte_star_pa_sidan(self):
-        self.tolka("År,Besök\n2023,999\n", tolkning="Staplarna visar 999.")
-        self.assertEqual(
-            self.fel(),
-            [f"{self.relativ}/17-1.tolkad.csv: talet '999' står inte i sidans text"],
-        )
-
-    def test_tolkad_csv_pa_en_sida_som_inte_ar_tolkad(self):
-        self.tolka("År,Besök\n2023,120\n", tolkade="[]")
-        fel = f"{self.relativ}/17-1.tolkad.csv: sidan 17 står inte i tolkade"
-        self.assertEqual(self.fel(), [fel])
-
     def test_inte_utf_8(self):
         (self.katalog / "2-1.csv").write_bytes(b"\xff\n")
         self.assertIn("inte CSV i UTF-8", self.fel()[0])

@@ -317,8 +317,8 @@ kunna läggas till utan kodändring.
 - **Givet** en sida som kan ha ett diagram, en karta, ett schema eller
   en bild
 - **När** dokumentet konverteras
-- **Så** står sidan i dokumentets `figurer`. En logotyp eller ett vapen
-  räknas inte, och en sida för mycket är bättre än en för lite.
+- **Så** står sidan i dokumentets `figurer`. En liten logotyp eller ett
+  vapen räknas inte, och en sida för mycket är bättre än en för lite.
 - **Givet** poolen
 - **När** arbetslistan tas fram
 - **Så** står varje dokument med sidor i `figurer` som inte står i
@@ -344,6 +344,8 @@ kunna läggas till utan kodändring.
 - **Så** står sidan i `tolkade`, och tolkningen står sist på sidan, märkt
   som tolkad, med vem som tolkade och när.
 - **Givet** en tolkad CSV med ett tal som inte står i sidans text, eller
-  på en sida som inte står i `tolkade`
+  siffror som inte är ett helt tal, eller på en sida som inte står i
+  `tolkade`; eller en sida i `tolkade` utan precis en tolkning, eller en
+  tolkning på en sida som inte står där
 - **När** datakontrollen körs
 - **Så** faller den.

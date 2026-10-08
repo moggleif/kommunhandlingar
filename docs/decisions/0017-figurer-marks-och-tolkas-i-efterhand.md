@@ -76,7 +76,7 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
 * Bra, eftersom inget nytt beroende behövs och nattkörningen inte ändras
   mer än att den skriver två fält till.
 * Dåligt, eftersom regeln tar med många sidor som inte har en figur:
-  300 av 1 876 sidor i proven blev märkta, och i ett stickprov på 48 av
+  302 av 1 876 sidor i proven blev märkta, och i ett stickprov på 48 av
   dem hade 14 ingen figur. Det var logotyper som täcker mer än 2 % av
   sidan, namnteckningar och tabeller med färgade eller tomma rutor.
   Varje sådan sida kostar en titt i sessionen.
@@ -87,8 +87,14 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
   sjätte sida märkt blir arbetslistan lång när hela poolen är
   konverterad om.
 * Dåligt, eftersom en ny konvertering av ett dokument tar bort dess
-  tolkningar. Det händer bara när originalet har ändrats (K9), och då
-  kan figurerna också ha ändrats.
+  tolkningar. Det händer när originalet har ändrats, och då kan
+  figurerna också ha ändrats, men också när bara källnyckeln har bytts
+  (K9).
+* Dåligt, eftersom ett original som byts ut under samma adress inte
+  hämtas igen (ADR-0004); dess sidor står kvar i arbetslistan men går
+  inte att rendera förrän dokumentet konverteras om.
+* Neutralt, eftersom talen i en tolkad CSV på en sida som lästs med OCR
+  stäms av mot OCR-texten, och därför är lika obekräftade som den.
 * Neutralt, eftersom ett Mermaid-diagram och en beskrivning inte prövas
   mekaniskt. De är märkta som tolkade.
 
@@ -153,7 +159,7 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
    staplar. Att mäta ytan som objekten sprids över tog bort vapnen och
    logotyperna, och att inte räkna vita rutor tog bort tolv
    tabellsidor. Gränsen 8 objekt i stället för 10 tog med två
-   riskmatriser. Resultatet blev 300 sidor i 10 dokument. I ett
+   riskmatriser. Resultatet blev 302 sidor i 9 dokument. I ett
    stickprov på 48 av dem var 34 figurer: diagram, kartor,
    detaljplaner, foton och en riskmatris.
 3. **Varför talen ska stå i texten.** Ett diagram i en PDF har oftast
@@ -161,7 +167,12 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
    valde att låta datakontrollen kräva det, så att det modellen tillför
    är strukturen och aldrig ett tal. En tolkning före sidans text räknas
    inte, så att ett tal som bara står i tolkningen inte räknas som
-   avstämt.
+   avstämt. Granskningen (fas 6) visade att kontrollen först bara
+   prövade celler som helt var ett tal, och att länkarna till
+   tabellerna, klockslag och datum gav tal att stämma av mot. Nu prövas
+   varje tal i varje cell, en cell med siffror som inte är ett helt tal
+   faller, och varje tolkad sida ska ha precis en tolkning, så att ett
+   tal som modellen skrivit utan märkning inte räknas som sidans text.
 4. **Omprövas** när arbetslistan har prövats några omgångar, om en
    rutin ska ta över, eller om falsklarmen från tabeller kostar för
    mycket.

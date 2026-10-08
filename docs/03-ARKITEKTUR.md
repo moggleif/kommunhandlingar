@@ -573,8 +573,8 @@ om det är en figur. Sidan står i `figurer` när något av det här gäller:
 
 1. **En bild** täcker minst 2 % av sidan men mindre än 90 %. En mindre
    bild är oftast en logotyp, och en större är en skanning.
-2. **Minst 8 ritade objekt** – kurvor och rektanglar som är bredare och
-   högre än 2 punkter, som syns och inte har något tecken inom sig –
+2. **Minst 8 ritade objekt** – kurvor, och rektanglar som är bredare
+   och högre än 2 punkter, syns och inte har något tecken inom sig –
    ligger inom en rektangel som täcker minst 2 % av sidan. Ett vapen
    eller en ikon har många kurvor på en liten yta, och en tabell har
    linjer och rutor med text i.
@@ -715,8 +715,8 @@ tabeller har ingen tabellkatalog.
 - **Datakontrollen** prövar att varje CSV heter så, att numren på en
   sida följer på varandra utan lucka, och att sidan finns och är `ok`
   eller `tabell-osaker`. För en tolkad CSV prövar den i stället att
-  sidan står i `tolkade` och att varje tal i den står i sidans text i
-  `.md`, före tolkningen, som ett helt tal: `120` står inte i `1 120`.
+  sidan står i `tolkade` och att talen står i sidans text
+  ([Tolkade figurer](#tolkade-figurer)).
 
 ## Tolkade figurer
 
@@ -727,13 +727,14 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
 
 - **Arbetslistan** är varje dokument med sidor i `figurer` som inte står
   i `tolkade`:
-  `python -m kommunhandlingar.figurer lista data`.
+  `python -m kommunhandlingar.tolkning lista data`.
 - **Sidorna** renderas med
-  `python -m kommunhandlingar.figurer rendera <md> <katalog>`, som hämtar
+  `python -m kommunhandlingar.tolkning rendera <md> <katalog>`, som hämtar
   originalet från `kalla_url` med samma artighet som steg 2, prövar att
   sha256 stämmer med front matter och sparar varje otolkad sida i
   `figurer` som `<sida>.png` i 144 dpi. PDF:en raderas. Har originalet
-  ändrats renderas ingenting; dokumentet konverteras om av nattkörningen.
+  ändrats renderas ingenting, och dokumentet står kvar i arbetslistan
+  tills det konverteras om.
 - **Tolkningen** står sist på sidan i `.md`, efter sidans text och
   tabeller, och börjar med kommentaren
   `<!-- tolkning: <modell>, <ÅÅÅÅ-MM-DD> -->`. Därefter, för varje figur
@@ -749,10 +750,21 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
 
   En sida som inte hade någon figur får bara kommentaren och meningen
   `Ingen figur.`
-- **`tolkade`** får sidans nummer när tolkningen är skriven.
+- **`tolkade`** får sidans nummer när tolkningen är skriven, så att
+  `tolkade` alltid är sidor ur `figurer`, i samma ordning.
+- **Datakontrollen** prövar att `figurer` och `tolkade` är `null`
+  samtidigt, att `tolkade` är sidor ur `figurer` i ordning, och att
+  varje sida i `tolkade`, och ingen annan, har precis en tolkning. I en
+  tolkad CSV ska varje tal i varje cell stå i sidans text före
+  tolkningen, och en cell får inte ha siffror som inte är ett helt tal.
+  Sidans text är då utan länkarna till tabellerna, och ett tal är ett
+  helt tal med tusentalsmellanrum: `120` står inte i `1 120`, och inget
+  tal står i `13.30` eller `2025-10-08`. På en sida som lästs med OCR
+  stäms talen av mot OCR-texten och är lika obekräftade som den.
 - **En ny konvertering** av dokumentet skriver om `.md` och
-  tabellkatalogen som vanligt; tolkningarna försvinner då, och sidorna
-  hamnar i arbetslistan igen.
+  tabellkatalogen som vanligt, också när bara källnyckeln har bytts
+  (K9); tolkningarna försvinner då, och sidorna hamnar i arbetslistan
+  igen.
 
 ## Webbplatsen
 
