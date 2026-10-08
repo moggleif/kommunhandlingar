@@ -1,0 +1,176 @@
+---
+status: proposed
+date: 2026-10-08
+decision-makers: projektägaren
+consulted: AI-agenten
+---
+
+# Tabeller utan lodräta linjer läses ur textlagrets ord och blir CSV bara när talen står i linje
+
+## Context and Problem Statement
+
+Enligt [ADR-0005](0005-konvertering-verktyg-ocr-och-kvalitet.md) är en
+tabell säker bara när ritade linjer avgränsar cellerna. Budget- och
+uppföljningstabeller har oftast bara vågräta linjer, eller inga alls, så
+just de tal som analyserna behöver mest blir ingen CSV. De står i stället
+i ett kodblock märkt `osaker-tabell`
+([#15](https://github.com/moggleif/kommunhandlingar/issues/15)).
+
+Efter första nattkörningen fanns 588 sådana block på 391 sidor i 91
+dokument, alla handlingar från nämnderna. Fullmäktiges budgetar och
+årsredovisningar hade inte kommit in än.
+
+Hur kan en tabell utan lodräta linjer bli CSV utan att ett enda tal hamnar
+i fel cell?
+
+## Decision Drivers
+
+* **Ett fel tal som ser riktigt ut är värre än ett som saknas**
+  (ADR-0005). Varje tal i en CSV ska kunna användas som data. Det gäller
+  också vilken rad och kolumn det står i.
+* **Avstämt mot textlagret.** Projektägaren valde 2026-10-06 att en
+  olinjerad tabell blir CSV bara när varje tal kan stämmas av mot
+  textlagret.
+* **Hellre märka än gissa.** Den tabell som inte går att stämma av förblir
+  osäker, som i dag.
+* **Inga nya beroenden** om det går. pdfplumber ger redan varje ord med
+  koordinater.
+
+## Considered Options
+
+* A – Egna kolumner efter talens högerkant, ur textlagrets ord
+* B – Camelot efter mellanrum, med talen avstämda mot textlagret
+* C – En layoutmodell (Docling), med cellerna avstämda mot textlagret
+* D – Som i dag: ingen CSV utan lodräta linjer
+
+## Decision Outcome
+
+Valt: A, eftersom det är det enda alternativet där varje cell byggs direkt
+ur textlagrets ord och där varje villkor för att tabellen ska godtas går
+att pröva mekaniskt. B och C ger celler som sedan måste stämmas av, och
+avstämningen blir då samma regler som A ändå.
+
+Reglerna står i
+[ARKITEKTUR](../03-ARKITEKTUR.md#tabeller-utan-lodrata-linjer). I korthet:
+
+* raderna är textlagrets ord grupperade efter överkanten,
+* ett mellanrum är antingen inom ett fält (högst en halv teckenhöjd) eller
+  mellan två fält (minst en hel), och ett mellanrum däremellan gör raden
+  oanvändbar,
+* varje rad är en etikett följd av tal eller streck,
+* talen står med högerkanten i linje (högst 2 punkter ifrån), varje
+  kolumn har minst två värden, och kolumnerna överlappar inte varandra
+  eller etiketterna,
+* rubrikraderna ovanför följer med bara om hela rubriken står i linje,
+* inget annat ord ligger inom tabellens yta.
+
+Mätningen visade också en brist i ADR-0005:s regel för tabeller med
+linjer: två rader som linjerna inte skiljer åt hamnar i samma cell, till
+exempel `2 445,1 -8 323,3 -5 878,2 143,4` eller `4 078⏎4 054`. Talen är
+rätt, men cellen är fel. I poolen gällde det 139 av 8 403 CSV:er. **En
+tabell med linjer där en cell rymmer mer än ett tal är därför inte längre
+säker.** Den prövas i stället enligt reglerna ovan, och klarar den inte
+dem blir den osäker.
+
+Poolens version höjs till 0.2.0, eftersom konverteringen skriver annat än
+förut.
+
+### Consequences
+
+* Bra, eftersom budgettabeller med talen i linje blir CSV: i fyra
+  budgetdokument 82 tabeller med 512 rader, utan ett enda fel tal.
+* Bra, eftersom inget nytt beroende behövs, och regeln är kort nog att
+  läsa i ARKITEKTUR.
+* Bra, eftersom ingen CSV längre har flera tal i samma cell.
+* Dåligt, eftersom många tabeller förblir osäkra: tabeller med en
+  kodkolumn före etiketten, med centrerade tal, med åldrar eller år som
+  etikett, eller med ett sidnummer eller en fotnot direkt under. I de fyra
+  dokumenten var 26 av 41 sidor fortfarande `tabell-osaker`.
+* Dåligt, eftersom en etikett som bryts över två rader står i CSV:n med
+  den del som står på talens rad; resten står i texten.
+* Dåligt, eftersom rubrikerna oftast inte följer med: bara 8 av 82
+  tabeller fick rubrikrader. Rubrikerna står kvar i texten ovanför.
+* Dåligt, eftersom dokument som redan finns i poolen inte ändras förrän de
+  konverteras om, och det kräver ny hämtning (ADR-0004). Hit hör de 139
+  CSV:erna med flera tal i en cell.
+* Neutralt, eftersom diagrammens axlar och teckenförklaringar, som också
+  blir talrader, förblir osäkra. De hör till
+  [#17](https://github.com/moggleif/kommunhandlingar/issues/17).
+
+### Confirmation
+
+* Fixturer i `tests/fixtures/pdf/sidor.pdf` med facit som går att räkna
+  för hand: en tabell utan lodräta linjer, en med rubrikrad, tom cell och
+  streck, en där talen inte står i linje, och en tabell med linjer där en
+  cell rymmer två tal (`tests/test_olinjerade.py`,
+  `tests/test_konvertering.py`).
+* Påhittade ord med koordinater prövar varje regel för sig: fälten, rader
+  utan etikett, tal ur linje, en kolumn med ett enda tal, text mellan
+  kolumnerna, ett ord till inom tabellens yta och för få rader.
+
+## Pros and Cons of the Options
+
+### A – Egna kolumner efter talens högerkant
+
+* Bra, eftersom varje cell är textlagrets ord, så inget tal kan delas,
+  slås ihop eller flyttas till en annan rad.
+* Bra, eftersom varje villkor prövas mekaniskt, och en tabell som inte
+  klarar alla blir osäker i stället för fel.
+* Bra, eftersom talen i budgetar och bokslut nästan alltid är
+  högerställda.
+* Dåligt, eftersom det missar tabeller som en människa ser direkt, till
+  exempel med centrerade tal eller en kodkolumn.
+
+### B – Camelot efter mellanrum, avstämt mot textlagret
+
+* Bra, eftersom det fick flest rader rätt i ADR-0005:s bredare prov:
+  959 av 1 090.
+* Dåligt, eftersom det lade en fotnotssiffra eller ett sidnummer till som
+  sista tal i 8 rader; det måste stämmas av, och avstämningen kräver
+  samma regler som A.
+* Dåligt, eftersom samma läge förstörde tabellerna med linjer, så det
+  måste veta vilken sorts tabell det är.
+* Dåligt, eftersom det är ett nytt beroende.
+
+### C – En layoutmodell, avstämd mot textlagret
+
+* Bra, eftersom den ser tabeller utan linjer som en människa gör.
+* Dåligt, eftersom Docling flyttade tal mellan rader i 26 rader i
+  ADR-0005:s prov utan att något i utdata visade det.
+* Dåligt, eftersom det kräver 6,4 GB beroenden och ungefär tio sekunder
+  per sida utan GPU.
+
+### D – Som i dag
+
+* Bra, eftersom ingenting kan bli fel.
+* Dåligt, eftersom budgetarnas tal aldrig blir data.
+
+## More Information
+
+1. **Uppdraget.** Projektägaren valde 2026-10-06 att budgettabellerna
+   skulle få ett eget steg (ADR-0005, punkt 7), och i fas 0 2026-10-08 att
+   #15 och #17 görs i var sin PR, #15 först.
+2. **Mätningen.** Fyra dokument hämtades från kungsbacka.se 2026-10-08:
+   kommunbudget 2027 och 2025 och årsredovisning 2025 och 2024. Med A
+   blev 82 tabeller med 512 rader CSV, och 41 sidor med osäker tabell
+   blev 26. Ingen rad skilde sig från samma rad i pdfplumbers text med
+   uppställning: etiketten och talen i samma ordning. Kolumnerna
+   kontrollerades för hand mot sidan i nio tabeller. I 29 slumpvis valda
+   handlingar från nämnderna (1 876 sidor) blev 6 tabeller CSV, och 50
+   sidor med osäker tabell blev 46. Där var de flesta osäkra
+   "tabellerna" diagramaxlar, innehållsförteckningar och tabeller med en
+   kodkolumn.
+3. **Varför rubrikerna kräver hela raden.** En rubrik som bara delvis
+   följer med, till exempel bara den nedre raden av en tvåradig rubrik,
+   ger en kolumn ett missvisande namn. Agenten valde att hellre lämna
+   rubriken i texten än att ta med en halv.
+4. **Varför minst två värden per kolumn.** Ett ensamt tal som står ur
+   linje skulle annars bli en egen kolumn, utan rubrik och mellan de
+   riktiga. I proven var det oftast ett sidnummer under tabellen.
+5. **Bristen i tabellerna med linjer** hittades när ett bokslut fick halva
+   tabellen som "säker", med fyra tal i en cell, och resten utan linjer.
+   Agenten bedömde att det strider mot ADR-0005:s krav att varje tal i en
+   CSV ska gå att använda som data, och att rättelsen hör hit eftersom
+   reglerna nu läser samma tabeller.
+6. **Omprövas** om en vanlig sorts tabell förblir osäker, till exempel
+   tabeller med kodkolumn; då kan reglerna utökas med fler etikettfält.
