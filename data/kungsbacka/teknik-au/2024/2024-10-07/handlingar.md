@@ -19,6 +19,8 @@ kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ej-konverterad, ocr, ok]
 tal_obekraftade: [11, 14, 15]
+figurer: null
+tolkade: null
 ---
 
 <!-- sida 1 -->

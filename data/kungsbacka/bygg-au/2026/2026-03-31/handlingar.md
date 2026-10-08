@@ -19,6 +19,8 @@ kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok]
 tal_obekraftade: []
+figurer: null
+tolkade: null
 ---
 
 <!-- sida 1 -->

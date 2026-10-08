@@ -18,7 +18,7 @@ from kommunhandlingar.konvertering.kvalitet import KVALITETER, SIDKVALITETER
 ALLTID = ("kommun", "organ", "datum", "typ", "kallnyckel", "kalla_url")
 ALLTID += ("tidigare_kallnycklar", "hamtad", "pipeline", "kvalitet")
 EJ_HAMTAD_NULL = ("sha256", "bytes", "sidor", "konverterad")
-EJ_HAMTAD_NULL += ("kvalitet_per_sida", "tal_obekraftade")
+EJ_HAMTAD_NULL += ("kvalitet_per_sida", "tal_obekraftade", "figurer", "tolkade")
 OBEKRAFTADE = {"ocr", "ej-konverterad"}
 
 

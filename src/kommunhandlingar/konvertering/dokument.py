@@ -35,6 +35,12 @@ class Resultat:
             return None
         return [nr for nr, s in enumerate(self.sidor, 1) if s.tal_obekraftade]
 
+    @property
+    def figurer(self) -> list[int] | None:
+        if self.sidor is None:
+            return None
+        return [nr for nr, s in enumerate(self.sidor, 1) if s.figur]
+
 
 def versioner(resultat: Resultat) -> list[str]:
     lasta = [f"{namn} {version(namn)}" for namn in VERKTYG]

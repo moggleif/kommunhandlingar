@@ -311,3 +311,39 @@ kunna läggas till utan kodändring.
 - **När** den visas
 - **Så** har den samma meny, med startsidan och en statussida per kommun,
   och en sidfot som länkar till repot.
+
+## K15 — Figurer märks och kan tolkas
+
+- **Givet** en sida som kan ha ett diagram, en karta, ett schema eller
+  en bild
+- **När** dokumentet konverteras
+- **Så** står sidan i dokumentets `figurer`. En logotyp eller ett vapen
+  räknas inte, och en sida för mycket är bättre än en för lite.
+- **Givet** poolen
+- **När** arbetslistan tas fram
+- **Så** står varje dokument med sidor i `figurer` som inte står i
+  `tolkade`, med de sidorna.
+- **Givet** ett dokument i arbetslistan
+- **När** dess sidor ska tolkas
+- **Så** hämtas originalet på nytt, och sidorna renderas bara om
+  originalet har samma sha256 som när det konverterades. PDF:en raderas
+  efteråt.
+- **Givet** ett diagram vars tal står utskrivna
+- **När** sidan tolkas
+- **Så** blir talen en tolkad CSV, `<sida>-<nr>.tolkad.csv`. Varje tal i
+  den står också i sidans text; ett tal som bara går att läsa av mot en
+  axel tas inte med.
+- **Givet** ett schema eller ett flöde
+- **När** sidan tolkas
+- **Så** blir det ett Mermaid-diagram i sidans text.
+- **Givet** en karta, ett foto eller ett diagram utan utskrivna tal
+- **När** sidan tolkas
+- **Så** blir det en kort beskrivning i sidans text.
+- **Givet** en tolkad sida
+- **När** tolkningen är klar
+- **Så** står sidan i `tolkade`, och tolkningen står sist på sidan, märkt
+  som tolkad, med vem som tolkade och när.
+- **Givet** en tolkad CSV med ett tal som inte står i sidans text, eller
+  på en sida som inte står i `tolkade`
+- **När** datakontrollen körs
+- **Så** faller den.

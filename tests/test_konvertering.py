@@ -47,6 +47,7 @@ class TestSidorna(unittest.TestCase):
                 "ok",  # linjer, men en cell rymmer två tal
                 "tabell-osaker",  # en upphöjd fotnotssiffra direkt efter ett tal
                 "tabell-osaker",  # linjer, men två priser i en cell
+                "ok",  # stapeldiagram med talen ovanför staplarna
             ],
         )
         self.assertEqual(self.resultat.kvalitet, "delvis")
@@ -100,6 +101,7 @@ class TestFilerSomInteGarAttOppna(unittest.TestCase):
             )
             self.assertIsNone(resultat.kvalitet_per_sida)
             self.assertIsNone(resultat.tal_obekraftade)
+            self.assertIsNone(resultat.figurer)
 
     def test_losenord_som_bara_begransar_hindrar_inte(self):
         self.assertEqual(konvertera(PDF / "begransad.pdf").kvalitet, "delvis")

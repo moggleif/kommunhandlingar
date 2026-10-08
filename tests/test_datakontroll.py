@@ -51,14 +51,14 @@ class Pool(unittest.TestCase):
     def fel(self) -> list[str]:
         return fel_i(self.data)
 
-
-class TestDatakontroll(Pool):
     def andra(self, relativ: str, **falt) -> None:
         md = self.data / relativ
         _, huvud, kropp = md.read_text(encoding="utf-8").split("---\n", 2)
         nya = frontmatter.las(f"---\n{huvud}---\n") | falt
         md.write_text(frontmatter.skriv(nya) + kropp, encoding="utf-8")
 
+
+class TestDatakontroll(Pool):
     def test_poolen_som_steg_2_skriver_den_gar_igenom(self):
         self.assertEqual(self.fel(), [])
         self.assertTrue((self.data / DOKUMENT).with_suffix(".tabeller").is_dir())
@@ -134,9 +134,8 @@ class TestTabellkontroll(Pool):
 
     def test_namn(self):
         (self.katalog / "02-1.csv").write_text("a\n")
-        self.assertEqual(
-            self.fel(), [f"{self.relativ}/02-1.csv: heter inte <sida>-<nr>.csv"]
-        )
+        namn = "<sida>-<nr>.csv eller <sida>-<nr>.tolkad.csv"
+        self.assertEqual(self.fel(), [f"{self.relativ}/02-1.csv: heter inte {namn}"])
 
     def test_lucka_i_numren(self):
         (self.katalog / "2-3.csv").write_text("a\n")
@@ -169,6 +168,30 @@ class TestTabellkontroll(Pool):
             with self.subTest(fel=fel):
                 fil.write_bytes(innehall)
                 self.assertEqual(self.fel(), [f"{self.relativ}/2-1.csv: {fel}"])
+
+    def tolka(self, csv: str, tolkade: str = "[17]", tolkning: str = "") -> None:
+        md = self.data / DOKUMENT
+        text = md.read_text(encoding="utf-8")
+        text += f"\n<!-- tolkning: modell, 2026-10-08 -->\n\n{tolkning}\n"
+        md.write_text(text, encoding="utf-8")
+        self.andra(DOKUMENT, tolkade=tolkade)
+        (self.katalog / "17-1.tolkad.csv").write_text(csv)
+
+    def test_tolkad_csv_med_talen_ur_sidans_text(self):
+        self.tolka("År,Besök\n2023,120\n2024,130\n")
+        self.assertEqual(self.fel(), [])
+
+    def test_tolkad_csv_med_ett_tal_som_inte_star_pa_sidan(self):
+        self.tolka("År,Besök\n2023,999\n", tolkning="Staplarna visar 999.")
+        self.assertEqual(
+            self.fel(),
+            [f"{self.relativ}/17-1.tolkad.csv: talet '999' står inte i sidans text"],
+        )
+
+    def test_tolkad_csv_pa_en_sida_som_inte_ar_tolkad(self):
+        self.tolka("År,Besök\n2023,120\n", tolkade="[]")
+        fel = f"{self.relativ}/17-1.tolkad.csv: sidan 17 står inte i tolkade"
+        self.assertEqual(self.fel(), [fel])
 
     def test_inte_utf_8(self):
         (self.katalog / "2-1.csv").write_bytes(b"\xff\n")
