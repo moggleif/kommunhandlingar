@@ -51,7 +51,7 @@ class TestSteg2(unittest.TestCase):
             self.klient,
             frozenset(k.kallnyckel for k in kandidater),
             lambda: TID,
-            "kommunhandlingar 0.1.0",
+            "kommunhandlingar 0.2.0",
         )
         return [behandla(steg, k) for k in kandidater]
 
@@ -66,10 +66,10 @@ class TestSteg2(unittest.TestCase):
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["konverterad"])
         falt = self.falt()
         self.assertEqual(falt["kvalitet"], "delvis")
-        self.assertEqual(falt["sidor"], "11")
+        self.assertEqual(falt["sidor"], "16")
         self.assertEqual(falt["tal_obekraftade"], "[5, 6, 7, 9, 11]")
         self.assertTrue(
-            falt["pipeline"].startswith("kommunhandlingar 0.1.0 / pdfplumber ")
+            falt["pipeline"].startswith("kommunhandlingar 0.2.0 / pdfplumber ")
         )
         csv = self.md().with_suffix(".tabeller") / "2-1.csv"
         self.assertEqual(
@@ -111,7 +111,7 @@ class TestSteg2(unittest.TestCase):
             (falt["kvalitet"], falt["fel"], falt["sha256"]),
             ("ej-hamtad", "http-404", "null"),
         )
-        self.assertEqual(falt["pipeline"], "kommunhandlingar 0.1.0")
+        self.assertEqual(falt["pipeline"], "kommunhandlingar 0.2.0")
         fore = self.md().read_text()
         self.assertEqual(
             self.kor(kandidat("s:1", "u1")), ["ej hämtad (http-404), oförändrad"]
@@ -174,7 +174,10 @@ class TestSteg2(unittest.TestCase):
         self.assertEqual(self.kor(kandidat("s:1", "u2")), ["konverterad"])
         rester = sorted(p.name for p in self.md().parent.iterdir())
         self.assertEqual(rester, ["protokoll.md", "protokoll.tabeller"])
-        self.assertEqual(sorted(p.name for p in katalog.iterdir()), ["2-1.csv"])
+        self.assertEqual(
+            sorted(p.name for p in katalog.iterdir()),
+            ["12-1.csv", "14-1.csv", "16-1.csv", "2-1.csv", "3-1.csv"],
+        )
 
     def test_bilaga_har_alltid_namn(self):
         self.klient.filer["u1"] = "sidor.pdf"

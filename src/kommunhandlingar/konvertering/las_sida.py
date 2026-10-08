@@ -1,4 +1,5 @@
-"""Krav: K5 och K6 i docs/02-KRAV.md, ADR-0005. Test: tests/test_konvertering.py.
+"""Krav: K5 och K6 i docs/02-KRAV.md, ADR-0005 och ADR-0016.
+Test: tests/test_konvertering.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
 får inga tabeller, och dess tal är aldrig bekräftade.
@@ -9,7 +10,7 @@ from dataclasses import dataclass, field
 import pypdfium2 as pdfium
 from pdfplumber.page import Page
 
-from kommunhandlingar.konvertering import ocr, tabeller
+from kommunhandlingar.konvertering import ocr, olinjerade, tabeller
 from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
 
@@ -47,16 +48,28 @@ def ej_vita(rendering: pdfium.PdfPage) -> float:
 
 
 def textsida(sida: Page) -> Sida:
-    sakra = tabeller.sakra(sida)
-    rutor = [t.bbox for t in sakra]
+    linjerade, fallda = tabeller.sakra(sida)
+    rutor = [t.bbox for t in linjerade]
+    utan_linjer = olinjerade.tabeller(sida, rutor)
+    rutor += [t.bbox for t in utan_linjer]
     utanfor = sida.filter(lambda o: not i_tabell(o, rutor))
     text, osaker = stycken(utanfor.extract_text(layout=True))
+    osaker = osaker or any(olast_siffra(c, fallda, rutor) for c in sida.chars)
+    hittade = [(t.bbox, tabeller.rader(t)) for t in linjerade]
+    hittade += [(t.bbox, t.rader) for t in utan_linjer]
+    hittade.sort(key=lambda t: (round(t[0][1]), t[0][0]))
     return Sida(
         "tabell-osaker" if osaker else "ok",
         olasliga(sida) > 0,
         text,
-        [tabeller.rader(t) for t in sakra],
+        [rader for _, rader in hittade],
     )
+
+
+def olast_siffra(tecken: dict, fallda: list[tuple], rutor: list[tuple]) -> bool:
+    """En siffra i en fälld tabell med linjer som inte lästs i någon tabell."""
+    i_fallda = any(tabeller.inom(tabeller.mitt(tecken), f) for f in fallda)
+    return tecken["text"].isdigit() and i_fallda and not i_tabell(tecken, rutor)
 
 
 def i_tabell(objekt: dict, rutor: list[tuple]) -> bool:

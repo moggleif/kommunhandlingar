@@ -421,7 +421,8 @@ källnyckeln och försöket
 ### Konvertering och kvalitet
 
 Reglerna och trösklarna står här; varför de valdes, och mätningarna bakom
-dem, står i [ADR-0005](decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md).
+dem, står i [ADR-0005](decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md)
+och, för tabellerna, [ADR-0016](decisions/0016-tabeller-utan-lodrata-linjer.md).
 Text och tabeller läses med pdfplumber. OCR görs med Tesseract och svensk
 modell på sidor renderade med pypdfium2.
 
@@ -435,7 +436,7 @@ Varje sida får en kvalitet:
 | ---------------- | ---------------------------------------------------------------- |
 | `ej-konverterad` | Sidan skulle läsas med OCR, men Tesseract kände inte igen några ord eller medelsäkerheten nådde inte tröskeln. Ingen text från sidan skrivs. |
 | `ocr`            | Sidan lästes med OCR. Den får inga CSV:er.                       |
-| `tabell-osaker`  | Textlagret är läst, men sidan har en osäker tabell.              |
+| `tabell-osaker`  | Textlagret är läst, men sidan har en osäker tabell, eller siffror ur en tabell med linjer som inte gick att läsa säkert. |
 | `ok`             | Textlagret är läst, och sidans tabeller är säkra.                |
 | `tom`            | Sidan har inga tecken och är, renderad, nästan helt vit.          |
 
@@ -486,8 +487,34 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
 - **En säker tabell** är avgränsad av ritade linjer: streck och fyllda
   rektanglar som är högst 2 punkter breda eller höga. Bredare fyllda ytor,
   som färgade rader och kolumner, är inga linjer. Tabellen har minst två
-  rader och två kolumner, och varje ord inom dess yta har sin mittpunkt i
-  en cell. En säker tabell skrivs som CSV enligt [Tabeller](#tabeller).
+  rader och två kolumner, varje ord inom dess yta har sin mittpunkt i
+  en cell, och ingen cell rymmer mer än ett tal. En cell rymmer mer än
+  ett tal när
+  - två rader i den var för sig är ett tal (med eller utan förtecken,
+    decimalpunkt, parentes eller någon av enheterna nedan), ett ensamt streck, eller
+    en etikett på ett eller två ord utan siffror följd av ett tal, som
+    `4 078⏎4 054`, `(2 100)⏎1 978`, `4 078⏎varav bidrag⏎4 054` eller
+    `Utfall 2022⏎50,1`;
+  - en rad bara består av tal och streck, med enheterna `%`, `kr`, `tkr`,
+    `mkr`, `mnkr`, `mdkr` och `st`, oavsett skiftläge, borträknade,
+    mellanslag, parenteser och snedstreck med mellanslag omkring som
+    skiljetecken, och de tillsammans inte är ett tal (en decimalpunkt
+    räknas som decimalkomma), som `65,0 70,0`, `1 234 (1 150)`,
+    `74 984 kr 80%` eller `4 078 -`; eller
+  - två fält på samma rad i cellen var för sig är ett tal eller ett
+    streck, med fälten avgränsade som i tabellerna utan lodräta linjer
+    och ett tvetydigt mellanrum räknat som en gräns, som `120   135`.
+
+  Två rader eller kolumner som linjerna inte skiljer åt hamnar annars i
+  samma cell. En sådan tabell blir ingen CSV. Står en siffra ur den
+  utanför de tabeller som lästs säkert, också när en del av den lästs
+  som en tabell utan lodräta linjer, blir sidan `tabell-osaker`, och
+  texten står kvar i sidans text.
+- **En säker tabell utan lodräta linjer** läses ur de ord som står
+  utanför tabellerna med linjer, enligt
+  [Tabeller utan lodräta linjer](#tabeller-utan-lodrata-linjer).
+- Båda sorterna skrivs som CSV enligt [Tabeller](#tabeller), numrerade
+  tillsammans efter läget på sidan.
 - **En osäker tabell** är minst tre talrader på sidan, var som helst
   utanför de säkra tabellerna. Raderna tas ur sidans text med bevarad
   uppställning, och fält skiljs åt av två eller fler mellanslag. En
@@ -524,13 +551,70 @@ läsa är `fel` `null`, och `sidor`, `kvalitet_per_sida` och
 läste dokumentet, med version: alltid pdfplumber och pdfminer.six, och
 pypdfium2 samt Tesseract och språkmodellens version när någon sida
 lästes med OCR, till exempel
-`kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 /
+`kommunhandlingar 0.2.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 /
 pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. För `ej-hamtad` har inget
 verktyg läst dokumentet, och `pipeline` är bara poolens version.
 Språkmodellens version är paketet `tesseract-ocr-swe`:s version utan epok
 och revision; går den inte att läsa ur paketsystemet står `okänd`. En fil
 som inte gick att öppna har lästs av pdfplumber och pdfminer.six.
 Versionen höjs när en ändring i konverteringen ändrar vad den skriver.
+
+### Tabeller utan lodräta linjer
+
+Hur och varför står i
+[ADR-0016](decisions/0016-tabeller-utan-lodrata-linjer.md). Reglerna
+gäller sidans ord utanför tabellerna med linjer, med koordinater i
+punkter. Ett ord delas där teckenstorleken ändras, så att en upphöjd
+fotnotssiffra inte blir en del av talet framför. En tabell som inte
+uppfyller alla regler blir ingen CSV; dess talrader står kvar i texten
+och blir en osäker tabell som förut.
+
+1. **Rader:** orden grupperas efter överkanten, med 3 punkters tolerans
+   som i pdfplumbers text med uppställning, och sorteras från vänster.
+2. **Fält:** två ord i följd hör till samma fält när mellanrummet är
+   högst en halv teckenhöjd (den högre av ordens höjd), och till olika
+   fält när det är minst en teckenhöjd. Ett mellanrum däremellan är
+   tvetydigt. Så skiljs tusentalsmellanrummet i `4 078` från mellanrummet
+   mellan två kolumner.
+3. **Tabellrad:** första fältet är en etikett med minst en bokstav, minst
+   ett fält följer, och varje följande fält är ett tal (enligt
+   definitionen ovan) eller ett ensamt streck (`-`, `−` eller `–`).
+4. **Följd:** rader i följd som är tabellrader eller talrader, där en
+   talrad har minst två fält som är tal, eller minst två ord som är tal
+   när ett mellanrum är tvetydigt. Avståndet mellan två rader i följden
+   är högst tre teckenhöjder. En tabell blir det bara om varje rad i
+   följden är en tabellrad och minst tre av dem har två tal eller fler.
+5. **Kolumner:** talen grupperas efter sin högerkant; de som ligger högst
+   2 punkter från gruppens första hör till samma kolumn. Varje kolumn har
+   minst två tal, varje streck står med högerkanten i linje med en
+   kolumn, och kolumnerna överlappar inte varandra eller etiketterna:
+   varje kolumns vänstra kant ligger till höger om föregående kolumns
+   högra kant, och den första till höger om den etikett som slutar
+   längst till höger. Består den första kolumnen bara av fyrsiffriga
+   heltal, år eller koder, är den en kolumn med etiketter, och det som
+   står till vänster är något annat, till exempel text i en spalt
+   bredvid; då blir det ingen tabell.
+6. **Rubrikrader:** raderna närmast ovanför, högst tre teckenhöjder
+   ifrån raden under, tas med från tabellen och uppåt så länge raden inte
+   är en tabellrad eller talrad, har minst ett fält i en kolumn, och
+   varje fält utom ett första står med högerkanten i linje med en kolumn
+   (högst 2 punkter ifrån) och börjar till höger om föregående kolumns
+   högra kant, eller om den etikett som slutar längst till höger för den
+   första kolumnen. Ett första fält som börjar till vänster om där den
+   etiketten slutar, och slutar före den första kolumnen, är rubrikens
+   etikett. Rubriken tas med bara om den översta
+   rubrikraden har en rubrik i varje kolumn, och om raden ovanför den är
+   en ensam etikett till vänster om kolumnerna, ligger längre bort, eller
+   inte finns; annars tas ingen rubrikrad med, så att en rubrik aldrig
+   blir halv.
+7. **Ensam:** inget annat ord på sidan, inte heller i en tabell med
+   linjer, får ha sin mittpunkt inom den rektangel som omsluter tabellens
+   ord.
+
+Varje rad i CSV:n är etiketten följd av en cell per kolumn, tom där
+raden saknar värde. En rubrikrad har sin etikett i första cellen.
+Cellerna är fältens ord med ett mellanslag emellan, som de står i
+textlagret; inget tal görs om.
 
 ### Markdown-texten
 
@@ -546,7 +630,8 @@ matter följer sidorna i ordning. Varje sida börjar med kommentaren
   rader blir en.
 - **En osäker tabell** står där den står på sidan, som ett kodblock märkt
   `osaker-tabell` med uppställningen kvar.
-- **En säker tabell** står inte i sidans text. Den står efter texten, i
+- **En säker tabell**, med eller utan lodräta linjer, står inte i sidans
+  text. Den står efter texten, i
   sidans ordning, som en länk till sin CSV (`[Tabell 3-1](<namn>.tabeller/3-1.csv)`)
   följd av tabellen i Markdown. Där är första raden tabellhuvud, eftersom
   Markdown kräver ett; `|` skrivs `\|` och en radbrytning `<br>`.

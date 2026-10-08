@@ -78,11 +78,22 @@ kunna läggas till utan kodändring.
   bredvid dokumentets `.md`, med sidnummer, och tabellen syns också i
   Markdown-texten. Varje CSV går att föra tillbaka till sitt dokument,
   och därmed till dokumentets härkomst.
+- **Givet** en tabell utan lodräta linjer, där varje rad är en etikett
+  följd av tal och talen står i linje i kolumner
+- **Så** går den att läsa säkert och blir CSV som en tabell med linjer.
+  Rubrikraderna ovanför följer med när varje rubrik står i linje med sin
+  kolumn; annars står de kvar i texten.
+- **Givet** en tabell med linjer där en cell rymmer mer än ett tal
+- **Så** går den inte att läsa säkert med linjerna som cellgränser. Det
+  som inte går att läsa som en tabell utan lodräta linjer står kvar i
+  sidans text, och står en siffra ur tabellen där märks sidan
+  `tabell-osaker`.
 - **Givet** en tabell som inte går att läsa säkert
 - **Så** märks den som osäker i stället för att sparas som om den vore riktig:
-  den blir ingen CSV, den står i Markdown märkt som osäker tabell, och
-  sidan märks `tabell-osaker`. En tabell på en sida som lästs med OCR
-  blir aldrig CSV, och sidan behåller sin OCR-märkning.
+  den blir ingen CSV, och sidan märks `tabell-osaker`. Står den i texten
+  som rader med flera tal står den i Markdown märkt som osäker tabell.
+  En tabell på en sida som lästs med OCR blir aldrig CSV, och sidan
+  behåller sin OCR-märkning.
 
 ## K6 — Det som inte gick att hämta eller konvertera syns
 

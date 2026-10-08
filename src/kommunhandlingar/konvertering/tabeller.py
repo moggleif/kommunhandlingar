@@ -1,25 +1,45 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0005 och ADR-0009. Test: tests/test_konvertering.py.
+"""Krav: K5 i docs/02-KRAV.md, ADR-0005, ADR-0009 och ADR-0016.
+Test: tests/test_konvertering.py och tests/test_celler.py.
 
 En säker tabell är avgränsad av ritade linjer: streck och fyllda
 rektanglar som är högst 2 punkter breda eller höga. Varje ord inom
-tabellens yta ska ha sin mittpunkt i en cell.
+tabellens yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer
+än ett tal.
+
+Talen i en cell känns igen vidare än `text.TAL`, med decimalpunkt,
+plustecken, parentes och enhet, eftersom ett tal för mycket bara fäller
+tabellen, medan ett tal för lite ger en cell med två tal i en CSV.
 """
 
 import csv
 import io
+import re
 
 from pdfplumber.page import Page
 from pdfplumber.table import Table
 
+from kommunhandlingar.konvertering.falt import falt, radvis
+from kommunhandlingar.konvertering.text import TAL
+
 LINJEBREDD = 2
+ENHET = r"%|kr|tkr|mkr|mnkr|mdkr|st"
+# Ett tal, med eller utan parentes och enhet.
+TALET = rf"\(?[-−–+]?\d+(?:[ \xa0]\d{{3}})*(?:[,.]\d+)?\)?(?: ?(?:{ENHET}))?"
+TALRAD = re.compile(rf"{TALET}|[-−–]", re.IGNORECASE)
+# En etikett på ett eller två ord utan siffror följd av ett tal.
+ETIKETT_OCH_TAL = re.compile(rf"[^\d\s]+(?: [^\d\s]+)? {TALET}", re.IGNORECASE)
+VARDE = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?|[-−–]")
+SKILJE = re.compile(r"\s+/\s+|[\s()]+")
 
 
-def sakra(sida: Page) -> list[Table]:
+def sakra(sida: Page) -> tuple[list[Table], list[tuple]]:
+    """De säkra tabellerna, och rutorna kring dem som fälldes för att en
+    cell rymmer flera tal."""
     linjer = sida.lines + [
         r for r in sida.rects if min(r["width"], r["height"]) <= LINJEBREDD
     ]
     if len(linjer) < 2:
-        return []
+        return [], []
     installning = {
         "vertical_strategy": "explicit",
         "horizontal_strategy": "explicit",
@@ -27,15 +47,52 @@ def sakra(sida: Page) -> list[Table]:
         "explicit_horizontal_lines": linjer,
     }
     ord_ = sida.extract_words()
-    tabeller = [t for t in sida.find_tables(installning) if ar_saker(t, ord_)]
-    return sorted(tabeller, key=lambda t: (round(t.bbox[1]), t.bbox[0]))
+    hela = [t for t in sida.find_tables(installning) if ar_hel(t, ord_)]
+    fallda = [t for t in hela if rymmer_flera_tal(t, ord_)]
+    return [t for t in hela if t not in fallda], [t.bbox for t in fallda]
 
 
-def ar_saker(tabell: Table, ord_: list[dict]) -> bool:
+def ar_hel(tabell: Table, ord_: list[dict]) -> bool:
     if len(tabell.rows) < 2 or max(len(rad.cells) for rad in tabell.rows) < 2:
         return False
     inne = [mitt(o) for o in ord_ if inom(mitt(o), tabell.bbox)]
     return all(any(inom(punkt, c) for c in tabell.cells) for punkt in inne)
+
+
+def rymmer_flera_tal(tabell: Table, ord_: list[dict]) -> bool:
+    if any(flera_tal(c) for rad in rader(tabell) for c in rad):
+        return True
+    i_cell = ([o for o in ord_ if inom(mitt(o), c)] for c in tabell.cells)
+    return any(map(flera_falt, i_cell))
+
+
+def flera_tal(cell: str) -> bool:
+    rader_ = [r.strip() for r in cell.split("\n")]
+    med_tal = sum(
+        1 for r in rader_ if TALRAD.fullmatch(r) or ETIKETT_OCH_TAL.fullmatch(r)
+    )
+    return med_tal > 1 or any(map(flera_pa_raden, rader_))
+
+
+def flera_pa_raden(rad: str) -> bool:
+    delar = [d for d in SKILJE.split(rad) if d and not re.fullmatch(ENHET, d, re.I)]
+    return (
+        len(delar) > 1
+        and all(VARDE.fullmatch(d) for d in delar)
+        and not TAL.fullmatch(" ".join(delar).replace(".", ","))
+    )
+
+
+def flera_falt(ord_: list[dict]) -> bool:
+    """Två fält på samma rad i cellen som var för sig är ett tal eller ett
+    streck."""
+    for rad in radvis(ord_):
+        if (
+            sum(1 for f in falt(rad, dela_tvetydiga=True) if TALRAD.fullmatch(f.text))
+            > 1
+        ):
+            return True
+    return False
 
 
 def mitt(objekt: dict) -> tuple[float, float]:
