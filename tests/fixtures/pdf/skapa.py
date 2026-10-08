@@ -118,6 +118,26 @@ def linjer_med_tva_tal_i_en_cell(c: Canvas) -> None:
         c.drawRightString(405, y, b)
 
 
+def fotnot_vid_talet(c: Canvas) -> None:
+    """Fotnoten 3 står upphöjd direkt efter 40, så att 40 och 3 slutar i linje."""
+    for i, (namn, a, b) in enumerate(
+        [
+            ("Intäkter", "4 078", "40"),
+            ("Kostnader", "-1 845", "12"),
+            ("Netto", "2 233", "20"),
+        ]
+    ):
+        y = 760 - 20 * i
+        c.drawString(60, y, namn)
+        c.drawRightString(260, y, a)
+        fot = c.stringWidth("3", "Helvetica", 7) if i == 0 else 0
+        c.drawRightString(360 - fot, y, b)
+    c.setFont("Helvetica", 7)
+    c.drawRightString(360, 764, "3")
+    c.setFont("Helvetica", 12)
+    c.drawString(60, 690, "3) Inklusive bidrag.")
+
+
 def skanning(c: Canvas, synligt: str = "", osynligt: str = "") -> None:
     c.drawImage(brus(), 0, 0, B, H)
     if synligt:
@@ -174,6 +194,7 @@ SIDOR = [
     olinjerad_med_huvud,
     ej_i_linje,
     linjer_med_tva_tal_i_en_cell,
+    fotnot_vid_talet,
 ]
 
 

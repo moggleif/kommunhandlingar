@@ -53,24 +53,29 @@ avstämningen blir då samma regler som A ändå.
 Reglerna står i
 [ARKITEKTUR](../03-ARKITEKTUR.md#tabeller-utan-lodrata-linjer). I korthet:
 
-* raderna är textlagrets ord grupperade efter överkanten,
+* raderna är textlagrets ord grupperade efter överkanten, och ett ord
+  delas där teckenstorleken ändras,
 * ett mellanrum är antingen inom ett fält (högst en halv teckenhöjd) eller
   mellan två fält (minst en hel), och ett mellanrum däremellan gör raden
   oanvändbar,
-* varje rad är en etikett följd av tal eller streck,
+* varje rad är en etikett följd av tal eller streck, och raderna står
+  högst tre teckenhöjder isär,
 * talen står med högerkanten i linje (högst 2 punkter ifrån), varje
-  kolumn har minst två värden, och kolumnerna överlappar inte varandra
-  eller etiketterna,
-* rubrikraderna ovanför följer med bara om hela rubriken står i linje,
-* inget annat ord ligger inom tabellens yta.
+  kolumn har minst två tal, strecken står i linje med en kolumn, och
+  kolumnerna överlappar inte varandra eller etiketterna,
+* rubrikraderna ovanför följer med bara om hela rubriken står i linje
+  och den översta raden har en rubrik i varje kolumn,
+* inget annat ord, inte heller i en tabell med linjer, ligger inom
+  tabellens yta.
 
 Mätningen visade också en brist i ADR-0005:s regel för tabeller med
 linjer: två rader som linjerna inte skiljer åt hamnar i samma cell, till
 exempel `2 445,1 -8 323,3 -5 878,2 143,4` eller `4 078⏎4 054`. Talen är
-rätt, men cellen är fel. I poolen gällde det 139 av 8 403 CSV:er. **En
+rätt, men cellen är fel. I poolen gällde det 324 av 8 403 CSV:er. **En
 tabell med linjer där en cell rymmer mer än ett tal är därför inte längre
 säker.** Den prövas i stället enligt reglerna ovan, och klarar den inte
-dem blir den osäker.
+dem blir den osäker. Det skärper ADR-0005:s definition av en säker
+tabell; resten av ADR-0005 gäller som förut.
 
 Poolens version höjs till 0.2.0, eftersom konverteringen skriver annat än
 förut.
@@ -78,20 +83,27 @@ förut.
 ### Consequences
 
 * Bra, eftersom budgettabeller med talen i linje blir CSV: i fyra
-  budgetdokument 82 tabeller med 512 rader, utan ett enda fel tal.
+  budgetdokument 98 tabeller med 612 rader, utan ett enda fel tal.
 * Bra, eftersom inget nytt beroende behövs, och regeln är kort nog att
   läsa i ARKITEKTUR.
 * Bra, eftersom ingen CSV längre har flera tal i samma cell.
 * Dåligt, eftersom många tabeller förblir osäkra: tabeller med en
   kodkolumn före etiketten, med centrerade tal, med åldrar eller år som
   etikett, eller med ett sidnummer eller en fotnot direkt under. I de fyra
-  dokumenten var 26 av 41 sidor fortfarande `tabell-osaker`.
+  dokumenten var 21 av 41 sidor fortfarande `tabell-osaker`.
 * Dåligt, eftersom en etikett som bryts över två rader står i CSV:n med
   den del som står på talens rad; resten står i texten.
-* Dåligt, eftersom rubrikerna oftast inte följer med: bara 8 av 82
+* Dåligt, eftersom rubrikerna oftast inte följer med: bara 14 av 98
   tabeller fick rubrikrader. Rubrikerna står kvar i texten ovanför.
+* Dåligt, eftersom en tabell med linjer som har flera tal i en cell nu
+  blir osäker också när en människa kan läsa den. 324 av poolens 8 403
+  CSV:er hade en sådan cell; i stickproven var nästan alla
+  sammanslagna rader, men också listor som `240304 1 st⏎240318 1 st`.
+* Neutralt, eftersom en upphöjd fotnotssiffra direkt efter ett tal
+  fortfarande står ihop med talet i texten, som förut. Den blir bara inte
+  en del av en CSV.
 * Dåligt, eftersom dokument som redan finns i poolen inte ändras förrän de
-  konverteras om, och det kräver ny hämtning (ADR-0004). Hit hör de 139
+  konverteras om, och det kräver ny hämtning (ADR-0004). Hit hör de 324
   CSV:erna med flera tal i en cell.
 * Neutralt, eftersom diagrammens axlar och teckenförklaringar, som också
   blir talrader, förblir osäkra. De hör till
@@ -101,12 +113,14 @@ förut.
 
 * Fixturer i `tests/fixtures/pdf/sidor.pdf` med facit som går att räkna
   för hand: en tabell utan lodräta linjer, en med rubrikrad, tom cell och
-  streck, en där talen inte står i linje, och en tabell med linjer där en
-  cell rymmer två tal (`tests/test_olinjerade.py`,
-  `tests/test_konvertering.py`).
+  streck, en där talen inte står i linje, en tabell med linjer där en
+  cell rymmer två tal, och en med en upphöjd fotnotssiffra direkt efter
+  ett tal (`tests/test_olinjerade.py`, `tests/test_konvertering.py`).
 * Påhittade ord med koordinater prövar varje regel för sig: fälten, rader
-  utan etikett, tal ur linje, en kolumn med ett enda tal, text mellan
-  kolumnerna, ett ord till inom tabellens yta och för få rader.
+  utan etikett, tal och streck ur linje, en kolumn med ett enda tal, text
+  mellan kolumnerna, ett tvetydigt mellanrum, radavståndet, en tabell med
+  linjer mellan två tabeller, ett ord till inom tabellens yta, för få
+  rader och varje regel för rubrikraderna.
 
 ## Pros and Cons of the Options
 
@@ -152,12 +166,12 @@ förut.
    #15 och #17 görs i var sin PR, #15 först.
 2. **Mätningen.** Fyra dokument hämtades från kungsbacka.se 2026-10-08:
    kommunbudget 2027 och 2025 och årsredovisning 2025 och 2024. Med A
-   blev 82 tabeller med 512 rader CSV, och 41 sidor med osäker tabell
-   blev 26. Ingen rad skilde sig från samma rad i pdfplumbers text med
+   blev 98 tabeller med 612 rader CSV, och 41 sidor med osäker tabell
+   blev 21. Ingen rad skilde sig från samma rad i pdfplumbers text med
    uppställning: etiketten och talen i samma ordning. Kolumnerna
    kontrollerades för hand mot sidan i nio tabeller. I 29 slumpvis valda
-   handlingar från nämnderna (1 876 sidor) blev 6 tabeller CSV, och 50
-   sidor med osäker tabell blev 46. Där var de flesta osäkra
+   handlingar från nämnderna (1 876 sidor) blev 6 tabeller med 61 rader
+   CSV, och 53 sidor med osäker tabell blev 49. Där var de flesta osäkra
    "tabellerna" diagramaxlar, innehållsförteckningar och tabeller med en
    kodkolumn.
 3. **Varför rubrikerna kräver hela raden.** En rubrik som bara delvis
@@ -172,5 +186,16 @@ förut.
    Agenten bedömde att det strider mot ADR-0005:s krav att varje tal i en
    CSV ska gå att använda som data, och att rättelsen hör hit eftersom
    reglerna nu läser samma tabeller.
-6. **Omprövas** om en vanlig sorts tabell förblir osäker, till exempel
+6. **Granskningen (fas 6)** hittade fyra fall där en cell kunde bli fel:
+   en upphöjd fotnotssiffra som pdfplumber lade ihop med talet (`40` och
+   `3` blev `403`), två tabeller som slogs ihop över en tabell med linjer
+   emellan, ett centrerat streck som blev en egen kolumn, och celler med
+   flera tal som den första regeln för tabeller med linjer släppte igenom
+   (`65 %⏎70 %`, `4 078⏎-`). Orden delas därför där teckenstorleken
+   ändras, avståndet mellan raderna begränsas, tabellerna med linjer
+   räknas med när tabellens yta prövas, strecken måste stå i en kolumn med
+   tal, och en cell prövas rad för rad. Granskningen ledde också till att
+   den översta rubrikraden måste ha en rubrik i varje kolumn, så att en
+   titel eller en enhet för hela tabellen inte blir en kolumns rubrik.
+7. **Omprövas** om en vanlig sorts tabell förblir osäker, till exempel
    tabeller med kodkolumn; då kan reglerna utökas med fler etikettfält.

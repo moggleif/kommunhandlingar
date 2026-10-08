@@ -19,6 +19,7 @@ RADTOLERANS = 3
 I_LINJE = 2
 SAMMA_FALT = 0.5
 NYTT_FALT = 1.0
+RADMELLANRUM = 3
 BOKSTAV = re.compile(r"[^\W\d_]")
 STRECK = re.compile(r"[-−–]")
 
@@ -31,26 +32,38 @@ class Falt:
 
 
 @dataclass(frozen=True)
+class Rad:
+    ord: list[dict]
+    falt: list[Falt] | None
+
+    @property
+    def hojd(self) -> float:
+        return max(o["bottom"] - o["top"] for o in self.ord)
+
+
+@dataclass(frozen=True)
 class Tabell:
     bbox: tuple[float, float, float, float]
     rader: list[list[str]]
     antal_ord: int
 
 
-def tabeller(sida: Page) -> list[Tabell]:
-    ord_ = sida.extract_words()
-    rader_ = [
-        sorted(r, key=lambda o: o["x0"])
-        for r in cluster_objects(ord_, "top", RADTOLERANS)
-    ]
-    falt_ = [falt(rad) for rad in rader_]
-    hittade = (tabell(rader_, falt_, foljd) for foljd in foljder(falt_, rader_))
-    return [t for t in hittade if t and ensam(t, ord_)]
+def tabeller(sida: Page, upptagna: list[tuple]) -> list[Tabell]:
+    alla = sida.extract_words(extra_attrs=["size"])
+    fria = [o for o in alla if not any(inom(mitt(o), r) for r in upptagna)]
+    rader_ = [rad(r) for r in cluster_objects(fria, "top", RADTOLERANS)]
+    hittade = (tabell(rader_, foljd) for foljd in foljder(rader_))
+    return [t for t in hittade if t and ensam(t, alla)]
 
 
-def falt(rad: list[dict]) -> list[Falt] | None:
-    grupper = [[rad[0]]]
-    for vanster, hoger in pairwise(rad):
+def rad(ord_: list[dict]) -> Rad:
+    ord_ = sorted(ord_, key=lambda o: o["x0"])
+    return Rad(ord_, falt(ord_))
+
+
+def falt(ord_: list[dict]) -> list[Falt] | None:
+    grupper = [[ord_[0]]]
+    for vanster, hoger in pairwise(ord_):
         mellanrum = hoger["x0"] - vanster["x1"]
         hojd = max(o["bottom"] - o["top"] for o in (vanster, hoger))
         if mellanrum <= SAMMA_FALT * hojd:
@@ -68,51 +81,55 @@ def ar_tal(f: Falt) -> bool:
     return TAL.fullmatch(f.text) is not None
 
 
-def ar_cell(f: Falt) -> bool:
-    return ar_tal(f) or STRECK.fullmatch(f.text) is not None
-
-
 def uppdela(falt_: list[Falt] | None) -> tuple[Falt, list[Falt]] | None:
     if not falt_ or len(falt_) < 2 or not BOKSTAV.search(falt_[0].text):
         return None
-    etikett, *tal = falt_
-    return (etikett, tal) if all(map(ar_cell, tal)) else None
+    etikett, *celler = falt_
+    ok = all(ar_tal(f) or STRECK.fullmatch(f.text) for f in celler)
+    return (etikett, celler) if ok else None
 
 
 def talrad(falt_: list[Falt]) -> bool:
     return sum(map(ar_tal, falt_)) >= 2
 
 
-def har_tal(falt_: list[Falt] | None, rad: list[dict]) -> bool:
-    if falt_ is None:
-        return sum(1 for o in rad if TAL.fullmatch(o["text"])) >= 2
-    return uppdela(falt_) is not None or talrad(falt_)
+def har_tal(r: Rad) -> bool:
+    if r.falt is None:
+        return sum(1 for o in r.ord if TAL.fullmatch(o["text"])) >= 2
+    return uppdela(r.falt) is not None or talrad(r.falt)
 
 
-def foljder(falt_: list, rader_: list) -> list[tuple[int, int]]:
-    ut, borjan = [], None
-    for i, (f, rad) in enumerate(zip(falt_ + [[]], rader_ + [[]], strict=True)):
-        if rad and har_tal(f, rad):
-            borjan = i if borjan is None else borjan
-        elif borjan is not None:
-            ut.append((borjan, i))
-            borjan = None
+def nara(ovre: Rad, undre: Rad) -> bool:
+    mellanrum = min(o["top"] for o in undre.ord) - max(o["bottom"] for o in ovre.ord)
+    return mellanrum <= RADMELLANRUM * max(ovre.hojd, undre.hojd)
+
+
+def foljder(rader_: list[Rad]) -> list[tuple[int, int]]:
+    ut: list[tuple[int, int]] = []
+    for i, r in enumerate(rader_):
+        if not har_tal(r):
+            continue
+        if ut and ut[-1][1] == i and nara(rader_[i - 1], r):
+            ut[-1] = (ut[-1][0], i + 1)
+        else:
+            ut.append((i, i + 1))
     return ut
 
 
-def tabell(rader_: list, falt_: list, foljd: tuple[int, int]) -> Tabell | None:
+def tabell(rader_: list[Rad], foljd: tuple[int, int]) -> Tabell | None:
     borjan, slut = foljd
-    delar = [uppdela(f) for f in falt_[borjan:slut]]
-    if None in delar or sum(talrad(d[1]) for d in delar) < MINSTA_FOLJD:
+    delar = [uppdela(r.falt) for r in rader_[borjan:slut]]
+    if None in delar or sum(talrad(c) for _, c in delar) < MINSTA_FOLJD:
         return None
-    kolumner_ = kolumner([f for _, tal in delar for f in tal])
+    kolumner_ = kolumner([f for _, c in delar for f in c if ar_tal(f)])
     if kolumner_ is None:
         return None
-    kropp = [kroppsrad(e, tal, kolumner_) for e, tal in delar]
-    if None in kropp or not atskilda(kolumner_, max(e.x1 for e, _ in delar)):
+    etiketternas_slut = max(e.x1 for e, _ in delar)
+    kropp = [kroppsrad(e, c, kolumner_) for e, c in delar]
+    if None in kropp or not atskilda(kolumner_, etiketternas_slut):
         return None
-    huvud = huvudet(list(zip(falt_[:borjan], rader_[:borjan], strict=True)), kolumner_)
-    ord_ = [o for rad in rader_[borjan - len(huvud) : slut] for o in rad]
+    huvud = huvudet(rader_[: borjan + 1], kolumner_, etiketternas_slut)
+    ord_ = [o for r in rader_[borjan - len(huvud) : slut] for o in r.ord]
     return Tabell(ram(ord_), huvud + kropp, len(ord_))
 
 
@@ -135,14 +152,14 @@ def kolumn(f: Falt, kolumner_: list[tuple[float, float]]) -> int | None:
     return traffar[0] if len(traffar) == 1 else None
 
 
-def kroppsrad(etikett: Falt, tal: list[Falt], kolumner_: list) -> list[str] | None:
-    rad = [etikett.text] + [""] * len(kolumner_)
-    for f in tal:
+def kroppsrad(etikett: Falt, celler: list[Falt], kolumner_: list) -> list[str] | None:
+    rad_ = [etikett.text] + [""] * len(kolumner_)
+    for f in celler:
         i = kolumn(f, kolumner_)
-        if i is None or rad[i + 1]:
+        if i is None:
             return None
-        rad[i + 1] = f.text
-    return rad
+        rad_[i + 1] = f.text
+    return rad_
 
 
 def atskilda(kolumner_: list[tuple[float, float]], etiketternas_slut: float) -> bool:
@@ -150,29 +167,35 @@ def atskilda(kolumner_: list[tuple[float, float]], etiketternas_slut: float) -> 
     return all(x0 > grans for (x0, _), grans in zip(kolumner_, granser, strict=True))
 
 
-def huvudet(ovanfor: list, kolumner_: list) -> list[list[str]]:
+def huvudet(rader_: list[Rad], kolumner_: list, etiketternas_slut: float) -> list:
     huvud: list[list[str]] = []
-    for falt_, rad_ in reversed(ovanfor):
-        rad = None if har_tal(falt_, rad_) else huvudrad(falt_, kolumner_)
-        if rad is None:
-            return huvud if bara_etikett(falt_, kolumner_) else []
-        huvud.insert(0, rad)
-    return huvud
+    for ovre, undre in reversed(list(pairwise(rader_))):
+        if not nara(ovre, undre):
+            break
+        rubrik = (
+            None if har_tal(ovre) else huvudrad(ovre.falt, kolumner_, etiketternas_slut)
+        )
+        if rubrik is None:
+            if not bara_etikett(ovre.falt, kolumner_):
+                return []
+            break
+        huvud.insert(0, rubrik)
+    return huvud if not huvud or all(huvud[0][1:]) else []
 
 
-def huvudrad(falt_: list[Falt] | None, kolumner_: list) -> list[str] | None:
+def huvudrad(falt_: list[Falt] | None, kolumner_: list, etiketternas_slut: float):
     if not falt_:
         return None
-    rad = [""] * (len(kolumner_) + 1)
+    rubrik = [""] * (len(kolumner_) + 1)
     if kolumn(falt_[0], kolumner_) is None and falt_[0].x1 < kolumner_[0][0]:
-        rad[0], falt_ = falt_[0].text, falt_[1:]
-    granser = [float("-inf")] + [x1 for _, x1 in kolumner_]
+        rubrik[0], falt_ = falt_[0].text, falt_[1:]
+    granser = [etiketternas_slut] + [x1 for _, x1 in kolumner_]
     for f in falt_:
         i = kolumn(f, kolumner_)
-        if i is None or rad[i + 1] or f.x0 <= granser[i]:
+        if i is None or f.x0 <= granser[i]:
             return None
-        rad[i + 1] = f.text
-    return rad if any(rad[1:]) else None
+        rubrik[i + 1] = f.text
+    return rubrik if any(rubrik[1:]) else None
 
 
 def bara_etikett(falt_: list[Falt] | None, kolumner_: list) -> bool:
@@ -188,6 +211,5 @@ def ram(ord_: list[dict]) -> tuple[float, float, float, float]:
     )
 
 
-def ensam(t: Tabell, ord_: list[dict]) -> bool:
-    """Inget annat ord än tabellens får ha sin mittpunkt inom tabellens ram."""
-    return sum(1 for o in ord_ if inom(mitt(o), t.bbox)) == t.antal_ord
+def ensam(t: Tabell, alla: list[dict]) -> bool:
+    return sum(1 for o in alla if inom(mitt(o), t.bbox)) == t.antal_ord

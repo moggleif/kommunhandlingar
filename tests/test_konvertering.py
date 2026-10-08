@@ -45,6 +45,7 @@ class TestSidorna(unittest.TestCase):
                 "ok",  # tabell utan lodräta linjer med rubrikrad
                 "tabell-osaker",  # tabell utan lodräta linjer, talen inte i linje
                 "ok",  # linjer, men en cell rymmer två tal
+                "tabell-osaker",  # en upphöjd fotnotssiffra direkt efter ett tal
             ],
         )
         self.assertEqual(self.resultat.kvalitet, "delvis")
@@ -122,7 +123,17 @@ class TestRegler(unittest.TestCase):
         self.assertFalse(ar_talrad("Belopp 2027 och 2028"))
 
     def test_en_cell_med_flera_tal(self):
-        for cell in ("4 078\n4 054", "2025\n14", "65,0 70,0 75,0", "1 2"):
+        for cell in (
+            "4 078\n4 054",
+            "2025\n14",
+            "65,0 70,0 75,0",
+            "1 2",
+            "65 %\n70 %",
+            "4 078\n-",
+            "4 078\n4 054 tkr",
+            "+5,0\n-2,0",
+            "4.078 4.054",
+        ):
             self.assertTrue(flera_tal(cell), cell)
         for cell in (
             "4 078",

@@ -17,7 +17,9 @@ from pdfplumber.table import Table
 from kommunhandlingar.konvertering.text import TAL
 
 LINJEBREDD = 2
-SIFFERGRUPP = re.compile(r"[-−–]?\d+(?:,\d+)?%?")
+SIFFERGRUPP = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?")
+# En rad i en cell som är ett tal, med eller utan en kort enhet, eller ett streck.
+TALRAD = re.compile(r"[-−–+]?\d[\d  .,]*(?: ?%| [a-zåäö]{1,4})?|[-−–]")
 
 
 def sakra(sida: Page) -> list[Table]:
@@ -33,8 +35,7 @@ def sakra(sida: Page) -> list[Table]:
         "explicit_horizontal_lines": linjer,
     }
     ord_ = sida.extract_words()
-    tabeller = [t for t in sida.find_tables(installning) if ar_saker(t, ord_)]
-    return sorted(tabeller, key=lambda t: (round(t.bbox[1]), t.bbox[0]))
+    return [t for t in sida.find_tables(installning) if ar_saker(t, ord_)]
 
 
 def ar_saker(tabell: Table, ord_: list[dict]) -> bool:
@@ -47,7 +48,10 @@ def ar_saker(tabell: Table, ord_: list[dict]) -> bool:
 
 
 def flera_tal(cell: str) -> bool:
-    delar = cell.split()
+    rader_ = [r.strip() for r in cell.split("\n")]
+    if sum(1 for r in rader_ if TALRAD.fullmatch(r)) > 1:
+        return True
+    delar = [d for d in cell.split() if d != "%"]
     return (
         len(delar) > 1
         and all(SIFFERGRUPP.fullmatch(d) for d in delar)

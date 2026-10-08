@@ -48,10 +48,14 @@ def ej_vita(rendering: pdfium.PdfPage) -> float:
 
 
 def textsida(sida: Page) -> Sida:
-    hittade = [(t.bbox, tabeller.rader(t)) for t in tabeller.sakra(sida)]
-    utanfor = utan_tabeller(sida, hittade)
-    hittade += [(t.bbox, t.rader) for t in olinjerade.tabeller(utanfor)]
-    text, osaker = stycken(utan_tabeller(sida, hittade).extract_text(layout=True))
+    linjerade = tabeller.sakra(sida)
+    rutor = [t.bbox for t in linjerade]
+    utan_linjer = olinjerade.tabeller(sida, rutor)
+    rutor += [t.bbox for t in utan_linjer]
+    utanfor = sida.filter(lambda o: not i_tabell(o, rutor))
+    text, osaker = stycken(utanfor.extract_text(layout=True))
+    hittade = [(t.bbox, tabeller.rader(t)) for t in linjerade]
+    hittade += [(t.bbox, t.rader) for t in utan_linjer]
     hittade.sort(key=lambda t: (round(t[0][1]), t[0][0]))
     return Sida(
         "tabell-osaker" if osaker else "ok",
@@ -59,11 +63,6 @@ def textsida(sida: Page) -> Sida:
         text,
         [rader for _, rader in hittade],
     )
-
-
-def utan_tabeller(sida: Page, hittade: list[tuple]) -> Page:
-    rutor = [ruta for ruta, _ in hittade]
-    return sida.filter(lambda o: not i_tabell(o, rutor))
 
 
 def i_tabell(objekt: dict, rutor: list[tuple]) -> bool:

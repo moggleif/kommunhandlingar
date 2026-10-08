@@ -421,7 +421,8 @@ källnyckeln och försöket
 ### Konvertering och kvalitet
 
 Reglerna och trösklarna står här; varför de valdes, och mätningarna bakom
-dem, står i [ADR-0005](decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md).
+dem, står i [ADR-0005](decisions/0005-konvertering-verktyg-ocr-och-kvalitet.md)
+och, för tabellerna, [ADR-0016](decisions/0016-tabeller-utan-lodrata-linjer.md).
 Text och tabeller läses med pdfplumber. OCR görs med Tesseract och svensk
 modell på sidor renderade med pypdfium2.
 
@@ -487,12 +488,13 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   rektanglar som är högst 2 punkter breda eller höga. Bredare fyllda ytor,
   som färgade rader och kolumner, är inga linjer. Tabellen har minst två
   rader och två kolumner, varje ord inom dess yta har sin mittpunkt i
-  en cell, och ingen cell rymmer mer än ett tal: en cell vars delar,
-  skilda av mellanslag eller radbrytningar, alla är siffergrupper (med
-  eventuellt minustecken, decimalkomma och procenttecken) men som
-  tillsammans inte är ett tal, som `4 078⏎4 054` eller `65,0 70,0`, gör
-  tabellen osäker. Två rader som linjerna inte skiljer åt hamnar annars
-  i samma cell.
+  en cell, och ingen cell rymmer mer än ett tal. En cell rymmer mer än
+  ett tal när minst två av dess rader var för sig är ett tal (med eller
+  utan förtecken, procenttecken eller en enhet på högst fyra bokstäver)
+  eller ett ensamt streck, som `4 078⏎4 054` eller `4 078⏎-`, eller när
+  den på en rad har flera siffergrupper som tillsammans inte är ett tal,
+  som `65,0 70,0`. Två rader som linjerna inte skiljer åt hamnar annars i
+  samma cell.
 - **En säker tabell utan lodräta linjer** läses ur de ord som står
   utanför tabellerna med linjer, enligt
   [Tabeller utan lodräta linjer](#tabeller-utan-lodrata-linjer).
@@ -547,45 +549,50 @@ Versionen höjs när en ändring i konverteringen ändrar vad den skriver.
 Hur och varför står i
 [ADR-0016](decisions/0016-tabeller-utan-lodrata-linjer.md). Reglerna
 gäller sidans ord utanför tabellerna med linjer, med koordinater i
-punkter. En tabell som inte uppfyller alla regler blir ingen CSV; dess
-talrader står kvar i texten och blir en osäker tabell som förut.
+punkter. Ett ord delas där teckenstorleken ändras, så att en upphöjd
+fotnotssiffra inte blir en del av talet framför. En tabell som inte
+uppfyller alla regler blir ingen CSV; dess talrader står kvar i texten
+och blir en osäker tabell som förut.
 
 1. **Rader:** orden grupperas efter överkanten, med 3 punkters tolerans
    som i pdfplumbers text med uppställning, och sorteras från vänster.
 2. **Fält:** två ord i följd hör till samma fält när mellanrummet är
    högst en halv teckenhöjd (den högre av ordens höjd), och till olika
    fält när det är minst en teckenhöjd. Ett mellanrum däremellan är
-   tvetydigt, och raden kan inte ingå i en tabell. Så skiljs
-   tusentalsmellanrummet i `4 078` från mellanrummet mellan två kolumner.
+   tvetydigt. Så skiljs tusentalsmellanrummet i `4 078` från mellanrummet
+   mellan två kolumner.
 3. **Tabellrad:** första fältet är en etikett med minst en bokstav, och
    varje följande fält är ett tal (enligt definitionen ovan) eller ett
    ensamt streck (`-`, `−` eller `–`).
-4. **Följd:** rader i följd som är tabellrader eller talrader (minst
-   två fält som är tal, eller minst två ord som är tal när ett mellanrum
-   är tvetydigt). En
-   tabell blir det bara om varje rad i följden är en tabellrad och
-   minst tre av dem har två tal eller fler.
-5. **Kolumner:** talen och strecken grupperas efter sin högerkant; de
-   som ligger högst 2 punkter från gruppens första hör till samma
-   kolumn. Varje kolumn har minst två värden, ingen rad har två värden i
-   samma kolumn, och kolumnerna överlappar inte varandra eller
-   etiketterna: varje kolumns vänstra kant ligger till höger om
-   föregående kolumns högra kant, och den första till höger om den
-   längsta etiketten.
-6. **Rubrikrader:** raderna närmast ovanför, som inte är tabellrader
-   eller talrader, tas med från tabellen och uppåt så länge raden har
-   minst ett fält i en kolumn och varje fält utom ett första står med
-   högerkanten i linje med en kolumn (högst 2 punkter ifrån), till höger
-   om föregående kolumns högra kant, och ett eventuellt första fält
-   slutar före den första kolumnen. Rubriken
-   tas med bara om raden ovanför den sista rubrikraden är en ensam
-   etikett till vänster om kolumnerna, eller om det inte finns någon;
-   annars tas ingen rubrikrad med, så att en rubrik aldrig blir halv.
-7. **Ensam:** inget annat ord på sidan får ha sin mittpunkt inom den
-   rektangel som omsluter tabellens ord.
+4. **Följd:** rader i följd som är tabellrader eller talrader, där en
+   talrad har minst två fält som är tal, eller minst två ord som är tal
+   när ett mellanrum är tvetydigt. Avståndet mellan två rader i följden
+   är högst tre teckenhöjder. En tabell blir det bara om varje rad i
+   följden är en tabellrad och minst tre av dem har två tal eller fler.
+5. **Kolumner:** talen grupperas efter sin högerkant; de som ligger högst
+   2 punkter från gruppens första hör till samma kolumn. Varje kolumn har
+   minst två tal, varje streck står med högerkanten i linje med en
+   kolumn, och kolumnerna överlappar inte varandra eller etiketterna:
+   varje kolumns vänstra kant ligger till höger om föregående kolumns
+   högra kant, och den första till höger om den längsta etiketten.
+6. **Rubrikrader:** raderna närmast ovanför, högst tre teckenhöjder
+   ifrån raden under, tas med från tabellen och uppåt så länge raden inte
+   är en tabellrad eller talrad, har minst ett fält i en kolumn, och
+   varje fält utom ett första står med högerkanten i linje med en kolumn
+   (högst 2 punkter ifrån) och börjar till höger om föregående kolumns
+   högra kant, eller om den längsta etiketten för den första kolumnen. Ett
+   första fält som inte står i någon kolumn är rubrikens etikett och
+   slutar före den första kolumnen. Rubriken tas med bara om den översta
+   rubrikraden har en rubrik i varje kolumn, och om raden ovanför den är
+   en ensam etikett till vänster om kolumnerna, ligger längre bort, eller
+   inte finns; annars tas ingen rubrikrad med, så att en rubrik aldrig
+   blir halv.
+7. **Ensam:** inget annat ord på sidan, inte heller i en tabell med
+   linjer, får ha sin mittpunkt inom den rektangel som omsluter tabellens
+   ord.
 
 Varje rad i CSV:n är etiketten följd av en cell per kolumn, tom där
-raden saknar värde. En rubrikrad har sin första text i första cellen.
+raden saknar värde. En rubrikrad har sin etikett i första cellen.
 Cellerna är fältens ord med ett mellanslag emellan, som de står i
 textlagret; inget tal görs om.
 
