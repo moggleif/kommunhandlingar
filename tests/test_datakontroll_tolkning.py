@@ -38,7 +38,8 @@ class TestTolkning(Pool):
     def test_siffror_som_inte_ar_ett_helt_tal(self):
         self.tolka("År,Besök\n2023,120.5\n")
         fel = f"{TABELLER}/17-1.tolkad.csv: cellen '120.5' har siffror som inte är"
-        self.assertEqual(self.fel(), [fel + " ett helt tal"])
+        fel += " ett helt tal och står inte ordagrant i sidans text"
+        self.assertEqual(self.fel(), [fel])
 
     def test_tolkad_csv_pa_en_sida_som_inte_ar_tolkad(self):
         self.tolka("År,Besök\n2023,120\n", tolkade="[]")
@@ -62,8 +63,18 @@ class TestTolkning(Pool):
 
     def test_en_sida_till_i_tolkningen(self):
         self.tolka("År,Besök\n2023,999\n", tolkning="<!-- sida 17 -->\n999")
-        fel = f"{DOKUMENT}: sidorna står inte en gång var och i ordning"
-        self.assertEqual(self.fel()[0], fel)
+        self.assertEqual(
+            self.fel(),
+            [
+                f"{DOKUMENT}: sidorna står inte en gång var och i ordning",
+                f"{TABELLER}/17-1.tolkad.csv: talet '2023' står inte i sidans text",
+            ],
+        )
+
+    def test_figurer_med_en_sida_som_inte_finns(self):
+        self.andra(DOKUMENT, figurer="[17, 99]", tolkade="[99]")
+        fel = f"{DOKUMENT}: figurer har sidor som inte finns i dokumentet"
+        self.assertEqual(self.fel(), [fel])
 
     def test_tolkade_utanfor_figurer(self):
         self.andra(DOKUMENT, tolkade="[3]")
@@ -95,6 +106,12 @@ class TestSidansTal(unittest.TestCase):
     def test_en_etikett_som_star_ordagrant(self):
         self.assertTrue(ordagrant("65–79 år", "Åldrar 65–79 år och 80–"))
         self.assertFalse(ordagrant("5–79", "Åldrar 65–79 år"))
+        self.assertFalse(ordagrant("5–3", "ökning 2,5–3,5 procent"))
+        self.assertFalse(ordagrant("65–79", "65–79,5"))
+
+    def test_inga_delar_av_tal_eller_ord(self):
+        text = "covid-19, ADR-0017, K15, bilaga 3a och spannet 1 250–1 300"
+        self.assertEqual(TALEN.findall(text), [])
 
 
 if __name__ == "__main__":

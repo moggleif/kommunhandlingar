@@ -123,6 +123,8 @@ Datakontrollerna, i körningen och i CI
 - Front matter hänger ihop: `ej-hamtad` har ett `fel` och inga
   originalfält, `sidor` stämmer med `kvalitet_per_sida`, och varje sida
   som är `ocr` eller `ej-konverterad` står i `tal_obekraftade`.
+- Figurerna och tolkningarna hänger ihop, och varje tal i en tolkad CSV
+  står i sidans text, enligt [Tolkade figurer](#tolkade-figurer).
 
 Bara i körningen, eftersom en vanlig PR ändrar kod och dokument: att
 körningen bara har ändrat filer under `data/`.
@@ -179,12 +181,14 @@ src/kommunhandlingar/
   frontmatter.py   front matter läses och skrivs
   tidsbudget.py    budgetens hårda gräns, som inte avbryter en skrivning
   datakontroll*.py datakontrollerna av allt under data/ (K11)
+  tolkning.py      arbetslistan och renderingen av figurerna (K15)
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
   webbplats/       statussidorna och startsidan för GitHub Pages
 kommuner/<kommun>.toml
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>-<nr>.csv
+data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>-<nr>.tolkad.csv
 scripts/          verktyg för utvecklingen, t.ex. storlekskontrollen
 tests/fixtures/
 ```
@@ -753,15 +757,17 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
 - **`tolkade`** får sidans nummer när tolkningen är skriven, så att
   `tolkade` alltid är sidor ur `figurer`, i samma ordning.
 - **Datakontrollen** prövar att `figurer` och `tolkade` är `null`
-  samtidigt, att `tolkade` är sidor ur `figurer` i ordning, och att
-  varje sida i `tolkade`, och ingen annan, har precis en tolkning. Har
+  samtidigt, att `figurer` bara har sidor som finns i dokumentet, att
+  `tolkade` är sidor ur `figurer` i ordning, och att varje sida i
+  `tolkade`, och ingen annan, har precis en tolkning. Har
   dokumentet en tolkning ska sidkommentarerna stå en gång var, från 1
-  till `sidor`. I en tolkad CSV ska varje tal i varje cell stå i sidans
+  till sista sidan. I en tolkad CSV ska varje tal i varje cell stå i sidans
   text före tolkningen, och en cell med siffror som inte är ett helt
   tal, som `65–79 år` eller `2022-23`, ska stå ordagrant där. Sidans
   text är då utan länkarna till tabellerna, och ett tal är ett helt tal
-  med tusentalsmellanrum: `120` står inte i `1 120`, och inget tal står
-  i `13.30` eller `2025-10-08`. Tal som står med ett enda mellanslag
+  med tusentalsmellanrum: `120` står inte i `1 120` eller `1 250–1 120`,
+  och inget tal står i `13.30`, `2025-10-08`, `K15` eller `3a`. En cell
+  som står ordagrant har samma gränser, så `5–3` står inte i `2,5–3,5`. Tal som står med ett enda mellanslag
   emellan, som axeln `0 100 200`, läses därför ihop, och ett sådant tal
   går inte att ta med för sig. På en sida som lästs med OCR stäms talen
   av mot OCR-texten och är lika obekräftade som den. Att texten före

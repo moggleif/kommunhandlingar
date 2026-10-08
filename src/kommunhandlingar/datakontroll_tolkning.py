@@ -17,11 +17,14 @@ TOLKNING = "<!-- tolkning:"
 SIDA = re.compile(r"<!-- sida (\d+) -->")
 LANK = re.compile(r"\[[^\]]*\]\([^)]*\)")
 SIFFRA = re.compile(r"\d")
-# Ett helt tal, med tusentalsmellanrum: `120` står inte i `1 120`, och
-# inget tal står i `13.30` eller `2025-10-08`.
+# Ett helt tal, med tusentalsmellanrum: `120` står inte i `1 120` eller
+# `1 250–1 120`, och inget tal står i `13.30`, `2025-10-08` eller `K15`.
+FORE = r"(?<![\w,.:])(?<!\w[-−–])" + "".join(
+    rf"(?<!\d[-−–]\d{{{n}}}[ \xa0])" for n in (1, 2, 3)
+)
+EFTER = r"(?![.,:−–-]?\d)(?!\w)"
 TALEN = re.compile(
-    r"(?<![\d,.:])(?<!\d[-−–])[-−–]?(?:\d{1,3}(?:[ \xa0]\d{3})+|\d+)(?:,\d+)?"
-    r"(?: ?%)?(?![.,:−–-]?\d)"
+    rf"{FORE}[-−–]?(?>\d{{1,3}}(?:[ \xa0]\d{{3}})+|\d+)(?:,\d+)?(?: ?%)?{EFTER}"
 )
 
 
@@ -32,19 +35,21 @@ def dokumentfel(falt: dict[str, str], text: str) -> list[str]:
     sidor = frontmatter.lista(tolkade)
     if sidor != [s for s in frontmatter.lista(figurer) if s in sidor]:
         return ["tolkade är inte sidor ur figurer, i ordning"]
-    if sidor and not i_ordning(SIDA.findall(text), falt["sidor"]):
+    if figurer == "null":
+        return []
+    antal = len(frontmatter.lista(falt["kvalitet_per_sida"]))
+    finns = [str(n) for n in range(1, antal + 1)]
+    if any(s not in finns for s in frontmatter.lista(figurer)):
+        return ["figurer har sidor som inte finns i dokumentet"]
+    if sidor and SIDA.findall(text) != finns:
         return ["sidorna står inte en gång var och i ordning"]
-    return [
-        f"sidan {nr} har {d.count(TOLKNING)} tolkningar men ska ha {int(nr in sidor)}"
-        for nr, d in sidorna(text).items()
-        if d.count(TOLKNING) != int(nr in sidor)
-    ]
+    return [fel for nr, d in sidorna(text).items() for fel in antalfel(nr, d, sidor)]
 
 
-def i_ordning(nummer: list[str], antal: str) -> bool:
+def antalfel(nr: str, sida: str, tolkade: list[str]) -> list[str]:
+    antal, ska = sida.count(TOLKNING), 1 if nr in tolkade else 0
     return (
-        nummer == [str(n) for n in range(1, len(nummer) + 1)]
-        and str(len(nummer)) == antal
+        [f"sidan {nr} har {antal} tolkningar men ska ha {ska}"] if antal != ska else []
     )
 
 
@@ -66,7 +71,10 @@ def talfel(fil: Path, md: Path, sida: int) -> list[str]:
     fel = []
     for cell in (c for rad in celler for c in rad):
         if SIFFRA.search(TALEN.sub("", cell)) and not ordagrant(cell, text):
-            fel.append(f"cellen {cell!r} har siffror som inte är ett helt tal")
+            fel.append(
+                f"cellen {cell!r} har siffror som inte är ett helt tal"
+                " och står inte ordagrant i sidans text"
+            )
         fel += [
             f"talet {t!r} står inte i sidans text"
             for t in TALEN.findall(cell)
@@ -77,4 +85,4 @@ def talfel(fil: Path, md: Path, sida: int) -> list[str]:
 
 def ordagrant(cell: str, text: str) -> bool:
     """Cellen står som den är i sidans text, som etiketten `65–79 år`."""
-    return re.search(rf"(?<!\w){re.escape(cell)}(?!\w)", text) is not None
+    return re.search(rf"{FORE}{re.escape(cell)}{EFTER}", text) is not None

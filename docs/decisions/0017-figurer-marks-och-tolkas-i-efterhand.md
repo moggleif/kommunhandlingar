@@ -52,8 +52,8 @@ Reglerna står i [ARKITEKTUR](../03-ARKITEKTUR.md#figurer) och
 [Tolkade figurer](../03-ARKITEKTUR.md#tolkade-figurer). I korthet:
 
 * En sida står i `figurer` när en bild täcker 2–90 % av sidan, eller när
-  minst 8 synliga ritade objekt utan text i sig ligger utspridda över
-  minst 2 % av sidan.
+  minst 8 ritade objekt ligger utspridda över minst 2 % av sidan: kurvor,
+  och rutor som syns och inte har text i sig.
 * Arbetslistan är sidorna i `figurer` som inte står i `tolkade`. Ett
   hjälpkommando hämtar originalet, prövar sha256 och renderar sidorna.
 * Ett diagram med utskrivna tal blir en tolkad CSV,
@@ -187,6 +187,10 @@ Poolens version höjs till 0.3.0, eftersom front matter får två fält.
    en gång var, en etikett med siffror får stå med när den står
    ordagrant i sidans text, och att texten före märkningen är orörd
    lämnas åt granskningen av PR:en, som alla tolkningar går genom.
+   Det tredje varvet visade att en ordagrann cell kunde vara en del av
+   ett tal, som `5–3` ur `2,5–3,5`, och att `figurer` kunde ha sidor som
+   inte finns. Den ordagranna cellen har nu samma gränser som talen, och
+   talen tas inte ur ord som `K15` eller ur ett spann som `1 250–1 300`.
 4. **Omprövas** när arbetslistan har prövats några omgångar, om en
    rutin ska ta över, eller om falsklarmen från tabeller kostar för
    mycket.

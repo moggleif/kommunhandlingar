@@ -335,10 +335,10 @@ kunna läggas till utan kodändring.
   axel tas inte med.
 - **Givet** ett schema eller ett flöde
 - **När** sidan tolkas
-- **Så** blir det ett Mermaid-diagram i sidans text.
+- **Så** blir det ett Mermaid-diagram sist på sidan.
 - **Givet** en karta, ett foto eller ett diagram utan utskrivna tal
 - **När** sidan tolkas
-- **Så** blir det en kort beskrivning i sidans text.
+- **Så** blir det en kort beskrivning sist på sidan.
 - **Givet** en tolkad sida
 - **När** tolkningen är klar
 - **Så** står sidan i `tolkade`, och tolkningen står sist på sidan, märkt

@@ -1,5 +1,5 @@
-"""Krav: K15, ADR-0017. Kod: src/kommunhandlingar/konvertering/figurer.py och
-src/kommunhandlingar/tolkning.py.
+"""Krav: K15, ADR-0017. Kod: src/kommunhandlingar/konvertering/figurer.py,
+src/kommunhandlingar/tolkning.py och skrivning.py.
 
 Sidan är 100 × 100 punkter, så att en andel av sidan är lika många
 kvadratpunkter i hundratal: en bild på 20 × 20 täcker 4 %.
@@ -12,7 +12,7 @@ from pathlib import Path
 from types import SimpleNamespace
 from unittest import mock
 
-from kommunhandlingar import frontmatter
+from kommunhandlingar import frontmatter, skrivning
 from kommunhandlingar.konvertering import las_sida
 from kommunhandlingar.konvertering.dokument import konvertera
 from kommunhandlingar.konvertering.figurer import har_figur
@@ -124,6 +124,13 @@ class TestVerktygen(unittest.TestCase):
         with self.assertRaises(AndratOriginal):
             rendera(self.md, self.rot, klient)
         self.assertEqual(list(self.rot.glob("*.png")), [])
+
+    def test_en_ny_konvertering_tar_bort_tolkningarna(self):
+        katalog = skrivning.tabellkatalog(self.md)
+        katalog.mkdir()
+        (katalog / "17-1.tolkad.csv").write_text("År,Besök\n2023,120\n")
+        skrivning.skriv(self.md, "ny text\n", {"2-1.csv": "a,b\n"})
+        self.assertEqual([p.name for p in katalog.iterdir()], ["2-1.csv"])
 
 
 if __name__ == "__main__":
