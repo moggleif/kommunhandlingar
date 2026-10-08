@@ -10,7 +10,8 @@ from pathlib import Path
 from types import SimpleNamespace
 
 from kommunhandlingar.konvertering.dokument import konvertera
-from kommunhandlingar.konvertering.olinjerade import falt, tabeller
+from kommunhandlingar.konvertering.falt import falt
+from kommunhandlingar.konvertering.olinjerade import tabeller
 
 PDF = Path(__file__).parent / "fixtures" / "pdf"
 

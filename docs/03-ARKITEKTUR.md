@@ -489,16 +489,25 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   som färgade rader och kolumner, är inga linjer. Tabellen har minst två
   rader och två kolumner, varje ord inom dess yta har sin mittpunkt i
   en cell, och ingen cell rymmer mer än ett tal. En cell rymmer mer än
-  ett tal när minst två av dess rader var för sig är ett tal (med eller
-  utan förtecken, parentes, procenttecken eller en enhet på högst fyra
-  bokstäver) eller ett ensamt streck, som `4 078⏎4 054`, `(2 100)⏎1 978`
-  eller `4 078⏎-`; när en rad bara har siffergrupper, åtskilda av
-  mellanslag, parenteser eller snedstreck, som tillsammans inte är ett
-  tal, som `65,0 70,0` eller `1 234 (1 150)`; eller när två ord med
-  siffror på samma rad i cellen har mer än en halv teckenhöjd emellan,
-  som i `120   135`, enligt samma regel för fält som i tabellerna utan
-  lodräta linjer. Två rader eller kolumner som linjerna inte skiljer åt
-  hamnar annars i samma cell.
+  ett tal när
+  - två rader i följd i den var för sig är ett tal (med eller utan
+    förtecken, parentes, procenttecken eller en enhet på högst fyra
+    bokstäver) eller ett ensamt streck, som `4 078⏎4 054`,
+    `(2 100)⏎1 978` eller `Intäkter⏎4 078⏎4 054`;
+  - en rad bara består av tal och streck, med enheterna `%`, `kr`, `tkr`,
+    `mkr`, `mnkr`, `mdkr` och `st` borträknade och mellanslag, parenteser
+    och snedstreck med mellanslag omkring som skiljetecken, och de
+    tillsammans inte är ett tal (en decimalpunkt räknas som
+    decimalkomma), som `65,0 70,0`, `1 234 (1 150)`,
+    `74 984 kr 80%` eller `4 078 -`; eller
+  - två fält på samma rad i cellen var för sig är ett tal eller ett
+    streck, med fälten avgränsade som i tabellerna utan lodräta linjer
+    och ett tvetydigt mellanrum räknat som en gräns, som `120   135`.
+
+  Två rader eller kolumner som linjerna inte skiljer åt hamnar annars i
+  samma cell. En sådan tabell blir ingen CSV. Läses den inte heller som
+  en tabell utan lodräta linjer står dess text kvar i sidans text, och
+  sidan blir `tabell-osaker`.
 - **En säker tabell utan lodräta linjer** läses ur de ord som står
   utanför tabellerna med linjer, enligt
   [Tabeller utan lodräta linjer](#tabeller-utan-lodrata-linjer).

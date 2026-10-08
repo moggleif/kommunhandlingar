@@ -10,28 +10,33 @@ tabellens yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer
 import csv
 import io
 import re
+from itertools import pairwise
 
 from pdfplumber.page import Page
 from pdfplumber.table import Table
 
+from kommunhandlingar.konvertering.falt import Falt, falt, radvis
 from kommunhandlingar.konvertering.text import TAL
 
 LINJEBREDD = 2
-SIFFERGRUPP = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?")
 # En rad i en cell som är ett tal, med eller utan parentes och en kort enhet,
 # eller ett streck.
-TALRAD = re.compile(r"\(?[-−–+]?\d[\d  .,]*\)?(?: ?%| [a-zåäö]{1,4})?|[-−–]")
-SKILJE = re.compile(r"[\s()/]+")
-SAMMA_FALT = 0.5
-SIFFRA = re.compile(r"\d")
+TALRAD = re.compile(
+    r"\(?[-−–+]?\d+(?:[  ]\d{3})*(?:[,.]\d+)?\)?(?: ?%| [a-zåäö]{1,4})?|[-−–]"
+)
+VARDE = re.compile(r"[-−–+]?\d+(?:[,.]\d+)?%?|[-−–]")
+ENHET = re.compile(r"%|kr|tkr|mkr|mnkr|mdkr|st")
+SKILJE = re.compile(r"\s+/\s+|[\s()]+")
 
 
-def sakra(sida: Page) -> list[Table]:
+def sakra(sida: Page) -> tuple[list[Table], list[tuple]]:
+    """De säkra tabellerna, och rutorna kring dem som fälldes för att en
+    cell rymmer flera tal."""
     linjer = sida.lines + [
         r for r in sida.rects if min(r["width"], r["height"]) <= LINJEBREDD
     ]
     if len(linjer) < 2:
-        return []
+        return [], []
     installning = {
         "vertical_strategy": "explicit",
         "horizontal_strategy": "explicit",
@@ -39,47 +44,49 @@ def sakra(sida: Page) -> list[Table]:
         "explicit_horizontal_lines": linjer,
     }
     ord_ = sida.extract_words()
-    return [t for t in sida.find_tables(installning) if ar_saker(t, ord_)]
+    hela = [t for t in sida.find_tables(installning) if ar_hel(t, ord_)]
+    fallda = [t for t in hela if rymmer_flera_tal(t, ord_)]
+    return [t for t in hela if t not in fallda], [t.bbox for t in fallda]
 
 
-def ar_saker(tabell: Table, ord_: list[dict]) -> bool:
+def ar_hel(tabell: Table, ord_: list[dict]) -> bool:
     if len(tabell.rows) < 2 or max(len(rad.cells) for rad in tabell.rows) < 2:
-        return False
-    if any(flera_tal(c) for rad in rader(tabell) for c in rad):
-        return False
-    if any(glest([o for o in ord_ if inom(mitt(o), c)]) for c in tabell.cells):
         return False
     inne = [mitt(o) for o in ord_ if inom(mitt(o), tabell.bbox)]
     return all(any(inom(punkt, c) for c in tabell.cells) for punkt in inne)
 
 
+def rymmer_flera_tal(tabell: Table, ord_: list[dict]) -> bool:
+    if any(flera_tal(c) for rad in rader(tabell) for c in rad):
+        return True
+    i_cell = ([o for o in ord_ if inom(mitt(o), c)] for c in tabell.cells)
+    return any(map(flera_falt, i_cell))
+
+
 def flera_tal(cell: str) -> bool:
     rader_ = [r.strip() for r in cell.split("\n")]
-    return sum(1 for r in rader_ if TALRAD.fullmatch(r)) > 1 or any(
-        map(flera_pa_raden, rader_)
-    )
+    talrader = [TALRAD.fullmatch(r) is not None for r in rader_]
+    i_foljd = any(a and b for a, b in pairwise(talrader))
+    return i_foljd or any(map(flera_pa_raden, rader_))
 
 
 def flera_pa_raden(rad: str) -> bool:
-    delar = [d for d in SKILJE.split(rad) if d and d != "%"]
+    delar = [d for d in SKILJE.split(rad) if d and not ENHET.fullmatch(d)]
     return (
         len(delar) > 1
-        and all(SIFFERGRUPP.fullmatch(d) for d in delar)
-        and not TAL.fullmatch(rad.strip("()"))
+        and all(VARDE.fullmatch(d) for d in delar)
+        and not TAL.fullmatch(" ".join(delar).replace(".", ","))
     )
 
 
-def glest(ord_: list[dict]) -> bool:
-    """Två ord med siffror på samma rad i cellen, med mer än en halv
-    teckenhöjd emellan: två tal, som i olinjerade tabeller (ADR-0016)."""
-    ord_ = sorted(ord_, key=lambda o: (round(o["top"]), o["x0"]))
-    return any(
-        abs(a["top"] - b["top"]) <= 3
-        and SIFFRA.search(a["text"])
-        and SIFFRA.search(b["text"])
-        and b["x0"] - a["x1"] > SAMMA_FALT * (a["bottom"] - a["top"])
-        for a, b in zip(ord_, ord_[1:], strict=False)
-    )
+def flera_falt(ord_: list[dict]) -> bool:
+    """Två fält på samma rad i cellen som var för sig är ett tal eller ett
+    streck."""
+    for rad in radvis(ord_):
+        falt_ = falt(rad) or [Falt(o["text"], o["x0"], o["x1"]) for o in rad]
+        if sum(1 for f in falt_ if TALRAD.fullmatch(f.text)) > 1:
+            return True
+    return False
 
 
 def mitt(objekt: dict) -> tuple[float, float]:

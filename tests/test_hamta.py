@@ -66,7 +66,7 @@ class TestSteg2(unittest.TestCase):
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["konverterad"])
         falt = self.falt()
         self.assertEqual(falt["kvalitet"], "delvis")
-        self.assertEqual(falt["sidor"], "15")
+        self.assertEqual(falt["sidor"], "16")
         self.assertEqual(falt["tal_obekraftade"], "[5, 6, 7, 9, 11]")
         self.assertTrue(
             falt["pipeline"].startswith("kommunhandlingar 0.2.0 / pdfplumber ")

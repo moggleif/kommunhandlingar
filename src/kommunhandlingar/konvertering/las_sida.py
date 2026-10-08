@@ -48,12 +48,13 @@ def ej_vita(rendering: pdfium.PdfPage) -> float:
 
 
 def textsida(sida: Page) -> Sida:
-    linjerade = tabeller.sakra(sida)
+    linjerade, fallda = tabeller.sakra(sida)
     rutor = [t.bbox for t in linjerade]
     utan_linjer = olinjerade.tabeller(sida, rutor)
     rutor += [t.bbox for t in utan_linjer]
     utanfor = sida.filter(lambda o: not i_tabell(o, rutor))
     text, osaker = stycken(utanfor.extract_text(layout=True))
+    osaker = osaker or not all(tackt(f, rutor) for f in fallda)
     hittade = [(t.bbox, tabeller.rader(t)) for t in linjerade]
     hittade += [(t.bbox, t.rader) for t in utan_linjer]
     hittade.sort(key=lambda t: (round(t[0][1]), t[0][0]))
@@ -63,6 +64,12 @@ def textsida(sida: Page) -> Sida:
         text,
         [rader for _, rader in hittade],
     )
+
+
+def tackt(ruta: tuple, rutor: list[tuple]) -> bool:
+    """En fälld tabell med linjer som lästs som tabell utan lodräta linjer."""
+    punkt = ((ruta[0] + ruta[2]) / 2, (ruta[1] + ruta[3]) / 2)
+    return any(tabeller.inom(punkt, r) for r in rutor)
 
 
 def i_tabell(objekt: dict, rutor: list[tuple]) -> bool:

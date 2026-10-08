@@ -84,7 +84,9 @@ kunna läggas till utan kodändring.
   Rubrikraderna ovanför följer med när varje rubrik står i linje med sin
   kolumn; annars står de kvar i texten.
 - **Givet** en tabell med linjer där en cell rymmer mer än ett tal
-- **Så** går den inte att läsa säkert med linjerna som cellgränser.
+- **Så** går den inte att läsa säkert med linjerna som cellgränser. Går
+  den inte heller att läsa som en tabell utan lodräta linjer står den
+  kvar i sidans text, och sidan märks `tabell-osaker`.
 - **Givet** en tabell som inte går att läsa säkert
 - **Så** märks den som osäker i stället för att sparas som om den vore riktig:
   den blir ingen CSV, den står i Markdown märkt som osäker tabell, och

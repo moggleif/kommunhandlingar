@@ -10,26 +10,16 @@ from dataclasses import dataclass
 from itertools import pairwise
 
 from pdfplumber.page import Page
-from pdfplumber.utils import cluster_objects
 
+from kommunhandlingar.konvertering.falt import Falt, falt, radvis
 from kommunhandlingar.konvertering.tabeller import inom, mitt
 from kommunhandlingar.konvertering.text import MINSTA_FOLJD, TAL
 
-RADTOLERANS = 3
 I_LINJE = 2
-SAMMA_FALT = 0.5
-NYTT_FALT = 1.0
 RADMELLANRUM = 3
 BOKSTAV = re.compile(r"[^\W\d_]")
 STRECK = re.compile(r"[-−–]")
 AR_ELLER_KOD = re.compile(r"\d{4}")
-
-
-@dataclass(frozen=True)
-class Falt:
-    text: str
-    x0: float
-    x1: float
 
 
 @dataclass(frozen=True)
@@ -52,30 +42,9 @@ class Tabell:
 def tabeller(sida: Page, upptagna: list[tuple]) -> list[Tabell]:
     alla = sida.extract_words(extra_attrs=["size"])
     fria = [o for o in alla if not any(inom(mitt(o), r) for r in upptagna)]
-    rader_ = [rad(r) for r in cluster_objects(fria, "top", RADTOLERANS)]
+    rader_ = [Rad(r, falt(r)) for r in radvis(fria)]
     hittade = (tabell(rader_, foljd) for foljd in foljder(rader_))
     return [t for t in hittade if t and ensam(t, alla)]
-
-
-def rad(ord_: list[dict]) -> Rad:
-    ord_ = sorted(ord_, key=lambda o: o["x0"])
-    return Rad(ord_, falt(ord_))
-
-
-def falt(ord_: list[dict]) -> list[Falt] | None:
-    grupper = [[ord_[0]]]
-    for vanster, hoger in pairwise(ord_):
-        mellanrum = hoger["x0"] - vanster["x1"]
-        hojd = max(o["bottom"] - o["top"] for o in (vanster, hoger))
-        if mellanrum <= SAMMA_FALT * hojd:
-            grupper[-1].append(hoger)
-        elif mellanrum >= NYTT_FALT * hojd:
-            grupper.append([hoger])
-        else:
-            return None
-    return [
-        Falt(" ".join(o["text"] for o in g), g[0]["x0"], g[-1]["x1"]) for g in grupper
-    ]
 
 
 def ar_tal(f: Falt) -> bool:

@@ -72,11 +72,12 @@ Reglerna står i
 Mätningen visade också en brist i ADR-0005:s regel för tabeller med
 linjer: två rader eller kolumner som linjerna inte skiljer åt hamnar i
 samma cell, till exempel `2 445,1 -8 323,3 -5 878,2 143,4` eller
-`4 078⏎4 054`. Talen är rätt, men cellen är fel. I poolen gällde det 324 av 8 403 CSV:er. **En
-tabell med linjer där en cell rymmer mer än ett tal är därför inte längre
-säker.** Det prövas både på cellens text och på ordens lägen, med samma
-regel för fält som ovan. Tabellen prövas i stället enligt reglerna ovan, och klarar den inte
-dem blir den osäker. Det skärper ADR-0005:s definition av en säker
+`4 078⏎4 054`. Talen är rätt, men cellen är fel. I poolen gäller det
+minst 407 av 8 403 CSV:er. **En tabell med linjer där en cell rymmer mer
+än ett tal är därför inte längre säker.** Det prövas både på cellens text
+och på ordens lägen, med samma regel för fält som ovan. Tabellen prövas
+i stället enligt reglerna ovan, och klarar den inte dem står den kvar i
+sidans text och sidan blir `tabell-osaker`. Det skärper ADR-0005:s definition av en säker
 tabell; resten av ADR-0005 gäller som förut.
 
 Poolens version höjs till 0.2.0, eftersom konverteringen skriver annat än
@@ -93,7 +94,7 @@ förut.
 * Dåligt, eftersom många tabeller förblir osäkra: tabeller med en
   kodkolumn före etiketten, med centrerade tal, med åldrar eller år som
   etikett, eller med ett sidnummer eller en fotnot direkt under. I de fyra
-  dokumenten var 21 av 41 sidor fortfarande `tabell-osaker`.
+  dokumenten var 23 av 41 sidor fortfarande `tabell-osaker`.
 * Dåligt, eftersom en rad med bara årtal direkt ovanför tabellen, högst
   tre teckenhöjder ifrån, blir en talrad i följden, och då blir hela
   tabellen osäker.
@@ -106,15 +107,21 @@ förut.
 * Dåligt, eftersom rubrikerna oftast inte följer med: bara 14 av 98
   tabeller fick rubrikrader. Rubrikerna står kvar i texten ovanför.
 * Dåligt, eftersom en tabell med linjer som har flera tal i en cell nu
-  blir osäker också när en människa kan läsa den. 324 av poolens 8 403
-  CSV:er hade en sådan cell; i stickproven var nästan alla
-  sammanslagna rader, men också listor som `240304 1 st⏎240318 1 st`.
+  blir osäker också när en människa kan läsa den. Minst 407 av poolens
+  8 403 CSV:er har en sådan cell, räknat på cellernas text. I
+  stickproven var de flesta en hel rad med tal i en cell, till exempel
+  fem procenttal per rad i personaltabellerna, eller sammanslagna
+  rader, men också rubriker som `Bokslut Bokslut⏎2024 2025` och listor
+  som `240304 1 st⏎240318 1 st`.
+* Dåligt, eftersom fler sidor blir `tabell-osaker` i handlingarna från
+  nämnderna, när de fällda tabellerna med linjer märks: 53 blev 65 i
+  proven. Förut blev de flesta av dem `ok` med fel celler i en CSV.
 * Neutralt, eftersom en upphöjd fotnotssiffra direkt efter ett tal
   fortfarande står ihop med talet i texten, som förut. Den blir bara inte
   en del av en CSV.
 * Dåligt, eftersom dokument som redan finns i poolen inte ändras förrän de
-  konverteras om, och det kräver ny hämtning (ADR-0004). Hit hör de 324
-  CSV:erna med flera tal i en cell.
+  konverteras om, och det kräver ny hämtning (ADR-0004). Hit hör de
+  CSV:er som har flera tal i en cell.
 * Neutralt, eftersom diagrammens axlar och teckenförklaringar, som också
   blir talrader, förblir osäkra. De hör till
   [#17](https://github.com/moggleif/kommunhandlingar/issues/17).
@@ -177,12 +184,13 @@ förut.
 2. **Mätningen.** Fyra dokument hämtades från kungsbacka.se 2026-10-08:
    kommunbudget 2027 och 2025 och årsredovisning 2025 och 2024. Med A
    blev 98 tabeller med 612 rader CSV, och 41 sidor med osäker tabell
-   blev 21. Ingen rad skilde sig från samma rad i pdfplumbers text med
+   blev 23. Ingen rad skilde sig från samma rad i pdfplumbers text med
    uppställning: etiketten och talen i samma ordning. Kolumnerna
    kontrollerades för hand mot sidan i nio tabeller. I 29 slumpvis valda
    handlingar från nämnderna (1 876 sidor) blev 6 tabeller med 61 rader
-   CSV, och 53 sidor med osäker tabell blev 51. Där blev också 3 av 485
-   tabeller med linjer osäkra, eftersom en cell rymde en hel rad med tal. Där var de flesta osäkra
+   CSV, och 53 sidor med osäker tabell blev 65, eftersom 31 av 510
+   tabeller med linjer fälldes för att en cell rymde flera tal. Där var
+   de flesta osäkra
    "tabellerna" diagramaxlar, innehållsförteckningar och tabeller med en
    kodkolumn.
 3. **Varför rubrikerna kräver hela raden.** En rubrik som bara delvis
@@ -219,5 +227,16 @@ förut.
    valde regeln om år och koder framför en regel om stycken, eftersom
    den inte ändrade någon av de 104 tabellerna i proven, medan en regel
    om text ovanför och under också hade fällt tabeller med en titel.
+   Det tredje varvet visade att reglerna för celler hade luckor (ett
+   tal, en enhet och ett tal till, som `1 200 kr 1 300 kr`) och fällde
+   riktiga tabeller (diarienummer som `2022/4901` och kallelsernas
+   ärendelistor), och att en fälld tabell med linjer gav sidan `ok`.
+   Agenten ersatte dem med reglerna i ARKITEKTUR: två talrader i följd,
+   en rad med bara tal och de vanligaste enheterna, och två fält som är
+   tal, med samma fältregel som tabellerna utan lodräta linjer, och lät
+   en fälld tabell göra sidan `tabell-osaker`. Kvar står att löptext
+   bredvid en tabell vars första kolumn är små heltal, som åldrar, kan
+   bli etiketter; agenten hittade ingen regel för det som inte också
+   fällde riktiga tabeller med en kolumn för noter.
 7. **Omprövas** om en vanlig sorts tabell förblir osäker, till exempel
    tabeller med kodkolumn; då kan reglerna utökas med fler etikettfält.
