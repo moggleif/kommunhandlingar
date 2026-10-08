@@ -1,0 +1,33 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Informationsförvaltning,,,,
+Processgrupp:,Informationssäkerhet,,,,
+Process:,Hantera informationssäkerhet,,,,
+Processnummer:,2.1.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Informationsklassa,"Rutin för
+informationsklassificering",Samarbetsrum,Digitalt,Vid inaktualitet,Uppdateras kontinuerligt.
+,Mall,Samarbetsrum,Digitalt,Vid inaktualitet,"Avser exempelvis mall för
+informationsklassning. Uppdateras
+kontinuerligt."
+,"Protokoll för klassificering av
+informationstillgångar",Diarium,Digitalt,Bevaras,Diarieförs hos respektive förvaltning.
+"Hantera incidenter enligt
+NIS2-direktivet","Incidentrapporteringsformulär
+(skede 1, 2 och 3)",Diarium,Digitalt,Bevaras,"Incidentrapporteringsformuläret finns på
+myndigheten för samhällsskydd och
+beredskaps hemsida."
+,"Komplettering till
+incidentrapporteringsformulär",Diarium,Digitalt,Bevaras,
+,"Bekräftelse från MSB om att
+ärende har mottagits",Diarium,Digitalt,Bevaras,
+,"Bekräftelse från IVO om att
+rapporten har mottagits",Diarium,Digitalt,Bevaras,
+,Planering,Diarium,Digitalt,Bevaras,"Exempel på planering: Akut planering och
+långsiktig planering."
+"Systematisk
+informationssäkerhet",Analys,Diarium,Digitalt,Bevaras,"Exempelvis GAP-analys, riskanalys,
+verksamhetsanalys och omvärldsanalys.
+Arbetsmaterial före upprättande hanteras
+på Klass 3-ytan."
+,Kontinuitetsplan,Diarium,Digitalt,Bevaras,"Arbetsmaterial före upprättande hanteras
+på Klass 3-ytan."

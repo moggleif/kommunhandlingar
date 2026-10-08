@@ -1,0 +1,28 @@
+"Hantera elektroniska
+spår centralt på
+server","Nätverksinfo - logg,
+personuppgifter","ISE, Brandvägg,
+Cisco Catalyst
+Center",Digitalt,60 dagar,ISE-loggar
+"Hantera
+meddelandehanterin
+g och kommunikation
+centralt på server","E-post, som lagts i
+Outlooks papperskorg",Microsoft 365,Digitalt,Se anm.,"Gallras efter 104 dagar. Forcerad manuell gallring
+kan genomföras när som helst av användaren."
+,E-postlogg,Microsoft 365,Digitalt,90 dagar,
+,Chattmeddelande,Microsoft 365,Digitalt,90 dagar,
+,"Virus- och
+spammeddelande i e-
+post",Microsoft 365,Digitalt,14 dagar,
+"Hantera telefoni och
+röstmeddelande
+centralt på server","Förteckning över
+inkomna/utgående
+samtal",Telenor,Digitalt,Vid inaktualitet,Även röstmeddelanden.
+,"Förteckning över
+telefonanknytningar",Telenor,Digitalt,Vid inaktualitet,
+,"Automatiskt
+inspelade
+telefonsamtal",Telenor,Digitalt,14 dagar,"Exempelvis inspelade samtal från Kungsbacka
+direkt."

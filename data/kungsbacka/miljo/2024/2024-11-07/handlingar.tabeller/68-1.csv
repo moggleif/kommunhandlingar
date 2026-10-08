@@ -1,0 +1,36 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Hantera ärenden enligt en lokal föreskrift,,,,
+Process:,Prövning verksamhet eller åtgärd inom vattenskyddsområde,,,,
+Processnummer:,7.5.4.05,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Ansökan/Anmälan med
+bilagor kommer in och
+mottagningsbekräftelse
+skickas ut",Ansökan,EDP Vision,Digitalt,Bevaras,"Vissa åtgärder kräver tillstånd, för vissa
+räcker anmälan."
+,Anmälan,EDP Vision,Digitalt,Bevaras,
+,Mottagningsbekräftelse,EDP Vision,Digitalt,5 år,
+,Rapport,EDP Vision,Digitalt,Bevaras,
+,Släckvattenutredning,EDP Vision,Digitalt,Bevaras,
+,Egenkontroll,EDP Vision,Digitalt,Bevaras,
+,Specifikation,EDP Vision,Digitalt,Bevaras,
+,Karta,EDP Vision,Digitalt,Bevaras,
+,Situationsplan,EDP Vision,Digitalt,Bevaras,
+,Ritning,EDP Vision,Digitalt,Bevaras,
+,Analysresultat,EDP Vision,Digitalt,Bevaras,
+Granska,Begäran om komplettering,EDP Vision,Digitalt,5 år,
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,"Begäran om yttrande/
+remiss",EDP Vision,Digitalt,5 år,
+,Yttrande/remissvar,EDP Vision,Digitalt,Bevaras,
+,Synpunkter,EDP Vision,Digitalt,Bevaras,
+Utföra platsbesök,Fotografi,EDP Vision,Digitalt,Bevaras,
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."

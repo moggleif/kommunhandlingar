@@ -1,0 +1,77 @@
+Krav-ID,Release,Kravtext,Hänvisning,Användarbeskrivning,Justering 230825,Kategori,Övrigt
+2.5.18,2024-09-10,"Som elev vill jag kunna ansöka om att byte om kurs,
+undervisningsgrupp, utökat program, klass, inriktning i
+systemet under pågående läsår. Detta för att jag kan ha behov
+av att förändra studiegång.","Av Ordlistan framgår: Undervisningsgrupp: En organisatorisk del där en
+samling elever undervisas gemensamt i ett ämne eller kurs. Grupp: Alla
+typer av grupper som förekommer undervisningsverksamhet. Exempelvis
+mentorsgrupp, lunchtid osv. Inriktning: Kurser/ämnen som är obligatoriska
+inom inriktningen för ett program. Klass: En organisatorisk samling barn och
+elever i en skola, är oberoende av ämne/kurs. Från Gymnasieförordningen
+framgår att: Kurs: En kurs är ett definierat och avgränsat avsnitt i en
+utbildning. En kurs har en kurskod. Kurskod: Kurskoden består av max tio
+tecken/positioner. De flesta kurser har koder som består av sju tecken. De
+första sex positionerna är förkortningar av ämnets och kursens namn. De
+första tre bokstäverna är de inledande bokstäverna i ämnets namn och tre
+nästkommande är de inledande bokstäverna i kursens namn. 2.5
+Administration gymnasiet Utifrån elevens perspektiv inleds processen med
+att tidigare gjord ansökan leder till att elev blir antagen. Eleven kan, enligt
+gällande lagstiftning, välja att göra ändringar i studieplan, valbara kurser och
+att anpassa sin studiegång. 4.1.42 Systemet ska innehålla timplaner,
+programstrukturer och kurser från Skolverket.","När jag som elev har behov att
+förändra min studiegång så erbjuder
+Systemet ett val av kategori inom
+vilket område förändringen ska ske.
+(byte av kurs, klass, etc.) Jag kan
+emellertid inte genomföra bytet
+eftersom det saknas möjlighet att välja
+de alternativ som är möjliga för mig
+med avseende på den kategorin jag
+valt. Av vad leverantören anger i
+Egenkontrollen och under testfall
+GA29 i Bilaga 1 till brev 2023-03-01 är
+inte en lösning på hur eleven ska
+kunna genomföra kravställt byte detta
+eftersom den kravställda funktionen
+enligt leverantörens beskrivning måste
+genomföras manuellt av en
+administratör för att uppnå de
+ändamålet med kravet. Därmed är
+kravet inte uppfyllt innan eleven kan
+genomföra valet genom att genomföra
+samtliga individuella val i Systemet.","Som elev vill jag att systemet hjälper mig att göra
+en ansökan om byte av kurs, grupp, klass,
+inriktning eller utökat. Detta för att minska risken
+att jag gör fel val. Gotit kompletterar med
+specifikation av lösning som Kommunen får
+godkänna innan.",Ansökan,
+2.5.19,2024-09-10,"Som gymnasieadministratör vill jag kunna granska elevens
+ansökan om kurs, undervisningsgrupp, utökat program, klass,
+inriktning för att kunna förbereda beslut åt rektor.",,"Syftet med funktionen är att
+administratören ska förbereda beslut
+åt Rektor. Det beslut som avses är
+Rektorsbeslut att godkänna eller avslå
+elevens ansökan om förändring. För
+att åstadkomma det måste
+administratören kunna granska
+förutsättningarna för elevens ansökan.
+Med förutsättningar avses i detta
+sammanhang information och detaljer
+om tid och plats för både elev och
+skola när det gäller om kurs,
+undervisningsgrupp, utökat program,
+klass och inriktning. Innan Systemet
+ger administratören möjligheter att
+meddela Rektor att beslutsunderlaget
+är förberett är inte kravet uppfyllt.","Gotit kompletterar med specifikation av lösning.
+Som admin vill jag enkelt kunna granska elevers
+ansökningar om byte av kurs, grupp, klass,
+inriktning eller utökat, och enkelt kunna markera
+om bytet kan ske så att rektor snabbt kan
+handlägga ärendet.",Ansökan,
+5.1.04,2024-09-10,"Som ekonom eller administratör inom förskola- och fritidshem,
+grundskola och gymnasium vill jag att det i vissa rapporter ska
+kunna filtreras på kommunens organisationsträd, samt
+generella filter för datumintervall, kategori, geografiskt
+område, skolform, kommunal- eller fristående regi,
+pedagogiskt område, hemkommun och särskoleplacering",,,,Rapporter,

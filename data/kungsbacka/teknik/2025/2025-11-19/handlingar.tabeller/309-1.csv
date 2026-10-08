@@ -1,0 +1,50 @@
+"Color Name Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric
+Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface
+(kN/m³) ((kN/m²)/m) (m) (kPa) Angle (°)
+Fyllning grus sand Mohr-Coulomb 18 0 34 1
+Fyllning ny Mohr-Coulomb 20 0 40 1
+Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547
+Uppdrag: 351958 Arendalsleden förstudie fyra körfält Lera odrän S=f(datum) 16 10 0,8 0 1
+Beställare: Kungsbacka kommun
+lerig Gyttja odrän S=f(datum) 15 10 0 3 1
+Ritad av: Hilda Dahlin Joklint, Tyréns Sverige AB (datum)
+Torrskorpelera S=f(datum) 17 25 0 5 1
+Beräkningsmetod: Partialkoefficienter/Totalsäkerhet odrän (datum) (25)
+Typ av analys: Morgenstern-Price Vägbyggnad Mohr-Coulomb 20 0 42 1
+PWP Conditions Source: Piezometric surface
+Skala: 1:200 (A3)
+Datum: 2025-10-17
+BERÄKNING:
+1,36 2.2 Utbyggda förhållanden (2+2) odränerad analys (UÅ)
+Väg 20 kPa
+GC 5 kPa
+5
+0
+-5
+åviN
+-10
+-15
+-20
+-25
+-5 0 5 10 15 20 25 30 35 40 45
+Avstånd",Name,"Slope Stability
+Material Model","Unit
+Weight
+(kN/m³)","C-Datum
+(kPa)","C-Rate of
+Change
+((kN/m²)/m)","Datum
+(Elevation)
+(m)","Effective
+Cohesion
+(kPa)","Effective
+Friction
+Angle (°)","Piezometric
+Surface"
+,Fyllning grus sand,Mohr-Coulomb,18,,,,0,34,1
+,Fyllning ny,Mohr-Coulomb,20,,,,0,40,1
+,Lera odrän,S=f(datum),16,10,"0,8",0,,,1
+,"lerig Gyttja odrän
+(datum)",S=f(datum),15,10,0,3,,,1
+,"Torrskorpelera
+odrän (datum) (25)",S=f(datum),17,25,0,5,,,1

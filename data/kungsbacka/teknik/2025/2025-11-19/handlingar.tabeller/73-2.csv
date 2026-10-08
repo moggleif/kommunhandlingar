@@ -1,0 +1,26 @@
+Parameter,Värde,Värde,Enhet
+År,2037,2050,
+Q-medel (50%),8 691,11 244,m³/d
+Selektor,,,
+Antal,1,1,st
+Längd,"5,5","5,5",m
+Bredd,"4,9","4,9",m
+Djup vatten,"4,0",4,m
+"Djup, bassäng","4,5","4,5",m
+Volym,108,108,m³
+12-BIO-P,,,
+Antal volymer,2,2,st
+BIO-P 1,1,1,st
+Längd,"14,4","14,4",m
+Bredd,"4,9","4,9",m
+Djup vatten,"4,0","4,0",m
+"Djup, bassäng","4,5","4,5",m
+Volym,282,282,m³
+BIO-P 2,1,1,st
+Längd,"23,6","23,6",m
+Bredd,"6,0","6,0",m
+Djup vatten,"4,0","4,1",m
+"Djup, bassäng","4,5","4,5",m
+Volym,566,581,m³
+Volym total BIO-P,849,863,m³
+Returslamflöde till BIO-P,0–800,0–800,m³/h

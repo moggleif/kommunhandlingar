@@ -79,10 +79,16 @@ python3 -m kommunhandlingar.hamta kommuner/kungsbacka.toml /tmp/kommunhandlingar
 PDF-fixturerna i `tests/fixtures/pdf/` skapas av `skapa.py` där bredvid,
 som behöver reportlab, pypdf och Pillow. De är inte projektets beroenden.
 
+## Figurerna
+
+Sidor med figurer tolkas för hand av en Claude-session, i omgångar, enligt
+`.claude/skills/tolka-figurer/SKILL.md` (K15, ADR-0017). Kommandona och
+formatet står under "Tolkade figurer" i [03-ARKITEKTUR.md](03-ARKITEKTUR.md).
+
 ## Undantag
 
-- Rader per funktion eller fil: `# undantag: <skäl>` på `def`-raden, eller
-  på första raden för en hel fil.
+- Rader per funktion: `# undantag: <skäl>` på `def`-raden. En fil har
+  inget undantag; blir den för lång delas den.
 - Ruffs gränser: `# noqa: <regel>  # undantag: <skäl>` på raden ruff pekar ut.
 
 ## Datakontrollerna

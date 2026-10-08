@@ -1,0 +1,32 @@
+Processgrupp:,Styra,,,,
+Process:,Utföra tillsyn,,,,
+Processnummer:,5.0.2.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Planera tillsyn,Bedömningsunderlag,Samarbetsrum,Digitalt,Vid inaktualitet,
+,Tillsynsplan,Ciceron,Digitalt,Bevaras,
+Utöva tillsyn,"Information om planerad
+tillsyn",Ciceron,Digitalt,Bevaras,
+,"Protokoll och dokument
+från fristående huvudman
+från
+informationsinhämtning",Ciceron,Digitalt,Bevaras,"Avser även bilagda handlingar från fristående,
+observationsunderlag och dylikt underlag."
+,Beslut efter tillsyn,Ciceron,Digitalt,Bevaras,"Gäller både första beslut efter tillsyn och
+uppföljande beslut."
+Råd och stöd,"Dialog/korrespondens
+med tillsynsobjekt",Ciceron,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras och
+diarieförs. Korrespondens av tillfällig eller ringa
+betydelse gallras vid inaktualitet."
+Tillståndspröva,"Ansökan om tillstånd och
+bidrag för fristående
+verksamhet",Ciceron,Digitalt,Bevaras,"Avser även utökad verksamhet och ändring av
+huvudmannaskap.
+Anmälan om förändring i pågående tillstånd
+inkommer via OpenE och förs över till ciceron för
+slutarkivering. Handlingar i e-tjänst gallras vid
+inaktualitet."
+,"Protokoll och liknande
+underlag från
+informationsinhämtning",Ciceron,Digitalt,Bevaras,
+,"Beslut efter
+tillståndsprövning",Ciceron,Digitalt,Bevaras,

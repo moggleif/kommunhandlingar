@@ -1,0 +1,27 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för vuxna,,,,
+Process:,"Hantera placering i HVB för vuxna missbrukare, boende, skyddat boende samt familjehem",,,,
+Processnummer:,6.4.1.3,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn
+bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Utforma insats,Behandlingsplan,Combine,Digital,5 år/Bevaras,
+,"Ansökan om plats
+på SiS",Combine,Digital,5 år/Bevaras,Avser LVM
+,"Placeringsavtal
+med enskilda
+utförare",Ciceron/Närarkiv,Digital/papper,Bevaras,"Mellan nämnden och utföraren. Bevaras både
+digitalt och på papper. Se process 6.2.1.1"
+Genomföra uppdrag,Genomförandeplan,Combine,Digital,5 år/Bevaras,Utföraren upprättar genomförandeplanen
+Följa upp,Månadsrapporter,Combine,Digital,5 år/Bevaras,Utföraren inkommer med månadsrapporter
+Avsluta,"Slutrapport/
+daganteckning från
+avslutad placering",Combine,Digital,5 år/Bevaras,
+,"Meddelande från
+SiS institution om
+att vården har
+upphört",Combine,Digital,5 år/Bevaras,Avser LVM
+,"Beslut om att
+avsluta vårdinsats",Combine,Digital,5 år/Bevaras,Anteckning i Combine

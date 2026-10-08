@@ -1,0 +1,22 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärende enligt livsmedelslagen,,,,
+Processgrupp:,Hantera prövning i livsmedelsanläggningar,,,,
+Process:,Prövning fastställa faroanalys dricksvattenanläggning,,,,
+Processnummer:,7.6.1.05,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Faroanalys kommer in,Faroanalys,EDP Vision,Digitalt,10 år,
+Begära in komplettering,Verksamhetsbeskrivning,EDP Vision,Digitalt,10 år,
+,Korrespondens,EDP Vision,Digitalt,10 år,"Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Tjänsteanteckning,EDP Vision,Digitalt,10 år,"Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Provtagningsprogram,EDP Vision,Digitalt,10 år,
+"Besluta om att fastställa
+faroanalys",Beslut,EDP Vision,Digitalt,10 år,
+"Delge beslut och signerat
+delgivningskvitto kommer
+in",Delgivningskvitto,EDP Vision,Digitalt,10 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,10 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

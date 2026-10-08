@@ -135,6 +135,8 @@ def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
         "fel": resultat.fel,
         "kvalitet_per_sida": resultat.kvalitet_per_sida,
         "tal_obekraftade": resultat.tal_obekraftade,
+        "figurer": resultat.figurer,
+        "tolkade": None if resultat.figurer is None else [],
     }
 
 

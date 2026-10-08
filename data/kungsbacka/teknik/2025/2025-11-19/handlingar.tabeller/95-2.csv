@@ -1,0 +1,37 @@
+63-Mekanisk slamförtjockning,,,
+Parameter,Värde,Värde,Enhet
+Dim kapacitet per maskin*,128,166,kg TS/h
+TS slam in,"1,5–3,5","1,5–3,5",%
+Slamflöde in,73–171,95–222,m³/d
+Slammängd in,2 571,3 368,kg TS/d
+TS slam ut,"2,5–5","2,5–5",%
+Slamflöde ut,51–102,67–133,m³/d
+Bioslam,,,
+Antal,2,2,st
+Dim kapacitet per maskin*,20,24,m³/h
+Dim kapacitet per maskin*,100,120,kg TS/h
+TS slam in,"0,5–1","0,5–1",%
+Slamflöde in,204–409,245–490,m³/d
+Slammängd in,2 043,2 449,kg TS/d
+TS slam ut,"2,5–5","2,5–5",%
+Slamflöde ut,40–80,48–96,m³/d
+63-Förtjockat slamlager (med externslam 2050),,,
+Antal,2,2,st
+Längd,"12,6","12,6",m
+Bredd,"3,55","3,55",m
+Djup slam,"7,0","7,0",m
+Djup bassäng,"7,4","7,4",m
+Total volym,626,626,m³
+Mängd slam in,4 564,7 418,kg TS/d
+"Slamflöde in (TS 2,5–5%)",91–183,115–229,m³/d
+Uppehållstid,3–7,3–5,dagar
+Uppehållstid primärslam i ett lager,3–6,2–5,dagar
+Uppehållstid bioslam i ett lager,4–8,3–7,dagar
+"Flöde, 20 h/d drift","4,6–9,1","5,7–11,5",m3/h
+Antal pumpar till avvattning,2,2,
+Vald kapacitet per pump,25,25,m3/h
+63-Rejektvattenlager - förtjockning,,,
+Antal,1,1,st
+Längd,"8,2","8,2",m
+Bredd,"4,1","4,1",m
+"Djup, vatten",7,7,m

@@ -1,0 +1,11 @@
+Storhet,Symbol,Enhet,Kommentar
+"Ekvivalent A-vägd
+ljudtrycksnivå","L
+pA,eq,nT",[dB],"Medelljudnivå för spårtrafik och vägtrafik,
+beräknad som ett frifältsvärde och som ett
+medelvärde per dygn under ett år (ÅDT)."
+"Maximal A-vägd
+ljudtrycksnivå","L
+pAFmax,nT",[dB],"Ljudnivå för spårtrafik och vägtrafik av den
+mest bullrande fordonstypen med tidsvägning
+Fast, beräknad som ett frifältsvärde."

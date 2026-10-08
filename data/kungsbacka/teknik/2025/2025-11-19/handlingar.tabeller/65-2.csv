@@ -1,0 +1,30 @@
+Dimensionerande flöden och belastningar,,,,,
+Parameter,Värde,"Inkl intern-
+belastning",Värde,"Inkl intern-
+belastning",Enhet
+År,2037,2037,2050,2050,-
+Anslutning,53 600,,70 000,,pe
+Flöden,,,,,
+"Q-medel (dygnsflöde 60%
+percentil)",17 000,17 448,22 000,22 574,m³/d
+Internströmmar,,448,,574,m³/d
+"Q-dim (timflöde 80% percentil)
+Qpdwf",1 000,1 019,1 300,1 324,m³/h
+"Q (timflöde 96% percentil)
+pwwf",1 600,1 619,2 000,2 024,m³/h
+Årsvolym,"6,7",,"8,7",,mnm³
+Q-max bio+kem,2 000,2 019,2 000,2 024,m³/h
+Q-max,4 100,4 119,4 400,4 424,m³/h
+Q-max högflödesrening,1 152,,1 152,,m³/h
+Q-max grovrening,,6 114,,7 944,m³/h
+Flöde spolvatten sandfilter,,121,,121,m³/h
+Q-dim mellansed,,631,,783,m³/h
+Q-max mellansed,,1 131,,1 133,m³/h
+Belastning,,"Intern-
+belastning",,"Intern-
+belastning",
+"BOD
+7",3 750,204–211*,4 900,179**,kg/d
+N-tot,751,19–24*,981,30**,kg/d
+P-tot,94,26–133*,123,47**,kg/d
+SS,4 824,249–267*,6 300,316**,kg/d

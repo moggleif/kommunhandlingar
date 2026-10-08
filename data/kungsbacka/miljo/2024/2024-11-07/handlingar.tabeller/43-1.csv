@@ -1,0 +1,32 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Hantera prövning om miljöfarlig verksamhet,,,,
+Process:,Prövning ändring av miljöfarlig verksamhet,,,,
+Processnummer:,7.5.1.10,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Anmälan med bilagor
+kommer in",Anmälan,EDP Vision,Digitalt,Bevaras,
+,Rapport,EDP Vision,Digitalt,Bevaras,
+,Släckvattenutredning,EDP Vision,Digitalt,Bevaras,
+,Egenkontroll,EDP Vision,Digitalt,Bevaras,
+,Specifikation,EDP Vision,Digitalt,Bevaras,
+,Karta,EDP Vision,Digitalt,Bevaras,
+,Situationsplan,EDP Vision,Digitalt,Bevaras,
+,Ritning,EDP Vision,Digitalt,Bevaras,
+,Analysresultat,EDP Vision,Digitalt,Bevaras,
+"Kopia av anmälan
+skickas till
+länsstyrelsen, kvitto
+från länsstyrelsen
+inkommer",Kvitto,EDP Vision,Digitalt,5 år,
+Granska,Begäran om komplettering,EDP Vision,Digitalt,5 år,
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,"Begäran om yttrande/
+remiss",EDP Vision,Digitalt,5 år,
+,Yttrande/remissvar,EDP Vision,Digitalt,Bevaras,
+,Kungörelse,EDP Vision,Digitalt,5 år,

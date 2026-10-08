@@ -1,0 +1,47 @@
+Verksamhetstyp:,4 Kultur & Fritid,,,,
+Verksamhetsområde:,4.1 Bibliotek,,,,
+Processgrupp:,4.1.1 Bedriva biblioteksverksamhet,,,,
+Process:,4.1.1.1 Hantera bibliotekets medier,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+,Inköpsförslag,"Open
+ePlatform",Digitalt,6 mån,"Om bifall, leder till beställning samt reservation
+hos låntagare i process 4.1.1.2."
+,"Svar till låntagare om
+inköpsförslag",Outlook,Digitalt,6 mån,"Svar innehåller inte sekretess och får därför
+hanteras i Outlook."
+,Bibliotekskatalog,Quria,Digitalt,"Uppdateras
+löpande, se
+anm.","Information om mediet, antal exemplar, placering
+och motsvarande information. Läses in från
+LIBRIS och/eller läggs in manuellt.
+Bibliotekskatalogen uppdateras löpande vid till
+exempel förändring av informationen om mediet,
+förändring i antal exemplar (tex förkomna medier,
+gallring), förändring av placering (tex
+magasinering)."
+,Medieplan,Ciceron,Digitalt,Bevaras,
+,"Inkomna handlingar för
+omvärldsbevakning","Hos
+handläggare/
+Outlook/
+Sharepoint,
+processens
+samarbetsrum","Digitalt/
+Papper","Gallras vid
+inaktualitet, se
+anm.","Omfattar bland annat bokkataloger, nyhetsbrev
+och reklam i olika former från exempelvis
+organisationer, förlag samt författare. Används i
+vissa fall för omvärldsbevakning, saknar i andra
+fall relevans. Bedömning görs av
+avdelningsansvarig, gallras senast 3 månader
+efter inkommet. Se process 2.1.2.1."
+,"Förteckning över
+prenumeration av
+databaser","Sharepoint,
+processens
+samarbetsrum",Digitalt,"Uppdateras
+löpande/
+Bevaras, se
+anm.","Förteckning uppdateras löpande, representativa
+uttag bevaras i samråd med arkivarie."

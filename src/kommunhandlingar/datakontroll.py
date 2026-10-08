@@ -1,4 +1,5 @@
-"""Krav: K11 i docs/02-KRAV.md, ADR-0006. Test: tests/test_datakontroll.py.
+"""Krav: K11 och K15 i docs/02-KRAV.md, ADR-0006 och ADR-0017.
+Test: tests/test_datakontroll.py.
 
 `python -m kommunhandlingar.datakontroll <data>` prövar varje fil under
 `data/` mot schemat i docs/03-ARKITEKTUR.md: front matter, sökvägen,
@@ -10,7 +11,7 @@ import re
 import sys
 from pathlib import Path
 
-from kommunhandlingar import frontmatter
+from kommunhandlingar import datakontroll_tolkning, frontmatter
 from kommunhandlingar.datakontroll_tabeller import tabellfel
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konvertering.kvalitet import KVALITETER, SIDKVALITETER
@@ -18,7 +19,7 @@ from kommunhandlingar.konvertering.kvalitet import KVALITETER, SIDKVALITETER
 ALLTID = ("kommun", "organ", "datum", "typ", "kallnyckel", "kalla_url")
 ALLTID += ("tidigare_kallnycklar", "hamtad", "pipeline", "kvalitet")
 EJ_HAMTAD_NULL = ("sha256", "bytes", "sidor", "konverterad")
-EJ_HAMTAD_NULL += ("kvalitet_per_sida", "tal_obekraftade")
+EJ_HAMTAD_NULL += ("kvalitet_per_sida", "tal_obekraftade", "figurer", "tolkade")
 OBEKRAFTADE = {"ocr", "ej-konverterad"}
 
 
@@ -47,7 +48,10 @@ def dokumentfel(relativ: Path, text: str) -> list[str]:
     if tuple(falt) != frontmatter.FALT:
         return ["front matter har inte schemats fält i schemats ordning"]
     fel = [f"{namn} är null" for namn in ALLTID if falt[namn] == "null"]
-    return fel or vardefel(falt) + sokvagsfel(relativ, falt) + statusfel(falt)
+    if fel:
+        return fel
+    fel = vardefel(falt) + sokvagsfel(relativ, falt) + statusfel(falt)
+    return fel + datakontroll_tolkning.dokumentfel(falt, text)
 
 
 def vardefel(falt: dict[str, str]) -> list[str]:

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "kommunhandlingar"
-version = "0.1.0"
+version = "0.3.0"
 requires-python = ">=3.12"
 # Konverteringen (ADR-0005, ADR-0014). pdfminer.six och Pillow används också
 # direkt och låses därför här, på de versioner pdfplumber drar in.

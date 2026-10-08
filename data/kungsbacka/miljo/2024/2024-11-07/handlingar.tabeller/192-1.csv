@@ -1,0 +1,20 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt alkohollagen och tobakslagen,,,,
+Processgrupp:,"Hantera prövning enligt alkohollagen, tobakslagen och lagen om receptfria läkemedel",,,,
+Process:,"Prövning registrering folköl, e-cigaretter och tobaksfria nikotinprodukter",,,,
+Processnummer:,7.7.2.02,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Anmälan kommer in och
+mottagningsbekräftelse
+skickas ut",Anmälan,EDP Vision,Digitalt,Bevaras,
+,Mottagningsbekräftelse,EDP Vision,Digitalt,5 år,
+Utreda,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
+Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Egenkontrollprogram,EDP Vision,Digitalt,Bevaras,
+"Skicka ut bekräftelse på
+registrering till
+verksamhetsutövare",Bekräftelse,EDP Vision,Digitalt,Bevaras,

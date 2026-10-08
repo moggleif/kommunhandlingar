@@ -1,0 +1,28 @@
+Processgrupp:,Tillhandahålla skolskjuts och elevresor,,,,
+Process:,Tillhandahålla skolskjuts och elevresor,,,,
+Processnummer:,5.1.4.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Administrera
+skolskjuts",Regler kring skolskjuts,Ciceron,Digitalt,Bevaras,
+,"Incidentrapport i
+samband med skolskjuts",Ciceron,Digitalt,Bevaras,
+,"Lista över alla skolskjuts-
+beslut som är beslutade
+enligt delegations-
+förteckning",Ciceron,Digitalt,Bevaras,
+,Skolskjutsansökan,Sokigo,Digitalt,Vid inaktualitet,I överklagade beslut diarieförs ansökan.
+,Korrespondens,Artvise,Digitalt,2 år,
+"Hantera beviljade
+ansökningar om
+skolskjuts","Beslut, beviljat",Sokigo,Digitalt,Vid inaktualitet,
+,"Tillstånd/planering från
+skolskjutsleverantör","Pärm i skolans
+närarkiv",Papper,1 år,
+,Kvittens av skolkort,"Pärm i skolans
+närarkiv",Papper,Vid läsårets slut,
+"Hantera avslagna
+ansökningar om
+skolskjuts",Beslut,Sokigo,Digitalt,"Vid inaktualitet, tidigast
+vid läsårets slut.","Om beslutet överklagas diarieförs det samt underlag i
+Ciceron och bevaras. För hantering av överklagan, se
+separat kommunövergripande process 1.4.4.1"

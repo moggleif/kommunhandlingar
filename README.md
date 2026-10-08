@@ -36,8 +36,14 @@ Repot byggs inte vidare; följande kopieras in och anpassas:
 | `scripts/pdftabell.py` | Tabeller ur ordens koordinater, när textlagret saknar avgränsare |
 | `hamta()` i `scripts/hamta_fullmaktige.py` | Mönstret för väntetid och omförsök vid 429 |
 | `data/KALLOR.md` (Kungsbacka-avsnitten) | Utgångspunkt för `docs/kallor/kungsbacka.md` |
-| Lärdomen om Wayback | Kontrollera `%%EOF`; kopior kapas tyst vid 1 MiB |
+| Lärdomen om Wayback | Kopior kapas tyst; se [docs/kallor/kungsbacka.md](docs/kallor/kungsbacka.md#2-internet-archive-wayback) |
 | Regeln "hellre stanna än spara fel" | Konverteringen märker eller avbryter, gissar aldrig |
 
 Politik-repot kan i sin tur senare läsa ur poolen i stället för att hämta
 nämndhandlingar själv.
+
+## Licens
+
+[MIT](LICENSE) gäller koden. Texten och tabellerna i `data/` återger
+kommunernas allmänna handlingar och får ingen egen licens här. Bilagor kan
+innehålla verk av andra än kommunen, och där finns upphovsrätten kvar.
