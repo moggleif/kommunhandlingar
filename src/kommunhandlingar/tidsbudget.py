@@ -12,6 +12,7 @@ from datetime import UTC, datetime, timedelta
 
 MJUK = timedelta(hours=5)
 HARD = timedelta(hours=5, minutes=30)
+START = "jobbets start i sekunder sedan epoken; tidsbudgeten räknas därifrån"
 
 
 class Tidsgrans(BaseException):
@@ -20,6 +21,10 @@ class Tidsgrans(BaseException):
 
 def avbryt(signum, ram) -> None:
     raise Tidsgrans
+
+
+def tidpunkt(sekunder: str) -> datetime:
+    return datetime.fromtimestamp(int(sekunder), UTC)
 
 
 def mjuk_grans(start: datetime | None) -> datetime:

@@ -66,6 +66,14 @@ ADR-0013). Kommunens källsidor hämtas artigt, så det tar några minuter:
 python3 -m kommunhandlingar.upptack kommuner/kungsbacka.toml /tmp/kommunhandlingar
 ```
 
+Arkivets lista (K16, ADR-0018) tas fram med `--arkiv` och hämtas med
+samma flagga till steg 2. `web.archive.org` svarar inte alltid och nås inte
+från alla miljöer; från GitHub Actions gör den det:
+
+```sh
+python3 -m kommunhandlingar.upptack kommuner/kungsbacka.toml /tmp/kommunhandlingar --arkiv
+```
+
 ## Hämtning och konvertering
 
 Steg 2 läser kandidatlistan från samma arbetskatalog och skriver i `data/`

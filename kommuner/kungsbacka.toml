@@ -74,9 +74,12 @@ id = "kf"
 namn = ["Kommunfullmäktige"]
 
 # Mötessidorna på kungsbacka.se (ADR-0011): organet är sidans, typen står i
-# filnamnet, och datumet i filnamnet eller i mötets rubrik.
+# filnamnet, och datumet i filnamnet eller i mötets rubrik. Med wayback = true
+# läses sidorna också ur Internet Archive (ADR-0018); avstängt tills
+# konverteringen är färdig.
 [[kalla]]
 adapter = "sitevision"
+wayback = false
 manader = [
   "januari", "februari", "mars", "april", "maj", "juni",
   "juli", "augusti", "september", "oktober", "november", "december",

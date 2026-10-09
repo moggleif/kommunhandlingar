@@ -187,8 +187,9 @@ eller protokollet.
 Kontrollerat 2026-10-08 med Internet Archives CDX-tjänst
 (`https://web.archive.org/cdx/search/cdx`), körd från GitHub Actions
 ([#24](https://github.com/moggleif/kommunhandlingar/issues/24)). Molnmiljön
-som AI-agenten arbetar i når inte `web.archive.org` (anslutningen bryts);
-Actions gör det, både CDX-listorna och hela kopior.
+som AI-agenten arbetar i nådde inte `web.archive.org` 2026-10-08 på
+dagen (anslutningen bröts), men gjorde det ibland samma kväll; Actions
+når både CDX-listorna och hela kopior.
 
 Webbplatsen har haft tre generationer. Dokumenten från de två
 Episerver-generationerna och Sitevisions år 2021–2023 hittas inte från den
@@ -200,6 +201,11 @@ politik-repot fick 404 på `globalassets`-adresserna.
 | Episerver, äldre | 2013–2017 | `www.kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/<organ>/<typ>/<år>/<fil>.pdf` | Dagordning, protokoll och handlingar; ibland flera handlingar per möte |
 | Episerver, `globalassets` | 2017–2022 | `www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/<organ>/<typ>/<år>/[<datum>/]<fil>.pdf` | Handlingarna **en PDF per ärende** |
 | Sitevision | 2021 → | `kungsbacka.se/download/18.<nod-id>/<tidsstämpel>/<filnamn>` | Som i avsnitt 1 |
+
+Sitevision-generationen kan hämtas i nattkörningen, sist och nyast först
+([ADR-0018](../decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)),
+men är avstängd (`wayback = false`) tills konverteringen är färdig. De två
+Episerver-generationerna hämtas inte än.
 
 Organ och typ står i sökvägen i de två Episerver-generationerna, och i
 filnamnet hos Sitevision. Organen hette annorlunda förr, och några finns
@@ -316,9 +322,16 @@ plattformarna låg parallellt en tid.
 
 - **Kopior kapas tyst.** Samma fil kan ha flera kopior av olika storlek,
   till exempel fullmäktiges handlingar 2022-06-15, där CDX anger 59,8 MB
-  för en kopia och 1,0 MB för en annan. Hur en hel kopia känns igen och väljs avgörs med
-  adaptern ([#51](https://github.com/moggleif/kommunhandlingar/issues/51)).
+  för en kopia och 1,0 MB för en annan. Den största kopian av den nyaste
+  versionen väljs, och en kopia utan `%%EOF` i slutet blir `ej-hamtad` med
+  `fel: kapad`
+  ([ADR-0018](../decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)).
 - Några kopior är sparade som 404-sidor (`text/html`) och räknas inte.
+- CDX-fältet `length` är den komprimerade postens längd i arkivet, inte
+  filens. Tre av 7 137 filrader hade 2026-10-08 ett negativt värde och
+  rangordnas därför som minst.
+- CDX svarar ibland med en HTML-sida, "Internet Archive: Temporarily
+  Offline", i stället för listan.
 - Hela kopian hämtas med `https://web.archive.org/web/<tidsstämpel>id_/<adress>`;
   `id_` ger filen som den var, utan Waybacks ram.
 - `archive.org` svarade 429 på upprepade anrop; `web.archive.org` bröt

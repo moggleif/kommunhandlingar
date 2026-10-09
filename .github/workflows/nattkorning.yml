@@ -1,5 +1,6 @@
 # Den schemalagda körningen (K11, ADR-0006 och ADR-0015): upptäckt och
-# steg 2 för varje kommun, datakontrollerna, och en egen gren med datat.
+# steg 2 för varje kommun, sedan för arkivet (K16, ADR-0018),
+# datakontrollerna, och en egen gren med datat.
 name: Nattkörning
 
 on:
@@ -45,6 +46,16 @@ jobs:
             python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete"
             python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
               --start "$START" | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+          done
+      - name: Arkivet för varje kommun, när det levande är hämtat
+        # Ett fel i arkivet stoppar inte incheckningen av det levande (ADR-0018).
+        continue-on-error: true
+        run: |
+          for kommunfil in kommuner/*.toml; do
+            python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete" \
+              --arkiv --start "$START" | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+            python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
+              --arkiv --start "$START" | tee -a "$RUNNER_TEMP/sammanfattning.txt"
           done
       - name: Datakontrollerna
         run: python -m kommunhandlingar.datakontroll data

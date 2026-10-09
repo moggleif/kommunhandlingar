@@ -28,7 +28,9 @@ kommuner/<kommun>.toml
 Varje steg är ett eget kommando. Steg 1 och 3 läser bara föregående stegs
 utdata; steg 2 läser kandidatlistan och dessutom poolens front matter, som
 är tillståndet. Kandidatlistan skrivs till en arbetskatalog utanför repot
-och tas fram på nytt vid varje körning.
+och tas fram på nytt vid varje körning. Steg 1 och 2 körs två gånger:
+först för de levande källorna och sedan, med `--arkiv`, för arkivet
+([Arkivet](#arkivet)).
 
 ### Inkrementell körning
 
@@ -44,8 +46,8 @@ Hur och varför står i
   adresser väljer adaptern den som gäller, annars skulle körningarna
   turas om att hämta varandras adresser. Valet är stabilt: en ny kopia av
   oförändrat innehåll, till exempel en ny ögonblicksbild i Internet
-  Archive, ger inte en ny kandidat. Hur Wayback-adaptern väljer avgörs när
-  den skrivs.
+  Archive, ger inte en ny kandidat. Hur arkivet väljer kopia står i
+  [Arkivet](#arkivet).
 - **PDF:en finns bara medan dokumentet behandlas.** Den hämtas till en
   temporär fil utanför repot och raderas när dokumentet är konverterat,
   även om konverteringen misslyckas.
@@ -73,7 +75,8 @@ Vilken ordning står i K13, och hur och varför i
 [ADR-0010](decisions/0010-ordningen-organ-for-organ.md). Ordningen
 mellan organ är `[[organ]]`-listans ordning i kommunfilen; det finns
 inget eget fält för den. Ordningen inom ett organ står i koden och är
-densamma för alla kommuner.
+densamma för alla kommuner. Arkivets lista tas nyast först
+([ADR-0018](decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)).
 
 ### Körning och incheckning
 
@@ -89,7 +92,9 @@ två startas står i K11.
   (`workflow_dispatch`), i en `concurrency`-grupp utan
   `cancel-in-progress`. Gruppen håller högst en körning i kö; en senare
   start ersätter den som väntar. Jobbet kör upptäckten och steg 2 för
-  varje kommunfil i `kommuner/`.
+  varje kommunfil i `kommuner/`, och sedan detsamma med `--arkiv`. Ett fel
+  i arkivets steg stoppar inte jobbet (`continue-on-error`), så att det som
+  hämtats från de levande källorna ändå kontrolleras och checkas in.
 - **Varje körning börjar från en ren utcheckning av `main`.**
 - **Tidsbudget, räknat från jobbets start** (`hamta --start`). Efter 5
   timmar startas inget nytt dokument. Efter 5 timmar och 30 minuter
@@ -168,10 +173,11 @@ src/kommunhandlingar/
   schema.py        kontrollerna av fält och värden i kommunfilen
   fel.py           konfigurationsfel och "ingen kandidat"
   monster.py       mönstren: typ och datum ur en text
-  kandidat.py      kandidaten och ordningen (K13)
+  kandidat.py      kandidaten, ordningen (K13, K16) och listans sökväg
   adaptrar/        en modul per publiceringsplattform (sitevision, ciceron, …)
                    eller arkiv (wayback);
-                   sitevision_html.py läser mötessidan, sitevision.py tolkar den
+                   sitevision_html.py läser mötessidan, sitevision.py tolkar den,
+                   sitevision_arkiv.py läser sidorna och filerna ur arkivet
   upptack.py       steg 1: hämtar källsidorna och skriver kandidatlistan
   hamtning/        artig HTTP-klient: robots.txt, intervall och nya försök
   hamta.py         steg 2: tar kandidatlistan in i poolen, ett dokument i taget
@@ -283,6 +289,7 @@ Mötets filer står antingen som länkar i filportleten
 ```toml
 [[kalla]]
 adapter = "sitevision"
+wayback = true
 manader = ["januari", "februari", …, "december"]
 rubrik = '^(?P<dag>\d{1,2}) (?P<manad>[a-zåäö]+) (?P<ar>\d{4})'
 
@@ -298,6 +305,7 @@ bun = "https://exempelby.se/…/barn-och-ungdomsnamndens-sammantraden"
 | `kalla.sidor`     | Organets id och adressen till dess mötessida. Organet är sidans. |
 | `kalla.rubrik`    | Ett reguljärt uttryck med grupperna `ar`, `manad` och `dag`, som läser mötesrubriken. |
 | `kalla.rattelser` | Källnyckel och det rätta datumet, för filer vars filnamn och rubrik anger olika datum. |
+| `kalla.wayback`   | `true`: sidorna läses också ur Internet Archive ([Arkivet](#arkivet)). Utelämnas annars. |
 
 - **Källnyckeln** är `sitevision:` och nod-id:t. Adressen är länkens
   eller JSON-postens `uri` som sidan skriver den, gjord absolut; båda
@@ -361,7 +369,53 @@ K13, en post per kandidat med fälten `organ`, `datum` (`ÅÅÅÅ-MM-DD`),
 `typ`, `url`, `kalla`, `kallnyckel` och `filnamn`. Sammanfattningen
 skrivs ut: antal kandidater per organ och varje fil som inte blev
 kandidat, med orsak och källsida. En källsida som inte går att hämta
-stoppar körningen innan listan skrivs.
+stoppar körningen innan listan skrivs, utom i arkivet ([Arkivet](#arkivet)).
+
+### Arkivet
+
+Hur och varför står i
+[ADR-0018](decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md),
+och beteendet i K16.
+`python -m kommunhandlingar.upptack kommuner/<kommun>.toml <arbetskatalog>
+--arkiv --start <N>` skriver `<arbetskatalog>/<kommun>.arkiv.kandidater.json`
+i samma form som kandidatlistan, för de källor som har `wayback = true`.
+Är tidsbudgetens mjuka gräns räknat från `--start` passerad blir listan
+tom, och arkivet frågas inte. Nås den hårda gränsen (`SIGALRM`) under
+upptäckten avbryts den, och listan blir tom.
+
+- **CDX-tjänsten** (`https://web.archive.org/cdx/search/cdx`) ger
+  arkivets kopior med status 200: för varje mötessida (`text/html`) och,
+  med `matchType=prefix`, alla filer under `<värd>/download/`
+  (`application/pdf`). En kopia hämtas med
+  `https://web.archive.org/web/<tidsstämpel>id_/<adress>`, som ger den
+  som den sparades, med originalets länkar.
+- **Mötessidorna.** Den sista ögonblicksbilden från varje år läses, den
+  nyaste först, med Sitevision-adapterns regler. Den första ögonblicksbild
+  som ger en kandidat för ett nod-id gäller. Kandidatens `kalla` är
+  ögonblicksbildens adress.
+- **Kopian.** För varje nod-id tas den största tidsstämpeln i Sitevisions
+  adress, sedan den största kopian (`length`) och vid lika den äldsta.
+  Har arkivet ingen kopia av en fil på sidan blir den ingen kandidat, med
+  orsaken `ingen kopia i arkivet`. `kalla_url` blir kopians adress.
+- **Noteringar.** En fråga som inte besvaras efter klientens nya försök,
+  eller som ger något annat än JSON (arkivet svarar ibland med en
+  HTML-sida, "Temporarily Offline"), och en mötessida som arkivet inte har
+  någon kopia av eller en ögonblicksbild som inte går att läsa, hoppas
+  över och står i sammanfattningen efter
+  "Arkivet:". Utan fillistan blir det inga kandidater alls.
+
+`python -m kommunhandlingar.hamta … --arkiv` läser arkivets lista, och
+steg 2 gör som för de levande källorna med två skillnader:
+
+- **Bara luckor.** En kandidat vars källnyckel finns i poolen utan
+  `ej-hamtad`, vars plats har ett dokument från en levande källa, eller
+  vars plats har ett dokument ur arkivet (`kalla_url` på
+  `https://web.archive.org/web/`) vars källnyckel inte finns i arkivets
+  lista, hämtas inte ("finns redan; arkivet fyller bara
+  luckor"). Ett `ej-hamtad` med samma källnyckel fylls; misslyckas också
+  arkivets försök står den levande källans försök kvar orört.
+- **Kapade kopior.** En hämtad kopia utan `%%EOF` bland de sista 1 024
+  byten blir `ej-hamtad` med `fel: kapad`.
 
 ## Front matter
 
