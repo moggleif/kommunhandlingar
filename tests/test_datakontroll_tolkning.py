@@ -111,6 +111,10 @@ class TestSidansTal(unittest.TestCase):
         md += "[Tabell 1-1](p-76.tabeller/1-1.csv)\n<!-- tolkning: m -->\n99\n"
         self.assertEqual(TALEN.findall(sidans_text(md, 1)), [])
 
+    def test_sidans_text_utan_escapning(self):
+        md = "---\nf: 1\n---\n<!-- sida 1 -->\n1\\. Mål\\* 12 %, a\\\\b\n"
+        self.assertEqual(sidans_text(md, 1), "\n1. Mål* 12 %, a\\b\n")
+
     def test_hela_tal(self):
         text = "Antal 1 120 och -45 % samt 3,5."
         self.assertEqual(TALEN.findall(text), ["1 120", "-45 %", "3,5"])

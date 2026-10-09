@@ -23,6 +23,7 @@ RADER = [
     "=====",
     "___________________________________",
     "*** fet ***",
+    "* * * * *",
     "# Rubrik",
     "#",
     "> Rättigheter redovisas inom detaljplaneområdet.",
@@ -74,6 +75,10 @@ class TestRad(unittest.TestCase):
     def test_vanlig_text_ror_inte(self):
         rad = "Årets  arbete med 4 078  4 054 kr, fil_2024.pdf (bilaga 3)."
         self.assertEqual(markdown.rad(rad), rad)
+
+    def test_en_rad_av_streck_far_ett_tecken_forst(self):
+        self.assertEqual(markdown.rad("-----"), "\\-----")
+        self.assertEqual(markdown.rad("* * *"), "\\* \\* \\*")
 
     def test_indrag_tas_bort(self):
         self.assertEqual(markdown.rad("    kod?"), "kod?")

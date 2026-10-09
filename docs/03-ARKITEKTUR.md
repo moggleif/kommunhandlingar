@@ -736,7 +736,7 @@ GitHubs formler med `$`. Efter front matter följer sidorna i ordning. Varje sid
     mellanslag eller radslut, `#`, `>`, och `[` i något som liknar en
     länkdefinition (`[1]: …`);
   - en rad av bara `-`, `=`, `_`, `*`, `|`, `:` och mellanslag får ett
-    `\` först och escapas inte i övrigt;
+    `\` först, och i övrigt escapas bara `*`;
   - var som helst: `\` före ett skiljetecken eller i radslutet, `` ` ``,
     `*`, `~`, `$`, `<` före en bokstav, `/`, `!` eller `?`, `&` i
     något som liknar en entitet (`&amp;`, `&#776;`), `]` före `(`, och `_`
@@ -858,8 +858,8 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
   var, från 1 till sista sidan. I en tolkad CSV ska varje tal i varje
   cell stå i sidans text före tolkningen, och en cell med siffror som
   inte är ett helt tal, som `65–79 år` eller `2022-23`, ska stå
-  ordagrant där. Sidans text är då utan länkarna till tabellerna, och
-  ett tal är ett helt tal med tusentalsmellanrum: `120` står inte i
+  ordagrant där. Sidans text är då utan länkarna till tabellerna och
+  utan Markdowns escapning, som den stod i PDF:en, och ett tal är ett helt tal med tusentalsmellanrum: `120` står inte i
   `1 120` eller `1 250–1 120`, och inget tal står i `13.30`,
   `2025-10-08`, `2022/23`, `K15` eller `3a`. En cell som står ordagrant
   är heller ingen del av ett tal: `5–3` står inte i `2,5–3,5`, och
