@@ -18,6 +18,7 @@ import re
 from pdfplumber.page import Page
 from pdfplumber.table import Table
 
+from kommunhandlingar.konvertering import markdown
 from kommunhandlingar.konvertering.falt import falt, radvis
 from kommunhandlingar.konvertering.text import TAL
 
@@ -114,7 +115,7 @@ def som_csv(rader_: list[list[str]]) -> str:
 
 
 def som_markdown(rader_: list[list[str]]) -> str:
-    celler = [[c.replace("|", "\\|").replace("\n", "<br>") for c in r] for r in rader_]
+    celler = [[markdown.cell(c) for c in r] for r in rader_]
     rubrik, *ovriga = celler
     linjer = [rubrik, ["---"] * len(rubrik), *ovriga]
     return "\n".join("| " + " | ".join(rad) + " |" for rad in linjer)

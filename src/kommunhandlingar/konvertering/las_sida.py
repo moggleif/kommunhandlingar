@@ -11,7 +11,7 @@ from dataclasses import dataclass, field
 import pypdfium2 as pdfium
 from pdfplumber.page import Page
 
-from kommunhandlingar.konvertering import figurer, ocr, olinjerade, tabeller
+from kommunhandlingar.konvertering import figurer, markdown, ocr, olinjerade, tabeller
 from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
 
@@ -40,7 +40,8 @@ def ocr_sida(rendering: pdfium.PdfPage, figur: bool) -> Sida:
     text = ocr.las(rendering)
     if text is None:
         return Sida("ej-konverterad", True, figur=figur)
-    return Sida("ocr", True, komprimera(text.splitlines()), figur=figur)
+    rader = [markdown.rad(r) for r in text.splitlines()]
+    return Sida("ocr", True, komprimera(rader), figur=figur)
 
 
 def ej_vita(rendering: pdfium.PdfPage) -> float:
