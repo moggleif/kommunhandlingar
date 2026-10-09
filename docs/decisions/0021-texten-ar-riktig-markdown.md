@@ -83,7 +83,7 @@ en enda ägare av formatet. Den exakta regeln står i
   kan använda en vanlig Markdown-läsare.
 * Bra, eftersom lint fångar trasig Markdown i allt som når `main`,
   också text som skrivs för hand, som tolkade figurer (ADR-0017).
-* Dåligt, eftersom råfilen får `\` på omkring 40 000 rader, mest `1\.`
+* Dåligt, eftersom råfilen får `\` på omkring 44 000 rader, mest `1\.`
   och `\-` i radens början.
 * Dåligt, eftersom raderna i ett stycke flyter ihop när texten visas på
   GitHub; uppställningen syns bara i råfilen och där den som visar texten
