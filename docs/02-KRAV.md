@@ -146,7 +146,8 @@ kunna läggas till utan kodändring.
 
 - **Givet** att en källnyckel redan finns i poolen som ett dokuments
   `kallnyckel`, med samma `kalla_url` som upptäckten anger och utan
-  kvalitet `ej-hamtad`
+  kvalitet `ej-hamtad`, och, när kommunfilen har `omkonvertera = true`,
+  med den version av poolen som körs i `pipeline`
 - **När** en ny körning startas
 - **Så** hämtas filen inte, och dokumentets `.md` lämnas orörd.
 
@@ -170,6 +171,16 @@ kunna läggas till utan kodändring.
   dokument med `ej-hamtad` som nu går att hämta skrivs som en fullständig
   `.md` på samma sökväg.
 
+- **Givet** en kommunfil med `omkonvertera = true`, ett fullständigt
+  dokument vars `pipeline` har en annan version av poolen än den som
+  körs, och en kandidat med samma källnyckel och samma `kalla_url`
+- **När** körningen når kandidaten
+- **Så** hämtas filen och konverteras om. Är sha256 densamma skrivs
+  dokumentet om på samma sökväg med den nya versionens text, tabeller och
+  fält, och sammanfattningen räknar det som "konverterad om". Är sha256
+  en annan blir det en ny version enligt K9. Går filen inte att hämta står
+  den gamla `.md` orörd, och nästa körning försöker igen.
+
 - **Givet** att en körning avbryts mitt i
 - **När** nästa körning startas
 - **Så** finns ingen PDF i repot och ingen halvskriven `.md`, och nästa
@@ -191,7 +202,10 @@ kunna läggas till utan kodändring.
 - **Givet** att filen under en ny adress har samma källnyckel och samma
   sha256 som den som redan finns
 - **När** nästa körning hittar den
-- **Så** uppdateras bara `kalla_url`, och texten konverteras inte om.
+- **Så** uppdateras bara `kalla_url`, och texten konverteras inte om, om
+  inte kommunfilen har `omkonvertera = true` och dokumentets `pipeline`
+  har en annan version av poolen än den som körs; då konverteras det om
+  som i K8.
 
 - **Givet** att kommunen publicerar en fil under en ny källnyckel på ett
   dokuments plats, och den gamla källnyckeln inte längre finns i källan
@@ -278,7 +292,9 @@ kunna läggas till utan kodändring.
 - **Så** tas kandidaterna organ för organ, i den ordning organen står i
   kommunens konfiguration; inom ett organ protokoll, kallelser, bilagor
   och sist handlingar; inom varje typ det äldsta sammanträdet först; och
-  vid lika värden i källnyckelns ordning.
+  vid lika värden i källnyckelns ordning. Kandidater som bara ska
+  konverteras om (K8) tas efter alla andra i samma kandidatlista, i samma
+  ordning sinsemellan.
 
 - **Givet** samma kandidatlista i en annan upptäcktsordning
 - **När** hämtningen börjar

@@ -36,23 +36,30 @@ def kandidat(nyckel: str, url: str, typ: str = "protokoll", filnamn: str = "P.pd
     return Kandidat("ks", date(2025, 4, 22), typ, url, "sida", nyckel, filnamn)
 
 
-class TestSteg2(unittest.TestCase):
+class Steg2Fall(unittest.TestCase):
     def setUp(self):
         katalog = tempfile.TemporaryDirectory()
         self.addCleanup(katalog.cleanup)
         self.data = Path(katalog.name)
         self.klient = Klient()
 
-    def kor(self, *kandidater: Kandidat) -> list[str]:
-        steg = Steg2(
+    def steg(
+        self, kandidater: list[Kandidat], version: str = "kommunhandlingar 0.2.0"
+    ) -> Steg2:
+        return Steg2(
             self.data,
             "exempelby",
             pool.las(self.data, "exempelby"),
             self.klient,
             frozenset(k.kallnyckel for k in kandidater),
             lambda: TID,
-            "kommunhandlingar 0.2.0",
+            version,
         )
+
+    def kor(
+        self, *kandidater: Kandidat, version: str = "kommunhandlingar 0.2.0"
+    ) -> list[str]:
+        steg = self.steg(list(kandidater), version)
         return [behandla(steg, k) for k in kandidater]
 
     def md(self, namn: str = "protokoll") -> Path:
@@ -61,6 +68,8 @@ class TestSteg2(unittest.TestCase):
     def falt(self, namn: str = "protokoll") -> dict[str, str]:
         return frontmatter.las(self.md(namn).read_text(encoding="utf-8"))
 
+
+class TestSteg2(Steg2Fall):
     def test_nytt_dokument_med_tabeller(self):
         self.klient.filer["u1"] = "sidor.pdf"
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["konverterad"])

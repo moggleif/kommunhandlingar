@@ -1,10 +1,12 @@
-"""Krav: K4–K6, K8, K9, K11, K13 och K16 i docs/02-KRAV.md, ADR-0004 och
-ADR-0018. Test: tests/test_hamta.py.
+"""Krav: K4–K6, K8, K9, K11, K13 och K16 i docs/02-KRAV.md, ADR-0004,
+ADR-0018 och ADR-0019. Test: tests/test_hamta.py och
+tests/test_omkonvertering.py.
 
 Steg 2: `python -m kommunhandlingar.hamta <kommunfil> <arbetskatalog>
 [--arkiv] [--start N]`. Läser kandidatlistan från steg 1, med `--arkiv`
 arkivets, och tar kandidaterna i dess ordning, ett dokument i taget, in i
-`data/` i samma repo som kommunfilen. Med `--start` gäller tidsbudgeten i
+`data/` i samma repo som kommunfilen; de som bara ska konverteras om tas
+sist. Med `--start` gäller tidsbudgeten i
 K11, räknad från jobbets start.
 """
 
@@ -17,7 +19,7 @@ from importlib.metadata import version
 from pathlib import Path
 
 from kommunhandlingar import konfiguration, pool, tidsbudget
-from kommunhandlingar.behandla import Steg2, behandla
+from kommunhandlingar.behandla import Steg2, bara_omkonvertering, behandla
 from kommunhandlingar.fel import Konfigurationsfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
@@ -33,6 +35,10 @@ def las_kandidater(fil: Path) -> list[Kandidat]:
 
 def nu() -> datetime:
     return datetime.now(UTC).replace(microsecond=0)
+
+
+def ordna(steg: Steg2, kandidater: list[Kandidat]) -> list[Kandidat]:
+    return sorted(kandidater, key=lambda k: bara_omkonvertering(steg, k))
 
 
 def kor(steg: Steg2, kandidater: list[Kandidat], mjuk: datetime) -> Counter:
@@ -68,11 +74,12 @@ def main(arg: argparse.Namespace) -> None:
         tid=nu,
         version=f"kommunhandlingar {version('kommunhandlingar')}",
         arkiv=arg.arkiv,
+        omkonvertera=kommun.omkonvertera,
     )
     if arg.start:
         tidsbudget.starta_hard_grans(arg.start, nu())
     try:
-        utfall = kor(steg, kandidater, tidsbudget.mjuk_grans(arg.start))
+        utfall = kor(steg, ordna(steg, kandidater), tidsbudget.mjuk_grans(arg.start))
     finally:
         tidsbudget.stoppa()
     for resultat, antal in sorted(utfall.items()):

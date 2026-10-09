@@ -5,6 +5,11 @@
 
 namn = "Kungsbacka kommun"
 
+# Med omkonvertera = true hämtas dokument från en annan version av poolen igen
+# och konverteras om, efter allt nytt (ADR-0019); avstängt tills
+# konverteringen är färdig.
+omkonvertera = false
+
 [[organ]]
 id = "ga"
 namn = ["Nämnden för Gymnasium & Arbetsmarknad"]

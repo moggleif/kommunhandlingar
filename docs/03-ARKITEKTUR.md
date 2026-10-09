@@ -58,6 +58,16 @@ Hur och varför står i
   emellan står nya tabeller bredvid den gamla `.md`; dess `kalla_url` är
   då fortfarande den gamla, så nästa körning gör om dokumentet. En sådan
   körning checkas aldrig in (se nedan).
+- **En äldre version av poolen konverteras om**, när kommunfilen har
+  `omkonvertera = true` (K8,
+  [ADR-0019](decisions/0019-omkonvertering-efter-poolens-version.md)).
+  Utan den räknas versionen inte, som före ADR-0019. Ett fullständigt dokument vars `pipeline` börjar med en annan version
+  av poolen än den som körs hämtas igen från `kalla_url` och konverteras
+  om, efter alla andra kandidater i samma lista. Det är versionen som
+  avgör, och den höjs när konverteringen ändrar vad den skriver (se
+  [Konvertering och kvalitet](#konvertering-och-kvalitet)), så med
+  flaggan påslagen konverteras hela poolen om under de närmaste
+  nätterna. PDF:en sparas inte mellan körningarna; den hämtas igen.
 - **Det som en gång tagits in tas inte bort** (K12,
   [ADR-0007](decisions/0007-poolen-ar-en-ogonblicksbild.md)). Ett
   dokument står kvar när det försvinner ur källan, och historiken på
@@ -229,6 +239,7 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
 | Fält                   | Betyder                                                      |
 | ---------------------- | ------------------------------------------------------------ |
 | `namn`                 | Kommunens namn.                                              |
+| `omkonvertera`         | `true`: dokument från en annan version av poolen konverteras om ([Inkrementell körning](#inkrementell-körning)). Utelämnas annars. |
 | `organ.id`             | Organets katalog i `data/` och `organ` i front matter.       |
 | `organ.namn`           | Alla namn källorna använt för organet, minst ett.            |
 | `organ.fran`, `till`   | Giltighetsperioden, som datum. Ett utelämnat värde är öppet åt det hållet. |
@@ -621,7 +632,10 @@ verktyg läst dokumentet, och `pipeline` är bara poolens version.
 Språkmodellens version är paketet `tesseract-ocr-swe`:s version utan epok
 och revision; går den inte att läsa ur paketsystemet står `okänd`. En fil
 som inte gick att öppna har lästs av pdfplumber och pdfminer.six.
-Versionen höjs när en ändring i konverteringen ändrar vad den skriver.
+Versionen höjs när en ändring i konverteringen ändrar vad den skriver,
+och bara då: med `omkonvertera = true` gör varje höjning att hela poolen
+hämtas och konverteras om ([ADR-0019](decisions/0019-omkonvertering-efter-poolens-version.md)).
+Verktygens versioner i `pipeline` ger ingen omkonvertering.
 
 ### Figurer
 
@@ -727,8 +741,9 @@ matter följer sidorna i ordning. Varje sida börjar med kommentaren
 
 `python -m kommunhandlingar.hamta kommuner/<kommun>.toml <arbetskatalog>`
 läser `<arbetskatalog>/<kommun>.kandidater.json` och skriver i `data/` i
-samma repo som kommunfilen. Kandidaterna tas i listans ordning, och för
-var och en avgör K8 och K9 vad som händer. Sammanfattningen räknar
+samma repo som kommunfilen. Kandidaterna tas i listans ordning, utom de
+som bara ska konverteras om, som tas sist (K13), och för var och en avgör
+K8 och K9 vad som händer. Sammanfattningen räknar
 utfallen och nämner varje dokument som inte gick att hämta, med orsak.
 
 - **Platsen** för en ny källnyckel är organ, datum och typ. En bilaga får
@@ -744,7 +759,8 @@ utfallen och nämner varje dokument som inte gick att hämta, med orsak.
   ser ut, blir `ej-konverterad` med `trasig-pdf`, och felet skrivs ut, så
   att en enda fil inte stoppar körningen.
 - **Ett dokument med samma källnyckel och sha256** under en ny adress får
-  bara ny `kalla_url`; texten och tabellerna rörs inte.
+  bara ny `kalla_url`; texten och tabellerna rörs inte. Har det en äldre
+  version av poolen konverteras det om i stället.
 
 ## Tabeller
 
