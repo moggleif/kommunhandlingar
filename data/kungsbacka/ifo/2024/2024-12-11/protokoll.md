@@ -324,10 +324,10 @@ Sammanfattning av ärendet
 
 Nämnden för Individ och Familjeomsorg ska ge förslag åt kommunstyrelsen att
 besluta om utdelning ur Arvid och Hildur Anderssons fond.
-* Till vård av sjuka och invalidiserade personer
+\* Till vård av sjuka och invalidiserade personer
 
-* Från Släps församling
-* För behov som icke kan tillgodoses av allmänna medel eller andra bidrag
+\* Från Släps församling
+\* För behov som icke kan tillgodoses av allmänna medel eller andra bidrag
 
 I år har enbart två ansökningar inkommit för utdelning av medel 2024 per sista
 ansökningsdatum 30 oktober, dessvärre uppfyller ingen av dem villkoret att vara från
@@ -454,11 +454,11 @@ har bil ska kunna ta sig till och från arbetet dygnets alla timmar. Även tillg
 till natur och friluftsliv bör inkluderas i planens beskrivningar.
 
 Nämnden ställer sig även positiv till följande aspekter av bostadsförsörjningsplanen:
-* Kommunen ska fortsätta att planera efter att de boenden som kommunen
+\* Kommunen ska fortsätta att planera efter att de boenden som kommunen
 tillhandahåller som stöd till vissa målgrupper ska vara utspridda och integrerade i
 samhället
 
-* Kommunen ska prova nya metoder för att minska hemlösheten
+\* Kommunen ska prova nya metoder för att minska hemlösheten
 
 Beslutsunderlag
 
@@ -584,7 +584,7 @@ Ragnarsson, Karim Sleiman, Malena Sköld, Alexandra Talavanic, Anneli Ulfsson,
 Sarah Wallin, Sofia Wilde, Kia Wingård och Josefin Öberg.
 
 Detta beslut ersätter Nämnden för Individ & Familjeomsorgs beslut § 139 2023-11-
-16.
+16\.
 
 Sammanfattning av ärendet
 
@@ -711,7 +711,7 @@ arbeta på ett mer förebyggande sätt.
 
 Förändringar som måste göras:
 • Kungsbacka kommun måste ta höjd för att möta utmaningarna i kommunbudget
-2026.
+2026\.
 
 • Bland annat måste mer resurser läggas på uppsökande arbete bland ungdomar på
 internet, gator och torg och på skolorna.

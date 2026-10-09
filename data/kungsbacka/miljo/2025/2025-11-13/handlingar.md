@@ -156,7 +156,7 @@ och 45 procent män. Antal årsarbetare omräknat i heltid uppgår till 105,2.
 
 Budgetomslutningen 2026 är knappt 90 miljoner kronor varav cirka 80 procent utgörs av personalkostnader.
 Verksamheten finansieras till drygt 50 procent av avgifter. Nämnden har en nettobudget på 40 miljoner kronor
-2026.
+2026\.
 
 1.4 Nämnd/styrelse
 
@@ -547,10 +547,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 13
 
@@ -574,11 +574,11 @@ Nämndbudget 2026
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 14
 
@@ -611,8 +611,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Målsättning
@@ -648,8 +648,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 16
 
@@ -684,12 +684,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 17
 
@@ -1319,7 +1319,7 @@ tillsynsplanen.
 Kontrollplanen för alkohol, livsmedel och tobak samt tillsynsplanen enligt
 miljöbalken kommer beslutas av nämnden för Miljö & Hälsoskydd den 4 december
 
-2025.
+2025\.
 Särskilt viktiga områden inom det behovsprioriterade arbetet
 
 Inom tillsynen är följande områden särskilt viktiga att lyfta fram:
@@ -1345,15 +1345,15 @@ Innehållsförteckning
 Sammanfattning ................................................................................................. 1
 
 Innehållsförteckning .......................................................................................... 5
-1.  Inledning .................................................................................................... 7
+1\.  Inledning .................................................................................................... 7
 
-2.  Beskrivning av tillsynsuppdraget ................................................................ 8
+2\.  Beskrivning av tillsynsuppdraget ................................................................ 8
 2.1  Tillsynsansvaret.................................................................................. 8
 
 2.2  Styrande dokument ............................................................................. 8
 
 2.3  Samverkan ........................................................................................12
-3.  Beskrivning av behovsutredningen ............................................................12
+3\.  Beskrivning av behovsutredningen ............................................................12
 
 3.1  Förklaring av olika begrepp ...............................................................12
 
@@ -1363,9 +1363,9 @@ Innehållsförteckning .........................................................
 3.4  Konsekvenser vid resursbrist .............................................................19
 3.5  Behov av kompetensförsörjning ........................................................19
 
-4.  Resursbehov av övrig tid ...........................................................................20
+4\.  Resursbehov av övrig tid ...........................................................................20
 
-5.  Resursbehov av handläggningstid per verksamhetsområde ........................23
+5\.  Resursbehov av handläggningstid per verksamhetsområde ........................23
 5.1  Miljöfarlig verksamhet ......................................................................23
 
 5.2  Förorenade områden ..........................................................................27
@@ -1387,7 +1387,7 @@ Innehållsförteckning .........................................................
 5.12 Servering- och försäljningsställen ......................................................55
 5.13 Servering- och försäljningsställen – Mölndal Stad .............................58
 
-6.  Resursbehov sammanställning...................................................................59
+6\.  Resursbehov sammanställning...................................................................59
 
 Sida 5 av 62
 
@@ -1397,7 +1397,7 @@ Sida 6 av 62
 
 <!-- sida 36 -->
 
-1. Inledning
+1\. Inledning
 
 För att möjliggöra en god och korrekt myndighetsutövning har kommunfullmäktige
 och kommunstyrelsen ansvar för att se till att nämnden för Miljö & Hälsoskydd har
@@ -1461,7 +1461,7 @@ sammanställning av resursbehov och personaltillgångar mellan 2026–2028 som
 
 beskrivs i den här behovsutredningen.
 
-2. Beskrivning av tillsynsuppdraget
+2\. Beskrivning av tillsynsuppdraget
 
 2.1  Tillsynsansvaret
 
@@ -1590,14 +1590,14 @@ utvecklingen:
 vågar och kan."
 För att nå visionen har kommunfullmäktige formulerat fem övergripande mål:
 
-1. En attraktiv kommun att bo, verka och vistas i
+1\. En attraktiv kommun att bo, verka och vistas i
 
-2. En hållbar utveckling och en hälsosam miljö
-3. Bästa företagsklimatet i Västsverige
+2\. En hållbar utveckling och en hälsosam miljö
+3\. Bästa företagsklimatet i Västsverige
 
-4. I Kungsbacka utvecklas vi hela livet
+4\. I Kungsbacka utvecklas vi hela livet
 
-5. Ett medskapande samhälle med öppen attityd
+5\. Ett medskapande samhälle med öppen attityd
 
 Sida 10 av 62
 
@@ -1679,7 +1679,7 @@ bland annat livsmedelsinspektörer, hälsoskyddstillsyn, dricksvattenkontroll, s
 avlopp, strandskyddshandläggare och miljöchefer. Syftet är samsyn,
 erfarenhetsutbyte och ökad kompetens.
 
-3. Beskrivning av behovsutredningen
+3\. Beskrivning av behovsutredningen
 Detta stycke handlar om vilka resurser som finns tillgängliga i form av årsarbetare
 (heltid och deltid) och hur det beräknas samt övergripande förutsättningar för
 
@@ -2043,7 +2043,7 @@ Nya arbetsuppgifter inom nya lagstiftningsområden gör att personal kan komma a
 behöva mer utbildning den närmsta perioden för att kunna arbeta inom andra
 områden.
 
-4. Resursbehov av övrig tid
+4\. Resursbehov av övrig tid
 Beskrivning av området
 Övrig tid, är sådan tid som inte är direkt handläggningstid men som behövs för att
 verksamheten ska fungera. Det beskrivs närmare i avsnitt 3.1
@@ -2188,7 +2188,7 @@ Sammanställning av resursbehov – Övrig tid
 Behovet uppgår till cirka 600 timmar per heltid. Det innebär att den tillgängliga
 handläggningstiden blir i genomsnitt 1000 timmar per handläggare.
 
-5. Resursbehov av handläggningstid per verksamhetsområde
+5\. Resursbehov av handläggningstid per verksamhetsområde
 
 I detta avsnitt redovisas resursbedömningen per tillsynsområde. Redovisningen är
 indelad i följande övergripande verksamhetsområden: miljöbalken samt alkohol,
@@ -2340,7 +2340,7 @@ Sida 25 av 62
 <!-- sida 55 -->
 
 cirka 400 timmar under 2026, cirka 300 timmar under 2027 och cirka 400 timmar
-2028.
+2028\.
 
 Nämndens riktning
 
@@ -2585,7 +2585,7 @@ Förskolor, Vårdlokaler, Tillfälligt boende (ex vandrarhem, camping,
 stuganläggning och hotell.), Inomhusmiljö, Hygieniska verksamheter, Rökfria
 miljöer, Strålskydd, Buller - all typ, Smittskydd och skadeljud, Skyddsjakt, Eldning
 
-- påverkan av hälsan.
+\- påverkan av hälsan.
 Tillsynsobjekten delas in i anmälningspliktiga (H) och icke anmälningspliktiga
 (UH) verksamheter.
 
@@ -2737,7 +2737,7 @@ verksamheter.
 Under perioden uppskattas den årliga tillsynstiden variera, eftersom
 tillsynsintervallerna skiljer sig mellan olika verksamheter. Tiden beräknas uppgå till
 cirka 500 timmar under 2026, cirka 300 timmar under 2027 och cirka 750 timmar
-2028.
+2028\.
 
 Nämndens riktning
 
@@ -3144,13 +3144,13 @@ genom 2026. Punkt 3 i uppdraget kommer att pågå under en treårsperiod.
 
 Miljö & Hälsoskydd har fått i uppdrag att:
 
-1. Justera riskklassningsmodellen för att inkludera servicehistorik och mätdata
-2. Effektivisera tillsynsprocesserna
+1\. Justera riskklassningsmodellen för att inkludera servicehistorik och mätdata
+2\. Effektivisera tillsynsprocesserna
 
-3. Verka för införandet av standardiserade protokoll (Water Wise projekt som
+3\. Verka för införandet av standardiserade protokoll (Water Wise projekt som
 inte har beviljats än)
 
-4. Fördjupa samverkan med serviceföretagen
+4\. Fördjupa samverkan med serviceföretagen
 
 Sida 42 av 62
 
@@ -3470,7 +3470,7 @@ Under perioden uppskattas den årliga tillsynstiden variera, eftersom
 tillsynsintervallerna skiljer sig mellan olika verksamheter. Tiden beräknas uppgå till
 cirka 700 timmar under 2026, cirka 300 timmar under 2027 och cirka 500 timmar
 
-2028.
+2028\.
 
 Sida 49 av 62
 
@@ -3633,7 +3633,7 @@ Livsmedelsverksamheter kontrolleras regelbundet. Kontrollen ska vara riskbaserad
 ändamålsenlig och likvärdig för alla verksamheter.
 
 Livsmedelsverket har tagit fram en riskklassningsmodell som används från och med
-2024. Syftet är att livsmedelskontrollerna ska utföras i de led i livsmedelskedjan där
+2024\. Syftet är att livsmedelskontrollerna ska utföras i de led i livsmedelskedjan där
 den är mest effektiv. Reglerna ska ta hänsyn till kända risker kopplade till varor och
 
 verksamheter samt ska ge tydligare information och undvika att vilseleda
@@ -3908,7 +3908,7 @@ Timmarna är uppdelade mellan tillsynskategorierna enligt figur 18 nedan.
 
 Figur 18. Figuren visar resursbehovet (timmar) för servering 2026–2028 för Mölndal Stad.
 
-6. Resursbehov sammanställning
+6\. Resursbehov sammanställning
 Behovsutredningen omfattar en period på tre år. För att få en någorlunda jämn
 
 resursfördelning mellan åren och därmed lättare kunna planera eventuell
@@ -4007,7 +4007,7 @@ tillsyn som ska utföras i Kungsbacka. Samtidigt finns det tillsynsområden som 
 omfattas av strategin, där nämnden har pekat ut vilka områden som är särskilt
 viktiga och kommer beskrivas mer i kommande tillsynsplan. Nämndens vilja
 kommer även att vara vägledande vid eventuell revidering av tillsynsplanen under
-2026.
+2026\.
 
 Se beräknat behov och tillgängliga resurser i behovsutredningen, enligt figur 20.
 
@@ -4100,7 +4100,7 @@ ska även föra register över de tillsynsobjekt som behöver återkommande till
 behovsutredningen och registret ska tillsynsmyndigheten upprätta en samlad tillsynsplan för tillsynen
 enligt miljöbalken inför varje verksamhetsår. Behovsutredning, tillsynsplan och kontrollplan ska
 beslutas av nämnden. Tillsynsplan och kontrollplan kommer beslutas av nämnden den 4 december
-2025.
+2025\.
 
 Målet med behovsutredning och tillsynsplan är att det ska leda till en effektiv och ändamålsenlig
 tillsyn som bygger på prioriteringar utifrån nämndens uppdrag och den ska leda till en hållbar
@@ -4235,10 +4235,10 @@ behovsprioriterade tillsynen inför beslut om kommande tillsynsplan för miljöb
 2025 för att uppnå nationella miljökvalitetsmålen i enlighet med bilaga 1, med
 ändring av prioriteringsordning enligt följande;
 
-1. Begränsad klimatpåverkan
-2. Grundvatten av god kvalitet
+1\. Begränsad klimatpåverkan
+2\. Grundvatten av god kvalitet
 
-3. God bebyggd miljö
+3\. God bebyggd miljö
 
 Sammanfattning av ärendet
 
@@ -4263,7 +4263,7 @@ miljöförvaltningen föreslår därför att nämnden för Miljö & Hälsoskydd 
 inriktning och inbördes rangordning avseende behovsprioriterad tillsyn utifrån
 följande miljökvalitetsmål:
 
-1. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka
+1\. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka
 olovlig avfallshantering och motverka dumpning av avfall genom att informera och
 arbeta förebyggande så att Kungsbacka kommun inte blir en kommun där
 systematisk brottslighet inom avfallsområdet tillåts etablera sig. Förvaltningen ska
@@ -4282,14 +4282,14 @@ Nämnden för Miljö & Hälsoskydd
 Datum
 2024-11-07
 
-2. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser
+2\. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser
 som ger information till våra invånare och företag och bidrar till en självreglerande
 utveckling där alla tjänar på att arbeta förbyggande med miljö- och
 hälsoskyddsfrågor. I första hand ska förvaltningen lägga tid på tillsyn och insatser
 som gynnar denna typ av utveckling och där grupper gynnas som inte kan värna sina
 egna rättigheter som barn, unga och äldre i Kungsbacka.
 
-3. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande
+3\. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande
 insatser som säkrar en långsiktig och hållbar dricksvattenförsörjning som bidrar till
 en god livsmiljö för växter och djur i sjöar och i våra vattendrag. Inom tillsynen ska
 förvaltningen prioritera tillsyn inom områden där stora risker finns för utsläpp till
@@ -4308,10 +4308,10 @@ Niclas Nilsson (M) yrkar på att ändra rangordningen av föreslagna prioriterad
 områden, där punkt 2. God bebyggd miljö och punkt 3. Grundvatten av god kvalitet
 byter plats enligt följande;
 
-1. Begränsad klimatpåverkan
-2. Grundvatten av god kvalitet
+1\. Begränsad klimatpåverkan
+2\. Grundvatten av god kvalitet
 
-3. God bebyggd miljö
+3\. God bebyggd miljö
 
 Beslutsgång
 
@@ -4498,7 +4498,7 @@ Sammanfattningsvis föreslår bygg- och miljöförvaltningen att nämnden för M
 Hälsoskydd väljer inriktning och inbördes rangordning avseende behovsprioriterad tillsyn
 utifrån följande miljökvalitetsmål:
 
-1. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka olovlig
+1\. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka olovlig
 avfallshantering och motverka dumpning av avfall genom att informera och arbeta
 förebyggande så att Kungsbacka kommun inte blir en kommun där systematisk
 brottslighet inom avfallsområdet tillåts etablera sig. Förvaltningen ska aktivt samverka
@@ -4507,7 +4507,7 @@ nationellt för att främja en positiv utveckling inom området där det ska lö
 
 rätt.
 
-2. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser som
+2\. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser som
 ger information till våra invånare och företag och bidrar till en självreglerande utveckling
 där alla tjänar på att arbeta förbyggande med miljö- och hälsoskyddsfrågor. I första hand
 ska förvaltningen lägga tid på tillsyn och insatser som gynnar denna typ av utveckling
@@ -4516,7 +4516,7 @@ i Kungsbacka.
 
 <!-- sida 102 -->
 
-3. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande insatser
+3\. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande insatser
 som säkrar en långsiktig och hållbar dricksvattenförsörjning som bidrar till en god
 livsmiljö för växter och djur i sjöar och i våra vattendrag. Inom tillsynen ska
 förvaltningen prioritera tillsyn inom områden där stora risker finns för utsläpp till vatten
@@ -4642,7 +4642,7 @@ Kommunen har enligt 27 kap. 1 § miljöbalken (1998:808) rätt att ta ut avgift 
 och dispens, för handläggning av anmälan samt för tillsyn i övrigt enligt dessa föreskrifter
 Avgiften får tas ut enligt de grunder som har beslutats av kommunfullmäktige.
 
-_____
+\_____
 Med stöd av 9 kap. 7-8 §§ och 10-13 §§ miljöbalken (1998:808) samt 13, 17, 39-40 och 42-44 §§
 förordningen (1998:899) om miljöfarlig verksamhet och hälsoskydd, meddelar kommunfullmäktige följande
 lokala föreskrifter för att skydda människors hälsa och miljön.
@@ -4682,18 +4682,18 @@ hälsoskydd (1998:899), gäller följande lokala föreskrifter för att skydda m
 Enligt 13 § förordningen om miljöfarlig verksamhet och hälsoskydd krävs det tillstånd av nämnden för Miljö
 & Hälsoskydd för att
 
-1. Inrätta en avloppsanordning som en eller flera vattentoaletter ska anslutas till
+1\. Inrätta en avloppsanordning som en eller flera vattentoaletter ska anslutas till
 Enligt dessa föreskrifter krävs dessutom tillstånd av nämnden för Miljö & Hälsoskydd för att
 
-2. Inrätta avloppsanordning för bad-, disk- och tvättavloppsvatten väster om Europaväg 6 genom
+2\. Inrätta avloppsanordning för bad-, disk- och tvättavloppsvatten väster om Europaväg 6 genom
 kommunen samt inom vattenskyddsområden som har märkts ut på kartbilaga 2–5.
 
 Tillstånd eller anmälan enligt dessa föreskrifter krävs inte för dagvattenanordningar.
 
 Enligt 13 och 14 §§ förordningen om miljöfarlig verksamhet och hälsoskydd krävs anmälan till nämnden för
 Miljö & Hälsoskydd för att
-1. Inrätta en annan avloppsanordning än som anges i punkterna 1–2
-2. Ändra en avloppsanordning, om åtgärden kan medföra väsentlig ändring av avloppsvattnets mängd
+1\. Inrätta en annan avloppsanordning än som anges i punkterna 1–2
+2\. Ändra en avloppsanordning, om åtgärden kan medföra väsentlig ändring av avloppsvattnets mängd
 eller sammansättning.
 
 Anmälan eller tillstånd enligt dessa bestämmelser krävs inte för avlopps-anordning som kräver tillstånd
@@ -4704,31 +4704,31 @@ För vattenskyddsområden finns länsstyrelsens föreskrifter i Hallands läns f
 
 Det krävs tillstånd hos nämnden för Miljö & Hälsoskydd för att inrätta
 
-1. Förmultningstoalett
-2. Eltoalett
-3. Torrtoalett med latrinkompostering
+1\. Förmultningstoalett
+2\. Eltoalett
+3\. Torrtoalett med latrinkompostering
 
 <!-- sida 108 -->
 
 Det krävs tillstånd från nämnden för Miljö & Hälsoskydd för att hålla
 
-1. nötkreatur, häst, get, får eller svin
-2. pälsdjur eller fjäderfä som inte är sällskapsdjur
+1\. nötkreatur, häst, get, får eller svin
+2\. pälsdjur eller fjäderfä som inte är sällskapsdjur
 inom område med detaljplan, se kartbilaga 1.
 
 En förbränningsmotor i stillastående motordrivet fordon får hållas i gång högst en minut. Detta gäller inte
-1. Om trafikförhållandena föranlett fordonet att stanna, t.ex. trafikkö
-2. Om motorn hålls igång för att – i den mån det behövs för fordonets ändamålsenliga brukande – driva
+1\. Om trafikförhållandena föranlett fordonet att stanna, t.ex. trafikkö
+2\. Om motorn hålls igång för att – i den mån det behövs för fordonets ändamålsenliga brukande – driva
 annan anordning (på fordonet) än sådan som avser uppvärmning
 
 Vid spridning av naturlig gödsel, slam eller annan orenlighet inom eller intill område med detaljplan, se
 kartbilaga 1, gäller följande:
-1. Tidpunkten för spridning ska anpassas till sådana väder- och vindförhållanden som minskar risken
+1\. Tidpunkten för spridning ska anpassas till sådana väder- och vindförhållanden som minskar risken
 
 för luktolägenheter.
-2. Nedbrukning ska ske inom fyra timmar efter spridningen. Spridning i växande gröda ska jämställas
+2\. Nedbrukning ska ske inom fyra timmar efter spridningen. Spridning i växande gröda ska jämställas
 med nedbrukning.
-3. Spridning får inte ske närmare än tio meter från sjö eller annat vattendrag
+3\. Spridning får inte ske närmare än tio meter från sjö eller annat vattendrag
 
 Värmepumpsanläggning för utvinning av värme ur mark, ytvatten eller grundvatten får inte inrättas utan
 anmälan till nämnden för Miljö & Hälsoskydd.
@@ -4978,7 +4978,7 @@ Definitioner
 2§. Följande termer och begrepp används i dessa föreskrifter med de
 betydelser som anges här:
 
-1. Med kommunalt avfall avses detsamma som i 15 kap. 3 §
+1\. Med kommunalt avfall avses detsamma som i 15 kap. 3 §
 miljöbalken, det vill säga avfall som kommer från hushåll och
 sådant avfall från andra källor som till sin art och sammansättning
 liknar avfall från hushåll, med undantag för vad som anges i 15
@@ -5005,7 +5005,7 @@ avfall i enlighet med 15 kap. 3 § miljöbalken.
 
 e. Med farligt avfall avses avfall som i bilaga 3 till
 avfallsförordningen (2020:614) beskrivs med en avfallskod
-markerad med en asterisk (*).
+markerad med en asterisk (\*).
 
 f. Med konsumentelavfall avses detsamma som i 13 §
 förordningen (2014:1075) om producentansvar för elutrustning.
@@ -5045,21 +5045,21 @@ l. Med bygg- och rivningsavfall som inte producerats i en
 yrkesmässig verksamhet avses detsamma som i 15 kap. 20 § 4
 punkten miljöbalken.
 
-2. Med fastighetsinnehavare avses den som är fastighetsägare
+2\. Med fastighetsinnehavare avses den som är fastighetsägare
 eller den som enligt 1 kap. 5 § fastighetstaxeringslagen
 (1979:1152) ska anses som fastighetsägare.
 
-3. Med nyttjanderättshavare avses den som, utan att omfattas av
+3\. Med nyttjanderättshavare avses den som, utan att omfattas av
 begreppet fastighetsinnehavare, har rätt att bruka eller nyttja
 fastighet.
 
-4. Med den avfallsansvariga nämnden avses nämnden för Teknik,
+4\. Med den avfallsansvariga nämnden avses nämnden för Teknik,
 Kungsbacka kommun.
 
-5. Med den tillsynsansvariga nämnden avses nämnden för Miljö &
+5\. Med den tillsynsansvariga nämnden avses nämnden för Miljö &
 Hälsoskydd, Kungsbacka kommun.
 
-6. Med behållare avses kärl, container, underjordsbehållare, säck,
+6\. Med behållare avses kärl, container, underjordsbehållare, säck,
 latrinbehållare, fosforfälla, slamavskiljare, fettavskiljare eller
 annan anordning för uppsamling av avfall under kommunalt
 ansvar.
@@ -5068,7 +5068,7 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       5 (34)
 
 <!-- sida 123 -->
 
-7. I enlighet med avgränsningen av kommunens ansvar enligt 15
+7\. I enlighet med avgränsningen av kommunens ansvar enligt 15
 kap. 20 § 2 miljöbalken, avses med enskilda avloppsanläggningar
 slutna tankar, slamavskiljare, fosforfällor, minireningsverk och
 andra motsvarande anläggningar som inte är allmänna enligt lag
@@ -5077,10 +5077,10 @@ för högst 25 personekvivalenter och endast används för
 hushållspillvatten eller spillvatten som till sin art och
 sammansättning liknar hushållsspillvatten.
 
-8. Med latrin avses latrin från torrtoaletter och andra jämförliga
+8\. Med latrin avses latrin från torrtoaletter och andra jämförliga
 lösningar, i enlighet med 15 kap. 20 § 3 miljöbalken.
 
-9. Med avloppsfraktioner från enskilda avloppsanläggningar
+9\. Med avloppsfraktioner från enskilda avloppsanläggningar
 menas avloppsslam, toalettvatten, urin, fekalier och innehåll i
 slutna tankar. Med filtermaterial avses ett förbrukat material
 tillhörande en enskild avloppsanläggning, så som torv, leca, träflis
@@ -5095,7 +5095,7 @@ avloppsanläggningar som nämns i punkt 7 ovan.
 Bestämmelsen omfattar både enskilda anläggningar som betjänar
 en fastighet och samfällda anläggningar.
 
-10. Så länge inte annat framgår i gällande lagstiftning innebär med
+10\. Så länge inte annat framgår i gällande lagstiftning innebär med
 yrkesmässig verksamhet i dessa föreskrifter att någon regelbundet
 utför tjänster mot betalning. Tillfälliga arbeten och kortare uppdrag
 av obetydlig omfattning räknas här inte som yrkesmässig
@@ -5148,12 +5148,12 @@ av fettavskiljare utanför det kommunala ledningsnätet
 Betalning och information.
 8§. Avgift ska betalas för:
 
-1. de åtgärder som kommunen vidtar i syfte att informera hushåll
+1\. de åtgärder som kommunen vidtar i syfte att informera hushåll
 och verksamhetsutövare som producerar avfall som
 kommunen ansvarar för enligt 15 kap. 20 § miljöbalken om
 avfallshantering och avfallsförebyggande åtgärder.
 
-2. de åtgärder som kommunen vidtar för att underlätta insamling
+2\. de åtgärder som kommunen vidtar för att underlätta insamling
 och sortering av återanvändbara produkter från hushåll och
 verksamhetsutövare som producerar avfall som kommunen
 ansvarar för enligt 15 kap. 20 § miljöbalken.
@@ -5162,7 +5162,7 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       7 (34)
 
 <!-- sida 125 -->
 
-3. den insamling, transport, behandling i form av återvinning och
+3\. den insamling, transport, behandling i form av återvinning och
 bortskaffande av avfall som utförs genom kommunens försorg
 och i enlighet med föreskrifter som kommunen har antagit med
 stöd av 27 kap. 4 § miljöbalken.
@@ -5213,13 +5213,13 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       8 (34)
 <!-- sida 126 -->
 
 13a§. Förpackningsavfall i form av
-1. papper och kartong,
-2. plast
-3. metall,
-4. färgat glas,
-5. ofärgat glas,
-6. trä, och
-7. material som inte avses i 1–6 (övrigt förpackningsmaterial) ska
+1\. papper och kartong,
+2\. plast
+3\. metall,
+4\. färgat glas,
+5\. ofärgat glas,
+6\. trä, och
+7\. material som inte avses i 1–6 (övrigt förpackningsmaterial) ska
 enligt 3 kap. 4 § avfallsförordningen (2020:614) sorteras ut från
 annat avfall.
 
@@ -6040,31 +6040,31 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       31 (34)
 
 BILAGA 2. HÄMTNINGSINTERVALL  (Standardintervaller)
 
-1. Från flerbostadshus och verksamheter sker hämtning av kärl- och
+1\. Från flerbostadshus och verksamheter sker hämtning av kärl- och
 säckavfall normalt en gång i veckan. Renhållaren tillhandahåller även
 hämtning en gång varannan vecka eller två gånger per vecka.
-2. Från en- eller tvåbostadshus för permanentboende sker hämtning av kärl-
+2\. Från en- eller tvåbostadshus för permanentboende sker hämtning av kärl-
 och säckavfall normalt en gång varannan vecka. Renhållaren tillhandahåller
 även hämtning en gång var fjärde vecka.
 
-3. Från en- eller tvåbostadshus för fritidsboende sker hämtning av kommunalt
+3\. Från en- eller tvåbostadshus för fritidsboende sker hämtning av kommunalt
 avfall normalt en gång varannan vecka under perioden mitten av maj – mitten
 av september.
 
-4. Efter beställning utför renhållaren hämtning av trädgårdsavfall i kärl en
+4\. Efter beställning utför renhållaren hämtning av trädgårdsavfall i kärl en
 gång varannan vecka under vår, sommar och höst enligt kommunens
 avfallstaxa.
 
-5. Hämtning av latrin sker på budning.
-6. Fosforfällor och minireningsverk ska tömmas i enlighet med leverantörens
+5\. Hämtning av latrin sker på budning.
+6\. Fosforfällor och minireningsverk ska tömmas i enlighet med leverantörens
 anvisningar om det inte framgår något annat i tillståndet eller godkännandet
 meddelat av kommunens tillsynsmyndighet för enskilda avloppsanläggningar. I
 annat fall sker tömning minst en gång per år för enskilda avloppsanläggningar
 och vartannat år för fosforfällor.
 
-7. Tömning av andra små avloppsanläggningar sker minst en gång per år.
+7\. Tömning av andra små avloppsanläggningar sker minst en gång per år.
 
-8. Tömning av fettavskiljare som genererar kommunalt avfall under
+8\. Tömning av fettavskiljare som genererar kommunalt avfall under
 kommunalt ansvar utförs minst 4 gånger per år eller oftare om det krävs för
 att säkerställa anläggningens funktion.
 

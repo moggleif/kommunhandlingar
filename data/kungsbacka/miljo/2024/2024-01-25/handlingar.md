@@ -1088,11 +1088,11 @@ Kungsbacka kommun             Rapport                           3
 <!-- sida 44 -->
 
 1.7 Behörighetsrutiner
--  Kontroll av behörighet i EDP Vision enligt befintlig rutin. Loggning har utförts två gånger
+\-  Kontroll av behörighet i EDP Vision enligt befintlig rutin. Loggning har utförts två gånger
 under året.
 
--  Kontroll av behörighet till de fysiska arkiven har utförts en gång under året.
--  Rutin för kontroll av behörighet i Ciceron saknas på förvaltningen. Grundläggande kontroll
+\-  Kontroll av behörighet till de fysiska arkiven har utförts en gång under året.
+\-  Rutin för kontroll av behörighet i Ciceron saknas på förvaltningen. Grundläggande kontroll
 av användarbehörighet att utförts av förvaltningens superanvändare en gång under året.
 Loggning har inte utförts.
 
@@ -1100,13 +1100,13 @@ Loggning har inte utförts.
 
 I dataskyddsarbetet för 2024 planerar förvaltningen att fortsätta arbeta för ett fullgott dataskydd.
 
--  Fastställande av behandlingsregister
--  Förtydliga rollerna i dataskyddsteamet
+\-  Fastställande av behandlingsregister
+\-  Förtydliga rollerna i dataskyddsteamet
 
--  Revidering av rutin för hantering av personuppgiftsincidenter
--  Intern förståelse för personuppgiftsincidenter
+\-  Revidering av rutin för hantering av personuppgiftsincidenter
+\-  Intern förståelse för personuppgiftsincidenter
 
--  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”
+\-  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”
 
 Kungsbacka kommun             Rapport                           4
 

@@ -205,7 +205,7 @@ Datum
 Beslut
 
 Nämnden för Gymnasium & Arbetsmarknad godkänner årsrapport dataskyddsarbete
-2024.
+2024\.
 
 Sammanfattning av ärendet
 Förvaltningen för Gymnasium & Arbetsmarknad arbetar aktivt med de förstärkta
@@ -240,7 +240,7 @@ Sammanfattning av ärendet
 
 Erika Erngard, utvecklare gällande lokalfrågor informerar nämnden kring återrapport
 av kapacitetsutredningen som nämnden beställt, elevprognos samt lokalbehov 2027-
-2031.
+2031\.
 
 Nämnden för Gymnasium & Arbetsmarknad kommer att fortsätta arbetet med
 lokalbehov 2027-2031 under nämndens måldag den 21 augusti.
@@ -465,7 +465,7 @@ och det som ska tas bort är struket. Den del i delegeringsförteckningen som g�
 
 LVU är densamma som Nämnden för Individ & Familj har antagit.
 Beslut enligt den nya socialtjänstlagen kommer att fattas från och med den 1 juli
-2025. Beslut som fattas innan den 1 juli 2025 kommer att fattas med stöd av de
+2025\. Beslut som fattas innan den 1 juli 2025 kommer att fattas med stöd av de
 gamla paragraferna.
 
 Beslutsunderlag
@@ -577,7 +577,7 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Protokoll FSG 2025-06-10
+1\. Protokoll FSG 2025-06-10
 
 Beslutsgång
 

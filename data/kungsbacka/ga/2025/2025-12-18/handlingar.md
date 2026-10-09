@@ -303,12 +303,12 @@ gymnasieskola                                              5(20)
 Individuella programmen
 Personalgruppen på Anpassade gymnasieskolans individuella program består av följande
 
-- Rektor
-- Specialpedagog 100%
+\- Rektor
+\- Specialpedagog 100%
 
-- Samordnare 100% (utökning 30 % från tidigare läsåret, var utlånad 30 % till skolservice vår
+\- Samordnare 100% (utökning 30 % från tidigare läsåret, var utlånad 30 % till skolservice vår
 2024 till sep 2024)
-- 9 lärare på sammanlagt 900%
+\- 9 lärare på sammanlagt 900%
 
 -Utöver enhetens lärare har enheten inlånade lärare i följande ämnen:
 idrott och hälsa och estetisk verksamhet 88%
@@ -1334,9 +1334,9 @@ kunskaper för vidare studier och i samhällsliv, arbetsliv och vardagsliv,
 
 •  kan använda sina kunskaper som redskap för att
 
-- formulera, analysera och pröva antaganden och lösa problem
-- reflektera över sina erfarenheter och sitt eget sätt att lära,
-- kritiskt granska och värdera påståenden och förhållanden, och
+\- formulera, analysera och pröva antaganden och lösa problem
+\- reflektera över sina erfarenheter och sitt eget sätt att lära,
+\- kritiskt granska och värdera påståenden och förhållanden, och
 -lösa praktiska problem och arbetsuppgifter,
 Hur visar resultaten att vi har vi lyckats med:
 •  att ge stöd och stimulans till alla elever så att de utvecklas så långt som möjligt?
@@ -1474,7 +1474,7 @@ Uppföljning av systematiskt kvalitetsarbete 2024/2025 - Huvudmannarapport
 | Estetiska<br>programmet | 95,7 | 78,9 | 83,6 | 86,4 | 94,7 | 78,8 | 88,6 | 88,6 | 95,8 | 94,7 | 81,3 | 81,0 |
 | Naturvetenskaps<br>programmet | 94,6 | 92,9 | 97,6 | 88,9 | 100 | 100 | 98,4 | 98,5 | 100 | 98,3 | 93,1 | 98,8 |
 | Teknikprogrammet –<br>Elof Lindälv | 95,7 | 92,9 | 95,9 | 90,7 | 92,9 | 87,5 | 100 | 95,2 | 83,3 | 88,1 | 96,0 | 100 |
-| Teknikprogrammet _<br>Aranäsgymnasiet | 93,8 | 93,1 | 87,5 | 94,3 | 95,2 | 98,4 | 91,5 | 94,7 | 96,3 | 97,5 | 96,6 | 92,6 |
+| Teknikprogrammet \_<br>Aranäsgymnasiet | 93,8 | 93,1 | 87,5 | 94,3 | 95,2 | 98,4 | 91,5 | 94,7 | 96,3 | 97,5 | 96,6 | 92,6 |
 | Samhällsvetenskaps-<br>programmet | 94,7 | 92,9 | 92,3 | 91,7 | 89,4 | 95,3 | 97,5 | 95,3 | 97,4 | 93,6 | 94,5 | 94,1 |
 
 <!-- sida 38 -->
@@ -1575,7 +1575,7 @@ index för Tycker du att lärarna varierar lektionerna så att ni får arbeta p�
 under 2022–2025, med 52 år 2025.
 Elevernas upplevelse av lärarnas förmåga att väcka intresse i skolarbetet har varit stabil, med indexvärden på
 48–51, medan förtroendet för att lärarna får eleverna att tro på sig själva har ökat från 55 år 2023 till 61 år
-2025. Indikatorn Hur ofta tycker du att skolarbetet är alldeles för lätt? har ett högt värde (72 år 2025), vilket
+2025\. Indikatorn Hur ofta tycker du att skolarbetet är alldeles för lätt? har ett högt värde (72 år 2025), vilket
 kan indikera att vissa elever upplever undervisningen som otillräckligt utmanande.
 
 Index för området Stöd har ökat från 61 år 2022 till 66 år 2025, vilket indikerar att eleverna i större
@@ -2884,15 +2884,15 @@ Sverigedemokraterna  i Kungsbacka föreslår därför
 kommunfullmäktige   besluta att:
 
 Kommunen  ska inte erbjuda religiöst motiverad specialkost i
--
+\-
 kommunala förskolor och skolor.
 
 Berörda nämnder får i uppdrag att justera riktlinjerna för specialkost
--
+\-
 i enlighet med detta inför kommande läsår.
 
 Vårdnadshavare informeras om förändringen i god tid.
--
+\-
 
 Sverigedemokraterna Kungsbacka genom
 
@@ -3975,9 +3975,9 @@ Emma Persson (Skolledare Visible Education)
 
 Sofie Dolk (Yrkeslärare Visible Education)
 
-1. Mötet öppnas
+1\. Mötet öppnas
 
-2. Val av ordförande, sekreterare och justeringsman
+2\. Val av ordförande, sekreterare och justeringsman
 
 Ordförande: Dan
 Sekreterare: Michael
@@ -3985,13 +3985,13 @@ Justerare: Sandra
 
 <!-- sida 93 -->
 
-3. Presentation av programrådets representanter
+3\. Presentation av programrådets representanter
 
-4. Genomgång av föregående protokoll
+4\. Genomgång av föregående protokoll
 
 Dan går igenom föregående protokoll
 
-5. Information och nyheter på programmet
+5\. Information och nyheter på programmet
 
 GY – Vi pratar om GY25 och om projekt utomlands
 
@@ -4015,53 +4015,53 @@ I april kommer vi ha en start för elevassistenter för de som läser svenska p�
 
 GY11 – 5 år, om man behöver komplettera något.
 
-6. Elevsynpunkter
+6\. Elevsynpunkter
 
--  Agnes och Julia – Överlag är hela klassen väldigt nöjd med det mesta. Vi är en NIU-
+\-  Agnes och Julia – Överlag är hela klassen väldigt nöjd med det mesta. Vi är en NIU-
 klass och man förstår ju att det är svårt att göra schema..
--  Vi är nöjda med lärarna
--  Tråkigt att sitta i ett och samma klassrum hela tiden..
--  Vi hade gärna velat röra på oss lite grann mellan klassrummen.
+\-  Vi är nöjda med lärarna
+\-  Tråkigt att sitta i ett och samma klassrum hela tiden..
+\-  Vi hade gärna velat röra på oss lite grann mellan klassrummen.
 
--  Det är en fräsch skola – Öppen, ljus, och fräsch
--  Jag sökte för att jag gjorde min prao i förskola och gillade verkligen att hjälpa dom
+\-  Det är en fräsch skola – Öppen, ljus, och fräsch
+\-  Jag sökte för att jag gjorde min prao i förskola och gillade verkligen att hjälpa dom
 som har det lite tufft
 
 <!-- sida 94 -->
 
--  Kom inte in på Samhäll – Jag är supernöjd med min klass.
+\-  Kom inte in på Samhäll – Jag är supernöjd med min klass.
 Tjejerna på Lärling
 
--  Är van att jobba med barn, det är kul för att ingen dag är den andra lik.
--  Gjort sin APL i Norge. Erasmus+
--  Hemsedal – Katarina Thorell (6 veckor)
+\-  Är van att jobba med barn, det är kul för att ingen dag är den andra lik.
+\-  Gjort sin APL i Norge. Erasmus+
+\-  Hemsedal – Katarina Thorell (6 veckor)
 
-- Ibland är det avlastning att komma tillbaka till skolan – skönt att jag valde att läsa
+\- Ibland är det avlastning att komma tillbaka till skolan – skönt att jag valde att läsa
 högskoleförberedande
 
-7. APL-systemet PRAXO
+7\. APL-systemet PRAXO
 
 Dan går igenom snabbt vad PRAXO är och vad syftet med det är. Enhet 1 på Elof är
 pilot på det just nu och brottas med de barnsjukdomar som visar sig.
 
-8. Ideer och förslag om utveckling av programmet
+8\. Ideer och förslag om utveckling av programmet
 
 Vård och industri har ”lärlingsanställning” – Varför inte vi på BF?
 
 En del inom BF (LSS) där det finns ett stort tryck bör det också finnas en
 ”lärlingsanställning”?
 
--  Det förs en diskussion kring varför vissa branscher erbjuder en lärlingsanställning och
+\-  Det förs en diskussion kring varför vissa branscher erbjuder en lärlingsanställning och
 andra inte.
 
--  Känslan är att vi på BF blir bortglömda och att vi alltid kommer sista hand.
+\-  Känslan är att vi på BF blir bortglömda och att vi alltid kommer sista hand.
 
 Det finns ett önskemål från både VUX och lärling om kontakter inom funktionsvariation för
 
 att få fram platser.
 Vi pratar om PT-utbildningen och vad den kan leda till
 
-9. Utbildning/arbetsmarknadsläget (Allmän diskussion)
+9\. Utbildning/arbetsmarknadsläget (Allmän diskussion)
 
 Linda talar varmt om yrket - Det är en minskning i barnkullarna nu några år och det för med
 sig ett mindre behov av arbetskraft.
@@ -4072,7 +4072,7 @@ Vi ingjuter förtroende hos våra lite lätt uppgivna lärlingstjejer!
 
 <!-- sida 95 -->
 
-10. Övriga frågor
+10\. Övriga frågor
 
 Samverkan mellan GY och VUX – Förslag är att SYV på gymnasiet tillsammans med syv
 på VUX bollar detta framåt. Kanske kan bli en del av den generella vägledningen.
@@ -4080,7 +4080,7 @@ på VUX bollar detta framåt. Kanske kan bli en del av den generella vägledning
 Vad ingår i att ”Ja, vi kan ta emot elever på APL”. Vad ingår i det? Det är olika beroende
 på vart eleverna kommer ifrån. Vi behöver reda ut förutsättningar.
 
-11. Tid för nästa programråd
+11\. Tid för nästa programråd
 
 Onsdag 11 mars (V.11)
 
@@ -5589,8 +5589,8 @@ Antagningsnämndens beslut
 Antagningsnämnden föreslår kommunerna att fastställa gemensamma
 lovtider för läsåret 2028/2029 enligt följande:
 
-* Läslov 2028 infaller vecka 44 (30 oktober-3 november)
-* Påsklov 2029 infaller veckan efter påsk (3-6 april), det vill säga vecka 14.
+\* Läslov 2028 infaller vecka 44 (30 oktober-3 november)
+\* Påsklov 2029 infaller veckan efter påsk (3-6 april), det vill säga vecka 14.
 Sammanfattning av ärendet
 
 Antagningsnämnden har lyft frågan om lovtidernas förläggning över året

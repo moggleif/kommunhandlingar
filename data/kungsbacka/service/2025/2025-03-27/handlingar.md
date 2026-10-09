@@ -47,20 +47,20 @@ främst åt kommunal service i form av besöksanläggningar (inomhusarena och fo
 Planförslaget möjliggör också för kommersiell verksamhet.
 
 Nämnden för Service är i huvudsak positiv till planförslaget, dock med följande synpunkter;
-1. Ytan för annexbyggnaden som har användningsbestämmelserna C och R är begränsad för
+1\. Ytan för annexbyggnaden som har användningsbestämmelserna C och R är begränsad för
 kommunal besöksverksamhet (ex fullmåttshall). Önskvärt vore om ytan i markplan kan ses över för
 
 eventuell utökning för att även möjliggöra kommunal verksamhet i framtiden.
-2. Ytan för annexbyggnaden som har användningsbestämmelserna C och R, kommer bli utmanande
+2\. Ytan för annexbyggnaden som har användningsbestämmelserna C och R, kommer bli utmanande
 att bygga dikt an arenabyggnaden p.g.a. nuvarande utformning. Kontor och restaurang i arenan som
 vetter mot annexbyggnaden försvårar detta och kommer då ha svårt med dagsljusinsläpp.
 
-3. Smal remsa öster om byggrätten för R1 har en diagonal form. Svårt att utröna om det är en
+3\. Smal remsa öster om byggrätten för R1 har en diagonal form. Svårt att utröna om det är en
 nödvändighet. Kan byggrätten göras mer kvadratiskt är det till en fördel.
-4. Smal remsa öster om byggrätten för R1 innehåller egenskapsbestämmelse P1, som hänvisar till
+4\. Smal remsa öster om byggrätten för R1 innehåller egenskapsbestämmelse P1, som hänvisar till
 prickad mark. Dock förekommer bestämmelse på både icke prickad mark och på korsmark.
 
-5. Ytan för användningsbestämmelse R2, saknar egenskapsbestämmelse för N2, dvs belysningsmaster.
+5\. Ytan för användningsbestämmelse R2, saknar egenskapsbestämmelse för N2, dvs belysningsmaster.
 
 Beslutsunderlag
 
@@ -547,21 +547,21 @@ Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendeval
 1 Förtroendevalda
 
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
--  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\-  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
--  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\-  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag
 och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare (leder respektive partigrupp i kommunfullmäktige)
 
--  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\-  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 kommunfullmäktige, nämnder, styrelsen, revisionen, ledamöter och ersättare
 i kommunala bolag- och stiftelser, beredningar och andra uppdrag enligt
 särskilt beslut.
--  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\-  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
--  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
+\-  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
 revisionen.
 Kommunens bolag och stiftelser rekommenderas att tillämpa dessa riktlinjer.
 
@@ -583,11 +583,11 @@ kommunalråd till den del avdraget överstiger timersättningen (se avsnitt 2.6)
 Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 Rätten till ledighet avser
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
 
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 Denna ersättning gäller inte för kommunalråd.
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 3 (17)
@@ -812,9 +812,9 @@ bolag och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare.
 
 Arvode betalas i form av
--  Fast arvode för deltidsuppdrag
+\-  Fast arvode för deltidsuppdrag
 
--  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\-  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
 
@@ -905,7 +905,7 @@ förtroendevalda representerar det organ denne själv tillhör. Därtill betalas
 och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-_____________
+\_____________
 
 1)Numreringen överensstämmer med numreringen i samtliga tabeller.
 
@@ -1063,9 +1063,9 @@ förvaltning. Utbetalning sker i normalfallet den 27:e i månaden efter sammantr
 har ägt rum.
 När en förtroendevald ska begära ersättning
 
--  för andra förmåner än dagarvode, timersättning och reseersättning, i
+\-  för andra förmåner än dagarvode, timersättning och reseersättning, i
 samband med protokollfört sammanträde eller
--  efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\-  efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
@@ -1119,7 +1119,7 @@ Kommunfullmäktige (KF 2020-06-16 § 72) har gett arvodesberedningen i uppdrag
 att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst. Uppdraget
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 2023–2027.
-____________________
+\____________________
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 17 (17)
 

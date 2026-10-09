@@ -362,7 +362,7 @@ Föräldrakooperativet i Ur och Skur Kottar och Barr har inkommit med en ansöka
 om tillfällig utökning av barnantal på förskolan Kottar och Barr, Gamla
 Älvsåkersvägen 39. Förskolan har ett tillstånd från 1999 som omfattar 20 barn.
 Ansökan omfattar en utökning med 2 barn under perioden augusti 2024 till augusti
-2025.
+2025\.
 
 Enligt skollagen kap 2 § 5 ska kommunen godkänna enskilda som vill bedriva
 förskoleverksamhet om den enskilde bedöms besitta insikt, har ekonomiska
@@ -454,12 +454,12 @@ Förslag till beslut
 Nämnden för Förskola & Grundskola godkänner ansökan från Förskolekooperativet
 Myrstacken i Åsa ekonomisk förening om tillfällig utökning av barnantal på
 förskolan Myrstacken med 1 barn till total 22 barn från 29 april 2024 till 31 juli
-2024.
+2024\.
 
 Sammanfattning av ärendet
 Förskolekooperativet Myrstacken i Åsa ekonomisk förening har inkommit med en
 ansökan om tillfällig utökning av barnantal på förskolan Myrstacken, Kumlabacken
-9. Förskolan har funnits sedan 1988 och har ansökt till kommunen om permanent
+9\. Förskolan har funnits sedan 1988 och har ansökt till kommunen om permanent
 utökning av barnantal till 21 barn vilket prövas av nämnden för Förskola- och
 
 grundskola vid samma sammanträde som detta ärende behandlas.

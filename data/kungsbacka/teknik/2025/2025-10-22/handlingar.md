@@ -53,8 +53,8 @@ ut för 2025. Omfördelningar mellan portföljer och omprioritering av projekt h
 
 beslutad investeringsram för 2025. Projekten är indelade i sex underportföljer:
 
-1. VA-teknik
-2. Vattenproduktion
+1\. VA-teknik
+2\. Vattenproduktion
 1 (3)
 Teknik Stöd & Styrning                                    Kungsbacka kommun
 434 81 Kungsbacka
@@ -80,11 +80,11 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-3. VA-ledningsnät
-4. Avloppsrening
+3\. VA-ledningsnät
+4\. Avloppsrening
 
-5. VA-omvandling
-6. Exploatering
+5\. VA-omvandling
+6\. Exploatering
 
 Fördjupning i orsaker till begäran om omfördelning mellan portföljer
 
@@ -484,7 +484,7 @@ samfällighetsförening, org.nr. 717907-0896, (”VA-föreningen”) har denna d
 
 anläggningen”).
 
-1. Bakgrund
+1\. Bakgrund
 
 VA-föreningen förvaltar gemensamhetsanläggningen Lerberg GA:4, som består av markförlagda
 vatten- och avloppsledningar. Gemensamhetsanläggningen ägs för närvarande av 19 delägande
@@ -533,12 +533,12 @@ Förvaltningen för Teknik, Kungsbacka kommun • 0300-83 40 00 • info@kungsba
 GA:4. VA-föreningen har dock avböjt erbjudandet och önskar att Kommunen övertar VA-
 anläggningen. Mot denna bakgrund har Kommunen och VA-föreningen ingått detta avtal.
 
-2. Syfte
+2\. Syfte
 
 Syftet med detta avtal är att reglera övertagandet av VA-föreningens VA-anläggning samt därtill
 angränsande frågor.
 
-3. VA-anläggningen
+3\. VA-anläggningen
 
 VA-anläggningen är ett lokalt distributionsnät i varierande dimensioner för vatten och spillvatten
 med för närvarande 19 anslutna fastigheter i Lerberg. Tio av medlemsfastigheterna är idag anslutna
@@ -562,11 +562,11 @@ Kommunen har godkänt VA-anläggningens utformning och skick. Åtgärder som Kom
 bedömer som nödvändiga efter övertagandet beskrivs i bilaga 3: Åtgärdslista för kommunens
 undersökningar och åtgärder efter övertagandet.
 
-4. Berörda fastigheter
+4\. Berörda fastigheter
 
 Fastigheter som berörs framgår av förteckning över berörda fastigheter i bilaga 1.
 
-5. Övertagande och ansvar
+5\. Övertagande och ansvar
 Genom detta avtal övertar Kommunen ägande, förvaltning och drift av VA-anläggningen från VA-
 
 föreningen och därefter kommer VA-anläggningen ingå i Kommunens allmänna VA-anläggning.
@@ -602,14 +602,14 @@ Den 3 november 2025 övergår ägandet av VA-anläggningen från gemensamhetsanl
 Lerberg GA:4 till Kommunen. Från den tidpunkten ansvarar kommunen för alla åtgärder som kan
 bli nödvändiga för VA-anläggningens drift, underhåll, reparation och förnyelse.
 
-6. Ersättning
+6\. Ersättning
 Kommunen ska utge ersättning till VA-föreningen om sammanlagt (3 211 005) kronor avseende
 VA-anläggningen. Ersättningen ska erläggas till VA-föreningens bankgironummer så att det når
 
 VA-föreningens konto senast 3 november 2025. VA-föreningen bekräftar genom undertecknande
 av detta avtal att ovanstående summa utgör full betalning för VA-anläggningen.
 
-7. Avgifter för allmänna vattentjänster - anläggningsavgift
+7\. Avgifter för allmänna vattentjänster - anläggningsavgift
 I och med övertagandet av VA-anläggningen eller före övertagandet kommer Kommunen att
 förmedla nya förbindelsepunkter invid tomtgränsen för var och en av fastigheterna. Därefter
 
@@ -629,7 +629,7 @@ anslutningspunkter enligt vid tiden gällande VA-taxa.
 För framtida nya anslutningar till VA-anläggningen efter övertagandet har Kommunen rätt att ta ut
 anläggningsavgifter enligt vid tiden gällande VA-taxa för tillkommande fastigheter.
 
-8. Lantmäteriförrättning
+8\. Lantmäteriförrättning
 Kommunen ansöker om ledningsrätt för VA-anläggningen hos Lantmäteriet inom 30 dagar från
 
 undertecknandet av detta avtal. Om Kommunen inte får ledningsrätt ska Kommunen söka och
@@ -648,7 +648,7 @@ förrättningen för att upplösa Lerberg GA:4.
 Parterna överlåter till Lantmäteriet att bilda ledningsrätt på sedvanligt sätt. VA-föreningen ska bistå
 och biträda Kommunens ansökan i förrättningen om ledningsrätt respektive tecknandet av servitut.
 
-9. Åtkomst till VA-anläggningen
+9\. Åtkomst till VA-anläggningen
 VA-föreningen förbinder sig att tillåta fri åtkomst till VA-anläggningen för Kommunen och de
 
 entreprenörer kommunen anlitar när det behövs för åtgärder för drift, underhåll, reparationer och
@@ -660,15 +660,15 @@ VA-anläggningen och dess tillkopplade ledningar kan från detta avtals undertec
 av Kommunen och de entreprenörer Kommunen anlitar i den mån det behövs för drift, underhåll,
 reparationer och kontroller av VA-föreningens VA-anläggning.
 
-10. Andra avtal
+10\. Andra avtal
 Avtalet om anslutning från 2006 (Bilaga 4) upphör att gälla så snart Kommunen tagit över ägandet
 av VA-anläggningen.
 
-11. Övrig ersättning
+11\. Övrig ersättning
 
 Utöver de ersättningar som har reglerats i detta avtal står Parterna sina egna kostnader.
 
-12. Avtalets giltighet
+12\. Avtalets giltighet
 Detta avtal blir giltigt från undertecknandet avseende frist för ansökan om förrättningar hos
 
 Lantmäteriet. Övertagandet sker i enlighet med datum som framgår enligt sista stycket i punkt 5.
@@ -685,12 +685,12 @@ Sida 4 av 5
 
 <!-- sida 17 -->
 
-13. Tvist
+13\. Tvist
 Tvist i anledning av detta avtal ska, såvida Parterna ej överenskommer om annat, avgöras i svensk
 
 domstol enligt LAV.
 
-14. Tidigare avtal
+14\. Tidigare avtal
 Detta avtal utgör Parternas fullständiga reglering av alla frågor som avtalet berör och ersätter alla
 
 skriftliga eller muntliga åtaganden, utfästelser och överenskommelser som föregått avtalets
@@ -700,7 +700,7 @@ vatten och avlopp för Lerbergs VA samfällighetsförening automatiskt upphör a
 
 utan föregående uppsägning, när detta avtal börjar gälla enligt sista stycket i punkt 5.
 
-15. Tillägg eller ändringar
+15\. Tillägg eller ändringar
 Tillägg eller ändringar av detta avtal ska ske skriftligen och undertecknas av Parterna.
 
 Detta avtal upprättas i tre exemplar: ett för Kommunen, ett för VA-föreningen och ett för
@@ -708,21 +708,21 @@ Lantmäteriet.
 
 Bilagor
 
-1. Fastighetslista
-2. Karta över VA-anläggningen
+1\. Fastighetslista
+2\. Karta över VA-anläggningen
 
-3. Åtgärdslista för kommunens undersökningar och åtgärder efter övertagandet
-4. Avtal beträffande brukande av kommunens allmänna VA-nät från 2006
-5. Riktlinjer för övertagande av VA-anläggning från avtalsansluten VA-förening
+3\. Åtgärdslista för kommunens undersökningar och åtgärder efter övertagandet
+4\. Avtal beträffande brukande av kommunens allmänna VA-nät från 2006
+5\. Riktlinjer för övertagande av VA-anläggning från avtalsansluten VA-förening
 
 Kungsbacka den xx / x 2025    Kungsbacka den xx / x 2025
 
 För Kungsbacka kommun         Lerbergs VA Samfällighetsförening
 
-________________________      ________________________
+\________________________      ________________________
 Namn:                         Namn:
 
-________________________
+\________________________
 
 Namn:
 

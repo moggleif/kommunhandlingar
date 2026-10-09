@@ -299,7 +299,7 @@ Underlag till kommunbudget
 Beslut
 
 Nämnden för Kultur & Fritid godkänner rapporten Underlag till kommunbudget
-2025.
+2025\.
 
 Sammanfattning av ärendet
 Underlag till kommunbudget omfattar en beskrivning av nämnden utmaningar och
@@ -437,10 +437,10 @@ beslut i ett enskilt ärende av den som fått beslutanderätten genom att själv
 
 Beslut fattade med stöd av nämnden för Kultur & Fritids delegeringsförteckning
 2023-11-22 § 98:
-* KFT 2023-00379 Ordförandebeslut deltagande på utbildning 10 jan 2024, delegat
+\* KFT 2023-00379 Ordförandebeslut deltagande på utbildning 10 jan 2024, delegat
 Maria Gathendahl
 
-* KFT 2023-00378 Ordförandebeslut - deltagande i utbildning, delegat Annika
+\* KFT 2023-00378 Ordförandebeslut - deltagande i utbildning, delegat Annika
 Hedman
 
 Beslutsunderlag

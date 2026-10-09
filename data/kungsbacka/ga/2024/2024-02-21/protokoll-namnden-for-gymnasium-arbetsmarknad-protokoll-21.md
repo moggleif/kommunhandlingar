@@ -113,7 +113,7 @@ Sammanfattning av ärendet
 
 Nämnden för Gymnasium & Arbetsmarknad redovisar ett överskott på 13,3 mkr.
 Gymnasieverksamheten är den enda verksamhet som redovisar underskott för år
-2023. Resterande verksamheter redovisar överskott.
+2023\. Resterande verksamheter redovisar överskott.
 
 Vidare har förvaltningen med de av nämnden satta mål som bla innefattat trygghet i
 skolan för elever, effektivare lokal utnyttjande, samt arbetat med innovation och AI.

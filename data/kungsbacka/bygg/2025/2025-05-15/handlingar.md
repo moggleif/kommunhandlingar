@@ -103,7 +103,7 @@ Uppföljning och prognos april 2025
 Helårsprognosen för Byggnadsnämnden visar att nämnden och förvaltningen sammantaget har en budget i
 balans för 2025.
 Nedan följer en kortfattad redovisning av viktiga händelser i verksamheterna under perioden januari till april
-2025.
+2025\.
 
 1.1 Miljö- och hälsoskyddsavdelningen
 
@@ -512,7 +512,7 @@ vara planläggning, vilket också betonas i översiktsplanen.
 
 Byggnadsnämnden ser gärna att det även framgår mer tydligt i planförslaget att syftet med
 den fördjupade översiktsplanen är att området i första hand ska planläggas. Det bör även
-förtydligas att de föreslagna riktlinjerna (exempelvis riktlinje 13*) främst är avsedda att
+förtydligas att de föreslagna riktlinjerna (exempelvis riktlinje 13\*) främst är avsedda att
 vägleda framtida detaljplanering, inte direkt tillämpas vid prövning av förhandsbesked eller
 bygglov. Ett sådant klargörande skulle minska risken för missförstånd och öka rättssäkerheten
 
@@ -1084,9 +1084,9 @@ En ansökan om lov eller förhandsbesked ska vara skriftlig och innehålla de
 ritningar, beskrivningar och andra uppgifter som behövs för prövningen.
 
 En ansökan om lov ska dessutom innehålla
-1. byggherrens förslag om vem eller vilka som ska vara kontrollansvariga
+1\. byggherrens förslag om vem eller vilka som ska vara kontrollansvariga
 enligt det som följer av 10 kap. 9 och 10 §§, och
-2. de handlingar som krävs för beslut om startbesked enligt 10 kap., om
+2\. de handlingar som krävs för beslut om startbesked enligt 10 kap., om
 ansökningen avser tillbyggnad eller annan ändring av ett en- eller tvåbostads-
 hus.
 Om ett certifierat byggprojekter- Om ett certifierat byggbedöm-
@@ -1197,19 +1197,19 @@ Byggherren ska se till att det finns en Byggherren ska se till att det finns en
 plan för kontrollen av en bygg- eller plan för kontrollen av en byggåtgärd
 rivningsåtgärd som avses i 3 § (kont- som avses i 3 § (kontrollplan) med
 rollplan) med uppgifter om uppgifter om
-1. vilka kontroller som ska göras 1. vilka kontroller som ska göras
+1\. vilka kontroller som ska göras 1. vilka kontroller som ska göras
 och vad kontrollerna ska avse, och vad kontrollerna ska avse,
-2. vem som ska göra kontrollerna, 2. vem som ska göra kontrollerna,
-3. vilka anmälningar som ska gö- 3. vilka anmälningar som ska gö-
+2\. vem som ska göra kontrollerna, 2. vem som ska göra kontrollerna,
+3\. vilka anmälningar som ska gö- 3. vilka anmälningar som ska gö-
 ras till byggnadsnämnden, ras till byggnadsnämnden, och
 
-4. vilka arbetsplatsbesök som 4. vilka arbetsplatsbesök som
+4\. vilka arbetsplatsbesök som 4. vilka arbetsplatsbesök som
 byggnadsnämnden bör göra och när byggnadsnämnden bör göra och när
 besöken bör ske,          besöken bör ske.
-5. vilka byggprodukter som kan Första stycket gäller inte om ett
+5\. vilka byggprodukter som kan Första stycket gäller inte om ett
 återanvändas och hur dessa ska tas certifierat byggbedömningsföretag
 om hand, och              har använts.
-6. vilket avfall som åtgärden kan
+6\. vilket avfall som åtgärden kan
 ge upphov till och hur avfallet ska tas
 om hand, särskilt hur man avser att
 möjliggöra
@@ -1230,10 +1230,10 @@ Byggherren ska se till att det finns en
 plan för kontrollen av en rivningsåt-
 gärd som avses i 3 § (resurshushåll-
 ningsplan) med uppgifter om
-1. vilka byggprodukter som kan
+1\. vilka byggprodukter som kan
 återanvändas och hur dessa ska tas
 om hand, och
-2. vilket avfall som åtgärden kan
+2\. vilket avfall som åtgärden kan
 ge upphov till och hur avfallet ska tas
 
 om hand, särskilt hur man avser att
@@ -1276,11 +1276,11 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 12
 För den kontroll som avses i 5 § ska För den kontroll som avses i 5 §
 det finnas en eller flera kontrollan- andra stycket ska det finnas en eller
 svariga som               flera kontrollansvariga som
-1. har den kunskap, erfarenhet och 1. har den kunskap, erfarenhet och
+1\. har den kunskap, erfarenhet och 1. har den kunskap, erfarenhet och
 lämplighet som behövs för uppgiften lämplighet som behövs för upp-gif-
 och kan styrka detta med ett bevis ten och kan styrka detta med ett bevis
 om certifiering, och      om certifiering, och
-2. har en självständig ställning i 2. har en självständig ställning i
+2\. har en självständig ställning i 2. har en självständig ställning i
 förhållande till den som utför den åt- förhållande till den som utför den åt-
 
 gärd som ska kontrolleras. gärd som ska kontrolleras.
@@ -1369,12 +1369,12 @@ i 3 § ska byggnadsnämnden utan i 3 § ska byggnadsnämnden utan
 dröjsmål efter att lov har getts eller dröjsmål efter att lov har getts eller
 anmälan har kommit in kalla till ett anmälan har kommit in kalla till ett
 sammanträde för tekniskt samråd, om sammanträde för tekniskt samråd, om
-1. det krävs en kontrollansvarig 1. det krävs en kontrollansvarig
+1\. det krävs en kontrollansvarig 1. det krävs en kontrollansvarig
 enligt det som följer av 9 och 10 §§, enligt det som följer av 9 och 10 §§,
-2. ett sådant samråd inte är uppen- 2. ett sådant samråd inte är uppen-
+2\. ett sådant samråd inte är uppen- 2. ett sådant samråd inte är uppen-
 bart obehövligt, eller    bart obehövligt, eller
 
-3. byggherren har begärt ett så- 3. byggherren har begärt ett så-
+3\. byggherren har begärt ett så- 3. byggherren har begärt ett så-
 dant samråd.              dant samråd.
 Tekniskt samråd behövs inte för Tekniskt samråd behövs inte för
 sådana åtgärder som avses i 9 kap. 4 sådana åtgärder som avses i 9 kap. 4
@@ -1402,8 +1402,8 @@ tillämpas 25 b §.
 Byggherren ska senast vid det tekniska samrådet till byggnadsnämnden
 lämna
 
-1. ett förslag till en sådan kontrollplan som krävs enligt 6 §, samt
-2. de tekniska handlingar som, utöver ansökningshandlingarna enligt 9
+1\. ett förslag till en sådan kontrollplan som krävs enligt 6 §, samt
+2\. de tekniska handlingar som, utöver ansökningshandlingarna enligt 9
 kap. 21 §, krävs för att byggnadsnämnden ska kunna pröva frågan om start-
 besked.
 Om ett certifierat byggprojekter- Om ett certifierat byggbedöm-
@@ -1428,20 +1428,20 @@ enskilda fallet har beslutat att det inte behövs någon kontrollplan.
 
 19 §
 Vid det tekniska samrådet ska man gå igenom
-1. arbetets planering och organisation,
+1\. arbetets planering och organisation,
 
-2. byggherrens förslag till kontrollplan och de handlingar i övrigt som
+2\. byggherrens förslag till kontrollplan och de handlingar i övrigt som
 byggherren har gett in,
-3. hur identifieringen av avfall och återanvändbara byggprodukter har
+3\. hur identifieringen av avfall och återanvändbara byggprodukter har
 gjorts,
-4. behovet av att byggnadsnämnden gör arbetsplatsbesök eller av andra
+4\. behovet av att byggnadsnämnden gör arbetsplatsbesök eller av andra
 tillsynsåtgärder,
-5. behovet av ett färdigställandeskydd,
-6. behovet av utstakning,
-7. byggnadsnämndens behov av ytterligare handlingar inför beslut om
+5\. behovet av ett färdigställandeskydd,
+6\. behovet av utstakning,
+7\. byggnadsnämndens behov av ytterligare handlingar inför beslut om
 kontrollplan eller startbesked, och
 
-8. behovet av ytterligare sammanträden.
+8\. behovet av ytterligare sammanträden.
 Om ett certifierat byggbedöm-
 ningsföretag har använts tillämpas
 inte första stycket. I stället tillämpas
@@ -1449,20 +1449,20 @@ inte första stycket. I stället tillämpas
 
 24 §
 I startbeskedet ska byggnadsnämnden
-1. fastställa den kontrollplan som ska gälla för åtgärderna enligt byggher-
+1\. fastställa den kontrollplan som ska gälla för åtgärderna enligt byggher-
 rens förslag och det som kommit fram i det tekniska samrådet eller annars i
 handläggningen av ärendet, med uppgift om vem eller vilka som är sakkun-
 niga eller kontrollansvariga,
-2. bestämma villkor för att få påbörja åtgärderna, om sådana villkor be-
+2\. bestämma villkor för att få påbörja åtgärderna, om sådana villkor be-
 hövs,
-3. bestämma villkor och ungefärlig tidpunkt för utstakning, om utstakning
+3\. bestämma villkor och ungefärlig tidpunkt för utstakning, om utstakning
 behövs,
 
-4. bestämma vilka handlingar som ska lämnas till nämnden inför beslut
+4\. bestämma vilka handlingar som ska lämnas till nämnden inför beslut
 om slutbesked,
-5. ge upplysningar om krav enligt annan lagstiftning, i den mån sådana
+5\. ge upplysningar om krav enligt annan lagstiftning, i den mån sådana
 upplysningar behövs, och
-6. ange vid vilken tidpunkt som åtgärderna får påbörjas om de enligt 9
+6\. ange vid vilken tidpunkt som åtgärderna får påbörjas om de enligt 9
 kap. 36 eller 37 § inte får påbörjas direkt eller om beslutet om lov för åtgär-
 derna enligt 42 a § inte får verkställas direkt.
 Om ett certifierat byggbedöm-
@@ -1503,21 +1503,21 @@ in kalla till ett sammanträde för tek-
 niskt samråd.
 Vid det tekniska samrådet ska
 man gå igenom
-1. vilket certifierat byggbedöm-
+1\. vilket certifierat byggbedöm-
 ningsföretag som har använts,
-2. arbetets planering och organi-
+2\. arbetets planering och organi-
 sation,
 
-3. hur identifieringen av avfall
+3\. hur identifieringen av avfall
 och återanvändbara byggprodukter
 har gjorts,
-4. behovet av ett färdigställande-
+4\. behovet av ett färdigställande-
 skydd,
-5. behovet av utstakning,
-6. byggnadsnämndens behov av
+5\. behovet av utstakning,
+6\. byggnadsnämndens behov av
 ytterligare handlingar inför beslut
 om startbesked, och
-7. behovet av ytterligare samman-
+7\. behovet av ytterligare samman-
 träden.
 
 Om byggnadsnämnden anser det
@@ -1545,8 +1545,8 @@ mälas till byggnadsnämnden.
 27 §
 Efter ett startbesked enligt 23 § ska byggnadsnämnden minst en gång under
 arbetets gång besöka den plats där åtgärderna genomförs, om
-1. startbeskedet har föregåtts av ett tekniskt samråd, och
-2. ett arbetsplatsbesök inte kan anses obehövligt.
+1\. startbeskedet har föregåtts av ett tekniskt samråd, och
+2\. ett arbetsplatsbesök inte kan anses obehövligt.
 
 Ett arbetsplatsbesök ska alltid göras, om startbeskedet avser ett stort eller
 komplicerat byggprojekt eller om byggnadsnämnden och byggherren vid det
@@ -1559,9 +1559,9 @@ och andra styckena.
 
 Byggnadsnämnden får besluta om kompletterande villkor för bygg- eller riv-
 ningsåtgärderna eller för kontrollen, om
-1. sådana villkor behövs för att uppfylla kraven enligt denna lag eller före-
+1\. sådana villkor behövs för att uppfylla kraven enligt denna lag eller före-
 skrifter som har meddelats med stöd av lagen, och
-2. behovet av villkoren inte kunde förutses när startbeskedet gavs.
+2\. behovet av villkoren inte kunde förutses när startbeskedet gavs.
 Om ett certifierat byggbedöm-
 ningsföretag har använts får kom-
 pletterande villkor inte avse utform-
@@ -1595,11 +1595,11 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 18
 31 §
 En kallelse enligt 30 § ska vara En kallelse enligt 30 § ska vara
 skriftlig och skickas till skriftlig och skickas till
-1. byggherren,            1. byggherren,
-2. den eller de kontrollansvariga, 2. den eller de kontrollansvariga,
+1\. byggherren,            1. byggherren,
+2\. den eller de kontrollansvariga, 2. den eller de kontrollansvariga,
 och                       och
 
-3. övriga som enligt byggnads- 3. övriga som enligt byggnads-
+3\. övriga som enligt byggnads- 3. övriga som enligt byggnads-
 nämnden bör ges tillfälle att delta. nämnden bör ges tillfälle att delta.
 Om ett certifierat byggbedöm-
 ningsföretag har använts ska det an-
@@ -1610,15 +1610,15 @@ avses i första stycket 2.
 
 Slutsamrådet ska normalt hållas på den plats där byggåtgärderna har genom-
 förts. Vid slutsamrådet ska följande gås igenom:
-1. hur kontrollplanen, andra villkor i startbeskedet och kompletterande
+1\. hur kontrollplanen, andra villkor i startbeskedet och kompletterande
 villkor har följts,
-2. avvikelser från de krav som gäller för åtgärderna,
-3. den kontrollansvariges utlåtande enligt 11 § 6,
+2\. avvikelser från de krav som gäller för åtgärderna,
+3\. den kontrollansvariges utlåtande enligt 11 § 6,
 
-4. den kontrollansvariges och byggnadsnämndens dokumentation över be-
+4\. den kontrollansvariges och byggnadsnämndens dokumentation över be-
 sök på byggarbetsplatsen och annan dokumentation över arbetets utförande,
-5. behov av andra åtgärder, och
-6. förutsättningarna för ett slutbesked.
+5\. behov av andra åtgärder, och
+6\. förutsättningarna för ett slutbesked.
 Om ett certifierat byggbedöm-
 ningsföretag har använts tillämpas
 inte första stycket. I stället tillämpas
@@ -1638,36 +1638,36 @@ genomförts.
 Om ett certifierat byggbedöm-
 ningsföretag har använts ska vid
 slutsamrådet följande gås igenom:
-1. hur villkor i startbeskedet och
+1\. hur villkor i startbeskedet och
 kompletterande villkor har följts,
-2. avvikelser från de krav som
+2\. avvikelser från de krav som
 
 gäller för åtgärderna,
-3. det certifierade byggbedöm-
+3\. det certifierade byggbedöm-
 ningsföretagets redogörelse för ge-
 nomförda kontroller,
-4. det certifierade byggbedöm-
+4\. det certifierade byggbedöm-
 ningsföretagets bedömning av förut-
 sättningarna för slutbesked med av-
 seende på utformningskraven enligt 8
 kap. 1 § 1 och 3 samt de tekniska
 egenskapskraven enligt 8 kap. 4 §,
-5. behov av andra åtgärder, och
-6. övriga förutsättningar för ett
+5\. behov av andra åtgärder, och
+6\. övriga förutsättningar för ett
 slutbesked.
 
 34 §
 Byggnadsnämnden ska med ett slutbesked godkänna att en eller flera åtgär-
 der som avses i 3 § ska anses slutförda och, i fråga om byggåtgärder, att
 byggnadsverket får tas i bruk, om
-1. byggherren har visat att alla krav som gäller för åtgärderna enligt lovet,
+1\. byggherren har visat att alla krav som gäller för åtgärderna enligt lovet,
 
 kontrollplanen, startbeskedet eller beslut om kompletterande villkor är upp-
 fyllda,
-2. byggherren har visat att denne har gett in en klimatdeklaration enligt la-
+2\. byggherren har visat att denne har gett in en klimatdeklaration enligt la-
 gen (2021:787) om klimatdeklaration för byggnader eller gjort sannolikt att
 det inte finns någon skyldighet att ge in en klimatdeklaration, och
-3. nämnden inte har funnit skäl att ingripa enligt 11 kap.
+3\. nämnden inte har funnit skäl att ingripa enligt 11 kap.
 Om ett certifierat byggbedöm-
 ningsföretag har använts tillämpas
 inte första stycket. I stället tillämpas
@@ -1688,30 +1688,30 @@ känna att en eller flera åtgärder som
 avses i 3 § ska anses slutförda och, i
 fråga om byggåtgärder, att bygg-
 nadsverket får tas i bruk, om
-1. byggherren har visat att alla
+1\. byggherren har visat att alla
 krav som gäller för åtgärderna enligt
 lovet, startbeskedet eller beslut om
 kompletterande villkor är uppfyllda,
 
-2. byggherren har lämnat in ett
+2\. byggherren har lämnat in ett
 intyg där det certifierade byggbe-
 dömningsföretag som har använts in-
 tygar att utformningskraven enligt 8
 kap. 1 § 1 och 3 samt de tekniska
 egenskapskraven enligt 8 kap. 4 § be-
 döms vara uppfyllda,
-3. byggherren har visat att denne
+3\. byggherren har visat att denne
 har gett in en klimatdeklaration en-
 ligt lagen (2021:787) om klimatde-
 klaration för byggnader eller gjort
 sannolikt att det inte finns någon
 skyldighet att ge in en klimatdekla-
 ration,
-4. byggherren har visat att denne
+4\. byggherren har visat att denne
 har gett in de handlingar som krävs
 enligt föreskrifter som har meddelats
 med stöd av 16 kap. 9 §, och
-5. nämnden inte har funnit skäl att
+5\. nämnden inte har funnit skäl att
 ingripa enligt 11 kap.
 
 35 §
@@ -1733,26 +1733,26 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 21
 11 kap.
 1 §
 Detta kapitel innehåller bestämmelser om
-1. tillsynen allmänt, möjlighet att få ett ingripandebesked samt skyldighet
+1\. tillsynen allmänt, möjlighet att få ett ingripandebesked samt skyldighet
 att ge tillträde och lämna upplysningar för tillsynen,
-2. tillsynen över kommunala beslut,
+2\. tillsynen över kommunala beslut,
 
-3. förelägganden som behövs för att regler, domar och beslut ska följas,
-4. genomförande på den försumliges bekostnad och förbud mot fortsatt ar-
+3\. förelägganden som behövs för att regler, domar och beslut ska följas,
+4\. genomförande på den försumliges bekostnad och förbud mot fortsatt ar-
 bete eller användning av byggnadsverk,
-5. ingripanden mot kontrollanter, 5. ingripanden mot kontrollanter,
+5\. ingripanden mot kontrollanter, 5. ingripanden mot kontrollanter,
 certifierade byggprojekteringsföretag certifierade byggbedömningsföretag
 och kontrollansvariga,    och kontrollansvariga,
-6. att förelägganden och förbud får förenas med vite eller ska genomföras
+6\. att förelägganden och förbud får förenas med vite eller ska genomföras
 omedelbart,
-7. handräckning,
+7\. handräckning,
 
-8. anteckningar av förelägganden och förbud i fastighetsregistret samt ver-
+8\. anteckningar av förelägganden och förbud i fastighetsregistret samt ver-
 kan av förelägganden och förbud vid ägarbyte,
-9. byggsanktionsavgifter,
-10. överlåtelse av egendom efter en överträdelse,
-11. tystnadsplikt, och
-12. avgift vid tillsyn.
+9\. byggsanktionsavgifter,
+10\. överlåtelse av egendom efter en överträdelse,
+11\. tystnadsplikt, och
+12\. avgift vid tillsyn.
 
 Byte av och ingripanden mot Byte av och ingripanden mot
 funktionskontrollant, certifierat funktionskontrollant, certifierat
@@ -1775,8 +1775,8 @@ sakkunniga                sakkunniga
 9 §
 Regeringen eller den myndighet som regeringen bestämmer får meddela
 
-1. föreskrifter om funktionskontrollanter enligt 8 kap. 25 §,
-2. föreskrifter om vad som i fråga 2. föreskrifter om vad som i fråga
+1\. föreskrifter om funktionskontrollanter enligt 8 kap. 25 §,
+2\. föreskrifter om vad som i fråga 2. föreskrifter om vad som i fråga
 om kunskap, erfarenhet och certifier- om kunskap, erfarenhet och certifier-
 ing krävs av sådana byggprojekte- ing krävs av sådana byggbedöm-
 ringsföretag, kontrollansvariga och ningsföretag, kontrollansvariga och
@@ -1790,17 +1790,17 @@ Boverket
 Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 22
 0 Författningsförslag
 
-3. de föreskrifter i övrigt om kontrollansvariga och sakkunniga som be-
+3\. de föreskrifter i övrigt om kontrollansvariga och sakkunniga som be-
 hövs utöver bestämmelserna i 10 kap. 9–13 §§, och
-4. föreskrifter om vilka bostads- 4. föreskrifter om vilka nya bygg-
+4\. föreskrifter om vilka bostads- 4. föreskrifter om vilka nya bygg-
 hus som ska omfattas av 9 kap. 32 b nader som ska omfattas av 9 kap. 32
 och 32 c §§ och 10 kap. 25 a §. b och 32 c §§ och 10 kap. 25 a §,
 
-5. föreskrifter om vad som krävs
+5\. föreskrifter om vad som krävs
 av sådana certifieringsorgan som ut-
 färdar certifiering för certifierade
 byggbedömningsföretag,
-6. föreskrifter om vilka hand-
+6\. föreskrifter om vilka hand-
 lingar för arkivering som ska lämnas
 inför slutbesked när ett certifierat
 byggbedömningsföretag har använts.
@@ -1824,20 +1824,20 @@ Nuvarande lydelse         Föreslagen lydelse
 23 §
 Boverket får meddela      Boverket får meddela
 
-1. de föreskrifter om funktions- 1. de föreskrifter om funktions-
+1\. de föreskrifter om funktions- 1. de föreskrifter om funktions-
 kontrollanter, certifierade byggpro- kontrollanter, certifierade byggbe-
 jekteringsföretag, kontrollansvariga dömningsföretag, kontrollansvariga
 och sakkunniga som behövs för till- och sakkunniga som behövs för till-
 lämpningen av 7 kap. 2–4 §§, och lämpningen av 7 kap. 2–4 §§, och
-2. föreskrifter om vilka bostads- 2. föreskrifter om vilka nya bygg-
+2\. föreskrifter om vilka bostads- 2. föreskrifter om vilka nya bygg-
 hus som ska omfattas av 9 kap. 32 b nader som ska omfattas av 9 kap.
 och 32 c §§ och 10 kap. 25 a § plan- 32 b och 32 c §§ och 10 kap. 25 a §
 och bygglagen (2010:900). plan- och bygglagen (2010:900),
-3. föreskrifter om vad som krävs
+3\. föreskrifter om vad som krävs
 av sådana certifieringsorgan som ut-
 färdar certifiering för certifierade
 byggbedömningsföretag,
-4. föreskrifter om vilka handling-
+4\. föreskrifter om vilka handling-
 ar för arkivering som ska lämnas in-
 för slutbesked när ett certifierat
 byggbedömningsföretag har an-
@@ -5913,9 +5913,9 @@ En ansökan om lov eller förhandsbesked ska vara skriftlig och innehålla
 de ritningar, beskrivningar och andra uppgifter som behövs för pröv-
 ningen.
 En ansökan om lov ska dessutom innehålla
-1. byggherrens förslag om vem eller vilka som ska vara kontrollansva-
+1\. byggherrens förslag om vem eller vilka som ska vara kontrollansva-
 riga enligt det som följer av 10 kap. 9 och 10 §§, och
-2. de handlingar som krävs för beslut om startbesked enligt 10 kap.,
+2\. de handlingar som krävs för beslut om startbesked enligt 10 kap.,
 om ansökningen avser tillbyggnad eller annan ändring av ett en- eller två-
 bostadshus.
 Om ett certifierat byggbedömningsföretag som avses i 32 b § har an-
@@ -6040,10 +6040,10 @@ Närmare överväganden finns i 3.4.4 och 3.5.3.2.
 10 kap. 6 §
 Byggherren ska se till att det finns en plan för kontrollen av en bygg-
 åtgärd som avses i 3 § (kontrollplan) med uppgifter om
-1. vilka kontroller som ska göras och vad kontrollerna ska avse,
-2. vem som ska göra kontrollerna,
-3. vilka anmälningar som ska göras till byggnadsnämnden, och
-4. vilka arbetsplatsbesök som byggnadsnämnden bör göra och när be-
+1\. vilka kontroller som ska göras och vad kontrollerna ska avse,
+2\. vem som ska göra kontrollerna,
+3\. vilka anmälningar som ska göras till byggnadsnämnden, och
+4\. vilka arbetsplatsbesök som byggnadsnämnden bör göra och när be-
 söken bör ske.
 Första stycket gäller inte om ett certifierat byggbedömningsföretag har
 använts.
@@ -6067,9 +6067,9 @@ Boverket
 Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 97
 0 Författningskommentarer
 
-1. vilka byggprodukter som kan återanvändas och hur dessa ska tas om
+1\. vilka byggprodukter som kan återanvändas och hur dessa ska tas om
 hand, och
-2. vilket avfall som åtgärden kan ge upphov till och hur avfallet ska tas
+2\. vilket avfall som åtgärden kan ge upphov till och hur avfallet ska tas
 om hand, särskilt hur man avser att möjliggöra
 a) materialåtervinning av hög kvalitet, och
 b) avlägsnande och säker hantering av farliga ämnen.
@@ -6124,9 +6124,9 @@ Boverket
 Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 98
 0 Författningskommentarer
 
-1. har den kunskap, erfarenhet och lämplighet som behövs för upp-gif-
+1\. har den kunskap, erfarenhet och lämplighet som behövs för upp-gif-
 ten och kan styrka detta med ett bevis om certifiering, och
-2. har en självständig ställning i förhållande till den som utför den åt-
+2\. har en självständig ställning i förhållande till den som utför den åt-
 gärd som ska kontrolleras.
 Om det finns flera kontrollansvariga, ska byggherren se till att någon
 av dem samordnar de kontrollansvarigas uppgifter.
@@ -6249,9 +6249,9 @@ Närmare överväganden finns i 3.5.1
 I fråga om sådana åtgärder som avses i 3 § ska byggnadsnämnden utan
 dröjsmål efter att lov har getts eller anmälan har kommit in kalla till ett
 sammanträde för tekniskt samråd, om
-1. det krävs en kontrollansvarig enligt det som följer av 9 och 10 §§,
-2. ett sådant samråd inte är uppenbart obehövligt, eller
-3. byggherren har begärt ett sådant samråd.
+1\. det krävs en kontrollansvarig enligt det som följer av 9 och 10 §§,
+2\. ett sådant samråd inte är uppenbart obehövligt, eller
+3\. byggherren har begärt ett sådant samråd.
 Tekniskt samråd behövs inte för sådana åtgärder som avses i 9 kap.
 4 a–4 c §§ eller för flyttning av en enstaka enkel byggnad, om byggnads-
 nämnden inte beslutar annat. Byggnadsnämnden får besluta att tekniskt
@@ -6272,8 +6272,8 @@ Närmare överväganden finns i 3.4.2 och 3.5.3.1.
 10 kap. 18 §
 Byggherren ska senast vid det tekniska samrådet till byggnadsnämnden
 lämna
-1. ett förslag till en sådan kontrollplan som krävs enligt 6 §, samt
-2. de tekniska handlingar som, utöver ansökningshandlingarna enligt
+1\. ett förslag till en sådan kontrollplan som krävs enligt 6 §, samt
+2\. de tekniska handlingar som, utöver ansökningshandlingarna enligt
 9 kap. 21 §, krävs för att byggnadsnämnden ska kunna pröva frågan om
 startbesked.
 Om ett certifierat byggbedömningsföretag har använts tillämpas inte
@@ -6296,18 +6296,18 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 101
 10 kap. 19 §
 
 Vid det tekniska samrådet ska man gå igenom
-1. arbetets planering och organisation,
-2. byggherrens förslag till kontrollplan och de handlingar i övrigt som
+1\. arbetets planering och organisation,
+2\. byggherrens förslag till kontrollplan och de handlingar i övrigt som
 byggherren har gett in,
-3. hur identifieringen av avfall och återanvändbara byggprodukter har
+3\. hur identifieringen av avfall och återanvändbara byggprodukter har
 gjorts,
-4. behovet av att byggnadsnämnden gör arbetsplatsbesök eller av andra
+4\. behovet av att byggnadsnämnden gör arbetsplatsbesök eller av andra
 tillsynsåtgärder,
-5. behovet av ett färdigställandeskydd,
-6. behovet av utstakning,
-7. byggnadsnämndens behov av ytterligare handlingar inför beslut om
+5\. behovet av ett färdigställandeskydd,
+6\. behovet av utstakning,
+7\. byggnadsnämndens behov av ytterligare handlingar inför beslut om
 kontrollplan eller startbesked, och
-8. behovet av ytterligare sammanträden.
+8\. behovet av ytterligare sammanträden.
 Om ett certifierat byggbedömningsföretag har använts tillämpas inte
 första stycket. I stället tillämpas 25 b §.
 
@@ -6318,19 +6318,19 @@ Närmare överväganden finns i 3.4.2 och 3.5.3.1.
 
 10 kap. 24 §
 I startbeskedet ska byggnadsnämnden
-1. fastställa den kontrollplan som ska gälla för åtgärderna enligt bygg-
+1\. fastställa den kontrollplan som ska gälla för åtgärderna enligt bygg-
 herrens förslag och det som kommit fram i det tekniska samrådet eller an-
 nars i handläggningen av ärendet, med uppgift om vem eller vilka som är
 sakkunniga eller kontrollansvariga,
-2. bestämma villkor för att få påbörja åtgärderna, om sådana villkor
+2\. bestämma villkor för att få påbörja åtgärderna, om sådana villkor
 behövs,
-3. bestämma villkor och ungefärlig tidpunkt för utstakning, om utstak-
+3\. bestämma villkor och ungefärlig tidpunkt för utstakning, om utstak-
 ning behövs,
-4. bestämma vilka handlingar som ska lämnas till nämnden inför be-
+4\. bestämma vilka handlingar som ska lämnas till nämnden inför be-
 slut om slutbesked,
-5. ge upplysningar om krav enligt annan lagstiftning, i den mån sådana
+5\. ge upplysningar om krav enligt annan lagstiftning, i den mån sådana
 upplysningar behövs, och
-6. ange vid vilken tidpunkt som åt-gärderna får påbörjas om de enligt
+6\. ange vid vilken tidpunkt som åt-gärderna får påbörjas om de enligt
 9 kap. 36 eller 37 §§ inte får påbörjas direkt eller om beslutet om lov för
 åtgärderna enligt 42 a § inte får verkställas direkt.
 Om ett certifierat byggbedömningsföretag har använts ska det i startbe-
@@ -6383,15 +6383,15 @@ Om ett certifierat byggbedömningsföretag har använts ska byggnads-
 nämnden utan dröjsmål efter att lov har getts eller anmälan har kommit in
 kalla till ett sammanträde för tekniskt samråd.
 Vid det tekniska samrådet ska man gå igenom
-1. vilket certifierat byggbedömningsföretag som har använts,
-2. arbetets planering och organisation,
-3. hur identifieringen av avfall och återanvändbara byggprodukter har
+1\. vilket certifierat byggbedömningsföretag som har använts,
+2\. arbetets planering och organisation,
+3\. hur identifieringen av avfall och återanvändbara byggprodukter har
 gjorts,
-4. behovet av ett färdigställandeskydd,
-5. behovet av utstakning,
-6. byggnadsnämndens behov av ytterligare handlingar inför beslut om
+4\. behovet av ett färdigställandeskydd,
+5\. behovet av utstakning,
+6\. byggnadsnämndens behov av ytterligare handlingar inför beslut om
 startbesked, och
-7. behovet av ytterligare sammanträden.
+7\. behovet av ytterligare sammanträden.
 Om byggnadsnämnden anser det lämpligt får det tekniska samrådet en-
 ligt första stycket ersättas av en skriftlig kommunikation.
 Om det är obehövligt krävs varken samråd eller skriftlig kommunikat-
@@ -6439,8 +6439,8 @@ Närmare överväganden finns i 3.4.6 och 3.5.4.2.
 10 kap. 27 §
 Efter ett startbesked enligt 23 § ska byggnadsnämnden minst en gång un-
 der arbetets gång besöka den plats där åtgärderna genomförs, om
-1. startbeskedet har föregåtts av ett tekniskt samråd, och
-2. ett arbetsplatsbesök inte kan anses obehövligt.
+1\. startbeskedet har föregåtts av ett tekniskt samråd, och
+2\. ett arbetsplatsbesök inte kan anses obehövligt.
 Ett arbetsplatsbesök ska alltid göras, om startbeskedet avser ett stort el-
 ler komplicerat byggprojekt eller om byggnadsnämnden och byggherren
 vid det tekniska samrådet har kommit överens om ett arbetsplatsbesök.
@@ -6466,9 +6466,9 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 104
 
 Byggnadsnämnden får besluta om kompletterande villkor för bygg- eller
 rivningsåtgärderna eller för kontrollen, om
-1. sådana villkor behövs för att uppfylla kraven enligt denna lag eller
+1\. sådana villkor behövs för att uppfylla kraven enligt denna lag eller
 föreskrifter som har meddelats med stöd av lagen, och
-2. behovet av villkoren inte kunde förutses när startbeskedet gavs.
+2\. behovet av villkoren inte kunde förutses när startbeskedet gavs.
 Om ett certifierat byggbedömningsföretag har använts får komplette-
 rande villkor inte avse utformningskrav som avses i 8 kap. 1 § 1 och 3 el-
 ler tekniska egenskapskrav som avses i 8 kap. 4 §.
@@ -6503,9 +6503,9 @@ Närmare överväganden finns i avsnitt 3.4.7 och 3.5.4.3.
 10 kap. 31 §
 
 En kallelse enligt 30 § ska vara skriftlig och skickas till
-1. byggherren,
-2. den eller de kontrollansvariga, och
-3. övriga som enligt byggnadsnämnden bör ges tillfälle att delta.
+1\. byggherren,
+2\. den eller de kontrollansvariga, och
+3\. övriga som enligt byggnadsnämnden bör ges tillfälle att delta.
 Om ett certifierat byggbedömningsföretag har använts ska det använda
 företaget kallas, i stället för den eller de kontrollansvariga som avses i
 första stycket 2.
@@ -6532,15 +6532,15 @@ Närmare överväganden finns i avsnitt 3.4.7 och 3.5.4.3.
 Slutsamrådet ska normalt hållas på den plats där byggåtgärderna har ge-
 
 nomförts. Vid slutsamrådet ska följande gås igenom:
-1. hur kontrollplanen, andra villkor i startbeskedet och kompletterande
+1\. hur kontrollplanen, andra villkor i startbeskedet och kompletterande
 villkor har följts,
-2. avvikelser från de krav som gäller för åtgärderna,
-3. den kontrollansvariges utlåtande enligt 11 § 6,
-4. den kontrollansvariges och byggnadsnämndens dokumentation över
+2\. avvikelser från de krav som gäller för åtgärderna,
+3\. den kontrollansvariges utlåtande enligt 11 § 6,
+4\. den kontrollansvariges och byggnadsnämndens dokumentation över
 besök på byggarbetsplatsen och annan dokumentation över arbetets utfö-
 rande,
-5. behov av andra åtgärder, och
-6. förutsättningarna för ett slutbesked.
+5\. behov av andra åtgärder, och
+6\. förutsättningarna för ett slutbesked.
 Om ett certifierat byggbedömningsföretag har använts tillämpas inte
 första stycket. I stället tillämpas 32 a §.
 
@@ -6555,15 +6555,15 @@ Slutsamrådet ska normalt hållas på den plats där byggåtgärderna har ge-
 nomförts.
 Om ett certifierat byggbedömningsföretag har använts ska vid slutsam-
 rådet följande gås igenom:
-1. hur villkor i startbeskedet och kompletterande villkor har följts,
-2. avvikelser från de krav som gäller för åtgärderna,
-3. det certifierade byggbedömningsföretagets redogörelse för genom-
+1\. hur villkor i startbeskedet och kompletterande villkor har följts,
+2\. avvikelser från de krav som gäller för åtgärderna,
+3\. det certifierade byggbedömningsföretagets redogörelse för genom-
 förda kontroller,
-4. det certifierade byggbedömningsföretagets bedömning av förutsätt-
+4\. det certifierade byggbedömningsföretagets bedömning av förutsätt-
 ningarna för slutbesked med avseende på utformningskraven enligt 8 kap.
 1 § 1 och 3 samt de tekniska egenskapskraven enligt 8 kap. 4 §,
-5. behov av andra åtgärder, och
-6. övriga förutsättningar för ett slutbesked.
+5\. behov av andra åtgärder, och
+6\. övriga förutsättningar för ett slutbesked.
 
 Bestämmelsen är ny och reglerar vad som ska gås igenom vid ett slutsam-
 
@@ -6605,13 +6605,13 @@ Närmare överväganden finns i avsnitt 3.4.7 och 3.5.4.3.
 Byggnadsnämnden ska med ett slutbesked godkänna att en eller flera åt-
 gärder som avses i 3 § ska anses slutförda och, i fråga om byggåtgärder,
 att byggnadsverket får tas i bruk, om
-1. byggherren har visat att alla krav som gäller för åtgärderna enligt lo-
+1\. byggherren har visat att alla krav som gäller för åtgärderna enligt lo-
 vet, kontrollplanen, startbeskedet eller beslut om kompletterande villkor
 är uppfyllda,
-2. byggherren har visat att denne har gett in en klimatdeklaration enligt
+2\. byggherren har visat att denne har gett in en klimatdeklaration enligt
 lagen (2021:787) om klimatdeklaration för byggnader eller gjort sanno-
 likt att det inte finns någon skyldighet att ge in en klimatdeklaration, och
-3. nämnden inte har funnit skäl att ingripa enligt 11 kap.
+3\. nämnden inte har funnit skäl att ingripa enligt 11 kap.
 Om ett certifierat byggbedömningsföretag har använts tillämpas inte
 första stycket. I stället tillämpas 34 a §.
 
@@ -6625,7 +6625,7 @@ Om ett certifierat byggbedömningsföretag har använts ska byggnads-
 nämnden med ett slutbesked godkänna att en eller flera åtgärder som av-
 ses i 3 § ska anses slutförda och, i fråga om byggåtgärder, att byggnads-
 verket får tas i bruk, om
-1. byggherren har visat att alla krav som gäller för åtgärderna enligt lo-
+1\. byggherren har visat att alla krav som gäller för åtgärderna enligt lo-
 vet, startbeskedet eller beslut om kompletterande villkor är uppfyllda,
 
 Boverket
@@ -6635,16 +6635,16 @@ Boverket
 Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 107
 0 Författningskommentarer
 
-2. byggherren har lämnat in ett intyg där det certifierade byggbedöm-
+2\. byggherren har lämnat in ett intyg där det certifierade byggbedöm-
 ningsföretag som har använts intygar att utformningskraven enligt 8 kap.
 1 § 1 och 3 samt de tekniska egenskapskraven enligt 8 kap. 4 § bedöms
 vara uppfyllda,
-3. byggherren har visat att denne har gett in en klimatdeklaration enligt
+3\. byggherren har visat att denne har gett in en klimatdeklaration enligt
 lagen (2021:787) om klimatdeklaration för byggnader eller gjort sanno-
 likt att det inte finns någon skyldighet att ge in en klimatdeklaration,
-4. byggherren har visat att denne har gett in de handlingar som krävs
+4\. byggherren har visat att denne har gett in de handlingar som krävs
 enligt föreskrifter som har meddelats med stöd av 16 kap. 9 §, och
-5. nämnden inte har funnit skäl att ingripa enligt 11 kap.
+5\. nämnden inte har funnit skäl att ingripa enligt 11 kap.
 
 Bestämmelsen är ny och reglerar när byggnadsnämnden ska ge ett slutbe-
 sked när ett certifierat byggbedömningsföretag har använts.
@@ -6672,18 +6672,18 @@ nya 10 kap. 34 a §.
 
 11 kap. 1 §
 Detta kapitel innehåller bestämmelser om
-1. tillsynen allmänt, möjlighet att få ett ingripandebesked samt skyl-
+1\. tillsynen allmänt, möjlighet att få ett ingripandebesked samt skyl-
 dighet att ge tillträde och lämna upplysningar för tillsynen,
-2. tillsynen över kommunala beslut,
-3. förelägganden som behövs för att regler, domar och beslut ska föl-
+2\. tillsynen över kommunala beslut,
+3\. förelägganden som behövs för att regler, domar och beslut ska föl-
 jas,
-4. genomförande på den försumliges bekostnad och förbud mot fortsatt
+4\. genomförande på den försumliges bekostnad och förbud mot fortsatt
 arbete eller användning av byggnadsverk,
-5. ingripanden mot kontrollanter, certifierade byggbedömningsföretag
+5\. ingripanden mot kontrollanter, certifierade byggbedömningsföretag
 och kontrollansvariga,
-6. att förelägganden och förbud får förenas med vite eller ska genom-
+6\. att förelägganden och förbud får förenas med vite eller ska genom-
 föras omedelbart,
-7. handräckning,
+7\. handräckning,
 
 Boverket
 
@@ -6692,12 +6692,12 @@ Boverket
 Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 108
 0 Författningskommentarer
 
-8. anteckningar av förelägganden och förbud i fastighetsregistret samt
+8\. anteckningar av förelägganden och förbud i fastighetsregistret samt
 verkan av förelägganden och förbud vid ägarbyte,
-9. byggsanktionsavgifter,
-10. överlåtelse av egendom efter en överträdelse,
-11. tystnadsplikt, och
-12. avgift vid tillsyn.
+9\. byggsanktionsavgifter,
+10\. överlåtelse av egendom efter en överträdelse,
+11\. tystnadsplikt, och
+12\. avgift vid tillsyn.
 
 Bestämmelsen är befintlig men benämningen byggprojekteringsföretag
 har ändrats till byggbedömningsföretag.
@@ -6723,17 +6723,17 @@ ningsföretag, kontrollansvariga och sakkunniga
 
 16 kap. 9 §
 Regeringen eller den myndighet som regeringen bestämmer får meddela
-1. föreskrifter om funktionskontrollanter enligt 8 kap. 25 §,
-2. föreskrifter om vad som i fråga om kunskap, erfarenhet och certifie-
+1\. föreskrifter om funktionskontrollanter enligt 8 kap. 25 §,
+2\. föreskrifter om vad som i fråga om kunskap, erfarenhet och certifie-
 ring krävs av sådana byggbedömningsföretag, kontrollansvariga och sak-
 kunniga som avses i 9 kap. 32 b § och 10 kap.,
-3. de föreskrifter i övrigt om kon-trollansvariga och sakkunniga som
+3\. de föreskrifter i övrigt om kon-trollansvariga och sakkunniga som
 behövs utöver bestämmelserna i 10 kap. 9–13 §§, och
-4. föreskrifter om vilka nya byggnader som ska omfattas av 9 kap.
+4\. föreskrifter om vilka nya byggnader som ska omfattas av 9 kap.
 32 b och 32 c §§ och 10 kap. 25 a §,
-5. föreskrifter om vad som krävs av sådana certifieringsorgan som ut-
+5\. föreskrifter om vad som krävs av sådana certifieringsorgan som ut-
 färdar certifiering för certifierade byggbedömningsföretag,
-6. föreskrifter om vilka handlingar för arkivering som ska lämnas inför
+6\. föreskrifter om vilka handlingar för arkivering som ska lämnas inför
 slutbesked när ett certifierat byggbedömningsföretag har använts.
 
 Bestämmelsen är befintlig men kompletteras med punkt 5 och 6. Benäm-
@@ -6765,14 +6765,14 @@ förslag till ändring i PBF.
 
 10 kap. 23 §
 Boverket får meddela
-1. de föreskrifter om funktionskontrollanter, certifierade byggbedöm-
+1\. de föreskrifter om funktionskontrollanter, certifierade byggbedöm-
 ningsföretag, kontrollansvariga och sakkunniga som behövs för tillämp-
 ningen av 7 kap. 2–4 §§, och
-2. föreskrifter om vilka nya byggnader som ska omfattas av 9 kap. 32
+2\. föreskrifter om vilka nya byggnader som ska omfattas av 9 kap. 32
 b och 32 c §§ och 10 kap. 25 a § plan- och bygglagen (2010:900).
-3. föreskrifter om vad som krävs av sådana certifieringsorgan som ut-
+3\. föreskrifter om vad som krävs av sådana certifieringsorgan som ut-
 färdar certifiering för certifierade byggbedömningsföretag,
-4. föreskrifter om vilka handlingar för arkivering som ska lämnas inför
+4\. föreskrifter om vilka handlingar för arkivering som ska lämnas inför
 slutbesked när ett certifierat byggbedömningsföretag har använts.
 
 Bestämmelsens punkt 1 är befintlig men benämningen byggprojekter-

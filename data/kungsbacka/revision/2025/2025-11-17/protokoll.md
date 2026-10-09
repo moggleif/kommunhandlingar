@@ -214,7 +214,7 @@ Sammanfattning
 Karin Knutsson Friberg (EY) föredrar ärendet. Revisionen diskuterar risker i
 kommunens nämnder och styrelse för 2026.
 
-10.
+10\.
 Övriga frågor
 
 Överenskommelse
@@ -224,7 +224,7 @@ Kommunrevisionen noterar informationen.
 Sammanfattning
 Birgitta Litsegård föredrar ärendet.
 
-11.
+11\.
 Avslutande reflektion, nästa möte och avslut
 
 Ordförande Birgitta Litsegård tackar mötesdeltagarna och förklarar mötet avslutat.

@@ -508,7 +508,7 @@ detaljplanen är i första hand att göra det möjligt att bevilja permanent byg
 befintliga flerbostadsbostadshus. Byggnaderna uppfördes med tillfälliga bygglov
 under åren 2016–2019 för att ordna bostäder till nyanlända personer som anvisats till
 Kungsbacka kommun. Tempohus fick permanent bygglov för Modulhuset sommaren
-2024. Lovet är villkorat med att ett antal förbättringsåtgärder på mark och byggnader
+2024\. Lovet är villkorat med att ett antal förbättringsåtgärder på mark och byggnader
 utförs.
 Köpeskillingen på 20 000 000 kronor utgår ifrån en värdering som är utförd av en
 
@@ -723,8 +723,8 @@ Lundqvists (S) yrkande.
 Maria Losman (MP) yrkar bifall till kommunstyrelsens förvaltnings förslag med två
 tillägg:
 
-1. Minst 50 procent hyresrätter
-2. En fortsättning på texten sidan 5 som slutar med ”För att hantera skyfall
+1\. Minst 50 procent hyresrätter
+2\. En fortsättning på texten sidan 5 som slutar med ”För att hantera skyfall
 
 måste utrymme för vattenrening, fördröjning och säker bortledning
 säkerställas genom grön-blåa områden inom planområdet.” Byggnader ska
@@ -1023,12 +1023,12 @@ reglerna kring osjälvständiga brottsformer, såsom försök, förberedelse och
 enligt svensk strafflagstiftning.
 
 Utredaren presenterar bland annat förslag som innebär:
-1. Utvidgat straffansvar för otjänliga försök föreslås införas vilket innebär att
+1\. Utvidgat straffansvar för otjänliga försök föreslås införas vilket innebär att
 
 även försök där brottet inte kan fullbordas på grund av myndigheters åtgärder
 (till exempel polisiära insatser) kriminaliseras. Ett undantag föreslås dock för
 mindre allvarliga fall.
-2. Förändringar av reglerna för förberedelse och stämpling:
+2\. Förändringar av reglerna för förberedelse och stämpling:
 
 Bestämmelsen utökas till att även omfatta befattning med hjälpmedel som kan
 användas vid brott. Ytterligare straffbara åtgärder när det gäller betalning och
@@ -1036,7 +1036,7 @@ täckande av kostnader för ett brott föreslås också.
 Inkludering av informationsinsamling (exempelvis kartläggning) som en del av
 
 förberedelse till brott.
-3. Att en ny möjlighet till frivilligt tillbakaträdande från försök, förberedelse och
+3\. Att en ny möjlighet till frivilligt tillbakaträdande från försök, förberedelse och
 stämpling till ett brott införs. Bestämmelsen är avsedd att möjliggöra också
 för de personer som inte har ett bestämmande inflytande över
 händelseförloppet att kunna träda tillbaka frivilligt, något de ofta inte kunnat
@@ -1050,7 +1050,7 @@ Den nya bestämmelsen om frivilligt tillbakaträdande kompletteras med en lag om
 uppgiftsskyldighet för viss personal inom skolväsendet, på hem för vård eller
 boende, vissa myndigheter och personer i särskild förtroendeställning
 
-4. Strängare regler för gärningsmannaskap, anstiftan och medhjälp, vilket
+4\. Strängare regler för gärningsmannaskap, anstiftan och medhjälp, vilket
 innebär att det föreslås införas tydligare definitioner för gärningsmän och
 
 Det här dokumentet är digitalt signerat
@@ -1066,7 +1066,7 @@ Datum
 
 medverkande samt nya bestämmelser för när juridiska personer kan hållas
 ansvariga.
-5. Skärpta regler mot underlåtenhet att avslöja brott. Ansvar för att avslöja eller
+5\. Skärpta regler mot underlåtenhet att avslöja brott. Ansvar för att avslöja eller
 förhindra allvarliga brott föreslås skärpas, särskilt inom organiserad
 brottslighet. Straffrihet ska inte längre gälla om brottet kan avslöjas utan fara
 

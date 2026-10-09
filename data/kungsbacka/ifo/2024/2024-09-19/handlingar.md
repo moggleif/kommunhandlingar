@@ -213,10 +213,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -480,11 +480,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -542,12 +542,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 68 %    65 %   73 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 88 %    85 %   86 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 98 97
 målvärde 2030 är 70.
@@ -565,7 +565,7 @@ området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i
@@ -588,8 +588,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 
@@ -661,8 +661,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -728,12 +728,12 @@ kr/invånare (Kolada)
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -1540,7 +1540,7 @@ Myndighet, stöd och behandling
 Verksamheten prognosticerar ett underskott på 10,4 miljoner kronor.
 
 Kostnaderna för köpta platser inom Barn och Unga har ökat kraftigt under 2023 och har samma nivå under
-2024. Mellan åren har kostnaderna ökat med drygt 2,5 miljoner kronor, vilket motsvarar 9%. Positivt är att Barn
+2024\. Mellan åren har kostnaderna ökat med drygt 2,5 miljoner kronor, vilket motsvarar 9%. Positivt är att Barn
 och Unga har färre köpta dygn under perioden jämfört med 2023. Däremot har priset per dygn ökat med i
 genomsnitt 1 200 kr per dygn. Kostnadsökningen mellan åren består enbart av ökade priser.
 Ökningen i pris per dygn är något som även återfinns bland grannkommuner i GR. Vid en akut placering
@@ -2005,20 +2005,20 @@ vara en hållbar och kvalitativ socialtjänst i nutid och i framtid.
 Många av de trender som identifierades är inte unika för Individ & Familjeomsorg utan påverkar Kungsbacka
 och hela det offentliga Sverige. Exempel på sådant som bedömdes vara av extra stor vikt är:
 
-- den demografiska utmaningen. Kompetensbristen är påtaglig inom nämndens verksamheter redan idag, där
+\- den demografiska utmaningen. Kompetensbristen är påtaglig inom nämndens verksamheter redan idag, där
 vissa yrkesgrupper är svårare att rekrytera än andra. Sveriges kommuner står inför omfattade utmaningar bland
 annat kopplat till välfärdens långsiktiga finansiering, kompetensförsörjning och ökade krav på offentlig service.
-- teknik och digitala lösningar. Genom att hitta digitala lösningar där så är möjligt, kan vi frigöra resurser och
+\- teknik och digitala lösningar. Genom att hitta digitala lösningar där så är möjligt, kan vi frigöra resurser och
 säkerställa att det finns medarbetare tillgängliga där de gör mest nytta. Digitala lösningar kan också bidra till en
 ökad tillgänglighet för Kungsbackas invånare och en ökad självständighet för förvaltningens brukare. Samtidigt
 finns en risk att vi skapar ett "digitalt utanförskap" då vi inför nya arbetssätt och tekniker som inte alla har
 tillgång till eller förmåga att använda. Detta behöver vi ta hänsyn till när vi utvecklar nya digitala arbetssätt.
-- förändrad omvärld. Ärenden inom socialtjänsten blir alltmer komplexa och krävande. Vi möter människor med
+\- förändrad omvärld. Ärenden inom socialtjänsten blir alltmer komplexa och krävande. Vi möter människor med
 mer komplex problematik vilket ställer krav på delvis annan kompetens. Psykisk ohälsa, samsjuklighet och unga
 med NPF ökar. De kriminella gängen kommer närmre Kungsbacka och tillgängligheten till droger ökar. Våra
 brukare värderar sina rättigheter högre och ställer därmed andra och/eller högre krav på verksamheten.
 
-- Ny lagstiftning
+\- Ny lagstiftning
 I somras presenterades lagrådsremissen till ny socialtjänstlag "En förebyggande socialtjänstlag – för ökade
 rättigheter, skyldigheter och möjligheter". Den nya lagstiftningen väntas träda i kraft 1 juli 2025.
 
@@ -2122,10 +2122,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 13
 
@@ -2286,11 +2286,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 16
 
@@ -2341,8 +2341,8 @@ Nämndbudget 2025
 
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 6.4 I Kungsbacka utvecklas vi hela livet
@@ -2350,8 +2350,8 @@ mellan näringsliv och utbildning.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 18
 
@@ -2386,12 +2386,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 6.5.1 Fokusområde: Kommunikation som främjar transparens, tillit och delaktighet
 Beslutats av
@@ -3305,36 +3305,36 @@ utveckla en kunskapsbaserad socialtjänst (Ds 2024:13)
 
 Remissinstanser
 
-1. Akademikerförbundet SSR
+1\. Akademikerförbundet SSR
 
-2. Almega
-3. Barnombudsmannen
+2\. Almega
+3\. Barnombudsmannen
 
-4. Brottsförebyggande rådet
-5. E-hälsomyndigheten
+4\. Brottsförebyggande rådet
+5\. E-hälsomyndigheten
 
-6. Ekonomistyrningsverket
+6\. Ekonomistyrningsverket
 
-7. Eksjö kommun
-8. Enköpings kommun
+7\. Eksjö kommun
+8\. Enköpings kommun
 
-9. Eskilstunas kommun
+9\. Eskilstunas kommun
 
-10. Etikprövningsmyndigheten
-11. Falkenbergs kommun
+10\. Etikprövningsmyndigheten
+11\. Falkenbergs kommun
 
-12. Famna
-13. Filipstads kommun
+12\. Famna
+13\. Filipstads kommun
 
-14. Forskningsrådet för hälsa, arbetsliv och välfärd
+14\. Forskningsrådet för hälsa, arbetsliv och välfärd
 
-15. Forum
-16. Föreningen Sveriges socialchefer
+15\. Forum
+16\. Föreningen Sveriges socialchefer
 
-17. Föreningen Sveriges socionomutbildningar
+17\. Föreningen Sveriges socionomutbildningar
 
-18. Förvaltningsrätten i Umeå
-19. Gotlands kommun
+18\. Förvaltningsrätten i Umeå
+19\. Gotlands kommun
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
@@ -3342,94 +3342,94 @@ Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
 
 <!-- sida 78 -->
 
-20. Gävles kommun
+20\. Gävles kommun
 
-21. Göteborgs universitet
-22. Haparandas kommun
+21\. Göteborgs universitet
+22\. Haparandas kommun
 
-23. Helsingborgs kommun
+23\. Helsingborgs kommun
 
-24. Huddinge kommun
-25. Inspektionen för vård och omsorg
+24\. Huddinge kommun
+25\. Inspektionen för vård och omsorg
 
-26. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
-27. Integritetsskyddsmyndigheten
+26\. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
+27\. Integritetsskyddsmyndigheten
 
-28. Jämställdhetsmyndigheten
+28\. Jämställdhetsmyndigheten
 
-29. Jönköpings kommun
-30. Karlskogas kommun
+29\. Jönköpings kommun
+30\. Karlskogas kommun
 
-31. Karlskrona kommun
+31\. Karlskrona kommun
 
-32. Karlstads kommun
-33. Karlstads universitet
+32\. Karlstads kommun
+33\. Karlstads universitet
 
-34. Kungsbacka kommun
-35. Lidingö kommun
+34\. Kungsbacka kommun
+35\. Lidingö kommun
 
-36. Lindesbergs kommun
+36\. Lindesbergs kommun
 
-37. Linköpings kommun
-38. Lunds kommun
+37\. Linköpings kommun
+38\. Lunds kommun
 
-39. Mora kommun
+39\. Mora kommun
 
-40. Myndigheten för delaktighet
-41. Myndigheten för familjerätt och föräldraskapsstöd
+40\. Myndigheten för delaktighet
+41\. Myndigheten för familjerätt och föräldraskapsstöd
 
-42. Myndigheten för vård- och omsorgsanalys
-43. Norbergs kommun
+42\. Myndigheten för vård- och omsorgsanalys
+43\. Norbergs kommun
 
-44. Oskarshamns kommun
+44\. Oskarshamns kommun
 
-45. Region Dalarna
-46. Region Kronoberg
+45\. Region Dalarna
+46\. Region Kronoberg
 
-47. Region Stockholm
+47\. Region Stockholm
 
-48. Region Västernorrland
-49. Region Västra Götaland
+48\. Region Västernorrland
+49\. Region Västra Götaland
 
 2 (4)
 
 <!-- sida 79 -->
 
-50. Riksdagens ombudsmän (JO)
+50\. Riksdagens ombudsmän (JO)
 
-51. Skellefteå kommun
-52. Socialstyrelsen
+51\. Skellefteå kommun
+52\. Socialstyrelsen
 
-53. Statens beredning för medicinsk och social utvärdering
+53\. Statens beredning för medicinsk och social utvärdering
 
-54. Statens institutionsstyrelse
-55. Statistiska centralbyrån
+54\. Statens institutionsstyrelse
+55\. Statistiska centralbyrån
 
-56. Statskontoret
-57. Stockholms kommun
+56\. Statskontoret
+57\. Stockholms kommun
 
-58. Svenska vård
+58\. Svenska vård
 
-59. Sveriges Kommuner och Regioner
-60. Sveriges Stadsmissioner
+59\. Sveriges Kommuner och Regioner
+60\. Sveriges Stadsmissioner
 
-61. Timrås kommun
+61\. Timrås kommun
 
-62. Vision
-63. Varbergs kommun
+62\. Vision
+63\. Varbergs kommun
 
-64. Vetenskapsrådet
-65. Vårdföretagarna
+64\. Vetenskapsrådet
+65\. Vårdföretagarna
 
-66. Västerås kommun
+66\. Västerås kommun
 
-67. Växjö kommun
-68. Umeå kommun
+67\. Växjö kommun
+68\. Umeå kommun
 
-69. Umeå universitet
+69\. Umeå universitet
 
-70. Örnsköldsviks kommun
-71. Östersunds kommun
+70\. Örnsköldsviks kommun
+71\. Östersunds kommun
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 4
 november 2024. Svaren bör lämnas per e-post till
@@ -4082,14 +4082,14 @@ uppgiftsskyldighet.
 Ikraftträdande- och övergångsbestämmelser
 
 Lagen om socialtjänstdataregister föreslås träda i kraft den 1 januari
-2026. Samtidigt ska bestämmelserna om uppgiftsskyldighet i 12 kap.
+2026\. Samtidigt ska bestämmelserna om uppgiftsskyldighet i 12 kap.
 5 § socialtjänstlagen (2001:453) och 15 a § lagen om stöd och service
 till vissa funktionshindrade upphöra att gälla och de till dessa
 bestämmelser anslutande förordningarna upphävas.
 Övergångsbestämmelser införs i lagen om socialtjänstdata-
 register med anslutande förordning som innebär att bestämmelserna
 om uppgiftsskyldighet ska tillämpas först från och med den 1 januari
-2027. De upphävda bestämmelserna och förordningarna ska alltså
+2027\. De upphävda bestämmelserna och förordningarna ska alltså
 fortsatt gälla fram till den 31 december 2026.
 
 16
@@ -4153,10 +4153,10 @@ av personuppgifter som myndigheten utför enligt denna lag.
 
 9 § Personuppgifter får behandlas i ett socialtjänstdataregister om
 det är nödvändigt för att
-1. framställa statistik,
-2. framställa underlag för uppföljning och utvärdering,
-3. utföra epidemiologiska studier, och
-4. bedriva forskning.
+1\. framställa statistik,
+2\. framställa underlag för uppföljning och utvärdering,
+3\. utföra epidemiologiska studier, och
+4\. bedriva forskning.
 
 10 § Personuppgifter som behandlas enligt 9 § får också behandlas
 för att fullgöra uppgiftslämnande som sker i överensstämmelse med
@@ -4184,11 +4184,11 @@ Innehållet i ett socialtjänstdataregister
 13 § Endast personuppgifter som behövs för de ändamål som
 anges i 9 § får behandlas i ett socialtjänstdataregister.
 I ett socialtjänstdataregister får det finnas
-1. uppgift om en person som utreds för, har prövats för eller får
+1\. uppgift om en person som utreds för, har prövats för eller får
 en insats inom socialtjänsten,
-2. uppgift om den utredning, prövning eller insats inom
+2\. uppgift om den utredning, prövning eller insats inom
 socialtjänsten som en person får, och
-3. annan uppgift av administrativ karaktär av betydelse för den
+3\. annan uppgift av administrativ karaktär av betydelse för den
 utredning, prövning eller insats inom socialtjänsten som en person
 får.
 Om det är nödvändigt får i ett socialtjänstdataregister också
@@ -4235,10 +4235,10 @@ Regeringen eller den myndighet som regeringen bestämmer kan
 med stöd av 8 kap. 7 § regeringsformen meddela närmare
 föreskrifter om hur uppgiftsskyldigheten ska fullgöras.
 
-1. Denna lag träder i kraft den 1 januari 2026.
-2. Bestämmelsen i 17 § tillämpas först den 1 januari 2027.
+1\. Denna lag träder i kraft den 1 januari 2026.
+2\. Bestämmelsen i 17 § tillämpas först den 1 januari 2027.
 
-3. De upphävda bestämmelserna om uppgiftsskyldighet i 15 a §
+3\. De upphävda bestämmelserna om uppgiftsskyldighet i 15 a §
 lagen (1993:387) om stöd och service till vissa funktionshindrade
 och 12 kap. 5 § socialtjänstlagen (2001:453) gäller fortfarande till
 och med den 31 december 20 26.
@@ -4301,12 +4301,12 @@ Personuppgifter som får behandlas
 
 4 § Personuppgifter som får behandlas i ett socialtjänstdataregister
 enligt 13 § lagen om socialtjänstdataregister, är uppgifter om
-1. personnummer eller samordningsnummer, kön, födelseår,
+1\. personnummer eller samordningsnummer, kön, födelseår,
 folkbokföringsort och födelseort,
-2. utredningsåtgärd och beslut,
-3. insats och aktivitet,
-4. aktualisering, orsak till insats, avslutsorsak, och
-5. annan uppgift av administrativ karaktär av betydelse för den
+2\. utredningsåtgärd och beslut,
+3\. insats och aktivitet,
+4\. aktualisering, orsak till insats, avslutsorsak, och
+5\. annan uppgift av administrativ karaktär av betydelse för den
 utredning, prövning eller insats inom socialtjänsten som en person
 får.
 Om  det är nödvändigt får det finnas uppgift om en
@@ -4334,10 +4334,10 @@ följer av föreskrifter som meddelats av Socialstyrelsen.
 Regioner tillfälle att yttra sig, meddela föreskrifter om hur
 uppgiftsskyldigheten i 6 § ska fullgöras.
 
-1. Denna förordning träder i kraft den 1 januari 2026.
-2. Bestämmelserna i 6 och 7 §§ tillämpas först den 1 januari 2027.
+1\. Denna förordning träder i kraft den 1 januari 2026.
+2\. Bestämmelserna i 6 och 7 §§ tillämpas först den 1 januari 2027.
 
-3. Den upphävda förordningen (1981:1370) om skyldighet för
+3\. Den upphävda förordningen (1981:1370) om skyldighet för
 socialnämnderna att lämna statistiska uppgifter och förordningen
 (2004:16) om utlämnande av uppgifter som avser stöd och service
 till vissa funktionshindrade gäller fortfarande till och med den
@@ -4380,10 +4380,10 @@ Ds 2024:13                               Författningsförslag
 
 Den officiella statistiken
 
------------------------------------------------------------------------------
+\-----------------------------------------------------------------------------
 
 SOCIALTJÄNST
------------------------------------------------------------------------------
+\-----------------------------------------------------------------------------
 Nuvarande lydelse     Föreslagen lydelse
 Behandling av   känsliga
 personuppgifter m.m.
@@ -4453,14 +4453,14 @@ Socialstyrelsen ansvarar för förvaltningsuppgifter i enlighet med vad
 som anges i lag och förordning.
 
 Myndigheten ska särskilt ansvara för
-1. prövning av sådana behörighetsfrågor som anges i 4 kap. 10 §
+1\. prövning av sådana behörighetsfrågor som anges i 4 kap. 10 §
 patientsäkerhetslagen (2010:659), inklusive prövning enligt 6 kap.
 1 § patientsäkerhetsförordningen (2010:1369),
-2. officiell statistik enligt förordningen (2001:100) om den
+2\. officiell statistik enligt förordningen (2001:100) om den
 officiella statistiken,
-3. hälsodataregister, och 3. hälsodataregister,
-4. socialtjänstdataregister, och
-4. att pröva frågor om 5. att pröva frågor om
+3\. hälsodataregister, och 3. hälsodataregister,
+4\. socialtjänstdataregister, och
+4\. att pröva frågor om 5. att pröva frågor om
 statsbidrag.          statsbidrag.
 
 Vidare är Socialstyrelsen tillsynsvägledande myndighet i enlighet
@@ -4705,12 +4705,12 @@ och dokumentation.
 I den föreslagna bestämmelsen anges att med socialtjänst avses i
 lagen
 
-1. verksamhet som bedrivs med stöd av socialtjänstlagen,
-2. verksamhet som bedrivs med stöd av lagen (1990:52) med
+1\. verksamhet som bedrivs med stöd av socialtjänstlagen,
+2\. verksamhet som bedrivs med stöd av lagen (1990:52) med
 särskilda bestämmelser om vård av unga eller lagen (1988:870)
 om vård av missbrukare i vissa fall, eller
 
-3. annan verksamhet som enligt lag eller förordning ska bedrivas av
+3\. annan verksamhet som enligt lag eller förordning ska bedrivas av
 socialnämnd eller Statens institutionsstyrelse.
 
 Som socialtjänst räknas dock inte sådan verksamhet som Statens
@@ -5600,7 +5600,7 @@ tillförlitlig data om behov hos brukare och klienter, insatser och
 resultat.44
 
 42 SOU 2023:62, Vi kan bättre! Kunskapsbaserad narkotikapolitik med liv och hälsa i fokus, s.
-781.
+781\.
 43 SOU 2023:66, För barn och unga i samhällets vård, s. 287.
 44 Socialstyrelsen (2023). Inbjudan att inkomma med synpunkter på regeringens forsknings- och
 innovationspolitik.
@@ -7471,7 +7471,7 @@ Inom hälso- och sjukvården finns även andra personregister som
 ytterligare bidrar till att peka ut ett hälsodataregisters särdrag. Dessa
 
 81 SOU 2012:83, Vad är officiell statistik? En översyn av statistiksystemet och SCB, s. 391 och
-416.
+416\.
 82 Prop. 1997/98:108, Hälsodata- och vårdregister, s. 40.
 
 99
@@ -8712,12 +8712,12 @@ hälsodataregister.
 
 Vårt förslag: Socialstyrelsen ska få behandla personuppgifter i ett
 socialtjänstdataregister om det är nödvändigt för att
-1. framställa statistik,
+1\. framställa statistik,
 
-2. framställa underlag för uppföljning och utvärdering,
-3. utföra epidemiologiska studier, och
+2\. framställa underlag för uppföljning och utvärdering,
+3\. utföra epidemiologiska studier, och
 
-4. bedriva forskning.
+4\. bedriva forskning.
 
 Skälen för vårt förslag
 
@@ -10345,12 +10345,12 @@ Innehållet i ett socialtjänstdataregister   Ds 2024:13
 Vårt förslag: Det ska i förordning förtydligas att personuppgifter
 
 som får behandlas i ett socialtjänstdataregister är uppgifter om
-1. personnummer eller samordningsnummer, kön, födelseår,
+1\. personnummer eller samordningsnummer, kön, födelseår,
 folkbokföringsort och födelseort,
-2. utredningsåtgärd och beslut,
-3. insats och aktivitet,
-4. aktualisering, orsak till insats, avslutsorsak, och
-5. uppgift av administrativ karaktär av betydelse för den
+2\. utredningsåtgärd och beslut,
+3\. insats och aktivitet,
+4\. aktualisering, orsak till insats, avslutsorsak, och
+5\. uppgift av administrativ karaktär av betydelse för den
 utredning, prövning eller insats inom socialtjänsten som en
 person får.
 Om det är nödvändigt ska det i registret också få finnas
@@ -12935,7 +12935,7 @@ nämligen inte att en uppgift lämnas till en annan myndighet, om
 uppgiftsskyldighet följer av lag eller förordning.205 I de fall där det
 
 204 SOU 2012:83, Vad är officiell statistik? En översyn av statistiksystemet och SCB, s. 391 och
-416.
+416\.
 205 Se 10 kap. 28 § OSL.
 
 221
@@ -16528,10 +16528,10 @@ definitionen av personuppgiftsansvarig finns.
 Ändamål
 9 § Personuppgifter får behandlas i ett socialtjänstdataregister om det är
 nödvändigt för att
-1. framställa statistik,
-2. framställa underlag för uppföljning och utvärdering,
-3. utföra epidemiologiska studier, och
-4. bedriva forskning.
+1\. framställa statistik,
+2\. framställa underlag för uppföljning och utvärdering,
+3\. utföra epidemiologiska studier, och
+4\. bedriva forskning.
 
 I paragrafen anges för vilka primära ändamål Socialstyrelsen får
 behandla personuppgifter i ett socialtjänstdataregister. Över-
@@ -16661,11 +16661,11 @@ Innehållet i ett socialtjänstdataregister
 13 § Endast personuppgifter som behövs för de ändamål som anges i 9 §
 får behandlas i ett socialtjänstdataregister.
 I ett socialtjänstdataregister får det finnas
-1. uppgift om en person som utreds för, har prövats för eller får en insats
+1\. uppgift om en person som utreds för, har prövats för eller får en insats
 inom socialtjänsten
-2. uppgift om den utredning, prövning eller insats inom socialtjänsten
+2\. uppgift om den utredning, prövning eller insats inom socialtjänsten
 som en person får, och
-3. annan uppgift av administrativ karaktär av betydelse för den
+3\. annan uppgift av administrativ karaktär av betydelse för den
 utredning, prövning eller insats inom socialtjänsten som en person får.
 Om det är nödvändigt får i ett socialtjänstdataregister också finnas
 uppgift om ställföreträdare för eller närstående till en person som utreds
@@ -16942,9 +16942,9 @@ detta följer av föreskrifter som har meddelats av Socialstyrelsen.
 
 Ikraftträdande- och övergångsbestämmelser
 
-1. Denna förordning träder i kraft den 1 januari 2026.
-2. Bestämmelsen i 17 § tillämpas först den 1 januari 2027.
-3. De upphävda bestämmelserna om uppgiftsskyldighet i 15 a § lagen
+1\. Denna förordning träder i kraft den 1 januari 2026.
+2\. Bestämmelsen i 17 § tillämpas först den 1 januari 2027.
+3\. De upphävda bestämmelserna om uppgiftsskyldighet i 15 a § lagen
 (1993:387) om stöd och service till vissa funktionshindrade och 12 kap. 5 §
 socialtjänstlagen (2001:453) gäller fortfarande till och med den
 31 december 2026.
@@ -17404,35 +17404,35 @@ Departementsserien    2024
 
 Kronologisk förteckning
 
-1. Ändrade regler om tillsyn m.m. över
+1\. Ändrade regler om tillsyn m.m. över
 Totalförsvarets forskningsinstitut. Fö.
-2. Avtal om försvarssamarbete med
+2\. Avtal om försvarssamarbete med
 Amerikas förenta stater. Fö.
-3. Partipolitiska lotterier. Fi.
-4. Ett digitalt utvecklingsstöd till vissa
+3\. Partipolitiska lotterier. Fi.
+4\. Ett digitalt utvecklingsstöd till vissa
 tidskrifter. Ku.
-5. Sociala grundvillkor i den
+5\. Sociala grundvillkor i den
 gemensamma jordbrukspolitiken. LI.
-6. Stärkt försvarsförmåga.
+6\. Stärkt försvarsförmåga.
 Sverige som allierad. Fö.
-7. Avskildhet vid dygnsvilan.
+7\. Avskildhet vid dygnsvilan.
 En delredovisning angående frågor om
 Statens institutionsstyrelses särskilda
 befogenheter. S.
-8. Förbättrat informationsutbyte
+8\. Förbättrat informationsutbyte
 mellan Arbetsförmedlingen
 och kommuner. A.
-9. Bättre förutsättningar för utsänd
+9\. Bättre förutsättningar för utsänd
 statlig personal. UD.
-10. Stärkt skydd för vissa förtroende­
+10\. Stärkt skydd för vissa förtroende­
 valda och en tydligare intern kontroll
 i kommuner och regioner. Fi.
-11. Förbättrade möjligheter för polisen att
+11\. Förbättrade möjligheter för polisen att
 använda kamerabevakning. Ju.
-12. Pensionärernas levadsstandard
+12\. Pensionärernas levadsstandard
 då och nu. En studie av pensionärernas
 levnads standard 2003–2024. S.
-13. Bättre förutsättningar för att utveckla
+13\. Bättre förutsättningar för att utveckla
 en kunskapsbaserad socialtjänst. S.
 
 <!-- sida 409 -->
@@ -17589,7 +17589,7 @@ God och Nära vård, Delårsrapport 2024
 Förslag till beslut
 Nämnden för Individ & Familjeomsorg godkänner delårsrapport för God och Nära Vård och Omsorg
 
-2024.
+2024\.
 
 Sammanfattning av ärendet
 
@@ -17678,12 +17678,12 @@ Frågor att besvara
 
 Vi som organisation gör vårt arbete hälsofrämjande…
 
--  När vi har ett folkhälsoperspektiv som når ut på bred front – även till individer som
+\-  När vi har ett folkhälsoperspektiv som når ut på bred front – även till individer som
 inte har direkta vård- och omsorgskontakter.
--  När vi inkluderar flera samhällsaktörer i det hälsofrämjande arbetet – även de som
+\-  När vi inkluderar flera samhällsaktörer i det hälsofrämjande arbetet – även de som
 traditionellt inte arbetar med vård och omsorg.
--  När vi erbjuder olika former av stöd för individer med uppmärksammade riskfaktorer.
--  När vi tillsätter resurser för det hälsofrämjande arbetet och skapar möjligheter för
+\-  När vi erbjuder olika former av stöd för individer med uppmärksammade riskfaktorer.
+\-  När vi tillsätter resurser för det hälsofrämjande arbetet och skapar möjligheter för
 rätt kompetens hos våra medarbetare.
 
 Det pågår flera stora omställningar och utvecklingsprocesser som syftar till att rusta offentlig
@@ -17832,14 +17832,14 @@ tillsammans
 ”Jag är delaktig och tar aktivt ansvar för min hälsa utifrån mina förutsättningar.”
 
 Vi som organisation gör vård och omsorg och det hälsofrämjande arbetet gemensamt…
--  När vi arbetar aktivt för att vård och omsorg och det hälsofrämjande arbetet i Halland ska
+\-  När vi arbetar aktivt för att vård och omsorg och det hälsofrämjande arbetet i Halland ska
 fungera och upplevas som en enda organisation.
--  När vi ser till att gränserna för huvudmannaskap och förvaltning inte utgör gränser för
+\-  När vi ser till att gränserna för huvudmannaskap och förvaltning inte utgör gränser för
 
 samverkan och kommunikation.
--  När vi skapar förutsättningar för en sömlös organisation och ger medarbetaren tillgång till
+\-  När vi skapar förutsättningar för en sömlös organisation och ger medarbetaren tillgång till
 plattformar/verktyg/forum för kommunikation över organisationsgränserna.
--  När vi skapar delaktighet med tydliga mål, handlingsplaner och kontinuerlig uppföljning kring
+\-  När vi skapar delaktighet med tydliga mål, handlingsplaner och kontinuerlig uppföljning kring
 vårt gemensamma arbete.
 
 Det pågår flera stora omställningar och utvecklingsprocesser som syftar till att rusta offentlig
@@ -17894,7 +17894,7 @@ En peer supporter är en person med egen erfarenhet av att ha återhämtat sig f
 ohälsa, som använder sig av denna erfarenhet i arbetet med brukaren. Syftet är att stötta
 brukarens återhämtningsresa genom att förmedla hopp, minska stigma och kunna relatera till
 brukaren på ett annat sätt än övrig personal. Införandet kommer att utvärderas under hösten
-2024.
+2024\.
 
 Under hösten planeras peer support skalas upp till att också implementeras på aktivitetshuset
 Regnbågen.
@@ -17965,16 +17965,16 @@ tillit.
 ”Jag har förtroende för organisationen och känner mig sedd och lyssnad på”.
 
 Vi som organisation gör vård och omsorg och det hälsofrämjande arbetet tryggt…
--  När arbetet baseras på vetenskap och beprövad erfarenhet.
--  När vi arbetar aktivt för att öka och bevara kompetens inom organisationen genom att förse
+\-  När arbetet baseras på vetenskap och beprövad erfarenhet.
+\-  När vi arbetar aktivt för att öka och bevara kompetens inom organisationen genom att förse
 
 alla medarbetare med kompetensutveckling, lärandemöjligheter och arbetsredskap efter
 senaste evidens.
--  När organisationen har en kultur som stödjer ett personcentrerat arbetssätt med hög
+\-  När organisationen har en kultur som stödjer ett personcentrerat arbetssätt med hög
 kontinuitet.
--  När vi har strukturer, stöd och överenskommelser där det för medarbetaren ”är lätt att göra
+\-  När vi har strukturer, stöd och överenskommelser där det för medarbetaren ”är lätt att göra
 rätt”.
--  När vi ständigt efterfrågar och utvärderar individens upplevelse av utfört arbete.
+\-  När vi ständigt efterfrågar och utvärderar individens upplevelse av utfört arbete.
 
 Både i det kommunövergripande programmet Framtidens hälsa, vård och omsorg samt IFs
 utvecklingsportfölj Framtidens socialtjänst är lätt att göra rätt och kunskapsbaserat centrala
@@ -18046,15 +18046,15 @@ Frågor att besvara
 mina aktiviteter ser ut.”
 
 Vi som organisation gör vård och omsorg och det hälsofrämjande arbetet enkelt…
--  När vi har ett gemensamt språk
+\-  När vi har ett gemensamt språk
 
--  När vi skapar förutsättningar för medarbetaren att ge sammanhållen vård, omsorg
+\-  När vi skapar förutsättningar för medarbetaren att ge sammanhållen vård, omsorg
 och arbete nära individen.
--  När vi ger individen enkel tillgång till dokumentation och planering av sin vård,
+\-  När vi ger individen enkel tillgång till dokumentation och planering av sin vård,
 omsorg och aktiviteter.
--  När vi skapar förutsättningar för gränsöverskidande kommunikation och samverkan
+\-  När vi skapar förutsättningar för gränsöverskidande kommunikation och samverkan
 mellan olika huvudmän.
--  När vi har tydliga och välkända processer där vi har kunskap om varandras uppdrag
+\-  När vi har tydliga och välkända processer där vi har kunskap om varandras uppdrag
 
 och det är tydligt vem som gör vad.
 

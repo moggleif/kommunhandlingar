@@ -2585,7 +2585,7 @@ Sverige 2) lämna förslag på hur människohandeln kan förebyggas
 
 och bekämpas. I detta avsnitt redovisas viss statistik över misstänkta
 människohandelsbrott från Polismyndighetens rapport för 2024–
-2025. Rapporterna avser uppgifter två år tillbaka.
+2025\. Rapporterna avser uppgifter två år tillbaka.
 Av lägesrapporten för 2024 framgår att det 2022 anmäldes fyra
 misstänkta människohandelsbrott i tiggeri för 2022. Det var en
 ökning jämfört med lägesrapporten 2023 (som avser 2021) då inga
@@ -2711,7 +2711,7 @@ ventionen om politiska och mänskliga rättigheter 1966, Konven-
 tionen om avskaffande av all slags diskriminering av kvinnor 1979,
 Konventionen om barnets rättigheter från 19891 samt Konventio-
 nen om rättigheter för personer med funktionsnedsättning från
-2006. I Palermoprotokollet som är FN:s protokoll om förebyg-
+2006\. I Palermoprotokollet som är FN:s protokoll om förebyg-
 gande, bekämpande och bestraffande av handel med människor
 finns åtaganden särskilt för kvinnor och barn. Palermoprotokollet
 utgör grunden för människohandelsdirektivet.2 Detta behandlas i
@@ -3359,7 +3359,7 @@ mening. För utredningens del är bestämmelserna i detta kapitel av
 störst intresse.
 Ordningslagen ersatte vid ikraftträdande 1994 den allmänna ord-
 ningsstadgan och lagen om allmänna sammankomster, båda från
-1956. Bakgrunden var att ordningsstadgan ansågs föråldrad och för
+1956\. Bakgrunden var att ordningsstadgan ansågs föråldrad och för
 detaljerad. De tidigare författningarna hade skapat tvång och var
 svåra att följa. Ordningslagen skulle vara enklare utformad och
 enklare att tillämpa.
@@ -4555,13 +4555,13 @@ derna, Ryssland, Ryssland, Nederländerna, Ryska federationen,
 Portugal, Ryssland, Nederländerna, Poland, Poland, Nederländerna
 Marino, Serbien, Slovakien, Slovenien, Spanien, Sverige, Turkiet,
 Ukraina och Storbritannien).
-20. Den visar att tiggeri inte är förbjudet i nio av de trettioåtta
+20\. Den visar att tiggeri inte är förbjudet i nio av de trettioåtta
 medlemsstaterna (Albanien, Andorra, Finland, Georgien, Grekland,
 Moldavien, Portugal, Slovakien och Ukraina).
-21. I de övriga tjugonio undersökta medlemsstaterna är tiggeri
+21\. I de övriga tjugonio undersökta medlemsstaterna är tiggeri
 förbjudet eller begränsat i mycket olika former och sätt, vare sig
 det är på nationell eller enbart lokal nivå.
-22. I arton av de undersökta medlemsstaterna är tiggeri förbju-
+22\. I arton av de undersökta medlemsstaterna är tiggeri förbju-
 det på nationell nivå (Azerbajdzjan, Cypern, Kroatien, Estland,
 Frankrike, Ungern, Irland, Italien, Liechtenstein, Luxemburg,
 Montenegro, Polen, Rumänien, San Marino, Serbien, Slovenien,
@@ -4586,13 +4586,13 @@ Ungern, Montenegro, Turkiet och Storbritannien [England och
 Wales]) verkar mindre nyanserade förbud, som gäller mer generellt
 
 för tiggeri, vara på plats.
-23. I elva av de undersökta medlemsstaterna är tiggeri endast
+23\. I elva av de undersökta medlemsstaterna är tiggeri endast
 förbjudet på lokal nivå (Österrike, Belgien, Bosnien-Hercegovina,
 Tjeckien, Tyskland, Lettland, Litauen, Nederländerna, Ryska fede-
 rationen, Spanien och Sverige). Det finns också betydande skillna-
 der i dessa staters lagstiftning när det gäller förbudets art och om-
 fattning.
-24. När det gäller de påföljder som gäller i Europarådets med-
+24\. När det gäller de påföljder som gäller i Europarådets med-
 lemsstater vid överträdelse av tiggeriförbudet på nationell eller
 lokal nivå, varierar deras art och svårighetsgrad avsevärt. När det
 gäller sanktionernas karaktär karakteriseras tiggeri i de flesta av de
@@ -4605,7 +4605,7 @@ italienska strafflagen). I de stater där förbudet föreskrivs på lokal
 nivå, antas det vanligtvis genom en kommunal stadga eller genom
 dekret och dess överträdelse medför därför en administrativ påföljd
 (till exempel i Ryska federationen, i Tjeckien eller i Sverige).
-25. När det gäller hur allvarliga de sanktioner som tillämpas i
+25\. När det gäller hur allvarliga de sanktioner som tillämpas i
 medlemsstaterna varierar beroende på olika faktorer och är ibland
 kombinerade. De får inte resultera i något annat än en varning
 och/eller böter av varierande belopp (till exempel i Belgien, Tjeckien,
@@ -4619,7 +4619,7 @@ former föreskrivas. Påföljden kan till exempel bestå i samhälls-
 arbete (till exempel i Ungern), konfiskering av mottagna allmosor
 (till exempel i Turkiet) eller en inskränkning av friheten (till exem-
 pel i Polen).
-26. När det gäller statistiken om hur ofta tiggeriförseelser åtalas
+26\. När det gäller statistiken om hur ofta tiggeriförseelser åtalas
 varierar praxis avsevärt mellan Europarådets medlemsstater.”86
 
 86 The European Court of Human Rights as referred in the judgment Lacatus v. Switzerland
@@ -4847,7 +4847,7 @@ Det är inte att anses som ett generellt förbud. Anledningen är att
 det finns ett varningssystem som innebär att polisen ska informera
 
 92 Förslag till ändring av strafflagen (LFF2017-06-02 nr 215) Anmärkningar till lagförslaget.
-1. Inledning, och möte med straffrättsenheten 25-04-28.
+1\. Inledning, och möte med straffrättsenheten 25-04-28.
 93 Se not 91 ovan.
 
 107
@@ -5175,7 +5175,7 @@ infört en reglering i form av förbud mot tiggeri i de lokala ordnings-
 föreskrifterna. Föreskrifterna redovisas med de lydelser som respek-
 tive kommun har valt.
 
-1. Staffanstorps kommun
+1\. Staffanstorps kommun
 
 Insamling av pengar 13 §.
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -5185,9 +5185,9 @@ samband med framförande av gatumusik krävs inte tillstånd. Passiv
 insamling av pengar (tiggeri) får ej ske på områden som framgår av
 bilaga A.
 
-2. Vellinge kommun
+2\. Vellinge kommun
 
-11. Insamling av pengar
+11\. Insamling av pengar
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
 eller liknande på offentlig plats, om insamlingen inte utgör led i
 tillståndspliktig allmän sammankomst eller offentlig tillställning.
@@ -5204,9 +5204,9 @@ s om framgår av Bilaga D.
 
 Ett kommunalt förbud mot tiggeri           SOU 2025:83
 
-3. Sölvesborgs kommun
+3\. Sölvesborgs kommun
 
-11. Insamling av pengar
+11\. Insamling av pengar
 11.1 Polismyndighetens tillstånd krävs för insamling av pengar i
 bössor eller liknande på offentlig plats, om insamlingen inte utgör
 led i tillståndspliktig allmän sammankomst eller offentlig tillställ-
@@ -5215,13 +5215,13 @@ ning.
 enligt 1 kap 2 § Ordningslagen utgör offentlig plats eller kan jäm-
 ställas med offentlig plats, kartbilagor 5–7.
 
-4. Bromölla kommun
+4\. Bromölla kommun
 
 Tiggeri § 14
 Passiv insamling av pengar (tiggeri) får inte ske inom områden som
 framgår av bifogade kartbilagorna 2–5.
 
-5. Skurups kommun
+5\. Skurups kommun
 
 Insamling av pengar 12 §
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -5229,13 +5229,13 @@ eller liknande, om insamling inte utgör ett led i en tillståndspliktig
 allmän sammankomst eller offentlig tillställning. Passiv insamling
 av pengar (tiggeri) får ej ske inom område som omfattas av bilaga 1.
 
-6. Kungsbacka kommun
+6\. Kungsbacka kommun
 
 14 b §
 Passiv insamling av pengar (tiggeri) får ej ske på område som fram-
 går av bilaga 5.
 
-7. Katrineholms kommun
+7\. Katrineholms kommun
 
 Insamling av pengar § 12
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -5254,7 +5254,7 @@ krävs inte tillstånd.
 Passiv insamling av pengar (tiggeri) får ej ske på område som fram-
 går av bilaga 4 och 5.
 
-8. Danderyds kommun
+8\. Danderyds kommun
 12 § Insamling av pengar
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
 eller liknande, om insamlingen inte utgör led i en tillståndspliktig
@@ -5268,7 +5268,7 @@ går av bilaga A.
 Aktiv insamling av pengar, återvinningsavfall och flaskor/burkar
 med pant (tiggeri) får ej ske på områden som framgår av bilaga B.
 
-9. Ekerö kommun
+9\. Ekerö kommun
 Insamling av pengar 13 §
 
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -5287,7 +5287,7 @@ k ommun och Återvinningsstati oner Ekerö kommun.
 
 Ett kommunalt förbud mot tiggeri           SOU 2025:83
 
-10. Höganäs kommun
+10\. Höganäs kommun
 
 Insamling av pengar 18 §
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -5297,7 +5297,7 @@ När insamlingen skall ske i samband med framförande av gatu-
 musik krävs inte tillstånd. Passiv insamling av pengar (tiggeri) får
 inte ske på offentlig plats utan polismyndighetens tillstånd.
 
-11. Sotenäs kommun
+11\. Sotenäs kommun
 
 Insamling av pengar 12 §
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -5307,7 +5307,7 @@ skall ske i samband med framförande av gatumusik krävs inte till-
 stånd. Passiv insamling av pengar (tiggeri) får ej ske på de områden
 som framgår av bilagda kartbilagor.
 
-12. Lidingö stad
+12\. Lidingö stad
 
 Insamling av pengar § 13
 Polismyndighetens tillstånd krävs för insamling av pengar på offentlig
@@ -5319,7 +5319,7 @@ publiken och samla in pengar.
 Passiv insamling av pengar (tiggeri) får ej ske på de områden som
 framgår av bilagda kartor A–J.
 
-13. Trelleborgs kommun
+13\. Trelleborgs kommun
 
 Insamling av pengar § 12
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -5337,7 +5337,7 @@ stånd. Passiv insamling av pengar (tiggeri) är förbjudet på offentlig
 
 plats inom det område som framgår av bilagd karta.
 
-14. Täby kommun
+14\. Täby kommun
 § 13
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
 eller liknande, om insamlingen inte utgör ett led i en tillståndsplik-
@@ -5353,7 +5353,7 @@ material, returglas, returburkar, PET-flaskor och/eller kläder, samt
 – att opåkallat erbjuda sig att avhända sig andras återvinningsmate-
 rial, returglas, returburkar, PET-flaskor och/eller kläder.
 
-15. Örkelljunga kommun
+15\. Örkelljunga kommun
 
 Insamling av pengar 8 §
 Polismyndighetens tillstånd krävs för insamling av pengar i bössor
@@ -5364,7 +5364,7 @@ stånd.
 Passiv insamling av pengar (tiggeri) får ej ske inom de områden
 som framgår av bilaga A.
 
-16. Nynäshamns kommun
+16\. Nynäshamns kommun
 Insamling av pengar
 11 a§
 Insamling av pengar i bössor eller liknande anordning får inte ske
@@ -5721,12 +5721,12 @@ sådan. På regional nivå ingår tiggeri som företeelse hos varje läns-
 
 1 Kallas ibland även primär uppehållsrätt.
 2 En EES-medborgare har uppehållsrätt om han eller hon
-1. är arbetstagare eller egen företagare i Sverige,
-2. har kommit till Sverige för att söka arbete och har en verklig möjlighet att få en anställning,
-3. är inskriven som studerande vid en erkänd utbildningsanstalt i Sverige och enligt en för-
+1\. är arbetstagare eller egen företagare i Sverige,
+2\. har kommit till Sverige för att söka arbete och har en verklig möjlighet att få en anställning,
+3\. är inskriven som studerande vid en erkänd utbildningsanstalt i Sverige och enligt en för-
 säkran om detta har tillräckliga tillgångar för sin och sina familjemedlemmars försörjning samt
 har en heltäckande sjukförsäkring för sig och familjemedlemmarna som gäller i Sverige, eller
-4. har tillräckliga tillgångar för sin och sina familjemedlemmars försörjning och har en hel-
+4\. har tillräckliga tillgångar för sin och sina familjemedlemmars försörjning och har en hel-
 täckande sjukförsäkring för sig och familjemedlemmarna som gäller i Sverige. Lag (2006:219).
 3 Ju 2025:01, Registrering av EES-medborgare.
 128
@@ -7648,7 +7648,7 @@ Vänlig hälsning, Jonas Melinder
 
 Bilaga 3                                   SOU 2025:83
 
-1. Välj ditt län *
+1\. Välj ditt län \*
 Stockholms län
 Uppsala län
 Södermanlands län
@@ -7674,7 +7674,7 @@ Jämtlands län
 Västerbottens län
 Norrbottens län
 
-2. Välj din kommun *
+2\. Välj din kommun \*
 
 Upplands Väsby
 Vallentuna
@@ -8056,7 +8056,7 @@ Boden
 Haparanda
 Kiruna
 
-3. Vilken aktör är du?
+3\. Vilken aktör är du?
 
 Kommun
 Civilsamhället
@@ -8069,24 +8069,24 @@ Annan:
 
 SOU 2025:83                                   Bilaga 3
 
-4. Kontaktuppgifter
+4\. Kontaktuppgifter
 Förnamn
 Efternamn
 
 E-post
 
-5. När infördes förbudet?
+5\. När infördes förbudet?
 
 dd.mm.åååå
 
-6. Vilken typ av plats/område omfattas av förbudet?
+6\. Vilken typ av plats/område omfattas av förbudet?
 
-7. Har kommunen särskilda insatser för EU/EES-medborgare som tigger?
+7\. Har kommunen särskilda insatser för EU/EES-medborgare som tigger?
 Ja (beskriv kortfattat)
 
 Nej
 
-8. Hur har antalet EU/EES-medborgare som tigger förändrats sedan 2021?
+8\. Hur har antalet EU/EES-medborgare som tigger förändrats sedan 2021?
 Minskat kraftigt
 
 Minskat något
@@ -8095,7 +8095,7 @@ Oförändrat
 Ökat kraftigt
 Vet ej
 
-9. Vilka bakomliggande ordningsstörningar eller annan problematik angavs som grund för införandet av
+9\. Vilka bakomliggande ordningsstörningar eller annan problematik angavs som grund för införandet av
 förbudet?
 
 185
@@ -8104,10 +8104,10 @@ förbudet?
 
 Bilaga 3                                   SOU 2025:83
 
-10. På vilket sätt följer kommunen upp eventuella förändringar av ordningsstörningar inom det anvisade
+10\. På vilket sätt följer kommunen upp eventuella förändringar av ordningsstörningar inom det anvisade
 området?
 
-11. Hur väl fungerar efterlevnaden av förbudet?
+11\. Hur väl fungerar efterlevnaden av förbudet?
 Mycket bra
 Ganska bra
 Varken bra eller dåligt
@@ -8115,7 +8115,7 @@ Ganska dåligt
 Mycket dåligt
 Vet ej
 
-12. Vilka eventuella utmaningar har ni stött på vid implementering av förbudet? (Flera val möjliga)
+12\. Vilka eventuella utmaningar har ni stött på vid implementering av förbudet? (Flera val möjliga)
 Svårigheter med tillsyn
 Oklarheter kring regelverket
 Resursbrist
@@ -8123,7 +8123,7 @@ Språkbarriärer
 Annat (specificera)
 Vet ej
 
-13. Har förbudet påverkat:
+13\. Har förbudet påverkat:
 Ja, minskat Ja, ökat Ingen märkbar förändring Vet ej
 Ordningsstörningar inom det anvisade
 området
@@ -8131,7 +8131,7 @@ Belastning på socialtjänsten
 Belastning på annan kommunal
 verksamhet
 
-15. Möjlighet att lägga till kompletterande information:
+15\. Möjlighet att lägga till kompletterande information:
 
 186
 
@@ -8151,7 +8151,7 @@ förordningen (1993:1632) med bemyndigande för kommuner och
 länsstyrelser att meddela lokala föreskrifter enligt ordningslagen
 (1993:1617).
 
-1. Föreskrifternas innehåll och tillämpningsområde
+1\. Föreskrifternas innehåll och tillämpningsområde
 
 1.1 Grundläggande bestämmelser om allmän ordning och säkerhet
 på offentlig plats finns i 3 kap. ordningslagen (1993:1617). Dessa
@@ -8185,7 +8185,7 @@ då de är tillgängliga för allmänheten. Vidare ska de badplatser
 som angivits på kartbilaga 3 jämställas med offentlig plats.
 1.5 Innan Polismyndigheten fattar beslut om tillstånd enligt p 4.1,
 8.1, 9.1 och 14.1 bör kommunen ges tillfälle yttra sig.
-2. Lastning av varor m.m.
+2\. Lastning av varor m.m.
 2.1 Vid lastning, forsling, lossning och annan hantering av gods eller
 varor ska den som är ansvarig för åtgärden göra vad som
 behövs för att tillse undvika att allmänheten utsätts för minsta
@@ -8197,7 +8197,7 @@ utrymningsvägar blockeras eller så att räddningstjänstens arbete
 hindras. För undantag krävs polismyndighetens tillstånd.
 2.2 Vad som anges ovan gäller även för parkeringar vid kommunens
 stränder.
-3. Schaktning, grävning m.m.
+3\. Schaktning, grävning m.m.
 3.1 Den som är ansvarig för schaktning, grävning, tippning eller
 annat liknande arbete ska se till att det sker så att allmänheten
 utsätts för minsta möjliga olägenhet. Bestämmelsen gäller med
@@ -8215,16 +8215,16 @@ SOU 2025:83                                   Bilaga 4
 
 Sid 3 (18)
 
-4. Störande buller
+4\. Störande buller
 4.1 Arbete som orsakar buller och stör den allmänna ordningen får
 inte utföras mellan kl 21.00 och 06.00 utan Polismyndighetens
 tillstånd.
-5. Förtäring av alkohol
+5\. Förtäring av alkohol
 5.1 Spritdrycker, vin och starköl får inte förtäras på offentlig plats
 inom områden enligt kartbilaga 4.
 Vad som nu sagts gäller inte i fråga om tillåten uteservering.
 
-6. Container
+6\. Container
 6.1 Ägare eller nyttjanderättshavare till en container, som ska ställas
 upp på offentlig plats, är skyldig att söka tillstånd hos polisen för
 sådan uppställning.
@@ -8233,7 +8233,7 @@ nyttjanderättshavarens namn, adress och telefonnummer.
 
 6.3 När container placeras på gång- eller körbana ska den under
 mörker vara försedd med reflexer.
-7. Markis, flagga, skylt m.m.
+7\. Markis, flagga, skylt m.m.
 7.1 Markis, flagga eller skylt får inte sättas upp så att den skjuter ut
 över en gångbana på lägre höjd än 2,20 meter eller över
 körbana på lägre höjd än 4,60 meter. Motsvarande gäller för
@@ -8241,7 +8241,7 @@ utskjutande vegetation.
 7.2 På offentlig plats får endast av kommunen tillåtna fasta
 reklamskyltar sättas upp.
 
-8. Affischering och reklam
+8\. Affischering och reklam
 8.1 Affisch, annons, klistermärken eller liknande anslag får inte utan
 tillstånd av Polismyndigheten sättas upp på husväggar, staket,
 stolpar, elskåp, trädstammar, plank eller liknande som vetter mot
@@ -8262,15 +8262,15 @@ upp annonser och andra tillkännagivanden som avser
 näringsidkarens rörelse på den byggnad där rörelsen finns.
 8.3 Gatupratare på offentlig plats kräver tillstånd av
 Polismyndigheten.
-9. Högtalarutsändning eller liknande
+9\. Högtalarutsändning eller liknande
 9.1 Information, reklam, propaganda eller annat budskap som riktar
 sig till personer på offentlig plats, får inte ske genom högtalare
 eller liknande utan tillstånd av Polismyndigheten.
 
-10. Tillfällig försäljning
+10\. Tillfällig försäljning
 10.1 Tillfällig försäljning får inte äga rum på offentlig plats upplåten
 till allmän parkeringsplats utan tillstånd från Polismyndigheten.
-11. Insamling av pengar
+11\. Insamling av pengar
 11.1 Polismyndighetens tillstånd krävs för insamling av pengar i
 bössor eller liknande på offentlig plats, om insamlingen inte
 utgör led i tillståndspliktig allmän sammankomst eller offentlig
@@ -8278,12 +8278,12 @@ tillställning.
 11.2 Passiv insamling av pengar (tiggeri) får ej ske på områden som
 enligt 1 kap 2 § Ordningslagen utgör offentlig plats eller kan
 jämställas med offentlig plats, kartbilagor 5-7.
-12. Camping
+12\. Camping
 
 12.1 Camping är, inom offentliga platser eller platser som enligt 3
 kap ordningslagen jämställs med offentlig plats, endast tillåten
 på för ändamålet särskilt anordnade områden.
-13. Hundar och hästar
+13\. Hundar och hästar
 
 190
 
@@ -8321,7 +8321,7 @@ hundar, hästar eller andra sällskapsdjur plockas upp.
 april och 31 augusti. Övrig tid avgör markägarna i vilken
 omfattning ridning får ske. Finns det badgäster på stränderna
 har dessa företräde.
-14. Fyrverkeri och andra pyrotekniska varor
+14\. Fyrverkeri och andra pyrotekniska varor
 14.1 För användning av pyrotekniska varor krävs tillstånd av
 Polismyndigheten och kommunen. Föreskriften gäller även
 
@@ -8337,7 +8337,7 @@ nyårsafton.
 14.2 Det är förbjudet att använda fyrverkeri och andra pyrotekniska
 varor närmare än 100 meter från kommunala omsorgsboenden,
 förskolor, skolor och fritidshem.
-15. Adressnummerskyltar
+15\. Adressnummerskyltar
 15.1 Varje fastighet som tilldelats adressnummer ska vara försedd
 med särskild adressnummerskylt.
 
@@ -8350,16 +8350,16 @@ adressnummerskylt,
  att hålla den ren och i sådant skick att den lätt kan läsas.
 15.3 Fastighetsägare är skyldig att utan ersättning upplåta plats för
 gatunamnsskylt och vägmärke på byggnad eller hägnad.
-16. Avgift för att använda offentlig plats
+16\. Avgift för att använda offentlig plats
 16.1 För användning av offentlig plats och för områden som
 jämställts med sådan plats har kommunen rätt att ta ut en avgift
 enligt de grunder som har beslutats av kommunfullmäktige.
-17. Överträdelse av lokal ordningsföreskrift
+17\. Överträdelse av lokal ordningsföreskrift
 17.1 Den som uppsåtligen eller av oaktsamhet bryter mot någon av p
 2 – p 7, p 8.1, p 9 – p 11 och p 13.3 – p 14.3 kan dömas till
 penningböter enligt 3 kap. 22 § andra stycket ordningslagen.
 
-_____
+\_____
 
 I ordningslagen finns bestämmelser om föreläggande och
 förverkande.
@@ -8522,130 +8522,130 @@ Statens offentliga utredningar  2025
 
 Kronologisk förteckning
 
-1. Skärpta krav för svenskt medborgar- 20. Kommunal anslutning till Utbetal-
+1\. Skärpta krav för svenskt medborgar- 20. Kommunal anslutning till Utbetal-
 skap. Ju.              ningsmyndighetens verksamhet. Fi.
-2. Några frågor om grundläggande 21. Miljömålsberedningens förslag om en
+2\. Några frågor om grundläggande 21. Miljömålsberedningens förslag om en
 fri- och rättigheter. Ju. strategi för hur Sverige ska leva upp
-3. Skatteincitament för forskning till EU:s åtaganden inom biologisk
+3\. Skatteincitament för forskning till EU:s åtaganden inom biologisk
 och utveckling. En översyn av mångfald respektive nettoupptag av
 FoU-avdraget och expertskatte- växthusgaser från markanvändnings-
 reglerna. Fi.          sektorn (LULUCF). KN.
-4. Moderna och enklare skatteregler 22. Förbättrad konkurrens i offentlig och
+4\. Moderna och enklare skatteregler 22. Förbättrad konkurrens i offentlig och
 för arbetslivet. Fi.   privat verksamhet. KN.
-5. Avgift för områdessamverkan 23. Ersättningsregler med brottsoffret
+5\. Avgift för områdessamverkan 23. Ersättningsregler med brottsoffret
 – och andra åtgärder för trygghet i fokus. Ju.
 i byggd miljö. LI.   24. Publiken i fokus
-6. Plikten kallar! En modern personal- – reformer för ett starkare filmland. Ku.
+6\. Plikten kallar! En modern personal- – reformer för ett starkare filmland. Ku.
 försörjning av det civila försvaret. Fö. 25. Arbetslivskriminalitet – upplägg,
-7. Ny kärnkraft i Sverige – effektivare verktyg och åtgärder, fortsatt arbete. A.
+7\. Ny kärnkraft i Sverige – effektivare verktyg och åtgärder, fortsatt arbete. A.
 tillståndsprövning och ändamålsenliga 26. Tid för undervisningsuppdraget –
 avgifter. KN.          åtgärder för god undervisning och
-8. Bättre förutsättningar för trygghet läraryrkenas attraktivitet. U.
+8\. Bättre förutsättningar för trygghet läraryrkenas attraktivitet. U.
 och studiero i skolan. U. 27. En socionomutbildning i tiden. U.
-9. På språklig grund. U. 28. Frihet från våld, förtryck och utnytt-
-10. En förändrad abortlag – för en god, jande. En jämställdhetspolitisk strategi
+9\. På språklig grund. U. 28. Frihet från våld, förtryck och utnytt-
+10\. En förändrad abortlag – för en god, jande. En jämställdhetspolitisk strategi
 säker och tillgänglig abortvård. S. mot våld och en stärkt styrning av
 centrala myndigheter. A.
-11. Straffbarhetsåldern. Ju.
-29. Ökad kvalitet hos Samhall
-12. AI-kommissionens
+11\. Straffbarhetsåldern. Ju.
+29\. Ökad kvalitet hos Samhall
+12\. AI-kommissionens
 och fler vägar till skyddat arbete. A.
 Färdplan för Sverige. Fi.
-30. Enklare mervärdesskatteregler vid
-13. En effektivare organisering av mindre
+30\. Enklare mervärdesskatteregler vid
+13\. En effektivare organisering av mindre
 försäljning av begagnade varor och
 myndigheter – analys och förslag. Fi.
 donation av livsmedel. Fi.
-14. En skärpt miljöstraffrätt och
-31. Utmönstring av permanent uppehålls-
+14\. En skärpt miljöstraffrätt och
+31\. Utmönstring av permanent uppehålls-
 ett effektivt sanktionssystem. KN.
 tillstånd och vissa anpassningar till
-15. Stärkta drivkrafter och möjligheter för miniminivån enligt EU:s migrations-
+15\. Stärkta drivkrafter och möjligheter för miniminivån enligt EU:s migrations-
 biståndsmottagare. Volym 1 och 2. S. och asylpakt. Ju.
-16. Ett nytt regelverk för uppsikt och 32. Vissa förändringar av jaktlagstiftningen.
+16\. Ett nytt regelverk för uppsikt och 32. Vissa förändringar av jaktlagstiftningen.
 förvar. Ju.            LI.
-17. Anpassning av svensk rätt till EU:s 33. Skärpta och tydligare krav på vandel
+17\. Anpassning av svensk rätt till EU:s 33. Skärpta och tydligare krav på vandel
 avskogningsförordning. LI. för uppehållstillstånd. Ju.
-18. Ett likvärdigt betygssystem. 34. Ett modernare konsumentskydd vid
+18\. Ett likvärdigt betygssystem. 34. Ett modernare konsumentskydd vid
 Volym 1 och 2. U.      distansavtal. Ju.
-19. Kunskap för alla – nya läroplaner med 35. Etableringsboendelagen
+19\. Kunskap för alla – nya läroplaner med 35. Etableringsboendelagen
 fokus på undervisning och lärande. U. – ett nytt system för bosättning
 för vissa nyanlända. A.
 
 <!-- sida 213 -->
 
-36. Skydd för biologisk mångfald i havs- 61. Sveriges internationella adoptionsverk-
+36\. Skydd för biologisk mångfald i havs- 61. Sveriges internationella adoptionsverk-
 områden utanför nationell jurisdiktion. samhet − lärdomar och vägen framåt.
 UD.                   Volym 1 och 2. S.
-37. Skärpta villkor för friskolesektorn. U. 62. Ansvaret för hälso- och sjukvården.
-38. Att omhänderta barn och unga. S. Volym 1 Bedömningar och förslag.
+37\. Skärpta villkor för friskolesektorn. U. 62. Ansvaret för hälso- och sjukvården.
+38\. Att omhänderta barn och unga. S. Volym 1 Bedömningar och förslag.
 Volym 2 Underlagsrapporter. S.
-39. Digital teknik på lika villkor.
+39\. Digital teknik på lika villkor.
 En reglering för socialtjänsten och 63. Stärkt patientsäkerhet genom rätt
 verksamhet enligt LSS. S. kompetens − utifrån hälso- och
 sjukvårdens och tandvårdens behov. S.
-40. Säkrare tivoli. Ju.
-64. En ny kontrollorganisation i livs-
-41. Pensionsnivåer och pensionsavgiften
+40\. Säkrare tivoli. Ju.
+64\. En ny kontrollorganisation i livs-
+41\. Pensionsnivåer och pensionsavgiften
 medelskedjan – för ökad effektivitet,
 – analyser på hundra års sikt. S.
 likvärdighet och konkurrenskraft. LI.
-42. Säkerhetsskyddslagen – ytterligare
-65. En mer flexibel hyresmarknad. Ju.
+42\. Säkerhetsskyddslagen – ytterligare
+65\. En mer flexibel hyresmarknad. Ju.
 kompletteringar. Ju.
-66. En straffreform. Volym 1, 2, 3 och 4. Ju.
-43. Säkerställ tillgången till läkemedel
+66\. En straffreform. Volym 1, 2, 3 och 4. Ju.
+43\. Säkerställ tillgången till läkemedel
 – förordnande och utlämnande 67. Arlanda – en viktig port för det svenska
 i bristsituationer. S. välståndet. Åtgärder som stärker
 konkurrenskraften för Arlanda
-44. Förbättrat stöd i skolan. U.
+44\. Förbättrat stöd i skolan. U.
 flygplats. LI.
-45. Ökat informationsutbyte mellan
-68. Nya samverkansformer, modern bygg-
+45\. Ökat informationsutbyte mellan
+68\. Nya samverkansformer, modern bygg-
 myndigheter – några anslutande
 nads- och reparationsberedskap – för
 frågor. Ju.
 ökad försörjningsberedskap. KN.
-46. Tryggare idrottsarrangemang. Ju.
-69. Effektivare samverkan för djur- och
-47. Spänning i tillvaron – hur säkrar vi vår folkhälsa. LI.
+46\. Tryggare idrottsarrangemang. Ju.
+69\. Effektivare samverkan för djur- och
+47\. Spänning i tillvaron – hur säkrar vi vår folkhälsa. LI.
 framtida elförsörjning? KN.
-70. Längre liv, längre arbetsliv – förlängd
-48. Stärkt pandemiberedskap. S. rätt att kvarstå i anställningen. A.
-49. Säkerhetspolisens behandling 71. Fortsatt utveckling av en nationell
+70\. Längre liv, längre arbetsliv – förlängd
+48\. Stärkt pandemiberedskap. S. rätt att kvarstå i anställningen. A.
+49\. Säkerhetspolisens behandling 71. Fortsatt utveckling av en nationell
 av personuppgifter. Ju. läkemedelslista – en del i en ny nationell
-50. En ny nationell myndighet för infrastruktur för datadelning.
+50\. En ny nationell myndighet för infrastruktur för datadelning.
 viltförvaltning. LI.  Del 1 och 2. S.
-51. Bättre förutsättningar för 72. Verktyg för en mer likvärdig
+51\. Bättre förutsättningar för 72. Verktyg för en mer likvärdig
 klimatanpassning. KN. resursfördelning till skolan. U.
-52. Ökad insyn i politiska processer. Ju. 73. En arbetsmiljöstrategi för ett förändrat
-53. Kvalificering till socialförsäkring arbetsliv. A.
+52\. Ökad insyn i politiska processer. Ju. 73. En arbetsmiljöstrategi för ett förändrat
+53\. Kvalificering till socialförsäkring arbetsliv. A.
 och ekonomiskt bistånd 74. Ny reglering för den arbetsmarknads-
 för vissa grupper. S. politiska verksamheten. A.
-54. Ett skärpt regelverk om utvisning 75. Folkbokföringsverksamhet, biometri
+54\. Ett skärpt regelverk om utvisning 75. Folkbokföringsverksamhet, biometri
 på grund av brott. Ju. och brottsbekämpning. Fi.
-55. En reformerad samhällsorientering 76. Det handlar om oss
+55\. En reformerad samhällsorientering 76. Det handlar om oss
 för bättre integration. A. – så bryter vi utanförskapet
-56. Stärkt skydd för domstolarnas och bygger en starkare gemenskap. A.
+56\. Stärkt skydd för domstolarnas och bygger en starkare gemenskap. A.
 och domarnas oberoende. Ju. 77. En översyn av den statliga löne-
-57. Polisiär beredskap i fred, kris och krig. garantin. A.
+57\. Polisiär beredskap i fred, kris och krig. garantin. A.
 Ju.                  78. En reformerad underrättelse-
-58. En stärkt hästnäring – för företagande, verksamhet. Fö.
+58\. En stärkt hästnäring – för företagande, verksamhet. Fö.
 jämställdhet, jämlikhet och folkhälsa. 79. Samlade förmågor för ökad
 LI.                   cybersäkerhet. Fö.
-59. Stärkt lagstiftning mot hedersrelaterat 80. Koordinatbestämda fastighetsgränser.
+59\. Stärkt lagstiftning mot hedersrelaterat 80. Koordinatbestämda fastighetsgränser.
 våld och förtryck. Ju. Ju.
-60. En starkare fondmarknad. Fi. 81. En ny organisation av ekobrotts-
+60\. En starkare fondmarknad. Fi. 81. En ny organisation av ekobrotts-
 bekämpningen. Ju.
 
 <!-- sida 214 -->
 
-82. Sysselsättning och boende på lands-
+82\. Sysselsättning och boende på lands-
 bygden – Juridiska personers förvärv
 av jordbruksmark och en effektiv
 tillämpning av glesbygdsbestämmel-
 serna. LI.
-83. Ett nationellt förbud mot tiggeri. Ju.
+83\. Ett nationellt förbud mot tiggeri. Ju.
 
 <!-- sida 215 -->
 
@@ -8836,38 +8836,38 @@ Remittering av betänkandet Ett nationellt förbud mot tiggeri
 
 Remissinstanser
 
-1. Amnesty international
-2. Barnombudsmannen
+1\. Amnesty international
+2\. Barnombudsmannen
 
-3. Brottsförebyggande rådet
-4. Bräcke kommun
+3\. Brottsförebyggande rådet
+4\. Bräcke kommun
 
-5. Centrum för rättvisa
+5\. Centrum för rättvisa
 
-6. Civil Rights Defenders
-7. Diskrimineringsombudsmannen
+6\. Civil Rights Defenders
+7\. Diskrimineringsombudsmannen
 
-8. Domstolsverket
+8\. Domstolsverket
 
-9. Dorotea kommun
-10. Falkenbergs kommun
+9\. Dorotea kommun
+10\. Falkenbergs kommun
 
-11. Fastighetsägarna
-12. Folkhälsomyndigheten
+11\. Fastighetsägarna
+12\. Folkhälsomyndigheten
 
-13. Frälsningsarmén
+13\. Frälsningsarmén
 
-14. Funktionsrätt Sverige
-15. Gävle kommun
+14\. Funktionsrätt Sverige
+15\. Gävle kommun
 
-16. Göta hovrätt
+16\. Göta hovrätt
 
-17. Hofors kommun
-18. Härjedalens kommun
+17\. Hofors kommun
+18\. Härjedalens kommun
 
-19. Höganäs kommun
+19\. Höganäs kommun
 
-20. Institutet för mänskliga rättigheter
+20\. Institutet för mänskliga rättigheter
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Herkulesgatan 17
@@ -8875,118 +8875,118 @@ Webb: www.regeringen.se     E-post: ju.registrator@regeringskansliet.se
 
 <!-- sida 219 -->
 
-21. Integritetsskyddsmyndigheten
+21\. Integritetsskyddsmyndigheten
 
-22. Justitiekanslern
-23. Jämställdhetsmyndigheten
+22\. Justitiekanslern
+23\. Jämställdhetsmyndigheten
 
-24. Kalix kommun
-25. Kalmar kommun
+24\. Kalix kommun
+25\. Kalmar kommun
 
-26. Katrineholms kommun
+26\. Katrineholms kommun
 
-27. Kristianstads tingsrätt
-28. Kristinehamns kommun
+27\. Kristianstads tingsrätt
+28\. Kristinehamns kommun
 
-29. Kronofogdemyndigheten
+29\. Kronofogdemyndigheten
 
-30. Kungsbacka kommun
-31. Luleå kommun
+30\. Kungsbacka kommun
+31\. Luleå kommun
 
-32. Lunds universitet (Juridiska fakulteten och Raoul Wallenberg institutet
+32\. Lunds universitet (Juridiska fakulteten och Raoul Wallenberg institutet
 för mänskliga rättigheter och humanitär rätt)
 
-33. Länsstyrelsen Gotland
-34. Länsstyrelsen Gävleborg
+33\. Länsstyrelsen Gotland
+34\. Länsstyrelsen Gävleborg
 
-35. Länsstyrelsen Kronoberg
+35\. Länsstyrelsen Kronoberg
 
-36. Länsstyrelsen Stockholm
-37. Länsstyrelsen Södermanland
+36\. Länsstyrelsen Stockholm
+37\. Länsstyrelsen Södermanland
 
-38. Länsstyrelsen Västerbotten
+38\. Länsstyrelsen Västerbotten
 
-39. Länsstyrelsen Örebro
-40. Majblommans riksförbund
+39\. Länsstyrelsen Örebro
+40\. Majblommans riksförbund
 
-41. Malmö kommun
-42. Migrationsverket
+41\. Malmö kommun
+42\. Migrationsverket
 
-43. Mora kommun
+43\. Mora kommun
 
-44. Myndigheten för delaktighet
-45. Nacka tingsrätt
+44\. Myndigheten för delaktighet
+45\. Nacka tingsrätt
 
-46. Nybro kommun
+46\. Nybro kommun
 
-47. Polismyndigheten
-48. Region Blekinge
+47\. Polismyndigheten
+48\. Region Blekinge
 
-49. Region Gävleborg
+49\. Region Gävleborg
 
 2 (5)
 
 <!-- sida 220 -->
 
-50. Region Halland
+50\. Region Halland
 
-51. Region Skåne
-52. Region Stockholm
+51\. Region Skåne
+52\. Region Stockholm
 
-53. Region Västerbotten
-54. Riksdagens ombudsmän
+53\. Region Västerbotten
+54\. Riksdagens ombudsmän
 
-55. Rädda barnen
+55\. Rädda barnen
 
-56. Röda Korset
-57. Sala kommun
+56\. Röda Korset
+57\. Sala kommun
 
-58. Socialstyrelsen
+58\. Socialstyrelsen
 
-59. Sollefteå kommun
-60. SOS Barnbyar
+59\. Sollefteå kommun
+60\. SOS Barnbyar
 
-61. Staffanstorps kommun
+61\. Staffanstorps kommun
 
-62. Stockholms handelskammare
-63. Stockholms kommun
+62\. Stockholms handelskammare
+63\. Stockholms kommun
 
-64. Stockholms universitet (Juridiska fakulteten)
-65. Svensk handel
+64\. Stockholms universitet (Juridiska fakulteten)
+65\. Svensk handel
 
-66. Svenska institutet
+66\. Svenska institutet
 
-67. Svenska kyrkan
-68. Sveriges advokatsamfund
+67\. Svenska kyrkan
+68\. Sveriges advokatsamfund
 
-69. Sveriges kommuner och regioner
+69\. Sveriges kommuner och regioner
 
-70. Sveriges antidiskrimineringsbyråer
-71. Söderköpings kommun
+70\. Sveriges antidiskrimineringsbyråer
+71\. Söderköpings kommun
 
-72. Sölvesborgs kommun
-73. Tranemo kommun
+72\. Sölvesborgs kommun
+73\. Tranemo kommun
 
-74. Töreboda kommun
+74\. Töreboda kommun
 
-75. Uddevalla kommun
-76. Umeå kommun
+75\. Uddevalla kommun
+76\. Umeå kommun
 
-77. Värnamo kommun
+77\. Värnamo kommun
 
-78. Västra Götalandsregionen
-79. Åklagarmyndigheten
+78\. Västra Götalandsregionen
+79\. Åklagarmyndigheten
 
 3 (5)
 
 <!-- sida 221 -->
 
-80. Älvdalens kommun
+80\. Älvdalens kommun
 
-81. Åmåls kommun
-82. Örebro Rättighetscenter
+81\. Åmåls kommun
+82\. Örebro Rättighetscenter
 
-83. Örnsköldsviks kommun
+83\. Örnsköldsviks kommun
 
 Remissvaren ska ha kommit in till Justitiedepartementet senast den 3
 november 2025. Svaren bör lämnas per e-post till
@@ -9112,7 +9112,7 @@ biljettsystemet för arrangör.
 
 En jämförelse visar:
 
-*När arrangören tar ut fribiljetter
+\*När arrangören tar ut fribiljetter
 
 Karl Persson
 Förvaltningschef
@@ -9128,7 +9128,7 @@ Förvaltningschef
 
 |  | Sara kulturhus,<br>Skellefteå | Jönköping Konsert<br>& Kongress | Uppsala Konsert &<br>Kongress | Halmstad Teater |
 | --- | --- | --- | --- | --- |
-| Serviceavgift | 12,5 kr | 0 kr | 10 kr/fri<br>arrangörsbiljett, i<br>övrigt 0 kr.* | 8 kr/fri<br>arrangörsbiljett, i<br>övrigt 0 kr.* |
+| Serviceavgift | 12,5 kr | 0 kr | 10 kr/fri<br>arrangörsbiljett, i<br>övrigt 0 kr.\* | 8 kr/fri<br>arrangörsbiljett, i<br>övrigt 0 kr.\* |
 | Biljettuppläggningsavgift | Ingår i avtalet | Ingår i avtalet | Ingår i avtalet | 1600 kr |
 
 <!-- sida 226 -->
@@ -10036,22 +10036,22 @@ instans innan detaljplanen antas.
 
 I det här projektet kan exploateringsavtalet komma att omfatta exempelvis:
 
--  Definition av exploateringsområdet.
--  Samordning av utbyggnad
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar. Inom planområdet
+\-  Definition av exploateringsområdet.
+\-  Samordning av utbyggnad
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar. Inom planområdet
 
 med enskilt huvudmannaskap PARK utför exploatören utbyggnad av allmän plats och
 anläggningarna överlåts senare till en bostadsrättsförening eller
 gemensamhetsanläggning.
--  Åtgärder inom kvartersmark för bostad ansvarar exploatören för.
--  Reglering av exploatörernas ansvar att erlägga avgift enligt kommunens VA-taxa.
+\-  Åtgärder inom kvartersmark för bostad ansvarar exploatören för.
+\-  Reglering av exploatörernas ansvar att erlägga avgift enligt kommunens VA-taxa.
 
--  Åtaganden att bekosta anläggningar utanför planområdet.
--  Reglering av exploatörens ansvar för att bekosta eventuella undersökningar som inte
+\-  Åtaganden att bekosta anläggningar utanför planområdet.
+\-  Reglering av exploatörens ansvar för att bekosta eventuella undersökningar som inte
 omfattas av plankostnadsavtalet.
--  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\-  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
 
-- Övriga frågor som behöver regleras för exploateringsområdets rationella och
+\- Övriga frågor som behöver regleras för exploateringsområdets rationella och
 ändamålsenliga utbyggnad.
 
 Avtalet medför bland annat att detaljplanens genomförande säkerställs ekonomiskt samt
@@ -10500,7 +10500,7 @@ Vatten
 Planområdet avvattnas till Skörvallabäcken (Veån). Slutrecipient är Skörvallaviken. Veån
 klassificeras till otillfredsställande ekologisk status med avseende på övergödning.
 Kvalitetskravet hos vattenförekomsten är att uppnå god ekologisk status med tidsfrist till år
-2033. Veåns kemiska status uppnår ej god med avseende på att de prioriterade ämnena
+2033\. Veåns kemiska status uppnår ej god med avseende på att de prioriterade ämnena
 (PRIO) bromerade difenyletrar (PBDE) och kvicksilver (Hg) är klassade till uppnår ej god.
 Kvalitetskravet hos vattenförekomsten är god kemisk status. I enlighet med bilaga 6 i Havs-
 och vattenmyndighetens föreskrifter har ett nationellt undantag i form av ett mindre strängt
@@ -10667,17 +10667,17 @@ kan medföra progressivt brott eller fortskridande brott.
 Räddningstjänsten
 
 Närmsta befintliga brandposter finns i vid:
--  Sidovägen, ca 150 meter väster om
+\-  Sidovägen, ca 150 meter väster om
 planområdets mittpunkt,
 
--  Särö Skansenväg, ca 230 meter norr om
+\-  Särö Skansenväg, ca 230 meter norr om
 planplanområdets mittpunkt,
--  Korsningen
+\-  Korsningen
 Bukärrsvägen/Gatekärrsvägen, ca 175
 meter nordöst om planområdets
 mittpunkt samt
 
--  Strandvägen, ca 215 meter söder om
+\-  Strandvägen, ca 215 meter söder om
 planområdets mittpunkt.
 Brandposterna täcker inte i sin helhet in
 planområdet.
@@ -11367,7 +11367,7 @@ Parkeringsmöjlighet finns i huvudsak norr om bostadsbebyggelsen.
 Därutöver möjliggörs allmän plats för PARK för att säkerställa utrymme för dagvatten- och
 skyfallshantering.
 Planförslaget går i linje med gällande fördjupning av översiktsplan för Kungsbacka stad,
-2009.
+2009\.
 
 Kommunen gör den sammanvägda bedömningen att planförslaget inte bedöms ge upphov till
 betydande miljöpåverkan.
@@ -11866,10 +11866,10 @@ antas.
 
 I det här projektet kommer exploateringsavtalet att omfatta
 
--  Definition av exploateringsområdet.
--  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
+\-  Definition av exploateringsområdet.
+\-  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
 
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
 Vid kommunalt huvudmannaskap utför kommunen utbyggnad av allmän plats på
 exploatörens bekostnad (exploateringsbidrag). Utbyggnaden sker till självkostnadspris
 och betalning sker löpande i takt med att området byggs ut.
@@ -11880,17 +11880,17 @@ och betalning sker löpande i takt med att området byggs ut.
 
 Detaljplan för Kungsbacka 6:8                       Datum: 2025-05-20
 
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför
 planområdet, som är nödvändiga för detaljplanens genomförande och rimliga med
 hänsyn till exploatörens nytta av åtgärden.
--  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
+\-  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
 
--  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
+\-  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
 plankostnadsavtalet.
 
--  Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att
+\-  Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att
 säkerställa exploatörens åtaganden.
--  Övriga frågor som behöver regleras för exploateringsområdets rationella och
+\-  Övriga frågor som behöver regleras för exploateringsområdets rationella och
 ändamålsenliga utbyggnad.
 
 Avtalet medför bland annat att detaljplanens genomförande säkerställs ekonomiskt samt att
@@ -12938,7 +12938,7 @@ Samrådshandling                                            39 (39)
 
 <!-- sida 316 -->
 
-12)
+12\)
 
 Välkommen med synpunkter! Kungsbacka
 
@@ -13155,10 +13155,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -13289,11 +13289,11 @@ totalt - helhetssyn
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -13459,12 +13459,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %    73 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %    86 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 103 92
 målvärde 2030 är 70.
@@ -13494,7 +13494,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,86    1,79    1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 113   115     151
@@ -13515,8 +13515,8 @@ total (kWh)
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -13606,8 +13606,8 @@ Antal nystartade företag per 1 000 invånare
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -13672,12 +13672,12 @@ kr/invånare (Kolada)
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -13801,7 +13801,7 @@ förutsättningar att skapa på egen hand och att ta del av professionella kultu
 Genom en sömlös samverkan mellan invånare, civilsamhället, näringslivet och Kultur & Fritid, tar vi
 gemensamt ansvar för att forma och förbättra livet i Kungsbacka. Demokratin är väl förankrad, och invånarna
 har blivit vana att kunna påverka tillvaron i Kungsbacka.
-1. Fokusområde "Ett Kungsbacka med framtidstro"
+1\. Fokusområde "Ett Kungsbacka med framtidstro"
 
 Vi ska ha ett högt fokus på att arbeta främjande och förebyggande genom tidiga och kunskapsbaserade insatser.
 Vi ska ge förutsättningar för god psykisk och fysisk hälsa genom att erbjuda stöd, service och aktiviteter som
@@ -13900,7 +13900,7 @@ invånarnas och medarbetarnas engagemang skapas en starkare lokal identitet. Ins
 barn, unga och äldre för att öka tillgängligheten till information och för att nå dem som annars riskerar att stå
 utanför.
 
-2. Fokusområde "En plats i rörelse"
+2\. Fokusområde "En plats i rörelse"
 Vi ska ta en ledande roll i att livet mellan husen fylls med ett rikt kultur- och fritidsliv och välkomna det
 historiska, spetsiga och provocerande, såväl som det spontana och omfamnande. Vi ska försäkra oss om att vi
 är relevanta och att vi arbetar både för att möjliggöra för amatören såväl som för den professionella utövaren.
@@ -13982,7 +13982,7 @@ Vi har även ökat synligheten för kultur- och fritidslivet genom riktade kommu
 detta är kampanjerna för lovaktiviteter och för målgruppen seniorer, samt annonsen med sommarkalendarium i
 Norra Hallands sommarbilaga. Genom dessa insatser, i kombination med innehåll i sociala medier, har lokala
 evenemang och aktiviteter lyfts fram på ett sätt som bidragit till ökad kännedom, räckvidd och deltagande.
-3. Fokusområde "Handlingskraft i Kungsbacka"
+3\. Fokusområde "Handlingskraft i Kungsbacka"
 
 Vi ska arbeta för att Kungsbackas invånare ska känna delaktighet i samhället och ha möjlighet att påverka och
 ta ansvar för sin livssituation. Genom att vara brobyggare och möjliggörare ska vi skapa utrymme för
@@ -14036,7 +14036,7 @@ medier under sommaren bidrog till att lyfta fram lokala initiativ och mötesplat
 Invånare och besöksmål har genom detta fått större möjlighet att göra sin röst hörd och se att deras idéer tas på
 allvar. Detta har stärkt relationen mellan kommunen och civilsamhället samt skapat en känsla av gemensamt
 ansvarstagande.
-4. Fokusområde "Morgondagens förvaltning"
+4\. Fokusområde "Morgondagens förvaltning"
 
 Vi ska förändra våra arbetssätt och prioritera mer utifrån vad invånarna behöver och efterfrågar. Det kommer
 innebära att vi ska arbeta ytterligare utifrån invånarnas behov gällande tid, rum och plats. Vi ska möta
@@ -14289,21 +14289,21 @@ och omsorgsboenden. Tre vård- och omsorgsboenden (Sandlyckan, Kolla och Björkr
 att under hösten 2025 arbeta fram ett nytt arbetssätt som syftar till att förbättra livskvaliteten utifrån individuella
 behov, intressen och förutsättningar. Genom att erbjuda ett mer varierat och meningsfullt aktivitetsutbud skapas
 flera förväntade nyttor:
-1. Ökad livskvalitet och välbefinnande:
+1\. Ökad livskvalitet och välbefinnande:
 Aktiviteter som stimulerar både kropp och sinne bidrar till att stärka självkänslan, öka glädjen i
 vardagen och skapa en känsla av meningsfullhet för de äldre.
-2. Förbättrad fysisk och psykisk hälsa:
+2\. Förbättrad fysisk och psykisk hälsa:
 Regelbundna och anpassade aktiviteter kan motverka stillasittande, minska risken för ofrivillig
 ensamhet, depression, och stimulera kognitiva funktioner, vilket i sin tur kan leda till ett minskat
 vårdbehov.
-3. Ökad delaktighet och social samvaro:
+3\. Ökad delaktighet och social samvaro:
 Ett rikare aktivitetsutbud främjar gemenskap och motverkar ensamhet. Boende får fler möjligheter att
 interagera med varandra och med personal, vilket stärker den sociala sammanhållningen.
-4. Individanpassad omsorg:
+4\. Individanpassad omsorg:
 Genom att ta tillvara på de boendes tidigare intressen och livserfarenheter genom arbetet med
 levnadsberättelser och genomförandeplaner, kan aktiviteterna anpassas så att varje individ känner sig
 sedd, hörd och värdefull.
-5. Stärkt anhörigrelation:
+5\. Stärkt anhörigrelation:
 Anhöriga upplever ofta en ökad trygghet och tillfredsställelse när de ser att deras närstående får en
 meningsfull vardag med möjlighet till engagemang och glädje.
 

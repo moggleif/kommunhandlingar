@@ -469,7 +469,7 @@ samhällsbyggnadskontoret i uppdrag att upprätta detaljplan för verksamheter i
 Kungsbacka 6:26 och Hammargård 1:7 m fl.
 
 Planförslaget har varit utställt på samråd under tiden 13 september till 8 oktober
-2022. Under samrådstiden inkom 11 skrivelser. Inkomna synpunkter berör i
+2022\. Under samrådstiden inkom 11 skrivelser. Inkomna synpunkter berör i
 huvudsak påverkan på Natura 2000-område, dagvattenhantering och geoteknik. Se
 vidare i samrådsredogörelsen.
 Planområdet ligger direkt söder om Kungsbacka stad. Planförslaget innebär att
@@ -548,7 +548,7 @@ Planområdet ligger inom Paltaområdet i nordvästra delen av Vallda strax söde
 Sandövägen. Enligt kommunens översiktsplan, ÖP06, ingår det aktuella området i
 utvecklingsområdet för Vallda.
 Fastigheterna omfattades av arbetet med detaljplan V52 fram tills att den antogs
-1972. Då undantogs detta område och det blev inte någon detaljplan för aktuella
+1972\. Då undantogs detta område och det blev inte någon detaljplan för aktuella
 fastigheter. Fastigheterna omfattas idag inte av någon detaljplan.
 
 Uppdraget innebär att pröva möjligheten att ta fram en ny detaljplan för bostäder

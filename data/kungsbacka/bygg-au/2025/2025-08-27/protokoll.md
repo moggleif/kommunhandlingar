@@ -1364,10 +1364,10 @@ markanvändning kommer till uttryck i andra kapitlet Plan och Bygglagen (PBL).
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -1610,11 +1610,11 @@ Bygglov kan därför beviljas.
 
 Utöver yrkande om att bevilja bygglov, ingår också tillägg av två upplysningar enligt
 följande:
--  Nytt bygglov kan krävas vid ändringar som innebär förändrad
+\-  Nytt bygglov kan krävas vid ändringar som innebär förändrad
 omgivningspåverkan såsom utökade öppettider och omfattning, eller andra
 
 större ändringar.
--  Vidare så behöver extra beaktande göras kring säkerhet vid användning av
+\-  Vidare så behöver extra beaktande göras kring säkerhet vid användning av
 fastigheten. Detta med hänsyn till verksamhetens beskaffenhet och platsens
 förutsättningar.
 

@@ -621,7 +621,7 @@ av respektive nämnd.
 •  Vi har även ett pris – Självständigt liv – som
 ej är i bruk.
 
-*Delas ut vartannat år               **Extern nominering möjlig
+\*Delas ut vartannat år               \*\*Extern nominering möjlig
 
 Delas  ut på Kungsbackagalan
 
@@ -629,10 +629,10 @@ Delas  ut på Kungsbackagalan
 
 | EXTERNT PRIS | INTERNT PRIS |
 | --- | --- |
-| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)** |
+| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)\*\* |
 | Kungsbackas mästare | Årets ledare (två kategorier) |
-| Kungsbackas olympier* | Leva livet-priset** |
-| Årets eldsjäl | Lära för livet-priset** |
+| Kungsbackas olympier\* | Leva livet-priset\*\* |
+| Årets eldsjäl | Lära för livet-priset\*\* |
 | Årets förening |  |
 | Årets förnyare |  |
 | Arkitekturpriset |  |
@@ -643,10 +643,10 @@ Delas  ut på Kungsbackagalan
 
 Nuläge
 
-*utdelning under höst
+\*utdelning under höst
 
 Jan       Feb     Mars     April     Maj      Juni    Juli    Aug      Sept      Okt      Nov       Dec
-Leva livet-               Kungsbacka-                                Arkitekturpriset*   Hållbarhets-
+Leva livet-               Kungsbacka-                                Arkitekturpriset\*   Hållbarhets-
 priset                      galan                                                         priset
 Ledardagen
 Medarbetar-
@@ -705,7 +705,7 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
-*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
+\*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
 
 [Tabell 20-1](handlingar.tabeller/20-1.csv)
 
@@ -714,7 +714,7 @@ Kartläggning                    interna            priset
 | Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
 | Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
 | Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
+| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
 | Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 21 -->
@@ -838,21 +838,21 @@ Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendeval
 1 Förtroendevalda
 
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
--  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\-  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
--  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\-  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag
 och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare (leder respektive partigrupp i kommunfullmäktige)
--  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\-  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 kommunfullmäktige, nämnder, styrelsen, revisionen, ledamöter och ersättare
 
 i kommunala bolag- och stiftelser, beredningar och andra uppdrag enligt
 särskilt beslut.
--  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\-  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
--  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
+\-  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
 revisionen.
 Kommunens bolag och stiftelser rekommenderas att tillämpa dessa riktlinjer.
 
@@ -875,10 +875,10 @@ kommunalråd till den del avdraget överstiger timersättningen (se avsnitt 2.6)
 Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 Rätten till ledighet avser
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd.
 
@@ -1106,9 +1106,9 @@ bolag och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare.
 Arvode betalas i form av
 
--  Fast arvode för deltidsuppdrag
+\-  Fast arvode för deltidsuppdrag
 
--  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\-  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
 
@@ -1198,9 +1198,9 @@ förtroendevalda representerar det organ denne själv tillhör. Därtill betalas
 och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-_____________
+\_____________
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 11 (17)
 
@@ -1355,9 +1355,9 @@ har ägt rum.
 
 När en förtroendevald ska begära ersättning
 
--  för andra förmåner än dagarvode, timersättning och reseersättning, i
+\-  för andra förmåner än dagarvode, timersättning och reseersättning, i
 samband med protokollfört sammanträde eller
--  efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\-  efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
@@ -1411,6 +1411,6 @@ att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst.
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 
 2023–2027.
-____________________
+\____________________
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 17 (17)

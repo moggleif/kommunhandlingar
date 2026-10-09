@@ -210,7 +210,7 @@ Sida 1 av 30
 <!-- sida 6 -->
 
 årsarbetare, medan personaltillgången uppgår till 2,0 årsarbetare vid ingången av
-2026.
+2026\.
 
 Bygg- och miljöförvaltningen har tecknat avtalssamverkan med Mölndals stad.
 Detta innebär att Nämnden för Miljö & Hälsoskydd i Kungsbacka ansvarar för
@@ -218,7 +218,7 @@ tillsyn och handläggning av cirka 60 serveringsställen och omkring 60
 försäljningsställen i Mölndals stad. Kontrollen i Mölndals stad har ett resursbehov
 på 2,01 årsarbetare, med en personaltillgång på 2,0 årsarbetare vid ingången av
 
-2026.
+2026\.
 
 Sida 2 av 30
 
@@ -233,15 +233,15 @@ Sammanfattning .................................................................
 2.1 Övergripande nationella mål och effekt för livsmedelskontroll ............................. 6
 2.2 Fokusområden och mål 2026-2029 för livsmedelskontroll ................................... 7
 
-1.  Livsmedelskontrollen i Sverige blir mer riskbaserad ....................................... 7
-2.  Livsmedelskontrollen i Sverige blir mer likvärdig ........................................... 7
+1\.  Livsmedelskontrollen i Sverige blir mer riskbaserad ....................................... 7
+2\.  Livsmedelskontrollen i Sverige blir mer likvärdig ........................................... 7
 
-3.  Avvikelser hanteras mer effektivt och enhetligt .............................................. 7
-1.  Kontroll av spårbarhet utförs mer effektivt och ändamålsenligt som en naturlig
+3\.  Avvikelser hanteras mer effektivt och enhetligt .............................................. 7
+1\.  Kontroll av spårbarhet utförs mer effektivt och ändamålsenligt som en naturlig
 
 del av kontrollen, med fokus på att säkerställa livsmedelssäkerhet och konsumenters
 intressen. ................................................................................................................... 7
-1.  Kontrollmyndigheterna har bättre förmåga att hantera samhällsstörningar, även
+1\.  Kontrollmyndigheterna har bättre förmåga att hantera samhällsstörningar, även
 under kris och krig. ................................................................................................... 8
 
 2.3 Övergripande nationella mål för alkohol och tobak .............................................. 8
@@ -345,13 +345,13 @@ läkemedel......................................................................
 12.1 Uppföljning av avvikelser ................................................................................ 28
 
 12.2 Klagomål, misstänkt matförgiftning och RASFF .............................................. 29
-13. Kontroll och utredning vid avvikelser –serveringstillsyn och
+13\. Kontroll och utredning vid avvikelser –serveringstillsyn och
 
 försäljningstillsyn .............................................................................................30
 13.1 Klagomål......................................................................................................... 30
 
 13.2 Uppföljning och sanktioner.............................................................................. 30
-14. Uppföljning och utvärdering av kontrollen ..................................................30
+14\. Uppföljning och utvärdering av kontrollen ..................................................30
 
 14.1 Rapportering av kontrollresultat....................................................................... 30
 14.2 Uppföljning av avdelningens arbete ................................................................. 30
@@ -453,13 +453,13 @@ kontrollen på fyra områden: riskbaserad och likvärdig kontroll, verkningsfull
 kontroll, spårbarhet och beredskap.
 
 De tre målen inom riskbaserad och likvärdig kontroll är:
-1. Livsmedelskontrollen i Sverige blir mer riskbaserad
+1\. Livsmedelskontrollen i Sverige blir mer riskbaserad
 
-2. Livsmedelskontrollen i Sverige blir mer likvärdig
-3. Avvikelser hanteras mer effektivt och enhetligt
+2\. Livsmedelskontrollen i Sverige blir mer likvärdig
+3\. Avvikelser hanteras mer effektivt och enhetligt
 
 Målet inom spårbarhet är:
-1. Kontroll av spårbarhet utförs mer effektivt och ändamålsenligt som en
+1\. Kontroll av spårbarhet utförs mer effektivt och ändamålsenligt som en
 naturlig del av kontrollen, med fokus på att säkerställa livsmedelssäkerhet
 och konsumenters intressen.
 
@@ -469,7 +469,7 @@ Sida 7 av 30
 
 <!-- sida 12 -->
 
-1. Kontrollmyndigheterna har bättre förmåga att hantera samhällsstörningar,
+1\. Kontrollmyndigheterna har bättre förmåga att hantera samhällsstörningar,
 även under kris och krig.
 
 2.3 Övergripande nationella mål för alkohol och tobak
@@ -1654,7 +1654,7 @@ Sida 29 av 30
 
 <!-- sida 34 -->
 
-13. Kontroll och utredning vid avvikelser –serveringstillsyn
+13\. Kontroll och utredning vid avvikelser –serveringstillsyn
 och försäljningstillsyn
 
 13.1 Klagomål
@@ -1681,7 +1681,7 @@ i att ärendet avslutas utan åtgärd, att beslut om erinran fattas på delegati
 förslag till beslut om varning eller återkallelse av tillstånd läggs fram till nämnden
 för beslut.
 
-14. Uppföljning och utvärdering av kontrollen
+14\. Uppföljning och utvärdering av kontrollen
 
 14.1 Rapportering av kontrollresultat
 Resultatet av livsmedelskontrollen, serveringstillsynen och försäljningstillsynen
@@ -1920,16 +1920,16 @@ Förarbete
 
 Förarbetet är viktigt och vi behöver förbereda oss väl inför kontrollen:
 
-1) Insamling av information om objektet
+1\) Insamling av information om objektet
 Vad finns för information om objektet? Vad gör de? Till exempel olika delar, hanteringar, processer, typer av livsmedel. Information på hemsida?
 Vad har vi kontrollerat tidigare? Har det varit avvikelser, klagomål? Har vi gjort distanskontroll under pandemin, behöver något verifieras på plats? Titta minst ett år tillbaka.
 Vilka olika hälso- och redlighetsrisker kan finnas i företaget? Tex mikrobiologiska, kemiska, fysikaliska och allergena.
-2) Vad ska jag kontrollera?
+2\) Vad ska jag kontrollera?
 
 Utgå från inriktningsplanen och välj relevanta inriktningar att kontrollera. Vilken del av verksamheten ska kontrolleras? Ska jag välja någon inriktning och kontrollera mer på
 djupet eller välja ett flöde, till exempel salladsberedning eller hantering av kyckling, och kontrollera flera inriktningar men inte lika djupt? Kontrollens omfattning behöver
 anpassas till objektets kontrolltid och hur många kontroller de ska ha.
-3) Hur ska jag kontrollera?
+3\) Hur ska jag kontrollera?
 Har jag den kunskap som behövs för att göra kontrollen verkningsfull?
 Välj den kontrollmetod som är lämplig beroende på syftet med kontrollen.
 När är lämplig tid att utföra kontrollen för att kunna verifiera det jag vill kontrollera.
@@ -2788,7 +2788,7 @@ tillsynsplanen.
 Kontrollplanen för alkohol, livsmedel och tobak samt tillsynsplanen enligt
 miljöbalken kommer beslutas av nämnden för Miljö & Hälsoskydd den 4 december
 
-2025.
+2025\.
 Särskilt viktiga områden inom det behovsprioriterade arbetet
 
 Inom tillsynen är följande områden särskilt viktiga att lyfta fram:
@@ -2814,15 +2814,15 @@ Innehållsförteckning
 Sammanfattning ................................................................................................. 1
 
 Innehållsförteckning .......................................................................................... 5
-1.  Inledning .................................................................................................... 7
+1\.  Inledning .................................................................................................... 7
 
-2.  Beskrivning av tillsynsuppdraget ................................................................ 8
+2\.  Beskrivning av tillsynsuppdraget ................................................................ 8
 2.1  Tillsynsansvaret.................................................................................. 8
 
 2.2  Styrande dokument ............................................................................. 8
 
 2.3  Samverkan ........................................................................................12
-3.  Beskrivning av behovsutredningen ............................................................12
+3\.  Beskrivning av behovsutredningen ............................................................12
 
 3.1  Förklaring av olika begrepp ...............................................................12
 
@@ -2832,9 +2832,9 @@ Innehållsförteckning .........................................................
 3.4  Konsekvenser vid resursbrist .............................................................19
 3.5  Behov av kompetensförsörjning ........................................................19
 
-4.  Resursbehov av övrig tid ...........................................................................20
+4\.  Resursbehov av övrig tid ...........................................................................20
 
-5.  Resursbehov av handläggningstid per verksamhetsområde ........................23
+5\.  Resursbehov av handläggningstid per verksamhetsområde ........................23
 5.1  Miljöfarlig verksamhet ......................................................................23
 
 5.2  Förorenade områden ..........................................................................27
@@ -2856,7 +2856,7 @@ Innehållsförteckning .........................................................
 5.12 Servering- och försäljningsställen ......................................................55
 5.13 Servering- och försäljningsställen – Mölndal Stad .............................58
 
-6.  Resursbehov sammanställning...................................................................59
+6\.  Resursbehov sammanställning...................................................................59
 
 Sida 5 av 62
 
@@ -2866,7 +2866,7 @@ Sida 6 av 62
 
 <!-- sida 74 -->
 
-1. Inledning
+1\. Inledning
 
 För att möjliggöra en god och korrekt myndighetsutövning har kommunfullmäktige
 och kommunstyrelsen ansvar för att se till att nämnden för Miljö & Hälsoskydd har
@@ -2930,7 +2930,7 @@ sammanställning av resursbehov och personaltillgångar mellan 2026–2028 som
 
 beskrivs i den här behovsutredningen.
 
-2. Beskrivning av tillsynsuppdraget
+2\. Beskrivning av tillsynsuppdraget
 
 2.1  Tillsynsansvaret
 
@@ -3059,14 +3059,14 @@ utvecklingen:
 vågar och kan."
 För att nå visionen har kommunfullmäktige formulerat fem övergripande mål:
 
-1. En attraktiv kommun att bo, verka och vistas i
+1\. En attraktiv kommun att bo, verka och vistas i
 
-2. En hållbar utveckling och en hälsosam miljö
-3. Bästa företagsklimatet i Västsverige
+2\. En hållbar utveckling och en hälsosam miljö
+3\. Bästa företagsklimatet i Västsverige
 
-4. I Kungsbacka utvecklas vi hela livet
+4\. I Kungsbacka utvecklas vi hela livet
 
-5. Ett medskapande samhälle med öppen attityd
+5\. Ett medskapande samhälle med öppen attityd
 
 Sida 10 av 62
 
@@ -3148,7 +3148,7 @@ bland annat livsmedelsinspektörer, hälsoskyddstillsyn, dricksvattenkontroll, s
 avlopp, strandskyddshandläggare och miljöchefer. Syftet är samsyn,
 erfarenhetsutbyte och ökad kompetens.
 
-3. Beskrivning av behovsutredningen
+3\. Beskrivning av behovsutredningen
 Detta stycke handlar om vilka resurser som finns tillgängliga i form av årsarbetare
 (heltid och deltid) och hur det beräknas samt övergripande förutsättningar för
 
@@ -3512,7 +3512,7 @@ Nya arbetsuppgifter inom nya lagstiftningsområden gör att personal kan komma a
 behöva mer utbildning den närmsta perioden för att kunna arbeta inom andra
 områden.
 
-4. Resursbehov av övrig tid
+4\. Resursbehov av övrig tid
 Beskrivning av området
 Övrig tid, är sådan tid som inte är direkt handläggningstid men som behövs för att
 verksamheten ska fungera. Det beskrivs närmare i avsnitt 3.1
@@ -3657,7 +3657,7 @@ Sammanställning av resursbehov – Övrig tid
 Behovet uppgår till cirka 600 timmar per heltid. Det innebär att den tillgängliga
 handläggningstiden blir i genomsnitt 1000 timmar per handläggare.
 
-5. Resursbehov av handläggningstid per verksamhetsområde
+5\. Resursbehov av handläggningstid per verksamhetsområde
 
 I detta avsnitt redovisas resursbedömningen per tillsynsområde. Redovisningen är
 indelad i följande övergripande verksamhetsområden: miljöbalken samt alkohol,
@@ -3809,7 +3809,7 @@ Sida 25 av 62
 <!-- sida 93 -->
 
 cirka 400 timmar under 2026, cirka 300 timmar under 2027 och cirka 400 timmar
-2028.
+2028\.
 
 Nämndens riktning
 
@@ -4054,7 +4054,7 @@ Förskolor, Vårdlokaler, Tillfälligt boende (ex vandrarhem, camping,
 stuganläggning och hotell.), Inomhusmiljö, Hygieniska verksamheter, Rökfria
 miljöer, Strålskydd, Buller - all typ, Smittskydd och skadeljud, Skyddsjakt, Eldning
 
-- påverkan av hälsan.
+\- påverkan av hälsan.
 Tillsynsobjekten delas in i anmälningspliktiga (H) och icke anmälningspliktiga
 (UH) verksamheter.
 
@@ -4206,7 +4206,7 @@ verksamheter.
 Under perioden uppskattas den årliga tillsynstiden variera, eftersom
 tillsynsintervallerna skiljer sig mellan olika verksamheter. Tiden beräknas uppgå till
 cirka 500 timmar under 2026, cirka 300 timmar under 2027 och cirka 750 timmar
-2028.
+2028\.
 
 Nämndens riktning
 
@@ -4613,13 +4613,13 @@ genom 2026. Punkt 3 i uppdraget kommer att pågå under en treårsperiod.
 
 Miljö & Hälsoskydd har fått i uppdrag att:
 
-1. Justera riskklassningsmodellen för att inkludera servicehistorik och mätdata
-2. Effektivisera tillsynsprocesserna
+1\. Justera riskklassningsmodellen för att inkludera servicehistorik och mätdata
+2\. Effektivisera tillsynsprocesserna
 
-3. Verka för införandet av standardiserade protokoll (Water Wise projekt som
+3\. Verka för införandet av standardiserade protokoll (Water Wise projekt som
 inte har beviljats än)
 
-4. Fördjupa samverkan med serviceföretagen
+4\. Fördjupa samverkan med serviceföretagen
 
 Sida 42 av 62
 
@@ -4939,7 +4939,7 @@ Under perioden uppskattas den årliga tillsynstiden variera, eftersom
 tillsynsintervallerna skiljer sig mellan olika verksamheter. Tiden beräknas uppgå till
 cirka 700 timmar under 2026, cirka 300 timmar under 2027 och cirka 500 timmar
 
-2028.
+2028\.
 
 Sida 49 av 62
 
@@ -5102,7 +5102,7 @@ Livsmedelsverksamheter kontrolleras regelbundet. Kontrollen ska vara riskbaserad
 ändamålsenlig och likvärdig för alla verksamheter.
 
 Livsmedelsverket har tagit fram en riskklassningsmodell som används från och med
-2024. Syftet är att livsmedelskontrollerna ska utföras i de led i livsmedelskedjan där
+2024\. Syftet är att livsmedelskontrollerna ska utföras i de led i livsmedelskedjan där
 den är mest effektiv. Reglerna ska ta hänsyn till kända risker kopplade till varor och
 
 verksamheter samt ska ge tydligare information och undvika att vilseleda
@@ -5377,7 +5377,7 @@ Timmarna är uppdelade mellan tillsynskategorierna enligt figur 18 nedan.
 
 Figur 18. Figuren visar resursbehovet (timmar) för servering 2026–2028 för Mölndal Stad.
 
-6. Resursbehov sammanställning
+6\. Resursbehov sammanställning
 Behovsutredningen omfattar en period på tre år. För att få en någorlunda jämn
 
 resursfördelning mellan åren och därmed lättare kunna planera eventuell
@@ -5476,7 +5476,7 @@ tillsyn som ska utföras i Kungsbacka. Samtidigt finns det tillsynsområden som 
 omfattas av strategin, där nämnden har pekat ut vilka områden som är särskilt
 viktiga och kommer beskrivas mer i kommande tillsynsplan. Nämndens vilja
 kommer även att vara vägledande vid eventuell revidering av tillsynsplanen under
-2026.
+2026\.
 
 Se beräknat behov och tillgängliga resurser i behovsutredningen, enligt figur 20.
 
@@ -5646,10 +5646,10 @@ KUNGSBACKA  KOMMUN
 Övriga tillsynsområden som kommer prioriteras utifrån följande tre miljömål (rangordning där
 siffran 1 är viktigast):
 
-1. Begränsad klimatpåverkan
-2. Grundvatten av god kvalitet
+1\. Begränsad klimatpåverkan
+2\. Grundvatten av god kvalitet
 
-3. God bebyggd miljö som nämnden valt att prioritera
+3\. God bebyggd miljö som nämnden valt att prioritera
 
 Vilket kommer leda till följande tillsynsaktiviteter:
 
@@ -5678,20 +5678,20 @@ Tillsynsplan 2026 för tillsyn enligt Miljöbalken, 2025-11-20
 Behovsutredning, 2025-11-13
 
 Bilagor:
-1. Sammanställning över tillsynsområden inom Framtidens Miljö & Hälsoskydd
+1\. Sammanställning över tillsynsområden inom Framtidens Miljö & Hälsoskydd
 
-2. Sammanställning av nationell strategin för miljöbalkstillsynen 2022–2025
-3. Sammanställning över prioriterade förorenade objekt
-4. Protokollsutdrag Prioriteringar inom ramen för tillsynsplan avseende nämnden för Miljö &
+2\. Sammanställning av nationell strategin för miljöbalkstillsynen 2022–2025
+3\. Sammanställning över prioriterade förorenade objekt
+4\. Protokollsutdrag Prioriteringar inom ramen för tillsynsplan avseende nämnden för Miljö &
 Hälsoskydd under 2025"
-5. Nämnden för Miljö & Hälsoskydds prioriteringar avseende tillsynsplan 2025
+5\. Nämnden för Miljö & Hälsoskydds prioriteringar avseende tillsynsplan 2025
 
 <!-- sida 134 -->
 
 KUNGSBACKA  KOMMUN
 5 (5)
 
-6. Tillsynsprogram för industriverksamheter i Kungsbacka kommun, nämnden för Miljö &
+6\. Tillsynsprogram för industriverksamheter i Kungsbacka kommun, nämnden för Miljö &
 
 Hälsoskydd, daterad 2023-05-11, dnr 2023–544
 
@@ -5798,7 +5798,7 @@ Innehållsförteckning
 Sammanfattning ................................................................................................. 1
 
 Innehållsförteckning .......................................................................................... 3
-1.  Inledning .................................................................................................... 4
+1\.  Inledning .................................................................................................... 4
 
 1.1  Sammanfattning av behovsutredningen 2025–2027 ............................ 4
 
@@ -5810,8 +5810,8 @@ Innehållsförteckning .........................................................
 
 1.6  Beskrivning av övrig tid och handläggningstid ................................... 7
 
-2.  Planering övrig tid ...................................................................................... 7
-3.  Planering handläggningstid per verksamhetsområde miljöbalken ..............10
+2\.  Planering övrig tid ...................................................................................... 7
+3\.  Planering handläggningstid per verksamhetsområde miljöbalken ..............10
 
 3.1  Miljöfarlig verksamhet ......................................................................13
 3.2  Förorenade områden ..........................................................................16
@@ -5829,7 +5829,7 @@ Innehållsförteckning .........................................................
 3.9  Lantbruk ............................................................................................31
 5.1  Övrig tillsyn inom miljöbalken ..........................................................33
 
-4.  Sammanställning och prioritering ..............................................................35
+4\.  Sammanställning och prioritering ..............................................................35
 4.1  Beskrivning av behovsutredning ........................................................36
 
 4.2  Tillsynsplan .......................................................................................36
@@ -5846,7 +5846,7 @@ Sida 3 av 41
 
 <!-- sida 139 -->
 
-1. Inledning
+1\. Inledning
 Enligt miljötillsynsförordningen ska det finnas en utredning om tillsynsbehovet för
 
 tillsynsmyndighetens hela ansvarsområde inom miljöbalken. I Kungsbacka
@@ -5975,12 +5975,12 @@ riktade insatser utifrån en aktivitetsplan.
 
 Under 2026 ska särskilt följande prioriteras utifrån verksamhetens behov:
 
-1. Kommunikation & bemötande: Öka förmågan att kommunicera effektivt,
+1\. Kommunikation & bemötande: Öka förmågan att kommunicera effektivt,
 samt att bemöta olika typer av människor på ett professionellt och
 respektfullt sätt. I första hand kommer medarbetare som ännu inte deltagit i
 utbildning via Miljösamverkan att erbjudas nya utbildningsinsatser.
 
-2. Lärande organisation: Stärka samarbetet inom bygg- och
+2\. Lärande organisation: Stärka samarbetet inom bygg- och
 miljöförvaltningen genom att fortsätta utveckla en kultur av internt lärande.
 
 Ett viktigt inslag blir skuggning, där vi följer varandra i arbetet för att öka
@@ -5992,7 +5992,7 @@ Sida 6 av 41
 
 <!-- sida 142 -->
 
-3. Framtidens Miljö & Hälsoskydd: Utbildningsinsatser som stärker
+3\. Framtidens Miljö & Hälsoskydd: Utbildningsinsatser som stärker
 personalen inom de olika tillsynsområdena och rustar oss för framtidens
 utmaningar.
 
@@ -6036,7 +6036,7 @@ Den nationella strategin för tillsyn enligt miljöbalken är grunden för vilke
 som ska utföras i Kungsbacka. Det finns tillsynsområden som inte finns med i
 strategin där tillsynsaktiviteterna beskrivs inom respektive tillsynsområde.
 
-2. Planering övrig tid
+2\. Planering övrig tid
 
 I detta avsnitt redovisas behovet av den övriga tiden och vilka utvecklingsarbeten
 som planeras att göras samt konsekvenser av det som prioriterats bort.
@@ -6155,7 +6155,7 @@ Sida 9 av 41
 
 <!-- sida 145 -->
 
-3. Planering handläggningstid per verksamhetsområde
+3\. Planering handläggningstid per verksamhetsområde
 miljöbalken
 
 I detta avsnitt redovisas den planerade tiden inom miljöbalkens område.
@@ -6182,23 +6182,23 @@ Sida 10 av 41
 
 Nationella mål
 
-1. Begränsad klimatpåverkan
-2. Frisk luft
-3. Bara naturlig försurning
-4. Giftfri miljö
-5. Skyddande ozonskikt
-6. Säker strålmiljö
-7. Ingen övergödning
-8. Levande sjöar och vattendrag
-9. Grundvatten av god kvalitet
-10. Hav i balans samt levande kust och
+1\. Begränsad klimatpåverkan
+2\. Frisk luft
+3\. Bara naturlig försurning
+4\. Giftfri miljö
+5\. Skyddande ozonskikt
+6\. Säker strålmiljö
+7\. Ingen övergödning
+8\. Levande sjöar och vattendrag
+9\. Grundvatten av god kvalitet
+10\. Hav i balans samt levande kust och
 skärgård
-11. Myllrande våtmarker
-12. Levande skogar
-13. Ett rikt odlingslandskap
-14. Storslagen fjällmiljö
-15. God bebyggd miljö
-16. Ett rikt växt och djurliv
+11\. Myllrande våtmarker
+12\. Levande skogar
+13\. Ett rikt odlingslandskap
+14\. Storslagen fjällmiljö
+15\. God bebyggd miljö
+16\. Ett rikt växt och djurliv
 De svenska miljömålen syftar till att skapa en hälsosam och hållbar miljö för både
 människor och natur. Målen strävar efter att minska miljöpåverkan, bevara
 
@@ -6290,11 +6290,11 @@ Sida 12 av 41
 Kungsbacka kommunfullmäktiges mål
 Kungsbacka kommunfullmäktige har tagit fram fem övergripande mål:
 
-1. En attraktiv kommun att bo, verka och vistas i
-2. En hållbar utveckling och en hälsosam miljö
-3. Bästa företagsklimatet i Västsverige
-4. I Kungsbacka utvecklas vi hela livet
-5. Ett medskapande samhälle och öppen attityd
+1\. En attraktiv kommun att bo, verka och vistas i
+2\. En hållbar utveckling och en hälsosam miljö
+3\. Bästa företagsklimatet i Västsverige
+4\. I Kungsbacka utvecklas vi hela livet
+5\. Ett medskapande samhälle och öppen attityd
 
 Nämndernas strategi
 
@@ -7093,12 +7093,12 @@ tillsynen av avloppsanläggningar inom Kungsbacka kommun, med start 2025 och
 fortsatt under 2026.
 Miljö & Hälsoskydd har fått i uppdrag att:
 
-1. Justera riskklassningsmodellen för att inkludera servicehistorik och mätdata
+1\. Justera riskklassningsmodellen för att inkludera servicehistorik och mätdata
 
-2. Effektivisera tillsynsprocesserna
+2\. Effektivisera tillsynsprocesserna
 
-3. Verka för införandet av standardiserade protokoll (Water Wise projekt)
-4. Fördjupa samverkan med serviceföretagen
+3\. Verka för införandet av standardiserade protokoll (Water Wise projekt)
+4\. Fördjupa samverkan med serviceföretagen
 
 Totalt 290 timmar för 2026 i behovsutredningen men 90 timmar i tillsynsplanen.
 
@@ -7518,7 +7518,7 @@ undvika framtida problem. Genom att få yttra oss i planer och remisser kan
 nämnden påverka tidigt i processen och säkerställa att miljöhänsyn tas i beslut som
 påverkar kommunen.
 
-4. Sammanställning och prioritering
+4\. Sammanställning och prioritering
 Behovet av resurserna för tillsyn inom miljö- och hälsoskydd framgår av tidigare
 beslutad behovsutredningen. Tillsynsplanen utgår från behovsutredning, samt
 
@@ -7661,10 +7661,10 @@ för vatten 2022–2027, Västerhavets vattendirektiv
 Övriga tillsynsområden som kommer prioriteras utifrån följande tre miljömål
 (rangordning där siffran 1 är viktigast):
 
-1. Begränsad klimatpåverkan
+1\. Begränsad klimatpåverkan
 
-2. Grundvatten av god kvalitet
-3. God bebyggd miljö som nämnden valt att prioritera
+2\. Grundvatten av god kvalitet
+3\. God bebyggd miljö som nämnden valt att prioritera
 
 Vilket kommer leda till följande tillsynsaktiviteter:
 
@@ -7702,12 +7702,12 @@ och fortsatt under 2026.
 
 Miljö & Hälsoskydd har fått i uppdrag att:
 
-1. Justera riskklassningsmodellen för att inkludera servicehistorik och mätdata
-2. Effektivisera tillsynsprocesserna
+1\. Justera riskklassningsmodellen för att inkludera servicehistorik och mätdata
+2\. Effektivisera tillsynsprocesserna
 
-3. Verka för införandet av standardiserade protokoll (Water Wise projekt)
+3\. Verka för införandet av standardiserade protokoll (Water Wise projekt)
 
-4. Fördjupa samverkan med serviceföretagen
+4\. Fördjupa samverkan med serviceföretagen
 Tyvärr har inte projektet beviljats, se punkt 3 ovan, därav har tiden minskat till
 tillsynsplanen till 90 timmar.
 
@@ -7780,16 +7780,16 @@ Sida 40 av 41
 
 Bilagor
 
-1. Sammanställning över tillsynsområden inom Framtidens Miljö &
+1\. Sammanställning över tillsynsområden inom Framtidens Miljö &
 Hälsoskydd
-2. Sammanställning av nationell strategin för miljöbalkstillsynen 2022–2025
-3. Sammanställning över prioriterade förorenade objekt
-4. Protokollsutdrag Prioriteringar inom ramen för tillsynsplan avseende
+2\. Sammanställning av nationell strategin för miljöbalkstillsynen 2022–2025
+3\. Sammanställning över prioriterade förorenade objekt
+4\. Protokollsutdrag Prioriteringar inom ramen för tillsynsplan avseende
 
 nämnden för Miljö & Hälsoskydd under 2025"
-5. Nämnden för Miljö & Hälsoskydds prioriteringar avseende tillsynsplan
+5\. Nämnden för Miljö & Hälsoskydds prioriteringar avseende tillsynsplan
 2025
-6. Tillsynsprogram för industriverksamheter i Kungsbacka kommun, nämnden
+6\. Tillsynsprogram för industriverksamheter i Kungsbacka kommun, nämnden
 för Miljö & Hälsoskydd, daterad 2023-05-11, dnr 2023–544
 
 Sida 41 av 41
@@ -8072,7 +8072,7 @@ Sammanfattningsvis föreslår bygg- och miljöförvaltningen att nämnden för M
 Hälsoskydd väljer inriktning och inbördes rangordning avseende behovsprioriterad tillsyn
 utifrån följande miljökvalitetsmål:
 
-1. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka olovlig
+1\. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka olovlig
 avfallshantering och motverka dumpning av avfall genom att informera och arbeta
 förebyggande så att Kungsbacka kommun inte blir en kommun där systematisk
 brottslighet inom avfallsområdet tillåts etablera sig. Förvaltningen ska aktivt samverka
@@ -8081,7 +8081,7 @@ nationellt för att främja en positiv utveckling inom området där det ska lö
 
 rätt.
 
-2. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser som
+2\. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser som
 ger information till våra invånare och företag och bidrar till en självreglerande utveckling
 där alla tjänar på att arbeta förbyggande med miljö- och hälsoskyddsfrågor. I första hand
 ska förvaltningen lägga tid på tillsyn och insatser som gynnar denna typ av utveckling
@@ -8090,7 +8090,7 @@ i Kungsbacka.
 
 <!-- sida 185 -->
 
-3. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande insatser
+3\. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande insatser
 som säkrar en långsiktig och hållbar dricksvattenförsörjning som bidrar till en god
 livsmiljö för växter och djur i sjöar och i våra vattendrag. Inom tillsynen ska
 förvaltningen prioritera tillsyn inom områden där stora risker finns för utsläpp till vatten
@@ -8118,10 +8118,10 @@ behovsprioriterade tillsynen inför beslut om kommande tillsynsplan för miljöb
 2025 för att uppnå nationella miljökvalitetsmålen i enlighet med bilaga 1, med
 ändring av prioriteringsordning enligt följande;
 
-1. Begränsad klimatpåverkan
-2. Grundvatten av god kvalitet
+1\. Begränsad klimatpåverkan
+2\. Grundvatten av god kvalitet
 
-3. God bebyggd miljö
+3\. God bebyggd miljö
 
 Sammanfattning av ärendet
 
@@ -8146,7 +8146,7 @@ miljöförvaltningen föreslår därför att nämnden för Miljö & Hälsoskydd 
 inriktning och inbördes rangordning avseende behovsprioriterad tillsyn utifrån
 följande miljökvalitetsmål:
 
-1. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka
+1\. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka
 olovlig avfallshantering och motverka dumpning av avfall genom att informera och
 arbeta förebyggande så att Kungsbacka kommun inte blir en kommun där
 systematisk brottslighet inom avfallsområdet tillåts etablera sig. Förvaltningen ska
@@ -8165,14 +8165,14 @@ Nämnden för Miljö & Hälsoskydd
 Datum
 2024-11-07
 
-2. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser
+2\. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser
 som ger information till våra invånare och företag och bidrar till en självreglerande
 utveckling där alla tjänar på att arbeta förbyggande med miljö- och
 hälsoskyddsfrågor. I första hand ska förvaltningen lägga tid på tillsyn och insatser
 som gynnar denna typ av utveckling och där grupper gynnas som inte kan värna sina
 egna rättigheter som barn, unga och äldre i Kungsbacka.
 
-3. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande
+3\. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande
 insatser som säkrar en långsiktig och hållbar dricksvattenförsörjning som bidrar till
 en god livsmiljö för växter och djur i sjöar och i våra vattendrag. Inom tillsynen ska
 förvaltningen prioritera tillsyn inom områden där stora risker finns för utsläpp till
@@ -8191,10 +8191,10 @@ Niclas Nilsson (M) yrkar på att ändra rangordningen av föreslagna prioriterad
 områden, där punkt 2. God bebyggd miljö och punkt 3. Grundvatten av god kvalitet
 byter plats enligt följande;
 
-1. Begränsad klimatpåverkan
-2. Grundvatten av god kvalitet
+1\. Begränsad klimatpåverkan
+2\. Grundvatten av god kvalitet
 
-3. God bebyggd miljö
+3\. God bebyggd miljö
 
 Beslutsgång
 
@@ -8452,10 +8452,10 @@ Intern kontrollplan 2026
 
 Tre kommunövergripande obligatoriska risker inom området informationssäkerhet, administration, inköp
 granskas tas till plan för granskning 2026. Det är riskerna:
-1. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
+1\. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
 avtalsuppföljning
-2. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
-3. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
+2\. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
+3\. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
 beredskapsarbetet
 
 Jämfört med 2025 har antalet risker till plan minskat från fyra till tre.För samtliga risker som tas med i
@@ -8679,7 +8679,7 @@ risk ej tas till plan
 Personal       Risk att                        3. Kännbar Risken hanteras
 förvaltningen                (uppfattas som inom ramen för
 saknar personal              besvärande för verksamhets-
-2. Mindre vanligt
+2\. Mindre vanligt
 med                               berörda planering och
 rätt/tillräcklig             intressenter och kompetens-
 kompetens                      kommunen) försörjning.
@@ -8764,10 +8764,10 @@ Intern kontrollplan 2026
 Tre kommunövergripande obligatoriska risker inom området informationssäkerhet, administration, inköp tas
 till plan för granskning 2026. Det är riskerna:
 
-1. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
+1\. Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupphandling respektive
 avtalsuppföljning
-2. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
-3. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
+2\. Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet
+3\. Kommunövergripande risk: Förvaltningarnas arbete med att följa och utveckla det systematiska
 beredskapsarbetet
 Självskattning för 2026 planeras att genomföras under våren 2026. Självskattningen genomförs i
 förvaltningens ledningsgrupp.

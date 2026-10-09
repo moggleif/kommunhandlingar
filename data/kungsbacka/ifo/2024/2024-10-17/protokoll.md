@@ -452,7 +452,7 @@ Beslut
 
 Nämnden för Individ & familjeomsorg fastställer taxor och avgifter för 2025, enligt
 följande: De nya nivåerna är direkt kopplade till höjningen av prisbasbeloppet för
-2025. Taxor och avgifterna fastställs enligt följande:
+2025\. Taxor och avgifterna fastställs enligt följande:
 
 • Förbehållsbelopp, ensamstående             7 247 kr/månad
 • Förbehållsbelopp, gifta/sammanboende       5 912 kr/månad

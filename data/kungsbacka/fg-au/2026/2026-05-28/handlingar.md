@@ -623,10 +623,10 @@ m n k r (2 0 2 7 – 2 0 2 8 )
 -3 6 ,8 m n k r (2 0 2 8 )
 5 6 9 m n k r (2 0 2 8 ), 2 0 0
 m n k r/å r (2 0 2 6 – 2 0 2 8 )
-+ 1 m d k r (2 0 2 6 ), + 1 ,5
+\+ 1 m d k r (2 0 2 6 ), + 1 ,5
 m d k r (2 0 2 7 )
-+ 2 0 0 m n k r (2 0 2 6 )
-+ 1 ,8 m d k r (2 0 2 6 ), -1 ,8
+\+ 2 0 0 m n k r (2 0 2 6 )
+\+ 1 ,8 m d k r (2 0 2 6 ), -1 ,8
 m d k r (2 0 2 7 – 2 0 2 8 )
 3 0 0 m n k r (2 0 2 6 )
 5 5 0 m n k r (2 0 2 7 ), 5 0 0
@@ -809,7 +809,7 @@ Presentation elev- och vårdnadshavarenkät grundskola och anpassad grundskola 2
 
 Beslutet skickas till
 
--
+\-
 
 Beskrivning av ärendet
 
@@ -920,7 +920,7 @@ svarsfrekvens om 70%. I anpassad grundskola (ämnesområden) var det 19 elever a
 på enkäten, vilket ger en svarsfrekvens om 38%.
 Frågeområden med högt utfall både för de elever som läser ämnen och de elever som läser
 ämnesområden är Skolskjuts, Trivsel och trygghet och Maten. Inga frågeområden får lägre än index
-70. I en av frågorna som handlar om undervisningen (ämnen) svarar 37 procent att de tycker att
+70\. I en av frågorna som handlar om undervisningen (ämnen) svarar 37 procent att de tycker att
 
 undervisningen är för lätt och 21 procent att de tycker undervisningen är för svår.
 

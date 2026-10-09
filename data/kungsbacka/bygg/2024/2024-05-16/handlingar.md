@@ -117,7 +117,7 @@ klagomål, remisser, information och rådgivning, samt överklaganden har ökat 
 eller ingen alls inom dessa ärenden. Prövningsärenden inom livsmedel och servering har ökat medan vi ser en
 minskning för inkomna prövningsärenden inom miljöbalken.
 Kommunerna ska bedriva tillsyn så att förorenade områden med mycket stor risk eller stor risk (riskklass 1 och
-2) är åtgärdade innan 2050. Nämndens egeninitierade tillsyn av förorenade områden är väl i fas med tidplanen.
+2\) är åtgärdade innan 2050. Nämndens egeninitierade tillsyn av förorenade områden är väl i fas med tidplanen.
 Även tillsynen gentemot illegal avfallshantering har påbörjats enligt strategin för miljöbalkstillsynen där syftet
 med projektet är att minska välfärdsbrottsligheten.
 
@@ -171,7 +171,7 @@ Förvaltningen fortsätter att driva frågan om behovet av ett kommunövergripan
 sammanhållen digital samhällsbyggnadsprocess. Frågan är uppe på agendan både i Forum samhällsbyggnad och
 i samhällsbyggnadsledningen.
 Beslut har tagits för fortsatt arbete med att digitalisera detaljplaner efter det pilotprojekt som startade under
-2023. Detta arbete är första steget mot en mer sammanhållen digital samhällsbyggnadsprocess.
+2023\. Detta arbete är första steget mot en mer sammanhållen digital samhällsbyggnadsprocess.
 Verksamheten har varit en del i den kommungemensamma politikerutbildning som genomförts. Fokus i detta
 skede var innovation och nya arbetssätt inom samhällsbyggnadsprocessen.
 

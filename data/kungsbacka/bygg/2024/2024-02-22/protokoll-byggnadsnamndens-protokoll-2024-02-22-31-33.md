@@ -133,16 +133,16 @@ Sammanfattning av ärendet
 Bygg- och miljöförvaltningen har upprättat årsredovisning för 2023. I
 årsredovisningen ingår årlig uppföljning av det systematiska arbetsmiljöarbetet samt
 hållbarhetsbokslut. I sin helhet innehåller årsredovisningen:
-* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
+\* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
 påverkat oss
 
-* Uppföljning av mål och direktiv
-* Uppföljning av verksamhetsmått
+\* Uppföljning av mål och direktiv
+\* Uppföljning av verksamhetsmått
 
-* Uppföljning av personalområdet inklusive systematiskt arbetsmiljöarbete
+\* Uppföljning av personalområdet inklusive systematiskt arbetsmiljöarbete
 
-* Uppföljning av ekonomi
-* Hållbarhetsbokslut
+\* Uppföljning av ekonomi
+\* Hållbarhetsbokslut
 
 Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2023,
 +1,9 miljoner kronor.
@@ -192,12 +192,12 @@ Bygg- och miljöförvaltningen har upprättat förslag till ombudget och resulta
 Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2023 på
 1 870 000 kronor. Nämnden begär följande resultatdisponering:
 
-* Kvarvarande budget för internränta, 6 000 kronor, återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 6 000 kronor, återredovisas enligt kommunens
 Ekonomistyrprinciper.
-* Avsatt projektbudget för kartutveckling som inte kunnat genomföras på 827 000
+\* Avsatt projektbudget för kartutveckling som inte kunnat genomföras på 827 000
 
 kronor ombudgeteras till 2024.
-* Resterande överskott, 1 037 000 kronor, förs till nämndens resultatfond.
+\* Resterande överskott, 1 037 000 kronor, förs till nämndens resultatfond.
 
 Beslutsunderlag
 Byggnadsnämndens arbetsutskott 2024-02-01 § 4

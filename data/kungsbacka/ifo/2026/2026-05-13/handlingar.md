@@ -2022,13 +2022,13 @@ närstående.
 Om det är nödvändigt med Om det är nödvändigt med
 hänsyn till ändamålet med vård hänsyn till barnets bästa får so-
 enligt denna lag, får socialnämnden cialnämnden besluta att begränsa
-1. besluta hur den unges um- eller på annat sätt reglera hur ett
+1\. besluta hur den unges um- eller på annat sätt reglera hur ett
 gänge med vårdnadshavare och med barns umgänge med föräldrar,
 föräldrar som har umgängesrätt re- vårdnadshavare, syskon eller andra
 glerad genom dom eller beslut av närstående ska utövas.
 domstol eller genom avtal ska ut-
 övas, eller
-2. besluta att den unges vis-
+2\. besluta att den unges vis-
 telseort inte ska röjas för föräldrar
 eller vårdnadshavare.
 Socialnämnden ska minst en Om det är nödvändigt med
@@ -2305,29 +2305,29 @@ underställts förvaltningsrätten.
 41 §
 Socialnämndens beslut får överklagas till allmän förvaltnings-
 domstol, när nämnden har
-1. beslutat om var vården av 1. beslutat om var barnet eller
+1\. beslutat om var vården av 1. beslutat om var barnet eller
 den unge ska inledas eller beslutat den unge ska placeras,
 i fråga om att flytta den unge från
 det hem där han eller hon vistas,
-2. beslutat i fråga om fortsatt 2. beslutat enligt 21 § i fråga
+2\. beslutat i fråga om fortsatt 2. beslutat enligt 21 § i fråga
 vård med stöd av lagen, om omhändertagandets upphör-
 ande, om beslutet inte är sådant
 som ska underställas förvaltnings-
 rätten enligt 13 § andra stycket,
-3. med stöd av 14 § beslutat i 3. med stöd av 14 § beslutat i
+3\. med stöd av 14 § beslutat i 3. med stöd av 14 § beslutat i
 fråga om umgänge eller beslutat fråga om umgänge eller beslutat
 att den unges vistelseort inte ska att barnets vistelseort inte ska röjas,
 
 röjas,
-4. fattat beslut enligt 22 § eller prövat om ett sådant beslut ska
+4\. fattat beslut enligt 22 § eller prövat om ett sådant beslut ska
 upphöra att gälla,
-5. med stöd av 31 § beslutat i fråga om umgänge,
-6. beslutat i fråga om fortsatt flyttningsförbud,
-7. beslutat i fråga om upphörande av ett fortsatt omhändertag-
+5\. med stöd av 31 § beslutat i fråga om umgänge,
+6\. beslutat i fråga om fortsatt flyttningsförbud,
+7\. beslutat i fråga om upphörande av ett fortsatt omhändertag-
 ande för tillfällig vård,
-8. beslutat i fråga om fortsatt 8. beslutat i fråga om fortsatt
+8\. beslutat i fråga om fortsatt 8. beslutat i fråga om fortsatt
 utreseförbud, eller   utreseförbud,
-9. beslutat i fråga om tillfälligt 9. beslutat i fråga om tillfälligt
+9\. beslutat i fråga om tillfälligt 9. beslutat i fråga om tillfälligt
 undantag från ett utreseförbud. undantag från ett utreseförbud,
 eller
 
@@ -2337,7 +2337,7 @@ eller
 
 Författningsförslag                        SOU 2026:8
 
-10. beslutat enligt 32 a eller
+10\. beslutat enligt 32 a eller
 32 b § om att en vårdnadshavare
 
 eller en förälder ska lämna blod-,
@@ -2370,12 +2370,12 @@ nas ut sådana uppgifter som be-
 hövs för en sakkunnigs uppdrag
 enligt denna lag.
 
-1. Denna lag träder i kraft den 1 januari 2028 avseende 6 b, 35, 46
+1\. Denna lag träder i kraft den 1 januari 2028 avseende 6 b, 35, 46
 och 47 §§ och i övrigt den 1 januari 2027.
-2. Bestämmelsen i 40 a § och i 7 § i den nya lydelsen gäller för
+2\. Bestämmelsen i 40 a § och i 7 § i den nya lydelsen gäller för
 beslut om omedelbart omhändertagande som fattas från och med
 ikraftträdandet.
-3. Bestämmelsen i 5 § LVU i den nya lydelsen gäller för rättens
+3\. Bestämmelsen i 5 § LVU i den nya lydelsen gäller för rättens
 beslut om vård som fattas från och med ikraftträdandet.
 
 52
@@ -2394,14 +2394,14 @@ Nuvarande lydelse     Föreslagen lydelse
 
 4 §
 Vad som sägs i 3 § gäller inte
-1. besök av personer för vilka 1. inskränkningar i den intag-
+1\. besök av personer för vilka 1. inskränkningar i den intag-
 14 § andra stycket 1 lagen (1990:52) nes rätt när 5 kap. 12 § smittskydds-
 med särskilda bestämmelser om vård lagen (2004:168) är tillämplig, och
 av unga är tillämplig,
-2. inskränkningar i den intag- 2. när 8 § andra stycket lagen
+2\. inskränkningar i den intag- 2. när 8 § andra stycket lagen
 nes rätt när 5 kap. 12 § smittskydds- (1991:1129) om rättspsykiatrisk
 lagen (2004:168) är tillämplig, och vård är tillämpligt.
-3. när 8 § andra stycket lagen
+3\. när 8 § andra stycket lagen
 (1991:1129) om rättspsykiatrisk
 vård är tillämpligt.
 Vad som sägs i 3 § om restrik-
@@ -2596,11 +2596,11 @@ Nuvarande lydelse     Föreslagen lydelse
 En vårdplan enligt 9 kap. 12 § första stycket socialtjänstlagen
 (2025:400) ska, om det inte finns särskilda skäl mot det, innehålla en
 redogörelse för
-1. de särskilda insatser som behövs,
-2. det sätt på vilket barnets eller den unges umgänge med för-
+1\. de särskilda insatser som behövs,
+2\. det sätt på vilket barnets eller den unges umgänge med för-
 äldrar, vårdnadshavare, syskon och andra närstående ska ordnas,
-3. målet med vården, och
-4. den vårdbehövandes och, i fråga om barn, även hans eller hennes
+3\. målet med vården, och
+4\. den vårdbehövandes och, i fråga om barn, även hans eller hennes
 vårdnadshavares syn på den planerade vården.
 En vårdplan som gäller barn ska
 även, om det inte möter särskilt
@@ -5526,13 +5526,13 @@ underlaget ska det enligt Socialstyrelsens föreskrifter framgå
 
 Ska åklagare kunna fatta beslut om omedelbart omhändertagande? SOU 2026:8
 
-1. vad ärendet gäller,
+1\. vad ärendet gäller,
 
-2. vem eller vilka personer ärendet avser,
-3. vilka överväganden som ligger till grund för nämndens förslag
+2\. vem eller vilka personer ärendet avser,
+3\. vilka överväganden som ligger till grund för nämndens förslag
 till beslut och
 
-4. uppgifter om målet eller målen för den insats som föreslås.9
+4\. uppgifter om målet eller målen för den insats som föreslås.9
 
 Det finns inget absolut krav på att ett beslut om omedelbart omhän-
 dertagande ska ske i skriftlig form. JO har emellertid understrukit
@@ -5542,14 +5542,14 @@ snart som möjligt bör dokumenteras och skrivas under.10 Dokumen-
 tationen av ett muntligt beslut ska enligt Socialstyrelsens föreskrifter
 innehålla uppgifter om
 
-1. dagen för beslutet,
-2. vad beslutet innehåller,
+1\. dagen för beslutet,
+2\. vad beslutet innehåller,
 
-3. vem (namn samt befattning eller titel) eller vilka (vilken nämnd)
+3\. vem (namn samt befattning eller titel) eller vilka (vilken nämnd)
 som har fattat beslutet,
-4. vilket lagrum som ligger till grund för beslutet, och
+4\. vilket lagrum som ligger till grund för beslutet, och
 
-5. vilka skäl som ligger till grund för beslutet.11
+5\. vilka skäl som ligger till grund för beslutet.11
 
 När en socialnämnd har ansökt om vård med stöd av 2 eller 3 § LVU
 har även den förvaltningsrätt som hanterar ansökan möjlighet att
@@ -8899,18 +8899,18 @@ för vård enligt LVU. Enligt våra förslag ska förutsättningarna för ett
 omhändertagande vara samlade i en bestämmelse med följande lydelse
 
 Ett barn ska omhändertas för vård om
-1. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas
+1\. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas
 på grund av sådana förhållanden i hemmet som anges i 2 § eller sådana
 beteenden som anges i 3 §,
-2. den planerade vården är nödvändig och till barnets bästa, och
-3. det kan antas att denna vård inte kan ges med samtycke av barnets
+2\. den planerade vården är nödvändig och till barnets bästa, och
+3\. det kan antas att denna vård inte kan ges med samtycke av barnets
 vårdnadshavare och, om barnet har fyllt 15 år, av barnet själv.
 En ung person som inte har fyllt 20 år får omhändertas för vård om
-1. det finns en påtaglig risk för att den unges hälsa eller utveckling
+1\. det finns en påtaglig risk för att den unges hälsa eller utveckling
 skadas på grund av sådana beteenden som anges i 3 §,
-2. den planerade vården är nödvändig, lämpligare än någon annan
+2\. den planerade vården är nödvändig, lämpligare än någon annan
 vård och till den unges bästa, och
-3. det kan antas att denna vård inte kan ges med den unges samtycke.
+3\. det kan antas att denna vård inte kan ges med den unges samtycke.
 Den 1 december 2025 presenterades ett utkast till lagrådsremiss där
 det lämnas förslag på en ny lagstiftning som ska ersätta nuvarande
 LVU. I förslaget till ny lag är grunderna för vård, med vissa redak-
@@ -9170,10 +9170,10 @@ Psykiatrisk tvångsvård får enligt 3 § LPT ges om en patient lider av
 en allvarlig psykisk störning och på grund av sitt psykiska tillstånd
 och sina personliga förhållanden i övrigt
 
-1. har ett oundgängligt behov av psykiatrisk vård, som inte kan till-
+1\. har ett oundgängligt behov av psykiatrisk vård, som inte kan till-
 godoses på annat sätt än genom att patienten är intagen på en sjuk-
 vårdsinrättning för kvalificerad psykiatrisk dygnetruntvård, eller
-2. behöver iaktta särskilda villkor för att kunna ges nödvändig psyki-
+2\. behöver iaktta särskilda villkor för att kunna ges nödvändig psyki-
 atrisk vård.
 
 En förutsättning för tvångsvård enligt LPT är att vården inte kan ges
@@ -9204,13 +9204,13 @@ Tvångsvård på grund av missbruk (LVM)
 
 Tvångsvård enligt ska enligt 4 § LVM beslutas om
 
-1. någon till följd av ett fortgående missbruk av alkohol, narkotika
+1\. någon till följd av ett fortgående missbruk av alkohol, narkotika
 eller flyktiga lösningsmedel är i behov av vård för att komma ifrån
 sitt missbruk,
-2. vårdbehovet inte kan tillgodoses enligt socialtjänstlagen (2025:400)
+2\. vårdbehovet inte kan tillgodoses enligt socialtjänstlagen (2025:400)
 eller på något annat sätt, och
 
-3. han eller hon till följd av missbruket
+3\. han eller hon till följd av missbruket
 a) utsätter sin fysiska eller psykiska hälsa för allvarlig fara,
 
 b) löper en uppenbar risk att förstöra sitt liv, eller
@@ -9542,13 +9542,13 @@ och insatser som andra huvudmän har ansvar för (9 kap. 12 § social-
 tjänstlagen).
 Om det inte möter särskilda hinder ska vårdplanen, enligt 5 kap.
 1 a § socialtjänstförordningen, beskriva
-1. de särskilda insatser som behövs,
+1\. de särskilda insatser som behövs,
 
-2. det sätt på vilket den unges umgänge med föräldrar, vårdnads-
+2\. det sätt på vilket den unges umgänge med föräldrar, vårdnads-
 havare och andra närstående ska ordnas,
-3. målet med vården, och
+3\. målet med vården, och
 
-4. den vårdbehövandes och, i fråga om barn, även vårdnadshavares
+4\. den vårdbehövandes och, i fråga om barn, även vårdnadshavares
 syn på den planerade vården.
 
 Planen ska så långt möjligt upprättas i samråd med vårdnadshavarna
@@ -9599,18 +9599,18 @@ beskriver hur det ska gå till.53
 En genomförandeplan ska, om det inte möter särskilda hinder,
 beskriva
 
-1. målet med de särskilda insatser som behövs,
-2. när och hur de särskilda insatserna ska genomföras,
+1\. målet med de särskilda insatser som behövs,
+2\. när och hur de särskilda insatserna ska genomföras,
 
-3. när och hur genomförandeplanen ska följas upp,
-4. när och hur den unge ska kunna tillgodogöra sig åtgärder och
+3\. när och hur genomförandeplanen ska följas upp,
+4\. när och hur den unge ska kunna tillgodogöra sig åtgärder och
 insatser som andra huvudmän än socialnämnden ansvarar för,
 
-5. när och hur den unges umgänge med föräldrar, vårdnadshavare
+5\. när och hur den unges umgänge med föräldrar, vårdnadshavare
 och andra närstående ska ordnas
 
-6. när och hur den unge ska ha kontakt med socialnämnden, och
-7. den unges och, i fråga om barn, hans eller hennes vårdnadshavares
+6\. när och hur den unge ska ha kontakt med socialnämnden, och
+7\. den unges och, i fråga om barn, hans eller hennes vårdnadshavares
 syn på genomförandet av den planerade vården.
 
 En socialnämnd ska verka för att ett barn eller en ung person som
@@ -10495,8 +10495,8 @@ Omhändertagandet upphör.
 OCH TILL BARNETS BÄSTA?
 Är den vård barnet får, exempelvis placering i familjehem, nödvändig?
 Detta innebär att:
-1. det till följd av risken för skada finns ett behov av den aktuella vården, och
-2. att vårdbehovet inte kan tillgodoses på något mindre ingripande sätt,
+1\. det till följd av risken för skada finns ett behov av den aktuella vården, och
+2\. att vårdbehovet inte kan tillgodoses på något mindre ingripande sätt,
 såsom genom stödinsatser i det egna hemmet.
 Är den nödvändiga vården till barnets bästa?
 Bedömningen ska göras om barnets behov av skydd och vård överväger de
@@ -10536,10 +10536,10 @@ Omhändertagandet upphör.
 OCH TILL BARNETS BÄSTA?
 Är vården, exempelvis placering i HVB och viss behandling, nödvändig?
 Detta innebär att:
-1. det till följd av risken för skada finns ett vårdbehov som kan tillgodoses
+1\. det till följd av risken för skada finns ett vårdbehov som kan tillgodoses
 inom ramen för socialtjänstens ansvar för barn och unga och inte enbart
 behov av vård som andra huvudmän ansvarar för, och
-2. att vårdbehovet inte kan tillgodoses på något mindre ingripande sätt,
+2\. att vårdbehovet inte kan tillgodoses på något mindre ingripande sätt,
 såsom genom stödinsatser i det egna hemmet.
 Är den nödvändiga vården till barnets bästa?
 Bedömningen ska göras om behovet av vård överväger de eventuella
@@ -12313,16 +12313,16 @@ har varit möjligt att komma överens med barnet och dess föräldrar
 eller andra barnet närstående personer om kontakterna. Dessutom
 ska någon av följande förutsättningar vara uppfyllda:
 
-1. kontakten äventyrar uppnåendet av syftet med vården av barnet
+1\. kontakten äventyrar uppnåendet av syftet med vården av barnet
 utom hemmet och en begränsning är nödvändig med tanke på
 barnets vård och fostran, eller
-2. kontakten är till fara för barnets liv, hälsa, utveckling eller säker-
+2\. kontakten är till fara för barnets liv, hälsa, utveckling eller säker-
 het, eller
 
-3. en begränsning är nödvändig för föräldrarnas eller familjens övriga
+3\. en begränsning är nödvändig för föräldrarnas eller familjens övriga
 barns säkerhet, säkerheten för de andra barnen i familjehemmet
 eller anstalten eller personalens säkerhet, eller
-4. ett barn som fyllt 12 år motsätter sig kontakten. Detsamma gäller
+4\. ett barn som fyllt 12 år motsätter sig kontakten. Detsamma gäller
 ett barn som är yngre än 12 år, om barnet är så utvecklat att hans
 eller hennes vilja kan beaktas.
 
@@ -18840,7 +18840,7 @@ den 1 januari 2028 avseende 6 a, 35, 46 och 47 §§ och i övrigt den
 1 januari 2027. Ändringarna i lagen om besöksinskränkningar vid
 viss tvångsvård ska träda i kraft den 1 januari 2027. Ändringarna
 i offentlighets- och sekretesslagen ska träda i kraft den 1 januari
-2028. Ändringarna i socialtjänstlagen ska träda i kraft den 1 janu-
+2028\. Ändringarna i socialtjänstlagen ska träda i kraft den 1 janu-
 ari 2028 avseende 22 kap. 12 a § och i övrigt den 1 januari 2027.
 Ändringarna i socialtjänstförordningen ska träda i kraft den 1 janu-
 ari 2028 avseende 19 kap. 1 och 2 §§ och i övrigt den 1 januari 2027.
@@ -20424,21 +20424,21 @@ förvaltningsrätten ska parterna också underrättas om beslutet.
 
 Socialnämndens beslut får överklagas till allmän förvaltningsdomstol, när
 nämnden har
-1. beslutat om var barnet eller den unge ska placeras,
-2. beslutat enligt 21 § i fråga om omhändertagandets upphörande, om be-
+1\. beslutat om var barnet eller den unge ska placeras,
+2\. beslutat enligt 21 § i fråga om omhändertagandets upphörande, om be-
 slutet inte är sådant som ska underställas förvaltningsrätten enligt 13 § andra
 stycket,
-3. med stöd av 14 § beslutat i fråga om umgänge eller beslutat att barnets
+3\. med stöd av 14 § beslutat i fråga om umgänge eller beslutat att barnets
 vistelseort inte ska röjas,
-4. fattat beslut enligt 22 § eller prövat om ett sådant beslut ska upphöra
+4\. fattat beslut enligt 22 § eller prövat om ett sådant beslut ska upphöra
 att gälla,
-5. med stöd av 31 § beslutat i fråga om umgänge,
-6. beslutat i fråga om fortsatt flyttningsförbud,
-7. beslutat i fråga om upphörande av ett fortsatt omhändertagande för
+5\. med stöd av 31 § beslutat i fråga om umgänge,
+6\. beslutat i fråga om fortsatt flyttningsförbud,
+7\. beslutat i fråga om upphörande av ett fortsatt omhändertagande för
 tillfällig vård,
-8. beslutat i fråga om fortsatt utreseförbud,
-9. beslutat i fråga om tillfälligt undantag från ett utreseförbud, eller
-10. beslutat enligt 32 a eller 32 b § om att en vårdnadshavare eller en för-
+8\. beslutat i fråga om fortsatt utreseförbud,
+9\. beslutat i fråga om tillfälligt undantag från ett utreseförbud, eller
+10\. beslutat enligt 32 a eller 32 b § om att en vårdnadshavare eller en för-
 älder ska lämna blod-, urin-, utandnings-, saliv-, svett- eller hårprov.
 454
 
@@ -20474,9 +20474,9 @@ om besöksinskränkningar vid viss tvångsvård
 4 §
 
 Vad som sägs i 3 § gäller inte
-1. inskränkningar i den intagnes rätt när 5 kap. 12 § smittskyddslagen
+1\. inskränkningar i den intagnes rätt när 5 kap. 12 § smittskyddslagen
 (2004:168) är tillämplig, och
-2. när 8 § andra stycket lagen (1991:1129) om rättspsykiatrisk vård är
+2\. när 8 § andra stycket lagen (1991:1129) om rättspsykiatrisk vård är
 tillämpligt.
 Vad som sägs i 3 § om restriktioner som avser en viss eller vissa besökare
 gäller inte föräldrar, vårdnadshavare, syskon eller andra närstående till ett
@@ -22365,27 +22365,27 @@ Statens offentliga utredningar  2026
 
 Kronologisk förteckning
 
-1. Skatteincitament för forskning och
+1\. Skatteincitament för forskning och
 utveckling – ett nytt incitament baserat
 på utgifter för FoU-personal. Fi.
-2. 710 miljoner skäl till reformer. Ju.
-3. Genomförande av plattformsdirektivet.
+2\. 710 miljoner skäl till reformer. Ju.
+3\. Genomförande av plattformsdirektivet.
 A.
-4. Rektor i fokus – förutsättningar för
+4\. Rektor i fokus – förutsättningar för
 ett pedagogiskt ledarskap. U.
-5. Utvidgad avdragsrätt för sponsring
+5\. Utvidgad avdragsrätt för sponsring
 m.m. Fi.
-6. En nationell digital infrastruktur i
+6\. En nationell digital infrastruktur i
 hälso- och sjukvården. Styrning med
 tydliga roller och ansvar för aktörerna.
 S.
-7. Förstärkt uppföljning och utvärdering
+7\. Förstärkt uppföljning och utvärdering
 av folkhälsopolitiken.
 Del I: Effektivare folkhälsoinsatser
 genom hälsoekonomiska analyser.
 Del II: Utvärdering av alkohol-
 politikens styrmedel. S.
-8. Rättssäker samhällsvård för barn och
+8\. Rättssäker samhällsvård för barn och
 unga. S.
 
 <!-- sida 509 -->
@@ -22438,34 +22438,34 @@ och unga (SOU 2026:8)
 
 Remissinstanser
 
-1. Abbott Toxicology
-2. Ale kommun
+1\. Abbott Toxicology
+2\. Ale kommun
 
-3. Almega Utbildning
-4. Arboga kommun
+3\. Almega Utbildning
+4\. Arboga kommun
 
-5. Autism Sverige
+5\. Autism Sverige
 
-6. Barnens rätt i samhället
-7. Barnläkarföreningen
+6\. Barnens rätt i samhället
+7\. Barnläkarföreningen
 
-8. Barnombudsmannen
+8\. Barnombudsmannen
 
-9. Blekinge tingsrätt
-10. Danderyds kommun
+9\. Blekinge tingsrätt
+10\. Danderyds kommun
 
-11. Domstolsverket
-12. Ekobrottsmyndigheten
+11\. Domstolsverket
+12\. Ekobrottsmyndigheten
 
-13. Familjerättssocionomernas Riksförening
+13\. Familjerättssocionomernas Riksförening
 
-14. Funktionsrätt Sverige
-15. Föreningen Sveriges Socialchefer
+14\. Funktionsrätt Sverige
+15\. Föreningen Sveriges Socialchefer
 
-16. Föreningen Vårdnad Boende Umgänge i Sverige
+16\. Föreningen Vårdnad Boende Umgänge i Sverige
 
-17. Förvaltningsrätten i Linköping
-18. Förvaltningsrätten i Luleå
+17\. Förvaltningsrätten i Linköping
+18\. Förvaltningsrätten i Luleå
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
@@ -22473,137 +22473,137 @@ Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
 
 <!-- sida 511 -->
 
-19. Förvaltningsrätten i Malmö
+19\. Förvaltningsrätten i Malmö
 
-20. Föräldraföreningen Mot Narkotika
-21. Gävle kommun
+20\. Föräldraföreningen Mot Narkotika
+21\. Gävle kommun
 
-22. Göteborgs kommun
-23. Halmstads kommun
+22\. Göteborgs kommun
+23\. Halmstads kommun
 
-24. Helsingborgs kommun
+24\. Helsingborgs kommun
 
-25. Hudiksvalls kommun
-26. Idéburna Skolors Riksförbund
+25\. Hudiksvalls kommun
+26\. Idéburna Skolors Riksförbund
 
-27. Inspektionen för vård och omsorg
+27\. Inspektionen för vård och omsorg
 
-28. Institutet för mänskliga rättigheter
-29. Institutionen för socialt arbete (Stockholms universitet)
+28\. Institutet för mänskliga rättigheter
+29\. Institutionen för socialt arbete (Stockholms universitet)
 
-30. Integritetsskyddsmyndigheten
+30\. Integritetsskyddsmyndigheten
 
-31. Jokkmokks kommun
-32. Jämställdhetsmyndigheten
+31\. Jokkmokks kommun
+32\. Jämställdhetsmyndigheten
 
-33. Kammarrätten i Stockholm
-34. Kammarrätten i Sundsvall
+33\. Kammarrätten i Stockholm
+34\. Kammarrätten i Sundsvall
 
-35. Kiruna kommun
+35\. Kiruna kommun
 
-36. Kriminalvården
-37. Kungsbacka kommun
+36\. Kriminalvården
+37\. Kungsbacka kommun
 
-38. Kävlinge kommun
+38\. Kävlinge kommun
 
-39. Landskrona kommun
-40. Luleå kommun
+39\. Landskrona kommun
+40\. Luleå kommun
 
-41. Lunds kommun
-42. Lunds universitet
+41\. Lunds kommun
+42\. Lunds universitet
 
-43. Lycksele kommun
+43\. Lycksele kommun
 
-44. Malmö kommun
-45. Maskrosbarn
+44\. Malmö kommun
+45\. Maskrosbarn
 
-46. Myndigheten för delaktighet
+46\. Myndigheten för delaktighet
 
-47. Myndigheten för familjerätt och föräldraskapsstöd
-48. Myndigheten för vård- och omsorgsanalys
+47\. Myndigheten för familjerätt och föräldraskapsstöd
+48\. Myndigheten för vård- och omsorgsanalys
 
 2 (5)
 
 <!-- sida 512 -->
 
-49. Nacka kommun
+49\. Nacka kommun
 
-50. Norrköpings tingsrätt
-51. Nybro kommun
+50\. Norrköpings tingsrätt
+51\. Nybro kommun
 
-52. Nykvarns kommun
-53. Polismyndigheten
+52\. Nykvarns kommun
+53\. Polismyndigheten
 
-54. Ragunda kommun
+54\. Ragunda kommun
 
-55. Region Norrbotten
-56. Region Skåne
+55\. Region Norrbotten
+56\. Region Skåne
 
-57. Region Stockholm
+57\. Region Stockholm
 
-58. Region Västerbotten
-59. Region Västra Götaland
+58\. Region Västerbotten
+59\. Region Västra Götaland
 
-60. Region Örebro
+60\. Region Örebro
 
-61. Region Östergötland
-62. Riksdagens ombudsmän
+61\. Region Östergötland
+62\. Riksdagens ombudsmän
 
-63. Riksförbundet Attention
-64. Riksföreningen för skolsköterskor
+63\. Riksförbundet Attention
+64\. Riksföreningen för skolsköterskor
 
-65. Rädda Barnen
+65\. Rädda Barnen
 
-66. Rättsmedicinalverket
-67. Skinnskattebergs kommun
+66\. Rättsmedicinalverket
+67\. Skinnskattebergs kommun
 
-68. Socialstyrelsen
+68\. Socialstyrelsen
 
-69. Socialstyrelsens rättsliga råd
-70. Sollentuna kommun
+69\. Socialstyrelsens rättsliga råd
+70\. Sollentuna kommun
 
-71. Specialpedagogiska skolmyndigheten
-72. Staffanstorps kommun
+71\. Specialpedagogiska skolmyndigheten
+72\. Staffanstorps kommun
 
-73. Statens institutionsstyrelse
+73\. Statens institutionsstyrelse
 
-74. Statens skolinspektion
-75. Statens skolverk
+74\. Statens skolinspektion
+75\. Statens skolverk
 
-76. Stiftelsen Allmänna Barnhuset
+76\. Stiftelsen Allmänna Barnhuset
 
-77. Stockholms kommun
-78. Svenska Drogtester AB
+77\. Stockholms kommun
+78\. Svenska Drogtester AB
 
 3 (5)
 
 <!-- sida 513 -->
 
-79. Svenska Föreningen för Barn- och Ungdomspsykiatri
+79\. Svenska Föreningen för Barn- och Ungdomspsykiatri
 
-80. Svenska Psykiatriska föreningen
-81. Svenska Skolläkarföreningen
+80\. Svenska Psykiatriska föreningen
+81\. Svenska Skolläkarföreningen
 
-82. Sveriges advokatsamfund
-83. Sveriges Kommuner och Regioner
+82\. Sveriges advokatsamfund
+83\. Sveriges Kommuner och Regioner
 
-84. Sveriges läkarförbund
+84\. Sveriges läkarförbund
 
-85. Sveriges Lärare
-86. Sveriges Makalösa Föräldrar
+85\. Sveriges Lärare
+86\. Sveriges Makalösa Föräldrar
 
-87. Sveriges Psykologförbund
+87\. Sveriges Psykologförbund
 
-88. Sveriges Skolkuratorers Förening
-89. Sundsvalls kommun
+88\. Sveriges Skolkuratorers Förening
+89\. Sundsvalls kommun
 
-90. Umeå kommun
+90\. Umeå kommun
 
-91. Vellinge kommun
-92. Växjö kommun
+91\. Vellinge kommun
+92\. Växjö kommun
 
-93. Åklagarmyndigheten
-94. Åsele kommun
+93\. Åklagarmyndigheten
+94\. Åsele kommun
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 10
 augusti 2026. Svaren bör lämnas per e-post till
@@ -22837,85 +22837,85 @@ SOCIALSTYRELSEN                   2026-03-16                  3(4)
 
 Sändlista
 
-1. Akademikerförbundet SSR
-2. Aleris
-3. Anhörigas riksförbund
-4. Arboga kommun
-5. Arbetsmiljöverket
-6. Attendo
-7. Autism Sverige
-8. Barnombudsmannen
-9. Bollnäs kommun
-10. Boverket
-11. Bräcke kommun
-12. Capio
-13. Cedergruppen
-14. Civil rights defenders
-15. Ersta diakoni
-16. Famna
+1\. Akademikerförbundet SSR
+2\. Aleris
+3\. Anhörigas riksförbund
+4\. Arboga kommun
+5\. Arbetsmiljöverket
+6\. Attendo
+7\. Autism Sverige
+8\. Barnombudsmannen
+9\. Bollnäs kommun
+10\. Boverket
+11\. Bräcke kommun
+12\. Capio
+13\. Cedergruppen
+14\. Civil rights defenders
+15\. Ersta diakoni
+16\. Famna
 
-17. Fremia
-18. Frösunda omsorg
-19. Funktionsrätt Sverige
-20. Grums kommun
-21. Grästorps kommun
-22. Gävle kommun
-23. Göteborgs kommun
-24. Herrljunga kommun
-25. Hjärnkraft
-26. Humana
-27. Inspektionen för vård och omsorg
-28. Institutet för mänskliga rättigheter
-29. Jokkmokks kommun
-30. Kalmar kommun
-31. Karlstads kommun
-32. Kommunal
-33. Kungsbacka kommun
-34. Landskrona kommun
-35. Lidingö kommun
-36. Ljungby kommun
-37. Malmö kommun
-38. Mariestads kommun
-39. Myndigheten för delaktighet
-40. Myndigheten för civilt försvar
-41. Myndigheten för vård- och omsorgsanalys
-42. Myndigheten för yrkeshögskolan
-43. Nationellt kompetenscenter anhöriga
-44. Neuroförbundet
-45. Norrköpings kommun
+17\. Fremia
+18\. Frösunda omsorg
+19\. Funktionsrätt Sverige
+20\. Grums kommun
+21\. Grästorps kommun
+22\. Gävle kommun
+23\. Göteborgs kommun
+24\. Herrljunga kommun
+25\. Hjärnkraft
+26\. Humana
+27\. Inspektionen för vård och omsorg
+28\. Institutet för mänskliga rättigheter
+29\. Jokkmokks kommun
+30\. Kalmar kommun
+31\. Karlstads kommun
+32\. Kommunal
+33\. Kungsbacka kommun
+34\. Landskrona kommun
+35\. Lidingö kommun
+36\. Ljungby kommun
+37\. Malmö kommun
+38\. Mariestads kommun
+39\. Myndigheten för delaktighet
+40\. Myndigheten för civilt försvar
+41\. Myndigheten för vård- och omsorgsanalys
+42\. Myndigheten för yrkeshögskolan
+43\. Nationellt kompetenscenter anhöriga
+44\. Neuroförbundet
+45\. Norrköpings kommun
 
 <!-- sida 521 -->
 
 SOCIALSTYRELSEN                   2026-03-16                  4(4)
 
-46. Nytida
-47. Nässjö kommun
-48. Oskarshamns kommun
-49. Orsa kommun
-50. Orusts kommun
-51. Patia
-52. Personskadeförbundet RTP
-53. Polismyndigheten
-54. Regelrådet
-55. Region Uppsala
-56. Riksförbundet attention
-57. Riksförbundet FUB
-58. Riksförbundet för rörelsehindrade barn och ungdomar
-59. Riksförbundet Sällsynta diagnoser
-60. SKPF pensionärerna
-61. Skåningegård omsorg
-62. Storumans kommun
-63. Sundbybergs kommun
-64. Surahammars kommun
-65. Svenska Downföreningen
-66. Sveriges Kommuner och Regioner
-67. Töreboda kommun
-68. Vårdföretagarna
-69. Växjö kommun
-70. Åmåls kommun
-71. Ånge kommun
-72. Älvkarleby kommun
-73. Överkalix kommun
+46\. Nytida
+47\. Nässjö kommun
+48\. Oskarshamns kommun
+49\. Orsa kommun
+50\. Orusts kommun
+51\. Patia
+52\. Personskadeförbundet RTP
+53\. Polismyndigheten
+54\. Regelrådet
+55\. Region Uppsala
+56\. Riksförbundet attention
+57\. Riksförbundet FUB
+58\. Riksförbundet för rörelsehindrade barn och ungdomar
+59\. Riksförbundet Sällsynta diagnoser
+60\. SKPF pensionärerna
+61\. Skåningegård omsorg
+62\. Storumans kommun
+63\. Sundbybergs kommun
+64\. Surahammars kommun
+65\. Svenska Downföreningen
+66\. Sveriges Kommuner och Regioner
+67\. Töreboda kommun
+68\. Vårdföretagarna
+69\. Växjö kommun
+70\. Åmåls kommun
+71\. Ånge kommun
+72\. Älvkarleby kommun
+73\. Överkalix kommun
 
 <!-- sida 522 -->
 
@@ -23040,10 +23040,10 @@ och mognad finns i 8 § LSS.
 
 3 § Den som förestår verksamheten ska se till att varje barn och
 ungdom
-1. får individanpassat kommunikativt och kognitivt stöd,
-2. får information om genomförandet av insatsen,
-3. uppmuntras att framföra sina åsikter, och
-4. uppmuntras att utöva sitt inflytande och medbestämmande.
+1\. får individanpassat kommunikativt och kognitivt stöd,
+2\. får information om genomförandet av insatsen,
+3\. uppmuntras att framföra sina åsikter, och
+4\. uppmuntras att utöva sitt inflytande och medbestämmande.
 
 4 § När insatsen gäller ett barn, ska den som förestår verksamheten
 se till att personalen regelbundet har kontakt med barnets
@@ -23064,15 +23064,15 @@ Omvårdnad
 Vad som ingår i omvårdnaden
 5 § För det barn eller den ungdom som behöver det, ska
 omvårdnaden omfatta stöd och hjälp med att
-1. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
-2. äta, dricka och förflytta sig,
-3. sköta personlig hygien och klä sig,
-4. kommunicera,
-5. göra läxor, leka och ägna sig åt intressen,
-6. vara delaktig i vardagliga göromål,
-7. vara med i sociala sammanhang,
-8. upprätthålla kontakt med föräldrar, övrig familj och vänner, och
-9. planera sin framtid.
+1\. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
+2\. äta, dricka och förflytta sig,
+3\. sköta personlig hygien och klä sig,
+4\. kommunicera,
+5\. göra läxor, leka och ägna sig åt intressen,
+6\. vara delaktig i vardagliga göromål,
+7\. vara med i sociala sammanhang,
+8\. upprätthålla kontakt med föräldrar, övrig familj och vänner, och
+9\. planera sin framtid.
 Planering av omvårdnaden
 
 6 § Den som förestår verksamheten ska se till att omvårdnaden i
@@ -23087,11 +23087,11 @@ neringen, ska skälen till detta dokumenteras.
 Utformning av omvårdnaden
 7 § Omvårdnaden ska kontinuerligt anpassas så att den svarar mot
 varje barns eller ungdoms behov och aktuella situation och ges
-1. med respekt för barnets eller ungdomens fysiska och psykiska
+1\. med respekt för barnets eller ungdomens fysiska och psykiska
 integritet,
-2. så att barnet eller ungdomen kan utvecklas fysiskt, psykiskt och
+2\. så att barnet eller ungdomen kan utvecklas fysiskt, psykiskt och
 socialt, och
-3. så att barnet eller ungdomen kan känna sig trygg.
+3\. så att barnet eller ungdomen kan känna sig trygg.
 Omvårdnaden ska också bidra till att barnets eller ungdomens
 självkänsla och tilltro till den egna förmågan stärks.
 
@@ -23186,13 +23186,13 @@ ungdomar minst bör ha.
 
 2 § I en bostad med särskild service för barn eller ungdomar enligt
 9 § 8 LSS ska personalen ha kunskaper om
-4. verksamhetens mål och arbetssätt,
-5. konsekvenserna av de funktionsnedsättningar som barnen och
+4\. verksamhetens mål och arbetssätt,
+5\. konsekvenserna av de funktionsnedsättningar som barnen och
 ungdomarna har,
-6. barns och ungdomars utveckling samt fysiska, psykiska och
+6\. barns och ungdomars utveckling samt fysiska, psykiska och
 sociala behov,
-7. etiskt förhållningssätt och respektfullt bemötande, och
-8. hur utmanande beteende kan förebyggas.
+7\. etiskt förhållningssätt och respektfullt bemötande, och
+8\. hur utmanande beteende kan förebyggas.
 3 § I 3 § förordningen (1993:1090) om stöd och service till vissa
 funktionshindrade anges att det ska finnas en person med lämplig
 utbildning som förestår verksamheten samt den personal som i
@@ -23210,10 +23210,10 @@ Den som förestår verksamheten
 kompetens som behövs för att kunna leda, utveckla och följa upp
 verksamheten.
 Den som förestår verksamheten ska även ha
-1. en högskoleutbildning som är relevant för verksamheten,
-2. erfarenhet av liknande verksamhet eller arbete med målgruppen,
+1\. en högskoleutbildning som är relevant för verksamheten,
+2\. erfarenhet av liknande verksamhet eller arbete med målgruppen,
 och
-3. personlig lämplighet.
+3\. personlig lämplighet.
 Allmänna råd
 
 Högskoleutbildningen bör omfatta minst 180 högskolepoäng.
@@ -23271,8 +23271,8 @@ tillförsäkras goda levnadsvillkor.
 10 § Den som bedriver verksamheten ska säkerställa att det finns
 tillräckligt med personal för att tillgodose varje barns och ungdoms
 behov av
-1. omvårdnad, trygghet och säkerhet dygnet runt, och
-2. fritids- och kulturaktiviteter.
+1\. omvårdnad, trygghet och säkerhet dygnet runt, och
+2\. fritids- och kulturaktiviteter.
 
 6 kap. Uppföljning och avslut av insats
 
@@ -23280,19 +23280,19 @@ Uppföljning
 1 § I 15 § 11 LSS finns bestämmelser om att det till kommunens
 uppgifter hör att anmäla till Inspektionen för vård och omsorg om
 det
-1. finns anledning att anta att en verksamhet bedrivs utan sådant
+1\. finns anledning att anta att en verksamhet bedrivs utan sådant
 tillstånd som krävs enligt 23 § första stycket LSS,
-2. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS,
+2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS,
 eller
-3. uppmärksammas allvarliga brister i en verksamhet där tillstånd
+3\. uppmärksammas allvarliga brister i en verksamhet där tillstånd
 krävs enligt 23 § första stycket LSS.
 
 2 § När den nämnd som har beslutat om insatsen följer upp att den
 som får insatsen tillförsäkras goda levnadsvillkor ska uppföljningen
 alltid omfatta hur barnet eller ungdomen får
-1. kontakt med och hjälp att besöka den hälso- och sjukvård samt
+1\. kontakt med och hjälp att besöka den hälso- och sjukvård samt
 tandvård som han eller hon behöver, och
-2. utöva inflytande och självbestämmande.
+2\. utöva inflytande och självbestämmande.
 Allmänna råd
 
 8
@@ -23316,9 +23316,9 @@ insatser som ungdomen kan behöva.
 Den som har avslutat sin gymnasieutbildning bör inte bo i en
 bostad med särskild service för barn eller ungdomar.
 
-1. Denna författning träder i kraft den 1 juli 2028 i fråga om
+1\. Denna författning träder i kraft den 1 juli 2028 i fråga om
 5 kap. 6 § och i övrigt den 1 mars 2027.
-2. Genom författningen upphävs Socialstyrelsens föreskrifter och
+2\. Genom författningen upphävs Socialstyrelsens föreskrifter och
 allmänna råd (SOSFS 2012:6) om bostad med särskild service för
 barn eller ungdomar.
 
@@ -24004,10 +24004,10 @@ Som allmänna råd till bestämmelsen om att leva som andra enligt 5 § LSS
 föreslås följande allmänna råd:
 
 För att undvika en institutionsliknande miljö bör bostaden
-- inrymmas i ett bostadshus i ett område avsett för bostäder,
+\- inrymmas i ett bostadshus i ett område avsett för bostäder,
 
-- utformas och utrustas så hemlikt som möjligt, och
-- lokaliseras utan nära anslutning till andra boendeformer eller
+\- utformas och utrustas så hemlikt som möjligt, och
+\- lokaliseras utan nära anslutning till andra boendeformer eller
 verksamheter som bedrivs med stöd av LSS eller socialtjänstlagen
 (2025:400). Sådana verksamheter kan till exempel vara
 korttidsvistelse, bostad med särskild service för vuxna, daglig
@@ -24223,18 +24223,18 @@ Följande bestämmelse finns i förslagets 4 kap. 5 §:
 För det barn eller den ungdom som behöver det, ska omvårdnaden omfatta
 stöd och hjälp med att
 
-1. göra den dagliga tillvaron begriplig och förutsägbar,
+1\. göra den dagliga tillvaron begriplig och förutsägbar,
 
-2. äta, dricka och förflytta sig,
-3. sköta personlig hygien och klä sig,
-4. kommunicera,
+2\. äta, dricka och förflytta sig,
+3\. sköta personlig hygien och klä sig,
+4\. kommunicera,
 
-5. göra läxor, leka och ägna sig åt intressen,
-6. vara delaktig i vardagliga göromål,
-7. vara med i sociala sammanhang,
+5\. göra läxor, leka och ägna sig åt intressen,
+6\. vara delaktig i vardagliga göromål,
+7\. vara med i sociala sammanhang,
 
-8. upprätthålla kontakt med föräldrar, övrig familj och vänner, och
-9. planera sin framtid.
+8\. upprätthålla kontakt med föräldrar, övrig familj och vänner, och
+9\. planera sin framtid.
 
 Paragrafen motsvarar 15 § SOSFS 2012:6. Det har inte kommit fram skäl för
 att ändra eller ta bort något krav. Punkt 8 har justerats språkligt.
@@ -24302,11 +24302,11 @@ I förslagets 4 kap. 7 § finns följande bestämmelse:
 Omvårdnaden ska kontinuerligt anpassas så att den svarar mot varje barns
 
 eller ungdoms behov och aktuella situation, och ges
-1. med respekt för barnets eller ungdomens fysiska och psykiska integritet,
+1\. med respekt för barnets eller ungdomens fysiska och psykiska integritet,
 
-2. så att barnet eller ungdomen kan utvecklas fysiskt, psykiskt och socialt,
+2\. så att barnet eller ungdomen kan utvecklas fysiskt, psykiskt och socialt,
 och
-3. så att barnet eller ungdomen kan känna sig trygg.
+3\. så att barnet eller ungdomen kan känna sig trygg.
 
 Omvårdanden ska också bidra till att barnets eller ungdomens självkänsla
 och tilltro till den egna förmågan stärks.
@@ -25124,9 +25124,9 @@ behövs för att kunna leda, utveckla och följa upp verksamheten.
 
 Den som förestår verksamheten ska även ha
 
-1. en högskoleutbildning som är relevant för verksamheten,
-2. erfarenhet av liknande verksamhet eller arbete med målgruppen, och
-3. personlig lämplighet.
+1\. en högskoleutbildning som är relevant för verksamheten,
+2\. erfarenhet av liknande verksamhet eller arbete med målgruppen, och
+3\. personlig lämplighet.
 
 Till bestämmelsen föreslås följande allmänna råd:
 
@@ -25587,8 +25587,8 @@ Följande förslag finns i 5 kap. 10 §:
 Den som bedriver verksamheten ska säkerställa att det finns tillräckligt med
 personal för att tillgodose varje barns och ungdoms behov av
 
-1. omvårdnad, trygghet och säkerhet dygnet runt, och
-2. fritids- och kulturaktiviteter.
+1\. omvårdnad, trygghet och säkerhet dygnet runt, och
+2\. fritids- och kulturaktiviteter.
 
 44
 
@@ -25648,10 +25648,10 @@ En ny upplysningsbestämmelse med följande innehåll införs i förslagets
 
 I 15 § 11 LSS finns bestämmelser om att det till kommunens uppgifter hör att
 anmäla till Inspektionen för vård och omsorg om det
-1. finns anledning att anta att en verksamhet bedrivs utan sådant tillstånd som
+1\. finns anledning att anta att en verksamhet bedrivs utan sådant tillstånd som
 krävs enligt 23 § första stycket LSS
-2. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS, eller
-3. uppmärksammas allvarliga brister i en verksamhet där tillstånd krävs enligt
+2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS, eller
+3\. uppmärksammas allvarliga brister i en verksamhet där tillstånd krävs enligt
 23 § första stycket LSS.
 
 Detta är en ny upplysningsbestämmelse om de bestämmelser om anmälan
@@ -25757,10 +25757,10 @@ När den nämnd som har beslutat om insatsen följer upp att den som får
 insatsen tillförsäkras goda levnadsvillkor ska det alltid följas upp hur barnet
 eller ungdomen får
 
-1. kontakt med och hjälp att besöka den hälso- och sjukvård och tandvård
+1\. kontakt med och hjälp att besöka den hälso- och sjukvård och tandvård
 som han eller hon behöver, och
 
-2. utöva inflytande och självbestämmande.
+2\. utöva inflytande och självbestämmande.
 
 Till bestämmelserna föreslås följande allmänna råd:
 
@@ -25868,10 +25868,10 @@ Tabell 1. Fördelning av registrerade LSS verksamheter efter driftsform
 Offentlig   Privat   Total  Genomsnittligt
 antal personer
 per
-verksamhet*
+verksamhet\*
 LSS 9 § 8     104         106      210    3,5
 
-Källa: IVO omsorgregister, 2024.* Socialstyrelsens egna beräkningar.
+Källa: IVO omsorgregister, 2024.\* Socialstyrelsens egna beräkningar.
 
 Antal barn och ungdomar    som  berörs
 Tabell 2 visar antalet barn och ungdomar som bor i bostad med särskild
@@ -25920,7 +25920,7 @@ utbildningsnivå på kommunnivå, även om statistiken är förenad med visst
 bortfall. Efter bearbetning av dessa uppgifter uppskattas att cirka 8 procent
 av personal utöver föreståndare i LSS-boenden i dag har en eftergymnasial
 utbildning motsvarande stödpedagog. Denna uppskattning redovisas i tabell
-3. I denna undersökning ingår emellertid inte bostad med särskild service för
+3\. I denna undersökning ingår emellertid inte bostad med särskild service för
 
 barn eller ungdomar enligt 9 § 8 LSS utan den statistiken avser bostad med
 särskild service för vuxna enligt 9 § 9 LSS.
@@ -25950,12 +25950,12 @@ utbildningskravet, 9 § 8 LSS
 Typ av     Antal Antal utan Andel med Andel tim- Antal Antal
 personal   anställ efter- minst   avlönade  anställda anställda
 da    gymnasial efter-           per     per
-totalt* utbildning* gymnasial    verksam person
-utbildning        het*
+totalt\* utbildning\* gymnasial    verksam person
+utbildning        het\*
 
 LSS 9 § 8  2 730 1 938–2 386 13–29 % 21%    13      4
 
-Anm.: *Socialstyrelsens egen uppskattning. Källa: Kompetens i LSS-boenden 2021 samt Öppna jämförelser –
+Anm.: \*Socialstyrelsens egen uppskattning. Källa: Kompetens i LSS-boenden 2021 samt Öppna jämförelser –
 enhetsundersökningen inom LSS, Socialstyrelsen (2025).
 
 I tabell 4 redogörs en uppskattning av antalet anställda utan
@@ -25974,11 +25974,11 @@ Tabell 4. Antal anställda utan eftergymnasial utbildning som påverkas
 av kravet, två scenarier
 Verksamhet    Anställda utan Scenario I Scenario II
 eftergymnasial
-utbildning*,
+utbildning\*,
 totalt
 
 LSS 9 § 8     2 512        1 256       210
-* I denna grupp ingår månadsavlönade samt timanställda
+\* I denna grupp ingår månadsavlönade samt timanställda
 Resultatet visar att när uppgifter från enhetsundersökningen inom LSS
 
 används uppskattas 13 procent av personal redan ha eftergymnasial
@@ -26151,7 +26151,7 @@ utbildning
 
 <!-- sida 589 -->
 
-*Anm.: A utgår från data i enhetsundersökningen, Öppna jämförelser – enhetsundersökningen inom LSS,
+\*Anm.: A utgår från data i enhetsundersökningen, Öppna jämförelser – enhetsundersökningen inom LSS,
 Socialstyrelsen (2025) och B utgår från data i Kompetens i LSS-boenden Socialstyrelsen (2021).
 
 3.3 Kostnader     och   intäkter  för
@@ -26496,10 +26496,10 @@ funktionshindrade och beslutar följande allmänna råd.
 Tillämpningsområde
 
 1 § Dessa föreskrifter ska tillämpas av
-1. de nämnder som beslutar om insatsen bostad med särskild service
+1\. de nämnder som beslutar om insatsen bostad med särskild service
 för vuxna enligt 9 § 9 lagen (1993:387) om stöd och service till
 vissa funktionshindrade, LSS, och
-2. den som bedriver verksamhet i form av bostad med särskild
+2\. den som bedriver verksamhet i form av bostad med särskild
 service för vuxna enligt 9 § 9 LSS.
 
 Begreppsförklaringar
@@ -26597,19 +26597,19 @@ utsträckning ska ges inflytande och medbestämmande över insatser
 som ges finns i 6 § LSS.
 
 3 § Den som förestår verksamheten ska se till att varje person
-1. får individanpassat kommunikativt och kognitivt stöd,
-2. får information om genomförandet av insatsen,
-3. uppmuntras att framföra sina åsikter, och
-4. uppmuntras att utöva sitt inflytande och medbestämmande.
+1\. får individanpassat kommunikativt och kognitivt stöd,
+2\. får information om genomförandet av insatsen,
+3\. uppmuntras att framföra sina åsikter, och
+4\. uppmuntras att utöva sitt inflytande och medbestämmande.
 
 Omvårdnad
 
 Vad som ingår i omvårdnaden
 4 § För den enskilde som behöver det, ska omvårdnaden omfatta
 stöd och hjälp med att
-1. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
-2. äta, dricka och förflytta sig,
-3. sköta personlig hygien och klä sig,
+1\. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
+2\. äta, dricka och förflytta sig,
+3\. sköta personlig hygien och klä sig,
 3
 
 <!-- sida 599 -->
@@ -26617,12 +26617,12 @@ stöd och hjälp med att
 HSLF-FS
 2026: 000
 
-4. kommunicera,
-5. sköta hemmet, tillreda måltider, göra ärenden och inköp,
-6. upprätthålla sociala kontakter och bryta isolering,
-7. få kontakt med och hjälp att besöka hälso- och sjukvården och
+4\. kommunicera,
+5\. sköta hemmet, tillreda måltider, göra ärenden och inköp,
+6\. upprätthålla sociala kontakter och bryta isolering,
+7\. få kontakt med och hjälp att besöka hälso- och sjukvården och
 tandvården,
-8. bibehålla hälsa och att uppmuntra till hälsofrämjande levnads-
+8\. bibehålla hälsa och att uppmuntra till hälsofrämjande levnads-
 vanor med utgångspunkt från den enskildes rätt till
 självbestämmande.
 
@@ -26655,8 +26655,8 @@ dokumenteras.
 Utformningen av omvårdnaden
 6 § Omvårdnaden ska kontinuerligt anpassas så att den svarar mot
 varje enskilds behov och aktuella situation och ges
-1. med respekt för den enskildes fysiska och psykiska integritet,
-2. så att den enskilde kan behålla och utveckla sina förmågor, och
+1\. med respekt för den enskildes fysiska och psykiska integritet,
+2\. så att den enskilde kan behålla och utveckla sina förmågor, och
 
 4
 
@@ -26665,7 +26665,7 @@ varje enskilds behov och aktuella situation och ges
 HSLF-FS
 2026: 000
 
-3. bidra till att den enskildes självkänsla och tilltro till den egna
+3\. bidra till att den enskildes självkänsla och tilltro till den egna
 förmågan stärks och så att den enskilde kan känna sig trygg.
 
 7 § Bestämmelser om egenvård finns i lagen (2022:1250) om
@@ -26698,12 +26698,12 @@ förmågor personalen i bostad med särskild service för vuxna enligt
 
 2 § I en bostad med särskild service för vuxna enligt 9 § 9 LSS ska
 personalen ha kunskaper om
-1. verksamhetens mål och arbetssätt,
-2. konsekvenserna av de funktionsnedsättningar som de personer
+1\. verksamhetens mål och arbetssätt,
+2\. konsekvenserna av de funktionsnedsättningar som de personer
 som bor i bostaden har,
-3. de enskildas fysiska, psykiska och sociala behov,
-4. etiskt förhållningssätt och respektfullt bemötande, och
-5. hur utmanande beteende kan förebyggas.
+3\. de enskildas fysiska, psykiska och sociala behov,
+4\. etiskt förhållningssätt och respektfullt bemötande, och
+5\. hur utmanande beteende kan förebyggas.
 
 5
 
@@ -26727,10 +26727,10 @@ utbildning som förestår verksamheten samt den personal som i
 sammantagna kompetens som behövs för att kunna leda, utveckla
 och följa upp verksamheten.
 Den som förestår verksamheten ska även ha
-1. en högskoleutbildning som är relevant för verksamheten,
-2. erfarenhet av liknande verksamhet eller arbete med målgruppen,
+1\. en högskoleutbildning som är relevant för verksamheten,
+2\. erfarenhet av liknande verksamhet eller arbete med målgruppen,
 och
-3. personlig lämplighet.
+3\. personlig lämplighet.
 Allmänna råd
 
 Högskoleutbildningen bör omfatta minst 180 högskolepoäng.
@@ -26811,35 +26811,35 @@ levnadsvillkor.
 
 11 § Den som bedriver verksamheten ska säkerställa att det finns
 tillräckligt med personal för att tillgodose varje enskilds behov av
-1. omvårdnad, trygghet och säkerhet dygnet runt, och
-2. fritids- och kulturaktiviteter.
+1\. omvårdnad, trygghet och säkerhet dygnet runt, och
+2\. fritids- och kulturaktiviteter.
 
 6 kap. Uppföljning av insats
 1 § I 15 § 11 LSS finns bestämmelser om att det till kommunens
 uppgifter hör att anmäla till Inspektionen för vård och omsorg om
 det
-1. finns anledning att anta att en verksamhet bedrivs utan sådant
+1\. finns anledning att anta att en verksamhet bedrivs utan sådant
 tillstånd som krävs enligt 23 § första stycket LSS,
-2. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS,
+2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS,
 eller
-3. uppmärksammas allvarliga brister i en verksamhet där tillstånd
+3\. uppmärksammas allvarliga brister i en verksamhet där tillstånd
 krävs enligt 23 § första stycket LSS.
 
 2 § När den nämnd som har beslutat om insatsen följer upp att den
 som får insatsen tillförsäkras goda levnadsvillkor, ska uppföljningen
 alltid omfatta hur den enskilde får
-1. kontakt med och hjälp att besöka den hälso- och sjukvård och
+1\. kontakt med och hjälp att besöka den hälso- och sjukvård och
 tandvård som den enskilde behöver, och
-2. utöva inflytande och självbestämmande.
+2\. utöva inflytande och självbestämmande.
 Allmänna råd
 
 Uppföljningen bör göras regelbundet och med utgångspunkt från
 nämndens uppdrag till utföraren eller från en genomförandeplan
 eller motsvarande.
 
-1. Denna författning träder i kraft den 1 juli 2028 i fråga om 5 kap.
+1\. Denna författning träder i kraft den 1 juli 2028 i fråga om 5 kap.
 7 § och i övrigt den 1 mars 2027.
-2. Genom författningen upphävs Socialstyrelsens föreskrifter och
+2\. Genom författningen upphävs Socialstyrelsens föreskrifter och
 allmänna råd (SOSFS 2002:9) om bostad med särskild service för
 vuxna enligt 9 kap. 9 § lagen (1993:387) om stöd och service till
 vissa funktionshindrade.
@@ -27662,12 +27662,12 @@ Bostaden bör utformas så att
 
 <!-- sida 623 -->
 
-- de personer som bor i bostaden kan påkalla personalens
+\- de personer som bor i bostaden kan påkalla personalens
 uppmärksamhet på ett enkelt sätt,
-- alla utrymmen i bostaden är tillgängliga och kan användas utan
+\- alla utrymmen i bostaden är tillgängliga och kan användas utan
 svårigheter för den som är beroende av förflyttningshjälpmedel,
 och
-- den stimulerar till aktiviteter och rekreation.
+\- den stimulerar till aktiviteter och rekreation.
 
 Socialstyrelsen föreslår följande allmänna råd till 5 § LSS:
 
@@ -27789,11 +27789,11 @@ Gemensamhetslokaler i bostaden
 
 Bostadens gemensamhetslokaler bör
 
-- ligga i anslutning till de enskilda lägenheterna,
-- vara lätta att nå och alltid vara tillgängliga för de personer som bor
+\- ligga i anslutning till de enskilda lägenheterna,
+\- vara lätta att nå och alltid vara tillgängliga för de personer som bor
 i bostaden,
-- vara till för de som bor i bostaden,
-- vara tillräckligt stora för att de personer som bor i bostaden och
+\- vara till för de som bor i bostaden,
+\- vara tillräckligt stora för att de personer som bor i bostaden och
 tjänstgörande personal ska kunna vistas där samtidigt.
 
 Sammansättningen          i gruppbostaden
@@ -28005,12 +28005,12 @@ inflytande och medbestämmande över insatser som ges finns i 6 § LSS.
 Socialstyrelsen föreslår följande bestämmelse i 4 kap. 3 §:
 Den som förestår verksamheten ska se till att varje person
 
-1. får individanpassat kommunikativt och kognitivt stöd,
-2. får information om genomförandet av insatsen,
+1\. får individanpassat kommunikativt och kognitivt stöd,
+2\. får information om genomförandet av insatsen,
 
-3. uppmuntras att framföra sina åsikter, och
+3\. uppmuntras att framföra sina åsikter, och
 
-4. uppmuntras att utöva sitt inflytande och medbestämmande.
+4\. uppmuntras att utöva sitt inflytande och medbestämmande.
 
 Omvårdnadens        innehåll
 
@@ -28278,18 +28278,18 @@ följande lydelse:
 För den enskilde som behöver det, ska omvårdnaden omfatta stöd och hjälp
 med att
 
-1. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
-2. äta, dricka och förflytta sig,
+1\. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
+2\. äta, dricka och förflytta sig,
 
-3. sköta personlig hygien och klä sig,
-4. kommunicera,
-5. sköta hemmet, tillreda måltider, göra ärenden och inköp,
+3\. sköta personlig hygien och klä sig,
+4\. kommunicera,
+5\. sköta hemmet, tillreda måltider, göra ärenden och inköp,
 
-6. upprätthålla sociala kontakter och bryta isolering,
-7. få kontakt med och hjälp att besöka hälso- och sjukvården och
+6\. upprätthålla sociala kontakter och bryta isolering,
+7\. få kontakt med och hjälp att besöka hälso- och sjukvården och
 tandvården,
 
-8. bibehålla hälsa och att uppmuntra till hälsofrämjande levnadsvanor
+8\. bibehålla hälsa och att uppmuntra till hälsofrämjande levnadsvanor
 med utgångspunkt från den enskildes rätt till självbestämmande.
 
 Om det finns en misstanke om att den enskilde har blivit utsatt för brott som
@@ -28497,10 +28497,10 @@ Socialstyrelsen föreslår en reviderad bestämmelse i föreslagna
 Omvårdnaden ska kontinuerligt anpassas så att den svarar mot varje enskilds
 behov och aktuella situation och ges
 
-1. med respekt för den enskildes fysiska och psykiska integritet,
+1\. med respekt för den enskildes fysiska och psykiska integritet,
 
-2. så att den enskilde kan behålla och utveckla sina förmågor,
-3. bidra till att den enskildes självkänsla och tilltro till den egna
+2\. så att den enskilde kan behålla och utveckla sina förmågor,
+3\. bidra till att den enskildes självkänsla och tilltro till den egna
 förmågan stärks och så att den enskilde kan känna sig trygg.
 
 Egenvård
@@ -28788,14 +28788,14 @@ I förslagets 5 kap. 2 § anges:
 I en bostad med särskild service för vuxna enligt 9 § 9 LSS ska personalen
 ha kunskaper om
 
-1. verksamhetens mål och arbetssätt,
+1\. verksamhetens mål och arbetssätt,
 
-2. konsekvenserna av de funktionsnedsättningar som de personer som
+2\. konsekvenserna av de funktionsnedsättningar som de personer som
 bor i bostaden har,
-3. de enskildas fysiska, psykiska och sociala behov,
+3\. de enskildas fysiska, psykiska och sociala behov,
 
-4. etiskt förhållningssätt och respektfullt bemötande, och
-5. hur utmanande beteende kan förebyggas.
+4\. etiskt förhållningssätt och respektfullt bemötande, och
+5\. hur utmanande beteende kan förebyggas.
 
 Allmänt   om   den   som   förestår
 
@@ -29007,10 +29007,10 @@ Den som förestår verksamheten i en gruppbostad ska ha den sammantagna
 kompetens som behövs för att kunna leda, utveckla och följa upp
 verksamheten. Den som förestår verksamheten ska även ha
 
-1. en högskoleutbildning som är relevant för verksamheten,
+1\. en högskoleutbildning som är relevant för verksamheten,
 
-2. erfarenhet av liknande verksamhet eller arbete med målgruppen, och
-3. personlig lämplighet.
+2\. erfarenhet av liknande verksamhet eller arbete med målgruppen, och
+3\. personlig lämplighet.
 
 Till bestämmelsen föreslås allmänna råd:
 
@@ -29620,8 +29620,8 @@ I förslagets 5 kap. 11 § anges:
 Den som bedriver verksamheten ska säkerställa att det finns tillräckligt med
 personal för att tillgodose varje enskilds behov av
 
-1. omvårdnad, trygghet och säkerhet dygnet runt, och
-2. fritids- och kulturaktiviteter.
+1\. omvårdnad, trygghet och säkerhet dygnet runt, och
+2\. fritids- och kulturaktiviteter.
 
 Uppföljning
 
@@ -29651,11 +29651,11 @@ En ny upplysningsbestämmelse i 6 kap. 1 §:
 I 15 § 11 LSS finns bestämmelser om att det till kommunens uppgifter hör
 att anmäla till Inspektionen för vård och omsorg om det
 
-1. finns anledning att anta att en verksamhet bedrivs utan sådant tillstånd
+1\. finns anledning att anta att en verksamhet bedrivs utan sådant tillstånd
 som krävs enligt 23 § första stycket LSS,
 
-2. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS, eller
-3. uppmärksammas allvarliga brister i en verksamhet där tillstånd krävs
+2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS, eller
+3\. uppmärksammas allvarliga brister i en verksamhet där tillstånd krävs
 enligt 23 § första stycket LSS.
 
 Detta är en ny upplysningsbestämmelse om de bestämmelser om anmälan
@@ -29746,10 +29746,10 @@ När den nämnd som har beslutat om insatsen följer upp att den som får
 insatsen tillförsäkras goda levnadsvillkor, ska uppföljningen alltid omfatta
 hur den enskilde får
 
-1. kontakt med och hjälp att besöka den hälso- och sjukvård och tandvård
+1\. kontakt med och hjälp att besöka den hälso- och sjukvård och tandvård
 som den enskilde behöver, och
 
-2. utöva inflytande och självbestämmande.
+2\. utöva inflytande och självbestämmande.
 
 Socialstyrelsen föreslår allmänna råd till bestämmelsen:
 
@@ -29851,10 +29851,10 @@ vuxna efter driftsform
 Offentlig   Privat   Total  Genomsnittligt
 antal personer
 per
-verksamhet*
+verksamhet\*
 9 § 9 LSS     4 325       774      5 099  6
 
-Källa: IVO omsorgregister, 2024.* Socialstyrelsens egna beräkningar.
+Källa: IVO omsorgregister, 2024.\* Socialstyrelsens egna beräkningar.
 
 Antal enskilda i bostad med  särskild service
 
@@ -29937,17 +29937,17 @@ och utbildningsnivå. För att kunna uppskatta hur många anställda som kan
 komma att beröras av det nya kompetenskravet har därför följande
 
 antaganden gjorts för att uppskatta antal anställda som berörs.
-1. Enligt uppgifter i Socialstyrelsens öppna jämförelser 2025 uppgick
+1\. Enligt uppgifter i Socialstyrelsens öppna jämförelser 2025 uppgick
 
 antalet månadsanställda till 32 113 personer inkluderat visstids- och
 tillsvidareanställda i de verksamheter som besvarade enkäten.82 I
 beräkningarna har man justerat för en svarsfrekvens på 100 procent
 vilket motsvarar 43 170 månadsavlönade.
-2. Enligt uppgifter från SKR är cirka 21 procent av stödassistenter och
+2\. Enligt uppgifter från SKR är cirka 21 procent av stödassistenter och
 stödpedagoger timanställda. Justerat för timanställda uppskattas det
 totala antalet anställda till 54 646.
 
-3. Av dessa antas mellan 13 och 20 procent redan ha en eftergymnasial
+3\. Av dessa antas mellan 13 och 20 procent redan ha en eftergymnasial
 utbildning motsvarande kompetenskravet, vilket har tagits bort från
 beräkningen.
 
@@ -29977,13 +29977,13 @@ utbildningskravet, 9 § 9 LSS
 Typ av     Antal Antal utan Andel Andel    Antal  Antal
 personal   anställ efter- med     timavlönade anställ anställda per
 da    gymnasial minst           da per person
-totalt* utbildning efter-       verksam
-*        gymnasial        het*
+totalt\* utbildning efter-       verksam
+\*        gymnasial        het\*
 utbildning
 9 § 9 LSS  54 646 43 700 – 13 – 20% 21%    11     2
 47 700
 Källa: Enhetsundersökningen LSS 2025 och rapporten personal i välfärd, SKR (2024). Anm.:
-*Socialstyrelsens egna uppskattningar.
+\*Socialstyrelsens egna uppskattningar.
 I tabell 4 redovisas en uppskattning av hur många anställda som kan komma
 att påverkas av det föreslagna utbildningskravet. Uppskattningen bygger på
 två antaganden när det gäller andelen som redan idag har en eftergymnasial
@@ -30008,15 +30008,15 @@ med högre anställda
 behöver
 utbildning utan högre
 utbildas för
-idag*, totalt utbildning
+idag\*, totalt utbildning
 att uppfylla
-idag*, totalt
+idag\*, totalt
 kravet
 A) 13% redan 6 885   47 760    6 776
 utbildade idag
 B) 20% redan 10 929  43 717    2 732
 utbildade idag
-Socialstyrelsens egna beräkningar. Anm.: * I denna grupp ingår både månadsavlönade samt timanställda.
+Socialstyrelsens egna beräkningar. Anm.: \* I denna grupp ingår både månadsavlönade samt timanställda.
 I dagsläget uppskattas att mellan 6 885 – 10 929 anställda över hela landet
 redan har en eftergymnasial utbildning. Resultatet visar att ett krav om att
 25 procent ska ha en eftergymnasial utbildning innebär att ytterligare ca.
@@ -30179,7 +30179,7 @@ regionernas organisation eller verksamhetsformer.
 
 | Föreslaget<br>krav | Antal som<br>ska<br>utbildas | Extra<br>Kostnad<br>per år<br>(mnkr) | Extra kostnad<br>per personal (kr) | Andel av totala kostnaden för<br>bostäder med särskild service<br>för vuxna |
 | --- | --- | --- | --- | --- |
-| Minst 25%<br>har efter-<br>gymnasial<br>utbildning* | A) 7 650<br>B) 2 732 | 583<br>235 | 19 598<br>7 902 | 1,4%<br>0,6% |
+| Minst 25%<br>har efter-<br>gymnasial<br>utbildning\* | A) 7 650<br>B) 2 732 | 583<br>235 | 19 598<br>7 902 | 1,4%<br>0,6% |
 
 <!-- sida 671 -->
 
@@ -30507,7 +30507,7 @@ nämnd.
 
 Myndighet, stöd och behandling
 Myndighet stöd och behandling redovisar ett underskott om 0,9 miljoner kronor per april. Prognos för helår är
-- 2 miljoner kronor i budgetavvikelse. Underskottet beror till stor del på enstaka placeringar som är
+\- 2 miljoner kronor i budgetavvikelse. Underskottet beror till stor del på enstaka placeringar som är
 kostnadsdrivande och påverkar resultatet negativ.
 Under de senaste åren har behoven i samhället ökat. Antalet inkomna orosanmälningar fortsätter öka samtidigt
 som vi ser mer komplexa ärenden och en ökning av normbrytande beteende.

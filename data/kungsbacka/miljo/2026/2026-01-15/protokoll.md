@@ -196,9 +196,9 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 Sammanfattning av ärendet
 Byggnadsnämnden beslutade 2025-12-11 § 206:
 
-* Byggnadsnämnden godkänner nämndbudget 2026 med verksamhetsplan och
+\* Byggnadsnämnden godkänner nämndbudget 2026 med verksamhetsplan och
 ramfördelning.
-* Byggnadsnämnden uppdrar åt förvaltningschefen att upprätta förvaltningsbudget
+\* Byggnadsnämnden uppdrar åt förvaltningschefen att upprätta förvaltningsbudget
 för 2026, att göra nödvändiga omfördelningar under året samt att informera nämnden
 om dessa i samband med delårsrapport och bokslut.
 
@@ -206,13 +206,13 @@ Kommunfullmäktige beslutade 2025-06-16 att fastställa kommunövergripande mål
 som utgångspunkt för nämndernas arbete med verksamhetsplanering. I
 verksamhetsplanen ingår bland annat:
 
-* Nämndens övergripande inriktning för arbetet i förvaltningen
-* Nämndmål
+\* Nämndens övergripande inriktning för arbetet i förvaltningen
+\* Nämndmål
 
-* Nämndens direktiv till förvaltningen
-* Ramfördelning driftbudget
+\* Nämndens direktiv till förvaltningen
+\* Ramfördelning driftbudget
 
-* Investeringsbudget
+\* Investeringsbudget
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser i arbetet med
 nämndbudget fatta beslut om verksamhetsplan och ramfördelning. I
 byggnadsnämndens nämndbudget ingår budget för den gemensamma bygg- och

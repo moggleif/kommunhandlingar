@@ -124,9 +124,9 @@ Nämnden för Gymnasium & Arbetsmarknad har prioriterat lokalbehoven enligt
 följande ordning:
 1.Marios Gata
 
-2. Kompetenscentrum
+2\. Kompetenscentrum
 
-3. Teknikprogrammet.
+3\. Teknikprogrammet.
 Behovsbeskrivningar från gymnasieskolan teknikprogram har kompletterats och
 sammanställts som underlag vilket redovisas i bilaga 1a och bilaga 1b.
 

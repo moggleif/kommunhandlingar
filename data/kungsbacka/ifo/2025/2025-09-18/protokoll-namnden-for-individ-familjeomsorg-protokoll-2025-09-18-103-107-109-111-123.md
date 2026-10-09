@@ -120,7 +120,7 @@ Månadsuppföljning till nämnd ................................................
 
 § 110 Dnr IF-2025-00234
 Svar på remiss - Betänkandet "Ett nationellt förbud mot tiggeri" (KS-2025-
-00530) ..................................................................................................... 15
+00530\) ..................................................................................................... 15
 
 § 111 Dnr IF-2025-00216
 Information om regional överenskommelse om samverkan mellan Region
@@ -205,7 +205,7 @@ Sammanfattning av ärendet
 Ärende 15, Systematiskt arbetsmiljöarbete, SAM, utgår från dagens sammanträde.
 Socialdemokraterna har inkommit med ett initiativ om verksamhetsbesök under
 
-2026.
+2026\.
 
 Beslutsgång
 
@@ -735,15 +735,15 @@ lyssna in vilka förutsättningar som personalen arbetar utefter. Personalen är
 viktigaste resurs och avgör vilken framgång vi har tillsammans.
 Initiativtagarnas förslag till beslut:
 
-1. Nämnden för Individ och Familjeomsorg ger förvaltningen i uppdrag att lägga upp
+1\. Nämnden för Individ och Familjeomsorg ger förvaltningen i uppdrag att lägga upp
 datum samt planering för politiskt förtroendevalda i nämnden för Individ och
 Familjeomsorg under verksamhetsåret 2026 för att kunna genomföra kontaktpolitiska
 besök.
 
-2. Nämnden för Individ och Familjeomsorg ger förvaltningen i uppdrag att
+2\. Nämnden för Individ och Familjeomsorg ger förvaltningen i uppdrag att
 återkomma med detta underlag till nämnden senast i samband med
 decembernämnden.
-3. Nämnden för Individ och Familjeomsorg ger förvaltningen i uppdrag att planera
+3\. Nämnden för Individ och Familjeomsorg ger förvaltningen i uppdrag att planera
 
 för finansiering av dessa verksamhetsbesök genom nämndens anslag i budgeten.
 

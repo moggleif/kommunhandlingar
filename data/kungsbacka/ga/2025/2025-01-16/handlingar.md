@@ -1354,7 +1354,7 @@ Omställning         till en   långsiktigt
 
 hållbar     socialtjänst       2025–2026
 
-__________________
+\__________________
 
 Överenskommelse        mellan  staten  och
 
@@ -1378,18 +1378,18 @@ Fler initiativ till stöd för socialtjänstens omställning ...................
 Bärande delar i en förebyggande socialtjänst .................................................. 6
 Kunskapsbaserad socialtjänst av god kvalitet ................................................. 8
 
-2. Överenskommelsens inriktning ....................................................... 9
+2\. Överenskommelsens inriktning ....................................................... 9
 
 2.1 Syfte ..................................................................................................................... 9
 2.2 Prioriterade områden 2025–2026 .................................................................... 9
 
-3. SKR:s åtaganden inom ramen för överenskommelsen ................. 10
+3\. SKR:s åtaganden inom ramen för överenskommelsen ................. 10
 
-4. Redovisning och uppföljning av insatserna i överenskommelsen . 10
+4\. Redovisning och uppföljning av insatserna i överenskommelsen . 10
 
-5. Ekonomiska villkor ........................................................................ 11
+5\. Ekonomiska villkor ........................................................................ 11
 
-6. Godkännande av överenskommelsen ........................................... 12
+6\. Godkännande av överenskommelsen ........................................... 12
 
 Bilaga ................................................................................................ 13
 
@@ -1671,7 +1671,7 @@ strukturerad och bygger på nationellt enhetliga termer och begrepp.
 
 <!-- sida 40 -->
 
-2. Överenskommelsens inriktning
+2\. Överenskommelsens inriktning
 
 2.1 Syfte
 Regeringen och SKR har enats om inriktningen i det stöd som SKR under
@@ -1723,7 +1723,7 @@ utvecklar kunskap och kompetens om funktionsnedsättningar och
 kunskapsbaserade insatser för målgruppen med stöd också av den nya
 socialtjänstlagen.
 
-3. SKR:s åtaganden inom ramen för överenskommelsen
+3\. SKR:s åtaganden inom ramen för överenskommelsen
 
 Parterna är överens om att SKR ska stödja socialtjänstens omställning
 genom att främja
@@ -1756,7 +1756,7 @@ utveckling och tillämpning av kunskapsstöd,
 −  kommuners arbete med uppdrag till idéburna aktörer som utförare av
 socialtjänstinsatser och samverkan med sådana aktörer.
 
-4. Redovisning och uppföljning av insatserna i överenskommelsen
+4\. Redovisning och uppföljning av insatserna i överenskommelsen
 Parterna är överens om att de insatser som har vidtagits med stöd av medlen
 i överenskommelsen ska redovisas och följas upp. SKR ska redovisa de
 
@@ -1777,7 +1777,7 @@ kostnaderna och resultat för de olika insatser som genomförts med stöd av
 medlen i överenskommelsen. I redovisningen ska barnrätts-,
 funktionshinders- och jämställdhetsperspektivet belysas.
 
-5. Ekonomiska villkor
+5\. Ekonomiska villkor
 Överenskommelsen för 2025 omfattar totalt 20 000 000 kronor som fördelas
 till SKR. Beslut om utbetalning av medel till SKR under 2025 fattas genom
 ett särskilt regeringsbeslut ställt till Kammarkollegiet. Kostnaderna ska
@@ -1805,7 +1805,7 @@ användning.
 
 <!-- sida 43 -->
 
-6. Godkännande av överenskommelsen
+6\. Godkännande av överenskommelsen
 
 Överenskommelsen har upprättats i två exemplar varav parterna har tagit var
 sitt.

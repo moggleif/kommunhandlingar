@@ -261,7 +261,7 @@ Nämndens omvärldsanalys
 Framtidens vård och omsorg står inför stora utmaningar inte minst på grund av en åldrande befolkning, men
 också ökade krav på kvalitet och tillgänglighet. Detta gäller för alla Sveriges kommuner. Andelen i
 åldersgruppen 80 år och äldre kommer utifrån dagens nivåer öka med cirka 40 procent i Kungsbacka fram till
-2033. Detta samtidigt som gruppen i arbetsför ålder endast ökar med cirka 10 procent. För att möta dessa
+2033\. Detta samtidigt som gruppen i arbetsför ålder endast ökar med cirka 10 procent. För att möta dessa
 utmaningar krävs nya arbetssätt och innovativa lösningar som kan frigöra de “varma händerna” och säkerställa
 att kompetensen används där den behövs som mest.
 Vård- och omsorgsbehoven ser redan idag annorlunda ut och kommer fortsätta att förändras i snabb takt.
@@ -739,16 +739,16 @@ Granskningen syftade till att bedöma om nämnden för Vård & Omsorg har säker
 för omställningen till nära vård styrs och följs upp på ett ändamålsenligt vis.
 
 De revisionsfrågor som ingick i granskningen var:
--  Har målbilden konkretiserats i mätbara mål, aktiviteter och planer
+\-  Har målbilden konkretiserats i mätbara mål, aktiviteter och planer
 
--  Finns det politiska beslut som stödjer processerna till omställningen Nära vård?
+\-  Finns det politiska beslut som stödjer processerna till omställningen Nära vård?
 
--  Finns förutsättningar i verksamheterna med primärvården som nav för att transformera till en
+\-  Finns förutsättningar i verksamheterna med primärvården som nav för att transformera till en
 omställning till nära vård? Kontinuitet och personcentrerad vård.
--  Finns en fungerande samverkansstruktur mellan kommunen och regionen för att hantera såväl
+\-  Finns en fungerande samverkansstruktur mellan kommunen och regionen för att hantera såväl
 
 strategiska som mer operativa frågor för omställningen till Nära vård?
--  Sker en ändamålsenlig uppföljning och rapportering av relevanta mätetal och aktiviteter till
+\-  Sker en ändamålsenlig uppföljning och rapportering av relevanta mätetal och aktiviteter till
 nämnden för Vård & Omsorg?
 
 Mot bakgrund av vad som framkom i granskningen rekommenderas vissa åtgärder. Dessa med
@@ -888,13 +888,13 @@ inom primärvården.
 Åtgärd: arbete inom detta område fortsätter via beslutade nämndmål och kommunfullmäktiges
 direktiv.
 
--  Nämndmål: Antalet personal som en hemtjänstmottagare möter under 14 dagar ska årligen
+\-  Nämndmål: Antalet personal som en hemtjänstmottagare möter under 14 dagar ska årligen
 minska och 2025 uppgå till maximalt 14 medarbetare. Aktiviteter: Kungsbacka modellen, IBIC,
 God och Nära vård. Rapporteras årligen av respektive ansvariga tjänstemän.
--  Nämndmål: Medarbetare hos Vård & Omsorg får den kompetensutveckling som krävs för
+\-  Nämndmål: Medarbetare hos Vård & Omsorg får den kompetensutveckling som krävs för
 arbetet och kan utvecklas genom vidareutbildning.
 
--  Kommunfullmäktiges direktiv– Innovation och omställning till nya arbetssätt
+\-  Kommunfullmäktiges direktiv– Innovation och omställning till nya arbetssätt
 
 o Kompetensutveckling och förstärkning med nya kompetenser
 o Utveckling och spridning av nya arbetssätt
@@ -970,19 +970,19 @@ Rekommendationer nämnden för Vård & Omsorg
 Mot bakgrund av vad som framkommit i granskningen rekommenderar vi att:
 
 Rekommendationer som avser samverkan med regionen i omställningen
--  Nämnden för Vård & Omsorg antar och ställer sig bakom målbilden Omtanke
+\-  Nämnden för Vård & Omsorg antar och ställer sig bakom målbilden Omtanke
 Halland.
 
--  Nämnden för Vård & Omsorg gör målbilden känd i Kungsbacka kommun och följer
+\-  Nämnden för Vård & Omsorg gör målbilden känd i Kungsbacka kommun och följer
 kommunens arbete.
--  Nämnden för Vård & Omsorg bidrar till att förbättra den operativa samverkan mellan
+\-  Nämnden för Vård & Omsorg bidrar till att förbättra den operativa samverkan mellan
 Kungsbacka kommun och Region Halland genom att lösa gränsdragningsfrågor
 kring primärvårdsnivå respektive specialistvård.
 
 Kommunspecifika rekommendationer
--  Nämnden för Vård & Omsorg säkerställer en tydlig styrning med en gemensam
+\-  Nämnden för Vård & Omsorg säkerställer en tydlig styrning med en gemensam
 inriktning och uppföljning som mäter rörelsen till en god och nära vård.
--  Nämnden för Vård & Omsorg fortsätter arbetet för ökad kontinuitet och
+\-  Nämnden för Vård & Omsorg fortsätter arbetet för ökad kontinuitet och
 
 personcentrerad vård inom primärvården
 
@@ -1062,33 +1062,33 @@ och följs upp på ett ändamålsenligt vis.
 
 I granskningen ska följande revisionsfrågor besvaras:
 
-1. Har målbilden konkretiserats i mätbara mål, aktiviteter och planer?
-2. Finns det politiska beslut som stödjer processerna till omställningen Nära vård?
-3. Finns förutsättningar i verksamheterna med primärvården som nav för att
+1\. Har målbilden konkretiserats i mätbara mål, aktiviteter och planer?
+2\. Finns det politiska beslut som stödjer processerna till omställningen Nära vård?
+3\. Finns förutsättningar i verksamheterna med primärvården som nav för att
 transformera till en omställning till nära vård? (kontinuitet och personcentrerad vård)
 
 4
 
 <!-- sida 30 -->
 
-4. Finns en fungerande samverkansstruktur mellan kommunen och regionen för att
+4\. Finns en fungerande samverkansstruktur mellan kommunen och regionen för att
 
 hantera såväl strategiska som mer operativa frågor för omställning till nära vård?
-5. Sker en ändamålsenlig uppföljning och rapportering av relevanta mätetal och
+5\. Sker en ändamålsenlig uppföljning och rapportering av relevanta mätetal och
 aktiviteter till nämnden för Vård & Omsorg?
 
 Revisionskriterier
 Med revisionskriterier avses de bedömningsgrunder som bildar underlag för revisionens
 analyser och bedömningar.
 
--  Hälso- och sjukvårdslag (2017:30) 2 kap § 6 och Kap 7§ 2a
--  SOSFS 2011:9 Socialstyrelsens föreskrifter och allmänna råd om ledningssystem för
+\-  Hälso- och sjukvårdslag (2017:30) 2 kap § 6 och Kap 7§ 2a
+\-  SOSFS 2011:9 Socialstyrelsens föreskrifter och allmänna råd om ledningssystem för
 systematiskt kvalitetsarbete, 3–6 kap
--  Lag (2017:612) om samverkan vid utskrivning från sluten hälso-och sjukvård
--  Patientlag (2014:821), 5 kap. 1-2 §, 6 kap 1§
+\-  Lag (2017:612) om samverkan vid utskrivning från sluten hälso-och sjukvård
+\-  Patientlag (2014:821), 5 kap. 1-2 §, 6 kap 1§
 
--  Patientsäkerhetslag (2010:659) 3 kap 1§
--  Kommunbudget 2024 och plan 2025–2026
+\-  Patientsäkerhetslag (2010:659) 3 kap 1§
+\-  Kommunbudget 2024 och plan 2025–2026
 
 Avgränsning
 Granskningen avgränsas till nämnden för Vård & Omsorg.
@@ -1110,11 +1110,11 @@ del redovisas även i den här rapporten som avser Kungsbacka kommun.
 
 Intervjuer har genomförts med följande representanter för Kungsbacka kommun:
 
--  Förvaltningschef Vård & Omsorg
+\-  Förvaltningschef Vård & Omsorg
 
--  Ekonomichef Vård & Omsorg
--  Verksamhetschef enligt HSL
--  Tf MAS och samordnare god och nära vård
+\-  Ekonomichef Vård & Omsorg
+\-  Verksamhetschef enligt HSL
+\-  Tf MAS och samordnare god och nära vård
 
 De intervjuade har beretts möjlighet att sakgranska rapporten. Rapporten är
 kvalitetssäkrad av Marie Lindblad, certifierad kommunal revisor, i enlighet med PwC:s
@@ -1201,12 +1201,12 @@ Kommunfullmäktiges styrning
 Av kommunbudget 2024 och plan 2025–2026 framgår fem kommunövergripande mål för
 verksamheten:
 
--  En attraktiv kommun att bo, verka och vistas i
--  En hållbar utveckling och en hälsosam miljö
--  Bästa företagsklimatet i Västsverige
+\-  En attraktiv kommun att bo, verka och vistas i
+\-  En hållbar utveckling och en hälsosam miljö
+\-  Bästa företagsklimatet i Västsverige
 
--  I Kungsbacka utvecklas vi hela livet
--  Ett medskapande samhälle och en öppen attityd
+\-  I Kungsbacka utvecklas vi hela livet
+\-  Ett medskapande samhälle och en öppen attityd
 
 Kommunfullmäktiges budget nämner inget specifikt om omställningen till god och nära
 vård.
@@ -1249,15 +1249,15 @@ I samband med att den regionala målbilden med tillhörande färdplan lanserades
 kommunen ett internt uppdrag för att hantera och implementera detta arbete. Uppdraget
 innefattade följande punkter:
 
--  Skapa kommunövergripande sammanhållning och öka den kommunala förståelsen
+\-  Skapa kommunövergripande sammanhållning och öka den kommunala förståelsen
 gällande god och nära vård.
--  Ta ställning till hur reformen "God och Nära Vård" påverkar kommunen och de
+\-  Ta ställning till hur reformen "God och Nära Vård" påverkar kommunen och de
 berörda förvaltningarna.
--  Genomföra en gapanalys utifrån den regionövergripande målbilden för god och nära
+\-  Genomföra en gapanalys utifrån den regionövergripande målbilden för god och nära
 
 vård och omsorg, i förhållande till aktuellt nuläge för berörda förvaltningar samt
 kommunövergripande.
--  Föreslå eventuella justeringar av förvaltningarnas samt kommunövergripande arbete
+\-  Föreslå eventuella justeringar av förvaltningarnas samt kommunövergripande arbete
 kopplat till det regionövergripande målarbetet.
 
 Ovanstående uppdrag slutredovisades i en rapport som enligt intervjuer delgavs med
@@ -1282,13 +1282,13 @@ på den medicinska elevhälsan.
 
 Med utgångspunkt i den Halländska målbilden har följande mål formulerats:
 
--  Hälsofrämjande: I Kungsbacka finns förutsättningar för god hälsa
--  Gemensam: I Kungsbacka gör vi vård, omsorg och det hälsofrämjande arbetet
+\-  Hälsofrämjande: I Kungsbacka finns förutsättningar för god hälsa
+\-  Gemensam: I Kungsbacka gör vi vård, omsorg och det hälsofrämjande arbetet
 
 bättre tillsammans
--  Trygg: I Kungsbacka bygger vård, omsorg och det hälsofrämjande arbetet på
+\-  Trygg: I Kungsbacka bygger vård, omsorg och det hälsofrämjande arbetet på
 kompetens och tillit.
--  Enkel: I Kungsbacka är vård och omsorg och det hälsofrämjande arbetet nära och
+\-  Enkel: I Kungsbacka är vård och omsorg och det hälsofrämjande arbetet nära och
 
 lätt att nå.
 
@@ -1303,13 +1303,13 @@ Utifrån var Kungsbacka kommun står i arbetet med omställningen, har ett antal
 formulerats till GNVO-gruppen för år 2024. Gruppen ska bland annat fokusera på
 följande:
 
--  Kompetenshöjande insatser gällande God och Nära Vård och Omsorg samt
+\-  Kompetenshöjande insatser gällande God och Nära Vård och Omsorg samt
 hälsofrämjande arbete.
--  Skapa en kommunikationsplan där varje förvaltning identifierar sina intressenter och
+\-  Skapa en kommunikationsplan där varje förvaltning identifierar sina intressenter och
 
 vilken nivå av kännedom och involvering de bör ha gällande reformen.
--  Utarbeta en process för att göra initiativen kända för förvaltningsledningsgrupper3
--  Tydliggöra i skrift hur rapportering för God och Nära Vård och Omsorg ska ske.
+\-  Utarbeta en process för att göra initiativen kända för förvaltningsledningsgrupper3
+\-  Tydliggöra i skrift hur rapportering för God och Nära Vård och Omsorg ska ske.
 
 Enligt intervjuer är ovanstående mål inte politiskt beslutade av nämnden. Nämnden
 följer dock upp arbetet med målen och de uppdrag som formulerats till gruppen genom
@@ -1423,12 +1423,12 @@ GNVO-gruppen ska arbeta vidare med initiativet. Enligt en intervju med förvaltn
 ekonomichef är syftet att statsbidrag ska användas för att finansiera olika initiativ.
 
 Enligt en erhållen förteckning har statsbidrag bland annat gått till:
--  Projekt Klusterundersköterskor: Syfte att öka kompetens inom hemtjänsten och
+\-  Projekt Klusterundersköterskor: Syfte att öka kompetens inom hemtjänsten och
 frigöra tid för sjuksköterskor
 
--  Projekt Utbildningsteam inom Vård och Omsorg: Samla utbildningsinsatser och
+\-  Projekt Utbildningsteam inom Vård och Omsorg: Samla utbildningsinsatser och
 arbete med delegeringar till ett team.
--  Mottagningsfunktion för de som har/får/är i behov av sin första kontakt med vård och
+\-  Mottagningsfunktion för de som har/får/är i behov av sin första kontakt med vård och
 omsorg.
 
 Bedömning
@@ -1770,19 +1770,19 @@ som innehåller olika aktiviteter, vem som är ansvarig, måldatum samt önskat 
 identifierade utvecklingsområden i samverkan. Bland annat är det följande aktiviteter
 som omfattas:
 
--  Rätt kontaktuppgifter i lifecare
--  Öka kunskap om vilka kontaktvägar till vårdcentralen som används vid vilka behov
+\-  Rätt kontaktuppgifter i lifecare
+\-  Öka kunskap om vilka kontaktvägar till vårdcentralen som används vid vilka behov
 
 17
 
 <!-- sida 43 -->
 
--  Tydliggöra alla professioners ansvar i bedömningskedjan
+\-  Tydliggöra alla professioners ansvar i bedömningskedjan
 
--  Skapa relationer och samverkansforum mellan huvudmännens medarbetare.
--  Öka förståelse för varandras uppdrag
--  Öka tillgänglighet hos vårdcentralens läkare för HSV sjuksköterskor
--  Tydliggör process för minnesutredning. Från uppkommet behov till färdigt svar på
+\-  Skapa relationer och samverkansforum mellan huvudmännens medarbetare.
+\-  Öka förståelse för varandras uppdrag
+\-  Öka tillgänglighet hos vårdcentralens läkare för HSV sjuksköterskor
+\-  Tydliggör process för minnesutredning. Från uppkommet behov till färdigt svar på
 minnestest till läkare.
 
 Enligt intervjuer kommer ett gemensamt arbete att påbörjas under 2024 med de mest
@@ -2034,7 +2034,7 @@ Sammanfattande bedömningar utifrån revisionsfrågor
 2024-09-23
 
 Marie Lindblad                   Louise Tornhagen
-___________________________      ___________________________
+\___________________________      ___________________________
 
 Kvalitetssäkrare                 Projektledare
 
@@ -2238,12 +2238,12 @@ Nämnden för Vård & Omsorg anser att den nuvarande lagstiftningen i kombinatio
 mellan region och kommuner (utvecklas ytterligare under punkt 4.2 i detta yttrande) tillräckligt
 tydliggör kraven på medicinsk bedömning dygnet runt.
 
--  Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
+\-  Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
 läkarresurser som behövs till kommunerna för att kunna erbjuda god hälso- och sjukvård.
--  Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en
+\-  Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en
 god hälso- och sjukvård till de som vistas på Särskilda boenden eller Bostad med Särskild
 service.
--  Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
+\-  Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
 regionen överlåta skyldighet att erbjuda hälso- och sjukvård i hemmet (hemsjukvård).
 
 Undantaget hälso- och sjukvård som ges av läkare.
@@ -9184,7 +9184,7 @@ SOU 2024:72        Bakgrund kompetensförsörjning i kommunal hälso- och sjukv�
 Tabell 6.1 visar antalet anställda legitimerade sjuksköterskor, arbets-
 terapeuter, fysioterapeuter och dietister inom äldreomsorgen 2017–
 
-2021. Antalet sjuksköterskor har minskat något under perioden,
+2021\. Antalet sjuksköterskor har minskat något under perioden,
 medan antalet arbetsterapeuter och fysioterapeuter har ökat något.
 En stor majoritet av sjuksköterskor, arbetsterapeuter och fysiotera-
 peuter inom äldreomsorgen arbetar i verksamheter som drivs i kom-
@@ -10261,7 +10261,7 @@ kvalitetsarbete (SOSFS 2011:9).
 rådet och Socialstyrelsen, Kompetensförsörjning inom primärvården. Slutrapport, 2022, Myndig-
 heten för vård- och omsorgsanalys, Åt samma håll. Nationella insatser för stärkt ledarskap i
 hälso- och sjukvården, 2019, och Myndigheten för vård- och omsorgsanalys, Visa vägen i vården,
-2017.
+2017\.
 17 SOU 2016:2 s. 516, och SOU 2017:56 s. 53.
 18 Nationella vårdkompetensrådet, Kompetensförsörjning av barnmorskor i förlossningsvården,
 2023, s. 54 ff., SOU 2021:52, s. 181 ff och Myndigheten för vård- och omsorgsanalys, Åt samma
@@ -13119,7 +13119,7 @@ dessa två utbildningar kan behöva i förhållande till sjuksköterske-
 utbildningen. Det är rimligt att anta att kostnaderna till stor del styrs
 av antal studenter som ska ha verksamhetsförlagd utbildning. Totalt
 var 22 749 registrerade på något av de fyra programmen vårterminen
-2023. Sjuksköterskestudenterna, som utgörs av studenter på grund-
+2023\. Sjuksköterskestudenterna, som utgörs av studenter på grund-
 utbildning och specialistutbildning, utgjorde 86 procent av samtliga
 studenter, de övriga två utbildningarna utgjorde 14 procent av totalen
 (tabell 8.2).
@@ -13791,7 +13791,7 @@ förslag till en nationell plan för hälso- och sjukvårdens
 kompetensförsörjning (S2023/00256), 2024.
 
 SCB, Vilka utbildningar ger jobb? – Arbetskraftsbarometern 2022,
-2022.
+2022\.
 
 261
 
@@ -13928,7 +13928,7 @@ Hälso- och sjukvårdsförvaltningen Region Stockholm,
 Handlingsplan för fast läkarkontakt, 2024.
 Kripalani, S, m.fl., Reducing Hospital Readmission Rates: Current
 Strategies and Future Directions, Annual Review of Medicine,
-2014.
+2014\.
 
 264
 
@@ -14358,113 +14358,113 @@ Statens offentliga utredningar  2024
 
 Kronologisk förteckning
 
-1. Ett starkare skydd för offentlig- 19. En ny beredskapssektor
+1\. Ett starkare skydd för offentlig- 19. En ny beredskapssektor
 anställda mot våld, hot och trakasserier. – för ökad försörjningsberedskap. KN.
 Ju.                  20. Maskinellt värde för vissa industribygg-
-2. Ett samordnat vaccinationsarbete nader – ett undantag från fastighets-
+2\. Ett samordnat vaccinationsarbete nader – ett undantag från fastighets-
 – för effektivare hantering av kom- skatt. Fi.
 mande vacciner. Del 1 och 2. S. 21. Ett inkluderande jämställdhets-
-3. Ett starkt judiskt liv för framtida politiskt delmål mot våld. A.
+3\. Ett starkt judiskt liv för framtida politiskt delmål mot våld. A.
 generationer. Nationell strategi för att 22. En ny organisation för förvaltning
 stärka judiskt liv i Sverige 2025–2034. av EU-medel. Fi.
 Ku.
-23. En trygg uppväxt utan
-4. Inskränkningarna i upphovsrätten. Ju. nikotin, alkohol och lustgas. S.
-5. Förbättrad ordning och säkerhet 24. Ett effektivt straffrättsligt skydd för
+23\. En trygg uppväxt utan
+4\. Inskränkningarna i upphovsrätten. Ju. nikotin, alkohol och lustgas. S.
+5\. Förbättrad ordning och säkerhet 24. Ett effektivt straffrättsligt skydd för
 vid förvar. Ju.        statliga stöd till företag. Fi.
-6. Steg mot stärkt kapacitet. Fi. 25. En mer effektiv tillsyn över
-7. Ett säkrare och mer tillgängligt socialtjänsten. S.
+6\. Steg mot stärkt kapacitet. Fi. 25. En mer effektiv tillsyn över
+7\. Ett säkrare och mer tillgängligt socialtjänsten. S.
 fastighetsregister. Ju. 26. En utvärdering av förändringar
-8. Livsmedelsberedskap för en ny tid. LI. i sjukförsäkringens regelverk
-9. Utvecklat samarbete för verksamhets- under 2021 och 2022. S.
+8\. Livsmedelsberedskap för en ny tid. LI. i sjukförsäkringens regelverk
+9\. Utvecklat samarbete för verksamhets- under 2021 och 2022. S.
 förlagd utbildning – långsiktiga åtgär- 27. Kamerabevakning i offentlig
 der för sjuksköterskeprogrammen. U. verksamhet – lättnader och utökade
-10. Preskription av avlägsnandebeslut och möjligheter. Ju.
+10\. Preskription av avlägsnandebeslut och möjligheter. Ju.
 vissa frågor om återreseförbud. Ju. 28. Offentlighetsprincipen eller insyns-lag.
-11. Rätt frågor på regeringens bord – Allmänhetens insyn i enskilda aktörer
+11\. Rätt frågor på regeringens bord – Allmänhetens insyn i enskilda aktörer
 en ändamålsenlig regeringsprövning på inom skolväsendet. U.
 miljöområdet. KN.    29. Goda möjligheter till ökat välstånd. Fi.
-12. Mål och mening med integration. A. 30. En statlig ordning med
-13. En effektivare kontaktförbuds- brottsförebyggande åtgärder
+12\. Mål och mening med integration. A. 30. En statlig ordning med
+13\. En effektivare kontaktförbuds- brottsförebyggande åtgärder
 lagstiftning – ett utökat skydd för barn och unga. S.
 för utsatta personer. Ju. 31. En ändamålsenlig vapenlagstiftning.
-14. Arbetslivskriminalitet – myndighets- Del 1 och 2. Ju.
+14\. Arbetslivskriminalitet – myndighets- Del 1 och 2. Ju.
 samverkan, en gemensam tipsfunktion, 32. Åtgärder mot mervärdesskatte-
 lärdomar från Belgien och gränsöver- bedrägerier. Fi.
 skridande arbete. A. 33. Delad hälsodata – dubbel nytta.
-15. Nya regler för       Regler för ökad interoperabilitet
+15\. Nya regler för       Regler för ökad interoperabilitet
 arbetskraftsinvandring m.m. Ju. i hälso- och sjukvården. S.
-16. Växla yrke som vuxen – en reformerad 34. Ansvar och oberoende
+16\. Växla yrke som vuxen – en reformerad 34. Ansvar och oberoende
 vuxenutbildning och en ny yrkesskola – public service i oroliga tider. Ku.
 för vuxna. U.        35. En framtid för alm och ask
-17. Skolor mot brott. U. – förädling, forskning och f inansiering.
-18. Nya regler om cybersäkerhet. Fö. LI.
+17\. Skolor mot brott. U. – förädling, forskning och f inansiering.
+18\. Nya regler om cybersäkerhet. Fö. LI.
 
 <!-- sida 335 -->
 
-36. Förenkla och förbättra! Fi. 59. Signalspaning i försvarsunderrättelse-
-37. Förbättrade ränteavdragsregler för verksamhet – en modern och ändamåls-
+36\. Förenkla och förbättra! Fi. 59. Signalspaning i försvarsunderrättelse-
+37\. Förbättrade ränteavdragsregler för verksamhet – en modern och ändamåls-
 företag. Fi.          enlig lagstiftning. Fö.
-38. Digitala fastighetsköp & Förköpsrätt 60. Stärkt stöd till anhöriga. Ett mer ända-
+38\. Digitala fastighetsköp & Förköpsrätt 60. Stärkt stöd till anhöriga. Ett mer ända-
 vid fastighetstransaktioner. LI. målsenligt stöd till barn och vuxna som
 är anhöriga. S.
-39. Skärpta regler om ungdomsövervak-
+39\. Skärpta regler om ungdomsövervak-
 ning och straffreduktion för unga. Ju. 61. Effektivare kontrollmöjligheter
 i systemen för rot, rut, grön teknik
-40. Genomförande av
+40\. Genomförande av
 och personalliggare. Fi.
 lönetransparensdirektivet. A.
-62. En förbättrad modell för
-41. Styrkraft för lyckad integration. A.
+62\. En förbättrad modell för
+41\. Styrkraft för lyckad integration. A.
 presumtionshyra. Ju.
-42. Bildning, utbildning och delaktighet
-63. Ökat informationsutbyte mellan
+42\. Bildning, utbildning och delaktighet
+63\. Ökat informationsutbyte mellan
 – folkbildningspolitik i en ny tid. U.
 myndigheter. Behov och föreslagna
-43. Staten och kommunsektorn förändringar. Ju.
+43\. Staten och kommunsektorn förändringar. Ju.
 – samverkan, självstyrelse, styrning. Fi.
-64. Motståndskraft i samhällsviktiga
-44. Stärkt kontroll av fusk i livsmedels- tjänster. Fö.
+64\. Motståndskraft i samhällsviktiga
+44\. Stärkt kontroll av fusk i livsmedels- tjänster. Fö.
 kedjan. LI.
-65. Kommuners och regioners grundläg-
-45. Kompletterande bestämmelser till EU:s gande beredskap inför kris och krig. Fö.
+65\. Kommuners och regioners grundläg-
+45\. Kompletterande bestämmelser till EU:s gande beredskap inför kris och krig. Fö.
 reviderade förordning om elektronisk
-66. Livsviktigt lärande – fler vägar till
+66\. Livsviktigt lärande – fler vägar till
 identifiering. Fi.
 kunskap för att förebygga suicid. S.
-46. Ny lag om internationella sanktioner.
-67. Om ekonomiska styrmedel för en mer
+46\. Ny lag om internationella sanktioner.
+67\. Om ekonomiska styrmedel för en mer
 Genomförande av EU:s sanktions-
 cirkulär ekonomi. Fi.
 direktiv. UD.
-68. Mottagandelagen. En ny lag
-47. Digital myndighetspost. Fi.
+68\. Mottagandelagen. En ny lag
+47\. Digital myndighetspost. Fi.
 för ordnat asylmottagande
-48. Ett ändamålsenligt samhällsskydd. och effektivt återvändande. Ju.
+48\. Ett ändamålsenligt samhällsskydd. och effektivt återvändande. Ju.
 Vissa reformer av straff- och
-69. Ett nytt konsumentkreditdirektiv. Ju.
+69\. Ett nytt konsumentkreditdirektiv. Ju.
 straffverkställighetslagstiftningen.
 Volym 1 och 2. Ju.   70. Tiotandvård – ett förstärkt
 högkostnadsskydd för tandvård. S.
-49. Arbetslöshetsförsäkringen vid störning,
+49\. Arbetslöshetsförsäkringen vid störning,
 kris eller krig. A.  71. Reglering av hushållens skulder. Fi.
-50. Nätt och jämnt. Likvärdighet och 72. Stärkt medicinsk kompetens
+50\. Nätt och jämnt. Likvärdighet och 72. Stärkt medicinsk kompetens
 effektivitet i kommunsektorn. Del 1 i kommunal hälso- och sjukvård. S.
 och 2. Fi.
-51. En mer rättssäker och effektiv
+51\. En mer rättssäker och effektiv
 domstolsprocess. Ju.
-52. Allmänna sammankomster och Sveriges
+52\. Allmänna sammankomster och Sveriges
 säkerhet. Ju.
-53. Stöd till invandrares utvandring. Ju.
-54. Vägar till ett tryggare samhälle.
+53\. Stöd till invandrares utvandring. Ju.
+54\. Vägar till ett tryggare samhälle.
 Åtgärder för att motverka återfall
 i brott. Ju.
-55. En översyn av 23 kap. brottsbalken. Ju.
-56. Animalieproduktion med hög
+55\. En översyn av 23 kap. brottsbalken. Ju.
+56\. Animalieproduktion med hög
 konkurrenskraft och gott djurskydd. LI.
-57. Ett nytt regelverk för hälsodataregister.
+57\. Ett nytt regelverk för hälsodataregister.
 S.
-58. Ett nytt regelverk mot penningtvätt
+58\. Ett nytt regelverk mot penningtvätt
 och finansiering av terrorism.
 Volym 1 och 2. Fi.
 
@@ -14707,7 +14707,7 @@ av respektive nämnd.
 •  Vi har även ett pris – Självständigt liv – som
 ej är i bruk.
 
-*Delas ut vartannat år               **Extern nominering möjlig
+\*Delas ut vartannat år               \*\*Extern nominering möjlig
 
 Delas  ut på Kungsbackagalan
 
@@ -14715,10 +14715,10 @@ Delas  ut på Kungsbackagalan
 
 | EXTERNT PRIS | INTERNT PRIS |
 | --- | --- |
-| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)** |
+| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)\*\* |
 | Kungsbackas mästare | Årets ledare (två kategorier) |
-| Kungsbackas olympier* | Leva livet-priset** |
-| Årets eldsjäl | Lära för livet-priset** |
+| Kungsbackas olympier\* | Leva livet-priset\*\* |
+| Årets eldsjäl | Lära för livet-priset\*\* |
 | Årets förening |  |
 | Årets förnyare |  |
 | Arkitekturpriset |  |
@@ -14729,10 +14729,10 @@ Delas  ut på Kungsbackagalan
 
 Nuläge
 
-*utdelning under höst
+\*utdelning under höst
 
 Jan       Feb     Mars     April     Maj      Juni    Juli    Aug      Sept      Okt      Nov       Dec
-Leva livet-               Kungsbacka-                                Arkitekturpriset*   Hållbarhets-
+Leva livet-               Kungsbacka-                                Arkitekturpriset\*   Hållbarhets-
 priset                      galan                                                         priset
 Ledardagen
 Medarbetar-
@@ -14791,7 +14791,7 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
-*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
+\*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
 
 [Tabell 345-1](handlingar.tabeller/345-1.csv)
 
@@ -14800,7 +14800,7 @@ Kartläggning                    interna            priset
 | Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
 | Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
 | Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
+| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
 | Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 346 -->
@@ -14898,7 +14898,7 @@ Nämnden för Vård & Omsorg har tagit del av ett nytt förslag till bostadsför
 2025–2029. Daterad 2024-10-01.
 
 Kungsbacka kommun har tagit fram ett nytt förslag till bostadsförsörjningsplan för perioden 2025–
-2029. Enligt lagen om kommunernas bostadsförsörjningsansvar (2000:1383) ska kommuner minst en
+2029\. Enligt lagen om kommunernas bostadsförsörjningsansvar (2000:1383) ska kommuner minst en
 gång per mandatperiod fastställa riktlinjer för bostadsförsörjningen. Dessa riktlinjer syftar till att
 säkerställa att alla har möjlighet till en trygg och ändamålsenlig bostad, genom att både tillgodose
 behovet av nya bostäder och förbättra det befintliga bostadsbeståndet
@@ -15527,7 +15527,7 @@ Befolkningen beräknas att bli allt äldre i Kungsbacka. Andel äldre än 60 år
 20,4 procent till 22,9 procent av total befolkning fram till 2032. Samtidigt beräknas andelen mellan
 0–9 år att minska från något från 10,9 procent av total befolkning 2024 till 10,5 procent per år
 
-2032.
+2032\.
 Diagrammet nedan visar åldersfördelningen i ettårsklasser idag och enligt prognos tio år framåt.
 
 15
@@ -16408,7 +16408,7 @@ Figur 49 - Bostadsmarknadsläget i kommunen som helhet. På kartan visas både k
 januari 2023 och om tre år, i fyra kategorier, se teckenförklaringen. Källa: Boverket, Bostadsmarknadsenkäten (BME), 2023.
 1.4.2.1 Bostadsmarknaden, bedömning av läget i Halland per kommun år 2001–2023
 Tabellen visar hur kommunerna bedömt bostadsmarknadsläget i kommunen som helhet sedan år
-2001. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
+2001\. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
 
 43
 
@@ -16689,7 +16689,7 @@ mått 2
 Figur 58 – Andel och antal hushåll per boende med ansträngd boendeekonomi i Kungsbacka 2012–2021. Källa: Boverket "Underlag
 bedömning bostadsbrist 2023", bearbetat av Kungsbacka kommun
 Figur 13 visar antal individer som ingår i hushåll som har en ansträngd boendeekonomi enligt mått
-2. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
+2\. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
 boendeekonomin minskat från 2012–2021. I den äldsta åldersgruppen 80+ är trenden i antal på
 liknade nivå under perioden, dock har andelen minskat.
 
@@ -16896,7 +16896,7 @@ Den största gruppen inom detta mått i Kungsbacka består av ensamstående män
 barn, samt sammanboende med barn, som bor i hyresrätter. Under den givna perioden har antalet
 hushåll utvecklats på en jämförbar nivå. Däremot har det observerats en ökning av antalet barn i
 åldern 0–17 år och vuxna i åldern 25–64 år från 2017 till 2019, följt av en viss avmattning under
-2020.
+2020\.
 
 53
 
@@ -17234,7 +17234,7 @@ Hushåll där någon av individerna har flyttat minst en gång årligen de senas
 Boverket kan måttet indikera att det finns hushåll som har en osäker boendesituation och har svårt
 att hitta ett permanent boende.
 I Kungsbacka har både antalet och andelen hushåll som flyttar ofta legat på en jämn nivå sedan
-2012. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
+2012\. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
 Denna grupp utgörs huvudsakligen av individer i åldersspannet 18–64 år, där åldersgruppen 35–
 64 år utgör den största delen.
 
@@ -17946,7 +17946,7 @@ yngre hushållen åt de äldre.
 40 000
 20 000
 
--
+\-
 30-39 år 40-49 år 70-79 år 80+ år
 
 Figur 101 - Medelvärde för hushåll i äganderätt i riket för 2021. Källa: SCB
@@ -18265,11 +18265,11 @@ uppdrag på ett innovativt sätt som överträffar invånarnas förväntningar�
 Kungsbacka kommun har fem kommunövergripande mål som är uppsatta av kommunfullmäktige.
 Målen har sin utgångspunkt i Vision 2030.
 
--  En attraktiv kommun att bo, verka och vistas i
--  En hållbar utveckling och en hälsosam miljö
--  Bästa företagsklimatet i Västsverige
--  I Kungsbacka utvecklas vi hela livet
--  Ett medskapande samhälle och öppen attityd
+\-  En attraktiv kommun att bo, verka och vistas i
+\-  En hållbar utveckling och en hälsosam miljö
+\-  Bästa företagsklimatet i Västsverige
+\-  I Kungsbacka utvecklas vi hela livet
+\-  Ett medskapande samhälle och öppen attityd
 
 2.4.3 Översiktsplan
 
@@ -18316,7 +18316,7 @@ I dagsläget pågår arbete med att ta fram en ny fördjupad översiktsplan för
 ska vara vägledande i hur vi ska använda mark- och vattentillgångar i staden fram till 2050. I
 enlighet med intentionerna i nya översiktsplanen tar denna plan höjd för en fördubbling av stadens
 befolkning fram till 2050, vilket innebär cirka 50 000 invånare. Planen beräknas vinna laga kraft år
-2026.
+2026\.
 
 2.5 Planens beaktande av relevanta mål och styrdokument
 De relevanta målen och styrdokumenten som beskrivits ovan har varit styrande i framtagandet av
@@ -18927,7 +18927,7 @@ pensionärsföreningar vilket gör att de tog hänsyn till behoven hos en störr
 individuella önskemål (som var fokus för dialogen år 2015 och därav riktade sig till ett större antal
 äldre). På dialogen diskuterades hur deltagarna ser på bostäder i kommunen och vilka nya
 utmaningar eller behov som kan identifieras kopplat till äldres behov i jämförelse med dialogen år
-2015.
+2015\.
 
 De viktigaste resultaten från dialogen inkluderade:
 •  Behov av fler trygghetsboenden och en mer varierad bostadsförsörjning
@@ -19016,7 +19016,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Syfte och bakgrund .............................................................................................. 3
+1\. Syfte och bakgrund .............................................................................................. 3
 Varför en bostadsförsörjningsplan? ...................................................................... 3
 Vad är goda bostäder? ......................................................................................... 3
 
@@ -19024,27 +19024,27 @@ Hur har planen tagits fram? ....................................................
 Hur är planen uppbyggd? ..................................................................................... 4
 Vad säger översiktsplanen om bostäder? ............................................................. 5
 
-2. Kommunens utmaningar ...................................................................................... 7
+2\. Kommunens utmaningar ...................................................................................... 7
 Utmaning: Hållbar tillväxt av bostäder .................................................................. 8
 Utmaning: Bostäder för allas behov .................................................................... 10
 Utmaning: Åldrande befolkning och välfärden .................................................... 12
 
 Utmaning: Social sammanhållning ..................................................................... 13
-3. Mål och insatser ................................................................................................. 15
+3\. Mål och insatser ................................................................................................. 15
 
 Mål 1: Vi ska tillgängliggöra fler bostadsytor i en hållbar takt .............................. 16
 Mål 2: Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad ................................................................................................................ 18
 Mål 3: Bostadsförsörjningen ska främja en god social sammanhållning ............. 21
 
-4. Uppföljning ......................................................................................................... 23
+4\. Uppföljning ......................................................................................................... 23
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 2 (23)
 
 <!-- sida 457 -->
 
 Syfte och bakgrund
-1. Syfte och bakgrund
+1\. Syfte och bakgrund
 
 Varför en bostadsförsörjningsplan?
 Enligt Lag (2000:1383) om kommunernas bostadsförsörjningsansvar ska varje
@@ -19209,7 +19209,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 <!-- sida 461 -->
 
 Kommunens utmaningar
-2. Kommunens    utmaningar
+2\. Kommunens    utmaningar
 
 I detta kapitel identifieras fyra utmaningar för bostadsförsörjningen i Kungsbacka
 kommun som ligger till grund för målen och insatserna i kapitel 3. Utmaningarna har
@@ -19224,12 +19224,12 @@ kopplingen till hållbarhet. De globala hållbarhetsmålen omfattar samtliga asp
 hållbar utveckling (ekonomisk, social och miljömässig hållbarhet).
 Kommunens utmaningar är följande:
 
-1. Hållbar tillväxt av bostäder
+1\. Hållbar tillväxt av bostäder
 
-2. Bostäder för allas behov
-3. Åldrande befolkning och välfärden
+2\. Bostäder för allas behov
+3\. Åldrande befolkning och välfärden
 
-4. Social sammanhållning
+4\. Social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 7 (23)
 
@@ -19561,7 +19561,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Mål och insatser
 
-3. Mål och insatser
+3\. Mål och insatser
 
 I detta kapitel hittar du det huvudsakliga innehållet i denna plan, nämligen mål och
 insatser för bostadsförsörjningen under tidsperioden 2025–2029. Målen och
@@ -19569,11 +19569,11 @@ insatserna tar sin utgångspunkt i våra utmaningar. Till varje mål kopplas ett
 förväntade effekter samt nyckeltal. Till varje insats kopplas ansvariga aktörer.
 Kommunens tre mål för bostadsförsörjning:
 
-1. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
+1\. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
 
-2. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
+2\. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad
-3. Bostadsförsörjningen ska främja en god social sammanhållning
+3\. Bostadsförsörjningen ska främja en god social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 15 (23)
 
@@ -19907,7 +19907,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Uppföljning
 
-4. Uppföljning
+4\. Uppföljning
 
 Planen följs upp varje år genom en återrapportering till kommunstyrelsen.
 Kommunstyrelsens förvaltning är ansvarig för uppföljningen. Uppföljningen görs
@@ -20434,7 +20434,7 @@ Förvaltningschef                   Enhetschef
 Säkerhetsberättelsen sammanfattar förvaltningens säkerhetsarbete under 2024. Den beskriver pågående
 arbete, viktiga faktorer som påverkar arbetet och avslutas med en framåtblick på säkerhetsarbetet under
 
-2025.
+2025\.
 
 Förvaltningen har länge sett ett behov av att stärka resurser och kompetens inom säkerhetsområdet för att
 bedriva ett systematiskt och långsiktigt säkerhetsarbete.
@@ -20450,7 +20450,7 @@ förvaltningens krisledningsorganisation.
 
 Förvaltningen har utökat krisledningsorganisationen med två nya skift för att säkerställa ledningsstöd dygnet
 runt. Nya och befintliga medlemmar har utbildats i teori och metodik, med fler övningar planerade för våren
-2025. Fokus för utbildningen har varit teori kring förvaltningens roll i det svenska krisledningssystemet, teori
+2025\. Fokus för utbildningen har varit teori kring förvaltningens roll i det svenska krisledningssystemet, teori
 kring stabsmetodik samt praktisk övning av metodik och verktyg. (Se framåtblick för mer information)
 
 Utbildning för försvarsvilja
@@ -20803,7 +20803,7 @@ Informationssäkerhet- & dat askydd årsberättelse 2024 Sida 4 av 7
 
 NIS2-direktivet
 NIS2-direktivet, EU:s nya omfattande cybersäkerhetslagstiftning, trädde i kraft på EU-nivå den 18 oktober
-2024. Kortfattat kan man säga att direktivet ställer krav på säkerhet i nätverk och informationssystem.
+2024\. Kortfattat kan man säga att direktivet ställer krav på säkerhet i nätverk och informationssystem.
 
 I Sverige pågår arbetet med att implementera direktivet genom den så kallade Cybersäkerhetslagen. Den
 svenska regeringen har dock försenat införandet, och det förväntas att lagen träder i kraft först i augusti 2025.
@@ -20924,10 +20924,10 @@ utredning samt fattat beslut om densamma, tex VO-2024-00446.
 
 Sverigedemokraterna yrkar på:
 
-- att delegationsordningen skyndsamt ändras så att beslut av Lex Sarah-utredningar avgörs av
+\- att delegationsordningen skyndsamt ändras så att beslut av Lex Sarah-utredningar avgörs av
 Nämnden Vård och Omsorg.
 
-- att delegationsordningen skyndsamt ändras till att så snart en rapport med utredning enligt Lex Sarah
+\- att delegationsordningen skyndsamt ändras till att så snart en rapport med utredning enligt Lex Sarah
 inrapporterats, gör SAS tillsammans med Nämnden Vård och Omsorgs ordförande och/eller
 presidium, en bedömning samt fattar beslut om ärendet ska gå vidare till IVO.
 

@@ -42,17 +42,17 @@ kungsbacka.se
 <!-- sida 2 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................... 3
+1\. Inledande bestämmelser ........................................................................................... 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper .............................................................. 3
 1.3 Ägarbyte .................................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ...................................................................................................... 4
+2\. Beräkningsgrunder ...................................................................................................... 4
 
-3. Mervärdesskatt ............................................................................................................ 4
-4. Avgiftsbelopp/taxetabell ........................................................................................... 5
+3\. Mervärdesskatt ............................................................................................................ 4
+4\. Avgiftsbelopp/taxetabell ........................................................................................... 5
 
 4.1 Allmän information ................................................................................................ 5
 4.2 Abonnemangsformer ............................................................................................ 5
@@ -70,7 +70,7 @@ Kungsbacka kommun         Avfallstaxa 2026                    2
 
 <!-- sida 3 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 27 kap. 4–6 §§ miljöbalken. Avgift ska betalas till Kungsbacka kommun eller till den som
@@ -139,7 +139,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -173,7 +173,7 @@ returpapper, textilavfall, samt avfall från detaljhandel begränsas av maxtaxa.
 Avgifterna för tömning av enskilda avloppsanläggningar och fettavskiljare ska täcka
 kostnader för insamling och behandling av avfallet.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
@@ -181,7 +181,7 @@ Kungsbacka kommun         Avfallstaxa 2026                    4
 
 <!-- sida 5 -->
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 I abonnemangsavgiften ingår följande:
@@ -255,8 +255,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2026                    7
 
@@ -268,14 +268,14 @@ Kungsbacka kommun         Avfallstaxa 2026                    7
 
 [Tabell 7-2](handlingar.tabeller/7-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, helår | 2 850 | 2 850 | 5 735 |
 |  | Var fjärde vecka, helår | Inte valbar | 2190 | Inte valbar |
 | 190 liter | Varannan vecka, helår | 3 485 | 3 485 | 7 245 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 470 | Inte valbar |
 | 370 liter | Varannan vecka, helår | 5 355 | 5 355 | 9 220 |
-| 660 liter** | Varannan vecka, helår | 13 825 | 13 825 | 20 445 |
+| 660 liter\*\* | Varannan vecka, helår | 13 825 | 13 825 | 20 445 |
 
 <!-- sida 8 -->
 
@@ -288,8 +288,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2026                    8
 
@@ -301,14 +301,14 @@ Kungsbacka kommun         Avfallstaxa 2026                    8
 
 [Tabell 8-2](handlingar.tabeller/8-2.csv)
 
-| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, delår | 1 420 | 1 420 | 2 865 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 100 | Inte valbar |
 | 190 liter | Varannan vecka, delår | 1 745 | 1 745 | 3 625 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 235 | Inte valbar |
 | 370 liter | Varannan vecka, delår | 2 680 | 2 680 | 4 610 |
-| 660 liter** | Varannan vecka, delår | 6 915 | 6 915 | 10 225 |
+| 660 liter\*\* | Varannan vecka, delår | 6 915 | 6 915 | 10 225 |
 
 <!-- sida 9 -->
 
@@ -383,7 +383,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -411,7 +411,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   10
 
 [Tabell 10-2](handlingar.tabeller/10-2.csv)
 
-| Kärl 240 liter* | 2 285 |
+| Kärl 240 liter\* | 2 285 |
 | --- | --- |
 | Kärl 370 liter | 2 665 |
 
@@ -801,7 +801,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -829,7 +829,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   18
 
 [Tabell 18-2](handlingar.tabeller/18-2.csv)
 
-| Kärl 240 liter* | 2 285 |
+| Kärl 240 liter\* | 2 285 |
 | --- | --- |
 | Kärl 370 liter | 2 665 |
 
@@ -990,7 +990,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -1010,7 +1010,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   21
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container, per<br>container och hämtningstillfälle | 7 000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten behållare/tank (ABP-avfall,<br>kategori 3), per behållare och hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett, per behållare<br>och hämtningstillfälle | 600 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade<br>produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen<br>eller serveringsverksamhet, per hämtning * | 7 000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade<br>produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen<br>eller serveringsverksamhet, per hämtning \* | 7 000 |
 
 <!-- sida 22 -->
 
@@ -1032,8 +1032,8 @@ Grundavgift container
 
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 Kungsbacka kommun         Avfallstaxa 2026                   22
 
@@ -1055,8 +1055,8 @@ Kungsbacka kommun         Avfallstaxa 2026                   22
 | Gips | 2 530 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 477 |
 | Metall | 354 |
-| Mineral* | 2 917 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 530 |
+| Mineral\* | 2 917 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 530 |
 | Planglas | 2 650 |
 | Plast (inkl. eftersortering) | 2 732 |
 | Tryckimpregnerat trä/slipers | 2 358 |
@@ -1075,8 +1075,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 4.5.3 Övriga avgifter
@@ -1106,8 +1106,8 @@ Kungsbacka kommun         Avfallstaxa 2026                   23
 | Gips | 1 012 |
 | Kablar (ej farligt avfall) | 1 012 |
 | Metall | 177 |
-| Mineral* | 2 920 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 024 |
+| Mineral\* | 2 920 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 024 |
 | Planglas | 1 518 |
 | Plast | 1 012 |
 | Tryckimpregnerat trä/slipers | 1 179 |
@@ -1254,19 +1254,19 @@ Kungsbacka kommun         Avfallstaxa 2026                   27
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| Anläggning 2–4 kubikmeter* | 2 555 |
+| Anläggning 2–4 kubikmeter\* | 2 555 |
 | --- | --- |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 3 080 |
 | Tidsbeställd tömning<br>Utförs tidigast 25 timmar efter beställning (på specifik timme, helgfria vardagar klockan 06–15) |  |
 | Anläggning mindre än 2 kubikmeter | 5 480 |
-| Anläggning 2–4 kubikmeter* | 6 090 |
+| Anläggning 2–4 kubikmeter\* | 6 090 |
 | Budad tömning inom ett dygn<br>Utförs inom 24 timmar, även på kvällar och helger eller inom valt dygn |  |
 | Anläggning mindre än 2 kubikmeter | 8 500 |
-| Anläggning 2–4 kubikmeter* | 9 100 |
+| Anläggning 2–4 kubikmeter\* | 9 100 |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 5 945 |
 | Akut tömning<br>Utförs inom 4 timmar |  |
 | Anläggning mindre än 2 kubikmeter | 10 505 |
-| Anläggning 2–4 kubikmeter* | 11 110 |
+| Anläggning 2–4 kubikmeter\* | 11 110 |
 
 [Tabell 27-2](handlingar.tabeller/27-2.csv)
 
@@ -1331,8 +1331,8 @@ Bilaga 1 Uppdateringar mellan Avfallstaxa 2025 (Avfallstaxa Kommunfullmäktige 2
 | 4.2.1 Hämtning av<br>kommunalt avfall | Ändra till<br>”matavfallspås<br>e som<br>tillhandahålls<br>av kommunen” | Följande text:<br>I detta abonnemang ska matavfallet sorteras ut och läggas i en papperspåse från<br>kommunen.<br>Byts till:<br>I detta abonnemang ska matavfallet sorteras ut och läggas i en matavfallspåse<br>som tillhandahålls av kommunen. |
 | --- | --- | --- |
 | 4.2.1 Hämtning av<br>kommunalt avfall | Ta bort<br>information om<br>abonnemangsf<br>ormen<br>Restavfall och<br>Brännbart<br>Blandat som<br>försvinner<br>2026 | Följande text:<br>Matavfall och Brännbart Restavfall Blandat<br>Abonnemanget går inte att välja efter 1 januari 2023. I detta abonnemang ska<br>både det brännbara restavfallet och matavfallet läggas i samma behållare.<br>Tas bort helt |
-| 4.3.1 Avgifter för<br>helårsabonnemang | Ta bort<br>kolumnen med<br>kostnad för<br>Matavfall och<br>Brännbart<br>Restavfall<br>Blandat och<br>texten under<br>tabellen då<br>denna taxa<br>försvinner | Följande text:<br>* Det går inte att beställa nya abonnemang/ändra till Matavfall och<br>Brännbart Restavfall Blandat<br>Samt högra kolumnen med priser för abonnemanget<br>Tas bort helt |
-| 4.3.2<br>Avgifter för<br>delårsabonnemang | Ta bort<br>kolumnen med<br>kostnad för<br>Matavfall och<br>Brännbart<br>Restavfall<br>Blandat och<br>texten under | Följande text:<br>* Det går inte att beställa nya abonnemang/ändra till Matavfall och<br>Brännbart Restavfall Blandat<br>Samt högra kolumnen med priser för abonnemanget<br>Tas bort helt |
+| 4.3.1 Avgifter för<br>helårsabonnemang | Ta bort<br>kolumnen med<br>kostnad för<br>Matavfall och<br>Brännbart<br>Restavfall<br>Blandat och<br>texten under<br>tabellen då<br>denna taxa<br>försvinner | Följande text:<br>\* Det går inte att beställa nya abonnemang/ändra till Matavfall och<br>Brännbart Restavfall Blandat<br>Samt högra kolumnen med priser för abonnemanget<br>Tas bort helt |
+| 4.3.2<br>Avgifter för<br>delårsabonnemang | Ta bort<br>kolumnen med<br>kostnad för<br>Matavfall och<br>Brännbart<br>Restavfall<br>Blandat och<br>texten under | Följande text:<br>\* Det går inte att beställa nya abonnemang/ändra till Matavfall och<br>Brännbart Restavfall Blandat<br>Samt högra kolumnen med priser för abonnemanget<br>Tas bort helt |
 
 <!-- sida 31 -->
 
@@ -1384,17 +1384,17 @@ kungsbacka.se
 <!-- sida 35 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................... 3
+1\. Inledande bestämmelser ........................................................................................... 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper .............................................................. 3
 1.3 Ägarbyte .................................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ...................................................................................................... 4
+2\. Beräkningsgrunder ...................................................................................................... 4
 
-3. Mervärdesskatt ............................................................................................................ 5
-4. Avgiftsbelopp/taxetabell ........................................................................................... 5
+3\. Mervärdesskatt ............................................................................................................ 5
+4\. Avgiftsbelopp/taxetabell ........................................................................................... 5
 
 4.1 Allmän information ................................................................................................ 5
 4.2 Abonnemangsformer ............................................................................................ 5
@@ -1412,7 +1412,7 @@ Kungsbacka kommun         Avfallstaxa 2025                    2
 
 <!-- sida 36 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 27 kap. 4–6 §§ miljöbalken. Avgift ska betalas till Kungsbacka kommun eller till den som
@@ -1481,7 +1481,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -1520,10 +1520,10 @@ Kungsbacka kommun         Avfallstaxa 2025                    4
 
 <!-- sida 38 -->
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 
@@ -1595,8 +1595,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    7
 
@@ -1608,14 +1608,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    7
 
 [Tabell 40-2](handlingar.tabeller/40-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka,<br>helår | 2 660 | 2 660 | 5 735 |
 |  | Var fjärde vecka,<br>helår | Inte valbar | 2 045 | Inte valbar |
 | 190 liter | Varannan vecka,<br>helår | 3 255 | 3 255 | 7 245 |
 |  | Var fjärde vecka,<br>helår | Inte valbar | 2 305 | Inte valbar |
 | 370 liter | Varannan vecka,<br>helår | 5 005 | 5 005 | 9 220 |
-| 660 liter** | Varannan vecka,<br>helår | 12 920 | 12 920 | 20 445 |
+| 660 liter\*\* | Varannan vecka,<br>helår | 12 920 | 12 920 | 20 445 |
 
 <!-- sida 41 -->
 
@@ -1628,8 +1628,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    8
 
@@ -1641,14 +1641,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    8
 
 [Tabell 41-2](handlingar.tabeller/41-2.csv)
 
-| Kärlstorlek restavfall | Hämtningsinterval<br>l | Matavfall blir<br>Biogas | Egen<br>Varmkompos<br>t | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek restavfall | Hämtningsinterval<br>l | Matavfall blir<br>Biogas | Egen<br>Varmkompos<br>t | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka,<br>delår | 1 325 | 1 325 | 2 865 |
 |  | Var fjärde vecka,<br>delår | Inte valbar | 1 025 | Inte valbar |
 | 190 liter | Varannan vecka,<br>delår | 1 630 | 1 630 | 3 625 |
 |  | Var fjärde vecka,<br>delår | Inte valbar | 1 155 | Inte valbar |
 | 370 liter | Varannan vecka,<br>delår | 2 505 | 2 505 | 4 610 |
-| 660 liter** | Varannan vecka,<br>delår | 6 460 | 6 460 | 10 225 |
+| 660 liter\*\* | Varannan vecka,<br>delår | 6 460 | 6 460 | 10 225 |
 
 <!-- sida 42 -->
 
@@ -1723,7 +1723,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -1750,7 +1750,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   10
 
 [Tabell 43-2](handlingar.tabeller/43-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -2134,7 +2134,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -2162,7 +2162,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   18
 
 [Tabell 51-2](handlingar.tabeller/51-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -2306,7 +2306,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -2319,7 +2319,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   21
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat<br>i container, per container och hämtningstillfälle | 7000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten<br>behållare/tank (ABP-avfall, kategori 3), per behållare och<br>hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande<br>ätligt fett, per behållare och hämtningstillfälle | 600 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning * | 7000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning \* | 7000 |
 
 <!-- sida 55 -->
 
@@ -2342,9 +2342,9 @@ Grundavgift container
 9 kbm
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
+\* Som består av sten, tegel, betong, klinker eller keramik
 
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 Kungsbacka kommun         Avfallstaxa 2025                   22
 
@@ -2366,8 +2366,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   22
 | Gips | 2 530 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 477 |
 | Metall | 354 |
-| Mineral* | 2 917 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 530 |
+| Mineral\* | 2 917 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 530 |
 | Planglas | 2 650 |
 | Plast (inkl. eftersortering) | 2 732 |
 | Tryckimpregnerat trä/slipers | 2 358 |
@@ -2386,8 +2386,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 4.5.3 Övriga avgifter
@@ -2416,8 +2416,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   23
 | Gips | 1 012 |
 | Kablar (ej farligt avfall) | 1 012 |
 | Metall | 177 |
-| Mineral* | 2 920 |
-| Osorterat/sammansatt bygg- och<br>rivningsavfall** | 2 024 |
+| Mineral\* | 2 920 |
+| Osorterat/sammansatt bygg- och<br>rivningsavfall\*\* | 2 024 |
 | Planglas | 1 518 |
 | Plast | 1 012 |
 | Tryckimpregnerat trä/slipers | 1 179 |
@@ -2671,7 +2671,7 @@ Sammantaget bedöms att avgifterna behöver höjas för att fonden ska återstä
 
 För ett hushåll som har den vanligaste tjänsten med ett kärl för restavfall och ett kärl för matavfall ökar
 årsavgiften med föreslagen taxejustering från 2660 kronor år 2025 till 2850 kronor inklusive moms år
-2026.
+2026\.
 Kommunens ekonomiska styrprinciper anger att skulden ska regleras på tre år. Prognosen är ett
 underskott om 2,3 miljoner kronor i fonden efter 2025, och detta behöver regleras under 2026.
 
@@ -2864,14 +2864,14 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 69 -->
 
-1. Inledning
+1\. Inledning
 
 Detta dokument innehåller alla taxor som innebär kostnader kopplat till
 parkering för motorfordon. I respektive avsnitt beskrivs taxorna för
 parkeringsavgifter, boendeparkeringsavgifter, nyttokort samt
 felparkeringsavgifter och kontrollavgifter.
 
-2. Inledande bestämmelser    för parkeringsavgifter
+2\. Inledande bestämmelser    för parkeringsavgifter
 
 Möjligheten att reglera parkering med avgift styrs av Lag (1957:259) om rätt för
 kommun att ta ut avgift för vissa upplåtelser av offentlig plats, m. m. I lagen anges
@@ -2932,7 +2932,7 @@ Kungsbacka kommun      Taxa för parkeringsavgifter och felparkeringsavgifter 3 
 
 <!-- sida 71 -->
 
-3. Boendeparkering
+3\. Boendeparkering
 
 Enligt 2 § i Lag (1957:259) om rätt för kommun att ta ut avgift för vissa upplåtelser
 av offentlig plats, m. m. får parkeringsavgifter tas ut efter särskilda grunder för de
@@ -2967,7 +2967,7 @@ Kungsbacka kommun      Taxa för parkeringsavgifter och felparkeringsavgifter 4 
 
 <!-- sida 72 -->
 
-4. Nyttoparkering
+4\. Nyttoparkering
 
 Enligt 2 § i Lag (1957:259) om rätt för kommun att ta ut avgift för vissa upplåtelser
 av offentlig plats, m. m. får parkeringsavgifter tas ut på särskilda grunder för
@@ -2997,7 +2997,7 @@ Kungsbacka kommun      Taxa för parkeringsavgifter och felparkeringsavgifter 5 
 
 <!-- sida 73 -->
 
-5. Felparkeringsavgifter och  kontrollavgifter
+5\. Felparkeringsavgifter och  kontrollavgifter
 
 Möjligheten att ta ut en felparkeringsavgift styrs av Lag (1976:206) om
 felparkeringsavgift där det anges att regeringen beslutar om det högsta och lägsta
@@ -5706,8 +5706,8 @@ ut för 2025. Omfördelningar mellan portföljer och omprioritering av projekt h
 
 beslutad investeringsram för 2025. Projekten är indelade i sex underportföljer:
 
-1. VA-teknik
-2. Vattenproduktion
+1\. VA-teknik
+2\. Vattenproduktion
 1 (2)
 Teknik Stöd & Styrning                                    Kungsbacka kommun
 434 81 Kungsbacka
@@ -5733,11 +5733,11 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-3. VA-ledningsnät
-4. Avloppsrening
+3\. VA-ledningsnät
+4\. Avloppsrening
 
-5. VA-omvandling
-6. Exploatering
+5\. VA-omvandling
+6\. Exploatering
 
 Förvaltningens prioritering är att ge förtur till pågående projekt med bundna kontrakt, eftersom det är
 både kostsamt och komplicerat att avbryta dessa jämfört med att senarelägga projekt som ännu inte har
@@ -6314,7 +6314,7 @@ SKALA 1:1000 A1
 
 TECKENFÖRKLARING
 
-+ Kommungräns
+\+ Kommungräns
 
 APELSINEN
 
@@ -6426,7 +6426,7 @@ Ajourföringsdatum
 I Kungsbacka Koordinatsystem
 
 Kungsbacka kommun Kungsbacka | SWEREF99 12 00
-- . Höjdsystem
+\- . Höjdsystem
 
 Upprättad 2025-04-11 Reviderad RH 2000
 
@@ -7091,7 +7091,7 @@ Hälsa  och säkerhet
 
 Buller
 I samband med framtagandet av detaljplanen har en trafikbullerutredning (Ramboll 2020- 04-
-08) tagits fram för att undersöka planförslagets påverkan på bostäderna längs med Varlavägen.
+08\) tagits fram för att undersöka planförslagets påverkan på bostäderna längs med Varlavägen.
 En kompletterande utredningen togs fram 2025-01-14 av Efterklang. I den senare bullerutredningen
 har uppdaterade trafiksiffror använts och utredningsområdet har utökats för att undersöka om fler
 bostäder påverkas av utbyggnaden av Varlavägen.
@@ -7308,7 +7308,7 @@ Dagvatten
 I samband med detaljplanen har en dagvattenutredning tagits fram (Sweco 2021-05-18).
 Planförslaget innebär att den hårdgjorda ytan ökar i samband med utbyggnad av väg vilket i sin
 tur innebär en ökad föroreningsbelastning. För beräkning av fördröjningsvolym har
-hänsyn tagits till flödeskravet till Hallabäcken på 2 1/s*ha. Skillnaden i volym mellan inflöde
+hänsyn tagits till flödeskravet till Hallabäcken på 2 1/s\*ha. Skillnaden i volym mellan inflöde
 och utflöde under den mest kritiska perioden utgör den erforderliga fördröjningsvolymen.
 Intensitet, max-flöde och magasinsvolym beräknas för varaktigheter från 10 minuter till 4
 dygn. Den maximala magasinsvolymen under detta tidsspann väljs sedan som
@@ -8135,7 +8135,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 Länsstyrelsens yttrande bifogas.
 
 Kommentar:
@@ -8165,7 +8165,7 @@ väg troligtvis inte kräva att befintlig vägtrumma vid Hallabäcken förlängs
 kommer behöva flyttas något vid en breddning på båda sidor vilket kommer kräva att slänter
 ned mot bäcken förstärks.
 Alla beräkningar som är gjorda i dagvattenutredningen bygger på att det angivna flödeskravet
-på 2 l/*ha till Hallabäcken inte överskrids. Kommunen har inte varit i kontakt med
+på 2 l/\*ha till Hallabäcken inte överskrids. Kommunen har inte varit i kontakt med
 dikningsföretaget eftersom det ej är aktivt.
 
 I tabell 5 i dagvattenutredningen anges att flödet före och efter exploatering av DP2, 300
@@ -8181,19 +8181,19 @@ rensats.
 KUNGSBACKA  KOMMUN
 3 (19)
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Lantmäteriet har inget att erinra
 
-3. Trafikverket
+3\. Trafikverket
 
 Trafikverket har inget att erinra mot planförslaget under förutsättningen att förslaget inte alstra en
 väsentlig ökning i trafik vid det statliga vägnätet.
-4. Räddningstjänsten storgöteborg
+4\. Räddningstjänsten storgöteborg
 
 Räddningstjänstens framkomlighet bedöms bli bättre i och med planförslaget. Räddningstjänsten har
 därför inget att erinra inför samråd.
 
-5. Sveriges geotekniska institut
+5\. Sveriges geotekniska institut
 
 Utförda undersökningarna visar på förekomst av kvicklera. Enligt gällande regelverk (IEG Rapport 6)
 bör dimensionering av slänter och bankar i kvicklereområden utföras i GK3. Konsulten har valt att
@@ -8242,7 +8242,7 @@ KUNGSBACKA  KOMMUN
 
 Sakägare
 
-6. Ellevio
+6\. Ellevio
 
 Inom aktuellt område finns befintliga jordkabelledningar, för mellan- och lågspänning.
 Om befintliga jordkabelledningar måste flyttas eller ändras, permanent eller tillfälligt, får den som
@@ -8287,7 +8287,7 @@ transformatorstation. Placering av E-området har stämts av med Ellevio.
 KUNGSBACKA  KOMMUN
 6 (19)
 
-7. Fastighetsägare till Varla 2:13
+7\. Fastighetsägare till Varla 2:13
 
 Fastighetsägare anser att något måste göras gällande trafiksituationen på Varlavägen.
 
@@ -8331,7 +8331,7 @@ nödvändigt.
 KUNGSBACKA  KOMMUN
 7 (19)
 
-8. Fastighetsägare till Varla 2:15
+8\. Fastighetsägare till Varla 2:15
 
 Fastighetsägare ställer sig negativa till föreslagen utbyggnad av väg och kan inte acceptera en sådan
 åtgärd. Det är mycket buller redan idag och mätningar görs i ett program utan förankring i
@@ -8397,7 +8397,7 @@ mellan olika konsekvenser kommer behöva göras i samband med val av placering, 
 hur boendemiljö, befintliga ledningar och träd påverkas. Bullerskyddsplank kommer endast
 sättas upp på den västra sidan av vägen och inte mot industrifastigheterna på den östra sidan.
 
-9. Fastighetsägare till Varla 2:16
+9\. Fastighetsägare till Varla 2:16
 
 Fastighetsägare längs Varlavägens västra sida har sedan år 2000 uttryckt besvär över ökad
 trafikintensitet på Varlavägen och bullerstörningar. Upprepade skrivelser och yrkanden har gjorts
@@ -8439,7 +8439,7 @@ lämpligt. Placering av bullerskyddsskärm kommer hanteras i samband med projekt
 avvägning mellan olika konsekvenser kommer behöva göras i samband med val av placering,
 exempelvis hur befintliga ledningar och träd påverkas.
 
-10. Fastighetsägare till Varla 2:18
+10\. Fastighetsägare till Varla 2:18
 Fastighetsägaren känner oro inför den förändring som planförslaget föreslår. Anledningen beror på att
 när Varlavägen byggdes om förändrades dräneringen från fastigheten. Samtliga grannar har mycket
 vatten på sina tomter och trots att flera vidtagit åtgärder stannar vattnet kvar. Det upplevs som att det
@@ -8458,7 +8458,7 @@ bort och rena dagvatten från planområdet. Det har gjorts en dagvattenutredning
 på hur detta kan ske. Närliggande fastigheter kommer enligt utredning inte påverkas av
 dagvatten orsakade av planförslaget.
 
-11. Fastighetsägare till Varla 2:21
+11\. Fastighetsägare till Varla 2:21
 
 Privatperson har under lång tid varit störd av trafikbuller från Varlavägen. Detta har blivit värre sedan
 cirkulationsplatsen vid Tölö tvärled – Varlavägen byggdes ut då fordon stannar och startar när de
@@ -8486,7 +8486,7 @@ Att leda om trafik från Varlavägen till Göteborgsvägen anses ej vara lämpli
 en av flera utpekade trafikleder och att begränsa trafiken här skulle få negativa konsekvenser
 på trafiken i andra delar av Kungsbacka stad.
 
-12. Fastighetsägare till Varla 2:35
+12\. Fastighetsägare till Varla 2:35
 
 Fastighetsägaren önskar att bullerskydd uppförs längs med Varlavägen och inte längs med
 fastighetsgräns. Det är viktigt att hela utredningsområdet beaktas gällande buller och att grönområdet
@@ -8497,7 +8497,7 @@ Placering av bullerskyddsskärm kommer hanteras i samband med projektering. En a
 mellan olika konsekvenser kommer behöva göras i samband med val av placering, exempelvis
 hur boendemiljö, befintliga ledningar och träd påverkas.
 
-13. Fastighetsägare till Varla 2:37
+13\. Fastighetsägare till Varla 2:37
 
 Fastighetsägaren önskar att bullerskydd bör uppföras längs med Varlavägen och inte vid
 fastighetsgräns. Det är viktigt att hela utredningsområdet beaktas gällande buller och att grönytor
@@ -8508,7 +8508,7 @@ Placering av bullerskyddsskärm kommer hanteras i samband med projektering. En a
 mellan olika konsekvenser kommer behöva göras i samband med val av placering, exempelvis
 hur boendemiljö, befintliga ledningar och träd påverkas.
 
-14. Fastighetsägare till Varla 2:38
+14\. Fastighetsägare till Varla 2:38
 
 Fastighetsägaren önskar att bullerskydd uppförs längs med Varlavägen och inte vid fastighetsgräns.
 Det är viktigt att hela utredningsområdet beaktas gällande buller och att grönytor kvarstår. Ett
@@ -8524,7 +8524,7 @@ hur boendemiljö, befintliga ledningar och träd påverkas.
 KUNGSBACKA  KOMMUN
 11 (19)
 
-15. Fastighetsägare till Varla 2:67
+15\. Fastighetsägare till Varla 2:67
 
 Fastighetsägaren begär att bullerskydd uppförs vid breddning av Varlavägen och förutsätter att detta
 byggs längs hela Varlavägen fram till cirkulationsplatsen Stora Bäcksleden utan avbrott. Det hindrar
@@ -8535,7 +8535,7 @@ Placering av bullerskyddsskärm kommer hanteras i samband med projektering. En a
 mellan olika konsekvenser kommer behöva göras i samband med val av placering, exempelvis
 hur boendemiljö, befintliga ledningar och träd påverkas.
 
-16. Fastighetsägare till Varla 2:147
+16\. Fastighetsägare till Varla 2:147
 Fastighetsägaren önskar att bullerskydd uppförs längs med Varlavägen och inte längs med
 
 fastighetsgräns. Det är viktigt att hela utredningsområdet beaktas gällande buller och att grönområdet
@@ -8546,7 +8546,7 @@ Placering av bullerskyddsskärm kommer hanteras i samband med projektering. En a
 mellan olika konsekvenser kommer behöva göras i samband med val av placering, exempelvis
 hur boendemiljö, befintliga ledningar och träd påverkas.
 
-17. Fastighetsägare till Varla 8:17
+17\. Fastighetsägare till Varla 8:17
 
 Fastighetsägaren önskar inget bullerskydd mot fastigheten som skyler byggnad och dess verksamhet.
 
@@ -8560,7 +8560,7 @@ KUNGSBACKA  KOMMUN
 
 Organisationer och föreningar
 
-18. Varla villaförening
+18\. Varla villaförening
 
 Varla Villaförening är positiva att planförslaget möjliggör för bullerskydd. De ser ett behov av
 bullerskydd även för fastigheter längs Nils Ebbesgårdsgatan som drabbas av buller från
@@ -8572,7 +8572,7 @@ generellt leder till högre hastigheter.
 
 Vidare anser Varla Villaförening att följande bör tas i beaktning:
 
-1. Trafikmängden som ligger som grund för beräkningarna bör ta hänsyn till planerade projekt
+1\. Trafikmängden som ligger som grund för beräkningarna bör ta hänsyn till planerade projekt
 men även titta framåt och ta höjd för ett växande Kungsbacka.
 a) Varla 2:198 m.fl. handelsområdet i Varla västra
 
@@ -8584,7 +8584,7 @@ f) Omfördelningen av trafik inom Kungsbacka.
 g) Kvarteret Valand och den utbyggda Kungsmässan
 h) Andra kommande projekt.
 
-2. Bullernivåer i Varla som måste bli lägre än idag för alla fastigheter men för detta projekt
+2\. Bullernivåer i Varla som måste bli lägre än idag för alla fastigheter men för detta projekt
 specifikt för följande;
 a) Bengtsgårdsgatan 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 samt
 
@@ -8597,7 +8597,7 @@ av bullret från utfarten Energigatan. Trafiken på Stora Bäcksleden ökar äve
 fler upptäckt genvägen till Säröleden samt den beräknade ökande trafiken på Stora Bäcksleden
 från byggprojekten i Varla.
 
-3. Att bullerskyddet ska vara sammanhängande och placeras vid väg samt vara i ett underhållsfritt
+3\. Att bullerskyddet ska vara sammanhängande och placeras vid väg samt vara i ett underhållsfritt
 material som bidrar till ett förskönande intryck. Det är viktigt att skyddet inte skapar ett
 instängt intryck för betraktare och boenden, därför lämpar sig ett transparent skydd. Särskild
 
@@ -8613,32 +8613,32 @@ bullerskydd vid väg bör göras tillgänglig för fastighetsägarna då det int
 fastigheterna östra sida förutom via grönområdet. Det är även viktigt att grönområdet intill
 Varlavägen fortsatt är tillgängligt för boende i området.
 
-4. Översvämning som uppstår väster om befintlig Varlaväg på grund av bristfällig dränering, vid
+4\. Översvämning som uppstår väster om befintlig Varlaväg på grund av bristfällig dränering, vid
 häftigt regn eller i samband med snösmältning, och måste åtgärdas i samband med
 nybyggnationen. Denna översvämning drabbar fastigheterna i enlighet med 2a ovan.
 
-5. Att gång- och cykelvägen utmed Varlavägens östra sida behålls som funktion.
+5\. Att gång- och cykelvägen utmed Varlavägens östra sida behålls som funktion.
 
-6. Nästan dagligen förekommer det ”racing” (bilar och MC) på sträckan mellan Tölö Tvärled och
+6\. Nästan dagligen förekommer det ”racing” (bilar och MC) på sträckan mellan Tölö Tvärled och
 Stora Bäcksleden. Därför bör någon form av dämpande effekt på hastigheten införas. Det kan
 vara hastighetskontroller eller hastighetsbegränsande åtgärd för att minimera risken för en
 allvarlig olycka och de ljud som alstras vid ”racing”. Sannolikt ökar intresset och möjligheten
 till ”racing” när vägen breddas till 2+2 filer.
 
-7. Vi önskar att kommunen bevakar utfallet av bullerskydden efter uppförandet med
+7\. Vi önskar att kommunen bevakar utfallet av bullerskydden efter uppförandet med
 
 bullermätningar inte bara teoretiska utan även göra vissa fysiska mätningar för att verifiera de
 teoretiska.
 Kommentar:
 
-1. En utbyggnad av vägen är en förutsättning för ett växande Kungsbacka. Varje enskild
+1\. En utbyggnad av vägen är en förutsättning för ett växande Kungsbacka. Varje enskild
 detaljplan hanterar frågor om trafik. I samband med framtagande av bullerutredningen har
 nya trafiksiffror använts som tar hänsyn till framtida trafik. Vid detaljplaner brukar
 Trafikverkets trafikalstringsverktyg användas. Verktyget är ett planeringsstöd utformat för
 att underlätta skattning av trafikalstring i samband med planering av nya eller befintliga
 områden. De resultat som beräknas i verktyget kan ses som riktvärden.
 
-2. Utförd bullerutredning har utrett hur bostäder längs med Varlavägen påverkas och därför
+2\. Utförd bullerutredning har utrett hur bostäder längs med Varlavägen påverkas och därför
 har inte fastigheterna med adressen Nils Ebbesgårdsgatan 2, 4, 8, 16, 18, 20 och
 
 Bengtsgårdsgatan 3 och 5 utretts. Utifrån befintlig utredning framgår det att adressen Nils
@@ -8656,7 +8656,7 @@ buller uppfattas som störande bör Miljö & Hälsoskydd kontaktas.
 KUNGSBACKA  KOMMUN
 14 (19)
 
-3. Utformning av bullerskydd kommer inte regleras i samband med detaljplanen utan detta
+3\. Utformning av bullerskydd kommer inte regleras i samband med detaljplanen utan detta
 hanteras i samband med förprojektering av väg och bullerskydd. Kungsbacka kommun
 
 håller dock med om att gestaltningen av eventuellt bullerskydd är av stor vikt för att inte
@@ -8665,18 +8665,18 @@ i samband med projektering. En avvägning mellan olika konsekvenser kommer behö
 göras i samband med val av placering, exempelvis hur boendemiljö, befintliga ledningar
 och träd påverkas.
 
-4. Planförslaget kommer att förses med ett dagvattensystem för att avvattna, leda bort och
+4\. Planförslaget kommer att förses med ett dagvattensystem för att avvattna, leda bort och
 rena dagvatten. Det har gjorts en dagvattenutredning med förslag på hur detta kan ske.
 Närliggande fastigheter kommer enligt utredning inte påverkas av dagvatten orsakade av
 planförslaget.
 
-5. Gång- och cykelvägen kommer behålla sin funktion.
+5\. Gång- och cykelvägen kommer behålla sin funktion.
 
-6. Mätningar visar att merparten av trafikanterna på Varlavägen respekterar skyltad
+6\. Mätningar visar att merparten av trafikanterna på Varlavägen respekterar skyltad
 hastighet. Varlavägen är en genomfartsled och framkomligheten är därför prioriterad.
 Några hastighetsbegränsande åtgärder är därför inte planerade.
 
-7. Buller kan både mätas och beräknas men i bullerutredningar är det brukligt att använda
+7\. Buller kan både mätas och beräknas men i bullerutredningar är det brukligt att använda
 beräkning som metod. Naturvårdsverket har beräkningsmetoder för beräkning av buller från
 vägar och järnvägar och som är nationellt vedertagna. Dessa används bland annat av
 
@@ -8704,7 +8704,7 @@ KUNGSBACKA  KOMMUN
 
 Kommunala förvaltningar och nämnder
 
-19. Teknik
+19\. Teknik
 
 Gång- och cykelstråket längs Varlavägen är ett av kommunens tyngst trafikerade stråk och utgör en
 viktig länk in mot centrum. Då det inte finns några målpunkter längs stråket är det främst till för
@@ -8784,7 +8784,7 @@ dagvatten i planbeskrivningen har förtydligats i enlighet med Tekniks yttrande.
 Övriga delar av förvaltningens yttrande anses avse projektering av väg och bullerskydd. Yttrandet
 vidarebefordras därför i sin helhet till avdelningen Projekt & bygg på förvaltningen för Teknik.
 
-20. Miljö & Hälsoskydd
+20\. Miljö & Hälsoskydd
 
 Miljö & Hälsoskydd har yttrat sig i ärendet som gäller cirkulationsplatsen i korsningen Arendalsleden-
 Varlavägen, ert diarienummer PL/2018:30. I yttrandet i samrådet påtalades att dammen sydost om
@@ -8866,7 +8866,7 @@ Hälsoskydd.
 
 Övriga
 
-21. Hallandstrafiken
+21\. Hallandstrafiken
 
 När vägen breddas ska även busshållplatserna flyttas ut, det är viktigt att anslutningsvägarna hamnar
 bra och kopplar till befintliga målpunkter. En breddning av vägen kan förbättra framkomligheten för
@@ -9602,7 +9602,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 Detaljplanens överensstämmelse med översiktsplanen
 
 Länsstyrelsen delar kommunens bedömning att detaljplanen överensstämmer med översiktsplanen.
@@ -9866,7 +9866,7 @@ En översiktlig miljöteknisk markundersökning (Kodeda konsulter AB, 2025) har 
 det bedöms föreligga saneringsbehov på grusytan som representeras av provpunkt 2, för lagret
 0-0,5 m under markytan, där massorna ska omhändertas som IFA-massor (föroreningsgran
 
->MKM, <FA). En planbestämmelse har införts på område i plankartan där annexet är
+\>MKM, \<FA). En planbestämmelse har införts på område i plankartan där annexet är
 lokaliserat i form av ”Startbesked får inte ges för byggnad förrän markförorening ned till KM
 (känslig markanvändning) uppfylls.”
 
@@ -9940,7 +9940,7 @@ planbeskrivningen.
 KUNGSBACKA  KOMMUN
 9 (37)
 
-2. SGI
+2\. SGI
 
 Enligt 2 kap 5 § PBL ska bebyggelse och byggnadsverk lokaliseras till mark som är lämpad för
 ändamålet med hänsyn till bland annat människors hälsa och säkerhet samt med hänsyn till risken för
@@ -10002,7 +10002,7 @@ utvecklar förutsättningarna för grundläggning och säkerhetsåtgärder i
 genomförandeskedet. De slutsatser och rekommendationer som beskrivits i
 tidigare utredning är fortfarande relevanta.
 
-3. Trafikverket
+3\. Trafikverket
 
 Trafikflöde
 Trafikverket välkomnar kommunens åtgärder för att göra hållbara transporter mer attraktiva för
@@ -10077,7 +10077,7 @@ och detta säkerställs i byggskedet.
 KUNGSBACKA  KOMMUN
 12 (37)
 
-4. Lantmäteriet
+4\. Lantmäteriet
 För plangenomförandet viktiga frågor där planen behöver förbättras
 
 (Här redovisas synpunkter om sådana frågor som Lantmäteriet särskilt ska bevaka och sådant som vi
@@ -10138,7 +10138,7 @@ avseende de reviderade planbestämmelserna.
 Hur gällande detaljplaner påverkas i och med aktuellt detaljplaneförslag har förtydligats i
 planbeskrivningen.
 
-5. Räddningstjänsten
+5\. Räddningstjänsten
 Överväganden
 
 Riskhänsyn
@@ -10149,10 +10149,10 @@ kostnadsmässigt rimliga och tekniskt genomförbara åtgärder bör genomföras 
 anges vidare att den totala risknivån för området anses vara godtagbar utifrån de tillämpade
 riskkriterierna om följande skyddsåtgärder genomförs:
 
-- Utrymning bör vara möjlig bort från Västkustbanan.
+\- Utrymning bör vara möjlig bort från Västkustbanan.
 
-- Ventilation bör placeras i högt läge och bortvänd från Västkustbanan.
-- Större entréer på arenan bör placeras så att de inte vetter mot Västkustbanan.
+\- Ventilation bör placeras i högt läge och bortvänd från Västkustbanan.
+\- Större entréer på arenan bör placeras så att de inte vetter mot Västkustbanan.
 
 Åtgärden gällande placering av ventilation har införts som planbestämmelse. RSG kan inte se att
 övriga åtgärder (möjlighet till utrymning bort från järnvägen samt placering av entré) har beaktats.
@@ -10197,7 +10197,7 @@ finns för utryckningsfordon att ta sig fram utan hinder.
 En ny brandpost föreslås etableras i torgets västra del för att uppfylla gällande riktlinjer för
 avstånd mellan brandposterna. Exakt placering bestäms i projekteringsskedet.
 
-6. Havs- och vattenmyndigheten
+6\. Havs- och vattenmyndigheten
 
 Havs- och vattenmyndigheten har tagit del av samrådsunderlaget i rubricerat ärende.
 Myndigheten avstår från att lämna synpunkter på underlaget. Det innebär inte att myndigheten tagit
@@ -10207,7 +10207,7 @@ Kommentar: Noteras.
 
 Organisationer och föreningar
 
-7. Kulturmiljö Halland
+7\. Kulturmiljö Halland
 
 Kulturmiljö Halland har fått rubricerat ärende för yttrande. Vi har inget att erinra mot förslaget. Flera
 kända fornlämningar finns i närområden runt aktuellt område, varför undersökning bör göras på
@@ -10225,7 +10225,7 @@ aktuell detaljplan.
 
 Kommunala  förvaltningar och nämnder
 
-8. Teknik
+8\. Teknik
 
 Teknik är positiva till förslaget att utveckla området för att möjliggöra för större idrotts-, näringslivs
 och kulturevenemang inom planområdet. Planens syfte stämmer väl med gällande översiktsplan där
@@ -10349,7 +10349,7 @@ Inför granskningsskedet av detaljplanen har dagvattenutredningen reviderats. Nu
 större mängd av rening och fördröjning av vatten att ske genom öppna lösningar i form av
 bland annat krossdiken och rain-gardens.
 
-9. Nämnden för Vård och Omsorg
+9\. Nämnden för Vård och Omsorg
 
 Nämnden för Vård & Omsorg har tagit del av detaljplan för Kungsbacka Arena i Kungsbacka tätort
 inom fastigheten: Kungsbacka 4:56. Användning idrott, kultur och mötesplats. Vård & Omsorg vill
@@ -10363,7 +10363,7 @@ Kommentar: Noterat.
 KUNGSBACKA  KOMMUN
 18 (37)
 
-10. Nämnden för miljö och hälsoskydd
+10\. Nämnden för miljö och hälsoskydd
 Tidigare remiss gällde inte detta område som nu är på samråd, utan området öster om järnvägen. Detta
 gäller området väster om järnvägen.
 
@@ -10452,7 +10452,7 @@ området.
 En översiktlig miljöteknisk markundersökning (Kodeda konsulter AB, 2025) har tagits fram där
 det bedöms föreligga saneringsbehov på grusytan som representeras av provpunkt 2, för lagret
 0-0,5 m under markytan, där massorna ska omhändertas som IFA-massor (föroreningsgrad
->MKM, <FA). En planbestämmelse har införts på område i plankartan där annexet är
+\>MKM, \<FA). En planbestämmelse har införts på område i plankartan där annexet är
 
 <!-- sida 281 -->
 
@@ -10466,7 +10466,7 @@ lokaliserat i form av ”Startbesked får inte ges för byggnad förrän markfö
 Om föroreningar påträffas under byggtiden kommer detta anmälas till Miljö och Hälsoskydd i
 enlighet med 10 kap. 11§ miljöbalken.
 
-11. Nämnden för service
+11\. Nämnden för service
 Nämnden för Service ställer sig i huvudsak positivt till planförslaget, undantaget vissa synpunkter som
 listas längre ned i dokumentet. Planförslaget har som ändamål att tillskapa flera olika byggrätter
 
@@ -10475,47 +10475,47 @@ Planförslaget möjliggör också för kommersiell verksamhet.
 Nämndens ställningstagande i detalj
 
 Nämnden för Service är i huvudsak positiv till planförslaget, dock med följande synpunkter;
-1. Ytan för annexbyggnaden som har användningsbestämmelserna C och R är begränsad för
+1\. Ytan för annexbyggnaden som har användningsbestämmelserna C och R är begränsad för
 kommunal besöksverksamhet (ex fullmåttshall). Önskvärt vore om ytan i markplan kan ses över för
 eventuell utökning för att även möjliggöra kommunal verksamhet i framtiden.
 
-2. Ytan för annexbyggnaden som har användningsbestämmelserna C och R, kommer bli utmanande att
+2\. Ytan för annexbyggnaden som har användningsbestämmelserna C och R, kommer bli utmanande att
 bygga dikt an arenabyggnaden p.g.a nuvarande utformning. Kontor och restaurang i arenan som vetter
 mot annexbyggnaden försvårar detta och har med dagsljusinsläpp.
-3. Smal remsa öster om byggrätten för R1 har en diagonal form. Svårt att utröna om det är en
+3\. Smal remsa öster om byggrätten för R1 har en diagonal form. Svårt att utröna om det är en
 nödvändighet. Kan byggrätten göras mer kvadratiskt är det till en fördel.
 
-4. Smal remsa öster om byggrätten för R innehåller egenskapsbestämmelse p , som hänvisar till
+4\. Smal remsa öster om byggrätten för R innehåller egenskapsbestämmelse p , som hänvisar till
 1                       1
 prickad mark. Dock förekommer bestämmelse på både icke prickad mark och på korsmark.
-5. Ytan för användningsbestämmelse R , saknar egenskapsbestämmelse för n , dvs belysningsmaster.
+5\. Ytan för användningsbestämmelse R , saknar egenskapsbestämmelse för n , dvs belysningsmaster.
 2                        2
 Kommentar: Se svar nedan;
-1. Annexbyggnadens användningsbestämmelser skapar en flexibilitet för flera
+1\. Annexbyggnadens användningsbestämmelser skapar en flexibilitet för flera
 användningsområden och kommunal verksamhet i form av exempelvis idrottshall blir
 därmed planenligt. Byggrätten är cirka 1200 kvm stor vilket bedöms tillräckligt för att fylla
 byggnaden med ett attraktivt och efterfrågat innehåll på sikt.
-2. Till granskningsskedet har byggrätten för annexet justerats. Det är nu inlagt att det ska
+2\. Till granskningsskedet har byggrätten för annexet justerats. Det är nu inlagt att det ska
 finnas ett avstånd mellan arenabyggnad och annex i markplan och på plan två för att inte
 påverka arenans verksamheter invändigt på ett negativt sätt med brist på bland annat
 ljusinsläpp och entrépunkter. Annexet och arenan kommer däremot vara möjliga att bygga
 samman från arenans plan tre där kontorsytor föreslås om intresse för detta finns på sikt.
-3. Den diagonala formen föranleds av skyddsavståndet om 80 meter mellan järnvägsspåret
+3\. Den diagonala formen föranleds av skyddsavståndet om 80 meter mellan järnvägsspåret
 och byggnaden ur ett riskperspektiv.
-4. Revideras inför granskning av detaljplanen.
+4\. Revideras inför granskning av detaljplanen.
 
 <!-- sida 282 -->
 
 KUNGSBACKA  KOMMUN
 21 (37)
 
-5. Det är möjligt att uppföra belysningsmastar även på prickad mark (Mark där byggnad inte
+5\. Det är möjligt att uppföra belysningsmastar även på prickad mark (Mark där byggnad inte
 
 får uppföras) då en belysningsmast inte är en byggnad.
 
 Övriga
 
-12. Västtrafik
+12\. Västtrafik
 Västtrafik har tagit del av ovan nämnda samrådshandling. Vi har inget att erinra. Vi har aktivt deltagit i
 framtagande av dokumentet tillhörande planen: Mobilitet-och parkering för Kungsbacka sportcenter:
 Åtgärdsplan för tillgängliga evenemang. Det är positivt att kommunen i tidigt skede arbetat med
@@ -10530,12 +10530,12 @@ arenan behöver ta sig.
 Yttrandet är avstämt med Hallandstrafiken.
 Kommentar: Noterat.
 
-13. Ellevio
+13\. Ellevio
 
 Ellevio har ingenting att erinra.
 Kommentar: Noterat.
 
-14. E.ON
+14\. E.ON
 
 E.ON Energidistribution AB (E.ON) har tagit del av inkomna handlingar i ovan rubricerat ärende och
 har följande synpunkter.
@@ -10588,7 +10588,7 @@ till Södra infarten.
 
 Utformning av transformatorstationen ansvarar Förvaltningen för service för.
 
-15. PostNord
+15\. PostNord
 
 PostNord har i uppdrag att tillhandahålla den samhällsomfattande posttjänsten vilket bland annat
 innebär att det är Postnord som ska godkänna placeringen och standarden på
@@ -10613,20 +10613,20 @@ befintlig alt ny infrastruktur.
 En placering som inte är godkänd leder till att posten inte börjar delas ut till adressen.
 Kommentar: Noterat.
 
-16. Skanova
+16\. Skanova
 
 Skanova har inget att erinra mot detaljplanen. Skanovas teleanläggningar/rättigheter berörs
 inte/påverkas inte av rubricerat planförslag.
 Kommentar: Noterat.
 
-17. Swedavia airport
+17\. Swedavia airport
 Nuvarande planförslag (Dnr 2019:00020) bedöms inte innebära någon negativ påverkan på Göteborg
 Landvetter Airport.
 
 Swedavia har inga övriga synpunkter och därmed inget att erinra i detta samråd.
 Kommentar: Noterat.
 
-18. Miljöpartiet i Kungsbacka
+18\. Miljöpartiet i Kungsbacka
 
 Miljöpartiet stöttar att det är viktigt med mötesplatser för sport och kultur, mötesplatser som främjar
 jämlikhet och mångfald, som både stärker Kungsbacka som stad och stärker tillgänglighet för olika
@@ -10679,7 +10679,7 @@ Hede station och arenan, utveckla attraktiva gång- och cykelstråk, förstärkn
 
 kollektivtrafik, parkeringsledningssystem med flera.
 
-19. Socialdemokraterna i Kungsbacka
+19\. Socialdemokraterna i Kungsbacka
 Aktuellt yttrande
 
 Planering och placering av byggnad.
@@ -10791,7 +10791,7 @@ behovet av detta finns.
 KUNGSBACKA  KOMMUN
 27 (37)
 
-20. Region Halland
+20\. Region Halland
 Region Halland tackar för möjligheten att yttra sig över detaljplanen. Yttrandet är avstämt mot aktuella
 förvaltningar, inklusive Hallandstrafiken. Bedömningen från regionen är att det är positivt att
 verksamheter samlas, särskilt i ett bra läge som ligger nära starka kollektivtrafikstråk. För att göra
@@ -10805,14 +10805,14 @@ Kommentar: I ”Åtgärdsplan för tillgängliga evenemang” ges förslag på 2
 stärka mobiliteten till området, bland annat en utökad kollektivtrafik, skyttelbussar vid
 evenemang och tydligare gång- och cykelstråk mellan olika målpunkter.
 
-21. Mölndals stad
+21\. Mölndals stad
 
 Mölndals Stad, samhällsbyggnadsförvaltningen, tackar för möjligheten att komma med synpunkter på
 ovan rubricerat ärende. Emellertid avstår förvaltningen att inkomma med synpunkter i enlighet med
 kommunstyrelsens delegeringsordning, punkt E7.
 Kommentar: Noteras.
 
-22. Aranäs fastigheter
+22\. Aranäs fastigheter
 
 Att skapa en symbolbyggnad i Kungsbacka och den stolthet som det för med sig är en fantastisk
 målbild. En multiarena för idrott, kultur, event och fotboll som vi alla kan använda, en ny mötesplats i
@@ -10838,14 +10838,14 @@ Kommentar: Noteras.
 KUNGSBACKA  KOMMUN
 28 (37)
 
-23. Kommuninvånare 1
+23\. Kommuninvånare 1
 Ni bygger sönder den småstad de flesta flyttat hit för. Bor ni ens i Kungsbacka själva eller är ni
 skyddade i mindre samhällen från era egna beslut. Vägarna köar igen, översvämningar hotar. Låt
 båthamnen och lugnet bero. Vandaler.
 
 Kommentar: Noteras.
 
-24. Kommuninvånare 2
+24\. Kommuninvånare 2
 Jag anser som skattebetalare i kommunen att detta ”skrytbygge” är ett slöseri utan dess like med
 skattepengar som skulle kunna användas på ett betydligt bättre sätt, satsa på äldrevård, sjukvård,
 skolor, trafikmiljö för rullstolar och andra med funktionshinder, satsa på våra unga medborgare med
@@ -10870,7 +10870,7 @@ lokaler som restauranger, kontor med mera som gör platsen attraktiv för flera 
 Kommunen har en tydlig målsättning att växa och då är det viktigt att tillskapa funktioner,
 utöver bostäder, som bidrar till att skapa en attraktiv stad för boenden och besökare.
 
-25. Kommuninvånare 3
+25\. Kommuninvånare 3
 Jag är emot en ny arena i Kungsbacka. Det finns tomma tider på nuvarande arenor i Göteborg och
 
 våran smidiga anslutning med pendeltåget gör att vi inte behöver göra denna kostsamma satsning.
@@ -10889,7 +10889,7 @@ Kommentar: En multiarena i Kungsbacka kommer uppfylla flera behov än de anlägg
 som finns i staden idag och kompletterar Kungsbacka sportcenter till en än mer attraktiv och
 naturlig besöksmål för boenden i Kungsbacka men även besökare från andra kommuner.
 
-26. Kommuninvånare 4
+26\. Kommuninvånare 4
 
 Nej till ny arena. Vi ska inte ta ett lån och betala avbetalning samt ränta. Pengar som detta
 kostar måste kommunen istället lägga på att öka anslagen till vården och skolan. Alternativt
@@ -10900,7 +10900,7 @@ Kommentar: Kommunfullmäktige fattade beslutet i april 2021 att en funktionell, 
 robust arena innehållandes kommersiella lokaler ska byggas i kommunen och att
 investeringsmedel ska avsättas för detta.
 
-27. Kommuninvånare 5
+27\. Kommuninvånare 5
 
 För det första, vill ni verkligen ha synpunkter? Har ni inte insett att vägen fram, via QR-kod, är
 samtidigt exkluderande. Det borde vara betydligt enklare, att kunna lämna synpunkter. Att det blir
@@ -10947,7 +10947,7 @@ placeringen intill badhus, ishall, teater och gymnasieskolor är väl avvägd. P
 inom korta avstånd till busshållplats, Kungsbacka station och med goda möjligheter att ta sig
 till platsen både till fots, med cykel samt bil.
 
-28. Kommuninvånare 6
+28\. Kommuninvånare 6
 Sluta med alla byggnadsprojekt i Kungsbacka kommun, ni förgiftar redan nu badplatserna i
 kommunen!
 
@@ -10974,7 +10974,7 @@ och cykelnät som leder till arenaområdet.
 KUNGSBACKA  KOMMUN
 31 (37)
 
-29. Kommuninvånare 7
+29\. Kommuninvånare 7
 Vi är många i Kungsbacka som undrar om politikerna här lider av storhetsvansinne. Ni har tillåtit att
 bygga ut hela stan med omnejd utan att det finns tillräckligt med vatten, det kommer vi att behöva
 
@@ -10997,7 +10997,7 @@ Kommunfullmäktige fattade beslutet i april 2021 att en funktionell, attraktiv o
 innehållandes kommersiella lokaler ska byggas i kommunen och att investeringsmedel ska
 avsättas för detta.
 
-30. Kommuninvånare 8
+30\. Kommuninvånare 8
 
 Angående konstgräsplanerna tycker jag att vi ska installera markvärmerör för bättre utnyttjande och
 billigare underhåll över tid. Pris för varje plan bör ligga på ca 1,100 000. Därtill kommer en pump som
@@ -11009,7 +11009,7 @@ hallen, utan all fotboll spelas utomhus). Tacksam för feedback.
 Kommentar: Noteras. Synpunkten sänds vidare till förvaltningen för Service som ansvarar
 för utbyggnad och drift av konstgräsplanerna.
 
-31. Kommuninvånare 9
+31\. Kommuninvånare 9
 
 Jag vill bara säga NEJ! Jag tycker att Kungsbacka Kommun skall akta dig för att dra igång ett projekt
 av denna storlek. Man kan ha stora drömmar och det är fint med visioner men jag anser att innan man
@@ -11037,7 +11037,7 @@ Idrott är fantastisk på många sätt och den behövs men inte på bekostnad av
 
 Kommentar: Noteras.
 
-32. Kommuninvånare 10
+32\. Kommuninvånare 10
 
 Kungsbacka behöver inte en stor arena för elitidrott och större evenemang. Kungsbacka bör fortsätta
 vara en småstad och kommunen bör inte satsa på sådana här jätteprojekt, utan genomföra mindre
@@ -11057,7 +11057,7 @@ Arenans placering gör det möjligt att ta sig dit med flertalet färdmedel, int
 är korta avstånd till busshållplats och Kungsbacka station. Det finns även ett väl utbyggt gång-
 och cykelnät som leder till arenaområdet.
 
-33. Kommuninvånare 11
+33\. Kommuninvånare 11
 
 Varför bygga en stor arena i ett område där vi vet att vattennivån kommer att stiga. Gräsplanen
 närmarmast Båtklubben är redan vattensjuk.
@@ -11099,17 +11099,17 @@ bil. Busshållplats finns i direkt anslutning och Kungsbacka station är inom pr
 Det finns även ett väl utbyggt gång- och cykelvägnät till området. Vid större evenemang
 kommer det även genomföras flertalet åtgärder som gör det möjligt att ta sig till platsen med
 andra färdmedel än bil, se ”Åtgärdsplan för tillgängliga evenemang” (Kungsbacka kommun,
-2025) som är en bilaga till detaljplanen.
+2025\) som är en bilaga till detaljplanen.
 Om fyrspår byggs ut i längs järnvägen kommer det ske mot öster vilket inte påverkar
 
 arenaprojektet eller arenans närhet till järnvägen.
 Arenabyggnaden kommer pålgrundläggas ned till berg.
 
-34. Kommuninvånare 12
+34\. Kommuninvånare 12
 
-1. Motsätter mig beslutet om Arenan o kostnaderna därav.
+1\. Motsätter mig beslutet om Arenan o kostnaderna därav.
 
-2. Om arenabygget blir av, dess placering. De öppna ytorna behövs!
+2\. Om arenabygget blir av, dess placering. De öppna ytorna behövs!
 
 <!-- sida 295 -->
 
@@ -11122,7 +11122,7 @@ De stora gräsytorna i området kommer i stort bevaras som de är idag. En stör
 kommer byggas mellan arenan, ishallen och badhuset där flertalet funktioner inklusive mer
 grönska än idag kommer finnas.
 
-35. Kommuninvånare 13
+35\. Kommuninvånare 13
 
 Att genomföra ett s.k. samråd för Arenan, utan att samtidigt presentera investeringskostnad och
 driftsbudget för oss kommuninnevånare/skattebetalare, är totalt meningslöst. Vad är det vi skall ha en
@@ -11148,12 +11148,12 @@ kommunen kan bemöta då det är politiska beslut som är fastställda.
 Driftbudgeten är inte fastställd ännu varför vi inte hade svar på samtliga frågor kring detta på
 mötet.
 
-36. Kommuninvånare 14
+36\. Kommuninvånare 14
 Jag ser ingen utredning om i vilken grad trafiken på Kungsgatan och vidare via Vallgatan
 /Storgatan till Varbergsvägen kommer att öka. Redan idag är det ofta svårt att svänga ut från
 Kollavägen till Kungsgatan och köer på Vallgatan/Storgatan till Varbergsvägen.
 
-*Utredningen föreslår ingen ändring av trafiken norrifrån på Södra Infarten till arenan. Jag anser
+\*Utredningen föreslår ingen ändring av trafiken norrifrån på Södra Infarten till arenan. Jag anser
 detta vara fel och man borde utreda möjligheten att flytta Södra Infarten att gå längs järnvägen
 
 från rondellen vid Hantverksgatan eller möjligen först vid Läraregatan. Detta för att få bort
@@ -11164,11 +11164,11 @@ biltrafiken bredvid badhuset när trafikvolymen till arenan ökar på trafiken.
 KUNGSBACKA  KOMMUN
 35 (37)
 
-*Utredningen räknar med parkering i Parkeringshus Linden vid större arrangemang.
+\*Utredningen räknar med parkering i Parkeringshus Linden vid större arrangemang.
 Utredningen borde innehålla planer för gångväg därifrån, förslagsvis via gång/cykelväg närmast
 öster om sporthall och badhus.
 
-*För att minska trafiken genom centrala Kungsbacka bör man även utreda att skapa
+\*För att minska trafiken genom centrala Kungsbacka bör man även utreda att skapa
 parkeringsplatser i dödutrymmet mellan Södra Infarten och Inlagsleden samt gång/cykelväg
 därifrån till arenan och längs Inlagsleden västerut.
 
@@ -11259,17 +11259,17 @@ daterade 2025-01-14. Detaljplanen handläggs med utökat förfarande.
 
 Under samrådet ska Länsstyrelsen enligt 5 kap. 14 § PBL särskilt
 
-1. ta till vara och samordna statens intressen
-2. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
+1\. ta till vara och samordna statens intressen
+2\. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
 (1998:808), MB, tillgodoses, att miljökvalitetsnormer enligt
 5 kap. MB följs och att strandskydd enligt 7 kap. MB inte
 
 upphävs i strid med gällande bestämmelser
-3. verka för att sådana frågor om användningen av mark- och
+3\. verka för att sådana frågor om användningen av mark- och
 vattenområden som angår två eller flera kommuner
 samordnas på ett lämpligt sätt
 
-4. verka för att en bebyggelse inte blir olämplig eller ett
+4\. verka för att en bebyggelse inte blir olämplig eller ett
 byggnadsverk olämpligt med hänsyn till människors hälsa
 eller säkerhet eller till risken för olyckor, översvämning eller
 erosion.
@@ -11316,7 +11316,7 @@ Länsstyrelsen delar kommunens bedömning att detaljplanen
 överensstämmer med översiktsplanen.
 
 Länsstyrelsens synpunkter
-- prövningsgrunder  enligt 11 kap. 10 § PBL
+\- prövningsgrunder  enligt 11 kap. 10 § PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i
 11 kap. 10 § PBL och nu kända förhållanden att frågor som rör
@@ -11536,7 +11536,7 @@ detaljplanen.
 
 Länsstyrelsens synpunkter
 
-- råd enligt 2 kap. PBL
+\- råd enligt 2 kap. PBL
 
 Naturmiljövärden
 Det finns observationer av jättebalsamin i anslutning till
@@ -13321,9 +13321,9 @@ Utifrån resultaten av tagna markprover bedöms sammanfattningsvis ingen sanerin
 nödvändig för de identifierade arsenik-, nickel- och alifathalterna, då dessa antingen har
 naturligt ursprung eller förekommer på djup där exponering och spridning är begränsad. Om det
 uppstår kvittblivningsbehov för massor från dessa lager, ska dessa massor hanteras som MKM-
-massor (föroreningsgrad >KM, <MKM). Däremot bedöms det föreligga saneringsbehov på
+massor (föroreningsgrad >KM, \<MKM). Däremot bedöms det föreligga saneringsbehov på
 grusytan som representeras av provpunkt 2, för lagret 0-0,5 m under markytan, där massorna
-ska omhändertas som IFA-massor (föroreningsgrad >MKM, <FA).
+ska omhändertas som IFA-massor (föroreningsgrad >MKM, \<FA).
 En planbestämmelse har införts på område i plankartan där annexet är lokaliserat i form av
 
 • ”Startbesked får inte ges för byggnad förrän markförorening ned till KM (känslig
@@ -14490,36 +14490,36 @@ arter
 
 Remissinstanser
 
-1. Alingsås kommun
+1\. Alingsås kommun
 
-2. Centrum för biologisk mångfald
-3. Danderyd kommun
+2\. Centrum för biologisk mångfald
+3\. Danderyd kommun
 
-4. Djurens Rätt
-5. Djurskyddet Sverige
+4\. Djurens Rätt
+5\. Djurskyddet Sverige
 
-6. Ekologiska Lantbrukarna
+6\. Ekologiska Lantbrukarna
 
-7. Fastighetsägarna
-8. Fortifikationsverket
+7\. Fastighetsägarna
+8\. Fortifikationsverket
 
-9. Fritidsodlingens Riksorganisation
+9\. Fritidsodlingens Riksorganisation
 
-10. Göteborgs kommun
-11. Götene kommun
+10\. Göteborgs kommun
+11\. Götene kommun
 
-12. Havs- och vattenmyndigheten
-13. Holmen Skog AB
+12\. Havs- och vattenmyndigheten
+13\. Holmen Skog AB
 
-14. Jokkmokks kommun
+14\. Jokkmokks kommun
 
-15. Jägarnas Riksförbund
-16. Karlshamns kommun
+15\. Jägarnas Riksförbund
+16\. Karlshamns kommun
 
-17. Kommerskollegium
+17\. Kommerskollegium
 
-18. Kristianstads kommun
-19. Kungsbacka kommun
+18\. Kristianstads kommun
+19\. Kungsbacka kommun
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Herkulesgatan 17
@@ -14527,91 +14527,91 @@ E-post: kn.registrator@regeringskansliet.se
 
 <!-- sida 369 -->
 
-20. Lantbrukarnas Riksförbund
+20\. Lantbrukarnas Riksförbund
 
-21. Leksands kommun
-22. Livsmedelsverket
+21\. Leksands kommun
+22\. Livsmedelsverket
 
-23. Länsstyrelsen i Blekinge län
-24. Länsstyrelsen i Dalarnas län
+23\. Länsstyrelsen i Blekinge län
+24\. Länsstyrelsen i Dalarnas län
 
-25. Länsstyrelsen i Gotlands län
+25\. Länsstyrelsen i Gotlands län
 
-26. Länsstyrelsen i Gävleborgs län
-27. Länsstyrelsen i Hallands län
+26\. Länsstyrelsen i Gävleborgs län
+27\. Länsstyrelsen i Hallands län
 
-28. Länsstyrelsen i Jämtlands län
+28\. Länsstyrelsen i Jämtlands län
 
-29. Länsstyrelsen i Jönköpings län
-30. Länsstyrelsen i Kalmar län
+29\. Länsstyrelsen i Jönköpings län
+30\. Länsstyrelsen i Kalmar län
 
-31. Länsstyrelsen i Kronobergs län
+31\. Länsstyrelsen i Kronobergs län
 
-32. Länsstyrelsen i Norrbottens län
-33. Länsstyrelsen i Skåne län
+32\. Länsstyrelsen i Norrbottens län
+33\. Länsstyrelsen i Skåne län
 
-34. Länsstyrelsen i Stockholms län
-35. Länsstyrelsen i Södermanlands län
+34\. Länsstyrelsen i Stockholms län
+35\. Länsstyrelsen i Södermanlands län
 
-36. Länsstyrelsen i Uppsala län
+36\. Länsstyrelsen i Uppsala län
 
-37. Länsstyrelsen i Värmlands län
-38. Länsstyrelsen i Västerbottens län
+37\. Länsstyrelsen i Värmlands län
+38\. Länsstyrelsen i Västerbottens län
 
-39. Länsstyrelsen i Västernorrlands län
+39\. Länsstyrelsen i Västernorrlands län
 
-40. Länsstyrelsen i Västmanlands län
-41. Länsstyrelsen i Västra Götalands län
+40\. Länsstyrelsen i Västmanlands län
+41\. Länsstyrelsen i Västra Götalands län
 
-42. Länsstyrelsen i Örebro län
-43. Länsstyrelsen i Östergötlands län
+42\. Länsstyrelsen i Örebro län
+43\. Länsstyrelsen i Östergötlands län
 
-44. Nacka tingsrätt, Mark- och miljödomstolen
+44\. Nacka tingsrätt, Mark- och miljödomstolen
 
-45. Naturskyddsföreningen
-46. Naturvårdsverket
+45\. Naturskyddsföreningen
+46\. Naturvårdsverket
 
-47. Sametinget
+47\. Sametinget
 
-48. Skogsindustrierna
-49. Skogsstyrelsen
+48\. Skogsindustrierna
+49\. Skogsstyrelsen
 
 2 (4)
 
 <!-- sida 370 -->
 
-50. Skövde kommun
+50\. Skövde kommun
 
-51. Statens fastighetsverk
-52. Statens jordbruksverk
+51\. Statens fastighetsverk
+52\. Statens jordbruksverk
 
-53. Svea hovrätt, Mark- och miljööverdomstolen
-54. Svenska Botaniska Föreningen
+53\. Svea hovrätt, Mark- och miljööverdomstolen
+54\. Svenska Botaniska Föreningen
 
-55. Svenska Djurskyddsföreningen
+55\. Svenska Djurskyddsföreningen
 
-56. Svenska Jägareförbundet
-57. Svenska samernas riksförbund
+56\. Svenska Jägareförbundet
+57\. Svenska samernas riksförbund
 
-58. Sveriges Advokatsamfund
+58\. Sveriges Advokatsamfund
 
-59. Sveriges Kommuner och Regioner
-60. Sveriges lantbruksuniversitet
+59\. Sveriges Kommuner och Regioner
+60\. Sveriges lantbruksuniversitet
 
-61. Tanums kommun
+61\. Tanums kommun
 
-62. Tomelilla kommun
-63. Torsby kommun
+62\. Tomelilla kommun
+63\. Torsby kommun
 
-64. Trafikverket
-65. Tullverket
+64\. Trafikverket
+65\. Tullverket
 
-66. Vaxholms kommun
+66\. Vaxholms kommun
 
-67. Villaägarnas riksförbund
-68. Världsnaturfonden WWF
+67\. Villaägarnas riksförbund
+68\. Världsnaturfonden WWF
 
-69. Örebro kommun
+69\. Örebro kommun
 
 Tidigare remiss
 
@@ -14769,9 +14769,9 @@ myndigheter tillfälle att yttra sig.
 2 § Om en riskbedömning visar att en art bör tas upp på unions-
 förteckningen, ska den ansvariga myndigheten lämna riskbedömningen till
 regeringen tillsammans med uppgifter om
-1. hur kriterierna i artikel 4.3 i förordning (EU) nr 1143/2014 uppfylls,
+1\. hur kriterierna i artikel 4.3 i förordning (EU) nr 1143/2014 uppfylls,
 och
-2. hur ett upptagande i unionsförteckningen är förenligt med Världs-
+2\. hur ett upptagande i unionsförteckningen är förenligt med Världs-
 handelsorganisationens avtal om tillämpningen av sanitära och
 fytosanitära åtgärder (SPS-avtalet).
 Innan uppgifter enligt första stycket 2 lämnas till regeringen ska den
@@ -14779,9 +14779,9 @@ ansvariga myndigheten ge Kommerskollegium tillfälle att yttra sig.
 Arter som bör tas upp på den nationella förteckningen
 3 § Havs- och vattenmyndigheten och Naturvårdsverket ska inom sina
 ansvarsområden föreslå för regeringen
-1. vilka arter som bör tas upp på den nationella förteckningen och vad
+1\. vilka arter som bör tas upp på den nationella förteckningen och vad
 som bör gälla för dem, och
-2. vilka arter på den nationella förteckningen som bör omfattas av ett
+2\. vilka arter på den nationella förteckningen som bör omfattas av ett
 utökat regionalt samarbete enligt artikel 11 i förordning (EU) nr
 1143/2014.
 För varje art som föreslås enligt första stycket 1 ska den ansvariga
@@ -14828,8 +14828,8 @@ unionens medlemsstater samt utföra den riskbedömning som avses i artikel
 7 § Om en sådan art som avses i artikel 10.1 i förordning (EU) nr
 1143/2014 inte kan tas upp på unionsförteckningen men situationen i
 övrigt är sådan att nödåtgärder bör vidtas, ska den ansvariga myndigheten
-1. i underrättelsen till regeringen informera om detta, och
-2. vidta de åtgärder som behövs för att arten ska kunna tas upp i den
+1\. i underrättelsen till regeringen informera om detta, och
+2\. vidta de åtgärder som behövs för att arten ska kunna tas upp i den
 nationella förteckningen.
 8 § De arter som anges i bilaga 2 till denna förordning omfattas av
 nödåtgärder i form av förbud enligt artikel 7.1 i förordning (EU) nr
@@ -14841,15 +14841,15 @@ Förbud för arter på den nationella förteckningen
 
 1 § Om inte annat följer av 2–9 §§ får arter som är upptagna på den
 nationella förteckningen inte avsiktligt
-1. föras in i landet,
-2. hållas, inte heller i sluten förvaring,
-3. födas upp, inte heller i sluten förvaring,
-4. transporteras, utom till anläggning i samband med utrotning,
-5. tillhandahållas på marknaden, förmedlas eller på annat sätt överlåtas,
-6. användas,
-7. odlas, inte heller i sluten förvaring,
-8. tillåtas reproducera sig eller växa, inte heller i sluten förvaring, eller
-9. släppas ut i miljön.
+1\. föras in i landet,
+2\. hållas, inte heller i sluten förvaring,
+3\. födas upp, inte heller i sluten förvaring,
+4\. transporteras, utom till anläggning i samband med utrotning,
+5\. tillhandahållas på marknaden, förmedlas eller på annat sätt överlåtas,
+6\. användas,
+7\. odlas, inte heller i sluten förvaring,
+8\. tillåtas reproducera sig eller växa, inte heller i sluten förvaring, eller
+9\. släppas ut i miljön.
 Generella undantag för arter på den nationella förteckningen
 2 § Förbuden i 1 § gäller inte om hanteringen av arten omfattas av ett
 tillstånd enligt 11 §.
@@ -14866,10 +14866,10 @@ förhindra att djuret kan reproducera sig.
 4 § Förbuden i 1 § 2 och 4–6 gäller inte för arter i kommersiella lager
 under en period av ett år från det att arten togs upp på den nationella
 förteckningen, om
-1. arten fanns hos innehavaren innan den togs upp på den nationella
+1\. arten fanns hos innehavaren innan den togs upp på den nationella
 förteckningen,
-2. arten hålls i sluten förvaring, och
-3. alla lämpliga åtgärder har vidtagits för att förhindra att arten kan
+2\. arten hålls i sluten förvaring, och
+3\. alla lämpliga åtgärder har vidtagits för att förhindra att arten kan
 reproducera sig eller ta sig ut.
 5 § I fråga om befintliga bestånd och förekomster av arter gäller förbudet
 i 1 § 8 endast för en statlig myndighet, kommun eller region som äger eller
@@ -14882,8 +14882,8 @@ arten gäller förbuden i 1 § 2–9 endast i Gotlands och Kalmar län.
 7 § Förbuden i 1 § 1–8 gäller inte mink Neovison vison som används
 eller ska användas för pälsdjursuppfödning.
 8 § Förbuden i 1 § 1–9 gäller inte
-1. frösterila hybrider med vresros Rosa rugosa, eller
-2. exemplar av kaukasiskt fetblad Phedimus spurius och sibiriskt fetblad
+1\. frösterila hybrider med vresros Rosa rugosa, eller
+2\. exemplar av kaukasiskt fetblad Phedimus spurius och sibiriskt fetblad
 Phedimus hybridus som används eller ska användas på sedum- eller
 vegetationstak, om taken uppförts innan eller högst tre år efter att arten
 tagits upp på den nationella förteckningen.
@@ -14909,12 +14909,12 @@ Tillstånd till viss hantering av arter
 
 11 § Tillstånd för verksamhet med arter som är upptagna på den
 nationella förteckningen får beviljas för
-1. forskning eller annan vetenskaplig verksamhet inklusive efterföljande
+1\. forskning eller annan vetenskaplig verksamhet inklusive efterföljande
 medicinsk användning eller ex situ-bevarande av arter,
-2. annan verksamhet än forskning och vetenskaplig verksamhet, om det
+2\. annan verksamhet än forskning och vetenskaplig verksamhet, om det
 är nödvändigt av tvingande hänsyn till allmänintresset, inbegripet sociala
 och ekonomiska hänsyn, och
-3. import och införsel av amerikansk hummer Homarus americanus.
+3\. import och införsel av amerikansk hummer Homarus americanus.
 Ett tillstånd enligt första stycket 1 och 2 får endast lämnas om de villkor
 som anges i artikel 8.2–3 i förordning (EU) nr 1143/2014 är uppfyllda.
 Ett tillstånd får förenas med de villkor som behövs för hantering av
@@ -14946,9 +14946,9 @@ unionsförteckningen.
 Utrotningsåtgärder
 
 2 § Länsstyrelsen ska besluta om utrotningsåtgärder för arter som
-1. är upptagna på unionsförteckningen och som inte omfattas av
+1\. är upptagna på unionsförteckningen och som inte omfattas av
 hanteringsåtgärder, eller
-2. omfattas av nödåtgärder.
+2\. omfattas av nödåtgärder.
 7
 
 <!-- sida 379 -->
@@ -14997,12 +14997,12 @@ inte är möjliga att utrota och därmed ska omfattas av hanteringsåtgärder.
 8 § Den ansvariga myndigheten ska utreda vilka hanteringsåtgärder som
 krävs enligt artikel 19.1–19.3 i förordning (EU) nr 1143/2014 när det
 gäller arter som är upptagna på unionsförteckningen och som
-1. inte ska utrotas enligt artikel 18 i förordning (EU) nr 1143/2014, eller
+1\. inte ska utrotas enligt artikel 18 i förordning (EU) nr 1143/2014, eller
 8
 
 <!-- sida 380 -->
 
-2. har stor spridning enligt myndighetens bedömning.
+2\. har stor spridning enligt myndighetens bedömning.
 Den ansvariga myndigheten ska även utreda vilka hanteringsåtgärder
 som krävs för arter som är upptagna på den nationella förteckningen och
 som enligt myndighetens bedömning inte är möjliga att utrota i hela eller
@@ -15040,9 +15040,9 @@ förordning (EU) nr 1143/2014.
 
 14 § Länsstyrelsen får, i samband med tillsyn, omhänderta och hålla kvar
 en art som
-1. är upptagen på unionsförteckningen eller den nationella
+1\. är upptagen på unionsförteckningen eller den nationella
 förteckningen, eller
-2. omfattas av nödåtgärder.
+2\. omfattas av nödåtgärder.
 Om länsstyrelsen omhändertar eller håller kvar en art får myndigheten,
 på ägarens bekostnad, förstöra, avliva eller vidta andra åtgärder som
 behövs för att förhindra introduktion, eller förhindra eller begränsa
@@ -15054,19 +15054,19 @@ spridning av arten. Länsstyrelsen får även besluta att ge ägare av ett
 sällskapsdjur möjlighet att överlämna djuret i enlighet med artikel 31.3 och
 31.4 i förordning (EU) nr 1143/2014 eller denna förordning.
 
-5. kap. Offentliga kontroller
+5\. kap. Offentliga kontroller
 
 1 § Livsmedelsverket ska utföra de kontroller som avses i artikel 15.2 i
 förordning (EU) nr 1143/2014 för de kategorier av varor som
-1. är levande animaliska livsmedel för omedelbar konsumtion, eller
-2. ska anmälas till Livsmedelsverket enligt föreskrifter meddelade med
+1\. är levande animaliska livsmedel för omedelbar konsumtion, eller
+2\. ska anmälas till Livsmedelsverket enligt föreskrifter meddelade med
 stöd av denna förordning eller beslutade nödåtgärder enligt artikel 10.1 i
 förordning (EU) nr 1143/2014.
 2 § Jordbruksverket ska utföra de kontroller som avses i artikel 15.2 i
 förordning (EU) nr 1143/2014 för de kategorier av varor som
-1. är föremål för växtskyddskontroll eller veterinär gränskontroll inför
+1\. är föremål för växtskyddskontroll eller veterinär gränskontroll inför
 import, eller
-2. ska anmälas till Jordbruksverket enligt föreskrifter meddelade med
+2\. ska anmälas till Jordbruksverket enligt föreskrifter meddelade med
 stöd av denna förordning eller enligt nödåtgärder beslutade enligt artikel
 10.1 i förordning (EU) nr 1143/2014.
 3 § Det som gäller för kontroller i fråga om arter i unionsförteckningen
@@ -15076,18 +15076,18 @@ enligt artikel 15.1–6 i förordning (EU) nr 1143/2014 samt 1 och 2 §§ ska
 4 § Livsmedelsverket och Jordbruksverket får, i samband med kontroll
 enligt artikel 15 i förordning (EU) nr 1143/2014 eller 3 §, hålla kvar en art
 som
-1. är upptagen på unionsförteckningen eller den nationella
+1\. är upptagen på unionsförteckningen eller den nationella
 förteckningen, eller
-2. omfattas av nödåtgärder.
+2\. omfattas av nödåtgärder.
 Om Livsmedelsverket eller Jordbruksverket håller kvar en art ska
 myndigheten snarast möjligt underrätta den myndighet som är ansvarig för
 arten enligt ansvarsfördelningen i 1 kap. 4 §.
 5 § Om oförtullade arter som omfattas av införselförbud enligt artikel 7
 i förordning (EU) nr 1143/2014 eller 3 kap. 1 § 1 hålls kvar, ska Tullverket
 snarast möjligt underrätta
-1. Livsmedelverket och Jordbruksverket enligt den fördelning av
+1\. Livsmedelverket och Jordbruksverket enligt den fördelning av
 kontrollansvar som anges i 1 och 2 §§, och
-2. den myndighet som är ansvarig för arten enligt ansvarsfördelningen i
+2\. den myndighet som är ansvarig för arten enligt ansvarsfördelningen i
 1 kap. 4 §.
 6 § Oförtullade levande djur som hålls kvar på grund av att de omfattas
 av införselförbud enligt artikel 7 i förordning (EU) nr 1143/2014 eller
@@ -15108,9 +15108,9 @@ inte kan slippa ut eller reproducera sig.
 eller kvarhållande, på ägarens bekostnad förstöra, avliva, avvisa eller vidta
 andra åtgärder som behövs för att förhindra introduktion, eller förhindra
 eller begränsa spridning av en art som
-1. är upptagen på unionsförteckningen eller den nationella förteck-
+1\. är upptagen på unionsförteckningen eller den nationella förteck-
 ningen, eller
-2. omfattas av nödåtgärder.
+2\. omfattas av nödåtgärder.
 6 kap. Övriga bestämmelser
 
 Arters spridningsvägar
@@ -15176,22 +15176,22 @@ Rätt att meddela föreskrifter
 
 10 § Havs- och vattenmyndigheten och Naturvårdsverket får inom sina
 ansvarsområden meddela ytterligare föreskrifter om
-1. metoder för att utrota invasiva främmande arter,
-2. återställandeåtgärder enligt artikel 20 i förordning (EU) nr 1143/2014
+1\. metoder för att utrota invasiva främmande arter,
+2\. återställandeåtgärder enligt artikel 20 i förordning (EU) nr 1143/2014
 eller 4 kap. 12 §,
-3. hållande av sällskapsdjur enligt artikel 31 i förordning (EU) nr
+3\. hållande av sällskapsdjur enligt artikel 31 i förordning (EU) nr
 1143/2014,
-4. förevisning av djur i djurparker enligt 3 kap. 3 §, och
-5. lagerhållning enligt artikel 32 i förordning (EU) nr 1143/2014 eller
+4\. förevisning av djur i djurparker enligt 3 kap. 3 §, och
+5\. lagerhållning enligt artikel 32 i förordning (EU) nr 1143/2014 eller
 3 kap. 4 §.
 Myndigheten ska ge Jordbruksverket tillfälle att yttra sig innan före-
 skrifterna meddelas.
 11 § Havs- och vattenmyndigheten och Naturvårdsverket får inom sina
 ansvarsområden meddela föreskrifter om
-1. hanteringsområden och hanteringsåtgärder enligt artikel 19 i förord-
+1\. hanteringsområden och hanteringsåtgärder enligt artikel 19 i förord-
 ning (EU) nr 1143/2014 för arter som är upptagna på unionsförteckningen
 och har stor spridning i Sverige, och
-2. hanteringsområden och hanteringsåtgärder för arter som är upptagna
+2\. hanteringsområden och hanteringsåtgärder för arter som är upptagna
 på den nationella förteckningen.
 12
 
@@ -15207,9 +15207,9 @@ i 6 kap. miljöbalken och i miljöbedömningsförordningen (2017:966).
 12 § I fråga om hanteringsåtgärder på mark som omfattas av skogsvårds-
 lagen (1979:429) och som gäller skogsträdarter som används för virkes-
 produktion ska det som sägs om
-1. Havs- och vattenmyndigheten och Naturvårdsverket i 10 och 11 §§ i
+1\. Havs- och vattenmyndigheten och Naturvårdsverket i 10 och 11 §§ i
 stället gälla Skogsstyrelsen, och
-2. Skogsstyrelsen i 11 § andra stycket i stället gälla Naturvårdsverket.
+2\. Skogsstyrelsen i 11 § andra stycket i stället gälla Naturvårdsverket.
 13 § Havs- och vattenmyndigheten och Naturvårdsverket får inom sina
 ansvarsområden meddela föreskrifter om verkställigheten av 3 kap. 11–
 13 §§.
@@ -15250,8 +15250,8 @@ miljöbalken.
 
 19 § Bestämmelser om överklagande finns i 19 kap. 1 § miljöbalken.
 
-1. Denna förordning träder i kraft den 1 januari 2026.
-2. Genom förordningen upphävs förordningen (2018:1939) om invasiva
+1\. Denna förordning träder i kraft den 1 januari 2026.
+2\. Genom förordningen upphävs förordningen (2018:1939) om invasiva
 främmande arter.
 
 14
@@ -15355,7 +15355,7 @@ Nuvarande lydelse    Föreslagen lydelse
 1 §1
 Den som har bioavfall ska sortera ut åtminstone följande avfallsslag och
 förvara dem skilda från varandra och från annat avfall:
-1. biologiskt nedbrytbart 1. biologiskt nedbrytbart
+1\. biologiskt nedbrytbart 1. biologiskt nedbrytbart
 trädgårds- eller parkavfall som trädgårds- eller parkavfall som
 innehåller parkslide eller invasiva innehåller en art som är upptagen
 främmande arter som finns på Europeiska kommissionens
@@ -15369,9 +15369,9 @@ förteckningen eller omfattas av
 nödåtgärder, enligt förordningen
 (2026:0000) om invasiva
 främmande arter,
-2. annat biologiskt nedbrytbart trädgårds- eller parkavfall än sådant som
+2\. annat biologiskt nedbrytbart trädgårds- eller parkavfall än sådant som
 avses i 1, och
-3. biologiskt nedbrytbart livsmedels- eller köksavfall.
+3\. biologiskt nedbrytbart livsmedels- eller köksavfall.
 Första stycket 3 omfattar ätlig olja eller liknande flytande ätligt fett men
 inte annat flytande bioavfall.
 Om det finns ett beslut om dispens från separat insamling enligt 13 b §
@@ -15397,7 +15397,7 @@ förbrännas eller behandlas på av arterna. Det gäller arter som
 annat sätt som förhindrar 1. är upptagna på unions-
 spridning av dessa arter. förteckningen enligt förordning
 (EU) nr 1143/2014, eller
-2. är upptagna på den nation-
+2\. är upptagna på den nation-
 ella förteckningen eller som
 omfattas av nödåtgärder, enligt
 förordningen (2026:0000) om
@@ -15405,14 +15405,14 @@ invasiva främmande arter.
 1 d §3
 Fastighetsinnehavaren eller den som har nyttjanderätt till en fastighet ska
 ta hand om trädgårds- och parkavfall som är kommunalt avfall genom att
-1. kompostera avfallet på fastigheten, eller
-2. lämna avfallet på en plats där det hämtas eller tas emot av kommunen.
+1\. kompostera avfallet på fastigheten, eller
+2\. lämna avfallet på en plats där det hämtas eller tas emot av kommunen.
 Fastighetsinnehavaren får i stället på sin fastighet elda avfallet, om
-1. avfallet har producerats på fastigheten eller på närliggande fastigheter,
-2. eldning är en lämplig hantering,
-3. eldningen sker i mindre omfattning och på ett sätt som medför endast
+1\. avfallet har producerats på fastigheten eller på närliggande fastigheter,
+2\. eldning är en lämplig hantering,
+3\. eldningen sker i mindre omfattning och på ett sätt som medför endast
 ringa eller helt tillfälliga störningar i närområdet, och
-4. eldningen inte strider mot föreskrifter som kommunen har meddelat
+4\. eldningen inte strider mot föreskrifter som kommunen har meddelat
 med stöd av 1 e §.
 Trädgårds- och parkavfall som Trädgårds- och parkavfall som
 innehåller parkslide eller invasiva innehåller vissa invasiva
@@ -15423,7 +15423,7 @@ enligt förordning (EU) nr förhindrar spridning av arterna.
 på ett sätt som förhindrar spridning 1. är upptagna på unions
 av dessa arter.      förteckningen enligt förordning
 (EU) nr 1143/2014, eller
-2. är upptagna på den
+2\. är upptagna på den
 nationella förteckningen eller som
 omfattas av nödåtgärder, enligt
 förordningen (2026:0000) om
@@ -15687,7 +15687,7 @@ verksamhetschef Emir Halaklic.)
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\______________________
 
 Kungsbacka kommun
 Kommunledningskontoret

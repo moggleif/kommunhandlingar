@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-5.  Lokalresursplan       FG-2025-00186 Nämnden för Förskola & Grundskola beslutar
+5\.  Lokalresursplan       FG-2025-00186 Nämnden för Förskola & Grundskola beslutar
 att:
 Kl 13:45-14:45                    Kyviksängs förskola stängs juli 2025 och
 förskoleverksamheten flyttas till Sandlyckans
@@ -146,7 +146,7 @@ Datum
 Diarienummer
 FG-2025-00175
 
-Riktlinje gällande ANDTS* för kommunala förskolor och grundskolor i Kungsbacka
+Riktlinje gällande ANDTS\* för kommunala förskolor och grundskolor i Kungsbacka
 kommun
 
 Förslag till beslut
@@ -204,18 +204,18 @@ av droger samt spel om pengar i skolan.
 
 Huvuddrag i riktlinjen:
 
-1. Nolltolerans: All form av bruk, försäljning och innehav av alkohol, narkotika,
+1\. Nolltolerans: All form av bruk, försäljning och innehav av alkohol, narkotika,
 dopningspreparat, tobak, nikotinprodukter samt spel om pengar är förbjuden inom skolans
 område och under skoltid.
-2. Förebyggande arbete: ANDTS-temat integreras i undervisningen och skolan arbetar aktivt
+2\. Förebyggande arbete: ANDTS-temat integreras i undervisningen och skolan arbetar aktivt
 med att främja hälsosamma livsval genom samarbete mellan lärare, elevhälsa och externa
 aktörer.
-3. Personalens roll: Skolans personal förväntas vara förebilder och avstår från bruk av tobaks-
+3\. Personalens roll: Skolans personal förväntas vara förebilder och avstår från bruk av tobaks-
 och nikotinprodukter samt spel om pengar under arbetstid.
 
-4. Ansvar och rutiner: Rektor ansvarar för att organisera, leda och följa upp det förebyggande
+4\. Ansvar och rutiner: Rektor ansvarar för att organisera, leda och följa upp det förebyggande
 arbetet samt att rutiner för att hantera misstanke om drogbruk följs.
-5. Insatser och samverkan: Exempel på insatser inkluderar hälsoenkäter, samverkan med polis
+5\. Insatser och samverkan: Exempel på insatser inkluderar hälsoenkäter, samverkan med polis
 och socialtjänst samt att erbjuda meningsfull fritid för unga.
 
 Uppföljning och revidering: Riktlinjen ska revideras i februari 2026 i samråd mellan berörda
@@ -231,7 +231,7 @@ Förvaltningschef         Biträdande förvaltningschef
 
 2025-04-16
 
-Riktlinje         gällande           ANDTS*
+Riktlinje         gällande           ANDTS\*
 
 för    kommunala                 förskolor
 
@@ -239,7 +239,7 @@ och      grundskolor               i
 
 Kungsbacka                  kommun
 
-*ANDTS      står för  alkohol,   narkotika,
+\*ANDTS      står för  alkohol,   narkotika,
 
 dopning,    tobak   och   spel  om   pengar.
 
@@ -340,18 +340,18 @@ Regler
 •  Hela skolans område är rökfritt. Rökförbudet gäller enligt lag även för
 vapes / elektroniska cigaretter.
 •  Vi har nolltolerans mot bruk, försäljning och innehav av alkohol,
-narkotika, nätdroger, centralstimulerande läkemedel*,
-dopningspreparat, lösningsmedel och gas**, tobaks- och
+narkotika, nätdroger, centralstimulerande läkemedel\*,
+dopningspreparat, lösningsmedel och gas\*\*, tobaks- och
 nikotinprodukter (alla former av snus och rökprodukter) eller andra
 preparat som intas i berusningssyfte samt spel om pengar på våra
 skolor.
 •  Personal som arbetar i Förskola & Grundskola använder inte ovan
 preparat eller spelar om pengar på arbetstid.
 
-*Elev och personal har tillåtelse att använda centralstimulerande
+\*Elev och personal har tillåtelse att använda centralstimulerande
 läkemedel med ett giltigt recept från en behörig läkare.
 
-**Skolpersonal har tillåtelse att använda gas och kemiska produkter i
+\*\*Skolpersonal har tillåtelse att använda gas och kemiska produkter i
 
 utbildningssyfte.
 
@@ -566,37 +566,37 @@ Lokalresursplan 2025-2033 – förslag och utredning
 Förslag till beslut i nämnden för Förskola & Grundskola
 Nämnden för Förskola & Grundskola beslutar:
 
-1. Att Kyviksängs förskola stängs juli 2025 och förskoleverksamheten flyttas till Sandlyckans
+1\. Att Kyviksängs förskola stängs juli 2025 och förskoleverksamheten flyttas till Sandlyckans
 förskola från augusti 2025.
-2. Att förvaltningen får i uppdrag att utreda förutsättningar för att använda lokaler på
+2\. Att förvaltningen får i uppdrag att utreda förutsättningar för att använda lokaler på
 Älvsåkerskolan och stänga Lindströms förskola och Annebergs förskola.
 
-3. Att Kokosnötens förskola stängs vid höstterminens slut 2025 och barnen på Kokosnötens
+3\. Att Kokosnötens förskola stängs vid höstterminens slut 2025 och barnen på Kokosnötens
 förskola erbjuds plats på närliggande förskolor.
-4. Att stänga Britta-Lenas förskola juli 2025 och barnen på Britta-Lenas förskola erbjuds plats
+4\. Att stänga Britta-Lenas förskola juli 2025 och barnen på Britta-Lenas förskola erbjuds plats
 på närliggande förskolor.
 
-5. Att Hede förskola och Snickargårdens förskola blir en enhet från och med juli 2025 och
+5\. Att Hede förskola och Snickargårdens förskola blir en enhet från och med juli 2025 och
 förskolan fortsättningsvis heter Hede förskola.
-6. Att stänga Olasgårdens förskola juli 2025 och barnen erbjuds plats på Gällinge förskola.
+6\. Att stänga Olasgårdens förskola juli 2025 och barnen erbjuds plats på Gällinge förskola.
 
-7. Att stänga Lilla Lokets förskola vid höstterminens slut 2025 och flytta Lilla Lokets barn
+7\. Att stänga Lilla Lokets förskola vid höstterminens slut 2025 och flytta Lilla Lokets barn
 och personal till Stockalids förskola och nya Åsa Gårds förskola.
-8. Att Maleviksskolan blir en F-6 skola från höstterminen 2026 och att delar av
+8\. Att Maleviksskolan blir en F-6 skola från höstterminen 2026 och att delar av
 
 Maleviksskolan ställs om till att vid behov kunna användas för förskola.
-9. Att Särö skolas upptagningsområde ändras till att omfatta Maleviksskolans
+9\. Att Särö skolas upptagningsområde ändras till att omfatta Maleviksskolans
 upptagningsområde avseende årskurs 7-9.
 
-10. Att Björkris skola F-3 stängs vid vårterminens slut 2027 och skolverksamheten flyttar till
+10\. Att Björkris skola F-3 stängs vid vårterminens slut 2027 och skolverksamheten flyttar till
 Skårbyskolan.
-11. Att Skårbyskolan blir en F-9 skola med samma upptagningsområde som Björkris och
+11\. Att Skårbyskolan blir en F-9 skola med samma upptagningsområde som Björkris och
 Skårby har idag.
 
-12. Att Skårby Etapp 2 projekteras om till lokaler för F-3 skola.
-13. Att Björkris skola ställs om helt till förskola till höstterminen 2028.
+12\. Att Skårby Etapp 2 projekteras om till lokaler för F-3 skola.
+13\. Att Björkris skola ställs om helt till förskola till höstterminen 2028.
 
-14. Att Kollaskolan blir en F-6 skola från höstterminen 2026 och att friställd yta ställs om för
+14\. Att Kollaskolan blir en F-6 skola från höstterminen 2026 och att friställd yta ställs om för
 ökat antal elever inom anpassad grundskola, AGR.
 
 1 (3)
@@ -615,15 +615,15 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-15. Att Varlaskolans upptagningsområde ändras till att omfatta Kollaskolans
+15\. Att Varlaskolans upptagningsområde ändras till att omfatta Kollaskolans
 upptagningsområde avseende årskurs 7–9.
 
-16. Att Åsa Gårdsskolan blir en F-3 skola och delar av Åsa Gårsskolan ställs om till förskola.
-17. Att årskurs 4-6 på Åsa Gårdsskolan flyttas till Åsaskolan hösten 2025 och att Åsaskolans
+16\. Att Åsa Gårdsskolan blir en F-3 skola och delar av Åsa Gårsskolan ställs om till förskola.
+17\. Att årskurs 4-6 på Åsa Gårdsskolan flyttas till Åsaskolan hösten 2025 och att Åsaskolans
 upptagningsområde ändras till att även omfatta Åsa Gårdsskolans upptagningsområde
 avseende årskurs 4–6.
 
-18. Att nämnden ger förvaltningen i uppdrag att utreda hur en långsiktig skolorganisation inom
+18\. Att nämnden ger förvaltningen i uppdrag att utreda hur en långsiktig skolorganisation inom
 såväl förskola som skola kan utformas utifrån minskat behov av utbildningsplatser i
 Onsalaområdet.
 
@@ -800,42 +800,42 @@ Kungsbacka kommun  Lokalresursplan 2025-2033 – utredning och förslag 3
 Förskolor
 
 •  Kyviksängs förskola stängs (juli 2025)
--  Förskoleverksamheten flyttas till Sandlyckans förskola.
--  Kullaviks förskola övertar lokalen vid behov.
+\-  Förskoleverksamheten flyttas till Sandlyckans förskola.
+\-  Kullaviks förskola övertar lokalen vid behov.
 
 •  Utredning om att använda överkapacitet på Älvsåkerskolan till förskola (påbörja utredning
 omgående)
--  Lindströms förskola stängs.
--  Anneberg förskola stängs.
+\-  Lindströms förskola stängs.
+\-  Anneberg förskola stängs.
 •  Kokosnötens förskola stängs (jan 2026)
--  Barnen erbjuds plats på närliggande förskolor.
+\-  Barnen erbjuds plats på närliggande förskolor.
 
 •  Britta-Lenas förskola stängs (juli 2025)
--  Barnen erbjuds plats på närliggande förskolor.
+\-  Barnen erbjuds plats på närliggande förskolor.
 
 •  Hede förskola och Snickaregårdens förskola slås samman till en enhet (juli 2025)
--  Förskolan föreslås fortsättningsvis heta Hede förskola.
+\-  Förskolan föreslås fortsättningsvis heta Hede förskola.
 
 •  Olasgårdens förskola stängs (juli 2025)
--  Barnen erbjuds plats på Gällinge förskola.
+\-  Barnen erbjuds plats på Gällinge förskola.
 
 •  Lilla Lokets förskola stängs (januari 2026)
--  Flytta verksamheten till Stockalids förskola samt till nya Åsa Gårds förskola.
+\-  Flytta verksamheten till Stockalids förskola samt till nya Åsa Gårds förskola.
 
 Grundskolor och anpassad grundskola
 •  Maleviksskolan blir en F-6 skola, 7-9 verksamheten flyttas till Särö skola (augusti 2026)
--  Möjliggör att ställa om Maleviksskolans överkapacitet till förskola.
+\-  Möjliggör att ställa om Maleviksskolans överkapacitet till förskola.
 
 •  Björkris skola stängs (juli 2027)
--  Flytta skolverksamheten till Skårbyskolan.
--  Skårby etapp 2 projekteras om till F-3 skola.
--  Björkrisskolan ställs om helt till förskola.
+\-  Flytta skolverksamheten till Skårbyskolan.
+\-  Skårby etapp 2 projekteras om till F-3 skola.
+\-  Björkrisskolan ställs om helt till förskola.
 
 •  Kollaskolans 7-9 verksamhet flyttas till Varlaskolan (augusti 2026)
--  Yta frigörs till förmån för anpassad grundskola (AGR).
+\-  Yta frigörs till förmån för anpassad grundskola (AGR).
 
 •  Åsa Gårdsskolan blir en F-3 skola, åk 4-6 flyttas till Åsaskolan (augusti 2025)
--  Möjliggör att ställa om delar av Åsa Gårdsskolan till förskola.
+\-  Möjliggör att ställa om delar av Åsa Gårdsskolan till förskola.
 
 Förskolor/Grundskolor
 
@@ -925,7 +925,7 @@ en uppskattning av vad som är möjligt utifrån en pedagogisk bedömning, till 
 specialsalar.
 
 •  Prognoser för antalet barn eller elever utgår från kommunfullmäktiges beslutade befolkningsprognos
-2024.
+2024\.
 Disposition
 
 Kapitel 4 är disponerat med utgångspunkt från förslag om åtgärder för respektive skolform; förslag till
@@ -1043,7 +1043,7 @@ förskola
 
 Förslag till beslut
 
--  Att Kyviksängs förskola stängs juli 2025 och förskoleverksamheten flyttas till Sandlyckans förskola
+\-  Att Kyviksängs förskola stängs juli 2025 och förskoleverksamheten flyttas till Sandlyckans förskola
 från augusti 2025.
 
 Bakgrund och nuläge
@@ -1138,7 +1138,7 @@ Kungsbacka kommun  Lokalresursplan 2025-2033 – utredning och förslag 13
 
 Förslag till beslut
 
--  Att förvaltningen får i uppdrag att utreda förutsättningar för att använda lokaler på Älvsåkerskolan
+\-  Att förvaltningen får i uppdrag att utreda förutsättningar för att använda lokaler på Älvsåkerskolan
 och stänga Lindströms förskola och Annebergs förskola.
 
 Bakgrund och nuläge
@@ -1260,7 +1260,7 @@ förskolor
 
 Förslag till beslut
 
--  Att Kokosnötens förskola stängs vid höstterminens slut 2025 och barnen på Kokosnötens förskola
+\-  Att Kokosnötens förskola stängs vid höstterminens slut 2025 och barnen på Kokosnötens förskola
 erbjuds plats på närliggande förskolor.
 
 Bakgrund och nuläge
@@ -1347,7 +1347,7 @@ Kungsbacka kommun  Lokalresursplan 2025-2033 – utredning och förslag 18
 förskolor
 
 Förslag till beslut
--  Att stänga Britta-Lenas förskola juli 2025 och barnen på Britta-Lenas förskola erbjuds plats på
+\-  Att stänga Britta-Lenas förskola juli 2025 och barnen på Britta-Lenas förskola erbjuds plats på
 närliggande förskolor.
 
 Bakgrund och nuläge
@@ -1423,7 +1423,7 @@ Kungsbacka kommun  Lokalresursplan 2025-2033 – utredning och förslag 20
 
 Förslag till beslut
 
--  Att Hede förskola och Snickargårdens förskola blir en enhet från och med juli 2025 och förskolan
+\-  Att Hede förskola och Snickargårdens förskola blir en enhet från och med juli 2025 och förskolan
 fortsättningsvis heter Hede förskola.
 
 Bakgrund och nuläge
@@ -1482,7 +1482,7 @@ Kungsbacka kommun  Lokalresursplan 2025-2033 – utredning och förslag 21
 
 Förslag till beslut
 
--  Att stänga Olasgårdens förskola juli 2025 och barnen erbjuds plats på Gällinge förskola.
+\-  Att stänga Olasgårdens förskola juli 2025 och barnen erbjuds plats på Gällinge förskola.
 
 Bakgrund och nuläge
 
@@ -1586,7 +1586,7 @@ samt lokaler på Åsa Gårdsskolan
 
 Förslag till beslut
 
--  Att stänga Lilla Lokets förskola vid höstterminens slut 2025 och flytta Lilla Lokets barn och
+\-  Att stänga Lilla Lokets förskola vid höstterminens slut 2025 och flytta Lilla Lokets barn och
 personal till Stockalids förskola och nya Åsa Gårds förskola.
 
 Bakgrund och nuläge
@@ -1646,7 +1646,7 @@ trygghet för såväl barn som personal.
 Tidsplan
 Flytt av verksamheten från Lilla Lokets förskola sker vid årsskiftet 2025/2026 med verksamhetsstart januari
 
-2026. Halva verksamheten flyttas in i Stockalids förskola och halva verksamheten i nya Åsa Gårds förskola.
+2026\. Halva verksamheten flyttas in i Stockalids förskola och halva verksamheten i nya Åsa Gårds förskola.
 Uppskattade effekter med förslaget
 
 Ekonomiskt
@@ -1675,10 +1675,10 @@ Särö skola
 
 Förslag till beslut
 
--  Att Maleviksskolan blir en F-6 skola från höstterminen 2026 och att delar av Maleviksskolan ställs
+\-  Att Maleviksskolan blir en F-6 skola från höstterminen 2026 och att delar av Maleviksskolan ställs
 om till att vid behov kunna användas för förskola.
 
--  Att Särö skolas upptagningsområde ändras till att omfatta Maleviksskolans upptagningsområde
+\-  Att Särö skolas upptagningsområde ändras till att omfatta Maleviksskolans upptagningsområde
 avseende årskurs 7-9.
 Bakgrund och nuläge
 
@@ -1765,13 +1765,13 @@ Kungsbacka kommun  Lokalresursplan 2025-2033 – utredning och förslag 27
 
 Förslag till beslut
 
-- Att Björkris skola F-3 stängs vid vårterminens slut 2027 och skolverksamheten flyttar till
+\- Att Björkris skola F-3 stängs vid vårterminens slut 2027 och skolverksamheten flyttar till
 Skårbyskolan.
-- Att Skårbyskolan blir en F-9 skola med samma upptagningsområde som Björkris och Skårby har
+\- Att Skårbyskolan blir en F-9 skola med samma upptagningsområde som Björkris och Skårby har
 idag.
-- Att Skårby Etapp 2 projekteras om till lokaler för F-3 skola.
+\- Att Skårby Etapp 2 projekteras om till lokaler för F-3 skola.
 
-- Att Björkris skola ställs om helt till förskola till höstterminen 2028.
+\- Att Björkris skola ställs om helt till förskola till höstterminen 2028.
 
 Bakgrund och nuläge
 
@@ -1860,10 +1860,10 @@ Kungsbacka kommun  Lokalresursplan 2025-2033 – utredning och förslag 29
 Varlaskolan
 
 Förslag till beslut
--  Att Kollaskolan blir en F-6 skola från höstterminen 2026 och att friställd yta ställs om för ökat antal
+\-  Att Kollaskolan blir en F-6 skola från höstterminen 2026 och att friställd yta ställs om för ökat antal
 elever inom anpassad grundskola, AGR.
 
--  Att Varlaskolans upptagningsområde ändras till att omfatta Kollaskolans upptagningsområde
+\-  Att Varlaskolans upptagningsområde ändras till att omfatta Kollaskolans upptagningsområde
 avseende årskurs 7–9.
 
 Bakgrund och nuläge
@@ -1981,9 +1981,9 @@ Kungsbacka kommun  Lokalresursplan 2025-2033 – utredning och förslag 32
 
 Förslag till beslut
 
--  Att Åsa Gårdsskolan blir en F-3 skola och delar av Åsa Gårdskolan ställs om till förskola.
+\-  Att Åsa Gårdsskolan blir en F-3 skola och delar av Åsa Gårdskolan ställs om till förskola.
 
--  Att årskurs 4-6 på Åsa Gårdsskolan flyttas till Åsaskolan hösten 2025 och att Åsaskolans
+\-  Att årskurs 4-6 på Åsa Gårdsskolan flyttas till Åsaskolan hösten 2025 och att Åsaskolans
 upptagningsområde ändras till att även omfatta Åsa Gårdsskolans upptagningsområde avseende
 årskurs 4–6.
 
@@ -2078,7 +2078,7 @@ Kungsbacka kommun  Lokalresursplan 2025-2033 – utredning och förslag 34
 
 Förslag till beslut
 
--  Att nämnden ger förvaltningen i uppdrag att utreda hur en långsiktig skolorganisation inom såväl
+\-  Att nämnden ger förvaltningen i uppdrag att utreda hur en långsiktig skolorganisation inom såväl
 förskola som skola kan utformas utifrån minskat behov av utbildningsplatser i Onsalaområdet.
 
 Bakgrund och nuläge
@@ -2181,11 +2181,11 @@ barn eller elever är större och det inte finns ett stort överskott på lediga
 
 Vad ska prövas
 
--  Hur föreslagna förändringar påverkar barn på kort och lång sikt utifrån
+\-  Hur föreslagna förändringar påverkar barn på kort och lång sikt utifrån
 barnets bästa enligt barnkonventionen.
--  Vad är viktigt att ta hänsyn till i den fortsatta processen för att det ska bli bra
+\-  Vad är viktigt att ta hänsyn till i den fortsatta processen för att det ska bli bra
 för barnen.
--  I de fall det finns risker för att barn påverkas negativt, eller där
+\-  I de fall det finns risker för att barn påverkas negativt, eller där
 barnkonventionen ej uppfylls, anges kompensatoriska åtgärder.
 
 De förslag till förändring som lämnas i Lokalresursplan 2025-2033, berör inte alla
@@ -2944,10 +2944,10 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 5 (5)
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -2983,7 +2983,7 @@ förskola
 
 Ärendenummer: #162526 | Inskickat av: LARS ERIK GOTTFRID GLASMÄSTAR | 2024-09-27 15:24
 
-1. Information om förskolan
+1\. Information om förskolan
 
 Förskolans namn
 
@@ -3002,7 +3002,7 @@ Typ av utökning
 
 Permanent
 
-2. Utökning
+2\. Utökning
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -3061,7 +3061,7 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 73 -->
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 
@@ -3092,7 +3092,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #191455 | Inskickat av: Ingvar Henriksson | 2025-03-19 12:04
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Verksamhetens namn
 
@@ -3107,7 +3107,7 @@ Ange kvadratmeter yta som barnen får nyttja Ange barnens tillgängliga friyta u
 
 208                               1820
 
-2. Utökning
+2\. Utökning
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -3146,7 +3146,7 @@ Den bifogade barnkonsekvensanalysen skapades i samband med att vi redan 2016/201
 om att öka antalet platser. Kommunens då gällande regler krävde inte skriftlig ansökan och vi
 fick därför heller inget skriftligt tillstånd för utökningen.
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 
@@ -3264,10 +3264,10 @@ Förvaltningen bedömer att en permanent utökning till 24 barn kan godkännas.
 Rättslig reglering
 
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -3318,7 +3318,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #191482 | Inskickat av: Monica Wogelberg | 2025-04-16 11:04
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Verksamhetens namn
 
@@ -3333,7 +3333,7 @@ Ange kvadratmeter yta som barnen får nyttja Ange barnens tillgängliga friyta u
 
 215                               ca 1400m2
 
-2. Utökning
+2\. Utökning
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -3403,7 +3403,7 @@ Hoppas at ni kan godkänna barnantalet från 22 barn till 26 barn samt att ni ka
 övriga myndigheter har ansett genom åren att våra lokaler och utemiljö är anpassad för vår
 barngrupp.
 
-3. Bilagor
+3\. Bilagor
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -3528,9 +3528,9 @@ Förvaltningen bedömer att en permanent utökning till 26 barn kan godkännas.
 Rättslig reglering
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -3608,7 +3608,7 @@ s
 a u
 ö
 r
--
+\-
 n k
 8
 g

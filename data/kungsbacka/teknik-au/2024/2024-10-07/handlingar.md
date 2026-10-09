@@ -231,7 +231,7 @@ Till:             Teknik
 
 Från:
 Skickat: den 5 september 2024 16:26
-Till: Linda Sövgren <linda.sovgren@kungsbacka.se>
+Till: Linda Sövgren \<linda.sovgren@kungsbacka.se>
 Kopia:
 Ämne: Förfrågan o P-förbud på delar av Pölagårdsvägen
 

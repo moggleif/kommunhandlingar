@@ -279,7 +279,7 @@ Delårsrapport Augusti 2024
 
 Händelser av väsentlig betydelse
 Gymnasium & Arbetsmarknad prognostiserar ett överskott på 8,1 miljoner kronor (mkr) för verksamhetsåret
-2024. Gymnasieverksamheten prognostiserar ett underskott medan övriga verksamheter prognostiserar
+2024\. Gymnasieverksamheten prognostiserar ett underskott medan övriga verksamheter prognostiserar
 överskott.
 Ekonomin för Gymnasium & Arbetsmarknad under perioden januari till augusti 2024 har varit fortsatt stabil
 inom de flesta verksamheter. Det finns utmaningar i ekonomin, framför allt kring elevantal i
@@ -373,10 +373,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad bidrar till måluppfyllelsen av detta kommunövergripande mål med
 tillhörande fokusområden genom att skapa trygga miljöer för elever, studerande och övriga målgrupper och
@@ -439,11 +439,11 @@ totalt - helhetssyn
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Sammanfattning av nämndens arbete med målet
 
 Nämnden för Gymnasium & Arbetsmarknad bidrar till måluppfyllelsen av detta kommunövergripande mål med
@@ -489,7 +489,7 @@ Indikatorer                   Utfall  Utfall  Utfall Utfall Målvärde
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 88 % 88 %   85 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -499,23 +499,23 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 77 % 72 %   79 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 92 % 93 %   92 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 68 %   65 %    73 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 88 %   85 %    86 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 98 97
 målvärde 2030 är 70.
@@ -544,7 +544,7 @@ området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i
@@ -605,8 +605,8 @@ senaste 6 månaderna
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Sammanfattning av nämndens arbete med målet
@@ -768,8 +768,8 @@ Antal nystartade företag per 1 000 invånare
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av nämndens arbete med målet
 I dagsläget finns det ingen preliminär betygsstatistik att presentera för läsåret 2023/2024 Orsaken är
@@ -842,9 +842,9 @@ Nytt för i år är att vi inte har haft en skuld på anvisningar att ta emot fr
 kommuntalet för abo och kvotflyktingar 62 anvisningar (personer) och fördelningen ser ut enligt följande;
 
 Mottagna under året hittills: 15 personer
-- Vuxna: 11
+\- Vuxna: 11
 
-- Barn: 5
+\- Barn: 5
 Snabbaste vägen till bostad
 
 Under 2024 har fokus, utöver att säkerställa att man snabbt kommer igång med sin etablering, varit att stötta
@@ -1004,9 +1004,9 @@ och karriärvägar som väntar efter studierna.
 Kommentar på nämndmål
 En handlingsplan har utformats för förstärkt koppling till yrkeslivet där målen är:
 
-1. Förbereda elever för arbetslivet: Ge elever praktisk erfarenhet och förståelse för arbetslivet.
-2. Öka relevansen i undervisningen: Integrera arbetslivets krav och förväntningar i skolans läroplan.
-3. Bygga långsiktiga relationer: Skapa hållbara partnerskap med lokala företag/regionens företag och
+1\. Förbereda elever för arbetslivet: Ge elever praktisk erfarenhet och förståelse för arbetslivet.
+2\. Öka relevansen i undervisningen: Integrera arbetslivets krav och förväntningar i skolans läroplan.
+3\. Bygga långsiktiga relationer: Skapa hållbara partnerskap med lokala företag/regionens företag och
 organisationer.
 Både yrkesprogram och högskoleförberedande program omfattas av handlingsplanen. Aktiviteter som ingår är
 bland annat
@@ -1042,12 +1042,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium och Arbetsmarknad har inte brutit ned detta kommunövergripande mål med
 tillhörande fokusområde genom egna nämndsmål utan förvaltningen arbetar mot målet direkt med olika typer av
@@ -1633,7 +1633,7 @@ Utfall och prognos
 
 Sammanfattning - text till kommunstyrelsen
 Gymnasium & Arbetsmarknad prognostiserar ett överskott på 8,1 miljoner kronor (mkr) för verksamhetsåret
-2024. Gymnasieverksamheten prognostiserar ett underskott medan övriga verksamheter prognostiserar
+2024\. Gymnasieverksamheten prognostiserar ett underskott medan övriga verksamheter prognostiserar
 överskott.
 
 Ekonomin för Gymnasium & Arbetsmarknad under perioden januari till augusti 2024 har varit fortsatt stabil
@@ -1715,7 +1715,7 @@ Den del av etableringen som avser mottagande enligt massflyktsdirektivet prognos
 ca 2,1 mkr. Här har ersättningarna från Migrationsverket varit högre än de kostnader vi har haft för mottagandet.
 De nya reglerna för massflyktsdirektivet kommer innebära betydligt minskade ersättningar för denna målgrupp
 framöver. Stor del av denna målgrupp kommer gå över till den vanliga etableringen från och med 1 november
-2024.
+2024\.
 Verksamheten för ensamkommande barn prognostiserar ett överskott. Detta beror främst på lägre kostnad för
 köp av externa platser.
 
@@ -2083,36 +2083,36 @@ utveckla en kunskapsbaserad socialtjänst (Ds 2024:13)
 
 Remissinstanser
 
-1. Akademikerförbundet SSR
+1\. Akademikerförbundet SSR
 
-2. Almega
-3. Barnombudsmannen
+2\. Almega
+3\. Barnombudsmannen
 
-4. Brottsförebyggande rådet
-5. E-hälsomyndigheten
+4\. Brottsförebyggande rådet
+5\. E-hälsomyndigheten
 
-6. Ekonomistyrningsverket
+6\. Ekonomistyrningsverket
 
-7. Eksjö kommun
-8. Enköpings kommun
+7\. Eksjö kommun
+8\. Enköpings kommun
 
-9. Eskilstunas kommun
+9\. Eskilstunas kommun
 
-10. Etikprövningsmyndigheten
-11. Falkenbergs kommun
+10\. Etikprövningsmyndigheten
+11\. Falkenbergs kommun
 
-12. Famna
-13. Filipstads kommun
+12\. Famna
+13\. Filipstads kommun
 
-14. Forskningsrådet för hälsa, arbetsliv och välfärd
+14\. Forskningsrådet för hälsa, arbetsliv och välfärd
 
-15. Forum
-16. Föreningen Sveriges socialchefer
+15\. Forum
+16\. Föreningen Sveriges socialchefer
 
-17. Föreningen Sveriges socionomutbildningar
+17\. Föreningen Sveriges socionomutbildningar
 
-18. Förvaltningsrätten i Umeå
-19. Gotlands kommun
+18\. Förvaltningsrätten i Umeå
+19\. Gotlands kommun
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
@@ -2120,94 +2120,94 @@ Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
 
 <!-- sida 48 -->
 
-20. Gävles kommun
+20\. Gävles kommun
 
-21. Göteborgs universitet
-22. Haparandas kommun
+21\. Göteborgs universitet
+22\. Haparandas kommun
 
-23. Helsingborgs kommun
+23\. Helsingborgs kommun
 
-24. Huddinge kommun
-25. Inspektionen för vård och omsorg
+24\. Huddinge kommun
+25\. Inspektionen för vård och omsorg
 
-26. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
-27. Integritetsskyddsmyndigheten
+26\. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
+27\. Integritetsskyddsmyndigheten
 
-28. Jämställdhetsmyndigheten
+28\. Jämställdhetsmyndigheten
 
-29. Jönköpings kommun
-30. Karlskogas kommun
+29\. Jönköpings kommun
+30\. Karlskogas kommun
 
-31. Karlskrona kommun
+31\. Karlskrona kommun
 
-32. Karlstads kommun
-33. Karlstads universitet
+32\. Karlstads kommun
+33\. Karlstads universitet
 
-34. Kungsbacka kommun
-35. Lidingö kommun
+34\. Kungsbacka kommun
+35\. Lidingö kommun
 
-36. Lindesbergs kommun
+36\. Lindesbergs kommun
 
-37. Linköpings kommun
-38. Lunds kommun
+37\. Linköpings kommun
+38\. Lunds kommun
 
-39. Mora kommun
+39\. Mora kommun
 
-40. Myndigheten för delaktighet
-41. Myndigheten för familjerätt och föräldraskapsstöd
+40\. Myndigheten för delaktighet
+41\. Myndigheten för familjerätt och föräldraskapsstöd
 
-42. Myndigheten för vård- och omsorgsanalys
-43. Norbergs kommun
+42\. Myndigheten för vård- och omsorgsanalys
+43\. Norbergs kommun
 
-44. Oskarshamns kommun
+44\. Oskarshamns kommun
 
-45. Region Dalarna
-46. Region Kronoberg
+45\. Region Dalarna
+46\. Region Kronoberg
 
-47. Region Stockholm
+47\. Region Stockholm
 
-48. Region Västernorrland
-49. Region Västra Götaland
+48\. Region Västernorrland
+49\. Region Västra Götaland
 
 2 (4)
 
 <!-- sida 49 -->
 
-50. Riksdagens ombudsmän (JO)
+50\. Riksdagens ombudsmän (JO)
 
-51. Skellefteå kommun
-52. Socialstyrelsen
+51\. Skellefteå kommun
+52\. Socialstyrelsen
 
-53. Statens beredning för medicinsk och social utvärdering
+53\. Statens beredning för medicinsk och social utvärdering
 
-54. Statens institutionsstyrelse
-55. Statistiska centralbyrån
+54\. Statens institutionsstyrelse
+55\. Statistiska centralbyrån
 
-56. Statskontoret
-57. Stockholms kommun
+56\. Statskontoret
+57\. Stockholms kommun
 
-58. Svenska vård
+58\. Svenska vård
 
-59. Sveriges Kommuner och Regioner
-60. Sveriges Stadsmissioner
+59\. Sveriges Kommuner och Regioner
+60\. Sveriges Stadsmissioner
 
-61. Timrås kommun
+61\. Timrås kommun
 
-62. Vision
-63. Varbergs kommun
+62\. Vision
+63\. Varbergs kommun
 
-64. Vetenskapsrådet
-65. Vårdföretagarna
+64\. Vetenskapsrådet
+65\. Vårdföretagarna
 
-66. Västerås kommun
+66\. Västerås kommun
 
-67. Växjö kommun
-68. Umeå kommun
+67\. Växjö kommun
+68\. Umeå kommun
 
-69. Umeå universitet
+69\. Umeå universitet
 
-70. Örnsköldsviks kommun
-71. Östersunds kommun
+70\. Örnsköldsviks kommun
+71\. Östersunds kommun
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 4
 november 2024. Svaren bör lämnas per e-post till
@@ -2304,7 +2304,7 @@ Hälsningar
 Kristian Egstedt
 Registrator
 
-______________________
+\______________________
 
 Kungsbacka kommun
 Kommunledningskontoret

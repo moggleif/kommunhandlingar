@@ -424,7 +424,7 @@ Investeringsplan            SE    Fastigheter
 
 2026–2035
 
-1.   Behovsbeskrivning
+1\.   Behovsbeskrivning
 
 1.1 Bakgrund
 Fastigheter förvaltar och hanterar cirka 510 000 kvadratmeter egna och inhyrda
@@ -504,7 +504,7 @@ Kungsbacka kommun              Styrande dokument                2 (9)
 
 <!-- sida 13 -->
 
-2.   Behovsbeskrivning    per område
+2\.   Behovsbeskrivning    per område
 
 Att återinvestera i verksamhetslokalers tekniska installationer och byggnadsfysiska
 komponenter ger en rad betydande nyttor för både verksamheten och dess
@@ -746,7 +746,7 @@ Kungsbacka kommun              Styrande dokument                7 (9)
 
 <!-- sida 18 -->
 
-3.   Vad  blir konsekvenserna   om  inget görs?
+3\.   Vad  blir konsekvenserna   om  inget görs?
 
 Om reinvesteringar och verksamhetsanpassningar i lokalerna inte genomförs, kan
 konsekvenserna bli långtgående och påverka både fastigheternas funktionalitet och

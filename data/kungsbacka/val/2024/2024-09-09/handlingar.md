@@ -472,13 +472,13 @@ Ersättare för valnämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
 
 ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen,
@@ -507,12 +507,12 @@ Däremot kan Valnämnden återta sitt beslut att delegera en viss typ av ärende
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har
 
 tagit:
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får genomföras
 i avvaktan på prövning).
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
 
 handling som beslutet avser.
 
@@ -521,7 +521,7 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
 
-- till valnämnden om beslutanderätten är lämnad genom delegation direkt
+\- till valnämnden om beslutanderätten är lämnad genom delegation direkt
 från valnämnden.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -602,7 +602,7 @@ Valnämndens delegeri ng av beslutanderätt Sida 6 av 12
 | 2.1.7 | Dataskydds-<br>förordningen<br>artikel 33 och<br>34 | Hantering av personuppgiftsincident | AC | KVS |  |
 | 2.1.8 | Dataskydds-<br>förordningen<br>artikel 28 | Avtal om personuppgiftsbiträdes-<br>behandling av personuppgifter för<br>den personuppgiftsansvariges<br>räkning. | AC | KVS |  |
 | 2.1.9 | Dataskydds-<br>förordningen<br>artikel 30 | Fastställa kommunstyrelsens<br>förteckning över<br>personuppgiftsbehandlingar. | KVS | AC |  |
-| 2.1.10 | Valnämndens<br>budget, Regler<br>och riktlinjer<br>för förmåner<br>till förtroende-<br>valda<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) | Deltagande i aktivitet* för<br>ordförande, vice ordförande, ledamot<br>och ersättare i Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till<br>arvode för<br>deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendev<br>alda<br>(antaget i<br>kommun- |
+| 2.1.10 | Valnämndens<br>budget, Regler<br>och riktlinjer<br>för förmåner<br>till förtroende-<br>valda<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) | Deltagande i aktivitet\* för<br>ordförande, vice ordförande, ledamot<br>och ersättare i Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till<br>arvode för<br>deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendev<br>alda<br>(antaget i<br>kommun- |
 
 <!-- sida 20 -->
 
@@ -611,7 +611,7 @@ fullmäktige
 § 106.
 Gäller från
 2023-01-01)
-*I samma
+\*I samma
 dokument
 framgår
 vilka
@@ -780,14 +780,14 @@ Ersättare för valnämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över
+1\) annan delegat om det finns flera angivna. Vem som tar över
 beslutanderätten ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i
 ärende-/verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå
 av ärendet och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den
@@ -821,14 +821,14 @@ taget.
 
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det
 beslut som delegaten har tagit:
--  Besluta att överklaga beslut och domar i ett ärende vid en
+\-  Besluta att överklaga beslut och domar i ett ärende vid en
 överprövning.
 
--  Beslut att avge yttrande till högre instans med anledning av
+\-  Beslut att avge yttrande till högre instans med anledning av
 överklagande av delegeringsbeslut samt att besluta att ansöka om
 inhibition (ett beslut inte får genomföras i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också
 rätt att underteckna handling som beslutet avser.
 
 1.5 Att inte utnyttja sin beslutanderätt
@@ -838,7 +838,7 @@ visst ärende eller ärendet visar sig falla inom ramen för vad som är
 föreskrivet i kommunallagen 6 kap 38 § ska tjänstemannen överlämna
 ärendet till
 
-- till valnämnden om beslutanderätten är lämnad genom delegation
+\- till valnämnden om beslutanderätten är lämnad genom delegation
 direkt
 från valnämnden.
 
@@ -939,7 +939,7 @@ Kungsbacka kommun        Valnämndens delegering av beslutanderätt 8 (12)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Ersättare | Anmärkning/<br>villkor |
 | --- | --- | --- | --- | --- | --- |
-| 2.1.10 | Valnämndens<br>budget,<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroende-<br>valda<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) | Deltagande i aktivitet* för<br>ordförande, vice ordförande,<br>ledamot och ersättare i<br>Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode<br>för deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevald<br>a<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 §<br>106. Gäller<br>från 2023-01-<br>01)<br>*I samma<br>dokument<br>framgår vilka<br>aktiviteter som<br>avses. |
+| 2.1.10 | Valnämndens<br>budget,<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroende-<br>valda<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) | Deltagande i aktivitet\* för<br>ordförande, vice ordförande,<br>ledamot och ersättare i<br>Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode<br>för deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevald<br>a<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 §<br>106. Gäller<br>från 2023-01-<br>01)<br>\*I samma<br>dokument<br>framgår vilka<br>aktiviteter som<br>avses. |
 
 <!-- sida 34 -->
 
@@ -1054,7 +1054,7 @@ Expedierat/bestyrkt
 
 <!-- sida 39 -->
 
-Från: Rick Wicks <rick.wicks23@gmail.com>
+Från: Rick Wicks \<rick.wicks23@gmail.com>
 Skickat: den 28 augusti 2024 15:25
 Till: rick.wicks23@gmail.com
 Ämne: civic education for Americans living in Sweden
@@ -1103,7 +1103,7 @@ http://www.cuke.com/people/wicks-rick.htm
 
 <!-- sida 42 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 23 juli 2024 13:27
 Till:                  Brev: Val ValAdm
 Ämne:                  Nyheter från Valmyndigheten
@@ -1138,7 +1138,7 @@ Vi önskar er en fortsatt trevlig sommar!
 
 <!-- sida 43 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 12 juli 2024 14:05
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 28
@@ -1170,7 +1170,7 @@ Valmyndigheten
 
 <!-- sida 44 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 3 juli 2024 15:16
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 27
@@ -1210,7 +1210,7 @@ Valmyndigheten
 
 <!-- sida 45 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 19 juni 2024 15:16
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 25

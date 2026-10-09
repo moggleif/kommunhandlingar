@@ -313,13 +313,13 @@ samt hur de statliga medlen, som fördelas enligt kultursamverkansmodellen, ska
 användas.
 
 Tre strategiska utvecklingsområden lyfts i remissutgåvorna:
-1. Ett fritt konst- och kulturliv
+1\. Ett fritt konst- och kulturliv
 
 Mål: Halland – en dynamisk och modig plats för kultur
-2. Engagerande kulturliv för alla
+2\. Engagerande kulturliv för alla
 
 Mål: Halland – en plats där alla kan delta i kulturlivet
-3. Kultur som samhällskraft
+3\. Kultur som samhällskraft
 
 Mål: Halland – en plats där kultur präglar samhället
 Kommunen anser att de strategiska utvecklingsområdena och prioriteringarna är bra

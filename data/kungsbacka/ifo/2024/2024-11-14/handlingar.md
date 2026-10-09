@@ -82,23 +82,23 @@ Innehållsförteckning
 
 INNEHÅLLSFÖRTECKNING .................................................................................................................................................................................................................................................1
 
-1. INLEDNING ....................................................................................................................................................................................................................................................................2
-2. BAKGRUND OCH SYFTE .................................................................................................................................................................................................................................................2
-3. VARFÖR KONKURRENS? ................................................................................................................................................................................................................................................3
+1\. INLEDNING ....................................................................................................................................................................................................................................................................2
+2\. BAKGRUND OCH SYFTE .................................................................................................................................................................................................................................................2
+3\. VARFÖR KONKURRENS? ................................................................................................................................................................................................................................................3
 
-4. FORMER FÖR KONKURRENSUTSÄTTNING .....................................................................................................................................................................................................................3
+4\. FORMER FÖR KONKURRENSUTSÄTTNING .....................................................................................................................................................................................................................3
 4.1 EGENREGIANBUD ..........................................................................................................................................................................................................................................................4
 
-5. NÄMNDENS DIALOG MED MARKNADEN .......................................................................................................................................................................................................................4
-6. NÄMNDENS HUVUDMANSKAP, INSYN I OCH UPPFÖLJNING AV KONKURRENSUTSATT VERKSAMHET ..........................................................................................................................4
-7. VERKSAMHETSOMRÅDEN INOM INDIVID & FAMILJEOMSORG .....................................................................................................................................................................................5
+5\. NÄMNDENS DIALOG MED MARKNADEN .......................................................................................................................................................................................................................4
+6\. NÄMNDENS HUVUDMANSKAP, INSYN I OCH UPPFÖLJNING AV KONKURRENSUTSATT VERKSAMHET ..........................................................................................................................4
+7\. VERKSAMHETSOMRÅDEN INOM INDIVID & FAMILJEOMSORG .....................................................................................................................................................................................5
 
-8. VERKSAMHETER SOM ÄR KONKURRENSUTSATTA .........................................................................................................................................................................................................6
+8\. VERKSAMHETER SOM ÄR KONKURRENSUTSATTA .........................................................................................................................................................................................................6
 8.1 LEDSAGNING OCH AVLÖSNING I HEMMET ............................................................................................................................................................................................................................6
 8.1 PERSONLIG ASSISTANS ....................................................................................................................................................................................................................................................6
 
-9. VERKSAMHETER SOM INTE KAN ELLER BÖR KONKURRENSUTSÄTTAS ...........................................................................................................................................................................6
-10. VERKSAMHETER SOM KAN UTREDAS FÖR KONKURRENSUTSÄTTNING .......................................................................................................................................................................6
+9\. VERKSAMHETER SOM INTE KAN ELLER BÖR KONKURRENSUTSÄTTAS ...........................................................................................................................................................................6
+10\. VERKSAMHETER SOM KAN UTREDAS FÖR KONKURRENSUTSÄTTNING .......................................................................................................................................................................6
 
 <!-- sida 3 -->
 
@@ -106,7 +106,7 @@ KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
 entreprenörer. Här är det lika naturligt att starta företag som att
-1. Inledning
+1\. Inledning
 vara anställd. Även i Kungsbackas kommunbudget för 2024 står
 det att Kungsbacka ska ha det bästa företagsklimatet i
 Konkurrensutsättningsplanen utgör en inventering av nämndens Västsverige. I Kungsbacka kommuns policy för
@@ -131,7 +131,7 @@ Policyn anger även att all verksamhet som drivs av kommunen får
 planering gällande konkurrensutsättning av nämndens verksamhet.
 utmanas, med undantag från myndighetsutövning, strategiska
 ledningsfunktioner och kommunala bolag. Verksamheter som
-2. Bakgrund    och  syfte
+2\. Bakgrund    och  syfte
 enligt lag eller förordning måste utföras av kommunen kan inte
 heller utmanas. Centralt i prövningen är att kommunens
 Kungsbacka kommuns Vision 2030 är en ledstjärna för
@@ -175,7 +175,7 @@ Valfrihetssystem ska utformas i enlighet med EU-rättens
 av kommunala och privata utförare
 grundläggande principer om likabehandling och icke-diskriminering
 samt principerna om öppenhet, ömsesidigt erkännande och
-3. Varför  konkurrens?                                proportionalitet.
+3\. Varför  konkurrens?                                proportionalitet.
 I ett valfrihetssystem är priset fastställt på förhand och alla utförare
 Konkurrensutsättning är när en kommun prövar om ett privat
 inom en kommun eller ett landsting får samma ersättning för
@@ -201,7 +201,7 @@ Nämnden beslutar om de krav som ska ställas på nämndens
 kunna arbeta hos fler arbetsgivare.
 externa utförare. För externa utförare inom valfrihetssystemet
 regleras de krav som ställs på utföraren i ett förfrågningsunderlag.
-4. Former   för  konkurrensutsättning
+4\. Former   för  konkurrensutsättning
 För upphandlingar enligt LOU, regleras de krav som ställs på
 utföraren i ett upphandlingsdokument. Kraven i
 Den offentliga upphandlingen av varor och tjänster regleras av Lag
@@ -247,7 +247,7 @@ lämna anbud eller ej vid respektive konkurrensutsättning. driften av en offent
 kommunen som huvudman för verksamheten. Detta innebär att
 nämnden för Individ & Familjeomsorg är huvudman för den
 verksamhet som lämnats över till externa utförare och ansvarar då
-5. Nämndens     dialog   med   marknaden              ytterst för den verksamhet som utförarna bedriver.
+5\. Nämndens     dialog   med   marknaden              ytterst för den verksamhet som utförarna bedriver.
 I Kommunallagen anges även att nämnderna ansvarar för att se till
 Förvaltningen behöver föra en löpande dialog med marknaden. att all verksamhet som ingår i nämndens ansvarsområde bedrivs
 Både för att kvalitetssäkra arbetet med kommande upphandlingar, enligt mål, riktlinjer och föreskrifter, att den interna kontrollen är
@@ -287,8 +287,8 @@ Vidare anges att respektive nämnd ansvarar för vad som anges i • Daglig verk
 Kommunallagen kring att säkerställa att extern utföraren bedriver
 verksamhet enligt:
 Stöd i hemmet och sysselsättning
-- de lagar, förordningar och föreskrifter som gäller     • Personlig assistans
-- de mål och andra regleringar som kommunfullmäktige och nämnd • Korttidsvistelse, läger och korttidshem
+\- de lagar, förordningar och föreskrifter som gäller     • Personlig assistans
+\- de mål och andra regleringar som kommunfullmäktige och nämnd • Korttidsvistelse, läger och korttidshem
 har fastställt i kommunbudget, nämndbudget eller andra   • Avlösarservice och ledsagning
 styrdokument.                                            • Boendestöd och sysselsättning
 1 När skötseln av en kommunal angelägenhet genom avtal har lämnats över till en privat utförare, 2 Beslutad av Kommunfullmäktige 2016-10-11 § 144.
@@ -300,7 +300,7 @@ verksamheten.
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-8. Verksamheter      som   är                         Myndighetsutövning är en del av det kommunala uppdraget som
+8\. Verksamheter      som   är                         Myndighetsutövning är en del av det kommunala uppdraget som
 inte är möjlig att konkurrensutsätta. Konkurrensutsättning kan inte
 konkurrensutsatta
 heller ske av sådan verksamhet som enligt lag ska drivas av
@@ -330,7 +330,7 @@ Om en brukare får Personlig assistans beviljad utgår en
 assistansersättning. När man får ersättning för personlig assistans
 betyder det att brukaren själv betalar för insatsen och har därmed
 rätt att själv välja utförare.
-9. Verksamheter      som   inte kan   eller bör
+9\. Verksamheter      som   inte kan   eller bör
 
 konkurrensutsättas
 
@@ -351,19 +351,19 @@ Innehållsförteckning
 
 INNEHÅLLSFÖRTECKNING .................................................................................................................................................................................................................................................1
 
-1. BAKGRUND ...................................................................................................................................................................................................................................................................2
-2. KONKURRENSUTSÄTTNING AV KOMMUNAL DRIFT .......................................................................................................................................................................................................2
+1\. BAKGRUND ...................................................................................................................................................................................................................................................................2
+2\. KONKURRENSUTSÄTTNING AV KOMMUNAL DRIFT .......................................................................................................................................................................................................2
 
-3. EGENREGIANBUD ..........................................................................................................................................................................................................................................................2
-4. FÖRVALTNINGENS FÖRSLAG .........................................................................................................................................................................................................................................2
+3\. EGENREGIANBUD ..........................................................................................................................................................................................................................................................2
+4\. FÖRVALTNINGENS FÖRSLAG .........................................................................................................................................................................................................................................2
 
 <!-- sida 9 -->
 
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-4. Förvaltningens     förslag
-1. Bakgrund
+4\. Förvaltningens     förslag
+1\. Bakgrund
 Förvaltningen förslag är att under 2025 genomföra en utredning
 I Nämnden för Individ & Familjeomsorgs konkurrensutsättningsplan
 kring möjligheterna att konkurrensutsätta delar av Daglig
@@ -384,12 +384,12 @@ Denna utredning kommer att presenteras för nämnden under
 planering gällande konkurrensutsättning av nämndens verksamhet.
 hösten 2025, som därefter får fatta beslut om vidare steg. Beslutar
 nämnden att gå vidare med en eventuell konkurrensutsättning
-2. Konkurrensutsättning        av kommunal
+2\. Konkurrensutsättning        av kommunal
 kommer den ske 2026.
 drift
 Idag har Nämnden för individ och Familjeomsorg konkurrensutsatt
 Ledsagning och avlösarservice via Lagen om valfrihet (LOV).
-3. Egenregianbud
+3\. Egenregianbud
 I enlighet med kommunens Policy för konkurrensprövning ska
 nämnden fatta beslut om den kommunala regin ska tillåtas att
 lämna anbud i nämndens konkurrensutsättningar.
@@ -542,7 +542,7 @@ jämfört med den av nämnden beslutade planen ska rapporteras i intern kontroll
 Nämndens arbete med intern kontroll
 
 Individ & Familjeomsorgs plan för intern kontroll 2025 baseras på riskanalyser som genomförts under hösten
-2024. Riskanalyserna genomfördes med relevanta expertfunktioner och representanter från förvaltningens olika
+2024\. Riskanalyserna genomfördes med relevanta expertfunktioner och representanter från förvaltningens olika
 verksamhetsområden.
 Den beslutade intern kontrollplanen syftar till att granska och följa upp verksamheten för att förebygga att
 allvarliga fel sker. Förvaltningens verksamhet följs upp och kontrolleras på fler sätt än via denna intern
@@ -627,20 +627,20 @@ vara en hållbar och kvalitativ socialtjänst i nutid och i framtid.
 Många av de trender som identifierades är inte unika för Individ & Familjeomsorg utan påverkar Kungsbacka
 och hela det offentliga Sverige. Exempel på sådant som bedömdes vara av extra stor vikt är:
 
-- den demografiska utmaningen. Kompetensbristen är påtaglig inom nämndens verksamheter redan idag, där
+\- den demografiska utmaningen. Kompetensbristen är påtaglig inom nämndens verksamheter redan idag, där
 vissa yrkesgrupper är svårare att rekrytera än andra. Sveriges kommuner står inför omfattade utmaningar bland
 annat kopplat till välfärdens långsiktiga finansiering, kompetensförsörjning och ökade krav på offentlig service.
-- teknik och digitala lösningar. Genom att hitta digitala lösningar där så är möjligt, kan vi frigöra resurser och
+\- teknik och digitala lösningar. Genom att hitta digitala lösningar där så är möjligt, kan vi frigöra resurser och
 säkerställa att det finns medarbetare tillgängliga där de gör mest nytta. Digitala lösningar kan också bidra till en
 ökad tillgänglighet för Kungsbackas invånare och en ökad självständighet för förvaltningens brukare. Samtidigt
 finns en risk att vi skapar ett "digitalt utanförskap" då vi inför nya arbetssätt och tekniker som inte alla har
 tillgång till eller förmåga att använda. Detta behöver vi ta hänsyn till när vi utvecklar nya digitala arbetssätt.
-- förändrad omvärld. Ärenden inom socialtjänsten blir alltmer komplexa och krävande. Vi möter människor med
+\- förändrad omvärld. Ärenden inom socialtjänsten blir alltmer komplexa och krävande. Vi möter människor med
 mer komplex problematik vilket ställer krav på delvis annan kompetens. Psykisk ohälsa, samsjuklighet och unga
 med NPF ökar. De kriminella gängen kommer närmre Kungsbacka och tillgängligheten till droger ökar. Våra
 brukare värderar sina rättigheter högre och ställer därmed andra och/eller högre krav på verksamheten.
 
-- Ny lagstiftning
+\- Ny lagstiftning
 I somras presenterades lagrådsremissen till ny socialtjänstlag "En förebyggande socialtjänstlag – för ökade
 rättigheter, skyldigheter och möjligheter". Den nya lagstiftningen väntas träda i kraft 1 juli 2025.
 
@@ -1500,7 +1500,7 @@ Kommunfullmäktige, KF
 KF § 117 Rapport från nämnden för Individ & Familjeomsorg av ej verkställda beslut enligt
 
 socialtjänstlagen SoL, och lagen om stöd och service till vissa funktionshindrade, LSS, första kvartalet
-2024.
+2024\.
 KF § 120 Antagande av riktlinjer för studiebesök för förtroendevalda politiker i kommunens
 verksamheter
 

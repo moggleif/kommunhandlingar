@@ -193,7 +193,7 @@ till grund för arbetet inom enheterna på Kompetenscentrum.
 Det ekonomiska biståendet ligger fortsatt lågt, men under sista kvartalet ser vi ändå en viss ökning.
 I februari 2022 inleddes Rysslands invasion av Ukraina. Under juni 2022 kom de första anvisningarna från
 Migrationsverket avseende kommunens mottagande utifrån massflyktsdirektivet, som började gälla den 1 juli
-2022.
+2022\.
 Under sommaren 2023 gavs möjligheten för ukrainarna att starta i SFI-undervisning.
 
 Europeiska unionens råd har under perioden enats om att förlänga massflyktsdirektivet till den 4 mars 2026.
@@ -1357,7 +1357,7 @@ ytterligare stärka mottagandet och det strukturerade arbetssättet för att nya
 effektiv introduktion i skola och samhällslivet samt närma sig arbetsmarknaden och egen
 bostad. Uppdateringen av arbetssätt och rutiner har gjorts under året. Under 2024 har över 82
 procent avslutats till eget kontrakt, vilket är den högsta siffran sedan tvåårskontrakten infördes
-2019. Arbetet med "snabbaste vägen till bostad" fortsätter med att upprätta bo-planer
+2019\. Arbetet med "snabbaste vägen till bostad" fortsätter med att upprätta bo-planer
 tillsammans med den sökande samt erbjuda bo-sök som aktivitet där man lär sig att söka
 bostad och kontakta hyresvärdar med intresseanmälan. Ett ökat fokus kommer att läggas på
 att få till hembesöks-processen och bo-skolan för att ytterligare stärka nyanländas kunskap om
@@ -1486,7 +1486,7 @@ Förslag till beslut i Nämnden för Gymnasium & Arbetsmarknad
 Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
-1. Utbudsplanering inför läsåret 2026–2027 vid Elof Lindälvs gymnasium:
+1\. Utbudsplanering inför läsåret 2026–2027 vid Elof Lindälvs gymnasium:
 
 •  Ekonomiprogrammet: 160 platser
 
@@ -1502,15 +1502,15 @@ Sammanfattning av ärendet
 
 Utbudet för Elof Lindälvs gymnasium är i stort sett oförändrat jämfört med tidigare år, med vissa
 skillnader:
--  El- och energiprogrammet kan trots det höga söktrycket inte erbjuda 60 platser. Programmet
+\-  El- och energiprogrammet kan trots det höga söktrycket inte erbjuda 60 platser. Programmet
 kräver särskilda lokaler, och de befintliga lokalerna har inte kapacitet att ta emot fler elever
 utan en ombyggnation. För att kunna erbjuda 60 platser varje läsår krävs ändamålsenliga
 
 lokaler.
--  Restaurang- och livsmedelsprogrammet kommer inte kunna erbjudas om antalet sökande
+\-  Restaurang- och livsmedelsprogrammet kommer inte kunna erbjudas om antalet sökande
 inte ökar markant.
 
-2. Utbudsplanering inför läsåret 2026–2027 vid Aranäsgymnasiet:
+2\. Utbudsplanering inför läsåret 2026–2027 vid Aranäsgymnasiet:
 
 •  Estetiska programmet: 30 platser (10 platser per inriktning: musik, bild och form, teater).
 1 (2)
@@ -1537,11 +1537,11 @@ KUNGSBACKA  KOMMUN
 •  Samhällsvetenskapsprogrammet: 192 platser
 
 Utbudet för Aranäsgymnasiet är i stort sett oförändrat jämfört med tidigare år, med vissa skillnader :
--  Estetiska programmets inriktning musik kommer endast att kunna erbjudas om antalet
+\-  Estetiska programmets inriktning musik kommer endast att kunna erbjudas om antalet
 
 sökanden ökar markant.
 
-3. NIU padel
+3\. NIU padel
 •  NIU padel: 0 platser. Andelen förstahandssökande till NIU padel vid Elof Lindälvs gymnasium
 och Aranäsgymnasiet har långsiktigt minskat och antalet elever som når elitnivå inom sporten
 är inte tillräckligt för att upprätthålla utbildningen.
@@ -2013,7 +2013,7 @@ av respektive nämnd.
 •  Vi har även ett pris – Självständigt liv – som
 ej är i bruk.
 
-*Delas ut vartannat år               **Extern nominering möjlig
+\*Delas ut vartannat år               \*\*Extern nominering möjlig
 
 Delas  ut på Kungsbackagalan
 
@@ -2021,10 +2021,10 @@ Delas  ut på Kungsbackagalan
 
 | EXTERNT PRIS | INTERNT PRIS |
 | --- | --- |
-| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)** |
+| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)\*\* |
 | Kungsbackas mästare | Årets ledare (två kategorier) |
-| Kungsbackas olympier* | Leva livet-priset** |
-| Årets eldsjäl | Lära för livet-priset** |
+| Kungsbackas olympier\* | Leva livet-priset\*\* |
+| Årets eldsjäl | Lära för livet-priset\*\* |
 | Årets förening |  |
 | Årets förnyare |  |
 | Arkitekturpriset |  |
@@ -2035,10 +2035,10 @@ Delas  ut på Kungsbackagalan
 
 Nuläge
 
-*utdelning under höst
+\*utdelning under höst
 
 Jan       Feb     Mars     April     Maj      Juni    Juli    Aug      Sept      Okt      Nov       Dec
-Leva livet-               Kungsbacka-                                Arkitekturpriset*   Hållbarhets-
+Leva livet-               Kungsbacka-                                Arkitekturpriset\*   Hållbarhets-
 priset                      galan                                                         priset
 Ledardagen
 Medarbetar-
@@ -2097,7 +2097,7 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
-*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
+\*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
 
 [Tabell 56-1](handlingar.tabeller/56-1.csv)
 
@@ -2106,7 +2106,7 @@ Kartläggning                    interna            priset
 | Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
 | Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
 | Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
+| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
 | Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 57 -->
@@ -3849,7 +3849,7 @@ Aranäsgymnasiet, Elvira Jönsson och Emilia Löfberg åk 1-elever Aranäsgymnas
 82
 83
 
-$4
+\$4
 
 Ordförande öppnar mötet.
 
@@ -4343,7 +4343,7 @@ https://sign.visma.net/sv/document-check/cc16b265-5a4b-4846-8e9a-af6a060af137 ww
 
 [Tabell 109-3](handlingar.tabeller/109-3.csv)
 
-| Finsamplatser | Årsplatser | 2025 (*från start) | 2026<br>(helår) | *Start 2025 |
+| Finsamplatser | Årsplatser | 2025 (\*från start) | 2026<br>(helår) | \*Start 2025 |
 | --- | --- | --- | --- | --- |
 | Laholm | 22 platser | 469 000 kr | 725 000 kr | 2025-05-01 |
 | Halmstad | 125 platser | 2 000 000 kr | 4 120 000<br>kr | 2025-07-01 |
@@ -4429,20 +4429,20 @@ kommun, HR-service Ewa Lindkvist
 
 § 12     Rapport från förbundschef
 
-- Nytt regeringsuppdrag till Försäkringskassan: Ta fram lösningar så att
+\- Nytt regeringsuppdrag till Försäkringskassan: Ta fram lösningar så att
 Samordningsförbundens beredningsstruktur ska kunna användas för att ta
 fram behovsanalyser, projektansökningar mm. Syftet är att finna vägar så att
 Finsam- och ESF-medel kan kombineras. Om ingen annan kan vara
 projektägare kan FK vara det.
-- Finsamkonferensen 2 april i Stockholm, 4 parter anmälda. Förbundet skickar
+\- Finsamkonferensen 2 april i Stockholm, 4 parter anmälda. Förbundet skickar
 fem representanter till konferensen.
 
-- VP-dag 22 augusti – vad vill vi med dagen?
+\- VP-dag 22 augusti – vad vill vi med dagen?
 Idéer: Låt parterna ge sina olika bilder kring hur det ser ut i Halland för våra
 målgrupper. Analys och redogörelse av förbundets deltagare 2024-2025. Var
 står vi nu och vart vill vi? Vad kan förbundet göra i mellanrummen? Vilka
 grupper har mest behov av insatser?
-- Samverkansdag i november-december?
+\- Samverkansdag i november-december?
 Styrelsen anser att vi ska genomföra en sådan dag.
 
 § 13     Uppdrag till förbundschefen
@@ -4658,24 +4658,24 @@ Granskningen påbörjas i februari 2025 och avrapporteras preliminärt vid revis
 sammanträde i mars 2026. Uppföljande granskning avrapporteras preliminärt i juni 2025.
 
 Granskningen består av följande moment med tidsplan inom parentes:
-1.  Fastställande av projektplan (februari 2025)
+1\.  Fastställande av projektplan (februari 2025)
 
-2.  Bokning av nämnddialoger (februari 2025)
-3.  Genomförande, upprättande och utskick av frågor inför nämnddialoger samt utskick
+2\.  Bokning av nämnddialoger (februari 2025)
+3\.  Genomförande, upprättande och utskick av frågor inför nämnddialoger samt utskick
 skriftliga frågor (april-maj 2025)
-4.  Upprättande och utskick av skriftliga frågor inom ramen för den uppföljande
+4\.  Upprättande och utskick av skriftliga frågor inom ramen för den uppföljande
 granskningen (mars-april 2025)
 
-5.  Analys av skriftliga svar, intervjuer vid behov, rapportskrivning, intern kvalitetssäkring
+5\.  Analys av skriftliga svar, intervjuer vid behov, rapportskrivning, intern kvalitetssäkring
 och faktagranskning av uppföljande granskning (maj-juni 2025)
-6.  Presentation och utformning av skriftlig slutrapport avseende uppföljande granskning
+6\.  Presentation och utformning av skriftlig slutrapport avseende uppföljande granskning
 (maj-juni 2025)
-7.  Granskning av kommunstyrelsens och nämndernas måluppfyllelse per helår utifrån
+7\.  Granskning av kommunstyrelsens och nämndernas måluppfyllelse per helår utifrån
 respektive årsredovisning (februari 2026)
 
-8.  Analys, rapportskrivning, intern kvalitetssäkring och faktagranskning av grundläggande
+8\.  Analys, rapportskrivning, intern kvalitetssäkring och faktagranskning av grundläggande
 granskning 2024 (december 2025-mars 2026)
-9.  Presentation och utformning av skriftlig slutrapport avseende grundläggande
+9\.  Presentation och utformning av skriftlig slutrapport avseende grundläggande
 granskning (mars 2026)
 
 Insamling av fakta och iakttagelser samt protokollsgranskning sker löpande under

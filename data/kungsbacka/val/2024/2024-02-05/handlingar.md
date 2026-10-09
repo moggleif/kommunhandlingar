@@ -307,7 +307,7 @@ behörigheter kopplade till valnämndens system och finner inga avvikelser.
 
 Risken på området verksamhet gäller korruption och har inte varit i fokus år 2023 då det inte varit allmänna val.
 Däremot har valnämnden arbetat förebyggande genom att få information/utbildning i vallagen under hösten
-2023. I föredragningen framgick valnämndens roll i samband med genomförande av val för att minimera risker
+2023\. I föredragningen framgick valnämndens roll i samband med genomförande av val för att minimera risker
 för korruption. Valnämndens medarbetare är anställda av kommunstyrelsen och det finns en stor medvetenhet
 kring risken för korruption samt om hur man rapporterar missförhållanden eller misstanke om missförhållanden.
 
@@ -518,13 +518,13 @@ KUNGSBACKA  KOMMUN
 Enligt kommunallagen och reglementet för nämnderna ansvarar nämnderna för att den interna
 
 kontrollen är tillräcklig och utformad så att en rimlig grad av säkerhet uppnås:
-- efterlevnad av tillämpliga lagar, föreskrifter, policys och riktlinjer
+\- efterlevnad av tillämpliga lagar, föreskrifter, policys och riktlinjer
 
-- ändamålsenlig och kostnadseffektiv verksamhet
-- tillförlitlig finansiell rapportering och information om verksamheten
+\- ändamålsenlig och kostnadseffektiv verksamhet
+\- tillförlitlig finansiell rapportering och information om verksamheten
 
-- skydd mot förluster eller förstörelse av kommunens tillgångar
-- eliminering eller upptäckande av allvarliga fel
+\- skydd mot förluster eller förstörelse av kommunens tillgångar
+\- eliminering eller upptäckande av allvarliga fel
 
 Risk kan i det här sammanhanget definieras som ”händelser och företeelser som hotar eller hindrar att
 uppdrag kan genomföras och att mål för verksamheten nås samt att det sker på avsett och säkert sätt”.
@@ -977,9 +977,9 @@ STÄLLNINGSTAGANDE             2(4)
 Datum       Dnr
 2023-12-18  VAL-863
 
-1. valsedlar med enbart valbeteckning,
+1\. valsedlar med enbart valbeteckning,
 
-2. valsedlar med parti- och valbeteckning
+2\. valsedlar med parti- och valbeteckning
 
 a) för val till riksdagen samt region- och kommunfullmäktige för varje parti som vid något av
 de två senaste riksdagsvalen har fått mer än 1 procent av rösterna i hela landet,
@@ -987,7 +987,7 @@ de två senaste riksdagsvalen har fått mer än 1 procent av rösterna i hela la
 b) för val till region- och kommunfullmäktige för varje parti som redan är representerat där
 och som inte uppfyller kraven i a ovan, när det gäller röstmottagningsställen inom den
 region eller den kommun där partiet är representerat,
-3. valsedlar med parti- och valbeteckning för val till Europaparlamentet för varje parti som
+3\. valsedlar med parti- och valbeteckning för val till Europaparlamentet för varje parti som
 vid något av de två senaste valen till Europaparlamentet har fått mer än 1 procent av
 
 rösterna i hela landet eller valsedlar med parti- och valbeteckning samt uppgifter om
@@ -1255,7 +1255,7 @@ Egstedt och stadshusets fastighetstekniker utses att utkvittera förtidsröster 
 Upplysning
 
 Beslut fattat med stöd av delegering. Valnämndens delegeringsförteckning: punkt 3.4.6, 2023-05-11, §
-11.
+11\.
 
 Sammanfattning
 Valsamordnare Kristina Gudmundson, assisterande valsamordnare Anton Gille, registrator Kristian
@@ -1314,9 +1314,9 @@ Skickat:               den 13 december 2023 09:24
 Till:                  Valnämnden
 Ämne:                  VB: Inbjudan till EU-valet 2024 – lärdomar och nyheter
 
-Från: Sveriges Kommuner och Regioner <utskick@skr.se>
+Från: Sveriges Kommuner och Regioner \<utskick@skr.se>
 Skickat: den 13 december 2023 09:00
-Till: Kommun <kommun@kungsbacka.se>
+Till: Kommun \<kommun@kungsbacka.se>
 Ämne: Inbjudan till EU-valet 2024 – lärdomar och nyheter
 
 Sveriges Kommuner och Regioner
@@ -1873,13 +1873,13 @@ går igenom i era eventuella kontakter med häktet eller anstalten inom kommunen
 
 I samverkan med kommunen är det särskilt viktigt att häktet eller anstalten:
 
--  För en tidig dialog inför kommande val.
--  Förser kommunen med den namngivna kontaktpersonens kontaktuppgifter.
--  I det fall dubblettröstkort ska beställas; inventera behovet tidigt och kontakta
+\-  För en tidig dialog inför kommande val.
+\-  Förser kommunen med den namngivna kontaktpersonens kontaktuppgifter.
+\-  I det fall dubblettröstkort ska beställas; inventera behovet tidigt och kontakta
 kommunen. Personer med skyddade personuppgifter kan få dubblettröstkort från
 länsstyrelsen.
 
--  I det fall budröstning är aktuellt; bestämma lokal och tid för leverans av budröster
+\-  I det fall budröstning är aktuellt; bestämma lokal och tid för leverans av budröster
 och hellre leverera flera gånger än alla röster på en gång.
 
 Kriminalvården informerar också verksamhetsställena om rutiner för hur budröstningen går
@@ -2269,30 +2269,30 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
+1\. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
 
 1.1 Dataskyddsombudet följer och rapporterar ......................................................................................... 6
 1.2 En värdegrundsfråga i tiden ..................................................................................................................... 6
 
-2. Råd & stöd .......................................................................................................................................................... 9
+2\. Råd & stöd .......................................................................................................................................................... 9
 
 2.1 Utbildning ..................................................................................................................................................... 9
 2.2 Råd & rekommendationer ......................................................................................................................... 9
 2.3 Kontakter ..................................................................................................................................................... 15
 2.4 Samverkan .................................................................................................................................................. 17
 
-3. Granskning ....................................................................................................................................................... 18
+3\. Granskning ....................................................................................................................................................... 18
 3.1 Riktad granskning ...................................................................................................................................... 18
 3.2 Regelbunden granskning ......................................................................................................................... 18
 3.3 Fördjupad granskning .............................................................................................................................. 18
 
 3.4 Övriga iakttagelser…………………………………………………………………………………………………………..19
 
-4. Omvärld.............................................................................................................................................................. 21
+4\. Omvärld.............................................................................................................................................................. 21
 4.1 Fortsatt fokus på tredjelandsöverföring .............................................................................................. 21
 4.2 Fortsatt fokus på innovation och teknikutveckling ........................................................................ 22
 
-5. Kommande år ...................................................................................................................................... 24
+5\. Kommande år ...................................................................................................................................... 24
 5.1 Inriktning året 2023 .................................................................................................................................. 24
 5.2 Granskningsplan för åren 2023 – 2026 .............................................................................................. 24
 
@@ -2300,7 +2300,7 @@ Innehåll
 
 <!-- sida 63 -->
 
-1. Årsrapport   för  sammanfattande       lägesbild
+1\. Årsrapport   för  sammanfattande       lägesbild
 
 Syftet med den här sammanställningen är att ge kommunstyrelsen och de personuppgiftsansvariga
 nämnderna, bolagen och stiftelsen en bild över vad jag som dataskyddsombud sett i kommunen som
@@ -2428,7 +2428,7 @@ ett värde som bidrar till att bygga förtroende i samhället, inte som en broms
 
 <!-- sida 66 -->
 
-2. Råd  & stöd
+2\. Råd  & stöd
 
 2.1 Utbildning
 
@@ -2836,7 +2836,7 @@ medverkade även i kommunens informationsaktiviteter under den årliga Beredskap
 
 <!-- sida 75 -->
 
-3. Granskning
+3\. Granskning
 
 3.1 Riktad granskning
 
@@ -2971,7 +2971,7 @@ tunga att utforska.
 
 <!-- sida 78 -->
 
-4. Omvärld
+4\. Omvärld
 
 4.1 Fortsatt fokus på tredjelandsöverföring
 
@@ -3116,13 +3116,13 @@ kommunens satsning på AI-området.
 24 AI och risker för diskriminering i arbetslivet (2023:6) https://www.do.se/kunskap-stod-och-vagledning/publikationer-om-
 diskriminering/2023/ai-och-risker-for-diskriminering-i-arbetslivet
 25 Innebygd diskrimineringsvern. En veileder for å avdekke og forebygge diskriminering i utvikling og bruk av kunstig intelligens
-(2023) https://www.ldo.no/globalassets/_ldo_2019/_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
+(2023) https://www.ldo.no/globalassets/\_ldo_2019/\_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
 26 Yttrande om behandlingsunderlag för utveckling och drift av AI-lösning inom vård- och omsorgsområdet (datatilsynet.dk) 2023-
 11-17                                                           23
 
 <!-- sida 81 -->
 
-5. Kommande      år
+5\. Kommande      år
 
 5.1 Inriktning året 2024
 
@@ -3151,9 +3151,9 @@ användas.
 Den regelbundna granskningen kommer initialt ske under 2024 och repeteras 2026. Här kommer
 varje personuppgiftsansvarig verksamhet adresseras28. De två områdena som kommer ingå är:
 
-1) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
+1\) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
 autenticeringsmetoder, kryptering i digitala tjänster och system samt kontraktuella åtgärder)
-2) Systematiskt kvalitetssäkringsarbete
+2\) Systematiskt kvalitetssäkringsarbete
 
 Därutöver kommer uppmärksammade avvikelser i senaste regelbunden och riktad granskning följas
 upp.

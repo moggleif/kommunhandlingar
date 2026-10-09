@@ -605,13 +605,13 @@ Vuxna med SoL-beslut:
 gruppboende (4337 kr/månad, 2025)
 
 • Matportion; särskilt boende, korttidsboende och gruppboende (145 kr/dygn,
-2025)
+2025\)
 • Omsorg; särskilt boende korttidsboende och gruppboende (88 kr/dygn, 2025)
 
 Vuxna med LSS-beslut
 
 • Matportion; särskilt boende korttidsboende och gruppboende (145 kr/dygn,
-2025)
+2025\)
 De aktuella taxorna ska justeras i enlighet med rådande index och ekonomiska
 förutsättningar för 2026.
 
@@ -636,7 +636,7 @@ Taxorna omfattar vuxna med beslut enligt socialtjänstlagen, SoL:
 gruppboende (4337 kr/månad, 2025)
 • Matportion; särskilt boende, korttidsboende och gruppboende (145 kr/dygn,
 
-2025)
+2025\)
 • Omsorg; särskilt boende, korttidsboende och gruppboende (88 kr/dygn 2025)
 
 Det här dokumentet är digitalt signerat
@@ -653,7 +653,7 @@ Datum
 Taxorna omfattar vuxna med beslut enligt lagen om stöd och service till vissa
 funktionshindrade, LSS:
 • Matportion; särskilt boende korttidsboende och gruppboende (145 kr/dygn,
-2025)
+2025\)
 
 De aktuella taxorna ska justeras i enlighet med rådande index och ekonomiska
 förutsättningar för 2026. Taxorna räknas upp årligen med rådande prisindex

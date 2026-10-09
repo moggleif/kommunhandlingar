@@ -34,9 +34,9 @@ Plats och tid för naturum Fjärås Bräcka Klockan 17:00-20:37
 sammanträde
 Beslutande Ledamöter Tjänstgörande ersättare
 Annika Hedman (C), Ordförande Bo Barknertz (M) för Annika
-Maria Gathendahl (M), 1:e vice ordförande Hamberg (M) $ 26-47
+Maria Gathendahl (M), 1:e vice ordförande Hamberg (M) \$ 26-47
 Ulrika Jörgensen (M) Gert Svensson (S) för Per Gunnarsson
-Charlotte Wallenstein (M) (S) $ 26-47
+Charlotte Wallenstein (M) (S) \$ 26-47
 Birgitta Tingdal (S)
 Torbjörn Andersson (SD)
 Mats Dahl (SD)
@@ -62,7 +62,7 @@ Hanhals IF
 Per Österdahl, Hanhals IF
 
 Plats och tid för justering Digitalt 2024-03-27,
-Sekreterare Erik Norinder Paragrafer. $ 20-47
+Sekreterare Erik Norinder Paragrafer. \$ 20-47
 
 Ordförande Annika Hedman
 
@@ -76,19 +76,19 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 Information till nämnd: förändring av turistinformation........................... 22
-$42 Dnr KFT-2024-00075
+\$42 Dnr KFT-2024-00075
 Information till nämnd: återrapportering av Socialdemokraternas initiativ
 kring Kungsbackas hiStOria..............ssesssersssereorrrsrsrrsesssnrrrrrnrrssrsrnnrrrrrrrrsrrnrn 23
-$43 Dnr KFT-2024-00076
+\$43 Dnr KFT-2024-00076
 Anmälan av delegeringsbeslut mars 2024 =mnmmssssssssrrrerrrsrrrserrrnnrrrrrrrrrrr nns 24
-$44 Dnr KFT-2024-00077
+\$44 Dnr KFT-2024-00077
 Redovisning av inkomna handlingar mars 2024... ssssssssssrrrrsssrersesnrrrrennre 25
-$45 Dnr KFT-2024-00083
+\$45 Dnr KFT-2024-00083
 Initiativ från Alliansen: Uppdrag för framtagande av fördelningsprinciper
 för bokning av Kungsbacka kommuns idrottsanläggningar ...................... 26
-$46 Dnr KFT-2024-00092
+\$46 Dnr KFT-2024-00092
 Initiativ från SD: avstängd hälsocertifiering för Hanhals IF ..................... 27
-$47 Dnr KFT-2024-00078
+\$47 Dnr KFT-2024-00078
 Förvaltningschefen informerar mars 2024 =mosssssssssssssssrrrrrrrssrssserrnrnrrrrsrrnrn 28
 
 3 (28)
@@ -102,7 +102,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 26 Dnr KFT-2024-00060
+\$ 26 Dnr KFT-2024-00060
 Information till nämnd: naturum Fjärås Bräcka
 
 Beslut
@@ -129,7 +129,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 27 Dnr KFT-2024-00081
+\$ 27 Dnr KFT-2024-00081
 Information till nämnd: Hanhals IF
 
 Beslut
@@ -139,7 +139,7 @@ Nämnden för Kultur & Fritid noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Johanna Kullenberg, ordförande Hanhals IF, och Per Österdahl, Hanhals IF
-presenterar handlingsplan för nämnden efter beslut $ 24, fattat 2024-02-21.
+presenterar handlingsplan för nämnden efter beslut \$ 24, fattat 2024-02-21.
 
 Beslutsunderlag
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-13
@@ -157,9 +157,9 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (28)
 
 Nämnden för Kultur & Fritid Datum
 2024-03-20
-$ 28 Dnr KFT-2024-00030
+\$ 28 Dnr KFT-2024-00030
 Begäran om yttrande - Betänkande från Narkotikautredningen (KS 2024-
-00081)
+00081\)
 Beslut
 
 Nämnden för Kultur & Fritid avger yttrande på remiss av Socialdepartementets
@@ -238,7 +238,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 29 Dnr KFT-2024-00061
+\$ 29 Dnr KFT-2024-00061
 Information till nämnd: kulturföreningar och studieförbund
 
 Beslut
@@ -270,7 +270,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 30 Dnr KFT-2024-00062
+\$ 30 Dnr KFT-2024-00062
 Information till nämnd: dataskyddsombudets rapport
 
 Beslut
@@ -297,7 +297,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 31 Dnr KFT-2024-00063
+\$ 31 Dnr KFT-2024-00063
 Information till nämnd: Cykelpilotprojektet
 
 Beslut
@@ -327,7 +327,7 @@ Expedierat/bestyrkt
 KUNGSBACKA KOMMUN
 Nämnden för Kultur & Fritid
 
-$ 32
+\$ 32
 
 SAMMANTRÄDESPROTOKOLL
 
@@ -461,14 +461,14 @@ delas årligen ut av kommunfullmäktige.
 
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i
+1\. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i
 
 Kungsbackaförening b. bosatt i Kungsbacka kommun, men tävlande för förening
 
 utanför Kungsbacka och har som enskild eller genom lag erövrat ett svenskt
 mästerskap eller nått en ännu större framgång.
 
-2. Priset utdelas endast en gång till en och samma person.
+2\. Priset utdelas endast en gång till en och samma person.
 
 Expedierat/bestyrkt
 
@@ -478,20 +478,20 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-3. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem
+3\. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem
 som är berättigad till priset.
 
-4. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna
+4\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna
 utse pristagare.
 
-5. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni
+5\. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni
 och verkställs av nämnden för Kultur & Fritids ordförande samt
 kommunfullmäktiges ordförande.
 
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för priset Kungsbackas mästare KF $ 115, 2021-09-07
+Riktlinjer för priset Kungsbackas mästare KF \$ 115, 2021-09-07
 
 Beslutsgång
 
@@ -511,15 +511,15 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 33 Dnr KFT-2024-00064
+\$ 33 Dnr KFT-2024-00064
 Årets eldsjäl
 
 Beslut
 Nämnden för Kultur & Fritid beslutar att
 
-- offentliggöra pristagaren vid prisceremonin.
+\- offentliggöra pristagaren vid prisceremonin.
 
-- Nominera Annelie Evenmyr - HK Aranäs, Bengt Andersson - Kungsbacka Judo,
+\- Nominera Annelie Evenmyr - HK Aranäs, Bengt Andersson - Kungsbacka Judo,
 samt Johanna Sodéus - Onsala Pirates BBK som finalister.
 
 Sammanfattning av ärendet
@@ -529,12 +529,12 @@ av den enskilda kraft som verkar inom något av nämndens ansvarsområde.
 
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka
+1\. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka
 kommun. b. medlem i Kungsbackaförening
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
 av nämnden för Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -545,7 +545,7 @@ betydelsefullt arbete inom nämnden för Kultur & Fritids ansvarsområde.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för priset Årets eldsjäl KF $ 115, 2021-09-07
+Riktlinjer för priset Årets eldsjäl KF \$ 115, 2021-09-07
 
 Beslutsgång
 
@@ -563,15 +563,15 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 34 Dnr KFT-2024-00068
+\$ 34 Dnr KFT-2024-00068
 Årets förening
 
 Beslut
 Nämnden för Kultur & Fritid beslutar att
 
-- offentliggöra pristagare vid prisceremonin.
+\- offentliggöra pristagare vid prisceremonin.
 
-- nominera Jazz & Blues i Kungsbacka, Kungsbacka IF samt Allas barnbarn till
+\- nominera Jazz & Blues i Kungsbacka, Kungsbacka IF samt Allas barnbarn till
 finalister.
 
 Sammanfattning av ärendet
@@ -583,13 +583,13 @@ sin verksamhet.
 
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av
+1\. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av
 nämnden för Kultur & Fritids ansvarsområden. b. med anknytning till Kungsbacka
 kommun.
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
 av nämnden för Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -603,7 +603,7 @@ jämställdhet- och värdegrundsarbete.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för priset Årets förening KF $ 115, 2021-09-07
+Riktlinjer för priset Årets förening KF \$ 115, 2021-09-07
 
 Beslutsgång
 
@@ -630,14 +630,14 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 16 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 35 Dnr KFT-2024-00065
+\$ 35 Dnr KFT-2024-00065
 Årets förnyare
 
 Beslut
 Nämnden för Kultur & Fritid beslutar att
-- offentliggöra pristagaren vid prisceremonin.
+\- offentliggöra pristagaren vid prisceremonin.
 
-- nominera Onsala discgolf, Kungsbacka IF Gåfotboll samt Kungsbacka MMA som
+\- nominera Onsala discgolf, Kungsbacka IF Gåfotboll samt Kungsbacka MMA som
 finalister.
 
 Sammanfattning av ärendet
@@ -648,13 +648,13 @@ ansvarsområden.
 
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med
+1\. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med
 anknytning till Kungsbacka kommun som är verksam inom något av nämnden för
 Kultur & Fritids ansvarsområden
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
 av nämnden för Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -667,7 +667,7 @@ framkant när det gäller kreativa idéer och haft modet att prova nya uppslag.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för priset Årets förnyare KF $ 115, 2021-09-07
+Riktlinjer för priset Årets förnyare KF \$ 115, 2021-09-07
 
 Beslutsgång
 
@@ -686,15 +686,15 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 36 Dnr KFT-2024-00069
+\$ 36 Dnr KFT-2024-00069
 Kulturpriset 2023
 
 Beslut
 Nämnden för Kultur & Fritid beslutar att:
 
-- offentliggöra pristagaren vid prisceremonin.
+\- offentliggöra pristagaren vid prisceremonin.
 
-- nominera Kungsbacka Stadsteater, Jazz & Blues i Kungsbacka och Wiveka
+\- nominera Kungsbacka Stadsteater, Jazz & Blues i Kungsbacka och Wiveka
 Warenfalk till finalister.
 
 Sammanfattning av ärendet
@@ -725,13 +725,13 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 18 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 37 Dnr KFT-2024-00070
+\$ 37 Dnr KFT-2024-00070
 Ledarstipendium 2024
 
 Beslut
 Nämnden för Kultur & Fritid beslutar att:
 
-- ledarstipendiaten offentliggörs vid prisceremonin.
+\- ledarstipendiaten offentliggörs vid prisceremonin.
 
 Sammanfattning av ärendet
 Bakgrund
@@ -742,15 +742,15 @@ olika karaktär och som är en viktig person i aktuell förening.
 Allmänna bestämmelser
 Berättigad att erhålla stipendiet är:
 
-1. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är
+1\. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är
 bidragsberättigad förening i nämnden för Kultur & Fritids föreningsregister.
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
 
-3. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den
+3\. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den
 egna organisationens verksamhet.
 
-4. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
+4\. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
 Bedömningsvillkor Mottagare av stipendiet är en ungdomsledare inom det lokala
 föreningslivet, som på ett förtjänstfullt sätt medverkar till att skapa en meningsfull
 fritidssysselsättning för ungdomar i kommunen.
@@ -758,7 +758,7 @@ fritidssysselsättning för ungdomar i kommunen.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för Ledarstipendium KF $ 115, 2021-09-07
+Riktlinjer för Ledarstipendium KF \$ 115, 2021-09-07
 
 Beslutsgång
 
@@ -776,13 +776,13 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 19 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 38 Dnr KFT-2024-00072
+\$ 38 Dnr KFT-2024-00072
 Idrottsstipendium 2024
 
 Beslut
 Nämnden för Kultur & Fritid beslutar att:
 
-- offentliggöra stipendiaterna vid prisceremonin.
+\- offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 
@@ -795,7 +795,7 @@ och född eller bosatt i Kungsbacka kommun.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för Idrottsstipendium KF $ 115, 2021-09-07
+Riktlinjer för Idrottsstipendium KF \$ 115, 2021-09-07
 
 Beslutsgång
 
@@ -814,13 +814,13 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 20 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 39 Dnr KFT-2024-00073
+\$ 39 Dnr KFT-2024-00073
 Kulturstipendium 2024
 
 Beslut
 Nämnden för Kultur & Fritid beslutar att:
 
-- offentliggöra stipendiaterna vid prisceremonin.
+\- offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 
@@ -869,7 +869,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 21 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 40 Dnr KFT-2023-00380
+\$ 40 Dnr KFT-2023-00380
 Initiativärende (SD) kring Bostället i Frillesås
 
 Beslut
@@ -915,7 +915,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 22 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 41 Dnr KFT-2024-00074
+\$ 41 Dnr KFT-2024-00074
 Information till nämnd: förändring av turistinformation
 
 Beslut
@@ -980,7 +980,7 @@ vara besvarat.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Protokollsutdrag 2023-06-21 $ 59 Initiativärende - uppdatera Kungsbackas
+Protokollsutdrag 2023-06-21 \$ 59 Initiativärende - uppdatera Kungsbackas
 historiebild
 
 Beslutsgång
@@ -1031,7 +1031,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 25 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 44 Dnr KFT-2024-00077
+\$ 44 Dnr KFT-2024-00077
 Redovisning av inkomna handlingar mars 2024
 
 Beslut
@@ -1061,7 +1061,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 26 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$45 Dnr KFT-2024-00083
+\$45 Dnr KFT-2024-00083
 
 Initiativ från Alliansen: Uppdrag för framtagande av
 fördelningsprinciper för bokning av Kungsbacka kommuns
@@ -1116,7 +1116,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 27 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 46 Dnr KFT-2024-00092
+\$ 46 Dnr KFT-2024-00092
 Initiativ från SD: avstängd hälsocertifiering för Hanhals IF
 
 Beslut
@@ -1152,7 +1152,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 28 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-$ 47 Dnr KFT-2024-00078
+\$ 47 Dnr KFT-2024-00078
 Förvaltningschefen informerar mars 2024
 
 Beslut

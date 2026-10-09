@@ -861,7 +861,7 @@ Vägarna i området är smala och slingrande.
 Tidigare ärenden:
 
 Två avstyckade tomter Gödatorp 2:18 och 2:19 beviljades förhandsbesked 2022-07-
-01. I direkt anslutning till de tänkta nya tomternaBeskrivning av ärendet
+01\. I direkt anslutning till de tänkta nya tomternaBeskrivning av ärendet
 
 Ansökan kom in 2025-10-07.
 Ansökan var komplett 2025-10-07.
@@ -1155,7 +1155,7 @@ att tydligt ange att handlingen innehåller skyddade personuppgifter.
 
 Sammanfattning av ärendet
 Ansökan inkom den 29 oktober 2025 och bedömdes som komplett den 21 november
-2025. Den avser lokalisering av ett enbostadshus inom fastigheten Myrekulla 7:10.
+2025\. Den avser lokalisering av ett enbostadshus inom fastigheten Myrekulla 7:10.
 
 Ansökan gällde ursprungligen två enbostadshus, men den 21 november 2025 inkom
 reviderat underlag som begränsar ansökan till att omfatta ett enbostadshus.
@@ -1900,7 +1900,7 @@ husen eller storlek.
 Släps-kullen 2:367 anför:
 Vi motsätter oss att förhandsbesked beviljas av följande skäl:
 
-1. Området saknar detaljplan (utomplan) och riskerar olämplig bebyggelse
+1\. Området saknar detaljplan (utomplan) och riskerar olämplig bebyggelse
 Den aktuella fastigheten ligger utanför detaljplanelagt område. Detta innebär en stor
 risk för att framtida bebyggelse blir betydligt större och högre än omkringliggande
 hus, vilket inte är förenligt med områdets karaktär. Det finns risk för ökad insyn,
@@ -1922,14 +1922,14 @@ närmaste granne är SB137) med mycket restriktiva bestämmelser avseende
 byggnaders storlek, höjd och placering. En exploatering utan motsvarande
 restriktioner i detta läge framstår som olämplig och inkonsekvent.
 
-2. Bristande underlag om byggnationens omfattning
+2\. Bristande underlag om byggnationens omfattning
 De föreslagna husen saknar tydliga uppgifter om byggnadsarea, byggnadshöjd,
 våningsantal och exakta placeringar. Utan denna information är det inte möjligt att
 bedöma konsekvenserna för omgivningen. Enligt Plan- och bygglagen ska
 lokalisering och utformning vara lämplig medhänsyn till stads- och landskapsbild
 samt till grannar, vilket inte kan säkerställas med nuvarande underlag.
 
-3. Placering möjliggör framtida ytterligare avstyckning
+3\. Placering möjliggör framtida ytterligare avstyckning
 Den föreslagna placeringen av byggnaderna på tomterna ger tydligt intryck av att
 
 området i framtiden kan komma att styckas av ytterligare (det ska noteras att det är
@@ -1937,7 +1937,7 @@ ett företag som planerar detta så vinstintresse och vidare avstyckning är ett
 incitament). Detta riskerar att leda till en gradvis förtätning som tex inte kommer
 harmoniera med omkringliggande detaljplan och område. Det blir då inte prövat
 samlat och kan få negativa konsekvenser för området som helhet.
-4. Markförhållanden vattensjuk och sank tomt
+4\. Markförhållanden vattensjuk och sank tomt
 
 Övriga har inte haft några synpunkter.
 Sökande har tagit del av invändningarna, men har inte ändrat sin ansökan.
@@ -1946,7 +1946,7 @@ Sökande anför i sitt yttrande:
 
 • Bebyggelsen planeras i sekelskiftesstil och kommer att utformas med stor hänsyn
 till områdets befintliga karaktär.
-7. Lämplig lokalisering och hållbar utveckling
+7\. Lämplig lokalisering och hållbar utveckling
 
 Enligt 2 kap. 3 § PBL ska planering främja en långsiktigt hållbar utveckling.
 Fastigheten har mycket god tillgång till service:
@@ -1961,7 +1961,7 @@ Detta innebär att lokaliseringen är väl lämpad för bostadsändamål. Kommun
 sektion för vatten och avlopp har lämnat positivt besked för två avstyckningar, vilket
 visar att åtgärden är fullt genomförbar ur teknisk synpunkt.
 
-8. Förhandsbeskedets funktion
+8\. Förhandsbeskedets funktion
 Enligt 9 kap. 17 § PBL ska förhandsbesked pröva om en åtgärd kan tillåtas på en viss
 plats. Det innebär att frågan om lokalisering ska prövas i detta skede, och att krav på
 
@@ -1978,17 +1978,17 @@ Datum
 
 detaljplan endast ska ställas om åtgärden kräver det. Två enbostadshus utgör inte en
 sådan omfattande åtgärd att detaljplan är nödvändig.
-9. Bemötande av nämndens invändningar
+9\. Bemötande av nämndens invändningar
 
 Lokaliseringsstudie och framtida exploatering Resonemanget om framtida
 exploatering är generellt och saknar stöd i lag. Varje ärende ska prövas individuellt
 enligt PBL. Krav på detaljplan Att kräva detaljplan i detta fall är inte proportionerligt
 och saknar stöd i lagstiftningen.
 
-10. Grannars synpunkter De synpunkter som inkommit rör byggnaders utformning,
+10\. Grannars synpunkter De synpunkter som inkommit rör byggnaders utformning,
 placering och tekniska frågor. Dessa frågor prövas i bygglovsskedet och inte inom
 ramen för förhandsbesked.
-11. Sammanfattning
+11\. Sammanfattning
 
 • Tidigare beslut från Mark- och miljödomstolen stödjer ansökan
 • Marken är lämplig enligt 2 kap. PBL
@@ -1998,7 +1998,7 @@ ramen för förhandsbesked.
 • Åtgärden är begränsad och proportionerlig
 • Lokaliseringen är hållbar
 
-12. Slutsats
+12\. Slutsats
 Mot bakgrund av ovanstående saknas rättslig grund för avslag.
 
 Ansökan är förenlig med plan- och bygglagen samt miljöbalken.
@@ -2410,9 +2410,9 @@ föreligga.
 Lagstiftning
 Av 9 kap. 74 § plan och bygglagen (2010:900), PBL följer att ett förhandsbesked
 som innebär att en åtgärd kan lokaliseras till en viss plats får ges om åtgärden
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
 prövats i områdesbestämmelser.
 
 Vid bedömningen enligt första stycket 2 om en åtgärds miljöpåverkan förutsätter
@@ -2441,11 +2441,11 @@ Av 2 kap. 6 § plan och bygglagen (2010:900), PBL följer att vid planläggning,
 ärenden om bygglov och vid åtgärder avseende byggnader som inte kräver lov enligt
 denna lag ska bebyggelse och byggnadsverk utformas och placeras på den avsedda
 marken på ett sätt som är lämpligt med hänsyn till
-1. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
+1\. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
 en god helhetsverkan,
-2. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
+2\. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
 olyckshändelser,
-3. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
+3\. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C9C612BE82B06428609839C3C13CB88F9AC2165AFE
@@ -2459,13 +2459,13 @@ Datum
 2026-03-31
 
 stridshandlingar,
-4. behovet av hushållning med energi och vatten och av goda klimat- och
+4\. behovet av hushållning med energi och vatten och av goda klimat- och
 hygienförhållanden,
-5. möjligheterna att hantera avfall,
-6. trafikförsörjning och behovet av en god trafikmiljö,
-7. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
+5\. möjligheterna att hantera avfall,
+6\. trafikförsörjning och behovet av en god trafikmiljö,
+7\. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
 använda området, och
-8. behovet av framtida förändringar och kompletteringar.
+8\. behovet av framtida förändringar och kompletteringar.
 
 Enligt 8 kap 9 § PBL ska en obebyggd tomt som ska bebyggas anordnas på ett sätt
 som är lämpligt med hänsyn till landskapsbilden och till natur- och kulturvärdena på
@@ -3222,10 +3222,10 @@ Beslutsmotivering
 
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 
 områdesbestämmelser. Lag (2014:900).
@@ -3439,7 +3439,7 @@ förtydligande av poolkonstruktionen och markanapassningen runt den.
 Sammanfattning av ärendet
 Ursprungslov, Tjm § 1566
 
-Bygglov beviljades 2019-04-29, tjm $ 1566 för nybyggnad av ett enbostadshus med
+Bygglov beviljades 2019-04-29, tjm \$ 1566 för nybyggnad av ett enbostadshus med
 en byggnadsarea om 197,2 m², varav 14,1 m² öppenarea under balkong. Byggnadens
 bruttoarea uppgår till 231,1 m². Huset utförs med stående träpanel i svart kulor, NCS
 S 8000-N och taket med svart papp.
@@ -3636,13 +3636,13 @@ Beslutsunderlag
 
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2026-02-06
 Yttrande från sökande, 2026-02-22
-- E-post, BN 2019–000 180
-- Yttrande till Byggnadsnämndens 260222
-- Bildbilaga
-- A1-08 - Markplanering
-- A-10 - Marksektioner
-- A1-11 - Marksektioner
-- A1-12 - Markplanering
+\- E-post, BN 2019–000 180
+\- Yttrande till Byggnadsnämndens 260222
+\- Bildbilaga
+\- A1-08 - Markplanering
+\- A-10 - Marksektioner
+\- A1-11 - Marksektioner
+\- A1-12 - Markplanering
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C9C612BE82B06428609839C3C13CB88F9AC2165AFE
@@ -3667,15 +3667,15 @@ A1-09 – Murar, 2026-01-16
 Delegeringsbeslut Tjm § 2004, 2019-08-01 (inklusive kopplade handlingar)
 
 Delegeringsbeslut Tjm § 1566, 2019-07-22
-- Ansökan, 2019-04-29
-- Fasader huvudbyggnad, 2019-04-29
-- Fasader komplementbyggnad, 2019-04-29
-- Markplanering, 2019-04-29
-- Murar, 2019-04-29
-- Nybyggnadskarta, 2019-04-29
-- Sektionsritning, 2019-04-29
-- 19-0180-27, 2019-04-29
-- Planritning, 2019-04-29
+\- Ansökan, 2019-04-29
+\- Fasader huvudbyggnad, 2019-04-29
+\- Fasader komplementbyggnad, 2019-04-29
+\- Markplanering, 2019-04-29
+\- Murar, 2019-04-29
+\- Nybyggnadskarta, 2019-04-29
+\- Sektionsritning, 2019-04-29
+\- 19-0180-27, 2019-04-29
+\- Planritning, 2019-04-29
 
 Förslag till beslut på sammanträdet
 Ordförande Thure Sandén yrkar på att ärendet återremitteras till bygg- och
@@ -3718,19 +3718,19 @@ Beslutsmotivering
 Enligt plan- och bygglagen 9 kap 30 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd inom ett område med detaljplan, om
 
-1. den fastighet och det byggnadsverk som åtgärden avser
+1\. den fastighet och det byggnadsverk som åtgärden avser
 a) överensstämmer med detaljplanen, eller
 
 b) avviker från detaljplanen men avvikelsen har godtagits vid en tidigare
 bygglovsprövning enligt denna lag eller äldre bestämmelser eller vid en
 fastighetsbildning enligt 3 kap. 2 § första stycket andra meningen
 fastighetsbildningslagen (1970:988),
-2. åtgärden inte strider mot detaljplanen,
+2\. åtgärden inte strider mot detaljplanen,
 
-3. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
+3\. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
 och
 
-4. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
+4\. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
 tredje stycket, 8 och 9 §§ samt 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9–11 §§, 12 §
 första stycket, 13, 17 och 18 §§.
 Ansökt åtgärd bedöms inte uppfylla de krav som ställs enligt 9 kap 30 § plan- och
@@ -4124,33 +4124,33 @@ E-post, sökandes skrivelse till BNO, 2026-02-27
 Remissvar Förvaltningen för Teknik, 2026-02-25
 Remissvar (Yttrande) från Kommunantikvarie, 2026-02-19
 Inkomna handlingar, 2026-02-12
-- Fasadritning, norr och väster
-- Sektionsritning, tvärsektion A, B
-- Planritning, 14 takplan
-- Planritning, plan 13 vindsplan
-- Planritning, plan 10, 11, 12 normalplan
-- Planritning, plan 09 källarplan
-- Fasadritning, söder och öster
-- Fasadritning, norr och väster
+\- Fasadritning, norr och väster
+\- Sektionsritning, tvärsektion A, B
+\- Planritning, 14 takplan
+\- Planritning, plan 13 vindsplan
+\- Planritning, plan 10, 11, 12 normalplan
+\- Planritning, plan 09 källarplan
+\- Fasadritning, söder och öster
+\- Fasadritning, norr och väster
 
-- Sektionsritning, A, B
-- Sektionsritning, tvärsektion A, B
-- Planritning, plan 14 takplan
-- Planritning, plan 13 vindsplan, del 2
-- Planritning, plan 13 vindsplan, del 1
-- Planritning, plan 13 vindsplan
-- Planritning, plan 09 källarplan
-- Situationsplan
-- Utlåtande skyddsrum
-- Yttrande skyddsrum
-- Brandskyddsbeskrivning
-- Bilaga 05, kommentarer till komplettering av bygglov
-- Bilaga 04, granskningsintyg tillgänglighet
+\- Sektionsritning, A, B
+\- Sektionsritning, tvärsektion A, B
+\- Planritning, plan 14 takplan
+\- Planritning, plan 13 vindsplan, del 2
+\- Planritning, plan 13 vindsplan, del 1
+\- Planritning, plan 13 vindsplan
+\- Planritning, plan 09 källarplan
+\- Situationsplan
+\- Utlåtande skyddsrum
+\- Yttrande skyddsrum
+\- Brandskyddsbeskrivning
+\- Bilaga 05, kommentarer till komplettering av bygglov
+\- Bilaga 04, granskningsintyg tillgänglighet
 
-- Bilaga 03, mobilitet- och parkeringsanalys
-- Bilaga 02, dagsljusberäkning
-- Bilaga 01, uppställningsplats för maskinstege
-- Fasadritning, söder och öster
+\- Bilaga 03, mobilitet- och parkeringsanalys
+\- Bilaga 02, dagsljusberäkning
+\- Bilaga 01, uppställningsplats för maskinstege
+\- Fasadritning, söder och öster
 Kommunicering av utlåtande, Bedömning, 2025-12-17
 Ansökan, 2025-11-04
 

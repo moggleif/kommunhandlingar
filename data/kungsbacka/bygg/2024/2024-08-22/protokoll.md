@@ -317,7 +317,7 @@ Byggnadsnämnden noterar informationen till protokollet.
 Sammanfattning av ärendet
 Enhetschef Peter Sebestyén ger byggnadsnämnden en redovisning av ärendemängd
 och handläggningstider för tjänster på geodata- och bygglovsavdelningen per augusti
-2024.
+2024\.
 
 Beslutsgång
 Ordförande Thure Sandén (M) prövar om byggnadsnämnden kan notera

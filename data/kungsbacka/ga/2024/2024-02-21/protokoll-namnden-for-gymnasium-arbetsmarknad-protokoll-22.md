@@ -111,7 +111,7 @@ att främja välmående och motverka psykisk ohälsa.
 
 För att genomföra detta på ett effektivt sätt uppgavs i ansökan att medel för en
 samordnare (60%) för projektet behövdes under höstterminen 2023 och vårterminen
-2024. För att täcka våra kostnader för detta ansökte förvaltningen om 250 tkr för
+2024\. För att täcka våra kostnader för detta ansökte förvaltningen om 250 tkr för
 2023 och 250 tkr för 2024.
 
 Nämnden har därför upprättat ett förslag om ombudgetering av 250 tkr till år 2024.

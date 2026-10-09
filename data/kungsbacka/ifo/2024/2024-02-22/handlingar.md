@@ -154,8 +154,8 @@ Enligt svensk lagstiftning ska barnets bästa beaktas vid beslut och åtgärder 
 barn. Prövningen av barnets bästa ska utgöra underlag för beslut i frågor som rör barn
 och den genomförs i två delar.
 
-1. Utredning genomförs för att visa vad som är barnets bästa i den aktuella frågan.
-2. Föreslå och fatta beslut i frågan där barnets rättigheter och intressen ska väga
+1\. Utredning genomförs för att visa vad som är barnets bästa i den aktuella frågan.
+2\. Föreslå och fatta beslut i frågan där barnets rättigheter och intressen ska väga
 tungt. Om barnets bästa inte kan ges företräde ska kompenserande åtgärder
 övervägas på kort och lång sikt.
 
@@ -1084,7 +1084,7 @@ personligt ombud avgränsar målgruppen på ett ändamålsenligt sätt. I uppdra
 get ingår även att analysera om dagens system med personligt ombud säker-
 ställer jämlika, jämställda och rättssäkra villkor för målgruppen.
 Uppdraget ska redovisas till Socialdepartementet senast den 30 september
-2023.
+2023\.
 
 Bakgrunden till regeringens uppdrag är ett tillkännagivande från Socialut-
 skottet (2021/22:SoU12). I detta sägs bland annat följande:
@@ -1374,9 +1374,9 @@ Kommunernas   roll
 
 Det är frivilligt för kommunerna att bedriva en PO-verksamhet. Om de väljer
 att inrätta eller delta i en sådan har de tre huvudsakliga funktioner att fylla:
-1. tillhandahålla PO-verksamhet
-2. söka statsbidrag för en ny eller pågående verksamhet
-3. upprätta en ledningsgrupp.
+1\. tillhandahålla PO-verksamhet
+2\. söka statsbidrag för en ny eller pågående verksamhet
+3\. upprätta en ledningsgrupp.
 
 Det är bara kommuner som kan söka statsbidrag för PO-verksamheter. Det
 framgår av förordningen och HSLF-FS 2016:98 hur ansöknings- och redovis-
@@ -1438,11 +1438,11 @@ niseras eller bedrivas.
 Av kartläggningen framgår att kommunerna har organiserat verksamhet-
 erna på fyra olika sätt:
 
-1.  Kommunen bedriver verksamheten i egen regi eller genom en annan
+1\.  Kommunen bedriver verksamheten i egen regi eller genom en annan
 aktör via upphandling eller ett IOP-avtal7. Kommunen har inrättat en
 egen ledningsgrupp enligt de krav som framgår av förordningen, eller
 lagt ledningsgruppen hos de lokala samordningsförbunden (Finsam).
-2.  Flera kommuner går samman om en gemensam verksamhet. De har ett
+2\.  Flera kommuner går samman om en gemensam verksamhet. De har ett
 eller flera ombud som verkar i flera kommuner och en gemensam led-
 ningsgrupp, ofta med representanter för alla ingående kommuner. Ex-
 empel är kommunerna i Kronobergs län där ombuden är placerade på
@@ -1450,7 +1450,7 @@ olika orter men har en gemensam ledning och gemensamma möten. Ett
 annat exempel är Nyköping, Trosa och Gnesta som har en gemensam
 verksamhet med en gemensam ledningsgrupp. De anställda ombuden
 har samtliga ingående kommuner som arbetsområde.
-3.  Flera verksamheter (för en eller flera kommuner) har en gemensam led-
+3\.  Flera verksamheter (för en eller flera kommuner) har en gemensam led-
 ningsgrupp. Då arbetar de ingående verksamheterna inom sina respek-
 tive områden (ofta en kommun) och det finns inget eller ett begränsat
 
@@ -1465,7 +1465,7 @@ samarbete mellan verksamheterna. Det finns dock en gemensam led-
 ningsgrupp med representanter för kommunerna. I vissa fall har kom-
 munerna kommit överens om att bara en kommun är representerad i
 ledningsgruppen.
-4. Två eller flera kommuner har gått samman i en verksamhet men har
+4\. Två eller flera kommuner har gått samman i en verksamhet men har
 varsina ledningsgrupper. Ett exempel är PO Skåne som bedriver verk-
 samhet i 17 kommuner och har åtta ledningsgrupper att förhålla sig till.
 Ledningsgrupperna finns i Lund (5 kommuner), Helsingborg (8 kom-
@@ -2675,7 +2675,7 @@ Antal
 2018                                        2
 ```
 
-2019                                        7*
+2019                                        7\*
 
 ```osaker-tabell
 2020                                        3
@@ -2685,7 +2685,7 @@ Antal
 
 Totalt                                     17
 Källa: Socialstyrelsens enkät till kommuner som inte har PO-verksamhet (2023).
-* Varav fyra kommuner tidigare ingått i en PO-verksamhet i Region Jönköping.
+\* Varav fyra kommuner tidigare ingått i en PO-verksamhet i Region Jönköping.
 Samtidigt pågår ett visst arbete med att starta upp nya verksamheter. I två
 kommuner finns politiska beslut om att åter starta PO-verksamhet, varav den
 ena planerar för detta inom ramen för en befintlig organisation i en större
@@ -3229,10 +3229,10 @@ man har löst efterfrågan på andra sätt. Detta får till följd att personer 
 i dessa kommuner inte har tillgång till det stöd som ett personligt ombud kan
 ge. Konsekvenserna för den enskilde kan bli
 
-1. sämre möjligheter att påverka sin livssituation och vara delaktig i sam-
+1\. sämre möjligheter att påverka sin livssituation och vara delaktig i sam-
 hället
-2. sämre möjligheter att leva ett självständigt liv
-3. sämre möjligheter att få tillgång till samhällets utbud av vård, stöd och
+2\. sämre möjligheter att leva ett självständigt liv
+3\. sämre möjligheter att få tillgång till samhällets utbud av vård, stöd och
 service på jämlika villkor samt rättshjälp, rådgivning och annat stöd uti-
 från sina egna önskemål och behov.
 
@@ -3395,41 +3395,41 @@ SOCIALSTYRELSEN
 
 Referenser
 
-1.   Socialstyrelsen. Lägesrapport om verksamhet med personligt ombud
-2022. 2023.
-2.   Socialstyrelsen. Socialstyrelsens meddelandeblad 5/2020. 2020.
-3.   Socialstyrelsen. Personligt ombud 2000–2004 2005:
-4.   Socialstyrelsen. Välfärd och valfrihet, slutrapport från utvärderingen av
+1\.   Socialstyrelsen. Lägesrapport om verksamhet med personligt ombud
+2022\. 2023.
+2\.   Socialstyrelsen. Socialstyrelsens meddelandeblad 5/2020. 2020.
+3\.   Socialstyrelsen. Personligt ombud 2000–2004 2005:
+4\.   Socialstyrelsen. Välfärd och valfrihet, slutrapport från utvärderingen av
 1995 års psykiatireform. 1999:1 uppl; 1999.
-5.   Socialstyrelsen. Det lönar sig – ekonomiska effekter av verksamheter
+5\.   Socialstyrelsen. Det lönar sig – ekonomiska effekter av verksamheter
 med personligt ombud 2006:
-6.   Sandlund M. Vad är en psykisk funktionsnedsättning? . I: David Brunt
+6\.   Sandlund M. Vad är en psykisk funktionsnedsättning? . I: David Brunt
 UB, Urban Markström, Lars Hansson, red. Att leva med psykisk
 funktionsnedsättning: livssituation och effektiva vård- och stödinsatser.
 Lund: Studentlitteratur AB; 2020.
-7.   Socialstyrelsen. Statistik om socialtjänstinsatser till personer med
+7\.   Socialstyrelsen. Statistik om socialtjänstinsatser till personer med
 funktionsnedsättning 2022 . Artikelnummer: 2023-5-8577. 2023.
-8.   Rosenberg D SU-K. Återhämtning från idé till praktik. I: Brunt D BU,
+8\.   Rosenberg D SU-K. Återhämtning från idé till praktik. I: Brunt D BU,
 Markström U, Hansson L, , red. Att leva med psykisk
 funktionsnedsättning Lund: Studentlitteratur; 2020.
-9.   Hansson L SP. Empowerment och brukarinflytande I: Brunt D BU,
+9\.   Hansson L SP. Empowerment och brukarinflytande I: Brunt D BU,
 Markström U, Hansson L,, red. Att leva med psykisk
 funktionsnedsättning Lund: Studentlitteratur; 2020.
-10.  L H. Stigma och diskriminering. I: Brunt D BU, Markström U, Hansson
+10\.  L H. Stigma och diskriminering. I: Brunt D BU, Markström U, Hansson
 L,, red. Att leva med psykisk funktionsnedsättning Lund:
 Studentlitteratur; 2020. s. 109-22.
-11.  Järkestig Berggren U. Personligt ombud och förändringsprocesser på det
+11\.  Järkestig Berggren U. Personligt ombud och förändringsprocesser på det
 socialpsykiatriska fältet Göteborg: Linnéuniversitetet Kalmar, Växjö;
-2010.
-12.  Klockmo C. The role of personligt ombud in supporting the recovery of
+2010\.
+12\.  Klockmo C. The role of personligt ombud in supporting the recovery of
 process for people with psychiatric disabilities. Sundsvall: Department
 of Health Sciences, Mid Sweden University; 2013.
-13.  Socialstyrelsen. Personligt ombud för personer med psykisk
+13\.  Socialstyrelsen. Personligt ombud för personer med psykisk
 funktionsnedsättning - Uppföljning av verksamheten med personligt
 ombud. 2014. Hämtad från:
 https://www.socialstyrelsen.se/globalassets/sharepoint-
 dokument/artikelkatalog/ovrigt/2014-3-23.pdf
-14.  Socialstyrelsen. Personliga ombud - ledningsgruppens spejare i
+14\.  Socialstyrelsen. Personliga ombud - ledningsgruppens spejare i
 välfärdssystemet 2010:
 
 56                          PERSONLIGT OMBUD TILL PERSONER MED PSYKISKA FUNKTIONSNEDSÄTTNINGAR
@@ -3740,18 +3740,18 @@ jande:
 
 Statsbidrag lämnas för verksamhet med personligt ombud som syftar till att
 den enskilde ska
-1. ha bättre möjligheter att påverka sin livssituation och vara delaktig i sam-
+1\. ha bättre möjligheter att påverka sin livssituation och vara delaktig i sam-
 hället,
-2. ha möjligheter att leva ett mer självständigt liv och få en förbättrad livssi-
+2\. ha möjligheter att leva ett mer självständigt liv och få en förbättrad livssi-
 tuation, och
-3. ges möjligheter att få tillgång till samhällets utbud av vård, stöd och ser-
+3\. ges möjligheter att få tillgång till samhällets utbud av vård, stöd och ser-
 vice på jämlika villkor samt rättshjälp, rådgivning och annat stöd utifrån
 sina egna önskemål och behov.
 
 Verksamheten syftar även till att
-1. få myndigheter, kommuner och regioner att samverka utifrån den enskil-
+1\. få myndigheter, kommuner och regioner att samverka utifrån den enskil-
 des önskemål och behov, och
-2. ge underlag till åtgärder som kan förebygga brister i fråga om att den en-
+2\. ge underlag till åtgärder som kan förebygga brister i fråga om att den en-
 skilde kan få tillgång till samhällets utbud av vård, stöd och service.
 
 Av 4 § framgår att verksamheten med personligt ombud ska stödja den en-
@@ -4573,7 +4573,7 @@ användaren till kommunens e-tjänst för att lämna klagomål och synpunkter ä
 kan sättas upp på enheterna.
 
 Under 2023 har det registrerats totalt 50 inkomna klagomål jämfört med 35 klagomål under
-2022. Av dessa handlar 26 om klagomål på insatsens utformande eller utförande, 15 klagomål
+2022\. Av dessa handlar 26 om klagomål på insatsens utformande eller utförande, 15 klagomål
 handlar om handläggning av ärende, åtta klagomål berör bemötande och ett övrigt klagomål.
 Klagomålen har inkommit via hemsidan, post, e-post, från IVO (Inspektionen för vård- och
 omsorg) eller mottagits av en anställd på förvaltningen.
@@ -4662,7 +4662,7 @@ genom att besvara tillsynsfrågor via digital enkät i november 2023. Det framko
 förvaltningen saknar rutin för när och hur medarbetarna ska ställa frågor om våld för att
 identifiera våldsutsatta och våldsutövare samt barn som utsätts för eller bevittnar våld. En
 arbetsgrupp är sammansatt och arbetet med att ta fram en sådan rutin påbörjades i slutet av
-2023.
+2023\.
 
 5  Kunskapsbaserad  verksamhet
 
@@ -4981,7 +4981,7 @@ Tabellen nedan visar förvaltningsövergripande åtgärder som planerats utifrå
 socialtjänstprocessen.
 
 Kommentar till planerade åtgärder 2023:
-- BI - projektet
+\- BI - projektet
 
 Projektet inväntar ett kommuncentralt beslut för att kunna fortsätta arbetet. Tills vidare
 tillgodoses verksamheternas och nämndens behov av verksamhetsstatistik genom framtagande
@@ -5004,11 +5004,11 @@ Individ & Familjeomsorg, Kvalitetsberättelsen 2023        21(24)
 <!-- sida 107 -->
 
 ett fåtal personer på förvaltningen.
-- Ta fram plan för och genomföra implementering av IBIC
+\- Ta fram plan för och genomföra implementering av IBIC
 
 En implementeringsplan är framtagen och aktiviteter pågår utifrån den. Implementering av
 processen kommer vara klar under 2024.
-- Utveckla bemanningsprocessen
+\- Utveckla bemanningsprocessen
 
 En bemanningshandbok har beslutats. Denna bidrar till ökad tydlighet avseende bemanning
 och schemaläggning av vår dygnet-runt-verksamhet. I handboken finns roller och
@@ -5596,7 +5596,7 @@ vilket är en orsak till att dokumentation av själva inköpsprocessen kan brist
 Ett antal åtgärder har genomförts under året. På kommungemensam nivå har utbildningar genomförts och
 styrdokument och riktlinjer har uppdaterats. På Individ & Familjeomsorg har diskussioner förts med de enheter
 där flest stora inköp sker. Trots detta kvarstår samma problem som de som identifierades vid granskningen
-2022.
+2022\.
 Eftersom kommunens vårdbehov är synnerligt komplext behöver avdelningarna som huvudregel gå utanför det
 upphandlade och göra en direktupphandling.
 
@@ -5650,7 +5650,7 @@ Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2023
 
 En riktlinje för att motverka kvalificerade välfärdsbrott antogs av nämnden för Individ & Familjeomsorg hösten
-2022. Utifrån riktlinjen ska ett antal rutiner tas fram under 2023- 2024. Dessa blir därefter utgångspunkt i
+2022\. Utifrån riktlinjen ska ett antal rutiner tas fram under 2023- 2024. Dessa blir därefter utgångspunkt i
 kompetenshöjning för medarbetare.
 
 •  Är nämndens specifika risker identifierade (t ex välfärdsbrott, bidragsbrott, branschrelaterat etc)
@@ -5665,12 +5665,12 @@ otillåten påverkan, hot och våld. Individ & Familjeomsorg lyftes fram som ext
 
 Det finns ett antal kontrollaktiviteter som utförs varje månad, kopplat till personlig assistans.
 Ekonomiavdelningen genomför kontrollerar av:
-- dokumentation av beviljade timmar
-- att fakturerade timmar överensstämmer med beviljade timmar (utförs varje månad. En sammanställning görs
+\- dokumentation av beviljade timmar
+\- att fakturerade timmar överensstämmer med beviljade timmar (utförs varje månad. En sammanställning görs
 årsvis där beviljade timmar jämförs mot verkligt utfall)
 
-- merkostnader vid sjuklön
-- tillstånd hos assistansbolag
+\- merkostnader vid sjuklön
+\- tillstånd hos assistansbolag
 
 För mer information om respektive egenkontroll – se separata granskningar kopplat till ”Risk för välfärdsbrott”.
 För utbetalning av föreningsbidrag har granskning genomförts 2023. Eventuella åtgärder planeras 2024 (se
@@ -5726,7 +5726,7 @@ e-tjänst ska arkiveras.
 
 •  Granska tillstånd hos assistansbolag privat regi
 Avgiftshandläggare kontrollerar löpande tillstånd hos IVO. Inga felaktigheter avseende tillstånd har identifierats
-2023.
+2023\.
 •  Dokumentation av oseriösa aktörer
 
 Inga oseriösa aktörer identifierade. Framtagande av rutin för hur vi ska dokumentera vid upptäckt av oseriösa
@@ -5739,7 +5739,7 @@ föreningarna uppfyller kommunens ställda krav på att föreningen är:
 •  bedriver verksamhet inom det sociala området
 
 Resultat visar att 4 av 5 föreningar uppfyller de av kommunen uppställda kraven för att beviljas föreningsbidrag
-2024. Dessa fyra är välkända föreningar som har fått föreningsbidrag från kommunen flera år. Ansökan avslogs
+2024\. Dessa fyra är välkända föreningar som har fått föreningsbidrag från kommunen flera år. Ansökan avslogs
 för en förening som saknade lokal anknytning.
 Granskningen visar brister avseende ofullständiga ansökningar och otydlighet i hur medlen ska användas.
 Kontaktat har tagits med samtliga och kompletterande dokumentation har begärts in.
@@ -6411,10 +6411,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -6612,11 +6612,11 @@ Inga brukarundersökningar genomfördes 2023
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 Sammanfattning av nämndens arbete med målet
@@ -6680,7 +6680,7 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 70%     68%     65%
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 
 11
 
@@ -6695,7 +6695,7 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 80%     88%     85%
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 100 98 97
 målvärde 2030 är 70.
@@ -6713,7 +6713,7 @@ området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Ekologisk status i Kungsbackafjorden (VISS)
 
 Skyddad natur totalt, andel (Kolada)
@@ -6725,8 +6725,8 @@ Vattendrag med god ekologisk status, andel
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -6785,8 +6785,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 13
 
@@ -6867,12 +6867,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -6954,7 +6954,7 @@ efterfrågas för att möta målgruppens behov och en innovationssprint har geno
 varit att kartlägga vilka digitala behov våra brukare har och vilken aktör som bäst kan tillgodose behoven
 (medarbetare, specifika medarbetare, externa parter, anhöriga etc.). Utifrån kartläggningen har deltagarna fått
 idégenerera lösningar. Resultatet från idégenereringen kommer att presenteras för förvaltningsledningen under
-2024.
+2024\.
 Myndighet har upphandlar det digitala verktyget SES (Samarbete efter skilsmässa), Målsättningen är att SES
 ska öka samarbetet mellan invånare som genomgår en skilsmässa eller separation samt minska den psykiska
 ohälsan.
@@ -6967,8 +6967,8 @@ I nuläge har SES 109 invånaranvändare och 42 professionella användare (Famil
 unga, Familjerådgivningen och Utredning barn och unga).
 Under 2024 kommer vi arbeta vidare med att undersöka vilka effekter som uppnåtts med fokus på följande
 frågeställningar:
-- Har vi ett färre antal stämningar? (Vårdnadstvister)
-- Kan SES resultera i färre antal samarbetssamtal eller blir det ett större fokus på svårare fall av
+\- Har vi ett färre antal stämningar? (Vårdnadstvister)
+\- Kan SES resultera i färre antal samarbetssamtal eller blir det ett större fokus på svårare fall av
 
 16
 
@@ -7249,8 +7249,8 @@ skapa ett digitalt utanförskap.
 Genom digitala lösningar ska förvaltningen effektivisera administrations- och beslutsprocesser och hitta smarta
 och effektiva arbetssätt.
 Fokusområde
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
 
 Nämndens bedömning
@@ -7395,7 +7395,7 @@ På Aktivitetshuset Regnbågen och Gaming-gruppen har en innovationssprint genom
 har varit att kartlägga vilka digitala behov våra brukare har och vilken aktör som bäst kan tillgodose behoven
 (medarbetare, specifika medarbetare, externa parter, anhöriga etc.). Utifrån kartläggningen har deltagarna fått
 idégenerera lösningar. Resultatet från idégenereringen kommer att presenteras för förvaltningsledningen under
-2024.
+2024\.
 Vi har sedan tidigare brukarråd, bomöten och deltagarmöten för att fånga brukares perspektiv i
 utvecklingsarbete. Arbetsformerna i dessa har utvecklats för att på bästa sätt fånga upp brukares synpunkter. En
 framgångsfaktor för att skapa intresse och motivation att delta från brukarnas sida har varit att införa en stående
@@ -8090,15 +8090,15 @@ sänka kostnaderna för övertid- och mertidsersättning, och att arbeta mer eff
 
 I slutet av november och i december tillkom flera faktorer som påverkade årsresultatet negativt jämfört med
 prognos:
--  Migrationsverkets besked om brist på medel vilket gjorde att vi erhöll 1,7 miljoner kronor mindre än
+\-  Migrationsverkets besked om brist på medel vilket gjorde att vi erhöll 1,7 miljoner kronor mindre än
 prognos (2 miljoner kronor mindre än vi var berättigade till).
 
--  Större kostnader än beräknat för telefonerna avseende 2023 (1,6 miljoner mer än budget varav 950 tkr
+\-  Större kostnader än beräknat för telefonerna avseende 2023 (1,6 miljoner mer än budget varav 950 tkr
 fakturerades i december)
--  Datorer som vi, i stället för att leasa i 48 månader av Digitalt center, tog som en engångskostnad på 1
+\-  Datorer som vi, i stället för att leasa i 48 månader av Digitalt center, tog som en engångskostnad på 1
 miljon kronor i december pga. att administrativ leasinglösning ej var klar (vilket gör att kostnaden ej
 kommer belasta budget framåt under kommande år).
--  Ökade kostnader på Daglig verksamhet på 1 miljon kronor under november och december jämfört med
+\-  Ökade kostnader på Daglig verksamhet på 1 miljon kronor under november och december jämfört med
 prognos på grund av nytt besked om ytterligare försenad inflyttning till Kyrkskolan vilket inneburit ökade
 
 38
@@ -8208,13 +8208,13 @@ såsom stöd, hjälp och skydd från socialtjänsten.
 De globala mål enligt Agenda 2030 som Individ & Familjeomsorgens verksamhet främst kan kopplas till är:
 1.Ingen fattigdom - social och ekonomisk trygghet
 
-3. Hälsa och välbefinnande - psykisk hälsa, drogmissbruk, tillgänglig sjukvård
-5. Jämställdhet - utrota diskriminering av kvinnor och flickor, utrota våld, utnyttjande, människohandel, heder
+3\. Hälsa och välbefinnande - psykisk hälsa, drogmissbruk, tillgänglig sjukvård
+5\. Jämställdhet - utrota diskriminering av kvinnor och flickor, utrota våld, utnyttjande, människohandel, heder
 
-10. Minskad ojämlikhet - social, ekonomisk och politisk inkludering
-11. Hållbara städer - bostadssegregering, tillgänglighet framförallt för barn och funktionsnedsatta
+10\. Minskad ojämlikhet - social, ekonomisk och politisk inkludering
+11\. Hållbara städer - bostadssegregering, tillgänglighet framförallt för barn och funktionsnedsatta
 
-16. Fredliga och inkluderande samhällen samt medborgardialog - våldsutsatthet, tillit till samhället, social
+16\. Fredliga och inkluderande samhällen samt medborgardialog - våldsutsatthet, tillit till samhället, social
 sammanhållning, strukturellt utnyttjande och våld mot barn, organiserad brottslighet, transparens och
 inkludering i beslutsfattande
 Med sikte på en mer hållbar socialtjänst och i enlighet med förslaget på ny socialtjänstlag behöver Individ &
@@ -8517,7 +8517,7 @@ KUNGSBACKA       KOMMUN
 
 InnehållsförteckningSammanfattning ............................................................................. 4
 
-1.  Inledning .................................................................................................................... 6
+1\.  Inledning .................................................................................................................... 6
 1.1. Bakgrund .................................................................................................................... 6
 
 1.2. Syfte och revisionsfrågor ............................................................................................ 6
@@ -8526,7 +8526,7 @@ InnehållsförteckningSammanfattning ...........................................
 1.4. Metod ......................................................................................................................... 7
 1.5. Avgränsningar och ansvariga nämnder ....................................................................... 7
 
-2.  Kommunövergripande styrning och uppföljning ................................................... 8
+2\.  Kommunövergripande styrning och uppföljning ................................................... 8
 2.1. Vår bedömning ........................................................................................................... 8
 
 2.2. Ansvarsfördelning för kompetensförsörjningsfrågor .................................................... 8
@@ -8538,20 +8538,20 @@ InnehållsförteckningSammanfattning ...........................................
 2.6. Uppföljning av kompetensförsörjningsarbetet ............................................................11
 2.7. Proaktiva insatser för att rekrytera nya medarbetare finns .........................................12
 
-3.  Attraktiv arbetsgivare ..............................................................................................13
+3\.  Attraktiv arbetsgivare ..............................................................................................13
 3.1. Vår bedömning ..........................................................................................................13
 
 3.2. Det finns ingen definition av vad det innebär att vara en attraktiv arbetsgivare ..........13
 3.3. Kommunen ser över möjligheten till kombinationstjänster men det finns hinder .........14
 
-4.  Kompetensförsörjning inom Vård & Omsorgs verksamhetsområden .................16
+4\.  Kompetensförsörjning inom Vård & Omsorgs verksamhetsområden .................16
 4.1. Vår bedömning ..........................................................................................................16
 
 4.2. Styrning och uppföljning av kompetensförsörjningsarbetet ........................................16
 4.3. Analys av rekryteringsbehov och utmaningar för verksamheten finns ........................18
 
 4.4. Det saknas kompetensutvecklingsplaner för medarbetare .........................................19
-5.  Kompetensförsörjning inom Individ & Familjeomsorgs verksamhetsområde ....20
+5\.  Kompetensförsörjning inom Individ & Familjeomsorgs verksamhetsområde ....20
 
 5.1. Vår bedömning ..........................................................................................................20
 5.2. Styrning och uppföljning av kompetensförsörjningsarbetet ........................................20
@@ -8559,7 +8559,7 @@ InnehållsförteckningSammanfattning ...........................................
 5.3. Analys av rekryteringsbehov och utmaningar för verksamheten ................................23
 5.4. Kompetensutveckling för medarbetare behandlas på medarbetarsamtal ...................24
 
-6.  Samlad bedömning ..................................................................................................25
+6\.  Samlad bedömning ..................................................................................................25
 6.1. Bedömning utifrån revisionsfrågorna ..........................................................................25
 
 6.2. Slutsatser ...................................................................................................................26
@@ -8655,7 +8655,7 @@ förvaltningsgränser.
 
 <!-- sida 190 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -8720,7 +8720,7 @@ för Vård & Omsorg och nämnden för Individ & Familjeomsorg.
 
 <!-- sida 192 -->
 
-2. Kommunövergripande  styrning och uppföljning
+2\. Kommunövergripande  styrning och uppföljning
 
 2.1. Vår bedömning
 
@@ -8851,20 +8851,20 @@ Målbild kompetensförsörjning 2033 är framtagen av kommundirektörens ledning
 inte politiskt beslutad. Målbilden är en vägledning mot framtidens kompetensförsörjning och
 uttrycker i sju punkter en målbild för hur kommunen ska bedriva verksamhet år 2033.
 
-1. Vi har en rimlig personalomsättning
+1\. Vi har en rimlig personalomsättning
 
-2. Vi har automatiserat alla repetitiva processer som inte kräver mänsklig handpåläggning
+2\. Vi har automatiserat alla repetitiva processer som inte kräver mänsklig handpåläggning
 
-3. Våra medarbetare arbetar med relationer och konceptuellt tänkande
+3\. Våra medarbetare arbetar med relationer och konceptuellt tänkande
 
-4. Vi rekryterar kompetensbaserat och letar efter rätt personliga kompetenser som gör
+4\. Vi rekryterar kompetensbaserat och letar efter rätt personliga kompetenser som gör
 våra medarbetare mångfacetterade
 
-5. Vi har sänkt trösklarna för att få anställning i Kungsbacka kommun och utbildar internt
+5\. Vi har sänkt trösklarna för att få anställning i Kungsbacka kommun och utbildar internt
 
-6. Våra medarbetare arbetar heltid och i flera olika verksamheter
+6\. Våra medarbetare arbetar heltid och i flera olika verksamheter
 
-7. Vi har en tydlig arbetsgång för interna karriärvägar
+7\. Vi har en tydlig arbetsgång för interna karriärvägar
 
 10
 
@@ -8948,7 +8948,7 @@ Kungsbacka kommun deltar också på Handelshögskolan i Göteborgs arbetsmarknad
 
 <!-- sida 197 -->
 
-3. Attraktiv arbetsgivare
+3\. Attraktiv arbetsgivare
 
 3.1. Vår bedömning
 
@@ -9061,7 +9061,7 @@ Familjeomsorg deltar i Kultur & Fritids kreativa mötesplats för ungdomar.
 
 <!-- sida 200 -->
 
-4. Kompetensförsörjning inom Vård & Omsorgs verksamhets-
+4\. Kompetensförsörjning inom Vård & Omsorgs verksamhets-
 
 områden
 
@@ -9255,7 +9255,7 @@ olika områden, exempelvis palliativ vård eller diabetes.
 
 <!-- sida 204 -->
 
-5. Kompetensförsörjning inom Individ & Familjeomsorgs
+5\. Kompetensförsörjning inom Individ & Familjeomsorgs
 
 verksamhetsområde
 
@@ -9487,7 +9487,7 @@ kompetensutveckling hos mer erfarna medarbetare begränsas.
 
 <!-- sida 209 -->
 
-6. Samlad bedömning
+6\. Samlad bedömning
 
 6.1. Bedömning utifrån revisionsfrågorna
 
@@ -9621,7 +9621,7 @@ Förmågan för kommuner att rekrytera, behålla och kompetensutveckla personal 
 för en fungerande kommunal verksamhet. Att hitta rätt kompetens anses vara välfärdens
 största utmaning. En analys från Sveriges kommuner och regioner, SKR, visar att det behöver
 anställas 410 000 personer inom region och kommun för att täcka pensioneringar fram till år
-2031. SKR menar att genom att förändra arbetssätt och ta tillvara och utveckla de befintliga
+2031\. SKR menar att genom att förändra arbetssätt och ta tillvara och utveckla de befintliga
 
 medarbetarna kan rekryteringsbehoven minska. Analysen visar vidare att behovet av anställda
 inom välfärden kan minska med en fjärdedel om alla deltidsarbetande skulle arbeta tre timmar
@@ -9917,8 +9917,8 @@ n
 g
 g
 S
--
--
+\-
+\-
 s
 s
 t
@@ -10104,21 +10104,21 @@ granskningen förutsatt att dessa finns framtagna av kommunen och enkelt tillgä
 
 Arbetsmoment:
 
-1. Fastställande av projektplan
-2. Granskningen introduceras för berörda. Sakkunniga vid EY ansvarar för detta
+1\. Fastställande av projektplan
+2\. Granskningen introduceras för berörda. Sakkunniga vid EY ansvarar för detta
 
-3. Bokning av intervjuer och insamling av dokumentation
-4. Dokumentstudier – genomgång och analys av relevant dokumentation
+3\. Bokning av intervjuer och insamling av dokumentation
+4\. Dokumentstudier – genomgång och analys av relevant dokumentation
 
-5. Upprättande av intervjuguider
+5\. Upprättande av intervjuguider
 
-6. Genomförande av intervjuer
-7. Analys och rapportskrivning
+6\. Genomförande av intervjuer
+7\. Analys och rapportskrivning
 
-8. Intern kvalitetssäkring av rapporten
-9. Utkastet skickas till berörda för faktagranskning
+8\. Intern kvalitetssäkring av rapporten
+9\. Utkastet skickas till berörda för faktagranskning
 
-10. Utformning av skriftlig slutrapport
+10\. Utformning av skriftlig slutrapport
 
 Kungsbacka kommun                                       3
 Revisionsprojekt 2023
@@ -10126,11 +10126,11 @@ Revisionsprojekt 2023
 
 <!-- sida 222 -->
 
-11. Slutrapport, kortrapport och följebrev skickas till revisorerna senast tio dagar före
+11\. Slutrapport, kortrapport och följebrev skickas till revisorerna senast tio dagar före
 sammanträde
-12. Rapporten föredras för de förtroendevalda revisorerna vid ett tillfälle
+12\. Rapporten föredras för de förtroendevalda revisorerna vid ett tillfälle
 
-13. Granskningen föredras för ansvarig nämnd om kommunrevisionen önskar detta och
+13\. Granskningen föredras för ansvarig nämnd om kommunrevisionen önskar detta och
 efter särskild beställning från kommunrevisionen
 
 Projektorganisation
@@ -10182,7 +10182,7 @@ IF IF-2024-00046
 Förslag till beslut
 Nämnden för Individ & Familjeomsorg godkänner uppföljningen av systematisk arbetsmiljöarbete
 
-2023.
+2023\.
 
 Sammanfattning av ärendet
 
@@ -10329,7 +10329,7 @@ IF IF-2023-00275
 Förslag till beslut
 Nämnden för Individ & Familjeomsorg godkänner årsrapport för God och Nära Vård och Omsorg
 
-2023.
+2023\.
 
 Sammanfattning av ärendet
 
@@ -10441,16 +10441,16 @@ en särskild utsatthet för ojämlik hälsa. Det kan handla om ökad risk för o
 tillgång till samhällets vård- och stödutbud.
 Hälsosatsningen är förebyggande och syftar till att förbättra hälsan hos målgruppen boende på
 bostad med särskild service. Konkret består satsningen av ett antal aktiviteter:
--  Hälsoskola på boenden bestående av praktiska moment kring kost och fysisk aktivitet.
+\-  Hälsoskola på boenden bestående av praktiska moment kring kost och fysisk aktivitet.
 Syftar till att inspirera personer som bor på bmss att bli mer aktiva i sin vardag och
 
 göra val som leder till hälsosammare levnadsvanor.
--  Aktivitet på boende där fysioterapeut och arbetsterapeut handleder stödpersonal i
+\-  Aktivitet på boende där fysioterapeut och arbetsterapeut handleder stödpersonal i
 vilka aktiviteter som kan vara lämpliga för brukarna på de olika boendena. Syftar till
 att inspirera stödpersonal att fortsätta med aktiviteter och kostval som bidrar till
 brukarnas hälsosammare levnadsvanor
--  Möjliggöra för fysioterapeut och arbetsterapeut att arbeta mer proaktivt
--  Öka det tvärprofessionella samarbetet mellan bmss och hemsjukvård.
+\-  Möjliggöra för fysioterapeut och arbetsterapeut att arbeta mer proaktivt
+\-  Öka det tvärprofessionella samarbetet mellan bmss och hemsjukvård.
 
 Under senare delen av 2023 har hälsosatsningen fått del av stimulansmedel från nämnden för
 Individ & Familjeomsorg, som syftar till att skapa aktiviteter för personer som bor i bostad

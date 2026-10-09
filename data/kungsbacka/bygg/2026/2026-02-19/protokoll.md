@@ -192,9 +192,9 @@ Bygg- och miljöförvaltningen har upprättat förslag till ombudget och resulta
 Byggnadsnämnden redovisar ett positivt resultat jämför med budget 2025 på
 1 702 000 kronor. Nämnden begär följande resultatdisponering:
 
-* Kvarvarande budget för internränta, 7 000 kronor, återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 7 000 kronor, återredovisas enligt kommunens
 Ekonomistyrprinciper.
-* Resterande överskott, 1 695 000 kronor, förs till nämndens resultatfond. Beloppet
+\* Resterande överskott, 1 695 000 kronor, förs till nämndens resultatfond. Beloppet
 inkluderar överskott för projektbudget kartutveckling på 4 000 kronor.
 
 Beslutsunderlag

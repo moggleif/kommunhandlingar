@@ -558,16 +558,16 @@ förvaltningen för beredning. Förvaltningen lämnade svar på initiativet i
 byggnadsnämnden 18 april 2024, där nämnden beslutade att återremittera ärendet.
 
 Initiativet lyfter tre punkter:
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
 möjliga, samt vilka ny- och tillbyggnader som inte kräver bygglov, inom ramen för
 Plan och Bygglagen 2010:900 samt eventuellt annan relevant lagstiftning, på nya och
 
 uppdaterade Detaljplaner.
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
 handläggning och beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare
 i kommunen och företagare, oavsett handläggare.
 
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
 beslutet är ett JA eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen
 vara enkel att förstå, d.v.s. vilka kriterier var inte uppfyllda.
 

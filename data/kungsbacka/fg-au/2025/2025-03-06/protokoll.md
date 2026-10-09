@@ -332,7 +332,7 @@ efterföljs och att arbetet sker systematiskt.
 
 Under 2024 har arbetet med implementering och fastställande av
 dokumentationsrutiner/mallar fortsatt i journalsystemet. Ett nytt journalsystem (April
-2023) inom HSL är en process som behöver noggrant övervakas och även på ett
+2023\) inom HSL är en process som behöver noggrant övervakas och även på ett
 patientsäkert sätt kunna anpassas efter införande.
 Koppling till NPÖ för att producera journaluppgifter är utfört under 2024. Detta är
 
@@ -412,7 +412,7 @@ för elever inom skolan där remisser återgår till skolan från barn och
 ungdomspsykiatrin (En väg in, UPH 1:a linjen, BUP specialistmottagning).
 Processen är startad under andra halvåret 2024 och tas upp i denna årsrapport.
 Initiativet är huvudaktiviteten för skolan inom reformen God och nära vård under
-2025.
+2025\.
 Den Kungsbackaövergripande rapporten redovisas årligen till kommunens
 ledningsgrupp efter att de separata förvaltningsspecifika delarna till rapporten
 

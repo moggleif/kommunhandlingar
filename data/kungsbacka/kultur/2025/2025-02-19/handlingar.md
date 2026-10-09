@@ -61,7 +61,7 @@ KUNGSBACKA  KOMMUN
 | 3. | Beredning av motion - Ökat<br>samarbete för barn och elevers<br>hälsa (KS-2024-00595)<br>Föredragande: Karl Persson,<br>förvaltningschef<br>6 st dokument<br>15 min | KFT-2024-<br>00341 | Nämnden för Kultur & Fritid föreslår<br>kommunfullmäktige att anse motionen vara besvarad<br>med hänvisning till att det redan finns ett stående<br>strategiskt forum för samarbete mellan de fyra<br>berörda förvaltningscheferna med fokus på barn och<br>ungas hälsa och utveckling. |
 | 4. | Nämnden för Kultur & Fritid<br>årsredovisning 2024 inkl<br>verksamhetsredovisning lokala<br>BRÅ<br>Föredragande: Erik Norinder,<br>utvecklingsledare, och Malin<br>Fjellström, controller<br>3 st dokument<br>20 min | KFT-2025-<br>00019 | Nämnden för Kultur & Fritid godkänner<br>årsredovisning 2024.<br>Nämnden för Kultur & Fritid godkänner BRÅs<br>verksamhetsredovisning för 2024 och översänder<br>verksamhetsredovisningen till kommunfullmäktige<br>för godkännande. |
 | 5. | PAUS 15 min |  |  |
-| 6. | Ombudgetering och resultatfond<br>Föredragande: Malin<br>Fjellström, controller<br>3 st dokument<br>10 min | KFT-2025-<br>00022 | Nämnden för Kultur & Fritid beslutar att begära:<br>* att av nämndens underskott om total -1 145 tkr,<br>ska +316 tkr som avser internränta återredovisas<br>och -1 416 tkr föras till nämndens resultatfond<br>* att av nämndens överskott i investeringsbudgeten<br>om 14 433 tkr begära 2 384 tkr som avser<br>ombudgeteras till år 2025 och 3 140 tkr till 2026. De<br>belopp som önskas ombudgeteras avser konst 1%<br>som är pågående och framtida lokalprojekt. |
+| 6. | Ombudgetering och resultatfond<br>Föredragande: Malin<br>Fjellström, controller<br>3 st dokument<br>10 min | KFT-2025-<br>00022 | Nämnden för Kultur & Fritid beslutar att begära:<br>\* att av nämndens underskott om total -1 145 tkr,<br>ska +316 tkr som avser internränta återredovisas<br>och -1 416 tkr föras till nämndens resultatfond<br>\* att av nämndens överskott i investeringsbudgeten<br>om 14 433 tkr begära 2 384 tkr som avser<br>ombudgeteras till år 2025 och 3 140 tkr till 2026. De<br>belopp som önskas ombudgeteras avser konst 1%<br>som är pågående och framtida lokalprojekt. |
 
 <!-- sida 3 -->
 
@@ -519,7 +519,7 @@ av stress flera gånger i veckan eller oftare (25 respektive 34 procent av killa
 
 är stress ett ungefär lika vanligt besvär som sömnsvårigheter och att känna sig aggressiv/arg.
 
-#Tryggdigitaluppväxt, Men Seriöst – Barn och ungas utsatthet på nätet
+\#Tryggdigitaluppväxt, Men Seriöst – Barn och ungas utsatthet på nätet
 
 •  Enkätundersökningen ”Men seriöst” (2023) som riktade sig till målgruppen 15 - 20 år och fick
 in 1110 svar visar att utsattheten på nätet är omfattande i Kungsbacka kommun likväl som
@@ -562,14 +562,14 @@ befolkningen. Detta görs på både strategisk och operativ nivå med i linje me
 kommunfullmäktigemålen och vision 2030. Arbetet sker på förvaltningsnivå men även i samverkan
 mellan olika förvaltningar:
 
--  Sociala konsekvensanalyser. Verktyget för sociala konsekvensanalyser (SKA) syftar till att
+\-  Sociala konsekvensanalyser. Verktyget för sociala konsekvensanalyser (SKA) syftar till att
 stärka arbetet med sociala aspekter inom samhällsplaneringen. Kungsbacka kommun arbetar
 med sociala konsekvensanalyser i samhällsplaneringen för att säkerställa
 rekreationsmöjligheter, rörelse, mötesplatser för samvaro samt trygga och inkluderande
 
 miljöer. Detta arbete inkluderar flera förvaltningar.
 
--  PEP kommun 2.0. Flertalet förvaltningar samverkar för att göra Kungsbacka till en PEP
+\-  PEP kommun 2.0. Flertalet förvaltningar samverkar för att göra Kungsbacka till en PEP
 kommun 2.0. Detta arbete bygger på åtta investeringar för att främja fysisk aktivitet. I ett av
 målen arbetar Teknik och Förskola & Grundskola med aktiva transporter till skolan och i ett av
 de andra arbetar Service med hälsofrämjande matmiljöer. Måltider har under året anslutit till
@@ -581,7 +581,7 @@ som lanserades 2023 och som kommer ligga till grund för de nya råd för försk
 som Livsmedelsverket planerar lansera under 2025. Arbetet har som mål att alla barn och unga
 i Kungsbacka ska ha möjlighet och vilja att leva ett hälsosamt och aktivt liv.
 
--  Mötesplats idrott, Det är viktigt att barn och unga hittar plattformar att utöva fysisk aktivitet
+\-  Mötesplats idrott, Det är viktigt att barn och unga hittar plattformar att utöva fysisk aktivitet
 på, där de kan få ett socialt sammanhang och en positiv upplevelse kopplad till idrott. Som ett
 komplement till idrottsföreningar erbjuder vi Mötesplats Idrott, en plats där invånaren är
 välkommen att träna, leka, spela och testa på fysiska aktiviteter. Man kan komma ensam eller
@@ -589,7 +589,7 @@ välkommen att träna, leka, spela och testa på fysiska aktiviteter. Man kan ko
 med kompisar. Mötesplats Idrott finns på tre ställen i kommunen och riktar sig till barn och
 unga över 12 år som vill idrotta förutsättningslöst tillsammans med sina vänner.
 
--  God och nära vård. Vård & Omsorg ansvarar för att vara sammanhållande
+\-  God och nära vård. Vård & Omsorg ansvarar för att vara sammanhållande
 kommunövergripande i arbetet utifrån reformen "God och nära vård" i Kungsbacka. Reformen
 omfattar och påverkar flera förvaltningar och innebär en omställning av välfärden som mer
 behöver bedrivas med ökat fokus på förebyggande och hälsofrämjande arbete. Det
@@ -605,7 +605,7 @@ KUNGSBACKA  KOMMUN
 En god samverkan med andra aktörer både internt och externt, såsom Region Halland och övrig
 primärvård i vårdcentralerna, är av stor vikt för invånarnas hälsa och välbefinnande.
 
--  Samverkan för ökad rörelse. Under 2024 har projektet Samverkan för ökad rörelse fokuserat
+\-  Samverkan för ökad rörelse. Under 2024 har projektet Samverkan för ökad rörelse fokuserat
 på att främja fysisk aktivitet och förbättra hälsan hos barn och ungdomar i Kungsbacka. De har
 föreslagit ökade möjligheter till fysisk aktivitet i skolan för att främja bättre fysisk och psykisk
 hälsa. Arbete genomförs för att förbättra undervisningskvaliteten och skapa en tillgänglig
@@ -618,7 +618,7 @@ och förbättra deras koncentration och inlärning. Rektorer beskriver att de se
 kränkningar mellan elever minskar. Genom dessa insatser har skolan strävat efter att skapa en
 mer aktiv och hälsosam miljö för barn och ungdomar i Kungsbacka kommun.
 
--  Senior i Kungsbacka. I Kungsbacka kommun finns verksamheten Senior i Kungsbacka som
+\-  Senior i Kungsbacka. I Kungsbacka kommun finns verksamheten Senior i Kungsbacka som
 har 16 mötesplatser för seniorer runt om i kommunen. På mötesplatserna har seniorer möjlighet
 
 att umgås och delta i aktiviteter utifrån sina intressen och förutsättningar, men det går precis
@@ -626,7 +626,7 @@ lika bra att bara komma in på en kopp kaffe. Aktiviteter som gympa, sittgympa, 
 föreläsningar (psykisk hälsa, alkohol m.m), yoga, rörlighetsträning, allsång, promenad med
 mera genomförs varje vecka.
 
--  Stärkt hälsolitteracitet. Hälsolitteracitet handlar om en individs förmåga att få tag på, förstå,
+\-  Stärkt hälsolitteracitet. Hälsolitteracitet handlar om en individs förmåga att få tag på, förstå,
 värdera och använda information för att bibehålla och främja hälsa.
 Hälsolitteracitet har med människors kunskap, motivation och förmåga att få tillgång till,
 
@@ -642,7 +642,7 @@ invånare och underlätta möjligheterna för ett besök.
 Utgångspunkten för hälsolitteracitet är att människor själva kan främja sin hälsa och lösa
 hälsoproblem.
 
--  ANDTS (alkohol, narkotika, doping, tobak och spel om pengar). Vi genomförsregelbundet
+\-  ANDTS (alkohol, narkotika, doping, tobak och spel om pengar). Vi genomförsregelbundet
 föreläsningar kring aktuell statistik och berusningsmedel på föräldramöten, på våra
 
 <!-- sida 18 -->
@@ -660,7 +660,7 @@ förflyttning när man med gemensamma krafter tillsammans med andra myndigheter 
 krögare arbetar så att våra kommuninnevånare och besökare i Kungsbacka välkomnas av
 trygga krogmiljöer.
 
--  Hälsosatsningen. Hälsosatsningen har genomförts på boenden med särskild service i samarbete
+\-  Hälsosatsningen. Hälsosatsningen har genomförts på boenden med särskild service i samarbete
 med hemsjukvården från Vård & Omsorg. Hälsosatsningen är samlingsnamnet för olika
 
 förebyggande och främjande insatser vars syfte är att förbättra hälsoprognosen för brukare
@@ -670,14 +670,14 @@ intellektuell funktionsnedsättning har en särskild utsatthet för ojämlik hä
 utbildning av personal och genomförande av ett antal olika aktiviteter för alla hyresgäster på
 Bmss inom området matvanor, näring, fysisk aktivitet och rörelse.
 
--  Hälsofrämjandeprogram på gymnasiet. Kopplat till Gymnasium & Arbetsmarknads
+\-  Hälsofrämjandeprogram på gymnasiet. Kopplat till Gymnasium & Arbetsmarknads
 nämndmål ”Hälsofrämjande livsstil” har en handlingsplan inom gymnasieskolorna tagits fram
 som man nu arbetar efter.
 Inom ramen för denna handlingsplan utvecklar gymnasieskolorna ett hälsofrämjande program
 för elever. Detta inkluderar en plan för kontinuerlig implementering och integration i skolans
 läroplan.
 
--  Brevutskick. Invånare som är 74 år får ett brev med information om hur de på bästa sätt kan få
+\-  Brevutskick. Invånare som är 74 år får ett brev med information om hur de på bästa sätt kan få
 ett gott åldrande. Invånarna erbjuds uppföljande samtal om vardagsliv och hälsa, säkerhet i
 
 vardagen men även om hur fallolyckor kan förbyggas. I utskicket som går ut till ca 800 - 900
@@ -865,7 +865,7 @@ inte läggas på en enskild nämnd. Genom tidiga insatser i skolan såväl som i
 delar av livet kommer våra kommuninvånare leva bättre liv.
 
 Därför yrkar vi på att
-- - Kommunfullmäktige ger berörda nämnder i uppdrag att utforma ett långsiktigt och
+\- - Kommunfullmäktige ger berörda nämnder i uppdrag att utforma ett långsiktigt och
 strategiskt folkhälsoprogram i dialog med politiken för att förbättra folkhälsan i alla åldrar.
 
 Shabnam Zamani (S)
@@ -1078,7 +1078,7 @@ Skickat:        den 15 november 2024 10:56
 Till:           Kultur & Fritid; Förskola Grundskola; Gymnasium & Arbetsmarknad; Individ &
 Familjeomsorg
 Ämne:           Beredning av motion - Ökat samarbete för barn och elevers hälsa (KS-2024-
-00595)
+00595\)
 Bifogade filer: Beredning av motion - Nämnden för Kultur & Fritid m fl.pdf; Beslut -
 202400595 - KS - § 309.pdf; Beslut - 202400595 - KS - § 128.pdf; Ökat
 samarbete för barn och elevers hälsa.pdf
@@ -1112,7 +1112,7 @@ handlaggning-av-motioner
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\______________________
 
 Kungsbacka kommun
 Kommunledningskontoret
@@ -1128,7 +1128,7 @@ Värna om miljön! Behöver du skriva ut det här meddelandet?
 <!-- sida 31 -->
 
 at
-<S Socialdemokraterna
+\<S Socialdemokraterna
 
 Motion 2024-09-09
 Ökat samarbete för barn och elevers hälsa
@@ -1167,7 +1167,7 @@ agerar kompletterande.
 För att stärka det förebyggande och hälsofrämjande arbetet inom i Kungsbacka kommun
 yrkar Socialdemokraterna att:
 
-- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
+\- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
 Grundskola, Nämnden för Gymnasium & Arbetsmarknad samt Nämnden för Individ &
 Familjeomsorg, i uppdrag att inrätta stående forum för samarbete med viktiga parter i
 arbetet med barn och elevers hälsa där fokus är på både riskfaktorer och
@@ -1202,9 +1202,9 @@ Förvaltningen har enligt uppdrag upprättat och lämnar sin årsredovisning fö
 bifogade handlingar.
 
 Förvaltningen redovisar:
-- ett underskott på driftbudgeten om -1,1 miljoner kronor
+\- ett underskott på driftbudgeten om -1,1 miljoner kronor
 
-- ett överskott på investeringsbudgeten om +14,4 miljoner kronor
+\- ett överskott på investeringsbudgeten om +14,4 miljoner kronor
 
 Beslutsunderlag
 
@@ -1404,10 +1404,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -1591,16 +1591,16 @@ Brukarbedömning
 individ- och
 88 %
 familjeomsorg totalt
-- helhetssyn
+\- helhetssyn
 3.2 En hållbar utveckling och en hälsosam miljö
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 Sammanfattning av nämndens arbete med målet
@@ -1885,7 +1885,7 @@ pojkar.
 Avfall från hushåll ska
 minska med 30% per
 invånare från 2020 till 98        97
-2030. Startvärde 100,
+2030\. Startvärde 100,
 målvärde 2030 är 70.
 Avfall från kommunens
 verksamheter ska
@@ -1942,8 +1942,8 @@ ekologisk status, andel 18,5      18,5
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -2045,8 +2045,8 @@ Nämndens årsredovisning 2024
 
 Fokusområden
 
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -2127,7 +2127,7 @@ o  Julbordet för seniorer anordnades för tredje året i rad. 50 st frivilliga 
 Indikatorer     Utfall 2021   Utfall 2022 Utfall 2023  Utfall 2024
 Genomsnittligt
 meritvärde i årskurs
-9. Meritvärdet
+9\. Meritvärdet
 utgörs av summan
 239           237               236,5        237,5
 av de 17 bästa
@@ -2176,12 +2176,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -2290,7 +2290,7 @@ max 180. Jämix
 103          114               122
 beräknas utifrån nio
 nyckeltal med skala 1–
-20.
+20\.
 3.6 Uppföljning målbild
 Nämnden för Kultur & Fritid beslutade hösten 2023 om en målbild för år 2030. Utifrån målbilden arbetar
 förvaltningen genom fyra fokusområden:
@@ -2331,7 +2331,7 @@ Nämndens årsredovisning 2024
 
 Bräckaskolan samarbetar kulturskolan med fritidsverksamheten och erbjuder musiklek i olika instrument.
 
-#Trygg digital uppväxt
+\#Trygg digital uppväxt
 Projektet som har fokus på ungas sexuella utsatthet på nätet har under våren fokuserat på att genom samverkan
 med andra förvaltningar men även med andra kommuner, Region Halland och civilsamhället öka kunskapen
 kring detta växande problem i samhället. I maj arrangerades en stor konferens som blev startskottet för ett mer
@@ -3745,7 +3745,7 @@ Lokaler. Övriga investeringar görs bedömning om avsatta budgetmedel täcker b
 året eller inte. Kultur & Fritid redovisar ett överskott om 14 433 tkr, varav 5 524 tkr avser konstnärlig
 
 gestaltning i lokaler. Av det beloppet begärs 2 384 tkr att ombudgeteras till år 2025 och 3 140 tkr till år
-2026.
+2026\.
 
 Beslutsunderlag
 
@@ -4741,69 +4741,69 @@ Efterfrågan, utbud och vana
 
 Museum/konstutställningar
 
--  Efterfrågan, genomsnitt: 9 % uppger att museum ska prioriteras i framtiden. 8 % vill
+\-  Efterfrågan, genomsnitt: 9 % uppger att museum ska prioriteras i framtiden. 8 % vill
 att konstutställningar ska prioriteras.
 
--  Upplevt utbud, genonsmitt: 36 % av respondentera att det finns ett ganska litet
+\-  Upplevt utbud, genonsmitt: 36 % av respondentera att det finns ett ganska litet
 utbud av muséer och konstutställningar, mellan 32-36 %. 31 % uppger att de inte
 har någon uppfattning i frågan.
 
--  Vana, genomsnitt: 53 % uppger att de inte gått på museum senaste året. 2 %
+\-  Vana, genomsnitt: 53 % uppger att de inte gått på museum senaste året. 2 %
 uppger att de gått på museum en gång i månaden. 64 % uppger att de inte gått på
 konstutställning senaste året. 6 % uppger att de gått på konstutställning någon i
 kvartalet.
 
 Teater
 
--  Efterfrågan, genomsnitt: 19 % uppger att teater ska prioriteras i framtiden.
+\-  Efterfrågan, genomsnitt: 19 % uppger att teater ska prioriteras i framtiden.
 
--  Upplevt utbud, genomsmitt: 42 % uppger att det finns ett ganska stort utbud. 20 %
+\-  Upplevt utbud, genomsmitt: 42 % uppger att det finns ett ganska stort utbud. 20 %
 uppger att de inte har någon uppfattning i frågan.
 
--  Vana, genomsnitt: 65 % uppger att de inte gått på teater senaste året. 2 % uppger
+\-  Vana, genomsnitt: 65 % uppger att de inte gått på teater senaste året. 2 % uppger
 att de gått någon gång i månaden.
 
 Bibliotek
 
--  Efterfrågan, genomsnitt: 30 % uppger att bibliotek ska prioriteras i framtiden.
+\-  Efterfrågan, genomsnitt: 30 % uppger att bibliotek ska prioriteras i framtiden.
 
 <!-- sida 117 -->
 
 KUNGSBACKA KOMMUN
 12 (15)
 
--  Upplevt utbud, genomsnitt: 51 % uppger att det finns ett ganska stort utbud. 8 %
+\-  Upplevt utbud, genomsnitt: 51 % uppger att det finns ett ganska stort utbud. 8 %
 uppger att de inte har någon uppfattning i frågan.
 
--  Vana, genomsnitt: 39 % uppger att de inte gått på teater senaste året. 7 % uppger
+\-  Vana, genomsnitt: 39 % uppger att de inte gått på teater senaste året. 7 % uppger
 att de går en eller flera gånger i veckan.
 
 Ställen för unga att träffas på (t.ex. fritidsgårdar, ungdomsklubbar)
 
--  Efterfrågan, genomsnitt: 61 % uppger att bibliotek ska prioriteras i framtiden. Värt
+\-  Efterfrågan, genomsnitt: 61 % uppger att bibliotek ska prioriteras i framtiden. Värt
 att notera är att invånare över 45 år ser ett större behov än invånare under 29 år.
 
--  Upplevt utbud, genomsnitt: 48 % anger att de inte har någon uppfattning i frågan.
+\-  Upplevt utbud, genomsnitt: 48 % anger att de inte har någon uppfattning i frågan.
 27 % uppger att det är ett mycket litet utbud.
 
--  Vana, genomsnitt: fråga ej ställd i enkäten
+\-  Vana, genomsnitt: fråga ej ställd i enkäten
 
 Ställen för äldre att träffas på
 
--  Efterfrågan, genomsnitt: 27 % uppger att ställen för äldre att träffas på ska
+\-  Efterfrågan, genomsnitt: 27 % uppger att ställen för äldre att träffas på ska
 prioriteras i framtiden, varav 48 % av invånare över 65 år.
 
--  Upplevt utbud, genomsnitt: 60 % anger att de inte har någon uppfattning i frågan.
+\-  Upplevt utbud, genomsnitt: 60 % anger att de inte har någon uppfattning i frågan.
 16 % uppger att det är ett ganska litet utbud.
 
--  Vana, genomsnitt: fråga ej ställd i enkäten
+\-  Vana, genomsnitt: fråga ej ställd i enkäten
 
 Upplever du att du kan påverka utbudet av följande i Kungsbacka
 kommun?
 
--  Kultur: ja 4 %, delvis 28 %, nej 68 %.
--  Fritidsaktiviteter: ja 7 %, delvis 35 %, nej 58 %.
--  Idrottsaktiviteter: ja 9 %, delvis 36 %, nej 56 %.
+\-  Kultur: ja 4 %, delvis 28 %, nej 68 %.
+\-  Fritidsaktiviteter: ja 7 %, delvis 35 %, nej 58 %.
+\-  Idrottsaktiviteter: ja 9 %, delvis 36 %, nej 56 %.
 
 Inkomst
 
@@ -5010,16 +5010,16 @@ eller i lag och som tävlar i en Kungsbackaförening. Priset har sin bakgrund i 
 tenntallrik som instiftades redan 1975 och delas årligen ut av kommunfullmäktige.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i Kungsbackaförening b.
+1\. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i Kungsbackaförening b.
 bosatt i Kungsbacka kommun, men tävlande för förening utanför Kungsbacka och har som enskild
 eller genom lag erövrat ett svenskt mästerskap eller nått en ännu större framgång.
 
-2. Priset utdelas endast en gång till en och samma person.
-3. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till
+2\. Priset utdelas endast en gång till en och samma person.
+3\. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till
 priset.
 
-4. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
-5. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
+4\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
+5\. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
 nämnden för Kultur & Fritids ordförande samt kommunfullmäktiges ordförande.
 
 Beslutsunderlag
@@ -5063,27 +5063,27 @@ lag och som tävlar i en Kungsbackaförening. Priset har sin bakgrund i priset K
 instiftades redan 1975 och delas årligen ut av kommunfullmäktige.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Kungsbackas mästare är antingen:
+1\. Berättigad att erhålla priset Kungsbackas mästare är antingen:
 a. medlem i Kungsbackaförening
 b. bosatt i Kungsbacka kommun, men tävlande för förening utanför Kungsbacka
 och har som enskild eller genom lag erövrat ett svenskt mästerskap eller nått en ännu större framgång.
-2. Priset utdelas endast en gång till en och samma person.
-3. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till priset.
-4. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
-5. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
+2\. Priset utdelas endast en gång till en och samma person.
+3\. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till priset.
+4\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
+5\. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
 nämnden för Kultur & Fritids ordförande samt kommunfullmäktiges ordförande.
 
 Bedömningsvillkor
 Med mästerskap eller större framgång räknas:
 
-- Officiellt Mästerskap för till Riksidrottsförbundet (RF) anslutna organisationer sanktionerade av RF
-- Svensk Skolmästare
-- Svensk Juniormästare
-- Svensk Mästare
-- Nordisk Mästare
-- Europamästare
-- Världsmästare
-- OS mästare
+\- Officiellt Mästerskap för till Riksidrottsförbundet (RF) anslutna organisationer sanktionerade av RF
+\- Svensk Skolmästare
+\- Svensk Juniormästare
+\- Svensk Mästare
+\- Nordisk Mästare
+\- Europamästare
+\- Världsmästare
+\- OS mästare
 
 Med vinst som avser innevarande år
 
@@ -5133,8 +5133,8 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att
 
--  utse XXXX
--  offentliggöra pristagaren vid prisceremonin.
+\-  utse XXXX
+\-  offentliggöra pristagaren vid prisceremonin.
 
 Nominera XXXXX som finalister.
 
@@ -5145,11 +5145,11 @@ kraft som verkar inom något av nämndens ansvarsområde.
 
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka kommun. b. medlem i
+1\. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka kommun. b. medlem i
 Kungsbackaförening
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -5195,12 +5195,12 @@ Med priset Årets eldsjäl vill nämnden för Kultur & Fritid uppmärksamma bety
 som verkar inom något av nämndens ansvarsområde.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets eldsjäl är antingen:
+1\. Berättigad att erhålla priset Årets eldsjäl är antingen:
 a. bosatt i Kungsbacka kommun.
 
 b. medlem i Kungsbackaförening
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
 & Fritids ordförande.
 
 Bedömningsvillkor
@@ -5251,10 +5251,10 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att
 
--  utse XXX som Årets förening 2024.
--  offentliggöra pristagare vid prisceremonin.
+\-  utse XXX som Årets förening 2024.
+\-  offentliggöra pristagare vid prisceremonin.
 
--  nominera XXX, XXX och XXX till finalister.
+\-  nominera XXX, XXX och XXX till finalister.
 
 Sammanfattning av ärendet
 Bakgrund
@@ -5263,11 +5263,11 @@ Med priset Årets förening vill nämnden för Kultur & Fritid uppmärksamma och
 Kungsbacka kommun som på ett framgångsrikt sätt bedriver sin verksamhet.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av nämnden för
+1\. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av nämnden för
 Kultur & Fritids ansvarsområden. b. med anknytning till Kungsbacka kommun.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -5315,11 +5315,11 @@ Med priset Årets förening vill nämnden för Kultur & Fritid uppmärksamma och
 Kungsbacka kommun som på ett framgångsrikt sätt bedriver sin verksamhet.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets förening är:
+1\. Berättigad att erhålla priset Årets förening är:
 a. Förening verksam inom något av nämnden för Kultur & Fritids ansvarsområden.
 b. med anknytning till Kungsbacka kommun.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
 
 & Fritids ordförande.
 
@@ -5372,9 +5372,9 @@ KFT-2025-00030
 Förslag till beslut i nämnden för Kultur & Fritid
 Nämnden för Kultur & Fritid beslutar att
 
--  utse XXX som Årets förnyare 2024.
+\-  utse XXX som Årets förnyare 2024.
 
--  offentliggöra XXX, XXX och XXX som finalister.
+\-  offentliggöra XXX, XXX och XXX som finalister.
 
 Sammanfattning av ärendet
 Med priset Årets förnyare vill nämnden för Kultur & Fritid uppmärksamma modigt och kreativt
@@ -5382,11 +5382,11 @@ Med priset Årets förnyare vill nämnden för Kultur & Fritid uppmärksamma mod
 utvecklingsarbete hos aktörer som verkar inom något av nämndens ansvarsområden.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
+1\. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
 Kungsbacka kommun som är verksam inom något av nämnden för Kultur & Fritids ansvarsområden
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 Bedömningsvillkor
 
@@ -5435,10 +5435,10 @@ utvecklingsarbete hos aktörer som verkar inom något av nämndens ansvarsområd
 
 Allmänna bestämmelser
 
-1.  Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
+1\.  Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
 Kungsbacka kommun som är verksam inom något av nämnden för Kultur & Fritids ansvarsområden
-2.  Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3.  Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+2\.  Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\.  Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -5491,10 +5491,10 @@ Kulturpriset 2024
 Förslag till beslut i nämnden för Kultur & Fritid
 Nämnden för Kultur & Fritid beslutar att:
 
--  utse XXX som årets kulturpristagare.
+\-  utse XXX som årets kulturpristagare.
 
--  offentliggöra pristagaren vid prisceremonin.
--  nominera XXX, XXX och XXX till finalister.
+\-  offentliggöra pristagaren vid prisceremonin.
+\-  nominera XXX, XXX och XXX till finalister.
 
 Sammanfattning av ärendet
 
@@ -5535,14 +5535,14 @@ s i L CJ j Xx AA
 
 H id Vr VV / j
 
-$ 17 - AH 7” i / / 2
+\$ 17 - AH 7” i / / 2
 
 Korrigering i bestämmelse för Kungsbacka kommuns
 kulturpris
 
 Beslut
 
-Ändra formuleringen i bestämmelserna $ 9 att sista ansökningsdag ska vara
+Ändra formuleringen i bestämmelserna \$ 9 att sista ansökningsdag ska vara
 ”nämnden tillhanda senast 1 mars”.
 
 Nämnden godkänner den begränsade revideringen av bestämmelserna, som
@@ -5554,12 +5554,12 @@ Senaste uppdatering av bestämmelserna för Kungsbacka kommuns kulturpris är fr
 2001-03-27.
 
 Förutsättningarna för kulturpriset framstår som tydliga. Prissumman förändrades av
-nämnden för 2008 års pristagare till 10 tkr i stället för tidigare 6 tkr. Ordalydelsen i $
+nämnden för 2008 års pristagare till 10 tkr i stället för tidigare 6 tkr. Ordalydelsen i \$
 4 upplevs som korrekt, då ett pris kan utdelas till fler än en person och beloppet 5 tkr
 som lägsta belopp kan fortfara att gälla vid flera pris.
 
 Under senare år har det mer och mer framstått att datumet 1 februari för sista dag för
-inlämnande av förslag enligt $ 5 i stadgarna är lite för tidigt satt på året. För att på
+inlämnande av förslag enligt \$ 5 i stadgarna är lite för tidigt satt på året. För att på
 bästa sätt hinna informera och marknadsföra priset bör ett något senare datum för
 sista förslagsdag bli gällande.
 
@@ -5575,7 +5575,7 @@ Förvaltningschef Elisabeth Lax redogör för ärendet.
 Förslag till beslut
 
 Nämnden för Kultur & Turism föreslås besluta att ändra formuleringen i
-bestämmelsernas $ 5 innebärande att sista inlämningsdag av förslag till kommunens
+bestämmelsernas \$ 5 innebärande att sista inlämningsdag av förslag till kommunens
 kulturpris ska vara den 1 mars.
 
 Justerare, ) | Expedierat/bestyrkt
@@ -5595,8 +5595,8 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att:
 
--  XXX tilldelas ledarstipendiet 2024.
--  ledarstipendiaten offentliggörs vid prisceremonin.
+\-  XXX tilldelas ledarstipendiet 2024.
+\-  ledarstipendiaten offentliggörs vid prisceremonin.
 
 Sammanfattning av ärendet
 
@@ -5607,14 +5607,14 @@ som är en viktig person i aktuell förening.
 Allmänna bestämmelser
 
 Berättigad att erhålla stipendiet är:
-1. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i
+1\. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i
 nämnden för Kultur & Fritids föreningsregister.
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
-3. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
+3\. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna
 organisationens verksamhet.
 
-4. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni. Bedömningsvillkor
+4\. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni. Bedömningsvillkor
 Mottagare av stipendiet är en ungdomsledare inom det lokala föreningslivet, som på ett förtjänstfullt
 sätt medverkar till att skapa en meningsfull fritidssysselsättning för ungdomar i kommunen.
 
@@ -5660,12 +5660,12 @@ Stipendiet uppmärksammar ideella ledare som aktivt arbetar med ideella uppdrag 
 
 Allmänna bestämmelser
 Berättigad att erhålla stipendiet är:
-1. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i nämnden
+1\. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i nämnden
 för Kultur & Fritids föreningsregister.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
-3. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna organisationens
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
+3\. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna organisationens
 verksamhet.
-4. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
+4\. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
 
 Bedömningsvillkor
 Mottagare av stipendiet är en ungdomsledare inom det lokala föreningslivet, som på ett förtjänstfullt sätt
@@ -5714,8 +5714,8 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att:
 
--  2024 års idrottsstipendium tilldelas XXX och XXX
--  offentliggöra stipendiaterna vid prisceremonin.
+\-  2024 års idrottsstipendium tilldelas XXX och XXX
+\-  offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 
@@ -5760,14 +5760,14 @@ Stipendiet ska uppmuntra ungdomar som vill vidareutveckla sig inom sin idrott.
 
 Allmänna bestämmelser
 
-1. Berättigad att erhålla stipendiet är den som är:
+1\. Berättigad att erhålla stipendiet är den som är:
 
 a. Under 26 år och
 b. Född och/eller bosatt i Kungsbacka kommun.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiater.
-3. Stipendiet delas ut till två personer/år
-4. Stipendiet riktas endast till enskilda personer.
-5. Stipendiet utdelas årligen ut under Kultur & Fritids prisceremoni.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiater.
+3\. Stipendiet delas ut till två personer/år
+4\. Stipendiet riktas endast till enskilda personer.
+5\. Stipendiet utdelas årligen ut under Kultur & Fritids prisceremoni.
 
 Bedömningsvillkor
 
@@ -5830,9 +5830,9 @@ Kulturstipendium 2025
 
 Förslag till beslut i nämnden för Kultur & Fritid
 Nämnden för Kultur & Fritid beslutar att:
--  tilldela XXX och XXX 2025 års kulturstipendier.
+\-  tilldela XXX och XXX 2025 års kulturstipendier.
 
--  offentliggöra stipendiaterna vid prisceremonin.
+\-  offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 Nämnden för Kultur & Fritid delar årligen ut två kulturstipendier till kulturellt utövande ungdomar.
@@ -5887,7 +5887,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Kultur & Turism SAMMANTRÄDESPROTOKOLL 10 (20)
 Sammanträdesdatum
 2007-09-25
-$78 Kt97-00305/
+\$78 Kt97-00305/
 
 Inrättande av Kulturstipendier för ungdom
 
@@ -5945,7 +5945,7 @@ Sammanträdesdatum
 
 2007-09-25
 
-$ 78 forts
+\$ 78 forts
 
 Beslutsunderlag
 
@@ -6151,13 +6151,13 @@ Kungsbacka     Lokalt aktivitetsstöd 2
 Kungsbacka     Utbildning och utvecklingsstöd
 
 15595 HK Aranäs     Barn och ungdomsföreningar/ 2025-01-21 216 824,00
-*
+\*
 Lokalt aktivitetsstöd 2
 15593 HK Aranäs     Barn och ungdomsföreningar/ 2025-01-21 189 200,00
-*
+\*
 Utbildning och utvecklingsstöd
 15594 HK Aranäs     Barn och ungdomsföreningar/ 2025-01-21 47 300,00
-*
+\*
 Hälsocertifierad
 15554 Idala 4H      Barn och ungdomsföreningar/ 2025-01-28 398
 Lokalt aktivitetsstöd 2
@@ -6427,7 +6427,7 @@ motverka psykisk ohälsa? Kultur & Fritid
 (Stärkt brottsförebyggande arbete)
 KFT-2025-00014 2025-01-20 tjänsteman   Överenskommelse gällande leveranstid
 avseende direktköpsintal: Stockalids förskola
-- Utomhusskulptur. referensnummer 3795
+\- Utomhusskulptur. referensnummer 3795
 parter Kungsbacka kommun - J. Wilking AB
 KFT-2025-00013 2025-01-15 Samhällsbyggnadskontoret Samrådsutskick - Detaljplan för Kungsbackas
 arena, Kungsbacka kommun. Sista svarsdag

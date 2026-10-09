@@ -382,14 +382,14 @@ Sammanfattning av ärendet
 Kommundirektör Malin Aronsson informerar om Sveriges kommuner och regioners
 (SKR) handslag för digitalisering. Arbetet har nu resulterat i sex olika initiativ:
 
-1. Projekt för nationell identitets- och behörighetsfederation
-2. Införande av säker Digital Kommunikation (SDK) för socialtjänsten
+1\. Projekt för nationell identitets- och behörighetsfederation
+2\. Införande av säker Digital Kommunikation (SDK) för socialtjänsten
 
-3. Delning och skalning av införande av välfärdsteknik
-4. Kompetensgemenskaper (exempel cybersäkerhet)
+3\. Delning och skalning av införande av välfärdsteknik
+4\. Kompetensgemenskaper (exempel cybersäkerhet)
 
-5. GIF Ekonomiskt bistånd (Del av Samlad digital socialtjänst)
-6. Införande av digital post.
+5\. GIF Ekonomiskt bistånd (Del av Samlad digital socialtjänst)
+6\. Införande av digital post.
 
 Kungsbacka kommun är en av tio kommuner som fått förfrågan om att delta i
 projektet som rör cybersäkerhet.

@@ -351,11 +351,11 @@ Otillräckliga faciliteter och arbetsmiljö. Bakgrunden är uppmärksammade bris
 gällande lokaler och övningsfordon. I initiativärendet yrkas på följande förslag till
 beslut.
 
-1. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att
+1\. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att
 utreda i vilken omfattning Fordons- och transportprogrammets faciliteter och
 arbetsmiljö brister.
 
-2. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att
+2\. Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att
 komma med förslag för att upprätta lokaler som är likvärdiga huvudbyggnaderna för
 Aranäs och Elof Lindälvs gymnasier.
 
@@ -592,10 +592,10 @@ Sammanfattning av ärendet
 
 Följande skrivelser har inkommit
 
-1. Dataskyddsombudets årsrapport Kungsbacka kommun
-2. Dataskyddsombudets årsrapport Gymnasium & Arbetsmarknad
+1\. Dataskyddsombudets årsrapport Kungsbacka kommun
+2\. Dataskyddsombudets årsrapport Gymnasium & Arbetsmarknad
 
-3. Styrelseprotokoll, Samordningsförbundet
+3\. Styrelseprotokoll, Samordningsförbundet
 
 Beslutsgång
 

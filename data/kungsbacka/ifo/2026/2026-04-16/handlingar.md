@@ -139,7 +139,7 @@ Förslag till beslut
 Nämnden för Individ & Familjeomsorg antar reviderad informationsredovisning;
 
 klassificeringsstruktur, informationshanteringsplan samt informationsbeskrivning daterade 2026-03-
-31.
+31\.
 Arkiv- och informationsredovisningen antagen av nämnden för Individ & Familjeomsorg 2022-12-15,
 § 198, upphör därmed att gälla.
 

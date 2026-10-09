@@ -926,18 +926,18 @@ Projektbeställning, 2023-07-26, reviderad 2023-09-26
 Förslag till beslut på sammanträdet
 
 Stefan Jägnert (SD) yrkar att projektbeställningen ska ändras enligt följande:
-1. Formuleringar som anger att hög täthet är att föredra i det stationsnära läget
+1\. Formuleringar som anger att hög täthet är att föredra i det stationsnära läget
 ska strykas.
 
-2. Formuleringar som möjliggör bebyggelse mellan 4 och 7 våningar samt
+2\. Formuleringar som möjliggör bebyggelse mellan 4 och 7 våningar samt
 skrivningen om eventuell högre uppstickare ska strykas.
-3. Det ska tydligt anges att byggnadshöjd inom planområdet inte får överstiga
+3\. Det ska tydligt anges att byggnadshöjd inom planområdet inte får överstiga
 fem våningar.
 
-4. Det ska införas en skrivning om att planområdet ska utformas med blandad
+4\. Det ska införas en skrivning om att planområdet ska utformas med blandad
 bebyggelse, med variation av flerbostadshus, radhus och småhus.
 
-5. Det ska framgå att bebyggelsen mot det öppna landskapet ska trappas ned i
+5\. Det ska framgå att bebyggelsen mot det öppna landskapet ska trappas ned i
 skala och huvudsakligen bestå av två till fyra våningar samt inslag av
 småhusbebyggelse.
 Stefan Vilumsons (SD) yrkar bifall till Stefan Jägnerts (SD) yrkande.
@@ -1610,7 +1610,7 @@ när en sådan avbruten insats återupptas. Rapporten sker IVO kvartalsvis och p
 individnivå. Har nämnden inga ej verkställda beslut att rapportera behöver IVO inte
 informeras.
 Ett ärende gällande avbruten verkställighet rapporteras till IVO under kvartal 4,
-2025.
+2025\.
 
 Beslutsunderlag
 Kommunstyrelsens arbetsutskott 2026-02-24, § 60

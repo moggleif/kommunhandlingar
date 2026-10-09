@@ -134,7 +134,7 @@ för Gemensam nämnd för hemsjukvård och hjälpmedel .........................
 
 § 81 Dnr VO-2026-00168
 Redovisning av ej verkställda gynnande beslut enligt socialtjänstlagen 2026
-- Nämnden för Vård & Omsorg .................................................................. 15
+\- Nämnden för Vård & Omsorg .................................................................. 15
 
 § 82 Dnr VO-2026-00132
 Information - Delaktighetsstrategin ............................................................ 16
@@ -254,12 +254,12 @@ Förslag till beslut på sammanträdet
 Ermin Škorić (S), Astrid Börjesson (S) och Eva Tingström (S) föreslår följande
 yrkanden:
 
-1. Förvaltningen för Vård & Omsorg får i uppdrag att ta kontakt med Göteborgs
+1\. Förvaltningen för Vård & Omsorg får i uppdrag att ta kontakt med Göteborgs
 universitet för att undersöka möjligheten för ett forskningssamarbete inom
 ramen för AI-utveckling med universitets AI-forskare inom ramen för de
 behov som Vård & Omsorg har.
 
-2. Förvaltningen för Vård & Omsorg ska återkomma med en nulägesanalys,
+2\. Förvaltningen för Vård & Omsorg ska återkomma med en nulägesanalys,
 utifrån kontakt med Göteborgs universitet, i samband med nämndens
 ordinarie sammanträde i oktober månad.
 

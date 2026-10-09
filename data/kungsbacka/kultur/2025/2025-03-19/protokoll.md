@@ -280,20 +280,20 @@ Skapandet av ett författningsstöd som möjliggör flexibel samverkan för olik
 
 områden, anpassat efter specifika behov och förutsättningar, vilket bland annat
 inkluderar:
-- Tillgodose finansiering genom avgifter där fastighetsägare kan bli föremål för
+\- Tillgodose finansiering genom avgifter där fastighetsägare kan bli föremål för
 obligatoriska avgifter, antingen genom att fastighetsägare initierar avgiften eller att
 kommunen inför en kommunal avgift.
 
-- Kommunen får ansvar för att organisera arbetet, sätta avgifter och säkerställa att de
+\- Kommunen får ansvar för att organisera arbetet, sätta avgifter och säkerställa att de
 är rimliga. De ska också ha insyn i hur avgifterna förvaltas.
-- Andra aktörer - såsom polis, boende i området, näringsliv och civilsamhälle - kan
+\- Andra aktörer - såsom polis, boende i området, näringsliv och civilsamhälle - kan
 
 delta frivilligt i samverkan.
-- Beslut om att avgifter ska kunna överklagas för att säkerställa rättssäkerheten.
+\- Beslut om att avgifter ska kunna överklagas för att säkerställa rättssäkerheten.
 
-- Förslag om att inrätta ett centrum för att stärka forskning och utbildning kring
+\- Förslag om att inrätta ett centrum för att stärka forskning och utbildning kring
 trygghetsskapande åtgärder i byggd miljö.
-- Förslag om att införa ett krav på tillstånd för att ta ut hyra för att hantera oseriösa
+\- Förslag om att införa ett krav på tillstånd för att ta ut hyra för att hantera oseriösa
 fastighetsägare och säkerställa bättre förvaltning.
 
 Det här dokumentet är digitalt signerat

@@ -353,14 +353,14 @@ Uppföljning och prognos för nämnden för Miljö & Hälsoskydd per april
 
 Beslut
 Nämnden för Miljö & Hälsoskydd godkänner uppföljning per april och prognos
-2024.
+2024\.
 
 Sammanfattning av ärendet
 Bygg- och miljöförvaltningen har upprättat uppföljning och prognos per den 30 april
 2024 för nämnden för Miljö & Hälsoskydd enligt kommunens riktlinjer.
 Uppföljningen och prognoser för helåret 2024 omfattar nämndens driftbudget om
 1 013 000 kronor. Prognosen per april visar att nämnden har en budget i balans för
-2024.
+2024\.
 
 Beslutsunderlag
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2024-04-26
@@ -404,7 +404,7 @@ Sammanfattning av ärendet
 
 Förvaltningen har bjudit in ledamöter och ersättare i nämnden för Miljö &
 Hälsoskydd att delta i ett studiebesök i verksamheten under hösten 2024 till våren
-2025. Studiebesöket begränsas till ett tillfälle på 4 timmar per ledamot eller ersättare.
+2025\. Studiebesöket begränsas till ett tillfälle på 4 timmar per ledamot eller ersättare.
 Aktiviteten kommer äga rum vid olika tillfällen. Syftet med aktiviteten är att ge
 nämnden inblick i verksamheten samt öka kunskapen inom Miljö & Hälsoskydds
 olika tillsynsområden.

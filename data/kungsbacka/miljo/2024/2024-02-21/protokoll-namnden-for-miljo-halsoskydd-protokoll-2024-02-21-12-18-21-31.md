@@ -453,7 +453,7 @@ Enhetschef Marianne Löfgren och controller Christina Nordberg redogör för
 uppföljning av samverkansavtal med Mölndals Stad avseende handläggning av
 ärenden beträffande serveringstillstånd, försäljning av tobak och liknande varor.
 Samverkansavtalet ingicks i maj 2023 och började gälla från och med den 1 juli
-2023.
+2023\.
 
 Beslutsgång
 Ordförande Niclas Nilsson (M) prövar om nämnden för Miljö & Hälsoskydd kan
@@ -481,7 +481,7 @@ Verksamhetschef Helena Borgström redogör för bygg- och miljöförvaltningens
 innovations- och utvecklingsportfölj. Portföljen beskriver de initiativ som
 förvaltningen har planerat att utföra för att uppnå målbilden och visionen ”I
 Kungsbacka växer framtiden” samt bidra till de globala hållbarhetsmålen i Agenda
-2030. Genom portföljen säkerställer nämnden att förvaltningen arbetar aktivt med
+2030\. Genom portföljen säkerställer nämnden att förvaltningen arbetar aktivt med
 kommunfullmäktiges direktiv, innovation och omställning till nya arbetssätt.
 
 Portföljen består av olika initiativ, projekt och ständiga förbättringar som är

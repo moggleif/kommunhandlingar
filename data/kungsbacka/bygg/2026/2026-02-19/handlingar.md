@@ -221,10 +221,10 @@ incidenter upprepas.
 Årets analys av personuppgiftsincidenter gjordes för år 2024. Resultatet påvisade tre tydliga
 trender;
 
-1. Anmälda personuppgiftsincidenter minskar
+1\. Anmälda personuppgiftsincidenter minskar
 
-2. Den mänskliga faktorn utgör den främsta bakomliggande orsaken till personuppgiftsincidenter
-3. Microsoft Outlook 365 utgör det sammanhang där flest personuppgiftsincidenter har rapporterats
+2\. Den mänskliga faktorn utgör den främsta bakomliggande orsaken till personuppgiftsincidenter
+3\. Microsoft Outlook 365 utgör det sammanhang där flest personuppgiftsincidenter har rapporterats
 
 Den ovan nämnda sammanställningen samt den årliga analysen av personuppgiftsincidenter är en
 del av förvaltningens arbete för att minska antalet personuppgiftsincidenter, skapa förståelse för
@@ -455,7 +455,7 @@ personuppgifter för att se till att reglerna i GDPR och god informationssäkerh
 samt utskick från E-tjänsterna granskas och även ser över förtydligande text för personer med
 skyddad identitet. Det är viktigt att rätt information står i våra E-tjänster och att den är lättbegriplig
 för invånarna.
--  Gallringstid för E-tjänster:
+\-  Gallringstid för E-tjänster:
 
 Den gallringstid som ska anges avser den period under vilken personuppgifterna bevaras i
 det system där de slutligen lagras efter att E-tjänsten har använts. Exempelvis, vid ansökan
@@ -463,7 +463,7 @@ om bygglov via E-tjänsten ska den gallringstid som gäller för hur länge för
 personuppgifterna i systemet ByggR/Nova även anges i E-tjänsten. Tidigare har begreppet
 gallringstid tolkats olika inom Bygg respektive Miljö, vilket nu förtydligats.
 
--  Se över utskick via E-tjänster:
+\-  Se över utskick via E-tjänster:
 Kontrollera om E-tjänsten skickar ut sms eller e-post till registrerade användare. Om
 sådana utskick förekommer får meddelandena inte innehålla någon känslig information,
 utan endast allmänt formulerad text. Denna granskning genomförs med anledning av en
@@ -484,7 +484,7 @@ känslig information, utan enbart texten: ”Du har fått ett nytt meddelande ko
 [ärendenummer]. Klicka på länken nedan för att visa ärendet.”
 
 Vid klick på länken krävs inloggning med BankID för att ta del av informationen.
--  Förtydligande för personer med skyddad identitet:
+\-  Förtydligande för personer med skyddad identitet:
 
 Ett förtydligande avseende personer med skyddad identitet har införts i förtexten till
 samtliga E-tjänster inom Bygg- och miljöförvaltningen. Informationen klargör att personer
@@ -622,19 +622,19 @@ drönare
 Inom projektet Flygning med drönare
 
 1.11 Behörighetsrutiner
--  Kontroll av behörighet till Nova (ByggR). Loggning utförs 2 gånger per år av
+\-  Kontroll av behörighet till Nova (ByggR). Loggning utförs 2 gånger per år av
 systemförvaltaren. 1 gång i juni samt 1 gång i december enligt rutin.
 
--  Kontroll av behörighet till Nova (ByggR) Sekretess.
--  Kontroll av behörighet till Ciceron.
+\-  Kontroll av behörighet till Nova (ByggR) Sekretess.
+\-  Kontroll av behörighet till Ciceron.
 
--  Kontroll av behörighet till Ciceron Sekretess.
--  Kontroll av behörighet till EDP Arkiv.
+\-  Kontroll av behörighet till Ciceron Sekretess.
+\-  Kontroll av behörighet till EDP Arkiv.
 
--  Kontroll av behörighet till Bildbanken.
--  Kontroll av behörighet till Kartportalen.
+\-  Kontroll av behörighet till Bildbanken.
+\-  Kontroll av behörighet till Kartportalen.
 
--  Kontroll av behörighet till Bygg- och miljöförvaltningens fysiska arkiv.
+\-  Kontroll av behörighet till Bygg- och miljöförvaltningens fysiska arkiv.
 
 Kungsbacka kommun             Rapport                          12
 
@@ -752,19 +752,19 @@ Kungsbacka kommun             Rapport                          14
 
 Förvaltningen avser att under 2026 fortsätta utveckla och säkerställa ett fullgott skydd av
 personuppgifter inom ramen för sitt dataskyddsarbete.
--  Arbeta med eventuella åtgärdspunkter efter Dataskyddsombudets årsrapport för 2025.
+\-  Arbeta med eventuella åtgärdspunkter efter Dataskyddsombudets årsrapport för 2025.
 
--  Fortsättning gemensam utbildningsinsats: informationssäkerhet, sekretess, dataskydd samt
+\-  Fortsättning gemensam utbildningsinsats: informationssäkerhet, sekretess, dataskydd samt
 SEFOS.
--  Information till nämnd.
+\-  Information till nämnd.
 
--  Information till förvaltningsledning.
--  Dataskyddsombudet utför granskning. Arbeta med dessa frågeställningar och underlag.
+\-  Information till förvaltningsledning.
+\-  Dataskyddsombudet utför granskning. Arbeta med dessa frågeställningar och underlag.
 
--  Analys av personuppgiftsincidenter år 2025.
--  Årsrapport dataskyddsarbete 2026 och årsplan 2027.
+\-  Analys av personuppgiftsincidenter år 2025.
+\-  Årsrapport dataskyddsarbete 2026 och årsplan 2027.
 
--  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”.
+\-  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”.
 
 Kungsbacka kommun             Rapport                          15
 
@@ -1091,10 +1091,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -1153,11 +1153,11 @@ totalt - helhetssyn
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -1233,12 +1233,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %     73 %      75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %     86 %      88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 103 92
 målvärde 2030 är 70.
@@ -1267,7 +1267,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,86      1,79     1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 113      115       151
@@ -1289,8 +1289,8 @@ total (kWh)
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -1348,8 +1348,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -1397,11 +1397,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -2437,9 +2437,9 @@ Bygg- och miljöförvaltningen har upprättat förslag till ombudget och resulta
 Byggnadsnämnden redovisar ett positivt resultat jämför med budget 2025 på
 1 702 000 kronor. Nämnden begär följande resultatdisponering:
 
-* Kvarvarande budget för internränta, 7 000 kronor, återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 7 000 kronor, återredovisas enligt kommunens
 Ekonomistyrprinciper.
-* Resterande överskott, 1 695 000 kronor, förs till nämndens resultatfond. Beloppet
+\* Resterande överskott, 1 695 000 kronor, förs till nämndens resultatfond. Beloppet
 inkluderar överskott för projektbudget kartutveckling på 4 000 kronor.
 
 Beslutsunderlag
@@ -2739,7 +2739,7 @@ Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupp
 avtalsuppföljning
 
 För denna risk har tre granskningsaktiviteter genomförts under 2025
-1. Uppföljning av direktupphandlingar (köpnivå 4–5)
+1\. Uppföljning av direktupphandlingar (köpnivå 4–5)
 
 Granskning har genomförts av fyra direktupphandlingar enligt urval från Inköp. Vid närmare granskning
 visade sig en vara ett köp enligt avtal så i praktiken har tre granskningar gjorts. Generellt visar granskningen
@@ -2747,10 +2747,10 @@ att förvaltningen följer gällande process i mycket hög utsträckning och att
 vissa brister när det gäller dokumentation. Vid intervjuer har vi konstaterat att detta beror på att användarna
 upplever att det i vissa fall är otydligt vad som ska dokumenteras, men också hur och var. Dialog har förts med
 personalen vid granskningen därför ser förvaltningen inget behov av ytterligare åtgärder baserat på resultatet.
-2. Granskning av köp över direktupphandlingsnivån (köpnivå 6) utanför regelverket
+2\. Granskning av köp över direktupphandlingsnivån (köpnivå 6) utanför regelverket
 Ingen direktupphandling på denna nivå har genomförts i förvaltningen under perioden.
 
-3. Avtalsuppföljning enligt gällande styrdokument
+3\. Avtalsuppföljning enligt gällande styrdokument
 Uppföljning av tre avtal har granskats enligt urval från Inköp. Det är avtal för teckenspråkstolk,
 verksamhetssystemet ByggR samt ramavtal för "konsulttjänster - utvecklare". Granskningen visar att
 avtalsuppföljning genomförts för samtliga avtal i enlighet med styrdokumenten. Frekvensen varierar beroende
@@ -2792,7 +2792,7 @@ Kommunövergripande risk: förvaltningarnas arbete med att utveckla krislednings
 verksamhet
 
 För denna risk har två granskningsaktiviteter genomförts under 2025
-1. Uppföljning av förvaltningarnas systematiska beredskapsarbete
+1\. Uppföljning av förvaltningarnas systematiska beredskapsarbete
 Granskningen visar att bygg- och miljöförvaltningens systematiska beredskapsarbete har sammanställts i en
 årsberättelse. De viktigaste punkterna som lyfts är:
 
@@ -2807,7 +2807,7 @@ Stabsövningar - Praktiska övningar i stabsmetodik har genomförts
 •  Krisledningsstaben har gjort en lärande övning (heldag) i april 2025 samt en kortare beredskapsövning
 (svara på SMS från beslutsfattaren)
 
-2. Granskning av kontinuitetshantering
+2\. Granskning av kontinuitetshantering
 Granskningen visar att arbete gjorts för att ta fram kontinuitetsplaner för förvaltningens kritiska verksamheter.
 Arbetet är i slutskedet för livsmedelskontroll, miljöbalkstillsyn och utlämnande av allmän handling. Geodata
 har påbörjat arbetet.
@@ -3193,7 +3193,7 @@ k
 n
 a
 M
-_B                                                                      Besöksadress
+\_B                                                                      Besöksadress
 U
 K
 m
@@ -3298,7 +3298,7 @@ av offentlig plats m.m.
 
 Avgiften får tas ut enligt de grunder som har beslutats av kommunfullmäktige.
 
-_____
+\_____
 
 Kungsbacka kommun föreskriver följande med stöd av förordningen (1993:1632) med bemyndigande för
 
@@ -3352,7 +3352,7 @@ Bilaga 3 – Förteckning över platser som jämställs med offentlig plats enli
 Bilaga 4 – Information om annan lagstiftning
 Bilaga 5 – Områden där passiv insamling av pengar inte får ske enligt 14 b §.
 
-____
+\____
 
 Lokala ordning sföreskrifter   Sida 2 av 7
 
@@ -3383,12 +3383,12 @@ Områden som jämställs med offentlig plats
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och dessa föreskrifter
 tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
-3. Parkområde i anslutning till kulturhuset Fyren
-4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och punkt 2
-5. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
-6. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
+1\. Begravningsplats
+2\. Kyrkogård
+3\. Parkområde i anslutning till kulturhuset Fyren
+4\. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och punkt 2
+5\. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
+6\. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet som hör till en förskola eller skolas verksamhet,
 jämställs med offentlig plats endast utanför verksamhetstid och vid tillämpning av 21 § punkt 1 i dessa
@@ -3569,15 +3569,15 @@ Vistelseförbud för hund
 21 §
 
 Hund får inte vistas på
-1.
+1\.
 a. Allmän lekplats
 b. Allmän anläggning för lek och aktivitet
 c. Annan anläggning för lek och aktivitet som enligt 3 § i dessa föreskrifter jämställs med offentlig
 plats
 
-2.   Tingbergsvallen i Kungsbacka
+2\.   Tingbergsvallen i Kungsbacka
 
-3.   Badbrygga och badflotte på badplats som enligt 3 § i dessa föreskrifter jämställs med offentlig plats
+3\.   Badbrygga och badflotte på badplats som enligt 3 § i dessa föreskrifter jämställs med offentlig plats
 Vistelseförbudet gäller inte lek- eller aktivitetsyta avsedd för hund såsom hundrastgård eller agilitybana.
 
 Överträdelse av lokal ordningsföreskrift
@@ -3718,7 +3718,7 @@ Samhällsbyggnadschef               Verksamhetschef plan
 
 a
 
-MÅ $S:7>1
+MÅ \$S:7>1
 
 MÅ 10:1>1
 
@@ -3758,7 +3758,7 @@ GATA Lokalgata sammanlagt max 25m, per bostadsenhet.
 [NATUR | Naturmark för dagvattenanläggning hy Högsta nockhöjd på bostadshus är [siffra] meter.
 ha Högsta nockhöjd på komplementhus är [siffra] meter.
 Kvartersmark
-- Takvinkel
+\- Takvinkel
 B Bostäder. O; Största takvinkel för bostadshus är [siffra] grader.
 
 02 Minsta takvinkel för byggnad är [siffra] grader.
@@ -3833,10 +3833,10 @@ ATT [SNETT -
 Byggnadshöjd
 (beräknas efter markens medelnivå)
 Frillesås
-+ 'Golvnivå Marknivå
+\+ 'Golvnivå Marknivå
 Vv (i meter över nollplanet) )
 | Vv 4
-- VA . . Z . Z -”- VA sr VA VA . Z --
+\- VA . . Z . Z -”- VA sr VA VA . Z --
 Principskiss över hur höjder och taklutning beräknas
 | MA 3:18 Detaljplan för bostäder på Samrådshandling
 Detaljplanen är baserad på koordinatsystemet Skala 1:1000 i A1, 1:2000 i A3 TECKENFÖRKLARING GRUNDKARTA Aktualiseringsdatum för grundkarta: 2025-12-19 o Beslutsdatum | Instans
@@ -3889,7 +3889,7 @@ As | | ch Detaljplan för bostäder på Samrådshandling
 Detaljplanen är baserad på koordinatsystemet Skala 1:1000 i A1, 1:2000 i A3 TECKENFÖRKLARING GRUNDKARTA Aktualiseringsdatum för grundkarta: 2025-12-19 > Beslutsdatum | Instans
 SWEREF 991200 0 10 20 30 40 50 100 m Må 3: 1 5 Samrådsbeslut
 och höjdsystemet Rh 2000 | L L N L I | Fastighetsgräns ! Höjdkurva 1 m oo2e dd IBN EXX
-APELSINEN Traktnamn, kvartersnamn 5 Höjdkurva 5 m i Fjärås RAD - $
+APELSINEN Traktnamn, kvartersnamn 5 Höjdkurva 5 m i Fjärås RAD - \$
 214 5 Registernummer, tomtnummer Vägkant, matarväg |
 Sd Bostadshus fasad, resptak = —-——————- Vägkant, större väg Kungsbacka kommun åååå-mm-dd IBN SXX
 FE-TES Uthus fasad, resptak = ----------- Vägkant, mindre väg ;s Antagande
@@ -4489,10 +4489,10 @@ vara undertecknat av exploatören och godkänt av berörd politisk instans innan
 antas.
 I det här projektet kommer exploateringsavtalet att omfatta
 
-- Definition av exploateringsområdet.
+\- Definition av exploateringsområdet.
 
-- Tidsplan för utbyggnad.
-- Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
+\- Tidsplan för utbyggnad.
+\- Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
 
 Vid kommunalt huvudmannaskap utför kommunen utbyggnad av allmän plats på
 exploatörens bekostnad (exploateringsbidrag). Utbyggnaden sker till självkostnadspris och
@@ -4501,19 +4501,19 @@ fördelas vid behov mellan exploatörer, enligt reglerna om gatukostnader i PBL 
 löpande i takt med att området byggs ut.
 Exploatören ansvarar för samtliga åtgärder inom kvartersmark för bostadsändamål.
 
-- Principer för marköverlåtelser mellan kommunen och exploatören.
+\- Principer för marköverlåtelser mellan kommunen och exploatören.
 
-- Principer för upplåtelse av mark för allmänna VA-ledningar och bredband inom området.
-- Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
+\- Principer för upplåtelse av mark för allmänna VA-ledningar och bredband inom området.
+\- Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
 
-- Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
+\- Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
 plankostnadsavtalet.
 
-- Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
-- Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att säkerställa
+\- Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\- Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att säkerställa
 
 exploatörens åtaganden.
-- Övriga frågor som behöver regleras för exploateringsområdets rationella och ändamålsenliga
+\- Övriga frågor som behöver regleras för exploateringsområdets rationella och ändamålsenliga
 utbyggnad.
 
 Avtalet medför bland annat att detaljplanens genomförande säkerställs ekonomiskt samt att
@@ -4998,8 +4998,8 @@ Samrådshandling                                            26 (49)
 Detaljplan för bostäder inom fastighet Må 3:15     Datum: 2026-01-20
 
 Statusklassning idag enligt VISS är:
-- Ekologisk status: Otillfredsställande
-- Kemisk status: Uppnår ej god
+\- Ekologisk status: Otillfredsställande
+\- Kemisk status: Uppnår ej god
 
 Den ekologiska statusen är otillfredsställande pga påväxt av kiselalger. Den kemiska statusen
 uppnår ej god pga halter för bromerande difenyleter samt kvicksilver och
@@ -5468,17 +5468,17 @@ Samrådshandling                                            37 (49)
 Detaljplan för bostäder inom fastighet Må 3:15     Datum: 2026-01-20
 
 Ovan: karta med beskrivna gator.
-1) Väg 932 – Norr om Fjärås i höjd med Lundsberg 2022 fordon/dygn (ÅDT), mätår 2014
+1\) Väg 932 – Norr om Fjärås i höjd med Lundsberg 2022 fordon/dygn (ÅDT), mätår 2014
 Andel tung trafik 148 fordon/dygn (ÅDT) (7%)
 
-2) Väg 932 – Söder om området, i höjd med Fjärås station 3923 fordon/dygn (ÅDT), mätår
+2\) Väg 932 – Söder om området, i höjd med Fjärås station 3923 fordon/dygn (ÅDT), mätår
 2018 Andel tung trafik 355 fordon/dygn (ÅDT) (9%)
-3) Väg 932 – Söder om cirkulation vid Måvägen/Åkerövägen 4600 fordon/dygn, mätår 2016
+3\) Väg 932 – Söder om cirkulation vid Måvägen/Åkerövägen 4600 fordon/dygn, mätår 2016
 Andel tung trafik, uppgifter saknas
 
-4) Väg 934 – Väster om cirkulation vid väg 932 2509 fordon/dygn (ÅDT), mätår 2014 Andel
+4\) Väg 934 – Väster om cirkulation vid väg 932 2509 fordon/dygn (ÅDT), mätår 2014 Andel
 tung trafik 146 fordon/dygn (ÅDT) (6%)
-5) Väg 934 – Öster om cirkulation vid väg 932 2085 fordon/dygn (ÅDT), mätår 2014 Andel
+5\) Väg 934 – Öster om cirkulation vid väg 932 2085 fordon/dygn (ÅDT), mätår 2014 Andel
 tung trafik 159 fordon/dygn (ÅDT) (8%)
 
 Gång- och cykeltrafik

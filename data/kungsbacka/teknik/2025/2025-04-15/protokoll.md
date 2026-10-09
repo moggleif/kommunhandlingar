@@ -222,7 +222,7 @@ Sammanfattning av ärendet
 Maria Losman (MP) och Elisabeth Sahlsten (MP) har inkommit med en motion om
 att komplettera de lokala ordningsföreskrifterna med tydligare regler för användandet
 av pyrotekniska varor. Motionen anmäldes i kommunfullmäktige den 12 december
-2024.
+2024\.
 Motionärerna menar att de regler som finns i de lokala ordningsföreskrifterna (att
 den som skjuter av fyrverkerier eller andra pyrotekniska varor ska visa största
 
@@ -436,41 +436,41 @@ Sammanfattning av ärendet
 Under perioden 13 mars och 7 april inkom följande skrivelser till nämnden för
 Teknik:
 
-- Medborgardialog om bullerskydd längs Onsalavägen
-- Beslut § 45 - Fyllnadsval för uppdrag som ersättare i nämnden för Teknik och
+\- Medborgardialog om bullerskydd längs Onsalavägen
+\- Beslut § 45 - Fyllnadsval för uppdrag som ersättare i nämnden för Teknik och
 partirepresentant i Eksta Bostads AB och Tempohus Kungsbacka AB, KS-2025-
 00107
 
-- Beslut § 35 - Godkännande av projekt och finansiering av gång- och cykelväg
+\- Beslut § 35 - Godkännande av projekt och finansiering av gång- och cykelväg
 Södra Rågelundsvägen - Lurendalsvägen, KS-2024-00854
-- Tjänsteskrivelse - Godkännande av projekt och finansiering av gång- och cykelväg
+\- Tjänsteskrivelse - Godkännande av projekt och finansiering av gång- och cykelväg
 
 Södra Rågelundsvägen - Lurendalsvägen, KS-2024-00854
-- Beslut KF § 33 - Fastställande av koncernbudget 2025, KS-2023-00686
+\- Beslut KF § 33 - Fastställande av koncernbudget 2025, KS-2023-00686
 
-- Tjänsteskrivelse koncernbudget 2025 - KS-2023-00686
-- Eksta Budget 2025 - KS-2023-00686
+\- Tjänsteskrivelse koncernbudget 2025 - KS-2023-00686
+\- Eksta Budget 2025 - KS-2023-00686
 
-- Eksta investeringar och lånebehov 2025-2027 - KS-2023-00686
-- Kommunbudget 2025, plan 2026-2027, antagen av kommunfullmäktige 2024-06-
+\- Eksta investeringar och lånebehov 2025-2027 - KS-2023-00686
+\- Kommunbudget 2025, plan 2026-2027, antagen av kommunfullmäktige 2024-06-
 13, § 91
 
-- Medborgardialog: Bullerskydd på Onsalavägen
-- Medborgardialog: Hantering av parkeringsanmarkning
+\- Medborgardialog: Bullerskydd på Onsalavägen
+\- Medborgardialog: Hantering av parkeringsanmarkning
 
-- Beslut KS § 34- Vattentjänstplan för Kungsbacka kommun, KS-2023-00852
-- Vattentjänstplan för Kungsbacka kommun, 2025-03-04
+\- Beslut KS § 34- Vattentjänstplan för Kungsbacka kommun, KS-2023-00852
+\- Vattentjänstplan för Kungsbacka kommun, 2025-03-04
 
-- Tjänsteskrivelse - Vattentjänstplan för Kungsbacka kommun
+\- Tjänsteskrivelse - Vattentjänstplan för Kungsbacka kommun
 
-- Kommunens beslut om införande av tolkavgift upphävs - 12826-24
-- Medborgardialog: Vattenbrist och avloppsutsläpp, frågor om VA
+\- Kommunens beslut om införande av tolkavgift upphävs - 12826-24
+\- Medborgardialog: Vattenbrist och avloppsutsläpp, frågor om VA
 
-- Medborgardialog, uppföljning av: Hantering av parkeringsanmärkning
-- Beslut - 202300255 - KS - § 54
+\- Medborgardialog, uppföljning av: Hantering av parkeringsanmärkning
+\- Beslut - 202300255 - KS - § 54
 
-- Tjänsteskrivelse intern kontrollrapport 2025
-- Uppfoljningsrapport intern kontroll 2024 (Kun
+\- Tjänsteskrivelse intern kontrollrapport 2025
+\- Uppfoljningsrapport intern kontroll 2024 (Kun
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E57B3DE4BBBADBFAF54C0A7DAB160C908255208446
@@ -483,14 +483,14 @@ Nämnden för Teknik
 Datum
 2025-04-15
 
-- Beslut - 202400828 - KS - § 57
-- Tjänsteskrivelse - Fördelning av medel avsatta för arbete med civil beredskap 2025
+\- Beslut - 202400828 - KS - § 57
+\- Tjänsteskrivelse - Fördelning av medel avsatta för arbete med civil beredskap 2025
 
-- Grundläggande granskning 2024 - Kungsbacka, slutlig
-- Följebrev grundläggande granskning 2024 BN, FG, GA, IF, MH, SE, TE, VO,
+\- Grundläggande granskning 2024 - Kungsbacka, slutlig
+\- Följebrev grundläggande granskning 2024 BN, FG, GA, IF, MH, SE, TE, VO,
 K&F, VN - Kungsbacka kommun
 
-- Beslut om tillstånd att uppföra skylt vid Inlagsleden, på fastigheten Kungsbacka
+\- Beslut om tillstånd att uppföra skylt vid Inlagsleden, på fastigheten Kungsbacka
 6:1, Kungsbacka kommun - 8796-2024
 
 Beslutsgång
@@ -520,8 +520,8 @@ Sammanfattning av ärendet
 
 Nämnden informeras om bland annat:
 
--  SKR:s presidiedagar om förändringar inom plan-, bygg- och miljöområdet
--  Den kommande dialogen med revisorerna på majnämnden, avseende 2025
+\-  SKR:s presidiedagar om förändringar inom plan-, bygg- och miljöområdet
+\-  Den kommande dialogen med revisorerna på majnämnden, avseende 2025
 
 Beslutsgång
 

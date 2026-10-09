@@ -290,7 +290,7 @@ ersättningsrektyrering av enhetschef på miljö- och hälsoskyddsavdelningen.
 
 Vidare får nämnden information om såkallat Kommungemensamt handslag för
 välfärdsutveckling genom digitalisering, beslutad av SKR styrelse den 15 december
-2023. Handslaget har resulterat i fyra olika initiativ som berör samverkan i frågor om
+2023\. Handslaget har resulterat i fyra olika initiativ som berör samverkan i frågor om
 digitalisering och ska fungera som en kommungemensam utvecklingsportfölj.
 Kungsbacka kommun har accepterat förfrågan om att delta i fyra initiativ.
 
@@ -452,7 +452,7 @@ Byggnadsnämnden noterar informationen till protokollet.
 Sammanfattning av ärendet
 Peter Sebestyén, enhetschef, ger byggnadsnämnden en redovisning av ärendemängd
 och handläggningstider för tjänster på geodata- och bygglovsavdelningen per oktober
-2024.
+2024\.
 
 Beslutsgång
 Ordförande Thure Sandén (M) prövar om byggnadsnämnden kan notera
@@ -1429,20 +1429,20 @@ Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet
 
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser:
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften.
 
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen.
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området.
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området.
 
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området.
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom
 ett område för landsbygdsutveckling i strandnära lägen får man också beakta om ett
@@ -1660,21 +1660,21 @@ Datum
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet får
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser:
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 
 strandskyddets syften.
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen.
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området.
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området.
 
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området.
 
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom
 ett område för landsbygdsutveckling i strandnära lägen får man också beakta om ett
 strandnära läge för en byggnad, verksamhet, anläggning eller åtgärd bidrar till

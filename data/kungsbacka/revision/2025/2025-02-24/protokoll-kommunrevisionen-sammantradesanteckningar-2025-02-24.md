@@ -198,7 +198,7 @@ Projektplan Grundläggande granskning 2025
 Beslut
 Kommunrevisionen godkänner projektplanen avseende grundläggande granskning
 
-2025.
+2025\.
 
 Sammanfattning
 Karin Knutsson Friberg (EY) föredrar ärendet.

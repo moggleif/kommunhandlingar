@@ -454,13 +454,13 @@ Kommunfullmäktige beslutade 2025-06-16 att fastställa kommunövergripande mål
 som utgångspunkt för nämndens arbete med verksamhetsplanering. I
 verksamhetsplanen ingår bland annat.
 
-* Nämndens övergripande inriktning för arbetet i förvaltningen
-* Nämndmål
+\* Nämndens övergripande inriktning för arbetet i förvaltningen
+\* Nämndmål
 
-* Nämndens direktiv till förvaltningen
-* Ramfördelning driftbudget
+\* Nämndens direktiv till förvaltningen
+\* Ramfördelning driftbudget
 
-* Investeringsbudget
+\* Investeringsbudget
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser i arbetet med
 nämndbudget fatta beslut om verksamhetsplan och ramfördelning. Till ärendet
 bifogas nämndbudget 2026.
@@ -533,11 +533,11 @@ kommunernas kostnadsutveckling. För oktober 2025 är PKV 0,7 procent. Denna
 Taxetabell A22-23 är kopplad till milliprisbasbelopp, mbpp. Prisbasbeloppet ökar
 från 58 800 kronor 2025 till 59 200 kronor 2026, vilket motsvarar en ökning med 0,7
 procent. Bygg- och miljöförvaltningen föreslår att Byggnadsnämnden:
-* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
+\* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
 kommuns plan- och byggverksamhet från 1 391 kronor per timme till 1 400 kronor
 per timme i enlighet med punkt fyra i taxans bestämmelser.
 
-* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
+\* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
 handläggningskostnad per timme (A1-21) samt prisbasbelopp för 2026 (A22-23) i
 enlighet med punkt fyra i taxan.
 
@@ -552,7 +552,7 @@ Byggnadsnämnden
 Datum
 2025-12-11
 
-* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
+\* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
 A1-23 gäller från och med 1 januari 2026.
 Förvaltningen beräknar att indexjusteringen motsvarar en intäktsökning på cirka 100
 000 kronor baserat på preliminär budget för 2026. De nya beloppen framgår av
@@ -975,7 +975,7 @@ Byggnadsnämndens arbetsutskott gav den 20 juni 2024 samhällsbyggnadskontoret i
 uppdrag att upprätta detaljplan för skola inom Åsa 5:246 och Åsa 4:142.
 
 Planförslaget har varit utställt för granskning under tiden 19 augusti – 12 september
-2025. Under granskningstiden inkom 16 skrivelser. Inkomna synpunkter berör i
+2025\. Under granskningstiden inkom 16 skrivelser. Inkomna synpunkter berör i
 huvudsak Inkomna synpunkter berör i huvudsak att skolan blir för hög för att passa
 in i Åsas bebyggelsestruktur samt att skolan försämrar dagsljusförhållandena för
 intilliggande fastighet i öster. Se vidare i granskningsutlåtandet.

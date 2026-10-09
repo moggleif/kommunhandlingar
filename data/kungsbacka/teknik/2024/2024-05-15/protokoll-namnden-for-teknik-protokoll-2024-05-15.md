@@ -272,42 +272,42 @@ Sammanfattning av ärendet
 Under perioden 17 april – 7 maj har följande skrivelser inkommit till nämnden för
 Teknik:
 
-- Beslut KS-2023-00704 KS § 51 Årsredovisning 2023 för Kungsbacka kommun
-- Årsredovisning 2023 för Kungsbacka kommun
+\- Beslut KS-2023-00704 KS § 51 Årsredovisning 2023 för Kungsbacka kommun
+\- Årsredovisning 2023 för Kungsbacka kommun
 
-- Tjänsteskrivelse KS-2023-00704 - Årsredovisning 2023 för Kungsbacka kommun
-- Beslut KS-2024-00238 - KS § 52 Revisionsberättelse 2023 för Kungsbacka
+\- Tjänsteskrivelse KS-2023-00704 - Årsredovisning 2023 för Kungsbacka kommun
+\- Beslut KS-2024-00238 - KS § 52 Revisionsberättelse 2023 för Kungsbacka
 kommun
 
-- Granskningsredogörelse 2023 Kungsbacka kommun KS-2024-00238
-- Revisionsberättelse 2023 Kungsbacka kommun KS-2024-00238
+\- Granskningsredogörelse 2023 Kungsbacka kommun KS-2024-00238
+\- Revisionsberättelse 2023 Kungsbacka kommun KS-2024-00238
 
-- Tjänsteskrivelse KS-2023-00851
-- Program utförare KF 2024-04-09 § 60
+\- Tjänsteskrivelse KS-2023-00851
+\- Program utförare KF 2024-04-09 § 60
 
-- Protokollsutdrag - Beslut KS-2023-00851 - KS § 60
+\- Protokollsutdrag - Beslut KS-2023-00851 - KS § 60
 
-- Protokollsutdrag, Beslut KS-2023-00627 - KS § 59
-- Regler för fakturering och kravhantering KF 2024-04-09 § 59
+\- Protokollsutdrag, Beslut KS-2023-00627 - KS § 59
+\- Regler för fakturering och kravhantering KF 2024-04-09 § 59
 
-- Gemensamt reglemente för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-- KS reglemente 2024-04-09 § 59
+\- Gemensamt reglemente för kommunstyrelsen och nämnder KF 2024-04-09 § 59
+\- KS reglemente 2024-04-09 § 59
 
-- Finansverksamhet, riktlinjer KF 240904 § 59
-- Finansverksamhet, policy KF 240409 § 59
+\- Finansverksamhet, riktlinjer KF 240904 § 59
+\- Finansverksamhet, policy KF 240409 § 59
 
-- Tjänsteskrivelse KS-2023-00627
-- Protokollsutdrag 2024-04-09 KF § 58 Antagande av taxa för färdtjänst 2024, KS-
+\- Tjänsteskrivelse KS-2023-00627
+\- Protokollsutdrag 2024-04-09 KF § 58 Antagande av taxa för färdtjänst 2024, KS-
 2023-00666
 
-- Taxa för särskild kollektivtrafik - Färdtjänst KF 2024-04-09 § 58
-- Tjänsteskrivelse KS-2023-00666
+\- Taxa för särskild kollektivtrafik - Färdtjänst KF 2024-04-09 § 58
+\- Tjänsteskrivelse KS-2023-00666
 
-- Protokollsutdrag 2024-04-09 KF § 57 Upphävande av tillämpningsregler för
+\- Protokollsutdrag 2024-04-09 KF § 57 Upphävande av tillämpningsregler för
 särskild kollektivtrafik
 
-- Ett förslag på förnybar energi i Kungsbacka.
-- E-post - Dialogfrågor till presidiet, Revisionens grundläggande granskning 2024
+\- Ett förslag på förnybar energi i Kungsbacka.
+\- E-post - Dialogfrågor till presidiet, Revisionens grundläggande granskning 2024
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E3584DA5204F452CED7A18D726FFCF095F8338A92C
@@ -320,16 +320,16 @@ Nämnden för Teknik
 Datum
 2024-05-15
 
-- Frågor till nämnden för Teknik - Revisionens grundläggande granskning 2024
-- E-post - Skriftliga frågor från revisionen, Förorenade områden, grundläggande
+\- Frågor till nämnden för Teknik - Revisionens grundläggande granskning 2024
+\- E-post - Skriftliga frågor från revisionen, Förorenade områden, grundläggande
 granskning 2024
 
-- Skriftliga frågor från revisionen, Förorenade områden, grundläggande granskning
+\- Skriftliga frågor från revisionen, Förorenade områden, grundläggande granskning
 2024
-- E-post - Skriftliga frågor från revisionen, skyddade personuppgifter, grundläggande
+\- E-post - Skriftliga frågor från revisionen, skyddade personuppgifter, grundläggande
 
 granskning 2024
-- Skriftliga frågor från revisionen - skyddade personuppgifter, grundläggande
+\- Skriftliga frågor från revisionen - skyddade personuppgifter, grundläggande
 granskning 2024
 
 Beslutsgång
@@ -354,7 +354,7 @@ Anmälan av delegeringsbeslut 2024
 Beslut
 
 Nämnden för Teknik noterar delegeringsbeslut fattade och rapporterade under april
-2024.
+2024\.
 
 Sammanfattning av ärendet
 Nämnden för Teknik har överlåtit sin beslutanderätt till utskott, ordförande och
@@ -392,8 +392,8 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Bytardag den 25 maj med Göteborgs stadsmission
--  Aktuellt från Svenskt vattens Vattenstämma 2024
+\-  Bytardag den 25 maj med Göteborgs stadsmission
+\-  Aktuellt från Svenskt vattens Vattenstämma 2024
 
 Beslutsgång
 

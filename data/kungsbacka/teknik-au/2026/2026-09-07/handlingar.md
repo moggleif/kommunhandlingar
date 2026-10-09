@@ -435,7 +435,7 @@ Initiativärende    angående      –
 Hastighetsbegränsning          Hällingsjövägen
 
 Förslag till beslut i Nämnden för Teknik:
-1. Nämnden för Tekniks arbetsutskott ger förvaltningen i uppdrag att hemställa hos
+1\. Nämnden för Tekniks arbetsutskott ger förvaltningen i uppdrag att hemställa hos
 Trafikverket om en sänkning hastighetsbegränsningen till 50km/h på Hällingsjövägen
 mellan busshållplatserna Ramsjödalsvägen och Hjälmeskulla.
 

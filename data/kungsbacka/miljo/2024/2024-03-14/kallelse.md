@@ -69,7 +69,7 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-7.  Upphävande av äldre    2023-05970 Förslag till beslut          30
+7\.  Upphävande av äldre    2023-05970 Förslag till beslut          30
 styrdokument                                                   min
 Nämnden för Miljö & Hälsoskydd
 upphäver:

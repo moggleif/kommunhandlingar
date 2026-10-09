@@ -93,7 +93,7 @@ Delår 2
 Beslut
 
 Nämnden för Gymnasium & Arbetsmarknad godkänner delårsrapport per augusti
-2024.
+2024\.
 
 Paragrafen justeras omedelbart.
 

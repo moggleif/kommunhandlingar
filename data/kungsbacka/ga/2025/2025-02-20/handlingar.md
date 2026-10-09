@@ -218,7 +218,7 @@ Mål och strategier ............................................................
 
 AGERA FÖR SÄKER VÅRD .........................................................................................................
 
-5. Resultat och analys .......................................................................................................18
+5\. Resultat och analys .......................................................................................................18
 
 Avvikelser .....................................................................................................................22
 
@@ -247,7 +247,7 @@ SAMMANFATTNING
 Under 2023 skedde byte av dokumentationssystem för hela elevhälsan i Kungsbacka
 Kommun. För EMI (Elevhälsans medicinska insats) innebar det ett helt nytt journalsystem
 och fortsatt implementering och utveckling av det har varit fortsatt ett stort arbete under
-2024. Stort fokus har varit på att beakta patientsäkerheten, att vi kan dokumentera så att vi
+2024\. Stort fokus har varit på att beakta patientsäkerheten, att vi kan dokumentera så att vi
 uppfyller alla krav på säker och jämlik dokumentation inom EMI där journalföringsplikt gäller
 vid samtliga besök och insatser inom den medicinska elevhälsan.
 
@@ -403,12 +403,12 @@ PSL 2010:659, 3 kap. 1 §, SOSFS 2011:9, 3 kap. 1-3 §
 
 Elevhälsans medicinska del har alltid ett övergripande mål att patientsäkert kunna erbjuda
 
-- Förebyggande och hälsofrämjandeinsatser för att stödja elever
-- Erbjuda vaccinationer enligt FHM vaccinationsprogram (komplettering gymnasieskolan)
-- Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp hen är
+\- Förebyggande och hälsofrämjandeinsatser för att stödja elever
+\- Erbjuda vaccinationer enligt FHM vaccinationsprogram (komplettering gymnasieskolan)
+\- Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp hen är
 
 i behov av.
-- Utföra enklare sjukvårdsinsatser
+\- Utföra enklare sjukvårdsinsatser
 
 Utifrån dessa övergripande mål tas även fram identifierade mål för patientsäkerhetsarbete.
 De bygger på det systematiska kvalitetsarbete inom elevhälsans medicinska del som sker
@@ -789,10 +789,10 @@ ledord bygger på intern samverkan som tidigare beskrivits. Intern samverkan bes
 
 <!-- sida 20 -->
 
-- Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
-- Ledningsmöten Elevhälsans medicinska insats
-- Samverkan mellan EMI samt övrig elevhälsa
-- Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
+\- Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
+\- Ledningsmöten Elevhälsans medicinska insats
+\- Samverkan mellan EMI samt övrig elevhälsa
+\- Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
 
 3.Adekvat kunskap och kompetens
 
@@ -857,41 +857,41 @@ Handledning i grupp erbjuds.
 
 Kontinuerlig fortbildning (återkommande) EMI Gymnasieskolan
 
-- Kompetensutvecklingsdag (heldag)
-- Yrkesspecifik utbildning i journalsystem (Prorenata)
-- Skolsköterskedagarna
-- Kategorimöten
+\- Kompetensutvecklingsdag (heldag)
+\- Yrkesspecifik utbildning i journalsystem (Prorenata)
+\- Skolsköterskedagarna
+\- Kategorimöten
 
 Kompetensutvecklingsinsatser under 2024 EMI Centralt
 
-- Tillväxtutbildning (Region Halland- Anton Holmberg-Endokrinolog)
-- Diabetesutbildning (Region Halland Alina Heringhaus-Diabetessjuksköterska
-- NPF- Flickor med ADHD/Autism (VGR- Svenny Kopp- Barnneurolog)
-- ANTDS
-- Skolsköterskedagarna Stockholm
+\- Tillväxtutbildning (Region Halland- Anton Holmberg-Endokrinolog)
+\- Diabetesutbildning (Region Halland Alina Heringhaus-Diabetessjuksköterska
+\- NPF- Flickor med ADHD/Autism (VGR- Svenny Kopp- Barnneurolog)
+\- ANTDS
+\- Skolsköterskedagarna Stockholm
 
-- Tillväxtprojektdag – Halmstad sjukhus
-- Barnahus Halland – Utbildning/diskussion
+\- Tillväxtprojektdag – Halmstad sjukhus
+\- Barnahus Halland – Utbildning/diskussion
 
 16
 
 <!-- sida 22 -->
 
-- Skolfrånvaro- Basutbildning
-- Webbutbildningar (Skyddade uppgifter, Barn och cancer, Trauma hos barn,
+\- Skolfrånvaro- Basutbildning
+\- Webbutbildningar (Skyddade uppgifter, Barn och cancer, Trauma hos barn,
 Obesitas(viktmobbning)
-- Heldagsutbildning ”Sexit” – EMI Halland (Länsstyrelsen föreläsare)
+\- Heldagsutbildning ”Sexit” – EMI Halland (Länsstyrelsen föreläsare)
 
 Kontinuerlig fortbildning (återkommande) EPI Centralt
-- Kompetensutvecklingsdag (heldag) x 2
+\- Kompetensutvecklingsdag (heldag) x 2
 
-- Yrkesspecifik utbildning i journalsystem (Prorenata)
-- PFISOS dagarna (Ingen psykolog på gymnasiet deltog år 2024)
-- Kategorimöten (olika områden/patientsäkerhet)
+\- Yrkesspecifik utbildning i journalsystem (Prorenata)
+\- PFISOS dagarna (Ingen psykolog på gymnasiet deltog år 2024)
+\- Kategorimöten (olika områden/patientsäkerhet)
 
 Ingen ytterligare kompetensinsats gavs under 2024.
 
-4. Patienten som medskapare
+4\. Patienten som medskapare
 
 En grundläggande förutsättning för en säker vård är patientens och de
 närståendes delaktighet. Vården blir säkrare om patienten är välinformerad,
@@ -911,16 +911,16 @@ information digitalt via e-tjänst.
 Samtycke och/eller information mellan elevhälsans medicinska insats och
 elever/vårdnadshavare sker inom följande insatser:
 
-- Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
-- Information/samtycke vaccinationer inom basprogrammet
-- Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt för
+\- Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
+\- Information/samtycke vaccinationer inom basprogrammet
+\- Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt för
 vårdnadshavare. Hälsosamtalet är personcentrerad dialog mellan skolsköterska och elev
 
 som syftar till att främja hälsa och förebygga ohälsa. Här har elev och/eller
 vårdnadshavare förutsättningar till delaktighet och medskapande dels genom en
 webbaserad enkät inför samtalet som besvaras och ligger till grund för det enskilda
 samtalet (Under 20024 har även en engelsk version framtagits)
-- Information/samtycke om åtgärder som kan behövas initieras efter
+\- Information/samtycke om åtgärder som kan behövas initieras efter
 hälsosamtal/hälsobesök tas alltid ihop med elev/vårdnadshavare (finns undantag)
 
 17
@@ -996,7 +996,7 @@ Egenkontroller utförda under 2024
 
 Resultat gällande identifierade mål för 2024
 Analys
-1.
+1\.
 
 Analys
 2
@@ -1174,18 +1174,18 @@ Elevhälsans psykologiska insats (EPI)
 
 Under 2024 har inga avvikelser rapporterats inom EPI Gymnasium Kungsbacka Kommun.
 
-6. Mål och utmaningar för kommande år
+6\. Mål och utmaningar för kommande år
 
 Övergripande mål
 
 Elevhälsans medicinska del har alltid ett övergripande mål att patientsäkert kunna erbjuda
-- Förebyggande och hälsofrämjandeinsatser för att stödja elever
-- Erbjuda vaccinationer enligt FHM vaccinationsprogram (komplettera inom
+\- Förebyggande och hälsofrämjandeinsatser för att stödja elever
+\- Erbjuda vaccinationer enligt FHM vaccinationsprogram (komplettera inom
 gymnasieskolan)
 
-- Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp hen är
+\- Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp hen är
 i behov av.
-- Utföra enklare sjukvårdsinsatser
+\- Utföra enklare sjukvårdsinsatser
 
 Dessa mål säkerställs genom egenkontroller och kontinuerlig dialog med närmsta chef och
 VC HSL samt att erbjuda samtliga elever inom gymnasieskolan dessa insatser på bästa sätt.
@@ -1991,7 +1991,7 @@ Nämndens årsredovisning 2024
 
 Syftet är att lärarna ska kunna undervisa långsiktigt med en helhetssyn, och att betygen bättre ska spegla elevens
 kunskaper i slutet av studierna. Reformen träder i kraft 1 juli 2025, och kursbetygssystemet fasas ut helt till
-2030.
+2030\.
 
 Förvaltningen har utvecklat en plan för införandet av Gy25. Enheterna har egna planer som bygger på
 huvudmannens och syftar till ett smidigt införande. En styr- samt arbetsgrupp leder arbetet, och
@@ -2123,10 +2123,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad bidrar till måluppfyllelsen av detta kommunövergripande mål med
 tillhörande fokusområden genom att skapa trygga miljöer för elever, studerande och övriga målgrupper och
@@ -2183,11 +2183,11 @@ Brukarbedömning individ- och familjeomsorg totalt - helhetssyn 88 %
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad bidrar till måluppfyllelsen av detta kommunövergripande mål med
@@ -2229,7 +2229,7 @@ Indikatorer                                 Utfall Utfall Utfall Utfall
 Andelen elever som skattat sin egen livstillfredsställelse som god
 eller mycket god under elevhälsosamtalet, ÅK 4 i %
 88 %  88 %    85 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar metod utifrån
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar metod utifrån
 hälsosamtal med elever.)
 Andelen elever som skattat sin egen livstillfredsställelse som god
 eller mycket god under elevhälsosamtalet, ÅK 4 i % - Pojkar.
@@ -2239,22 +2239,22 @@ elever.)
 Andelen elever som skattat sin egen livstillfredsställelse som god
 eller mycket god under elevhälsosamtalet, ÅK 8 i %
 77 %  72 %    79 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar metod utifrån
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar metod utifrån
 hälsosamtal med elever.)
 Andelen elever som skattat sin egen livstillfredsställelse som god
 eller mycket god under elevhälsosamtalet, ÅK 8 i %
 92 %  93 %    92 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar metod utifrån
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar metod utifrån
 hälsosamtal med elever.)
 Andelen elever som har skattat sin egen livstillfredsställelse som god
 eller mycket god under elevhälsosamtalet, Gymnasiet ÅK 1 i% 68 % 65 % 73 %
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen livstillfredsställelse som god
 eller mycket god under elevhälsosamtalet, Gymnasiet ÅK 1 i% 88 % 85 % 86 %
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per invånare från 2020 till
 98    97
-2030. Startvärde 100, målvärde 2030 är 70.
+2030\. Startvärde 100, målvärde 2030 är 70.
 Avfall från kommunens verksamheter ska minska med 40 % per
 72,1  84,5
 heltidsanställd. Startvärde 100, målvärde 2030 är 60.
@@ -2323,8 +2323,8 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Sammanfattning av nämndens arbete med målet
 Kompetenscentrum fortsätter arbetet med samverkansparterna inom IOP, Idéburet offentligt partnerskap,
@@ -2521,8 +2521,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Sammanfattning av nämndens arbete med målet
 
 Mellan 2023 och 2024 minskade andelen elever som tog examen från nationella program, från 92,5 % år 2023
@@ -2588,9 +2588,9 @@ Nytt för i år är att vi inte har haft en skuld på anvisningar att ta emot fr
 kommuntalet för abo och kvotflyktingar 62 anvisningar (personer) och fördelningen ser ut enligt följande;
 
 Mottagna under året: 38
-- Vuxna: 22
+\- Vuxna: 22
 
-- Barn: 16
+\- Barn: 16
 Snabbaste vägen till bostad
 Under 2024 har fokus, utöver att säkerställa att man snabbt kommer igång med sin etablering, varit att stötta
 nyanlända att så snart som möjligt komma igång med genomgång av hur bostadsmarknaden fungerar, upprätta
@@ -2754,9 +2754,9 @@ och karriärvägar som väntar efter studierna.
 Kommentar på nämndmål
 En handlingsplan har utformats för förstärkt koppling till yrkeslivet där målen är:
 
-1. Förbereda elever för arbetslivet: Ge elever praktisk erfarenhet och förståelse för arbetslivet.
-2. Öka relevansen i undervisningen: Integrera arbetslivets krav och förväntningar i skolans läroplan.
-3. Bygga långsiktiga relationer: Skapa hållbara partnerskap med lokala företag/regionens företag och
+1\. Förbereda elever för arbetslivet: Ge elever praktisk erfarenhet och förståelse för arbetslivet.
+2\. Öka relevansen i undervisningen: Integrera arbetslivets krav och förväntningar i skolans läroplan.
+3\. Bygga långsiktiga relationer: Skapa hållbara partnerskap med lokala företag/regionens företag och
 organisationer.
 Både yrkesprogram och högskoleförberedande program omfattas av handlingsplanen. Aktiviteter som ingår är
 bland annat
@@ -2797,12 +2797,12 @@ behöriga till gymnasiet och fler elever som lämnar gymnasiet med fullständiga
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium och Arbetsmarknad har inte brutit ned detta kommunövergripande mål med
@@ -3308,15 +3308,15 @@ Inom förvaltningen omhändertas arbetet med kommunens övergripande arbetsmilj�
 ordinarie arbetsmiljöarbete och samverkanssystem, vilket inkluderar APT och samverkansgrupper (tillika
 skyddskommittéer). De områden som har identifierats att särskilt fokuseras på är:
 
-1. Påbörja arbetet med de forskningsbaserade friskfaktorerna som ska ingå i årshjulet och stödmaterial
+1\. Påbörja arbetet med de forskningsbaserade friskfaktorerna som ska ingå i årshjulet och stödmaterial
 för SAM.
-2. Utveckla stödmaterialet för SAM kopplat till risken för hot eller våld
-3. Utveckla stödmaterialet för SAM för att tydliggöra vilka arbetsmiljöförskrifter som verksamheterna
+2\. Utveckla stödmaterialet för SAM kopplat till risken för hot eller våld
+3\. Utveckla stödmaterialet för SAM för att tydliggöra vilka arbetsmiljöförskrifter som verksamheterna
 behöver ha kunskap om.
-4. Fortsatt utveckling av facklig samverkan
-5. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda upplever
+4\. Fortsatt utveckling av facklig samverkan
+5\. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda upplever
 att de har tillräckligt med kunskap, kompetens och befogenheter för att utföra sina uppgifter.
-6. Tydliggöra frågorna för uppföljningen av SAM-checklistan.
+6\. Tydliggöra frågorna för uppföljningen av SAM-checklistan.
 6.1.4 Sammanfattande bedömning
 
 Sammanfattningsvis tyder den årliga uppföljningen av det systematiska arbetsmiljöarbetet inom förvaltningen
@@ -3912,7 +3912,7 @@ Ombudgetering och resultatfond 2024
 Förslag till beslut
 Nämnden för Gymnasium & Arbetsmarknad godkänner förslag till ombudgetering och resultatfond
 
-2024. Paragrafen justeras direkt.
+2024\. Paragrafen justeras direkt.
 
 Sammanfattning av ärendet
 Nämnden för Gymnasium & Arbetsmarknad har upprättat ett förslag till ombudget och resultatfond för
@@ -4538,7 +4538,7 @@ De händelser som skett inom ram för försörjningsstöd och Planering & Uppfö
 med förvaltningens Kvalitetsrapport enligt SOSFS 2011:9.
 
 De 15 ärenden som tillhör LSS korttidstillsyn kommer också att analyseras och ingå Kvalitetsrapporten för
-2024.
+2024\.
 Förvaltningen fortsätter med att utveckla kvalitetsarbetet inom de verksamheter som berörs.
 
 13
@@ -4824,10 +4824,10 @@ utveckling utan även för att bygga en stark gemenskap.
 Barnkonventionen
 I barnkonventionen artikel 31 fastslås följande:
 
-1. Konventionsstaterna erkänner barnets rätt till vila och fritid, till lek och rekreation anpassad till
+1\. Konventionsstaterna erkänner barnets rätt till vila och fritid, till lek och rekreation anpassad till
 barnets ålder och rätt att fritt delta i det kulturella och konstnärliga livet.
 
-2. Konventionsstaterna ska respektera och främja barnets rätt att till fullo delta i det kulturella
+2\. Konventionsstaterna ska respektera och främja barnets rätt att till fullo delta i det kulturella
 och konstnärliga livet och ska uppmuntra tillhandahållandet av lämpliga och lika möjligheter till
 kulturell och konstnärlig verksamhet samt till rekreations och fritidsverksamhet.
 
@@ -4850,7 +4850,7 @@ starkt samhälle behöver en jämlik tillgång till kultur.
 
 Därför föreslår Socialdemokraterna kommunfullmäktige besluta:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur det går att införa
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur det går att införa
 Kulturell allemansrätt på skoltid i enlighet med motionens andemening
 
 /PeyGknarsson (S)
@@ -5044,7 +5044,7 @@ Transaktionsidentitet: 794456867166DDA4D5E5E10964620BE733BE9DAC0B
 <!-- sida 116 -->
 
 at
-<S Socialdemokraterna
+\<S Socialdemokraterna
 
 Motion 2024-09-09
 Ökat samarbete för barn och elevers hälsa
@@ -5083,7 +5083,7 @@ agerar kompletterande.
 För att stärka det förebyggande och hälsofrämjande arbetet inom i Kungsbacka kommun
 yrkar Socialdemokraterna att:
 
-- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
+\- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
 Grundskola, Nämnden för Gymnasium & Arbetsmarknad samt Nämnden för Individ &
 Familjeomsorg, i uppdrag att inrätta stående forum för samarbete med viktiga parter i
 arbetet med barn och elevers hälsa där fokus är på både riskfaktorer och
@@ -5328,7 +5328,7 @@ Ledamot Kommunfullmäktige
 
 Dnr: 10859-2024 Nr: 1 IK: 2. Begränsad
 
-Från:             Renée Ljung <reneeljung@hotmail.com>
+Från:             Renée Ljung \<reneeljung@hotmail.com>
 Skickat:          den 2 december 2024 07:33
 Till:             Justitieombudsmannen
 Ämne:             Ny JO anmälan
@@ -5492,7 +5492,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    3
 Nedan uppgifter avser en jämförelse av medianlönen mellan samtliga kommuner i Sverige och
 Kungsbacka kommun.
 
-*Riket =Alla kommuner i Sverige
+\*Riket =Alla kommuner i Sverige
 
 Löneläget inom respektive förvaltning skiljer sig åt. Kommunstyrelsens förvaltning följt av
 förvaltningarna för Gymnasium & Arbetsmarknad samt Bygg & Miljö placerar sig i toppen och
@@ -5518,7 +5518,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    4
 
 | 2021 2022 2023 2024 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Kungsbacka | Riket* | Kungsbacka | Riket* | Kungsbacka | Riket* | Kungsbacka |
+| Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka |
 | 32 132 | 30 350 | 32 770 | 31 000 | 34 100 | 32 215 | 35 600 |
 | 33 000 | 31 000 | 33 550 | 31 500 | 35 000 | 32 600 | 36 400 |
 | 868 | 650 | 780 | 500 | 900 | 385 | 800 |
@@ -6254,42 +6254,42 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   18
 
 11 Åtgärder
 
-1. Genomföra regelbundna löneanalyser med fokus på att identifiera och åtgärda osakliga
+1\. Genomföra regelbundna löneanalyser med fokus på att identifiera och åtgärda osakliga
 löneskillnader.
 Tidpunkt: Inför löneöversyn
 
-2. Planera och genomföra satsningar utifrån den årliga analysen av löner baserat på
+2\. Planera och genomföra satsningar utifrån den årliga analysen av löner baserat på
 lönestatistik för lika, likvärdiga och hierarkiska arbeten.
 Tidpunkt: I samband med löneöversyn
 
-3. Följa upp tidigare års satsningar för att säkerställa kontinuitet och framsteg.
+3\. Följa upp tidigare års satsningar för att säkerställa kontinuitet och framsteg.
 Tidpunkt: Årligen
 
-4. Säkerställa att lika och likvärdiga befattningar i olika verksamheter/förvaltningar har samma
+4\. Säkerställa att lika och likvärdiga befattningar i olika verksamheter/förvaltningar har samma
 utgångspunkt vid lönesättning.
 Tidpunkt: Kontinuerligt, vid nyrekrytering och löneöversyn
 
-5. Undersöka lönespridningen inom olika befattningar för att identifiera och åtgärda eventuella
+5\. Undersöka lönespridningen inom olika befattningar för att identifiera och åtgärda eventuella
 ojämlikheter.
 Tidpunkt: Till nästa löneöversyn
 
-6. Föra dialog med fackliga organisationer för att uppnå jämställda löner.
+6\. Föra dialog med fackliga organisationer för att uppnå jämställda löner.
 Tidpunkt: I samband med löneöversynen
 
-7. Fortsätta arbeta utifrån den övergripande lönestrukturen för att säkerställa rättvisa löner.
+7\. Fortsätta arbeta utifrån den övergripande lönestrukturen för att säkerställa rättvisa löner.
 Tidpunkt: Kontinuerligt, vid nyrekrytering och löneöversyn
 
-8. Utbilda chefer i att sätta löner fria från diskriminering.
+8\. Utbilda chefer i att sätta löner fria från diskriminering.
 Tidpunkt: Årligen
 
-9. Utbilda HR-personal i att BAS-värdera befattningar korrekt.
+9\. Utbilda HR-personal i att BAS-värdera befattningar korrekt.
 Tidpunkt: Årligen
 
-10. Underhålla arbetsvärdering i BAS och AID-koder för att säkerställa att de är aktuella och
+10\. Underhålla arbetsvärdering i BAS och AID-koder för att säkerställa att de är aktuella och
 rättvisa.
 Tidpunkt: Kontinuerligt
 
-11. Genomföra medarbetarsamtal med alla medarbetare för att tydliggöra sambandet mellan
+11\. Genomföra medarbetarsamtal med alla medarbetare för att tydliggöra sambandet mellan
 måluppfyllelse, resultat och lön.
 Tidpunkt: Årligen
 
@@ -6505,29 +6505,29 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Årsrapport för sammanfattande lägesbild ................................................................................................. 5
+1\. Årsrapport för sammanfattande lägesbild ................................................................................................. 5
 
 1.1 Dataskyddsombudet följer och rapporterar ......................................................................................... 5
 1.2 En värdegrundsfråga i tiden ..................................................................................................................... 5
 
-2. Råd & stöd .......................................................................................................................................................... 8
+2\. Råd & stöd .......................................................................................................................................................... 8
 
 2.1 Utbildning ..................................................................................................................................................... 8
 2.2 Råd & rekommendationer ......................................................................................................................... 8
 2.3 Kontakter ..................................................................................................................................................... 15
 2.4 Samverkan .................................................................................................................................................. 17
 
-3. Granskning ....................................................................................................................................................... 19
+3\. Granskning ....................................................................................................................................................... 19
 3.1 Riktad granskning ...................................................................................................................................... 19
 3.2 Regelbunden granskning ......................................................................................................................... 19
 3.3 Fördjupad granskning .............................................................................................................................. 23
 
 3.4 Övriga iakttagelser…………………………………………………………………………………………………………..24
 
-4. Omvärld............................................................................................................................................................. 26
+4\. Omvärld............................................................................................................................................................. 26
 4.1 Fokus på AI ................................................................................................................................................ 26
 
-5. Kommande år ..................................................................................................................................... 27
+5\. Kommande år ..................................................................................................................................... 27
 
 5.1 Inriktning året 2025 .................................................................................................................................. 27
 5.2 Plan för granskning .................................................................................................................................. 27
@@ -6536,7 +6536,7 @@ Innehåll
 
 <!-- sida 150 -->
 
-1. Årsrapport   för  sammanfattande       lägesbild
+1\. Årsrapport   för  sammanfattande       lägesbild
 
 Syftet med den här sammanställningen är att ge kommunstyrelsen och de personuppgiftsansvariga
 nämnderna, bolagen och stiftelsen en bild över vad jag som dataskyddsombud sett i kommunen som
@@ -6663,7 +6663,7 @@ ytterst till att vårda och bevara demokratin.
 
 <!-- sida 153 -->
 
-2. Råd  & stöd
+2\. Råd  & stöd
 
 2.1 Utbildning
 
@@ -7122,7 +7122,7 @@ Mölndal, Jönköping, Karlstad och Örebro – utöver kommunerna i Halland.
 
 <!-- sida 164 -->
 
-3. Granskning
+3\. Granskning
 
 3.1 Riktad granskning
 
@@ -7354,7 +7354,7 @@ kommunen ser vikten av att skydda deras personuppgifter.
 För att öka kunskapen om skydd mot obehörig åtkomst och systematisk kvalitetssäkring kommer
 jag arrangera erfarenhetsutbyten och fördjupande utbildningar på respektive område under våren
 
-2025. Inriktningen kommer vara innebörden i de krav som ställs i lagen samt praktisk tillämpning
+2025\. Inriktningen kommer vara innebörden i de krav som ställs i lagen samt praktisk tillämpning
 av metoder och arbetssätt för att få rutin på arbetet.
 
 3.2.4 Övrigt
@@ -7490,7 +7490,7 @@ för utbildning.
 
 <!-- sida 171 -->
 
-4. Omvärld
+4\. Omvärld
 
 4.1 Fokus på AI
 
@@ -7522,7 +7522,7 @@ hur Sverige kan främja en ansvarsfull och innovativ utveckling av AI. 26
 
 <!-- sida 172 -->
 
-5. Kommande      år
+5\. Kommande      år
 
 5.1 Inriktning året 2025
 

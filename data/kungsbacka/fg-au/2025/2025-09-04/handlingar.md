@@ -87,12 +87,12 @@ Utredning flytt av förskoleverksamhet i Åsa
 Förslag till beslut i nämnden för Förskola & Grundskola
 
 Nämnden för Förskola & Grundskola beslutar:
--  Att Det lilla lokets verksamhet flyttas till Stockalids förskola vid årsskiftet 2025/2026.
+\-  Att Det lilla lokets verksamhet flyttas till Stockalids förskola vid årsskiftet 2025/2026.
 
--  Att verksamheten i Lilla Loket kvarstår till sommaren 2026 och därefter flyttas till ombyggda
+\-  Att verksamheten i Lilla Loket kvarstår till sommaren 2026 och därefter flyttas till ombyggda
 lokaler på Åsa Gårdsskolan,
 
--  Att den nya enheten Åsa Gårds förskola öppnar hösten 2026 med plats för 40 barn i etapp 1.
+\-  Att den nya enheten Åsa Gårds förskola öppnar hösten 2026 med plats för 40 barn i etapp 1.
 
 Beskrivning av ärendet
 Enligt tidigare beslutad förändring av skolstrukturen i Åsa ska årskurs 4-9 ha sin skolgång på
@@ -235,7 +235,7 @@ på Åsaskolan och årskurs F-3 på den nybyggda Ölmevallaskolan, som beräknas
 gällande beslut.
 Vid nämnden för Förskola & Grundskola den 14 maj 2025 beslutades att:
 
--  Förvaltningen får i uppdrag att utreda förutsättningar att flytta förskoleverksamheten vid Lilla Loket
+\-  Förvaltningen får i uppdrag att utreda förutsättningar att flytta förskoleverksamheten vid Lilla Loket
 till närliggande förskolor, primärt Stockalid respektive Åsa Gårdsskolans lokaler. Utredningen ska
 förutsätta att Åsa Gårdsskolans mellanstadium inte flyttas innan ny skola i Åsa står klar.
 
@@ -259,18 +259,18 @@ möjliggöra en byggstart av Ölmevallaskolan krävs det att båda förskolebygg
 2026 och att lokaler för förskoleverksamhet tillskapas enligt gällande beslut. Ölmevallaskolan ska byggas på
 den mark där Lilla Lokets förskola står idag.
 
-1. Det Lilla loket flyttas till Stockalids förskola
+1\. Det Lilla loket flyttas till Stockalids förskola
 Det Lilla Lokets verksamhet som omfattar 40 barn, flyttas till Stockalids förskola vid årsskiftet
 2025/2026. Det innebär att barnen kommer tillhöra Stockalids förskola från januari 2026.
 
-2. Lilla Loket flyttas till nya Åsa Gårds förskola (del av hus C)
+2\. Lilla Loket flyttas till nya Åsa Gårds förskola (del av hus C)
 Verksamheten på Lilla Loket med 40 barn flyttas till en del av hus C på Åsa Gårdsskolan vid
 
 terminsslut sommaren 2026 (till och med v.27) och verksamheten startar därmed upp i ombyggda
 lokaler från terminsstart hösten 2026 (v.32). Den nya verksamheten har fått namnet Åsa Gårds
 förskola.
 
-3. Åsa Gårdsskolan F-6 får minskad lokalyta
+3\. Åsa Gårdsskolan F-6 får minskad lokalyta
 För att möjliggöra fortsatt skolverksamhet för årskurserna F-6, även i det fall delar av hus C anpassas
 för förskoleverksamhet, krävs små lokalanpassningar i befintliga lokaler. Dessa omfattar exempelvis
 rivning av vägg mellan klassrum samt borttagning av vikvägg. Det är nödvändigt att de åtgärder som
@@ -288,11 +288,11 @@ Byggnation av nya skolan
 För att den nya Ölmevallaskolan ska kunna startas upp höstterminen 2028 krävs det att flera processer
 samverkar och att delmoment genomförs i rätt tid och i rätt ordning. Det handlar om:
 
--  avveckling av externt inhyrda lokaler, Det lilla loket och Lilla loket, sker sommaren 2026. Dialog
+\-  avveckling av externt inhyrda lokaler, Det lilla loket och Lilla loket, sker sommaren 2026. Dialog
 med fastighetsägare är nödvändigt för att säkerställa att avyttringsprocessen anpassas. Byggstart av
 skolan förutsätter att båda förskolelokalerna är avyttrade innan byggstart pga. placering av nya
 skolan.
--  säkerställa att det finns tillräckligt med förskoleplatser i Åsa på kort och lång sikt genom
+\-  säkerställa att det finns tillräckligt med förskoleplatser i Åsa på kort och lång sikt genom
 tillskapande av förskoleplatser i Åsa Gårdsskolans hus C.
 
 Lilla loket
@@ -480,16 +480,16 @@ elever har gått.
 
 Resultat 2025 års obligatoriska sommarskola
 
-1. Fler anmälda än någonsin, 107 elever var anmälda och av dessa dök 12 st aldrig upp. De
+1\. Fler anmälda än någonsin, 107 elever var anmälda och av dessa dök 12 st aldrig upp. De
 anmälda var fördelade som åk 6 (2 st, ukrainska), åk 7 (14 st), åk 8 (20 st) och åk 9 (71 st).
-2. Skolinspektionen kom på besök dag 3. Allt flöt på och de är mest intresserade av hur våra
+2\. Skolinspektionen kom på besök dag 3. Allt flöt på och de är mest intresserade av hur våra
 bedömningar i åk 9 går till. De betygssättande lärarna, Håkan (rektor) och VC Maria E blev
 intervjuade om fokus rättssäker bedömning i åk 9. Resultat kommer i oktober/november.
 
 Bifogar Rutiner för organisering av lovskolan, rutiner för bedömning och betygsättning genom
 prövning vid lovskolan i Kungsbacka kommun som skolinspektionen tagit del av.
 
-3. Det var i år ont om gymnasieplatser, vilket resulterat i att elever som klarar sitt betyg och då
+3\. Det var i år ont om gymnasieplatser, vilket resulterat i att elever som klarar sitt betyg och då
 skaffat behörighet, inte vet om de ens kommer in på något program. Det har även resulterat i att
 tre elever ej fullföljt sin prövning, trots att de troligt skulle klara den, för att de kommit in på
 IMV (vanligt program, men de läser matematik på grundskolenivå). Hade de fått sitt betyg i
@@ -499,14 +499,14 @@ gjorde att de riskerade att bli utan gymnasieplats helt och hållet. Anledningar
 preliminära analysen: Färre platser då några friskolor stänger, några program i Kungsbackas
 gymnasier och på praktiska i Kungsbacka startar inte, samt att Särö skolas elever har i högre
 grad valt Kungsbacka som studieort.
-4. Fler antal elever som klarat prövning än något år tidigare, men också fler åk 9 elever anmälda.
+4\. Fler antal elever som klarat prövning än något år tidigare, men också fler åk 9 elever anmälda.
 
-5. Vi testade en sak framgångsrikt: Åsaskolan startade flera elever lovskolan i matematik redan
+5\. Vi testade en sak framgångsrikt: Åsaskolan startade flera elever lovskolan i matematik redan
 sista veckan på terminen så de redan hade kommit en bit när de startade ordinarie lovskolan.
 Lovskolan betalade vikarie för läraren Anna-Karin till Åsaskolan, hon fortsatte sedan med
 eleverna i ordinarie lovskola.
 
-6. Vi hade lovsimskola parallellt där 2 av 5 elever klarade simtest för åk 9.
+6\. Vi hade lovsimskola parallellt där 2 av 5 elever klarade simtest för åk 9.
 
 Här kommer en tabell med resultat per ämne och vilken skola eleven gick på:
 
@@ -684,7 +684,7 @@ Beskrivning av ärendet
 
 Personalkooperativet Sälungens förskola i Ur och Skur har ansökt om utökning av barnantalet till 20
 barn på Sälungens förskola i Fjärås, Rajgräsvägen 28C-D. Verksamheten i Fjärås har bedrivits sedan
-2018. Huvudmannen har i beslut från 2019 godkännande som omfattar 17 barn.
+2018\. Huvudmannen har i beslut från 2019 godkännande som omfattar 17 barn.
 
 Huvudman har utökat sin lokal med cirka 180 kvadratmeter, vilket föranledde huvudmannens ansökan
 om utökning för Sälungens förskola i Fjärås.
@@ -717,9 +717,9 @@ Förvaltningen bedömer att en permanent utökning till 20 barn kan godkännas.
 Rättslig reglering
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -752,7 +752,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #210768 | Inskickat av: Anette Maria Margarethe Bergman | 2025-06-03 13:04
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -816,7 +816,7 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 23 -->
 
-2. Utökning
+2\. Utökning
 
 Antal personal idag
 
@@ -856,7 +856,7 @@ börjar i annan verksamhet i augusti 2025.
 I Bilaga plan lösning: är grå yta städ/förråd i den andra ritningen står det om det är barn eller
 personalutrymmen.
 
-3. Bilagor
+3\. Bilagor
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -1119,7 +1119,7 @@ s
 a u
 ö
 r
--
+\-
 n k
 8
 g

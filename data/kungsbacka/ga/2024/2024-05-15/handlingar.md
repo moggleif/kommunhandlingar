@@ -168,7 +168,7 @@ Nämnden för Gymnasium & Arbetsmarknad godkänner uppföljning per april och pr
 Sammanfattning av ärendet
 
 Nämnden för Gymnasium & Arbetsmarknad prognostiserar ett överskott på 5 mkr för verksamhetsåret
-2024. Gymnasieverksamheten prognostiserar underskott för 2024. Resterande verksamheter
+2024\. Gymnasieverksamheten prognostiserar underskott för 2024. Resterande verksamheter
 prognostiserar överskott.
 
 Ekonomin för Gymnasium & Arbetsmarknad under perioden januari till april 2024 har varit fortsatt
@@ -559,7 +559,7 @@ ta sig in på arbetsmarknaden och integreras i det svenska samhället. Vi ser id
 tidigare, med tätare dialog mellan alla berörda parter, vilket leder till ett tydligare samlat grepp runt målgruppen.
 I februari 2022 inleddes Rysslands invasion av Ukraina. Under juni 2022 kom de första anvisningarna från
 Migrationsverket avseende kommunens mottagande utifrån massflyktsdirektivet, som började gälla den 1 juli
-2022. Sista mars var det 140 boende enligt massflyktsdirektivet i kommunens boenden.
+2022\. Sista mars var det 140 boende enligt massflyktsdirektivet i kommunens boenden.
 
 Under sommaren 2023 gavs möjligheten för ukrainarna att starta i SFI-undervisning. 44 unika individer har
 varit inskrivna under det första kvartalet 2024.
@@ -708,7 +708,7 @@ Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Uppföljning arbetsmarknadsprocess, kvartal 1 2024
 
 Största delen avslut är nyinkomna personer som varit inskrivna mindre än 3 månader under första kvartalet
-2024. Många avslutas snabbt efter inskrivning.
+2024\. Många avslutas snabbt efter inskrivning.
 
 Arbetsmarknadsenheterna arbetar kontinuerligt med att effektivisera arbetsmarknadsprocessen med
 kommuninvånarna, vilket är en stor fördel inför eventuella ökat inflöde i arbetsmarknadsprocessen då
@@ -733,7 +733,7 @@ i arbetsmarknadsprocessen. Vi ser också att trenden nationellt är att antalet 
 Vi har också arbetat med att se till att invånare får övriga ersättningar de har rätt till, vilket har lett till
 självförsörjning för flera individer
 Gällande gruppen nyanlända skedde en liten ökning under första kvartalet 2024 i jämförelse med kvartal fyra
-2023.
+2023\.
 
 Antalet försörjningsstödsärenden exkl nyanlända var i genomsnitt 483 under första kvartalet 2021. Under 2022
 var antalet ärenden i genomsnitt 399 under perioden och under 2023 314 ärenden i genomsnitt under kvartal ett.
@@ -1063,12 +1063,12 @@ fortsätta arbetet 2025–2028 behöver därför kommunerna göra ett nytt stäl
 SKR:s styrelse har beslutat om förnyad rekommendation 2025-2028 för det gemensamma arbetet med
 stöd för en kunskapsbaserad socialtjänst och kommunal hälso- och sjukvård.
 Styrelsen för SKR beslutade 2024-01-26:
-- Att rekommendera kommunerna att årligen, till SKR, gemensamt tilläggsfinansiera viktiga
+\- Att rekommendera kommunerna att årligen, till SKR, gemensamt tilläggsfinansiera viktiga
 förutsättningar för en kunskapsbaserad socialtjänst och kommunal hälso- och sjukvård om
 sammanlagt 19,5 mkr (dvs max 1,95 kr per invånare) under åren 2025–2028.
-- Att rekommendera kommunerna att meddela sitt ställningstagande till SKR senast 30 juni
-2024.
-- Att kostnaden fördelas per kommun utifrån beräkningsmodellen för SKRs medlemsavgift
+\- Att rekommendera kommunerna att meddela sitt ställningstagande till SKR senast 30 juni
+2024\.
+\- Att kostnaden fördelas per kommun utifrån beräkningsmodellen för SKRs medlemsavgift
 vilken baseras på befolkningen i respektive kommun. Kommuner med över 200 000 invånare
 
 får 10% rabatt.
@@ -1126,7 +1126,7 @@ kommer att kunna erbjudas nationellt framöver.
 Varje kommun behöver meddela SKR sitt ställningstagande. Beslutet fattas i relevant
 
 instans i respektive kommun och meddelas skriftligen till SKR senast den 30:e juni
-2024.
+2024\.
 Skicka kommunens ställningstagande till registrator@skr.se med hänvisning till
 
 ärendenummer SKR2024/00089.
@@ -1395,17 +1395,17 @@ avsätta medel för kommunernas egna arbete.
 Denna förnyade rekommendation avser det stöd som kommunerna ställer
 sig bakom att bedriva gemensamt och som:
 
--  det är rimligt att SKR som organisation hanterar,
+\-  det är rimligt att SKR som organisation hanterar,
 
--  skapar värde när samtliga kommuner medverkar,
+\-  skapar värde när samtliga kommuner medverkar,
 
--  behöver samordnas nationellt,
+\-  behöver samordnas nationellt,
 
--  behöver bedrivas kontinuerligt och under lång tid och därmed
+\-  behöver bedrivas kontinuerligt och under lång tid och därmed
 inte lämpar sig för finansiering genom mer kortvariga lösningar
 så som överenskommelser och
 
--  inte ingår i SKR:s ordinarie medlemsavgift.
+\-  inte ingår i SKR:s ordinarie medlemsavgift.
 
 Inriktning är att det arbete som ryms inom rekommendationen kräver ett
 långsiktigt åtagande och samarbete mellan kommunerna och SKR. Den
@@ -1888,7 +1888,7 @@ Kriterier för Motorbranschcollege
 
 Fastställda av Motorbranschcolleges styrelse 2021-03-11
 
-4. Ett Motorbranschcollege kompetensutvecklar yrkeslärarna.
+4\. Ett Motorbranschcollege kompetensutvecklar yrkeslärarna.
 
 ” Yrkeslärarna deltar i nödvändig utbildning för att matcha teknikutvecklingen,
 kompetensbehovet i motorbranschen och den pedagogiska och didaktiska
@@ -1922,7 +1922,7 @@ Kriterier för Motorbranschcollege
 
 Fastställda av Motorbranschcolleges styrelse 2021-03-11
 
-5. Ett Motorbranschcollege har ändamålsenliga maskiner, utrustning
+5\. Ett Motorbranschcollege har ändamålsenliga maskiner, utrustning
 och lokaler.
 
 ” Samverkan i Motorbranschcollege medverkar till att certifierade skolor har
@@ -2162,7 +2162,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Denna taxa är beslutad med stöd av 10 § Lag (1997:736) om färdtjänst.
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller uttag av avgifter för särskild kollektivtrafik, Färdtjänst.
 
 Färdtjänst är en anpassad typ av kollektivtrafik för den som har ett beviljat
@@ -2178,7 +2178,7 @@ taxebestämmelser.
 Färdtjänst gäller inte för resor som bekostas enligt annan lag eller förordning,
 exempelvis skolskjuts och sjukresa.
 
-2. Beräkningsgrund
+2\. Beräkningsgrund
 
 Avgift tas ut efter de grunder som framgår av lagen (1997:736) om färdtjänst.
 Avgifterna ska vara skäliga och får inte överstiga tillståndsgivarens
@@ -2227,11 +2227,11 @@ administration.
 Vid resa nattetid görs ytterligare ett tillägg om 25 kronor per resa för samtliga
 resor.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Mervärdesskatt utgår inte för denna taxas avgifter.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 Nedan följer en sammanställning av egenavgifter för vuxen och ungdom i
 2024 års nivå. Med ungdom avses person till och med 19 år.
@@ -2241,7 +2241,7 @@ och 2) respektive 86 kronor (för zon 3). Med ett påslag för service och
 administration enligt ovan ökar avgiften med 10 kr i zon 1, 20 kronor i zon 2
 och 21 kronor i zon 3.
 
-*= För zon 2 finns ett flertal kort beroende på geografisk indelning varför dessa inte anges specifikt.
+\*= För zon 2 finns ett flertal kort beroende på geografisk indelning varför dessa inte anges specifikt.
 
 Ej avbokad resa - Bomresor
 Om resan inte avbokas inom föreskriven tid blir den färdtjänstberättigade
@@ -2264,7 +2264,7 @@ Kungsbacka kommun           Särskild kollektivtrafik - Färdtjänst 3 (5)
 |  | Vuxen | Ungdom<br>tom 19 år | Vuxen | Ungdom<br>tom 19 år | Vuxen | Ungdom<br>tom 19 år |
 | Zon 1<br>(tätort) | 53 kr | 39 kr | 78 kr | 64 kr | 1020 kr | 763 kr |
 | Zon 2 | 63 kr | 47 kr | 88 kr | 75 kr | 1 253 kr | 938 kr |
-| Zon 3 | 126 kr | 93 kr | 151 kr | 118 kr | * | * |
+| Zon 3 | 126 kr | 93 kr | 151 kr | 118 kr | \* | \* |
 
 <!-- sida 64 -->
 
@@ -2285,7 +2285,7 @@ följer kollektivtrafikens periodkort geografiskt och avgiften följer samma
 princip som beskrivs i punkten 2 Beräkningsgrunder, det vill säga
 kollektivtrafikens avgift med ett procentbaserat påslag för service.
 
-5. Justering av avgiftsbelopp
+5\. Justering av avgiftsbelopp
 
 Taxans avgiftsbelopp inklusive avgift för periodkort justeras i enlighet med
 Västtrafiks beslutade avgiftsändringar i kollektivtrafiken.
@@ -2294,11 +2294,11 @@ Ersättningen för ”Bomresa” justeras med förändringen av
 konsumentprisindex, KPI, varje år och avrundas därefter till närmaste tiotal
 kronor.
 
-6. Delegering av beslut om justering
+6\. Delegering av beslut om justering
 Nämnden för Teknik har i uppdrag att justera avgiftsbeloppen i enlighet med
 taxans bestämmelser § 5.
 
-7. Övergångsbestämmelser
+7\. Övergångsbestämmelser
 Denna taxa börjar gälla 2 maj 2024. Resor gjorda före 2 maj 2024 debiteras
 enligt tidigare gällande taxa: –Färdtjänsttaxa, antagen av kommunfullmäktige
 
@@ -2567,17 +2567,17 @@ INLEDNING
 
 Året       i  korthet
 
-+    231
+\+    231
 
 mnkr
-+   1  090
+\+   1  090
 Resultat för
 mnkr
 Kungsbacka kommun
 Investeringar för koncernen
 Kungsbacka kommun
 
-+   291
+\+   291
 mnkr
 
 Resultat för koncernen
@@ -2712,11 +2712,11 @@ Humana assistans AB
 Byggnadsnämnd  Förskola & Grundskola
 Vård & Omsorg
 Nämnd för hemsjukvård Gottskärs hemtjänst AB
-Överförmyndarnämnd* Patientnämnd** och hjälpmedel*** Olivia Hemtjänst AB
+Överförmyndarnämnd\* Patientnämnd\*\* och hjälpmedel\*\*\* Olivia Hemtjänst AB
 Vardaga Äldreomsorg AB
-* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner.
-** Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
-*** G emensam nämnd för hemsjukvård och hjälpmedel. Region Halland är värdkommun.
+\* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner.
+\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
+\*\*\* G emensam nämnd för hemsjukvård och hjälpmedel. Region Halland är värdkommun.
 
 8  Kungsbacka kommuns årsredovisning 2023
 
@@ -3090,7 +3090,7 @@ Förvaltade pensionsmedel - -  -
 Valutarisk handlar om risken för att drabbas av ökade Marknadsvärde
 kostnader på grund av valutakursförändringar. Det Totalt pensionsförsäkringskapital - -
 uppstår när inköp, försäljning och upplåning sker i
-- varav överskottsmedel -     -
+\- varav överskottsmedel -     -
 utländsk valuta. Kommunen gör till allra största del
 Totalt kapital pensionsstiftelse - -
 affärer i svenska kronor och handel i annan valuta utgör
@@ -3112,7 +3112,7 @@ kommunen. Sammantaget består kommunens pensions-
 kostnader av två olika delar, en avgiftsbestämd kostnad
 och en förmånsbaserad pension som delas upp i vad som
 tjänats in från och med 1998 och vad som tjänats in före
-1998. Det nya pensionsavtalet AKAP-KR som gäller från
+1998\. Det nya pensionsavtalet AKAP-KR som gäller från
 2023 är ett steg i övergången till ett mer avgiftsfinansierat
 pensionssystem, vilket kommer att ge kommunerna en
 pensionskostnad som är lättare att förutse.
@@ -3213,7 +3213,7 @@ FÖRVALTNINGSBERÄTTELSE
 Frillesås-Rya är ett nytt stort verksamhetsområde öster
 pensionskostnader
 om Frillesås tätort där detaljplanen blev överklagad under
-2023. Den är inriktad på industriändamål i syfte att Skatteintäkterna ökade med nästan sju procent, samtidigt
+2023\. Den är inriktad på industriändamål i syfte att Skatteintäkterna ökade med nästan sju procent, samtidigt
 kunna etablera många olika typer av verksamheter. som statsbidragen minskade med 26 procent. Skattein-
 täkterna ökade till följd av att arbetsmarknaden hittills
 stått emot den försämrade konjunkturen bättre än väntat.
@@ -3513,7 +3513,7 @@ Miljoner kronor 2019 2020 2021 20221 2023
 
 Kommunkoncernen 243 512 530 822 291
 
-1) 2019 samt 2021 års jämförelsetal är justerade med anledning av
+1\) 2019 samt 2021 års jämförelsetal är justerade med anledning av
 ändrad redovisningsprincip avseende investeringsbidrag år 2019
 respektive finansiell leasing år 2021 och 2022. Övriga år är inte
 justerade.
@@ -3540,7 +3540,7 @@ mum Årets resultat
 Strukturellt resultat!
 — Strukturellt resultat i relation till skatter & generella statsbidrag!
 
-1) Årets resultat exklusive jämförelsestörande poster.
+1\) Årets resultat exklusive jämförelsestörande poster.
 800 12,090
 
 700
@@ -3596,7 +3596,7 @@ ny värdering av övertäckning av Barnamossens deponi
 nettokostnader inkl
 innebar en högre kostnad än vi tidigare förväntat i våra finansiella poster (%)
 bedömningar, och vi har därför fått öka avsättningen
-1) 2019 samt 2021 års jämförelsetal är justerade med anledning av
+1\) 2019 samt 2021 års jämförelsetal är justerade med anledning av
 betydligt. Om man tar bort posterna för exploatering och ändrad redovisningsprincip avseende. Övriga år är inte justerade.
 deponi, får man det strukturella resultatet för kommu-
 nens ordinarie verksamhet.        Kommunens intäkter kommer framför allt från skatter
@@ -3652,7 +3652,7 @@ Miljoner kronor 2019 2020 2021 2022 2023
 Kommunkoncer- 1 510 1 192 1 031 1 101 1 090
 nen, nettoinveste-
 ringar1
-1) Inklusive finansiella investeringar
+1\) Inklusive finansiella investeringar
 
 Under året investerade kommunkoncernen för cirka 1,1
 miljarder kronor, varav kommunen stod för nästan en
@@ -3746,7 +3746,7 @@ Halland.
 Soliditet enligt bland- 33,9 35,2 36,6 37,3 40,7
 Likviditet och låneskuld
 modellen
-1) 2019 samt 2021 års jämförelsetal är justerade med anledning av Likviditetsmått visar kommunens förmåga att betala sina
+1\) 2019 samt 2021 års jämförelsetal är justerade med anledning av Likviditetsmått visar kommunens förmåga att betala sina
 ändrad redovisningsprincip avseende investeringsbidrag år 2019 kortfristiga skulder. Om likviditeten fortsätter att vara
 respektive finansiell leasing år 2021 och 2022. Övriga år är inte juste-
 rade.                             oförändrad eller ökar och soliditeten samtidigt inte blir
@@ -3813,7 +3813,7 @@ störande poster/verksam-
 policyn i samband med omsättning av lån på 200
 hetens kostnader (%)1
 miljoner kronor. Avsteget innebar att kommunen tog ett
-1) Årets budgeterade resultat om 132 miljoner plus beräknade
+1\) Årets budgeterade resultat om 132 miljoner plus beräknade
 rörligt lån med rörlig ränta, i stället för att följa kraven resultat från exploateringsverksamheten i kassaflödesbudget om 75
 på förfallostruktur och då binda räntan på längre sikt till miljoner.
 högre ränta. Konsekvensen av detta är att kreditförfallet
@@ -3857,7 +3857,7 @@ ställning och utveckling
 Bedömningen av Kungsbacka kommuns ekonomi
 med utgångspunkt från den finansiella analysen visar
 i grunden på en stark ekonomi, trots lägre resultat för
-2023. Det är viktigt att fortsätta arbeta för att bibehålla
+2023\. Det är viktigt att fortsätta arbeta för att bibehålla
 en stabil ekonomi, eftersom ett tuffare ekonomiskt läge
 väntar framöver. Bland annat på grund av demografiska
 förändringar och brist på arbetskraft. Förändringar i
@@ -4865,15 +4865,15 @@ Balanskravsutredning, miljoner kronor                   2022  2023
 Pensionsförpliktelser intjänade före 1998               -42    +22
 Årets resultat enligt blandmodellen                     711    253
 
-- Samtliga realisationsvinster                          -16    -8
-+ Realisationsvinster enligt undantagsmöjlighet           -     -
-+ Realisationsförluster enligt undantagsmöjlighet         -     -
+\- Samtliga realisationsvinster                          -16    -8
+\+ Realisationsvinster enligt undantagsmöjlighet           -     -
+\+ Realisationsförluster enligt undantagsmöjlighet         -     -
 -/+ Orealiserade vinster och förluster i värdepapper      -     -
 +/- Återföring av orealiserade vinster och förluster i värdepapper - -
 
 = Årets resultat efter balanskravsjusteringar           695    245
-- Reservering av medel till resultatutjämningsreserv      -     -
-+ Användning av medel från resultatutjämningsreserv       -     -
+\- Reservering av medel till resultatutjämningsreserv      -     -
+\+ Användning av medel från resultatutjämningsreserv       -     -
 = Balanskravsresultat                                   695    245
 
 48 Kungsbacka kommuns årsredovisning 2023
@@ -4894,7 +4894,7 @@ Sjukfrånvaron i nivå med föregående år Antal anställda
 Den totala sjukfrånvaron i förvaltningarna är stabil och Den kommunala koncernen, med nämnder och bolag
 något lägre än jämfört med i grannkommunerna. Sjuk- tillsammans, hade 6 784 tillsvidare- och tidsbegränsade
 frånvaron minskade från 7,8 procent 2022 till 7,2 procent anställningar med månadslön under 2023. Det är en
-2023. Likt tidigare år är sjukfrånvaron högst i början och minskning jämfört med året innan. I förvaltningarna
+2023\. Likt tidigare år är sjukfrånvaron högst i början och minskning jämfört med året innan. I förvaltningarna
 slutet av året. Andelen av den totala sjukfrånvaron som minskade antalet medarbetare med 58 anställda medan
 var 60 dagar eller mer har ökat något till 37,1 procent, det kommunala bolaget minskade med en anställd. Totalt
 jämfört med 36,9 procent 2022.    antal anställda i bolaget är 51 personer.
@@ -5062,7 +5062,7 @@ Sveriges kommuner och regioner, SKR, presenterade i och efterfrågan på kredite
 december 2023 sin bedömning av den makroekonomiska som innebär ökad boendekonsumtion. Det har lett till en
 utvecklingen. Det är också denna bedömning som ligger rejäl nedgång för bostadsinvesteringarna, som sannolikt
 till grund för SKR:s prognos för skatteunderlaget 2023– kommer att vara låga en längre tid. Såväl nyproduk-
-2027. Sammanfattningsvis menar SKR att inflationen tion som ombyggnation tyngs även av kraftigt förhöjda
+2027\. Sammanfattningsvis menar SKR att inflationen tion som ombyggnation tyngs även av kraftigt förhöjda
 väntas minska under 2024 såväl i USA som i Europa och produktionskostnader.
 Sverige, vilket ger viss lättnad i konjunkturnedgången.
 Att centralbankerna, inklusive Riksbanken, sänker styr- Bedömningen är att konjunkturen vänder uppåt 2025
@@ -5152,7 +5152,7 @@ Resultat efter finansiella poster      132     753    231     822     291
 
 Extraordinära poster           10
 Årets resultat                         132     753    231     822     291
-1) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
+1\) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
 
 KASSAFLÖDESANALYS                         Kommunen            Koncernen
 Not Budget 2023
@@ -5209,7 +5209,7 @@ Likvida medel vid årets början         426     372     426    570     572
 Likvida medel vid årets slut           37      426    291     572     428
 ```
 
-1) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
+1\) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
 
 54 Kungsbacka kommuns årsredovisning 2023
 
@@ -5291,7 +5291,7 @@ Teoretiskt värde av förtroendevaldas
 pensionsutfästelser                             5      6       5       6
 Förvaltade stiftelsers kapital                 56      63      56     63
 
-1) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
+1\) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
 
 Summeringen i de finansiella rapporterna
 påverkas av avrundning till miljontals kronor.
@@ -5564,7 +5564,7 @@ Bolagsskatt                   -16,1 -12,2
 verksamhetskostnader -83,5 -88,5 -99,8 -106,9
 Summa
 verksamhetens kostnader -5 956,5 -6 526,2 -6 069,9 -6 638,8
-1) Jämförelsetalen för år 2022 är justerade med anledning av övergång till
+1\) Jämförelsetalen för år 2022 är justerade med anledning av övergång till
 finansiell leasing för befintliga externa hyresavtal och koncerninterna hyres-
 avtal före 2019.
 Kungsbacka kommuns årsredovisning 2023 59
@@ -5604,7 +5604,7 @@ statsbidrag och utjämning 431,6 319,0 431,6 319,0 poster  184,0 -51,9 184,0 -51
 Övriga upplysningar
 Övriga upplysningar
 Under 2023 redovisas realisationsvinster från exploateringsverksamheten samt
-1) Övriga generella statsbidrag: minskad andel timanställda inom vård och exploateringsersättningar som jämförelsestörande poster. Under 2023 redo-
+1\) Övriga generella statsbidrag: minskad andel timanställda inom vård och exploateringsersättningar som jämförelsestörande poster. Under 2023 redo-
 omsorg 35 (21) miljoner kronor, ökad bemanning på särskilda boenden 5 (5) visas realisationsvinster från exploateringsverksamheten samt exploateringser-
 miljoner kronor, tillfälligt kommunstöd med anledning av kriget i Ukraina 4 sättningar som jämförelsestörande poster samt ökning av avsättning för deponi
 (2) miljoner kronor, samt endast för år 2022 skolmiljarden 14 miljoner kronor, Barnamossen.
@@ -5702,7 +5702,7 @@ Därav finansiell leasing 766,4 1 465,7 389,6 360,8 Därav finansiell leasing 14
 Bedömd genomsnittlig                    Bedömd genomsnittlig nytt-
 nyttjandeperiod, antal år 35,5 20,6 35,5 20,6 jandeperiod, antal år 21,3 9,1 21,3 9,1
 
-1) Jämförelsetalen för år 2022 är justerade med anledning av övergång till Övriga upplysningar
+1\) Jämförelsetalen för år 2022 är justerade med anledning av övergång till Övriga upplysningar
 finansiell leasing för befintliga externa hyresavtal och koncerninterna hyres-
 avtal före 2019.                        Gränsdragning mellan kostnad och investering: Belopp överstigande 50 000
 och varaktighet längre än 3 år.
@@ -5773,15 +5773,15 @@ berg-Kommungränsen4 0,0  19,1  0,0  19,1
 Summa bidrag till statlig
 infrastruktur      28,6  53,9 28,6  53,9
 Övriga upplysningar
-1) Avser byggande av ny tågstation i Åsa. Bidraget upplöses på 25 år med start
+1\) Avser byggande av ny tågstation i Åsa. Bidraget upplöses på 25 år med start
 år 2011.
-2) Avser åtgärder i den statliga infrastrukturen i anslutning till exploatering av
+2\) Avser åtgärder i den statliga infrastrukturen i anslutning till exploatering av
 Må. Bidraget är uppräknat med index år 2023. Bidraget upplöses på 25 år med
 start år 2019.
-3) Avser gång- och cykelväg i Må. Bidraget är uppräknat med index år 2023.
+3\) Avser gång- och cykelväg i Må. Bidraget är uppräknat med index år 2023.
 Bidraget upplöses på 25 år med start år 2019.
-4) Avser gå- och cykelväg i Anneberg. Bidraget upplöses på 25 år med start år
-2023.
+4\) Avser gå- och cykelväg i Anneberg. Bidraget upplöses på 25 år med start år
+2023\.
 62 Kungsbacka kommuns årsredovisning 2023
 
 <!-- sida 130 -->
@@ -5968,21 +5968,21 @@ Kommunen   Koncernen                    Kommunen   Koncernen
 belopp i miljoner kronor 2022 2023 2022 2023 belopp i miljoner kronor 2022 2023 2022 2023
 Övriga upplysningar                     Genomsnittlig ränta % 0,7% 1,3% 1,0% 1,7%
 Avtal med Trafikverket för bidrag till statlig infrastruktur. Genomsnittlig ränta %
-1) Avtal tecknades år 2023. Bidraget är indexuppräknat 2023. Projektet pågår till exklusive derivat 0,7% 1,3% 0,9% 1,9%
+1\) Avtal tecknades år 2023. Bidraget är indexuppräknat 2023. Projektet pågår till exklusive derivat 0,7% 1,3% 0,9% 1,9%
 år 2027.
 Genomsnittlig kapital-
-2) Bidrag till Trafikverket avser väg i Stockalid. Avtal tecknades år 2023. bindningstid, år 2,1 1,2 2,8 2,8
+2\) Bidrag till Trafikverket avser väg i Stockalid. Avtal tecknades år 2023. bindningstid, år 2,1 1,2 2,8 2,8
 Kommunen svarar för alla kostnadsförändringar för de åtgärder som omfattas i
 avtalet. Projektet förväntas vara färdigt under 2024.
-3) Bidrag till Trafikverket avser cirkulationsplats i Frillesås Rya. Avtal tecknades
+3\) Bidrag till Trafikverket avser cirkulationsplats i Frillesås Rya. Avtal tecknades
 år 2022. Bidraget är indexuppräknat 2023. Projektet pågår till år 2025. Kapitalförfall andel av lån
-4) Bidrag till Trafikverket avser cirkulationsplats i Må. Avtal tecknades år 0-1 år 300,0 550,0 1 608,2 1 313,6
-2018. En ökad avsättning om 1,3 miljoner har bokförts 2023. Må cirkulation är
+4\) Bidrag till Trafikverket avser cirkulationsplats i Må. Avtal tecknades år 0-1 år 300,0 550,0 1 608,2 1 313,6
+2018\. En ökad avsättning om 1,3 miljoner har bokförts 2023. Må cirkulation är
 avslutad per 2023-12-31.               1-2 år            350,0 350,0 609,7 900,3
-5) Avtal tecknades år 2018. Bidraget är indexuppräknat 2023. Projektet pågår till
+5\) Avtal tecknades år 2018. Bidraget är indexuppräknat 2023. Projektet pågår till
 2-3 år            350,0 300,0 858,3 897,2
 år 2024.
-6) Avtal tecknades år 2018. Bidraget är indexuppräknat 2023. Projektet pågår till 3-4 år 300,0 897,2 116,0
+6\) Avtal tecknades år 2018. Bidraget är indexuppräknat 2023. Projektet pågår till 3-4 år 300,0 897,2 116,0
 år 2024.
 4-5 år                       116,0 701,7
 5-6 år                       281,3 448,5
@@ -6161,7 +6161,7 @@ Särredovisning har upprättats för Renhållningsverksamheten.1
 Eget kapital utdrag
 Särredovisning har upprättats för Bredbandsverksamheten.1 Ingående eget kapital
 justering         3 065,0 2 990,7 3 529,9 3 528,1
-1) Särredovisningarna finns tillgänglig på Kungsbacka hemsida/Teknik
+1\) Särredovisningarna finns tillgänglig på Kungsbacka hemsida/Teknik
 Årets resultat    756,4 752,8 821,6 821,7
 Summa eget kapital 3 821,4 3 743,5 4 351,5 4 349,8
 Not 32 Upplysningar om
@@ -6542,7 +6542,7 @@ tre kvarter. Parkeringshuset Linden närmast järnvägen markanvisas till annan 
 Björkris etapp 2
 slutförandet av de tre bostadskvarteren. Inflyttning i det
 första kvarteret är beräknat till 2024 och övriga två under Området ligger nordväst om Hede station i direkt
-2025.                             anslutning till Björkris etapp 1. Planområdet innehåller
+2025\.                             anslutning till Björkris etapp 1. Planområdet innehåller
 cirka 800 bostäder med blandade upplåtelseformer samt
 I Aranäs 4 planerar vi för ytterligare cirka 180 bostäder förskola, skola och idrottshall. Blandade upplåtelseformer
 samt möjlighet till ny skola eller kontor. Detaljplanen vann innebär att man bor i hyresrätt, bostadsrätt eller äger sin
@@ -6576,7 +6576,7 @@ arbete med att ta fram en detaljplan men under 2023 tog samt centrumändamål. V
 kommunen ett omtag för att klara de svåra geotekniska kommer antas i mitten av 2024.
 utmaningarna i området. Det finns nu en lösning och vi
 räknar med att detaljplanen kommer bli antagen under Mark- och miljödomstolen har, via en miljödom,
-2024.                             meddelat tillstånd för deponiverksamhet till sökanden
+2024\.                             meddelat tillstånd för deponiverksamhet till sökanden
 Viavest inom den blivande andra etappen av området.
 Frillesås-Rya 2:1
 Viavest har utfört förberedande markåtgärder under
@@ -6966,13 +6966,13 @@ Bo Regnér                  Marie Yckert
 Ingvar Henriksson
 
 Bilagor:
-- Redogörelse för revisionen år 2023
-- Det sakkunniga biträdets yttrande om
+\- Redogörelse för revisionen år 2023
+\- Det sakkunniga biträdets yttrande om
 
 årsredovisningens balansräkning,
 resultaträkning, kassaflödesanalys, drift- och
 investeringsredovisning samt noter
-- Granskning av god ekonomisk hushållning
+\- Granskning av god ekonomisk hushållning
 och balanskrav
 ZOCXD-41ZG1-KJOOF-B5HA4-Q4BO7-OELEV
 :lekcyntnemukod
@@ -7005,7 +7005,7 @@ IP: 213.113.xxx.xxx                  IP: 82.99.xxx.xxx
 2024-03-28 06:24:07 UTC              2024-03-28 07:18:18 UTC
 
 Detta dokument är digitalt signerat genom Penneo.com. Den digitala dokumentet i Adobe Reader bör du se att dokumentet är certifierat
-signeringsdatan i dokumentet är säkrad och validerad genom det med Penneo e-signature service <penneo@penneo.com> Detta
+signeringsdatan i dokumentet är säkrad och validerad genom det med Penneo e-signature service \<penneo@penneo.com> Detta
 datorgenererade hashvärdet hos det originella dokumentet. Dokumentet är låst garanterar att dokumentets innehåll inte har ändrats.
 och tidsstämplat med ett certifikat från en betrodd tredje part. All kryptografisk
 information är innesluten i denna PDF, för framtida validering om så krävs. Du kan verifiera den kryptografiska informationen i dokumentet genom
@@ -7031,7 +7031,7 @@ IP: 83.227.xxx.xxx
 2024-03-28 10:22:45 UTC
 
 Detta dokument är digitalt signerat genom Penneo.com. Den digitala dokumentet i Adobe Reader bör du se att dokumentet är certifierat
-signeringsdatan i dokumentet är säkrad och validerad genom det med Penneo e-signature service <penneo@penneo.com> Detta
+signeringsdatan i dokumentet är säkrad och validerad genom det med Penneo e-signature service \<penneo@penneo.com> Detta
 datorgenererade hashvärdet hos det originella dokumentet. Dokumentet är låst garanterar att dokumentets innehåll inte har ändrats.
 och tidsstämplat med ett certifikat från en betrodd tredje part. All kryptografisk
 information är innesluten i denna PDF, för framtida validering om så krävs. Du kan verifiera den kryptografiska informationen i dokumentet genom
@@ -7947,31 +7947,31 @@ helheten.
 § 3 Övergripande  uppgifter
 
 Kommunstyrelsen ska
-1. leda arbetet och samordna utformningen av övergripande och strategiska
+1\. leda arbetet och samordna utformningen av övergripande och strategiska
 mål, riktlinjer och ramar för styrningen av hela den kommunala
 verksamheten samt göra framställningar i målfrågor som inte är förbehållen
 annan nämnd,
-2. utöva uppsikt över övriga nämnders och gemensamma nämnders beslut,
-3. ha uppsikt över sådan avtalssamverkan som sker enligt 9 kap. 37 §
+2\. utöva uppsikt över övriga nämnders och gemensamma nämnders beslut,
+3\. ha uppsikt över sådan avtalssamverkan som sker enligt 9 kap. 37 §
 kommunallagen eller enligt annan lag eller författning,
-4. ha övergripande ansvar för kommuninvånarnas säkerhet och trygghet samt
+4\. ha övergripande ansvar för kommuninvånarnas säkerhet och trygghet samt
 ansvar för politisk ledning, samverkan, samordning och uppföljning av
 kommunens säkerhets- och beredskapsarbete.
-5. ansvara för kommunövergripande informationssystem,
-6. ha ett övergripande ansvar för att säkerhetsskyddslagen (2018:585) följs,
-7. hos fullmäktige, övriga nämnder och andra myndigheter göra de
+5\. ansvara för kommunövergripande informationssystem,
+6\. ha ett övergripande ansvar för att säkerhetsskyddslagen (2018:585) följs,
+7\. hos fullmäktige, övriga nämnder och andra myndigheter göra de
 framställningar som behövs,
-8. kontinuerligt följa verksamheten i övriga nämnder,
-9. ansvara för utformning och utveckling av kommunens system för intern
+8\. kontinuerligt följa verksamheten i övriga nämnder,
+9\. ansvara för utformning och utveckling av kommunens system för intern
 kontroll i enlighet med vad fullmäktige särskilt beslutar,
 
 Kungsbacka kommun              Styrande dokument                2 (7)
 
 <!-- sida 180 -->
 
-10. upprätta förslag till program med mål och riktlinjer för sådana kommunala
+10\. upprätta förslag till program med mål och riktlinjer för sådana kommunala
 angelägenheter som utförs av privata utförare,
-11. bereda eller yttra sig i ärenden som ska handläggas av fullmäktige i enlighet
+11\. bereda eller yttra sig i ärenden som ska handläggas av fullmäktige i enlighet
 med kommunallagen.
 
 § 4 Anslagstavla  och webbplats
@@ -8011,9 +8011,9 @@ motioner som inte har beretts färdigt.
 Kommunstyrelsen ska ha hand om frågor som rör förhållandet mellan kommunen
 som arbetsgivare och dess arbetstagare, innefattande följande uppgifter:
 
-1. genom kollektivavtal reglera frågor rörande förhållandet mellan kommunen
+1\. genom kollektivavtal reglera frågor rörande förhållandet mellan kommunen
 som arbetsgivare och dess arbetstagare
-2. förhandla för kommunen enligt lagstiftning om förhandlingsrätt utom vad
+2\. förhandla för kommunen enligt lagstiftning om förhandlingsrätt utom vad
 gäller 11-14 och 38 §§ lagen (1976:580) om medbestämmande i arbetslivet
 inom andra nämnders verksamhetsområden
 
@@ -8021,38 +8021,38 @@ Kungsbacka kommun              Styrande dokument                3 (7)
 
 <!-- sida 181 -->
 
-3. avgöra frågor om tolkning och tillämpning av lag, avtal och andra
+3\. avgöra frågor om tolkning och tillämpning av lag, avtal och andra
 bestämmelser rörande förhållandet mellan kommunen som arbetsgivare
 och dess arbetstagare
-4. besluta i pensionsfrågor för kommunens anställda och förtroendevalda
-5. besluta om stridsåtgärd
-6. lämna uppdrag enligt 6 kap. 3 § lagen (2009:47) om vissa kommunala
+4\. besluta i pensionsfrågor för kommunens anställda och förtroendevalda
+5\. besluta om stridsåtgärd
+6\. lämna uppdrag enligt 6 kap. 3 § lagen (2009:47) om vissa kommunala
 befogenheter
-7. besluta i ärenden rörande anställning och fastställande av
+7\. besluta i ärenden rörande anställning och fastställande av
 anställningsvillkor samt instruktion för kommundirektör.
-8. besluta i ärenden rörande anställning och fastställande av
+8\. besluta i ärenden rörande anställning och fastställande av
 anställningsvillkor för förvaltningschefer.
-9. ansvara för kommunens rapporteringskanal för missförhållanden enligt
+9\. ansvara för kommunens rapporteringskanal för missförhållanden enligt
 lagen (2021:890) om skydd för personer som rapporterar om
 missförhållanden.
 
 § 10 Ekonomi
 
 Kommunstyrelsen ska
-1. ha hand om kommunens medelsförvaltning och följa de föreskrifter
+1\. ha hand om kommunens medelsförvaltning och följa de föreskrifter
 kommunfullmäktige har bestämt. Medelsförvaltningen omfattar placering
 och upplåning av medel. I uppgiften ingår också att bevaka att kommunens
 inkomster inflyter och att betalningar görs i tid samt att vidta de åtgärder
 som behövs för indrivning av förfallna fordringar,
-2. ha hand om övrig ekonomisk förvaltning. I denna uppgift ingår bland annat
+2\. ha hand om övrig ekonomisk förvaltning. I denna uppgift ingår bland annat
 att
-- underhålla och förvalta kommunens fasta egendom som inte fördelats
+\- underhålla och förvalta kommunens fasta egendom som inte fördelats
 till annan nämnd,
-- se till att kommunens behov av försäkringsskydd är tillgodosett,
-- handha egen donationsförvaltning samt efter samtycke från annan
+\- se till att kommunens behov av försäkringsskydd är tillgodosett,
+\- handha egen donationsförvaltning samt efter samtycke från annan
 nämnd placera sådana medel som ingår i donation som förvaltas av
 den nämnden,
-- Besluta om föreningsbidrag i form av sponsring.
+\- Besluta om föreningsbidrag i form av sponsring.
 
 Kommunstyrelsen ska i enlighet med kommunfullmäktiges särskilda föreskrifter
 förvalta medel som avsatts till pensionsförpliktelser.
@@ -8064,10 +8064,10 @@ Kommunstyrelsen får omfördela medel som anslagits till nämnder inom den
 budgeterade verksamhetsvolymen och av kommunfullmäktige fastställd beloppsram
 och andra riktlinjer.
 Kommunstyrelsen ska också
-1. upprätta förslag till budget i enlighet med kommunallagen,
-2. se till att bokföring och redovisning sker i enlighet med lagen (2018:597) om
+1\. upprätta förslag till budget i enlighet med kommunallagen,
+2\. se till att bokföring och redovisning sker i enlighet med lagen (2018:597) om
 kommunal bokföring och redovisning,
-3. upprätta årsredovisning och delårsrapport i enlighet med lagen (2018:597)
+3\. upprätta årsredovisning och delårsrapport i enlighet med lagen (2018:597)
 om kommunal bokföring och redovisning.
 
 Kungsbacka kommun              Styrande dokument                4 (7)
@@ -8077,20 +8077,20 @@ Kungsbacka kommun              Styrande dokument                4 (7)
 § 11 Uppföljning
 Kommunstyrelsen ska
 
-1. övervaka att av kommunfullmäktiges fastställda kvalitetskrav,
+1\. övervaka att av kommunfullmäktiges fastställda kvalitetskrav,
 mål, riktlinjer och program för verksamheten samt ekonomi
 följs upp i nämnderna,
-2. övervaka att kommunens löpande förvaltning i övrigt
+2\. övervaka att kommunens löpande förvaltning i övrigt
 
 sköts lagligt och ekonomiskt,
-3. följa hur den interna kontrollen sköts i nämnderna,
-4. två gånger per år rapportera till kommunfullmäktige hur samtliga
+3\. följa hur den interna kontrollen sköts i nämnderna,
+4\. två gånger per år rapportera till kommunfullmäktige hur samtliga
 kommunens verksamheter utvecklas mot bakgrund av fastlagda
 mål och hur den ekonomiska ställningen är under budgetåret,
-5. en gång årligen till kommunfullmäktige rapportera om
+5\. en gång årligen till kommunfullmäktige rapportera om
 kommunens avtalssamverkan enligt
 9 kap. 37 § kommunallagen eller enligt annan lag eller författning,
-6. inom ramen för sin uppsiktsplikt övervaka att verksamheter
+6\. inom ramen för sin uppsiktsplikt övervaka att verksamheter
 som bedrivs av privata utförare kontrolleras och följs upp i
 enlighet med lag, avtal och av kommunfullmäktige fastställda
 program och direktiv.
@@ -8141,20 +8141,20 @@ informationsförvaltning.
 
 verksamheter:
 
-1. översiktlig fysisk planering (inklusive planprogram och större lokaliseringar)
-2. planbesked enligt plan- och bygglagen (2010:900)
-3. operativt ansvar för kommunens planverksamhet
-4. exploatering och plangenomförande
-5. näringslivsfrågor
-6. markfrågor: arrende, köp och försäljning av fastigheter,
+1\. översiktlig fysisk planering (inklusive planprogram och större lokaliseringar)
+2\. planbesked enligt plan- och bygglagen (2010:900)
+3\. operativt ansvar för kommunens planverksamhet
+4\. exploatering och plangenomförande
+5\. näringslivsfrågor
+6\. markfrågor: arrende, köp och försäljning av fastigheter,
 markförvaltning, företräda kommunen i lantmäterifrågor och
 i plan- och byggfrågor samt ärenden som är jämförliga med
 dessa
 
-7. strategiskt arbete inom naturvård samt svara för kommunens
+7\. strategiskt arbete inom naturvård samt svara för kommunens
 engagemang i regional och lokal miljöövervakning
-8. strategisk trafik- och infrastrukturplanering
-9. såsom innehavare av anläggning ansvara för planering
+8\. strategisk trafik- och infrastrukturplanering
+9\. såsom innehavare av anläggning ansvara för planering
 och kontroll av säkerhet mot person- och sakskada på
 grund av el.
 
@@ -8162,17 +8162,17 @@ grund av el.
 
 Kommunstyrelsen beslutar i följande grupper av ärenden:
 
-1. samordning av kommunens yttranden vid prövning
+1\. samordning av kommunens yttranden vid prövning
 av tillstånd för täktverksamhet
-2. för en tid av högst tjugofem (25) år utarrendera, uthyra eller
+2\. för en tid av högst tjugofem (25) år utarrendera, uthyra eller
 annars upplåta fastighet och/eller byggnad som tillhör
 kommunen
-3. ingå servitutsavtal
-4. upplåtelse av tomträtt inom av kommunfullmäktige fastställd
+3\. ingå servitutsavtal
+4\. upplåtelse av tomträtt inom av kommunfullmäktige fastställd
 kostnadsram och andra riktlinjer beträffande belopp och
 
 villkor i övrigt
-5. köpa eller sälja fastighet, eller del av fastighet, upp till ett
+5\. köpa eller sälja fastighet, eller del av fastighet, upp till ett
 maximalt belopp av 50 miljoner kronor, i varje enskilt ärende. I
 begreppen köpa och sälja ingår inlösen i plangenomförande
 syfte samt expropriation
@@ -8181,30 +8181,30 @@ Kungsbacka kommun              Styrande dokument                6 (7)
 
 <!-- sida 184 -->
 
-6. besluta i ärenden om markanvisningar
-7. fastställa försäljningspris vid försäljning av kommunal
+6\. besluta i ärenden om markanvisningar
+7\. fastställa försäljningspris vid försäljning av kommunal
 industrimark och tomtmark
-8. handlägga ärenden angående gatukostnad och
+8\. handlägga ärenden angående gatukostnad och
 gatukostnadsersättning enligt plan- och bygglagen
 (2010:900)
-9. fastställa ersättningen för samt träffa avtal om parkeringsavlösen
-10. ge tillstånd att använda kommunens heraldiska vapen
+9\. fastställa ersättningen för samt träffa avtal om parkeringsavlösen
+10\. ge tillstånd att använda kommunens heraldiska vapen
 enligt 1 § lagen (1970:498) om skydd för vapen och vissa
 
 andra officiella beteckningar
-11. beslut om förbud mot eldning utomhus (förordningen
+11\. beslut om förbud mot eldning utomhus (förordningen
 (2003:789) om skydd mot olyckor, 2 kap. 7 §)
-12. avge yttranden enligt kamerabevakningslagen (2018:1200)
-13. tolka Kungsbacka kommuns bestämmelser om
+12\. avge yttranden enligt kamerabevakningslagen (2018:1200)
+13\. tolka Kungsbacka kommuns bestämmelser om
 ersättning till de förtroendevalda och hantera
 frågeställningar om dess tillämpning
-14. kommunstyrelsen beslutar också om yttranden som
+14\. kommunstyrelsen beslutar också om yttranden som
 ankommer på kommunfullmäktige när dessa inte är av
 principiell betydelse eller när tiden inte medger att yttrandet
 behandlas av kommunfullmäktige. Kommunstyrelsen ska om
 möjligt samråda med berörd nämnd vid handläggning av
 yttrandet.
-15. beslut om årliga omprövningar av borgensavgifter för
+15\. beslut om årliga omprövningar av borgensavgifter för
 ingångna borgensåtaganden.
 
 § 18 Kommunalråd
@@ -8275,26 +8275,26 @@ Nämnden ska ta initiativ till utveckling och effektivisering samt skapa föruts
 för att antagna mål, program och planer kan genomföras.
 
 § 2 Allmänna uppgifter
-1. Nämnden ska arbeta för långsiktigt hållbar utveckling ur ekonomiskt, socialt
+1\. Nämnden ska arbeta för långsiktigt hållbar utveckling ur ekonomiskt, socialt
 och ekologiskt perspektiv.
 
-2. Nämnden ska, inom ramen för sitt uppdrag, uppdatera och förenkla sitt
+2\. Nämnden ska, inom ramen för sitt uppdrag, uppdatera och förenkla sitt
 regelbestånd.
-3. Nämnden ska kontinuerligt följa upp lagstiftningen inom nämndens
+3\. Nämnden ska kontinuerligt följa upp lagstiftningen inom nämndens
 verksamhetsområde och vidta de åtgärder som krävs.
-4. Nämnden ska utveckla brukarinflytandet och dialogen med
+4\. Nämnden ska utveckla brukarinflytandet och dialogen med
 kommuninvånarna.
-5. Nämnden ska samråda med övriga kommunala nämnder, andra
+5\. Nämnden ska samråda med övriga kommunala nämnder, andra
 myndigheter och med enskilda organisationer som berörs av nämndens
 verksamhetsområde.
-6. Nämnden ska i möjligaste mån från annan nämnd erhålla den information
+6\. Nämnden ska i möjligaste mån från annan nämnd erhålla den information
 och det underlag den behöver i sin verksamhet. Rätten till information och
 underlag omfattar inte uppgift för vilken sekretess råder.
-7. Nämnden ska följa utvecklingen inom sitt verksamhetsområde och ska hos
+7\. Nämnden ska följa utvecklingen inom sitt verksamhetsområde och ska hos
 kommunfullmäktige, kommunstyrelsen eller annan nämnd lägga fram de
 förslag som behövs.
-8. Nämnden ska lämna yttranden som berör dess verksamhet.
-9. Nämnden har till uppgift att underhålla och förvalta den lösa egendomen
+8\. Nämnden ska lämna yttranden som berör dess verksamhet.
+9\. Nämnden har till uppgift att underhålla och förvalta den lösa egendomen
 som faller under nämndens förvaltning.
 
 Kungsbacka kommun    Gemensamt reglemente för kommunstyrelsen och nämnder 2 (11)
@@ -8327,9 +8327,9 @@ Personuppgiftsansvariga nämnder ska utse dataskyddsombud.
 kommunfullmäktige
 Nämnder ska redovisa till kommunfullmäktige hur de har fullgjort de uppdrag som
 kommunfullmäktige har lämnat till dem
--  i reglemente,
+\-  i reglemente,
 
--  genom finansbemyndigande.
+\-  genom finansbemyndigande.
 
 Nämnden ska vid redovisningen även redogöra för hur uppdrag som delegerats till
 den fullgjorts.
@@ -8407,17 +8407,17 @@ Kungsbacka kommun    Gemensamt reglemente för kommunstyrelsen och nämnder 4 (1
 § 15 Ordförandens uppgifter
 Det är ordförandens uppgift att svara för ledning, samordning och övervakning av
 nämndens samlade verksamhet. Detta innebär bland annat att:
-1. kalla till sammanträde enligt lag och reglemente
-2. inför sammanträdena se till att ärendena som ska behandlas är vid behov
+1\. kalla till sammanträde enligt lag och reglemente
+2\. inför sammanträdena se till att ärendena som ska behandlas är vid behov
 beredda
-3. se till att färdigberedda ärenden snarast behandlas i nämnden
-4. leda nämndens arbete och sammanträde
-5. följa förvaltningens arbete och bevaka att nämndens beslut verkställs
-6. överlägga med förvaltningschefen,
-7. representera nämnden genom kontakter med massmedia och med
+3\. se till att färdigberedda ärenden snarast behandlas i nämnden
+4\. leda nämndens arbete och sammanträde
+5\. följa förvaltningens arbete och bevaka att nämndens beslut verkställs
+6\. överlägga med förvaltningschefen,
+7\. representera nämnden genom kontakter med massmedia och med
 allmänheten i
 ärenden som berör nämndens arbetsområde,
-8. i övrigt vara tillgänglig för uppdrag inom ramen för nämndens arbetsområde i
+8\. i övrigt vara tillgänglig för uppdrag inom ramen för nämndens arbetsområde i
 den
 
 omfattning nämnden beslutar.
@@ -8552,13 +8552,13 @@ ledamöter har lika lång tjänstgöringstid ska den till åldern äldste ledamo
 Nämnden får besluta att ett sammanträde ska vara offentligt. En nämnds
 
 sammanträde ska dock alltid hållas inom stängda dörrar i ärenden:
-1. som avser myndighetsutövning, eller
+1\. som avser myndighetsutövning, eller
 
 Kungsbacka kommun    Gemensamt reglemente för kommunstyrelsen och nämnder 7 (11)
 
 <!-- sida 192 -->
 
-2. i vilka det förekommer uppgifter som hos nämnden omfattas av sekretess
+2\. i vilka det förekommer uppgifter som hos nämnden omfattas av sekretess
 enligt offentlighets- och sekretesslagen (2009:400).
 
 § 28 Sammanträde på distans
@@ -8579,9 +8579,9 @@ distans i nämnderna.
 Vid nämndens sammanträden
 Vid nämndens sammanträden får, utöver de som ska kallas till sammanträdet, i den
 mån nämnden inte för särskilt fall beslutar annat,
-1. nämndens sekreterare närvara,
-2. nämndens förvaltningschef närvara och delta i överläggningarna,
-3. föredragande tjänsteperson närvara och delta i överläggningarna som berör
+1\. nämndens sekreterare närvara,
+2\. nämndens förvaltningschef närvara och delta i överläggningarna,
+3\. föredragande tjänsteperson närvara och delta i överläggningarna som berör
 dennes ärende.
 
 Kommunalråd
@@ -8678,7 +8678,7 @@ sammanträdets inledning.
 
 Nämnden ska vid behandlingen av ett initiativ, vid sammanträdet där det väcks,
 antingen:
--  avgöra ärendet direkt genom att bifalla, avslå eller anse initiativet besvarat
+\-  avgöra ärendet direkt genom att bifalla, avslå eller anse initiativet besvarat
 
 remittera initiativet till förvaltningen, utskott eller presidium för beredning, eller
 bordlägga initiativet till nästkommande sammanträde.
@@ -9350,10 +9350,10 @@ gäller för fristående förskolor och skolor som är egna huvudmän.
 
 Privata aktörer kan bli utförare av en kommunal angelägenhet genom att
 
-1. Vinna en upphandling enligt upphandlingslagarna
-2. Kvalificera sig för att ingå i ett valfrihetssystem
+1\. Vinna en upphandling enligt upphandlingslagarna
+2\. Kvalificera sig för att ingå i ett valfrihetssystem
 
-3. Sälja enstaka tjänster av betydelse för invånarna till kommunen.
+3\. Sälja enstaka tjänster av betydelse för invånarna till kommunen.
 
 Mål och  riktlinjer
 

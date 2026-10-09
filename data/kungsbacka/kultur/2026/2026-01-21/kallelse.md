@@ -48,7 +48,7 @@ Val av justerare
 
 Mats Dahl (SD)
 
-1. | Information till nämnd:
+1\. | Information till nämnd:
 friluftsliv, föreningar och
 anläggningar
 
@@ -67,7 +67,7 @@ KFT-2026-
 
 Nämnden noterar informationen till protokollet.
 
-2. | Underlag till kommunbudget
+2\. | Underlag till kommunbudget
 2027
 
 Föredragande: Karl Persson,
@@ -99,7 +99,7 @@ Besöksadress
 
 KUNGSBACKA KOMMUN
 
-25)
+25\)
 
 Ärende Beteckning | Förslag
 Investeringsplan 2027-2036 KFT-2026- | Nämnden godkänner investeringsplan 2027-2031,
@@ -161,10 +161,10 @@ I st dokument
 
 nämndens ledamöter och ersättare.
 
-+ Besöken ska inbegripa invånare och personal, inkl
+\+ Besöken ska inbegripa invånare och personal, inkl
 enhetschef och/eller verksamhetschef.
 
-+ Besöken ska göras med bred politisk
+\+ Besöken ska göras med bred politisk
 representation: en ledamot eller ersättare från
 oppositionspartierna (S, MP och V), en ledamot eller
 ersättare från SD och två ledamöter eller ersättare
@@ -184,22 +184,22 @@ o Grupp 3: Annika Hamberg (M), Charlotte
 Wallenstein (M), Stefan Jägnert (SD), Helene
 Engdahl (KD), Claes-Erik Bergstrand (C)
 
-+ Besöken planeras till varannan månad. Fyra av
+\+ Besöken planeras till varannan månad. Fyra av
 dessa ska göras på Kulturskolan, Ung i Kungsbacka,
 Senior i Kungsbacka och Biblioteken i Kungsbacka.
 Resterande besök bestäms av nämnd.
 
-+ Besökande ledamöter och ersättare ska redovisa
+\+ Besökande ledamöter och ersättare ska redovisa
 besöket nästkommande nämndsammanträde, i
 samråd med nämndsekreterare.
 
-+ Besöken ska vara arvodesgrundande.
+\+ Besöken ska vara arvodesgrundande.
 
-+ Besöken ska ske på eftermiddagar eller under
+\+ Besöken ska ske på eftermiddagar eller under
 kvällstid, med undantag för besök på Senior i
 Kungsbackas verksamheter som ska ske dagtid.
 
-+ Förvaltningen ansvarar för sättning av dag, tid och
+\+ Förvaltningen ansvarar för sättning av dag, tid och
 program.
 
 <!-- sida 4 -->
@@ -210,20 +210,20 @@ KUNGSBACKA KOMMUN
 
 Ärende Beteckning |Förslag
 
-7. | Information till nämnd: KFT-2026- | Nämnden noterar informationen till protokollet.
+7\. | Information till nämnd: KFT-2026- | Nämnden noterar informationen till protokollet.
 årsredovisning 2025 00003
 Föredragande: Erik Norinder,
 utvecklingsledare
 10 min
 2 st dokument
 
-8. |Anmälan av delegeringsbeslut |KFT-2026- | Redovisning av delegeringsbeslut förtecknade i
+8\. |Anmälan av delegeringsbeslut |KFT-2026- | Redovisning av delegeringsbeslut förtecknade i
 januari 2026 00010 protokoll 2026-01-21 godkänns.
 
-9. | Redovisning av inkomna KFT-2026- | Nämnden noterar redovisningen till protokollet.
+9\. | Redovisning av inkomna KFT-2026- | Nämnden noterar redovisningen till protokollet.
 skrivelser januari 2026 00011
 
-10. | Initiativärende KFT-2026- | Nämnden antar initiativet och överlämnar till
+10\. | Initiativärende KFT-2026- | Nämnden antar initiativet och överlämnar till
 Socialdemokraterna: 00008 förvaltningen.
 rullstolsplatser
 Föredragande: Karl Persson,
@@ -231,7 +231,7 @@ förvaltningschef
 5 min
 2 st dokument
 
-11. | Initiativärende KFT-2026- | Nämnden anser initiativet vara besvarat, då det ingår
+11\. | Initiativärende KFT-2026- | Nämnden anser initiativet vara besvarat, då det ingår
 Socialdemokraterna: kultur för |00007 i verkställighet.
 
 boenden
@@ -255,7 +255,7 @@ Beteckning
 
 Förslag
 
-12.
+12\.
 
 Förvaltningschefen informerar
 jan 2026

@@ -595,10 +595,10 @@ inte bör börja skolan tidigare än kl 09.00.
 Förslag till beslut: Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i
 
 uppdrag att presentera underlag för följande:
-- Undersöka möjligheterna att, i ett begränsat antal klasser, genomföra senarelagd,
+\- Undersöka möjligheterna att, i ett begränsat antal klasser, genomföra senarelagd,
 daglig skolstart enligt ovan och
 
-- Att utvärdera en sådan senarelagd skolstart i samråd med akademisk institution
+\- Att utvärdera en sådan senarelagd skolstart i samråd med akademisk institution
 
 Förslag till beslut på sammanträdet
 
@@ -788,15 +788,15 @@ Sammanfattning av ärendet
 
 Patrik Hellberg, förvaltningschef föredrar ärendet
 
-- Förvaltningschefen har deltagit på uppföljningsmöte gällande bostad först. Två av
+\- Förvaltningschefen har deltagit på uppföljningsmöte gällande bostad först. Två av
 de tre personer som har fått en bostad via bostad först, kommer i från vår förvaltning.
 Framöver kommer ett beslut behövas tas gällande fortsättning av arbete kring bostad
 först.
 
-- Samtal förs med Varberg för att eventuellt inleda ett samarbete. Frågan kommer att
+\- Samtal förs med Varberg för att eventuellt inleda ett samarbete. Frågan kommer att
 behandlas vidare av förvaltningen och tas upp på ett nämndsmöte framöver.
 
-- Förvaltningen har jobbat med att omvandla metodiken YAM (suicidprevention) till
+\- Förvaltningen har jobbat med att omvandla metodiken YAM (suicidprevention) till
 
 en för gymnasieskolan mer anpassad metodik. I nästa steg ser förvaltningen en mer
 individuell satsning och den kommer att genomföras under 2026. För det fortsatt

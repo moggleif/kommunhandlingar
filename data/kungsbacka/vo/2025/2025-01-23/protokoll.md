@@ -251,12 +251,12 @@ Hravn Forsne (M) yrkar bifall till liggande förslag.
 Ermin Škorić (S) Astrid Börjesson (S) och Eva Tingström (S) föreslår följande
 tilläggsyrkanden:
 
-1. Arbetsskor alternativt skobidrag behöver införas för personalen som arbetar i
+1\. Arbetsskor alternativt skobidrag behöver införas för personalen som arbetar i
 kärnverksamheten (vårdnära personal, dvs vårdbiträde, USK, SSK på
 särskilda boenden och hemtjänsten).
 
-2. Högre grundbemanning behöver utredas och införas stegvis.
-3. Ersättning för karensavdrag för personalgrupper som har vårdkontakt inom
+2\. Högre grundbemanning behöver utredas och införas stegvis.
+3\. Ersättning för karensavdrag för personalgrupper som har vårdkontakt inom
 äldreomsorgen såsom undersköterskor, sjuksköterskor, vårdbiträden med
 flera.
 
@@ -271,12 +271,12 @@ Nämnden för Vård & Omsorg
 Datum
 2025-01-23
 
-4. 100% volymkompensation för att möta den demografiska förändringen och
+4\. 100% volymkompensation för att möta den demografiska förändringen och
 dämpa den flera år långa kroniska underfinansieringen av Vård & Omsorg.
-5. 6-timmars arbetsdag behöver utredas och införas stegvis för att förbättra
+5\. 6-timmars arbetsdag behöver utredas och införas stegvis för att förbättra
 arbetsmiljö och öka attraktiviteten.
 
-6. Full kompensation för driftskostnaden för Signeshus som beräknas öppna i
+6\. Full kompensation för driftskostnaden för Signeshus som beräknas öppna i
 slutet av 2025.
 
 Per Hoel (SD) och Göran Ottosson (SD) föreslår följande tilläggsyrkanden:
@@ -499,7 +499,7 @@ Regeringen beslutade 22 juni 2023 att tillsätta en särskild utredare med uppdr
 analysera och lämna förslag som stärker den medicinska kompetensen i kommunal
 hälso- och sjukvård (dir. 2023:98). Utredningen överlämnade betänkandet Stärkt
 medicinsk kompetens i kommunal hälso- och sjukvård (SOU 2024:72) i november
-2024.
+2024\.
 
 Utredningen föreslår åtgärder för att säkerställa den medicinska kompetensen inom
 kommunal hälso- och sjukvård och därigenom höja kvaliteten på vården. Några av
@@ -984,7 +984,7 @@ beslut, ärende 13, med följande motivering. Bedömning och beslut av inkomna l
 Sarah-anmälningar till Kungsbacka kommun visar på ett akut behov av en reell
 organisationsförändring då ett stort antal av anmälningarna inte förs vidare till
 Inspektionen för Vård och Omsorg (IVO) i enlighet med Socialtjänstlagen Kap 14 §
-3. Lagen föreskriver: "Missförhållanden som fått eller kunde fått allvarliga
+3\. Lagen föreskriver: "Missförhållanden som fått eller kunde fått allvarliga
 
 konsekvenser för den enskildes liv, säkerhet eller fysiska och psykiska hälsa ska
 bedömas som allvarliga. Allvarliga missförhållanden ska snarast anmälas till IVO."

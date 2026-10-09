@@ -274,22 +274,22 @@ samt till berörd delegat/befattning.
 Beslut om delegeringsförteckning innefattar förändringar om,
 
 Kap. 1.8 – Förkortningar och hänvisningar:
--  Bitr. VC stryks.
+\-  Bitr. VC stryks.
 
 Kap. 2.1 – Allmänt:
--  OSL 5 kap 5 §.
+\-  OSL 5 kap 5 §.
 Beslut om sekretessmarkering.
 
--  OSL 6 kap 3–4,6 §§.
+\-  OSL 6 kap 3–4,6 §§.
 Utlämnande av allmän handling med förbehåll eller att inte lämna ut en allmän
 handling.
 
--  OSL 6 kap 5 §.
+\-  OSL 6 kap 5 §.
 Helt eller delvis avslå begäran av en annan myndighet att ta del av en uppgift.
--  OSL 10 kap 15 a §.
+\-  OSL 10 kap 15 a §.
 Sekretessbrytande bestämmelse.
 
--  Uppgiftsskyldighetslagen 4 och 6 §§.
+\-  Uppgiftsskyldighetslagen 4 och 6 §§.
 Helt eller delvis avslå begäran av en brottsbekämpande myndighet att ta del av
 en uppgift.
 
@@ -304,46 +304,46 @@ Nämnden för Service
 Datum
 2026-05-12
 
--  OSL 6 kap. 1 a §.
+\-  OSL 6 kap. 1 a §.
 Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän
 handling lämnas ut.
--  Dataskyddsförordningen. GDPR artikel 15–21, 23. Dataskyddslagen
+\-  Dataskyddsförordningen. GDPR artikel 15–21, 23. Dataskyddslagen
 5 kap 1–3 §§. Helt eller delvis avslå framställan om begäran av utövande av
 
 registrerads rättigheter.
--  Riktlinjer för personuppgiftsbehandling, Dataskyddsförordningen GDPR,
+\-  Riktlinjer för personuppgiftsbehandling, Dataskyddsförordningen GDPR,
 artikel 28. Teckna personuppgiftsbiträdesavtal.
 
--  Undertecknande till myndighet.
--  Yttrande över remisser.
+\-  Undertecknande till myndighet.
+\-  Yttrande över remisser.
 
--  Yttrande över planprogram i gransknings- och samrådsskedet.
--  Yttrande över detaljplan i gransknings- och samrådsskedet.
+\-  Yttrande över planprogram i gransknings- och samrådsskedet.
+\-  Yttrande över detaljplan i gransknings- och samrådsskedet.
 
--  Yttrande över bygglov.
+\-  Yttrande över bygglov.
 Kap. 2.2 – Ekonomi och inköp:
 
--  LOU, Policy för inköp, Riktlinjer för inköp, Riktlinjer för direktupphandling.
--  Reinvesteringar Fastigheter.
+\-  LOU, Policy för inköp, Riktlinjer för inköp, Riktlinjer för direktupphandling.
+\-  Reinvesteringar Fastigheter.
 
--  Försäljning av material.
+\-  Försäljning av material.
 
--  Hantera uppsägning av externa hyresavtal för villkorsändring avseende lokaler
+\-  Hantera uppsägning av externa hyresavtal för villkorsändring avseende lokaler
 mellan kommun och hyresvärd.
--  Hantera hyresavtal avseende lokaler mellan kommun och extern hyresgäst med
+\-  Hantera hyresavtal avseende lokaler mellan kommun och extern hyresgäst med
 upp till 4 års avtalstid och en årshyra upp till 30 basbelopp exklusive
 mervärdesskatt.
 
--  Hantera uppsägning av externa hyresavtal för villkorsändring avseende lokaler
+\-  Hantera uppsägning av externa hyresavtal för villkorsändring avseende lokaler
 mellan kommun och hyresgäst.
--  Hantera interna hyresavtal avseende lokaler och bostäder mellan nämnden för
+\-  Hantera interna hyresavtal avseende lokaler och bostäder mellan nämnden för
 
 Service och övriga nämnder.
--  Hantera externa hyresavtal avseende bostäder mellan kommun och
+\-  Hantera externa hyresavtal avseende bostäder mellan kommun och
 hyresgäst/hyresvärd.
 
 Kap. 2.3 Personal:
--  AB § 11.
+\-  AB § 11.
 Disciplinpåföljd - skriftlig varning.
 
 Beslutsunderlag
@@ -551,13 +551,13 @@ Sammanfattning av ärendet
 Förvaltningschef Julia Tryggvadottir Tollesson och biträdande förvaltningschef Johan
 Burman informerar om,
 
--  Presidiedialog med Byggnadsnämnden
--  Partnerdialoger med Individ & Familjeomsorg, Kultur & Fritid och
+\-  Presidiedialog med Byggnadsnämnden
+\-  Partnerdialoger med Individ & Familjeomsorg, Kultur & Fritid och
 Förskola & Grundskola.
 
--  Kommunfullmäktiges fastställande om avskaffning av religiöst motiverad
+\-  Kommunfullmäktiges fastställande om avskaffning av religiöst motiverad
 specialkost och Måltids arbete med att omhänderta beslutet.
--  Pilotprojekt av ny larm-app.
+\-  Pilotprojekt av ny larm-app.
 
 Beslutsgång
 Ordförande Fredrik Hansson (C) prövar om nämnden för Service kan notera

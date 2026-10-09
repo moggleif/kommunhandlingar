@@ -1172,22 +1172,22 @@ undersökningar på aktuell fastighet.
 Utbetalning kommer   att ske efter acceptans av
 
 nedan  angivna villkor
-1. Bidrag ska endast användas för de utredningar och objekt
+1\. Bidrag ska endast användas för de utredningar och objekt
 
 som har beviljats bidrag inom den kostnad som angetts i
 ansökan.
 
-2. Bidraget ska användas och hanteras i enlighet med utgåva 16
+2\. Bidraget ska användas och hanteras i enlighet med utgåva 16
 av Naturvårdsverkets kvalitetsmanual för användning och
 
 hantering av statlig finansiering till avhjälpande av
 föroreningsskador.
 
-3. Huvudmannen ska omedelbart meddela och kommentera
+3\. Huvudmannen ska omedelbart meddela och kommentera
 betydande förändringar i projektet, till exempel ändringar i
 tidsplanen, uppfyllelse av mål eller kostnader.
 
-4. Naturvårdsverket beviljar endast bidrag för utredningsobjekt
+4\. Naturvårdsverket beviljar endast bidrag för utredningsobjekt
 där ansvar saknas. Om det framkommer att någon kan anses
 ansvarig för att bekosta utredningar ska kommunen
 omedelbart meddela Länsstyrelsen. Naturvårdsverket kan då
@@ -1195,7 +1195,7 @@ göra en omprövning av bidragsbeslutet och kan komma att
 
 fatta beslut om att återkräva det beviljade beloppet.
 
-5. Huvudmannen ska senast den 15:e januari 2026 lämna en
+5\. Huvudmannen ska senast den 15:e januari 2026 lämna en
 ekonomisk redovisning för utredningen av föroreningsskadan
 till Länsstyrelsen. Det ska i denna redovisning ingå uppgifter
 
@@ -1204,15 +1204,15 @@ att användas, oförbrukade medel, behov av omfördelning av
 medel till 2026 samt prognos för eventuella övriga framtida
 behov av medel.
 
-6. Ettåriga utredningar som påbörjas 2025 samt redan pågående
+6\. Ettåriga utredningar som påbörjas 2025 samt redan pågående
 
 utredningar 2025 ska avslutas i nära anslutning till årsskiftet
 2025/2026.
 
-7. Om medel behöver förbrukas under kvartal 1 2026, ska dessa
+7\. Om medel behöver förbrukas under kvartal 1 2026, ska dessa
 medel vara uppbundna i avtal senast den 31 december 2025.
 
-8. Rapporter, såsom MIFO-inventeringar, miljötekniska
+8\. Rapporter, såsom MIFO-inventeringar, miljötekniska
 
 undersökningar, riskbedömningar med mera ska så snart de
 är klara skickas digitalt till Länsstyrelsen.
@@ -1224,21 +1224,21 @@ Skickat 2025-02-27
 Länsstyrelsen Hallands län           Delbeslut                 3 (3)
 2025-02-26       1641-2025
 
-9. Verksamheten som har beviljats bidrag ska vara föremål för
+9\. Verksamheten som har beviljats bidrag ska vara föremål för
 samma kontroll och löpande revision som länsstyrelsens
 övriga verksamhet. Naturvårdsverket kan ställa krav på en
 
 extern revisor eller initiera egna revisioner.
 
-10. Eventuellt problem eller frågeställningar i projektet ska
+10\. Eventuellt problem eller frågeställningar i projektet ska
 ges möjlighet att diskuteras i en arbetsgrupp bestående av
 representanter från Kungsbacka kommun, konsult samt
 Länsstyrelsen.
 
-11. Eventuella överblivna oförbrukade medel ska återbetalas till
+11\. Eventuella överblivna oförbrukade medel ska återbetalas till
 Länsstyrelsen.
 
-12. Kungsbacka kommun ska meddela vilket konto, bank, samt
+12\. Kungsbacka kommun ska meddela vilket konto, bank, samt
 referens som ska anges vid utbetalningen av medel.
 
 De som  medverkat  i beslutet
@@ -1295,15 +1295,15 @@ kronor, och för tre utredningar i två län har bidragsbeloppet minskats med
 
 Villkor för bidraget
 
-1. Bidrag ska endast användas för de utredningar och objekt som har
+1\. Bidrag ska endast användas för de utredningar och objekt som har
 beviljats bidrag inom den kostnad som länsstyrelsen angett, samt i övrigt
 i enlighet med vad som angetts i ansökan.
 
-2. Bidraget ska användas och hanteras i enlighet med utgåva 16 av
+2\. Bidraget ska användas och hanteras i enlighet med utgåva 16 av
 Naturvårdsverkets kvalitetsmanual för användning och hantering av
 statlig finansiering till avhjälpande av föroreningsskador.
 
-3. Länsstyrelsen ska omedelbart meddela och kommentera betydande
+3\. Länsstyrelsen ska omedelbart meddela och kommentera betydande
 förändringar i projektet, till exempel ändringar i tidsplanen, uppfyllelse
 av mål eller kostnader.
 
@@ -1320,22 +1320,22 @@ Ankomstdatum 2024-12-13
 Diarienummer MH-2023-2167
 NATURVÅRDSVERKET                                             2(14)
 
-4. Bidraget får inte användas till länsstyrelsens egna kostnader för styrning
+4\. Bidraget får inte användas till länsstyrelsens egna kostnader för styrning
 och administration av bidraget.
 
-5. Länsstyrelsen är ansvarig att utreda om någon kan anses ansvarig för att,
+5\. Länsstyrelsen är ansvarig att utreda om någon kan anses ansvarig för att,
 helt eller delvis, bekosta utredningar. Om det framkommer att någon kan
 anses ansvarig för att bekosta utredningar ska länsstyrelsen omedelbart
 meddela Naturvårdsverket. Naturvårdsverket beviljar bidrag endast för
 utredningsobjekt där ansvar saknas.
 
-6. Länsstyrelsen ska för varje kalenderår lämna en uppdaterad ekonomisk
+6\. Länsstyrelsen ska för varje kalenderår lämna en uppdaterad ekonomisk
 
 redovisning för utredningen av föroreningsskadan till Naturvårdsverket.
 Den ska lämnas senast den 31 januari året efter det kalenderår som den
 avser.
 
-7. Det förorenade områdets status ska vara uppdaterad i EBH-stödet senast
+7\. Det förorenade områdets status ska vara uppdaterad i EBH-stödet senast
 den 31 januari varje år. Slutförda huvudstudierapporter (samtliga delar,
 inklusive riskvärderingsfasen) ska sändas till Naturvårdsverket senast sex
 månader efter avslutad huvudstudie med motivering till vald åtgärd. Om
@@ -1343,20 +1343,20 @@ en huvudstudie inte drivs vidare till åtgärd ska den skriftligen redovisas
 till Naturvårdsverket i samband med att huvudstudien färdigställs, dvs.
 när detta beslut fattats av länsstyrelsen.
 
-8. Verksamheten som har beviljats bidrag ska vara föremål för samma
+8\. Verksamheten som har beviljats bidrag ska vara föremål för samma
 kontroll och löpande revision som länsstyrelsens övriga verksamhet.
 Naturvårdsverket kan ställa krav på en extern revisor eller initiera egna
 revisioner.
 
-9. Ettåriga utredningar som påbörjas 2025 samt redan pågående utredningar
+9\. Ettåriga utredningar som påbörjas 2025 samt redan pågående utredningar
 2025 ska avslutas i nära anslutning till årsskiftet 2025/2026. Tvååriga
 utredningar som påbörjas 2025 ska avslutas i nära anslutning till
 årsskiftet 2026/2027.
 
-10. Länsstyrelserna ska redovisa oförbrukat bidrag till Naturvårdsverket
+10\. Länsstyrelserna ska redovisa oförbrukat bidrag till Naturvårdsverket
 senast den 31 januari 2026 respektive den 31 januari 2027.
 
-11. Länsstyrelsens beslut om eventuell vidarefördelning av bidrag enligt 10 a
+11\. Länsstyrelsens beslut om eventuell vidarefördelning av bidrag enligt 10 a
 § i förordning (2004:100) om statsbidrag för avhjälpande av
 föroreningsskador ska innehålla villkoren ovan i tillämpliga delar samt i
 övrigt de villkor som länsstyrelsen anser behövs.
@@ -1369,7 +1369,7 @@ NATURVÅRDSVERKET                                             3(14)
 
 Tabell 1: Ansökta och beviljade bidrag för utredningar 2025–2026 (belopp i kronor).
 
-* De ansökningar som nu inte beviljas uppfyller inte de uppställda förutsättningarna enligt
+\* De ansökningar som nu inte beviljas uppfyller inte de uppställda förutsättningarna enligt
 instruktionerna för ansökan om statsbidrag för utredningar, se mer i bilaga 3
 
 Bakgrund
@@ -1398,24 +1398,24 @@ avhjälpande av föroreningsskador.
 | Län | Ansökt bidrag<br>för 2025 | Beslutat<br>bidrag för<br>2025 | Ansökt bidrag<br>för 2026 | Beslutat bidrag<br>för 2026 |
 | --- | --- | --- | --- | --- |
 | Blekinge | - | - | - | - |
-| Dalarna | 1 555 000 | 955 000* | - | - |
+| Dalarna | 1 555 000 | 955 000\* | - | - |
 | Gotland | 250 000 | 250 000 | - | - |
 | Gävleborg | 345 000 | 345 000 | - | - |
 | Halland | 550 000 | 550 000 | - | - |
 | Jämtland | - | - | - | - |
-| Jönköping | 1 520 000 | 1 070 000* | 1 025 000 | 600 000* |
-| Kalmar | 4 100 000 | 2 900 000* | 650 000 | 650 000 |
-| Kronoberg | 2 250 000 | 2 000 000* | 1 200 000 | 1 200 000 |
-| Norrbotten | 2 700 000 | 2 100 000* | - | - |
+| Jönköping | 1 520 000 | 1 070 000\* | 1 025 000 | 600 000\* |
+| Kalmar | 4 100 000 | 2 900 000\* | 650 000 | 650 000 |
+| Kronoberg | 2 250 000 | 2 000 000\* | 1 200 000 | 1 200 000 |
+| Norrbotten | 2 700 000 | 2 100 000\* | - | - |
 | Skåne | 900 000 | 900 000 | - | - |
 | Stockholm | 400 000 | 400 000 | - | - |
 | Södermanland | 257 000 | 257 000 | - | - |
-| Uppsala | 1 885 000 | 1 202 000* | - | - |
+| Uppsala | 1 885 000 | 1 202 000\* | - | - |
 | Värmland | 1 050 000 | 1 050 000 | - | - |
-| Västerbotten | 798 500 | 450 500* | - | - |
+| Västerbotten | 798 500 | 450 500\* | - | - |
 | Västernorrland | 1 894 528 | 1 894 528 | - | - |
-| Västmanland | 4 100 000 | 2 225 000* | 500 000 | 370 000* |
-| Västra Götaland | 6 542 000 | 2 502 000* | 1 150 000 | 0* |
+| Västmanland | 4 100 000 | 2 225 000\* | 500 000 | 370 000\* |
+| Västra Götaland | 6 542 000 | 2 502 000\* | 1 150 000 | 0\* |
 | Örebro | - | - | - | - |
 | Östergötland | 800 000 | 800 000 | - | - |
 | Summa: | 31 897 028 | 21 851 028 | 4 525 000 | 2 820 000 |
@@ -1430,11 +1430,11 @@ Av 2 § 3 förordningen följer att i den utsträckning det finns medel får bid
 till den utredning som behövs för att avhjälpandeåtgärder ska kunna genomföras.
 
 Enligt 3 § andra stycket förordningen får bidrag enligt 2 § 3 endast ges om
-1. ansvar enligt miljöbalken eller äldre lagstiftning att utföra eller bekosta
+1\. ansvar enligt miljöbalken eller äldre lagstiftning att utföra eller bekosta
 sådan verksamhet inte kan utkrävas eller endast kan utkrävas delvis,
-2. den eller de som är ansvariga för att bekosta sådan verksamhet inte kan
+2\. den eller de som är ansvariga för att bekosta sådan verksamhet inte kan
 betala, eller
-3. det finns synnerliga skäl.
+3\. det finns synnerliga skäl.
 
 Enligt 4 § förordningen ska det från det bidragsbelopp som följer av 2 och 3 §§
 
@@ -1543,7 +1543,7 @@ Information om överklagande
 Detta beslut får inte överklagas enligt 12 § i förordningen (2004:100) om
 statsbidrag för avhjälpande av föroreningsskador.
 
-__________
+\__________
 Beslut om detta bidrag för utredningar har fattats av vikarierande
 
 generaldirektören Maria Ohlman efter föredragning av avdelningschefen Ingela
@@ -1730,11 +1730,11 @@ NATURVÅRDSVERKET                                            13(14)
 
 | Norrbotten | Nordindustri verkstad<br>AB, Varv med<br>halogenerade<br>lösningsmedel/giftiga<br>båtbottenfärger – ny<br>Mifo fas 2-<br>undersökning | 600 000 | - | Länsstyrelsen har valt att<br>prioritera bort detta<br>objekt p.g.a. tidsbrist ifall<br>de övriga sökta objekten<br>skulle beviljas (vilket<br>sker). |
 | --- | --- | --- | --- | --- |
-| Uppsala | Vällnora<br>bruk/Bennebols bruk<br>– komplettering av<br>pågående<br>huvudstudie | 455 000* | - | Avdrag har gjorts på sökt<br>belopp med denna<br>summa avseende<br>pilotstudier, då<br>pilotstudier inte ryms i<br>det som omfattas av<br>utredningsfasen. |
-|  | Lännaholms bruk –<br>komplettering av<br>pågående<br>huvudstudie | 228 000* | - | Avdrag har gjorts på sökt<br>belopp med denna<br>summa avseende<br>pilotstudier, då<br>pilotstudier inte ryms i<br>det som omfattas av<br>utredningsfasen. |
+| Uppsala | Vällnora<br>bruk/Bennebols bruk<br>– komplettering av<br>pågående<br>huvudstudie | 455 000\* | - | Avdrag har gjorts på sökt<br>belopp med denna<br>summa avseende<br>pilotstudier, då<br>pilotstudier inte ryms i<br>det som omfattas av<br>utredningsfasen. |
+|  | Lännaholms bruk –<br>komplettering av<br>pågående<br>huvudstudie | 228 000\* | - | Avdrag har gjorts på sökt<br>belopp med denna<br>summa avseende<br>pilotstudier, då<br>pilotstudier inte ryms i<br>det som omfattas av<br>utredningsfasen. |
 | Västerbotten | Skelleftehamns<br>metallgjuteri – ny<br>förstudie | 348 000 | - | Kompletteringar<br>avseende<br>ansvarsbedömningen<br>inkom för nära inpå<br>Naturvårdsverkets<br>beslutstillfälle, därav har<br>ansvarsfrågan inte hunnit<br>granskas. |
 | Västmanland | Nedre Skärsjön<br>inklusive Uggleforsån,<br>gruvor och upplag –<br>komplettering av<br>pågående<br>huvudstudie | 1 800 000 | - | Kompletteringar<br>avseende<br>ansvarsutredningen hade<br>inte inkommit i tid till<br>Naturvårdsverkets<br>beslutstillfälle, därav har<br>ansvarsfrågan inte hunnit<br>granskas. |
-|  | Bålsjöverkets<br>silvergruva –<br>komplettering av<br>pågående<br>huvudstudie | 75 000* | 130 000* | För 2025 görs avdrag för<br>skyltning, vilket vi anser<br>är mer att betrakta som<br>en administrativ åtgärd.<br>För 2026 görs avdrag för<br>upprättande av ansökan<br>enligt 2 § 4 förordningen<br>(2004:100) om<br>statsbidrag för<br>avhjälpande av<br>föroreningsskador, vilket<br>ska sökas separat. |
+|  | Bålsjöverkets<br>silvergruva –<br>komplettering av<br>pågående<br>huvudstudie | 75 000\* | 130 000\* | För 2025 görs avdrag för<br>skyltning, vilket vi anser<br>är mer att betrakta som<br>en administrativ åtgärd.<br>För 2026 görs avdrag för<br>upprättande av ansökan<br>enligt 2 § 4 förordningen<br>(2004:100) om<br>statsbidrag för<br>avhjälpande av<br>föroreningsskador, vilket<br>ska sökas separat. |
 | Västra<br>Götaland | Fengersfors-Knarrbyn,<br>massa-<br>pappersindustri –<br>komplettering av<br>pågående<br>huvudstudie | 1 300 000 | 700 000 | Underlaget gällande<br>ansvarsutredningen var<br>inkomplett vid<br>Naturvårdsverkets<br>beslutstillfälle, och det<br>behöver kompletteras. |
 
 <!-- sida 49 -->
@@ -1743,7 +1743,7 @@ Ankomstdatum 2024-12-13
 Diarienummer MH-2023-2167
 NATURVÅRDSVERKET                                            14(14)
 
-*Avdrag har gjorts för sådant som inte ryms i det som omfattas av utredningsskedet enligt 2 § 3
+\*Avdrag har gjorts för sådant som inte ryms i det som omfattas av utredningsskedet enligt 2 § 3
 förordningen (2004:100) om statsbidrag för avhjälpande av föroreningsskador.
 
 [Tabell 49-1](handlingar.tabeller/49-1.csv)
@@ -1782,7 +1782,7 @@ Sammanfattning av ärendet
 
 För att möjliggöra utbyggnad av bostäder, verksamhetslokaler, parkeringar, gator och
 parker i Kolla Parkstad antog kommunfullmäktige en detaljplan för området under
-2010. Utbyggnaden av området är nu slutförd, med undantag av tre av Aranäs
+2010\. Utbyggnaden av området är nu slutförd, med undantag av tre av Aranäs
 fastigheter som fortfarande är obebyggda. Parkeringsfrågan är den enda
 gemensamma frågan som återstår att reglera mellan kommunen och byggherrarna i
 projekt Kolla Parkstad: Eksta Bostads AB, JM AB och Nordr Sverige AB och
@@ -2041,7 +2041,7 @@ Kommundirektör                     Samhällsbyggnadschef
 AVTAL OM PARKERING
 KOLLA PARKSTAD
 
-1. PARTER
+1\. PARTER
 
 Kungsbacka kommun (212000-1256)
 
@@ -2052,7 +2052,7 @@ Aranäs Projekt AB (556719-1423)
 JM AB (556045-2103)
 Nordr Sverige AB (556550-7307) tidigare Veidekke Bostad AB.
 
-2. SAMMANFATTNING
+2\. SAMMANFATTNING
 
 Utbyggnaden av bostäder, verksamhetslokaler, allmänna parkeringar, gator och par-
 ker i Kolla Parkstad är nu slutförd, med undantag av Aranäs fastigheter Kolla 3:67,
@@ -2070,7 +2070,7 @@ med detta avtal, i syfte att reglera Aranäs särskilda ansvar för att iordning
 keringsplatser.
 
 Allt som nämns och regleras angående parkering i detta avtal avser bilparkering.
-3. BAKGRUND OCH FÖRUTSÄTTNINGAR, PARKERING
+3\. BAKGRUND OCH FÖRUTSÄTTNINGAR, PARKERING
 
 För att möjliggöra utbyggnad av bostäder och verksamheter i Kolla Parkstad antog
 kommunfullmäktigen en detaljplan 2010, ”Detaljplan för fastigheten Kolla 5:6
@@ -2117,7 +2117,7 @@ fastställt vilken part som i så fall ska äga och förvalta anläggningarna.
 Varken avtal eller parkeringsplan reviderades i samband med att den nya detaljpla-
 nen antogs 2014, vilket innebär att dokumenten från 2010 fortfarande gäller.
 
-4. PARKERINGSUTREDNINGAR OCH PARKERINGSTAL
+4\. PARKERINGSUTREDNINGAR OCH PARKERINGSTAL
 
 För att klargöra vilket parkeringsbehov som faktiskt finns i Kolla Parkstad har par-
 keringsutredningar och parkeringsräkningar utförts 2017, 2019 och 2022 (Nor-
@@ -2143,7 +2143,7 @@ Parkeringsutredningarna visar vidare att de parkeringsplatser som redan finns i 
 det, tillsammans med de platser som Aranäs ska bygga inom Kolla 3:67, 3:70 och
 3:87 (totalt ca 1680 parkeringsplatser i området, p-tal 1,24 platser/lägenhet och ca
 
-25)
+25\)
 
 <!-- sida 58 -->
 
@@ -2187,7 +2187,7 @@ gångväg mellan Kolla Parkstad och rekreationsområdet Kungsbackaskogen som lig
 ger på andra sidan Onsalavägen. Parterna är nu överens om att finansiera en sådan
 
 gångväg.
-6. ÖVERENSKOMMELSE ANGÅENDE PARKERING
+6\. ÖVERENSKOMMELSE ANGÅENDE PARKERING
 
 Parterna är överens om att;
 
@@ -2198,7 +2198,7 @@ Kolla 5:149) tillgodoser planområdet Kolla Parkstads parkeringsbehov, med
 ett visst överskott. Inga ytterligare parkeringsdäck, garage eller andra parke-
 ringsanläggningar ska/behöver byggas.
 
-305)
+305\)
 
 <!-- sida 59 -->
 
@@ -2240,7 +2240,7 @@ Detta avtal har upprättats i fem likalydande exemplar av vilka parterna tagit v
 
 Datum 2025-€/,—[€
 Eksta Bostadsaktiebolag
-- /
+\- /
 
 Datum 2025-
 Kungsbacka kommun
@@ -2258,16 +2258,16 @@ Nordr Sverige AB
 
 Bilagor:
 
-1. Parkeringsplan, ramavtal 2010
+1\. Parkeringsplan, ramavtal 2010
 
-2. Plankarta, detaljplan Kp118C
+2\. Plankarta, detaljplan Kp118C
 
-3. Mobilitets- och parkeringsutredning, Norconsult 2022, justerad 2024
-4. Parkeringsstrategi Kungsbacka stad, 2017
+3\. Mobilitets- och parkeringsutredning, Norconsult 2022, justerad 2024
+4\. Parkeringsstrategi Kungsbacka stad, 2017
 
-5. Parkering Aranäs fastigheter
+5\. Parkering Aranäs fastigheter
 
-6. Gångväg till Kungsbackaskogen, principskiss
+6\. Gångväg till Kungsbackaskogen, principskiss
 
 5(5)
 
@@ -2717,7 +2717,7 @@ Uppdragsnr.: 1051799 Version: 1.0
 I Figur 3 redovisas befinilga Na samt Ryke baner inom Kolla Parkstad.
 HH
 
-2)
+2\)
 
 Im Vuäralalla
 
@@ -2858,14 +2858,14 @@ Tabell 4. Av dessa bilplatser är 108 bilplatser i garage där samtliga är uthy
 fastighetsägaren.
 
 Sammanlagt fanns vid inventeringen 360 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-7426. I området finns enligt uppgifter 396 lägenheter och 16 hus. Det momentana parkeringsbehovet i området
+7426\. I området finns enligt uppgifter 396 lägenheter och 16 hus. Det momentana parkeringsbehovet i området
 har beräknats vara 0,86 bilplatser/lägenhet och 1,20 bilplatser/hus.
 
 I Tabell 4 presenteras en sammanställning av inventeringsresultaten för område A — Norra.
 
 Tabell
 
-4. Sammanställning av inve gsresult mråde A — Norr (år 2022)
+4\. Sammanställning av inve gsresult mråde A — Norr (år 2022)
 Antal Antal P- Beläggnings-| Antal Antal P-behov P-behov
 parkerade |platser grad lägenheter | småhus Igh hus
 bilar (bp/lgh) (bp/hus)
@@ -2897,7 +2897,7 @@ Kolla Parkstad, Kungsbacka
 Uppdragsnr.: 1051799 Version: 1.0
 
 Sammanlagt fanns vid inventeringen 146 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-5390. I området finns 122 lägenheter och 50 hus. Det momentana parkeringsbehovet i området har beräknats
+5390\. I området finns 122 lägenheter och 50 hus. Det momentana parkeringsbehovet i området har beräknats
 vara 0,76 bilplatser/lägenhet och 1,06 bilplatser/hus.
 
 I Tabell 5 presenteras en sammanställning av inventeringsresultaten för område A — Söder.
@@ -2918,7 +2918,7 @@ Området består endast av småhus och det är finns totalt 59 småhus i område
 området ha sammanlagt 214 bilplatser, se Tabell 6.
 
 Sammanlagt fanns vid inventeringen 74 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-3560. I området finns sammanlagt 59 hus och det momentana parkeringsbehovet i området har beräknats vara
+3560\. I området finns sammanlagt 59 hus och det momentana parkeringsbehovet i området har beräknats vara
 1,25 bilplatser/hus.
 
 I Tabell 6 presenteras en sammanställning av inventeringsresultaten för område B — Norr.
@@ -2943,7 +2943,7 @@ hyresrätter och bostadsrätter men också småhus. Det finns 49 lägenheter res
 inventeringen räknades området ha sammanlagt 91 bilplatser, se Tabell 7.
 
 Sammanlagt fanns vid inventeringen 52 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-5720. I området finns enligt uppgifter 49 lägenheter och 6 hus. Det momentana parkeringsbehovet i området
+5720\. I området finns enligt uppgifter 49 lägenheter och 6 hus. Det momentana parkeringsbehovet i området
 har beräknats vara 0,91 bilplatser/lägenhet och 1,27 bilplatser/hus.
 
 I Tabell 7 presenteras en sammanställning av inventeringsresultaten för område B — Söder.
@@ -2975,13 +2975,13 @@ Totalt 52 91 57,10
 3.3.1 Område C — Norr
 
 I område C — Norra är inte heller alla kvarter byggda och inflyttade. Bebyggda kvarter är 13a, 13b, 18, 19 och
-20. Det är endast kvarter 13c som ännu står ofärdigt, se streckad inringning i Figur 1. Området består till
+20\. Det är endast kvarter 13c som ännu står ofärdigt, se streckad inringning i Figur 1. Området består till
 största del av flerbostadshus i form av hyresrätter och bostadsrätter men även småhus. Det finns 220
 lägenheter och 3 småhus. Vid inventeringen räknades området ha sammanlagt 183 bilplatser, se Tabell 8. Av
 dessa bilplatser är 39 bilplatser i garage där samtliga är uthyrda enligt uppgifter från fastighetsägaren.
 
 Sammanlagt fanns vid inventeringen 159 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-87246. I området finns enligt uppgifter 220 lägenheter och 3 hus. Det momentana parkeringsbehovet i området
+87246\. I området finns enligt uppgifter 220 lägenheter och 3 hus. Det momentana parkeringsbehovet i området
 har beräknats vara 0,71 bilplatser/lägenhet och 0,99 bilplatser/hus.
 
 I Tabell 8 presenteras en sammanställning av inventeringsresultaten för område C — Norr.
@@ -3008,7 +3008,7 @@ hyresrätter och bostadsrätter men också småhus. Det finns 136 lägenheter re
 inventeringen räknades området ha sammanlagt 275 bilplatser, se Tabell 9.
 
 Sammanlagt fanns vid inventeringen 164 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-6026. I området finns enligt uppgifter 136 lägenheter och 38 hus. Det momentana parkeringsbehovet i området
+6026\. I området finns enligt uppgifter 136 lägenheter och 38 hus. Det momentana parkeringsbehovet i området
 
 har beräknats vara 0,87 bilplatser/lägenhet och 1,21 bilplatser/hus.
 
@@ -3061,7 +3061,7 @@ antalet parkeringsplatser har ökat kraftigt i området i samband med exploateri
 beläggningsgraden sjunkit något.
 
 2022
-<UZe
+\<UZe
 
 Tabell 11. Parkeringsinventering år 2017, 2018 och
 
@@ -3198,7 +3198,7 @@ parkeringsplatser i stället vilket innebär att nyttjandegraden totalt sett bli
 överskott av parkeringsplatser i nuläget.
 
 https //norconsult365-my.sharepoint.com/personal/karin gamberg norconsult comidocumentsidesktopikolla
-+ , 2 Fas -
+\+ , 2 Fas -
 
 parkstad p-utredning/2024 mobilitets- och parkeringsutredning kolla parkstad.docx
 
@@ -3570,7 +3570,7 @@ inom respektive kvarter.
 Bild och tabell hämtad från Mobilitets och parkeringsutredning Kolla Parkstad (Norconsult 2022).
 
 Proc RR BN Område B HH fodhus/Kediehus/Villor N
-- Norr Lgh, bostadsrätt
+\- Norr Lgh, bostadsrätt
 
 Ugh, hyresrätt
 Övrig bebyggelse Etapp I Etapp 2 Eropp 3
@@ -3578,7 +3578,7 @@ Ugh, hyresrätt
 [I Obebyggt år 2022
 
 Område B
-- Söder
+\- Söder
 
 (SE
 
@@ -3622,7 +3622,7 @@ stället ger ett överskott på 235 platser.
 AVTAL OM PARKERING
 ARANÄS, KOLLA PARKSTAD
 
-1. PARTER
+1\. PARTER
 
 Kungsbacka kommun (212000-1256), nedan kallad Kommunen
 
@@ -3633,7 +3633,7 @@ Aranäs i Kungsbacka 13 AB (556947-6095), ägare av Kolla 3:70 och 3:87
 BRF Idyllen i Kungsbacka (769633-2340) c/o Aranäs AB, ägare av Kolla 3:67
 
 Exploatörerna kallas nedan gemensamt för Aranäs.
-2. BAKGRUND OCH FÖRUTSÄTTNINGAR
+2\. BAKGRUND OCH FÖRUTSÄTTNINGAR
 
 Utbyggnaden av bostäder, verksamhetslokaler, allmänna parkeringar, gator och par-
 ker i Kolla Parkstad är nu slutförd, med undantag av Aranäs fastigheter Kolla 3:67,
@@ -3656,7 +3656,7 @@ keringsplatser när fastigheterna Kolla 3:67, 3:70 och 3:87 bebyggs.
 Allt som nämns och regleras angående parkering i detta avtal avser bilparkering. Ut-
 över detta har Aranäs en skyldighet att ordna cykelparkering på egen mark.
 
-3. NULÄGE, PARKERINGSUTREDNINGAR OCH PARKERINGSTAL
+3\. NULÄGE, PARKERINGSUTREDNINGAR OCH PARKERINGSTAL
 
 För att klargöra vilket parkeringsbehov som faktiskt finns i Kolla Parkstad har parke-
 ringsutredningar och parkeringsräkningar utförts 2017, 2019 och 2022 (Norconsult).
@@ -3667,7 +3667,7 @@ helt utbyggt uppskattas det viktade parkeringsbehovet till 0,94 platser/lägenhe
 flerbostadshus och 1,36 platser/småhus, vilket motsvarar ett behov av totalt ca
 1245 platser.
 
-13)
+13\)
 
 <!-- sida 90 -->
 
@@ -3681,7 +3681,7 @@ ca 99 parkeringsplatser, vilket är en förutsättning för den totala parkering
 Kolla Parkstad. Se bilaga 1, delområden samt bilaga 2, utdrag från Mobilitets- och
 parkeringsutredning Kolla Parkstad (Norconsult 2022).
 
-4. ÖVERENSKOMMELSE ANGÅENDE PARKERING
+4\. ÖVERENSKOMMELSE ANGÅENDE PARKERING
 
 Aranäs förbinder sig att iordningställa totalt ca 99 parkeringsplatser inom sina fastig-
 heter Kolla 3:67 (kvarter 5 och 7), Kolla 3:70 (kvarter 8) och Kolla 3:87 (kvarter 9),
@@ -3694,7 +3694,7 @@ Antalet parkeringsplatser som ska iordningställas ska beräknas utifrån parker
 inom respektive fastighet. Preliminärt antal parkeringsplatser som ska anläggas inom
 respektive fastighet framgår av bilaga 2.
 
-5. ÖVERLÅTELSE AV FASTIGHET
+5\. ÖVERLÅTELSE AV FASTIGHET
 
 Om Aranäs överlåter någon av fastigheterna Kolla 3:67, 3:70 och 3:87, eller fastighet
 som avstyckats från dessa, ska köparen förbinda sig att anlägga erforderligt antal par-
@@ -3708,7 +3708,7 @@ Detta avtal har upprättats i fyra likalydande exemplar av vilka parterna tagit 
 Datum 2025- Datum 2025- 66 -1 4
 Kungsbacka kommun Aranäs Projekt AB
 
-203)
+203\)
 
 <!-- sida 91 -->
 
@@ -3717,9 +3717,9 @@ Aranäs i Kungsbacka 13 AB BRF Idyllen i Kungsbacka
 Kolla 3:70 och 3:87 Kolla 3:67
 
 Bilagor:
-1. Indelning i delområden och kvarter
+1\. Indelning i delområden och kvarter
 
-2. Utdrag, Mobilitets- och parkeringsutredning Kolla Parkstad, Norconsult 2022,
+2\. Utdrag, Mobilitets- och parkeringsutredning Kolla Parkstad, Norconsult 2022,
 justerad 2024.
 
 3(3)
@@ -3733,11 +3733,11 @@ Bilaga 1
 Aranäs fastigheter Kolla 3:67 (kvarter 5 och 7), Kolla 3:70 (kvarter 8) och Kolla 3:37 (kvarter 9) är obebyggda.
 
 sx
-+
+\+
 
 OmrådeB = I jan/keäda/vile
 
-- Norr
+\- Norr
 
 Logh, bostodsärt
 
@@ -3749,7 +3749,7 @@ Bape I Eropp 2
 
 CC Obebyggt år 2022
 
-2)
+2\)
 
 Bropp 3
 
@@ -3984,7 +3984,7 @@ har träffats följande
 
 RAMAVTAL
 
-$1 BAKGRUND
+\$1 BAKGRUND
 
 Kommunen är lagfaren ägare till fastigheterna Kolla 5:5, 5:6, 5:7 och 1:20, Aranäs är
 lagfaren ägare till fastigheten Kolla 3:64, JM är lagfaren ägare till fastigheten Kolla 5:13
@@ -4081,7 +4081,7 @@ Kommunen, Aranäs, JM och Eksta hanterar var för sig och tar ansvar för de eve
 skatteeffekter som kan uppstå vid genomförande av marköverföringarna enligt
 Överenskommelsen och Överenskommelse Kollaskolan.
 
-$3 BYGGNATION
+\$3 BYGGNATION
 
 Exploatörerna, förutom Eksta, och av Kommunen utsedda exploatörer för hyresrätterna
 skall inom Exploateringsområdet bygga ca 1100 bostäder för bostadsrätt,
@@ -4145,10 +4145,10 @@ omfattning och följd som behövs för att färdigställa området enligt tidpla
 området skall fungera för boende, verksamheter och besökare inom
 Exploateringsområdet.
 
-$7 GEMENSAMT ANSVAR
+\$7 GEMENSAMT ANSVAR
 
 Exploatörerna har ett gemensamt ansvar för att allmänna anläggningar m.m. byggs ut
-enligt $$ 4 och 6. Det gemensamma ansvaret innebär en förpliktelse för Exploatörerna
+enligt \$\$ 4 och 6. Det gemensamma ansvaret innebär en förpliktelse för Exploatörerna
 att bekosta sin respektive andel av allmänna anläggningar m.m. enligt
 Exploateringsavtalen i takt med utbyggnaden av Exploateringsområdet, detta oaktat om
 man själv bygger på sina respektive kvarter.
@@ -4187,7 +4187,7 @@ Om Kommunen inte kunnat anvisa hyresgäster till respektive kvarter inom tre må
 efter att broschyr med nödvändiga villkor föreligger för respektive kvarter äger
 exploatören för hyresrätterna rätt att själv utse hyresgäster.
 
-$9 PARKERING
+\$9 PARKERING
 
 För Exploateringsområdet gäller parkeringsnorm för bostäder och hantering av parkering
 vid bygglovsprövning enligt Planbeskrivningen till Detaljplanen, bilaga 6,
@@ -4197,22 +4197,22 @@ Kommunen och Exploatörerna har kommit överens om att upplåta all parkering ut
 Exploatörernas kvartersmark inom Exploateringsområdet med boendekort.
 Förutsättningarna för och konsekvenserna av upplåtelse med boendekort är följande:
 
-- Vid beräkning av parkeringsbehovet för boende och besökare kan behovet genom
+\- Vid beräkning av parkeringsbehovet för boende och besökare kan behovet genom
 samnyttjande reduceras med 25 94 på all parkering som upplåtes med boendekort.
 Beräkning av behovet framgår av bilaga 6, Parkeringsplan.
 
-- Kvartersmarken för verksamheter i västra delen av Exploateringsområdet skall inte
+\- Kvartersmarken för verksamheter i västra delen av Exploateringsområdet skall inte
 iordningställas och upplåtas för boendeparkering. Verksamheterna skall ordna sitt behov
 av parkering på egen kvartersmark.
 
-- Parkeringsdäcket väster om punkthusen i norra delen av Exploateringsområdet kan utgå
+\- Parkeringsdäcket väster om punkthusen i norra delen av Exploateringsområdet kan utgå
 och ersättas av markparkering.
 
-- Skolan skall ordna sitt behov av parkering på egen kvartersmark. Skolans
+\- Skolan skall ordna sitt behov av parkering på egen kvartersmark. Skolans
 parkeringsplatser skall till en del och genom samnyttjande kunna nyttjas som parkering
 för boende.
 
-- Behov av parkering för förskolor och lokaler i bottenvåningen på bostadskvarteren
+\- Behov av parkering för förskolor och lokaler i bottenvåningen på bostadskvarteren
 
 tillgodoses genom samnyttjande av ---
 
@@ -4223,42 +4223,42 @@ tillgodoses genom samnyttjande av ---
 Kolla Parkstad
 Ramavtal Kommunen, JM, Aranäs, Exploatören, Eksta
 
-- Parkeringsplatser som upplåts med boendekort skall vid behov kunna avsättas för
+\- Parkeringsplatser som upplåts med boendekort skall vid behov kunna avsättas för
 bilpooler och handikapplatser. Behovet av handikapplatser för boende inom
 Exploateringsområdet skall dock i första hand och vid behov lösas inom Exploatörernas
 kvartersmark.
 
-- Obebyggda ytor, såsom etableringsytor som inte nyttjas, får inte upplåtas för parkering
+\- Obebyggda ytor, såsom etableringsytor som inte nyttjas, får inte upplåtas för parkering
 för boende eller besökare till Exploateringsområdet.
 
-- Parkeringsavgift skall införas för besökare och boende utan boendekort.
+\- Parkeringsavgift skall införas för besökare och boende utan boendekort.
 
-- Avgiften för boendekort skall från och med 2013 uppgå till ca 75 94 av avgiften som
+\- Avgiften för boendekort skall från och med 2013 uppgå till ca 75 94 av avgiften som
 boende betalar på Exploatörernas kvartersmark, dock minst 200 kronor per månad
 exklusive eventuell tillkommande moms.
 
-- Parkeringsavgifter och avgifter för boendekort samt övriga parkeringsregler inom
+\- Parkeringsavgifter och avgifter för boendekort samt övriga parkeringsregler inom
 Exploateringsområdet skall inordnas i den parkeringspolicy för Kungsbacka innerstad
 som Kommunen avser att ta fram under 2010. Överenskommelsen om avgiften för
 boendekort enligt ovan är en förutsättning för denna parkeringspolicy.
 
-- Kommunen skall administrera och förvalta all parkering som upplåts med boendekort,
+\- Kommunen skall administrera och förvalta all parkering som upplåts med boendekort,
 för besökare, för bilpooler och för handikappade utanför Exploatörernas kvartersmark.
 Det innebär också att Kommunen skall sätta upp parkeringsautomater och få alla intäkter
 från försäljning av boendekort och parkeringsavgifter samt ta alla kostnader för drift,
 underhåll och reinvesteringar.
 
-- Kostnaden för anläggandet av de ytor som upplåtes med boendekort ingår i Allmänna
-anläggningar m.m. enligt $ 4 och regleras i Exploateringsavtalen. Exploatörerna av
+\- Kostnaden för anläggandet av de ytor som upplåtes med boendekort ingår i Allmänna
+anläggningar m.m. enligt \$ 4 och regleras i Exploateringsavtalen. Exploatörerna av
 hyresrätter skall dock bidra med en gatukostnadsersättning uppgående till 150 kronor per
 m2 BTA byggrätt för hyresrätt.
 
-- Exploatörerna åtar sig att i skrift informera alla berörda såsom boende,
+\- Exploatörerna åtar sig att i skrift informera alla berörda såsom boende,
 bostadsrättsföreningar och samfällighetsföreningar om de parkeringsregler som gäller för
 Exploateringsområdet samt även ge information om vart de skall vända sig för att lösa
 boendekort.
 
-- Genom införande av boendekort avsäger sig Exploatörerna rätten att kräva att
+\- Genom införande av boendekort avsäger sig Exploatörerna rätten att kräva att
 Kommunen skall ordna mer parkering för boende inom Exploateringsområdet.
 
 8 10 FJÄRRVÄRME, EL, BREDBAND
@@ -4284,7 +4284,7 @@ bostadskvarteren med hyresrätter. Exploatörerna skall efter behov bekosta övr
 utläggning av tomrör. Projektering och utläggning av tomrör skall så långt det är möjligt
 samordnas mellan samtliga exploatörer som är verksamma inom Exploateringsområdet
 
-$ 11 AVFALLSHANTERING
+\$ 11 AVFALLSHANTERING
 
 Bostäder skall utrustas för hushållsnära källsortering.
 
@@ -4296,7 +4296,7 @@ m.m.
 För övrigt gäller Kommuns Renhållningsordning beslutad av kommunfullmäktige i
 september 2004.
 
-$ 12 ENERGIEFFEKTIVA HUS
+\$ 12 ENERGIEFFEKTIVA HUS
 
 I planbeskrivningen står att målsättningen är att bygga så energisnåla hus som möjligt.
 Ett av Kungsbacka kommuns miljömål är att alla nybyggda bostäder inom planlagt
@@ -4313,7 +4313,7 @@ från en normalvägg med tjocklek 300 mm inklusive fasadmaterial vid krav enligt
 på 110 kWh/m? BOA och år. Vid en utformning med lägre energianvändning får BTA
 öka motsvarande vad totala väggtjockleken ökar jämfört med 300 mm.
 
-$£13 MARKNADSKOMMUNIKATION
+\$£13 MARKNADSKOMMUNIKATION
 
 Aranäs och JM har i samarbete med Kommunen arbetat fram och bekostat en gemensam
 kommunikationsplan och en gemensam hemsida för den nya stadsdelen. Stadsdelen har
@@ -4346,7 +4346,7 @@ Exploatörerna har var och en inte, utan Kommunens skriftliga medgivande, rätt 
 
 Exploatörerna har var och en heller inte, utan Kommunens skriftliga medgivande, rätt att
 överlåta del av respektive Exploatörs exploateringsfastighet definierad enligt
-Överenskommelsen $ 2.1 respektive Överenskommelse Kollaskolan $ 2.1 på annan part.
+Överenskommelsen \$ 2.1 respektive Överenskommelse Kollaskolan \$ 2.1 på annan part.
 Medgivande krävs dock inte vid överlåtelse med syfte att skapa bostadsrätter,
 äganderätter för egnahem eller ägarlägenheter.
 
@@ -4356,7 +4356,7 @@ förpliktigad att förbinda den nya parten att följa i detta Ramavtal tillämpl
 och rättigheter gentemot Kommunen och Exploatörerna.
 
 Kommunen har, utan Exploatörernas skriftliga medgivande, rätt att överlåta hela eller del
-av Kommunfastigheten, definierad enligt Överenskommelsen $ 2.1. Kommunen har
+av Kommunfastigheten, definierad enligt Överenskommelsen \$ 2.1. Kommunen har
 dock skyldighet att hålla Exploatörerna informerade om planerade överlåtelser innan
 formella beslut har fattats. Vid en överlåtelse av hela eller del av Kommunfastigheten
 står Kommunen kvar som part i detta Ramavtal. Kommunen är också förpliktigad att
@@ -4365,7 +4365,7 @@ gentemot Kommunen och Exploatörerna.
 
 Kungsbacka kommun, såsom ägare till Exploatörsfastigheten har inte, utan Aranäs, JM:s
 och Ekstas skriftliga medgivande, rätt att överlåta hela Exploatörsfastigheten definierad
-enligt Överenskommelsen $ 2.1. Aranäs, JM och Eksta skall dock ge sitt skriftliga
+enligt Överenskommelsen \$ 2.1. Aranäs, JM och Eksta skall dock ge sitt skriftliga
 medgivande till överlåtelsen om inte synnerliga skäl finns att åberopa mot den nya
 parten. Vid en överlåtelse av hela Exploatörsfastigheten träder den nya parten in i detta
 Ramavtal istället för Kungsbacka kommun och övertar samtliga de skyldigheter och
@@ -4373,7 +4373,7 @@ rättigheter som Exploatören har enligt detta Ramavtal.
 
 Kungsbacka kommun, såsom ägare till Exploatörsfastigheten, har, utan Aranäs, JM:s och
 Ekstas skriftliga medgivande, rätt att överlåta del av Exploatörsfastigheten definierad
-enligt Överenskommelsen $ 2.1. Kungsbacka kommun har dock skyldighet att hålla
+enligt Överenskommelsen \$ 2.1. Kungsbacka kommun har dock skyldighet att hålla
 Aranäs, JM och Eksta informerade om planerade överlåtelser innan formella beslut har
 fattats. Vid en överlåtelse av del av Exploatörsfastigheten står Kungsbacka kommun
 kvar som part i detta Ramavtal. Kungsbacka kommun är också förpliktigad att förbinda
@@ -4393,25 +4393,25 @@ Ramavtal Kommunen, JM, Aranäs, Exploatören, Eksta
 För det rätta fullgörandet av Aranäs skyldigheter enligt detta Ramavtal går Aranäs KB
 (organisationsnummer 969622-1440) i borgen såsom för egen skuld.
 
-$ 17 nedan skall äga tillämpning på denna borgensförbindelse
+\$ 17 nedan skall äga tillämpning på denna borgensförbindelse
 
 8 17 TVISTELÖSNING
 
 Tvist i anledning av detta Ramavtal skall avgöras genom skiljedom enligt
 Skiljedomsregler för Stockholms Handelskammares Skiljedomsinstitut
 
-$ 18 GILTIGHET
+\$ 18 GILTIGHET
 
 Detta Ramavtal är giltigt under förutsättning av
 
-- att det behörigen undertecknas av Exploatörerna innan det behandlas i
+\- att det behörigen undertecknas av Exploatörerna innan det behandlas i
 Kommunstyrelsen.
 
-- att det tillsammans med Överenskommelsen, Överenskommelse Kollaskolan och
+\- att det tillsammans med Överenskommelsen, Överenskommelse Kollaskolan och
 Exploateringsavtalen godkänns av Kommunfullmäktige, genom beslut som vinner laga
 kraft, och undertecknas av Kommunen senast den 31 december 2010.
 
-- att beslut om antagande av Detaljplanen vinner laga kraft senast inom två år från det
+\- att beslut om antagande av Detaljplanen vinner laga kraft senast inom två år från det
 datum detta Ramavtal godkänns av Kommunfullmäktige, genom beslut som vinner laga
 kraft. i
 
@@ -4451,7 +4451,7 @@ Kungsbacka den ä/ 2010
 
 U
 
-Borgensförbindelse enligt $ 16 bekräftas härmed
+Borgensförbindelse enligt \$ 16 bekräftas härmed
 
 Kungsbacka som ovan
 
@@ -4471,7 +4471,7 @@ Bilaga 6 Parkeringsplan daterad 2010-01-31
 
 Bilaga 7 Organisationsschema daterad 2010-01-31 =
 
--
+\-
 
 <!-- sida 106 -->
 
@@ -5084,8 +5084,8 @@ Markera fastigheten eller fastigheterna du begär planbesked för
 Du kan välja att bifoga en situationskarta med tydliga markeringar istället för att markera
 fastigheten eller fastigheterna på denna kartan.
 
-> |
->
+\> |
+\>
 än
 Ms LJ ?
 43
@@ -5376,7 +5376,7 @@ Nu påbörjar kommunen arbetet med att klargöra planeringsförutsättningarna i
 
 område i anslutning till stationen, både norr och söder om Kläppavägen. Arbetet
 utförs inom ramen för ett planprogram i enlighet med beslut från kommunstyrelsen
-2016.
+2016\.
 Syftet med planprogrammet är att skapa goda förutsättningar för en utveckling av
 kommunens och andra angränsande fastigheter. Planprogrammet tas fram för att
 underlätta kommande detaljplanearbeten och ge förutsättningar för en effektiv
@@ -5636,22 +5636,22 @@ PROJEKTETS  LEVERANS
 
 Projektet ska leverera ett planprogram som ger svar på lämplig markanvändning inom område A, B och
 C i förhållande till:
-- närheten till Åsa station, med avseende på hållbart resande
+\- närheten till Åsa station, med avseende på hållbart resande
 
 <!-- sida 151 -->
 
 PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 4 (5)
 
-- närhet till Västkustbanan, med avseende på risker kopplat till planering nära transportled för
+\- närhet till Västkustbanan, med avseende på risker kopplat till planering nära transportled för
 farligt gods samt risk för buller och vibrationer
 
-- närhet till jordbruk och djurhållning, med avseende på den avvägning mellan olika intressen som
+\- närhet till jordbruk och djurhållning, med avseende på den avvägning mellan olika intressen som
 detta kan innebära
-- förutsättningar för avledning av dagvatten och skyfall, med avseende på hur olika delar inom
+\- förutsättningar för avledning av dagvatten och skyfall, med avseende på hur olika delar inom
 programområdet förhåller sig till varandra
 
-- förutsättningar för vatten och spillvatten, på en övergripande nivå
+\- förutsättningar för vatten och spillvatten, på en övergripande nivå
 Planprogrammet ska också ge förslag på hur olika trafikslag kan röra sig till, från och inom området.
 
 De fastighetsrättsliga förutsättningarna behöver kartläggas och beskrivas för hela programområdet.
@@ -5968,7 +5968,7 @@ styrdokumentet Samverkansformer kring kollektivtrafik i Västra Götaland upprä
 antogs 2011 av de 49 kommunerna i Västra Götalands län samt av regionfullmäktige i Västra
 
 Götalandsregionen. Styrdokumentet har också reviderats vid två tidigare tillfällen, dels 2017, dels
-2021.
+2021\.
 Genom den föreslagna revideringen av dokumentet skiftas nu fokus från processer och formella
 
 beslutsgångar till politisk dialog mellan kommuner och Västra Götalandsregionen/Västtrafik. Då
@@ -6012,7 +6012,7 @@ styrdokumentet Samverkansformer kring kollektivtrafik i Västra Götaland upprä
 antogs 2011 av de 49 kommunerna i Västra Götalands län samt av regionfullmäktige i Västra
 Götalandsregionen. Styrdokumentet har också reviderats vid två tidigare tillfällen, dels 2017, dels
 
-2021.
+2021\.
 Den föreslagna revideringen av dokumentet skiftar nu fokus från processer och formella beslutsgångar
 till politisk dialog mellan kommuner och Västra Götalandsregionen /Västtrafik. Förslaget innebär att
 ersätta den årliga avstämningen av trafikförsörjningsprogrammet med en halvtidsutvärdering. Ett nytt
@@ -6134,9 +6134,9 @@ kollektivtrafiknämnden XXXX-XX-XX
 
 Innehåll
 
-1. Samverkan kring kollektivtrafik i Västra Götaland ................................................................3
+1\. Samverkan kring kollektivtrafik i Västra Götaland ................................................................3
 
-2. Parter ..........................................................................................................................................................3
+2\. Parter ..........................................................................................................................................................3
 2.1 Västra Götalandsregionen ......................................................................................................3
 
 2.2 Västtrafik ........................................................................................................................................3
@@ -6144,25 +6144,25 @@ Innehåll
 2.4 Kommunalförbund .....................................................................................................................4
 2.5 Övriga aktörer ...............................................................................................................................4
 
-3. Ömsesidigt ansvar för kollektivtrafikens utveckling ..........................................................4
+3\. Ömsesidigt ansvar för kollektivtrafikens utveckling ..........................................................4
 3.1 Kommuner och VGR i samverkan ..........................................................................................4
 3.2 Samverkan på olika sätt ...........................................................................................................6
 
-4. Forum för politisk dialog ....................................................................................................................7
+4\. Forum för politisk dialog ....................................................................................................................7
 4.1 Beredningen för hållbar utveckling .....................................................................................7
 
 4.2 Strategiskt samhällsplaneringsforum ..............................................................................7
 4.3 Stadstrafikforum ........................................................................................................................8
 
-5. Samverkan i genomförandet ...........................................................................................................8
+5\. Samverkan i genomförandet ...........................................................................................................8
 
-6. Revidering och ytterligare information ......................................................................................9
+6\. Revidering och ytterligare information ......................................................................................9
 
 <!-- sida 164 -->
 
 Samverkansformer kring kollektivtrafik i Västra Götaland
 
-1. Samverkan       kring   kollektivtrafik     i
+1\. Samverkan       kring   kollektivtrafik     i
 
 Västra    Götaland
 
@@ -6177,7 +6177,7 @@ mellan VGR/Västtrafik och kommunerna ska bidra till samsyn och verka för att
 samhällsbyggnad och kollektivtrafikens utveckling går hand i hand. Samverkan innebär
 inte alltid att parterna är överens men alla parter bör värna om en konstruktiv dialog.
 
-2. Parter
+2\. Parter
 
 2.1 Västra Götalandsregionen
 
@@ -6246,7 +6246,7 @@ Trafikverket ansvarar för den statliga väg- och järnvägsinfrastrukturen, hå
 statliga vägar, järnvägens plattformar, plattformsförbindelser samt trafikinformation
 på stationer.
 
-3. Ömsesidigt       ansvar    för
+3\. Ömsesidigt       ansvar    för
 
 kollektivtrafikens       utveckling
 
@@ -6362,7 +6362,7 @@ information och samarbete. Figuren ger även exempel på samverkan inom kollekti
 
 Samverkansformer kring kollektivtrafik i Västra Götaland
 
-4. Forum     för  politisk   dialog
+4\. Forum     för  politisk   dialog
 
 Som forum för politisk dialog om kollektivtrafikutvecklingen i Västra Götaland
 finns beredningen för hållbar utveckling (BHU) och fyra delregionala strategiska
@@ -6445,7 +6445,7 @@ Västtrafik. Forumet ansvarar för att kollektivtrafikplaner och målbilder för
 i samverkan mellan parterna. Handlingsplaner för de regionala kärnorna tas fram i samverkan
 mellan Västtrafik, berörd kommun/kommuner och eventuella andra relevanta aktörer.
 
-5. Samverkan       i genomförandet
+5\. Samverkan       i genomförandet
 
 För samordning av samhälls- och kollektivtrafikutveckling behöver kommunerna och Västtrafik
 samverka i tidiga skeden och löpande under kommunens planprocesser. Samverkan om
@@ -6487,7 +6487,7 @@ Parterna ska ha en ansvarig kontaktperson för kollektivtrafikfrågor. Kontaktpe
 representerar sin organisation och ansvarar för att samverkan fungerar genom att både politiker
 och övriga tjänstepersoner delaktiggörs i relevanta frågor.
 
-6. Revidering      och   ytterligare    information
+6\. Revidering      och   ytterligare    information
 
 De ursprungliga samverkansformerna kring kollektivtrafik i Västra Götaland beslutades 2011, i
 samband med avtalet om ansvar för den regionala kollektivtrafiken i Västra Götalands län. De
@@ -6495,7 +6495,7 @@ antogs då av Västra Götalands 49 kommunfullmäktige och VGR:s fullmäktige so
 avtalet. En första revidering och uppdatering av dokumentet gjordes 2017. En andra utvärdering
 
 och uppdatering genomfördes 2020. Som en följd av IKN bildades, reviderades dokumentet
-2026.
+2026\.
 En ny utvärdering ska genomföras senast 2030. Aktualisering av dokumentet kan behöva göras
 vid exempelvis större organisationsförändringar.
 
@@ -6790,7 +6790,7 @@ skatteväxlingen redovisas i bilaga 1.
 Skatteväxlingen berör inte det som särfaktureras kommunerna enligt punkt 6
 nedan.
 
-28)
+28\)
 
 <!-- sida 177 -->
 
@@ -6818,7 +6818,7 @@ För att upprätthålla och vidareutveckla samordningen, samt nyttja den
 upphandlingskompetens som Regionen besitter kan Kommun välja att enligt
 särskild överenskommelse med Regionen gällande skolskjuts/skolresor:
 
-- — uppdra till Regionen att upphandla skolskjuts och samordna denna, varvid
+\- — uppdra till Regionen att upphandla skolskjuts och samordna denna, varvid
 Kommun har beslutanderätten över trafikens omfattning och utformning
 samt faktureras för tjänstens kostnader, och/eller
 
@@ -6831,7 +6831,7 @@ Ovanstående alternativ kan kombineras inom samma kommun.
 
 Kommun kan också välja att enligt särskild överenskommelse med Regionen
 gällande färdtjänst:
-- uppdra till Regionen att upphandla färdtjänsttrafik samt samordna denna
+\- uppdra till Regionen att upphandla färdtjänsttrafik samt samordna denna
 varvid Kommun faktureras för tjänstens kostnader.
 
 För särfakturering av skolresor och färdtjänstresor inom anropstyrd trafik gäller
@@ -6940,7 +6940,7 @@ utveckling.
 
 8.7
 
-10.
+10\.
 
 Samverksansforum på regional nivå ska säkerställa dialog- och
 samrådsmöjligheter mellan Regionen och representanter för delregioner. Frågor
@@ -6961,16 +6961,16 @@ stadstrafik (Göteborg, Mölndal, Partille), Trestad (Vänersborg, Trollhättan,
 Uddevalla), Borås och Skövde.
 
 Regionen ansvarar för
-- — att bilda regionalt samverkansforum för politiska samråd med
+\- — att bilda regionalt samverkansforum för politiska samråd med
 Kommunerna.
 
 = att tillse att det på tjänstemannanivå finns en tydlig och regelbunden
 kontaktmöjlighet för varje Kommun rörande kollektivtrafikfrågor.
 
 Kommunerna ansvarar för
-- att bilda delregionala fora för politiska samråd med Regionen.
+\- att bilda delregionala fora för politiska samråd med Regionen.
 
-- att tillse att det på tjänstemannanivå finns en tydlig kontaktmöjlighet för
+\- att tillse att det på tjänstemannanivå finns en tydlig kontaktmöjlighet för
 Regionen rörande kollektivtrafikfrågor
 
 = att dialog förs med Regionen om den egna kommunens samhällsplanering
@@ -6993,7 +6993,7 @@ beslutande församlingar, såsom kommun- och regionfullmäktige.
 
 <!-- sida 180 -->
 
-11.
+11\.
 
 12
 
@@ -7001,15 +7001,15 @@ Uppföljning och utvärdering
 
 Detta avtal ska följas upp och utvärderas med avseende på samverkansformer och
 tillköpsprinciper senast fem år efter att det har börjat gälla, dvs senast 31 december
-2017.
+2017\.
 
 Tvist
 Tvist med anledning av detta avtal ska i första hand avgöras genom förhandling
 mellan Parterna.
 
 Bilagor
-1. Bilaga 1 - Skatteväxling
-2. Bilaga 2 - Principer för tillköp
+1\. Bilaga 1 - Skatteväxling
+2\. Bilaga 2 - Principer för tillköp
 
 Skövde den 27 maj 2011
 
@@ -7127,7 +7127,7 @@ Västra Götalands län baseras på ägarersättning år 2007.
 Som utjämningssystemet är uppbyggt bör således alla kommuner i ett län ha samma
 nettokostnad (korrigerad för avvikande ambitionsnivå) för kollektivtrafik efter bidrag och
 
-25)
+25\)
 
 <!-- sida 185 -->
 
@@ -7382,11 +7382,11 @@ Kommun kan köpa färdbevis till sina invånare under förutsättning att Kommun
 använder det utbud av färdbevis som tillhandahålls av Regionen, baserat på
 befintligt zonsystem, giltighetstider mm, om inte annat överenskommes.
 Dvs tillköp kan göras under förutsättning att;
--  tillköpet inte innebär att andra färdbevis än det som tillköpet avser
+\-  tillköpet inte innebär att andra färdbevis än det som tillköpet avser
 behöver prisförändras.
-- — tillköpet inte förändrar den beslutade zonstrukturen om motsvarande
+\- — tillköpet inte förändrar den beslutade zonstrukturen om motsvarande
 tillköp skulle beviljas för en eller flera kommuner.
--  tillköpet inte påverkar prisförhållandet mellan färdbevis så att mål inom
+\-  tillköpet inte påverkar prisförhållandet mellan färdbevis så att mål inom
 Trafikförsörjningsprogrammet motverkas om motsvarande tillköp skulle
 beviljas för en eller flera kommuner
 
@@ -7423,7 +7423,7 @@ eller bättre måluppfyllelse än övriga föreslagna åtgärder som ryms inom d
 Regionen beslutade ekonomiska ramen, överförs tillköpet till ordinarie utbud
 och kostnadsansvaret övertas av Regionen.
 
-202)
+202\)
 
 <!-- sida 190 -->
 
@@ -7576,13 +7576,13 @@ hållbar utveckling 2021-03-09 och beslut i Kollektivtrafiknämnden 2021-03-17
 
 Innehåll
 
-1. Sammanfattning ................................................................................................................. 3
+1\. Sammanfattning ................................................................................................................. 3
 
-2. Samverkan kring kollektivtrafikutveckling i Västra Götaland .......................................... 4
+2\. Samverkan kring kollektivtrafikutveckling i Västra Götaland .......................................... 4
 
-3. Västra Götalandsregionens organisation ............................................................................ 5
+3\. Västra Götalandsregionens organisation ............................................................................ 5
 
-4. Samverkansformer ............................................................................................................. 6
+4\. Samverkansformer ............................................................................................................. 6
 
 4.1 Vardagskontakter ......................................................................................................... 6
 4.2 Kommundialog om trafikförändringar ......................................................................... 6
@@ -7595,7 +7595,7 @@ Innehåll
 
 4.6 Övrig samverkan .......................................................................................................... 9
 
-5. Förankring och beslut....................................................................................................... 10
+5\. Förankring och beslut....................................................................................................... 10
 5.1 Operativa frågor ......................................................................................................... 10
 
 5.2 Trafikförsörjningsprogram ......................................................................................... 10
@@ -7608,13 +7608,13 @@ Innehåll
 
 5.6 Tillköp ........................................................................................................................ 12
 
-6. Revidering av samverkansformerna................................................................................. 13
+6\. Revidering av samverkansformerna................................................................................. 13
 
 <!-- sida 199 -->
 
 3
 
-1. Sammanfattning
+1\. Sammanfattning
 
 Som regional kollektivtrafikmyndighet har Västra Götalandsregionen (VGR) ansvaret, och
 därmed beslutsrätten, för kollektivtrafikens utveckling gentemot medborgarna i Västra
@@ -7661,7 +7661,7 @@ genomföras senast 2027.
 
 4
 
-2. Samverkan    kring kollektivtrafikutveckling  i Västra
+2\. Samverkan    kring kollektivtrafikutveckling  i Västra
 
 Götaland
 
@@ -7696,7 +7696,7 @@ frågor såväl på lokal som på delregional och regional nivå.
 
 5
 
-3. Västra Götalandsregionens     organisation
+3\. Västra Götalandsregionens     organisation
 
 Västra Götalandsregionen är den ansvariga regionala kollektivtrafikmyndigheten. VGR
 arbetar enligt styrmodellen att skilja på funktionerna ägare, beställare och utförare.
@@ -7721,7 +7721,7 @@ Figur 2: Processen inom VGR från trafikförsörjningsprogram till genomförande
 
 6
 
-4. Samverkansformer
+4\. Samverkansformer
 
 Som plattform för samverkan kring kollektivtrafikutvecklingen i Västra Götaland finns
 beredningen för hållbar utveckling (BHU) och fyra delregionala kollektivtrafikråd.
@@ -7872,7 +7872,7 @@ begränsar inte den möjligheten.
 
 10
 
-5. Förankring  och  beslut
+5\. Förankring  och  beslut
 
 Bilden nedan avser att schematiskt illustrera hur kommunerna, genom de delregionala
 kollektivtrafikråden och beredningen för hållbar utveckling, kan påverka den viktiga
@@ -8017,7 +8017,7 @@ inför ett beslut.
 
 13
 
-6. Revidering  av samverkansformerna
+6\. Revidering  av samverkansformerna
 
 De ursprungliga Samverkansformerna kring kollektivtrafik i Västra Götaland beslutades
 genom att 49 kommunfullmäktige och regionfullmäktige ställt sig bakom dem 2011. En
@@ -8062,7 +8062,7 @@ om dels kompletterande statlig granskning, dels hinder för kommuner och regione
 att anmäla välfärdsbrott. De två förslagen till ändring av kommunallagen är tillägget i
 
 6 kap. 1 § samt den nya paragrafen i 10 kap. 10 §:
-* Styrelsen ska leda och samordna förvaltningen av kommunens eller regionens
+\* Styrelsen ska leda och samordna förvaltningen av kommunens eller regionens
 angelägenheter och ha uppsikt över övriga nämnders och eventuella gemensamma
 nämnders verksamhet, inbegripet deras kontroll och uppföljning av skötseln av
 kommunala angelägenheter som genom avtal lämnats över till privata utförare.
@@ -8071,7 +8071,7 @@ Styrelsen ska även ha uppsikt över sådan avtalssamverkan som sker enligt 9 ka
 
 kommunal verksamhet som bedrivs i sådana juridiska personer som avses i 10 kap.
 2-6 §§ och sådana kommunalförbund som kommunen eller regionen är medlem i.
-* Styrelsen ska årligen till fullmäktige rapportera om sin uppsikt enligt 6 kap. 1 §
+\* Styrelsen ska årligen till fullmäktige rapportera om sin uppsikt enligt 6 kap. 1 §
 över övriga nämnders och eventuella gemensamma nämnders kontroll och
 uppföljning av verksamhet som genom avtal lämnats över till privata utförare.
 
@@ -8279,7 +8279,7 @@ KUNGSBACKA  KOMMUN
 
 1.3.1 Kommunallagen bör tydliggöras med avseende på styrelsens ansvar för uppsikt
 
-3. Ansvarsfördelning mellan styrelse, fullmäktige och nämnder
+3\. Ansvarsfördelning mellan styrelse, fullmäktige och nämnder
 De senaste åren har såväl lagstiftning bland annat genom ändringar i kommunallagen om kommuners
 ansvar för intern kontroll (6 kap. 6 § KL) och nya lagstiftningen om kommuners ansvar för
 brottsförebyggande arbete (2023:196), som stödmaterial från statliga myndigheter och Sveriges
@@ -8343,7 +8343,7 @@ Datum
 
 § 211                      Dnr KS-2025-00315
 Svar på Klimat- och näringslivsdepartementets remiss av promemorian
-- Genomförande av bestämmelser i förnybartdirektivet om
+\- Genomförande av bestämmelser i förnybartdirektivet om
 tillståndsförfaranden för förnybar energi
 
 Förslag till beslut i kommunstyrelsen
@@ -9211,12 +9211,12 @@ p) att stiftelsen anlägger en barnaktivitetsyta mellan Manegen och berget i ös
 
 q) underhåll av ledningar inkl. ledningsgator under förutsättning att:
 
-- inget material tillförs området som kan innehålla för området främmande arter eller
+\- inget material tillförs området som kan innehålla för området främmande arter eller
 förorenande ämnen,
-- framkomlighet på stigar inte har försämrats när arbetet har avslutats,
-- all ved lämnas inom reservatet men ska tas bort från stigar och betesmarker,
+\- framkomlighet på stigar inte har försämrats när arbetet har avslutats,
+\- all ved lämnas inom reservatet men ska tas bort från stigar och betesmarker,
 
-- hänsyn tas till betesdjur, stängsel och friluftsanordningar.
+\- hänsyn tas till betesdjur, stängsel och friluftsanordningar.
 
 <!-- sida 238 -->
 
@@ -9244,12 +9244,12 @@ B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6
 
 ägare och innehavare av särskild rätt till fastigheten att tåla åtgärder inom området
 enligt följande:
-1. utmärkning av naturreservatets gräns enligt Naturvårdsverkets anvisningar,
+1\. utmärkning av naturreservatets gräns enligt Naturvårdsverkets anvisningar,
 
-2. anläggning och underhåll av friluftslivsanordningar, exempelvis parkeringsplats,
+2\. anläggning och underhåll av friluftslivsanordningar, exempelvis parkeringsplats,
 toaletter, markerade stigar och informationsskyltar,
 
-3. naturvårdande trädmarksskötsel:
+3\. naturvårdande trädmarksskötsel:
 a. omställning av åkermark (områden med rött rutmönster i karta 1) och
 produktionsskog med låga biologiska värden till ädellövskog och
 
@@ -9262,7 +9262,7 @@ bevara naturtypen ekskog och för att gynna hotade och skyddsvärda arter i
 c. uppläggning av död ved i faunadepåer, samt anläggning av mulmholkar,
 ekoxekomposter och liknande konstruktioner.
 
-d. ringbarkning, skapande av högstubbar och lågor samt veteranisering* av träd.
+d. ringbarkning, skapande av högstubbar och lågor samt veteranisering\* av träd.
 
 e. hamling och stubbskottsbruk.
 f. röjning i bryn.
@@ -9270,23 +9270,23 @@ f. röjning i bryn.
 g. sådd/plantering av buskar och träd som gynnar de naturtyper som prioriteras i
 reservatets syfte.
 
-4. betesdrift i skog, hagmarker, strandängar och övriga gräsmarker. Dessa marker
+4\. betesdrift i skog, hagmarker, strandängar och övriga gräsmarker. Dessa marker
 kan också skötas med slåtter, grovslåtter, röjning och vårbränning i de fall det
 gynnar naturtyperna. Förvaltaren får också lägga upp organiskt material från
 slåtter och röjning i högar.
 
-5. anläggning av ogödslade slåtterängar, naturbetesmarker, trädor samt andra typer
+5\. anläggning av ogödslade slåtterängar, naturbetesmarker, trädor samt andra typer
 av öppna gräsmarker som gynnar pollinatörer och biologisk mångfald.
 
-6. jakt på grågås, kanadagås, vitkindad gås, kråka, skata, kaja, korp, havstrut, trana,
+6\. jakt på grågås, kanadagås, vitkindad gås, kråka, skata, kaja, korp, havstrut, trana,
 grävling, mink, iller, räv, vildsvin och mård samt bekämpning av främmande
 arter i syfte att gynna inom reservatet prioriterade naturtyper och arter, till
 exempel strandängsfåglar,
 
-7. utsättning av hotade arter där utsättningar krävs för att stärka artens möjlighet till
+7\. utsättning av hotade arter där utsättningar krävs för att stärka artens möjlighet till
 långsiktig överlevnad i länet,
 
-8. undersökningar och dokumentation av friluftsliv, kulturlämningar, mark, vatten
+8\. undersökningar och dokumentation av friluftsliv, kulturlämningar, mark, vatten
 
 <!-- sida 241 -->
 
@@ -9296,15 +9296,15 @@ LÄNSSTYRELSEN          Förslag till beslut         10 (21)
 
 samt växt-, svamp- och djurliv,
 
-9. vård av kulturlämningar och kulturmiljöer i enlighet med reservatets syfte samt
+9\. vård av kulturlämningar och kulturmiljöer i enlighet med reservatets syfte samt
 
-10. rensning av befintliga dammar.
-11. hydrologiska återställningsåtgärder som t.ex. igenläggning av diken och
+10\. rensning av befintliga dammar.
+11\. hydrologiska återställningsåtgärder som t.ex. igenläggning av diken och
 
 borttagande av anlagd damm för hästtävling vid Fasankullen
-12. markstörning och skapande av sandblottor i betesmarker öster om halvön.
+12\. markstörning och skapande av sandblottor i betesmarker öster om halvön.
 
-*Veteranisering: mekanisk åverkan eller bearbetning på träd för att påskynda åldrande och skapande
+\*Veteranisering: mekanisk åverkan eller bearbetning på träd för att påskynda åldrande och skapande
 av sådana trädstrukturer som främst uppträder på gamla träd.
 
 C. Ordningsföreskrifter om rätten att färdas och vistas inom naturreservat samt om
@@ -9560,7 +9560,7 @@ godset på halvön uppfördes på 1200-talet. Nuvarande slott uppfördes under �
 1898-1904 och anses vara en av Nordens finaste Arts & Crafts-anläggningar.
 Slottet ritades av arkitekten Lars Israel Wahlman som var en företrädare för Arts
 & Crafts i Sverige och som deltog i en arkitekttävling utlyst av makarna Dickson
-1897. Wahlman ritade också parken, grindstugan och arbetarbyn. Tjolöholm var
+1897\. Wahlman ritade också parken, grindstugan och arbetarbyn. Tjolöholm var
 ett av de sista slotten som byggdes i Sverige.
 
 Tjolöholmsegendomen köptes 1892 av makarna James Fredrik och Blanche
@@ -9859,9 +9859,9 @@ utplacerade. Kartan finns längst bak i skötselplanen, kapitel 7.9.
 
 INNEHÅLLSFÖRTECKNING
 
-1. SYFTE MED NATURRESERVATET ................................................................................................... 3
+1\. SYFTE MED NATURRESERVATET ................................................................................................... 3
 
-2. BESKRIVNING AV OMRÅDET ......................................................................................................... 5
+2\. BESKRIVNING AV OMRÅDET ......................................................................................................... 5
 
 2.1 Markslag, naturtyper och arter ...................................................................................................... 5
 2.2 Historisk och nuvarande markanvändning samt naturförhållanden ............................................. 8
@@ -9869,17 +9869,17 @@ INNEHÅLLSFÖRTECKNING
 
 2.4 Referenser .................................................................................................................................... 19
 
-3. SKÖTSEL AV OMRÅDET ............................................................................................................... 20
+3\. SKÖTSEL AV OMRÅDET ............................................................................................................... 20
 3.1. Generella riktlinjer ....................................................................................................................... 20
 3.2 Skötselområden............................................................................................................................ 32
 
-4. FRILUFTSLIV OCH TURISM ........................................................................................................... 59
+4\. FRILUFTSLIV OCH TURISM ........................................................................................................... 59
 
-5. TILLSYN, DOKUMENTATION OCH UPPFÖLJNING ......................................................................... 61
+5\. TILLSYN, DOKUMENTATION OCH UPPFÖLJNING ......................................................................... 61
 
-6. SAMMANFATTNING OCH PRIORITERING AV PLANERADE SKÖTSELÅTGÄRDER ........................... 61
+6\. SAMMANFATTNING OCH PRIORITERING AV PLANERADE SKÖTSELÅTGÄRDER ........................... 61
 
-7. KARTOR ...................................................................................................................................... 66
+7\. KARTOR ...................................................................................................................................... 66
 
 <!-- sida 257 -->
 
@@ -9889,7 +9889,7 @@ Skötselplan  för naturreservatet  Tjolöholm  i
 
 Kungsbacka    kommun
 
-1. SYFTE MED NATURRESERVATET
+1\. SYFTE MED NATURRESERVATET
 Det övergripande syftet med reservatet är att bevara den biologiska mångfald som
 är knuten till områdets äldre, artrika ädellövskogar, hällmarker, trädklädda
 
@@ -9953,7 +9953,7 @@ reservatet.
 
 5 (78)
 
-2. BESKRIVNING  AV OMRÅDET
+2\. BESKRIVNING  AV OMRÅDET
 
 2.1 Markslag, naturtyper och arter
 
@@ -9963,7 +9963,7 @@ Kvalitetsförbättringar i indelningen har dock gjorts genom fältobservationer.
 
 Tabell 1. Arealen av olika naturtyper enligt marktäckedata.
 
-* Summan för den totala arealen i denna tabell anger ett högre värde än det korrekta
+\* Summan för den totala arealen i denna tabell anger ett högre värde än det korrekta
 värdet på 445,4 hektar som anges i beslutet. Detta är en artefakt som uppstår när
 GIS-programvaran beräknar arealen av de olika delområdena med naturtyper inom
 de 445,4 hektaren. Tabellen ovan samt diagrammen nedan ger detta till trots en god
@@ -9988,7 +9988,7 @@ bild av fördelningen av olika naturtyper.
 | Hav | Saknar värde | Saknar värde | 0,12 |
 | Totalt skogsmark | Saknar värde | Saknar värde | 248 |
 | Totalt produktiv skogsmark | Saknar värde | Saknar värde | 248 |
-| Totalt all mark | Saknar värde | Saknar värde | 448* |
+| Totalt all mark | Saknar värde | Saknar värde | 448\* |
 
 <!-- sida 260 -->
 
@@ -10607,7 +10607,7 @@ Utsikts- och rastplats i Storeskog.
 
 20 (78)
 
-3. SKÖTSEL AV OMRÅDET
+3\. SKÖTSEL AV OMRÅDET
 
 3.1. Generella riktlinjer
 
@@ -10624,7 +10624,7 @@ skötselmetoder beskrivs.
 Tjolöholm omnämns redan i Kung Valdemars jordebok från 1200-talets förra del
 och var sannolikt någon form av sätesgård redan under medeltid. Kartgenomgångar
 från 1600-talet och framåt, samt kulturhistoriska inventeringar (Connelid 2017;
-2021) har dock påvisat att merparten av de kulturhistoriska spår som finns bevarade i
+2021\) har dock påvisat att merparten av de kulturhistoriska spår som finns bevarade i
 Tjolöholms landskap formades kring förra sekelskiftet, sannolikt genom paret
 Dicksons försorg. En stor del av det biologiska kulturarvet i form av slåtterängar,
 beskurna träd och betesmarker kan dock ha betydligt äldre rötter och har sannolikt
@@ -10636,21 +10636,21 @@ Ett viktigt övergripande mål är att utveckla, tillgängliggöra och informera
 stora landskapshistoriska och tillika mycket höga biologiska värdena på Tjolöholm.
 För att nå dit krävs:
 
-- att skötselplanen och förvaltningen hämtar inspiration från det godslandskap som
+\- att skötselplanen och förvaltningen hämtar inspiration från det godslandskap som
 präglade Tjolöholm för lite drygt hundra år sedan, med bland annat olika typer av
 betade ekhagmarker och ädellövskogar, det vill säga det landskap som har
 genererat de höga biologiska värden som karaktäriserar denna kulturmiljö idag.
 Återskapande av en naturliknande parkmiljö kring byggnadsminnet och längs
 många av de stensatta stigarna.
 
-- skötselåtgärder för att värna och utveckla strövvänliga kustnära ädellövskogar
+\- skötselåtgärder för att värna och utveckla strövvänliga kustnära ädellövskogar
 och strandängar med höga biologiska värden.
 
-- att även andra kulturhistoriska miljöer med hög biologisk mångfald som också
+\- att även andra kulturhistoriska miljöer med hög biologisk mångfald som också
 berättar om landskapets historia och utveckling lyfts fram, till exempel
 Kvarntorpet, fiskdammarna, bytomten och Strand.
 
-- att utveckla ett rikt besöksmål för friluftslivet och turismen, där besökaren ska
+\- att utveckla ett rikt besöksmål för friluftslivet och turismen, där besökaren ska
 kunna uppleva en röd tråd mellan slottet, trädgårdarna och omkringliggande
 landskap. Vandringsleder och övriga faciliteter för friluftslivet ska hålla god
 
@@ -10671,15 +10671,15 @@ miljöer.
 3.1.3.1 Skogens målbild
 För att de höga, skogsanknutna naturvärden som beskrivits i kapitel 2.3.1.1 ska
 bevaras och utvecklas krävs att skogarna utvecklas i nedanstående riktning.
-- skogarna är ljusöppna så att gammelekar och deras efterträdare får tillräckligt med
+\- skogarna är ljusöppna så att gammelekar och deras efterträdare får tillräckligt med
 ljus för att breda ut sina kronor och bli så gamla som möjligt. Även andra ädellövträd
 samt tallar ska ges förutsättningar att bli gamla.
-- det finns gott om död ved i olika dimensioner och nedbrytningsstadier.
-- det finns gott om nektargivande, insektsskyltande växter i skogen, i synnerhet i
+\- det finns gott om död ved i olika dimensioner och nedbrytningsstadier.
+\- det finns gott om nektargivande, insektsskyltande växter i skogen, i synnerhet i
 brynen.
-- diken har som högst en försumbar påverkan på skogarnas hydrologi.
-- andelen ekdominerad ädellövskog ökar.
-- inslaget av olika arter av ädellövträd bevaras.
+\- diken har som högst en försumbar påverkan på skogarnas hydrologi.
+\- andelen ekdominerad ädellövskog ökar.
+\- inslaget av olika arter av ädellövträd bevaras.
 
 3.1.3.2 Vilka trädarter som ska gynnas i ädellövbestånden
 Generellt sett är det eken som är det viktigaste trädet för den biologiska
@@ -11079,16 +11079,16 @@ döda träden är redan utförd. I detta område ska mängden död ved vara lite
 Mängden död ved bör också begränsas vid gården Strands inägor.
 
 Generellt gäller för hantering av död ved på Tjolöholm:
-- ingen ved av lövträd eller tall får föras ut från reservatet, utan den ska lämnas så att
+\- ingen ved av lövträd eller tall får föras ut från reservatet, utan den ska lämnas så att
 mängden stående och liggande död och döende ved ökar.
-- om den döda veden behöver flyttas till annan plats i reservatet på grund av hänsyn
+\- om den döda veden behöver flyttas till annan plats i reservatet på grund av hänsyn
 
 till kulturmiljöer ska den inte flyttas längre än vad som krävs för att uppnå syftet med
 flytten.
-- den döda veden ska flyttas till skogsområden som påminner om skogsområdet som
+\- den döda veden ska flyttas till skogsområden som påminner om skogsområdet som
 den flyttades ifrån och som i beståndet innehåller det trädslag som den döda veden
 utgörs av. T.ex. ska död ved av ask inte flyttas till ett bestånd som saknar ask.
-- stiftelsen Tjolöholm har när förvaltaren genomför röjning/fällning av träd möjlighet
+\- stiftelsen Tjolöholm har när förvaltaren genomför röjning/fällning av träd möjlighet
 
 att tillgodogöra sig en liten del virke för husbehovssnickerier.
 
@@ -11117,14 +11117,14 @@ reservatsförvaltaren och stiftelsen, och skötseln ska ske med vägledning frå
 skötselplan samt vårdprogrammet för byggnadsminnet. Nedan följer en lista med
 exempel på sådana lämningar som behöver vårdas och i vissa fall restaureras.
 
-- stensatta stigar och trappor
-- murar
-- husgrunder, torpmiljöer, brunnar och jordkällare
-- gravar
-- vägar, t.ex. hålvägen vid Storeskog och den äldre vägen mellan slottet och
+\- stensatta stigar och trappor
+\- murar
+\- husgrunder, torpmiljöer, brunnar och jordkällare
+\- gravar
+\- vägar, t.ex. hålvägen vid Storeskog och den äldre vägen mellan slottet och
 
 grindstugan som nyligen restaurerats
-- dammar
+\- dammar
 
 De stensatta stigarna är på vissa ställen övertorvade, trasiga eller fläkta av trädens
 rotben, och behöver då restaureras. Stenmurar kan delvis ha rasat och därmed behöva
@@ -11254,15 +11254,15 @@ skötselområdet ska kunna upplevas.
 • Röjning (inklusive fällning av träd) är en viktig skötselåtgärd i skötselområdet.
 
 Röjning ska ske i syfte att:
-- friställa och gynna gamla ädellövträd, tallar och deras efterträdare
-- gynna nektarrika, insektsskyltande träd och buskar
-- gynna solinstrålning och blomrikedom i bryn samt för att skapa ljusluckor i
+\- friställa och gynna gamla ädellövträd, tallar och deras efterträdare
+\- gynna nektarrika, insektsskyltande träd och buskar
+\- gynna solinstrålning och blomrikedom i bryn samt för att skapa ljusluckor i
 bestånden
-- säkerställa framkomligheten på stigar
-- för att behålla och skapa vyer vid utsiktsplatsen
+\- säkerställa framkomligheten på stigar
+\- för att behålla och skapa vyer vid utsiktsplatsen
 
-- för att skapa insyn från asfaltsvägen mot kyrkan
-- för att få bort vedvegetation från stensatta stigar och trappor
+\- för att skapa insyn från asfaltsvägen mot kyrkan
+\- för att få bort vedvegetation från stensatta stigar och trappor
 • Öster om Janusstatyn bör ytan öppnas upp något genom borttagande av ett urval
 träd och andra vedväxter. Inga äldre ekar ska dock tas ned. Åtgärden sker via
 samråd mellan reservatsförvaltaren, Länsstyrelsens kulturmiljöfunktion och
@@ -11432,13 +11432,13 @@ och hotas ej av igenväxning.
 Åtgärder:
 • Röjning (inklusive fällning av träd) är en viktig skötselåtgärd i skötselområdet.
 Röjning ska ske i syfte att:
-- friställa och gynna gamla ädellövträd och deras efterträdare
-- gynna nektarrika, insektsskyltande träd och buskar
+\- friställa och gynna gamla ädellövträd och deras efterträdare
+\- gynna nektarrika, insektsskyltande träd och buskar
 
-- gynna solinstrålning och blomrikedom i bryn samt för att skapa ljusluckor i
+\- gynna solinstrålning och blomrikedom i bryn samt för att skapa ljusluckor i
 bestånden
-- säkerställa framkomligheten på stigar
-- för att få bort vedvegetation från stensatta stigar och trappor
+\- säkerställa framkomligheten på stigar
+\- för att få bort vedvegetation från stensatta stigar och trappor
 • Om möjligt bete.
 • Fällning av ung-medelålders, planterad bok i brynen. Placering av den döda
 veden sker med vägledning av de generella riktlinjerna (kapitel 3.1).
@@ -11481,14 +11481,14 @@ lämpliga ställen som en del av ledsystemet. Stenmurarna framträder i terräng
 Åtgärder:
 • Röjning (inklusive fällning av träd) är en viktig skötselåtgärd i skötselområdet.
 Röjning ska ske i syfte att:
-- friställa och gynna gamla ädellövträd och deras efterträdare
-- öka ädellövinslaget i bestånden
-- gynna nektarrika, insektsskyltande träd och buskar
+\- friställa och gynna gamla ädellövträd och deras efterträdare
+\- öka ädellövinslaget i bestånden
+\- gynna nektarrika, insektsskyltande träd och buskar
 
-- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
+\- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
 ljusluckor i bestånden
-- säkerställa framkomligheten på stigar.
-- för att få bort vedvegetation från stensatta stigar, trappor och murar.
+\- säkerställa framkomligheten på stigar.
+\- för att få bort vedvegetation från stensatta stigar, trappor och murar.
 • Om möjligt bete.
 • Skogen öppnas upp på den tidigare slåtterytan genom att medelålders träd av
 
@@ -11694,20 +11694,20 @@ vid de mest frekventerade friluftsstråken.
 • Röjning (inklusive fällning av träd) är en viktig skötselåtgärd i skötselområdet.
 Röjning ska ske i syfte att:
 
-- friställa och gynna gamla ädellövträd och deras efterträdare
-- öka ädellövinslaget i bestånden
-- gynna nektarrika, insektsskyltande träd och buskar
-- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
+\- friställa och gynna gamla ädellövträd och deras efterträdare
+\- öka ädellövinslaget i bestånden
+\- gynna nektarrika, insektsskyltande träd och buskar
+\- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
 ljusluckor i bestånden
-- säkerställa framkomligheten på stigar.
+\- säkerställa framkomligheten på stigar.
 
-- bevara och utveckla ljunghedsfragment samt för att gynna
+\- bevara och utveckla ljunghedsfragment samt för att gynna
 utsiktsmöjligheterna – något som kan kombineras. Se karta med föreslagna
 platser för utveckling av ljunghed och hällmarkstorräng nedan. Vid Hällenabb
 skapas ett lite större ljunghedsområde.
-- öppna upp sikten från stigen ut mot havet i avdelningarna 6, 22, 23 och 50.
-- decimera enbuskar på havsklippor i söder.
-- för att få bort vedvegetation från stensatta stigar, trappor, murar, hålväg, grav
+\- öppna upp sikten från stigen ut mot havet i avdelningarna 6, 22, 23 och 50.
+\- decimera enbuskar på havsklippor i söder.
+\- för att få bort vedvegetation från stensatta stigar, trappor, murar, hålväg, grav
 
 och husgrund.
 • Eventuellt plantering av nektarrika, insektsskyltande träd och buskar som t.ex.
@@ -11725,7 +11725,7 @@ intressanta stamformationer och göra bestånden mer ljusöppna och heterogena.
 46 (78)
 
 Platser som märkts med
-asterisk (*) är lämpliga att
+asterisk (\*) är lämpliga att
 utveckla ljunghed och
 hällmarkstorräng på.
 Detta sker främst genom
@@ -11820,15 +11820,15 @@ sportkörning med häst är borttaget och endast en naturligt gestaltad damm åt
 Åtgärder:
 • Röjning (inklusive fällning av träd) är en viktig skötselåtgärd i skötselområdet.
 Röjning ska ske i syfte att:
-- friställa och gynna gamla ädellövträd och deras efterträdare. Det är mycket
+\- friställa och gynna gamla ädellövträd och deras efterträdare. Det är mycket
 angeläget att komma igång med röjningen av enbuskar i de höglänta delarna
 samt röjningen av unga lövträd i de östra ekhagmarkerna.
 
-- gynna nektarrika, insektsskyltande träd och buskar
-- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
+\- gynna nektarrika, insektsskyltande träd och buskar
+\- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
 ljusluckor i bestånden
-- för att få bort vedvegetation från stensatta stigar och trappor
-- för att skapa utsikt åt nordväst från den dös-liknande formationen i avdelning
+\- för att få bort vedvegetation från stensatta stigar och trappor
+\- för att skapa utsikt åt nordväst från den dös-liknande formationen i avdelning
 106
 
 • Om möjligt bete i hela området. Viktigast är att få till bete i de delar som har
@@ -11966,7 +11966,7 @@ som är högst prioriterade att få betesdjur till.
 lövskogar.
 
 Vid omställning till skog:
-- Selektiv röjning för att gynna föryngringen av ek och andra ädellövträd samt
+\- Selektiv röjning för att gynna föryngringen av ek och andra ädellövträd samt
 insektsskyltande, nektargivande träd och buskar som apel/vildapel, rönn, lind,
 hagtorn, slån, hägg och körsbär. Plantering av ovan nämnda arter samt
 
@@ -11974,15 +11974,15 @@ användande av hägn är lämpligt. Kvarstående solitära lövträd och tallar 
 hyggena gynnas i föryngringen.
 
 Vid omställning till öppna gräs- och ljunghedar av utmarkskaraktär:
-- Prioritering av bete på dessa ytor (läs mer i kapitel 3.1.3.3).
-- Röjning av uppväxande lövsly, hallon etc. i syfte att på sikt skapa en
+\- Prioritering av bete på dessa ytor (läs mer i kapitel 3.1.3.3).
+\- Röjning av uppväxande lövsly, hallon etc. i syfte att på sikt skapa en
 hävdgynnad hedvegetation. Kvarstående solitära lövträd och tallar på hyggena
 sparas liksom insektsskyltande, nektargivande buskar. Dessa arter kan också
 selektivt gynnas vid röjning eller planteras. Målbilden är öppna hedar med inslag
 av solitära träd och buskar.
-- Brandhävd är lämplig att använda, antingen i kombination med bete eller genom
+\- Brandhävd är lämplig att använda, antingen i kombination med bete eller genom
 att vissa ytor stängslas bort för att endast skötas med brand.
-- Markstörning för att skapa bar sand och jord.
+\- Markstörning för att skapa bar sand och jord.
 
 • Friställning av solitära ekar, andra ädellövträd och tallar, samt röjning/fällning för
 
@@ -12079,7 +12079,7 @@ bebyggelselämningarna och den tidigare odlade markens konturer.
 
 En mindre del nuvarande åkermark, mellan det mittersta och det östligaste
 gårdsläget, ingår också i skötselområdet. Denna del ställs om till betesmark efter
-2030.
+2030\.
 
 Mål: Betesmark med gamla hagmarksträd, hamlade träd, blommande buskar och
 blomrika bryn. Floran är hävdgynnad och karakteristisk för naturbetesmarker. Spåren
@@ -12157,7 +12157,7 @@ brukningsmetoder inom skötselområdet.
 
 59 (78)
 
-4. FRILUFTSLIV OCH  TURISM
+4\. FRILUFTSLIV OCH  TURISM
 
 Beskrivning
 Friluftslivet på Tjolöholm har beskrivits i kapitel 2.3.4.
@@ -12205,7 +12205,7 @@ denna kan naturlekplatserna anläggas om Länsstyrelsen först meddelat tillstå
 till detta.
 
 • Anläggande av nya vandringsleder enligt nedanstående:
-- Mellan Hällenabb och Strands västra gårdsläge bör en ny led på sikt anläggas så
+\- Mellan Hällenabb och Strands västra gårdsläge bör en ny led på sikt anläggas så
 att reservatets besökare kan vandra utmed halvöns norra strand. Denna sträcka är
 
 intressant ur ett besökarperspektiv då den passerar förbi strandängar, fossil
@@ -12217,7 +12217,7 @@ intressant ur ett besökarperspektiv då den passerar förbi strandängar, fossi
 åkermark, ekhagmarker, den dösliknande formationen på Fasankullen, stensatta
 stigar och till sist Strands västra gårdsläge.
 
-- Stigsystemet bör också utvecklas från Jägarparkeringen, som förhoppningsvis
+\- Stigsystemet bör också utvecklas från Jägarparkeringen, som förhoppningsvis
 kan bli en mer attraktiv angöringspunkt till ledsystemet i framtiden. Den andra
 kartan i kapitel 7.8 visar översiktligt hur nya leder bör dras. Sträckan från
 Jägarparkeringen till den östra av de tre planerade övernattningsplatserna bör
@@ -12233,13 +12233,13 @@ Vindskyddet och grillplatsen ligger vackert intill Hålldammet vid Stuteribergen
 
 61 (78)
 
-5. TILLSYN, DOKUMENTATION    OCH  UPPFÖLJNING
+5\. TILLSYN, DOKUMENTATION    OCH  UPPFÖLJNING
 
 Länsstyrelsen ansvarar för att uppföljning av bevarandemål genomförs.
 Uppföljningen ska ske enligt de manualer för skyddade områden som har tagits fram
 av Naturvårdsverket. Länsstyrelsen ansvarar för regelbunden tillsyn av reservatet.
 
-6. SAMMANFATTNING    OCH  PRIORITERING   AV
+6\. SAMMANFATTNING    OCH  PRIORITERING   AV
 PLANERADE   SKÖTSELÅTGÄRDER
 
 Kolumnen Prioritet anger hur reservatsförvaltaren prioriterar åtgärderna inom
@@ -12329,7 +12329,7 @@ regeringens budget). Om annan finansiering än via Vårdanslaget kan ordnas för
 
 66 (78)
 
-7. KARTOR
+7\. KARTOR
 
 7.1 Översiktskarta
 
@@ -12407,7 +12407,7 @@ Stuteribergen
 
 Framtida ledutveckling
 
-|
+\|
 
 » KKojlänsstyrels
 Lantmäterie
@@ -12581,7 +12581,7 @@ Gynnande beslut som avbrutits och ej verkställts inom tre månader
 KUNGSBACKA  KOMMUN
 3 (4)
 
--
+\-
 
 Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts eller avslutats
 
@@ -13194,11 +13194,11 @@ scenkonst, musik, litteratur, visuell konst, arkitektur, design, konsthantverk, 
 samt arkiv- och museiverksamhet.
 Det går att få bidrag för
 
-1. inköp av professionell kulturverksamhet
+1\. inköp av professionell kulturverksamhet
 
-2. konst- och kulturprojekt som genomförs av professionella kulturaktörer för att främja elevernas
+2\. konst- och kulturprojekt som genomförs av professionella kulturaktörer för att främja elevernas
 eget skapande, och/eller
-3. för- och/eller efterarbete med skolans pedagoger och den professionella kulturaktören, som
+3\. för- och/eller efterarbete med skolans pedagoger och den professionella kulturaktören, som
 sker som en del av ett Skapande skola-projekt.
 
 På regionalt plan, ger Region Halland stöd till arrangörer som genomför kulturprogram för barn och
@@ -13694,10 +13694,10 @@ utveckling utan även för att bygga en stark gemenskap.
 Barnkonventionen
 I barnkonventionen artikel 31 fastslås följande:
 
-1. Konventionsstaterna erkänner barnets rätt till vila och fritid, till lek och rekreation anpassad till
+1\. Konventionsstaterna erkänner barnets rätt till vila och fritid, till lek och rekreation anpassad till
 barnets ålder och rätt att fritt delta i det kulturella och konstnärliga livet.
 
-2. Konventionsstaterna ska respektera och främja barnets rätt att till fullo delta i det kulturella
+2\. Konventionsstaterna ska respektera och främja barnets rätt att till fullo delta i det kulturella
 och konstnärliga livet och ska uppmuntra tillhandahållandet av lämpliga och lika möjligheter till
 kulturell och konstnärlig verksamhet samt till rekreations och fritidsverksamhet.
 
@@ -13720,7 +13720,7 @@ starkt samhälle behöver en jämlik tillgång till kultur.
 
 Därför föreslår Socialdemokraterna kommunfullmäktige besluta:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur det går att införa
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur det går att införa
 Kulturell allemansrätt på skoltid i enlighet med motionens andemening
 
 Per Gannarsson (5)
@@ -13914,7 +13914,7 @@ Datum
 
 § 3                        Dnr IF-2024-00338
 Svar på motion - Ökat samarbete för barn och elevers hälsa (KS-2024-
-00595)
+00595\)
 
 Nämnden för Individ & Familjeomsorgs förslag till kommunfullmäktige
 Kommunfullmäktige anser att motionen är besvarad med hänvisning till att det redan
@@ -14682,7 +14682,7 @@ agerar kompletterande.
 För att stärka det förebyggande och hälsofrämjande arbetet inom i Kungsbacka kommun
 yrkar Socialdemokraterna att:
 
-- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
+\- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
 Grundskola, Nämnden för Gymnasium & Arbetsmarknad samt Nämnden för Individ &
 Familjeomsorg, i uppdrag att inrätta stående forum för samarbete med viktiga parter i
 arbetet med barn och elevers hälsa där fokus är på både riskfaktorer och
@@ -14690,6 +14690,6 @@ hälsofrämjande ;j
 
 Johan Tolinsson ( S)
 Shabnam Zamani (5)
-Per Gunnarsson ($).
+Per Gunnarsson (\$).
 Maj-Britt Rane Andersson (S) «<
 Ledamöter i kommunfullmäktige

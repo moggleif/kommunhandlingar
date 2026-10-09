@@ -232,7 +232,7 @@ till protokollet.
 Sammanfattning av ärendet
 Lokalförsörjning informerar om pågående arbete med att hitta lokallösningar
 gällande behovet av boende med särskild service, för i första hand perioden 2027-
-2031.
+2031\.
 
 I arbetet undersöks ett flertal olika lokallösningar, där olika alternativ analyseras
 utifrån bland annat lämplighet, tidsmässig genomförbarhet och långsiktig hållbarhet.

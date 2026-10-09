@@ -360,15 +360,15 @@ Marianne Wallengren (M) m.fl. har lämnat ett initiativ till Byggnadsnämnden. B
 beslutade 14 december 2023 att remittera ärendet till förvaltningen för beredning. Initiativet lyfter tre
 
 punkter:
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
 och tillbyggnader som inte kräver bygglov, inom ramen för Plan och Bygglagen 2010: 900 samt
 eventuellt annan relevant lagstiftning, på nya och uppdaterade Detaljplaner.
 
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
 beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare i kommunen och företagare,
 oavsett handläggare.
 
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
 eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen vara enkel att förstå, d.v.s. vilka
 kriterier var inte uppfyllda.
 
@@ -407,15 +407,15 @@ insparade kostnader, kortare handläggningstider och ökat kundbetyg vad gäller
 Alliansen har lämnat in ett initiativ med tre specifika frågor att utreda för att ytterligare förbättra
 näringslivsklimatet i Kungsbacka:
 
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är möjliga, samt vilka ny-
 och tillbyggnader som inte kräver bygglov, inom ramen för Plan och Bygglagen 2010: 900 samt
 eventuellt annan relevant lagstiftning, på nya och uppdaterade Detaljplaner.
 
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så handläggning och
 beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare i kommunen och företagare,
 oavsett handläggare.
 
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om beslutet är ett JA
 eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen vara enkel att förstå, d.v.s. vilka
 kriterier var inte uppfyllda.
 

@@ -106,12 +106,12 @@ Trafikverkets yttrande i ärende TE-2025-00817, daterat 2026-01-21
 
 Ytterligare handlingar tillhörande ärende om hastighetsreglering av platsen 2023-
 2024;
-* Yttrande från Trafikverket TRV 2023/57904, daterat 2023-05-26
-* Kungsbacka kommuns fråga till Trafikverket gällande justerad
+\* Yttrande från Trafikverket TRV 2023/57904, daterat 2023-05-26
+\* Kungsbacka kommuns fråga till Trafikverket gällande justerad
 hastighetsbegränsning, daterad 2023-03-26
-* Förvaltningen för Tekniks tjänsteskrivelse, 2023-07-10
-* Beslut från nämnden för Tekniks arbetsutskott 2023-08-28 § 50
-* Beslut från Länsstyrelsen om avslag på hastighetsförändring, 2024-08-23
+\* Förvaltningen för Tekniks tjänsteskrivelse, 2023-07-10
+\* Beslut från nämnden för Tekniks arbetsutskott 2023-08-28 § 50
+\* Beslut från Länsstyrelsen om avslag på hastighetsförändring, 2024-08-23
 
 Förslag till beslut på sammanträdet
 Ordförande Monica Neptun (L) yrkar på att anta alternativ ett, det vill säga, att avslå

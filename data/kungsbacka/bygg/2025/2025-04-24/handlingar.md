@@ -113,15 +113,15 @@ sammanhållen bebyggelse, enligt nedan:
 Riktlinjer för en sådan sammanhållen bebyggelse där bygglov eller anmälan behövs med
 hänsyn till omfattningen av byggnadsverk i bebyggelsen:
 
-1. Utgångspunkten för sammanhållen bebyggelse är 10 huvudbyggnader, exklusive
+1\. Utgångspunkten för sammanhållen bebyggelse är 10 huvudbyggnader, exklusive
 komplementbyggnader och mindre anläggningar, fördelade på minst 2 tomtplatser.
 Byggnader behöver inte enbart vara bostäder, utan kan även vara butiker, industribyggnader
 eller liknande.
 
-2. 20 byggnader eller fler, enligt ovanstående definition, utgör alltid sammanhållen
+2\. 20 byggnader eller fler, enligt ovanstående definition, utgör alltid sammanhållen
 bebyggelse.
 
-3. Följande förhållanden innebär, med beaktande av plankravet, att 35-10 byggnader normalt är
+3\. Följande förhållanden innebär, med beaktande av plankravet, att 35-10 byggnader normalt är
 tillräckligt antal i eller i närhet av:
 
 a) utvecklingsområde enligt översiktsplan och programområde för fördjupad
@@ -134,10 +134,10 @@ c) kulturreservat
 d) riks-och allmänna intressen såsom t.ex. intresse för
 kulturmiljövård/kulturmiljöprogram
 
-4. Enstaka byggnader, enligt ovanstående definition, som ligger i nära anslutning (inom 100
+4\. Enstaka byggnader, enligt ovanstående definition, som ligger i nära anslutning (inom 100
 meter) till planlagt område, ska räknas som sammanhållen bebyggelse.
 
-5. Följande förhållanden bör beaktas för en samlad bedömning
+5\. Följande förhållanden bör beaktas för en samlad bedömning
 
 e) bebyggelsens storlek och karaktär
 
@@ -155,7 +155,7 @@ j) områdets läge och avstånd i förhållande till tätort, kommunikationer oc
 
 k) bebyggelsetrycket i område
 
-1) behov av samordning av fysiska förhållanden eller gemensamma anläggningar
+1\) behov av samordning av fysiska förhållanden eller gemensamma anläggningar
 Justerare Expedierat/bestyrkt
 
 €
@@ -176,7 +176,7 @@ på den enskilde att bedöma om sammanhållen bebyggelse föreligger.
 Beskrivning av ärendet
 
 Begreppet sammanhållen bebyggelse får betydelse i samband med detaljplane-kravet, plan- och
-bygglagen (2010:900) 4 kap. 2$ 4 samt vid undantagen från kraven på bygglov för
+bygglagen (2010:900) 4 kap. 2\$ 4 samt vid undantagen från kraven på bygglov för
 kompletteringsåtgärder på en- och tvåbostadshus, 9 kap. 68.
 
 Förvaltningen för Plan & Bygg gav hösten 2017 ett uppdrag till advokatfirman Glimstedt att utreda
@@ -241,25 +241,25 @@ utredning och Boverkets handbok. Förvaltningen anser att slutsatserna i Glimste
 sett är relevanta och föreslår följande förslag till riktlinjer för vad som ska tolkas som
 sammanhållen bebyggelse:
 
-1. Utgångspunkten är 10 huvudbyggnader, exklusive komplementbyggnader och mindre anläggningar,
+1\. Utgångspunkten är 10 huvudbyggnader, exklusive komplementbyggnader och mindre anläggningar,
 fördelade på minst 2 tomtplatser. Byggnader behöver inte enbart vara bostäder, utan kan även vara
 butiker, industribyggnader eller liknande.
 
-2. 20 byggnader eller fler, enligt ovanstående definition, utgör alltid sammanhållen bebyggelse.
+2\. 20 byggnader eller fler, enligt ovanstående definition, utgör alltid sammanhållen bebyggelse.
 
-3. Följande förhållanden innebär, med beaktande av plankravet, att 5-10 byggnader normalt är
+3\. Följande förhållanden innebär, med beaktande av plankravet, att 5-10 byggnader normalt är
 tillräckligt antal i eller i närhet av:
 a) utvecklingsområde enligt ÖP06
 b) programområde för fördjupad översiktsplan
 c) område med särskilda bygglovskriterier
-- d) serviceorter
+\- d) serviceorter
 e) kulturreservat
 PN riks- och allmänna intressen såsom t.ex. intresse för kulturmiljövård/kulturmiljöprogram
 
-4. Enstaka byggnader, enligt ovanstående definition, som ligger i nära anslutning (högst 100 meter)
+4\. Enstaka byggnader, enligt ovanstående definition, som ligger i nära anslutning (högst 100 meter)
 till planlagt område, ska räknas som sammanhållen bebyggelse.
 
-3. Följande förhållanden bör beaktas för en samlad bedömning
+3\. Följande förhållanden bör beaktas för en samlad bedömning
 
 a) bebyggelsens storlek och karaktär
 
@@ -291,7 +291,7 @@ Ovan redovisade riktlinjer är inte juridiskt bindande utan endast vägledande. 
 på den enskilde att bedöma om sammanhållen bebyggelse föreligger.
 
 Beslutsunderlag
-Byggnadsnämndens arbetsutskott 2020-02-26, $ 45, förslag: Byggnadsnämnden antar
+Byggnadsnämndens arbetsutskott 2020-02-26, \$ 45, förslag: Byggnadsnämnden antar
 arbetsutskottets förslag till Riktlinjer för tolkning av begreppet sammanhållen bebyggelse, enligt
 
 nedan:
@@ -1034,21 +1034,21 @@ Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendeval
 1 Förtroendevalda
 
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
--  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\-  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
--  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\-  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag
 och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare (leder respektive partigrupp i kommunfullmäktige)
--  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\-  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 kommunfullmäktige, nämnder, styrelsen, revisionen, ledamöter och ersättare
 
 i kommunala bolag- och stiftelser, beredningar och andra uppdrag enligt
 särskilt beslut.
--  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\-  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
--  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
+\-  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
 revisionen.
 Kommunens bolag och stiftelser rekommenderas att tillämpa dessa riktlinjer.
 
@@ -1071,10 +1071,10 @@ kommunalråd till den del avdraget överstiger timersättningen (se avsnitt 2.6)
 Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 Rätten till ledighet avser
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd.
 
@@ -1302,9 +1302,9 @@ bolag och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare.
 Arvode betalas i form av
 
--  Fast arvode för deltidsuppdrag
+\-  Fast arvode för deltidsuppdrag
 
--  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\-  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
 
@@ -1394,9 +1394,9 @@ förtroendevalda representerar det organ denne själv tillhör. Därtill betalas
 och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-_____________
+\_____________
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 11 (17)
 
@@ -1551,9 +1551,9 @@ har ägt rum.
 
 När en förtroendevald ska begära ersättning
 
--  för andra förmåner än dagarvode, timersättning och reseersättning, i
+\-  för andra förmåner än dagarvode, timersättning och reseersättning, i
 samband med protokollfört sammanträde eller
--  efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\-  efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
@@ -1607,6 +1607,6 @@ att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst.
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 
 2023–2027.
-____________________
+\____________________
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 17 (17)

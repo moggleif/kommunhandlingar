@@ -110,11 +110,11 @@ Frånvarande:    -
 
 Plats och tid: VM Lagan 2025-03-11 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 
 Protokoll för mötet 2025-02-18 är justerat.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 
 Arbetsgivaren redovisar ärenden inför nämndsammanträde i januari.
 
@@ -157,7 +157,7 @@ Beslut: Att anteckna informationen.
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 Uppföljning av arbetsmiljö i enhetschef- och rektorsgruppen
 Arbetet med arbetsmiljöfrågor fortsätter i enhetschef- och rektorsgruppen. Vi följer våra
 Winningtemp-profiler och arbetar aktivt med dessa under våren i samverkan med HR.
@@ -177,7 +177,7 @@ Beslut: Att anteckna informationen.
 KUNGSBACKA  KOMMUN
 3 (6)
 
-4. Information förvaltningsstab
+4\. Information förvaltningsstab
 Förändringar förvaltningsstaben:
 
 •  Tillsättning av verksamhetschef Kvalitet och utveckling
@@ -200,7 +200,7 @@ organisatorisk placering i Kvalitet & Utveckling.
 
 Beslut: Att anteckna informationen.
 
-5. Utforma samverkansprotokoll med hjälp av transkribering och AI
+5\. Utforma samverkansprotokoll med hjälp av transkribering och AI
 Arbetsgivaren lägger för närvarande ner betydande tid på protokollföring. För att effektivisera denna
 process avser arbetsgivaren att pröva transkribering via Microsoft Teams som ett möjligt stödverktyg.
 
@@ -222,7 +222,7 @@ Beslut: Informationen antecknas
 KUNGSBACKA  KOMMUN
 4 (6)
 
-6. Direktivet Bättre friskvård
+6\. Direktivet Bättre friskvård
 Frågan om friskvårdsbidraget har tidigare behandlats i CFG i samband med att politiken antog
 beslutet. Vissa förvaltningar har även lyft förslag inom FSG. Det finns ett behov av att tydligare
 definiera hur medarbetarna kan använda bidraget i praktiken.
@@ -240,7 +240,7 @@ del av friskvårdssatsningen.
 
 Beslut: Dialog.
 
-7. Införande barn- och elevhälsochef, samverkan och riskbedömning
+7\. Införande barn- och elevhälsochef, samverkan och riskbedömning
 organisation.
 
 Arbetsgivaren avser att genomföra en riskbedömning i samverkan med de medarbetare som är närmast
@@ -260,7 +260,7 @@ KUNGSBACKA  KOMMUN
 
 Arbetstagarorganisation
 
-8. Hur har arbetsgivaren arbetat med bilaga 3 i HÖK24 (dimensionering av
+8\. Hur har arbetsgivaren arbetat med bilaga 3 i HÖK24 (dimensionering av
 arbetsuppgifter) inför årets tjänsteplanering?
 
 Sveriges Lärare lyfter frågor kring dimensionering av undervisning, undervisningsanknutet arbete och
@@ -307,7 +307,7 @@ Sofia Kareliusson                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 Skolledare
@@ -316,7 +316,7 @@ Ronnie Ripgården                    Kristin Arplöw
 
 Vision                              Vårdförbundet
 
--                                   Anne Melin
+\-                                   Anne Melin
 
 <!-- sida 10 -->
 
@@ -734,7 +734,7 @@ arbetet.
 2.2.3 Skola F-6 anmälda händelser 2024 juli - december 6
 
 I skolan, fritidshem och förskoleklass har 423 händelser anmälts under andra halvåret
-2024. De flesta händelserna, 418 stycken, är anmälda som olycksfall, tillbud eller
+2024\. De flesta händelserna, 418 stycken, är anmälda som olycksfall, tillbud eller
 riskobservation. Diagrammen för anmälda händelser per månad, enhet och
 skadeorsak/risk visar därför endast dessa händelsetyper.
 Anmälda händelser av hot och våld är den vanligaste skadeorsaken och utgör 34% av
@@ -1548,7 +1548,7 @@ av respektive nämnd.
 •  Vi har även ett pris – Självständigt liv – som
 ej är i bruk.
 
-*Delas ut vartannat år               **Extern nominering möjlig
+\*Delas ut vartannat år               \*\*Extern nominering möjlig
 
 Delas  ut på Kungsbackagalan
 
@@ -1556,10 +1556,10 @@ Delas  ut på Kungsbackagalan
 
 | EXTERNT PRIS | INTERNT PRIS |
 | --- | --- |
-| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)** |
+| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)\*\* |
 | Kungsbackas mästare | Årets ledare (två kategorier) |
-| Kungsbackas olympier* | Leva livet-priset** |
-| Årets eldsjäl | Lära för livet-priset** |
+| Kungsbackas olympier\* | Leva livet-priset\*\* |
+| Årets eldsjäl | Lära för livet-priset\*\* |
 | Årets förening |  |
 | Årets förnyare |  |
 | Arkitekturpriset |  |
@@ -1570,10 +1570,10 @@ Delas  ut på Kungsbackagalan
 
 Nuläge
 
-*utdelning under höst
+\*utdelning under höst
 
 Jan       Feb     Mars     April     Maj      Juni    Juli    Aug      Sept      Okt      Nov       Dec
-Leva livet-               Kungsbacka-                                Arkitekturpriset*   Hållbarhets-
+Leva livet-               Kungsbacka-                                Arkitekturpriset\*   Hållbarhets-
 priset                      galan                                                         priset
 Ledardagen
 Medarbetar-
@@ -1632,7 +1632,7 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
-*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
+\*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
 
 [Tabell 51-1](handlingar.tabeller/51-1.csv)
 
@@ -1641,7 +1641,7 @@ Kartläggning                    interna            priset
 | Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
 | Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
 | Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
+| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
 | Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 52 -->
@@ -1851,10 +1851,10 @@ Förvaltningen bedömer utifrån ovanstående att utökning av en ny dagbarnvår
 Rättslig reglering
 
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -2035,9 +2035,9 @@ Rättslig reglering
 
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -2072,7 +2072,7 @@ permanent utökning till totalt 25 barn.
 Nämnden för Förskola & Grundskola godkänner ansökan från Föräldrakooperativet
 Skattkammarlandets ekonomiska förening, Frillesås mellanväg 10 i Frillesås, om
 tillfällig utökning av barnantal på förskolan till totalt 27 barn till och med augusti
-2025.
+2025\.
 
 Sammanfattning av ärendet
 
@@ -2208,10 +2208,10 @@ Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 KUNGSBACKA  KOMMUN
 3 (3)
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 

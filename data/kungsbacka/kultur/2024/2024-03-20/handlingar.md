@@ -445,36 +445,36 @@ narkotikapolitik med liv och hälsa i fokus.
 
 Remissinstanser
 
-1. Akademikerförbundet SSR
+1\. Akademikerförbundet SSR
 
-2. Arbetsförmedlingen
-3. Arvsfondsdelegationen
+2\. Arbetsförmedlingen
+3\. Arvsfondsdelegationen
 
-4. Barnombudsmannen
-5. Barnrättsbyrån
+4\. Barnombudsmannen
+5\. Barnrättsbyrån
 
-6. Bodens kommun
+6\. Bodens kommun
 
-7. Borgholms kommun
-8. Brottsförebyggande rådet
+7\. Borgholms kommun
+8\. Brottsförebyggande rådet
 
-9. Brukarföreningen Stockholm
+9\. Brukarföreningen Stockholm
 
-10. Centralförbundet för alkohol- och narkotikaupplysning
-11. Centralförbundet socialt arbete
+10\. Centralförbundet för alkohol- och narkotikaupplysning
+11\. Centralförbundet socialt arbete
 
-12. Centrum för psykiatriforskning
-13. Civil Rights Defenders
+12\. Centrum för psykiatriforskning
+13\. Civil Rights Defenders
 
-14. Convictus
+14\. Convictus
 
-15. Diskrimineringsombudsmannen
-16. Domstolsverket
+15\. Diskrimineringsombudsmannen
+16\. Domstolsverket
 
-17. E-hälsomyndigheten
+17\. E-hälsomyndigheten
 
-18. Enköpings kommun
-19. Fagersta kommun
+18\. Enköpings kommun
+19\. Fagersta kommun
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
@@ -482,344 +482,344 @@ Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
 
 <!-- sida 15 -->
 
-20. Falu kommun
+20\. Falu kommun
 
-21. Filipstads kommun
-22. Finspångs kommun
+21\. Filipstads kommun
+22\. Finspångs kommun
 
-23. Folkhälsomyndigheten
+23\. Folkhälsomyndigheten
 
-24. Forskningsrådet för hälsa, arbetsliv och välfärd
-25. Frälsningsarmén
+24\. Forskningsrådet för hälsa, arbetsliv och välfärd
+25\. Frälsningsarmén
 
-26. Funktionsrätt Sverige
-27. Föreningen för generiska läkemedel och biosimilarer
+26\. Funktionsrätt Sverige
+27\. Föreningen för generiska läkemedel och biosimilarer
 
-28. Föreningen Sveriges socialchefer
+28\. Föreningen Sveriges socialchefer
 
-29. Försäkringskassan
-30. Förvaltningsrätten i Karlstad
+29\. Försäkringskassan
+30\. Förvaltningsrätten i Karlstad
 
-31. Förvaltningsrätten i Umeå
+31\. Förvaltningsrätten i Umeå
 
-32. Förvaltningsrätten i Växjö
-33. Göteborgs kommun
+32\. Förvaltningsrätten i Växjö
+33\. Göteborgs kommun
 
-34. Göteborgs universitet
-35. Göteborgs universitet - Centrum för forskning och utbildning kring
+34\. Göteborgs universitet
+35\. Göteborgs universitet - Centrum för forskning och utbildning kring
 
 riskbruk, missbruk och beroende
-36. Helsingborgs kommun
+36\. Helsingborgs kommun
 
-37. Hylte kommun
+37\. Hylte kommun
 
-38. Håbo kommun
-39. Hälso- och sjukvårdens ansvarsnämnd
+38\. Håbo kommun
+39\. Hälso- och sjukvårdens ansvarsnämnd
 
-40. Härnösands kommun
-41. Infektionsläkarföreningen
+40\. Härnösands kommun
+41\. Infektionsläkarföreningen
 
-42. Inspektionen för vård och omsorg
+42\. Inspektionen för vård och omsorg
 
-43. Institutet för hälso- och sjukvårdsekonomi
-44. Institutet för mänskliga rättigheter
+43\. Institutet för hälso- och sjukvårdsekonomi
+44\. Institutet för mänskliga rättigheter
 
-45. Integritetsskyddsmyndigheten
+45\. Integritetsskyddsmyndigheten
 
-46. IOGT-NTO
-47. Justitiekanslern
+46\. IOGT-NTO
+47\. Justitiekanslern
 
-48. Jämställdhetsmyndigheten
+48\. Jämställdhetsmyndigheten
 
 2 (9)
 
 <!-- sida 16 -->
 
-49. Järfälla kommun
+49\. Järfälla kommun
 
-50. Jönköpings kommun
-51. Kammarrätten i Göteborg
+50\. Jönköpings kommun
+51\. Kammarrätten i Göteborg
 
-52. Kammarrätten i Stockholm
+52\. Kammarrätten i Stockholm
 
-53. Karlshamns kommun
-54. Karlskoga kommun
+53\. Karlshamns kommun
+54\. Karlskoga kommun
 
-55. Karolinska Institutet
-56. Knas hemma
+55\. Karolinska Institutet
+56\. Knas hemma
 
-57. Kriminalvården
+57\. Kriminalvården
 
-58. Kriminellas revansch i samhället
-59. Krokoms kommun
+58\. Kriminellas revansch i samhället
+59\. Krokoms kommun
 
-60. Kungsbacka kommun
+60\. Kungsbacka kommun
 
-61. Kustbevakningen
-62. Kvinnoorganisationernas samarbetsråd i alkohol- och narkotikafrågor
+61\. Kustbevakningen
+62\. Kvinnoorganisationernas samarbetsråd i alkohol- och narkotikafrågor
 
-63. Landsrådet för Sveriges barn- och ungdomsorganisationer
-64. Laxå kommun
+63\. Landsrådet för Sveriges barn- och ungdomsorganisationer
+64\. Laxå kommun
 
-65. Lessebo kommun
+65\. Lessebo kommun
 
-66. Lif - de forskande läkemedelsföretagen
-67. Linköpings universitet
+66\. Lif - de forskande läkemedelsföretagen
+67\. Linköpings universitet
 
-68. Linköpings universitet - Centrum för social och affektiv neurovetenskap
+68\. Linköpings universitet - Centrum för social och affektiv neurovetenskap
 
-69. Linköpings brukarförening
-70. Linköpings kommun
+69\. Linköpings brukarförening
+70\. Linköpings kommun
 
-71. Linnéuniversitetet
-72. Linnéuniversitetet - Institutet för kunskaps- och metodutveckling inom
+71\. Linnéuniversitetet
+72\. Linnéuniversitetet - Institutet för kunskaps- och metodutveckling inom
 
 ungdoms- och missbruksvård
-73. Livsmedelsverket
+73\. Livsmedelsverket
 
-74. Lunds universitet
+74\. Lunds universitet
 
-75. Läkemedelshandlarna
-76. Läkemedelsverket
+75\. Läkemedelshandlarna
+76\. Läkemedelsverket
 
-77. Länsstyrelsen i Blekinge län
+77\. Länsstyrelsen i Blekinge län
 
 3 (9)
 
 <!-- sida 17 -->
 
-78. Länsstyrelsen i Dalarnas län
+78\. Länsstyrelsen i Dalarnas län
 
-79. Länsstyrelsen i Gotlands län
-80. Länsstyrelsen i Gävleborgs län
+79\. Länsstyrelsen i Gotlands län
+80\. Länsstyrelsen i Gävleborgs län
 
-81. Länsstyrelsen i Hallands län
+81\. Länsstyrelsen i Hallands län
 
-82. Länsstyrelsen i Jämtlands län
-83. Länsstyrelsen i Jönköpings län
+82\. Länsstyrelsen i Jämtlands län
+83\. Länsstyrelsen i Jönköpings län
 
-84. Länsstyrelsen i Kalmar län
-85. Länsstyrelsen i Kronobergs län
+84\. Länsstyrelsen i Kalmar län
+85\. Länsstyrelsen i Kronobergs län
 
-86. Länsstyrelsen i Norrbottens län
+86\. Länsstyrelsen i Norrbottens län
 
-87. Länsstyrelsen i Skåne län
-88. Länsstyrelsen i Stockholms län
+87\. Länsstyrelsen i Skåne län
+88\. Länsstyrelsen i Stockholms län
 
-89. Länsstyrelsen i Södermanlands län
+89\. Länsstyrelsen i Södermanlands län
 
-90. Länsstyrelsen i Uppsala län
-91. Länsstyrelsen i Värmlands län
+90\. Länsstyrelsen i Uppsala län
+91\. Länsstyrelsen i Värmlands län
 
-92. Länsstyrelsen i Västerbottens län
-93. Länsstyrelsen i Västernorrlands län
+92\. Länsstyrelsen i Västerbottens län
+93\. Länsstyrelsen i Västernorrlands län
 
-94. Länsstyrelsen i Västmanlands län
+94\. Länsstyrelsen i Västmanlands län
 
-95. Länsstyrelsen i Västra Götalands län
-96. Länsstyrelsen i Örebro län
+95\. Länsstyrelsen i Västra Götalands län
+96\. Länsstyrelsen i Örebro län
 
-97. Länsstyrelsen i Östergötlands län
+97\. Länsstyrelsen i Östergötlands län
 
-98. Malmö kommun
-99. Malmö universitet
+98\. Malmö kommun
+99\. Malmö universitet
 
-100. Mora kommun
-101. Myndigheten för delaktighet
+100\. Mora kommun
+101\. Myndigheten för delaktighet
 
-102. Myndigheten för digital förvaltning
+102\. Myndigheten för digital förvaltning
 
-103. Myndigheten för familjerätt och föräldraskapsstöd
-104. Myndigheten För ungdoms- och civilsamhällesfrågor
+103\. Myndigheten för familjerätt och föräldraskapsstöd
+104\. Myndigheten För ungdoms- och civilsamhällesfrågor
 
-105. Myndigheten för vård- och omsorgsanalys
+105\. Myndigheten för vård- och omsorgsanalys
 
-106. Mälardalens universitet
-107. Narkotikapolitiskt center
+106\. Mälardalens universitet
+107\. Narkotikapolitiskt center
 
 4 (9)
 
 <!-- sida 18 -->
 
-108. Nationell arbetsgrupp (NAG) missbruk och beroende
+108\. Nationell arbetsgrupp (NAG) missbruk och beroende
 
-109. Nationell samverkan för psykisk hälsa
-110. Nationellt kompetenscentrum anhöriga
+109\. Nationell samverkan för psykisk hälsa
+110\. Nationellt kompetenscentrum anhöriga
 
-111. Norrtälje kommun
+111\. Norrtälje kommun
 
-112. Nätverket utan skyddsnät
-113. Ockelbo kommun
+112\. Nätverket utan skyddsnät
+113\. Ockelbo kommun
 
-114. Oskarshamns kommun
-115. Polismyndigheten
+114\. Oskarshamns kommun
+115\. Polismyndigheten
 
-116. Psykologförbundet
+116\. Psykologförbundet
 
-117. Region Blekinge
-118. Region Dalarna
+117\. Region Blekinge
+118\. Region Dalarna
 
-119. Region Gotland
+119\. Region Gotland
 
-120. Region Gävleborg
-121. Region Halland
+120\. Region Gävleborg
+121\. Region Halland
 
-122. Region Jämtland Härjedalen
-123. Region Jönköpings län
+122\. Region Jämtland Härjedalen
+123\. Region Jönköpings län
 
-124. Region Kalmar län
+124\. Region Kalmar län
 
-125. Region Kronoberg
-126. Region Norrbotten
+125\. Region Kronoberg
+126\. Region Norrbotten
 
-127. Region Skåne
+127\. Region Skåne
 
-128. Region Stockholm
-129. Region Sörmland
+128\. Region Stockholm
+129\. Region Sörmland
 
-130. Region Uppsala
-131. Region Värmland
+130\. Region Uppsala
+131\. Region Värmland
 
-132. Region Västerbotten
+132\. Region Västerbotten
 
-133. Region Västernorrland
-134. Region Västmanland
+133\. Region Västernorrland
+134\. Region Västmanland
 
-135. Region Örebro län
+135\. Region Örebro län
 
-136. Region Östergötland
-137. RFSL
+136\. Region Östergötland
+137\. RFSL
 
 5 (9)
 
 <!-- sida 19 -->
 
-138. Riksdagens ombudsmän
+138\. Riksdagens ombudsmän
 
-139. Riksförbundet för fältarbetare
-140. Riksförbundet för hjälp åt läkemedels- och narkotikabrukare
+139\. Riksförbundet för fältarbetare
+140\. Riksförbundet för hjälp åt läkemedels- och narkotikabrukare
 
-141. Riksförbundet hela livet
+141\. Riksförbundet hela livet
 
-142. Riksförbundet mot alkohol- och narkotikamissbruk
-143. Riksförbundet narkotikafritt samhälle
+142\. Riksförbundet mot alkohol- och narkotikamissbruk
+143\. Riksförbundet narkotikafritt samhälle
 
-144. Riksföreningens Sveriges stadsmissioner
-145. Riksorganisationen för idéburen välfärd
+144\. Riksföreningens Sveriges stadsmissioner
+145\. Riksorganisationen för idéburen välfärd
 
-146. Rädda barnen
+146\. Rädda barnen
 
-147. Rättsmedicinalverket
-148. Rättviks kommun
+147\. Rättsmedicinalverket
+148\. Rättviks kommun
 
-149. Röda korset
+149\. Röda korset
 
-150. SFAM - allmänläkarnas förening
-151. Skyddsvärnet
+150\. SFAM - allmänläkarnas förening
+151\. Skyddsvärnet
 
-152. Skånes brukarförening
-153. Skövde kommun
+152\. Skånes brukarförening
+153\. Skövde kommun
 
-154. Socialstyrelsen
+154\. Socialstyrelsen
 
-155. Specialpedagogiska Skolmyndigheten
-156. Statens beredning för medicinsk och social utvärdering
+155\. Specialpedagogiska Skolmyndigheten
+156\. Statens beredning för medicinsk och social utvärdering
 
-157. Statens institutionsstyrelse
+157\. Statens institutionsstyrelse
 
-158. Statens jordbruksverk
-159. Statens medicinsk-etiska råd
+158\. Statens jordbruksverk
+159\. Statens medicinsk-etiska råd
 
-160. Statens skolverk
-161. Statskontoret
+160\. Statens skolverk
+161\. Statskontoret
 
-162. Stiftelsen allmänna barnhuset
+162\. Stiftelsen allmänna barnhuset
 
-163. Stockholm förebygger alkohol- och drogproblem
-164. Stockholms kommun
+163\. Stockholm förebygger alkohol- och drogproblem
+164\. Stockholms kommun
 
-165. Stockholms universitet
+165\. Stockholms universitet
 
-166. Stockholms universitet - Centrum för socialvetenskaplig alkohol- och
+166\. Stockholms universitet - Centrum för socialvetenskaplig alkohol- och
 drogforskning
 
 6 (9)
 
 <!-- sida 20 -->
 
-167. Storfors kommun
+167\. Storfors kommun
 
-168. Storumans kommun
-169. Strängnäs kommun
+168\. Storumans kommun
+169\. Strängnäs kommun
 
-170. Sundsvalls kommun
+170\. Sundsvalls kommun
 
-171. Sundsvalls tingsrätt
-172. Svea hovrätt
+171\. Sundsvalls tingsrätt
+172\. Svea hovrätt
 
-173. Svenljunga kommun
-174. Svensk egenvård
+173\. Svenljunga kommun
+174\. Svensk egenvård
 
-175. Svensk förening för beroendemedicin
+175\. Svensk förening för beroendemedicin
 
-176. Svensk sjuksköterskeförening
-177. Svenska föreningen för alkohol- och drogforskning
+176\. Svensk sjuksköterskeförening
+177\. Svenska föreningen för alkohol- och drogforskning
 
-178. Svenska kommunalarbetareförbundet
+178\. Svenska kommunalarbetareförbundet
 
-179. Svenska läkaresällskapet
-180. Svenska narkotikapolisföreningen
+179\. Svenska läkaresällskapet
+180\. Svenska narkotikapolisföreningen
 
-181. Svenska vård
-182. Svenskar och invandrare mot narkotika
+181\. Svenska vård
+182\. Svenskar och invandrare mot narkotika
 
-183. Sveriges apoteksförening
+183\. Sveriges apoteksförening
 
-184. Sveriges kommuner och regioner
-185. Sveriges landsråd för alkohol och narkotikafrågor
+184\. Sveriges kommuner och regioner
+185\. Sveriges landsråd för alkohol och narkotikafrågor
 
-186. Sveriges läkarförbund
+186\. Sveriges läkarförbund
 
-187. Södertälje tingsrätt
-188. Sölvesborgs kommun
+187\. Södertälje tingsrätt
+188\. Sölvesborgs kommun
 
-189. Tandvårds- och läkemedelsförmånsverket
-190. Tingsryds kommun
+189\. Tandvårds- och läkemedelsförmånsverket
+190\. Tingsryds kommun
 
-191. Tomelilla kommun
+191\. Tomelilla kommun
 
-192. Tullverket
-193. Uddevalla tingsrätt
+192\. Tullverket
+193\. Uddevalla tingsrätt
 
-194. Umeå kommun
+194\. Umeå kommun
 
-195. Uppsala universitet
-196. Uppsala universitet - U-FOLD
+195\. Uppsala universitet
+196\. Uppsala universitet - U-FOLD
 
 7 (9)
 
 <!-- sida 21 -->
 
-197. Vellinge kommun
+197\. Vellinge kommun
 
-198. Verdandi
-199. Vetenskapsrådet
+198\. Verdandi
+199\. Vetenskapsrådet
 
-200. Vetlanda kommun
+200\. Vetlanda kommun
 
-201. Vingåkers kommun
-202. Vårdförbundet
+201\. Vingåkers kommun
+202\. Vårdförbundet
 
-203. Västerås kommun
-204. Västra Götalandsregionen
+203\. Västerås kommun
+204\. Västra Götalandsregionen
 
-205. Åklagarmyndigheten
+205\. Åklagarmyndigheten
 
-206. Åre kommun
-207. Överkalix kommun
+206\. Åre kommun
+207\. Överkalix kommun
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 22 april
-2024. Svaren bör lämnas per e-post till s.remissvar@regeringskansliet.se och
+2024\. Svaren bör lämnas per e-post till s.remissvar@regeringskansliet.se och
 med kopia till s.hc@regeringskansliet.se. Ange diarienummer S2024/00085
 och remissinstansens namn i ämnesraden på e-postmeddelandet.
 
@@ -956,7 +956,7 @@ utredare Lina Pastorek. Som sekreterare i utredningen anställdes den
 först på deltid men från den 1 augusti 2022 på heltid. Den 13 juni
 2022 anställdes juristen Anne Terdén som sekreterare i utredningen.
 Anne Terdén entledigades som sekreterare i utredningen den 31 januari
-2023. Den 21 november 2022 till den 30 september 2023 anställdes
+2023\. Den 21 november 2022 till den 30 september 2023 anställdes
 Linnea Kronosjö som assistent i utredningen. Den 2 februari 2023
 anställdes departementssekreterare Linda Hindberg som sekreterare
 i utredningen. Den 1 mars 2023 till 30 september 2023 anställdes
@@ -2987,17 +2987,17 @@ beställare.
 
 16 § Ett öppenvårdsapotek får neka behörig beställare helt eller del-
 vis expediering av det antalet doser som framgår av rekvisitionen om
-1. mängden är oskälig i förhållande till kraven i 12 §,
-2. det finns risk för att det uppstår en brist på läkemedlet eller,
-3. det finns andra särskilda skäl.
+1\. mängden är oskälig i förhållande till kraven i 12 §,
+2\. det finns risk för att det uppstår en brist på läkemedlet eller,
+3\. det finns andra särskilda skäl.
 
 Förvaring
 
 17 § Läkemedel enligt denna lag ska förvaras:
-1. i lämpliga och låsta skåp eller fack,
-2. på ett sådant sätt att endast den hanteringsansvarige eller någon
+1\. i lämpliga och låsta skåp eller fack,
+2\. på ett sådant sätt att endast den hanteringsansvarige eller någon
 som denne delegerat uppgiften till har tillgång till läkemedlet, och
-3. i originalförpackningarna.
+3\. i originalförpackningarna.
 
 Administrering
 
@@ -3064,9 +3064,9 @@ verksamheten avser att hantera läkemedel som verkar som opioid-
 antagonister.
 
 26 § Anmälan ska innehålla uppgifter om
-1. namn på verksamheten,
-2. var verksamheten ska bedrivas, och
-3. vem som är hanteringsansvarig.
+1\. namn på verksamheten,
+2\. var verksamheten ska bedrivas, och
+3\. vem som är hanteringsansvarig.
 
 Vidare ska anmälaren ge in underlag som stöder att verksamheten
 uppfyller kriterierna i 3 § och dokumentation på genomgången ut-
@@ -3094,8 +3094,8 @@ Bemyndiganden
 
 31 § Regeringen eller den myndighet som regeringen bestämmer
 får besluta ytterligare föreskrifter om
-1. rekvisition,
-2. förvaring,
+1\. rekvisition,
+2\. förvaring,
 
 53
 
@@ -3103,14 +3103,14 @@ får besluta ytterligare föreskrifter om
 
 Författningsförslag                        SOU 2023:62
 
-3. hur anmälningsskyldigheten i 25–27 §§ ska fullgöras, och
-4. Läkemedelsverkets tillsynsansvar.
+3\. hur anmälningsskyldigheten i 25–27 §§ ska fullgöras, och
+4\. Läkemedelsverkets tillsynsansvar.
 
 32 § Regeringen eller den myndighet som regeringen bestämmer,
 får meddela föreskrifter om
-1. vilka läkemedel som verkar som opioidantagonister som ska om-
+1\. vilka läkemedel som verkar som opioidantagonister som ska om-
 fattas av lagen, och
-2. innehållet i och omfattningen av sådan utbildning som avses i
+2\. innehållet i och omfattningen av sådan utbildning som avses i
 10 § samt kraven för godkännande av deltagare.
 
 Överklagande
@@ -3184,12 +3184,12 @@ Planen ska när det är möjligt upprättas tillsammans med den
 enskilde. Närstående ska ges möjlighet att delta i arbetet med planen,
 om det är lämpligt och den enskilde inte motsätter sig det.
 Av planen ska det framgå
-1. vilka insatser som behövs,
-2. vilka insatser respektive huvudman ska svara för,
-3. vilka åtgärder som vidtas av någon annan än kommunen eller
+1\. vilka insatser som behövs,
+2\. vilka insatser respektive huvudman ska svara för,
+3\. vilka åtgärder som vidtas av någon annan än kommunen eller
 
 regionen, och
-4. vem av huvudmännen som ska ha det övergripande ansvaret för
+4\. vem av huvudmännen som ska ha det övergripande ansvaret för
 planen.
 
 56
@@ -3279,11 +3279,11 @@ Planen ska, när det är möjligt, upprättas tillsammans med den
 enskilde. Närstående ska ges möjlighet att delta i arbetet med planen,
 om det är lämpligt och den enskilde inte motsätter sig det.
 Av planen ska det framgå
-1. vilka insatser som behövs,
-2. vilka insatser som respektive huvudman ska svara för,
-3. vilka åtgärder som vidtas av någon annan än regionen eller
+1\. vilka insatser som behövs,
+2\. vilka insatser som respektive huvudman ska svara för,
+3\. vilka åtgärder som vidtas av någon annan än regionen eller
 kommunen, och
-4. vem av huvudmännen som ska ha det övergripande ansvaret för
+4\. vem av huvudmännen som ska ha det övergripande ansvaret för
 planen.
 
 Denna lag ska träda i kraft den 1 januari 2026.
@@ -3427,14 +3427,14 @@ upprättandet av en plan vid sam-
 ordnad verkställighetsplanering.
 Av en samordnad verkställig-
 hetsplan ska framgå
-1. vilka insatser som behövs
-2. vilka insatser som respektive
+1\. vilka insatser som behövs
+2\. vilka insatser som respektive
 huvudman ska svara för
-3. vilka insatser som ska vidtas
+3\. vilka insatser som ska vidtas
 
 av någon annan än Kriminalvår-
 den, regionen eller kommunen, och
-4. vem eller vilka som ska ta
+4\. vem eller vilka som ska ta
 över ansvaret för insatser efter att
 verkställigheten avslutas.
 Insatserna i en verkställighets-
@@ -5715,18 +5715,18 @@ faktorer, som ligger till grund för de nya folkhälsopolitiska målområ-
 dena. Det är sådana faktorer i människors livsvillkor och levnadsvanor
 som tydligt samvarierar med hälsan. Folkhälsopolitiken har åtta mål-
 områden som utgår från ett livsloppsperspektiv:
-1. Det tidiga livets villkor
+1\. Det tidiga livets villkor
 
-2. Kunskaper, kompetenser och utbildning
-3. Arbete, arbetsförhållanden och arbetsmiljö
+2\. Kunskaper, kompetenser och utbildning
+3\. Arbete, arbetsförhållanden och arbetsmiljö
 
-4. Inkomster och försörjningsmöjligheter
-5. Boende och närmiljö
+4\. Inkomster och försörjningsmöjligheter
+5\. Boende och närmiljö
 
-6. Levnadsvanor
-7. Kontroll, inflytande och delaktighet
+6\. Levnadsvanor
+7\. Kontroll, inflytande och delaktighet
 
-8. En jämlik och hälsofrämjande hälso- och sjukvård.
+8\. En jämlik och hälsofrämjande hälso- och sjukvård.
 
 Målområdena visar inriktningen för arbetet med att främja god och
 jämlik hälsa. Det folkhälsopolitiska ramverket tydliggör att arbetet
@@ -6300,7 +6300,7 @@ ende inte får en sammanhållen vård och omsorg eller till och med kan
 24 Myndigheten för vård- och omsorgsanalys (2015). Varierande väntan på vård – Analys och
 uppföljning av den nationella vårdgarantin, rapport 2015:5.
 25 Socialstyrelsen (2016). Uppföljning av hälso- och sjukvårdens tillgänglighet – Slutrapport mars
-2016.
+2016\.
 130
 
 <!-- sida 153 -->
@@ -7067,11 +7067,11 @@ Västerbotten
 Jönköping
 Stockholm
 Norrbotten
-Jämtland*
-Gotland*
-Kronoberg*
+Jämtland\*
+Gotland\*
+Kronoberg\*
 9 10 11 12 13 14 15 16 17 18 19 20 21
-*Socialstyrelsen har bedömt att underlagsdata inte kan levereras på grund av små tal.
+\*Socialstyrelsen har bedömt att underlagsdata inte kan levereras på grund av små tal.
 Källa: Patientregistret och dödsorsaksregistret. Socialstyrelsen.
 6 Återinskrivningar följs upp för 1–30 dagar efter utskrivning och avlidna för 0–30 dagar.
 7 I samband med jämförelser av resultat och utfall som indikationer på kvalitet är det veder-
@@ -7095,7 +7095,7 @@ snittligt tyngre problematik för patienterna i regionens vård jämfört
 med län där LVM-vård är mer vanligt.
 I figur 6.2 framgår att andelen återinskrivningar inom en månad
 ökat i ett längre perspektiv, från 10 procent 2001 till nära 14 procent
-2017. Sedan 2017 har återinskrivningarna dock sjunkit något. En lik-
+2017\. Sedan 2017 har återinskrivningarna dock sjunkit något. En lik-
 artad utveckling, men på mycket lägre nivå, finns för andelen avlidna
 inom en månad efter slutenvård.
 
@@ -7140,7 +7140,7 @@ kommungrupper
 Andel av personer 15–79 år, med slutenvårdstillfälle eller läkar-
 besök i specialiserad vård med diagnos för skadligt bruk eller
 beroende av narkotika (F11–F16, F19), som avled inom 0–365 dagar
-efter den första vårdkontakten för året. År 2019–2021.* Procent
+efter den första vårdkontakten för året. År 2019–2021.\* Procent
 Pendlingskommun nära storstad
 Landsbygdskommun med besöksnäring
 Större stad
@@ -7152,7 +7152,7 @@ Lågpendlingskommun nära större stad
 Pendlingskommun nära mindre stad/tätort
 Landsbygdskommun
 1,5 2,0 2,5  3,0 3,5 4,0  4,5
-* Uppföljning till och med 2022 med preliminära uppgifter för dödsfall.
+\* Uppföljning till och med 2022 med preliminära uppgifter för dödsfall.
 Källa: Patientregistret och dödsorsaksregistret. Socialstyrelsen.
 I figur 6.3 visas hur personer som vårdats i specialiserad vård under
 perioden 2019–2021 följts upp avseende dödlighet inom ett år redo-
@@ -7188,14 +7188,14 @@ utbildning
 Andel av personer 25–59 år, med slutenvårdstillfälle eller läkar-
 besök i specialiserad vård med diagnos för skadligt bruk eller
 beroende av narkotika (F11–F16, F19), som avled inom 0–365 dagar
-efter den första vårdkontakten för året. År 2019–2021*. Procent
+efter den första vårdkontakten för året. År 2019–2021\*. Procent
 Eftergymnasial
 Gymnasial
 RIKET (exkl saknad utbildning)
 Förgymnasial
 
 1,0  1,5   2,0  2,5   3,0  3,5
-* Uppföljning till och med 2022 med preliminära uppgifter för dödsfall.
+\* Uppföljning till och med 2022 med preliminära uppgifter för dödsfall.
 Källa: Patientregistret och dödsorsaksregistret. Socialstyrelsen.
 
 I ett längre perspektiv har andelen avlidna inom ett år efter speciali-
@@ -7224,8 +7224,8 @@ förgiftning
 Suicid
 0,5
 0,0
-2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 20202021*
-* Uppföljning till och med 2022 med preliminära uppgifter för dödsfall.
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 20202021\*
+\* Uppföljning till och med 2022 med preliminära uppgifter för dödsfall.
 Källa: Patientregistret och dödsorsaksregistret. Socialstyrelsen.
 151
 
@@ -7263,8 +7263,8 @@ Kvinnor
 1
 
 0
-2001-2007 2008-2014 2015-2021*
-* Uppföljningen inkluderar preliminära uppgifter om avlidna år 2022.
+2001-2007 2008-2014 2015-2021\*
+\* Uppföljningen inkluderar preliminära uppgifter om avlidna år 2022.
 Källa: Registret för tvångsvård av missbrukare i vissa fall och dödsorsaksregistret, Socialstyrelsen.
 
 Personer som arbetar inom SiS har framhållit att det kan finnas skill-
@@ -7294,14 +7294,14 @@ perioderna än mellan kommungrupperna.
 
 Figur 6.7 Andel avlidna inom 365 dagar efter utskrivning från vård enligt
 LVM – exklusive personer där missbruksmedlet var enbart alkohol
-2015–2021 år avser tid för utskrivning*. Linjerna kring prickarna
+2015–2021 år avser tid för utskrivning\*. Linjerna kring prickarna
 visar 95-procentiga konfidensintervall. Procent
 Mindre städer/tätorter och landsbygdskommuner
 Riket
 Större städer och kommuner nära större stad
 Storstäder och storstadsnära kommuner
 0   1  2   3  4   5  6   7
-* Uppföljningen inkluderar preliminära uppgifter om avlidna år 2022.
+\* Uppföljningen inkluderar preliminära uppgifter om avlidna år 2022.
 Källa: Registret för tvångsvård av missbrukare i vissa fall och dödsorsaksregistret, Socialstyrelsen.
 
 I de föregående figurerna redovisas resultaten för personer som tidi-
@@ -7457,12 +7457,12 @@ Psykosociala insatser
 Abstinensbehandling
 LARO
 Omnämner Sprututbyte
-Tillnyktring/LOB*
-SMADIT**
+Tillnyktring/LOB\*
+SMADIT\*\*
 0    20   40   60   80   100
 Ja Delvis
-*Lagen (1976:511) om omhändertagande av berusade personer m.m.
-**Samverkan mot alkohol och droger i trafiken.
+\*Lagen (1976:511) om omhändertagande av berusade personer m.m.
+\*\*Samverkan mot alkohol och droger i trafiken.
 Källa: Överenskommelser inom missbruk och beroende – innehållsanalys 2020. Sveriges Kommuner
 och Regioner.
 
@@ -7727,7 +7727,7 @@ för allt män står för minskningen i antalet boende/vårdade.
 Figur 6.16 Personer i frivillig institutionsvård under året (HVB),
 per 100 000 invånare 21 år eller äldre
 Antal per 100 000. De grå ringarna i figuren visar värden
-för respektive län*
+för respektive län\*
 250
 RIKET  Län (yta=befolkning 2021) Kvinnor Män
 
@@ -7741,7 +7741,7 @@ RIKET  Län (yta=befolkning 2021) Kvinnor Män
 
 0
 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
-* Ringarnas yta motsvara befolkningens storlek 2021. För individuella kommuners och läns namn och
+\* Ringarnas yta motsvara befolkningens storlek 2021. För individuella kommuners och läns namn och
 värden hänvisas till Socialstyrelsens publika statistikdatabas.
 Källa: Statistikdatabas för vuxna personer med missbruk och beroende, Socialstyrelsen.
 
@@ -7775,10 +7775,10 @@ Antal per person
 80
 
 60
-=
+\=
 40
-2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020* 2021
-* Uppgifter för år 2020 har utelämnats då ett rapporteringsfel påverkar statistiken i hög grad.
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020\* 2021
+\* Uppgifter för år 2020 har utelämnats då ett rapporteringsfel påverkar statistiken i hög grad.
 Källa: Statistikdatabas för vuxna personer med missbruk och beroende, Socialstyrelsen.
 
 6.5.2 Verksamhet som bedrivs av Statens institutionsstyrelse
@@ -8232,7 +8232,7 @@ SOU 2023:62         Vårt och stöd vid skadligt bruk eller beroende – en kart
 Figur 6.25 Patienter i specialiserad vård med skadligt bruk eller beroende
 av narkotika. Personer med slutenvårdstillfällen eller läkarbesök
 i specialiserad vård, 2021
-Antal. Huvuddiagnos (F11–F16, F19*)
+Antal. Huvuddiagnos (F11–F16, F19\*)
 
 3500
 Kvinnor Män
@@ -8245,13 +8245,13 @@ Kvinnor Män
 500
 0
 
-*Summering av patienter för respektive diagnos varför viss dubbelräkning kan förekomma.
+\*Summering av patienter för respektive diagnos varför viss dubbelräkning kan förekomma.
 Källa: Statistikdatabas för diagnoser, Socialstyrelsen.
 
 Figur 6.26 Patienter i specialiserad vård med skadligt bruk eller beroende
 av narkotika. Personer med slutenvårdstillfällen eller läkarbesök
 i specialiserad vård
-Antal per 100 000 invånare. Huvuddiagnos (F11–F16, F19*)
+Antal per 100 000 invånare. Huvuddiagnos (F11–F16, F19\*)
 800
 700
 
@@ -8265,7 +8265,7 @@ Antal per 100 000 invånare. Huvuddiagnos (F11–F16, F19*)
 0
 
 2011 2016 2021
-*Summering av patienter för respektive diagnos varför viss dubbelräkning kan förekomma.
+\*Summering av patienter för respektive diagnos varför viss dubbelräkning kan förekomma.
 Källa: Statistikdatabas för diagnoser, Socialstyrelsen.
 
 173
@@ -8500,7 +8500,7 @@ cialiserad öppenvård med F11–F16, F19 som huvud- eller bidiagnos. Till vänt
 rapporterades 8 115 läkarbesök (mottagningsbesök, distansbesök och hembesök) i primärvård
 för samma diagnoser och år.
 37 Socialstyrelsen (2020). Uppföljning och analys av överenskommelsen om ökad tillgänglighet
-2020. Regionernas inrapportering av primärvårdsdata till den nationella väntetidsdatabasen.
+2020\. Regionernas inrapportering av primärvårdsdata till den nationella väntetidsdatabasen.
 Delrapport december 2020.
 38 Syftet med registrets kartläggning var att beräkna sin täckningsgrad för verksamheten. För
 de regioner som inte svarat har därför registret gjort en generös skattning för att inte riskera
@@ -8584,7 +8584,7 @@ får sin behandling i Skåne eller flyttar dit. Om siffrorna för Halland,
 Kronoberg och Blekinge läggs samman med Skånes data så blir värdet
 83 per 100 000 invånare, alltså fortfarande tydligt högre än rikssnittet.
 
-Figur 6.33 Personer i LARO 2021* per region
+Figur 6.33 Personer i LARO 2021\* per region
 Antal per 100 000 invånare
 
 Skåne                           112
@@ -8610,7 +8610,7 @@ Blekinge    31
 Halland    27
 Kronoberg  21
 0    20   40   60    80  100   120
-*De rapporterade värdena kommer från olika inventeringar under perioden 2020 till mars 2022 och kan
+\*De rapporterade värdena kommer från olika inventeringar under perioden 2020 till mars 2022 och kan
 motsvara olika tidpunkter eller perioder i det intervallet, om flera uppgifter förekommer har det värde
 som bäst motsvarar den mängd läkemedel som användes för 2021 valts.
 Källa: Bearbetning av uppgifter från E-hälsomyndigheten, Socialstyrelsen, Bättre Beroendevård, Region
@@ -8835,7 +8835,7 @@ SOU 2023:62         Vårt och stöd vid skadligt bruk eller beroende – en kart
 
 Figur 6.38 Andel av genomförda första vårdkontakter i specialiserad vård
 inom 30 respektive 90 dagar med diagnos för skadligt bruk eller
-beroende (F11–F16, F19)*. Januari 2021–oktober 2022
+beroende (F11–F16, F19)\*. Januari 2021–oktober 2022
 Procent
 
 Gotland
@@ -8861,7 +8861,7 @@ Västmanland
 Västra Götaland
 0  10 20  30 40 50  60 70  80 90 100
 0–30 dagar 31–90 dagar
-* Region Skåne saknar första vårdkontakter med dessa diagnoser i uttaget från väntetidsdatabasen.
+\* Region Skåne saknar första vårdkontakter med dessa diagnoser i uttaget från väntetidsdatabasen.
 Källa: Väntetidsdatabasen, Sveriges Kommuner och Regioner.
 6.6.4 Försämrad patientnöjdhet för psykiatrin som helhet
 SKR genomför patientenkäter inom flera områden av hälso- och sjuk-
@@ -8965,7 +8965,7 @@ Västmanland 94 94    86   100           17
 Totalt*   75   86    85    86    78    8 486
 ```
 
-* I totalsiffran ingår även regioner med färre än 10 rapporterade patienter, dessa visas inte i tabellen:
+\* I totalsiffran ingår även regioner med färre än 10 rapporterade patienter, dessa visas inte i tabellen:
 Blekinge, Dalarna, Kronoberg, Värmland och Västra Götaland.
 Källa: Bättre Beroendevård 2022.
 I figur 6.40 visas andelen patienter med skadligt bruk eller beroende
@@ -9229,14 +9229,14 @@ KBT (Kognitiv beteendeterapi)   90     54
 MET (Motivational Enhancement Therapy) 76 38
 Tolvstegsbehandling             24     73
 CRA (Community Reinforcement Approach) 29 64
-Integrerad behandlingsmetod vid samsjuklighet (Region) 86 –*
+Integrerad behandlingsmetod vid samsjuklighet (Region) 86 –\*
 (PDT) Psykodynamisk terapi eller IPT (Interaktionell terapi) 67 9
 Parterapi enligt BCT (Behaviour Couples Therapy) 5 3
 Nätverksterapi (NT)              0      4
 SBNT (Social Behaviour Network Therapy) 0 4
 MATRIX-programmet                0      1
 Annan behandling                43     41
-*Denna uppgift efterfrågades enbart från regioner.
+\*Denna uppgift efterfrågades enbart från regioner.
 Källa: Samsjuklighetsutredningen. Enkätinsamling från regioner och kommuner.
 
 Behandlingsmetoder på Statens institutionsstyrelse
@@ -9518,7 +9518,7 @@ behandlingsinsatser riktade specifikt till unga personer med miss-
 ungdoms- och missbruksvården (2022). Maria-mottagningarna i Stockholm, Göteborg och Malmö
 – Ungdomar i öppenvård år 2021.
 54 Statens institutionsstyrelse (2022). Ungdomar intagna på SiS särskilda ungdomshem under
-2020. En tabellsammanställning av ADAD inskrivningsintervju.
+2020\. En tabellsammanställning av ADAD inskrivningsintervju.
 199
 
 <!-- sida 222 -->
@@ -9694,8 +9694,8 @@ Rekvisitioner Förskrivning
 4000
 2000
 0
-2018     2019    2020    2021    2022*
-*För år 2022 saknas uppgifter för december, årets värde har därför räknats upp med en tolftedel för att
+2018     2019    2020    2021    2022\*
+\*För år 2022 saknas uppgifter för december, årets värde har därför räknats upp med en tolftedel för att
 motsvara helårsdata.
 Källa: E-hälsomyndigheten.
 
@@ -11331,13 +11331,13 @@ Av 1 § narkotikastrafflagen framgår vilka olika gärningar som utgör
 brott. Bestämmelsen har sedan den 1 juli 2023 följande lydelse:
 
 Den som olovligen
-1. överlåter narkotika,
-2. framställer narkotika som är avsedd för missbruk,
-3. förvärvar narkotika i överlåtelsesyfte,
-4. anskaffar, bearbetar, förpackar, transporterar, förvarar eller tar
+1\. överlåter narkotika,
+2\. framställer narkotika som är avsedd för missbruk,
+3\. förvärvar narkotika i överlåtelsesyfte,
+4\. anskaffar, bearbetar, förpackar, transporterar, förvarar eller tar
 annan sådan befattning med narkotika som inte är avsedd för eget
 bruk,
-5. innehar, brukar eller tar annan befattning med narkotika
+5\. innehar, brukar eller tar annan befattning med narkotika
 döms för narkotikabrott till fängelse i högst tre år.
 Om en gärning som avses i första stycket innebär att gärningsmannen
 säljer narkotika eller annars befattar sig med narkotika som är avsedd att
@@ -12691,10 +12691,10 @@ totalt             huvudbrott
 2019    44 861 11 412 33 449 22 682 7 090 15 592
 2020    46 142 11 019 35 123 24 861 7 114 17 747
 2021    42 962 9 492 33 470 24 667 6 480 18 187
-* En person kan i ett och samma lagföringsbeslut förklaras skyldig till flera brott. Som huvudbrott väljs
+\* En person kan i ett och samma lagföringsbeslut förklaras skyldig till flera brott. Som huvudbrott väljs
 det brott i lagföringsbeslutet som har den strängaste straffskalan.
 Om två brott har samma straffskala, väljs slumpmässigt ett av brotten som huvudbrott.
-* I statistiken saknas uppgifter från år 2015 och 2016.
+\* I statistiken saknas uppgifter från år 2015 och 2016.
 Källa: Statistik från Brå. Lagföringsbeslut efter huvudbrott se senaste tio åren. Tabell 40G.
 Av statistiken framgår att antalet dömda för ringa narkotikabrott
 ligger relativt konstant sedan 2010, men andelen där ringa narkotika-
@@ -13087,10 +13087,10 @@ kan. Av 7 § fängelseförordningen (2010:2010) framgår följande:
 Inför frigivningen ska verkställighetsplanen vara särskilt inriktad på kon-
 kreta åtgärder som kan underlätta övergången till ett liv i frihet. Utifrån
 den intagnes behov ska, i lämplig tid, samverkan ske med
-1. socialnämnden,
-2. hälso- och sjukvården,
-3. Arbetsförmedlingen, och
-4. Försäkringskassan.
+1\. socialnämnden,
+2\. hälso- och sjukvården,
+3\. Arbetsförmedlingen, och
+4\. Försäkringskassan.
 
 Vid behov ska samverkan också ske med andra myndigheter, orga-
 nisationer och enskilda aktörer som det kan krävas samarbete med,
@@ -18006,7 +18006,7 @@ ten till olika substanser.
 
 Tabell 13.1 Substanser som bidragit till förgiftningsdödsfall
 Antal förgiftningsdödsfall för de vanligaste substanserna (läkemedel/
-narkotika) som bedömts* som bidragande till dödsfallet, Notera att
+narkotika) som bedömts\* som bidragande till dödsfallet, Notera att
 flera substanser ofta kan ha varit bidragande i samma dödsfall och
 att samma ärende därför kan förekomma på flera rader. Uppgifterna
 för 2022 är preliminära.
@@ -18043,7 +18043,7 @@ Amlodipin       5     4      9    10     18
 Fentanyl       22     31    16    17     17
 ```
 
-* Bedömningen är baserad på uppgifter från dödsorsaksintyg och/eller obduktionsrapport.
+\* Bedömningen är baserad på uppgifter från dödsorsaksintyg och/eller obduktionsrapport.
 Källa: RMV.
 
 390
@@ -19345,7 +19345,7 @@ kontakt med har uppgett att det finns ett behov av bindande regler
 även vad gäller samverkan med skolor och hälso- och sjukvård. Riks-
 dagen har nyligen fattat beslut om ändringar i skollagen (2010:800)
 som syftar till att stärka elevhälsan. Dessa tillämpades från den 2 juli
-2023. Ändringarna innebär bland annat att elevhälsans arbete ska be-
+2023\. Ändringarna innebär bland annat att elevhälsans arbete ska be-
 drivas på individ-, grupp- och skolenhetsnivå och i samverkan med
 
 420
@@ -24816,9 +24816,9 @@ satt, främst från praktiserande yrkesgrupper, som bland annat menade
 att ett narkotikaberoende på detta sätt kom att ersättas av ett annat
 drogberoende.3 Verksamheten utvecklades och tog snart emot patien-
 ter från hela Sverige, men programmet slutade ta emot nya patienter
-1979. Efter en utvärdering av Socialstyrelsen godkändes programmet
+1979\. Efter en utvärdering av Socialstyrelsen godkändes programmet
 som reguljär sjukvård baserad på vetenskap och beprövad erfarenhet
-1981. I införandet av LARO som reguljär hälso- och sjukvård var verk-
+1981\. I införandet av LARO som reguljär hälso- och sjukvård var verk-
 samheten initialt en detaljstyrd behandlingsform. Höga krav ställdes
 på patienten för att få delta i behandlingen, och det fanns ett natio-
 nellt tak som infördes 1983 för antalet personer som fick tillgång till
@@ -27711,10 +27711,10 @@ stärkt stöd till anhöriga till långvarigt eller allvarligt sjuka
 (2001:453), SoL, ska kompletteras med en bestämmelse om att
 ett barns behov av information särskilt ska beaktas om barnets för-
 älder eller någon annan vuxen som barnet bor varaktigt med
-1. har en psykisk störning eller en psykisk funktionsnedsättning,
+1\. har en psykisk störning eller en psykisk funktionsnedsättning,
 eller
 
-2. har ett skadligt bruk eller beroende av alkohol, annat beroende-
+2\. har ett skadligt bruk eller beroende av alkohol, annat beroende-
 framkallande medel eller spel om pengar.
 
 Skäl för bedömningen
@@ -27723,12 +27723,12 @@ Av 5 kap. 7 § HSL framgår att ett barns behov av information, råd
 och stöd särskilt ska beaktas om barnets förälder eller någon annan
 vuxen som barnet bor varaktigt med
 
-1. har en psykisk störning eller en psykisk funktionsnedsättning,
-2. har en allvarlig fysisk sjukdom eller skada
+1\. har en psykisk störning eller en psykisk funktionsnedsättning,
+2\. har en allvarlig fysisk sjukdom eller skada
 
-3. har ett missbruk av alkohol, annat beroendeframkallande medel
+3\. har ett missbruk av alkohol, annat beroendeframkallande medel
 eller spel om pengar, eller
-4. utsätter eller har utsatt barnet eller en närstående till barnet för
+4\. utsätter eller har utsatt barnet eller en närstående till barnet för
 våld eller andra övergrepp.
 
 Detsamma gäller om barnets förälder eller någon annan vuxen som
@@ -28062,18 +28062,18 @@ till detta går att läsa i delbetänkandet. I delbetänkandet beskrev vi fyra
 yrkesgrupper som kan ha behov av att få administrera och överlämna
 naloxon:
 
-1. Personal i verksamheter där personer som använder narkotika bor
+1\. Personal i verksamheter där personer som använder narkotika bor
 en längre tid till exempel Kriminalvården och Statens institutions-
 styrelse (SiS),
-2. Personal i sociala eller behandlande verksamheter som till del eller
+2\. Personal i sociala eller behandlande verksamheter som till del eller
 helt riktar sig till personer som använder narkotika till exempel
 häkte eller socialpsykiatrin,
 
-3. Personal och verksamhet som kan tillkallas av 112 vid eventuell
+3\. Personal och verksamhet som kan tillkallas av 112 vid eventuell
 opioidförgiftning, eller som fungerar som insatspersonal på något
 vis (till exempel polis och väktare),
 
-4. Personal i övriga verksamheter till exempel tågvärdar eller städ-
+4\. Personal i övriga verksamheter till exempel tågvärdar eller städ-
 personal på offentliga platser.
 
 Grupp 1 är högst prioriterat och grupp 4 lägst. Vi bedömde i delbetänk-
@@ -28208,11 +28208,11 @@ strid med Europakonventionen, vilket ger den en författningsmässigt
 starkare ställning än en vanlig lag.
 Artikel 2 EKMR består av två paragrafer och är formulerad enligt
 följande:
-1. Envars rätt till liv skall skyddas genom lag. Ingen skall avsiktligen
+1\. Envars rätt till liv skall skyddas genom lag. Ingen skall avsiktligen
 berövas livet utom för att verkställa domstols dom i det fall då
 han dömts för ett brott som enligt lag är belagt med sådant straff.
 
-2. Ingen skall anses ha berövats livet i strid med denna artikel, när
+2\. Ingen skall anses ha berövats livet i strid med denna artikel, när
 detta är en följd av våld som var absolut nödvändigt
 a) för att försvara någon mot olaglig våldsgärning,
 
@@ -28279,25 +28279,25 @@ Alternativ som har utretts och övervägts
 
 Följande alternativ har övervägts och redogörs för nedan:
 
-1. Om det finns stöd i nuvarande regelverk för läkare och sjuksköter-
+1\. Om det finns stöd i nuvarande regelverk för läkare och sjuksköter-
 skor för att delegera hanteringen av opioidantagonister till icke
 legitimerad personal som till exempel arbetar på härbärge,
-2. Om generella direktiv kan möjliggöra att fler yrkesgrupper utan-
+2\. Om generella direktiv kan möjliggöra att fler yrkesgrupper utan-
 för hälso- och sjukvården kan administrera opioidantagonister,
 
-3. Om det är möjligt att införa undantag i hälso- och sjukvårdslag-
+3\. Om det är möjligt att införa undantag i hälso- och sjukvårdslag-
 stiftningen som möjliggör för hälso- och sjukvårdspersonal att dele-
 gera uppgiften till icke legitimerad personal,
-4. Om opioidantagonister kan hanteras av personal utanför hälso-
+4\. Om opioidantagonister kan hanteras av personal utanför hälso-
 och sjukvården utan särskild reglering. Gränserna för vad som är
 tillåtet anges då i nödrätts- och övriga straffrättsliga bestämmelser,
 
-5. Om det är möjligt att reglera hanteringen i lagstiftning för respek-
+5\. Om det är möjligt att reglera hanteringen i lagstiftning för respek-
 tive verksamhetsområde, såsom SoL,
-6. Om det är möjligt och i så fall tillräckligt att läkemedlet erbjuds
+6\. Om det är möjligt och i så fall tillräckligt att läkemedlet erbjuds
 
 receptfritt,
-7. Om det är möjligt och i så fall tillräckligt att staten bekostar ett
+7\. Om det är möjligt och i så fall tillräckligt att staten bekostar ett
 omfattande naloxonprogram inom hälso- och sjukvården.
 
 Om det finns stöd i nuvarande regelverk för läkare och sjuksköterskor
@@ -28585,10 +28585,10 @@ Myndigheten ansåg att dessa villkor inte är möjliga att bortse ifrån
 vid en omklassificering. För att naloxon ska kunna godkännas som
 ett receptfritt läkemedel behöver
 
-1. läkemedelsföretagen ansöka om receptfrihet för naloxon nässprej,
-2. ytterligare effekt- och säkerhetsstudier genomföras, och
+1\. läkemedelsföretagen ansöka om receptfrihet för naloxon nässprej,
+2\. ytterligare effekt- och säkerhetsstudier genomföras, och
 
-3. en ordning tas fram för hur utbildning i användandet av naloxon
+3\. en ordning tas fram för hur utbildning i användandet av naloxon
 ska ske på ett tillfredsställande sätt även om man köper nässprejen
 receptfritt på apoteket.
 
@@ -29444,10 +29444,10 @@ mer får meddela ytterligare föreskrifter om rekvisition, förvaring,
 anmälningsskyldighetens fullgörande och tillsyn.
 Regeringen eller den myndighet som regeringen bestämmer, får
 meddela föreskrifter om
-1. vilka läkemedel som verkar som opioidantagonister som ska om-
+1\. vilka läkemedel som verkar som opioidantagonister som ska om-
 fattas av lagen, och
 
-2. innehållet i och omfattningen av sådan utbildning som avses i
+2\. innehållet i och omfattningen av sådan utbildning som avses i
 10 § samt kraven för godkännande av deltagare.
 
 Skäl för förslaget
@@ -31520,7 +31520,7 @@ brott för att se om utvecklingen följder den för andra mängdbrott.
 Under 2022 anmäldes cirka 84 000 misshandelsbrott i Sverige.
 Under den senaste tioårsperioden har antalet anmälda misshandels-
 brott legat mellan 80 374 och 88 576, och den lägsta nivån uppmättes
-2013. År 2022 ökade antalet anmälda misshandelsbrott med 5 procent
+2013\. År 2022 ökade antalet anmälda misshandelsbrott med 5 procent
 (+3 637 brott) jämfört med 2013.
 När det gäller trafikbrott anmäldes 69 000 brott år 2022. Olovlig
 körning är det vanligaste trafikbrottet, och antalet anmälda fall av olov-
@@ -32297,7 +32297,7 @@ nes säkerhet och personens behov av åtgärder mot kriminalitet och
 skadligt bruk eller beroende.46
 
 En verkställighetsplan ska enligt 6 § fängelseförordningen (2010:
-2010) grundas på en utredning om personens behov av stöd och kon-
+2010\) grundas på en utredning om personens behov av stöd och kon-
 troll och om vilka åtgärder som bör vidtas under verkställigheten för
 att minska risken för återfall i brott. Förutsättningarna för att bevilja
 personen tillstånd för en sådan utslussningsåtgärd som avses i 11 kap.
@@ -32992,7 +32992,7 @@ stanser som stanser som rätts- modulen, skillnad
 påvisats i blod läkaren bedömt Socialstyrelsen kolumn C
 vid rätts-toxiko- bidragit till för- (enbart för DOI jämfört med B
 logisk under- giftningsdödsfallet från RMV)
-sökning (RMV) (RMV)*
+sökning (RMV) (RMV)\*
 
 ```osaker-tabell
 Oxikodon  127       85        94      11 %
@@ -33006,7 +33006,7 @@ Propiomazin 156     56        61      9 %
 Amfetamin 131       51        83      63 %
 ```
 
-* Enligt manuell genomgång där även information från obduktionsrapporter kan beaktas.
+\* Enligt manuell genomgång där även information från obduktionsrapporter kan beaktas.
 Källa: Rättsmedicinalverket och Socialstyrelsen. (Rapporten: Dödsfall till följd av läkemedels- och
 narkotikaförgiftningar. En statistiksammanställning [2022], sidan 47).
 4 Jämförelsen här avser enbart DOI som kommer från RMV, en liten del av dödsorsaksintygen
@@ -36510,7 +36510,7 @@ tuella årliga förändringar utan handlar i hög grad också om aktualitet,
 med de ledtider det innebär att bland annat färdigställa register,
 beställa och leverera data. För de första skattningar som nu tas fram
 av Folkhälsomyndigheten kommer de senaste uppgifterna att avse
-2020. Med uppdatering vart annat år skulle detta vara den senaste
+2020\. Med uppdatering vart annat år skulle detta vara den senaste
 siffran fram till 2025 och alltså avse förhållandet fem år tidigare.
 Om en modell kräver omfattande resurser för att beställa och leve-
 rera data från olika källor skulle det kunna tala emot att kontinuerligt
@@ -38787,7 +38787,7 @@ bär att drygt 170 liv skulle sparas under ett år.
 I vår kalkyl över kostnad per räddat liv har vi utgått från 20 pro-
 cents lägre dödlighet som ett huvudscenario men även lagt in andra
 effektnivåer, från 2 till 30 procents minskning jämfört med nivån
-2022. I beräkningarna har vi antagit att effekten växer successivt, för
+2022\. I beräkningarna har vi antagit att effekten växer successivt, för
 vårt huvudalternativ innebär det 1 procent år ett, 5 procent år två,
 10 procent år 3, 15 procent år fyra och 20 procent år 5 och framåt.7
 De kostnader som avses är de som i övrigt presenteras i detta kapitel
@@ -38837,13 +38837,13 @@ Tabell 28.3 Kostnad per sparat liv
 
 Miljoner kronor
 Totalt År 6 & Totalt
-År 1 År 2 År 3 År 4 År 5 år 1–5* framåt år 1–10*
+År 1 År 2 År 3 År 4 År 5 år 1–5\* framåt år 1–10\*
 30 % effekt 42,6 8,5 4,1 1,0 0,5 3,0 0,3 1,2
 20 % effekt 64,0 12,8 6,1 1,5 0,7 4,4 0,4 1,8
 10 % effekt 127,9 25,6 12,3 3,1 1,4 8,9 0,8 3,5
 5 % effekt 255,8 51,3 24,6 6,1 2,8 17,8 1,6 7,0
 2 % effekt 639,5 128,1 61,5 15,3 6,9 44,4 3,9 17,6
-* Här har kostnaden för hela perioden dividerats med antalet sparade liv för hela perioden.
+\* Här har kostnaden för hela perioden dividerats med antalet sparade liv för hela perioden.
 
 I kalkylen som redovisas i tabell 28.3 ses att redan efter en femårs-
 
@@ -38886,7 +38886,7 @@ vid samhällsekonomisk analys inom transportsektorn. Trafikverkets
 senaste uppdaterade VSL är 44 miljoner kronor. Värdet är angivet i
 2017 års prisnivå och ska enligt rekommendationen räknas upp med
 konsumentprisindex, vilket ger ett värde på 51 miljoner kronor för
-2022. Trafikverkets VSL, som alltså bygger på studier av befolk-
+2022\. Trafikverkets VSL, som alltså bygger på studier av befolk-
 ningens betalningsvilja, ligger högre än ett motsvarande värde som
 härletts utifrån Tandvårds- och läkemedelsförmånsverkets (TLV:s)
 beslut om huruvida nya läkemedel ska ingå i en allmän subventioner-
@@ -38910,7 +38910,7 @@ Miljoner kronor
 55
 50
 45                                 VSL-värde
-(Trafikverket)*
+(Trafikverket)\*
 40
 VSL-värde-lågt
 35
@@ -38925,7 +38925,7 @@ VSL-värde-lågt
 0
 År 1 År 2 År 3 År 4 År 5 År 6 Och så
 vidare …
-* Uppräknat till 2022 års priser enligt KPI.
+\* Uppräknat till 2022 års priser enligt KPI.
 Vid TLV:s analyser mäts effekten i förändring av kvalitetsjusterade
 levnadsår (QALY) i stället för sparade liv. Kostnaden per QALY
 varierar i TLV:s beslut, och det finns inget officiellt fastställt gräns-
@@ -40847,11 +40847,11 @@ intyg (RMV & Social-
 styrelsen)    1                  1
 Fördjupad analys död-
 lighet och standard-
-rapport* (Social-
+rapport\* (Social-
 styrelsen, RMV &
 Folkhälsomyndigheten) 1 1 1      3
 Summa         7  6,5 3,5 0,5 0,5 18      0,5
-* Bör kombineras med uppdrag om att följa upp dödlighetsprogrammet.
+\* Bör kombineras med uppdrag om att följa upp dödlighetsprogrammet.
 903
 
 <!-- sida 926 -->
@@ -41269,7 +41269,7 @@ Summa         550 551 528,5 198 119 1946,5 67
 Förslag: Förslaget om en ny lag (2000:00) om hantering av opioid-
 antagonister utanför hälso- och sjukvården samt ändring i lagen
 (2009:366) om handel av läkemedel föreslås träda i kraft 1 januari
-2025.
+2025\.
 Övriga författningsändringar föreslås träda i kraft den 1 janu-
 ari 2026.
 
@@ -41618,9 +41618,9 @@ hörig att rekvirera läkemedel.
 
 16 § Ett öppenvårdsapotek får neka behörig beställare helt eller delvis
 expediering av det antalet doser som framgår av rekvisitionen om
-1. mängden är oskälig i förhållande till kraven i 12 §,
-2. det finns risk för att det uppstår en brist på läkemedlet eller,
-3. det finns andra särskilda skäl.
+1\. mängden är oskälig i förhållande till kraven i 12 §,
+2\. det finns risk för att det uppstår en brist på läkemedlet eller,
+3\. det finns andra särskilda skäl.
 Förslaget behandlas i avsnitt 20.11.
 Paragrafen anger när ett öppenvårdsapotek får neka det beställda
 antalet doser. Ett öppenvårdsapotek får neka om det beställda an-
@@ -41652,10 +41652,10 @@ avseende allvarliga brister från en myndighet.
 Förvaring
 
 17 § Läkemedel enligt denna lag ska förvars
-1. i lämpliga och låsta skåp eller fack,
-2. på ett sådant sätt att endast den hanteringsansvarige eller någon som
+1\. i lämpliga och låsta skåp eller fack,
+2\. på ett sådant sätt att endast den hanteringsansvarige eller någon som
 denne delegerat uppgiften till har tillgång till läkemedlet, och
-3. i originalförpackningarna.
+3\. i originalförpackningarna.
 Förslaget behandlas i avsnitt 20.5. Paragrafen anger hur förvaring av
 läkemedel enligt lagen ska ske.
 
@@ -41827,9 +41827,9 @@ lagen. Se kommentaren till 28 § angående vad uppgifterna i registret
 får användas till.
 
 26 § Anmälan ska innehålla uppgifter om
-1. namn på verksamheten,
-2. var verksamheten ska bedrivas, och
-3. vem som är hanteringsansvarig.
+1\. namn på verksamheten,
+2\. var verksamheten ska bedrivas, och
+3\. vem som är hanteringsansvarig.
 Vidare ska anmälaren ge in underlag som stöder att verksamheten upp-
 fyller kriterierna i 3 § och dokumentation på genomgången utbildning en-
 ligt 10 § samt en uppskattning av det förväntade årliga behovet av doser.
@@ -41913,10 +41913,10 @@ sluta ytterligare föreskrifter om
 
 Författningskommentarer                    SOU 2023:62
 
-1. rekvisition,
-2. förvaring,
-3. hur anmälningsskyldigheten i 25–27 §§ ska fullgöras, och
-4. Läkemedelsverkets tillsynsansvar.
+1\. rekvisition,
+2\. förvaring,
+3\. hur anmälningsskyldigheten i 25–27 §§ ska fullgöras, och
+4\. Läkemedelsverkets tillsynsansvar.
 
 Förslaget behandlas i avsnitt 20.13.
 Paragrafen innehåller ett bemyndigande för regeringen, eller den
@@ -41927,9 +41927,9 @@ Läkemedelsverkets tillsynsansvar.
 
 32 § Regeringen, eller den myndighet som regeringen bestämmer, får med-
 dela föreskrifter om
-1. vilka läkemedel som verkar som opioidantagonister som ska omfattas
+1\. vilka läkemedel som verkar som opioidantagonister som ska omfattas
 av lagen, och
-2. innehållet i och omfattningen av sådan utbildning som avses i 10 § samt
+2\. innehållet i och omfattningen av sådan utbildning som avses i 10 § samt
 kraven för godkännande av deltagare.
 Förslaget behandlas i avsnitt 20.13.
 Paragrafen innehåller ett bemyndigande för regeringen, eller den
@@ -41994,11 +41994,11 @@ Planen ska när det är möjligt upprättas tillsammans med den enskilde.
 Närstående ska ges möjlighet att delta i arbetet med planen, om det är
 lämpligt och den enskilde inte motsätter sig det.
 Av planen ska det framgå
-1. vilka insatser som behövs,
-2. vilka insatser respektive huvudman ska svara för,
-3. vilka åtgärder som vidtas av någon annan än kommunen eller regionen,
+1\. vilka insatser som behövs,
+2\. vilka insatser respektive huvudman ska svara för,
+3\. vilka åtgärder som vidtas av någon annan än kommunen eller regionen,
 och
-4. vem av huvudmännen som ska ha det övergripande ansvaret för planen.
+4\. vem av huvudmännen som ska ha det övergripande ansvaret för planen.
 
 929
 
@@ -42154,11 +42154,11 @@ Planen ska, när det är möjligt, upprättas tillsammans med den enskilde.
 Närstående ska ges möjlighet att delta i arbetet med planen, om det är
 lämpligt och den enskilde inte motsätter sig det.
 Av planen ska det framgå
-1. vilka insatser som behövs,
-2. vilka insatser som respektive huvudman ska svara för,
-3. vilka åtgärder som vidtas av någon annan än regionen eller kommunen,
+1\. vilka insatser som behövs,
+2\. vilka insatser som respektive huvudman ska svara för,
+3\. vilka åtgärder som vidtas av någon annan än regionen eller kommunen,
 och
-4. vem av huvudmännen som ska ha det övergripande ansvaret för planen.
+4\. vem av huvudmännen som ska ha det övergripande ansvaret för planen.
 Förslaget behandlas i avsnitt 22.3.2.
 Ändringen innebär ett nytt andra stycke som anger att en indivi-
 duell plan ska upprättas även när Statens institutionsstyrelse bedömer
@@ -42302,11 +42302,11 @@ om den enskilde samtycker till det. Behövs insatser av både region och kom-
 mun ska båda delta i samordnad verkställighetsplanering. Kriminalvården
 ansvarar för upprättandet av en plan vid samordnad verkställighetsplanering.
 Av en samordnad verkställighetsplan ska framgå
-1. vilka insatser som behövs
-2. vilka insatser som respektive huvudman ska svara för
-3. vilka insatser som ska vidtas av någon annan än Kriminalvården, regio-
+1\. vilka insatser som behövs
+2\. vilka insatser som respektive huvudman ska svara för
+3\. vilka insatser som ska vidtas av någon annan än Kriminalvården, regio-
 nen eller kommunen, och
-4. vem eller vilka som ska ta över ansvaret för insatser efter att verkställig-
+4\. vem eller vilka som ska ta över ansvaret för insatser efter att verkställig-
 heten avslutas.
 Insatserna i en verkställighetsplan kan avse insatser under tiden någon av-
 tjänar sitt straff på anstalt, under villkorlig frigivning och efter verkställighets-
@@ -42999,7 +42999,7 @@ förebyggande ANDTS-arbete på lokal och regional nivå.
 
 Folkhälsomyndigheten (2022). Hälsa på lika villkor.
 Folkhälsomyndigheten (2022). Länsstyrelsernas ANDTS-arbete
-2021. En återredovisning av länsstyrelsernas arbete med ANDTS-
+2021\. En återredovisning av länsstyrelsernas arbete med ANDTS-
 samordning samt alkohol- och tobakstillsyn.
 Folkhälsomyndigheten (2022). Synen på psykisk ohälsa och suicid
 En befolkningsundersökning om kunskaper och attityder.
@@ -43787,7 +43787,7 @@ Sundin E., Landberg .J, Ramstedt M., CAN (2018). Negativa
 
 konsekvenser av alkohol, narkotika och tobak – en studie med
 fokus på beroende och problem från andras konsumtion i Sverige
-2017.
+2017\.
 Sundquist J., Ohlsson H., Sundquist K., Kendler K. S. (2014).
 Attention-deficit/hyperactivity disorder and risk for drug use
 
@@ -43960,7 +43960,7 @@ https://psy.au.dk/en/research/research-centres-and-
 units/centre-for-alcohol-and-drug-research.
 Controlled Drugs and Substances Act, stycke 56.1 och 56.1(1).
 https://laws-lois.justice.gc.ca/eng/acts/c-38.8/page-7.html#h-
-95171.
+95171\.
 Dagens Nyheter. https://www.dn.se/sverige/kritik-mot-nya-
 narkotikautredningen-fel-sak-att-gora.
 
@@ -44137,7 +44137,7 @@ Uppdrag Psykisk Hälsa. https://www.uppdragpsykiskhalsa.se/wp-
 content/uploads/2022/12/SPOT-Specialistpsykiatriskt-
 Omvardnadsteam-Solleftea-Kramfors.pdf.
 World Health Organization. https://www.who.int/.
-1177. https://www.1177.se.
+1177\. https://www.1177.se.
 
 Andra underlag
 
@@ -44290,7 +44290,7 @@ verkas av polisens och tullens spanings- och ingripandeverksamhet.
 Bilaga 1                                   SOU 2023:62
 
 Runt 124 000 brott mot narkotikastrafflagen (1968:64) anmäldes under
-2020. De flesta av dessa avsåg eget bruk och innehav av narkotika.
+2020\. De flesta av dessa avsåg eget bruk och innehav av narkotika.
 
 Enligt uppgifter från Socialstyrelsens patientregister, Statens
 institutionsstyrelses utvärderings- och dokumentationssystem (DOK)
@@ -45307,115 +45307,115 @@ Statens offentliga utredningar  2023
 
 Kronologisk förteckning
 
-1. Skärpta straff för flerfaldig brottslig- 17. En tydligare bestämmelse om hets
+1\. Skärpta straff för flerfaldig brottslig- 17. En tydligare bestämmelse om hets
 het. Ju.               mot folkgrupp. Ju.
-2. En inre marknad för digitala tjänster 18. Värdet av vinden. Kompensation,
+2\. En inre marknad för digitala tjänster 18. Värdet av vinden. Kompensation,
 – ansvarsfördelning mellan myndig- incitament och planering för
 heter. Fi.             en hållbar fortsatt utbyggnad av
-3. Nya regler om nödlidande kreditavtal vindkraften. Del 1 och 2. KN.
+3\. Nya regler om nödlidande kreditavtal vindkraften. Del 1 och 2. KN.
 och inkassoverksamhet. Ju. 19. Statlig forskningsfinansiering.
-4. Posttjänst för hela slanten. Underlagsrapporter. U.
+4\. Posttjänst för hela slanten. Underlagsrapporter. U.
 Finansieringsmodeller för framtidens 20. Förbud mot bottentrålning i marina
 samhällsomfattande posttjänst. Fi. skyddade områden. LI.
-5. Från delar till helhet. Tvångsvården 21. Informationsförsörjning på
+5\. Från delar till helhet. Tvångsvården 21. Informationsförsörjning på
 som en del av en sammanhållen och skolområdet. Skolverkets ansvar. U.
 personcentrerad vårdkedja. S. 22. Datalagring och åtkomst till
-6. En lag om tilläggsskatt för företag elektronisk information. Ju.
+6\. En lag om tilläggsskatt för företag elektronisk information. Ju.
 i stora koncerner. Fi. 23. Ett modernare socialförsäkringsskydd
-7. På egna ben.         för gravida. S.
+7\. På egna ben.         för gravida. S.
 Utvecklad samverkan för individers 24. Etablering för fler – jämställda möjlig-
 etablering på arbetsmarknaden. A. heter till integration. A.
-8. Arbetslivskriminalitet – arbetet 25. Kunskapskrav för permanent uppe-
+8\. Arbetslivskriminalitet – arbetet 25. Kunskapskrav för permanent uppe-
 i Sverige, en bedömning av omfatt- hållstillstånd. Ju.
 ningen, lärdomar från Danmark och
-26. Översyn av entreprenörsansvaret. A.
+26\. Översyn av entreprenörsansvaret. A.
 Finland. A.
-27. Kamerabevakning för ett bättre djur-
-9. Ett statligt huvudmannaskap
+27\. Kamerabevakning för ett bättre djur-
+9\. Ett statligt huvudmannaskap
 skydd. LI.
 för personlig assistans.
 Ökad likvärdighet, långsiktighet 28. Samhället mot skolattacker. U.
 och kvalitet. S.     29. Varje rörelse räknas – hur skapar
-10. Tandvårdens stöd till våldsutsatta vi ett samhälle som främjar fysisk
+10\. Tandvårdens stöd till våldsutsatta vi ett samhälle som främjar fysisk
 patienter. S.          aktivitet? S.
-11. Tillfälligt miljötillstånd för 30. Ett trygghetssystem för alla. Nytt
+11\. Tillfälligt miljötillstånd för 30. Ett trygghetssystem för alla. Nytt
 samhällsviktig verksamhet regelverk för sjukpenninggrundande
 – för ökad försörjningsberedskap. KN. inkomst. S.
-12. Förstärkt skydd för demokratin 31. Framtidens yrkeshögskola
+12\. Förstärkt skydd för demokratin 31. Framtidens yrkeshögskola
 och domstolarnas oberoende. Ju. – stabil, effektiv och hållbar. U.
-13. Patientöversikter inom EES och 32. Biometri – för en effektivare
+13\. Patientöversikter inom EES och 32. Biometri – för en effektivare
 Sverige. S.            brottsbekämpning. Ju.
-14. Organisera för hållbar utveckling. 33. Ett förbättrat resegarantisystem. Fi.
+14\. Organisera för hållbar utveckling. 33. Ett förbättrat resegarantisystem. Fi.
 KN.                  34. Bolag och brott – några åtgärder
-15. Förnybart i tanken. Ett styrmedels- mot oseriösa företag. Ju.
+15\. Förnybart i tanken. Ett styrmedels- mot oseriösa företag. Ju.
 förslag för en stärkt bioekonomi. LI. 35. Nya regler om hållbarhetsredovisning.
-16. Staten och betalningarna. Ju.
+16\. Staten och betalningarna. Ju.
 Del 1 och 2. Fi.     36. Genomförande av minimilöne-
 direktivet. A.
 
 <!-- sida 1025 -->
 
-37. Förstärkt skydd för den personliga 54. Centraliseringen av administrativa
+37\. Förstärkt skydd för den personliga 54. Centraliseringen av administrativa
 integriteten. Behovet av åtgärder mot tjänster till Statens servicecenter
 oskuldskontroller, oskuldsintyg och – en utvärdering. Fi.
 oskuldsingrepp samt omvändelseför- 55. Vem äger fastigheten. Ju.
 sök. Ju.
-56. Några smittskyddsfrågor inom social-
-38. Ett förstärkt konsumentskydd tjänsten och socialförsäkringen. S.
+56\. Några smittskyddsfrågor inom social-
+38\. Ett förstärkt konsumentskydd tjänsten och socialförsäkringen. S.
 mot riskfylld kreditgivning
-57. Åtgärder för tryggare
+57\. Åtgärder för tryggare
 och överskuldsättning. Fi.
 bostadsområden. Ju.
-39. En inre marknad för digitala tjänster
-58. Kultursamhället – utvecklad sam-
+39\. En inre marknad för digitala tjänster
+58\. Kultursamhället – utvecklad sam-
 – kompletteringar och ändringar i
 verkan mellan stat, region och
 svensk rätt. Fi.
 kommun. Ku.
-40. Förbättrade möjligheter för barn att
-59. Ny myndighetsstruktur för
+40\. Förbättrade möjligheter för barn att
+59\. Ny myndighetsstruktur för
 utkräva sina rättigheter enligt barn-
 finansiering av forskning och
 konventionen. S.
 innovation. U.
-41. Förutsättningarna för en ny kollektiv-
-60. Utökade möjligheter att använda
+41\. Förutsättningarna för en ny kollektiv-
+60\. Utökade möjligheter att använda
 avtalad arbetslöshetsförsäkring. A.
 preventiva tvångsmedel 2. Ju.
-42. Ett modernare regelverk för legalise-
-61. En säker och tillgänglig
+42\. Ett modernare regelverk för legalise-
+61\. En säker och tillgänglig
 ringar, apostille och andra former av
 statlig e-legitimation. Fi.
 intyganden. UD.
-62. Vi kan bättre!
-43. En samordnad registerkontroll
+62\. Vi kan bättre!
+43\. En samordnad registerkontroll
 Kunskapsbaserad narkotikapolitik
 för upphandlande myndigheter
 med liv och hälsa i fokus. S.
 och enheter. Fi.
-44. En översyn av regleringen om frihets-
+44\. En översyn av regleringen om frihets-
 berövande påföljder för unga. Ju.
-45. Övergångsrestriktioner
+45\. Övergångsrestriktioner
 – ökat förtroende för offentlig verk-
 samhet. Fi.
-46. Jakt och fiske i renbetesland. LI.
-47. En utvecklad arbetsgivardeklaration
+46\. Jakt och fiske i renbetesland. LI.
+47\. En utvecklad arbetsgivardeklaration
 – åtgärder mot missbruk av
 välfärdssystemen. Fi.
-48. Rätt förutsättningar för sjukskriv-
+48\. Rätt förutsättningar för sjukskriv-
 ning. S.
-49. Skyddet för EU:s finansiella intressen.
+49\. Skyddet för EU:s finansiella intressen.
 Ändringar och kompletteringar i svensk
 rätt. Fi.
-50. En modell för svensk försörjnings-
+50\. En modell för svensk försörjnings-
 beredskap. Fö.
-51. Signalspaning i försvars-
+51\. Signalspaning i försvars-
 underrättelseverksamhet
 – frågor med anledning
 av Europadomstolens dom. Fö.
-52. Ett stärkt och samlat skydd
+52\. Ett stärkt och samlat skydd
 av välfärdssystemen. S.
-53. En ändamålsenlig arbetsskadeförsäk-
+53\. En ändamålsenlig arbetsskadeförsäk-
 ring – för bättre ekonomisk trygghet,
 kunskap och rättssäkerhet. Volym 1
 och 2. S.
@@ -46016,7 +46016,7 @@ collaboration and more resources, enjoy a more favourable develop-
 
 ment. However, our own analysis shows that the scope of the ANDT
 prevention work decreased by one-tenth during the period 2016–
-2021. This applies to both structural conditions and activities.
+2021\. This applies to both structural conditions and activities.
 It is estimated that the societal costs of drug-related problems in
 Sweden are about 100 times greater than what society has chosen to
 spend on drug prevention work so far.
@@ -46839,7 +46839,7 @@ Från:           kommun@kungsbacka.se
 Skickat:        den 30 januari 2024 13:14
 Till:           Individ & Familjeomsorg; Kultur & Fritid
 Ämne:           Begäran om yttrande - Betänkande från Narkotikautredningen (KS 2024-
-00081)
+00081\)
 Bifogade filer: Begäran om yttrande - Nämnden för Individ & Familjeomsorg, nämnden för
 Kultur & Fritid.pdf; (Statens offentliga utredningar) Betänkandet Vi kan bättre,
 engelsk sammanfattning.pdf; (Statens offentliga utredningar)
@@ -46864,7 +46864,7 @@ remisser-och-skriva-fram-yttranden
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\______________________
 
 Kungsbacka kommun
 Kommunledningskontoret
@@ -46964,7 +46964,7 @@ Personuppgiftsincidenter
 
 Under året har 11 incidenter rapporterats, som kommit till min kännedom. En av dessa har anmälts
 till IMY. Det är fler eller i nivå än tidigare år då det rapporterades 4 incidenter år 2021 och 10 år
-2022.
+2022\.
 
 Frågor från verksamheten
 Under året har jag kontaktats vid ett tiotal tillfällen med frågor från verksamheten, utöver den
@@ -47089,16 +47089,16 @@ eller i lag och som tävlar i en Kungsbackaförening. Priset har sin bakgrund i 
 tenntallrik som instiftades redan 1975 och delas årligen ut av kommunfullmäktige.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i Kungsbackaförening b.
+1\. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i Kungsbackaförening b.
 bosatt i Kungsbacka kommun, men tävlande för förening utanför Kungsbacka och har som enskild
 eller genom lag erövrat ett svenskt mästerskap eller nått en ännu större framgång.
-2. Priset utdelas endast en gång till en och samma person.
+2\. Priset utdelas endast en gång till en och samma person.
 
-3. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till
+3\. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till
 priset.
 
-4. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
-5. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
+4\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
+5\. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
 nämnden för Kultur & Fritids ordförande samt kommunfullmäktiges ordförande.
 
 Beslutsunderlag
@@ -47142,27 +47142,27 @@ lag och som tävlar i en Kungsbackaförening. Priset har sin bakgrund i priset K
 instiftades redan 1975 och delas årligen ut av kommunfullmäktige.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Kungsbackas mästare är antingen:
+1\. Berättigad att erhålla priset Kungsbackas mästare är antingen:
 a. medlem i Kungsbackaförening
 b. bosatt i Kungsbacka kommun, men tävlande för förening utanför Kungsbacka
 och har som enskild eller genom lag erövrat ett svenskt mästerskap eller nått en ännu större framgång.
-2. Priset utdelas endast en gång till en och samma person.
-3. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till priset.
-4. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
-5. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
+2\. Priset utdelas endast en gång till en och samma person.
+3\. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till priset.
+4\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
+5\. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
 nämnden för Kultur & Fritids ordförande samt kommunfullmäktiges ordförande.
 
 Bedömningsvillkor
 Med mästerskap eller större framgång räknas:
 
-- Officiellt Mästerskap för till Riksidrottsförbundet (RF) anslutna organisationer sanktionerade av RF
-- Svensk Skolmästare
-- Svensk Juniormästare
-- Svensk Mästare
-- Nordisk Mästare
-- Europamästare
-- Världsmästare
-- OS mästare
+\- Officiellt Mästerskap för till Riksidrottsförbundet (RF) anslutna organisationer sanktionerade av RF
+\- Svensk Skolmästare
+\- Svensk Juniormästare
+\- Svensk Mästare
+\- Nordisk Mästare
+\- Europamästare
+\- Världsmästare
+\- OS mästare
 
 Med vinst som avser innevarande år
 
@@ -47212,10 +47212,10 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att
 
--  utse X som Årets eldsjäl 2022.
--  offentliggöra pristagaren vid prisceremonin.
+\-  utse X som Årets eldsjäl 2022.
+\-  offentliggöra pristagaren vid prisceremonin.
 
--  Nominera X, X och X som finalister.
+\-  Nominera X, X och X som finalister.
 
 Sammanfattning av ärendet
 
@@ -47224,11 +47224,11 @@ kraft som verkar inom något av nämndens ansvarsområde.
 
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka kommun. b. medlem i
+1\. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka kommun. b. medlem i
 Kungsbackaförening
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -47274,12 +47274,12 @@ Med priset Årets eldsjäl vill nämnden för Kultur & Fritid uppmärksamma bety
 som verkar inom något av nämndens ansvarsområde.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets eldsjäl är antingen:
+1\. Berättigad att erhålla priset Årets eldsjäl är antingen:
 a. bosatt i Kungsbacka kommun.
 
 b. medlem i Kungsbackaförening
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
 & Fritids ordförande.
 
 Bedömningsvillkor
@@ -47329,10 +47329,10 @@ KFT-2024-00068
 Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att
--  utse X som Årets förening 2023.
+\-  utse X som Årets förening 2023.
 
--  offentliggöra pristagare vid prisceremonin.
--  nominera X, X och X till finalister.
+\-  offentliggöra pristagare vid prisceremonin.
+\-  nominera X, X och X till finalister.
 
 Sammanfattning av ärendet
 Bakgrund
@@ -47341,11 +47341,11 @@ Med priset Årets förening vill nämnden för Kultur & Fritid uppmärksamma och
 Kungsbacka kommun som på ett framgångsrikt sätt bedriver sin verksamhet.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av nämnden för
+1\. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av nämnden för
 Kultur & Fritids ansvarsområden. b. med anknytning till Kungsbacka kommun.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -47394,11 +47394,11 @@ Med priset Årets förening vill nämnden för Kultur & Fritid uppmärksamma och
 Kungsbacka kommun som på ett framgångsrikt sätt bedriver sin verksamhet.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets förening är:
+1\. Berättigad att erhålla priset Årets förening är:
 a. Förening verksam inom något av nämnden för Kultur & Fritids ansvarsområden.
 b. med anknytning till Kungsbacka kommun.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
 
 & Fritids ordförande.
 
@@ -47452,10 +47452,10 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att
 
--  utse X som Årets förnyare 2022.
--  offentliggöra pristagaren vid prisceremonin.
+\-  utse X som Årets förnyare 2022.
+\-  offentliggöra pristagaren vid prisceremonin.
 
--  Nominera X, X och X som finalister.
+\-  Nominera X, X och X som finalister.
 
 Sammanfattning av ärendet
 
@@ -47463,11 +47463,11 @@ Med priset Årets förnyare vill nämnden för Kultur & Fritid uppmärksamma mod
 utvecklingsarbete hos aktörer som verkar inom något av nämndens ansvarsområden.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
+1\. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
 Kungsbacka kommun som är verksam inom något av nämnden för Kultur & Fritids ansvarsområden
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 Bedömningsvillkor
 
@@ -47516,10 +47516,10 @@ utvecklingsarbete hos aktörer som verkar inom något av nämndens ansvarsområd
 
 Allmänna bestämmelser
 
-1.  Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
+1\.  Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
 Kungsbacka kommun som är verksam inom något av nämnden för Kultur & Fritids ansvarsområden
-2.  Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3.  Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+2\.  Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\.  Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -47573,10 +47573,10 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att:
 
--  utse X som årets kulturpristagare.
--  offentliggöra pristagaren vid prisceremonin.
+\-  utse X som årets kulturpristagare.
+\-  offentliggöra pristagaren vid prisceremonin.
 
--  nominera X, X och X till finalister.
+\-  nominera X, X och X till finalister.
 
 Sammanfattning av ärendet
 
@@ -47620,14 +47620,14 @@ s i L CJ j Xx AA
 
 H id Vr VV / j
 
-$ 17 - AH 7” i / / 2
+\$ 17 - AH 7” i / / 2
 
 Korrigering i bestämmelse för Kungsbacka kommuns
 kulturpris
 
 Beslut
 
-Ändra formuleringen i bestämmelserna $ 9 att sista ansökningsdag ska vara
+Ändra formuleringen i bestämmelserna \$ 9 att sista ansökningsdag ska vara
 ”nämnden tillhanda senast 1 mars”.
 
 Nämnden godkänner den begränsade revideringen av bestämmelserna, som
@@ -47639,12 +47639,12 @@ Senaste uppdatering av bestämmelserna för Kungsbacka kommuns kulturpris är fr
 2001-03-27.
 
 Förutsättningarna för kulturpriset framstår som tydliga. Prissumman förändrades av
-nämnden för 2008 års pristagare till 10 tkr i stället för tidigare 6 tkr. Ordalydelsen i $
+nämnden för 2008 års pristagare till 10 tkr i stället för tidigare 6 tkr. Ordalydelsen i \$
 4 upplevs som korrekt, då ett pris kan utdelas till fler än en person och beloppet 5 tkr
 som lägsta belopp kan fortfara att gälla vid flera pris.
 
 Under senare år har det mer och mer framstått att datumet 1 februari för sista dag för
-inlämnande av förslag enligt $ 5 i stadgarna är lite för tidigt satt på året. För att på
+inlämnande av förslag enligt \$ 5 i stadgarna är lite för tidigt satt på året. För att på
 bästa sätt hinna informera och marknadsföra priset bör ett något senare datum för
 sista förslagsdag bli gällande.
 
@@ -47660,7 +47660,7 @@ Förvaltningschef Elisabeth Lax redogör för ärendet.
 Förslag till beslut
 
 Nämnden för Kultur & Turism föreslås besluta att ändra formuleringen i
-bestämmelsernas $ 5 innebärande att sista inlämningsdag av förslag till kommunens
+bestämmelsernas \$ 5 innebärande att sista inlämningsdag av förslag till kommunens
 kulturpris ska vara den 1 mars.
 
 Justerare, ) | Expedierat/bestyrkt
@@ -47680,8 +47680,8 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att:
 
--  X tilldelas ledarstipendiet 2024.
--  ledarstipendiaten offentliggörs vid prisceremonin.
+\-  X tilldelas ledarstipendiet 2024.
+\-  ledarstipendiaten offentliggörs vid prisceremonin.
 
 Sammanfattning av ärendet
 
@@ -47692,14 +47692,14 @@ som är en viktig person i aktuell förening.
 Allmänna bestämmelser
 
 Berättigad att erhålla stipendiet är:
-1. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i
+1\. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i
 nämnden för Kultur & Fritids föreningsregister.
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
-3. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
+3\. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna
 organisationens verksamhet.
 
-4. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni. Bedömningsvillkor
+4\. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni. Bedömningsvillkor
 Mottagare av stipendiet är en ungdomsledare inom det lokala föreningslivet, som på ett förtjänstfullt
 sätt medverkar till att skapa en meningsfull fritidssysselsättning för ungdomar i kommunen.
 
@@ -47745,12 +47745,12 @@ Stipendiet uppmärksammar ideella ledare som aktivt arbetar med ideella uppdrag 
 
 Allmänna bestämmelser
 Berättigad att erhålla stipendiet är:
-1. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i nämnden
+1\. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i nämnden
 för Kultur & Fritids föreningsregister.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
-3. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna organisationens
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
+3\. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna organisationens
 verksamhet.
-4. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
+4\. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
 
 Bedömningsvillkor
 Mottagare av stipendiet är en ungdomsledare inom det lokala föreningslivet, som på ett förtjänstfullt sätt
@@ -47799,8 +47799,8 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att:
 
--  2024 års idrottsstipendium tilldelas X och X
--  offentliggöra stipendiaterna vid prisceremonin.
+\-  2024 års idrottsstipendium tilldelas X och X
+\-  offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 
@@ -47846,14 +47846,14 @@ Stipendiet ska uppmuntra ungdomar som vill vidareutveckla sig inom sin idrott.
 
 Allmänna bestämmelser
 
-1. Berättigad att erhålla stipendiet är den som är:
+1\. Berättigad att erhålla stipendiet är den som är:
 
 a. Under 26 år och
 b. Född och/eller bosatt i Kungsbacka kommun.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiater.
-3. Stipendiet delas ut till två personer/år
-4. Stipendiet riktas endast till enskilda personer.
-5. Stipendiet utdelas årligen ut under Kultur & Fritids prisceremoni.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiater.
+3\. Stipendiet delas ut till två personer/år
+4\. Stipendiet riktas endast till enskilda personer.
+5\. Stipendiet utdelas årligen ut under Kultur & Fritids prisceremoni.
 
 Bedömningsvillkor
 
@@ -47917,8 +47917,8 @@ Kulturstipendium 2024
 Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att:
--  tilldela X och X 2024 års kulturstipendier.
--  offentliggöra stipendiaterna vid prisceremonin.
+\-  tilldela X och X 2024 års kulturstipendier.
+\-  offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 Nämnden för Kultur & Fritid delar årligen ut två kulturstipendier till kulturellt utövande ungdomar.
@@ -47970,7 +47970,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Kultur & Turism SAMMANTRÄDESPROTOKOLL 10 (20)
 Sammanträdesdatum
 2007-09-25
-$78 Kt97-00305/
+\$78 Kt97-00305/
 
 Inrättande av Kulturstipendier för ungdom
 
@@ -48028,7 +48028,7 @@ Sammanträdesdatum
 
 2007-09-25
 
-$ 78 forts
+\$ 78 forts
 
 Beslutsunderlag
 

@@ -497,7 +497,7 @@ Kommunstyrelsen godkänner delårsbokslut per augusti och prognos för 2025.
 Sammanfattning av ärendet
 
 Kommunstyrelsen prognosticerar ett överskott om 14,5 miljoner kronor för helåret
-2025. Överskottet förklaras av att delar av kommunens IT- och
+2025\. Överskottet förklaras av att delar av kommunens IT- och
 digitaliseringssatsningar tar längre tid att genomföra, ofördelade resurser inom
 projektportföljen, lägre driftskostnader än budgeterat för lokalplaneringen samt högre
 intäkter inom samhällsbyggnadsområdet.
@@ -1470,16 +1470,16 @@ Förslag till beslut på sammanträdet
 Stefan Jägnert (SD) yrkar bifall till kommunstyrelsens arbetsutskotts förslag.
 
 Magdalena Sundqvist (S) yrkar att:
-1. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att justera avtalet för
+1\. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att justera avtalet för
 omställningsstöd så att avslag av begäran av omställningsstöd ska vara möjlig
 i de fall då förtroendevalda har agerat grovt förtroendeskadligt.
 
-2. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att ta fram etiska
+2\. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att ta fram etiska
 riktlinjer som kan tydliggöra förhållningssätt och stödja förtroendevalda i hur
 de bör uppträda samt föreskriva vad som kan vara grovt förtroendeskadligt
 beteende inom kommunen.
 
-3. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att lämna förslag på
+3\. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att lämna förslag på
 vilken instans som ska vara beslutfattande när begäran om omställningsstöd
 ska prövas samt förslag på formerna av beslutfattande.
 Johan Tolinsson (S) yrkar bifall till Magdalena Sundqvists (S) yrkande.
@@ -1602,14 +1602,14 @@ Taxa för brandskyddskontroll 2026–2031
 
 Beslut – Förslag till kommunfullmäktige
 
-1. Kommunfullmäktige antar taxa i enlighet med bilaga 1.
+1\. Kommunfullmäktige antar taxa i enlighet med bilaga 1.
 
-2. Kommunfullmäktige antar taxebestämmelserna i enlighet med bilaga 2.
-4. Kommunfullmäktige beslutar att taxan enligt beslutspunkt 1 gäller från och med
+2\. Kommunfullmäktige antar taxebestämmelserna i enlighet med bilaga 2.
+4\. Kommunfullmäktige beslutar att taxan enligt beslutspunkt 1 gäller från och med
 den 1 januari 2026 till och med den 31 december 2031 för Kungsbacka kommun med
 den justering som sker enligt beslutspunkt 5.
 
-5. Kommunfullmäktige beslutar att Räddningstjänstförbundet Storgöteborg för varje
+5\. Kommunfullmäktige beslutar att Räddningstjänstförbundet Storgöteborg för varje
 avgiftsår ska årligen justera taxorna enligt beslutspunkt 1 enligt Sveriges kommuner
 och regioners (SKR) Prisindex för kommunal verksamhet (PKV). Vid justeringen
 tillämpas det PKV som SKR årligen publicerar i februari, i samband med cirkuläret
@@ -1705,7 +1705,7 @@ Verksamheten är inte lagreglerad utan är en allmän nyttighet av infrastruktur
 karaktär med stort allmänt intresse. Avgifter för kommunens bredband tas ut i en
 kommunallagsreglerad taxa som beslutas av kommunfullmäktige. Avgifterna i taxan
 för bredbandstjänster baseras på en förväntad utveckling av verksamheten till år
-2030.
+2030\.
 
 Inför 2026 föreslår nämnden för Teknik att endast kapacitetspriserna justeras, medan
 övriga avgifter förblir oförändrade. Priserna för kapacitetstjänster sänks för att bättre
@@ -2188,13 +2188,13 @@ förmåga att informera äldre om aktuella frågor och möjligheten för äldre 
 synpunkter och förslag.
 Mot bakgrund av detta vill motionären att kommunfullmäktige beslutar:
 
-1. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och
+1\. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och
 samverkan mellan kommunen och dess äldre invånare.
 
-2. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för
+2\. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för
 hur ett kommunalt pensionärsråd ska organiseras och fungera, i dialog med
 lokala pensionärsföreningar och andra berörda intressenter.
-3. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att
+3\. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att
 låta dem vara delaktiga i kommunala beslut. Genom detta får kommunen
 bättre underlag för sina beslut genom samverkan med dem man finns till för.
 Deltagardemokrati mellan valen är viktig för att komplettera mellan de

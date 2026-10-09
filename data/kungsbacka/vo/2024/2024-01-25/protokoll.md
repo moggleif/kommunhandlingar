@@ -73,7 +73,7 @@ Maria Ädel, MAS
 Ulrika Ström, MAR
 
 Personalföreträdare           Övriga
--                             Victoria Skårvik, praktikant
+\-                             Victoria Skårvik, praktikant
 Oscar Lansing, praktikant
 
 Plats och tid för justering Digital justering.
@@ -415,11 +415,11 @@ Förslag till beslut på sammanträdet avser underlag till kommunbudget
 Hravn Forsne (M) yrkar bifall till förslaget.
 Ermin Škorićs (S) yrkar följande tilläggsyrkande:
 
-1. Ekonomisk kompensation för kompetensutveckling av befintlig personal för att
+1\. Ekonomisk kompensation för kompetensutveckling av befintlig personal för att
 möta reformbehovet utifrån bl a reformen god och nära vård och samtidigt
 förstärkning av kompetensutvecklingen inom språk- och terminologi i ett led att
 kvalitetssäkra och patientsäkra verksamheten enligt intentionerna i SOSFS 2011:9.
-2. Högre grundbemanning inom Nämnden för Vård & Omsorg i ett led att skapa
+2\. Högre grundbemanning inom Nämnden för Vård & Omsorg i ett led att skapa
 
 bättre arbetsmiljö, vara en attraktiv arbetsgivare för nytillkommande personal och
 skapa förutsättningar för högre måluppfyllelse.
@@ -451,14 +451,14 @@ Datum
 
 forts. § 3
 
-3. Fria arbetsskor till personal inom verksamheterna som nämnden för Vård &
+3\. Fria arbetsskor till personal inom verksamheterna som nämnden för Vård &
 Omsorg ansvarar för i ett led att stärka jämställdheten och jämlikheten och samtidigt
 förebygga rygg-, höft- och knäproblem som i längden kan kräva dyr rehabilitering
 samt sjukskrivningar.
 
-4. Kompensation för att kunna införa lagkravet fast omsorgskontakt om
+4\. Kompensation för att kunna införa lagkravet fast omsorgskontakt om
 förvaltningen anser att det behövs medel för att implementera kravet fullt ut.
-5. Höjd volymkompensation behövs för att rusta verksamheten inför ett allt större
+5\. Höjd volymkompensation behövs för att rusta verksamheten inför ett allt större
 uppdrag som kräver resurser som säkerställer framförhållning för god äldreomsorg
 och arbetsmiljö för dem som utför den.
 

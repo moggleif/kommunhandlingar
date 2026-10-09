@@ -452,10 +452,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 5.2 En hållbar utveckling och en hälsosam miljö
 
@@ -463,11 +463,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 10
 
@@ -482,8 +482,8 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 5.4 I Kungsbacka utvecklas vi hela livet
@@ -491,20 +491,20 @@ mellan näringsliv och utbildning.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 11
 
@@ -780,7 +780,7 @@ för granskning i varje nämnd. Enligt kommunallagen och reglementet för nämnd
 nämnderna för att den interna kontrollen är tillräcklig och utformad så att den till en rimlig grad av
 säkerhet uppnår: - efterlevnad av tillämpliga lagar, föreskrifter, policys och riktlinjer - ändamålsenlig
 och kostnadseffektiv verksamhet - tillförlitlig finansiell rapportering och information om verksamheten
-- skydd mot förluster eller förstörelse av kommunens tillgångar - eliminering eller upptäckande av
+\- skydd mot förluster eller förstörelse av kommunens tillgångar - eliminering eller upptäckande av
 allvarliga fel. Risk kan i det här sammanhanget definieras som ”händelser och företeelser som hotar
 
 eller hindrar att uppdrag kan genomföras och att mål för verksamheten nås samt att det sker på avsett
@@ -1087,12 +1087,12 @@ inköp av valadministrativt system samt årlig uppföljning.
 6.2 Uppföljning av granskning och åtgärder
 
 Planering på följande punkter:
-2) Avtalsuppföljning görs på valnämndens IT-system och dokumenteras i förvaltningsplanen. År 2025 ska det
+2\) Avtalsuppföljning görs på valnämndens IT-system och dokumenteras i förvaltningsplanen. År 2025 ska det
 vara ett nytt avtal på plats för nämndens valadministrations system. Genomgång av övriga beställningar och
 inköp sker årligen.
 
-3) Det ska planeras för ett utbildningstillfälle till valnämnden rörande korruption.
-4) Krisledningsorganisation är ett prioriterat område vid genomförande av val. Övrig tid är organisationen
+3\) Det ska planeras för ett utbildningstillfälle till valnämnden rörande korruption.
+4\) Krisledningsorganisation är ett prioriterat område vid genomförande av val. Övrig tid är organisationen
 beroende av kommunstyrelsens förvaltnings krisledningsorganisation då medarbetare är anställda av där.
 
 6.3 Granskning av privata utförare 2025
@@ -1374,13 +1374,13 @@ Ersättare för valnämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
 
 ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen,
@@ -1409,12 +1409,12 @@ Däremot kan Valnämnden återta sitt beslut att delegera en viss typ av ärende
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har
 
 tagit:
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får genomföras
 i avvaktan på prövning).
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
 
 handling som beslutet avser.
 
@@ -1423,7 +1423,7 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
 
-- till valnämnden om beslutanderätten är lämnad genom delegation direkt
+\- till valnämnden om beslutanderätten är lämnad genom delegation direkt
 från valnämnden.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -1504,7 +1504,7 @@ Valnämndens delegeri ng av beslutanderätt Sida 6 av 12
 | 2.1.7 | Dataskydds-<br>förordningen<br>artikel 33 och<br>34 | Hantering av personuppgiftsincident | AC | KVS |  |
 | 2.1.8 | Dataskydds-<br>förordningen<br>artikel 28 | Avtal om personuppgiftsbiträdes-<br>behandling av personuppgifter för<br>den personuppgiftsansvariges<br>räkning. | AC | KVS |  |
 | 2.1.9 | Dataskydds-<br>förordningen<br>artikel 30 | Fastställa kommunstyrelsens<br>förteckning över<br>personuppgiftsbehandlingar. | KVS | AC |  |
-| 2.1.10 | Valnämndens<br>budget, Regler<br>och riktlinjer<br>för förmåner<br>till förtroende-<br>valda<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) | Deltagande i aktivitet* för<br>ordförande, vice ordförande, ledamot<br>och ersättare i Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till<br>arvode för<br>deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendev<br>alda<br>(antaget i<br>kommun- |
+| 2.1.10 | Valnämndens<br>budget, Regler<br>och riktlinjer<br>för förmåner<br>till förtroende-<br>valda<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) | Deltagande i aktivitet\* för<br>ordförande, vice ordförande, ledamot<br>och ersättare i Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till<br>arvode för<br>deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendev<br>alda<br>(antaget i<br>kommun- |
 
 <!-- sida 44 -->
 
@@ -1513,7 +1513,7 @@ fullmäktige
 § 106.
 Gäller från
 2023-01-01)
-*I samma
+\*I samma
 dokument
 framgår
 vilka
@@ -1681,13 +1681,13 @@ Ersättare för valnämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
 ska framgå av ärendet och registreras i ärende-/verksamhetssystemet
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -1718,12 +1718,12 @@ delegering. Däremot kan Valnämnden återta sitt beslut att delegera en viss ty
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som
 delegaten har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
--  Beslut att avge yttrande till högre instans med anledning av överklagande
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande
 av delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut
 inte får genomföras i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser.
 
 1.5 Att inte utnyttja sin beslutanderätt
@@ -1732,7 +1732,7 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärende eller ärendet visar sig falla inom ramen för vad som är föreskrivet i
 kommunallagen 6 kap 38 § ska tjänstemannen överlämna ärendet till
 
-- till valnämnden om beslutanderätten är lämnad genom delegation direkt
+\- till valnämnden om beslutanderätten är lämnad genom delegation direkt
 från valnämnden.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -1818,7 +1818,7 @@ Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 6 (11)
 | 2.1.7 | Dataskydds-<br>förordningen<br>artikel 33 och<br>34 | Hantering av<br>personuppgiftsincident | AC | KVS |  |
 | 2.1.8 | Dataskydds-<br>förordningen<br>artikel 28 | Avtal om personuppgiftsbiträdes-<br>behandling av personuppgifter för<br>den personuppgiftsansvariges<br>räkning. | AC | KVS |  |
 | 2.1.9 | Dataskydds-<br>förordningen<br>artikel 30 | Fastställa kommunstyrelsens<br>förteckning över<br>personuppgiftsbehandlingar. | KVS | AC |  |
-| 2.1.10 | Valnämndens<br>budget,<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroende-<br>valda<br>(antaget i<br>kommun- | Deltagande i aktivitet* för<br>ordförande, vice ordförande,<br>ledamot och ersättare i<br>Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode<br>för deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda<br>(antaget i<br>kommun- |
+| 2.1.10 | Valnämndens<br>budget,<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroende-<br>valda<br>(antaget i<br>kommun- | Deltagande i aktivitet\* för<br>ordförande, vice ordförande,<br>ledamot och ersättare i<br>Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode<br>för deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda<br>(antaget i<br>kommun- |
 
 <!-- sida 56 -->
 
@@ -1826,7 +1826,7 @@ Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 7 (11)
 
 [Tabell 56-1](handlingar.tabeller/56-1.csv)
 
-|  | fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) |  |  |  | fullmäktige 15<br>juni 2022 §<br>106. Gäller<br>från 2023-01-<br>01)<br>*I samma<br>dokument<br>framgår vilka<br>aktiviteter som<br>avses. |
+|  | fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) |  |  |  | fullmäktige 15<br>juni 2022 §<br>106. Gäller<br>från 2023-01-<br>01)<br>\*I samma<br>dokument<br>framgår vilka<br>aktiviteter som<br>avses. |
 | --- | --- | --- | --- | --- | --- |
 | 2.1.11 | Lagrum: artikel<br>28 GDPR och<br>Hantering av<br>personuppgifter -<br>Riktlinjer,<br>Kommunfullmäktige<br>2024-03-05 § 33 | Ingå personuppgiftsbiträdesavtal<br>för kommungemensamma digitala<br>tjänster och system. | Bitr. KD |  | Avser<br>kommungemen<br>samma tjänster<br>och system som<br>används av<br>kommunens<br>samtliga<br>nämnder.<br>Kommungemen<br>samma system<br>som stödjer<br>kommungemen<br>samma<br>stödprocesser<br>som utförs av<br>Service eller<br>kommunstyrels<br>en enligt<br>reglemente<br>omfattas inte. |
 
@@ -5141,7 +5141,7 @@ E-post: linnea.andersson@enkatfabriken.se
 
 <!-- sida 140 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 27 september 2024 14:01
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 39
@@ -5426,7 +5426,7 @@ Dnr VAL-328-2024
 
 Valmyndighetens omfattande arbete för att stärka valadministrationens
 valsäkerhetsarbete inför valen 2022 låg till grund för arbetet inför EU-valet
-2024. Den upparbetade samverkan med andra myndigheter inom valnätverket
+2024\. Den upparbetade samverkan med andra myndigheter inom valnätverket
 
 har ytterligare förstärkts inför EU-valet. Utbildningsverksamheten har fortsatt
 utgjort en grundsten i Valmyndighetens arbete med att stärka skyddet av
@@ -7435,7 +7435,7 @@ identifikationsuppgift.
 
 Dnr VAL-328-2024
 
-6. öppna de fönsterkuvert och 6. öppna de fönsterkuvert och
+6\. öppna de fönsterkuvert och 6. öppna de fönsterkuvert och
 ytterkuvert för brevröst som ytterkuvert för brevröst som
 uppfyller kraven under 2, 4 och 5 uppfyller kraven under 2, 4 och 5
 och kontrollera att kuverten och kontrollera att kuverten
@@ -7589,7 +7589,7 @@ Dnr VAL-328-2024
 
 Tabell 3: Valmaterial
 
-*2019 användes samma typ av omslag för flera syften
+\*2019 användes samma typ av omslag för flera syften
 
 Informationsutbyte
 
@@ -7615,8 +7615,8 @@ personen redan var anmäld till den svenska röstlängden.
 | Förseglingar – plomber | 42 380 | 17 820 |
 | Handledning för röstmottagare i<br>röstningslokal | 18 290 | 12 370 |
 | Handledning för röstmottagare i vallokal | 47 480 | 38 956 |
-| Omslag för förtidsröster/budröstkuvert | 209 600 | 450 750* |
-| Omslag för valsedlar | 178 350 | 450 750* |
+| Omslag för förtidsröster/budröstkuvert | 209 600 | 450 750\* |
+| Omslag för valsedlar | 178 350 | 450 750\* |
 | Omslagskartong för förtidsröstning | 14 840 | 9 959 |
 | Valkasse Röd | 21 460 | 10 320 |
 | Valkasse Grön | 20 800 | 13 350 |
@@ -7638,12 +7638,12 @@ Dnr VAL-328-2024
 Tabell 5: Informationsutbyte med andra EU-länder: Anmälningar till
 den svenska röstlängden
 
-*Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
+\*Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
 
 Tabell 6: Informationsutbyte med andra EU-länder: Utträden från den
 svenska röstlängden
 
-*Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
+\*Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
 
 Valmyndigheten fick kännedom från andra EU-länders myndigheter om totalt
 13 824 personer som var upptagna i deras röstlängder. Av dessa ströks 5 019
@@ -7665,14 +7665,14 @@ svenskar som är upptagna i andra EU-länders röstlängder
 | Totalt antal anmälningar till den svenska röstlängden inför detta<br>EU-val | 43 189 |
 | Varav anmälningar inför tidigare EU-val | 27 455 |
 | Varav anmälningar inför detta EU-val | 15 734 |
-| Antal anmälningar till den svenska röstlängden inför detta EU-val<br>som underkändes av länsstyrelserna | 596* |
+| Antal anmälningar till den svenska röstlängden inför detta EU-val<br>som underkändes av länsstyrelserna | 596\* |
 
 [Tabell 193-2](handlingar.tabeller/193-2.csv)
 
 | Antal utträden från den svenska röstlängden inför detta EU-<br>val | 2024 |
 | --- | --- |
 | Totalt antal utträden från den svenska röstlängden inför detta<br>EU-val | 804 |
-| Antal utträden från den svenska röstlängden inför detta EU-val<br>som underkändes av länsstyrelserna | 22* |
+| Antal utträden från den svenska röstlängden inför detta EU-val<br>som underkändes av länsstyrelserna | 22\* |
 
 [Tabell 193-3](handlingar.tabeller/193-3.csv)
 
@@ -7693,7 +7693,7 @@ Partier
 
 Tabell 9: Låsta och öppna listor
 
-*Ett parti hade två listor. Övriga partier hade endast en lista.
+\*Ett parti hade två listor. Övriga partier hade endast en lista.
 
 Tabell 10: Partier som deltagit i val
 
@@ -7715,7 +7715,7 @@ Tabell 10: Partier som deltagit i val
 | --- | --- | --- | --- | --- |
 | Kandidatlistan är: | Antal listor | Andel | Antal listor | Andel |
 | Låst | 16 | 55,2 % | 17 | 53,1 % |
-| Öppen | 13* | 44,8 % | 15 | 46,9 % |
+| Öppen | 13\* | 44,8 % | 15 | 46,9 % |
 | Totalt | 29 | 100 % | 32 | 100 % |
 
 [Tabell 194-3](handlingar.tabeller/194-3.csv)
@@ -7806,7 +7806,7 @@ jämfört med 2019.
 
 Tabell 15: Returer av röstkort
 
-*För att beräkna dessa andelar har ett antagande gjorts att andelen utlandssvenskar med inrikesadress vid valet 2019
+\*För att beräkna dessa andelar har ett antagande gjorts att andelen utlandssvenskar med inrikesadress vid valet 2019
 (saknad uppgift i tabell 14) är densamma som vid valet 2024.
 
 Tabell 16: Dubblettröstkort
@@ -7940,8 +7940,8 @@ Dnr VAL-328-2024
 
 Tabell 20: Räknade och inte räknade brevröster
 
-*På grund av att personuppgifter saknades, inte gick att tyda eller att personen saknade rösträtt.
-** Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
+\*På grund av att personuppgifter saknades, inte gick att tyda eller att personen saknade rösträtt.
+\*\* Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
 
 Listan är baserad på svaren i en enkät till kommunerna. Orsakerna är sorterade
 efter antalet kommuner som uppgett denna orsak som vanlig.
@@ -7950,11 +7950,11 @@ Tabell 21: Vanligaste orsaker till underkända brevröster av
 
 valnämnderna
 
-1. Väljaren hade inte rösträtt i det aktuella valet
-2. Uppgifter om vittnen saknades helt
-3. Brevrösten bedömdes inte vara postad från utlandet
-4. Endast uppgifter på ett vittne fanns på ytterkuvertet
-5. Uppgifter om väljaren saknades på ytterkuvertet
+1\. Väljaren hade inte rösträtt i det aktuella valet
+2\. Uppgifter om vittnen saknades helt
+3\. Brevrösten bedömdes inte vara postad från utlandet
+4\. Endast uppgifter på ett vittne fanns på ytterkuvertet
+5\. Uppgifter om väljaren saknades på ytterkuvertet
 
 Antal röstningslokaler för förtidsröstning i Sverige uppgick till 2 423. Totalt har
 dessa lokaler tagit emot 1 995 567 förtidsröster, vilket är en ökning med 22
@@ -7976,8 +7976,8 @@ mer än en dubbelt så mycket som vid valet 2019.
 | Inkomna brevröster (t.o.m. 30 juni valåret) | 19 027 | 100 % | 21 119 | 100 % |
 | Räknade brevröster | 16 156 | 84,9 % | 18 166 | 86,0 % |
 | Inte räknade brevröster | 2 871 | 15,1 % | 2 953 | 14,0 % |
-| Varav som mottogs av Valmyndigheten, som inte<br>kunde skickas vidare till valnämnderna* | 489 | 2,6 % | 912 | 4,3 % |
-| Varav underkända av valnämnderna | 1 141** | 6,0 % | 1 331 | 6,3 % |
+| Varav som mottogs av Valmyndigheten, som inte<br>kunde skickas vidare till valnämnderna\* | 489 | 2,6 % | 912 | 4,3 % |
+| Varav underkända av valnämnderna | 1 141\*\* | 6,0 % | 1 331 | 6,3 % |
 | Varav för sent inkomna brevröster till<br>Valmyndigheten (t.o.m. 30 juni valåret) | 997 | 5,2 % | 600 | 2,8 % |
 | Varav för sent inkomna brevröster till<br>valnämnderna (t.o.m. 30 juni valåret) | 244 | 1,3 % | 88 | 0,4 % |
 
@@ -7989,7 +7989,7 @@ Tabell 22: Förtidsröstning i Sverige
 
 Tabell 23: Ångerröstning
 
-** Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
+\*\* Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
 
 Valdeltagande
 
@@ -8017,7 +8017,7 @@ Tabell 25: Högst och lägst valdeltagande
 | --- | --- | --- | --- | --- |
 | Deltagande | Antal | Andel | Antal | Andel |
 | Totalt antal röster | 4 240 459 | 100 % | 4 187 848 | 100 % |
-| Ångerröster | 1 882* | 0,04 % | 2 921 | 0,07 % |
+| Ångerröster | 1 882\* | 0,04 % | 2 921 | 0,07 % |
 
 [Tabell 200-3](handlingar.tabeller/200-3.csv)
 
@@ -8467,10 +8467,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 5.2 En hållbar utveckling och en hälsosam miljö
 
@@ -8478,11 +8478,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 10
 
@@ -8497,8 +8497,8 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 5.4 I Kungsbacka utvecklas vi hela livet
@@ -8506,20 +8506,20 @@ mellan näringsliv och utbildning.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 11
 
@@ -8795,7 +8795,7 @@ för granskning i varje nämnd. Enligt kommunallagen och reglementet för nämnd
 nämnderna för att den interna kontrollen är tillräcklig och utformad så att den till en rimlig grad av
 säkerhet uppnår: - efterlevnad av tillämpliga lagar, föreskrifter, policys och riktlinjer - ändamålsenlig
 och kostnadseffektiv verksamhet - tillförlitlig finansiell rapportering och information om verksamheten
-- skydd mot förluster eller förstörelse av kommunens tillgångar - eliminering eller upptäckande av
+\- skydd mot förluster eller förstörelse av kommunens tillgångar - eliminering eller upptäckande av
 allvarliga fel. Risk kan i det här sammanhanget definieras som ”händelser och företeelser som hotar
 
 eller hindrar att uppdrag kan genomföras och att mål för verksamheten nås samt att det sker på avsett
@@ -9102,12 +9102,12 @@ inköp av valadministrativt system samt årlig uppföljning.
 6.2 Uppföljning av granskning och åtgärder
 
 Planering på följande punkter:
-2) Avtalsuppföljning görs på valnämndens IT-system och dokumenteras i förvaltningsplanen. År 2025 ska det
+2\) Avtalsuppföljning görs på valnämndens IT-system och dokumenteras i förvaltningsplanen. År 2025 ska det
 vara ett nytt avtal på plats för nämndens valadministrations system. Genomgång av övriga beställningar och
 inköp sker årligen.
 
-3) Det ska planeras för ett utbildningstillfälle till valnämnden rörande korruption.
-4) Krisledningsorganisation är ett prioriterat område vid genomförande av val. Övrig tid är organisationen
+3\) Det ska planeras för ett utbildningstillfälle till valnämnden rörande korruption.
+4\) Krisledningsorganisation är ett prioriterat område vid genomförande av val. Övrig tid är organisationen
 beroende av kommunstyrelsens förvaltnings krisledningsorganisation då medarbetare är anställda av där.
 
 6.3 Granskning av privata utförare 2025
@@ -9389,13 +9389,13 @@ Ersättare för valnämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå av
 
 ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen,
@@ -9424,12 +9424,12 @@ Däremot kan Valnämnden återta sitt beslut att delegera en viss typ av ärende
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har
 
 tagit:
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får genomföras
 i avvaktan på prövning).
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
 
 handling som beslutet avser.
 
@@ -9438,7 +9438,7 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
 
-- till valnämnden om beslutanderätten är lämnad genom delegation direkt
+\- till valnämnden om beslutanderätten är lämnad genom delegation direkt
 från valnämnden.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -9519,7 +9519,7 @@ Valnämndens delegeri ng av beslutanderätt Sida 6 av 12
 | 2.1.7 | Dataskydds-<br>förordningen<br>artikel 33 och<br>34 | Hantering av personuppgiftsincident | AC | KVS |  |
 | 2.1.8 | Dataskydds-<br>förordningen<br>artikel 28 | Avtal om personuppgiftsbiträdes-<br>behandling av personuppgifter för<br>den personuppgiftsansvariges<br>räkning. | AC | KVS |  |
 | 2.1.9 | Dataskydds-<br>förordningen<br>artikel 30 | Fastställa kommunstyrelsens<br>förteckning över<br>personuppgiftsbehandlingar. | KVS | AC |  |
-| 2.1.10 | Valnämndens<br>budget, Regler<br>och riktlinjer<br>för förmåner<br>till förtroende-<br>valda<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) | Deltagande i aktivitet* för<br>ordförande, vice ordförande, ledamot<br>och ersättare i Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till<br>arvode för<br>deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendev<br>alda<br>(antaget i<br>kommun- |
+| 2.1.10 | Valnämndens<br>budget, Regler<br>och riktlinjer<br>för förmåner<br>till förtroende-<br>valda<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) | Deltagande i aktivitet\* för<br>ordförande, vice ordförande, ledamot<br>och ersättare i Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till<br>arvode för<br>deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendev<br>alda<br>(antaget i<br>kommun- |
 
 <!-- sida 243 -->
 
@@ -9528,7 +9528,7 @@ fullmäktige
 § 106.
 Gäller från
 2023-01-01)
-*I samma
+\*I samma
 dokument
 framgår
 vilka
@@ -9696,13 +9696,13 @@ Ersättare för valnämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
 ska framgå av ärendet och registreras i ärende-/verksamhetssystemet
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -9733,12 +9733,12 @@ delegering. Däremot kan Valnämnden återta sitt beslut att delegera en viss ty
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som
 delegaten har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
--  Beslut att avge yttrande till högre instans med anledning av överklagande
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande
 av delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut
 inte får genomföras i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser.
 
 1.5 Att inte utnyttja sin beslutanderätt
@@ -9747,7 +9747,7 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärende eller ärendet visar sig falla inom ramen för vad som är föreskrivet i
 kommunallagen 6 kap 38 § ska tjänstemannen överlämna ärendet till
 
-- till valnämnden om beslutanderätten är lämnad genom delegation direkt
+\- till valnämnden om beslutanderätten är lämnad genom delegation direkt
 från valnämnden.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -9833,7 +9833,7 @@ Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 6 (11)
 | 2.1.7 | Dataskydds-<br>förordningen<br>artikel 33 och<br>34 | Hantering av<br>personuppgiftsincident | AC | KVS |  |
 | 2.1.8 | Dataskydds-<br>förordningen<br>artikel 28 | Avtal om personuppgiftsbiträdes-<br>behandling av personuppgifter för<br>den personuppgiftsansvariges<br>räkning. | AC | KVS |  |
 | 2.1.9 | Dataskydds-<br>förordningen<br>artikel 30 | Fastställa kommunstyrelsens<br>förteckning över<br>personuppgiftsbehandlingar. | KVS | AC |  |
-| 2.1.10 | Valnämndens<br>budget,<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroende-<br>valda<br>(antaget i<br>kommun- | Deltagande i aktivitet* för<br>ordförande, vice ordförande,<br>ledamot och ersättare i<br>Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode<br>för deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda<br>(antaget i<br>kommun- |
+| 2.1.10 | Valnämndens<br>budget,<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroende-<br>valda<br>(antaget i<br>kommun- | Deltagande i aktivitet\* för<br>ordförande, vice ordförande,<br>ledamot och ersättare i<br>Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode<br>för deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda<br>(antaget i<br>kommun- |
 
 <!-- sida 255 -->
 
@@ -9841,7 +9841,7 @@ Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 7 (11)
 
 [Tabell 255-1](handlingar.tabeller/255-1.csv)
 
-|  | fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) |  |  |  | fullmäktige 15<br>juni 2022 §<br>106. Gäller<br>från 2023-01-<br>01)<br>*I samma<br>dokument<br>framgår vilka<br>aktiviteter som<br>avses. |
+|  | fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) |  |  |  | fullmäktige 15<br>juni 2022 §<br>106. Gäller<br>från 2023-01-<br>01)<br>\*I samma<br>dokument<br>framgår vilka<br>aktiviteter som<br>avses. |
 | --- | --- | --- | --- | --- | --- |
 | 2.1.11 | Lagrum: artikel<br>28 GDPR och<br>Hantering av<br>personuppgifter -<br>Riktlinjer,<br>Kommunfullmäktige<br>2024-03-05 § 33 | Ingå personuppgiftsbiträdesavtal<br>för kommungemensamma digitala<br>tjänster och system. | Bitr. KD |  | Avser<br>kommungemen<br>samma tjänster<br>och system som<br>används av<br>kommunens<br>samtliga<br>nämnder.<br>Kommungemen<br>samma system<br>som stödjer<br>kommungemen<br>samma<br>stödprocesser<br>som utförs av<br>Service eller<br>kommunstyrels<br>en enligt<br>reglemente<br>omfattas inte. |
 
@@ -13156,7 +13156,7 @@ E-post: linnea.andersson@enkatfabriken.se
 
 <!-- sida 339 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 27 september 2024 14:01
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 39
@@ -13441,7 +13441,7 @@ Dnr VAL-328-2024
 
 Valmyndighetens omfattande arbete för att stärka valadministrationens
 valsäkerhetsarbete inför valen 2022 låg till grund för arbetet inför EU-valet
-2024. Den upparbetade samverkan med andra myndigheter inom valnätverket
+2024\. Den upparbetade samverkan med andra myndigheter inom valnätverket
 
 har ytterligare förstärkts inför EU-valet. Utbildningsverksamheten har fortsatt
 utgjort en grundsten i Valmyndighetens arbete med att stärka skyddet av
@@ -15450,7 +15450,7 @@ identifikationsuppgift.
 
 Dnr VAL-328-2024
 
-6. öppna de fönsterkuvert och 6. öppna de fönsterkuvert och
+6\. öppna de fönsterkuvert och 6. öppna de fönsterkuvert och
 ytterkuvert för brevröst som ytterkuvert för brevröst som
 uppfyller kraven under 2, 4 och 5 uppfyller kraven under 2, 4 och 5
 och kontrollera att kuverten och kontrollera att kuverten
@@ -15604,7 +15604,7 @@ Dnr VAL-328-2024
 
 Tabell 3: Valmaterial
 
-*2019 användes samma typ av omslag för flera syften
+\*2019 användes samma typ av omslag för flera syften
 
 Informationsutbyte
 
@@ -15630,8 +15630,8 @@ personen redan var anmäld till den svenska röstlängden.
 | Förseglingar – plomber | 42 380 | 17 820 |
 | Handledning för röstmottagare i<br>röstningslokal | 18 290 | 12 370 |
 | Handledning för röstmottagare i vallokal | 47 480 | 38 956 |
-| Omslag för förtidsröster/budröstkuvert | 209 600 | 450 750* |
-| Omslag för valsedlar | 178 350 | 450 750* |
+| Omslag för förtidsröster/budröstkuvert | 209 600 | 450 750\* |
+| Omslag för valsedlar | 178 350 | 450 750\* |
 | Omslagskartong för förtidsröstning | 14 840 | 9 959 |
 | Valkasse Röd | 21 460 | 10 320 |
 | Valkasse Grön | 20 800 | 13 350 |
@@ -15653,12 +15653,12 @@ Dnr VAL-328-2024
 Tabell 5: Informationsutbyte med andra EU-länder: Anmälningar till
 den svenska röstlängden
 
-*Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
+\*Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
 
 Tabell 6: Informationsutbyte med andra EU-länder: Utträden från den
 svenska röstlängden
 
-*Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
+\*Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
 
 Valmyndigheten fick kännedom från andra EU-länders myndigheter om totalt
 13 824 personer som var upptagna i deras röstlängder. Av dessa ströks 5 019
@@ -15680,14 +15680,14 @@ svenskar som är upptagna i andra EU-länders röstlängder
 | Totalt antal anmälningar till den svenska röstlängden inför detta<br>EU-val | 43 189 |
 | Varav anmälningar inför tidigare EU-val | 27 455 |
 | Varav anmälningar inför detta EU-val | 15 734 |
-| Antal anmälningar till den svenska röstlängden inför detta EU-val<br>som underkändes av länsstyrelserna | 596* |
+| Antal anmälningar till den svenska röstlängden inför detta EU-val<br>som underkändes av länsstyrelserna | 596\* |
 
 [Tabell 392-2](handlingar.tabeller/392-2.csv)
 
 | Antal utträden från den svenska röstlängden inför detta EU-<br>val | 2024 |
 | --- | --- |
 | Totalt antal utträden från den svenska röstlängden inför detta<br>EU-val | 804 |
-| Antal utträden från den svenska röstlängden inför detta EU-val<br>som underkändes av länsstyrelserna | 22* |
+| Antal utträden från den svenska röstlängden inför detta EU-val<br>som underkändes av länsstyrelserna | 22\* |
 
 [Tabell 392-3](handlingar.tabeller/392-3.csv)
 
@@ -15708,7 +15708,7 @@ Partier
 
 Tabell 9: Låsta och öppna listor
 
-*Ett parti hade två listor. Övriga partier hade endast en lista.
+\*Ett parti hade två listor. Övriga partier hade endast en lista.
 
 Tabell 10: Partier som deltagit i val
 
@@ -15730,7 +15730,7 @@ Tabell 10: Partier som deltagit i val
 | --- | --- | --- | --- | --- |
 | Kandidatlistan är: | Antal listor | Andel | Antal listor | Andel |
 | Låst | 16 | 55,2 % | 17 | 53,1 % |
-| Öppen | 13* | 44,8 % | 15 | 46,9 % |
+| Öppen | 13\* | 44,8 % | 15 | 46,9 % |
 | Totalt | 29 | 100 % | 32 | 100 % |
 
 [Tabell 393-3](handlingar.tabeller/393-3.csv)
@@ -15821,7 +15821,7 @@ jämfört med 2019.
 
 Tabell 15: Returer av röstkort
 
-*För att beräkna dessa andelar har ett antagande gjorts att andelen utlandssvenskar med inrikesadress vid valet 2019
+\*För att beräkna dessa andelar har ett antagande gjorts att andelen utlandssvenskar med inrikesadress vid valet 2019
 (saknad uppgift i tabell 14) är densamma som vid valet 2024.
 
 Tabell 16: Dubblettröstkort
@@ -15955,8 +15955,8 @@ Dnr VAL-328-2024
 
 Tabell 20: Räknade och inte räknade brevröster
 
-*På grund av att personuppgifter saknades, inte gick att tyda eller att personen saknade rösträtt.
-** Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
+\*På grund av att personuppgifter saknades, inte gick att tyda eller att personen saknade rösträtt.
+\*\* Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
 
 Listan är baserad på svaren i en enkät till kommunerna. Orsakerna är sorterade
 efter antalet kommuner som uppgett denna orsak som vanlig.
@@ -15965,11 +15965,11 @@ Tabell 21: Vanligaste orsaker till underkända brevröster av
 
 valnämnderna
 
-1. Väljaren hade inte rösträtt i det aktuella valet
-2. Uppgifter om vittnen saknades helt
-3. Brevrösten bedömdes inte vara postad från utlandet
-4. Endast uppgifter på ett vittne fanns på ytterkuvertet
-5. Uppgifter om väljaren saknades på ytterkuvertet
+1\. Väljaren hade inte rösträtt i det aktuella valet
+2\. Uppgifter om vittnen saknades helt
+3\. Brevrösten bedömdes inte vara postad från utlandet
+4\. Endast uppgifter på ett vittne fanns på ytterkuvertet
+5\. Uppgifter om väljaren saknades på ytterkuvertet
 
 Antal röstningslokaler för förtidsröstning i Sverige uppgick till 2 423. Totalt har
 dessa lokaler tagit emot 1 995 567 förtidsröster, vilket är en ökning med 22
@@ -15991,8 +15991,8 @@ mer än en dubbelt så mycket som vid valet 2019.
 | Inkomna brevröster (t.o.m. 30 juni valåret) | 19 027 | 100 % | 21 119 | 100 % |
 | Räknade brevröster | 16 156 | 84,9 % | 18 166 | 86,0 % |
 | Inte räknade brevröster | 2 871 | 15,1 % | 2 953 | 14,0 % |
-| Varav som mottogs av Valmyndigheten, som inte<br>kunde skickas vidare till valnämnderna* | 489 | 2,6 % | 912 | 4,3 % |
-| Varav underkända av valnämnderna | 1 141** | 6,0 % | 1 331 | 6,3 % |
+| Varav som mottogs av Valmyndigheten, som inte<br>kunde skickas vidare till valnämnderna\* | 489 | 2,6 % | 912 | 4,3 % |
+| Varav underkända av valnämnderna | 1 141\*\* | 6,0 % | 1 331 | 6,3 % |
 | Varav för sent inkomna brevröster till<br>Valmyndigheten (t.o.m. 30 juni valåret) | 997 | 5,2 % | 600 | 2,8 % |
 | Varav för sent inkomna brevröster till<br>valnämnderna (t.o.m. 30 juni valåret) | 244 | 1,3 % | 88 | 0,4 % |
 
@@ -16004,7 +16004,7 @@ Tabell 22: Förtidsröstning i Sverige
 
 Tabell 23: Ångerröstning
 
-** Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
+\*\* Baserat på enkät som besvarades av 20 av 21 länsstyrelser.
 
 Valdeltagande
 
@@ -16032,7 +16032,7 @@ Tabell 25: Högst och lägst valdeltagande
 | --- | --- | --- | --- | --- |
 | Deltagande | Antal | Andel | Antal | Andel |
 | Totalt antal röster | 4 240 459 | 100 % | 4 187 848 | 100 % |
-| Ångerröster | 1 882* | 0,04 % | 2 921 | 0,07 % |
+| Ångerröster | 1 882\* | 0,04 % | 2 921 | 0,07 % |
 
 [Tabell 399-3](handlingar.tabeller/399-3.csv)
 

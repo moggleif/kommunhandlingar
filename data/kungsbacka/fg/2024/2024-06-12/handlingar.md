@@ -111,18 +111,18 @@ Vårdförbundet
 
 Plats och tid: VM Lygnern 2024-05-07 kl 8:30 – 9:30
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 Nytt utkast till protokoll för mötet 2024-04-16 kommer att skickas ut med justerad beslutspunkt kring
 tidigare öppning av betygskatalogen.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 
 Arbetsgivaren redovisar ärenden inför nämndsammanträde i maj.
 Budget
 Nuvarande budgetläge är påverkat av olika delar:
 
--  Statsbidrag som inte längre finns
--  Vikande elevunderlag – minskat antal barn/elever i kommunen.
+\-  Statsbidrag som inte längre finns
+\-  Vikande elevunderlag – minskat antal barn/elever i kommunen.
 
 Sveriges lärare
 Fyller fristående verksamheter sina platser och varför tillstår kommunen ansökningar om
@@ -148,7 +148,7 @@ Ja, fristående verksamheter fyller sina platser. Etablering av fristående verk
 av Skolinspektionen och nämnden ges möjlighet att yttra sig inför beslut. Erfarenheten är att
 myndigheten endast som undantag avslår en ansökan av nyetablering av fristående.
 
--  Delningstalen för en del enheter är svåra (beräkning elev/barnpeng) och kan få stora
+\-  Delningstalen för en del enheter är svåra (beräkning elev/barnpeng) och kan få stora
 
 konsekvenser trots små förändringar i barn/elevantal.
 
@@ -163,7 +163,7 @@ Beslut: Att anteckna informationen.
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 
 Skolledarorganisationen:
 
@@ -194,11 +194,11 @@ fortbildningsinsats.
 
 Beslut: Att anteckna informationen.
 
-4. Tjänsteplanering
+4\. Tjänsteplanering
 Dialog kring nuläget i tjänsteplaneringen. Arbetsgivaren och fackliga parter arbetar kontinuerligt med
 tjänsteplaneringen enligt plan.
 
-5. Förslag till dagordningen FSG 4 juni
+5\. Förslag till dagordningen FSG 4 juni
 
 •  Budget
 •  Tjänsteplanering
@@ -253,7 +253,7 @@ Sofia Kareliusson                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 Skolledare
@@ -358,13 +358,13 @@ till att ett införande av tolkavgift strider mot lagstiftningen i samband med h
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden för Förskola &
@@ -545,7 +545,7 @@ handlaggning-av-motioner
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\______________________
 
 <!-- sida 16 -->
 
@@ -592,14 +592,14 @@ vid uteblivet besök som inte avbokats i tid.
 
 Med anledning av ovan yrkar Sverigedemokraterna:
 
-- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Stefan Jägnert / SD Kungsbacka
@@ -752,13 +752,13 @@ motionen.
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
 egenavgift för tolktjänst efter 3 år i landet kan införas.
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
 uteblivit utan att avboka tiden, ska tolkavgiften bekostas av den enskilde även om
 denne haft sin hemvist i landet kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
 uteblivit utan att avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden
@@ -859,7 +859,7 @@ utarbeta förslag till åtgärder som ska föreläggas nämnden. Nämnden är sk
 åtgärder så att ramen inte överskrids.
 För att hantera underskottet i driftsresultatet och nå budget i balans gör förvaltningen följande åtgärder:
 
-1. Varje enhet med underskott i de pedagogiska områdena gör handlingsplan per april och per
+1\. Varje enhet med underskott i de pedagogiska områdena gör handlingsplan per april och per
 augusti med åtgärder för att nå budget i balans. Handlingsplanerna upprättas i maj respektive
 september tillsammans med ekonom, HR-specialist och verksamhetschef. Månadsvis
 uppföljning sker på pedagogisk områdesnivå samt för varje rektors ansvarsområde för att
@@ -925,10 +925,10 @@ inte inom ramen för beslut om särskilt stöd i ett åtgärdsprogram.
 
 Utifrån nämnduppdraget om införande av en resursskola kan erbjuda en mer småskalig omgivning och
 tillgängliggöra undervisning för fler elever har utredningen utgått från nedanstående frågeställningar:
--  Vilka elever är beroende av ett mindre skolsammanhang där lärmiljön är anpassad?
--  Möter nuvarande skolenheters ”flexverksamhet” upp mot resursskolans behov?
--  Kan inspektions- och klagomålsärenden härledas till behov av resursskola?
--  Vilka ekonomiska konsekvenser innebär ett upprättande av resursskola?
+\-  Vilka elever är beroende av ett mindre skolsammanhang där lärmiljön är anpassad?
+\-  Möter nuvarande skolenheters ”flexverksamhet” upp mot resursskolans behov?
+\-  Kan inspektions- och klagomålsärenden härledas till behov av resursskola?
+\-  Vilka ekonomiska konsekvenser innebär ett upprättande av resursskola?
 
 I den undersökning kring resursskola som avdelningen myndighet och stöd genomförde vårterminen
 2023 uppgav rektorerna att de hade svårt att möta upp mot 168 elevers behov av stöd. Av dessa 168
@@ -985,7 +985,7 @@ Utredningsuppdrag – Resursskola, 2024-05-22
 
 Beslutet skickas till
 
--
+\-
 
 Stigert Pettersson            Eva Eriksson
 Förvaltningschef              Verksamhetschef
@@ -1055,11 +1055,11 @@ enligt 3 kap i skollagen.
 Utifrån nämnduppdraget om införande av en resursskola kan erbjuda en mer småskalig omgivning och
 tillgängliggöra undervisning för fler elever har utredningen utgått från nedanstående frågeställningar:
 
--  Vilka elever är beroende av ett mindre skolsammanhang där lärmiljön är anpassad?
--  Möter nuvarande skolenheters ”flexverksamhet” upp mot resursskolans behov?
+\-  Vilka elever är beroende av ett mindre skolsammanhang där lärmiljön är anpassad?
+\-  Möter nuvarande skolenheters ”flexverksamhet” upp mot resursskolans behov?
 
--  Kan inspektions- och klagomålsärenden härledas till behov av resursskola?
--  Vilka ekonomiska konsekvenser innebär ett upprättande av resursskola?
+\-  Kan inspektions- och klagomålsärenden härledas till behov av resursskola?
+\-  Vilka ekonomiska konsekvenser innebär ett upprättande av resursskola?
 
 Enligt Skollagens 3 kapitel 2§ ska rektor tillse att alla elever ges den ledning och stimulans som de behöver i
 sitt lärande och sin personliga utveckling för att de utifrån sina egna förutsättningar ska kunna utvecklas så
@@ -1174,7 +1174,7 @@ hyra, el, vatten, sophämtning, måltid och städ inkluderad i kostnadsberäknin
 
 <!-- sida 34 -->
 
-*Snittkostnad på 50–80 elever
+\*Snittkostnad på 50–80 elever
 
 Initialt kommer den administrativa tiden för mottagningsteamet vara mycket större än ovanstående då alla
 ansökningar behöver behandlas och utredas utifrån elevens stödbehov.
@@ -1207,7 +1207,7 @@ innebära.
 | Studie och yrkesvägledare | 0,1 | 53 478 |
 | Mottaningsteam | 0,25 | 209 786 |
 | Administratör | 0,15 | 88 600 |
-| Taxi** | 65 elever | 6 942 000 |
+| Taxi\*\* | 65 elever | 6 942 000 |
 | Summa |  | 27 237 032 |
 
 <!-- sida 35 -->
@@ -3048,11 +3048,11 @@ En begäran enligt första stycket får göras endast om
 
 Författningsförslag                        SOU 2024:23
 
-1. det på grund av särskilda omständigheter kan befaras att åtgärden
+1\. det på grund av särskilda omständigheter kan befaras att åtgärden
 inte kan utföras utan att en polismans särskilda befogenheter enligt
 
 10 § polislagen (1984:387) behöver tillgripas, eller
-2. det annars finns synnerliga skäl.
+2\. det annars finns synnerliga skäl.
 
 Kontrollköp
 16 § Folkhälsomyndigheten får genomföra kontrollköp i syfte att
@@ -3095,13 +3095,13 @@ SOU 2024:23                              Författningsförslag
 Straffbestämmelser
 
 20 § Den som uppsåtligen eller av oaktsamhet
-1. säljer lustgas i större mängd än vad som föreskrivs i 4 §,
-2. säljer lustgas som kan antas användas som berusningsmedel en-
+1\. säljer lustgas i större mängd än vad som föreskrivs i 4 §,
+2\. säljer lustgas som kan antas användas som berusningsmedel en-
 ligt 5 §,
-3. säljer lustgas till den som inte uppnått föreskriven ålder enligt 6 §,
-4. bedriver detaljhandel med lustgas utan att ha anmält försäljningen
+3\. säljer lustgas till den som inte uppnått föreskriven ålder enligt 6 §,
+4\. bedriver detaljhandel med lustgas utan att ha anmält försäljningen
 enligt 8 §, eller
-5. säljer lustgas i strid mot ett meddelat försäljningsförbud enligt
+5\. säljer lustgas i strid mot ett meddelat försäljningsförbud enligt
 12 §
 
 ska dömas till böter eller fängelse i högst sex månader.
@@ -3115,15 +3115,15 @@ Bemyndiganden
 22 § Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om
 
-1. undantag från mängdbegränsningen enligt 4 § första stycket
+1\. undantag från mängdbegränsningen enligt 4 § första stycket
 och 7 §,
-2. skyldigheten att kontrollera att köparen är näringsidkare enligt
+2\. skyldigheten att kontrollera att köparen är näringsidkare enligt
 4 § andra och tredje styckena,
-3. skyldigheten att kontrollera köparens ålder enligt 6 § andra och
+3\. skyldigheten att kontrollera köparens ålder enligt 6 § andra och
 tredje styckena,
-4. utformningen av egenkontrollprogrammet enligt 9 §,
-5. genomförandet av kontrollköp enligt 16 §, och
-6. storleken på och betalningen av de avgifter Folkhälsomyndig-
+4\. utformningen av egenkontrollprogrammet enligt 9 §,
+5\. genomförandet av kontrollköp enligt 16 §, och
+6\. storleken på och betalningen av de avgifter Folkhälsomyndig-
 heten får ta ut enligt 18 §.
 
 Denna lag träder i kraft den 1 januari 2026.
@@ -3147,21 +3147,21 @@ Nuvarande lydelse     Föreslagen lydelse
 
 3 §1
 Lagen är tillämplig endast på följande varor:
-1. krigsmateriel som avses i lagen (1992:1300) om krigsmateriel,
+1\. krigsmateriel som avses i lagen (1992:1300) om krigsmateriel,
 och produkter som avses i lagen (2000:1064) om kontroll av produk-
 ter med dubbla användningsområden och av tekniskt bistånd,
-2. narkotika som avses i narkotikastrafflagen (1968:64),
-3. skjutvapen, ammunition och ljuddämpare som avses i vapenlagen
+2\. narkotika som avses i narkotikastrafflagen (1968:64),
+3\. skjutvapen, ammunition och ljuddämpare som avses i vapenlagen
 (1996:67) samt sådana vapen och andra föremål som anges i 1 kap. 3 §
 samma lag,
-4. injektionssprutor och kanyler,
-5. dopningsmedel som avses i lagen (1991:1969) om förbud mot
+4\. injektionssprutor och kanyler,
+5\. dopningsmedel som avses i lagen (1991:1969) om förbud mot
 vissa dopningsmedel,
-6. springstiletter, springknivar, knogjärn, kaststjärnor, riv- eller nit-
+6\. springstiletter, springknivar, knogjärn, kaststjärnor, riv- eller nit-
 handskar, batonger, karatepinnar, blydaggar, spikklubbor och liknande,
-7. kulturföremål som avses i 5 kap. kulturmiljölagen (1988:950),
-8. hundar och katter för annat ändamål än handel,
-9. spritdrycker, vin, starköl och 9. spritdrycker, vin, starköl och
+7\. kulturföremål som avses i 5 kap. kulturmiljölagen (1988:950),
+8\. hundar och katter för annat ändamål än handel,
+9\. spritdrycker, vin, starköl och 9. spritdrycker, vin, starköl och
 andra jästa alkoholdrycker, teknisk andra jästa alkoholdrycker, teknisk
 sprit och alkoholhaltiga preparat sprit och alkoholhaltiga preparat
 enligt alkohollagen (2010:1622), enligt alkohollagen (2010:1622),
@@ -3188,26 +3188,26 @@ nikotinprodukter,     troll av mängdbegränsningen och
 
 åldersgränsen i 7 § lagen (2026:000)
 om lustgas,
-10. nötkreatur, svin, får, getter, fjäderfän, fisk och reptiler,
-11. andra djur än sådana som anges ovan och produkter av djur,
+10\. nötkreatur, svin, får, getter, fjäderfän, fisk och reptiler,
+11\. andra djur än sådana som anges ovan och produkter av djur,
 om det finns särskild anledning att misstänka att smittsam sjukdom
 förekommer, att djuret eller djurprodukten på annat sätt utgör en
 allvarlig hälsorisk för människor eller djur, att medföljande dokument
 är ofullständiga eller felaktiga, att erforderliga dokument saknas eller
 att de villkor som i övrigt gäller för införseln inte är uppfyllda,
-12. barnpornografi enligt lagen (1998:1443) om förbud mot in-
+12\. barnpornografi enligt lagen (1998:1443) om förbud mot in-
 försel och utförsel av barnpornografi,
-13. varor som avses i lagen (1999:42) om förbud mot vissa hälso-
+13\. varor som avses i lagen (1999:42) om förbud mot vissa hälso-
 farliga varor,
-14. varor som ska beskattas enligt lagen (2014:1470) om beskatt-
+14\. varor som ska beskattas enligt lagen (2014:1470) om beskatt-
 ning av viss privatinförsel av cigaretter,
-15. sprängämnesprekursorer enligt artikel 5.1 i Europaparlamentets
+15\. sprängämnesprekursorer enligt artikel 5.1 i Europaparlamentets
 och rådets förordning (EU) 2019/1148 av den 20 juni 2019 om salu-
 föring och användning av sprängämnesprekursorer, om ändring av
 förordning (EG) nr 1907/2006 och om upphävande av förordning
 (EU) nr 98/2013, i den ursprungliga lydelsen och 3 § lagen (2014:799)
 om sprängämnesprekursorer,
-16. explosiva varor som avses i lagen (2010:1011) om brandfarliga
+16\. explosiva varor som avses i lagen (2010:1011) om brandfarliga
 och explosiva varor.
 
 Denna lag träder i kraft den 1 januari 2026.
@@ -3365,23 +3365,23 @@ sättning att
 
 SOU 2024:23                              Författningsförslag
 
-1. arrangören har ett stadig- 1. arrangören har ett stadig-
+1\. arrangören har ett stadig- 1. arrangören har ett stadig-
 varande serveringstillstånd som varande serveringstillstånd som
 
 omfattar de drycker eller preparat omfattar de drycker eller preparat
 som provsmakningen avser samt som provsmakningen avser samt
 den lokal där provsmakningen den lokal där provsmakningen
 ska äga rum, eller    ska äga rum,
-2. de partihandlare som deltar 2. de partihandlare som deltar
+2\. de partihandlare som deltar 2. de partihandlare som deltar
 enskilt eller gemensamt ansöker enskilt eller gemensamt ansöker
 om och får ett tillfälligt tillstånd om och får ett tillfälligt tillstånd
 för provsmakning av de drycker för provsmakning av de drycker
 eller preparat som avses erbju- eller preparat som avses erbju-
 das.                  das,
-3. arrangören är en tillverkare
+3\. arrangören är en tillverkare
 av folköl och provsmakningen av-
 ser folköl, eller
-4. arrangören har uppfyllt kraven
+4\. arrangören har uppfyllt kraven
 i 8 § för att få servera folköl.
 Tillståndshavare som avses i Arrangörer som avses i första
 första stycket 1 ska innan arrange- stycket 1, 3 och 4 ska innan arr-
@@ -3663,15 +3663,15 @@ Kommunerna får ha direkt-
 som behövs för deras tillstånds-
 prövning och tillsyn.
 
-1. Denna lag träder i kraft den 1 juli 2026.
-2. En näringsidkare som före lagens ikraftträdande bedriver alko-
+1\. Denna lag träder i kraft den 1 juli 2026.
+2\. En näringsidkare som före lagens ikraftträdande bedriver alko-
 holservering på ett svenskt fartyg i trafik mellan Sverige och utlandet
 får fortsätta bedriva sådan servering om näringsidkaren senast den
 30 september 2026 ansöker om serveringstillstånd. Har en ansökan
 om serveringstillstånd kommit in till tillståndsmyndigheten före detta
 datum, får alkoholserveringen fortsätta till dess beslut i tillstånds-
 frågan meddelats.
-3. Den som bedriver cateringverksamhet och som redan har an-
+3\. Den som bedriver cateringverksamhet och som redan har an-
 mält serveringslokalen och fått den godkänd av kommunen före ikraft-
 trädandet behöver inte göra en ny anmälan för ett serveringstillfälle
 efter ikraftträdandet.
@@ -3803,10 +3803,10 @@ kommunens tillsyn enligt 3 § 3. kommunens tillsyn enligt 3 a § 1.
 Länsstyrelsen utövar inom lä- Länsstyrelsen utövar tillsyn
 net tillsyn enligt 3 och 4 §§. I till- inom länet över kommunernas till-
 synen ingår att       synsverksamhet och tillståndspröv-
-1. följa kommunernas verksam- ning.
+1\. följa kommunernas verksam- ning.
 het och biträda kommunerna med
 information och råd, och
-2. främja samarbete mellan olika
+2\. främja samarbete mellan olika
 tillsynsmyndigheter och mellan till-
 synsmyndigheter och andra.
 Länsstyrelsen ska också biträda
@@ -3830,32 +3830,32 @@ att denna lag och anslutande före- att bestämmelserna i 2 och 3 kap.
 skrifter följs när det gäller och anslutande föreskrifter följs
 på fysiska försäljningsställen när det
 gäller
-1. hälsovarningar, produktpre- 1. produktkrav enligt 2 kap. 1 §
+1\. hälsovarningar, produktpre- 1. produktkrav enligt 2 kap. 1 §
 sentation och identitets- och säker- första och andra styckena och 8 §,
 hetsmärkning enligt 3 kap. 1, 3, 4
 och 7 §§ på fysiska försäljnings-
 ställen,
-2. tillhandahållande av elektro- 2. produktanmälan enligt 2 kap.
+2\. tillhandahållande av elektro- 2. produktanmälan enligt 2 kap.
 niska cigaretter och påfyllnings- 3 och 7 §§,
 behållare enligt 2 kap. 7–9 §§ och
 3 kap. 2, 5 och 6 §§ på fysiska för-
 säljningsställen,
-3. marknadsföring enligt 4 kap. 3. rapporteringsskyldighet enligt
+3\. marknadsföring enligt 4 kap. 3. rapporteringsskyldighet enligt
 1, 2 och 4–7 §§ när det gäller mark- 2 kap. 2, 4, 6 och 9 §§,
 nadsföringsåtgärder på eller i anslut-
 ning till fysiska försäljningsställen,
 och
-4. rökfria miljöer som avses i 4. hälsovarningar enligt 3 kap.
+4\. rökfria miljöer som avses i 4. hälsovarningar enligt 3 kap.
 6 kap. 2 § och som inte är upp- 1 och 2 §§,
 låtna enbart för personal samt loka-
 ler som avses i 6 kap. 3 §.
-5. märkning enligt 3 kap. 3 och
+5\. märkning enligt 3 kap. 3 och
 
 4 §§,
-6. informationsblad och inne-
+6\. informationsblad och inne-
 hållsdeklaration enligt 3 kap. 5 och
 6 §§, och
-7. spårbarhet och säkerhetsmärk-
+7\. spårbarhet och säkerhetsmärk-
 ning enligt 3 kap. 7 §.
 
 3 a §
@@ -3874,14 +3874,14 @@ Författningsförslag                        SOU 2024:23
 och anslutande föreskrifter följs när
 det gäller
 
-1. marknadsföring på eller i an-
+1\. marknadsföring på eller i an-
 slutning till fysiska försäljnings-
 ställen enligt 4 kap. 1, 2 och 4–7 §§,
-2. rökfria miljöer enligt 6 kap.
+2\. rökfria miljöer enligt 6 kap.
 2 § som inte är upplåtna enbart för
 personal samt lokaler enligt 6 kap.
 3 §, och
-3. rök- och tobaksfri skoltid enligt
+3\. rök- och tobaksfri skoltid enligt
 6 kap. 11 §.
 
 4 §4
@@ -3890,25 +3890,25 @@ heten utövar tillsyn över att denna heten utövar tillsammans eller var
 lag och anslutande föreskrifter följs och en för sig tillsyn över att be-
 när det gäller        stämmelserna i 5 kap. och anslut-
 ande föreskrifter följs när det gäller
-1. tillhandahållande av nya 1. försäljningstillstånd enligt
+1\. tillhandahållande av nya 1. försäljningstillstånd enligt
 tobaksvaror enligt 2 kap. 3 § på 5 kap. 1, 2, 8 och 9 §§,
 fysiska försäljningsställen,
-2. försäljning av tobaksvaror, i 2. anmälan om försäljning enligt
+2\. försäljning av tobaksvaror, i 2. anmälan om försäljning enligt
 andra fall än när det gäller gräns- 5 kap. 14 §,
 överskridande distansförsäljning,
 enligt 5 kap. 1, 6–10, 12 och 13 §§,
-3. anmälan om försäljning av 3. egenkontroll som inte avser
+3\. anmälan om försäljning av 3. egenkontroll som inte avser
 elektroniska cigaretter och påfyll- gränsöverskridande distansförsälj-
 ningsbehållare samt egenkontroll, ning enligt 5 kap. 6, 7 och 16 §§,
 i andra fall än när det gäller gräns-
 överskridande distansförsäljning,
 
 enligt 5 kap. 14 och 16 §§, och
-4. åldersgräns enligt 5 kap. 17 4. kontrollskyldighet enligt 5 kap.
+4\. åldersgräns enligt 5 kap. 17 4. kontrollskyldighet enligt 5 kap.
 och 18 §§.            10 §,
-5. informationsskyldighet enligt
+5\. informationsskyldighet enligt
 5 kap. 12 §,
-6. styckförsäljning enligt 5 kap.
+6\. styckförsäljning enligt 5 kap.
 13 §,
 
 4 Senaste lydelse 2022:1262.
@@ -3919,10 +3919,10 @@ och 18 §§.            10 §,
 
 SOU 2024:23                              Författningsförslag
 
-7. åldersgräns enligt 5 kap. 17
+7\. åldersgräns enligt 5 kap. 17
 och 18 §§, och
 
-8. förvaringsförbud enligt 5 kap.
+8\. förvaringsförbud enligt 5 kap.
 21 §.
 5 §5
 
@@ -3930,11 +3930,11 @@ Folkhälsomyndigheten utövar Folkhälsomyndigheten utövar
 tillsyn över att denna lag och an- tillsyn över att bestämmelserna i
 slutande föreskrifter följs när det 2 och 3 kap. och anslutande före-
 gäller                skrifter följs om det inte är fråga
-1. produktkrav och rapporter- om tillsyn som ska utövas av kom-
+1\. produktkrav och rapporter- om tillsyn som ska utövas av kom-
 ingsskyldighet, i andra fall än som munen på ett fysiskt försäljnings-
 avses i 4 §, enligt 2 kap. 1 § första och ställe enligt 3 §.
 andra styckena och 2 kap. 2–11 §§,
-2. hälsovarningar, produktpre-
+2\. hälsovarningar, produktpre-
 sentation och medföljande infor-
 mation, i andra fall än som avses i
 3 §, enligt 3 kap. 1–6 §§,
@@ -3942,12 +3942,12 @@ Folkhälsomyndigheten utövar
 även tillsyn över att bestämmel-
 serna i 5 och 11 kap. och anslutande
 föreskrifter följs när det gäller
-3. registrering enligt 5 kap. 5 och 1. registrering och egenkontroll
+3\. registrering enligt 5 kap. 5 och 1. registrering och egenkontroll
 15 §§ vid gränsöverskridande dis- vid gränsöverskridande distansför-
 tansförsäljning och egenkontroll en- säljning enligt 5 kap. 5–7, 15 och
 ligt 5 kap. 6, 7 och 16 §§ vid sådan 16 §§, och
 distansförsäljning, och
-4. förbud mot sådan tillverk- 2. förbud mot sådan tillverk-
+4\. förbud mot sådan tillverk- 2. förbud mot sådan tillverk-
 ning eller införsel som avses enligt ning eller införsel som avses enligt
 föreskrifter meddelade med stöd föreskrifter meddelade med stöd
 
@@ -3979,18 +3979,18 @@ till fängelse.
 10 §6
 En kommun får återkalla ett En kommun ska återkalla ett
 försäljningstillstånd om försäljningstillstånd om
-1. tillståndet inte längre utnyttjas,
-2. tillståndshavaren inte upp- 2. tillståndshavaren genom en
+1\. tillståndet inte längre utnyttjas,
+2\. tillståndshavaren inte upp- 2. tillståndshavaren genom en
 fyller de krav som gällde för till- allvarlig eller upprepad överträd-
 ståndets meddelande,  else har underlåtit att uppfylla de
 krav som gäller för tillståndet eller
 på annat sätt har brutit mot denna
 lag eller anslutande föreskrifter,
-3. det med tillståndshavarens vetskap har förekommit brottslig
+3\. det med tillståndshavarens vetskap har förekommit brottslig
 verksamhet på det fysiska försäljningsstället, eller i anslutning till
 detta, eller annars inom den tillståndspliktiga verksamheten utan att
 tillståndshavaren har ingripit, eller
-4. tillståndshavaren har till- 4. tillståndshavaren har till-
+4\. tillståndshavaren har till- 4. tillståndshavaren har till-
 delats varning utan att de för- delats en eller flera varningar utan
 hållanden som föranlett varningen att de förhållanden som föranlett
 har rättats till.     varningen har rättats till.
@@ -4239,7 +4239,7 @@ andra stycket.
 Länsstyrelsen utövar tillsyn Länsstyrelsen utövar tillsyn
 inom länet enligt 24 och 25 §§. inom länet över kommunernas till-
 I tillsynen ingår att synsverksamhet.
-1. följa kommunernas verksam-
+1\. följa kommunernas verksam-
 het och biträda kommunerna med
 information och råd, och
 
@@ -4249,7 +4249,7 @@ information och råd, och
 
 Författningsförslag                        SOU 2024:23
 
-2. främja samarbete mellan olika
+2\. främja samarbete mellan olika
 tillsynsmyndigheter och mellan till-
 
 synsmyndigheter och andra.
@@ -4265,12 +4265,12 @@ Kommunen utövar tillsyn på Kommunen utövar tillsyn över
 fysiska försäljningsställen över att att denna lag och anslutande före-
 denna lag och anslutande föreskrif- skrifter följs på fysiska försäljnings-
 ter följs när det gäller ställen när det gäller
-1. produktanmälan enligt 5 §,
-2. produktkrav enligt 6 §, 2. produktkrav enligt 6 och
+1\. produktanmälan enligt 5 §,
+2\. produktkrav enligt 6 §, 2. produktkrav enligt 6 och
 6 a §§,
-3. innehållsdeklaration, hälsovarning och märkning enligt 7 och
+3\. innehållsdeklaration, hälsovarning och märkning enligt 7 och
 8 §§, och
-4. rapporteringsskyldighet enligt 14 §.
+4\. rapporteringsskyldighet enligt 14 §.
 Kommunen utövar även till-
 syn på eller i anslutning till fysiska
 försäljningsställen över att denna
@@ -4283,10 +4283,10 @@ Kommunen utövar även tillsyn
 
 över att denna lag och anslutande
 föreskrifter följs när det gäller
-1. marknadsföring på eller i an-
+1\. marknadsföring på eller i an-
 slutning till fysiska försäljnings-
 ställen enligt 9 och 10 §§, och
-2. nikotinfri skoltid enligt 21 b §.
+2\. nikotinfri skoltid enligt 21 b §.
 
 68
 
@@ -4301,14 +4301,14 @@ heten utövar tillsyn över att denna heten utövar tillsammans eller var
 lag och anslutande föreskrifter följs och en för sig tillsyn över att denna
 när det gäller        lag och anslutande föreskrifter följs
 när det gäller
-1. anmälan om försäljning och 1. anmälan om försäljning och
+1\. anmälan om försäljning och 1. anmälan om försäljning och
 egenkontroll enligt 17 och 18 §§ egenkontroll enligt 17 och 18 §§
 när näringsidkaren har säte eller när näringsidkaren har säte eller
 fast försäljningsställe för närings- fast försäljningsställe för närings-
 verksamhet i Sverige, och verksamhet i Sverige,
-2. förvaringsförbud enligt 18 a §,
+2\. förvaringsförbud enligt 18 a §,
 och
-2. ålderskrav enligt 19 och 3. ålderskrav enligt 19 och
+2\. ålderskrav enligt 19 och 3. ålderskrav enligt 19 och
 20 §§.                20 §§.
 
 26 §
@@ -4319,17 +4319,17 @@ gäller                är uppfyllda om det inte är fråga
 om tillsyn som ska utövas av kom-
 munen på ett fysiskt försäljnings-
 ställe enligt 24 §.
-1. produktanmälan, produkt- Folkhälsomyndigheten utövar
+1\. produktanmälan, produkt- Folkhälsomyndigheten utövar
 krav, rapporteringsskyldighet och även tillsyn över att bestämmel-
 produktkontroll enligt 5, 6 och serna och anslutande föreskrifter följs
 14–16 §§, i andra fall än som avses när det gäller
 i 24 § första stycket,
-2. innehållsdeklaration, hälso- 1. produktkontroll enligt 15 och
+2\. innehållsdeklaration, hälso- 1. produktkontroll enligt 15 och
 
 varning och märkning enligt 7 och 16 §§, och
 8 §§, i andra fall än som avses i
 24 § första stycket, och
-3. anmälan om försäljning och 2. anmälan om försäljning och
+3\. anmälan om försäljning och 2. anmälan om försäljning och
 egenkontroll enligt 17 och 18 §§ egenkontroll enligt 17 och 18 §§
 när näringsidkaren saknar säte eller när näringsidkaren saknar säte eller
 fast driftställe för näringsverksam- fast driftställe för näringsverksam-
@@ -4453,8 +4453,8 @@ med 21 a § ska vara fri från an-
 svar för medverkan till brott som
 avses i detta kapitel.
 
-1. Denna lag träder i kraft den 1 juli 2026.
-2. Styckförpackningar med färre än 20 portionsförpackade tobaksfria
+1\. Denna lag träder i kraft den 1 juli 2026.
+2\. Styckförpackningar med färre än 20 portionsförpackade tobaksfria
 nikotinprodukter som har tillverkats före ikraftträdandet ska få fort-
 sätta tillhandahållas konsumenter på marknaden efter ikraftträdan-
 det, dock längst till och med den 31 december 2026.
@@ -4493,13 +4493,13 @@ skilda fallet besluta att en avgift ska sättas ned eller efterskänkas.
 Bemyndigande
 
 5 § Folkhälsomyndigheten får meddela ytterligare föreskrifter om
-1. undantag från mängdbegränsningen enligt 4 § första stycket och
+1\. undantag från mängdbegränsningen enligt 4 § första stycket och
 7 § lagen (2026:000) om lustgas,
-2. skyldigheten att kontrollera att köparen är näringsidkare enligt
+2\. skyldigheten att kontrollera att köparen är näringsidkare enligt
 4 § andra och tredje styckena lagen om lustgas,
-3. skyldigheten att kontrollera köparens ålder enligt 6 § lagen om
+3\. skyldigheten att kontrollera köparens ålder enligt 6 § lagen om
 lustgas,
-4. utformningen av egenkontrollprogrammet enligt 9 § lagen om
+4\. utformningen av egenkontrollprogrammet enligt 9 § lagen om
 l ustgas,
 
 73
@@ -4508,8 +4508,8 @@ l ustgas,
 
 Författningsförslag                        SOU 2024:23
 
-5. genomförandet av kontrollköp enligt 16 § lagen om lustgas, och
-6. storleken på de avgifter som Folkhälsomyndigheten får ta ut
+5\. genomförandet av kontrollköp enligt 16 § lagen om lustgas, och
+6\. storleken på de avgifter som Folkhälsomyndigheten får ta ut
 
 för sin tillsyn enligt 18 § lagen om lustgas.
 
@@ -4535,7 +4535,7 @@ Bilaga1
 Verksamheten består i Särskilda begränsningar i sekre-
 tessen
 
-61. tillsyn enligt lagen (2018:2088) sekretessen gäller inte för upp-
+61\. tillsyn enligt lagen (2018:2088) sekretessen gäller inte för upp-
 om tobak och liknande produk- gifter som ska offentliggöras en-
 ter eller enligt motsvarande äldre ligt 2 kap. 1 och 8 §§ förord-
 föreskrifter          ningen (2019:223) om tobak och
@@ -4547,7 +4547,7 @@ Bilaga
 Verksamheten består i Särskilda begränsningar i sekre-
 tessen
 
-61. tillsyn enligt lagen (2018:2088) sekretessen gäller inte för Folk-
+61\. tillsyn enligt lagen (2018:2088) sekretessen gäller inte för Folk-
 om tobak och liknande produk- hälsomyndighetens och länsstyrel-
 ter eller enligt motsvarande äldre sens beslut i ärenden
 föreskrifter          sekretessen gäller inte för upp-
@@ -4564,7 +4564,7 @@ nande produkter
 
 Författningsförslag                        SOU 2024:23
 
-173. tillsyn enligt lagen (2026:000) sekretessen gäller inte beslut i ären-
+173\. tillsyn enligt lagen (2026:000) sekretessen gäller inte beslut i ären-
 om lustgas            den
 
 Nuvarande lydelse
@@ -4604,23 +4604,23 @@ Nuvarande lydelse     Föreslagen lydelse
 
 4 §1
 Folkhälsomyndigheten får meddela föreskrifter om
-1. kunskapsprov för erhållande av serveringstillstånd samt om
+1\. kunskapsprov för erhållande av serveringstillstånd samt om
 undantag från skyldigheten att avlägga sådant prov enligt 8 kap. 12 §
 alkohollagen (2010:1622),
-2. vilka uppgifter som till- 2. vilka uppgifter som till-
+2\. vilka uppgifter som till- 2. vilka uppgifter som till-
 ståndshavare och andra som be- ståndshavare och andra som be-
 driver verksamhet med stöd av driver verksamhet med stöd av
 alkohollagen ska lämna för att alkohollagen ska lämna för att
 myndigheten ska kunna bedriva myndigheten ska kunna bedriva
 tillsyn enligt 9 kap. 1 § alkohol- tillsyn enligt 9 kap. 1 a § alkohol-
 lagen,                lagen,
-3. vilka uppgifter som ska finnas i ett bevis om tillstånd som en
+3\. vilka uppgifter som ska finnas i ett bevis om tillstånd som en
 kommun har meddelat enligt 9 kap. 7 § alkohollagen,
-4. anlitande av kontrollbolag vid handel med teknisk sprit enligt
+4\. anlitande av kontrollbolag vid handel med teknisk sprit enligt
 6 kap. 10 § 2 alkohollagen,
-5. denaturering av teknisk sprit och alkoholhaltiga preparat och i
+5\. denaturering av teknisk sprit och alkoholhaltiga preparat och i
 vilka fall denaturering får underlåtas enligt 6 kap. 10 § 3 alkohollagen,
-6. handel i övrigt med teknisk 6. handel i övrigt med teknisk
+6\. handel i övrigt med teknisk 6. handel i övrigt med teknisk
 sprit och alkoholhaltiga preparat sprit och alkoholhaltiga preparat
 som behövs till skydd för liv och som behövs till skydd för liv och
 hälsa enligt 6 kap. 10 § 4 alko- hälsa enligt 6 kap. 10 § 4 alko-
@@ -4638,15 +4638,15 @@ lagen.                lagen,
 
 Författningsförslag                        SOU 2024:23
 
-8. mängden alkohol som får ser-
+8\. mängden alkohol som får ser-
 veras vid provsmakning enligt
 
 8 kap. 6 och 7 §§ alkohollagen,
-9. hur lokaler och andra server-
+9\. hur lokaler och andra server-
 ingsutrymmen enligt 8 kap. 14 §
 alkohollagen ska vara utformade,
 och
-10. vad som avses med
+10\. vad som avses med
 – eget kök i anslutning till ser-
 veringslokalen,
 – tillagad eller på annat sätt
@@ -4674,10 +4674,10 @@ alkohollagen.
 13 §
 Följande informationstexter ska användas i annonser i de fall som
 avses i 7 kap. 7 § alkohol-lagen (2010:1622).
-1. Alkohol kan skada din hälsa.
-2. Alkohol är beroendefram- 1. Alkohol är beroendefram-
+1\. Alkohol kan skada din hälsa.
+2\. Alkohol är beroendefram- 1. Alkohol är beroendefram-
 kallande.             kallande.
-3. Alkohol kan orsaka nerv- 2. Alkohol kan orsaka nerv-
+3\. Alkohol kan orsaka nerv- 2. Alkohol kan orsaka nerv-
 och hjärnskador.      och hjärnskador.
 
 78
@@ -4686,24 +4686,24 @@ och hjärnskador.      och hjärnskador.
 
 SOU 2024:23                              Författningsförslag
 
-4. Alkohol kan orsaka skador 3. Alkohol kan orsaka skador
+4\. Alkohol kan orsaka skador 3. Alkohol kan orsaka skador
 på lever och bukspottskörtel. på lever och bukspottskörtel.
 
-5. Alkohol kan orsaka hjärn- 4. Alkohol kan orsaka hjärn-
+5\. Alkohol kan orsaka hjärn- 4. Alkohol kan orsaka hjärn-
 blödning och cancer.  blödning och cancer.
-6. Varannan förare som om- 5. Varannan förare som om-
+6\. Varannan förare som om- 5. Varannan förare som om-
 kommer i singelolyckor i trafi- kommer i singelolyckor i trafi-
 ken är alkoholpåverkad. ken är alkoholpåverkad.
-7. Hälften av alla som drunk- 6. Hälften av alla som drunk-
+7\. Hälften av alla som drunk- 6. Hälften av alla som drunk-
 nar har alkohol i blodet. nar har alkohol i blodet.
-8. Alkohol i samband med arbete
+8\. Alkohol i samband med arbete
 ökar risken för olyckor.
-9. Alkoholkonsumtion under 7. Alkoholkonsumtion under
+9\. Alkoholkonsumtion under 7. Alkoholkonsumtion under
 graviditeten kan skada barnet. graviditeten kan skada barnet.
-10. Barn som får alkohol 8. Barn som får alkohol
+10\. Barn som får alkohol 8. Barn som får alkohol
 hemma dricker sig berusade oftare hemma dricker sig berusade oftare
 än andra barn.        än andra barn.
-11. Att börja dricka i tidig ålder
+11\. Att börja dricka i tidig ålder
 ökar risken för alkoholproblem.
 
 Direktåtkomst
@@ -4782,14 +4782,14 @@ ter lämnar uppgifter till Folkhälso- ter lämnar uppgifter till Folkhälso-
 myndigheten ska, för varje märke myndigheten ska, för varje märke
 och typ, betala en avgift till Folk- och typ, betala en avgift till Folk-
 hälsomyndigheten      hälsomyndigheten med
-1. med 14 500 kronor avseende 1. X kronor avseende ciga-
+1\. med 14 500 kronor avseende 1. X kronor avseende ciga-
 cigaretter,           retter,
-2. med 14 500 kronor avseende 2. X kronor avseende rulltobak,
+2\. med 14 500 kronor avseende 2. X kronor avseende rulltobak,
 rulltobak,              3. X kronor avseende tobak
-3. med 13 000 kronor avseende för användning i munnen, och
+3\. med 13 000 kronor avseende för användning i munnen, och
 tobak för användning i munnen, 4. X kronor avseende tobaks-
 och                   varor som inte omfattas av 1–3.
-4. med 13 000 kronor avseende
+4\. med 13 000 kronor avseende
 tobaksvaror som inte omfattas
 av 1–3.
 
@@ -4801,15 +4801,15 @@ gifter till Folkhälsomyndigheten gifter till Folkhälsomyndigheten
 ska, för varje märke och typ, be- ska, för varje märke och typ, be-
 tala en årlig avgift till Folkhälso- tala en årlig avgift till Folkhälso-
 myndigheten           myndigheten med
-1. med 12 000 kronor avseende 1. X kronor avseende ciga-
+1\. med 12 000 kronor avseende 1. X kronor avseende ciga-
 cigaretter,           retter,
-2. med 6 000 kronor avseende 2. X kronor avseende rull-
+2\. med 6 000 kronor avseende 2. X kronor avseende rull-
 
 rulltobak,            tobak,
-3. med 1 000 kronor avseende 3. X kronor avseende tobak
+3\. med 1 000 kronor avseende 3. X kronor avseende tobak
 tobak för användning i munnen, för användning i munnen, och
 och
-4. med 1 500 kronor avseende 4. X kronor avseende tobaks-
+4\. med 1 500 kronor avseende 4. X kronor avseende tobaks-
 tobaksvaror som inte omfattas varor som inte omfattas av 1–3.
 av 1–3.
 
@@ -4842,8 +4842,8 @@ vara fullgjord.
 Om det finns särskilda skäl, får Folkhälsomyndigheten i det en-
 skilda fallet besluta att en avgift ska sättas ned eller efterskänkas.
 
-1. Denna förordning träder i kraft den 1 juli 2026.
-2. Tobaksnus som innehåller en högre halt nikotin än 12 milli-
+1\. Denna förordning träder i kraft den 1 juli 2026.
+2\. Tobaksnus som innehåller en högre halt nikotin än 12 milli-
 gram per gram och som har tillverkats före ikraftträdandet ska få fort-
 sätta tillhandahållas konsumenter på marknaden efter ikraftträdandet,
 dock längst till och med den 31 december 2026.
@@ -4866,9 +4866,9 @@ Nuvarande lydelse     Föreslagen lydelse
 7 §1
 
 Tobaksfria nikotinprodukter får inte innehålla
-1. vitaminer eller andra tillsatser som ger intryck av att en tobaks-
+1\. vitaminer eller andra tillsatser som ger intryck av att en tobaks-
 fri nikotinprodukt innebär en hälsofördel eller minskade hälsorisker,
-2. koffein, taurin eller andra tillsatser eller stimulerande ämnen
+2\. koffein, taurin eller andra tillsatser eller stimulerande ämnen
 som är förknippade med energi och vitalitet.
 Nikotinsnus får inte innehålla
 mer nikotin än 12 milligram per
@@ -4887,8 +4887,8 @@ utförd tillsyn. Om tillsynen under- tas ut efter utförd tillsyn. Om till-
 stiger en halvtimme ska avgift inte synen understiger en halvtimme
 tas ut.               ska avgift inte tas ut.
 
-1. Denna förordning träder i kraft den 1 juli 2026.
-2. Nikotinsnus som innehåller en högre halt nikotin än 12 milli-
+1\. Denna förordning träder i kraft den 1 juli 2026.
+2\. Nikotinsnus som innehåller en högre halt nikotin än 12 milli-
 gram per gram och som har tillverkats före ikraftträdandet ska få
 fortsätta tillhandahållas konsumenter på marknaden efter ikraftträdan-
 det, dock längst till och med den 31 december 2026.
@@ -8190,7 +8190,7 @@ Användningen av tobakssnus och nikotinsnus har under de senaste
 åren ökat både bland ungdomar och vuxna. Detta framgår av CAN:s
 senaste rapporter om Tobaks- och nikotinutvecklingen i Sverige 2023
 och Den totala konsumtionen av cigaretter och snus i Sverige 2003–
-2022. Av den sist nämnda rapporten som bygger på försäljnings-
+2022\. Av den sist nämnda rapporten som bygger på försäljnings-
 statistik framgår att konsumtionen av det traditionella tobakssnuset
 har ökat under den studerade perioden. Uppgången är speciellt tydlig
 när konsumtionen mäts i antal dosor. Antal konsumerade snusdosor
@@ -10788,22 +10788,22 @@ dela föreskrifter om vilka texter som ska återges och hur dessa ska ut-
 formas.
 I 13 § alkoholförordningen (2010:1636) anges elva alternativ som
 annonsörerna har att välja bland:
-1. Alkohol kan skada din hälsa.
+1\. Alkohol kan skada din hälsa.
 
-2. Alkohol är beroendeframkallande.
-3. Alkohol kan orsaka nerv- och hjärnskador.
+2\. Alkohol är beroendeframkallande.
+3\. Alkohol kan orsaka nerv- och hjärnskador.
 
-4. Alkohol kan orsaka skador på lever och bukspottskörtel.
-5. Alkohol kan orsaka hjärnblödning och cancer.
+4\. Alkohol kan orsaka skador på lever och bukspottskörtel.
+5\. Alkohol kan orsaka hjärnblödning och cancer.
 
-6. Varannan förare som omkommer i singelolyckor i trafiken är
+6\. Varannan förare som omkommer i singelolyckor i trafiken är
 alkoholpåverkad.
-7. Hälften av alla som drunknar har alkohol i blodet.
+7\. Hälften av alla som drunknar har alkohol i blodet.
 
-8. Alkohol i samband med arbete ökar risken för olyckor.
-9. Alkoholkonsumtion under graviditeten kan skada barnet.
+8\. Alkohol i samband med arbete ökar risken för olyckor.
+9\. Alkoholkonsumtion under graviditeten kan skada barnet.
 
-10. Barn som får alkohol hemma dricker sig berusade oftare än andra
+10\. Barn som får alkohol hemma dricker sig berusade oftare än andra
 barn.
 1 1. Att börja dricka i tidig ålder ökar risken för alkoholproblem.
 
@@ -11000,10 +11000,10 @@ av alkoholdrycker
 
 Utredningens förslag: Det ska vara förbjudet att i kommersiellt
 syfte främja
-1. detaljhandel med spritdrycker, vin, starköl och andra jästa alko-
+1\. detaljhandel med spritdrycker, vin, starköl och andra jästa alko-
 holdrycker, och
 
-2. införsel av dessa drycker och alkoholdrycksliknande preparat
+2\. införsel av dessa drycker och alkoholdrycksliknande preparat
 som görs av en enskild person för dennes eller dennes familjs
 personliga bruk genom yrkesmässig befordran eller annan obe-
 roende mellanhand från ett annat EES-land.
@@ -11092,7 +11092,7 @@ burit genomgripande förändringar av konsumenters köpbeteenden.
 Den svenska e-handeln har vuxit och växer snabbt. E-handeln med
 alkoholdrycker har fördubblats i omfattning mellan åren 2015 och
 
-2019. Covid-19-pandemin innebar ytterligare förstärkning av den ut-
+2019\. Covid-19-pandemin innebar ytterligare förstärkning av den ut-
 vecklingen. Under år 2020 hade Systembolagets digitala försäljnings-
 kanaler närmare 80 miljoner besök.
 Digitaliseringen och förändrade köpbeteenden har inneburit nya
@@ -11559,26 +11559,26 @@ alkoholdrycksliknande preparat som är skattepliktiga enligt lagen
 
 vin, starköl, andra jästa alkoholdrycker och alkoholdrycksliknande
 preparat också får föras in i landet
-1. av den som har rätt till tullfrihet enligt 4 § lagen (1994:1547) om
+1\. av den som har rätt till tullfrihet enligt 4 § lagen (1994:1547) om
 tullfrihet m.m.,
 
-2. av en enskild person som har fyllt 20 år och som har förvärvat
+2\. av en enskild person som har fyllt 20 år och som har förvärvat
 dryckerna och själv transporterar dem till Sverige, eller som utför
 arbete på transportmedel, om dryckerna är avsedda för dennes
 eller dennes familjs personliga bruk eller som gåva till närstående
 för dennes eller dennes familjs personliga bruk,
-3. som proviant på fartyg eller luftfartyg enligt särskilda bestäm-
+3\. som proviant på fartyg eller luftfartyg enligt särskilda bestäm-
 melser,
 
-4. av en enskild person eller i yrkesmässig befordran för en enskild
+4\. av en enskild person eller i yrkesmässig befordran för en enskild
 person som har fyllt 20 år och som flyttat till Sverige, om dryck-
 erna är avsedda för dennes eller dennes familjs personliga bruk,
-5. av en enskild person eller i yrkesmässig befordran för en enskild
+5\. av en enskild person eller i yrkesmässig befordran för en enskild
 person som har fyllt 20 år och som har förvärvat dryckerna
 genom arv eller testamente, om dryckerna är avsedda för dennes
 
 eller dennes familjs personliga bruk,
-6. som enstaka gåvoförsändelse under yrkesmässig befordran från
+6\. som enstaka gåvoförsändelse under yrkesmässig befordran från
 en enskild person i ett annat land till en enskild person i Sverige
 som har fyllt 20 år, om dryckerna är avsedda för dennes eller
 dennes familjs personliga bruk,
@@ -11589,13 +11589,13 @@ dennes familjs personliga bruk,
 
 SOU 2024:23                                    Alkohol
 
-7. av en enskild person som har fyllt 20 år genom yrkesmässig be-
+7\. av en enskild person som har fyllt 20 år genom yrkesmässig be-
 fordran eller annan oberoende mellanhand, om införseln sker
 
 från ett annat land inom Europeiska ekonomiska samarbetsom-
 rådet och dryckerna är avsedda för dennes eller dennes familjs
 personliga bruk, och
-8. av den som har tillstånd enligt lagen (1999:446) om proviantering
+8\. av den som har tillstånd enligt lagen (1999:446) om proviantering
 av fartyg och luftfartyg, om dryckerna är avsedda för användning
 i enlighet med tillståndet.
 
@@ -12370,7 +12370,7 @@ Alkohol                                    SOU 2024:23
 5.10.3 Någon sanktionsmöjlighet bör inte införas
 
 Folkhälsomyndigheten har i en hemställan till regeringen (S2019/
-05282) uppgett att 77 procent av verksamhetsutövarna kom in med
+05282\) uppgett att 77 procent av verksamhetsutövarna kom in med
 den efterfrågade rapporten under 2018. För 2021 och 2022 var det
 81 procent av verksamhetsutövarna som kom in med rapporterna.
 Folkhälsomyndigheten har ansvar för att framställa statistik på
@@ -15035,7 +15035,7 @@ finns därför ingen möjlighet att införa en sådan bestämmelse.
 Ytterligare bestämmelser om avgifter för rapportering
 
 Folkhälsomyndigheten har i en hemställan till regeringen (S2021/
-04826) framfört att det vore önskvärt att det framgår i förordningen
+04826\) framfört att det vore önskvärt att det framgår i förordningen
 om tobak och liknande produkter när avgifter för rapporterings-
 skyldigheten ska betalas, konsekvenserna av en utebliven betalning
 och när handläggningen av rapporteringen ska påbörjas. Det skulle
@@ -15668,7 +15668,7 @@ totala konsumtionen av cigaretter och snus i Sverige 2003–2022 framgår
 att rökningen både bland barn, ungdomar och vuxna har minskat
 under en längre tid. Samtidigt ses i CAN:s nationella skolundersök-
 ning 2023 en viss uppgång av rökningen bland gymnasieelever sedan
-2021. En av de främsta anledningarna till att tobaksrökningen har
+2021\. En av de främsta anledningarna till att tobaksrökningen har
 minskat i Sverige är den restriktiva tobakspolitiken och det långsiktiga
 tobakspreventiva arbetet. Sedan rökfria miljöer infördes 2005 har an-
 delen rökare halverats. Och sedan 2019 när rökfria uteserveringar in-
@@ -18191,10 +18191,10 @@ liknande enligt 13 §. Ersättning betalas inte för uttagna prover.
 hjälp som behövs för att Folkhälsomyndigheten ska kunna få sådant tillträde
 som avses i 14 §.
 En begäran enligt första stycket får göras endast om
-1. det på grund av särskilda omständigheter kan befaras att åtgärden inte
+1\. det på grund av särskilda omständigheter kan befaras att åtgärden inte
 kan utföras utan att en polismans särskilda befogenheter enligt 10 § polis-
 lagen (1984:387) behöver tillgripas, eller
-2. det annars finns synnerliga skäl.
+2\. det annars finns synnerliga skäl.
 Paragrafen innehåller bestämmelser om handräckning. Övervägan-
 dena finns i avsnitt 3.17.
 Av första stycket framgår att Folkhälsomyndigheten har rätt att be-
@@ -18317,12 +18317,12 @@ Författningskommentar                      SOU 2024:23
 Straffbestämmelser
 
 20 § Den som uppsåtligen eller av oaktsamhet
-1. säljer lustgas i större mängd än vad som föreskrivs i 4 §,
-2. säljer lustgas som kan antas användas som berusningsmedel enligt 5 §,
-3. säljer lustgas till den som inte uppnått föreskriven ålder enligt 6 §,
-4. bedriver detaljhandel med lustgas utan att ha anmält försäljningen enligt
+1\. säljer lustgas i större mängd än vad som föreskrivs i 4 §,
+2\. säljer lustgas som kan antas användas som berusningsmedel enligt 5 §,
+3\. säljer lustgas till den som inte uppnått föreskriven ålder enligt 6 §,
+4\. bedriver detaljhandel med lustgas utan att ha anmält försäljningen enligt
 8 §, eller
-5. säljer lustgas i strid mot ett meddelat försäljningsförbud enligt 12 §
+5\. säljer lustgas i strid mot ett meddelat försäljningsförbud enligt 12 §
 ska dömas till böter eller fängelse i högst sex månader.
 Om gärningen är ringa, ska den inte medföra ansvar.
 Paragrafen innehåller bestämmelser om straffansvar. Övervägandena
@@ -18373,14 +18373,14 @@ Bemyndiganden
 
 22 § Regeringen eller den myndighet som regeringen bestämmer får meddela
 föreskrifter om
-1. undantag från mängdbegränsningen enligt 4 § första stycket och 7 §,
-2. skyldigheten att kontrollera att köparen är näringsidkare enligt 4 § andra
+1\. undantag från mängdbegränsningen enligt 4 § första stycket och 7 §,
+2\. skyldigheten att kontrollera att köparen är näringsidkare enligt 4 § andra
 och tredje styckena,
-3. skyldigheten att kontrollera köparens ålder enligt 6 § andra och tredje
+3\. skyldigheten att kontrollera köparens ålder enligt 6 § andra och tredje
 stycket,
-4. utformningen av egenkontrollprogrammet enligt 9 §,
-5. genomförandet av kontrollköp enligt 16 §, och
-6. storleken på och betalningen av de avgifter Folkhälsomyndigheten får
+4\. utformningen av egenkontrollprogrammet enligt 9 §,
+5\. genomförandet av kontrollköp enligt 16 §, och
+6\. storleken på och betalningen av de avgifter Folkhälsomyndigheten får
 ta ut enligt 18 §.
 Paragrafen innehåller bestämmelser om bemyndiganden. Övervägan-
 dena finns i avsnitt 3.11, 3.13, 3.14, 3.18 och 3.21.
@@ -18432,21 +18432,21 @@ mot ett annat land inom Europeiska unionen
 3 §
 
 Lagen är tillämplig endast på följande varor:
-1. krigsmateriel som avses i lagen (1992:1300) om krigsmateriel, och pro-
+1\. krigsmateriel som avses i lagen (1992:1300) om krigsmateriel, och pro-
 dukter som avses i lagen (2000:1064) om kontroll av produkter med dubbla
 användningsområden och av tekniskt bistånd,
-2. narkotika som avses i narkotikastrafflagen (1968:64),
-3. skjutvapen, ammunition och ljuddämpare som avses i vapenlagen
+2\. narkotika som avses i narkotikastrafflagen (1968:64),
+3\. skjutvapen, ammunition och ljuddämpare som avses i vapenlagen
 (1996:67) samt sådana vapen och andra föremål som anges i 1 kap. 3 § samma
 lag,
-4. injektionssprutor och kanyler,
-5. dopningsmedel som avses i lagen (1991:1969) om förbud mot vissa
+4\. injektionssprutor och kanyler,
+5\. dopningsmedel som avses i lagen (1991:1969) om förbud mot vissa
 dopningsmedel,
-6. springstiletter, springknivar, knogjärn, kaststjärnor, riv- eller nithands-
+6\. springstiletter, springknivar, knogjärn, kaststjärnor, riv- eller nithands-
 kar, batonger, karatepinnar, blydaggar, spikklubbor och liknande,
-7. kulturföremål som avses i 5 kap. kulturmiljölagen (1988:950),
-8. hundar och katter för annat ändamål än handel,
-9. spritdrycker, vin, starköl och andra jästa alkoholdrycker, teknisk sprit
+7\. kulturföremål som avses i 5 kap. kulturmiljölagen (1988:950),
+8\. hundar och katter för annat ändamål än handel,
+9\. spritdrycker, vin, starköl och andra jästa alkoholdrycker, teknisk sprit
 och alkoholhaltiga preparat enligt alkohollagen (2010:1622), tobaksvaror
 384
 
@@ -18459,25 +18459,25 @@ gränsen i 5 kap. 19 § lagen (2018:2088) om tobak och liknande produkter,
 tobaksfria nikotinprodukter vid kontroll av åldersgränsen i 21 § lagen
 (2022:1257) om tobaksfria nikotinprodukter samt lustgas vid kontroll av
 mängdbegränsningen och åldersgränsen i 7 § lagen (2026:000) om lustgas,
-10. nötkreatur, svin, får, getter, fjäderfän, fisk och reptiler,
-11. andra djur än sådana som anges ovan och produkter av djur, om det
+10\. nötkreatur, svin, får, getter, fjäderfän, fisk och reptiler,
+11\. andra djur än sådana som anges ovan och produkter av djur, om det
 finns särskild anledning att misstänka att smittsam sjukdom förekommer,
 att djuret eller djurprodukten på annat sätt utgör en allvarlig hälsorisk för
 människor eller djur, att medföljande dokument är ofullständiga eller fel-
 aktiga, att erforderliga dokument saknas eller att de villkor som i övrigt gäller
 för införseln inte är uppfyllda,
-12. barnpornografi enligt lagen (1998:1443) om förbud mot införsel och
+12\. barnpornografi enligt lagen (1998:1443) om förbud mot införsel och
 utförsel av barnpornografi,
-13. varor som avses i lagen (1999:42) om förbud mot vissa hälsofarliga
+13\. varor som avses i lagen (1999:42) om förbud mot vissa hälsofarliga
 varor,
-14. varor som ska beskattas enligt lagen (2014:1470) om beskattning av
+14\. varor som ska beskattas enligt lagen (2014:1470) om beskattning av
 viss privatinförsel av cigaretter,
-15. sprängämnesprekursorer enligt artikel 5.1 i Europaparlamentets och
+15\. sprängämnesprekursorer enligt artikel 5.1 i Europaparlamentets och
 rådets förordning (EU) 2019/1148 av den 20 juni 2019 om saluföring och
 användning av sprängämnesprekursorer, om ändring av förordning (EG)
 nr 1907/2006 och om upphävande av förordning (EU) nr 98/2013, i den ur-
 sprungliga lydelsen och 3 § lagen (2014:799) om sprängämnesprekursorer,
-16. explosiva varor som avses i lagen (2010:1011) om brandfarliga och
+16\. explosiva varor som avses i lagen (2010:1011) om brandfarliga och
 explosiva varor.
 Paragrafen innehåller en uppräkning av de varor som lagen är tillämp-
 lig på. Övervägandena finns i avsnitt 3.11 och 3.13.
@@ -18662,15 +18662,15 @@ tillståndshavaren eller ansvarig personal måste vara närvarande.
 Anordnande av provsmakning av alkoholdrycker eller av alkoholdrycksliknande
 preparat vid arrangemang riktade till allmänheten är tillåtet under förutsätt-
 ning att
-1. arrangören har ett stadigvarande serveringstillstånd som omfattar de
+1\. arrangören har ett stadigvarande serveringstillstånd som omfattar de
 drycker eller preparat som provsmakningen avser samt den lokal där prov-
 smakningen ska äga rum,
-2. de partihandlare som deltar enskilt eller gemensamt ansöker om och
+2\. de partihandlare som deltar enskilt eller gemensamt ansöker om och
 får ett tillfälligt tillstånd för provsmakning av de drycker eller preparat som
 avses erbjudas,
-3. arrangören är en tillverkare av folköl och provsmakningen avser folköl,
+3\. arrangören är en tillverkare av folköl och provsmakningen avser folköl,
 eller
-4. arrangören har uppfyllt kraven i 8 § för att få servera folköl.
+4\. arrangören har uppfyllt kraven i 8 § för att få servera folköl.
 Arrangörer som avses i första stycket 1, 3 och 4 ska innan arrangemanget
 äger rum göra en anmälan till den kommun där provsmakningen ska äga rum.
 
@@ -19323,13 +19323,13 @@ Författningskommentar                      SOU 2024:23
 
 Kommunen utövar tillsyn över att bestämmelserna i 2 och 3 kap. och anslut-
 ande föreskrifter följs på fysiska försäljningsställen när det gäller
-1. produktkrav enligt 2 kap. 1 § första och andra styckena och 8 §,
-2. produktanmälan enligt 2 kap. 3 och 7 §§,
-3. rapporteringsskyldighet enligt 2 kap. 2, 4, 6 och 9 §§,
-4. hälsovarningar enligt 3 kap. 1 och 2 §§,
-5. märkning enligt 3 kap. 3 och 4 §§,
-6. informationsblad och innehållsdeklaration enligt 3 kap. 5 och 6 §§, och
-7. spårbarhet och säkerhetsmärkning enligt 3 kap. 7 §.
+1\. produktkrav enligt 2 kap. 1 § första och andra styckena och 8 §,
+2\. produktanmälan enligt 2 kap. 3 och 7 §§,
+3\. rapporteringsskyldighet enligt 2 kap. 2, 4, 6 och 9 §§,
+4\. hälsovarningar enligt 3 kap. 1 och 2 §§,
+5\. märkning enligt 3 kap. 3 och 4 §§,
+6\. informationsblad och innehållsdeklaration enligt 3 kap. 5 och 6 §§, och
+7\. spårbarhet och säkerhetsmärkning enligt 3 kap. 7 §.
 Paragrafen motsvarar i huvudsak bestämmelserna i nuvarande 3 § 1
 och 2 och innehåller bestämmelser om kommunens tillsynsansvar.
 Övervägandena finns i avsnitt 6.7.2 och 6.7.3.
@@ -19393,11 +19393,11 @@ punkt 1.
 
 Kommunen utövar tillsyn över att bestämmelserna i 4 och 6 kap. och anslutande
 föreskrifter följs när det gäller
-1. marknadsföring på eller i anslutning till fysiska försäljningsställen enligt
+1\. marknadsföring på eller i anslutning till fysiska försäljningsställen enligt
 4 kap. 1, 2 och 4–7 §§,
-2. rökfria miljöer enligt 6 kap. 2 § som inte är upplåtna enbart för personal
+2\. rökfria miljöer enligt 6 kap. 2 § som inte är upplåtna enbart för personal
 samt lokaler enligt 6 kap. 3 §, och
-3. rök- och tobaksfri skoltid enligt 6 kap. 11 §.
+3\. rök- och tobaksfri skoltid enligt 6 kap. 11 §.
 Paragrafen, som är ny, motsvarar nuvarande 3 § 3 och 4 och innehåller
 bestämmelser om kommunens tillsynsansvar. Övervägandena finns
 i avsnitt 4.1.4.
@@ -19428,15 +19428,15 @@ stämmelsen.
 Kommunen och Polismyndigheten utövar tillsammans eller var och en för
 sig tillsyn över att bestämmelserna i 5 kap. och anslutande föreskrifter följs
 när det gäller
-1. försäljningstillstånd enligt 5 kap. 1, 2, 8 och 9 §§,
-2. anmälan om försäljning enligt 5 kap. 14 §,
-3. egenkontroll som inte avser gränsöverskridande distansförsäljning enligt
+1\. försäljningstillstånd enligt 5 kap. 1, 2, 8 och 9 §§,
+2\. anmälan om försäljning enligt 5 kap. 14 §,
+3\. egenkontroll som inte avser gränsöverskridande distansförsäljning enligt
 5 kap. 6, 7 och 16 §§,
-4. kontrollskyldighet enligt 5 kap. 10 §,
-5. informationsskyldighet enligt 5 kap. 12 §,
-6. styckförsäljning enligt 5 kap. 13 §,
-7. åldersgräns enligt 5 kap. 17 och 18 §§, och
-8. förvaringsförbud enligt 5 kap. 21 §.
+4\. kontrollskyldighet enligt 5 kap. 10 §,
+5\. informationsskyldighet enligt 5 kap. 12 §,
+6\. styckförsäljning enligt 5 kap. 13 §,
+7\. åldersgräns enligt 5 kap. 17 och 18 §§, och
+8\. förvaringsförbud enligt 5 kap. 21 §.
 Paragrafen innehåller bestämmelser om kommunens och Polismyndig-
 hetens tillsynsansvar. Övervägandena finns i avsnitt 4.5.4, 6.7.3 och
 6.7.4.
@@ -19475,9 +19475,9 @@ anslutande föreskrifter följs om det inte är fråga om tillsyn som ska utöva
 kommunen på ett fysiskt försäljningsställe enligt 3 §.
 Folkhälsomyndigheten utövar även tillsyn över att bestämmelserna i 5 och
 11 kap. och anslutande föreskrifter följs när det gäller
-1. registrering och egenkontroll vid gränsöverskridande distansförsäljning
+1\. registrering och egenkontroll vid gränsöverskridande distansförsäljning
 enligt 5 kap. 5–7, 15 och 16 §§, och
-2. förbud mot sådan tillverkning eller införsel som avses enligt föreskrifter
+2\. förbud mot sådan tillverkning eller införsel som avses enligt föreskrifter
 meddelade med stöd av 11 kap. 5 §.
 Paragrafen innehåller bestämmelser om Folkhälsomyndighetens till-
 synsansvar.
@@ -19531,14 +19531,14 @@ endast redaktionell.
 10 §
 
 En kommun ska återkalla ett försäljningstillstånd om
-1. tillståndet inte längre utnyttjas,
-2. tillståndshavaren genom en allvarlig eller upprepad överträdelse har under-
+1\. tillståndet inte längre utnyttjas,
+2\. tillståndshavaren genom en allvarlig eller upprepad överträdelse har under-
 låtit att uppfylla de krav som gäller för tillståndet eller på annat sätt har brutit
 mot denna lag eller anslutande föreskrifter,
-3. det med tillståndshavarens vetskap har förekommit brottslig verksamhet
+3\. det med tillståndshavarens vetskap har förekommit brottslig verksamhet
 på det fysiska försäljningsstället, eller i anslutning till detta, eller annars inom
 den tillståndspliktiga verksamheten utan att tillståndshavaren har ingripit, eller
-4. tillståndshavaren har tilldelats en eller flera varningar utan att de för-
+4\. tillståndshavaren har tilldelats en eller flera varningar utan att de för-
 hållanden som föranlett varningen har rättats till.
 Paragrafen innehåller bestämmelser om kommunens rätt att återkalla
 ett försäljningstillstånd. Övervägandena finns i avsnitt 6.8.2.
@@ -20066,10 +20066,10 @@ och tar initiativ till samrådsforum.
 24 §
 Kommunen utövar tillsyn över att denna lag och anslutande föreskrifter följs
 på fysiska försäljningsställen när det gäller
-1. produktanmälan enligt 5 §,
-2. produktkrav enligt 6 och 6 a §§,
-3. innehållsdeklaration, hälsovarning och märkning enligt 7 och 8 §§, och
-4. rapporteringsskyldighet enligt 14 §.
+1\. produktanmälan enligt 5 §,
+2\. produktkrav enligt 6 och 6 a §§,
+3\. innehållsdeklaration, hälsovarning och märkning enligt 7 och 8 §§, och
+4\. rapporteringsskyldighet enligt 14 §.
 Paragrafen innehåller bestämmelser om kommunens tillsynsansvar på
 fysiska försäljningsställen. Övervägandena finns i avsnitt 4.2.2.
 Bestämmelserna om kommunens tillsynsansvar delas upp i två para-
@@ -20086,9 +20086,9 @@ ställen.
 24 a §
 Kommunen utövar även tillsyn över att denna lag och anslutande föreskrifter
 följs när det gäller
-1. marknadsföring på eller i anslutning till fysiska försäljningsställen enligt
+1\. marknadsföring på eller i anslutning till fysiska försäljningsställen enligt
 9 och 10 §§, och
-2. nikotinfri skoltid enligt 21 b §.
+2\. nikotinfri skoltid enligt 21 b §.
 
 Paragrafen, som är ny, motsvarar delvis nuvarande 24 § andra stycket
 och innehåller bestämmelser om kommunens tillsynsansvar. Över-
@@ -20112,10 +20112,10 @@ ska utöva tillsyn över bestämmelsen om nikotinfri skoltid enligt 21 b §.
 25 §
 Kommunen och Polismyndigheten utövar tillsammans eller var och en för sig
 tillsyn över att denna lag och anslutande föreskrifter följs när det gäller
-1. anmälan om försäljning och egenkontroll enligt 17 och 18 §§ när när-
+1\. anmälan om försäljning och egenkontroll enligt 17 och 18 §§ när när-
 ingsidkaren har säte eller fast försäljningsställe för näringsverksamhet i Sverige,
-2. förvaringsförbud enligt 18 a §, och
-3. ålderskrav enligt 19 och 20 §§.
+2\. förvaringsförbud enligt 18 a §, och
+3\. ålderskrav enligt 19 och 20 §§.
 
 Paragrafen innehåller bestämmelser om kommunens och Polismyndig-
 hetens tillsyn. Överväganden finns i avsnitt 4.5.4.
@@ -20130,8 +20130,8 @@ slutande föreskrifter är uppfyllda om det inte är fråga om tillsyn som ska u
 övas av kommunen på ett fysiskt försäljningsställe enligt 24 §.
 Folkhälsomyndigheten utövar även tillsyn över att bestämmelserna och anslut-
 ande föreskrifter följs när det gäller
-1. produktkontroll enligt 15 och 16 §§, och
-2. anmälan om försäljning och egenkontroll enligt 17 och 18 §§ när närings-
+1\. produktkontroll enligt 15 och 16 §§, och
+2\. anmälan om försäljning och egenkontroll enligt 17 och 18 §§ när närings-
 idkaren saknar säte eller fast driftställe för näringsverksamhet i Sverige.
 Paragrafen innehåller bestämmelser om Folkhälsomyndighetens till-
 synsansvar. Övervägandena finns i avsnitt 4.2.2.
@@ -20226,9 +20226,9 @@ uppgifter behöver inte göras.
 
 Folkhälsomyndigheten får ta ut avgifter av tillverkare och importörer av tobaks-
 fria nikotinprodukter för att
-1. ta emot, lagra, hantera, analysera och offentliggöra de uppgifter som en-
+1\. ta emot, lagra, hantera, analysera och offentliggöra de uppgifter som en-
 ligt 5 § lämnas till myndigheten, och
-2. ta emot, lagra, hantera och analysera de uppgifter som enligt 14 § lämnas
+2\. ta emot, lagra, hantera och analysera de uppgifter som enligt 14 § lämnas
 till myndigheten samt för att offentliggöra att rapporteringsskyldigheten
 har uppfyllts.
 Folkhälsomyndigheten får även ta ut avgifter för sin tillsyn över att denna
@@ -21709,47 +21709,47 @@ Statens offentliga utredningar  2024
 
 Kronologisk förteckning
 
-1. Ett starkare skydd för offentlig- 19. En ny beredskapssektor
+1\. Ett starkare skydd för offentlig- 19. En ny beredskapssektor
 anställda mot våld, hot och trakas- – för ökad försörjningsberedskap. KN.
 serier. Ju.          20. Maskinellt värde för vissa industri-
-2. Ett samordnat vaccinationsarbete byggnader – ett undantag från fastig-
+2\. Ett samordnat vaccinationsarbete byggnader – ett undantag från fastig-
 – för effektivare hantering av kom- hetsskatt. Fi.
 mande vacciner. Del 1 och 2. S. 21. Ett inkluderande jämställdhets-
-3. Ett starkt judiskt liv för framtida politiskt delmål mot våld. A.
+3\. Ett starkt judiskt liv för framtida politiskt delmål mot våld. A.
 generationer. Nationell strategi för att 22. En ny organisation för förvaltning
 stärka judiskt liv i Sverige 2025–2034. av EU-medel. Fi.
 Ku.
-23. En trygg uppväxt utan
-4. Inskränkningarna i upphovsrätten. Ju. nikotin, alkohol och lustgas. S.
-5. Förbättrad ordning och säkerhet
+23\. En trygg uppväxt utan
+4\. Inskränkningarna i upphovsrätten. Ju. nikotin, alkohol och lustgas. S.
+5\. Förbättrad ordning och säkerhet
 vid förvar. Ju.
-6. Steg mot stärkt kapacitet. Fi.
-7. Ett säkrare och mer tillgängligt
+6\. Steg mot stärkt kapacitet. Fi.
+7\. Ett säkrare och mer tillgängligt
 fastighetsregister. Ju.
-8. Livsmedelsberedskap för en ny tid. LI.
-9. Utvecklat samarbete för verksamhets-
+8\. Livsmedelsberedskap för en ny tid. LI.
+9\. Utvecklat samarbete för verksamhets-
 förlagd utbildning – långsiktiga åtgär-
 der för sjuksköterskeprogrammen. U.
-10. Preskription av avlägsnandebeslut och
+10\. Preskription av avlägsnandebeslut och
 vissa frågor om återreseförbud. Ju.
-11. Rätt frågor på regeringens bord –
+11\. Rätt frågor på regeringens bord –
 en ändamålsenlig regeringsprövning
 på miljöområdet. KN.
-12. Mål och mening med integration. A.
-13. En effektivare kontaktförbuds-
+12\. Mål och mening med integration. A.
+13\. En effektivare kontaktförbuds-
 lagstiftning – ett utökat skydd
 för utsatta personer. Ju.
-14. Arbetslivskriminalitet – myndighets-
+14\. Arbetslivskriminalitet – myndighets-
 samverkan, en gemensam tipsfunk-
 tion, lärdomar från Belgien och
 gränsöverskridande arbete. A.
-15. Nya regler för
+15\. Nya regler för
 arbetskraftsinvandring m.m. Ju.
-16. Växla yrke som vuxen – en reformerad
+16\. Växla yrke som vuxen – en reformerad
 vuxenutbildning och en ny yrkesskola
 för vuxna. U.
-17. Skolor mot brott. U.
-18. Nya regler om cybersäkerhet. Fö.
+17\. Skolor mot brott. U.
+18\. Nya regler om cybersäkerhet. Fö.
 
 <!-- sida 501 -->
 
@@ -21821,36 +21821,36 @@ En trygg uppväxt utan nikotin, alkohol och lustgas
 
 Remissinstanser
 
-1. Ale kommun
+1\. Ale kommun
 
-2. Alkoholgranskningsmannen (AGM)
-3. Alkoholpolitiskt forum
+2\. Alkoholgranskningsmannen (AGM)
+3\. Alkoholpolitiskt forum
 
-4. A non smoking generation
-5. Astma- och allergiförbundet
+4\. A non smoking generation
+5\. Astma- och allergiförbundet
 
-6. Barnombudsmannen
+6\. Barnombudsmannen
 
-7. Bodens kommun
-8. Borlänge kommun
+7\. Bodens kommun
+8\. Borlänge kommun
 
-9. Brottsförebyggande rådet
+9\. Brottsförebyggande rådet
 
-10. Bröstcancerförbundet
-11. Cancerfonden
+10\. Bröstcancerförbundet
+11\. Cancerfonden
 
-12. Centralförbundet för alkohol- och narkotikaupplysning (CAN)
-13. Convenience Stores Sweden
+12\. Centralförbundet för alkohol- och narkotikaupplysning (CAN)
+13\. Convenience Stores Sweden
 
-14. Degerfors kommun
+14\. Degerfors kommun
 
-15. Domstolsverket
-16. Ekobrottsmyndigheten
+15\. Domstolsverket
+16\. Ekobrottsmyndigheten
 
-17. EMAB
+17\. EMAB
 
-18. Fackförbundet ST
-19. Folkhälsomyndigheten
+18\. Fackförbundet ST
+19\. Folkhälsomyndigheten
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
@@ -21858,256 +21858,256 @@ Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
 
 <!-- sida 503 -->
 
-20. Forskningsrådet för hälsa, arbetsliv och välfärd (FORTE)
+20\. Forskningsrådet för hälsa, arbetsliv och välfärd (FORTE)
 
-21. Friskolornas riksförbund
-22. Föreningen Svensk Sjöfart
+21\. Friskolornas riksförbund
+22\. Föreningen Svensk Sjöfart
 
-23. Företagarna
+23\. Företagarna
 
-24. Förvaltningsrätten i Härnösand
-25. Förvaltningsrätten i Jönköping
+24\. Förvaltningsrätten i Härnösand
+25\. Förvaltningsrätten i Jönköping
 
-26. Göteborgs kommun
-27. Göteborgs universitet (Centrum för forskning och utbildning kring
+26\. Göteborgs kommun
+27\. Göteborgs universitet (Centrum för forskning och utbildning kring
 
 riskbruk, missbruk och beroende)
-28. Hallstahammars kommun
+28\. Hallstahammars kommun
 
-29. Halmstads kommun
+29\. Halmstads kommun
 
-30. Hammarö kommun
-31. Haypp Group
+30\. Hammarö kommun
+31\. Haypp Group
 
-32. Hjärt-Lungfonden
-33. Hotell- och restaurangfacket
+32\. Hjärt-Lungfonden
+33\. Hotell- och restaurangfacket
 
-34. Hässleholms kommun
+34\. Hässleholms kommun
 
-35. Integritetsskyddsmyndigheten (IMY)
-36. IOGT-NTO
+35\. Integritetsskyddsmyndigheten (IMY)
+36\. IOGT-NTO
 
-37. IQ
+37\. IQ
 
-38. Justitiekanslern
-39. Jämställdhetsmyndigheten
+38\. Justitiekanslern
+39\. Jämställdhetsmyndigheten
 
-40. Kammarrätten i Göteborg
-41. Kammarrätten i Stockholm
+40\. Kammarrätten i Göteborg
+41\. Kammarrätten i Stockholm
 
-42. Kemikalieinspektionen
+42\. Kemikalieinspektionen
 
-43. Kommerskollegium
-44. Kommunala alkohol- och tobakshandläggare (KAF-T)
+43\. Kommerskollegium
+44\. Kommunala alkohol- och tobakshandläggare (KAF-T)
 
-45. Konkurrensverket
+45\. Konkurrensverket
 
-46. Konsumentverket
-47. Kramfors kommun
+46\. Konsumentverket
+47\. Kramfors kommun
 
-48. Kungsbacka kommun
+48\. Kungsbacka kommun
 
 2 (8)
 
 <!-- sida 504 -->
 
-49. Landskrona kommun
+49\. Landskrona kommun
 
-50. Landsorganisationen i Sverige (LO)
-51. Livsmedelsföretagen
+50\. Landsorganisationen i Sverige (LO)
+51\. Livsmedelsföretagen
 
-52. Livsmedelsverket
+52\. Livsmedelsverket
 
-53. Ljusdals kommun
-54. Läkemedelsverket
+53\. Ljusdals kommun
+54\. Läkemedelsverket
 
-55. Länsstyrelsen i Blekinge län
-56. Länsstyrelsen i Dalarnas län
+55\. Länsstyrelsen i Blekinge län
+56\. Länsstyrelsen i Dalarnas län
 
-57. Länsstyrelsen i Gotlands län
+57\. Länsstyrelsen i Gotlands län
 
-58. Länsstyrelsen i Gävleborgs län
-59. Länsstyrelsen i Hallands län
+58\. Länsstyrelsen i Gävleborgs län
+59\. Länsstyrelsen i Hallands län
 
-60. Länsstyrelsen i Jämtlands län
+60\. Länsstyrelsen i Jämtlands län
 
-61. Länsstyrelsen i Jönköpings län
-62. Länsstyrelsen i Kalmar län
+61\. Länsstyrelsen i Jönköpings län
+62\. Länsstyrelsen i Kalmar län
 
-63. Länsstyrelsen i Kronobergs län
-64. Länsstyrelsen i Norrbottens län
+63\. Länsstyrelsen i Kronobergs län
+64\. Länsstyrelsen i Norrbottens län
 
-65. Länsstyrelsen i Skåne län
+65\. Länsstyrelsen i Skåne län
 
-66. Länsstyrelsen i Stockholms län
-67. Länsstyrelsen i Södermanlands län
+66\. Länsstyrelsen i Stockholms län
+67\. Länsstyrelsen i Södermanlands län
 
-68. Länsstyrelsen i Uppsala län
+68\. Länsstyrelsen i Uppsala län
 
-69. Länsstyrelsen i Värmlands län
-70. Länsstyrelsen i Västerbottens län
+69\. Länsstyrelsen i Värmlands län
+70\. Länsstyrelsen i Västerbottens län
 
-71. Länsstyrelsen i Västernorrlands län
-72. Länsstyrelsen i Västmanlands län
+71\. Länsstyrelsen i Västernorrlands län
+72\. Länsstyrelsen i Västmanlands län
 
-73. Länsstyrelsen i Västra Götalands län
+73\. Länsstyrelsen i Västra Götalands län
 
-74. Länsstyrelsen i Örebro län
-75. Länsstyrelsen i Östergötlands län
+74\. Länsstyrelsen i Örebro län
+75\. Länsstyrelsen i Östergötlands län
 
-76. Lärare mot tobak
+76\. Lärare mot tobak
 
-77. Malmö kommun
-78. Maskrosbarn
+77\. Malmö kommun
+78\. Maskrosbarn
 
 3 (8)
 
 <!-- sida 505 -->
 
-79. Mediemyndigheten
+79\. Mediemyndigheten
 
-80. Mjölby kommun
-81. Mora kommun
+80\. Mjölby kommun
+81\. Mora kommun
 
-82. Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)
+82\. Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)
 
-83. Nationell Samverkan för Psykisk Hälsa (NSPH)
-84. Norrköpings kommun
+83\. Nationell Samverkan för Psykisk Hälsa (NSPH)
+84\. Norrköpings kommun
 
-85. Norrtälje kommun
-86. Näringslivets Regelnämnd (NNR)
+85\. Norrtälje kommun
+86\. Näringslivets Regelnämnd (NNR)
 
-87. Organisationen Sveriges Servicestationer
+87\. Organisationen Sveriges Servicestationer
 
-88. Oskarshamns kommun
-89. Philip Morris International Sweden
+88\. Oskarshamns kommun
+89\. Philip Morris International Sweden
 
-90. Polismyndigheten
+90\. Polismyndigheten
 
-91. Regelrådet
-92. Riksdagens ombudsmän (JO)
+91\. Regelrådet
+92\. Riksdagens ombudsmän (JO)
 
-93. Riksförbundet mot alkohol- och narkotikamissbruk
-94. Riksförbundet Visir
+93\. Riksförbundet mot alkohol- och narkotikamissbruk
+94\. Riksförbundet Visir
 
-95. Rädda barnen
+95\. Rädda barnen
 
-96. Seko
-97. Skara kommun
+96\. Seko
+97\. Skara kommun
 
-98. Skatteverket
+98\. Skatteverket
 
-99. Skellefteå kommun
-100. Sjöbefälsföreningen
+99\. Skellefteå kommun
+100\. Sjöbefälsföreningen
 
-101. Socialstyrelsen
-102. Specialpedagogiska skolmyndigheten
+101\. Socialstyrelsen
+102\. Specialpedagogiska skolmyndigheten
 
-103. Sprit och Vinleverantörsföreningen (SVL)
+103\. Sprit och Vinleverantörsföreningen (SVL)
 
-104. Statens beredning för medicinsk och social utvärdering (SBU)
-105. Statens skolinspektion
+104\. Statens beredning för medicinsk och social utvärdering (SBU)
+105\. Statens skolinspektion
 
-106. Statens skolverk
+106\. Statens skolverk
 
-107. Statskontoret
-108. Stockholm förebygger alkohol- och drogproblem (STAD)
+107\. Statskontoret
+108\. Stockholm förebygger alkohol- och drogproblem (STAD)
 
 4 (8)
 
 <!-- sida 506 -->
 
-109. Stockholms Handelskammare
+109\. Stockholms Handelskammare
 
-110. Stockholms kommun
-111. Stockholms tingsrätt (Patent- och marknadsdomstolen)
+110\. Stockholms kommun
+111\. Stockholms tingsrätt (Patent- och marknadsdomstolen)
 
-112. Stockholms universitet (Centrum för socialvetenskaplig alkohol- och
+112\. Stockholms universitet (Centrum för socialvetenskaplig alkohol- och
 drogforskning (SoRAD))
 
-113. Svea hovrätt (Patent- och marknadsöverdomstolen)
-114. Svensk dagligvaruhandel
+113\. Svea hovrätt (Patent- och marknadsöverdomstolen)
+114\. Svensk dagligvaruhandel
 
-115.
+115\.
 
-116. Svensk Handel
+116\. Svensk Handel
 Svensk förening för beroendemedicin
-117. Svenska Barnläkarföreningen
-118. Svenska institutet för europapolitiska studier (Sieps)
+117\. Svenska Barnläkarföreningen
+118\. Svenska institutet för europapolitiska studier (Sieps)
 
-119. Svenska föreningen för Alkohol- och Drogforskning (SAD)
-120. Svenska läkaresällskapet
+119\. Svenska föreningen för Alkohol- och Drogforskning (SAD)
+120\. Svenska läkaresällskapet
 
-121. Svenska skolläkarförbundet
-122. Svenska snustillverkarföreningen
+121\. Svenska skolläkarförbundet
+122\. Svenska snustillverkarföreningen
 
-123. Svenska tobaksleverantörsföreningen
+123\. Svenska tobaksleverantörsföreningen
 
-124. Svenskt Näringsliv
-125. Sveriges producenter av alkoholdrycker
+124\. Svenskt Näringsliv
+125\. Sveriges producenter av alkoholdrycker
 
-126. Sveriges advokatsamfund
+126\. Sveriges advokatsamfund
 
-127. Sveriges annonsörer
-128. Sveriges Blåbandsförbund
+127\. Sveriges annonsörer
+128\. Sveriges Blåbandsförbund
 
-129. Sveriges Blåbandsungdomar
-130. Sveriges Bryggerier
+129\. Sveriges Blåbandsungdomar
+130\. Sveriges Bryggerier
 
-131. Sveriges Kommuner och Regioner (SKR)
+131\. Sveriges Kommuner och Regioner (SKR)
 
-132. Sveriges Landsråd för alkohol- och narkotikafrågor (SLAN)
-133. Sveriges Lärare
+132\. Sveriges Landsråd för alkohol- och narkotikafrågor (SLAN)
+133\. Sveriges Lärare
 
-134. Sveriges skolledare
+134\. Sveriges skolledare
 
-135. Sveriges Tandhygienistförening (STHF)
-136. Sveriges Tandläkarförbund
+135\. Sveriges Tandhygienistförening (STHF)
+136\. Sveriges Tandläkarförbund
 
-137. Sydsvenska Industri- och Handelskammaren
+137\. Sydsvenska Industri- och Handelskammaren
 
 5 (8)
 
 <!-- sida 507 -->
 
-138. Systembolaget
+138\. Systembolaget
 
-139. Tillväxtverket
-140. Tjänstemännens Centralorganisation (TCO)
+139\. Tillväxtverket
+140\. Tjänstemännens Centralorganisation (TCO)
 
-141. Tobaksfakta
+141\. Tobaksfakta
 
-142. Transportföretagen
-143. Transportstyrelsen
+142\. Transportföretagen
+143\. Transportstyrelsen
 
-144. Tullverket
-145. Täby kommun
+144\. Tullverket
+145\. Täby kommun
 
-146. Umeå tingsrätt
+146\. Umeå tingsrätt
 
-147. Umeå universitet
-148. Unga drogförebyggare
+147\. Umeå universitet
+148\. Unga drogförebyggare
 
-149. Uppsala universitet
+149\. Uppsala universitet
 
-150. Ungdomens Nykterhetsförbund (UNF)
-151. Verdandi
+150\. Ungdomens Nykterhetsförbund (UNF)
+151\. Verdandi
 
-152. Visir
-153. Visita
+152\. Visir
+153\. Visita
 
-154. Värnamo kommun
+154\. Värnamo kommun
 
-155. Åklagarmyndigheten
-156. Årjäng kommun
+155\. Åklagarmyndigheten
+156\. Årjäng kommun
 
-157. Åsele kommun
+157\. Åsele kommun
 
-158. Älmhults kommun
-159. Örebro kommun
+158\. Älmhults kommun
+159\. Örebro kommun
 
-160. Östersunds kommun
-161. Övertorneå kommun
+160\. Östersunds kommun
+161\. Övertorneå kommun
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 30
 augusti 2024. Svaren bör lämnas per e-post till
@@ -22211,7 +22211,7 @@ Hälsningar
 
 Kristian Egstedt
 Registrator
-______________________
+\______________________
 
 Kungsbacka kommun
 Kommunledningskontoret
@@ -22441,10 +22441,10 @@ upp arten av riskerna och förebygga dessa på systemnivå.
 
 Den samlade bedömningen av arbetet med personuppgiftsincidenter är att:
 
-1) anmälningar av personuppgiftsincidenter görs och att det finns en viss benägenhet att
+1\) anmälningar av personuppgiftsincidenter görs och att det finns en viss benägenhet att
 anmäla, och
 
-2) det finns rutiner och förutsättningar för att anmälan, utredning och åtgärder ska kunna ske.
+2\) det finns rutiner och förutsättningar för att anmälan, utredning och åtgärder ska kunna ske.
 
 Registrerades rättigheter
 De personer vars personuppgifter behandlas, de registrerade, har ett antal rättigheter enligt
@@ -22500,18 +22500,18 @@ systematisk uppföljning av dataskyddsarbetet. Årsstrukturen består, utöver d
 följande.
 
 Maj-juni
-- Årlig rapport med sammanställning av resultatet av årets dataskyddsarbete, till nämnd.
+\- Årlig rapport med sammanställning av resultatet av årets dataskyddsarbete, till nämnd.
 
 Juni
-- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
+\- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
 och processöversikter, information till registrerade och information till användare/personal
 
 September-Oktober
-- Likvärdighetsforum och egenkontroller.
+\- Likvärdighetsforum och egenkontroller.
 
-- Återrapportering av åtgärder utifrån Kolla dataskyddet.
+\- Återrapportering av åtgärder utifrån Kolla dataskyddet.
 
-- Uppföljning av rutiner kring systemförvaltningen.
+\- Uppföljning av rutiner kring systemförvaltningen.
 
 <!-- sida 519 -->
 
@@ -22520,11 +22520,11 @@ Datum
 Dnr
 2024-00150
 December
-- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
+\- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
 och processöversikter, generell information
 
 Februari-mars
-- Likvärdighetsforum och egenkontroller med hjälp av Kolla dataskyddet.
+\- Likvärdighetsforum och egenkontroller med hjälp av Kolla dataskyddet.
 
 Tillkommer gör även Dataskyddsombudets årliga granskning, samt det löpande
 dataskyddsarbetet i samband med begäran om registerutdrag, personuppgiftsincidenter och
@@ -22970,7 +22970,7 @@ Demokratin i Sverige har länge varit tagen för given av många. Nu behöver vi
 oss om att den fantastiska frihet vi har är något som är värt att stå upp för. Hur skapar
 vi då försvarsvilja i ett land som haft fred i 200 år? Vi, alla, behöver insikt, kunskap,
 
-($)rnn
+(\$)rnn
 
 förmåga och vilja att bidra i våra respektive yrkesroller såväl som privatpersoner.
 
@@ -23009,7 +23009,7 @@ In, oc och upp
 t av systematiskt säkerhetsarbete
 
 . Kom as av Serv altningen Säkerhet
--
+\-
 
 tarbeta med enhetsche
 
@@ -23072,11 +23072,11 @@ Bilagor
 
 iljöarbe
 
-$
+\$
 ze
 
 DT
--
+\-
 oc
 23
 EE 3
@@ -23336,7 +23336,7 @@ Kommunspecifik fråga, Kungsbacka
 
 Om du har besvär med stress, vad tänker du själv att dina besvär kan bero på? minuter eller mer? Räkna ihop all tid som du är fysiskt aktiv varje dag. All aktivitet som får ditt hjärta att slå snabbare och som ibland gör dig
 andfådd räknas.
-Jag har inga besvär med stress mmENEEENENNNNS 144 Ingen dag SO é Ä=x=W5$—z€ernnn="H”
+Jag har inga besvär med stress mmENEEENENNNNS 144 Ingen dag SO é Ä=x=W5\$—z€ernnn="H”
 Skolarbete 7198
 Fritidsaktiviteter — mmmmmmmmmmmn 133 1028
 Datorspelande

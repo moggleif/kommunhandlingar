@@ -119,7 +119,7 @@ sjukvård i Halland 2022-2024, med förlängning för 2026 .....................
 
 § 163 Dnr VO-2025-00080
 Redovisning av ej verkställda gynnande beslut enligt socialtjänstlagen 2025
-- Nämnden för Vård & Omsorg .................................................................. 13
+\- Nämnden för Vård & Omsorg .................................................................. 13
 
 § 164 Dnr VO-2025-00220
 Intern kontrollplan 2026 - Nämnden för Vård & Omsorg .......................... 14
@@ -430,7 +430,7 @@ Socialdemokraterna Nämndbudget 2026 - Nämnden för Vård & Omsorg, 2025-11-13
 Förslag till beslut på sammanträdet
 
 Hravn Forsne (M) yrkar bifall till Alliansens ändringsyrkande till Nämndbudget
-2026.
+2026\.
 Ermin Škorić (S) Astrid Börjesson (S) och Eva Tingström (S) yrkar bifall till
 
 Socialdemokraternas ändringsyrkande till Nämndbudget 2026.
@@ -510,7 +510,7 @@ sjukvård i Halland 2022-2024, med förlängning för 2026
 Beslut
 Nämnden för Vård & Omsorg godkänner överenskommelse om Trygg och effektiv
 utskrivning från sluten hälso- och sjukvård i Halland 2025 med förlängning under
-2026.
+2026\.
 
 Sammanfattning av ärendet
 Överenskommelsen är förläng till och med 2025-12-31 och ett samverkansarbete
@@ -770,17 +770,17 @@ Beslut
 Nämnden för Vård & Omsorg antar följande indikatorer för uppföljning av
 omställningen till God och Nära vård:
 
-- Delaktighet
-- Samordning
+\- Delaktighet
+\- Samordning
 
-- Tillgänglighet
-- Förtroende
+\- Tillgänglighet
+\- Förtroende
 
-- Kontinuitet
-- Återinskrivningar i slutenvården
+\- Kontinuitet
+\- Återinskrivningar i slutenvården
 
-- Självskattad hälsa
-- Personcentrering
+\- Självskattad hälsa
+\- Personcentrering
 
 Sammanfattning av ärendet
 Revisionsbolaget PwC har på uppdrag av de förtroendevalda revisorerna i
@@ -832,7 +832,7 @@ Beslutsgång
 
 Ordförande Hravn Forsne (M) prövar om nämnden kan anta, följande indikatorer för
 uppföljning av omställningen till God och Nära vård:
-- Delaktighet, - Samordning, - Tillgänglighet, - Förtroende, - Kontinuitet, -
+\- Delaktighet, - Samordning, - Tillgänglighet, - Förtroende, - Kontinuitet, -
 
 Återinskrivningar i slutenvården, - Självskattad hälsa och - Personcentrering, och
 finner att nämnden bifaller dem.
@@ -928,10 +928,10 @@ verksamhetscheferna och de medarbetare som berörs. Att säkerställa goda rutin
 riktlinjer är några av alla möjliga sätt att hantera det på.
 
 Förslag till beslut:
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att med omedelbar
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att med omedelbar
 verkan stoppa den planerade centraliseringen av koordinatorerna.
 
-2. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utreda på vilket
+2\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att utreda på vilket
 sätt man kan genomföra en organisationsutveckling med en bibehållen
 decentraliserad organisation med verksamhetsnära koordinatorer.
 
@@ -1264,7 +1264,7 @@ Datum
 2025-11-13
 
 Avtal
--
+\-
 
 Övrigt
 
@@ -1372,7 +1372,7 @@ Diarienummer: VO-2023-00283. (Gemensam nämnd för Hemsjukvård och
 Hjälpmedel) GNHH, § 47. Indikatorrapport 2 2025.
 Diarienummer: VO-2023-0283. (Gemensam nämnd för Hemsjukvård och
 Hjälpmedel) GNHH, § 51. Beslut om Verksamhetsplan GNHH 2025, plan 2026-
-2027.
+2027\.
 
 Beslutsunderlag
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2025-10-31

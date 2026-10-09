@@ -97,7 +97,7 @@ Uppföljning och prognos, april 2025
 Beslut
 
 Nämnden för Individ & Familjeomsorg godkänner uppföljning per april och prognos
-2025.
+2025\.
 
 Nämnden för Individ & Familjeomsorg uppmärksammar kommunstyrelsen på
 prognosen för helåret med underskott på 13,5 miljoner mot budget.

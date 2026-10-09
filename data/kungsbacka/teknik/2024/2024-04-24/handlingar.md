@@ -234,7 +234,7 @@ utsläppskrav som förväntas.
 
 5.2.1 Befolkning
 Verket föreslås klara av avloppsvatten motsvarande 75000 pe 2035 och 95000 pe
-2050. Det inkludera en överkapacitet om 20 % som marginal för oförutsedd högre
+2050\. Det inkludera en överkapacitet om 20 % som marginal för oförutsedd högre
 
 befolkningsökning.
 
@@ -435,7 +435,7 @@ Markberedning
 
 Rivningskostnader
 
-Bräddrening*
+Bräddrening\*
 Summa
 
 Projektering 25 %
@@ -444,7 +444,7 @@ Kommunikation
 
 Summa allt                                   Mkr
 
-*Ingår i rivningskostnader
+\*Ingår i rivningskostnader
 
 Tabell 4 Investeringskalkyl
 Kostnaderna för markköp, markberedning och ledningsrätter är beräknade från
@@ -1083,18 +1083,18 @@ Om   projektet
 Kungsbacka kommun tillsammans med bland annat Envidan och Inom ramen för denna studie så studeras fyra alternativ för
 ByggDialog utreder ett antal alternativ för att bygga om Hammar- slamhanteringen år 2037:
 gårds avloppsreningsverk så att det skall klara av att rena vatten från
--  Rötning av slam där biogasen uppgraderas till fordonsgas.
+\-  Rötning av slam där biogasen uppgraderas till fordonsgas.
 betydligt fler personer än idag samtidigt som utsläppskraven ökar.
 (benämns även som Grundfall i denna rapport)
 Inom ramen för tidigare analyser har man studerat alternativ och
 förutsättningar både för åren 2037 och 2050. Man räknar med att - Rötning av slam där biogasen förbränns i en gasmotor för
 flöden och belastning gradvis kommer att öka från idag fram till elproduktion.
-2050. Året 2037 speglar förutsättningarna ungefär i mitten av
+2050\. Året 2037 speglar förutsättningarna ungefär i mitten av
 perioden från idag till 2050.                       -  Rötning av slam där biogasen förbränns i en gaspanna för
 värmeproduktion.
 I detta projekt studeras klimatpåverkan från Hammargårds avlopps-
 reningsverk. Utredningen beskriver avloppsreningsverkets
--  Pyrolys av slammet med spridning av biokol på åkermark
+\-  Pyrolys av slammet med spridning av biokol på åkermark
 klimatpåverkan i ett övergripande perspektiv. Detta innebär att
 klimatbokslutet beskriver både direkta utsläpp från den egna
 Utöver detta studeras också ett fall där Grundfallet kombineras med
@@ -1345,7 +1345,7 @@ Summa av tillförda och undvikna utsläpp 2 864
 
 <!-- sida 35 -->
 
--  Rötning av slam där biogasen förbränns i en gasmotor för
+\-  Rötning av slam där biogasen förbränns i en gasmotor för
 Framtidsanalys      2037
 elproduktion. Det rötade slammet sprids på åkermark. Den
 ökade elproduktionen bidrar till att ersätta annan elproduktion i
@@ -1358,14 +1358,14 @@ ByggDialog utreder ett antal alternativ för att bygga om Hammar-
 av slam och nyttor av detta är desamma som i Grundfallet.
 gårds avloppsreningsverk så att det skall klara av att rena vatten från
 betydligt fler personer än idag samtidigt som utsläppskraven ökar.
--  Rötning av slam där biogasen förbränns i en gaspanna för
+\-  Rötning av slam där biogasen förbränns i en gaspanna för
 Inom ramen för tidigare analyser har man studerat alternativ och värmeproduktion. Det rötade slammet sprids på åkermark. Den
 förutsättningar både för åren 2037 och 2050. Man räknar med att ökade värmeproduktionen bidrar till att ersätta annan
 flöden och belastning gradvis kommer att öka från idag fram till värmeproduktion i Kungsbackas fjärrvärmenät och undviker
-2050. Året 2037 speglar förutsättningarna ungefär i mitten av därmed förbränning av biobränsle. Hantering av slam och nyttor
+2050\. Året 2037 speglar förutsättningarna ungefär i mitten av därmed förbränning av biobränsle. Hantering av slam och nyttor
 perioden från idag till 2050.                          av detta är desamma som i Grundfallet.
 I det underlag som Profu tagit del av så förutsätts att AGS2 är vald
--  Pyrolys av slammet som energimässigt drivs av den gas som
+\-  Pyrolys av slammet som energimässigt drivs av den gas som
 vattenreningsprocessteknik och kompletterar befintlig biologisk
 bildas vid pryrolysen och som förbränns. Processen genererar
 rening.
@@ -1375,7 +1375,7 @@ Inom ramen för denna studie så studeras fyra alternativ för
 det lokala fjärrvärmenätet i Kungsbacka och därigenom ersätta
 slamhanteringen:
 förbränning av biobränsle. Pyrolysen generar också ett biokol
--  Rötning av slam där biogasen uppgraderas till fordonsgas. som antas spridas på åkermark. Biokolet förutsätts innehålla lika
+\-  Rötning av slam där biogasen uppgraderas till fordonsgas. som antas spridas på åkermark. Biokolet förutsätts innehålla lika
 Det rötade slammet sprids på åkermark. Fordonsgasen bedöms mycket fosfor som det rötade slammet i fallen med rötning, men
 år 2037 kunna ersätta fossila drivmedel i transportsystemet. innehållet av kväve är lägre på grund av förluster vid pyrolysen.
 Slammet sprids på åkermark och ersätter alternativ kväve- och
@@ -1804,7 +1804,7 @@ nettoklimatpåverkan för varje fall har här slagits ut på hur stor reningsins
 removed
 OCP = Oxygen Consumption Potential är ett mått på belastningen från inkommande avloppsvatten. OCP beräknas med följande formel:
 removed
-OCP    = COD    + 100* Total-P + 18*Total-N – 4,5*NO -N
+OCP    = COD    + 100\* Total-P + 18\*Total-N – 4,5\*NO -N
 removed  removed       removed     removed    3 removed
 I dessa beräkningar har dock den sista termen (nitratkväve) inte inkluderats då det saknats data för denna post.
 Figuren visar tydligt att alla de aktuella fallen för ny/ombyggd anläggning har klart lägre nettoklimatpåverkan än den gamla anläggningen.
@@ -2222,8 +2222,8 @@ vattenverksamhet inför anläggandet av våtmarken.
 2.5.1 Riksintressen
 Området omfattas inte av riksintresse enligt 3 eller 4 kap Miljöbalken. Sydväst
 om E6:an finns:
--  Riksintresse för högexploaterad kust 4 kap 4 § MB.
--  Riksintresse för naturvård, Kungsbackafjorden-Södra Onsalahalvön-
+\-  Riksintresse för högexploaterad kust 4 kap 4 § MB.
+\-  Riksintresse för naturvård, Kungsbackafjorden-Södra Onsalahalvön-
 Nidingen.
 
 Natura 2000 är ett nätverk av skyddade områden i hela EU. Syftet är att främja
@@ -2269,8 +2269,8 @@ eller ersätta biotopen. Ingen kartläggning av biotoper finns inom området.
 De delar av området som ligger inom 100 meter från Kungsbackaån, berörs av
 strandskydd.
 Strandskyddet syftar till att långsiktigt
-1. trygga förutsättningarna för allemansrättslig tillgång till strandområden, och
-2. bevara goda livsvillkor för djur- och växtlivet på land och i vatten.
+1\. trygga förutsättningarna för allemansrättslig tillgång till strandområden, och
+2\. bevara goda livsvillkor för djur- och växtlivet på land och i vatten.
 Lag (2009:532).
 
 Inom strandskyddat område får inte anläggningar eller byggnader uppföras som
@@ -2781,10 +2781,10 @@ faunadepåer i närområdet etc,) som i så fall bekostas av skattekollektivet o
 som är möjligt att ansöka om LOVA- och LONA bidrag för.
 För vidare arbete inför anläggande av våtmark bedöms (minst) följande
 utredningar behövas:
-1. Kostnads- och ansvarsfördelning för investering och driftskede av
+1\. Kostnads- och ansvarsfördelning för investering och driftskede av
 våtmarken för de parter som kommer att få nytta av våtmarken
 (Statkraft, VA-kollektivet och skattekollektivet).
-2. Geoteknisk undersökning för utredning av
+2\. Geoteknisk undersökning för utredning av
 a. eventuella stabilitetsproblem längs Kungsbackaån,
 b. anläggningsarbeten och drift av våtmark,
 c. erosionsförmåga och hastigheter,
@@ -2798,15 +2798,15 @@ D okumentreferens Hammargård PM - second opinion SH 240227          24/27
 
 d. erforderligt avstånd till Kungsbackaån,
 e. vägar /stigar för rekreation och skötselarbeten runt våtmarken.
-3. Höjdsättning och avledning av renat spillvatten från Hammargård ARV
+3\. Höjdsättning och avledning av renat spillvatten från Hammargård ARV
 till våtmarken.
-4. Inmätning av diken för att utreda förutsättningar för avledning av vatten
+4\. Inmätning av diken för att utreda förutsättningar för avledning av vatten
 till våtmarken.
-5. Utformning av in- och utlopp till våtmarken för att styra vattennivån.
+5\. Utformning av in- och utlopp till våtmarken för att styra vattennivån.
 Eventuellt vill man kunna sänka våtmarken vid skötselåtgärder.
-6. Utformning för att minska negativa effekter på tekniska anordningar vid
+6\. Utformning för att minska negativa effekter på tekniska anordningar vid
 höga vattenstånd i hav och Kungsbackaån.
-7. Förprojektering och projektering av våtmarken inkl. tekniska delar.
+7\. Förprojektering och projektering av våtmarken inkl. tekniska delar.
 Åtgärden bedöms medföra stora mervärden och det är viktigt att inte låsa in sig
 i ett hörn vid diskussioner kring andra samhällsviktiga projekt som skulle kunna
 störa dessa ”skapade” höga naturvärden.
@@ -3009,20 +3009,20 @@ I SVU-rapporten 2022-3 Juridiska utmaningar när avloppsvatten blir tekniskt vat
 sammanfattades de vanligaste juridiska frågorna som uppkommer när avloppsvatten ska
 användas som tekniskt vatten. I den juridiska analysen som genomfördes som en del i projektet
 kom man fram till följande:
--  De allmänna hänsynsreglerna gäller alltid för all hantering av tekniskt vatten, och särskilt
+\-  De allmänna hänsynsreglerna gäller alltid för all hantering av tekniskt vatten, och särskilt
 viktig är försiktighetsprincipen som medför krav på kvaliteten så att olägenhet för miljö och
 hälsa inte uppkommer.
 
--  Delvis oklart vilka tillståndskrav som gäller utan det beror på det enskilda fallet, eventuellt
+\-  Delvis oklart vilka tillståndskrav som gäller utan det beror på det enskilda fallet, eventuellt
 kan det klassas som miljöfarlig verksamhet
 
--  Tillhandahållande av tekniskt vatten omfattas inte av lagen om allmänna vattentjänster så
+\-  Tillhandahållande av tekniskt vatten omfattas inte av lagen om allmänna vattentjänster så
 som lagstiftningen ser ut idag.
 
--  Tekniskt vatten som används utanför va-verksamheten omfattas det förmodligen av
+\-  Tekniskt vatten som används utanför va-verksamheten omfattas det förmodligen av
 produktansvarslagen, men det är inte prövat hur långt ansvaret sträcker sig.
 
--  I vissa fall kan tekniskt vatten anses vara ett avfall och då tillkommer tillståndskrav för
+\-  I vissa fall kan tekniskt vatten anses vara ett avfall och då tillkommer tillståndskrav för
 hantering och transport av avfallet.
 
 Enligt Naturvårdsverket (2023) klassas produktion av Tekniskt vatten i de flesta fall som miljöfarlig
@@ -3494,33 +3494,33 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 Innehållsförteckning
 
-1. Bakgrund och uppdrag ....................................................................................... 3
-2. Samarbetsformer mellan kommuner ....................................................................... 4
+1\. Bakgrund och uppdrag ....................................................................................... 3
+2\. Samarbetsformer mellan kommuner ....................................................................... 4
 2.1  Avtalssamverkan ........................................................................................ 4
 
 2.2  Gemensam nämnd ...................................................................................... 5
 2.3  Kommunalt bolag ....................................................................................... 6
 
 2.4  Kommunalförbund ...................................................................................... 7
-3. Påverkande lagstiftning ...................................................................................... 9
+3\. Påverkande lagstiftning ...................................................................................... 9
 3.1  Kommunallagen......................................................................................... 9
 
 3.2  Vattentjänstlagen ...................................................................................... 9
 3.3  Upphandlingslagstiftning ............................................................................. 10
 
 3.4  Konkurrenslagen ....................................................................................... 11
-4. Arbetssätt ..................................................................................................... 12
+4\. Arbetssätt ..................................................................................................... 12
 4.1  SWOT-analys ........................................................................................... 12
 
 4.2  Omvärldspaning ....................................................................................... 13
-5. Resultat ....................................................................................................... 14
+5\. Resultat ....................................................................................................... 14
 
 5.1  Organisationsförändring och samverkan ........................................................... 14
 5.2  Analys och sammanfattning baserad på SWOT .................................................... 14
 5.2.1 Sammanfattning av diskussioner ................................................................. 15
 
 5.3  Slutsatser ............................................................................................... 16
-6. Rekommendation för fortsatt arbete ..................................................................... 17
+6\. Rekommendation för fortsatt arbete ..................................................................... 17
 6.1  Förslag på process för att skapa samverkan ....................................................... 17
 
 6.1.1 Förslag på aktiviteter vid avtalssamverkan ..................................................... 17
@@ -3535,7 +3535,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                        Sida 3 av 22
 
-1.  Bakgrund och uppdrag
+1\.  Bakgrund och uppdrag
 
 Både Kungsbacka och Laholmsbuktens VA AB (LBVA) utreder idag hur deras framtida hantering av
 slam från avloppsreningsverk ska utformas. Båda organisationerna ser en potential i att samverka
@@ -3553,7 +3553,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                        Sida 4 av 22
 
-2.  Samarbetsformer mellan kommuner
+2\.  Samarbetsformer mellan kommuner
 
 Det finns en lång tradition av samarbete mellan kommuner. Det handlar framför allt om informell
 samverkan i olika nätverk eller genom kontakter på tjänstepersonsnivå för utbyte av information
@@ -3800,7 +3800,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                        Sida 9 av 22
 
-3.  Påverkande lagstiftning
+3\.  Påverkande lagstiftning
 
 Detta är en kortfattad genomgång av vissa centrala lagar och undantag som kan vara bra att beakta
 i det fortsatta utredningsarbetet kring en eventuell samverkan mellan kommunerna, val av
@@ -3937,7 +3937,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                       Sida 12 av 22
 
-4.  Arbetssätt
+4\.  Arbetssätt
 
 Utredningen om regionalt samarbete kring en gemensam rötningsanläggning och lämpliga
 samverkansformer bygger på en workshop där SWOT-analys1 och en omvärldsspaning genomfördes.
@@ -4004,7 +4004,7 @@ AB.
 för att arbeta med förbränning av slam från Norrbotten, Västerbotten, Västernorrland och
 Jämtland. Ett flertal kommuner är positiva till gemensamt delägarskap och beslutsprocesser
 pågår nu i dessa kommuner. Den nya monoförbränningsanläggningen planeras vara i drift
-2026.
+2026\.
 
 www.envidan.se • Organisationsnummer 556666-5468
 
@@ -4012,7 +4012,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                       Sida 14 av 22
 
-5.  Resultat
+5\.  Resultat
 
 5.1 Organisationsförändring och samverkan
 All organisationsförändring och samverkan kräver tid och resurser. I första hand är där en period där
@@ -4144,7 +4144,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                       Sida 17 av 22
 
-6.  Rekommendation  för fortsatt arbete
+6\.  Rekommendation  för fortsatt arbete
 För att komma vidare i en eventuell samverkan behöver idén förankras i respektive kommuns
 politiska och tjänstemannaorganisation. Genom att besluta om en avsiktsförklaring kring samarbete
 skapas en tydlig grund för vidare utredning och även för eventuell inriktning på denna. En
@@ -4670,7 +4670,7 @@ mörhålevägen
 S
 6:27
 KEMTANKAR
-+
+\+
 DOSERING
 P
 ER
@@ -4693,10 +4693,10 @@ G
 SANDFILTERBYGGNAD
 LÄKEMEDELSRENING
 FÖRSEDIMENTERING B
-+
+\+
 I O
 S
--
+\-
 S
 P
 H
@@ -4939,30 +4939,30 @@ P-40-0-103            -
 
 <!-- sida 131 -->
 
-6.
+6\.
 
-4.
-2.
-7.                                                     1. SANDFILTERBYGGNAD
-2. INLOPPSBYGGNAD
-3. EL- OCH VENTRUM
-3.                5.    8.
-4. KEMTANKAR/DOSERING
-1.                                                                                              5. VERKSTAD DRIFT M.M.
-6. PERSONALBYGGNAD
-7. BIO-P+SSH
-8. FÖRSEDIMENTERING
-9. MELLANSEDIMENTERING
-10. QUATRO-DENIPHO
-9.
-11. AGS
-12. SLAMHANTERING
+4\.
+2\.
+7\.                                                     1. SANDFILTERBYGGNAD
+2\. INLOPPSBYGGNAD
+3\. EL- OCH VENTRUM
+3\.                5.    8.
+4\. KEMTANKAR/DOSERING
+1\.                                                                                              5. VERKSTAD DRIFT M.M.
+6\. PERSONALBYGGNAD
+7\. BIO-P+SSH
+8\. FÖRSEDIMENTERING
+9\. MELLANSEDIMENTERING
+10\. QUATRO-DENIPHO
+9\.
+11\. AGS
+12\. SLAMHANTERING
 
-10.
+10\.
 
-11.
+11\.
 
-12.
+12\.
 Visionsbild Hammargårds  ARV
 
 <!-- sida 132 -->
@@ -4987,7 +4987,7 @@ mörhålevägen
 S
 6:27
 KEMTANKAR
-+
+\+
 DOSERING
 P
 ER
@@ -5010,10 +5010,10 @@ G
 SANDFILTERBYGGNAD
 LÄKEMEDELSRENING
 FÖRSEDIMENTERING B
-+
+\+
 I O
 S
--
+\-
 S
 P
 H
@@ -5300,7 +5300,7 @@ Uppgifter tagna från dokument ”Beskrivning av anläggningsdelar” samt proce
 | SS koncentration | 2,5-4,7 | 2,5-4,7 | 2,5-4,7 | Kg SS/m³ |
 | Returslampumpning,<br>årsmedel | 60 | 60 | 60 | % av Q<br>adwf |
 | Total slamålder vid<br>design T | 22 | 22 | 22 | d |
-| Nitrifikationshastighet<br>vid design T | 1,02 | 1,02 | 1,02 | gN/(kgVSS*h) |
+| Nitrifikationshastighet<br>vid design T | 1,02 | 1,02 | 1,02 | gN/(kgVSS\*h) |
 | Simultanfällning | 2 | 2 | 2 | Mol Me/mol P<br>borttaget |
 | VSS / SS | 75 | 75 | 75 | % |
 | α-faktor | 0,65 | 0,65 | 0,65 | - |
@@ -5638,14 +5638,14 @@ Processvalsstudien för vattenreningen vid framtida Hammargård resulterade i en
 inte gick gör skillnad mellan processvalen aktvislam (CAS) och aeroba granuler (AGS). För att kunna
 komma fram till vilken process som var bäst lämpad så föreslog styrgruppen på mötet den 1
 september tre tillkommande kriterier som skulle utvärderas:
-1. Byggbarhet, ytor och skalbarhet
+1\. Byggbarhet, ytor och skalbarhet
 
-2. Avtal och Ansvar
-3. Osäkerheter och risker ekonomi
+2\. Avtal och Ansvar
+3\. Osäkerheter och risker ekonomi
 Projketgruppen har sedan september arbetet med att samla in underlag för att göra en objektiv
 
 värdering som möjligt.
-1. Utvärderingsmodell
+1\. Utvärderingsmodell
 
 Modellen för utvärdering har varit lik den som användes i huvudstudien och har fokuserats på
 förhållandes som utgör skillnader mellen de olika teknikerna.
@@ -5665,7 +5665,7 @@ Byggbarhet, ytor och skalbarhet 40%
 Avtal och Ansvar        20%
 Osäkerheter och risker ekonomi 40%
 
-2. Byggbarhet, ytor och skalbarhet
+2\. Byggbarhet, ytor och skalbarhet
 Under ombyggnationen kommer reningsverket behöva leva upp till gällande utsläppsvillkor. För att
 
 detta ska vara möjligt behöver större delen av anläggningen hållas i drift under ombyggnationen.
@@ -5759,7 +5759,7 @@ Byggbarhet, ytor och skalbarhet 3 4
 
 <!-- sida 152 -->
 
-3. Avtal och Ansvar
+3\. Avtal och Ansvar
 Bedömningar har utgått ifrån att belysa de svårigheter och frågeställningar som finns kring att
 upphandla samt samarbeta med RHDHV (Leverantör av AGS-processen) både under genomförande,
 garanti och drift. Även beskriva hur upplägget ser ut för CAS så skillnaderna blir tydliga.
@@ -5787,9 +5787,9 @@ reningsprocessen på ett avloppsreningsverk (Strömstad).
 Upphandling
 Frågeställningar som har utretts:
 
--  Vilken part tecknar avtal med RHDHV?
--  Entreprenadform?
--  Kontraktutformning, jurist(er)?
+\-  Vilken part tecknar avtal med RHDHV?
+\-  Entreprenadform?
+\-  Kontraktutformning, jurist(er)?
 
 RHDHV kan tänka sig att teckna avtal och leverera utrustning antingen via entreprenör eller direkt
 mot slutkund, Kungsbacka kommun. I Strömstad valde man att handla upp AGS-processen på delad
@@ -5805,15 +5805,15 @@ Genomförande
 
 Nedan listas normalt genomförande enligt RHDHV.
 
-1. Design & Engineering (Grundläggande och processdesign – detaljdesigngranskning)
-2. Byggledning, driftsättning & uppstartsstöd
-3. Leverans av Nereda Controller (mjukvara)
+1\. Design & Engineering (Grundläggande och processdesign – detaljdesigngranskning)
+2\. Byggledning, driftsättning & uppstartsstöd
+3\. Leverans av Nereda Controller (mjukvara)
 
 <!-- sida 153 -->
 
-4. Process Performance Test support incl. possible Process Guarantee
-5. Nereda slutanvändarlicens
-6. Driftsstöd under det första 1 året (nivå 'Silver') av Nereda Controller -se ovan-
+4\. Process Performance Test support incl. possible Process Guarantee
+5\. Nereda slutanvändarlicens
+6\. Driftsstöd under det första 1 året (nivå 'Silver') av Nereda Controller -se ovan-
 
 Det går i nuläget inte att bedöma tidsåtgången innan förutsättningarna tydligare definierats.
 
@@ -5882,18 +5882,18 @@ förtroende för fabrikatet om den förväntas bära garantiansvaret.
 Sekretess
 
 Frågeställningar som har utretts:
--  Vad kan man dela med sig av för data till andra aktörer?
+\-  Vad kan man dela med sig av för data till andra aktörer?
 
--  Hur hanteras sekretess vid t ex reparationsarbeten
--  Särskilt skyddade delar i processen?
--  Vilka behöver skriva sekretessavtal t ex studiebesök?
--  Ställs extra krav på skalskydd/bevakning?
+\-  Hur hanteras sekretess vid t ex reparationsarbeten
+\-  Särskilt skyddade delar i processen?
+\-  Vilka behöver skriva sekretessavtal t ex studiebesök?
+\-  Ställs extra krav på skalskydd/bevakning?
 
 I avtalet regleras vad som får delas med andra aktörer och ej. Alla som besöker anläggningen behöver
 skriva på ett sekretessavtal. Det ställs inte några extra krav på skalskydd.
 Drift
 
--  Måste man teckna licens/serviceavtal? Kostnad?
+\-  Måste man teckna licens/serviceavtal? Kostnad?
 
 Nej men för att få processgaranti måste ett serviceavtal / prenumeration på silvernivå tecknas (finns i
 Brons, Silver, Guld). RHDHV uppger att de inte vill ytterligare diskutera priserna för dessa paket innan
@@ -5908,14 +5908,14 @@ uppdateringar av mjukvara och eventuellt stöd som köps in men det är ju samma
 
 för process, enda skillnaden är att det finns fler aktörer man kan vända sig till om man har en
 aktivslamprocess.
--  Språk för kommunikation och dokumentation
+\-  Språk för kommunikation och dokumentation
 
 All kommunikation sker på engelska och all dokumentation överlämnas på engelska.
 
--  Möjlighet att påverka/styra och göra ingrepp i processen, påverkas garantin?
+\-  Möjlighet att påverka/styra och göra ingrepp i processen, påverkas garantin?
 
 Ändringar gällande Nereda processen görs i samförstånd med RHDHV.
--  Integration överordnat styrsystem
+\-  Integration överordnat styrsystem
 
 <!-- sida 155 -->
 
@@ -5923,7 +5923,7 @@ Nereda controller interagerar med överordnat styrsystem. RHDHV tillhandahåller
 funktionsbeskrivning för Nereda processen. Strömstad kommun var mycket nöjda med styrningen och
 uppgav att Nereda mjukvaran låg på en egen server som RHDHV har åtkomst till.
 
--  Vilka krav ställs på verksamhetsutövaren?
+\-  Vilka krav ställs på verksamhetsutövaren?
 Många kontroller och provtagningar, framförallt under intrimningsperioden.
 
 AGS processen erfordrar enligt driftpersonalen på Österröd ett större underhållsbehov (cirka 20h /
@@ -5959,7 +5959,7 @@ Avtal och Ansvar         4     3
 
 <!-- sida 156 -->
 
-4. Osäkerheter och risker ekonomi
+4\. Osäkerheter och risker ekonomi
 Utvärderingen har utgått från att titta på vilka osäkerheter och risker för vattenreningsprocessen som
 finns i grovbudgeten samt i LCC-kalkylerna och om det finns skillnader mellan processförslagen.
 Uppskatta hur stora osäkerheterna och riskerna är för respektive förslag och bedöma dem utifrån
@@ -6311,11 +6311,11 @@ processen.
 Villkor
 För tillståndet gäller följande villkor:
 
-1. Om inte annat följer av övriga villkor ska verksamheten bedrivas i huvudsaklig
+1\. Om inte annat följer av övriga villkor ska verksamheten bedrivas i huvudsaklig
 överensstämmelse med vad sökanden har angett i ansökningshandlingarna och i
 övrigt åtagit sig i ärendet.
 
-2. Fram till och med den 31 december 2029 gäller följande för utgående behandlat
+2\. Fram till och med den 31 december 2029 gäller följande för utgående behandlat
 avloppsvatten:
 
 BOD  får som medelvärde under tre år inte överstiga 10 mg/l eller totalt 33 ton per år.
@@ -6342,7 +6342,7 @@ LÄNSSTYRELSEN                    Beslut                   3(42)
 
 2023-04-26        551-1415-2021
 
-3. Buller från verksamheten får inte ge upphov till högre ekvivalent ljudnivå (Leq)
+3\. Buller från verksamheten får inte ge upphov till högre ekvivalent ljudnivå (Leq)
 utomhus vid bostäder än:
 
 50 dB(A) helgfri måndag-fredag     kl. 06.00–18.00
@@ -6361,10 +6361,10 @@ Kontroll ska ske med hjälp av närfältsmätningar och beräkningar alternativt
 missionsmätningar. Mätning och beräkning av ekvivalent ljudnivå ska utföras
 för den tid då den bullrande verksamheten pågår.
 
-4. Införande av nya eller ändringar av processkemikalier får endast ske efter till-
+4\. Införande av nya eller ändringar av processkemikalier får endast ske efter till-
 synsmyndighetens medgivande.
 
-5. Kemiska produkter och farligt avfall ska förvaras och hanteras så att spill och
+5\. Kemiska produkter och farligt avfall ska förvaras och hanteras så att spill och
 läckage inte kan nå avlopp och så att förorening av mark, yt- och grundvatten
 undviks. Ämnen som kan avdunsta ska förvaras så att risken för avdunstning mi-
 nimeras. Förvaring ska ske så att sinsemellan reaktiva ämnen inte kan blandas.
@@ -6376,7 +6376,7 @@ rens volym plus 10 % av volymen av övriga behållare inom samma invallning.
 Behållare ska skyddas mot påkörning och vid förvaring utomhus ska invall-
 ningen vara skyddad mot nederbörd.
 
-6. Sökanden ska fortlöpande se över, underhålla och åtgärda de pumpstationer och
+6\. Sökanden ska fortlöpande se över, underhålla och åtgärda de pumpstationer och
 ledningar och den övriga utrustning på ledningsnätet som verksamhetsutövaren
 
 har rådighet över i syfte att minimera läckaget av tillskottsvatten samt utsläppen
@@ -6385,7 +6385,7 @@ ska en aktuell plan för lämpliga åtgärder finnas och följas. Planen ska lä
 till tillsynsmyndigheten senast sex månader efter att tillståndet vunnit laga kraft
 och därefter uppdateras minst vart femte år.
 
-7. Det ska finnas en beredskapsplan, nödvändiga rutiner och utrustning för riskhan-
+7\. Det ska finnas en beredskapsplan, nödvändiga rutiner och utrustning för riskhan-
 tering vid underhålls- och driftstopp samt vid olyckor, inklusive utrustning för
 
 att minimera risken för läckage vid hantering av kemiska produkter.
@@ -6396,23 +6396,23 @@ LÄNSSTYRELSEN                    Beslut                   4(42)
 
 2023-04-26        551-1415-2021
 
-8. Vid haveri eller omfattande byggnads- eller underhållsarbeten som medför att
+8\. Vid haveri eller omfattande byggnads- eller underhållsarbeten som medför att
 avloppsreningsanläggningen helt eller delvis måste tas ur drift ska åtgärder vid-
 tas för att begränsa föroreningsutsläppen. Tillsynsmyndigheten ska informeras.
 
-9. Verksamheten ska bedrivas så att lukt och andra olägenheter förebyggs eller be-
+9\. Verksamheten ska bedrivas så att lukt och andra olägenheter förebyggs eller be-
 gränsas. Om olägenheter uppstår i omgivningen till följd av verksamheten ska
 
 verksamhetsutövaren vidta nödvändiga åtgärder så att olägenheterna upphör.
 Villkoret gäller reningsverkets verksamhet inklusive pumpstationer och led-
 ningsnät.
 
-10. Sökanden ska i syfte att hushålla med energi utforma, och löpande optimera,
+10\. Sökanden ska i syfte att hushålla med energi utforma, och löpande optimera,
 energianvändningen i verksamheten. Energiaspekten ska beaktas vid val av
 pumpar, fläktar och annan utrustning samt vid översyn av underhålls- och drifts-
 rutiner för verksamheten.
 
-11. Ett aktuellt kontrollprogram ska finnas för verksamheten och ska följas. Kon-
+11\. Ett aktuellt kontrollprogram ska finnas för verksamheten och ska följas. Kon-
 trollprogrammet ska möjliggöra en bedömning av om villkoren följs. Det ska
 ingå periodiska besiktningar vart tredje år. Det ska även ingå provtagning av
 bakterier i utsläppspunkten varje vecka under badsäsong. I kontrollprogrammet
@@ -6420,13 +6420,13 @@ ska anges mätmetoder, mätfrekvens och utvärderingsmetoder. Sökanden ska
 skicka in ett reviderat kontrollprogram för verksamheten till tillsynsmyndig-
 heten inom tre månader från det att detta beslut har tagits i anspråk.
 
-12. Sökanden ska arbeta med en åtgärdsplan för att sänka belastningen av närings-
+12\. Sökanden ska arbeta med en åtgärdsplan för att sänka belastningen av närings-
 ämnen från avrinningsområdet Kungsbackaån och till tillsynsmyndigheten årli-
 gen redovisa hur arbetet enligt åtgärdsplanen fortskrider. Redovisningen ska
 minst omfatta vilka åtgärder som avtalats och i övrigt planeras samt vilka åtgär-
 der som utförts och deras bedömda effekt.
 
-13. Om verksamheten i sin helhet eller i någon del slutligt avvecklas, ska verksam-
+13\. Om verksamheten i sin helhet eller i någon del slutligt avvecklas, ska verksam-
 hetsutövaren senast två år innan upprätta en plan för avvecklingen och efterbe-
 handlingen. Planen ska godkännas av tillsynsmyndigheten.
 
@@ -6565,7 +6565,7 @@ remiss till Vattenmyndigheten för Västerhavets vattendistrikt, Nämnden för M
 Hälsoskydd i Kungsbacka kommun samt till Länsstyrelsen. Yttranden har kommit in.
 
 Sökanden har i sin tur kommenterat yttrandena i en skrivelse som kom in den 24 mars
-2023.
+2023\.
 
 Ansökan och yrkanden
 
@@ -7169,7 +7169,7 @@ tillståndsprövningen 1984/1985.
 
 För området gäller översiktsplan för Kungsbacka kommun, som antogs av kommunfull-
 mäktige 2006. Vidare gäller fördjupad översiktsplan för Kungsbacka stad, som antogs
-2009. Beslut om att översiktsplanen med tillhörande fördjupningsplaner fortfarande är
+2009\. Beslut om att översiktsplanen med tillhörande fördjupningsplaner fortfarande är
 aktuella togs av kommunfullmäktige 2018. För området finns en ny översiktsplan ”Vårt
 framtida Kungsbacka”1. En ny fördjupad översiktsplan för Kungsbacka stad planeras
 
@@ -7500,21 +7500,21 @@ målen för bevarandeplanen även om det inte har uttryckts i siffror i bevarand
 Kungsbackafjorden.
 En livsmiljös bevarandestatus anses gynnsam när:
 
-1. Dess naturliga eller hävdbetingade utbredningsområde och de ytor den täcker inom
+1\. Dess naturliga eller hävdbetingade utbredningsområde och de ytor den täcker inom
 detta område är stabila och ökande
 
-2. Den särskilda struktur och de särskilda funktioner som är nödvändiga för att den skall
+2\. Den särskilda struktur och de särskilda funktioner som är nödvändiga för att den skall
 kunna bibehållas på lång sikt finns och sannolikt kommer att finnas under en överskåd-
 lig framtid, och
 
-3. Bevarandestatusen hos dess typiska arter är gynnsam
+3\. Bevarandestatusen hos dess typiska arter är gynnsam
 Övergödning minskar den biologiska mångfalden bland annat genom att
 
-- förhållandet mellan organismer i vattnet störs,
+\- förhållandet mellan organismer i vattnet störs,
 
-- den växtlighet som utgör skydd och födosöksområden för fiskyngel och andra djur på-
+\- den växtlighet som utgör skydd och födosöksområden för fiskyngel och andra djur på-
 verkas negativt,
-- mängder med växtmaterial som faller till botten och skapar syre-brist som slår ut bot-
+\- mängder med växtmaterial som faller till botten och skapar syre-brist som slår ut bot-
 
 tenlevande djur och fiskar.
 Ovanstående påverkan från övergödning finns redan i Kungsbackafjorden och det på-
@@ -7920,7 +7920,7 @@ LÄNSSTYRELSEN                    Beslut                  33(42)
 
 industri. Kungsbacka kommuns nya översiktsplan vann laga kraft den 26 januari 2022.2
 Det finns även en fördjupad översiktsplan för Kungsbacka stad som antogs den 16 juni
-2009.
+2009\.
 
 Den fördjupade översiktsplanen anger följande: ”Markområde för framtida utbyggnad
 av reningsverket reserveras väster om järnvägen. En tänkbar utveckling är att anlägga
@@ -8230,8 +8230,8 @@ LÄNSSTYRELSEN                    Beslut                  40(42)
 
 Bilaga
 
-1. Karta
-2. Pumpstationer
+1\. Karta
+2\. Pumpstationer
 
 Kopia
 Naturvårdsverket; registrator@naturvardsverket.se
@@ -8334,14 +8334,14 @@ insamlingskostnaden för förpackningar får mellanskillnaden tas ut via avfalls
 Förvaltningen har utrett olika möjliga system för fastighetsnära insamling i Kungsbacka kommun.
 Alternativen som har utretts är:
 
-1) Fyra tvåfackskärl
-2) Tre tvåfackskärl med separat sidolösning för metallförpackningar
+1\) Fyra tvåfackskärl
+2\) Tre tvåfackskärl med separat sidolösning för metallförpackningar
 
-3) Fyrfackkärl
-4) Befintliga kärl kompletteras med två tvåfackskärl och separat sidolösning för
+3\) Fyrfackkärl
+4\) Befintliga kärl kompletteras med två tvåfackskärl och separat sidolösning för
 metallförpackningar
 
-5) Optisk sortering - befintliga kärl kompletteras med ett tvåfackskärl för glas
+5\) Optisk sortering - befintliga kärl kompletteras med ett tvåfackskärl för glas
 Utredning har gjorts med hjälp av en konsultrapport som jämfört de olika systemen utifrån beräknade
 
 kostnader och körsträckor samt erfarenhet från avfallsbranschen. Rapporten fokuserar främst på vilken
@@ -8772,11 +8772,11 @@ registrerade vi drygt 100 besökare.
 4.1 Insamlingsalternativ
 
 I lokalen fanns tre stationer som visade följande alternativ:
-1. Optiska systemet med ett kärl för restavfall och förpackningar av plast, papper och metall,
+1\. Optiska systemet med ett kärl för restavfall och förpackningar av plast, papper och metall,
 ett kärl matavfall samt ett tvåfackskärl för glas
-2. Två fyrfackskärl
+2\. Två fyrfackskärl
 
-3. Befintliga två kärl för rest- och matavfall samt två tvåfackskärl
+3\. Befintliga två kärl för rest- och matavfall samt två tvåfackskärl
 
 Även påhängsbehållare för glödlampor, batterier och metall visades upp.
 Besökarna gick runt i lokalen och tittade på de olika alternativen, ställde frågor och lyfte
@@ -9036,7 +9036,7 @@ Verksamhetens kostnader
 
 För ett hushåll som har den vanligaste tjänsten med ett kärl för restavfall och ett kärl för matavfall ökar
 årsavgiften med föreslagen taxejustering från 2375 kronor år 2024 till 2660 kronor inklusive moms år
-2025.
+2025\.
 Hämtningsintervall för trädgårdsavfall har förlängts.
 
 Maxtaxor för auktorisationer (bygg- och rivningsavfall, returpapper flerbostadshus och förpackningar
@@ -9145,17 +9145,17 @@ kungsbacka.se
 <!-- sida 233 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................... 3
+1\. Inledande bestämmelser ........................................................................................... 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper .............................................................. 3
 1.3 Ägarbyte .................................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ...................................................................................................... 4
+2\. Beräkningsgrunder ...................................................................................................... 4
 
-3. Mervärdesskatt ............................................................................................................ 5
-4. Avgiftsbelopp/taxetabell ........................................................................................... 5
+3\. Mervärdesskatt ............................................................................................................ 5
+4\. Avgiftsbelopp/taxetabell ........................................................................................... 5
 
 4.1 Allmän information ................................................................................................ 5
 4.2 Abonnemangsformer ............................................................................................ 5
@@ -9173,7 +9173,7 @@ Kungsbacka kommun         Avfallstaxa 2025                    2
 
 <!-- sida 234 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 27 kap. 4–6 §§ miljöbalken. Avgift ska betalas till Kungsbacka kommun eller till den som
@@ -9242,7 +9242,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -9281,10 +9281,10 @@ Kungsbacka kommun         Avfallstaxa 2025                    4
 
 <!-- sida 236 -->
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 
@@ -9356,8 +9356,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    7
 
@@ -9369,14 +9369,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    7
 
 [Tabell 238-2](handlingar.tabeller/238-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, helår | 2 660 | 2 660 | 5 735 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 045 | Inte valbar |
 | 190 liter | Varannan vecka, helår | 3 255 | 3 255 | 7 245 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 305 | Inte valbar |
 | 370 liter | Varannan vecka, helår | 5 005 | 5 005 | 9 220 |
-| 660 liter** | Varannan vecka, helår | 12 920 | 12 920 | 20 445 |
+| 660 liter\*\* | Varannan vecka, helår | 12 920 | 12 920 | 20 445 |
 
 <!-- sida 239 -->
 
@@ -9389,8 +9389,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    8
 
@@ -9402,14 +9402,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    8
 
 [Tabell 239-2](handlingar.tabeller/239-2.csv)
 
-| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, delår | 1 325 | 1 325 | 2 865 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 025 | Inte valbar |
 | 190 liter | Varannan vecka, delår | 1 630 | 1 630 | 3 625 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 155 | Inte valbar |
 | 370 liter | Varannan vecka, delår | 2 505 | 2 505 | 4 610 |
-| 660 liter** | Varannan vecka, delår | 6 460 | 6 460 | 10 225 |
+| 660 liter\*\* | Varannan vecka, delår | 6 460 | 6 460 | 10 225 |
 
 <!-- sida 240 -->
 
@@ -9484,7 +9484,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -9511,7 +9511,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   10
 
 [Tabell 241-2](handlingar.tabeller/241-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -9895,7 +9895,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -9923,7 +9923,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   18
 
 [Tabell 249-2](handlingar.tabeller/249-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -10077,8 +10077,8 @@ Grundavgift container
 9 kbm
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 Kungsbacka kommun         Avfallstaxa 2025                   21
 
@@ -10100,8 +10100,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   21
 | Gips | 2 500 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 400 |
 | Metall | 350 |
-| Mineral* | 2 882 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 500 |
+| Mineral\* | 2 882 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 500 |
 | Planglas | 2 619 |
 | Plast (inkl. eftersortering) | 2 700 |
 | Tryckimpregnerat trä/slipers | 2 330 |
@@ -10120,8 +10120,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 4.5.3 Övriga avgifter
@@ -10151,8 +10151,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   22
 | Gips | 1 000 |
 | Kablar (ej farligt avfall) | 1 000 |
 | Metall | 175 |
-| Mineral* | 2 885 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 000 |
+| Mineral\* | 2 885 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 000 |
 | Planglas | 1 500 |
 | Plast | 1 000 |
 | Tryckimpregnerat trä/slipers | 1 165 |
@@ -10571,7 +10571,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 265 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -10624,7 +10624,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        2 (15)
 
 <!-- sida 266 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -10751,7 +10751,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter (§§ 5–12)
+3\. Anläggningsavgifter (§§ 5–12)
 
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 
@@ -10763,7 +10763,7 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
+\*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 
@@ -10780,7 +10780,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        5 (15)
 | b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
 | d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 212 kr |
-| e)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
+| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 269 -->
 
@@ -10863,7 +10863,7 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
+\*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
@@ -10892,7 +10892,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        7 (15)
 |  |  | V | S | Df | Dg | Totalavgift |
 | b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
+| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 271 -->
 
@@ -10951,7 +10951,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        8 (15)
 Bebyggs Obebyggd fastighet ska resterande avgifter betalas enligt följande:
 
 Avgifterna är uttryckta i procent av full avgift per vattentjänst.
-*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
+\*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
 medger detta.
 
 § 8
@@ -10995,7 +10995,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        9 (15)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
-| Tomtyteavgift | 5.1 c) | *) | 6.1 c) | 30% |
+| Tomtyteavgift | 5.1 c) | \*) | 6.1 c) | 30% |
 | Bostadsenhetsavgift | 5.1 d) | 100% | - |  |
 
 [Tabell 272-2](handlingar.tabeller/272-2.csv)
@@ -11066,7 +11066,7 @@ Avgifter enligt §§ 5–6 är baserade på Entreprenadindex 2011, 50% 311 Jorda
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4. Brukningsavgifter (§§ 14–21)
+4\. Brukningsavgifter (§§ 14–21)
 
 § 14
 
@@ -11270,7 +11270,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -11278,7 +11278,7 @@ Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -11304,7 +11304,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 280 -->
 
-1. Om Kungsbacka    Bredbandsnät
+1\. Om Kungsbacka    Bredbandsnät
 
 Kungsbacka bredbandsnät har genom Nämnden för Teknik sedan oktober 2010 i
 uppdrag av Kommunfullmäktige1 att svara för utbyggnad av kanalisation och
@@ -11339,7 +11339,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                2 (9)
 
 <!-- sida 281 -->
 
-2. Tjänster
+2\. Tjänster
 
 I Kungsbacka Bredbandsnät är idag en väsentlig del av anslutningarna till nätet
 relaterade till kommunens verksamhet. Det är ofta mycket kritiska anslutningar
@@ -11415,7 +11415,7 @@ inget annat avtalats.
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
 
-•  Tillgänglighet = 100*(mätperiod-oplanerade avbrott) / mätperiod.
+•  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
 Servicetid: inom den tid vilken felavhjälpning och service sker.
@@ -11441,7 +11441,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                4 (9)
 
 <!-- sida 283 -->
 
-3.       Avgifter och  taxor
+3\.       Avgifter och  taxor
 
 Samtliga priser är angivna exklusive moms om inget annat anges.
 
@@ -11617,7 +11617,7 @@ fibersatt område där Kungsbacka bredbandsnät tidigare lagt ner tom kanalisati
 
 som planeras årsvis.
 
-*Priser angivna inklusive moms.
+\*Priser angivna inklusive moms.
 
 3.6      Servicenivåer
 Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
@@ -11631,7 +11631,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                8 (9)
 
 [Tabell 286-1](handlingar.tabeller/286-1.csv)
 
-| Beskrivning | Engångsavgift* |
+| Beskrivning | Engångsavgift\* |
 | --- | --- |
 | Fiberanslutning till villa vid byggnation av ett område i tätort | 20 000 kr |
 | Fiberanslutning till villa vid byggnation av ett område på landsbygd | 25 000 kr |
@@ -11662,15 +11662,15 @@ fiberinstallation orsakad av tredje part, arbete i noder, aktivering eller omkop
 Avgiften kan även ligga till grund för riktpris gällande andra åtaganden som kräver
 teknikerinsats. Även restid och inställelsetid debiteras med samma timpris.
 
-* Pris angivet inklusive moms.
+\* Pris angivet inklusive moms.
 
-________________
+\________________
 
 Kungsbacka kommun             Bredbandstaxa 2024                9 (9)
 
 [Tabell 287-1](handlingar.tabeller/287-1.csv)
 
-| Arbete | Pris * | Förklaring |
+| Arbete | Pris \* | Förklaring |
 | --- | --- | --- |
 | Fibertekniker | 800 kr | Per påbörjad timme. Helgfri vardag kl.08-16 |
 
@@ -12039,14 +12039,14 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 300 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för förvaring av cykel i två olika typer av låst cykelförvaring.
 
 Taxan är beslutad med stöd av 2 kap 5§ kommunallagen (2017:725) KL.
 Taxan tillämpas avseende i den utsträckning som närmare föreskrivs i nedanstående
 taxebestämmelser.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Taxan för de låsta cykelparkeringarna grundar sig på självkostnaden för att sköta ytan samt
 byggnaden där parkeringarna finns.
 
@@ -12060,11 +12060,11 @@ underhållet samt en tjänsteleverantör av passagesystem för det nya cykelgara
 
 Uppbyggnad  av taxa
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Mervärdesskatt (moms) tas ut på den angivna avgiften med 25 procent.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 Avgift för befintliga cykelbås uppgår till 300kr/halvår vid Hede station samt 700kr/halvår vid
 Kungsbacka station och användaren förbinder sig för ett halvår.
 
@@ -12076,10 +12076,10 @@ Taxa för låst c ykelparkering  Sida 2 av 4
 
 <!-- sida 301 -->
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Årlig uppräkning enligt KPI för Oktober för respektive avgift.
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 
 Berörda förvaltningar ges i uppdrag att årligen justera avgifterna utefter KPI för Oktober
 föregående år.
@@ -12108,7 +12108,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 13 (26)
 Sammanträdesdatum
 2007-11-08
-$ 165 KS06-00157/51
+\$ 165 KS06-00157/51
 
 Organisation av färdtjänsten från 2009-01-01
 
@@ -12143,15 +12143,15 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2007-08-14
 
-Kommunstyrelsens arbetsutskott 2007-08-14, $ 20 - Ärendet återremitteras för
+Kommunstyrelsens arbetsutskott 2007-08-14, \$ 20 - Ärendet återremitteras för
 samråd och information med kommunala handikapprådet.
 
-Kommunala handikapprådet 2007-09-24, $ 20
+Kommunala handikapprådet 2007-09-24, \$ 20
 
 Kommunstyrelsens förvaltning, reviderad skrivelse 2007-10-03
-Kommunstyrelsens arbetsutskott 2007-10-09, $ 311
+Kommunstyrelsens arbetsutskott 2007-10-09, \$ 311
 
-Kommunstyrelsen 2007-10-17, $ 201
+Kommunstyrelsen 2007-10-17, \$ 201
 
 Anföranden
 
@@ -12174,7 +12174,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 14 (26)
 Sammanträdesdatum
 2007-11-08
-$ 165 forts KS06-00157/51
+\$ 165 forts KS06-00157/51
 
 Yrkanden
 
@@ -12237,7 +12237,7 @@ Expedierat/bestyrkt
 KUNGSBACKA KOMMUN
 Kommunfullmäktige
 
-$ 165 forts
+\$ 165 forts
 
 Omröstningsbilaga A
 
@@ -12340,7 +12340,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 16 (26)
 Sammanträdesdatum
 2007-11-08
-$ 165 forts KS06-00157/51
+\$ 165 forts KS06-00157/51
 
 Beslutsexpediering
 KSF; CE
@@ -12358,7 +12358,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 10 (52)
 Sammanträdesdatum
 2010-04-13
-$ 63 KS09-00123/50
+\$ 63 KS09-00123/50
 
 Uppföljning och utvärdering av införandet av Beställnings-
 central för färdtjänstresor och övriga transporter med taxi
@@ -12376,7 +12376,7 @@ av Beställningscentral för färdtjänstresor och övriga transporter med taxi 
 specialfordon” besvarar de frågor som väckts i revisionsrapporten ”Granskning av
 färdtjänstupphandling”, daterad 2010-01-27.
 
-Kommunfullmäktige konstaterar att den av fullmäktige 2009-10-13, $ 164, antagna
+Kommunfullmäktige konstaterar att den av fullmäktige 2009-10-13, \$ 164, antagna
 upphandlingspolicyn med tillämpningsanvisningar innehåller anvisningar som upp-
 fyller revisionsrapportens rekommendationer för upphandling.
 
@@ -12386,7 +12386,7 @@ samordnare vid nämndövergripande upphandlingar.
 Rapportens förslag till ansvarsfördelning och åtgärder ska införas och gälla för
 färdtjänst och övriga transporter med taxi och specialfordon.
 
-Färdtjänsttaxan, fastställd av KF 2008-10-14, $ 164, ändras enligt rapportens förslag
+Färdtjänsttaxan, fastställd av KF 2008-10-14, \$ 164, ändras enligt rapportens förslag
 så att egenavgifterna för resor i taxezon 2 sänks till 31 kronor för vuxna och 16
 kronor för ungdom samt att egenavgifterna för färdtjänst ska justeras upp med
 samma index som kollektivtrafikresorna.
@@ -12395,7 +12395,7 @@ Kommunstyrelsen får i uppdrag att införa resegaranti för resenärer i Kungsba
 samma sätt som i övriga Halland. Reglerna för resegaranti förs in i tillämpningsregler
 för särskild kollektivtrafik — kommunal färdtjänst i Kungsbacka kommun.
 
-1 $, 4:e stycket samt 1 $, 5:e stycket, 6 och 7 strecksatserna i reglementet för
+1 \$, 4:e stycket samt 1 \$, 5:e stycket, 6 och 7 strecksatserna i reglementet för
 nämnden för Teknik ersätts med följande:
 
 oe Nämnden för Teknik handlägger frågor om färdtjänst när det gäller enskilds
@@ -12460,17 +12460,17 @@ Förslag lämnas även på revisionsrapportens rekommendationer.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2010-03-02, $ 80
+Kommunstyrelsens arbetsutskott 2010-03-02, \$ 80
 Förvaltningen för Handikappomsorg, skrivelse 2010-03-08
-Nämnden för Tekniks arbetsutskott 2010-03-09, $ 19
-Nämnden för Äldreomsorgs arbetsutskott 2010-03- 11, $I5
-Kommunstyrelsen 2010-03-16, $ 66
+Nämnden för Tekniks arbetsutskott 2010-03-09, \$ 19
+Nämnden för Äldreomsorgs arbetsutskott 2010-03- 11, \$I5
+Kommunstyrelsen 2010-03-16, \$ 66
 
-Nämnden för Service 2010-03-17, $ 29
+Nämnden för Service 2010-03-17, \$ 29
 
-Nämnden för Teknik 2010-03-25, $ 21
+Nämnden för Teknik 2010-03-25, \$ 21
 
-Nämnden för Äldreomsorg 2010-03-25, $ 21
+Nämnden för Äldreomsorg 2010-03-25, \$ 21
 
 forts
 
@@ -12486,7 +12486,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 12 (52)
 Sammanträdesdatum
 2010-04-13
-$ 63 forts KS09-00123/50
+\$ 63 forts KS09-00123/50
 
 Information
 Carl-Axel Ambring, IMA Marknadsutveckling, informerar om kundundersökning av
@@ -12507,14 +12507,14 @@ Franklin Eck (M) yrkar bifall till kommunstyrelsens förslag.
 Ingemar Lundin (S) och Maj-Britt Rane-Andersson (S) yrkar på återremiss för
 beredning av följande punkter:
 
-- 7.2 Taxan för färdtjänst likställs med taxan för övrig kollektivtrafik.
+\- 7.2 Taxan för färdtjänst likställs med taxan för övrig kollektivtrafik.
 
-- 7.6 Färdtjänstresa medger en omvägskörning på 75924 av direktresan (inte ytterli gare
+\- 7.6 Färdtjänstresa medger en omvägskörning på 75924 av direktresan (inte ytterli gare
 20 minuter).
 
-- Färdtjänstberättigade ges tillstånd till arbetsresor oavsett tjänstgöringsgrad.
+\- Färdtjänstberättigade ges tillstånd till arbetsresor oavsett tjänstgöringsgrad.
 
-- Färdtjänstberättigade medges obegränsat antal resor. |
+\- Färdtjänstberättigade medges obegränsat antal resor. |
 Proposition
 
 Ordföranden ställer proposition på Ingemar Lundin (S) med fleras återremissyrkande
@@ -12558,7 +12558,7 @@ till ett års förlängning till 2015-06-30.
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2013-05-23
-Kommunstyrelsens arbetsutskott, 2013-06-04, $ 211
+Kommunstyrelsens arbetsutskott, 2013-06-04, \$ 211
 
 Yrkande
 
@@ -12693,7 +12693,7 @@ taxibolag i Kungsbacka som var upphandlade av kommunen. Beställningar av resor
 gjordes av resenärerna direkt till taxi. Det gjordes i princip ingen samordning av
 resorna.
 
-Kommunfullmäktige beslutade 2007-11-08 (kf $165) att från och med 1 januari 2009
+Kommunfullmäktige beslutade 2007-11-08 (kf \$165) att från och med 1 januari 2009
 samordna anropsstyrda resor med taxi i en beställningscentral. Alla resor som
 
 Kungsbacka
@@ -12896,7 +12896,7 @@ ansvaret
 Det är inte bara färdtjänstresorna som samordnas. Alla kommunens anropsstyrda
 resor beställs via beställningscentralen och utförandet samordnas i samma taxibilar.
 
-Enligt den nya kollektivtrafiklagen $ 12 (Prop 2009/10:200) är det möjligt för en
+Enligt den nya kollektivtrafiklagen \$ 12 (Prop 2009/10:200) är det möjligt för en
 kommun att efter överenskommelse låta kollektivtrafikmyndigheten upphandla
 persontransport- och samordningstjänster för transporter som kommunen ska
 tillgodose. Bedömningen är att kommunen fortsatt kan uppdra åt Region Halland att
@@ -12949,7 +12949,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 34 (46)
 Datum
 2013-11-19
-$ 266 KS13-00293/50
+\$ 266 KS13-00293/50
 
 Upphandling av transporter för färdtjänst
 
@@ -12962,7 +12962,7 @@ transporter med taxi och specialfordon.
 
 Sammanfattning
 
-Kommunstyrelsen beslutade 2013-06-18, $ 156, att nuvarande organisation för
+Kommunstyrelsen beslutade 2013-06-18, \$ 156, att nuvarande organisation för
 färdtjänst ska fortsätta. Kungsbackas behov av transporter för färdtjänst och övrig
 anropsstyrd trafik är idag upphandlade av Hallandstrafiken. Nuvarande avtal löper ut
 2015-06-30. En ny upphandling med avtalsstart 2015-07-01 ska påbörjas.
@@ -12972,9 +12972,9 @@ Hallands upphandling.
 
 Beslutsunderlag
 
-Kommunstyrelsen, 2013-06-18, $ 156
+Kommunstyrelsen, 2013-06-18, \$ 156
 Kommunstyrelsens förvaltning, skrivelse 2013-10-29
-Kommunstyrelsens arbetsutskott, 2013-11-12, $ 350
+Kommunstyrelsens arbetsutskott, 2013-11-12, \$ 350
 
 Yrkande
 
@@ -13004,7 +13004,7 @@ TJÄNSTESKRIVELSE
 KUNGSBACKA KOMMUN
 KOMMUNSTYRELSEN
 
-> 2013 -H- 08
+\> 2013 -H- 08
 
 Kungsbacka
 
@@ -13072,7 +13072,7 @@ samordnas för att uppnå största möjliga effekt av samplanering mellan olika 
 
 Enligt den nya kollektivtrafiklagstiftningen har en kommun möjlighet att lämna över
 ansvaret för upphandling av transporter som kommunen behöver till sin
-kollektivtrafikmyndighet (Lag (2010:1065) om kollektivtrafik 2 kap, $ 12).
+kollektivtrafikmyndighet (Lag (2010:1065) om kollektivtrafik 2 kap, \$ 12).
 
 Kommunen överlämnar till Region Halland att inkludera Kungsbackas behov av
 transporter med taxi och specialfordon för färdtjänst, skolskjuts med taxi m £l
@@ -13189,7 +13189,7 @@ Justerare                         Expedierat/bestyrkt
 
 Utredning    Särskilda   persontransporter
 
--  färdtjänst,  riksfärdtjänst  och  skolskjuts
+\-  färdtjänst,  riksfärdtjänst  och  skolskjuts
 
 Kommunledningskontoret,                            2020-03-09
 Lotta Gradén                                       Ver. 3
@@ -13312,8 +13312,8 @@ skolskjutsar som skapar bättre förutsättningar för en effektiv styrning.
 •  Tilläggsuppdrag december 2019: Kommunstyrelsen ger kommundirektören i uppdrag att inom
 utredningen av kommunens hantering av färdtjänst och skolskjutsar också utreda:
 
-- Möjligheterna att åka via förskola, skola eller fritidsaktiviteter för att hämta eller lämnar barn
-- Möjligheten att åka i hela Halland genom så kalla länsfärdtjänst
+\- Möjligheterna att åka via förskola, skola eller fritidsaktiviteter för att hämta eller lämnar barn
+\- Möjligheten att åka i hela Halland genom så kalla länsfärdtjänst
 
 <!-- sida 325 -->
 
@@ -13373,7 +13373,7 @@ från 2012 överklagades och fick göras om.
 Inför läsåret 2019/20 har administrationen av skolskjuts centraliserats inom förvaltningen för Förskola &
 Grundskola, från att tidigare varit decentraliserat till skolorna och rektorernas ansvarsområden.
 Upphandling och trafikering av såväl färdtjänst som skolskjutsar ligger inom ramen för överenskommelsen från
-2011.
+2011\.
 
 <!-- sida 326 -->
 
@@ -14016,11 +14016,11 @@ KUNGSBACKA  KOMMUN
 Sammanställning färdtjänstkostnader
 
 2015       2016       2017       2018       2019
-Färdtjänst* 16 421 728 17 112 350 17 991 847 21 254 311 25 108 913
+Färdtjänst\* 16 421 728 17 112 350 17 991 847 21 254 311 25 108 913
 Riksfärdtjänst  258 251    331 510    337 601    381 175    438 324
 Beställningscentral 1 088 500 1 248 400 1 299 500  1 297 100  1 320 301
 Summa    17 768 479 18 692 260 19 628 948 22 932 586 26 867 538
-*inkl. systemkostnader samt reglering för månadskort och egenavgifter
+\*inkl. systemkostnader samt reglering för månadskort och egenavgifter
 
 Samåkningsgrad
 
@@ -14211,7 +14211,7 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- |
 | Tillämpningsregler<br>(färdtjänst/riksfärdtjänst)<br>Riktlinjer (skolskjuts) | Ja | Ja | Bereds i facknämnd,<br>beslutas i KF |
 | Tillstånd/beviljande (antal) | Nej | Nej | Lagstadgad rättighet |
-| Egenavgift<br>färdtjänst<br>riksfärdtjänst | Ja<br>Nej* | - | *Egenavgift för<br>Riksfärdtjänst beslutas av<br>staten |
+| Egenavgift<br>färdtjänst<br>riksfärdtjänst | Ja<br>Nej\* | - | \*Egenavgift för<br>Riksfärdtjänst beslutas av<br>staten |
 | Trafikkostnader | Indirekt | Indirekt |  |
 | Pris | Genom upphandling/avtal | Genom upphandling/avtal | Upphandling sker hos<br>Hallandstrafiken |
 | Volymer | Genom tillämpningsregler<br>Genom kvalitetsuppföljning | Genom riktlinjer<br>Genom planering och<br>tilläggsbeställningar | Tillgängligheten i<br>linjetrafiken påverkar |
@@ -14346,7 +14346,7 @@ skulle fortsätta med syfte att arbeta fram ett beslutsunderlag inför ett infö
 samhällsbetalda resor i egen regi innehållande organisatoriska förutsättningar och
 finansiering.
 Utredningen föreslår att samhällsbetalda resor i egen regi införs senast 1 januari
-2025. Utredningen föreslår vidare att uppdraget ges till kommunstyrelsen. Förslaget
+2025\. Utredningen föreslår vidare att uppdraget ges till kommunstyrelsen. Förslaget
 behöver beaktas i kommande kommunplan.
 
 VALLENTUNA KOMMUN
@@ -15089,12 +15089,12 @@ I denna typ av överenskommelse som tecknas kan vi lägga med villkor, likt hur 
 
 kommun gjorde initialt. Förslag på sådana villkor skulle kunna vara:
 
--  kunden ska kunna få hjälp att kontakta sin vårdcentral för medicinskt intyg
--  regionen arbetar aktivt med kvalitetsutveckling och en resursoptimering.
--  redovisar årligen till kommunen en handlingsplan som beskriver det strategiska
+\-  kunden ska kunna få hjälp att kontakta sin vårdcentral för medicinskt intyg
+\-  regionen arbetar aktivt med kvalitetsutveckling och en resursoptimering.
+\-  redovisar årligen till kommunen en handlingsplan som beskriver det strategiska
 arbetet.
 
--  att regionen aktivt arbetar med främjande av samåkning på alternativa vägar ex.
+\-  att regionen aktivt arbetar med främjande av samåkning på alternativa vägar ex.
 genom att ta fram eller marknadsföra samåkningsappar likt Blekingetrafiken.
 
 Potentiella konsekvenser av att lämna över hela ansvaret till Region Halland:
@@ -15470,27 +15470,27 @@ Konsekvenser av en Beställningscentral
 Att gå från ett system där resenärerna ringer direkt till taxi och bokar sin resa till att
 samordna resorna i en beställningscentral innebär bland annat följande:
 
-- - Genom att samordna resor i en beställningscentral blir det tydligare att
+\- - Genom att samordna resor i en beställningscentral blir det tydligare att
 färdtjänst är en kollektiv transportform för personer med funktionshinder
 
-- Att samla alla resor i en beställningscentral innebär en effektivisering av
+\- Att samla alla resor i en beställningscentral innebär en effektivisering av
 transporterna. Transportkostnaderna blir lägre men viss del äts upp av
 bokningsavgifter till beställningscentralen.
 
-- - Samordning av resor ger positiva miljöeffekter eftersom framkörningar blir
+\- - Samordning av resor ger positiva miljöeffekter eftersom framkörningar blir
 kortare och resor samordnas i samma fordon.
 
-- — Servicegraden för resenären blir lägre än idag då resorna samordnas i tid och
+\- — Servicegraden för resenären blir lägre än idag då resorna samordnas i tid och
 färdväg, på samma sätt som ordinarie kollektivtrafik.
 
-- Reglerna för färdtjänst måste ses över, bland annat när det gäller
+\- Reglerna för färdtjänst måste ses över, bland annat när det gäller
 egenavgiften. Idag är egenavgiften 2590 av taxameterpriset med en
 genomsnittlig egenavgift på cirka 40 kronor. I en beställningscentral måste
 egenavgiften vara förutbestämd, det vill säga en fast avgift. Det innebär att
 vissa resenärer kommer få lägre kostnader och vissa får högre. Revideringen
 av färdtjänstreglerna kommer att tas upp som ett särskilt ärende.
 
-- - Om en beställningscentral upphandlas finns förutsättningar att på sikt införa
+\- - Om en beställningscentral upphandlas finns förutsättningar att på sikt införa
 anropsstyrd kollektivtrafik i områden med gles ordinarie kollektivtrafik.
 
 Transporter
@@ -15518,39 +15518,39 @@ Ekonomi
 Att samplanera resor för att utnyttja fordonsresurser på ett optimalt sätt innebär en
 effektivisering av transporterna.
 
-- Fler personer som reser i samma fordon innebär besparing i bränslekostnader
+\- Fler personer som reser i samma fordon innebär besparing i bränslekostnader
 och förartid.
 
-- Att en person blir hämtad i direkt anslutning till att någon annan blivit lämnad
+\- Att en person blir hämtad i direkt anslutning till att någon annan blivit lämnad
 innebär kortare framkörning och besparingar både i bränslekostnader och
 förartid.
 
-- — Andra betalare av samhällsbetalda resor gör besparingar på samordning av
+\- — Andra betalare av samhällsbetalda resor gör besparingar på samordning av
 resorna (landstinget, andra kommuner)
 
 Att planera transporterna i ett planeringssystem innebär även besparingar och
 förbättringar i administrationen:
 
-- Bättre kontroll över de resor som utförs
+\- Bättre kontroll över de resor som utförs
 
-- — Bättre och enklare kontroll av transportkostnader
+\- — Bättre och enklare kontroll av transportkostnader
 
-- Möjlighet till uppföljning av statistikuppgifter
+\- Möjlighet till uppföljning av statistikuppgifter
 
-- Enklare fakturahantering
+\- Enklare fakturahantering
 
--  Planeringssystemet väljer det fordon som är ekonomiskt mest fördelaktigt
+\-  Planeringssystemet väljer det fordon som är ekonomiskt mest fördelaktigt
 
 Sammantaget innebär samordning av transporter en besparing, men det är svårt att
 göra jämförbara mätningar för att följa upp hur stor besparingen blir. Flera
 parametrar har betydelse:
 
-- I samband med upphandling kommer nya priser att gälla på transporterna,
+\- I samband med upphandling kommer nya priser att gälla på transporterna,
 vilket gör att jämförelser mellan olika system inte går att göra
 
--  Resfrekvensen kan ändras i samband med att ett nytt system införs
+\-  Resfrekvensen kan ändras i samband med att ett nytt system införs
 
-- Andra betalare av samhällsbetalda resor gör besparingar som Kungsbacka
+\- Andra betalare av samhällsbetalda resor gör besparingar som Kungsbacka
 kommun inte kan följa upp
 
 Administration
@@ -15597,10 +15597,10 @@ och administreras av en beställningscentral. Så snart det är möjligt ska res
 samplaneras med övriga samhällsbetalda resor, framför allt sjukresorna. Därför
 beslutas att:
 
-- Kungsbacka kommun upphandlar en beställningscentral med driftstart 2009-
+\- Kungsbacka kommun upphandlar en beställningscentral med driftstart 2009-
 01-01 med krav på att samplanering med sjukresor ska kunna göras.
 
-- Kungsbacka kommun uppdrar åt Hallandstrafiken att vid deras nästa
+\- Kungsbacka kommun uppdrar åt Hallandstrafiken att vid deras nästa
 transportupphandling inkludera Kungsbackas behov av färdtjänsttransporter
 samt behovet av övriga transporter som är möjliga att samordna i en
 beställningscentral.
@@ -15699,20 +15699,20 @@ Verkstadsgatan;
 
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 $ andra stycket 16 och 17
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
 och 3 3 första stycket trafikförordningen (1998:1276) följande.
 
-1 $ Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
+1 \$ Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
 2019:00075) om förbud att parkera i Inlags verksamhetsområde får fordon parkeras
 på västra sidan av Verkstadsgatan enligt rödmarkerad sträcka på kartbild. Tillåtelsen
 ger inte rätt att parkera där det är förbjudet att stanna eller parkera enligt
 trafikförordningen (1998:1276).
 
-2 8 Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i I $ mot att
+2 8 Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i I \$ mot att
 avgift betalas eller högst I tumme i följd mot användande av parkeringsskiva eller
 
 motsvarande.
-3 $ Avgiften i 2 $ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
+3 \$ Avgiften i 2 \$ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
 
 Kungsbacka kommuns lokala trafikföreskrifter (1384 2019:00038) om
 parkeringsavgifter i Kungsbacka.
@@ -15721,7 +15721,7 @@ parkeringsavgifter i Kungsbacka.
 IJ85 | Teckenförklaring
 -—  Föreskriftens utbredning
 
-|
+\|
 
 Denna författning träder i kraft den 8 april 2024 då Kungsbacka kommuns lokala
 trafikföreskrifter 1384 2023:00281 om parkering på Verkstadsgatan skall upphöra att
@@ -15745,21 +15745,21 @@ Kungsbacka kommuns lokala trafikföreskrifter om parkering på
 Verkstadsgatan;
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 $ andra stycket 16 och 17
-och 3 $ första stycket trafikförordningen (1998:1276) följande.
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
+och 3 \$ första stycket trafikförordningen (1998:1276) följande.
 
-1 $ Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
+1 \$ Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
 2019:00075) om förbud att parkera i Inlags verksamhetsområde får fordon parkeras
 på västra sidan av Verkstadsgatan enligt rödmarkerad sträcka på kartbild. Tillåtelsen
 ger inte rätt att parkera där det är förbjudet att stanna eller parkera enligt
 trafikförordningen (1998:1276).
 
-2 $ Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i 1 $ mot att
+2 \$ Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i 1 \$ mot att
 avgift betalas eller högst I timme i följd mot användande av parkeringsskiva eller
 
 motsvarande.
 
-3 $ Avgiften i 2 $ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
+3 \$ Avgiften i 2 \$ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
 Kungsbacka kommuns lokala trafikföreskrifter (1384 2019:00038) om
 
 W 8 ÅA
@@ -15789,8 +15789,8 @@ Hantverksgatan;
 
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 $ andra stycket 16 och 17
-och 3 $ första stycket trafikförordningen (1998:1276) följande.
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
+och 3 \$ första stycket trafikförordningen (1998:1276) följande.
 
 1 3 Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
 2019:00075) om förbud att parkera i Inlags verksamhetsområde får fordon parkeras
@@ -15798,12 +15798,12 @@ på norra sidan av Lilla Hantverksgatan enligt röd markering på kartbild. Till
 ger inte rätt att parkera där det är förbjudet att stanna eller parkera enligt
 trafikförordningen (1998:1276).
 
-2 8 Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i 1 $ mot att
+2 8 Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i 1 \$ mot att
 avgift betalas eller högst 1 timme i följd mot användande av parkeringsskiva eller
 
 motsvarande.
 
-3 Avgiften i 2 $ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
+3 Avgiften i 2 \$ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
 Kungsbacka kommuns lokala trafikföreskrifter (1384 2019:00038) om
 parkeringsavgifter i Kungsbacka.
 
@@ -15850,21 +15850,21 @@ Verkstadsgatan;
 
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 $ andra stycket 16 och 17
-och 3 $ första stycket trafikförordningen (1998:1276) följande.
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
+och 3 \$ första stycket trafikförordningen (1998:1276) följande.
 
-1 $ Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
+1 \$ Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
 2019:00075) om förbud att parkera i Inlags verksamhetsområde får fordon parkeras
 på Verkstadsgatan enligt rödmarkerad yta på kartbild. Tillåtelsen ger inte rätt att
 parkera där det är förbjudet att stanna eller parkera enligt trafikförordningen
 (1998:1276).
 
-2 $ Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i I $ mot att
+2 \$ Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i I \$ mot att
 avgift betalas eller högst 1 timme i följd mot användande av parkeringsskiva eller
 
 motsvarande.
 
-3 $ Avgiften i 2 $ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
+3 \$ Avgiften i 2 \$ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
 Kungsbacka kommuns lokala trafikföreskrifter (1384 2019:00038) om
 parkeringsavgifter i Kungsbacka.
 
@@ -15972,8 +15972,8 @@ Resecentrum;
 
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 $ andra stycket 16 och 17
-och 3 $ första stycket trafikförordningen (1998:1276) följande.
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
+och 3 \$ första stycket trafikförordningen (1998:1276) följande.
 
 På rödmarkerad parkering söder om Resecentrum enligt kartbild får fordon parkeras
 
@@ -15981,9 +15981,9 @@ under högst 8 dygn i följd mot avgift.
 
 Avgift enligt taxa A.
 
-+ LL) [S]
+\+ LL) [S]
 
-- sh Ina] FR
+\- sh Ina] FR
 
 Teckenförklaring J
 
@@ -16100,26 +16100,26 @@ parkeringsavgifter i Kungsbacka kommun;
 
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. I $ andra stycket 17 och 3 $
+Kungsbacka kommun föreskriver med stöd av 10 kap. I \$ andra stycket 17 och 3 \$
 första stycket trafikförordningen (1998:1276) följande.
 
 Föreskrifter om ändring i Kungsbacka kommuns lokala trafikföreskrifter 1384
 2019:00038 om parkeringsavgifter i Kungsbacka kommun beslutade den 1 april 2019
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 3 andra stycket 17 och 3 $
-första stycket trafikförordningen (1998:1276) att 2, 3, 4, 5 och 6 $ i kommunens
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 3 andra stycket 17 och 3 \$
+första stycket trafikförordningen (1998:1276) att 2, 3, 4, 5 och 6 \$ i kommunens
 lokala trafikföreskrifter 1384 2019:00038 om parkeringsavgifter i Kungsbacka
 kommun ska ha följande lydelse.
 
 23 Taxa A. Avgiften är 7 kr per timme
 
-3 $ Taxa B. Avgiften är 6 kr per timme
+3 \$ Taxa B. Avgiften är 6 kr per timme
 
 4 & Taxa C. Avgiften är 5 kr per timme
 
-5 $ Taxa D. Avgiften är 3 kr per timme
+5 \$ Taxa D. Avgiften är 3 kr per timme
 
-6 $ Taxa E. Avgiften är 8 kr per timme
+6 \$ Taxa E. Avgiften är 8 kr per timme
 
 Denna författning träder i kraft den 8 april 2024.
 

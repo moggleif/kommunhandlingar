@@ -349,13 +349,13 @@ avfallstaxan för 2024 redan är antagen bör detta i stället utredas till taxa
 
 Nedanstående föreslås bekostas av invånare efter överenskommelse om att
 genomföra åtgärd:
--  borttransport av behållare
+\-  borttransport av behållare
 
--  -utkörning av ersättningsbehållare
--  -uttryckning under jourtid som görs av annan än kommunens egen
+\-  -utkörning av ersättningsbehållare
+\-  -uttryckning under jourtid som görs av annan än kommunens egen
 jourverksamhet
 
--  -uttömning av insamlat material, genomsökning av materialet och
+\-  -uttömning av insamlat material, genomsökning av materialet och
 iordningställande efter genomsökningen.
 
 Beslutsunderlag
@@ -852,35 +852,35 @@ Sammanfattning av ärendet
 
 Följande skrivelser inkom under preioden 2024-01-01 - 2024-02-14:
 
-- Fwd: Färdstjänst- så här får det inte fungera!
-- Dataskyddsombudets årsrapport 2023 Kungsbacka Kommun
+\- Fwd: Färdstjänst- så här får det inte fungera!
+\- Dataskyddsombudets årsrapport 2023 Kungsbacka Kommun
 
-- Dataskyddsombudets årsrapport 2023 Nämnden för Teknik
-- Förtroendevaldas arvoden 2024 - Kungsbacka kommun
+\- Dataskyddsombudets årsrapport 2023 Nämnden för Teknik
+\- Förtroendevaldas arvoden 2024 - Kungsbacka kommun
 
-- Kommunens nya ansvar för hushållens förpackningsavfall – valet av
+\- Kommunens nya ansvar för hushållens förpackningsavfall – valet av
 insamlingslösning påverkar återvinningen!
-- Inför val av insamlingslösning för förpackningar 2024-01-23
+\- Inför val av insamlingslösning för förpackningar 2024-01-23
 
-- Beslut KS § 7, Fastställande av lönestruktur 2024 samt info om lönekartläggning
+\- Beslut KS § 7, Fastställande av lönestruktur 2024 samt info om lönekartläggning
 2023, KS-2023-00738
-- Lönekartläggning och Handlingsplan Kungsbacka kommun 2023, KS-2023-00738
+\- Lönekartläggning och Handlingsplan Kungsbacka kommun 2023, KS-2023-00738
 
-- Tjänsteskrivelse - Fastställande av lönestruktur 2024 samt info lönekartläggning
+\- Tjänsteskrivelse - Fastställande av lönestruktur 2024 samt info lönekartläggning
 2023, KS-2023-00738
 
-- Invånardialog: Laddstolpar i Åsa.
-- Laddstolpar vid LLS boende
+\- Invånardialog: Laddstolpar i Åsa.
+\- Laddstolpar vid LLS boende
 
-- Mejldialog med Vice ordförande i NTE: ang. Bro över järnväg vid " Willys "
+\- Mejldialog med Vice ordförande i NTE: ang. Bro över järnväg vid " Willys "
 Inlagsleden
-- Mejldialog med Vice ordförande i NTE: Bilaga 1. Bro över järnväg vid " Willys "
+\- Mejldialog med Vice ordförande i NTE: Bilaga 1. Bro över järnväg vid " Willys "
 Inlagsleden
 
-- Mejldialog med Vice ordförande i NTE: Bilaga 2. Bro över jvg svar från kommun
-- Mejldialog med Vice ordförande i NTE: Bilaga 3. Min kommentar.
+\- Mejldialog med Vice ordförande i NTE: Bilaga 2. Bro över jvg svar från kommun
+\- Mejldialog med Vice ordförande i NTE: Bilaga 3. Min kommentar.
 
-- Beslut 6084-2023 - Överklagande om lokala trafikföreskrifter om
+\- Beslut 6084-2023 - Överklagande om lokala trafikföreskrifter om
 hastighetsbegränsning på Gåsevadholmsvägen, Fjärås
 
 Beslutsgång
@@ -939,13 +939,13 @@ Nämnden för Teknik noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
--  Nya krav på separat insamling av textilavfall för Sveriges kommuner från och
+\-  Nya krav på separat insamling av textilavfall för Sveriges kommuner från och
 
 med 1 januari 2025
--  Från och med april tar kommunen bort hållarna med hundbajspåsar.
+\-  Från och med april tar kommunen bort hållarna med hundbajspåsar.
 
--  Hallands landshövding har besökt Kungsbacka
--  Presidiedialogen med Kultur & Fritid där gemensamma frågor diskuterades
+\-  Hallands landshövding har besökt Kungsbacka
+\-  Presidiedialogen med Kultur & Fritid där gemensamma frågor diskuterades
 
 Beslutsgång
 Ordförande Monica Neptun (L) prövar om nämnden kan notera informationen till

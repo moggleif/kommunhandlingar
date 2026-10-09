@@ -101,7 +101,7 @@ för Individ & Familjeomsorg
 
 Beslut
 Nämnden för Individ & Familjeomsorg godkänner uppföljning per april och prognos
-2026.
+2026\.
 
 Nämnden för Individ & Familjeomsorg förklarar paragrafen omedelbart justerad.
 

@@ -47,8 +47,8 @@ byggnadsnämnden 2011-06-09 § 156, samt upphävande av den del som avser utpeka
 
 Byggnadsnämndens arbetsutskott lämnade den 20 juni 2024 över initiativet till byggnadsnämnden för
 ställningstagande. Förslagsställarna lyfter följande punkter:
-- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att gälla.
-- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för övriga områden.
+\- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att gälla.
+\- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för övriga områden.
 
 Byggnadsnämnden biföll initiativet. Förvaltningen har gjort en bedömning gällande aktualiteten av
 policydokumentet för övriga områden.
@@ -135,10 +135,10 @@ Byggnadsnämndens arbetsutskott lämnade den 20 juni 2024 över initiativet till
 byggnadsnämnden för ställningstagande.
 
 Förslagsställarna lyfter följande punkter:
-- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
+\- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
 gälla.
 
-- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
+\- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
 övriga områden.
 
 Beslutsunderlag
@@ -212,10 +212,10 @@ områden.
 
 2 juni 2024
 
-___________________                 ______________________
+\___________________                 ______________________
 Thure Sandén (M)                    Daniel Hognert (M)
 
-___________________                 ______________________
+\___________________                 ______________________
 Heinrich Kaufmann (C)               Fredrik Kollberg (KD)
 
 1 (2)
@@ -558,7 +558,7 @@ lokalklimatet. Naturens värden i hela kommunen behandlas i Kungsbacka
 översiktsplan 2006 (ÖP 06). En mer ingående beskrivning av stadens
 
 grönstruktur finns i grönstrukturplanen som ingår i förarbetet till FÖP
-09.
+09\.
 
 dE starKastE LandsKaPsELEmEntEn
 Kungsbacka stad är byggd i en lerfylld sprickdal av urberg som går från
@@ -1601,7 +1601,7 @@ personer i staden.
 Det nya resecentrumet vid
 järnvägstationen vann
 kungsbacka arkitekturpris
-2004.
+2004\.
 
 20
 
@@ -1638,7 +1638,7 @@ stadens bebyggelsemönster finns i Bygd att bevara: Förslag till Program
 
 för kulturmiljövård i Kungsbacka kommun från 2001, Karaktärisering av
 Kungsbacka innerstad från 2003 och Karaktärisering av Västra villastaden från
-2005.
+2005\.
 
 De nio stadsbyggnadskaraktärerna är:
 
@@ -2035,7 +2035,7 @@ och vissa delar har bytts ut under årens lopp. Den senaste delen som
 
 bytts ut är ”Gamla Gästis” vid torget, en av den gamla stadskärnans första
 tvåvåningshus, som brann ner 2006 och där en ny byggnad färdigställdes
-2011. Rutnätsplanens gator lades ut för att förstärka olika fondmotiv,
+2011\. Rutnätsplanens gator lades ut för att förstärka olika fondmotiv,
 till exempel Skansen i fonden på Storgatan. Fondmotiven har med åren
 
 förändrats, idag syns till exempel det nya resecentret tydligt i Kyrkoga-
@@ -5038,13 +5038,13 @@ kungsbacka.se; Kommun: Fakta om kommunen:
 Historia: Sjöfart & handel; tillgänglig på: Vision för Kungsbacka (2005); tillgänglig på:
 http://www.kungsbacka.se/sitetemplates/ http://www.kungsbacka.se/sitetemplates/
 
-kbinformationpage____7354.aspx; hämtad kbinformationpage____14214.aspx; hämtad
+kbinformationpage\_\_\_\_7354.aspx; hämtad kbinformationpage\_\_\_\_14214.aspx; hämtad
 2010-10-05; uppdaterad 2006-10-17   2010-10-25; uppdaterad 2009-09-13
 
 kungsbacka.se; Fritid: Idrott, sport & motion: Wikipedia; tillgänglig på: www.wikipedia.se;
 Anläggningar: Friidrott; tillgänglig på: hämtad 2010-11-10
 http://www.kungsbacka.se/sitetemplates/
-kbinformationpage____3756.aspx; hämtad
+kbinformationpage\_\_\_\_3756.aspx; hämtad
 
 2010-10-25; uppdaterad 2010-01-18
 
@@ -5600,9 +5600,9 @@ beskrivning av stadens byggnadskaraktär”, antagen av byggnadsnämnden 2011-06
 Byggnadsnämndens arbetsutskott lämnade den 20 juni 2024 över initiativet till
 byggnadsnämnden för ställningstagande. Förslagsställarna lyfter följande punkter:
 
-- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
+\- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
 gälla.
-- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
+\- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
 övriga områden.
 
 Byggnadsnämnden biföll initiativet. Förvaltningen har gjort en bedömning gällande
@@ -5654,11 +5654,11 @@ för ett rättssäkert och effektivt bygglovsförfarande, och att många sökand
 svårt att nå handläggare för vägledning i enklare frågor och kring pågående ärenden.
 Byggnadsnämnden beslutade 13 maj 2026 att ge bygg- och miljöförvaltningen i uppdrag att:
 
-- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller sjukskrivning, genom
+\- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller sjukskrivning, genom
 fungerande överlämnings- och ersättningsrutiner.
-- identifiera områden i Servicelyftet som behöver prioriteras.
+\- identifiera områden i Servicelyftet som behöver prioriteras.
 
-- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan på nämndmötet i
+\- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan på nämndmötet i
 augusti.
 Bygg- och miljöförvaltningen redovisade under byggnadsnämndens möte 2026-06-25 den första
 analysen och återkopplar 2026-08-20 under byggnadsnämndens möte kring handlingsplanen.
@@ -5729,10 +5729,10 @@ behöver därför intensifieras och omsättas i praktiskt fungerande arbetssätt
 med fokus på faktisk service och tillgänglighet för invånare och företag.
 Förslagsställarna yrkar att bygg- och miljöförvaltningen ges i uppdrag att skyndsamt:
 
-- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
+\- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
 sjukskrivning, genom fungerande överlämnings- och ersättningsrutiner
-- identifiera områden i Servicelyftet som behöver prioriteras
-- redovisa en första analys på ett nämndmöte i juni samt en tydlig
+\- identifiera områden i Servicelyftet som behöver prioriteras
+\- redovisa en första analys på ett nämndmöte i juni samt en tydlig
 handlingsplan på nämndmötet i augusti
 
 Beslutsunderlag
@@ -5788,12 +5788,12 @@ redan nu, med fokus på faktisk service och tillgänglighet för invånare och f
 
 Förvaltningen ges därför i uppdrag att med skyndsamhet:
 
-- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
+\- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
 sjukskrivning, genom fungerande överlämnings- och ersättningsrutiner
 
-- identifiera områden i Servicelyftet som behöver prioriteras
+\- identifiera områden i Servicelyftet som behöver prioriteras
 
-- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan
+\- redovisa en första analys på ett nämndmöte i juni samt en tydlig handlingsplan
 på nämndmötet i augusti
 
 Thure Sandén      Heinrich Kaufmann          Daniel Hognert
@@ -6017,17 +6017,17 @@ bostadsbyggnader (trafikbullerförordningen) återges nedan.
 
 Nuvarande lydelse:
 3 § Buller från spårtrafik och vägar bör inte överskrida
-1. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
-2. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan ska
+1\. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
+2\. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan ska
 anordnas i anslutning till byggnaden.
 
 För en bostad om högst 35 kvadrat meter gäller i stället för vad som anges i första stycket 1 att bullret
 inte bör överskrida 65 dBA ekvivalent ljudnivå vid bostadsbyggnadens fasad.
 
 4 § Om den ljudnivå som anges i 3 § första stycket 1 ändå överskrids bör
-1. minst hälften av bostadsrummen i en bostad vara vända mot en sida där 55 dBA ekvivalent ljudnivå
+1\. minst hälften av bostadsrummen i en bostad vara vända mot en sida där 55 dBA ekvivalent ljudnivå
 inte överskrids vid fasaden, och
-2. minst hälften av bostadsrummen vara vända mot en sida där 70 dBA maximal ljudnivå vid fasaden
+2\. minst hälften av bostadsrummen vara vända mot en sida där 70 dBA maximal ljudnivå vid fasaden
 inte överskrids mellan kl. 22.00 och 06.00.
 
 <!-- sida 100 -->
@@ -6042,16 +6042,16 @@ sida där 55 dBA ekvivalent ljudnivå inte överskrids vid fasaden.
 
 Föreslagen lydelse:
 3 § Buller från spårtrafik och vägar bör inte överskrida
-1. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
-2. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan ska
+1\. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
+2\. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan ska
 anordnas i anslutning till byggnaden.
 
 4 § Om den ljudnivå som anges i 3 § första stycket 1 ändå överskrids bör det finnas minst en
 ljuddämpad sida som skapar förutsättningar för en god utemiljö i anslutning till byggnaden.
 
 Vid en ljuddämpad sida bör:
-1. 55 dBA ekvivalent ljudnivå inte överskridas vid hela fasaden, och
-2. 70 dBA maximal ljudnivå vid hela fasaden inte överskridas mellan 22.00 och 06.00.
+1\. 55 dBA ekvivalent ljudnivå inte överskridas vid hela fasaden, och
+2\. 70 dBA maximal ljudnivå vid hela fasaden inte överskridas mellan 22.00 och 06.00.
 
 Om byggnaden vid tillämpning av första stycket har olika långa sidor bör i första hand en längre sida
 
@@ -6061,9 +6061,9 @@ Annan lagstiftning
 Plan och bygglagen förändras ej. Omgivningsbuller behandlas i
 PBL 2 kap 6 a § Vid planläggning och i ärenden om bygglov enligt denna lag ska bostadsbyggnader
 
-1. lokaliseras till mark som är lämpad för ändamålet med hänsyn till möjligheterna att förebygga
+1\. lokaliseras till mark som är lämpad för ändamålet med hänsyn till möjligheterna att förebygga
 olägenhet för människors hälsa i fråga om omgivningsbuller, och
-2. utformas och placeras på den avsedda marken på ett sätt som är lämpligt med hänsyn till
+2\. utformas och placeras på den avsedda marken på ett sätt som är lämpligt med hänsyn till
 
 möjligheterna att förebygga olägenhet för människors hälsa i fråga om omgivningsbuller.
 Med olägenhet för människors hälsa avses en störning som enligt medicinsk eller hygienisk
@@ -6156,7 +6156,7 @@ och förhandsbeskedsärenden utom plan. Många gånger har krav på bullerutredn
 
 med hänvisning till att det går att lösa med hälften av bostadsrummen mot ljuddämpad sida. Det har
 ofta varit lättare och billigare för enskilda husbyggare - att föreslå en planlösning med ljuddämpad sida
-- än att ta fram en bullerutredning. Detta förfarande har bygglovshandläggarna vid Kungsbacka
+\- än att ta fram en bullerutredning. Detta förfarande har bygglovshandläggarna vid Kungsbacka
 kommun främst använts sig av vid placering intill medelstora landsvägar där det är gränsfall om
 bullervärdena kommer överskridas vid någon sida.
 Att ta bort kravet på hälften av bostadsrummen ska ligga mot den ljuddämpade sidan, kommer
@@ -6454,9 +6454,9 @@ Nuvarande lydelse         Föreslagen lydelse
 3 §
 Buller från spårtrafik och vägar bör inte Buller från spårtrafik och vägar bör
 överskrida                inte överskrida
-1. 60 dBA ekvivalent ljudnivå vid en 1. 60 dBA ekvivalent ljudnivå vid
+1\. 60 dBA ekvivalent ljudnivå vid en 1. 60 dBA ekvivalent ljudnivå vid
 bostadsbyggnads fasad, och en bostadsbyggnads fasad, och
-2. 50 dBA ekvivalent ljudnivå samt 2. 50 dBA ekvivalent ljudnivå samt
+2\. 50 dBA ekvivalent ljudnivå samt 2. 50 dBA ekvivalent ljudnivå samt
 70 dBA maximal ljudnivå vid en ute- 70 dBA maximal ljudnivå vid en ute-
 plats om en sådan ska anordnas i anslut- plats om en sådan ska anordnas i an-
 ning till byggnaden.      slutning till byggnaden.
@@ -6465,14 +6465,14 @@ meter gäller i stället för vad som anges
 i första stycket 1 att bullret inte bör
 överskrida 65 dBA ekvivalent ljudnivå
 vid bostadsbyggnadens fasad.
-4 §*
+4 §\*
 Om den ljudnivå som anges i 3 § första Om den ljudnivå som anges i 3 §
 stycket 1 ändå överskrids bör första stycket 1 ändå överskrids bör
-1. minst hälften av bostadsrummen i det finnas minst en ljuddämpad sida
+1\. minst hälften av bostadsrummen i det finnas minst en ljuddämpad sida
 en bostad vara vända mot en sida där som skapar förutsättningar för en god
 55 dBA ekvivalent ljudnivå inte över- utemiljö i anslutning till byggnaden.
 skrids vid fasaden, och
-3. minst hälften av bostadsrummen
+3\. minst hälften av bostadsrummen
 vara vända mot en sida där 70 dBA
 maximal ljudnivå vid fasaden inte över-
 skrids mellan kl. 22.00 och 06.00.
@@ -6488,9 +6488,9 @@ Om byggnaden vid tillämpning av
 första stycket har olika långa sidor
 bör i första hand en längre sida väl-
 jas.
-* Nuvarande och föreslagen lydelse av 4 § på denna sida har rättats enligt Boverkets be-
+\* Nuvarande och föreslagen lydelse av 4 § på denna sida har rättats enligt Boverkets be-
 slut om rättelse enligt 36 § förvaltningslagen (2017:900), dnr 3746/2025, den 28 april
-2026. Den ursprungliga versionen innehöll mindre korrekturmässiga fel.
+2026\. Den ursprungliga versionen innehöll mindre korrekturmässiga fel.
 
 Boverket
 
@@ -7409,7 +7409,7 @@ med lovprövningen med direkt stöd av lagstiftningen och inte mot någon
 särskild reglering i planen.
 
 Det kan också tilläggas att Boverkets internationella jämförelse (se bilaga
-1) visar att övriga nordiska länders regelverk inte kräver att lägenhetsut-
+1\) visar att övriga nordiska länders regelverk inte kräver att lägenhetsut-
 formningen säkerställs i planläggningen.
 
 6.3   Ljuddämpad   sida viktig för
@@ -8863,8 +8863,8 @@ vid bostadsbyggnader
 
 3 §
 Buller från spårtrafik och vägar bör inte överskrida
-1. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
-2. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en
+1\. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
+2\. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en
 uteplats om en sådan ska anordnas i anslutning till byggnaden.
 
 Paragrafen motsvarar delar av tidigare bestämmelse.
@@ -8884,8 +8884,8 @@ Om den ljudnivå som anges i 3 § första stycket 1 ändå överskrids bör det
 finnas minst en ljuddämpad sida som skapar förutsättningar för en god
 utemiljö i anslutning till byggnaden.
 Vid en ljuddämpad sida bör:
-1. 55 dBA ekvivalent ljudnivå inte överskridas vid hela fasaden, och
-3. 70 dBA maximal ljudnivå vid hela fasaden inte överskridas mellan
+1\. 55 dBA ekvivalent ljudnivå inte överskridas vid hela fasaden, och
+3\. 70 dBA maximal ljudnivå vid hela fasaden inte överskridas mellan
 22.00 och 06.00.
 Om byggnaden vid tillämpning av första stycket har olika långa sidor
 bör i första hand en längre sida väljas.
@@ -8995,7 +8995,7 @@ Detta är tänkt att fungera på samma sätt som vid detaljplaneläggning och
 
 föranleder inte några särskilda överväganden.
 
-Närmare överväganden finns i avsnitt 7.2 samt 7.5.*
+Närmare överväganden finns i avsnitt 7.2 samt 7.5.\*
 
 Ändring av byggnad
 Paragrafens befintliga andra stycke handlar om hur ljuddämpad sida ska
@@ -9018,7 +9018,7 @@ digt att det är oklart om dagens paragraf i praktiken innebär att en hel
 ljuddämpad sida behöver anordnas och förslaget skulle därför kunna ses
 som en viss skärpning eller förtydligande i detta avseende.
 
-* Avsnittshänvisningen har rättats (från 7.6 till 7.5) enligt Boverkets beslut om rättelse en-
+\* Avsnittshänvisningen har rättats (från 7.6 till 7.5) enligt Boverkets beslut om rättelse en-
 ligt 36 § förvaltningslagen (2017:900), dnr 3746/2025, den 28 april 2026.
 
 Boverket
@@ -9073,7 +9073,7 @@ Erdély Kristina H m.fl., 2023: Low-frequency noise: Experiences from a
 low-frequency noise perceiving population. Int J Environ Res Public
 Health. 2023 20(5), 3916, Low-Frequency Noise: Experiences from a
 Low-Frequency Noise Perceiving Population | MDPI. Hämtad 2026-03-
-31.
+31\.
 
 Eriksson Charlotta, Pershagen Göran, 2025: Hälsokonsekvenser av att ta
 
@@ -9454,7 +9454,7 @@ ler andra isolerande konstruktioner), och
 fra veje. Hämtad 2026-03-31.
 41 Danmark, tillägg till vägledning nr 1/1997 om buller och vibrationer från järnvägar:
 Tillägg till vägledning nr 1 /1997 buller och vibrationer från järnvägar. Hämtad 2026-03-
-31.
+31\.
 42 Stöj fra veje. Hämtad 2026-03-31.
 
 Boverket
@@ -9716,7 +9716,7 @@ Virke och trävaror, cement, tegel och betongprodukter, fönster, dörrar,
 isoleringsmaterial, takmaterial, rör, beslag, färg, och övriga byggvaror.
 
 Tabell 12. Partihandel med byggmaterial (SNI 46.73) antal företag efter storlek,
-2025.
+2025\.
 
 Källa: Statistiska centralbyrån, företagsdatabas (2025-12-02).
 

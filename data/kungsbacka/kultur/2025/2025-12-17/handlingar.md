@@ -1453,31 +1453,31 @@ LERBERG 6:37>1
 17,1  16,9  23,1 LERBERG 6:20>1 26,8 28,4 31,3 28,9 26,4 25,2 19 15,9  15,2 14,8  14,6  14,4  14,3  14,1  14,1  13,8  13,8 13,7  13,6  13,6  13,6  13,5  13,5  13,5 13,8  13,9  14,2  14,1
 0  10  20  30  40  50  60  70  80  90 100 meter
 
-gwd.02911190014202_ATRAKSAB\.
+gwd.02911190014202_ATRAKSAB\\.
 
 :gnintir
 
 ferX
 gwd.324052
 ,noitartsullI
-+
+\+
 KG
 ,grebreL\nenummok
 llit
 galrednU
--
-224052\KCIKSTU\SNEDNOPSERROK\..\..
-gwd.415052nalpsgnindeL\NETTAVGAD_AV\RAGNINDERTU\..\..
+\-
+224052\KCIKSTU\SNEDNOPSERROK\\..\\..
+gwd.415052nalpsgnindeL\NETTAVGAD_AV\RAGNINDERTU\\..\\..
 gwd.116052
 ,nalpsnoitartsullI
 ,grebreL\AV
 llit
 noitartsullI
--
-116052\KCIKSTU\SNEDNOPS:EreRdRlibOrKet\s..a\.R.
+\-
+116052\KCIKSTU\SNEDNOPS:EreRdRlibOrKet\s..a\\.R.
 gwd.229052
 grebreL
-atrakdnurg\.
+atrakdnurg\\.
 PLANBESTÄMMELSER
 Följande gäller inom områden med nedanstående beteckningar. Endast angiven
 användning och utformning är tillåten.
@@ -2351,10 +2351,10 @@ antas.
 
 I det här projektet kommer exploateringsavtalet att tecknas med två exploatörer och omfatta
 
--  Definition av exploateringsområdet.
+\-  Definition av exploateringsområdet.
 
--  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
+\-  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
 
 Vid kommunalt huvudmannaskap utför kommunen utbyggnad av allmän plats på
 exploatörernas bekostnad (exploateringsbidrag). Utbyggnaden sker till
@@ -2372,25 +2372,25 @@ Exploatörerna utför utbyggnad av allmän plats med enskilt huvudmannaskap och
 anläggningarna överlåts senare till en gemensamhetsanläggning.
 Åtgärder inom kvartersmark för bostadsändamål ansvarar respektive exploatör för.
 
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför
 planområdet, som är nödvändiga för detaljplanens genomförande och rimliga med
 hänsyn till exploatörernas nytta av åtgärden.
--  Principer för marköverlåtelser mellan kommunen och exploatörerna. Vid kommunalt
+\-  Principer för marköverlåtelser mellan kommunen och exploatörerna. Vid kommunalt
 
 huvudmannaskap är utgångspunkten att exploatören överlåter allmän platsmark till
 kommunen utan ersättning.
--  Reglering att kommunala VA-ledningar förläggs utan ersättning inom exploatörernas
+\-  Reglering att kommunala VA-ledningar förläggs utan ersättning inom exploatörernas
 fastigheter.
 
--  Reglering av exploatörernas ansvar att erlägga avgift enligt kommunens VA-taxa.
--  Reglering av exploatörernas ansvar för att bekosta undersökningar som inte omfattas
+\-  Reglering av exploatörernas ansvar att erlägga avgift enligt kommunens VA-taxa.
+\-  Reglering av exploatörernas ansvar för att bekosta undersökningar som inte omfattas
 av plankostnadsavtalet.
 
--  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
--  Reglering av exploatörenas skyldighet att ställa säkerhet till kommunen för att
+\-  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\-  Reglering av exploatörenas skyldighet att ställa säkerhet till kommunen för att
 
 säkerställa respektive exploatörs åtaganden.
--  Övriga frågor som behöver regleras för exploateringsområdets rationella och
+\-  Övriga frågor som behöver regleras för exploateringsområdets rationella och
 ändamålsenliga utbyggnad.
 
 Avtalet medför bland annat att detaljplanens genomförande säkerställs ekonomiskt samt att
@@ -4507,7 +4507,7 @@ till någon del inom planområdet. Eventuella bergarbeten som resulterar i schak
 
 Vibrationsmätningar
 I samband med detaljplanen har en Vibrationsutredning tagits fram av Norconsult, 2022-11-
-17. Vibrationsmätningar har utförts i tre mätpunkter inom planområdet och utfördes under
+17\. Vibrationsmätningar har utförts i tre mätpunkter inom planområdet och utfördes under
 7 dygn i oktober 2022. De uppmätta komfortnivåerna överskrider ej gränsen 0,4 mm/s vägd
 RMS, vilket betecknar gränsen för ”Måttlig störning” enligt svensk standard.
 
@@ -4714,7 +4714,7 @@ lent ljudnivå inte överskrids vid fasad, och
 nivå inte överskrids mellan kl 22.00 och 06.00 vid fasad.
 
 I samband med detaljplanen har en bullerutredning tagits fram av Akustik Forum 2025-10-
-03.
+03\.
 Utanför planområdet på norra sidan planeras det för en bullerskärm längs Hällingsjövägens
 norra sida mellan Söderåleden och strax öster om Aroniavägen. Uppförande av bullerskär-
 men krävs för att klara ljudmiljön för bostäderna i Tölö ängar 1.
@@ -5230,7 +5230,7 @@ Brandvattenförsörjning
 Brandvattenposter kan vid behov byggas ut efter VA-ledningsnätet i planområdet. Posterna
 bör medge ett brandvattenuttag på minst 600 liter/minut (10 liter/sekund). Förslag till place-
 ring av brandvattenposter är redovisade i VA- och dagvattenutredningen, Markera 2025-05-
-06.
+06\.
 
 Brandvattenförsörjning föreslås ske genom utbyggnad av konventionellt brandvattensystem.
 Avståndet mellan brandposterna ska vara maximalt 150 meter och det avgörs i samråd med
@@ -5840,10 +5840,10 @@ målsenligt sätt. Exploateringsavtalet förhandlas löpande under planprocessen
 undertecknat av exploatören innan detaljplanen antas. Detaljplanen antas först efter det att
 kommunstyrelsen godkänt exploateringsavtalet.
 I det här projektet kommer exploateringsavtalet att omfatta:
-- Definition av exploateringsområdet.
+\- Definition av exploateringsområdet.
 
-- Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
-- Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom plan-
+\- Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
+\- Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom plan-
 området.
 
 Vid kommunalt huvudmannaskap utför kommunen utbyggnad av allmän plats på
@@ -5865,23 +5865,23 @@ att området byggs ut.
 Åtgärder inom kvartersmark för bostads- , centrum- och parkeringsändamål ansva-
 rar exploatören för.
 
-- Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför plan
+\- Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför plan
 området, som är nödvändiga för detaljplanens genomförande och rimliga med
 hänsyn till exploatörens nytta av åtgärden.
-- Principer för marköverlåtelser mellan kommunen och exploatören. Vid kommunalt
+\- Principer för marköverlåtelser mellan kommunen och exploatören. Vid kommunalt
 huvudmannaskap är utgångspunkten att exploatören överlåter allmän platsmark till
 kommunen utan ersättning.
 
-- Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
-- Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas
+\- Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
+\- Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas
 av plankostnadsavtalet.
 
-- Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
-- Exploatörens skyldighet att upplåta minst 1/3 av bostäderna som hyresrätt.
-- Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att säker
+\- Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\- Exploatörens skyldighet att upplåta minst 1/3 av bostäderna som hyresrätt.
+\- Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att säker
 ställa exploatörens åtaganden.
 
-- Övriga frågor som behöver regleras för exploateringsområdets rationella och ända-
+\- Övriga frågor som behöver regleras för exploateringsområdets rationella och ända-
 målsenliga utbyggnad.
 Avtalet medför bland annat att detaljplanens genomförande säkerställs ekonomiskt samt att
 samordningen mellan exploatören och kommunen regleras avseende utbyggnad av kvar-
@@ -6145,7 +6145,7 @@ Syftet med bestämmelsen är att säkerställa stabilite-
 ten mot Söderå.
 Allmän plats - avgränsad via egenskapsgräns och användningsgräns
 Egenskapsbestämmelser för allmän plats reglerar hur en allmän plats ska ordnas eller skyddas.
-Markens höjd över nollplanet ska vara <angivet> me-
+Markens höjd över nollplanet ska vara \<angivet> me-
 ter. Syftet med bestämmelsen är att reglera markens
 +0.0    utformning, mark höjd i huvudgatan för att möjliggöra för alla funktio-
 ner för en fungerande gata med bl a utformning av
@@ -6225,7 +6225,7 @@ utformning och skydd av marken.
 | --- | --- | --- |
 | b<br>4 | utförande | Bottenvåningen ska utformas med en våningshöjd<br>om minst 3,5 meter för centrumlokal. Syftet med<br>bestämmelsen är att säkerställa att de lokaler som<br>ordnas har en funktionalitet för centrumanvändning |
 | d<br>1 | fastighetsstorlek | Minsta fastighetsstorlek är 160 m2. Syftet med be-<br>stämmelsen är att säkerställa att eventuella fastigheter<br>som bildas får en tillräcklig storlek för att rymma de<br>funktioner som hör till användningen utöver huvud-<br>byggnaden. Exempelvis parkeringsplats för bil, förråd<br>och uteplats. |
-| e<br>1 | exploateringsgrad | Största sammanlagda byggnadsarea (BYA) är <an-<br>givet> m2. Syftet med bestämmelsen är att begränsa<br>byggnaders utbredning inom byggrätten. |
+| e<br>1 | exploateringsgrad | Största sammanlagda byggnadsarea (BYA) är \<an-<br>givet> m2. Syftet med bestämmelsen är att begränsa<br>byggnaders utbredning inom byggrätten. |
 | e<br>2 | exploateringsgrad | Största byggnadsarea för huvudbyggnader är 330 m2.<br>Därutöver får balkonger (även inglasade) och skärm-<br>tak uppföras. Syftet med bestämmelsen är att begrän-<br>sa byggnaders utbredning inom byggrätten. |
 | e<br>3 | exploateringsgrad | Största byggnadsarea för huvudbyggnader är 400 m2.<br>Därutöver får balkonger (även inglasade) och skärm-<br>tak uppföras. Syftet med bestämmelsen är att begrän-<br>sa byggnaders utbredning inom byggrätten. |
 | e<br>4 | exploateringsgrad | Största byggnadsarea för huvudbyggnader är 660 m2.<br>Därutöver får balkonger (även inglasade) och skärm-<br>tak uppföras. Syftet med bestämmelsen är att begrän-<br>sa byggnaders utbredning inom byggrätten. |
@@ -6292,7 +6292,7 @@ das.
 
 | a<br>2 | Upphävande av<br>strandskydd | Strandskyddet inom kvartersmark upphävs. Strand-<br>skyddet som återinträder vid planläggningen upphävs<br>inom del av planområdet. Syftet med bestämmelsen<br>är att möjliggöra för åtgärder enligt plankartan. |
 | --- | --- | --- |
-| n<br>7 | Markens anordnande<br>och vegetation | Markens höjd får inte vara högre än <angivet> meter<br>över nollplanet. Syftet med bestämmelsen är att sä-<br>kerställa stabiliteten mot Söderå. |
+| n<br>7 | Markens anordnande<br>och vegetation | Markens höjd får inte vara högre än \<angivet> meter<br>över nollplanet. Syftet med bestämmelsen är att sä-<br>kerställa stabiliteten mot Söderå. |
 
 <!-- sida 156 -->
 
@@ -7998,35 +7998,35 @@ det kan antas att barnet inte tar skada av att höras.
 
 Generella förutsättningar för omhändertagande för vård
 1 § Ett barn ska omhändertas för vård om
-1. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas
+1\. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas
 på grund av sådana förhållanden i hemmet eller egna beteenden som anges
 i 2 eller 3 §,
-2. den planerade vården är nödvändig och till barnets bästa, och
-3. det kan antas att vården inte kan ges med samtycke av barnets
+2\. den planerade vården är nödvändig och till barnets bästa, och
+3\. det kan antas att vården inte kan ges med samtycke av barnets
 vårdnadshavare och, om barnet har fyllt 15 år, av barnet själv.
 En ung person som är under 20 år får omhändertas för vård om
-1. det finns en påtaglig risk för att den unges hälsa eller utveckling
+1\. det finns en påtaglig risk för att den unges hälsa eller utveckling
 skadas på grund av sådana egna beteenden som anges i 3 §,
-2. den planerade vården är nödvändig, lämpligare än någon annan vård
+2\. den planerade vården är nödvändig, lämpligare än någon annan vård
 och till den unges bästa, och
-3. det kan antas att vården inte kan ges med den unges samtycke.
+3\. det kan antas att vården inte kan ges med den unges samtycke.
 Omhändertagande för vård på grund av förhållanden i hemmet
 2 § De förhållanden i hemmet som kan ligga till grund för omhänder-
 tagande för vård enligt 1 § är
-1. fysisk eller psykisk misshandel,
-2. utnyttjande eller exploatering sexuellt,
-3. brister i omsorgen om barnets grundläggande behov,
-4. negativ social kontroll, eller
-5. något annat skadligt förhållande.
+1\. fysisk eller psykisk misshandel,
+2\. utnyttjande eller exploatering sexuellt,
+3\. brister i omsorgen om barnets grundläggande behov,
+4\. negativ social kontroll, eller
+5\. något annat skadligt förhållande.
 Vid ett beslut om omhändertagande för vård får en sammantagen
 bedömning göras av förhållandena i första stycket 1–5.
 Omhändertagande för vård på grund av eget beteende
 3 § De egna beteenden som kan ligga till grund för omhändertagande för
 vård enligt 1 § är
-1. skadligt bruk eller beroende av alkohol, narkotika, andra beroende-
+1\. skadligt bruk eller beroende av alkohol, narkotika, andra beroende-
 framkallande medel, läkemedel eller dopningsmedel,
-2. brottslig verksamhet, eller
-3. något annat socialt nedbrytande eller destruktivt beteende.
+2\. brottslig verksamhet, eller
+3\. något annat socialt nedbrytande eller destruktivt beteende.
 Vid ett beslut om omhändertagande för vård får en sammantagen
 bedömning göras av beteendena i första stycket 1–3.
 Omhändertagande för vård på grund av eget beteende vid sluten
@@ -8037,33 +8037,33 @@ kräver inte att risken för skada är påtaglig om barnet eller den unge
 
 <!-- sida 193 -->
 
-1. har dömts till sluten ungdomsvård enligt 32 kap. 5 § brottsbalken, och
-2. vid verkställighetens slut bedöms vara i uppenbart behov av vård för
+1\. har dömts till sluten ungdomsvård enligt 32 kap. 5 § brottsbalken, och
+2\. vid verkställighetens slut bedöms vara i uppenbart behov av vård för
 att inte riskera att skada sin hälsa eller utveckling på grund av sådana
 beteenden som anges i 3 §.
 
 Omhändertagande för vård på grund av anknytning
 5 § Ett barn ska omhändertas för vård på grund av anknytning till
 familjehemmet om
-1. barnet är placerat i ett familjehem på grund av sådana förhållanden i
+1\. barnet är placerat i ett familjehem på grund av sådana förhållanden i
 hemmet som anges i 2 §,
-2. förutsättningarna för det omhändertagandet har upphört,
-3. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas
+2\. förutsättningarna för det omhändertagandet har upphört,
+3\. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas
 om placeringen i familjehemmet upphör,
-4. det är till barnets bästa att vården fortsätter, och
-5. det kan antas att placeringen i familjehemmet inte kan fortsätta med
+4\. det är till barnets bästa att vården fortsätter, och
+5\. det kan antas att placeringen i familjehemmet inte kan fortsätta med
 samtycke av barnets vårdnadshavare och, om barnet har fyllt 15 år, av
 barnet själv.
 6 § Vid en prövning av om förutsättningarna för omhändertagande för
 vård på grund av anknytning enligt 5 § är uppfyllda ska särskilt beaktas
-1. familjehemsföräldrarnas inställning till och förmåga att fortsatt vara
+1\. familjehemsföräldrarnas inställning till och förmåga att fortsatt vara
 familjehem,
-2. barnets inställning,
-3. barnets relation till familjehemmet, vårdnadshavare och syskon,
-4. barnets förankring i sin sociala miljö,
-5. barnets ålder och placeringstid,
-6. om barnet har särskilda behov, och
-7. om barnet har en pågående behandling eller annan insats.
+2\. barnets inställning,
+3\. barnets relation till familjehemmet, vårdnadshavare och syskon,
+4\. barnets förankring i sin sociala miljö,
+5\. barnets ålder och placeringstid,
+6\. om barnet har särskilda behov, och
+7\. om barnet har en pågående behandling eller annan insats.
 4 kap. Ansökan och beslut om omhändertagande för vård
 Förvaltningsrätten beslutar om omhändertagande för vård
 
@@ -8076,21 +8076,21 @@ hemmet prövas.
 Ansökans innehåll
 2 § Socialnämndens ansökan om omhändertagande för vård enligt 1 §
 första stycket ska innehålla en redogörelse för
-1. barnets eller den unges relationer till närstående personer och sociala
+1\. barnets eller den unges relationer till närstående personer och sociala
 nätverk,
-2. barnets eller den unges hälsa, utveckling, sociala beteende och
+2\. barnets eller den unges hälsa, utveckling, sociala beteende och
 skolgång,
-3. de konkreta omständigheter som utgör grund för att barnet eller den
+3\. de konkreta omständigheter som utgör grund för att barnet eller den
 unge behöver omhändertas för vård,
 16            4. tidigare vidtagna åtgärder,
 
 <!-- sida 194 -->
 
-5. den vård som socialnämnden anser är nödvändig, målet med vården
+5\. den vård som socialnämnden anser är nödvändig, målet med vården
 och hur den ska genomföras,
-6. hur relevant information lämnats till barnet eller den unge,
-7. vilket slags relevant information som lämnats, och
-8. barnets och vårdnadshavarens eller den unges inställning till behovet
+6\. hur relevant information lämnats till barnet eller den unge,
+7\. vilket slags relevant information som lämnats, och
+8\. barnets och vårdnadshavarens eller den unges inställning till behovet
 av vård och förhållandena i övrigt.
 Ansökan ska även innehålla en vårdplan.
 
@@ -8110,10 +8110,10 @@ Beslut om omedelbart omhändertagande
 Omedelbart omhändertagande för vård
 1 § Socialnämnden får besluta att ett barn eller en ung person som är
 under 20 år omedelbart ska omhändertas för vård, om
-1. det är sannolikt att barnet eller den unge behöver omhändertas för
+1\. det är sannolikt att barnet eller den unge behöver omhändertas för
 vård på grund av förhållanden i hemmet eller eget beteende enligt 3 kap.
 2 eller 3 §, och
-2. rättens beslut om omhändertagande för vård inte kan avvaktas med
+2\. rättens beslut om omhändertagande för vård inte kan avvaktas med
 hänsyn till
 a) risken för barnets eller den unges hälsa eller utveckling, eller
 b) att den fortsatta utredningen allvarligt kan försvåras eller vidare
@@ -8123,10 +8123,10 @@ situationer
 2 § Socialnämnden får, om svensk domstol inte är behörig att besluta om
 omhändertagande för vård, besluta att ett barn omedelbart ska
 omhändertas för tillfällig vård, om
-1. det är sannolikt att barnet tillfälligt behöver omhändertas för vård på
+1\. det är sannolikt att barnet tillfälligt behöver omhändertas för vård på
 grund av förhållanden i hemmet eller eget beteende enligt 3 kap. 2 eller
 3 §, och
-2. åtgärder av behörig utländsk myndighet inte kan avvaktas med hänsyn
+2\. åtgärder av behörig utländsk myndighet inte kan avvaktas med hänsyn
 till
 a) risken för barnets hälsa eller utveckling, eller
 b) att den fortsatta utredningen allvarligt kan försvåras eller vidare
@@ -8157,24 +8157,24 @@ Ansökan efter fastställt beslut
 dertagande, ska socialnämnden senast inom fyra veckor från den dag då
 vården påbörjades enligt 6 kap. 3 § ansöka hos förvaltningsrätten om att
 barnet eller den unge ska
-1. omhändertas för vård på grund av förhållanden i hemmet eller eget
+1\. omhändertas för vård på grund av förhållanden i hemmet eller eget
 beteende enligt 3 kap. 2 eller 3 §, eller
-2. vara fortsatt omhändertagen för tillfällig vård enligt 9 §.
+2\. vara fortsatt omhändertagen för tillfällig vård enligt 9 §.
 Förvaltningsrätten får besluta om förlängning av denna tid, om
 ytterligare utredning eller någon annan särskild omständighet gör det
 nödvändigt.
 Upphörande av ett omedelbart omhändertagande
 
 6 § Ett omedelbart omhändertagande upphör
-1. om socialnämnden inte inom en vecka från den dag då beslutet om
+1\. om socialnämnden inte inom en vecka från den dag då beslutet om
 omedelbart omhändertagande fattades har lämnat över beslutet till
 domstolen för prövning av om det ska fastställas,
-2. om socialnämnden inte inom fyra veckor från den dag då vården
+2\. om socialnämnden inte inom fyra veckor från den dag då vården
 påbörjades enligt 6 kap. 3 § har ansökt om omhändertagande för vård på
 grund av förhållanden i hemmet eller eget beteende enligt 3 kap. 2 eller
 3 § eller fortsatt omhändertagande för tillfällig vård enligt 9 §, och inte
 heller begärt förlängning av ansökningstiden, eller
-3. när rätten avgör frågan om omhändertagande för vård eller frågan om
+3\. när rätten avgör frågan om omhändertagande för vård eller frågan om
 fortsatt omhändertagande för tillfällig vård.
 7 § Socialnämnden ska besluta att ett omedelbart omhändertagande
 genast ska upphöra när det inte längre behövs. Ett sådant beslut får fattas
@@ -8196,10 +8196,10 @@ för tillfällig vård enligt 2 § ska fortsätta om barnet fortsatt behöver ti
 vård.
 Ett sådant beslut får endast fattas om socialnämnden har ansökt om ett
 sådant omhändertagande
-1. inom fyra veckor från den dag då vården påbörjades enligt 6 kap. 3 §,
-2. innan tiden för när ett beslut om förlängd tidsfrist enligt 5 § andra
+1\. inom fyra veckor från den dag då vården påbörjades enligt 6 kap. 3 §,
+2\. innan tiden för när ett beslut om förlängd tidsfrist enligt 5 § andra
 stycket har löpt ut, eller
-3. innan tiden för när ett gällande beslut om fortsatt omhändertagande
+3\. innan tiden för när ett gällande beslut om fortsatt omhändertagande
 för tillfällig vård har löpt ut.
 Ansökan om fortsatt omhändertagande för tillfällig vård
 10 § I ansökan om fortsatt omhändertagande för tillfällig vård enligt 9 §
@@ -8291,10 +8291,10 @@ till umgänge med föräldrar, vårdnadshavare, syskon och andra närstående.
 Beslut om umgänge och hemlighållande av vistelseort
 2 § Om det är nödvändigt med hänsyn till ändamålet med vården, får
 socialnämnden besluta
-1. hur barnets umgänge med vårdnadshavare och med föräldrar som har
+1\. hur barnets umgänge med vårdnadshavare och med föräldrar som har
 umgängesrätt reglerad genom dom eller beslut av domstol eller genom
 avtal ska utformas, eller
-2. att barnets vistelseort ska hemlighållas för vårdnadshavare eller
+2\. att barnets vistelseort ska hemlighållas för vårdnadshavare eller
 föräldrar.
 Socialnämnden ska minst en gång var tredje månad överväga om ett
 sådant beslut som avses i första stycket fortfarande behövs.
@@ -8319,12 +8319,12 @@ sättningar.
 Socialnämnden ska noga följa vården
 1 § Socialnämnden ska noga följa vården av ett barn eller en ung person
 som är omhändertagen. Detta ska främst ske genom
-1. regelbundna personliga besök i det hem eller boende där barnet eller
+1\. regelbundna personliga besök i det hem eller boende där barnet eller
 den unge vårdas,
-2. enskilda samtal med barnet eller den unge,
-3. samtal med den eller dem som tagit emot barnet eller den unge i sitt
+2\. enskilda samtal med barnet eller den unge,
+3\. samtal med den eller dem som tagit emot barnet eller den unge i sitt
 hem eller på boendet, och
-4. samtal med vårdnadshavarna eller god man enligt lagen (2005:429)
+4\. samtal med vårdnadshavarna eller god man enligt lagen (2005:429)
 om god man för ensamkommande barn.
 21
 
@@ -8361,14 +8361,14 @@ varit placerat i samma familjehem under två år från det att placeringen
 påbörjades. Därefter ska frågan övervägas årligen.
 När socialnämnden överväger att ansöka om överflyttning av vårdnaden
 ska nämnden särskilt beakta
-1. barnets och familjehemsföräldrarnas inställning till en vårdnads-
+1\. barnets och familjehemsföräldrarnas inställning till en vårdnads-
 överflyttning,
-2. barnets relation till familjehemsföräldrarna och deras förmåga att
+2\. barnets relation till familjehemsföräldrarna och deras förmåga att
 tillgodose barnets behov av en trygg och god uppväxt,
-3. familjehemsföräldrarnas inställning till och förmåga att tillgodose
+3\. familjehemsföräldrarnas inställning till och förmåga att tillgodose
 barnets behov av kontakt med sina föräldrar och andra närstående,
-4. barnets relation till sina föräldrar, och
-5. barnets sociala situation i övrigt.
+4\. barnets relation till sina föräldrar, och
+5\. barnets sociala situation i övrigt.
 10 kap. Upphörande av omhändertagande för vård
 
 Förutsättningar för upphörande av omhändertagande för vård
@@ -8381,9 +8381,9 @@ upphöra när det inte längre behövs.
 
 Ett omhändertagande för vård på grund av förhållanden i hemmet enligt
 3 kap. 2 § får inte upphöra
-1. innan de förhållanden som ligger till grund för vården har förändrats
+1\. innan de förhållanden som ligger till grund för vården har förändrats
 på ett varaktigt och genomgripande sätt, och
-2. om barnet är placerat i familjehem, utan att det har övervägts om det
+2\. om barnet är placerat i familjehem, utan att det har övervägts om det
 finns förutsättningar för omhändertagande för vård på grund av anknyt-
 ning.
 Ett omhändertagande för vård ska upphöra vid vissa åldrar
@@ -8489,10 +8489,10 @@ någon annan plats.
 Flyttningsförbud för viss tid eller tills vidare
 1 § En vårdnadshavare får för viss tid eller tills vidare förbjudas att ta ett
 barn från ett familjehem eller annat enskilt hem om
-1. barnet är placerat i hemmet med stöd av 3 kap. 3 §, eller
-2. barnet har tagits emot i hemmet efter beslut eller medgivande från
+1\. barnet är placerat i hemmet med stöd av 3 kap. 3 §, eller
+2\. barnet har tagits emot i hemmet efter beslut eller medgivande från
 socialnämnden enligt 22 kap. 2 § socialtjänstlagen (2025:400), och
-3. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas
+3\. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas
 om barnet skiljs från hemmet.
 Förvaltningsrätten beslutar om flyttningsförbud efter ansökan
 2 § Beslut om flyttningsförbud fattas av förvaltningsrätten efter ansökan
@@ -8504,13 +8504,13 @@ ska tas emot i ett familjehem eller annat enskilt hem.
 Ansökans innehåll
 3 § Socialnämndens ansökan om flyttningsförbud ska innehålla en
 redogörelse för
-1. barnets förhållanden,
-2. de konkreta omständigheter som utgör grund för att barnet behöver
+1\. barnets förhållanden,
+2\. de konkreta omständigheter som utgör grund för att barnet behöver
 skyddas genom ett flyttningsförbud,
-3. tidigare vidtagna åtgärder,
-4. hur relevant information lämnats till barnet,
-5. vilket slags relevant information som lämnats, och
-6. barnets och vårdnadshavarens inställning.
+3\. tidigare vidtagna åtgärder,
+4\. hur relevant information lämnats till barnet,
+5\. vilket slags relevant information som lämnats, och
+6\. barnets och vårdnadshavarens inställning.
 Regelbundet övervägande av om flyttningsförbudet fortfarande
 behövs
 4 § Socialnämnden ska regelbundet överväga om ett flyttningsförbud
@@ -8529,8 +8529,8 @@ Ett flyttningsförbud upphör senast när barnet fyller 18 år.
 Tillfälligt flyttningsförbud
 Beslut om tillfälligt flyttningsförbud
 6 § Socialnämnden får besluta om tillfälligt flyttningsförbud, om
-1. det är sannolikt att ett flyttningsförbud behövs, och
-2. rättens beslut om flyttningsförbud inte kan avvaktas med hänsyn till
+1\. det är sannolikt att ett flyttningsförbud behövs, och
+2\. rättens beslut om flyttningsförbud inte kan avvaktas med hänsyn till
 risken för barnets hälsa eller utveckling.
 Beslut om tillfälligt flyttningsförbud fattas av den socialnämnd som har
 beslutat eller lämnat medgivande enligt 22 kap. 2 § socialtjänstlagen
@@ -8561,10 +8561,10 @@ Förvaltningsrätten får besluta om förlängning av denna tid, om ytter-
 ligare utredning gör det nödvändigt.
 Upphörande av ett tillfälligt flyttningsförbud
 10 § Ett tillfälligt flyttningsförbud upphör
-1. om socialnämnden inte inom en vecka från den dag då beslutet om
+1\. om socialnämnden inte inom en vecka från den dag då beslutet om
 tillfälligt flyttningsförbud fattades har lämnat över beslutet till domstolen
 för prövning av om det ska fastställas,
-2. om socialnämnden inte inom två veckor från den dag då förvaltnings-
+2\. om socialnämnden inte inom två veckor från den dag då förvaltnings-
 rätten fastställde beslutet om tillfälligt flyttningsförbud har ansökt om ett
 26
 
@@ -8572,7 +8572,7 @@ rätten fastställde beslutet om tillfälligt flyttningsförbud har ansökt om e
 
 flyttningsförbud, och inte heller begärt förlängning av ansökningstiden,
 eller
-3. när rätten avgör frågan om flyttningsförbud.
+3\. när rätten avgör frågan om flyttningsförbud.
 
 11 § Socialnämnden ska besluta att ett tillfälligt flyttningsförbud genast
 ska upphöra när det inte längre finns skäl för det. Ett sådant beslut får fattas
@@ -8589,8 +8589,8 @@ avtal ska utformas.
 Förutsättningar för utreseförbud
 1 § Ett utreseförbud ska beslutas för ett barn, om det finns en påtaglig
 risk för att
-1. barnet förs utomlands eller lämnar Sverige, och
-2. barnets hälsa eller utveckling skadas under utlandsvistelsen på grund
+1\. barnet förs utomlands eller lämnar Sverige, och
+2\. barnets hälsa eller utveckling skadas under utlandsvistelsen på grund
 av sådana förhållanden eller beteenden som anges i 3 kap. 2 eller 3 §.
 Ett utreseförbud ska också beslutas om det finns en påtaglig risk för att
 barnet förs utomlands eller lämnar Sverige i syfte att ingå äktenskap eller
@@ -8603,13 +8603,13 @@ socialnämnden.
 Ansökans innehåll
 3 § Socialnämndens ansökan om utreseförbud ska innehålla en redogö-
 relse för
-1. barnets förhållanden,
-2. de konkreta omständigheter som utgör grund för att barnet behöver
+1\. barnets förhållanden,
+2\. de konkreta omständigheter som utgör grund för att barnet behöver
 skyddas genom ett utreseförbud,
-3. tidigare vidtagna åtgärder,
-4. hur relevant information lämnats till barnet,
-5. vilket slags relevant information som lämnats, och
-6. barnets och vårdnadshavarens inställning.
+3\. tidigare vidtagna åtgärder,
+4\. hur relevant information lämnats till barnet,
+5\. vilket slags relevant information som lämnats, och
+6\. barnets och vårdnadshavarens inställning.
 Regelbunden prövning av om utreseförbudet ska upphöra
 4 § Socialnämnden ska regelbundet pröva om ett utreseförbud ska
 upphöra. En sådan prövning ska göras minst en gång var sjätte månad från
@@ -8626,8 +8626,8 @@ Ett utreseförbud upphör senast när barnet fyller 18 år.
 Tillfälligt utreseförbud
 Beslut om tillfälligt utreseförbud
 6 § Socialnämnden får besluta om tillfälligt utreseförbud, om
-1. det är sannolikt att ett utreseförbud behövs, och
-2. rättens beslut om utreseförbud inte kan avvaktas med hänsyn till
+1\. det är sannolikt att ett utreseförbud behövs, och
+2\. rättens beslut om utreseförbud inte kan avvaktas med hänsyn till
 risken för att barnet förs utomlands eller lämnar Sverige.
 
 Beslutsrätt i vissa fall
@@ -8655,13 +8655,13 @@ ligare utredning gör det nödvändigt.
 
 Upphörande av ett tillfälligt utreseförbud
 10 § Ett tillfälligt utreseförbud upphör
-1. om socialnämnden inte inom en vecka från den dag då beslutet om
+1\. om socialnämnden inte inom en vecka från den dag då beslutet om
 tillfälligt utreseförbud fattades har lämnat över beslutet till domstolen för
 prövning av om det ska fastställas,
-2. om socialnämnden inte inom fyra veckor från den dag då förvalt-
+2\. om socialnämnden inte inom fyra veckor från den dag då förvalt-
 ningsrätten fastställde beslutet om tillfälligt utreseförbud har ansökt om ett
 utreseförbud, och inte heller begärt förlängning av ansökningstiden, eller
-3. när rätten avgör frågan om utreseförbud.
+3\. när rätten avgör frågan om utreseförbud.
 28
 
 <!-- sida 206 -->
@@ -8681,20 +8681,20 @@ sig själv för sådana förhållanden som föranlett utreseförbudet.
 
 Beslut om förebyggande insatser
 1 § Socialnämnden får besluta att ett barn eller en ung person ska
-1. hålla regelbunden kontakt med en särskilt kvalificerad kontaktperson
+1\. hålla regelbunden kontakt med en särskilt kvalificerad kontaktperson
 som socialnämnden utsett, eller
-2. delta i behandling i öppna former inom socialtjänsten.
+2\. delta i behandling i öppna former inom socialtjänsten.
 2 § Ett beslut om förebyggande insats enligt 1 § får fattas för ett barn
 eller en ung person som är under 20 år om det kan antas att
-1. barnet eller den unge på grund av något eget beteende enligt 3 kap.
+1\. barnet eller den unge på grund av något eget beteende enligt 3 kap.
 3 § kommer att behöva omhändertas för vård om beteendet fortsätter, och
-2. det stöd eller den behandling som är nödvändig inte kan ges med
+2\. det stöd eller den behandling som är nödvändig inte kan ges med
 samtycke av barnets vårdnadshavare och, om barnet har fyllt 15 år, av
 barnet själv, eller av den unge.
 3 § Ett beslut om förebyggande insats enligt 1 § får fattas för ett barn
 eller en ung person som är under 20 år om barnet eller den unge
-1. har dömts till sluten ungdomsvård enligt 32 kap. 5 § brottsbalken, och
-2. vid verkställighetens slut bedöms vara i uppenbart behov av insatser
+1\. har dömts till sluten ungdomsvård enligt 32 kap. 5 § brottsbalken, och
+2\. vid verkställighetens slut bedöms vara i uppenbart behov av insatser
 för att hindra sådana beteenden som anges i 3 kap. 3 §.
 
 Särskild behandlingsplan
@@ -8716,9 +8716,9 @@ från den dag då beslutet om förebyggande insats fattades.
 
 Upphörande av en förebyggande insats
 7 § En förebyggande insats upphör att gälla
-1. när den unge fyller 21 år,
-2. om ett barn eller en ung person omedelbart omhändertas för vård, eller
-3. om ett barn eller en ung person omhändertas för vård.
+1\. när den unge fyller 21 år,
+2\. om ett barn eller en ung person omedelbart omhändertas för vård, eller
+3\. om ett barn eller en ung person omhändertas för vård.
 
 8 § Socialnämnden ska besluta att en förebyggande insats ska upphöra
 när den inte längre behövs.
@@ -8798,14 +8798,14 @@ domstolen.
 När förvaltningsrätten senast ska påbörja prövningen av vissa mål
 3 § Förvaltningsrätten ska påbörja prövningen av ett mål inom två
 veckor från den dag när en ansökan om
-1. omhändertagande för vård eller fortsatt omhändertagande för tillfällig
+1\. omhändertagande för vård eller fortsatt omhändertagande för tillfällig
 vård kom in och barnet eller den unge är omedelbart omhändertagen för
 vård eller tillfällig vård,
-2. omhändertagande för vård på grund av anknytning kom in och barnet
+2\. omhändertagande för vård på grund av anknytning kom in och barnet
 är omhändertaget för vård på grund av förhållanden i hemmet,
-3. flyttningsförbud kom in efter det att ett tillfälligt flyttningsförbud har
+3\. flyttningsförbud kom in efter det att ett tillfälligt flyttningsförbud har
 fattats, eller
-4. utreseförbud kom in efter det att ett tillfälligt utreseförbud har fattats.
+4\. utreseförbud kom in efter det att ett tillfälligt utreseförbud har fattats.
 Förvaltningsrätten får förlänga tiden, om ytterligare utredning eller
 någon annan särskild omständighet gör det nödvändigt.
 31
@@ -8815,11 +8815,11 @@ någon annan särskild omständighet gör det nödvändigt.
 Muntlig förhandling
 4 § Förvaltningsrätten och kammarrätten ska, om det inte är uppenbart
 obehövligt, hålla muntlig förhandling i mål om
-1. omhändertagande för vård enligt 3 kap.,
-2. fortsatt omhändertagande för tillfällig vård enligt 5 kap. 9 §,
-3. upphörande av omhändertagande för vård enligt 10 kap. 1 §,
-4. flyttningsförbud enligt 12 kap. 1 §, och
-5. utreseförbud enligt 13 kap. 1 §.
+1\. omhändertagande för vård enligt 3 kap.,
+2\. fortsatt omhändertagande för tillfällig vård enligt 5 kap. 9 §,
+3\. upphörande av omhändertagande för vård enligt 10 kap. 1 §,
+4\. flyttningsförbud enligt 12 kap. 1 §, och
+5\. utreseförbud enligt 13 kap. 1 §.
 Muntlig förhandling ska alltid hållas i mål enligt första stycket om någon
 part begär det. Parterna ska upplysas om sin rätt att begära muntlig
 förhandling.
@@ -8829,10 +8829,10 @@ till domstolen antingen omedelbart eller till en senare dag.
 Nämndemän i kammarrätten
 5 § Vid handläggning i kammarrätten av mål enligt denna lag ska
 nämndemän ingå i rätten. Det gäller dock inte i mål om
-1. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap.
+1\. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap.
 1 eller 2 §,
-2. tillfälligt flyttningsförbud enligt 12 kap. 6 §, och
-3. tillfälligt utreseförbud enligt 13 kap. 6 §.
+2\. tillfälligt flyttningsförbud enligt 12 kap. 6 §, och
+3\. tillfälligt utreseförbud enligt 13 kap. 6 §.
 
 Undantag från vissa bestämmelser i delgivningslagen
 6 § Vid delgivning med en enskild i ett ärende eller mål enligt denna lag
@@ -8843,18 +8843,18 @@ får 34–38 och 47–51 §§ delgivningslagen (2010:1932) inte tillämpas.
 Rätt till offentligt biträde
 1 § Offentligt biträde ska förordnas för ett barn eller en ung person och
 för ett barns vårdnadshavare i ärenden och mål om
-1. omhändertagande för vård enligt 3 kap.,
-2. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap.
+1\. omhändertagande för vård enligt 3 kap.,
+2\. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap.
 1 eller 2 §,
-3. fortsatt omhändertagande för tillfällig vård enligt 5 kap. 9 §,
-4. upphörande av fortsatt omhändertagande för tillfällig vård enligt
+3\. fortsatt omhändertagande för tillfällig vård enligt 5 kap. 9 §,
+4\. upphörande av fortsatt omhändertagande för tillfällig vård enligt
 5 kap. 12 §,
-5. upphörande av omhändertagande för vård enligt 10 kap. 1 §,
-6. flyttningsförbud enligt 12 kap. 1 §,
-7. upphörande av flyttningsförbud enligt 12 kap. 5 §,
-8. utreseförbud enligt 13 kap. 1 §,
-9. upphörande av utreseförbud enligt 13 kap. 5 §, och
-10. tillfälligt utreseförbud enligt 13 kap. 6 §.
+5\. upphörande av omhändertagande för vård enligt 10 kap. 1 §,
+6\. flyttningsförbud enligt 12 kap. 1 §,
+7\. upphörande av flyttningsförbud enligt 12 kap. 5 §,
+8\. utreseförbud enligt 13 kap. 1 §,
+9\. upphörande av utreseförbud enligt 13 kap. 5 §, och
+10\. tillfälligt utreseförbud enligt 13 kap. 6 §.
 Ett biträde ska inte förordnas om det kan antas att behov av biträde
 saknas.
 32
@@ -8865,8 +8865,8 @@ saknas.
 för ett barns vårdnadshavare eller en förälder med reglerad umgängesrätt
 när barnet, den unge, vårdnadshavaren eller föräldern uttrycker en vilja att
 överklaga beslut om
-1. placering enligt 6 kap. 1 §, eller
-2. umgänge eller hemlighållande av barnets vistelseort enligt 7 kap. 2 §.
+1\. placering enligt 6 kap. 1 §, eller
+2\. umgänge eller hemlighållande av barnets vistelseort enligt 7 kap. 2 §.
 Ett biträde ska inte förordnas om det kan antas att behov av biträde
 saknas.
 Förordnande av olika eller ett gemensamt offentligt biträde
@@ -8902,11 +8902,11 @@ förvaltningsrätten.
 
 Beslut som alltid gäller omedelbart
 1 § Beslut av socialnämnden eller rätten gäller omedelbart i fråga om
-1. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap.
+1\. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap.
 1 eller 2 §,
-2. tillfälligt flyttningsförbud enligt 12 kap. 6 §,
-3. tillfälligt utreseförbud enligt 13 kap. 6 §, och
-4. förebyggande insatser enligt 14 kap. 1 §.
+2\. tillfälligt flyttningsförbud enligt 12 kap. 6 §,
+3\. tillfälligt utreseförbud enligt 13 kap. 6 §, och
+4\. förebyggande insatser enligt 14 kap. 1 §.
 33
 
 <!-- sida 211 -->
@@ -8932,19 +8932,19 @@ myndigheten bestämmer något annat.
 Beslut av socialnämnden som får överklagas
 1 § Socialnämndens beslut får överklagas till allmän förvaltnings-
 domstol i fråga om
-1. placering enligt 6 kap. 1 §,
-2. omhändertagande för vård fortfarande behövs eller ska upphöra,
-3. fortsatt omhändertagande för tillfällig vård fortfarande behövs eller
+1\. placering enligt 6 kap. 1 §,
+2\. omhändertagande för vård fortfarande behövs eller ska upphöra,
+3\. fortsatt omhändertagande för tillfällig vård fortfarande behövs eller
 ska upphöra,
-4. umgängets utformning eller hemlighållande av vistelseort enligt
+4\. umgängets utformning eller hemlighållande av vistelseort enligt
 7 kap. 2 §,
-5. flyttningsförbud fortfarande behövs eller ska upphöra,
-6. umgänge vid flyttningsförbud och tillfälligt flyttningsförbud enligt
+5\. flyttningsförbud fortfarande behövs eller ska upphöra,
+6\. umgänge vid flyttningsförbud och tillfälligt flyttningsförbud enligt
 12 kap. 12 §,
-7. utreseförbud fortfarande behövs eller ska upphöra,
-8. tillfälligt undantag från ett utreseförbud enligt 13 kap. 12 §,
-9. förebyggande insatser enligt 14 kap. 1 §, eller
-10. förebyggande insatser fortfarande behövs eller ska upphöra.
+7\. utreseförbud fortfarande behövs eller ska upphöra,
+8\. tillfälligt undantag från ett utreseförbud enligt 13 kap. 12 §,
+9\. förebyggande insatser enligt 14 kap. 1 §, eller
+10\. förebyggande insatser fortfarande behövs eller ska upphöra.
 Andra beslut av nämnden enligt denna lag får inte överklagas.
 Beslut av allmän förvaltningsdomstol som inte får överklagas
 2 § Beslut av rätten om förlängd ansökningstid enligt 4 kap. 3 §, 5 kap.
@@ -8963,13 +8963,13 @@ Kriminalvården
 
 Förutsättningar för handräckning
 1 § Polismyndigheten ska lämna hjälp för att på begäran av
-1. socialnämnden, nämndens ordförande eller rätten ge en läkare, som
+1\. socialnämnden, nämndens ordförande eller rätten ge en läkare, som
 avses i 11 kap. 4 §, tillträde till barnets eller den unges hem eller för att
 föra barnet eller den unge till läkarundersökningen,
-2. socialnämnden eller någon ledamot eller tjänsteman som nämnden
+2\. socialnämnden eller någon ledamot eller tjänsteman som nämnden
 har förordnat genomföra beslut om omhändertagande för vård eller
 omedelbart omhändertagande för vård eller tillfällig vård,
-3. Statens institutionsstyrelse efterforska och hämta den som vårdas på
+3\. Statens institutionsstyrelse efterforska och hämta den som vårdas på
 ett särskilt ungdomshem på grund av något eget beteende enligt 3 kap. 3 §,
 om barnet eller den unge har avvikit från hemmet, eller ombesörja någon
 annan förflyttning av honom eller henne.
@@ -8978,12 +8978,12 @@ i ett särskilt ungdomshem ska Kriminalvården lämna sådan hjälp som
 anges i första stycket.
 2 § En begäran om hjälp av Polismyndigheten eller Kriminalvården
 enligt 1 § får göras endast om
-1. det på grund av särskilda omständigheter kan befaras att åtgärden inte
+1\. det på grund av särskilda omständigheter kan befaras att åtgärden inte
 kan utföras utan att de särskilda befogenheter som anges i 10 och 10 a §§
 polislagen (1984:387) eller, om det gäller en transport som utförs av
 Kriminalvården, 4 kap. 4 § och 10 § första stycket häkteslagen (2010:611)
 behöver tillgripas, eller
-2. det annars finns synnerliga skäl.
+2\. det annars finns synnerliga skäl.
 Första stycket gäller inte en begäran av rätten och inte heller en begäran
 av Statens institutionsstyrelse om efterforskning.
 Bestämmelser i häkteslagen som ska tillämpas vid en transport
@@ -9022,32 +9022,32 @@ det till ansvar enligt 23 kap. brottsbalken.
 
 22 kap. Förhållandet till vissa avlägsnandebeslut
 1 § Beslut enligt denna lag hindrar inte beslut om
-1. avvisning eller utvisning enligt utlänningslagen (2005:716),
-2. utvisning enligt lagen (2022:700) om särskild kontroll av vissa
+1\. avvisning eller utvisning enligt utlänningslagen (2005:716),
+2\. utvisning enligt lagen (2022:700) om särskild kontroll av vissa
 utlänningar,
-3. utlämning enligt lagen (1957:668) om utlämning för brott,
-4. överlämnande enligt lagen (2011:1165) om överlämnande från
+3\. utlämning enligt lagen (1957:668) om utlämning för brott,
+4\. överlämnande enligt lagen (2011:1165) om överlämnande från
 Sverige enligt en nordisk arresteringsorder,
-5. utlämning enligt lagen (1970:375) om utlämning till Danmark,
+5\. utlämning enligt lagen (1970:375) om utlämning till Danmark,
 Finland, Island eller Norge för verkställighet av beslut om vård eller
 behandling,
-6. utlämning enligt lagen (1994:569) om Sveriges samarbete med de
+6\. utlämning enligt lagen (1994:569) om Sveriges samarbete med de
 internationella tribunalerna för brott mot internationell humanitär rätt,
-7. överlämnande enligt lagen (2002:329) om samarbete med Inter-
+7\. överlämnande enligt lagen (2002:329) om samarbete med Inter-
 nationella brottmålsdomstolen,
-8. överlämnande enligt lagen (2003:1156) om överlämnande från
+8\. överlämnande enligt lagen (2003:1156) om överlämnande från
 Sverige enligt en europeisk arresteringsorder, eller
-9. utlämning enligt lagen (2006:615) om samarbete med Special-
+9\. utlämning enligt lagen (2006:615) om samarbete med Special-
 domstolen för Sierra Leone.
 Ett beslut enligt denna lag upphör när ett beslut enligt första stycket
 1–9 har verkställts.
-1. Denna lag träder i kraft den 1 januari 2027.
-2. Genom lagen upphävs lagen (1990:52) med särskilda bestämmelser
+1\. Denna lag träder i kraft den 1 januari 2027.
+2\. Genom lagen upphävs lagen (1990:52) med särskilda bestämmelser
 om vård av unga.
-3. För den som innan ikraftträdandet är omhändertagen enligt 2, 3, 6, 6 a
+3\. För den som innan ikraftträdandet är omhändertagen enligt 2, 3, 6, 6 a
 eller 9 a § i den upphävda lagen ska efter ikraftträdandet den nya lagen
 gälla.
-4. För beslut om förebyggande insatser, flyttningsförbud, utreseförbud
+4\. För beslut om förebyggande insatser, flyttningsförbud, utreseförbud
 eller tillfälligt utreseförbud enligt 22, 24, 31 a eller 31 d § i den upphävda
 lagen ska efter ikraftträdandet den nya lagens bestämmelser om före-
 byggande insatser, flyttningsförbud, utreseförbud eller tillfälligt utrese-
@@ -9056,19 +9056,19 @@ förbud gälla.
 
 <!-- sida 214 -->
 
-5. Även för andra beslut som fattats enligt den upphävda lagen ska efter
+5\. Även för andra beslut som fattats enligt den upphävda lagen ska efter
 ikraftträdandet den nya lagen gälla.
-6. Äldre bestämmelser gäller dock i ärenden och mål som har inletts i
+6\. Äldre bestämmelser gäller dock i ärenden och mål som har inletts i
 domstol före ikraftträdandet och när ett beslut som har fattats före ikraft-
 trädandet överklagas. Detta gäller också för beslut om omedelbart omhän-
 dertagande enligt 6 eller 6 a § i den upphävda lagen som inte lämnats över
 till domstol för prövning av om de ska fastställas före ikraftträdandet.
-7. Har ett mål om upphörande av vård med stöd av 2 § i den upphävda
+7\. Har ett mål om upphörande av vård med stöd av 2 § i den upphävda
 lagen inletts i domstol före ikraftträdandet och det rör ett barn som är
 placerat i familjehem, får vården inte upphöra utan att det har övervägts
 om det finns förutsättningar för omhändertagande för vård på grund av
 anknytning enligt 3 kap. 5 § i den nya lagen.
-8. Har ett tillfälligt flyttningsförbud beslutats enligt 27 § i den upphävda
+8\. Har ett tillfälligt flyttningsförbud beslutats enligt 27 § i den upphävda
 lagen gäller äldre bestämmelser om flyttningsförbud fram till dess ett
 lagakraftvunnet beslut om flyttningsförbud finns.
 
@@ -9107,10 +9107,10 @@ om omhändertagande för vård av barn och unga indelade i olika
 säkerhetsnivåer.
 Följande särskilda befogenheter får endast användas på ungdomshem
 med förhöjd säkerhetsnivå:
-1. avskildhet i anslutning till dygnsvilan enligt 6 kap. 4 §,
-2. begränsning av användningen av elektroniska kommunikations-
+1\. avskildhet i anslutning till dygnsvilan enligt 6 kap. 4 §,
+2\. begränsning av användningen av elektroniska kommunikations-
 tjänster enligt 7 kap. 3 §, eller
-3. omhändertagande av teknisk utrustning enligt 7 kap. 8 §.
+3\. omhändertagande av teknisk utrustning enligt 7 kap. 8 §.
 Befogenheter som får användas för alla barn och unga som vårdas
 på ett särskilt ungdomshem oavsett säkerhetsnivå
 3 § Regeringen, eller Statens institutionsstyrelse efter regeringens
@@ -9118,14 +9118,14 @@ bemyndigande, får besluta att följande befogenheter ska gälla för alla barn
 och unga som är placerade på ett särskilt ungdomshem om det är
 nödvändigt för att genomföra vården och upprätthålla ordningen på
 hemmet:
-1. omhändertagande av otillåten egendom enligt 4 kap. 1 §,
-2. säkerhetskontroll enligt 4 kap. 3 §,
-3. rumsvisitation enligt 4 kap. 5 §, eller
+1\. omhändertagande av otillåten egendom enligt 4 kap. 1 §,
+2\. säkerhetskontroll enligt 4 kap. 3 §,
+3\. rumsvisitation enligt 4 kap. 5 §, eller
 38
 
 <!-- sida 216 -->
 
-4. kroppsvisitation och ytlig kroppsbesiktning enligt 5 kap. 1 §.
+4\. kroppsvisitation och ytlig kroppsbesiktning enligt 5 kap. 1 §.
 
 3 kap. Barns och ungas rättigheter
 Barnets och den unges bästa
@@ -9162,18 +9162,18 @@ Otillåten egendom som ska omhändertas
 1 § Barn och unga som är omhändertagna på grund av eget beteende
 enligt 3 kap. 3 § lagen (2026:000) om omhändertagande för vård av barn
 och unga och placerade på ett särskilt ungdomshem får inte inneha
-1. narkotika,
-2. alkoholhaltiga drycker,
-3. andra berusningsmedel,
-4. sådana medel som avses i lagen (1991:1969) om förbud mot vissa
+1\. narkotika,
+2\. alkoholhaltiga drycker,
+3\. andra berusningsmedel,
+4\. sådana medel som avses i lagen (1991:1969) om förbud mot vissa
 dopningsmedel,
-5. varor som omfattas av lagen (1999:42) om förbud mot vissa
+5\. varor som omfattas av lagen (1999:42) om förbud mot vissa
 hälsofarliga varor, eller
 39
 
 <!-- sida 217 -->
 
-6. injektionssprutor, kanyler eller andra föremål som är särskilt ägnade
+6\. injektionssprutor, kanyler eller andra föremål som är särskilt ägnade
 att användas för bruk av eller annan befattning med narkotika.
 Barnet eller den unge får inte heller inneha något annat som kan vara till
 skada för vården eller ordningen på det särskilda ungdomshemmet.
@@ -9311,8 +9311,8 @@ Vård på låsbar enhet
 enligt 3 kap. 3 § lagen (2026:000) om omhändertagande för vård av barn
 och unga och placerade på ett särskilt ungdomshem får ges vård på en
 enhet inom hemmet som är låsbar om det är nödvändigt
-1. med hänsyn till barnets eller den unges eller andras säkerhet, eller
-2. för att förhindra att barnet eller den unge avviker eller för att i övrigt
+1\. med hänsyn till barnets eller den unges eller andras säkerhet, eller
+2\. för att förhindra att barnet eller den unge avviker eller för att i övrigt
 genomföra vården.
 42
 
@@ -9333,8 +9333,8 @@ enligt 3 kap. 3 § lagen (2026:000) om omhändertagande för vård av barn
 och unga och placerade på ett särskilt ungdomshem på en låsbar enhet med
 förhöjd säkerhetsnivå får hållas i avskildhet i anslutning till dygnsvilan,
 om det är nödvändigt
-1. med hänsyn till ordningen eller säkerheten på ungdomshemmet, eller
-2. för att förhindra att den unge avviker från ungdomshemmet.
+1\. med hänsyn till ordningen eller säkerheten på ungdomshemmet, eller
+2\. för att förhindra att den unge avviker från ungdomshemmet.
 Även om förutsättningarna i första stycket är uppfyllda får barnet eller
 den unge inte hållas avskild i anslutning till dygnsvilan om det finns en
 påtaglig risk för att hans eller hennes hälsa eller utveckling tar skada av
@@ -9585,16 +9585,16 @@ förordnandet avser.
 Beslut som går att överklaga
 1 § Statens institutionsstyrelses beslut får överklagas till allmän
 förvaltningsdomstol i fråga om
-1. förstörande eller försäljning av egendom enligt 4 kap. 2 §,
-2. drogtest enligt 4 kap. 4 §,
-3. rumsvisitation enligt 4 kap. 5 §,
-4. kontroll av brev och andra försändelser enligt 4 kap. 7 §,
-5. kroppsvisitation eller ytlig kroppsbesiktning enligt 5 kap. 1 §,
-6. vård i enskildhet enligt 6 kap. 2 §, vård vid låsbar enhet enligt 6 kap.
+1\. förstörande eller försäljning av egendom enligt 4 kap. 2 §,
+2\. drogtest enligt 4 kap. 4 §,
+3\. rumsvisitation enligt 4 kap. 5 §,
+4\. kontroll av brev och andra försändelser enligt 4 kap. 7 §,
+5\. kroppsvisitation eller ytlig kroppsbesiktning enligt 5 kap. 1 §,
+6\. vård i enskildhet enligt 6 kap. 2 §, vård vid låsbar enhet enligt 6 kap.
 3 §, avskildhet enligt 6 kap. 4 eller 6 §, eller
-7. begränsningar i rätten att använda elektroniska kommunikations-
+7\. begränsningar i rätten att använda elektroniska kommunikations-
 tjänster enligt 7 kap. 4 eller 5 §, eller
-8. begränsningar i rätten att ta emot besök enligt 8 kap. 2 eller 3 §.
+8\. begränsningar i rätten att ta emot besök enligt 8 kap. 2 eller 3 §.
 2 § Överklagande enligt lagen prövas av den förvaltningsrätt som prövat
 beslutet om omedelbart omhändertagande för vård eller tillfällig vård, eller
 beslutat om omhändertagande för vård enligt lagen (2026:000) om
@@ -9605,8 +9605,8 @@ Nämndemän i kammarrätten
 4 § Vid handläggning i kammarrätt av mål enligt denna lag ska
 nämndemän ingå i rätten.
 
-1. Denna lag träder i kraft den 1 januari 2027.
-2. Äldre bestämmelser gäller fortfarande för ärenden och mål om
+1\. Denna lag träder i kraft den 1 januari 2027.
+2\. Äldre bestämmelser gäller fortfarande för ärenden och mål om
 48           särskilda befogenheter som har inletts före ikraftträdandet.
 
 <!-- sida 226 -->
@@ -9669,12 +9669,12 @@ vad som anförtrotts dem för uppdragets fullgörande endast om parten
 medger det.
 Trots det som sägs i andra eller tredje stycket föreligger skyldighet att
 vittna för
-1. advokater och deras biträden, dock inte försvarare, i mål angående
+1\. advokater och deras biträden, dock inte försvarare, i mål angående
 brott för vilket inte är föreskrivet lindrigare straff än fängelse i två år,
-2. andra än försvarare och advokater samt deras biträden i mål angående
+2\. andra än försvarare och advokater samt deras biträden i mål angående
 brott som avses i 10 kap. 21 och 23 §§ offentlighets- och sekretesslagen,
 och
-3. den som har uppgiftsskyldig- 3. den som har uppgiftsskyldig-
+3\. den som har uppgiftsskyldig- 3. den som har uppgiftsskyldig-
 het enligt 20 kap. 6 § socialtjänst- het enligt 20 kap. 6 § socialtjänst-
 lagen i mål enligt 18 kap. 11 §, lagen i mål enligt 18 kap. 11 §,
 22 kap. 2 eller 4 § eller 24 kap. 4 22 kap. 2 eller 4 § eller 24 kap. 4
@@ -9744,14 +9744,14 @@ barn under femton år utan beaktansvärt skäl egenmäktigt skiljer barnet från
 den andra vårdnadshavaren eller om den som ska ha vårdnaden obehörigen
 bemäktigar sig barnet och därigenom själv tar sig rätt.
 Till ansvar enligt första stycket döms också den som
-1. obehörigen skiljer ett barn 1. obehörigen skiljer ett barn
+1\. obehörigen skiljer ett barn 1. obehörigen skiljer ett barn
 under femton år från någon som under femton år från någon som
 vårdar barnet med stöd av lagen vårdar barnet med stöd av lagen
 (1990:52) med särskilda bestäm- (2026:000) om omhändertagande
 melser om vård av unga, om för vård av barn och unga, om
 gärningen inte utgör brott mot gärningen inte utgör brott mot
 frihet eller främjande av flykt, eller frihet eller främjande av flykt, eller
-2. för bort eller annars undan- 2. för bort eller annars undan-
+2\. för bort eller annars undan- 2. för bort eller annars undan-
 håller ett barn under femton år, om håller ett barn under femton år, om
 gärningen är ägnad att hindra att gärningen är ägnad att hindra att
 vård enligt lagen med särskilda vård enligt lagen om omhänder-
@@ -9822,14 +9822,14 @@ Nuvarande lydelse    Föreslagen lydelse
 7 kap.
 2 §1
 Försäkrad för statligt personskadeskydd enligt 43 kap. är
-1. den som tjänstgör enligt lagen (1994:1809) om totalförsvarsplikt, eller
+1\. den som tjänstgör enligt lagen (1994:1809) om totalförsvarsplikt, eller
 inställer sig till mönstring eller annan uttagning enligt den lagen eller
 genomgår militär utbildning inom Försvarsmakten som rekryt,
-2. den som medverkar i räddningstjänst eller i övning med en kommunal
+2\. den som medverkar i räddningstjänst eller i övning med en kommunal
 organisation för räddningstjänst enligt lagen (2003:778) om skydd mot
 olyckor, eller i räddningstjänst enligt 10 kap. 1 § andra stycket luftfarts-
 lagen (2010:500),
-3. den som är intagen för vård i 3. den som är intagen för vård i
+3\. den som är intagen för vård i 3. den som är intagen för vård i
 kriminalvårdsanstalt, i ett hem som kriminalvårdsanstalt, i ett hem som
 avses i 12 § lagen (1990:52) med avses i 15 kap. 1 § lagen
 särskilda bestämmelser om vård av (2026:000) om omhändertagande
@@ -9841,11 +9841,11 @@ fall intagen eller tagen i förvar i kri- eller anhållen eller i annat fall
 minalvårdsanstalt, häkte eller polis- intagen eller tagen i förvar i krimi-
 arrest,              nalvårdsanstalt, häkte eller polis-
 arrest,
-4. den som utför samhällstjänst på grund av en föreskrift som har medde-
+4\. den som utför samhällstjänst på grund av en föreskrift som har medde-
 lats med stöd av 27 kap. 2 a § eller 28 kap. 2 a § brottsbalken,
-5. den som utför ungdomstjänst enligt 32 kap. 2 § eller 3 § första
+5\. den som utför ungdomstjänst enligt 32 kap. 2 § eller 3 § första
 stycket 1 brottsbalken, och
-6. den som utför oavlönat arbete enligt en föreskrift som har meddelats
+6\. den som utför oavlönat arbete enligt en föreskrift som har meddelats
 med stöd av 8 § första stycket 2 lagen (1994:451) om intensivövervakning
 med elektronisk kontroll.
 102 kap.
@@ -9900,9 +9900,9 @@ kvinnans och barnets nytta. användas för kvinnans och barnets
 nytta.
 12 §
 Sjukpenning lämnas inte för tid när den försäkrade
-1. fullgör någon annan tjänstgöring enligt lagen (1994:1809) om total-
+1\. fullgör någon annan tjänstgöring enligt lagen (1994:1809) om total-
 försvarsplikt än grundutbildning som är längre än 60 dagar,
-2. är intagen i sådant hem som 2. är intagen i sådant hem som
+2\. är intagen i sådant hem som 2. är intagen i sådant hem som
 avses i 12 § lagen (1990:52) med avses i 15 kap. 1 § lagen
 särskilda bestämmelser om vård av (2026:000) om omhändertagande
 unga med stöd av 3 § samma lag, för vård av barn och unga med stöd
@@ -9911,16 +9911,16 @@ av 5 kap. 3 § samma lag,
 
 <!-- sida 233 -->
 
-3. är häktad eller intagen i kriminalvårdsanstalt, eller
-4. i annat fall än som anges i 2 eller 3 av någon annan orsak än sjukdom
+3\. är häktad eller intagen i kriminalvårdsanstalt, eller
+4\. i annat fall än som anges i 2 eller 3 av någon annan orsak än sjukdom
 tagits om hand på det allmännas bekostnad.
 
 16 §
 Sjukersättning och aktivitetsersättning lämnas inte för tid efter det att den
 försäkrade sextio dagar i följd varit frihetsberövad på grund av att han eller
 hon är
-1. häktad eller intagen i anstalt, eller
-2. intagen i ett hem som avses i 2. intagen i ett hem som avses i
+1\. häktad eller intagen i anstalt, eller
+2\. intagen i ett hem som avses i 2. intagen i ett hem som avses i
 12 § lagen (1990:52) med särskilda 15 kap. 1 § lagen (2026:000) om
 bestämmelser om vård av unga för omhändertagande för vård av barn
 verkställighet av sluten ungdoms- och unga för verkställighet av slu-
@@ -10019,12 +10019,12 @@ om den unge.
 Straffvarning får beslutas, om den unge blir föremål för sådan åtgärd som
 anges nedan och det med skäl kan antas att därigenom vidtas vad som är
 lämpligast för den unge:
-1. vård eller annan åtgärd enligt socialtjänstlagen (2025:400),
-2. vård eller annan åtgärd enligt 2. omhändertagande eller annan
+1\. vård eller annan åtgärd enligt socialtjänstlagen (2025:400),
+2\. vård eller annan åtgärd enligt 2. omhändertagande eller annan
 lagen (1990:52) med särskilda be- åtgärd enligt lagen (2026:000) om
 stämmelser om vård av unga, eller omhändertagande för vård av barn
 och unga, eller
-3. annan åtgärd som innebär att den unge får hjälp eller stöd.
+3\. annan åtgärd som innebär att den unge får hjälp eller stöd.
 Straffvarning får också beslutas, om det är uppenbart att brottet har skett
 av okynne eller förhastande.
 Vid bedömningen av om straffvarning ska beslutas ska åklagaren utöver
@@ -10058,12 +10058,12 @@ Nuvarande lydelse    Föreslagen lydelse
 
 18 §1
 En förvaltningsrätt är domför med en lagfaren domare ensam
-1. vid åtgärder som endast avser måls beredande,
-2. vid förhör med vittne eller sakkunnig som begärts av en annan förvalt-
+1\. vid åtgärder som endast avser måls beredande,
+2\. vid förhör med vittne eller sakkunnig som begärts av en annan förvalt-
 ningsrätt,
-3. vid beslut som endast avser rättelse av felräkning, felskrivning eller
+3\. vid beslut som endast avser rättelse av felräkning, felskrivning eller
 annat uppenbart förbiseende, och
-4. vid annat beslut som inte innefattar slutligt avgörande av mål.
+4\. vid annat beslut som inte innefattar slutligt avgörande av mål.
 Om det inte är påkallat av särskild anledning att målet prövas av full-
 sutten rätt, är en förvaltningsrätt domför med en lagfaren domare ensam
 vid beslut som inte innefattar prövning av målet i sak.
@@ -10074,12 +10074,12 @@ en allmän förvaltningsdomstol, en allmän domstol eller en hyresnämnd.
 Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela närmare
 föreskrifter om detta.
 Vad som sägs i andra stycket gäller även vid avgörande i sak av
-1. mål av enkel beskaffenhet,
-2. mål om bevissäkring och betalningssäkring enligt skatteförfarande-
+1\. mål av enkel beskaffenhet,
+2\. mål om bevissäkring och betalningssäkring enligt skatteförfarande-
 lagen (2011:1244), om besiktning enligt fastighetstaxeringslagen
 (1979:1152), om en uppgifts eller handlings undantagande från kontroll
 enligt skatteförfarandelagen eller någon annan skatteförfattning,
-3. mål om omedelbart omhänder- 3. mål om omedelbart omhänder-
+3\. mål om omedelbart omhänder- 3. mål om omedelbart omhänder-
 tagande enligt 6 och 6 a §§ lagen tagande för vård eller tillfällig vård
 (1990:52) med särskilda bestäm- enligt 5 kap. 1 och 2 §§ lagen
 melser om vård av unga, mål om (2026:000) om omhändertagande
@@ -10136,32 +10136,32 @@ ligt lagen (1963:193) om samarbete
 med Danmark, Finland, Island och
 Norge angående verkställighet av
 straff m.m.,
-4. mål enligt folkbokföringsförfattningarna, mål om preliminär skatt
+4\. mål enligt folkbokföringsförfattningarna, mål om preliminär skatt
 eller om anstånd med att betala skatt eller avgifter enligt skatteförfatt-
 ningarna,
-5. mål enligt lagen (2016:1145) om offentlig upphandling, lagen
+5\. mål enligt lagen (2016:1145) om offentlig upphandling, lagen
 (2016:1146) om upphandling inom försörjningssektorerna, lagen
 (2016:1147) om upphandling av koncessioner, lagen (2011:1029) om upp-
 handling på försvars- och säkerhetsområdet eller lagen (2022:760) om
 upphandling av fonder till premiepensionens fondtorg,
-6. mål som avser en fråga av betydelse för inkomstbeskattningen, dock
+6\. mål som avser en fråga av betydelse för inkomstbeskattningen, dock
 endast om värdet av vad som yrkas i målet uppenbart inte överstiger hälf-
 ten av prisbasbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken,
-7. mål enligt lagen (2004:629) om trängselskatt,
-8. mål enligt lagen (2008:962) om valfrihetssystem och lagen
+7\. mål enligt lagen (2004:629) om trängselskatt,
+8\. mål enligt lagen (2008:962) om valfrihetssystem och lagen
 (2023:704) om auktorisationssystem i fråga om tjänster för elektronisk
 identifiering och för digital post,                61
 
 <!-- sida 239 -->
 
-9. mål enligt lagen (2024:954) med kompletterande bestämmelser till
+9\. mål enligt lagen (2024:954) med kompletterande bestämmelser till
 EU:s förordning om digitala tjänster som avser en
 a) inspektion,
 b) prövning av om en handling skyddas av advokatsekretess enligt
 3 kap. 14 § samma lag, eller
 c) tillfällig begränsning av mottagarnas tillgång till en tjänst eller ett
 onlinegränssnitt, och
-10. mål om betalningssäkring enligt socialförsäkringsbalken eller lagen
+10\. mål om betalningssäkring enligt socialförsäkringsbalken eller lagen
 (2008:145) om statligt tandvårdsstöd.
 
 Denna lag träder i kraft den 1 januari 2027.
@@ -10197,36 +10197,36 @@ soriskt pass utfärdat om inte annat provisoriskt pass utfärdat om inte
 följer av denna lag. annat följer av denna lag.
 12 §2
 Passmyndigheten ska återkalla ett gällande pass, om
-1. passinnehavaren har förlorat eller efter ansökan har befriats från sitt
+1\. passinnehavaren har förlorat eller efter ansökan har befriats från sitt
 svenska medborgarskap,
-2. passet avser barn under arton år och barnets vårdnadshavare eller, om
+2\. passet avser barn under arton år och barnets vårdnadshavare eller, om
 barnet vistas här i landet och står under vårdnad av båda föräldrarna, en av
 dem begär att passet ska återkallas och det inte finns synnerliga skäl mot
 återkallelse,
-3. en passinnehavare, som är efterlyst och ska omhändertas omedelbart
+3\. en passinnehavare, som är efterlyst och ska omhändertas omedelbart
 vid anträffandet, uppehåller sig utomlands och det av särskilda skäl är
 motiverat att passet återkallas,
-4. passinnehavaren genom en dom som har fått laga kraft har dömts till
+4\. passinnehavaren genom en dom som har fått laga kraft har dömts till
 frihetsberövande påföljd, som inte har börjat verkställas, och det finns
 sannolika skäl att anta att han eller hon har för avsikt att undandra sig
 verkställigheten,
-5. passinnehavaren avtjänar fängelsestraff och den sammanlagda tiden
+5\. passinnehavaren avtjänar fängelsestraff och den sammanlagda tiden
 att avtjäna är fängelse i minst ett år och innehavaren inte har villkorligt
 frigetts,
-6. passinnehavaren genomgår sluten ungdomsvård och den
+6\. passinnehavaren genomgår sluten ungdomsvård och den
 sammanlagda vårdtiden är minst ett år,
 1 Senaste lydelse 2020:351.
 2 Senaste lydelse 2020:351.                        63
 
 <!-- sida 241 -->
 
-7. passinnehavaren genomgår rättspsykiatrisk vård med särskild
+7\. passinnehavaren genomgår rättspsykiatrisk vård med särskild
 utskrivningsprövning enligt lagen (1991:1129) om rättspsykiatrisk vård,
-8. det fanns hinder mot att bevilja passansökan enligt 7 § vid tiden för
+8\. det fanns hinder mot att bevilja passansökan enligt 7 § vid tiden för
 passets utfärdande och hindret fortfarande består,
-9. någon annan än den för vilken passet är utställt förfogar över passet,
+9\. någon annan än den för vilken passet är utställt förfogar över passet,
 eller
-10. passinnehavaren är under- 10. passinnehavaren är föremål
+10\. passinnehavaren är under- 10. passinnehavaren är föremål
 kastad ett utreseförbud enligt för ett utreseförbud enligt 13 kap.
 31 a § lagen (1990:52) med särskil- 1 § lagen (2026:000) om omhän-
 da bestämmelser om vård av unga dertagande för vård av barn och
@@ -10342,10 +10342,10 @@ ringen ska upphöra att gälla.
 Om ett barn har medgetts skyddad folkbokföring efter ansökan av
 socialnämnden enligt 30 § tredje stycket, upphör den skyddade folkbokfö-
 ringen att gälla
-1. om socialnämnden anmäler hos Skatteverket att den inte längre
+1\. om socialnämnden anmäler hos Skatteverket att den inte längre
 behövs,
-2. om det finns särskilda skäl för det, eller
-3. senast när vården enligt 2 § 3. senast när omhändertagandet
+2\. om det finns särskilda skäl för det, eller
+3\. senast när vården enligt 2 § 3. senast när omhändertagandet
 lagen (1990:52) med särskilda för vård enligt 3 kap. 2 § lagen
 bestämmelser om vård av unga (2026:000) om omhändertagande
 upphör.              för vård av barn och unga upphör.
@@ -10365,16 +10365,16 @@ bestämmelser om vård av unga och 2 § lagen (2026:000) om
 syftet med ansökningen är att omhändertagande för vård av barn
 skydda barnet        och unga och syftet med
 ansökningen är att skydda barnet
-1. mot båda vårdnadshavarna eller, om barnet endast har en vårdnads-
+1\. mot båda vårdnadshavarna eller, om barnet endast har en vårdnads-
 havare, mot vårdnadshavaren,
-2. mot den ena vårdnadshavaren när den andre vårdnadshavaren inte vill
+2\. mot den ena vårdnadshavaren när den andre vårdnadshavaren inte vill
 eller förmår skydda barnet, eller
 1 Senaste lydelse 2018:684.
 2 Senaste lydelse 2018:684.                        67
 
 <!-- sida 245 -->
 
-3. mot en annan person än vårdnadshavaren eller vårdnadshavarna när
+3\. mot en annan person än vårdnadshavaren eller vårdnadshavarna när
 vårdnadshavaren eller vårdnadshavarna inte vill eller förmår skydda
 barnet.
 
@@ -10462,14 +10462,14 @@ mun ska det anses att barnet vistas i den kommunen i den mening som
 avses i 29 kap. 4 § socialtjänstlagen (2025:400).
 En kommun som har anvisats att ta emot ett ensamkommande barn får
 placera barnet i ett boende i en annan kommun endast om
-1. kommunerna har ingått en överenskommelse om placeringen,
-2. placeringen sker med stöd av 2. placeringen sker med stöd av
+1\. kommunerna har ingått en överenskommelse om placeringen,
+2\. placeringen sker med stöd av 2. placeringen sker med stöd av
 lagen (1990:52) med särskilda be- lagen (2026:000) om omhänder-
 stämmelser om vård av unga eller tagande för vård av barn och unga
 med stöd av socialtjänstlagen i eller med stöd av socialtjänstlagen i
 fråga om barn med motsvarande fråga om barn med motsvarande
 vårdbehov, eller     vårdbehov, eller
-3. det med hänsyn till barnets vårdbehov finns synnerliga skäl.
+3\. det med hänsyn till barnets vårdbehov finns synnerliga skäl.
 Denna lag träder i kraft den 1 januari 2027.
 
 1 Senaste lydelse 2025:417.                        71
@@ -10487,26 +10487,26 @@ Nuvarande lydelse    Föreslagen lydelse
 1 §1
 Denna lag gäller beträffande besök på vårdinstitutioner och sjukvårds-
 inrättningar till dem som är tvångsintagna för vård enligt
-1. lagen (1988:870) om vård av missbrukare i vissa fall,
-2. lagen (1990:52) med särskilda 2. lagen (2026:000) om omhän-
+1\. lagen (1988:870) om vård av missbrukare i vissa fall,
+2\. lagen (1990:52) med särskilda 2. lagen (2026:000) om omhän-
 bestämmelser om vård av unga, dertagande för vård av barn och
 unga,
-3. lagen (1991:1128) om psykiatrisk tvångsvård,
-4. lagen (1991:1129) om rättspsykiatrisk vård, och
-5. lagen (1993:388) om införande av lagen (1993:387) om stöd och
+3\. lagen (1991:1128) om psykiatrisk tvångsvård,
+4\. lagen (1991:1129) om rättspsykiatrisk vård, och
+5\. lagen (1993:388) om införande av lagen (1993:387) om stöd och
 service till vissa funktionshindrade.
 Lagen gäller också för besök till dem som är isolerade enligt 5 kap. 1 §
 eller tillfälligt isolerade enligt 5 kap. 3 § smittskyddslagen (2004:168).
 4 §2
 Vad som sägs i 3 § gäller inte
-1. besök av personer för vilka 1. besök av personer för vilka
+1\. besök av personer för vilka 1. besök av personer för vilka
 14 § andra stycket 1 lagen 7 kap. 2 § första stycket 1 lagen
 (1990:52) med särskilda bestäm- (2026:000) om omhändertagande
 melser om vård av unga är tillämp- för vård av barn och unga är
 lig,                 tillämplig,
-2. inskränkningar i den intagnes rätt när 5 kap. 12 § smittskyddslagen
+2\. inskränkningar i den intagnes rätt när 5 kap. 12 § smittskyddslagen
 (2004:168) är tillämplig, och
-3. när 8 § andra stycket lagen (1991:1129) om rättspsykiatrisk vård är
+3\. när 8 § andra stycket lagen (1991:1129) om rättspsykiatrisk vård är
 tillämpligt.
 Denna lag träder i kraft den 1 januari 2027.
 
@@ -10587,7 +10587,7 @@ Nuvarande lydelse    Föreslagen lydelse
 
 2 §1
 I denna lag avses med
-1. verksamhet enligt lagstiftning- 1. verksamhet enligt lagstiftning-
+1\. verksamhet enligt lagstiftning- 1. verksamhet enligt lagstiftning-
 en om socialtjänst, den särskilda en om socialtjänst, den särskilda
 lagstiftningen om vård utan lagstiftningen om vård utan
 samtycke av unga eller av samtycke av barn och unga eller av
@@ -10597,17 +10597,17 @@ form av skyddat boende, form av skyddat boende och den
 särskilda lagstiftningen om
 särskilda befogenheter för den
 statliga barn- och ungdomsvården.
-2. verksamhet som i annat fall enligt lag handhas av socialnämnd,
-3. verksamhet som i övrigt bedrivs av Statens institutionsstyrelse,
-4. verksamhet hos kommunal invandrarbyrå,
-5. verksamhet enligt lagstiftning om stöd och service till vissa
+2\. verksamhet som i annat fall enligt lag handhas av socialnämnd,
+3\. verksamhet som i övrigt bedrivs av Statens institutionsstyrelse,
+4\. verksamhet hos kommunal invandrarbyrå,
+5\. verksamhet enligt lagstiftning om stöd och service till vissa
 funktionshindrade,
-6. handläggning av ärenden om bistånd som lämnas av socialnämnd
+6\. handläggning av ärenden om bistånd som lämnas av socialnämnd
 enligt lagstiftning om mottagande av asylsökande m.fl.,
-8. handläggning av ärenden om tillstånd till parkering för
+8\. handläggning av ärenden om tillstånd till parkering för
 rörelsehindrade,
 och
-9. verksamhet enligt lagen (2007:606) om utredningar för att förebygga
+9\. verksamhet enligt lagen (2007:606) om utredningar för att förebygga
 vissa skador och dödsfall.
 Med socialtjänst avses även tillsyn, uppföljning, utvärdering, kvalitets-
 säkring och administration av verksamhet som avses i första stycket 1–9.
@@ -10629,7 +10629,7 @@ Nuvarande lydelse    Föreslagen lydelse
 1 §1
 En region och en eller flera kommuner som ingår i regionen får genom
 samverkan i en gemensam nämnd gemensamt fullgöra
-1. regionens uppgifter
+1\. regionens uppgifter
 – enligt hälso- och sjukvårdslagen (2017:30),
 – enligt tandvårdslagen (1985:125),
 – enligt lagen (1991:1128) om psykiatrisk tvångsvård,
@@ -10641,7 +10641,7 @@ sjukvården,
 – enligt smittskyddslagen (2004:168), eller
 – som i annat fall enligt lag ska skötas av en sådan nämnd som avses i
 7 kap. 1 § hälso- och sjukvårdslagen, och
-2. kommunens uppgifter
+2\. kommunens uppgifter
 – enligt socialtjänstlagen (2025:400),
 – enligt hälso- och sjukvårdslagen,
 – enligt lagen (1988:870) om vård av missbrukare i vissa fall,
@@ -10707,8 +10707,8 @@ Sekretess gäller inom socialtjänsten för uppgift om en enskilds personliga
 förhållanden, om det inte står klart att uppgiften kan röjas utan att den
 enskilde eller någon närstående till denne lider men.
 Med socialtjänst förstås i denna lag
-1. verksamhet enligt lagstiftningen om socialtjänst,
-2. verksamhet enligt den 2. verksamhet enligt den
+1\. verksamhet enligt lagstiftningen om socialtjänst,
+2\. verksamhet enligt den 2. verksamhet enligt den
 särskilda lagstiftningen om vård av särskilda lagstiftningen om vård av
 unga och av missbrukare utan barn och unga och av missbrukare
 samtycke och den särskilda utan samtycke, den särskilda
@@ -10718,17 +10718,17 @@ särskilda lagstiftningen om
 särskilda befogenheter för den
 statliga barn- och ungdomsvården,
 och
-3. verksamhet som i annat fall enligt lag handhas av socialnämnd eller
+3\. verksamhet som i annat fall enligt lag handhas av socialnämnd eller
 av Statens institutionsstyrelse.
 Till socialtjänst räknas också
-1. verksamhet hos annan myndighet som innefattar omprövning av
+1\. verksamhet hos annan myndighet som innefattar omprövning av
 socialnämnds beslut eller särskild tillsyn över nämndens verksamhet, och
-2. verksamhet hos kommunal invandrarbyrå.
+2\. verksamhet hos kommunal invandrarbyrå.
 Med socialtjänst jämställs
-1. ärenden om bistånd åt asylsökande och andra utlänningar,
-2. ärenden om tillstånd till parkering för rörelsehindrade,
-3. ärenden hos patientnämnd om allmän omvårdnad, och
-4. verksamhet enligt lagstiftningen om stöd och service till vissa
+1\. ärenden om bistånd åt asylsökande och andra utlänningar,
+2\. ärenden om tillstånd till parkering för rörelsehindrade,
+3\. ärenden hos patientnämnd om allmän omvårdnad, och
+4\. verksamhet enligt lagstiftningen om stöd och service till vissa
 funktionshindrade.
 Sekretessen gäller inte om annat följer av 5, 6 eller 7 §.
 För uppgift i en allmän handling gäller sekretessen i högst sjuttio år.
@@ -10736,7 +10736,7 @@ För uppgift i en allmän handling gäller sekretessen i högst sjuttio år.
 Sekretessen enligt 1 § som gäller för uppgift om en underårigs vistelseort
 gäller också i förhållande till en förälder eller en annan vårdnadshavare till
 den underårige, om den underårige har
-1. omhändertagits eller vårdas 1. omhändertagits enligt den
+1\. omhändertagits eller vårdas 1. omhändertagits enligt den
 enligt den särskilda lagstiftningen särskilda lagstiftningen om vård av
 om vård av unga utan samtycke och barn och unga utan samtycke och
 1 Senaste lydelse 2024:88.
@@ -10747,7 +10747,7 @@ om vård av unga utan samtycke och barn och unga utan samtycke och
 det är nödvändigt med hänsyn till det är nödvändigt med hänsyn till
 ändamålet med omhändertagandet ändamålet med omhändertagandet
 eller vården, eller  eller vården, eller
-2. beviljats skyddat boende eller en omedelbar sådan insats med stöd av
+2\. beviljats skyddat boende eller en omedelbar sådan insats med stöd av
 lagen (2024:79) om placering av barn i skyddat boende och det är
 nödvändigt med hänsyn till ändamålet med insatsen.
 
@@ -10757,11 +10757,11 @@ Sekretess gäller hos Polismyndigheten för uppgift om en enskilds person-
 liga förhållanden, om det kan antas att den enskilde eller någon närstående
 till honom eller henne lider men om uppgiften röjs och uppgiften hänför
 sig till
-1. verksamhet som enbart innefattar hjälp eller annat bistånd åt enskild,
-2. ärende om omhändertagande eller handräckning enligt lagstiftningen
+1\. verksamhet som enbart innefattar hjälp eller annat bistånd åt enskild,
+2\. ärende om omhändertagande eller handräckning enligt lagstiftningen
 om psykiatrisk tvångsvård eller rättspsykiatrisk vård eller om vård av
 missbrukare utan samtycke inom socialtjänsten,
-3. ärende om handräckning enligt
+3\. ärende om handräckning enligt
 a) lagstiftningen om omsorger a) lagstiftningen om omsorger
 om psykiskt utvecklingsstörda, om psykiskt utvecklingsstörda, om-
 vård av unga utan samtycke inom händertagande för vård av barn
@@ -10770,10 +10770,10 @@ i form av skyddat boende med sam- insatser för barn i form av skyddat
 tycke för endast en av vårdnadsha- boende med samtycke för endast en
 varna, eller         av vårdnadshavarna, eller
 b) lagen (1998:603) om verkställighet av sluten ungdomsvård,
-4. ärende som avses i 21 kap. föräldrabalken,
-5. verksamhet som innefattar handräckning enligt smittskyddslagstift-
+4\. ärende som avses i 21 kap. föräldrabalken,
+5\. verksamhet som innefattar handräckning enligt smittskyddslagstift-
 ningen eller annat bistånd åt smittskyddsläkare, eller
-6. verksamhet som syftar till att 6. verksamhet som syftar till att
+6\. verksamhet som syftar till att 6. verksamhet som syftar till att
 upprätthålla ett utreseförbud enligt upprätthålla ett utreseförbud enligt
 31 a eller 31 d § lagen (1990:52) 13 kap. 1 eller 6 § lagen (2026:000)
 med särskilda bestämmelser om om omhändertagande för vård av
@@ -10899,12 +10899,12 @@ Nuvarande lydelse    Föreslagen lydelse
 2 §1
 Lagen gäller i yrkesmässigt bedriven enskild verksamhet som till någon
 del är offentligt finansierad och som
-1. tillhör skolväsendet, de särskilda utbildningsformerna eller annan
+1\. tillhör skolväsendet, de särskilda utbildningsformerna eller annan
 pedagogisk verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen
 (2010:800),
-2. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårds-
+2\. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårds-
 lagen (2017:30) eller tandvårdslagen (1985:125), eller
-3. bedrivs enligt socialtjänstlagen 3. bedrivs enligt socialtjänstlagen
+3\. bedrivs enligt socialtjänstlagen 3. bedrivs enligt socialtjänstlagen
 (2025:400), lagen (1988:870) om (2025:400), lagen (1988:870) om
 vård av missbrukare i vissa fall, vård av missbrukare i vissa fall,
 lagen (1990:52) med särskilda be- lagen (2026:000) om omhänder-
@@ -10936,13 +10936,13 @@ Nuvarande lydelse    Föreslagen lydelse
 Med offentlig aktör avses en statlig eller kommunal myndighet eller en
 beslutande församling i en kommun eller en region.
 Vid tillämpningen av denna lag ska med offentlig aktör jämställas
-1. ett sådant offentligt styrt organ som avses i 5 §,
-2. en sammanslutning som inrättats särskilt för att tillgodose behov i det
+1\. ett sådant offentligt styrt organ som avses i 5 §,
+2\. en sammanslutning som inrättats särskilt för att tillgodose behov i det
 allmännas intresse, under förutsättning att behovet inte är av industriell
 eller kommersiell karaktär, och som består av
 a) en eller flera myndigheter eller församlingar enligt första stycket, eller
 b) ett eller flera organ enligt 1,
-3. privata aktörer som yrkesmässigt bedriver verksamhet som till någon
+3\. privata aktörer som yrkesmässigt bedriver verksamhet som till någon
 del är offentligt finansierad och som
 a) aktören bedriver i egenskap av enskild huvudman inom skolväsendet
 eller huvudman för en sådan internationell skola som avses i 24 kap.
@@ -10960,7 +10960,7 @@ funktionshindrade eller utgör funktionshindrade eller utgör
 personlig assistans som utförs med personlig assistans som utförs med
 assistansersättning enligt 51 kap. assistansersättning enligt 51 kap.
 socialförsäkringsbalken, och socialförsäkringsbalken, och
-4. enskilda utbildningsanordnare med tillstånd att utfärda examina enligt
+4\. enskilda utbildningsanordnare med tillstånd att utfärda examina enligt
 lagen (1993:792) om tillstånd att utfärda vissa examina, och som till största
 delen har statsbidrag som finansiering av högskoleutbildning på grundnivå
 eller avancerad nivå eller för utbildning på forskarnivå.
@@ -11011,20 +11011,20 @@ Nuvarande lydelse    Föreslagen lydelse
 
 2 §1
 Vid tillämpningen av denna lag ska med myndigheter jämställas
-1. sådana aktiebolag, handelsbolag, ekonomiska föreningar och stiftel-
+1\. sådana aktiebolag, handelsbolag, ekonomiska föreningar och stiftel-
 ser där kommuner, regioner eller kommunalförbund utövar ett rättsligt
 bestämmande inflytande enligt 2 kap. 3 § offentlighets- och sekretesslagen
 (2009:400), och
-2. de organ som anges i bilagan till offentlighets- och sekretesslagen i
+2\. de organ som anges i bilagan till offentlighets- och sekretesslagen i
 fråga om de verksamheter som anges där.
 Med en myndighet ska också jämställas yrkesmässigt bedriven enskild
 verksamhet som till någon del är offentligt finansierad och som
-1. tillhör skolväsendet, de särskilda utbildningsformerna eller annan
+1\. tillhör skolväsendet, de särskilda utbildningsformerna eller annan
 pedagogisk verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen
 (2010:800),
-2. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårds-
+2\. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårds-
 lagen (2017:30) eller tandvårdslagen (1985:125), eller
-3. bedrivs enligt socialtjänstlagen 3. bedrivs enligt socialtjänstlagen
+3\. bedrivs enligt socialtjänstlagen 3. bedrivs enligt socialtjänstlagen
 (2025:400), lagen (1988:870) om (2025:400), lagen (1988:870) om
 vård av missbrukare i vissa fall, vård av missbrukare i vissa fall,
 lagen (1990:52) med särskilda be- lagen (2026:000) om omhänderta-
@@ -11053,14 +11053,14 @@ Nuvarande lydelse    Föreslagen lydelse
 
 4 §1
 Med en offentlig aktör avses i denna lag
-1. en statlig eller kommunal myndighet,
-2. en beslutande församling i en kommun eller region,
-3. en sammanslutning som inrättats särskilt för att tillgodose behov i det
+1\. en statlig eller kommunal myndighet,
+2\. en beslutande församling i en kommun eller region,
+3\. en sammanslutning som inrättats särskilt för att tillgodose behov i det
 allmännas intresse, under förutsättning att behovet inte är av industriell
 eller kommersiell karaktär, och som består av
 a) en eller flera myndigheter eller församlingar som anges i 1 och 2, eller
 b) ett eller flera organ enligt andra stycket,
-4. en privat aktör som yrkesmässigt bedriver verksamhet som till någon
+4\. en privat aktör som yrkesmässigt bedriver verksamhet som till någon
 del är offentligt finansierad och som
 a) aktören bedriver i egenskap av enskild huvudman inom skolväsendet
 eller huvudman för en sådan internationell skola som avses i 24 kap. skol-
@@ -11077,22 +11077,22 @@ vice till vissa funktionshindrade, service till vissa funktionshindrade,
 eller                eller
 d) utgör personlig assistans som utförs med assistansersättning enligt
 51 kap. socialförsäkringsbalken, eller
-5. en enskild utbildningsanordnare med tillstånd att utfärda examina
+5\. en enskild utbildningsanordnare med tillstånd att utfärda examina
 enligt lagen (1993:792) om tillstånd att utfärda vissa examina, och som till
 största delen har statsbidrag som finansiering av högskoleutbildning på
 grundnivå eller avancerad nivå eller av utbildning på forskarnivå.
 Med en offentlig aktör avses i denna lag även en sådan juridisk person
 som tillgodoser behov i det allmännas intresse, under förutsättning att
 behovet inte är av industriell eller kommersiell karaktär, och
-1. som till största delen är finansierad av staten, en kommun, en region
+1\. som till största delen är finansierad av staten, en kommun, en region
 eller någon av de offentliga aktörer som avses i första stycket 1–4,
-2. vars verksamhet står under kontroll av staten, en kommun, en region
+2\. vars verksamhet står under kontroll av staten, en kommun, en region
 eller någon av de offentliga aktörer som avses i första stycket 1–4, eller
 1 Senaste lydelse 2025:462.                        87
 
 <!-- sida 265 -->
 
-3. i vars styrelse eller motsvarande ledningsorgan mer än halva antalet
+3\. i vars styrelse eller motsvarande ledningsorgan mer än halva antalet
 ledamöter är utsedda av staten, en kommun, en region eller någon av de
 offentliga aktörer som avses i första stycket 1–4.
 
@@ -11113,18 +11113,18 @@ Nuvarande lydelse    Föreslagen lydelse
 1 kap.
 2 §
 Med socialtjänst avses i den här lagen
-1. verksamhet som bedrivs med stöd av denna lag,
-2. verksamhet som bedrivs med stöd av lagen (1988:870) om vård av
+1\. verksamhet som bedrivs med stöd av denna lag,
+2\. verksamhet som bedrivs med stöd av lagen (1988:870) om vård av
 missbrukare i vissa fall,
-3. verksamhet som bedrivs med 3. verksamhet som bedrivs med
+3\. verksamhet som bedrivs med 3. verksamhet som bedrivs med
 stöd av lagen (1990:52) med stöd av lagen (2024:79) om
 särskilda bestämmelser om vård av placering av barn i skyddat boende,
 unga,
-4. verksamhet som bedrivs med 4. verksamhet som bedrivs med
+4\. verksamhet som bedrivs med 4. verksamhet som bedrivs med
 stöd av lagen (2024:79) om stöd av lagen (2026:000) om
 placering av barn i skyddat boende, omhändertagande för vård av barn
 eller                och unga, eller
-5. verksamhet som en socialnämnd eller Statens institutionsstyrelse ska
+5\. verksamhet som en socialnämnd eller Statens institutionsstyrelse ska
 bedriva enligt någon annan lag eller förordning.
 Verksamhet som Statens institutionsstyrelse bedriver med stöd av
 skollagen (2010:800) är inte socialtjänst. Tillsyn eller andra uppgifter som
@@ -11152,12 +11152,12 @@ boende. Detta ska främst ske genom
 
 <!-- sida 267 -->
 
-1. regelbundna personliga besök i det hem eller boende där barnet eller
+1\. regelbundna personliga besök i det hem eller boende där barnet eller
 den unge vårdas,
-2. enskilda samtal med barnet eller den unge,
-3. samtal med den eller dem som tagit emot barnet eller den unge i sitt
+2\. enskilda samtal med barnet eller den unge,
+3\. samtal med den eller dem som tagit emot barnet eller den unge i sitt
 hem eller på boendet, och
-4. samtal med vårdnadshavarna. 4. samtal med vårdnadshavarna
+4\. samtal med vårdnadshavarna. 4. samtal med vårdnadshavarna
 eller god man enligt lagen
 (2005:429) om god man för
 ensamkommande barn.
@@ -11222,78 +11222,78 @@ unga får socialnämnden endast och unga får socialnämnden endast
 delegera beslutanderätten till ett delegera beslutanderätten till ett
 utskott i ärenden som anges i utskott i ärenden som anges i
 följande bestämmelser i den lagen: följande bestämmelser i den lagen:
-1. ansökan om vård enligt 4 §, 1. ansökan om omhändertagande
+1\. ansökan om vård enligt 4 §, 1. ansökan om omhändertagande
 för vård enligt 4 kap. 1 §,
-2. omedelbart omhändertagande 2. omedelbart omhändertagande
+2\. omedelbart omhändertagande 2. omedelbart omhändertagande
 enligt 6 och 6 a §§, för vård eller tillfällig vård enligt
 5 kap. 1 och 2 §§,
-3. ansökan om fortsatt omhän- 3. ansökan om fortsatt omhän-
+3\. ansökan om fortsatt omhän- 3. ansökan om fortsatt omhän-
 dertagande enligt 9 a §, dertagande för tillfällig vård enligt
 5 kap. 9 §,
-4. vårdens innehåll och utform- 4. vårdens genomförande enligt
+4\. vårdens innehåll och utform- 4. vårdens genomförande enligt
 ning enligt 11 § första och andra 6 kap. 1 §,
 styckena,
-5. övervägande av fortsatt vård, 5. umgänge och hemlighållande
+5\. övervägande av fortsatt vård, 5. umgänge och hemlighållande
 vårdens inriktning och utformning av vistelseort enligt 7 kap. 2 §,
 samt omprövning av vårdbeslut
 enligt 13 §,
-6. övervägande av ansökan om 6. övervägande av om
+6\. övervägande av ansökan om 6. övervägande av om
 flyttningsförbud enligt 13 b §, omhändertagande för vård
 fortfarande behövs, vårdens
 inriktning och utformning samt
 prövning av om ett omhänder-
 tagande för vård ska upphöra
 enligt 8 kap. 2 och 3 §§,
-7. övervägande av ansökan om 7. övervägande av ansökan om
+7\. övervägande av ansökan om 7. övervägande av ansökan om
 vårdnadsöverflyttning enligt flyttningsförbud enligt 8 kap. 4 §,
 13 c §,
-8. umgängesbegränsning och 8. övervägande av ansökan om
+8\. umgängesbegränsning och 8. övervägande av ansökan om
 hemlighållande av vistelseort vårdnadsöverflyttning enligt 9 kap.
 enligt 14 § andra och tredje 1 §,
 styckena,
-9. upphörande av vård enligt 9. upphörande av omhänder-
+9\. upphörande av vård enligt 9. upphörande av omhänder-
 21 §,                tagande för vård enligt 10 kap. 1 §, 91
 
 <!-- sida 269 -->
 
-10. förebyggande insatser enligt 10. drogtest inför umgänge och
+10\. förebyggande insatser enligt 10. drogtest inför umgänge och
 22 §,                drogtest inför upphörande av
 omhändertagande för vård enligt
 11 kap. 1 och 2 §§,
-11. ansökan om flyttningsförbud 11. ansökan om flyttningsförbud
+11\. ansökan om flyttningsförbud 11. ansökan om flyttningsförbud
 och beslut om tillfälligt och beslut om tillfälligt flyttnings-
 flyttningsförbud enligt 24 och förbud enligt 12 kap. 2 och 6 §§,
 27 §§,
-12. övervägande av fortsatt 12. övervägande av om
+12\. övervägande av fortsatt 12. övervägande av om
 flyttningsförbud samt upphörande flyttningsförbud fortfarande
 av flyttningsförbud enligt 26 §, behövs och upphörande av
 flyttningsförbud enligt 12 kap. 4
 och 5 §§,
-13. umgängesbegränsning vid ett 13. umgänge vid ett flyttnings-
+13\. umgängesbegränsning vid ett 13. umgänge vid ett flyttnings-
 flyttningsförbud enligt 31 §, förbud enligt 12 kap. 12 §,
-14. utreseförbud enligt 31 b–d 14. utreseförbud enligt 13 kap. 2,
+14\. utreseförbud enligt 31 b–d 14. utreseförbud enligt 13 kap. 2,
 och 31 i §§,         4–6 och 12 §§,
-15. provtagning inför umgänge 15. förebyggande insatser enligt
+15\. provtagning inför umgänge 15. förebyggande insatser enligt
 och provtagning inför upphörande 14 kap. 1 §, eller
 av vård enligt 32 a och 32 b §§,
 eller
-16. begäran om hjälp av Polis- 16. begäran om hjälp av Polis-
+16\. begäran om hjälp av Polis- 16. begäran om hjälp av Polis-
 myndigheten eller Kriminalvården myndigheten eller Kriminalvården
 enligt 43 §.         enligt 20 kap. 1 §.
 8 §
 I fråga om lagen (2024:79) om placering av barn i skyddat boende får
 socialnämnden endast delegera beslutanderätten till ett utskott i ärenden
 som anges i följande bestämmelser i den lagen:
-1. ansökan om vård enligt 3 kap. 3 §,
-2. omedelbar insats i form av skyddat boende enligt 4 kap. 1 §,
-3. vårdens innehåll och utformning enligt 5 kap. 1 §,
-4. överväganden om huruvida insatsen ska fortsätta enligt 5 kap. 3 §,
-5. umgängesbegränsning och 5. umgänge och hemlighållande
+1\. ansökan om vård enligt 3 kap. 3 §,
+2\. omedelbar insats i form av skyddat boende enligt 4 kap. 1 §,
+3\. vårdens innehåll och utformning enligt 5 kap. 1 §,
+4\. överväganden om huruvida insatsen ska fortsätta enligt 5 kap. 3 §,
+5\. umgängesbegränsning och 5. umgänge och hemlighållande
 hemlighållande av vistelseort enligt av vistelseort enligt 5 kap. 4 § och
 5 kap. 4 § och överväganden av överväganden av sådana beslut
 sådana beslut enligt 5 kap. 6 §, enligt 5 kap. 6 §,
-6. upphörande av insats enligt 7 kap. 1 §, eller
-7. begäran om hjälp av Polismyndigheten enligt 8 kap. 7 §.
+6\. upphörande av insats enligt 7 kap. 1 §, eller
+7\. begäran om hjälp av Polismyndigheten enligt 8 kap. 7 §.
 12 §
 Bestämmelser om rätt för ordföran- Bestämmelser om rätt för ordföran-
 den, eller någon annan ledamot den, eller någon annan ledamot
@@ -16546,17 +16546,17 @@ I 10 kap. 1 § socialtjänstförordningen (2025:468) finns närmare bestäm-
 melser om vad en ansökan ska innehålla. Enligt bestämmelsen ska en an-
 sökan utöver det som anges i 4 § LVU, om det inte finns särskilda skäl mot
 det, innehålla en vårdplan samt redogöra för
-1. barnets eller den unges hälsa, utveckling, sociala beteende och skol-
+1\. barnets eller den unges hälsa, utveckling, sociala beteende och skol-
 gång,
-2. barnets eller den unges relationer till närstående personer,
-3. socialnämndens bedömning av barnets eller den unges behov av vård
+2\. barnets eller den unges relationer till närstående personer,
+3\. socialnämndens bedömning av barnets eller den unges behov av vård
 och hans eller hennes vårdnadshavares förmåga att tillgodose detta
 behov, och
 194
 
 <!-- sida 372 -->
 
-4. barnets eller den unges och, i fråga om barn, även hans eller hennes
+4\. barnets eller den unges och, i fråga om barn, även hans eller hennes
 vårdnadshavares syn på behovet av vård och förhållandena i övrigt.
 
 Bestämmelserna om vad en ansökan om omhändertagande för vård ska
@@ -17151,10 +17151,10 @@ av vård enligt LVU (s. 20).
 Enligt 6 a § LVU får, om svensk domstol inte är behörig att besluta om
 beredande av vård enligt lagen, socialnämnden besluta att den som är
 under 18 år omedelbart ska omhändertas, om
-1. åtgärder av behörig utländsk myndighet inte kan avvaktas med hänsyn
+1\. åtgärder av behörig utländsk myndighet inte kan avvaktas med hänsyn
 till risken för den unges hälsa eller utveckling eller till att den fortsatta
 utredningen allvarligt kan försvåras eller vidare åtgärder hindras, och
-2. det är sannolikt att den unge tillfälligt behöver vård som avses i lagen.
+2\. det är sannolikt att den unge tillfälligt behöver vård som avses i lagen.
 I 6 a § tredje stycket LVU finns en upplysning om att det i 9 a och 9 b §§
 finns bestämmelser om fortsatt omhändertagande för tillfällig vård av
 barnet. Av 9 a § LVU framgår att förvaltningsrätten får medge att ett
@@ -20611,12 +20611,12 @@ stödboende eller hem för vård eller boende (HVB). Enligt 13 a § första
 stycket LVU ska socialnämnden noga följa vården av den som får vård
 med stöd av lagen. Uppföljningen ska enligt båda bestämmelserna främst
 ske genom
-1. regelbundna personliga besök i det hem där barnet eller den unge
+1\. regelbundna personliga besök i det hem där barnet eller den unge
 vistas,
-2. enskilda samtal med barnet eller den unge,
-3. samtal med den eller dem som tagit emot barnet eller den unge i sitt
+2\. enskilda samtal med barnet eller den unge,
+3\. samtal med den eller dem som tagit emot barnet eller den unge i sitt
 hem, och
-4. samtal med vårdnadshavarna.
+4\. samtal med vårdnadshavarna.
 Bestämmelsen om att socialnämnden noga ska följa vården genom vissa
 åtgärder infördes först i den dåvarande socialtjänstförordningen
 (2001:937) efter en bedömning som gjorts i propositionen Stärkt skydd för
@@ -26999,17 +26999,17 @@ När Polismyndigheten och Kriminalvården kan bistå med handräckning
 Av 43 § första stycket LVU framgår att Polismyndigheten eller, om det
 gäller en transport av någon som vårdas i ett särskilt ungdomshem,
 Kriminalvården ska lämna hjälp för att på begäran av
-1. socialnämnden eller nämndens ordförande eller rätten bereda en
+1\. socialnämnden eller nämndens ordförande eller rätten bereda en
 läkare, som avses i 32 §, tillträde till den unges hem eller för att föra
 den unge till läkarundersökningen,
 397
 
 <!-- sida 575 -->
 
-2. socialnämnden eller någon ledamot eller tjänsteman som nämnden har
+2\. socialnämnden eller någon ledamot eller tjänsteman som nämnden har
 förordnat genomföra beslut om vård eller omhändertagande med stöd
 av denna lag, och
-3. Statens institutionsstyrelse efterforska och hämta den som vårdas på
+3\. Statens institutionsstyrelse efterforska och hämta den som vårdas på
 ett särskilt ungdomshem på någon grund som anges i 3 §, om den unge
 har avvikit från hemmet, eller ombesörja någon annan förflyttning av
 honom eller henne.
@@ -27171,22 +27171,22 @@ tillfälligt utreseförbud inte hindrar beslut enligt 21 a § första stycket LV
 Vidare anges att ett utreseförbud eller ett tillfälligt utreseförbud upphör när
 ett beslut enligt 21 a § första stycket LVU har verkställts. De beslut som
 räknas upp i 21 a § LVU är
-1. avvisning eller utvisning enligt utlänningslagen (2005:716),
-2. utvisning enligt lagen (2022:700) om särskild kontroll av vissa
+1\. avvisning eller utvisning enligt utlänningslagen (2005:716),
+2\. utvisning enligt lagen (2022:700) om särskild kontroll av vissa
 utlänningar,
-3. utlämning enligt lagen (1957:668) om utlämning för brott,
-4. överlämnande enligt lagen (2011:1165) om överlämnande från Sverige
+3\. utlämning enligt lagen (1957:668) om utlämning för brott,
+4\. överlämnande enligt lagen (2011:1165) om överlämnande från Sverige
 enligt en nordisk arresteringsorder,
-5. utlämning enligt lagen (1970:375) om utlämning till Danmark,
+5\. utlämning enligt lagen (1970:375) om utlämning till Danmark,
 Finland, Island eller Norge för verkställighet av beslut om vård eller
 behandling,
-6. utlämning enligt lagen (1994:569) om Sveriges samarbete med de
+6\. utlämning enligt lagen (1994:569) om Sveriges samarbete med de
 internationella tribunalerna för brott mot internationell humanitär rätt,
-7. överlämnande enligt lagen (2002:329) om samarbete med
+7\. överlämnande enligt lagen (2002:329) om samarbete med
 Internationella brottmålsdomstolen,
-8. överlämnande enligt lagen (2003:1156) om överlämnande från Sverige
+8\. överlämnande enligt lagen (2003:1156) om överlämnande från Sverige
 enligt en europeisk arresteringsorder, eller
-9. utlämning enligt lagen (2006:615) om samarbete med Specialdom-
+9\. utlämning enligt lagen (2006:615) om samarbete med Specialdom-
 stolen för Sierra Leone.
 I propositionen Svensk migrationspolitik i globalt perspektiv
 (prop. 1996/97:25) anges att 21 a § LVU innebär att vid en kollision
@@ -32048,7 +32048,7 @@ den nya lagen om omhändertagande för vård av barn och unga. Mot den
 <!-- sida 673 -->
 
 bakgrunden görs bedömningen att lagen bör träda i kraft den 1 januari
-2027.
+2027\.
 Äldre bestämmelser bör dock fortfarande gälla för ärenden och mål om
 särskilda befogenheter som har inletts hos Statens institutionsstyrelse
 (SiS) före ikraftträdandet. Det innebär att äldre bestämmelser ska tillämpas
@@ -33566,17 +33566,17 @@ till domstolen.
 3 kap. Grunderna för omhändertagande för vård
 Generella förutsättningar för omhändertagande för vård
 1 § Ett barn ska omhändertas för vård om
-1. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas på grund
+1\. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas på grund
 av sådana förhållanden i hemmet eller egna beteenden som anges i 2 eller 3 §,
-2. den planerade vården är nödvändig och till barnets bästa, och
-3. det kan antas att vården inte kan ges med samtycke av barnets vårdnadshavare
+2\. den planerade vården är nödvändig och till barnets bästa, och
+3\. det kan antas att vården inte kan ges med samtycke av barnets vårdnadshavare
 och, om barnet har fyllt 15 år, av barnet själv.
 En ung person som är under 20 år får omhändertas för vård om
-1. det finns en påtaglig risk för att den unges hälsa eller utveckling skadas på
+1\. det finns en påtaglig risk för att den unges hälsa eller utveckling skadas på
 grund av sådana egna beteenden som anges i 3 §,
-2. den planerade vården är nödvändig, lämpligare än någon annan vård och till
+2\. den planerade vården är nödvändig, lämpligare än någon annan vård och till
 den unges bästa, och
-3. det kan antas att vården inte kan ges med den unges samtycke.
+3\. det kan antas att vården inte kan ges med den unges samtycke.
 Paragrafen innehåller bestämmelser om de generella förutsättningarna för
 omhändertagande för vård. Övervägandena finns i avsnitt 5.4 och 7.1.
 Första stycket första punkten och andra stycket första punkten motsvarar
@@ -33602,11 +33602,11 @@ tionellt.
 Omhändertagande för vård på grund av förhållanden i hemmet
 2 § De förhållanden i hemmet som kan ligga till grund för omhändertagande för
 vård enligt 1 § är
-1. fysisk eller psykisk misshandel,
-2. utnyttjande eller exploatering sexuellt,
-3. brister i omsorgen om barnets grundläggande behov,
-4. negativ social kontroll, eller
-5. något annat skadligt förhållande.
+1\. fysisk eller psykisk misshandel,
+2\. utnyttjande eller exploatering sexuellt,
+3\. brister i omsorgen om barnets grundläggande behov,
+4\. negativ social kontroll, eller
+5\. något annat skadligt förhållande.
 Vid ett beslut om omhändertagande för vård får en sammantagen bedömning
 göras av förhållandena i första stycket 1–5.
 Paragrafen reglerar vilka förhållanden i hemmet som kan utgöra grund för
@@ -33690,10 +33690,10 @@ motivera ett omhändertagande.
 Omhändertagande för vård på grund av eget beteende
 3 § De egna beteenden som kan ligga till grund för omhändertagande för vård
 enligt 1 § är
-1. skadligt bruk eller beroende av alkohol, narkotika, andra beroende-
+1\. skadligt bruk eller beroende av alkohol, narkotika, andra beroende-
 framkallande medel, läkemedel eller dopningsmedel,
-2. brottslig verksamhet, eller
-3. något annat socialt nedbrytande eller destruktivt beteende.
+2\. brottslig verksamhet, eller
+3\. något annat socialt nedbrytande eller destruktivt beteende.
 Vid ett beslut om omhändertagande för vård får en sammantagen bedömning
 göras av beteendena i första stycket 1–3.
 527
@@ -33763,8 +33763,8 @@ Omhändertagande för vård på grund av eget beteende vid sluten
 ungdomsvård
 4 § Ett omhändertagande för vård på grund av eget beteende enligt 3 § kräver
 inte att risken för skada är påtaglig om barnet eller den unge
-1. har dömts till sluten ungdomsvård enligt 32 kap. 5 § brottsbalken, och
-2. vid verkställighetens slut bedöms vara i uppenbart behov av vård för att inte
+1\. har dömts till sluten ungdomsvård enligt 32 kap. 5 § brottsbalken, och
+2\. vid verkställighetens slut bedöms vara i uppenbart behov av vård för att inte
 riskera att skada sin hälsa eller utveckling på grund av sådana beteenden som anges
 i 3 §.
 Paragrafen innehåller bestämmelser om omhändertagande för vård efter
@@ -33776,13 +33776,13 @@ ellt.
 Omhändertagande för vård på grund av anknytning
 5 § Ett barn ska omhändertas för vård på grund av anknytning till familjehemmet
 om
-1. barnet är placerat i ett familjehem på grund av sådana förhållanden i hemmet
+1\. barnet är placerat i ett familjehem på grund av sådana förhållanden i hemmet
 som anges i 2 §,
-2. förutsättningarna för det omhändertagandet har upphört,
-3. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas om
+2\. förutsättningarna för det omhändertagandet har upphört,
+3\. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas om
 placeringen i familjehemmet upphör,
-4. det är till barnets bästa att vården fortsätter, och
-5. det kan antas att placeringen i familjehemmet inte kan fortsätta med samtycke
+4\. det är till barnets bästa att vården fortsätter, och
+5\. det kan antas att placeringen i familjehemmet inte kan fortsätta med samtycke
 av barnets vårdnadshavare och, om barnet har fyllt 15 år, av barnet själv.
 Paragrafen, som saknar motsvarighet i hittillsvarande lag, reglerar under
 vilka förutsättningar ett barn kan omhändertas för vård på grund av
@@ -33835,14 +33835,14 @@ sättningarna för omhändertagande för vård på grund av anknytning är
 uppfyllda.
 6 § Vid en prövning av om förutsättningarna för omhändertagande för vård på
 grund av anknytning enligt 5 § är uppfyllda ska särskilt beaktas
-1. familjehemsföräldrarnas inställning till och förmåga att fortsatt vara
+1\. familjehemsföräldrarnas inställning till och förmåga att fortsatt vara
 familjehem,
-2. barnets inställning,
-3. barnets relation till familjehemmet, vårdnadshavare och syskon,
-4. barnets förankring i sin sociala miljö,
-5. barnets ålder och placeringstid,
-6. om barnet har särskilda behov, och
-7. om barnet har en pågående behandling eller annan insats.
+2\. barnets inställning,
+3\. barnets relation till familjehemmet, vårdnadshavare och syskon,
+4\. barnets förankring i sin sociala miljö,
+5\. barnets ålder och placeringstid,
+6\. om barnet har särskilda behov, och
+7\. om barnet har en pågående behandling eller annan insats.
 Paragrafen, som saknar motsvarighet i hittillsvarande lag, innehåller
 bestämmelser om vilka omständigheter som särskilt ska beaktas vid
 prövningen av omhändertagande för vård på grund av anknytning.
@@ -33953,20 +33953,20 @@ omhändertagande för vård på grund av anknytning.
 Ansökans innehåll
 2 § Socialnämndens ansökan om omhändertagande för vård enligt 1 § första
 stycket ska innehålla en redogörelse för
-1. barnets eller den unges relationer till närstående personer och sociala nätverk,
-2. barnets eller den unges hälsa, utveckling, sociala beteende och skolgång,
-3. de konkreta omständigheter som utgör grund för att barnet eller den unge
+1\. barnets eller den unges relationer till närstående personer och sociala nätverk,
+2\. barnets eller den unges hälsa, utveckling, sociala beteende och skolgång,
+3\. de konkreta omständigheter som utgör grund för att barnet eller den unge
 behöver omhändertas för vård,
-4. tidigare vidtagna åtgärder,
-5. den vård som socialnämnden anser är nödvändig, målet med vården och hur
+4\. tidigare vidtagna åtgärder,
+5\. den vård som socialnämnden anser är nödvändig, målet med vården och hur
 den ska genomföras,
 532
 
 <!-- sida 710 -->
 
-6. hur relevant information lämnats till barnet eller den unge,
-7. vilket slags relevant information som lämnats, och
-8. barnets och vårdnadshavarens eller den unges inställning till behovet av vård
+6\. hur relevant information lämnats till barnet eller den unge,
+7\. vilket slags relevant information som lämnats, och
+8\. barnets och vårdnadshavarens eller den unges inställning till behovet av vård
 och förhållandena i övrigt.
 Ansökan ska även innehålla en vårdplan.
 Paragrafen innehåller bestämmelser om vad en ansökan om omhänder-
@@ -34073,9 +34073,9 @@ Beslut om omedelbart omhändertagande
 Omedelbart omhändertagande för vård
 1 § Socialnämnden får besluta att ett barn eller en ung person som är under 20 år
 omedelbart ska omhändertas för vård, om
-1. det är sannolikt att barnet eller den unge behöver omhändertas för vård på
+1\. det är sannolikt att barnet eller den unge behöver omhändertas för vård på
 grund av förhållanden i hemmet eller eget beteende enligt 3 kap. 2 eller 3 §, och
-2. rättens beslut om omhändertagande för vård inte kan avvaktas med hänsyn till
+2\. rättens beslut om omhändertagande för vård inte kan avvaktas med hänsyn till
 a) risken för barnets eller den unges hälsa eller utveckling, eller
 b) att den fortsatta utredningen allvarligt kan försvåras eller vidare åtgärder
 hindras.
@@ -34093,9 +34093,9 @@ situationer
 2 § Socialnämnden får, om svensk domstol inte är behörig att besluta om
 omhändertagande för vård, besluta att ett barn omedelbart ska omhändertas för
 tillfällig vård, om
-1. det är sannolikt att barnet tillfälligt behöver omhändertas för vård på grund av
+1\. det är sannolikt att barnet tillfälligt behöver omhändertas för vård på grund av
 förhållanden i hemmet eller eget beteende enligt 3 kap. 2 eller 3 §, och
-2. åtgärder av behörig utländsk myndighet inte kan avvaktas med hänsyn till
+2\. åtgärder av behörig utländsk myndighet inte kan avvaktas med hänsyn till
 a) risken för barnets hälsa eller utveckling, eller
 b) att den fortsatta utredningen allvarligt kan försvåras eller vidare åtgärder
 hindras.
@@ -34163,7 +34163,7 @@ Ansökan efter fastställt beslut
 5 § Om förvaltningsrätten fastställer ett beslut om omedelbart omhändertagande,
 ska socialnämnden senast inom fyra veckor från den dag då vården påbörjades
 enligt 6 kap. 3 § ansöka hos förvaltningsrätten om att barnet eller den unge ska
-1. omhändertas för vård på grund av förhållanden i hemmet eller eget beteende
+1\. omhändertas för vård på grund av förhållanden i hemmet eller eget beteende
 enligt 3 kap. 2 eller 3 §, eller
 536           2. vara fortsatt omhändertagen för tillfällig vård enligt 9 §.
 
@@ -34188,15 +34188,15 @@ prop. 1989/90:28 s. 111 och prop. 2018/19:102 s. 51). Bestämmelsen
 ändras språkligt.
 Upphörande av ett omedelbart omhändertagande
 6 § Ett omedelbart omhändertagande upphör
-1. om socialnämnden inte inom en vecka från den dag då beslutet om omedelbart
+1\. om socialnämnden inte inom en vecka från den dag då beslutet om omedelbart
 omhändertagande fattades har lämnat över beslutet till domstolen för prövning av
 om det ska fastställas,
-2. om socialnämnden inte inom fyra veckor från den dag då vården påbörjades
+2\. om socialnämnden inte inom fyra veckor från den dag då vården påbörjades
 enligt 6 kap. 3 § har ansökt om omhändertagande för vård på grund av förhållanden
 i hemmet eller eget beteende enligt 3 kap. 2 eller 3 § eller fortsatt omhändertagande
 för tillfällig vård enligt 9 §, och inte heller begärt förlängning av ansökningstiden,
 eller
-3. när rätten avgör frågan om omhändertagande för vård eller frågan om fortsatt
+3\. när rätten avgör frågan om omhändertagande för vård eller frågan om fortsatt
 omhändertagande för tillfällig vård.
 Paragrafen reglerar när ett omedelbart omhändertagande för vård eller
 tillfällig vård upphör. Övervägandena finns i avsnitt 10.5.
@@ -34243,10 +34243,10 @@ Beslut om fortsatt omhändertagande för tillfällig vård
 tillfällig vård enligt 2 § ska fortsätta om barnet fortsatt behöver tillfällig vård.
 Ett sådant beslut får endast fattas om socialnämnden har ansökt om ett sådant
 omhändertagande
-1. inom fyra veckor från den dag då vården påbörjades enligt 6 kap. 3 §,
-2. innan tiden för när ett beslut om förlängd tidsfrist enligt 5 § andra stycket har
+1\. inom fyra veckor från den dag då vården påbörjades enligt 6 kap. 3 §,
+2\. innan tiden för när ett beslut om förlängd tidsfrist enligt 5 § andra stycket har
 löpt ut, eller
-3. innan tiden för när ett gällande beslut om fortsatt omhändertagande för
+3\. innan tiden för när ett gällande beslut om fortsatt omhändertagande för
 tillfällig vård har löpt ut.
 Paragrafen innehåller bestämmelser om beslut om fortsatt omhänder-
 tagande för tillfällig vård. Övervägandena finns i avsnitt 10.2.
@@ -34451,10 +34451,10 @@ umgänge ska vara avgörande. Bestämmelsen ändras även språkligt.
 Beslut om umgänge och hemlighållande av vistelseort
 2 § Om det är nödvändigt med hänsyn till ändamålet med vården, får
 socialnämnden besluta
-1. hur barnets umgänge med vårdnadshavare och med föräldrar som har
+1\. hur barnets umgänge med vårdnadshavare och med föräldrar som har
 umgängesrätt reglerad genom dom eller beslut av domstol eller genom avtal ska
 utformas, eller
-2. att barnets vistelseort ska hemlighållas för vårdnadshavare eller föräldrar.
+2\. att barnets vistelseort ska hemlighållas för vårdnadshavare eller föräldrar.
 Socialnämnden ska minst en gång var tredje månad överväga om ett sådant
 beslut som avses i första stycket fortfarande behövs.
 Paragrafen innehåller bestämmelser om beslut om umgänge och hemlig-
@@ -34518,12 +34518,12 @@ kan ta den till sig och förstå den.
 Socialnämnden ska noga följa vården
 1 § Socialnämnden ska noga följa vården av ett barn eller en ung person som är
 omhändertagen. Detta ska främst ske genom
-1. regelbundna personliga besök i det hem eller boende där barnet eller den unge
+1\. regelbundna personliga besök i det hem eller boende där barnet eller den unge
 vårdas,
-2. enskilda samtal med barnet eller den unge,
-3. samtal med den eller dem som tagit emot barnet eller den unge i sitt hem eller
+2\. enskilda samtal med barnet eller den unge,
+3\. samtal med den eller dem som tagit emot barnet eller den unge i sitt hem eller
 på boendet, och
-4. samtal med vårdnadshavarna eller god man enligt lagen (2005:429) om god
+4\. samtal med vårdnadshavarna eller god man enligt lagen (2005:429) om god
 man för ensamkommande barn.
 Socialnämnden ska särskilt uppmärksamma barnets eller den unges hälsa,
 utveckling, sociala beteende, skolgång samt relationer till vårdnadshavare,
@@ -34616,14 +34616,14 @@ Därefter ska frågan övervägas årligen.
 
 När socialnämnden överväger att ansöka om överflyttning av vårdnaden ska
 nämnden särskilt beakta
-1. barnets och familjehemsföräldrarnas inställning till en vårdnads-
+1\. barnets och familjehemsföräldrarnas inställning till en vårdnads-
 överflyttning,
-2. barnets relation till familjehemsföräldrarna och deras förmåga att tillgodose
+2\. barnets relation till familjehemsföräldrarna och deras förmåga att tillgodose
 barnets behov av en trygg och god uppväxt,
-3. familjehemsföräldrarnas inställning till och förmåga att tillgodose barnets
+3\. familjehemsföräldrarnas inställning till och förmåga att tillgodose barnets
 behov av kontakt med sina föräldrar och andra närstående,
-4. barnets relation till sina föräldrar, och
-5. barnets sociala situation i övrigt.
+4\. barnets relation till sina föräldrar, och
+5\. barnets sociala situation i övrigt.
 Paragrafen innehåller bestämmelser om socialnämndens skyldighet att
 överväga vårdnadsöverflytt. Övervägandena finns i avsnitt 14.
 Paragrafen motsvarar hittillsvarande 13 c § LVU (jfr prop. 2002/03:53
@@ -34639,9 +34639,9 @@ Ett omhändertagande för vård ska upphöra när det inte längre behövs
 det inte längre behövs.
 Ett omhändertagande för vård på grund av förhållanden i hemmet enligt 3 kap.
 2 § får inte upphöra
-1. innan de förhållanden som ligger till grund för vården har förändrats på ett
+1\. innan de förhållanden som ligger till grund för vården har förändrats på ett
 varaktigt och genomgripande sätt, och
-2. om barnet är placerat i familjehem, utan att det har övervägts om det finns
+2\. om barnet är placerat i familjehem, utan att det har övervägts om det finns
 förutsättningar för omhändertagande för vård på grund av anknytning.
 Paragrafen innehåller bestämmelser om när ett omhändertagande för vård
 ska upphöra. Övervägandena finns i avsnitt 15.1.1.
@@ -34898,10 +34898,10 @@ läkarundersökningen ska genomföras på en vårdinrättning.
 Flyttningsförbud för viss tid eller tills vidare
 1 § En vårdnadshavare får för viss tid eller tills vidare förbjudas att ta ett barn
 från ett familjehem eller annat enskilt hem om
-1. barnet är placerat i hemmet med stöd av 3 kap. 3 §, eller
-2. barnet har tagits emot i hemmet efter beslut eller medgivande från social-
+1\. barnet är placerat i hemmet med stöd av 3 kap. 3 §, eller
+2\. barnet har tagits emot i hemmet efter beslut eller medgivande från social-
 nämnden enligt 22 kap. 2 § socialtjänstlagen (2025:400), och
-3. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas om
+3\. det finns en påtaglig risk för att barnets hälsa eller utveckling skadas om
 barnet skiljs från hemmet.
 Paragrafen reglerar förutsättningarna för beslut om flyttningsförbud.
 Övervägandena finns i avsnitt 16.1.
@@ -34932,13 +34932,13 @@ prop. 1989/90:28 s. 119 och 120). Bestämmelsen ändras språkligt.
 Ansökans innehåll
 3 § Socialnämndens ansökan om flyttningsförbud ska innehålla en redogörelse
 för
-1. barnets förhållanden,
-2. de konkreta omständigheter som utgör grund för att barnet behöver skyddas
+1\. barnets förhållanden,
+2\. de konkreta omständigheter som utgör grund för att barnet behöver skyddas
 genom ett flyttningsförbud,
-3. tidigare vidtagna åtgärder,
-4. hur relevant information lämnats till barnet,
-5. vilket slags relevant information som lämnats, och
-6. barnets och vårdnadshavarens inställning.
+3\. tidigare vidtagna åtgärder,
+4\. hur relevant information lämnats till barnet,
+5\. vilket slags relevant information som lämnats, och
+6\. barnets och vårdnadshavarens inställning.
 Paragrafen, som saknar motsvarighet i hittillsvarande lag, innehåller
 bestämmelser om vad en ansökan om flyttningsförbud ska innehålla.
 Övervägandena finns i avsnitt 16.3.
@@ -34982,8 +34982,8 @@ består till dess att barnet fyller 18 år.
 Tillfälligt flyttningsförbud
 Beslut om tillfälligt flyttningsförbud
 6 § Socialnämnden får besluta om tillfälligt flyttningsförbud, om
-1. det är sannolikt att ett flyttningsförbud behövs, och
-2. rättens beslut om flyttningsförbud inte kan avvaktas med hänsyn till risken för
+1\. det är sannolikt att ett flyttningsförbud behövs, och
+2\. rättens beslut om flyttningsförbud inte kan avvaktas med hänsyn till risken för
 barnets hälsa eller utveckling.
 Beslut om tillfälligt flyttningsförbud fattas av den socialnämnd som har beslutat
 eller lämnat medgivande enligt 22 kap. 2 § socialtjänstlagen (2025:400) till att
@@ -35053,16 +35053,16 @@ Bestämmelsen motsvarar den reglering som gäller i fråga om tillfälligt
 utreseförbud enligt 13 kap. 9 §.
 Upphörande av ett tillfälligt flyttningsförbud
 10 § Ett tillfälligt flyttningsförbud upphör
-1. om socialnämnden inte inom en vecka från den dag då beslutet om tillfälligt
+1\. om socialnämnden inte inom en vecka från den dag då beslutet om tillfälligt
 flyttningsförbud fattades har lämnat över beslutet till domstolen för prövning av
 om det ska fastställas,
-2. om socialnämnden inte inom två veckor från den dag då förvaltningsrätten
+2\. om socialnämnden inte inom två veckor från den dag då förvaltningsrätten
 fastställde beslutet om tillfälligt flyttningsförbud har ansökt om ett
 554          flyttningsförbud, och inte heller begärt förlängning av ansökningstiden, eller
 
 <!-- sida 732 -->
 
-3. när rätten avgör frågan om flyttningsförbud.
+3\. när rätten avgör frågan om flyttningsförbud.
 
 Paragrafen reglerar när ett tillfälligt flyttningsförbud upphör. Över-
 vägandena finns i avsnitt 16.6.4.
@@ -35098,8 +35098,8 @@ s. 122). Bestämmelsen ändras språkligt.
 13 kap. Utreseförbud
 Förutsättningar för utreseförbud
 1 § Ett utreseförbud ska beslutas för ett barn, om det finns en påtaglig risk för att
-1. barnet förs utomlands eller lämnar Sverige, och
-2. barnets hälsa eller utveckling skadas under utlandsvistelsen på grund av
+1\. barnet förs utomlands eller lämnar Sverige, och
+2\. barnets hälsa eller utveckling skadas under utlandsvistelsen på grund av
 sådana förhållanden eller beteenden som anges i 3 kap. 2 eller 3 §.
 Ett utreseförbud ska också beslutas om det finns en påtaglig risk för att barnet
 förs utomlands eller lämnar Sverige i syfte att ingå äktenskap eller en
@@ -35129,13 +35129,13 @@ prop. 2019/20:131 s. 111). Bestämmelsen ändras språkligt genom att ordet
 
 Ansökans innehåll
 3 § Socialnämndens ansökan om utreseförbud ska innehålla en redogörelse för
-1. barnets förhållanden,
-2. de konkreta omständigheter som utgör grund för att barnet behöver skyddas
+1\. barnets förhållanden,
+2\. de konkreta omständigheter som utgör grund för att barnet behöver skyddas
 genom ett utreseförbud,
-3. tidigare vidtagna åtgärder,
-4. hur relevant information lämnats till barnet,
-5. vilket slags relevant information som lämnats, och
-6. barnets och vårdnadshavarens inställning.
+3\. tidigare vidtagna åtgärder,
+4\. hur relevant information lämnats till barnet,
+5\. vilket slags relevant information som lämnats, och
+6\. barnets och vårdnadshavarens inställning.
 Paragrafen innehåller bestämmelser om vad en ansökan om utreseförbud
 ska innehålla. Övervägandena finns i avsnitt 17.2.
 Paragrafen motsvarar hittillsvarande 31 b § andra stycket LVU (jfr
@@ -35172,8 +35172,8 @@ Tillfälligt utreseförbud
 Beslut om tillfälligt utreseförbud
 
 6 § Socialnämnden får besluta om tillfälligt utreseförbud, om
-1. det är sannolikt att ett utreseförbud behövs, och
-2. rättens beslut om utreseförbud inte kan avvaktas med hänsyn till risken för att
+1\. det är sannolikt att ett utreseförbud behövs, och
+2\. rättens beslut om utreseförbud inte kan avvaktas med hänsyn till risken för att
 barnet förs utomlands eller lämnar Sverige.
 Paragrafen innehåller bestämmelser om beslut om tillfälligt utreseförbud.
 Övervägandena finns i avsnitt 17.5.1.
@@ -35227,13 +35227,13 @@ Paragrafen motsvarar hittillsvarande 31 f § LVU (jfr prop. 2019/20:131
 s. 114). Bestämmelserna ändras språkligt.
 Upphörande av ett tillfälligt utreseförbud
 10 § Ett tillfälligt utreseförbud upphör
-1. om socialnämnden inte inom en vecka från den dag då beslutet om tillfälligt
+1\. om socialnämnden inte inom en vecka från den dag då beslutet om tillfälligt
 utreseförbud fattades har lämnat över beslutet till domstolen för prövning av om
 det ska fastställas,
-2. om socialnämnden inte inom fyra veckor från den dag då förvaltningsrätten
+2\. om socialnämnden inte inom fyra veckor från den dag då förvaltningsrätten
 fastställde beslutet om tillfälligt utreseförbud har ansökt om ett utreseförbud, och
 inte heller begärt förlängning av ansökningstiden, eller
-3. när rätten avgör frågan om utreseförbud.
+3\. när rätten avgör frågan om utreseförbud.
 Paragrafen reglerar när ett tillfälligt utreseförbud upphör. Övervägandena
 finns i avsnitt 17.5.2.
 Första punkten motsvarar hittillsvarande 31 e § tredje stycket LVU (jfr
@@ -35269,9 +35269,9 @@ språkligt.
 14 kap. Förebyggande insatser
 Beslut om förebyggande insatser
 1 § Socialnämnden får besluta att ett barn eller en ung person ska
-1. hålla regelbunden kontakt med en särskilt kvalificerad kontaktperson som
+1\. hålla regelbunden kontakt med en särskilt kvalificerad kontaktperson som
 socialnämnden utsett, eller
-2. delta i behandling i öppna former inom socialtjänsten.
+2\. delta i behandling i öppna former inom socialtjänsten.
 Paragrafen innehåller bestämmelser om att socialnämnden kan besluta om
 vissa förebyggande insatser. Övervägandena finns i avsnitt 18.
 Paragrafen motsvarar delar av hittillsvarande 22 § första stycket LVU
@@ -35280,9 +35280,9 @@ melsen ändras språkligt.
 
 2 § Ett beslut om förebyggande insats enligt 1 § får fattas för ett barn eller en ung
 person som är under 20 år om det kan antas att
-1. barnet eller den unge på grund av något eget beteende enligt 3 kap. 3 §
+1\. barnet eller den unge på grund av något eget beteende enligt 3 kap. 3 §
 kommer att behöva omhändertas för vård om beteendet fortsätter, och
-2. det stöd eller den behandling som är nödvändig inte kan ges med samtycke av
+2\. det stöd eller den behandling som är nödvändig inte kan ges med samtycke av
 barnets vårdnadshavare och, om barnet har fyllt 15 år, av barnet själv, eller av den
 unge.
 Paragrafen innehåller bestämmelser om när beslut om vissa förebyggande
@@ -35292,8 +35292,8 @@ Paragrafen motsvarar delar av hittillsvarande 22 § första stycket LVU
 melsen ändras språkligt och redaktionellt.
 3 § Ett beslut om förebyggande insats enligt 1 § får fattas för ett barn eller en ung
 person som är under 20 år om barnet eller den unge
-1. har dömts till sluten ungdomsvård enligt 32 kap. 5 § brottsbalken, och
-2. vid verkställighetens slut bedöms vara i uppenbart behov av insatser för att
+1\. har dömts till sluten ungdomsvård enligt 32 kap. 5 § brottsbalken, och
+2\. vid verkställighetens slut bedöms vara i uppenbart behov av insatser för att
 hindra sådana beteenden som anges i 3 kap. 3 §.
 Paragrafen innehåller bestämmelser om förebyggande insatser när
 verkställigheten för sluten ungdomsvård är slut. Övervägandena finns i
@@ -35336,9 +35336,9 @@ Paragrafen motsvarar delar av hittillsvarande 22 § tredje stycket LVU
 
 Upphörande av en förebyggande insats
 7 § En förebyggande insats upphör att gälla
-1. när den unge fyller 21 år,
-2. om ett barn eller en ung person omedelbart omhändertas för vård, eller
-3. om ett barn eller en ung person omhändertas för vård.
+1\. när den unge fyller 21 år,
+2\. om ett barn eller en ung person omedelbart omhändertas för vård, eller
+3\. om ett barn eller en ung person omhändertas för vård.
 Paragrafen innehåller bestämmelser om upphörande av en förebyggande
 insats. Övervägandena finns i avsnitt 18.
 Första punkten motsvarar delar av hittillsvarande 22 § tredje stycket
@@ -35515,14 +35515,14 @@ kom in till domstolen. Bestämmelsen ändras även språkligt.
 När förvaltningsrätten senast ska påbörja prövningen av vissa mål
 3 § Förvaltningsrätten ska påbörja prövningen av ett mål inom två veckor från
 den dag när en ansökan om
-1. omhändertagande för vård eller fortsatt omhändertagande för tillfällig vård
+1\. omhändertagande för vård eller fortsatt omhändertagande för tillfällig vård
 kom in och barnet eller den unge är omedelbart omhändertagen för vård eller
 tillfällig vård,
-2. omhändertagande för vård på grund av anknytning kom in och barnet är
+2\. omhändertagande för vård på grund av anknytning kom in och barnet är
 omhändertaget för vård på grund av förhållanden i hemmet,
-3. flyttningsförbud kom in efter det att ett tillfälligt flyttningsförbud har fattats,
+3\. flyttningsförbud kom in efter det att ett tillfälligt flyttningsförbud har fattats,
 eller
-4. utreseförbud kom in efter det att ett tillfälligt utreseförbud har fattats.
+4\. utreseförbud kom in efter det att ett tillfälligt utreseförbud har fattats.
 Förvaltningsrätten får förlänga tiden, om ytterligare utredning eller någon annan
 särskild omständighet gör det nödvändigt.
 Paragrafen innehåller bestämmelser om inom vilken tidsfrist som
@@ -35539,11 +35539,11 @@ vård på grund av anknytning kom in till rätten.
 Muntlig förhandling
 4 § Förvaltningsrätten och kammarrätten ska, om det inte är uppenbart
 obehövligt, hålla muntlig förhandling i mål om
-1. omhändertagande för vård enligt 3 kap.,
-2. fortsatt omhändertagande för tillfällig vård enligt 5 kap. 9 §,
-3. upphörande av omhändertagande för vård enligt 10 kap. 1 §,
-4. flyttningsförbud enligt 12 kap. 1 §, och
-5. utreseförbud enligt 13 kap. 1 §.
+1\. omhändertagande för vård enligt 3 kap.,
+2\. fortsatt omhändertagande för tillfällig vård enligt 5 kap. 9 §,
+3\. upphörande av omhändertagande för vård enligt 10 kap. 1 §,
+4\. flyttningsförbud enligt 12 kap. 1 §, och
+5\. utreseförbud enligt 13 kap. 1 §.
 Muntlig förhandling ska alltid hållas i mål enligt första stycket om någon part
 begär det. Parterna ska upplysas om sin rätt att begära muntlig förhandling.
 564
@@ -35570,10 +35570,10 @@ hållas om någon part begär det.
 Nämndemän i kammarrätten
 5 § Vid handläggning i kammarrätten av mål enligt denna lag ska nämndemän
 ingå i rätten. Det gäller dock inte i mål om
-1. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap. 1 eller
+1\. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap. 1 eller
 2 §,
-2. tillfälligt flyttningsförbud enligt 12 kap. 6 §, och
-3. tillfälligt utreseförbud enligt 13 kap. 6 §.
+2\. tillfälligt flyttningsförbud enligt 12 kap. 6 §, och
+3\. tillfälligt utreseförbud enligt 13 kap. 6 §.
 Paragrafen innehåller bestämmelser om nämndemän i kammarrätt.
 Övervägandena finns i avsnitt 20.4.
 Paragrafen motsvarar hittillsvarande 37 § LVU (jfr prop. 1979/80:1
@@ -35602,17 +35602,17 @@ nya grunden omhändertagande för vård på grund av anknytning enligt
 Rätt till offentligt biträde
 1 § Offentligt biträde ska förordnas för ett barn eller en ung person och för ett
 barns vårdnadshavare i ärenden och mål om
-1. omhändertagande för vård enligt 3 kap.,
-2. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap. 1 eller
+1\. omhändertagande för vård enligt 3 kap.,
+2\. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap. 1 eller
 2 §,
-3. fortsatt omhändertagande för tillfällig vård enligt 5 kap. 9 §,
-4. upphörande av fortsatt omhändertagande för tillfällig vård enligt 5 kap. 12 §,
-5. upphörande av omhändertagande för vård enligt 10 kap. 1 §,
-6. flyttningsförbud enligt 12 kap. 1 §,
-7. upphörande av flyttningsförbud enligt 12 kap. 5 §,
-8. utreseförbud enligt 13 kap. 1 §,
-9. upphörande av utreseförbud enligt 13 kap. 5 §, och
-10. tillfälligt utreseförbud enligt 13 kap. 6 §.
+3\. fortsatt omhändertagande för tillfällig vård enligt 5 kap. 9 §,
+4\. upphörande av fortsatt omhändertagande för tillfällig vård enligt 5 kap. 12 §,
+5\. upphörande av omhändertagande för vård enligt 10 kap. 1 §,
+6\. flyttningsförbud enligt 12 kap. 1 §,
+7\. upphörande av flyttningsförbud enligt 12 kap. 5 §,
+8\. utreseförbud enligt 13 kap. 1 §,
+9\. upphörande av utreseförbud enligt 13 kap. 5 §, och
+10\. tillfälligt utreseförbud enligt 13 kap. 6 §.
 Ett biträde ska inte förordnas om det kan antas att behov av biträde saknas.
 Paragrafen innehåller bestämmelser om när offentligt biträde ska
 förordnas i vissa ärenden och mål enligt lagen. Övervägandena finns i
@@ -35651,8 +35651,8 @@ unge, vårdnadshavaren eller föräldern uttrycker en vilja att överklaga beslu
 
 <!-- sida 744 -->
 
-1. placering enligt 6 kap. 1 §, eller
-2. umgänge eller hemlighållande av barnets vistelseort enligt 7 kap. 2 §.
+1\. placering enligt 6 kap. 1 §, eller
+2\. umgänge eller hemlighållande av barnets vistelseort enligt 7 kap. 2 §.
 Ett biträde ska inte förordnas om det kan antas att behov av biträde saknas.
 Paragrafen reglerar rätten till offentligt biträde när vissa beslut avses att
 överklagas. Övervägandena finns i avsnitt 21.1.1 och 21.1.2.
@@ -35782,11 +35782,11 @@ bet. 2025/26:JuU6, rskr. 2025/26:57, jfr prop. 1979/80:1 Del A s. 630 och
 18 kap. Beslut som gäller omedelbart
 Beslut som alltid gäller omedelbart
 1 § Beslut av socialnämnden eller rätten gäller omedelbart i fråga om
-1. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap. 1 eller
+1\. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap. 1 eller
 2 §,
-2. tillfälligt flyttningsförbud enligt 12 kap. 6 §,
-3. tillfälligt utreseförbud enligt 13 kap. 6 §, och
-4. förebyggande insatser enligt 14 kap. 1 §.
+2\. tillfälligt flyttningsförbud enligt 12 kap. 6 §,
+3\. tillfälligt utreseförbud enligt 13 kap. 6 §, och
+4\. förebyggande insatser enligt 14 kap. 1 §.
 Paragrafen reglerar vilka beslut som alltid gäller omedelbart. Över-
 vägandena finns i avsnitt 22.1.
 Paragrafen motsvarar hittillsvarande 40 § första stycket LVU (jfr
@@ -35852,18 +35852,18 @@ besluta att han eller hon tillfälligt ska placeras på ett annat ungdomshem
 Beslut av socialnämnden som får överklagas
 1 § Socialnämndens beslut får överklagas till allmän förvaltningsdomstol i fråga
 om
-1. placering enligt 6 kap. 1 §,
-2. omhändertagande för vård fortfarande behövs eller ska upphöra,
-3. fortsatt omhändertagande för tillfällig vård fortfarande behövs eller ska
+1\. placering enligt 6 kap. 1 §,
+2\. omhändertagande för vård fortfarande behövs eller ska upphöra,
+3\. fortsatt omhändertagande för tillfällig vård fortfarande behövs eller ska
 upphöra,
-4. umgängets utformning eller hemlighållande av vistelseort enligt 7 kap. 2 §,
-5. flyttningsförbud fortfarande behövs eller ska upphöra,
-6. umgänge vid flyttningsförbud och tillfälligt flyttningsförbud enligt 12 kap.
+4\. umgängets utformning eller hemlighållande av vistelseort enligt 7 kap. 2 §,
+5\. flyttningsförbud fortfarande behövs eller ska upphöra,
+6\. umgänge vid flyttningsförbud och tillfälligt flyttningsförbud enligt 12 kap.
 12 §,
-7. utreseförbud fortfarande behövs eller ska upphöra,
-8. tillfälligt undantag från ett utreseförbud enligt 13 kap. 12 §,
-9. förebyggande insatser enligt 14 kap. 1 §, eller
-10. förebyggande insatser fortfarande behövs eller ska upphöra.
+7\. utreseförbud fortfarande behövs eller ska upphöra,
+8\. tillfälligt undantag från ett utreseförbud enligt 13 kap. 12 §,
+9\. förebyggande insatser enligt 14 kap. 1 §, eller
+10\. förebyggande insatser fortfarande behövs eller ska upphöra.
 Andra beslut av nämnden enligt denna lag får inte överklagas.
 Paragrafen reglerar vilka beslut av socialnämnden som får överklagas.
 Övervägandena finns i avsnitt 23.1.
@@ -35913,13 +35913,13 @@ transport inte får överklagas. Övervägandena finns i avsnitt 23.3.
 Kriminalvården
 Förutsättningar för handräckning
 1 § Polismyndigheten ska lämna hjälp för att på begäran av
-1. socialnämnden, nämndens ordförande eller rätten ge en läkare, som avses i
+1\. socialnämnden, nämndens ordförande eller rätten ge en läkare, som avses i
 11 kap. 4 §, tillträde till barnets eller den unges hem eller för att föra barnet eller
 den unge till läkarundersökningen,
-2. socialnämnden eller någon ledamot eller tjänsteman som nämnden har
+2\. socialnämnden eller någon ledamot eller tjänsteman som nämnden har
 förordnat genomföra beslut om omhändertagande för vård eller omedelbart
 omhändertagande för vård eller tillfällig vård,
-3. Statens institutionsstyrelse efterforska och hämta den som vårdas på ett
+3\. Statens institutionsstyrelse efterforska och hämta den som vårdas på ett
 särskilt ungdomshem på grund av något eget beteende enligt 3 kap. 3 §, om barnet
 eller den unge har avvikit från hemmet, eller ombesörja någon annan förflyttning
 av honom eller henne.
@@ -35934,11 +35934,11 @@ prop. 1979/80:1 Del A s. 602–604, prop. 1989/90:28 s. 126 och
 prop. 2016/17:57 s. 77). Bestämmelsen ändras språkligt och redaktionellt.
 2 § En begäran om hjälp av Polismyndigheten eller Kriminalvården enligt 1 § får
 göras endast om
-1. det på grund av särskilda omständigheter kan befaras att åtgärden inte kan
+1\. det på grund av särskilda omständigheter kan befaras att åtgärden inte kan
 utföras utan att de särskilda befogenheter som anges i 10 och 10 a §§ polislagen
 (1984:387) eller, om det gäller en transport som utförs av Kriminalvården, 4 kap.
 4 § och 10 § första stycket häkteslagen (2010:611) behöver tillgripas, eller
-2. det annars finns synnerliga skäl.
+2\. det annars finns synnerliga skäl.
 Första stycket gäller inte en begäran av rätten och inte heller en begäran av
 Statens institutionsstyrelse om efterforskning.
 Paragrafen innehåller bestämmelser om när handräckning får begäras.
@@ -36011,20 +36011,20 @@ s. 118 och 119).
 
 22 kap. Förhållandet till vissa avlägsnandebeslut
 1 § Beslut enligt denna lag hindrar inte beslut om
-1. avvisning eller utvisning enligt utlänningslagen (2005:716),
-2. utvisning enligt lagen (2022:700) om särskild kontroll av vissa utlänningar,
-3. utlämning enligt lagen (1957:668) om utlämning för brott,
-4. överlämnande enligt lagen (2011:1165) om överlämnande från Sverige enligt
+1\. avvisning eller utvisning enligt utlänningslagen (2005:716),
+2\. utvisning enligt lagen (2022:700) om särskild kontroll av vissa utlänningar,
+3\. utlämning enligt lagen (1957:668) om utlämning för brott,
+4\. överlämnande enligt lagen (2011:1165) om överlämnande från Sverige enligt
 en nordisk arresteringsorder,
-5. utlämning enligt lagen (1970:375) om utlämning till Danmark, Finland, Island
+5\. utlämning enligt lagen (1970:375) om utlämning till Danmark, Finland, Island
 eller Norge för verkställighet av beslut om vård eller behandling,
-6. utlämning enligt lagen (1994:569) om Sveriges samarbete med de
+6\. utlämning enligt lagen (1994:569) om Sveriges samarbete med de
 internationella tribunalerna för brott mot internationell humanitär rätt,
-7. överlämnande enligt lagen (2002:329) om samarbete med Internationella
+7\. överlämnande enligt lagen (2002:329) om samarbete med Internationella
 brottmålsdomstolen,
-8. överlämnande enligt lagen (2003:1156) om överlämnande från Sverige enligt
+8\. överlämnande enligt lagen (2003:1156) om överlämnande från Sverige enligt
 en europeisk arresteringsorder, eller
-9. utlämning enligt lagen (2006:615) om samarbete med Specialdomstolen för
+9\. utlämning enligt lagen (2006:615) om samarbete med Specialdomstolen för
 Sierra Leone.
 Ett beslut enligt denna lag upphör när ett beslut enligt första stycket 1–9 har
 verkställts.
@@ -36036,32 +36036,32 @@ prop. 2005/06:93 s. 50, prop. 2010/11:158 s. 159 och 160 samt
 prop. 2019/20:131 s. 115). Bestämmelserna ändras på så sätt att det anges
 att samtliga beslut som fattas enligt lagen omfattas.
 Ikraftträdande- och övergångsbestämmelser
-1. Denna lag träder i kraft den 1 januari 2027.
-2. Genom lagen upphävs lagen (1990:52) med särskilda bestämmelser om vård
+1\. Denna lag träder i kraft den 1 januari 2027.
+2\. Genom lagen upphävs lagen (1990:52) med särskilda bestämmelser om vård
 av unga.
-3. För den som innan ikraftträdandet är omhändertagen enligt 2, 3, 6, 6 a eller
+3\. För den som innan ikraftträdandet är omhändertagen enligt 2, 3, 6, 6 a eller
 9 a § i den upphävda lagen ska efter ikraftträdandet den nya lagen gälla.
-4. För beslut om förebyggande insatser, flyttningsförbud, utreseförbud eller
+4\. För beslut om förebyggande insatser, flyttningsförbud, utreseförbud eller
 tillfälligt utreseförbud enligt 22, 24, 31 a eller 31 d § i den upphävda lagen ska efter
 ikraftträdandet den nya lagens bestämmelser om förebyggande insatser,
 flyttningsförbud, utreseförbud eller tillfälligt utreseförbud gälla.
-5. Även för andra beslut som fattats enligt den upphävda lagen ska efter
+5\. Även för andra beslut som fattats enligt den upphävda lagen ska efter
 ikraftträdandet den nya lagen gälla.
 574
 
 <!-- sida 752 -->
 
-6. Äldre bestämmelser gäller dock i ärenden och mål som har inletts i domstol
+6\. Äldre bestämmelser gäller dock i ärenden och mål som har inletts i domstol
 före ikraftträdandet och när ett beslut som har fattats före ikraftträdandet
 överklagas. Detta gäller också för beslut om omedelbart omhändertagande enligt 6
 eller 6 a § i den upphävda lagen som inte lämnats över till domstol för prövning av
 om de ska fastställas före ikraftträdandet.
-7. Har ett mål om upphörande av vård med stöd av 2 § i den upphävda lagen
+7\. Har ett mål om upphörande av vård med stöd av 2 § i den upphävda lagen
 inletts i domstol före ikraftträdandet och det rör ett barn som är placerat i familje-
 hem, får vården inte upphöra utan att det har övervägts om det finns förutsättningar
 för omhändertagande för vård på grund av anknytning enligt 3 kap. 5 § i den nya
 lagen.
-8. Har ett tillfälligt flyttningsförbud beslutats enligt 27 § i den upphävda lagen
+8\. Har ett tillfälligt flyttningsförbud beslutats enligt 27 § i den upphävda lagen
 gäller äldre bestämmelser om flyttningsförbud fram till dess ett lagakraftvunnet
 beslut om flyttningsförbud finns.
 Övervägandena till ikraftträdande- och övergångsbestämmelserna finns i
@@ -36187,10 +36187,10 @@ med förhöjd säkerhetsnivå
 omhändertagande för vård av barn och unga indelade i olika säkerhetsnivåer.
 Följande särskilda befogenheter får endast användas på ungdomshem med
 förhöjd säkerhetsnivå:
-1. avskildhet i anslutning till dygnsvilan enligt 6 kap. 4 §,
-2. begränsning av användningen av elektroniska kommunikationstjänster enligt
+1\. avskildhet i anslutning till dygnsvilan enligt 6 kap. 4 §,
+2\. begränsning av användningen av elektroniska kommunikationstjänster enligt
 7 kap. 3 §, eller
-3. omhändertagande av teknisk utrustning enligt 7 kap. 8 §.
+3\. omhändertagande av teknisk utrustning enligt 7 kap. 8 §.
 Paragrafen, som saknar motsvarighet i hittillsvarande lag, upplyser om
 vilka befogenheter som endast får användas på ett särskilt ungdomshem
 med förhöjd säkerhetsnivå. Övervägandena finns i avsnitt 26.4.2.
@@ -36208,10 +36208,10 @@ på ett särskilt ungdomshem oavsett säkerhetsnivå
 ande, får besluta att följande befogenheter ska gälla för alla barn och unga som är
 placerade på ett särskilt ungdomshem om det är nödvändigt för att genomföra
 vården och upprätthålla ordningen på hemmet:
-1. omhändertagande av otillåten egendom enligt 4 kap. 1 §,
-2. säkerhetskontroll enligt 4 kap. 3 §,
-3. rumsvisitation enligt 4 kap. 5 §, eller
-4. kroppsvisitation och ytlig kroppsbesiktning enligt 5 kap. 1 §.
+1\. omhändertagande av otillåten egendom enligt 4 kap. 1 §,
+2\. säkerhetskontroll enligt 4 kap. 3 §,
+3\. rumsvisitation enligt 4 kap. 5 §, eller
+4\. kroppsvisitation och ytlig kroppsbesiktning enligt 5 kap. 1 §.
 Paragrafen, som motsvarar hittillsvarande 18 § i LVU, innehåller en
 uppräkning av de befogenheter som får gälla alla barn och unga som
 vårdas på ett särskilt ungdomshem. Övervägandena finns i avsnitt 26.4.3.
@@ -36368,14 +36368,14 @@ Otillåten egendom som ska omhändertas
 1 § Barn och unga som är omhändertagna på grund av eget beteende enligt 3 kap.
 3 § lagen (2026:000) om omhändertagande för vård av barn och unga och
 placerade på ett särskilt ungdomshem får inte inneha
-1. narkotika,
-2. alkoholhaltiga drycker,
-3. andra berusningsmedel,
-4. sådana medel som avses i lagen (1991:1969) om förbud mot vissa
+1\. narkotika,
+2\. alkoholhaltiga drycker,
+3\. andra berusningsmedel,
+4\. sådana medel som avses i lagen (1991:1969) om förbud mot vissa
 dopningsmedel,
-5. varor som omfattas av lagen (1999:42) om förbud mot vissa hälsofarliga
+5\. varor som omfattas av lagen (1999:42) om förbud mot vissa hälsofarliga
 varor, eller
-6. injektionssprutor, kanyler eller andra föremål som är särskilt ägnade att
+6\. injektionssprutor, kanyler eller andra föremål som är särskilt ägnade att
 användas för bruk av eller annan befattning med narkotika.
 Barnet eller den unge får inte heller inneha något annat som kan vara till skada
 för vården eller ordningen på det särskilda ungdomshemmet.
@@ -36618,8 +36618,8 @@ Vård på låsbar enhet
 3 § lagen (2026:000) om omhändertagande för vård av barn och unga och
 placerade på ett särskilt ungdomshem får ges vård på en enhet inom hemmet som
 är låsbar om det är nödvändigt
-1. med hänsyn till barnets eller den unges eller andras säkerhet, eller
-2. för att förhindra att barnet eller den unge avviker eller för att i övrigt
+1\. med hänsyn till barnets eller den unges eller andras säkerhet, eller
+2\. för att förhindra att barnet eller den unge avviker eller för att i övrigt
 genomföra vården.
 Den som vårdas på en låsbar enhet ska ges möjlighet att dagligen vistas utomhus
 och ges möjlighet att ägna sig åt fysisk aktivitet eller någon annan fritids-
@@ -36641,8 +36641,8 @@ Avskildhet i anslutning till dygnsvilan
 3 § lagen (2026:000) om omhändertagande för vård av barn och unga och
 placerade på ett särskilt ungdomshem på en låsbar enhet med förhöjd säkerhetsnivå
 får hållas i avskildhet i anslutning till dygnsvilan, om det är nödvändigt
-1. med hänsyn till ordningen eller säkerheten på ungdomshemmet, eller
-2. för att förhindra att den unge avviker från ungdomshemmet.
+1\. med hänsyn till ordningen eller säkerheten på ungdomshemmet, eller
+2\. för att förhindra att den unge avviker från ungdomshemmet.
 Även om förutsättningarna i första stycket är uppfyllda får barnet eller den unge
 inte hållas avskild i anslutning till dygnsvilan om det finns en påtaglig risk för att
 hans eller hennes hälsa eller utveckling tar skada av åtgärden.
@@ -37125,16 +37125,16 @@ Beslut som går att överklaga
 
 1 § Statens institutionsstyrelses beslut får överklagas till allmän förvaltnings-
 domstol i fråga om
-1. förstörande eller försäljning av egendom enligt 4 kap. 2 §,
-2. drogtest enligt 4 kap. 4 §,
-3. rumsvisitation enligt 4 kap. 5 §,
-4. kontroll av brev och andra försändelser enligt 4 kap. 7 §,
-5. kroppsvisitation eller ytlig kroppsbesiktning enligt 5 kap. 1 §,
-6. vård i enskildhet enligt 6 kap. 2 §, vård vid låsbar enhet enligt 6 kap. 3 §,
+1\. förstörande eller försäljning av egendom enligt 4 kap. 2 §,
+2\. drogtest enligt 4 kap. 4 §,
+3\. rumsvisitation enligt 4 kap. 5 §,
+4\. kontroll av brev och andra försändelser enligt 4 kap. 7 §,
+5\. kroppsvisitation eller ytlig kroppsbesiktning enligt 5 kap. 1 §,
+6\. vård i enskildhet enligt 6 kap. 2 §, vård vid låsbar enhet enligt 6 kap. 3 §,
 avskildhet enligt 6 kap. 4 eller 6 §, eller
-7. begränsningar i rätten att använda elektroniska kommunikationstjänster enligt
+7\. begränsningar i rätten att använda elektroniska kommunikationstjänster enligt
 7 kap. 4 eller 5 §, eller
-8. begränsningar i rätten att ta emot besök enligt 8 kap. 2 eller 3 §.
+8\. begränsningar i rätten att ta emot besök enligt 8 kap. 2 eller 3 §.
 Paragrafen reglerar vilka beslut om särskilda befogenheter enligt denna
 lag som går att överklaga. Övervägandena finns i avsnitt 26.11.
 Bestämmelsen motsvarar hittillsvarande 42 § första stycket LVU (jfr
@@ -37170,8 +37170,8 @@ Bestämmelsen motsvarar hittillsvarande 37 § LVU (jfr
 prop. 1992/93:28 s. 124). Bestämmelsen ändras språkligt.
 Ikraftträdande- och övergångsbestämmelser
 
-1. Denna lag träder i kraft den 1 januari 2027.
-2. Äldre bestämmelser gäller fortfarande för ärenden och mål om
+1\. Denna lag träder i kraft den 1 januari 2027.
+2\. Äldre bestämmelser gäller fortfarande för ärenden och mål om
 särskilda befogenheter som har inletts före ikraftträdandet.
 Övervägandena till ikraftträdande- och övergångsbestämmelser finns i
 avsnitt 29.
@@ -37217,11 +37217,11 @@ medgivet i lag eller den till vars förmån sekretessen gäller samtycker till d
 Rättegångsombud, biträden eller försvarare får höras som vittnen om vad som
 anförtrotts dem för uppdragets fullgörande endast om parten medger det.
 Trots det som sägs i andra eller tredje stycket föreligger skyldighet att vittna för
-1. advokater och deras biträden, dock inte försvarare, i mål angående brott för
+1\. advokater och deras biträden, dock inte försvarare, i mål angående brott för
 vilket inte är föreskrivet lindrigare straff än fängelse i två år,
-2. andra än försvarare och advokater samt deras biträden i mål angående brott
+2\. andra än försvarare och advokater samt deras biträden i mål angående brott
 som avses i 10 kap. 21 och 23 §§ offentlighets- och sekretesslagen, och
-3. den som har uppgiftsskyldighet enligt 20 kap. 6 § socialtjänstlagen i mål
+3\. den som har uppgiftsskyldighet enligt 20 kap. 6 § socialtjänstlagen i mål
 enligt 18 kap. 11 §, 22 kap. 2 eller 4 § eller 24 kap. 4 eller 5 § samma lag, enligt
 lagen (2024:79) om placering av barn i skyddat boende eller enligt lagen
 (2026:000) om omhändertagande för vård av barn och unga.
@@ -37271,10 +37271,10 @@ beaktansvärt skäl egenmäktigt skiljer barnet från den andra vårdnadshavaren
 om den som ska ha vårdnaden obehörigen bemäktigar sig barnet och därigenom
 själv tar sig rätt.
 Till ansvar enligt första stycket döms också den som
-1. obehörigen skiljer ett barn under femton år från någon som vårdar barnet med
+1\. obehörigen skiljer ett barn under femton år från någon som vårdar barnet med
 stöd av lagen (2026:000) om omhändertagande för vård av barn och unga, om
 gärningen inte utgör brott mot frihet eller främjande av flykt, eller
-2. för bort eller annars undanhåller ett barn under femton år, om gärningen är
+2\. för bort eller annars undanhåller ett barn under femton år, om gärningen är
 ägnad att hindra att vård enligt lagen om omhändertagande för vård av barn och
 unga påbörjas och gärningen inte utgör brott mot frihet.
 Om ett brott som avses i första eller andra stycket är grovt, döms till fängelse i
@@ -37324,22 +37324,22 @@ socialförsäkringsbalken (2010:110)
 
 7 kap.
 2 § Försäkrad för statligt personskadeskydd enligt 43 kap. är
-1. den som tjänstgör enligt lagen (1994:1809) om totalförsvarsplikt, eller instäl-
+1\. den som tjänstgör enligt lagen (1994:1809) om totalförsvarsplikt, eller instäl-
 ler sig till mönstring eller annan uttagning enligt den lagen eller genomgår militär
 utbildning inom Försvarsmakten som rekryt,
-2. den som medverkar i räddningstjänst eller i övning med en kommunal organi-
+2\. den som medverkar i räddningstjänst eller i övning med en kommunal organi-
 sation för räddningstjänst enligt lagen (2003:778) om skydd mot olyckor, eller i
 räddningstjänst enligt 10 kap. 1 § andra stycket luftfartslagen (2010:500),
-3. den som är intagen för vård i kriminalvårdsanstalt, i ett hem som avses i
+3\. den som är intagen för vård i kriminalvårdsanstalt, i ett hem som avses i
 15 kap. 1 § lagen (2026:000) om omhändertagande för vård av barn och unga eller
 i ett hem som avses i 22 § lagen (1988:870) om vård av missbrukare i vissa fall
 samt den som är häktad eller anhållen eller i annat fall intagen eller tagen i förvar
 i kriminalvårdsanstalt, häkte eller polisarrest,
-4. den som utför samhällstjänst på grund av en föreskrift som har meddelats med
+4\. den som utför samhällstjänst på grund av en föreskrift som har meddelats med
 stöd av 27 kap. 2 a § eller 28 kap. 2 a § brottsbalken,
-5. den som utför ungdomstjänst enligt 32 kap. 2 § eller 3 § första stycket 1
+5\. den som utför ungdomstjänst enligt 32 kap. 2 § eller 3 § första stycket 1
 brottsbalken, och
-6. den som utför oavlönat arbete enligt en föreskrift som har meddelats med stöd
+6\. den som utför oavlönat arbete enligt en föreskrift som har meddelats med stöd
 av 8 § första stycket 2 lagen (1994:451) om intensivövervakning med elektronisk
 kontroll.
 I paragrafens tredje punkt ersätts hänvisningen till hittillsvarande lag
@@ -37388,12 +37388,12 @@ skilda bestämmelser om vård av unga med en hänvisning till den nya lagen
 om omhändertagande för vård av barn och unga och motsvarande bestäm-
 melse i den lagen. Övervägandena finns i avsnitt 27.
 12 § Sjukpenning lämnas inte för tid när den försäkrade
-1. fullgör någon annan tjänstgöring enligt lagen (1994:1809) om totalförsvars-
+1\. fullgör någon annan tjänstgöring enligt lagen (1994:1809) om totalförsvars-
 plikt än grundutbildning som är längre än 60 dagar,
-2. är intagen i sådant hem som avses i 15 kap. 1 § lagen (2026:000) om omhän-
+2\. är intagen i sådant hem som avses i 15 kap. 1 § lagen (2026:000) om omhän-
 dertagande för vård av barn och unga med stöd av 5 kap. 3 § samma lag,
-3. är häktad eller intagen i kriminalvårdsanstalt, eller
-4. i annat fall än som anges i 2 eller 3 av någon annan orsak än sjukdom tagits
+3\. är häktad eller intagen i kriminalvårdsanstalt, eller
+4\. i annat fall än som anges i 2 eller 3 av någon annan orsak än sjukdom tagits
 om hand på det allmännas bekostnad.
 I paragrafens andra punkt ersätts hänvisningen till hittillsvarande lag
 (1990:52) med särskilda bestämmelser om vård av unga med en hänvis-
@@ -37405,8 +37405,8 @@ motsvarande bestämmelser i den lagen. Övervägandena finns i avsnitt 27.
 
 16 § Sjukersättning och aktivitetsersättning lämnas inte för tid efter det att den
 försäkrade sextio dagar i följd varit frihetsberövad på grund av att han eller hon är
-1. häktad eller intagen i anstalt, eller
-2. intagen i ett hem som avses i 15 kap. 1 § lagen (2026:000) om omhänderta-
+1\. häktad eller intagen i anstalt, eller
+2\. intagen i ett hem som avses i 15 kap. 1 § lagen (2026:000) om omhänderta-
 gande för vård av barn och unga för verkställighet av sluten ungdomsvård.
 Förmånerna lämnas dock åter från och med den trettionde dagen före frigiv-
 ningen.
@@ -37471,10 +37471,10 @@ ning till den nya lagen om omhändertagande för vård av barn och unga.
 17 § Straffvarning får beslutas, om den unge blir föremål för sådan åtgärd som
 anges nedan och det med skäl kan antas att därigenom vidtas vad som är lämpligast
 för den unge:
-1. vård eller annan åtgärd enligt socialtjänstlagen (2025:400),
-2. omhändertagande eller annan åtgärd enligt lagen (2026:000) om omhänderta-
+1\. vård eller annan åtgärd enligt socialtjänstlagen (2025:400),
+2\. omhändertagande eller annan åtgärd enligt lagen (2026:000) om omhänderta-
 gande för vård av barn och unga, eller
-3. annan åtgärd som innebär att den unge får hjälp eller stöd.
+3\. annan åtgärd som innebär att den unge får hjälp eller stöd.
 Straffvarning får också beslutas, om det är uppenbart att brottet har skett av
 okynne eller förhastande.
 Vid bedömningen av om straffvarning ska beslutas ska åklagaren utöver vad
@@ -37495,12 +37495,12 @@ finns i avsnitt 27.
 32.8  Förslaget till lag om ändring i lagen (1971:289)
 om allmänna förvaltningsdomstolar
 18 § En förvaltningsrätt är domför med en lagfaren domare ensam
-1. vid åtgärder som endast avser måls beredande,
-2. vid förhör med vittne eller sakkunnig som begärts av en annan förvaltnings-
+1\. vid åtgärder som endast avser måls beredande,
+2\. vid förhör med vittne eller sakkunnig som begärts av en annan förvaltnings-
 rätt,
-3. vid beslut som endast avser rättelse av felräkning, felskrivning eller annat
+3\. vid beslut som endast avser rättelse av felräkning, felskrivning eller annat
 uppenbart förbiseende, och
-4. vid annat beslut som inte innefattar slutligt avgörande av mål.
+4\. vid annat beslut som inte innefattar slutligt avgörande av mål.
 603
 
 <!-- sida 781 -->
@@ -37514,12 +37514,12 @@ räcklig kunskap och erfarenhet och som är anställd vid en allmän förvaltnin
 domstol, en allmän domstol eller en hyresnämnd. Regeringen kan med stöd av
 8 kap. 7 § regeringsformen meddela närmare föreskrifter om detta.
 Vad som sägs i andra stycket gäller även vid avgörande i sak av
-1. mål av enkel beskaffenhet,
-2. mål om bevissäkring och betalningssäkring enligt skatteförfarandelagen
+1\. mål av enkel beskaffenhet,
+2\. mål om bevissäkring och betalningssäkring enligt skatteförfarandelagen
 (2011:1244), om besiktning enligt fastighetstaxeringslagen (1979:1152), om en
 uppgifts eller handlings undantagande från kontroll enligt skatteförfarandelagen
 eller någon annan skatteförfattning,
-3. mål om omedelbart omhändertagande för vård eller tillfällig vård enligt
+3\. mål om omedelbart omhändertagande för vård eller tillfällig vård enligt
 5 kap. 1 och 2 §§ lagen (2026:000) om omhändertagande för vård av barn och
 unga, mål om tillfälligt flyttningsförbud enligt 12 kap. 6 § samma lag, mål om
 tillfälligt utreseförbud enligt 13 kap. 6 § samma lag, mål om vård i enskildhet enligt
@@ -37541,21 +37541,21 @@ eller 6 lagen (1991:1129) om rättspsykiatrisk vård, mål om förvar och uppsik
 enligt utlänningslagen (2005:716), mål enligt strafftidslagen (2018:1251), mål
 enligt fängelselagen (2010:610) och mål enligt lagen (1963:193) om samarbete
 med Danmark, Finland, Island och Norge angående verkställighet av straff m.m.,
-4. mål enligt folkbokföringsförfattningarna, mål om preliminär skatt eller om
+4\. mål enligt folkbokföringsförfattningarna, mål om preliminär skatt eller om
 anstånd med att betala skatt eller avgifter enligt skatteförfattningarna,
-5. mål enligt lagen (2016:1145) om offentlig upphandling, lagen (2016:1146)
+5\. mål enligt lagen (2016:1145) om offentlig upphandling, lagen (2016:1146)
 om upphandling inom försörjningssektorerna, lagen (2016:1147) om upphandling
 av koncessioner, lagen (2011:1029) om upphandling på försvars- och säkerhets-
 området eller lagen (2022:760) om upphandling av fonder till premiepensionens
 fondtorg,
-6. mål som avser en fråga av betydelse för inkomstbeskattningen, dock endast
+6\. mål som avser en fråga av betydelse för inkomstbeskattningen, dock endast
 om värdet av vad som yrkas i målet uppenbart inte överstiger hälften av prisbas-
 beloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken,
-7. mål enligt lagen (2004:629) om trängselskatt,
-8. mål enligt lagen (2008:962) om valfrihetssystem och lagen (2023:704) om
+7\. mål enligt lagen (2004:629) om trängselskatt,
+8\. mål enligt lagen (2008:962) om valfrihetssystem och lagen (2023:704) om
 auktorisationssystem i fråga om tjänster för elektronisk identifiering och för digital
 post,
-9. mål enligt lagen (2024:954) med kompletterande bestämmelser till EU:s
+9\. mål enligt lagen (2024:954) med kompletterande bestämmelser till EU:s
 förordning om digitala tjänster som avser en
 a) inspektion,
 b) prövning av om en handling skyddas av advokatsekretess enligt 3 kap. 14 §
@@ -37566,7 +37566,7 @@ samma lag, eller
 
 c) tillfällig begränsning av mottagarnas tillgång till en tjänst eller ett
 onlinegränssnitt, och
-10. mål om betalningssäkring enligt socialförsäkringsbalken eller lagen
+10\. mål om betalningssäkring enligt socialförsäkringsbalken eller lagen
 (2008:145) om statligt tandvårdsstöd.
 I paragrafens fjärde stycke tredje punkten ersätts hänvisningarna till
 hittillsvarande lag (1990:52) med särskilda bestämmelser om vård av unga
@@ -37596,31 +37596,31 @@ I andra stycket ersätts hänvisningen till motsvarande bestämmelse i den
 nya lagen om omhändertagande för vård av barn och unga.
 Övervägandena finns i avsnitt 27.
 12 § Passmyndigheten ska återkalla ett gällande pass, om
-1. passinnehavaren har förlorat eller efter ansökan har befriats från sitt svenska
+1\. passinnehavaren har förlorat eller efter ansökan har befriats från sitt svenska
 medborgarskap,
-2. passet avser barn under arton år och barnets vårdnadshavare eller, om barnet
+2\. passet avser barn under arton år och barnets vårdnadshavare eller, om barnet
 vistas här i landet och står under vårdnad av båda föräldrarna, en av dem begär att
 passet ska återkallas och det inte finns synnerliga skäl mot återkallelse,
-3. en passinnehavare, som är efterlyst och ska omhändertas omedelbart vid
+3\. en passinnehavare, som är efterlyst och ska omhändertas omedelbart vid
 anträffandet, uppehåller sig utomlands och det av särskilda skäl är motiverat att
 passet återkallas,
-4. passinnehavaren genom en dom som har fått laga kraft har dömts till frihets-
+4\. passinnehavaren genom en dom som har fått laga kraft har dömts till frihets-
 berövande påföljd, som inte har börjat verkställas, och det finns sannolika skäl att
 anta att han eller hon har för avsikt att undandra sig verkställigheten,
-5. passinnehavaren avtjänar fängelsestraff och den sammanlagda tiden att av-
+5\. passinnehavaren avtjänar fängelsestraff och den sammanlagda tiden att av-
 tjäna är fängelse i minst ett år och innehavaren inte har villkorligt frigetts,
-6. passinnehavaren genomgår sluten ungdomsvård och den sammanlagda vård-
+6\. passinnehavaren genomgår sluten ungdomsvård och den sammanlagda vård-
 tiden är minst ett år,
-7. passinnehavaren genomgår rättspsykiatrisk vård med särskild utskrivnings-
+7\. passinnehavaren genomgår rättspsykiatrisk vård med särskild utskrivnings-
 prövning enligt lagen (1991:1129) om rättspsykiatrisk vård,
 605
 
 <!-- sida 783 -->
 
-8. det fanns hinder mot att bevilja passansökan enligt 7 § vid tiden för passets
+8\. det fanns hinder mot att bevilja passansökan enligt 7 § vid tiden för passets
 utfärdande och hindret fortfarande består,
-9. någon annan än den för vilken passet är utställt förfogar över passet, eller
-10. passinnehavaren är föremål för ett utreseförbud enligt 13 kap. 1 § lagen
+9\. någon annan än den för vilken passet är utställt förfogar över passet, eller
+10\. passinnehavaren är föremål för ett utreseförbud enligt 13 kap. 1 § lagen
 (2026:000) om omhändertagande för vård av barn och unga eller ett tillfälligt
 utreseförbud enligt 13 kap. 6 § samma lag.
 Ett särskilt pass ska dessutom återkallas, när de skäl som har föranlett passets
@@ -37691,9 +37691,9 @@ skyddad folkbokföring inte längre behövs eller om det finns särskilda skäl 
 ska Skatteverket besluta att den skyddade folkbokföringen ska upphöra att gälla.
 Om ett barn har medgetts skyddad folkbokföring efter ansökan av socialnämn-
 den enligt 30 § tredje stycket, upphör den skyddade folkbokföringen att gälla
-1. om socialnämnden anmäler hos Skatteverket att den inte längre behövs,
-2. om det finns särskilda skäl för det, eller
-3. senast när omhändertagandet för vård enligt 3 kap. 2 § lagen (2026:000) om
+1\. om socialnämnden anmäler hos Skatteverket att den inte längre behövs,
+2\. om det finns särskilda skäl för det, eller
+3\. senast när omhändertagandet för vård enligt 3 kap. 2 § lagen (2026:000) om
 omhändertagande för vård av barn och unga upphör.
 I paragrafens tredje stycke tredje punkten ersätts hänvisningen till hittills-
 varande lag (1990:52) med särskilda bestämmelser om vård av unga med
@@ -37701,7 +37701,7 @@ en hänvisning till den nya lagen om omhändertagande för vård av barn och
 unga och motsvarande bestämmelse i den lagen. Punkten ändras också
 språkligt genom att ordet ”vården” byts ut till ”omhändertagandet för
 vård”. Någon ändring i sak är inte avsedd. Övervägandena finns i avsnitt
-27.
+27\.
 30 § För barn under 18 år ska anmälan enligt 25 §, 26 § första eller andra stycket
 eller 27 § göras av barnets vårdnadshavare. Barn som har fyllt 16 år har dock rätt
 att själv göra sådan anmälan.
@@ -37711,15 +37711,15 @@ För barn under 18 år får ansökan enligt 16 § göras av socialnämnden, om b
 är omhändertaget för vård med stöd av ett lagakraftvunnet beslut enligt 3 kap. 2 §
 lagen (2026:000) om omhändertagande för vård av barn och unga och syftet med
 ansökningen är att skydda barnet
-1. mot båda vårdnadshavarna eller, om barnet endast har en vårdnadshavare, mot
+1\. mot båda vårdnadshavarna eller, om barnet endast har en vårdnadshavare, mot
 vårdnadshavaren,
 607
 
 <!-- sida 785 -->
 
-2. mot den ena vårdnadshavaren när den andre vårdnadshavaren inte vill eller
+2\. mot den ena vårdnadshavaren när den andre vårdnadshavaren inte vill eller
 förmår skydda barnet, eller
-3. mot en annan person än vårdnadshavaren eller vårdnadshavarna när vårdnads-
+3\. mot en annan person än vårdnadshavaren eller vårdnadshavarna när vårdnads-
 havaren eller vårdnadshavarna inte vill eller förmår skydda barnet.
 I paragrafens tredje stycke ersätts hänvisningen till hittillsvarande lag
 (1990:52) med särskilda bestämmelser om vård av unga med en hänvis-
@@ -37774,11 +37774,11 @@ vistas i den kommunen i den mening som avses i 29 kap. 4 § socialtjänstlagen
 (2025:400).
 En kommun som har anvisats att ta emot ett ensamkommande barn får placera
 barnet i ett boende i en annan kommun endast om
-1. kommunerna har ingått en överenskommelse om placeringen,
-2. placeringen sker med stöd av lagen (2026:000) om omhändertagande för vård
+1\. kommunerna har ingått en överenskommelse om placeringen,
+2\. placeringen sker med stöd av lagen (2026:000) om omhändertagande för vård
 av barn och unga eller med stöd av socialtjänstlagen i fråga om barn med motsva-
 rande vårdbehov, eller
-3. det med hänsyn till barnets vårdbehov finns synnerliga skäl.
+3\. det med hänsyn till barnets vårdbehov finns synnerliga skäl.
 I paragrafens tredje stycke andra punkten ersätts hänvisningen till hittills-
 varande lag (1990:52) med särskilda bestämmelser om vård av unga med
 en hänvisning till den nya lagen om omhändertagande för vård av barn och
@@ -37788,11 +37788,11 @@ om besöksinskränkningar vid viss tvångsvård
 
 1 § Denna lag gäller beträffande besök på vårdinstitutioner och sjukvårdsinrätt-
 ningar till dem som är tvångsintagna för vård enligt
-1. lagen (1988:870) om vård av missbrukare i vissa fall,
-2. lagen (2026:000) om omhändertagande för vård av barn och unga,
-3. lagen (1991:1128) om psykiatrisk tvångsvård,
-4. lagen (1991:1129) om rättspsykiatrisk vård, och
-5. lagen (1993:388) om införande av lagen (1993:387) om stöd och service till
+1\. lagen (1988:870) om vård av missbrukare i vissa fall,
+2\. lagen (2026:000) om omhändertagande för vård av barn och unga,
+3\. lagen (1991:1128) om psykiatrisk tvångsvård,
+4\. lagen (1991:1129) om rättspsykiatrisk vård, och
+5\. lagen (1993:388) om införande av lagen (1993:387) om stöd och service till
 vissa funktionshindrade.
 Lagen gäller också för besök till dem som är isolerade enligt 5 kap. 1 § eller
 tillfälligt isolerade enligt 5 kap. 3 § smittskyddslagen (2004:168).
@@ -37801,11 +37801,11 @@ varande lag (1990:52) med särskilda bestämmelser om vård av unga med
 en hänvisning till den nya lagen om omhändertagande för vård av barn och
 unga. Övervägandena finns i avsnitt 27.
 4 § Vad som sägs i 3 § gäller inte
-1. besök av personer för vilka 7 kap. 2 § första stycket 1 lagen (2026:000) om
+1\. besök av personer för vilka 7 kap. 2 § första stycket 1 lagen (2026:000) om
 omhändertagande för vård av barn och unga är tillämplig,
-2. inskränkningar i den intagnes rätt när 5 kap. 12 § smittskyddslagen
+2\. inskränkningar i den intagnes rätt när 5 kap. 12 § smittskyddslagen
 (2004:168) är tillämplig, och
-3. när 8 § andra stycket lagen (1991:1129) om rättspsykiatrisk vård är tillämp-
+3\. när 8 § andra stycket lagen (1991:1129) om rättspsykiatrisk vård är tillämp-
 ligt.
 I paragrafens första punkt ersätts hänvisningen till hittillsvarande lag
 (1990:52) med särskilda bestämmelser om vård av unga med en hänvis-
@@ -37876,20 +37876,20 @@ avsnitt 27.
 om behandling av personuppgifter inom
 socialtjänsten
 2 § I denna lag avses med
-1. verksamhet enligt lagstiftningen om socialtjänst, den särskilda lagstiftningen
+1\. verksamhet enligt lagstiftningen om socialtjänst, den särskilda lagstiftningen
 om vård utan samtycke av barn och unga eller av missbrukare, den särskilda
 lagstiftningen om insatser för barn i form av skyddat boende och den särskilda
 lagstiftningen om särskilda befogenheter för den statliga barn- och ungdoms-
 vården,
-2. verksamhet som i annat fall enligt lag handhas av socialnämnd,
-3. verksamhet som i övrigt bedrivs av Statens institutionsstyrelse,
-4. verksamhet hos kommunal invandrarbyrå,
-5. verksamhet enligt lagstiftning om stöd och service till vissa funktions-
+2\. verksamhet som i annat fall enligt lag handhas av socialnämnd,
+3\. verksamhet som i övrigt bedrivs av Statens institutionsstyrelse,
+4\. verksamhet hos kommunal invandrarbyrå,
+5\. verksamhet enligt lagstiftning om stöd och service till vissa funktions-
 hindrade,
-6. handläggning av ärenden om bistånd som lämnas av socialnämnd enligt
+6\. handläggning av ärenden om bistånd som lämnas av socialnämnd enligt
 lagstiftning om mottagande av asylsökande m.fl.,
-8. handläggning av ärenden om tillstånd till parkering för rörelsehindrade, och
-9. verksamhet enligt lagen (2007:606) om utredningar för att förebygga
+8\. handläggning av ärenden om tillstånd till parkering för rörelsehindrade, och
+9\. verksamhet enligt lagen (2007:606) om utredningar för att förebygga
 vissa skador och dödsfall.
 Med socialtjänst avses även tillsyn, uppföljning, utvärdering, kvalitetssäkring
 och administration av verksamhet som avses i första stycket 1–9.
@@ -37901,7 +37901,7 @@ om gemensam nämnd inom vård- och
 omsorgsområdet
 1 § En region och en eller flera kommuner som ingår i regionen får genom
 samverkan i en gemensam nämnd gemensamt fullgöra
-1. regionens uppgifter
+1\. regionens uppgifter
 – enligt hälso- och sjukvårdslagen (2017:30),
 – enligt tandvårdslagen (1985:125),
 – enligt lagen (1991:1128) om psykiatrisk tvångsvård,
@@ -37911,7 +37911,7 @@ samverkan i en gemensam nämnd gemensamt fullgöra
 – enligt smittskyddslagen (2004:168), eller
 – som i annat fall enligt lag ska skötas av en sådan nämnd som avses i 7 kap. 1 §
 hälso- och sjukvårdslagen, och
-2. kommunens uppgifter
+2\. kommunens uppgifter
 611
 
 <!-- sida 789 -->
@@ -37967,22 +37967,22 @@ och sekretesslagen (2009:400)
 förhållanden, om det inte står klart att uppgiften kan röjas utan att den enskilde
 eller någon närstående till denne lider men.
 Med socialtjänst förstås i denna lag
-1. verksamhet enligt lagstiftningen om socialtjänst,
-2. verksamhet enligt den särskilda lagstiftningen om vård av barn och unga och
+1\. verksamhet enligt lagstiftningen om socialtjänst,
+2\. verksamhet enligt den särskilda lagstiftningen om vård av barn och unga och
 av missbrukare utan samtycke, den särskilda lagstiftningen om insatser för barn i
 form av skyddat boende och den särskilda lagstiftningen om särskilda befogen-
 heter för den statliga barn- och ungdomsvården, och
-3. verksamhet som i annat fall enligt lag handhas av socialnämnd eller av Statens
+3\. verksamhet som i annat fall enligt lag handhas av socialnämnd eller av Statens
 institutionsstyrelse.
 Till socialtjänst räknas också
-1. verksamhet hos annan myndighet som innefattar omprövning av
+1\. verksamhet hos annan myndighet som innefattar omprövning av
 socialnämnds beslut eller särskild tillsyn över nämndens verksamhet, och
-2. verksamhet hos kommunal invandrarbyrå.
+2\. verksamhet hos kommunal invandrarbyrå.
 Med socialtjänst jämställs
-1. ärenden om bistånd åt asylsökande och andra utlänningar,
-2. ärenden om tillstånd till parkering för rörelsehindrade,
-3. ärenden hos patientnämnd om allmän omvårdnad, och
-4. verksamhet enligt lagstiftningen om stöd och service till vissa
+1\. ärenden om bistånd åt asylsökande och andra utlänningar,
+2\. ärenden om tillstånd till parkering för rörelsehindrade,
+3\. ärenden hos patientnämnd om allmän omvårdnad, och
+4\. verksamhet enligt lagstiftningen om stöd och service till vissa
 funktionshindrade.
 Sekretessen gäller inte om annat följer av 5, 6 eller 7 §.
 För uppgift i en allmän handling gäller sekretessen i högst sjuttio år.
@@ -37992,10 +37992,10 @@ vägandena finns i avsnitt 27.
 2 § Sekretessen enligt 1 § som gäller för uppgift om en underårigs vistelseort
 gäller också i förhållande till en förälder eller en annan vårdnadshavare till den
 underårige, om den underårige har
-1. omhändertagits enligt den särskilda lagstiftningen om vård av barn och unga
+1\. omhändertagits enligt den särskilda lagstiftningen om vård av barn och unga
 utan samtycke och det är nödvändigt med hänsyn till ändamålet med
 omhändertagandet eller vården, eller
-2. beviljats skyddat boende eller en omedelbar sådan insats med stöd av lagen
+2\. beviljats skyddat boende eller en omedelbar sådan insats med stöd av lagen
 (2024:79) om placering av barn i skyddat boende och det är nödvändigt med
 hänsyn till ändamålet med insatsen.
 I paragrafens första punkt görs en språklig ändring genom att orden ”eller
@@ -38005,23 +38005,23 @@ i sak är inte avsedd. Övervägandena finns i avsnitt 27.
 20 § Sekretess gäller hos Polismyndigheten för uppgift om en enskilds person-
 liga förhållanden, om det kan antas att den enskilde eller någon närstående till
 honom eller henne lider men om uppgiften röjs och uppgiften hänför sig till
-1. verksamhet som enbart innefattar hjälp eller annat bistånd åt enskild,
+1\. verksamhet som enbart innefattar hjälp eller annat bistånd åt enskild,
 613
 
 <!-- sida 791 -->
 
-2. ärende om omhändertagande eller handräckning enligt lagstiftningen om
+2\. ärende om omhändertagande eller handräckning enligt lagstiftningen om
 psykiatrisk tvångsvård eller rättspsykiatrisk vård eller om vård av missbrukare utan
 samtycke inom socialtjänsten,
-3. ärende om handräckning enligt
+3\. ärende om handräckning enligt
 a) lagstiftningen om omsorger om psykiskt utvecklingsstörda, omhändertagan-
 de för vård av barn och unga inom socialtjänsten eller insatser för barn i form av
 skyddat boende med samtycke för endast en av vårdnadshavarna, eller
 b) lagen (1998:603) om verkställighet av sluten ungdomsvård,
-4. ärende som avses i 21 kap. föräldrabalken,
-5. verksamhet som innefattar handräckning enligt smittskyddslagstiftningen
+4\. ärende som avses i 21 kap. föräldrabalken,
+5\. verksamhet som innefattar handräckning enligt smittskyddslagstiftningen
 eller annat bistånd åt smittskyddsläkare, eller
-6. verksamhet som syftar till att upprätthålla ett utreseförbud enligt 13 kap. 1
+6\. verksamhet som syftar till att upprätthålla ett utreseförbud enligt 13 kap. 1
 eller 6 § lagen (2026:000) om omhändertagande för vård av barn och unga.
 För uppgift i en allmän handling gäller sekretessen i högst sjuttio år.
 I paragrafens första stycke tredje punkten görs en språklig ändring genom
@@ -38113,11 +38113,11 @@ om meddelarskydd i vissa enskilda
 verksamheter
 2 § Lagen gäller i yrkesmässigt bedriven enskild verksamhet som till någon del
 är offentligt finansierad och som
-1. tillhör skolväsendet, de särskilda utbildningsformerna eller annan pedagogisk
+1\. tillhör skolväsendet, de särskilda utbildningsformerna eller annan pedagogisk
 verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen (2010:800),
-2. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårdslagen
+2\. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårdslagen
 (2017:30) eller tandvårdslagen (1985:125), eller
-3. bedrivs enligt socialtjänstlagen (2025:400), lagen (1988:870) om vård av
+3\. bedrivs enligt socialtjänstlagen (2025:400), lagen (1988:870) om vård av
 missbrukare i vissa fall, lagen (2026:000) om omhändertagande för vård av barn
 och unga, lagen (1993:387) om stöd och service till vissa funktionshindrade eller
 utgör personlig assistans som utförs med assistansersättning enligt 51 kap. social-
@@ -38136,13 +38136,13 @@ offentlig service
 2 § Med offentlig aktör avses en statlig eller kommunal myndighet eller en beslu-
 tande församling i en kommun eller en region.
 Vid tillämpningen av denna lag ska med offentlig aktör jämställas
-1. ett sådant offentligt styrt organ som avses i 5 §,
-2. en sammanslutning som inrättats särskilt för att tillgodose behov i det allmän-
+1\. ett sådant offentligt styrt organ som avses i 5 §,
+2\. en sammanslutning som inrättats särskilt för att tillgodose behov i det allmän-
 nas intresse, under förutsättning att behovet inte är av industriell eller kommersiell
 karaktär, och som består av
 a) en eller flera myndigheter eller församlingar enligt första stycket, eller
 b) ett eller flera organ enligt 1,
-3. privata aktörer som yrkesmässigt bedriver verksamhet som till någon del är
+3\. privata aktörer som yrkesmässigt bedriver verksamhet som till någon del är
 offentligt finansierad och som
 a) aktören bedriver i egenskap av enskild huvudman inom skolväsendet eller hu-
 vudman för en sådan internationell skola som avses i 24 kap. skollagen (2010:800),
@@ -38153,7 +38153,7 @@ missbrukare i vissa fall, lagen (2026:000) om omhändertagande för vård av bar
 och unga, lagen (1993:387) om stöd och service till vissa funktionshindrade eller
 utgör personlig assistans som utförs med assistansersättning enligt 51 kap. social-
 försäkringsbalken, och
-4. enskilda utbildningsanordnare med tillstånd att utfärda examina enligt lagen
+4\. enskilda utbildningsanordnare med tillstånd att utfärda examina enligt lagen
 (1993:792) om tillstånd att utfärda vissa examina, och som till största delen har
 statsbidrag som finansiering av högskoleutbildning på grundnivå eller avancerad
 nivå eller för utbildning på forskarnivå.
@@ -38190,18 +38190,18 @@ om tystnadsplikt vid utkontraktering av teknisk
 bearbetning eller lagring av uppgifter
 
 2 § Vid tillämpningen av denna lag ska med myndigheter jämställas
-1. sådana aktiebolag, handelsbolag, ekonomiska föreningar och stiftelser där
+1\. sådana aktiebolag, handelsbolag, ekonomiska föreningar och stiftelser där
 kommuner, regioner eller kommunalförbund utövar ett rättsligt bestämmande in-
 flytande enligt 2 kap. 3 § offentlighets- och sekretesslagen (2009:400), och
-2. de organ som anges i bilagan till offentlighets- och sekretesslagen i fråga om
+2\. de organ som anges i bilagan till offentlighets- och sekretesslagen i fråga om
 de verksamheter som anges där.
 Med en myndighet ska också jämställas yrkesmässigt bedriven enskild verksam-
 het som till någon del är offentligt finansierad och som
-1. tillhör skolväsendet, de särskilda utbildningsformerna eller annan pedagogisk
+1\. tillhör skolväsendet, de särskilda utbildningsformerna eller annan pedagogisk
 verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen (2010:800),
-2. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårdslagen
+2\. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårdslagen
 (2017:30) eller tandvårdslagen (1985:125), eller
-3. bedrivs enligt socialtjänstlagen (2025:400), lagen (1988:870) om vård av
+3\. bedrivs enligt socialtjänstlagen (2025:400), lagen (1988:870) om vård av
 missbrukare i vissa fall, lagen (2026:000) om omhändertagande för vård av barn
 och unga, lagen (1993:387) om stöd och service till vissa funktionshindrade eller
 utgör personlig assistans som utförs med assistansersättning enligt 51 kap. social-
@@ -38220,14 +38220,14 @@ auktorisationssystem i fråga om tjänster för
 elektronisk identifiering och för digital post
 
 4 § Med en offentlig aktör avses i denna lag
-1. en statlig eller kommunal myndighet,
-2. en beslutande församling i en kommun eller region,
-3. en sammanslutning som inrättats särskilt för att tillgodose behov i det
+1\. en statlig eller kommunal myndighet,
+2\. en beslutande församling i en kommun eller region,
+3\. en sammanslutning som inrättats särskilt för att tillgodose behov i det
 allmännas intresse, under förutsättning att behovet inte är av industriell eller
 kommersiell karaktär, och som består av
 a) en eller flera myndigheter eller församlingar som anges i 1 och 2, eller
 b) ett eller flera organ enligt andra stycket,
-4. en privat aktör som yrkesmässigt bedriver verksamhet som till någon del är
+4\. en privat aktör som yrkesmässigt bedriver verksamhet som till någon del är
 offentligt finansierad och som
 a) aktören bedriver i egenskap av enskild huvudman inom skolväsendet eller
 huvudman för en sådan internationell skola som avses i 24 kap. skollagen
@@ -38240,18 +38240,18 @@ och unga eller lagen (1993:387) om stöd och service till vissa funktionshindrad
 eller
 d) utgör personlig assistans som utförs med assistansersättning enligt 51 kap.
 socialförsäkringsbalken, eller
-5. en enskild utbildningsanordnare med tillstånd att utfärda examina enligt lagen
+5\. en enskild utbildningsanordnare med tillstånd att utfärda examina enligt lagen
 (1993:792) om tillstånd att utfärda vissa examina, och som till största delen har
 statsbidrag som finansiering av högskoleutbildning på grundnivå eller avancerad
 nivå eller av utbildning på forskarnivå.
 Med en offentlig aktör avses i denna lag även en sådan juridisk person som
 tillgodoser behov i det allmännas intresse, under förutsättning att behovet inte är
 av industriell eller kommersiell karaktär, och
-1. som till största delen är finansierad av staten, en kommun, en region eller
+1\. som till största delen är finansierad av staten, en kommun, en region eller
 någon av de offentliga aktörer som avses i första stycket 1–4,
-2. vars verksamhet står under kontroll av staten, en kommun, en region eller
+2\. vars verksamhet står under kontroll av staten, en kommun, en region eller
 någon av de offentliga aktörer som avses i första stycket 1–4, eller
-3. i vars styrelse eller motsvarande ledningsorgan mer än halva antalet ledamöter
+3\. i vars styrelse eller motsvarande ledningsorgan mer än halva antalet ledamöter
 är utsedda av staten, en kommun, en region eller någon av de offentliga aktörer
 som avses i första stycket 1–4.
 I paragrafens första stycke fjärde punkten ersätts hänvisningen till hit-
@@ -38267,14 +38267,14 @@ barn och unga. Övervägandena finns i avsnitt 27.
 
 1 kap.
 2 § Med socialtjänst avses i den här lagen
-1. verksamhet som bedrivs med stöd av denna lag,
-2. verksamhet som bedrivs med stöd av lagen (1988:870) om vård av missbru-
+1\. verksamhet som bedrivs med stöd av denna lag,
+2\. verksamhet som bedrivs med stöd av lagen (1988:870) om vård av missbru-
 kare i vissa fall,
-3. verksamhet som bedrivs med stöd av lagen (2024:79) om placering av barn i
+3\. verksamhet som bedrivs med stöd av lagen (2024:79) om placering av barn i
 skyddat boende,
-4. verksamhet som bedrivs med stöd av lagen (2026:000) om omhändertagande
+4\. verksamhet som bedrivs med stöd av lagen (2026:000) om omhändertagande
 för vård av barn och unga, eller
-5. verksamhet som en socialnämnd eller Statens institutionsstyrelse ska bedriva
+5\. verksamhet som en socialnämnd eller Statens institutionsstyrelse ska bedriva
 enligt någon annan lag eller förordning.
 Verksamhet som Statens institutionsstyrelse bedriver med stöd av skollagen
 (2010:800) är inte socialtjänst. Tillsyn eller andra uppgifter som Inspektionen för
@@ -38299,12 +38299,12 @@ motsvarande bestämmelse i den lagen. Övervägandena finns i avsnitt 27.
 11 § Socialnämnden ska noga följa vården av de barn och unga som vårdas i ett
 familjehem, jourhem, stödboende, skyddat boende eller hem för vård eller boende.
 Detta ska främst ske genom
-1. regelbundna personliga besök i det hem eller boende där barnet eller den unge
+1\. regelbundna personliga besök i det hem eller boende där barnet eller den unge
 vårdas,
-2. enskilda samtal med barnet eller den unge,
-3. samtal med den eller dem som tagit emot barnet eller den unge i sitt hem eller
+2\. enskilda samtal med barnet eller den unge,
+3\. samtal med den eller dem som tagit emot barnet eller den unge i sitt hem eller
 på boendet, och
-4. samtal med vårdnadshavarna eller god man enligt lagen (2005:429) om god
+4\. samtal med vårdnadshavarna eller god man enligt lagen (2005:429) om god
 man för ensamkommande barn.
 Socialnämnden ska särskilt uppmärksamma barnets eller den unges hälsa,
 utveckling, sociala beteende, skolgång samt relationer till föräldrar, syskon och
@@ -38369,28 +38369,28 @@ avsedd.
 7 § I fråga om lagen (2026:000) om omhändertagande för vård av barn och unga
 får socialnämnden endast delegera beslutanderätten till ett utskott i ärenden som
 anges i följande bestämmelser i den lagen:
-1. ansökan om omhändertagande för vård enligt 4 kap. 1 §,
-2. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap. 1 och
+1\. ansökan om omhändertagande för vård enligt 4 kap. 1 §,
+2\. omedelbart omhändertagande för vård eller tillfällig vård enligt 5 kap. 1 och
 2 §§,
-3. ansökan om fortsatt omhändertagande för tillfällig vård enligt 5 kap. 9 §,
-4. vårdens genomförande enligt 6 kap. 1 §,
-5. umgänge och hemlighållande av vistelseort enligt 7 kap. 2 §,
-6. övervägande av om omhändertagande för vård fortfarande behövs, vårdens
+3\. ansökan om fortsatt omhändertagande för tillfällig vård enligt 5 kap. 9 §,
+4\. vårdens genomförande enligt 6 kap. 1 §,
+5\. umgänge och hemlighållande av vistelseort enligt 7 kap. 2 §,
+6\. övervägande av om omhändertagande för vård fortfarande behövs, vårdens
 inriktning och utformning samt prövning av om ett omhändertagande för vård ska
 upphöra enligt 8 kap. 2 och 3 §§,
-7. övervägande av ansökan om flyttningsförbud enligt 8 kap. 4 §,
-8. övervägande av ansökan om vårdnadsöverflyttning enligt 9 kap. 1 §,
-9. upphörande av omhändertagande för vård enligt 10 kap. 1 §,
-10. drogtest inför umgänge och drogtest inför upphörande av omhändertagande
+7\. övervägande av ansökan om flyttningsförbud enligt 8 kap. 4 §,
+8\. övervägande av ansökan om vårdnadsöverflyttning enligt 9 kap. 1 §,
+9\. upphörande av omhändertagande för vård enligt 10 kap. 1 §,
+10\. drogtest inför umgänge och drogtest inför upphörande av omhändertagande
 för vård enligt 11 kap. 1 och 2 §§,
-11. ansökan om flyttningsförbud och beslut om tillfälligt flyttningsförbud enligt
+11\. ansökan om flyttningsförbud och beslut om tillfälligt flyttningsförbud enligt
 12 kap. 2 och 6 §§,
-12. övervägande av om flyttningsförbud fortfarande behövs och upphörande av
+12\. övervägande av om flyttningsförbud fortfarande behövs och upphörande av
 flyttningsförbud enligt 12 kap. 4 och 5 §§,
-13. umgänge vid ett flyttningsförbud enligt 12 kap. 12 §,
-14. utreseförbud enligt 13 kap. 2, 4–6 och 12 §§,
-15. förebyggande insatser enligt 14 kap. 1 §, eller
-16. begäran om hjälp av Polismyndigheten eller Kriminalvården enligt 20 kap.
+13\. umgänge vid ett flyttningsförbud enligt 12 kap. 12 §,
+14\. utreseförbud enligt 13 kap. 2, 4–6 och 12 §§,
+15\. förebyggande insatser enligt 14 kap. 1 §, eller
+16\. begäran om hjälp av Polismyndigheten eller Kriminalvården enligt 20 kap.
 1 §.
 I paragrafens ersätts hänvisningen till hittillsvarande lag (1990:52) med
 särskilda bestämmelser om vård av unga med en hänvisning till den nya
@@ -38403,14 +38403,14 @@ tidigare punkt 10. Övervägandena finns i avsnitt 27.
 8 § I fråga om lagen (2024:79) om placering av barn i skyddat boende får
 socialnämnden endast delegera beslutanderätten till ett utskott i ärenden som anges
 i följande bestämmelser i den lagen:
-1. ansökan om vård enligt 3 kap. 3 §,
-2. omedelbar insats i form av skyddat boende enligt 4 kap. 1 §,
-3. vårdens innehåll och utformning enligt 5 kap. 1 §,
-4. överväganden om huruvida insatsen ska fortsätta enligt 5 kap. 3 §,
-5. umgänge och hemlighållande av vistelseort enligt 5 kap. 4 § och
+1\. ansökan om vård enligt 3 kap. 3 §,
+2\. omedelbar insats i form av skyddat boende enligt 4 kap. 1 §,
+3\. vårdens innehåll och utformning enligt 5 kap. 1 §,
+4\. överväganden om huruvida insatsen ska fortsätta enligt 5 kap. 3 §,
+5\. umgänge och hemlighållande av vistelseort enligt 5 kap. 4 § och
 överväganden av sådana beslut enligt 5 kap. 6 §,
-6. upphörande av insats enligt 7 kap. 1 §, eller
-7. begäran om hjälp av Polismyndigheten enligt 8 kap. 7 §.
+6\. upphörande av insats enligt 7 kap. 1 §, eller
+7\. begäran om hjälp av Polismyndigheten enligt 8 kap. 7 §.
 Paragrafen ändras språkligt genom att ordet ”umgängesbegränsning” byts
 ut till ”umgänge”. Någon ändring i sak är inte avsedd. Övervägandena
 finns i avsnitt 27.                               621
@@ -39341,12 +39341,12 @@ informationen.
 vårdnadshavare, besluta att den som är under 15 år ska hålla regelbunden
 kontakt med en kontaktperson som avses i 3 kap. 6 b § första stycket
 socialtjänstlagen (2001:453) om
-1. insatsen bedöms förebygga att barnets hälsa eller utveckling skadas
+1\. insatsen bedöms förebygga att barnets hälsa eller utveckling skadas
 640          på grund av något förhållande i hemmet, och
 
 <!-- sida 818 -->
 
-2. det är lämpligt.                      Bilaga 2
+2\. det är lämpligt.                      Bilaga 2
 
 2 § Socialnämnden får besluta att den som är under 20 år ska delta i öppna
 insatser om det kan antas att han eller hon till följd av ett beteende som
@@ -39356,9 +39356,9 @@ barnet eller den unge behöver inte kan ges med samtycke av barnet eller
 den unge själv, om han eller hon har fyllt 15 år, och av barnets
 vårdnadshavare.
 Med öppna insatser enligt första stycket avses
-1. att barnet eller den unge ska hålla regelbunden kontakt med en särskilt
+1\. att barnet eller den unge ska hålla regelbunden kontakt med en särskilt
 kvalificerad kontaktperson som socialnämnden utsett, eller
-2. att barnet eller den unge ska delta i behandling i öppna former inom
+2\. att barnet eller den unge ska delta i behandling i öppna former inom
 socialtjänsten.
 3 § 2 § är också tillämplig om den som är under 20 år och vårdas med stöd
 av 5 kap. 3 § eller som dömts till sluten ungdomsvård enligt 32 kap. 5 §
@@ -39368,8 +39368,8 @@ beteende som avses i 2 § första stycket.
 4 § När ett beslut enligt 1, 2 eller 3 § meddelas ska en särskild
 genomförandeplan finnas.
 5 § Ett beslut om öppna insatser enligt 2 eller 3 § upphör att gälla, om
-1. beslut fattas om omedelbart omhändertagande, eller
-2. ansökan om vård enligt 5 kap. bifalls.
+1\. beslut fattas om omedelbart omhändertagande, eller
+2\. ansökan om vård enligt 5 kap. bifalls.
 
 Vårdens innehåll och utformning
 6 § För innehåll och utformning av öppna insatser enligt 1, 2 och 3 §§
@@ -39397,10 +39397,10 @@ hemmet finns en påtaglig risk för att barnets hälsa eller utveckling skadas.
 
 Bilaga 2    3 § Vård ska också beslutas om barnet eller den unge utsätter sin hälsa
 eller utveckling för en påtaglig risk att skadas genom
-1. missbruk av alkohol, narkotika, andra beroendeframkallande medel,
+1\. missbruk av alkohol, narkotika, andra beroendeframkallande medel,
 läkemedel eller dopningsmedel,
-2. brottslig verksamhet, eller
-3. något annat i sig självt socialt nedbrytande beteende.
+2\. brottslig verksamhet, eller
+3\. något annat i sig självt socialt nedbrytande beteende.
 Vård ska också beslutas om den som dömts till sluten ungdomsvård
 enligt 32 kap. 5 § brottsbalken vid verkställighetens slut bedöms vara i
 uppenbart behov av fortsatt vård för att inte löpa sådan risk som avses i
@@ -39467,10 +39467,10 @@ Umgänge med närstående
 med föräldrar, vårdnadshavare, syskon och andra närstående.
 Om det är nödvändigt med hänsyn till ändamålet med vård enligt denna
 lag, får socialnämnden
-1. besluta hur barnets umgänge med vårdnadshavare och med föräldrar
+1\. besluta hur barnets umgänge med vårdnadshavare och med föräldrar
 som har umgängesrätt reglerad genom dom eller beslut av domstol eller
 genom avtal ska utövas, eller
-2. besluta att barnets vistelseort inte ska röjas för föräldrar eller
+2\. besluta att barnets vistelseort inte ska röjas för föräldrar eller
 vårdnadshavare.
 Socialnämnden ska minst en gång var tredje månad överväga om ett
 sådant beslut som avses i andra stycket fortfarande behövs.
@@ -39478,9 +39478,9 @@ sådant beslut som avses i andra stycket fortfarande behövs.
 
 1 § Socialnämnden får besluta att den som är under 20 år omedelbart ska
 omhändertas, om
-1. det är sannolikt att barnet eller den unge behöver beredas vård med
+1\. det är sannolikt att barnet eller den unge behöver beredas vård med
 stöd av 5 kap., och
-2. rättens beslut om vård enligt 5 kap. inte kan avvaktas med hänsyn till
+2\. rättens beslut om vård enligt 5 kap. inte kan avvaktas med hänsyn till
 risken för barnets eller den unges hälsa eller utveckling eller till att den
 fortsatta utredningen allvarligt kan försvåras eller vidare åtgärder hindras.
 2 § Om socialnämndens beslut om omhändertagande inte kan avvaktas, får
@@ -39522,11 +39522,11 @@ Förvaltningsrätten får medge förlängning av denna tid, om ytterligare
 utredning eller någon annan särskild omständighet gör det nödvändigt.
 Upphörande m.m.
 10 § Ett omedelbart omhändertagande upphör
-1. om socialnämndens beslut om omedelbart omhändertagande inte har
+1\. om socialnämndens beslut om omedelbart omhändertagande inte har
 underställts förvaltningsrätten inom den tid som föreskrivs i 6 §,
-2. om ansökan om vård enligt 5 kap. inte har gjorts inom den tid som
+2\. om ansökan om vård enligt 5 kap. inte har gjorts inom den tid som
 anges i 9 § och inte heller förlängning av tiden har begärts, eller
-3. när rätten avgör frågan om vård.
+3\. när rätten avgör frågan om vård.
 11 § Om det inte längre finns skäl för ett omhändertagande, ska
 socialnämnden besluta att detta genast ska upphöra. Ett sådant beslut får
 meddelas också av den rätt som prövar en fråga om vård med stöd av lagen.
@@ -39578,12 +39578,12 @@ Vård utanför det egna hemmet
 2 § Socialnämnden ska noga följa vården av den som får vård utanför det
 egna hemmet.
 Socialnämnden ska följa vården främst genom
-1. regelbundna personliga besök i det hem där barnet eller den unge
+1\. regelbundna personliga besök i det hem där barnet eller den unge
 vistas,
-2. enskilda samtal med barnet eller den unge,
-3. samtal med den eller dem som tagit emot barnet eller den unge i sitt
+2\. enskilda samtal med barnet eller den unge,
+3\. samtal med den eller dem som tagit emot barnet eller den unge i sitt
 hem, och
-4. samtal med vårdnadshavarna eller god man enligt lagen (2005:429)
+4\. samtal med vårdnadshavarna eller god man enligt lagen (2005:429)
 om god man för ensamkommande barn.
 645
 
@@ -39671,8 +39671,8 @@ att förbudet ska upphöra.
 
 Tillfälligt flyttningsförbud
 4 § Socialnämnden får besluta om tillfälligt flyttningsförbud, om
-1. det är sannolikt att ett flyttningsförbud behövs, och
-2. rättens beslut om flyttningsförbud inte kan avvaktas med hänsyn till
+1\. det är sannolikt att ett flyttningsförbud behövs, och
+2\. rättens beslut om flyttningsförbud inte kan avvaktas med hänsyn till
 risken för barnets eller den unges hälsa eller utveckling.
 5 § Beslut om tillfälligt flyttningsförbud fattas av den socialnämnd som
 har lämnat medgivande enligt 6 kap. 6 § socialtjänstlagen (2001:453) att
@@ -39699,11 +39699,11 @@ förbud, ska socialnämnden inom två veckor från dagen för förvaltnings-
 rättens beslut ansöka om flyttningsförbud.
 
 9 § Ett tillfälligt flyttningsförbud upphör
-1. om socialnämndens beslut om tillfälligt flyttningsförbud inte har
+1\. om socialnämndens beslut om tillfälligt flyttningsförbud inte har
 underställts förvaltningsrätten inom den tid som föreskrivs i 7 §,
-2. om ansökan om flyttningsförbud inte har gjorts inom den tid som
+2\. om ansökan om flyttningsförbud inte har gjorts inom den tid som
 anges i 8 §, eller
-3. när rätten avgör frågan om flyttningsförbud.
+3\. när rätten avgör frågan om flyttningsförbud.
 10 § Om det inte längre finns skäl för ett tillfälligt flyttningsförbud, ska
 socialnämnden besluta att detta genast ska upphöra. Ett sådant beslut får
 meddelas också av den rätt som prövar en fråga om flyttningsförbud.
@@ -39812,10 +39812,10 @@ eller för personalen.
 anges i 5 kap. 3 § får beredas vård vid en enhet inom hemmet som är låsbar
 eller på annat sätt inrättad för särskilt noggrann tillsyn, om det är
 nödvändigt
-1. med hänsyn till barnets eller den unges, övriga boendes eller
+1\. med hänsyn till barnets eller den unges, övriga boendes eller
 personalens säkerhet,
-2. för att förhindra att barnet eller den unge avviker, eller
-3. för att i övrigt genomföra vården.
+2\. för att förhindra att barnet eller den unge avviker, eller
+3\. för att i övrigt genomföra vården.
 11 § Barnet eller den unge får vårdas vid en låsbar enhet under högst två
 månader i följd. Om särskilda behandlingsskäl föranleder det, får dock
 vården vid enheten pågå längre tid, förutsatt att någon av de förutsättningar
@@ -39912,8 +39912,8 @@ Vård i enskildhet
 20 § Den som vårdas vid ett särskilt ungdomshem på någon grund som
 anges i 5 kap. 3 § får hindras från att träffa andra boende om det är
 nödvändigt med hänsyn till
-1. barnets eller den unges särskilda behov av vård, eller
-2. hans eller hennes säkerhet eller övriga boendes säkerhet.
+1\. barnets eller den unges särskilda behov av vård, eller
+2\. hans eller hennes säkerhet eller övriga boendes säkerhet.
 Vård i enskildhet ska vara individuellt anpassad efter barnets eller den
 unges särskilda behov.
 En fråga om vård i enskildhet ska prövas fortlöpande och alltid
@@ -39935,26 +39935,26 @@ bestämd tid, dock högst fyra veckor.
 Uppföljande samtal                        Bilaga 2
 23 § Barnet eller den unge ska erbjudas ett uppföljande samtal efter ett
 verkställt beslut om
-1. kroppsvisitation och ytlig kroppsbesiktning enligt 6 §,
-2. rumsvisitation enligt 7 §,
-3. avskiljning i ett rum med öppen dörr enligt 16 §, och
-4. avskiljning i ett rum med låst dörr enligt 18 §.
+1\. kroppsvisitation och ytlig kroppsbesiktning enligt 6 §,
+2\. rumsvisitation enligt 7 §,
+3\. avskiljning i ett rum med öppen dörr enligt 16 §, och
+4\. avskiljning i ett rum med låst dörr enligt 18 §.
 Under samtalet ska barnet eller den unge få information om vad som var
 anledningen till att skyddsåtgärden behövde tillgripas och ges möjlighet
 att tala om hur han eller hon uppfattar att skyddsåtgärden hade kunnat
 undvikas.
 Underrättelse till Inspektionen för vård och omsorg
 24 § Inspektionen för vård och omsorg ska underrättas om beslut om
-1. kroppsvisitation och ytlig kroppsbesiktning enligt 6 §,
-2. rumsvisitation enligt 7 §,
-3. vård vid låsbar enhet enligt 10 §,
-4. provtagning för kontroll av berusningsmedel m.m. enligt 12 §,
-5. begränsningar av rätten att ta emot besök enligt 13 §,
-6. begränsningar av rätten att använda elektroniska kommunikations-
+1\. kroppsvisitation och ytlig kroppsbesiktning enligt 6 §,
+2\. rumsvisitation enligt 7 §,
+3\. vård vid låsbar enhet enligt 10 §,
+4\. provtagning för kontroll av berusningsmedel m.m. enligt 12 §,
+5\. begränsningar av rätten att ta emot besök enligt 13 §,
+6\. begränsningar av rätten att använda elektroniska kommunikations-
 tjänster enligt 14 §,
-7. avskiljning i ett rum med öppen dörr enligt 16 §,
-8. avskiljning i ett rum med låst dörr enligt 18 §, och
-9. vård i enskildhet enligt 20 §.
+7\. avskiljning i ett rum med öppen dörr enligt 16 §,
+8\. avskiljning i ett rum med låst dörr enligt 18 §, och
+9\. vård i enskildhet enligt 20 §.
 Tillgång till hälso- och sjukvård
 25 § Får någon som tillhör hälso- och sjukvårdspersonalen och är verksam
 vid ett särskilt ungdomshem kännedom om att barnet eller den unge har en
@@ -40083,45 +40083,45 @@ Bilaga 2    15 kap. Överklagande
 
 1 § Socialnämndens beslut får överklagas hos förvaltningsrätten, när
 nämnden har
-1. beslutat om var vården av barnet eller den unge ska inledas eller
+1\. beslutat om var vården av barnet eller den unge ska inledas eller
 beslutat i fråga om att flytta barnet eller den unge från det hem där han
 eller hon vistas,
-2. fattat beslut enligt 4 kap. 1, 2 eller 3 § eller prövat om ett sådant beslut
+2\. fattat beslut enligt 4 kap. 1, 2 eller 3 § eller prövat om ett sådant beslut
 ska upphöra att gälla,
-3. beslutat i fråga om fortsatt vård med stöd av 5 kap.,
-4. med stöd av 6 kap. 6 § beslutat i fråga om umgänge eller beslutat att
+3\. beslutat i fråga om fortsatt vård med stöd av 5 kap.,
+4\. med stöd av 6 kap. 6 § beslutat i fråga om umgänge eller beslutat att
 barnets vistelseort inte ska röjas,
-5. med stöd av 12 kap. 11 § beslutat i fråga om umgänge, eller
-6. beslutat i fråga om fortsatt flyttningsförbud.
+5\. med stöd av 12 kap. 11 § beslutat i fråga om umgänge, eller
+6\. beslutat i fråga om fortsatt flyttningsförbud.
 Andra beslut av nämnden enligt denna lag får inte överklagas.
 Rättens beslut enligt 7 kap. 9 § i fråga om förlängd ansökningstid och
 enligt 14 kap. 3 § om läkarundersökning får inte överklagas.
 2 § Beslut av Statens institutionsstyrelse enligt denna lag får överklagas
 hos förvaltningsrätten, om beslutet gäller
-1. förstörande eller försäljning av egendom enligt 13 kap. 5 §,
-2. kroppsvisitation och ytlig kroppsbesiktning enligt 13 kap. 6 §,
-3. rumsvisitation enligt 13 kap. 7 §,
-4. vård vid låsbar enhet enligt 13 kap. 10 §,
-5. provtagning för kontroll av berusningsmedel m.m. enligt 13 kap. 12 §,
-6. begränsningar av rätten att ta emot besök enligt 13 kap. 13 §,
-7. begränsningar av rätten att använda elektroniska kommunikations-
+1\. förstörande eller försäljning av egendom enligt 13 kap. 5 §,
+2\. kroppsvisitation och ytlig kroppsbesiktning enligt 13 kap. 6 §,
+3\. rumsvisitation enligt 13 kap. 7 §,
+4\. vård vid låsbar enhet enligt 13 kap. 10 §,
+5\. provtagning för kontroll av berusningsmedel m.m. enligt 13 kap. 12 §,
+6\. begränsningar av rätten att ta emot besök enligt 13 kap. 13 §,
+7\. begränsningar av rätten att använda elektroniska kommunikations-
 tjänster enligt 13 kap. 14 §,
-8. övervakning av brev och andra försändelser enligt 13 kap. 15 §,
-9. avskiljning i ett rum med öppen dörr enligt 13 kap. 16 §,
-10. avskiljning i ett rum med låst dörr enligt 13 kap. 18 §, eller
-11. vård i enskildhet enligt 13 kap. 20 §.
+8\. övervakning av brev och andra försändelser enligt 13 kap. 15 §,
+9\. avskiljning i ett rum med öppen dörr enligt 13 kap. 16 §,
+10\. avskiljning i ett rum med låst dörr enligt 13 kap. 18 §, eller
+11\. vård i enskildhet enligt 13 kap. 20 §.
 Överklagande prövas av den förvaltningsrätt som meddelat beslutet om
 vård.
 Prövningstillstånd krävs vid överklagande till kammarrätten.
 16 kap. Övriga bestämmelser
 1 § Polismyndigheten ska lämna biträde för att på begäran av
-1. socialnämnden eller nämndens ordförande eller rätten bereda en
+1\. socialnämnden eller nämndens ordförande eller rätten bereda en
 läkare, som avses i 14 kap. 3 §, tillträde till barnets eller den unges hem
 eller för att föra barnet eller den unge till läkarundersökningen,
-2. socialnämnden eller någon ledamot eller tjänsteman som nämnden
+2\. socialnämnden eller någon ledamot eller tjänsteman som nämnden
 har förordnat genomföra beslut om vård eller omhändertagande med stöd
 av denna lag,
-3. Statens institutionsstyrelse efterforska och återhämta den som vårdas
+3\. Statens institutionsstyrelse efterforska och återhämta den som vårdas
 vid ett särskilt ungdomshem på någon grund som anges i 5 kap. 3 §, om
 barnet eller den unge har avvikit från hemmet, eller för att ombesörja
 någon annan förflyttning av honom eller henne, och
@@ -40129,7 +40129,7 @@ någon annan förflyttning av honom eller henne, och
 
 <!-- sida 834 -->
 
-4. på begäran av verksamhetschefen i fall som avses i 13 kap. 26 § föra Bilaga 2
+4\. på begäran av verksamhetschefen i fall som avses i 13 kap. 26 § föra Bilaga 2
 barnet eller den unge till ett särskilt ungdomshem.
 
 2 § Den som överträder ett flyttningsförbud eller ett tillfälligt
@@ -40138,29 +40138,29 @@ Allmänt åtal får väckas endast efter medgivande av socialnämnden eller
 Socialstyrelsen.
 3 § Beslut om vård med stöd av 5 eller 7 kap. denna lag hindrar inte beslut
 om
-1. avvisning eller utvisning enligt utlänningslagen (2005:716),
-2. utvisning enligt lagen (1991:572) om särskild utlänningskontroll,
-3. utlämning enligt lagen (1957:668) om utlämning för brott,
-4. överlämnande enligt lagen (2011:1165) om överlämnande från
+1\. avvisning eller utvisning enligt utlänningslagen (2005:716),
+2\. utvisning enligt lagen (1991:572) om särskild utlänningskontroll,
+3\. utlämning enligt lagen (1957:668) om utlämning för brott,
+4\. överlämnande enligt lagen (2011:1165) om överlämnande från
 Sverige enligt en nordisk arresteringsorder,
-5. utlämning enligt lagen (1970:375) om utlämning till Danmark,
+5\. utlämning enligt lagen (1970:375) om utlämning till Danmark,
 Finland, Island eller Norge för verkställighet av beslut om vård eller
 behandling,
-6. utlämning enligt lagen (1994:569) om Sveriges samarbete med de
+6\. utlämning enligt lagen (1994:569) om Sveriges samarbete med de
 internationella tribunalerna för brott mot internationell humanitär rätt,
-7. överlämnande enligt lagen (2002:329) om samarbete med
+7\. överlämnande enligt lagen (2002:329) om samarbete med
 Internationella brottmålsdomstolen,
-8. överlämnande enligt lagen (2003:1156) om överlämnande från
+8\. överlämnande enligt lagen (2003:1156) om överlämnande från
 Sverige enligt en europeisk arresteringsorder, eller
-9. utlämning enligt lagen (2006:615) om samarbete med
+9\. utlämning enligt lagen (2006:615) om samarbete med
 Specialdomstolen för Sierra Leone.
 Vård med stöd av 5 eller 7 kap. denna lag upphör när ett beslut enligt
 första stycket 1–9 har verkställts.
 
-1. Denna lag (nya lagen) träder i kraft den 1 juli 2017.
-2. Genom lagen upphävs lagen (1990:52) med särskilda bestämmelser
+1\. Denna lag (nya lagen) träder i kraft den 1 juli 2017.
+2\. Genom lagen upphävs lagen (1990:52) med särskilda bestämmelser
 om vård av unga (gamla lagen).
-3. För den som vid lagens ikraftträdande omfattas av åtgärder enligt den
+3\. För den som vid lagens ikraftträdande omfattas av åtgärder enligt den
 gamla lagen ska bestämmelserna i den nya lagen gälla. Särskilda
 befogenheter som har beslutats före ikraftträdandet fortsätter att gälla,
 dock med de tidsfrister och övriga regler för användandet som gäller för
@@ -40233,11 +40233,11 @@ annan vårdgivare för vidare medicinsk bedömning eller behandling.
 
 4 § Regeringen eller den myndighet som regeringen bestämmer meddelar
 föreskrifter om
-1. erbjudanden om hälsoundersökning enligt lagen,
-2. genomförande av hälsoundersökning enligt lagen,
-3. utformning av den medicinska bedömning som hälsoundersökningen
+1\. erbjudanden om hälsoundersökning enligt lagen,
+2\. genomförande av hälsoundersökning enligt lagen,
+3\. utformning av den medicinska bedömning som hälsoundersökningen
 ska leda fram till, samt
-4. landstingets åtgärder till följd av hälsoundersökningen och den
+4\. landstingets åtgärder till följd av hälsoundersökningen och den
 medicinska bedömningen.
 
 Denna lag träder i kraft den 1 juli 2017.
@@ -40372,12 +40372,12 @@ den kommun som begärt placeringen.
 7 b §
 Socialnämnden ska noga följa vården av de barn och unga som vårdas i
 ett familjehem, jourhem eller hem för vård eller boende främst genom
-1. regelbundna personliga besök i det hem där barnet eller den unge
+1\. regelbundna personliga besök i det hem där barnet eller den unge
 vistas,
-2. enskilda samtal med barnet eller den unge,
-3. samtal med den eller dem som tagit emot barnet eller den unge i sitt
+2\. enskilda samtal med barnet eller den unge,
+3\. samtal med den eller dem som tagit emot barnet eller den unge i sitt
 hem, och
-4. samtal med vårdnadshavarna. 4. samtal med vårdnadshavarna
+4\. samtal med vårdnadshavarna. 4. samtal med vårdnadshavarna
 eller god man enligt lagen
 (2005:429) om god man för
 ensamkommande barn.
@@ -40919,26 +40919,26 @@ Nuvarande lydelse    Föreslagen lydelse
 1 §
 Denna lag gäller beträffande besök på vårdinstitutioner och
 sjukvårdsinrättningar till dem som är tvångsintagna för vård enligt
-1. lagen (1988:870) om vård av missbrukare i vissa fall,
-2. lagen (1990:52) med särskilda 2. lagen (2017:00) med särskilda
+1\. lagen (1988:870) om vård av missbrukare i vissa fall,
+2\. lagen (1990:52) med särskilda 2. lagen (2017:00) med särskilda
 bestämmelser om vård av unga, bestämmelser om vård av barn och
 unga,
-3. lagen (1991:1128) om psykiatrisk tvångsvård,
-4. lagen (1991:1129) om rättspsykiatrisk vård, och
-5. lagen (1993:388) om införande av lagen (1993:387) om stöd och
+3\. lagen (1991:1128) om psykiatrisk tvångsvård,
+4\. lagen (1991:1129) om rättspsykiatrisk vård, och
+5\. lagen (1993:388) om införande av lagen (1993:387) om stöd och
 service till vissa funktionshindrade.
 Lagen gäller också för besök till dem som är isolerade enligt 5 kap. 1 §
 eller tillfälligt isolerade enligt 5 kap. 3 § smittskyddslagen (2004:168).
 4 §
 Vad som sägs i 3 § gäller inte Vad som sägs i 3 § gäller inte
-1. besök av personer för vilka 14 1. besök av personer för vilka
+1\. besök av personer för vilka 14 1. besök av personer för vilka
 § andra stycket 1 lagen (1990:52) 6 kap. 6 § andra stycket 1 lagen
 med särskilda bestämmelser om (2017:00) med särskilda be-
 vård av unga är tillämplig, stämmelser om vård av barn och
 unga är tillämplig,
-2. inskränkningar i den intagnes rätt när 5 kap. 12 § smittskyddslagen
+2\. inskränkningar i den intagnes rätt när 5 kap. 12 § smittskyddslagen
 (2004:168) är tillämplig, och
-3. när 8 § andra stycket lagen (1991:1129) om rättspsykiatrisk vård är
+3\. när 8 § andra stycket lagen (1991:1129) om rättspsykiatrisk vård är
 tillämpligt.
 Denna lag träder i kraft den 1 juli 2017.
 
@@ -40957,7 +40957,7 @@ Nuvarande lydelse    Föreslagen lydelse
 1 §
 Ett landsting och en eller flera kommuner som ingår i landstinget får
 genom samverkan i en gemensam nämnd gemensamt fullgöra
-1. landstingets uppgifter
+1\. landstingets uppgifter
 – enligt hälso- och sjukvårdslagen (1982:763),
 – enligt tandvårdslagen (1985:125),
 – enligt lagen (1991:1128) om psykiatrisk tvångsvård,
@@ -40970,7 +40970,7 @@ funktionshindrade,
 handhas av en sådan nämnd som handhas av en sådan nämnd som
 avses i 10 § hälso- och sjuk- avses i 10 § hälso- och sjuk-
 vårdslagen, och      vårdslagen, och
-2. kommunens uppgifter
+2\. kommunens uppgifter
 – enligt socialtjänstlagen (2001:453),
 – enligt hälso- och sjukvårdslagen,
 – enligt lagen (1988:870) om vård av missbrukare i vissa fall,
@@ -41034,14 +41034,14 @@ Nuvarande lydelse    Föreslagen lydelse
 7 kap.
 2 §
 Försäkrad för statligt personskadeskydd enligt 43 kap. är
-1. den som tjänstgör enligt lagen (1994:1809) om totalförsvarsplikt, eller
+1\. den som tjänstgör enligt lagen (1994:1809) om totalförsvarsplikt, eller
 inställer sig till mönstring eller annan uttagning enligt den lagen eller
 genomgår militär utbildning inom Försvarsmakten som rekryt,
-2. den som medverkar i räddningstjänst eller i övning med en kommunal
+2\. den som medverkar i räddningstjänst eller i övning med en kommunal
 organisation för räddningstjänst enligt lagen (2003:778) om skydd mot
 olyckor, eller i räddningstjänst enligt 10 kap. 1 § andra stycket
 luftfartslagen (2010:500),
-3. den som är intagen för vård i 3. den som är intagen för vård i
+3\. den som är intagen för vård i 3. den som är intagen för vård i
 kriminalvårdsanstalt, i ett hem som kriminalvårdsanstalt, i ett hem som
 avses i 12 § lagen (1990:52) med avses i 13 kap. 1 § lagen (2017:00)
 särskilda bestämmelser om vård av med särskilda bestämmelser om
@@ -41055,9 +41055,9 @@ eller polisarrest,   kriminalvårdsanstalt, häkte eller
 polisarrest,
 4 den som utför samhällstjänst på grund av en föreskrift som har
 meddelats med stöd av 27 kap. 2 a § eller 28 kap. 2 a § brottsbalken,
-5. den som utför ungdomstjänst enligt 32 kap. 2 § eller 3 § första
+5\. den som utför ungdomstjänst enligt 32 kap. 2 § eller 3 § första
 stycket 1 brottsbalken, och
-6. den som utför oavlönat arbete enligt en föreskrift som har meddelats
+6\. den som utför oavlönat arbete enligt en föreskrift som har meddelats
 med stöd av 8 § första stycket 2 lagen (1994:451) om intensivövervakning
 med elektronisk kontroll.
 102 kap.
@@ -41096,15 +41096,15 @@ föreståndaren att användas för till föreståndaren att användas för
 kvinnans och barnets nytta. kvinnans och barnets nytta.
 12 §
 Sjukpenning lämnas inte för tid när den försäkrade
-1. fullgör någon annan tjänstgöring enligt lagen (1994:1809) om
+1\. fullgör någon annan tjänstgöring enligt lagen (1994:1809) om
 totalförsvarsplikt än grundutbildning som är längre än 60 dagar,
-2. är intagen i sådant hem som 2. är intagen i sådant hem som
+2\. är intagen i sådant hem som 2. är intagen i sådant hem som
 avses i 12 § lagen (1990:52) med avses i 13 kap. 1 § lagen (2017:00)
 särskilda bestämmelser om vård av med särskilda bestämmelser om
 unga med stöd av 3 § samma lag, vård av barn och unga med stöd av
 5 kap. 3 § samma lag,
-3. är häktad eller intagen i kriminalvårdsanstalt, eller
-4. i annat fall än som anges i 2 eller 3 av någon annan orsak än
+3\. är häktad eller intagen i kriminalvårdsanstalt, eller
+4\. i annat fall än som anges i 2 eller 3 av någon annan orsak än
 sjukdom tagits om hand på det allmännas bekostnad.
 Denna lag träder i kraft den 1 juli 2017.
 
@@ -41241,24 +41241,24 @@ enheten väl synliga för de boende.
 1 a §
 En vårdplan enligt 11 kap. 3 § första stycket socialtjänstlagen
 (2001:453) ska, om det inte möter särskilda hinder, beskriva
-1. de särskilda insatser som 1. målet med vården,
+1\. de särskilda insatser som 1. målet med vården,
 behövs,               2. de särskilda insatser som
-2. det sätt på vilket den unges behövs, och
+2\. det sätt på vilket den unges behövs, och
 umgänge med föräldrar, vård- 3. den vårdbehövandes syn
 nadshavare och andra närstående på den planerade vården.
 ska ordnas,           En vårdplan som gäller barn ska
-3. målet med vården, och även, om det inte möter särskilda
-4. den vårdbehövandes och, i hinder, beskriva
+3\. målet med vården, och även, om det inte möter särskilda
+4\. den vårdbehövandes och, i hinder, beskriva
 fråga om barn, även hans eller 4. det sätt på vilket barnets
 hennes vårdnadshavares syn på den umgänge med föräldrar, vårdnads-
 planerade vården     havare och andra närstående ska
 ordnas,
-5. vilka förändringar som krävs
+5\. vilka förändringar som krävs
 för att barnet ska kunna återvända
 hem och vilket stöd nämnden kan
 erbjuda för att det ska vara möjligt,
 samt
-6. vårdnadshavares syn på
+6\. vårdnadshavares syn på
 den planerade vården.
 685
 
@@ -41266,17 +41266,17 @@ den planerade vården.
 
 Bilaga 2     En genomförandeplan enligt 11 kap. 3 § andra stycket socialtjänstlagen
 ska, om det inte möter särskilda hinder, beskriva
-1. målet med de särskilda insatser som behövs,
-2. när och hur de särskilda insatserna ska genomföras,
-3. när och hur genomförandeplanen ska följas upp,
-4. när och hur den unge ska kunna tillgodogöra sig åtgärder och insatser
+1\. målet med de särskilda insatser som behövs,
+2\. när och hur de särskilda insatserna ska genomföras,
+3\. när och hur genomförandeplanen ska följas upp,
+4\. när och hur den unge ska kunna tillgodogöra sig åtgärder och insatser
 som andra huvudmän än socialnämnden ansvarar för,
-5. när och hur den unges umgänge med föräldrar, vårdnadshavare och
+5\. när och hur den unges umgänge med föräldrar, vårdnadshavare och
 andra närstående ska ordnas,
-6. när och hur den unge ska ha kontakt med socialnämnden,
-7. den unges och, i fråga om barn, hans eller hennes vårdnadshavares
+6\. när och hur den unge ska ha kontakt med socialnämnden,
+7\. den unges och, i fråga om barn, hans eller hennes vårdnadshavares
 syn på genomförandet av den planerade vården, och
-8. hur barnet eller den unge ska
+8\. hur barnet eller den unge ska
 förberedas för tiden efter det att en
 placering i ett familjehem eller hem
 för vård eller boende har avslutats.
@@ -41683,10 +41683,10 @@ inställning.
 Socialnämnden får besluta att Socialnämnden får besluta att
 den som är under 20 år omedelbart den som är under 20 år omedelbart
 skall omhändertas, om ska omhändertas, om
-1. det är sannolikt att den unge 1. det är sannolikt att barnet eller
+1\. det är sannolikt att den unge 1. det är sannolikt att barnet eller
 behöver beredas vård med stöd av den unge behöver ges vård med
 denna lag, och       stöd av denna lag, och
-2. rättens beslut om vård inte kan 2. rättens beslut om vård inte kan
+2\. rättens beslut om vård inte kan 2. rättens beslut om vård inte kan
 avvaktas med hänsyn till risken för avvaktas med hänsyn till risken för
 den unges hälsa eller utveckling barnets eller den unges hälsa eller
 eller till att den fortsatta ut- utveckling eller till att den fortsatta
@@ -41710,14 +41710,14 @@ att besluta om beredande av vård att besluta om vård enligt denna
 enligt denna lag, får socialnämnden lag, får socialnämnden besluta att
 besluta att den som är under 18 år den som är under 18 år omedelbart
 omedelbart ska omhändertas, om ska omhändertas, om
-1. åtgärder av behörig utländsk 1. åtgärder av behörig utländsk
+1\. åtgärder av behörig utländsk 1. åtgärder av behörig utländsk
 myndighet inte kan avvaktas med myndighet inte kan avvaktas med
 hänsyn till risken för den unges hänsyn till risken för barnets hälsa
 hälsa eller utveckling eller till att eller utveckling eller till att den
 den fortsatta utredningen allvarligt fortsatta utredningen allvarligt kan
 kan försvåras eller vidare åtgärder försvåras eller vidare åtgärder
 hindras, och         hindras, och
-2. det är sannolikt att den unge 2. det är sannolikt att barnet
+2\. det är sannolikt att den unge 2. det är sannolikt att barnet
 tillfälligt behöver vård som avses i tillfälligt behöver vård som avses i
 696          denna lag.           denna lag.
 
@@ -41743,17 +41743,17 @@ dag  då  omhändertagandet från den dag då omhändertagandet
 verkställdes ansöka hos verkställdes ansöka hos
 förvaltningsrätten om att den unge förvaltningsrätten om att barnet
 ska                  eller den unge ska
-1. beredas vård med stöd av 1. ges vård med stöd av denna
+1\. beredas vård med stöd av 1. ges vård med stöd av denna
 denna lag, eller     lag, eller
-2. vara fortsatt omhändertagen för tillfällig vård enligt 9 a §.
+2\. vara fortsatt omhändertagen för tillfällig vård enligt 9 a §.
 Förvaltningsrätten får medge förlängning av denna tid, om ytterligare
 utredning eller någon annan särskild omständighet gör det nödvändigt.
 9 §
 Ett omedelbart omhändertagande upphör
-1. om ansökan om vård eller ansökan om fortsatt omhändertagande för
+1\. om ansökan om vård eller ansökan om fortsatt omhändertagande för
 tillfällig vård enligt 9 a § inte har gjorts inom den tid som anges i 8 § och
 inte heller förlängning av tiden har begärts, eller
-2. när rätten avgör frågan om vård eller frågan om fortsatt
+2\. när rätten avgör frågan om vård eller frågan om fortsatt
 omhändertagande.
 Ett beslut om omedelbart omhän- Ett beslut om omedelbart omhän-
 dertagande får inte verkställas om dertagande får inte verkställas om
@@ -41945,15 +41945,15 @@ föräldrar.           föräldrar.
 Socialnämnden ska noga följa vården av den som får vård med stöd av
 denna lag.
 Socialnämnden ska följa vården främst genom
-1. regelbundna personliga besök 1. regelbundna personliga besök
+1\. regelbundna personliga besök 1. regelbundna personliga besök
 i det hem där den unge vistas, i det hem där barnet eller den unge
 vistas,
-2. enskilda samtal med den unge, 2. enskilda samtal med barnet
+2\. enskilda samtal med den unge, 2. enskilda samtal med barnet
 eller den unge,
-3. samtal med den eller dem som 3. samtal med den eller dem som
+3\. samtal med den eller dem som 3. samtal med den eller dem som
 tagit emot den unge i sitt hem, och tagit emot barnet eller den unge i
 sitt hem, och
-4. samtal med vårdnadshavarna.
+4\. samtal med vårdnadshavarna.
 Socialnämnden ska särskilt Socialnämnden ska särskilt upp-
 uppmärksamma den unges hälsa, märksamma barnets eller den
 utveckling, sociala beteende, unges hälsa, utveckling, sociala
@@ -41966,13 +41966,13 @@ med föräldrar och vårdnadshavare föräldrar och vårdnadshavare så
 så långt möjligt tillgodoses. långt möjligt tillgodoses.
 Om det är nödvändigt med hänsyn till ändamålet med vård enligt denna
 lag, får socialnämnden.
-1. besluta hur den unges 1. besluta hur barnets umgänge
+1\. besluta hur den unges 1. besluta hur barnets umgänge
 umgänge med vårdnadshavare och med vårdnadshavare och med
 med  föräldrar som har föräldrar som har umgängesrätt
 umgängesrätt reglerad genom dom reglerad genom dom eller beslut av
 eller beslut av domstol eller genom domstol eller genom avtal ska
 avtal ska utövas, eller utövas, eller
-2. besluta att den unges 2. besluta att barnets vistelseort
+2\. besluta att den unges 2. besluta att barnets vistelseort
 vistelseort inte ska röjas för inte ska röjas för föräldrar eller
 föräldrar eller vårdnadshavare. vårdnadshavare.
 Socialnämnden ska minst en gång var tredje månad överväga om ett
@@ -42006,10 +42006,10 @@ enhet inom hemmet som är låsbar enhet inom hemmet som är låsbar
 eller på något annat sätt inrättad för eller på något annat sätt inrättad för
 särskilt noggrann tillsyn (vård vid särskilt noggrann tillsyn (vård vid
 låsbar enhet),       låsbar enhet),
-1. om det är nödvändigt med 1. om det är nödvändigt med hän-
+1\. om det är nödvändigt med 1. om det är nödvändigt med hän-
 hänsyn till den unges eller andras syn till barnets eller den unges eller
 säkerhet, eller      andras säkerhet, eller
-2. om det är nödvändigt för att 2. om det är nödvändigt för att
+2\. om det är nödvändigt för att 2. om det är nödvändigt för att
 förhindra att den unge avviker eller förhindra att barnet eller den unge
 för att i övrigt genomföra vården. avviker eller för att i övrigt
 genomföra vården.
@@ -42181,9 +42181,9 @@ granskning.
 Den unge ska erbjudas ett uppföl- Barnet eller den unge ska
 jande samtal efter ett verkställt erbjudas ett uppföljande samtal
 beslut om            efter ett verkställt beslut om
-1. avskildhet enligt 15 c §,
-2. kroppsvisitation och ytlig kroppsbesiktning enligt 17 §, eller
-3. rumsvisitation enligt 17 b §.
+1\. avskildhet enligt 15 c §,
+2\. kroppsvisitation och ytlig kroppsbesiktning enligt 17 §, eller
+3\. rumsvisitation enligt 17 b §.
 Under samtalet ska den unge få Under samtalet ska barnet eller
 information om vad som var den unge få information om vad 705
 
@@ -42297,7 +42297,7 @@ Bilaga 5     1. att den unge ska hålla 1. att barnet eller den unge ska
 regelbunden kontakt med en hålla regelbunden kontakt med en
 särskilt kvalificerad kontaktperson särskilt kvalificerad kontaktperson
 som socialnämnden utsett, eller som socialnämnden utsett, eller
-2. att den unge ska delta i 2. att barnet eller den unge ska
+2\. att den unge ska delta i 2. att barnet eller den unge ska
 behandling i öppna former inom delta i behandling i öppna former
 socialtjänsten.      inom socialtjänsten.
 När ett sådant beslut meddelas, ska en särskild behandlingsplan finnas.
@@ -42319,15 +42319,15 @@ för att hindra ett sådant beteende som avses i första stycket.
 Beslut om utreseförbud meddelas av förvaltningsrätten efter ansökan av
 socialnämnden.
 Ansökan ska innehålla en redogörelse för
-1. den unges förhållanden, 1. barnets förhållanden,
-2. de omständigheter som utgör 2. de omständigheter som utgör
+1\. den unges förhållanden, 1. barnets förhållanden,
+2\. de omständigheter som utgör 2. de omständigheter som utgör
 grund för att den unge behöver grund för att barnet behöver
 skyddas genom ett utreseförbud, skyddas genom ett utreseförbud,
-3. tidigare vidtagna åtgärder,
-4. hur relevant information 4. hur relevant information
+3\. tidigare vidtagna åtgärder,
+4\. hur relevant information 4. hur relevant information
 lämnats till den unge, lämnats till barnet,
-5. vilket slags relevant information som lämnats, och
-6. den unges inställning. 6. barnets inställning.
+5\. vilket slags relevant information som lämnats, och
+6\. den unges inställning. 6. barnets inställning.
 31c §
 Om ett utreseförbud har meddelats ska socialnämnden inom sex
 månader från dagen för beslutet pröva om utreseförbudet ska upphöra.
@@ -42344,8 +42344,8 @@ upphör senast när den unge fyller upphör senast när barnet fyller 18
 
 <!-- sida 886 -->
 
-1. det är sannolikt att ett utreseförbud behövs, och Bilaga 5
-2. rättens beslut om utreseförbud 2. rättens beslut om utreseförbud
+1\. det är sannolikt att ett utreseförbud behövs, och Bilaga 5
+2\. rättens beslut om utreseförbud 2. rättens beslut om utreseförbud
 inte kan avvaktas med hänsyn till inte kan avvaktas med hänsyn till
 risken för att den unge förs risken för att barnet förs utomlands
 utomlands eller lämnar Sverige. eller lämnar Sverige.
@@ -42516,27 +42516,27 @@ omedelbart.
 41 §
 Socialnämndens beslut får överklagas till allmän förvaltningsdomstol,
 när nämnden har
-1. beslutat om var vården av den 1. beslutat om var vården av
+1\. beslutat om var vården av den 1. beslutat om var vården av
 unge ska inledas eller beslutat i barnet eller den unge ska inledas
 fråga om att flytta den unge från det eller beslutat i fråga om att flytta
 hem där han eller hon vistas, barnet eller den unge från det hem
 där han eller hon vistas,
-2. beslutat i fråga om fortsatt vård med stöd av lagen,
-3. med stöd av 14 § beslutat i 3. med stöd av 14 § beslutat i
+2\. beslutat i fråga om fortsatt vård med stöd av lagen,
+3\. med stöd av 14 § beslutat i 3. med stöd av 14 § beslutat i
 fråga om umgänge eller beslutat att fråga om umgänge eller beslutat att
 den unges vistelseort inte ska röjas, barnets eller den unges vistelseort
 inte ska röjas,
-4. fattat beslut enligt 22 § eller prövat om ett sådant beslut ska upphöra
+4\. fattat beslut enligt 22 § eller prövat om ett sådant beslut ska upphöra
 att gälla,
-5. med stöd av 31 § beslutat i fråga om umgänge,
-6. beslutat i fråga om fortsatt
+5\. med stöd av 31 § beslutat i fråga om umgänge,
+6\. beslutat i fråga om fortsatt
 flyttningsförbud,
-7. beslutat i fråga om 6. beslutat i fråga om
+7\. beslutat i fråga om 6. beslutat i fråga om
 upphörande av ett fortsatt upphörande av ett fortsatt
 omhändertagande för tillfällig vård omhändertagande för tillfällig vård
-8. beslutat i fråga om fortsatt 7 beslutat i fråga om fortsatt
+8\. beslutat i fråga om fortsatt 7 beslutat i fråga om fortsatt
 utreseförbud, eller  utreseförbud, eller
-9. beslutat i fråga om tillfälligt 8. beslutat i fråga om tillfälligt
+9\. beslutat i fråga om tillfälligt 8. beslutat i fråga om tillfälligt
 undantag från ett utreseförbud. undantag från ett utreseförbud.
 Andra beslut av nämnden enligt denna lag får inte överklagas.
 Rättens beslut enligt 8 och 31 f §§ i fråga om förlängd ansökningstid och
@@ -42548,16 +42548,16 @@ i ett sådant särskilt hem som avses i 12 §, Kriminalvården ska lämna hjälp
 
 <!-- sida 890 -->
 
-1. socialnämnden eller nämndens 1. socialnämnden eller nämndens Bilaga 5
+1\. socialnämnden eller nämndens 1. socialnämnden eller nämndens Bilaga 5
 ordförande eller rätten bereda en ordförande eller rätten bereda en
 läkare, som avses i 32 §, tillträde till läkare, som avses i 32 §, tillträde till
 den unges hem eller för att föra den barnets eller den unges hem eller
 unge till läkarundersökningen, för att föra barnet eller den unge till
 läkarundersökningen,
-2. socialnämnden eller någon ledamot eller tjänsteman som nämnden
+2\. socialnämnden eller någon ledamot eller tjänsteman som nämnden
 har förordnat genomföra beslut om vård eller omhändertagande med stöd
 av denna lag, och
-3. Statens institutionsstyrelse 3. Statens institutionsstyrelse
+3\. Statens institutionsstyrelse 3. Statens institutionsstyrelse
 efterforska och hämta den som vår- efterforska och hämta den som vår-
 das vid ett hem för särskilt nog- das vid ett hem för särskilt nog-
 grann tillsyn på någon grund som grann tillsyn på någon grund som
@@ -42566,12 +42566,12 @@ från hemmet, eller ombesörja unge har avvikit från hemmet, eller
 någon annan förflyttning av honom ombesörja någon annan
 eller henne.         förflyttning av honom eller henne.
 En begäran enligt första stycket får göras endast om
-1. det på grund av särskilda omständigheter kan befaras att åtgärden inte
+1\. det på grund av särskilda omständigheter kan befaras att åtgärden inte
 kan utföras utan att de särskilda befogenheter som anges i 10 och 10 a §§
 polislagen (1984:387) eller, om det gäller en transport som utförs av
 Kriminalvården, 4 kap. 4 § och 10 § första stycket häkteslagen (2010:611)
 behöver tillgripas, eller
-2. det annars finns synnerliga skäl.
+2\. det annars finns synnerliga skäl.
 Andra stycket gäller inte en begäran av rätten och inte heller en begäran
 av Statens institutionsstyrelse om efterforskning.
 43 b §
@@ -42637,13 +42637,13 @@ besluta att förbudet ska upphöra.
 20 §
 Socialnämnden får besluta om
 tillfälligt flyttningsförbud, om
-1. det är sannolikt att ett
+1\. det är sannolikt att ett
 flyttningsförbud behövs, och
 714
 
 <!-- sida 892 -->
 
-2. rättens beslut om flyttnings- Bilaga 5
+2\. rättens beslut om flyttnings- Bilaga 5
 förbud inte kan avvaktas med
 hänsyn till risken för barnets hälsa
 eller utveckling.
@@ -42677,10 +42677,10 @@ om flyttningsförbud.
 23 §
 Ett tillfälligt flyttningsförbud
 upphör
-1. om ansökan om flyttnings-
+1\. om ansökan om flyttnings-
 förbud inte har gjorts inom den tid
 som anges i 22 §, eller
-2. när rätten avgör frågan om
+2\. när rätten avgör frågan om
 flyttningsförbud.
 Om det inte längre finns skäl för
 ett tillfälligt flyttningsförbud, ska
@@ -42737,20 +42737,20 @@ kap. 1 § senareläggas om verkställandet sker inom ett valfrihetssystem
 enligt lagen (2008:962) om valfrihetssystem.
 6 §
 Till böter döms den som
-1. överträder ett förbud eller en begränsning som har meddelats med
+1\. överträder ett förbud eller en begränsning som har meddelats med
 stöd av 5 kap. 2 §,
 716
 
 <!-- sida 894 -->
 
-2. åsidosätter någon av bestämmelserna i 6 kap. 6 § första stycket eller Bilaga 5
+2\. åsidosätter någon av bestämmelserna i 6 kap. 6 § första stycket eller Bilaga 5
 12 § första stycket, eller, om inte gärningen är belagd med straff i lagen
 (1997:192) om internationell adoptionsförmedling, 10 §,
-3. överträder ett flyttningsförbud
+3\. överträder ett flyttningsförbud
 enligt 6 kap. 17 § eller ett tillfälligt
 flyttningsförbud enligt 6 kap. 20 §,
-4. utan tillstånd driver verksamhet som avses i 7 kap. 1 §,
-5. i strid mot ett förbud som har meddelats enligt 13 kap. 9 eller 10 §
+4\. utan tillstånd driver verksamhet som avses i 7 kap. 1 §,
+5\. i strid mot ett förbud som har meddelats enligt 13 kap. 9 eller 10 §
 fortsätter verksamheten.
 Allmänt åtal för brott som avses i första stycket 1 eller 2 får väckas
 endast efter medgivande av Socialstyrelsen.
@@ -43147,10 +43147,10 @@ För unga som vårdas med stöd av
 särskilda villkor som förutsättning
 för att få vårdas i det egna hemmet.
 De särskilda villkoren får avse
-1. skyldighet att ta emot vissa
+1\. skyldighet att ta emot vissa
 andra insatser inom socialtjänsten,
 och
-2. att den unge ska lämna blod-,
+2\. att den unge ska lämna blod-,
 urin-, utandnings-, saliv-, svett-
 eller hårprov.
 725
@@ -43208,15 +43208,15 @@ Vården ska följas främst genom
 
 <!-- sida 904 -->
 
-1. regelbundna personliga besök i 1. enskilda samtal med barnet Bilaga 7
+1\. regelbundna personliga besök i 1. enskilda samtal med barnet Bilaga 7
 det hem där den unge vistas, eller den unge,
-2. enskilda samtal med den unge, 2. samtal med vårdnadshavarna
+2\. enskilda samtal med den unge, 2. samtal med vårdnadshavarna
 och den eller de som utför vården,
 och
-3. samtal med den eller dem som 3. personliga besök i det hem eller
+3\. samtal med den eller dem som 3. personliga besök i det hem eller
 tagit emot den unge i sitt hem, och boende där barnet eller den unge
 vistas.
-4. samtal med vårdnadshavarna.
+4\. samtal med vårdnadshavarna.
 Socialnämnden ska särskilt Vid behov ska information från
 uppmärksamma den unges hälsa, skolan, tandvården och hälso- och
 utveckling, sociala beteende, sjukvården hämtas in.
@@ -43270,36 +43270,36 @@ enligt 4 §.
 41 §8
 Socialnämndens beslut får överklagas till allmän förvaltningsdomstol, när
 nämnden har
-1. beslutat om var vården av den unge ska inledas eller beslutat i fråga
+1\. beslutat om var vården av den unge ska inledas eller beslutat i fråga
 om att flytta den unge från det hem där han eller hon vistas,
-2. beslutat i fråga om fortsatt 2. beslutat i fråga om särskilda
+2\. beslutat i fråga om fortsatt 2. beslutat i fråga om särskilda
 vård med stöd av lagen, villkor enligt 11 a §,
-3. beslutat i fråga om fortsatt
+3\. beslutat i fråga om fortsatt
 vård med stöd av lagen,
-3. med stöd av 14 § beslutat i 4. med stöd av 14 § beslutat i
+3\. med stöd av 14 § beslutat i 4. med stöd av 14 § beslutat i
 fråga om umgänge eller beslutat att fråga om umgänge eller beslutat att
 den unges vistelseort inte ska röjas, den unges vistelseort inte ska röjas,
-4. fattat beslut enligt 22 § eller 5. fattat beslut enligt 22 § eller
+4\. fattat beslut enligt 22 § eller 5. fattat beslut enligt 22 § eller
 prövat om ett sådant beslut ska prövat om ett sådant beslut ska
 upphöra att gälla,   upphöra att gälla,
-5. med stöd av 31 § beslutat i 6. med stöd av 31 § beslutat i
+5\. med stöd av 31 § beslutat i 6. med stöd av 31 § beslutat i
 fråga om umgänge,    fråga om umgänge,
-6. beslutat i fråga om fortsatt 7. beslutat i fråga om fortsatt
+6\. beslutat i fråga om fortsatt 7. beslutat i fråga om fortsatt
 flyttningsförbud,    flyttningsförbud,
-7. beslutat i fråga om upphörande 8. beslutat i fråga om upphörande
+7\. beslutat i fråga om upphörande 8. beslutat i fråga om upphörande
 av ett fortsatt omhändertagande för av ett fortsatt omhändertagande för
 tillfällig vård,     tillfällig vård,
-8. beslutat i fråga om fortsatt 9. beslutat i fråga om fortsatt
+8\. beslutat i fråga om fortsatt 9. beslutat i fråga om fortsatt
 utreseförbud, eller  utreseförbud, eller
-9. beslutat i fråga om tillfälligt 10. beslutat i fråga om tillfälligt
+9\. beslutat i fråga om tillfälligt 10. beslutat i fråga om tillfälligt
 undantag från ett utreseförbud. undantag från ett utreseförbud.
-10. beslutat i fråga om tillfälligt 11. beslutat i fråga om tillfälligt
+10\. beslutat i fråga om tillfälligt 11. beslutat i fråga om tillfälligt
 undantag från ett utreseförbud. undantag från ett utreseförbud.
 Andra beslut av nämnden enligt denna lag får inte överklagas.
 Rättens beslut enligt 8 och 31 f §§ i fråga om förlängd ansökningstid och
 enligt 32 § om läkarundersökning får inte överklagas.
-1. Denna lag träder i kraft den 1 november 2025.
-2. Äldre föreskrifter gäller fortfarande för ärenden och mål om tillsyn
+1\. Denna lag träder i kraft den 1 november 2025.
+2\. Äldre föreskrifter gäller fortfarande för ärenden och mål om tillsyn
 som har inletts före ikraftträdandet.
 
 728          8 Senaste lydelse 2020:352.
@@ -44251,36 +44251,36 @@ ny lag om omhändertagande för vård av barn och unga
 
 Remissinstanser
 
-1. Akademikerförbundet SSR
+1\. Akademikerförbundet SSR
 
-2. Barnens rätt i samhället
-3. Barnombudsmannen
+2\. Barnens rätt i samhället
+3\. Barnombudsmannen
 
-4. Barnrättsbyrån
-5. Bollnäs kommun
+4\. Barnrättsbyrån
+5\. Bollnäs kommun
 
-6. Borlänge kommun
+6\. Borlänge kommun
 
-7. Botkyrka kommun
-8. Civil Rights Defenders
+7\. Botkyrka kommun
+8\. Civil Rights Defenders
 
-9. Danderyds kommun
+9\. Danderyds kommun
 
-10. Diskrimineringsombudsmannen
-11. Domstolsverket
+10\. Diskrimineringsombudsmannen
+11\. Domstolsverket
 
-12. Falköpings kommun
-13. Familjehemmens riksförbund
+12\. Falköpings kommun
+13\. Familjehemmens riksförbund
 
-14. Familjerättssocionomernas riksförbud – FSR
+14\. Familjerättssocionomernas riksförbud – FSR
 
-15. Familjevårdens centralorganisation
-16. Funktionsrätt Sverige
+15\. Familjevårdens centralorganisation
+16\. Funktionsrätt Sverige
 
-17. Föreningen Sveriges socialchefer
+17\. Föreningen Sveriges socialchefer
 
-18. Förvaltningsrätten i Göteborg
-19. Förvaltningsrätten i Linköping
+18\. Förvaltningsrätten i Göteborg
+19\. Förvaltningsrätten i Linköping
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
@@ -44288,152 +44288,152 @@ Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
 
 <!-- sida 928 -->
 
-20. Förvaltningsrätten i Luleå
+20\. Förvaltningsrätten i Luleå
 
-21. Förvaltningsrätten i Malmö
-22. Förvaltningsrätten i Stockholm
+21\. Förvaltningsrätten i Malmö
+22\. Förvaltningsrätten i Stockholm
 
-23. Gemensam familjehemsorganisation
-24. Göteborgs kommun
+23\. Gemensam familjehemsorganisation
+24\. Göteborgs kommun
 
-25. Göteborgs universitet
+25\. Göteborgs universitet
 
-26. Helsingborgs kommun
-27. Hovrätten i Västra Sverige
+26\. Helsingborgs kommun
+27\. Hovrätten i Västra Sverige
 
-28. Inspektionen för vård och omsorg
+28\. Inspektionen för vård och omsorg
 
-29. Institutet för mänskliga rättigheter
-30. Integritetsskyddsmyndigheten
+29\. Institutet för mänskliga rättigheter
+30\. Integritetsskyddsmyndigheten
 
-31. Jönköpings kommun
+31\. Jönköpings kommun
 
-32. Justitiekanslern
-33. Jämställdhetsmyndigheten
+32\. Justitiekanslern
+33\. Jämställdhetsmyndigheten
 
-34. Kalmar tingsrätt
-35. Kammarrätten i Göteborg
+34\. Kalmar tingsrätt
+35\. Kammarrätten i Göteborg
 
-36. Kammarrätten i Jönköping
+36\. Kammarrätten i Jönköping
 
-37. Kammarrätten i Stockholm
-38. Kammarrätten i Sundsvall
+37\. Kammarrätten i Stockholm
+38\. Kammarrätten i Sundsvall
 
-39. Karlskrona kommun
+39\. Karlskrona kommun
 
-40. Knas Hemma
-41. Kungsbacka kommun
+40\. Knas Hemma
+41\. Kungsbacka kommun
 
-42. Landskrona kommun
-43. Lindesbergs kommun
+42\. Landskrona kommun
+43\. Lindesbergs kommun
 
-44. Linköping kommun
+44\. Linköping kommun
 
-45. Linköpings universitet (Barnafrid – Nationellt centrum för kunskap om
+45\. Linköpings universitet (Barnafrid – Nationellt centrum för kunskap om
 våld mot barn)
 
-46. Luleå kommun
-47. Lunds kommun
+46\. Luleå kommun
+47\. Lunds kommun
 
-48. Lunds universitet
+48\. Lunds universitet
 
 2 (5)
 
 <!-- sida 929 -->
 
-49. Länsstyrelsen i Gävleborgs län
+49\. Länsstyrelsen i Gävleborgs län
 
-50. Länsstyrelsen i Hallands län
-51. Länsstyrelsen i Norrbottens län
+50\. Länsstyrelsen i Hallands län
+51\. Länsstyrelsen i Norrbottens län
 
-52. Länsstyrelsen i Skåne län
-53. Länsstyrelsen i Uppsala län
+52\. Länsstyrelsen i Skåne län
+53\. Länsstyrelsen i Uppsala län
 
-54. Länsstyrelsen i Västernorrlands län
+54\. Länsstyrelsen i Västernorrlands län
 
-55. Länsstyrelsen i Östergötlands län
-56. Malmö kommun
+55\. Länsstyrelsen i Östergötlands län
+56\. Malmö kommun
 
-57. Maskrosbarn
+57\. Maskrosbarn
 
-58. Myndigheten för delaktighet
-59. Myndigheten för familjerätt och föräldraskapsstöd
+58\. Myndigheten för delaktighet
+59\. Myndigheten för familjerätt och föräldraskapsstöd
 
-60. Myndigheten för vård- och omsorgsanalys
+60\. Myndigheten för vård- och omsorgsanalys
 
-61. Myndigheten för ungdoms- och civilsamhällesfrågor
-62. Nationell samverkan för psykisk hälsa
+61\. Myndigheten för ungdoms- och civilsamhällesfrågor
+62\. Nationell samverkan för psykisk hälsa
 
-63. Norrköping kommun
-64. Nässjö kommun
+63\. Norrköping kommun
+64\. Nässjö kommun
 
-65. Nätverket för barnkonventionen
+65\. Nätverket för barnkonventionen
 
-66. Origo
-67. Polismyndigheten
+66\. Origo
+67\. Polismyndigheten
 
-68. Region Dalarna
+68\. Region Dalarna
 
-69. Region Gotland
-70. Region Jämtland
+69\. Region Gotland
+70\. Region Jämtland
 
-71. Region Skåne
-72. Region Stockholm
+71\. Region Skåne
+72\. Region Stockholm
 
-73. Region Västmanland
+73\. Region Västmanland
 
-74. Riksdagens ombudsmän (JO)
-75. Riksförbundet Attention
+74\. Riksdagens ombudsmän (JO)
+75\. Riksförbundet Attention
 
-76. Riksorganisationen Glöm Aldrig Pela och Fadime (GAPF)
+76\. Riksorganisationen Glöm Aldrig Pela och Fadime (GAPF)
 
-77. Rädda barnen
-78. Skara kommun
+77\. Rädda barnen
+78\. Skara kommun
 
 3 (5)
 
 <!-- sida 930 -->
 
-79. Skatteverket
+79\. Skatteverket
 
-80. Skellefteå kommun
-81. Socialstyrelsen
+80\. Skellefteå kommun
+81\. Socialstyrelsen
 
-82. SOS barnbyar
-83. Staffanstorps kommun
+82\. SOS barnbyar
+83\. Staffanstorps kommun
 
-84. Statens beredning för medicinsk och social utvärdering
+84\. Statens beredning för medicinsk och social utvärdering
 
-85. Statens institutionsstyrelse
-86. Statens skolinspektion
+85\. Statens institutionsstyrelse
+86\. Statens skolinspektion
 
-87. Stiftelsen allmänna barnhuset
+87\. Stiftelsen allmänna barnhuset
 
-88. Stockholms kommun
-89. Stockholms universitet
+88\. Stockholms kommun
+89\. Stockholms universitet
 
-90. Strömsunds kommun
+90\. Strömsunds kommun
 
-91. Svea hovrätt
-92. Sveriges advokatsamfund
+91\. Svea hovrätt
+92\. Sveriges advokatsamfund
 
-93. Sveriges Kommuner och Regioner
-94. Södertälje kommun
+93\. Sveriges Kommuner och Regioner
+94\. Södertälje kommun
 
-95. Unicef Sverige
+95\. Unicef Sverige
 
-96. Uppsala kommun
-97. Varbergs tingsrätt
+96\. Uppsala kommun
+97\. Varbergs tingsrätt
 
-98. Vingåkers kommun
+98\. Vingåkers kommun
 
-99. Vision
-100. Växjö kommun
+99\. Vision
+100\. Växjö kommun
 
-101. Örebro kommun
-102. Örnsköldsviks kommun
+101\. Örebro kommun
+102\. Örnsköldsviks kommun
 
-103. Östersunds kommun
+103\. Östersunds kommun
 
 Remissvaren ska ha kommit in till Socialdepartementet
 senast den 19 januari 2026. Svaren bör lämnas per e-post till
@@ -44576,7 +44576,7 @@ mer än den förväntade kommunala servicen.
 
 1.2 Nämndens  arbete med de kommunövergripande  målen
 
-1. EN ATTRAKTIV KOMMUN ATT BO, VERKA OCH VISTAS I
+1\. EN ATTRAKTIV KOMMUN ATT BO, VERKA OCH VISTAS I
 Kultur & Fritid bidrar till en attraktiv kommun på flera sätt. Vi ökar trygghet via samverkan inom det lokala
 brottsförebyggande arbetet. Nya mötesplatser har etablerats, som Aktivitetshuset Galaxen och en ny lokal i
 Fjärås, samtidigt som Kulturskolan och projekt som Sommarkulturskolan, Studio Kultur och Öppen scen skapat
@@ -44590,7 +44590,7 @@ I nära samverkan med andra aktörer i samhällsbyggnadsprocessen tar vi fram so
 bidrar med kompetens för att bidra både till ett bättre samhälle och till attraktiva platser. I det kortare
 perspektivet samarbetar Kultur & Fritid med Teknik för att levandegöra och gestalta invånarnas livsmiljöer,
 vilket syns genom Sommartorget, skateparken, trygga stråk, nya mötesplatser och offentlig konst.
-2. EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ
+2\. EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ
 Kultur & Fritid bidrar till en hållbar kommun och en hälsosam miljö genom att utveckla mer träffsäkra och
 resurseffektiva insatser, bland annat för barn och unga med behov av stöd. Ett innovationsprojekt ska
 tillsammans med civilsamhället utveckla metoder för att nå unga i riskzonen. Genom uppsökande
@@ -44608,7 +44608,7 @@ riktlinjer och ett rättighetsbaserat arbetssätt har stärkt social hållbarhet
 som friskvårdsprogram, feriearbeten för ungdomar i riskzon samt #Tryggdigitaluppväxt har dessutom bidragit
 till att främja ungas fysiska och psykiska hälsa.
 
-3. BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE
+3\. BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE
 Kultur & Fritid bidrar till ett bättre företagsklimat genom flera insatser. Kungsbacka teater har fått en ny
 verksamhetsplan som både ska locka fler kommersiella arrangörer och ge utrymme för såväl amatörer som
 professionella kulturutövare, vilket breddar kulturutbudet och stärker möjligheterna för kulturella och kreativa
@@ -44621,7 +44621,7 @@ gym utanför nätverket kvarstår.
 Samarbetet med Kungsbacka innerstadsförening syftar till att stärka befintliga näringsidkare och attrahera nya
 genom att skapa attraktiva platser. Exempel på samarbetet är de olika evenemang som äger rum på torget.
 
-4. I KUNGSBACKA UTVECKLAS VI HELA LIVET
+4\. I KUNGSBACKA UTVECKLAS VI HELA LIVET
 Främjande fyran, samarbetet mellan Kultur & Fritid, Individ & Familjeomsorg, Förskola & Grundskola samt
 Gymnasium & Arbetsmarknad är mer än en satsning – det är ett sätt att arbeta som möjliggör tidiga,
 samordnade och långsiktiga insatser. Genom att kliva över förvaltningsgränserna kan vi skapa förutsättningar
@@ -44630,7 +44630,7 @@ som stärker skolresultat, minskar utanförskap och ger varje barn en hållbar, 
 Arbetet pågår i tre taktiska grupper; skolsociala aktiviteter, hemmaplanslösningar och Kommunalt
 aktivitetsansvar/Utanförskap. Pilotprojekt pågår som innebär att barn och ungdomar fångas upp tidigare och får
 stöd på de platser där de befinner sig.
-5. ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD
+5\. ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD
 Genom Kultur & Fritids arbete med publikutveckling ökar vi mängden invånardialoger, och kan därmed erbjuda
 ett större utbud som är mer relevant för Kungsbackas invånare.
 
@@ -44643,14 +44643,14 @@ barns möjlighet att komma till tals och ökar därigenom delaktigheten.
 1.3 Nämndens  arbete med bemötande, företagsklimatet och att motverka
 välfärdsbrottslighet
 
-1. Förbättra bemötande
+1\. Förbättra bemötande
 Vår verksamhet bygger på att invånarna uppfattar dem som relevanta, varför bemötandet är av största vikt.
 Nämndens målbild påtalar på flera ställen att invånarnas perspektiv ska omhändertas, förvaltningen ska därför
 vara tillmötesgående och erbjuda en mängd dialoger för att bättre ta hand om invånarnas vilja och behov.
 
 Därför fokuserar förvaltningen på publikutveckling för att ha relevant verksamhet och utbud för fler invånare.
 Nämndens verksamheter behöver bli bättre på att ta hand om invånarnas vilja och behov.
-2. Förbättra företagsklimatet
+2\. Förbättra företagsklimatet
 
 4
 
@@ -44674,7 +44674,7 @@ befolknings- och flyttmönster är det viktigt att kommunen behåller attraktivi
 mer än den förväntade kommunala servicen.
 Vi behöver än mer bredda samverkan med andra aktörer, särskilt näringsidkare,
 samt stärka relationerna mellan näringsliv, civilsamhälle och kommun.
-3. För att motverka välfärdsbrott?
+3\. För att motverka välfärdsbrott?
 
 Med det förändrade stödsystemet finns nya tydligare förväntningar och krav på kontroll, som också kravställer
 på förvaltningen att ha löpande uppföljning. Stödsystem inbegriper numera bättre möjligheter till uppföljning
@@ -44944,10 +44944,10 @@ Nyttan med en biblioteksbuss är att tillgängliggöra bibliotekets fysiska och 
 bestånd/medier för de som väntar och längtar men inte kan ta sig till biblioteket samt att göra
 3   biblioteket relevant för alla. Med bussen kan biblioteket nå prioriterade grupper samt
 2
--
+\-
 5   möjligheten att öka utbud och tillgänglighet till biblioteksverksamhet i Kungsbacka kommun
 0
--
+\-
 2   genom att kunna erbjuda biblioteksservice på mer flexibla sätt för att nå fler invånare vilket har
 1
 0
@@ -44971,7 +44971,7 @@ Kungsbacka kommun
 BESKRIV KONSEKVENSERNA
 2 (2)
 Varje steg ska utredas och eventuellt förkastas.
-1. Inga åtgärder. Om inget byte av fordon sker så försämras biblioteksservicen
+1\. Inga åtgärder. Om inget byte av fordon sker så försämras biblioteksservicen
 Kungsbackas invånare, främst utsatta grupper som beskrivits tidigare i
 behovsbeskrivningen.
 
@@ -45087,7 +45087,7 @@ KUNGSBACKA  KOMMUN
 
 BESKRIV KONSEKVENSERNA
 
-1. Inga åtgärder
+1\. Inga åtgärder
 Om ingen konstnärlig gestaltning genomförs riskerar området att sakna identitet och förlora möjligheten
 att skapa en sammanhållen och inbjudande miljö. Det skulle kunna leda till minskad attraktionskraft för
 såväl invånare som besökare och missa chansen att skapa en tydlig profil för arenan och dess
@@ -45119,7 +45119,7 @@ ska vara en inspirerande och nytänkande kommun
 Att inte inkludera konst kan innebära förlorade möjligheter att ytterligare stärka kommunens
 attraktionskraft och engagemang för att uppnå visionens mål.
 
-2. Behovet åtgärdat
+2\. Behovet åtgärdat
 
 Om konstnärlig gestaltning genomförs måste praktiska frågor som budget, tillgänglighet, och drift av
 platsen också beaktas. Det finns därför behov av en tydlig ansvarsfördelning, budgetering för löpande
@@ -45232,7 +45232,7 @@ utveckling.
 
 BESKRIV KONSEKVENSERNA
 
-1. Inga åtgärder
+1\. Inga åtgärder
 Mindre offentlig konst i kommunens utomhusmiljö.
 
 Kungsbacka kommuns Vision 2030 betonar mångfald, livskvalitet, och samverkan mellan kultur och
@@ -45249,7 +45249,7 @@ kulturella landmärken som stödjer visionens målsättningar.
 inslag som stödjer social hållbarhet. Ett konstverk kan bidra till att skapa en plats för interaktion
 och reflektion, vilket i sin tur stärker det lokala samhället och dess trivsel
 
-2. Behovet åtgärdat
+2\. Behovet åtgärdat
 
 Om konstnärlig gestaltning genomförs måste praktiska frågor som budget, tillgänglighet, och drift av
 platsen också beaktas. Det finns därför behov av en tydlig ansvarsfördelning, budgetering för löpande
@@ -45344,13 +45344,13 @@ KUNGSBACKA  KOMMUN
 
 BESKRIV KONSEKVENSERNA
 2 (2)
-1. Inga åtgärder
+1\. Inga åtgärder
 Våra besökare och gästspelande artister får en negativ upplevelse av leveransen vilket inte ger en
 bra erfarenhet från Kungsbacka, vilket kan påverka framtida intäkter för uthyrning till arrangörer.
 Ökade kostnader när den befintliga ljudanläggningen (PA) går sönder. Risken för detta ökar för
 varje år.
 
-2. Ny investering
+2\. Ny investering
 
 Ingen ökad löpande driftskostnad efter att inköp och installation är genomförd.
 Vi bidrar till att uppfylla målen om att leverera föreställningar av högsta kvalitet.
@@ -45538,7 +45538,7 @@ B
 . 2
 2 1 06
 v
-- -
+\- -
 ,
 S S k a y m lt m ni a n n g f a o t c t h n i i n nf g o : r mation om spårens längd och tillgänglighet.
 U
@@ -45868,36 +45868,36 @@ bara en kostnad utan en investering i gemenskapens hälsa, kultur, ekonomi och f
 idrottsframgångar.
 
 BESKRIV KONSEKVENSERNA
-1. Skola samt föreningsliv kan inte nyttja Tingbergsvallen på grund av att banorna är i så
+1\. Skola samt föreningsliv kan inte nyttja Tingbergsvallen på grund av att banorna är i så
 
 dåligt skick att det kan generera kroppsskador.
-2. Beläggningen är sliten och trasig och har släppt från underlaget på vissa ställen.
+2\. Beläggningen är sliten och trasig och har släppt från underlaget på vissa ställen.
 
-3. Det är sättningar på flera platser som gör att det bildas vattensamlingar.
-4. Radien på kurvorna följer inte standard. De är för tvära och när man bygger om bör
+3\. Det är sättningar på flera platser som gör att det bildas vattensamlingar.
+4\. Radien på kurvorna följer inte standard. De är för tvära och när man bygger om bör
 
 man undersöka om det går att åtgärda.
-5. Längdhoppsgroparna är för smala vilket gör att det kan vara farligt att hoppa i dem
+5\. Längdhoppsgroparna är för smala vilket gör att det kan vara farligt att hoppa i dem
 
 och längdhoppet blir då inte säkert.
-6. Ansatsbanan för längdhopp är sliten och trasig och flera av plankorna är inte i nivå
+6\. Ansatsbanan för längdhopp är sliten och trasig och flera av plankorna är inte i nivå
 med beläggningen, vilket är en skaderisk.
 
-7. Fotbollsplanen uppfyller inte sina mått, fattas tre meter.
+7\. Fotbollsplanen uppfyller inte sina mått, fattas tre meter.
 
-8. Kastburen är svår att hantera och har ett tungt nät som inte är anpassat för buren. Detta
+8\. Kastburen är svår att hantera och har ett tungt nät som inte är anpassat för buren. Detta
 innebär att det kan vara riskabelt att kasta. Dessutom är det tveksamt om stolparna är
 rätt placerade i förhållande till kastsektorn.
 
-9. Vattengraven läcker och beläggningen där är trasig.
-10. Det saknas belysning som gör att man kan förlänga säsongen.
+9\. Vattengraven läcker och beläggningen där är trasig.
+10\. Det saknas belysning som gör att man kan förlänga säsongen.
 
-11. Stavhoppsmattan är i minsta laget för att vara säker.
+11\. Stavhoppsmattan är i minsta laget för att vara säker.
 
-12. Fungerande dränering saknas i kastringarna.
-13. För kort kastsektor för kulstötning.
+12\. Fungerande dränering saknas i kastringarna.
+13\. För kort kastsektor för kulstötning.
 
-14. Asfaltsområden har nått sin livslängd, vilket resulterat i sprickor, deformationer som
+14\. Asfaltsområden har nått sin livslängd, vilket resulterat i sprickor, deformationer som
 kräver underhåll eller byte.
 
 SAMORDNINGSBEHOV
@@ -46010,24 +46010,24 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
 
-* förvaltningen har som övergripande inriktning att flytta ekonomiska medel från
+\* förvaltningen har som övergripande inriktning att flytta ekonomiska medel från
 anläggningar och byggnader till aktivitetsstöd till föreningar. Subventionsgrader på
 hyror ska fasas ut till 2030.
-* öka LOK-stödet till 10 kr samt räknar upp LOK-stödet till de föreningar som äger
+\* öka LOK-stödet till 10 kr samt räknar upp LOK-stödet till de föreningar som äger
 och helt sköter sina egna anläggningar med tre gånger det generella LOK-stödet.
 
-* att förvaltningen får i uppdrag att under 2025 föreslå nya taxor och avgifter
+\* att förvaltningen får i uppdrag att under 2025 föreslå nya taxor och avgifter
 gällande verksamhetsytor.
-* anta förändrad struktur för stöd samt grundläggande principer, förväntningar, krav
+\* anta förändrad struktur för stöd samt grundläggande principer, förväntningar, krav
 
 och konsekvenstrappa. Förändringen gäller från och med 2025-01-01 med ett
 övergångsår.
-* antar principerna för klubblokaler och verksamhetsytor inklusive värderingsmodell
+\* antar principerna för klubblokaler och verksamhetsytor inklusive värderingsmodell
 vid prioritering av befintliga och vid planering av kommande verksamhetsytor.
 
-* förvaltningen får i uppdrag att utreda huruvida Kungsbacka kommun ska äga och
+\* förvaltningen får i uppdrag att utreda huruvida Kungsbacka kommun ska äga och
 hyra ut ridanläggningar. Förslag till beslut ska presenteras under 2025.
-* förvaltningen ska återrapportera till nämnden vid nämndmötena i maj och
+\* förvaltningen ska återrapportera till nämnden vid nämndmötena i maj och
 november varje år till dess att förslaget är genomfört. Förvaltningen får i uppdrag att
 
 boka in gemensamt avstämningsmöte med representant från representerade partier i
@@ -46131,18 +46131,18 @@ trygg uppväxt”.
 
 Alliansens satsningar för en trygg uppväxt:
 
--  nå barn och unga som idag inte använder våra verksamheter (1,4 mkr): förvaltningen ges
+\-  nå barn och unga som idag inte använder våra verksamheter (1,4 mkr): förvaltningen ges
 i uppdrag att starta ett arbete för att nå unga som redan är i, eller med risk att hamna i,
 kriminalitet eller utanförskap.
 
--  förstå och få syn på normbrytande beteenden och motverka dessa (600 tkr):
+\-  förstå och få syn på normbrytande beteenden och motverka dessa (600 tkr):
 förvaltningen ges i uppdrag att genomföra kompetenshöjande insatser kring
 
 normbrytande beteenden för medarbetare på mötesplatser för barn och ungdomar,
 samt genomföra kunskapshöjande insatser med och för ungdomar kring normbrytande
 beteenden.
 
--  minska utanförskapet, oavsett anledning, genom meningsfull sysselsättning (1,1 mkr),
+\-  minska utanförskapet, oavsett anledning, genom meningsfull sysselsättning (1,1 mkr),
 förvaltningen ges i uppdrag att med Främjande fyran motverka utanförskap, oavsett
 anledning, genom att skapa nya vägar till sysselsättning.
 
@@ -46404,7 +46404,7 @@ KFT-2025-00277 2025-12-10             Initiativ från Alliansen: Satsningar för
 uppväxt
 KFT-2025-00276 2025-12-10 Kommunledningskontoret Begäran om yttrande - Utkast till lagrådsremiss
 För barns rättigheter och trygghet (KS-2025-
-00901)
+00901\)
 
 KFT-2025-00273 2025-12-05 Polisen     Polisanmälan om kvarglömd mobil
 KFT-2025-00272 2025-12-04             Initiativ från Alliansen: öka utbudet av

@@ -460,7 +460,7 @@ arbetssätt för kontinuitetshantering.
 Lagerhållning, utrymning och kärnenergiberedskap
 Arbetet med att anpassa verksamheten till kommande lagkrav rörande lagerhållning av
 sjukvårdsprodukter har pågått under våren med mål att ha ett fungerande arbetssätt senast årsskiftet
-2027. Arbetet leds av utvecklingsledare krisberedskap och säkerhet med stöd från utvecklingsledare god
+2027\. Arbetet leds av utvecklingsledare krisberedskap och säkerhet med stöd från utvecklingsledare god
 och nära vård och i nära samarbete med lagerchefen på teknikens hus. Arbetet syftar till att minska
 förvaltningens sårbarhet vid störningar i leveranskedjor och säkerställa tillgång till kritiska
 sjukvårdsprodukter även under längre samhällsstörningar.
@@ -659,14 +659,14 @@ Tjänsteskrivelse om förfrågningsunderlag för hemtjänst enligt Lag (2008:962
 valfrihetssystem (LOV)
 
 Förslag till beslut
-1. Nämnden för Vård & Omsorg antar Förfrågningsunderlag för hemtjänst enligt lagen
+1\. Nämnden för Vård & Omsorg antar Förfrågningsunderlag för hemtjänst enligt lagen
 (2008:962) om valfrihetssystem med tillhörande bilagor, att gälla från och med den 1 januari
-2027.
+2027\.
 
-2. Nämnden för Vård & Omsorg uppdrar åt förvaltningschefen att genomföra införandet enligt
+2\. Nämnden för Vård & Omsorg uppdrar åt förvaltningschefen att genomföra införandet enligt
 tidsplan, dokumentera befintliga utförares ställningstaganden samt vidta de annonserings- och
 publiceringsåtgärder som följer av lagen om valfrihetssystem.
-3. Nämnden för Vård & Omsorg delegerar till förvaltningschefen att besluta om administrativa,
+3\. Nämnden för Vård & Omsorg delegerar till förvaltningschefen att besluta om administrativa,
 
 praktiska och tekniska ändringar i förfrågningsunderlaget med tillhörande bilagor samt om
 nödvändiga redaktionella följdändringar, under förutsättning att ändringarna
@@ -822,7 +822,7 @@ befintliga avtalsförhållande. Handlingen ska inte innehålla några självstä
 vad som följer av nämndens beslut och det antagna förfrågningsunderlaget.
 För en utförare som accepterar fortsätter det befintliga godkännandet och avtalsförhållandet utan
 avbrott. Det nya underlaget ersätter det tidigare som grund för avtalsförhållandet från den 1 januari
-2027.
+2027\.
 
 En utförare som inte accepterar förändringen hanteras enligt det befintliga avtalet. Tidsplanen är
 utformad så att de avtalsenliga fristerna har löpt ut före årsskiftet.
@@ -925,8 +925,8 @@ Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 1
 
 Innehåll
 
-1. Inledning och syfte ...................................................................................................................................... 5
-2. Ansökan, handläggning och godkännande .................................................................................................. 5
+1\. Inledning och syfte ...................................................................................................................................... 5
+2\. Ansökan, handläggning och godkännande .................................................................................................. 5
 
 2.1 Ansökan................................................................................................................................................ 5
 2.2 Ansökans innehåll och handlingar till styrkande av kravuppfyllelse.................................................... 5
@@ -941,7 +941,7 @@ Innehåll
 2.7 Beslut om godkännande eller avslag ................................................................................................... 6
 2.8 Avtal, introduktion och driftstart ......................................................................................................... 7
 
-3. Uppdragets omfattning ............................................................................................................................... 7
+3\. Uppdragets omfattning ............................................................................................................................... 7
 
 3.1 Tjänstens innehåll ................................................................................................................................ 7
 3.2 Uppdragets tider .................................................................................................................................. 7
@@ -954,7 +954,7 @@ Innehåll
 3.6 Skyldighet att ta emot uppdrag ........................................................................................................... 8
 3.7 Ickevalsalternativ ................................................................................................................................. 8
 
-4. Krav på utföraren, kontroller och uteslutningsgrunder .............................................................................. 8
+4\. Krav på utföraren, kontroller och uteslutningsgrunder .............................................................................. 8
 
 4.1 Allmänt om krav på utföraren.............................................................................................................. 8
 4.2 Uteslutningsgrunder ............................................................................................................................ 9
@@ -989,7 +989,7 @@ Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 2
 
 4.17 Krisberedskap och kontinuitet ......................................................................................................... 13
 
-5. Krav på tjänstens utförande ...................................................................................................................... 13
+5\. Krav på tjänstens utförande ...................................................................................................................... 13
 5.1 Mål för utförandet ............................................................................................................................. 13
 
 5.2 Fast omsorgskontakt och kontinuitet ................................................................................................ 14
@@ -1012,7 +1012,7 @@ Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 2
 
 5.13 Samverkan kring omsorgstagarens insatser .................................................................................... 16
 
-6. Uppföljning och informationsskyldighet ................................................................................................... 16
+6\. Uppföljning och informationsskyldighet ................................................................................................... 16
 6.1 Allmän uppföljning ............................................................................................................................. 16
 
 6.2 Informationsskyldighet ...................................................................................................................... 16
@@ -1025,7 +1025,7 @@ Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 2
 
 6.7 Riktad och händelsestyrd uppföljning ............................................................................................... 17
 
-7. Avvikelser, brister och sanktioner ............................................................................................................. 17
+7\. Avvikelser, brister och sanktioner ............................................................................................................. 17
 7.1 Brister och allvarliga brister ............................................................................................................... 17
 
 7.2 Klagomål, avvikelsehantering och rapportering ................................................................................ 18
@@ -1035,7 +1035,7 @@ Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 2
 
 7.5 Återkallelse av godkännande ............................................................................................................. 19
 
-8. Ansvar, försäkring och skadestånd ............................................................................................................ 19
+8\. Ansvar, försäkring och skadestånd ............................................................................................................ 19
 
 Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 3
 
@@ -1044,15 +1044,15 @@ Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 3
 8.1 Utförarens ansvar, försäkring och skadestånd .................................................................................. 19
 
 8.2 Begränsning av Kungsbacka kommuns ansvar................................................................................... 20
-9. Kommersiella villkor .................................................................................................................................. 20
+9\. Kommersiella villkor .................................................................................................................................. 20
 
 9.1 Ersättning ........................................................................................................................................... 20
 
 9.2 Fakturering och rapportering ............................................................................................................. 20
-10. Ändring av villkor ..................................................................................................................................... 20
+10\. Ändring av villkor ..................................................................................................................................... 20
 
 10.1 Ändring av villkor ............................................................................................................................. 20
-11. Avtalstid och upphörande ....................................................................................................................... 21
+11\. Avtalstid och upphörande ....................................................................................................................... 21
 
 11.1 Avtalstid och fortsatt godkännande................................................................................................. 21
 
@@ -1062,18 +1062,18 @@ Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 3
 11.4 Kungsbacka kommuns uppsägning .................................................................................................. 21
 
 11.5 Överlämnande vid upphörande ....................................................................................................... 21
-12. Övriga avtalsvillkor .................................................................................................................................. 22
+12\. Övriga avtalsvillkor .................................................................................................................................. 22
 
 12.1 Force majeure .................................................................................................................................. 22
 
 12.2 Tvist .................................................................................................................................................. 22
-13. Bilagor...................................................................................................................................................... 22
+13\. Bilagor...................................................................................................................................................... 22
 
 Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 4
 
 <!-- sida 26 -->
 
-1. Inledning  och syfte
+1\. Inledning  och syfte
 
 Kungsbacka kommun tillämpar lagen (2008:962) om valfrihetssystem (LOV) för hemtjänst.
 Valfrihetssystemet innebär att omsorgstagare kan välja bland de utförare som Kungsbacka kommun har
@@ -1085,7 +1085,7 @@ hemtjänst med hög kvalitet, trygghet, kontinuitet och individanpassade insatse
 Kungsbacka kommun eftersträvar ett långsiktigt samarbete med seriösa och kvalitetsdrivande utförare
 som bedriver verksamhet i enlighet med lagstiftning, god omsorg och detta förfrågningsunderlag.
 
-2. Ansökan,  handläggning    och  godkännande
+2\. Ansökan,  handläggning    och  godkännande
 
 2.1 Ansökan
 
@@ -1101,16 +1101,16 @@ Ansökan ska vara skriftlig, undertecknad av behörig företrädare och innehål
 som krävs enligt detta förfrågningsunderlag.
 Till ansökan ska följande handlingar bifogas:
 
-1. SKV 4820, ifylld av Skatteverket och inte äldre än en månad från inkommen ansökan.
-2. Registreringsbevis från Bolagsverket, inte äldre än två månader.
-3. Kopia av försäkringsbrev som visar att utföraren har erforderliga försäkringar för verksamheten.
-4. CV för verksamhetsansvarig.
-5. Rutin för nyckelhantering.
-6. Rutin för lex Sarah.
-7. Redovisning av ledningssystem för systematiskt kvalitetsarbete.
-8. Rutin för eftersökning av omsorgstagare.
-9. Rutin för fast omsorgskontakts ansvarsområde.
-10. IVO-tillstånd.
+1\. SKV 4820, ifylld av Skatteverket och inte äldre än en månad från inkommen ansökan.
+2\. Registreringsbevis från Bolagsverket, inte äldre än två månader.
+3\. Kopia av försäkringsbrev som visar att utföraren har erforderliga försäkringar för verksamheten.
+4\. CV för verksamhetsansvarig.
+5\. Rutin för nyckelhantering.
+6\. Rutin för lex Sarah.
+7\. Redovisning av ledningssystem för systematiskt kvalitetsarbete.
+8\. Rutin för eftersökning av omsorgstagare.
+9\. Rutin för fast omsorgskontakts ansvarsområde.
+10\. IVO-tillstånd.
 
 2.3 Begäran om sekretess
 
@@ -1181,7 +1181,7 @@ Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 6
 
 <!-- sida 28 -->
 
-3. Uppdragets   omfattning
+3\. Uppdragets   omfattning
 
 3.1 Tjänstens innehåll
 
@@ -1246,7 +1246,7 @@ För enskilda som inte kan eller vill välja utförare finns i Kungsbacka kommun
 hanteras enligt ett rullande schema där både Kungsbacka kommuns egen hemtjänst och externa utförare
 finns representerade.
 
-4. Krav på utföraren,   kontroller och
+4\. Krav på utföraren,   kontroller och
 
 uteslutningsgrunder
 
@@ -1266,43 +1266,43 @@ Kungsbacka kommun får avslå ansökan om godkännande eller återkalla redan me
 utföraren:
 
 Ekonomiska och rättsliga förhållanden
-1. är i konkurs eller likvidation, är föremål för insolvens-, rekonstruktions- eller
+1\. är i konkurs eller likvidation, är föremål för insolvens-, rekonstruktions- eller
 likvidationsförfarande, tvångsförvaltning, ackordsuppgörelse eller annat liknande förfarande, har
 avbrutit sin näringsverksamhet eller annars genom objektivt konstaterade ekonomiska
 förhållanden saknar förutsättningar att fullgöra uppdraget,
-2. inte fullgjort skyldigheter avseende skatter, socialavgifter eller andra offentligrättsliga avgifter,
+2\. inte fullgjort skyldigheter avseende skatter, socialavgifter eller andra offentligrättsliga avgifter,
 Redbarhet och lämplighet
-3. genom lagakraftvunnen dom dömts för brott som anges i 7 kap. 1 § lagen (2008:962) om
+3\. genom lagakraftvunnen dom dömts för brott som anges i 7 kap. 1 § lagen (2008:962) om
 valfrihetssystem eller annat brott som påverkar förtroendet för utförarens förmåga att bedriva
 hemtjänstverksamhet,
-4. har en person i utförarens förvaltnings-, lednings- eller kontrollorgan, verklig huvudman eller
+4\. har en person i utförarens förvaltnings-, lednings- eller kontrollorgan, verklig huvudman eller
 annan person som är behörig att företräda, fatta beslut om eller kontrollera utföraren som
 genom lagakraftvunnen dom dömts för grovt brott som påverkar förtroendet för utförande av
 hemtjänst,
-5. åsidosatt tillämpliga miljö-, social- eller arbetsrättsliga skyldigheter på ett sätt som har betydelse
+5\. åsidosatt tillämpliga miljö-, social- eller arbetsrättsliga skyldigheter på ett sätt som har betydelse
 för utförarens förmåga att fullgöra uppdraget,
-6. gjort sig skyldig till allvarligt fel i yrkesutövningen som gör att utförarens redbarhet kan
+6\. gjort sig skyldig till allvarligt fel i yrkesutövningen som gör att utförarens redbarhet kan
 ifrågasättas,
 Tidigare uppdrag
-7. visat allvarliga, ihållande eller återkommande dokumenterade brister vid fullgörandet av tidigare
+7\. visat allvarliga, ihållande eller återkommande dokumenterade brister vid fullgörandet av tidigare
 offentliga eller jämförbara uppdrag, särskilt om bristerna har medfört förtida uppsägning,
 hävning, skadestånd, vite, återkrav, begränsning av uppdrag eller annan jämförbar påföljd,
-8. har, enligt Kungsbacka kommuns egen erfarenhet eller enligt dokumenterad erfarenhet från
+8\. har, enligt Kungsbacka kommuns egen erfarenhet eller enligt dokumenterad erfarenhet från
 annan kommun eller offentlig uppdragsgivare, visat brister i hemtjänst, äldreomsorg eller
 jämförbar social omsorg som inte är oväsentliga och som inte har rättats på ett godtagbart sätt,
 Prövning och kontroll
-9. lämnat oriktiga eller vilseledande uppgifter eller undanhållit uppgifter som har betydelse för
+9\. lämnat oriktiga eller vilseledande uppgifter eller undanhållit uppgifter som har betydelse för
 prövning, kontroll, uppföljning eller bedömning av om uteslutningsgrund föreligger,
 
 Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 8
 
 <!-- sida 30 -->
 
-10. utan godtagbart skäl inte medverkar vid sådan kontroll eller uppföljning som Kungsbacka
+10\. utan godtagbart skäl inte medverkar vid sådan kontroll eller uppföljning som Kungsbacka
 kommun har rätt att genomföra enligt lag, avtal eller detta förfrågningsunderlag,
-11. inte uppfyller ett obligatoriskt krav som gäller för godkännande eller driftstart enligt detta
+11\. inte uppfyller ett obligatoriskt krav som gäller för godkännande eller driftstart enligt detta
 förfrågningsunderlag, bilagor eller avtal,
-12. omfattas av annan uteslutningsgrund som följer av lagen (2008:962) om valfrihetssystem eller
+12\. omfattas av annan uteslutningsgrund som följer av lagen (2008:962) om valfrihetssystem eller
 annan vid var tid gällande lagstiftning.
 Kungsbacka kommun ska vid bedömningen beakta samtliga relevanta omständigheter och tillämpa
 uteslutningsgrunderna proportionerligt.
@@ -1323,13 +1323,13 @@ kommun ska kunna genomföra kontrollen.
 4.4 Personal och kompetens
 
 Utföraren ansvarar för att personalen:
-1. har erforderlig kompetens för uppdraget,
-2. har sådana kunskaper i svenska språket, i tal och skrift, att omsorgstagaren får en trygg och säker
+1\. har erforderlig kompetens för uppdraget,
+2\. har sådana kunskaper i svenska språket, i tal och skrift, att omsorgstagaren får en trygg och säker
 omsorg samt att dokumentation, informationsöverföring och samverkan kan utföras med god
 kvalitet,
-3. får introduktion, handledning och fortbildning,
-4. arbetar enligt gällande lagstiftning, rutiner och instruktioner,
-5. har kännedom om sekretess, avvikelsehantering och rapporteringsskyldigheter.
+3\. får introduktion, handledning och fortbildning,
+4\. arbetar enligt gällande lagstiftning, rutiner och instruktioner,
+5\. har kännedom om sekretess, avvikelsehantering och rapporteringsskyldigheter.
 
 Utföraren ska säkerställa att det finns tillräcklig arbetsledning och bemanning för att utföra beviljade
 insatser med god kvalitet och kontinuitet.
@@ -1488,7 +1488,7 @@ bemanningsplan samt samverka med Kungsbacka kommun vid samhällsstörningar. Kon
 rapporteringsformer och övningsupplägg hanteras i Kungsbacka kommuns kris- och kontinuitetsrutiner.
 Utföraren ska delta i övningar, planering och uppföljning som Kungsbacka kommun bedömer nödvändiga.
 
-5. Krav på tjänstens  utförande
+5\. Krav på tjänstens  utförande
 
 5.1 Mål för utförandet
 
@@ -1616,7 +1616,7 @@ Utföraren ska säkerställa att personal som hanterar livsmedel har tillräckli
 Utföraren ska samverka med Kungsbacka kommun och andra relevanta aktörer i frågor som rör
 omsorgstagarens insatser, kvalitet, uppföljning och säkerhet.
 
-6. Uppföljning  och  informationsskyldighet
+6\. Uppföljning  och  informationsskyldighet
 
 6.1 Allmän uppföljning
 
@@ -1682,7 +1682,7 @@ Utföraren ska se till så att MAS kan genomföra denna tillsyn.
 Kungsbacka kommun får genomföra riktad och händelsestyrd uppföljning när det bedöms motiverat med
 hänsyn till avvikelser, brister eller andra omständigheter.
 
-7. Avvikelser, brister och  sanktioner
+7\. Avvikelser, brister och  sanktioner
 
 7.1 Brister och allvarliga brister
 
@@ -1720,11 +1720,11 @@ brister, vidtagna åtgärder och resultat av uppföljning.
 Kungsbacka kommun får begära att utföraren upprättar en åtgärdsplan vid konstaterade brister.
 Åtgärdsplanen ska innehålla:
 
-1. identifierade brister,
-2. planerade åtgärder,
-3. ansvariga personer,
-4. tidsplan för genomförande,
-5. uppföljning av genomförda åtgärder.
+1\. identifierade brister,
+2\. planerade åtgärder,
+3\. ansvariga personer,
+4\. tidsplan för genomförande,
+5\. uppföljning av genomförda åtgärder.
 Om utföraren inte vidtar tillräckliga åtgärder inom angiven tid får Kungsbacka kommun vidta ytterligare
 åtgärder enligt detta förfrågningsunderlag.
 
@@ -1753,7 +1753,7 @@ huvudregel ges möjlighet att vidta rättelse inom skälig tid.
 Återkallelse av godkännande innebär att utföraren inte längre har rätt att utföra tjänster inom
 Kungsbacka kommuns valfrihetssystem.
 
-8. Ansvar, försäkring  och  skadestånd
+8\. Ansvar, försäkring  och  skadestånd
 
 8.1 Utförarens ansvar, försäkring och skadestånd
 
@@ -1793,7 +1793,7 @@ orsakats genom uppsåt eller grov vårdslöshet från Kungsbacka kommuns sida.
 Kungsbacka kommuns beslut om uppföljning, sanktioner eller återkallelse enligt detta
 förfrågningsunderlag berättigar inte utföraren till ersättning, annat än där detta följer av tvingande lag.
 
-9. Kommersiella   villkor
+9\. Kommersiella   villkor
 
 9.1 Ersättning
 
@@ -1808,7 +1808,7 @@ Tillvägagångssätt för fakturering finns beskrivet i bilaga 1.
 
 Felaktigt utbetald ersättning får återkrävas eller avräknas mot framtida ersättning.
 
-10. Ändring  av  villkor
+10\. Ändring  av  villkor
 
 10.1 Ändring av villkor
 
@@ -1824,7 +1824,7 @@ Om utföraren inte accepterar ändringen ska utföraren säga upp avtalet senast
 ändringen meddelades. Om uppsägning inte sker inom denna tid anses utföraren ha accepterat
 ändringen.
 
-11. Avtalstid och  upphörande
+11\. Avtalstid och  upphörande
 
 11.1 Avtalstid och fortsatt godkännande
 
@@ -1848,11 +1848,11 @@ Utföraren har rätt att säga upp sitt deltagande i valfrihetssystemet.
 Uppsägning ska ske skriftligen och uppsägningstiden är tre månader.
 Utföraren är under uppsägningstiden skyldig att:
 
-1. fullgöra samtliga åtaganden,
-2. medverka till ordnad övergång för berörda omsorgstagare,
-3. informera berörda omsorgstagare i samråd med Kungsbacka kommun och på ett sätt som inte
+1\. fullgöra samtliga åtaganden,
+2\. medverka till ordnad övergång för berörda omsorgstagare,
+3\. informera berörda omsorgstagare i samråd med Kungsbacka kommun och på ett sätt som inte
 skapar onödig oro eller otillbörligt påverkar omsorgstagarens fria val,
-4. samverka med Kungsbacka kommun och eventuell ny utförare.
+4\. samverka med Kungsbacka kommun och eventuell ny utförare.
 
 11.4 Kungsbacka kommuns  uppsägning
 
@@ -1874,11 +1874,11 @@ Vid upphörande av deltagande i valfrihetssystemet ska utföraren medverka till 
 av verksamheten.
 
 Utföraren ska:
-1. samverka med Kungsbacka kommun,
-2. överlämna nödvändig dokumentation,
-3. säkerställa kontinuitet för omsorgstagaren,
-4. medverka till säker informationsöverföring enligt gällande lagstiftning,
-5. bistå omsorgstagaren i kontakt med Kungsbacka kommun inför val av ny utförare, om
+1\. samverka med Kungsbacka kommun,
+2\. överlämna nödvändig dokumentation,
+3\. säkerställa kontinuitet för omsorgstagaren,
+4\. medverka till säker informationsöverföring enligt gällande lagstiftning,
+5\. bistå omsorgstagaren i kontakt med Kungsbacka kommun inför val av ny utförare, om
 Kungsbacka kommun begär det.
 
 Utföraren har inte rätt till ersättning från Kungsbacka kommun för kostnader hänförliga till avveckling av
@@ -1888,7 +1888,7 @@ Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 19
 
 <!-- sida 41 -->
 
-12. Övriga  avtalsvillkor
+12\. Övriga  avtalsvillkor
 
 12.1 Force majeure
 
@@ -1909,13 +1909,13 @@ parterna.
 Om tvisten inte kan lösas genom dialog ska den avgöras enligt svensk rätt av behörig allmän domstol, om
 inte annat följer av tvingande lag.
 
-13. Bilagor
+13\. Bilagor
 
 Följande bilagor utgör en del av förfrågningsunderlaget:
 
-1. Ersättningsmodell och fakturering
-2. Geografiska områden
-3. IT, digitala verktyg och välfärdsteknik
+1\. Ersättningsmodell och fakturering
+2\. Geografiska områden
+3\. IT, digitala verktyg och välfärdsteknik
 
 Kungsbacka kommun – Förfrågningsunderlag hemtjänst enligt LOV | Sida 20
 
@@ -1925,7 +1925,7 @@ Bilaga 1
 
 Ersättning och fakturering
 
-1. Ekonomisk ersättning
+1\. Ekonomisk ersättning
 Denna bilaga reglerar ersättning och fakturering för utförande av hemtjänst enligt valfrihetssystemet.
 
 Ersättningen utgörs av fastställd timersättning. De ekonomiska resurserna för utförandet följer omsorgstagaren
@@ -2030,7 +2030,7 @@ biståndet avser. Utförd insats ska följa handläggares beslut.
 
 <!-- sida 44 -->
 
-2. Ersättning för delegerade och instruerade hälso- och
+2\. Ersättning för delegerade och instruerade hälso- och
 sjukvårdsinsatser
 
 Delegerade och instruerade hälso- och sjukvårdsinsatser ersätts för beviljad och genomförd insats. Eftersom
@@ -2039,7 +2039,7 @@ timersättningen med en jämkningsfaktor.
 
 Ersättningen för en insats beräknas enligt:
 
-Ersättning = Schablontid för insats (se tabell nedan) * gällande timersättning för omvårdnadsinsatser *
+Ersättning = Schablontid för insats (se tabell nedan) \* gällande timersättning för omvårdnadsinsatser \*
 jämkningsfaktor
 
 Nuvarande jämkningsfaktor är 0,60 och gäller tills vidare.
@@ -2357,16 +2357,16 @@ Ansökan ska undertecknas av behörig firmatecknare. De krav som gäller för go
 förfrågningsunderlaget med bilagor. Ansökan blir allmän handling när den kommer in till Kungsbacka
 kommun. Personuppgifter behandlas enligt dataskyddslagstiftningen.
 
-1. Uppgifter om sökanden
+1\. Uppgifter om sökanden
 
-2. Ansökan avser
+2\. Ansökan avser
 
 Sökanden ansöker om godkännande för att utföra:
 ☐ Serviceinsatser
 ☐ Service- och omsorgsinsatser
 Sökanden är införstådd med att förändring av inriktning efter godkänd ansökan kräver ny ansökan.
 
-3. Geografiskt område
+3\. Geografiskt område
 
 Sökanden ansöker om att vara valbar inom:
 ☐ Hela Kungsbacka kommun
@@ -2394,12 +2394,12 @@ Ansökan om godkännande som utförare av hemtjänst enligt LOV
 
 <!-- sida 52 -->
 
-4. Verksamhetsansvarig
+4\. Verksamhetsansvarig
 
 Beskriv hur verksamhetsansvarig kommer att ha faktisk möjlighet, tid och befogenhet att leda och följa upp
 uppdraget:
 
-5. Företrädare och ansvariga personer
+5\. Företrädare och ansvariga personer
 Ange de personer som Kungsbacka kommun behöver för kontakt, kontroll och prövning av ansökan:
 
 • behörig firmatecknare för den juridiska person som ansöker,
@@ -2413,7 +2413,7 @@ ansökan eller uppföljning under avtalstiden.
 
 Sökanden ska utan dröjsmål meddela Kungsbacka kommun om uppgifterna förändras under
 ansökningsprocessen eller avtalstiden.
-6. Beskrivning av verksamheten
+6\. Beskrivning av verksamheten
 
 Beskriv sökandens nuvarande och planerade verksamhet, inklusive organisation, ledning, bemanning,
 kvalitetssäkring och erfarenhet av liknande uppdrag:
@@ -2446,7 +2446,7 @@ Ansökan om godkännande som utförare av hemtjänst enligt LOV
 
 <!-- sida 53 -->
 
-7. Personal och kompetens
+7\. Personal och kompetens
 
 Planerat antal anställda eller
 årsarbetare för uppdraget
@@ -2458,7 +2458,7 @@ för uppdragets genomförande:
 Beskriv hur sökanden säkerställer kollektivavtal eller villkor för lön, pensioner och försäkringar som
 motsvarar kollektivavtal inom branschen:
 
-8. Underleverantörer och åberopad kapacitet
+8\. Underleverantörer och åberopad kapacitet
 
 Underleverantörer
 Avser sökanden att anlita underleverantör för någon del av uppdraget?
@@ -2477,7 +2477,7 @@ kraven i förfrågningsunderlaget?
 Om ja, ange företagets namn, organisationsnummer, vilken kapacitet som åberopas och hur sökanden
 säkerställer att kapaciteten står till förfogande under avtalstiden:
 
-9. Ledningssystem och kvalitet
+9\. Ledningssystem och kvalitet
 
 Sökanden bekräftar att verksamheten har ett ledningssystem för systematiskt kvalitetsarbete enligt gällande
 krav och att redovisning av ledningssystemet bifogas ansökan.
@@ -2488,7 +2488,7 @@ Ansökan om godkännande som utförare av hemtjänst enligt LOV
 
 <!-- sida 54 -->
 
-10. Referenser
+10\. Referenser
 Ange referenser från tidigare eller pågående uppdrag som är relevanta för bedömning av sökandens
 erfarenhet, kvalitet, kapacitet och lämplighet.
 
@@ -2501,7 +2501,7 @@ Om relevanta referensuppdrag saknas, ange kort varför:
 Sökanden är införstådd med att Kungsbacka kommun får kontakta angivna referenser och, om det behövs
 för prövningen, inhämta uppgifter från tidigare eller pågående offentliga uppdragsgivare.
 
-11. Handlingar som ska bifogas ansökan
+11\. Handlingar som ska bifogas ansökan
 
 Följande handlingar ska alltid bifogas ansökan:
 ☐ SKV 4820, ifylld av Skatteverket och inte äldre än en månad från inkommen ansökan.
@@ -2526,7 +2526,7 @@ underleverantör.
 Kungsbacka kommun får begära kompletterande handlingar och uppgifter om det behövs för att pröva
 ansökan eller kontrollera att sökanden uppfyller kraven i förfrågningsunderlaget.
 
-12. Sekretess
+12\. Sekretess
 
 Ansökan blir allmän handling när den kommer in till Kungsbacka kommun. Om sökanden anser att någon
 uppgift omfattas av sekretess ska detta anges tydligt.
@@ -2544,7 +2544,7 @@ Ansökan om godkännande som utförare av hemtjänst enligt LOV
 
 <!-- sida 55 -->
 
-13. Försäkran
+13\. Försäkran
 
 Sökanden försäkrar att:
 ☐ uppgifterna i ansökan är riktiga och fullständiga,
@@ -2560,7 +2560,7 @@ godkännande återkallas,
 ☐ sökanden kommer att informera Kungsbacka kommun om förändringar av betydelse för prövningen eller
 uppdragets genomförande.
 
-14. Underskrift
+14\. Underskrift
 
 Ansökan ska undertecknas av behörig firmatecknare enligt registreringsbevis.
 
@@ -2824,7 +2824,7 @@ hur ett sådant system ska utformas i kommunen.
 Planen ska omfatta målbild, ersättningsmodell, kravställning/uppföljning/kontroll, kapacitetsplanering,
 fastighetsfrågor samt konsekvenser för ekonomi, kompetensförsörjning och planeringsförmåga.
 Ett fullständigt beslutsunderlag skall tas fram och redovisas för nämnden senast under första kvartalet
-2027.
+2027\.
 
 Beslutsunderlag
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2026-08-11
@@ -3196,7 +3196,7 @@ Meningen är att stärka tryggheten inom äldreomsorgen. Uppdraget ska redovisas
 KUNGSBACKA  KOMMUN
 4 (4)
 
-2027. Detta arbete behöver följas kontinuerligt, då det kan få betydande konsekvenser för både
+2027\. Detta arbete behöver följas kontinuerligt, då det kan få betydande konsekvenser för både
 
 arbetssätt, kompetenskrav och hur trygghet och kvalitet säkerställs inom äldreomsorgen framöver.
 
@@ -3436,7 +3436,7 @@ Bemanningsblans
 Ärende: Begäran om redovisning – lämplighetsprövning och referenstagning
 vid rekrytering inom vård och omsorg i Halland
 
-1. Referenstagning Hur genomförs referenstagning (struktur, omfattning,
+1\. Referenstagning Hur genomförs referenstagning (struktur, omfattning,
 
 dokumentation)? Finns gemensamma riktlinjer eller mallar?
 
@@ -3457,7 +3457,7 @@ Riktlinjer finns gällande referenstagning som processteg och färdiga frågemal
 
 i systemet.
 
-2. Lämplighetsprövning Hur bedöms kandidaten samlat (t.ex. intervjubedömning,
+2\. Lämplighetsprövning Hur bedöms kandidaten samlat (t.ex. intervjubedömning,
 tester, bakgrundskontroller)? Vilka krav ställs och hur säkerställs en enhetlig
 tillämpning?
 
@@ -3477,7 +3477,7 @@ handlingar och behörigheter.
 
 <!-- sida 89 -->
 
-3. Chefsrekrytering Finns särskilda rutiner eller förstärkta krav vid rekrytering av
+3\. Chefsrekrytering Finns särskilda rutiner eller förstärkta krav vid rekrytering av
 
 chefer?
 
@@ -3490,11 +3490,11 @@ Bakgrundskontroll genomförs på slutkandidat med hjälp av extern leverantör.
 Förvaltningen för Vård & Omsorg har identifierat vilka befattningar som
 bakgrundskontroll ska användas för och där ingår samtliga chefer.
 
-4. Utdrag ur belastningsregister I vilka fall begärs utdrag?
+4\. Utdrag ur belastningsregister I vilka fall begärs utdrag?
 
 Alla som anställs på Vård- och omsorgsförvaltningen ska lämna belastningsregister.
 
-5. Bedömning av nuläge Vad fungerar väl idag? Vilka utvecklingsbehov ser ni framåt?
+5\. Bedömning av nuläge Vad fungerar väl idag? Vilka utvecklingsbehov ser ni framåt?
 
 Det som fungerar väl idag
 
@@ -3541,24 +3541,24 @@ Syftet med denna begäran är att skapa en tydlig nulägesbild som möjliggör f
 Detta önskar vi att ni redovisar
 Vi ber er beskriva hur ni arbetar idag inom följande områden:
 
-1. Referenstagning
+1\. Referenstagning
 •  Hur genomförs referenstagning (struktur, omfattning, dokumentation)?
 
 •  Finns gemensamma riktlinjer eller mallar?
 
-2. Lämplighetsprövning
+2\. Lämplighetsprövning
 •  Hur bedöms kandidaten samlat (t.ex. intervjubedömning, tester,
 bakgrundskontroller)?
 •  Vilka krav ställs och hur säkerställs en enhetlig tillämpning?
 
-3. Chefsrekrytering
+3\. Chefsrekrytering
 
 •  Finns särskilda rutiner eller förstärkta krav vid rekrytering av chefer?
 
-4. Utdrag ur belastningsregister
+4\. Utdrag ur belastningsregister
 •  I vilka fall begärs utdrag?
 
-5. Bedömning av nuläge
+5\. Bedömning av nuläge
 •  Vad fungerar väl idag?
 •  Vilka utvecklingsbehov ser ni framåt?’
 
@@ -3674,7 +3674,7 @@ och riskerar att leda till oåterkalleliga skador på äldreomsorgen i Kungsback
 
 Förslag till beslut:
 
-1. Nämnden för Vård & Omsorg anmodar kommunstyrelsen att säkerställa att kommunens
+1\. Nämnden för Vård & Omsorg anmodar kommunstyrelsen att säkerställa att kommunens
 lokalförsörjningsplanering revideras och innefattar plan om ett nytt vård- och
 omsorgsboende i kommunal regi senast 2030 i Kungsbackas kommun, inför beslut om
 ”Fastställande av skattesats och kommunbudget 2027, plan 2028-2029 med anledning av
@@ -3837,7 +3837,7 @@ Diarienummer VO-2026–00092. (Socialstyrelsen) Utbetalning - medel för rekvisi
 Äldreomsorgslyftet.
 
 Diarienummer VO-2025–00221. (Kommunfullmäktige) KF 105. Kommunbudget 2027, plan 2028–
-2029.
+2029\.
 Diarienummer VO-2026–00152. (Kommunfullmäktige) KF 106. Uppföljning och prognos, april 2026
 för Kungsbacka kommun.
 
@@ -3864,7 +3864,7 @@ kommunfullmäktige, kommunstyrelsen.
 Diarienummer VO-2025–00443. (Kommunfullmäktige) KF 114. Införande av valfrihetssystem enligt
 LOV inom vård- och omsorgsboende.
 Diarienummer VO-2026–00268. (Kommunstyrelsens arbetsutskott) KSAU § 163. Sammanträdesdagar
-2027.
+2027\.
 
 Diarienummer VO-2026–00269. (Ernst & Young, EY) Granskning av kontinuitetshantering.
 

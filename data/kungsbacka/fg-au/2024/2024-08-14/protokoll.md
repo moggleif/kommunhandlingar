@@ -221,7 +221,7 @@ informationen i protokollet.
 
 Sammanfattning av ärendet
 Magnus Fogelblad, verksamhetscontroller redovisar preliminära betygsresultat för
-2024. En mer utförlig redovisning kommer på nämndsammanträdet.
+2024\. En mer utförlig redovisning kommer på nämndsammanträdet.
 
 Beslutsgång
 Ordförande Emanuel Forsell (M) prövar om arbetsutskottet kan notera informationen
@@ -683,11 +683,11 @@ Stigert Pettersson, förvaltningschef redovisar ärendet innehållandes informat
 •  Reflektioner från sommaren
 •  Föreläggande från Miljö & Hälsa
 
-- Frillesås - lukt
-- Åsa - bygglov
+\- Frillesås - lukt
+\- Åsa - bygglov
 
-- Särö - solskydd
-- Rydets förskola - föranstaltat om ventilation
+\- Särö - solskydd
+\- Rydets förskola - föranstaltat om ventilation
 
 •  Lokalplanering - pågående
 

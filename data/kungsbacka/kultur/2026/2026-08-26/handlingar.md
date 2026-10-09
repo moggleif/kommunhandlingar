@@ -194,7 +194,7 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Råd & stöd ................................ ................................ ................................ ................................ ........................... 4
+1\. Råd & stöd ................................ ................................ ................................ ................................ ........................... 4
 1.1 Utbildning ................................ ................................ ................................ ................................ ..................... 4
 1.2 Råd ................................ ................................ ................................ ................................ ................................ 4
 
@@ -202,15 +202,15 @@ Innehåll
 1.4 Kontakter ................................ ................................ ................................ ................................ ...................... 9
 1.5 Samverkan ................................ ................................ ................................ ................................ .................. 10
 
-2. Granskning ................................ ................................ ................................ ................................ ........................ 11
+2\. Granskning ................................ ................................ ................................ ................................ ........................ 11
 
 2.1 Riktad granskning ................................ ................................ ................................ ................................ ....... 11
 2.2 Fördjupad granskning ................................ ................................ ................................ ............................... 12
 
-3. Omvärld ................................ ................................ ................................ ................................ .............................. 13
+3\. Omvärld ................................ ................................ ................................ ................................ .............................. 13
 3.1 Fokus på cyberskydd och omställning ................................ ................................ ................................ 13
 
-4. Kommande år ................................ ................................ ................................ ................................ ...... 15
+4\. Kommande år ................................ ................................ ................................ ................................ ...... 15
 4.1 Inriktning året 202 6 ................................ ................................ ................................ ................................ ... 15
 4.2 Plan för granskning ................................ ................................ ................................ ................................ ... 15
 
@@ -218,7 +218,7 @@ Innehåll
 
 <!-- sida 6 -->
 
-1. Råd & stöd
+1\. Råd & stöd
 
 1.1 Utbildning
 
@@ -593,7 +593,7 @@ datadriven omställning och mänskliga rättigheter samt den länsgemensamma kon
 kraftsamling i Halland. Konferenserna har gett viktig inblick och kunskap i aktuella frågor som
 berör kommunens verksamheter och sammanhang.
 
-2. Granskning
+2\. Granskning
 
 2.1 Riktad granskning
 
@@ -653,7 +653,7 @@ högre andel överensstämmelser än avvikelser, även om utfallet innebär att 
 avvikande omständigheter att ta hand om. Dessa var punkterna om konsekvensbedömning, information till registrerade,
 anpassad säkerhet och korrekt deklarerade behandlingar i beghandlingsregister.
 
-3. Omvärld
+3\. Omvärld
 
 3.1 Fokus på cyberskydd och omställning
 
@@ -762,7 +762,7 @@ behov att använda data och teknikens möjligheter för att möta de demografisk
 blir förmågan att kunna analysera konsekvens och bedöma proportionalitet särskilt viktig för att de
 regeländringar som ger legitimitet för nya arbetssätt inte får oförutsedda och oönskade effekter.11
 
-4. Kommande    år
+4\. Kommande    år
 
 4.1 Inriktning å ret 202 6
 Baserat på strömningarna i kommunens omvärld och mina iakttagelser när jag följt kommunens
@@ -1054,7 +1054,7 @@ Ett antal tröskelanalyser och konsekvensbedömningar har genomförts, och arbet
 omhändertagna.
 En utbildningsplan för förvaltningens medarbetare är framtagen tillsammans med
 dataskyddskontakt för Service, och en grundutbildning för medarbetare beräknas vara klar under
-2026.
+2026\.
 
 3.2 Planerade åtgärder
 
@@ -1089,7 +1089,7 @@ informationssäkerhet, informationshantering, IT- och systemförvaltning samt vi
 Det innebär att om dessa områden inte omhändertas kommer dataskyddet aldrig att fullt ut kunna
 uppfylla de lagkrav nämnden har på sig.
 Arbetet med förvaltningens informationshantering fortgår i enlighet med de resurser som tillsattes
-2023. En uppdaterad, processbaserad klassificeringsstruktur beslutades 2024, och arbetet med
+2023\. En uppdaterad, processbaserad klassificeringsstruktur beslutades 2024, och arbetet med
 förvaltningens uppdaterade informationshanteringsplan baserad på den nya strukturen pågår
 aktivt, med fortsättning planerad för 2027. Ett projekt pågår under 2026 för en genomlysning och
 uppstrukturering av förvaltningens digitala förvaringsytor för att uppfylla lagkrav inom
@@ -1247,7 +1247,7 @@ Diarienummer
 KFT-2026-00184
 
 Begäran om yttrande - Nya nätbrott och åtgärder mot våld i nära relationer (KS 2026-
-00511)
+00511\)
 
 Förslag till beslut i nämnden för Kultur & Fritid
 
@@ -3316,20 +3316,20 @@ avlägsna innehåll med anknytning till vissa brott som begås online.
 2 § Lagen gäller nätbrottsinnehåll som sprids till allmänheten online.
 Med nätbrottsinnehåll avses innehåll som skäligen kan antas utgöra
 ett led i
-1. olaga hot enligt 4 kap. 5 § brottsbalken,
-2. olaga integritetsintrång enligt 4 kap. 6 c § brottsbalken,
-3. ofredande enligt 4 kap. 7 § brottsbalken,
-4. nättrakasserier enligt 4 kap. 9 d § brottsbalken,
-5. olaga identitetsexponering enligt 4 kap. 9 e § brottsbalken,
-6. sexuellt ofredande mot barn eller sexuellt ofredande enligt 6 kap.
+1\. olaga hot enligt 4 kap. 5 § brottsbalken,
+2\. olaga integritetsintrång enligt 4 kap. 6 c § brottsbalken,
+3\. ofredande enligt 4 kap. 7 § brottsbalken,
+4\. nättrakasserier enligt 4 kap. 9 d § brottsbalken,
+5\. olaga identitetsexponering enligt 4 kap. 9 e § brottsbalken,
+6\. sexuellt ofredande mot barn eller sexuellt ofredande enligt 6 kap.
 10 § brottsbalken eller
-7. könsbaserat näthat enligt 16 kap. 8 a § brottsbalken.
+7\. könsbaserat näthat enligt 16 kap. 8 a § brottsbalken.
 
 3 § Lagen gäller endast nätbrottsinnehåll som
-1. riktar sig till svenska medborgare eller personer som har hemvist
+1\. riktar sig till svenska medborgare eller personer som har hemvist
 i Sverige,
-2. gjorts tillgängligt av någon som befann sig i Sverige, eller
-3. avser brott mot en svensk medborgare eller någon som har hem-
+2\. gjorts tillgängligt av någon som befann sig i Sverige, eller
+3\. avser brott mot en svensk medborgare eller någon som har hem-
 vist i Sverige.
 
 1 Jfr Europaparlamentets och rådets direktiv (EU) 2024/1385 av den 14 maj 2024 om bekämp-
@@ -3480,14 +3480,14 @@ enligt lagen på någon av gärningsorterna. Det får inte dömas till
 påföljd som är strängare än det svåraste straff som är föreskrivet för
 brottet enligt lagen på gärningsorten.
 Första stycket gäller inte
-1. om brottet har begåtts av någon som tillhör Försvarsmakten
+1\. om brottet har begåtts av någon som tillhör Försvarsmakten
 på ett område där en avdelning av Försvarsmakten befann sig,
-2. om brottet har begåtts vid tjänstgöringen av någon som är
+2\. om brottet har begåtts vid tjänstgöringen av någon som är
 anställd av en svensk myndighet för att delta i en internationell
 militär insats eller i internationell civil krishantering,
-3. brott för vilket det lindrigaste straff som är föreskrivet enligt
+3\. brott för vilket det lindrigaste straff som är föreskrivet enligt
 svensk lag är fängelse i fyra år eller mer, och
-4. brott som avses i
+4\. brott som avses i
 a) 4 kap. 1 a, 4 c och 4 e §§ a) 4 kap. 1 a, 4 c, 4 d och 4 e §§
 och 16 kap. 10 a § första stycket 1 och 16 kap. 10 a § första stycket 1
 och sjätte stycket eller försök till och sjätte stycket eller försök till
@@ -3521,23 +3521,23 @@ Lydelse enligt prop. 2025/26:138 Föreslagen lydelse
 4 kap.
 3 §3
 Den som begår en brottslig gärning som utgör
-1. mord, dråp, misshandel, grov misshandel eller synnerligen grov
+1\. mord, dråp, misshandel, grov misshandel eller synnerligen grov
 misshandel enligt 3 kap. 1, 2, 5 eller 6 §,
-2. människorov, olaga frihets- 2. människorov, olaga frihets-
+2\. människorov, olaga frihets- 2. människorov, olaga frihets-
 berövande, olaga tvång, grovt olaga berövande, olaga tvång, grovt olaga
 tvång, olaga hot, grovt olaga hot, tvång, olaga hot, grovt olaga hot,
 hemfridsbrott, grovt hemfrids- hemfridsbrott, grovt hemfrids-
 brott, ofredande eller psykiskt våld brott, ofredande, psykiskt våld
 enligt 4 kap. 1, 2, 4, 5, 6, 7 eller eller olaga övervakning enligt 4 kap.
 7 b §,                1, 2, 4, 5, 6, 7, 7 b eller 7 c §,
-3. våldtäkt, grov våldtäkt, sexuellt övergrepp, grovt sexuellt över-
+3\. våldtäkt, grov våldtäkt, sexuellt övergrepp, grovt sexuellt över-
 grepp, våldtäkt mot barn, grov våldtäkt mot barn, sexuellt utnyttjande
 av barn, sexuellt övergrepp mot barn, grovt sexuellt övergrepp mot
 barn, sexuellt ofredande mot barn, sexuellt ofredande, grovt sexuellt
 ofredande mot barn eller grovt sexuellt ofredande enligt 6 kap. 1, 2,
 4, 5, 6 eller 10 §,
-4. skadegörelse eller grov skadegörelse enligt 12 kap. 1 eller 3 §, eller
-5. straffbart försök till brott enligt någon av 1–4 döms, om gärningen
+4\. skadegörelse eller grov skadegörelse enligt 12 kap. 1 eller 3 §, eller
+5\. straffbart försök till brott enligt någon av 1–4 döms, om gärningen
 har bevittnats av ett barn som är närstående eller tidigare närstående
 
 till både gärningsmannen och den som gärningen begås mot, för barn-
@@ -3563,36 +3563,36 @@ Den som förföljer en person Den som förföljer en person
 genom att begå eller på annat sätt genom att begå eller på annat sätt
 medverka till brottsliga gärningar medverka till
 som utgör
-1. misshandel enligt 3 kap. 5 § 1. brottsliga gärningar enligt
+1\. misshandel enligt 3 kap. 5 § 1. brottsliga gärningar enligt
 eller försök till sådant brott som 3–6 kap., 12 kap., 17 kap. 1, 2 eller
 inte är ringa,        3 § eller enligt 24 § lagen (1988:688)
 om kontaktförbud, eller
-2. olaga tvång enligt 4 kap. 4 § 2. gärningar som utgör straffbart
+2\. olaga tvång enligt 4 kap. 4 § 2. gärningar som utgör straffbart
 första stycket,       försök eller straffbar förberedelse
 eller stämpling till brott enligt 1
-3. olaga hot enligt 4 kap. 5 §
+3\. olaga hot enligt 4 kap. 5 §
 första stycket,
-4. hemfridsbrott enligt 4 kap. 6 §
+4\. hemfridsbrott enligt 4 kap. 6 §
 första stycket eller olaga intrång en-
 ligt 4 kap. 6 § andra stycket,
-5. kränkande fotografering enligt
+5\. kränkande fotografering enligt
 4 kap. 6 a §,
-6. olovlig identitetsanvändning
+6\. olovlig identitetsanvändning
 enligt 4 kap. 6 b §,
-7. olaga integritetsintrång enligt
+7\. olaga integritetsintrång enligt
 4 kap. 6 c §,
-8. ofredande enligt 4 kap. 7 §,
-9. uppmaning till självmord eller
+8\. ofredande enligt 4 kap. 7 §,
+9\. uppmaning till självmord eller
 oaktsam uppmaning till självmord
 
 enligt 4 kap. 7 a §,
-10. psykiskt våld enligt 4 kap.
+10\. psykiskt våld enligt 4 kap.
 7 b §,
-11. förtal eller grovt förtal enligt
+11\. förtal eller grovt förtal enligt
 5 kap. 1 eller 2 §,
-12. förolämpning enligt 5 kap.
+12\. förolämpning enligt 5 kap.
 3 §,
-13. sexuellt ofredande mot barn
+13\. sexuellt ofredande mot barn
 enligt 6 kap. 10 § första stycket eller
 sexuellt ofredande enligt 6 kap. 10 §
 andra stycket,
@@ -3605,20 +3605,20 @@ andra stycket,
 
 Författningsförslag                        SOU 2026:34
 
-14. skadegörelse enligt 12 kap.
+14\. skadegörelse enligt 12 kap.
 1 § eller försök till sådant brott,
 
-15. ringa skadegörelse enligt
+15\. ringa skadegörelse enligt
 12 kap. 2 §,
-16. våld eller hot mot tjänste-
+16\. våld eller hot mot tjänste-
 man enligt 17 kap. 1 § första stycket
 eller försök till sådant brott,
-17. angrepp mot tjänsteman
+17\. angrepp mot tjänsteman
 enligt 17 kap. 2 § första och andra
 styckena eller försök till sådant brott,
-18. förolämpning mot tjänste-
+18\. förolämpning mot tjänste-
 man enligt 17 kap. 3 §, eller
-19. överträdelse av kontaktför-
+19\. överträdelse av kontaktför-
 bud eller överträdelse av utvidgat
 eller särskilt utvidgat kontaktförbud
 enligt 24 § lagen (1988:688) om
@@ -3640,9 +3640,9 @@ Nuvarande lydelse     Föreslagen lydelse
 
 6 c §5
 Den som gör intrång i någon annans privatliv genom att sprida
-1. bild på eller annan uppgift om någons sexualliv,
-2. bild på eller annan uppgift om någons hälsotillstånd,
-3. bild på eller annan uppgift om att någon utsatts för ett brott
+1\. bild på eller annan uppgift om någons sexualliv,
+2\. bild på eller annan uppgift om någons hälsotillstånd,
+3\. bild på eller annan uppgift om att någon utsatts för ett brott
 som innefattar ett angrepp mot person, frihet eller frid,
 
 5 Senaste lydelse 2017:1136.
@@ -3653,10 +3653,10 @@ som innefattar ett angrepp mot person, frihet eller frid,
 
 SOU 2026:34                              Författningsförslag
 
-4. bild på någon som befinner sig i en mycket utsatt situation,
+4\. bild på någon som befinner sig i en mycket utsatt situation,
 eller
 
-5. bild på någons helt eller delvis nakna kropp
+5\. bild på någons helt eller delvis nakna kropp
 döms, om spridningen är ägnad att medföra allvarlig skada för den
 som bilden eller uppgiften rör, för olaga integritetsintrång till böter
 eller fängelse i högst två år.
@@ -3785,17 +3785,17 @@ Den som på sannolika skäl är misstänkt för ett brott för vilket det
 
 syn till brottets beskaffenhet, den misstänktes förhållanden eller någon
 annan omständighet finns risk för att han eller hon
-1. avviker eller på något annat sätt undandrar sig lagföring eller straff,
-2. genom att undanröja bevis eller på något annat sätt försvårar
+1\. avviker eller på något annat sätt undandrar sig lagföring eller straff,
+2\. genom att undanröja bevis eller på något annat sätt försvårar
 sakens utredning, eller
-3. fortsätter sin brottsliga verksamhet.
+3\. fortsätter sin brottsliga verksamhet.
 Häktning ska ske om det inte är uppenbart att skäl till häktning
 saknas och misstanken avser
-1. ett brott för vilket det inte är föreskrivet lindrigare straff än
+1\. ett brott för vilket det inte är föreskrivet lindrigare straff än
 fängelse i ett år och sex månader,
-2. försök, förberedelse eller stämpling till ett brott för vilket det
+2\. försök, förberedelse eller stämpling till ett brott för vilket det
 inte är föreskrivet lindrigare straff än fängelse i fyra år, eller
-3. grov fridskränkning, grov 3. grov fridskränkning, grov
+3\. grov fridskränkning, grov 3. grov fridskränkning, grov
 kvinnofridskränkning eller heders- kvinnofridskränkning, grov olaga
 förtryck enligt 4 kap. 4 a eller 4 e § förföljelse eller hedersförtryck enligt
 brottsbalken.         4 kap. 4 a §, b § andra stycket eller
@@ -3911,15 +3911,15 @@ Nuvarande lydelse     Föreslagen lydelse
 1 a §2
 Förutsättningarna i 1 § för att meddela ett kontaktförbud enligt
 den paragrafen ska alltid anses uppfyllda om
-1. den som förbudet avses gälla mot har dömts för brott mot den
+1\. den som förbudet avses gälla mot har dömts för brott mot den
 som förbudet avses skydda,
-2. brottsligheten har innefattat angrepp mot liv, hälsa, frihet eller
+2\. brottsligheten har innefattat angrepp mot liv, hälsa, frihet eller
 frid,
-3. brottsligheten har begåtts mot en närstående eller tidigare
+3\. brottsligheten har begåtts mot en närstående eller tidigare
 närstående,
-4. brottslighetens straffvärde uppgår till fängelse i sex månader
+4\. brottslighetens straffvärde uppgår till fängelse i sex månader
 eller mer, och
-5. det inte finns särskilda skäl mot att meddela ett kontaktförbud.
+5\. det inte finns särskilda skäl mot att meddela ett kontaktförbud.
 Om domen avser olaga för- Om domen avser olaga för-
 följelse eller hedersförtryck enligt följelse, grov olaga förföljelse eller
 4 kap. 4 b eller 4 e § brottsbalken, hedersförtryck enligt 4 kap. 4 b
@@ -3931,11 +3931,11 @@ Ett kontaktförbud får meddelas med stöd av första och andra
 styckena inom följande tider när den som förbudet avses gälla mot
 
 har dömts till
-1. fängelse, fram till dess att påföljden helt har verkställts, dock
+1\. fängelse, fram till dess att påföljden helt har verkställts, dock
 under minst ett år från frigivningen,
-2. sluten ungdomsvård, senast ett år från det att påföljden helt har
+2\. sluten ungdomsvård, senast ett år från det att påföljden helt har
 verkställts,
-3. rättspsykiatrisk vård, senast ett år från det att vården har upphört,
+3\. rättspsykiatrisk vård, senast ett år från det att vården har upphört,
 
 1 Jfr Europaparlamentets och rådets direktiv (EU) 2024/1385 av den 14 maj 2024 om bekämp-
 ning av våld mot kvinnor och våld i nära relationer, i den ursprungliga lydelsen.
@@ -3947,7 +3947,7 @@ ning av våld mot kvinnor och våld i nära relationer, i den ursprungliga lydel
 
 Författningsförslag                        SOU 2026:34
 
-4. annan påföljd, senast ett år från det att domen i den del som
+4\. annan påföljd, senast ett år från det att domen i den del som
 avser påföljd har fått laga kraft mot den dömde.
 
 Denna lag träder i kraft den 14 juni 2027.
@@ -3968,24 +3968,24 @@ Nuvarande lydelse     Föreslagen lydelse
 
 2 §2
 Lagen gäller dock inte
-1. tillhandahållande endast av nät eller andra förbindelser för över-
+1\. tillhandahållande endast av nät eller andra förbindelser för över-
 föring av meddelanden eller av andra anordningar som krävs för att
 kunna ta i anspråk ett nät eller annan förbindelse,
-2. förmedling av meddelanden inom en myndighet eller mellan
+2\. förmedling av meddelanden inom en myndighet eller mellan
 myndigheter eller inom ett företag eller en koncern,
-3. tjänster som skyddas av tryckfrihetsförordningen eller yttrande-
+3\. tjänster som skyddas av tryckfrihetsförordningen eller yttrande-
 frihetsgrundlagen,
-4. meddelanden som är avsedda 4. meddelanden som är avsedda
+4\. meddelanden som är avsedda 4. meddelanden som är avsedda
 bara för en viss mottagare eller en bara för en viss mottagare eller en
 bestämd krets av mottagare (elek- bestämd krets av mottagare (elek-
 tronisk post), eller  tronisk post),
-5. meddelanden som omfattas 5. meddelanden som omfattas
+5\. meddelanden som omfattas 5. meddelanden som omfattas
 av Europaparlamentets och rådets av Europaparlamentets och rådets
 förordning (EU) 2021/784 av den förordning (EU) 2021/784 av den
 29 april 2021 om åtgärder mot 29 april 2021 om åtgärder mot
 spridning av terrorisminnehåll spridning av terrorisminnehåll
 online.               online, eller
-6. meddelanden som omfattas av
+6\. meddelanden som omfattas av
 lagen (2027:000) om avlägsnande
 
 av nätbrottsinnehåll.
@@ -4024,7 +4024,7 @@ Sekretess gäller hos Polismyndigheten för uppgift om en enskilds
 personliga eller ekonomiska förhållanden, om det kan antas att den
 enskilde eller någon närstående till denne lider skada eller men om
 uppgiften röjs och uppgiften förekommer i ärende enligt
-1. Europaparlamentets och 1. Europaparlamentets och
+1\. Europaparlamentets och 1. Europaparlamentets och
 rådets förordning (EU) 2021/784 rådets förordning (EU) 2021/784
 av den 29 april 2021 om åtgärder av den 29 april 2021 om åtgärder
 mot spridning av terrorisminnehåll mot spridning av terrorisminnehåll
@@ -4033,11 +4033,11 @@ med kompletterande bestämmelser med kompletterande bestämmelser
 till EU:s förordning om åtgärder till EU:s förordning om åtgärder
 mot spridning av terrorisminnehåll mot spridning av terrorisminnehåll
 online, eller         online,
-2. lagen (2026:000) om av- 2. lagen (2026:000) om av-
+2\. lagen (2026:000) om av- 2. lagen (2026:000) om av-
 lägsnande av rekryteringsinnehåll lägsnande av rekryteringsinnehåll
 
 online.               online, eller
-3. lagen (2027:000) om avlägs-
+3\. lagen (2027:000) om avlägs-
 nande av nätbrottsinnehåll.
 För uppgift i en allmän handling gäller sekretessen i högst sjuttio år.
 
@@ -4405,15 +4405,15 @@ Nuvarande lydelse     Föreslagen lydelse
 5 §2
 Bidrag får, i mån av tillgång på medel, lämnas till en ideell organi-
 sation som
-1. är en juridisk person som bedriver och under minst två år före
+1\. är en juridisk person som bedriver och under minst två år före
 ansökan om bidrag har bedrivit en sådan verksamhet i Sverige som
 avses i 1 §,
-2. bedriver verksamhet som är lokalt förankrad (lokal organisa-
+2\. bedriver verksamhet som är lokalt förankrad (lokal organisa-
 tion), bedriver riksomfattande verksamhet som stöder lokala eller
 regionala organisationer (riksorganisation) eller bedriver verksamhet
 som är av nationellt intresse (riksintresse),
-3. har antagit stadgar och är demokratiskt uppbyggd,
-4. styr sin verksamhet mot fast- 4. styr sin verksamhet mot fast-
+3\. har antagit stadgar och är demokratiskt uppbyggd,
+4\. styr sin verksamhet mot fast- 4. styr sin verksamhet mot fast-
 
 ställda mål och förväntade resultat ställda mål och förväntade resultat
 och har fastställt en plan för den och har fastställt en plan för den
@@ -4421,10 +4421,10 @@ verksamhet som bidrag söks för verksamhet som bidrag söks för
 där det beskrivs vilka aktiviteter där det beskrivs vilka aktiviteter
 som planeras och hur arbetet som planeras och hur arbetet
 kommer att följas upp, och kommer att följas upp,
-5. kan dokumentera sin verk- 5. kan dokumentera sin verk-
+5\. kan dokumentera sin verk- 5. kan dokumentera sin verk-
 samhet genom fastställda verksam- samhet genom fastställda verksam-
 hets- och revisionsberättelser. hets- och revisionsberättelser, och
-6. förbinder sig att inte lagra en
+6\. förbinder sig att inte lagra en
 stödsökandes personuppgifter längre
 tid än vad som är nödvändigt för
 att tillhandahålla stödet och under
@@ -4448,27 +4448,27 @@ första stycket 4.
 
 13 §
 En ansökan om bidrag ska innehålla
-1. den sökande organisationens stadgar eller stiftelseförordnande,
-2. handlingar som visar vem eller vilka som har rätt att företräda
+1\. den sökande organisationens stadgar eller stiftelseförordnande,
+2\. handlingar som visar vem eller vilka som har rätt att företräda
 sökanden,
-3. uppgift om vilket eller vilka kalenderår som ansökan avser,
-4. verksamhets- och förvaltningsberättelse, balans- och resultat-
+3\. uppgift om vilket eller vilka kalenderår som ansökan avser,
+4\. verksamhets- och förvaltningsberättelse, balans- och resultat-
 räkning samt revisionsberättelse för det senaste hela räkenskapsåret,
-5. uppgifter om hur den verksamhet som bidrag söks för ska be-
+5\. uppgifter om hur den verksamhet som bidrag söks för ska be-
 drivas,
-6. för verksamhetsbidrag, uppgifter om vilka aktiviteter som an-
+6\. för verksamhetsbidrag, uppgifter om vilka aktiviteter som an-
 sökan avser, vad som är målet med aktiviteterna, hur den sökande ska
 följa upp de resultat som har uppnåtts och hur de förväntade
 resultaten förhåller sig till syftet med bidraget,
-7. årlig budget för den verksamhet som ansökan avser,
-8. uppgifter om andra sökta eller 8. uppgifter om andra sökta eller
+7\. årlig budget för den verksamhet som ansökan avser,
+8\. uppgifter om andra sökta eller 8. uppgifter om andra sökta eller
 beviljade bidrag av liknande slag beviljade bidrag av liknande slag
 och i sådant fall för vilket ända- och i sådant fall för vilket ända-
 mål och med vilket belopp, och mål och med vilket belopp,
-9. en sådan förbindelse som av-
+9\. en sådan förbindelse som av-
 
 ses i 5 § första stycket 6, och
-9. övrig information som be- 10. övrig information som be-
+9\. övrig information som be- 10. övrig information som be-
 hövs för prövning av ansökan. hövs för prövning av ansökan.
 
 Denna förordning träder i kraft den 14 juni 2027.
@@ -5375,11 +5375,11 @@ Strategin har ett tydligt fokus på det våldsförebyggande arbetet, i
 syfte att betona att våldet ska upphöra, inte enbart hanteras.30 Den
 har tre utgångspunkter som ska genomsyra genomförandet:31
 
-1. Rättighetsbaserade insatser och ett stärkt brottsofferperspektiv
-2. En ändamålsenlig samverkan för att motverka samtliga vålds-
+1\. Rättighetsbaserade insatser och ett stärkt brottsofferperspektiv
+2\. En ändamålsenlig samverkan för att motverka samtliga vålds-
 områden
 
-3. Ett kunskapsbaserat arbete
+3\. Ett kunskapsbaserat arbete
 
 Ett rättighetsbaserat arbetssätt fokuserar på att stärka individer, främja
 lika rättigheter och delaktighet, motverka diskriminering och säker-
@@ -5650,30 +5650,30 @@ handel.44 I åtgärdsprogrammet, som omfattar 132 åtgärder, lyfts fyra
 utvecklingsområden fram som kräver mer fokus för att ett kraftfullt
 
 och effektivt arbete ska säkerställas:
-1. Ett lämnaprogram för att lämna destruktiva relationer.
+1\. Ett lämnaprogram för att lämna destruktiva relationer.
 
-2. Kraftsamling mot hedersrelaterat våld och förtryck.
-3. Stärkt stöd till barn och unga som upplever våld, inklusive barn
+2\. Kraftsamling mot hedersrelaterat våld och förtryck.
+3\. Stärkt stöd till barn och unga som upplever våld, inklusive barn
 som förs utomlands i hederskontexter.
 
-4. Ökad kunskap om digitala dimensioner av mäns våld mot
+4\. Ökad kunskap om digitala dimensioner av mäns våld mot
 kvinnor, våld i nära relationer och hedersrelaterat våld och
 förtryck.
 
 Åtgärderna är indelade under sex målsättningar, utifrån regeringens
 prioriteringar, den nationella strategin och Istanbulkonventionen:
-1. Övergripande åtgärder för en långsiktig och hållbar struktur för
+1\. Övergripande åtgärder för en långsiktig och hållbar struktur för
 stöd, organisering och uppföljning.
 
-2. Tidiga och förebyggande insatser, med fokus på barn och unga
+2\. Tidiga och förebyggande insatser, med fokus på barn och unga
 och hedersrelaterat våld och förtryck.
-3. Återfallsförebyggande insatser med fokus på våldsutövare.
+3\. Återfallsförebyggande insatser med fokus på våldsutövare.
 
-4. Förbättrad upptäckt av våld och starkare skydd och stöd till ut-
+4\. Förbättrad upptäckt av våld och starkare skydd och stöd till ut-
 satta.
-5. Effektivare brottsbekämpning.
+5\. Effektivare brottsbekämpning.
 
-6. Förbättrad kunskap och metodutveckling.
+6\. Förbättrad kunskap och metodutveckling.
 
 44 A2024/00869.
 
@@ -11227,17 +11227,17 @@ SOU 2026:34    Allmänna bestämmelser och straffrättsliga förpliktelser (arti
 skriberas om den misstänkta inte har häktats, fått del av åtal eller
 godkänt ett strafföreläggande för brottet inom
 
-1. två år, om det föreskrivna straffet för brottet inte är svårare än
+1\. två år, om det föreskrivna straffet för brottet inte är svårare än
 fängelse i ett år,
 
-2. fem år, om det är föreskrivet ett svårare straff för brottet än
+2\. fem år, om det är föreskrivet ett svårare straff för brottet än
 fängelse i ett år men inte över två år,
-3. tio år, om det är föreskrivet ett svårare straff för brottet än
+3\. tio år, om det är föreskrivet ett svårare straff för brottet än
 fängelse i två år men inte över fem år,
 
-4. femton år, om det är föreskrivet ett svårare straff för brottet än
+4\. femton år, om det är föreskrivet ett svårare straff för brottet än
 fängelse i fem år men inte över åtta år,
-5. tjugofem år, om det är föreskrivet ett svårare straff för brottet
+5\. tjugofem år, om det är föreskrivet ett svårare straff för brottet
 än fängelse i åtta år.
 
 Om en gärning innefattar flera brott får en påföljd dömas ut för alla
@@ -11247,13 +11247,13 @@ Innebörden av bestämmelserna om absolut preskription (35 kap.
 dömas ut. Det gäller även om preskriptionsavbrott, genom t.ex. häkt-
 ning, har skett. Ett brott preskriberas alltid när det har gått
 
-1. fem år, om endast böter är föreskrivet för brottet och tiden för
+1\. fem år, om endast böter är föreskrivet för brottet och tiden för
 preskription bestäms enligt ovan och alltså inte är särreglerad i
 annan författning,
 
-2. femton år, för andra brott än i 1 för vilka det inte är föreskrivet
+2\. femton år, för andra brott än i 1 för vilka det inte är föreskrivet
 ett svårare straff än fängelse i två år, eller
-3. trettio år, för andra brott än i 1 och 2.
+3\. trettio år, för andra brott än i 1 och 2.
 
 Vissa brott är undantagna från preskription. Ett sådant brott är brott
 enligt 2 § första eller tredje stycket175 lagen om förbud mot köns-
@@ -11648,7 +11648,7 @@ någon går till väga för att komma i kontakt med polisen för att
 antingen anmäla brott eller lämna ett tips. Det förtydligas att tips
 kan lämnas via webbplatsen eller telefon (114 14 eller 112).12
 Mellan 2020 och 2024 bedrev polisen en informationskampanj
-#komtilloss som syftade till att uppmuntra personer som utsatts
+\#komtilloss som syftade till att uppmuntra personer som utsatts
 för våld i nära relationer att kontakta polisen. Kampanjen, som be-
 tonade allvaret i sådant våld, spreds via polisens egna kanaler, annons-
 ering och media. Den riktades till brottsoffer, deras anhöriga och
@@ -18014,7 +18014,7 @@ stöd. Det saknas dock en motsvarande riktlinje för personal inom
 hälso- och sjukvården.
 Socialstyrelsen fick i uppdrag av regeringen att stödja genomföran-
 det inom vård och omsorg av den tidigare nationella strategin (2017–
-2026) för att förebygga och bekämpa mäns våld mot kvinnor.79 I re-
+2026\) för att förebygga och bekämpa mäns våld mot kvinnor.79 I re-
 gleringsbrevet för 2025 ändrades uppdraget så att Socialstyrelsen
 också ska förstärka arbetet för att stödja och främja implementering
 av myndighetens föreskrifter och allmänna råd som rör våld som om-
@@ -23560,11 +23560,11 @@ våld och förtryck (skr. 2025/26:245).
 
 Förebyggande arbete och tidig intervention (artiklarna 34–37) SOU 2026:34
 
-1. Rättighetsbaserade insatser och ett stärkt brottsofferperspektiv.
+1\. Rättighetsbaserade insatser och ett stärkt brottsofferperspektiv.
 
-2. En ändamålsenlig samverkan för att motverka samtliga
+2\. En ändamålsenlig samverkan för att motverka samtliga
 våldsområden.
-3. Ett kunskapsbaserat arbete.
+3\. Ett kunskapsbaserat arbete.
 
 Ett rättighetsbaserat arbetssätt fokuserar på att stärka individer, främja
 lika rättigheter och delaktighet, motverka diskriminering och säker-
@@ -23631,12 +23631,12 @@ grammet6 inom ramen för den tidigare strategin – avseende 2024–
 2026 – lyfts fyra utvecklingsområden som regeringen fokuserar mer
 på för att säkerställa ett kraftfullt och effektivt arbete:
 
-1. Ett lämnaprogram för att lämna destruktiva relationer.
-2. Kraftsamling mot hedersrelaterat våld och förtryck.
+1\. Ett lämnaprogram för att lämna destruktiva relationer.
+2\. Kraftsamling mot hedersrelaterat våld och förtryck.
 
-3. Stärkt stöd till barn och unga som upplever våld, inklusive barn
+3\. Stärkt stöd till barn och unga som upplever våld, inklusive barn
 som förs utomlands i hederskontexter.
-4. Ökad kunskap om digitala dimensioner av mäns våld mot kvinnor,
+4\. Ökad kunskap om digitala dimensioner av mäns våld mot kvinnor,
 våld i nära relationer och hedersrelaterat våld och förtryck.
 
 4 A. skr. s. 28.
@@ -23653,18 +23653,18 @@ Förebyggande arbete och tidig intervention (artiklarna 34–37) SOU 2026:34
 Åtgärderna är indelade under sex målsättningar, utifrån regeringens
 prioriteringar, den nationella strategin och Istanbulkonventionen:
 
-1. Övergripande åtgärder för en långsiktig och hållbar struktur för
+1\. Övergripande åtgärder för en långsiktig och hållbar struktur för
 stöd, organisering och uppföljning
 
-2. Tidiga och förebyggande insatser, med fokus på barn och unga
+2\. Tidiga och förebyggande insatser, med fokus på barn och unga
 och hedersrelaterat våld och förtryck
-3. Återfallsförebyggande insatser med fokus på våldsutövare
+3\. Återfallsförebyggande insatser med fokus på våldsutövare
 
-4. Förbättrad upptäckt av våld och starkare skydd och stöd till ut-
+4\. Förbättrad upptäckt av våld och starkare skydd och stöd till ut-
 satta
-5. Effektivare brottsbekämpning
+5\. Effektivare brottsbekämpning
 
-6. Förbättrad kunskap och metodutveckling
+6\. Förbättrad kunskap och metodutveckling
 
 I januari 2026 inrättade regeringen ett råd för att förebygga och
 bekämpa mäns våld mot kvinnor, Rådet för kvinnofrid. Arbetet i
@@ -30186,7 +30186,7 @@ ska sträva efter att samla in administrativa data på grundval av gemen-
 samma disaggregeringar som utvecklats i samarbete med och i enlig-
 
 53 Brottsförebyggande rådet, Nationella trygghetsundersökningen – uppföljningsintervjuer
-2024. En redovisning av omständigheter kring brottshändels (rapport 2025:2).
+2024\. En redovisning av omständigheter kring brottshändels (rapport 2025:2).
 54 Brottsförebyggande rådet, Brott i nära relation. Kartläggning av utsatthet under 2022 och
 under livstiden (rapport 2024:4).
 619
@@ -30287,56 +30287,56 @@ Statens offentliga utredningar  2026
 
 Kronologisk förteckning
 
-1. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
+1\. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
 utveckling – ett nytt incitament baserat av kapacitet, redundans och svenskt-
 på utgifter för FoU-personal. Fi. danskt samarbete. LI.
-2. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
-3. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
+2\. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
+3\. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
 A.                     – förslag för att motverka
-4. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
+4\. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
 ett pedagogiskt ledarskap. U. 20. Belägg för broms? Åtgärder
-5. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
+5\. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
 m.m. Fi.               kommunalskattesatser. Fi.
-6. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
+6\. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
 hälso- och sjukvården. Styrning med Ju.
 tydliga roller och ansvar för aktörerna. 22. Stärkt läkemedelsförsörjning
 S.                     i samverkan. Nationella åtgärder för
-7. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
+7\. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
 av folkhälsopolitiken. vid brist. S.
 Del I: Effektivare folkhälsoinsatser 23. Tolkavgift och förbud
 genom hälsoekonomiska analyser. mot barntolkning. A.
 Del II: Utvärdering av alkohol- 24. Mervärdesskatt vid uthyrning
 politikens styrmedel. S. och överlåtelse av fastighet. Fi.
-8. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
+8\. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
 unga. S.
-26. Digitala verktyg inom bolagsrätten.
-9. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
-10. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
+26\. Digitala verktyg inom bolagsrätten.
+9\. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
+10\. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
 brottsbekämpning. Del 1 och 2. Ju. rätten. Ju.
-11. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
+11\. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
 verksamhet och tillgångar till Tredje rapportering. Ju.
 och Fjärde AP-fonderna. Fi. 28. Tillgång till passageraruppgifter
-12. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
+12\. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
 verksamhet och tillgångar till Andra 29. Förbud mot uppfödning av djur
 AP-fonden. Fi.         för pälsproduktion. LI.
-13. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
+13\. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
 med kriminella sammanslutningar. Ju. häktning och fängelsestraff. Ju.
-14. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
+14\. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
 rad reglering av handel med ädelmetall-
-32. Att säga ja! Kommunernas förutsätt-
+32\. Att säga ja! Kommunernas förutsätt-
 arbeten. KN.
 ningar att ta emot stora företagsetable-
-15. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
+15\. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
 Konsekvenser för samer av svensk
-33. Vägen mot utfasning. Styrmedel för
+33\. Vägen mot utfasning. Styrmedel för
 politik. Volym 1 och 2. Ku.
 ett fossilfritt samhälle. KN.
-16. Försvarsexportinitiativ. För gemensam
+16\. Försvarsexportinitiativ. För gemensam
 säkerhet. Fö.
 
 <!-- sida 657 -->
 
-34. Nya nätbrott och andra åtgärder för
+34\. Nya nätbrott och andra åtgärder för
 genomförandet av direktivet om
 bekämpning av våld mot kvinnor och
 våld i nära relationer. Volym 1 & 2. Ju.
@@ -35375,24 +35375,24 @@ SOU 2026:34   Genomförandet av direktivet – en ny möjlighet att avlägsna n�
 olagligt innehåll som översänds till en värdtjänstleverantör. Föreläg-
 gandet ska då innehålla
 
-1. en hänvisning till den rättsliga grunden för föreläggandet, i unions-
+1\. en hänvisning till den rättsliga grunden för föreläggandet, i unions-
 rätt eller nationell rätt,
 
-2. en motivering som förklarar varför informationen utgör olagligt
+2\. en motivering som förklarar varför informationen utgör olagligt
 innehåll, med hänvisning till en eller flera specifika bestämmel-
 ser i unionsrätt eller nationell rätt i överensstämmelse med unions-
 rätten,
-3. information som identifierar den utfärdande myndigheten,
+3\. information som identifierar den utfärdande myndigheten,
 
-4. tydlig information som gör det möjligt för leverantören av för-
+4\. tydlig information som gör det möjligt för leverantören av för-
 medlingstjänster14 att identifiera och lokalisera det berörda olag-
 liga innehållet, såsom en eller flera URL och, när så är nödvändigt,
 ytterligare information,
-5. information om de prövningsmekanismer som finns tillgängliga
+5\. information om de prövningsmekanismer som finns tillgängliga
 för leverantören av förmedlingstjänster och för den tjänstemot-
 tagare som tillhandahållit innehållet, och
 
-6. i tillämpliga fall, upplysningar om vilken myndighet som ska få
+6\. i tillämpliga fall, upplysningar om vilken myndighet som ska få
 informationen om den verkan som ges åt föreläggandena.
 
 Såsom konstaterats avseende den föreslagna lagen om avlägsnande
@@ -40580,14 +40580,14 @@ Vilket innehåll som omfattas av lagen framgår av 2–4 §§.
 2 § Lagen gäller nätbrottsinnehåll som sprids till allmänheten online.
 Med nätbrottsinnehåll avses innehåll som skäligen kan antas utgöra ett
 led i
-1. olaga hot enligt 4 kap. 5 § brottsbalken,
-2. olaga integritetsintrång enligt 4 kap. 6 c § brottsbalken,
-3. ofredande enligt 4 kap. 7 § brottsbalken,
-4. nättrakasserier enligt 4 kap. 9 d § brottsbalken,
-5. olaga identitetsexponering enligt 4 kap. 9 e § brottsbalken,
-6. sexuellt ofredande mot barn eller sexuellt ofredande enligt 6 kap. 10 §
+1\. olaga hot enligt 4 kap. 5 § brottsbalken,
+2\. olaga integritetsintrång enligt 4 kap. 6 c § brottsbalken,
+3\. ofredande enligt 4 kap. 7 § brottsbalken,
+4\. nättrakasserier enligt 4 kap. 9 d § brottsbalken,
+5\. olaga identitetsexponering enligt 4 kap. 9 e § brottsbalken,
+6\. sexuellt ofredande mot barn eller sexuellt ofredande enligt 6 kap. 10 §
 brottsbalken eller
-7. könsbaserat näthat enligt 16 kap. 8 a § brottsbalken.
+7\. könsbaserat näthat enligt 16 kap. 8 a § brottsbalken.
 Paragrafen reglerar vad som avses med nätbrottsinnehåll. Över-
 vägandena finns i avsnitt 12.1.
 Enligt första stycket gäller lagen nätbrottsinnehåll som sprids till
@@ -40639,10 +40639,10 @@ kretsen. Vilka omständigheter som är relevanta vid bedömningen
 kan också variera beroende på vilket brott det är fråga om.
 
 3 § Lagen gäller endast nätbrottsinnehåll som
-1. riktar sig till svenska medborgare eller personer som har hemvist i
+1\. riktar sig till svenska medborgare eller personer som har hemvist i
 Sverige,
-2. gjorts tillgängligt av någon som befann sig i Sverige, eller
-3. avser brott mot en svensk medborgare eller någon som har hemvist i
+2\. gjorts tillgängligt av någon som befann sig i Sverige, eller
+3\. avser brott mot en svensk medborgare eller någon som har hemvist i
 Sverige.
 
 834
@@ -41076,14 +41076,14 @@ Författningskommentar                      SOU 2026:34
 gärningsorterna. Det får inte dömas till påföljd som är strängare än det
 svåraste straff som är föreskrivet för brottet enligt lagen på gärningsorten.
 Första stycket gäller inte
-1. om brottet har begåtts av någon som tillhör Försvarsmakten på ett
+1\. om brottet har begåtts av någon som tillhör Försvarsmakten på ett
 område där en avdelning av Försvarsmakten befann sig,
-2. om brottet har begåtts vid tjänstgöringen av någon som är anställd av
+2\. om brottet har begåtts vid tjänstgöringen av någon som är anställd av
 en svensk myndighet för att delta i en internationell militär insats eller i
 internationell civil krishantering,
-3. brott för vilket det lindrigaste straff som är föreskrivet enligt svensk
+3\. brott för vilket det lindrigaste straff som är föreskrivet enligt svensk
 lag är fängelse i fyra år eller mer, och
-4. brott som avses i
+4\. brott som avses i
 a) 4 kap. 1 a, 4 c, 4 d och 4 e §§ och 16 kap. 10 a § första stycket 1 och
 sjätte stycket eller försök till sådana brott,
 b) 6 kap. 1–6, 8, 9 och 12 §§ eller försök till brott enligt 6 kap. 1, 2, 4–6,
@@ -41105,24 +41105,24 @@ gälla för äktenskapsresebrott och äktenskapsresebrott mot barn enligt
 3 §
 
 Den som begår en brottslig gärning som utgör
-1. mord, dråp, misshandel, grov misshandel eller synnerligen grov miss-
+1\. mord, dråp, misshandel, grov misshandel eller synnerligen grov miss-
 handel enligt 3 kap. 1, 2, 5 eller 6 §,
-2. människorov, olaga frihetsberövande, olaga tvång, grovt olaga tvång,
+2\. människorov, olaga frihetsberövande, olaga tvång, grovt olaga tvång,
 olaga hot, grovt olaga hot, hemfridsbrott, grovt hemfridsbrott, ofredande,
 psykiskt våld eller olaga övervakning enligt 4 kap. 1, 2, 4, 5, 6, 7, 7 b eller 7 c §,
-3. våldtäkt, grov våldtäkt, sexuellt övergrepp, grovt sexuellt övergrepp,
+3\. våldtäkt, grov våldtäkt, sexuellt övergrepp, grovt sexuellt övergrepp,
 våldtäkt mot barn, grov våldtäkt mot barn, sexuellt utnyttjande av barn,
 sexuellt övergrepp mot barn, grovt sexuellt övergrepp mot barn, sexuellt
 ofredande mot barn, sexuellt ofredande, grovt sexuellt ofredande mot
 barn eller grovt sexuellt ofredande enligt 6 kap. 1, 2, 4, 5, 6 eller 10 §,
-4. skadegörelse eller grov skadegörelse enligt 12 kap. 1 eller 3 §, eller
+4\. skadegörelse eller grov skadegörelse enligt 12 kap. 1 eller 3 §, eller
 844
 
 <!-- sida 896 -->
 
 SOU 2026:34                            Författningskommentar
 
-5. straffbart försök till brott enligt någon av 1–4 döms, om gärningen
+5\. straffbart försök till brott enligt någon av 1–4 döms, om gärningen
 har bevittnats av ett barn som är närstående eller tidigare närstående till
 både gärningsmannen och den som gärningen begås mot, för barnfridsbrott
 till fängelse i högst två år. Om brottet är ringa, döms till böter eller
@@ -41138,9 +41138,9 @@ utvidgas tillämpningsområdet till att även omfatta gärningar enligt
 4 b §
 
 Den som förföljer en person genom att begå eller på annat sätt medverka till
-1. brottsliga gärningar enligt 3–6 kap., 12 kap., 17 kap. 1, 2 eller 3 § eller
+1\. brottsliga gärningar enligt 3–6 kap., 12 kap., 17 kap. 1, 2 eller 3 § eller
 enligt 24 § lagen (1988:688) om kontaktförbud, eller
-2. gärningar som utgör straffbart försök eller straffbar förberedelse eller
+2\. gärningar som utgör straffbart försök eller straffbar förberedelse eller
 stämpling till brott enligt 1
 döms, om var och en av gärningarna har utgjort led i en upprepad kränk-
 ning av personens integritet, för olaga förföljelse till fängelse i högst fyra år.
@@ -41338,12 +41338,12 @@ fall enligt gällande principer för brottskonkurrens.
 6 c §
 
 Den som gör intrång i någon annans privatliv genom att sprida
-1. bild på eller annan uppgift om någons sexualliv,
-2. bild på eller annan uppgift om någons hälsotillstånd,
-3. bild på eller annan uppgift om att någon utsatts för ett brott som
+1\. bild på eller annan uppgift om någons sexualliv,
+2\. bild på eller annan uppgift om någons hälsotillstånd,
+3\. bild på eller annan uppgift om att någon utsatts för ett brott som
 innefattar ett angrepp mot person, frihet eller frid,
-4. bild på någon som befinner sig i en mycket utsatt situation, eller
-5. bild på någons helt eller delvis nakna kropp
+4\. bild på någon som befinner sig i en mycket utsatt situation, eller
+5\. bild på någons helt eller delvis nakna kropp
 döms, om spridningen är ägnad att medföra allvarlig skada för den som
 bilden eller uppgiften rör, för olaga integritetsintrång till böter eller fängelse i
 högst två år.
@@ -42815,17 +42815,17 @@ Den som på sannolika skäl är misstänkt för ett brott för vilket det är f�
 skrivet fängelse i ett år eller mer får häktas, om det med hänsyn till brottets
 beskaffenhet, den misstänktes förhållanden eller någon annan omständighet
 finns risk för att han eller hon
-1. avviker eller på något annat sätt undandrar sig lagföring eller straff,
-2. genom att undanröja bevis eller på något annat sätt försvårar sakens
+1\. avviker eller på något annat sätt undandrar sig lagföring eller straff,
+2\. genom att undanröja bevis eller på något annat sätt försvårar sakens
 utredning, eller
-3. fortsätter sin brottsliga verksamhet.
+3\. fortsätter sin brottsliga verksamhet.
 Häktning ska ske om det inte är uppenbart att skäl till häktning saknas
 och misstanken avser
-1. ett brott för vilket det inte är föreskrivet lindrigare straff än fängelse
+1\. ett brott för vilket det inte är föreskrivet lindrigare straff än fängelse
 i ett år och sex månader,
-2. försök, förberedelse eller stämpling till ett brott för vilket det inte är
+2\. försök, förberedelse eller stämpling till ett brott för vilket det inte är
 föreskrivet lindrigare straff än fängelse i fyra år, eller
-3. grov fridskränkning, grov kvinnofridskränkning, grov olaga förföljelse
+3\. grov fridskränkning, grov kvinnofridskränkning, grov olaga förföljelse
 eller hedersförtryck enligt 4 kap. 4 a §, 4 b § andra stycket eller 4 e § brotts-
 balken.
 880
@@ -43142,24 +43142,24 @@ förs här. Innebörden av oskuldingrepp är alltså densamma som innan.
 
 Förutsättningarna i 1 § för att meddela ett kontaktförbud enligt den para-
 grafen ska alltid anses uppfyllda om
-1. den som förbudet avses gälla mot har dömts för brott mot den som
+1\. den som förbudet avses gälla mot har dömts för brott mot den som
 förbudet avses skydda,
-2. brottsligheten har innefattat angrepp mot liv, hälsa, frihet eller frid,
-3. brottsligheten har begåtts mot en närstående eller tidigare närstående,
-4. brottslighetens straffvärde uppgår till fängelse i sex månader eller mer,
+2\. brottsligheten har innefattat angrepp mot liv, hälsa, frihet eller frid,
+3\. brottsligheten har begåtts mot en närstående eller tidigare närstående,
+4\. brottslighetens straffvärde uppgår till fängelse i sex månader eller mer,
 och
-5. det inte finns särskilda skäl mot att meddela ett kontaktförbud.
+5\. det inte finns särskilda skäl mot att meddela ett kontaktförbud.
 Om domen avser olaga förföljelse, grov olaga förföljelse eller hedersför-
 tryck enligt 4 kap. 4 b eller 4 e § brottsbalken, gäller första stycket även om
 de krav som följer av första stycket 3 eller 4 inte är uppfyllda.
 Ett kontaktförbud får meddelas med stöd av första och andra styckena
 inom följande tider när den som förbudet avses gälla mot har dömts till
-1. fängelse, fram till dess att påföljden helt har verkställts, dock under
+1\. fängelse, fram till dess att påföljden helt har verkställts, dock under
 minst ett år från frigivningen,
-2. sluten ungdomsvård, senast ett år från det att påföljden helt har verk-
+2\. sluten ungdomsvård, senast ett år från det att påföljden helt har verk-
 ställts,
-3. rättspsykiatrisk vård, senast ett år från det att vården har upphört,
-4. annan påföljd, senast ett år från det att domen i den del som avser
+3\. rättspsykiatrisk vård, senast ett år från det att vården har upphört,
+4\. annan påföljd, senast ett år från det att domen i den del som avser
 påföljd har fått laga kraft mot den dömde.
 887
 
@@ -43178,19 +43178,19 @@ om ansvar för elektroniska anslagstavlor
 
 2 §
 Lagen gäller dock inte
-1. tillhandahållande endast av nät eller andra förbindelser för överföring
+1\. tillhandahållande endast av nät eller andra förbindelser för överföring
 av meddelanden eller av andra anordningar som krävs för att kunna ta i an-
 språk ett nät eller annan förbindelse,
-2. förmedling av meddelanden inom en myndighet eller mellan myndig-
+2\. förmedling av meddelanden inom en myndighet eller mellan myndig-
 heter eller inom ett företag eller en koncern,
-3. tjänster som skyddas av tryckfrihetsförordningen eller yttrandefrihets-
+3\. tjänster som skyddas av tryckfrihetsförordningen eller yttrandefrihets-
 grundlagen,
-4. meddelanden som är avsedda bara för en viss mottagare eller en
+4\. meddelanden som är avsedda bara för en viss mottagare eller en
 bestämd krets av mottagare (elektronisk post),
-5. meddelanden som omfattas av Europaparlamentets och rådets för-
+5\. meddelanden som omfattas av Europaparlamentets och rådets för-
 ordning (EU) 2021/784 av den 29 april 2021 om åtgärder mot spridning
 av terrorisminnehåll online, eller
-6. meddelanden som omfattas av lagen (2027:000) om avlägsnande av
+6\. meddelanden som omfattas av lagen (2027:000) om avlägsnande av
 nätbrottsinnehåll.
 Paragrafen innehåller undantag från lagens tillämpningsområde. Över-
 vägandena finns i avsnitt 12.9.
@@ -43222,12 +43222,12 @@ Sekretess gäller hos Polismyndigheten för uppgift om en enskilds personliga
 eller ekonomiska förhållanden, om det kan antas att den enskilde eller någon
 närstående till denne lider skada eller men om uppgiften röjs och uppgiften
 förekommer i ärende enligt
-1. Europaparlamentets och rådets förordning (EU) 2021/784 av den
+1\. Europaparlamentets och rådets förordning (EU) 2021/784 av den
 29 april 2021 om åtgärder mot spridning av terrorisminnehåll online och
 enligt lagen (2023:319) med kompletterande bestämmelser till EU:s för-
 ordning om åtgärder mot spridning av terrorisminnehåll online,
-2. lagen (2026:000) om avlägsnande av rekryteringsinnehåll online, eller
-3. lagen (2027:000) om avlägsnande av nätbrottsinnehåll.
+2\. lagen (2026:000) om avlägsnande av rekryteringsinnehåll online, eller
+3\. lagen (2027:000) om avlägsnande av nätbrottsinnehåll.
 För uppgift i en allmän handling gäller sekretessen i högst sjuttio år.
 Paragrafen reglerar sekretess hos Polismyndigheten för uppgift om
 en enskilds personliga och ekonomiska förhållanden om uppgiften
@@ -44459,7 +44459,7 @@ KAPITEL 1
 ALLMÄNNA BESTÄMMELSER
 Artikel 1
 Innehåll och tillämpningsområde
-1. I detta direktiv fastställs regler för att förebygga och bekämpa våld mot kvinnor och våld i nära relationer. Det
+1\. I detta direktiv fastställs regler för att förebygga och bekämpa våld mot kvinnor och våld i nära relationer. Det
 fastställer minimiregler om
 a) fastställandet av brottsrekvisit och påföljder på områdena sexuellt utnyttjande av kvinnor och barn samt it-brottslighet,
 b)rättigheter för brottsoffer för alla former av våld mot kvinnor eller våld i nära relationer före, under och en lämplig tid
@@ -44486,7 +44486,7 @@ SOU 2026:34                                   Bilaga 3
 SV
 EUT L, 24.5.2024
 c) skydd av och stöd till brottsoffer, förebyggande åtgärder och tidig intervention.
-2. Kapitlen 3–7 är tillämpliga på alla brottsoffer för våld mot kvinnor och våld i nära relationer, oavsett kön. Sådana
+2\. Kapitlen 3–7 är tillämpliga på alla brottsoffer för våld mot kvinnor och våld i nära relationer, oavsett kön. Sådana
 brottsoffer är alla brottsoffer som utsatts för gärningar som straffbelagts enligt kapitel 2 och brottsoffer som utsatts för
 andra våldshandlingar mot kvinnor eller våld i nära relationer som straffbelagts enligt andra unionsrättsakter eller nationell
 rätt.
@@ -44541,7 +44541,7 @@ i syfte att tvinga denna vuxna person eller detta barn att ingå äktenskap.
 
 Artikel 5
 Delning av intimt eller manipulerat material utan samtycke
-1. Medlemsstaterna ska säkerställa att följande uppsåtliga gärningar är straffbelagda:
+1\. Medlemsstaterna ska säkerställa att följande uppsåtliga gärningar är straffbelagda:
 
 a) Att med hjälp av informations- och kommunikationsteknik (IKT) göra bilder, videofilmer eller liknande material som
 visar handlingar med uttrycklig sexuell innebörd eller en persons intima kroppsdelar tillgängliga för allmänheten utan
@@ -44551,7 +44551,7 @@ deltar i handlingar med uttrycklig sexuell innebörd, och därefter med hjälp a
 utan den personens samtycke, om gärningen sannolikt kommer att åsamka den personen allvarlig skada.
 c) Att hota att utföra någon av de gärningar som avses i led a eller b i syfte att tvinga en person att utföra, gå med på eller
 avstå från en viss handling.
-2. Punkt 1 a och b i denna artikel påverkar inte skyldigheten att respektera de rättigheter, friheter och principer som
+2\. Punkt 1 a och b i denna artikel påverkar inte skyldigheten att respektera de rättigheter, friheter och principer som
 avses i artikel 6 i EU-fördraget och gäller utan att det påverkar tillämpningen av grundläggande principer med anknytning
 till yttrandefriheten och informationsfriheten samt friheten för konsten och vetenskapen enligt unionsrätten eller nationell
 rätt.
@@ -44584,29 +44584,29 @@ d)Att med hjälp av IKT göra material tillgängligt för allmänheten som inneh
 personens samtycke, i syfte att uppmana andra att åsamka den personen fysisk eller allvarlig psykisk skada.
 Artikel 8
 Offentlig uppmaning till våld eller hat på nätet
-1. Medlemsstaterna ska säkerställa att det är straffbelagt att uppsåtligen uppmana till våld eller hat mot en grupp
+1\. Medlemsstaterna ska säkerställa att det är straffbelagt att uppsåtligen uppmana till våld eller hat mot en grupp
 personer eller en medlem av en grupp, utpekad med åberopande av kön, genom att med hjälp av IKT offentligt sprida
 material med en sådan uppmaning.
-2. Vid tillämpningen av punkt 1 får medlemsstaterna välja att straffa enbart gärningar som antingen begås på ett sådant
+2\. Vid tillämpningen av punkt 1 får medlemsstaterna välja att straffa enbart gärningar som antingen begås på ett sådant
 sätt att de är ägnade att vara störande för allmän ordning eller som är hotfulla, otillbörliga eller kränkande.
 Artikel 9
 Anstiftan, medhjälp och försök
 
-1. Medlemsstaterna ska säkerställa att anstiftan till de brott som avses i artiklarna 3–6 och artikel 7 första stycket b är
+1\. Medlemsstaterna ska säkerställa att anstiftan till de brott som avses i artiklarna 3–6 och artikel 7 första stycket b är
 straffbelagd.
-2. Medlemsstaterna ska säkerställa att medhjälp till de brott som avses i artikel 3 första stycket a samt artiklarna 4–8 är
+2\. Medlemsstaterna ska säkerställa att medhjälp till de brott som avses i artikel 3 första stycket a samt artiklarna 4–8 är
 straffbelagd.
-3. Medlemsstaterna ska säkerställa att försök att begå de brott som avses i artiklarna 3 och 4 är straffbelagda.
+3\. Medlemsstaterna ska säkerställa att försök att begå de brott som avses i artiklarna 3 och 4 är straffbelagda.
 
 Artikel 10
 Påföljder
-1. Medlemsstaterna ska säkerställa att de brott som avses i artiklarna 3–9 är belagda med effektiva, proportionella och
+1\. Medlemsstaterna ska säkerställa att de brott som avses i artiklarna 3–9 är belagda med effektiva, proportionella och
 avskräckande straffrättsliga påföljder.
-2. Medlemsstaterna ska säkerställa att de brott som avses i artikel 3 är belagda med ett maximistraff på minst fem års
+2\. Medlemsstaterna ska säkerställa att de brott som avses i artikel 3 är belagda med ett maximistraff på minst fem års
 fängelse.
-3. Medlemsstaterna ska säkerställa att de brott som avses i artikel 4 är belagda med ett maximistraff på minst tre års
+3\. Medlemsstaterna ska säkerställa att de brott som avses i artikel 4 är belagda med ett maximistraff på minst tre års
 fängelse.
-4. Medlemsstaterna ska säkerställa att de brott som avses i artiklarna 5 och 6, artikel 7 första stycket a, b och d samt
+4\. Medlemsstaterna ska säkerställa att de brott som avses i artiklarna 5 och 6, artikel 7 första stycket a, b och d samt
 artikel 8 är belagda med ett maximistraff på minst ett års fängelse.
 Artikel 11
 Försvårande omständigheter
@@ -44648,22 +44648,22 @@ p) Brottets syfte har varit att straffa brottsoffret för brottsoffrets sexuella
 eller politiska övertygelse.
 Artikel 12
 Behörighet
-1. Varje medlemsstat ska vidta de åtgärder som är nödvändiga för att fastställa sin behörighet beträffande de brott som
+1\. Varje medlemsstat ska vidta de åtgärder som är nödvändiga för att fastställa sin behörighet beträffande de brott som
 avses i artiklarna 3–9, om
 a) brottet helt eller delvis har begåtts inom medlemsstatens territorium, eller
 b)gärningsmannen är en av dess medborgare.
 
-2. En medlemsstat ska underrätta kommissionen om den beslutar att utvidga sin behörighet beträffande de brott som
+2\. En medlemsstat ska underrätta kommissionen om den beslutar att utvidga sin behörighet beträffande de brott som
 avses i artiklarna 3–9 och som har begåtts utanför dess territorium, om
 a) brottet har begåtts mot en av dess medborgare eller mot en person som har sin hemvist inom dess territorium, eller
 b)gärningsmannen har sin hemvist inom dess territorium.
-3. Medlemsstaterna ska säkerställa att deras behörighet beträffande de brott som avses i artiklarna 5–9 omfattar
+3\. Medlemsstaterna ska säkerställa att deras behörighet beträffande de brott som avses i artiklarna 5–9 omfattar
 situationer i vilka brottet begås med hjälp av IKT till vilken åtkomsten skett från deras territorium, oavsett om leverantören
 av förmedlingstjänster är baserad inom deras territorium eller inte.
-4. I de fall som avses i punkt 1 b i denna artikel ska varje medlemsstat säkerställa att dess behörighet beträffande de brott
+4\. I de fall som avses i punkt 1 b i denna artikel ska varje medlemsstat säkerställa att dess behörighet beträffande de brott
 som avses i artiklarna 3 och 4 inte är kopplad till villkoret att de gärningar som avses i de artiklarna ska vara straffbara i den
 stat där de har utförts.
-5. I de fall som avses i punkt 1 b ska medlemsstaterna vidta de åtgärder som är nödvändiga för att säkerställa att deras
+5\. I de fall som avses i punkt 1 b ska medlemsstaterna vidta de åtgärder som är nödvändiga för att säkerställa att deras
 behörighet inte är kopplad till villkoret att åtal får väckas endast på grundval av en anmälan från brottsoffret på den plats
 där brottet begicks, eller en formell underrättelse från den stat där brottet begicks.
 ELI: http://data.europa.eu/eli/dir/2024/1385/oj 19/36
@@ -44677,18 +44677,18 @@ SV
 EUT L, 24.5.2024
 Artikel 13
 Preskriptionstid
-1. Medlemsstaterna ska vidta de åtgärder som är nödvändiga för att föreskriva en preskriptionstid som möjliggör
+1\. Medlemsstaterna ska vidta de åtgärder som är nödvändiga för att föreskriva en preskriptionstid som möjliggör
 utredning, åtal, rättegång och dom i fråga om de brott som avses i artiklarna 3–9 under tillräckligt lång tid efter det att
 brotten begåtts för att dessa brott ska kunna hanteras effektivt. Preskriptionstiden ska stå i proportion till hur allvarligt
 brottet är.
-2. Om brottsoffret är ett barn ska preskriptionstiden för de brott som avses i artikel 3 tidigast börja löpa från det att
+2\. Om brottsoffret är ett barn ska preskriptionstiden för de brott som avses i artikel 3 tidigast börja löpa från det att
 brottsoffret uppnår 18 års ålder.
 KAPITEL 3
 SKYDD FÖR BROTTSOFFER OCH TILLGÅNG TILL RÄTTSLIG PRÖVNING
 
 Artikel 14
 Anmälan av våld mot kvinnor eller våld i nära relationer
-1. Utöver de rättigheter som brottsoffer har i samband med brottsanmälan enligt artikel 5 i direktiv 2012/29/EU, ska
+1\. Utöver de rättigheter som brottsoffer har i samband med brottsanmälan enligt artikel 5 i direktiv 2012/29/EU, ska
 medlemsstaterna säkerställa att brottsoffer kan anmäla våldshandlingar mot kvinnor eller våld i nära relationer till behöriga
 myndigheter genom åtkomliga, lättanvända, säkra och lättillgängliga kanaler. Detta ska, åtminstone i samband med de
 nätbrott som avses i artiklarna 5–8 i det här direktivet, inbegripa möjligheten att göra brottsanmälningar på nätet eller
@@ -44697,21 +44697,21 @@ formalisering av anmälningar på nätet.
 Medlemsstaterna ska säkerställa att möjligheten att göra brottsanmälningar på nätet eller genom annan åtkomlig och säker
 IKT även omfattar möjligheten att lämna in bevisning genom de medel som anges i första stycket, utan att det påverkar
 tillämpningen av nationella förfaranderegler avseende formen för inlämning av bevisning.
-2. Medlemsstaterna ska säkerställa att brottsoffer har tillgång till rättshjälp i enlighet med artikel 13 i direktiv
+2\. Medlemsstaterna ska säkerställa att brottsoffer har tillgång till rättshjälp i enlighet med artikel 13 i direktiv
 2012/29/EU. Medlemsstaterna får utvidga rättshjälpen till att omfatta brottsoffer som anmäler brott, om detta föreskrivs
 i nationell rätt.
-3. Medlemsstaterna ska vidta de åtgärder som är nödvändiga för att uppmuntra alla personer som känner till eller i god
+3\. Medlemsstaterna ska vidta de åtgärder som är nödvändiga för att uppmuntra alla personer som känner till eller i god
 tro misstänker att våldshandlingar mot kvinnor eller våld i nära relationer har ägt rum, eller att våldshandlingar kan
 förväntas, att anmäla dessa handlingar till behöriga myndigheter utan att behöva frukta negativa konsekvenser.
-4. Medlemsstaterna ska säkerställa att personal inom hälso- och sjukvården som omfattas av tystnadsplikt kan göra en
+4\. Medlemsstaterna ska säkerställa att personal inom hälso- och sjukvården som omfattas av tystnadsplikt kan göra en
 anmälan till behöriga myndigheter om de har rimlig anledning att anta att det finns en överhängande risk att allvarlig fysisk
 skada kommer att åsamkas en person till följd av våld mot kvinnor eller våld i nära relationer.
-5. Medlemsstaterna ska säkerställa att det, när brottsoffret är ett barn, finns möjlighet för yrkespersoner som omfattas av
+5\. Medlemsstaterna ska säkerställa att det, när brottsoffret är ett barn, finns möjlighet för yrkespersoner som omfattas av
 tystnadsplikt enligt nationell rätt att göra en anmälan till behöriga myndigheter om de har rimliga skäl att anta att allvarlig
 fysisk skada har åsamkats barnet till följd av våld mot kvinnor eller våld i nära relationer, dock utan att det påverkar
 tillämpningen av regler om rätten till förtrolig kommunikation mellan advokat och klient eller, när så föreskrivs i nationell
 rätt, det privilegierade förhållandet mellan fängelseklient och präst eller motsvarande principer.
-6. Om barn anmäler våldshandlingar mot kvinnor eller våld i nära relationer till behöriga myndigheter, ska
+6\. Om barn anmäler våldshandlingar mot kvinnor eller våld i nära relationer till behöriga myndigheter, ska
 medlemsstaterna säkerställa att anmälningsförfarandena är säkra, konfidentiella och i fråga om utformning, tillgänglighet
 och språk anpassade till barn på ett sätt som tar hänsyn till deras ålder och mognad.
 Medlemsstaterna ska säkerställa att yrkespersoner som utbildats för att arbeta med barn bistår i anmälningsförfarandena för
@@ -44730,33 +44730,33 @@ SV
 EUT L, 24.5.2024
 Artikel 15
 Utredning och lagföring
-1. Medlemsstaterna ska säkerställa att personer, enheter eller avdelningar som utreder och väcker åtal i fall av
+1\. Medlemsstaterna ska säkerställa att personer, enheter eller avdelningar som utreder och väcker åtal i fall av
 våldshandlingar mot kvinnor eller våld i nära relationer har adekvat sakkunskap i dessa frågor och effektiva
 utredningsverktyg till sitt förfogande för att på ett effektivt sätt utreda och väcka åtal för sådana handlingar, särskilt
 i syfte att samla in, analysera och säkra elektronisk bevisning i fall som rör nätbrott som avses i artiklarna 5–8.
-2. Medlemsstaterna ska säkerställa att anmälda fall av våldshandlingar mot kvinnor eller våld i nära relationer utan
+2\. Medlemsstaterna ska säkerställa att anmälda fall av våldshandlingar mot kvinnor eller våld i nära relationer utan
 dröjsmål behandlas och överförs till behöriga myndigheter för att utredas och komma under lagföring och för att det ska
 vidtas skyddsåtgärder i enlighet med artikel 19 när så är nödvändigt.
-3. Om behöriga myndigheter har rimliga skäl att misstänka att ett brott kan ha begåtts ska de utan onödigt dröjsmål,
+3\. Om behöriga myndigheter har rimliga skäl att misstänka att ett brott kan ha begåtts ska de utan onödigt dröjsmål,
 efter att ha tagit emot en anmälan eller på eget initiativ, effektivt utreda våldshandlingar mot kvinnor eller våld i nära
 relationer. De ska säkerställa att en officiell registrering görs och föra register över relevanta iakttagelser och bevis i enlighet
 med nationell rätt.
-4. För att bistå vid frivillig bevissäkring, särskilt i fall av sexuellt våld, ska behöriga myndigheter utan onödigt dröjsmål
+4\. För att bistå vid frivillig bevissäkring, särskilt i fall av sexuellt våld, ska behöriga myndigheter utan onödigt dröjsmål
 hänvisa brottsoffer till relevant personal inom hälso- och sjukvården eller till de stödtjänster enligt artiklarna 25, 26 och 27
 som är specialiserade på att bistå med att säkra bevis. Brottsoffer ska informeras om vikten av att samla in sådana bevis så
 snart som möjligt.
-5. Medlemsstaterna ska säkerställa att utredning eller lagföring av våldtäkter inte är beroende av att brottsoffret eller
+5\. Medlemsstaterna ska säkerställa att utredning eller lagföring av våldtäkter inte är beroende av att brottsoffret eller
 brottsoffrets företrädare anmäler gärningen, eller av en anmälan från brottsoffret eller brottsoffrets företrädare, och att det
 straffrättsliga förfarandet inte avbryts enbart på grund av att anmälan har dragits tillbaka.
 Artikel 16
 Individuell bedömning för att fastställa brottsoffers skyddsbehov
-1. Utöver de krav i fråga om en individuell bedömning som anges i artikel 22 i direktiv 2012/29/EU ska
+1\. Utöver de krav i fråga om en individuell bedömning som anges i artikel 22 i direktiv 2012/29/EU ska
 medlemsstaterna säkerställa att även de krav som anges i den här artikeln uppfylls åtminstone när det gäller brottsoffer som
 utsatts för sexuellt våld och våld i nära relationer.
-2. Så tidigt som möjligt, till exempel i samband med den första kontakten med behöriga myndigheter, eller så snart som
+2\. Så tidigt som möjligt, till exempel i samband med den första kontakten med behöriga myndigheter, eller så snart som
 möjligt efter den första kontakten med dem, ska brottsoffrets särskilda skyddsbehov fastställas genom en individuell
 bedömning, när så är lämpligt i samarbete med alla relevanta behöriga myndigheter.
-3. Den individuella bedömning som avses i punkt 2 ska fokusera på den risk som gärningsmannen eller den misstänkte
+3\. Den individuella bedömning som avses i punkt 2 ska fokusera på den risk som gärningsmannen eller den misstänkte
 utgör. Denna risk kan omfatta något av följande:
 a) Risken för upprepat våld.
 b)Risken för kroppsskada eller psykisk skada.
@@ -44766,7 +44766,7 @@ e) Omständigheten att gärningsmannen eller den misstänkte är narkotika- elle
 f) Övergrepp mot barn.
 g) Psykisk ohälsa.
 h)Stalkningsbeteende.
-4. Den individuella bedömning som avses i punkt 2 ska ta hänsyn till brottsoffrets individuella omständigheter – bland
+4\. Den individuella bedömning som avses i punkt 2 ska ta hänsyn till brottsoffrets individuella omständigheter – bland
 annat om brottsoffret utsätts för diskriminering på grund av en kombination av kön och en eller flera andra
 diskrimineringsgrunder enligt vad som avses i artikel 21 i stadgan (intersektionell diskriminering), och därför löper en ökad
 ELI: http://data.europa.eu/eli/dir/2024/1385/oj 21/36
@@ -44780,40 +44780,40 @@ SV
 EUT L, 24.5.2024
 risk att utsättas för våld – samt brottsoffrets egen redogörelse och bedömning av situationen. Den ska genomföras med
 brottsoffrets bästa för ögonen, och särskild vikt ska läggas vid behovet av att undvika sekundär eller upprepad viktimisering.
-5. Medlemsstaterna ska säkerställa att behöriga myndigheter vidtar adekvata skyddsåtgärder, med vederbörlig hänsyn till
+5\. Medlemsstaterna ska säkerställa att behöriga myndigheter vidtar adekvata skyddsåtgärder, med vederbörlig hänsyn till
 den individuella bedömning som avses i punkt 2. Sådana åtgärder får vara
 a) åtgärder enligt artiklarna 23 och 24 i direktiv 2012/29/EU,
 b)akuta förbudsåtgärder, kontaktförbud eller skyddsorder enligt artikel 19 i det här direktivet,
 c) andra åtgärder än de som avses i leden a och b i denna punkt för att påverka gärningsmannens eller den misstänktes
 beteende, särskilt enligt artikel 37 i det här direktivet.
-6. Den individuella bedömning som avses i punkt 2 ska när så är lämpligt genomföras i samarbete med andra behöriga
+6\. Den individuella bedömning som avses i punkt 2 ska när så är lämpligt genomföras i samarbete med andra behöriga
 myndigheter som är relevanta i varje skede av förfarandet och med relevanta stödtjänster, såsom center för brottsofferskydd,
 specialiserade tjänster, socialtjänst, personal inom hälso- och sjukvården, skyddade boenden, specialiserade stödtjänster och
 andra berörda parter.
-7. Behöriga myndigheter ska regelbundet ompröva den individuella bedömning som avses i punkt 2 och när så är
+7\. Behöriga myndigheter ska regelbundet ompröva den individuella bedömning som avses i punkt 2 och när så är
 lämpligt vidta nya, eller uppdatera pågående, skyddsåtgärder i enlighet med punkt 5 för att säkerställa att dessa beaktar
 brottsoffrets nuvarande situation.
-8. Närstående ska förutsättas ha särskilda skyddsbehov utan att behöva genomgå en individuell bedömning som avses
+8\. Närstående ska förutsättas ha särskilda skyddsbehov utan att behöva genomgå en individuell bedömning som avses
 i punkt 2, såvida det inte finns indikationer på att de saknar särskilda skyddsbehov.
 Artikel 17
 Individuell bedömning av brottsoffers stödbehov
-1. Medlemsstaterna ska, med beaktande av den individuella bedömning som avses i artikel 16, säkerställa att behöriga
+1\. Medlemsstaterna ska, med beaktande av den individuella bedömning som avses i artikel 16, säkerställa att behöriga
 myndigheter bedömer brottsoffrets individuella stödbehov enligt vad som föreskrivs i kapitel 4. Behöriga myndigheter ska
 bedöma närståendes individuella stödbehov enligt vad som föreskrivs i kapitel 4, såvida det inte finns indikationer på att de
 saknar särskilda stödbehov.
-2. Artikel 16.4, 16.6 och 16.7 ska tillämpas på den individuella bedömningen av brottsoffers stödbehov enligt punkt 1
+2\. Artikel 16.4, 16.6 och 16.7 ska tillämpas på den individuella bedömningen av brottsoffers stödbehov enligt punkt 1
 i den här artikeln.
 Artikel 18
 Hänvisning till stödtjänster
-1. Om det i de bedömningar som avses i artiklarna 16 och 17 fastställs att särskilda stöd- eller skyddsbehov föreligger,
+1\. Om det i de bedömningar som avses i artiklarna 16 och 17 fastställs att särskilda stöd- eller skyddsbehov föreligger,
 eller om brottsoffret begär stöd, ska medlemsstaterna säkerställa att stödtjänster, såsom specialiserade stödtjänster,
 i samarbete med behöriga myndigheter kontaktar brottsoffret för att erbjuda stöd, med vederbörlig hänsyn till brottsoffrets
 säkerhet. Medlemsstaterna får göra en sådan kontakt avhängig av brottsoffrets samtycke.
-2. Brottsoffrets begäran om skydd och stöd ska besvaras av behöriga myndigheter utan onödigt dröjsmål och på ett
+2\. Brottsoffrets begäran om skydd och stöd ska besvaras av behöriga myndigheter utan onödigt dröjsmål och på ett
 samordnat sätt.
-3. Medlemsstaterna ska säkerställa att behöriga myndigheter vid behov kan hänvisa barn som är brottsoffer till
+3\. Medlemsstaterna ska säkerställa att behöriga myndigheter vid behov kan hänvisa barn som är brottsoffer till
 stödtjänster, om nödvändigt utan föregående samtycke från den person som har föräldraansvar.
-4. Om det är nödvändigt för att säkerställa att brottsoffret får lämpligt stöd och skydd ska medlemsstaterna säkerställa
+4\. Om det är nödvändigt för att säkerställa att brottsoffret får lämpligt stöd och skydd ska medlemsstaterna säkerställa
 att behöriga myndigheter överför relevanta personuppgifter rörande brottsoffret och brottsoffrets situation till relevanta
 stödtjänster. Dessa uppgifter ska överföras på ett konfidentiellt sätt. Medlemsstaterna får göra överföringen av sådana
 uppgifter avhängig av brottsoffrets samtycke.
@@ -44826,13 +44826,13 @@ Bilaga 3                                   SOU 2026:34
 
 SV
 EUT L, 24.5.2024
-5. Stödtjänster ska lagra personuppgifter under så lång tid som är nödvändigt för att tillhandahålla stödet och under alla
+5\. Stödtjänster ska lagra personuppgifter under så lång tid som är nödvändigt för att tillhandahålla stödet och under alla
 omständigheter i högst fem år efter den sista kontakten mellan stödtjänsterna och brottsoffret.
 
 Artikel 19
 Akuta förbudsåtgärder, kontaktförbud och skyddsorder
 
-1. Medlemsstaterna ska säkerställa att behöriga myndigheter i situationer av överhängande fara för brottsoffrets eller de
+1\. Medlemsstaterna ska säkerställa att behöriga myndigheter i situationer av överhängande fara för brottsoffrets eller de
 närståendes hälsa och säkerhet ges befogenhet att utan onödigt dröjsmål utfärda beslut mot en gärningsman eller en person
 som misstänks för en våldshandling som omfattas av detta direktiv, genom vilka gärningsmannen eller den misstänkte
 föreläggs att under tillräckligt lång tid lämna brottsoffrets eller de närståendes bostad samt förbjuds att gå in i eller komma
@@ -44840,21 +44840,21 @@ inom ett fastställt avstånd från denna bostad, att besöka brottsoffrets arbe
 eller de närstående.
 Förelägganden som avses i första stycket i denna punkt ska ha omedelbar verkan och inte vara beroende av om brottsoffret
 gjort en brottsanmälan eller om en individuell bedömning inletts enligt artikel 16.
-2. Medlemsstaterna ska säkerställa att behöriga myndigheter ges befogenhet att utfärda kontaktförbud eller skyddsorder
+2\. Medlemsstaterna ska säkerställa att behöriga myndigheter ges befogenhet att utfärda kontaktförbud eller skyddsorder
 för att så länge det är nödvändigt erbjuda brottsoffer skydd mot alla våldshandlingar som omfattas av detta direktiv.
-3. Om brottsoffret är vuxen får medlemsstaterna, i enlighet med sin nationella rätt, kräva att de akuta förbudsåtgärder,
+3\. Om brottsoffret är vuxen får medlemsstaterna, i enlighet med sin nationella rätt, kräva att de akuta förbudsåtgärder,
 kontaktförbud och skyddsorder som föreskrivs i punkterna 1 och 2 utfärdas på brottsoffrets begäran.
-4. Medlemsstaterna ska säkerställa att behöriga myndigheter, när det är av relevans för brottsoffrets säkerhet, informerar
+4\. Medlemsstaterna ska säkerställa att behöriga myndigheter, när det är av relevans för brottsoffrets säkerhet, informerar
 brottsoffret om att det är möjligt att ansöka om akuta förbudsåtgärder, kontaktförbud eller skyddsorder och även möjligt att
 ansöka om gränsöverskridande erkännande av skyddsorder enligt direktiv 2011/99/EU (17) eller Europaparlamentets och
 rådets förordning (EU) nr 606/2013 (18).
-5. Överträdelser av akuta förbudsåtgärder, kontaktförbud eller skyddsorder ska vara föremål för effektiva, proportionella
+5\. Överträdelser av akuta förbudsåtgärder, kontaktförbud eller skyddsorder ska vara föremål för effektiva, proportionella
 och avskräckande straffrättsliga eller icke-straffrättsliga påföljder. Medlemsstaterna ska säkerställa att en omprövning av den
 individuella bedömning som avses i artikel 16 vid behov övervägs i enlighet med punkt 7 i den artikeln när en sådan
 överträdelse inträffar.
-6. Medlemsstaterna ska säkerställa att brottsoffer ges möjlighet att utan onödigt dröjsmål bli underrättade vid en
+6\. Medlemsstaterna ska säkerställa att brottsoffer ges möjlighet att utan onödigt dröjsmål bli underrättade vid en
 överträdelse av en akut förbudsåtgärd, ett kontaktförbud eller en skyddsorder som kan påverka deras säkerhet.
-7. Denna artikel ålägger inte medlemsstaterna någon skyldighet att ändra sina nationella system när det gäller huruvida
+7\. Denna artikel ålägger inte medlemsstaterna någon skyldighet att ändra sina nationella system när det gäller huruvida
 akuta förbudsåtgärder och skyddsorder faller inom ramen för straffrätten, privaträtten eller förvaltningsrätten.
 Artikel 20
 Skydd av brottsoffrets privatliv
@@ -44903,13 +44903,13 @@ av hur de tillämpas i praktiken.
 Artikel 22
 Rollen för nationella organ, inklusive jämställdhetsorgan
 
-1. Medlemsstaterna ska utse ett eller flera organ och vidta de åtgärder som är nödvändiga för att organet eller organen
+1\. Medlemsstaterna ska utse ett eller flera organ och vidta de åtgärder som är nödvändiga för att organet eller organen
 ska kunna utföra följande uppgifter:
 a) Offentliggöra rapporter om och lämna rekommendationer i frågor som rör våld mot kvinnor och våld i nära relationer,
 bland annat genom att samla in befintlig god praxis.
 b)Utbyta tillgänglig information med relevanta organ på europeisk nivå, till exempel Europeiska jämställdhetsinstitutet.
 Vid tillämpningen av första stycket får medlemsstaterna samråda med organisationer i det civila samhället.
-2. De organ som avses i punkt 1 i denna artikel kan vara en del av de jämställdhetsorgan som inrättas enligt direktiven
+2\. De organ som avses i punkt 1 i denna artikel kan vara en del av de jämställdhetsorgan som inrättas enligt direktiven
 2004/113/EG, 2006/54/EG och 2010/41/EU.
 24/36                          ELI: http://data.europa.eu/eli/dir/2024/1385/oj
 
@@ -44923,21 +44923,21 @@ SV
 EUT L, 24.5.2024
 Artikel 23
 Åtgärder för att avlägsna visst onlinematerial
-1. Utan att det påverkar tillämpningen av förordning (EU) 2022/2065 ska medlemsstaterna vidta nödvändiga åtgärder
+1\. Utan att det påverkar tillämpningen av förordning (EU) 2022/2065 ska medlemsstaterna vidta nödvändiga åtgärder
 för att säkerställa att material som är allmänt tillgängligt online enligt vad som avses i artikel 5.1 a och b samt artiklarna 7
 och 8 i detta direktiv skyndsamt avlägsnas eller att det görs oåtkomligt.
 De åtgärder som avses i första stycket i denna punkt ska innefatta en möjlighet för behöriga myndigheter att utfärda
 bindande rättsliga förelägganden att avlägsna sådant material eller göra det oåtkomligt. Medlemsstaterna ska säkerställa att
 sådana förelägganden åtminstone uppfyller de villkor som anges i artikel 9.2 i förordning (EU) 2022/2065.
-2. Förelägganden som avses i punkt 1 andra stycket ska riktas till värdtjänstleverantörer.
+2\. Förelägganden som avses i punkt 1 andra stycket ska riktas till värdtjänstleverantörer.
 
 Om avlägsnande inte är möjligt får de behöriga myndigheterna även rikta förelägganden att göra det berörda materialet
 oåtkomlig till andra relevanta leverantörer av förmedlingstjänster än värdtjänstleverantörer vilka har teknisk och operativ
 kapacitet att vidta åtgärder i fråga om det berörda materialet.
-3. Medlemsstaterna ska säkerställa att förelägganden som avses i punkt 1 andra stycket i denna artikel upphävs och att
+3\. Medlemsstaterna ska säkerställa att förelägganden som avses i punkt 1 andra stycket i denna artikel upphävs och att
 dessa föreläggandens adressater informeras om detta i de fall då straffrättsliga förfaranden gällande ett brott som avses
 i artikel 5.1 a eller b, artikel 7 eller artikel 8 avslutas utan att det fastställts att ett brott har begåtts.
-4. Medlemsstaterna ska säkerställa att de förelägganden och andra åtgärder som avses i punkt 1 utfärdas och vidtas
+4\. Medlemsstaterna ska säkerställa att de förelägganden och andra åtgärder som avses i punkt 1 utfärdas och vidtas
 genom transparenta förfaranden och är föremål för tillräckliga skyddsåtgärder, i synnerhet för att säkerställa att sådana
 förelägganden och andra åtgärder är begränsade till vad som är nödvändigt och proportionellt och att vederbörlig hänsyn
 tas till alla relevanta berörda parters rättigheter och intressen, inklusive deras grundläggande rättigheter i enlighet med
@@ -44946,19 +44946,19 @@ Medlemsstaterna ska säkerställa att värdtjänstleverantörer, andra relevanta
 innehållsleverantörer som berörs av ett föreläggande som avses i punkt 1 andra stycket har rätt till ett effektivt rättsmedel.
 En sådan rätt ska inbegripa rätten att överklaga ett sådant föreläggande till domstol i den medlemsstat vars behöriga
 myndighet utfärdade föreläggandet.
-5. Medlemsstaterna ska säkerställa att de relevanta innehållsleverantörer som berörs av ett föreläggande som avses
+5\. Medlemsstaterna ska säkerställa att de relevanta innehållsleverantörer som berörs av ett föreläggande som avses
 i punkt 1 första stycket informeras – när så är lämpligt av värdtjänstleverantörerna eller av andra relevanta berörda
 leverantörer av förmedlingstjänster – om skälen till att materialet har avlägsnats eller gjorts oåtkomligt i enlighet med de
 förelägganden eller andra åtgärder som avses i punkt 1 och om möjligheten till rättslig prövning.
-6. Medlemsstaterna ska säkerställa att det faktum att materialet avlägsnas eller görs oåtkomligt enligt de förelägganden
+6\. Medlemsstaterna ska säkerställa att det faktum att materialet avlägsnas eller görs oåtkomligt enligt de förelägganden
 eller andra åtgärder som avses i punkt 1 inte hindrar behöriga myndigheter från att, utan onödigt dröjsmål, inhämta eller
 säkra den bevisning som krävs för att utreda och väcka åtal för ett brott som avses i artikel 5.1 a eller b, artikel 7 eller
 artikel 8.
 Artikel 24
 Skadestånd från gärningsmän
-1. Medlemsstaterna ska säkerställa att brottsoffer har rätt att, i enlighet med nationell rätt, begära fullt skadestånd från
+1\. Medlemsstaterna ska säkerställa att brottsoffer har rätt att, i enlighet med nationell rätt, begära fullt skadestånd från
 gärningsmän för skador som är en följd av brott i form av våld mot kvinnor eller våld i nära relationer.
-2. Medlemsstaterna ska när så är lämpligt säkerställa att brottsoffer kan få ett beslut om skadestånd i samband med det
+2\. Medlemsstaterna ska när så är lämpligt säkerställa att brottsoffer kan få ett beslut om skadestånd i samband med det
 straffrättsliga förfarandet.
 ELI: http://data.europa.eu/eli/dir/2024/1385/oj 25/36
 926
@@ -44974,7 +44974,7 @@ STÖD TILL BROTTSOFFER
 
 Artikel 25
 Specialiserat stöd till brottsoffer
-1. Medlemsstaterna ska säkerställa att de specialiserade stödtjänster som avses i artiklarna 8.3 och 9.3 i direktiv
+1\. Medlemsstaterna ska säkerställa att de specialiserade stödtjänster som avses i artiklarna 8.3 och 9.3 i direktiv
 2012/29/EU är tillgängliga för brottsoffer, oavsett om de har gjort en formell anmälan eller inte.
 Om specialiserade stödtjänster som avses i första stycket inte tillhandahålls som en integrerad del av allmänna stödtjänster
 för brottsoffer ska allmänna och specialiserade stödtjänster samordnas.
@@ -44992,21 +44992,21 @@ e) information om och, när så är lämpligt, remittering till stödtjänster f
 våldtäkt, skyddade boenden och mottagningscentrum för personer som utsatts för sexuellt våld, och
 f) information om och, när så är lämpligt, remittering till specialiserade stödtjänster för brottsoffer som löper ökad risk för
 våld, vilket kan inbegripa tjänster för rehabilitering och socioekonomisk integrering efter sexuellt utnyttjande.
-2. De specialiserade stödtjänster som avses i punkt 1 ska tillhandahållas personligen, anpassas till brottsoffrens behov
+2\. De specialiserade stödtjänster som avses i punkt 1 ska tillhandahållas personligen, anpassas till brottsoffrens behov
 och vara lättillgängliga och lättåtkomliga, inbegripet online eller med hjälp av andra lämpliga metoder, såsom IKT.
-3. Medlemsstaterna ska säkerställa att det finns tillräckliga personalresurser och ekonomiska resurser för att
+3\. Medlemsstaterna ska säkerställa att det finns tillräckliga personalresurser och ekonomiska resurser för att
 tillhandahålla de specialiserade stödtjänster som avses i punkt 1.
 Om specialiserade stödtjänster som avses i punkt 1 tillhandahålls av icke-statliga organisationer ska medlemsstaterna ge
 dem tillräckliga medel, med beaktande av den andel av de specialiserade stödtjänsterna som redan tillhandahålls av
 offentliga myndigheter.
-4. Medlemsstaterna ska tillhandahålla det skydd och de specialiserade stödtjänster som krävs för att på ett heltäckande
+4\. Medlemsstaterna ska tillhandahålla det skydd och de specialiserade stödtjänster som krävs för att på ett heltäckande
 sätt tillgodose brottsoffrens olika behov genom att tillhandahålla dessa tjänster, även de som tillhandahålls av icke-statliga
 organisationer, på en och samma plats, genom att samordna tjänsterna via en kontaktpunkt eller genom att underlätta
 tillgången till tjänsterna via en gemensam kontaktpunkt på nätet.
 De tjänster som avses i första stycket ska åtminstone omfatta primärvård och remittering till ytterligare sjukvård, enligt vad
 som föreskrivs i det nationella hälso- och sjukvårdssystemet, samt socialtjänst, psykosocialt stöd, juridiska tjänster och
 polisiära tjänster, eller information om och hänvisning till sådana tjänster.
-5. Medlemsstaterna ska säkerställa att det utfärdas riktlinjer och protokoll för personal inom hälso- och sjukvården samt
+5\. Medlemsstaterna ska säkerställa att det utfärdas riktlinjer och protokoll för personal inom hälso- och sjukvården samt
 socialtjänsten om hur de kan fastställa och erbjuda lämpligt stöd till brottsoffer, bland annat om hur de ska hänvisa
 brottsoffer till relevanta stödtjänster och undvika sekundär viktimisering.
 26/36                          ELI: http://data.europa.eu/eli/dir/2024/1385/oj
@@ -45024,17 +45024,17 @@ diskrimineringsgrunder ska tillgodoses.
 De riktlinjer och protokoll som avses i första stycket ska utarbetas på ett genus-, trauma- och barnmedvetet sätt i samarbete
 med leverantörer av specialiserade stödtjänster och ska ses över och om lämpligt uppdateras för att spegla förändringar i rätt
 och praxis.
-6. Medlemsstaterna ska säkerställa att det utfärdas riktlinjer och protokoll för hälso- och sjukvårdstjänster som
+6\. Medlemsstaterna ska säkerställa att det utfärdas riktlinjer och protokoll för hälso- och sjukvårdstjänster som
 tillhandahåller primärvård om hur de kan fastställa och erbjuda lämpligt stöd till brottsoffer.
 De riktlinjer och protokoll som avses i första stycket ska omfatta säkrande och dokumentation av bevis och vidarebefordran
 av bevis till behöriga rättsmedicinska centrum i enlighet med nationell rätt.
-7. Medlemsstaterna ska sträva efter att säkerställa att specialiserade stödtjänster som avses i punkt 1 fortsätter att vara
+7\. Medlemsstaterna ska sträva efter att säkerställa att specialiserade stödtjänster som avses i punkt 1 fortsätter att vara
 fullt tillgängliga för brottsoffer i kristider, såsom folkhälsokriser eller andra undantagstillstånd.
-8. Medlemsstaterna ska säkerställa att specialiserade stödtjänster som avses i punkt 1 är tillgängliga för brottsoffer före,
+8\. Medlemsstaterna ska säkerställa att specialiserade stödtjänster som avses i punkt 1 är tillgängliga för brottsoffer före,
 under och en lämplig tid efter straffrättsliga förfaranden.
 Artikel 26
 Specialiserat stöd till brottsoffer som utsatts för sexuellt våld
-1. Medlemsstaterna ska tillhandahålla lämpligt utrustade och lättillgängliga kriscentrum för personer som utsatts för
+1\. Medlemsstaterna ska tillhandahålla lämpligt utrustade och lättillgängliga kriscentrum för personer som utsatts för
 våldtäkt eller mottagningscentrum för brottsoffer som utsatts för sexuellt våld, vilka får ingå i det nationella hälso- och
 sjukvårdssystemet, för att säkerställa att dessa personer erbjuds effektivt stöd och för att säkerställa den kliniska hanteringen
 av våldtäkt, inbegripet hjälp med att säkra och dokumentera bevisning.
@@ -45045,18 +45045,18 @@ undersökningar. Sådana undersökningar får tillhandahållas vid de centrum so
 till specialiserade centrum eller enheter. Medlemsstaterna ska säkerställa samordning mellan mottagningscentrumen och de
 behöriga medicinska och rättsmedicinska centrumen.
 Om brottsoffret är ett barn ska de tjänster som avses i denna punkt tillhandahållas på ett sätt som är anpassat till barn.
-2. Medlemsstaterna ska ge brottsoffer som utsatts för sexuellt våld snabb tillgång till hälso- och sjukvårdstjänster,
+2\. Medlemsstaterna ska ge brottsoffer som utsatts för sexuellt våld snabb tillgång till hälso- och sjukvårdstjänster,
 inbegripet tjänster avseende sexuell och reproduktiv hälsa, i enlighet med nationell rätt.
-3. De tjänster som avses i punkterna 1 och 2 i denna artikel ska vara kostnadsfria, utan att det påverkar de tjänster som
+3\. De tjänster som avses i punkterna 1 och 2 i denna artikel ska vara kostnadsfria, utan att det påverkar de tjänster som
 tillhandahålls inom ramen för det nationella hälso- och sjukvårdssystemet, och tillgängliga sju dagar i veckan. De får ingå
 bland de tjänster som avses i artikel 25.
-4. Medlemsstaterna ska säkerställa att de tjänster som avses i punkterna 1 och 2 har tillräcklig geografisk spridning och
+4\. Medlemsstaterna ska säkerställa att de tjänster som avses i punkterna 1 och 2 har tillräcklig geografisk spridning och
 kapacitet inom medlemsstaten.
-5. Artikel 25.3 och 25.7 ska tillämpas på tillhandahållandet av stöd enligt den här artikeln till brottsoffer som utsatts för
+5\. Artikel 25.3 och 25.7 ska tillämpas på tillhandahållandet av stöd enligt den här artikeln till brottsoffer som utsatts för
 sexuellt våld.
 Artikel 27
 Specialiserat stöd till brottsoffer som utsatts för kvinnlig könsstympning
-1. Medlemsstaterna ska säkerställa effektivt, åldersanpassat och lättillgängligt stöd till brottsoffer som utsatts för kvinnlig
+1\. Medlemsstaterna ska säkerställa effektivt, åldersanpassat och lättillgängligt stöd till brottsoffer som utsatts för kvinnlig
 könsstympning, bland annat genom att tillhandahålla gynekologisk, sexologisk och psykologisk vård samt traumavård, och
 rådgivning anpassad till dessa brottsoffers särskilda behov efter det att brottet har begåtts och så länge som det är
 ELI: http://data.europa.eu/eli/dir/2024/1385/oj 27/36
@@ -45072,7 +45072,7 @@ nödvändigt därefter. Detta stöd ska omfatta tillhandahållande av informatio
 rekonstruktiv köns- och klitoriskirurgi.
 Det stöd som avses i första stycket får tillhandahållas av de mottagningscentrum som avses i artikel 26 eller på en särskild
 vårdinrättning.
-2. Artiklarna 25.3, 25.7 och 26.3 ska tillämpas på tillhandahållandet av stöd enligt den här artikeln till brottsoffer som
+2\. Artiklarna 25.3, 25.7 och 26.3 ska tillämpas på tillhandahållandet av stöd enligt den här artikeln till brottsoffer som
 utsatts för kvinnlig könsstympning.
 
 Artikel 28
@@ -45084,7 +45084,7 @@ hanteras, inbegripet om tillgängliga rättsmedel för att avlägsna gärningsma
 Artikel 29
 Stödlinjer för brottsoffer
 
-1. Medlemsstaterna ska säkerställa att nationella stödlinjer som är kostnadsfria och bemannade dygnet runt alla dagar
+1\. Medlemsstaterna ska säkerställa att nationella stödlinjer som är kostnadsfria och bemannade dygnet runt alla dagar
 i veckan är tillgängliga för att ge information och råd till brottsoffer.
 De stödlinjer som avses i första stycket får drivas av specialiserade stödtjänster i enlighet med nationell praxis.
 
@@ -45092,17 +45092,17 @@ Den information och rådgivning som avses i första stycket ska ges på konfiden
 brottsoffrets anonymitet.
 Medlemsstaterna uppmuntras att även tillhandahålla stödlinjer som avses i första stycket med hjälp av annan säker och
 tillgänglig IKT, inbegripet genom onlineapplikationer.
-2. Medlemsstaterna ska vidta lämpliga åtgärder för att säkerställa att de tjänster som avses i punkt 1 i denna artikel är
+2\. Medlemsstaterna ska vidta lämpliga åtgärder för att säkerställa att de tjänster som avses i punkt 1 i denna artikel är
 tillgängliga för slutanvändare med funktionsnedsättning, bland annat genom att tillhandahålla stöd på ett lättfattligt språk.
 Dessa tjänster ska vara tillgängliga i linje med tillgänglighetskraven för elektroniska kommunikationstjänster i bilaga I till
 Europaparlamentets och rådets direktiv (EU) 2019/882 (19).
-3. Medlemsstaterna ska sträva efter att säkerställa att de tjänster som avses i punkt 1 tillhandahålls på ett språk som
+3\. Medlemsstaterna ska sträva efter att säkerställa att de tjänster som avses i punkt 1 tillhandahålls på ett språk som
 brottsoffer kan förstå, bland annat via telefontolkning.
-4. Artikel 25.3 och 25.7 ska tillämpas på tillhandahållandet av stödlinjer och stöd med hjälp av IKT enligt den här
+4\. Artikel 25.3 och 25.7 ska tillämpas på tillhandahållandet av stödlinjer och stöd med hjälp av IKT enligt den här
 artikeln.
-5. Medlemsstaterna uppmuntras att säkerställa att de tjänster som avses i punkt 1 för brottsoffer som utsatts för våld
+5\. Medlemsstaterna uppmuntras att säkerställa att de tjänster som avses i punkt 1 för brottsoffer som utsatts för våld
 mot kvinnor kan nås genom det harmoniserade EU-numret ”116 016” utöver eventuella befintliga nationella nummer.
-6. Medlemsstaterna ska säkerställa att slutanvändare är tillräckligt informerade om förekomsten av och nummer till
+6\. Medlemsstaterna ska säkerställa att slutanvändare är tillräckligt informerade om förekomsten av och nummer till
 stödlinjer, bland annat via regelbundna informationskampanjer.
 (19) Europaparlamentets och rådets direktiv (EU) 2019/882 av den 17 april 2019 om tillgänglighetskrav för produkter och tjänster (EUT
 L 151, 7.6.2019, s. 70).
@@ -45118,29 +45118,29 @@ SV
 EUT L, 24.5.2024
 Artikel 30
 Skyddade boenden och andra tillfälliga boenden
-1. De skyddade boenden och andra lämpliga tillfälliga boenden som föreskrivs i artikel 9.3 a i direktiv 2012/29/EU
+1\. De skyddade boenden och andra lämpliga tillfälliga boenden som föreskrivs i artikel 9.3 a i direktiv 2012/29/EU
 (skyddade boenden och andra lämpliga tillfälliga boenden) ska särskilt tillgodose behoven hos brottsoffer som utsätts för våld
 i nära relationer och sexuellt våld, inbegripet behoven hos brottsoffer som löper en ökad risk att utsättas för våld. De ska
 underlätta brottsoffrens återhämtning genom att erbjuda säkra, lättillgängliga, adekvata och lämpliga boendeförhållanden
 med målet att de ska kunna återgå till ett självständigt liv och genom att tillhandahålla information om stödtjänster och
 hänvisning, inbegripet till ytterligare sjukvård.
-2. Skyddade boenden och andra lämpliga tillfälliga boenden ska tillhandahållas i tillräckligt antal och vara lättillgängliga
+2\. Skyddade boenden och andra lämpliga tillfälliga boenden ska tillhandahållas i tillräckligt antal och vara lättillgängliga
 och utrustade för att tillgodose kvinnors särskilda behov, bland annat genom att tillhandahålla skyddade boenden enbart för
 kvinnor med utrymme för barn, och säkerställa barns rättigheter och behov, inbegripet barn som är brottsoffer.
-3. Skyddade boenden och andra lämpliga tillfälliga boenden ska vara tillgängliga för brottsoffer och närstående under 18
+3\. Skyddade boenden och andra lämpliga tillfälliga boenden ska vara tillgängliga för brottsoffer och närstående under 18
 år, oavsett nationalitet, medborgarskap, hemvist eller uppehållsstatus.
-4. Artikel 25.3 och 25.7 ska tillämpas på skyddade boenden och andra lämpliga tillfälliga boenden.
+4\. Artikel 25.3 och 25.7 ska tillämpas på skyddade boenden och andra lämpliga tillfälliga boenden.
 Artikel 31
 Stöd till barn som är brottsoffer
-1. Medlemsstaterna ska säkerställa att ett barn får specifikt lämpligt stöd så snart behöriga myndigheter har rimliga skäl
+1\. Medlemsstaterna ska säkerställa att ett barn får specifikt lämpligt stöd så snart behöriga myndigheter har rimliga skäl
 att anta att barnet kan ha utsatts för, eller kan ha bevittnat, våld mot kvinnor eller våld i nära relationer.
 Stödet till barn ska vara specialiserat, anpassat till barnets ålder, utvecklingsbehov och individuella situation och ta hänsyn
 till barnets bästa.
 
-2. Barn som är brottsoffer ska få åldersanpassad sjukvård och emotionellt, psykosocialt, psykologiskt och
+2\. Barn som är brottsoffer ska få åldersanpassad sjukvård och emotionellt, psykosocialt, psykologiskt och
 utbildningsmässigt stöd som är särskilt anpassat till barnets utvecklingsbehov och individuella situation, samt annat
 lämpligt stöd som är särskilt anpassat till situationer där det har förekommit våld i nära relationer.
-3. Om det är nödvändigt att tillhandahålla tillfälligt boende ska barn, efter det att de att fått sina åsikter i frågan hörda,
+3\. Om det är nödvändigt att tillhandahålla tillfälligt boende ska barn, efter det att de att fått sina åsikter i frågan hörda,
 med beaktande av deras ålder och mognad, i första hand placeras tillsammans med andra familjemedlemmar, i synnerhet
 med en icke våldsam förälder eller person med föräldraansvar, i ett permanent eller tillfälligt boende där det finns tillgång
 till stödtjänster.
@@ -45148,10 +45148,10 @@ Principen om barnets bästa ska vara avgörande vid bedömningen av frågor som 
 Artikel 32
 Barns säkerhet
 
-1. Medlemsstaterna ska säkerställa att de relevanta behöriga myndigheterna har tillgång till information om våld mot
+1\. Medlemsstaterna ska säkerställa att de relevanta behöriga myndigheterna har tillgång till information om våld mot
 kvinnor eller våld i nära relationer som involverar barn, i den mån det är nödvändigt för att denna information ska kunna
 beaktas vid bedömningen av barnets bästa inom ramen för civilrättsliga förfaranden som rör sådana barn.
-2. Medlemsstaterna ska inrätta och upprätthålla säkra platser som möjliggör kontakt under säkra förhållanden mellan ett
+2\. Medlemsstaterna ska inrätta och upprätthålla säkra platser som möjliggör kontakt under säkra förhållanden mellan ett
 barn och en person med föräldraansvar som har utövat, eller misstänks för, våld mot kvinnor eller våld i nära relationer,
 i den mån personen med föräldraansvar har umgängesrätt. Medlemsstaterna ska säkerställa att tillsyn, enligt vad som är
 lämpligt, utövas av utbildad personal med hänsyn till barnets bästa.
@@ -45166,16 +45166,16 @@ SV
 EUT L, 24.5.2024
 Artikel 33
 Riktat stöd till brottsoffer med intersektionella behov och riskutsatta grupper
-1. Medlemsstaterna ska säkerställa att specifikt stöd ges till brottsoffer som utsätts för intersektionell diskriminering vilka
+1\. Medlemsstaterna ska säkerställa att specifikt stöd ges till brottsoffer som utsätts för intersektionell diskriminering vilka
 löper ökad risk att utsättas för våld mot kvinnor eller våld i nära relationer.
-2. De stödtjänster som avses i artiklarna 25–30 ska ha tillräcklig kapacitet att ta emot brottsoffer med
+2\. De stödtjänster som avses i artiklarna 25–30 ska ha tillräcklig kapacitet att ta emot brottsoffer med
 funktionsnedsättning med hänsyn till deras särskilda behov, till exempel av personlig assistans.
-3. Stödtjänster ska vara tillgängliga för tredjelandsmedborgare som är brottsoffer, i enlighet med principen om
+3\. Stödtjänster ska vara tillgängliga för tredjelandsmedborgare som är brottsoffer, i enlighet med principen om
 icke-diskriminering i artikel 1 i direktiv 2012/29/EU.
 Medlemsstaterna ska säkerställa att brottsoffer som så begär kan hållas avskilda från personer av annat kön i förvar för
 tredjelandsmedborgare som omfattas av återvändandeförfaranden eller inkvarteras separat på förläggningar för personer
 som ansöker om internationellt skydd.
-4. Medlemsstaterna ska säkerställa att personer kan anmäla fall av våld mot kvinnor eller våld i nära relationer på
+4\. Medlemsstaterna ska säkerställa att personer kan anmäla fall av våld mot kvinnor eller våld i nära relationer på
 institutioner, förläggningar och i förvar till relevant personal och att det finns förfaranden för att säkerställa att denna
 personal eller de behöriga myndigheterna hanterar sådana anmälningar på lämpligt sätt och utan dröjsmål i enlighet med
 kraven i artiklarna 16, 17 och 18.
@@ -45183,9 +45183,9 @@ KAPITEL 5
 FÖREBYGGANDE ARBETE OCH TIDIG INTERVENTION
 Artikel 34
 Förebyggande åtgärder
-1. Medlemsstaterna ska vidta lämpliga åtgärder för att förhindra våld mot kvinnor och våld i nära relationer genom att
+1\. Medlemsstaterna ska vidta lämpliga åtgärder för att förhindra våld mot kvinnor och våld i nära relationer genom att
 anta en omfattande flernivåstrategi.
-2. Förebyggande åtgärder ska bland annat omfatta genomförande av eller stöd till riktade informationskampanjer eller
+2\. Förebyggande åtgärder ska bland annat omfatta genomförande av eller stöd till riktade informationskampanjer eller
 informationsprogram som riktar sig till personer från tidig ålder.
 De kampanjer eller program som avses i första stycket får omfatta forsknings- och utbildningsprogram för att öka
 allmänhetens medvetenhet om och kunskap om de olika yttringarna av och grundorsakerna till alla former av våld mot
@@ -45193,16 +45193,16 @@ kvinnor och våld i nära relationer, behovet av förebyggande arbete och, i lä
 särskilt för barn.
 I relevanta fall får de program som avses i första stycket utformas i samarbete med relevanta organisationer i det civila
 samhället, specialiserade tjänster, arbetsmarknadens parter, berörda samhällsgrupper och andra intressenter.
-3. Medlemsstaterna ska göra information om förebyggande åtgärder, brottsoffers rättigheter, tillgång till rättslig prövning
+3\. Medlemsstaterna ska göra information om förebyggande åtgärder, brottsoffers rättigheter, tillgång till rättslig prövning
 och advokat samt skydds- och stödåtgärder, inbegripet sjukvård, tillgänglig och lättåtkomlig för allmänheten, med
 beaktande av de mest talade språken på respektive territorium.
-4. Riktade åtgärder ska inriktas på grupper med förhöjd risk, såsom de som avses i artikel 33.1.
+4\. Riktade åtgärder ska inriktas på grupper med förhöjd risk, såsom de som avses i artikel 33.1.
 Information för barn ska formuleras på ett barnvänligt sätt eller anpassas så att den blir barnvänlig. Informationen ska
 presenteras i format som är tillgängliga för personer med funktionsnedsättning.
-5. Förebyggande åtgärder ska i synnerhet syfta till att ifrågasätta skadliga könsstereotyper, främja jämställdhet, ömsesidig
+5\. Förebyggande åtgärder ska i synnerhet syfta till att ifrågasätta skadliga könsstereotyper, främja jämställdhet, ömsesidig
 respekt och rätten till personlig integritet och uppmuntra alla, särskilt män och pojkar, att fungera som positiva förebilder
 för att främja beteendeförändringar i hela samhället i linje med målen i detta direktiv.
-6. Förebyggande åtgärder ska syfta till att rikta in sig på och minska efterfrågan på brottsoffer som utsatts för sexuellt
+6\. Förebyggande åtgärder ska syfta till att rikta in sig på och minska efterfrågan på brottsoffer som utsatts för sexuellt
 utnyttjande.
 30/36                          ELI: http://data.europa.eu/eli/dir/2024/1385/oj
 931
@@ -45213,23 +45213,23 @@ Bilaga 3                                   SOU 2026:34
 
 SV
 EUT L, 24.5.2024
-7. Förebyggande åtgärder ska bidra till eller öka medvetenheten om den skadliga sedvänjan med kvinnlig könsstympning
+7\. Förebyggande åtgärder ska bidra till eller öka medvetenheten om den skadliga sedvänjan med kvinnlig könsstympning
 och tvångsäktenskap, med beaktande av antalet personer som riskerar att drabbas eller som drabbas av dessa sedvänjor
 i respektive medlemsstat.
-8. Förebyggande åtgärder ska specifikt inriktas på de nätbrott som avses i artiklarna 5–8. Medlemsstaterna ska
+8\. Förebyggande åtgärder ska specifikt inriktas på de nätbrott som avses i artiklarna 5–8. Medlemsstaterna ska
 i synnerhet säkerställa att sådana förebyggande åtgärder inbegriper utvecklingen av digital kompetens, till exempel ett
 kritiskt förhållningssätt till den digitala världen och kritiskt tänkande, så att användare kan upptäcka och hantera fall av
 nätvåld, söka hjälp och förhindra att sådant våld utövas.
 Medlemsstaterna ska främja multidisciplinärt samarbete och samarbete mellan olika intressenter, till exempel mellan
 relevanta leverantörer av förmedlingstjänster och behöriga myndigheter, för att ta fram och genomföra åtgärder för att
 hantera de nätbrott som avses i artiklarna 5–8.
-9. Utan att det påverkar tillämpningen av artikel 26 i direktiv 2006/54/EG ska medlemsstaterna vidta adekvata och
+9\. Utan att det påverkar tillämpningen av artikel 26 i direktiv 2006/54/EG ska medlemsstaterna vidta adekvata och
 lämpliga åtgärder för att sexuella trakasserier i arbetslivet ska tas upp i relevant nationell politik, när detta utgör ett brott
 enligt nationell rätt. Sådan nationell politik får identifiera och fastställa de riktade åtgärder som avses i punkt 2 i den här
 artikeln för de sektorer där arbetstagarna är mest utsatta.
 Artikel 35
 Särskilda åtgärder för att förebygga våldtäkt och främja samtyckets centrala roll i sexuella relationer
-1. Medlemsstaterna ska vidta lämpliga åtgärder för att främja förändringar i beteendemönster som har sin grund i de
+1\. Medlemsstaterna ska vidta lämpliga åtgärder för att främja förändringar i beteendemönster som har sin grund i de
 historiskt ojämlika maktförhållandena mellan kvinnor och män eller grundade på stereotypa roller för kvinnor och män,
 särskilt i samband med sexuella relationer, sex och samtycke.
 De åtgärder som avses i första stycket ska grundas på principerna om jämställdhet och icke-diskriminering samt på
@@ -45239,16 +45239,16 @@ De åtgärder som avses i första stycket ska omfatta informationskampanjer elle
 spridning av utbildningsmaterial om samtycke och bred spridning av information om förebyggande av våldtäkt.
 De åtgärder som avses i första stycket ska främjas eller genomföras regelbundet, inbegripet, när så är lämpligt, i samarbete
 med organisationer i det civila samhället och icke-statliga organisationer, särskilt kvinnoorganisationer.
-2. De informationskampanjer eller informationsprogram som avses i punkt 1 tredje stycket ska särskilt syfta till att öka
+2\. De informationskampanjer eller informationsprogram som avses i punkt 1 tredje stycket ska särskilt syfta till att öka
 kunskapen om att sex utan samtycke betraktas som ett brott.
-3. Det utbildningsmaterial om samtycke som avses i punkt 1 tredje stycket ska främja förståelsen av att samtycke ska ges
+3\. Det utbildningsmaterial om samtycke som avses i punkt 1 tredje stycket ska främja förståelsen av att samtycke ska ges
 frivilligt på grundval av en persons fria vilja, ömsesidig respekt och rätten till sexuell integritet och kroppsligt
 självbestämmande. Sådant material ska anpassas efter utvecklingen av förmågan hos de personer till vilka materialet riktas.
-4. Den information som avses i denna artikel ska ges bred spridning i syfte att informera allmänheten om befintliga
+4\. Den information som avses i denna artikel ska ges bred spridning i syfte att informera allmänheten om befintliga
 åtgärder för förebyggande av våldtäkt, inbegripet tillgången till de interventionsprogram som avses i artikel 37.
 Artikel 36
 Utbildning och information för yrkespersoner
-1. Medlemsstaterna ska säkerställa att tjänstemän som i sitt arbete sannolikt kommer att komma i kontakt med
+1\. Medlemsstaterna ska säkerställa att tjänstemän som i sitt arbete sannolikt kommer att komma i kontakt med
 brottsoffer, såsom poliser och domstolspersonal, får både allmän och specialiserad utbildning och riktad information av en
 omfattning som lämpar sig för deras kontakt med brottsoffer, så att de kan upptäcka, förhindra och hantera fall av våld mot
 kvinnor eller våld i nära relationer och behandla brottsoffer på ett trauma-, genus- och barnmedvetet sätt.
@@ -45261,47 +45261,47 @@ SOU 2026:34                                   Bilaga 3
 
 SV
 EUT L, 24.5.2024
-2. Medlemsstaterna ska främja eller erbjuda utbildning för personal inom hälso- och sjukvården, socialtjänst och
+2\. Medlemsstaterna ska främja eller erbjuda utbildning för personal inom hälso- och sjukvården, socialtjänst och
 utbildningsväsendet som sannolikt kommer att komma i kontakt med brottsoffer, så att de kan upptäcka, förhindra och
 hantera fall av våld mot kvinnor eller våld i nära relationer och hänvisa brottsoffer till specialiserade stödtjänster.
-3. Utan att det påverkar rättsväsendets oberoende eller skillnader i rättsväsendets uppbyggnad inom unionen ska
+3\. Utan att det påverkar rättsväsendets oberoende eller skillnader i rättsväsendets uppbyggnad inom unionen ska
 medlemsstaterna vidta nödvändiga åtgärder för att säkerställa att domare och åklagare som arbetar med straffrättsliga
 förfaranden och utredningar erbjuds både allmän och specialiserad utbildning om målen för detta direktiv som är anpassad
 till dessa domares och åklagares funktioner. Sådan utbildning ska vara människorättsbaserad och sätta brottsoffren
 i centrum utifrån ett köns-, funktionsnedsättnings- och barnperspektiv.
-4. Utan att det påverkar juristyrkets oberoende ska medlemsstaterna rekommendera att de som ansvarar för utbildning
+4\. Utan att det påverkar juristyrkets oberoende ska medlemsstaterna rekommendera att de som ansvarar för utbildning
 av jurister tillhandahåller både allmän och specialiserad utbildning för att öka juristernas medvetenhet om brottsoffrens
 behov och för att behandla brottsoffer på ett trauma-, genus- och barnmedvetet sätt.
-5. Relevant personal inom hälso- och sjukvården, såsom barnläkare, gynekologer, obstetriker, barnmorskor samt hälso-
+5\. Relevant personal inom hälso- och sjukvården, såsom barnläkare, gynekologer, obstetriker, barnmorskor samt hälso-
 och sjukvårdspersonal som tillhandahåller psykologiskt stöd, ska få riktad utbildning för att på ett kulturmedvetet sätt
 kunna upptäcka och hantera de fysiska, psykiska och sexuella konsekvenserna av kvinnlig könsstympning.
-6. Personer i arbetsledande ställning på arbetsplatser inom såväl offentlig som privat sektor ska få utbildning i hur
+6\. Personer i arbetsledande ställning på arbetsplatser inom såväl offentlig som privat sektor ska få utbildning i hur
 sexuella trakasserier i arbetslivet kan upptäckas, förebyggas och hanteras, när sådana trakasserier utgör ett brott enligt
 nationell rätt. Dessa personer och arbetsgivare ska få information om effekterna av våld mot kvinnor och våld i nära
 relationer på arbetet och om risken för tredjepartsvåld.
-7. De utbildningsinsatser som avses i punkterna 1, 2 och 5 ska omfatta utbildning i samordnat multidisciplinärt
+7\. De utbildningsinsatser som avses i punkterna 1, 2 och 5 ska omfatta utbildning i samordnat multidisciplinärt
 samarbete för att möjliggöra en heltäckande och lämplig hantering av ärenden som gäller våld mot kvinnor och våld i nära
 relationer.
-8. Utan att det påverkar mediernas frihet och mångfald ska medlemsstaterna uppmuntra och stödja utbildningsinsatser
+8\. Utan att det påverkar mediernas frihet och mångfald ska medlemsstaterna uppmuntra och stödja utbildningsinsatser
 för medier som genomförs av organisationer för mediearbetare, mediernas självregleringsorgan och branschföreträdare eller
 andra relevanta oberoende organisationer för att bekämpa stereotypa föreställningar om kvinnor och män, sexistiska bilder
 av kvinnor och skuldbeläggning av brottsoffer i medierna, i syfte att minska risken för våld mot kvinnor och våld i nära
 relationer.
 Den utbildning som avses i första stycket får tillhandahållas av relevanta organisationer i det civila samhället, icke-statliga
 organisationer som arbetar med brottsoffer, arbetsmarknadens parter och andra intressenter.
-9. Medlemsstaterna ska säkerställa att myndigheter som är behöriga att ta emot brottsoffrens anmälningar av brott har
+9\. Medlemsstaterna ska säkerställa att myndigheter som är behöriga att ta emot brottsoffrens anmälningar av brott har
 lämplig utbildning för att underlätta och hjälpa till i samband med anmälningar av sådana brott och för att förhindra
 sekundär viktimisering.
-10. De utbildningsinsatser som avses i punkterna 1–5 i denna artikel ska kompletteras med lämplig uppföljning,
+10\. De utbildningsinsatser som avses i punkterna 1–5 i denna artikel ska kompletteras med lämplig uppföljning,
 inbegripet om de nätbrott som avses i artiklarna 5–8, och utgå från vad som kännetecknar våld mot kvinnor och våld i nära
 relationer. Sådana utbildningsinsatser får omfatta utbildning i hur särskilda behov av skydd och stöd kan upptäckas och
 tillgodoses för brottsoffer som löper ökad risk att utsättas för våld till följd av att de utsätts för intersektionell
 diskriminering.
-11. Åtgärderna enligt punkterna 1–9 ska genomföras utan att det påverkar domstolsväsendets oberoende, hur reglerade
+11\. Åtgärderna enligt punkterna 1–9 ska genomföras utan att det påverkar domstolsväsendets oberoende, hur reglerade
 yrken organiserar sig själva eller skillnader i rättsväsendets uppbyggnad inom unionen.
 Artikel 37
 Interventionsprogram
-1. Medlemsstaterna ska vidta nödvändiga åtgärder för att säkerställa att riktade interventionsprogram inrättas för att
+1\. Medlemsstaterna ska vidta nödvändiga åtgärder för att säkerställa att riktade interventionsprogram inrättas för att
 förebygga och minimera risken att personer utövar våld mot kvinnor och våld i nära relationer eller att de återfaller.
 32/36                          ELI: http://data.europa.eu/eli/dir/2024/1385/oj
 933
@@ -45312,40 +45312,40 @@ Bilaga 3                                   SOU 2026:34
 
 SV
 EUT L, 24.5.2024
-2. De interventionsprogram som avses i punkt 1 ska göras tillgängliga för personer som har utövat våld mot kvinnor
+2\. De interventionsprogram som avses i punkt 1 ska göras tillgängliga för personer som har utövat våld mot kvinnor
 eller våld i nära relationer och får göras tillgängliga för andra personer som bedöms löpa risk att begå sådana brott. Detta
 kan omfatta personer som anser sig ha ett behov av att delta, till exempel för att de fruktar att de skulle kunna utöva våld
 mot kvinnor eller våld i nära relationer.
-3. Medlemsstaterna ska säkerställa att personer som begått våldtäkt uppmuntras att delta i ett sådant interventions-
+3\. Medlemsstaterna ska säkerställa att personer som begått våldtäkt uppmuntras att delta i ett sådant interventions-
 program som avses i punkt 1.
 KAPITEL 6
 SAMORDNING OCH SAMARBETE
 
 Artikel 38
 Samordning av politik och samordningsorgan
-1. Medlemsstaterna ska anta och genomföra nationell, effektiv, heltäckande och samordnad politik som innefattar alla
+1\. Medlemsstaterna ska anta och genomföra nationell, effektiv, heltäckande och samordnad politik som innefattar alla
 lämpliga åtgärder för att förebygga och bekämpa alla former av våld mot kvinnor och våld i nära relationer.
-2. Medlemsstaterna ska utse eller inrätta ett eller flera offentliga organ som ska ansvara för att samordna, genomföra,
+2\. Medlemsstaterna ska utse eller inrätta ett eller flera offentliga organ som ska ansvara för att samordna, genomföra,
 övervaka och utvärdera politik och åtgärder för att förhindra och bekämpa alla former av våld som omfattas av detta
 direktiv.
-3. Det eller de organ som avses i punkt 2 ska samordna insamlingen av de data som avses i artikel 44 samt analysera och
+3\. Det eller de organ som avses i punkt 2 ska samordna insamlingen av de data som avses i artikel 44 samt analysera och
 sprida resultaten av sådana insamlingar.
-4. Medlemsstaterna ska säkerställa att politiken samordnas på central nivå och, när så är lämpligt, på regional eller lokal
+4\. Medlemsstaterna ska säkerställa att politiken samordnas på central nivå och, när så är lämpligt, på regional eller lokal
 nivå, i enlighet med befogenhetsfördelningen i den berörda medlemsstaten.
 
 Artikel 39
 Nationella handlingsplaner för förebyggande och bekämpning av våld mot kvinnor och våld i nära relationer
-1. Senast den 14 juni 2029 ska medlemsstaterna, i förekommande fall i samråd med specialiserade stödtjänster, anta
+1\. Senast den 14 juni 2029 ska medlemsstaterna, i förekommande fall i samråd med specialiserade stödtjänster, anta
 nationella handlingsplaner för förebyggande och bekämpning av könsrelaterat våld.
-2. De nationella handlingsplaner som avses i punkt 1 får innehålla prioriteringar och åtgärder för att förebygga och
+2\. De nationella handlingsplaner som avses i punkt 1 får innehålla prioriteringar och åtgärder för att förebygga och
 bekämpa våld mot kvinnor och våld i nära relationer, målen och mekanismer för övervakning i dem, de resurser som krävs
 för att uppnå sådana prioriteringar och åtgärder samt hur dessa resurser ska fördelas.
-3. Medlemsstaterna ska säkerställa att de nationella handlingsplaner som avses i punkt 1 ses över och uppdateras för att
+3\. Medlemsstaterna ska säkerställa att de nationella handlingsplaner som avses i punkt 1 ses över och uppdateras för att
 säkerställa att de förblir relevanta.
 Artikel 40
 Myndighetssamordning och myndighetssamverkan
 
-1. Medlemsstaterna ska inrätta lämpliga mekanismer, med vederbörlig hänsyn till nationell rätt eller praxis, för att
+1\. Medlemsstaterna ska inrätta lämpliga mekanismer, med vederbörlig hänsyn till nationell rätt eller praxis, för att
 säkerställa effektiv samordning och samverkan mellan relevanta myndigheter, byråer och organ, däribland ombudsmän,
 lokala och regionala myndigheter, brottsbekämpande organ, rättsvårdande myndigheter, utan att det påverkar
 rättsväsendets oberoende, stödtjänster, särskilt specialiserade stödtjänster för kvinnor, icke-statliga organisationer,
@@ -45361,7 +45361,7 @@ SOU 2026:34                                   Bilaga 3
 
 SV
 EUT L, 24.5.2024
-2. Sådana mekanismer för samordning och samverkan som avses i punkt 1 i den här artikeln ska i synnerhet, i den mån
+2\. Sådana mekanismer för samordning och samverkan som avses i punkt 1 i den här artikeln ska i synnerhet, i den mån
 det är relevant, omfatta de individuella bedömningarna enligt artiklarna 16 och 17, skydds- och stödåtgärderna enligt
 artikel 19 och kapitel 4, de rådgivande riktlinjerna enligt artikel 21 och den utbildning för yrkespersoner som avses
 i artikel 36.
@@ -45391,9 +45391,9 @@ b)när så krävs samråda med varandra i enskilda fall, bland annat genom Euroj
 nätverket, inom ramen för deras respektive mandat.
 Artikel 44
 Datainsamling och forskning
-1. Medlemsstaterna ska ha ett system för insamling, utveckling, produktion och spridning av statistik om våld mot
+1\. Medlemsstaterna ska ha ett system för insamling, utveckling, produktion och spridning av statistik om våld mot
 kvinnor eller våld i nära relationer.
-2. Den statistik som avses i punkt 1 ska minst omfatta följande befintliga data, tillgängliga på central nivå, disaggregerade
+2\. Den statistik som avses i punkt 1 ska minst omfatta följande befintliga data, tillgängliga på central nivå, disaggregerade
 efter kön, brottsoffrets och gärningsmannens åldersgrupp (barn/vuxen) och, om det är möjligt och relevant, förhållandet
 mellan brottsoffret och gärningsmannen, samt typen av brott:
 a) Det årliga antalet anmälda brott och fällande domar i fråga om våld mot kvinnor eller våld i nära relationer enligt
@@ -45410,39 +45410,39 @@ Bilaga 3                                   SOU 2026:34
 SV
 EUT L, 24.5.2024
 d)Antalet samtal till nationella stödlinjer.
-3. Medlemsstaterna ska sträva efter att regelbundet genomföra befolkningsbaserade undersökningar för att bedöma den
+3\. Medlemsstaterna ska sträva efter att regelbundet genomföra befolkningsbaserade undersökningar för att bedöma den
 allmänna förekomsten av och utvecklingstendenser för alla former av våld som omfattas av detta direktiv.
 Medlemsstaterna ska översända data från de undersökningar som avses i första stycket till kommissionen (Eurostat) så snart
 de blir tillgängliga.
-4. För att säkerställa jämförbarhet och standardisering mellan administrativa data inom unionen ska medlemsstaterna
+4\. För att säkerställa jämförbarhet och standardisering mellan administrativa data inom unionen ska medlemsstaterna
 sträva efter att samla in administrativa data på grundval av gemensamma disaggregeringar som utvecklats i samarbete med
 och i enlighet med de standarder som tas fram av Europeiska jämställdhetsinstitutet enligt punkt 5. De ska årligen överföra
 dessa data till Europeiska jämställdhetsinstitutet. Data som överförs får inte innefatta personuppgifter.
-5. Europeiska jämställdhetsinstitutet ska stödja medlemsstaterna i den insamling av data som avses i punkt 2 genom att
+5\. Europeiska jämställdhetsinstitutet ska stödja medlemsstaterna i den insamling av data som avses i punkt 2 genom att
 bland annat fastställa gemensamma standarder med beaktande av de krav som anges i den punkten.
-6. Medlemsstaterna ska offentliggöra den statistik som samlats in enligt denna artikel på ett lättillgängligt sätt. Denna
+6\. Medlemsstaterna ska offentliggöra den statistik som samlats in enligt denna artikel på ett lättillgängligt sätt. Denna
 statistik får inte innehålla personuppgifter.
-7. Kommissionen ska åtminstone fram till utgången av den fleråriga budgetramen 2021–2027 stödja eller bedriva
+7\. Kommissionen ska åtminstone fram till utgången av den fleråriga budgetramen 2021–2027 stödja eller bedriva
 forskning om grundorsaker, konsekvenser, förekomst och antal fällande domar när det gäller de former av våld som
 omfattas av detta direktiv.
 KAPITEL 7
 SLUTBESTÄMMELSER
 Artikel 45
 Rapportering och översyn
-1. Senast den 14 juni 2032 ska medlemsstaterna till kommissionen överlämna all relevant information om hur detta
+1\. Senast den 14 juni 2032 ska medlemsstaterna till kommissionen överlämna all relevant information om hur detta
 direktiv fungerar som behövs för att kommissionen ska kunna utarbeta en rapport om utvärderingen av detta direktiv.
-2. På grundval av den information som medlemsstaterna lämnar i enlighet med punkt 1 ska kommissionen göra en
+2\. På grundval av den information som medlemsstaterna lämnar i enlighet med punkt 1 ska kommissionen göra en
 utvärdering av effekterna av detta direktiv och av huruvida målet att förebygga och bekämpa våld mot kvinnor och våld
 i nära relationer i hela unionen har uppnåtts samt lägga fram en rapport för Europaparlamentet och rådet. Rapporten ska
 särskilt innehålla en bedömning av huruvida det är nödvändigt att utvidga tillämpningsområdet för detta direktiv och införa
 nya brott. Rapporten ska vid behov åtföljas av ett lagstiftningsförslag.
-3. Senast den 14 juni 2032 ska kommissionen bedöma huruvida ytterligare åtgärder på unionsnivå är nödvändiga för att
+3\. Senast den 14 juni 2032 ska kommissionen bedöma huruvida ytterligare åtgärder på unionsnivå är nödvändiga för att
 effektivt bekämpa sexuella trakasserier och sexuellt våld på arbetsplatsen, med beaktande av tillämpliga internationella
 konventioner, unionens rättsliga ram om likabehandling av kvinnor och män i arbetslivet och den rättsliga ramen om hälsa
 och säkerhet på arbetsplatsen.
 Artikel 46
 Förhållande till andra unionsrättsakter
-1. Detta direktiv påverkar inte tillämpningen av följande rättsakter:
+1\. Detta direktiv påverkar inte tillämpningen av följande rättsakter:
 a) Direktiv 2011/36/EU.
 b)Direktiv 2011/93/EU.
 c) Direktiv 2011/99/EU.
@@ -45459,7 +45459,7 @@ SV
 EUT L, 24.5.2024
 e) Förordning (EU) nr 606/2013.
 f) Förordning (EU) 2022/2065.
-2. De särskilda åtgärder med avseende på förebyggande samt skydd för och stöd till brottsoffer som föreskrivs i kapitlen
+2\. De särskilda åtgärder med avseende på förebyggande samt skydd för och stöd till brottsoffer som föreskrivs i kapitlen
 3, 4 och 5 i detta direktiv gäller utöver de åtgärder som fastställs i direktiven 2011/36/EU, 2011/93/EU och 2012/29/EU.
 Artikel 47
 Pressfrihet och yttrandefrihet i andra medier
@@ -45474,11 +45474,11 @@ andra lagar eller författningar än de som är i kraft den 13 juni 2024, under 
 uppfylls.
 Artikel 49
 Införlivande
-1. Medlemsstaterna ska sätta i kraft de bestämmelser i lagar och andra författningar som är nödvändiga för att följa detta
+1\. Medlemsstaterna ska sätta i kraft de bestämmelser i lagar och andra författningar som är nödvändiga för att följa detta
 direktiv senast den 14 juni 2027. De ska genast underrätta kommissionen om detta.
 När en medlemsstat antar dessa bestämmelser ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan
 hänvisning när de offentliggörs. Närmare föreskrifter om hur hänvisningen ska göras ska varje medlemsstat själv utfärda.
-2. Medlemsstaterna ska underrätta kommissionen om texten till de bestämmelser i nationell rätt som de antar inom det
+2\. Medlemsstaterna ska underrätta kommissionen om texten till de bestämmelser i nationell rätt som de antar inom det
 område som omfattas av detta direktiv.
 Artikel 50
 Ikraftträdande
@@ -45501,56 +45501,56 @@ Statens offentliga utredningar  2026
 
 Kronologisk förteckning
 
-1. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
+1\. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
 utveckling – ett nytt incitament baserat av kapacitet, redundans och svenskt-
 på utgifter för FoU-personal. Fi. danskt samarbete. LI.
-2. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
-3. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
+2\. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
+3\. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
 A.                     – förslag för att motverka
-4. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
+4\. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
 ett pedagogiskt ledarskap. U. 20. Belägg för broms? Åtgärder
-5. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
+5\. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
 m.m. Fi.               kommunalskattesatser. Fi.
-6. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
+6\. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
 hälso- och sjukvården. Styrning med Ju.
 tydliga roller och ansvar för aktörerna. 22. Stärkt läkemedelsförsörjning
 S.                     i samverkan. Nationella åtgärder för
-7. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
+7\. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
 av folkhälsopolitiken. vid brist. S.
 Del I: Effektivare folkhälsoinsatser 23. Tolkavgift och förbud
 genom hälsoekonomiska analyser. mot barntolkning. A.
 Del II: Utvärdering av alkohol- 24. Mervärdesskatt vid uthyrning
 politikens styrmedel. S. och överlåtelse av fastighet. Fi.
-8. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
+8\. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
 unga. S.
-26. Digitala verktyg inom bolagsrätten.
-9. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
-10. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
+26\. Digitala verktyg inom bolagsrätten.
+9\. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
+10\. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
 brottsbekämpning. Del 1 och 2. Ju. rätten. Ju.
-11. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
+11\. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
 verksamhet och tillgångar till Tredje rapportering. Ju.
 och Fjärde AP-fonderna. Fi. 28. Tillgång till passageraruppgifter
-12. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
+12\. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
 verksamhet och tillgångar till Andra 29. Förbud mot uppfödning av djur
 AP-fonden. Fi.         för pälsproduktion. LI.
-13. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
+13\. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
 med kriminella sammanslutningar. Ju. häktning och fängelsestraff. Ju.
-14. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
+14\. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
 rad reglering av handel med ädelmetall-
-32. Att säga ja! Kommunernas förutsätt-
+32\. Att säga ja! Kommunernas förutsätt-
 arbeten. KN.
 ningar att ta emot stora företagsetable-
-15. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
+15\. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
 Konsekvenser för samer av svensk
-33. Vägen mot utfasning. Styrmedel för
+33\. Vägen mot utfasning. Styrmedel för
 politik. Volym 1 och 2. Ku.
 ett fossilfritt samhälle. KN.
-16. Försvarsexportinitiativ. För gemensam
+16\. Försvarsexportinitiativ. För gemensam
 säkerhet. Fö.
 
 <!-- sida 990 -->
 
-34. Nya nätbrott och andra åtgärder för
+34\. Nya nätbrott och andra åtgärder för
 genomförandet av direktivet om
 bekämpning av våld mot kvinnor och
 våld i nära relationer. Volym 1 & 2. Ju.
@@ -45659,35 +45659,35 @@ om bekämpning av våld mot kvinnor och våld i nära relationer
 (SOU 2026:34)
 
 Remissinstanser
-1.  Arbetsförmedlingen
+1\.  Arbetsförmedlingen
 
-2.  Arbetsgivarverket
-3.  Arbetsmiljöverket
+2\.  Arbetsgivarverket
+3\.  Arbetsmiljöverket
 
-4.  Arvika kommun
+4\.  Arvika kommun
 
-5.  Asylrättscentrum
-6.  Barnombudsmannen
+5\.  Asylrättscentrum
+6\.  Barnombudsmannen
 
-7.  Barnrättsbyrån
+7\.  Barnrättsbyrån
 
-8.  Barnens Rätt i Samhället
-9.  Brottsförebyggande rådet
+8\.  Barnens Rätt i Samhället
+9\.  Brottsförebyggande rådet
 
-10. Brottsofferjouren Sverige
+10\. Brottsofferjouren Sverige
 
-11. Brottsoffermyndigheten
-12. ChildX
+11\. Brottsoffermyndigheten
+12\. ChildX
 
-13. Diskrimineringsombudsmannen
-14. Domstolsverket
+13\. Diskrimineringsombudsmannen
+14\. Domstolsverket
 
-15. ECPAT Sverige
+15\. ECPAT Sverige
 
-16. Ekobrottsmyndigheten
-17. Enköpings kommun
+16\. Ekobrottsmyndigheten
+17\. Enköpings kommun
 
-18. Existera
+18\. Existera
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Rosenbad
@@ -45695,190 +45695,190 @@ Webb: www.regeringen.se     E-post: ju.registrator@regeringskansliet.se
 
 <!-- sida 994 -->
 
-19. Falu kommun
+19\. Falu kommun
 
-20. Folkhälsomyndigheten
-21. Frälsningsarmén
+20\. Folkhälsomyndigheten
+21\. Frälsningsarmén
 
-22. Funktionsrätt Sverige
-23. Försäkringskassan
+22\. Funktionsrätt Sverige
+23\. Försäkringskassan
 
-24. Förvaltningsrätten i Malmö
+24\. Förvaltningsrätten i Malmö
 
-25. Förvaltningsrätten i Umeå
-26. Gnosjö kommun
+25\. Förvaltningsrätten i Umeå
+26\. Gnosjö kommun
 
-27. Google AB
+27\. Google AB
 
-28. Göteborgs kommun
-29. Helsingborgs kommun
+28\. Göteborgs kommun
+29\. Helsingborgs kommun
 
-30. Hovrätten för Västra Sverige
+30\. Hovrätten för Västra Sverige
 
-31. Huddinge kommun
-32. Hässleholms kommun
+31\. Huddinge kommun
+32\. Hässleholms kommun
 
-33. Inspektionen för vård och omsorg
-34. Institutet för mänskliga rättigheter
+33\. Inspektionen för vård och omsorg
+34\. Institutet för mänskliga rättigheter
 
-35. Integritetsskyddsmyndigheten
+35\. Integritetsskyddsmyndigheten
 
-36. Journalistförbundet
-37. Justitiekanslern
+36\. Journalistförbundet
+37\. Justitiekanslern
 
-38. Jämställdhetsmyndigheten
+38\. Jämställdhetsmyndigheten
 
-39. Kammarrätten i Stockholm
-40. Kriminalvården
+39\. Kammarrätten i Stockholm
+40\. Kriminalvården
 
-41. Kronofogdemyndigheten
-42. Kungsbacka kommun
+41\. Kronofogdemyndigheten
+42\. Kungsbacka kommun
 
-43. Landsorganisationen i Sverige
+43\. Landsorganisationen i Sverige
 
-44. Linköpings kommun
-45. Linköpings universitet, Barnafrid
+44\. Linköpings kommun
+45\. Linköpings universitet, Barnafrid
 
-46. Ljusdals kommun
+46\. Ljusdals kommun
 
-47. Lomma kommun
-48. Lunds universitet – juridiska fakulteten
+47\. Lomma kommun
+48\. Lunds universitet – juridiska fakulteten
 
 2 (6)
 
 <!-- sida 995 -->
 
-49. Luleå tingsrätt
+49\. Luleå tingsrätt
 
-50. Länsstyrelsen i Gotlands län
-51. Länsstyrelsen i Jönköpings län
+50\. Länsstyrelsen i Gotlands län
+51\. Länsstyrelsen i Jönköpings län
 
-52. Länsstyrelsen i Västernorrlands län
-53. Länsstyrelsen i Uppsala län
+52\. Länsstyrelsen i Västernorrlands län
+53\. Länsstyrelsen i Uppsala län
 
-54. Malmö kommun
+54\. Malmö kommun
 
-55. Medieombudsmannen
-56. Meta Sverige
+55\. Medieombudsmannen
+56\. Meta Sverige
 
-57. Migrationsverket
+57\. Migrationsverket
 
-58. Motala kommun
-59. Myndigheten för civilt försvar
+58\. Motala kommun
+59\. Myndigheten för civilt försvar
 
-60. Myndigheten för delaktighet
+60\. Myndigheten för delaktighet
 
-61. Myndigheten för familjerätt och föräldraskapsstöd
-62. Myndigheten för ungdoms- och civilsamhällesfrågor
+61\. Myndigheten för familjerätt och föräldraskapsstöd
+62\. Myndigheten för ungdoms- och civilsamhällesfrågor
 
-63. Nacka kommun
-64. Norrköpings tingsrätt
+63\. Nacka kommun
+64\. Norrköpings tingsrätt
 
-65. Nyköpings kommun
+65\. Nyköpings kommun
 
-66. Polismyndigheten
-67. Post- och telestyrelsen
+66\. Polismyndigheten
+67\. Post- och telestyrelsen
 
-68. Regelrådet
+68\. Regelrådet
 
-69. Region Dalarna
-70. Region Norrbotten
+69\. Region Dalarna
+70\. Region Norrbotten
 
-71. Region Stockholm
-72. Riksdagens ombudsmän (JO)
+71\. Region Stockholm
+72\. Riksdagens ombudsmän (JO)
 
-73. Riksförbundet Attention
+73\. Riksförbundet Attention
 
-74. Riksförbundet för homosexuellas, bisexuellas, transpersoners, queeras
+74\. Riksförbundet för homosexuellas, bisexuellas, transpersoners, queeras
 och intersexpersoners rättigheter
 
-75. Riksorganisationen för kvinno- och tjejjourer i Sverige
-76. Riksorganisationen GAPF – Glöm aldrig Pela och Fadime
+75\. Riksorganisationen för kvinno- och tjejjourer i Sverige
+76\. Riksorganisationen GAPF – Glöm aldrig Pela och Fadime
 
-77. Rädda barnen
+77\. Rädda barnen
 
 3 (6)
 
 <!-- sida 996 -->
 
-78. Rädda barnens ungdomsförbund
+78\. Rädda barnens ungdomsförbund
 
-79. Rättsmedicinalverket
-80. Skatteverket
+79\. Rättsmedicinalverket
+80\. Skatteverket
 
-81. Skellefteå kommun
-82. Snap Inc.
+81\. Skellefteå kommun
+82\. Snap Inc.
 
-83. Socialstyrelsen
+83\. Socialstyrelsen
 
-84. Solna kommun
-85. Somaya stödjour
+84\. Solna kommun
+85\. Somaya stödjour
 
-86. Statens beredning för medicinsk och social utvärdering
+86\. Statens beredning för medicinsk och social utvärdering
 
-87. Statens skolverk
-88. Statskontoret
+87\. Statens skolverk
+88\. Statskontoret
 
-89. Stiftelsen Allmänna Barnhuset
+89\. Stiftelsen Allmänna Barnhuset
 
-90. Stiftelsen 1000 Möjligheter
-91. Stockholms kommun
+90\. Stiftelsen 1000 Möjligheter
+91\. Stockholms kommun
 
-92. Stockholms tingsrätt
-93. Strängnäs kommun
+92\. Stockholms tingsrätt
+93\. Strängnäs kommun
 
-94. Svea hovrätt
+94\. Svea hovrätt
 
-95. Svenskt näringsliv
-96. Sveriges advokatsamfund
+95\. Svenskt näringsliv
+96\. Sveriges advokatsamfund
 
-97. Sveriges akademikers centralorganisation
+97\. Sveriges akademikers centralorganisation
 
-98. Sveriges domareförbund
-99. Sveriges kommuner och regioner
+98\. Sveriges domareförbund
+99\. Sveriges kommuner och regioner
 
-100. Sveriges kvinnoorganisationer
-101. Sveriges stadsmissioner
+100\. Sveriges kvinnoorganisationer
+101\. Sveriges stadsmissioner
 
-102. Säkerhetspolisen
+102\. Säkerhetspolisen
 
-103. Talita
-104. TechSverige
+103\. Talita
+104\. TechSverige
 
-105. Terrafem
+105\. Terrafem
 
-106. Tidningsutgivarna
-107. TikTok
+106\. Tidningsutgivarna
+107\. TikTok
 
 4 (6)
 
 <!-- sida 997 -->
 
-108. Timrå kommun
+108\. Timrå kommun
 
-109. Tjänstemännens centralorganisation
-110. Uddevalla kommun
+109\. Tjänstemännens centralorganisation
+110\. Uddevalla kommun
 
-111. Umeå kommun
-112. Umeå universitet – juridiska institutionen
+111\. Umeå kommun
+112\. Umeå universitet – juridiska institutionen
 
-113. Uppsala kommun
+113\. Uppsala kommun
 
-114. Universitets- och högskolerådet
-115. Unizon
+114\. Universitets- och högskolerådet
+115\. Unizon
 
-116. Uppsala universitet –Nationellt centrum för kvinnofrid
+116\. Uppsala universitet –Nationellt centrum för kvinnofrid
 
-117. Vara kommun
-118. Varbergs kommun
+117\. Vara kommun
+118\. Varbergs kommun
 
-119. Västerås kommun
+119\. Västerås kommun
 
-120. Västra Götalandsregionen
-121. Åklagarmyndigheten
+120\. Västra Götalandsregionen
+121\. Åklagarmyndigheten
 
-122. Åre kommun
-123. Örebro kommun
+122\. Åre kommun
+123\. Örebro kommun
 
 Remissvaren ska ha kommit in till Justitiedepartementet senast den
 26 oktober 2026. Svaren bör lämnas per e-post till
@@ -46133,7 +46133,7 @@ anskaffade 2013 använts. Bild från Kungsbacka stadsfestival 2025, då den mobi
 användes i badhusparken som komplement till en stor scen på stortorget:
 
 Bilden ovan är från politisk debatt på Kungsbacka Outdoor Festival, Naturum Fjärås Bräcka
-2026.
+2026\.
 
 6
 
@@ -46419,7 +46419,7 @@ förutsättningar för evenemang i hela kommunen.
 Om nämnden ändå beslutar att gå vidare med förslaget att bygga en fast scen, kan en av
 dessa processer väljs:
 
-1. Nämnden beslutar att gå vidare med en behovsbeskrivning i kommunens
+1\. Nämnden beslutar att gå vidare med en behovsbeskrivning i kommunens
 lokalprocess där ett konkret förslag om en fast scen i Badhusparken läggs fram, som
 
 sedan behandlas av Service Fastighet och läggs fram för politisk behandling i
@@ -46427,7 +46427,7 @@ kommunens budgetprocess.
 
 Alternativt
 
-2. Nämnden beslutar att via investeringsmedel, tillsammans med förvaltningen för
+2\. Nämnden beslutar att via investeringsmedel, tillsammans med förvaltningen för
 Teknik, finansiera och planera en fast scen som en integrerad del av den pågående
 utvecklingen av Badhusparken.
 
@@ -46508,11 +46508,11 @@ kommunen för att under kortare eller längre perioder kunna arrangera
 
 Bilagor
 
-1. Exempel från andra städer, 2026
-2. Planstudie över Sankt Gertrud 8 m fl., 2016
+1\. Exempel från andra städer, 2026
+2\. Planstudie över Sankt Gertrud 8 m fl., 2016
 
-3. Utvärdering av parallella uppdrag inom Sankt Gertrud och Badhusparken, 2016
-4. Protokollsutdrag NKTF 2025-10-22
+3\. Utvärdering av parallella uppdrag inom Sankt Gertrud och Badhusparken, 2016
+4\. Protokollsutdrag NKTF 2025-10-22
 
 17
 
@@ -46934,7 +46934,7 @@ ningsskydd -
 Det förväntas vara
 Teknik
 färdigbyggt strax efter
-2020. Sankt Gertrud
+2020\. Sankt Gertrud
 kan förväntas stå klart
 Ombyggnad                     ungefär samtidigt.
 Kvarteret Valand - av Fyren -
@@ -46949,7 +46949,7 @@ kompletterande projekt
 Gestaltnings-             till kvarteret Valand och
 program för               Väster om ån.
 Kungsbackaån
-- antaget av
+\- antaget av
 Badhuspar-     Kulturhuset Fyren
 nämnden för
 Kvarteret Ejdern -        kens utform-
@@ -47531,7 +47531,7 @@ l g l b
 n
 s ä o
 t
-- s
+\- s
 i
 e
 a
@@ -47773,25 +47773,25 @@ byggnadsnämnden defi nierar vad som menas med djärv arkitektur på denna plats
 <!-- sida 1048 -->
 
 Siktlinjer, fondmotiv och landmärken
-2.
+2\.
 
-1.
+1\.
 Hotell
 Halland
-1.
+1\.
 
-3.
+3\.
 
-1. Hotell Halland är idag ett tydligt landmärke när man kommer in till
+1\. Hotell Halland är idag ett tydligt landmärke när man kommer in till
 staden västerifrån på Kungsgatan både som bilist cyklist eller gång-
-2.
+2\.
 trafi kant. Hotellet är en viktig funktion som ska synas också i fortsätt-
 ningen.
-2. Ett nytt djärvt hus får gärna synas från resecentrum
-3. Hotell Hallands gavel ligger i fonden sett från Storgatan/Kungsbacka
+2\. Ett nytt djärvt hus får gärna synas från resecentrum
+3\. Hotell Hallands gavel ligger i fonden sett från Storgatan/Kungsbacka
 torg. Miljön runt torget är riksintresse för kulturmiljön.
 
-3.
+3\.
 
 Kulturmiljöer att värna
 
@@ -48953,10 +48953,10 @@ Att vara funktionell för både små och större arrangemang.
 
 Att kunna användas av såväl föreningar och skolor som kommunen själv.
 
-Torbjörn Andersson (SD)-Ledamot kultur & fri<d
+Torbjörn Andersson (SD)-Ledamot kultur & fri\<d
 
-Mats Dahl (SD)-Ledamot kultur & fri<d
-Stefan Jägnert (SD)-ErsäCare kultur & fri<d
+Mats Dahl (SD)-Ledamot kultur & fri\<d
+Stefan Jägnert (SD)-ErsäCare kultur & fri\<d
 
 <!-- sida 1082 -->
 
@@ -49144,7 +49144,7 @@ känna stort ansvar för att bidra med mer ändamålsenliga lokaler.
 
 Vi yrkar därför
 
--  att förvaltningen påskyndar processen att erbjuda föreningen
+\-  att förvaltningen påskyndar processen att erbjuda föreningen
 
 mer ändamålsenliga lokaler.
 

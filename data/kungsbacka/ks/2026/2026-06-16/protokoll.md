@@ -1363,7 +1363,7 @@ Sammanfattning av ärendet
 Västra Götalandsregionen (VGR) har beslutat att revidera Målbild tåg 2035,
 inklusive Västtågsutredningen. Framtagandet av det nya strategiska
 dokumentet, Storkoll 2050, beräknas pågå till och med 2027 med antagande våren
-2028.
+2028\.
 
 För Kungsbacka och pendelstråket mot Göteborg är kapacitet, robusthet och fortsatt
 god tillgänglighet för arbets- och studiependling särskilt viktiga frågor. Behov av
@@ -1780,7 +1780,7 @@ under mandatperioden 2026–2030.
 
 Kommunfullmäktige fastställer att partistödets storlek för år 2027 baseras på det
 antal mandat respektive parti besitter i kommunfullmäktige efter de allmänna valen
-2026. Partistödet betalas ut i januari 2027.
+2026\. Partistödet betalas ut i januari 2027.
 
 Sammanfattning av ärendet
 

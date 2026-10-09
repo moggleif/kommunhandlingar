@@ -164,14 +164,14 @@ Nämnden för Teknik godkänner ärendelistan med förändring.
 Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
--  Initiativärende angående Medel för att främja en trygg uppväxt - Liberalerna,
+\-  Initiativärende angående Medel för att främja en trygg uppväxt - Liberalerna,
 
 Moderaterna, Centerpartiet och Kristdemokraterna
 Ärendet lyfts efter paragraf § 20 i dagordningen: § 20 Motion - Anläggande av
 hundrastgård i Kolla Parkstad, KS-2025-00630.
 
 Ordföranden (L) anmäler en förändring i dagordningen:
--  ”Tekniks arbete med kemikaliehantering och dess resultat” (paragraf § 16),
+\-  ”Tekniks arbete med kemikaliehantering och dess resultat” (paragraf § 16),
 behandlas före ”Initiativärende angående tillstånd för uppsättning av
 valaffischer på lyktstolpar längs vägar – permanent rutin från och med valåret
 
@@ -444,12 +444,12 @@ statligt huvudmannaskap (där hänsyn även måste tas till de nationella riktli
 affischering längs med statliga vägar).
 
 Förvaltningen har fått i uppdrag att ta fram riktlinjer för:
-- vilka platser och typer av stolpar som omfattas,
+\- vilka platser och typer av stolpar som omfattas,
 
-- tidsperiod för uppsättning och nedtagning,
+\- tidsperiod för uppsättning och nedtagning,
 
-- ansvar för säkerhet, skötsel och borttagning.
-- avgifter för när riktlinjerna inte efterföljs.
+\- ansvar för säkerhet, skötsel och borttagning.
+\- avgifter för när riktlinjerna inte efterföljs.
 
 Beslutsunderlag
 
@@ -854,23 +854,23 @@ Sammanfattning av ärendet
 Under perioden 15 januari – 11 februari inkom följande skrivelser till nämnden för
 Teknik:
 
--  Medborgardialog om Gåsevadholmsvägen
--  Medborgardialog om Gåsevadholmsvägen
+\-  Medborgardialog om Gåsevadholmsvägen
+\-  Medborgardialog om Gåsevadholmsvägen
 
--  Medborgardialog om Gåsevadholmsvägen
--  Medborgardialog om Gåsevadholmsvägen
+\-  Medborgardialog om Gåsevadholmsvägen
+\-  Medborgardialog om Gåsevadholmsvägen
 
--  Medborgardialog om Gåsevadholmsvägen
--  Medborgardialog om Gåsevadholmsvägen
+\-  Medborgardialog om Gåsevadholmsvägen
+\-  Medborgardialog om Gåsevadholmsvägen
 
--  Medborgardialog: Dagvatten/Översvämningsproblematiken i Åsa
--  Protest mot dagvattenutsläpp i Örsviken
+\-  Medborgardialog: Dagvatten/Översvämningsproblematiken i Åsa
+\-  Protest mot dagvattenutsläpp i Örsviken
 
--  Kommentar till kommunens förslag att anlägga ny dagvattenledning till
+\-  Kommentar till kommunens förslag att anlägga ny dagvattenledning till
 Örsviken
 
--  Dagvatten - Örsviken, 2026-01-15
--  Skrivelse gällande förändrade förhållande på Örsviksvägen
+\-  Dagvatten - Örsviken, 2026-01-15
+\-  Skrivelse gällande förändrade förhållande på Örsviksvägen
 
 Beslutsgång
 

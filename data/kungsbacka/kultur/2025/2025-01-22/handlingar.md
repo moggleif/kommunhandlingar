@@ -299,10 +299,10 @@ bestånd/medier för de som väntar och längtar men inte kan ta sig till biblio
 biblioteket relevant för alla. Med bussen kan biblioteket nå prioriterade grupper samt
 3
 2   möjligheten att öka utbud och tillgänglighet till biblioteksverksamhet i Kungsbacka kommun
--
+\-
 5
 0   genom att kunna erbjuda biblioteksservice på mer flexibla sätt för att nå fler invånare vilket har
--
+\-
 2
 1   betydelse för demokratin. För att alla ska få tillgång till bibliotek krävs flexibla lösningar och för
 0
@@ -327,7 +327,7 @@ Kungsbacka kommun
 BESKRIV KONSEKVENSERNA
 2 (2)
 Varje steg ska utredas och eventuellt förkastas.
-1. Inga åtgärder. Om inget byte av fordon sker så försämras biblioteksservicen
+1\. Inga åtgärder. Om inget byte av fordon sker så försämras biblioteksservicen
 Kungsbackas invånare, främst utsatta grupper som beskrivits tidigare i
 behovsbeskrivningen.
 
@@ -455,7 +455,7 @@ utveckling.
 
 BESKRIV KONSEKVENSERNA
 
-1. Inga åtgärder
+1\. Inga åtgärder
 Mindre offentlig konst i kommunens utomhusmiljö.
 
 Kungsbacka kommuns Vision 2030 betonar mångfald, livskvalitet, och samverkan mellan kultur och
@@ -472,7 +472,7 @@ kulturella landmärken som stödjer visionens målsättningar.
 inslag som stödjer social hållbarhet. Ett konstverk kan bidra till att skapa en plats för interaktion
 och reflektion, vilket i sin tur stärker det lokala samhället och dess trivsel
 
-2. Behovet åtgärdat
+2\. Behovet åtgärdat
 
 Om konstnärlig gestaltning genomförs måste praktiska frågor som budget, tillgänglighet, och drift av
 platsen också beaktas. Det finns därför behov av en tydlig ansvarsfördelning, budgetering för löpande
@@ -594,7 +594,7 @@ KUNGSBACKA  KOMMUN
 
 BESKRIV KONSEKVENSERNA
 
-1. Inga åtgärder
+1\. Inga åtgärder
 Om ingen konstnärlig gestaltning genomförs riskerar området att sakna identitet och förlora möjligheten
 att skapa en sammanhållen och inbjudande miljö. Det skulle kunna leda till minskad attraktionskraft för
 såväl invånare som besökare och missa chansen att skapa en tydlig profil för arenan och dess
@@ -626,7 +626,7 @@ ska vara en inspirerande och nytänkande kommun
 Att inte inkludera konst kan innebära förlorade möjligheter att ytterligare stärka kommunens
 attraktionskraft och engagemang för att uppnå visionens mål.
 
-2. Behovet åtgärdat
+2\. Behovet åtgärdat
 
 Om konstnärlig gestaltning genomförs måste praktiska frågor som budget, tillgänglighet, och drift av
 platsen också beaktas. Det finns därför behov av en tydlig ansvarsfördelning, budgetering för löpande
@@ -877,40 +877,40 @@ bara en kostnad utan en investering i gemenskapens hälsa, kultur, ekonomi och f
 idrottsframgångar.                                                   2 (2)
 
 BESKRIV KONSEKVENSERNA
-1. Skola samt föreningsliv kan inte nyttja Tingbergsvallen på grund av att banorna är i så
+1\. Skola samt föreningsliv kan inte nyttja Tingbergsvallen på grund av att banorna är i så
 dåligt skick att det kan generera kroppsskador.
 
-2. Beläggningen är sliten och trasig och har släppt från underlaget på vissa ställen.
+2\. Beläggningen är sliten och trasig och har släppt från underlaget på vissa ställen.
 
-3. Det är sättningar på flera platser som gör att det bildas vattensamlingar.
-4. Radien på kurvorna följer inte standard. De är för tvära och när man bygger om bör
+3\. Det är sättningar på flera platser som gör att det bildas vattensamlingar.
+4\. Radien på kurvorna följer inte standard. De är för tvära och när man bygger om bör
 man undersöka om det går att åtgärda.
 
-5. Längdhoppsgroparna är för smala vilket gör att det kan vara farligt att hoppa i dem
+5\. Längdhoppsgroparna är för smala vilket gör att det kan vara farligt att hoppa i dem
 och längdhoppet blir då inte säkert.
 
-6. Ansatsbanan för längdhopp är sliten och trasig och flera av plankorna är inte i nivå
+6\. Ansatsbanan för längdhopp är sliten och trasig och flera av plankorna är inte i nivå
 med beläggningen, vilket är en skaderisk.
 
-7. Fotbollsplanen uppfyller inte sina mått, fattas tre meter.
-8. Kastburen är svår att hantera och har ett tungt nät som inte är anpassat för buren. Detta
+7\. Fotbollsplanen uppfyller inte sina mått, fattas tre meter.
+8\. Kastburen är svår att hantera och har ett tungt nät som inte är anpassat för buren. Detta
 
 innebär att det kan vara riskabelt att kasta. Dessutom är det tveksamt om stolparna är
 rätt placerade i förhållande till kastsektorn.
 
-9. Vattengraven läcker och beläggningen där är trasig.
-10. Det saknas belysning som gör att man kan förlänga säsongen.
+9\. Vattengraven läcker och beläggningen där är trasig.
+10\. Det saknas belysning som gör att man kan förlänga säsongen.
 
-11. Stavhoppsmattan är i minsta laget för att vara säker.
+11\. Stavhoppsmattan är i minsta laget för att vara säker.
 
-12. Fungerande dränering saknas i kastringarna.
-13. För kort kastsektor för kulstötning.
+12\. Fungerande dränering saknas i kastringarna.
+13\. För kort kastsektor för kulstötning.
 
-14. Asfaltsområden har nått sin livslängd, vilket resulterat i sprickor, deformationer som
+14\. Asfaltsområden har nått sin livslängd, vilket resulterat i sprickor, deformationer som
 kräver underhåll eller byte.
 
 SAMORDNINGSBEHOV
-15. MEX, teknik, fastighet, samhällsbyggnadskontoret, skola
+15\. MEX, teknik, fastighet, samhällsbyggnadskontoret, skola
 
 INVESTERINGSSVOLYM
 Krävs en förstudie för att se över hela anläggningen, Tingbergsvallen. Bedömningen i
@@ -984,13 +984,13 @@ KUNGSBACKA  KOMMUN
 
 BESKRIV KONSEKVENSERNA
 2 (2)
-1. Inga åtgärder
+1\. Inga åtgärder
 Våra besökare och gästspelande artister får en negativ upplevelse av leveransen vilket inte ger en
 bra erfarenhet från Kungsbacka, vilket kan påverka framtida intäkter för uthyrning till arrangörer.
 Ökade kostnader när den befintliga ljudanläggningen (PA) går sönder. Risken för detta ökar för
 varje år.
 
-2. Ny investering
+2\. Ny investering
 
 Ingen ökad löpande driftskostnad efter att inköp och installation är genomförd.
 Vi bidrar till att uppfylla målen om att leverera föreställningar av högsta kvalitet.

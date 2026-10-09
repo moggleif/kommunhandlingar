@@ -219,9 +219,9 @@ Innehållsförteckning
 3 Checklista för årlig uppföljning ...................................................................................... 5
 3.1. Fackliga synpunkter från förvaltningens lokala samverkansgrupper ........................................................ 9
 
-4. Tillbud, olyckor och ohälsa ........................................................................................... 11
+4\. Tillbud, olyckor och ohälsa ........................................................................................... 11
 
-5. Sammanfattande bedömning samt fortsatta utvecklingsområden ............................ 15
+5\. Sammanfattande bedömning samt fortsatta utvecklingsområden ............................ 15
 
 2
 
@@ -297,7 +297,7 @@ händelser eller i det kontinuerliga arbetet.
 En ökning av allvarliga tillbud
 Färre incidenter har rapporterats under 2025 (220) jämfört med 2024 (259). Dock har fler
 tillbud karaktäriserats som allvarliga under 2025 (fem stycken jämfört med två stycken
-2024) och således anmälts till Arbetsmiljöverket. Fyra av fem allvarliga tillbud handlade om
+2024\) och således anmälts till Arbetsmiljöverket. Fyra av fem allvarliga tillbud handlade om
 hot mot skola samt enskilda personer på skolan.
 
 En allvarlig incident inträffade på Aranäsgymnasiet enhet 1 – anpassad gymnasieskola.
@@ -514,7 +514,7 @@ verksamhet.
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2025
 
-4. Tillbud, olyckor   och  ohälsa
+4\. Tillbud, olyckor   och  ohälsa
 
 Ett tillbud är en oönskad händelse som inte ledde till, men skulle ha kunnat leda till ohälsa
 eller olycksfall. Tillbud och olycksfall eller ohälsa är viktiga signaler för arbetsgivaren om
@@ -605,7 +605,7 @@ med ventilation/inomhusklimat samt att obehöriga personer befunnit sig inne på
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2025
 
-5. Sammanfattande      bedömning     samt   fortsatta
+5\. Sammanfattande      bedömning     samt   fortsatta
 utvecklingsområden
 
 Medarbetares och skyddsombuds delaktighet i arbetsmiljöarbetet
@@ -674,19 +674,19 @@ arbetssätt för fördelning av arbetsmiljöuppgifter.
 På en övergripande nivå kommer fokus för utvecklingen av det systematiska
 arbetsmiljöarbetet det närmaste året vara följande områden:
 
-1. Fortsätta arbetet med de forskningsbaserade friskfaktorerna som ingår i årshjulet
+1\. Fortsätta arbetet med de forskningsbaserade friskfaktorerna som ingår i årshjulet
 och stödmaterial för SAM
 
-2. Fortsätta arbetet med att säkerställa att varje chef och
+2\. Fortsätta arbetet med att säkerställa att varje chef och
 rektor kontinuerligt undersöker och riskbedömer arbetsmiljön med fokus
 på risker för våld eller hot samt uppdatera åtgärder/rutiner utifrån aktuella risker
 
-3. Utveckla förvaltningens stödmaterial för SAM kopplat till den organisatoriska och
+3\. Utveckla förvaltningens stödmaterial för SAM kopplat till den organisatoriska och
 sociala arbetsmiljön
-4. Säkerställa att riskbedömningar genomförs innan förändring i verksamhet samt att
+4\. Säkerställa att riskbedömningar genomförs innan förändring i verksamhet samt att
 de också följs upp, vilket är en viktig del inom det systematiska arbetsmiljöarbetet.
 
-5. Säkerställa att kunskap finns om hur man rapporterar tillbud och olycksfall i det
+5\. Säkerställa att kunskap finns om hur man rapporterar tillbud och olycksfall i det
 digitala stödsystemet för det systematiska arbetsmiljöarbetet (KIA) samt säkerställa
 att de händelser som rapporteras utreds, åtgärdas och följs upp inom en rimlig
 
@@ -998,7 +998,7 @@ Förslag till beslut
 
 Nämnden för Gymnasium & Arbetsmarknad beslutar att förlänga och utöka befintligt idéburet
 offentligt partnerskap med Skyddsvärnet i Göteborg från och med 2026-07-31 till och med 2027-07
-31. Utökningen avser en ytterligare plats och finansieras inom befintlig budget.
+31\. Utökningen avser en ytterligare plats och finansieras inom befintlig budget.
 
 Sammanfattning av ärendet
 Idéburet Offentligt Partnerskap, IOP, är en avtalsform mellan en eller flera organisationer inom social
@@ -1253,7 +1253,7 @@ Förslag till beslut
 Nämnden för Gymnasium & Arbetsmarknad beslutar att förlänga och utöka befintligt idéburet
 
 offentligt partnerskap med Erikshjälpen Second Hand från och med 2026-07-01 till och med 2027-07-
-01. Utökningen avser två ytterligare platser och finansieras inom befintlig budget.
+01\. Utökningen avser två ytterligare platser och finansieras inom befintlig budget.
 
 Sammanfattning av ärendet
 
@@ -3744,8 +3744,8 @@ t
 0
 o
 s u ö
--
--
+\-
+\-
 r
 n
 8
@@ -3965,7 +3965,7 @@ Bildspel delges samverkansgruppen via det digitala samarbetsrummet.
 §8 Återkoppling från föregående möte
 HR- och kommunikationschef återkopplar i två frågor från föregående samverkansmöte:
 
-1.    Återkoppling dialog om sjukfrånvaro
+1\.    Återkoppling dialog om sjukfrånvaro
 Vid föregående möte förde gruppen en dialog om den positiva utvecklingen av
 sjukfrånvaron inom Kompetenscentrum. HR-chef har, tillsammans med verksamhetschef
 
@@ -3984,7 +3984,7 @@ genomförts de senaste åren – åtminstone inte av den karaktären som införa
 
 arbetsmarknadsprocessen innebar.
 
-2.     Återkoppling dialog om pulsmätningsresultat (fördjupning)
+2\.     Återkoppling dialog om pulsmätningsresultat (fördjupning)
 
 HR- och kommunikationschef redogör för en fördjupad analys inom området
 Meningsfullhet i Winningtemp. Resultatet för samtliga delfrågor inom området har följts
@@ -4022,7 +4022,7 @@ Antagen 23 mars 2026
 
 Revisionsplan 2026
 
-1. Uppdrag
+1\. Uppdrag
 
 Revisionens uppdrag är att granska all verksamhet i kommunen. Det innebär att revisorerna prövar
 om verksamheten sköts på ett ändamålsenligt, från ekonomisk synpunkt tillfredställande sätt och
@@ -4046,7 +4046,7 @@ genom de lekmannarevisorer som utsetts.
 Revisorerna ska dessutom bedöma om resultaten i delårsrapporten och årsbokslutet är förenliga med
 de mål fullmäktige beslutat om i budgeten och planen för ekonomin under perioden.
 
-2. Risk- och väsentlighetsanalys
+2\. Risk- och väsentlighetsanalys
 
 Förslag till revisionsplan baseras på genomförd risk- och väsentlighetsanalys. Analysen av risk och
 väsentlighet utgår från revisionens syfte. Analysen startar med att fastställa väsentliga
@@ -4080,7 +4080,7 @@ verksamhet 2022” utgiven av Sveriges Kommuner och Regioner (SKR).
 Planering och granskning av räkenskaperna av nämnder och styrelse genomförs av sakkunnigt
 biträde enligt kommunal standard för granskning av räkenskaper
 
-3. Grundläggande granskning 2026
+3\. Grundläggande granskning 2026
 
 Kommunrevisionens uppgift är att ge kommunfullmäktige underlag till den årliga ansvars-
 prövningen. Enligt kommunallagen 12 kap. 1 § ska revisorerna årligen granska all verksamhet som
@@ -4171,7 +4171,7 @@ samverkansnämnder inom vård- och omsorgsområdet. Patientnämnden och Gemensam
 
 hemsjukvård och hjälpmedel. Revisionen genomförs på uppdrag av Region Halland.
 
-4. Fördjupade granskningar och förstudier
+4\. Fördjupade granskningar och förstudier
 
 Fördjupade granskningar
 
@@ -4210,7 +4210,7 @@ kommunfullmäktige i september.
 Ytterligare förstudier kan tillkomma. Revisionsplanen uppdateras med dessa när revisionen fattat
 beslut om det.
 
-5. Granskning av delårsrapport och årsredovisning
+5\. Granskning av delårsrapport och årsredovisning
 Granskning av delårsrapport och årsredovisning består av flera olika delar; Granskning av
 
 räkenskaperna, granskning och bedömning av god ekonomisk hushållning samt granskning av
@@ -4224,13 +4224,13 @@ upprättade i enlighet med lag om kommunal bokföring och redovisning (LKBR) och
 redovisningssed. Rådet för kommunal redovisning (RKR) är normbildande för god redovisningssed.
 Granskningen görs enligt Standard för kommunal räkenskapsrevision och omfattar granskning av:
 
--  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
--  driftredovisning och investeringsredovisning samt noter
+\-  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
+\-  driftredovisning och investeringsredovisning samt noter
 
--  sammanställda räkenskaper
+\-  sammanställda räkenskaper
 
--  förvaltningsberättelse
--  delårsrapport
+\-  förvaltningsberättelse
+\-  delårsrapport
 
 Inom ramen för granskningen av räkenskaperna ingår att skaffa sig en förståelse för kommunens
 
@@ -4253,7 +4253,7 @@ Balanskravet innebär att budgeten ska upprättas så att intäkterna överstige
 resultat ska vara positivt. Granskningen av balanskravsresultatet genomförs inom ramen för
 granskning av delårsrapport och årsredovisningen.
 
-6. Granskning av kommunens bolag och stiftelse
+6\. Granskning av kommunens bolag och stiftelse
 Lekmannarevisionen av kommunens bolag omfattar en grundläggande granskning av bolagen.
 Utgångspunkt för granskningen är det kommunala ändamålet, bolagsordning, ägardirektiv och
 
@@ -4324,7 +4324,7 @@ Ny e-postadress
 
 Ny postadress
 
-*45236X26302951DK*
+\*45236X26302951DK\*
 Delg nr 45236X26302951DK
 
 Besöksadress   Postadress      Telefon      Fax         Öppettider
@@ -4409,7 +4409,7 @@ Upplysningar  stämning i tvistemål (dispositivt)
 Här följer förklaring av några vanliga begrepp i tviste- Bevisning
 mål, samt en del annan information som är bra att För att bevisa att det som du har beskrivit stämmer kan
 känna till i det här skedet av målet. du skicka in exempelvis skriftliga handlingar eller foton.
-_________________________________________ Du kan också begära att någon ska höras som vittne.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Du kan också begära att någon ska höras som vittne.
 
 Tänk på att alltid förklara vad du vill visa med varje
 Bekräfta att du tagit emot stämningen
@@ -4512,7 +4512,7 @@ Saken           Fordran
 
 Forum           10 kap.1 och 14 andra stycket §§ rättegångsbalken
 
-__________________________________________________________________________________________
+\__________________________________________________________________________________________
 
 Rågmark & Partners Advokatbyrå KB │ Hornsgatan 24, 118 20 Stockholm │ ragmark.se
 
@@ -4553,11 +4553,11 @@ anledning av Kungsbacka kommuns (”Kungsbacka”) stämningsansökan.
 
 A      Yrkande och inställning
 
-1.     Gotit yrkar att Kungsbackas fastställelseyrkanden avvisas.
+1\.     Gotit yrkar att Kungsbackas fastställelseyrkanden avvisas.
 
-2.     Gotit bestrider Kungsbackas yrkanden.
+2\.     Gotit bestrider Kungsbackas yrkanden.
 
-3.     Gotit yrkar att Kungsbacka till Gotit betalar:
+3\.     Gotit yrkar att Kungsbacka till Gotit betalar:
 
 a.  745 329 kr, varav 149 066 kr avser moms, jämte upplupen ränta enligt 6 §
 räntelagen per den 28 april 2026 om 132 788 kr samt därefter ränta enligt
@@ -4570,30 +4570,30 @@ c.  6 713 929 kr till Gotit jämte ränta enligt 6 § räntelagen från dagen f�
 delgivning av stämning till dess full betalning erlagts (se avsnitt C.3
 nedan).
 
-4.     Gotit yrkar ersättning för bolagets rättegångskostnader med ett belopp som
+4\.     Gotit yrkar ersättning för bolagets rättegångskostnader med ett belopp som
 kommer att anges senare.
 
 B      Grunder huvudkäromålet
 
 B.1    Inledning
-5.     I stämningsansökan återfinns vad som får antas vara Kungsbackas grunder under
+5\.     I stämningsansökan återfinns vad som får antas vara Kungsbackas grunder under
 rubriken ”C. Sammanfattning av kommunens grunder” på sid. 8–18.
 
-6.     Gotit noterar att Kungsbacka har valt att rubricera sina grunder som en
+6\.     Gotit noterar att Kungsbacka har valt att rubricera sina grunder som en
 "Sammanfattning”. Det är oklart om Kungsbacka menar sig ha åberopat
 ytterligare grunder utöver vad som anförts under den rubriken, och i så fall var i
 stämningsansökan dessa finns.
 
-7.     Gotit kan inte uppfatta det på något annat sätt än att Kungsbackas åberopade
+7\.     Gotit kan inte uppfatta det på något annat sätt än att Kungsbackas åberopade
 grunder för käromålet återfinns under avsnitt ”C. Sammanfattning av
 kommunens grunder”.
 
-8.     Det är vidare så att trots att Kungsbackas åberopade grunder omfattar tio sidor
+8\.     Det är vidare så att trots att Kungsbackas åberopade grunder omfattar tio sidor
 text så är grunderna i stora delar helt okonkretiserade – i centrala delar
 åberopas helt enkelt inga konkreta rättsfakta. I nuvarande skick går grunderna
 endast i viss mån att bemöta och kan inte läggas till grund för en prövning av
 Kungsbackas talan.
-9.     Gotit utgår från att tingsrätten genom processledning kan erhålla fullständiga
+9\.     Gotit utgår från att tingsrätten genom processledning kan erhålla fullständiga
 
 grunder från Kungsbacka. Skulle detta misslyckas är Kungsbackas talan i
 
@@ -4605,36 +4605,36 @@ nuvarande skick så undermåligt utformad att den inte kan ligga till grund för
 någon prövning och därför bör avvisas.
 
 B.2    Avtal
-10.    I avsnitt C.1 stämningsansökan anger Kungsbacka att parterna den 12 februari
+10\.    I avsnitt C.1 stämningsansökan anger Kungsbacka att parterna den 12 februari
 
 2021 träffade ett avtal rörande ett skoladministrativt IT-system. Detta avtal har
 inte Kungsbacka gett in i målet utan Kungsbacka har i stället gett in ett antal
 justerade ej undertecknade handlingar med annat innehåll än det avtal som
 undertecknades den 12 februari 2021. Det undertecknade avtalet ges därför in
 av Gotit, se bilaga S41.
-11.    När Kungsbacka sedan i stämningsansökan listar vilka avtalshandlingar som gällt
+11\.    När Kungsbacka sedan i stämningsansökan listar vilka avtalshandlingar som gällt
 mellan parterna anges en rad olika handlingar som alltså avviker från det
 ursprungliga avtal som träffades den 12 februari 2021. Kungsbacka redogör dock
 inte (med undantag för förlikningsavtalet och möjligen för införandeplanen) var,
 
 när och hur Kungsbacka menar att ändringar av parternas avtal har gjorts.
-12.    Gotit delar i och för sig Kungsbackas uppfattning om att parternas avtal har
+12\.    Gotit delar i och för sig Kungsbackas uppfattning om att parternas avtal har
 ändrats vid flera tillfällen. Parterna har dock inte varit överens om vilka
 ändringar som gjorts m.m. Det måste ankomma på Kungsbacka som kärande att
 först redogöra för hur kommunen menar att parternas avtalssituation ser ut
 innefattande när, var och hur Kungsbacka menar att den kommit att förändras
 samt hur parternas slutliga avtal ser ut.
 
-13.    I nuvarande skick går inte Kungsbackas talan att bifalla redan av det skälet att
+13\.    I nuvarande skick går inte Kungsbackas talan att bifalla redan av det skälet att
 det avtal som parterna träffade den 12 februari 2021 inte har den utformning
 som Kungsbacka gör gällande.
 
-14.    Det förlikningsavtal parterna träffade den 20 november 2023 innebar en slutlig
+14\.    Det förlikningsavtal parterna träffade den 20 november 2023 innebar en slutlig
 reglering där ingen part hade några kvarstående anspråk mot den andra
 avseende den då aktuella tvisten eller förvaltningsåtagandet (se p. 5.1 samt 5.2
 förlikningsavtalet, ab 12).
 
-15.    Trots detta grundar Kungsbacka, i strid med förlikningsavtalet, sin talan i målet
+15\.    Trots detta grundar Kungsbacka, i strid med förlikningsavtalet, sin talan i målet
 för ett flertal krav på händelser som inträffat före den 20 november 2023, dvs.
 sådana händelser som reglerades av parternas överenskommelse. Även detta
 utgör skäl för att ogilla Kungsbackas talan utan någon mer ingående prövning.
@@ -4642,7 +4642,7 @@ utgör skäl för att ogilla Kungsbackas talan utan någon mer ingående prövni
 B.3    Påstående om avtalsbrott
 B.3.1  Påstående om förseningar och fel i leverans
 
-16.    Vad Kungsbacka faktiskt gör gällande under rubriken ”C.2.1 Förseningar och fel i
+16\.    Vad Kungsbacka faktiskt gör gällande under rubriken ”C.2.1 Förseningar och fel i
 leverans” är svårtillgängligt.
 
 1 Bilaga S4 består av två filer – bilaga S4.1 som är huvudavtalet och bilaga C1–C5 till detta samt
@@ -4652,11 +4652,11 @@ Sida 4 av 101
 
 <!-- sida 111 -->
 
-17.    Kungsbacka har inte – som påstås – bara ”förlikningsvis” godkänt
+17\.    Kungsbacka har inte – som påstås – bara ”förlikningsvis” godkänt
 gymnasieetappen. Kungsbacka godkände gymnasieetappen den 29 augusti 2023
 (för sent men det torde sakna relevans för tvisten).
 
-18.    Flera månader senare träffade parterna den 20 november 2023 en förlikning
+18\.    Flera månader senare träffade parterna den 20 november 2023 en förlikning
 (inte 7 november 2023 som Kungsbacka gör gällande). Förlikningen har inte varit
 villkorad på det sätt som Kungsbacka gör gällande. Även i övrigt är Kungsbackas
 beskrivning av innehållet i förlikningen felaktig. Detta kommer Gotit att
@@ -4664,38 +4664,38 @@ beskrivning av innehållet i förlikningen felaktig. Detta kommer Gotit att
 
 B.3.1.1 Påstått avtalsbrott genom väsentligt försenad leverans av funktioner på
 restlistan
-19.    I avsnitt C.2.1.1 i stämningsansökan gör Kungsbacka gällande att Gotit begått
+19\.    I avsnitt C.2.1.1 i stämningsansökan gör Kungsbacka gällande att Gotit begått
 avtalsbrott genom väsentligen försenad leverans av funktionerna på restlistan.
 
-20.    Som redan konstaterats träffade parterna förlikningsavtalet (ab 12) den
+20\.    Som redan konstaterats träffade parterna förlikningsavtalet (ab 12) den
 20 november 2023, då Kungsbacka undertecknade förlikningen. Förlikningen
 träffades alltså inte den 7 november 2023 som Kungsbacka påstår i målet.
 
-21.    Kungsbackas påstående om att funktioner på restlistan hade utgjort hinder för
+21\.    Kungsbackas påstående om att funktioner på restlistan hade utgjort hinder för
 acceptans av leverans bestrids. Vid tidpunkten för förlikningen hade Kungsbacka
 tagit systemet i drift och använt det sedan den 2 december 2022, dvs. i närmare
 ett helt år.
 
-22.    Kungsbackas påstående om att själva åtgärden att föra en restlista – på vilken
+22\.    Kungsbackas påstående om att själva åtgärden att föra en restlista – på vilken
 funktioner kunde föras upp – utgjorde en förlikningsvis eftergift från Kungs-
 backas sida är inte korrekt och kan föranleda missförstånd.
 
-23.    Restlistan var en pragmatisk lösning som innebar att Gotit accepterade – utan
+23\.    Restlistan var en pragmatisk lösning som innebar att Gotit accepterade – utan
 att medge brist – att vidareutveckla och justera vissa funktioner i syfte att möta
 Kungsbackas ändrade önskemål och därmed nå en förlikning. Restlistan utgjorde
 alltså en ömsesidig kompromiss inom ramen för förlikningsdiskussionerna.
-24.    Kungsbackas påstående om att Gotit, vid tidpunkten för Kungsbackas ogrundade
+24\.    Kungsbackas påstående om att Gotit, vid tidpunkten för Kungsbackas ogrundade
 hävning den 12 november 2024, var försenad med leverans av 25 (av totalt 39)
 åtgärder enligt restlistan bestrids. Dessa 25 åtgärder hade levererats. Detta
 utvecklas mer utförligt i avsnitt G.1 nedan.
 
 B.3.1.2 Påstående om brister i leveransen den 18 september 2024 och dröjsmål
 
-25.    I avsnitt C.2.1.2 (p. 48–54) i stämningsansökan gör Kungsbacka gällande att Gotit
+25\.    I avsnitt C.2.1.2 (p. 48–54) i stämningsansökan gör Kungsbacka gällande att Gotit
 begått avtalsbrott genom brister i leveransen den 18 september 2024 och
 genom dröjsmål. Vad Kungsbacka gör gällande bestrids i dess helhet.
 
-26.    Gotit har i delar svårt att förstå vad Kungsbacka gör gällande. Som framgår
+26\.    Gotit har i delar svårt att förstå vad Kungsbacka gör gällande. Som framgår
 nedan har inte Kungsbacka underkänt leveransen av systemet enligt avtalets
 villkor. Såsom Kungsbackas talan förefaller vara konstruerad (utanför den i
 avtalet angivna strukturen med acceptans eller underkännande av leveransen)
@@ -4705,35 +4705,35 @@ Sida 5 av 101
 
 <!-- sida 112 -->
 
-27.    Avtalad leveransdag för etapp 2 var enligt p. 3.2 förlikningsavtalet den
+27\.    Avtalad leveransdag för etapp 2 var enligt p. 3.2 förlikningsavtalet den
 11 november 2024.
 
-28.    Enligt avtalet skulle Gotit bereda Kungsbacka tillgång till systemet i produktions-
+28\.    Enligt avtalet skulle Gotit bereda Kungsbacka tillgång till systemet i produktions-
 miljö och överlämna testprotokoll från egenkontrollen
 30 arbetsdagar innan avtalad leveransdag (p. 8.1–8.3 Bilaga C5 Allmänna
 bestämmelser till avtalet), dvs. den 30 september 2024.
 
-29.    Redan den 18 september 2024 beredde Gotit Kungsbacka tillgång till systemet i
+29\.    Redan den 18 september 2024 beredde Gotit Kungsbacka tillgång till systemet i
 produktionsmiljö och överlämnade testprotokoll från egenkontrollen, dvs. mer
 än 30 arbetsdagar före avtalad leveransdag, som var den 11 november 2024.
 Gotit var därmed inte i dröjsmål.
-30.    Gotits testprotokoll har varit avtalsenliga. Vad Kungsbacka gör gällande rörande
+30\.    Gotits testprotokoll har varit avtalsenliga. Vad Kungsbacka gör gällande rörande
 dessa bestrids.
 
-31.    Kungsbackas påstående i p. 51 stämningsansökan att 162 krav skulle saknas och
+31\.    Kungsbackas påstående i p. 51 stämningsansökan att 162 krav skulle saknas och
 att endast 27 procent av kraven implementerats korrekt bestrids bestämt. Som
 framgår nedan är påståendena helt grundlösa.
 
-32.    Det framstår som oklart om Kungsbacka över huvud taget självt gör gällande att
+32\.    Det framstår som oklart om Kungsbacka över huvud taget självt gör gällande att
 kommunen har genomfört en acceptanskontroll på det sätt som följer av det
 ursprungliga avtalet.
 
-33.    Under alla förhållanden har acceptanskontrollen dock genomförts i strid med
+33\.    Under alla förhållanden har acceptanskontrollen dock genomförts i strid med
 avtalet i tre centrala avseenden. Den kan därför inte läggas till grund för ett
 underkännande av leveransen (kommunen har heller inte underkänt
 leveransen).
 
-34.    Bristerna i acceptanskontrollen kan sammanfattas enligt följande:
+34\.    Bristerna i acceptanskontrollen kan sammanfattas enligt följande:
 a) Kungsbacka har inte utfört acceptanskontrollen i produktionsmiljö utan i
 testmiljö, trots att det av bl.a. p. 8.9 i Bilaga C5 Allmänna bestämmelser
 uttryckligen framgår att kommunens acceptanskontroll ska ske i
@@ -4745,14 +4745,14 @@ mot egenhändigt konstruerade krav som saknar stöd i avtalet, och
 c) såvitt Gotit känner till, inte fört något protokoll över acceptanskontrollen på
 det sätt som avtalet föreskriver i p. 8.6 Bilaga C5.
 
-35.    Kungsbacka har heller aldrig underkänt Gotits leverans. Kungsbacka var enligt
+35\.    Kungsbacka har heller aldrig underkänt Gotits leverans. Kungsbacka var enligt
 avtalet skyldigt att senast den 31 oktober 2024 antingen godkänna eller
 underkänna leveransen. Kungsbacka gjorde varken det ena eller det andra.
 Kungsbacka har i stället agerat utanför avtalet och varit i dröjsmål med att
 godkänna leveransen (alternativt, vilket materiellt hade varit grundlöst och
 felaktigt, underkänna den).
 
-36.    Under alla omständigheter bestrids att de av Kungsbacka påstådda bristerna
+36\.    Under alla omständigheter bestrids att de av Kungsbacka påstådda bristerna
 skulle utgöra väsentligt avtalsbrott. Vad Kungsbacka i p. 54 stämningsansökan
 
 Sida 6 av 101
@@ -4766,37 +4766,37 @@ grund för hävning.
 B.3.1.3 Påstående om anteciperad ytterligare försening avseende förskola och
 grundskola
 
-37.    Vad Kungsbacka gör gällande om anteciperad försening under avsnitt ”C.2.1.3
+37\.    Vad Kungsbacka gör gällande om anteciperad försening under avsnitt ”C.2.1.3
 Anteciperad ytterligare försening avseende förskola och grundskola” bestrids i
 dess helhet.
-38.    Som framgår ovan var Gotit inte försenat med sin leverans av systemet
+38\.    Som framgår ovan var Gotit inte försenat med sin leverans av systemet
 avseende förskola och grundskola.
 
-39.    Det har så klart inte heller funnits någon anteciperad försening. Kungsbacka har
+39\.    Det har så klart inte heller funnits någon anteciperad försening. Kungsbacka har
 heller inte angett vad för relevans en sådan anteciperad försening skulle ha.
 
 B.3.1.4 Påstående om avtalsbrott genom brott mot införandeplanen för förskola och
 grundskola
 
-40.    Gotit bestrider det Kungsbacka gör gällande om att Gotit brutit mot
+40\.    Gotit bestrider det Kungsbacka gör gällande om att Gotit brutit mot
 införandeplanen i p. 61–64 stämningsansökan.
-41.    Kungsbacka har inte i tid reklamerat det Kungsbacka nu gör gällande.
+41\.    Kungsbacka har inte i tid reklamerat det Kungsbacka nu gör gällande.
 
-42.    Parterna träffade förlikningsavtalet den 20 november 2023. Enligt p. 3.2
+42\.    Parterna träffade förlikningsavtalet den 20 november 2023. Enligt p. 3.2
 förlikningsavtalet var det avtalade leveransdatumet för etapp 2
 (förskola/grundskola) den 11 november 2024.
 
-43.    Gotit bestrider att införandeplanen daterad den 13 september 2023 (dvs. före
+43\.    Gotit bestrider att införandeplanen daterad den 13 september 2023 (dvs. före
 förlikningen) trots den efterföljande förlikningen skulle innebära att
 leveransdatumet för etapp 2 (förskola/grundskola) kvarstod som den 15 februari
-2024.
+2024\.
 
-44.    Den införandeplan Kungsbacka hänvisar till (daterad den 13 september 2023)
+44\.    Den införandeplan Kungsbacka hänvisar till (daterad den 13 september 2023)
 var inte den gällande mellan parterna vid tidpunkten för hävningen.
-45.    Gotit bestrider att bolaget frångått gällande införandeplan (jfr. p. 62
+45\.    Gotit bestrider att bolaget frångått gällande införandeplan (jfr. p. 62
 
 stämningsansökan).
-46.    Gotit bestrider det Kungsbacka gör gällande i p. 64 stämningsansökan. Det
+46\.    Gotit bestrider det Kungsbacka gör gällande i p. 64 stämningsansökan. Det
 Kungsbacka gör gällande framgår inte av införandeplanen. Gotit har dessutom
 genomfört ekonomikörningarna inför leverans och gett kommunen möjlighet att
 godkänna inläsningen av data innan driftsättning.
@@ -4804,7 +4804,7 @@ godkänna inläsningen av data innan driftsättning.
 B.3.2  Påstående om väsentliga fel i driften och brister i upprätthållandet av avtalade
 processer och rutiner för förvaltningsåtagandet
 
-47.    Kungsbacka påstår i avsnitt C.2.2 stämningsansökan att det förelegat väsentliga
+47\.    Kungsbacka påstår i avsnitt C.2.2 stämningsansökan att det förelegat väsentliga
 fel i driften och brister i upprätthållandet av avtalade processer och rutiner för
 förvaltningsåtagandet.
 
@@ -4812,7 +4812,7 @@ Sida 7 av 101
 
 <!-- sida 114 -->
 
-48.    Gotit har vissa svårigheter att förstå vad Kungsbacka egentligen gör gällande
+48\.    Gotit har vissa svårigheter att förstå vad Kungsbacka egentligen gör gällande
 avseende påståendet att det finns ”väsentliga fel i driften och brister i
 upprätthållande av avtalade processer och rutiner för förvaltningsåtagandet”.
 Som Gotit uppfattar det rör det sig i grunden om fyra olika påståenden från
@@ -4827,33 +4827,33 @@ c.  Att Gotit inte registrerat eller redovisat systemets tillgänglighet.
 d.  Att Gotit inte gjort någon redovisning av avdrag på månadsavgiften för
 incidenter.
 
-49.    Kungsbackas påståenden är i stor utsträckning så okonkreta att de svårligen går
+49\.    Kungsbackas påståenden är i stor utsträckning så okonkreta att de svårligen går
 att bemöta. Det är vidare så att Kungsbacka inte preciserar när kommunen
 menar att de påstådda bristerna förelegat. Detta gör det ännu svårare att på ett
 detaljerat sätt bemöta vad kommunen gör gällande.
 
-50.    De påstådda bristerna/felen förefaller vidare vara för sent reklamerade, eller i
+50\.    De påstådda bristerna/felen förefaller vidare vara för sent reklamerade, eller i
 del måhända inte alls reklamerade. Ett flertal av de påstådda bristerna/felen
 förefaller vidare ligga i tiden före förlikningsavtalet den 20 november 2023,
 varför Kungsbacka under alla omständigheter inte kan göra dessa gällande. Gotit
 bestrider det Kungsbacka gör gällande i p. 65–68 stämningsansökan.
 B.3.3  Påstående om otillräckliga skyddsnivåer för lagrad information
 
-51.    Kungsbacka påstår i avsnitt C.2.3 stämningsansökan att Gotit inte upprätthållit
+51\.    Kungsbacka påstår i avsnitt C.2.3 stämningsansökan att Gotit inte upprätthållit
 adekvata skyddsnivåer för lagrad information. Påståendet är felaktigt och helt
 okonkretiserat varför det inte går att bemöta i detalj. Det Kungsbacka gör
 gällande bestrids.
 
 B.3.4  Påstående om otillåten dataöverföring
 
-52.    Vad kommunen gör gällande om otillåten dataöverföring i avsnitt C.2.4 i
+52\.    Vad kommunen gör gällande om otillåten dataöverföring i avsnitt C.2.4 i
 stämningsansökan bestrids och även det påståendet framstår som
 svårbegripligt. Det kan särskilt noteras att det av p. 8.1 och 8.9 Bilaga C5
 Allmänna Bestämmelser till avtalet direkt framgår att kommunens acceptans-
 kontroll ska genomföras i produktionsmiljö. Kungsbackas resonemang om
 testning i testmiljö måste därför utvecklas av kommunen.
 
-53.    Utöver de bristfälliga utformade grunderna för talan utvecklar Kungsbacka inte
+53\.    Utöver de bristfälliga utformade grunderna för talan utvecklar Kungsbacka inte
 alls sina påståenden under den del av stämningsansökan som rubricerats
 ”Utveckling av talan” (se avsnitt F.4 i stämningsansökan). I nuvarande skick kan
 det som kommunen gör gällande inte bemötas. Det Kungsbacka gör gällande
@@ -4865,51 +4865,51 @@ Sida 8 av 101
 
 B.3.5  Påstående om förtida nedstängning av systemet den 6 december 2024
 
-54.    Vad kommunen gör gällande om förtida nedstängning av systemet den
+54\.    Vad kommunen gör gällande om förtida nedstängning av systemet den
 6 december 2024 i avsnitt C.2.5 i stämningsansökan bestrids och är
 svårbegripligt.
 
-55.    Utöver de bristfälliga grunderna utvecklar Kungsbacka inte alls sina påståenden
+55\.    Utöver de bristfälliga grunderna utvecklar Kungsbacka inte alls sina påståenden
 (se avsnitt F.5 i stämningsansökan). I nuvarande skick är det som kommunen gör
 gällande sådant att det inte går att bemöta. Följande kan dock anföras.
-56.    Kommunen har inte beställt avvecklingsprojektet den 1 november 2024.
+56\.    Kommunen har inte beställt avvecklingsprojektet den 1 november 2024.
 
-57.    Kungsbacka hävde avtalet den 12 november 2024. Efter detta datum hade Gotit
+57\.    Kungsbacka hävde avtalet den 12 november 2024. Efter detta datum hade Gotit
 ingen skyldighet att tillhandahålla systemet till Kungsbacka. Gotit stängde därför
 av Kungsbackas användare från systemet den 6 december 2024.
 
-58.    För undvikande av missförstånd har Gotit tillhandahållit den i avtalet angivna
+58\.    För undvikande av missförstånd har Gotit tillhandahållit den i avtalet angivna
 avvecklings-, ersättnings- och/eller överflyttningsassistansen och tillhandahållit
 Kungsbacka data till kommunen den 12 december 2024 – allt i enlighet med
 avtalet och avvecklingsplanen.
 
 B.4    Påstående om att avtalsbrotten är väsentliga
-59.    Vad Kungsbacka gör gällande om att påstådda avtalsbrott är väsentliga bestrids.
+59\.    Vad Kungsbacka gör gällande om att påstådda avtalsbrott är väsentliga bestrids.
 
 B.5    Kommunens krav på ersättning
 
 B.5.1  Kommunens krav på återgång av erlagd ersättning
 
-60.    Vad avser Kungsbackas krav på återbetalning enligt p. 90 (i)–(iv)
+60\.    Vad avser Kungsbackas krav på återbetalning enligt p. 90 (i)–(iv)
 stämningsansökan kan inledningsvis konstateras att själva hävningen av avtalet
 inte är åberopad som rättsfaktum till grund för yrkandet. Gotit utgår från att
 Kungsbacka kommer åtgärda denna brist. Med denna reservation anförs
 följande till grund för bestridandet.
-61.    Kungsbacka har inte åberopat (den i och för sig ogrundade) hävningen som
+61\.    Kungsbacka har inte åberopat (den i och för sig ogrundade) hävningen som
 grund för sitt återbetalningsyrkande. I nuvarande skick fallerar talan redan av
 detta skäl.
 
-62.    Enligt punkten 36.2 i Bilaga C.5 Allmänna Bestämmelser till avtalet har part vid
+62\.    Enligt punkten 36.2 i Bilaga C.5 Allmänna Bestämmelser till avtalet har part vid
 hävning "rätt att kräva att det denne har presterat ska återbäras, under
 förutsättning att part återbär den prestation han fått från motparten" (egen
 kursivering).
 
-63.    Kungsbacka har inte återburit och kan inte återbära Gotits prestation —
+63\.    Kungsbacka har inte återburit och kan inte återbära Gotits prestation —
 kommunen hade vid den påstådda hävningen använt etapp 1 av systemet i
 nästan två år. Kungsbackas återbetalningskrav enligt p. 90 (i)–(iv) ska därför
 ogillas även av detta skäl.
 
-64.    Vad avser förvaltningsavgifterna enligt p. 90 (iv) stämningsansökan (235 257 kr
+64\.    Vad avser förvaltningsavgifterna enligt p. 90 (iv) stämningsansökan (235 257 kr
 för perioden 29 augusti–31 december 2023) gäller även ytterligare att Kungs-
 backa inte bara erlagt betalning utan också uttryckligen godkänt avgifterna vid
 
@@ -4921,48 +4921,48 @@ parternas månatliga förvaltningsmöten. Kungsbacka kan inte flera år senare
 återkräva belopp som kommunen uttryckligen godkänt och betalt. Yrkandet i
 denna del ska ogillas även på denna ytterligare grund.
 
-65.    Kungsbackas alternativa yrkande om prisavdrag i p. 93 i stämningsansökan är
+65\.    Kungsbackas alternativa yrkande om prisavdrag i p. 93 i stämningsansökan är
 inte tillräckligt utvecklat för att kunna bemötas i sak. Under alla omständigheter
 är yrkandet för sent reklamerat. Gotit förbehåller sig rätten att utveckla
 bestridandet sedan Kungsbacka preciserat grunden för sin talan i denna del.
 
 B.5.2  Kommunens krav på skadestånd
-66.    Kungsbacka har inte kopplat ihop kommunens olika påståenden om avtalsbrott
+66\.    Kungsbacka har inte kopplat ihop kommunens olika påståenden om avtalsbrott
 med de olika påstådda skadeposterna i p. 95 (a)–(f) stämningsansökan. Det är
 därmed inte möjligt att pröva vare sig kausalitet eller adekvans. Talan i denna
 del kan redan av detta skäl inte bifallas.
 
-67.    Gotit utgår från att Kungsbacka kommer åtgärda denna brist och förbehåller sig
+67\.    Gotit utgår från att Kungsbacka kommer åtgärda denna brist och förbehåller sig
 rätten att utveckla bestridandet sedan så skett. Med denna reservation anförs
 följande till grund för bestridandet.
 
-68.    Inget avtalsbrott föreligger (se B.4 ovan) och redan av detta skäl ska
+68\.    Inget avtalsbrott föreligger (se B.4 ovan) och redan av detta skäl ska
 skadeståndsyrkandet ogillas i sin helhet.
 
-69.    Under alla omständigheter saknas adekvat kausalitet mellan det Kungsbacka gör
+69\.    Under alla omständigheter saknas adekvat kausalitet mellan det Kungsbacka gör
 gällande och de påstådda skadeposterna.
-70.    Vad gäller skadeposten i p. 95 (a) stämningsansökan avser kravet till betydande
+70\.    Vad gäller skadeposten i p. 95 (a) stämningsansökan avser kravet till betydande
 del perioden före den 11 november 2024, dvs. före den i förlikningsavtalet
 
 överenskomna leveransdagen för etapp 2; sådana kostnader kan under inga
 förhållanden utgöra en ersättningsgill skada.
-71.    Vad gäller skadeposten i p. 95 (b) stämningsansökan understiger kostnaden för
+71\.    Vad gäller skadeposten i p. 95 (b) stämningsansökan understiger kostnaden för
 det nya systemet vad Kungsbacka skulle ha betalat till Gotit enligt parternas
 avtal; det föreligger därmed inte någon skada utan en besparing, vilken under
 alla omständigheter ska avräknas från övriga skadeposter (om någon sådan
 skulle vara ersättningsgill, vilket bestrids).
 
-72.    Skadeposterna i p. 95 (c)–(e) stämningsansökan (externa konsulter, interimschef
+72\.    Skadeposterna i p. 95 (c)–(e) stämningsansökan (externa konsulter, interimschef
 och elevadministration för gymnasiet) utgör sådan indirekt skada som inte
 ersätts enligt p. 37.2 Bilaga C5 Allmänna Bestämmelser till Avtalet.
 
-73.    Kungsbackas skadeståndskrav överstiger under alla omständigheter
+73\.    Kungsbackas skadeståndskrav överstiger under alla omständigheter
 ansvarsbegränsningen i p. 37.2 Bilaga C5 Allmänna Bestämmelser till Avtalet.
 Begränsningen uppgår för införandeprojektet till den i avtalet angivna
 totalkostnaden för detta projekt (1 160 000 kr) och för förvaltningsåtagandet till
 två årsavgifter (2 752 000 kr).
 
-74.    Vid tidpunkten för Kungsbackas hävning den 12 november 2024 hade Gotit rätt
+74\.    Vid tidpunkten för Kungsbackas hävning den 12 november 2024 hade Gotit rätt
 att häva avtalet på den grunden att Kungsbacka inte erlagt betalning av de
 månatliga förvaltningsavgifterna avseende 2024 (se M.1 nedan).
 
@@ -4970,47 +4970,47 @@ Sida 10 av 101
 
 <!-- sida 117 -->
 
-75.    Även om Kungsbacka skulle ha haft hävningsrätt (vilket bestrids) hade Gotit
+75\.    Även om Kungsbacka skulle ha haft hävningsrätt (vilket bestrids) hade Gotit
 alltså samtidig hävningsrätt. I en sådan situation är de skadeposter Kungsbacka
 gör gällande under alla omständigheter inte adekvat kausala och därmed inte
 ersättningsgilla.
 
 B.6    Kungsbackas fastställelseyrkanden ska avvisas
 
-76.    Kungsbackas fastställelseyrkande ska av de skäl som anförs i avsnitt L nedan
+76\.    Kungsbackas fastställelseyrkande ska av de skäl som anförs i avsnitt L nedan
 avvisas.
-77.    Gotit bestrider yrkandena och grunderna för dessa (vilka de nu är). För det fall
+77\.    Gotit bestrider yrkandena och grunderna för dessa (vilka de nu är). För det fall
 tingsrätten skulle tillåta yrkandena kommer Gotit utveckla sitt bestridande.
 
 C      Grunder genkäromålet
 
 C.1    Förvaltningsavgiften
 
-78.    Kungsbacka leveransgodkände etapp 1 den 29 augusti 2023.
-79.    Efter denna tidpunkt har Kungsbacka varit skyldig att erlägga den månatliga
+78\.    Kungsbacka leveransgodkände etapp 1 den 29 augusti 2023.
+79\.    Efter denna tidpunkt har Kungsbacka varit skyldig att erlägga den månatliga
 förvaltningsavgiften. I enlighet med vad som anges i p. 4.3.1 förlikningsavtalet
 var den månatliga förvaltningsavgiften för etapp 1 – 57 333 kr.
 
-80.    Som grund för sin betalning har Gotit upprättat s.k. betalningsunderlag enligt
+80\.    Som grund för sin betalning har Gotit upprättat s.k. betalningsunderlag enligt
 24.4 Bilaga C5.
 
-81.    Kungsbacka har betalat den månatliga förvaltningsavgiften för perioden fram till
+81\.    Kungsbacka har betalat den månatliga förvaltningsavgiften för perioden fram till
 och med december 2023. Därefter slutade Kungsbacka betala förvaltnings-
 avgiften trots att kommunen var skyldig att göra detta.
 
-82.    Gotit har upprättat betalningsunderlag och fakturerat för de månatliga
+82\.    Gotit har upprättat betalningsunderlag och fakturerat för de månatliga
 förvaltningsavgifterna i perioden januari till oktober 2024.2 Kungsbacka har dock
 inte betalat dessa avgifter.
-83.    Det totala beloppet avseende januari till oktober 2024 är 573 330 kr (57 333 *
+83\.    Det totala beloppet avseende januari till oktober 2024 är 573 330 kr (57 333 \*
 10). Detta belopp är Kungsbacka skyldigt betala. Till beloppet ska läggas
 förvaltningsavgiften för de första tolv dagarna av november (dvs. fram till
-Kungsbackas hävning) – 22 933 kr (57 333 / 30 * 12).
+Kungsbackas hävning) – 22 933 kr (57 333 / 30 \* 12).
 
-84.    Totalt ska därmed Kungsbacka betala 596 263 kr (exkl. moms) avseende
+84\.    Totalt ska därmed Kungsbacka betala 596 263 kr (exkl. moms) avseende
 förvaltningsavgift (dvs. för den utförda tjänsten fram till kommunens ogrundade
 hävning).
 
-85.    Förvaltningsavgifterna har förfallit i enlighet med vad som anges i bilaga S37
+85\.    Förvaltningsavgifterna har förfallit i enlighet med vad som anges i bilaga S37
 med redovisad upplupen ränta per 28 april 2026. Ränta har löpt på delbeloppen
 enligt 6 § räntelagen sedan respektive förfallodag. Total upplupen ränta per den
 28 april 2026 är 132 788 kr.
@@ -5021,37 +5021,37 @@ Sida 11 av 101
 
 <!-- sida 118 -->
 
-86.    Från den 29 april 2026 löper ränta på beloppet enligt 6 § räntelagen till dess full
+86\.    Från den 29 april 2026 löper ränta på beloppet enligt 6 § räntelagen till dess full
 betalning skett.
 
 C.2    Ersättning för avvecklingsprojektet
-87.    Vid upphörande av avtalet tillhandahöll Gotit avvecklings-, ersättnings- och
+87\.    Vid upphörande av avtalet tillhandahöll Gotit avvecklings-, ersättnings- och
 
 överflyttningsassistans i enlighet med parternas avtal.
-88.    Enligt avtalet upprättade Gotit en avvecklings-, ersättnings- och överflyttnings-
+88\.    Enligt avtalet upprättade Gotit en avvecklings-, ersättnings- och överflyttnings-
 plan. Planen skickades över till Kungsbacka den 5 december 2024.
 
-89.    Den 12 december 2024 skickade Gotit över Kungsbackas data i Skolplatsen till
+89\.    Den 12 december 2024 skickade Gotit över Kungsbackas data i Skolplatsen till
 kommunen. Avvecklingsprojektet var därmed avslutat.
 
-90.    Enligt avtalet har Gotit rätt till ersättning med 120 000 kr (exkl. moms) för
+90\.    Enligt avtalet har Gotit rätt till ersättning med 120 000 kr (exkl. moms) för
 avvecklingsprojektet.
 
-91.    Gotit skickade en faktura för arbete den 2 juli 2025. Kungsbacka har inte betalat
+91\.    Gotit skickade en faktura för arbete den 2 juli 2025. Kungsbacka har inte betalat
 fakturan.
-92.    Ersättningen förföll till betalning den 1 augusti 2025 varefter ränta enligt 6 §
+92\.    Ersättningen förföll till betalning den 1 augusti 2025 varefter ränta enligt 6 §
 räntelagen löper.
 
 C.3    Skadestånd
 
-93.    Den 12 november 2024 hävde Kungsbacka, utan rätt därtill, avtalet (och lika
+93\.    Den 12 november 2024 hävde Kungsbacka, utan rätt därtill, avtalet (och lika
 ogrundat förlikningsavtalet).
 
-94.    Den 15 november 2024 meddelade Gotit att bolaget bestred att Kungsbacka
+94\.    Den 15 november 2024 meddelade Gotit att bolaget bestred att Kungsbacka
 hade rätt att häva avtalet (och förlikningsavtalet). Gotit accepterade dock att
 Avtalet upphört genom hävningen (inte förlikningsavtalet) och begärde att
 Kungsbacka skulle betala skadestånd till Gotit.
-95.    Till följd av att Kungsbacka hävt avtalet (och förlikningsavtalet) utan rätt därtill
+95\.    Till följd av att Kungsbacka hävt avtalet (och förlikningsavtalet) utan rätt därtill
 har Gotit lidit en skada om 6 713 929 kr. Skadan består av följande poster:
 
 a.  Skada hänförlig till uteblivna intäkter hänförliga till ersättning för
@@ -5062,7 +5062,7 @@ b.  Skada hänförlig till uteblivna intäkter hänförliga till förvaltningsav
 
 c.  Skada hänförlig till uteblivna intäkter hänförliga till förlikningslikviden –
 750 000 kr.
-96.    Gotit har tillsänt Kungsbacka en faktura avseende skadeståndet den 4 juli 2025.
+96\.    Gotit har tillsänt Kungsbacka en faktura avseende skadeståndet den 4 juli 2025.
 
 Sida 12 av 101
 
@@ -5070,51 +5070,51 @@ Sida 12 av 101
 
 D      Inledning
 
-97.    Den 12 februari 2021 träffade Kungsbacka och Gotit ett avtal om
+97\.    Den 12 februari 2021 träffade Kungsbacka och Gotit ett avtal om
 skoladministrativa IT-system.
 
-98.    Den 12 november 2024 hävde Kungsbacka, utan rätt till detta, avtalet.
+98\.    Den 12 november 2024 hävde Kungsbacka, utan rätt till detta, avtalet.
 
-99.    Kungsbacka har nu, långt över ett år efter att Kungsbacka felaktigt hävde
+99\.    Kungsbacka har nu, långt över ett år efter att Kungsbacka felaktigt hävde
 parternas avtal, stämt Gotit.
-100.   Kungsbackas sätt att föra talan vid tingsrätten är närmast en déjà vu-upplevelse
+100\.   Kungsbackas sätt att föra talan vid tingsrätten är närmast en déjà vu-upplevelse
 för Gotit. Kungsbackas sätt att föra sin talan vid tingsrätten speglar nämligen hur
 kommunen agerat mot Gotit under parternas avtalsrelation.
 
-101.   I stämningsansökan avfyrar Kungsbacka en hagelsvärm av anklagelser baserade
+101\.   I stämningsansökan avfyrar Kungsbacka en hagelsvärm av anklagelser baserade
 på en helt orimlig och ensidig förståelse av parternas avtal. Anklagelserna som
 sådana består ofta bara av en hänvisning till obegripliga egenupprättade
 dokument eller otydliga påståenden om att vissa krav inte uppfyllts.
 
-102.   I stämningsansökan för Kungsbacka fram att ”Avtalet innebär att Gotit skulle
+102\.   I stämningsansökan för Kungsbacka fram att ”Avtalet innebär att Gotit skulle
 leverera vad som bäst kan jämföras med en nyckelfärdig småhusentreprenad
 som innebär ett uttömmande resultat- och projektledningsansvar för Gotit”.
 Detta synsätt är helt förfelat, oförenligt med avtalet och bygger på ett närmast
 totalt oförstånd för vad implementationen och driften av en skolplattform
 innebär.
 
-103.   En fungerande implementation och drift av en skolplattform förutsätter att
+103\.   En fungerande implementation och drift av en skolplattform förutsätter att
 beställaren aktivt samarbetar med leverantören, bl.a. genom att besvara frågor,
 förtydliga krav och tillhandahålla information om sin verksamhet. Beställaren
 måste även hantera sina övriga leverantörer. I detta fall skulle systemet
 integreras med ca 20 av kommunens andra system.
 
-104.   Kommunen har dock konsekvent – baserat på sin felaktiga förståelse av avtalet
+104\.   Kommunen har dock konsekvent – baserat på sin felaktiga förståelse av avtalet
 (det nyckelfärdiga huset) – vägrat besvara frågor, förtydliga krav och
 tillhandahålla information. Kungsbacka har i stället angett att i princip allt – inkl.
 kontakter med kommunens tredjepartsleverantörer och nedtecknande av
 Kungsbackas egna (möjliga) justering av krav i etapp 2 – faller inom Gotits
 ”resultat- och projektledningsansvar”.
 
-105.   Kungsbackas agerande har så klart vållat stora problem.
-106.   Kungsbackas talan vilar helt på kommunens ”förståelse” av avtalet som ett
+105\.   Kungsbackas agerande har så klart vållat stora problem.
+106\.   Kungsbackas talan vilar helt på kommunens ”förståelse” av avtalet som ett
 "nyckelfärdigt hus". Om tingsrätten inte delar den uppfattningen faller
 Kungsbackas talan i dess helhet.
 
-107.   Som redan framgått är även Kungsbackas anklagelser rörande centrala delar av
+107\.   Som redan framgått är även Kungsbackas anklagelser rörande centrala delar av
 händelseförloppet felaktiga.
 
-108.   Det övergripande intrycket är också att stämningsansökan förefaller vara ett
+108\.   Det övergripande intrycket är också att stämningsansökan förefaller vara ett
 hastverk. Till exempel har Kungsbacka, utan någon förklaring, gett in avtal som
 inte är undertecknade. Dessa avviker även från de undertecknade avtalen och
 
@@ -5128,47 +5128,47 @@ rörigt.
 
 E      Bakgrund
 
-109.   Innan Gotit går in på de enskilda tvistefrågorna ges här en kort bakgrund om
+109\.   Innan Gotit går in på de enskilda tvistefrågorna ges här en kort bakgrund om
 parterna, produkten Skolplatsen, Avtalet och det inledande samarbetet. Syftet
 är att ge tingsrätten ett sammanhang inför läsningen av övriga avsnitt.
 E.1    Parterna
 
 E.1.1  Gotit
 
-110.   Göteborgs IT Konsult Gotit AB (Gotit) är ett Göteborgsbaserat IT företag som
+110\.   Göteborgs IT Konsult Gotit AB (Gotit) är ett Göteborgsbaserat IT företag som
 funnits sedan mitten av 1990 talet. Bolaget utvecklar och säljer IT system, med
 särskilt fokus på webbaserade administrativa lösningar inom utb-ildningssektorn.
--                     -
-111.   Gotit har strax över 20 medarbetare och omsätter ca 30 mkr per år.
-112.   Gotit har två huvudsakliga produkter – Alvis och Skolplatsen. Alvis är ett system
+\-                     -
+111\.   Gotit har strax över 20 medarbetare och omsätter ca 30 mkr per år.
+112\.   Gotit har två huvudsakliga produkter – Alvis och Skolplatsen. Alvis är ett system
 anpassat för vuxenutbildning och inte relevant för nu aktuell tvist. Skolplatsen är
 den produkt som denna tvist rör.
 
-113.   Skolplatsen är ett IT-stöd för elevadministration och ett verktyg för information
+113\.   Skolplatsen är ett IT-stöd för elevadministration och ett verktyg för information
 och kommunikation för alla involverade i förskola, grundskola och
 gymnasieskola.
 
-114.   I Sverige finns fem bolag som levererar produkter motsvarande Skolplatsen. Av
+114\.   I Sverige finns fem bolag som levererar produkter motsvarande Skolplatsen. Av
 dessa bolag är Gotit den minsta aktören.
 
 E.1.2  Kungsbacka kommun
-115.   Kungsbacka kommun är en kommun med ca 85 000 invånare. Kommunen har ca
+115\.   Kungsbacka kommun är en kommun med ca 85 000 invånare. Kommunen har ca
 17 500 elever och 1 300 lärare som går eller arbetar i grund- och gymnasieskola.
 
 E.2    Allmänt om skolplattformar
 
-116.   En skolplattform är ett digitalt system som samlar skolans administrativa och
+116\.   En skolplattform är ett digitalt system som samlar skolans administrativa och
 pedagogiska arbete på ett ställe. Den används på olika sätt av elever,
 vårdnadshavare, lärare, skolledare och administratörer för att hantera
 information, att kommunicera och att genomföra administrativa processer.
 
-117.   En skolplattform är i grunden en standardprodukt som driftas centralt för flera
+117\.   En skolplattform är i grunden en standardprodukt som driftas centralt för flera
 beställare samtidigt. När en skolplattform ska tas i bruk anpassas normalt vissa
 av plattformens funktioner till beställarens verksamhet och organisation. Vissa
 s.k. integrationer med beställarens andra system behöver också normalt sättas
 upp.
 
-118.   En implementering ställer också höga krav på beställaren, som behöver ha en
+118\.   En implementering ställer också höga krav på beställaren, som behöver ha en
 organisation på plats för att genomföra implementeringen. Beställaren måste
 
 Sida 14 av 101
@@ -5182,37 +5182,37 @@ arbetssätt.
 
 E.2.1  Särskilt om Skolplatsen
 
-119.   Skolplatsen är en skolplattform som Gotit säljer till kommuner och andra
+119\.   Skolplatsen är en skolplattform som Gotit säljer till kommuner och andra
 utbildningsaktörer. Skolplatsen samlar skolans administration, kommunikation
 och elevdata i ett system som är anpassat för hela utbildningskedjan.
-120.   Skolplatsen har över tid haft ett varierande antal användare. För närvarande
+120\.   Skolplatsen har över tid haft ett varierande antal användare. För närvarande
 brukas Skolplatsen av sex utbildningsaktörer (kommuner eller andra aktörer).
 
-121.   Skolplatsen är alltså en fullt fungerande produkt som används av
+121\.   Skolplatsen är alltså en fullt fungerande produkt som används av
 utbildningsaktörer ute i landet sedan många år.
 
-122.   Skolplatsen är en standardprodukt som kan anpassas till varje beställare.
+122\.   Skolplatsen är en standardprodukt som kan anpassas till varje beställare.
 Eftersom Skolplatsen är en standardprodukt finns det dock gränser för hur
 mycket den kan skräddarsys.
 
 E.3    Upphandlingen av Kontraktet
-123.   2020 påbörjade Kungsbacka en upphandling av en skolplattform.
+123\.   2020 påbörjade Kungsbacka en upphandling av en skolplattform.
 
-124.   Det system som kommunen vid tidpunkten använde för gymnasiet var föråldrat.
+124\.   Det system som kommunen vid tidpunkten använde för gymnasiet var föråldrat.
 Kungsbacka hade tidigare försökt byta ut det men avbrutit implementationen av
 ett nytt system och återgått till det gamla systemet.
 
-125.   Upphandlingen var avsedd att genomföras som ett s.k. förhandlat förfarande
+125\.   Upphandlingen var avsedd att genomföras som ett s.k. förhandlat förfarande
 med föregående annonsering enligt LOU.
 
-126.   I anledning av upphandlingen kontaktade Kungsbacka Gotit och förmådde Gotit
+126\.   I anledning av upphandlingen kontaktade Kungsbacka Gotit och förmådde Gotit
 att lägga anbud i upphandlingen. Av anbudet (och priset) är det tydligt att den
 produkt Gotit erbjöd Kungsbacka i grunden är en standardprodukt. Detta
 framgick uttryckligen i Gotits anbud i upphandlingen.3
 
-127.   Det var bara Gotit som lämnade anbud i upphandlingen.
+127\.   Det var bara Gotit som lämnade anbud i upphandlingen.
 
-128.   Mot bakgrund av detta tilldelade Kungsbacka den 27 januari 2021 Gotit kontrakt
+128\.   Mot bakgrund av detta tilldelade Kungsbacka den 27 januari 2021 Gotit kontrakt
 i upphandlingen utan någon föregående förhandling.4
 
 3 Se bilaga S3.
@@ -5221,42 +5221,42 @@ Sida 15 av 101
 
 <!-- sida 122 -->
 
-129.   En följd av detta var att ett stort antal frågor som normalt hade hanterats och
+129\.   En följd av detta var att ett stort antal frågor som normalt hade hanterats och
 klargjorts under förhandlingen inte hanterades. Detta framgår också av
 Kungsbackas tilldelningsbeslut.5
 
-130.   Den 12 februari 2021 hade båda parter undertecknat det tilldelade kontraktet
+130\.   Den 12 februari 2021 hade båda parter undertecknat det tilldelade kontraktet
 (avtalet). Det måste dock betonas att Kungsbacka av oklar anledning i målet gett
 in ett annat (oundertecknat) avtal än det som parterna undertecknat. Den av
 Kungsbacka ingivna handlingarna överensstämmer inte i alla delar med det
 undertecknade avtalet. Avtalet gås igenom mer utförligt i avsnitt F nedan.
 
 E.4    Parternas inledande samarbete under avtalet
-131.   Nedan redogör Gotit för det inledande samarbetet under avtalet, innefattande
+131\.   Nedan redogör Gotit för det inledande samarbetet under avtalet, innefattande
 hur parterna delade upp projektet i två etapper samt hur införandeprojektet
 
 avseende etapp 1 fortlöpte.
-132.   Som framgår nedan bröt Kungsbacka mot avtalet avseende etapp 1, vilket till
+132\.   Som framgår nedan bröt Kungsbacka mot avtalet avseende etapp 1, vilket till
 slut ledde till att parterna träffade en förlikning. Införandeprojektet avseende
 etapp 1 är i grunden inte föremål för nu aktuell tvist, utan parterna har förlikts i
 detta avseende.
 
 E.4.1  Uppstart av projektet
 
-133.   Redan i ett tidigt skede av projektet reagerade Gotit på att något var märkligt
+133\.   Redan i ett tidigt skede av projektet reagerade Gotit på att något var märkligt
 med Kungsbackas syn på samarbetet. Detta tog sig till uttryck bl.a. i att den eller
 de som de facto verkade styra projektet på kommunens sida var andra än de
 företrädare som träffade Gotit.
 
-134.   Vid ett flertal tillfällen har parterna på verksamhetsnivån kommit överens om
+134\.   Vid ett flertal tillfällen har parterna på verksamhetsnivån kommit överens om
 vissa lösningar och hur frågor ska hanteras bara för att Kungsbacka några dagar
 senare återkommit med långa och invecklade skrivelser där Kungsbacka backat
 från det som överenskommits.
-135.   Det har inte varit ett konstruktivt sätt att arbeta.
+135\.   Det har inte varit ett konstruktivt sätt att arbeta.
 
 E.4.2  Projektet delas upp i två etapper
 
-136.   Mer eller mindre omgående efter att parterna träffat avtalet kom man överens
+136\.   Mer eller mindre omgående efter att parterna träffat avtalet kom man överens
 om att dela upp implementationen av Skolplatsen i två faser:
 
 a.  Etapp 1 – avseende gymnasieskolan
@@ -5268,43 +5268,43 @@ Sida 16 av 101
 
 <!-- sida 123 -->
 
-137.   Först skulle alltså Skolplatsen implementeras för gymnasieskolan (etapp 1).
+137\.   Först skulle alltså Skolplatsen implementeras för gymnasieskolan (etapp 1).
 Sedan skulle den implementeras för grundskolan och förskolan (etapp 2).
 
 E.4.3  Problem med migrering av data i etapp 1
-138.   Tidigt under införandeprojektet av etapp 1 uppstod dock problem.
+138\.   Tidigt under införandeprojektet av etapp 1 uppstod dock problem.
 
-139.   För att kunna ta fram systemet behövde Gotit få tillgång till kommunens data.
+139\.   För att kunna ta fram systemet behövde Gotit få tillgång till kommunens data.
 Denna data hanterades av Kungsbackas dåvarande två leverantörer av
 skolplattformar.
 
-140.   Enligt den vid tiden gällande införandeplanen hade Kungsbacka åtagit sig att
+140\.   Enligt den vid tiden gällande införandeplanen hade Kungsbacka åtagit sig att
 översända datafiler med denna data från sina befintliga system i enlighet med
 Gotits specifikationer v 15 2021. Se bl.a. nedan.
 
-141.   Datafilerna skulle innehålla kommunens data – elever, lärare, betyg etc. Filerna
+141\.   Datafilerna skulle innehålla kommunens data – elever, lärare, betyg etc. Filerna
 var nödvändiga för att Skolplatsen skulle kunna implementeras och driftsättas.
 För att ta fram denna data behövde Kungsbackas dåvarande leverantörer utföra
 visst arbete – helt enkelt att extrahera data från befintliga system.
-142.   I mars 2021 påstod Kungsbacka, i strid med avtalet, att filuttaget (migreringen)
+142\.   I mars 2021 påstod Kungsbacka, i strid med avtalet, att filuttaget (migreringen)
 helt och hållet var Gotits ansvar och att Gotit helt enkelt fick teckna egna avtal
 med Kungsbackas dåvarande leverantörer av skolplattformer för att få tillgång
 
 till Kungsbackas data.
-143.   Kravet var huvudlöst. Kommunens två dåvarande leverantörer av skolplattform
+143\.   Kravet var huvudlöst. Kommunens två dåvarande leverantörer av skolplattform
 är två av Gotits största konkurrenter och de hade ingen skyldighet att teckna
 avtal med Gotit.
 
-144.   Efter långa diskussioner och allvarliga anklagelser från Kungsbackas sida backade
+144\.   Efter långa diskussioner och allvarliga anklagelser från Kungsbackas sida backade
 Kungsbacka till slut från sin ohållbara ståndpunkt.
 
-145.   Kungsbacka var vid denna tidpunkt redan försenade med att ta fram filerna,
+145\.   Kungsbacka var vid denna tidpunkt redan försenade med att ta fram filerna,
 eftersom kommunen hade lagt tid på att försöka få Gotit att teckna avtal med
 tredje man i stället för att faktiskt arbeta med migreringen. Därutöver hade
 Kungsbacka stora problem med att få ut fungerande migreringsfiler från
 kommunens dåvarande leverantörer av skolplattformar.
 
-146.   Detta var på sitt sätt inte förvånande. De tidigare leverantörernas förseningar
+146\.   Detta var på sitt sätt inte förvånande. De tidigare leverantörernas förseningar
 innebar att införandet av det nya systemet som skulle ersätta dessa
 leverantörers system fördröjdes. Eftersom leverantörerna fick betalt så länge
 
@@ -5315,15 +5315,15 @@ Sida 17 av 101
 deras system användes, hade de ett ekonomiskt intresse av att leveransen av
 filerna drog ut på tiden.
 
-147.   I slutändan innebar detta att etapp 1 blev försenad. Denna försening är inte vad
+147\.   I slutändan innebar detta att etapp 1 blev försenad. Denna försening är inte vad
 den här tvisten handlar om. Som redan framgått träffade parterna den
 20 november 2023 en förlikning som hanterade alla frågor hänförliga till etapp
-1. Detta kommer utvecklas mer utförligt nedan.
+1\. Detta kommer utvecklas mer utförligt nedan.
 
-148.   Agerandet som beskrivs ovan är dock talande för hur Kungsbacka agerat i
+148\.   Agerandet som beskrivs ovan är dock talande för hur Kungsbacka agerat i
 projektet – kommunen har ställt helt orimliga och avtalsstridiga krav på Gotit
 och misskött sina egna åtaganden i projektet
-149.   Kungsbacka har alltså inte köpt ett ”nyckelfärdigt hus”, det har aldrig ens varit
+149\.   Kungsbacka har alltså inte köpt ett ”nyckelfärdigt hus”, det har aldrig ens varit
 möjligt. I stället är det tydligt att implementeringen av Skolplatsen har förutsatt
 ett samarbete mellan parterna och att även Kungsbacka har haft åtaganden som
 varit centrala för att projektet skulle kunna genomföras. Kungsbacka har
@@ -5331,54 +5331,54 @@ varit centrala för att projektet skulle kunna genomföras. Kungsbacka har
 konsekvent misskött dessa åtaganden.
 E.4.4  Leveransen av etapp 1 (gymnasieskolan)
 
-150.   Som framgått ovan förelåg ganska omfattande problem med kommunens arbete
+150\.   Som framgått ovan förelåg ganska omfattande problem med kommunens arbete
 under etapp 1 (gymnasieskolan).
 
-151.   Som kommer redogöras för nedan är ett av de viktigaste dokument i parternas
+151\.   Som kommer redogöras för nedan är ett av de viktigaste dokument i parternas
 avtal Bilaga C1 Avtalade krav. I dokumentet framgår helt enkelt vilka krav
 systemet ska uppfylla. Det framstår som helt självklart att dessa är (och måste
 vara) tydliga och bestämda när man utvecklar systemet.
 
-152.   Avtalet har en mekanism för hur olika krav ska ändras. Det är inget konstigt med
+152\.   Avtalet har en mekanism för hur olika krav ska ändras. Det är inget konstigt med
 det – det är nödvändigt för att ett implementationsprojekt ska fungera.
-153.   Under etapp 1 kom också parterna principiellt överens om vissa ändringar av
+153\.   Under etapp 1 kom också parterna principiellt överens om vissa ändringar av
 kraven i Bilaga C1 Avtalade krav.
 
-154.   En i avtalet särskilt angiven förutsättning för att sådana principiellt överens-
+154\.   En i avtalet särskilt angiven förutsättning för att sådana principiellt överens-
 komna ändrade krav skulle vara bindande mellan parterna var dock att Bilaga C1
 Avtalade krav uppdaterades genom att ändringarna fördes in i dokumentet.
 Detta står uttryckligen i första punkten i Bilaga C1 Avtalade krav.
 
-155.   I och med att Bilaga C1 Avtalade krav avsåg Kungsbackas krav på systemet var
+155\.   I och med att Bilaga C1 Avtalade krav avsåg Kungsbackas krav på systemet var
 också Kungsbacka ansvarigt för handlingen.
 
 Sida 18 av 101
 
 <!-- sida 125 -->
 
-156.   Under införandeprojektet för etapp 1 uppdaterade dock inte Kungsbacka Bilaga
+156\.   Under införandeprojektet för etapp 1 uppdaterade dock inte Kungsbacka Bilaga
 C1 Avtalade krav trots påstötningar om detta från Gotit. Det var Bilaga C1
 Avtalade krav i version 1.2 som gällde.
 
-157.   Efter vissa om och men skulle etapp 1 den 2 december 2022 levereras till
+157\.   Efter vissa om och men skulle etapp 1 den 2 december 2022 levereras till
 kommunen för dess s.k. acceptanskontroll. Detta innebar att etapp1 skulle vara
 i drift i produktionsmiljö – dvs. i gång och kunna användas i kommunens
 verksamhet – den 2 december 2022.
 
-158.   Det kan noteras att det i praktiken ofta tar flera dagar att sätta upp ett system i
+158\.   Det kan noteras att det i praktiken ofta tar flera dagar att sätta upp ett system i
 produktionsmiljö (innefattande bl.a. att ladda upp all nödvändig data, sätta upp
 verkliga integrationer och göra konfigurationer).
-159.   Utan någon som helst förvarning skickade kommunen den 1 december 2022
+159\.   Utan någon som helst förvarning skickade kommunen den 1 december 2022
 kl.15.57 – alltså dagen innan kommunen skulle börja arbeta i systemet – en ny
 version av Bilaga C1 Avtalade krav, nu version 1.3.6
 
-160.   Agerandet var anmärkningsvärt och totalt oprofessionellt. Det var så klart helt
+160\.   Agerandet var anmärkningsvärt och totalt oprofessionellt. Det var så klart helt
 orealistiskt för Gotit att ändra något i systemet vid denna tidpunkt. Systemet
 höll i praktiken på att startas upp.
-161.   Skillnaderna i de båda versionerna av Bilaga C1 (v. 1.3 jämförd med v. 1.2) var
+161\.   Skillnaderna i de båda versionerna av Bilaga C1 (v. 1.3 jämförd med v. 1.2) var
 omfattande.
 
-162.   Dagen efter, dvs. den 2 december 2022, meddelade Gotit att bolaget skulle
+162\.   Dagen efter, dvs. den 2 december 2022, meddelade Gotit att bolaget skulle
 avvakta leverans för att i lugn och ro gå igenom den nya versionen av Bilaga C1
 Avtalade krav.7
 
@@ -5388,39 +5388,39 @@ Sida 19 av 101
 
 <!-- sida 126 -->
 
-163.   På detta svarade Kungsbacka följande.
+163\.   På detta svarade Kungsbacka följande.
 
-164.   Återigen ett anmärkningsvärt agerande från Kungsbackas sida – inte det minsta
+164\.   Återigen ett anmärkningsvärt agerande från Kungsbackas sida – inte det minsta
 ansvarstagande för att kommunen ändrat Bilaga C1 Avtalade krav dagen innan
 leverans, utan i stället anklagelser riktade mot Gotit.
 
-165.   Efter interna överväganden hos Gotit beslutade bolaget att trots detta lämna
+165\.   Efter interna överväganden hos Gotit beslutade bolaget att trots detta lämna
 över etapp 1 till kommunen den 2 december 2022.8 Gotit ansåg inte att
 Kungsbacka kunde använda de ändrade kraven för att underkänna systemet och
 efter att översiktligt kunnat gå igenom ändringarna i den nya versionen C1
 Avtalade krav kunde Gotit också konstatera att systemet redan hanterade
 merparten av de ändrade kraven.
 
-166.   När Kungsbacka sedan gjorde sin acceptanskontroll utgick kommunen från den
+166\.   När Kungsbacka sedan gjorde sin acceptanskontroll utgick kommunen från den
 version av Bilaga C1 Avtalade krav som kommunen skickat över dagen innan
 leveransen av etapp 1. Detta orsakade så klart problem. Kommunen beskyllde
 också Gotit för att inte ha testat krav som inte fanns vid tidpunkten för testning,
 etc.
 
-167.   Den 17 januari 2023 underkände Kungsbacka (helt felaktigt) leveransen av
+167\.   Den 17 januari 2023 underkände Kungsbacka (helt felaktigt) leveransen av
 etapp1.9
-168.   Kungsbackas använde dock systemet för fullt i sin verksamhet från december
-2022.
+168\.   Kungsbackas använde dock systemet för fullt i sin verksamhet från december
+2022\.
 
-169.   Efter mycket om och men godkände Kungsbacka till slut leveransen den
+169\.   Efter mycket om och men godkände Kungsbacka till slut leveransen den
 29 augusti 2023.
 
-170.   Parterna hade dock omfattande krav på varandra och Kungsbacka bestred i stor
+170\.   Parterna hade dock omfattande krav på varandra och Kungsbacka bestred i stor
 utsträckning sin betalningsskyldighet. Detta kommer Gotit dock inte utveckla
 ytterligare i denna inlaga då dessa oenigheter till slut resulterade i den förlikning
 som parterna träffade den 20 november 2023.
 
-171.   Gotit kommer i denna inlaga att fokusera på tiden efter den 20 november 2023,
+171\.   Gotit kommer i denna inlaga att fokusera på tiden efter den 20 november 2023,
 eftersom det är denna period som tvisten avser. Förlikningen innebar hur som
 helst en fullständig och slutlig reglering av de oenigheter som förelåg
 dessförinnan. Gotit vill dock lyfta fram Kungsbackas agerande under etapp 1,
@@ -5436,18 +5436,18 @@ F      Avtalet
 
 F.1    Kommunen har inte gett in parternas undertecknade avtal
 
-172.   I avsnitt C.1 stämningsansökan anger Kungsbacka att parterna den 12 februari
+172\.   I avsnitt C.1 stämningsansökan anger Kungsbacka att parterna den 12 februari
 2021 träffade ett avtal rörande ett skoladministrativt IT-system. Detta avtal har
 inte Kungsbacka gett in i målet. Det undertecknade avtalet ges därför in av Gotit,
 se bilaga S410.
 
-173.   När sedan Kungsbacka i stämningsansökan listar vilka avtalshandlingar som gällt
+173\.   När sedan Kungsbacka i stämningsansökan listar vilka avtalshandlingar som gällt
 mellan parterna listas en rad olika handlingar som avviker från avtalet som
 träffades den 12 februari 2021. Kungsbacka redogör dock inte (med undantag
 för förlikningsavtalet och möjligen för införandeplanen – där Kungsbacka inte
 gett in den version kommunen menar är gällande) för var, när och hur
 Kungsbacka menar att dessa ändringar av parternas avtal gjorts.
-174.   Gotit delar i och för sig Kungsbackas uppfattning om att parternas avtal har
+174\.   Gotit delar i och för sig Kungsbackas uppfattning om att parternas avtal har
 
 ändrats vid flera tillfällen. Parterna har dock inte varit överens om vilka
 ändringar som gjorts m.m. Det måste vara Kungsbacka – som kärande – som i
@@ -5455,26 +5455,26 @@ målet först redogör för hur kommunen menar att parternas avtalssituation ser
 ut samt när, var och hur den förändrats enligt Kungsbackas mening.
 F.2    Avtalet
 
-175.   Gotit avser inte att nu gå igenom parternas avtal i dess helhet utan endast något
+175\.   Gotit avser inte att nu gå igenom parternas avtal i dess helhet utan endast något
 förenklat beskriva avtalets huvuddrag.
 
-176.   Avtalet är ensidigt upprättat av Kungsbacka. Det kan noteras att avtalet i en inte
+176\.   Avtalet är ensidigt upprättat av Kungsbacka. Det kan noteras att avtalet i en inte
 helt obetydlig del är svårt att förstå och ganska illa skrivet. I vissa delar har
 avtalet inte heller fyllts med ett konkret innehåll – t.ex. är förvaltningsplanen
 (Bilaga C4) mycket rudimentär.
 
-177.   Avtalet innebär förenklat att Gotit ska tillhandahålla Skolplatsen för kommunens
+177\.   Avtalet innebär förenklat att Gotit ska tillhandahålla Skolplatsen för kommunens
 skolverksamhet. Uppdraget innefattar dels ett inledande införandeprojekt, dels
 ett därefter följande förvaltningsåtagande.
-178.   Enligt det ursprungliga avtalet skulle Gotit erhålla följande ersättning:
+178\.   Enligt det ursprungliga avtalet skulle Gotit erhålla följande ersättning:
 
 a.  1 160 000 kr för införandeprojektet.
 
 b.  1 376 000 kr i årlig förvaltningsavgift.
 
-179.   Det är viktigt att notera att detta är en förhållandevis begränsad ersättning
+179\.   Det är viktigt att notera att detta är en förhållandevis begränsad ersättning
 (förvaltningsavgiften är ca 80 kr per elev och år).
-180.   Efter att avtalet träffats kom parterna överens om att dela upp
+180\.   Efter att avtalet träffats kom parterna överens om att dela upp
 implementationen i två faser:
 
 10 Bilaga S4 består av två filer – bilaga S4.1 som är huvudavtalet och bilaga C1–C5 till detta samt
@@ -5487,31 +5487,31 @@ Sida 21 av 101
 a.  Etapp 1 – avseende gymnasieskolan
 
 b.  Etapp 2 – avseende grundskolan och förskolan
-181.   Vissa förändringar av ersättning har också träffats genom bl.a. förlikningsavtalet.
+181\.   Vissa förändringar av ersättning har också träffats genom bl.a. förlikningsavtalet.
 Detta förklaras nedan.
 
-182.   Gotit kommer att gå igenom avtalets olika bestämmelser mer i detalj nedan i
+182\.   Gotit kommer att gå igenom avtalets olika bestämmelser mer i detalj nedan i
 anslutning till Kungsbackas olika anklagelser.
 
-183.   Först kommer Gotit dock särskilt kommentera vad Kungsbacka gör gällande
+183\.   Först kommer Gotit dock särskilt kommentera vad Kungsbacka gör gällande
 rörande resultat- och projektledningsansvar.
 
-184.   Både i tvisten och under avtalsförhållandet har Kungsbacka gång på gång fört
+184\.   Både i tvisten och under avtalsförhållandet har Kungsbacka gång på gång fört
 fram påståenden om Gotits resultat- och projektledningsansvar som bygger på
 en grav missuppfattning av parternas avtal.
 
-185.   Kungsbacka har tolkat skrivningarna i parternas avtal om resultat- och
+185\.   Kungsbacka har tolkat skrivningarna i parternas avtal om resultat- och
 projektledningsansvar som att Kungsbacka inte behöver medverka till att lösa
 problem, förtydliga otydliga krav m.m. Detta är en ohållbar och felaktig
 förståelse av parternas avtal. Gotit kommer att utveckla detta nedan.
 F.3    Förlikningsavtalet
 
-186.   Som framgått i avsnitt E.4 ovan hamnade parterna i tvist rörande leveransen av
+186\.   Som framgått i avsnitt E.4 ovan hamnade parterna i tvist rörande leveransen av
 etapp 1.
 
-187.   Den 29 augusti 2023 leveransgodkände Kungsbacka etapp 1.
+187\.   Den 29 augusti 2023 leveransgodkände Kungsbacka etapp 1.
 
-188.   Den 20 november 2023 träffade parterna en förlikning. Förlikningen är högst
+188\.   Den 20 november 2023 träffade parterna en förlikning. Förlikningen är högst
 relevant för denna tvist och innebar bl.a. följande.
 a.  Avseende etapp 1:
 
@@ -5525,18 +5525,18 @@ som framgår av restlistan (p. 3.3).
 
 iii.  Parterna var överens om att införandeprojektet avseende etapp 1
 var avslutat och att detta utlöste ett antal förpliktelser (p. 4.1):
-1. Kommunen skulle erlägga slutbetalningen för införandet av
+1\. Kommunen skulle erlägga slutbetalningen för införandet av
 etapp 1 med 1 564 150 kr i enlighet med punkt 6.1 i
 huvudavtalet.
 
-2. Leverantören skulle överta förvaltningsansvaret för etapp 1
+2\. Leverantören skulle överta förvaltningsansvaret för etapp 1
 med retroaktiv verkan från och med den 29 augusti 2023.
 
 Sida 22 av 101
 
 <!-- sida 129 -->
 
-3. Kommunen skulle betala upplupna månadsavgifter om
+3\. Kommunen skulle betala upplupna månadsavgifter om
 63 258 kr för förvaltningsåtagandet avseende perioden 29
 augusti 2023 till och med den 30 september 2023.
 
@@ -5561,28 +5561,28 @@ G.1    Gotit har levererat funktionerna i restlistan
 
 G.1.1  Kommunens anklagelse
 
-189.   Kommunen gör i avsnitt F.1.1 stämningsansökan gällande att Gotit vid
+189\.   Kommunen gör i avsnitt F.1.1 stämningsansökan gällande att Gotit vid
 tidpunkten för kommunens ogrundade hävning var försenad med 25 av de
 åtgärder som angavs i den s.k. restlistan som framgår av parternas
 förlikningsavtal.
 
-190.   Som framgår nedan är detta felaktigt.
+190\.   Som framgår nedan är detta felaktigt.
 G.1.2  Bakgrunden till restlistan
 
-191.   Som förklarats ovan var implementationen av systemet uppdelad i två etapper:
+191\.   Som förklarats ovan var implementationen av systemet uppdelad i två etapper:
 
 a.  Etapp 1 som avsåg gymnasieskolan.
 
 b.  Etapp 2 som avsåg grundskola och förskola.
-192.   Frågan om restlistan är hänförlig till etapp 1 (gymnasieskolan).
+192\.   Frågan om restlistan är hänförlig till etapp 1 (gymnasieskolan).
 
-193.   Etapp 1 kom att försenas till följd av Kungsbackas agerande. Förseningen har
+193\.   Etapp 1 kom att försenas till följd av Kungsbackas agerande. Förseningen har
 sedermera hanterats genom förlikningsavtalet och Gotit avser inte att tynga
 denna process med en uttömmande redogörelse för Kungsbackas
 tillkortakommanden i detta avseende. Sammanfattningsvis kan dock följande
 anföras.
 
-194.   En stor del av förseningen var hänförlig till migreringen av data från kommunens
+194\.   En stor del av förseningen var hänförlig till migreringen av data från kommunens
 tidigare leverantörer. Kungsbacka hävdade inledningsvis, i strid med parternas
 
 Sida 23 av 101
@@ -5592,44 +5592,44 @@ Sida 23 av 101
 avtal, att kommunen inte hade något ansvar för migreringen, utan att
 Kungsbackas tidigare leverantörer skulle tillhandahålla nödvändig data.
 
-195.   Kungsbacka angav därför att Gotit fick teckna egna avtal med de tidigare
+195\.   Kungsbacka angav därför att Gotit fick teckna egna avtal med de tidigare
 leverantörerna – som därtill var bland Gotits främsta konkurrenter. Kungsbackas
 agerande i detta hänseende var häpnadsväckande och i strid med avtalet. Se
 mer om detta i avsnitt E.4.3 ovan.
 
-196.   När Kungsbacka slutligen accepterade att ansvaret åvilade kommunen, lyckades
+196\.   När Kungsbacka slutligen accepterade att ansvaret åvilade kommunen, lyckades
 Kungsbacka trots upprepade försök inte förmå de tidigare leverantörerna att
 leverera fullständiga migreringsfiler. Allt detta innebar naturligtvis förseningar.
-197.   En annan del av förseningen var relaterad till att en annan av kommunens
+197\.   En annan del av förseningen var relaterad till att en annan av kommunens
 leverantörer inte uppfyllde den SIS-standard som Kungsbacka kravställt
 gentemot Gotit. Detta innebar att det inte var möjligt att bygga en (fungerande)
 integration med systemet på det sätt kommunen kravställt.
 
-198.   Som Gotit redovisar i avsnitt E.4.4 ovan ändrade Kungsbacka också Bilaga C1
+198\.   Som Gotit redovisar i avsnitt E.4.4 ovan ändrade Kungsbacka också Bilaga C1
 Avtalade krav dagen innan Gotit skulle ge Kungsbacka tillgång till systemet för
 etapp 1.
 
-199.   Gotit beredde den 2 december 2022 Kungsbacka tillgång till systemet för
+199\.   Gotit beredde den 2 december 2022 Kungsbacka tillgång till systemet för
 etapp 1 för acceptanskontroll och leveransgodkännande (jfr p. 8.1 Bilaga C5
 Allmänna Bestämmelser).11
 
-200.   Den 17 januari 2023 beslutade Kungsbacka att underkänna leveransen av
+200\.   Den 17 januari 2023 beslutade Kungsbacka att underkänna leveransen av
 Etapp 1. Detta beslut var felaktigt.
 
-201.   Kungsbackas gymnasieverksamhet använde dock systemet för fullt och hade vid
+201\.   Kungsbackas gymnasieverksamhet använde dock systemet för fullt och hade vid
 dagen för underkännandet gått över från det gamla systemet.
-202.   Detta ledde till utdragna diskussioner och krav från båda sidor.
+202\.   Detta ledde till utdragna diskussioner och krav från båda sidor.
 Sammanfattningsvis berodde Kungsbackas felaktiga underkännande på
 (i) att man inte utgick från de avtalade kraven vid sin acceptanskontroll och (ii)
 att testningen var felaktig.
 
-203.   Efter många vändor beslutade kommunen den 29 augusti 2023 att
+203\.   Efter många vändor beslutade kommunen den 29 augusti 2023 att
 leveransgodkänna Etapp 1 (jfr p. 8.7 och 8.8 Bilaga C5 Allmänna
 Bestämmelser).12 Skälet till att systemet till slut leveransgodkändes var i grunden
 inte att några större ändringar skett i systemet, utan att kommunen i praktiken
 medgav att det tidigare beslutet var felaktigt.
 
-204.   Etapp 1 gick därmed över i vad som i parternas avtal kallas förvaltnings-
+204\.   Etapp 1 gick därmed över i vad som i parternas avtal kallas förvaltnings-
 åtagandet (dvs. vanlig drift).
 
 11 Se bilaga S7.
@@ -5638,33 +5638,33 @@ Sida 24 av 101
 
 <!-- sida 131 -->
 
-205.   Av p. 8.11 Bilaga C5 Allmänna Bestämmelser till avtalet anges följande rörande
+205\.   Av p. 8.11 Bilaga C5 Allmänna Bestämmelser till avtalet anges följande rörande
 upprättandet av s.k. restlista.
 
-206.   Det framgår alltså uttryckligen av parternas avtal att en restlista är en lista för
+206\.   Det framgår alltså uttryckligen av parternas avtal att en restlista är en lista för
 icke väsentliga fel.
 
-207.   Vid leveransgodkännandet upprättade Kungsbacka en restlista (inte att förväxla
+207\.   Vid leveransgodkännandet upprättade Kungsbacka en restlista (inte att förväxla
 med restlistan i förlikningsavtalet som är föremål för tvisten). En stor del av de
 åtgärder som fanns på restlistan var enligt Gotits uppfattning inte fel utan det
 rörde sig i stället om önskemål om hur vissa funktioner skulle fungera (som inte
 angetts i kraven). Inte heller denna diskussion kommer Gotit att fördjupa sig i
 nu.
 
-208.   Denna ursprungliga restlista var en del av diskussionerna som föregick
+208\.   Denna ursprungliga restlista var en del av diskussionerna som föregick
 förlikningsavtalet den 20 november 2023.
-209.   Den restlistan som är föremål för denna tvist är en del av förlikningsavtalet.
+209\.   Den restlistan som är föremål för denna tvist är en del av förlikningsavtalet.
 
-210.   Restlistan i förlikningsavtalet var en pragmatisk lösning som innebar att Gotit
+210\.   Restlistan i förlikningsavtalet var en pragmatisk lösning som innebar att Gotit
 accepterade – utan att medge brist – att genomföra de åtgärder som anges i
 denna. I praktiken innebar det i flera fall en vidareutveckling och justering av
 vissa funktioner i syfte att möta Kungsbackas önskemål och nå en förlikning.
 
 G.1.3  Vad som framgår om restlistan i förlikningsavtalet
 
-211.   Av p. 3.1 förlikningsavtalet framgår följande.
+211\.   Av p. 3.1 förlikningsavtalet framgår följande.
 
-212.   I bilaga 1 till förlikningsavtalet angavs sedan vilka krav som fanns på restlistan
+212\.   I bilaga 1 till förlikningsavtalet angavs sedan vilka krav som fanns på restlistan
 samt vilken justering som gjorts av respektive krav. Det angavs också att
 åtgärderna skulle utföras i sju ”releaser” enligt nedan.
 
@@ -5672,23 +5672,23 @@ Sida 25 av 101
 
 <!-- sida 132 -->
 
-213.   När de åtgärder som framgick av restlistan levererats skulle, enligt p. 3.3 B)
+213\.   När de åtgärder som framgick av restlistan levererats skulle, enligt p. 3.3 B)
 förlikningsavtalet, kommunen betala 750000 kr till Gotit. (Gotit har ett
 skadeståndskrav kopplat till denna ersättning, mer om det i avsnitt
 M.4.3nedan.)
 
-214.   Vid tidpunkten för Kungsbackas hävning den 12 november 2024 var de fem
+214\.   Vid tidpunkten för Kungsbackas hävning den 12 november 2024 var de fem
 första releaserna utförda och levererade. Tidpunkten för leverans av de två sista
 releaserna hade då ännu inte inträtt.
 
-215.   Det kan noteras att förlikningsavtalet endast anger att åtgärderna som framgår
+215\.   Det kan noteras att förlikningsavtalet endast anger att åtgärderna som framgår
 av restlistan ska fullgöras. Det finns ingen skyldighet att presentera testprotokoll
 etc.
 
-216.   Leveransen av de fem första releaserna hade skett enligt följande.
+216\.   Leveransen av de fem första releaserna hade skett enligt följande.
 G.1.3.1 Release 1 (4 december 2023)
 
-217.   Kungsbacka gör gällande att följande åtgärder som omfattas av release 1 inte
+217\.   Kungsbacka gör gällande att följande åtgärder som omfattas av release 1 inte
 levererats:
 
 a.  2.2.28
@@ -5699,7 +5699,7 @@ c.  4.1.23
 d.  4.1.32a
 
 e.  4.1.48
-218.   Vad Kungsbacka gör gällande är felaktigt. Åtgärderna ovan hade levererats till
+218\.   Vad Kungsbacka gör gällande är felaktigt. Åtgärderna ovan hade levererats till
 den 4 december 2023 (som en del av Skolplatsen 23.5).13
 
 13 Se releasedokument Skolplatsen 23.5, bilaga S11
@@ -5708,31 +5708,31 @@ Sida 26 av 101
 
 <!-- sida 133 -->
 
-219.   Efter att Kungsbacka, trots att det inte funnits krav på detta, hade krävt
+219\.   Efter att Kungsbacka, trots att det inte funnits krav på detta, hade krävt
 testprotokoll för releasen har sådana levererats till Kungsbacka den
 22 december 2023.14
 
-220.   Kungsbacka har sedan gjort acceptanskontroller av funktionerna (något som inte
+220\.   Kungsbacka har sedan gjort acceptanskontroller av funktionerna (något som inte
 avtalats). Avseende vissa av de aktuella funktionerna har Kungsbacka haft vissa
 (felaktiga) anmärkningar. Detta är dock något som Kungsbacka, om kommunen
 är av uppfattningen att detta är relevant, har att utveckla i tvisten. De aktuella
 åtgärderna är levererade.
 
 G.1.3.2 Release 2 (8 februari 2024)
-221.   Kungsbacka gör gällande att följande åtgärder som omfattas av release 2 inte
+221\.   Kungsbacka gör gällande att följande åtgärder som omfattas av release 2 inte
 levererats:
 
 a.  2.5.17
 
 b.  2.5.24
 
-222.   Vad Kungsbacka gör gällande är felaktigt. Åtgärderna ovan hade levererats till
+222\.   Vad Kungsbacka gör gällande är felaktigt. Åtgärderna ovan hade levererats till
 den 8 februari 2024 (åtgärderna var en del av Skolplatsen version 23.4).15
-223.   Efter att Kungsbacka, trots att det inte funnits krav på detta, hade krävt
+223\.   Efter att Kungsbacka, trots att det inte funnits krav på detta, hade krävt
 testprotokoll för releasen har sådana levererats till Kungsbacka den 23 april
 2024.16
 
-224.   Kungsbacka gjorde sedan acceptanskontroller av funktionerna (något som inte
+224\.   Kungsbacka gjorde sedan acceptanskontroller av funktionerna (något som inte
 avtalats). Avseende vissa av de aktuella funktionerna har Kungsbacka haft vissa
 (felaktiga) anmärkningar. Detta är dock något som Kungsbacka, om kommunen
 är av uppfattningen att detta är relevant, har att utveckla i tvisten. De aktuella
@@ -5740,7 +5740,7 @@ avtalats). Avseende vissa av de aktuella funktionerna har Kungsbacka haft vissa
 
 G.1.3.3 Release 3 (9 april 2024)
 
-225.   Kungsbacka gör gällande att följande åtgärder som omfattas av release 3 inte
+225\.   Kungsbacka gör gällande att följande åtgärder som omfattas av release 3 inte
 levererats:
 a.  4.1.34
 
@@ -5762,26 +5762,26 @@ Sida 27 av 101
 
 g.  2.5.14
 
-226.   Vad Kungsbacka gör gällande är felaktigt.
-227.   Åtgärderna ovan levererades den 9 april 2024 (åtgärderna var en del av
+226\.   Vad Kungsbacka gör gällande är felaktigt.
+227\.   Åtgärderna ovan levererades den 9 april 2024 (åtgärderna var en del av
 Skolplatsen version 24.2).17
 
-228.   Efter att Kungsbacka, trots att det inte funnits krav på detta, hade krävt
+228\.   Efter att Kungsbacka, trots att det inte funnits krav på detta, hade krävt
 testprotokoll för releasen har sådana levererats till Kungsbacka den 23 april
 2024.18
 
-229.   Vad avser krav 2.5.14 gjordes efter diskussioner med Kungsbacka en justering av
+229\.   Vad avser krav 2.5.14 gjordes efter diskussioner med Kungsbacka en justering av
 åtgärden som en del av Skolplatsen version 24.3 som levererades den 18 juni
-2024.
+2024\.
 
-230.   Kungsbacka gjorde sedan acceptanskontroller av funktionerna (något som inte
+230\.   Kungsbacka gjorde sedan acceptanskontroller av funktionerna (något som inte
 avtalats). Avseende vissa av de aktuella funktionerna har Kungsbacka haft vissa
 (felaktiga) anmärkningar. Detta är dock något som Kungsbacka, om kommunen
 är av uppfattningen att detta är relevant, har att utveckla i tvisten. De aktuella
 åtgärderna är korrekt levererade.
 
 G.1.3.4 Release 4 (18 juni 2024)
-231.   Kungsbacka gör gällande att följande åtgärder som omfattas av release 4 inte
+231\.   Kungsbacka gör gällande att följande åtgärder som omfattas av release 4 inte
 levererats:
 
 a.  2.5.01
@@ -5793,13 +5793,13 @@ d.  2.5.10
 
 e.  4.1.42
 
-232.   Vad Kungsbacka gör gällande är felaktigt.
-233.   Åtgärderna ovan levererades den 18 juni 2024 (åtgärderna var en del av
+232\.   Vad Kungsbacka gör gällande är felaktigt.
+233\.   Åtgärderna ovan levererades den 18 juni 2024 (åtgärderna var en del av
 
 Skolplatsen version 24.3).19 Dagen efter upptäcktes dock tekniska problem och
 releasen fick backas. Den 28 juni 2024 släpptes en korrigerad release där
 samtliga ovan angivna åtgärder var levererade.
-234.   Vad avser krav 2.5.01 gjordes efter diskussioner med Kungsbacka en justering av
+234\.   Vad avser krav 2.5.01 gjordes efter diskussioner med Kungsbacka en justering av
 åtgärden som en del av Skolplatsen version 24.4 som levererades den
 10 september 2024.
 
@@ -5810,18 +5810,18 @@ Sida 28 av 101
 
 <!-- sida 135 -->
 
-235.   Tyvärr har krav 2.5.10 och 4.1.10 fallit ur releasedokumentationen för release
+235\.   Tyvärr har krav 2.5.10 och 4.1.10 fallit ur releasedokumentationen för release
 24.3. Detta påpekas i releasedokumentet för release 24.4 där kraven är
 upptagna som den första punkten 1.1.20
 
-236.   Kungsbacka gjorde sedan acceptanskontroller av funktionerna (något som inte
+236\.   Kungsbacka gjorde sedan acceptanskontroller av funktionerna (något som inte
 avtalats). Avseende vissa av de aktuella funktionerna har Kungsbacka haft vissa
 (felaktiga) anmärkningar. Detta är dock något som Kungsbacka, om kommunen
 är av uppfattningen att detta är relevant, har att utveckla i tvisten. De aktuella
 åtgärderna är korrekt levererade.
 
 G.1.3.5 Release 5 (10 september 2024)
-237.   Kungsbacka gör gällande att följande åtgärder som omfattas av release 5 inte
+237\.   Kungsbacka gör gällande att följande åtgärder som omfattas av release 5 inte
 levererats:
 
 a.  2.5.18
@@ -5834,22 +5834,22 @@ d.  2.5.15
 e.  3.3.05
 
 f.  5.3.08
-238.   Vad Kungsbacka gör gällande är felaktigt.
+238\.   Vad Kungsbacka gör gällande är felaktigt.
 
-239.   Åtgärderna ovan levererades den 10 september 2024 (åtgärderna var en del av
+239\.   Åtgärderna ovan levererades den 10 september 2024 (åtgärderna var en del av
 Skolplatsen version 24.4).21
 
-240.   Efter att Kungsbacka, trots att det inte funnits krav på detta, hade krävt
+240\.   Efter att Kungsbacka, trots att det inte funnits krav på detta, hade krävt
 testprotokoll för releasen har sådana levererats till Kungsbacka.22
 
-241.   Kungsbacka gjorde sedan acceptanskontroller av funktionerna (något som inte
+241\.   Kungsbacka gjorde sedan acceptanskontroller av funktionerna (något som inte
 avtalats). Avseende vissa av de aktuella funktionerna har Kungsbacka haft vissa
 (felaktiga) anmärkningar. Detta är dock något som Kungsbacka, om kommunen
 är av uppfattningen att detta är relevant, har att utveckla i tvisten. De aktuella
 åtgärderna är korrekt levererade.
 
 G.1.3.6 Generell kommentar
-242.   Som anförs ovan har Kungsbacka efter att åtgärderna utförts haft åsikter om att
+242\.   Som anförs ovan har Kungsbacka efter att åtgärderna utförts haft åsikter om att
 det varit fel i åtgärderna eller att Kungsbacka inte kunnat testa dessa (ofta av
 praktiska skäl). Detta är dock för Kungsbacka att utveckla i målet om det alltjämt
 görs gällande. Det kan noteras att de påståenden om fel och testning som
@@ -5862,22 +5862,22 @@ Sida 29 av 101
 
 <!-- sida 136 -->
 
-243.   Det kan också noteras att förlikningsavtalet inte anger att testprotokoll ska
+243\.   Det kan också noteras att förlikningsavtalet inte anger att testprotokoll ska
 levereras eller att acceptanskontroller har någon särskild legal innebörd.
 
-244.   De aktuella åtgärderna är levererade och var levererade vid tidpunkten för
+244\.   De aktuella åtgärderna är levererade och var levererade vid tidpunkten för
 hävningen.
 
 G.1.3.7 Slutsats
-245.   Gotit har inte varit försenat med leverans av åtgärderna i restlistan.
+245\.   Gotit har inte varit försenat med leverans av åtgärderna i restlistan.
 
 G.2    Leveransen av etapp 2 (grundskola och förskola) har skett korrekt och i tid
 
 G.2.1  Avtalssituationen
-246.   Avtalad leveransdag för etapp 2 (grundskola och förskola) var enligt p. 3.2
+246\.   Avtalad leveransdag för etapp 2 (grundskola och förskola) var enligt p. 3.2
 förlikningsavtalet den 11 november 2024.
 
-247.   För att nå avtalad leveransdag ska följande steg passeras enligt parternas avtal.
+247\.   För att nå avtalad leveransdag ska följande steg passeras enligt parternas avtal.
 
 a.  Steg 1:Gotits testning (i testmiljö)
 Innan Gotit beredde Kungsbacka tillgång till systemet skulle Gotit
@@ -5917,40 +5917,40 @@ Sida 30 av 101
 
 G.2.2  Vilka krav gällde för leveransen?
 
-248.   En helt central fråga för vad som ska levereras är naturligtvis vilka krav som ska
+248\.   En helt central fråga för vad som ska levereras är naturligtvis vilka krav som ska
 uppfyllas vid leveransen.
-249.   De krav som i allt väsentligt är relevanta för denna tvist är de s.k.
+249\.   De krav som i allt väsentligt är relevanta för denna tvist är de s.k.
 
 funktionskraven som finns i Bilaga C1 Avtalade krav.
-250.   Till det undertecknade avtalet fanns en version av Bilaga C1 Avtalade krav.23 Det
+250\.   Till det undertecknade avtalet fanns en version av Bilaga C1 Avtalade krav.23 Det
 är inte detta dokument som Kungsbacka gett in i målet (såsom Bilaga C1
 Avtalade krav).
 
-251.   Tanken med Bilaga C1 Avtalade krav var att det skulle vara ett levande
+251\.   Tanken med Bilaga C1 Avtalade krav var att det skulle vara ett levande
 dokument som skulle justeras under införandeprojektets gång. Hur detta skulle
 gå till framgår i avsnitt 1.4 Bilaga C1 och avsnitt 7 Bilaga C5 allmänna
 bestämmelser till avtalet.
 
-252.   Det fanns två huvudtyper av kravändringar inom ramen för ändringshantering
+252\.   Det fanns två huvudtyper av kravändringar inom ramen för ändringshantering
 under avtalet:
 
 a.  Ändrat kravinnehåll
 b.  Specificeringar
 
-253.   Enligt avtalet (se avsnitt 1.4.2 Bilaga C1) är en specificering en ändring av de
+253\.   Enligt avtalet (se avsnitt 1.4.2 Bilaga C1) är en specificering en ändring av de
 avtalade kraven som enbart innebär ett förtydligande eller en konkretisering av
 ett befintligt krav. En specificering får uttryckligen inte medföra merarbete,
 tidsförlängning eller ökade kostnader – om den gör det, övergår den till att vara
 ändrat kravinnehåll.
 
-254.   Enligt avtalet (se bilaga p. 7.5 Bilaga C5 allmänna bestämmelser) var beslut om
+254\.   Enligt avtalet (se bilaga p. 7.5 Bilaga C5 allmänna bestämmelser) var beslut om
 ändringar av avtalade krav endast bindande mellan parterna om överens-
 kommelsen hade (i) genomförts under ett löpande ändringshanteringsmöte, (ii)
 skriftligen bekräftats i ett av Kungsbacka justerat protokoll över det aktuella
 mötet, samt (iii) en skriftlig verifiering att beslutet inte stod i strid med
 ändringsförbudet.
 
-255.   Därtill kom att för att en ändring skulle vara bindande under avtalet en i avtalet
+255\.   Därtill kom att för att en ändring skulle vara bindande under avtalet en i avtalet
 särskild angiven förutsättning att ändringen var införd i Bilaga C1 Avtalade krav.
 Detta framgår i avsnitt 1.1 Bilaga C1:
 
@@ -5960,37 +5960,37 @@ Sida 31 av 101
 
 <!-- sida 138 -->
 
-256.   Som redogörs för i nästa avsnitt vållade detta stora problem i etapp 2 då
+256\.   Som redogörs för i nästa avsnitt vållade detta stora problem i etapp 2 då
 Kungsbacka, trots att det var Kungsbackas ansvar att föra dokumentet, vägrade
 uppdatera Bilaga C1 Avtalade krav.
 
 G.2.3  Införandeprojektet för etapp 2
 
-257.   Införandeprojektet för etapp 2 (grundskola och förskola) upplevdes av Gotit som
+257\.   Införandeprojektet för etapp 2 (grundskola och förskola) upplevdes av Gotit som
 problematiskt.
 
-258.   I början av 2024 upplevde Gotit att Kungsbackas personal började fjärma sig från
+258\.   I början av 2024 upplevde Gotit att Kungsbackas personal började fjärma sig från
 projektet och att kommunen närmast eftersträvade att det skulle misslyckas.
 Kommunens vidtog också aktiva åtgärder för att försvåra projektets
 genomförande.
-259.   Ett tydligt exempel på detta var hur Kungsbacka administrerade ändrings-
+259\.   Ett tydligt exempel på detta var hur Kungsbacka administrerade ändrings-
 hanteringen (ett annat när Kungsbacka försökte hindra konverteringen till
 produktionsmiljö, se avsnitt G.2.5 nedan).
 
-260.   I ett införandeprojekt som det nu aktuella är det närmast självklart att vissa krav
+260\.   I ett införandeprojekt som det nu aktuella är det närmast självklart att vissa krav
 behöver ändras under projektets gång.
 
-261.   Men för leverantören är det helt fundamentalt att önskade ändringar meddelas
+261\.   Men för leverantören är det helt fundamentalt att önskade ändringar meddelas
 av beställaren i tid och på ett strukturerat sätt.
 
-262.   I införandeprojektet var endast ändringar som förts in i Bilaga C1 Avtalade krav
+262\.   I införandeprojektet var endast ändringar som förts in i Bilaga C1 Avtalade krav
 bindande – vilket uttryckligen framgick av avsnitt 1.1 i samma dokument.
-263.   Under hösten 2023 och 2024 diskuterade parterna olika ändringar av de
+263\.   Under hösten 2023 och 2024 diskuterade parterna olika ändringar av de
 avtalade kraven och var i vissa delar principiellt överens om dessa (i andra delar
 var man inte överens). Men Kungsbacka återkom inte med en uppdaterad
 version av Bilaga C1 Avtalade krav.
 
-264.   Detta orsakade stora problem för Gotit. Bolaget behövde självklart veta vilka
+264\.   Detta orsakade stora problem för Gotit. Bolaget behövde självklart veta vilka
 krav som gällde för att kunna driva införandeprojektet framåt. Mot bakgrund av
 erfarenheterna från etapp 1 – där Kungsbacka överlämnade en ny version av
 Bilaga C1 Avtalade krav dagen före leverans – var frågan om uppdateringen av
@@ -6000,26 +6000,26 @@ Sida 32 av 101
 
 <!-- sida 139 -->
 
-265.   Redan i januari 2024 bad Gotit Kungsbacka att återkomma med en ny version av
+265\.   Redan i januari 2024 bad Gotit Kungsbacka att återkomma med en ny version av
 Bilaga C1 Avtalade krav. Detta framgår bl.a. av ett mejl från Tim Mighall (Gotit)
 till Kungsbacka den 15 januari 2024.24
 
-266.   Även muntligt tog Gotits personal upp frågan med kommunen vid ett flertal
+266\.   Även muntligt tog Gotits personal upp frågan med kommunen vid ett flertal
 tillfällen.
 
-267.   Men det kom ingen ny version av Bilaga C1 Avtalade krav från kommunen. Den
+267\.   Men det kom ingen ny version av Bilaga C1 Avtalade krav från kommunen. Den
 version av BilagaC1 Avtalade krav som Gotit därmed hade att förhålla sig till
 fortsatte vara den version som Kungsbacka upprättat dagen före leveransen av
 etapp 1 den 1 december 2022.
-268.   Den 29 augusti 2024 – alltså bara en månad innan Gotit behövde ge Kungsbacka
+268\.   Den 29 augusti 2024 – alltså bara en månad innan Gotit behövde ge Kungsbacka
 tillgång till systemet – kontaktade Andreas Öhman på Gotit Kungsbacka per mejl
 
 och angav följande.25
 
-269.   Anna Hedlund på Kungsbacka svarade samma dag den 29 augusti 2024 följande
+269\.   Anna Hedlund på Kungsbacka svarade samma dag den 29 augusti 2024 följande
 på Andreas Öhmans mejl.26
 
-270.   Svaret är anmärkningsvärt på flera sätt.
+270\.   Svaret är anmärkningsvärt på flera sätt.
 
 24 Bilaga S25.
 25 Bilaga S28.
@@ -6028,42 +6028,42 @@ Sida 33 av 101
 
 <!-- sida 140 -->
 
-271.   Gotit hade gång på gång efterfrågat en uppdaterad version av Bilaga C1 Avtalade
+271\.   Gotit hade gång på gång efterfrågat en uppdaterad version av Bilaga C1 Avtalade
 krav, vilket enligt parternas avtal var ett krav för att ett avtalat krav skulle
 ändras; dvs. för att en i och för sig avtalad ändring skulle vara giltig under
 avtalet. Men Kungsbacka hade inte kommit med en sådan ny version. I stället
 hänvisades Gotit till godkända ändringar, trots att dessa inte blivit giltiga genom
 att föras in i Bilaga C1 Avtalade krav.
 
-272.   Kommunen tycktes inte förstå sitt eget avtal och försatte med detta
+272\.   Kommunen tycktes inte förstå sitt eget avtal och försatte med detta
 leverantören i en närmast omöjlig position. Att då anklaga Gotit för att inte ta
 sitt ansvar framstår som talande för kommunens agerande under
 införandeprojektet.
 
-273.   Anna Hedlund avslutade mejlet med att ange att Gotit skulle få en ny version av
+273\.   Anna Hedlund avslutade mejlet med att ange att Gotit skulle få en ny version av
 Bilaga C1 Avtalade krav. Men hon angav ingen tidpunkt för detta helt centrala
 dokument.
 
-274.   Fredagen den 30 augusti 2024 svarade Andreas Öhman på Gotit följande till
+274\.   Fredagen den 30 augusti 2024 svarade Andreas Öhman på Gotit följande till
 Kungsbacka i anledning av mejlet ovan.27
 
-275.   Andreas Öhman angav alltså att han förväntade sig en uppdaterad version av
+275\.   Andreas Öhman angav alltså att han förväntade sig en uppdaterad version av
 Bilaga C1 Avtalade krav senast kl. 13.00 måndagen den 2 september 2024.
 
-276.   Andreas Öhmans krav kan inte uppfattas som konstigt med tanke på att Gotit
+276\.   Andreas Öhmans krav kan inte uppfattas som konstigt med tanke på att Gotit
 enligt avtalet senast den 30 september 2024 skulle bereda Kungsbacka tillgång
 till systemet i produktionsmiljö och överlämna testprotokoll för testning (som
 skulle göras mot kraven i Bilaga C1 Avtalade krav).
 
-277.   Gotit behövde helt enkelt veta vilka avtalade krav bolaget hade att förhålla sig
+277\.   Gotit behövde helt enkelt veta vilka avtalade krav bolaget hade att förhålla sig
 till när systemet konfigurerades och under den egentestning som Gotit skulle
 genomföra under september månad (jfr p. 214 ovan, steg 1). Den 2september
 2024 var naturligtvis egentligen alldeles för sent för att få klarhet i detta.
 
-278.   På Andreas Öhmans mejl svarade Anna Hedlund på kommunen samma dag den
+278\.   På Andreas Öhmans mejl svarade Anna Hedlund på kommunen samma dag den
 30 augusti 2024 följande.28
 
-279.   Kungsbacka angav alltså att uppdaterandet av Bilaga C1 Avtalade krav (dvs.
+279\.   Kungsbacka angav alltså att uppdaterandet av Bilaga C1 Avtalade krav (dvs.
 Kungsbackas krav på systemet) var en administrativ uppgift som låg under Gotits
 
 27 Bilaga S28.
@@ -6075,36 +6075,36 @@ Sida 34 av 101
 ansvar. Anna Hedlund angav vidare att ”Gotit ska följa avtalet och det är Gotits
 ansvar att veta vad som ska levereras.”
 
-280.   Återigen kan konstateras att Kungsbacka inte agerade konstruktivt eller
+280\.   Återigen kan konstateras att Kungsbacka inte agerade konstruktivt eller
 hjälpsamt. Vidare är det som anförts från kommunens sida fundamentalt fel. För
 att de avtalade kraven i Bilaga C1 Avtalade krav skulle ändras var ett uttryckligt
 krav i avtalet att en ny version av Bilaga C1 Avtalade krav upprättades.
 
-281.   Kommunen upprättade aldrig någon ny version av Bilaga C1 Avtalade krav. Den
+281\.   Kommunen upprättade aldrig någon ny version av Bilaga C1 Avtalade krav. Den
 version av Bilaga C1 Avtalade krav som Gotit hade att förhålla sig till var alltså
 den från den 1 december 2022.
 G.2.4  Gotits testning och testprotokoll
 
-282.   Enligt p. 8.2 Bilaga C5 Allmänna bestämmelser skulle Gotit kvalitetssäkra
+282\.   Enligt p. 8.2 Bilaga C5 Allmänna bestämmelser skulle Gotit kvalitetssäkra
 systemet genom egenkontroll. Det anges särskilt att testningen ska ske i
 testmiljö.
 
-283.   Testningen av funktionskraven har skett mot den enligt avtalet gällande Bilaga
+283\.   Testningen av funktionskraven har skett mot den enligt avtalet gällande Bilaga
 C1 Avtalade krav daterad den 1 december 2022.
 
-284.   Gotit har genomfört egenkontrollen enligt parternas avtal och upprättat
+284\.   Gotit har genomfört egenkontrollen enligt parternas avtal och upprättat
 testprotokoll för detta. Dessa ges in som bilaga S30. Som anges nedan
 överlämnades dessa till Kungsbacka den 18 september 2024.
-285.   Det måste betonas att testning i testmiljö inte är detsamma som testning i
+285\.   Det måste betonas att testning i testmiljö inte är detsamma som testning i
 produktionsmiljö. Det är inte möjligt att genomföra alla åtgärder i en testmiljö
 som kan göras i en produktionsmiljö där systemet exempelvis integreras på
 
 riktigt med andra system.
-286.   Testprotokollen har varit korrekta och fullständiga. Vad Kungsbacka gör gällande
+286\.   Testprotokollen har varit korrekta och fullständiga. Vad Kungsbacka gör gällande
 om oriktiga uppgifter i protokollen och ofullständigheter stämmer inte och har
 inte i målet utvecklats av kommunen.
 
-287.   En stor del av Kungsbackas påståenden rörande Gotits testprotokoll förefaller
+287\.   En stor del av Kungsbackas påståenden rörande Gotits testprotokoll förefaller
 bero på att Kungsbacka, i stället för att såsom avtalats genomföra sin testning
 för acceptanskontroll i produktionsmiljö, försökt replikera testningen i en
 testmiljö som vid tidpunkten inte var lämpad för detta (detta förklaras mer
@@ -6112,10 +6112,10 @@ utförligt i avsnitt G.2.7.1 nedan).
 
 G.2.5  Kungsbacka försökte hindra att etapp 2 överfördes till produktionsmiljö
 
-288.   Enligt tidsplanen skulle Gotit ge Kungsbacka tillgång till systemet i
+288\.   Enligt tidsplanen skulle Gotit ge Kungsbacka tillgång till systemet i
 produktionsmiljö den 18 september 2024. Gotit var också redo att leverera
 systemet till detta datum.
-289.   Inför överlämnandet påbörjade Gotit en konvertering av etapp 2 till
+289\.   Inför överlämnandet påbörjade Gotit en konvertering av etapp 2 till
 produktionsmiljö (i praktiken så laddades konfigurationen och data upp i den
 miljö som kommunen sedan skulle använda). En del av detta var en migrering av
 
@@ -6128,19 +6128,19 @@ Sida 35 av 101
 uppenbarligen nödvändigt för att det skulle vara möjligt att ge Kungsbacka
 tillgång till systemet i produktionsmiljö.
 
-290.   Att Gotit skulle göra detta var något som kommunen länge varit medveten om;
+290\.   Att Gotit skulle göra detta var något som kommunen länge varit medveten om;
 det låg i den avtalade leveransproceduren. Det framgick direkt av
 införandeplanen där det angavs att konvertering till produktionsmiljö skulle ske
 3–13 september 2024.29
 
-291.   Själva migreringen av data hade tidigare gjorts i testmiljö under september och
+291\.   Själva migreringen av data hade tidigare gjorts i testmiljö under september och
 oktober 2023 efter att Kungsbacka översänt sin data till Gotit den 11 september
-2023. Gotit hade kontrollerat migreringen. Även Kungsbacka hade kontrollerat
+2023\. Gotit hade kontrollerat migreringen. Även Kungsbacka hade kontrollerat
 migreringen. Inom projektgruppen hade denna migrering diskuterats under
 framför allt oktober 2023 och kommunen hade i december 2023 önskat vissa
 justeringar. Gotit genomförde dessa justeringar.
 
-292.   Den 10 september 2024, dvs. åtta dagar innan Kungsbacka skulle få tillgång till
+292\.   Den 10 september 2024, dvs. åtta dagar innan Kungsbacka skulle få tillgång till
 systemet, återkom plötsligt Kungsbacka per mejl och gjorde gällande att Gotit
 inte fick ladda upp systemet i produktionsmiljö då Kommunen menade att:30
 
@@ -6151,15 +6151,15 @@ b.  Att Kungsbacka inte kontrollerat och godkänt migreringen i testmiljön.
 c.  Att ekonomikörningarna i sin helhet skulle vara färdiga och genomtestade
 långt före acceptanskontrollen.
 
-293.   Vad Kungsbacka gjorde gällande stämde inte med avtalet. Det som sades om
+293\.   Vad Kungsbacka gjorde gällande stämde inte med avtalet. Det som sades om
 migreringen var också anmärkningsvärt. Menade verkligen Kungsbacka att man
 inte kontrollerat migreringen i testmiljö trots att man haft nästan ett år på sig
 att göra det?
 
-294.   Den 12 september 2024 besvarade Gotit kommunens påståenden och påpekade
+294\.   Den 12 september 2024 besvarade Gotit kommunens påståenden och påpekade
 att det kommunen gjorde gällande inte var korrekt.31 Det Kungsbacka påstod
 stod inte i införandeplanen och stämde inte heller i sak.
-295.   Samma dag, den 12 september 2024, återkom Kungsbackas ombud, advokat
+295\.   Samma dag, den 12 september 2024, återkom Kungsbackas ombud, advokat
 Pontus Etéus. Tonen (och osakligheten) var nu uppskruvad till högsta nivå och
 Kungsbacka påstod att Gotits konvertering till produktionsmiljö utgjorde ett
 brott – ett grovt sådant.32
@@ -6172,35 +6172,35 @@ Sida 36 av 101
 
 <!-- sida 143 -->
 
-296.   Gotit besvarade Kungsbackas grundlösa anklagelser redan samma dag.33
+296\.   Gotit besvarade Kungsbackas grundlösa anklagelser redan samma dag.33
 Varefter Kungsbackas ombud den 17 september 2024 repeterade de grundlösa
 anklagelserna om brott i form av dataintrång.34 Detta bemöttes av Gotits ombud
 den 18 september 2024.35
 
-297.   Det kan konstateras att Gotit samma dag som sitt sista brev i denna fråga, den
+297\.   Det kan konstateras att Gotit samma dag som sitt sista brev i denna fråga, den
 18 september 2024, gav Kungsbacka tillgång till systemet i produktionsmiljö.
 Kungsbacka tog emot systemet och påbörjade tester i det. Kungsbacka, har
 såvitt Gotit känner till, inte polisanmält det påstådda (grova) brottet.
 
-298.   Kungsbackas försök att hindra att etapp 2 överfördes till produktionsmiljö
+298\.   Kungsbackas försök att hindra att etapp 2 överfördes till produktionsmiljö
 framstår för Gotit som ännu ett försök från Kungsbackas sida att hindra
 projektets genomförande.
 
-299.   Det är vidare talande för Kungsbackas agerande, att kommunen grundlöst
+299\.   Det är vidare talande för Kungsbackas agerande, att kommunen grundlöst
 anklagade Gotit för mycket allvarliga brott när bolaget fullgjorde sina
 avtalsförpliktelser, för att därefter påbörja tester i det system som kommunen
 själv påstod vara olagligt överfört.
 
 G.2.6  Kungsbacka fick tillgång till systemet och testprotokollen överlämnades
-300.   Den 18 september 2024 fick Kungsbacka tillgång till systemet för etapp 2 i
+300\.   Den 18 september 2024 fick Kungsbacka tillgång till systemet för etapp 2 i
 produktionsmiljö och Gotit överlämnade testprotokollen för Gotits egenkontroll
 till Kungsbacka.36
 
-301.   Allt detta har varit helt i enlighet med avtalet.
+301\.   Allt detta har varit helt i enlighet med avtalet.
 
 G.2.7  Kungsbackas acceptanskontroll
 
-302.   Kungsbacka var enligt avtalet skyldigt att påbörja en acceptanskontroll av
+302\.   Kungsbacka var enligt avtalet skyldigt att påbörja en acceptanskontroll av
 systemet efter att kommunen fått tillgång till systemet och testprotokollen.
 Enligt Bilaga C5 Allmänna bestämmelser till avtalet gällde bl.a. följande avseende
 acceptanskontrollen.
@@ -6213,7 +6213,7 @@ Sida 37 av 101
 
 <!-- sida 144 -->
 
-303.   Följande gällde alltså:
+303\.   Följande gällde alltså:
 
 a.  Kommunens acceptanskontroll skulle ske i produktionsmiljö.
 b.  Kommunen skulle kontrollera att systemet uppfyllde avtalade krav – dvs.
@@ -6222,13 +6222,13 @@ Bilaga C1 Avtalade krav.
 c.  Kommunen skulle anteckna fel och brister som upptäcktes i
 acceptanskontrollen i ett särskilt protokoll över acceptanskontrollen.
 
-304.   Enligt informationen Gotit fick till sig påbörjade dock inte Kungsbacka någon
+304\.   Enligt informationen Gotit fick till sig påbörjade dock inte Kungsbacka någon
 acceptanskontroll enligt avtalet. Detta eftersom personer inom Kungsbacka
 kommun redan tidigare hade bestämt sig för att kommunen inte längre ville ha
 Skolplatsen. Kommunens företrädare hade också approacherat Gotit med
 trevare om att lägga ned hela projektet.
 
-305.   I stället för en riktig acceptanskontroll enligt avtal genomförde kommunen egna
+305\.   I stället för en riktig acceptanskontroll enligt avtal genomförde kommunen egna
 ostrukturerade tester i systemet som Kungsbacka nu i detta mål kallar för en
 ”acceptanskontroll”. Denna s.k. acceptanskontroll var helt förfelad och inte
 förenlig med avtalet då kommunen:
@@ -6240,13 +6240,13 @@ mot andra ändrade krav.
 c.  Inte, såvitt Gotit känner till, fört korrekt protokoll över
 acceptanskontrollen.
 
-306.   Gotit kommer att redogöra för detta nedan.
+306\.   Gotit kommer att redogöra för detta nedan.
 G.2.7.1 Kommunen genomförde inte acceptanskontrollen i produktionsmiljö
 
-307.   Som redogjorts för ovan skulle Kungsbacka enligt avtalet genomföra
+307\.   Som redogjorts för ovan skulle Kungsbacka enligt avtalet genomföra
 acceptanskontrollen i produktionsmiljö.
 
-308.   Kommunen har trots detta utfört majoriteten (måhända all, oklart för Gotit) av
+308\.   Kommunen har trots detta utfört majoriteten (måhända all, oklart för Gotit) av
 sin testning i testmiljö. Detta utan att kommunen förstått hur testmiljön
 fungerat.
 
@@ -6266,28 +6266,28 @@ b.  Produktionsmiljön är däremot det "skarpa" systemet — den version som
 faktiskt används i den dagliga verksamheten, med riktiga elevuppgifter,
 scheman och så vidare. Det är där allt arbete sker på riktigt.
 
-309.   Det är viktigt att notera att en testmiljö aldrig fullt ut kan spegla produktions-
+309\.   Det är viktigt att notera att en testmiljö aldrig fullt ut kan spegla produktions-
 miljön – integrationer mot andra system, datavolymer och användarbelastning
 skiljer sig åt. Det är just därför avtalet förutsatte att acceptanskontrollen skulle
 ske i produktionsmiljön.
 
-310.   Testmiljön var heller inte uppdaterad för att Kungsbacka skulle göra sin testning
+310\.   Testmiljön var heller inte uppdaterad för att Kungsbacka skulle göra sin testning
 i den (för enligt avtalet skulle kommunens testning ske i produktionsmiljön).
-311.   I testmiljön hade exempelvis ingen läsårsuppflytt gjorts sommaren 2024. Detta
+311\.   I testmiljön hade exempelvis ingen läsårsuppflytt gjorts sommaren 2024. Detta
 innebar att tester som utfördes i testmiljön på hösten 2024 saknade bl.a.
 klassplacerade elever, betygskopplingar, lärarkopplingar, nationella provresultat,
 terminsbetyg, betygskatalog och nya barnomsorgsplaceringar för aktuellt läsår.
 
-312.   Allt detta var något som hade gått att hantera om kommunen förstått hur
+312\.   Allt detta var något som hade gått att hantera om kommunen förstått hur
 testmiljön fungerade. Men enligt avtalet skulle kommunen inte testa i testmiljön
 och kommunen frågade heller inte hur situationen skulle hanteras.
 
-313.   Utifrån Kungsbackas handlingar framstår det dessutom som om kommunen
+313\.   Utifrån Kungsbackas handlingar framstår det dessutom som om kommunen
 egentligen inte genomfört en acceptanskontroll utan försökt replikera Gotits
 testning i testmiljön (vilket inte var praktiskt möjligt utan en läsårsuppflytt i
 testmiljön).
 
-314.   Att kommunens testning gjorts i testmiljön och att detta inte fungerat för
+314\.   Att kommunens testning gjorts i testmiljön och att detta inte fungerat för
 kommunen framgår direkt av kommunens noteringar i aktbilaga 13 som
 Kungsbacka gett in i målet. Avseende t.ex. krav 5.3.07 (Som lärare vill jag kunna
 registrera betyg i systemet för att eleverna har rätt till kunskapsbedömning) har
@@ -6298,44 +6298,44 @@ grupper eller betyg att visa. Det finns inga registrerade betyg i testmiljön.
 Kommunen kan inte på egen hand skapa fiktiva betyg i testmiljön då Gotit
 har skapat ett nytt läsår men inte flyttat upp eleverna och i övrigt
 iordningställt miljön.” (Egen understrykning)
-315.   Skulle motsvarande test gjorts i produktionsmiljön hade motsvarande problem
+315\.   Skulle motsvarande test gjorts i produktionsmiljön hade motsvarande problem
 inte uppstått.
 
 Sida 39 av 101
 
 <!-- sida 146 -->
 
-316.   Det är alltså uppenbart att Kungsbackas testning inte skett i produktionsmiljö.
+316\.   Det är alltså uppenbart att Kungsbackas testning inte skett i produktionsmiljö.
 Det kan noteras att ordet ”testmiljö” nämns 209 gånger i aktbilaga 13. Det
 framstår som att i princip hela kommunens acceptanskontroll skett i testmiljö.
 
-317.   Att Kungsbacka inte gjort sin acceptanskontroll i produktionsmiljö gör denna i
+317\.   Att Kungsbacka inte gjort sin acceptanskontroll i produktionsmiljö gör denna i
 praktiken helt meningslös och utgör ett brott mot parternas avtal.
 
 G.2.7.2 Kommunen har inte testat mot de krav som fanns i Bilaga C1 Avtalade krav
-318.   Men problemen med Kungsbackas i sig meningslösa testning är mer omfattande
+318\.   Men problemen med Kungsbackas i sig meningslösa testning är mer omfattande
 än så. Kungsbacka har inte ens testat mot de krav som parterna avtalat i Bilaga
 C1 Avtalade krav.
 
-319.   Som redogjorts för ovan var det extremt tydligt i avtalet att det var de krav som
+319\.   Som redogjorts för ovan var det extremt tydligt i avtalet att det var de krav som
 fanns i Bilaga C1 Avtalade krav som gällde mellan parterna. Gotit hade försökt
 förmå Kungsbacka att ta fram en ny version av Bilaga C1 Avtalade krav under
 införandeprojektet av etapp 2 men Kungsbacka hade vägrat.
 
-320.   Trots detta har Kungsbacka inte baserat sin acceptanskontroll på Bilaga C1
+320\.   Trots detta har Kungsbacka inte baserat sin acceptanskontroll på Bilaga C1
 Avtalade krav, utan i stället testat systemet mot egenhändigt konstruerade krav
 som saknar förankring i avtalet.
 
-321.   Nedan följer sex exempel (det finns många fler).
-322.   I Bilaga C1 Avtalade krav anges följande krav 5.4.2.37
+321\.   Nedan följer sex exempel (det finns många fler).
+322\.   I Bilaga C1 Avtalade krav anges följande krav 5.4.2.37
 
-323.   Kungsbacka har dock inte testat mot detta krav utan mot följande krav.38
+323\.   Kungsbacka har dock inte testat mot detta krav utan mot följande krav.38
 
-324.   Kravet är ett helt annat än det avtalade kravet. Kommunen har bl.a. lagt till ett
+324\.   Kravet är ett helt annat än det avtalade kravet. Kommunen har bl.a. lagt till ett
 helt nytt "OBS!"-block om att närhetsprincipen ska tillämpas på individnivå med
 "relativ närhet" som avgörande.
 
-325.   Detta finns överhuvudtaget inte i Bilaga C1 Avtalade krav och förutsätter en GIS-
+325\.   Detta finns överhuvudtaget inte i Bilaga C1 Avtalade krav och förutsätter en GIS-
 baserad adress-till-skola-motor – ett fundamentalt nytt tekniskt krav. I
 acceptanskontrollen har Kungsbacka, föga förvånande, underkänt funktionen
 avseende detta nya ”krav”.
@@ -6346,21 +6346,21 @@ Sida 40 av 101
 
 <!-- sida 147 -->
 
-326.   I Bilaga C1 Avtalade krav anges följande krav 5.4.3.
+326\.   I Bilaga C1 Avtalade krav anges följande krav 5.4.3.
 
-327.   Kungsbacka har dock inte testat mot detta krav utan mot följande krav.39
+327\.   Kungsbacka har dock inte testat mot detta krav utan mot följande krav.39
 
-328.   Kravet är ett helt annat än det avtalade kravet. Även här har kommunen har lagt
+328\.   Kravet är ett helt annat än det avtalade kravet. Även här har kommunen har lagt
 till ett helt nytt "OBS!"-block om att närhetsprincipen ska tillämpas på
 individnivå med "relativ närhet" som avgörande.
-329.   Detta finns överhuvudtaget inte i Bilaga C1 och förutsätter en GIS-baserad
+329\.   Detta finns överhuvudtaget inte i Bilaga C1 och förutsätter en GIS-baserad
 adress-till-skola-motor – ett fundamentalt nytt tekniskt krav. Kommunen har
 också gjort omfattande andra ändringar. I acceptanskontrollen har Kungsbacka
 
 underkänt funktionen avseende även detta nya ”krav”.
-330.   I Bilaga C1 Avtalade krav anges följande krav 3.3.4.
+330\.   I Bilaga C1 Avtalade krav anges följande krav 3.3.4.
 
-331.   Kungsbacka har dock inte testat mot detta krav utan i stället testat mot fyra
+331\.   Kungsbacka har dock inte testat mot detta krav utan i stället testat mot fyra
 separata krav.40
 
 39 Ab 13.
@@ -6369,35 +6369,35 @@ Sida 41 av 101
 
 <!-- sida 148 -->
 
-332.   Kravet är ett helt annat än det avtalade kravet. I acceptanskontrollen har
+332\.   Kravet är ett helt annat än det avtalade kravet. I acceptanskontrollen har
 Kungsbacka underkänt funktionen avseende dessa nya ”krav”.
 
-333.   Och inte nog med detta, i denna process när Kungsbacka (helt felaktigt) ”räknar”
+333\.   Och inte nog med detta, i denna process när Kungsbacka (helt felaktigt) ”räknar”
 antalet krav som kommunen menar inte är uppfyllda (se t.ex. p. 51 och 147
 stämningsansökan) räknas detta krav som fyra separata krav.
 
-334.   Kungsbacka har alltså på eget bevåg – utan stöd i avtalet och utan att ha
+334\.   Kungsbacka har alltså på eget bevåg – utan stöd i avtalet och utan att ha
 hanterat ändringen genom den ordning för kravjusteringar som avtalet
 föreskriver – ensidigt skrivit om ett enda avtalat krav till fyra nya, mer
 långtgående krav.
-335.   Därefter har kommunen underkänt systemet mot vart och ett av dessa
+335\.   Därefter har kommunen underkänt systemet mot vart och ett av dessa
 självkonstruerade krav. I stämningsansökan har kommunen sedan påstått att
 utfallet (från sin i sig meningslösa testning) är fyra separata underkända krav.
 
-336.   I Bilaga C1 Avtalade krav anges följande krav 5.4.7.41
+336\.   I Bilaga C1 Avtalade krav anges följande krav 5.4.7.41
 
-337.   Kungsbacka har dock inte testat mot detta krav utan mot följande krav.42
+337\.   Kungsbacka har dock inte testat mot detta krav utan mot följande krav.42
 
-338.   Kravet är helt ändrat. Bilaga C1-kravet säger att vårdnadshavaren ska kunna
+338\.   Kravet är helt ändrat. Bilaga C1-kravet säger att vårdnadshavaren ska kunna
 tacka ja eller välja alternativa skolor. Kommunen har bytt rollen till "central
 administratör" och lagt till att vårdnadshavare måste välja minst 3 och max 5
 alternativ, ange fritidsbehov och startdatum (med tvingande fritidsinformation).
 I acceptanskontrollen har Kungsbacka underkänt funktionen avseende detta nya
 ”krav”.
 
-339.   I Bilaga C1 Avtalade krav anges följande krav 5.4.11.43
+339\.   I Bilaga C1 Avtalade krav anges följande krav 5.4.11.43
 
-340.   Kungsbacka har dock inte testat mot detta krav utan mot följande krav.44
+340\.   Kungsbacka har dock inte testat mot detta krav utan mot följande krav.44
 
 41 Ab 3.
 42 Ab 13.
@@ -6407,32 +6407,32 @@ Sida 42 av 101
 
 <!-- sida 149 -->
 
-341.   Utöver rollbyte (grundskoleadministratör → central administratör) har
+341\.   Utöver rollbyte (grundskoleadministratör → central administratör) har
 Kommunen lagt till helt nya funktionskrav om massutskick, information om dem
 som saknar e-post samt utskrift av brev från samma vy som e-postutskick. I
 acceptanskontrollen har Kungsbacka underkänt funktionen avseende detta nya
 ”krav”.
-342.   I Bilaga C1 Avtalade krav anges följande krav 5.4.12.45
+342\.   I Bilaga C1 Avtalade krav anges följande krav 5.4.12.45
 
-343.   Kungsbacka har dock inte testat mot detta krav utan mot följande krav.46
+343\.   Kungsbacka har dock inte testat mot detta krav utan mot följande krav.46
 
-344.   Utöver rollbyte (grundskoleadministratör → central administratör) har
+344\.   Utöver rollbyte (grundskoleadministratör → central administratör) har
 Kommunen lagt till helt nya funktionskrav om massutskick, information om dem
 som saknar e-post samt utskrift av brev från samma vy som e-postutskick. I
 acceptanskontrollen har Kungsbacka underkänt funktionen avseende detta nya
 ”krav”.
-345.   Ovanstående utgör enbart exempel. Det är uppenbart att Kungsbackas
+345\.   Ovanstående utgör enbart exempel. Det är uppenbart att Kungsbackas
 acceptanskontroll inte har genomförts med utgångspunkt i Bilaga C1 Avtalade
 krav, utan i stället har baserats på andra krav – önskemål – som saknar stöd i
 
 avtalet.
-346.   Det kan vidare noteras, att det framstår som att kommunen vid sin ”testning”
+346\.   Det kan vidare noteras, att det framstår som att kommunen vid sin ”testning”
 mer eller mindre blint utgått från Gotits testprotokoll trots att kommunen testat
 mot andra krav än Gotit (och som föreskrivits). Av allt att döma har kommunen
 gjort detta även när de ändrat vilket krav testet skulle ha gjorts mot; kommunen
 jämför alltså äpplen med päron.
 
-347.   Problemet kan illustreras enligt följande illustrativa teoretiska exempel.
+347\.   Problemet kan illustreras enligt följande illustrativa teoretiska exempel.
 
 a.  Vi föreställer oss att Kungsbacka har kravställt att det ska finnas en grön
 dörr in till klassrum 102.
@@ -6457,24 +6457,24 @@ dörren öppnar sig inåt klassrummet. På den grunden har kommunen
 underkänt det egenkonstruerade kravet – men detta utan att kontrollera
 om dörren faktiskt öppnar sig inåt klassrummet eller inte (vilket den
 naturligtvis kan göra utan att detta kravställts).
-348.   Att Kungsbacka inte gjort sin acceptanskontroll mot Bilaga C1 Avtalade krav gör
+348\.   Att Kungsbacka inte gjort sin acceptanskontroll mot Bilaga C1 Avtalade krav gör
 testningen i praktiken helt meningslös och det utgjorde ett brott mot parternas
 avtal.
 
 G.2.7.3 Gotit ifrågasätter om kommunen fört ett protokoll över acceptanskontrollen
 
-349.   Enligt p. 8.6 Bilaga C5 Allmänna bestämmelser skulle kommunen föra ett
+349\.   Enligt p. 8.6 Bilaga C5 Allmänna bestämmelser skulle kommunen föra ett
 protokoll vid acceptanskontrollen.
 
-350.   Det finns en bestämmelse i p. 8.10 Bilaga C5 Allmänna bestämmelser om hur fel
+350\.   Det finns en bestämmelse i p. 8.10 Bilaga C5 Allmänna bestämmelser om hur fel
 och brister som kommunen antecknat i detta protokoll ska hanteras.
 
-351.   Protokollet över acceptanskontrollen och att påstådda fel och brister antecknas
+351\.   Protokollet över acceptanskontrollen och att påstådda fel och brister antecknas
 där, är alltså helt centralt vid ett underkännande av systemet (utan sådant
 protokoll kan inte systemet underkännas – hur ska leverantören då veta vad
 som ska åtgärdas?).
 
-352.   Att föra protokoll vid testning är helt centralt — det är inte en formalitet utan
+352\.   Att föra protokoll vid testning är helt centralt — det är inte en formalitet utan
 själva grunden för att en acceptanskontroll ska kunna fylla sin funktion. Skälen är
 flera:
 
@@ -6507,39 +6507,39 @@ och mot vilket krav tvingar kontrollanten att hålla sig till de avtalade
 kraven. När protokoll inte förs öppnas dörren för glidning — att kraven
 omformuleras under hand och att utfallen sedan motiveras med
 argument som inte hade hållit om de behövt antecknas i förväg.
-353.   Gotit har aldrig fått del av några protokoll över acceptanskontrollen och
+353\.   Gotit har aldrig fått del av några protokoll över acceptanskontrollen och
 ifrågasätter om kommunen ens fört något protokoll.
 
-354.   Den handling som Kungsbacka i målet gett in som aktbilaga 13 (av Kungsbacka
+354\.   Den handling som Kungsbacka i målet gett in som aktbilaga 13 (av Kungsbacka
 benämnd ”Resultat av kommunens kontroll av leverans”) förefaller inte ens
 kommunen påstå utgöra ett protokoll (vilket det heller inte är).
 
 G.2.8  Kommunen har inte underkänt Gotits leverans
 
-355.   Efter att Gotit lämnat över systemet till Kungsbacka för acceptanskontroll, skulle
+355\.   Efter att Gotit lämnat över systemet till Kungsbacka för acceptanskontroll, skulle
 Kungsbacka inom 30 arbetsdagar fatta beslut om att godkänna eller underkänna
 leveransen. Enligt införandeplanen skulle detta ske senast den 31 oktober 2024
 (vilket var 30 arbetsdagar efter att Gotit lämnat över systemet).
-356.   Enligt p. 8.8 Bilaga C5 skulle Kungsbacka godkänna systemet enligt följande
+356\.   Enligt p. 8.8 Bilaga C5 skulle Kungsbacka godkänna systemet enligt följande
 förutsättningar:
 
-357.   När Kungsbacka godkänt systemet inträffar den s.k. effektiva leveransdagen
+357\.   När Kungsbacka godkänt systemet inträffar den s.k. effektiva leveransdagen
 enligt p. 8.7 Bilaga C5.
 
-358.   Om Kungsbacka i stället underkände systemet fick det följande följder.
+358\.   Om Kungsbacka i stället underkände systemet fick det följande följder.
 
 Sida 45 av 101
 
 <!-- sida 152 -->
 
-359.   Den 31 oktober 2024 återkom Kungsbacka inte i frågan om kommunen
+359\.   Den 31 oktober 2024 återkom Kungsbacka inte i frågan om kommunen
 
 godkände systemet eller underkände det. Kungsbacka lämnade helt enkelt inget
 besked.
-360.   Eftersom systemet uppfyllde de avtalade kraven hade Kungsbacka dock varit
+360\.   Eftersom systemet uppfyllde de avtalade kraven hade Kungsbacka dock varit
 skyldigt att godkänna systemet.
 
-361.   Fredagen den 1 november 2024 kl. 19:21 återkom i stället Kungsbackas ombud
+361\.   Fredagen den 1 november 2024 kl. 19:21 återkom i stället Kungsbackas ombud
 med en omfattande rättelseanmaning.47 I brevet framförde Kungsbacka bl.a.
 (ogrundade) anklagelser om väsentliga avtalsbrott kopplat till leveransen av
 etapp 2. Men Kungsbacka underlät samtidigt att lämna besked om kommunen
@@ -6547,22 +6547,22 @@ accepterade eller underkände leveransen. I brevet framförde Kungsbacka också
 ett stort antal ytterligare ogrundade påståenden om avtalsbrott och angav
 följande.
 
-362.   Brevet skickades som sagt fredagen den 1 november 2024 kl. 19.21. Kungsbacka
+362\.   Brevet skickades som sagt fredagen den 1 november 2024 kl. 19.21. Kungsbacka
 krävde att de påstådda avtalsbrotten skulle rättas inom tio dagar och angav att
 detta inträffade den 4 november 2024, dvs. måndagen tre dagar efter brevet
 sänts. Denna typ av slarv – i centrala och viktiga frågor – är anmärkningsvärt.
 
-363.   Det är även talande för Kungsbackas agerande mot Gotit. Kungsbacka ställer
+363\.   Det är även talande för Kungsbackas agerande mot Gotit. Kungsbacka ställer
 orimliga och avtalsstridiga krav på Gotit samtidigt som kommunen själv inte alls
 förhåller sig till avtalet.
 
-364.   Kungsbacka hade att den 31 oktober 2024 antingen godkänna eller underkänna
+364\.   Kungsbacka hade att den 31 oktober 2024 antingen godkänna eller underkänna
 systemet. Vilket av dessa beslut Kungsbacka valde hade olika följder enligt
 avtalet.
-365.   Men Kungsbacka valde kontraktsstridigt att inte fatta något beslut alls och i
+365\.   Men Kungsbacka valde kontraktsstridigt att inte fatta något beslut alls och i
 
 stället, dagen efter, påstå att Gotit var i anteciperat dröjsmål.
-366.   Vid tidpunkten var det i stället Kungsbacka som var i dröjsmål med flera centrala
+366\.   Vid tidpunkten var det i stället Kungsbacka som var i dröjsmål med flera centrala
 åtaganden avseende acceptanskontrollen (i produktionsmiljö, att den skulle ske
 mot avtalade krav och att protokoll skulle föras) och slutligen med beslutet om i
 
@@ -6576,46 +6576,46 @@ vad mån leveransen godkändes – vilket kommunen enligt avtalet var skyldig at
 meddela senast den 31 oktober 2024.
 
 G.2.9  Slutsats: Gotit har levererat etapp 2 korrekt och i tid.
-367.   Gotit har fullgjort sina avtalade åtaganden inför leveransdagen den
+367\.   Gotit har fullgjort sina avtalade åtaganden inför leveransdagen den
 
 11 november 2024. Bolaget har kvalitetssäkrat systemet genom egenkontroll i
 testmiljö, upprättat testprotokoll och den 18 september 2024 – dvs. i rätt tid
 enligt p. 8.2 och 8.3 Bilaga C5 – berett Kungsbacka tillgång till systemet i
 produktionsmiljö och överlämnat testprotokollen.
-368.   Testningen och testprotokollen har skett mot de avtalade krav som gällde
+368\.   Testningen och testprotokollen har skett mot de avtalade krav som gällde
 mellan parterna, dvs. Bilaga C1 Avtalade krav i dess version av den 1 december
-2022.
+2022\.
 
-369.   Att det var denna version som alltjämt gällde följer av att Kungsbacka – trots
+369\.   Att det var denna version som alltjämt gällde följer av att Kungsbacka – trots
 Gotits upprepade påminnelser under hela införandeprojektet – vägrade
 upprätta en ny version av Bilaga C1 Avtalade krav, vilket enligt avsnitt 1.1 Bilaga
 C1 och p. 7.5 Bilaga C5 var en uttrycklig förutsättning för att avtalade krav skulle
 kunna ändras.
 
-370.   Kungsbackas s.k. acceptanskontroll har däremot genomförts i direkt strid med
+370\.   Kungsbackas s.k. acceptanskontroll har däremot genomförts i direkt strid med
 avtalet i flera centrala avseenden. Kommunen har (i) inte utfört
 acceptanskontrollen i produktionsmiljö utan i testmiljö, (ii) inte testat mot de
 krav som följer av Bilaga C1 Avtalade krav utan mot egenhändigt konstruerade
 krav som saknar stöd i avtalet, och (iii), såvitt Gotit känner till, inte fört något
 protokoll över acceptanskontrollen på det sätt som p. 8.6 Bilaga C5 föreskriver.
 
-371.   En acceptanskontroll som genomförts på detta sätt kan inte läggas till grund för
+371\.   En acceptanskontroll som genomförts på detta sätt kan inte läggas till grund för
 ett underkännande av leveransen.
 
-372.   Till detta kommer att Kungsbacka aldrig har fattat något beslut om att
+372\.   Till detta kommer att Kungsbacka aldrig har fattat något beslut om att
 underkänna leveransen. Kommunen var enligt p. 8.8 Bilaga C5 skyldig att senast
 den 31 oktober 2024 antingen godkänna eller underkänna systemet. Kommunen
 gjorde varken det ena eller det andra.
-373.   Mot den bakgrunden kan det konstateras att Gotit har levererat etapp 2 i
+373\.   Mot den bakgrunden kan det konstateras att Gotit har levererat etapp 2 i
 enlighet med parternas avtal. Systemet uppfyllde de avtalade kraven och
 
 Kungsbacka var skyldigt att godkänna leveransen.
-374.   Efter avtalad tid för att godkänna eller underkänna leveransen den 31 oktober
+374\.   Efter avtalad tid för att godkänna eller underkänna leveransen den 31 oktober
 2024 översände Kungsbacka den 1 november 2024 en rättelseanmaning där
 kommunen framställde omfattande och ogrundade anklagelser om avtalsbrott,
 utan att förhålla sig till avtalets reglering om leveransgodkännande.
 
-375.   I och med att Kungsbacka inte underkänt systemet per den 31 oktober 2024 har
+375\.   I och med att Kungsbacka inte underkänt systemet per den 31 oktober 2024 har
 kommunen försuttit sin avtalade rättighet att göra detta. Kommunens anmaning
 den 1 november 2024 förhöll sig inte alls till de avtalade villkoren om
 godkännande och underkännande.
@@ -6624,48 +6624,48 @@ Sida 47 av 101
 
 <!-- sida 154 -->
 
-376.   Sammanfattningsvis har Gotit levererat etapp 2 i avtalad tid. Kungsbacka har
+376\.   Sammanfattningsvis har Gotit levererat etapp 2 i avtalad tid. Kungsbacka har
 aldrig underkänt etapp 2.
 
 G.3    Kommunens påstående om anteciperad försening avseende förskola och
 grundskola
 
-377.   Som framgår ovan var inte Gotit försenad med sin leverans av systemet
+377\.   Som framgår ovan var inte Gotit försenad med sin leverans av systemet
 avseende förskola och grundskola.
-378.   Det var i stället kommunen som var försenad med att korrekt testa (genomföra
+378\.   Det var i stället kommunen som var försenad med att korrekt testa (genomföra
 en acceptanskontroll) och därefter fatta beslut om att underkänna eller
 godkänna systemet. Kommunen hade därmed inte längre rätt att underkänna
 systemet.
 
-379.   Kommunen försöker i stämningsansökan, genom hänvisningar till olika möten i
+379\.   Kommunen försöker i stämningsansökan, genom hänvisningar till olika möten i
 maj och augusti 2024, göra gällande att Gotit inte kunde leverera i tid.
 Påståendet är felaktigt. Gotit har levererat i tid.
 
-380.   Vad Kungsbacka gör gällande i sak avseende den påstådda anteciperade
+380\.   Vad Kungsbacka gör gällande i sak avseende den påstådda anteciperade
 förseningen är felaktigt och bestrids av Gotit. Det är en juridisk konstruktion
 utan verklighetsförankring.
 
-381.   Det ska därtill noteras att anteciperat avtalsbrott inte är en avtalad hävnings-
+381\.   Det ska därtill noteras att anteciperat avtalsbrott inte är en avtalad hävnings-
 grund i parternas avtal (om nu den påstådda antecipieringen alls är av någon
 relevans, vilket bestrids). Hävningsgrunderna i avtalet är uttömmande.
 G.4    Kommunens påstående om brott mot införandeplanen för förskola och
 grundskola
 
-382.   I stämningsansökan gör Kungsbacka gällande att Gotit brutit mot gällande
+382\.   I stämningsansökan gör Kungsbacka gällande att Gotit brutit mot gällande
 införandeplan (se avsnitt C.2.1.4 och F.1.4 stämningsansökan).
 
-383.   Gotit har vissa svårigheter att förstå exakt vad kommunen gör gällande.
+383\.   Gotit har vissa svårigheter att förstå exakt vad kommunen gör gällande.
 
-384.   Kungsbacka gör i p. 61 och 62 stämningsansökan gällande att det, enligt den
+384\.   Kungsbacka gör i p. 61 och 62 stämningsansökan gällande att det, enligt den
 införandeplan som Kungsbacka menar överenskommits den 26 september 2023,
 framgår att ”skulle leverans av etappen förskola/grundskola [etapp 2] ske den
 15 februari 2024". Detta stämmer inte.
 
-385.   Den 20 november 2023 – dvs. två månader senare – träffade parterna
+385\.   Den 20 november 2023 – dvs. två månader senare – träffade parterna
 förlikningsavtalet. I förlikningsavtalet anges följande.48
 
-386.   Under 2023 arbetade parterna för att etapp 2 skulle gå i drift den 15 februari
-2024. Kungsbacka var dock oroat och tidpunkten för driftsättningen sköts därför
+386\.   Under 2023 arbetade parterna för att etapp 2 skulle gå i drift den 15 februari
+2024\. Kungsbacka var dock oroat och tidpunkten för driftsättningen sköts därför
 
 48 Ab 12.
 
@@ -6676,24 +6676,24 @@ Sida 48 av 101
 framåt. Under december 2023 och januari 2024 diskuterade Gotit och
 kommunen en ny tidsplan för leveransen (av etapp 2).
 
-387.   Vid ett möte den 6 februari 2024 var parterna överens om att skarp drift den
+387\.   Vid ett möte den 6 februari 2024 var parterna överens om att skarp drift den
 18 september 2024 passade båda parter bäst.49
 
-388.   Vid mötet hade Kungsbacka ingen invändning mot detta.
+388\.   Vid mötet hade Kungsbacka ingen invändning mot detta.
 
-389.   Efter vissa ytterligare diskussioner fram och tillbaka skickade Gotit den
+389\.   Efter vissa ytterligare diskussioner fram och tillbaka skickade Gotit den
 20 februari 2024 över en uppdaterad införandeplan för etapp 2.50 Kungsbacka
 fick alltså den detaljerade planeringen av införandeplanen som angavs i p. 3.2 i
 förlikningsavtalet.
 
-390.   Inom projektet har parterna sedan arbetat enligt denna tidsplan.
-391.   Det kan noteras att Kungsbacka påstår i p. 61 stämningsansökan att ”Parterna
+390\.   Inom projektet har parterna sedan arbetat enligt denna tidsplan.
+391\.   Det kan noteras att Kungsbacka påstår i p. 61 stämningsansökan att ”Parterna
 överenskom den 26 september 2023[fotnot 8] om en ny införandeplan för
 förskola/grundskola”. Kungsbacka påstår sedan i fotnot 8 att ”Den sista
 versionen av införandeplanen är daterad till den 13 september 2023, men
 översändes till Kungsbacka kommun först den 26 september 2023”.
 
-392.   Gotit ställer sig frågande till det Kungsbacka påstår. För det första skickade Gotit
+392\.   Gotit ställer sig frågande till det Kungsbacka påstår. För det första skickade Gotit
 över en införandeplan daterad den 13 september 2023 just den 13 september
 2023 till Peter Hornebrandt på Kungsbacka, se nedan.51
 
@@ -6704,18 +6704,18 @@ Sida 49 av 101
 
 <!-- sida 156 -->
 
-393.   Såvitt Gotit känner till, skilde sig inte Kungsbackas hantering av denna
+393\.   Såvitt Gotit känner till, skilde sig inte Kungsbackas hantering av denna
 införandeplan från hur kommunen hanterade den som skickades över den
 20 februari 2024. Gotit känner inte till att Kungsbacka uttryckligen ”godkänt”
 införandeplanen eller liknande. Utan parterna började helt enkelt arbeta enligt
 planen (precis som man gjorde med införandeplanen som översändes den 20
 februari 2024).
 
-394.   Kungsbacka har alltså hanterat de två införandeplanerna på samma sätt. I inget
+394\.   Kungsbacka har alltså hanterat de två införandeplanerna på samma sätt. I inget
 av fallen lämnade kommunen ifrån sig något skriftligt godkännande; i båda fallen
 fortsatte parterna i stället att arbeta enligt den översända planen.
 
-395.   Att Kungsbacka nu i efterhand gör gällande att den ena planen – den som
+395\.   Att Kungsbacka nu i efterhand gör gällande att den ena planen – den som
 Kungsbacka menar översändes den 26 september 2023 – skulle utgöra en
 bindande överenskommelse om leveransdag, medan den införandeplan som
 Gotit översände den 20 februari 2024 inte skulle ha någon sådan verkan, är
@@ -6723,11 +6723,11 @@ ologiskt. Kungsbacka kan inte, av två införandeplaner som kommunen hanterat
 på samma sätt, välja den som idag passar Kungsbackas talan och bortse från den
 andra.
 
-396.   Av avgörande betydelse är också att parterna genom förlikningsavtalet den
+396\.   Av avgörande betydelse är också att parterna genom förlikningsavtalet den
 20 november 2023 enades om ett nytt leveransdatum, vilket innebar att den
 tidigare införandeplanen saknade relevans – något som även framgår tydligt av
 förlikningsavtalets innehåll.
-397.   I p. 64 stämningsansökan anger kommunen följande.
+397\.   I p. 64 stämningsansökan anger kommunen följande.
 
 ”Av den gällande införandeplanen följer att Gotit innan driftsättning ska
 genomföra ekonomikörningar och att ekonomifunktionerna ska
@@ -6742,7 +6742,7 @@ samt inte ge kommunen möjlighet att godkänna inläsningen av data innan
 driftsättning den 18 september 2024. Gotits agerande utgör ett väsentligt
 avtalsbrott.”
 
-398.   Detta stämmer inte. Det framgår inte av införandeplanen och dessutom har
+398\.   Detta stämmer inte. Det framgår inte av införandeplanen och dessutom har
 Gotit färdigställt ekonomikörningarna inför leverans och gett kommunen
 möjlighet att godkänna inläsningen av data innan driftsättning.
 
@@ -6752,12 +6752,12 @@ upprätthållande av avtalade processer och rutiner för
 förvaltningsåtagandet
 
 H.1    Vad Kungsbacka gör gällande
-399.   Gotit har vissa svårigheter att förstå vad Kungsbacka egentligen vill göra
+399\.   Gotit har vissa svårigheter att förstå vad Kungsbacka egentligen vill göra
 gällande med sitt påstående om att det finns ”väsentliga fel i driften och brister i
 upprätthållande av avtalade processer och rutiner för förvaltningsåtagandet”
 (avsnitt C.2.2 och F.2 stämningsansökan).
 
-400.   Som Gotit uppfattar det rör det sig i grunden om fyra olika påståenden:
+400\.   Som Gotit uppfattar det rör det sig i grunden om fyra olika påståenden:
 
 a.  Att det förelegat väsentliga fel i driften av etapp 1 (gymnasieskolan).
 
@@ -6768,44 +6768,44 @@ c.  Att Gotit inte registrerat eller redovisat systemets tillgänglighet.
 d.  Att Gotit inte gjort någon redovisning av avdrag på månadsavgiften för
 incidenter.
 
-401.   Gotit kommer att bemöta dessa påståenden var för sig.
+401\.   Gotit kommer att bemöta dessa påståenden var för sig.
 
-402.   Det är vidare så att Kungsbacka inte preciserar när kommunen menar att de
+402\.   Det är vidare så att Kungsbacka inte preciserar när kommunen menar att de
 påstådda bristerna förelegat. Detta gör det väldigt svårt att på ett mer utförligt
 sätt bemöta vad kommunen gör gällande.
 H.2    Kungsbackas påstående om väsentliga brister i driften
 
-403.   Kungsbacka utvecklar inte vad det är för väsentliga brister i driften som
+403\.   Kungsbacka utvecklar inte vad det är för väsentliga brister i driften som
 kommunen gör gällande.
 
-404.   I Kungsbackas grunder i stämningsansökan anförs följande.
+404\.   I Kungsbackas grunder i stämningsansökan anförs följande.
 
 Sida 51 av 101
 
 <!-- sida 158 -->
 
-405.   Det framstår alltså som att Kungsbacka, till stöd för sin påstådda hävningsrätt,
+405\.   Det framstår alltså som att Kungsbacka, till stöd för sin påstådda hävningsrätt,
 gör gällande att samtliga de påstådda incidenter som kommunen listar i sin
 egenupprättade sammanställning (ab 14) åberopas var för sig såsom väsentliga
 brister i driften.
 
-406.   Kommunen utvecklar inte på något sätt dessa påstådda brister utan fokuserar i
+406\.   Kommunen utvecklar inte på något sätt dessa påstådda brister utan fokuserar i
 stället på de påstådda bristerna i upprätthållandet av avtalade processer och
 rutiner i förvaltningsåtagandet. Kungsbacka framför dock följande påstående.
 
-407.   Kungsbacka tycks alltså medge att incidenter inte utgör fel i sig (vilket är
+407\.   Kungsbacka tycks alltså medge att incidenter inte utgör fel i sig (vilket är
 korrekt). Men ändå åberopar kommunen, utan någon förklaring, att alla
 incidenter är fel. Och dessutom väsentliga sådana.
 
-408.   Motsägelserna i Kungsbackas resonemang gör det svårt för Gotit att bemöta
+408\.   Motsägelserna i Kungsbackas resonemang gör det svårt för Gotit att bemöta
 kommunens anklagelser. Det kan vidare konstateras, utifrån kommunens egen
 sammanställning, att inte heller kommunen verkar mena att samtliga påstådda
 incidenter ens förelåg vid tidpunkten för hävningen.
-409.   Gotit kan dock konstatera att det inte funnits några väsentliga brister i driften.
+409\.   Gotit kan dock konstatera att det inte funnits några väsentliga brister i driften.
 
-410.   Ett illustrerande exempel på vad kommunen faktiskt anför är SP-785.
+410\.   Ett illustrerande exempel på vad kommunen faktiskt anför är SP-785.
 
-411.   Den 3 april 2024 anmälde Kungsbacka som ett ärende (alltså inte en incident) att
+411\.   Den 3 april 2024 anmälde Kungsbacka som ett ärende (alltså inte en incident) att
 det saknades möjlighet att ta fram vilka elever som hade ”högst betyg inför
 sommarens årskurs3”.52
 
@@ -6815,90 +6815,90 @@ Sida 52 av 101
 
 <!-- sida 159 -->
 
-412.   Den 12 april 2024 ändrade Kungsbacka dock plötsligt ärendet till att vara en
+412\.   Den 12 april 2024 ändrade Kungsbacka dock plötsligt ärendet till att vara en
 
 incident (i samma ärende, mer om detta i avsnitt H.3.5 nedan).
-413.   Här kan det konstateras att rapporteringen inte är sådan att det enbart utifrån
+413\.   Här kan det konstateras att rapporteringen inte är sådan att det enbart utifrån
 den går att förstå vad som enligt Kungsbacka utgör en väsentlig brist i driften.
 
-414.   Som Gotits personal uppfattat det har Kungsbacka önskat att det skulle finnas en
+414\.   Som Gotits personal uppfattat det har Kungsbacka önskat att det skulle finnas en
 möjlighet att få ut vilken elev/er som kommer att få högst betyg en viss årskurs
 för att kunna förbereda stipendieutdelning. Detta var inte kravställt och inte
 något som enkelt gick att ordna.
 
-415.   Den (omfattande) statistik som går att ta ut på Skolplatsen avseende betyg
+415\.   Den (omfattande) statistik som går att ta ut på Skolplatsen avseende betyg
 bygger på att betygen är ”klarmarkerade”. Detta är viktigt eftersom fram till
 dess att betygen är ”klarmarkerade” kan de ändras av behöriga användare
 (betygssättande lärare).
 
-416.   Kungsbacka önskade i stället ta fram statistik på olåsta betyg (som alltså
+416\.   Kungsbacka önskade i stället ta fram statistik på olåsta betyg (som alltså
 fortfarande kunde ändras). Denna funktion fanns inte.
-417.   Det framstår som uppenbart att denna fråga inte är en väsentlig brist i driften
+417\.   Det framstår som uppenbart att denna fråga inte är en väsentlig brist i driften
 (eller som vi kommer till nedan någon incident i avtalets betydelse). Den rör en
 funktion som Kungsbacka inte ursprungligen kravställt utan som begärts först
 
 efter att projektet gått över i förvaltningsfasen (och som Gotit alltså inte varit
 skyldigt att leverera). Det Kungsbacka önskade var en tilläggsfunktion.
-418.   Detta är bara ett av många exempel på denna typ av situationer. Kungsbacka
+418\.   Detta är bara ett av många exempel på denna typ av situationer. Kungsbacka
 uppfattade i princip alla sina önskemål om funktion i systemet (ibland att man
 tyckte att det krävdes ”för många klick” för att göra något) som brister eller
 incidenter. Detta är inte korrekt.
 
-419.   Sammanfattningsvis är det tydligt att det inte förelegat några väsentliga brister i
+419\.   Sammanfattningsvis är det tydligt att det inte förelegat några väsentliga brister i
 driften.
 
 H.3    Kungsbackas påstående att det förelegat brister i upprätthållandet av avtalade
 processer och rutiner i förvaltningsåtagandet
 
-420.   Kungsbacka gör i stämningsansökan gällande att ”Gotit har brustit i att
+420\.   Kungsbacka gör i stämningsansökan gällande att ”Gotit har brustit i att
 upprätthålla avtalade rutiner för incidenthantering. Gotit har i stället tillämpat
 en ensidigt framtagen rutin för incidenthantering”.
-421.   Detta stämmer inte. Både Kungsbackas förståelse av parternas avtal och
+421\.   Detta stämmer inte. Både Kungsbackas förståelse av parternas avtal och
 beskrivning av verkligheten är felaktig.
 
 Sida 53 av 101
 
 <!-- sida 160 -->
 
-422.   Det är i stället Kungsbacka som systematiskt brutit mot avtalet genom att bl.a.
+422\.   Det är i stället Kungsbacka som systematiskt brutit mot avtalet genom att bl.a.
 överösa Gotit med påstådda incidenter som uppenbart inte varit incidenter, inte
 gett Gotit tillräcklig information för att hantera påstådda incidenter, inte stänga
 påstådda incidenter som var avhjälpta samt inte heller i övrigt lojalt försökt få
 incidenthanteringen att fungera.
 
-423.   Kungsbacka har även rapporterat in vanliga ärenden för att långt senare ändra
+423\.   Kungsbacka har även rapporterat in vanliga ärenden för att långt senare ändra
 registreringen av dessa till incidenter i ärendesystemet och därefter anklaga
 Gotit för att inte ha löst den påstådda incidenten i tid, beräknat från det
 ursprungliga anmälningsdatumet. Agerandet är anmärkningsvärt, särskilt som
 även dessa ogrundade dröjsmålspåståenden åberopats vid den senare
 hävningen och nu i denna tvist.
 
-424.   Nedan kommer Gotit redogöra för varför Kungsbackas anklagelse är felaktig.
+424\.   Nedan kommer Gotit redogöra för varför Kungsbackas anklagelse är felaktig.
 H.3.1  Vad säger avtalet om incidenthantering
 
-425.   Hur incidenthantering ska hanteras regleras i SLA:t (Bilaga C2 till avtalet),
+425\.   Hur incidenthantering ska hanteras regleras i SLA:t (Bilaga C2 till avtalet),
 förvaltningsplanen (Bilaga C4 till avtalet)53 och 18 kap. av de allmänna
 bestämmelserna (Bilaga C5 till avtalet). Vad som står i SLA:t har företräde
 framför de allmänna bestämmelserna.
 
-426.   Vad som är att betrakta som en incident definieras i 2 kap. av de allmänna
+426\.   Vad som är att betrakta som en incident definieras i 2 kap. av de allmänna
 bestämmelserna (Bilaga C5 till avtalet) enligt följande.
 
-427.   En incident enligt parternas avtal är alltså ett oplanerat:
+427\.   En incident enligt parternas avtal är alltså ett oplanerat:
 
 a.  avbrott i hela eller delar av systemet
 
 eller
 b.  reduktion av kvaliteten hos systemet.
 
-428.   Definitionen av vad som är en incident är därmed snäv. Att en viss användare
+428\.   Definitionen av vad som är en incident är därmed snäv. Att en viss användare
 önskar en funktionalitet som inte finns i systemet eller vill förändra en
 konfiguration är inte en incident.
 
-429.   Det är viktigt att man skiljer på incidenter och andra ärenden. Bestämmelserna
+429\.   Det är viktigt att man skiljer på incidenter och andra ärenden. Bestämmelserna
 om incidenter är naturligtvis bara tillämpliga på incidenter, inte andra ärenden.
 
-430.   Enligt p. 18.3 i de allmänna bestämmelserna (Bilaga C5 till avtalet) ska incidenter
+430\.   Enligt p. 18.3 i de allmänna bestämmelserna (Bilaga C5 till avtalet) ska incidenter
 klassificeras enligt följande.
 
 53 Som dock inte tillför något materiellt.
@@ -6907,16 +6907,16 @@ Sida 54 av 101
 
 <!-- sida 161 -->
 
-431.   Av definitionerna ovan är tydligt att för att en incident ska klassificeras som
+431\.   Av definitionerna ovan är tydligt att för att en incident ska klassificeras som
 brådskande ska den ha vital påverkan på kommunen.
 
-432.   Enligt SLA:t ska hanteringen av incidenter av de olika klassificeringarna ske enligt
+432\.   Enligt SLA:t ska hanteringen av incidenter av de olika klassificeringarna ske enligt
 följande.
 
-433.   Avhjälps inte incidenter inom den föreskrivna tiden kan detta under vissa
+433\.   Avhjälps inte incidenter inom den föreskrivna tiden kan detta under vissa
 förutsättningar leda till vissa prisavdrag på förvaltningsavgiften.
 
-434.   Enligt p. 18.9 i de allmänna bestämmelserna (Bilaga C5 till avtalet) anges hur
+434\.   Enligt p. 18.9 i de allmänna bestämmelserna (Bilaga C5 till avtalet) anges hur
 anmälan av incidenter ska gå till och vilken information som krävs för att
 incidenthanteringen ska kunna ske.
 
@@ -6924,19 +6924,19 @@ Sida 55 av 101
 
 <!-- sida 162 -->
 
-435.   Den bestämmelsen är central eftersom den anger vilken information som krävs
+435\.   Den bestämmelsen är central eftersom den anger vilken information som krävs
 för att Gotit ska kunna påbörja incidenthanteringen av en påstådd incident. Ges
 inte den information som anges ovan, är själva rapporteringen inte tillräcklig för
 att tidsfrister för incidenthantering m.m. ska starta.
 
-436.   Som redovisas nedan har Kungsbacka konsekvent struntat i kommunens
+436\.   Som redovisas nedan har Kungsbacka konsekvent struntat i kommunens
 skyldighet att redovisa tillräcklig information om de påstådda incidenterna,
 vilket avsevärt försvårat Gotits arbete.
-437.   En annan bestämmelse i avtalet som har relevans, pga. Kungsbackas uppenbart
+437\.   En annan bestämmelse i avtalet som har relevans, pga. Kungsbackas uppenbart
 felaktiga förståelse av den, är p. 18.5 de allmänna bestämmelserna (Bilaga C5 till
 avtalet).
 
-438.   Bestämmelsen anger alltså att:
+438\.   Bestämmelsen anger alltså att:
 a.  Oenigheter om incidenters prioritering (brådskande, hög eller normal, se
 p. 430 ovan) ska lösas i efterhand vid månadsmötena.
 
@@ -6947,25 +6947,25 @@ Sida 56 av 101
 
 <!-- sida 163 -->
 
-439.   Bestämmelserna berör endast angivandet av allvarlighetsgrad (brådskande, hög
+439\.   Bestämmelserna berör endast angivandet av allvarlighetsgrad (brådskande, hög
 eller normal). Bestämmelsen anger alltså inte att kommunen har någon fri rätt
 att klassificera vad som helst som en incident eller när en incident är avhjälpt.
 
-440.   Trots detta anger Kungsbacka i sina grunder att ”Enligt Avtalet är det kommunen
+440\.   Trots detta anger Kungsbacka i sina grunder att ”Enligt Avtalet är det kommunen
 som klassificerar incidenter och avgör hur dessa ska prioriteras” (p. 68 (a) (ii)
 stämningsansökan, egen understrykning).
 
 H.3.2  Hur hanterades incidenter i praktiken
-441.   Parterna hade kommit överens om att använda Gotits ärendehanteringssystem
+441\.   Parterna hade kommit överens om att använda Gotits ärendehanteringssystem
 "Skolplatsen helpdesk", vilket – såvitt är relevant i denna del – är en version av
 det svenskutvecklade ärendehanteringssystemet Visionflow (i helpdesken ingår
 också telefonsupport m.m.).
 
-442.   Visionflow är ett svenskutvecklat ärendehanteringssystem som används av såväl
+442\.   Visionflow är ett svenskutvecklat ärendehanteringssystem som används av såväl
 stora företag som svenska offentliga aktörer, t.ex. kommuner. Visionflow är
 alltså ett etablerat och beprövat ärendehanteringssystem.
 
-443.   Det bör här noteras att avtalet inte uppställer några mer utförliga krav på
+443\.   Det bör här noteras att avtalet inte uppställer några mer utförliga krav på
 ärendehanteringssystemets uppbyggnad och funktion. Av avtalet framgår
 följande krav på ärendehanteringssystemet.
 
@@ -6975,24 +6975,24 @@ Allmänna Bestämmelser)
 
 b.  Det ska vara möjligt att registrera ärenden direkt i systemet (avsnitt 17.2 i
 Bilaga C5 – Allmänna Bestämmelser)
-444.   Visionflow uppfyllde i sig dessa mycket rudimentära krav.
+444\.   Visionflow uppfyllde i sig dessa mycket rudimentära krav.
 
-445.   Som framgår nedan har Kungsbacka dock varit av den felaktiga uppfattningen
+445\.   Som framgår nedan har Kungsbacka dock varit av den felaktiga uppfattningen
 att avtalet ställer omfattande och detaljerade krav på hur ärendehanterings-
 systemet ska vara konstruerat. Kommunen har i anledning av detta också
 innehållit betalning av fakturor m.m.
 
-446.   Under inledningen av förvaltningsåtagandet registrerades incidenter genom att
+446\.   Under inledningen av förvaltningsåtagandet registrerades incidenter genom att
 anmälaren angav ”Incident” i rubriken på ärendet. Efter att kommunen klagat på
 att det inte fanns en särskild knapp eller rullist för incidenter i ärendehanterings-
 systemet infördes en sådan den 9 februari 2024.54
 
-447.   Efter att en incident registrerats började Gotit hantera denna. I
+447\.   Efter att en incident registrerats började Gotit hantera denna. I
 ärendehanteringssystemet ändrades ärendet från skapad till pågående. Allt
 detta har loggats med tidsstämplar. Både Gotit och Kungsbacka har haft full
 tillgång till denna information.
 
-448.   Kungsbacka har genomgående rapporterat påstådda incidenter utan tillräcklig
+448\.   Kungsbacka har genomgående rapporterat påstådda incidenter utan tillräcklig
 information för att Gotit ska kunna hantera dem, vilket krävt ytterligare dialog
 
 54 Se bilaga S21.
@@ -7005,21 +7005,21 @@ för att klargöra problemet. Detta är i sig inte ovanligt – det är svårt f
 användare att ge fullständig information vid rapportering. Det anmärknings-
 värda är snarast att Kungsbacka i efterhand lägger Gotit detta till last.
 
-449.   Gotit har avhjälpt de få ärenden som faktiskt varit incidenter samt även
+449\.   Gotit har avhjälpt de få ärenden som faktiskt varit incidenter samt även
 majoriteten av de övriga problem som felaktigt rapporterats som incidenter.
 Avhjälpandet har skett avtalsenligt.
 
-450.   Som framgår av p. 24.3 Bilaga C5 – Allmänna Bestämmelser skulle parterna
+450\.   Som framgår av p. 24.3 Bilaga C5 – Allmänna Bestämmelser skulle parterna
 avhandla bl.a. rapporterade incidenter.
 
-451.   Enligt p. 24.2 Bilaga C5 – Allmänna Bestämmelser skulle Gotit tillhandahålla ett
+451\.   Enligt p. 24.2 Bilaga C5 – Allmänna Bestämmelser skulle Gotit tillhandahålla ett
 underlag till månadsmötena. Nedan kommer Gotit redovisa vad som angavs om
 incidenthanteringen vid månadsmötena.
 H.3.2.1 Månadsmöten och relevant annan kommunikation
 
 H.3.2.1.1 Månadsmöte 1 – avseende augusti och september 2023
 
-452.   Mötet hölls den 9 oktober 2023. I underlaget för mötet framgår följande
+452\.   Mötet hölls den 9 oktober 2023. I underlaget för mötet framgår följande
 rörande incidenter:55
 
 55 Bilaga S19.1.
@@ -7028,11 +7028,11 @@ Sida 58 av 101
 
 <!-- sida 165 -->
 
-453.   I protokollet från mötet anges följande rörande incidenter:56
+453\.   I protokollet från mötet anges följande rörande incidenter:56
 
-454.   Det finns inga anmärkningar på Gotits incidenthantering.
+454\.   Det finns inga anmärkningar på Gotits incidenthantering.
 
-455.   Det kan noteras att det också rapporteras och diskuteras andra ärenden vid
+455\.   Det kan noteras att det också rapporteras och diskuteras andra ärenden vid
 mötet (som ingen part gör gällande är incidenter):57
 
 56 Bilaga S20.1.
@@ -7041,16 +7041,16 @@ Sida 59 av 101
 
 <!-- sida 166 -->
 
-456.   Dessa ärenden avhandlades också vid mötet.
+456\.   Dessa ärenden avhandlades också vid mötet.
 H.3.2.1.2 Månadsmöte 2 till 4 – avseende perioden oktober till december 2023
 
-457.   Månadsmöte 2 till 4 utspelade sig i princip i överensstämmande med
+457\.   Månadsmöte 2 till 4 utspelade sig i princip i överensstämmande med
 månadsmöte 1.58
 
-458.   Vid mötena framfördes inga anmärkningar på Gotits incidenthantering.
+458\.   Vid mötena framfördes inga anmärkningar på Gotits incidenthantering.
 H.3.2.1.3 Första månadsmötet 5 – avseende januari 2024
 
-459.   Inför månadsmötet avseende januari 2024 skickade Gotit i vanlig ordning ett
+459\.   Inför månadsmötet avseende januari 2024 skickade Gotit i vanlig ordning ett
 underlag till kommunen innan mötet. I underlaget framgår följande rörande
 incidenter:59
 
@@ -7060,19 +7060,19 @@ Sida 60 av 101
 
 <!-- sida 167 -->
 
-460.   När parterna påbörjade månadsmötet den 8 februari 2024 angav Kungsbacka
+460\.   När parterna påbörjade månadsmötet den 8 februari 2024 angav Kungsbacka
 plötsligt att kommunen inte avsåg att ”godkänna månadsavgiften om det inte
 finns ett ärendehanteringssystem på plats”.
 
-461.   Gotits representant vid mötet blev tagen på sängen över kommunens
+461\.   Gotits representant vid mötet blev tagen på sängen över kommunens
 anmärkningsvärda agerande och krav. Efter vissa diskussioner kom parterna
 överens om att skjuta upp månadsmötet till senare i månaden.
-462.   Från det uppskjutna månadsmötet avseende januari 2024 finns inget upprättat
+462\.   Från det uppskjutna månadsmötet avseende januari 2024 finns inget upprättat
 protokoll utan endast minnesanteckningar från Andreas Öhman.60
 
 H.3.2.1.4 Kungsbacka klagar på förvaltningsåtagande i en skrivelse
 
-463.   Dagen efter det avbrutna första månadsmötet 5 avseende januari 2024, dvs. den
+463\.   Dagen efter det avbrutna första månadsmötet 5 avseende januari 2024, dvs. den
 9 februari 2024, skickade Kungsbacka över en skrivelse daterad dagen innan till
 Gotit. I skrivelsen gör Kungsbacka bl.a. gällande följande.61
 
@@ -7084,28 +7084,28 @@ Sida 61 av 101
 
 <!-- sida 168 -->
 
-464.   Kungsbacka framförde alltså omfattande krav på ärendehanteringssystemet.
+464\.   Kungsbacka framförde alltså omfattande krav på ärendehanteringssystemet.
 Kraven var inte förenliga med avtalet och byggde dessutom på okunskap om hur
 ärendehanteringssystemet fungerade. Det var nämligen möjligt att starta, följa
 och avsluta incidenter m.m.
 
-465.   Kungsbacka framförde också följande:
+465\.   Kungsbacka framförde också följande:
 
-466.   Kungsbackas anklagelse var både felaktig och så ospecificerad att det i praktiken
+466\.   Kungsbackas anklagelse var både felaktig och så ospecificerad att det i praktiken
 inte var möjligt att bemöta den i sak.
 H.3.2.1.5 Andra månadsmöte 5 – avseende januari 2024
 
-467.   Andra månadsmötet avseende januari 2024 hölls den 20 februari 2024.
-468.   Vid mötet diskuterades de frågor Kungsbacka fört upp i sin skrivelse. Bland
+467\.   Andra månadsmötet avseende januari 2024 hölls den 20 februari 2024.
+468\.   Vid mötet diskuterades de frågor Kungsbacka fört upp i sin skrivelse. Bland
 
 annat diskuterades vilka förändringar av Visionflow kommunen önskade samt
 kommunens skrivelse (se avsnittet ovan).
-469.   Vad avser incidentrapporten angavs följande.62
+469\.   Vad avser incidentrapporten angavs följande.62
 
-470.   Parterna hade också omfattande diskussioner om vad som var att betrakta som
+470\.   Parterna hade också omfattande diskussioner om vad som var att betrakta som
 en incident. Kungsbacka angav bl.a. följande.63
 
-471.   Påståendet är häpnadsväckande. Det Kungsbacka gör gällande är att de enligt
+471\.   Påståendet är häpnadsväckande. Det Kungsbacka gör gällande är att de enligt
 eget gottfinnande kan klassificera vad som helst som en pågående incident och
 genom detta erhålla ett prisavdrag. Det är en helt orimlig tolkning av parternas
 avtal.
@@ -7116,41 +7116,41 @@ Sida 62 av 101
 
 <!-- sida 169 -->
 
-472.   Vid mötet diskuterades även en rad ärenden som kommunen (felaktigt) menade
+472\.   Vid mötet diskuterades även en rad ärenden som kommunen (felaktigt) menade
 var incidenter eller (felaktigt) inte var avhjälpta. Detta skulle därefter komma att
 bli ett återkommande tema på månadsmötena.
 
 H.3.2.1.6 Månadsmöte 6 – avseende februari 2024
-473.   Mötet hölls den 8 mars 2024.64
+473\.   Mötet hölls den 8 mars 2024.64
 
-474.   Det kan noteras att Kungsbacka vid detta möte plötsligt började rapportera i
+474\.   Det kan noteras att Kungsbacka vid detta möte plötsligt började rapportera i
 princip alla ärenden som incidenter. Detta är naturligtvis inte en korrekt
 hantering och orsakade stor arbetsbelastning för Gotit.
 
-475.   Månadsmöte 6 liknade på många sätt i övrigt månadsmöte 5. Vid mötet
+475\.   Månadsmöte 6 liknade på många sätt i övrigt månadsmöte 5. Vid mötet
 framförde även Kungsbacka att kommunen framöver krävde att alla ärenden
 som kommunen rapporterat in som en incident skulle tas upp på listan över
 incidenter i underlaget till månadsmötena oavsett om dessa de facto var en
 incident eller inte.
 
 H.3.2.1.7 Gotits brev till Kungsbacka den 19 mars 2024
-476.   Den 19 mars 2024 skickade Gotit, genom bolagets ombud på Advokatfirman
+476\.   Den 19 mars 2024 skickade Gotit, genom bolagets ombud på Advokatfirman
 Kahn Pedersen, ett brev till Kungsbacka i anledning av skrivelsen Gotit mottagit
 den 9 februari 2024, dvs. den skrift där Kungsbacka förde fram invändningar mot
 bl.a. ärendehanteringssystemet.65
 
-477.   I brevet förklarade Gotit att bolagets incidenthantering var avtalsenligt uppfylld
+477\.   I brevet förklarade Gotit att bolagets incidenthantering var avtalsenligt uppfylld
 samt krävde att Kungsbacka skulle erlägga utestående och förfallna
 månadsavgifter.
 
-478.   Gotit avslutade brevet på följande sätt:66
+478\.   Gotit avslutade brevet på följande sätt:66
 
 H.3.2.1.8 Månadsmöte 7 – avseende mars 2024
-479.   Mötet hölls den 9 april 2024.67
+479\.   Mötet hölls den 9 april 2024.67
 
-480.   Återigen diskuterades olika specifika ärenden.
+480\.   Återigen diskuterades olika specifika ärenden.
 
-481.   Gotit tog även upp ett centralt problem:
+481\.   Gotit tog även upp ett centralt problem:
 
 64 Bilaga S20.6 och Bilaga S19.7.
 65 Bilaga S31.
@@ -7160,31 +7160,31 @@ Sida 63 av 101
 
 <!-- sida 170 -->
 
-482.   Gotit hade alltså märkt att Kungsbacka, utan att informera Gotit om detta,
+482\.   Gotit hade alltså märkt att Kungsbacka, utan att informera Gotit om detta,
 ändrat rubriken på flera ärenden och döpt om dem till incident i efterhand.
 
-483.   Agerandet var anmärkningsvärt av flera skäl, bl.a. då parterna hade kommit
+483\.   Agerandet var anmärkningsvärt av flera skäl, bl.a. då parterna hade kommit
 överens om att så inte skulle ske och att det försvårade spårbarhet och
 beräkning av SLA-tider.
 
 H.3.2.1.9 Kungsbackas brev den 17 april 2024
-484.   Den 17 april 2024 svarade Kungsbacka, genom sitt ombud vid tingsrätten
+484\.   Den 17 april 2024 svarade Kungsbacka, genom sitt ombud vid tingsrätten
 advokat Lars Arrhed, på Gotits brev den 19 mars 2024.68
 
-485.   Vad Kungsbacka anför om incidenthantering (och även i övrigt) i detta brev är
+485\.   Vad Kungsbacka anför om incidenthantering (och även i övrigt) i detta brev är
 återigen anmärkningsvärt okonkret.
 
-486.   Än mer anmärkningsvärt är att Kungsbacka besvarade Gotits förslag om att
+486\.   Än mer anmärkningsvärt är att Kungsbacka besvarade Gotits förslag om att
 träffas för att diskutera situationen enligt följande:
 
-487.   Det framstår som talande för Kungsbackas agerande – kommunen förefaller inte
+487\.   Det framstår som talande för Kungsbackas agerande – kommunen förefaller inte
 ha tyckt att situationen varit tillräckligt väsentlig för att försöka nå en lösning.
-488.   Kungsbackas agerande var inte konstruktivt. Man försökte inte ens finna
+488\.   Kungsbackas agerande var inte konstruktivt. Man försökte inte ens finna
 samförstånd.
 
 H.3.2.1.10 Gotits brev den 31 maj 2024
 
-489.   Den 31 maj 2024 svarade Gotits ombud på brevet från Kungsbackas ombud den
+489\.   Den 31 maj 2024 svarade Gotits ombud på brevet från Kungsbackas ombud den
 17 april 2024.69 I brevet konstaterade Gotit bl.a. att Kungsbacka inte specificerat
 
 68 Bilaga S21.
@@ -7196,34 +7196,34 @@ Sida 64 av 101
 vad det är kommunen anser Gotit gjorde fel eller vad det var Kungsbacka
 önskade att Gotit i stället skulle göra.
 
-490.   Gotit redovisade också hur bolagets ärendehantering såg ut. Återigen,
+490\.   Gotit redovisade också hur bolagets ärendehantering såg ut. Återigen,
 ärendehantering är något annat än hantering av incidenter. Detta påpekade
 också Gotit i brevet.
 
-491.   I brevet efterfrågade Gotit även s.k. eskalerade möten (dvs. möten utan ombud
+491\.   I brevet efterfrågade Gotit även s.k. eskalerade möten (dvs. möten utan ombud
 mellan ledande befattningshavare hos Gotit och Kungsbacka).
 
 H.3.2.1.11 Kungsbackas brev den 3 juli 2024
 
-492.   Den 3 juli 2024 svarade Kungsbackas ombud på Gotits ombuds brev den 31 maj
+492\.   Den 3 juli 2024 svarade Kungsbackas ombud på Gotits ombuds brev den 31 maj
 2024.70
 
-493.   Brevet inleds med följande, för kommunen talande, stycke.
+493\.   Brevet inleds med följande, för kommunen talande, stycke.
 
-494.   Gotit bad alltså Kungsbacka att specificera vad kommunen ville att Gotit skulle
+494\.   Gotit bad alltså Kungsbacka att specificera vad kommunen ville att Gotit skulle
 göra annorlunda. Kungsbackas svar var i praktiken att det vore olämpligt och att
 Gotit borde förstå detta på egen hand.
-495.   Återigen, Kungsbackas agerande är inte lojalt.
+495\.   Återigen, Kungsbackas agerande är inte lojalt.
 
-496.   I brevet har Kungsbackas ombud även missat eller förbisett den centrala
+496\.   I brevet har Kungsbackas ombud även missat eller förbisett den centrala
 skillnaden mellan hantering av ärenden och hantering av incidenter, trots att
 denna skillnad tydligt påpekats av Gotit och framgår av avtalet.
 
-497.   Kungsbackas ombud menade att ”Gotits modell för ärendehantering har fyra
+497\.   Kungsbackas ombud menade att ”Gotits modell för ärendehantering har fyra
 prioriteringsnivåer och avvikande bedömningskriterier [jämfört med p. 18.3 i C.5
 Allmänna bestämmelser till avtalet]” (sid 2 i brevet).
 
-498.   Avtalet har inga bestämmelser om ärendehantering som sådan. Gotit har dock
+498\.   Avtalet har inga bestämmelser om ärendehantering som sådan. Gotit har dock
 interna rutiner för detta. Dessa är framtagna baserade på ITIL.
 Incidenthanteringen är något annat än ärendehantering och Gotit har skött
 
@@ -7237,31 +7237,31 @@ incidenthanteringen enligt parternas avtal. Gotit kommer att återkomma till
 detta nedan.
 
 H.3.2.1.12 Månadsmöte 8–11 – avseende april–augusti 2024
-499.   Månadsmöte 8–11 avsåg april till augusti 2024.71
+499\.   Månadsmöte 8–11 avsåg april till augusti 2024.71
 
-500.   Återigen diskuterades olika specifika ärenden.
+500\.   Återigen diskuterades olika specifika ärenden.
 
 H.3.2.1.13 Kungsbackas brev den 28 augusti 2024
-501.   Den 28 augusti 2024 skickade Kungsbackas ombud ytterligare ett brev till
+501\.   Den 28 augusti 2024 skickade Kungsbackas ombud ytterligare ett brev till
 Gotit.72 I brevet anförde Kungsbacka spridda (och i stora delar felaktiga)
 påståenden om incidenter.
 
 H.3.2.1.14 Gotits brev den 6 september 2024
-502.   Den 6 september 2024 svarade Gotit på Kungsbackas två brev daterade den
+502\.   Den 6 september 2024 svarade Gotit på Kungsbackas två brev daterade den
 
 3 juli 2024 och 28 augusti 2024.73
-503.   I brevet bemötte Gotit vad Kungsbacka anfört. Gotit återupprepade också
+503\.   I brevet bemötte Gotit vad Kungsbacka anfört. Gotit återupprepade också
 följande.
 
-504.   Gotit påpekade alltså att Kungsbacka systematiskt rapporterade in händelser
+504\.   Gotit påpekade alltså att Kungsbacka systematiskt rapporterade in händelser
 eller allmänna önskemål såsom incidenter trots att dessa inte var incidenter
 
 samt klassificerade incidenter felaktigt.
 H.3.2.1.15 Månadsmöte 11 – avseende september och oktober 2024
 
-505.   Den 7 november 2024 hölls det sista månadsmötet innan avtalet hävdes (den 12
+505\.   Den 7 november 2024 hölls det sista månadsmötet innan avtalet hävdes (den 12
 november 2024).74 Månadsmötet avsåg september och oktober 2024.
-506.   Vid mötet diskuterades olika specifika ärenden. Ett ärende som kan noteras som
+506\.   Vid mötet diskuterades olika specifika ärenden. Ett ärende som kan noteras som
 
 talande för kommunens agerande är ärende SP-1106. I tvisten har Kungsbacka
 åberopat detta ärende (det är listat i ab 14) ”till grund för kommunens rätt till
@@ -7277,26 +7277,26 @@ Sida 66 av 101
 
 <!-- sida 173 -->
 
-507.   Vid månadsmöte 11, fyra dagar innan hävningen, hade dock Kungsbacka angett
+507\.   Vid månadsmöte 11, fyra dagar innan hävningen, hade dock Kungsbacka angett
 följande rörande SP-1106 (Johanna åsyftar Johanna Friberg på Kungsbacka):
 
-508.   Det är alltså tydligt att SP-1106 rör sig om ett handhavandefel på kommunens
+508\.   Det är alltså tydligt att SP-1106 rör sig om ett handhavandefel på kommunens
 sida. Det rör sig därmed inte om något väsentligt fel i driften eller brister i
 upprätthållande av avtalade processer och rutiner för förvaltningsåtagandet.
 
 H.3.3  Kommunens påstådda incidenter uppfyller inte avtalets definition av en incident
 
-509.   Som Gotit redogjort för definieras en incident i parternas avtal som ett
+509\.   Som Gotit redogjort för definieras en incident i parternas avtal som ett
 oplanerat:
 a.  avbrott i hela eller delar av systemet
 
 eller
 
 b.  reduktion av kvaliteten hos systemet.
-510.   Mycket få av de ärenden som Kungsbacka påstår utgör incidenter uppfyller
+510\.   Mycket få av de ärenden som Kungsbacka påstår utgör incidenter uppfyller
 
 avtalets definition av en incident.
-511.   Nedan följer några tydliga exempel på detta (baserat på vad Kungsbacka anger i
+511\.   Nedan följer några tydliga exempel på detta (baserat på vad Kungsbacka anger i
 ab 14).
 
 a.  SP-1158 – Kommunen anmälde den 19 september 2024, såsom en
@@ -7357,20 +7357,20 @@ f.  Sex av de ärenden som Kungsbacka påstår utgör incidenter (SP-1075, SP-
 ”systemet” enligt avtalet och omfattas därmed inte av definitionen av vad
 som är en incident.
 
-512.   Av exemplen ovan står helt klart att Kungsbackas olika påståenden om
+512\.   Av exemplen ovan står helt klart att Kungsbackas olika påståenden om
 incidenter inte alls förhåller sig till avtalet. Det är helt uppenbart att det som
 anges ovan inte är incidenter i avtalets mening.
-513.   Det kan konstateras att den absoluta majoriteten av de ärenden som
+513\.   Det kan konstateras att den absoluta majoriteten av de ärenden som
 kommunen påstår är incidenter inte är incidenter enligt avtalets definition.
 
-514.   Gotit ifrågasätter dock inte att det har förelegat några enstaka incidenter. Det
+514\.   Gotit ifrågasätter dock inte att det har förelegat några enstaka incidenter. Det
 kan dock inte ankomma på Gotit att i målet sortera ut dessa ur den totala röra
 Kungsbacka presenterat. Det kan vidare noteras att samtliga incidenter har
 hanterats enligt avtalet.
 
 H.3.4  Kommunen har inte rapporterat incidenter enligt avtalet
 
-515.   P. 18.9 de allmänna bestämmelserna (Bilaga C5 till avtalet) anger hur anmälan
+515\.   P. 18.9 de allmänna bestämmelserna (Bilaga C5 till avtalet) anger hur anmälan
 av incidenter ska gå till och vilken information som krävs för att
 incidenthanteringen ska kunna ske.
 
@@ -7378,27 +7378,27 @@ Sida 68 av 101
 
 <!-- sida 175 -->
 
-516.   Kungsbacka har i princip helt struntat i denna bestämmelse. Rapporteringen av
+516\.   Kungsbacka har i princip helt struntat i denna bestämmelse. Rapporteringen av
 påstådda incidenter har ofta varit mycket rudimentär och ibland endast haft
 karaktären av en mycket kort fråga.
 H.3.5  Kommunen har i efterhand ändrat vad som är en incident
 
-517.   Initialt skedde rapporteringen av påstådda incidenter genom att ”incident”
+517\.   Initialt skedde rapporteringen av påstådda incidenter genom att ”incident”
 angavs i ärendets rubrik. Efter klagomål på ärendehanteringssystemet från
 Kungsbacka lade Gotit den 9 februari 2024 till en rullist i ärendehanterings-
 systemet för påstådda incidenter.75
 
-518.   Såsom ärendehanteringssystemet är uppbyggt kan användare redigera
+518\.   Såsom ärendehanteringssystemet är uppbyggt kan användare redigera
 innehållet i ett ärende – inklusive rubriken. Andra användare får ingen särskild
 notis om denna ändring. Men ändringen som sådan loggas dock i systemet så
 det finns full spårbarhet av detta.
 
-519.   Vid en genomgång av Kungsbackas påståenden i målet har Gotit upptäckt att
+519\.   Vid en genomgång av Kungsbackas påståenden i målet har Gotit upptäckt att
 Kungsbacka i stor utsträckning ändrat rubriceringen av ett vanligt ärende till en
 incident, ibland flera månader efter att ärendet först registrerades. Totalt har
 Kungsbacka gjort detta vid 54 tillfällen.
 
-520.   Gotit upptäckte vid några tillfällen under förvaltningsåtagandet att Kungsbacka
+520\.   Gotit upptäckte vid några tillfällen under förvaltningsåtagandet att Kungsbacka
 gjorde detta och protesterade då också mot ändringen bl.a. vid månadsmötet
 den 9 april 2024.76
 
@@ -7408,14 +7408,14 @@ Sida 69 av 101
 
 <!-- sida 176 -->
 
-521.   Gotit har sedan återupprepat denna protest, bl.a. i ett brev som Gotits ombud
+521\.   Gotit har sedan återupprepat denna protest, bl.a. i ett brev som Gotits ombud
 skickade till Kungsbacka den 31 maj 2024.77
 
-522.   Det är dock först sedan Gotit har fått tillfälle att gå igenom Kungsbackas krav i
+522\.   Det är dock först sedan Gotit har fått tillfälle att gå igenom Kungsbackas krav i
 målet som det står klart i vilken omfattning kommunen i efterhand har valt att
 omrubricera anmälda ärenden.
 
-523.   Nedan följer tre exempel på hur Kungsbacka agerat.
+523\.   Nedan följer tre exempel på hur Kungsbacka agerat.
 a.  SP-284 – Ärendet registrerades den 4 juli 2023 som ett vanligt ärende (ej
 incident). Den 12 april 2024 (283 dagar senare) ändrades rubriken på
 ärendet så att den innehöll ”incident”.78
@@ -7428,13 +7428,13 @@ c.  SP-677 – Ärendet registrerades den 31 januari 2024 som ett vanligt
 ärende (ej incident). Den 3 april 2024 (62 dagar senare) ändrades rubriken
 på ärendet så att den innehöll ”incident”.80
 
-524.   Kungsbackas redigering av underlaget innebär att det saknar värde. Det är
+524\.   Kungsbackas redigering av underlaget innebär att det saknar värde. Det är
 anmärkningsvärt att Kungsbacka vid tingsrätten grundar sin talan på påstådda
 incidenter som kommunen inte rapporterat som sådana utan först i efterhand
 ändrat till ”incidenter”.
 H.3.6  Kungsbackas redogörelse för Gotits rutin för ärendehantering är felaktig
 
-525.   I p. 184 stämningsansökan redogör Kungsbacka för hur kommunen menar att
+525\.   I p. 184 stämningsansökan redogör Kungsbacka för hur kommunen menar att
 Gotits rutin för incidenthantering sett ut. Redogörelsen är felaktig och förefaller
 bygga på att Kungsbacka inte heller i det här målet förstått eller velat vidgå att
 
@@ -7452,28 +7452,28 @@ hanterat rapporterade incidenter enligt parternas avtal.
 H.4    Kungsbackas påstående om att Gotit inte registrerat eller redovisat systemets
 tillgänglighet.
 
-526.   Kungsbacka påstår att Gotit inte registrerat eller redovisat systemets
+526\.   Kungsbacka påstår att Gotit inte registrerat eller redovisat systemets
 tillgänglighet (p. 68 (b) stämningsansökan).
-527.   Påståendet är felaktigt.
+527\.   Påståendet är felaktigt.
 
-528.   Gotit har redovisat systemets tillgänglighet i enlighet med vad som föreskrivits i
+528\.   Gotit har redovisat systemets tillgänglighet i enlighet med vad som föreskrivits i
 avtalet. Detta har skett i punkt (ii) i underlagen inför månadsmötena. Se t.ex.
 underlaget för 29 augusti – 30 september 2023:81
 
-529.   Denna rapportering finns i samtliga underlag inför månadsmötena.
+529\.   Denna rapportering finns i samtliga underlag inför månadsmötena.
 
-530.   Först den 8 februari 2024 har Kungsbacka framfört (oklara) protester mot Gotits
+530\.   Först den 8 februari 2024 har Kungsbacka framfört (oklara) protester mot Gotits
 redovisning (Gotit hade då redovisat avseende perioden augusti till december
 2023 utan några anmärkningar från Kungsbacka). Detta är för sent.
 
-531.   Det är inget fel på Gotits redovisning av tillgänglighet.
+531\.   Det är inget fel på Gotits redovisning av tillgänglighet.
 
 H.5    Kungsbackas påstående om att Gotit inte gjort någon redovisning av avdrag på
 månadsavgiften för incidenter
-532.   Kungsbacka påstår att Gotit inte gjort någon redovisning av avdrag på
+532\.   Kungsbacka påstår att Gotit inte gjort någon redovisning av avdrag på
 
 månadsavgifter för incidenter (p. 68 (c) stämningsansökan).
-533.   Gotit har varit av den bestämda uppfattningen att det inte funnits några avdrag
+533\.   Gotit har varit av den bestämda uppfattningen att det inte funnits några avdrag
 att göra på månadsavgifterna och har så klart därmed inte heller gjort några
 sådana avdrag.
 
@@ -7485,34 +7485,34 @@ Sida 71 av 101
 
 I      Kommunens påstående rörande skyddsnivåer för lagrad information
 
-534.   Gotit är av uppfattningen att skyddsnivåer avseende lagrad information i
+534\.   Gotit är av uppfattningen att skyddsnivåer avseende lagrad information i
 systemet är viktiga.
 
-535.   Systemet har inte brustit i detta hänseende. Det är ett standardsystem som
+535\.   Systemet har inte brustit i detta hänseende. Det är ett standardsystem som
 förklarades inledningsvis. Systemet har goda skyddsnivåer och är uppbyggt för
 att hantera uppgifter i enlighet med de krav som finns enligt lagstiftning och
 parternas avtal.
 
-536.   Att ett system upprätthåller skyddsnivåer för lagrad information innebär dock
+536\.   Att ett system upprätthåller skyddsnivåer för lagrad information innebär dock
 inte att enstaka tillbud helt går att undvika. Detta är en helt annan sak. Detta
 kan bero på handhavandefel eller enstaka buggar. Sådana händelser innebär
 inte att systemet inte upprätthåller skyddsnivåerna för lagrad information.
-537.   Av vad kommunen gör gällande går heller inte att utläsa att skyddsnivåerna för
+537\.   Av vad kommunen gör gällande går heller inte att utläsa att skyddsnivåerna för
 lagrad information varit bristfälliga. Gotit kommer nedan att närmare behandla
 
 de enskilda påstådda händelserna som Kungsbacka i målet fört fram utan någon
 närmare utveckling.
-538.   Det kan noteras att endast en av de påstådda händelserna varit så allvarlig att
+538\.   Det kan noteras att endast en av de påstådda händelserna varit så allvarlig att
 Kungsbacka själv ansett att den ska anmälas till IMY. Övriga påstådda händelser
 har Kungsbacka (som är personuppgiftsansvarig) inte ansett vara så allvarliga att
 de behövt anmälas.
 
-539.   Av detta skäl kommer Gotit fokusera på den händelse som Kungsbacka anmält
+539\.   Av detta skäl kommer Gotit fokusera på den händelse som Kungsbacka anmält
 till IMY. Övriga påstådda incidenter kommer endast behandlas kortfattat.
 
 I.1    Den till IMY anmälda händelsen
 
-540.   I p. 205 stämningsansökan gör Kungsbacka gällande följande:
+540\.   I p. 205 stämningsansökan gör Kungsbacka gällande följande:
 ”Vid en sökning på ’sekretess’ har samtliga sekretesskyddade elever
 listats. Vid visning av dessa elevers grunduppgifter framgått elevens namn
 i fältet för e-post samt koppling till vårdnadshavare. Incidenten har
@@ -7520,10 +7520,10 @@ rapporterats till Gotit i rapport skapad 2024-09-05 med ärendenummer
 SP-1109. Incidenten rapporterades även till Integritetsskyddmyndigheten
 som en personuppgiftsincident.”
 
-541.   Kommunens beskrivning av händelsen är delvis felaktig och utgör en ganska grav
+541\.   Kommunens beskrivning av händelsen är delvis felaktig och utgör en ganska grav
 förenkling.
 
-542.   Händelseförloppet var följande.
+542\.   Händelseförloppet var följande.
 
 a.  Det aktuella ärendet avsåg en elev som tilldelats skyddade
 personuppgifter av Skatteverket den 30 augusti 2024.
@@ -7553,17 +7553,17 @@ problemet löst. Den aktuella eleven hade nu ett korrekt skydd. Samma
 dag infördes också en regel i konfigurationen som gjorde att en liknande
 situation inte kunde uppstå igen.
 
-543.   Det hela berodde på hur konfigurationen av integrationerna mellan Skolplatsen
+543\.   Det hela berodde på hur konfigurationen av integrationerna mellan Skolplatsen
 respektive Skatteverket, AD-systemet och Vklass fungerade för Kungsbacka.
 Detta var inte enkelt att förutspå och situationen hanterades mer eller mindre
 direkt efter att den identifierats.
-544.   Det kan noteras att kommunen i normala fall hanterade elever med skyddade
+544\.   Det kan noteras att kommunen i normala fall hanterade elever med skyddade
 personuppgifter enligt en handlingsplan, snarare än att information från
 Skatteverket plötsligt visade att en elev som redan fanns i systemet fått
 skyddade personuppgifter. Detta är skälet till att situationen inte uppstått förrän
 i september 2024 (dvs. nästan två år efter att systemet först togs i drift).
 
-545.   Sådana händelser är naturligtvis beklagliga. Men det är tyvärr ofrånkomligt att
+545\.   Sådana händelser är naturligtvis beklagliga. Men det är tyvärr ofrånkomligt att
 denna typ av situationer kan uppstå. Detta gäller särskilt när viss
 informationsinhämtning sker automatiskt och flera av kommunens system
 integreras med varandra. Det centrala är att tillbuden hanteras adekvat och att
@@ -7571,30 +7571,30 @@ integreras med varandra. Det centrala är att tillbuden hanteras adekvat och att
 obehörigen kan röjas. Av redogörelsen ovan framgår också att ärendet hanterats
 korrekt och åtgärdats.
 
-546.   Händelsen visar inte att det funnits generella brister i hanteringen av
+546\.   Händelsen visar inte att det funnits generella brister i hanteringen av
 skyddsnivåer för lagrad information.
 
 I.2    Övriga påstådda händelser
 
-547.   Vad avser övriga påstådda händelser kan följande anföras.
-548.   Kungsbackas påståenden att Gotit inte upprätthållit skyddsnivåerna för lagrad
+547\.   Vad avser övriga påstådda händelser kan följande anföras.
+548\.   Kungsbackas påståenden att Gotit inte upprätthållit skyddsnivåerna för lagrad
 information och inte heller åtgärdat brister efter kommunens uppmaningar är
 felaktiga. När brister eller misstänkta brister uppmärksammats har Gotit vidtagit
 erforderliga åtgärder.
 
-549.   Som framgår nedan är en stor del av de påstådda händelserna dessutom
+549\.   Som framgår nedan är en stor del av de påstådda händelserna dessutom
 hänförliga till handhavandefel från anställda på Kungsbacka.
 
 Sida 73 av 101
 
 <!-- sida 180 -->
 
-550.   Gotit vill här påpeka att Gotit generellt inte klandrar anställda på Kungsbacka för
+550\.   Gotit vill här påpeka att Gotit generellt inte klandrar anställda på Kungsbacka för
 dessa handhavandefel. Sådana förekommer alltid och särskilt i början av
 användandet av ett nytt system. Det som är anmärkningsvärt är att Kungsbacka
 lastar Gotit för handhavandefelen.
 
-551.   För att göra Kungsbackas olika påståenden överblickbara har Gotit delat upp
+551\.   För att göra Kungsbackas olika påståenden överblickbara har Gotit delat upp
 dem i fyra olika grupper och hanterar dem inom dessa.
 
 a.  Grupp 1: Svårigheter att häva sekretesskydd.
@@ -7605,34 +7605,34 @@ c.  Grupp 3: Uppgifter i systemloggen.
 d.  Grupp 4: Skyddade elevers förekomst i ekonomiflöden.
 I.2.1  Grupp 1: Svårigheter att häva sekretesskydd
 
-552.   Berörda ärenden: SP-1020 och SP-1055
+552\.   Berörda ärenden: SP-1020 och SP-1055
 
-553.   Dessa ärenden avser ett påstående från Kungsbacka om att det i Skolplatsen är
+553\.   Dessa ärenden avser ett påstående från Kungsbacka om att det i Skolplatsen är
 svårt att häva ett sekretesskydd manuellt.
 
-554.   Detta är inte något fel på Skolplatsen. Det är medvetet svårt att häva sekretess i
+554\.   Detta är inte något fel på Skolplatsen. Det är medvetet svårt att häva sekretess i
 Skolplatsen och det krävs kontakt med supporten för att göra det. Skälet till det
 är att hävning av sekretess inte ska ske felaktigt.
-555.   De aktuella ärendena (som avser samma sak) har hanterats enligt denna rutin
+555\.   De aktuella ärendena (som avser samma sak) har hanterats enligt denna rutin
 
 och det har aldrig varit något fel i själva systemet.
-556.   Det står helt klart att detta inte på något sätt skulle innebära att Gotit brutit mot
+556\.   Det står helt klart att detta inte på något sätt skulle innebära att Gotit brutit mot
 skyddsnivåerna för lagrad information.
 
 I.2.2  Grupp 2: Registreringsfel vid inläggning av skyddad person
 
 I.2.3  Berörda ärenden: SP-673, SP-1032, SP-1113, SP-1122 och SP-1217
-557.   Dessa ärenden rör olika situationer där det varit problem med
+557\.   Dessa ärenden rör olika situationer där det varit problem med
 sekretessmarkeringar vid registrering av en ny person i Skolplatsen.
 
-558.   Skälet till problemen har varit varierande.
+558\.   Skälet till problemen har varit varierande.
 
-559.   Exempelvis gör Kungsbacka rörande SP-673 gällande följande:
+559\.   Exempelvis gör Kungsbacka rörande SP-673 gällande följande:
 
 ”Elev skrivs in i systemet men sekretessen slår inte igen och eleven skapas
 inte korrekt. Incidenten har rapporterats till Gotit i rapport skapad 2024-
 01-31 med ärendenummer SP-673.”
-560.   Ärende SP-673 berodde på att kommunens personal hade angett ett felaktigt
+560\.   Ärende SP-673 berodde på att kommunens personal hade angett ett felaktigt
 personnummer, två siffror hade förväxlats. Till följd av detta kunde systemet
 
 inte genomföra uppslag mot andra system. Det felaktiga personnumret kunde
@@ -7645,99 +7645,99 @@ Sida 74 av 101
 tvärtom fungerade systemet korrekt genom att hindra en felaktig registrering.
 Händelsen kan inte läggas Gotit till last.
 
-561.   SP-1032, SP-1113, SP-1122 och SP-1217 rör alla olika tekniska avvikelser eller
+561\.   SP-1032, SP-1113, SP-1122 och SP-1217 rör alla olika tekniska avvikelser eller
 handhavandefel kopplade till integrationerna med Skolplatsen. Samtliga dessa
 ärenden har hanterats snabbt och korrekt. Det individuella ärendet har
 hanterats direkt.
 
-562.   I de fall avvikelsen varit hänförlig till Gotit har en permanent lösning också
+562\.   I de fall avvikelsen varit hänförlig till Gotit har en permanent lösning också
 utarbetats. Det har inte rört sig om några generella brister i upprätthållandet av
 skyddsnivåerna för lagrad information.
 I.2.4  Grupp 3: Uppgifter i systemloggen
 
-563.   Berörda ärenden: SP-1174 och SP-1192
+563\.   Berörda ärenden: SP-1174 och SP-1192
 
-564.   Skolplatsen har som alla system en systemlogg. Systemloggen är förenklat en
+564\.   Skolplatsen har som alla system en systemlogg. Systemloggen är förenklat en
 logg där man kan se vad som händer ”under huven på systemet”.
 
-565.   Kungsbacka hade tilldelat ett fåtal av kommunens administrativa användare
+565\.   Kungsbacka hade tilldelat ett fåtal av kommunens administrativa användare
 behörighet att se Skolplatsens systemloggar.
-566.   Ärendena SP-1174 och SP-1192 rör dessa systemloggar.
+566\.   Ärendena SP-1174 och SP-1192 rör dessa systemloggar.
 
-567.   I systemloggen syntes elevers (även med skyddade personuppgifter)
+567\.   I systemloggen syntes elevers (även med skyddade personuppgifter)
 personnummer på raden för betyg. Skälet till detta var att elever med skyddade
 personuppgifter har rätt till betyg med sitt riktiga personnummer. Dessa
 uppgifter skrivs därför in i systemloggen då dessa uppgifter skapades i systemet
 (detta sker alltså ”under huven” på systemet). Hela funktionen med systemlogg
 är att det ska gå att se vad som händer i systemet. Det är inget fel.
 
-568.   Kungsbacka hade tilldelat användare tillgång till systemloggarna, vilket
+568\.   Kungsbacka hade tilldelat användare tillgång till systemloggarna, vilket
 Kungsbacka inte måste göra. Dessa systemloggar var till sin funktion sådana att
 de visar vad som händer under ytan i systemet (vilken användare har gjort vad,
 vilken information har registrerats etc.). Om systemloggarna skulle vara
 filtrerade skulle de inte fylla sitt huvudsakliga syfte, som är att visa vad som
 händer i systemet).
 
-569.   Om Kungsbacka inte önskat att användare skulle ha tillgång till systemloggarna
+569\.   Om Kungsbacka inte önskat att användare skulle ha tillgång till systemloggarna
 så kunde kommunen bara ha avstått från att själv ge tillgång till dessa. Om
 Kungsbacka önskade någon annan funktion som liknade en systemlogg men som
 dolde viss information hade Kungsbacka också kunnat beställa detta.
 
-570.   Vad Kungsbacka gör gällande är inte några generella brister i upprätthållandet
+570\.   Vad Kungsbacka gör gällande är inte några generella brister i upprätthållandet
 av skyddsnivåerna för lagrad information.
 I.2.5  Grupp 4: Skyddade elevers förekomst i ekonomiflöden
 
-571.   Berörda ärenden: SP-428, SP-636 och SP-1172
+571\.   Berörda ärenden: SP-428, SP-636 och SP-1172
 
-572.   Dessa ärenden rör hur Kungsbacka önskade hantera skyddade elevers förekomst
+572\.   Dessa ärenden rör hur Kungsbacka önskade hantera skyddade elevers förekomst
 i ekonomiflöden.
 
 Sida 75 av 101
 
 <!-- sida 182 -->
 
-573.   I Skolplatsen går det att hantera skyddade elever på olika sätt vid ekonomi-
+573\.   I Skolplatsen går det att hantera skyddade elever på olika sätt vid ekonomi-
 körningar. Det brukliga är att dessa ingår i ekonomikörningar och t.ex. genererar
 skolpeng.
 
-574.   I dessa körningar förekommer eleverna endast med fingerade uppgifter (på
+574\.   I dessa körningar förekommer eleverna endast med fingerade uppgifter (på
 samma sätt som de även i övrigt hanteras i systemet). Det är Kungsbacka som
 satt upp reglerna och systemlogiken för sina ekonomikörningar – dvs. om
 skyddade elever ska ingå eller inte.
 
-575.   Vad Kungsbacka gör gällande är inte några generella brister i upprätthållandet
+575\.   Vad Kungsbacka gör gällande är inte några generella brister i upprätthållandet
 av skyddsnivåerna för lagrad information.
 I.3    Kungsbackas påstående om behörighetsfrågor
 
-576.   Kungsbacka för i stämningsansökan p. 206 fram en anklagelse rörande
+576\.   Kungsbacka för i stämningsansökan p. 206 fram en anklagelse rörande
 behörighet i systemet. Vad Kungsbacka gör gällande är felaktigt.
 
-577.   Det är Kungsbacka som tilldelat sina användare olika behörigheter.
+577\.   Det är Kungsbacka som tilldelat sina användare olika behörigheter.
 
-578.   I Skolplatsen fanns en behörighetsnivå benämnd ”Kund”. Behörighetsnivån
+578\.   I Skolplatsen fanns en behörighetsnivå benämnd ”Kund”. Behörighetsnivån
 medgav åtkomst till uppgifter i systemet oavsett skolform. Behörighetsnivån är
 avsedd för centrala administratörer eller systemförvaltare – vanliga
 administratörer ska typiskt sett ha en lägre behörighetsnivå.
-579.   Kungsbacka hade dock gett behörigheten ”Kund” till 16 användare. Det framstår
+579\.   Kungsbacka hade dock gett behörigheten ”Kund” till 16 användare. Det framstår
 som att Kungsbacka inte avsett att ge dessa användare så bred behörighet som
 de fått. När detta uppdagades har frågan hanterats.
 
-580.   Vad Kungsbacka gör gällande är inte några generella brister i upprätthållandet
+580\.   Vad Kungsbacka gör gällande är inte några generella brister i upprätthållandet
 av skyddsnivåerna för lagrad information utan rör Kungsbackas hantering av
 behörigheter.
 
 J      Kungsbackas krav på återbetalning
 
-581.   Vad avser Kungsbackas krav på återbetalning kan inledningsvis konstateras att
+581\.   Vad avser Kungsbackas krav på återbetalning kan inledningsvis konstateras att
 själva hävningen inte är del av Kungsbackas grunder (Gotit utgår dock från att
 Kungsbacka kommer hantera denna brist i sina grunder). I nuvarande skick
 fallerar Kungsbackas talan redan av detta skäl.
 
-582.   Det är vidare så att enligt p. 36.2 Bilaga C.5 Allmänna Bestämmelser till avtalet
+582\.   Det är vidare så att enligt p. 36.2 Bilaga C.5 Allmänna Bestämmelser till avtalet
 har part vid hävning ”rätt att kräva att det denne har presterat ska återbäras,
 under förutsättning att part återbär den prestation han fått från motparten”
 (egen understrykning).
-583.   En förutsättning för att återbetalning ska komma i fråga på det sätt Kungsbacka
+583\.   En förutsättning för att återbetalning ska komma i fråga på det sätt Kungsbacka
 gör gällande är alltså att kommunen återbär den prestation kommunen erhållit
 från Gotit. Detta är praktiskt omöjligt (och inget kommunen gjort). Kungsbacka
 hade vid hävningen använt etapp 1 i nästan två år. Kungsbackas krav på
@@ -7748,43 +7748,43 @@ Sida 76 av 101
 
 <!-- sida 183 -->
 
-584.   Vad Kungsbacka gör gällande om prisavdrag är inte tillräckligt utvecklat för att
+584\.   Vad Kungsbacka gör gällande om prisavdrag är inte tillräckligt utvecklat för att
 kunna bemötas. Det framstår vidare som för sent reklamerat.
 
-585.   Vad avser förvaltningsavgifterna i perioden 29 augusti 2023 – 31 december 2023
+585\.   Vad avser förvaltningsavgifterna i perioden 29 augusti 2023 – 31 december 2023
 har Kungsbacka inte bara betalat dessa utan också uttryckligen godkänt dem vid
 de månatliga förvaltningsmötena. Se t.ex. mötena avseende november och
 december 2023 (Niklas är Niklas Wester på kommunen).82
 
-586.   Det är självklart att Kungsbacka inte kan komma flera år senare och återkräva de
+586\.   Det är självklart att Kungsbacka inte kan komma flera år senare och återkräva de
 belopp som kommunen betalt och uttryckligen angett sig inte ha några
 invändningar emot.
 
 K      Kungsbackas krav på skadestånd
 
 K.1    Inledning
-587.   I stämningsansökan framför Kungsbacka en mycket stor mängd olika (felaktiga)
+587\.   I stämningsansökan framför Kungsbacka en mycket stor mängd olika (felaktiga)
 anklagelser om avtalsbrott gentemot Gotit. Kungsbacka gör gällande att
 kommunen har rätt till skadestånd ”till följd av Gotits avtalsbrott” (p. 95
 stämningsansökan).
 
-588.   Kungsbacka kopplar dock inte ihop kommunens påstående om avtalsbrott med
+588\.   Kungsbacka kopplar dock inte ihop kommunens påstående om avtalsbrott med
 de olika påstådda skadorna. Detta är felaktigt och omöjliggör en bedömning av
 bl.a. frågan om kausalitet. Det innebär att Kungsbackas talan i nuvarande skick
 inte kan bifallas.
 
-589.   Trots dessa mycket grundläggande brister i Kungsbackas talan, som egentligen
+589\.   Trots dessa mycket grundläggande brister i Kungsbackas talan, som egentligen
 borde åtgärdas innan Gotit bemöter vad kommunen gör gällande, kommer Gotit
 nedan kort kommentera Kungsbackas skadeståndskrav.
 
 K.2    Påstådda kostnader för fortsatt leverans av IT-system för förskola och
 grundskola
-590.   Kungsbacka kräver skadestånd med 5882515 kr avseende användandet av ett
+590\.   Kungsbacka kräver skadestånd med 5882515 kr avseende användandet av ett
 annat IT-system för förskola och grundskola (p. 95 (a) i stämningsansökan).
 
-591.   Detta krav motsvarar mer än hälften av Kungsbackas totala krav i målet.
+591\.   Detta krav motsvarar mer än hälften av Kungsbackas totala krav i målet.
 
-592.   Den påstådda skadan bestrids i dess helhet.
+592\.   Den påstådda skadan bestrids i dess helhet.
 
 82 Se bilaga S20.1–4.
 
@@ -7792,51 +7792,51 @@ Sida 77 av 101
 
 <!-- sida 184 -->
 
-593.   Kravet avser påstådda kostnader för fortsatt leverans från tidigare leverantör av
+593\.   Kravet avser påstådda kostnader för fortsatt leverans från tidigare leverantör av
 IT-system för förskola och grundskola perioden 1 augusti 2022 till 31 december
-2025.
+2025\.
 
-594.   Kungsbacka anger (korrekt) i sina grunder i p. 43 4) stämningsansökan att
+594\.   Kungsbacka anger (korrekt) i sina grunder i p. 43 4) stämningsansökan att
 förlikningsavtalet innebar ”Att Avtalad Leveransdag för etappen avseende
 förskola och grundskola flyttades fram till den 11 november 2024”.
 
-595.   Parterna var alltså överens om att leverans av etapp 2 rörande förskola och
+595\.   Parterna var alltså överens om att leverans av etapp 2 rörande förskola och
 grundskola skulle ske den 11 november 2024. Varför Kungsbacka trots detta
 kräver skadestånd för perioden före den 11 november 2024 framstår som
 obegripligt. Detta kan under inga omständigheter utgöra en skada.
-596.   Gotit kan också konstatera att Kungsbackas skadeberäkning är omöjligt att följa
+596\.   Gotit kan också konstatera att Kungsbackas skadeberäkning är omöjligt att följa
 och full av vad som framstår som felräkningar och utbytta siffror. I fotnot 13
-anger kommunen t.ex. att 2,471*688 000 skulle bli 1 569 022. Det stämmer inte,
+anger kommunen t.ex. att 2,471\*688 000 skulle bli 1 569 022. Det stämmer inte,
 
 det blir 1 700 048.
-597.   Av oklar anledning inkluderar inte Kungsbacka kostnaden för införandeprojektet
+597\.   Av oklar anledning inkluderar inte Kungsbacka kostnaden för införandeprojektet
 i den tänkta kostnaden för Skolplatsen. Detta är felaktigt.
 
-598.   Det kan vidare noteras att den årliga förvaltningsavgiften för IST påstås vara så
+598\.   Det kan vidare noteras att den årliga förvaltningsavgiften för IST påstås vara så
 hög som 2 790 000 kr 2025. Det är fyra gånger så högt som förvaltningsavgiften
 för Skolplatsen. Detta framstår som uppenbart oskäligt – eller så beror det på att
 systemet är mer omfattande och alltså dyrare av detta skäl.
 
-599.   Kravet överstiger vidare ansvarsbegränsningen för införandeprojektet om
+599\.   Kravet överstiger vidare ansvarsbegränsningen för införandeprojektet om
 1 160 000 kr. Maximalt skadestånd i denna del är därmed 1 160 000 kr.
 
 K.3    Påstådda kostnader för införandet av nytt system för gymnasiet samt fortsatt
 förvaltning av detta system
-600.   Kungsbacka kräver skadestånd med 127 807 kr avseende införandet av nytt
+600\.   Kungsbacka kräver skadestånd med 127 807 kr avseende införandet av nytt
 system för gymnasiet samt fortsatt förvaltning av detta system (p. 95 (b) i
 stämningsansökan).
 
-601.   Kungsbacka påstår att kostnaden för ett nytt system i perioden fram till maj
+601\.   Kungsbacka påstår att kostnaden för ett nytt system i perioden fram till maj
 2025 varit 807 808 kr – 295 310 kr för införande och 512 498 kr för förvaltning.
 
-602.   Enligt avtalet med Gotit skulle Gotit erhålla (och erhöll) 1 936 365 kr avseende
+602\.   Enligt avtalet med Gotit skulle Gotit erhålla (och erhöll) 1 936 365 kr avseende
 införandeprojektet (detta belopp kräver Kungsbacka återbetalning av, se p. 90 i.
 och ii. stämningsansökan).
 
-603.   Gotits pris per år för förvaltningsåtagandet var enligt avtalet 688 000 kr per år.
+603\.   Gotits pris per år för förvaltningsåtagandet var enligt avtalet 688 000 kr per år.
 Årsavgiften hos den nya leverantören är 615 000 kr enligt vad som framgår av
 ingiven faktura (ab 30).
-604.   Sammanfattningsvis är det nya systemet alltså billigare än det system
+604\.   Sammanfattningsvis är det nya systemet alltså billigare än det system
 Kungsbacka köpt av Gotit. Det föreligger därmed ingen skada utan en besparing.
 
 Storleken på denna besparing beror på om Kungsbacka har framgång med
@@ -7846,40 +7846,40 @@ Sida 78 av 101
 
 <!-- sida 185 -->
 
-605.   Denna besparing ska dras av från ev. övriga skadeposter (det är summan av
+605\.   Denna besparing ska dras av från ev. övriga skadeposter (det är summan av
 posterna som utgör Kungsbackas ev. skada).
 
 K.4    Påstådda kostnader för externa konsulter
-606.   Gotit bestrider den påstådda skadan (p. 95 (c) i stämningsansökan) och att de
+606\.   Gotit bestrider den påstådda skadan (p. 95 (c) i stämningsansökan) och att de
 
 påstådda kostnaderna är hänförliga till Gotits påstådda avtalsbrott (vilka i så
 fall?).
 K.5    Påstådda kostnader för interimchef
 
-607.   Gotit bestrider den påstådda skadan (p. 95 (c) i stämningsansökan) och att de
+607\.   Gotit bestrider den påstådda skadan (p. 95 (c) i stämningsansökan) och att de
 påstådda kostnaderna är hänförliga till Gotits påstådda avtalsbrott (vilka i så
 fall?).
 
-608.   Utifrån Kungsbackas uppgifter står det också klart att interimchefen utfört
+608\.   Utifrån Kungsbackas uppgifter står det också klart att interimchefen utfört
 arbetsuppgifter som inte alls är hänförliga till nu aktuellt projekt.
 
-609.   Under alla omständigheter är den påstådda skadan därför inte adekvat kausal
+609\.   Under alla omständigheter är den påstådda skadan därför inte adekvat kausal
 med det Kungsbacka gör gällande i tvisten. Det rör sig under alla omständigheter
 om en indirekt skada som inte ersätts (jfr p. 37.2 Bilaga C5 Allmänna
 Bestämmelser till avtalet).
 K.6    Påstådda kostnader för elevadministration för gymnasiet
 
-610.   Gotit bestrider den påstådda skadan (p. 95 (e) i stämningsansökan) och att de
+610\.   Gotit bestrider den påstådda skadan (p. 95 (e) i stämningsansökan) och att de
 påstådda kostnaderna är hänförliga till Gotits påstådda avtalsbrott (vilka i så
 fall?).
 
-611.   Under alla omständigheter är den påstådda skadan därför inte adekvat kausal
+611\.   Under alla omständigheter är den påstådda skadan därför inte adekvat kausal
 med det Kungsbacka gör gällande i tvisten. Det rör sig under alla omständigheter
 om en indirekt skada som inte ersätts (jfr p. 37.2 Bilaga C5 Allmänna
 Bestämmelser till avtalet).
 
 K.7    Kungsbackas påstående om kostnader för manuellt uttag av data
-612.   Gotit har svårt att fullt ut förstå vad det är Kungsbacka gör gällande i p. 95 (f)
+612\.   Gotit har svårt att fullt ut förstå vad det är Kungsbacka gör gällande i p. 95 (f)
 stämningsansökan. Gotit uppfattar det enligt följande.
 
 a.  Kungsbacka hävde avtalet den 12 november 2024.
@@ -7894,7 +7894,7 @@ data.
 
 d.  Därefter, den 12 december 2024, skickade Gotit över datafiler till
 Kungsbacka med Kungsbackas data.
-613.   Gotit önskar att Kungsbacka bekräftar att Gotit förstått detta korrekt.
+613\.   Gotit önskar att Kungsbacka bekräftar att Gotit förstått detta korrekt.
 
 Sida 79 av 101
 
@@ -7902,43 +7902,43 @@ Sida 79 av 101
 
 K.8    Det krävda skadeståndet överstiger ansvarsbegränsningen i avtalet
 
-614.   Enligt p. 37.2 Bilaga C5 Allmänna Bestämmelser till avtalet gäller följande
+614\.   Enligt p. 37.2 Bilaga C5 Allmänna Bestämmelser till avtalet gäller följande
 ansvarsbegränsning enligt avtalet.
 
-615.   Totalkostnaden för införandeprojektet är enligt definitionen i avtalet
+615\.   Totalkostnaden för införandeprojektet är enligt definitionen i avtalet
 1160000kr (denna avviker från den verkliga kostnaden).
-616.   Förvaltningsavgiften per år är enligt definitionen i avtalet 1376000 kr.
+616\.   Förvaltningsavgiften per år är enligt definitionen i avtalet 1376000 kr.
 Förvaltningsavgiften för två år är därmed 2752000 kr.
 
-617.   Kungsbackas bristfälliga grunder gör det svårt att hänföra kommunens olika krav
+617\.   Kungsbackas bristfälliga grunder gör det svårt att hänföra kommunens olika krav
 till införandeprojektet respektive förvaltningsåtagandet.
 
-618.   Det kan dock konstateras att Kungsbackas skadeståndskrav med råge överstiger
+618\.   Det kan dock konstateras att Kungsbackas skadeståndskrav med råge överstiger
 dessa begränsningar.
 
 K.9    Kungsbackas påstådda skador är under alla omständigheter inte adekvata då
 Gotit hade hävningsrätt
-619.   Vid tidpunkten för Kungsbackas hävning hade, oaktat om Kungsbacka hade
+619\.   Vid tidpunkten för Kungsbackas hävning hade, oaktat om Kungsbacka hade
 hävningsrätt eller inte, Gotit rätt att häva avtalet.
 
-620.   Skälet till detta, som förklaras i avsnitt M.1 nedan, var att Kungsbacka inte
+620\.   Skälet till detta, som förklaras i avsnitt M.1 nedan, var att Kungsbacka inte
 betalade de månatliga förvaltningsavgifterna.
 
-621.   Kungsbacka hade den 12 november 2024 (tidpunkten för Kungsbackas hävning)
+621\.   Kungsbacka hade den 12 november 2024 (tidpunkten för Kungsbackas hävning)
 inte betalat några månatliga förvaltningsavgifter avseende 2024. Detta var ett
 väsentligt avtalsbrott som gav Gotit hävningsrätt.
 
-622.   Gotit har vid ett flertal tillfällen anfört att Kungsbackas betalningsvägran utgör
+622\.   Gotit har vid ett flertal tillfällen anfört att Kungsbackas betalningsvägran utgör
 ett väsentligt avtalsbrott.83
-623.   Vid tidpunkten för Kungsbackas hävning hade därmed Gotit rätt att häva
+623\.   Vid tidpunkten för Kungsbackas hävning hade därmed Gotit rätt att häva
 
 parternas avtal. För att Gotit inte ska ha haft hävningsrätt måste Kungsbacka
 visa att kommunen hade rätt att innehålla all betalning av de månatliga
 förvaltningsavgifterna för hela 2024. Någon sådan rätt har kommunen inte haft.
-624.   Detta innebär att, om Kungsbacka av något skäl skulle ha rätt att häva avtalet
+624\.   Detta innebär att, om Kungsbacka av något skäl skulle ha rätt att häva avtalet
 (vilket bestrids), har Gotit å sin sida också haft rätt att häva avtalet.
 
-625.   I en sådan situation är ingen skada som Kungsbacka gör gällande adekvat kausal.
+625\.   I en sådan situation är ingen skada som Kungsbacka gör gällande adekvat kausal.
 
 83 Se t.ex. bilaga S33 och bilaga S36 (Khan Pedersens brev den 31 maj 2024 och 6 september 2024).
 
@@ -7950,7 +7950,7 @@ L      Kungsbackas fastställelseyrkanden ska avvisas
 
 L.1    Parternas respektive inställning
 
-626.   I avsnitt B.2 i stämningsansökan har kommunen yrkat att tingsrätten ska
+626\.   I avsnitt B.2 i stämningsansökan har kommunen yrkat att tingsrätten ska
 fastställa att kommunen har rätt till ersättning för
 
 a.  merkostnaderna för att vidmakthålla två interimsystem som ersätter
@@ -7963,27 +7963,27 @@ samt
 c.  merkostnaderna att införa och vidmakthålla ett nytt system som
 ersätter Systemet i avtalat skick till den 1 augusti 2038.
 
-627.   Gotit yrkar att kommunens talan i denna del ska avvisas.
+627\.   Gotit yrkar att kommunens talan i denna del ska avvisas.
 
 L.2    Kungsbacka har inte kopplat några grunder till fastställelseyrkandena
-628.   I stämningsansökan har Kungsbacka inte kopplat några grunder till sina
+628\.   I stämningsansökan har Kungsbacka inte kopplat några grunder till sina
 fastställelseyrkanden. Redan av detta skäl ska fastställelseyrkandena, i
 nuvarande skick, avvisas.
 
-629.   Gotit utgår från att Kungsbacka, genom tingsrättens processledning, kopplar
+629\.   Gotit utgår från att Kungsbacka, genom tingsrättens processledning, kopplar
 ihop grunder med sina fastställelseyrkanden. Av denna anledning utvecklar Gotit
 nedan varför yrkandena under alla omständigheter ska avvisas.
 
 L.3    Rättsliga utgångspunkter
 
-630.   Av 13 kap. 2 § rättegångsbalken följer att talan om fastställelse huruvida visst
+630\.   Av 13 kap. 2 § rättegångsbalken följer att talan om fastställelse huruvida visst
 rättsförhållande består eller inte består får tas upp till prövning, om ovisshet
 råder om rättsförhållandet och detta är till förfång för käranden.
-631.   En grundläggande förutsättning för att en fastställelsetalan ska tas upp till
+631\.   En grundläggande förutsättning för att en fastställelsetalan ska tas upp till
 prövning är också att den med hänsyn till omständigheterna framstår som
 lämplig.84
 
-632.   För att en fastställelsetalan ska kunna tas upp till prövning måste alltså
+632\.   För att en fastställelsetalan ska kunna tas upp till prövning måste alltså
 sammanfattningsvis följande förutsättningar vara uppfyllda:
 
 a.  Det ska vara fråga om ett rättsförhållande,
@@ -8001,7 +8001,7 @@ Sida 81 av 101
 
 e.  fastställelsetalan måste vid en helhetsbedömning framstå som lämplig.
 
-633.   Vid bedömningen av om fastställelsetalan är lämplig eller inte ska hänsyn tas till
+633\.   Vid bedömningen av om fastställelsetalan är lämplig eller inte ska hänsyn tas till
 bl.a. följande omständigheter:
 a.  Kärandens intresse av fastställelse och de olägenheter en sådan talan
 
@@ -8036,52 +8036,52 @@ rättskraftens omfattning så att den blir överblickbar (se NJA 2013 s. 209 p.
 L.4    Det går inte att överblicka rättskraftskonsekvenserna av kommunens
 fastställelsetalan
 
-634.   Kommunens fastställelseyrkanden ska avvisas redan av det skälet att de vilar på
+634\.   Kommunens fastställelseyrkanden ska avvisas redan av det skälet att de vilar på
 samma avtalsbrott och hävningsförklaring som fullgörelseyrkandet.
 
-635.   Detta innebär att rättskraften av det fullgörelseyrkande som kommunen nu har
+635\.   Detta innebär att rättskraften av det fullgörelseyrkande som kommunen nu har
 framställt hindrar Kommunen från att i en ny rättegång framställa ytterligare
 skadeståndsanspråk som grundar sig på samma avtalsbrott – oavsett om denna
 rätt i och för sig skulle ha fastställts enligt kommunens fastställelseyrkanden.
 Eller med användande av HD:s vokabulär – rättskraftskonsekvenserna blir
 mycket svåra att bedöma.
 
-636.   Av 17 kap. 11 § rättegångsbalken följer att en dom har rättskraft avseende den
+636\.   Av 17 kap. 11 § rättegångsbalken följer att en dom har rättskraft avseende den
 sak som prövats genom domen.
 
 Sida 82 av 101
 
 <!-- sida 189 -->
 
-637.   Av detta följer att samtliga omständigheter som käranden enligt 13 kap. 3 §
+637\.   Av detta följer att samtliga omständigheter som käranden enligt 13 kap. 3 §
 tredje stycket hade kunnat åberopa under processen omfattas av rättskraften
 och prekluderas i och med domen.
 
-638.   Följden blir alltså att omständigheterna inte kan åberopas i ett senare mål till
+638\.   Följden blir alltså att omständigheterna inte kan åberopas i ett senare mål till
 stöd för samma, alternativa eller ekonomiskt likvärdiga rättsföljder.85
 
 Utdrag av JUNO-kommentaren till 17 kap. 11 § RB
-639.   Såvitt är av intresse för det nu aktuella målet har rättskraftens omfattning
+639\.   Såvitt är av intresse för det nu aktuella målet har rättskraftens omfattning
 belysts av Högsta domstolen enligt följande.
 
-640.   I NJA 1971 s. 317 tillät Högsta domstolen att en kärandes yrkande om ersättning
+640\.   I NJA 1971 s. 317 tillät Högsta domstolen att en kärandes yrkande om ersättning
 för konstaterade bubblor i en plastmatta justerades till att även omfatta nya
 bubblor som tillkommit under rättegångens gång. Detta med hänvisning till att
 yrkandet vilade på väsentligen samma grund som det ursprungliga. Därmed
 ändrade justeringen inte heller ”saken” på det sätt som avses i 13 kap. 3 § tredje
 stycket RB.
 
-641.   Med hänsyn till relationen mellan 13 kap. 3 § och 17 kap. 11 § RB hade alltså
+641\.   Med hänsyn till relationen mellan 13 kap. 3 § och 17 kap. 11 § RB hade alltså
 käranden i det fallet – efter ett slutligt avgörande i målet – inte kunnat
 återkomma med nya anspråk kopplade till defekter i plastmattan. Sådana
 anspråk faller inom rättskraftens omfattning och prekluderas.
 
-642.   Vidare slog Högsta domstolen i NJA 1984 s. 733 fast att ett tidigare mål rörande
+642\.   Vidare slog Högsta domstolen i NJA 1984 s. 733 fast att ett tidigare mål rörande
 anmärkningar om fel hänförliga till isoleringen av bjälklaget över källarplanet
 och vindsutrymmet i ett hus inte utgjorde hinder mot en ny process rörande
 påstådda fel hänförliga till isoleringen av husets ytterväggar.
 
-643.   När det gäller principerna för bestämmandet av rättskraftens utsträckning
+643\.   När det gäller principerna för bestämmandet av rättskraftens utsträckning
 uttalade Högsta domstolen då följande:
 
 Utdrag av NJA 1984 s. 733
@@ -8092,46 +8092,46 @@ Sida 83 av 101
 
 <!-- sida 190 -->
 
-644.   Huvudregeln är alltså att en kärande inte kan föra en ny talan om ett sådant fel
+644\.   Huvudregeln är alltså att en kärande inte kan föra en ny talan om ett sådant fel
 som har nära samband med ett fel som prövats i en tidigare rättegång.
 
-645.   I det här fallet kan det konstateras att samtliga kostnadsposter som omfattas av
+645\.   I det här fallet kan det konstateras att samtliga kostnadsposter som omfattas av
 Kommunens fastställelseyrkanden i avsnitt B.2 i stämningsansökan av allt att
 döma grundar sig på samma påstådda avtalsbrott – och därmed samma
 påståenden om fel i den utförda tjänsten – som ligger till grund för Kommunens
 fullgörelseyrkande i målet.
 
-646.   Såvitt avser kostnader för vidmakthållande av interimsystem – dvs. de
+646\.   Såvitt avser kostnader för vidmakthållande av interimsystem – dvs. de
 fastställelseyrkanden som angetts i p. 30.a i stämningsansökan – har Kommunen
 till och med uttryckligen begärt ersättning för sådana kostnader inom ramen för
 fullgörelseyrkandet (se p. 95.a och b i stämningsansökan).
-647.   Sammanfattningsvis grundar sig Kommunens yrkanden i fullgörelse- respektive
+647\.   Sammanfattningsvis grundar sig Kommunens yrkanden i fullgörelse- respektive
 fastställelsedelen på samma avtalsbrott. Kommunen har själv också inkluderat
 
 delar av posterna i fullgörelseyrkandet.
-648.   Mot denna bakgrund är det uppenbart att fullgörelseyrkandet och fastställelse-
+648\.   Mot denna bakgrund är det uppenbart att fullgörelseyrkandet och fastställelse-
 yrkandena rör samma sak i den mening som avses i 17 kap. 11 § första stycket
 rättegångsbalken.
 
-649.   Utgångspunkten är därför att rättskraften av det fullgörelseyrkande som
+649\.   Utgångspunkten är därför att rättskraften av det fullgörelseyrkande som
 kommunen nu har framställt hindrar kommunen från att i en ny rättegång
 framställa ytterligare skadeståndsanspråk som grundar sig på samma
 avtalsbrott.
 
-650.   Det vore då mycket märkligt om det samtidigt skulle finnas en fastställelsedom
+650\.   Det vore då mycket märkligt om det samtidigt skulle finnas en fastställelsedom
 enligt vilken Gotit skulle vara skadeståndsskyldigt för samma påstådda avtals-
 brott fram till den 1 augusti 2038.
 
-651.   Kommunens fastställelseyrkanden måste därför snarast betraktas som ett sätt
+651\.   Kommunens fastställelseyrkanden måste därför snarast betraktas som ett sätt
 att försöka kringgå de principer om rättskraft och preklusion som skulle
 förhindra Kommunen från att i framtiden återkomma med nya krav med det
 påstådda avtalsbrottet som grund.
-652.   I det fall tingsrätten skulle tillåta och – mot Gotits bestridande – bifalla
+652\.   I det fall tingsrätten skulle tillåta och – mot Gotits bestridande – bifalla
 fastställelseyrkandena finns det alltså en risk för att tingsrätten skulle fastställa
 
 en ersättningsskyldighet som inte skulle kunna tas upp till prövning i en
 efterföljande fullgörelseprocess.
-653.   Här kan särskilt följande teoretiska situation beaktas.
+653\.   Här kan särskilt följande teoretiska situation beaktas.
 
 a.  Kungsbacka har yrkat att tingsrätten fastställer merkostnaderna för att
 vidmakthålla två interimsystem som ersätter systemet i avtalat skick till
@@ -8167,15 +8167,15 @@ f.  Svaret på den frågan är självklart nej. För annars kringgås den ogilla
 fullgörelsetalans rättskraft. Det visar med önskvärd tydlighet att
 Kungsbackas fastställelseyrkanden inte ska tillåtas.
 
-654.   Under alla förhållanden är det tydligt att rättskraftskonsekvenserna av ett bifall
+654\.   Under alla förhållanden är det tydligt att rättskraftskonsekvenserna av ett bifall
 till Kommunens fastställelseyrkanden, om man uttrycker sig försiktigt, inte fullt
 ut kan överblickas.
 
-655.   Redan av dessa skäl är det olämpligt att Kommunens fastställelseyrkanden tas
+655\.   Redan av dessa skäl är det olämpligt att Kommunens fastställelseyrkanden tas
 upp till prövning.
 L.5    Kungsbackas fastställelseteman är alldeles för breda
 
-656.   Som anförts har kommunen yrkat att tingsrätten ska fastställa att kommunen
+656\.   Som anförts har kommunen yrkat att tingsrätten ska fastställa att kommunen
 har rätt till ersättning för
 
 a.  merkostnaderna för att vidmakthålla två interimsystem som ersätter
@@ -8188,7 +8188,7 @@ samt
 c.  merkostnaderna att införa och vidmakthålla ett nytt system som ersätter
 Systemet i avtalat skick till den 1 augusti 2038.
 
-657.   Ingen av dessa yrkanden har någon som helst begränsning avseende vad det är
+657\.   Ingen av dessa yrkanden har någon som helst begränsning avseende vad det är
 för nytt system som köps, vad det är för upphandling som genomförs etc. Det
 förefaller omfatta vilka ersättningssystem som helst oavsett hur mycket
 Kungsbacka betalar för dem och hur Kungsbacka upphandlat dem.
@@ -8197,19 +8197,19 @@ Sida 85 av 101
 
 <!-- sida 192 -->
 
-658.   Såsom Kungsbackas yrkanden är konstruerade skulle de kunna så att säga
+658\.   Såsom Kungsbackas yrkanden är konstruerade skulle de kunna så att säga
 täckningsköpa ett slott i stället för det ”nyckelfärdiga hus” kommunen (felaktigt)
 gör gällande att de köpt från Gotit.
 
-659.   Denna gränslöshet kan inte accepteras.
+659\.   Denna gränslöshet kan inte accepteras.
 
 L.6    Det finns en risk för att fastställelsetalan följs av flera fullgörelseprocesser
-660.   Utöver att rättskraftskonsekvenserna inte kan överblickas finns det en stor risk
+660\.   Utöver att rättskraftskonsekvenserna inte kan överblickas finns det en stor risk
 för att en fastställelsedom även skulle kunna följas av flera fullgörelseprocesser,
 vilket även det talar emot att fastställelseyrkandena ska tillåtas. Skälen för detta
 är följande:
 
-661.   Kommunens yrkanden sträcker sig ända till den 1 augusti 2038 (även det som
+661\.   Kommunens yrkanden sträcker sig ända till den 1 augusti 2038 (även det som
 påstås avse ”interimsystem”…), vilket i sammanhanget får betecknas som en
 extrem tidsperiod. Under denna tidsperiod kommer alltså påstådda kostnader
 successivt att konkretiseras och sannolikt ge upphov till flera nya
@@ -8217,30 +8217,30 @@ fullgörelseyrkanden (om man skulle acceptera att fastställelserna på något s
 skulle åsidosätta principen om res judicata – vilket är en förutsättning för att de
 ska tillåtas).
 
-662.   Till detta kommer att fastställelseyrkandena även omfattar kostnadsposter av
+662\.   Till detta kommer att fastställelseyrkandena även omfattar kostnadsposter av
 tre olika slag som teoretiskt sett skulle kunna ge upphov till separata
 fullgörelseprocesser (om man skulle acceptera att fastställelserna på något sätt
 skulle åsidosätta principen om res judicata – vilket är en förutsättning för att de
 ska tillåtas).
 
-663.   Ur det perspektivet skulle en fastställelsedom knappast bidra till att lösa tvisten
+663\.   Ur det perspektivet skulle en fastställelsedom knappast bidra till att lösa tvisten
 eller att åstadkomma en ”enkel fullgörelseprocess” i enlighet med vad Högsta
 domstolen har uttalat i NJA 2005 s. 517.
 
-664.   Det är vidare så att om Kungsbacka skulle ha framgång med sin fastställelsetalan
+664\.   Det är vidare så att om Kungsbacka skulle ha framgång med sin fastställelsetalan
 skulle en efterkommande fullgörelseprocess i omfattande delar vara en repris av
 den föregående processen.
-665.   Kungsbacka har nämligen endast yrkat att merkostnader ska ersättas. I grunden
+665\.   Kungsbacka har nämligen endast yrkat att merkostnader ska ersättas. I grunden
 bygger Kungsbackas talan på att Gotit ska ersätta Kungsbackas skada i anledning
 av påstådda avtalsbrott (detta bestrids).
 
-666.   En skada är summan av kostnaderna och besparingarna som avtalsbrottet
+666\.   En skada är summan av kostnaderna och besparingarna som avtalsbrottet
 innebär – dvs. det kan vara så att en skadedrabbad drabbas av ökade kostnader
 för något men sparar pengar för något annat (om en husägare täckningsköper
 måleriarbete och den nya målaren tar mer betalt för ett rum men mindre för ett
 annat, är skadan summan av dessa skillnader).
 
-667.   Detta innebär att vid en fullgörelsetalan skulle hela skadan behöva prövas – det
+667\.   Detta innebär att vid en fullgörelsetalan skulle hela skadan behöva prövas – det
 går nämligen inte att separera ut olika moment i en påstådd skada och hantera
 dessa separat.
 
@@ -8248,51 +8248,51 @@ Sida 86 av 101
 
 <!-- sida 193 -->
 
-668.   Sammantaget saknas det skäl anta att en fastställelsedom skulle skapa de förut-
+668\.   Sammantaget saknas det skäl anta att en fastställelsedom skulle skapa de förut-
 sättningar för förlikning eller en förhållandevis enkel fullgörelseprocess som kan
 motivera att en fastställelsetalan tillåts.
 
-669.   Av samma anledning är fastställelsetalan i det här fallet inte heller ägnad att
+669\.   Av samma anledning är fastställelsetalan i det här fallet inte heller ägnad att
 undanröja den ovisshet som finns i parternas rättsförhållande (jfr NJA 2013 s
 209 p. 9).
 
-670.   Även av dessa skäl ska Kommunens fastställelseyrkanden avvisas.
+670\.   Även av dessa skäl ska Kommunens fastställelseyrkanden avvisas.
 L.7    Gotit skulle förlora möjligheten presentera ett adekvat försvar
 
-671.   Slutligen, att tillåta fastställelseyrkandena medför en uppenbar risk för att Gotit
+671\.   Slutligen, att tillåta fastställelseyrkandena medför en uppenbar risk för att Gotit
 förlorar möjligheten att presentera ett adekvat försvar.
 
-672.   Här kan det konstateras att Kommunens fastställelseyrkanden avser olika former
+672\.   Här kan det konstateras att Kommunens fastställelseyrkanden avser olika former
 av teoretiska kostnader som ännu inte har uppkommit, men som Kungsbacka
 förväntar och spekulerar i ska uppkomma fram till den 1 augusti 2038.
 
-673.   Storleken på dessa kostnader beror i sin tur på hur Kommunen själv väljer att
+673\.   Storleken på dessa kostnader beror i sin tur på hur Kommunen själv väljer att
 agera och ligger alltså helt i Kommunens händer.
-674.   För närvarande är det omöjligt för Gotit att överblicka hur stora kostnader
+674\.   För närvarande är det omöjligt för Gotit att överblicka hur stora kostnader
 Kommunen i framtiden kan komma att begära ersättning för.
 
-675.   Om de påstådda kostnaderna skulle bli omfattande eller ligga långt in i
+675\.   Om de påstådda kostnaderna skulle bli omfattande eller ligga långt in i
 framtiden – men ändå ses som adekvat kausala, vilket skulle bestridas
 (adekvansen avtar med tiden) – är det sannolikt att Gotit kommer att begära
 jämkning av de bestämmelser i avtalet (alternativt av skadeståndets belopp)
 som utgör grunden för ersättningsskyldigheten.
 
-676.   Sådan jämkning kan även vara nödvändig om det nya systemet inte helt
+676\.   Sådan jämkning kan även vara nödvändig om det nya systemet inte helt
 korresponderar till Gotits (dvs. det är äpplen och päron som jämförs).
 
-677.   En fastställelsedom i enlighet med Kommunens yrkanden skulle dock utgöra
+677\.   En fastställelsedom i enlighet med Kommunens yrkanden skulle dock utgöra
 hinder mot att jämkning av avtalet tas upp till prövning i senare eventuella
 rättegångar rörande Kommunens rätt till ersättning. Alltså måste
 jämkningsfrågan tas upp och kunna bedömas redan nu.
 
-678.   Att idag pröva en ev. jämkning av avtalet (eller skadeståndets belopp) är inte
+678\.   Att idag pröva en ev. jämkning av avtalet (eller skadeståndets belopp) är inte
 möjligt eller rimligt eftersom beloppen fram till år 2038 i dagsläget är helt
 okända. Därmed är det inte lämpligt att ta upp en fastställelse till prövning.
-679.   Mot denna bakgrund skulle ett tillåtande av fastställelseyrkandena innebära en
+679\.   Mot denna bakgrund skulle ett tillåtande av fastställelseyrkandena innebära en
 risk för att Kommunen får en omotiverad processuell fördel. Gotit skulle också
 förlora möjligheten att presentera ett adekvat försvar mot Kommunens krav.
 
-680.   Även ur dessa perspektiv är det olämpligt att Kommunens fastställelseyrkanden
+680\.   Även ur dessa perspektiv är det olämpligt att Kommunens fastställelseyrkanden
 tas upp till prövning.
 
 Sida 87 av 101
@@ -8302,22 +8302,22 @@ Sida 87 av 101
 L.8    Sammanfattning
 
 L.8.1  Rättskraftskonsekvenserna kan inte överblickas
-681.   Samtliga kostnadsposter i B.2 grundar sig på samma avtalsbrott och
+681\.   Samtliga kostnadsposter i B.2 grundar sig på samma avtalsbrott och
 hävningsförklaring som fullgörelseyrkandet. Delar av kostnadsposterna ingår
 
 dessutom redan i fullgörelseyrkandet.
-682.   Yrkandena rör därför ”samma sak” och ska som utgångspunkt omfattas av
+682\.   Yrkandena rör därför ”samma sak” och ska som utgångspunkt omfattas av
 rättskraften av fullgörelseyrkandet (NJA 1971 s. 317, NJA 1984 s. 733 och NJA
 1999 s. 520).
 
-683.   En parallell fastställelsedom fram till 2038 skulle därför stå i strid med
+683\.   En parallell fastställelsedom fram till 2038 skulle därför stå i strid med
 principerna om rättskraft och preklusion.
 
-684.   Under alla förhållanden kan rättskraftskonsekvenserna inte överblickas (jfr NJA
+684\.   Under alla förhållanden kan rättskraftskonsekvenserna inte överblickas (jfr NJA
 2013 s. 209 p. 6).
 
 L.8.2  Fastställelserna är för breda
-685.   Kungsbackas fastställelseyrkanden är alltför breda. Kommunen yrkar ersättning
+685\.   Kungsbackas fastställelseyrkanden är alltför breda. Kommunen yrkar ersättning
 för merkostnader för interimsystem, upphandlingskostnader och kostnader för
 ett nytt system fram till 2038, utan någon begränsning av vilka system som köps
 eller hur upphandlingen genomförs. Yrkandena saknar avgränsning och kan
@@ -8326,23 +8326,23 @@ upphandlingsförfarande. Det kan inte accepteras.
 
 L.8.3  Risk för flera rättegångar
 
-686.   Fastställelseyrkandena sträcker sig upp till tolv år framåt och omfattar tre olika
+686\.   Fastställelseyrkandena sträcker sig upp till tolv år framåt och omfattar tre olika
 kostnadsslag som kan konkretiseras separat över tid.
 
-687.   En fastställelsedom skulle därför varken lösa tvisten eller skapa förutsättningar
+687\.   En fastställelsedom skulle därför varken lösa tvisten eller skapa förutsättningar
 för en enkel fullgörelseprocess på det sätt som uttalas i NJA 2005 s. 517.
-688.   Fastställelsetalan är inte heller ägnad att undanröja den ovisshet som finns i
+688\.   Fastställelsetalan är inte heller ägnad att undanröja den ovisshet som finns i
 parternas rättsförhållande (jfr NJA 2013 s 209 p. 9).
 
 L.8.4  Gotit berövas möjligheten till adekvat försvar
 
-689.   Kostnaderna är framtida kostnader och beror helt på Kommunens eget
+689\.   Kostnaderna är framtida kostnader och beror helt på Kommunens eget
 agerande och storleken är idag helt okänd.
 
-690.   En fastställelsedom skulle hindra jämkning av det underliggande avtalet
+690\.   En fastställelsedom skulle hindra jämkning av det underliggande avtalet
 (alternativt skadeståndsbeloppen) i senare process, samtidigt som jämkning inte
 kan prövas nu eftersom beloppen saknas.
-691.   Gotit förlorar därmed möjligheten att presentera ett effektivt försvar (NJA 1985
+691\.   Gotit förlorar därmed möjligheten att presentera ett effektivt försvar (NJA 1985
 s. 172 och NJA 2013 s. 209 p. 8 och 14).
 
 Sida 88 av 101
@@ -8351,48 +8351,48 @@ Sida 88 av 101
 
 L.9    Fastställelseyrkanden bestrids i sak
 
-692.   Fastställelseyrkandena bestrids i sak. Gotit kommer att utveckla detta för det fall
+692\.   Fastställelseyrkandena bestrids i sak. Gotit kommer att utveckla detta för det fall
 tingsrätten inte skulle avvisa dessa.
 
 M      Genkäromålet
 
 M.1    Kungsbacka måste betala förvaltningsavgiften
 
-693.   Kungsbacka leveransgodkände etapp 1 den 29 augusti 2023.
+693\.   Kungsbacka leveransgodkände etapp 1 den 29 augusti 2023.
 
-694.   Därefter har Kungsbacka varit skyldigt att erlägga den månatliga
+694\.   Därefter har Kungsbacka varit skyldigt att erlägga den månatliga
 förvaltningsavgiften. I enlighet med vad som anges i p. 4.3.1 förlikningsavtalet
 var etapp 1:s månatliga förvaltningsavgift 57 333 kr.
-695.   Som grund för sin betalning har Gotit upprättat s.k. betalningsunderlag enligt
+695\.   Som grund för sin betalning har Gotit upprättat s.k. betalningsunderlag enligt
 24.4 Bilaga C5.
 
-696.   Kungsbacka har betalat den månatliga förvaltningsavgiften fram till och med
+696\.   Kungsbacka har betalat den månatliga förvaltningsavgiften fram till och med
 december 2023. Därefter slutade Kungsbacka betala förvaltningsavgiften trots
 att kommunen var skyldig att göra detta.
 
-697.   Gotit har upprättat betalningsunderlag och fakturerat för de månatliga
+697\.   Gotit har upprättat betalningsunderlag och fakturerat för de månatliga
 förvaltningsavgifterna i perioden januari till oktober 2024.86 Kungsbacka har
 dock inte betalat dessa avgifter.
 
-698.   Det totala beloppet avseende januari till oktober 2024 är 573 330 kr (57 333 *
+698\.   Det totala beloppet avseende januari till oktober 2024 är 573 330 kr (57 333 \*
 10). Detta belopp är Kungsbacka skyldigt att erlägga betalning för. Till beloppet
 ska läggas förvaltningsavgiften för de första tolv dagarna av november (dvs. fram
-till Kungsbackas hävning) – 22 933 kr (57 333 / 30 * 12).
+till Kungsbackas hävning) – 22 933 kr (57 333 / 30 \* 12).
 
-699.   Totalt ska därmed Kungsbacka betala 596 263 kr (exkl. moms) avseende
+699\.   Totalt ska därmed Kungsbacka betala 596 263 kr (exkl. moms) avseende
 förvaltningsavgift (dvs. för den utförda tjänsten fram till hävningen).
 M.2    Kungsbackas hävning var ogrundad
 
-700.   Den 12 november 2024 hävde Kungsbacka, utan rätt därtill, avtalet (och
+700\.   Den 12 november 2024 hävde Kungsbacka, utan rätt därtill, avtalet (och
 förlikningsavtalet).
 
-701.   Den 15 november 2024 meddelade Gotit att bolaget bestred att Kungsbacka
+701\.   Den 15 november 2024 meddelade Gotit att bolaget bestred att Kungsbacka
 hade rätt att häva avtalet (och förlikningsavtalet). Gotit accepterade dock att
 avtalet upphört genom hävningen och begärde att Kungsbacka skulle betala
 skadestånd till Gotit.
 
 M.3    Gotit har rätt till ersättning för avvecklingsprojektet
-702.   Vid upphörande av avtalet tillhandahöll Gotit avvecklings-, ersättnings- och
+702\.   Vid upphörande av avtalet tillhandahöll Gotit avvecklings-, ersättnings- och
 överflyttningsassistans i enlighet med parternas avtal.
 
 86 Se bilaga S19 och bilaga S38.
@@ -8401,36 +8401,36 @@ Sida 89 av 101
 
 <!-- sida 196 -->
 
-703.   I samband med Kungsbackas hävning ställde kommunen omfattande
+703\.   I samband med Kungsbackas hävning ställde kommunen omfattande
 avtalsstridiga krav på Gotit. Kungsbacka krävde i princip att kommunen, i
 obegränsad tid, skulle få fortsätta använda systemet utan att betala någon
 ersättning för detta. Kungsbackas avtalsstridiga krav försvårade avvecklings-
 projektet. Gotit utförde dock de uppgifter som ålåg bolaget enligt avtalet.
 
-704.   Enligt avtalet upprättade Gotit en avvecklings-, ersättnings- och
+704\.   Enligt avtalet upprättade Gotit en avvecklings-, ersättnings- och
 överflyttningsplan. Planen skickades över till Kungsbacka den 5 december
 2024.87
 
-705.   Den 12 december 2024 skickade Gotit över Kungsbackas data i Skolplatsen till
+705\.   Den 12 december 2024 skickade Gotit över Kungsbackas data i Skolplatsen till
 kommunen.88 Avvecklingsprojektet var därmed avslutat.
-706.   I avtalet anges följande rörande ersättning för avvecklingsprojektet (exkl.
+706\.   I avtalet anges följande rörande ersättning för avvecklingsprojektet (exkl.
 moms).
 
-707.   Det kan noteras att enligt 25.1 C5 – Allmänna bestämmelser till avtalet utgår
+707\.   Det kan noteras att enligt 25.1 C5 – Allmänna bestämmelser till avtalet utgår
 inte ersättning för avvecklingsprojektet om avtalet upphört pga. en befogad
 hävning från Kungsbackas sida. Någon sådan har dock inte varit för handen.
 
-708.   Gotit har fakturerat Kungsbacka för avvecklingsprojektet den 2 juli 2025.89
+708\.   Gotit har fakturerat Kungsbacka för avvecklingsprojektet den 2 juli 2025.89
 
-709.   Kungsbacka ska därmed betala 120000 kr (exkl. moms) till Gotit för
+709\.   Kungsbacka ska därmed betala 120000 kr (exkl. moms) till Gotit för
 avvecklingsprojektet.
 
 M.4    Gotits skada i anledning av den ogrundade hävningen
-710.   Till följd av Kungsbackas ogrundade hävning den 12 november 2024 är
+710\.   Till följd av Kungsbackas ogrundade hävning den 12 november 2024 är
 Kungsbacka skyldig att ersätta den skada som Gotit lidit i anledning av
 hävningen.
 
-711.   Gotits skada i anledning av hävningen uppgår till 6713 929 kr. Den består av
+711\.   Gotits skada i anledning av hävningen uppgår till 6713 929 kr. Den består av
 följande poster:
 
 a.  Skada hänförlig till uteblivna intäkter hänförliga till ersättning för
@@ -8451,42 +8451,42 @@ c.  Skada hänförlig till uteblivna intäkter hänförliga till förlikningslik
 
 M.4.1  Skada hänförlig till uteblivna intäkter hänförliga till ersättning för
 införandeprojektet för etapp 2
-712.   Vid tidpunkten för hävningen hade effektiv leveransdag av etapp 2 (och därmed
+712\.   Vid tidpunkten för hävningen hade effektiv leveransdag av etapp 2 (och därmed
 systemet) ännu inte inträffat då Kungsbacka felaktigt inte godkänt leveransen av
 etapp 2.
 
-713.   Hade avtalet fortsatt att gälla, och Kungsbacka uppfyllt sina avtalsåtaganden,
+713\.   Hade avtalet fortsatt att gälla, och Kungsbacka uppfyllt sina avtalsåtaganden,
 hade etapp 2 godkänts varvid Kungsbacka hade erlagt ersättning för
 införandeprojektet etapp 2 med 645 383 kr. Beloppet framgår av p. 4.2 och p.
 7.5 förlikningsavtalet.
 
-714.   I och med att Gotit redan levererat etapp 2 vid tidpunkten för hävningen hade
+714\.   I och med att Gotit redan levererat etapp 2 vid tidpunkten för hävningen hade
 Gotit redan tagit alla kostnader hänförliga till etapp 2. Hävningen har därmed
 resulterat i en skada för Gotit om 645 383 kr i anledning av att bolaget inte fått
 intäkten hänförlig till etapp 2.
 
 M.4.2  Skada hänförlig till uteblivna intäkter hänförliga till förvaltningsavgifter
-715.   I och med att Kungsbacka var skyldigt att godkänna leveransen av etapp 2 den
+715\.   I och med att Kungsbacka var skyldigt att godkänna leveransen av etapp 2 den
 12 november 2024 har Gotit i sin skadeberäkning utgått från att effektiv
 leveransdag skett den 12 november 2024.90
 
-716.   Vid effektiv leveransdag av etapp 2 var hela systemet levererat med innebörden
+716\.   Vid effektiv leveransdag av etapp 2 var hela systemet levererat med innebörden
 att den femåriga avtalstiden för förvaltningsåtagandet skulle startat och löpt till
 den 12 november 2029.
 
-717.   Den årliga förvaltningsavgiften var 1 376 000 kr med begränsade möjligheter till
+717\.   Den årliga förvaltningsavgiften var 1 376 000 kr med begränsade möjligheter till
 uppräkning. Vid skadeberäkningen har Gotit utgått från att inga uppräkningar
 skulle ske.
 
-718.   Det innebär att Gotit under den femåriga avtalsperioden skulle ha haft en intäkt
+718\.   Det innebär att Gotit under den femåriga avtalsperioden skulle ha haft en intäkt
 om 6 880 000 kr avseende förvaltningsavgift.
 
-719.   Gotits direkta kostnader för att leverera tjänsten har varit mycket begränsade.
+719\.   Gotits direkta kostnader för att leverera tjänsten har varit mycket begränsade.
 Eller med andra ord – den stora andelen av Gotits kostnader är fasta och har
 inte påverkats av huruvida Kungsbacka varit kund eller inte. När Gotit tappat
 Kungsbacka som kund har detta inte inneburit några väsentliga
 kostnadsminskningar för Gotit.
-720.   Gotit har gjort en konservativ beräkning av det s.k. täckningsbidraget (intäkt
+720\.   Gotit har gjort en konservativ beräkning av det s.k. täckningsbidraget (intäkt
 minus rörlig kostnad).
 
 90 Det kan noteras att detta är det mest förmånliga datumet för Kungsbacka vid en skadeberäkning.
@@ -8513,9 +8513,9 @@ hävningen av avtalet med Kungsbacka.
 f.  Det årliga täckningsbidraget för Kungsbacka har därmed varit
 1228450kr.
 
-721.   Det totala täckningsbidraget under avtalets femåriga avtalstid hade varit
+721\.   Det totala täckningsbidraget under avtalets femåriga avtalstid hade varit
 6142250 kr.
-722.   Intäkterna hade dock varit utspridda över en femårsperiod varför en
+722\.   Intäkterna hade dock varit utspridda över en femårsperiod varför en
 nuvärdesberäkning av skadan är nödvändig. Gotit har gjort följande
 nuvärdesberäkning.
 
@@ -8543,40 +8543,40 @@ Sida 92 av 101
 
 <!-- sida 199 -->
 
-723.   Gotits skada hänförlig till förvaltningsavgifter uppgår därför till 5 318 546 kr.
+723\.   Gotits skada hänförlig till förvaltningsavgifter uppgår därför till 5 318 546 kr.
 
-724.   På skadeståndet löper inte moms.
+724\.   På skadeståndet löper inte moms.
 
 M.4.3  Skada hänförlig till uteblivna intäkter hänförliga till förlikningslikviden
-725.   Enligt p. 3.3 B) i förlikningsavtalet skulle Kungsbacka betala 750 000 kr till Gotit
+725\.   Enligt p. 3.3 B) i förlikningsavtalet skulle Kungsbacka betala 750 000 kr till Gotit
 när de åtgärder som framgick av den s.k. restlistan var levererade.
 
-726.   Frågan om restlistan hanteras utförligt i avsnitt G.1 ovan.
+726\.   Frågan om restlistan hanteras utförligt i avsnitt G.1 ovan.
 
-727.   Åtgärderna i restlistan skulle hanteras i sju ”releaser”. Vid tidpunkten för
+727\.   Åtgärderna i restlistan skulle hanteras i sju ”releaser”. Vid tidpunkten för
 Kungsbackas hävning den 12 november 2024 återstod två releaser (en den
 19 november 2024 och en den 11 februari 2025).
 
-728.   Efter att Gotit levererat åtgärderna på restlistan skulle Kungsbacka betala
+728\.   Efter att Gotit levererat åtgärderna på restlistan skulle Kungsbacka betala
 750 000 kr till Gotit.
-729.   I och med att Kungsbacka, utan rätt därtill, hävde avtalet fick Gotit aldrig betalt
+729\.   I och med att Kungsbacka, utan rätt därtill, hävde avtalet fick Gotit aldrig betalt
 för åtgärderna i restlistan.
 
-730.   Som framgår av avsnitt G.1 ovan hade Gotit levererat åtgärderna i release 1–5.
+730\.   Som framgår av avsnitt G.1 ovan hade Gotit levererat åtgärderna i release 1–5.
 Åtgärderna i release 6 och 7 var redan framtagna och skulle ha kommit i
 releaserna dessa datum (vilket de också gjorde).
 
-731.   Kungsbackas hävning innebar inga besparingar för Gotit då arbetet med att ta
+731\.   Kungsbackas hävning innebar inga besparingar för Gotit då arbetet med att ta
 fram åtgärderna i release 6 och 7 redan var utfört.
 
-732.   Gotits skada hänförlig till återstående del av förlikningslikviden uppgår därmed
+732\.   Gotits skada hänförlig till återstående del av förlikningslikviden uppgår därmed
 till 750 000 kr.
 M.4.4  Slutsats
 
-733.   Kungsbacka är följaktligen skyldig att ersätta Gotits skada i anledning av den
+733\.   Kungsbacka är följaktligen skyldig att ersätta Gotits skada i anledning av den
 ogrundade hävningen med 6 713 929 kr.
 
-734.   Gotit har den 4 juli 2025 skickat över en faktura avseende skadestånd till
+734\.   Gotit har den 4 juli 2025 skickat över en faktura avseende skadestånd till
 Kungsbacka.91
 
 91 Se bilaga S43.
@@ -8595,37 +8595,37 @@ Sida 93 av 101
 
 N      Frågor om Kungsbackas åberopade bevisning
 
-735.   Kungsbacka har gett in och åberopat en handling som kommunen kallar
+735\.   Kungsbacka har gett in och åberopat en handling som kommunen kallar
 ”anteckningar från halvtidsavstämning” (ab. 41) och en handling som
 kommunen kallar ”protokoll vid veckoavstämning” (ab 47). Handlingarna har i
 övrigt inte alls förklarats av Kungsbacka.
 
-736.   Gotit har inte sett dessa handlingar tidigare.
+736\.   Gotit har inte sett dessa handlingar tidigare.
 
-737.   Längst ned på ”anteckningar från halvtidsavstämning" (ab. 41) första sida anges
+737\.   Längst ned på ”anteckningar från halvtidsavstämning" (ab. 41) första sida anges
 följande.
 
-738.   Längst ned på ”protokoll vid veckoavstämning" (ab 47) första sida anges
+738\.   Längst ned på ”protokoll vid veckoavstämning" (ab 47) första sida anges
 följande.
 
-739.   Det förefaller alltså röra sig om olika sidor i samma skriftliga handling (varför
+739\.   Det förefaller alltså röra sig om olika sidor i samma skriftliga handling (varför
 Kungsbacka kallar det ena för anteckningar och det andra för protokoll är
 oklart).
 
-740.   I 38 kap. 1 § första stycket RB anges att:
+740\.   I 38 kap. 1 § första stycket RB anges att:
 
 Skriftlig handling, som åberopas till bevis, bör företes i huvudskrift. Sådan
 handling må företes i styrkt avskrift, om det finnes tillfyllest eller
 huvudskriften ej är att tillgå.
 
-741.   Huvudregeln är att en handling som åberopas som bevis ska ges in i original.
+741\.   Huvudregeln är att en handling som åberopas som bevis ska ges in i original.
 Men det går också att ge in avskrift. Avskriften ska dock vara av hela handlingen
 – inte delar av den.
 
-742.   Rättegångsbalken ger inte utrymme att såsom Kungsbacka förefaller göra
+742\.   Rättegångsbalken ger inte utrymme att såsom Kungsbacka förefaller göra
 åberopa utdrag ur en skriftlig handling (och dessutom ange att det är två olika
 skriftliga handlingar).
-743.   Ska Kungsbacka åberopa ab 41 och 47 måste kommunen ge in en fullständig
+743\.   Ska Kungsbacka åberopa ab 41 och 47 måste kommunen ge in en fullständig
 kopia av handlingen ”Möten med Gotit VT24”, inte valda utdrag (och påstå att
 det rör sig om separata handlingar).
 
@@ -8633,7 +8633,7 @@ O      Preliminär bevisuppgift
 
 O.1    Muntlig bevisning
 
-744.   Nedan kommer Gotit i denna preliminära bevisuppgift endast ange vilka
+744\.   Nedan kommer Gotit i denna preliminära bevisuppgift endast ange vilka
 förhörspersoner Gotit avser höra samt förhörstema. Gotit kommer att
 komplettera detta med bevisteman när Gotit har en bättre uppfattning om vad
 som är stridigt i målet (och vad som faktiskt är Kungsbackas grunder).
@@ -8642,17 +8642,17 @@ Sida 94 av 101
 
 <!-- sida 201 -->
 
-745.   Partsförhör under sanningsförsäkran med Jörgen Rönning (Gotits VD och
+745\.   Partsförhör under sanningsförsäkran med Jörgen Rönning (Gotits VD och
 ensamma styrelseledamot) rörande Skolplatsen, hans kontakter med
 Kungsbackas företrädare, upphandlingen, införandeprojekten och förvaltningen
 av systemet.
 
-746.   Vittnesförhör med Andreas Öhman (anställd på Gotit) rörande Skolplatsen, hans
+746\.   Vittnesförhör med Andreas Öhman (anställd på Gotit) rörande Skolplatsen, hans
 kontakter med Kungsbackas företrädare, upphandlingen, införandeprojekten
 och förvaltningen av systemet.
 
 O.2    Skriftlig bevisning
-747.   Gotit åberopar följande skriftlig bevisning.
+747\.   Gotit åberopar följande skriftlig bevisning.
 
 a.  Kungsbackas tilldelningsbeslut i upphandlingen daterat den 26 januari
 2021, bilaga S1, till styrkande av att avtalat tecknats utan föregående
@@ -8797,7 +8797,7 @@ styrkande av Gotits rätt till ersättning för månatliga förvaltningsavgifter
 gg. Rättelseanmaning från Kungsbackas ombud den 1 november 2024, bilaga
 
 S39¸till styrkande av att Kungsbacka varken godkänt eller underkänt etapp
-2.
+2\.
 
 Sida 97 av 101
 
@@ -8830,15 +8830,15 @@ styrkande av att Kungsbacka mottagit en faktura avseende denna post.
 
 P      Övrigt
 
-748.   Ansökningsavgift om 2 800 kronor har idag betalats in via domstolsverkets
+748\.   Ansökningsavgift om 2 800 kronor har idag betalats in via domstolsverkets
 system för betalning av ansökningsavgift.
 
-749.   Gotit har översänt en undertecknad version av detta svaromål och genkäromål
+749\.   Gotit har översänt en undertecknad version av detta svaromål och genkäromål
 till tingsrätten (i anledningen av genkäromålet).
 
 Stockholm som ovan
 
-____________________           ____________________
+\____________________           ____________________
 Gunnar Svedberg                Rikard Samuelsson
 
 Sida 98 av 101
@@ -8920,7 +8920,7 @@ Sida 101 av 101
 <!-- sida 208 -->
 
 E-tjänst för att signera och skicka handlingar digitalt
-________________________________________________________________
+\________________________________________________________________
 
 På domstol.se finns en e-tjänst för att digitalt Dokumenten måste vara av PDF-format och
 signera och skicka in handlingar till domstolar får inte sammanlagt överstiga 20 MB.
@@ -9020,8 +9020,8 @@ får domstolen i stället använda folkbokföringsadressen.
 I vissa fall får du två brev
 Om handlingarna skickas till en fysisk postadress, skickar domstolen två brev:
 
-1. I det första brevet finns handlingarna som du ska ta del av, till exempel en kallelse.
-2. Det andra brevet skickas nästa arbetsdag till samma adress. Brevet innehåller ett meddelande
+1\. I det första brevet finns handlingarna som du ska ta del av, till exempel en kallelse.
+2\. Det andra brevet skickas nästa arbetsdag till samma adress. Brevet innehåller ett meddelande
 om att det första brevet har skickats (kontrollmeddelande).
 Obs! Om du bara får meddelandet måste du kontakta domstolen snarast möjligt.
 
@@ -9040,7 +9040,7 @@ Mars            Mars           Mars
 1               Handlingarna som du ska Eventuellt kontrollmeddelande Du är delgiven den 15 mars.
 3
 1
--               delges skickas den 1 mars. skickas nästa arbetsdag, den 2 mars. Tiden räknas från den dagen.
+\-               delges skickas den 1 mars. skickas nästa arbetsdag, den 2 mars. Tiden räknas från den dagen.
 2
 0
 2
@@ -9193,8 +9193,8 @@ g
 s
 o
 u ö
--
--
+\-
+\-
 s
 r
 n

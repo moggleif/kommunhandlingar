@@ -234,7 +234,7 @@ Underlag till kommunbudget 2027, plan 2028-2029
 Förslag till beslut i Nämnden för Gymnasium & Arbetsmarknad
 Nämnden för Gymnasium & Arbetsmarknad godkänner underlag till kommunbudget 2027, plan 2028-
 
-2029.
+2029\.
 
 Sammanfattning av ärendet
 
@@ -363,25 +363,25 @@ studieplaner och ökad flexibilitet för deltagande över kommungränser.
 Förvaltningen har analyserat fem globala trender – globalisering, demografi, klimat och miljö, värderingar samt
 teknik – och identifierat områden som är avgörande för förvaltningens utveckling:
 
-1. Säkerhet och välfärdsbrott
+1\. Säkerhet och välfärdsbrott
 Det förändrade säkerhetsläget och ökad gängkriminalitet påverkar våra skolor och arbetsmarknaden. Vi
 har vidtagit en rad åtgärder och behöver ytterligare stärka kompetensen hos personal och elever i
 brottsförebyggande arbete.
 Välfärdsbrott hotar demokratin och förtroendet för välfärden. För att motverka detta krävs samordning,
 gemensamma strategier och utbildning.
-2. Omställning och karriärväxling
+2\. Omställning och karriärväxling
 Demografiska förändringar och teknikutveckling påverkar kompetensbehoven på arbetsmarknaden. Vi
 behöver ha förmågan att genomföra riktade utbildningar och individuell studie- och yrkesvägledning.
-3. Attraktiva gymnasieskolor
+3\. Attraktiva gymnasieskolor
 Konkurrensen är hård. För att locka elever och personal måste vi utveckla våra gymnasieskolor i nära
 samarbete med arbetsmarknaden och elevernas behov.
-4. Boende
+4\. Boende
 Behovet av etablerings- och skyddsboenden samt för målgrupper som av olika anledningar har behov av
 tillfälliga boenden är svårt att förutse. Vi behöver samverka med flera aktörer och ha beredskap.
-5. Konjunkturläget
+5\. Konjunkturläget
 Sverige är fortfarande i lågkonjunktur fram till 2026, men prognoser visar på återhämtning med ökad
 BNP och reallöner.
-6. Ungas välmående och Främjande fyran
+6\. Ungas välmående och Främjande fyran
 Psykisk ohälsa bland ungdomar ökar. Vi behöver samverka och använda data från elevhälsan för riktade
 insatser.
 Fyra förvaltningar samarbetar för att ge barn och unga bästa förutsättningar. Handlingsplaner tas fram
@@ -427,14 +427,14 @@ och har dessutom beslutat om uppföljning vid två ytterligare tillfällen
 1.3 Nämndens  arbete med bemötande, företagsklimatet och att motverka
 
 välfärdsbrottslighet
-1. Förbättra bemötande
+1\. Förbättra bemötande
 
 Nämnden breddar antalet relationer med arbetslivet i Kungsbacka, syftet är ofta praktikplatser, arbetsträning,
 jobbspår, APL eller motsvarande. I samtliga dessa relationer är bemötandet avgörande för att samarbetet ska bli
 lyckosamt. Även bemötandet med elever, vårdnadshavare och andra invånare kräver ett gott bemötande. Under
 2026 jobbar nämnden med att samtliga medarbetare får en ökad insikt i varför ett gott bemötande är viktigt och
 vid vilka tillfällen eller processer som ett gott bemötande med arbetsliv/näringsliv är av extra stor betydelse.
-2. Förbättra företagsklimatet
+2\. Förbättra företagsklimatet
 
 Ett nytt direktiv i nämnden handlar om matchning. Genom att arbeta med att förbättra matchningen i
 Kungsbacka blir vi bättre på att förstå vilken kompetens som efterfrågas av arbetslivet i Kungsbacka och
@@ -442,7 +442,7 @@ därmed vilka utbildande eller rustande insatser våra invånare behöver. Genom
 kompetensförsörjning och ett inkluderande förhållningssätt med vårt arbetsliv förbättrar vi företagsklimatet. Vi
 behöver på ett systematiskt sätt föra en dialog med näringslivet/arbetslivet i Kungsbacka och får att komma till
 en bra dialog är bemötande av stor vikt.
-3. För att motverka välfärdsbrott
+3\. För att motverka välfärdsbrott
 För att motverka välfärdsbrott arbetar nämnden med tydliga processer och rutiner. Vi har också tydlig
 information till våra invånare. Hos våra medarbetare är kompetensen hög när det gäller välfärdsbrott,
 riskindikatorer och otillåten påverkan. Vi tar stickprov och där risken bedöms som hög gör vi fördjupade
@@ -731,9 +731,9 @@ skolan tidigare än kl 09.00.
 Förslag till beslut:
 Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i uppdrag att presentera
 underlag för följande:
--  Undersöka möjligheterna att, i ett begränsat antal klasser, genomföra senarelagd, daglig
+\-  Undersöka möjligheterna att, i ett begränsat antal klasser, genomföra senarelagd, daglig
 skolstart enligt ovan och
--  Att utvärdera en sådan senarelagd skolstart i samråd med akademisk institution
+\-  Att utvärdera en sådan senarelagd skolstart i samråd med akademisk institution
 
 <!-- sida 21 -->
 
@@ -743,7 +743,7 @@ May-Louise Flyrin - ledamot i Nämnden för Gymnasium och Arbetsmarknad
 Anna Thomander - ersättare i Nämnden för Gymnasium och Arbetsmarknad
 Pontus Jensen - ersättare i Nämnden för Gymnasium och Arbetsmarknad
 
-1. Lemke T, Hökby S, Wasserman D, Carli V, Hadlaczky G. Associations between sleep
+1\. Lemke T, Hökby S, Wasserman D, Carli V, Hadlaczky G. Associations between sleep
 habits, quality, chronotype and depression in a large crossectionel sample of Swedish
 adolescents. PLoS One. 2023 Nov 2;18(11):e0293580.
 Doi:10.1371/journal.pone.0293580.
@@ -790,10 +790,10 @@ inte bör börja skolan tidigare än kl 09.00.
 Förslag till beslut: Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i
 
 uppdrag att presentera underlag för följande:
-- Undersöka möjligheterna att, i ett begränsat antal klasser, genomföra senarelagd,
+\- Undersöka möjligheterna att, i ett begränsat antal klasser, genomföra senarelagd,
 daglig skolstart enligt ovan och
 
-- Att utvärdera en sådan senarelagd skolstart i samråd med akademisk institution
+\- Att utvärdera en sådan senarelagd skolstart i samråd med akademisk institution
 
 Förslag till beslut på sammanträdet
 
@@ -825,7 +825,7 @@ Transaktionsidentitet: 9678DBF3906108A31668F05DC68A71BB11E58597EC
 
 <!-- sida 24 -->
 
-#12 DECEMBER 2025                                             www.werket.se
+\#12 DECEMBER 2025                                             www.werket.se
 
 Månadsrapport
 
@@ -852,7 +852,7 @@ tredje år vid makten.    rådsremiss                medlingen 2026.
 <!-- sida 25 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -916,7 +916,7 @@ bjorn@werket.nu | 070-888 26 01
 <!-- sida 26 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -989,7 +989,7 @@ stora skillnader mellan kommunerna.
 <!-- sida 27 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -1082,7 +1082,7 @@ jag ser kommuner som arbetar offensivt
 <!-- sida 28 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -1156,7 +1156,7 @@ resultatöversyn.
 <!-- sida 29 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -1232,7 +1232,7 @@ ringsbrev.
 <!-- sida 30 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -1301,7 +1301,7 @@ och med 2027.                 ssoocciiaallfföörrssääkkrriinnggssmmiinniisstt
 <!-- sida 31 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -1392,7 +1392,7 @@ kanskraven mer operativa.
 <!-- sida 32 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -1401,7 +1401,7 @@ OBS! Bilden är skapad av med hjälp av ett AI-verktyg. Dock inte ett kinesiskt.
 
 Ny    IT-skandal        på   Arbetsförmedlingen
 
-- fem     arbetsbefriade
+\- fem     arbetsbefriade
 
 En intern AI-satsning på Arbetsförmedlingen har utvecklats till en omfattande led-
 nings- och säkerhetskris. Fyra medarbetare, däribland tre höga chefer, har arbets-
@@ -1431,7 +1431,7 @@ artificiell intelligens. En intern utredning bygga en AI-baserad kontrollplattfo
 <!-- sida 33 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -1508,7 +1508,7 @@ utvecklingsinitiativ. Att hon först skulle ha fått processen, möjligen till s
 <!-- sida 34 -->
 
 21
-#
+\#
 REBMECED
 5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
@@ -1584,7 +1584,7 @@ en ska inte bara göra tidigare bedöm-              roll i bedömningen av om p
 <!-- sida 35 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -1667,7 +1667,7 @@ statistik
 <!-- sida 37 -->
 
 21
-#
+\#
 REBMECED
 5202
 statistik
@@ -1728,7 +1728,7 @@ Förändring 12 mån: 1 593 kvarstående platser Förändring 12 mån: 4,7 enhet
 <!-- sida 38 -->
 
 21
-#
+\#
 REBMECED
 5202
 statistik
@@ -1785,7 +1785,7 @@ Malmö                               208 kr
 <!-- sida 39 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -1802,7 +1802,7 @@ statistik
 <!-- sida 40 -->
 
 21
-#
+\#
 REBMECED
 5202
 statistik
@@ -1857,7 +1857,7 @@ Utvecklingen av antalet leverantörer och deltagare över tid i ROM2
 <!-- sida 41 -->
 
 21
-#
+\#
 REBMECED
 5202
 statistik
@@ -1920,7 +1920,7 @@ De 30 största ROM2-leverantörerna
 <!-- sida 42 -->
 
 21
-#
+\#
 REBMECED
 5202
 statistik
@@ -1978,7 +1978,7 @@ STA        KVL        IPSU (A & B)
 <!-- sida 43 -->
 
 21
-#
+\#
 REBMECED
 5202
 WERKET  MÅNADSRAPPORT
@@ -1995,7 +1995,7 @@ statistik
 <!-- sida 44 -->
 
 21
-#
+\#
 REBMECED
 5202
 statistik
@@ -2060,7 +2060,7 @@ De 15 största leverantörerna av arbetsmarknadsutbildning
 <!-- sida 45 -->
 
 21
-#
+\#
 REBMECED
 5202
 statistik
@@ -2125,7 +2125,7 @@ Kvarstående och nya deltagare i arbetsmarknadsutbildning efter utbildningsinrik
 <!-- sida 46 -->
 
 21
-#
+\#
 REBMECED
 5202
 statistik
@@ -2321,8 +2321,8 @@ g
 s
 o
 u ö
--
--
+\-
+\-
 s
 r
 n

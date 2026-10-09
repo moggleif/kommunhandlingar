@@ -637,10 +637,10 @@ m n k r (2 0 2 7 – 2 0 2 8 )
 -3 6 ,8 m n k r (2 0 2 8 )
 5 6 9 m n k r (2 0 2 8 ), 2 0 0
 m n k r/å r (2 0 2 6 – 2 0 2 8 )
-+ 1 m d k r (2 0 2 6 ), + 1 ,5
+\+ 1 m d k r (2 0 2 6 ), + 1 ,5
 m d k r (2 0 2 7 )
-+ 2 0 0 m n k r (2 0 2 6 )
-+ 1 ,8 m d k r (2 0 2 6 ), -1 ,8
+\+ 2 0 0 m n k r (2 0 2 6 )
+\+ 1 ,8 m d k r (2 0 2 6 ), -1 ,8
 m d k r (2 0 2 7 – 2 0 2 8 )
 3 0 0 m n k r (2 0 2 6 )
 5 5 0 m n k r (2 0 2 7 ), 5 0 0
@@ -877,7 +877,7 @@ Presentation elev- och vårdnadshavarenkät grundskola och anpassad grundskola 2
 
 Beslutet skickas till
 
--
+\-
 
 Beskrivning av ärendet
 
@@ -988,7 +988,7 @@ svarsfrekvens om 70%. I anpassad grundskola (ämnesområden) var det 19 elever a
 på enkäten, vilket ger en svarsfrekvens om 38%.
 Frågeområden med högt utfall både för de elever som läser ämnen och de elever som läser
 ämnesområden är Skolskjuts, Trivsel och trygghet och Maten. Inga frågeområden får lägre än index
-70. I en av frågorna som handlar om undervisningen (ämnen) svarar 37 procent att de tycker att
+70\. I en av frågorna som handlar om undervisningen (ämnen) svarar 37 procent att de tycker att
 
 undervisningen är för lätt och 21 procent att de tycker undervisningen är för svår.
 
@@ -1501,7 +1501,7 @@ Förslag Kungsbacka kommunens riktlinje för skolval och skolplacering i försko
 Utdrag ur delegeringsförteckning med förändring markerad.
 
 Beslutet skickas till
--
+\-
 
 1 (2)
 FG Myndighet & Stöd                                       Kungsbacka kommun
@@ -1620,10 +1620,10 @@ hemmet åsidosätts, ska dock kommunen placera eleven vid en annan skolenhet
 inom sin grundskola.
 Kommunen får annars frångå elevens vårdnadshavares önskemål endast om
 
-1. den önskade placeringen skulle medföra betydande organisatoriska eller
+1\. den önskade placeringen skulle medföra betydande organisatoriska eller
 ekonomiska svårigheter för kommunen, eller
 
-2. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
+2\. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
 Beslut enligt andra stycket 2 gäller omedelbart, om inte annat beslutas.
 
 Huvudregeln är att vårdnadshavarens skolval ska styra placeringen av en elev på
@@ -1843,10 +1843,10 @@ Vårdnadshavare kan också ansöka om byte av skola i ett separat förfarande.
 Om det är fler sökande än det finns platser på den önskade skolan, efter att elever
 placerats utifrån upptagningsområde (närhetsprincipen), gäller följande
 urvalskriterier:
-1. Relativ närhet inom upptagningsområdet
+1\. Relativ närhet inom upptagningsområdet
 
-2. Relativ närhet utanför upptagningsområdet
-3. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
+2\. Relativ närhet utanför upptagningsområdet
+3\. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
 (syskonförtur)
 
 Kungsbacka kommun              Styrande dokument               8 (11)
@@ -1855,7 +1855,7 @@ Kungsbacka kommun              Styrande dokument               8 (11)
 
 Förslag med förändringar utmärkta.
 
-4. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
+4\. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
 plats till en skola, ska det lottas mellan dessa elever.
 
 Kriterierna gäller inte för val till profilklasser som har olika färdighetsprov
@@ -2051,10 +2051,10 @@ hemmet åsidosätts, ska dock kommunen placera eleven vid en annan skolenhet
 inom sin grundskola.
 Kommunen får annars frångå elevens vårdnadshavares önskemål endast om
 
-1. den önskade placeringen skulle medföra betydande organisatoriska eller
+1\. den önskade placeringen skulle medföra betydande organisatoriska eller
 ekonomiska svårigheter för kommunen, eller
 
-2. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
+2\. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
 Beslut enligt andra stycket 2 gäller omedelbart, om inte annat beslutas.
 
 Huvudregeln är att vårdnadshavarens skolval ska styra placeringen av en elev på
@@ -2274,10 +2274,10 @@ Vårdnadshavare kan också ansöka om byte av skola i ett separat förfarande.
 Om det är fler sökande än det finns platser på den önskade skolan, efter att elever
 placerats utifrån upptagningsområde (närhetsprincipen), gäller följande
 urvalskriterier:
-1. Relativ närhet inom upptagningsområdet
+1\. Relativ närhet inom upptagningsområdet
 
-2. Relativ närhet utanför upptagningsområdet
-3. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
+2\. Relativ närhet utanför upptagningsområdet
+3\. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
 (syskonförtur)
 
 Kungsbacka kommun              Styrande dokument               8 (11)
@@ -2286,7 +2286,7 @@ Kungsbacka kommun              Styrande dokument               8 (11)
 
 Förslag med förändringar utmärkta.
 
-4. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
+4\. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
 plats till en skola, ska det lottas mellan dessa elever.
 
 Kriterierna gäller inte för val till profilklasser som har olika färdighetsprov
@@ -2774,7 +2774,7 @@ elevdatorerna är ämnade att användas för.
 
 Vi ger därför förvaltningen för Förskola och Grundskola i uppdrag;
 
-- Att ta fram förslag på hur användningen av elevdatorer kan anpassas för att bättre stödja undervisningen och
+\- Att ta fram förslag på hur användningen av elevdatorer kan anpassas för att bättre stödja undervisningen och
 minska distraktioner.
 
 Emanuel Forsell (M) Jan Eric Knutas (L) Peter Lundin (C) Jenny Thorbjörnsson (KD)

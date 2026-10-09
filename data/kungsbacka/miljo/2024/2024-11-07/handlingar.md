@@ -809,7 +809,7 @@ Klassificerin gsstruktur     Sida 9 av 12
 <!-- sida 24 -->
 
 Beslutad av: Nämnden för Miljö & Hälsoskydd, 2024-11-07, § x, MH-2024-
-05594.
+05594\.
 
 Gäller från: 2025-01-01
 
@@ -5326,7 +5326,7 @@ Nämnden för Miljö & Hälsoskydd beslutar att revidera Tillsynsplan 2024 enlig
 Sammanfattning av ärendet
 
 Nämnden för Miljö & Hälsoskydd beslutade 2023-11-09 § 131 om en tillsynsplan för
-2024. Förvaltningen föreslår att tillsynsplanen revideras inom följande kategorier:
+2024\. Förvaltningen föreslår att tillsynsplanen revideras inom följande kategorier:
 •  Händelsestyrd tid
 
 •  Behovsprioriterad tid
@@ -5589,7 +5589,7 @@ Sammanfattning .................................................................
 
 Innehållsförteckning .......................................................................................... 2
 
-1. Inledning ..................................................................................................... 3
+1\. Inledning ..................................................................................................... 3
 1.1 Sammanfattning av behovsutredningen 2024–2026 .............................. 3
 
 1.2 Budget 2024 ......................................................................................... 4
@@ -5598,9 +5598,9 @@ Innehållsförteckning .........................................................
 1.4 Förhållandet mellan behovsutredning, budgetarbete och tillsynsplan .... 4
 
 1.5 Beskrivning av övrig tid och handläggningstid ..................................... 5
-2. Planering övrig tid....................................................................................... 7
+2\. Planering övrig tid....................................................................................... 7
 
-3. Planering handläggningstid per verksamhetsområde miljöbalken ................ 9
+3\. Planering handläggningstid per verksamhetsområde miljöbalken ................ 9
 
 3.1 Miljöskydd ..........................................................................................11
 3.2 Förorenade områden ...........................................................................15
@@ -5610,7 +5610,7 @@ Innehållsförteckning .........................................................
 
 3.5 Naturvård och skyddade områden .......................................................27
 
-4. Sammanställning och prioritering ...............................................................31
+4\. Sammanställning och prioritering ...............................................................31
 4.1 Beskrivning av behovsutredning .........................................................31
 
 4.2 Tillsynsplan ........................................................................................31
@@ -5628,7 +5628,7 @@ Sida 2 av 34
 
 <!-- sida 224 -->
 
-1. Inledning
+1\. Inledning
 Enligt miljötillsynsförordningen ska det hos tillsynsmyndigheten finnas en
 
 utredning om tillsynsbehovet för tillsynsmyndighetens hela ansvarsområde enligt
@@ -5790,7 +5790,7 @@ Sida 6 av 34
 
 <!-- sida 228 -->
 
-2. Planering övrig tid
+2\. Planering övrig tid
 I detta avsnitt redovisas behovet av den övriga tiden och vilka utvecklingsarbeten
 
 som planeras att göras samt konsekvenser av det som prioriterats bort.
@@ -5879,7 +5879,7 @@ Sida 8 av 34
 
 <!-- sida 230 -->
 
-3. Planering handläggningstid per verksamhetsområde
+3\. Planering handläggningstid per verksamhetsområde
 miljöbalken
 
 I detta avsnitt redovisas den planerade tiden inom miljöbalkens område.
@@ -5898,23 +5898,23 @@ Globala mål
 
 Nationella mål
 
-1. Begränsad klimatpåverkan
-2. Frisk luft
-3. Bara naturlig försurning
-4. Giftfri miljö
-5. Skyddande ozonskikt
-6. Säker strålmiljö
-7. Ingen övergödning
-8. Levande sjöar och vattendrag
-9. Grundvatten av god kvalitet
-10. Hav i balans samt levande kust och
+1\. Begränsad klimatpåverkan
+2\. Frisk luft
+3\. Bara naturlig försurning
+4\. Giftfri miljö
+5\. Skyddande ozonskikt
+6\. Säker strålmiljö
+7\. Ingen övergödning
+8\. Levande sjöar och vattendrag
+9\. Grundvatten av god kvalitet
+10\. Hav i balans samt levande kust och
 skärgård
-11. Myllrande våtmarker
-12. Levande skogar
-13. Ett rikt odlingslandskap
-14. Storslagen fjällmiljö
-15. God bebyggd miljö
-16. Ett rikt växt och djurliv
+11\. Myllrande våtmarker
+12\. Levande skogar
+13\. Ett rikt odlingslandskap
+14\. Storslagen fjällmiljö
+15\. God bebyggd miljö
+16\. Ett rikt växt och djurliv
 
 Sida 9 av 34
 
@@ -6827,7 +6827,7 @@ Sida 30 av 34
 
 <!-- sida 252 -->
 
-4. Sammanställning och prioritering
+4\. Sammanställning och prioritering
 Behovet av resurserna för tillsyn inom miljö- och hälsoskydd framgår av tidigare
 
 beslutad behovsutredningen. Tillsynsplanen utgår från behovsutredning, samt
@@ -7144,14 +7144,14 @@ prioritera för Kungsbackas del, vilket framgår av bilaga 1. Bygg- och miljöf�
 därför att nämnden för Miljö & Hälsoskydd ska välja inriktning och inbördes rangordning avseende
 behovsprioriterad tillsyn utifrån följande miljökvalitetsmål:
 
-1. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka olovlig
+1\. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka olovlig
 avfallshantering och motverka dumpning av avfall genom att informera och arbeta
 förebyggande så att Kungsbacka kommun inte blir en kommun där systematisk brottslighet
 inom avfallsområdet tillåts etablera sig. Förvaltningen ska aktivt samverka med andra
 kommuner, länsstyrelser och polismyndigheten så väl lokalt som regionalt och nationellt för
 att främja en positiv utveckling inom området där det ska löna sig att göra rätt.
 
-2. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser som ger
+2\. God bebyggd miljö: Att förvaltningen aktivt ska arbeta med förebyggande insatser som ger
 information till våra invånare och företag och bidrar till en självreglerande utveckling där alla
 
 1 (2)
@@ -7173,7 +7173,7 @@ förvaltningen lägga tid på tillsyn och insatser som gynnar denna typ av utvec
 grupper gynnas som inte kan värna sina egna rättigheter som barn, unga och äldre i
 Kungsbacka.
 
-3. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande insatser som
+3\. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande insatser som
 säkrar en långsiktig och hållbar dricksvattenförsörjning som bidrar till en god livsmiljö för
 växter och djur i sjöar och i våra vattendrag. Inom tillsynen ska förvaltningen prioritera tillsyn
 inom områden där stora risker finns för utsläpp till vatten och riskerar att försämra vattnets
@@ -7377,7 +7377,7 @@ Sammanfattningsvis föreslår bygg- och miljöförvaltningen att nämnden för M
 Hälsoskydd väljer inriktning och inbördes rangordning avseende behovsprioriterad tillsyn
 utifrån följande miljökvalitetsmål:
 
-1. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka olovlig
+1\. Begränsad klimatpåverkan: Att förvaltningen arbetar aktivt för att motverka olovlig
 avfallshantering och motverka dumpning av avfall genom att informera och arbeta
 förebyggande så att Kungsbacka kommun inte blir en kommun där systematisk
 brottslighet inom avfallsområdet tillåts etablera sig. Förvaltningen ska aktivt samverka
@@ -7386,7 +7386,7 @@ nationellt för att främja en positiv utveckling inom området där det ska lö
 
 rätt.
 
-2. God bebygg miljö: Att förvaltningen aktivt ska arbeta med förbyggande insatser som ger
+2\. God bebygg miljö: Att förvaltningen aktivt ska arbeta med förbyggande insatser som ger
 information till våra invånare och företag och bidrar till en självreglerande utveckling där
 alla tjänar på att arbeta förbyggande med miljö- och hälsoskyddsfrågor. I första hand ska
 förvaltningen lägga tid på tillsyn och insatser som gynnar denna typ av utveckling och
@@ -7395,7 +7395,7 @@ Kungsbacka.
 
 <!-- sida 264 -->
 
-3. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande insatser
+3\. Grundvatten av god kvalitet: Att förvaltningen ska arbeta med förebyggande insatser
 som säkrar en långsiktig och hållbar dricksvattenförsörjning som bidrar till en god
 livsmiljö för växter och djur i sjöar och i våra vattendrag. Inom tillsynen ska
 förvaltningen prioritera tillsyn inom områden där stora risker finns för utsläpp till vatten
@@ -7615,15 +7615,15 @@ Innehållsförteckning
 Sammanfattning ................................................................................................. 1
 Innehållsförteckning .......................................................................................... 5
 
-1. Inledning ..................................................................................................... 6
+1\. Inledning ..................................................................................................... 6
 
-2. Beskrivning av tillsynsuppdraget................................................................. 7
+2\. Beskrivning av tillsynsuppdraget................................................................. 7
 2.1 Tillsynsansvaret ................................................................................... 7
 
 2.2 Styrande dokument .............................................................................. 7
 2.3 Samverkan ..........................................................................................10
 
-3. Beskrivning av behovsutredningen .............................................................11
+3\. Beskrivning av behovsutredningen .............................................................11
 
 3.1 Förklaring av olika begrepp.................................................................11
 3.2 Förhållandet mellan behovsutredning, budgetarbete och tillsynsplan ...16
@@ -7633,8 +7633,8 @@ Innehållsförteckning .........................................................
 
 3.5 Behov av kompetensförsörjning ..........................................................18
 
-4. Resursbehov av övrig tid ............................................................................19
-5. Resursbehov av handläggningstid per verksamhetsområde .........................21
+4\. Resursbehov av övrig tid ............................................................................19
+5\. Resursbehov av handläggningstid per verksamhetsområde .........................21
 
 5.1 Miljöskydd ..........................................................................................21
 5.2 Förorenade områden ...........................................................................26
@@ -7649,13 +7649,13 @@ Innehållsförteckning .........................................................
 
 5.8 Servering- och försäljningsställen – Mölndal Stad ...............................43
 
-6. Resursbehov sammanställning ...................................................................44
+6\. Resursbehov sammanställning ...................................................................44
 
 Sida 5 av 46
 
 <!-- sida 271 -->
 
-1. Inledning
+1\. Inledning
 
 För att möjliggöra en god och korrekt myndighetsutövning har kommunfullmäktige
 och kommunstyrelsen ansvar för att se till att nämnden för Miljö & Hälsoskydd har
@@ -7719,7 +7719,7 @@ sammanställning av resursbehov och personaltillgångar mellan 2025–2027 som
 
 beskrivs i den här behovsutredningen.
 
-2. Beskrivning av tillsynsuppdraget
+2\. Beskrivning av tillsynsuppdraget
 
 2.1  Tillsynsansvaret
 
@@ -7848,7 +7848,7 @@ hälsosam miljö, Bästa företagsklimatet i Västsverige, I Kungsbacka utveckla
 hela livet, Ett medskapande samhälle och öppen attityd
 
 Kungsbacka kommunfullmäktige har också tagit fram ett direktiv till nämnderna
-2025. Nämnderna och kommunstyrelsen får i uppdrag att öka tempot med att
+2025\. Nämnderna och kommunstyrelsen får i uppdrag att öka tempot med att
 förnya verksamheten genom att:
 
 Bygga en kultur som inspirerar och tillåter experimenterande och testande,
@@ -7921,7 +7921,7 @@ bland annat livsmedelsinspektörer, hälsoskyddstillsyn, dricksvattenkontroll, s
 avlopp, strandskyddshandläggare och miljöchefer. Syftet är samsyn,
 erfarenhetsutbyte och ökad kompetens.
 
-3. Beskrivning av behovsutredningen
+3\. Beskrivning av behovsutredningen
 Detta stycke handlar om vilka resurser som finns tillgängliga i form av årsarbetare
 
 (heltid och deltid) och hur det beräknas samt övergripande förutsättningar för
@@ -8148,7 +8148,7 @@ som ska utföras i Kungsbacka. Det finns tillsynsområden som inte finns med i
 strategin där nämnden kommer visa riktningen inför kommande tillsynsplan.
 
 Tillsynsplanen kommer beslutas av nämnden under sammanträdet den 5 december
-2024.
+2024\.
 
 3.2  Förhållandet mellan behovsutredning, budgetarbete och
 tillsynsplan
@@ -8283,7 +8283,7 @@ Nya arbetsuppgifter inom nya lagstiftningsområden gör att personal kan komma a
 behöva mer utbildning den närmsta perioden för att kunna arbeta inom andra
 områden.
 
-4. Resursbehov av övrig tid
+4\. Resursbehov av övrig tid
 Beskrivning av området
 Övrig tid, är sådan tid som inte är direkt handläggningstid men som behövs för att
 verksamheten ska fungera. Det beskrivs närmare i avsnitt 3.1
@@ -8385,7 +8385,7 @@ Sammanställning av resursbehov – Övrig tid
 Behovet uppskattas för 2025 till 630 timmar per heltid. Det innebär i sin tur att
 handläggningstiden per heltid blir 970 timmar per handläggare.
 
-5. Resursbehov av handläggningstid per verksamhetsområde
+5\. Resursbehov av handläggningstid per verksamhetsområde
 
 I detta avsnitt redovisas resursbedömningen per verksamhetsområde.
 Redovisningen är indelad i följande övergripande verksamhetsområden:
@@ -8728,7 +8728,7 @@ I behovet ingår hela hanteringen av objektet, det vill säga all tillsynstid so
 från initiering tills dess att objektet kan anses vara slutligt åtgärdat. Tillsynen delas
 in i fyra faser: initieringsfas, utredningsfas, åtgärdsfas och uppföljningsfas, se tabell
 
-4.
+4\.
 
 Kungsbacka kommun har för närvarande 30 prioriterade förorenade områden
 (riskklass 1 eller 2). Varav två objekt är riskklass 1 och 28 objekt är riskklass 2.
@@ -9262,7 +9262,7 @@ Livsmedelsverksamheter kontrolleras regelbundet. Kontrollen ska vara riskbaserad
 
 ändamålsenlig och likvärdig för alla verksamheter.
 Livsmedelsverket har tagit fram en riskklassningsmodell som används från och med
-2024. Syftet är att livsmedelskontrollerna ska utföras i de led i livsmedelskedjan där
+2024\. Syftet är att livsmedelskontrollerna ska utföras i de led i livsmedelskedjan där
 
 den är mest effektiv. Reglerna ska ta hänsyn till kända risker kopplade till varor och
 verksamheter samt ska ge tydligare information och undvika att vilseleda
@@ -9549,7 +9549,7 @@ Styrd Händelsestyrd Behovsprioriterad
 
 Figur 13. Figuren visar resursbehovet för servering 2025–2027 för Mölndal Stad.
 
-6. Resursbehov sammanställning
+6\. Resursbehov sammanställning
 
 Behovsutredningen omfattar en period på tre år. För att få en någorlunda jämn
 resursfördelning mellan åren och därmed lättare kunna planera eventuell
@@ -9812,21 +9812,21 @@ Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendeval
 1 Förtroendevalda
 
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
--  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\-  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
--  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\-  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag
 och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare (leder respektive partigrupp i kommunfullmäktige)
--  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\-  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 kommunfullmäktige, nämnder, styrelsen, revisionen, ledamöter och ersättare
 
 i kommunala bolag- och stiftelser, beredningar och andra uppdrag enligt
 särskilt beslut.
--  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\-  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
--  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
+\-  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
 revisionen.
 Kommunens bolag och stiftelser rekommenderas att tillämpa dessa riktlinjer.
 
@@ -9849,10 +9849,10 @@ kommunalråd till den del avdraget överstiger timersättningen (se avsnitt 2.6)
 Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 Rätten till ledighet avser
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd.
 
@@ -10080,9 +10080,9 @@ bolag och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare.
 Arvode betalas i form av
 
--  Fast arvode för deltidsuppdrag
+\-  Fast arvode för deltidsuppdrag
 
--  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\-  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
 
@@ -10172,9 +10172,9 @@ förtroendevalda representerar det organ denne själv tillhör. Därtill betalas
 och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-_____________
+\_____________
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 11 (17)
 
@@ -10329,9 +10329,9 @@ har ägt rum.
 
 När en förtroendevald ska begära ersättning
 
--  för andra förmåner än dagarvode, timersättning och reseersättning, i
+\-  för andra förmåner än dagarvode, timersättning och reseersättning, i
 samband med protokollfört sammanträde eller
--  efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\-  efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
@@ -10385,6 +10385,6 @@ att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst.
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 
 2023–2027.
-____________________
+\____________________
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 17 (17)

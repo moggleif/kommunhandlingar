@@ -1448,11 +1448,11 @@ fem år i taget. Den sammanlagda tiden får överstiga femton år endast om love
 användas för ett ändamål som avses i 9 kap 33 § (PBL, SFS 2010:900).
 
 Ett tidsbegränsat bygglov får ges om en åtgärd uppfyller följande kriterier:
--  åtgärden är avsedd att pågå under en begränsad tid,
+\-  åtgärden är avsedd att pågå under en begränsad tid,
 
--  sökanden har ansökt om ett tidsbegränsat bygglov, och
+\-  sökanden har ansökt om ett tidsbegränsat bygglov, och
 
--  någon eller några, men inte alla, förutsättningar för bygglov är uppfyllda.
+\-  någon eller några, men inte alla, förutsättningar för bygglov är uppfyllda.
 Föreslagen byggnation av prefabricerade modulbostäder uppfyller inte alla krav
 enligt ovan. Bland annat är utformningen sådan att den inte tar hänsyn till stads- och
 landskapsbilden i den utsträckning som man kan kräva vid ett permanent bygglov.

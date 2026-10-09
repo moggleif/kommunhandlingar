@@ -627,11 +627,11 @@ hemlösheten i kommunen.
 Enligt Bostadsförsörjningsplanen ska nämnden tillsammans med andra nämnder och
 Eksta Bostads AB ansvara för insatser för att nå mål 3 Bostadsförsörjningen:
 
-- Vi ska fortsätta att planera efter att de boenden som kommunen tillhandahåller som
+\- Vi ska fortsätta att planera efter att de boenden som kommunen tillhandahåller som
 stöd till vissa målgrupper ska vara utspridda i samhället
-- Vi ska prova nya metoder för att minska hemlösheten
+\- Vi ska prova nya metoder för att minska hemlösheten
 
-- Vi ska ge förtur till Ekstas hyresrätter för vissa våldsutsatta personer
+\- Vi ska ge förtur till Ekstas hyresrätter för vissa våldsutsatta personer
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 1012E644258B4BF5CD166566E9D71E52A5C57A82EC
 Transaktionsidentitet: D79ABF27BDAD4632A09511AD01425B59BAE9975516
@@ -679,9 +679,9 @@ Ordförande Axel Storckenfeldt (M) ställer förslagen emot varandra och finner 
 nämnden bifaller ordförandes remissförslag. Omröstning begärs och genomförs.
 
 Ordförande redovisar följande propositionsordning som nämnden godkänner
--  Ja-röst innebär bifalla ordförande Axel Storckenfeldts (M) förslag till remiss.
+\-  Ja-röst innebär bifalla ordförande Axel Storckenfeldts (M) förslag till remiss.
 
--  Nej-röst innebär bifalla förvaltningens förslag till remiss.
+\-  Nej-röst innebär bifalla förvaltningens förslag till remiss.
 
 Omröstningsresultat
 
@@ -1005,12 +1005,12 @@ att själva ta över ärendet och fatta beslut.
 
 Under perioden 2024-10-01 till 2024-10-31 har följande beslut fattats på delegation
 
-* Bistånd enligt 4 kap 1 och 4 §§ samt 9 kap 2 § socialtjänstlagen (se bifogad lista)
-* Tre beslut om avstängning av elev enligt 5 kap 17 § skollagen
+\* Bistånd enligt 4 kap 1 och 4 §§ samt 9 kap 2 § socialtjänstlagen (se bifogad lista)
+\* Tre beslut om avstängning av elev enligt 5 kap 17 § skollagen
 
-* Fyra personuppgiftsincidenter har anmälts varav en inte ansågs vara en incident.
+\* Fyra personuppgiftsincidenter har anmälts varav en inte ansågs vara en incident.
 Ingen av de övriga har anmälts till IMY.
-* En anställning har gjort i form av ett vikariat, lärare yrkesämnen från och med
+\* En anställning har gjort i form av ett vikariat, lärare yrkesämnen från och med
 2024-10-10.
 
 Beslutsunderlag
@@ -1078,10 +1078,10 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Brev till samordnare och huvudman för nyanländas lärande
+1\. Brev till samordnare och huvudman för nyanländas lärande
 
-2. Styrelseprotokoll Samordningsförbundet Halland
-3. Föreläggande från Förvaltningsrätten gällande riktlinje politiska ungdomsförbund i
+2\. Styrelseprotokoll Samordningsförbundet Halland
+3\. Föreläggande från Förvaltningsrätten gällande riktlinje politiska ungdomsförbund i
 gymnasiet
 
 Beslutsgång

@@ -414,8 +414,8 @@ Grundskola, nämnden för Gymnasium & Arbetsmarknad, nämnden för Individ &
 Familjeomsorg, nämnden för Kultur & Fritid, nämnden för Service, nämnden för
 Teknik och nämnden för Vård & Omsorg för yttrande över förslaget att:
 
-- Se över både interna och externa priser för att skapa tydlighet och effektivitet
-- Samla interna utmärkelser och priser rörande medarbetare och ledare till
+\- Se över både interna och externa priser för att skapa tydlighet och effektivitet
+\- Samla interna utmärkelser och priser rörande medarbetare och ledare till
 
 Medarbetardagen respektive ledardagen
 De förvaltningsspecifika priserna Lära för livet, Leva livet och Självständigt liv inte
@@ -559,10 +559,10 @@ Nämnden för Individ & Familjeomsorgs förslag till Kommunstyrelsen
 Kommunstyrelsen beslutar att bevilja avvikelse från regler om maxlängden på 20
 timmar för ett arbetspass till 24 timmar inom:
 
-1. personlig assistans för situationer då brukare ska företa resor som rekreation eller
+1\. personlig assistans för situationer då brukare ska företa resor som rekreation eller
 inom sitt värv
 och
-2. lägerverksamheten för barn och unga
+2\. lägerverksamheten för barn och unga
 
 Beslutet gäller under perioden 1 juni 2025 – 31 maj 2026.
 

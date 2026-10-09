@@ -286,11 +286,11 @@ har en hög nöjdhet med positiva trender avseende återvinningsstationer, mång
 uppger att de undviker att köpa nya plastpåsar och minimerar sin pappersanvändning.
 Några viktiga områden att förbättra och vidare analysera bedöms vara;
 
--  Förenkla processen att lämna textiler
--  Återvinningscentraler upplevs vara hårt belastade med trängsel som leder till
+\-  Förenkla processen att lämna textiler
+\-  Återvinningscentraler upplevs vara hårt belastade med trängsel som leder till
 problem med köbildning och informationsbrist
 
--  Hur information ska anpassas till olika åldersgrupper, framför allt yngre
+\-  Hur information ska anpassas till olika åldersgrupper, framför allt yngre
 
 Beslutsgång
 
@@ -338,7 +338,7 @@ Datum
 
 § 56                       Dnr TE-2025-00184
 Kungsbacka stad 2050 - Granskning av fördjupad översiktsplan 4 mars
-- 31 maj 2025, KS-2020-00313
+\- 31 maj 2025, KS-2020-00313
 
 Beslut
 Nämnden för Teknik antar Liberalerna, Moderaterna och Centerpartiets yttrande över
@@ -416,7 +416,7 @@ avloppsreningsverk
 
 Beslut
 Nämnden för Teknik antar Slamstrategi för Kungsbacka kommun - Aktualiserad
-2025.
+2025\.
 
 Aktualisering av slamstrategi beslutad av nämnden för Teknik 2018-05-16 § 57
 upphör samtidigt att gälla.
@@ -634,41 +634,41 @@ Sammanfattning av ärendet
 
 Under perioden 8 april och 6 maj inkom följande skrivelser till nämnden för Teknik:
 
-- E-post - Revisionens grundläggande granskning 2025
-- Projektplan Kungsbacka - Grundläggande granskning 2025
+\- E-post - Revisionens grundläggande granskning 2025
+\- Projektplan Kungsbacka - Grundläggande granskning 2025
 
-- Protokollsutdrag KS § 58 - Årsredovisning 2024 för Kungsbacka kommun, KS-
+\- Protokollsutdrag KS § 58 - Årsredovisning 2024 för Kungsbacka kommun, KS-
 2025-00086
-- Årsredovisning 2024 för Kungsbacka kommun, KS-2025-00086
+\- Årsredovisning 2024 för Kungsbacka kommun, KS-2025-00086
 
-- Tjänsteskrivelse - Årsredovisning 2024 för Kungsbacka kommun, KS-2025-00086
-- (Nämnden för Teknik) Nämndens särredovisning 2024, KS-2025-00086
+\- Tjänsteskrivelse - Årsredovisning 2024 för Kungsbacka kommun, KS-2025-00086
+\- (Nämnden för Teknik) Nämndens särredovisning 2024, KS-2025-00086
 
-- Protokollsutdrag KS § 59 - Revisionsberättelse 2024 för Kungsbacka kommun och
+\- Protokollsutdrag KS § 59 - Revisionsberättelse 2024 för Kungsbacka kommun och
 fråga om ansvarsfrihet för kommunstyrelsen, nämnder och beredningar, KS-2025-
 00251
-- Redogörelse för revisionen 2024 - En bilaga till revisionsberättelsen, KS-2025-
+\- Redogörelse för revisionen 2024 - En bilaga till revisionsberättelsen, KS-2025-
 
 00251
-- Revisionsberättelse 2024 för Kungsbacka kommun, KS-2025-00251
+\- Revisionsberättelse 2024 för Kungsbacka kommun, KS-2025-00251
 
-- NTE Protokollsutdrag 2025-04-07 § 15 Upphandling avfallskärl
-- Konkurrensverket - Beslut i ärende med dnr 531/2024
+\- NTE Protokollsutdrag 2025-04-07 § 15 Upphandling avfallskärl
+\- Konkurrensverket - Beslut i ärende med dnr 531/2024
 
-- Beslut KS § 72 - Antagande av informationshanteringsplan för
+\- Beslut KS § 72 - Antagande av informationshanteringsplan för
 kommungemensamma ledningsprocesser, KS-2024-00786
-- Informationshanteringsplan för kommungemensamma ledningsprocesser, KS-2024-
+\- Informationshanteringsplan för kommungemensamma ledningsprocesser, KS-2024-
 00786
 
-- Tjänsteskrivelse - Antagande av informationshanteringsplan för
+\- Tjänsteskrivelse - Antagande av informationshanteringsplan för
 kommungemensamma ledningsprocesser, KS-2024-00786
 
-- Beslut KS § 73 - Antagande av informationshanteringsplan för
+\- Beslut KS § 73 - Antagande av informationshanteringsplan för
 kommungemensamma stödprocesser, KS-2024-00787
-- Informationshanteringsplan för kommungemensamma stödprocesser, KS-2024-
+\- Informationshanteringsplan för kommungemensamma stödprocesser, KS-2024-
 00787
 
-- Tjänsteskrivelse - Antagande av informationshanteringsplan för
+\- Tjänsteskrivelse - Antagande av informationshanteringsplan för
 kommungemensamma stödprocesser, KS-2024-00787
 
 Det här dokumentet är digitalt signerat
@@ -708,10 +708,10 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Kommunens vattensituation
--  Intryck från Vattenstämman i Jönköping som ägde rum 12–14 maj 2025
+\-  Kommunens vattensituation
+\-  Intryck från Vattenstämman i Jönköping som ägde rum 12–14 maj 2025
 
--  Rutiner för parkeringsanmärkningar
+\-  Rutiner för parkeringsanmärkningar
 
 Beslutsgång
 

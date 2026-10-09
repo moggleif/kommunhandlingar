@@ -127,11 +127,11 @@ Frånvarande   Kommunal - Linda Arvidsson
 
 Plats och tid: Sveriges Lärares lokal 2024-03-05 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 
 Protokoll 2024-02-06 är inte justerat ännu.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 Arbetsgivaren redovisar ärenden inför arbetsutskott i februari.
 
 Beslut: Att anteckna informationen.
@@ -153,7 +153,7 @@ KUNGSBACKA  KOMMUN
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 
 • Ändring av skolenheter lämnas in senast v 8. Beslutas sen av förvaltningschef.
 • Rekrytering Presseskolan F-3 klar. Emma Nilsson startar tjänsten som rektor 6 maj 2024.
@@ -184,7 +184,7 @@ ledigheter i skolan och trygghet och studiero ledigheter i grundskolan. Fortsatt
 teman frånvaro, kränkningar enligt skollagen, särskilt stöd.
 Beslut: Att anteckna informationen.
 
-4. Stabsorganisation
+4\. Stabsorganisation
 
 HR och kommunikation
 Vanja Winroth har sagt upp sig som HR-generalist på Förskola och Grundskola. Har fått en tjänst som
@@ -210,7 +210,7 @@ Nämnderna fattar beslut om medicinskt verksamhetsansvarig.
 Beslut: Arbetsgivaren har informerat om förändringen kring medicinskt ledningsansvar. Samverkan är
 genomförd i enighet med fackliga parter.
 
-5. Årsredovisning
+5\. Årsredovisning
 Arbetsgivaren sammanfattar årsredovisningen som är antagen i nämnden och finns publicerad i sin
 helhet på www.kungsbacka.se.
 
@@ -257,7 +257,7 @@ olycksfall och tillbud.
 
 Beslut: Att anteckna informationen.
 
-7. Resultat pulsmätningar
+7\. Resultat pulsmätningar
 •  Svarsdeltagande 64 %
 •  Index 7,0
 
@@ -282,7 +282,7 @@ KUNGSBACKA KOMMUN
 Beslut: Att anteckna informationen och återföra frågan kring skyddskommittens roll i arbetet med
 pulsmätningar.
 
-8. Täter
+8\. Täter
 Fö rvaltningschef föredrar ärendet innehållandes information om styrning och ledning utifrån
 huvudmannauppdraget och skolchef/förvaltningschef.
 Sveriges Lärare
@@ -294,7 +294,7 @@ Beslut: Information/ dialog
 
 Ar bet staga rorga nisationer
 
-10. Punkter som bordlagts från FSG 240109
+10\. Punkter som bordlagts från FSG 240109
 • VFU-ersättning för handledare -pågående arbete på förvaltningen och frågan återkommer till
 
 FSG.
@@ -311,7 +311,7 @@ och Grundskola utifrån resultatet från den genomförda miljöinspektionen.
 Sveriges Lärare önskar vara med innan det fattas beslut om ny rutin.
 Arbetsgivarens svar: Arbetsgivaren återkommer med en återrapportering.
 
-11. Minsta garanterad tid i förskolan - pågående
+11\. Minsta garanterad tid i förskolan - pågående
 Arbete pågår. Frågan om antal timmar i förskolan utreds och bereds inom ramen för FG-nämnd
 uppdrag om att se över riktlinjer för förskolan. Arbetsgivaren återkommer i frågan när dessa riktlinjer
 reviderats.
@@ -323,7 +323,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut: Att anteckna informationen.
 
-12. Betygshantering vt-24
+12\. Betygshantering vt-24
 Sveriges Lärare
 
 • Det är antalet dagar det handlar om. Vi håller det öppet så får NO och SO-lärare sätta betyg
@@ -333,7 +333,7 @@ Arbetsgivarens svar: Arbetsgivaren tar med sig frågan.
 
 Beslut: Att anteckna informationen.
 
-13. Större utbildningsinsatser på APT-tid
+13\. Större utbildningsinsatser på APT-tid
 Sveriges lärare önskar arbetsgivarens syn på APT och utbildningsinsatser som ersätter ordinarie APT­
 bordläggs till nästa samverkansmöte.
 
@@ -803,17 +803,17 @@ Om det är fler sökande än det finns platser på den önskade skolan, efter at
 placerats utifrån upptagningsområde (närhetsprincipen), gäller följande
 urvalskriterier:
 
-1. Relativ närhet inom upptagningsområdet
+1\. Relativ närhet inom upptagningsområdet
 
-2. Relativ närhet utanför upptagningsområdet
+2\. Relativ närhet utanför upptagningsområdet
 
 Kungsbacka kommun              Styrande dokument               8 (10)
 
 <!-- sida 23 -->
 
-3. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
+3\. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
 (syskonförtur)
-4. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
+4\. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
 plats till en skola, ska det lottas mellan dessa elever.
 
 Kriterierna gäller inte för val till profilklasser som har olika färdighetsprov
@@ -950,7 +950,7 @@ Förslag till Regler för skolskolskjuts för inom Förskola & Grundskola
 
 Beslutet skickas till
 
--
+\-
 
 Beskrivning av ärendet
 
@@ -1025,12 +1025,12 @@ Definition .....................................................................
 Ansökan .................................................................................................................................... 3
 Rätt till skolskjuts ....................................................................................................................... 3
 
-1. Färdvägens längd .............................................................................................................. 3
-2. Trafikförhållanden .............................................................................................................. 4
+1\. Färdvägens längd .............................................................................................................. 3
+2\. Trafikförhållanden .............................................................................................................. 4
 Vinterskolskjuts .................................................................................................................. 4
 
-3. Funktionsnedsättning ......................................................................................................... 4
-4. Annan särskild omständighet ............................................................................................. 4
+3\. Funktionsnedsättning ......................................................................................................... 4
+4\. Annan särskild omständighet ............................................................................................. 4
 Olika typer av skolskjuts ............................................................................................................ 5
 
 Upphandlad skolbuss ............................................................................................................. 5
@@ -1098,14 +1098,14 @@ skola eller skola i annan kommun”.
 Bedömningen om elevens rätt till skolskjuts ska enligt skollagen baseras på något
 av följande:
 
-1. Färdvägens längd
+1\. Färdvägens längd
 
-2. Trafikförhållandena
-3. Funktionsnedsättning
+2\. Trafikförhållandena
+3\. Funktionsnedsättning
 
-4. Annan särskild omständighet
+4\. Annan särskild omständighet
 
-1. Färdvägens längd
+1\. Färdvägens längd
 Vilket avstånd som ger rätt till skolskjuts bestäms av varje enskild kommun. Inom
 Kungsbacka kommun gäller följande generella avståndsgränser:
 
@@ -1136,7 +1136,7 @@ skolan eller gränsen till skolans fastighetsområde.
 •  Kommunen får anvisa alla vägar där allemansrätten råder.
 •  Mätning sker enligt samma metod för alla inkomna ansökningar.
 
-2. Trafikförhållanden
+2\. Trafikförhållanden
 
 Vid bedömningen av vad som är en trafiksäker färdväg utgår alltid bedömningen
 utifrån vad som är en trafiksäker väg för en gångtrafikant. Föräldraansvaret
@@ -1155,7 +1155,7 @@ I det fall en elev genom dom i förvaltningsdomstol har beviljats rätt till
 vinterskolskjuts kommer eleven att erhålla skolskjuts under hela läsåret i de fall
 detta omfattar skjuts med buss.
 
-3. Funktionsnedsättning
+3\. Funktionsnedsättning
 
 Vissa elever med funktionsnedsättning har rätt till skolskjuts även om färdvägens
 längd och trafikförhållanden inte medger skolskjuts. Med funktionsnedsättning
@@ -1168,7 +1168,7 @@ Vårdnadshavaren behöver beskriva hur funktionsnedsättning förhindrar eleven 
 själv ta sig mellan hemmet och skolan.
 Skolskjutshandläggare kan vid behov begära in läkarintyg.
 
-4. Annan särskild omständighet
+4\. Annan särskild omständighet
 
 I vissa särskilda fall kan kommunen fatta beslut om rätt till skolskjuts trots att ingen
 av ovanstående omständigheter är uppfyllda.
@@ -1507,7 +1507,7 @@ NFG § 142, 2023-12-13
 
 Beslutet skickas till
 
--
+\-
 1 (4)
 FG Myndighet & Stöd                                       Kungsbacka kommun
 434 81 Kungsbacka
@@ -2522,9 +2522,9 @@ valmöjligheter. Pedagogisk omsorg erbjuder ofta mindre barngrupper i en hemlikn
 
 Rektor organiserar den pedagogiska omsorgen utifrån barnantal och dagbarnvårdare vilket idag skapar en
 splittrad omsorg ur ett barnperspektiv.
--  Måndag, tisdag och torsdag är barnen i dagbarnvårdarens ordinarie hem.
+\-  Måndag, tisdag och torsdag är barnen i dagbarnvårdarens ordinarie hem.
 
--  Onsdag och fredag är omsorgsverksamheten på öppna förskolan med en ordinarie personal och en
+\-  Onsdag och fredag är omsorgsverksamheten på öppna förskolan med en ordinarie personal och en
 vikarie.
 Organisationen innebär i dagsläget att barnen får sin omsorg på olika platser och i mötet med olika personer
 och grupper.
@@ -2838,7 +2838,7 @@ Organisering försk olor pedagogiskt område centrum Sida 4 av 10
 <!-- sida 77 -->
 
 fasadbyte. Flytten tillbaka till befintliga lokaler fördröjdes med ca 6 månader pga. en vattenläcka i början av
-2023. Flera flyttar mellan lokaler kan påverka barnen negativt.
+2023\. Flera flyttar mellan lokaler kan påverka barnen negativt.
 
 Ekonomiskt perspektiv
 En verksamhet behöver ha förutsättningar för en ändamålsenlig organisering på en förskola. Att
@@ -3002,7 +3002,7 @@ grundskolor
 Ärendenummer: #125282 | Inskickat av: Anna Sörensen | 2024-04-02 16:55
 Ändrad av handläggare: Maria Eriksson | Ändringsdatum: 2024-04-04 14:44
 
-1. Introduktion/överblick
+1\. Introduktion/överblick
 
 Glöm inte att spara och stänga innan du avslutar
 
@@ -3096,7 +3096,7 @@ När ska prövningen vara klar?
 Datum
 2024-04-10
 
-2. Kartläggning
+2\. Kartläggning
 
 Vilka rättigheter, utöver de fyra grundprinciperna, ligger till grund för aktuell
 prövning?
@@ -3293,7 +3293,7 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 89 -->
 
-3. Inhämta röster från berörda
+3\. Inhämta röster från berörda
 
 Gör barn delaktiga!
 
@@ -3352,7 +3352,7 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 90 -->
 
-4. Analys och beslut
+4\. Analys och beslut
 
 Så här gör du!
 
@@ -3497,7 +3497,7 @@ Verksamhetschef elevhälsans medicinska insatser
 Förslag till beslut
 Magnus Sandberg utses till verksamhetschef för elevhälsans medicinska insatser från och med 1 maj
 
-2024.
+2024\.
 
 Sammanfattning av ärendet
 
@@ -3514,7 +3514,7 @@ Beslutsunderlag
 FG Myndighet & Stöds tjänsteskrivelse, 2024-03-19
 
 Beslutet skickas till
--
+\-
 
 Beskrivning av ärendet
 Vårdgivare för skolhälsovården är ytterst kommunfullmäktige som i nämnden för Förskola och
@@ -3777,7 +3777,7 @@ Uppföljning av Fullriggaren Maleviks intraprenad 2023, 2024-03-14
 Uppföljning av Åsa Gårds intraprenad 2023, 2024-03-25
 
 Beslutet skickas till
--
+\-
 
 Beskrivning av ärendet
 Åsa Gårds verksamhetsplan är indelad i tre områden/mål:
@@ -3882,24 +3882,24 @@ Uppföljning      av  Fullriggaren     Maleviks
 intraprenad     2023
 
 INTRAPRENADSMÅL
-1. Autonomi med delmålen god insyn i enhetens budget och tillit.
-2. Gemenskap med delmålen ökad delaktighet/distribuerad makt och
+1\. Autonomi med delmålen god insyn i enhetens budget och tillit.
+2\. Gemenskap med delmålen ökad delaktighet/distribuerad makt och
 samarbete mellan förvaltningar och föreningar.
-3. Kunskap med delmålen måluppfyllelse, barns och elevers kompetenser samt
+3\. Kunskap med delmålen måluppfyllelse, barns och elevers kompetenser samt
 omvärldsorientering.
 
 RESULTAT I FÖRHÅLLANDE TILL INTRAPRENADSMÅLEN
 
-1. Fullriggaren Malevik gjorde under 2023 ett underskott på -852’. Under
+1\. Fullriggaren Malevik gjorde under 2023 ett underskott på -852’. Under
 delmålet tillit och att skolledningen gör besök för att skapa tillitsfulla
 relationer, så jobbar rektor på med detta mål. Relationer och tillit är något
 som ständigt behöver arbetas med och rektors bedömning är att tilliten
 mellan rektor och medarbetare är god.
 
-2. Samrådsmöten med Fullriggaren Maleviks brukarrådsförening sker 3-4
+2\. Samrådsmöten med Fullriggaren Maleviks brukarrådsförening sker 3-4
 ggr/termin.
 
-3. Måluppfyllelsen är mycket god. Delmålet att bjuda in vårdnadshavare för att
+3\. Måluppfyllelsen är mycket god. Delmålet att bjuda in vårdnadshavare för att
 på så sätt ”berikar med erfarenheter och kunskaper från yrkeslivet” har till del
 genomförts på lågstadiet. Skolan har bjudit in f.d. elever som fått berätta om
 sitt gymnasieval för eleverna på högstadiet.
@@ -4173,7 +4173,7 @@ höjs.
 lärmiljöernas betydelse för alla barns utveckling och lärande, och i synnerhet för barn med
 neuropsykiatriska funktionsnedsättningar, kan använda lek och lek- och lärmiljöer som pedagogiska
 verktyg för att skapa bättre förutsättningar för varje enskilt barn.
-- Om en ökad teoretisk och praktisk kunskap om dokumentationsuppdraget hos pedagogerna kan höja
+\- Om en ökad teoretisk och praktisk kunskap om dokumentationsuppdraget hos pedagogerna kan höja
 likvärdigheten mellan förskolorna gällande dokumentation av det systematiska kvalitetsarbetet där
 exempelvis barnens förändrade kunnande är en del, samt om det kan ge pedagogerna en ökad känsla av
 sammanhang (KASAM).
@@ -4232,7 +4232,7 @@ fritids-och grundskoleverksamhet.
 redan har definierat. Vart och ett av dessa mål
 -autonomi, gemenskap och kunskap, beskrivs nedan utifrån bakgrund, mål/delmål,
 metod och utvärdering.
-- Utvärderingarnas resultat ingår i sammanställningen av Fullriggaren Maleviks
+\- Utvärderingarnas resultat ingår i sammanställningen av Fullriggaren Maleviks
 systematiska kvalitetsarbete.
 
 I ansökan finns anknytning till forskning där källorna anges i fotnoter.
@@ -4241,7 +4241,7 @@ Ansökan undertecknas av medarbetare och skolledning genom skolledningen.
 
 Malevik dag som ovan
 
-�          if-     · ::::----..__/
+�          if-     · ::::----..\_\_/
 
 Peter Jonsson, rektor åk 4-9
 
@@ -4748,14 +4748,14 @@ Sammanfattning av ärendet
 Fullriggaren Maleviks verksamhetsplan är indelad i tre områden/mål;
 
 •  Autonomi med delmålen
-- god insyn i enhetens budget och tillit
+\- god insyn i enhetens budget och tillit
 
 •  Gemenskap med delmålen
-- Ökad delaktighet/distribuerad makt och samarbete mellan förvaltningar
+\- Ökad delaktighet/distribuerad makt och samarbete mellan förvaltningar
 och föreningar
 
 •  Kunskap med delmålen
-- Måluppfyllelse, barns och elevers kompetenser samt omvärldsorientering
+\- Måluppfyllelse, barns och elevers kompetenser samt omvärldsorientering
 
 Åsa Gårds verksamhetsplan är indelad i tre områden/mål;
 

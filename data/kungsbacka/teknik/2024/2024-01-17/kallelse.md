@@ -70,7 +70,7 @@ KUNGSBACKA  KOMMUN
 
 3(6)
 
-9.  Investeringsplan för Teknik TE-2023- Nämnden för Teknik beslutar att anta förslag till
+9\.  Investeringsplan för Teknik TE-2023- Nämnden för Teknik beslutar att anta förslag till
 2025 - plan för 2026-2029, 00973, ramar för utgiftsområden för 2025-2029 med
 utblick 2030-2034     Föredragande: utblick mot 2030-2034 enligt följande och skickar
 Fillitsa   dessa vidare till Kommunfullmäktige för beslut.
@@ -89,14 +89,14 @@ investeringsplaneringen för att istället hantera
 projektet som särskilt beslut under april 2024.
 
 För 2025 är investeringsbehoven enligt följande:
-- Skattefinansierad verksamhet 80 miljoner
+\- Skattefinansierad verksamhet 80 miljoner
 kronor
 
-- Vatten och Avlopp, summa nettokostnad
+\- Vatten och Avlopp, summa nettokostnad
 403,7 miljoner kronor
-- Avfall och Återvinning, summa
+\- Avfall och Återvinning, summa
 nettokostnad 14,75 miljoner kronor
-- Bredband, summa nettokostnad 25,15
+\- Bredband, summa nettokostnad 25,15
 miljoner kronor.
 
 Nämnden för Teknik beslutar om fördelning av
@@ -104,18 +104,18 @@ medel mellan de olika projektportföljerna
 avseende 2025 enligt nedan.
 
 Skatt
-- Portfölj cykelkommun 33 % av tillgängliga
+\- Portfölj cykelkommun 33 % av tillgängliga
 medel
-- Portfölj kommunens vägnät 6 % av
+\- Portfölj kommunens vägnät 6 % av
 tillgängliga medel
-- Portfölj den attraktiva staden 8 % av
+\- Portfölj den attraktiva staden 8 % av
 
 tillgängliga medel
-- Portfölj skog och park 8 % av tillgängliga
+\- Portfölj skog och park 8 % av tillgängliga
 medel
-- Portfölj reinvesteringar 28 % av
+\- Portfölj reinvesteringar 28 % av
 tillgängliga medel
-- Portfölj maskiner och fordon 17 % av
+\- Portfölj maskiner och fordon 17 % av
 tillgängliga medel
 
 Vatten och avlopp

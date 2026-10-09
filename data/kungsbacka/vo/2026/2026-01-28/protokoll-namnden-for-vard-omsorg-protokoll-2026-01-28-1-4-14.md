@@ -353,7 +353,7 @@ Vård & Omsorg
 
 Beslut
 Nämnden för Vård & Omsorg antar Årsplan för konkurrensutsättning av verksamhet
-2026.
+2026\.
 
 Nämnden för Vård & Omsorg beslutar att förlänga avtalet med Vardaga
 Äldreomsorg AB gällande Vickan vård- och omsorgsboende, till den 31 mars 2028,
@@ -567,19 +567,19 @@ Under året har det skett arbete och aktiviteter i syfte att stärka förvaltnin
 förmåga inom säkerhetsområdet. Ytterst handlar det om att minimera risker att
 oönskade händelser ska inträffa eller att minimera konsekvenser om en oönskad
 händelse ändå skulle inträffa.
--  Rutiner inom området har reviderats och uppdaterats.
+\-  Rutiner inom området har reviderats och uppdaterats.
 
--  Krisledningsorganisationen har bemannats, utbildats och övats.
--  En utbildning med syfte att stärka försvarsviljan hos samtliga förvaltningens
+\-  Krisledningsorganisationen har bemannats, utbildats och övats.
+\-  En utbildning med syfte att stärka försvarsviljan hos samtliga förvaltningens
 medarbetare har genomförts med gott resultat.
 
--  Riktlinje gällande arbetet med civil beredskap på förvaltningen har tagits
+\-  Riktlinje gällande arbetet med civil beredskap på förvaltningen har tagits
 fram.
 
--  Arbetet med kontinuitetshantering har fortgått och flera åtgärder genomförts.
--  Nytt upplägg för chef i beredskap har genomförts och utvärderats.
+\-  Arbetet med kontinuitetshantering har fortgått och flera åtgärder genomförts.
+\-  Nytt upplägg för chef i beredskap har genomförts och utvärderats.
 
--  Arbetet med ”robusta lokaler” har fortskridit och en förstudie har tagits fram
+\-  Arbetet med ”robusta lokaler” har fortskridit och en förstudie har tagits fram
 och godkänts.
 Arbetet med att förse samtliga vård- och omsorgsboenden med reservkraft har gått
 framåt. Projektledare på förvaltningen för Service har påbörjat arbetet och är i dialog
@@ -665,9 +665,9 @@ Sammanfattning av ärendet
 Nämnden för Vård & Omsorgs ordförande Hravn Forsne (M) meddelar att han
 skrivit under ett följande ordförandebeslut:
 
--  den 12 december 2025 avseende - Ansökan om certifiering för att bli utförare
+\-  den 12 december 2025 avseende - Ansökan om certifiering för att bli utförare
 av hemtjänst, Sveavård och Omsorg AB.
--  den 2 januari 2026 avseende - Tidplan 2026 - Ändring av datum för
+\-  den 2 januari 2026 avseende - Tidplan 2026 - Ändring av datum för
 sammanträdesdagen 29 januari 2026.
 
 Beslutsgång
@@ -805,7 +805,7 @@ Diarienummer VO-2025-00254. (Kommunfullmäktige) KF, § 238. Redovisning av
 
 icke färdigberedda motioner (2, 2025).
 Diarienummer VO-2025-00510. (Kommunfullmäktige) KF, § 240. Koncernbudget
-2026.
+2026\.
 
 Diarienummer VO-2025–00473. (Kommunstyrelsen) KS § 226 Lönestruktur 2026.
 Diarienummer VO-2025–00505. (Kommunstyrelsen) KS § 225 Regler för
@@ -849,7 +849,7 @@ och sjukvård 2025.
 Diarienummer VO-2023–00283. (Gemensam nämnd för Hemsjukvård och
 
 Hjälpmedel) GNHH § 59 - Beslut om förändring av vårdriktlinjer för hjälpmedel
-2026.
+2026\.
 Diarienummer VO-2025–00500. (Vardaga AB) Uppföljning kvalitetsberättelse och
 patientberättelse 2025.
 
@@ -858,7 +858,7 @@ kvalitet 2025.
 Diarienummer VO-2025–00502. (Annas Omsorg AB) Uppföljning kvalitet 2025.
 
 Diarienummer VO-2025–00503. (Gottskär Hemtjänst AB) Uppföljning kvalitet
-2025.
+2025\.
 
 Beslutsunderlag
 
@@ -929,10 +929,10 @@ verksamhetsutvecklare från Ekhaga- och Vickan vård- och omsorgsboenden,
 för dialog och genomgång av tre områden ur Granskningsrapport Hälso- och
 sjukvård Ekhaga och Vickan:
 
-- Narkotikasvinn
+\- Narkotikasvinn
 
-- Fall nattetid
-- Följsamhet till ordinerade insatser
+\- Fall nattetid
+\- Följsamhet till ordinerade insatser
 
 •  Ordförande har träffat representanter från Forum för
 pensionärsorganisationerna, där de har presenterat en ny organisationsidé.

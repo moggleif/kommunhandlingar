@@ -1005,17 +1005,17 @@ bedömning. Under dagen arbetade medarbetarna tillsammans med
 skolledning och specialpedagog med att analysera och diskutera bland
 annat följande områden:
 
--  sambandet mellan nationella prov och slutbetyg
--  eventuella könsskillnader i resultat
--  arbetssätt som främjar progression mellan årskurserna
--  behovet av att ämneslagen följer upp särskilda elevgrupper
--  likvärdighet i betygsättning när olika lärare undervisar i samma
+\-  sambandet mellan nationella prov och slutbetyg
+\-  eventuella könsskillnader i resultat
+\-  arbetssätt som främjar progression mellan årskurserna
+\-  behovet av att ämneslagen följer upp särskilda elevgrupper
+\-  likvärdighet i betygsättning när olika lärare undervisar i samma
 eller liknande ämnen
--  mönster på klassnivå, med särskilt fokus på både positiva och
+\-  mönster på klassnivå, med särskilt fokus på både positiva och
 negativa avvikelser
--  om det finns specifika delar inom olika ämnen som har skapat
+\-  om det finns specifika delar inom olika ämnen som har skapat
 svårigheter för eleverna
--  möjligheter till samt värdet av samplanering och sambedömning
+\-  möjligheter till samt värdet av samplanering och sambedömning
 
 Beskriv hur verksamhetens kvalitet utvecklats avseende
 utvecklingsområdet sedan åtgärderna vidtagits:
@@ -1084,8 +1084,8 @@ sina anpassningar.
 Samtidigt har vi genomförts kompetensutvecklingsinsatser har
 genomförts med fokus på:
 
--  extra anpassningar
--  undervisningsstrategier
+\-  extra anpassningar
+\-  undervisningsstrategier
 Dessa har kombinerats med praktiska exempel och kollegialt lärande
 för att skapa direkt koppling till undervisningen.
 
@@ -1188,10 +1188,10 @@ En majoritet av eleverna upplever att de är trygga, särskilt i
 klassrummet och i relation till andra elever.
 
 Samtidigt visar analysen en mer komplex verklighet där:
--  en stor andel elever uppger att de någon gång blivit utsatta för
+\-  en stor andel elever uppger att de någon gång blivit utsatta för
 kränkningar
--  otrygghet finns i vissa specifika miljöer
--  vissa elever inte upplever ett fullt ut respektfullt bemötande från
+\-  otrygghet finns i vissa specifika miljöer
+\-  vissa elever inte upplever ett fullt ut respektfullt bemötande från
 vuxna
 Arbetet har lett till ökad samsyn, förbättrad efterlevnad av rutiner och
 en mer medveten organisation, men också till en tydligare bild av de
@@ -1237,28 +1237,28 @@ Resultatdialoger har införts där betyg och måluppfyllelse analyseras
 systematiskt.
 Arbetet har även inneburit:
 
--  tydligare uppföljning av elever i riskzon
--  förbättrad dokumentation
--  ökad dialog mellan rektor och lärare om bedömning
--  inledande analyser av skillnader mellan nationella prov och betyg
--  Kollegiala samtal inom arbets- samt ämneslag både planerat och
+\-  tydligare uppföljning av elever i riskzon
+\-  förbättrad dokumentation
+\-  ökad dialog mellan rektor och lärare om bedömning
+\-  inledande analyser av skillnader mellan nationella prov och betyg
+\-  Kollegiala samtal inom arbets- samt ämneslag både planerat och
 spontant
 & som tidigare nämnt:
 Har vi genomfört en studiedag med fokus på analys och bedömning.
 Under dagen arbetade medarbetarna tillsammans med skolledning och
 specialpedagog med att analysera och diskutera bland annat följande
 områden:
--  sambandet mellan nationella prov och slutbetyg
--  eventuella könsskillnader i resultat
--  arbetssätt som främjar progression mellan årskurserna
--  behovet av att ämneslagen följer upp särskilda elevgrupper
--  likvärdighet i betygsättning när olika lärare undervisar i samma
+\-  sambandet mellan nationella prov och slutbetyg
+\-  eventuella könsskillnader i resultat
+\-  arbetssätt som främjar progression mellan årskurserna
+\-  behovet av att ämneslagen följer upp särskilda elevgrupper
+\-  likvärdighet i betygsättning när olika lärare undervisar i samma
 eller liknande ämnen
--  mönster på klassnivå, med särskilt fokus på både positiva och
+\-  mönster på klassnivå, med särskilt fokus på både positiva och
 negativa avvikelser
--  om det finns specifika delar inom olika ämnen som har skapat
+\-  om det finns specifika delar inom olika ämnen som har skapat
 svårigheter för eleverna
--  möjligheter till samt värdet av samplanering och sambedömning
+\-  möjligheter till samt värdet av samplanering och sambedömning
 
 Beskriv hur verksamhetens kvalitet utvecklats avseende
 utvecklingsområdet sedan åtgärderna vidtagits:
@@ -1437,7 +1437,7 @@ S
 s
 a u
 ö
--
+\-
 n
 t
 k
@@ -1489,26 +1489,26 @@ Kungsbacka kommun  2026
 <!-- sida 42 -->
 
 Innehåll
-1.  Sammanfattning ............................................................................................................ 2
-2.  Inledning ....................................................................................................................... 4
+1\.  Sammanfattning ............................................................................................................ 2
+2\.  Inledning ....................................................................................................................... 4
 2.1   Bakgrund ................................................................................................................ 4
 2.2   Syfte och revisionsfrågor .......................................................................................... 4
 2.3   Revisionskriterier ..................................................................................................... 4
 2.4   Metod ..................................................................................................................... 4
 2.5   Avgränsningar och ansvarig nämnd ........................................................................... 4
-3.  Iakttagelser kopplade till resursfördelningsmodellen ......................................................... 5
+3\.  Iakttagelser kopplade till resursfördelningsmodellen ......................................................... 5
 3.1   Vår bedömning ........................................................................................................ 5
 3.2   Resursfördelningsmodellen i Kungsbacka kommun ...................................................... 5
 3.3   Effekter och uppföljning av resursfördelningsmodellen ................................................ 7
-4.  Iakttagelser kopplade till uppföljning av lärarresurser ........................................................ 9
+4\.  Iakttagelser kopplade till uppföljning av lärarresurser ........................................................ 9
 4.1   Vår bedömning ........................................................................................................ 9
 4.2   Användning och uppföljning av lärarresurser .............................................................. 9
-5.  Iakttagelser kopplat till arbetet med kompensatoriska åtgärder ........................................ 11
+5\.  Iakttagelser kopplat till arbetet med kompensatoriska åtgärder ........................................ 11
 5.1   Vår bedömning ...................................................................................................... 11
 5.2   Styrning av kompensatoriska åtgärder ..................................................................... 11
 5.3   Vidtagna kompensatoriska åtgärder ......................................................................... 11
 5.4   Uppföljning av arbetet med kompensatoriska åtgärder .............................................. 12
-6.  Samlad bedömning och rekommendationer .................................................................... 13
+6\.  Samlad bedömning och rekommendationer .................................................................... 13
 6.1   Bedömning utifrån revisionsfrågorna ....................................................................... 13
 6.2   Slutsatser och rekommendationer ........................................................................... 14
 Bilaga 1. Bakgrund ................................................................................................................ 15
@@ -1520,7 +1520,7 @@ Bilaga 4. Tabeller..............................................................
 
 <!-- sida 43 -->
 
-1.    Sammanfattning
+1\.    Sammanfattning
 
 Den här rapporten handlar om en granskning av kommunens arbete med att säker-
 ställa att elever i grundskolan får en likvärdig utbildning. Med likvärdig utbildning
@@ -1588,7 +1588,7 @@ skillnader mellan skolor i deras förutsättningar att ge eleverna en likvärdig
 
 <!-- sida 45 -->
 
-2.    Inledning
+2\.    Inledning
 
 2.1   Bakgrund
 Kommunrevisionen har bedömt det som väsentligt att granska nämnden för Förskola &
@@ -1633,7 +1633,7 @@ enlighet med ställda revisionsfrågor och avser grundskolan.
 
 <!-- sida 46 -->
 
-3.    Iakttagelser kopplade till resursfördelningsmodellen
+3\.    Iakttagelser kopplade till resursfördelningsmodellen
 
 3.1   Vår bedömning
 Vi bedömer att nämnden för Förskola & Grundskola i stort har fastställt en
@@ -1837,7 +1837,7 @@ utvärdera resursfördelningsmodellen.
 
 <!-- sida 50 -->
 
-4.    Iakttagelser kopplade till uppföljning av lärarresurser
+4\.    Iakttagelser kopplade till uppföljning av lärarresurser
 
 4.1   Vår bedömning
 
@@ -1934,7 +1934,7 @@ centrum.
 
 <!-- sida 52 -->
 
-5.    Iakttagelser kopplat till arbetet med kompensatoriska åtgärder
+5\.    Iakttagelser kopplat till arbetet med kompensatoriska åtgärder
 
 5.1   Vår bedömning
 
@@ -2042,7 +2042,7 @@ undervisningsgrupper eller läxhjälp har fått på elevers möjlighet att nå k
 
 <!-- sida 54 -->
 
-6.    Samlad  bedömning  och  rekommendationer
+6\.    Samlad  bedömning  och  rekommendationer
 
 6.1   Bedömning utifrån revisionsfrågorna
 

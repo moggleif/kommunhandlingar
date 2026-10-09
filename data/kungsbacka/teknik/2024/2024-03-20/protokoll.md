@@ -228,7 +228,7 @@ kommunfullmäktige antar.
 Nybyggnation av omlastningsstation kommer att innebära ökad hyra vilket är den
 största kostnadsökningen inför 2025. Kostnader för insamling av avfall samt
 kostnader för drift och transporter avfall från återvinningscentraler bedöms öka även
-2025. Sammantaget bedöms att taxan behöver höjas med 12 procent för att intäkterna
+2025\. Sammantaget bedöms att taxan behöver höjas med 12 procent för att intäkterna
 ska matcha kostnaderna.
 
 Avgifterna kommer att avrundads till närmsta fem- eller tiokrona.
@@ -563,44 +563,44 @@ Sammanfattning av ärendet
 
 Följande skrivelser inkom under perioden 2024-02-15 - 2024-03-14:
 
-- Tjänsteskrivelse Regelverk avseende valmöjligheter för arbete efter pensionsåldern
-- Riktlinjer för ett långt och gott arbetsliv KF 2024-02-06 § 7
+\- Tjänsteskrivelse Regelverk avseende valmöjligheter för arbete efter pensionsåldern
+\- Riktlinjer för ett långt och gott arbetsliv KF 2024-02-06 § 7
 
-- Protokollsutdrag, Regelverk avseende valmöjligheter för arbete efter
+\- Protokollsutdrag, Regelverk avseende valmöjligheter för arbete efter
 pensionsåldern, 2023-00555 - KS § 7
-- Protokollsutdrag - Antagande av Lokala avfallsföreskrifter, KS § 13, KS-2022-
+\- Protokollsutdrag - Antagande av Lokala avfallsföreskrifter, KS § 13, KS-2022-
 00687
 
-- Lokala avfallsföreskrifter KF 24-02-06 § 13, KS-2022-00687
-- Tjänsteskrivelse, Antagande av Lokala avfallsföreskrifter, KS-2022-00687
+\- Lokala avfallsföreskrifter KF 24-02-06 § 13, KS-2022-00687
+\- Tjänsteskrivelse, Antagande av Lokala avfallsföreskrifter, KS-2022-00687
 
-- Protokollsutdrag KS § 12 - Nya avgifter för parkering - timtaxor, boendekort och
+\- Protokollsutdrag KS § 12 - Nya avgifter för parkering - timtaxor, boendekort och
 nyttokort, KS-2023-00754
 
-- Parkering, timtaxor, boendekort, nyttokort KF 2024-02-06 § 12, KS-2023-00754
-- Tjänsteskrivelse - Nya avgifter för parkering, timtaxor, boendekort och nyttokort,
+\- Parkering, timtaxor, boendekort, nyttokort KF 2024-02-06 § 12, KS-2023-00754
+\- Tjänsteskrivelse - Nya avgifter för parkering, timtaxor, boendekort och nyttokort,
 KS-2023-00754
 
-- Protokollsutdrag KS § 8 - Antagande av riktlinjer för personalföreträdares
+\- Protokollsutdrag KS § 8 - Antagande av riktlinjer för personalföreträdares
 deltagande vid nämnd, KS-2023-00709
-- Riktlinjer - Personalföreträdare i nämnder KF 2024-02-06 § 8, KS-2023-00709
+\- Riktlinjer - Personalföreträdare i nämnder KF 2024-02-06 § 8, KS-2023-00709
 
-- Tjänsteskrivelse - Riktlinjer för personalföreträdares deltagande vid nämnd, KS-
+\- Tjänsteskrivelse - Riktlinjer för personalföreträdares deltagande vid nämnd, KS-
 2023-00709
-- Protokollsutdrag KS § 10 - Strategi för krisberedskap och civilt försvar, KS-2023-
+\- Protokollsutdrag KS § 10 - Strategi för krisberedskap och civilt försvar, KS-2023-
 
 00807
-- Strategi för krisberedskap och civilt försvar KF 24-02-06 § 10, KS-2023-00807
+\- Strategi för krisberedskap och civilt försvar KF 24-02-06 § 10, KS-2023-00807
 
-- Tjänsteskrivelse - Strategi för krisberedskap och civilt försvar, KS-2023-00807
-- Protokollsutdrag KS § 11 - Reglemente för krisledningsnämnden, KS-2023-00664
+\- Tjänsteskrivelse - Strategi för krisberedskap och civilt försvar, KS-2023-00807
+\- Protokollsutdrag KS § 11 - Reglemente för krisledningsnämnden, KS-2023-00664
 
-- Reglemente för krisledningsnämnden KF 24-02-06 § 11,KS-2023-00664
-- Tjänsteskrivelse - Reglemente för krisledningsnämnden, KS-2023-00664
+\- Reglemente för krisledningsnämnden KF 24-02-06 § 11,KS-2023-00664
+\- Tjänsteskrivelse - Reglemente för krisledningsnämnden, KS-2023-00664
 
-- Protokollsutdrag KS § 14 - Motion, Laddinfrastruktur i Kungsbacka, KS 2023-
+\- Protokollsutdrag KS § 14 - Motion, Laddinfrastruktur i Kungsbacka, KS 2023-
 00280
-- Tjänsteskrivelse - Motionssvar, Laddinfrastruktur i Kungsbacka, KS 2023-00280
+\- Tjänsteskrivelse - Motionssvar, Laddinfrastruktur i Kungsbacka, KS 2023-00280
 
 Expedierat/bestyrkt
 
@@ -611,20 +611,20 @@ Nämnden för Teknik
 Datum
 2024-03-20
 
-- Protokollsutdrag KS § 23 - Entledigande och fyllnadsval för uppdrag som ersättare
+\- Protokollsutdrag KS § 23 - Entledigande och fyllnadsval för uppdrag som ersättare
 i nämnden för Teknik, KS-2024-00129
-- Tillstånd att inom Hallands län sätta upp valaffischer inför val till
+\- Tillstånd att inom Hallands län sätta upp valaffischer inför val till
 Europaparlamentet den 9 juni 2024 - 945-2024
 
-- Betr debattartikel i Norra Halland om " Livsfarlig promenad över bron "
+\- Betr debattartikel i Norra Halland om " Livsfarlig promenad över bron "
 
-- Dagvatten Örsviken - 4 mars 2024
-- Överklagan 2024-03-04
+\- Dagvatten Örsviken - 4 mars 2024
+\- Överklagan 2024-03-04
 
-- Karta över parkeringsautomaterna som är kvar i kommunen
-- Information och frågeunderlag inför granskning av dataskydd 2024
+\- Karta över parkeringsautomaterna som är kvar i kommunen
+\- Information och frågeunderlag inför granskning av dataskydd 2024
 
-- Dataskyddsombudets Regelbundna granskning 2024 - Information och
+\- Dataskyddsombudets Regelbundna granskning 2024 - Information och
 frågeunderlag
 
 Beslutsgång
@@ -684,10 +684,10 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Översyn om askkoppar i kommunen
--  Utvärdering av det aktiva farthindret på Kungsgatan
+\-  Översyn om askkoppar i kommunen
+\-  Utvärdering av det aktiva farthindret på Kungsgatan
 
--  Uppmärksammade aktiviteter på Kungsbacka Live
+\-  Uppmärksammade aktiviteter på Kungsbacka Live
 
 Beslutsgång
 

@@ -102,14 +102,14 @@ Blomdahl (M)
 
 Tjänstepersoner
 
-Gustav Sjöström, ekonomichef $ 64
-Anna Sörensen, utvecklingsledare $
+Gustav Sjöström, ekonomichef \$ 64
+Anna Sörensen, utvecklingsledare \$
 65
 
-Anna Flinck, utvecklingsledare $ 66
-Pauline Brink, lärare $ 67
+Anna Flinck, utvecklingsledare \$ 66
+Pauline Brink, lärare \$ 67
 
-Frida Byrsten, verksamhetschef $$ 68,
+Frida Byrsten, verksamhetschef \$\$ 68,
 69
 
 Stigert Pettersson, förvaltningschef
@@ -117,7 +117,7 @@ Lars Sundbom, utvecklare
 
 Övriga
 
-$$ 63-72
+\$\$ 63-72
 
 Paragrafer
 
@@ -128,38 +128,38 @@ Nämnden för Förskola & Grundskola Datum
 2026-06-11
 
 Innehåll
-$63 Dnr FG-2026-00014
+\$63 Dnr FG-2026-00014
 
 Fastställande av dagordning och val av juSterafe..............sssssserssoororerrssessnnn 3
-$ 64 Dnr FG-2026-00042
+\$ 64 Dnr FG-2026-00042
 
 Redovisning av inkomna skrivelser till nämnd 2026 s....sssssssereesererersrrerernrns 4
-$65 Dnr FG-2026-00291
+\$65 Dnr FG-2026-00291
 
 Information om statsbidrag inom Förskola & Grundskola...............ss.esssere- 5
-$ 66 Dnr FG-2026-00290
+\$ 66 Dnr FG-2026-00290
 
 Resultat elev- och vårdnadshavarenkäter grundskola och anpassad
 
 grundskola 2020 o.sssssssssrssssrerrrsereressrrrreserrrreserrressrrrresrrrrrr rr nr ers nn reser rr rr nnrna 6
-$ 67 Dnr FG-2026-00296
+\$ 67 Dnr FG-2026-00296
 
 Utredning av skolorganisering i Fjärås- och Gällingeområdet.................... 7
-$ 68 Dnr FG-2026-00269
+\$ 68 Dnr FG-2026-00269
 
 Revidering av Kungsbacka kommuns riktlinje för skolval och skolplacering
 
 i förskoleklass och grundSkOla..........ssssssssssssrersrsrrrrersrrrrrsrrnrerrrrrrerrrnrrrrnrrren 9
-$69 Dnr FG-2025-00614
+\$69 Dnr FG-2025-00614
 
 Initiativärende Susanne Andersson (SD). Seniorer som rastvärdar........... 11
-$ 70 Dnr FG-2026-00372
+\$ 70 Dnr FG-2026-00372
 
 Initiativ Jenny Thorbjörnsson (KD) om tryggare elevdatorer ................... 13
-$ 71 Dnr FG-2026-00018
+\$ 71 Dnr FG-2026-00018
 
 Delegeringsbeslut antagna av nämnden 20206..............sssessssssrersssererrrrrssrsnne 14
-$ 72 Dnr FG-2026-00016
+\$ 72 Dnr FG-2026-00016
 
 Information - Förskola & Grundskola arbetsutskott och nämnd ............... 15
 
@@ -177,7 +177,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (15)
 Nämnden för Förskola & Grundskola Datum
 2026-06-11
 
-$ 63 Dnr FG-2026-00014
+\$ 63 Dnr FG-2026-00014
 Fastställande av dagordning och val av justerare
 
 Beslut
@@ -205,7 +205,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (15)
 Nämnden för Förskola & Grundskola Datum
 2026-06-11
 
-$ 64 Dnr FG-2026-00042
+\$ 64 Dnr FG-2026-00042
 Redovisning av inkomna skrivelser till nämnd 2026
 
 Beslut
@@ -234,7 +234,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (15)
 Nämnden för Förskola & Grundskola Datum
 2026-06-11
 
-$ 65 Dnr FG-2026-00291
+\$ 65 Dnr FG-2026-00291
 Information om statsbidrag inom Förskola & Grundskola
 
 Beslut
@@ -288,7 +288,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (15)
 Nämnden för Förskola & Grundskola Datum
 2026-06-11
 
-$ 66 Dnr FG-2026-00290
+\$ 66 Dnr FG-2026-00290
 
 Resultat elev- och vårdnadshavarenkäter grundskola och anpassad
 grundskola 2026
@@ -339,7 +339,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (15)
 Nämnden för Förskola & Grundskola Datum
 2026-06-11
 
-$ 67 Dnr FG-2026-00296
+\$ 67 Dnr FG-2026-00296
 Utredning av skolorganisering i Fjärås- och Gällingeområdet
 
 Beslut
@@ -425,7 +425,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (15)
 Nämnden för Förskola & Grundskola Datum
 2026-06-11
 
-$ 68 Dnr FG-2026-00269
+\$ 68 Dnr FG-2026-00269
 
 Revidering av Kungsbacka kommuns riktlinje för skolval och
 skolplacering i förskoleklass och grundskola
@@ -502,7 +502,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (15)
 Nämnden för Förskola & Grundskola Datum
 2026-06-11
 
-$ 69 Dnr FG-2025-00614
+\$ 69 Dnr FG-2025-00614
 Initiativärende Susanne Andersson (SD). Seniorer som rastvärdar
 
 Beslut
@@ -583,7 +583,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (15)
 Nämnden för Förskola & Grundskola Datum
 2026-06-11
 
-$ 70 Dnr FG-2026-00372
+\$ 70 Dnr FG-2026-00372
 Initiativ Jenny Thorbjörnsson (KD) om tryggare elevdatorer
 
 Beslut
@@ -639,7 +639,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (15)
 Nämnden för Förskola & Grundskola Datum
 2026-06-11
 
-$ 71 Dnr FG-2026-00018
+\$ 71 Dnr FG-2026-00018
 Delegeringsbeslut antagna av nämnden 2026
 
 Beslut
@@ -679,7 +679,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (15)
 Nämnden för Förskola & Grundskola Datum
 2026-06-11
 
-$ 72 Dnr FG-2026-00016
+\$ 72 Dnr FG-2026-00016
 Information - Förskola & Grundskola arbetsutskott och nämnd
 
 Beslut

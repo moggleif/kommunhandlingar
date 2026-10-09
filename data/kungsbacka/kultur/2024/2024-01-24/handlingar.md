@@ -244,9 +244,9 @@ särskilt goda prestationer i sång och/eller musik inom Kulturskolans
 verksamhetsområde.
 
 Kommunfullmäktige beslutade 6 april 1995 att
-- fondens medel ska förvaltas av kommunledningskontoret,
+\- fondens medel ska förvaltas av kommunledningskontoret,
 
-- skolstyrelsens arbetsutskott och kulturskolans rektor ska vara den
+\- skolstyrelsens arbetsutskott och kulturskolans rektor ska vara den
 kommitté som enligt gåvobrevet har att besluta om utdelning.
 
 Eftersom ansvaret för Kulturskolan har övergått till nämnden för Kultur & Fritid
@@ -372,7 +372,7 @@ andra tankar som ungdomar kan ha. Detta kan också ge möjligheter för ungdomar
 utveckla sitt fordonsintresse, detta kan vara av nytta även för fordons och
 transportbranschen som lider av brist på personal.
 Vi vill därför
--  att ge förvaltningen i uppdrag att i samverkan med några utav dessa ungdomar och
+\-  att ge förvaltningen i uppdrag att i samverkan med några utav dessa ungdomar och
 andra aktörer utreda möjligheten att hitta en plats där ungdomar kan träffas utan att
 det stör boende och kringliggande verksamheter.
 
@@ -875,10 +875,10 @@ och stödja nästa generation av idrottare. Att investera i upprustning av Tingb
 bara en kostnad utan en investering i gemenskapens hälsa, kultur, ekonomi och framtida
 idrottsframgångar.
 BESKRIV KONSEKVENSERNA
-1. Skola samt föreningsliv kan inte nyttja Tingbergsvallen på grund av att banorna är i så dåligt
+1\. Skola samt föreningsliv kan inte nyttja Tingbergsvallen på grund av att banorna är i så dåligt
 skick att det kan generera kroppsskador.
 SAMORDNINGSBEHOV
-2. MEX, teknik, fastighet, samhällsbyggnadskontoret
+2\. MEX, teknik, fastighet, samhällsbyggnadskontoret
 
 <!-- sida 27 -->
 
@@ -1021,7 +1021,7 @@ att nå ut till kommunens alla delar med ett modernt utrustat mobilt bibliotek.
 BESKRIV KONSEKVENSERNA
 
 Varje steg ska utredas och eventuellt förkastas.
-1. Inga åtgärder. Om inget byte av fordon sker så försämras biblioteksservicen
+1\. Inga åtgärder. Om inget byte av fordon sker så försämras biblioteksservicen
 Kungsbackas invånare, främst utsatta grupper som beskrivits tidigare i
 behovsbeskrivningen.
 
@@ -1106,10 +1106,10 @@ up verksameht är folkrace, festivaler, asylboende och badstranden.
 BESKRIV KONSEKVENSERNA
 
 Varje steg ska utredas och eventuellt förkastas.
-1. Inga åtgärder Om inget byte av fordon sker så försämras biblioteksservicen för
+1\. Inga åtgärder Om inget byte av fordon sker så försämras biblioteksservicen för
 Kungsbackas invånare, främst utsatta grupper som beskrivits tidigare i
 behovsbeskrivningen.
-2. Ny investering
+2\. Ny investering
 
 SAMORDNINGSBEHOV
 SE- fordon, enligt de rutiner som finns för inköp av fordon
@@ -1339,12 +1339,12 @@ KUNGSBACKA  KOMMUN
 BESKRIV KONSEKVENSERNA
 2 (2)
 
-1. De förväntade konsekvenserna: utveckling av platsen Kungsbacka med fler besökare.
-2. Konstfestivalen bidrar till att skapa ett mer attraktivt och tillgängligt stråk med en utformning
+1\. De förväntade konsekvenserna: utveckling av platsen Kungsbacka med fler besökare.
+2\. Konstfestivalen bidrar till att skapa ett mer attraktivt och tillgängligt stråk med en utformning
 som gör Kungsbacka känt och skapar profilen som attraktivt och mångfacetterat i hela regionen.
 
-3. Flyttar fram positionerna för konstnärlig kompetens och konstens kraft i samhällsutvecklingen
-4. Är en brygga mellan Kungsbacka kommun och fastighetsägare, byggaktörer, konstnärer,
+3\. Flyttar fram positionerna för konstnärlig kompetens och konstens kraft i samhällsutvecklingen
+4\. Är en brygga mellan Kungsbacka kommun och fastighetsägare, byggaktörer, konstnärer,
 näringsliv, organisationer, invånare, besökare m fl för en helt ny nivå av samverkan
 
 SAMORDNINGSBEHOV
@@ -1492,8 +1492,8 @@ Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan an
 kommunen att besluta istället, s.k. vidaredelegering (kommunallagen 7 kap 6 §). Beslut om
 delegering ska då ske i två steg;
 
-1) Nämndens beslut om delegering till förvaltningschef
-2) Förvaltningschefens beslut om delegering till tjänsteman
+1\) Nämndens beslut om delegering till förvaltningschef
+2\) Förvaltningschefens beslut om delegering till tjänsteman
 
 1.2 Syftet med delegering
 Syftet med delegering är att dels avlasta nämnden rutinärenden och därmed ge möjlighet åt de
@@ -1544,28 +1544,28 @@ ram för budget och övriga tillämpliga styrdokument.
 Nämnden får inte delegera beslutanderätten i följande slag av ärenden som framgår av KL 6 kap
 
 38 §:
--  Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga
+\-  Ärenden som avser verksamhetens mål, inriktning, omfattning eller kvalitet, det vill säga
 övergripande ansvar för verksamheten
 
--  Framställningar eller yttrande till fullmäktige
+\-  Framställningar eller yttrande till fullmäktige
 
--  Yttrande med anledning av att fullmäktiges beslut har överklagats
+\-  Yttrande med anledning av att fullmäktiges beslut har överklagats
 
--  Yttrande med anledning av att nämndens egna beslut har överklagats
+\-  Yttrande med anledning av att nämndens egna beslut har överklagats
 
--  Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell
+\-  Ärenden som rör myndighetsutövning mot enskilda, om ärendet är av principiell
 beskaffenhet eller annars av större vikt.
 
 Bestämmelser och deleg ering av beslutanderätt Sida 4 av 15
 
 <!-- sida 45 -->
 
--  Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden
+\-  Ärenden som väckts genom medborgarförslag och som överlämnats till nämnden
 
 (detta är dock inte aktuellt i Kungsbacka eftersom fullmäktige inte beslutat om att
 tillämpa möjligheten till medborgarförslag).
 
--  Ärenden som enligt lag eller annan författning inte får delegeras.
+\-  Ärenden som enligt lag eller annan författning inte får delegeras.
 
 1.5 Vem har rätt att företräda nämnden och Kungsbacka kommun?
 
@@ -1629,14 +1629,14 @@ Ersättare för nämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
-1. Annan delegat om det finns flera angivna.
+1\. Annan delegat om det finns flera angivna.
 
 Vem som tar över beslutanderätten ska framgå av ärendet och registreras i
 ärende-/verksamhetssystemet
 
-2. Vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i
+2\. Vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i
 ärende-/verksamhetssystemet
-3. Ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå
+3\. Ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå
 
 av ärendet och registreras i ärende-/verksamhetssystemet
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit delegationen,
@@ -1671,12 +1671,12 @@ delegeringsförteckning till annan anställd, om inget annat framgår av förtec
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten har
 tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får genomföras
 i avvaktan på prövning).
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att underteckna
 
 handling som beslutet avser. Om arbetsutskottet har fått delegation undertecknas
 handling som beslutet avser av arbetsutskottets ordförande och förvaltningschefen.
@@ -1687,10 +1687,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
 
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
 
@@ -1703,11 +1703,11 @@ Enligt kommunallagen ska nämnden besluta i vilken utsträckning beslut som har 
 delegering ska anmälas till nämnden.
 
 Syftet med anmälan av delegeringsbeslut är att
--  Tiden för när överklaganden av ärenden som överklagas med kommunalbesvär bestäms
+\-  Tiden för när överklaganden av ärenden som överklagas med kommunalbesvär bestäms
 genom det datum då beslutet eller det protokoll där anmälan noterats tillkännages. Det har
 
 alltså betydelse för när beslutet vinner laga kraft.
--  Ge nämnden fortlöpande information om vad som händer i verksamheten och därmed ligga
+\-  Ge nämnden fortlöpande information om vad som händer i verksamheten och därmed ligga
 som grund för möjlighet till förändringar och utveckling av verksamheten.
 
 Beslut som är fattade av ordförande som brådskande enligt kommunallagen 6 kap 39 §, ska anmälas

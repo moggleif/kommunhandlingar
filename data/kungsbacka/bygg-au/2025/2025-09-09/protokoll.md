@@ -173,7 +173,7 @@ Byggnadsnämndens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 Byggnadsnämndens arbetsutskott får en återrapportering från presidieavstämningen
 den 8 september, där Katarina bland annat informerade om nämndernas delårsrapport
-2025.
+2025\.
 
 Verksamhetschef Hanna Ståhl informerar utskottet om kommande ändringar i Plan-
 och bygglagen (PBL). Föreslagen lagändring kommer beslutas i riksdagen den 22
@@ -422,10 +422,10 @@ Sammanfattning av ärendet
 
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9–
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9–
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 
 områdesbestämmelser. Lag (2014:900).
@@ -686,10 +686,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -1184,10 +1184,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -1718,7 +1718,7 @@ enbostadshus
 Beslut
 Byggnadsnämndens arbetsutskott lämnar negativt förhandsbesked för ett
 enbostadshus på fastigheten Vallda-Lunden 4:5, i det sydöstra hörnet av delområde
-1.
+1\.
 
 Avgiften för beslutet är 18 083 kronor. Avgiften är fastställd i taxan för
 byggnadsnämndens verksamhet, beslutad i kommunfullmäktige 2023-12-14 § 196.
@@ -1842,10 +1842,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
@@ -2202,10 +2202,10 @@ Beslutsmotivering
 
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-
 
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
@@ -2484,7 +2484,7 @@ Beslutsmotivering
 Enligt plan- och bygglagen 9 kap 30 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd inom ett område med detaljplan, om
 
-1. den fastighet och det byggnadsverk som åtgärden avser
+1\. den fastighet och det byggnadsverk som åtgärden avser
 a) överensstämmer med detaljplanen, eller
 
 b) avviker från detaljplanen men avvikelsen har godtagits vid en tidigare
@@ -2492,8 +2492,8 @@ bygglovsprövning enligt denna lag eller äldre bestämmelser eller vid en
 fastighetsbildning enligt 3 kap. 2 § första stycket andra meningen
 fastighetsbildningslagen (1970:988),
 
-2. åtgärden inte strider mot detaljplanen,
-3. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
+2\. åtgärden inte strider mot detaljplanen,
+3\. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
 och
 
 Det här dokumentet är digitalt signerat
@@ -2507,7 +2507,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2025-09-09
 
-4. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
+4\. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
 tredje stycket, 8 och 9 §§ samt 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-11 §§, 12 §
 första stycket, 13, 17 och 18 §§.
 Om åtgärden är en sådan ändring av en byggnad som avses i 2 § första stycket 3 b
@@ -2522,8 +2522,8 @@ Av 9 kap. 31 b § följer att trots 30 § första stycket 2, 31 § 1 och 31 a §
 ges för en åtgärd som avviker från en detaljplan eller områdesbestämmelser, om
 avvikelsen är förenlig med detaljplanens eller områdesbestämmelsernas syfte och
 
-1. avvikelsen är liten, eller
-2. åtgärden är av begränsad omfattning och nödvändig för att området ska kunna
+1\. avvikelsen är liten, eller
+2\. åtgärden är av begränsad omfattning och nödvändig för att området ska kunna
 användas eller bebyggas på ett ändamålsenligt sätt. Lag (2014:900).
 
 Detaljplanen anger att komplementbyggnad inte får uppföras. Det är enbart där
@@ -2547,8 +2547,8 @@ Rivningslov
 Enligt plan- och bygglagen 9 kap 34 § (PBL, SFS 2010:900) ska rivningslov ges för
 en åtgärd som avser en byggnad eller byggnadsdel som inte
 
-1. omfattas av rivningsförbud i detaljplan eller områdesbestämmelser, eller
-2. bör bevaras på grund av byggnadens eller bebyggelsens historiska,
+1\. omfattas av rivningsförbud i detaljplan eller områdesbestämmelser, eller
+2\. bör bevaras på grund av byggnadens eller bebyggelsens historiska,
 
 kulturhistoriska, miljömässiga eller konstnärliga värde.
 Byggnaden omfattas inte av rivningsförbud i detaljplan. Rivningslov ska därför
@@ -2738,20 +2738,20 @@ Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser:
 
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften.
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen.
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området.
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 
 genomföras utanför området.
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området.
 
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 Förvaltningens bedömning är att inget av dessa särskilda skäl uppfylls för inskickad
 ansökan och bedömningen är därmed att en strandskyddsdispens inte kan ges. En
 motivering följer nedan.

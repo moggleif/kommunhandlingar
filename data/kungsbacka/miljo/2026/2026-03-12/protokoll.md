@@ -406,15 +406,15 @@ sammantaget mot budget med -4,1 miljoner kronor och kostnaderna med +5,8
 miljoner kronor.
 
 Årsredovisningen i sin helhet innehåller följande avsnitt:
-* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
+\* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
 påverkat nämnden
 
-* Uppföljning av kommunfullmäktiges mål och direktiv
-* Uppföljning av systematiskt arbetsmiljöarbete, kompetensförsörjning och
+\* Uppföljning av kommunfullmäktiges mål och direktiv
+\* Uppföljning av systematiskt arbetsmiljöarbete, kompetensförsörjning och
 personalnyckeltal
 
-* Uppföljning av ekonomi
-* Hållbarhetsuppföljning
+\* Uppföljning av ekonomi
+\* Hållbarhetsuppföljning
 
 Nämnden driver ett aktivt arbete för att bidra till att både kommunfullmäktiges mål
 och direktiv uppnås. Uppföljningen av det systematiska arbetsmiljöarbetet visar att
@@ -505,10 +505,10 @@ ombudgetering och resultatfond 2025.
 
 Byggnadsnämnden redovisar ett positivt resultat jämför med budget 2025 på 1 702
 000 kronor. Nämnden begär följande resultatdisponering:
-* Kvarvarande budget för internränta, 7 000 kronor, återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 7 000 kronor, återredovisas enligt kommunens
 Ekonomistyrprinciper.
 
-* Resterande överskott, 1 695 000 kronor, förs till nämndens resultatfond. Beloppet
+\* Resterande överskott, 1 695 000 kronor, förs till nämndens resultatfond. Beloppet
 inkluderar överskott för projektbudget kartutveckling på 4 000 kronor.
 
 Beslutsunderlag

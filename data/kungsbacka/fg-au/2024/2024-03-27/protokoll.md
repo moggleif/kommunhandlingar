@@ -495,14 +495,14 @@ Sammanfattning av ärendet
 Fullriggaren Maleviks verksamhetsplan är indelad i tre områden/mål;
 
 •  Autonomi med delmålen
-- god insyn i enhetens budget och tillit
+\- god insyn i enhetens budget och tillit
 
 •  Gemenskap med delmålen
-- Ökad delaktighet/distribuerad makt och samarbete mellan förvaltningar
+\- Ökad delaktighet/distribuerad makt och samarbete mellan förvaltningar
 och föreningar
 
 •  Kunskap med delmålen
-- Måluppfyllelse, barns och elevers kompetenser samt omvärldsorientering
+\- Måluppfyllelse, barns och elevers kompetenser samt omvärldsorientering
 
 Åsa Gårds verksamhetsplan är indelad i tre områden/mål;
 

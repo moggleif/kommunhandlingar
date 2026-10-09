@@ -201,15 +201,15 @@ SAMMANFATTNING .................................................................
 
 GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ....................................................... 5
 
-1. Engagerad ledning och tydlig styrning ............................................................................... 5
+1\. Engagerad ledning och tydlig styrning ............................................................................... 5
 Organisation och ansvar ..................................................................................................... 5
 Övergripande mål och strategier ....................................................................................... 7
 
-2. En god säkerhetskultur ....................................................................................................... 8
-3. Adekvat kunskap och kompetens .................................................................................... 14
-4. Patienten som medskapare .............................................................................................. 16
-5. Resultat/analys ................................................................................................................. 17
-6. Mål och utmaningar för kommande år ............................................................................ 21
+2\. En god säkerhetskultur ....................................................................................................... 8
+3\. Adekvat kunskap och kompetens .................................................................................... 14
+4\. Patienten som medskapare .............................................................................................. 16
+5\. Resultat/analys ................................................................................................................. 17
+6\. Mål och utmaningar för kommande år ............................................................................ 21
 
 3
 
@@ -365,12 +365,12 @@ MLA/PLA vid anställning för att bedöma medicinsk kompetens.
 PSL 2010:659, 3 kap. 1 §, SOSFS 2011:9, 3 kap. 1-3 §
 
 Elevhälsans medicinska del har alltid ett övergripande mål att patientsäkert kunna erbjuda
--  Förebyggande och hälsofrämjande insatser för att stödja elever
+\-  Förebyggande och hälsofrämjande insatser för att stödja elever
 
--  Erbjuda vaccinationer enligt FHM vaccinationsprogram
--  Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp
+\-  Erbjuda vaccinationer enligt FHM vaccinationsprogram
+\-  Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp
 hen är i behov av.
--  Utföra enklare sjukvårdsinsatser
+\-  Utföra enklare sjukvårdsinsatser
 
 Utifrån dessa övergripande mål tas även fram identifierade mål för patientsäkerhetsarbete.
 De bygger på det systematiska kvalitetsarbete inom elevhälsans medicinska del som sker
@@ -411,7 +411,7 @@ nödvändiga för att kunna utföra vårt uppdrag på ett patientsäkert sätt.
 
 <!-- sida 11 -->
 
-2. En god säkerhetskultur
+2\. En god säkerhetskultur
 
 En grundläggande förutsättning för en säker vård är en god säkerhetskultur.
 Organisationen ger då förutsättningar för en kultur som främjar säkerhet och
@@ -707,11 +707,11 @@ Intern samverkan
 En god säkerhetskultur inom verksamheten där lärande, kommunikation och reflektion är
 ledord bygger på intern samverkan som tidigare beskrivits. Intern samverkan består av bl.a.:
 
--  Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
--  Ledningsmöten Elevhälsans medicinska insats
+\-  Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
+\-  Ledningsmöten Elevhälsans medicinska insats
 
--  Samverkan mellan EMI samt övrig elevhälsa
--  Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
+\-  Samverkan mellan EMI samt övrig elevhälsa
+\-  Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
 
 13
 
@@ -768,42 +768,42 @@ Handledning i grupp erbjuds.
 <!-- sida 18 -->
 
 Kontinuerlig fortbildning (återkommande) EMI Gymnasieskolan
--  Kompetensutvecklingsdag (heldag)
--  Yrkesspecifik utbildning i journalsystem (Prorenata)
+\-  Kompetensutvecklingsdag (heldag)
+\-  Yrkesspecifik utbildning i journalsystem (Prorenata)
 
--  Skolsköterskedagarna
+\-  Skolsköterskedagarna
 
 Kompetensutvecklingsinsatser under 2023 EMI
 
--  Skolsköterskedagarna Norrköping /samtliga medarbetare inom EMI
--  Medicinska tillstånd barn/ungdomar
--  Pubertetsskattning (halvdag)
--  Ungdomars sömnvanor
--  Journalföring/Utveckling nya journalsystemet Prorenata
+\-  Skolsköterskedagarna Norrköping /samtliga medarbetare inom EMI
+\-  Medicinska tillstånd barn/ungdomar
+\-  Pubertetsskattning (halvdag)
+\-  Ungdomars sömnvanor
+\-  Journalföring/Utveckling nya journalsystemet Prorenata
 
 Kontinuerlig fortbildning (återkommande) EPI Centralt
 
--  Kompetensutvecklingsdag (heldag) x 2
--  Yrkesspecifik utbildning i journalsystem (Prorenata)
--  PFISOS dagarna (dock deltog ingen av psykologerna år 2023)
--  Kategorimöten (olika områden/patientsäkerhet)
+\-  Kompetensutvecklingsdag (heldag) x 2
+\-  Yrkesspecifik utbildning i journalsystem (Prorenata)
+\-  PFISOS dagarna (dock deltog ingen av psykologerna år 2023)
+\-  Kategorimöten (olika områden/patientsäkerhet)
 
 Kompetensutvecklingsinsatser under 2023 EPI Centralt
 
--  I samarbete med Habiliteringen i Kungsbacka anordnades en kompetenshöjande
+\-  I samarbete med Habiliteringen i Kungsbacka anordnades en kompetenshöjande
 insats runt differentieringen av svag teoretisk begåvning/lindrig intellektuell
 funktionsnedsättning (extern föreläsare) för samtliga psykologer inom Kungsbacka
 kommun
--  Journalföring/avvikelsehantering i det nya journalsystemet Prorenata
+\-  Journalföring/avvikelsehantering i det nya journalsystemet Prorenata
 
--  På utvecklingsdagen (8 december) bjöds extern föreläsare in; Barnahus samt
+\-  På utvecklingsdagen (8 december) bjöds extern föreläsare in; Barnahus samt
 introduktion av PALS.
 
 15
 
 <!-- sida 19 -->
 
-4. Patienten som medskapare
+4\. Patienten som medskapare
 
 En grundläggande förutsättning för en säker vård är patientens och de
 närståendes delaktighet. Vården blir säkrare om patienten är välinformerad,
@@ -823,14 +823,14 @@ information digitalt via e-tjänst.
 Samtycke och/eller information mellan elevhälsans medicinska insats och
 elever/vårdnadshavare sker inom följande insatser:
 
--  Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
--  Information/samtycke vaccinationer inom basprogrammet.
+\-  Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
+\-  Information/samtycke vaccinationer inom basprogrammet.
 
--  Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt
+\-  Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt
 för vårdnadshavare. Hälsosamtalet är personcentrerad dialog mellan skolsköterska
 och elev som syftar till att främja hälsa och förebygga ohälsa. Här har elev och/eller
 vårdnadshavare förutsättningar till delaktighet och medskapande.
--  Information/samtycke om åtgärder som kan behövas initieras efter
+\-  Information/samtycke om åtgärder som kan behövas initieras efter
 hälsosamtal/hälsobesök.
 
 Samtycke från vårdnadshavare krävs vid vissa insatser såsom vaccinationer och
@@ -996,18 +996,18 @@ Under 2023 har inget klagomål/synpunkt inkommit till Elevhälsans medicinska de
 
 <!-- sida 24 -->
 
-6. Mål och utmaningar för kommande år
+6\. Mål och utmaningar för kommande år
 
 Övergripande mål
 
 Elevhälsans medicinska del har alltid ett övergripande mål att patientsäkert kunna erbjuda
--  Förebyggande och hälsofrämjandeinsatser för att stödja elever
+\-  Förebyggande och hälsofrämjandeinsatser för att stödja elever
 
--  Erbjuda vaccinationer enligt FHM vaccinationsprogram
--  Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp
+\-  Erbjuda vaccinationer enligt FHM vaccinationsprogram
+\-  Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp
 hen är i behov av.
 
--  Utföra enklare sjukvårdsinsatser
+\-  Utföra enklare sjukvårdsinsatser
 
 Dessa mål säkerställs genom egenkontroller och kontinuerlig dialog med närmsta chef och
 VC HSL.
@@ -1315,23 +1315,23 @@ Kommunens riktlinjer för bostads- Kommunfullmäktige ska under
 försörjningen ska minst innehålla varje mandatperiod anta en hand-
 följande uppgifter:  lingsplan för bostadsförsörjningen.
 Handlingsplanen ska redovisa
-1. behovet av tillskott av bostäder
+1\. behovet av tillskott av bostäder
 i kommunen,
-1. kommunens mål för bostads- 2. kommunens mål för bostads-
+1\. kommunens mål för bostads- 2. kommunens mål för bostads-
 byggande och utveckling av bo- byggande och utveckling av bo-
 stadsbeståndet,      stadsbeståndet,
-2. kommunens planerade insat- 3. kommunens planerade åtgär-
+2\. kommunens planerade insat- 3. kommunens planerade åtgär-
 ser för att nå uppsatta mål, och der för att nå uppsatta mål, och
-3. hur kommunen har tagit hän- 4. hur kommunen har tagit hän-
+3\. hur kommunen har tagit hän- 4. hur kommunen har tagit hän-
 syn till relevanta nationella och re- syn till relevanta nationella och re-
 gionala mål, planer och program gionala mål, planer och program
 som är av betydelse för bostads- som är av betydelse för bostadsför-
 försörjningen.       sörjningen.
 Uppgifterna ska särskilt grundas Uppgifterna i handlingsplanen
 på en analys av      ska särskilt grundas på en analys av
-1. den demografiska utvecklingen, den demografiska utvecklingen,
-2. marknadsförutsättningarna, och marknadsförutsättningarna och de
-3. vilka bostadsbehov som inte bostadsbehov som inte tillgodoses
+1\. den demografiska utvecklingen, den demografiska utvecklingen,
+2\. marknadsförutsättningarna, och marknadsförutsättningarna och de
+3\. vilka bostadsbehov som inte bostadsbehov som inte tillgodoses
 tillgodoses på den lokala bostads- på den lokala bostadsmarknaden.
 marknaden.           Analysen ska genomföras med stöd
 av ett underlag som Boverket förser
@@ -1424,11 +1424,11 @@ Köavgiften får tas ut för högst ett Köavgift får tas ut för högst ett å
 avgiften och grunderna för hur den grunder som kommunen bestäm-
 ska tas ut.          mer.
 Köavgift får tas ut även om
-1. lägenheter reserveras för olika
+1\. lägenheter reserveras för olika
 kategorier av sökande i kön eller
 fördelas enligt ett förturssystem,
 eller
-2. förmedlingsersättning tas ut
+2\. förmedlingsersättning tas ut
 vid yrkesmässig bostadsförmedling
 som avses i 12 kap. 65 a § jorda-
 balken.
@@ -1440,10 +1440,10 @@ enskilda hushåll genom att ställa
 säkerhet för att ett avtal om hyra av
 bostadslägenhet fullgörs (hyres-
 garanti).
-1. Denna lag träder i kraft den 1 januari 2025.
-2. Bestämmelserna i 2 § i den nya lydelsen ska tillämpas första gången
+1\. Denna lag träder i kraft den 1 januari 2025.
+2\. Bestämmelserna i 2 § i den nya lydelsen ska tillämpas första gången
 senast under den mandatperiod som inleds efter ordinarie val 2026.
-3. Bestämmelserna i 1, 4 och 6 §§ i den äldre lydelsen gäller fortfarande
+3\. Bestämmelserna i 1, 4 och 6 §§ i den äldre lydelsen gäller fortfarande
 för riktlinjer som antagits enligt 1 § tredje stycket i den äldre lydelsen till
 dess riktlinjerna har ersatts med en handlingsplan enligt 2 § i den nya
 lydelsen, dock längst till utgången av den mandatperiod som inleds efter
@@ -1496,14 +1496,14 @@ Nuvarande lydelse    Föreslagen lydelse
 Planläggning enligt denna lag ska med hänsyn till natur- och kulturvärden,
 miljö- och klimataspekter samt mellankommunala och regionala förhål-
 landen främja
-1. en ändamålsenlig struktur och en estetiskt tilltalande utformning av
+1\. en ändamålsenlig struktur och en estetiskt tilltalande utformning av
 bebyggelse, grönområden och kommunikationsleder,
-2. en från social synpunkt god livsmiljö som är tillgänglig och använd-
+2\. en från social synpunkt god livsmiljö som är tillgänglig och använd-
 bar för alla samhällsgrupper,
-3. en långsiktigt god hushållning med mark, vatten, energi och råvaror
+3\. en långsiktigt god hushållning med mark, vatten, energi och råvaror
 samt goda miljöförhållanden i övrigt,
-4. en god ekonomisk tillväxt och en effektiv konkurrens, och
-5. bostadsbyggande och utveckling av bostadsbeståndet.
+4\. en god ekonomisk tillväxt och en effektiv konkurrens, och
+5\. bostadsbyggande och utveckling av bostadsbeståndet.
 Även i andra ärenden enligt denna lag ska hänsyn tas till de intressen
 som anges i första stycket 1–5.
 Den kommunala handlingspla-
@@ -1550,10 +1550,10 @@ läggande villkor för markanvis- för att följa kommunens handlings-
 ningar samt principer för mark- plan för bostadsförsörjningen en-
 prissättning.        ligt lagen (2000:1383) om kommu-
 nernas bostadsförsörjningsansvar,
-3. handläggningsrutiner och
+3\. handläggningsrutiner och
 grundläggande villkor för mark-
 anvisningar, och
-4. principer för markprissättning.
+4\. principer för markprissättning.
 En kommun som inte genomför några markanvisningar är inte skyldig
 att anta sådana riktlinjer.
 Denna lag träder i kraft den 1 januari 2025.
@@ -1573,15 +1573,15 @@ om hyra av en bostadslägenhet fullgörs (hyresgaranti).
 Förordningen är meddelad med stöd av 11 § lagen (2000:1383) om kom-
 munernas bostadsförsörjningsansvar.
 2 § En kommun ska ställa hyresgaranti om
-1. det behövs för att ett enskilt hushåll ska få en permanentbostad med
+1\. det behövs för att ett enskilt hushåll ska få en permanentbostad med
 hyresrätt med rätt till förlängning,
-2. det i hushållet finns barn i den mening som avses i 96 kap. 4, 5 eller
+2\. det i hushållet finns barn i den mening som avses i 96 kap. 4, 5 eller
 5 a § socialförsäkringsbalken,
-3. hushållets behov av en permanentbostad inte kan tillgodoses på annat
+3\. hushållets behov av en permanentbostad inte kan tillgodoses på annat
 sätt,
-4. den eller de som ska ingå det hyresavtal som hyresgarantin avser är
+4\. den eller de som ska ingå det hyresavtal som hyresgarantin avser är
 bosatta i kommunen, och
-5. bostaden finns i kommunen.
+5\. bostaden finns i kommunen.
 3 § En hyresgaranti ska ställas för minst sex månadshyror och gälla
 under minst två år.
 4 § En hyresgaranti inskränker inte de skyldigheter som en kommun har
@@ -3432,7 +3432,7 @@ försvarets skydd (dir. 2023:67).
 övergångsbestämmelser
 
 Promemorians förslag: Lagändringarna ska träda i kraft den 1 januari
-2025. I fråga om en handlingsplan för bostadsförsörjningen ska kom-
+2025\. I fråga om en handlingsplan för bostadsförsörjningen ska kom-
 munfullmäktige ha antagit en sådan senast under den mandatperiod som
 inleds efter ordinarie val 2026. De nuvarande bestämmelserna om kom-
 munens riktlinjer för bostadsförsörjningen ska gälla för sådana riktlinjer
@@ -3797,10 +3797,10 @@ prop. 2012/13:178 s. 10–13 och 28, prop. 2000/01:26 s. 15–17 och 50 samt
 prop. 2001/02:5 s. 51–52 och 67.
 2 § Kommunfullmäktige ska under varje mandatperiod anta en handlingsplan
 för bostadsförsörjningen. Handlingsplanen ska redovisa
-1. behovet av tillskott av bostäder i kommunen,
-2. kommunens mål för bostadsbyggande och utveckling av bostadsbeståndet,
-3. kommunens planerade åtgärder för att nå uppsatta mål, och
-4. hur kommunen har tagit hänsyn till relevanta nationella och regionala mål,
+1\. behovet av tillskott av bostäder i kommunen,
+2\. kommunens mål för bostadsbyggande och utveckling av bostadsbeståndet,
+3\. kommunens planerade åtgärder för att nå uppsatta mål, och
+4\. hur kommunen har tagit hänsyn till relevanta nationella och regionala mål,
 planer och program som är av betydelse för bostadsförsörjningen.
 Uppgifterna i handlingsplanen ska särskilt grundas på en analys av den
 demografiska utvecklingen, marknadsförutsättningarna och de bostadsbehov som
@@ -3941,9 +3941,9 @@ efter kötid får ta ut en avgift för rätten att stå i kö (köavgift) av den
 Köavgift får tas ut för högst ett år i taget med det belopp och enligt de grunder
 som kommunen bestämmer.
 Köavgift får tas ut även om
-1. lägenheter reserveras för olika kategorier av sökande i kön eller
+1\. lägenheter reserveras för olika kategorier av sökande i kön eller
 fördelas enligt ett förturssystem, eller
-2. förmedlingsersättning tas ut vid yrkesmässig bostadsförmedling som
+2\. förmedlingsersättning tas ut vid yrkesmässig bostadsförmedling som
 avses i 12 kap. 65 a § jordabalken.
 Paragrafen, som byter beteckning från 8 § till 10 §, motsvarar delar av
 nuvarande 8 § och innehåller grundläggande principer för kommunal
@@ -4073,14 +4073,14 @@ bygglagen (2010:900)
 3 § Planläggning enligt denna lag ska med hänsyn till natur- och kulturvärden,
 miljö- och klimataspekter samt mellankommunala och regionala förhållanden
 främja
-1. en ändamålsenlig struktur och en estetiskt tilltalande utformning av bebyg-
+1\. en ändamålsenlig struktur och en estetiskt tilltalande utformning av bebyg-
 gelse, grönområden och kommunikationsleder,
-2. en från social synpunkt god livsmiljö som är tillgänglig och användbar för alla
+2\. en från social synpunkt god livsmiljö som är tillgänglig och användbar för alla
 samhällsgrupper,
-3. en långsiktigt god hushållning med mark, vatten, energi och råvaror samt goda
+3\. en långsiktigt god hushållning med mark, vatten, energi och råvaror samt goda
 miljöförhållanden i övrigt,
-4. en god ekonomisk tillväxt och en effektiv konkurrens, och
-5. bostadsbyggande och utveckling av bostadsbeståndet.
+4\. en god ekonomisk tillväxt och en effektiv konkurrens, och
+5\. bostadsbyggande och utveckling av bostadsbeståndet.
 Även i andra ärenden enligt denna lag ska hänsyn tas till de intressen som anges
 i första stycket 1–5.
 Den kommunala handlingsplanen för bostadsförsörjningen enligt lagen
@@ -4122,13 +4122,13 @@ avsnitt 5.6. Tidigare förarbeten är fortsatt tillämpliga, se prop.
 
 2 § En kommun ska anta riktlinjer för markanvisningar.
 Riktlinjerna ska ange
-1. utgångspunkter och mål för överlåtelser och upplåtelser av markområden för
+1\. utgångspunkter och mål för överlåtelser och upplåtelser av markområden för
 bebyggande,
-2. hur markanvisningar används för att följa kommunens handlingsplan för
+2\. hur markanvisningar används för att följa kommunens handlingsplan för
 bostadsförsörjningen enligt lagen (2000:1383) om kommunernas bostadsförsörj-
 ningsansvar,
-3. handläggningsrutiner och grundläggande villkor för markanvisningar, och
-4. principer för markprissättning.
+3\. handläggningsrutiner och grundläggande villkor för markanvisningar, och
+4\. principer för markprissättning.
 En kommun som inte genomför några markanvisningar är inte skyldig att anta
 sådana riktlinjer.
 I paragrafen regleras dels krav på kommuner som gör markanvisningar att
@@ -4159,18 +4159,18 @@ gett regeringen bemyndigande att besluta en förordning med detta
 innehåll.
 Övervägandena finns i avsnitt 3.3.
 2 § En kommun ska ställa hyresgaranti om
-1. det behövs för att ett enskilt hushåll ska få en permanentbostad med hyresrätt
+1\. det behövs för att ett enskilt hushåll ska få en permanentbostad med hyresrätt
 med rätt till förlängning,
 61
 
 <!-- sida 90 -->
 
-2. det i hushållet finns barn i den mening som avses i 96 kap. 4, 5 eller 5 a §
+2\. det i hushållet finns barn i den mening som avses i 96 kap. 4, 5 eller 5 a §
 socialförsäkringsbalken,
-3. hushållets behov av en permanentbostad inte kan tillgodoses på annat sätt,
-4. den eller de som ska ingå det hyresavtal som hyresgarantin avser är bosatta
+3\. hushållets behov av en permanentbostad inte kan tillgodoses på annat sätt,
+4\. den eller de som ska ingå det hyresavtal som hyresgarantin avser är bosatta
 i kommunen, och
-5. bostaden finns i kommunen.
+5\. bostaden finns i kommunen.
 Paragrafen innehåller skyldigheten för kommuner att ställa en hyresgaranti
 till barnfamiljer som är i behov av bostad och som saknar möjlighet att på
 egen hand skaffa en bostad.
@@ -4285,36 +4285,36 @@ bostadsförsörjning
 
 Remissinstanser
 
-1. Arvidsjaurs kommun
+1\. Arvidsjaurs kommun
 
-2. Barnombudsmannen
-3. Bodens kommun
+2\. Barnombudsmannen
+3\. Bodens kommun
 
-4. Bollnäs kommun
-5. Borlänge kommun
+4\. Bollnäs kommun
+5\. Borlänge kommun
 
-6. Boverket
+6\. Boverket
 
-7. Diskrimineringsombudsmannen
-8. Ekonomistyrningsverket
+7\. Diskrimineringsombudsmannen
+8\. Ekonomistyrningsverket
 
-9. Eskilstuna kommun
+9\. Eskilstuna kommun
 
-10. Essunga kommun
-11. Fastighetsägarna Sverige
+10\. Essunga kommun
+11\. Fastighetsägarna Sverige
 
-12. Folkhälsomyndigheten
-13. Försäkringskassan
+12\. Folkhälsomyndigheten
+13\. Försäkringskassan
 
-14. Förvaltningsrätten i Falun
+14\. Förvaltningsrätten i Falun
 
-15. Förvaltningsrätten i Linköping
-16. Gagnefs kommun
+15\. Förvaltningsrätten i Linköping
+16\. Gagnefs kommun
 
-17. Göteborgs kommun
+17\. Göteborgs kommun
 
-18. Hedemora kommun
-19. Helsingborgs kommun
+18\. Hedemora kommun
+19\. Helsingborgs kommun
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Malmtorgsgatan 3
@@ -4322,131 +4322,131 @@ E-post: li.registrator@regeringskansliet.se
 
 <!-- sida 93 -->
 
-20. HSB Riksförbund
+20\. HSB Riksförbund
 
-21. Hultsfreds kommun
-22. Hyresgästföreningen Riksförbundet
+21\. Hultsfreds kommun
+22\. Hyresgästföreningen Riksförbundet
 
-23. Institutet för bostads- och urbanforskning, IBF
-24. Integritetsskyddsmyndigheten
+23\. Institutet för bostads- och urbanforskning, IBF
+24\. Integritetsskyddsmyndigheten
 
-25. Jönköpings kommun
+25\. Jönköpings kommun
 
-26. Kalmar kommun
-27. Kammarkollegiet
+26\. Kalmar kommun
+27\. Kammarkollegiet
 
-28. Kammarrätten i Sundsvall
+28\. Kammarrätten i Sundsvall
 
-29. Karlstads kommun
-30. Krokoms kommun
+29\. Karlstads kommun
+30\. Krokoms kommun
 
-31. Kungliga tekniska högskolan, KTH
+31\. Kungliga tekniska högskolan, KTH
 
-32. Kungsbacka kommun
-33. Landsorganisationen i Sverige (LO)
+32\. Kungsbacka kommun
+33\. Landsorganisationen i Sverige (LO)
 
-34. Länsstyrelsen i Gävleborgs län
-35. Länsstyrelsen i Jönköpings län
+34\. Länsstyrelsen i Gävleborgs län
+35\. Länsstyrelsen i Jönköpings län
 
-36. Länsstyrelsen i Kronobergs län
+36\. Länsstyrelsen i Kronobergs län
 
-37. Länsstyrelsen i Norrbottens län
-38. Länsstyrelsen i Skåne län
+37\. Länsstyrelsen i Norrbottens län
+38\. Länsstyrelsen i Skåne län
 
-39. Länsstyrelsen i Stockholms län
+39\. Länsstyrelsen i Stockholms län
 
-40. Länsstyrelsen i Uppsala län
-41. Länsstyrelsen i Västerbottens län
+40\. Länsstyrelsen i Uppsala län
+41\. Länsstyrelsen i Västerbottens län
 
-42. Länsstyrelsen i Örebro län
-43. Länsstyrelsen i Östergötlands län
+42\. Länsstyrelsen i Örebro län
+43\. Länsstyrelsen i Östergötlands län
 
-44. Lysekils kommun
+44\. Lysekils kommun
 
-45. Malmö kommun
-46. Malmö Universitet
+45\. Malmö kommun
+46\. Malmö Universitet
 
-47. Markaryds kommun
+47\. Markaryds kommun
 
-48. Migrationsverket
-49. Myndigheten för delaktighet
+48\. Migrationsverket
+49\. Myndigheten för delaktighet
 
 2 (5)
 
 <!-- sida 94 -->
 
-50. Myndigheten för ungdoms- och civilsamhällesfrågor
+50\. Myndigheten för ungdoms- och civilsamhällesfrågor
 
-51. Pensionsmyndigheten
-52. Pensionärernas riksorganisation (PRO)
+51\. Pensionsmyndigheten
+52\. Pensionärernas riksorganisation (PRO)
 
-53. Region Gävleborg
-54. Region Halland
+53\. Region Gävleborg
+54\. Region Halland
 
-55. Region Jönköping
+55\. Region Jönköping
 
-56. Region Kronoberg
-57. Region Skåne
+56\. Region Kronoberg
+57\. Region Skåne
 
-58. Region Stockholm
+58\. Region Stockholm
 
-59. Region Uppsala
-60. Region Västmanland
+59\. Region Uppsala
+60\. Region Västmanland
 
-61. Region Västerbotten
+61\. Region Västerbotten
 
-62. Region Östergötland
-63. Riksbyggen
+62\. Region Östergötland
+63\. Riksbyggen
 
-64. Riksorganisationen Hela Sverige ska leva
-65. Rädda Barnen
+64\. Riksorganisationen Hela Sverige ska leva
+65\. Rädda Barnen
 
-66. SmåKom
+66\. SmåKom
 
-67. Socialhögskolan, Lunds universitet
-68. Socialstyrelsen
+67\. Socialhögskolan, Lunds universitet
+68\. Socialstyrelsen
 
-69. SPF Seniorerna
+69\. SPF Seniorerna
 
-70. Statens fastighetsverk
-71. Statskontoret
+70\. Statens fastighetsverk
+71\. Statskontoret
 
-72. Stockholm kommun
-73. Stockholms Stadsmission
+72\. Stockholm kommun
+73\. Stockholms Stadsmission
 
-74. Storuman kommun
+74\. Storuman kommun
 
-75. Sundbybergs kommun
-76. Svea hovrätt
+75\. Sundbybergs kommun
+76\. Svea hovrätt
 
-77. Svenska Röda Korset
+77\. Svenska Röda Korset
 
-78. Sveriges akademikers centralorganisation (SACO)
-79. Sveriges Allmännytta
+78\. Sveriges akademikers centralorganisation (SACO)
+79\. Sveriges Allmännytta
 
 3 (5)
 
 <!-- sida 95 -->
 
-80. Sveriges arkitekter
+80\. Sveriges arkitekter
 
-81. Sveriges förenade studentkårer, SFS
-82. Sveriges Kommuner och Regioner, SKR
+81\. Sveriges förenade studentkårer, SFS
+82\. Sveriges Kommuner och Regioner, SKR
 
-83. Tillväxtverket
-84. Trelleborgs kommun
+83\. Tillväxtverket
+84\. Trelleborgs kommun
 
-85. Tyresö kommun
+85\. Tyresö kommun
 
-86. Umeå kommun
-87. Uppsala kommun
+86\. Umeå kommun
+87\. Uppsala kommun
 
-88. Västerås kommun
+88\. Västerås kommun
 
-89. Växjö kommun
-90. Ydre kommun
+89\. Växjö kommun
+90\. Ydre kommun
 
-91. Örnsköldsviks kommun
+91\. Örnsköldsviks kommun
 
 Remissvaren ska ha kommit in till Landsbygds- och
 infrastrukturdepartementet senast den 15 april 2024. Svaren bör lämnas per
@@ -6748,7 +6748,7 @@ Kriterier för Motorbranschcollege
 
 Fastställda av Motorbranschcolleges styrelse 2021-03-11
 
-4. Ett Motorbranschcollege kompetensutvecklar yrkeslärarna.
+4\. Ett Motorbranschcollege kompetensutvecklar yrkeslärarna.
 
 ” Yrkeslärarna deltar i nödvändig utbildning för att matcha teknikutvecklingen,
 kompetensbehovet i motorbranschen och den pedagogiska och didaktiska
@@ -6782,7 +6782,7 @@ Kriterier för Motorbranschcollege
 
 Fastställda av Motorbranschcolleges styrelse 2021-03-11
 
-5. Ett Motorbranschcollege har ändamålsenliga maskiner, utrustning
+5\. Ett Motorbranschcollege har ändamålsenliga maskiner, utrustning
 och lokaler.
 
 ” Samverkan i Motorbranschcollege medverkar till att certifierade skolor har
@@ -7681,22 +7681,22 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 <!-- sida 175 -->
 
 Innehåll
-1. Personalföreträdare i nämnderna .................................................................. 3
+1\. Personalföreträdare i nämnderna .................................................................. 3
 
-2. Personalföreträdarnas närvarorätt ................................................................. 3
-3. Personalföreträdarnas befogenheter ............................................................. 4
-4. Rätt till information - tystnadsplikt .................................................................. 4
-5. Hur personalföreträdarna utses ..................................................................... 4
+2\. Personalföreträdarnas närvarorätt ................................................................. 3
+3\. Personalföreträdarnas befogenheter ............................................................. 4
+4\. Rätt till information - tystnadsplikt .................................................................. 4
+5\. Hur personalföreträdarna utses ..................................................................... 4
 
-6. Jäv ................................................................................................................ 5
-7. Kallelse ......................................................................................................... 5
-8. Ersättning ...................................................................................................... 5
+6\. Jäv ................................................................................................................ 5
+7\. Kallelse ......................................................................................................... 5
+8\. Ersättning ...................................................................................................... 5
 
 Kungsbacka kommun           Personalföreträdare i nämnder       2 (5)
 
 <!-- sida 176 -->
 
-1. Personalföreträdare i nämnderna
+1\. Personalföreträdare i nämnderna
 Bestämmelserna om närvarorätt för företrädare för de anställda i kommunen finns i
 kommunallagen 7 kapitlet 10–19 §§. Grundläggande är att närvarorätten gäller vid
 sammanträden med alla nämnder förutom kommunstyrelsen. Med nämnder avses
@@ -7706,7 +7706,7 @@ utskott, revision, förtroendenämnder, valnämnd eller överförmyndarnämnd.
 Personalföreträdarna utses av arbetstagarorganisationerna men fungerar som
 ombud för samtliga medarbetare i berörd verksamhet.
 
-2. Personalföreträdarnas närvarorätt
+2\. Personalföreträdarnas närvarorätt
 Personalföreträdarna har rätt att närvara vid en nämnds behandling av ärenden som
 
 rör förhållandet mellan kommunen som arbetsgivare och dess anställa. Vid en
@@ -7758,14 +7758,14 @@ kan avgöras i en följd.
 I särskilda fall kan nämnden bevilja personalföreträdarna vidgad närvarorätt,
 men det är ovanligt att en nämnd behöver utnyttja den möjligheten.
 
-3. Personalföreträdarnas befogenheter
+3\. Personalföreträdarnas befogenheter
 
 Personalföreträdarna har rätt att närvara och yttra sig vid nämndens
 överläggningar på samma sätt som nämndens ledamöter. Däremot har de inte
 rätt att ställa förslag, delta i besluten eller att få sin mening antecknad i
 protokollet.
 
-4. Rätt till information - tystnadsplikt
+4\. Rätt till information - tystnadsplikt
 Personalföreträdarna har rätt att få den information de behöver för sin
 verksamhet. Nämnden är skyldig att lämna upplysningar till
 personalföreträdarna, dock ska nämnden iaktta bestämmelserna i offentlighets-
@@ -7778,7 +7778,7 @@ sekretesslagen. Nämnden ska om den finner att risk för skada, men eller om
 annan olägenhet föreligger ställa upp ett förbehåll enligt denna bestämmelse när
 uppgifterna lämnas ut.
 
-5. Hur personalföreträdarna utses
+5\. Hur personalföreträdarna utses
 
 Personalföreträdarna utses bland medarbetarna i kommunen, i första hand
 utses de bland dem som är anställda inom nämndens verksamhetsområde. Om
@@ -7808,10 +7808,10 @@ Kungsbacka kommun           Personalföreträdare i nämnder       4 (5)
 
 <!-- sida 178 -->
 
-6. Jäv
+6\. Jäv
 Jävsreglerna i kommunallagen gäller även personalföreträdare.
 
-7. Kallelse
+7\. Kallelse
 
 Personalföreträdare ska kallas till sammanträden på samma sätt som
 ledamöterna i nämnden. Kallelsen ska innehålla tid och plats för sammanträdet
@@ -7821,7 +7821,7 @@ Ersättare deltar när de ska tjänstgöra i ordinarie personalföreträdare st�
 fall ersättarna kallas in är det respektive personalföreträdares ansvar att kalla sin
 utsedda ersättare och ge dem den information som behövs för att delta.
 
-8. Ersättning
+8\. Ersättning
 
 Personalföreträdarna uppbär lön under den tid de närvarar vid nämndens
 sammanträde. Eftersom sammanträdestiderna är kända lång tid i förväg så
@@ -7883,7 +7883,7 @@ Kungsbacka kommun        Strategi för krisberedskap och civilt försvar 2 (8)
 Strategin syftar till att skapa en övergripande inriktning för Kungsbacka kommuns
 arbete med krisberedskap och civilt försvar under mandatperioden 2023–2026, samt
 under 2027 fram till dess att en ny strategi är beslutad för mandatperioden 2027–
-2030.
+2030\.
 Strategins innehåll följer Myndigheten för samhällsskydd och beredskaps (MSB) och
 Sveriges kommuner och regioners (SKR) Överenskommelse om kommuners arbete
 med krisberedskap och Överenskommelse om kommuners arbete med civilt försvar.

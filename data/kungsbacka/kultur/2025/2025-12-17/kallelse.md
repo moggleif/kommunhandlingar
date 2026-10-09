@@ -41,7 +41,7 @@ Gottskärs hotell
 Ärende Beteckning |Förslag
 Val av justerare Mats Dahl (SD)
 
-1. | Information till nämnd: KFT-2025-
+1\. | Information till nämnd: KFT-2025-
 Kulturbarometern 2025 00261
 
 Föredragande: Klara Bové,
@@ -53,7 +53,7 @@ Institutet för kvalitetsindikatorer
 
 Nämnden noterar informationen till protokollet.
 
-2. |Samrådsutskick - Detaljplan för | KFT-2025-
+2\. |Samrådsutskick - Detaljplan för | KFT-2025-
 bostäder inom Lerberg 16.40 00255
 
 m.fl. i Anneberg, Kungsbacka
@@ -91,7 +91,7 @@ Besöksadress
 
 KUNGSBACKA KOMMUN
 
-204)
+204\)
 
 Ärende
 
@@ -175,26 +175,26 @@ KUNGSBACKA KOMMUN
 3(4)
 
 Ärende Beteckning | Förslag
-7. | Information till nämnd: KFT-2025- | Nämnden noterar informationen till protokollet.
+7\. | Information till nämnd: KFT-2025- | Nämnden noterar informationen till protokollet.
 uppföljning målbild 00264
 Föredragande: Karl Persson,
 förvaltningschef
 20 min
 1 st dokument
-8. | Uppdrag ridanläggningar KFT-2025- | Nämnden beslutar att:
+8\. | Uppdrag ridanläggningar KFT-2025- | Nämnden beslutar att:
 00269 + Förlänga uppdraget till att omfatta 2026
 Föredragande: Karl Persson, + Delrapportering ska ske under första kvartalet
 förvaltningschef 2026
 10 min
 1 st dokument
-9. | Initiativ från Alliansen: KFT-2025- |Nämnden ansöker om 3,1 miljoner kronor i bidrag
+9\. | Initiativ från Alliansen: KFT-2025- |Nämnden ansöker om 3,1 miljoner kronor i bidrag
 Satsningar för en trygg uppväxt |00277 från kommunstyrelsens satsning för ”En trygg
 uppväxt”.
 Föredragande: Karl Persson,
 förvaltningschef
 5 min
 2 st dokument
-10. | Initiativ från Alliansen: öka KFT-2025- |Nämnden ansöker om 500 000 kr i bidrag för 2026
+10\. | Initiativ från Alliansen: öka KFT-2025- |Nämnden ansöker om 500 000 kr i bidrag för 2026
 utbudet av aktiviteter på 00272 från kommunstyrelsens satsning för att främja
 
 boenden för äldre
@@ -216,7 +216,7 @@ KUNGSBACKA KOMMUN
 
 Ärende Beteckning | Förslag
 
-11. | Information till nämnd: KFT-2025- |Nämnden noterar informationen till protokollet.
+11\. | Information till nämnd: KFT-2025- |Nämnden noterar informationen till protokollet.
 diskussion politikerbesök i 00265
 verksamheter
 Föredragande: Karl Persson,
@@ -224,13 +224,13 @@ förvaltningschef
 20 min
 I st dokument
 
-12. | Anmälan av delegeringsbeslut |KFT-2025- | Redovisning av delegeringsbeslut förtecknade i
+12\. | Anmälan av delegeringsbeslut |KFT-2025- | Redovisning av delegeringsbeslut förtecknade i
 december 2025 00266 protokoll 2025-12-17 godkänns.
 
-13. | Redovisning av inkomna KFT-2025- | Nämnden noterar redovisningen till protokollet.
+13\. | Redovisning av inkomna KFT-2025- | Nämnden noterar redovisningen till protokollet.
 skrivelser december 2025 00267
 
-14. | Förvaltningschefen informerar |KFT-2025- | Nämnden noterar informationen till protokollet.
+14\. | Förvaltningschefen informerar |KFT-2025- | Nämnden noterar informationen till protokollet.
 december 2025 00268
 Föredragande: Karl Persson,
 förvaltningschef

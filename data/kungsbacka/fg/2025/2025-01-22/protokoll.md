@@ -510,7 +510,7 @@ fastställer delegeringsbesluten. Däremot får nämnden återta lämnad deleger
 föregripa ett beslut i ett enskilt ärende av den som fått beslutanderätten genom att
 själv ta över ärendet och fatta beslut. Sammanställningen omfattar beslut fattade eller
 inkomna till förvaltningen för Förskola & Grundskola från 2024-12-02—2025-01-
-13.
+13\.
 
 Beslutsgång
 Ordförande Emanuel Forsell (M) prövar om nämnden för Förskola & Grundskola

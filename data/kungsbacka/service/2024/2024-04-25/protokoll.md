@@ -536,7 +536,7 @@ förvaltningschef Johan Burman informerar om,
 •  Kommande partnerdialoger.
 
 •  Nyckeltal från Personalförsörjning & Kundstöd:
-- Ekonomisk rådgivning
+\- Ekonomisk rådgivning
 
 •  Utbildningar i hjärt- och lungräddning.
 

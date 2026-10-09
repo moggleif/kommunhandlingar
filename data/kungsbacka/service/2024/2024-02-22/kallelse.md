@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(3)
 
-4.  Svar på motion från Stefan SE-2023-00384 Nämnden för Service föreslår för
+4\.  Svar på motion från Stefan SE-2023-00384 Nämnden för Service föreslår för
 Jägnert (SD) om ID-kontroller     Kommunfullmäktige att avslå yrkandet om att
 av anställda i Kungsbacka         Kungsbacka kommun ska utreda möjligheten att
 kommun (KS 2023-00621)            införa kontinuerliga bakgrundskontroller under

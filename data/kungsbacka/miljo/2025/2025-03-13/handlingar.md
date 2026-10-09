@@ -293,15 +293,15 @@ byggnadsnämnden från att anta en nämndbudget för 2024 och har i stället ant
 strategidokument. I årsredovisningen 2024 ingår därför inte uppföljning av
 kommunfullmäktiges mål. I sin helhet innehåller årsredovisningen:
 
-* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
+\* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
 påverkat nämnden
 
-* Uppföljning av kommunfullmäktiges direktiv om innovation och omställning
-* Uppföljning av systematiskt arbetsmiljöarbete, kompetensförsörjning och
+\* Uppföljning av kommunfullmäktiges direktiv om innovation och omställning
+\* Uppföljning av systematiskt arbetsmiljöarbete, kompetensförsörjning och
 personalnyckeltal
 
-* Uppföljning av ekonomi
-* Hållbarhetsbokslut
+\* Uppföljning av ekonomi
+\* Hållbarhetsbokslut
 
 Nämnden håller en hög takt i innovations och utvecklingsarbetet och bedömer att
 kommunfullmäktiges direktiv om innovation och omställning uppnåtts.
@@ -960,10 +960,10 @@ Uppföljningen av det systematiska arbetsmiljöarbetet tyder på att en stor del
 arbetsmiljöarbetet bedrivs på ett ändamålsenligt sätt och att det finns väl fungerande rutiner i förvaltningen för
 att undersöka arbetsmiljön och åtgärda eventuella brister och risker som framkommer, samtidigt som att det
 finns ytterligare behov av utveckling inom området. Under 2025 kommer förvaltningen fokusera på:
-- riskbedömningar
+\- riskbedömningar
 
-- fortsatt arbete med resultaten av puls-mätningar på enhetsnivå
-- fortsatt arbete med utvecklande medarbetarskap
+\- fortsatt arbete med resultaten av puls-mätningar på enhetsnivå
+\- fortsatt arbete med utvecklande medarbetarskap
 
 4.2 Kompetensförsörjning
 
@@ -1467,7 +1467,7 @@ brister och det är viktigt att arbetet fortsätter för att upptäcka och förh
 riskerar att orsaka allvarliga skador i miljön, osund konkurrens samt stora samhällskostnader. Flera avvikelser
 som har uppmärksammats har åtgärdats och projektet har lett till en ökad förståelse och kunskap varför det är så
 viktigt att bedriva tillsynen för att minska brottsligheten av illegal avfallshantering.
-9. HÅLLBAR INDUSTRI, INNOVATIONER OCH INFRASTRUKTUR
+9\. HÅLLBAR INDUSTRI, INNOVATIONER OCH INFRASTRUKTUR
 
 Under året har förvaltningen arbetat med flera olika innovationssprintar för att ställa om våra verksamheter för
 en hållbar framtid framåt, bland annat har vi utvecklat en AI lösning som ska hjälpa våra kunder i
@@ -1483,7 +1483,7 @@ och värdeskapande och likaså har förvaltningen implementerat en ny form av di
 privatpersoner som driver hästgårdar, vilket har gett effekten av mer värdeskapande tjänst gentemot kund och
 frigjord tid som kan användas till att fortsätta utveckla verksamheten och utföra tillsyn inom fler områden för ett
 mer hållbart samhälle.
-11. HÅLLBARA STÄDER OCH SAMHÄLLEN
+11\. HÅLLBARA STÄDER OCH SAMHÄLLEN
 Under året har förvaltningen påbörjat ett omfattande arbete mot en obruten digital samhällsbyggnadsprocess där
 geodata spelar en väsentlig och avgörande roll. Målet är att Kungsbacka kommun ska kunna fatta bättre beslut
 som skapar en mer hållbar framtid och kommun genom att använda och utnyttja den data som finns i hela
@@ -1529,7 +1529,7 @@ inte går att få svar på via e-tjänsten, till exempel om gödselplattan är t
 tillfredställande på en frisörsalong. Väl ute på plats har medarbetarna med sig digitala, korta checklistor som
 direkt hamnar ärendesystemet och kan generera färdiga rapporter. Effekten är bland annat frigjord tid för kund
 och för medarbetaren som kan arbeta med mer värdeskapande uppgifter inom miljön.
-13. BEKÄMPA KLIMATFÖRÄNDRINGARNA
+13\. BEKÄMPA KLIMATFÖRÄNDRINGARNA
 Utsläppen av växthusgaser fortsätter att stiga och som följd riskerar vi att nå en genomsnittlig global
 uppvärmning som överstiger två grader, vilket skulle få allvarliga konsekvenser för ekosystem, havsförsurning,
 mänsklig säkerhet, matproduktion, vattentillgång, hälsa och ökad risk för naturkatastrofer. För att minska
@@ -1562,7 +1562,7 @@ Likaså rådgivning gentemot våra livsmedelsföretag med syftet att de ska insp
 energianvändning. Tillsynsaktiviteten ska stödja våra kunder att skapa en mer hållbar energi och minska
 utsläppen av våra växthusgaser.
 
-14. HAV OCH MARINA RESURSER
+14\. HAV OCH MARINA RESURSER
 Badvattenprovtagningen har varit i fokus under sommaren och extra provtagningar har utförts för att säkerställa
 en god badvattenkvalitet. Stor vikt har lagts på samverkan mellan förvaltningar och tydlig information till
 kommunens invånare så att de kunnat känna sig trygga med att bada i Kungsbacka. Årets provtagningar visar på
@@ -1585,7 +1585,7 @@ kommunen med planen att fortsätta längs med hela kuststräckan. Inför tillsyn
 informera allmänheten och fastighetsägare som ska få besök för att öka förståelse och kunskapen om varför det
 är viktigt att bevara våra strandnära områden. Avvikelser har uppmärksammats under strandskyddskampanjen
 och flera av dessa har kunnat åtgärdas direkt på plats.
-17. GENOMFÖRANDE OCH GLOBALT PARTNERSKAP
+17\. GENOMFÖRANDE OCH GLOBALT PARTNERSKAP
 Vi har under året gått med i ett eu projekt, European Citiverses Uniting for Inclusiveness, som har syftet att
 driva på utvecklingen av interoperabla lokala digitala tvillingar över hela Europa. Projektet ska utveckla ett så
 kallat användarfall (en digital tjänst med hög mognadsnivå) och främja den digitala kompetensen inom hela
@@ -1637,12 +1637,12 @@ Bygg- och miljöförvaltningen har upprättat förslag till ombudget och resulta
 Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2024 på 4 014 000 kronor.
 Nämnden begär följande resultatdisponering:
 
-* Kvarvarande budget för internränta, 2 000 kronor återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 2 000 kronor återredovisas enligt kommunens
 ekonomistyrprinciper.
-* Avsatt projektbudget för kartutveckling som inte kunnat användas som planerat på 1 117 000 kronor
+\* Avsatt projektbudget för kartutveckling som inte kunnat användas som planerat på 1 117 000 kronor
 ombudgeteras till 2025.
 
-* Resterande överskott, 2 895 000 kronor, förs till nämndens resultatfond.
+\* Resterande överskott, 2 895 000 kronor, förs till nämndens resultatfond.
 
 Beslutsunderlag
 
@@ -1685,12 +1685,12 @@ Bygg- och miljöförvaltningen har upprättat förslag till ombudget och resulta
 Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2024 på 4
 014 000 kronor. Nämnden begär följande resultatdisponering:
 
-* Kvarvarande budget för internränta, 2 000 kronor återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 2 000 kronor återredovisas enligt kommunens
 ekonomistyrprinciper.
-* Avsatt projektbudget för kartutveckling som inte kunnat användas som planerat på
+\* Avsatt projektbudget för kartutveckling som inte kunnat användas som planerat på
 1 117 000 kronor ombudgeteras till 2025.
 
-* Resterande överskott, 2 895 000 kronor, förs till nämndens resultatfond.
+\* Resterande överskott, 2 895 000 kronor, förs till nämndens resultatfond.
 
 Beslutsunderlag
 
@@ -1739,18 +1739,18 @@ Ombudgeteringar och resultatfond
 
 Kostnader anges med (-), belopp i tkr
 Fyll i endast er nämnds blad och justera inga summeringar. Samtliga sparar i samma arbetsbok.
-1. Driftsredovisning - begäran om resultatdisponering
+1\. Driftsredovisning - begäran om resultatdisponering
 
 I steg 1 alla nämnder/styrelse redovisar årsbudget, utfall och avvikelse i kommungemensam arbetsbok
 med nämndens blankett gul del                                 Steg
 2 omfattar att orsakerna till avvikelser ska klassificeras som underskott eller överskott enligt
 ekonomistyrprinciperna i kommungemensam arbetsbok nämndens blankett grön del. För överskott
 används olika typer enligt nedan:
-* Typ 1 – planerad verksamhet har inte utförts - återredovisas
+\* Typ 1 – planerad verksamhet har inte utförts - återredovisas
 
-* Typ 2 – verksamhet har överförts till annan nämnd/styrelse - återredovisas
-* Typ 3 – egna effektiviseringar/besparingar - förs till resultatfond
-* Typ 4 – pågående projekt, igångsatta men ej avslutade - ombudgeteras
+\* Typ 2 – verksamhet har överförts till annan nämnd/styrelse - återredovisas
+\* Typ 3 – egna effektiviseringar/besparingar - förs till resultatfond
+\* Typ 4 – pågående projekt, igångsatta men ej avslutade - ombudgeteras
 
 I steg 3 redovisas nämndens begäran om resultatdisponering (blankett blå del).
 
@@ -1797,7 +1797,7 @@ egna effektiviseringar.
 återredovisas, resterande överskott
 förs till nämndens resultatfond
 Överskott projekt ombudgeteras till
-2025. Utveckling av GIS-verksamhet är
+2025\. Utveckling av GIS-verksamhet är
 av strategisk betydelse för kommunen.
 Förslag  2 895 1 117  2
 
@@ -1832,7 +1832,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Byggnadsnämnden beslutade 2025-02-20 § 34 att godkänna uppföljningsrapport för intern kontroll
-2024.
+2024\.
 Enligt kommunallagen och det gemensamma reglementet för nämnderna liksom kommunens
 Ekonomistyrprinciper ansvarar nämnderna för att den interna kontrollen är tillräcklig. Nämnderna ska
 årligen identifiera och analysera väsentliga risker i den egna verksamheten och utifrån riskanalysen
@@ -2193,7 +2193,7 @@ Personal
 Kommunövergripande risk: Brister vid referenstagning
 För denna risk genomfördes två granskningsaktiviteter:
 
-1. Granskning av referenstagning och dokumentation
+1\. Granskning av referenstagning och dokumentation
 Granskning genomfördes av att rutin för referenstagning följts samt att korrekt dokumentation gjorts i avsett
 system (Varbi och/eller Refapp). Granskningen avgränsades till rekrytering av tillsvidaretjänster under
 perioden april 2023 till mars 2024.
@@ -2213,7 +2213,7 @@ Granskningen visar att rutinen för referenstagning vid rekrytering är känd oc
 miljöförvaltningen i samtliga fall men dokumentationen var i ett fall bristfällig. Se även nästa
 granskningsaktivitet.
 
-2. Granskning av kännedom och följsamhet till rutiner för rekrytering och referenstagning.
+2\. Granskning av kännedom och följsamhet till rutiner för rekrytering och referenstagning.
 Granskning har genomförts av att förvaltningens samtliga chefer har kännedom om och följer rutiner för
 rekrytering och referenstagning.
 Granskningen har genomförts av förvaltningens HR-specialist. Alla chefer på förvaltningen har fått information
@@ -2353,7 +2353,7 @@ Byggnadsnämnden                                  Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2024
 
 Ingen annan granskning från Länsstyrelsen eller andra myndigheter har varit aktuell för verksamheterna under
-2024.
+2024\.
 
 5.4 Resultat av granskning och uppföljning av privata utförare
 

@@ -426,16 +426,16 @@ INLEDNING
 
 Året       i  korthet
 
-+   286
+\+   286
 mnkr
-+   898
+\+   898
 Resultat för
 mnkr
 Kungsbacka kommun
 Investeringar för koncernen
 Kungsbacka kommun
 
-+   334
+\+   334
 mnkr
 
 Resultat för koncernen
@@ -550,11 +550,11 @@ Gottskärs Hemtjänst AB
 Byggnadsnämnd  Förskola & Grundskola             Olivia Hemtjänst AB
 Vardaga Äldreomsorg AB
 Nämnd för hemsjukvård
-Överförmyndarnämnd* Patientnämnd**
-och hjälpmedel***
-* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Mölndals kommun är värdkommun.
-** Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
-*** N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
+Överförmyndarnämnd\* Patientnämnd\*\*
+och hjälpmedel\*\*\*
+\* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Mölndals kommun är värdkommun.
+\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
+\*\*\* N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
 
 8  Kungsbacka kommuns årsredovisning 2024
 
@@ -971,7 +971,7 @@ kommunen. Sammantaget består kommunens pensions­ Statsbidragen är svårare at
 kostnader av två olika delar, en avgiftsbestämd kostnad beror på politiska beslut på riksnivå. Kungsbacka
 och en förmånsbaserad pension som delas upp i vad som kommun får årligen skatteintäkter och generella
 tjänats in från och med 1998 och vad som tjänats in före statsbidrag på cirka sex miljarder kronor. Även en mindre
-1998. Det nya pensionsavtalet AKAP­KR som gäller från procentuell avvikelse får därför stort genomslag.
+1998\. Det nya pensionsavtalet AKAP­KR som gäller från procentuell avvikelse får därför stort genomslag.
 2023 är ett steg i övergången till ett mer avgiftsfinansierat
 pensionssystem, vilket över tid kommer att ge kommu­
 nerna en pensionskostnad som är lättare att förutse.
@@ -1314,7 +1314,7 @@ fyra ekonomiska perspektiv: det finansiella resultatet,
 kapacitetsutvecklingen, riskförhållanden och kontrollen Miljoner kronor 2020 20211 20221 2023 2024
 över den finansiella utvecklingen. Målsättningen är att Kommunkoncernen 512 530 822 291 334
 utifrån dessa perspektiv upptäcka finansiella möjligheter
-1) 2021 års jämförelsetal är justerade med anledning av ändrad
+1\) 2021 års jämförelsetal är justerade med anledning av ändrad
 och problem.                       redovisningsprincip avseende investeringsbidrag år 2019. Jämfö-
 relsetalen för 2021 och 2022 är justerade på grund av ändrad
 redovisningsprincip för finansiell leasing.
@@ -1391,7 +1391,7 @@ nettokostnader (%)
 200                                nettokostnader inkl
 finansiella poster (%)
 2,0%
-100                                * 2021 års jämförelsetal är justerade med anledning av ändrad
+100                                \* 2021 års jämförelsetal är justerade med anledning av ändrad
 redovisningsprincip avseende investeringsbidrag år 2019.
 0                          0,0%   Jämförelsetalen för 2021 och 2022 är justerade på grund av ändrad
 2020 2021 2022 2023 2024       redovisningsprincip för finansiell leasing.
@@ -1405,7 +1405,7 @@ Om man tar bort posterna för exploatering och deponi, två procent och statsbid
 får man det strukturella resultatet för kommunens Skatteintäkterna ökade inte lika mycket som tidigare år.
 ordinarie verksamhet. Det strukturella resultatet för året Förklaringen är bland annat att arbetsmarknaden mattats
 var 211 miljoner kronor att jämföra med 276 miljoner av något jämfört med åren innan, på grund av rådande
-2023. Det är viktigt att analysera det strukturella lågkonjunktur.
+2023\. Det är viktigt att analysera det strukturella lågkonjunktur.
 resultatet över tid och se hur det utvecklas i förhållande
 till skatteintäkter och generella statsbidrag. Det struk­ Nettokostnaderna i den ordinarie verksamheten
 turella resultatet i förhållande till skatter och generella ökade med 3,5 procent vilket innebär att ökningen av
@@ -1455,7 +1455,7 @@ koncernen, netto-                Självfinansieringsgraden av årets nettoinvest
 investeringar1
 92 procent, vilket är en ökning jämfört med föregående
 år på grund av minskad investeringsnivå och högre
-1) Inklusive finansiella investeringar och exklusive finansiell leasing
+1\) Inklusive finansiella investeringar och exklusive finansiell leasing
 resultat. Genomsnittlig självfinansieringsgrad under
 perioden 2022–2026 är 81 procent. Från ett finansiellt
 Under året investerade kommunkoncernen för cirka 0,9 perspektiv är investeringsvolymerna en utmaning.
@@ -1478,7 +1478,7 @@ Den senaste femårsperioden har kommunen i genomsnitt
 investerat för 925 miljoner kronor per år. Årets investe­
 ringar fördelat per invånare motsvarar 9 465 kronor per
 invånare, en minskning med 17 procent jämfört med
-2023. Årets investeringar fördelat per invånare motsvarar
+2023\. Årets investeringar fördelat per invånare motsvarar
 9 465 kronor per invånare, jämfört med 11 460 kronor
 år 2023. Kommunen planerar för ännu högre investe­
 ringsnivåer framöver. Ökad låneskuld och högre räntor
@@ -1517,7 +1517,7 @@ Soliditet enligt 35,2 36,6 37,3 40,7 42,1 Likviditetsmått visar kommunens förm
 blandmodellen
 kortfristiga skulder. Om likviditeten fortsätter att vara
 oförändrad eller ökar och soliditeten samtidigt inte blir
-* 2021 års jämförelsetal är justerade med anledning av ändrad redo-
+\* 2021 års jämförelsetal är justerade med anledning av ändrad redo-
 visningsprincip avseende investeringsbidrag år 2019. Jämförelsetalen sämre, innebär det att vi stärker kommunens ekonomi.
 för 2021 och 2022 är justerade på grund av ändrad redovisnings-
 princip för finansiell leasing.   Vid slutet av 2024 var kassalikviditeten 99,5 procent,
@@ -1598,9 +1598,9 @@ Låneskulden till kreditinstitut har successivt minskat rande poster/
 för både koncernen och kommunen under de senaste verksamhetens
 fem åren. Den minskade låneskulden innebär att vi har kostnader (%) 1
 stärkt koncernens finansiella ställning. Låneskulden är
-1) Årets budgeterade resultat på 14 miljoner plus beräknade resultat
+1\) Årets budgeterade resultat på 14 miljoner plus beräknade resultat
 fortfarande en finansiell risk. Dels utifrån att vi planerar från exploateringsverksamheten i kassaflödesbudget om 301 miljoner.
-2) Belopp justerad i enlighet med not 11.
+2\) Belopp justerad i enlighet med not 11.
 stora investeringar under kommande år, dels på grund
 av förväntat högre räntenivåer vid nyupplåning eller
 omsättning av lån. Ju högre låneskuld desto större blir För att bedöma hur väl kommunen följer sin plan
@@ -1842,22 +1842,22 @@ vara en signal om en vändning på bostadsmarknaden. Den upplevda tryggheten i s
 
 Målsättning
 Indikator                            2021  2022  2023  2024    2024
-Bäst att leva, Kungsbackas placering i ranking av Sveriges - * - * - * 84 < 20 **
+Bäst att leva, Kungsbackas placering i ranking av Sveriges - \* - \* - \* 84 < 20 \*\*
 kommuner enligt tidningen Fokus1
 Antal påbörjade bostäder              216   848   165   213     Öka
 Antal färdigställda bostäder          430   363   319   324     Öka
-Anmälda brott mot brottsbalken per invånare, 5 321 5 691 6 475 **** Minska
+Anmälda brott mot brottsbalken per invånare, 5 321 5 691 6 475 \*\*\*\* Minska
 antal/100 000 invånare (Brottsförebyggande rådet, BRÅ)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn - *** 90 % 91 % 88 % Öka
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn - *** 74 % 76 % 76 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn - \*\*\* 90 % 91 % 88 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn - \*\*\* 74 % 76 % 76 % Öka
 (Kolada)
-Brukarbedömning individ- och familjeomsorg, totalt - *** 88 % - *** 95 % Öka
+Brukarbedömning individ- och familjeomsorg, totalt - \*\*\* 88 % - \*\*\* 95 % Öka
 – helhetssyn (Kolada)2
 
-*) Rankingen hade ett uppehåll under 2022 och analysmodellen gjordes om år 2023. Därmed blir tidigare års resultat inte jämförbara.
-* *) Målsättningen gjordes när den gamla analysmodellen för Bäst att leva var gällande.
-* * *) Brukarbedömning har inte gjorts det här året.
-* * * *) Ännu ej publicerad
+\*) Rankingen hade ett uppehåll under 2022 och analysmodellen gjordes om år 2023. Därmed blir tidigare års resultat inte jämförbara.
+\* \*) Målsättningen gjordes när den gamla analysmodellen för Bäst att leva var gällande.
+\* \* \*) Brukarbedömning har inte gjorts det här året.
+\* \* \* \*) Ännu ej publicerad
 
 Kungsbacka kommuns årsredovisning 2024 33
 
@@ -2001,13 +2001,13 @@ stress.
 
 Målsättning
 Indikator                         2021   2022    2023   2024   2024
-Energiförbrukning i kommunens lokaler, KWh per kva- 165 157 154 *** Minska
+Energiförbrukning i kommunens lokaler, KWh per kva- 165 157 154 \*\*\* Minska
 dratmeter
-Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/ 2,48 2,27 * * Minska
+Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/ 2,48 2,27 \* \* Minska
 inv (Kolada)
-Miljöbilar, andel av totalt antal bilar i det geografiska ** ** ** ** Öka
+Miljöbilar, andel av totalt antal bilar i det geografiska \*\* \*\* \*\* \*\* Öka
 området (Kolada)
-Slutanvändning av el inom det geografiska området, 8 7 *  * Oförändrad
+Slutanvändning av el inom det geografiska området, 8 7 \*  \* Oförändrad
 MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga måltiderna 1,82 1,86 1,69 1,85 Minska
 ska minska räknat i kg CO2-ekv/kg livsmedel. Målsätt-
@@ -2016,25 +2016,25 @@ Antal kemiska produkter med utfasningsämnen, 124 113 115 151  Minska
 inklusive hormonstörande ämnen på SIN-listan ska
 minska i kommunens verksamheter. 2021 var antalet
 124 (KEMgroup PRO)
-Avfall från hushåll ska minska med 30 % per invånare 105 103 92 * Minska
+Avfall från hushåll ska minska med 30 % per invånare 105 103 92 \* Minska
 från 2020 till 2030. Startvärde 100, målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska minska med 98 115 223 * Minska
+Avfall från kommunens verksamheter ska minska med 98 115 223 \* Minska
 40 % per heltidsanställd. Startvärde 100, målvärde
 2030 är 60.
-Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig * Öka
-Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 %    *     Öka
-Vattendrag med god ekologisk status, andel (Kolada) 18,5 % 18,5 % * * Öka
-Ungas hälsa i årskurs 4 och 8 – Flickor. Åk 4: 88%, Åk 4: 88% Åk 4: 85% * Öka
+Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig \* Öka
+Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 %    \*     Öka
+Vattendrag med god ekologisk status, andel (Kolada) 18,5 % 18,5 % \* \* Öka
+Ungas hälsa i årskurs 4 och 8 – Flickor. Åk 4: 88%, Åk 4: 88% Åk 4: 85% \* Öka
 (Elevhälsan i Kungsbacka utvecklar metod utifrån Åk 8: 77%, Åk 8: 72% Åk 8: 79%
 hälsosamtal med elever)       Åk 1 gymna- Åk 1 gymna- Åk 1 gymna-
 siet: 68% siet: 65% siet: 73%
-Ungas hälsa i årskurs 4 och 8 – Pojkar. Åk 4: 93% Åk 4: 90% Åk 4: 91% * Öka
+Ungas hälsa i årskurs 4 och 8 – Pojkar. Åk 4: 93% Åk 4: 90% Åk 4: 91% \* Öka
 (Elevhälsan i Kungsbacka utvecklar metod utifrån Åk 8: 92% Åk 8: 93% Åk 8: 92%
 hälsosamtal med elever)       Åk 1 gymna- Åk 1 gymna- Åk 1 gymna-
 siet: 88% siet: 85% siet: 86 %
-*) Ännu ej publicerad.
-**) Nyckeltalet har tagits bort från Kolada.
-***) Pga byte av Fastighetsdatasystem finns i dagsläget inget nyckeltal att tillgå för 2024.
+\*) Ännu ej publicerad.
+\*\*) Nyckeltalet har tagits bort från Kolada.
+\*\*\*) Pga byte av Fastighetsdatasystem finns i dagsläget inget nyckeltal att tillgå för 2024.
 Kungsbacka kommuns årsredovisning 2024 37
 
 <!-- sida 47 -->
@@ -2105,7 +2105,7 @@ FÖRVALTNINGSBERÄTTELSE
 
 Målsättning
 Indikator                             2021  2022  2023  2024   2024
-Insikt, SKR:s servicemätning av kommunernas myndighetsutöv- 66 70 67 * Öka
+Insikt, SKR:s servicemätning av kommunernas myndighetsutöv- 66 70 67 \* Öka
 ning till företag. Nöjd kund-index utifrån sammanvägt betygs-
 index 0–100, för hur företag i kommunen bedömer Kungsbacka
 kommuns myndighetsutövning, vilken är en viktig del av före-
@@ -2113,12 +2113,12 @@ tagsklimatet.
 Svenskt näringslivs attitydundersökning av kommuners före- 3,5 3,4 3,4 3,8 Öka
 tagsklimat. Medelvärde utifrån skala 1–6, där företag bedömer
 företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal      27 384 28 485 28 586 *     Öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 5,1 % 4,9 % 4,9 % * 5,0 %
-Företagsamhet, andel av invånare 16–74 år 18 % 18 % 19 %  *     Öka
-Antal nystartade företag per 1 000 invånare 16–64 år (etable- 13,8 12,8 10,3 % * Öka
+Sysselsatt dagbefolkning, antal      27 384 28 485 28 586 \*     Öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen 5,1 % 4,9 % 4,9 % \* 5,0 %
+Företagsamhet, andel av invånare 16–74 år 18 % 18 % 19 %  \*     Öka
+Antal nystartade företag per 1 000 invånare 16–64 år (etable- 13,8 12,8 10,3 % \* Öka
 ringsfrekvens)
-*) Ännu ej publicerad.
+\*) Ännu ej publicerad.
 
 Kungsbacka Business Boost är ett event där lokala
 företagare kan mötas och inspireras.
@@ -2199,14 +2199,14 @@ utgörs av summan av de 17 bästa betygen i elevens slutbetyg och
 kan max vara 340. (Kolada)
 Genomsnittlig betygspoäng för gymnasiets avgångselevers betygs- 14,2 14,5 14,3 14,0 Öka
 poäng som kan vara max 20. (Kolada)
-Självkänsla och framtidstro för gymnasieelever år 2, index med 7,8 ** ** ** Öka
+Självkänsla och framtidstro för gymnasieelever år 2, index med 7,8 \*\* \*\* \*\* Öka
 skala 0–10 enligt Skolinspektionens skolenkät.
-Arbetslöshet 16–24 år i kommunen, procent (Kolada) 2,6 1,7 1,7 * Minska
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 414 376 325 *
+Arbetslöshet 16–24 år i kommunen, procent (Kolada) 2,6 1,7 1,7 \* Minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 414 376 325 \*
 Andel vuxna personer som inte återkommer till försörjningsstöd 67 69 73 75 Öka
 inom ett år efter avslutat försörjningsstöd, procent (Kolada)
-*) Ännu ej publicerad
-**) Frågan finns inte längre med i skolenkäten
+\*) Ännu ej publicerad
+\*\*) Frågan finns inte längre med i skolenkäten
 
 Betygen i grundskolan ökade något
 jämfört med föregående år.
@@ -2295,13 +2295,13 @@ Indikator                             2021 2022  2023  2024    2024
 Hållbart medarbetarengagemang, ett index för medarbetarnas 78 78 76 75 Öka
 samlade uppfattning om områdena motivation, ledarskap och
 styrning, skala 1–100 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix 103 114 122 ** Öka
+Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix 103 114 122 \*\* Öka
 beräknas utifrån nio nyckeltal med skala 1–20 och visar hur
 jämställda arbetsvillkor, arbetsmiljö och anställningsvillkor är i
 organisationen.
-*Från och med 2023 får alla anställda undersökningen, till skillnad från tidigare då endast ett urval av medarbetare fick den.
+\*Från och med 2023 får alla anställda undersökningen, till skillnad från tidigare då endast ett urval av medarbetare fick den.
 Därför är inte siffrorna från 2021–2022 helt jämförbara med 2023–2024.
-**) Ännu ej publicerad
+\*\*) Ännu ej publicerad
 
 Arbetet med artificiell
 intelligens, AI, har tagit fart
@@ -2399,10 +2399,10 @@ projekt.                          har delat med sig erfarenheter av arbetet på 
 studiebesök och genom kontakter från andra kommuner.
 Målsättning
 Indikator                                  2023  2024    2024
-Andel innovationsprojekt som drivits under året -  *     Öka
-Andel av bruttokostnaden som avsätts för verksamhetsutveckling och - * Öka
+Andel innovationsprojekt som drivits under året -  \*     Öka
+Andel av bruttokostnaden som avsätts för verksamhetsutveckling och - \* Öka
 innovation
-*) Mättalet har varit svårt att få fram då underlag saknas.
+\*) Mättalet har varit svårt att få fram då underlag saknas.
 
 På w ww.kungsbacka.se/innovation
 delar vi med oss av goda exempel.
@@ -2617,15 +2617,15 @@ Balanskravsutredning, miljoner kronor                   2023  2024
 Årets resultat enligt resultaträkningen (fullfondmodellen) 231 286
 Pensionsförpliktelser intjänade före 1998               +22    +25
 Årets resultat enligt blandmodellen                     253    311
-- Samtliga realisationsvinster                           -8    -1
-+ Realisationsvinster enligt undantagsmöjlighet           -
+\- Samtliga realisationsvinster                           -8    -1
+\+ Realisationsvinster enligt undantagsmöjlighet           -
 
-+ Realisationsförluster enligt undantagsmöjlighet         -
+\+ Realisationsförluster enligt undantagsmöjlighet         -
 -/+ Orealiserade vinster och förluster i värdepapper      -
 +/- Återföring av orealiserade vinster och förluster i värdepapper - -
 = Årets resultat efter balanskravsjusteringar           245    310
-- Reservering av medel till resultatutjämningsreserv      -     -
-+ Användning av medel från resultatutjämningsreserv       -     -
+\- Reservering av medel till resultatutjämningsreserv      -     -
+\+ Användning av medel från resultatutjämningsreserv       -     -
 
 = Balanskravsresultat                                   245    310
 
@@ -3049,7 +3049,7 @@ Not 1 Redovisningsprinciper       Skatteintäkter
 Kungsbacka kommun följer lagen om kommunal Redovisade skatteintäkter utgörs av årets preliminära
 bokföring och redovisning, LKBR (2018:597) med skatteinbetalningar, prognostiserad slutavräkning
 undantag för redovisning av pensioner intjänade före för redovisningsåret samt en justering av föregående
-1998. Kommunen följer även, om inte annat anges, de bokslutsårs skatteintäkter. Den preliminära slutav­
+1998\. Kommunen följer även, om inte annat anges, de bokslutsårs skatteintäkter. Den preliminära slutav­
 rekommendationer som Rådet för kommunal redovisning räkningen för skatteintäkter är baserad på Sveriges
 (RKR) lämnar samt övrig redovisningspraxis. kommuner och regioners, SKR, decemberprognos i
 enlighet med Rådet för kommunal redovisnings rekom­
@@ -3271,7 +3271,7 @@ Summa generella statsbi-                Summa jämförelsestörande
 drag och utjämning 319,0 337,4 319,0 337,4 poster          -51,9 75,0 -51,9 75,0
 Övriga upplysningar                     Övriga upplysningar
 Under 2023 redovisas realisationsvinster från exploateringsverksamheten
-1) Övriga generella statsbidrag: minskad andel timanställda inom vård och
+1\) Övriga generella statsbidrag: minskad andel timanställda inom vård och
 samt exploateringsersättningar som jämförelsestörande poster samt ökning av
 omsorg 0 (35) mnkr, ökad bemanning av sjuksköterskor på särskilda boenden
 avsättning för deponi Barnamossen.
@@ -3336,7 +3336,7 @@ Försäljningar       0,0  -1,1 -4,5  -5,4 Försäljningar     -1,1  -0,1 -1,4  
 Utrangeringar      -8,8 -51,5 -10,0 -58,8 Utrangeringar    -13,6 -75,2 -14,4 -75,6
 Överföringar       21,7  29,1 15,2 29,1 Överföringar        0,1  18,7  1,5  23,6
 Utgående anskaffningsvärde 13 514,2 14 195,1 17 691,2 18 392,2 Utgående anskaffningsvärde 2 044,6 2 097,7 2 086,4 2 145,6
-- Varav Pågående investe-
+\- Varav Pågående investe-
 varav pågående investeringar 0,0 3,0
 ringar            264,1 506,5
 Ingående ackumulerade
@@ -3700,7 +3700,7 @@ avtalet. Projektet förväntas vara färdigt under 2025.
 ningstid exklusive derivat 1,2 2,2 2,2 2,3
 6 Bidrag till Trafikverket avser cirkulationsplats i Frillesås Rya. Avtal tecknades
 år 2022. Bidraget är indexjusterat år 2023 och år 2024. Projektet pågår till år Långfristig leasingskuld
-2028.
+2028\.
 7 Bidrag till Trafikverket avser cirkulationsplats i Må. Avtal tecknades år 2018. Ingående leasingskuld 1 655,0 1 605,0 423,6 420,0
 Må cirkulation avslutades 2023.
 8 Avtal avser Må vänstersväng och tecknades 2018. Bidraget är indexuppräknat Årets amortering -77,9 -79,0 -31,6 -31,2
@@ -4055,7 +4055,7 @@ Vård & Omsorg                          5,6      19,0   13,4   70,6%
 Finansiering lokalplan                  -      158,8   158,8  100,0%
 ```
 
-Exploateringsverksamhet * (Anläggningstillgångar) 75,6 90,6 15,0 16,6%
+Exploateringsverksamhet \* (Anläggningstillgångar) 75,6 90,6 15,0 16,6%
 
 ```osaker-tabell
 Summa skattefinansierad verksamhet    435,3    879,6   444,3
@@ -4105,7 +4105,7 @@ järnvägen vid Inlag och på så sätt skapa yta för gång och tillfälliga l�
 cykel jämte körfält för motorfordon. Projektet befinner
 Investeringar i avgiftsfinansierad verksamhet
 sig i projekteringsskedet och byggstarten är planerad till
-2026.                             De avgiftsfinansierade nettoinvesteringarna visar på en
+2026\.                             De avgiftsfinansierade nettoinvesteringarna visar på en
 avvikelse på 187,4 miljoner kronor jämfört med budget.
 Service
 Budgetavvikelsen hos Service beror främst på att projekt
@@ -4622,7 +4622,7 @@ Kommentar till budgetavvikelse helår 2024
 Årets resultat är ett underskott på 10,3 miljoner kronor, att jämföra med ett budgeterat resultat på - 0,7 miljoner
 kronor. Årets avvikelse är därmed -9,6 miljoner kronor.
 Intäkterna är 8,4 miljoner kronor lägre jämfört med budget. Brukningsavgifterna höjdes med 5 procent inför
-2024. Kostnaderna är 2,1 miljoner kronor högre än budget.
+2024\. Kostnaderna är 2,1 miljoner kronor högre än budget.
 
 Kommentar och analys inför framtiden
 På kort sikt kommer vi att belastas med ökade försäkringskostnader på grund av flertalet kraftiga skyfall som
@@ -6169,7 +6169,7 @@ Lägesbeskrivning. Risk för korruption har identifierats och bedömts generellt
 för inköp, utbetalningar och rekrytering. Otillåten påverkan är ett annat gemensamt område där rutiner och
 uppföljning förtydligats under året. Arbetet med att identifiera och värdera korruptionsrisker i
 verksamhetsprocesserna har kommit olika långt i förvaltningarna och fortsätter i respektive verksamhet under
-2025.
+2025\.
 Kontrollaktiviteter: Kontrollaktiviteter är i mångt och mycket inbyggt i ekonomi- och personalprocesserna
 samt e-handeln och andra verksamhetssystem liksom att tvåhandsprincipen är en ledstjärna. Kontrollerna
 förutsätter god efterlevnad till rutiner och systemanvändning för att vara verksamma. Förvaltningarna
@@ -6205,7 +6205,7 @@ intensifieras under 2025, med fokus på att stärka organisationernas förmåga 
 Granskningen har i första hand genomförts utifrån en gemensam checklista med åtta frågor kring nämndernas
 systematiska arbete med krisberedskap. Alla förvaltningar har besvarat checklistan. På frågan om riktlinje för
 civil beredskap är det två förvaltningar som svarar att man ännu inte har någon riktlinje men arbetet fortsätter år
-2025. På frågan om krisledningsorganisationen har övat sista året är det två förvaltningar som svarar att man
+2025\. På frågan om krisledningsorganisationen har övat sista året är det två förvaltningar som svarar att man
 inte genomfört övningar år 2024. Övriga förvaltningar har övat i hela eller delar av ledningsorganisationerna
 under året.
 
@@ -6345,12 +6345,12 @@ nämndssamverkan eller kommunalförbund. Under 2024 ingick Kungsbacka bland anna
 samverkan.
 -Göteborgsregionens kommunalförbund (GR)
 
-- Räddningstjänsten Storgöteborg
+\- Räddningstjänsten Storgöteborg
 -Gemensam nämnd för hemsjukvård och hjälpmedel (Halland)
-- Patientnämnd Halland
+\- Patientnämnd Halland
 
-- Nämnden för överförmyndare i samverkan
-- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
+\- Nämnden för överförmyndare i samverkan
+\- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
 kollektivtrafik i Halland enligt lagen om kollektivtrafik, samt skatteväxling, ägarförhållande i Hallandstrafiken
 Ab och former för samverkan mellan Region Halland och länets kommuner i utveckling och planering av den
 regionala kollektivtrafiken").
@@ -7272,7 +7272,7 @@ hälsa.
 Samverkan        för  att  stärka    barn    & ungas
 
 välmående        och   psykisk     hälsa    genom      rörelse.
-:
+\:
 
 Kungsbacka kommun            Rapportmall                        5
 
@@ -7634,7 +7634,7 @@ Maria Losman (MP) och Elisabeth Sahlsten (MP) yrkar bifall till Miljöpartiets
 
 förslag till kommunbudget 2025.
 Christer Perfjell (KB) yrkar bifall till Kungsbackabornas förslag till kommunbudget
-2025.
+2025\.
 
 Beslutsgång
 Ordförande Thure Sandén (M) finner inledningsvis att det finns sex förslag till beslut
@@ -8011,7 +8011,7 @@ större övervägande öppet landskapsrum med beteshagar för hästar. I väst a
 Onsalavägen och i norr angränsar området till förhållandevis tät villabebyggelse.
 
 Del av fastigheten Mossen 3:2 skifte 1 och 5 är belägen inom detaljplan O112 som fick laga kraft
-1969. Den aktuella fastigheten är i plankartan redovisad som allmän plats, parkmark och vägmark.
+1969\. Den aktuella fastigheten är i plankartan redovisad som allmän plats, parkmark och vägmark.
 Genom detta område rinner en bäck som omfattas av strandskydd.
 
 Området ligger drygt 800 meter från Onsala kyrkby och närmsta busshållplats ligger på Onsalavägen i
@@ -8098,7 +8098,7 @@ bedömningen att det saknas särskilt skäl för upphävande av strandskyddet.
 
 Gällande detaljplan
 Del av fastigheten Mossen 3:2 skifte 1 och 5 är belägen inom detaljplan O112 som fick laga kraft
-1969. Den aktuella fastigheten har i plankartan användningen allmän plats, parkmark och vägmark.
+1969\. Den aktuella fastigheten har i plankartan användningen allmän plats, parkmark och vägmark.
 
 Kommunens översiktsplan
 
@@ -8221,7 +8221,7 @@ Begära     planbesked
 
 Ärendenummer: #173466 | Inskickat av: | 2024-12-03 08:56
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -8290,7 +8290,7 @@ Förnamn    Efternamn     Telefon       E-postadress
 
 @gmail.com
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -8314,7 +8314,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -9023,7 +9023,7 @@ bebyggelse. Ansökan omfattar möjliggörande av 12-18 lägenheter inom befintli
 byggnader.
 
 Fastigheten är belägen inom detaljplan OP178 som fick laga kraft den 18 februari
-2013. Genomförandetiden löpte ut den 19 februari 2023. Den aktuella fastigheten är i
+2013\. Genomförandetiden löpte ut den 19 februari 2023. Den aktuella fastigheten är i
 plankartan redovisad som kvartersmark för hotell och konferensanläggning samt har
 skyddsbestämmelser för både exteriör av byggnader samt den parkliknande
 trädgården.
@@ -9336,13 +9336,13 @@ nossnåM
 nérmeS
 ©
 Hållbarhet                                  i    flera               led
-+ Social  hållbarhet   genom   att tillföra fler
+\+ Social  hållbarhet   genom   att tillföra fler
 boendeformer     och  bostadsstorlekar    i
 ett område    som  i övrig domineras    av
 villor. Utemiljön  ger också   möjlighet  till
 nya  mötesplatser    och  gemenskap     för
 de  boende.
-+ Ekologisk   och  ekonomisk     hållbarhet
+\+ Ekologisk   och  ekonomisk     hållbarhet
 Fler   boendeformer         i området      för   olika   livssituationer
 genom    att ta tillvara på befintliga
 byggnader    och  ge  dem  ett nytt
@@ -9351,7 +9351,7 @@ innehåll.  Närheten   till naturen med
 stora  rekreationsområden      och  en
 utemiljö  med   plats för odling  främjar
 också   det en  hållbar livsstil.
-+ Estetisk  hållbarhet   genom    en varsam
+\+ Estetisk  hållbarhet   genom    en varsam
 ombyggnad      med  stor  hänsyn  till
 den  kulturhistoriskt  känsliga  miljön.
 Byggnaderna     rustas  upp,  men  behåller
@@ -9395,7 +9395,7 @@ e                                                   e
 lägenheter  och  det  skulle innebär  ca  36-54  fordon/dygn,    istället för upp till                                g                                                     n
 ä
 v
-100.
+100\.
 a
 l
 a
@@ -9449,9 +9449,9 @@ nérmeS
 Nyckeltal
 BTA:                         1 760  kvm
 Antal lägenheter:            12-18  st
-Antal P-platser*:            12-18  st
+Antal P-platser\*:            12-18  st
 Antal cykelplatser:          24-36   st
-*Markparkering    inom  fastigheten
+\*Markparkering    inom  fastigheten
 
 <!-- sida 230 -->
 
@@ -9747,7 +9747,7 @@ www.kungsbacka.se
 
 <!-- sida 239 -->
 
-Från:Anna Olsson <anna.olsson@stadsbyggnad.goteborg.se>
+Från:Anna Olsson \<anna.olsson@stadsbyggnad.goteborg.se>
 Skickat:den 8 januari 2025 10:27
 Ämne:SBF 2024-00784 Ändring av översiktsplan för Göteborg, samråd
 
@@ -10172,7 +10172,7 @@ Den 2 november 2023 beslutade regeringen att ge en särskild utredare i uppdrag 
 regler för att underlätta för ny kärnkraft genom att effektivisera tillståndsprövningen av kärnteknisk
 verksamhet samt skapa ändamålsenliga avgifter för prövning av nya reaktorer. Målet med förslagen i
 utredningen är att Sverige ska kunna nå sitt klimatmål om 100 procent fossilfri elproduktion senast år
-2040.
+2040\.
 
 I utredningen lämnas bland annat förslag om införande av en ny lag om principbeslut, med syftet att
 regeringen tidigt ska kunna ta ställning till om det är förenligt med samhällets helhetsintresse att
@@ -10211,7 +10211,7 @@ Den 2 november 2023 beslutade regeringen att ge en särskild utredare i uppdrag 
 regler för att underlätta för ny kärnkraft genom att effektivisera tillståndsprövningen av kärnteknisk
 verksamhet samt skapa ändamålsenliga avgifter för prövning av nya reaktorer. Målet med förslagen i
 utredningen är att Sverige ska kunna nå sitt klimatmål om 100 procent fossilfri elproduktion senast år
-2040. Utredningen blev klar i januari 2025.
+2040\. Utredningen blev klar i januari 2025.
 
 Utgångspunkten för utredningens arbete var att det ska finnas ett effektivt och välfungerande
 prövningssystem för kärnteknisk verksamhet med bibehållna krav på säkerhet och strålskydd.
@@ -10558,7 +10558,7 @@ Regeringen beslutade 22 juni 2023 att tillsätta en särskild utredare med uppdr
 analysera och lämna förslag som stärker den medicinska kompetensen i kommunal
 hälso- och sjukvård (dir. 2023:98). Utredningen överlämnade betänkandet Stärkt
 medicinsk kompetens i kommunal hälso- och sjukvård (SOU 2024:72) i november
-2024.
+2024\.
 
 Utredningens uppdrag var dels att lämna förslag som kan stärka kommunernas
 möjlighet att säkra tillgången till läkare i den egna hälso- och sjukvården, dels att
@@ -10568,14 +10568,14 @@ I betänkandet föreslås åtgärder för att säkerställa den medicinska kompe
 
 kommunal hälso- och sjukvård och därigenom höja kvaliteten på vården. Några av
 dessa förslag är:
-- Stärkt läkarmedverkan i kommunal hälso- och sjukvård.
+\- Stärkt läkarmedverkan i kommunal hälso- och sjukvård.
 
-- Stärkt medicinsk kompetens på ledningsnivå.
-- Möjlighet till medicinsk bedömning dygnet runt.
+\- Stärkt medicinsk kompetens på ledningsnivå.
+\- Möjlighet till medicinsk bedömning dygnet runt.
 
-- Stärkt kompetensförsörjning genom att göra det attraktivt för legitimerade
+\- Stärkt kompetensförsörjning genom att göra det attraktivt för legitimerade
 yrkesgrupper att arbeta inom kommunal hälso- och sjukvård.
-- Skapande av möjligheter till kompetensutveckling både inom yrkesområdet och
+\- Skapande av möjligheter till kompetensutveckling både inom yrkesområdet och
 inom ledarskap.
 
 Beslutsunderlag
@@ -10796,9 +10796,9 @@ Nämnden för Vård & Omsorg anser att den nuvarande lagstiftningen i kombinatio
 mellan region och kommuner (utvecklas ytterligare under punkt 4.2 ) tillräckligt tydliggör kraven på
 medicinsk bedömning dygnet runt.
 
-- Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
+\- Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
 läkarresurser som behövs till kommunerna för att kunna erbjuda god hälso- och sjukvård.
-- Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en god
+\- Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en god
 hälso- och sjukvård till de som vistas på Särskilda boenden eller Bostad med Särskild service.
 
 <!-- sida 263 -->
@@ -10806,7 +10806,7 @@ hälso- och sjukvård till de som vistas på Särskilda boenden eller Bostad med
 KUNGSBACKA  KOMMUN
 5 (8)
 
-- Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
+\- Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
 regionen överlåta skyldighet att erbjuda hälso- och sjukvård i hemmet (hemsjukvård). Undantaget
 
 hälso- och sjukvård som ges av läkare.
@@ -11004,9 +11004,9 @@ Kommunen anser att den nuvarande lagstiftningen i kombination med tecknade avtal
 
 och kommuner (utvecklas ytterligare under punkt 4.2 i detta yttrande) tillräckligt tydliggör kraven på
 medicinsk bedömning dygnet runt.
-- Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
+\- Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
 läkarresurser som behövs till kommunerna för att kunna erbjuda god hälso- och sjukvård.
-- Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en god
+\- Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en god
 hälso- och sjukvård till de som vistas på Särskilda boenden eller Bostad med Särskild service.
 
 1 (5)
@@ -11023,7 +11023,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (5)
 
-- Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
+\- Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
 regionen överlåta skyldighet att erbjuda hälso- och sjukvård i hemmet (hemsjukvård). Undantaget
 
 hälso- och sjukvård som ges av läkare.
@@ -11237,12 +11237,12 @@ mellan region och kommuner (utvecklas ytterligare under punkt 4.2 i detta yttran
 
 tydliggör kraven på medicinsk bedömning dygnet runt.
 
--  Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
+\-  Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
 läkarresurser som behövs till kommunerna för att kunna erbjuda god hälso- och sjukvård.
--  Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en
+\-  Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en
 god hälso- och sjukvård till de som vistas på Särskilda boenden eller Bostad med Särskild
 service.
--  Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
+\-  Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
 regionen överlåta skyldighet att erbjuda hälso- och sjukvård i hemmet (hemsjukvård).
 Undantaget hälso- och sjukvård som ges av läkare.
 
@@ -11423,7 +11423,7 @@ Regeringen beslutade 22 juni 2023 att tillsätta en särskild utredare med uppdr
 analysera och lämna förslag som stärker den medicinska kompetensen i kommunal
 hälso- och sjukvård (dir. 2023:98). Utredningen överlämnade betänkandet Stärkt
 medicinsk kompetens i kommunal hälso- och sjukvård (SOU 2024:72) i november
-2024.
+2024\.
 
 Utredningen föreslår åtgärder för att säkerställa den medicinska kompetensen inom
 kommunal hälso- och sjukvård och därigenom höja kvaliteten på vården. Några av
@@ -12192,7 +12192,7 @@ samrådsunderlag om budgeten för nästkommande år. Nivån på årsavgiften fö
 vara oförändrad till 2026 och uppgår då till 72,62 kronor per invånare. För
 Kungsbacka kommun innebär det en preliminär avgift på 6 219 000 kronor under
 
-2026. Årsavgiften är preliminär och kommer justeras när de definitiva
+2026\. Årsavgiften är preliminär och kommer justeras när de definitiva
 befolkningsuppgifterna per 2024-12- 31 är publicerade. Avgiften ryms inom
 kommunstyrelsens budgetram.
 Avseende frågan om inspel till kommande regional utvecklingsplan för
@@ -12531,7 +12531,7 @@ grundar sig på befolkningstalen publicerade av SCB per 2024-11-01 och
 kommer att justeras när de definitiva befolkningsuppgifterna per 2024-12-
 31 är publicerade.
 Medlemskommunernas synpunkter ska vara GR tillhanda senast 7 april
-2025. Beslut fattas i förbundsstyrelsen 9 maj och därefter i förbunds-
+2025\. Beslut fattas i förbundsstyrelsen 9 maj och därefter i förbunds-
 fullmäktige den 10 juni.
 
 Beslutsunderlag
@@ -13220,7 +13220,7 @@ Med detta som bakgrund vill Socialdemokraterna:
 eo att Kommunfullmäktige ger berörda nämnder i uppdrag att undersöka möjligheter att
 
 etablera högre utbildningar i Kungsbacka i samverkan med lämplig högskola och/eller
- universitét——>
+universitét——>
 
 agdalena Sundqvis'
 Ledamot i Kommunfullmäktige
@@ -13444,9 +13444,9 @@ avhopp. Den nedåtgående spiralen beror på en kombination av olyckliga omstän
 Varberg vars stora yrkeshögskolor innebär att skolan är ytterst konkurrensutsatt.
 
 Tre alternativa handlingsförslag har utretts:
-1) Satsningar på att utveckla yrkeshögskolan
-2) Beslut om avveckling av yrkeshögskolan i augusti 2022
-3) Beslut om mer successiv avveckling i augusti 2023
+1\) Satsningar på att utveckla yrkeshögskolan
+2\) Beslut om avveckling av yrkeshögskolan i augusti 2022
+3\) Beslut om mer successiv avveckling i augusti 2023
 
 I kapitel 6 finns en genomgång av motiven för respektive förslag, vad dessa rent konkret
 skulle innebära och en uppskattning av kostnader. Vidare beskrivs risker och
@@ -13665,17 +13665,17 @@ organisationer och 94 offentliga. Av de offentliga var det 87 kommuner eller
 kommunförbund, 5 regioner och 2 statliga anordnare.
 
 Följande trender kan ses:
--  Antalet privata anordnare ökar något medan antalet offentliga anordnare minskar.
--  Antalet beslutade platser hos privata anordnare ökar kraftigt. År 2007 hade
+\-  Antalet privata anordnare ökar något medan antalet offentliga anordnare minskar.
+\-  Antalet beslutade platser hos privata anordnare ökar kraftigt. År 2007 hade
 privata anordnare 49% av platserna att jämföra med 2019 då deras andel ökat till
 71 %.
--  De privata anordnarna hade i genomsnitt nästan dubbelt så många platser som de
+\-  De privata anordnarna hade i genomsnitt nästan dubbelt så många platser som de
 offentliga; 412 i snitt för de privata jämfört med 215 platser för de offentliga.
--  Antalet sökande har ökat och ett ökat antal, 41%, söker till mer än en utbildning
+\-  Antalet sökande har ökat och ett ökat antal, 41%, söker till mer än en utbildning
 inom YH.
--  Antalet behöriga sökande per plats låg på 1,9 i Västra Götalands län vilket var
+\-  Antalet behöriga sökande per plats låg på 1,9 i Västra Götalands län vilket var
 näst lägst i landet. I Hallands län är motsvarande siffra 2,4.
--  Antalet personer som påbörjat studier har nästan fördubblats mellan 2007 och
+\-  Antalet personer som påbörjat studier har nästan fördubblats mellan 2007 och
 2019 och den största ökningen skedde mellan 2018 och 2019.
 
 Yrkeshögskolan befinner sig på en konkurrensutsatt marknad på två sätt. Dels ansöker
@@ -13695,14 +13695,14 @@ fram på något enkelt sätt då redovisningen utgår från huvudman och inte fr
 
 Nedanstående kategorisering av yrkesanordnare är utredarens egen efter genomgång av
 myndighetens statistikfil.
-- Stora bolagskoncerner som erbjuder yrkesutbildning på flera orter och dessutom
+\- Stora bolagskoncerner som erbjuder yrkesutbildning på flera orter och dessutom
 kan bedriva förskola, grundskola och/eller gymnasieskola.
-- Stiftelser, studieförbund och folkhögskolor som grundats som en ideell
+\- Stiftelser, studieförbund och folkhögskolor som grundats som en ideell
 organisation och helt eller delvis erbjuder yrkeshögskoleutbildningar
-- Handelsinstitut och kompetensutvecklingsföretag som tidigare sålt utbildningar
+\- Handelsinstitut och kompetensutvecklingsföretag som tidigare sålt utbildningar
 direkt till företag eller privatpersoner men nu också erbjuder
 yrkeshögskoleutbildningar.
-- Ett mindre antal anordnare som har unika koncept och bara erbjuder enstaka
+\- Ett mindre antal anordnare som har unika koncept och bara erbjuder enstaka
 utbildningar
 
 10
@@ -13734,11 +13734,11 @@ yrkeshögskoleutbildningar inom en mängd olika områden.
 De offentligt drivna yrkeshögskolorna har relativt ofta en koppling till kommunens
 basnäringar. Yrkeshögskolan bidrar därmed till att tydliggöra kommunens profil och/eller
 kulturarv. Exempel på detta är:
--  Fisk och skaldjur, Lysekil
--  Trädgårdsanläggning, Båstad
--  Skogsbrukstekniker, Ljusdal
--  Keramisk form och tillverkning, Lidköping
--  Vattenkraft och bergmaterial, Lapplands lärcentra.
+\-  Fisk och skaldjur, Lysekil
+\-  Trädgårdsanläggning, Båstad
+\-  Skogsbrukstekniker, Ljusdal
+\-  Keramisk form och tillverkning, Lidköping
+\-  Vattenkraft och bergmaterial, Lapplands lärcentra.
 I många kommuner är yrkeshögskolan organisatoriskt integrerad med gymnasieskolan.
 Andra samverkar även med högskolor och universitet.
 
@@ -13871,10 +13871,10 @@ intervjusvar från andra kommuner eller organisationer.
 
 Varje rubrik i kapitlet har följande struktur:
 
--  Beskrivning: En beskrivande text som ska vara helt neutral och redovisa fakta.
--  Iakttagelser och intervjusvar: Svar från intervjupersoner men även material som
+\-  Beskrivning: En beskrivande text som ska vara helt neutral och redovisa fakta.
+\-  Iakttagelser och intervjusvar: Svar från intervjupersoner men även material som
 översänts av olika intervjupersoner.
--  Kommentarer: Utredarens reflektioner och bedömningar redovisas direkt under
+\-  Kommentarer: Utredarens reflektioner och bedömningar redovisas direkt under
 varje punkt. I kapitel 7 finns en sammanfattande analys och slutsatser.
 
 5.2 Skolans historia och nuvarande tillhörighet
@@ -13882,7 +13882,7 @@ varje punkt. I kapitel 7 finns en sammanfattande analys och slutsatser.
 Beskrivning
 Yrkeshögskolans historia i Kungsbacka går tillbaka till de s k KY-utbildningarna.
 Kvalificerade Yrkesutbildningar, som var en del av det svenska utbildningssystemet från
-2002. I samband med att Lagen om yrkesutbildningar antogs 2009 fasades KY-
+2002\. I samband med att Lagen om yrkesutbildningar antogs 2009 fasades KY-
 utbildningarna ut och befintliga utbildningar överfördes ofta till yrkeshögskolan.
 Inledningsvis var yrkeshögskolan i Kungsbacka organiserad i en verksamhet tillsammans
 med den kommunala vuxenutbildningen i egen regi.
@@ -14024,10 +14024,10 @@ tekniska investeringar ger högre elevpeng.
 
 Iakttagelser och intervjusvar
 Intervjupersonerna i Kungsbacka beskriver att orsakerna till obesatta platser är flera:
--  Att ansökningarna från potentiella studerande redan från början varit otillräckliga
--  Att studerande tackar ja men även har sökt andra utbildningar - inom YH eller
+\-  Att ansökningarna från potentiella studerande redan från början varit otillräckliga
+\-  Att studerande tackar ja men även har sökt andra utbildningar - inom YH eller
 någon annan utbildningsform - och hoppar av i nära anslutning till terminsstarten
--  Att studerande av olika skäl slutar under utbildningens gång
+\-  Att studerande av olika skäl slutar under utbildningens gång
 
 Att antalet sökande är för få beror enligt flera intervjupersonerna på det geografiska läget
 där det finns många alternativa utbildningar och att insatserna på marknadsföring
@@ -14081,11 +14081,11 @@ Beskrivning
 Att skolans volym har minskat är den huvudsakliga förklaringen till yrkeshögskolans
 ekonomiska underskott. Det har dock inte gått att få fram exakta siffror på volymen över
 tid då begreppet volym innehåller flera beståndsdelar:
--  Antalet tilldelade utbildningar
--  Antalet pågående utbildningar
--  Antalet behöriga sökande
--  Antalet som påbörjar en utbildning
--  Antalet som hoppar av respektive fullföljer utbildningen.
+\-  Antalet tilldelade utbildningar
+\-  Antalet pågående utbildningar
+\-  Antalet behöriga sökande
+\-  Antalet som påbörjar en utbildning
+\-  Antalet som hoppar av respektive fullföljer utbildningen.
 
 Iakttagelser och intervjusvar
 Det förefaller inte vara så att skolan tidigare varit avsevärt mycket större. Men i en så
@@ -14582,19 +14582,19 @@ Beskrivning:
 I förordningen (2009:130) om yrkeshögskolan anges att det hos den ansvariga
 utbildningsanordnaren ska finnas en ledningsgrupp för utbildningen. Ledningsgruppens
 uppgift är att:
-1. Se till att utbildningen genomförs enligt lagen (2019:128) om yrkeshögskolan,
+1\. Se till att utbildningen genomförs enligt lagen (2019:128) om yrkeshögskolan,
 denna och andra förordningar som har meddelats av Myndigheten för
 yrkeshögskolan
-2. Anta sökande till utbildningen
-3. Pröva frågor om tillgodoräknande enligt 2 kap.12 §
-4. Utfärda examens- och utbildningsbevis
-5. Svara för att ett systematiskt kvalitetsarbete bedrivs.
+2\. Anta sökande till utbildningen
+3\. Pröva frågor om tillgodoräknande enligt 2 kap.12 §
+4\. Utfärda examens- och utbildningsbevis
+5\. Svara för att ett systematiskt kvalitetsarbete bedrivs.
 Ledningsgruppen ska bestå av:
 
-1. Företrädare för de delar av arbetslivet som berörs av utbildningen
-2. Minst en företrädare för skolväsendet
-3. Minst en företrädare för de studerande
-4. Den person som är utsedd av utbildningsanordnaren att leda det dagliga arbetet i
+1\. Företrädare för de delar av arbetslivet som berörs av utbildningen
+2\. Minst en företrädare för skolväsendet
+3\. Minst en företrädare för de studerande
+4\. Den person som är utsedd av utbildningsanordnaren att leda det dagliga arbetet i
 verksamheten
 
 MYh kvalitetsgranskar ledningsgruppernas arbete utifrån 4 kvalitetskriterier. 1) att
@@ -14658,14 +14658,14 @@ bredare forum där ett kommunperspektiv kan beaktas.
 Yrkeshögskolans planeringshorisont är flerårig och följande datum har betydelse för
 skolans framtida drift.
 
--  Elevernas ansökningsprocesser till utbildningar i Kungsbacka inleds till 17
+\-  Elevernas ansökningsprocesser till utbildningar i Kungsbacka inleds till 17
 januari och avslutas 17 maj 2021.
--  Resultatet av pågående ansökningsomgång till MYh presenteras 19 januari 2021.
--  MYH tar emot nya ansökningar om korta kurser och kurspaket under perioden
+\-  Resultatet av pågående ansökningsomgång till MYh presenteras 19 januari 2021.
+\-  MYH tar emot nya ansökningar om korta kurser och kurspaket under perioden
 februari 2021 till i mitten av mars 2021.
--  MYh tar emot nya ansökningar om yrkesutbildningar från april och fram till juni.
--  Kungsbackas redan påbörjade utbildningar pågår till och med vårterminen 2022.
--  Två nya utbildningsomgångar är beviljad i juli 2021 och dessa skulle avslutas i
+\-  MYh tar emot nya ansökningar om yrkesutbildningar från april och fram till juni.
+\-  Kungsbackas redan påbörjade utbildningar pågår till och med vårterminen 2022.
+\-  Två nya utbildningsomgångar är beviljad i juli 2021 och dessa skulle avslutas i
 juni 2023 om de fullföljs.
 Den politiska hanteringen av föreliggande rapport torde oavsett inriktning knappast inte
 vara klar före februari eller mars månad 2021.
@@ -14696,10 +14696,10 @@ investeringstunga tekniska utbildningar. Ur ett övergripande samhällsperspekti
 yrkeshögskolor i offentlig regi.
 
 Vad skulle en omstart innebära?
--  Att satsa på att öka volymen. Att uppnå en utökning med två långa
+\-  Att satsa på att öka volymen. Att uppnå en utökning med två långa
 heltidsutbildningar och två till fyra korta utbildningar bedöms vara nödvändigt.
 
--  Att lägga stort fokus på ansökningar rörande fler och rätt utbildningar. Detta
+\-  Att lägga stort fokus på ansökningar rörande fler och rätt utbildningar. Detta
 kräver en gedigen omvärldsanalys. Möjligheterna att söka utbildningar som har
 
 29
@@ -14709,7 +14709,7 @@ kräver en gedigen omvärldsanalys. Möjligheterna att söka utbildningar som ha
 tydlig koppling till Kungsbackas näringsliv och till befintlig kompetens inom
 yrkeshögskolan bör beaktas.
 
--  Att undersöka möjligheten till ett flexibelt utbud med korta kurser, kurspaket och
+\-  Att undersöka möjligheten till ett flexibelt utbud med korta kurser, kurspaket och
 att erbjuda YH-flex (valideringsomgångar) och sprida antagningarna över året.
 
 Ett återupptagande av hissutbildningen är inte beaktat i detta scenario. Om bedömningen
@@ -14731,31 +14731,31 @@ Nedanstående beräkningar har tagits fram i samverkan med förvaltningens contr
 rektorn vid yrkeshögskolan. Beräkningarna finns att tillgå i bilaga 3.
 År 2021: Underskott 1 900 tkr
 Beräkningen är en uppskattning och bygger på följande scenario:
--  Vårterminen: redan tilldelade utbildningar: CAD-konstruktör, CAD-BIM-
+\-  Vårterminen: redan tilldelade utbildningar: CAD-konstruktör, CAD-BIM-
 byggprojektör och Redovisningskonsult .
--  Höstterminen: redan tilldelade utbildningar: CAD-konstruktör och CAD-BIM -
+\-  Höstterminen: redan tilldelade utbildningar: CAD-konstruktör och CAD-BIM -
 buggprojektör.
--  Klasserna fylls till 90%
--  Flyttning till nya dyrare lokaler från ht 2021
--  Utökade kostnader för heltid rektorstjänst, utökning administratör,
+\-  Klasserna fylls till 90%
+\-  Flyttning till nya dyrare lokaler från ht 2021
+\-  Utökade kostnader för heltid rektorstjänst, utökning administratör,
 marknadsföring och ansökningsarbete
 
 År 2022: Underskott 500 tkr
 Bygger på följande scenario:
--  Vårterminen: redan beviljade utbildningar CAD-konstruktör, CAD-BIM
+\-  Vårterminen: redan beviljade utbildningar CAD-konstruktör, CAD-BIM
 byggprojektör med 4 klasser
--  Vårterminen: Redovisningskonsultutbildning beviljas ny start med 1 klass
--  Höstterminen: ovanstående plus två nya utbildningar med vardera 1 klass
--  Dessa sju klasser fylls till 90%
--  Utökade kostnader enligt ovan
+\-  Vårterminen: Redovisningskonsultutbildning beviljas ny start med 1 klass
+\-  Höstterminen: ovanstående plus två nya utbildningar med vardera 1 klass
+\-  Dessa sju klasser fylls till 90%
+\-  Utökade kostnader enligt ovan
 
 År 2023 Överskott med 800 tkr
--  Vårterminen Sju klasser följer med sedan 2022 och redovisningskonsult-
+\-  Vårterminen Sju klasser följer med sedan 2022 och redovisningskonsult-
 utbildningen utökas med en klass
 Höstterminen: Ytterligare 2 klasser inom de utbildningar som startade ht 2022.
--  Detta innebär att verksamheten från hösten drivs med 5 olika utbildningar i 10
+\-  Detta innebär att verksamheten från hösten drivs med 5 olika utbildningar i 10
 klasser
--  Dessa klasser fylls till 90%
+\-  Dessa klasser fylls till 90%
 
 30
 
@@ -14770,10 +14770,10 @@ En konsekvens är att en rad beslut behöver tas omgående och det även i organ
 behöver ske en kraftsamling för att stödja de som skall förverkliga ”omstarten”.
 
 De största riskerna är om yrkeshögskolan:
--  Inte får tilldelning på befintliga utbildningar
--  Inte får några nya utbildningar
--  Inte lyckas fylla platserna till minst 90%.
--  Inte lyckas rekrytera adekvat kompetens för att uppnå den höga kvalitet och det
+\-  Inte får tilldelning på befintliga utbildningar
+\-  Inte får några nya utbildningar
+\-  Inte lyckas fylla platserna till minst 90%.
+\-  Inte lyckas rekrytera adekvat kompetens för att uppnå den höga kvalitet och det
 goda rykte som kommer att krävas i konkurrensen med närliggande
 yrkeshögskolor.
 
@@ -14798,16 +14798,16 @@ En avveckling kan ske på olika sätt och med olika hastighet. Beräkningarna, s
 tillgå i bilaga 3, har utgått från två olika scenarier:
 En snabbare avveckling som är genomförd 1 juli 2022.
 
--  Påbörjade utbildningar finns kvar tills dagens studenter har avslutat sin
+\-  Påbörjade utbildningar finns kvar tills dagens studenter har avslutat sin
 utbildning. Detta innebär att skolan drivs vidare med 5 klasser under vårterminen
 2021 och 3 klasser under läsåret 2021–2022.
--  Beslut fattas om att inte starta hiss- och rulltrappsutbildningen
--  Berörd personal erbjuds från och med augusti 2022 omställning i enlighet med
+\-  Beslut fattas om att inte starta hiss- och rulltrappsutbildningen
+\-  Berörd personal erbjuds från och med augusti 2022 omställning i enlighet med
 kommunens rutiner.
--  Yrkeshögskolan blir kvar i nuvarande lokaler t o m vårterminen 2022.
--  Planeringen för att avyttra inventarier mm påbörjas och genomförs om möjligt
+\-  Yrkeshögskolan blir kvar i nuvarande lokaler t o m vårterminen 2022.
+\-  Planeringen för att avyttra inventarier mm påbörjas och genomförs om möjligt
 under hösten 2022.
--  Kontrakt med inhyrda konsulter förlängs i enlighet med ingångna avtal fram till
+\-  Kontrakt med inhyrda konsulter förlängs i enlighet med ingångna avtal fram till
 dess utbildningarna är avslutade.
 
 En mer successiv avveckling som är genomförd 1 juli 2023.
@@ -14816,10 +14816,10 @@ En mer successiv avveckling som är genomförd 1 juli 2023.
 
 <!-- sida 352 -->
 
--  Skillnaden mot ovanstående är att de utbildningsomgångar till CAD-konstruktör
+\-  Skillnaden mot ovanstående är att de utbildningsomgångar till CAD-konstruktör
 och CAD-BIM byggprojektör som redan är beviljade hösten 2021 startar.
--  Yrkeshögskolan flyttar under perioden från Kyrkskolan till Kompetenscentrum.
--  Personal och konsulter blir kvar ytterligare ett år till 1 juli 2023.
+\-  Yrkeshögskolan flyttar under perioden från Kyrkskolan till Kompetenscentrum.
+\-  Personal och konsulter blir kvar ytterligare ett år till 1 juli 2023.
 
 Vad skulle en avveckling kosta?
 Nedanstående beräkningar har tagits fram i samverkan med controller vid förvaltningen
@@ -14827,13 +14827,13 @@ för Gymnasium & arbetsmarknad samt rektorn vid yrkeshögskolan och finns att ti
 bilaga 3.
 
 Underskottet vid en snabb avveckling uppskattas till totalt 1150 TKR
--  750 tkr under 2021
--  400 tkr under 2022
--
+\-  750 tkr under 2021
+\-  400 tkr under 2022
+\-
 Underskottet vid en successiv avveckling uppskattas till totalt cirka 2 110 tkr
--  670 tkr under 2021
--  820 tkr under 2022
--  620 tkr under 2023
+\-  670 tkr under 2021
+\-  820 tkr under 2022
+\-  620 tkr under 2023
 Konsekvenser och risker med en avveckling
 Ett viktigt motiv för en successiv avveckling är att de politiska beslut som krävs för en
 avveckling inte kan tas innan elevernas ansökningsprocess till utbildningar i Kungsbacka
@@ -14980,10 +14980,10 @@ yrkeshögskolan i Kungsbacka att generera ett underskott de närmaste två åren
 Nedanstående siffror är framtagna i samarbete med förvaltningens controller utifrån
 hypotetiska scenarier. De är alltså en uppskattning.
 
--  En snabb avveckling belastar resultatet 2021 och 2022 med cirka 1150 tkr
--  En långsammare avveckling skulle belasta resultatet 2021, 2022 och 2023 med
+\-  En snabb avveckling belastar resultatet 2021 och 2022 med cirka 1150 tkr
+\-  En långsammare avveckling skulle belasta resultatet 2021, 2022 och 2023 med
 cirka 2100 tkr
--  En satsning på expansion skulle belasta resultatet för 2021 och 2022 med cirka
+\-  En satsning på expansion skulle belasta resultatet för 2021 och 2022 med cirka
 2 400 tkr, men skulle kunna ge ett överskott på 800 tkr år 2023.
 
 Kostnadsaspekten är bara en parameter inför valet av inriktning. En annan parameter

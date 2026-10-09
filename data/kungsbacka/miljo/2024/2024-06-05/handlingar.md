@@ -327,14 +327,14 @@ vid uteblivet besök som inte avbokats i tid.
 
 Med anledning av ovan yrkar Sverigedemokraterna:
 
-- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Stefan Jägnert / SD Kungsbacka
@@ -420,18 +420,18 @@ riktningen i samråd med de viktiga aktörerna. Det är också Kungsbacka kommun
 vilja att vara en tydlig samarbetspart i samhällsutvecklingen.
 Till remissen finns ett flertal utredningar och underlag:
 
--  Sammanställning i text och ett digitalt kartunderlag i Hajk.
--  Redovisningar från invånardialoger och workshops med näringsliv,
+\-  Sammanställning i text och ett digitalt kartunderlag i Hajk.
+\-  Redovisningar från invånardialoger och workshops med näringsliv,
 föreningsliv och politiker (3 filer).
--  Kulturmiljöprogrammet och tillhörande rekommendationer (2 filer).
--  Naturvärdesinventeringar och ekosystemtjänstanalys (4 filer).
--  Riktlinjer, överblick i textformat och tabellöversikt (2 filer).
--  Social konsekvensanalys (2 filer).
--  Trafikutredningar, inklusive kollektivtrafik och parkeringar (19 filer).
--  Trafikverkets åtgärdsvalsstudier för regional kollektivtrafik (6 filer).
--  Hållbarhetsbokslut 2022.
--  Kungsbacka i världen, Omvärldsanalys 2022.
--  Översvämningsrisk - Förstudie om lokalisering, genomförbarhet och
+\-  Kulturmiljöprogrammet och tillhörande rekommendationer (2 filer).
+\-  Naturvärdesinventeringar och ekosystemtjänstanalys (4 filer).
+\-  Riktlinjer, överblick i textformat och tabellöversikt (2 filer).
+\-  Social konsekvensanalys (2 filer).
+\-  Trafikutredningar, inklusive kollektivtrafik och parkeringar (19 filer).
+\-  Trafikverkets åtgärdsvalsstudier för regional kollektivtrafik (6 filer).
+\-  Hållbarhetsbokslut 2022.
+\-  Kungsbacka i världen, Omvärldsanalys 2022.
+\-  Översvämningsrisk - Förstudie om lokalisering, genomförbarhet och
 kostnadsbedömning för översvämningsskydd.
 
 Beslutsunderlag
@@ -726,7 +726,7 @@ Bygg- och miljöförvaltningen har upprättat uppföljning och prognos per den 3
 2024 för Byggnadsnämnden enligt kommunens riktlinjer.
 Byggnadsnämnden redovisar ett utfall mot budget om -0,5 miljoner kronor per april.
 Prognosen för helåret visar att nämnden har en sammantagen budget i balans för
-2024.
+2024\.
 
 Beslutsunderlag
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2024-05-07
@@ -795,7 +795,7 @@ klagomål, remisser, information och rådgivning, samt överklaganden har ökat 
 eller ingen alls inom dessa ärenden. Prövningsärenden inom livsmedel och servering har ökat medan vi ser en
 minskning för inkomna prövningsärenden inom miljöbalken.
 Kommunerna ska bedriva tillsyn så att förorenade områden med mycket stor risk eller stor risk (riskklass 1 och
-2) är åtgärdade innan 2050. Nämndens egeninitierade tillsyn av förorenade områden är väl i fas med tidplanen.
+2\) är åtgärdade innan 2050. Nämndens egeninitierade tillsyn av förorenade områden är väl i fas med tidplanen.
 Även tillsynen gentemot illegal avfallshantering har påbörjats enligt strategin för miljöbalkstillsynen där syftet
 med projektet är att minska välfärdsbrottsligheten.
 
@@ -849,7 +849,7 @@ Förvaltningen fortsätter att driva frågan om behovet av ett kommunövergripan
 sammanhållen digital samhällsbyggnadsprocess. Frågan är uppe på agendan både i Forum samhällsbyggnad och
 i samhällsbyggnadsledningen.
 Beslut har tagits för fortsatt arbete med att digitalisera detaljplaner efter det pilotprojekt som startade under
-2023. Detta arbete är första steget mot en mer sammanhållen digital samhällsbyggnadsprocess.
+2023\. Detta arbete är första steget mot en mer sammanhållen digital samhällsbyggnadsprocess.
 Verksamheten har varit en del i den kommungemensamma politikerutbildning som genomförts. Fokus i detta
 skede var innovation och nya arbetssätt inom samhällsbyggnadsprocessen.
 

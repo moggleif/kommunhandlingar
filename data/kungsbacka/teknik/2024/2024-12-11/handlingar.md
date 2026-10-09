@@ -635,7 +635,7 @@ Befolkningen beräknas att bli allt äldre i Kungsbacka. Andel äldre än 60 år
 20,4 procent till 22,9 procent av total befolkning fram till 2032. Samtidigt beräknas andelen mellan
 0–9 år att minska från något från 10,9 procent av total befolkning 2024 till 10,5 procent per år
 
-2032.
+2032\.
 Diagrammet nedan visar åldersfördelningen i ettårsklasser idag och enligt prognos tio år framåt.
 
 15
@@ -1516,7 +1516,7 @@ Figur 49 - Bostadsmarknadsläget i kommunen som helhet. På kartan visas både k
 januari 2023 och om tre år, i fyra kategorier, se teckenförklaringen. Källa: Boverket, Bostadsmarknadsenkäten (BME), 2023.
 1.4.2.1 Bostadsmarknaden, bedömning av läget i Halland per kommun år 2001–2023
 Tabellen visar hur kommunerna bedömt bostadsmarknadsläget i kommunen som helhet sedan år
-2001. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
+2001\. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
 
 43
 
@@ -1797,7 +1797,7 @@ mått 2
 Figur 58 – Andel och antal hushåll per boende med ansträngd boendeekonomi i Kungsbacka 2012–2021. Källa: Boverket "Underlag
 bedömning bostadsbrist 2023", bearbetat av Kungsbacka kommun
 Figur 13 visar antal individer som ingår i hushåll som har en ansträngd boendeekonomi enligt mått
-2. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
+2\. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
 boendeekonomin minskat från 2012–2021. I den äldsta åldersgruppen 80+ är trenden i antal på
 liknade nivå under perioden, dock har andelen minskat.
 
@@ -2004,7 +2004,7 @@ Den största gruppen inom detta mått i Kungsbacka består av ensamstående män
 barn, samt sammanboende med barn, som bor i hyresrätter. Under den givna perioden har antalet
 hushåll utvecklats på en jämförbar nivå. Däremot har det observerats en ökning av antalet barn i
 åldern 0–17 år och vuxna i åldern 25–64 år från 2017 till 2019, följt av en viss avmattning under
-2020.
+2020\.
 
 53
 
@@ -2342,7 +2342,7 @@ Hushåll där någon av individerna har flyttat minst en gång årligen de senas
 Boverket kan måttet indikera att det finns hushåll som har en osäker boendesituation och har svårt
 att hitta ett permanent boende.
 I Kungsbacka har både antalet och andelen hushåll som flyttar ofta legat på en jämn nivå sedan
-2012. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
+2012\. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
 Denna grupp utgörs huvudsakligen av individer i åldersspannet 18–64 år, där åldersgruppen 35–
 64 år utgör den största delen.
 
@@ -3054,7 +3054,7 @@ yngre hushållen åt de äldre.
 40 000
 20 000
 
--
+\-
 30-39 år 40-49 år 70-79 år 80+ år
 
 Figur 101 - Medelvärde för hushåll i äganderätt i riket för 2021. Källa: SCB
@@ -3373,11 +3373,11 @@ uppdrag på ett innovativt sätt som överträffar invånarnas förväntningar�
 Kungsbacka kommun har fem kommunövergripande mål som är uppsatta av kommunfullmäktige.
 Målen har sin utgångspunkt i Vision 2030.
 
--  En attraktiv kommun att bo, verka och vistas i
--  En hållbar utveckling och en hälsosam miljö
--  Bästa företagsklimatet i Västsverige
--  I Kungsbacka utvecklas vi hela livet
--  Ett medskapande samhälle och öppen attityd
+\-  En attraktiv kommun att bo, verka och vistas i
+\-  En hållbar utveckling och en hälsosam miljö
+\-  Bästa företagsklimatet i Västsverige
+\-  I Kungsbacka utvecklas vi hela livet
+\-  Ett medskapande samhälle och öppen attityd
 
 2.4.3 Översiktsplan
 
@@ -3424,7 +3424,7 @@ I dagsläget pågår arbete med att ta fram en ny fördjupad översiktsplan för
 ska vara vägledande i hur vi ska använda mark- och vattentillgångar i staden fram till 2050. I
 enlighet med intentionerna i nya översiktsplanen tar denna plan höjd för en fördubbling av stadens
 befolkning fram till 2050, vilket innebär cirka 50 000 invånare. Planen beräknas vinna laga kraft år
-2026.
+2026\.
 
 2.5 Planens beaktande av relevanta mål och styrdokument
 De relevanta målen och styrdokumenten som beskrivits ovan har varit styrande i framtagandet av
@@ -4035,7 +4035,7 @@ pensionärsföreningar vilket gör att de tog hänsyn till behoven hos en störr
 individuella önskemål (som var fokus för dialogen år 2015 och därav riktade sig till ett större antal
 äldre). På dialogen diskuterades hur deltagarna ser på bostäder i kommunen och vilka nya
 utmaningar eller behov som kan identifieras kopplat till äldres behov i jämförelse med dialogen år
-2015.
+2015\.
 
 De viktigaste resultaten från dialogen inkluderade:
 •  Behov av fler trygghetsboenden och en mer varierad bostadsförsörjning
@@ -4124,7 +4124,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Syfte och bakgrund .............................................................................................. 3
+1\. Syfte och bakgrund .............................................................................................. 3
 Varför en bostadsförsörjningsplan? ...................................................................... 3
 Vad är goda bostäder? ......................................................................................... 3
 
@@ -4132,27 +4132,27 @@ Hur har planen tagits fram? ....................................................
 Hur är planen uppbyggd? ..................................................................................... 4
 Vad säger översiktsplanen om bostäder? ............................................................. 5
 
-2. Kommunens utmaningar ...................................................................................... 7
+2\. Kommunens utmaningar ...................................................................................... 7
 Utmaning: Hållbar tillväxt av bostäder .................................................................. 8
 Utmaning: Bostäder för allas behov .................................................................... 10
 Utmaning: Åldrande befolkning och välfärden .................................................... 12
 
 Utmaning: Social sammanhållning ..................................................................... 13
-3. Mål och insatser ................................................................................................. 15
+3\. Mål och insatser ................................................................................................. 15
 
 Mål 1: Vi ska tillgängliggöra fler bostadsytor i en hållbar takt .............................. 16
 Mål 2: Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad ................................................................................................................ 18
 Mål 3: Bostadsförsörjningen ska främja en god social sammanhållning ............. 21
 
-4. Uppföljning ......................................................................................................... 23
+4\. Uppföljning ......................................................................................................... 23
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 2 (23)
 
 <!-- sida 109 -->
 
 Syfte och bakgrund
-1. Syfte och bakgrund
+1\. Syfte och bakgrund
 
 Varför en bostadsförsörjningsplan?
 Enligt Lag (2000:1383) om kommunernas bostadsförsörjningsansvar ska varje
@@ -4317,7 +4317,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 <!-- sida 113 -->
 
 Kommunens utmaningar
-2. Kommunens    utmaningar
+2\. Kommunens    utmaningar
 
 I detta kapitel identifieras fyra utmaningar för bostadsförsörjningen i Kungsbacka
 kommun som ligger till grund för målen och insatserna i kapitel 3. Utmaningarna har
@@ -4332,12 +4332,12 @@ kopplingen till hållbarhet. De globala hållbarhetsmålen omfattar samtliga asp
 hållbar utveckling (ekonomisk, social och miljömässig hållbarhet).
 Kommunens utmaningar är följande:
 
-1. Hållbar tillväxt av bostäder
+1\. Hållbar tillväxt av bostäder
 
-2. Bostäder för allas behov
-3. Åldrande befolkning och välfärden
+2\. Bostäder för allas behov
+3\. Åldrande befolkning och välfärden
 
-4. Social sammanhållning
+4\. Social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 7 (23)
 
@@ -4669,7 +4669,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Mål och insatser
 
-3. Mål och insatser
+3\. Mål och insatser
 
 I detta kapitel hittar du det huvudsakliga innehållet i denna plan, nämligen mål och
 insatser för bostadsförsörjningen under tidsperioden 2025–2029. Målen och
@@ -4677,11 +4677,11 @@ insatserna tar sin utgångspunkt i våra utmaningar. Till varje mål kopplas ett
 förväntade effekter samt nyckeltal. Till varje insats kopplas ansvariga aktörer.
 Kommunens tre mål för bostadsförsörjning:
 
-1. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
+1\. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
 
-2. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
+2\. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad
-3. Bostadsförsörjningen ska främja en god social sammanhållning
+3\. Bostadsförsörjningen ska främja en god social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 15 (23)
 
@@ -5015,7 +5015,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Uppföljning
 
-4. Uppföljning
+4\. Uppföljning
 
 Planen följs upp varje år genom en återrapportering till kommunstyrelsen.
 Kommunstyrelsens förvaltning är ansvarig för uppföljningen. Uppföljningen görs
@@ -5101,12 +5101,12 @@ Nämnden för Teknik efterfrågar att barnperspektivet förtydligas.
 
 Nämndens ställningstagande i detalj
 
-1. Syfte och bakgrund
+1\. Syfte och bakgrund
 
 Under denna rubrik nämns att barns tillgång till god bostad är särskilt viktig att beakta. Förvaltningen
 ser inte hur detta säkerställs vidare i planen.
 
-2. Kommunens utmaningar
+2\. Kommunens utmaningar
 I Agenda 2030, Mål 11, Hållbara städer och samhällen, ingår bland annat delmålen ”Säkra bostäder till
 
 överkomlig kostnad”, ”Tillgängliggör hållbara transportsystem för alla”, ”Minska städers
@@ -5132,10 +5132,10 @@ KUNGSBACKA  KOMMUN
 vikten av att stärka kommunens identitet, vikten av bostadsnära grönområden och tillgång till
 mötesplatser och bra bostadsmiljöer utifrån barnperspektivet kunna lyftas fram och följas upp.
 
-3. Mål och insatser
+3\. Mål och insatser
 
 Insatser för mål 1: 1.1 Vi ska genom detaljplaner planera för 2500 bostäder under planens tidperiod (2025–
-2029)
+2029\)
 
 Förvaltningen/Nämnden för Teknik är positiva till att Bostadsförsörjningsplanen utgår från
 översiktsplanen och därmed främjar hållbar samhällsplanering som inriktning gällande lokalisering av
@@ -5151,7 +5151,7 @@ Tillgången till dricksvatten är på sikt inte säkrad och som de aktuella till
 garanteras att det finns dricksvatten till ytterligare 2500 bostäder år 2029. Tillståndet som kommunen
 har idag kan grovt uppskattat försörja ytterligare drygt 1800 bostäder innan gränsen för tillståndet
 överskrids. Det är mycket osannolikt att nya tillstånd för att producera mer dricksvatten är klart innan
-2029.
+2029\.
 Inför etablering av bostadsområden där nya kommunala anläggningar krävs är det därför viktigt att i
 tidigt skede utreda förutsättningar och behov för dessa och i utredningen omfatta större områden än
 
@@ -5330,14 +5330,14 @@ Beskrivning av ärendet
 Förutom att riktlinjerna har arbetats om med syfte att bli mer lättförståeliga, har nedanstående förändringar
 av innebörden gjorts.
 
-1. Tas bort: inriktningen är att ansluta 150-200 fastigheter via avtal.
+1\. Tas bort: inriktningen är att ansluta 150-200 fastigheter via avtal.
 
 Meningen föreslås tas bort med tanke på de begränsade möjligheterna till vattenuttag från Lygnern
 och att vi därför främst behöver prioritera anslutningar för dem inom verksamhetsområden där ju
 
 kommunen har ett ansvar, inte de utanför verksamhetsområdena.
 
-2. Förtydligande: I gällande riktlinjer står att en förening ska bildas av fastighetsägarna om det är
+2\. Förtydligande: I gällande riktlinjer står att en förening ska bildas av fastighetsägarna om det är
 fem fastigheter eller fler som ska anslutas.
 
 Förslag till ny text ”En förening ska bildas om det är eller förväntas bli fem eller fler fastigheter som ska
@@ -5389,7 +5389,7 @@ Vår starka rekommendation, som vi vill manifestera i riktlinjen, är därför a
 fastighetsägare som ska ansluta sig och som förväntas växa i antal med tiden, bildar en förening redan
 från början.
 
-3. Nytt på grund av nya arbetssätt:
+3\. Nytt på grund av nya arbetssätt:
 
 Vi har tagit bort en skrivelse om att ”om det är mer än 80 meter från förbindelsepunkt till
 byggnaden eller fastigheten som ska anslutas krävs en vattenmätarbrunn”. Mer än 80 meter
@@ -5421,7 +5421,7 @@ Den nya placeringen av mätarbrunnen minskar risken för oupptäckt läckage och
 
 reparationer och/ eller vattenförluster på längre sikt för kommunen.
 
-4. Nytt: i gällande riktlinjer står att vi fakturerar fastighetsägaren samtidigt som förbindelsepunkten
+4\. Nytt: i gällande riktlinjer står att vi fakturerar fastighetsägaren samtidigt som förbindelsepunkten
 upprättas. Det föreslås ändras till att anläggningsavgift ska få tas ut så fort avtalet är påskrivet dvs
 tidigare än när punkten förmedlas.
 
@@ -5437,7 +5437,7 @@ vilket års taxa som ska tillämpas-den avgift som uppgetts i avtalet eller den 
 förbindelsepunkten upprättas. Otydligheter, missuppfattningar och besvikelse hos fastighetsägare har
 ofta uppstått på den här punkten vilket gör att vi föreslår den här ändringen.
 
-5. Nytt: Grundavgiften i brukningsavgiften (vattenmätaravgift och bostadsenhetsavgift) föreslås
+5\. Nytt: Grundavgiften i brukningsavgiften (vattenmätaravgift och bostadsenhetsavgift) föreslås
 debiteras samtliga medlemmar i en förening, även fastigheter som ingår i föreningen, men som
 ännu inte anslutit till vattentjänsten/vattentjänsterna. Resonemanget bakom detta är att även som
 som valt att ännu inte anslutna ändå har fått tillgång till en förbindelsepunkt och då har en nytta för
@@ -5460,7 +5460,7 @@ av systemet. Dessutom betalar alla för en nytta som uppkommit i och med att fö
 
 förmedlad.
 
-6. Reviderat: 2023 gjordes taxan om i sin helhet. För att använda samma begrepp har vissa ord
+6\. Reviderat: 2023 gjordes taxan om i sin helhet. För att använda samma begrepp har vissa ord
 ändrats, t ex har ordet lägenhetsavgift ändrats till bostadsenhetsavgift.
 
 För samtliga revideringar se Bilaga 1, Riktlinjer för anslutning utanför kommunalt verksamhetsområde för
@@ -6833,7 +6833,7 @@ t lig
 v g c
 a
 o
--
+\-
 a n lä g
 j e k t e r
 v ä g l ä
@@ -6923,23 +6923,23 @@ Grundutförande och Tillägg
 Parterna beslutar självständigt i genomförandet av sina respektive anläggningar enligt §
 5 om det inte påverkar förutsättningarna för hela projektet. För övrigt gäller följande:
 Trafikverkets ansvar
-1. Trafikverket ska utföra åtgärden inom det statliga åtagandet som omfattas av detta
+1\. Trafikverket ska utföra åtgärden inom det statliga åtagandet som omfattas av detta
 avtal § 5 och § 6.
-2. Trafikverket ansvarar för att tillämpliga lagar och andra författningar samt
+2\. Trafikverket ansvarar för att tillämpliga lagar och andra författningar samt
 myndighetsbeslut iakttas för åtgärden som Trafikverket ansvarar för.
-3. Trafikverket blir efter färdigställandet väghållare och sköter och bekostar framtida
+3\. Trafikverket blir efter färdigställandet väghållare och sköter och bekostar framtida
 drift och underhåll samt eventuell förnyelse av gång- och cykelvägen och för den nya
 belysningsanläggningen.
-4. Trafikverket ansvarar för att dialog förs med Hallandstrafiken och Västtrafik.
-5. Trafikverket ansvarar för att vägnätsförändringen införs i NVDB.
+4\. Trafikverket ansvarar för att dialog förs med Hallandstrafiken och Västtrafik.
+5\. Trafikverket ansvarar för att vägnätsförändringen införs i NVDB.
 Kommunens ansvar
-1. Kommunen tillhandahåller utan ersättning den kommunala mark som behövs för
+1\. Kommunen tillhandahåller utan ersättning den kommunala mark som behövs för
 genomförandet av gång- och cykelvägen.
-2. Kommunen genomför och bekostar eventuellt erforderliga ändringar och/eller
+2\. Kommunen genomför och bekostar eventuellt erforderliga ändringar och/eller
 framtagande av detaljplaner för genomförande av åtgärder knutna till detta avtal.
-3. Kommunen ska bistå projektet med befintliga handlingar som behövs för arbetet
+3\. Kommunen ska bistå projektet med befintliga handlingar som behövs för arbetet
 med planläggning och bygghandling, såsom exempelvis kartunderlag.
-4. Kommunen ansvarar för att utse en kontaktperson i syfte att bistå projektet vid
+4\. Kommunen ansvarar för att utse en kontaktperson i syfte att bistå projektet vid
 eventuella frågor samt att bevaka Kommunens intressen, se § 10, avseende
 åtgärden.
 
@@ -7015,16 +7015,16 @@ att vara giltiga.
 Tvist avseende tillämpning eller tolkning av detta avtal ska avgöras av allmän domstol
 enligt svensk lag.
 
-____________________________________________________________
+\____________________________________________________________
 
 Detta avtal är upprättat i två (2) likalydande exemplar varav parterna tagit var sitt.
 
 För Trafikverket               För Kungsbacka kommun
 
-_________________________      _________________________
+\_________________________      _________________________
 Ort och datum                  Ort och datum
 
-_________________________      _________________________
+\_________________________      _________________________
 Jörgen Einarsson
 Regional direktör
 
@@ -7644,9 +7644,9 @@ Kommunens skyldighet att ordna vattentjänster
 vattenförsörjning eller avlopp i ett större sammanhang för en viss befintlig eller blivande
 bebyggelse, ska kommunen
 
-1. bestämma det verksamhetsområde inom vilket vattentjänsten eller vattentjänsterna
+1\. bestämma det verksamhetsområde inom vilket vattentjänsten eller vattentjänsterna
 behöver ordnas, och
-2. se till att behovet snarast, och så länge behovet finns kvar, tillgodoses i
+2\. se till att behovet snarast, och så länge behovet finns kvar, tillgodoses i
 verksamhetsområdet genom en allmän va-anläggning.
 
 Vid bedömningen av behovet enligt första stycket ska särskild hänsyn tas till
@@ -7691,9 +7691,9 @@ Planen är inte bindande. Lag (2022:1249).
 6 c § Utöver det förfarande som följer av bestämmelserna om strategiska
 miljöbedömningar av planer och program i 6 kap. miljöbalken ska kommunen
 innan den antar eller ändrar en vattentjänstplan
-1. på lämpligt sätt och i skälig omfattning samråda med de fastighetsägare
+1\. på lämpligt sätt och i skälig omfattning samråda med de fastighetsägare
 och myndigheter som kan antas ha ett väsentligt intresse av planen, och
-2. ställa ut ett förslag till plan för granskning under minst fyra veckor.
+2\. ställa ut ett förslag till plan för granskning under minst fyra veckor.
 
 Kommunen ska informera om utställningen på sin anslagstavla före
 utställningstidens början. Informationen ska innehålla uppgift om förslagets
@@ -8510,7 +8510,7 @@ kallade SPU-områden.
 av SIWI Swedish Water House och Livsmedelsverket om klimatförändringar,
 klimatanpassning, vatten och samhällsplanering.
 30 P110 Avledning av dag-, drän- och spillvatten. Svenskt Vatten Publikationer. Utgiven Jan
-2019.
+2019\.
 31 Plan för Tillskottsvatten 2019. Kungsbacka Kommun.
 
 Kungsbacka kommun              Styrande dokument               28 (36)
@@ -8518,9 +8518,9 @@ Kungsbacka kommun              Styrande dokument               28 (36)
 <!-- sida 204 -->
 
 Områden prioriteras utefter:
-1. Inkommande flöden till avloppsreningsverk
-2. Bräddningar på pumpstationer
-3. Mätningar på ledningsnät
+1\. Inkommande flöden till avloppsreningsverk
+2\. Bräddningar på pumpstationer
+3\. Mätningar på ledningsnät
 
 Arbetets undersökningsmetoder innefattar rökning och färgning av fastigheters
 anslutningar för att detektera om dagvatten är kopplat på spillvattenledning (det blir
@@ -8546,12 +8546,12 @@ Tillskottsvatten 2019, en femårsplan32.
 Åtgärdsarbetet med tillskottsvattnet följs upp enligt Förnyelseplanens 4 indikatorer
 för uppföljningen av arbetet med tillskottsvatten.
 
-1. Årstrenden för inkommande volymer tillskottsvatten till ARV:en, (exempel i Figur
+1\. Årstrenden för inkommande volymer tillskottsvatten till ARV:en, (exempel i Figur
 6).
-2. Årstrend för bräddningar från pumpstationer
+2\. Årstrend för bräddningar från pumpstationer
 
-3. Årstrend för FRC (Fast Response Component) in till verken och
-4. Antal fastigheter som undersöks varje år och hur många felkopplade fastigheter
+3\. Årstrend för FRC (Fast Response Component) in till verken och
+4\. Antal fastigheter som undersöks varje år och hur många felkopplade fastigheter
 som kopplas bort.
 
 32 Plan för Tillskottsvatten 2019. Kungsbacka Kommun.
@@ -9006,10 +9006,10 @@ att en hållbar utveckling främjas och måste ha genomgått en strategisk
 miljökonsekvensbeskrivning förenlig med Miljöbalkens bestämmelser.
 Kommunfullmäktige beslutar om antagande och ändring av en vattentjänstplan.
 Innan den antas eller ändras ska Vattentjänstplanen:
-1. på lämpligt sätt och i skälig omfattning samrådas med de fastighetsägare och
+1\. på lämpligt sätt och i skälig omfattning samrådas med de fastighetsägare och
 myndigheter som kan antas ha ett väsentligt intresse av planen, och
 
-2. ställa ut ett förslag till plan för granskning under minst fyra veckor.
+2\. ställa ut ett förslag till plan för granskning under minst fyra veckor.
 
 Kommunen ska informera om utställningen på sin anslagstavla före
 utställningstidens början. Informationen ska innehålla uppgift om förslagets

@@ -28,7 +28,7 @@ tolkade: null
 Nämnden för Miljö & Hälsokydd
 Moderaterna – Kristdemokraterna – Liberalerna - Centern
 
-__________________________________________________________________________________
+\__________________________________________________________________________________
 
 Initiativ 2025-01-23
 
@@ -37,14 +37,14 @@ Bakgrund
 I kommunen har vi en hel del fastigheter som har minireningsverk. Från de största företagen är det
 (enligt uppgift) 487 st., fördelade på nedan tillverkare:
 
-1. Baga: 171 st
+1\. Baga: 171 st
 
-2. WSB clean: 113 st
-3. Biovac: 97 st
+2\. WSB clean: 113 st
+3\. Biovac: 97 st
 
-4. Klargeister: 63 st
+4\. Klargeister: 63 st
 
-5. Topas: 43 st
+5\. Topas: 43 st
 
 Fastighetsägaren tecknar ett serviceavtal med företaget där företagets ansvar är att installationen
 renar avloppet enligt de föreskrifter som ingår i avtalet.
@@ -61,9 +61,9 @@ områden eller fastigheter i kommunen som påverkar vårt vatten på ett negativ
 
 Alliansen i Kungsbacka yrkar på följande:
 
--  Att förvaltningen undersöker möjligheten att samarbeta med näringslivet för en effektivare
+\-  Att förvaltningen undersöker möjligheten att samarbeta med näringslivet för en effektivare
 tillsyn av avloppsrening för små avlopp, vad gäller minireningsverk.
--  Att förvaltningen redovisar utfallet senast till nämndens sammanträde den 8 maj 2025.
+\-  Att förvaltningen redovisar utfallet senast till nämndens sammanträde den 8 maj 2025.
 
 Alliansen Kungsbacka
 Niclas Nilsson (M) Ordförande
@@ -215,10 +215,10 @@ Kungsbacka kommun             Rapport                           3
 
 Årets analys av personuppgiftsincidenter gjordes för år 2023. Resultatet visade tre tydliga trender;
 
-1. Antal anmälningar ökar
-2. Ett stort antal händelser anmäls som inte utgör personuppgiftsincidenter
+1\. Antal anmälningar ökar
+2\. Ett stort antal händelser anmäls som inte utgör personuppgiftsincidenter
 
-3. Mänskliga faktorn är den främsta orsaken till att incidenter sker
+3\. Mänskliga faktorn är den främsta orsaken till att incidenter sker
 Ovan nämnda mall är en del i arbetet för att minska antalet incidenter. Skapa förståelse och
 eftertanke varför incidenter sker och förvaltningen fortsätter skapa och förbättra rutiner för att
 
@@ -255,11 +255,11 @@ Freja eID är en godkänd e-legitimation som används vid legitimering.
 
 1.6 Behörighetsrutiner
 
--  Kontroll av behörighet till EDP Vision. Loggning har utförts två gånger under året av
+\-  Kontroll av behörighet till EDP Vision. Loggning har utförts två gånger under året av
 systemförvaltaren.
--  Kontroll av behörighet till Ciceron.
+\-  Kontroll av behörighet till Ciceron.
 
--  Kontroll av behörighet till Bygg- och miljöförvaltningens fysiska arkiv.
+\-  Kontroll av behörighet till Bygg- och miljöförvaltningens fysiska arkiv.
 
 Kungsbacka kommun             Rapport                           4
 
@@ -308,7 +308,7 @@ Uppföljningen bör minst omfatta parternas rutiner för behörighets-, identite
 pseudonymisering, samt motsvarande säkerhetsåtgärder hos eventuella underleverantörer.
 
 Dataskyddskontakt har planerat in att arbete skall ske med dessa åtgärder under första kvartalet år
-2025.
+2025\.
 
 1.9 Omvärldsanalys
 Syftet med en omvärldsanalys är att hjälpa oss att förstå och se trender som förändrar omvärlden
@@ -402,11 +402,11 @@ fram tydliga riktlinjer. Samtidigt expanderar användningen av drönarteknik.
 
 Förvaltningen planerar för att fortsätta att arbeta för ett fullgott dataskydd i sitt dataskyddsarbete för
 år 2025.
--  Arbeta med åtgärdsförslag efter Dataskyddsombudets granskning 2024
+\-  Arbeta med åtgärdsförslag efter Dataskyddsombudets granskning 2024
 
--  Skapa nytt behandlingsregister
--  Analys av personuppgiftsincidenter år 2024
+\-  Skapa nytt behandlingsregister
+\-  Analys av personuppgiftsincidenter år 2024
 
--  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”.
+\-  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”.
 
 Kungsbacka kommun             Rapport                           7

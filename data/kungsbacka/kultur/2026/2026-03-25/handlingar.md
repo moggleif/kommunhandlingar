@@ -696,11 +696,11 @@ eller ledning känner till det, eller situationer där föreningen inte vidtar
 ändamål
   Brott mot ANDTS-policyn
 
--  Doping och dopning3 hos enskilda individer inom föreningen
--  Tillåtande attityd gentemot spel om pengar
+\-  Doping och dopning3 hos enskilda individer inom föreningen
+\-  Tillåtande attityd gentemot spel om pengar
   Brott mot föreningens policy för att förebygga psykiskt och fysiskt våld,
 inklusive kränkningar, mobbning och användning av grovt språk
--  Kränkande beteende från ledare gentemot medlem eller medlemmar.
+\-  Kränkande beteende från ledare gentemot medlem eller medlemmar.
 Kränkande beteende mellan medlemmar. Negativ kultur i föreningen.
   Underlåtenhet att kontrollera registerutdrag ur belastningsregistret för
 personer som ska arbeta med barn och ungdomar.
@@ -1600,7 +1600,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 48 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 Som delegat avses anställd med tillsvidareanställning. Vikarie eller annan
@@ -1635,12 +1635,12 @@ Ersättare för nämndens ordförande
 Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 Vid förfall för övriga delegater
 
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
 ska framgå av ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -1669,12 +1669,12 @@ delegering. Däremot kan nämnden återta sitt beslut att delegera en viss typ a
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut
 som delegaten har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
--  Beslut att avge yttrande till högre instans med anledning av överklagande
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande
 
 av delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut
 inte får genomföras i avvaktan på prövning).
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om arbetsutskottet har fått
 delegation undertecknas handling som beslutet avser av arbetsutskottets
 ordförande och förvaltningschefen.
@@ -1787,7 +1787,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.1.11 | GDPR artikel<br>33 och 34 | Anmälan av personuppgiftsincident till<br>tillsynsmyndigheten. | Dsk | I samråd med enhetschef och systemförvaltare |
 | 2.1.12 | GDPR artikel<br>35 | Beslut med anledning av konsekvensbedömning<br>avseende dataskydd | Fc |  |
 | 2.1.13 | GDPR artikel<br>37 | Utnämna dataskyddsombud för nämnden. | Fc |  |
-| 2.1.14 | Nämndens<br>budget,<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroende-<br>valda | Deltagande i aktivitet* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>*I samma dokument som ovan framgår vilka<br>aktiviteter som avses. |
+| 2.1.14 | Nämndens<br>budget,<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroende-<br>valda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår vilka<br>aktiviteter som avses. |
 
 <!-- sida 53 -->
 
@@ -1943,16 +1943,16 @@ eller i lag och som tävlar i en Kungsbackaförening. Priset har sin bakgrund i 
 tenntallrik som instiftades redan 1975 och delas årligen ut av kommunfullmäktige.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i Kungsbackaförening b.
+1\. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i Kungsbackaförening b.
 bosatt i Kungsbacka kommun, men tävlande för förening utanför Kungsbacka och har som enskild
 eller genom lag erövrat ett svenskt mästerskap eller nått en ännu större framgång.
-2. Priset utdelas endast en gång till en och samma person.
+2\. Priset utdelas endast en gång till en och samma person.
 
-3. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till
+3\. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till
 priset.
 
-4. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
-5. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
+4\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
+5\. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
 nämnden för Kultur & Fritids ordförande samt kommunfullmäktiges ordförande.
 
 Beslutsunderlag
@@ -1988,27 +1988,27 @@ lag och som tävlar i en Kungsbackaförening. Priset har sin bakgrund i priset K
 instiftades redan 1975 och delas årligen ut av kommunfullmäktige.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Kungsbackas mästare är antingen:
+1\. Berättigad att erhålla priset Kungsbackas mästare är antingen:
 a. medlem i Kungsbackaförening
 b. bosatt i Kungsbacka kommun, men tävlande för förening utanför Kungsbacka
 och har som enskild eller genom lag erövrat ett svenskt mästerskap eller nått en ännu större framgång.
-2. Priset utdelas endast en gång till en och samma person.
-3. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till priset.
-4. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
-5. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
+2\. Priset utdelas endast en gång till en och samma person.
+3\. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem som är berättigad till priset.
+4\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna utse pristagare.
+5\. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni och verkställs av
 nämnden för Kultur & Fritids ordförande samt kommunfullmäktiges ordförande.
 
 Bedömningsvillkor
 Med mästerskap eller större framgång räknas:
 
-- Officiellt Mästerskap för till Riksidrottsförbundet (RF) anslutna organisationer sanktionerade av RF
-- Svensk Skolmästare
-- Svensk Juniormästare
-- Svensk Mästare
-- Nordisk Mästare
-- Europamästare
-- Världsmästare
-- OS mästare
+\- Officiellt Mästerskap för till Riksidrottsförbundet (RF) anslutna organisationer sanktionerade av RF
+\- Svensk Skolmästare
+\- Svensk Juniormästare
+\- Svensk Mästare
+\- Nordisk Mästare
+\- Europamästare
+\- Världsmästare
+\- OS mästare
 
 Med vinst som avser innevarande år
 
@@ -2057,9 +2057,9 @@ KFT-2026-00058
 Förslag till beslut i nämnden för Kultur & Fritid
 Nämnden för Kultur & Fritid beslutar att
 
--  utse XXX som Årets förnyare 2025.
+\-  utse XXX som Årets förnyare 2025.
 
--  offentliggöra XXX, XXX och XXX som finalister.
+\-  offentliggöra XXX, XXX och XXX som finalister.
 
 Sammanfattning av ärendet
 Med priset Årets förnyare vill nämnden för Kultur & Fritid uppmärksamma modigt och kreativt
@@ -2067,11 +2067,11 @@ Med priset Årets förnyare vill nämnden för Kultur & Fritid uppmärksamma mod
 utvecklingsarbete hos aktörer som verkar inom något av nämndens ansvarsområden.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
+1\. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
 Kungsbacka kommun som är verksam inom något av nämnden för Kultur & Fritids ansvarsområden
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 Bedömningsvillkor
 
@@ -2112,10 +2112,10 @@ utvecklingsarbete hos aktörer som verkar inom något av nämndens ansvarsområd
 
 Allmänna bestämmelser
 
-1.  Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
+1\.  Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med anknytning till
 Kungsbacka kommun som är verksam inom något av nämnden för Kultur & Fritids ansvarsområden
-2.  Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3.  Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+2\.  Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\.  Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -2168,10 +2168,10 @@ KFT-2026-00057
 Förslag till beslut i nämnden för Kultur & Fritid
 Nämnden för Kultur & Fritid beslutar att
 
--  utse XXX som Årets förening 2025.
+\-  utse XXX som Årets förening 2025.
 
--  offentliggöra pristagare vid prisceremonin.
--  nominera XXX, XXX och XXX till finalister.
+\-  offentliggöra pristagare vid prisceremonin.
+\-  nominera XXX, XXX och XXX till finalister.
 
 Sammanfattning av ärendet
 
@@ -2181,11 +2181,11 @@ Med priset Årets förening vill nämnden för Kultur & Fritid uppmärksamma och
 Kungsbacka kommun som på ett framgångsrikt sätt bedriver sin verksamhet.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av nämnden för
+1\. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av nämnden för
 Kultur & Fritids ansvarsområden. b. med anknytning till Kungsbacka kommun.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 Bedömningsvillkor
 
@@ -2228,11 +2228,11 @@ Med priset Årets förening vill nämnden för Kultur & Fritid uppmärksamma och
 Kungsbacka kommun som på ett framgångsrikt sätt bedriver sin verksamhet.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets förening är:
+1\. Berättigad att erhålla priset Årets förening är:
 a. Förening verksam inom något av nämnden för Kultur & Fritids ansvarsområden.
 b. med anknytning till Kungsbacka kommun.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
 
 & Fritids ordförande.
 
@@ -2285,9 +2285,9 @@ KFT-2026-00056
 Förslag till beslut i nämnden för Kultur & Fritid
 Nämnden för Kultur & Fritid beslutar att
 
--  utse XXX
+\-  utse XXX
 
--  offentliggöra pristagaren vid prisceremonin.
+\-  offentliggöra pristagaren vid prisceremonin.
 Nominera XXX som finalister.
 
 Sammanfattning av ärendet
@@ -2296,11 +2296,11 @@ Med priset Årets eldsjäl vill nämnden för Kultur & Fritid uppmärksamma bety
 kraft som verkar inom något av nämndens ansvarsområde.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka kommun. b. medlem i
+1\. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka kommun. b. medlem i
 Kungsbackaförening
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -2340,12 +2340,12 @@ Med priset Årets eldsjäl vill nämnden för Kultur & Fritid uppmärksamma bety
 som verkar inom något av nämndens ansvarsområde.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets eldsjäl är antingen:
+1\. Berättigad att erhålla priset Årets eldsjäl är antingen:
 a. bosatt i Kungsbacka kommun.
 
 b. medlem i Kungsbackaförening
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för Kultur
 & Fritids ordförande.
 
 Bedömningsvillkor
@@ -2395,9 +2395,9 @@ KFT-2026-00090
 Förslag till beslut i nämnden för Kultur & Fritid
 Nämnden för Kultur & Fritid beslutar att
 
--  utse XXX som Årets volontär 2025.
+\-  utse XXX som Årets volontär 2025.
 
--  offentliggöra XXX, XXX och XXX som finalister.
+\-  offentliggöra XXX, XXX och XXX som finalister.
 
 Sammanfattning av ärendet
 Med priset Årets volontär vill nämnden för Kultur & Fritid uppmärksamma och hylla det ideella
@@ -2405,13 +2405,13 @@ Med priset Årets volontär vill nämnden för Kultur & Fritid uppmärksamma och
 engagemang som gör skillnad i samhället.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets volontär är person som utfört sin insats på uppdrag av
+1\. Berättigad att erhålla priset Årets volontär är person som utfört sin insats på uppdrag av
 Kungsbacka kommun under det år som nomineringsperioden gäller. Personen är en inspirerande
 kraft som bidrar till gemenskap, meningsfullhet och utveckling i sin omgivning.
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs av nämnden för
 Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -2485,10 +2485,10 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att:
 
--  utse XXX som 2025 års kulturpristagare.
--  offentliggöra pristagaren vid prisceremonin.
+\-  utse XXX som 2025 års kulturpristagare.
+\-  offentliggöra pristagaren vid prisceremonin.
 
--  nominera XXX, XXX och XXX till finalister.
+\-  nominera XXX, XXX och XXX till finalister.
 
 Sammanfattning av ärendet
 
@@ -2527,14 +2527,14 @@ s i L CJ j Xx AA
 
 H id Vr VV / j
 
-$ 17 - AH 7” i / / 2
+\$ 17 - AH 7” i / / 2
 
 Korrigering i bestämmelse för Kungsbacka kommuns
 kulturpris
 
 Beslut
 
-Ändra formuleringen i bestämmelserna $ 9 att sista ansökningsdag ska vara
+Ändra formuleringen i bestämmelserna \$ 9 att sista ansökningsdag ska vara
 ”nämnden tillhanda senast 1 mars”.
 
 Nämnden godkänner den begränsade revideringen av bestämmelserna, som
@@ -2546,12 +2546,12 @@ Senaste uppdatering av bestämmelserna för Kungsbacka kommuns kulturpris är fr
 2001-03-27.
 
 Förutsättningarna för kulturpriset framstår som tydliga. Prissumman förändrades av
-nämnden för 2008 års pristagare till 10 tkr i stället för tidigare 6 tkr. Ordalydelsen i $
+nämnden för 2008 års pristagare till 10 tkr i stället för tidigare 6 tkr. Ordalydelsen i \$
 4 upplevs som korrekt, då ett pris kan utdelas till fler än en person och beloppet 5 tkr
 som lägsta belopp kan fortfara att gälla vid flera pris.
 
 Under senare år har det mer och mer framstått att datumet 1 februari för sista dag för
-inlämnande av förslag enligt $ 5 i stadgarna är lite för tidigt satt på året. För att på
+inlämnande av förslag enligt \$ 5 i stadgarna är lite för tidigt satt på året. För att på
 bästa sätt hinna informera och marknadsföra priset bör ett något senare datum för
 sista förslagsdag bli gällande.
 
@@ -2567,7 +2567,7 @@ Förvaltningschef Elisabeth Lax redogör för ärendet.
 Förslag till beslut
 
 Nämnden för Kultur & Turism föreslås besluta att ändra formuleringen i
-bestämmelsernas $ 5 innebärande att sista inlämningsdag av förslag till kommunens
+bestämmelsernas \$ 5 innebärande att sista inlämningsdag av förslag till kommunens
 kulturpris ska vara den 1 mars.
 
 Justerare, ) | Expedierat/bestyrkt
@@ -2586,9 +2586,9 @@ Ledarstipendium 2026
 Förslag till beslut i nämnden för Kultur & Fritid
 Nämnden för Kultur & Fritid beslutar att:
 
--  XXX tilldelas 2026 års ledarstipendium.
+\-  XXX tilldelas 2026 års ledarstipendium.
 
--  ledarstipendiaten offentliggörs vid prisceremonin.
+\-  ledarstipendiaten offentliggörs vid prisceremonin.
 
 Sammanfattning av ärendet
 Bakgrund
@@ -2599,13 +2599,13 @@ som är en viktig person i aktuell förening.
 Allmänna bestämmelser
 Berättigad att erhålla stipendiet är:
 
-1. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i
+1\. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i
 nämnden för Kultur & Fritids föreningsregister.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
 
-3. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna
+3\. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna
 organisationens verksamhet.
-4. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni. Bedömningsvillkor
+4\. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni. Bedömningsvillkor
 
 Mottagare av stipendiet är en ungdomsledare inom det lokala föreningslivet, som på ett förtjänstfullt
 sätt medverkar till att skapa en meningsfull fritidssysselsättning för ungdomar i kommunen.
@@ -2649,12 +2649,12 @@ Stipendiet uppmärksammar ideella ledare som aktivt arbetar med ideella uppdrag 
 
 Allmänna bestämmelser
 Berättigad att erhålla stipendiet är:
-1. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i nämnden
+1\. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är bidragsberättigad förening i nämnden
 för Kultur & Fritids föreningsregister.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
-3. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna organisationens
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
+3\. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den egna organisationens
 verksamhet.
-4. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
+4\. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
 
 Bedömningsvillkor
 Mottagare av stipendiet är en ungdomsledare inom det lokala föreningslivet, som på ett förtjänstfullt sätt
@@ -2703,8 +2703,8 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid beslutar att:
 
--  2026 års idrottsstipendium tilldelas XXX och XXX
--  offentliggöra stipendiaterna vid prisceremonin.
+\-  2026 års idrottsstipendium tilldelas XXX och XXX
+\-  offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 
@@ -2749,14 +2749,14 @@ Stipendiet ska uppmuntra ungdomar som vill vidareutveckla sig inom sin idrott.
 
 Allmänna bestämmelser
 
-1. Berättigad att erhålla stipendiet är den som är:
+1\. Berättigad att erhålla stipendiet är den som är:
 
 a. Under 26 år och
 b. Född och/eller bosatt i Kungsbacka kommun.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiater.
-3. Stipendiet delas ut till två personer/år
-4. Stipendiet riktas endast till enskilda personer.
-5. Stipendiet utdelas årligen ut under Kultur & Fritids prisceremoni.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiater.
+3\. Stipendiet delas ut till två personer/år
+4\. Stipendiet riktas endast till enskilda personer.
+5\. Stipendiet utdelas årligen ut under Kultur & Fritids prisceremoni.
 
 Bedömningsvillkor
 
@@ -2820,8 +2820,8 @@ Kulturstipendium 2026
 Förslag till beslut i nämnden för Kultur & Fritid
 Nämnden för Kultur & Fritid beslutar att:
 
--  tilldela XXX och XXX 2026 års kulturstipendium.
--  offentliggöra stipendiaterna vid prisceremonin.
+\-  tilldela XXX och XXX 2026 års kulturstipendium.
+\-  offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 
@@ -2867,7 +2867,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Kultur & Turism SAMMANTRÄDESPROTOKOLL 10 (20)
 Sammanträdesdatum
 2007-09-25
-$78 Kt97-00305/
+\$78 Kt97-00305/
 
 Inrättande av Kulturstipendier för ungdom
 
@@ -2925,7 +2925,7 @@ Sammanträdesdatum
 
 2007-09-25
 
-$ 78 forts
+\$ 78 forts
 
 Beslutsunderlag
 
@@ -3143,11 +3143,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3000 Nämnden för Kultur & Fritid |  |  |  |  |  |  |  | nina.magnusson | Ersättare för beslut | 2023-10-11 |  |
 | 3000 Nämnden för Kultur & Fritid |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2020-06-15 |  |
 | 3000 Nämnden för Kultur & Fritid |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3000 Nämnden för Kultur & Fritid | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3000 Nämnden för Kultur & Fritid | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3000 Nämnden för Kultur & Fritid |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3000 Nämnden för Kultur & Fritid | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3000 Nämnden för Kultur & Fritid | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3000 Nämnden för Kultur & Fritid | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3000 Nämnden för Kultur & Fritid | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3000 Nämnden för Kultur & Fritid | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3000 Nämnden för Kultur & Fritid | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3020 Förvaltningsledning |  |  |  |  |  |  |  | karl.persson | Beslut/Godkännare | 2022-10-17 |  |
 | 3020 Förvaltningsledning |  |  |  |  |  |  |  | lisa.hakansson | Ersättare för beslut | 2023-01-16 |  |
 | 3020 Förvaltningsledning |  |  |  |  |  |  |  | malin.fjellstrom | Ersättare för beslut | 2020-06-15 |  |
@@ -3155,65 +3155,65 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3020 Förvaltningsledning |  |  |  |  |  |  |  | nina.magnusson | Ersättare för beslut | 2023-10-11 |  |
 | 3020 Förvaltningsledning |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2020-06-15 |  |
 | 3020 Förvaltningsledning |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3020 Förvaltningsledning | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3020 Förvaltningsledning | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3020 Förvaltningsledning |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2020-06-15 |  |
 | 3020 Förvaltningsledning |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3020 Förvaltningsledning | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3020 Förvaltningsledning | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3020 Förvaltningsledning | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3020 Förvaltningsledning | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3020 Förvaltningsledning | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3020 Förvaltningsledning | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3040 Föreningsstöd |  |  |  |  |  |  |  | andreas.hogfeldt | Beslut/Godkännare | 2024-03-01 |  |
 | 3040 Föreningsstöd |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3040 Föreningsstöd |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3040 Föreningsstöd | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3040 Föreningsstöd | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3040 Föreningsstöd |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3040 Föreningsstöd | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3040 Föreningsstöd | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3040 Föreningsstöd | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3040 Föreningsstöd | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3040 Föreningsstöd | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3040 Föreningsstöd | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3040 Föreningsstöd |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2024-03-01 |  |
 | 3041 Idrottshallar, int |  |  |  |  |  |  |  | andreas.hogfeldt | Beslut/Godkännare | 2024-03-01 |  |
 | 3041 Idrottshallar, int |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3041 Idrottshallar, int |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3041 Idrottshallar, int | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3041 Idrottshallar, int | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3041 Idrottshallar, int |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3041 Idrottshallar, int | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3041 Idrottshallar, int | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3041 Idrottshallar, int | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3041 Idrottshallar, int | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3041 Idrottshallar, int | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3041 Idrottshallar, int | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3041 Idrottshallar, int |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2024-03-01 |  |
 | 3042 Idrottslokaler, int |  |  |  |  |  |  |  | andreas.hogfeldt | Beslut/Godkännare | 2024-03-01 |  |
 | 3042 Idrottslokaler, int |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3042 Idrottslokaler, int |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3042 Idrottslokaler, int | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3042 Idrottslokaler, int | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3042 Idrottslokaler, int |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3042 Idrottslokaler, int | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3042 Idrottslokaler, int | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3042 Idrottslokaler, int | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3042 Idrottslokaler, int | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3042 Idrottslokaler, int | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3042 Idrottslokaler, int | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3042 Idrottslokaler, int |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2024-03-01 |  |
 | 3043 Idrottsanläggningar, int |  |  |  |  |  |  |  | andreas.hogfeldt | Beslut/Godkännare | 2024-03-01 |  |
 | 3043 Idrottsanläggningar, int |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3043 Idrottsanläggningar, int |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3043 Idrottsanläggningar, int | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3043 Idrottsanläggningar, int | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3043 Idrottsanläggningar, int |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3043 Idrottsanläggningar, int | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3043 Idrottsanläggningar, int | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3043 Idrottsanläggningar, int | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3043 Idrottsanläggningar, int | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3043 Idrottsanläggningar, int | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3043 Idrottsanläggningar, int | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3043 Idrottsanläggningar, int |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2024-03-01 |  |
 | 3044 Ishallar, int |  |  |  |  |  |  |  | andreas.hogfeldt | Beslut/Godkännare | 2024-03-01 |  |
 | 3044 Ishallar, int |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3044 Ishallar, int |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3044 Ishallar, int | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3044 Ishallar, int | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3044 Ishallar, int |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3044 Ishallar, int | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3044 Ishallar, int | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3044 Ishallar, int | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3044 Ishallar, int | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3044 Ishallar, int | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3044 Ishallar, int | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3044 Ishallar, int |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2024-03-01 |  |
 | 3046 Föreningsservice |  |  |  |  |  |  |  | andreas.hogfeldt | Beslut/Godkännare | 2024-03-01 |  |
 | 3046 Föreningsservice |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3046 Föreningsservice |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2016-09-12 |  |
-| 3046 Föreningsservice | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3046 Föreningsservice | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3046 Föreningsservice |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3046 Föreningsservice | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3046 Föreningsservice | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3046 Föreningsservice | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3046 Föreningsservice | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3046 Föreningsservice | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3046 Föreningsservice | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3046 Föreningsservice |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2024-03-01 |  |
 | 3047 Föreningslokaler |  |  |  |  |  |  |  | andreas.hogfeldt | Beslut/Godkännare | 2024-03-01 |  |
 
@@ -3223,39 +3223,39 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 
 | 3047 Föreningslokaler |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3047 Föreningslokaler | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3047 Föreningslokaler | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3047 Föreningslokaler |  |  |  |  |  |  |  | malin.fjellstrom | Omföring | 2026-01-01 |  |
 | 3047 Föreningslokaler |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2026-01-01 |  |
-| 3047 Föreningslokaler | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3047 Föreningslokaler | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3047 Föreningslokaler | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3047 Föreningslokaler | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3047 Föreningslokaler | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3047 Föreningslokaler | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3047 Föreningslokaler |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2024-03-01 |  |
 | 3048 Ridanläggningar |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2024-02-05 |  |
 | 3048 Ridanläggningar |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3048 Ridanläggningar |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
-| 3048 Ridanläggningar | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
-| 3048 Ridanläggningar | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3048 Ridanläggningar | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3048 Ridanläggningar | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3048 Ridanläggningar | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3048 Ridanläggningar | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3048 Ridanläggningar | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3048 Ridanläggningar | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3049 Hållbar hälsa |  |  |  |  |  |  |  | andreas.hogfeldt | Beslut/Godkännare | 2024-03-01 |  |
 | 3049 Hållbar hälsa |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3049 Hållbar hälsa |  |  |  |  |  |  |  | lena.ottosson | Inkomst | 2023-10-01 |  |
 | 3049 Hållbar hälsa |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2023-10-01 |  |
 | 3049 Hållbar hälsa |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2023-10-01 |  |
-| 3049 Hållbar hälsa | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3049 Hållbar hälsa | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3049 Hållbar hälsa | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3049 Hållbar hälsa | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3049 Hållbar hälsa | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3049 Hållbar hälsa | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3049 Hållbar hälsa |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2024-03-01 |  |
 | 3080 Anläggningar |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2019-09-30 |  |
 | 3080 Anläggningar |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3080 Anläggningar |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3080 Anläggningar |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2019-09-30 |  |
 | 3080 Anläggningar |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3080 Anläggningar | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3080 Anläggningar | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3080 Anläggningar |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3080 Anläggningar | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3080 Anläggningar | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3080 Anläggningar | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3080 Anläggningar | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3080 Anläggningar | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3080 Anläggningar | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3100 Fritid & mötesplatser gemensam |  |  |  |  |  |  |  | marie.persson | Beslut/Godkännare | 2023-10-01 |  |
 | 3100 Fritid & mötesplatser gemensam |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3100 Fritid & mötesplatser gemensam |  |  |  |  |  |  |  | lisa.hakansson | Ersättare för beslut | 2023-10-01 |  |
@@ -3264,49 +3264,49 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3100 Fritid & mötesplatser gemensam |  |  |  |  |  |  |  | lena.ottosson | Inkomst | 2023-10-01 |  |
 | 3100 Fritid & mötesplatser gemensam |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2023-10-01 |  |
 | 3100 Fritid & mötesplatser gemensam |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2023-10-01 |  |
-| 3100 Fritid & mötesplatser gemensam | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3100 Fritid & mötesplatser gemensam | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3100 Fritid & mötesplatser gemensam | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3100 Fritid & mötesplatser gemensam | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3100 Fritid & mötesplatser gemensam | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3100 Fritid & mötesplatser gemensam | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3205 Bad, idrott & motion |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2019-09-30 |  |
 | 3205 Bad, idrott & motion |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3205 Bad, idrott & motion |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3205 Bad, idrott & motion |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2017-01-01 |  |
 | 3205 Bad, idrott & motion |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3205 Bad, idrott & motion | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3205 Bad, idrott & motion | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3205 Bad, idrott & motion |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3205 Bad, idrott & motion | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3205 Bad, idrott & motion | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3205 Bad, idrott & motion | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3205 Bad, idrott & motion | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3205 Bad, idrott & motion | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3205 Bad, idrott & motion | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3206 El anläggningar |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2019-09-30 |  |
 | 3206 El anläggningar |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3206 El anläggningar |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3206 El anläggningar |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2017-01-01 |  |
 | 3206 El anläggningar |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3206 El anläggningar | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3206 El anläggningar | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3206 El anläggningar |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3206 El anläggningar | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3206 El anläggningar | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3206 El anläggningar | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3206 El anläggningar | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3206 El anläggningar | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3206 El anläggningar | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3208 Simhallar |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2020-01-01 |  |
 | 3208 Simhallar |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3208 Simhallar |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3208 Simhallar |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2020-01-01 |  |
 | 3208 Simhallar |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2024-01-01 |  |
-| 3208 Simhallar | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3208 Simhallar | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3208 Simhallar |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2024-01-01 |  |
-| 3208 Simhallar | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3208 Simhallar | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3208 Simhallar | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3208 Simhallar | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3208 Simhallar | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3208 Simhallar | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3209 Ishallar |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2020-01-01 |  |
 | 3209 Ishallar |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3209 Ishallar |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3209 Ishallar |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2020-01-01 |  |
 | 3209 Ishallar |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2024-01-01 |  |
-| 3209 Ishallar | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3209 Ishallar | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3209 Ishallar |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2024-01-01 |  |
-| 3209 Ishallar | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3209 Ishallar | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3209 Ishallar | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3209 Ishallar | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3209 Ishallar | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3209 Ishallar | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2021-02-01 |  |
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3320,116 +3320,116 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | lena.ottosson | Inkomst | 2024-01-01 |  |
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2024-01-01 |  |
 | 3210 Kungsbacka Sporthall |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2024-01-01 |  |
-| 3210 Kungsbacka Sporthall | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3210 Kungsbacka Sporthall | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3210 Kungsbacka Sporthall | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3210 Kungsbacka Sporthall | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3210 Kungsbacka Sporthall | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3210 Kungsbacka Sporthall | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3221 Parkour & gymnastikhall |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2019-09-30 |  |
 | 3221 Parkour & gymnastikhall |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3221 Parkour & gymnastikhall |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3221 Parkour & gymnastikhall |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2017-01-01 |  |
 | 3221 Parkour & gymnastikhall |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2017-01-01 |  |
-| 3221 Parkour & gymnastikhall | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3221 Parkour & gymnastikhall | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3221 Parkour & gymnastikhall |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3221 Parkour & gymnastikhall | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3221 Parkour & gymnastikhall | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3221 Parkour & gymnastikhall | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3221 Parkour & gymnastikhall | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3221 Parkour & gymnastikhall | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3221 Parkour & gymnastikhall | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3230 Idrottshallar |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2019-09-30 |  |
 | 3230 Idrottshallar |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3230 Idrottshallar |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3230 Idrottshallar |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2019-09-30 |  |
 | 3230 Idrottshallar |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3230 Idrottshallar | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3230 Idrottshallar | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3230 Idrottshallar |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3230 Idrottshallar | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3230 Idrottshallar | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3230 Idrottshallar | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3230 Idrottshallar | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3230 Idrottshallar | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3230 Idrottshallar | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3240 Idrottslokaler |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2019-09-30 |  |
 | 3240 Idrottslokaler |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3240 Idrottslokaler |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3240 Idrottslokaler |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2019-09-30 |  |
 | 3240 Idrottslokaler |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3240 Idrottslokaler | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3240 Idrottslokaler | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3240 Idrottslokaler |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3240 Idrottslokaler | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3240 Idrottslokaler | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3240 Idrottslokaler | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3240 Idrottslokaler | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3240 Idrottslokaler | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3240 Idrottslokaler | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3271 Kungsbacka Boulehall |  |  |  |  |  |  |  | jessica.wibeck | Beslut/Godkännare | 2019-09-30 |  |
 | 3271 Kungsbacka Boulehall |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2024-03-01 |  |
 | 3271 Kungsbacka Boulehall |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3271 Kungsbacka Boulehall |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2017-01-01 |  |
 | 3271 Kungsbacka Boulehall |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3271 Kungsbacka Boulehall | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3271 Kungsbacka Boulehall | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3271 Kungsbacka Boulehall |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3271 Kungsbacka Boulehall | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3271 Kungsbacka Boulehall | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3271 Kungsbacka Boulehall | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3271 Kungsbacka Boulehall | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3271 Kungsbacka Boulehall | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3271 Kungsbacka Boulehall | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3280 Kvalitet & social hållbarhet |  |  |  |  |  |  |  | lisa.hakansson | Beslut/Godkännare | 2023-01-16 |  |
 | 3280 Kvalitet & social hållbarhet |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3280 Kvalitet & social hållbarhet |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2020-06-15 |  |
 | 3280 Kvalitet & social hållbarhet |  |  |  |  |  |  |  | nina.magnusson | Ersättare för beslut | 2023-10-11 |  |
 | 3280 Kvalitet & social hållbarhet |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2020-06-15 |  |
 | 3280 Kvalitet & social hållbarhet |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2011-01-01 |  |
-| 3280 Kvalitet & social hållbarhet | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3280 Kvalitet & social hållbarhet | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3280 Kvalitet & social hållbarhet |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3280 Kvalitet & social hållbarhet | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3280 Kvalitet & social hållbarhet | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3280 Kvalitet & social hållbarhet | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3280 Kvalitet & social hållbarhet | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3280 Kvalitet & social hållbarhet | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3280 Kvalitet & social hållbarhet | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3310 Mötesplatser UiK gemensamt |  |  |  |  |  |  |  | anna.hjelm-woll | Ersättare för beslut | 2026-01-01 |  |
 | 3310 Mötesplatser UiK gemensamt |  |  |  |  |  |  |  | filip.plan | Beslut/Godkännare | 2026-01-01 |  |
-| 3310 Mötesplatser UiK gemensamt | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3310 Mötesplatser UiK gemensamt | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3310 Mötesplatser UiK gemensamt | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3310 Mötesplatser UiK gemensamt | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3310 Mötesplatser UiK gemensamt | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3310 Mötesplatser UiK gemensamt | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3310 Mötesplatser UiK gemensamt |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2026-01-01 |  |
 | 3310 Mötesplatser UiK gemensamt |  |  |  |  |  |  |  | malin.fjellström | Omföring ekonomi | 2026-01-01 |  |
 | 3310 Mötesplatser UiK gemensamt |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2026-01-01 |  |
 | 3310 Mötesplatser UiK gemensamt |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2026-01-01 |  |
 | 3311 Mötesplatser |  |  |  |  |  |  |  | anna.hjelm-woll | Ersättare för beslut | 2026-01-01 |  |
 | 3311 Mötesplatser |  |  |  |  |  |  |  | filip.plan | Beslut/Godkännare | 2026-01-01 |  |
-| 3311 Mötesplatser | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3311 Mötesplatser | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3311 Mötesplatser | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3311 Mötesplatser | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3311 Mötesplatser | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3311 Mötesplatser | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3311 Mötesplatser |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2026-01-01 |  |
 | 3311 Mötesplatser |  |  |  |  |  |  |  | malin.fjellström | Omföring ekonomi | 2026-01-01 |  |
 | 3311 Mötesplatser |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2026-01-01 |  |
 | 3311 Mötesplatser |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2026-01-01 |  |
 | 3312 Kobacka Skatehall |  |  |  |  |  |  |  | anna.hjelm-woll | Ersättare för beslut | 2026-01-01 |  |
 | 3312 Kobacka Skatehall |  |  |  |  |  |  |  | filip.plan | Beslut/Godkännare | 2026-01-01 |  |
-| 3312 Kobacka Skatehall | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3312 Kobacka Skatehall | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3312 Kobacka Skatehall | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3312 Kobacka Skatehall | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3312 Kobacka Skatehall | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3312 Kobacka Skatehall | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3312 Kobacka Skatehall |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2026-01-01 |  |
 | 3312 Kobacka Skatehall |  |  |  |  |  |  |  | malin.fjellström | Omföring ekonomi | 2026-01-01 |  |
 | 3312 Kobacka Skatehall |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2026-01-01 |  |
 | 3312 Kobacka Skatehall |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2026-01-01 |  |
 | 3320 Hållbar hälsa UiK gemensamt |  |  |  |  |  |  |  | anna.hjelm-woll | Beslut/Godkännare | 2026-01-01 |  |
 | 3320 Hållbar hälsa UiK gemensamt |  |  |  |  |  |  |  | filip.plan | Ersättare för beslut | 2026-01-01 |  |
-| 3320 Hållbar hälsa UiK gemensamt | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3320 Hållbar hälsa UiK gemensamt | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
 
 <!-- sida 97 -->
 
 [Tabell 97-1](handlingar.tabeller/97-1.csv)
 
-| 3320 Hållbar hälsa UiK gemensamt | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3320 Hållbar hälsa UiK gemensamt | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3320 Hållbar hälsa UiK gemensamt | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3320 Hållbar hälsa UiK gemensamt | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3320 Hållbar hälsa UiK gemensamt |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2026-01-01 |  |
 | 3320 Hållbar hälsa UiK gemensamt |  |  |  |  |  |  |  | malin.fjellström | Omföring ekonomi | 2026-01-01 |  |
 | 3320 Hållbar hälsa UiK gemensamt |  |  |  |  |  |  |  | marie.persson | Beslut/Godkännare | 2026-01-01 |  |
 | 3320 Hållbar hälsa UiK gemensamt |  |  |  |  |  |  |  | karl.persson | Beslut/Godkännare | 2026-01-01 |  |
 | 3321 Friskvårdsgruppen |  |  |  |  |  |  |  | anna.hjelm-woll | Beslut/Godkännare | 2026-01-01 |  |
 | 3321 Friskvårdsgruppen |  |  |  |  |  |  |  | filip.plan | Ersättare för beslut | 2026-01-01 |  |
-| 3321 Friskvårdsgruppen | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3321 Friskvårdsgruppen | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3321 Friskvårdsgruppen | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3321 Friskvårdsgruppen | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3321 Friskvårdsgruppen | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3321 Friskvårdsgruppen | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3321 Friskvårdsgruppen |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2026-01-01 |  |
 | 3321 Friskvårdsgruppen |  |  |  |  |  |  |  | malin.fjellström | Omföring ekonomi | 2026-01-01 |  |
 | 3321 Friskvårdsgruppen |  |  |  |  |  |  |  | marie.persson | Beslut/Godkännare | 2026-01-01 |  |
 | 3321 Friskvårdsgruppen |  |  |  |  |  |  |  | karl.persson | Beslut/Godkännare | 2026-01-01 |  |
 | 3322 Mötesplats Idrott |  |  |  |  |  |  |  | anna.hjelm-woll | Beslut/Godkännare | 2026-01-01 |  |
 | 3322 Mötesplats Idrott |  |  |  |  |  |  |  | filip.plan | Ersättare för beslut | 2026-01-01 |  |
-| 3322 Mötesplats Idrott | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3322 Mötesplats Idrott | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3322 Mötesplats Idrott | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3322 Mötesplats Idrott | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3322 Mötesplats Idrott | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3322 Mötesplats Idrott | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3322 Mötesplats Idrott |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2026-01-01 |  |
 | 3322 Mötesplats Idrott |  |  |  |  |  |  |  | malin.fjellström | Omföring ekonomi | 2026-01-01 |  |
 | 3322 Mötesplats Idrott |  |  |  |  |  |  |  | marie.persson | Beslut/Godkännare | 2026-01-01 |  |
@@ -3438,47 +3438,47 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3710 Ung i Kungsbacka gemensamt |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3710 Ung i Kungsbacka gemensamt |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3710 Ung i Kungsbacka gemensamt |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2016-09-12 |  |
-| 3710 Ung i Kungsbacka gemensamt | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3710 Ung i Kungsbacka gemensamt | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3710 Ung i Kungsbacka gemensamt |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3710 Ung i Kungsbacka gemensamt | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3710 Ung i Kungsbacka gemensamt | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3710 Ung i Kungsbacka gemensamt | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3710 Ung i Kungsbacka gemensamt | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3710 Ung i Kungsbacka gemensamt | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3710 Ung i Kungsbacka gemensamt | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3711 Mötesplatser |  |  |  |  |  |  |  | anna.hjelm-woll | Beslut/Godkännare | 2023-01-16 |  |
 | 3711 Mötesplatser |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3711 Mötesplatser |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3711 Mötesplatser |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2016-09-12 |  |
-| 3711 Mötesplatser | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3711 Mötesplatser | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3711 Mötesplatser |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3711 Mötesplatser | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3711 Mötesplatser | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3711 Mötesplatser | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3711 Mötesplatser | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3711 Mötesplatser | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3711 Mötesplatser | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3715 Kobacka Skatehall |  |  |  |  |  |  |  | anna.hjelm-woll | Beslut/Godkännare | 2023-01-15 |  |
 | 3715 Kobacka Skatehall |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3715 Kobacka Skatehall |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3715 Kobacka Skatehall |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2016-09-12 |  |
-| 3715 Kobacka Skatehall | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3715 Kobacka Skatehall | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3715 Kobacka Skatehall |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3715 Kobacka Skatehall | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3715 Kobacka Skatehall | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3715 Kobacka Skatehall | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3715 Kobacka Skatehall | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3715 Kobacka Skatehall | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3715 Kobacka Skatehall | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3718 Internationellt |  |  |  |  |  |  |  | anna.hjelm-woll | Beslut/Godkännare | 2023-01-16 |  |
 | 3718 Internationellt |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3718 Internationellt |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3718 Internationellt |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2016-09-12 |  |
-| 3718 Internationellt | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3718 Internationellt | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3718 Internationellt |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3718 Internationellt | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3718 Internationellt | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3718 Internationellt | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3718 Internationellt | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3718 Internationellt | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3718 Internationellt | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3719 Mötesplats Idrott |  |  |  |  |  |  |  | anna.hjelm-woll | Beslut/Godkännare | 2023-01-15 |  |
 | 3719 Mötesplats Idrott |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3719 Mötesplats Idrott |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3719 Mötesplats Idrott |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2016-09-12 |  |
-| 3719 Mötesplats Idrott | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3719 Mötesplats Idrott | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3719 Mötesplats Idrott |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3719 Mötesplats Idrott | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3719 Mötesplats Idrott | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3719 Mötesplats Idrott | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3719 Mötesplats Idrott | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3719 Mötesplats Idrott | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3719 Mötesplats Idrott | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3720 Kulturskolan gemensamt |  |  |  |  |  |  |  | malin.mikulic | Beslut/Godkännare | 2022-01-01 |  |
 | 3720 Kulturskolan gemensamt |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3720 Kulturskolan gemensamt |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3489,11 +3489,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3720 Kulturskolan gemensamt |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2023-10-01 |  |
 | 3720 Kulturskolan gemensamt |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2023-10-11 |  |
 | 3720 Kulturskolan gemensamt |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2016-03-01 |  |
-| 3720 Kulturskolan gemensamt | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3720 Kulturskolan gemensamt | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3720 Kulturskolan gemensamt |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3720 Kulturskolan gemensamt | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3720 Kulturskolan gemensamt | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3720 Kulturskolan gemensamt | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3720 Kulturskolan gemensamt | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3720 Kulturskolan gemensamt | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3720 Kulturskolan gemensamt | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3721 Kulturskolan I |  |  |  |  |  |  |  | malin.svarfvar | Beslut/Godkännare | 2022-01-01 |  |
 | 3721 Kulturskolan I |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3721 Kulturskolan I |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3526,12 +3526,12 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3730 Senior i Kungsbacka |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3730 Senior i Kungsbacka |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3730 Senior i Kungsbacka |  |  |  |  |  |  |  | andreas.hogfeldt | Ersättare för beslut | 2026-02-01 |  |
-| 3730 Senior i Kungsbacka | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3730 Senior i Kungsbacka | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3730 Senior i Kungsbacka |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2026-01-01 |  |
 | 3730 Senior i Kungsbacka |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2026-01-01 |  |
-| 3730 Senior i Kungsbacka | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3730 Senior i Kungsbacka | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3730 Senior i Kungsbacka | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3730 Senior i Kungsbacka | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3730 Senior i Kungsbacka | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3730 Senior i Kungsbacka | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3731 Ung & senior i Kungsbacka |  |  |  |  |  |  |  | elisabeth.lindberg | Beslut/Godkännare | 2023-10-01 |  |
 | 3731 Ung & senior i Kungsbacka |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3731 Ung & senior i Kungsbacka |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2023-10-01 |  |
@@ -3539,20 +3539,20 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3731 Ung & senior i Kungsbacka |  |  |  |  |  |  |  | lena.ottosson | Inkomst | 2023-10-01 |  |
 | 3731 Ung & senior i Kungsbacka |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2023-10-01 |  |
 | 3731 Ung & senior i Kungsbacka |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2023-10-01 |  |
-| 3731 Ung & senior i Kungsbacka | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3731 Ung & senior i Kungsbacka | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3731 Ung & senior i Kungsbacka | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3731 Ung & senior i Kungsbacka | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3731 Ung & senior i Kungsbacka | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3731 Ung & senior i Kungsbacka | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3800 Kultur & demokrati gemensamt |  |  |  |  |  |  |  | sofia.rosen | Beslut/Godkännare | 2019-01-14 |  |
 | 3800 Kultur & demokrati gemensamt |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3800 Kultur & demokrati gemensamt |  |  |  |  |  |  |  | lisa.hakansson | Ersättare för beslut | 2023-01-16 |  |
 | 3800 Kultur & demokrati gemensamt |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2022-01-01 |  |
 | 3800 Kultur & demokrati gemensamt |  |  |  |  |  |  |  | nina.magnusson | Ersättare för beslut | 2023-10-11 |  |
 | 3800 Kultur & demokrati gemensamt |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3800 Kultur & demokrati gemensamt | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3800 Kultur & demokrati gemensamt | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3800 Kultur & demokrati gemensamt |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3800 Kultur & demokrati gemensamt | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3800 Kultur & demokrati gemensamt | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3800 Kultur & demokrati gemensamt | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3800 Kultur & demokrati gemensamt | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3800 Kultur & demokrati gemensamt | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3800 Kultur & demokrati gemensamt | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3810 Bibliotek - system |  |  |  |  |  |  |  | susan.pour | Beslut/Godkännare | 2019-01-01 |  |
 | 3810 Bibliotek - system |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3810 Bibliotek - system |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3563,11 +3563,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3810 Bibliotek - system |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2021-01-01 |  |
 | 3810 Bibliotek - system |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2019-03-18 |  |
 | 3810 Bibliotek - system |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3810 Bibliotek - system | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3810 Bibliotek - system | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3810 Bibliotek - system |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3810 Bibliotek - system | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3810 Bibliotek - system | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3810 Bibliotek - system | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3810 Bibliotek - system | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3810 Bibliotek - system | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3810 Bibliotek - system | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3812 Intern service |  |  |  |  |  |  |  | susan.pour | Beslut/Godkännare | 2019-01-01 |  |
 | 3812 Intern service |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3812 Intern service |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3578,11 +3578,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3812 Intern service |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2021-01-01 |  |
 | 3812 Intern service |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2019-03-18 |  |
 | 3812 Intern service |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3812 Intern service | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3812 Intern service | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3812 Intern service |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3812 Intern service | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3812 Intern service | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3812 Intern service | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3812 Intern service | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3812 Intern service | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3812 Intern service | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | lena.engberg | Beslut/Godkännare | 2019-01-01 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3599,11 +3599,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3820 Bibliotek - cirkulation | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3820 Bibliotek - cirkulation | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3820 Bibliotek - cirkulation |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3820 Bibliotek - cirkulation | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3820 Bibliotek - cirkulation | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3820 Bibliotek - cirkulation | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3820 Bibliotek - cirkulation | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3820 Bibliotek - cirkulation | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3820 Bibliotek - cirkulation | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | julia.ryding.wikberg | Beslut/Godkännare | 2026-02-01 |  |
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2019-01-01 |  |
@@ -3613,11 +3613,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2021-01-01 |  |
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3830 Teater & Arena gemensamt ansv | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3830 Teater & Arena gemensamt ansv | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3830 Teater & Arena gemensamt ansv |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3830 Teater & Arena gemensamt ansv | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3830 Teater & Arena gemensamt ansv | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3830 Teater & Arena gemensamt ansv | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3830 Teater & Arena gemensamt ansv | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3830 Teater & Arena gemensamt ansv | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3830 Teater & Arena gemensamt ansv | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3830 Teater & Arena gemensamt ansvar |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2026-02-01 |  |
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | julia.ryding.wikberg | Beslut/Godkännare | 2026-02-01 |  |
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3629,11 +3629,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2026-02-01 |  |
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3831 Kungsbacka Teater | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3831 Kungsbacka Teater | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3831 Kungsbacka Teater |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3831 Kungsbacka Teater | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3831 Kungsbacka Teater | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3831 Kungsbacka Teater | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3831 Kungsbacka Teater | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3831 Kungsbacka Teater | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3831 Kungsbacka Teater | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3832 Konsthall |  |  |  |  |  |  |  | peter.rudvall | Beslut/Godkännare | 2024-01-15 |  |
 | 3832 Konsthall |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3832 Konsthall |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3644,11 +3644,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3832 Konsthall |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
 | 3832 Konsthall |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2024-01-15 |  |
 | 3832 Konsthall |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3832 Konsthall | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3832 Konsthall | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3832 Konsthall |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3832 Konsthall | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3832 Konsthall | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3832 Konsthall | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3832 Konsthall | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3832 Konsthall | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3832 Konsthall | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3833 Offentlig konst |  |  |  |  |  |  |  | peter.rudvall | Beslut/Godkännare | 2024-01-15 |  |
 | 3833 Offentlig konst |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3833 Offentlig konst |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3659,11 +3659,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3833 Offentlig konst |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
 | 3833 Offentlig konst |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2024-01-15 |  |
 | 3833 Offentlig konst |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3833 Offentlig konst | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3833 Offentlig konst | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3833 Offentlig konst |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3833 Offentlig konst | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3833 Offentlig konst | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3833 Offentlig konst | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3833 Offentlig konst | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3833 Offentlig konst | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3833 Offentlig konst | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3834 Film |  |  |  |  |  |  |  | peter.rudvall | Beslut/Godkännare | 2024-01-15 |  |
 | 3834 Film |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3834 Film |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3674,11 +3674,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3834 Film |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
 | 3834 Film |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2024-01-15 |  |
 | 3834 Film |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3834 Film | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3834 Film | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3834 Film |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3834 Film | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3834 Film | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3834 Film | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3834 Film | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3834 Film | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3834 Film | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | peter.rudvall | Beslut/Godkännare | 2024-01-15 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3695,11 +3695,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2024-01-15 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3835 Barn & ungdomskultur | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3835 Barn & ungdomskultur | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3835 Barn & ungdomskultur |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3835 Barn & ungdomskultur | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3835 Barn & ungdomskultur | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3835 Barn & ungdomskultur | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3835 Barn & ungdomskultur | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3835 Barn & ungdomskultur | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3835 Barn & ungdomskultur | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | peter.rudvall | Beslut/Godkännare | 2024-01-15 |  |
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3710,11 +3710,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2024-01-15 |  |
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3836 Kulturmiljövård | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3836 Kulturmiljövård | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3836 Kulturmiljövård |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3836 Kulturmiljövård | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3836 Kulturmiljövård | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3836 Kulturmiljövård | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3836 Kulturmiljövård | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3836 Kulturmiljövård | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3836 Kulturmiljövård | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3837 Evenemang |  |  |  |  |  |  |  | julia.ryding.wikberg | Beslut/Godkännare | 2026-02-01 |  |
 | 3837 Evenemang |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3837 Evenemang |  |  |  |  |  |  |  | lena.engberg | Ersättare för beslut | 2023-01-03 |  |
@@ -3727,9 +3727,9 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3837 Evenemang |  |  |  |  |  |  |  | lena.ottosson | Inkomst | 2023-10-01 |  |
 | 3837 Evenemang |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2023-10-01 |  |
 | 3837 Evenemang |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2023-10-01 |  |
-| 3837 Evenemang | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3837 Evenemang | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3837 Evenemang | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3837 Evenemang | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3837 Evenemang | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3837 Evenemang | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | peter.rudvall | Beslut/Godkännare | 2024-01-15 |  |
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2023-10-01 |  |
@@ -3742,9 +3742,9 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | lena.ottosson | Inkomst | 2023-10-01 |  |
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2023-10-01 |  |
 | 3838 Kultur & besöksmål gemensamt |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2023-10-01 |  |
-| 3838 Kultur & besöksmål gemensamt | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3838 Kultur & besöksmål gemensamt | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3838 Kultur & besöksmål gemensamt | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3838 Kultur & besöksmål gemensamt | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3838 Kultur & besöksmål gemensamt | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3838 Kultur & besöksmål gemensamt | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Beslut/Godkännare | 2019-03-18 |  |
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3755,11 +3755,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2022-01-01 |  |
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3840 Destinationsutveckling | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3840 Destinationsutveckling | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3840 Destinationsutveckling |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3840 Destinationsutveckling | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3840 Destinationsutveckling | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3840 Destinationsutveckling | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3840 Destinationsutveckling | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3840 Destinationsutveckling | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3840 Destinationsutveckling | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3841 Naturum |  |  |  |  |  |  |  | peter.rudvall | Beslut/Godkännare | 2024-01-15 |  |
 | 3841 Naturum |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3841 Naturum |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3770,11 +3770,11 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3841 Naturum |  |  |  |  |  |  |  | susan.pour | Ersättare för beslut | 2019-01-01 |  |
 | 3841 Naturum |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2024-01-15 |  |
 | 3841 Naturum |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
-| 3841 Naturum | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3841 Naturum | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3841 Naturum |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3841 Naturum | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3841 Naturum | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3841 Naturum | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3841 Naturum | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3841 Naturum | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3841 Naturum | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3842 Äskhult |  |  |  |  |  |  |  | peter.rudvall | Beslut/Godkännare | 2024-01-15 |  |
 | 3842 Äskhult |  |  |  |  |  |  |  | julia.ryding.wikberg | Ersättare för beslut | 2026-02-01 |  |
 | 3842 Äskhult |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2022-10-17 |  |
@@ -3792,20 +3792,20 @@ Omföring ekonomi Attest för att göra rättningar/omföringar inom och mellan 
 | 3842 Äskhult |  |  |  |  |  |  |  | wendela.sanne-ohrnell | Ersättare för beslut | 2024-01-15 |  |
 | 3842 Äskhult |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2019-01-01 |  |
 | 3842 Äskhult |  | 230 |  |  |  | 148 |  | julia.mielke | Beslut/Godkännare | 2019-08-01 |  |
-| 3842 Äskhult | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
+| 3842 Äskhult | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2020-03-30 |  |
 | 3842 Äskhult |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2019-01-01 |  |
-| 3842 Äskhult | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3842 Äskhult | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3842 Äskhult | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3842 Äskhult | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3842 Äskhult | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3842 Äskhult | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3900 Platsvarumärke & kommunikation |  |  |  |  |  |  |  | nina.magnusson | Beslut/Godkännare | 2023-10-11 |  |
 | 3900 Platsvarumärke & kommunikation |  |  |  |  |  |  |  | marie.persson | Ersättare för beslut | 2023-10-01 |  |
 | 3900 Platsvarumärke & kommunikation |  |  |  |  |  |  |  | sofia.rosen | Ersättare för beslut | 2023-10-01 |  |
 | 3900 Platsvarumärke & kommunikation |  |  |  |  |  |  |  | malin.fjellstrom | Omföring ekonomi | 2023-10-01 |  |
-| 3900 Platsvarumärke & kommunikation | 3*** |  |  |  |  |  |  | lena.ottosson | Inkomst | 2023-10-01 |  |
+| 3900 Platsvarumärke & kommunikation | 3\*\*\* |  |  |  |  |  |  | lena.ottosson | Inkomst | 2023-10-01 |  |
 | 3900 Platsvarumärke & kommunikation |  |  |  |  |  |  |  | carina.bokesand | Omföring ekonomi | 2023-10-01 |  |
-| 3900 Platsvarumärke & kommunikation | 3*** |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
-| 3900 Platsvarumärke & kommunikation | 3*** |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
-| 3900 Platsvarumärke & kommunikation | 3*** |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
+| 3900 Platsvarumärke & kommunikation | 3\*\*\* |  |  |  |  |  |  | pia.högberg | Inkomst | 2026-01-01 |  |
+| 3900 Platsvarumärke & kommunikation | 3\*\*\* |  |  |  |  |  |  | eva.karlberg | Inkomst | 2026-01-01 |  |
+| 3900 Platsvarumärke & kommunikation | 3\*\*\* |  |  |  |  |  |  | katarina.gustavsson | Inkomst | 2026-01-01 |  |
 | 3900 Platsvarumärke & kommunikation |  |  |  |  |  |  |  | karl.persson | Ersättare för beslut | 2023-10-11 |  |
 
 <!-- sida 102 -->

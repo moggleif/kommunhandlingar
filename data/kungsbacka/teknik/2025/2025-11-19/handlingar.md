@@ -430,10 +430,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 11
 
@@ -507,11 +507,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 13
 
@@ -554,8 +554,8 @@ delåren.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 14
@@ -624,8 +624,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.4.1 Vi tillhandahåller mer av vår gröna miljö och vår fackkunskap för att arbetet för ökad
 
@@ -643,9 +643,9 @@ kommande år utan utökat budgettillskott varje år.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
 
 16
@@ -665,8 +665,8 @@ kommunen.
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndbudget 2026
 
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 5.5.1
 
@@ -1080,7 +1080,7 @@ Kommentarer till ramfördelning driftbudget
 Inför budgetåret 2026 tas beslut om avgifterna i taxeprocessen. Den processen bestämmer vilka ekonomiska
 ramar verksamheterna får att arbeta inom.
 Verksamheten för Kungsbacka bredbandsnät budgeterar ett underskott om 1,0 miljoner kronor för budgetåret
-2026. Budgeterat underskott baseras på taxebeslut som togs i maj. Därefter har resultatet för
+2026\. Budgeterat underskott baseras på taxebeslut som togs i maj. Därefter har resultatet för
 bredbandsverksamheten försämrats under året och inför 2026 prognosticeras underskottet bli större än det
 budgeterade, vid delårsrapporteringen prognosticerades underskottet till 5,0 miljoner kronor. Förvaltningen
 arbetar för att öka intäkterna men ser även över kostnaderna. Sedan 2020 har faktureringen bokföringstekniskt
@@ -1197,7 +1197,7 @@ ramar verksamheten får att arbeta inom.
 Verksamheten för avfall och återvinning budgeterar ett överskott om 2,7 miljoner kronor för budgetåret 2026.
 
 Trots en föreslagen höjning av avfallstaxan med 7 procent, beräknas intäkterna minska jämfört med budget
-2025. Den främsta orsaken är införandet av obligatorisk matavfallsinsamling, vilken medför att tilläggstjänsten
+2025\. Den främsta orsaken är införandet av obligatorisk matavfallsinsamling, vilken medför att tilläggstjänsten
 för osorterat matavfall avvecklas. Detta innebär att tidigare intäkter från denna tjänst bortfaller.
 Ytterligare förklaring till intäktsminskningen är att prognosen för 2025 års intäkter har reviderats nedåt, vilket
 innebär att den föreslagna höjningen 2026 baseras på ett lägre utgångsvärde.
@@ -1972,7 +1972,7 @@ risk ej tas till plan
 Personal       Kommunövergrip                  3. Kännbar
 ande risk:                   (uppfattas som
 Efterlevnad till             besvärande för
-2. Mindre vanligt
+2\. Mindre vanligt
 rekryteringsproce                 berörda
 ssen                        intressenter och
 kommunen)
@@ -2586,7 +2586,7 @@ RadEtapp Namn Beteckning Insats Start Slut J N M J N M   J   N     M    J    N  
 50 OPTIMERING    15m 2030-08-29 2031-12-12                                                               +
 Insats   J    N    M     J    N    M     J   N     M    J    N     M    J    N    M     J   N
 RadEtapp Namn Beteckning Längd Start Slut 2025 2026    2027            2028            2029           2030
-2. Byggdel;3. ByggDialog;1. Faser
+2\. Byggdel;3. ByggDialog;1. Faser
 BLOCK 1 A01 Sandfilterbyggnad A01 EDN A01 Inloppsbyggnad K99 Milstolpar BLOCK 2 Förberedande arbeten C01 AGS C02 Torrslamsilobyggnad C03 Slamhanteringsbyggnad BLOCK 3 BLOCK 4 K62 Driftsättning
 Utfärdad av:               Kommentar:                  Revideringsdatum:           Revideringskommentar:
 Projektref: G:\01. Projekt\20094 Hammargårds avloppsreningsverk, Kungsbacka\20094,00 Hammargård ARV\3 Planering\Tidplaner\Produktion\TE-Produktionstidplan övergripande.pp Powerproject
@@ -2718,7 +2718,7 @@ Hammargård ARV kommer under 2025–2030 att byggas ut för att ta emot ökade b
 uppfylla mer strikta reningskrav. Utbyggnaden består av byggnation av flera nya processbyggnader
 och reningssteg samt renovering av vissa befintliga reningssteg.
 Detta dokument beskriver en anläggning som ska kunna hantera flöden och belastningar till och med
-2050. Anläggningen dimensioneras för att kunna ta emot en belastning motsvarande 70 000 pe och
+2050\. Anläggningen dimensioneras för att kunna ta emot en belastning motsvarande 70 000 pe och
 
 ett årsmedelflöde motsvarande 8,7 miljoner m3.
 Slambehandlingen byggs ut för förtjockning och avvattning. Under anläggningens livstid kan den
@@ -2797,9 +2797,9 @@ belastningar tagits fram även för 2037.
 
 Tabell 1 Dimensionerande flöden och belastningar
 
-*Mängden i internströmmar varierar beroende på driftfall. Med/utan; externslam, rötning, och
+\*Mängden i internströmmar varierar beroende på driftfall. Med/utan; externslam, rötning, och
 rejektvattenrening
-** Rötning, mottagning av externslam, och rejektvattenrening.
+\*\* Rötning, mottagning av externslam, och rejektvattenrening.
 
 5 (40)
 
@@ -2832,10 +2832,10 @@ rejektvattenrening
 | Q-dim mellansed |  | 631 |  | 783 | m³/h |
 | Q-max mellansed |  | 1 131 |  | 1 133 | m³/h |
 | Belastning |  | Intern-<br>belastning |  | Intern-<br>belastning |  |
-| BOD<br>7 | 3 750 | 204–211* | 4 900 | 179** | kg/d |
-| N-tot | 751 | 19–24* | 981 | 30** | kg/d |
-| P-tot | 94 | 26–133* | 123 | 47** | kg/d |
-| SS | 4 824 | 249–267* | 6 300 | 316** | kg/d |
+| BOD<br>7 | 3 750 | 204–211\* | 4 900 | 179\*\* | kg/d |
+| N-tot | 751 | 19–24\* | 981 | 30\*\* | kg/d |
+| P-tot | 94 | 26–133\* | 123 | 47\*\* | kg/d |
+| SS | 4 824 | 249–267\* | 6 300 | 316\*\* | kg/d |
 
 <!-- sida 66 -->
 
@@ -3344,8 +3344,8 @@ Järnklorid lagras i två kommunicerande tankar försedda med nivågivare, och n
 med nivåvakt. Kommunikation mellan tankarna kan stoppas med hjälp av en handventil. Dosering av
 järnklorid kan ske till följande punkter:
 
--  Utlopp från den sista Bio-P-volymen, före ledningen till QD
--  Fördelningsvolym efter QD
+\-  Utlopp från den sista Bio-P-volymen, före ledningen till QD
+\-  Fördelningsvolym efter QD
 Två doserpumpar placerade i doserskåp kan båda pumpa från båda tankarna, vilket ställs in manuellt
 med hjälp av handventiler. Varje doserskåp är utrustat med läckagevakt. Båda pumparna kan pumpa
 till båda doserpunkterna, vilket ställs om med hjälp av handventiler.
@@ -3389,9 +3389,9 @@ Polyaluminiumklorid lagras i två kommunicerande tankar försedda med nivågivar
 samt invallning med nivåvakt. Kommunikation mellan tankarna kan stoppas med hjälp av en
 handventil. Dosering av polyaluminiumklorid kan ske till följande punkter
 
--  AGS inloppsbuffert
--  Sandfilter, gemensam inloppsledning
--  Högflödesrening (ActiFlo 1 och 2)
+\-  AGS inloppsbuffert
+\-  Sandfilter, gemensam inloppsledning
+\-  Högflödesrening (ActiFlo 1 och 2)
 Sex doserpumpar placerade i två doserskåp kan samtliga pumpa från båda tankarna, vilket ställs in
 manuellt med hjälp av handventiler. Varje doserskåp är utrustat med läckagevakt. En pump är
 
@@ -3439,9 +3439,9 @@ Kolkälla, i form av etanol lagras i två kommunicerande tankar försedda med ni
 samt invallning med nivåvakt. Kommunikation mellan tankarna kan stoppas med hjälp av en
 handventil. Dosering av kolkälla kan ske till följande punkter:
 
--  QD, volym 2 eller 4
--  AGS-reaktorer, AGS 1 och AGS2
--  Efterdenitrifikationsvolymerna, EDN 1 och EDN 2
+\-  QD, volym 2 eller 4
+\-  AGS-reaktorer, AGS 1 och AGS2
+\-  Efterdenitrifikationsvolymerna, EDN 1 och EDN 2
 Sex doserpumpar placerade i två doserskåp kan samtliga pumpa från båda tankarna. Varje doserskåp
 är utrustat med läckagevakt. Tre doserpumpar är avsedda för dosering av kolkälla till QD och AGS,
 
@@ -3506,7 +3506,7 @@ den framtida belastningssituationen.
 
 Tabell 11 Dimensioneringsdata 20-Quattro Denipho (CAS)
 
-*Utgående halt efter mellansedimentering
+\*Utgående halt efter mellansedimentering
 
 Den runda luftningsbassängen är uppdelade i fyra lika stora volymer (QD1-QD4). De fyra
 delvolymerna kan alla vara inloppsvolym och två av volymerna, QD2 och QD4, kan vara
@@ -3540,10 +3540,10 @@ utloppsvolym. Samtliga volymer kan vara luftade eller oluftade samt omrörda ell
 | Inkommande N, mängd | 422 | 490 | kg/d |
 | Inkommande P, mängd | 51 | 65 | kg/d |
 | Inkommande SS, mängd | 1278 | 1666 | kg/d |
-| Utgående BOD7-halt* | 6 | 7,5 | mg/l |
-| Utgående N-halt* | 3,9 | 6,9 | mg/l |
-| Utgående P-halt* | 0,4 | 0,4 | mg/l |
-| Utgående SS-halt* | 10 | 12 | mg/l |
+| Utgående BOD7-halt\* | 6 | 7,5 | mg/l |
+| Utgående N-halt\* | 3,9 | 6,9 | mg/l |
+| Utgående P-halt\* | 0,4 | 0,4 | mg/l |
+| Utgående SS-halt\* | 10 | 12 | mg/l |
 
 <!-- sida 79 -->
 
@@ -3700,8 +3700,8 @@ inställbar tid. Detta sker ett valbart antal sekunder efter att skrapan i respe
 | Ytbelastning Q-dim | 0,39 | 0,50 | m/h |
 | Ytbel. Q-dim inkl tvättvatten från sandfilter | 0,48 | 0,59 | m/h |
 | Ytbel. Q-max inkl tvättvatten från sandfilter | 0,86 | 0,86 | m/h |
-| Slamytbelastning, Q-dim | 1,2–2,2 | 1,5–2,8 | kg SS/m2*d |
-| Slamytbelastning, Q-max | 2,1–4,0 | 2,1–4,0 | kg SS/m2*d |
+| Slamytbelastning, Q-dim | 1,2–2,2 | 1,5–2,8 | kg SS/m2\*d |
+| Slamytbelastning, Q-max | 2,1–4,0 | 2,1–4,0 | kg SS/m2\*d |
 | Returslampumpar, antal | 4 | 4 | st |
 | Returslampumpar, kapacitet per pump | 400 | 400 | m3/h |
 | Flytslampumpstation, antal pumpar | 1 | 1 | st |
@@ -4268,7 +4268,7 @@ Tabell 19 Dimensioneringsdata 53-Polymerhantering
 60-Primärslamlager
 Tabell 20 Dimensioneringsdata 60-Primärslamlager
 
-*Antagen drifttid 20 h/d
+\*Antagen drifttid 20 h/d
 Två primärslamlager förses med primärslam från försedimenteringen samt flytslam från
 försedimenteringen och mellansedimenteringen. Slamlagren är försedda med omrörare, nivågivare
 och nivåvakt. Automatventiler på inkommande ledning till respektive ledning används för att välja
@@ -4318,7 +4318,7 @@ den biologiska reningen med rejektvattnet från förtjockningen.
 | Antal pumpar (till förtjockning) | 2 | 2 |  |
 | Maxflöde per pump | 4,3 | 5,5 | m3/h |
 | Dim kapacitet per pump | 5 | 6 | m3/h |
-| Vald kapacitet per pump* | 20 | 20 | m3/h |
+| Vald kapacitet per pump\* | 20 | 20 | m3/h |
 
 <!-- sida 93 -->
 
@@ -4367,7 +4367,7 @@ Nereda Controller.
 
 Tabell 22 Dimensioneringsdata 62-Bioslamlager
 
-*Antagen drifttid 20 h/d
+\*Antagen drifttid 20 h/d
 Oförtjockat överskottsslam pumpas till Bioslamlagret från AGS-slambufferten och från
 slampumpstationen för retur- och överskottsslampumpning från QD. Slamlagret är försett med både
 omrörare och ett luftarsystem för luftomrörning och för att undvika släpp av fosfor med recirkulation
@@ -4409,7 +4409,7 @@ Tabell 23 Dimensioneringsdata 63 Slamförtjockning & Förtjockat slamlager
 | Antal pumpar (till förtjockning) | 2 | 2 |  |
 | Maxflöde per pump | 10,0 | 12,0 | m3/h |
 | Dim kapacitet per pump | 10 | 12 | m3/h |
-| Vald kapacitet per pump* | 15 | 15 | m3/h |
+| Vald kapacitet per pump\* | 15 | 15 | m3/h |
 | Luftbehov (2 Nm3/m3, h) | 476 | 476 | m3 luft/h |
 | Vald blåsmaskinskapacitet | 600 | 600 | m3 luft/h |
 
@@ -4421,7 +4421,7 @@ Tabell 23 Dimensioneringsdata 63 Slamförtjockning & Förtjockat slamlager
 | År | 2037 | 2050 |  |
 | Primärslam |  |  |  |
 | Antal | 2 | 2 | st |
-| Dim kapacitet per maskin* | 12 | 12 | m³/h |
+| Dim kapacitet per maskin\* | 12 | 12 | m³/h |
 
 <!-- sida 95 -->
 
@@ -4440,7 +4440,7 @@ Tabell 23 Dimensioneringsdata 63 Slamförtjockning & Förtjockat slamlager
 | 63-Mekanisk slamförtjockning |  |  |  |
 | --- | --- | --- | --- |
 | Parameter | Värde | Värde | Enhet |
-| Dim kapacitet per maskin* | 128 | 166 | kg TS/h |
+| Dim kapacitet per maskin\* | 128 | 166 | kg TS/h |
 | TS slam in | 1,5–3,5 | 1,5–3,5 | % |
 | Slamflöde in | 73–171 | 95–222 | m³/d |
 | Slammängd in | 2 571 | 3 368 | kg TS/d |
@@ -4448,8 +4448,8 @@ Tabell 23 Dimensioneringsdata 63 Slamförtjockning & Förtjockat slamlager
 | Slamflöde ut | 51–102 | 67–133 | m³/d |
 | Bioslam |  |  |  |
 | Antal | 2 | 2 | st |
-| Dim kapacitet per maskin* | 20 | 24 | m³/h |
-| Dim kapacitet per maskin* | 100 | 120 | kg TS/h |
+| Dim kapacitet per maskin\* | 20 | 24 | m³/h |
+| Dim kapacitet per maskin\* | 100 | 120 | kg TS/h |
 | TS slam in | 0,5–1 | 0,5–1 | % |
 | Slamflöde in | 204–409 | 245–490 | m³/d |
 | Slammängd in | 2 043 | 2 449 | kg TS/d |
@@ -4478,7 +4478,7 @@ Tabell 23 Dimensioneringsdata 63 Slamförtjockning & Förtjockat slamlager
 
 <!-- sida 96 -->
 
-*Antagen drifttid 20 h/d
+\*Antagen drifttid 20 h/d
 
 Förtjockning av primär- och bioslam sker i fyra mekaniska bandförtjockare, där två förtjockare är
 avsedda för primärslam och två för bioslam. Matning av förtjockaren görs med två frekvensstyrda
@@ -4542,7 +4542,7 @@ Tabell 24 Dimensioneringsdata 64-Slamavvattning
 
 <!-- sida 97 -->
 
-*Antagen drifttid 20 h/d
+\*Antagen drifttid 20 h/d
 
 Slammet avvattnas i två stycken slamskruvpressar. Båda slamskruvpressarna kan förses med slam
 från båda slamlagren för förtjockat slam, vilket ställs om med hjälp av manuella ventiler, men i
@@ -4565,7 +4565,7 @@ slamlager 2 till Slamavvattnare 2. På inkommande ledning till båda slamskruvpr
 | --- | --- | --- | --- |
 | Parameter | Värde | Värde | Enhet |
 | Kapacitet per maskin | 620 | 620 | kg TS/d |
-| Normal/förväntad drift per maskin* | 300 | 300 | kg TS/d |
+| Normal/förväntad drift per maskin\* | 300 | 300 | kg TS/d |
 | Slammängd att avvattna | 4 614 | 7 505 | kg TS/d |
 | TS slam in | 2,5–5 | 2,5–5 | % |
 | Slamflöde in | 91–183 | 115–229 | m³/d |
@@ -4608,14 +4608,14 @@ olika driftfall behöver manuella ventiler ställas om. När maskinen är redo a
 slam till skruvpressen med excenterskruvpump.
 Driftfall:
 
-1. Förtjockat slamlager 1 till Slamavvattnare 1
+1\. Förtjockat slamlager 1 till Slamavvattnare 1
 Förtjockat slamlager 2 till Slamavvattnare 2
-2. Förtjockat slamlager 1 och 2 till Slamavvattnare 1
-3. Förtjockat slamlager 1 och 2 till Slamavvattnare 2
-4. Förtjockat slamlager 1 till Slamavvattnare 1 och 2
-5. Förtjockat slamlager 2 till Slamavvattnare 1 och 2
-6. Förtjockat slamlager 1 till Slamavvattnare 2
-7. Förtjockat slamlager 2 till Slamavvattnare 1
+2\. Förtjockat slamlager 1 och 2 till Slamavvattnare 1
+3\. Förtjockat slamlager 1 och 2 till Slamavvattnare 2
+4\. Förtjockat slamlager 1 till Slamavvattnare 1 och 2
+5\. Förtjockat slamlager 2 till Slamavvattnare 1 och 2
+6\. Förtjockat slamlager 1 till Slamavvattnare 2
+7\. Förtjockat slamlager 2 till Slamavvattnare 1
 
 65-Torrslamsilos
 
@@ -4759,7 +4759,7 @@ Hammargårds avloppsreningsverk står inför en omfattande ombyggnad för att m�
 kapacitet, miljö och hållbarhet.
 Reningsverket är idag i drift med anläggningsdelar från 1960-talet, och det finns behov av både
 kapacitetsökning och modernisering för att uppfylla de skärpta utsläppsvillkor som gäller från 1 januari
-2030.
+2030\.
 
 Projektet syftar till att säkra reningskapacitet motsvarande 70 000 personekvivalenter, förbättra
 vattenkvaliteten i Kungsbackafjorden och skapa en anläggning som är hållbar, energieffektiv och
@@ -4817,9 +4817,9 @@ och verifiering – genomförs år 2031.
 Förslag till beslut
 Nämnden för Teknik beslutar att:
 
-1. Fastställa riktkostnaden för Fas 2 till 1 238 100 000 kronor.
+1\. Fastställa riktkostnaden för Fas 2 till 1 238 100 000 kronor.
 
-2. Ge teknikförvaltningen i uppdrag att genomföra Fas 2 och 3 i enlighet med underlaget och
+2\. Ge teknikförvaltningen i uppdrag att genomföra Fas 2 och 3 i enlighet med underlaget och
 ersättningsmodellen.
 
 3
@@ -4980,16 +4980,16 @@ Det utbyggda Hammargårds avloppsreningsverk består av flera reningssteg som ti
 säkerställer att utsläppsvillkoren uppfylls även vid full belastning år 2050.
 Nedan beskrivs huvudstegen i den framtida reningsprocessen.
 
-1. Inlopp och mekanisk rening
+1\. Inlopp och mekanisk rening
 Avloppsvattnet leds in till verket via tre pumpstationer. I den mekaniska reningen avskiljs grova partiklar
 i rensgaller, följt av sand- och fettfång där tyngre partiklar och fett avlägsnas. Därefter sker
 försedimentering, där fasta ämnen sedimenterar och slammet förs vidare till slambehandlingen.
 
-2. Högflödesrening (Actiflo)
+2\. Högflödesrening (Actiflo)
 Vid mycket höga flöden leds delar av vattnet till ett särskilt högflödesreningssteg med mikrosandteknik
 (Actiflo). Detta säkerställer bibehållen reningsförmåga även vid regn och tillfälligt höga belastningar.
 
-3. Biologisk rening
+3\. Biologisk rening
 Efter försedimenteringen leds vattnet till två parallella biologiska processlinjer:
 
 6
@@ -5001,15 +5001,15 @@ fosforrening i kompakt form.
 
 •  Quattro Denipho-processen (CAS) (befintlig linje) som renoveras och optimeras för fortsatt
 drift med biologisk fosfor- och kväverening.
-4. Efterdenitrifikation (MBBR)
+4\. Efterdenitrifikation (MBBR)
 De båda biologiska linjerna följs av ett biologiskt efterdenitrifikationssteg med rörligt bärarmaterial
 
 (MBBR), där de sista resterna av kväve avlägsnas med hjälp av tillsatt kolkälla.
-5. Slutpolering i sandfilter
+5\. Slutpolering i sandfilter
 Som sista steg passerar vattnet kontinuerligt spolade sandfilter där partiklar och fosfor avskiljs innan
 det renade vattnet leds till Kungsbackaån.
 
-6. Slambehandling
+6\. Slambehandling
 Slammet från försedimentering och biosteg förtjockas och avvattnas mekaniskt innan det lagras i silos
 för borttransport. Anläggningen är förberedd för att på sikt kunna kompletteras med rötning eller
 
@@ -5383,7 +5383,7 @@ projektet i Fas 2.
 Fas 3 – Optimering och verifiering
 
 Fas 3 omfattar den avslutande etappen av projektet och pågår från 1 januari 2031 till 31 december
-2031.
+2031\.
 Syftet är att säkerställa att den färdigställda anläggningen uppnår avsedda funktioner, prestanda och
 miljökrav enligt tillståndet.
 
@@ -5516,10 +5516,10 @@ FÖRSLAG TILL BESLUT
 Nämnden för Teknik beslutar, i enlighet med kommunfullmäktiges beslut 2024 om investering i
 ombyggnationen av Hammargårds avloppsreningsverk, att:
 
-1. Fastställa riktkostnaden för Fas 2 – produktion och byggnation av Hammargårds
+1\. Fastställa riktkostnaden för Fas 2 – produktion och byggnation av Hammargårds
 avloppsreningsverk – till 1 238 100 000 kronor.
 
-2. Uppdra åt förvaltningen att genomföra Fas 2 och 3 i enlighet med det framtagna underlaget,
+2\. Uppdra åt förvaltningen att genomföra Fas 2 och 3 i enlighet med det framtagna underlaget,
 inklusive riktkostnad, ersättningsmodell och övriga ekonomiska förutsättningar enligt denna
 projektbeskrivning.
 
@@ -5605,7 +5605,7 @@ och framtidssäker anläggning.
 
 Utbyggnaden genomförs i fyra faser. Efter genomförd projektering och planering i Fas 1 föreslås nu att
 projektet övergår till Fas 2 – produktion och byggnation – som pågår från december 2025 till december
-2030.
+2030\.
 
 Fas 2 omfattar nya byggnader och processteg för biologisk rening med AGS/Nereda-teknik, nytt
 inlopp med rensavskiljning, sandfång och högflödesrening, sandfiltrering samt ny slamhantering.
@@ -5708,7 +5708,7 @@ Projektet genomförs etappvis mellan 2025 och 2030 för att reningen ska kunna p
 byggtiden. Arbetet delas in i flera block som byggs i turordning, så att nya delar kan tas i drift innan
 äldre stängs av.
 Byggstart planeras till slutet av 2025, och anläggningen ska vara färdig intrimmad vid utgången av
-2030.
+2030\.
 De nya reningsstegen tas successivt i drift under 2028–2029, vilket gör att de skärpta utsläppsvillkoren
 kan uppfyllas från 1 januari 2030.
 
@@ -5733,30 +5733,30 @@ beräkna ett sannolikhetsvägt riskbelopp, vilket visar den realistiska ekonomis
 inträffar. Metodiken följer branschpraxis.
 De största riskerna är identifierade, kvantifierade och beaktade i projektets budget. De omfattar främst:
 
-1. Geotekniska risker och markförhållanden.
+1\. Geotekniska risker och markförhållanden.
 
 <!-- sida 122 -->
 
 KUNGSBACKA  KOMMUN
 5 (6)
 
-2. Omvärlds- och marknadsrisker såsom materialpriser, valutakurser, leveransstörningar och brist
+2\. Omvärlds- och marknadsrisker såsom materialpriser, valutakurser, leveransstörningar och brist
 på betong och stål. Dessa ligger utanför kommunens kontroll men är kalkylerade i riskreserven.
 
 Genom bland annat indexjusterade kontrakt minskas känsligheten.
-3. Tekniska och byggnadsmässiga risker, eftersom äldre byggnadsdelar behöver renoveras och
+3\. Tekniska och byggnadsmässiga risker, eftersom äldre byggnadsdelar behöver renoveras och
 den nya AGS-processen är ny för anläggningen.
 
-4. Logistik, väder och externa händelser.
+4\. Logistik, väder och externa händelser.
 Bilagan omfattar även ett stort antal möjligheter, dvs åtgärder som kan leda till kostnadsbesparingar,
 effektivare produktion och minskad klimatpåverkan. De viktigaste områdena är:
 
-1. Effektivare inköp och samordning.
-2. Återbruk och resurseffektivitet.
+1\. Effektivare inköp och samordning.
+2\. Återbruk och resurseffektivitet.
 
-3. Effektivare byggprocess och logistik.
+3\. Effektivare byggprocess och logistik.
 
-4. Tekniska optimeringar av dimensioner och konstruktioner.
+4\. Tekniska optimeringar av dimensioner och konstruktioner.
 Den sammanlagda riskpotten uppgår till cirka 143 mnkr, medan möjlighetspotten uppgår till cirka 21
 mnkr. Den sannolikhetsvägda riskreserven är beräknad till cirka 73 mnkr och har räknats in i
 investeringen.
@@ -6157,21 +6157,21 @@ Arendalsleden fyra körfält”.
 
 Följande underlag har studerats inför upprättande av föreliggande rapport:
 
-1. Jordarts-, berggrunds- och jorddjupskarta över området med tillhörande
+1\. Jordarts-, berggrunds- och jorddjupskarta över området med tillhörande
 beskrivning från SGU.
-2. Kartunderlag, däribland baskarta erhållet av Kungsbacka kommun,
+2\. Kartunderlag, däribland baskarta erhållet av Kungsbacka kommun,
 våren 2025.
-3. PM Beträffande Geotekniska förhållanden utförd av GF konsult AB.
+3\. PM Beträffande Geotekniska förhållanden utförd av GF konsult AB.
 Uppdragsnummer: 53 010 23 daterad 2000-05-08. Borrhål ”3”.
 
-4. Geoteknisk undersökning: Fält- och laboratorieresultat (Rgeo) Björkris
+4\. Geoteknisk undersökning: Fält- och laboratorieresultat (Rgeo) Björkris
 utförd av GF konsult AB. Uppdragsnummer 184 223 03 daterad 2005-
 12-20. Borrhål ”GC-2” och ”S-1”
-5. Geoteknisk undersökning: PM beträffande byggbarhet utförd av GF
+5\. Geoteknisk undersökning: PM beträffande byggbarhet utförd av GF
 konsult AB. Uppdragsnummer 184 250 23 daterad 2007-03-27. Borrhål
 ”GF4”.
 
-6. Utdrag från BaTMan 2025-06-02 gällande konstruktions- och
+6\. Utdrag från BaTMan 2025-06-02 gällande konstruktions- och
 grundläggningsritningar för bro över Kungsbackaån, 13-491-1
 Vid framtagande av undersökningsprogram och val av
 
@@ -6412,7 +6412,7 @@ värde för uppmätt konflytgräns på lägst nivå i skruvprovtagningen valts.
 CPT-sonderingarna har utvärderats med datorprogrammet Conrad v 3.10
 (SGI, 2006) med stöd av SS-EN 1997-1 (Eurokod 7) och SGI information
 
-15. Utvärdering av CPT-försök redovisas i Bilaga 2.
+15\. Utvärdering av CPT-försök redovisas i Bilaga 2.
 
 11.3 Hydrogeologiska  egenskaper
 Vid utförda skruvprovtagningar har en fri vattenyta noterats i borrhål
@@ -6929,7 +6929,7 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 
 C  P  T - sondering
 
-O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY02.CPW
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
 
 [Tabell 153-1](handlingar.tabeller/153-1.csv)
 
@@ -6970,7 +6970,7 @@ O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY02.CPW
 Sida 2 av 12
 Bilaga 2 - Utvärdering CPT                            2025-10-17
 
-O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY02.CPW
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
 2025-10-09
 
 [Tabell 154-1](handlingar.tabeller/154-1.csv)
@@ -7072,7 +7072,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 
 | CPT-sondering utvärderad enligt SGI Information 15 rev.2007<br>Referens my Förborrningsdjup 2,00 m Utvärderare Axel Barrdahl<br>Nivå vid referens 4,86 m Förborrat material Fyllning Datum för utvärdering 2025-09-22<br>Grundvattenyta 1,50 m Utrustning Geotech 504<br>Startdjup 2,00 m Geometri Normal | Projekt Arendalsleden<br>Projekt nr 351958<br>Plats Kungsbacka<br>Borrhål 25TY02<br>Datum 2025 09 17 1221 |
 | --- | --- |
-| Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o) Relativ lagringstäthet I (%) Modul (MPa)<br>fu D<br>Klassificering 0 10 20 30 40 50 60 0 5 10 15 0 5 10 15 200,000 0,005 0,010<br>0<br>F:grsa<br>2 Le(t)<br>x x L OC<br>x x NCSi<br>x<br>x vL<br>x<br>x<br>x<br>4 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x EL<br>x<br>6 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x 8 x x Svensk empiri<br>x x o Lunne, överkonsoliderad<br>x x + Lunne, normalkonsoliderad<br>x<br>x<br>x<br>x<br>x<br>10 x<br>x<br>x Djup<br>x<br>x<br>x Cl<br>x<br>x x (m) NC<br>x<br>12 x<br>x<br>x<br>x<br>x<br>x x vL<br>x<br>x<br>x<br>14 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>16 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>18 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x L<br>x<br>xx<br>O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY02.CPW 2025-10-09 |  |
+| Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o) Relativ lagringstäthet I (%) Modul (MPa)<br>fu D<br>Klassificering 0 10 20 30 40 50 60 0 5 10 15 0 5 10 15 200,000 0,005 0,010<br>0<br>F:grsa<br>2 Le(t)<br>x x L OC<br>x x NCSi<br>x<br>x vL<br>x<br>x<br>x<br>4 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x EL<br>x<br>6 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x 8 x x Svensk empiri<br>x x o Lunne, överkonsoliderad<br>x x + Lunne, normalkonsoliderad<br>x<br>x<br>x<br>x<br>x<br>10 x<br>x<br>x Djup<br>x<br>x<br>x Cl<br>x<br>x x (m) NC<br>x<br>12 x<br>x<br>x<br>x<br>x<br>x x vL<br>x<br>x<br>x<br>14 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>16 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>18 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x L<br>x<br>xx<br>O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW 2025-10-09 |  |
 
 [Tabell 155-2](handlingar.tabeller/155-2.csv)
 
@@ -7151,7 +7151,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 
 | CPT-sondering utvärderad enligt SGI Information 15 rev.2007<br>Referens my Förborrningsdjup 2,00 m Utvärderare Axel Barrdahl<br>Nivå vid referens 4,86 m Förborrat material Fyllning Datum för utvärdering 2025-09-22<br>Grundvattenyta 1,50 m Utrustning Geotech 504<br>Startdjup 2,00 m Geometri Normal | Projekt Arendalsleden<br>Projekt nr 351958<br>Plats Kungsbacka<br>Borrhål 25TY02<br>Datum 2025 09 17 1221 |
 | --- | --- |
-| Effektivtryck (kPa) Odränerad skjuvhållfasthet  (kPa)<br>fu<br>Klassificering 0 50 100 150 200 250 0 10 20 30 40 50 60<br>0<br>F:grsa<br>2 Le(t)<br>x x L OC o o<br>x x NCSi o o<br>x o<br>x vL o<br>x o<br>x o<br>x o<br>4 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x EL o<br>x o<br>6 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>8 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>10 x o<br>x o<br>x Djup o<br>x o<br>x o<br>x Cl o<br>x o<br>x x (m) NC o o<br>x o<br>12 x o<br>x o<br>x o<br>x o<br>x o<br>x x vL o o<br>x o<br>x o<br>x o<br>14 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>16 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>18 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x L o<br>x o<br>xx oo<br>O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY02.CPW 2025-10-09 |  |
+| Effektivtryck (kPa) Odränerad skjuvhållfasthet  (kPa)<br>fu<br>Klassificering 0 50 100 150 200 250 0 10 20 30 40 50 60<br>0<br>F:grsa<br>2 Le(t)<br>x x L OC o o<br>x x NCSi o o<br>x o<br>x vL o<br>x o<br>x o<br>x o<br>4 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x EL o<br>x o<br>6 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>8 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>10 x o<br>x o<br>x Djup o<br>x o<br>x o<br>x Cl o<br>x o<br>x x (m) NC o o<br>x o<br>12 x o<br>x o<br>x o<br>x o<br>x o<br>x x vL o o<br>x o<br>x o<br>x o<br>14 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>16 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>18 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x L o<br>x o<br>xx oo<br>O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW 2025-10-09 |  |
 
 [Tabell 156-2](handlingar.tabeller/156-2.csv)
 
@@ -7201,7 +7201,7 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 C  P T  - sondering
 Sida 1 av 2
 
-O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY02.CPW
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
 
 [Tabell 157-1](handlingar.tabeller/157-1.csv)
 
@@ -7218,7 +7218,7 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 C  P T  - sondering
 Sida 2 av 2
 
-O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY02.CPW
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
 
 [Tabell 158-1](handlingar.tabeller/158-1.csv)
 
@@ -7235,7 +7235,7 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 
 C  P  T - sondering
 
-O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY04.CPW
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
 
 [Tabell 159-1](handlingar.tabeller/159-1.csv)
 
@@ -7276,7 +7276,7 @@ O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY04.CPW
 Sida 8 av 12
 Bilaga 2 - Utvärdering CPT                            2025-10-17
 
-O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY04.CPW
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
 2025-10-09
 
 [Tabell 160-1](handlingar.tabeller/160-1.csv)
@@ -7378,7 +7378,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 
 | CPT-sondering utvärderad enligt SGI Information 15 rev.2007<br>Referens my Förborrningsdjup 3,00 m Utvärderare Axel Barrdahl<br>Nivå vid referens 5,07 m Förborrat material Fyllning Datum för utvärdering 2025-09-22<br>Grundvattenyta 1,50 m Utrustning Geotech 504<br>Startdjup 3,00 m Geometri Normal | Projekt Arendalsleden<br>Projekt nr 351958<br>Plats Kungsbacka<br>Borrhål 25TY04<br>Datum 2025 09 17 1029 |
 | --- | --- |
-| Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o) Relativ lagringstäthet I (%) Modul (MPa)<br>fu D<br>Klassificering 0 5 10 15 20 25 30 0 5 10 15 0 5 10 15 200,000 0,005 0,010<br>0<br>F:grsa<br>2<br>F:lklsagr<br>x NC<br>x OC<br>x<br>x NC<br>4 x<br>x NCSi<br>x x NC<br>x<br>x<br>x x NCSi<br>x<br>x<br>6 x NC<br>x x NCSi<br>x<br>x<br>x NC<br>x<br>x<br>x<br>x 8 x NCSi x Svensk empiri<br>x x NC o Lunne, överkonsoliderad<br>x x + Lunne, normalkonsoliderad<br>x NCSi<br>x vL<br>x<br>x<br>x<br>10 x x NC<br>x Djup<br>x<br>x NCSi<br>x<br>x<br>x x (m) Cl<br>x<br>12 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>14 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x NC<br>x<br>x<br>16 x<br>x<br>x L<br>x<br>x<br>x<br>x<br>x<br>x x vL<br>18 x<br>x<br>x<br>x<br>x x L<br>x<br>x<br>x<br>x<br>O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY04.CPW 2025-10-09 |  |
+| Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o) Relativ lagringstäthet I (%) Modul (MPa)<br>fu D<br>Klassificering 0 5 10 15 20 25 30 0 5 10 15 0 5 10 15 200,000 0,005 0,010<br>0<br>F:grsa<br>2<br>F:lklsagr<br>x NC<br>x OC<br>x<br>x NC<br>4 x<br>x NCSi<br>x x NC<br>x<br>x<br>x x NCSi<br>x<br>x<br>6 x NC<br>x x NCSi<br>x<br>x<br>x NC<br>x<br>x<br>x<br>x 8 x NCSi x Svensk empiri<br>x x NC o Lunne, överkonsoliderad<br>x x + Lunne, normalkonsoliderad<br>x NCSi<br>x vL<br>x<br>x<br>x<br>10 x x NC<br>x Djup<br>x<br>x NCSi<br>x<br>x<br>x x (m) Cl<br>x<br>12 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>14 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x NC<br>x<br>x<br>16 x<br>x<br>x L<br>x<br>x<br>x<br>x<br>x<br>x x vL<br>18 x<br>x<br>x<br>x<br>x x L<br>x<br>x<br>x<br>x<br>O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW 2025-10-09 |  |
 
 [Tabell 161-2](handlingar.tabeller/161-2.csv)
 
@@ -7469,7 +7469,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 
 | CPT-sondering utvärderad enligt SGI Information 15 rev.2007<br>Referens my Förborrningsdjup 3,00 m Utvärderare Axel Barrdahl<br>Nivå vid referens 5,07 m Förborrat material Fyllning Datum för utvärdering 2025-09-22<br>Grundvattenyta 1,50 m Utrustning Geotech 504<br>Startdjup 3,00 m Geometri Normal | Projekt Arendalsleden<br>Projekt nr 351958<br>Plats Kungsbacka<br>Borrhål 25TY04<br>Datum 2025 09 17 1029 |
 | --- | --- |
-| Effektivtryck (kPa) Odränerad skjuvhållfasthet  (kPa)<br>fu<br>Klassificering 0 20 40 60 80 100 120 140 0 5 10 15 20 25 30<br>0<br>F:grsa<br>2<br>F:lklsagr<br>x NC o<br>x OC o<br>x o<br>x NC o<br>4 x o<br>x NCSi o<br>x x NC o o<br>x o<br>x o<br>x x NCSi o o<br>x o<br>x o<br>6 x NC o<br>x x NCSi o o<br>x o<br>x o<br>x NC o<br>x o<br>x o<br>x o<br>x 8 x NCSi o o<br>x o<br>x NC o<br>x o<br>x o<br>x NCSi o<br>x vL o<br>x o<br>x o<br>x o<br>10 x x NC o o<br>x Djup o<br>x o<br>x NCSi o<br>x o<br>x o<br>x x (m) Cl o o<br>x o<br>12 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>14 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x NC o<br>x o<br>x o<br>16 x o<br>x o<br>x L o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x x vL o o<br>18 x o<br>x o<br>x o<br>x o<br>x x L o o<br>x o<br>x o<br>x o<br>x o<br>O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY04.CPW 2025-10-09 |  |
+| Effektivtryck (kPa) Odränerad skjuvhållfasthet  (kPa)<br>fu<br>Klassificering 0 20 40 60 80 100 120 140 0 5 10 15 20 25 30<br>0<br>F:grsa<br>2<br>F:lklsagr<br>x NC o<br>x OC o<br>x o<br>x NC o<br>4 x o<br>x NCSi o<br>x x NC o o<br>x o<br>x o<br>x x NCSi o o<br>x o<br>x o<br>6 x NC o<br>x x NCSi o o<br>x o<br>x o<br>x NC o<br>x o<br>x o<br>x o<br>x 8 x NCSi o o<br>x o<br>x NC o<br>x o<br>x o<br>x NCSi o<br>x vL o<br>x o<br>x o<br>x o<br>10 x x NC o o<br>x Djup o<br>x o<br>x NCSi o<br>x o<br>x o<br>x x (m) Cl o o<br>x o<br>12 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>14 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x NC o<br>x o<br>x o<br>16 x o<br>x o<br>x L o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x x vL o o<br>18 x o<br>x o<br>x o<br>x o<br>x x L o o<br>x o<br>x o<br>x o<br>x o<br>O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW 2025-10-09 |  |
 
 [Tabell 162-2](handlingar.tabeller/162-2.csv)
 
@@ -7531,7 +7531,7 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 C  P T  - sondering
 Sida 1 av 2
 
-O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY04.CPW
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
 
 [Tabell 163-1](handlingar.tabeller/163-1.csv)
 
@@ -7548,7 +7548,7 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 C  P T  - sondering
 Sida 2 av 2
 
-O:\GBG\351958\G\_Berakningar\CPT-utvärderingar\25TY04.CPW
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
 
 [Tabell 164-1](handlingar.tabeller/164-1.csv)
 
@@ -7589,7 +7589,7 @@ Filnamn - digital samlingsfil Signatur - fältingenjör Blad nummer
 1
 
 Utskrivet: 2025-10-21 16:51
-O:\GBG\351958\G\_Text\MUR\Export FM\dagbok_351958_20250916_me_1.xlsx/2025-09-16 .
+O:\GBG\351958\G\\\_Text\MUR\Export FM\dagbok_351958_20250916_me_1.xlsx/2025-09-16 .
 
 [Tabell 165-1](handlingar.tabeller/165-1.csv)
 
@@ -7655,7 +7655,7 @@ Filnamn - digital samlingsfil Signatur - fältingenjör Blad nummer
 1
 
 Utskrivet: 2025-10-16 10:53
-O:\GBG\351958\G\_Text\MUR\Export FM\dagbok_351958_20250916_me_1.xlsx/2025-09-17 .
+O:\GBG\351958\G\\\_Text\MUR\Export FM\dagbok_351958_20250916_me_1.xlsx/2025-09-17 .
 
 [Tabell 166-1](handlingar.tabeller/166-1.csv)
 
@@ -7703,7 +7703,7 @@ Protokoll
 Avbrott under arbetet, avvikelse från standard, kommentarer, markskada mm.
 
 Utskrivet: 2025-10-27 10:05
-O:\GBG\351958\G\_Text\MUR\Export FM\25TY01_me_2025-09-16_stordprovtagning.xlsx/Skr_1 .
+O:\GBG\351958\G\\\_Text\MUR\Export FM\25TY01_me_2025-09-16_stordprovtagning.xlsx/Skr_1 .
 
 [Tabell 167-1](handlingar.tabeller/167-1.csv)
 
@@ -7743,7 +7743,7 @@ Protokoll
 Avbrott under arbetet, avvikelse från standard, kommentarer, markskada mm.
 
 Utskrivet: 2025-10-09 09:55
-O:\GBG\351958\G\=Arbetsarea=\MUR\Export FM\25TY02_me_2025-09-16_stordprovtagning.xlsx/Skr_1 .
+O:\GBG\351958\G\\=Arbetsarea=\MUR\Export FM\25TY02_me_2025-09-16_stordprovtagning.xlsx/Skr_1 .
 
 [Tabell 168-1](handlingar.tabeller/168-1.csv)
 
@@ -7783,7 +7783,7 @@ Protokoll
 Avbrott under arbetet, avvikelse från standard, kommentarer, markskada mm.
 
 Utskrivet: 2025-10-09 09:55
-O:\GBG\351958\G\=Arbetsarea=\MUR\Export FM\25TY03_me_2025-09-16_stordprovtagning.xlsx/Skr_1 .
+O:\GBG\351958\G\\=Arbetsarea=\MUR\Export FM\25TY03_me_2025-09-16_stordprovtagning.xlsx/Skr_1 .
 
 [Tabell 169-1](handlingar.tabeller/169-1.csv)
 
@@ -7823,7 +7823,7 @@ Protokoll
 Avbrott under arbetet, avvikelse från standard, kommentarer, markskada mm.
 
 Utskrivet: 2025-10-09 09:56
-O:\GBG\351958\G\=Arbetsarea=\MUR\Export FM\25TY04_me_2025-09-16_stordprovtagning.xlsx/Skr_1 .
+O:\GBG\351958\G\\=Arbetsarea=\MUR\Export FM\25TY04_me_2025-09-16_stordprovtagning.xlsx/Skr_1 .
 
 [Tabell 170-1](handlingar.tabeller/170-1.csv)
 
@@ -8241,7 +8241,7 @@ Calibration code:          0,99 Output torque/Measured torque (Nm/Nm).
 The best fit values in the table underneath are
 recorded with this code.
 
-Parameters in the *.vib vane test acquisition files:
+Parameters in the \*.vib vane test acquisition files:
 Angle resolution (AA parameter): 0.5 degree
 Time resolution (AD parameter): 1 second
 Torque resolution (AB parameter): 0.03 Nm (12 bit resolution over a 100 Nm range)
@@ -8268,7 +8268,7 @@ SE-436 32 ASKIM, Sweden               SE556098559901
 
 | Applied Torque | Clockwise loading<br>(Nm) | Anticlockwise loading<br>(Nm) |
 | --- | --- | --- |
-| (Nm)* |  |  |
+| (Nm)\* |  |  |
 | 10 | 10,25 | 10,42 |
 | 20 | 20,35 | 20,66 |
 | 30 | 30,45 | 31,02 |
@@ -8697,7 +8697,7 @@ dexyspesBuuBernosg
 
 L
 
--
+\-
 
 ONINDVYLAOHd
 
@@ -8854,7 +8854,7 @@ S5S200+
 3 KOMPR. MODUL KPA &
 
 ru
->
+\>
 O
 Oo
 
@@ -8874,7 +8874,7 @@ Oo
 
 PORTRYCK KPA
 
-+
+\+
 an
 
 35
@@ -9433,9 +9433,9 @@ Sammanställning av
 
 LABORATORIEUNDERSÖKNINGAR
 
-- ma  |Provtagningsredskap: Skr Uppdrag a
+\- ma  |Provtagningsredskap: Skr Uppdrag a
 = 33 |LABORATORIEUNDERSÖKNINGAR Kunsbacka Björkris
-- =] Ramböll Sverige AB GC-bro över Kungsbackaån
+\- =] Ramböll Sverige AB GC-bro över Kungsbackaån
 BOX 5343, 402 27 Göteborg
 Telefon 031 - 335 33 00
 KV. Godkänd den 2004-04-08 U ummer
@@ -9517,11 +9517,11 @@ ER Grå rostfl gyttjjg TORRSKORPELERA 45 4 58
 Is
 
 BILAGA
-GF FÄLTGEOTEKNIK AB, BOX $056, Sammanställning av
+GF FÄLTGEOTEKNIK AB, BOX \$056, Sammanställning av
 402 22 GÖTEBORG = telefon 031-335 50 00 CRS
 '! sx | LABORATORIEUNDERSÖKNINGAR Uppdrag
 js Rd 1 | Ramböll Sverige AB
-- 2 | BOX $343, 402 27 Göteborg
+\- 2 | BOX \$343, 402 27 Göteborg
 RNEINAN Kungsbacka
 Godkänd den 2004-04-05 Björkris
 fältgeoteknik Lennart Nilsson
@@ -9549,7 +9549,7 @@ FOROR BI1a0IE EG GC-bro över Kungsbackaån
 m b 3 Godkänd den 2004-04-13
 ; fältgeoteknik |
 
-$ i [0] Cc k
+\$ i [0] Cc k
 ektion/borrhål Densitet vol ” M, -q - Vv i
 Djup/nivå vordart | um: | we [OS CkPal kra | Lp, M | na | mås Pr
 GC 2
@@ -9677,7 +9677,7 @@ Göteborgsvägen och Västkustbanan.
 
 EEBlixe
 
--
+\-
 ,
 
 2 4 /
@@ -9774,7 +9774,7 @@ Uppmätta värden på skjuvhållfastheten varierar mellan ca 10,5 och 71 kPa
 Värden reducerade med hänsyn till uppmätt konflytgräns redovisas i Figur 2
 nedan.
 
-3.
+3\.
 
 U:lUppdragWungsbackaWHede NVM 842500-mappiBeskrivninganUtredningar - PMYPM 070327 .doc
 
@@ -9789,7 +9789,7 @@ Reducerade skjuvhållfastheter
 
 [kPa]
 
-+ Bh 3Kv
+\+ Bh 3Kv
 s Bh 3 Vb
 A Bh2Vb
 10
@@ -9818,7 +9818,7 @@ x GC2Kv
 
 GC 5 Vb
 
-- SIT Vb
+\- SIT Vb
 
 35 t +
 
@@ -10302,7 +10302,7 @@ vr
 <!-- sida 277 -->
 
 Fe
-:
+\:
 
 GF
 
@@ -10449,12 +10449,12 @@ Provtagningsdatum: 2007-02-07
 Sammanställning av
 LABORATORIEUNDERSÖKNINGAR
 
-- ==  ÅProvtagningsredskap: Skr Uppdrag
+\- ==  ÅProvtagningsredskap: Skr Uppdrag
 je =  ÅLABORATORIEUNDERSÖKNINGAR Kungsbacka
-- "== ÅT Ramböll Sverige AB Hede NV
+\- "== ÅT Ramböll Sverige AB Hede NV
 BOX 5343, 402 27 Göteborg
 Telefon 031 - 335 33 00
-- " Godkänd den 2007-02-23 Uppdragsnummer
+\- " Godkänd den 2007-02-23 Uppdragsnummer
 fältgeoteknik Lennart Nilsson
 Vatten- | Konflyt- |] Tjälfarl Mtrl.typ
 Sektion/borrhål a kvot räns ru enl tab
@@ -10496,10 +10496,10 @@ GF FÄLTGEOTEKNIK AB, Sammanställning av
 BOX 8774, 402 76 GÖTEBORG CRS
 TELEFON 031 - 50 70 00
 MM =  |LABORATORIEUNDERSÖKNINGAR = |Uppdrag
-- = | Ramböll Sverige AB
+\- = | Ramböll Sverige AB
 ER nd BOX 5343, 402 27 Göteborg Ku ngsbacka
 Telefon 031 - 335 33 00 Hede NV
-- , Godkänd den 2007-02-16
+\- , Godkänd den 2007-02-16
 fältgeoteknik Lennart Nilsson
 Vatten- . -
 Sektion/borrhål Densitet | kvot oc M, CT 3 k;
@@ -10544,7 +10544,7 @@ NORMALSPÄNNING KPA
 UTVÄRDERING
 Förkonsolideringstryck ö'G 50 kPa
 Kompressionsmodul Mi, 15 kPa
-5. Gränstryck or 57 kPa
+5\. Gränstryck or 57 kPa
 Modultal M' "2
 Konsolideringskoefficient = Cy 25-08 m/s
 Initiell permeabilitet k; 16-09 m/s
@@ -10756,7 +10756,7 @@ https://tyrens.sharepoint.com/sites/351958-SE-TYR/Shared Documents/G/PM/PM Geote
 [5] Geoteknisk undersökning: Fält- och laboratorieresultat (Rgeo) Björkris
 utförd av GF konsult AB. Uppdragsnummer 184 223 03 daterad 2005-12-
 
-20. Borrhål ”GC-2” och ”S-1”
+20\. Borrhål ”GC-2” och ”S-1”
 [6] Geoteknisk undersökning: PM beträffande byggbarhet utförd av GF
 
 konsult AB. Uppdragsnummer 184 250 23 daterad 2007-03-27. Borrhål
@@ -10950,7 +10950,7 @@ Tabell 2. Valda värden för parametrar i jordmodellen.
 Nivå ök                          𝝋  /𝑪
 𝒗𝒂𝒍𝒕 𝒖;𝒗𝒂𝒍𝒕
 [RH2000]
-+4,9                             34°**
++4,9                             34°\*\*
 +4,5                             25 kPa
 
 +2,3                             10 kPa
@@ -10959,8 +10959,8 @@ Nivå ök                          𝝋  /𝑪
 kPa/m
 Varierar                         40°
 
-*Materialtyp/Tjälfarlighetsklass enligt AMA 23.
-**Ska betraktas som residualvärde enligt Tabell 3.1 i IEG Rapport 6:2008.
+\*Materialtyp/Tjälfarlighetsklass enligt AMA 23.
+\*\*Ska betraktas som residualvärde enligt Tabell 3.1 i IEG Rapport 6:2008.
 
 7.3.2 Dimensionerande hydrogeologiska förutsättningar
 
@@ -10975,7 +10975,7 @@ https://tyrens.sharepoint.com/sites/351958-SE-TYR/Shared Documents/G/PM/PM Geote
 
 [Tabell 301-1](handlingar.tabeller/301-1.csv)
 
-| Material | M/T* | 𝜸<br>𝒗𝒂𝒍𝒕<br>[kN/m3] |
+| Material | M/T\* | 𝜸<br>𝒗𝒂𝒍𝒕<br>[kN/m3] |
 | --- | --- | --- |
 | Fyllning (grus<br>sand) |  | 18 |
 | Torrskorpelera | 4B/3 | 17 |
@@ -11014,24 +11014,24 @@ se nedan, i enlighet med IEG Rapport 4:2010 kapitel 4.5.2.1 och 4.5.2.3.
 
 Gynnsamma förhållanden:
 
--  Begränsad utbredning av potentiella skred – risken för stora glidytor
+\-  Begränsad utbredning av potentiella skred – risken för stora glidytor
 bedöms vara liten
--  Ej kvicklera
--  Inga tecken på rörelser i slänten
--  Intakt gräs-, busk- eller trädvegetation
--  Låg sensitivitet
+\-  Ej kvicklera
+\-  Inga tecken på rörelser i slänten
+\-  Intakt gräs-, busk- eller trädvegetation
+\-  Låg sensitivitet
 
--  Relativt liten spridning i hållfasthetsegenskaper – parameterdata
+\-  Relativt liten spridning i hållfasthetsegenskaper – parameterdata
 visar relativt god samstämmighet och låg variation
--  Stort antal beräknade glidytor
--  Glidytans läge i plan vald i farligaste delen av slänten ur
+\-  Stort antal beräknade glidytor
+\-  Glidytans läge i plan vald i farligaste delen av slänten ur
 stabilitetssynpunkt
--  CPT-sonderingar är utförda
+\-  CPT-sonderingar är utförda
 
--  In situ-försök (vingförsök) är utförda
--  Tätt undersökt
--  Välkänd geometri (utförda avvägningar)
--  Väldränerat och dikat område
+\-  In situ-försök (vingförsök) är utförda
+\-  Tätt undersökt
+\-  Välkänd geometri (utförda avvägningar)
+\-  Väldränerat och dikat område
 
 Uppdrag: 351958 Arendalsleden förstudie fyra körfält 2025-11-03
 Beställare: Kungsbacka kommun
@@ -11042,14 +11042,14 @@ https://tyrens.sharepoint.com/sites/351958-SE-TYR/Shared Documents/G/PM/PM Geote
 
 Ogynnsamma förhållanden:
 
--  Risk för människoliv och ekonomisk skada – trafik och infrastruktur i
+\-  Risk för människoliv och ekonomisk skada – trafik och infrastruktur i
 närheten ökar konsekvensen vid brott
--  Kohesionsjord – skredkänslig jord
+\-  Kohesionsjord – skredkänslig jord
 
--  Långtidsobservationer av portryck saknas
--  Vald kombination för last, portryck och vattenstånd motsvarar
+\-  Långtidsobservationer av portryck saknas
+\-  Vald kombination för last, portryck och vattenstånd motsvarar
 normaltillståndet för slänten
--  Kompressions-, triaxialförsök och direkta skjuvförsök saknas.
+\-  Kompressions-, triaxialförsök och direkta skjuvförsök saknas.
 
 Tillståndsbedömningen avser befintlig anläggning motsvarande detaljerad
 utredningsnivå, vilket ger intervall på erforderlig säkerhetsfaktor i odränerad
@@ -11134,16 +11134,16 @@ konservativa antaganden och att förutsättningarna inte är helt klarlagda i
 fråga om rådande grundvattensituation och befintlig vägs uppbyggnad i
 riktning åt söder. I kommande skeden rekommenderas därför:
 
--  Ytterligare undersökningar för att minska osäkerheter i
+\-  Ytterligare undersökningar för att minska osäkerheter i
 jordparametrar – ostörd provtagning med kolvprovtagare för
 bestämning av lerans hållfasthet (direkta skjuvförsök)
--  Kontroll av befintlig vägs uppbyggnad genom arkivstudier
+\-  Kontroll av befintlig vägs uppbyggnad genom arkivstudier
 (relationshandlingar) eller ytterligare provtagning genom vägbank
--  Komplettering av observationsrör för att bekräfta
+\-  Komplettering av observationsrör för att bekräfta
 
 grundvattensituationen och kunna dimensionera erforderlig mängd
 lättfyllning (kontroll av upplyft)
--  Uppdaterade stabilitetsberäkningar för att säkerställa att
+\-  Uppdaterade stabilitetsberäkningar för att säkerställa att
 tillfredställande säkerhetsfaktorer uppnås
 
 Med kompletterande undersökningar och åtgärder enligt ovan finns
@@ -11209,7 +11209,7 @@ GF4 (Vb)     S-1 (Vb)    3 (Kon)     Valt värde
 Bilaga 2 - Stabilitetsberäkningar                                               Sida 1 av 7
 2025-11-03
 
-O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 [Tabell 307-1](handlingar.tabeller/307-1.csv)
 
@@ -11222,7 +11222,7 @@ O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 <!-- sida 308 -->
 
-O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 [Tabell 308-1](handlingar.tabeller/308-1.csv)
 
@@ -11235,7 +11235,7 @@ O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 <!-- sida 309 -->
 
-O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 [Tabell 309-1](handlingar.tabeller/309-1.csv)
 
@@ -11249,7 +11249,7 @@ O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 <!-- sida 310 -->
 
-O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 [Tabell 310-1](handlingar.tabeller/310-1.csv)
 
@@ -11263,7 +11263,7 @@ O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 <!-- sida 311 -->
 
-O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 [Tabell 311-1](handlingar.tabeller/311-1.csv)
 
@@ -11278,7 +11278,7 @@ O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 <!-- sida 312 -->
 
-O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 [Tabell 312-1](handlingar.tabeller/312-1.csv)
 
@@ -11293,7 +11293,7 @@ O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 <!-- sida 313 -->
 
-O:\GBG\351958\G\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
 
 [Tabell 313-1](handlingar.tabeller/313-1.csv)
 
@@ -11644,7 +11644,7 @@ Grunduppgifter
 
 Projektorganisation och giltighet
 
-*Giltighetstiden beskriver perioden från upprättandet till leverans beställare.
+\*Giltighetstiden beskriver perioden från upprättandet till leverans beställare.
 
 Arbetsmiljöplanens  upprättande
 
@@ -11854,21 +11854,21 @@ projektering i projektet.
 
 3.1.1 Byggarbetsmiljösamordning, planering och projektering ”BAS-P 1”
 
-* Tidsperioden beskriver perioden från datum då BAS-P påbörjade arbetet tills den överlämnats till beställare/byggherre
+\* Tidsperioden beskriver perioden från datum då BAS-P påbörjade arbetet tills den överlämnats till beställare/byggherre
 eller BAS-U.
 
 3.1.2 Byggarbetsmiljösamordning planering och projektering ”BAS-P 2”
 
-* Tidsperioden beskriver perioden från datum då BAS-P påbörjade arbetet tills den överlämnats till beställare/byggherre
+\* Tidsperioden beskriver perioden från datum då BAS-P påbörjade arbetet tills den överlämnats till beställare/byggherre
 eller BAS-U.
-** BAS-P2 tar inte ansvar för sådan information som BAS-P2 inte fått upplysning om. BAS-P2 har vid datumstämpel
+\*\* BAS-P2 tar inte ansvar för sådan information som BAS-P2 inte fått upplysning om. BAS-P2 har vid datumstämpel
 genomfört en kontroll av tidigare arbeten kopplat till arbetsmiljö och inte funnit några uppenbara brister enligt AML 3 kap.
 7a.
 
 3.1.3 Person med särskild kompetens om konstruktion vid planering och
-projektering av tillfällig eller samverkande konstruktioner*
+projektering av tillfällig eller samverkande konstruktioner\*
 
-* Enligt AFS 2023:3 3 kap. 8 §.
+\* Enligt AFS 2023:3 3 kap. 8 §.
 
 [Tabell 333-1](handlingar.tabeller/333-1.csv)
 
@@ -11877,7 +11877,7 @@ projektering av tillfällig eller samverkande konstruktioner*
 | Tyréns Sverige AB |  |
 | Handläggande BAS-P | BAS-P granskare |
 | Linn Gustafsson |  |
-| Tidsperiod* |  |
+| Tidsperiod\* |  |
 | fr.o.m. | t.o.m. |
 | 2025-09-01 | 2025-10-24 |
 
@@ -11888,10 +11888,10 @@ projektering av tillfällig eller samverkande konstruktioner*
 |  |  |
 | Handläggande BAS-P | BAS-P granskare |
 |  |  |
-| Tidsperiod* |  |
+| Tidsperiod\* |  |
 | fr.o.m. | t.o.m. |
 | Klicka eller tryck här för att ange datum. | Klicka eller tryck här för att ange datum. |
-| Överlämning av BAS-P1** |  |
+| Överlämning av BAS-P1\*\* |  |
 | Datum för genomgång | Klicka eller tryck här för att ange datum. |
 
 [Tabell 333-3](handlingar.tabeller/333-3.csv)
@@ -11919,7 +11919,7 @@ därför att hantera detta kapitel.
 
 Komplettera mer flera områden.
 
-3.2.3 Driftställets samordnare i arbetsmiljöfrågor*
+3.2.3 Driftställets samordnare i arbetsmiljöfrågor\*
 
 Namn                            Telefon
 
@@ -11958,7 +11958,7 @@ Namn                            Telefon
 
 <!-- sida 335 -->
 
-*Om arbetet sker där även annan verksamhet pågår = fast driftställe, ex. vid ombyggnad i befintlig industri,
+\*Om arbetet sker där även annan verksamhet pågår = fast driftställe, ex. vid ombyggnad i befintlig industri,
 affär eller kontor, ska arbetsmiljöfrågor samordnas.
 
 3.2.4 Brandskyddsansvarig
@@ -12050,10 +12050,10 @@ Arbetsmiljö ska vara en stående punkt på alla bygg- och planeringsmöten.
 5.1  Vid Nödfall
 
 Om nödfall uppstår följ:
-1. Ring 112
+1\. Ring 112
 
-2. Ring ansvarig på arbetsplatsen/fasta driftstället/vakten
-3. Möt upp räddningstjänsten för guidning och/eller informationsöverlämning exempelvis SDB
+2\. Ring ansvarig på arbetsplatsen/fasta driftstället/vakten
+3\. Möt upp räddningstjänsten för guidning och/eller informationsöverlämning exempelvis SDB
 
 5.2  Olycksfall
 
@@ -12803,9 +12803,9 @@ Dokument Bilaga 7. Arbetsmiljöplan_20251024
 <!-- sida 362 -->
 
 8.19 Obehöriga  på arbetsområdet/våld/hot om  våld/sabotage/stöld
-Risk för skada pga tredje part*, sabotage av maskiner, stölder, personskador.
+Risk för skada pga tredje part\*, sabotage av maskiner, stölder, personskador.
 
-* Prop 1990/91 s. 130 om tredjeman
+\* Prop 1990/91 s. 130 om tredjeman
 
 Aktuell lagstiftning
 SFS 1977:1060 Arbetsmiljölagen
@@ -13142,7 +13142,7 @@ TR
 | 2 ör |
 SEKTION A-A
 2+1 VÄG t 9 t
-- o L L
+\- o L L
 VÄSTER OM KUNGSBACKAÅN ” ”
 i - LES
 SEKTION B-B SEKTION B-B
@@ -13230,14 +13230,14 @@ TYPSEKTION C-C
 
 FG
 FG
-- |
+\- |
 EVENTUELL | i |
 06 3 2 I 6 05 KÖRBANA 35 — REFUG 2, KÖRBANA 35  KÖRBANA 35 05 6 |
 1 7 1 1 17 1 1 1 17 1
- DKE 260 135 | DIKE 3.1
+DKE 260 135 | DIKE 3.1
 1 1 1 1 1 1
 
-|
+\|
 
 NY GCM-BRO 3.6 |
 
@@ -13599,10 +13599,10 @@ till kollektivtrafik, gång eller cykel.
 
 Nedan beskrivs kortfattat de steg som utförts vid framtagandet av prognosen:
 
-1) Kalibrerade nulägesmatriser från drönarfilmerna. Denna trafik utgör en
+1\) Kalibrerade nulägesmatriser från drönarfilmerna. Denna trafik utgör en
 grundtrafik.
 
-2) OD-matriser från scenario ”Prognosstyrd 2050” från Kungsbackas
+2\) OD-matriser från scenario ”Prognosstyrd 2050” från Kungsbackas
 Visummodell har tagits fram. Dessa har sedan skrivits ned med 40% för
 genomfartstrafik (ej för zonerna kopplat till handelsområdet, vilka är samtliga
 zoner med verksamheter längs Transportgatan, Kungsparksvägen, vid Hede
@@ -13622,12 +13622,12 @@ Det innebär att den nedskalade OD-matrisen kommer ha samma relationer
 som prognosstyrd 2050 och kopplingen till de större exploateringarna finns
 kvar.
 
-3) Beräkning av differensen mellan traversalmatriserna för ”Prognosstyrd 2050
+3\) Beräkning av differensen mellan traversalmatriserna för ”Prognosstyrd 2050
 (nedskriven med 40%)” och nulägesmodellen i Visum. Detta representerar
 den förväntade trafikökningen i området.
 
-4) Addera differensen i steg 3) till de kalibrerade nulägesmatriserna i steg 1).
-5) Justera/kontrollera så att exploateringen vid Hede Fashion Outlet inkluderas i
+4\) Addera differensen i steg 3) till de kalibrerade nulägesmatriserna i steg 1).
+5\) Justera/kontrollera så att exploateringen vid Hede Fashion Outlet inkluderas i
 den nya matrisen med senaste indata. Alstringen för Hede Fashion Outlet
 baseras på ett parallellt arbete som utförs för denna utbyggnad, där den
 
@@ -13902,7 +13902,7 @@ Figur 17. Ögonblicksbild från drönarfilmning under eftermiddagen över Göteb
 Jämförelsealternativet (JA) 2050 utgör ett referensscenario där nulägets vägnät
 kombineras med trafikprognosen för år 2050, utan att några infrastrukturella
 åtgärder inkluderas. Figur 18 visar den relativa fördröjningen under förmiddagen
-2050.
+2050\.
 
 19
 
@@ -13941,7 +13941,7 @@ Förmiddag
 Figur 20 visar relativ fördröjning för UA1 2050, FM.
 
 UA 1: 2+2
-- FM 2050
+\- FM 2050
 
 Figur 20. Relativ fördröjning för UA1, FM 2050
 
@@ -13966,7 +13966,7 @@ Eftermiddag
 Figur 21 visar relativ fördröjning för UA1 2050, EM.
 
 UA 1: 2+2
-- EM 2050
+\- EM 2050
 
 Figur 21. Relativ fördröjning för UA1, EM 2050
 
@@ -13998,7 +13998,7 @@ Förmiddag
 Figur 22 visar relativ fördröjning under förmiddagen för UA2, 2050.
 
 UA 2: 2+1
-- FM 2050
+\- FM 2050
 
 Figur 22. Relativ fördröjning för UA2, FM 2050
 Resultaten från Figur 22 visar fortsatt samma problembild längs Varlavägen som
@@ -14012,7 +14012,7 @@ Eftermiddag
 Figur 23 visar relativ fördröjning under eftermiddagen för UA2, 2050.
 
 UA 2: 2+1
-- EM 2050
+\- EM 2050
 
 Figur 23. Relativ fördröjning för UA2, EM 2050
 
@@ -14036,7 +14036,7 @@ Förmiddag
 Figur 24 visar den relativa fördröjningen för UA3, FM 2050
 
 UA 3: 2+2 (inkl. trimningsåtgärder)
-- FM 2050
+\- FM 2050
 
 Figur 24. Relativ fördröjning för UA3, FM 2050
 
@@ -14055,7 +14055,7 @@ Eftermiddag
 Figur 25 visar den relativa fördröjningen för UA3, EM 2050
 
 UA 3: 2+2 (inkl. trimningsåtgärder)
-- EM 2050
+\- EM 2050
 
 Figur 25. Relativ fördröjning för UA3, EM 2050
 
@@ -14103,7 +14103,7 @@ Figur 26 visar den relativa fördröjningen för UA4, FM 2050.
 
 UA 4: 2+1 (inkl. trimningsåtgärder)
 
-- FM 2050
+\- FM 2050
 
 Figur 26. Relativ fördröjning för UA4, FM 2050
 
@@ -14122,7 +14122,7 @@ Figur 27 visar den relativa fördröjningen för UA4, EM 2050.
 
 UA 4: 2+1 (inkl. trimningsåtgärder)
 
-- EM 2050
+\- EM 2050
 
 Figur 27. Relativ fördröjning för UA4, EM 2050
 Resultaten från Figur 27 visar att även 2+1 längs Arendalsleden med förstärkande
@@ -14330,7 +14330,7 @@ Genomföra        barnkonsekvensanalys
 
 Ärendenummer: #234922 | Inskickat av: Sarah Lowry | 2025-09-23 15:56
 
-1. Introduktion/överblick
+1\. Introduktion/överblick
 
 Ange rubrik
 
@@ -14383,10 +14383,10 @@ För- och efternamn                E-postadress
 Julia Emqvist                     Julia.Emqvist@kungsbacka.se
 
 Telefon                           Organisation
--                                 -
+\-                                 -
 
 Avdelning                         Tjänstetitel
--                                 -
+\-                                 -
 
 Vem är mottagare av denna barnkonsekvensanalys
 
@@ -14403,16 +14403,16 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 Hur sker uppföljningen av denna barnkonsekvensanalys?
 
-1. Vem ansvarar för uppföljningen?
-2. När sker uppföljningen? Uppföljning av denna barnkonsekvensanalys bör ske inom ett år.
+1\. Vem ansvarar för uppföljningen?
+2\. När sker uppföljningen? Uppföljning av denna barnkonsekvensanalys bör ske inom ett år.
 
-3. Hur dokumenteras resultatet?
+3\. Hur dokumenteras resultatet?
 
 Förvaltningen för Teknik
 
 Se SKA-analys för detaljer kring uppföljning.
 
-2. Kartläggning
+2\. Kartläggning
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -14485,9 +14485,9 @@ Beskriv annan information som är relevant för din barnkonsekvensanalys
 
 Förstudien tar upp relevant information kring projektets påverkan på barnets bästa.
 
-3. Fråga berörda barn
+3\. Fråga berörda barn
 
-4. Barnkonsekvensanalys
+4\. Barnkonsekvensanalys
 
 Redogör för vilka konsekvenser det blir för berörda barn, på lång och kort sikt,
 utifrån beslutet i fråga.
@@ -14524,19 +14524,19 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 Redogör för eventuella kompenserande åtgärder ni ska vidta för berörda barn,
 på lång och kort sikt, utifrån beslutet i fråga.
 
-- Utveckling av gång- och cykelväg längs med Arendalsleden gynnar barns framkomlighet längs
+\- Utveckling av gång- och cykelväg längs med Arendalsleden gynnar barns framkomlighet längs
 med den sträckan. Ett bredare perspektiv på området runtom visar att framkomligheten är dock
 helt eller delvis begränsad. Åtgärder för att främja aktiva skoltransporter som gång och cykling
 måste göras i närområdet i dess helhet.
 
-- En kompenserade åtgärd som på barns upplevelse av trygghet och säkerhet är ombyggnation
+\- En kompenserade åtgärd som på barns upplevelse av trygghet och säkerhet är ombyggnation
 
 av cirkulationsplatsen med Göteborgsvägen och gång- och cykelväg norr om Arendalsleden
 innebär bättre orienterbarhet för barn. Korsningspunkten mellan pendelcykelstråket längs med
 Göteborgsvägen och Arendalsleden bör utföras med signalreglering för att främja barns
 upplevda känsla av säkerhet kring ovan nämnda korsningspunkt.
 
-- För att motverka osäker korsning längs över Arendalsleden föreslås staket mellan körfälten.
+\- För att motverka osäker korsning längs över Arendalsleden föreslås staket mellan körfälten.
 Detta agerar en tillräcklig barriär för att motverka olyckor längs med sträckan.
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
@@ -16220,7 +16220,7 @@ Jämförelsealternativ 2050
 
 Trafiksimuleringar visar att dagens trafiksystem saknar tillräcklig kapacitet
 för att hantera den prognostiserade trafikökningen under eftermiddagen år
-2050. Kapacitetsbrist uppstår på flera platser i vägnätet, vilket leder till
+2050\. Kapacitetsbrist uppstår på flera platser i vägnätet, vilket leder till
 omfattande köbildning. Figur 37 nedan visar de förväntade
 problempunkterna i vägnätet år 2050. Flera av dessa punkter hänger
 samman och påverkar varandra.
@@ -16271,7 +16271,7 @@ potentiellt förändrad hydraulik. Då åtgärder utförs inom vattenområde utg
 de vattenverksamhet enligt 11 kapitlet MKB.
 
 För Kungsbackaån, som har en medelvattenföring på cirka 5 m³/s (SMHI,
-2025) innebär regelverket att:
+2025\) innebär regelverket att:
 
 •  en ny gång- och cykelbro bedöms vara tillståndspliktig
 vattenverksamhet.
@@ -18024,7 +18024,7 @@ mer information och detaljerad projektering blir tillgänglig.
 
 I Figur 70 nedan redovisas bedömda kostnader för de olika alternativen
 inom utredningsområdet. Framtagen kostnadsbedömning återfinns i Bilaga
-9. I redovisade kostnader ingår inte de trimningsåtgärder som är
+9\. I redovisade kostnader ingår inte de trimningsåtgärder som är
 
 lokaliserade utanför utredningsområdet och som beskrivs i kap 6.1.2.
 Dessa åtgärder har översiktligt bedömts till cirka 20 till 25 miljoner kronor.
@@ -18332,7 +18332,7 @@ och boggitryck.
 När det gäller bron över Kungsbackaån blir en bärighetsberäkning aktuell
 om kommunen beslutar att bredda bron. Denna beräkning kan även ligga
 till grund för ett eventuellt beslut om att klassa upp vägen till bärighetsklass
-4.
+4\.
 
 Uppdrag: 351958                               2025-11-12
 Beställare: Kungsbacka kommun                 Slutrapport
@@ -18643,7 +18643,7 @@ Den första etappen planeras att starta år 2027, följt av en
 tabellen nedan. Summan är oklar och tillkommer innan
 etapp varje år fram till 2031.
 projektering.
-______________________________________________
+\______________________________________________
 Sträckor och etapper
 I tabellen nedan redovisas hur mycket varje etapp
 Sträcka 1 –Etapp 1
@@ -18993,7 +18993,7 @@ GC-banan har fått okej att gå på 3:303 (Eksta Bostad AB), ej gå
 över på fastighet 2:5.
 Bild 1
 
-************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 Under bortvalda sträckor finns
 denna sträcka med. Den valdes
 bort för att fastighetsägaren på
@@ -19009,7 +19009,7 @@ och 4 på kommande sida).
 Läs mer om detta förslag under
 bortvalda sträckor i slutet av
 denna förstudierapport.
-************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 <!-- sida 548 -->
 
@@ -19366,15 +19366,15 @@ S:22
 
 Överlämning                                     Etapp 3
 
-- Meddela fastighetsägare intill den planerade sträckan vad som
+\- Meddela fastighetsägare intill den planerade sträckan vad som
 Till denna förstudie finns även internt arbetsmaterial med
 är på gång och när/hur det planeras att byggas.
 dokumentation från varje kontakt med intressenter såsom
 fastighetsägare, Trafikverket med flera.
-- 3:21 –Flera försök har gjorts för att få kontakt och informera om
+\- 3:21 –Flera försök har gjorts för att få kontakt och informera om
 planerna. Inget svar. Ta kontakt igen.
 Arbetsmaterial 1 –Dagbok
-- 3:175 –Ägare till fastighet 3:175 avled under förstudien. När
+\- 3:175 –Ägare till fastighet 3:175 avled under förstudien. När
 Arbetsmaterial 2 –Kontaktuppgifter
 fastighet 3:175 får ny ägare så rekommenderas att pröva
 förslaget om att gå över deras mark. Om detta förslag blir
@@ -19384,25 +19384,25 @@ Outredda samfälligheter behöver skickas in till lantmäteriet i takt hörnet p
 med att en etapp ska påbörjas, innan projekteringen startar.
 Har fått OK på 2:6:
 Det finns fortfarande fastighetsägare att ta kontakt med,
-- 2:6 –Kommunens fastighet. Här har vi fått OK till att gå fram
+\- 2:6 –Kommunens fastighet. Här har vi fått OK till att gå fram
 exempelvis:
 med GC-väg och flytta verksamhetens mur några meter in mot
 Etapp 1                                           fasaden för att komma fram med den anlagda GC-vägen och
 ansluta mot etapp 4 vid fastighet 2:7.
-- Meddela alla fastighetsägare intill den planerade sträckan vad
+\- Meddela alla fastighetsägare intill den planerade sträckan vad
 som är på gång och när/hur det planeras att byggas. Etapp 4
-- 8:16 –Informera om planerna. Att vi går precis i kanten till denna - 3:21 -Där belysning är planerad att utvecklas äger denna
+\- 8:16 –Informera om planerna. Att vi går precis i kanten till denna - 3:21 -Där belysning är planerad att utvecklas äger denna
 fastighet.                                      fastighetsägare en del av marken.
 Etapp 2                                         - Meddela alla fastighetsägare intill den planerade sträckan vad
 som är på gång och när/hur det planeras att byggas.
-- Meddela alla fastighetsägare intill den planerade sträckan vad
+\- Meddela alla fastighetsägare intill den planerade sträckan vad
 som är på gång och när/hur det planeras att byggas. Etapp 5
-- 1:18 –Informera om att fastighet 1:17 vill att vi sätter upp en - Meddela alla fastighetsägare intill den planerade sträckan vad
+\- 1:18 –Informera om att fastighet 1:17 vill att vi sätter upp en - Meddela alla fastighetsägare intill den planerade sträckan vad
 pollare några meter efter deras utfart mot slottet till på grund av som är på gång och när/hur det planeras att byggas.
 travhästverksamhet. Att de då får köra ut mot Jute Tvärväg.
 Avslut
 Hinder som står där idag ska tas bort i den planerade etappen.
-- 12:12 –Informera fastighetsägare att vi vill ta bort chikaner på Denna förstudie kommer att uppdateras i takt med att outredda
+\- 12:12 –Informera fastighetsägare att vi vill ta bort chikaner på Denna förstudie kommer att uppdateras i takt med att outredda
 Ölmanäs Ringväg och bredda till två filer. Några meter i kanten samfälligheter blir färdigutredda.
 på deras fastighet berörs. (Bytte ägare under förstudien)
 
@@ -19494,7 +19494,7 @@ dricksvattenkomplement i ansträngda lägen.
 Sammanfattning av ärendet
 2025-08-27 sade Göteborgs stad, genom kretslopp och vatten, upp Avtal mellan Kungsbacka och
 Göteborg om ömsesidigt dricksvattenkomplement i ansträngda lägen, som undertecknades 2022-10-
-20. Bakgrunden till uppsägningen är den osäkerhet som föreligger kring Kungsbackas möjligheter att
+20\. Bakgrunden till uppsägningen är den osäkerhet som föreligger kring Kungsbackas möjligheter att
 
 uppfylla sin del av avtalet i väntan på besked i vattendom. Den omförhandling av avtalet som pågått
 sedan i mars 2024 har inte resulterat i ett reviderat avtal, eftersom genomförbarhet och möjlig nytta för
@@ -19545,19 +19545,19 @@ principer som tillämpas i många andra kommuner.
 Förslag till beslut
 Tekniknämnden beslutar att:
 
-1. Förvaltningen får i uppdrag att ta fram ett förslag till kommunalt regelverk som möjliggör för
+1\. Förvaltningen får i uppdrag att ta fram ett förslag till kommunalt regelverk som möjliggör för
 
 politiska partier att sätta upp valaffischer på lyktstolpar. Detta i första hand för vägar med
 kommunalt huvudmannaskap, i andra hand för vägar med statligt huvudmannaskap (där hänsyn
 även måste tas till de nationella riktlinjerna för affischering längs med statliga vägar).
 
-2. Förvaltningen får i uppdrag att ta fram riktlinjer för:
-- vilka platser och typer av stolpar som omfattas,
-- tidsperiod för uppsättning och nedtagning,
-- ansvar för säkerhet, skötsel och borttagning.
-- avgifter för när riktlinjerna inte efterföljs.
+2\. Förvaltningen får i uppdrag att ta fram riktlinjer för:
+\- vilka platser och typer av stolpar som omfattas,
+\- tidsperiod för uppsättning och nedtagning,
+\- ansvar för säkerhet, skötsel och borttagning.
+\- avgifter för när riktlinjerna inte efterföljs.
 
-3. Förvaltningen ska återredovisa uppdraget senast under första halvåret 2026, i god tid innan
+3\. Förvaltningen ska återredovisa uppdraget senast under första halvåret 2026, i god tid innan
 
 valrörelsen.
 
@@ -19781,29 +19781,29 @@ Kungsbackaborna
 
 Exempel från andra kommuner
 
-- I Hagfors 2024 satte man upp ett mål på 12 025 m? bekämpad yta - invånarna nådde hela
+\- I Hagfors 2024 satte man upp ett mål på 12 025 m? bekämpad yta - invånarna nådde hela
 26 599 m?, alltså 221 946 av målet.
 
-- I Lilla Edet satsades 50 000 kr, varav 18 000 gick direkt till belöningar. Kommunen
+\- I Lilla Edet satsades 50 000 kr, varav 18 000 gick direkt till belöningar. Kommunen
 konstaterar att det var en billig och effektiv satsning som engagerade många fler än man
 kunnat göra med egna resurser.
 
 Fördelar för Kungsbacka
 
-- Arbetet kan göras på sommaren när kommunens personal har semester.
+\- Arbetet kan göras på sommaren när kommunens personal har semester.
 
-- Invånarna får vara med och förbättra sitt närområde.
+\- Invånarna får vara med och förbättra sitt närområde.
 
-- Ungdomar och föreningar får en rolig och meningsfull aktivitet.
+\- Ungdomar och föreningar får en rolig och meningsfull aktivitet.
 
-- Kommunens resurser frigörs till svårare arter som parkslide och jätteloka.
-- Media uppmärksammar det positiva - ett projekt som skapar engagemang,
+\- Kommunens resurser frigörs till svårare arter som parkslide och jätteloka.
+\- Media uppmärksammar det positiva - ett projekt som skapar engagemang,
 gemenskap och stolthet.
 
 Yrkande
 Med stöd av ovanstående yrkar partiet Kungsbackaborna:
 
-- Att Kungsbacka kommun utreder förutsättningarna för att införa Crowdsorsa eller
+\- Att Kungsbacka kommun utreder förutsättningarna för att införa Crowdsorsa eller
 
 liknande som ett komplement i arbetet mot invasiva arter och återkommer till
 fullmäktige med förslag till beslut.
@@ -19899,7 +19899,7 @@ Yrkande
 
 Med stöd av ovanstående yrkar partiet Kungsbackaborna:
 
-- Att Kungsbacka kommun utreder förutsättningarna för att anlägga en hundrastgård i
+\- Att Kungsbacka kommun utreder förutsättningarna för att anlägga en hundrastgård i
 Kolla Parkstad och återkommer till kommunfullmäktige för beslut.
 
 För Kungsbackaborna

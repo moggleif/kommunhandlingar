@@ -242,7 +242,7 @@ fastställda principerna i ledningssystemet i patientsäkerhetsberättelsen att 
 efterföljs och att arbetet sker systematiskt.
 Under 2024 har arbetet med implementering och fastställande av
 dokumentationsrutiner/mallar fortsatt i journalsystemet. Ett nytt journalsystem (April
-2023) inom HSL är en process som behöver noggrant övervakas och även på ett
+2023\) inom HSL är en process som behöver noggrant övervakas och även på ett
 patientsäkert sätt kunna anpassas efter införande.
 
 Koppling till NPÖ för att producera journaluppgifter är utfört under 2024, detta är till
@@ -708,16 +708,16 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. JO anmälan
+1\. JO anmälan
 
-2. Handlingsplan för Lönekartläggning 2024
-3. Brev från Skolverket till huvudman
+2\. Handlingsplan för Lönekartläggning 2024
+3\. Brev från Skolverket till huvudman
 
-4. DSO årsrapport 2024
-5. Ny personalföreträdare på nämnden
+4\. DSO årsrapport 2024
+5\. Ny personalföreträdare på nämnden
 
-6. Styrelseprotokoll samordningsförbundet Halland
-7. Dom från förvaltningsrätten
+6\. Styrelseprotokoll samordningsförbundet Halland
+7\. Dom från förvaltningsrätten
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
@@ -788,16 +788,16 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Förvaltningschef Patrik Hellberg informerar om följande:
-* Ny personalföreträdare för Sveriges skolledare kommer att vara med från och med
+\* Ny personalföreträdare för Sveriges skolledare kommer att vara med från och med
 
 nästa nämndssammanträde. Cajsa Fridén
-* Dom har inkommit gällande riktlinjen för politiska besök i gymnasieskolan.
+\* Dom har inkommit gällande riktlinjen för politiska besök i gymnasieskolan.
 
-* Mycket mediafokus på säkerheten i förvaltningen verksamheter. Nya lagförslag har
+\* Mycket mediafokus på säkerheten i förvaltningen verksamheter. Nya lagförslag har
 kommit som förvaltningen behöver ta ställning till.
-* Kort information kring hur förvaltningen arbetar kring AI
+\* Kort information kring hur förvaltningen arbetar kring AI
 
-* Möte med Samordningsförbundet i Halland under v 9.
+\* Möte med Samordningsförbundet i Halland under v 9.
 
 Beslutsgång
 

@@ -357,7 +357,7 @@ kommundirektören i uppdrag att ställa ut Granskningsförslag till fördjupad
 översiktsplan, text och kartmaterial, daterad 2024-12-18.
 Stefan Jägnert (SD) och Stefan Vilumsons (SD) yrkar på följande ändringar:
 
-1. Under rubriken Jordbruksmark på sidan 12 stryks följande stycke:
+1\. Under rubriken Jordbruksmark på sidan 12 stryks följande stycke:
 −  Den jordbruksmark som föreslås tas i anspråk för bebyggelse bedöms ha ett
 strategiskt viktigt läge för att Kungsbacka ska kunna gå mot ett hållbart
 samhälle utifrån ett helhetsperspektiv.
@@ -380,27 +380,27 @@ Kommunstyrelsen
 Datum
 2025-02-18
 
-2. Under rubriken Riktlinjer och motiveringar för hela staden på sidan 42
+2\. Under rubriken Riktlinjer och motiveringar för hela staden på sidan 42
 läggs följande stycke till i först stycket:
 −  Särskilt fokus ska läggas på att skapa tryggare kollektivtrafikpunkter och
 gång- och cykelstråk för att öka säkerheten, särskilt på kvällar och i utsatta
 områden. Dessa åtgärder ska stärka förtroendet för hållbara färdmedel.
 
-3. Under rubriken Stadsmiljön ska utformas utifrån genomarbetade
+3\. Under rubriken Stadsmiljön ska utformas utifrån genomarbetade
 arkitektoniska idéer. (2) på sidan 42 läggs följande stycke till:
 
 −  Arkitektoniska idéer ska också bidra till att skapa trygghet och trivsel genom
 att prioritera öppna och upplysta miljöer som förhindrar social oro och brott.
-4. Under rubriken Vi ska verka för att det finns mötesplatser i alla delar av
+4\. Under rubriken Vi ska verka för att det finns mötesplatser i alla delar av
 
 staden som erbjuder varierade funktioner på sidan 43 stryks orden:
 −  samt utifrån perspektiv om kön och könsidentitet.
-5. Under rubriken Vi frigör ytor till bebyggelse och grönområden genom att
+5\. Under rubriken Vi frigör ytor till bebyggelse och grönområden genom att
 samla parkering i anläggningar. (10) stryks följande mening:
 
 −  Vi kan också minska biltrafikmängden och utsläppen i centrala och
 stationsnära lägen.
-6. Under rubriken Vid ny- och ombyggnation av allmän platsmark,
+6\. Under rubriken Vid ny- och ombyggnation av allmän platsmark,
 
 skolgårdar, idrottsanläggningar och annan offentlig service ska vi alltid
 pröva möjligheten att skapa ytor som har flera funktioner. (11) på sidan
@@ -422,11 +422,11 @@ byggherre och beställare måste kommunen också efterfråga flera olika
 funktioner när vi planerar ett projekt. En större investering idag betalar sig
 för kommunen som helhet på längre sikt.
 
-7. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
+7\. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
 och Södra Hammerö utökas enligt karta daterad 2025-01-14, så att fler
 bostäder kan möjliggöras jämfört med samrådsredogörelsen.
 
-8. Slutligen yrkas på följande ändringar: Vi Sverigedemokrater yrkar att all
+8\. Slutligen yrkas på följande ändringar: Vi Sverigedemokrater yrkar att all
 text i dokumentet som innehåller förslag eller formuleringar som främjar
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 4C989CB81BA0ACE4C1A75926F6C4D03C76CD70A538
@@ -451,22 +451,22 @@ samrådsredogörelse för fördjupad översiktsplan för Kungsbacka stad, datera
 12-18 samt ge kommundirektören i uppdrag att ställa ut Granskningsförslag till
 fördjupad översiktsplan, text och kartmaterial, daterad 2024-12-18, men med
 följande tillägg och ändringar:
-1. Bifall till Lisa Anderssons (M) yrkande om att underlaget Kompletterande
+1\. Bifall till Lisa Anderssons (M) yrkande om att underlaget Kompletterande
 
 material ska ingå i Granskningsförslaget.
-2. Bifall till att ”Utredningsområde för näringsliv och service” norr om
+2\. Bifall till att ”Utredningsområde för näringsliv och service” norr om
 Gröningevägen utgår.
 
-3. Bifall till att område för verksamheter i den nordöstra delen av Klovsten
+3\. Bifall till att område för verksamheter i den nordöstra delen av Klovsten
 utökas i enlighet med pågående detaljplanearbete.
-4. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
+4\. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
 och Södra Hammerö utökas enligt karta, daterad 2025-01-14, så att fler
 bostäder kan möjliggöras jämfört med samrådsredogörelsen.
 
-5. Avslag på Stefan Jägnerts (SD) och Stefan Vilumsons (SD) samtliga
+5\. Avslag på Stefan Jägnerts (SD) och Stefan Vilumsons (SD) samtliga
 yrkanden.
 
-6. Avslag på Emanuel Forsells (M) samtliga yrkanden i kommunstyrelsens
+6\. Avslag på Emanuel Forsells (M) samtliga yrkanden i kommunstyrelsens
 arbetsutkott.
 Johan Tolinsson (S) och Patrik Jervne Henestam (V) yrkar bifall till Magdalena
 Sundqvists (S) yrkande.
@@ -1026,11 +1026,11 @@ utveckling av fler teknikslag och större fokus på kapacitetshöjning i elsyste
 Det reviderade förslaget till strategi har två övergripande energi- och klimatmål samt
 fyra fokusområden med mål och insatser. Strategins fokusområden är:
 
-1. Ett effektivt och fossilfritt transportsystem
-2. Ett effektivt och fossilfritt energisystem
+1\. Ett effektivt och fossilfritt transportsystem
+2\. Ett effektivt och fossilfritt energisystem
 
-3. Klimatsmart markanvändning
-4. Hela vägen till nettonoll.
+3\. Klimatsmart markanvändning
+4\. Hela vägen till nettonoll.
 
 Beslutsunderlag
 Kommunstyrelsens arbetsutskott 2025-02-04, § 45
@@ -1554,7 +1554,7 @@ behov som kan uppkomma i samband med projektering eller genomförandet av
 åtgärden. Riskreserven omfattar inte förändringar och fördyringar på grund av
 penningvärdesändringar och motsvarande som i stället hanteras med uppräkning
 enligt Trafikverkets index för väginvesteringar med utgångspunkt i prisnivå juni
-2024.
+2024\.
 
 Medfinansieringsavtalet ger även visst utrymme för kommunens önskemål om tillägg
 eller ytterligare åtgärder i samband med genomförandet av gång- och cykelvägen,

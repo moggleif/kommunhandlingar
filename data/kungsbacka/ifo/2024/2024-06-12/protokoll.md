@@ -658,7 +658,7 @@ Följande delegeringsbeslut anmäls till nämnden.
 Utskottet för Individ & Familjeomsorg
 
 Beslut förtecknade i protokoll enligt följande sammanträdesdatum: Den 8 och 22 maj
-2024.
+2024\.
 
 Delegationsrapport enligt listor (Individ & Familjeomsorgen och
 funktionsstödsenheten)

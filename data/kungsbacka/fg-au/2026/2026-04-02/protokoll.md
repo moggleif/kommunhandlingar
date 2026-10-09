@@ -52,7 +52,7 @@ Ledamöter
 
 Emanuel Forsell (M), Ordförande
 Elin Hysén (L), 1:e vice ordförande
-Paul Blomdahl (M) $$ 39-47
+Paul Blomdahl (M) \$\$ 39-47
 Anna-Karin Granberg (SD)
 
 Peter Lundin (C)
@@ -83,24 +83,24 @@ Tolinsson (S)
 
 Tjänstepersoner
 
-Anna Flinck, utvecklingsledare $
+Anna Flinck, utvecklingsledare \$
 38
 
-Tove Bender, utredare $ 39
+Tove Bender, utredare \$ 39
 
 Bertil Ljungblad, utvecklingsledare
-$ 39
+\$ 39
 
-Susanne Lyckevall, enhetschef $
+Susanne Lyckevall, enhetschef \$
 40
 
 Karolina Reinhold,
-utvecklingsledare $ 41
+utvecklingsledare \$ 41
 
-Frida Byrsten, verksamhetschef $
+Frida Byrsten, verksamhetschef \$
 41, 43, 44, 45
 
-Helen Stenum, utvecklingsledare $
+Helen Stenum, utvecklingsledare \$
 47
 
 Maria Eriksson, biträdande
@@ -111,7 +111,7 @@ Lars Sundbom, utvecklare
 
 Övriga
 
-$$ 36-47
+\$\$ 36-47
 
 Paragrafer
 
@@ -122,46 +122,46 @@ Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
 Innehåll
-$36 Dnr FG-2026-00014
+\$36 Dnr FG-2026-00014
 
 Fastställande av dagordning och val av juSterafe..............ssssssorsssororerrsssssnnn 3
-$ 37 Dnr FG-2026-00034
+\$ 37 Dnr FG-2026-00034
 
 Nova Montessoriförskola - Ansökan om att få etablera en ny fristående
 
 fÖLSKOIlA oosooeesssrseeessrereserrrreserrrrrsrrrrrrrrrrrrsrrrr ers sr ere rss ere rr rr RR RR EK RR RAR K RR RK Kr enn ner 4
-$ 38 Dnr FG-2026-00181
+\$ 38 Dnr FG-2026-00181
 
 Information lokalresSursPlaf..........ssssersssssrsrsrsererrrserrrersrrrnressrrnrrernrnrerrrn rr enn nn 5
-$ 39 Dnr FG-2026-00086
+\$ 39 Dnr FG-2026-00086
 
 Anmälningsärenden, klagomål och synpunkter ...............ssssesssssersrssserersssrrn 7
-$40 Dnr FG-2026-00087
+\$40 Dnr FG-2026-00087
 
 Uppföljning Barn- och elevhälsoarbete I. ..ssmmmssssssssrersrsrrrrrssrrrreserrnrerrrrnrrr nr 8
-$41 Dnr FG-2026-00178
+\$41 Dnr FG-2026-00178
 
 Främja närvaro och förebygga frånvaro uppföljning I s....s.....sssserssressrersre 9
-$42 Dnr FG-2025-00529
+\$42 Dnr FG-2025-00529
 
 Kvalitetsgranskning Hedeskolan F-3- Skolinspektionen SI 2025:5874..... 10
-$43 Dnr FG-2025-00528
+\$43 Dnr FG-2025-00528
 
 Kvalitetsgranskning Åsaskolan F-3- Skolinspektionen SI 2025:5872....... 12
-$44 Dnr FG-2026-00153
+\$44 Dnr FG-2026-00153
 
 Sammanställning tillsyn och kvalitetsgranskningar......................sssssee0000s 14
-$45 Dnr FG-2026-00015
+\$45 Dnr FG-2026-00015
 
 Pågående Skolinspektions- och Barn och elevombudsärenden, inklusive
 
 ärenden som utreds inom Förskola & Grundskolas klagomålshantering
 
 PÅ PA 6 15
-$46 Dnr FG-2026-00151
+\$46 Dnr FG-2026-00151
 
 Initiativ alliansen styrning digitala läromedel ..ssmmmsssssssrrrrrrrerrrsserrrrnrrrerrnnnr 16
-$47 Dnr FG-2026-00016
+\$47 Dnr FG-2026-00016
 
 Information - Förskola & Grundskola arbetsutskott och nämnd ............... 18
 
@@ -179,7 +179,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
-$ 36 Dnr FG-2026-00014
+\$ 36 Dnr FG-2026-00014
 Fastställande av dagordning och val av justerare
 
 Beslut
@@ -204,7 +204,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (18)
 
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
-$ 37 Dnr FG-2026-00034
+\$ 37 Dnr FG-2026-00034
 Nova Montessoriförskola - Ansökan om att få etablera en ny fristående
 förskola
 Ärendet utgår.
@@ -220,7 +220,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
-$ 38 Dnr FG-2026-00181
+\$ 38 Dnr FG-2026-00181
 Information lokalresursplan
 
 Förslag till beslut
@@ -313,7 +313,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7018)
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
-$ 39 Dnr FG-2026-00086
+\$ 39 Dnr FG-2026-00086
 Anmälningsärenden, klagomål och synpunkter
 
 Förslag till beslut
@@ -373,7 +373,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
-$ 40 Dnr FG-2026-00087
+\$ 40 Dnr FG-2026-00087
 Uppföljning Barn- och elevhälsoarbete 1
 
 Förslag till beslut
@@ -429,7 +429,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
-$ 41 Dnr FG-2026-00178
+\$ 41 Dnr FG-2026-00178
 Främja närvaro och förebygga frånvaro, uppföljning 1
 
 Förslag till beslut
@@ -467,7 +467,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
-$ 42 Dnr FG-2025-00529
+\$ 42 Dnr FG-2025-00529
 Kvalitetsgranskning Hedeskolan F-3 Skolinspektionen SI 2025:5874
 
 Beslut
@@ -552,7 +552,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
-$ 43 Dnr FG-2025-00528
+\$ 43 Dnr FG-2025-00528
 Kvalitetsgranskning Åsaskolan F-3 Skolinspektionen SI 2025:5872
 
 Beslut
@@ -633,7 +633,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
-$ 44 Dnr FG-2026-00153
+\$ 44 Dnr FG-2026-00153
 Sammanställning tillsyn och kvalitetsgranskningar
 
 Förslag till beslut
@@ -671,7 +671,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
-$45 Dnr FG-2026-00015
+\$45 Dnr FG-2026-00015
 
 Pågående Skolinspektions- och Barn och elevombudsärenden,
 inklusive ärenden som utreds inom Förskola & Grundskolas
@@ -707,7 +707,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 16 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
-$ 46 Dnr FG-2026-00151
+\$ 46 Dnr FG-2026-00151
 Initiativ alliansen styrning digitala läromedel
 
 Förslag till beslut
@@ -798,7 +798,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 18 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-04-02
 
-$ 47 Dnr FG-2026-00016
+\$ 47 Dnr FG-2026-00016
 Information - Förskola & Grundskola arbetsutskott och nämnd
 
 Förslag till beslut

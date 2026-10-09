@@ -381,11 +381,11 @@ Planen för intern kontroll 2027 i Kungsbacka fokuserar på ett begränsat antal
 prioriterade riskområden där fyra kommungemensamma risker ska följas upp i
 samtliga nämnder:
 
-1. Korruption och välfärdsbrott
-2. Bristande följsamhet till inköpsprocessen
+1\. Korruption och välfärdsbrott
+2\. Bristande följsamhet till inköpsprocessen
 
-3. Brister i det systematiska beredskapsarbetet
-4. Efterlevnad av NIS2-direktivet.
+3\. Brister i det systematiska beredskapsarbetet
+4\. Efterlevnad av NIS2-direktivet.
 
 Därutöver har kommunstyrelsen identifierat en egen risk kopplad till uppföljning av
 debiteringsrutiner. Ambitionen är att avgränsa de gemensamma granskningarna för

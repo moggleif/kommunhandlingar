@@ -36,7 +36,7 @@ Initiativärende    angående      – Prioritering    av
 skötselytor
 
 Förslag till beslut i Nämnden för Teknik:
-1. Förvaltningen får i uppdrag att omgående prioritera underhållet av våra skötselytor i
+1\. Förvaltningen får i uppdrag att omgående prioritera underhållet av våra skötselytor i
 de mest besökta delarna av Kungsbacka innerstad, samt att under den tidiga hösten
 2024 återkomma med ett klassificeringssystem som syftar till att förenkla
 prioriteringen av underhåll av våra skötselytor i hela kommunen.
@@ -127,7 +127,7 @@ instruktioner avseende ärendegången:
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\______________________
 Kungsbacka kommun
 
 Kommunstyrelsens förvaltning
@@ -145,9 +145,9 @@ kristian.egstedt@kungsbacka.se
 
 <!-- sida 4 -->
 
-Från: kommun@kungsbacka.se <kommun@kungsbacka.se>
+Från: kommun@kungsbacka.se \<kommun@kungsbacka.se>
 Skickat: den 19 augusti 2024 10:56
-Till: Teknik <teknik@kungsbacka.se>
+Till: Teknik \<teknik@kungsbacka.se>
 Ämne: Begäran om yttrande - Länsövergripande nödvattenplan (KS 2024-00511)
 
 Hej,
@@ -162,7 +162,7 @@ om när nämnden senast ska inkomma med sitt yttrande till kommunstyrelsen.
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\______________________
 
 Kungsbacka kommun
 Kommunledningskontoret

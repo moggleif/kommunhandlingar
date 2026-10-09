@@ -244,12 +244,12 @@ om effektivisering av tillsynen av små avloppsanläggningar, daterad 2025-04-24
 Förslagsställarna föreslår att förvaltningen tar fram en realistisk tidplan för att
 
 genomföra följande punkter:
-1. Justera riskklassningsmodellen för att beakta service och mätdata
+1\. Justera riskklassningsmodellen för att beakta service och mätdata
 
-2. Effektivisera tillsynen
-3. Verka för standardiserade protokoll
+2\. Effektivisera tillsynen
+3\. Verka för standardiserade protokoll
 
-4. Fördjupa samverkan med serviceföretagen
+4\. Fördjupa samverkan med serviceföretagen
 
 Beslutsunderlag
 

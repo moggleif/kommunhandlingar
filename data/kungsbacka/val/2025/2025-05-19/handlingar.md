@@ -123,7 +123,7 @@ Kaskelot Online för perioden 2025-02-01 – 2031-06-30.
 Upplysning
 
 Beslut fattat med stöd av delegering. valnämndens delegeringsförteckning: punkt 2.2.1, 2024-11-11, §
-36.
+36\.
 
 Sammanfattning
 I ett valadministrativt system hanteras bland annat vallokaler, utbildning, placering och av
@@ -470,8 +470,8 @@ själva kan ta sig till ett röstmottagningsställe får om de begär det lämna
 sina valsedlar till ambulerande röstmottagare.
 Detsamma gäller väljare som är
 intagna
-1. i polisarrest, eller
-2. på en vårdinrättning som
+1\. i polisarrest, eller
+2\. på en vårdinrättning som
 begränsar väljarens möjlighet att
 rösta i en röstningslokal.
 Vid röstmottagning enligt första Vid röstmottagning enligt första
@@ -504,12 +504,12 @@ kort. Detta behövs dock inte mottagarna. Detta behövs dock inte
 
 <!-- sida 13 -->
 
-1. om den information som röst- 1. om den information som röst-
+1\. om den information som röst- 1. om den information som röst-
 kortet innehåller ändå är tillgänglig kortet innehåller ändå är tillgänglig
 för röstmottagarna, eller för röstmottagarna,
-2. om röstmottagningen sker hos 2. om röstmottagningen sker hos
+2\. om röstmottagningen sker hos 2. om röstmottagningen sker hos
 en utlandsmyndighet. en utlandsmyndighet, eller
-3. vid röstmottagning i sådana
+3\. vid röstmottagning i sådana
 situationer som avses i 5 kap. 2 §
 tredje stycket.
 4 §
@@ -576,11 +576,11 @@ Rapportering av incidenter i samband med val
 utlandsmyndigheter som inrättat röstningslokaler ska skyndsamt
 rapportera incidenter till den centrala valmyndigheten.
 Med incidenter avses
-1. att det vid förberedande och genomförande av val som en myndighet
+1\. att det vid förberedande och genomförande av val som en myndighet
 svarar för har förekommit någon avvikelse från föreskriven ordning,
-2. att någon har hindrat röstningen, förvanskat lämnade röster eller
+2\. att någon har hindrat röstningen, förvanskat lämnade röster eller
 otillbörligt verkat vid val på något annat sätt, eller
-3. andra händelser som kan påverka valens genomförande.
+3\. andra händelser som kan påverka valens genomförande.
 Ackreditering av valobservatörer
 3 § Den centrala valmyndigheten får ackreditera en valobservatör från
 en nationell eller internationell organisation som avser att granska
@@ -590,8 +590,8 @@ Kommunerna och länsstyrelserna och de utlandsmyndigheter som
 inrättat röstningslokaler ska ta emot ackrediterade valobservatörer före,
 under och efter ett val.
 
-1. Denna lag träder i kraft den 1 december 2025.
-2. Bestämmelserna i 7 kap. 3 a § i den nya lydelsen och i 16 kap. 2 §
+1\. Denna lag träder i kraft den 1 december 2025.
+2\. Bestämmelserna i 7 kap. 3 a § i den nya lydelsen och i 16 kap. 2 §
 tillämpas första gången vid ordinarie val till riksdagen, regionfullmäktige
 och kommunfullmäktige 2026.
 
@@ -619,7 +619,7 @@ biträde åt väljare (bet. 2021/22:KU6 punkt 7, rskr. 2021/22:144). Med
 anledning av tillkännagivandet togs promemorian Biträde åt väljare fram
 inom Justitiedepartementet (Ju2024/00970). En sammanfattning av
 promemorian finns i bilaga 4 och promemorians lagförslag finns i bilaga
-5. Promemorian har remissbehandlats och en förteckning över remiss-
+5\. Promemorian har remissbehandlats och en förteckning över remiss-
 instanserna finns i bilaga 6. Remissyttrandena finns tillgängliga på
 regeringens webbplats och i Justitiedepartementet (Ju2024/00970).
 I denna lagrådsremiss behandlas lagförslagen i slutbetänkandet och i
@@ -2926,7 +2926,7 @@ ambulerande röstmottagare (7 kap. 3 a § vallagen). Vid sådan röstning
 gäller bestämmelserna i 7 och 8 kap. vallagen om röstning och röstmottag-
 ning i tillämpliga delar. Möjligheten för väljare inom angivna målgrupper
 att lämna sina röster till ambulerande röstmottagare har funnits sedan
-2015. Innan dess kunde väljare som uppfyllde motsvarande kriterier i
+2015\. Innan dess kunde väljare som uppfyllde motsvarande kriterier i
 stället lämna rösterna till särskilt förordnade kommunala bud. Reformen
 motiverades i huvudsak av ambitionen att ge alla väljare så likartade
 förutsättningar som möjligt att utnyttja sin rösträtt samtidigt som valsäker-
@@ -4147,7 +4147,7 @@ ges en annan lagteknisk utformning än den som kommittén föreslår.
 10    Ikraftträdande
 
 Regeringens förslag: Lagändringarna ska träda i kraft den 1 december
-2025.
+2025\.
 Skyldigheten för de kommunala valnämnderna, länsstyrelserna och
 de utlandsmyndigheter som inrättat röstningslokaler att skyndsamt
 rapportera incidenter och utvidgningen av målgruppen för ambulerande
@@ -4200,7 +4200,7 @@ på att ytterligare målgrupper ska kunna lämna sina röster till ambulerande
 röstmottagare är en nyhet som förutsätter förberedelser av kommunernas
 valnämnder. Dessa förslag bör därför tillämpas första gången inför och vid
 ordinarie val till riksdagen, regionfullmäktige och kommunfullmäktige
-2026.
+2026\.
 11    Konsekvenser
 Regeringens bedömning: Lagförslagen medför ökade kostnader för
 genomförande av val med ca 45 300 000 kronor. Av det beloppet avser
@@ -4752,8 +4752,8 @@ bestämmelsen, som är av ordningskaraktär, inte har följts.
 kan ta sig till ett röstmottagningsställe får om de begär det lämna sina valsedlar till
 ambulerande röstmottagare.
 Detsamma gäller väljare som är intagna
-1. i polisarrest, eller
-2. på en vårdinrättning som begränsar väljarens möjlighet att rösta i en
+1\. i polisarrest, eller
+2\. på en vårdinrättning som begränsar väljarens möjlighet att rösta i en
 röstningslokal.
 Vid röstmottagning enligt första och andra styckena gäller i tillämpliga delar
 bestämmelserna om röstning och röstmottagning i detta kapitel och 8 kap. och
@@ -4810,10 +4810,10 @@ kommentaren till den paragrafen.
 10 kap.
 3 § Väljare eller bud ska lämna väljarens röstkort till röstmottagarna. Detta behövs
 dock inte
-1. om den information som röstkortet innehåller ändå är tillgänglig för röstmot-
+1\. om den information som röstkortet innehåller ändå är tillgänglig för röstmot-
 tagarna,
-2. om röstmottagningen sker hos en utlandsmyndighet, eller
-3. vid röstmottagning i sådana situationer som avses i 5 kap. 2 § tredje stycket.
+2\. om röstmottagningen sker hos en utlandsmyndighet, eller
+3\. vid röstmottagning i sådana situationer som avses i 5 kap. 2 § tredje stycket.
 I paragrafen finns bestämmelser om hur röstmottagningen går till i röst-
 ningslokaler för förtidsröstning. Övervägandena finns i avsnitt 8.2.
 Av punkt 3, som är ny, framgår att en väljare eller ett bud inte behöver
@@ -4946,11 +4946,11 @@ Rapportering av incidenter i samband med val
 som inrättat röstningslokaler ska skyndsamt rapportera incidenter till den centrala
 valmyndigheten.
 Med incidenter avses
-1. att det vid förberedande och genomförande av val som en myndighet svarar
+1\. att det vid förberedande och genomförande av val som en myndighet svarar
 för har förekommit någon avvikelse från föreskriven ordning,
-2. att någon har hindrat röstningen, förvanskat lämnade röster eller otillbörligt
+2\. att någon har hindrat röstningen, förvanskat lämnade röster eller otillbörligt
 verkat vid val på något annat sätt, eller
-3. andra händelser som kan påverka valens genomförande.
+3\. andra händelser som kan påverka valens genomförande.
 I paragrafen, som är ny, finns bestämmelser om samordning och
 rapportering av incidenter inom valadministrationen i samband med val.
 Övervägandena finns i avsnitten 4.5 och 4.6.
@@ -5049,8 +5049,8 @@ om uppföljande möten för att få en bättre förståelse för vad som
 förekommit under genomförande av valet och som har observerats.
 Ikraftträdandebestämmelser
 
-1. Denna lag träder i kraft den 1 december 2025.
-2. Bestämmelserna i 7 kap. 3 a § i den nya lydelsen och i 16 kap. 2 § tillämpas
+1\. Denna lag träder i kraft den 1 december 2025.
+2\. Bestämmelserna i 7 kap. 3 a § i den nya lydelsen och i 16 kap. 2 § tillämpas
 första gången vid ordinarie val till riksdagen, regionfullmäktige och kommunfull-
 mäktige 2026.
 Lagen träder enligt punkt 1 i kraft den 1 december 2025.
@@ -5838,11 +5838,11 @@ Väljare som på grund av sjukdom, funktionsnedsättning eller ålder inte
 själva kan ta sig till ett röstmottagningsställe får lämna sina valsedlar där
 genom bud.
 Dessutom får följande väljare budrösta:
-1. väljare som betjänas av Postnord
+1\. väljare som betjänas av Postnord
 Group AB:s lantbrevbärare, i den
 utsträckning som följer av 3 kap. 7 §,
-2. väljare som är intagna i häkte, 1. väljare som är intagna i häkte,
-3. väljare som är intagna i kri- 2. väljare som är intagna i kri-
+2\. väljare som är intagna i häkte, 1. väljare som är intagna i häkte,
+3\. väljare som är intagna i kri- 2. väljare som är intagna i kri-
 minalvårdsanstalt och av säker- minalvårdsanstalt och av säker-
 hetsskäl inte kan rösta i samma hetsskäl inte kan rösta i samma
 röstningslokal som andra intagna på röstningslokal som andra intagna på
@@ -5850,13 +5850,13 @@ anstalten.            anstalten.
 Budröster ska lämnas i ytterkuvert för budröst.
 5 §6                 7 §
 Följande personer får vara bud:
-1. väljarens make eller sambo och väljarens, makens eller sambons barn,
+1\. väljarens make eller sambo och väljarens, makens eller sambons barn,
 barnbarn, föräldrar eller syskon,
-2. de som yrkesmässigt eller på liknande sätt ger väljaren vård eller som annars
+2\. de som yrkesmässigt eller på liknande sätt ger väljaren vård eller som annars
 brukar hjälpa väljaren i personliga angelägenheter,
-3. lantbrevbärare anställda av
+3\. lantbrevbärare anställda av
 Postnord Group AB,
-4. anställda vid ett häkte eller en 3. anställda vid ett häkte eller en
+4\. anställda vid ett häkte eller en 3. anställda vid ett häkte eller en
 kriminalvårdsanstalt. kriminalvårdsanstalt.
 8 §7                 7 §
 I stället för 7 § första och andra
@@ -5888,12 +5888,12 @@ ange någon motsvarande identifikationsuppgift.
 Väljare eller bud skall till röst- Väljare eller bud ska till röst-
 mottagarna lämna väljarens röstkort. mottagarna lämna väljarens röstkort.
 Detta behövs dock inte Detta behövs dock inte
-1. om den information som 1. om den information som
+1\. om den information som 1. om den information som
 röstkortet innehåller ändå är till- röstkortet innehåller ändå är till-
 gänglig för röstmottagarna, eller gänglig för röstmottagarna,
-2. om röstmottagningen sker hos en 2. om röstmottagningen sker hos en
+2\. om röstmottagningen sker hos en 2. om röstmottagningen sker hos en
 utlandsmyndighet.      utlandsmyndighet, eller
-3. om en kommun tar emot en röst
+3\. om en kommun tar emot en röst
 enligt 5 kap. 2 § tredje stycket.
 4 §
 I de anteckningar som förs enligt 7 § I de anteckningar som förs enligt 7 §
@@ -5950,18 +5950,18 @@ centrala valmyndigheten skyndsamt
 rapportera incidenter som kan
 påverka genomförandet av val.
 Med incidenter avses
-1. om det vid förberedande och
+1\. om det vid förberedande och
 genomförande av val som en myn-
 dighet svarar för har förekommit
 någon avvikelse från föreskriven
 ordning, oavsett om avvikelsen är
 resultat av mänsklig påverkan, sy-
 stemfel eller naturhändelse,
-2. om någon har hindrat röst-
+2\. om någon har hindrat röst-
 ningen, förvanskat lämnade röster
 eller otillbörligt verkat vid val på
 något annat sätt, och
-3. andra omständigheter av bety-
+3\. andra omständigheter av bety-
 delse för allmänhetens förtroende för
 valens genomföranden.
 Ackreditering av valobservatörer
@@ -7364,25 +7364,25 @@ kommun.
 Den kommungemensamma informationshanteringsplanen för ledningsprocesserna omfattar
 verksamhetsområdena:
 
--  ledning av kommunal myndighet
--  styrning
--  organisering och utveckling
--  demokrati och insyn.
+\-  ledning av kommunal myndighet
+\-  styrning
+\-  organisering och utveckling
+\-  demokrati och insyn.
 Den kommungemensamma informationshanteringsplanen för stödprocesserna omfattar
 
 verksamhetsområdena:
--  samordnat verksamhetsstöd
--  informationsförvaltning
--  systemförvaltning och arkitektur
--  HR/personal
--  ekonomi
--  inköp
+\-  samordnat verksamhetsstöd
+\-  informationsförvaltning
+\-  systemförvaltning och arkitektur
+\-  HR/personal
+\-  ekonomi
+\-  inköp
 
--  lokalförsörjning
--  inventariehantering
--  kris och säkerhet
--  information och marknadsföring
--  förvaltningsstöd
+\-  lokalförsörjning
+\-  inventariehantering
+\-  kris och säkerhet
+\-  information och marknadsföring
+\-  förvaltningsstöd
 Kommunstyrelsen äger också ett antal kärnprocesser. Detta är processer där kommunstyrelsen är
 
 utförare av en verksamhet, vilket omfattar verksamhetsområdena:
@@ -7392,12 +7392,12 @@ utförare av en verksamhet, vilket omfattar verksamhetsområdena:
 KUNGSBACKA  KOMMUN
 3 (3)
 
--  bedriva näringsliv
--  infrastruktur och samhällsskydd
+\-  bedriva näringsliv
+\-  infrastruktur och samhällsskydd
 
--  fysisk planering
--  hantera mark och exploatering
--  borglig vigsel
+\-  fysisk planering
+\-  hantera mark och exploatering
+\-  borglig vigsel
 
 Anders Johansson                   Sofia Jonsson
 
@@ -8813,7 +8813,7 @@ Informationshanteringsplan                      Sida 77 av 126
 
 | Motta Inbetalningar<br>från kundfakturor | ISO20022 fil med<br>inbetalningar kundfakturor | Se anm. | Digitalt | 7 år | Inbetalningsfiler från bankgiro och autogiro sparas<br>för:<br>Raindance BG: P:\DFiles\Inbetalningar\BG<br>Inbetalningar<br>Raindance AG:<br>P:\DFiles\Inbetalningar\AG_Inbetalningar Future:<br>P:\EDP Future Filer\BGFiler\Inlästa och P:\EDP<br>Future Filer\AGFiler\BG autogiro\Inlästa |
 | --- | --- | --- | --- | --- | --- |
-|  | Sammanställning samt<br>fellista<br>ISO20022inbetalningar<br>kundfakturor | Se anm. | Se<br>anmärknin<br>g | 7 år | Raindance: Arkiveras digitalt i systemet<br>Future: Bokföringsunderlagen arkiveras digitalt C:\<br>Kungsbacka kommun\KSF Ekonomi KLK -<br>Dokument\Kundteamet\Inbetalningar\åååå\mm\ååmm<br>dd |
+|  | Sammanställning samt<br>fellista<br>ISO20022inbetalningar<br>kundfakturor | Se anm. | Se<br>anmärknin<br>g | 7 år | Raindance: Arkiveras digitalt i systemet<br>Future: Bokföringsunderlagen arkiveras digitalt C:\\<br>Kungsbacka kommun\KSF Ekonomi KLK -<br>Dokument\Kundteamet\Inbetalningar\åååå\mm\ååmm<br>dd |
 |  | Inbetalningsjournal | Se anm. | Digitalt | 7 år | Raindance: Arkiveras i systemet. Går inte att<br>exportera<br>Future: P:\EDP Future filer\BGFiler |
 | Hantera utbetalning<br>från Kundreskontran<br>Raindance | Utbetalningsfil till<br>Swedbank | Se anm. | Digitalt | 7 år | Kundutbetalningar BG (Företag):<br>P:\Dfiles\Utbetalningar\KR\BG\Arkiv<br>Kundutbetalningar SUS (Privatpersoner):<br>P:\Dfiles\Utbetalningar\KR\SUS\Arkiv |
 |  | Utbetalningsjournal | Se anm. | Digitalt | 7 år | I systemet. Går inte att exportera |
@@ -8923,7 +8923,7 @@ Informationshanteringsplan                      Sida 84 av 126
 | Process: | Bokföra och redovisa |  |  |  |  |
 | Processnummer: | 2.4.1.4 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Anläggningsregister | Anläggningsregister | Se anmärkning | Digitalt | Bevaras | Anläggningsregistret före 2007-12-31 finns i<br>kommunens e-arkiv<br>Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>Samarbetsrum \Alla Ekonomi\ Bokslut och<br>delår\Bokslut, delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\ |
+| Anläggningsregister | Anläggningsregister | Se anmärkning | Digitalt | Bevaras | Anläggningsregistret före 2007-12-31 finns i<br>kommunens e-arkiv<br>Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>Samarbetsrum \Alla Ekonomi\ Bokslut och<br>delår\Bokslut, delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\\ |
 |  | Utrangeringar och<br>försäljningar | Närarkiv,<br>Vägmästaren | Papper | 7 år |  |
 |  | Anläggningsregister –<br>integrationslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
 |  | Anläggningsregister –<br>avstämningslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
@@ -8966,7 +8966,7 @@ Informationshanteringsplan                      Sida 87 av 126
 
 | Fakturera internt | Internfakturor | Se anmärkning | Digitalt | 2 år | Internfakturor skapas både i Visma Proceedo<br>och Raindance. Eventuellt underlag på papper<br>förvaras på respektive förvaltning. |
 | --- | --- | --- | --- | --- | --- |
-| Hantera garantier<br>och säkerheter | Garantier | Se anmärkning | Se anmärkning | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\ |
+| Hantera garantier<br>och säkerheter | Garantier | Se anmärkning | Se anmärkning | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anmärkning | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
 | Hantera<br>attestbehörigheter | Attestunderlag | Se anmärkning | Se anmärkning | 7 år efter avslutad<br>attestbehörighet | Attestunderlagen som skickas in digitalt till<br>attester@kungsbacka.se registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anmärkning | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga.<br>Försäkringsbrev arkiveras i<br>samarbetsrummet\KSF Ekonomi<br>KLK\12Försäkringar\Försäkringsbrev |
@@ -9096,8 +9096,8 @@ Informationshanteringsplan                      Sida 95 av 126
 |  | Ansökan om medel med<br>tillhörande underlag | Diarium | Digitalt | Bevaras | Hanteras av respektive förvaltning. |
 | --- | --- | --- | --- | --- | --- |
 |  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
-|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
-|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
+|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
+|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 279 -->
 
@@ -9619,7 +9619,7 @@ Antagen 28 april 2025
 
 Revisionsplan 2025
 
-1. Uppdrag
+1\. Uppdrag
 
 Revisionens uppdrag är att granska all verksamhet i kommunen. Det innebär att revisorerna prövar
 om verksamheten sköts på ett ändamålsenligt, från ekonomisk synpunkt tillfredställande sätt och
@@ -9643,7 +9643,7 @@ och stiftelser genom de lekmannarevisorer/valda revisorer som utsetts.
 Revisorerna ska dessutom bedöma om resultaten i delårsrapporten och årsbokslutet är förenliga med
 de mål fullmäktige beslutat om i budgeten och planen för ekonomin under perioden.
 
-2. Risk- och väsentlighetsanalys
+2\. Risk- och väsentlighetsanalys
 
 Förslag till revisionsplan baseras på genomförd risk- och väsentlighetsanalys. Analysen av risk och
 väsentlighet utgår från revisionens syfte. Analysen startar med att fastställa väsentliga
@@ -9677,7 +9677,7 @@ verksamhet 2022” utgiven av Sveriges Kommuner och Regioner (SKR).
 Planering och granskning av räkenskaperna av nämnder och styrelse genomförs av sakkunnigt
 biträde enligt kommunal standard för granskning av räkenskaper
 
-3. Grundläggande granskning 2025
+3\. Grundläggande granskning 2025
 
 Kommunrevisionens uppgift är att ge kommunfullmäktige underlag till den årliga ansvars-
 prövningen. Enligt kommunallagen 12 kap. 1 § ska revisorerna årligen granska all verksamhet som
@@ -9762,7 +9762,7 @@ Tillsammans med Region Halland och länets övriga kommuner har Kungsbacka kommu
 samverkansnämnder inom vård- och omsorgsområdet. Patientnämnden och Gemensam nämnd för
 hemsjukvård och hjälpmedel. Revisionen genomförs på uppdrag av Region Halland.
 
-4. Fördjupade granskningar och förstudier
+4\. Fördjupade granskningar och förstudier
 Fördjupade granskningar
 
 Fördjupade projekt avser granskningar inom specifika områden som berör kommunen centralt eller
@@ -9794,7 +9794,7 @@ Inga förstudier har ännu planerats inför 2025. Ytterligare förstudier kan ti
 
 uppdateras med dessa när revisionen fattat beslut om det.
 
-5. Granskning av delårsrapport och årsredovisning
+5\. Granskning av delårsrapport och årsredovisning
 
 Granskning av delårsrapport och årsredovisning består av flera olika delar; Granskning av
 räkenskaperna, granskning och bedömning av god ekonomisk hushållning samt granskning av
@@ -9808,14 +9808,14 @@ upprättade i enlighet med lag om kommunal bokföring och redovisning (LKBR) och
 redovisningssed. Rådet för kommunal redovisning (RKR) är normbildande för god redovisningssed.
 Granskningen görs enligt Standard för kommunal räkenskapsrevision och omfattar granskning av:
 
--  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
+\-  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
 
--  driftredovisning och investeringsredovisning samt noter
--  sammanställda räkenskaper
+\-  driftredovisning och investeringsredovisning samt noter
+\-  sammanställda räkenskaper
 
--  förvaltningsberättelse
+\-  förvaltningsberättelse
 
--  delårsrapport
+\-  delårsrapport
 
 Inom ramen för granskningen av räkenskaperna ingår att skaffa sig en förståelse för kommunens
 interna kontroll i processer som är väsentliga vid upprättande av finansiella rapporter.
@@ -9837,7 +9837,7 @@ resultat ska vara positivt. Granskningen av balanskravsresultatet genomförs ino
 
 granskning av delårsrapport och årsredovisningen.
 
-6. Granskning av kommunens bolag och stiftelse
+6\. Granskning av kommunens bolag och stiftelse
 
 Lekmannarevisionen av kommunens bolag och de valda revisorernas granskning av stiftelsen
 omfattar en grundläggande granskning av bolagen och stiftelsen. Utgångspunkt för granskningen är
@@ -9868,7 +9868,7 @@ Kungsbacka kommun
 
 <!-- sida 315 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 16 april 2025 15:30
 Till:                  Brev: Val ValAdm
 Ämne:                  Nyheter från Valmyndigheten v. 16
@@ -9965,7 +9965,7 @@ S
 s
 a u
 ö
--
+\-
 n
 t
 k
@@ -10016,7 +10016,7 @@ Kungsbacka    kommun
 
 <!-- sida 318 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -10066,7 +10066,7 @@ valnämnden.
 
 <!-- sida 319 -->
 
-2. Redogörelse av granskningsresultat
+2\. Redogörelse av granskningsresultat
 
 På uppdrag av de förtroendevalda revisorerna har EY genomfört en grundläggande
 granskning av styrelse och nämnder i Kungsbacka kommun. Granskningen har genomförts
@@ -10112,7 +10112,7 @@ av framtagna verksamhetsmått. Verksamhetsmåtten är inte målsatta.
 O  Nämnden för Service har inte antagit egna mål kopplat till kommunfullmäktiges mål. I
 budget 2024 har nämnden antagit en målbild som är kopplad till kommunens vision.
 Målbilden beskriver övergripande vart nämnden vill befinna sig inom olika områden
-2027. Målbilden är nedbruten i olika fokusområden. Uppföljning sker genom kvalitativa
+2027\. Målbilden är nedbruten i olika fokusområden. Uppföljning sker genom kvalitativa
 bedömningar av genomförda aktiviteter samt genom mätningar av framtagna
 verksamhetsmått.
 
@@ -10385,11 +10385,11 @@ budgetår. Politikerna i kommunfullmäktige beslutar om direktiv som gäller und
 Direktiv gäller för särskilt, utpekat område där det krävs förändring.
 
 Kommunfullmäktiges mål
-1. En attraktiv kommun att bo, verka och vistas i
-2. En hållbar utveckling och en hälsosam miljö
-3. Bästa företagsklimatet i Västsverige
-4. I Kungsbacka utvecklas vi hela livet ut
-5. Ett medskapande samhälle och en öppen attityd
+1\. En attraktiv kommun att bo, verka och vistas i
+2\. En hållbar utveckling och en hälsosam miljö
+3\. Bästa företagsklimatet i Västsverige
+4\. I Kungsbacka utvecklas vi hela livet ut
+5\. Ett medskapande samhälle och en öppen attityd
 
 Målstyrning
 Varje nämnd ansvarar för att bidra till att de kommunövergripande målen nås. Eftersom målen
@@ -10619,7 +10619,7 @@ I Kungsbacka utvecklas i hela livet
 m
 å
 l                             3
-:
+\:
 
 <!-- sida 331 -->
 
@@ -10657,7 +10657,7 @@ m
 å
 Ett medskapande samhälle och öppen attityd
 l
-:
+\:
 Nämnden för Vård & Omsorg
 Nämnden för Vård & omsorg har antagit tre nämndmål. Nämnden har inte gjort någon
 bedömning av målen. Nämnden har bedömt arbetet med måluppfyllelsen för et av fem av
@@ -10740,7 +10740,7 @@ Vi erbjuder digital sammanhållen samhällsbyggnadsprocess i Kungsbacka
 
 <!-- sida 334 -->
 
-Från:                  Max Andersson <max.andersson@val.se>
+Från:                  Max Andersson \<max.andersson@val.se>
 Skickat:               den 12 mars 2025 16:02
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetssammanfattning 12 mars 2025
@@ -10880,29 +10880,29 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Årsrapport för sammanfattande lägesbild ................................................................................................. 5
+1\. Årsrapport för sammanfattande lägesbild ................................................................................................. 5
 
 1.1 Dataskyddsombudet följer och rapporterar ......................................................................................... 5
 1.2 En värdegrundsfråga i tiden ..................................................................................................................... 5
 
-2. Råd & stöd .......................................................................................................................................................... 8
+2\. Råd & stöd .......................................................................................................................................................... 8
 
 2.1 Utbildning ..................................................................................................................................................... 8
 2.2 Råd & rekommendationer ......................................................................................................................... 8
 2.3 Kontakter ..................................................................................................................................................... 15
 2.4 Samverkan .................................................................................................................................................. 17
 
-3. Granskning ....................................................................................................................................................... 19
+3\. Granskning ....................................................................................................................................................... 19
 3.1 Riktad granskning ...................................................................................................................................... 19
 3.2 Regelbunden granskning ......................................................................................................................... 19
 3.3 Fördjupad granskning .............................................................................................................................. 23
 
 3.4 Övriga iakttagelser…………………………………………………………………………………………………………..24
 
-4. Omvärld............................................................................................................................................................. 26
+4\. Omvärld............................................................................................................................................................. 26
 4.1 Fokus på AI ................................................................................................................................................ 26
 
-5. Kommande år ..................................................................................................................................... 27
+5\. Kommande år ..................................................................................................................................... 27
 
 5.1 Inriktning året 2025 .................................................................................................................................. 27
 5.2 Plan för granskning .................................................................................................................................. 27
@@ -10911,7 +10911,7 @@ Innehåll
 
 <!-- sida 339 -->
 
-1. Årsrapport   för  sammanfattande       lägesbild
+1\. Årsrapport   för  sammanfattande       lägesbild
 
 Syftet med den här sammanställningen är att ge kommunstyrelsen och de personuppgiftsansvariga
 nämnderna, bolagen och stiftelsen en bild över vad jag som dataskyddsombud sett i kommunen som
@@ -11038,7 +11038,7 @@ ytterst till att vårda och bevara demokratin.
 
 <!-- sida 342 -->
 
-2. Råd  & stöd
+2\. Råd  & stöd
 
 2.1 Utbildning
 
@@ -11497,7 +11497,7 @@ Mölndal, Jönköping, Karlstad och Örebro – utöver kommunerna i Halland.
 
 <!-- sida 353 -->
 
-3. Granskning
+3\. Granskning
 
 3.1 Riktad granskning
 
@@ -11729,7 +11729,7 @@ kommunen ser vikten av att skydda deras personuppgifter.
 För att öka kunskapen om skydd mot obehörig åtkomst och systematisk kvalitetssäkring kommer
 jag arrangera erfarenhetsutbyten och fördjupande utbildningar på respektive område under våren
 
-2025. Inriktningen kommer vara innebörden i de krav som ställs i lagen samt praktisk tillämpning
+2025\. Inriktningen kommer vara innebörden i de krav som ställs i lagen samt praktisk tillämpning
 av metoder och arbetssätt för att få rutin på arbetet.
 
 3.2.4 Övrigt
@@ -11865,7 +11865,7 @@ för utbildning.
 
 <!-- sida 360 -->
 
-4. Omvärld
+4\. Omvärld
 
 4.1 Fokus på AI
 
@@ -11897,7 +11897,7 @@ hur Sverige kan främja en ansvarsfull och innovativ utveckling av AI. 26
 
 <!-- sida 361 -->
 
-5. Kommande      år
+5\. Kommande      år
 
 5.1 Inriktning året 2025
 

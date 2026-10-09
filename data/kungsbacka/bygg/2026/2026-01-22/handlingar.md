@@ -809,9 +809,9 @@ sig om indikatorer som berör nämnden. Indikatorer som sträcker sig utanför N
 verksamhetsområde yttrar vi oss inte om. I dokumentet, nedan, ska inte avsnitt som
 
 innehåller ”tas bort” ingå i underlaget. Övriga förändringar, se kommentarer – punkt 2.
-1.
+1\.
 
-2.
+2\.
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
 
@@ -1064,7 +1064,7 @@ och utformning är tillåten. Där beteckning saknas gäller bestämmelsen inom 
 Huvudmannaskapet är enskilt för den allmänna platsen.
 Utformning av allmän plats
 GRÄNSER
-Markens höjd över nollplanet ska vara <angivet> meter.
+Markens höjd över nollplanet ska vara \<angivet> meter.
 Planområdesgräns.
 Minsta lutning är 1:100. (Pilen pekar uppåt).
 Användningsgräns.
@@ -1085,11 +1085,11 @@ Beteckning i kartan som omgärdas av parentes anger bestämmelse i annat
 plan än markplan.                                                          Marken får endast förses med carport och anläggning för dagvattenrening.
 Fastighetsstorlek
 ANVÄNDNING     AV  MARK   OCH  VATTEN
-Minsta fastighetsstorlek är <angivet> m².
+Minsta fastighetsstorlek är \<angivet> m².
 Allmän platsmark
 Höjd på byggnadsverk
 Huvudgata.
-Högsta nockhöjd på huvudbyggnad är <angivet> meter.
+Högsta nockhöjd på huvudbyggnad är \<angivet> meter.
 Lokalgata.
 Markens  anordnande och vegetation
 Gång- och cykelväg.
@@ -1110,7 +1110,7 @@ Pumpstation.                                                               Markr
 Parkering.                                                      Stängsel, utfart och annan utgång
 Vattenområde                                                                          Utfartsförbud.
 Vattenområde.                                                   Takvinkel
-Vattenområde.                                                              Minsta takvinkel är <angivet> grader.
+Vattenområde.                                                              Minsta takvinkel är \<angivet> grader.
 Största takvinkel är 37 grader.
 EGENSKAPSBESTÄMMELSER           FÖR  ALL  ALLMÄN    PLATS
 Utformning
@@ -1935,7 +1935,7 @@ Huvudmannaskapet är enskilt för all allmän plats utom PARK med egenskapen dam
 NATUR, undantaget den långsmala NATUR-ytan längs planområdets östra gräns och en
 kvadratisk NATUR-yta i nordvästra hörnet av planområdet.
 Utformning av allmän plats - +0,0
-Markens höjd över nollplanet ska vara <angivet> meter. Bestämmelsen syftar till att säkra
+Markens höjd över nollplanet ska vara \<angivet> meter. Bestämmelsen syftar till att säkra
 markens nivå i valda punkter längs lokalgata och därmed utgöra referenspunkt för anläggande
 av bostäder.
 
@@ -2160,10 +2160,10 @@ detaljplanen antas.
 
 I det här projektet kommer exploateringsavtalet att omfatta
 
--  Definition av exploateringsområdet.
--  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
+\-  Definition av exploateringsområdet.
+\-  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
 
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
 Kommunen, VA-kollektivet finansierar park- och naturanläggningar i anslutning till
 allmänna dagvattenanläggningar inom allmän plats med kommunalt huvudmannaskap.
 Exploatören ska betala exploateringsbidrag till kommunen motsvarande faktisk
@@ -2178,17 +2178,17 @@ och Landa sockens skifteslags samfällighetsförening (Påtorp s:1).
 
 Exploatören ansvarar för och bekostar samtliga åtgärder inom kvartersmark för
 bostads- och parkeringsändamål.
--  Exploatörens ansvar för att bekosta vänstersvängfält som Trafikverket ska utföra på
+\-  Exploatörens ansvar för att bekosta vänstersvängfält som Trafikverket ska utföra på
 Göteborgsvägen, för att möjliggöra ny infart till planområdet. Anläggningen är utanför
 planområdet, men är nödvändig för detaljplanens genomförande.
 
--  Principer för marköverlåtelser mellan kommunen och exploatören.
+\-  Principer för marköverlåtelser mellan kommunen och exploatören.
 Vid kommunalt huvudmannaskap är utgångspunkten att exploatören överlåter allmän
 platsmark till kommunen utan ersättning. Alternativet är att markersättning utgår, men
 
 att denna sedan omfattas det exploateringsbidrag som exploatören ska betala till
 kommunen.
--  Principer för upplåtelse av mark för allmänna VA-ledningar och bredbandskablar
+\-  Principer för upplåtelse av mark för allmänna VA-ledningar och bredbandskablar
 inom exploateringsområdet.
 
 Antagandehandling                                          26 (63)
@@ -2197,16 +2197,16 @@ Antagandehandling                                          26 (63)
 
 Detaljplan för bostäder inom Rågelund 1:127 m.fl. i Frillesås Datum: 2025-12-02
 
--  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
--  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
+\-  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
+\-  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
 plankostnadsavtalet.
 
--  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
--  Exploatörens skyldighet att upplåta viss del av bostäderna med hyresrätt.
+\-  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\-  Exploatörens skyldighet att upplåta viss del av bostäderna med hyresrätt.
 
--  Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att
+\-  Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att
 säkerställa exploatörens åtaganden.
--  Övriga frågor som behöver regleras för exploateringsområdets rationella och
+\-  Övriga frågor som behöver regleras för exploateringsområdets rationella och
 ändamålsenliga utbyggnad.
 
 Konsekvenser av att detaljplanen genomförs med stöd av exploateringsavtal
@@ -2658,7 +2658,7 @@ Dispens från biotopskyddet i syfte att flytta delar av stenmurarna beviljades, 
 länsstyrelsen i mars 2025 och gäller i fem år efter att detaljplanen fått laga kraft.
 
 Dispens från biotopskydd som omfattar bäcken beviljades i oktober respektive november
-2025. Syftet med dispenserna är att möjliggöra dels en utflackning av bäckens slänter samt två
+2025\. Syftet med dispenserna är att möjliggöra dels en utflackning av bäckens slänter samt två
 passager över bäcken.
 De två stenmurar som finns inom planområdet kommer att monteras ned och återuppbyggas
 på nya platser inom planområdet. De nedmonterade stenmurarna avses återuppföras
@@ -2936,16 +2936,16 @@ varierar generellt mellan ca 0,5 och 1,5 m och släntlutningen mellan 1:2 och 1:
 Ekosystemtjänster
 Ekosystemtjänster är allt det positiva som vi människor får från naturen och som bidrar till
 vår välfärd och livskvalitet. Ekosystemtjänsterna brukar delas in i fyra grupper:
--  Försörjande ekosystemtjänster är de materiella nyttor som naturen levererar, till
+\-  Försörjande ekosystemtjänster är de materiella nyttor som naturen levererar, till
 exempel matproduktion, dricksvatten och produktion av material.
 
--  Reglerande ekosystemtjänster tryggar och förbättrar vår livsmiljö genom att reglera
+\-  Reglerande ekosystemtjänster tryggar och förbättrar vår livsmiljö genom att reglera
 och minska oönskade effekter, till exempel rening av luft och vatten samt
 pollinering.
--  Kulturella ekosystemtjänster är sådant som direkt påverkar vår hälsa och vårt
+\-  Kulturella ekosystemtjänster är sådant som direkt påverkar vår hälsa och vårt
 
 välbefinnande, till exempel kulturarv, hälsa och pedagogik och kognitiv utveckling.
--  Stödjande ekosystemtjänster som möjliggör samhällets och ekosystemens funktion
+\-  Stödjande ekosystemtjänster som möjliggör samhällets och ekosystemens funktion
 till exempel biologisk mångfald, fotosyntes och jordbildning.
 
 Antagandehandling                                          41 (63)
@@ -3116,20 +3116,20 @@ kapacitet i kombination med den behållna låga längdlutningen innebär att en
 fördröjningsvolym för skyfall skapas i själva bäcken.
 Skyfallssimuleringen resulterar i ett antal rekommendationer:
 
--  Planområdet skall höjdsättas så att skyfallsvatten leds ytligt via vägnät till bäcken
+\-  Planområdet skall höjdsättas så att skyfallsvatten leds ytligt via vägnät till bäcken
 och till diket i nordväst som recipienter. Nuvarande fördelning mellan två
 delavrinningsområden skall behållas för att undvika överbelastning på recipienter.
--  Funktionen av det befintliga skyfallsstråket som korsar planområdet i söder skall
+\-  Funktionen av det befintliga skyfallsstråket som korsar planområdet i söder skall
 säkerställas. Blivande utformning av bäcken skall projekteras med utökad
 
 flödeskapacitet som förutom befintliga flöden klarar blivande flöde från
 detaljplaneområdet till bäcken.
--  Försämringsrisker för befintliga byggnader i nordväst samt för det instängda
+\-  Försämringsrisker för befintliga byggnader i nordväst samt för det instängda
 området i öst undanröjs med plushöjder i plankartan.
 
--  Lokal höjdpunkt +9,6 meter över havet skall placeras i nordvästra delen av
+\-  Lokal höjdpunkt +9,6 meter över havet skall placeras i nordvästra delen av
 planområdet som åtgärd för en befintlig vattensamling.
--  Lokal lågpunkt +10,2 meter över havet. skall utses längs den sydöstra plangränsen
+\-  Lokal lågpunkt +10,2 meter över havet. skall utses längs den sydöstra plangränsen
 för att säkerställa kontrollerad avrinning från det instängda området österut med
 brunnar och ledningar. Som sekundär åtgärd säkerställs ytlig avrinning genom
 planområdet från den utpekade lågpunkten. Parkeringsytan i mitten av den östra
@@ -3148,10 +3148,10 @@ Antagandehandling                                          45 (63)
 
 Detaljplan för bostäder inom Rågelund 1:127 m.fl. i Frillesås Datum: 2025-12-02
 
--  Marken skall principiellt luta från byggnad mot gata för att säkerställa avrinning bort
+\-  Marken skall principiellt luta från byggnad mot gata för att säkerställa avrinning bort
 från byggnaden. Byggnader rekommenderas projekteras med motfall på den sidan
 den dominerande lutningen i landskapet lutar mot byggnaden.
--  Instängda områden ska undvikas.
+\-  Instängda områden ska undvikas.
 
 Risk för erosion
 Flödena i bäckarna är relativt små och risken för erosion bedöms vara liten.
@@ -3960,7 +3960,7 @@ Antagandehandling                                          63 (63)
 
 <!-- sida 96 -->
 
-ILLUSTRATIONSKARTA                                                         GRÄNSER                                                                                  Planområdesgräns.                                                          Användningsgräns.                                                           Egenskapsgräns.                                                            Illustrationsgräns.                                                         Sekundär egenskapsgräns.                                                   Sammanfallande sekundär och egenskapsgräns.                   GENERELLT                                                                   Beteckningar inom parentes                                                             Beteckning i kartan som omgärdas av parentes anger bestämmelse i annat                                                                     Allmän platsmark                                                                       Huvudgata.                                                                 Lokalgata.                                                                  Gång- och cykelväg.                                                        Natur.                                                                      Park.                                                           Kvartersmark                                                                           Bostäder.                                                                  Bostäder i flerbostadshus.                                                  Transformatorstation.                                                      Pumpstation.                                                                Parkering.                                                      Vattenområde                                                                           Vattenområde.                                                              Vattenområde.                                                    EGENSKAPSBESTÄMMELSER           FÖR  ALL  ALLMÄN    PLATS                  Utformning av allmän plats                                                 Allmän plats inom 30 meter från Almedalsvägen respektive Göteborgsvägen ska utformas så                                                                Begränsning  av markens utnyttjande                                         Marken får inte förses med byggnad eller annan anläggning som är högre än 0,7 meter inom Byggnaders användning                                         Inom kvartersmark ska, om ekvivalent ljudnivå vid bostadens fasad är högre än 60 dBA, Höjd på byggnadsverk                                             Skydd mot störningar                                                       Ändrad  lovplikt                                                                                                                                       Avgränsad  via egenskapsgräns   och användningsgräns                        Huvudmannaskap                                                                        Huvudmannaskapet är enskilt för den allmänna platsen.            Utformning av allmän plats                                                            Markens höjd över nollplanet ska vara <angivet> meter.                      Minsta lutning är 1:100. (Pilen pekar uppåt).                              Damm  för hantering av dagvatten.                                Varsamhet                                                                             Befintlig stenmur ska bevaras.                                   EGENSKAPSBESTÄMMELSER           FÖR  KVARTERSMARK                          Avgränsad  via egenskapsgräns   och användningsgräns                       Begränsning  av markens utnyttjande                                                    Marken får inte förses med byggnad.                                         Marken får endast förses med carport och anläggning för dagvattenrening. Fastighetsstorlek                                                             Minsta fastighetsstorlek är <angivet> m².                       Höjd på byggnadsverk                                                                  Högsta nockhöjd på huvudbyggnad är <angivet> meter.              Markens anordnande  och vegetation                                                    Största lutning är 1:4. (Pilen pekar uppåt).                                Dagvattenbrunn ska anordnas, där ovankanten på brunnen ska vara högst      Stenmur ska uppföras och bevaras.                                Markreservat för allmännyttiga ändamål                                                Markreservat för allmännyttiga underjordiska ledningar.          Markreservat för gemensamhetsanläggningar                                             Markreservat för gemensamhetsanläggning.                         Stängsel, utfart och annan utgång                                                     Utfartsförbud.                                                   Takvinkel                                                                             Minsta takvinkel är <angivet> grader.                                       Största takvinkel är 37 grader.                                 Utformning                                                                             Endast kedjehus eller parhus.                                              Endast friliggande hus, parhus, radhus eller kedjehus.          Utnyttjandegrad                                                                        Största byggnadsarea är 400 m² per huvudbyggnad.                            Största sammanlagda byggnadsarea för huvudbyggnader är 1600 kvm. Utöver                                                                    Avgränsad   via sekundär egenskapsgräns   och användningsgräns              Begränsning av markens utnyttjande                                                    Marken får endast förses med komplementbyggnad, uterum, stödmur och Markens anordnande och vegetation                                                  Befintlig stenmur ska bevaras.                                   Markreservat för allmännyttiga ändamål                                                Markreservat för allmännyttiga underjordiska ledningar.          GENOMFÖRANDETID                                                            Genomförandetiden är 10 år.
+ILLUSTRATIONSKARTA                                                         GRÄNSER                                                                                  Planområdesgräns.                                                          Användningsgräns.                                                           Egenskapsgräns.                                                            Illustrationsgräns.                                                         Sekundär egenskapsgräns.                                                   Sammanfallande sekundär och egenskapsgräns.                   GENERELLT                                                                   Beteckningar inom parentes                                                             Beteckning i kartan som omgärdas av parentes anger bestämmelse i annat                                                                     Allmän platsmark                                                                       Huvudgata.                                                                 Lokalgata.                                                                  Gång- och cykelväg.                                                        Natur.                                                                      Park.                                                           Kvartersmark                                                                           Bostäder.                                                                  Bostäder i flerbostadshus.                                                  Transformatorstation.                                                      Pumpstation.                                                                Parkering.                                                      Vattenområde                                                                           Vattenområde.                                                              Vattenområde.                                                    EGENSKAPSBESTÄMMELSER           FÖR  ALL  ALLMÄN    PLATS                  Utformning av allmän plats                                                 Allmän plats inom 30 meter från Almedalsvägen respektive Göteborgsvägen ska utformas så                                                                Begränsning  av markens utnyttjande                                         Marken får inte förses med byggnad eller annan anläggning som är högre än 0,7 meter inom Byggnaders användning                                         Inom kvartersmark ska, om ekvivalent ljudnivå vid bostadens fasad är högre än 60 dBA, Höjd på byggnadsverk                                             Skydd mot störningar                                                       Ändrad  lovplikt                                                                                                                                       Avgränsad  via egenskapsgräns   och användningsgräns                        Huvudmannaskap                                                                        Huvudmannaskapet är enskilt för den allmänna platsen.            Utformning av allmän plats                                                            Markens höjd över nollplanet ska vara \<angivet> meter.                      Minsta lutning är 1:100. (Pilen pekar uppåt).                              Damm  för hantering av dagvatten.                                Varsamhet                                                                             Befintlig stenmur ska bevaras.                                   EGENSKAPSBESTÄMMELSER           FÖR  KVARTERSMARK                          Avgränsad  via egenskapsgräns   och användningsgräns                       Begränsning  av markens utnyttjande                                                    Marken får inte förses med byggnad.                                         Marken får endast förses med carport och anläggning för dagvattenrening. Fastighetsstorlek                                                             Minsta fastighetsstorlek är \<angivet> m².                       Höjd på byggnadsverk                                                                  Högsta nockhöjd på huvudbyggnad är \<angivet> meter.              Markens anordnande  och vegetation                                                    Största lutning är 1:4. (Pilen pekar uppåt).                                Dagvattenbrunn ska anordnas, där ovankanten på brunnen ska vara högst      Stenmur ska uppföras och bevaras.                                Markreservat för allmännyttiga ändamål                                                Markreservat för allmännyttiga underjordiska ledningar.          Markreservat för gemensamhetsanläggningar                                             Markreservat för gemensamhetsanläggning.                         Stängsel, utfart och annan utgång                                                     Utfartsförbud.                                                   Takvinkel                                                                             Minsta takvinkel är \<angivet> grader.                                       Största takvinkel är 37 grader.                                 Utformning                                                                             Endast kedjehus eller parhus.                                              Endast friliggande hus, parhus, radhus eller kedjehus.          Utnyttjandegrad                                                                        Största byggnadsarea är 400 m² per huvudbyggnad.                            Största sammanlagda byggnadsarea för huvudbyggnader är 1600 kvm. Utöver                                                                    Avgränsad   via sekundär egenskapsgräns   och användningsgräns              Begränsning av markens utnyttjande                                                    Marken får endast förses med komplementbyggnad, uterum, stödmur och Markens anordnande och vegetation                                                  Befintlig stenmur ska bevaras.                                   Markreservat för allmännyttiga ändamål                                                Markreservat för allmännyttiga underjordiska ledningar.          GENOMFÖRANDETID                                                            Genomförandetiden är 10 år.
 ANVÄNDNING     AV  MARK   OCH  VATTEN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     EGENSKAPSBESTÄMMELSER           FÖR  ALL  KVARTERSMARK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      EGENSKAPSBESTÄMMELSER           FÖR  ALLMÄN    PLATS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                EGENSKAPSBESTÄMMELSER           FÖR  KVARTERSMARK
 plan än markplan.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             att de inte uppmuntrar till stadigvarande vistelse.                                                                                                                                                                                1 meter från allmän plats.                                                                                                                             minst hälften av bostadsrummen vara vända mot ljuddämpad sida. För små bostäder med                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       +10,2 meter över angivet nollplan.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      detta får balkonger och komplementbyggnader uppföras.                                                                                                                                                                                                                                                        parkering.
 Högsta nockhöjd på komplementbyggnad är 4,5 meter.                          Färdigt golv ska anläggas minst 0,3 meter över angränsande gata.           Marklov krävs även för att förändra markens nivå mindre än 0,5 meter.
@@ -4092,16 +4092,16 @@ Grundkartan är upprättad genom utdrag ur primärkartverk
 
 3 — tillhörande Kungsbacka kommun och kompletterad i fält
 3 > — med terrestra mätningar.
-> Rättigheter redovisas inom detaljplaneområdet.
+\> Rättigheter redovisas inom detaljplaneområdet.
 | SINTORP Aktualitetsdatum kartdata 2025-05-12
 Aktualitetsdatum fastighetsgränser 2025-05-13
 NV 4:204
-|
+\|
 Y
 N
-|
+\|
 Grundkarta till detaljplan Granskningshandling
-|
+\|
 oh Rågelund 1:127 m.fl. Ajoutörngsdatum
 Le ( i Frillesås 2025-05-12
 
@@ -4183,7 +4183,7 @@ KUNGSBACKA  KOMMUN
 2 (14)
 
 Statliga och regionala myndigheter
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10 § PBL och nu kända
 förhållanden att frågor som rör strandskydd och hälsa och säkerhet samt risk för olyckor,
@@ -4263,10 +4263,10 @@ En arkeologisk förundersökning har utförts som resulterade i att boplatslämn
 undersökt och borttagen. L1997:6640 ska genomgå en arkeologisk utredning efter att detaljplanen har
 fått laga kraft.
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Lantmäteriet har inga synpunkter på planförslaget.
 
-3. Trafikverket
+3\. Trafikverket
 Bullerstörning
 Trafikverket noterar att bullerutredningen har uppdaterats och visar att bullersituationen är hanterbar.
 
@@ -4309,11 +4309,11 @@ Sammanfattningsvis gör urgrävningen av bäcken inom planområdet att en extra 
 säkerställer att belastningen inte ökar på trumman för en nederbördssituation motsvarande 50 års
 återkomsttid.
 
-4. Kulturmiljö Halland
+4\. Kulturmiljö Halland
 
 Planen bedöms inte påverka några kulturvärden varför vi inte har några synpunkter.
 
-5. Region Halland
+5\. Region Halland
 Region Halland, i samråd med berörda förvaltningar inklusive Hallandstrafiken, anser att det planerade
 bostadsområdet inte främjar hållbara resalternativ. Området har hög bilparkeringstäthet (två platser per
 bostad och fri gatuparkering) samt dålig tillgänglighet till kollektivtrafik, med en hållplats som ligger
@@ -4331,7 +4331,7 @@ Parkeringssituationen tar avstamp i ett behov av 2 parkeringsplatser per bostad 
 parkeringsplatser per lägenhet i flerbostadshus. Med ett hållplatsläge som är närmare bostadsområdet
 än i nuläget förbättras förutsättningarna för hållbara resalternativ.
 
-6. Räddningstjänsten
+6\. Räddningstjänsten
 Riskhänsyn
 
 Räddningstjänsten Storgöteborg (RSG) anser att planbeskrivningen behöver förtydligas kring hur
@@ -4346,7 +4346,7 @@ har kompletterats med bestämmelse och ändrad gränsdragning för kvartersmark 
 risken för stadigvarande vistelse inom ett område närmast Göteborgsvägen och Almedalsvägen.
 
 Planhandlingarna revideras avseende maximalt avstånd mellan brandposterna.
-7. Sveriges geotekniska institut, SGI
+7\. Sveriges geotekniska institut, SGI
 
 SGI har under samrådsskedet yttrat sig, och lyfte då frågan om stabiliteten mot befintligt dike samt
 planerad dagvattendamm. Det anges i samrådsredogörelsen att förslaget på placering av byggnader har
@@ -4363,7 +4363,7 @@ med de geotekniska förutsättningarna.
 
 Sakägare
 
-8. Fastighetsägare till Rågelund 1:115
+8\. Fastighetsägare till Rågelund 1:115
 
 Positivt med dammens placering. Bra med grönområde mellan de sju husen som är placerade bakom
 vår trädgård. Vi skulle vilja ta bort det sista huset närmast dammen. Det huset ligger väldigt nära vår
@@ -4389,7 +4389,7 @@ ersatts av en infartsväg från den nya lokalgatan inom det nya bostadsområdet.
 föreslås för tillfart till fastigheterna Sintorp 4:167 och Sintorp 4:9. De nya tillfarterna skapar en bättre
 situation ur trafiksäkerhetssynpunkt eftersom antalet konfliktpunkter på Göteborgsvägen minskas.
 
-9. Fastighetsägare till Sintorp 4:220
+9\. Fastighetsägare till Sintorp 4:220
 Samhällsintresse gällande jordbruksmark är väl att bevara något till generationer som kommer efter
 oss. Flerfamiljshus 15,5 m höga passar inte in i den lantliga miljön det sägs det skall bli. Trafiken på
 Göteborgsvägen kommer att bli hög. Saknas både övergångsställe, cykelväg, busshållplats. Bör finnas
@@ -4422,7 +4422,7 @@ behöver uppfyllas och vilka handlingar som sedan ska lämnas in för att slutbe
 KUNGSBACKA  KOMMUN
 7 (14)
 
-10. Fastighetsägare till Sintorp 4:222
+10\. Fastighetsägare till Sintorp 4:222
 Anser att placeringen av gång- och cykelbanan är fel eftersom den kommer att orsaka insyn, störande
 ljud från trafik på gång- och cykelvägen, nedskräpning, stöldrisk, klottersabotage, ljusstörning.
 En bättre placering är öster om dammen.
@@ -4442,7 +4442,7 @@ samman med övriga Frillesås. En del i denna integrering är att människor ser
 sin väg mellan olika målpunkter i Frillesås. Boende i befintliga bostadsområdet har även möjlighet att
 ta sig till det nya bostadsområdet dra nytta av allmänna ytor och lekplats.
 
-11. Fastighetsägare till Sintorp 4:223
+11\. Fastighetsägare till Sintorp 4:223
 Jag vill framföra mina åsikter angående den planerade byggnationen här.
 
 Man förstår att löfte inte betyder något vi har blivit lovade att det INTE skulle anläggas någon gångväg
@@ -4475,7 +4475,7 @@ vilket inte är en trafiksäker situation. Detaljplanen för det befintliga bost
 passage fri från byggnation vilket stärker idén om att läget är lämpligt för sammankoppling mellan
 områdena.
 
-12. Fastighetsägare till Sintorp 2:224
+12\. Fastighetsägare till Sintorp 2:224
 Gång- och cykelvägen som planeras i anslutning till Sintorps Ängarssamfällighet medför stor skada för
 vår fastighet då sikttriangeln för anslutning mot Rödklintsvägen hamnar på vår tomt.
 Med anledning av detta anser vi att en GC-väg bör läggas i östra delarna av planen. Tidigare var
@@ -4501,7 +4501,7 @@ bostadsområde. Den centrala placeringen möjliggör en tryggare passage med anl
 omgivande bebyggelsen. Med nuvarande förslag på bebyggelse i det nya bostadsområdet skapas en
 naturlig koppling mot det befintliga grönstråket i befintligt bostadsområde.
 
-13. Fastighetsägare till Sintorp 4:253
+13\. Fastighetsägare till Sintorp 4:253
 Detaljplanen, hus & tomter närhet till befintligt område & hus. Övergång mellan nuvarande område &
 nytt, avsaknaden av tillräckligt grönområde.
 
@@ -4614,7 +4614,7 @@ Planbeskrivningen har uppdaterats utifrån nya lagkrav.
 KUNGSBACKA  KOMMUN
 11 (14)
 
-14. Fastighetsägare till Sintorp 4:259
+14\. Fastighetsägare till Sintorp 4:259
 Påverkan på naturmiljö och biologisk mångfald
 Det föreslagna planområdet, där gång/cykelväg planeras, utgör idag ett värdefullt naturområde med
 etablerad grönstruktur och rik biologisk mångfald. Området fungerar som livsmiljö för ett flertal
@@ -4659,7 +4659,7 @@ KUNGSBACKA  KOMMUN
 
 Kommunala förvaltningar och nämnder
 
-15. Teknik
+15\. Teknik
 Förvaltningen för Teknik ser positivt på projektet och detaljplanen.
 
 Det är viktigt ur både ett socialt perspektiv och ett folkhälsoperspektiv att det ska upplevas som enkelt
@@ -4674,12 +4674,12 @@ säkert sätt inom området, och att backning undviks.
 
 Kommentar: Noteras
 
-16. Kultur & Fritid
+16\. Kultur & Fritid
 Kultur & Fritid anser att planförslaget är väl genomarbetat och har tagit hänsyn till många av de
 faktorer som Kultur & Fritid har lyft i tidigare behandling. Kultur & Fritid har inget att tillägga i denna
 granskning.
 
-17. Miljö & Hälsoskydd
+17\. Miljö & Hälsoskydd
 Buller och vibrationer
 Det saknas information om hur efterlevnaden ska kontrolleras innan inflyttning, samt om det finns
 uppföljningsrutiner för att säkra ljudmiljön på längre sikt. Frågan om undantag för små lägenheter i
@@ -4720,13 +4720,13 @@ att utgöra ett naturligt bullerskydd mot omgivande bebyggelse.
 Luftkvaliteten bedöms inte försämras som en följd av utbyggnad enligt förslag.
 
 Övriga
-18. Ellevio
+18\. Ellevio
 
 Ellevio har tagit del av granskningshandlingarna i planärendet. Ellevio yttrade sig under samrådsskedet
 och våra synpunkter har beaktats enligt samrådsredogörelsen. Ellevio har inget ytterligare att tillägga i
 detta skede.
 
-19. Postnord
+19\. Postnord
 Postnord ansvarar för den samhällsomfattande posttjänsten och måste godkänna placeringen och
 standarden på postmottagningsfunktioner. Postutdelningen ska vara miljövänlig, kostnadseffektiv och
 ta hänsyn till arbetsmiljön. Vid nybyggnation placeras postlådor i en lådsamling vid infarten för villor
@@ -5052,9 +5052,9 @@ trafik samt risker kopplade till närhet till sekundärled för farligt gods.
 
 Kontoret har bedömt att planförslaget ska revideras. Revideringen innebär ändringar i plankartan,
 bland annat:
--  Tillåten nockhöjd inom bostadskvarteret längst söder ut har sänkts, från 11 meter till 8 meter.
+\-  Tillåten nockhöjd inom bostadskvarteret längst söder ut har sänkts, från 11 meter till 8 meter.
 
--  Gång- och cykelväg inom planområdet placeras centralt och förlängs söder ut.
+\-  Gång- och cykelväg inom planområdet placeras centralt och förlängs söder ut.
 
 1 (18)
 Samhällsbyggnadskontoret                                  Kungsbacka kommun
@@ -5070,13 +5070,13 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (18)
 
--  Den större sammanhängande parken har får en något justerad placering och ansluter nu till
+\-  Den större sammanhängande parken har får en något justerad placering och ansluter nu till
 området runt bäcken.
--  Detaljplanen säkerställer att två bostadsfastigheter utanför planområdet kan få väganslutning
+\-  Detaljplanen säkerställer att två bostadsfastigheter utanför planområdet kan få väganslutning
 från planområdet.
 
--  Parkeringsytan i norr ha minskat i storlek.
--  Befintliga stenmurar bevaras i så stor utsträckning som möjligt. De murar som tas bort
+\-  Parkeringsytan i norr ha minskat i storlek.
+\-  Befintliga stenmurar bevaras i så stor utsträckning som möjligt. De murar som tas bort
 återuppförs på annan plats inom planområdet.
 
 Utöver dessa ändringar av plankartan har planbeskrivningen kompletterats och förtydligats i
@@ -5088,7 +5088,7 @@ Inkomna synpunkter har sammanfattats nedan. Personnamn anges inte. Samtliga synp
 tillgängliga på Samhällsbyggnadskontoret. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap 10 § plan- och bygglagen och nu
 kända förhållanden att ett antagande av en detaljplan enligt förslaget kan komma att prövas. Detta
@@ -5179,7 +5179,7 @@ bedömningen kring biotopskyddsdispens i samband med flytt av murar.
 Planbeskrivningen har reviderats för att förtydliga närheten till ridhusverksamheten och
 vad det innebär för framtida bostäder.
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Lantmäteriet har granskat detaljplanen för bostäder inom Rågelund 1:127 m.fl. i Frillesås och lämnat
 följande synpunkter:
 Utnyttjandegrad: Planbestämmelserna om största byggnadsarea försvårar genomförandet av
@@ -5220,7 +5220,7 @@ och omfattar inte längre den nämnda osäkra gränsen.
 Planbeskrivningen har reviderats för att förtydliga om/hur reglerna i 40 a §
 anläggningslagen berörs.
 
-3. Trafikverket
+3\. Trafikverket
 Trafikverket har granskat detaljplanen för Rågelund 1:127 m.fl. i Frillesås och lämnat följande
 synpunkter:
 Ärendet: Detaljplanen möjliggör cirka 190 bostäder, en ny infartsväg och gång- och cykelvägar.
@@ -5268,7 +5268,7 @@ eftersom trumman redan idag inte klarar teoretiskt dimensionerande flöde i komb
 med att ingen data finns om kapacitetsbrist ses inte planområdets påverkan vara
 betydande.
 
-4. Sveriges geotekniska institut (SGI)
+4\. Sveriges geotekniska institut (SGI)
 SGI vill lyfta frågan till Länsstyrelsen om planen säkerställer att de rekommendationer som lämnats i
 
 Teknisk PM geoteknik gällande stabiliteten mot befintliga diken efterlevs.
@@ -5280,7 +5280,7 @@ Kommentar: Den geotekniska utredningen har kompletterats med anledning av den pl
 dammen. Dammen påverkar stabiliteten i området och bebyggelsen föreslås förhålla sig
 till de områden som är lämpliga att bebygga.
 
-5. Räddningstjänsten
+5\. Räddningstjänsten
 Riskhänsyn: Planområdet ligger nära Göteborgsvägen och Almedalsvägen, som är rekommenderade
 leder för transport av farligt gods. Risken hanteras genom säkerhetsavstånd enligt en riskanalys från
 Länsstyrelsen i Hallands län. Planbeskrivningen bör förtydligas kring antagna förutsättningar och att
@@ -5308,12 +5308,12 @@ därmed finns ingen anläggning som kräver sprinklersystem. Några av byggnader
 föreslås bli högre än tre våningar vilket kräver ett större brandvattenflöde än 10 l/s. För
 detta flöde finns tillräcklig kapacitet vid Göteborgsvägen.
 
-6. Kulturmiljö Halland
+6\. Kulturmiljö Halland
 
 Planen bedöms inte påverka några kulturvärden varför vi inte har några synpunkter.
 
 Sakägare
-7. Fastighetsägare till Sintorp 4:235
+7\. Fastighetsägare till Sintorp 4:235
 
 Fastighetsägaren beskriver att trafiken längs Göteborgsvägen är tät, bullrig och snabb, med mycket
 ljud från västkustbanan och återvinningscentralen i Frillesås. De har haft dialog med kommunen,
@@ -5328,7 +5328,7 @@ konstaterades kommunen att det var olämpligt att sänka hastigheten utan förä
 vägens utformning eftersom det inte skulle leda till någon vidare hastighetsefterlevnad.
 Det är Trafikverket som ansvarar för vägens utformning.
 
-8. Frillesås rid- och körklubb (Borekulla 2:3)
+8\. Frillesås rid- och körklubb (Borekulla 2:3)
 Verksamhetsutövaren som driver en ridskola inom Borekulla 2:3, vill att planen tydligt tar hänsyn till
 deras verksamhet och hästar. De föreslår att den nya GCV (gång- och cykelvägen) läggs på den
 befintliga stigen istället för genom deras beteshage. De önskar också att vägen asfalteras och belysning
@@ -5348,7 +5348,7 @@ KUNGSBACKA  KOMMUN
 omkring ridskolan så bör nya byggrätter inte inskränkas på grund av nuvarande
 placering av ridskola.
 
-9. Fastighetsägare till Rågelund 1:115
+9\. Fastighetsägare till Rågelund 1:115
 Fastighetsägaren är nöjd med dammens placering bakom deras hus och vill inte att den ändras. De har
 frågor om vägen som går ner till deras hus och är oroliga över ett pumphus som verkar placeras vid
 deras nerfart. De önskar att inga hus byggs nära deras tomtgräns, särskilt inte vid deras trädgård, och
@@ -5395,7 +5395,7 @@ KUNGSBACKA  KOMMUN
 
 Önskan om yta för hundrastgård noteras och framförs till exploatören.
 
-10. Fastighetsägare till Sintorp 4:215
+10\. Fastighetsägare till Sintorp 4:215
 Förslaget om en cykel- och gångväg i sydöstra hörnet av området följer inte det naturliga landskapet
 och riskerar att förstöra ett stort grönområde som används av barn för lek och sport. Det föreslås att
 vägen i stället anläggs i de mer centrala delarna av området, där det redan finns plats och en upplyst
@@ -5405,7 +5405,7 @@ Kommentar: I det uppdaterade planförslaget har placeringen av koppling med gån
 flyttats till ett mer centralt läge i det befintliga bostadsområdet i söder. Den nya
 placeringen blir en mer naturlig koppling till Frillesås tätort.
 
-11. Fastighetsägare till Sintorp 4:219
+11\. Fastighetsägare till Sintorp 4:219
 De boende närmast området anser att husen inte bör vara högre än de befintliga i deras område,
 eftersom det skulle förstöra deras lantidyll. De påpekar att området har ett rikt djurliv med fasaner,
 rådjur och ibland häger, och de vill bevara utsikten och möjligheten att njuta av detta djurliv.
@@ -5419,7 +5419,7 @@ kontinuerlig ekologisk funktion inte bedöms påverkas hos de fågelarter som no
 
 och bedömts.
 
-12. Fastighetsägare till Sintorp 4:220, nummer 1 av 2
+12\. Fastighetsägare till Sintorp 4:220, nummer 1 av 2
 Att bygga på odlingsbar jordbruksmark anses olämpligt då den kan behövas i framtiden för både
 människor och djur. Husen är för höga och för många jämfört med det befintliga bostadsområdet, och
 trafiken på Göteborgsvägen är redan överbelastad. Djurlivet, inklusive fasaner, rådjur och den fridlysta
@@ -5453,7 +5453,7 @@ och bedömts.
 Det är exploatören som ansvarar för att byggnationen sker på rätt sätt. Synpunkten
 framförs till exploatören.
 
-13. Fastighetsägare till Sintorp 4:220, nummer 2 av 2
+13\. Fastighetsägare till Sintorp 4:220, nummer 2 av 2
 Att bygga på odlingsbar jordbruksmark anses olämpligt då den kan behövas i framtiden för både
 människor och djur. Trafiken på Göteborgsvägen till Frillesås centrum, förskolor och skola är redan
 överbelastad. Djurlivet, inklusive rådjur, fasaner och den fridlysta grå hägern, riskerar att påverkas.
@@ -5463,7 +5463,7 @@ skador. Det bästa alternativet anses vara att inte bygga alls, eftersom jordbru
 
 Kommentar: Se kommentar under punkt 13.
 
-14. Fastighetsägare till Sintorp 4:221
+14\. Fastighetsägare till Sintorp 4:221
 
 För att förbättra trafiksituationen föreslås att man ser över in- och utfarter till det planerade området
 och överväger att anlägga en rondell vid Almedalsvägen/Borekullavägen. Det föreslås även att en
@@ -5486,7 +5486,7 @@ KUNGSBACKA  KOMMUN
 planområdet. Det är byggherren som ansvarar för att miljön för de boende lever upp till
 kraven under byggtiden. Synpunkten framförs till exploatören.
 
-15. Fastighetsägare till Sintorp 4:223
+15\. Fastighetsägare till Sintorp 4:223
 Fastighetsägaren anser att det har lämnats för lite naturnära mark och föreslår att stryka fastigheter
 söder om bäcken (ån).
 Det saknas också en planering utmed Varbergsvägen med tex gång och cykelväg.
@@ -5497,7 +5497,7 @@ planområdet. Synpunkten föranleder ingen ändring i planhandlingarna.
 En gång- och cykelväg längs Göteborgsvägen i Frillesås kommer att planeras och
 genomföras under perioden 2025 till 2030.
 
-16. Fastighetsägare till Sintorp 4:224
+16\. Fastighetsägare till Sintorp 4:224
 Det föreslås att planen inkluderar gång- och cykeltrafik längs Göteborgsvägen för att göra det lättare
 och säkrare att korsa vägen. Detta skulle underlätta för boende att ta sig till Frillesås centrum och
 
@@ -5514,7 +5514,7 @@ gör bedömningen att höjden är lämplig. Längst i söder där området angr�
 befintlig bebyggelse, sänks föreslagen maximal nockhöjd till 8 meter för att få en
 mjukare övergång mellan befintlig och ny bebyggelse.
 
-17. Fastighetsägare till Sintorp 4:250
+17\. Fastighetsägare till Sintorp 4:250
 Fastighetsägaren anser att 11 meter i nockhöjd för de planerade småhusen är för högt och påverkar
 deras privatliv negativt. De är också oroliga för hur nästan 400 bilar kommer påverka trafik- och
 
@@ -5535,7 +5535,7 @@ Placeringen av infarten till området beror dels på att det nya området ska bl
 integrerad del av Frillesås tätort, dels på att inga fler vägkopplingar får ske längs
 Almedalsvägen, enligt väghållaren Trafikverket.
 
-18. Fastighetsägare till Sintorp 4:251
+18\. Fastighetsägare till Sintorp 4:251
 I planbeskrivningen anges att den nya bebyggelsen ska återspegla den lantliga karaktären i Frillesås
 och hållas låg i höjd. Den föreslagna detaljplanen med nockhöjder på 11 respektive 15 meter överstiger
 dock den tillåtna höjden på 8 meter i angränsande områden. För att harmonisera med omgivningen
@@ -5564,7 +5564,7 @@ befintlig bebyggelse, som kopplar till befintligt gång- och cykelvägnät i Fri
 gång- och cykelväg längs Göteborgsvägen i Frillesås kommer att planeras och
 genomföras under perioden 2025 till 2030.
 
-19. Fastighetsägare till Sintorp 4:252
+19\. Fastighetsägare till Sintorp 4:252
 Fastighetsägaren är positiv till att orten växer men har invändningar mot den föreslagna
 nybebyggelsen. De anser att byggnaderna är för höga och inte smälter in med den befintliga
 bebyggelsen. De föreslår en maxhöjd på två våningar, cirka 8 meter. De tycker också att antalet
@@ -5590,7 +5590,7 @@ En trafikutredning har tagits fram inom ramen för detaljplanen, vilken visar p�
 på statliga vägar. Utredningen visar att omgivande vägnät har kapacitet för den
 tillkommande trafiken.
 
-20. Fastighetsägare till Sintorp 4:253
+20\. Fastighetsägare till Sintorp 4:253
 Vid ett informationsmöte som hölls av Brixly i november 2022 lovades flera alternativ på detaljplanen,
 men inga har presenterats. Den föreslagna planen med höga, tätt placerade hus avviker från den
 lantliga karaktären i Frillesås och skapar insynsproblem. Det föreslås att höjden på husen sänks och att
@@ -5635,7 +5635,7 @@ En naturvärdesinventering har genomförts, vilken visar att bevarandestatus och
 kontinuerlig ekologisk funktion inte bedöms påverkas hos de fågelarter som noterats
 och bedömts.
 
-21. Fastighetsägare till Sintorp 4:254
+21\. Fastighetsägare till Sintorp 4:254
 Trafikutredningen anses bristfällig, med oro över flera hundra bilar per dygn från en enda in- och
 
 utfart. Det saknas en gång- och cykelbana (GC-bana) längs Göteborgsvägen, vilket kan leda till att folk
@@ -5664,7 +5664,7 @@ byggnaderna inte kan hamna för nära gränsen i söder.
 KUNGSBACKA  KOMMUN
 15 (18)
 
-22. Fastighetsägare till Sintorp 4:255
+22\. Fastighetsägare till Sintorp 4:255
 Fastighetsägaren är positiv till byggprojektet men har två huvudsakliga invändningar:
 De föreslår att bygghöjden för småhusen sänks från 11 meter till 9 meter för att säkerställa att endast
 tvåvåningshus byggs. De accepterar att flerbostadshusen kan behöva vara 15 meter höga.
@@ -5680,11 +5680,11 @@ Ett vänstersvängfält föreslås på Göteborgsvägen.
 
 Kommunala förvaltningar och nämnder
 
-23. Teknik
+23\. Teknik
 
 Förvaltningen för teknik är positiva till förslaget till detaljplan och har inget att erinra.
 
-24. Miljö & Hälsoskydd
+24\. Miljö & Hälsoskydd
 Buller och vibrationer: Bullerutredningen är bristfällig och saknar information om planerade
 byggnader, vilket skapar osäkerhet kring bullerberäkningarna. Det finns en ökad risk för bullerproblem
 nära stora trafikleder och brandstationens sirener kan störa boende. Bullerdämpande åtgärder som
@@ -5735,7 +5735,7 @@ placering i den södra änden av planområdet.
 Dialog förs med Hallandstrafik med avsikten att flytta den befintliga hållplatsen
 ”Frillesås” på Göteborgsvägen längre norrut och därmed närmare planområdet.
 
-25. Kultur & Fritid
+25\. Kultur & Fritid
 Kultur & Fritid har inga synpunkter på förslaget.
 
 <!-- sida 133 -->
@@ -5744,7 +5744,7 @@ KUNGSBACKA  KOMMUN
 17 (18)
 
 Övriga
-26. Skanova
+26\. Skanova
 
 Skanova har markförlagda teleanläggningar och ledningsrätt inom detaljplaneområdet. Diskussioner
 pågår med exploatören om dessa anläggningar. Skanova vill behålla befintliga teleanläggningar för att
@@ -5755,7 +5755,7 @@ plankartan. Kabelanvisning beställs via ledningskollen.se.
 
 Kommentar: Informationen och önskemål noteras.
 
-27. Ellevio
+27\. Ellevio
 Ellevio har lokalnät inom planområdet som försörjer befintliga byggnader. En 11 kV luftledning längs
 östra kanten ska ersättas med kabel våren 2025. Två nya transformatorstationer föreslås, en i nordväst
 
@@ -5766,7 +5766,7 @@ planerade effekter är önskvärd.
 Kommentar: Föreslagen placering av den västra transformatorstationen har flyttats i enlighet med
 synpunkten.
 
-28. Fastighetsägare Rågelund 1:62
+28\. Fastighetsägare Rågelund 1:62
 Fastighetsägaren på Rågelund 1:62 är positiv till förslaget om bostadsbyggande, vilket skulle stärka
 Frillesås och knyta ihop centrum med Rågelund. Projektet kan förbättra vägövergångar och öka
 behovet av kollektivtrafik. Samtidigt planerar fastighetsägaren på Rågelund 1:92 att bygga en 7,5
@@ -5774,7 +5774,7 @@ hektar stor solcellspark, vilket oroar närliggande fastighetsägare.
 
 Kommentar: Synpunkten noteras.
 
-29. Fastighetsägare Rågelund 1:120
+29\. Fastighetsägare Rågelund 1:120
 
 En boende på norra sidan av Almedalsvägen uttrycker oro över de högt belastade vägarna runt deras
 bostad, där bilar, bussar och lastbilar kör fort. Det saknas gång- och cykelvägar, vilket gör det osäkert
@@ -5792,7 +5792,7 @@ Kommentar: Planering och utförande av en gång- och cykelväg längs Göteborgs
 göras mellan 2025 och 2030, vilket kommer att bidra med ökad trafiksäkerhet längs
 Göteborgsvägen.
 
-30. Fastighetsägare Rågelund 1:93
+30\. Fastighetsägare Rågelund 1:93
 Det nya bostadsområdet Rågelund 1:127 kommer att byggas nära rondellen i Frillesås, med en
 
 solcellspark planerad mellan bostadsområdet och en närliggande fastighet. Det finns oro över
@@ -5810,7 +5810,7 @@ trafiksäkerhet längs Göteborgsvägen.
 Det är enligt Trafikverket, som är väghållare för Almedalsvägen, inte lämpligt att
 anordna en övergång över Almedalsvägen.
 
-31. Postnord
+31\. Postnord
 
 Postnord ansvarar för den samhällsomfattande posttjänsten och måste godkänna placeringen och
 standarden på postmottagningsfunktioner. Postutdelningen ska vara miljövänlig, kostnadseffektiv och
@@ -5847,17 +5847,17 @@ med 5 kap. 11 § plan- och bygglagen (2010:900), PBL. Detaljplanen
 handläggs med standardförfarande.
 
 Under samrådet ska Länsstyrelsen enligt 5 kap. 14 § PBL särskilt
-1. ta till vara och samordna statens intressen
-2. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
+1\. ta till vara och samordna statens intressen
+2\. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
 
 (1998:808), MB, tillgodoses, att miljökvalitetsnormer enligt 5
 kap. MB följs och att strandskydd enligt 7 kap. MB inte
 upphävs i strid med gällande bestämmelser
-3. verka för att sådana frågor om användningen av mark- och
+3\. verka för att sådana frågor om användningen av mark- och
 
 vattenområden som angår två eller flera kommuner
 samordnas på ett lämpligt sätt
-4. verka för att en bebyggelse inte blir olämplig eller ett
+4\. verka för att en bebyggelse inte blir olämplig eller ett
 byggnadsverk olämpligt med hänsyn till människors hälsa
 eller säkerhet eller till risken för olyckor, översvämning eller
 
@@ -5912,7 +5912,7 @@ detaljplanen.
 Motiv för bedömningen
 Länsstyrelsen befarar inte att:
 
-- reglering av mellankommunala frågor inte samordnas på ett
+\- reglering av mellankommunala frågor inte samordnas på ett
 lämpligt sätt.
 
 Riksintressen 4 kap.
@@ -6021,26 +6021,26 @@ består av totalt 15 provpunkter inom planområdet.
 Länsstyrelsen anser att ytterligare utredning behövs inom
 planområdet detta med hänsyn till följande:
 
-- För få provpunkter inom planområdet. Ett riktmärke för översiktlig
+\- För få provpunkter inom planområdet. Ett riktmärke för översiktlig
 undersökning kan vara cirka 5 prover per hektar. Ytterligare prover
 
 bör placeras inom hela planområdet.
 
-- Befintlig provtagning är glest utspridd över planområdet, fler
+\- Befintlig provtagning är glest utspridd över planområdet, fler
 prover bör tas i närhet till påträffade föroreningar som överskrider
 KM.
 
-- Provtagning bör göras där risken är högre att känsliga grupper
+\- Provtagning bör göras där risken är högre att känsliga grupper
 
 exponeras, exempelvis vid planerad lekplats.
 
-- Bedömning av om PFAS kan ha använts inom växthusverksamheten
+\- Bedömning av om PFAS kan ha använts inom växthusverksamheten
 som beståndsdel i bekämpningsmedel. Om det finns risk för detta
 rekommenderas att PFAS undersöks i grundvatten inom området vid
 
 tidigare växthusverksamhet.
 
-- Orsak till att varför det i ett av de tre grundvattenrören uppmätts
+\- Orsak till att varför det i ett av de tre grundvattenrören uppmätts
 mycket höga halter av arsenik men inte i de andra. Provtagning i
 jord bör göras i närområdet till detta grundvattenrör för att utreda
 om det finns en föroreningskälla till de förhöjda halterna. Alternativt
@@ -6394,7 +6394,7 @@ Byggnadsnämnden beslutade den 15 maj 2025, med stöd av delegering, att
 genomföra granskning.
 
 Planförslaget har varit utställt för granskning under tiden 20 maj 2025 till den 10 juni
-2025. Under granskningstiden kom det in 19 skrivelser. De inkomna synpunkterna
+2025\. Under granskningstiden kom det in 19 skrivelser. De inkomna synpunkterna
 berör i huvudsak höjd och placering på föreslagen bebyggelse, anslutningar till
 området, påverkan på djur och natur, hantering av geoteknik, dagvatten och skyfall.
 För mer information om synpunkternas innehåll, se vidare i granskningsutlåtandet.
@@ -6532,7 +6532,7 @@ Höjd på byggnadsverk
 ANVÄNDNING AV MARK
 Högsta nockhöjd på huvudbyggnad är
 Allmän platsmark
-<angivet> meter.
+\<angivet> meter.
 Gata.
 Högsta nockhöjd på komplementbyggnad är
 5 meter.
@@ -6938,7 +6938,7 @@ för dammen.
 Huvudmannaskap
 I detaljplanen föreslås delat huvudmannaskap för allmän plats, där kommunen är huvudman
 för PARK Enskilt huvudmannaskap råder för allmän plats GATA och NATUR med
-1.
+1\.
 egenskapsbestämmelsen a .
 1
 NATUR i detaljplanen föreslås ha enskilt huvudmannaskap då ytan är en del av ett större
@@ -7044,7 +7044,7 @@ kommer att bygga. Beroende av hur byggrätten disponeras för BMSS finns eventue
 
 ytterligare bostäder inom planområdet. Befintliga lägenheter i Särögården kan vara kvar men
 inte uppta mer än 100 m2 bruttoarea, vilket regleras av en egenskapsbestämmelse s
-1.
+1\.
 PARK
 1
 Parkområdet syftar till att hantera dagvatten genom att exempelvis anlägga en torrdamm.
@@ -7292,14 +7292,14 @@ planen går att genomföra ändå. Servitut kan ändå komma att bildas genom in
 berörda fastighetsägarna.
 
 Bukärr 1:30 är belastad av följande servitut:
--  Avtalsservitut 13-IM2-89/41841.1 belastar fastigheten med kraftledning. Rättigheten
+\-  Avtalsservitut 13-IM2-89/41841.1 belastar fastigheten med kraftledning. Rättigheten
 kommer inte att påverkas av detaljplanens genomförande.
--  Avtalsservitut 13-IM2-93/13820.1 belastar fastigheten med kraftledning. Rättigheten
+\-  Avtalsservitut 13-IM2-93/13820.1 belastar fastigheten med kraftledning. Rättigheten
 
 kommer inte att påverkas av detaljplanens genomförande.
--  Avtalsservitut D202000193709:1.1 belastar fastigheten med kraftledning. Rättigheten
+\-  Avtalsservitut D202000193709:1.1 belastar fastigheten med kraftledning. Rättigheten
 kommer inte att påverkas av detaljplanens genomförande.
--  Avtalsservitut 1384IM-10/17025.1 belastar fastigheten med väg, till förmån för
+\-  Avtalsservitut 1384IM-10/17025.1 belastar fastigheten med väg, till förmån för
 fastigheten Släps-Underliden 1:7. Servitutet innebär rätt för den härskande fastigheten
 att nyttja befintlig köryta inom Bukärr 1:30. Servitutet bör upphävas och ersättas av
 andel i gemensamhetsanläggning, som följd av planförslaget.
@@ -7837,7 +7837,7 @@ Gamla Särövägen där Trafikverket är väghållare.
 I samband med detaljplanen har en trafikutredning tagits fram (Afry, 2023-04-16).
 Tillkommande byggnation inom planområdet väntas generera som mest 119 fordonsrörelser
 per dygn. Gamla Särövägen har i dagsläget en årsdygnstrafik, ÅDT på cirka 3000 (3900
-2045) och de tillkommande 119 fordonsrörelserna beräknas inte påverka belastningsgraden i
+2045\) och de tillkommande 119 fordonsrörelserna beräknas inte påverka belastningsgraden i
 en högre utsträckning.
 Korsningen Liabovägen/Gamla Särövägen har i trafikutredningen studerats utifrån VGU:s
 lämplighetsmatris. Korsningen bedöms ha kapacitet för den trafikökning som exploateringen

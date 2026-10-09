@@ -489,10 +489,10 @@ Att vara funktionell för både små och större arrangemang.
 
 Att kunna användas av såväl föreningar och skolor som kommunen själv.
 
-Torbjörn Andersson (SD)-Ledamot kultur & fri<d
+Torbjörn Andersson (SD)-Ledamot kultur & fri\<d
 
-Mats Dahl (SD)-Ledamot kultur & fri<d
-Stefan Jägnert (SD)-ErsäCare kultur & fri<d
+Mats Dahl (SD)-Ledamot kultur & fri\<d
+Stefan Jägnert (SD)-ErsäCare kultur & fri\<d
 
 <!-- sida 14 -->
 
@@ -642,7 +642,7 @@ kommun de ska styra.
 
 Vi yrkar därför
 
--  Att förvaltningen producerar en mindre informationsbroschyr/ett häfte om kommunens
+\-  Att förvaltningen producerar en mindre informationsbroschyr/ett häfte om kommunens
 historia.
 
 För socialdemokraterna
@@ -708,7 +708,7 @@ Under sommaren 2025 genomfördes Sommarkulturskolan som en del av Kulturskolans 
 och unga mellan 7–13 år fick möjlighet att prova på teater, cirkus, konst, musik och LEGO. Totalt deltog 56
 barn i fyra grupper – med mycket positiva resultat och stort engagemang.
 Alliansen vill bygga vidare på denna framgång genom att utöka Sommarkulturskolan inför sommaren
-2026. Därutöver vill vi avsätta extra medel till föreningslivet för att möjliggöra ännu fler aktiviteter för
+2026\. Därutöver vill vi avsätta extra medel till föreningslivet för att möjliggöra ännu fler aktiviteter för
 sommarlovslediga barn och unga.
 
 Kungsbackas föreningar är en nyckelaktör i arbetet för att stärka barns och ungas psykiska och fysiska
@@ -722,8 +722,8 @@ Att
 
 nämnden för Kultur och Fritid ger förvaltningen i uppdrag att:
 
-- utöka Sommarkulturskolan inför sommaren 2026, samt
-- i samarbete med föreningslivet skapa fler sommarlovsaktiviteter för barn och unga i kommunen.
+\- utöka Sommarkulturskolan inför sommaren 2026, samt
+\- i samarbete med föreningslivet skapa fler sommarlovsaktiviteter för barn och unga i kommunen.
 
 Annika Hedman Maria Gathendahl Birgitta Gustafsson Helene Engstrand
 

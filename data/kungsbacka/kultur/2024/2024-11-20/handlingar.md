@@ -786,7 +786,7 @@ Indexvärdet för trygghet är högst på Fullriggaren Malevik (93), Frillesåss
 I åk 8 beskriver 35 procent av eleverna att de under det senaste halvåret blivit utsatta för brott – stöld,
 misshandel och/eller sexuellt våld/utnyttjande – eller hot om brott. I gy2-gruppen 37 procent att de har varit
 utsatta. I den äldre gruppen gäller det en större andel killar än tjejer, en könsskillnad som funnits alla år utom
-2017. På totalen är resultaten 2023 något högre än under tidigare år men måste tolkas med stor försiktighet
+2017\. På totalen är resultaten 2023 något högre än under tidigare år men måste tolkas med stor försiktighet
 på grund av ändrad frågekonstruktion från år till år i undersökningen.
 Det återfinns en skillnad rörande utsatthet mellan olika boendeområden. I åk 8 är andelen störst drabbade
 bland de som bor i Anneberg, Älvsåker (42 procent), Frillesås (37 procent) medan de som bor i Onsala och
@@ -816,7 +816,7 @@ GR-snittet. Sett till boendeområdena är det inget område som signifikant stic
 Grovt räknat fyra av tio ungdomar i båda åldersgrupper uppger att de under senaste halvåret har blivit
 orättvist behandlade (på ett sätt så den utsatta ”mått dåligt”) – ungefär en av tio har upplevt detta flera
 gånger. I båda fallen är andelen i åk8 lite större än i gy2 och det går att spåra en ökning från året 2020 till
-2023.
+2023\.
 
 En enkätundersökning utförd av Kungsbacka kommun under hösten 2023 visar att en betydande andel av
 unga i Kungsbacka har utsatts för sexuell exploatering på nätet. Undersökningen nådde ungdomar i åldern
@@ -851,7 +851,7 @@ Undersökningen indikerar att sexuell exploatering på nätet är ett betydande 
 Kungsbacka, med framträdande könsskillnader i utsatthet. Det är avgörande att fortsätta det kunskapshöjande
 arbetet och att vuxna skapar utrymme för samtal med ungdomar om deras upplevelser på nätet. Kungsbacka
 kommun satsar på att öka medvetenheten om sexuell exploatering bland barn och unga genom initiativet
-#tryggdigitaluppväxt, vilket syftar till att nå alla som möter barn och unga för att skapa en tryggare digital
+\#tryggdigitaluppväxt, vilket syftar till att nå alla som möter barn och unga för att skapa en tryggare digital
 uppväxt.
 
 <!-- sida 30 -->
@@ -1383,7 +1383,7 @@ exempelvis specifika stölder eller bedrägeri.
 Brottslighet försämrar inte bara tryggheten och livskvaliteten för invånarna i en kommun eller ort. Det kan
 dessutom innebära stora ekonomiska konsekvenser för såväl privatpersoner som företagare och föreningsliv.
 En undersökning från Svenskt Näringsliv visar att nästan 6 av 10 företag i Halland utsatts för brott under
-2021. Det motsvarar hela 6 000 företag och kostnaderna uppgår till 3 miljarder kronor. Undersökningen visar
+2021\. Det motsvarar hela 6 000 företag och kostnaderna uppgår till 3 miljarder kronor. Undersökningen visar
 även att vart tjugonde företag övervägt att lägga ned hela eller delar av verksamheten på grund av utsattheten
 för brott.
 För att minska brottsligheten och öka tryggheten i samhället behövs en samverkan mellan olika aktörer i
@@ -1583,7 +1583,7 @@ metaamfetamin. Under 2020 sågs enligt mätningarna en minskad användning av ca
 trenden har dock vänt för 2022 och en ökning syns igen av sistnämnda preparat.
 
 Uträkningen för att ange en dos per invånare är tagen från EMCDDAs (European Monitoring Centre for
-Drugs and Drug Addiction) modell där dos och metabolisk konversionsfaktor är definierat*.
+Drugs and Drug Addiction) modell där dos och metabolisk konversionsfaktor är definierat\*.
 
 <!-- sida 46 -->
 
@@ -1633,7 +1633,7 @@ flickorna.
 
 [Tabell 46-1](handlingar.tabeller/46-1.csv)
 
-| *Beräknade (rena) doser | Uppskattad förekomst i Kungsbacka<br>kommun 2022 |
+| \*Beräknade (rena) doser | Uppskattad förekomst i Kungsbacka<br>kommun 2022 |
 | --- | --- |
 | Cannabis 125 mg (THC 15%) | 20 doser/per 1000 invånare och dygn |
 | Amfetamin/metaamfetamin 30 mg | 10 doser/per 1000 invånare och dygn |
@@ -1804,7 +1804,7 @@ mopedbilar, hastighetsöverträdelser, beteendeövervakningar samt nykterhetskon
 Brottslighet försämrar inte bara tryggheten och livskvaliteten för invånarna i en kommun eller ort. Det kan
 dessutom innebära stora ekonomiska konsekvenser för såväl privatpersoner som företagare och föreningsliv.
 En undersökning från Svenskt Näringsliv visar att nästan 6 av 10 företag i Halland utsatts för brott under
-2021. Det motsvarar hela 6 000 företag och kostnaderna uppgår till 3 miljarder kronor. Undersökningen visar
+2021\. Det motsvarar hela 6 000 företag och kostnaderna uppgår till 3 miljarder kronor. Undersökningen visar
 även att vart tjugonde företag övervägt att lägga ned hela eller delar av verksamheten, på grund av
 utsattheten för brott.
 För att minska brottsligheten och öka tryggheten i samhället behövs en samverkan mellan olika aktörer i
@@ -1846,8 +1846,8 @@ Initiativ från Alliansen: Stärkt Brottsförebyggande arbete
 Förslag till beslut i nämnden för Kultur & Fritid
 Nämnden beslutar att:
 
--  Anta initiativet
--  Ansöka om 1 000 000 kr i bidrag från kommunstyrelsens satsning för att främja välmående och
+\-  Anta initiativet
+\-  Ansöka om 1 000 000 kr i bidrag från kommunstyrelsens satsning för att främja välmående och
 
 motverka psykisk ohälsa
 
@@ -2133,14 +2133,14 @@ KUNGSBACKA  KOMMUN
 Lerums kommun
 
 • Prioritet ges till bidragsberättigade föreningar med barn och ungdomar 7-25 år.
-1. Säsongsbokning (minst 7 månader) för barn och ungdomar 7-25 år, med höst och vår som
+1\. Säsongsbokning (minst 7 månader) för barn och ungdomar 7-25 år, med höst och vår som
 huvudsaklig säsong och inomhusaktiviteter som huvudaktivitet.
-2. Säsongsbokning (minst 7 månader) för övriga föreningar med verksamhet riktad till barn och
+2\. Säsongsbokning (minst 7 månader) för övriga föreningar med verksamhet riktad till barn och
 unga 7-25 år.
-3. Bokningar för del av säsong av föreningar med verksamhet riktad till barn och ungdomar 7-
+3\. Bokningar för del av säsong av föreningar med verksamhet riktad till barn och ungdomar 7-
 25 år.
-4. Övriga föreningar i Lerums kommun.
-5. Privatpersoner, företag och andra organisationer.
+4\. Övriga föreningar i Lerums kommun.
+5\. Privatpersoner, företag och andra organisationer.
 • Kommunen har bokningsföreträde och rätt att göra avsteg från prioriteringen ovan.
 Säsongstider:
 • Säsongen är 1 september till siste april.
@@ -2187,15 +2187,15 @@ Förvaltningen bedömer därför att grundprinciperna bör kompletteras och gör
 
 Fördelningen sker enligt följande prioritering:
 
-1. Evenemang, arrangemang, cuper, som har ansökt innan 1 mars. (max två
+1\. Evenemang, arrangemang, cuper, som har ansökt innan 1 mars. (max två
 evenemang/termin/förening)
-2. Bidragsberättigade barn- och ungdomsföreningar i seriespel – dessa omfattar även
+2\. Bidragsberättigade barn- och ungdomsföreningar i seriespel – dessa omfattar även
 föreningarnas seniorlag.
 
-3. Övriga föreningar i seriespel, men som inte är bidragsberättigade
-4. Barn- och ungdomsföreningar som inte har seriespel inomhus
+3\. Övriga föreningar i seriespel, men som inte är bidragsberättigade
+4\. Barn- och ungdomsföreningar som inte har seriespel inomhus
 
-5. Övriga föreningar/motionsgrupper/privata/ företag
+5\. Övriga föreningar/motionsgrupper/privata/ företag
 
 Förslag på nya principer
 
@@ -2217,27 +2217,27 @@ KUNGSBACKA  KOMMUN
 
 Fördelningsprioritering vid säsong
 
-1) Evenemang, arrangemang, cuper, som har ansökts innan utlyst datum (max två evenemang per
+1\) Evenemang, arrangemang, cuper, som har ansökts innan utlyst datum (max två evenemang per
 termin och förening under säsong)
 
-2) Stödberättigade föreningar med barn & ungdomsverksamhet som är anmälda tävling/seriespel
+2\) Stödberättigade föreningar med barn & ungdomsverksamhet som är anmälda tävling/seriespel
 och inom säsong (för inomhusanläggningar gäller att säsongsbokningen måste vara minst 7
 månader). Särskild hänsyn tas till:
 •    barn och ungdomar 7-20 år
 
 •    personer med funktionsnedsättningar
-3) Stödberättigade föreningar med barn & ungdomsverksamhet som är anmälda
+3\) Stödberättigade föreningar med barn & ungdomsverksamhet som är anmälda
 tävlingsverksamhet/seriespel men har avvikande säsong (för inomhusanläggningar är
 
 säsongsbokningen mindre än 7 månader). Särskild hänsyn tas till:
 •    barn och ungdomar 7-20 år
 
 •    personer med funktionsnedsättningar
-4) Övriga stödberättigade föreningar med barn & ungdomsverksamhet som inte uppfyller kraven
+4\) Övriga stödberättigade föreningar med barn & ungdomsverksamhet som inte uppfyller kraven
 ovan.
 
-5) Övriga stödberättigade föreningar
-6) Övriga föreningar/motionsgrupper/privata/företag med mera.
+5\) Övriga stödberättigade föreningar
+6\) Övriga föreningar/motionsgrupper/privata/företag med mera.
 
 Förvaltningen för Kultur & fritid har bokningsföreträde och rätt att göra avsteg ifrån prioriteringen och
 principerna ovan.
@@ -2311,7 +2311,7 @@ Nämnden ställer sig bakom förvaltningens yttrande.
 Sammanfattning av ärendet
 
 Kungsbacka kommun har tagit fram ett nytt förslag till bostadsförsörjningsplan för perioden 2025–
-2029. Enligt lagen om kommunernas bostadsförsörjningsansvar (2000:1383) ska kommuner minst en
+2029\. Enligt lagen om kommunernas bostadsförsörjningsansvar (2000:1383) ska kommuner minst en
 gång per mandatperiod fastställa riktlinjer för bostadsförsörjningen. Dessa riktlinjer syftar till att
 säkerställa att alla har möjlighet till en trygg och ändamålsenlig bostad, genom att både tillgodose
 behovet av nya bostäder och förbättra det befintliga bostadsbeståndet.
@@ -2367,7 +2367,7 @@ Nämnden för Kultur & Fritids inställning i detalj
 Vi vill lyfta några aspekter som vi tycker behöver tas särskilt hänsyn till i den vidare bearbetningen
 och implementeringen av planen:
 
-1. I Kungsbacka är förutsättningarna för ett gott liv goda och kommunen ligger väl till i både
+1\. I Kungsbacka är förutsättningarna för ett gott liv goda och kommunen ligger väl till i både
 globalt och nationellt perspektiv. Kommunen har trots förutsättningarna utmaningar med
 skillnader i hälsa. I många av kommunens områden är andelen egnahemboenden hög samtidigt
 som andelen hyreslägenheter är låg. En ökad blandning av upplåtelseformer skulle vara positivt
@@ -2376,14 +2376,14 @@ möjlighet att bo kvar i samma stadsdel. Barn och unga bör ha möjligheten att 
 skola och delta i samma fritidsaktiviteter oavsett hur föräldrarnas boende och livssituation
 eventuellt förändras. Det är positivt utifrån hänsyn till den sociala hållbarheten att planen på ett
 tydligt sätt tar upp behoven av bostäder som attraherar olika grupper.
-2. Planen framhåller behoven av att bygga bostadsområden med närhet till service för olika
+2\. Planen framhåller behoven av att bygga bostadsområden med närhet till service för olika
 åldersgrupper. Även tillgänglighet till natur och friluftsliv bör inkluderas i planens
 beskrivningar. För att säkra tillgången på grönytor och ytor för friluftsliv bör inför varje
 bebyggelseexploatering en noggrann inventering av natur- och rekreationsvärden genomföras
 
 för att kunna ta vara på befintliga kvalitéer. De nya utemiljöer som skapas blir ett erbjudande
 även för boende utanför det aktuella projektområdet.
-3. Ambitionen att skapa en god gestaltad livsmiljö med plats för konst och kultur bör
+3\. Ambitionen att skapa en god gestaltad livsmiljö med plats för konst och kultur bör
 implementeras i bostadsförsörjningsplanen. Gestaltad livsmiljö, arkitektur och konst kan bidra
 till att skapa trygga, kreativa och utmanande platser, där människor kan hitta livslust och trivsel
 i ett stimulerande sammanhang. Vidare uppmuntrar gestaltad livsmiljö, arkitektur och konst till
@@ -2507,7 +2507,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Syfte och bakgrund .............................................................................................. 3
+1\. Syfte och bakgrund .............................................................................................. 3
 Varför en bostadsförsörjningsplan? ...................................................................... 3
 Vad är goda bostäder? ......................................................................................... 3
 
@@ -2515,27 +2515,27 @@ Hur har planen tagits fram? ....................................................
 Hur är planen uppbyggd? ..................................................................................... 4
 Vad säger översiktsplanen om bostäder? ............................................................. 5
 
-2. Kommunens utmaningar ...................................................................................... 7
+2\. Kommunens utmaningar ...................................................................................... 7
 Utmaning: Hållbar tillväxt av bostäder .................................................................. 8
 Utmaning: Bostäder för allas behov .................................................................... 10
 Utmaning: Åldrande befolkning och välfärden .................................................... 12
 
 Utmaning: Social sammanhållning ..................................................................... 13
-3. Mål och insatser ................................................................................................. 15
+3\. Mål och insatser ................................................................................................. 15
 
 Mål 1: Vi ska tillgängliggöra fler bostadsytor i en hållbar takt .............................. 16
 Mål 2: Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad ................................................................................................................ 18
 Mål 3: Bostadsförsörjningen ska främja en god social sammanhållning ............. 21
 
-4. Uppföljning ......................................................................................................... 23
+4\. Uppföljning ......................................................................................................... 23
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 2 (23)
 
 <!-- sida 72 -->
 
 Syfte och bakgrund
-1. Syfte och bakgrund
+1\. Syfte och bakgrund
 
 Varför en bostadsförsörjningsplan?
 Enligt Lag (2000:1383) om kommunernas bostadsförsörjningsansvar ska varje
@@ -2700,7 +2700,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 <!-- sida 76 -->
 
 Kommunens utmaningar
-2. Kommunens    utmaningar
+2\. Kommunens    utmaningar
 
 I detta kapitel identifieras fyra utmaningar för bostadsförsörjningen i Kungsbacka
 kommun som ligger till grund för målen och insatserna i kapitel 3. Utmaningarna har
@@ -2715,12 +2715,12 @@ kopplingen till hållbarhet. De globala hållbarhetsmålen omfattar samtliga asp
 hållbar utveckling (ekonomisk, social och miljömässig hållbarhet).
 Kommunens utmaningar är följande:
 
-1. Hållbar tillväxt av bostäder
+1\. Hållbar tillväxt av bostäder
 
-2. Bostäder för allas behov
-3. Åldrande befolkning och välfärden
+2\. Bostäder för allas behov
+3\. Åldrande befolkning och välfärden
 
-4. Social sammanhållning
+4\. Social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 7 (23)
 
@@ -3052,7 +3052,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Mål och insatser
 
-3. Mål och insatser
+3\. Mål och insatser
 
 I detta kapitel hittar du det huvudsakliga innehållet i denna plan, nämligen mål och
 insatser för bostadsförsörjningen under tidsperioden 2025–2029. Målen och
@@ -3060,11 +3060,11 @@ insatserna tar sin utgångspunkt i våra utmaningar. Till varje mål kopplas ett
 förväntade effekter samt nyckeltal. Till varje insats kopplas ansvariga aktörer.
 Kommunens tre mål för bostadsförsörjning:
 
-1. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
+1\. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
 
-2. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
+2\. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad
-3. Bostadsförsörjningen ska främja en god social sammanhållning
+3\. Bostadsförsörjningen ska främja en god social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 15 (23)
 
@@ -3398,7 +3398,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Uppföljning
 
-4. Uppföljning
+4\. Uppföljning
 
 Planen följs upp varje år genom en återrapportering till kommunstyrelsen.
 Kommunstyrelsens förvaltning är ansvarig för uppföljningen. Uppföljningen görs
@@ -4019,7 +4019,7 @@ Befolkningen beräknas att bli allt äldre i Kungsbacka. Andel äldre än 60 år
 20,4 procent till 22,9 procent av total befolkning fram till 2032. Samtidigt beräknas andelen mellan
 0–9 år att minska från något från 10,9 procent av total befolkning 2024 till 10,5 procent per år
 
-2032.
+2032\.
 Diagrammet nedan visar åldersfördelningen i ettårsklasser idag och enligt prognos tio år framåt.
 
 15
@@ -4900,7 +4900,7 @@ Figur 49 - Bostadsmarknadsläget i kommunen som helhet. På kartan visas både k
 januari 2023 och om tre år, i fyra kategorier, se teckenförklaringen. Källa: Boverket, Bostadsmarknadsenkäten (BME), 2023.
 1.4.2.1 Bostadsmarknaden, bedömning av läget i Halland per kommun år 2001–2023
 Tabellen visar hur kommunerna bedömt bostadsmarknadsläget i kommunen som helhet sedan år
-2001. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
+2001\. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
 
 43
 
@@ -5181,7 +5181,7 @@ mått 2
 Figur 58 – Andel och antal hushåll per boende med ansträngd boendeekonomi i Kungsbacka 2012–2021. Källa: Boverket "Underlag
 bedömning bostadsbrist 2023", bearbetat av Kungsbacka kommun
 Figur 13 visar antal individer som ingår i hushåll som har en ansträngd boendeekonomi enligt mått
-2. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
+2\. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
 boendeekonomin minskat från 2012–2021. I den äldsta åldersgruppen 80+ är trenden i antal på
 liknade nivå under perioden, dock har andelen minskat.
 
@@ -5388,7 +5388,7 @@ Den största gruppen inom detta mått i Kungsbacka består av ensamstående män
 barn, samt sammanboende med barn, som bor i hyresrätter. Under den givna perioden har antalet
 hushåll utvecklats på en jämförbar nivå. Däremot har det observerats en ökning av antalet barn i
 åldern 0–17 år och vuxna i åldern 25–64 år från 2017 till 2019, följt av en viss avmattning under
-2020.
+2020\.
 
 53
 
@@ -5726,7 +5726,7 @@ Hushåll där någon av individerna har flyttat minst en gång årligen de senas
 Boverket kan måttet indikera att det finns hushåll som har en osäker boendesituation och har svårt
 att hitta ett permanent boende.
 I Kungsbacka har både antalet och andelen hushåll som flyttar ofta legat på en jämn nivå sedan
-2012. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
+2012\. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
 Denna grupp utgörs huvudsakligen av individer i åldersspannet 18–64 år, där åldersgruppen 35–
 64 år utgör den största delen.
 
@@ -6438,7 +6438,7 @@ yngre hushållen åt de äldre.
 40 000
 20 000
 
--
+\-
 30-39 år 40-49 år 70-79 år 80+ år
 
 Figur 101 - Medelvärde för hushåll i äganderätt i riket för 2021. Källa: SCB
@@ -6757,11 +6757,11 @@ uppdrag på ett innovativt sätt som överträffar invånarnas förväntningar�
 Kungsbacka kommun har fem kommunövergripande mål som är uppsatta av kommunfullmäktige.
 Målen har sin utgångspunkt i Vision 2030.
 
--  En attraktiv kommun att bo, verka och vistas i
--  En hållbar utveckling och en hälsosam miljö
--  Bästa företagsklimatet i Västsverige
--  I Kungsbacka utvecklas vi hela livet
--  Ett medskapande samhälle och öppen attityd
+\-  En attraktiv kommun att bo, verka och vistas i
+\-  En hållbar utveckling och en hälsosam miljö
+\-  Bästa företagsklimatet i Västsverige
+\-  I Kungsbacka utvecklas vi hela livet
+\-  Ett medskapande samhälle och öppen attityd
 
 2.4.3 Översiktsplan
 
@@ -6808,7 +6808,7 @@ I dagsläget pågår arbete med att ta fram en ny fördjupad översiktsplan för
 ska vara vägledande i hur vi ska använda mark- och vattentillgångar i staden fram till 2050. I
 enlighet med intentionerna i nya översiktsplanen tar denna plan höjd för en fördubbling av stadens
 befolkning fram till 2050, vilket innebär cirka 50 000 invånare. Planen beräknas vinna laga kraft år
-2026.
+2026\.
 
 2.5 Planens beaktande av relevanta mål och styrdokument
 De relevanta målen och styrdokumenten som beskrivits ovan har varit styrande i framtagandet av
@@ -7419,7 +7419,7 @@ pensionärsföreningar vilket gör att de tog hänsyn till behoven hos en störr
 individuella önskemål (som var fokus för dialogen år 2015 och därav riktade sig till ett större antal
 äldre). På dialogen diskuterades hur deltagarna ser på bostäder i kommunen och vilka nya
 utmaningar eller behov som kan identifieras kopplat till äldres behov i jämförelse med dialogen år
-2015.
+2015\.
 
 De viktigaste resultaten från dialogen inkluderade:
 •  Behov av fler trygghetsboenden och en mer varierad bostadsförsörjning
@@ -7508,9 +7508,9 @@ Denna del innehåller de huvudsakliga målen för bostadsförsörjningen i kommu
 insatser som planeras för att uppnå dessa mål. Tre övergripande mål för
 bostadsförsörjningen i Kungsbacka kommun har identifierats:
 
-1. Tillgängliggöra fler bostadsytor i en hållbar takt.
-2. Fler unga och äldre ska få tillgång till ändamålsenliga bostäder.
-3. Bostadsförsörjningen ska främja social sammanhållning.
+1\. Tillgängliggöra fler bostadsytor i en hållbar takt.
+2\. Fler unga och äldre ska få tillgång till ändamålsenliga bostäder.
+3\. Bostadsförsörjningen ska främja social sammanhållning.
 
 Del 2: Statistik och underlag
 Denna del består av underlagsmaterial som utgör basen för bostadsförsörjningsplanen. Här
@@ -7582,7 +7582,7 @@ Förvaltningen för Kultur & Fritid föreslår att nämnden för Kultur & Fritid
 november beslutar att:
 •  förvaltningen har som övergripande inriktning att flytta ekonomiska medel från anläggningar
 och byggnader till aktivitetsstöd till föreningar. Subventionsgrader på hyror ska fasas ut till
-2030.
+2030\.
 •  öka LOK-stödet till 10 kr samt räknar upp LOK-stödet till de föreningar som äger och helt
 
 sköter sina egna anläggningar med tre gånger det generella LOK-stödet.
@@ -7603,7 +7603,7 @@ ekonomiskt stöd, indirekt ekonomiskt stöd i form av anläggningar och lokaler 
 exempelvis föreningsutveckling.
 
 Kommunens föreningsstöd har i omgångar setts över och reviderats, nuvarande stöd trädde i kraft
-2022. För att möta framtidens utmaningar behövs en större förändring av föreningsstödet göras för att
+2022\. För att möta framtidens utmaningar behövs en större förändring av föreningsstödet göras för att
 säkerställa att föreningslivet även i framtiden är välfungerande och hållbart. Genom att ha tydliga
 grundprinciper för stöd och en genomtänkt strategi, står kommunen och föreningslivet stärkare i resan
 framåt.
@@ -7959,23 +7959,23 @@ Detta är fiktiva exempel. Utvecklingsstödet är det som beskrivs ovan under Ut
 på ett treårigt verksamhetsåtagande. Summan under Utvecklingsstödet är ett genomsnitt och inte en
 faktisk summa.
 
-+ Ökat LOK stöd från
+\+ Ökat LOK stöd från
 7,5kr till 10kr
-+ LOK stöd x3
-- Driftbidrag
-- Utveckling /
+\+ LOK stöd x3
+\- Driftbidrag
+\- Utveckling /
 Utbildningsbidrag
 
-- Drogpolicy /
+\- Drogpolicy /
 Hälsocertifiering
-- Lovbidrag
-- Folkhälsobidrag
-- Subventioner
-- Höjda taxor
+\- Lovbidrag
+\- Folkhälsobidrag
+\- Subventioner
+\- Höjda taxor
 
 Summa
 
-+ Utvecklingsstöd
+\+ Utvecklingsstöd
 (Genomsnittligt stöd per
 förening utifrån det belopp
 som frigörs från lokaler)
@@ -8079,13 +8079,13 @@ själva klubblokalens yta, utan som verksamhetsyta.
 Förslag på principer klubblokaler
 Grundprincipen är att kommunen inte bygger klubblokaler.
 Förvaltningen kommer utgå från två modeller:
-1. Föreningen hyr klubblokalen för en hyra utan subventioner, enligt ett av dessa tre alternativ.
+1\. Föreningen hyr klubblokalen för en hyra utan subventioner, enligt ett av dessa tre alternativ.
 a. hela klubblokalen
 
 b. tillsammans med en eller flera andra föreningar
 c. begränsat antal kvadratmeter
 
-2. Föreningen äger själv sin klubblokal.
+2\. Föreningen äger själv sin klubblokal.
 
 <!-- sida 212 -->
 
@@ -8209,7 +8209,7 @@ Förslag på principer gällande verksamhetsytor
 Förvaltningen kommer att agera enligt följande principer, utifrån den klassificering som görs av i
 vilken grad de enskilda lokaler/ytor är strategiskt viktiga:
 •  Kommunen stödjer verksamhet i anläggningar i Kategori 1, Strategiskt prioriterad
-verksamhetsyta (minst sju poäng*), genom att stå för skötsel av anläggningen.
+verksamhetsyta (minst sju poäng\*), genom att stå för skötsel av anläggningen.
 
 •  Utpekade strategiskt prioriterade verksamhetsytor är öppna för alla stödberättigade föreningar.
 
@@ -8238,24 +8238,24 @@ samlad bedömning för att planera befintliga och kommande stöd och investering
 framförda behov kategoriseras utifrån hur väl de uppfyller kriterierna, sedan görs en prioritering.
 
 Dessa kriterier ligger till grund för beräkningarna:
-1. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2
+1\. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2
 p.
-2. Anläggningen ligger i direkt anslutning till skola och är tillgänglig för allmänheten för olika
+2\. Anläggningen ligger i direkt anslutning till skola och är tillgänglig för allmänheten för olika
 aktiviteter, möten eller evenemang. Ytan kan användas av många, för såväl organiserade som icke
 
 organiserade ändamål. 2 p.
-3. Anläggningen ligger i område med hög befolkningstäthet, dvs Kungsbacka Stad1, Särö, Onsala
+3\. Anläggningen ligger i område med hög befolkningstäthet, dvs Kungsbacka Stad1, Särö, Onsala
 eller Åsa. 2 p.
-4. Anläggningen uppfyller behov hos underrepresenterade målgrupper identifierade utifrån ålder, kön
+4\. Anläggningen uppfyller behov hos underrepresenterade målgrupper identifierade utifrån ålder, kön
 eller typ av idrott. 2 p.
-5. Anläggningen ligger i ett av de tre strategiska fokusområdena Anneberg, Kungsbacka Stad eller
+5\. Anläggningen ligger i ett av de tre strategiska fokusområdena Anneberg, Kungsbacka Stad eller
 Åsa. 2 p.
 
-6. Anläggningen har god nåbarhet för barn och ungdomar, dvs. de kan på egen hand ta sig till
+6\. Anläggningen har god nåbarhet för barn och ungdomar, dvs. de kan på egen hand ta sig till
 anläggningen 1 p.
-7. Specialanläggning: konstis, friidrottsanläggning, simhall, skejt, parasport. 1 p.
-8. Konstgräs. Omfattande miljökrav i underhåll 5 p.
-9. Begränsad nyttjandekapacitet. Anläggningen kan pga. ljud- eller ljusstörningar inte nyttjas
+7\. Specialanläggning: konstis, friidrottsanläggning, simhall, skejt, parasport. 1 p.
+8\. Konstgräs. Omfattande miljökrav i underhåll 5 p.
+9\. Begränsad nyttjandekapacitet. Anläggningen kan pga. ljud- eller ljusstörningar inte nyttjas
 obegränsat. Det kan även pågå andra aktiviteter som begränsar möjligheterna för nyttjande för
 
 enskilda föreningar. - 2 p.
@@ -8483,7 +8483,7 @@ demokratiskt samhälle. Kungsbacka kommun stödjer det ideella föreningslivet g
 ekonomiskt stöd, indirekt ekonomiskt stöd i form av anläggningar och lokaler samt kompetens inom
 exempelvis föreningsutveckling.
 Kommunens föreningsstöd har i omgångar setts över och reviderats, nuvarande stöd trädde i kraft
-2022. För att möta framtidens utmaningar behövs en större översyn av föreningsstödet göras för att
+2022\. För att möta framtidens utmaningar behövs en större översyn av föreningsstödet göras för att
 säkerställa att föreningslivet även i framtiden är välfungerande och hållbart. Genom att ha tydliga
 grundprinciper för stöd och en genomtänkt strategi, står kommunen och föreningslivet stärkare i resan
 framåt.
@@ -8824,13 +8824,13 @@ själva klubblokalens yta, utan som verksamhetsyta.
 
 Ny strategi för klubblokaler
 Två modeller:
-1. Föreningen hyr klubblokalen för en marknadsmässig hyra, enligt ett av dessa tre alternativ
+1\. Föreningen hyr klubblokalen för en marknadsmässig hyra, enligt ett av dessa tre alternativ
 
 o  hela klubblokalen
 o  tillsammans med en eller flera andra föreningar
 o  begränsat antal kvadratmeter
 
-2. Föreningen äger själv sin klubblokal. För en del föreningar är detta redan fallet.
+2\. Föreningen äger själv sin klubblokal. För en del föreningar är detta redan fallet.
 
 <!-- sida 229 -->
 
@@ -8849,10 +8849,10 @@ produkter eller tjänster.
 
 Uppföljningsrutiner
 
-1. Kommunen utvärderar kontinuerligt hur subventionerna för föreningslokaler används och om
+1\. Kommunen utvärderar kontinuerligt hur subventionerna för föreningslokaler används och om
 stöden ger tillräckligt med samhällsnytta. Om vissa stöd inte uppfyller krav och kriterier kan
 resurserna omfördelas till ändamål som ger större effekt.
-2. Alla hyresförhållanden med föreningar ska omfattas av undertecknade avtal som ska finnas
+2\. Alla hyresförhållanden med föreningar ska omfattas av undertecknade avtal som ska finnas
 med i en uppdaterad samling.
 
 Verksamhetsytor
@@ -8976,7 +8976,7 @@ samlad bedömning för att planera befintliga och kommande stöd och investering
 framförda behov kategoriseras utifrån hur väl de uppfyller kriterierna, sedan görs en prioritering.
 
 Dessa kriterier ligger till grund för beräkningarna:
-1. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2
+1\. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2
 p.
 
 •  Anläggningen ligger nära en skola och är tillgänglig för allmänheten för olika aktiviteter,
@@ -9178,15 +9178,15 @@ Expedierat/bestyrkt
 Stor inomhusförening   Liten inomhusförening
 
 2026       2029        2026
-+ Ökat LOK stöd från 7,5kr till 10kr 150 000 150 000     9 000
-+ LOK stöd x3
-- Driftbidrag
-- Utveckling / Utbildningsbidrag -160 000   -160 000     -6 000
-- Drogpolicy / Hälsocertifiering -40 000     -40 000
-- Lovbidrag
-- Folkhälsobidrag
+\+ Ökat LOK stöd från 7,5kr till 10kr 150 000 150 000     9 000
+\+ LOK stöd x3
+\- Driftbidrag
+\- Utveckling / Utbildningsbidrag -160 000   -160 000     -6 000
+\- Drogpolicy / Hälsocertifiering -40 000     -40 000
+\- Lovbidrag
+\- Folkhälsobidrag
 
-- Subventioner
+\- Subventioner
 
 ```osaker-tabell
 - Höjda taxor                   -100 000    -120 000     -5 800
@@ -9448,12 +9448,12 @@ Analys         av    subventioner                  och      bidrag
 
 -Fotbollsklubbar
 
-*Alla aktiva medlemmar oberoende av sektion har använts för beräkning av hyressubventionen samt anläggnings-och skötselbidraget.
-**Beräkningarna har inte kunnat ta hänsyn till skillnaderna i hyreskostnader för olika storlekar på planer.
+\*Alla aktiva medlemmar oberoende av sektion har använts för beräkning av hyressubventionen samt anläggnings-och skötselbidraget.
+\*\*Beräkningarna har inte kunnat ta hänsyn till skillnaderna i hyreskostnader för olika storlekar på planer.
 
 [Tabell 249-1](handlingar.tabeller/249-1.csv)
 
-|  | Antal aktiva<br>fotbolls-<br>sektionen<br>medlemmar<br>7-20 år 2022 | Antal aktiva<br>alla sektioner<br>7 –20 år* | Hyressubvention per<br>aktiv medlem* | Anläggnings-<br>och<br>skötselbidrag<br>per aktiv<br>medlem<br>7-20 år* | Bokade timmar i<br>snitt per aktiv<br>medlem<br>fotbollssektionen<br>7-20 år 2022 | Planhyra i snitt<br>per aktiv medlem<br>fotbollssektionen<br>7-20 år 2022** | Total planhyra<br>per bokad<br>timme** | Subvention Planhyra per<br>aktiv medlem<br>jmf med B-plan för Övrig<br>förening/privat inom<br>kommunen<br>277 kr/timme** | Totalt bidrag<br>per aktiv<br>medlem |
+|  | Antal aktiva<br>fotbolls-<br>sektionen<br>medlemmar<br>7-20 år 2022 | Antal aktiva<br>alla sektioner<br>7 –20 år\* | Hyressubvention per<br>aktiv medlem\* | Anläggnings-<br>och<br>skötselbidrag<br>per aktiv<br>medlem<br>7-20 år\* | Bokade timmar i<br>snitt per aktiv<br>medlem<br>fotbollssektionen<br>7-20 år 2022 | Planhyra i snitt<br>per aktiv medlem<br>fotbollssektionen<br>7-20 år 2022\*\* | Total planhyra<br>per bokad<br>timme\*\* | Subvention Planhyra per<br>aktiv medlem<br>jmf med B-plan för Övrig<br>förening/privat inom<br>kommunen<br>277 kr/timme\*\* | Totalt bidrag<br>per aktiv<br>medlem |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Frillesås FF | 364 | 609 | Eget klubbhus | 66 kr | 5,1 | 450 kr | 89 kr | 956 kr | 1 022 kr |
 | IFK Fjärås | 471 |  | Eget klubbhus | 0 | 6,1 | 539 kr | 88 kr | 1 155 kr | 1 155 kr |
@@ -10817,7 +10817,7 @@ eller fastställer delegeringsbesluten. Däremot får Nämnden för Kultur & Fri
 delegering eller föregripa ett beslut i ett enskilt ärende av den som fått beslutanderätten genom att själv
 ta över ärendet och fatta beslut.
 
--  KFT 2024-000323 Begäran om yttrande - En översyn av 23 kap. brottsbalken (KS 2024-00656
+\-  KFT 2024-000323 Begäran om yttrande - En översyn av 23 kap. brottsbalken (KS 2024-00656
 
 Beslutsunderlag
 

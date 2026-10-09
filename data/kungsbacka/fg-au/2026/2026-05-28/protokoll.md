@@ -39,9 +39,9 @@ Beslutande Ledamöter
 Emanuel Forsell (M), Ordförande
 
 Jan Eric Knutas (1), 1:e vice ordförande
-Johan Tolinsson (S) $$ 62-68
+Johan Tolinsson (S) \$\$ 62-68
 
-Paul Blomdahl (M) $$ 62-69
+Paul Blomdahl (M) \$\$ 62-69
 Anna-Karin Granberg (SD)
 
 Peter Lundin (C)
@@ -66,32 +66,32 @@ Tjänstgörande ersättare
 
 Tjänstepersoner
 
-Gustav Sjöström, ekonomichef $ 64
-Anna Sörensen, utvecklingsledare $
+Gustav Sjöström, ekonomichef \$ 64
+Anna Sörensen, utvecklingsledare \$
 65
 
-Anna Flinck, utvecklingsledare $ 66
-Pauline Brink, lärare $ 67
+Anna Flinck, utvecklingsledare \$ 66
+Pauline Brink, lärare \$ 67
 
-Frida Byrsten, verksamhetschef $$ 68,
+Frida Byrsten, verksamhetschef \$\$ 68,
 69
 
-Magnus Sandberg, verksamhetschef $
+Magnus Sandberg, verksamhetschef \$
 70
 
-Martina Dahlgren Krona, psykolog $
+Martina Dahlgren Krona, psykolog \$
 70
 
-Tommy Korsell, verksamhetschef $
+Tommy Korsell, verksamhetschef \$
 70
 
-Eva Eriksson, verksamhetschef $ 70
+Eva Eriksson, verksamhetschef \$ 70
 Stigert Pettersson, förvaltningschef
 Lars Sundbom, utvecklare
 
 Övriga
 
-Paragrafer $$ 62-70
+Paragrafer \$\$ 62-70
 
 <!-- sida 2 -->
 
@@ -100,39 +100,39 @@ Förskola & Grundskola arbetsutskott Datum
 2026-05-28
 
 Innehåll
-$62 Dnr FG-2026-00342
+\$62 Dnr FG-2026-00342
 
 Rundvandring på Resursskolan ÄNgen s....sssssrsrsrsrssssrsrsrseserererersr seen e nerna 3
-$63 Dnr FG-2026-00014
+\$63 Dnr FG-2026-00014
 
 Fastställande av dagordning och val av juSterarfe.............sssssssorsssosorerrsssssnne 4
-$ 64 Dnr FG-2026-00291
+\$ 64 Dnr FG-2026-00291
 
 Information om statsbidrag inom Förskola & Grundskola..............ssssesesere- 5
-$65 Dnr FG-2026-00290
+\$65 Dnr FG-2026-00290
 
 Resultat av elev- och vårdnadshavarenkäter grundskola och anpassad
 
 grundskola 2020 o.sssssssssrssssrerrrsereressrrrreserrrreserrressrrrresrrrrrr rr nr ers nn reser rr rr nnrna 6
-$ 66 Dnr FG-2026-00296
+\$ 66 Dnr FG-2026-00296
 
 Utredning av skolorganisering i Fjärås- och Gällingeområdet.................... 7
-$67 Dnr FG-2025-00614
+\$67 Dnr FG-2025-00614
 
 Initiativärende Susanne Andersson (SD). Seniorer som rastvärdar............. 9
-$68 Dnr FG-2026-00285
+\$68 Dnr FG-2026-00285
 
 Ansökan om fullgörande av skolplikten på annat sätt, skollagen 24 kap 23
 
 SIE COM ETS 00) EV a VR 11
-$69 Dnr FG-2026-00015
+\$69 Dnr FG-2026-00015
 
 Pågående Skolinspektions- och Barn och elevombudsärenden, inklusive
 
 ärenden som utreds inom Förskola & Grundskolas klagomålshantering
 
 2020 oeorrrreseeserreererssrreerrresrererrreerrrerr seen n rese rese rer reser ere esse ren r Rs ere nr n ren n ren nen 12
-$ 70 Dnr FG-2026-00016
+\$ 70 Dnr FG-2026-00016
 
 Information - Förskola & Grundskola arbetsutskott och nämnd ............... 13
 
@@ -150,7 +150,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (13)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-28
 
-$ 62 Dnr FG-2026-00342
+\$ 62 Dnr FG-2026-00342
 Rundvandring på Resursskolan Ängen
 
 Beslut
@@ -181,7 +181,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (13)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-28
 
-$ 63 Dnr FG-2026-00014
+\$ 63 Dnr FG-2026-00014
 Fastställande av dagordning och val av justerare
 
 Beslut
@@ -206,7 +206,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (13)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-28
 
-$ 64 Dnr FG-2026-00291
+\$ 64 Dnr FG-2026-00291
 Information om statsbidrag inom Förskola & Grundskola
 
 Förslag till beslut
@@ -261,7 +261,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (13)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-28
 
-$ 65 Dnr FG-2026-00290
+\$ 65 Dnr FG-2026-00290
 
 Resultat av elev- och vårdnadshavarenkäter grundskola och anpassad
 grundskola 2026
@@ -311,7 +311,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (13)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-28
 
-$ 66 Dnr FG-2026-00296
+\$ 66 Dnr FG-2026-00296
 Utredning av skolorganisering i Fjärås- och Gällingeområdet
 
 Förslag till beslut
@@ -390,7 +390,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (13)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-28
 
-$ 67 Dnr FG-2025-00614
+\$ 67 Dnr FG-2025-00614
 Initiativärende Susanne Andersson (SD). Seniorer som rastvärdar
 
 Förslag till beslut
@@ -463,7 +463,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (13)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-28
 
-$ 68 Dnr FG-2026-00285
+\$ 68 Dnr FG-2026-00285
 
 Ansökan om fullgörande av skolplikt på annat sätt, skollagen 24 kap 23
 8 - Kollaskolan
@@ -472,7 +472,7 @@ Beslut
 
 Ansökan om fullgörande av skolplikt på annat sätt för eleverna vid Lilla svenska
 skolan Koh Lanta i Thailand beviljas inte, eftersom det inte bedöms föreligga
-synnerliga skäl enligt 24 kap. 23 $ skollagen.
+synnerliga skäl enligt 24 kap. 23 \$ skollagen.
 
 Sammanfattning av ärendet
 
@@ -480,7 +480,7 @@ Vårdnadshavarna till eleverna har ansökt om att fullgöra skolplikt på annat 
 genom skolgång på Lilla svenska skolan på Koh Lanta i Thailand under perioden 11
 januari till 5 februari 2027. Detta motsvarar 20 skoldagar.
 
-I 24 kap. 23 $ skollagen finns bestämmelser om att fullgöra skolplikt på annat sätt än
+I 24 kap. 23 \$ skollagen finns bestämmelser om att fullgöra skolplikt på annat sätt än
 vad som anges i skollagen. Medgivande ska lämnas om verksamheten framstår som
 ett fullgott alternativ till den utbildning som annars står barnet till buds enligt
 föreskrifter i skollagen, behovet av insyn i verksamheten kan tillgodoses, och det
@@ -489,7 +489,7 @@ finns synnerliga skäl.
 Beslutsunderlag
 
 Tjänsteskrivelse, 2026-05-21. Ansökan om fullgörande av skolplikt på annat sätt,
-skollagen 24 kap 23 $ - Kollaskolan.
+skollagen 24 kap 23 \$ - Kollaskolan.
 
 Beslutsgång
 
@@ -513,7 +513,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (13)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-28
 
-$ 69 Dnr FG-2026-00015
+\$ 69 Dnr FG-2026-00015
 
 Pågående Skolinspektions- och Barn och elevombudsärenden,
 inklusive ärenden som utreds inom Förskola & Grundskolas
@@ -549,7 +549,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (13)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-28
 
-$ 70 Dnr FG-2026-00016
+\$ 70 Dnr FG-2026-00016
 Information - Förskola & Grundskola arbetsutskott och nämnd
 
 Förslag till beslut

@@ -47,8 +47,8 @@ byggnadsnämnden 2011-06-09 § 156, samt upphävande av den del som avser utpeka
 
 Byggnadsnämndens arbetsutskott lämnade den 20 juni 2024 över initiativet till byggnadsnämnden för
 ställningstagande. Förslagsställarna lyfter följande punkter:
-- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att gälla.
-- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för övriga områden.
+\- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att gälla.
+\- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för övriga områden.
 
 Byggnadsnämnden biföll initiativet. Förvaltningen har gjort en bedömning gällande aktualiteten av
 policydokumentet för övriga områden.
@@ -135,10 +135,10 @@ Byggnadsnämndens arbetsutskott lämnade den 20 juni 2024 över initiativet till
 byggnadsnämnden för ställningstagande.
 
 Förslagsställarna lyfter följande punkter:
-- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
+\- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
 gälla.
 
-- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
+\- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
 övriga områden.
 
 Beslutsunderlag
@@ -212,10 +212,10 @@ områden.
 
 2 juni 2024
 
-___________________                 ______________________
+\___________________                 ______________________
 Thure Sandén (M)                    Daniel Hognert (M)
 
-___________________                 ______________________
+\___________________                 ______________________
 Heinrich Kaufmann (C)               Fredrik Kollberg (KD)
 
 1 (2)
@@ -558,7 +558,7 @@ lokalklimatet. Naturens värden i hela kommunen behandlas i Kungsbacka
 översiktsplan 2006 (ÖP 06). En mer ingående beskrivning av stadens
 
 grönstruktur finns i grönstrukturplanen som ingår i förarbetet till FÖP
-09.
+09\.
 
 dE starKastE LandsKaPsELEmEntEn
 Kungsbacka stad är byggd i en lerfylld sprickdal av urberg som går från
@@ -1601,7 +1601,7 @@ personer i staden.
 Det nya resecentrumet vid
 järnvägstationen vann
 kungsbacka arkitekturpris
-2004.
+2004\.
 
 20
 
@@ -1638,7 +1638,7 @@ stadens bebyggelsemönster finns i Bygd att bevara: Förslag till Program
 
 för kulturmiljövård i Kungsbacka kommun från 2001, Karaktärisering av
 Kungsbacka innerstad från 2003 och Karaktärisering av Västra villastaden från
-2005.
+2005\.
 
 De nio stadsbyggnadskaraktärerna är:
 
@@ -2035,7 +2035,7 @@ och vissa delar har bytts ut under årens lopp. Den senaste delen som
 
 bytts ut är ”Gamla Gästis” vid torget, en av den gamla stadskärnans första
 tvåvåningshus, som brann ner 2006 och där en ny byggnad färdigställdes
-2011. Rutnätsplanens gator lades ut för att förstärka olika fondmotiv,
+2011\. Rutnätsplanens gator lades ut för att förstärka olika fondmotiv,
 till exempel Skansen i fonden på Storgatan. Fondmotiven har med åren
 
 förändrats, idag syns till exempel det nya resecentret tydligt i Kyrkoga-
@@ -5038,13 +5038,13 @@ kungsbacka.se; Kommun: Fakta om kommunen:
 Historia: Sjöfart & handel; tillgänglig på: Vision för Kungsbacka (2005); tillgänglig på:
 http://www.kungsbacka.se/sitetemplates/ http://www.kungsbacka.se/sitetemplates/
 
-kbinformationpage____7354.aspx; hämtad kbinformationpage____14214.aspx; hämtad
+kbinformationpage\_\_\_\_7354.aspx; hämtad kbinformationpage\_\_\_\_14214.aspx; hämtad
 2010-10-05; uppdaterad 2006-10-17   2010-10-25; uppdaterad 2009-09-13
 
 kungsbacka.se; Fritid: Idrott, sport & motion: Wikipedia; tillgänglig på: www.wikipedia.se;
 Anläggningar: Friidrott; tillgänglig på: hämtad 2010-11-10
 http://www.kungsbacka.se/sitetemplates/
-kbinformationpage____3756.aspx; hämtad
+kbinformationpage\_\_\_\_3756.aspx; hämtad
 
 2010-10-25; uppdaterad 2010-01-18
 
@@ -6545,7 +6545,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (3)
 Kommunstyrelsen Datum
 2026-05-26
 
-$ 128 Dnr KS-2024-00261
+\$ 128 Dnr KS-2024-00261
 
 Godkännande av projektbeställning samt överlämnande för att upprätta
 detaljplan för bostäder och service inom del av Vallda 20:3 m fl
@@ -6578,7 +6578,7 @@ friliggande småhus, parhus, radhus och flerbostadshus.
 
 och ersätts med:
 
-- Detaljplanen kommer att utreda förutsättningarna för en exploatering av
+\- Detaljplanen kommer att utreda förutsättningarna för en exploatering av
 bostäder, handel och förskola i Vallda. Bostäderna utgör en blandning av
 huvudsakligen friliggande småhus och parhus men även radhus och
 småskaliga flerbostadshus.
@@ -6644,11 +6644,11 @@ Processbeskrivning för exploatörsdriven planprocess i Kungsbacka kommun.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2026-05-12, $ 185
+Kommunstyrelsens arbetsutskott 2026-05-12, \$ 185
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-04-22
 Projektbeställning, 2026-04-22
 
-Kommunstyrelsen 2024-03-19, $ 76
+Kommunstyrelsen 2024-03-19, \$ 76
 
 Översiktskarta
 
@@ -6890,14 +6890,14 @@ följa uppsatt budget.
 
 PROJEKTETS  LEVERANSER
 
-1. Projektbeställning      KS
-2. Projektplan             Forum Samhällsbyggnad
+1\. Projektbeställning      KS
+2\. Projektplan             Forum Samhällsbyggnad
 
-3. Samrådshandlingar       BN
-4. Granskningshandlingar   BN
+3\. Samrådshandlingar       BN
+4\. Granskningshandlingar   BN
 
-5. Avtal (princip-, exploaterings-) KS
-6. Antagandehandlingar     BN
+5\. Avtal (princip-, exploaterings-) KS
+6\. Antagandehandlingar     BN
 
 Detaljplanen upprättas med standardförfarande, därav antas detaljplanen av byggnadsnämnden.
 
@@ -6921,32 +6921,32 @@ planområdet behöver ändras.
 
 Projektet kommer att hantera:
 
-- trafik- och parkeringslösning
-- stråk och kopplingar till målpunkter som skolor, affär och kollektivtrafik.
-- naturvärden och eventuella skyddade arter och biotoper
-- VA och dagvattenhantering inklusive skyfall
-- mängden bostäder och storlek på byggrätt för bostäder
+\- trafik- och parkeringslösning
+\- stråk och kopplingar till målpunkter som skolor, affär och kollektivtrafik.
+\- naturvärden och eventuella skyddade arter och biotoper
+\- VA och dagvattenhantering inklusive skyfall
+\- mängden bostäder och storlek på byggrätt för bostäder
 
-- placering och gestaltning av byggnader, utemiljöer och gator
-- ytor för grönstruktur
+\- placering och gestaltning av byggnader, utemiljöer och gator
+\- ytor för grönstruktur
 
 <!-- sida 122 -->
 
 PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 5 (6)
 
-- sociala aspekter
-- geotekniska förutsättningar
-- arkeologi
+\- sociala aspekter
+\- geotekniska förutsättningar
+\- arkeologi
 
-- markmiljö
-- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
+\- markmiljö
+\- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
 
 Frågor som inte ingår i projektet:
 
-- etappindelning utifrån behov av kommunal service.
-- Åtgärder på Rörmöstvägen och Valldavägen förutom ev vid korsningspunkter.
-- Skyfallshantering i Vallda som inte beror av planområdet.
+\- etappindelning utifrån behov av kommunal service.
+\- Åtgärder på Rörmöstvägen och Valldavägen förutom ev vid korsningspunkter.
+\- Skyfallshantering i Vallda som inte beror av planområdet.
 
 TIDPLAN
 Q4 2024 Uppdragsbeslut BNAU

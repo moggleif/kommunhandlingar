@@ -99,10 +99,10 @@ Avgift för kommunens avfallshantering får enligt 27 kap. 4–6 §§ miljöbalk
 (1998:808) tas ut av kommunen. Avgift ska enligt 4 § betalas enligt den taxa som
 kommunfullmäktige antar.
 
-* I avsnitt 4.7 var avgifterna angivna på fel rad. Detta är nu korrigerat och rätt pris är
+\* I avsnitt 4.7 var avgifterna angivna på fel rad. Detta är nu korrigerat och rätt pris är
 angivet på rätt tjänst.
 
-* Priset för gångavstånd hade avrundats fel i tabell 4.4.4.1 och har nu korrigerats
+\* Priset för gångavstånd hade avrundats fel i tabell 4.4.4.1 och har nu korrigerats
 De ändrade priserna är markerade med gul färg i dokumentet Avfallstaxa 2026.
 
 Beslutsunderlag

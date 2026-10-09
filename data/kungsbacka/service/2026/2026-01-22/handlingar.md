@@ -777,7 +777,7 @@ Investeringsplan            SE    Fastigheter
 
 2027–2036
 
-1.   Behovsbeskrivning
+1\.   Behovsbeskrivning
 
 1.1 Bakgrund
 
@@ -1013,13 +1013,13 @@ Kungsbacka kommun              Styrande dokument               5 (13)
 
 Driftskonsekvenser av engångskaraktär som tillkommer uppgår till totalt 6,5 mkr och
 fördelas enligt nedan:
--  Flytt & avveckling av inredning och utrustning: 0,1 mkr
+\-  Flytt & avveckling av inredning och utrustning: 0,1 mkr
 
--  Rivning: 4,3 mkr
--  Sanering: 0,5 mkr
+\-  Rivning: 4,3 mkr
+\-  Sanering: 0,5 mkr
 
--  Bygglov: 0,1 mkr
--  Restvärde: 1,5 mkr
+\-  Bygglov: 0,1 mkr
+\-  Restvärde: 1,5 mkr
 
 Stadshuset
 Renoveringsbehov vid ombyggnadsprojekt av Stadshuset
@@ -1038,9 +1038,9 @@ lokaler.
 
 Driftskonsekvenser av engångskaraktär som tillkommer uppgår till totalt 1,0 mkr och
 fördelas enligt nedan:
--  Flytt & avveckling av inredning och utrustning: 0,1 mkr
+\-  Flytt & avveckling av inredning och utrustning: 0,1 mkr
 
--  Rivning: 0,9 mkr
+\-  Rivning: 0,9 mkr
 
 Kullaviks förskola
 Förslag om rivning och nybyggnation av förskola
@@ -1081,13 +1081,13 @@ evakueringen kan beaktas på ett ändamålsenligt sätt.
 Driftskonsekvenser av engångskaraktär som tillkommer uppgår till totalt 4,5 mkr och
 fördelas enligt nedan:
 
--  Flytt & avveckling av inredning och utrustning: 0,2 mkr
--  Rivning: 2,1 mkr
+\-  Flytt & avveckling av inredning och utrustning: 0,2 mkr
+\-  Rivning: 2,1 mkr
 
--  Sanering: 0,5 mkr
--  Bygglov: 0,2 mkr
+\-  Sanering: 0,5 mkr
+\-  Bygglov: 0,2 mkr
 
--  Restvärde: 1,5 mkr
+\-  Restvärde: 1,5 mkr
 
 Kungsbacka ishall (Gamla hallen)
 Förslag om rivning och nybyggnation av ishall
@@ -1113,13 +1113,13 @@ isyta, men kan justeras när utredningen är klar.
 Driftskonsekvenser av engångskaraktär som tillkommer uppgår till totalt 11,3 mkr
 och fördelas enligt nedan:
 
--  Flytt & avveckling av inredning och utrustning: 0,2 mkr
--  Rivning: 8,3 mkr
+\-  Flytt & avveckling av inredning och utrustning: 0,2 mkr
+\-  Rivning: 8,3 mkr
 
--  Sanering: 0,5 mkr
--  Bygglov: 0,2 mkr
+\-  Sanering: 0,5 mkr
+\-  Bygglov: 0,2 mkr
 
--  Restvärde: 2,1 mkr
+\-  Restvärde: 2,1 mkr
 
 Kungsbacka kommun              Styrande dokument               7 (13)
 
@@ -1168,13 +1168,13 @@ evakueringen kan beaktas på ett ändamålsenligt sätt.
 Driftskonsekvenser av engångskaraktär som tillkommer uppgår till totalt 26,2 mkr
 och fördelas enligt nedan:
 
--  Flytt & avveckling av inredning och utrustning: 1,6 mkr
+\-  Flytt & avveckling av inredning och utrustning: 1,6 mkr
 
--  Rivning: 10,0 mkr
--  Sanering: 1,0 mkr
+\-  Rivning: 10,0 mkr
+\-  Sanering: 1,0 mkr
 
--  Bygglov: 0,2 mkr
--  Restvärde: 13,4 mkr
+\-  Bygglov: 0,2 mkr
+\-  Restvärde: 13,4 mkr
 
 Kungsbacka kommun              Styrande dokument               8 (13)
 
@@ -1222,15 +1222,15 @@ blir därmed avgörande för framtida investeringar i Onsalaområdet.
 
 En uppskattning av möjliga driftskonsekvenser av engångskaraktär som kan
 tillkomma uppgår till totalt ca 25,7 mkr och fördelas enligt nedan:
--  Flytt & avveckling av inredning och utrustning: 1,6 mkr
+\-  Flytt & avveckling av inredning och utrustning: 1,6 mkr
 
--  Målning 1,7 mkr
--  Rivning: 12,5 mkr
+\-  Målning 1,7 mkr
+\-  Rivning: 12,5 mkr
 
--  Sanering: 3,0 mkr
--  Bygglov: 0,6 mkr
+\-  Sanering: 3,0 mkr
+\-  Bygglov: 0,6 mkr
 
--  Restvärde: 6,3 mkr
+\-  Restvärde: 6,3 mkr
 
 Kungsbacka kommun              Styrande dokument               9 (13)
 
@@ -2328,33 +2328,33 @@ Remiss av rapporten Hantering av onormalt låga anbud som
 inte är seriöst men ade
 
 Remissinstanser
-1. Adda AB
+1\. Adda AB
 
-2. Affärsverket svenska kraftnät
+2\. Affärsverket svenska kraftnät
 
-3. Almega
-4. Arbetsförmedlingen
+3\. Almega
+4\. Arbetsförmedlingen
 
-5. Arbetsmiljöverket
+5\. Arbetsmiljöverket
 
-6. Arvika kommun
-7. Byggföretagen
+6\. Arvika kommun
+7\. Byggföretagen
 
-8. Båstads kommun
-9. Domstolsverket
+8\. Båstads kommun
+9\. Domstolsverket
 
-10. Ekobrottsmyndigheten
+10\. Ekobrottsmyndigheten
 
-11. Fackförbundet Kommunal
-12. Fortifikationsverket
+11\. Fackförbundet Kommunal
+12\. Fortifikationsverket
 
-13. Företagarna
+13\. Företagarna
 
-14. Försvarets materielverk
-15. Försvarsmakten
+14\. Försvarets materielverk
+15\. Försvarsmakten
 
-16. Förvaltningsrätten i Falun
-17. Förvaltningsrätten i Linköping
+16\. Förvaltningsrätten i Falun
+17\. Förvaltningsrätten i Linköping
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Besöksadress: Jakobsgatan 24
@@ -2362,89 +2362,89 @@ Webb: www.regeringen.se     E-post: fi.registrator@regeringskansliet.se
 
 <!-- sida 54 -->
 
-18. Förvaltningsrätten i Stockholm
+18\. Förvaltningsrätten i Stockholm
 
-19. Gnesta kommun
-20. Gotlands kommun
+19\. Gnesta kommun
+20\. Gotlands kommun
 
-21. Göteborgs kommun
-22. Huddinge kommun
+21\. Göteborgs kommun
+22\. Huddinge kommun
 
-23. Hudiksvalls kommun
+23\. Hudiksvalls kommun
 
-24. Hylte kommun
-25. Jokkmokks kommun
+24\. Hylte kommun
+25\. Jokkmokks kommun
 
-26. Kalmar kommun
+26\. Kalmar kommun
 
-27. Kammarkollegiet
-28. Knivsta kommun
+27\. Kammarkollegiet
+28\. Knivsta kommun
 
-29. Kristinehamns kommun
+29\. Kristinehamns kommun
 
-30. Kungsbacka kommun
-31. Luftfartsverket
+30\. Kungsbacka kommun
+31\. Luftfartsverket
 
-32. Mölndals kommun
-33. Nacka kommun
+32\. Mölndals kommun
+33\. Nacka kommun
 
-34. Perstorps kommun
+34\. Perstorps kommun
 
-35. Piteå kommun
-36. Regelrådet
+35\. Piteå kommun
+36\. Regelrådet
 
-37. Region Dalarna
+37\. Region Dalarna
 
-38. Region Kronoberg
-39. Region Stockholm
+38\. Region Kronoberg
+39\. Region Stockholm
 
-40. Region Västerbotten
-41. Region Örebro
+40\. Region Västerbotten
+41\. Region Örebro
 
-42. Sinfra
+42\. Sinfra
 
-43. Smedjebackens kommun
-44. Staffanstorps kommun
+43\. Smedjebackens kommun
+44\. Staffanstorps kommun
 
-45. Stockholms kommun
+45\. Stockholms kommun
 
-46. Svenskt näringsliv
-47. Sveriges advokatsamfund
+46\. Svenskt näringsliv
+47\. Sveriges advokatsamfund
 
 2 (4)
 
 <!-- sida 55 -->
 
-48. Sveriges Allmännytta
+48\. Sveriges Allmännytta
 
-49. Sveriges kommuner och regioner
-50. Sveriges offentliga inköpare
+49\. Sveriges kommuner och regioner
+50\. Sveriges offentliga inköpare
 
-51. Sölvesborgs kommun
-52. Tjörns kommun
+51\. Sölvesborgs kommun
+52\. Tjörns kommun
 
-53. Trafikverket
+53\. Trafikverket
 
-54. Transportarbetareförbundet
-55. Transportföretagen
+54\. Transportarbetareförbundet
+55\. Transportföretagen
 
-56. Upphandlingsmyndigheten
+56\. Upphandlingsmyndigheten
 
-57. Vadstena kommun
-58. Vindelns kommun
+57\. Vadstena kommun
+58\. Vindelns kommun
 
-59. Vänersborgs kommun
+59\. Vänersborgs kommun
 
-60. Västra götalandsregionen
-61. Växjö kommun
+60\. Västra götalandsregionen
+61\. Växjö kommun
 
-62. Åmåls kommun
-63. Ånge kommun
+62\. Åmåls kommun
+63\. Ånge kommun
 
-64. Åre kommun
+64\. Åre kommun
 
-65. Åtvidabergs kommun
-66. Älmhults kommun
+65\. Åtvidabergs kommun
+66\. Älmhults kommun
 
 Remissvaren ska ha kommit in till Finansdepartementet senast den 27
 februari 2026. Svaren bör lämnas per e-post till
@@ -2833,23 +2833,23 @@ ska den upphandlande myndigheten begära anbud förefaller vara onormalt låga. 
 att leverantören förklarar det låga priset anbud förefaller vara onormalt lågt, ska den
 eller kostnaden. En sådan begäran om upphandlande myndigheten begära att
 förklaring kan gälla            leverantören förklarar hur kontraktet kan
-1. om leverantören kan utnyttja särskilt fullgöras trots det låga priset eller kostnaden.
+1\. om leverantören kan utnyttja särskilt fullgöras trots det låga priset eller kostnaden.
 kostnadseffektiva metoder för att fullgöra
 kontraktet,                     Om priset eller kostnaden för ett anbud är mer
 
-2. om leverantören kan utnyttja tekniska än 30 procent lägre än det genomsnittliga priset
+2\. om leverantören kan utnyttja tekniska än 30 procent lägre än det genomsnittliga priset
 lösningar eller ovanligt gynnsamma eller den genomsnittliga kostnaden för samtliga
 förhållanden för att fullgöra kontraktet, anbud i upphandlingen ska den upphandlande
-3. egenarten hos de varor, tjänster eller myndigheten begära att leverantören lämnar en
+3\. egenarten hos de varor, tjänster eller myndigheten begära att leverantören lämnar en
 byggentreprenader som föreslås av leverantören, förklaring enligt första stycket.
-4. hur leverantören avser att fullgöra
+4\. hur leverantören avser att fullgöra
 I begäran ska den upphandlande myndigheten
 kontraktet med avseende på tillämpliga miljö-,
 precisera vilka delar av anbudet som den anser
 social- eller arbetsrättsliga skyldigheter,
 medför att anbudet förefaller vara onormalt lågt.
-5. om leverantören kan få statligt stöd, eller
-6. skyldigheterna som avses i 17 kap. 6 eller
+5\. om leverantören kan få statligt stöd, eller
+6\. skyldigheterna som avses i 17 kap. 6 eller
 7 §.
 Myndigheten ska förkasta anbudet om
 leverantören inte på ett tillfredsställande sätt
@@ -2876,21 +2876,21 @@ leverantören har visat att anbudet är trovärdigt
 och seriöst menat.
 
 Leverantörens förklaring kan avse
-1. om leverantören kan utnyttja särskilt
+1\. om leverantören kan utnyttja särskilt
 
 kostnadseffektiva metoder för att fullgöra
 kontraktet,
-2. om leverantören kan utnyttja tekniska
+2\. om leverantören kan utnyttja tekniska
 lösningar eller ovanligt gynnsamma
 förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller
+3\. egenarten hos de varor, tjänster eller
 byggentreprenader som föreslås av leverantören,
 
-4. hur leverantören avser att fullgöra kontraktet
+4\. hur leverantören avser att fullgöra kontraktet
 med avseende på tillämpliga miljö-, social- eller
 arbetsrättsliga skyldigheter,
-5. om leverantören kan få statligt stöd, eller
-6. skyldigheterna som avses i 17 kap. 6 eller 7 §.
+5\. om leverantören kan få statligt stöd, eller
+6\. skyldigheterna som avses i 17 kap. 6 eller 7 §.
 
 7 b §
 
@@ -2969,9 +2969,9 @@ förklaring av ett anbud som leverantören har
 lämnat enligt 16 kap. 7–8 §§ eller 19 kap. 18 §
 beaktas vid en överprövning enligt 20 kap. 4 §.
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 13
@@ -3000,27 +3000,27 @@ begära att leverantören förklarar det ett anbud förefaller vara onormalt lå
 låga priset eller kostnaden. En sådan ska den upphandlande enheten begära
 
 begäran om förklaring kan gälla att leverantören förklarar hur kontraktet
-1. om leverantören kan utnyttja särskilt kan fullgöras trots det låga priset eller
+1\. om leverantören kan utnyttja särskilt kan fullgöras trots det låga priset eller
 kostnadseffektiva metoder för att fullgöra kostnaden.
 kontraktet,
-2. om leverantören kan utnyttja tekniska Om priset eller kostnaden för ett anbud är
+2\. om leverantören kan utnyttja tekniska Om priset eller kostnaden för ett anbud är
 lösningar eller ovanligt gynnsamma mer än 30 procent lägre än det
 förhållanden för att fullgöra kontraktet, genomsnittliga priset eller den
 
-3. egenarten hos de varor, tjänster eller genomsnittliga kostnaden för samtliga
+3\. egenarten hos de varor, tjänster eller genomsnittliga kostnaden för samtliga
 byggentreprenader som föreslås av anbud i upphandlingen ska den
 leverantören,                upphandlande enheten begära att
-4. hur leverantören avser att fullgöra leverantören lämnar en förklaring enligt
+4\. hur leverantören avser att fullgöra leverantören lämnar en förklaring enligt
 kontraktet med avseende på tillämpliga första stycket.
 miljö-, social- och arbetsrättsliga
 I begäran ska den upphandlande enheten
 skyldigheter,
 precisera vilka delar av anbudet som den
-5. om leverantören kan få statligt stöd,
+5\. om leverantören kan få statligt stöd,
 anser medför att anbudet förefaller vara
 eller
 onormalt lågt.
-6. skyldigheterna som avses i 16 kap. 6
+6\. skyldigheterna som avses i 16 kap. 6
 eller 7 §.
 Enheten ska förkasta anbudet om
 leverantören inte på ett tillfredsställande
@@ -3051,24 +3051,24 @@ trovärdigt och seriöst menat.
 
 Leverantörens förklaring kan avse
 
-1. om leverantören kan utnyttja särskilt
+1\. om leverantören kan utnyttja särskilt
 kostnadseffektiva metoder för att fullgöra
 kontraktet,
-2. om leverantören kan utnyttja tekniska
+2\. om leverantören kan utnyttja tekniska
 lösningar eller ovanligt gynnsamma
 förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller
+3\. egenarten hos de varor, tjänster eller
 
 byggentreprenader som föreslås av
 leverantören,
-4. hur leverantören avser att fullgöra
+4\. hur leverantören avser att fullgöra
 kontraktet med avseende på tillämpliga
 miljö-, social- eller arbetsrättsliga
 skyldigheter,
-5. om leverantören kan få statligt stöd,
+5\. om leverantören kan få statligt stöd,
 
 eller
-6. skyldigheterna som avses i 16 kap.
+6\. skyldigheterna som avses i 16 kap.
 6 eller 7 §.
 
 7 b §
@@ -3154,9 +3154,9 @@ leverantören har lämnat enligt 15 kap.
 7–8 §§ eller 19 kap. 18 § beaktas vid en
 överprövning enligt 20 kap. 4 §.
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 4 Senaste lydelse 2021:1111.
@@ -3190,16 +3190,16 @@ anbudet och inte fått ett    anbudet och inte fått ett
 tillfredsställande svar.     tillfredsställande svar.
 
 En begäran om förklaring kan gälla
-1. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder att fullgöra
+1\. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder att fullgöra
 kontraktet,
-2. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt gynnsamma
+2\. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt gynnsamma
 
 förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
+3\. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
 anbudsgivaren,
-4. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
+4\. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
 arbetsförhållanden som gäller på den ort där kontraktet ska fullgöras, och
-5. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
+5\. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
 
 Den upphandlande myndigheten eller enheten ska ge anbudsgivaren tillfälle att
 yttra sig över myndighetens eller enhetens skäl för att förkasta anbudet med
@@ -3253,9 +3253,9 @@ leverantören har lämnat enligt 13 kap. 3–4
 §§ eller 15 kap. 17 § beaktas vid en
 överprövning enligt 16 kap. 4 §.
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 5 Senaste lydelse 2021:1112.
@@ -3304,7 +3304,7 @@ Vid genomförandet av uppdraget ska Konkurrensverket ha en löpande dialog med
 Upphandlingsmyndigheten.
 
 Denna del av uppdraget ska rapporteras till regeringen senast den 30 september
-2025.
+2025\.
 
 6 Regeringsbeslut III:2 2025-01-16, Uppdrag till Konkurrensverket att motverka kriminalitet och osund konkurrens samt
 förbättra konkurrensen med kvalitet i offentliga upphandlingar, Fi2025/00078.
@@ -3387,18 +3387,18 @@ intervjun är om aktören upphandlar enligt någon av de för uppdraget relevant
 lagarna LOU, LUF eller LUFS. Om aktören upphandlar enligt någon, eller flera, av
 dessa lagar har intervjun som huvudregel avsett följande tre delar.
 
-1. Organisationens uppdrag och den intervjuades roll och erfarenhet. Frågorna i
+1\. Organisationens uppdrag och den intervjuades roll och erfarenhet. Frågorna i
 denna del har ställts för att utreda vilka erfarenheter som ligger till grund för
 svaren i intervjun och att möjliggöra jämförelse av om olika typer av organi-
 sationer och roller har olika uppfattning gällande frågorna.
 
-2. Organisationens praktiska arbete med frågor om onormalt låga anbud.
+2\. Organisationens praktiska arbete med frågor om onormalt låga anbud.
 Frågorna i denna del har ställts bland annat för att få en förståelse för den
 praktiska hanteringen av onormalt låga anbud och att möjliggöra identifiering
 av om det är någon del av hanteringen av onormalt låga anbud där det
 föreligger behov av förtydligande i lag.
 
-3. Organisationens uppfattning om bestämmelserna om förkastande av onormalt
+3\. Organisationens uppfattning om bestämmelserna om förkastande av onormalt
 
 låga anbud. Frågorna i denna del har ställts för att ge deltagarna möjlighet att
 lägga fram egna reflektioner och förslag.
@@ -3476,13 +3476,13 @@ direktiven är likalydande, med undantag för att LOU-direktivet hänvisar till
 upphandlande myndighet och LUF-direktivet till upphandlande enhet. Av artikel
 69 i LOU-direktivet respektive artikel 84 i LUF-direktivet framgår följande.
 
-1. Den upphandlande myndigheten/enheten ska begära att de
+1\. Den upphandlande myndigheten/enheten ska begära att de
 ekonomiska aktörerna lämnar förklaringar om de priser eller
 kostnader som föreslås i anbudet, om anbuden förefaller vara
 onormalt låga i förhållande till byggentreprenaderna, varorna
 eller tjänsterna.
 
-2. De förklaringar som avses i punkt 1 kan särskilt beröra
+2\. De förklaringar som avses i punkt 1 kan särskilt beröra
 
 a) besparingar avseende sättet att tillverka varorna, sättet att
 tillhandahålla tjänsterna eller byggmetoderna,
@@ -3505,7 +3505,7 @@ e) efterlevnad av de skyldigheter som avses i artikel 7115/8816,
 
 f) möjligheten för anbudsgivaren att få statligt stöd.
 
-3. Den upphandlande myndigheten/enheten ska bedöma de
+3\. Den upphandlande myndigheten/enheten ska bedöma de
 uppgifter som lämnats efter att ha hört anbudsgivaren. Den får
 endast förkasta anbudet när de ingivna bevisen inte på ett
 tillfredsställande sätt förklarar de låga priser eller kostnader som
@@ -3517,7 +3517,7 @@ när den har fastställt att anbudet är onormalt lågt på grund av att
 det inte uppfyller de tillämpliga skyldigheter som avses i artikel
 18.217/artikel 36.218.
 
-4. Om en upphandlande myndighet/enhet fastställer att ett anbud är
+4\. Om en upphandlande myndighet/enhet fastställer att ett anbud är
 onormalt lågt på grund av att anbudsgivaren har fått statligt stöd,
 får anbudet förkastas enbart av denna anledning först efter
 samråd med anbudsgivaren och om denne inom en rimlig tidsfrist
@@ -3550,7 +3550,7 @@ arbetsrättsliga bestämmelser som anges i bilaga XIV.”.
 
 <!-- sida 82 -->
 
-5. Medlemsstaterna ska på begäran från andra medlemsstater och
+5\. Medlemsstaterna ska på begäran från andra medlemsstater och
 inom ramen för administrativt samarbete lämna all information
 som de förfogar över, såsom lagar, förordningar, allmänt tillämp-
 liga kollektivavtal eller nationella tekniska standarder, om de
@@ -3649,7 +3649,7 @@ EU:C:2001:640, punkt 73 och dom av den 22 juni 1989, Fratelli Costanzo mot Comun
 EU:C:1989:256, punkt 19.
 30 Se exempelvis HFD 2018 ref. 50.
 31 Dom av den 15 maj 2008 i de förenade målen, SECAP och Santorso, C-147/06 och C-148/06, EU:C:2008:277, punkt
-32.
+32\.
 27
 
 <!-- sida 84 -->
@@ -3789,7 +3789,7 @@ i artikel 107 i EUF-fördraget.
 
 Av artikel 49 i LUFS-direktivet framgår följande.
 
-1. Om det för ett visst kontrakt finns anbud som förefaller vara
+1\. Om det för ett visst kontrakt finns anbud som förefaller vara
 onormalt låga i förhållande till varorna, byggentreprenaden eller
 tjänsterna, ska den upphandlande myndigheten eller enheten
 
@@ -3829,11 +3829,11 @@ tillhandahållandet ska ske,
 
 e) möjligheten för anbudsgivaren att få statligt stöd.
 
-2. Den upphandlande organisationen ska i samråd med anbuds-
+2\. Den upphandlande organisationen ska i samråd med anbuds-
 givaren granska detta innehåll med beaktande av de ingivna
 förklaringarna.
 
-3. Om en upphandlande myndighet eller enhet fastställer att ett
+3\. Om en upphandlande myndighet eller enhet fastställer att ett
 anbud är onormalt lågt på grund av att anbudsgivaren har fått
 statligt stöd, får anbudet förkastas enbart av denna anledning
 först efter samråd med anbudsgivaren och om denne inom den
@@ -3880,21 +3880,21 @@ Om ett anbud förefaller vara onormalt lågt, ska den upphandlande
 [myndigheten/enheten] begära att leverantören förklarar det låga priset
 eller kostnaden. En sådan begäran om förklaring kan gälla
 
-1. om leverantören kan utnyttja särskilt kostnadseffektiva metoder
+1\. om leverantören kan utnyttja särskilt kostnadseffektiva metoder
 för att fullgöra kontraktet,
 
-2. om leverantören kan utnyttja tekniska lösningar eller ovanligt
+2\. om leverantören kan utnyttja tekniska lösningar eller ovanligt
 gynnsamma förhållanden för att fullgöra kontraktet,
 
-3. egenarten hos de varor, tjänster eller byggentreprenader som
+3\. egenarten hos de varor, tjänster eller byggentreprenader som
 föreslås av leverantören,
 
-4. hur leverantören avser att fullgöra kontraktet med avseende på
+4\. hur leverantören avser att fullgöra kontraktet med avseende på
 tillämpliga miljö-, social- eller arbetsrättsliga skyldigheter,
 
-5. om leverantören kan få statligt stöd, eller
+5\. om leverantören kan få statligt stöd, eller
 
-6. skyldigheterna som avses i 17 kap. 6 eller 7 §.
+6\. skyldigheterna som avses i 17 kap. 6 eller 7 §.
 
 [Myndigheten/Enheten] ska förkasta anbudet om leverantören inte på
 ett tillfredsställande sätt har förklarat det låga priset eller kostnaden.
@@ -4037,21 +4037,21 @@ låga anbudet och inte fått ett tillfredsställande svar.
 
 En begäran om förklaring kan gälla
 
-1. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder
+1\. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder
 att fullgöra kontraktet,
 
-2. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt
+2\. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt
 gynnsamma förhållanden för att fullgöra kontraktet,
 
-3. egenarten hos de varor, tjänster eller byggentreprenader som
+3\. egenarten hos de varor, tjänster eller byggentreprenader som
 föreslås av anbudsgivaren,
 
-4. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
+4\. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
 
 arbetsförhållanden som gäller på den ort där kontraktet ska
 fullgöras, och
 
-5. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
+5\. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
 
 Den upphandlande myndigheten eller enheten ska ge anbudsgivaren
 tillfälle att yttra sig över organisationens skäl för att förkasta anbudet
@@ -5614,33 +5614,33 @@ besluta om nya eller ändrade lagar och förordningar.
 Enligt 6 § konsekvensutredningsförordningen ska konsekvensutredningen innehålla
 en redogörelse för:
 
-1. det aktuella problemet och vilken förändring som eftersträvas,
+1\. det aktuella problemet och vilken förändring som eftersträvas,
 
-2. vilka konsekvenser som bedöms uppstå om ingen åtgärd vidtas,
+2\. vilka konsekvenser som bedöms uppstå om ingen åtgärd vidtas,
 
-3. de olika alternativ som finns för att uppnå förändringen och de fördelar
+3\. de olika alternativ som finns för att uppnå förändringen och de fördelar
 respektive nackdelar som bedöms finnas med dessa, och
 
-4. det eller de alternativ som bedöms lämpligast och av vilka skäl.
+4\. det eller de alternativ som bedöms lämpligast och av vilka skäl.
 
 Vidare ska konsekvensutredningen enligt 7 § konsekvensutredningsförordningen
 innehålla en analys av de förslag som lämnas. Analysen ska bestå av:
 
-1. en beskrivning och beräkning av förslagets kostnader och intäkter för staten,
+1\. en beskrivning och beräkning av förslagets kostnader och intäkter för staten,
 
 kommuner, regioner, företag och andra enskilda,
 
-2. en beskrivning och, om möjligt, en beräkning av andra relevanta konsekvenser
+2\. en beskrivning och, om möjligt, en beräkning av andra relevanta konsekvenser
 än sådana som anges i 1,
 
-3. en redogörelse för vilka åtgärder som har vidtagits för att förslaget inte ska
+3\. en redogörelse för vilka åtgärder som har vidtagits för att förslaget inte ska
 medföra mer långtgående kostnader eller begränsningar än vad som bedöms
 vara nödvändigt för att uppnå dess syfte,
 
-4. en bedömning av om särskild hänsyn behöver tas när det gäller tidpunkten för
+4\. en bedömning av om särskild hänsyn behöver tas när det gäller tidpunkten för
 ikraftträdande och om det finns behov av speciella informationsinsatser, och
 
-5. en beskrivning av hur och när konsekvenserna av förslaget kan utvärderas.
+5\. en beskrivning av hur och när konsekvenserna av förslaget kan utvärderas.
 
 Slutligen ska konsekvensutredningen enligt 9 § konsekvensutredningsförordningen
 innehålla en bedömning av om förslaget överensstämmer med eller går utöver de
@@ -6923,18 +6923,18 @@ leverantören. Vid bedömningen av om en förklaring är tillfredsställande ska
 hänsyn tas till om leverantören har visat att anbudet är trovärdigt och seriöst menat.
 
 Leverantörens förklaring kan avse
-1. om leverantören kan utnyttja särskilt kostnadseffektiva metoder för att fullgöra
+1\. om leverantören kan utnyttja särskilt kostnadseffektiva metoder för att fullgöra
 
 kontraktet,
-2. om leverantören kan utnyttja tekniska lösningar eller ovanligt gynnsamma
+2\. om leverantören kan utnyttja tekniska lösningar eller ovanligt gynnsamma
 förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
+3\. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
 leverantören,
-4. hur leverantören avser att fullgöra kontraktet med avseende på tillämpliga miljö-,
+4\. hur leverantören avser att fullgöra kontraktet med avseende på tillämpliga miljö-,
 social- eller arbetsrättsliga skyldigheter,
 
-5. om leverantören kan få statligt stöd, eller
-6. skyldigheterna som avses i 16 kap. 6 eller 7 §.
+5\. om leverantören kan få statligt stöd, eller
+6\. skyldigheterna som avses i 16 kap. 6 eller 7 §.
 
 Paragrafen är ny och reglerar den upphandlande myndighetens skyldighet att
 bedöma anbud som förefaller onormalt låga utifrån de förklaringar som leveran-
@@ -7084,9 +7084,9 @@ förfarandet på ett korrekt sätt.
 
 Ikraftträdande- och övergångsbestämmelser
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 Ikraftträdande- och övergångsbestämmelserna behandlas i avsnitt 8.
@@ -7186,17 +7186,17 @@ leverantören. Vid bedömningen av om en förklaring är tillfredsställande ska
 hänsyn tas till om leverantören har visat att anbudet är trovärdigt och seriöst menat.
 
 Leverantörens förklaring kan avse
-1. om leverantören kan utnyttja särskilt kostnadseffektiva metoder för att fullgöra
+1\. om leverantören kan utnyttja särskilt kostnadseffektiva metoder för att fullgöra
 kontraktet,
-2. om leverantören kan utnyttja tekniska lösningar eller ovanligt gynnsamma
+2\. om leverantören kan utnyttja tekniska lösningar eller ovanligt gynnsamma
 
 förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
+3\. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
 leverantören,
-4. hur leverantören avser att fullgöra kontraktet med avseende på tillämpliga miljö-,
+4\. hur leverantören avser att fullgöra kontraktet med avseende på tillämpliga miljö-,
 social- eller arbetsrättsliga skyldigheter,
-5. om leverantören kan få statligt stöd, eller
-6. skyldigheterna som avses i 16 kap. 6 eller 7 §.
+5\. om leverantören kan få statligt stöd, eller
+6\. skyldigheterna som avses i 16 kap. 6 eller 7 §.
 
 Paragrafen är ny och reglerar den upphandlande enhetens skyldighet att bedöma
 anbud som förefaller onormalt låga utifrån de förklaringar som leverantören har
@@ -7345,9 +7345,9 @@ förfarandet på ett korrekt sätt.
 
 Ikraftträdande- och övergångsbestämmelser
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 103
@@ -7387,16 +7387,16 @@ anbudet och inte fått ett tillfredsställande svar.
 
 En begäran om förklaring kan gälla
 
-1. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder att
+1\. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder att
 fullgöra kontraktet,
-2. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt
+2\. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt
 gynnsamma förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
+3\. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
 anbudsgivaren,
-4. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
+4\. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
 
 arbetsförhållanden som gäller på den ort där kontraktet ska fullgöras, och
-5. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
+5\. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
 
 Den upphandlande myndigheten eller enheten ska ge anbudsgivaren tillfälle
 att yttra sig över myndighetens eller enhetens skäl för att förkasta anbudet
@@ -7482,9 +7482,9 @@ förfarandet på ett korrekt sätt.
 
 Ikraftträdande- och övergångsbestämmelser
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 Ikraftträdande- och övergångsbestämmelserna behandlas i avsnitt 8.
@@ -7746,32 +7746,32 @@ Intervjuguide för de intervjuer Konkurrensverket har hållit med aktörer.
 
 Organisationens uppdrag och den intervjuades roll och erfarenhet
 
-1. På vilket sätt kommer er organisation i kontakt med frågor om onormalt låga
+1\. På vilket sätt kommer er organisation i kontakt med frågor om onormalt låga
 anbud?
 
-1. Exempelvis genom upphandling till den egna organisationen,
+1\. Exempelvis genom upphandling till den egna organisationen,
 upphandling till andra organisationer, rådgivning till andra organisationer
 etc.?
 
-2. Vad är din roll i organisationen?
+2\. Vad är din roll i organisationen?
 
-1. Exempelvis upphandlare, beslutsfattare i upphandlingar, rådgivande i
+1\. Exempelvis upphandlare, beslutsfattare i upphandlingar, rådgivande i
 upphandlingar, expert etc.?
 
 Organisationens praktiska arbete med frågor om onormalt låga anbud
 
-3. Vidtar ni i förberedelsen och utformningen av upphandlingar några åtgärder
+3\. Vidtar ni i förberedelsen och utformningen av upphandlingar några åtgärder
 för att undvika att leverantörer lämnar onormalt låga anbud, möjliggöra
 enklare identifiering av onormalt låga anbud respektive möjliggöra enklare
 
 hantering av situationen att leverantörer som tilldelas kontrakt inte presterar i
 enlighet med anbud/avtal?
 
-1. Exempelvis genomförande av förstudie om marknaden och förhållandena
+1\. Exempelvis genomförande av förstudie om marknaden och förhållandena
 på denna, särskild utformning av upphandlingsunderlag och
 utvärderingsmodell, särskild utformning av avtalsutkast etc.?
 
-4. Hur identifierar ni anbud som förefaller onormalt låga och som förutsätter
+4\. Hur identifierar ni anbud som förefaller onormalt låga och som förutsätter
 
 förklaring från leverantören?
 
@@ -7779,17 +7779,17 @@ förklaring från leverantören?
 
 <!-- sida 169 -->
 
-1. Har ni någon särskild metod/tillvägagångssätt för identifiering av
+1\. Har ni någon särskild metod/tillvägagångssätt för identifiering av
 onormalt låga anbud? Finns det några särskilda omständigheter som
 generellt sett föranleder att ni bedömer att ett anbud är onormalt lågt?
 
-5. Har ni någon gång begärt en förklaring av ett onormalt lågt anbud från en
+5\. Har ni någon gång begärt en förklaring av ett onormalt lågt anbud från en
 leverantör?
 
-6. Hur har ni formulerat er begäran om förklaring/hur formulerar ni generellt sett
+6\. Hur har ni formulerat er begäran om förklaring/hur formulerar ni generellt sett
 en begäran om förklaring? (Frågan förutsätter att svaret på fråga fem är ja.
 
-1. Redogör ni för bedömningen, och de omständigheter och skäl som ligger
+1\. Redogör ni för bedömningen, och de omständigheter och skäl som ligger
 till grund för bedömningen, att anbudet förefaller onormalt lågt?
 Specificerar ni vilken information ni önskar från leverantören eller är
 begäran generell i den bemärkelsen att leverantören endast ombeds att
@@ -7797,48 +7797,48 @@ begäran generell i den bemärkelsen att leverantören endast ombeds att
 redogöra för hur/varför den har lämnat ett lågt anbud? Efterfrågar ni
 underlag från leverantören och i sådana fall vad för underlag?
 
-7. Hur har förklaringen sett ut/hur ser förklaringarna generellt sett ut? Anser ni
+7\. Hur har förklaringen sett ut/hur ser förklaringarna generellt sett ut? Anser ni
 att förklaringarna utgör ett tillräckligt underlag för bedömning av om ett anbud
 ska förkastas eller inte? Händer det att ni efterfrågar komplettering och/eller
 förtydliganden av förklaringen? (Frågan förutsätter att svaret på fråga fem är
 
 ja.)
 
-1. Är förklaringarna korta eller långa? Förklarar leverantörerna endast varför
+1\. Är förklaringarna korta eller långa? Förklarar leverantörerna endast varför
 de vill lämna ett lågt anbud (exempelvis att de önskar komma in på en viss
 marknad) eller visar leverantörerna också att de klarar av att leverera i
 enlighet med anbudet (exempelvis genom hänvisning till ekonomisk
 redovisning etc.)?
 
-8. Hur har ni gjort/hur gör ni generellt sett, efter att ha fått en förklaring av
+8\. Hur har ni gjort/hur gör ni generellt sett, efter att ha fått en förklaring av
 anbudet från leverantören, bedömningen av om anbudet ska förkastas eller
 inte? (Frågan förutsätter att svaret på fråga fem är ja.)
 
-1. Har ni någon särskild metod för bedömning av det onormalt låga
+1\. Har ni någon särskild metod för bedömning av det onormalt låga
 anbudet? Finns det några särskilda omständigheter som generellt sett
 föranleder att ni bedömer att ett anbud ska förkastas? Dokumenterar ni er
 bedömning?
 
-9. Har ni någon gång förkastat ett anbud med stöd i bestämmelserna om
+9\. Har ni någon gång förkastat ett anbud med stöd i bestämmelserna om
 onormalt låga anbud? (Frågan förutsätter att svaret på fråga fem är ja.)
 
-10. Vad och hur kommunicerar ni till leverantören när ni förkastar ett onormalt
+10\. Vad och hur kommunicerar ni till leverantören när ni förkastar ett onormalt
 lågt anbud? (Frågan förutsätter att svaret på fråga fem och nio är ja.)
 
 113
 
 <!-- sida 170 -->
 
-1. Redogör ni för de omständigheter och skäl som ligger till grund för
+1\. Redogör ni för de omständigheter och skäl som ligger till grund för
 beslutet? Bemöter ni leverantörens argument? Kommunicerar ni detta
 skriftligen?
 
-11. Har någon av era upphandlingar blivit föremål för överprövning med
+11\. Har någon av era upphandlingar blivit föremål för överprövning med
 hänvisning till bestämmelserna om onormalt låga anbud? Vad har
 
 överprövningen i sådana fall avsett? Vad har överprövningarna resulterat i?
 
-1. Har det exempelvis handlat om att en leverantör ansöker om
+1\. Har det exempelvis handlat om att en leverantör ansöker om
 överprövning med anledning av att leverantörens anbud har förkastats, att
 en leverantör ansöker om överprövning med anledning av att ni inte har
 begärt förklaring av en annan leverantörs anbud, att en leverantör ansöker
@@ -7846,11 +7846,11 @@ om överprövning med anledning av att ni inte har förkastat en annan
 
 leverantörs anbud etc.?
 
-12. Följer ni upp era avtal för att tillse att leverantörerna presterar i enlighet med
+12\. Följer ni upp era avtal för att tillse att leverantörerna presterar i enlighet med
 avtal? Vidtar ni åtgärder för att förmå leverantörer som inte presterar i enlighet
 med avtal, att prestera i enlighet med avtal?
 
-13. Enligt 19 kap. LOU, 19 kap. LUF respektive LUFS föreligger en skyldighet att
+13\. Enligt 19 kap. LOU, 19 kap. LUF respektive LUFS föreligger en skyldighet att
 begära förklaring från leverantörer som lämnat anbud som förefaller onormalt
 
 låga och en möjlighet att förkasta onormalt låga anbud som leverantören inte
@@ -7862,19 +7862,19 @@ bedömningar?
 
 Organisationens uppfattning om bestämmelserna
 
-14. Upplever ni att det finns en problematik med onormalt låga anbud som inte är
+14\. Upplever ni att det finns en problematik med onormalt låga anbud som inte är
 seriöst menade? Upplever ni problematiken vara större i en viss bransch, vid
 upphandling av något särskilt avtalsföremål, i upphandlingar som är
 utformade på något särskilt sätt etc.?
 
-15. Vad anser ni definiera ett onormalt lågt anbud som inte är seriöst menat? Är
+15\. Vad anser ni definiera ett onormalt lågt anbud som inte är seriöst menat? Är
 det lätt/svårt att särskilja ett onormalt lågt anbud som inte är seriöst menat från
 ett onormalt lågt anbud som är seriöst menat? Varför/varför inte?
 
-16. Tycker ni att bestämmelserna om onormalt låga anbud är ett väl fungerande
+16\. Tycker ni att bestämmelserna om onormalt låga anbud är ett väl fungerande
 verktyg för att förkasta onormalt låga anbud som inte är seriöst menade?
 
-1. Varför? Varför inte? Är bestämmelserna tydliga/otydliga? Är rättsläget
+1\. Varför? Varför inte? Är bestämmelserna tydliga/otydliga? Är rättsläget
 klart/oklart? Finns det praktisk problematik kopplad till bestämmelserna,
 exempelvis avseende identifiering av onormalt låga anbud, begäran om
 förklaring, bedömning av onormalt låga anbud, gränserna för vad man får
@@ -7886,11 +7886,11 @@ förklaring, bedömning av onormalt låga anbud, gränserna för vad man får
 begära in, förkastandet av onormalt låga anbud och eventuell
 överprövningsprocess?
 
-17. Anser ni det vara lätt/svårt att förkasta onormalt låga anbud? Finns det något
+17\. Anser ni det vara lätt/svårt att förkasta onormalt låga anbud? Finns det något
 som ni anser hade underlättat förkastande av onormalt låga anbud som inte är
 seriöst menade?
 
-1. Tydligare lagtext? En skyldighet för leverantören att redan i det
+1\. Tydligare lagtext? En skyldighet för leverantören att redan i det
 kontradiktoriska förfarandet presentera samtlig relevant information och
 samtligt relevant underlag? Lagstadgad tidsfrist för leverantören att
 inkomma med förklaring till den upphandlande myndigheten/enheten?

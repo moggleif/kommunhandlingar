@@ -210,7 +210,7 @@ Skårbyskolan
 
 Förslag till beslut i Nämnden för Tekniks Arbetsutskott:
 
-1. Förvaltningen får i uppdrag att ombilda befintlig passage Göteborgsvägen –
+1\. Förvaltningen får i uppdrag att ombilda befintlig passage Göteborgsvägen –
 Vargagårdsvägen till ett obevakat övergångsställe med cykelöverfart. Eventuella
 ytterligare trafiksäkerhetshöjande åtgärder ska återrapporteras till arbetsutskottet
 innan verkställande.

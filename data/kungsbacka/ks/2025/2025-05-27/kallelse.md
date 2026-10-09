@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 2(8)
 
-3.  Kommunbudget 2026, plan 2024-00717 Förslag till beslut i kommunfullmäktige
+3\.  Kommunbudget 2026, plan 2024-00717 Förslag till beslut i kommunfullmäktige
 2027–2028                      Kommunfullmäktige fastställer Kommunbudget
 2026, plan 2027–2028, daterad 2025-05-16, nedan
 13.30-13.50                    kallad budgetdokumentet.

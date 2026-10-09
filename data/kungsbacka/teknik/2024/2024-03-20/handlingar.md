@@ -157,7 +157,7 @@ Förvaltningen har utrett olika möjliga system för fastighetsnära insamling i
 
 Alternativen som har utretts är:
 
-1) Fyra tvåfackskärl
+1\) Fyra tvåfackskärl
 1 (3)
 Kungsbacka kommun
 434 81 Kungsbacka
@@ -172,13 +172,13 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-2) Tre tvåfackskärl med separat sidolösning för metallförpackningar
+2\) Tre tvåfackskärl med separat sidolösning för metallförpackningar
 
-3) Fyrfackkärl
+3\) Fyrfackkärl
 
-4) Befintliga kärl kompletteras med två tvåfackskärl och separat sidolösning för
+4\) Befintliga kärl kompletteras med två tvåfackskärl och separat sidolösning för
 metallförpackningar
-5) Optisk sortering - befintliga kärl kompletteras med ett tvåfackskärl för glas
+5\) Optisk sortering - befintliga kärl kompletteras med ett tvåfackskärl för glas
 
 Utredning har gjorts med hjälp av en konsultrapport som jämfört de olika systemen utifrån beräknade
 kostnader och körsträckor samt erfarenhet från avfallsbranschen. Rapporten fokuserar främst på vilken
@@ -405,7 +405,7 @@ KUNGSBACKA  KOMMUN
 
 För ett hushåll som har den vanligaste tjänsten med ett kärl för restavfall och ett kärl för matavfall ökar
 årsavgiften med föreslagen taxejustering från 2375 kronor år 2024 till 2660 kronor inklusive moms år
-2025.
+2025\.
 
 Hämtningsintervall för trädgårdsavfall har förlängts.
 Maxtaxor för auktorisationer (bygg- och rivningsavfall, returpapper flerbostadshus och förpackningar
@@ -435,7 +435,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 11 -->
 
-1. Om Kungsbacka    Bredbandsnät
+1\. Om Kungsbacka    Bredbandsnät
 
 Kungsbacka bredbandsnät har genom Nämnden för Teknik sedan oktober 2010 i
 uppdrag av Kommunfullmäktige1 att svara för utbyggnad av kanalisation och
@@ -470,7 +470,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                2 (9)
 
 <!-- sida 12 -->
 
-2. Tjänster
+2\. Tjänster
 
 I Kungsbacka Bredbandsnät är idag en väsentlig del av anslutningarna till nätet
 relaterade till kommunens verksamhet. Det är ofta mycket kritiska anslutningar
@@ -546,7 +546,7 @@ inget annat avtalats.
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
 
-•  Tillgänglighet = 100*(mätperiod-oplanerade avbrott) / mätperiod.
+•  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
 Servicetid: inom den tid vilken felavhjälpning och service sker.
@@ -572,7 +572,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                4 (9)
 
 <!-- sida 14 -->
 
-3.       Avgifter och  taxor
+3\.       Avgifter och  taxor
 
 Samtliga priser är angivna exklusive moms om inget annat anges.
 
@@ -748,7 +748,7 @@ fibersatt område där Kungsbacka bredbandsnät tidigare lagt ner tom kanalisati
 
 som planeras årsvis.
 
-*Priser angivna inklusive moms.
+\*Priser angivna inklusive moms.
 
 3.6      Servicenivåer
 Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
@@ -762,7 +762,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                8 (9)
 
 [Tabell 17-1](handlingar.tabeller/17-1.csv)
 
-| Beskrivning | Engångsavgift* |
+| Beskrivning | Engångsavgift\* |
 | --- | --- |
 | Fiberanslutning till villa vid byggnation av ett område i tätort | 20 000 kr |
 | Fiberanslutning till villa vid byggnation av ett område på landsbygd | 25 000 kr |
@@ -793,15 +793,15 @@ fiberinstallation orsakad av tredje part, arbete i noder, aktivering eller omkop
 Avgiften kan även ligga till grund för riktpris gällande andra åtaganden som kräver
 teknikerinsats. Även restid och inställelsetid debiteras med samma timpris.
 
-* Pris angivet inklusive moms.
+\* Pris angivet inklusive moms.
 
-________________
+\________________
 
 Kungsbacka kommun             Bredbandstaxa 2024                9 (9)
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
 
-| Arbete | Pris * | Förklaring |
+| Arbete | Pris \* | Förklaring |
 | --- | --- | --- |
 | Fibertekniker | 800 kr | Per påbörjad timme. Helgfri vardag kl.08-16 |
 
@@ -1554,14 +1554,14 @@ kommun) möjlighet att stänga av vattenförsörjningen till en fastighet i viss
 Avstängning av vattenförsörjningen
 
 43 § Huvudmannen får stänga av vattenförsörjningen till en fastighet, om
-1. fastighetsägaren har åsidosatt sin skyldighet att betala en avgift eller i övrigt
+1\. fastighetsägaren har åsidosatt sin skyldighet att betala en avgift eller i övrigt
 försummat sina skyldigheter enligt denna lag,
-2. försummelsen är väsentlig,
+2\. försummelsen är väsentlig,
 
-3. avstängningen inte medför olägenhet för människors hälsa,
-4. huvudmannen skriftligen har uppmanat fastighetsägaren att vidta rättelse
+3\. avstängningen inte medför olägenhet för människors hälsa,
+4\. huvudmannen skriftligen har uppmanat fastighetsägaren att vidta rättelse
 och gett fastighetsägaren skälig tid att vidta rättelsen, och
-5. fastighetsägaren trots den uppmaning som avses i 4 inte har vidtagit
+5\. fastighetsägaren trots den uppmaning som avses i 4 inte har vidtagit
 
 rättelse inom den skäliga tiden.
 Kostnaden för en avstängningsåtgärd får påföras fastighetsägaren.
@@ -1654,11 +1654,11 @@ kontinuerliga behov av högre trycknivå för att försörja södra Askim. Tryck
 Kungsbackas behov vid försörjning från Göteborg.
 
 Leveransåtagande
-1. Med ansträngda lägen avses i detta avtal lägen med risk för brist på dricksvatten till följd av
+1\. Med ansträngda lägen avses i detta avtal lägen med risk för brist på dricksvatten till följd av
 (1) brist på råvatten eller (2) akuta driftstörningar avseende kvalitet eller kapacitet i produktion
 eller distribution av dricksvatten.
 
-2. Om riskerna uppstår på grund av planerade avbrott anses det inte vara ett ansträngt läge och då
+2\. Om riskerna uppstår på grund av planerade avbrott anses det inte vara ett ansträngt läge och då
 behövs godkännande på förhand av den levererande parten. Om det ansträngda läget kan
 förhindras genom bevattningsförbud behövs den levererande partens godkännande inför och
 under vattenöverföringen.
@@ -1689,7 +1689,7 @@ tryckstegringsstation vid kommungränsen, se punkt 10, där Göteborg ansvarar.
 Dricksvattensystemet dimensioneras så att det ömsesidiga reservvattenutbytet kan uppgå till
 100 1/s. Utbyggnaden sker stegvis:
 
-1. Iett första skede förstärks ledningsnäten inom respektive kommun så att ett
+1\. Iett första skede förstärks ledningsnäten inom respektive kommun så att ett
 ömsesidigt reservvattenutbyte om cirka 55 1/s möjliggörs. Byggnationen med
 möjligt utbyte upp till 55 1/s ska vara genomförd i sin helhet så att
 driftsättning kan ske senast 2029-12-31.
@@ -1706,7 +1706,7 @@ till dess att åtagandet är uppfyllt.
 
 Drift och underhåll
 
-6. Respektive kommun svarar för drift, underhåll och reparation av sina ledningar med
+6\. Respektive kommun svarar för drift, underhåll och reparation av sina ledningar med
 
 tillhörande anläggningar.
 
@@ -1723,13 +1723,13 @@ för utryckningstillfällena.
 
 <!-- sida 58 -->
 
-10.
+10\.
 
-11.
+11\.
 
-12.
+12\.
 
-13.
+13\.
 
 Vid störningar eller avbrott på anläggningen skall den kommun inom vilken störningen eller
 avbrottet finns snarast rapportera detta till den andra kommunen samt även svara för att
@@ -1754,19 +1754,19 @@ följa rutiner för att undvika stillastående vatten.
 
 Ekonomi
 
-14.
+14\.
 
-15.
+15\.
 
-16.
+16\.
 
-17.
+17\.
 
-18.
+18\.
 
-19.
+19\.
 
-20.
+20\.
 
 För vatten som överförs till endera kommunen i samband med behov av vatten enligt detta
 avtal debiteras enligt självkostnadsprincipen ett pris om 8 kr/m? vid leverans från Göteborg
@@ -1799,14 +1799,14 @@ undantag av anläggningen för tryckstegring från trycknivån i Göteborgs låg
 
 Giltighet
 
-21. Detta avtal träder i kraft när avtalen fastställts av Kretslopp och vattennämnden i Göteborgs
+21\. Detta avtal träder i kraft när avtalen fastställts av Kretslopp och vattennämnden i Göteborgs
 Stad och Nämnden för Teknik i Kungsbacka kommun och gäller tills vidare. Respektive part
 kan påkalla omförhandling och tills den är slutförd gäller detta avtal.
 
-22. Båda parter är öppna för justeringar som gynnar regional samverkan som framkommer i det
+22\. Båda parter är öppna för justeringar som gynnar regional samverkan som framkommer i det
 pågående regionala SVAR-projektet, Stärkt vattenförsörjning i Göteborgsregionen.
 
-23. Tvist angående tolkning och tillämpning av detta avtal skall lösas av allmän domstol om inte
+23\. Tvist angående tolkning och tillämpning av detta avtal skall lösas av allmän domstol om inte
 
 parterna kommer överens om annat.
 
@@ -1872,7 +1872,7 @@ Kretslopp och vattennämnden avseende ömsesidigt utbyte av dricksvatten.
 
 Sammanfattning av ärendet
 Kungsbacka och Göteborgs Stad har ett avtal kring ömsesidig leverans om 100 l/s dricksvatten från
-2030. I det avtalet kommer vi inte med säkerhet kunna hålla punkt 3 om leveranssäkerhet. Eftersom
+2030\. I det avtalet kommer vi inte med säkerhet kunna hålla punkt 3 om leveranssäkerhet. Eftersom
 avtalet innebär stora ekonomiska investeringar för både Göteborg och Kungsbacka för att ömsesidigt
 kunna leverera 100 l/s, vill vi påkalla att omförhandla avtalet enligt punkt 21 i avtalet.
 
@@ -1913,7 +1913,7 @@ KUNGSBACKA  KOMMUN
 Beskrivning av ärendet
 
 Kungsbacka och Göteborgs Stad har ett avtal kring ömsesidig leverans om 100 l/s dricksvatten från
-2030. I det avtalet kommer vi inte med säkerhet kunna hålla punkt 3 om leveranssäkerhet.
+2030\. I det avtalet kommer vi inte med säkerhet kunna hålla punkt 3 om leveranssäkerhet.
 
 Eftersom avtalet innebär stora investeringar för både Göteborg och Kungsbacka för att ömsesidigt
 kunna leverera 100 l/s, vill vi påkalla att omförhandla avtalet enligt punkt 21 i avtalet.
@@ -2003,7 +2003,7 @@ Kungsbacka dnr
 
 Samarbetsavtal   om  ömsesidig  dricksvattentillgång
 
-1. Avtalsparter
+1\. Avtalsparter
 
 Mölndals stad, genom Tekniska nämnden, nedan benämnd Mölndal
 
@@ -2015,7 +2015,7 @@ Kungsbacka kommun, genom nämnden för Teknik, nedan benämnd Kungsbacka
 Organisationsnummer: 212000–1256
 Storgatan 37, 434 32 Kungsbacka
 
-2. Bakgrund, mål och syfte
+2\. Bakgrund, mål och syfte
 
 Parterna i detta avtal är i egenskap av huvudmän för den allmänna VA-anläggningen i
 
@@ -2053,7 +2053,7 @@ dricksvattentillgång. Samarbetet har som mål att ömsesidig dricksvattentillg�
 resurs- och kostnadseffektivt hållbart sätt. Samarbetet styrs uteslutande av överväganden
 som hänger samman med allmänintresset.
 
-3. Investeringar
+3\. Investeringar
 
 De investeringar som behövs för ömsesidig dricksvattentillgång är redan genomförda.
 Vardera parten står för eventuella behov av ytterligare investeringar för att upprätthålla sin
@@ -2064,7 +2064,7 @@ respektive anläggningar. Parterna är överens om att vardera parten står för
 
 för sådan tillkommande investering i den egna anläggningen.
 
-4. Drift och underhåll
+4\. Drift och underhåll
 
 Respektive kommun svarar för drift, underhåll och reparation av de ledningar och
 tryckstegringsstationer med tillhörande anläggningsdelar som finns inom respektive
@@ -2079,7 +2079,7 @@ stationen i Lindome som ingår i anläggningen. På motsvarande sätt svarar Kun
 kommun för tillsyn, drift och underhåll av tryckstegringsstationen i Skårby. Mölndal och
 Kungsbacka tecknar var för sig försäkringar för sina respektive tryckstegringsstationer.
 
-5. Leveransåtaganden
+5\. Leveransåtaganden
 
 Detta avtal reglerar möjlighet för part att från den andra parten vid behov eller önskemål
 få leverans av vatten med maximalt 70 liter per sekund till ett tryck om ca 55 meter
@@ -2111,7 +2111,7 @@ Leverans till och från respektive kommun ska kunna startas av och övervakas i 
 kommuns VA-övervakningssystem. Vid eventuell manuell utryckning för att starta
 vattenförsörjningen debiterar ingendera parten den andre för utryckningstillfällena.
 
-6. Ersättning
+6\. Ersättning
 
 För vatten som överförs från Mölndal till Kungsbacka debiteras avgift beräknad per
 
@@ -2126,12 +2126,12 @@ Kungsbacka rätt att höja avgiften per varje årsskifte. Prishöjning får ske 
 som motsvarar höjning i Kungsbackas VA-taxa. Kungsbacka ska informera Mölndal om
 höjning för innevarande år snarast möjligt efter årsskiftet men senast den 31 mars.
 
-7. Avtalstid
+7\. Avtalstid
 
 Detta avtal träder i kraft när avtalen fastställts av Tekniska nämnden i Mölndals stad och
 Nämnden för Teknik i Kungsbacka kommun och gäller tills vidare.
 
-8. Samverkan och uppföljning
+8\. Samverkan och uppföljning
 
 För samarbetet ska finnas en gemensam samarbetsorganisation i syfte att löpande följa
 upp samarbetet och samverka i gemensamma frågor enligt avtalet. Kontaktpersoner för
@@ -2161,14 +2161,14 @@ ske angående drifterfarenheter, beredskap, vattenkvalitet, ekonomi etc. Protoko
 
 vid mötet.
 
-9. Uppsägningsvillkor
+9\. Uppsägningsvillkor
 
 Respektive part kan påkalla omförhandling och tills den är slutförd gäller detta avtal.
 
 Tills nytt avtal är påskrivet ska vatten levereras enligt detta avtal. Fullständig uppsägning
 av avtalet kan enbart göras om båda parter är överens.
 
-10. Hävning
+10\. Hävning
 
 Part har rätt att häva avtalet:
 
@@ -2182,7 +2182,7 @@ av väsentlig betydelse.
 Skadeståndskrav kan inte riktas mot motparten vid uteblivna vattenleveranser om det inte
 är uppenbart att detta beror på försumlighet.
 
-11. Säkerhetsfrågor
+11\. Säkerhetsfrågor
 
 Parterna är skyldiga att iaktta den sekretess som gäller mellan myndigheterna och
 
@@ -2194,43 +2194,43 @@ offentlighetsprincipen eller meddelarfriheten enligt lag.
 
 <!-- sida 68 -->
 
-12. Överlåtelse av avtal
+12\. Överlåtelse av avtal
 
 Part har inte rätt att överlåta detta avtal, eller rättigheter eller skyldigheter enligt avtalet,
 till annan utan den andra partens skriftliga medgivande.
 
-13. Ändring av avtal
+13\. Ändring av avtal
 
 Ändringar och tillägg till detta avtal ska upprättas skriftligen och undertecknas av båda
 parterna.
 
-14. Tvist
+14\. Tvist
 
 Tvist anseende tolkning eller tillämpning av detta avtal ska i första hand lösas genom
 förhandlingar mellan parterna. Om tvisten inte lösts inom två veckor från påkallandet av
 
 sådana förhandlingar har part rätt att väcka talan vid allmän domstol.
 
-15. Verkan av tidigare avtal
+15\. Verkan av tidigare avtal
 
 I samband med att detta avtal undertecknas upphör ”Avtal om sammankoppling av
 vattenledningsnäten i Mölndals stad och Kungsbacka kommun” (Mölndal: 2014-03-03,
 TEN 946/09; Kungsbacka Handlingsnr 2014:245), att gälla.
 
-_________________
+\_________________
 
 Detta avtal har upprättats i två exemplar, varav parterna har tagit var sitt.
 
-Mölndal 2024- ______        Kungsbacka 2024- ______
+Mölndal 2024- \_\_\_\_\_\_        Kungsbacka 2024- \_\_\_\_\_\_
 
 Mölndals stad               Kungsbacka kommun
 
-________________________________ ________________________________
+\________________________________ ________________________________
 
 Göran Isacsson              Monica Neptun
 Ordförande Tekniska nämnden Ordförande Nämnden för Teknik
 
-________________________________ ________________________________
+\________________________________ ________________________________
 
 Elin Rosenberg Elebring     Ulrika Granfors
 Teknisk chef                Teknisk chef

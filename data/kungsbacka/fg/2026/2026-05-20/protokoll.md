@@ -122,7 +122,7 @@ Nämnden för Förskola & Grundskola Datum
 
 Innehåll
 
-$52 Dnr FG-2026-00231
+\$52 Dnr FG-2026-00231
 Uppföljning och prognos Per aPpril.sssmmssssssssssssrrrrrrrrereserrrrrrrrrerererrrrrrrrrrrn nn 3
 
 Det här dokumentet är digitalt signerat
@@ -137,7 +137,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (3)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-$ 52 Dnr FG-2026-00231
+\$ 52 Dnr FG-2026-00231
 Uppföljning och prognos per april
 
 Beslut

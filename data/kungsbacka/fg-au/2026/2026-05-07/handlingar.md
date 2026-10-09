@@ -41,14 +41,14 @@ Kollaskolan, Gult konferensrum
 
 Ärende Beteckning Förslag
 
-1. | Fastställande av dagordning och | FG-2026-00014 | Digital justering. Johan Tolinsson (S)
+1\. | Fastställande av dagordning och | FG-2026-00014 | Digital justering. Johan Tolinsson (S)
 val av justerare
 
-2. | Förvaltningscentral FG-2026-00017 | Nämnden för Förskola & Grundskola har tagit
+2\. | Förvaltningscentral FG-2026-00017 | Nämnden för Förskola & Grundskola har tagit
 samverkansprotokoll 2026 del av informationen och antecknar
 informationen i protokollet.
 
-3. | Resultat vårdnadshavareenkät |FG-2026-00182 | Nämnden för Förskola & Grundskola har tagit
+3\. | Resultat vårdnadshavareenkät |FG-2026-00182 | Nämnden för Förskola & Grundskola har tagit
 förskola 2026 del av informationen och antecknar
 informationen i protokollet.
 
@@ -57,7 +57,7 @@ K1 08:35-09:10
 Karin Steneros Einvall,
 utvecklingsledare
 
-4. | Uppföljning och prognos per FG-2026-00231 | Nämnden för Förskola & Grundskola godkänner
+4\. | Uppföljning och prognos per FG-2026-00231 | Nämnden för Förskola & Grundskola godkänner
 april uppföljningen per april.
 
 K1 09:10-09:35
@@ -161,11 +161,11 @@ informationen i protokollet.
 
 KUNGSBACKA KOMMUN
 
-34)
+34\)
 
 Ärende Beteckning Förslag
 
-8. | Revidering av regler för FG-2026-00260 | Nämnden för Förskola och Grundskola antar
+8\. | Revidering av regler för FG-2026-00260 | Nämnden för Förskola och Grundskola antar
 
 skolskjuts reviderade Regler för skolskjuts för inom
 Förskola & Grundskola, 2026-04-24.
@@ -174,7 +174,7 @@ Kl 12:20-12:40
 
 Frida Byrsten, verksamhetschef
 
-8. | Tillsyn Särö Skola 6-9 - FG-2025-00723 | Arbetsutskottet antar dokumentet
+8\. | Tillsyn Särö Skola 6-9 - FG-2025-00723 | Arbetsutskottet antar dokumentet
 Skolinspektionen Dnr: STI- ”Huvudmannens redovisning av vidtagna
 2025:10268 åtgärder till Skolinspektionen Särö 6-9, SI
 
@@ -182,21 +182,21 @@ Skolinspektionen Dnr: STI- ”Huvudmannens redovisning av vidtagna
 Kl 12:40-12:55 till Skolinspektionen.
 Frida Byrsten, verksamhetschef
 
-9. | Ansökan från Särö pastorat FG-2026-00130 | Nämnden för Förskola & Grundskola godkänner
+9\. | Ansökan från Särö pastorat FG-2026-00130 | Nämnden för Förskola & Grundskola godkänner
 gällande permanent utökning av ansökan från Särö pastorat gällande ansökan om
 barnantal på förskolan utökning på förskolan Prästkragen, Östra
 Prästkragen Särövägen 339, 429 44 Särö om permanent
 
 utökning till totalt 20 barn.
 
-10. | Ansökan från FG-2026-00232 | Nämnden för Förskola & Grundskola godkänner
+10\. | Ansökan från FG-2026-00232 | Nämnden för Förskola & Grundskola godkänner
 Förskolekooperativet ansökan från Förskolekooperativet Myrstacken i
 Myrstacken i Åsa Ekonomisk Åsa Ekonomisk förening gällande ansökan om
 förening gällande permanent utökning på förskolan Myrstacken, Kumlabacken
 utökning av barnantal på 9, 439 53 Åsa om permanent utökning till totalt
 förskolan Myrstacken 22 barn.
 
-11. | Pågående Skolinspektions- och |FG-2026-00015 | Arbetsutskottet har tagit del av informationen
+11\. | Pågående Skolinspektions- och |FG-2026-00015 | Arbetsutskottet har tagit del av informationen
 
 Barn och elevombudsärenden,
 inklusive ärenden som utreds
@@ -222,7 +222,7 @@ Beteckning
 
 Förslag
 
-12.
+12\.
 
 Information - Förskola &
 Grundskola arbetsutskott och
@@ -284,15 +284,15 @@ Plats och tid: Vägmästare Nissan, 2026 02-18 kl. 10:00 — 12:00
 
 Verksamhetssamverkan — Verksamhetschef informerar om förskola
 
-- Bedömning samtal pågår i hela verksamheten
+\- Bedömning samtal pågår i hela verksamheten
 
-- Sommaromsorgen har påbörjats, med fokus på fem områden enigt följande: Uppdatering kommer
+\- Sommaromsorgen har påbörjats, med fokus på fem områden enigt följande: Uppdatering kommer
 under våren.
 
-- Har fått förfrågan om vi kan ha fritidshem för Engelska skolan under v 29, dialog pågår. Det innebär
+\- Har fått förfrågan om vi kan ha fritidshem för Engelska skolan under v 29, dialog pågår. Det innebär
 att de lånar våra lokaler och bedriver verksamhet med sin personal.
 
-- Uppföljning av arbetet med rast och paus, rektorer har lagt strategier för att följa upp arbetet. (APT,
+\- Uppföljning av arbetet med rast och paus, rektorer har lagt strategier för att följa upp arbetet. (APT,
 medarbetarsamtal, LSG, andra forum för dialog)
 
 1 (6
@@ -311,10 +311,10 @@ www.kungsbacka.se
 KUNGSBACKA KOMMUN
 2 (6)
 
-- Inspektion från Arbetsmiljöverket enhetsnivå, ca 5090 uppskattningsvis, en del av dessa har fått
+\- Inspektion från Arbetsmiljöverket enhetsnivå, ca 5090 uppskattningsvis, en del av dessa har fått
 återkoppling att bli bättre på systematiken kring hot o våld, anpassningar och även andra lokala behov
 
-- Sveriges lärare och kommunal påtalar att de gärna ser att arbetsgivaren inbjuder till samverkan till de
+\- Sveriges lärare och kommunal påtalar att de gärna ser att arbetsgivaren inbjuder till samverkan till de
 enheter där det inte finns något lokalt ombud
 
 Beslut: Informationen antecknas.
@@ -328,17 +328,17 @@ Protokoll justerat och signerat.
 
 Arbetsgivaren redovisar ärenden från arbetsutskott.
 
-- Lokalresursplan, att se över våra lokaler i Onsala, underlag inför beslut sannolikt i oktober. Syftet är
+\- Lokalresursplan, att se över våra lokaler i Onsala, underlag inför beslut sannolikt i oktober. Syftet är
 att vi ska få en ekonomisk hållbarhet.
 
-- Internkontroll gällande arbete med kränkningar enligt skollag, åtgärdsprogram — Kommer följas upp
+\- Internkontroll gällande arbete med kränkningar enligt skollag, åtgärdsprogram — Kommer följas upp
 av huvudman, man kan se brister i rutiner och behöver säkerställa att hela förvaltningen följer
 lagstiftning.
 
-- Skolinspektionen — Ärende har gått från AU till nämnd
+\- Skolinspektionen — Ärende har gått från AU till nämnd
 o Skolinspektion — Smedingeskolan
 o Skolinspektion — Föreläggande på Särö skola
-- Årsredovisning — Mål och direktiv, HR, Ekonomi
+\- Årsredovisning — Mål och direktiv, HR, Ekonomi
 Synpunkter från Sveriges lärare är bifogat till nämnd och protokollet. (Bilaga 1)
 Information förvaltningscentral organisation
 
@@ -354,10 +354,10 @@ arbetsrelaterade frågor.
 KUNGSBACKA KOMMUN
 3 (6)
 
-- Föredragande, God och nära vård — Projekt på 2 år. Riktade insatser för att hitta nya arbetssätt,
+\- Föredragande, God och nära vård — Projekt på 2 år. Riktade insatser för att hitta nya arbetssätt,
 samarbete mellan vård och skola i kommunen.
 
-- Portföljstyrning, Mål och direktiv — Beslut om att förlänga nästkommande FSG, 11 mars kl. 8.00 -
+\- Portföljstyrning, Mål och direktiv — Beslut om att förlänga nästkommande FSG, 11 mars kl. 8.00 -
 Ny kallelse kommer.
 
 Arbetstagarorganisation
@@ -381,19 +381,19 @@ Sveriges Lärare föreslog att ajournerad dialog om samverkan lyfts ur ordinarie
 separat möte.
 
 Verksamhetssamverkan — Verksamhetschef informerar om skola
-- Fortsatt arbete kring skyddstopp med skolrektorer
+\- Fortsatt arbete kring skyddstopp med skolrektorer
 
-- Bedömningssamtal klara
+\- Bedömningssamtal klara
 
-- Kvalitetsgranskning Skolinspektion — Särö skola åk 6—9
+\- Kvalitetsgranskning Skolinspektion — Särö skola åk 6—9
 
-- Återkoppling från SSG — Resursskola
+\- Återkoppling från SSG — Resursskola
 
-- Flytt av Kollaskolan 7-9 till Varlaskolan — samverkan pågår på lokal nivå
+\- Flytt av Kollaskolan 7-9 till Varlaskolan — samverkan pågår på lokal nivå
 
-- Tjänsteplaneringsprocessen
+\- Tjänsteplaneringsprocessen
 
-- Information om ny närvarorutin — Arbete pågår kring närvarorutin för att öka elevers närvaro
+\- Information om ny närvarorutin — Arbete pågår kring närvarorutin för att öka elevers närvaro
 
 <!-- sida 8 -->
 
@@ -642,15 +642,15 @@ Plats och tid: Vägmästare Nissan, 2026 02-18 kl. 10:00 — 12:00
 
 Verksamhetssamverkan — Verksamhetschef informerar om förskola
 
-- Bedömning samtal pågår i hela verksamheten
+\- Bedömning samtal pågår i hela verksamheten
 
-- Sommaromsorgen har påbörjats, med fokus på fem områden enigt följande: Uppdatering kommer
+\- Sommaromsorgen har påbörjats, med fokus på fem områden enigt följande: Uppdatering kommer
 under våren.
 
-- Har fått förfrågan om vi kan ha fritidshem för Engelska skolan under v 29, dialog pågår. Det innebär
+\- Har fått förfrågan om vi kan ha fritidshem för Engelska skolan under v 29, dialog pågår. Det innebär
 att de lånar våra lokaler och bedriver verksamhet med sin personal.
 
-- Uppföljning av arbetet med rast och paus, rektorer har lagt strategier för att följa upp arbetet. (APT,
+\- Uppföljning av arbetet med rast och paus, rektorer har lagt strategier för att följa upp arbetet. (APT,
 medarbetarsamtal, LSG, andra forum för dialog)
 
 1 (6
@@ -669,10 +669,10 @@ www.kungsbacka.se
 KUNGSBACKA KOMMUN
 2 (6)
 
-- Inspektion från Arbetsmiljöverket enhetsnivå, ca 5090 uppskattningsvis, en del av dessa har fått
+\- Inspektion från Arbetsmiljöverket enhetsnivå, ca 5090 uppskattningsvis, en del av dessa har fått
 återkoppling att bli bättre på systematiken kring hot o våld, anpassningar och även andra lokala behov
 
-- Sveriges lärare och kommunal påtalar att de gärna ser att arbetsgivaren inbjuder till samverkan till de
+\- Sveriges lärare och kommunal påtalar att de gärna ser att arbetsgivaren inbjuder till samverkan till de
 enheter där det inte finns något lokalt ombud
 
 Beslut: Informationen antecknas.
@@ -686,17 +686,17 @@ Protokoll justerat och signerat.
 
 Arbetsgivaren redovisar ärenden från arbetsutskott.
 
-- Lokalresursplan, att se över våra lokaler i Onsala, underlag inför beslut sannolikt i oktober. Syftet är
+\- Lokalresursplan, att se över våra lokaler i Onsala, underlag inför beslut sannolikt i oktober. Syftet är
 att vi ska få en ekonomisk hållbarhet.
 
-- Internkontroll gällande arbete med kränkningar enligt skollag, åtgärdsprogram — Kommer följas upp
+\- Internkontroll gällande arbete med kränkningar enligt skollag, åtgärdsprogram — Kommer följas upp
 av huvudman, man kan se brister i rutiner och behöver säkerställa att hela förvaltningen följer
 lagstiftning.
 
-- Skolinspektionen — Ärende har gått från AU till nämnd
+\- Skolinspektionen — Ärende har gått från AU till nämnd
 o Skolinspektion — Smedingeskolan
 o Skolinspektion — Föreläggande på Särö skola
-- Årsredovisning — Mål och direktiv, HR, Ekonomi
+\- Årsredovisning — Mål och direktiv, HR, Ekonomi
 Synpunkter från Sveriges lärare är bifogat till nämnd och protokollet. (Bilaga 1)
 Information förvaltningscentral organisation
 
@@ -712,10 +712,10 @@ arbetsrelaterade frågor.
 KUNGSBACKA KOMMUN
 3 (6)
 
-- Föredragande, God och nära vård — Projekt på 2 år. Riktade insatser för att hitta nya arbetssätt,
+\- Föredragande, God och nära vård — Projekt på 2 år. Riktade insatser för att hitta nya arbetssätt,
 samarbete mellan vård och skola i kommunen.
 
-- Portföljstyrning, Mål och direktiv — Beslut om att förlänga nästkommande FSG, 11 mars kl. 8.00 -
+\- Portföljstyrning, Mål och direktiv — Beslut om att förlänga nästkommande FSG, 11 mars kl. 8.00 -
 Ny kallelse kommer.
 
 Arbetstagarorganisation
@@ -739,19 +739,19 @@ Sveriges Lärare föreslog att ajournerad dialog om samverkan lyfts ur ordinarie
 separat möte.
 
 Verksamhetssamverkan — Verksamhetschef informerar om skola
-- Fortsatt arbete kring skyddstopp med skolrektorer
+\- Fortsatt arbete kring skyddstopp med skolrektorer
 
-- Bedömningssamtal klara
+\- Bedömningssamtal klara
 
-- Kvalitetsgranskning Skolinspektion — Särö skola åk 6—9
+\- Kvalitetsgranskning Skolinspektion — Särö skola åk 6—9
 
-- Återkoppling från SSG — Resursskola
+\- Återkoppling från SSG — Resursskola
 
-- Flytt av Kollaskolan 7-9 till Varlaskolan — samverkan pågår på lokal nivå
+\- Flytt av Kollaskolan 7-9 till Varlaskolan — samverkan pågår på lokal nivå
 
-- Tjänsteplaneringsprocessen
+\- Tjänsteplaneringsprocessen
 
-- Information om ny närvarorutin — Arbete pågår kring närvarorutin för att öka elevers närvaro
+\- Information om ny närvarorutin — Arbete pågår kring närvarorutin för att öka elevers närvaro
 
 <!-- sida 15 -->
 
@@ -1079,11 +1079,11 @@ nästa års enkät samt arbeta vidare med resultatet att det finns områden i en
 vårdnadshavare svarat vet ej.
 
 Bilagor och beslutsunderlag
-1. FG Utveckling & Kvalitets tjänsteskrivelse, 2026-04-21
+1\. FG Utveckling & Kvalitets tjänsteskrivelse, 2026-04-21
 
-2. Sammanställning vårdnadshavare enkät förskola 2026
+2\. Sammanställning vårdnadshavare enkät förskola 2026
 
-3. Uppskalning vårdnadshavare enkät förskola 2026
+3\. Uppskalning vårdnadshavare enkät förskola 2026
 
 Stigert Pettersson
 
@@ -1154,7 +1154,7 @@ www.kungsbacka.se
 <!-- sida 22 -->
 
 KUNGSBACKA KOMMUN
-202)
+202\)
 
 ökats på så vis att fördelningen innebär att varannan lektion kan bedrivas i halvklass, vidare har
 fortbildningsinsatser initierats och nytt gemensamt material för utveckla undervisningen
@@ -1220,7 +1220,7 @@ Kungsbacka kommun » Telefon 0300-83 40 00 » infoQkungsbacka.se »« kungsbacka
 
 Kungsbacka
 
-16)
+16\)
 2026-04-29
 
 <!-- sida 24 -->
@@ -1523,7 +1523,7 @@ Kungsbacka kommun | 0300-83 40 00 | infoQkungsbacka.se | www.kungsbacka.se
 
 <!-- sida 32 -->
 
-1. Inledning
+1\. Inledning
 
 Denna rapport redovisar Förskola & Grundskolas arbete med dataskydd och informationssäkerhet
 under 2025. Rapporten lämnas till nämnden som en del av den samlade uppföljningen av
@@ -1532,7 +1532,7 @@ personuppgifter i stor omfattning och nämnden ansvarar för att arbetet bedrivs
 systematiskt och med tillräcklig kontroll. Rapporten syftar också till att ge nämnden ett underlag för
 att bedöma hur arbetet har utvecklats under året och vilka områden som fortsatt behöver stärkas.
 
-2. Förskola & Grundskolas arbete med efterlevnad av
+2\. Förskola & Grundskolas arbete med efterlevnad av
 dataskydd och informationssäkerhet
 
 I detta avsnitt redovisas förvaltningens arbete med efterlevnad av dataskydd och
@@ -1830,7 +1830,7 @@ Utdrag ur delegeringsförteckning med förändring markerad.
 
 Beslutet skickas till
 
-12)
+12\)
 
 FG Myndighet & Stöd Kungsbacka kommun
 Frida Byrsten 434 81 Kungsbacka
@@ -1844,7 +1844,7 @@ www.kungsbacka.se
 <!-- sida 38 -->
 
 KUNGSBACKA KOMMUN
-202)
+202\)
 
 Stigert Pettersson Frida Byrsten
 Förvaltningschef Verksamhetschef Myndighet & Stöd
@@ -1905,7 +1905,7 @@ Handläggningen av dess ärenden utgår från riktlinjen.
 Skolval enligt skollagen (2010:800)
 
 Tillämpliga bestämmelser
-9 Kap. 15 $ Skollagen (2010:800) gällande förskoleklass
+9 Kap. 15 \$ Skollagen (2010:800) gällande förskoleklass
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -1915,7 +1915,7 @@ Kommunen får annars frångå elevens vårdnadshavares önskemål endast om den
 önskade placeringen skulle medföra att betydande organisatoriska eller ekonomiska
 svårigheter uppstår för kommunen.
 
-10 Kap. 30 $ Skollagen (2010:800) gällande grundskola
+10 Kap. 30 \$ Skollagen (2010:800) gällande grundskola
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -1925,10 +1925,10 @@ inom sin grundskola.
 
 Kommunen får annars frångå elevens vårdnadshavares önskemål endast om
 
-1. den önskade placeringen skulle medföra betydande organisatoriska eller
+1\. den önskade placeringen skulle medföra betydande organisatoriska eller
 ekonomiska svårigheter för kommunen, eller
 
-2. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
+2\. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
 Beslut enligt andra stycket 2 gäller omedelbart, om inte annat beslutas.
 
 Huvudregeln är att vårdnadshavarens skolval ska styra placeringen av en elev på
@@ -2127,10 +2127,10 @@ Om det är fler sökande än det finns platser på den önskade skolan, efter at
 placerats utifrån upptagningsområde (närhetsprincipen), gäller följande
 urvalskriterier:
 
-1. Relativ närhet inom upptagningsområdet
-2. Relativ närhet utanför upptagningsområdet
+1\. Relativ närhet inom upptagningsområdet
+2\. Relativ närhet utanför upptagningsområdet
 
-3. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
+3\. Eleven har äldre syskon på aktuell skola i årskurs F-3 kommande läsår
 (syskonförtur)
 
 Kungsbacka kommun Styrande dokument 8 (11)
@@ -2139,7 +2139,7 @@ Kungsbacka kommun Styrande dokument 8 (11)
 
 Förslag med förändringar utmärkta.
 
-4. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
+4\. När två elever har samma relativa och syskonförtur inte kan avgöra rätt till
 plats till en skola, ska det lottas mellan dessa elever.
 
 Kriterierna gäller inte för val till profilklasser som har olika färdighetsprov
@@ -2536,7 +2536,7 @@ www.kungsbacka.se
 <!-- sida 56 -->
 
 KUNGSBACKA KOMMUN
-20)
+20\)
 
 Elever med funktionsnedsättning kan beviljas stödinsatser via individ- och familjeomsorgen enligt
 lagen om stöd och service till vissa funktionshindrade (LSS) eller socialtjänstlagen. Insatserna kan
@@ -2658,7 +2658,7 @@ som gäller längre tid kan fattas.
 
 Rätt till skolskjuts
 
-Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8$15b-15d, 10 kap.
+Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8\$15b-15d, 10 kap.
 8 32-33, 11 kap. 831-32).
 
 Vårdnadshavare kan välja vilken skola deras barn ska gå på. Enligt skollagen
@@ -2673,14 +2673,14 @@ skola eller skola i annan kommun”.
 Bedömningen om elevens rätt till skolskjuts ska enligt skollagen baseras på något
 av följande:
 
-1. Färdvägens längd
-2. Trafikförhållandena
-3. Funktionsnedsättning
+1\. Färdvägens längd
+2\. Trafikförhållandena
+3\. Funktionsnedsättning
 4
 
 . Annan särskild omständighet
 
-1. Färdvägens längd
+1\. Färdvägens längd
 
 Vilket avstånd som ger rätt till skolskjuts bestäms av varje enskild kommun. Inom
 Kungsbacka kommun gäller följande generella avståndsgränser:
@@ -2717,7 +2717,7 @@ e Kommunen får anvisa alla vägar där allemansrätten råder.
 
 e Mätning sker enligt samma metod för alla inkomna ansökningar.
 
-2. Trafikförhållanden
+2\. Trafikförhållanden
 
 Vid bedömningen av vad som är en trafiksäker färdväg utgår alltid bedömningen
 utifrån vad som är en trafiksäker väg för en gångtrafikant. Vårdnadshavaransvaret
@@ -2741,7 +2741,7 @@ I det fall en elev genom dom i förvaltningsdomstol har beviljats rätt till
 vinterskolskjuts kommer eleven att erhålla skolskjuts under hela läsåret i de fall detta
 omfattar skjuts med buss.
 
-3. Funktionsnedsättning
+3\. Funktionsnedsättning
 
 Vissa elever med funktionsnedsättning har rätt till Skolskjuts även om färdvägens längd
 och trafikförhållanden inte medger skolskjuts. Vid ansökan om skolskjuts på grund av
@@ -3172,7 +3172,7 @@ som gäller längre tid kan fattas.
 
 Rätt till skolskjuts
 
-Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8$15b-15d, 10 kap.
+Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8\$15b-15d, 10 kap.
 8 32-33, 11 kap. 831-32).
 
 Vårdnadshavare kan välja vilken skola deras barn ska gå på. Enligt skollagen
@@ -3187,14 +3187,14 @@ skola eller skola i annan kommun”.
 Bedömningen om elevens rätt till skolskjuts ska enligt skollagen baseras på något
 av följande:
 
-1. Färdvägens längd
-2. Trafikförhållandena
-3. Funktionsnedsättning
+1\. Färdvägens längd
+2\. Trafikförhållandena
+3\. Funktionsnedsättning
 4
 
 . Annan särskild omständighet
 
-1. Färdvägens längd
+1\. Färdvägens längd
 
 Vilket avstånd som ger rätt till skolskjuts bestäms av varje enskild kommun. Inom
 Kungsbacka kommun gäller följande generella avståndsgränser:
@@ -3231,7 +3231,7 @@ e Kommunen får anvisa alla vägar där allemansrätten råder.
 
 e Mätning sker enligt samma metod för alla inkomna ansökningar.
 
-2. Trafikförhållanden
+2\. Trafikförhållanden
 
 Vid bedömningen av vad som är en trafiksäker färdväg utgår alltid bedömningen
 utifrån vad som är en trafiksäker väg för en gångtrafikant. Vårdnadshavaransvaret
@@ -3255,7 +3255,7 @@ I det fall en elev genom dom i förvaltningsdomstol har beviljats rätt till
 vinterskolskjuts kommer eleven att erhålla skolskjuts under hela läsåret i de fall detta
 omfattar skjuts med buss.
 
-3. Funktionsnedsättning
+3\. Funktionsnedsättning
 
 Vissa elever med funktionsnedsättning har rätt till skolskjuts även om färdvägens längd
 och trafikförhållanden inte medger skolskjuts. Vid ansökan om skolskjuts på grund av
@@ -3686,7 +3686,7 @@ www.kungsbacka.se
 <!-- sida 79 -->
 
 KUNGSBACKA KOMMUN
-22)
+22\)
 
 Beslutet skickas till
 
@@ -3757,21 +3757,21 @@ SKOLINSPEKTIONEN Sida 2 (13)
 
 Brist: Anmälan om kränkande behandling
 
-1. Se till att rektorn vid minst ett tillfälle innan den 8 maj 2026 för all personal ytterligare
+1\. Se till att rektorn vid minst ett tillfälle innan den 8 maj 2026 för all personal ytterligare
 klargör skyldigheten att de vid kännedom om att en elev upplever sig utsatt för kränkande
 behandling ska göra en anmälan till rektorn. Huvudmannen eller den som huvudmannen
 utser ska dokumentera när informationen har lämnats och på vilket sätt den har getts.
 Huvudmannen ska skicka in dokumentationen till Skolinspektionen med redovisningen av
-de vidtagna åtgärderna (2 kap. 34a $ och 6 kap. 10 8 skollagen).
+de vidtagna åtgärderna (2 kap. 34a \$ och 6 kap. 10 8 skollagen).
 
-2. Se till att personalen som får kännedom om att elev har ansett sig ha blivit utsatt för
+2\. Se till att personalen som får kännedom om att elev har ansett sig ha blivit utsatt för
 kränkande behandling i samband med verksamheten anmäler det till rektorn och att
 anmälningsskyldigheten även efterlevs i praktiken. Rektorn ska dokumentera hur många
 sådana anmälningar som har kommit in och som har anmälts till huvudmannen fram till och
 med 30 april 2026. Huvudmannen ska skicka in dokumentationen till Skolinspektionen med
 redovisningen av de vidtagna åtgärderna (6 kap. 5 och 10 88 skollagen).
 
-1. Ange tydligt vilka åtgärder som vidtagits för att avhjälpa respektive
+1\. Ange tydligt vilka åtgärder som vidtagits för att avhjälpa respektive
 påtalad brist. Ange följande:
 
 a) vad som har gjorts för att avhjälpa bristerna och hur det
@@ -3794,7 +3794,7 @@ initierades utifrån den återkoppling som framkom i samband med tillsynen.
 SKOLINSPEKTIONEN Sida 3 (13)
 
 Efter beslutet har rektor systematiskt intensifierat arbetet med att säkerställa att samtliga
-medarbetare har kännedom om och efterlever anmälningsskyldigheten enligt 6 kap. 10 $
+medarbetare har kännedom om och efterlever anmälningsskyldigheten enligt 6 kap. 10 \$
 skollagen.
 
 a) Vad som har gjorts och hur det har gjorts
@@ -3859,7 +3859,7 @@ vårterminen 2026.
 2026 och är därmed uppfyllda. Arbetet fortsätter som en del av skolans systematiska
 kvalitetsarbete.
 
-2. Beskriv hur ni har försäkrat er om att åtgärderna för respektive
+2\. Beskriv hur ni har försäkrat er om att åtgärderna för respektive
 brist gett avsett resultat.
 
 Uppföljning har skett genom:
@@ -3878,7 +3878,7 @@ rutiner följs i praktiken
 
 vikten av uppföljning har konkretiserats och efterlevs i praktiken
 
-3. I det fall ni har utvärderat om åtgärderna gett avsett resultat,
+3\. I det fall ni har utvärderat om åtgärderna gett avsett resultat,
 beskriv följande:
 
 a) resultatet av vidtagna åtgärder för varje påtalad brist
@@ -3952,7 +3952,7 @@ av mobiltelefoner.
 « uppmärksammat vårdnadshavare på elevernas språkbruk, hur vi tar hand om skolans
 lokaler samt närmiljö.
 
-4. Om bristen inte fullt ut är avhjälpt, beskriv följande:
+4\. Om bristen inte fullt ut är avhjälpt, beskriv följande:
 a) vad åtgärderna hittills har resulterat i
 b) det fortsatta arbetet
 c) när ni bedömer att bristen kommer att vara avhjälpt
@@ -3971,12 +3971,12 @@ e introduktion av ny personal
 
 e — fortsatt stöd i dokumentation
 
-5. Övriga upplysningar till Skolinspektionen.
+5\. Övriga upplysningar till Skolinspektionen.
 
-6. Dokument som bifogas redovisningen
+6\. Dokument som bifogas redovisningen
 Sammanställning av anmälningar
 
-7. Som kan bifogas om så önskas:
+7\. Som kan bifogas om så önskas:
 APT-anteckningar 9 januari 2026
 Minnesanteckningar personalmöte 18 februari 2026
 Underlag från studiedag 9 mars 2026
@@ -4000,22 +4000,22 @@ SKOLINSPEKTIONEN Sida 8 (13)
 
 Brist: Extra anpassningar
 
-1. Se till att vid minst ett tillfälle innan den 8 maj 2026 informera
+1\. Se till att vid minst ett tillfälle innan den 8 maj 2026 informera
 samtliga lärare och övrig skolpersonal om skollagens bestämmelser och
 Skolverkets allmänna råd om extra anpassningar. Huvudmannen ska
 dokumentera skriftligt när och hur informationen har förmedlats.
 Huvudmannen ska skicka in dokumentationen till Skolinspektionen med
-redovisningen av de vidtagna åtgärderna. (2 kap. 34 a $ och 3 kap. 5 $
+redovisningen av de vidtagna åtgärderna. (2 kap. 34 a \$ och 3 kap. 5 \$
 skollagen samt Skolverkets allmänna råd, SKOLFSF 2022:334, s. 2-3).
 
-2. Se till att elever som bedömts vara i behov av extra anpassningar ges
+2\. Se till att elever som bedömts vara i behov av extra anpassningar ges
 de extra anpassningar som skolans personal har bedömt att eleverna är i
 behov av. För perioden den 9 februari till den 8 maj 2026 ska rektorn
 redovisa: vilka behov som eleverna som riskerar att inte nå minst betyget
 E har, vilka elever som har behov av extra anpassningar samt vilka
 anpassningar som de har fått. (3 kap. 5 8 skollagen).
 
-1. Ange tydligt vilka åtgärder som vidtagits för att avhjälpa respektive
+1\. Ange tydligt vilka åtgärder som vidtagits för att avhjälpa respektive
 påtalad brist. Ange följande:
 
 a) vad som har gjorts för att avhjälpa bristerna och hur det
@@ -4120,7 +4120,7 @@ perioden februari-maj 2026.
 Informationsinsatser till personal har genomförts före den 8 maj 2026 i enlighet med
 beslutet. Arbetet pågår fortsatt som en del av skolans systematiska kvalitetsarbete.
 
-2. Beskriv hur ni har försäkrat er om att åtgärderna för respektive
+2\. Beskriv hur ni har försäkrat er om att åtgärderna för respektive
 brist gett avsett resultat.
 
 Uppföljning har skett genom:
@@ -4145,7 +4145,7 @@ SKOLINSPEKTIONEN
 
 Sida 11 (13)
 
-3. I det fall ni har utvärderat om åtgärderna gett avsett resultat,
+3\. I det fall ni har utvärderat om åtgärderna gett avsett resultat,
 
 beskriv följande:
 
@@ -4211,7 +4211,7 @@ e besök i klassrum
 
 e individuella samtal med personal
 
-4. Om bristen inte fullt ut är avhjälpt, beskriv följande:
+4\. Om bristen inte fullt ut är avhjälpt, beskriv följande:
 a) vad åtgärderna hittills har resulterat i
 b) det fortsatta arbetet
 c) när ni bedömer att bristen kommer att vara avhjälpt
@@ -4227,13 +4227,13 @@ e — fortsatt kompetensutveckling kring extra anpassningar
 
 e stärkt analys av samband mellan undervisning och måluppfyllelse
 
-5. Övriga upplysningar till Skolinspektionen.
+5\. Övriga upplysningar till Skolinspektionen.
 
 Arbetet med extra anpassningar är en central del i skolans övergripande
 utvecklingsarbete med fokus på att säkerställa att alla elever ges förutsättningar att
 nå kunskapsmålen.
 
-6. Dokument som bifogas redovisningen:
+6\. Dokument som bifogas redovisningen:
 ee Sammanställning av elever i behov av extra anpassningar
 Dokumentation som kan bifogas om så önskas:
 ee Dokumentation av genomförda informationsinsatser
@@ -4266,7 +4266,7 @@ Beslut
 
 Föreläggande
 
-Skolinspektionen förelägger med stöd av 26 kap. 10 $ skollagen (2010:800)
+Skolinspektionen förelägger med stöd av 26 kap. 10 \$ skollagen (2010:800)
 Kungsbacka att senast den 8 maj 2026 ha vidtagit nedan angivna åtgärder
 avseende brister rörande anmälan om kränkande behandling samt extra
 anpassningar. De vidtagna åtgärderna ska senast samma dag skriftligen
@@ -4275,31 +4275,31 @@ redovisas till Skolinspektionen.
 Om Kungsbacka kommun inte följer detta föreläggande kan mer ingripande
 sanktioner komma att aktualiseras.
 
-Beslutet om föreläggande gäller omedelbart enligt 26 kap. 10 $ tredje
+Beslutet om föreläggande gäller omedelbart enligt 26 kap. 10 \$ tredje
 stycket skollagen. Beslutet om föreläggande får enligt 28 kap. 2 och 18 88
 skollagen inte överklagas.
 
 Kungsbacka kommun ska vidta följande åtgärder
 Anmälan av kränkande behandling
 
-1. Setill att rektorn vid minst ett tillfälle innan den 8 maj 2026 för all
+1\. Setill att rektorn vid minst ett tillfälle innan den 8 maj 2026 för all
 personal ytterligare klargör skyldigheten att de vid kännedom om
 att en elev upplever sig utsatt för kränkande behandling ska göra en
 anmälan till rektorn. Huvudmannen eller den som huvudmannen
 utser ska dokumentera när informationen har lämnats och på vilket
 sätt den har getts. Huvudmannen ska skicka in dokumentationen
 till Skolinspektionen med redovisningen av de vidtagna åtgärderna
-(2 kap. 34a 8 och 6 kap. 10 $ skollagen).
+(2 kap. 34a 8 och 6 kap. 10 \$ skollagen).
 
-2. Se till att personalen som får kännedom om att elev har ansett sig
+2\. Se till att personalen som får kännedom om att elev har ansett sig
 ha blivit utsatt för kränkande behandling i samband med
 verksamheten anmäler det till rektorn och att
 anmälningsskyldigheten även efterlevs i praktiken. Rektorn ska
 dokumentera hur många sådana anmälningar som har kommit in
 och som har anmälts till huvudmannen fram till och med 30 april
-2026. Huvudmannen ska skicka in dokumentationen till
+2026\. Huvudmannen ska skicka in dokumentationen till
 Skolinspektionen med redovisningen av de vidtagna åtgärderna (6
-kap. 5 och 10 $$ skollagen).
+kap. 5 och 10 \$\$ skollagen).
 
 Skolinspektionen, Box 23069, 104 35 Stockholm. Telefon: 08-586 080 00
 www.skolinspektionen.se
@@ -4310,21 +4310,21 @@ SKOLINSPEKTIONEN Sida 2 (14)
 
 Extra anpassningar
 
-1. Se till att vid minst ett tillfälle innan den 8 maj 2026 informera
+1\. Se till att vid minst ett tillfälle innan den 8 maj 2026 informera
 samtliga lärare och övrig skolpersonal om skollagens bestämmelser
 och Skolverkets allmänna råd om extra anpassningar.
 Huvudmannen ska dokumentera skriftligt när och hur
 informationen har förmedlats. Huvudmannen ska skicka in
 dokumentationen till Skolinspektionen med redovisningen av de
-vidtagna åtgärderna. (2 kap. 34 a $ och 3 kap. 5 $ skollagen samt
+vidtagna åtgärderna. (2 kap. 34 a \$ och 3 kap. 5 \$ skollagen samt
 Skolverkets allmänna råd, SKOLFSF 2022:334, s. 2-3).
 
-2. Se till att elever som bedömts vara i behov av extra anpassningar
+2\. Se till att elever som bedömts vara i behov av extra anpassningar
 ges de extra anpassningar som skolans personal har bedömt att
 eleverna är i behov av. För perioden den 9 februari till den 8 maj
 2026 ska rektorn redovisa: vilka behov som eleverna som riskerar
 att inte nå minst betyget E har, vilka elever som har behov av extra
-anpassningar samt vilka anpassningar som de har fått. (3 kap. 5 $
+anpassningar samt vilka anpassningar som de har fått. (3 kap. 5 \$
 skollagen).
 
 Avstående från ingripande
@@ -4380,9 +4380,9 @@ Skolinspektionen sin bedömning i det här fallet.
 Huvudmannen ansvarar för att utbildningen genomförs i enlighet med
 bestämmelserna i skollagen, föreskrifter som har meddelats med stöd av
 skollagen och de bestämmelser för utbildningen som kan finnas i andra
-författningar (2 kap. 8 $ skollagen). Vidare ska huvudmannen se till att
+författningar (2 kap. 8 \$ skollagen). Vidare ska huvudmannen se till att
 nödvändiga åtgärder vidtas om det framkommer att det finns brister i
-verksamheten (4 kap. 7 $ skollagen).
+verksamheten (4 kap. 7 \$ skollagen).
 
 Föreläggande
 Agerande vid och anmälning om kränkande behandling
@@ -4433,7 +4433,7 @@ Rättslig reglering
 
 Var och en som verkar inom utbildningen ska främja de mänskliga
 rättigheterna och aktivt motverka alla former av kränkande behandling. (1
-kap. 5 $ skollagen)
+kap. 5 \$ skollagen)
 
 Huvudmannen ska se till att all personal i den verksamhet som
 huvudmannen har ansvar för enligt denna lag har nödvändiga insikter i de
@@ -4451,7 +4451,7 @@ skollagen).
 
 Huvudmannen ansvarar för att personalen fullgör de skyldigheter som
 anges i detta kapitel, när den handlar i tjänsten eller inom ramen för
-uppdraget. (6 kap. 5 $ skollagen)
+uppdraget. (6 kap. 5 \$ skollagen)
 
 En lärare eller annan personal som får kännedom om att ett barn eller en
 elev anser sig ha blivit utsatt för kränkande behandling i samband med
@@ -4466,7 +4466,7 @@ kränkande behandling i samband med verksamheten är skyldig att anmäla
 detta till huvudmannen. Huvudmannen är skyldig att skyndsamt utreda
 omständigheterna kring de uppgivna kränkningarna och i förekommande
 fall vidta de åtgärder som skäligen kan krävas för att förhindra kränkande
-behandling i framtiden. (6 kap. 10 $ skollagen)
+behandling i framtiden. (6 kap. 10 \$ skollagen)
 
 Av förarbetena till skollagen framgår bland annat att skyldigheten att
 utreda gäller så fort det kommit till skolans kännedom att det förekommit
@@ -4595,9 +4595,9 @@ resultatet på ett nationellt prov eller uppgifter från lärare, övrig
 skolpersonal, en elev eller en elevs vårdnadshavare eller på annat sätt
 framkommer att det kan befaras att en elev inte kommer att uppfylla de
 betygskriterier eller kriterier för bedömning av kunskaper som minst ska
-uppfyllas, och inte annat följer av 7 $, ska eleven skyndsamt ges stöd i form
+uppfyllas, och inte annat följer av 7 \$, ska eleven skyndsamt ges stöd i form
 av extra anpassningar inom ramen för den ordinarie undervisningen. (3
-kap. 5 $ skollagen).
+kap. 5 \$ skollagen).
 
 Om det inom ramen för undervisningen, genom användning av ett
 nationellt kartläggningsmaterial eller ett nationellt bedömningsstöd,
@@ -4606,9 +4606,9 @@ skolpersonal, en elev eller en elevs vårdnadshavare eller på annat sätt
 framkommer att det kan befaras att en elev inte kommer att uppfylla de
 betygskriterier eller kriterier för bedömning av kunskaper som minst ska
 uppfyllas, trots att stöd har getts i form av extra anpassningar inom ramen
-för den ordinarie undervisningen enligt 5 $, ska detta anmälas till rektorn.
+för den ordinarie undervisningen enligt 5 \$, ska detta anmälas till rektorn.
 Detsamma gäller om det finns särskilda skäl att anta att sådana
-anpassningar inte skulle vara tillräckliga. (3 kap. 7 $ skollagen).
+anpassningar inte skulle vara tillräckliga. (3 kap. 7 \$ skollagen).
 
 Av förarbetena till 3 kap. 5 8 skollagen framgår bland annat att stöd i form
 av extra anpassningar är till exempel att hjälpa en elev med att planera och
@@ -4635,11 +4635,11 @@ rektorn, lärarnas och elevhälsans ansvar med extra anpassningar.
 
 Huvudmannen bör:
 
-1. ha rutiner för att regelbundet säkerställa att skolenheterna har
+1\. ha rutiner för att regelbundet säkerställa att skolenheterna har
 tillräckliga resurser för att uppfylla de krav som ställs i lagar och andra
 föreskrifter i fråga om extra anpassningar och särskilt stöd, samt
 
-2. ha rutiner för att kontinuerligt följa upp hur arbetet med extra
+2\. ha rutiner för att kontinuerligt följa upp hur arbetet med extra
 anpassningar och särskilt stöd fungerar på skolenheterna, för att kunna
 vidta nödvändiga åtgärder om det finns brister.
 
@@ -4649,7 +4649,7 @@ Rektorn bör:
 av extra anpassningar och särskilt stöd samt vid behov omprioritera
 resurser på skolenheten,
 
-2. se till att elevhälsans kompetens tas tillvara i det dagliga pedagogiska
+2\. se till att elevhälsans kompetens tas tillvara i det dagliga pedagogiska
 arbetet samt i utformandet av de olika lärmiljöerna inom verksamheten,
 samt
 
@@ -4690,7 +4690,7 @@ Val av ingripande
 
 Skolinspektionen får förelägga en huvudman som står under dess tillsyn att
 fullgöra sina skyldigheter, om verksamheten inte uppfyller de krav som
-följer av de föreskrifter som gäller för verksamheten (26 kap. 10 $
+följer av de föreskrifter som gäller för verksamheten (26 kap. 10 \$
 skollagen).
 
 Kungsbacka kommuns verksamhet vid Särö skola 6-9 uppfyller inte
@@ -4762,14 +4762,14 @@ andra ämnen.
 Rättslig reglering
 
 Den totala undervisningstiden för varje elev i grundskolan ska vara minst 6
-890 timmar (10 kap. 5 $ skollagen).
+890 timmar (10 kap. 5 \$ skollagen).
 
 Av skolförordningen framgår att huvudmannen får besluta om ytterligare
 undervisningstid utöver den garanterade undervisningstiden.
 Huvudmannen beslutar efter förslag av rektorn om fördelning mellan
 årskurserna av undervisningstiden. Av bilaga 1 till förordningen framgår
 bestämmelser om fördelning av den garanterade undervisningstiden
-(timplan) (9 kap. 3-4 $$ samt bilaga 1 skolförordningen 2011:185).
+(timplan) (9 kap. 3-4 \$\$ samt bilaga 1 skolförordningen 2011:185).
 
 <!-- sida 103 -->
 
@@ -4853,9 +4853,9 @@ framgå. Av programmet ska det också framgå när åtgärderna ska följas upp
 och utvärderas och vem som är ansvarig för uppföljningen respektive
 utvärderingen. Eleven och elevens vårdnadshavare ska ges möjlighet att
 delta när ett åtgärdsprogram utarbetas. Åtgärdsprogrammet beslutas av
-rektorn. Om en utredning enligt 7 $ visar att eleven inte behöver särskilt
+rektorn. Om en utredning enligt 7 \$ visar att eleven inte behöver särskilt
 stöd, ska rektorn eller den som rektorn har överlåtit beslutanderätten till i
-stället besluta att ett åtgärdsprogram inte ska utarbetas. (3 kap. 9 $
+stället besluta att ett åtgärdsprogram inte ska utarbetas. (3 kap. 9 \$
 skollagen).
 
 Skolinspektionens bedömning
@@ -4926,14 +4926,14 @@ med på.
 SKOLINSPEKTIONEN Sida 14 (14)
 
 Rättslig reglering
-För varje ämne ska en kursplan gälla. (10 kap. 8 $ skollagen)
+För varje ämne ska en kursplan gälla. (10 kap. 8 \$ skollagen)
 
-För grundskolan gäller en läroplan enligt 1 kap. 11 $ första stycket
+För grundskolan gäller en läroplan enligt 1 kap. 11 \$ första stycket
 skollagen. Läroplanen finns i förordningen (SKOLFS 2010:37) om läroplan
-för grundskolan, förskoleklassen och fritidshemmet. Av 3 $ samma
+för grundskolan, förskoleklassen och fritidshemmet. Av 3 \$ samma
 förordning framgår att kursplaner för grundskolans ämnen ingår i
 läroplanen och att kursplanerna kompletteras av kriterier för bedömning
-av kunskaper och betygskriterier. (9 kap. 1 $ skolförordningen)
+av kunskaper och betygskriterier. (9 kap. 1 \$ skolförordningen)
 
 Av kursplanen i ämnet svenska som andraspråk framgår ämnets centrala
 innehåll (Läroplan för grundskolan, Lgr 22, 5. Kursplaner)
@@ -4986,7 +4986,7 @@ Särövägen 339. Huvudmannen har sedan tidigare ett beslut gällande ansökan o
 förskoleverksamhet daterat 02-06-02 som omfattar 15—16 barn. Ansökan gäller en utökning från 16 till
 20 barn.
 
-Enligt skollagen kap 2 $ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
+Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
 den enskilde bedöms besitta insikt, har ekonomiska förutsättningar och i övrigt har förutsättningar att
 följa de föreskrifter som gäller för utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen
 ska inte heller innebära påtagliga negativa följder på lång sikt för kommunens förskoleverksamhet.
@@ -5021,7 +5021,7 @@ www.kungsbacka.se
 <!-- sida 108 -->
 
 KUNGSBACKA KOMMUN
-20)
+20\)
 
 Beskrivning av ärendet
 
@@ -5062,9 +5062,9 @@ förskoleverksamheten.
 Förvaltningen bedömer att en permanent utökning till 20 barn kan godkännas.
 
 Rättslig reglering
-Enligt 2 kap. 5 $ skollagen ska godkännande lämnas om den enskilde:
+Enligt 2 kap. 5 \$ skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
 <!-- sida 109 -->
@@ -5072,11 +5072,11 @@ verksamheten,
 KUNGSBACKA KOMMUN
 3 (3)
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
-I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a $ 1-4 bedöms lämpliga. Vid
+I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a \$ 1-4 bedöms lämpliga. Vid
 lämplighetsbedömningen ska viljan och förmågan att fullgöra sina skyldigheter mot det allmänna,
 laglydnad i övrigt och andra omständigheter av betydelse beaktas.
 
@@ -5189,7 +5189,7 @@ Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
 Barnkonsekvensanalys utifrån tillfällig eller permanent utökning
 
-=
+\=
 
 | Utökning verksamhet Prästkragens förskola Särö Pastorat 260304.pdf (142 KB)
 
@@ -5227,7 +5227,7 @@ Förskolekooperativet Myrstacken i Åsa Ekonomisk förening har inkommit med en 
 utökning av barnantal på förskolan Myrstacken, Kumlabacken 9. Huvudmannen har sedan 2024-05-15
 ett beslut som omfattar 21 barn i sin verksamhet. Ansökan gäller en utökning från 21 till 22 barn.
 
-Enligt skollagen kap 2 $ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
+Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
 den enskilde bedöms besitta insikt, har ekonomiska förutsättningar och i övrigt har förutsättningar att
 följa de föreskrifter som gäller för utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen
 ska inte heller innebära påtagliga negativa följder på lång sikt för kommunens förskoleverksamhet.
@@ -5259,7 +5259,7 @@ www.kungsbacka.se
 <!-- sida 114 -->
 
 KUNGSBACKA KOMMUN
-20)
+20\)
 
 Beskrivning av ärendet
 
@@ -5301,9 +5301,9 @@ förskoleverksamheten.
 Förvaltningen bedömer att en permanent utökning till 22 barn kan godkännas.
 
 Rättslig reglering
-Enligt 2 kap. 5 $ skollagen ska godkännande lämnas om den enskilde:
+Enligt 2 kap. 5 \$ skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
 <!-- sida 115 -->
@@ -5311,11 +5311,11 @@ verksamheten,
 KUNGSBACKA KOMMUN
 3 (3)
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
-I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a $ 1-4 bedöms lämpliga. Vid
+I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a \$ 1-4 bedöms lämpliga. Vid
 lämplighetsbedömningen ska viljan och förmågan att fullgöra sina skyldigheter mot det allmänna,
 laglydnad i övrigt och andra omständigheter av betydelse beaktas.
 
@@ -5512,7 +5512,7 @@ sjukvården
 
 2025-464 DO- utredning diskriminering 2025-07-02 Komplettering lämnad april
 
-2026.
+2026\.
 
 2025-465 DO- utredning diskriminering 2025-07-03 Svar lämnat september 2025.
 

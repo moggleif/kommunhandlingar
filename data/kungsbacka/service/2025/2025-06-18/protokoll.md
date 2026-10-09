@@ -153,21 +153,21 @@ Sammanfattning av ärendet
 Enheten Säkerhet & Beredskap på Service Fastighet vars uppdrag är att bidra till en
 trygg och säker miljö i och kring kommunens fastigheter. I enhetens uppdrag ingår:
 
--  Samordning, projektering och uppföljning av funktion inom lås-, larm- och
+\-  Samordning, projektering och uppföljning av funktion inom lås-, larm- och
 övervakningssystem samt säkerställning av att dessa system är rätt utformade,
 installerade och underhållna.
--  Utbildning av kommunens personal i brandskydd och hjärt-lungräddning som
+\-  Utbildning av kommunens personal i brandskydd och hjärt-lungräddning som
 en samordnande roll i det systematiska brandskyddsarbetet.
 
--  Samordning och uppföljning av säkerheten kring det interna/inre
+\-  Samordning och uppföljning av säkerheten kring det interna/inre
 säkerhetsarbetet, inklusive resurser och funktioner kopplade till fysisk
 säkerhet.
 
--  Stöd och samordning i förvaltningens övergripande arbete med säkerhet och
+\-  Stöd och samordning i förvaltningens övergripande arbete med säkerhet och
 beredskap. Ansvar för att etablera det forum gällande mötesstruktur och
 arbetssätt som krävs för att nå målbilden för både verksamheten och
 förvaltningens gemensamma säkerhetsarbete.
--  Stöttning till förvaltningen för Vård & Omsorg (VO) med tekniska lösningar,
+\-  Stöttning till förvaltningen för Vård & Omsorg (VO) med tekniska lösningar,
 
 till exempel genom planering och installation av låssystem för hemtjänsten
 och andra behov som rör fysisk säkerhet i verksamhetsnära miljöer.
@@ -387,7 +387,7 @@ Anna-Karin Granberg (SD) reserverar sig mot beslutet.
 Sammanfattning av ärendet
 Nämnden för Service har fått tillfälle att yttra sig över Livsmedelsverkets nationella
 riktlinjer för måltider i skolan, vilka nu är ute på remiss till och med den 19 juni
-2025. Syftet med riktlinjerna är att ytterligare stärka skolmåltidens roll i att främja
+2025\. Syftet med riktlinjerna är att ytterligare stärka skolmåltidens roll i att främja
 elevers hälsa, lärande och hållbara matvanor.
 
 Sedan den senaste versionen publicerades har både Sverige och omvärlden
@@ -640,12 +640,12 @@ Sammanfattning av ärendet
 Förvaltningschef Julia Tryggvadottir Tollesson och biträdande förvaltningschef
 Johan Burman informerar om,
 
--  Presidiedialog med nämnden för Gymnasium & Arbetsmarknad.
--  Partnerdialoger med förvaltningarna för Individ & Familjeomsorg, Förskola
+\-  Presidiedialog med nämnden för Gymnasium & Arbetsmarknad.
+\-  Partnerdialoger med förvaltningarna för Individ & Familjeomsorg, Förskola
 & Grundskola, Gymnasium & Arbetsmarknad, Bygg & Miljö, Kultur &
 Fritid samt Teknik.
 
--  Den årliga rapporten Miljöfordonsdiagnos, som rankar kommuners och
+\-  Den årliga rapporten Miljöfordonsdiagnos, som rankar kommuners och
 regioners fordonsflottor utifrån hur väl de uppfyller riksdagens miljömål om
 minskade koldioxidutsläpp till 2030. Kungsbacka kommun kom på första
 plats med maximalt antal poäng. Det är första gången sedan
@@ -653,27 +653,27 @@ Miljöfordonsdiagnos lanserades som en kommun får maximalt antal poäng i
 alla bedömningskategorier. Rapporten tas fram av Dun & Bradstreet och
 Miljöfordon Sverige.
 
--  ”Återtanken”, vilket är det nya namnet på Lokalförsörjnings
+\-  ”Återtanken”, vilket är det nya namnet på Lokalförsörjnings
 återbruksverksamhet som planeras att starta upp under hösten 2025.
 Återbruksverksamheten syftar till att minska resursförbrukningen,
 klimatpåverkan och nyinköpen. Utöver vinsterna ur ett miljöperspektiv
 gynnar det även ekonomin till förmån för kärnverksamheten.
 
--  Signeshus.
--  Ernst & Youngs uppföljning av Granskning av informationssäkerhet i
+\-  Signeshus.
+\-  Ernst & Youngs uppföljning av Granskning av informationssäkerhet i
 praktiken.
 
--  Revisionen som noterat i sin risk- och väsentlighetsanalys 2025 att
+\-  Revisionen som noterat i sin risk- och väsentlighetsanalys 2025 att
 kommunfullmäktige i budget 2025, likt i tidigare års budgetar, har utfärdat ett
 direktiv till samtliga nämnder om innovation och omställning till nya
 arbetssätt.
 Utifrån detta kommer förvaltningen lämna in skriftliga svar på Ernst &
 Youngs frågor.
 
--  Revisionens Grundläggande granskning 2025.
--  Dataskyddsombudets fördjupade granskning 2025.
+\-  Revisionens Grundläggande granskning 2025.
+\-  Dataskyddsombudets fördjupade granskning 2025.
 
--  Förvaltningen för Service krisledningsstab.
+\-  Förvaltningen för Service krisledningsstab.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
@@ -686,7 +686,7 @@ Nämnden för Service
 Datum
 2025-06-18
 
--  Serviceförvaltningen på Värnamo kommuns besök hos förvaltningen för
+\-  Serviceförvaltningen på Värnamo kommuns besök hos förvaltningen för
 Service 2025-06-03
 
 Beslutsgång

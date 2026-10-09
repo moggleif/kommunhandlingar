@@ -374,24 +374,24 @@ planförslaget, kommer en konsekvens att vara en biltrafikerad väg som skär ig
 skolgården, vilket anses vara ett negativt inslag i planförslaget. Följande synpunkter
 framförs för det vidare arbetet:
 
--  Behållning av nuvarande infart ifrån Mariedalsvägen kommer innebära att en
+\-  Behållning av nuvarande infart ifrån Mariedalsvägen kommer innebära att en
 biltrafikerad väg kommer skära igenom skolgården. Detta kommer påverka
 skolverksamheten negativt i form av säkerhet för elever som måste dagligen
 korsa vägen. Planen bör bejaka att god säkerhet kan erhållas för elever som
 korsar den biltrafikerade vägen på skolgården.
 
--  Annan fördelning av exploateringstalet. Förslagsvis minskas
+\-  Annan fördelning av exploateringstalet. Förslagsvis minskas
 egenskapsbestämmelse ”e1” till 4000 kvadratmeter och ”e2” utökas till
 4500 kvadratmeter. På så vis ges möjlighet till att på längre sikt samla
 skolbebyggelsen i de norra delarna av fastigheten.
--  Nämnden för Service tror att det kan ligga en osäkerhet i när det gäller
+\-  Nämnden för Service tror att det kan ligga en osäkerhet i när det gäller
 trafikrörelser till och från skolan. Osäkerheten ligger främst i skillnaden
 
 mellan nuläge och planförslaget. Iserås har historiskt haft över 500 elever på
 skolan inklusive en förskola i det som idag nämns som före detta Mariedals
 förskola. Anledningen till det låga elevantalet idag beror främst på att delar
 av skolan är avstängda då de har haft en låg teknisk status.
--  Planförslaget anger att skolfastigheten måste tillskapa en
+\-  Planförslaget anger att skolfastigheten måste tillskapa en
 dagvattenfördröjning innan dagvattnet leds vidare till Knapebäcken. Det vore
 rimligt att ha en bestämmelse i detaljplanen som anger en viss procentsats att
 
@@ -651,7 +651,7 @@ Sammanfattning av ärendet
 
 Nämnden för Service har överlåtit sin beslutanderätt till ordförande och tjänstemän i
 enlighet med nämnden för Service delegeringsförteckning, beslutad 2023-10-19 §
-104. Beslut får endast fattas inom nämndens verksamhetsområde, i ärenden där
+104\. Beslut får endast fattas inom nämndens verksamhetsområde, i ärenden där
 nämnden har befogenhet att fatta beslut enligt författning eller kommunfullmäktiges
 beslut. Redovisningen innebär inte att nämnden för Service omprövar eller fastställer
 delegeringsbesluten. Däremot får nämnden för Service återta lämnad delegering eller
@@ -728,16 +728,16 @@ markerat med X. Delegeringsförteckningen ses över årligen och revideras vid b
 Beslut om delegeringsförteckning innefattar förändringar om:
 •  Kap 1.9 Förkortningar och laghänvisningar
 
-- RC, Restaurangchef stryks (befattningen har upphört)
+\- RC, Restaurangchef stryks (befattningen har upphört)
 •  Kap 2.2 Ekonomi och Inköp
 
-- 2.2.12, Ny kommentar (anmäls till nämnden en gång per år)
-- 2.2.14 och 2.2.15, Delegeringen upphör (verkställighet)
+\- 2.2.12, Ny kommentar (anmäls till nämnden en gång per år)
+\- 2.2.14 och 2.2.15, Delegeringen upphör (verkställighet)
 
-- 2.2.16, Kommentaren tas bort
+\- 2.2.16, Kommentaren tas bort
 
 •  Kap 2.3 Personal
-- 2.3.6, Kommentaren ändras från ” I samråd med HR-chef” till
+\- 2.3.6, Kommentaren ändras från ” I samråd med HR-chef” till
 ” I samråd med HR på förvaltningen och kommunens HR-chef”
 
 Beslutsunderlag

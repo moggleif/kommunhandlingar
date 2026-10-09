@@ -434,7 +434,7 @@ Internkontrollplan 2026
 Beslut
 
 Nämnden för Individ och Familjeomsorg godkänner upprättad Internkontrollplan
-2026.
+2026\.
 
 Sammanfattning av ärendet
 En god intern kontroll ska bidra till att verksamheten bedrivs effektivt och säkert
@@ -604,11 +604,11 @@ Moderaterna, Liberalerna, Centerpartiet och Kristdemokraterna i Nämnden för
 Individ och Familjeomsorg har tagit fram förslag som sammanlagt uppgår till två
 miljoner kronor.
 
-1. Koordinator för att möjliggöra tidiga insatser vid oro
-2. Metoder för att motverka normbrytande beteende samt stärka föräldraförmåga
+1\. Koordinator för att möjliggöra tidiga insatser vid oro
+2\. Metoder för att motverka normbrytande beteende samt stärka föräldraförmåga
 
-3. Hjälp till självhjälp för barn, unga och föräldrar vid separation
-4. Stärkt stöd till familjehem och jourfamiljer
+3\. Hjälp till självhjälp för barn, unga och föräldrar vid separation
+4\. Stärkt stöd till familjehem och jourfamiljer
 
 Initiativtagarna föreslår att nämnden beslutar:
 Att hos kommunstyrelsen hemställa om att få ta del av två miljoner 2026 ur anslaget

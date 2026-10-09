@@ -192,10 +192,10 @@ incidenter upprepas.
 Årets analys av personuppgiftsincidenter gjordes för år 2024. Resultatet påvisade tre tydliga
 trender;
 
-1. Antalet anmälda personuppgiftsincidenter minskar.
-2. Personuppgiftsincidenter kan i huvudsak härledas till den mänskliga faktorn.
+1\. Antalet anmälda personuppgiftsincidenter minskar.
+2\. Personuppgiftsincidenter kan i huvudsak härledas till den mänskliga faktorn.
 
-3. Flest personuppgiftsincidenter har rapporterats inom verksamhetssystemet EDP Vision och i
+3\. Flest personuppgiftsincidenter har rapporterats inom verksamhetssystemet EDP Vision och i
 den manuella posthanteringen.
 
 Den ovan nämnda sammanställningen samt den årliga analysen av personuppgiftsincidenter är en
@@ -258,8 +258,8 @@ Område Kritisk faktor k ig, | 25
 3 2 : 28?
 23 |ie ik
 5> 158 52
-47 49 |<E
-1. Rutiner mot 1.1 Förvaltningen har rutiner för att säkerställa tillräcklig kryptering
+47 49 |\<E
+1\. Rutiner mot 1.1 Förvaltningen har rutiner för att säkerställa tillräcklig kryptering
 obehörig och/eller pseudonymisering i behandlingsystemen. kx
 åtkomst
 1.2 Förvaltningen styr och kontrollerar rätt behörighet och åtkomst
@@ -271,7 +271,7 @@ i behandlingsystemen. Y
 1.5 Förvaltningen styr och följer upp att leverantörerna av
 behandlingsystemen bedriver motsvarande arbete utifrån punkt 1.1-
 1.4.
-2. Systematiskt 2.1 Förvaltningen bedriver ett systematiskt arbete för att regelbundet
+2\. Systematiskt 2.1 Förvaltningen bedriver ett systematiskt arbete för att regelbundet
 Kvaälitetssäkrings | se att dataskyddet fungerar som det ska. Resultatet följs upp av Y
 -arbete nämnden.
 2.2 Köntröllema som görs är tillräckligt omfattande och
@@ -430,7 +430,7 @@ Kungsbacka kommun Rapport 8
 
 På Miljö & Hälsoskydd har det skapats ett digitalt system, Kvalitetshandboken, där alla dess rutiner
 och viktiga styrdokument samlas. Detta digitala system skapades i sin nuvarande form redan år
-2022. Att säkra förvaltningens rutiner har stått i centrum i år och därav har det varit fokus på just
+2022\. Att säkra förvaltningens rutiner har stått i centrum i år och därav har det varit fokus på just
 Kvalitetshandboken. Syftet med Kvalitetshandboken är att det är ett bra stöd för alla medarbetare
 på Miljö & Hälsoskydd då alla viktiga rutiner och dokument finns samlade där. Handläggarna har
 sina handläggningsrutiner inlagda i den med bilagor och processkartor (i de fall det finns). Rutiner
@@ -453,13 +453,13 @@ där gallringstid för samt utskick från E-tjänsterna granskas och även ser �
 personer med skyddad identitet. Det är viktigt att rätt information står i våra E-tjänster och att den
 är lättbegriplig för invånarna.
 
--  Gallringstid för E-tjänster:
+\-  Gallringstid för E-tjänster:
 
 Den gallringstid som ska anges avser den period under vilken personuppgifterna bevaras i
 det system där de slutligen lagras efter att E-tjänsten har använts. Tidigare har begreppet
 gallringstid tolkats olika inom Bygg respektive Miljö, vilket nu har förtydligats.
 
-- Se över utskick via E-tjänster:
+\- Se över utskick via E-tjänster:
 
 Kontrollera om E-tjänsten skickar ut sms eller e-post till registrerade användare. Om
 sådana utskick förekommer får meddelandena inte innehålla någon känslig information,
@@ -478,7 +478,7 @@ känslig information, utan enbart texten: ”Du har fått ett nytt meddelande ko
 [ärendenummerl]. Klicka på länken nedan för att visa ärendet.”
 
 Vid klick på länken krävs inloggning med BankID för att ta del av informationen.
-- - Förtydligande för personer med skyddad identitet:
+\- - Förtydligande för personer med skyddad identitet:
 
 Ett förtydligande avseende personer med skyddad identitet har införts i förtexten till
 samtliga E-tjänster inom Bygg- och miljöförvaltningen. Informationen klargör att personer
@@ -510,7 +510,7 @@ fokus på att skapa ett nytt behandlingsregister för nämnden för Miljö & Hä
 påbörjades i första kvartalet men sedan valde dataskyddskontakten i samråd med enhetschef för
 verksamhetsstöd att inte genomföra detta, då resurser har behövts läggas på andra områden som
 till exempel projektet Rätt till insyn. Arbetet med behandlingsregistret planeras att tas upp under år
-2026.
+2026\.
 
 1.5 Förvaltningens innovationsarbete kopplat till dataskyddsarbetet
 
@@ -618,14 +618,14 @@ drönarverksamheten är av kommunövergripande karaktär).
 
 1.10 Behörighetsrutiner
 
-- Kontroll av behörighet till EDP Vision. Loggning har utförts 2 gånger under året av
+\- Kontroll av behörighet till EDP Vision. Loggning har utförts 2 gånger under året av
 systemförvaltaren. En gång gjordes i juni och en görs i december.
 
-- Kontroll av behörighet till Ciceron.
-- Kontroll av behörighet till Ciceron sekretess.
-- Kontroll av behörighet till Kartportalen.
+\- Kontroll av behörighet till Ciceron.
+\- Kontroll av behörighet till Ciceron sekretess.
+\- Kontroll av behörighet till Kartportalen.
 
-- Kontroll av behörighet till Bygg- och miljöförvaltningens fysiska arkiv.
+\- Kontroll av behörighet till Bygg- och miljöförvaltningens fysiska arkiv.
 
 1.11 Lagstiftning
 
@@ -777,7 +777,7 @@ att kommunen säkrat långsiktig VA-försörjning
 Förslag till beslut i kommunfullmäktige
 
 Nämnden för Miljö & Hälsoskydd föreslår att kommunfullmäktige avslår motionen med hänvisning
-till $ 6 Lagen om allmänna vattentjänster och fattade beslut av kommunfullmäktige om planerad
+till \$ 6 Lagen om allmänna vattentjänster och fattade beslut av kommunfullmäktige om planerad
 utbyggnad av kommunalt vatten och avlopp samt framförda synpunkter.
 
 Sammanfattning av ärendet
@@ -799,8 +799,8 @@ tillåta att lokala VA-lösningar används fram till dess att frågan utretts.
 Beslutsunderlag
 
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2026-01-21
-Protokollsutdrag Kommunstyrelsens arbetsutskott 2025-11-04 $ 312
-Protokollsutdrag Kommunfullmäktige 2025-10-07 $ 207
+Protokollsutdrag Kommunstyrelsens arbetsutskott 2025-11-04 \$ 312
+Protokollsutdrag Kommunfullmäktige 2025-10-07 \$ 207
 
 Motion från Christer Perfjell (KB) 2025-10-07
 
@@ -823,7 +823,7 @@ www.kungsbacka.se
 <!-- sida 17 -->
 
 KUNGSBACKA KOMMUN
-204)
+204\)
 
 Beskrivning av ärendet
 Bakgrund och utdrag ur kommunens ”Utbyggnadsplan för vatten och avlopp 2022-2032”
@@ -865,7 +865,7 @@ för de ca 40 områdena har gjorts.
 
 De mest betydelsefulla faktorerna för ordningsföljd är prioriteringspoäng för Behov och för
 Sambhällsutveckling. Prioriteringspoäng för Behov speglar i stor utsträckning det som Lagen om
-allmänna vattentjänster $ 6 kräver för att VA-utbyggnad ska ske. Prioriteringspoäng för
+allmänna vattentjänster \$ 6 kräver för att VA-utbyggnad ska ske. Prioriteringspoäng för
 Samhällsutveckling speglar i vilka områden kommunen utifrån samhällsbyggnad bör prioritera VA-
 utbyggnad. Förutom dessa prioriteringspoäng har påverkansfaktorerna sociala faktorer, möjlighet till
 avtalsanslutning, kritiskt miljö- eller hälsoläge, angränsande nya detaljplaner, tekniska aspekter och
@@ -925,7 +925,7 @@ Hammargårds reningsverk har fått tillstånd för att bygga ut. Det utbyggda re
 <!-- sida 19 -->
 
 KUNGSBACKA KOMMUN
-44)
+44\)
 
 och intrimmat senast den 30 april 2029, enligt beslutet 2023-04-26 (Taget i anspråk 2025-01-01). Nya
 datumet när det ska vara i drift och intrimmat är den 1 januari 2030.
@@ -949,7 +949,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Kommunstyrelsens arbetsutskott Datum
 2025-11-04
 
-$ 312 Dnr KS-2025-00670
+\$ 312 Dnr KS-2025-00670
 
 Remittering av motion från Christer Perfjell (KB) om att behålla lokala
 VA-lösningar till dess att kommunen säkrat långsiktig VA-försörjning
@@ -1006,7 +1006,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 101)
 Kommunfullmäktige Datum
 2025-10-07
 
-$ 207 Dnr KS-2025-00670
+\$ 207 Dnr KS-2025-00670
 
 Anmälan av motion från Christer Perfjell (KB) om att behålla lokala
 VA-lösningar till dess att kommunen säkrat långsiktig VA-försörjning
@@ -1165,7 +1165,7 @@ www.kungsbacka.se
 <!-- sida 24 -->
 
 KUNGSBACKA KOMMUN
-202)
+202\)
 
 Förslaget innebär att kommunerna även fortsättningsvis, och i flera avseenden i ökad omfattning,
 ges ett centralt ansvar för kontroll av luftkvaliteten inom sina geografiska områden. Detta knyts till
@@ -1423,7 +1423,7 @@ enligt miljöbalken.
 Nämnden vill även erinra om sitt ansvar för prövning av serveringstillstånd och alkoholtillsyn.
 Bestämmelser i de lokala ordningsföreskrifterna som rör alkoholförtäring på offentlig plats påverkar
 
-12)
+12\)
 Bygg- och miljöförvaltningen Kungsbacka kommun
 434 81 Kungsbacka
 
@@ -1436,7 +1436,7 @@ www.kungsbacka.se
 <!-- sida 29 -->
 
 KUNGSBACKA KOMMUN
-202)
+202\)
 
 inte nämndens bedömningar eller tillsyn enligt alkohollagen, och innebär inte någon befrielse från
 de krav och skyldigheter som följer av den lagstiftningen.
@@ -1453,7 +1453,7 @@ Yttrande från nämnden för Miljö & Hälsoskydd, daterat 2026-01-26
 
 Förslag till revidering av lokala ordningsföreskrifter jämte bilagor
 
-Protokollsutdrag från Nämnden för Teknik 2025-12-17, $ 141, avseende begäran om yttrande
+Protokollsutdrag från Nämnden för Teknik 2025-12-17, \$ 141, avseende begäran om yttrande
 
 Beslutet skickas till
 Nämnden för Teknik, Kungsbacka kommun
@@ -1815,7 +1815,7 @@ Nämndens årsredovisning 2025
 Globalt mål | Beskrivning av förflyttning under 2025
 Tillsyn har bedrivits inom flera områden för att fftämja god hälsa och välbefinnande. Det
 omfattar bland annat tillsyn av kosmetiska solarium, hygieniska verksamheter, rökfria miljöer
-3. God hälsa | samt inomhusmiljöer för boende. Även dricksvatten och livsmedel har kontrollerats för att
+3\. God hälsa | samt inomhusmiljöer för boende. Även dricksvatten och livsmedel har kontrollerats för att
 och välbe- | säkerställa säkra livsmedel. Inom alkohol- och tobaksområdet har både inre och yttre tillsyn
 finnande utförts för att skapa trygga krogmiljöer och minska tillgängligheten till tobak, särskilt för unga.
 Det är viktigt att tillsynen gynnar grupper som inte kan värna sina egna rättigheter som barn,
@@ -1915,7 +1915,7 @@ Spec Ansv/vks/proj | Driftredovisning/ Bokslut 2025 Orsak samt nämndens begära
 Projektnamn motivering). För typ 3 begäran om
 överföring till resultatfond lämnas
 Underskott Överskott Summering - nämndens förslag till beslut särskild r ning av prestationsmått
-- — - — - eller andra utvärderingskriterier som
+\- — - — - eller andra utvärderingskriterier som
 Årsbudget Utfall Avvikelse Ombudgeteras Förs till Typ 1-ej Typ 2- versamhet Typ 3- egna Typ 4- Pågående Summa till Summa att Summa att Kontrollsumma mot visar att överskottet uppstått genom
 utför net till annan nämnd effektiviseringar | ej avslutade projekt |  resultatfond ombudgetera återredovisa bokslutsavvikelse. BÖR AR
 åter åter i tillr [0] SLUTA MED "0" I egna effektiviseringar.
@@ -1948,7 +1948,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-Byggnadsnämnden beslutade 2026-01-22 $ 7 att godkänna underlag till kommunbudget 2027, plan
+Byggnadsnämnden beslutade 2026-01-22 \$ 7 att godkänna underlag till kommunbudget 2027, plan
 2028-2029 med ändringar enligt nämnden för Miljö & Hälsoskydds yttrande.
 
 Enligt kommunens budgetprocess ska varje nämnd besluta om underlag till kommunbudget 2027, plan
@@ -1968,7 +1968,7 @@ helhetsansvar för den nämndbudget som omfattar den gemensamma bygg- och miljö
 Beslutsunderlag
 
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2026-01-26
-Byggnadsnämnden, 2026-01-22 $ 7
+Byggnadsnämnden, 2026-01-22 \$ 7
 
 Katarina Öryd Christina Nordberg
 Förvaltningschef Controller förvaltning
@@ -1991,7 +1991,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (2)
 Byggnadsnämnden Datum
 2026-01-22
 
-$ 7 Dnr BN-2025-00259
+\$ 7 Dnr BN-2025-00259
 Underlag till kommunbudget 2027, plan 2028-2029
 
 Beslut
@@ -2034,7 +2034,7 @@ Beslutsunderlag
 
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2026-01-16
 
-Protokollsutdrag nämnden för Miljö & Hälsoskydd 2026-01-15 $ 4
+Protokollsutdrag nämnden för Miljö & Hälsoskydd 2026-01-15 \$ 4
 
 Ändringsyrkande nämnden för Miljö & Hälsoskydd (M, KD, C, 1), 2026-01-14
 Yttrande inför byggnadsnämndens beslut om underlag till kommunbudget 2027, plan
@@ -2104,7 +2104,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-Byggnadsnämnden beslutade 2026-01-22 $ 8 att godkänna investeringsplan för löpande investeringar
+Byggnadsnämnden beslutade 2026-01-22 \$ 8 att godkänna investeringsplan för löpande investeringar
 2027-2036.
 
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser varje år fatta beslut om en
@@ -2121,7 +2121,7 @@ miljöförvaltningen.
 Beslutsunderlag
 
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2026-01-26
-Byggnadsnämnden 2026-01-22 $ 8
+Byggnadsnämnden 2026-01-22 \$ 8
 
 Katarina Öryd Christina Nordberg
 Förvaltningschef Controller förvaltning
@@ -2142,7 +2142,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Byggnadsnämnden Datum
 2026-01-22
 
-$8 Dnr BN-2025-00260
+\$8 Dnr BN-2025-00260
 Investeringsplan för 2027-2036
 
 Beslut
@@ -2165,7 +2165,7 @@ för samtliga avdelningar inom Bygg- och miljöförvaltningen.
 
 Beslutsunderlag
 
-Byggnadsnämndens arbetsutskott 2025-12-15 $ 256
+Byggnadsnämndens arbetsutskott 2025-12-15 \$ 256
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2025-12-02
 
 Beslutsgång

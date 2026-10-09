@@ -196,7 +196,7 @@ men fortsätter utvecklingsarbetet under året.
 
 I februari 2022 inleddes Rysslands invasion av Ukraina. Under juni 2022 kom de första anvisningarna från
 Migrationsverket avseende kommunens mottagande utifrån massflyktsdirektivet, som började gälla den 1 juli
-2022.
+2022\.
 Europeiska unionens råd har under perioden enats om att förlänga massflyktsdirektivet till den 4 mars 2026.
 Beskedet innebär kortfattat att Skatteverket kan börja folkbokföra de ukrainare som varit här med tillfälligt
 skydd i minst två år och som planerar att fortsätta bo i Sverige.
@@ -261,7 +261,7 @@ Uppföljning arbetsmarknadsprocess, kvartal 3 2025
 2.2 Nya/Inledda ärenden i arbetsmarknadsprocessen
 
 Under de tre första kvartalen 2025 har det varit ett något lägre inflöde i arbetsmarknadsprocessen än i slutet av
-2024. I genomsnitt har det varit 24 nya ärenden. Nya/inledda ärenden med försörjningsstöd har i genomsnitt
+2024\. I genomsnitt har det varit 24 nya ärenden. Nya/inledda ärenden med försörjningsstöd har i genomsnitt
 under de tre första kvartalen 2025 varit 23.
 
 Arbetslösheten är högre såväl nationellt som lokalt i Kungsbacka än tidigare, men antalet nya ärenden i
@@ -1372,7 +1372,7 @@ utforma där uppdraget kommer tydliggöras för samtliga inblandade i vårdkedja
 
 då bl.a om remisser från skolverksamhet, elever, vårdnadshavare, samt annan vårdgivare
 
-2. Var står vi och hur kommer vi framåt?
+2\. Var står vi och hur kommer vi framåt?
 
 Rekrytering till initiativ ”En väg åter” fortlöper under hösten 2025. Det är av stor vikt att
 tillsättning av denna funktion kan ske under 2025 så att initiativet kommer igång och
@@ -1388,7 +1388,7 @@ Gymnasium & Arbetsmarknad God och Nära vård och Omsorg     8(10)
 
 [Skriv här]
 
-3. Avslutat initiativ
+3\. Avslutat initiativ
 
 Bakgrund.
 
@@ -1539,14 +1539,14 @@ Kungsbacka kommun, att förbruka stiftelsen medlen men för detta krävs beslut 
 Kommunfullmäktige. För att förvaltaren ska få förbruka medlen finns det fyra kriterier som måste
 uppfyllas:
 
-1. Stiftelsen bildades mer än 20 år sedan,
-2. Stiftelsen inte kunnat främja sitt ändamål under de senaste fem åren,
+1\. Stiftelsen bildades mer än 20 år sedan,
+2\. Stiftelsen inte kunnat främja sitt ändamål under de senaste fem åren,
 
-3. Värdet av tillgångarna, värderade med tillämpning av 3 kap 3 §, vid utgången av de tre senaste
+3\. Värdet av tillgångarna, värderade med tillämpning av 3 kap 3 §, vid utgången av de tre senaste
 räkenskapsåren har understigit ett gränsbelopp som motsvarar tio gånger det då gällande
 prisbasbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, samt
 
-4. Stiftelsen saknar skulder.
+4\. Stiftelsen saknar skulder.
 
 Kriterierna är uppfyllda vilket ger förvaltaren av stiftelsen rätt att förbruka tillgångarna. Det faktum att
 
@@ -2014,13 +2014,13 @@ Analys
 Kostnadsutvecklingen för gymnasieskolan påverkas av flera parametrar, för att
 sammanfatta några:
 
--   Demografi
--   Konkurrens
+\-   Demografi
+\-   Konkurrens
 
--   Investeringar
--   Index
+\-   Investeringar
+\-   Index
 
--   Löneutveckling
+\-   Löneutveckling
 
 Den demografiska utvecklingen påverkar IKE i allra högsta grad. Då priset
 
@@ -2200,15 +2200,15 @@ gymnasieskola inom respektive samverkansavtal i Göteborgsregionen.
 Beräkningsförutsättningar för viktning av index
 Viktning av ingående indexdelar
 2025    2026
-Personalkostnader*     63%     63%
-- lärare, 78%
-- övrig personal, 22%
+Personalkostnader\*     63%     63%
+\- lärare, 78%
+\- övrig personal, 22%
 
 Övriga kostnader (KPI) 36%     36%
 Kapitalkostnader (Internränta) 1% 1%
 Summa                  100%    100%
 
-*Inklusive aktuell arbetsgivaravgift vid beräkningstillfället.
+\*Inklusive aktuell arbetsgivaravgift vid beräkningstillfället.
 
 Indexförutsättningar
 
@@ -2598,18 +2598,18 @@ aktuellt index.
 Generella rationaliseringar diskuteras i Utbildningschefsnätverket, UC, årligen.
 
 Grundprinciperna för prislistan
-- Priset beräknas i normalfallet vartannat år från och med 2020.
-- Priset utgörs av medlemskommunernas sammanlagda programkostnader på
+\- Priset beräknas i normalfallet vartannat år från och med 2020.
+\- Priset utgörs av medlemskommunernas sammanlagda programkostnader på
 gymnasieskolan efter fastställt bokslut.
-- Det dyraste och det billigaste programmet tas bort vid beräkningen av det
+\- Det dyraste och det billigaste programmet tas bort vid beräkningen av det
 genomsnittliga priset för att undvika att eventuella ytterligheter får för stor
 inverkan på genomsnittspriset.
 
 Det finns två undantag till denna princip:
 
-- Är det färre än 7 anordnare av ett program tas inte det dyraste och billigaste bort
+\- Är det färre än 7 anordnare av ett program tas inte det dyraste och billigaste bort
 eftersom genomsnittet då skulle baseras på för få anordnare.
-- Göteborg är på grund av sin volym alltid med i kalkylen även om programmet är
+\- Göteborg är på grund av sin volym alltid med i kalkylen även om programmet är
 dyrast eller billigast.
 
 2
@@ -2622,10 +2622,10 @@ Handläggare: Theresa Björnström
 Datum: 2025-05-28, Dnr: ATN 2025–00010
 
 Mellanliggande år justeras priset med följande index:
-- KPI
-- Nominell ränta
-- Arbetsgivaravgifter
-- Löneutveckling GR (Lärarpersonal med regional uppskattning samt enligt SKR:s
+\- KPI
+\- Nominell ränta
+\- Arbetsgivaravgifter
+\- Löneutveckling GR (Lärarpersonal med regional uppskattning samt enligt SKR:s
 cirkulär för övrig personal i skolan)
 
 Hur kan GR-kommunerna påverka priset?
@@ -2711,11 +2711,11 @@ Analys
 
 Kostnadsutvecklingen för gymnasieskolan påverkas av flera parametrar, för att
 sammanfatta några:
-- Demografi
-- Konkurrens
-- Investeringar
-- Index
-- Löneutveckling
+\- Demografi
+\- Konkurrens
+\- Investeringar
+\- Index
+\- Löneutveckling
 
 Den demografiska utvecklingen påverkar IKE i allra högsta grad. Då priset
 
@@ -2889,11 +2889,11 @@ Förslag interkommunal ersättning (IKE) för 2026
 Kronor/ poäng
 
 För grundläggande kurser inom vuxenutbildning
--  Avser både klassrumsundervisning och genom flexibel undervisning. 55
+\-  Avser både klassrumsundervisning och genom flexibel undervisning. 55
 
 För teoretiska gymnasiala ämnen.
 
--  Avser både klassrumsundervisning och genom flexibel undervisning. 55
+\-  Avser både klassrumsundervisning och genom flexibel undervisning. 55
 
 För grundläggande och gymnasiala ämnen på distans. 36
 
@@ -2913,10 +2913,10 @@ KUNGSBACKA  KOMMUN
 
 För utbildning på vardagar i svenska för invandrare tillämpas ersättning enligt följande:
 
--  Studieväg 1 70
+\-  Studieväg 1 70
 
--  Studieväg 2 58
--  Studieväg 3 45
+\-  Studieväg 2 58
+\-  Studieväg 3 45
 
 För gymnasiala yrkeskurser och sammanhållna yrkesutbildningar som inte regleras inom
 samverkansavtal kring vuxnas lärande i Göteborgsregionen, tillämpas bilaterala förhandlingar mellan
@@ -3554,7 +3554,7 @@ Uppskattat antal lastbilsförare som kommer att anställas under de närmaste 6 
 
 Anställningsbehov
 Län           Antal 0–6 månader Antal 7–12 månader Total 12 månader
-i procent*
+i procent\*
 Stockholms län                                            22 %
 Uppsala län                                               40 %
 Södermanlands län                                         23 %
@@ -3580,7 +3580,7 @@ Västerbottens län                                         40 %
 Norrbottens län                                           25 %
 
 Totalt                                                    28 %
-*Procent av företagen i respektive län som bedömer att de behöver anställa de kommande 12 månaderna
+\*Procent av företagen i respektive län som bedömer att de behöver anställa de kommande 12 månaderna
 
 4
 
@@ -3636,7 +3636,7 @@ Uppskattat antal lastbilsförare som kommer att anställas eller sägas upp de n
 
 7 000
 6 310                        6 361
-*   5 952
+\*   5 952
 6 000
 
 5 044
@@ -3651,11 +3651,11 @@ Uppskattat antal lastbilsförare som kommer att anställas eller sägas upp de n
 
 790
 1 000 641   556                                               591
-350    *   262         219  276   326  288
+350    \*   262         219  276   326  288
 0
 2015 2016  2017 2018  2019 2020  2021  2022 2023  2024 2025
 
-Troligen anställa Troligen säga upp   * Resultat för bedömning av anställningsbehov
+Troligen anställa Troligen säga upp   \* Resultat för bedömning av anställningsbehov
 och uppsägningar saknas för 2018
 
 TYAs Trendindikator                                                       5
@@ -3677,7 +3677,7 @@ senaste året
 22 procent – mer än var femte – av alla nyanställda lastbilsförare
 en kvinna. Den utvecklingen ser vi också på Fordons- och
 transportprogrammet inriktning Transport där tjejerna i dag utgör
-33 procent* av alla elever.
+33 procent\* av alla elever.
 Södermanland och Östergötland sticker ut i statistiken med över
 40 procent nyanställda kvinnor under förra året i respektive län.
 
@@ -3715,7 +3715,7 @@ Norrbottens län  176        69        245        72 %      28 %
 Totalt          4 423      1 239      5 662      78 %      22 %
 ```
 
-* TYAs Skolledarrapport 2024/2025
+\* TYAs Skolledarrapport 2024/2025
 
 6
 
@@ -3811,7 +3811,7 @@ Bedömning av anställningsbehov 12 månader framåt
 6 310
 6 543
 2018
-*
+\*
 7 153
 2019
 5 952
@@ -3834,7 +3834,7 @@ Bedömning av anställningsbehov 12 månader framåt
 2025
 4 080
 0  1 000 2 000 3 000 4 000 5 000 6 000 7 000 8 000
-* Resultat för bedömning av anställningsbehov saknas för 2018
+\* Resultat för bedömning av anställningsbehov saknas för 2018
 TYAs Trendindikator                                                       9
 
 <!-- sida 103 -->
@@ -4095,14 +4095,14 @@ för att lyfta branschens behov och säkra dess samhällsviktiga funktion.
 För att lyckas krävs tydliga politiska beslut. Vi ser fem områden där
 beslutsfattare – i samverkan med branschen – kan göra verklig skillnad:
 
-1. Anställningsbarhet i fokus
+1\. Anställningsbarhet i fokus
 Utbildningsinnehåll, behörigheter och inriktningar
 måste anpassas till det regionala anställningsbehovet.
 Ökad samverkan och dialog krävs mellan utbildare och
 bransch för att säkerhetsställa anställningsbarheten samt
 branschens behov.
 
-2. Kvalitativ APL
+2\. Kvalitativ APL
 
 En yrkesutbildning kan inte bli relevant utan en
 kvalitativ praktik (APL). Elever behöver möta utbildade
@@ -4110,20 +4110,20 @@ handledare med insyn i utbildningsmålen. Det kan
 endast uppnås genom ett fördjupat samarbete mellan
 bransch och skola.
 
-3. Öka antal utbildningsplatser
+3\. Öka antal utbildningsplatser
 Utbildningsplatserna måste bli fler, både på
 gymnasiets transportprogram och Vuxenutbildningen.
 Dimensioneringen av utbildningsplatser måste ske
 i samverkan med branschen, allt för att undvika
 felaktiga antaganden och beslut.
 
-4. Ett yrke för alla
+4\. Ett yrke för alla
 Yrket behöver presenteras i ett tidigt skede i ungas liv.
 Det är viktigt att branschen finns med på mässor och
 skolors öppet hus för att synliggöra att detta är ett
 framtidsyrke med stora möjligheter.
 
-5. En bransch för alla
+5\. En bransch för alla
 
 Transportbranschen är en attraktiv bransch för alla.
 Vi som representerar branschen behöver uppmärk-
@@ -4154,9 +4154,9 @@ nuvarande och kommande  generationer.
 
 <!-- sida 110 -->
 
-|
-|
-|
+\|
+\|
+\|
 i
 
 Här får naturbruk bottenbetyg
@@ -4420,7 +4420,7 @@ naturbruksgymnasium
 
 Hur kan man få fler elever att
 stanna kvar i de gröna näringarna?
-- Genom att öka attraktionskraften
+\- Genom att öka attraktionskraften
 för yrket. Att arbetsvillkoren är :
 
 goda, löner som följer med och att
@@ -4446,7 +4446,7 @@ Sötåsen
 
 Hur kan man få fler elever att
 stanna kvar i de gröna näringarna?
-- Arbetsmiljön är prio och att
+\- Arbetsmiljön är prio och att
 ungdomar önskar oftast bli bekräf-
 tade i sina arbetsmoment direkt.
 Det är också en framgångsfaktor
@@ -6397,7 +6397,7 @@ patrik.hellberg@kungsbacka.se
 
 <!-- sida 158 -->
 
-#3  OKTOBER 2025                                              www.werket.se
+\#3  OKTOBER 2025                                              www.werket.se
 
 Månadsrapport
 
@@ -6424,7 +6424,7 @@ chef Malin Normann.       ESO varnar för ökad politisering. verksamhet åt?
 <!-- sida 159 -->
 
 3
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -6479,7 +6479,7 @@ bjorn@werket.nu | 070-888 26 01
 <!-- sida 160 -->
 
 3
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -6487,7 +6487,7 @@ Expertgruppen för studier i offentlig ekonomi (ESO)
 
 Politiken       flyttar    in  i kommunhuset
 
--  ESO     varnar       för   ökad      politisering
+\-  ESO     varnar       för   ökad      politisering
 
 Kommunchefer  som tidigare kandiderat för det styrande partiet har större chans
 
@@ -6568,7 +6568,7 @@ nas utifrån partipolitiska hänsyn riskerar och tydliggör ansvaret.
 <!-- sida 161 -->
 
 3
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -6664,7 +6664,7 @@ funktionssätt i praktiken.
 <!-- sida 162 -->
 
 3
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -6737,7 +6737,7 @@ med krav på att socialtjänstens arbete
 <!-- sida 163 -->
 
 3
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -6821,7 +6821,7 @@ skola, civilsamhälle, arbetsgivare. Det
 <!-- sida 164 -->
 
 3
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -6898,7 +6898,7 @@ Antal hemtjänsttagare per en omsorgspersonal
 <!-- sida 165 -->
 
 3
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -6982,7 +6982,7 @@ Andel omsorgspersonal som är undersköterskor
 <!-- sida 166 -->
 
 3
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7052,7 +7052,7 @@ ekonomi och medarbetare.
 <!-- sida 167 -->
 
 3
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7111,7 +7111,7 @@ Händelserna i Uddevalla har blivit ett
 brotten.
 säger hon.
 exempel på hur snabbt en till synes
-- Det finns ett problem där, säger Malin
+\- Det finns ett problem där, säger Malin
 Från kontroll till kultur                          fungerande verksamhet kan förlora
 Normann.
 fotfästet, men också hur en kommun kan
@@ -7149,7 +7149,7 @@ mun beslutat att skärpa rutinerna för
 <!-- sida 168 -->
 
 3
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7220,7 +7220,7 @@ I själva verket tyder siffrorna i rapporten VVeerroonniiccaa MMaaggnnuussssoonn
 <!-- sida 169 -->
 
 3
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7249,7 +7249,7 @@ i budgetpropositionen för 2026 finns mindre nogräknade aktörer som inte
 ingen sådan indexering med. Endast en följer regelverken, säger Hans Dahlgren,
 uppräkning med 1,5 procent. vd Humana Assistans i ett uttalande till
 Werket.
-- Det är oväntat, mot bakgrund av att
+\- Det är oväntat, mot bakgrund av att
 riksdagen uppmanat regeringen att Funktionsrätt Sverige anser att reger-
 utreda en indexering, och att det kommit ingspartierna backat från ett tydligt HHaannss DDaahhllggrreenn,, vvdd HHuummaannaa AAssssiissttaannss
 Fler barn  i tvångs-     Fler placeringar    i    Fler  barn  placeras
@@ -7262,7 +7262,7 @@ medan de frivilliga placeringarna enligt så stor risk att bli placerade i heldy
 socialtjänstlagen (SoL) minskar. Det visar som barn i områden med mycket goda svarar en ökning med drygt åtta procent
 Socialstyrelsens nya rapport Statistik om förutsättningar. Skillnaderna är stabila över jämfört med året innan. Det innebär att
 socialtjänstinsatser till barn och unga tid och syns både i frivilliga placeringar var femte placerat barn nu bor på HVB.
-2024. Under perioden 2020–2024 ökade enligt SoL och i tvångsvård enligt LVU. Samtidigt är familjehem fortsatt den van-
+2024\. Under perioden 2020–2024 ökade enligt SoL och i tvångsvård enligt LVU. Samtidigt är familjehem fortsatt den van-
 antalet barn i tvångsvård med 22 procent,          ligaste placeringsformen, med knappt 19
 Heldygnsvård är alltså betydligt vanligare i
 från omkring 9 000 till drygt 11 000 barn,         000 barn.
@@ -7280,7 +7280,7 @@ barn och unga.
 
 <!-- sida 170 -->
 
-#10 OKTOBER 2025                                              www.werket.se
+\#10 OKTOBER 2025                                              www.werket.se
 
 Månadsrapport
 
@@ -7306,7 +7306,7 @@ ter i senaste prognosen. studerar har minskat.     bättrad matchning och kontro
 <!-- sida 171 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7374,7 +7374,7 @@ bjorn@werket.nu | 070-888 26 01
 <!-- sida 172 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7443,7 +7443,7 @@ upp en dyster bild för Rusta och matcha inte infriats, och ofta har utfallet ha
 <!-- sida 173 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7520,7 +7520,7 @@ eller skola året efter ankomsten.
 <!-- sida 174 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7589,7 +7589,7 @@ den svenska produktiviteten. Eftersom
 <!-- sida 175 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7702,7 +7702,7 @@ fungerande matchning mellan arbetsgi-
 <!-- sida 176 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7765,7 +7765,7 @@ LOV som infördes 2009.
 handlingar av AUB i regionala kon-
 Två problem har identifierats:
 trakt för att minska risken för och På 90-talet präglades tidsandan av en
-1. Arbetsförmedlingens målgrupps- konsekvenserna av överprövningar. tilltro till marknadens potential att lösa
+1\. Arbetsförmedlingens målgrupps- konsekvenserna av överprövningar. tilltro till marknadens potential att lösa
 defintion och syftet med insatsen                komplexa problem. Sverige var mitt i en
 Kritiken pekar på ett, för månadsrap-
 behöver ses över. Allt för stor vikt             djup lågkonjunktur med stor inverkan på
@@ -7777,7 +7777,7 @@ riga svårighet att effektivt upphandla
 tilldelas insatsen.                              verkades kraftigt i krisen, en sektor som
 insatser och tjänster.
 annars brukar vara fredad i kristider.
-2. Myndigheten väljer att upphandla
+2\. Myndigheten väljer att upphandla
 Werket kan konstatera att myndigheten
 utbildningar med för stora värden.               Stora förhoppningar fanns om att privata
 över lång tid kämpat med att få till de
@@ -7789,7 +7789,7 @@ prövningar från leverantörer som                 med nya arbetssätt, skulle 
 <!-- sida 177 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7860,7 +7860,7 @@ effektivare och bättre jobb än offentli-
 <!-- sida 178 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -7884,7 +7884,7 @@ lande befintlig konkurrens inom välfärds-
 utbetalningar då också förhindras kan
 sektorn:
 nettokostnaden ändå minska.
-1. Kvasimarknader bör regelbundet
+1\. Kvasimarknader bör regelbundet
 Kommissionen förväntar sig att be-
 utvärderas och omregleras i syfte
 dömningarna har positiva effekter på
@@ -7898,7 +7898,7 @@ fram inom sådant arbete bör delas
 som levereras. Medborgare som nyttjar
 till allmänheten.
 tjänsterna kan därför också förväntas
-2. Det bör generellt ställas höga krav påverkas positivt.
+2\. Det bör generellt ställas höga krav påverkas positivt.
 på aktörer för att få delta på en kva-
 Avslutningsvis
 simarknad. Att kraven uppfylls bör
@@ -7941,7 +7941,7 @@ utbildning påverkades mindre. inkomster eller arbetsmarknadsutfall.
 <!-- sida 179 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -8035,7 +8035,7 @@ yrkesprogram som ett år efter avslutad
 <!-- sida 180 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -8084,7 +8084,7 @@ inte. Myndigheten konstaterar själv att sanktionsärenden har digitaliserats oc
 andelen arbetssökande som fått jobb strukturerats för att kunna följas upp och sanktionssystem. Inte minst
 inom 90 dagar efter beslut om intervju- automatiskt. Myndigheten kan nu ma- krävs dialog och konkret stöd
 resa har minskat under både 2024 och skinellt identifiera om en arbetssökande i att förstå vilka jobb som är möj-
-2025. Förklaringen sägs ligga i konjunk- sökt ”fel” typ av jobb. liga, hur långt man rimligen kan
+2025\. Förklaringen sägs ligga i konjunk- sökt ”fel” typ av jobb. liga, hur långt man rimligen kan
 turen och i att fler arbetssökande nu                  pendla och vilka yrken som går
 Arbetsförmedlingen understryker i
 deltar i längre program.                               att växla till.
@@ -8102,7 +8102,7 @@ stå till arbetsmarknadens förfogande. En resultaten återstår att se. genom t
 <!-- sida 181 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
@@ -8166,7 +8166,7 @@ Statskontoret och fackliga beräkningar. seminariegrupper och hög lärartäthet
 <!-- sida 182 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -8251,7 +8251,7 @@ statistik
 <!-- sida 184 -->
 
 01
-#
+\#
 REBOTKO
 5202
 statistik
@@ -8314,7 +8314,7 @@ Förändring 12 mån: −5 376 platser Förändring 12 mån: 2,7 enheter
 <!-- sida 185 -->
 
 01
-#
+\#
 REBOTKO
 5202
 statistik
@@ -8372,7 +8372,7 @@ Valdemarsvik 0,02
 <!-- sida 186 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -8389,7 +8389,7 @@ statistik
 <!-- sida 187 -->
 
 01
-#
+\#
 REBOTKO
 5202
 statistik
@@ -8447,7 +8447,7 @@ Utvecklingen av antalet leverantörer och deltagare över tid i ROM2
 <!-- sida 188 -->
 
 01
-#
+\#
 REBOTKO
 5202
 statistik
@@ -8510,7 +8510,7 @@ Viktat resultatmått, sep 2025. Leverantörer med minst 100 deltagare under uppf
 <!-- sida 189 -->
 
 01
-#
+\#
 REBOTKO
 5202
 statistik
@@ -8578,7 +8578,7 @@ De 30 största ROM2-leverantörerna
 <!-- sida 190 -->
 
 01
-#
+\#
 REBOTKO
 5202
 statistik
@@ -8645,7 +8645,7 @@ STA      KVL      IPSU (A & B)
 <!-- sida 191 -->
 
 01
-#
+\#
 REBOTKO
 5202
 WERKET  MÅNADSRAPPORT
@@ -8662,7 +8662,7 @@ statistik
 <!-- sida 192 -->
 
 01
-#
+\#
 REBOTKO
 5202
 statistik
@@ -8724,7 +8724,7 @@ De 15 största leverantörerna av arbetsmarknadsutbildning
 <!-- sida 193 -->
 
 01
-#
+\#
 REBOTKO
 5202
 statistik
@@ -8784,7 +8784,7 @@ Kvarstående och nya deltagare i arbetsmarknadsutbildning efter utbildningsinrik
 <!-- sida 194 -->
 
 01
-#
+\#
 REBOTKO
 5202
 statistik
@@ -8884,7 +8884,7 @@ gymnasiumocharbetsmarknad@kungsbacka.se
 
 Tillsyn av gymnasieskolan Elof Lindälvs Gymnasium Enhet 4 i Kungsbacka
 kommun.
-___________________
+\___________________
 
 Beslut
 
@@ -8905,7 +8905,7 @@ skollagen inte överklagas.
 Kungsbacka kommun ska vidta följande åtgärder
 
 Utredning av särskilt stöd
-1. Se till att det för varje anmälan om behov av särskilt stöd för en elev
+1\. Se till att det för varje anmälan om behov av särskilt stöd för en elev
 som inkommer till rektorn, eller som redan har inkommit men där
 utredning ännu inte har påbörjats, inleds en utredning om elevens
 behov av särskilt stöd. Rektorn ska dokumentera hur många sådana
@@ -8916,7 +8916,7 @@ Skolinspektionen i samband med huvudmannens redovisning av
 vidtagna åtgärder (3 kap. 7 § skollagen).
 Anmälan av kränkande behandling
 
-1. Se till att rektorn, vid minst ett tillfälle innan den 20 januari 2026
+1\. Se till att rektorn, vid minst ett tillfälle innan den 20 januari 2026
 klargör skyldigheten för all skolpersonal att de vid kännedom om
 att en elev upplever sig utsatt för kränkande behandling ska göra en
 anmälan till rektorn. Huvudmannen eller den som huvudmannen
@@ -8932,7 +8932,7 @@ SKOLINSPEKTIONEN                               Sida 2 (10)
 
 samband med huvudmannens redovisning av vidtagna åtgärder (2
 kap. 34 a § och 6 kap. 10 § skollagen).
-2. Se till att personal som får kännedom om att en elev har ansett sig
+2\. Se till att personal som får kännedom om att en elev har ansett sig
 ha blivit utsatt för kränkande behandling i samband med
 verksamheten anmäler detta till rektorn. Rektorn ska dokumentera
 hur många sådana anmälningar som inkommit och som anmälts till
@@ -8942,7 +8942,7 @@ huvudmannens redovisning av vidtagna åtgärder (6 kap. 5 och 10
 §§ skollagen).
 Rutiner för och användandet av mobiltelefoner m.m.
 
-1. Se till att informera personal och elever att mobiltelefoner och
+1\. Se till att informera personal och elever att mobiltelefoner och
 annan elektronisk kommunikationsutrustning endast får användas
 i undervisningen enligt lärarens instruktioner i syfte att främja
 elevernas utveckling och lärande, eller om de utgör extra
@@ -8951,7 +8951,7 @@ särskilda skäl. Huvudmannen ska dokumentera hur och när
 informationen har förmedlats. Denna dokumentation ska ges in till
 Skolinspektionen i samband med huvudmannens redovisning av
 vidtagna åtgärder (5 kap. 4 a § skollagen).
-2. Se till att utarbeta skriftliga rutiner för hanteringen av
+2\. Se till att utarbeta skriftliga rutiner för hanteringen av
 omhändertagande av mobiltelefoner och annan elektronisk
 kommunikationsutrustning där det framgår hur insamlade
 mobiltelefoner eller annan elektronisk kommunikationsutrustning
@@ -9533,7 +9533,7 @@ Prognos   till  till
 2024  2025
 Kommunen                  464  756  231  286     477   209    458
 
-*) Exklusive jämförelsestörande poster
+\*) Exklusive jämförelsestörande poster
 
 Kommunens ekonomiska resultat för perioden är 458 miljoner kronor, vilket är betydligt högre än
 föregående år. Detta beror bland annat på minskade kostnader för pensioner samt lägre finansiella
@@ -9558,7 +9558,7 @@ Kungsbacka kommun          Delårsbokslut 2025                   5
 
 [Tabell 209-1](handlingar.tabeller/209-1.csv)
 
-| Strukturellt resultat*<br>Resultatets andel av skatter &<br>statsbidrag % | 494<br>8,4 | 572<br>13,1 | 276<br>3,8 | 211<br>4,6 | 454<br>7,5 | 219<br>5,4 | 442<br>10,8 |
+| Strukturellt resultat\*<br>Resultatets andel av skatter &<br>statsbidrag % | 494<br>8,4 | 572<br>13,1 | 276<br>3,8 | 211<br>4,6 | 454<br>7,5 | 219<br>5,4 | 442<br>10,8 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Strukturellt resultats andel av<br>skatter & statsbidrag % | 9,0 | 9,8 | 4,7 | 3,4 | 7,1 | 5,6 | 10,4 |
 
@@ -9823,22 +9823,22 @@ pågår för att motverka trenden.
 
 Indikator                          2022  2023  2024 2025  Målsättning
 2025
-Antal påbörjade bostäder            848  165   213  59***  öka
+Antal påbörjade bostäder            848  165   213  59\*\*\*  öka
 
 Kungsbacka kommun          Delårsbokslut 2025                  10
 
 [Tabell 214-1](handlingar.tabeller/214-1.csv)
 
-| Antal färdigställda bostäder<br>Anmälda brott mot brottsbalken per invånare,<br>antal/100 000 invånare (BRÅ) | 363<br>5 691 | 319<br>6 475 | 324<br>6 541 | 299***<br>** | öka<br>minska |
+| Antal färdigställda bostäder<br>Anmälda brott mot brottsbalken per invånare,<br>antal/100 000 invånare (BRÅ) | 363<br>5 691 | 319<br>6 475 | 324<br>6 541 | 299\*\*\*<br>\*\* | öka<br>minska |
 | --- | --- | --- | --- | --- | --- |
-| Brukarbedömning hemtjänst äldreomsorg, helhetssyn<br>(Kolada)<br>Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (Kolada) | 90 %<br>74 % | 91 %<br>76 % | 88 %<br>76 % | **<br>** | öka<br>öka |
-| Brukarbedömning individ- och familjeomsorg, totalt –<br>helhetssyn (Kolada) | 88 % | - * | 95 % | ** | öka |
+| Brukarbedömning hemtjänst äldreomsorg, helhetssyn<br>(Kolada)<br>Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (Kolada) | 90 %<br>74 % | 91 %<br>76 % | 88 %<br>76 % | \*\*<br>\*\* | öka<br>öka |
+| Brukarbedömning individ- och familjeomsorg, totalt –<br>helhetssyn (Kolada) | 88 % | - \* | 95 % | \*\* | öka |
 
 <!-- sida 215 -->
 
-*) Brukarbedömning har inte gjorts det här året.
-**) Ännu ej publicerad
-***) Halvårssiffror
+\*) Brukarbedömning har inte gjorts det här året.
+\*\*) Ännu ej publicerad
+\*\*\*) Halvårssiffror
 
 2.5.2 Mål: En hållbar utveckling och en hälsosam miljö
 
@@ -9906,7 +9906,7 @@ kränkningar minskar. Mätningar i mellanstadieklasser visar på positiva effekt
 I enkäten som Göteborgsregionen, GR, skickade ut till elever 2025 svarade 60 procent av
 gymnasieeleverna att de mått mycket bra eller ganska bra under de senaste sex månaderna. Detta
 innebär en marginell ökning jämfört med 2024, men samtidigt en minskning jämfört med 2022 och
-2023. Det pågår ett systematiskt och tvärsektoriellt arbete för att motverka psykisk ohälsa, men vi
+2023\. Det pågår ett systematiskt och tvärsektoriellt arbete för att motverka psykisk ohälsa, men vi
 kan inte förvänta att effekterna syns omgående och det är nödvändigt med uppföljning på längre
 sikt för att kunna se resultatet.
 Vistelse i naturen bidrar till förbättrad psykisk hälsa, något som visar på de mervärden som vi kan
@@ -9929,30 +9929,30 @@ uppmärksamhet vilket stärker kommunens profil som nyskapande och modig.
 
 Indikator                        2022  2023   2024  2025  Målsättning
 2025
-Kommunens verksamheters elförbrukning, total * * *    *    minska
+Kommunens verksamheters elförbrukning, total \* \* \*    \*    minska
 (kWh)
 
 Kungsbacka kommun          Delårsbokslut 2025                  12
 
 [Tabell 216-1](handlingar.tabeller/216-1.csv)
 
-| Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada)<br>Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området (%) | 2,27<br>21,2 | *<br>24,1 | *<br>26,5 | *<br>* | minska<br>öka |
+| Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada)<br>Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området (%) | 2,27<br>21,2 | \*<br>24,1 | \*<br>26,5 | \*<br>\* | minska<br>öka |
 | --- | --- | --- | --- | --- | --- |
-| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%)<br>Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 94,6<br>15 | 96,2<br>15 | 97,5<br>* | 97,2<br>* | öka<br>minska |
-| Matens klimatpåverkan från de offentliga måltiderna<br>ska minska räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. | 1,86 | 1,69 | 1,85 | 1,44*** | minska |
+| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%)<br>Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 94,6<br>15 | 96,2<br>15 | 97,5<br>\* | 97,2<br>\* | öka<br>minska |
+| Matens klimatpåverkan från de offentliga måltiderna<br>ska minska räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. | 1,86 | 1,69 | 1,85 | 1,44\*\*\* | minska |
 
 <!-- sida 217 -->
 
 Indikator                        2022  2023   2024  2025  Målsättning
 2025
-Antal kemiska produkter med utfasningsämnen, 113 115 151 167** minska
+Antal kemiska produkter med utfasningsämnen, 113 115 151 167\*\* minska
 inklusive hormonstörande ämnen på SIN-listan ska
 minska i kommunens verksamheter. 2021 var
 antalet 124 (KEMgroup PRO)
 
-*) Ännu ej publicerad.
-**) 2025-09-09
-***) Januari-juli
+\*) Ännu ej publicerad.
+\*\*) 2025-09-09
+\*\*\*) Januari-juli
 
 2.5.3 Mål: Bästa företagsklimatet i Västsverige
 
@@ -9975,11 +9975,11 @@ Kungsbacka kommun          Delårsbokslut 2025                  13
 
 [Tabell 217-1](handlingar.tabeller/217-1.csv)
 
-| Avfall från hushåll ska minska med 30 % per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70.<br>Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 103<br>115 | 92<br>223 | *<br>* | *<br>* | minska<br>minska |
+| Avfall från hushåll ska minska med 30 % per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70.<br>Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 103<br>115 | 92<br>223 | \*<br>\* | \*<br>\* | minska<br>minska |
 | --- | --- | --- | --- | --- | --- |
-| Ekologisk status i Kungsbackafjorden (VISS)<br>Skyddad natur totalt, andel (Kolada) | måttlig<br>7,4 % | måttlig<br>7,4 % | *<br>* | *<br>* | öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada)<br>Andelen återbrukade möbler | 18,5 %<br>* | *<br>* | *<br>* | *<br>* | öka<br>öka |
-| Ungas hälsa i årskurs 4 och 8 – Flickor.<br>(Elevhälsan i Kungsbacka utvecklar metod utifrån<br>hälsosamtal med elever)<br>Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan<br>i Kungsbacka utvecklar metod utifrån hälsosamtal<br>med elever) | Åk 4: 88%,<br>Åk 8: 72%,<br>Åk 1<br>gymnasiet:<br>65%<br>Åk 4: 90%<br>Åk 8: 93%<br>Åk 1<br>gymnasiet:<br>85% | Åk 4: 85%,<br>Åk 8: 79%,<br>Åk 1<br>gymnasiet:<br>73%<br>Åk 4: 91%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>86% | Åk 4: 85%,<br>Åk 8: 73%,<br>Åk 1<br>gymnasiet:<br>75%<br>Åk 4: 89%<br>Åk 8: 89%<br>Åk 1<br>gymnasiet:<br>88% | *<br>* | öka<br>öka |
+| Ekologisk status i Kungsbackafjorden (VISS)<br>Skyddad natur totalt, andel (Kolada) | måttlig<br>7,4 % | måttlig<br>7,4 % | \*<br>\* | \*<br>\* | öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada)<br>Andelen återbrukade möbler | 18,5 %<br>\* | \*<br>\* | \*<br>\* | \*<br>\* | öka<br>öka |
+| Ungas hälsa i årskurs 4 och 8 – Flickor.<br>(Elevhälsan i Kungsbacka utvecklar metod utifrån<br>hälsosamtal med elever)<br>Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan<br>i Kungsbacka utvecklar metod utifrån hälsosamtal<br>med elever) | Åk 4: 88%,<br>Åk 8: 72%,<br>Åk 1<br>gymnasiet:<br>65%<br>Åk 4: 90%<br>Åk 8: 93%<br>Åk 1<br>gymnasiet:<br>85% | Åk 4: 85%,<br>Åk 8: 79%,<br>Åk 1<br>gymnasiet:<br>73%<br>Åk 4: 91%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>86% | Åk 4: 85%,<br>Åk 8: 73%,<br>Åk 1<br>gymnasiet:<br>75%<br>Åk 4: 89%<br>Åk 8: 89%<br>Åk 1<br>gymnasiet:<br>88% | \*<br>\* | öka<br>öka |
 
 [Tabell 217-2](handlingar.tabeller/217-2.csv)
 
@@ -10043,14 +10043,14 @@ Kungsbacka kommun          Delårsbokslut 2025                  14
 Målsättning
 Indikator                           2022 2023  2024  2025
 2025
-Insikt, SKR:s servicemätning av kommunernas 70 67 64  *     öka
+Insikt, SKR:s servicemätning av kommunernas 70 67 64  \*     öka
 myndighetsutövning till företag. Nöjd kund-index utifrån
 sammanvägt betygsindex 0–100, för hur företag i
 kommunen bedömer Kungsbacka kommuns
 myndighetsutövning, vilken är en viktig del av
 företagsklimatet.
 
-*) Ännu ej publicerad.
+\*) Ännu ej publicerad.
 
 2.5.4 Mål: I Kungsbacka utvecklas vi hela livet
 
@@ -10087,10 +10087,10 @@ Kungsbacka kommun          Delårsbokslut 2025                  15
 
 [Tabell 219-1](handlingar.tabeller/219-1.csv)
 
-| Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag<br>bedömer företagsklimatet i Kungsbacka kommun.<br>Sysselsatt dagbefolkning, antal (Kolada) | 3,4<br>28 485 | 3,4<br>28 586 | 3,8<br>* | 3,6<br>* | öka<br>öka |
+| Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag<br>bedömer företagsklimatet i Kungsbacka kommun.<br>Sysselsatt dagbefolkning, antal (Kolada) | 3,4<br>28 485 | 3,4<br>28 586 | 3,8<br>\* | 3,6<br>\* | öka<br>öka |
 | --- | --- | --- | --- | --- | --- |
-| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen<br>Företagsamhet, andel av invånare 16 - 74 år | 4,9 %<br>18 % | 4,9 %<br>19 % | *<br>* | *<br>* | 5,0 %<br>öka |
-| Antal nystartade företag per 1 000 invånare 16 - 64 år,<br>etableringsfrekvens (Kolada) | 12,8 | 10,3% | * | * | öka |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen<br>Företagsamhet, andel av invånare 16 - 74 år | 4,9 %<br>18 % | 4,9 %<br>19 % | \*<br>\* | \*<br>\* | 5,0 %<br>öka |
+| Antal nystartade företag per 1 000 invånare 16 - 64 år,<br>etableringsfrekvens (Kolada) | 12,8 | 10,3% | \* | \* | öka |
 
 <!-- sida 220 -->
 
@@ -10131,19 +10131,19 @@ betygspoängen, men därefter har det skett en viss minskning.
 Målsättning
 Indikator                           2022 2023  2024 2025
 2025
-Genomsnittligt meritvärde för grundskolans årskurs 9. 237 237 238 * öka
+Genomsnittligt meritvärde för grundskolans årskurs 9. 237 237 238 \* öka
 Meritvärdet utgörs av summan av de 17 bästa betygen
 i elevens slutbetyg och kan max vara 340. (Kolada)
 
-*) Ännu ej publicerad
+\*) Ännu ej publicerad
 
 Kungsbacka kommun          Delårsbokslut 2025                  16
 
 [Tabell 220-1](handlingar.tabeller/220-1.csv)
 
-| Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20.<br>(Kolada)<br>Arbetslöshet 16–24 år i kommunen, procent (Kolada) | 14,5<br>1,7 | 14,3<br>1,7 | 14,0<br>2,3 | *<br>* | öka<br>minska |
+| Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20.<br>(Kolada)<br>Arbetslöshet 16–24 år i kommunen, procent (Kolada) | 14,5<br>1,7 | 14,3<br>1,7 | 14,0<br>2,3 | \*<br>\* | öka<br>minska |
 | --- | --- | --- | --- | --- | --- |
-| Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada)<br>Andel vuxna personer som inte återkommer till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd, procent (Kolada) | 376<br>69 | 325<br>73 | 306<br>75 | *<br>* | öka |
+| Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada)<br>Andel vuxna personer som inte återkommer till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd, procent (Kolada) | 376<br>69 | 325<br>73 | 306<br>75 | \*<br>\* | öka |
 
 <!-- sida 221 -->
 
@@ -10192,11 +10192,11 @@ funktionaliteten och ersätta manuella rutiner med digitala system.
 Målsättning
 Indikator                        2022  2023  2024 2025
 2025
-Hållbart medarbetarengagemang, ett index för 78 76 75 *    öka
+Hållbart medarbetarengagemang, ett index för 78 76 75 \*    öka
 medarbetarnas samlade uppfattning om områdena
 motivation, ledarskap och styrning, skala 1–100
 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 180. 114 122 124 * öka
+Jämställdhetsindex, Jämix. Antal poäng av max 180. 114 122 124 \* öka
 Jämix beräknas utifrån nio nyckeltal med skala 1–20
 
 Kungsbacka kommun          Delårsbokslut 2025                  17
@@ -10208,7 +10208,7 @@ Indikator                        2022  2023  2024 2025
 2025
 och visar hur jämställda arbetsvillkor, arbetsmiljö och
 anställningsvillkor är i organisationen
-*) Ännu ej publicerad
+\*) Ännu ej publicerad
 
 2.5.6 Direktiv: Innovation och omställning till nya arbetssätt
 
@@ -10321,10 +10321,10 @@ Kungsbacka kommun          Delårsbokslut 2025                  19
 Målsättning
 Indikator                         2023  2024  2025
 2025
-Andel innovationsprojekt som drivits under året ** - - * öka
-Andel av bruttokostnaden som avsätts för - -   *      öka
-verksamhetsutveckling och innovation *
-*) Följs upp i årsbokslutet
+Andel innovationsprojekt som drivits under året \*\* - - \* öka
+Andel av bruttokostnaden som avsätts för - -   \*      öka
+verksamhetsutveckling och innovation \*
+\*) Följs upp i årsbokslutet
 
 2.5.7 Direktiv: Civil beredskap
 Kommunfullmäktige beslutade i juni 2024 att avsätta tio miljoner kronor under 2025 för att stärka
@@ -10507,8 +10507,8 @@ Genomsnitt
 2022   2023   2024           2026     (Sista årets soliditet ska vara högre än
 (augusti)
 genomsnittet för perioden 2022–2026
-29,3   32,3  33,6       *        *                            *
-*) Soliditetsmåttet för koncernen redovisas i årsbokslutet
+29,3   32,3  33,6       \*        \*                            \*
+\*) Soliditetsmåttet för koncernen redovisas i årsbokslutet
 Soliditet i kommunen (procent)
 
 Genomsnitt
@@ -10810,7 +10810,7 @@ av elever. Övriga verksamheter visar plusresultat. Etableringsverksamhetens pos
 beror på lägre kostnader för köp av externa platser och lägre kostnader för kompletterande
 ekonomiskt bistånd. Man räknar även med ett plusresultat för ekonomiskt bistånd. Detta beror på
 utbetalningarna fortsatt ligger på en låg nivå, även om man kan se en viss ökning jämfört med år
-2024.
+2024\.
 
 Nämnden för Kultur & Fritid prognostiserar ett positivt resultat på 1,2 miljoner kronor.
 Förklaringar är vakanser inom personalen och återbetalning av tidsbegränsade bidrag. De har
@@ -10903,7 +10903,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  32
 | Kultur & Fritid | 8,3 | 2,6 | 31,4 | 26,3 | 5,2 | 16,5% |
 | Förskola & Grundskola | 5,0 | 5,0 | 15,0 | 15,0 | 0,0 | 0,0% |
 | Teknik Skatt | 39,4 | 33,8 | 132,4 | 86,6 | 45,8 | 34,6% |
-| -varav Teknik Skatt<br>exploatering<br>(anläggningstillgångar)* | 13,3 | 11,1 | 81,4 | 35,6 | 45,9 | 56,3% |
+| -varav Teknik Skatt<br>exploatering<br>(anläggningstillgångar)\* | 13,3 | 11,1 | 81,4 | 35,6 | 45,9 | 56,3% |
 | Service | 138,9 | 86,5 | 301,8 | 254,8 | 47,0 | 15,6% |
 | -varav finansiell leasing | 0,3 | 0,5 | 0,0 | 1,7 | -1,7 |  |
 | Byggnadsnämnden | 0,1 | 0,1 | 0,3 | 0,3 | 0,0 | 0,0% |
@@ -10911,7 +10911,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  32
 | Vård & Omsorg | 1,8 | 2,2 | 21,3 | 11,3 | 10,0 | 47,0% |
 | Finansiering lokalplan | 0,0 | 0,0 | 150,7 | 14,5 | 136,2 | 90,4% |
 | Finans | 0,0 | 0,0 | -16,4 | 18,6 | -35,0 | 213,4% |
-| Exploateringsverksamhet*<br>(Anläggningstillgångar) | 62,4 | 6,6 | 55,8 | 33,0 | 22,8 | 40,9% |
+| Exploateringsverksamhet\*<br>(Anläggningstillgångar) | 62,4 | 6,6 | 55,8 | 33,0 | 22,8 | 40,9% |
 | Summa skattefinansierad<br>verksamhet | 257,0 | 140,5 | 701,1 | 468,7 | 232,4 | 33,1% |
 | Vatten & Avlopp | 201,9 | 232,2 | 608,4 | 517,1 | 91,2 | 15,0% |
 | Avfall & Återvinning | 1,1 | 0,7 | 14,8 | 3,6 | 11,2 | 75,9% |
@@ -11047,7 +11047,7 @@ Delårsrapport 2025 för Kungsbacka kommun
 Beslut
 
 Kommunfullmäktige godkänner delårsrapport för Kungsbacka kommun per augusti
-2025.
+2025\.
 
 Kommunfullmäktige uppmanar de nämnder som prognostiserar underskott att
 hantera dessa i enlighet med gällande ekonomistyrprinciper.
@@ -11719,11 +11719,11 @@ b) De risker ni finner ska ni dokumentera skriftligt. Av riskbedömningen ska
 det framgå vilka riskerna är. För varje risk ska det framgå om den är allvarlig.
 
 c) Ni ska, utifrån resultatet av riskbedömningen:
-- ordna arbetet så att risken för våld, eller hot om våld, förebyggs så långt som
+\- ordna arbetet så att risken för våld, eller hot om våld, förebyggs så långt som
 möjligt,
-- upprätta säkerhetsrutiner för det arbete som kan medföra risk för våld, eller
+\- upprätta säkerhetsrutiner för det arbete som kan medföra risk för våld, eller
 hot om våld, och
-- se till att de arbetstagare som berörs av riskerna känner till säkerhetsrutinerna.
+\- se till att de arbetstagare som berörs av riskerna känner till säkerhetsrutinerna.
 
 Säkerhetsrutinerna ska följas upp och uppdateras om något ändras, så att de
 alltid är aktuella.
@@ -11731,9 +11731,9 @@ alltid är aktuella.
 De åtgärder som ni inte genomför omedelbart ska ni föra in i en skriftlig
 handlingsplan. Av handlingsplanen ska det framgå:
 
-- vad som ska göras,
-- när åtgärderna ska vara gjorda, och
-- vem som ska se till att de görs.
+\- vad som ska göras,
+\- när åtgärderna ska vara gjorda, och
+\- vem som ska se till att de görs.
 
 <!-- sida 254 -->
 

@@ -918,11 +918,11 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Minnesanteckningar från anpassad gymnasieskola
-2. Minnesanteckningar från Fordon- och transportprogrammet med inriktning
+1\. Minnesanteckningar från anpassad gymnasieskola
+2\. Minnesanteckningar från Fordon- och transportprogrammet med inriktning
 
 Transport
-3. Minnesanteckningar Verksamhetsråd arbetsmarknad
+3\. Minnesanteckningar Verksamhetsråd arbetsmarknad
 
 Helena Nyborg (KD) redovisar från programråd anpassad gymnasieskola.
 Övergången från Mobilen till lokalerna på Elof Lindälv har gått väldigt bra och alla
@@ -970,10 +970,10 @@ eller fastställer delegeringsbesluten. Däremot får nämnden återta lämnad d
 eller föregripa ett beslut i ett enskilt ärende av den som fått beslutanderätten genom
 att själva ta över ärendet och fatta beslut. Under perioden har följande beslut tagits.
 
-* Sju avstängningar enligt 5 kap 17 § skollagen
+\* Sju avstängningar enligt 5 kap 17 § skollagen
 
-* Beslut enligt 4 kap 1, 4 §§ socialtjänstlagen (se bifogad lista)
-* Två anställningar har gjorts (se bifogad lista)
+\* Beslut enligt 4 kap 1, 4 §§ socialtjänstlagen (se bifogad lista)
+\* Två anställningar har gjorts (se bifogad lista)
 
 Noteras ska att i november månad har enheten för myndighet bytt
 verksamhetssystem och därför är listan ej fullständig för november. Redovisning av
@@ -1007,15 +1007,15 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Dom från förvaltningsrätten gällande vite
+1\. Dom från förvaltningsrätten gällande vite
 
-2. Beslut gällande ny styrmodell
-3. Rapport från dataskyddsombud
+2\. Beslut gällande ny styrmodell
+3\. Rapport från dataskyddsombud
 
-4. Bilaga till rapport från dataskyddsombud
-5. Beslut från Skolinspektionen gällande Aniaragymnasiet i Göteborg
+4\. Bilaga till rapport från dataskyddsombud
+5\. Beslut från Skolinspektionen gällande Aniaragymnasiet i Göteborg
 
-6. FSG protokoll december
+6\. FSG protokoll december
 
 Beslutsgång
 

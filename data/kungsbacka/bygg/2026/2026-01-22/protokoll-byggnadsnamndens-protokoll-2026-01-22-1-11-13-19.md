@@ -512,7 +512,7 @@ Byggnadsnämnden beslutade den 15 maj 2025, med stöd av delegering, att
 genomföra granskning.
 
 Planförslaget har varit utställt för granskning under tiden 20 maj 2025 till den 10 juni
-2025. Under granskningstiden kom det in 19 skrivelser. De inkomna synpunkterna
+2025\. Under granskningstiden kom det in 19 skrivelser. De inkomna synpunkterna
 berör i huvudsak höjd och placering på föreslagen bebyggelse, anslutningar till
 området, påverkan på djur och natur, hantering av geoteknik, dagvatten och skyfall.
 För mer information om synpunkternas innehåll, se vidare i granskningsutlåtandet.

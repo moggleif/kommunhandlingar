@@ -302,10 +302,10 @@ visar att ett utvecklat medarbetarskap främjar inre motivation, arbetsglädje, 
 välmående, trygghet, öppenhet och personlig utveckling
 
 Projektets leveranser förväntas bidra till följande nyttor:
--  Högre HME index i kategorin motivation i den årliga medarbetarenkäten och mer
+\-  Högre HME index i kategorin motivation i den årliga medarbetarenkäten och mer
 löpande genom pulsmätningar.
 
--  Bidra till en förflyttning inom de olika hörnstenarna i arbetsplatskulturen (högre
+\-  Bidra till en förflyttning inom de olika hörnstenarna i arbetsplatskulturen (högre
 grad av efterlevnad).
 
 Beslutsgång
@@ -703,14 +703,14 @@ Sammanfattning av ärendet
 Förvaltningschef Julia Tryggvadottir Tollesson och biträdande förvaltningschef Johan
 Burman informerar om,
 
--  Partnerdialoger med förvaltningarna för Bygg & Miljö, Individ & Familjeomsorg
+\-  Partnerdialoger med förvaltningarna för Bygg & Miljö, Individ & Familjeomsorg
 och Gymnasium & Arbetsmarknad.
--  Hanhalsholme.
+\-  Hanhalsholme.
 
--  Service på Kungsbacka Live på Kungsmässan.
--  Omlastningscentral i Duvehed.
+\-  Service på Kungsbacka Live på Kungsmässan.
+\-  Omlastningscentral i Duvehed.
 
--  Garantiärende Badhuset.
+\-  Garantiärende Badhuset.
 
 Beslutsgång
 

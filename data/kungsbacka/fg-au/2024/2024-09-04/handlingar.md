@@ -113,11 +113,11 @@ Vision - Elise Holmberg
 
 Plats och tid: VM Lagan 2024-08-13 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 Nytt utkast till protokoll för mötet 2024-06-04 är utskickat och läggs i underskriftsportalen för digital
 signering.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 
 Arbetsgivaren redovisar ärenden inför arbetsutskott och nämndsammanträde i augusti.
 
@@ -140,7 +140,7 @@ KUNGSBACKA  KOMMUN
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 IST fungerar på alla skolor även på Maleviksskolan, Särö skola och Kollaskolan.
 
 Tilläggsbudget på 500 Mkr, sammanlagt 4,8 Mkr varav 3,4 Mkr ska gå till Förskola & Grundskola.
@@ -154,19 +154,19 @@ för chefer och medarbetare (valbara och obligatoriska).
 
 Beslut: Att anteckna informationen.
 
-4. Stabsorganisation (om aktuellt)
+4\. Stabsorganisation (om aktuellt)
 
 Ny registrator efter Reneé Rydberg som går i pension 30 september. Fredrik Ajell kommer att ersätta
 Reneé och har börjat sin anställning.
 
 Beslut: Att anteckna informationen.
 
-5. Nya PRAO, Anneli Sackelius, utvecklare Kvalitet och Utveckling
+5\. Nya PRAO, Anneli Sackelius, utvecklare Kvalitet och Utveckling
 Information kring det nya upplägget av prao som gäller från och med vårterminen 2025.
 
 Beslut: Att anteckna informationen.
 
-6. Sätta betyg för en kollega som är obehörig enligt skollag (Sv lärare från juni)
+6\. Sätta betyg för en kollega som är obehörig enligt skollag (Sv lärare från juni)
 Sveriges lärare vill veta hur det funkar när betygssättande lärare ska sätta betyg för obehörig, hur blir
 det rätt utifrån gällande lagstiftning?
 
@@ -187,7 +187,7 @@ frågan inför planering av kategoriträff med rektorerna för grundskolan.
 
 Beslut: Dialog/ information
 
-7. Studiedagar (Sveriges lärare)
+7\. Studiedagar (Sveriges lärare)
 Sveriges lärare undrar varför antalet studiedagar detta läsår är fyra stället för fem.
 
 Arbetsgivarens svar: Enligt skollagen så får förvaltningen lägga ut max fem studiedagar under ett
@@ -203,7 +203,7 @@ tar beslut om studiedag i maj och det får man som rektor inkomma med skriftlig 
 
 Beslut: Dialog/ information
 
-8. Hur väcker vi ett ärende för förvaltningssamverkan? (Sveriges skolledare)
+8\. Hur väcker vi ett ärende för förvaltningssamverkan? (Sveriges skolledare)
 
 Fråga från Sveriges Skolledare.
 Arbetsgivarens svar; Man skriver in sin fråga i dagordning i samarbetsrummet och om vi kan bereda
@@ -212,7 +212,7 @@ samarbetsrummet.
 
 Beslut: Dialog/ information
 
-9. Tidig info/dialog
+9\. Tidig info/dialog
 Lokalutredning och lokalkoncept.
 Det är lägligt att ta frågan för beslut i september på FSG eftersom den ska upp på nämnd i oktober.
 Vi får boka in ett extra möte för information där frågan förhandlas.
@@ -247,7 +247,7 @@ Sofia Kareliusson                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 Skolledare
@@ -256,7 +256,7 @@ Ronnie Ripgården                    Kristin Arplöw
 
 Vision                              Vårdförbundet
 
--                                   Anne Melin
+\-                                   Anne Melin
 
 <!-- sida 8 -->
 
@@ -458,36 +458,36 @@ Bilaga 1:
 
 Inför samtalet:
 
-1. Förbered en presentation av planeringen för undervisningsområdet, vad ville du
+1\. Förbered en presentation av planeringen för undervisningsområdet, vad ville du
 
 eleverna skulle förstå och vilka begrepp var aktuella?
-2. Skriv ner minnesanteckningar kring hur undervisningen genomfördes och vad som
+2\. Skriv ner minnesanteckningar kring hur undervisningen genomfördes och vad som
 gick bra och mindre bra.
-3. Ta med bedömningsunderlag från minst två elever, en där du är säker på din
+3\. Ta med bedömningsunderlag från minst två elever, en där du är säker på din
 
 bedömning och minst en där du tvekar kring elevens förståelse.
 Under samtalet:
 
-1. Tillfälle två och framåt: Presentera uppföljningen av era aktioner i gruppen
-2. Intervjua din årskurskollega om vilket område du planerat för. Vad ville du att
+1\. Tillfälle två och framåt: Presentera uppföljningen av era aktioner i gruppen
+2\. Intervjua din årskurskollega om vilket område du planerat för. Vad ville du att
 eleverna skulle förstå och vilka begrepp var centrala? Hur genomfördes
 undervisningen och vilka didaktiska val gjorde du längs vägen. Vilka delar av det
 centrala innehåller prioriterades och varför? Visa eller beskriv ditt
 
 bedömningsunderlag och problematisera elevsvaren utifrån betygskriterier. 20min
 (för minnesanteckningar)
-3. Utse samtalsledare och sekreterare som dokumenterar era reflektioner på frågorna
+3\. Utse samtalsledare och sekreterare som dokumenterar era reflektioner på frågorna
 nedan 5min
 
-4. Börja med en lagrunda där varje par lyfter fram väsentliga delar av intervjuerna.
+4\. Börja med en lagrunda där varje par lyfter fram väsentliga delar av intervjuerna.
 Sekreterare antecknar på papper. 20min
-5. Vilka likheter / skillnader ser ni i bedömningsunderlagen? Flickor / pojkar, årskurser,
+5\. Vilka likheter / skillnader ser ni i bedömningsunderlagen? Flickor / pojkar, årskurser,
 ålder, stödinsatser etc. Dokumentera på anvisad digital yta. 20min
 
-6. Formulera individuella aktioner, där ni utifrån samtalet genomför en förändring i
+6\. Formulera individuella aktioner, där ni utifrån samtalet genomför en förändring i
 planering/undervisning eller bedömning, med syfte att höja måluppfyllelsen.
 Dokumentera på anvisad digital yta. 10min
-7. Till nästa tillfälle: Spana på dig själv och förbered en uppföljning av dina aktioner och
+7\. Till nästa tillfälle: Spana på dig själv och förbered en uppföljning av dina aktioner och
 resultatet (6 veckor)
 
 <!-- sida 14 -->
@@ -1356,7 +1356,7 @@ samma grundbelopp.
 För en integrerad anpassad grundskoleelev finns två nivåer, nivå 1 och 2 beroende på
 elevens behov av stöd. I kommunal skola avsätts 20 % av grundbeloppet för nivå 2
 som utgör storleken på det krontal som avsätts ur ersättningarna för både nivå 1 och
-2. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
+2\. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
 
 administration och kontaktlärare. Resterande del, 80 %, tilldelas det aktuella
 pedagogiska området. Den fristående skolan erhåller hela grundbeloppet utan
@@ -1794,7 +1794,7 @@ För en integrerad anpassad grundskoleelev finns två nivåer, nivå 1 och 2 ber
 elevens behov av stöd. I kommunal skola avsätts 20 % av grundbeloppet för nivå 2
 som utgör storleken på det krontal som avsätts ur ersättningarna för både nivå 1 och
 
-2. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
+2\. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
 administration och kontaktlärare. Resterande del, 80 %, tilldelas det aktuella
 pedagogiska området. Den fristående skolan erhåller hela grundbeloppet utan
 avdraget ovan.
@@ -2016,10 +2016,10 @@ Förvaltningen bedömer utifrån ovanstående att utökning av en ny dagbarnvår
 Rättslig reglering
 
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -2142,7 +2142,7 @@ KUNGSBACKA  KOMMUN
 
 Beslutet skickas till
 
--
+\-
 
 Beskrivning av ärendet
 
@@ -2465,7 +2465,7 @@ Lilla svenska skolan Lanta www.svenskaskolanlanta.se anmalanQsvenskaskolanlanta.
 <!-- sida 62 -->
 
 svenska
-$
+\$
 
 Sj
 € fo
@@ -2545,7 +2545,7 @@ Lilla svenska skolan, Koh Lanta
 rektor (Msvenskaskolanlanta.se
 
 Lilla svenska skolan Lanta www.svenskaskolanlanta.se anmalan(Åsvenskaskolanlanta.sd
-|
+\|
 
 <!-- sida 63 -->
 
@@ -2733,7 +2733,7 @@ s
 a u
 ö
 r
--
+\-
 n k
 8
 g

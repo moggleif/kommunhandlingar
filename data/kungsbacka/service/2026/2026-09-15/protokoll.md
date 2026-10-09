@@ -220,13 +220,13 @@ fram informationshanteringsplaner, den senaste beslutades av nämnden för Servi
 justeringar och kompletteringar uppstått. Vid revidering sker en genomgång av
 format, förvaringsplatser och tillkomna handlingar i bland annat processerna:
 
--  2.6.0.1 Leda-Styra-Organisera.
+\-  2.6.0.1 Leda-Styra-Organisera.
 Handlingstyper för Lokalförsörjning har lagts till.
--  2.6.2.1 Underhålla lokal eller fastighet.
+\-  2.6.2.1 Underhålla lokal eller fastighet.
 Aktiviteterna Fastighetsdrift och Fastighetsförvaltning har slagits ihop
 till en (1).
 
--  9.2.1.2 Bistå med ekonomisk rådgivning och skuldsanering.
+\-  9.2.1.2 Bistå med ekonomisk rådgivning och skuldsanering.
 Gallringsfristerna för vissa handlingstyper har ändrats.
 
 I samband med att reglementet för nämnden för Service beslutades 2024, tillades att
@@ -236,11 +236,11 @@ Kommunstyrelsens informationshanteringsplan och förts in i Services
 informationshanteringsplan.
 I klassificeringsstrukturen har följande förändringar gjorts sedan sist det beslutades:
 
--  Processgruppen IT-plattform och drift med tillhörande processer har lagts till.
+\-  Processgruppen IT-plattform och drift med tillhörande processer har lagts till.
 
--  Processen Vård/underhåll inom processgruppen Inventariehantering har lagts
+\-  Processen Vård/underhåll inom processgruppen Inventariehantering har lagts
 till.
--  Processen Hantera serverdrift och backup har bytt namn till Förvalta och
+\-  Processen Hantera serverdrift och backup har bytt namn till Förvalta och
 drifta central IT-infrastruktur.
 
 Det här dokumentet är digitalt signerat
@@ -254,10 +254,10 @@ Nämnden för Service
 Datum
 2026-09-15
 
--  Processgruppen och processen Förmedla bostäder har bytt namn till Hantera
+\-  Processgruppen och processen Förmedla bostäder har bytt namn till Hantera
 bostadskö och Administrera bostadskö.
 Detta för att bättre spegla processernas innehåll och ansvarsområden.
--  Processbeskrivningar för samtliga processer har lagts till.
+\-  Processbeskrivningar för samtliga processer har lagts till.
 
 Beslutsunderlag
 Förvaltningen för Services tjänsteskrivelse, 2026-09-01
@@ -685,23 +685,23 @@ Sammanfattning av ärendet
 Förvaltningschef Julia Tryggvadottir Tollesson och biträdande förvaltningschef
 Johan Burman informerar om,
 
--  Invigning av Signeshus inklusive etapp 2.
--  Samordnad stabsövning.
+\-  Invigning av Signeshus inklusive etapp 2.
+\-  Samordnad stabsövning.
 
--  Beredskapsveckan v.39.
--  Måltidsverksamheten på Skårbyskolan.
+\-  Beredskapsveckan v.39.
+\-  Måltidsverksamheten på Skårbyskolan.
 
--  Intern omfördelning av budget 2027.
--  Skolelevers besöks på Stadshuset med anledning av ”demokrati i praktiken”.
+\-  Intern omfördelning av budget 2027.
+\-  Skolelevers besöks på Stadshuset med anledning av ”demokrati i praktiken”.
 
--  Kungsbacka kommun rankad på 1:a plats i leverantörsmätning vid hantering
+\-  Kungsbacka kommun rankad på 1:a plats i leverantörsmätning vid hantering
 av automatiserad flöde för fakturahantering med högts andel ”Touchless”.
 
--  Inköps arbete för Västsveriges Bästa Företagsklimat.
--  Arenatorget.
+\-  Inköps arbete för Västsveriges Bästa Företagsklimat.
+\-  Arenatorget.
 
--  Avtalscontroller på Inköp med arbete mot välfärdsbrottslighet.
--  Förvaltningen för Service omhändertagande av Kommunfullmäktiges beslut
+\-  Avtalscontroller på Inköp med arbete mot välfärdsbrottslighet.
+\-  Förvaltningen för Service omhändertagande av Kommunfullmäktiges beslut
 gällande avskaffandet av religiöst motiverad specialkost.
 
 Beslutsgång

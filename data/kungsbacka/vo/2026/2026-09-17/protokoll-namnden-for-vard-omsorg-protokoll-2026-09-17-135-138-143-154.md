@@ -176,7 +176,7 @@ Information - Arbetet med fokusenheter .........................................
 
 § 149 Dnr VO-2026-00168
 Redovisning av ej verkställda gynnande beslut enligt socialtjänstlagen 2026
-- Nämnden för Vård & Omsorg .................................................................. 21
+\- Nämnden för Vård & Omsorg .................................................................. 21
 
 § 150 Dnr VO-2026-00003
 Anmälan av ordförandebeslut, september 2026 ......................................... 22
@@ -213,8 +213,8 @@ Nämnden för Vård & Omsorg godkänner ärendelistan med föreslagna ändringar
 Sammanfattning av ärendet
 Ordförande Hravn Forsne (M) meddelar följande ändringar i ärendelistan.
 
-- Anmälan av ordförandebeslut, utgår från ärendelistan
-- Information om Signeshus, utgår från dagens sammanträde och återkommer till
+\- Anmälan av ordförandebeslut, utgår från ärendelistan
+\- Information om Signeshus, utgår från dagens sammanträde och återkommer till
 sammanträdet i oktober 2026.
 
 Beslutsgång
@@ -529,18 +529,18 @@ Förslag till beslut på sammanträdet
 
 Ermin Škorić (S), Astrid Börjesson (S) och Eva Tingström (S) föreslår följande
 ändringsyrkanden:
-- sidan 13 (dokument ”Lokalbehov 2028-2032 Nämnden för Vård & Omsorg”) under
+\- sidan 13 (dokument ”Lokalbehov 2028-2032 Nämnden för Vård & Omsorg”) under
 
 punkt 3.1.1 Lokalbehov korttidsvistelse:
 Nämndens behov av platser på Korttidsboende och Växelvård Plan 2028 80 platser,
 plan 2029 80 platser, plan 2029 80 platser, plan 2030 90 platser, plan 2031 90
 platser, plan 2032 95 platser.
 
-- sidan 14 under punkt 3.1.2:
+\- sidan 14 under punkt 3.1.2:
 Plan 2033 90 platser, plan 2034 90 platser, plan 2035 85 platser, plan 2036 85
 platser, plan 2037 80 platser.
 
-- 16 under punkt 3.2.1 Lokalbehov Vård och omsorgsboende, löp nr 822 (rad 2)
+\- 16 under punkt 3.2.1 Lokalbehov Vård och omsorgsboende, löp nr 822 (rad 2)
 Föreslå ändring av KF beslut och åtgärda BO platser på vård- och omsorgsboende
 
 under planperioden 2030.

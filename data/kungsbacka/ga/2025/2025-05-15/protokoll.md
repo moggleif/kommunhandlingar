@@ -105,7 +105,7 @@ Budget 2025 ........................................ Fel! Bokmärket är inte de
 
 § 64 Dnr GA-2025-00075
 Begäran om yttrande - Betänkandet Etableringsboendelagen (KS 2025-
-00330) ....................................................................................................... 6
+00330\) ....................................................................................................... 6
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C9E7E89483F3A2FEEC91264D87E582FFE5D90FA662
@@ -194,7 +194,7 @@ Datum
 
 § 64                       Dnr GA-2025-00075
 Begäran om yttrande - Betänkandet Etableringsboendelagen (KS 2025-
-00330)
+00330\)
 
 Beslut
 Nämnden för Gymnasium & Arbetsmarknad antar yttrandet, daterat 2025-05-09, och

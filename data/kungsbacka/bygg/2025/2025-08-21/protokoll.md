@@ -123,7 +123,7 @@ miljööverdomstolen som meddelade prövningstillstånd den 21 mars 2025.
 Kommunen förelades den 5 juni 2025 att yttra sig över fastighetsägarnas yttranden
 beträffande kommunens överklagande.
 Byggnadsnämnden yttrade sig genom ombudet jur kand Sven Boberg den 9 juli
-2025. I yttrandet medger kommunen att beslutet får ändras med stöd av PBL 13 kap
+2025\. I yttrandet medger kommunen att beslutet får ändras med stöd av PBL 13 kap
 17 § avseende i första hand Kyvik 4:70 och Kyvik 4:278 samt i andra hand avseende
 
 Kyvik 4:70, Kyvik 4:278 och Kyvik 4:51.

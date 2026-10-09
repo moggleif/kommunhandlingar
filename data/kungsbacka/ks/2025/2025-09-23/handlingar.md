@@ -1110,7 +1110,7 @@ Beslut om budget är tagen i kommunfullmäktige 13 juni 2024 §34 och uppgår ti
 622 miljoner inklusive indexreglering för planerat färdigställande 2028.
 
 Systemhandlingen är en fortsättning på den förstudie som godkändes 26 november
-2024.
+2024\.
 
 Systemhandlingen föreslår en arena enligt bifogade handlingar och förslaget bedöms
 kunna genomföras inom budget.
@@ -1214,7 +1214,7 @@ och systemhandlingar följt av kalkyler för fastställande av riktpriskostnad.
 
 Beslut om investeringsbudget om 622 miljoner kronor har fattats av
 kommunfullmäktige 2024-06-13, inklusive indexreglering för planerat slutförande
-2028.
+2028\.
 För att säkerställa att projektet uppfyller beslut från kommunstyrelse
 (tävlingsprogram för projekttävling) respektive kommunfullmäktige (funktioner,
 innehåll, behov, budget) har Service Lokalförsörjning genomfört en förstudie baserad
@@ -1233,15 +1233,15 @@ legat till grund för hela projektet.
 Huvudprojektet omfattar fem delprojekt, varav Service Lokalförsörjning ansvarar för
 de två som avser projektering respektive byggnation.
 Kvalitet
--  Arenans innehåll baseras på underlag framtaget i utredningsskedet.
+\-  Arenans innehåll baseras på underlag framtaget i utredningsskedet.
 Projekttävling genomfördes därefter med syfte att erhålla en arena med hög
 kvalitet.
 
--  Systemhandlingen innehåller en fortsättning av förstudiens underlag och
+\-  Systemhandlingen innehåller en fortsättning av förstudiens underlag och
 sammanfattar därmed Fas 1.
 
 Tid
--  Den ursprungliga tidplanen i kommunfullmäktiges beslut var att arenan
+\-  Den ursprungliga tidplanen i kommunfullmäktiges beslut var att arenan
 planerades stå klar kv 4 2024 men med överklagande och med de
 kompletterande utredningar som har genomförts, planeras nu arenan stå klar
 kv 4 2028 (Budget 13 juni 2024).
@@ -1252,11 +1252,11 @@ kv 4 2028 (Budget 13 juni 2024).
 <!-- sida 32 -->
 
 Ekonomi
--  Kommunfullmäktige har beslutat att budget för projektet är 622 miljoner
+\-  Kommunfullmäktige har beslutat att budget för projektet är 622 miljoner
 kronor (investering exkl. konst och inventarier) varav 20 miljoner kronor har
 
 avsatts för Fas 1 genom kommunstyrelsens beslut 21 februari 2023.
--  Under arbetet med Fas 1 har bland annat anpassningarna för att hitta
+\-  Under arbetet med Fas 1 har bland annat anpassningarna för att hitta
 lösningar inom budget beräknats innebära ökade kostnader med 6 miljoner
 kronor. Kommunstyrelsen har avsatt ytterligare 6 miljoner kronor för Fas 1
 genom beslut den 26 november 2024. Ökningen av medel för Fas 1 utökar
@@ -1264,7 +1264,7 @@ inte att den totala budgeten utan innebär att tillgängliga medel (riktkostnad)
 för Fas 2 påverkas.
 
 Hållbarhet
--  Hållbarhetsarbetet i projektet har definierats och specificerats för att inom
+\-  Hållbarhetsarbetet i projektet har definierats och specificerats för att inom
 budget nyttja tillgängliga medel där de gör mest nytta.
 
 3.1.1 Nuläge
@@ -1287,31 +1287,31 @@ och byggnaden.
 
 3.1.3 Övriga förutsättningar
 
--  Lågriskområde för radon.
+\-  Lågriskområde för radon.
 
--  Servitut öster om fastighetsgränsen för fjärrvärmeledningar.
+\-  Servitut öster om fastighetsgränsen för fjärrvärmeledningar.
 
--  Biotopskyddade träd finns på/i anslutning till tomten.
+\-  Biotopskyddade träd finns på/i anslutning till tomten.
 
--  Inga fornlämningar finns på fastigheten.
+\-  Inga fornlämningar finns på fastigheten.
 
--  Inget strandskydd gäller för fastigheten.
+\-  Inget strandskydd gäller för fastigheten.
 
--  Elnätsområde E.ON Sverige AB
+\-  Elnätsområde E.ON Sverige AB
 
 3.2 Metodik från förstudie till systemhandling
-1. Förstudie: Denna fas innebär att samla in och analysera information för att
+1\. Förstudie: Denna fas innebär att samla in och analysera information för att
 bedöma projektets genomförbarhet. Här undersöks behov, mål, och möjliga
 lösningar som också ligger till grund för en kostnads- och tidsuppskattning
 
 för projektet.
-2. Programhandling: Här utvecklas en mer detaljerad plan baserad på
+2\. Programhandling: Här utvecklas en mer detaljerad plan baserad på
 förstudien. Definierar projektets omfattning, funktioner och krav, och skapar
 en grundläggande design som ska uppfylla dessa. Även programhandlingen
 innefattar en milstolpe kring att göra en kostnadsuppföljning av projektets
 helhet och även en avstämning gällande tidsplaneringen.
 
-3. Systemhandling: I denna fas förfinas och konkretiseras programhandlingen.
+3\. Systemhandling: I denna fas förfinas och konkretiseras programhandlingen.
 Tekniska lösningar utvecklas och detaljerade ritningar, specifikationer och
 beräkningar som krävs för att genomföra projektet produceras i
 systemhandlingsskedet. Varje konsultkategori tar fram handlingar för
@@ -1329,25 +1329,25 @@ av Service Lokalförsörjnings representanter och samverkansentreprenören Skans
 Projekteringen inleddes i september 2024 och projekteringsgruppen har haft en
 mötesserie under hela hösten. Projekteringsgruppen har bestått av:
 
--  Arkitekt
--  Akustiker och specialist AV- och scenteknik
+\-  Arkitekt
+\-  Akustiker och specialist AV- och scenteknik
 
--  Brandsakkunnig
--  Tillgänglighetssakkunnig
+\-  Brandsakkunnig
+\-  Tillgänglighetssakkunnig
 
--  Hållbarhets- och miljöbyggnadssamordnare
--  Konstruktör
+\-  Hållbarhets- och miljöbyggnadssamordnare
+\-  Konstruktör
 
--  El-projektör
--  VVS-konsult
+\-  El-projektör
+\-  VVS-konsult
 
--  Styr- och övervakningskonsult
--  Storkökskonsult
+\-  Styr- och övervakningskonsult
+\-  Storkökskonsult
 
--  Sakkunnig kökskyla
--  Markprojektör
+\-  Sakkunnig kökskyla
+\-  Markprojektör
 
--  Geotekniker
+\-  Geotekniker
 Utöver projekteringsgruppens mötesserie, har brukarmöten med projektets samtliga
 
 intressenter hållits. Dels i storgrupp, dels inom respektive intressentområde, där
@@ -1429,18 +1429,18 @@ utgått, för att i stället förberedas för. Vilket ligger i linje med det som
 utredde i syfte att förenkla projektet.
 
 Följande justeringar för fotbollsarenan har inarbetats i systemhandlingen:
--  Separat kiosk och WC för bortasupportrar är förrådsytor, men
+\-  Separat kiosk och WC för bortasupportrar är förrådsytor, men
 förberedda för att ställas om vid behov.
 
--  Separata rum för press och speaker på utomhusläktaren har minskats
+\-  Separata rum för press och speaker på utomhusläktaren har minskats
 och i stället blivit placering för tillgängliga rullstolsplatser. Kan ställas
 om vid framtida behov.
 
--  Två omklädningsrum med kapacitet enligt Superettan om plats för 30
+\-  Två omklädningsrum med kapacitet enligt Superettan om plats för 30
 personer och yta för massagebänk mm, har delats upp med en
 skiljevägg och jalusi, till fyra omklädningsrum á 15 personer och
 tillhörande duschar.
--  Förberett med kanalisation under fotbollsplanen, för framtida
+\-  Förberett med kanalisation under fotbollsplanen, för framtida
 kameraplacering söder om fotbollsplanen.
 
 11/17
@@ -1448,7 +1448,7 @@ kameraplacering söder om fotbollsplanen.
 
 <!-- sida 37 -->
 
--  Plats för bortasupporterbuss finns, men inhägnad av ytan får göras vid
+\-  Plats för bortasupporterbuss finns, men inhägnad av ytan får göras vid
 framtida behov.
 
 4.3 Behov kommersiella lokaler
@@ -1460,9 +1460,9 @@ att hitta lämpliga hyresgäster till respektive kommersiell lokal.
 Förstudiens förslag kring kommersiella lokaler har inarbetats i systemhandlingen och
 innehåller följande:
 
-- restaurang och kiosker
-- gymlokal
-- övriga verksamhetsytor
+\- restaurang och kiosker
+\- gymlokal
+\- övriga verksamhetsytor
 En uttalad målsättning med utformningen av arenan har varit att samnyttja ytor
 maximalt och effektivt. Ett upplägg där gemensamma ytor delas mellan
 kommersiella respektive kommunala aktörer ansluter till denna målsättning.
@@ -1528,7 +1528,7 @@ Ersättningslokaler i form av tillfälliga bodar ska ordnas för perioden mellan
 och färdig arena.
 
 Lösning för ersättningslokaler hanteras som separat lokalbehov i lokalplan 2025–
-2029. Budget för ersättningsplanen för fotbollen ingår i Samhällsbyggnadskontorets
+2029\. Budget för ersättningsplanen för fotbollen ingår i Samhällsbyggnadskontorets
 budget för hela området.
 
 14/17
@@ -1587,35 +1587,35 @@ Systemhandlingen har identifierat följande risker (och möjligheter) som behöv
 hanteras i kommande skede - här redovisas ett urval utan inbördes rangordning:
 Förutsättningar genomförande
 
--  Fastighetens markförutsättningar (geoteknik, sättningsbenägenhet,
+\-  Fastighetens markförutsättningar (geoteknik, sättningsbenägenhet,
 avstånd till berg, översvämningsrisk m m)
 
--  Dagvattenhantering för detaljplaneområdet är inte färdigställt i
+\-  Dagvattenhantering för detaljplaneområdet är inte färdigställt i
 samband med systemhandlingens projektering. (Kravställningen för
 hanteringen av dagvatten är hög och kan komma att påverka
 genomförandet)
 
--  Risk för markföroreningar på tomten (separat kostnadsställe för
+\-  Risk för markföroreningar på tomten (separat kostnadsställe för
 sanering)
 
 Budget och tid
 
--  Risk för att omvärldsläget påverkar priser på varor
+\-  Risk för att omvärldsläget påverkar priser på varor
 
--  Dagens marknadsläge ger förutsättningar för att nyttja konkurrens,
+\-  Dagens marknadsläge ger förutsättningar för att nyttja konkurrens,
 
 men stor osäkerhet över tid
 
 Politiska beslut, myndigheter
 
--  Överklagan på detaljplan och bygglovsansökan
+\-  Överklagan på detaljplan och bygglovsansökan
 
 Organisation
 
--  Risk att nyckelpersoner försvinner ur projektet vid stopp i väntan på
+\-  Risk att nyckelpersoner försvinner ur projektet vid stopp i väntan på
 politiska beslut
 
--  Motstridigheter kring beslutsfattande vad gäller behov och innehåll i
+\-  Motstridigheter kring beslutsfattande vad gäller behov och innehåll i
 arenabyggnaden
 
 17/17
@@ -1729,7 +1729,7 @@ SEKUNDÄR ENTRÉ
 NÖDUTGÅNG
 UNDERLAG FRÅN MARKPROJEKTÖR
 FÖRESKRIFTER
--
+\-
 HÄNVISNINGAR
 PLANRITNINGAR A-40-1-110 - A-40-1-113
 SEKTIONER A-40-2-001
@@ -1798,7 +1798,7 @@ A     SEMRÉN & MÅNSSON ARK.
 3466-60 F.SVENSSON
 031-743 02 00KARIN BACKLUND
 HUS 1 -
--  -  -
+\-  -  -
 01-SAMMANSATT REDOVISNING
 SITUATIONSPLAN
 PLAN       1:400
@@ -1987,7 +1987,7 @@ S O E R K IE T N IO T N ERINGSFIGURAAAAA-----4444410000-----11111-----1111111111
 SHDBTEAAASNTTUTDUÄMLSLINLGAREGODKÄND AV ÄNDRINGS PM
 POPBDUTBVSSRD E RRYYÅYP IP IO MS T LGGNSE P OO K R N CETC DI GG JJ U Å INIF NE EEP I RNN M D FGOMG KKLAAAI E ESNI K TT S GNDD NPA NN K SSS TLT AU A N-V NAI IMM TO DUENUE NM NRM MG E KM MO RE ER R RVIÅNINGSDEL AFFSKPD AÖDKOLEUSARRLNTSOPEETIHAMASTGÖDAKS R HG TJÅ EADPD TV E(ERRHS O20N00)SKALAFÄ4ONARDMR0IANT.G8A0 53:05:01 90-40-5202 tvr.42R-6643-000-V-04-A/anerA akcabsgnuK//:scoD ksedotuA
 Hall      A
-- Ett eget universum
+\- Ett eget universum
 Gestaltningen av Hall A grundar sig liksom övriga ytor på flexibilitet,                                                             2.
 robusthet och en minnesvärd upplevelse. Däremot har den ett egen,
 mörkare färgskala, inpirerad från närområdet och tanken på lågans                                                                          1.
@@ -1997,7 +1997,7 @@ centrum - värmens och händelsernas centrum.
 Draperi framför scen
 Bild: Soul
 Bild: Soul
-1. VY FRÅN SÖDRA LÄKTAREN                                                                               2. SKISSVY FRÅN VÄSTRA KORTSIDAN, MOT SCENEN.
+1\. VY FRÅN SÖDRA LÄKTAREN                                                                               2. SKISSVY FRÅN VÄSTRA KORTSIDAN, MOT SCENEN.
 Tekniska installationer tillkommer. Visualiseringar syftar till att
 lyfta fram material, ytskikt samt kulörer.
 
@@ -2192,13 +2192,13 @@ Datum
 2025-04-14
 Status                                                    Rev.dat Rev
 SYSTEMHANDLING
-1. Allmänna förutsättningar
+1\. Allmänna förutsättningar
 Fastigheten utformas enligt gällande lagar och normer. Byggnaden utförs i enlighet med Plan och bygglagen
 med dess underliggande regelverk såsom BBR 30 samt Eurocode EKS 12. Ytor: Bruttoarea (BTA) ca. 14500m2.
 Denna beskrivning är en sammanfattning av Systemhandlingarna. Alla detaljer och avvikelser kan därmed inte
 presenteras. För en fullständig bild av projektet måste samtliga Systemhandling läsas.
 
-2. Utvändig mark
+2\. Utvändig mark
 Körytor och lastgård dimensioneras enligt gällande krav för tung trafik samt för manövrering av fordon upp till
 19 meter. Lastgården är försedd med en lastkaj för inlastning av material från trailers. Lastgård förses med
 staketinklädnad inkl. taggtråd i överkant höjd 2m. Motordriven dubbelgrind (7m) styrd via porttelefon. Gångrind
@@ -2206,11 +2206,11 @@ placeras vid in/utfart i Nordvästra hörnet samt sydvästra hörnet. Lastkaj an
 markytan/färdigt golv. Söder om arenabyggnaden anläggs en konstgräsplan anpassad för Superettan med
 markvärmeslingor.
 
-3. Grundläggning för byggnad
+3\. Grundläggning för byggnad
 Djup till berg enligt Geoteknisk undersökning överstiger 65m. Med anledning av det grundläggs byggnaden med
 kohesionspålar och fribärande bottenplatta.
 
-4. Byggnadsstomme
+4\. Byggnadsstomme
 Byggnaden är huvudsak en prefabricerad betongbyggnad med pelare, väggar och bjälklag i betong. Väggar kring
 trapphus, hisschakt, stomstabilliserande innerväggar samt gradänger för läktare i Hall-A utförs i betong.
 Horisontella balkar, stomme för plan 13 och fackverkstakstolar i stål. Ytterväggarna är betongsandwichväggar
@@ -2219,19 +2219,19 @@ plåtsandwichväggar. Takplan består i plan 13 hdf-bjälklag samt STT-kassetter
 uppbyggda av bäryta, balkar, isolering samt en perforerad underliggande plåt.
 Fasad förbereds för fasadskylt inkl. framdragning av kanalisation för elanslutning.
 
-5. Betonggolv
+5\. Betonggolv
 Plan 10 (entréplan) utförs i huvudsak med slipade synliga dammbundna betonggolv. Undantag är exempelvis
 sportgolv, duschrum samt storkök.
 
-6. Innerväggar
+6\. Innerväggar
 Innerväggar är av typen gips på stålregelstomme. Innerväggar vid duschrum utförs som murade väggar. Ljud och
 brandkrav anpassas efter akustikbeskrivning och brandskyddsbeskrivning.
 
-7. Fönster
+7\. Fönster
 Fönster i plan 10 utförs av aluminiumpartier. Fönster i plan 11 och 12 utföres med aluminiumbeklädda
 träfönster.
 
-8. Invändiga trappor
+8\. Invändiga trappor
 Trappor i trapphus 1-3 utföres som grå betongtrappor och trapphus 4 utföres med terazzo ytskikt. Trappor i
 foajé utförs som ”öppna” ståltrappor med igjutna plansteg i terazzoklinker (lika plan 11). Lagertrappor utförs av
 gallerdurk.
@@ -2249,26 +2249,26 @@ Datum
 2025-04-14
 Status                                                    Rev.dat Rev
 SYSTEMHANDLING
-9. Portar/lastkaj
+9\. Portar/lastkaj
 Portar i yttervägg utförs som vikport och takskjutport. Lastkaj utförs i betong och möjliggör inlastning direkt på
 scen. Lastkaj är försedd med lyftbord och trappa ner till marknivå.
 
-10. Påkörningsskydd invändigt
+10\. Påkörningsskydd invändigt
 Inlastningszoner vid restaurang utföres med avbärarlister. Inlastningszon vid back of house utförs med plywood
 1,2m upp på vägg. Korridorer vid omklädningsrum samt omklädningsrum utföres med robust gips.
 
-11. Utvändiga dörrar
+11\. Utvändiga dörrar
 Entrépartier i fasad utförs i aluminium. Övriga dörrar i fasad utförs som dörrar i stål. Samtliga dörrar bestyckas
 med magnetkontakt och elslutbleck. Låssystem utföres som iloq.
 
-12. Invändiga dörrar
+12\. Invändiga dörrar
 Generellt utförs invändiga dörrar som laminerade dörrblad med träkarm. Dörrar i omklädningsrum på plan 10
 samt till publika toaletter på plan 10 och 11 utförs som laminerade trädörrar med stålkarm för ökad hållbarhet.
 
 Dörrar i låsgräns bestyckas med magnetkontakt, elslutbleck och kortläsare.
 Invändiga dörrar till teknikutrymmen utförs som dörrar i stål. Låssystem utföres som iloq.
 
-13. Övergripande ytskiktsbeskrivning
+13\. Övergripande ytskiktsbeskrivning
 Plan 10:
 Golv: Slipad och dammbunden betong. Avvikande är duschrum och kök som utföres med massagolv, hall-A
 utföres med dämpat sportgolv.
@@ -2306,18 +2306,18 @@ Datum
 2025-04-14
 Status                                                    Rev.dat Rev
 SYSTEMHANDLING
-14. Inredning
+14\. Inredning
 Pausrum inreds med skåpssnickeri med lackerade luckor, bänkskiva av laminat, kylskåp, frys, diskmaskiner och
 microvågsugnar. Förberedelse görs för installation av kaffemaskin (hyresgästens). WC förses med erforderlig
 beslagning. RWC utförs enligt myndighetskrav. Kapprum utrustas med klädhängare och hatthylla.
 
-15. Hissar
+15\. Hissar
 Hiss 1 utföres som varupersonhiss. Märklast: 2250kg.
 Hiss 2 utföres som varupersonhiss. Märklast: 1150kg.
 Hiss 3 och 4 utföres som personhiss. Märklast: 1000kg.
 Samtliga hissar utföres som linhissar med en hastighet av 1m/s
 
-16. Installationer
+16\. Installationer
 Ventilation, värme, belysning, kraft och tele installeras med hänsyn till huset användningsområde.
 
 Elinstallationer
@@ -2437,12 +2437,12 @@ Hall-B installeras resultattavla, högtalare för speaker och att spela musik.
 Fotbollsplan installeras resultattavla, högtalare för speaker och att spela musik.
 Fotbollsplan är förbered med plats för kamera för livesändning.
 
-17. Fotbollsplan
+17\. Fotbollsplan
 Utvändig läktare och skärmtaket grundläggs med grundbalkar och kohesionspålar. Läktaren och skärmtakets
 pelare är av betong. Skärmtaket är av plåt med papptäckning och bärs av stålbalkar. Uppvärmd konstgräsplan
 uppfyller FIFA:s krav för FIFA Quality Pro standard.
 
-18. Övrigt
+18\. Övrigt
 Ambitionen är att byggnaden ska klara kraven för Miljöbyggnad Silver.
 
 <!-- sida 62 -->
@@ -2581,10 +2581,10 @@ Beslut
 Kommundirektören vidaredelegerar beslutsrätt till samhällsbyggnadschef samt till upphandlingschef
 
 för beslut om:
-- annonsering av upphandlingen,
+\- annonsering av upphandlingen,
 
-- tilldela kontrakt samt
-- underteckna kontrakt efter att avtalsspärren löpt ut
+\- tilldela kontrakt samt
+\- underteckna kontrakt efter att avtalsspärren löpt ut
 
 Upplysning
 Beslut fattat med stöd av delegering. Kommunstyrelsen 2024-11-26 § 245.
@@ -2607,10 +2607,10 @@ annonsering av upphandlingen.
 Kommundirektören fick genom kommunstyrelsens beslut den 26 november 2024 även rätt att
 vidaredelegera beslutsrätt till samhällsbyggnadschef samt till upphandlingschef för beslut om:
 
-- annonsering av upphandlingen,
-- tilldela kontrakt samt
+\- annonsering av upphandlingen,
+\- tilldela kontrakt samt
 
-- underteckna kontrakt efter att avtalsspärren löpt ut
+\- underteckna kontrakt efter att avtalsspärren löpt ut
 
 1 (2)
 Kungsbacka kommun
@@ -3350,7 +3350,7 @@ kommersiella lokaler samt intäkter från evenemang och mässor.
 De kommersiella lokalerna kommer att bestå av lokaler för restaurang, café, kiosk, gym,
 hälsofrämjande aktiviteter, konferens, möten med mera. Intäkterna för dessa ytor har beräknats uppgå
 till 6,5 miljoner kronor utifrån jämförbara hyresnivåer i den fördjupade marknadsanalysen oktober
-2023. Uthyrning av arenahallen och andra ytor för idrottsevenemang, mässor, konserter eller liknande
+2023\. Uthyrning av arenahallen och andra ytor för idrottsevenemang, mässor, konserter eller liknande
 samt uthyrning av fotbollsarenan beräknas kunna generera en intäkt på 10 miljoner kronor baserat på
 
 <!-- sida 81 -->
@@ -3378,7 +3378,7 @@ om cirka 17 000 kvm BTA varav 9 000 kvm BTA kommersiella ytor. Driftsintäkterna
 något högre än nuvarande bedömning, till mellan 20,5 miljoner kronor och 22,7 miljoner kronor.
 Kalkylen för årlig driftskostnad beräknas öka från cirka 36,3 miljoner år 2021 till 52,2 miljoner kronor
 
-2024. Driftskostnaderna påverkas av faktorer som förändringar av räntor och inflation med åtföljande
+2024\. Driftskostnaderna påverkas av faktorer som förändringar av räntor och inflation med åtföljande
 indexuppräkningar av driftskostnader.
 − Ränteökning från 1,25 till 2,5 procent påverkar årlig driftskostnad med cirka 9 miljoner kronor och
 avskrivningar till följd av indexuppräkning av investeringsbeloppet påverkar med cirka 3 miljoner
@@ -4057,9 +4057,9 @@ Kommunfullmäktiges beslut 2021-04-13 § 51, innehållande även kommunstyrelsen
 beslut 2021-03-23 § 72
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2021-03-02
 Ur Projektbeskrivning 2021-03-02 med utredningsunderlag, bilagor A-H10:
-- H5. Utvärdering av möjliga alternativ till flera gestaltningsförslag, Kungsbacka
+\- H5. Utvärdering av möjliga alternativ till flera gestaltningsförslag, Kungsbacka
 kommun Samhällsbyggnadskontoret
-- H6. Utredning driftformer V 1.9 Kungsbacka kommun Förvaltningen för Kultur
+\- H6. Utredning driftformer V 1.9 Kungsbacka kommun Förvaltningen för Kultur
 och Fritid, 2020-12-18
 
 Förslag till beslut på sammanträdet
@@ -4226,7 +4226,7 @@ Samhällsbyggnadskontoret).
 
 Kommunstyrelsen avsätter medel för genomförande av projekttävling med 1 500 000
 kronor, vilket finansieras ur kommunstyrelsens anslag för oförutsedda utgifter för
-2021.
+2021\.
 
 Kommunstyrelsen uppdrar åt kommundirektören att ta fram förslag till
 genomförande av upphandling av drift av de kommersiella delarna av Kungsbacka
@@ -4931,7 +4931,7 @@ bland annat för Hammargårds reningsverk och för verksamhetsmark i Klovsten. P
 laga kraft, vilket möjliggör utveckling av reningsverket, medan detaljplanen för Klovsten ännu inte trätt i kraft.
 Arbetet med den fördjupade översiktsplanen för Kungsbacka stad pågår också. Förslaget har varit ute på
 granskning under våren 2025 och nu sammanställs synpunkter och eventuella justeringar inför antagande under
-2026.
+2026\.
 
 Under året har ett team jobbat intensivt för att möjliggöra en större etablering i Kungsbacka. Resultatet av det
 arbetet är nu att Dagab planerar att etablera sig i Frillesås. En etablering som beräknas ge cirka 600 nya
@@ -4968,11 +4968,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
 
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Sammanfattning av styrelsens arbete med målet
 Trygghetspunkter
@@ -4990,10 +4990,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
 
 4
 
@@ -5002,7 +5002,7 @@ mångfald.
 Kommunstyrelsen                                  Kungsbacka kommun
 Delårsrapport augusti 2025
 
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av styrelsens arbete med målet
 Hållbarhetskriterier vid markanvisning
@@ -5036,8 +5036,8 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Sammanfattning av styrelsens arbete med målet
@@ -5105,7 +5105,7 @@ fler jobb och en större lokal arbetsmarknad.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 
 6
 
@@ -5114,21 +5114,21 @@ Fokusområden
 Kommunstyrelsen                                  Kungsbacka kommun
 Delårsrapport augusti 2025
 
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 2.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
 
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
 
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Sammanfattning av styrelsens arbete med målet
 Innovativ kompetensförsörjning
@@ -5852,7 +5852,7 @@ Begära     planbesked
 
 Ärendenummer: #210250 | Inskickat av:  | 2025-06-01 18:14
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -5867,7 +5867,7 @@ Personnummer
 Förnamn                           Efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -5899,7 +5899,7 @@ Om fastigheten ägs av flera fastighetsägare fyller du i en per rad.
 
 Förnamn      Efternamn      Telefon          E-postadress
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -5918,7 +5918,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -6330,7 +6330,7 @@ Begära     planbesked
 
 Ärendenummer: #207688 | Inskickat av:     | 2025-06-02 09:45
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -6370,7 +6370,7 @@ Förnamn                           Efternamn
 
 Telefon                           E-postadress
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -6412,7 +6412,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -6430,7 +6430,7 @@ Bifogar du en beskrivning om varför du begär planbesked?
 Ja
 Beskrivning
 
-Spa&#778;rhaga_SKISS_2025-05-26.pdf (5,48 MB)
+Spa\&#778;rhaga_SKISS_2025-05-26.pdf (5,48 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
@@ -6464,7 +6464,7 @@ Skiss          för      Spårhaga                   1:3
 :1Skeppsv
 1
 ä 1 g
-:
+\:
 e :
 1
 9 n
@@ -6564,7 +6564,7 @@ s :1 2
 Föru40.9 tsättnin35.3 gar: BO
 1
 LS
-:
+\:
 31 H .
 2
 3 EDEN  35.7    30.4    32.0
@@ -6665,7 +6665,7 @@ kantas av lövträd och  utnyttjas som gångstråk.
 :1Skeppsv
 1
 ä 1 g
-:
+\:
 e :
 1
 9 n
@@ -6731,7 +6731,7 @@ s :1 2
 Föru40.9tsättnin35.3 gar: BO
 1
 LS
-:
+\:
 31 H .
 2
 3 EDEN 35.7    30.4    32.0
@@ -7017,13 +7017,13 @@ Kommunstyrelsens arbetsutskott
 Datum
 2025-09-09
 
-- Kungsbacka har en stark tradition av småhusbebyggelse och under flera
+\- Kungsbacka har en stark tradition av småhusbebyggelse och under flera
 decennier har kommunen haft en stor årlig inflyttning, framför allt från
 barnfamiljer i Mölndal och Göteborg. Äganderätter i form av småhus har varit en
 viktig del av Kungsbackas karaktär och har bidragit till en trygg miljö för många
 invånare.
 
-- När vi diversifierar bostadsbeståndet är det också viktigt att nya bostäder
+\- När vi diversifierar bostadsbeståndet är det också viktigt att nya bostäder
 harmoniserar väl med befintlig bebyggelse."
 På sidan 6 lägga följande till efter sista stycket under rubriken “Spillvatten och
 vatten”
@@ -7220,11 +7220,11 @@ Ett varierat bostadsutbud kan möjliggöra för fler människor att flytta till 
 kan bidra till att nå kommunens mål om attraktiva bostäder för olika behov, generationer och livsstilar. Samtidigt
 ska projektet ta särskilt stor hänsyn till följande punkter ur bostadsförsörjningsplanen;
 
-- Kungsbacka har en stark tradition av småhusbebyggelse och under flera decennier har kommunen haft en
+\- Kungsbacka har en stark tradition av småhusbebyggelse och under flera decennier har kommunen haft en
 stor årlig inflyttning, framför allt från barnfamiljer i Mölndal och Göteborg. Äganderätter i form av
 småhus har varit en viktig del av Kungsbackas karaktär och har bidragit till en trygg miljö för många
 invånare.
-- När vi diversifierar bostadsbeståndet är det också viktigt att nya bostäder harmoniserar väl med befintlig
+\- När vi diversifierar bostadsbeståndet är det också viktigt att nya bostäder harmoniserar väl med befintlig
 bebyggelse.
 
 Projektet ska även säkerställa viktiga naturvärden som Forsbergens södra del omfattas av då det är ett välanvänt
@@ -8932,7 +8932,7 @@ R
 centrum och fylla de tomrum som finns idag          VERKSAMHETER P A
 med stadsmässig bebyggelse. Genom områdets          P H - O H T U E S LL 1. 3.
 nordöstra del kopplar centrumstråket (1) sam-               TORG
-2.         4.
+2\.         4.
 man innerstaden med stadsdelen Valand och 7.
 FÖRSKOLA    BOSTÄDER
 Kungsmässan. Längs stråket ska bebyggelsen
@@ -8940,15 +8940,15 @@ LEKPLATS    KONTOR
 ha publika funktioner i bottenvåningarna med       CENTRUM-
 VERKSAMHETER
 entréer mot stråket.                               HOTELL
-6.
-5.
+6\.
+5\.
 Bilgatan vid Sjöallén frigörs från biltrafik ge-
 nom att gatan flyttar väster ut (2) och ansluter
 till den nybyggda cirkulationen vid Kungsga-
 tan. Platsen och stråket längs Kungsbackaån
 blir då ett viktigt offentligt rum för fotgängare
 och cyklister att vistas i (3).
-8.
+8\.
 4 Planprogram                                                                                                                    Planprogram 5
 
 <!-- sida 203 -->
@@ -9365,15 +9365,15 @@ tan angränsar området till flerbostadshus som är tegelhus uppförda i tre vå
 
 <!-- sida 212 -->
 
-1. Alléskolan används idag som boendelokaler för 2. Grundens förskola längs Bissmarksgatan.
+1\. Alléskolan används idag som boendelokaler för 2. Grundens förskola längs Bissmarksgatan.
 nyanlända.
 
-3. Skogsalléns lekpark i programområdets västa del. 4. Återvinningsstation centralt placerad i området.
+3\. Skogsalléns lekpark i programområdets västa del. 4. Återvinningsstation centralt placerad i området.
 
 5 Parkeringshus i stadsdelen Valand 6. Bostäder längs Bissmarksgatan.
 
-8. Innerstaden gränsar i östra delen.
-7. Västra Villastaden i södra programområdet.
+8\. Innerstaden gränsar i östra delen.
+7\. Västra Villastaden i södra programområdet.
 
 14 Planprogram                                                                                                                   Planprogram 15
 
@@ -9812,7 +9812,7 @@ Bostads- och centrumkvarter, verksamhetslo-
 kaler i bottenvåningen och flerbostadshus i upp
 Grönområde/park- och vattenområde
 till sex våningar, hotell. Integrerat parkeringshus.
-3.
+3\.
 Bostads- och centrumkvarter, verksamhets-
 Utvecklingsområde, bostäder
 lokaler i bottenvåningen och flerbostadshus i tre
@@ -9823,10 +9823,10 @@ lokaler och parkeringshus.  Utbildningslokaler (ex förskola). Byggnader i
 upp till tre våningar föreslås att placeras mot ny
 gata genom kvarteret Ejdern.
 Utvecklingsområde, utbildningslokaler
-5.
+5\.
 Utveckling av park- och vattenområde längs
 Programområde             Kungsbackaån.
-6.
+6\.
 Lekpark och Skogsallén bevaras.
 Ny gata mellan Kungsgatan och Skogsallén
 genom kvarteret Ejdern samt utmed Skogsallén a. Centrumstråk - länk mellan Kungsmässan och
@@ -10987,18 +10987,18 @@ Målet för regionen föreslås vara: Tillsammans gör vi Västra Götaland till
 föredöme för omställning till ett hållbart och konkurrenskraftigt samhälle.
 De långsiktiga prioriteringarna är:
 
-- Stärka innovationskraften
-- Bygga kompetensen
+\- Stärka innovationskraften
+\- Bygga kompetensen
 
-- Öka inkluderingen
-- Knyta samman Västra Götaland
+\- Öka inkluderingen
+\- Knyta samman Västra Götaland
 
 De områden där regionen behöver kraftsamla de närmaste åren är enligt strategin:
 
-- Industrins gröna omställning
-- Framtidsrusta barn och unga
+\- Industrins gröna omställning
+\- Framtidsrusta barn och unga
 
-- Ökad robusthet genom samverkan i samhällsplaneringen
+\- Ökad robusthet genom samverkan i samhällsplaneringen
 De fyra långsiktiga prioriteringarna har förtydligats och i övrigt liknar nuvarande
 förslag tidigare versioner av strategin.
 
@@ -11060,16 +11060,16 @@ Målet för regionen föreslås vara: Tillsammans gör vi Västra Götaland till
 till ett hållbart och konkurrenskraftigt samhälle.
 De långsiktiga prioriteringarna är:
 
--    stärka innovationskraften
--    bygga kompetensen
--    öka inkluderingen
--    knyta samman Västra Götaland
+\-    stärka innovationskraften
+\-    bygga kompetensen
+\-    öka inkluderingen
+\-    knyta samman Västra Götaland
 
 De områden där regionen behöver kraftsamla de närmaste åren är enligt strategin:
--    Industrins gröna omställning
+\-    Industrins gröna omställning
 
--    Framtidsrusta barn och unga
--    Ökad robusthet genom samverkan i samhällsplaneringen
+\-    Framtidsrusta barn och unga
+\-    Ökad robusthet genom samverkan i samhällsplaneringen
 
 De fyra långsiktiga prioriteringarna har förtydligats och i övrigt liknar nuvarande förslag tidigare
 versioner av strategin.
@@ -13332,7 +13332,7 @@ i fokus i strategin 2021–2025; Fullföljda studier, Digitalisering, Elektrifie
 Cirkulära affärsmodeller.
 
 REGIONAL UTVECKLINGSSTRATEGI 17
-|
+\|
 BILD Lindholmen Science Park                                                                                                                                                                                         VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 296 -->
@@ -14016,11 +14016,11 @@ Viktiga satsningar och samarbeten inom strategins nuvarande fyra kraft-
 samlingar kommer  till viss del fortsätta inom ramen för de nya områdena
 •  Se över och aktualisera delar av strategin:
 En viktig del i remissen är att fånga synpunkter från de olika remiss-      för kraftsamling. Andra delar fortsätter i det gemensamma genomför-
-- Behålla målet och långsiktiga prioriteringar, men ha dialog om hur
+\- Behålla målet och långsiktiga prioriteringar, men ha dialog om hur
 instanserna om vad det är viktigast att tillsammans fokusera på inom        andet inom  strategins långsiktiga prioriteringar. Exempelvis är den digi-
 genomförandet   går och behöver förstärkas.
 respektive område de närmaste åren.                                         tala transformationen och tillämpningen av AI avgörande för strategins
-- Se över kraftsamlingarna med hjälp av utvärdering och dialog.
+\- Se över kraftsamlingarna med hjälp av utvärdering och dialog.
 genomförande  som  helhet och det är viktigt med fortsatt samverkan
 •  Förstärka genomförandet  av strategin.
 INDUSTRINS GRÖNA  OMSTÄLLNING  motiveras av att Västra Götaland är          kring Digitalisering inom olika områden. Delar av det som sker idag
@@ -14994,27 +14994,27 @@ rubrik av följande lydelse.
 
 1 § Dessa föreskrifter innehåller bestämmelser om
 
-1. den miljörapport som en utövare av tillståndspliktig verksamhet eller
+1\. den miljörapport som en utövare av tillståndspliktig verksamhet eller
 verksamhet som förelagts att ansöka om tillstånd enligt 9 kap. 6 § eller 6 a §
 miljöbalken, ska lämna varje år till tillsynsmyndigheten enligt 26 kap. 20 §
 första stycket miljöbalken,
-2. vilka uppgifter om produktionen av naturgrus, morän och berg som en
+2\. vilka uppgifter om produktionen av naturgrus, morän och berg som en
 
 verksamhetsutövare, enligt 31 a § förordningen (1998:899) om miljöfarlig
 verksamhet och hälsoskydd ska lämna i en miljörapport om länsstyrelsen
 begär det,
-3. skyldighet för utövare av verksamhet som inte är tillståndspliktig eller
+3\. skyldighet för utövare av verksamhet som inte är tillståndspliktig eller
 förelagts att ansöka om tillstånd, men som omfattas av bilaga 1 till
 Europaparlamentets och rådets förordning (EG) nr 166/2006, att lämna
 miljörapport och vad den ska innehålla,
 
-4. skyldighet för utövare av verksamhet som omfattar avloppsledningsnät
+4\. skyldighet för utövare av verksamhet som omfattar avloppsledningsnät
 som är allmänna enligt lagen (2006:412) om allmänna vattentjänster och
 som är anslutna till en avloppsreningsanläggning som är tillståndspliktig
 enligt miljöprövningsförordningen (2013:251) att lämna miljörapport och
 vad den ska innehålla, och
 
-5. vilka uppgifter som en verksamhetsutövare enligt 31 c § förordningen
+5\. vilka uppgifter som en verksamhetsutövare enligt 31 c § förordningen
 (1998:899) om miljöfarlig verksamhet och hälsoskydd ska lämna i en
 miljörapport.
 
@@ -15023,58 +15023,58 @@ miljörapport.
 5 § Miljörapporter som avser tillståndspliktiga verksamheter eller
 verksamheter som förelagts att ansöka om tillstånd ska dessutom innehålla
 följande uppgifter:
-1. En kortfattad beskrivning av verksamheten samt en översiktlig
+1\. En kortfattad beskrivning av verksamheten samt en översiktlig
 beskrivning av verksamhetens huvudsakliga påverkan på miljön och
 
 människors hälsa. De förändringar som skett under året ska anges.
-2. Datum och tillståndsgivande myndighet för gällande tillståndsbeslut
+2\. Datum och tillståndsgivande myndighet för gällande tillståndsbeslut
 enligt 9 kap. 6 § eller 6 a § miljöbalken eller motsvarande i
 miljöskyddslagen samt en kort beskrivning av vad beslutet eller besluten
 avser.
 
-3. Datum och beslutande myndighet för eventuella andra beslut under året
+3\. Datum och beslutande myndighet för eventuella andra beslut under året
 med anledning av anmälningspliktiga ändringar enligt 1 kap. 10-11 §§
 miljöprövningsförordningen (2013:251) samt en kort redovisning av vad
 beslutet eller besluten avser
-4. Datum och beslutande myndighet för eventuella andra gällande beslut
+4\. Datum och beslutande myndighet för eventuella andra gällande beslut
 
 enligt miljöbalken samt en kort redovisning av vad beslutet eller besluten
 avser.
-5. Tillsynsmyndighet enligt miljöbalken.
+5\. Tillsynsmyndighet enligt miljöbalken.
 
-6. Tillståndsgiven och faktisk produktion eller annat mått på verksamhetens
+6\. Tillståndsgiven och faktisk produktion eller annat mått på verksamhetens
 omfattning.
-7. Redovisning av de villkor som gäller för verksamheten samt hur vart och
+7\. Redovisning av de villkor som gäller för verksamheten samt hur vart och
 ett av dessa villkor har uppfyllts.
 
-8. En kommenterad sammanfattning av resultaten av mätningar, beräkningar
+8\. En kommenterad sammanfattning av resultaten av mätningar, beräkningar
 eller andra undersökningar som utförts under året för att bedöma
 verksamhetens påverkan på miljön och människors hälsa.
-9. Redovisning av de betydande åtgärder som vidtagits under året för att
+9\. Redovisning av de betydande åtgärder som vidtagits under året för att
 
 säkra drift och kontrollfunktioner samt för att förbättra skötsel och underhåll
 av tekniska installationer.
-10. Redovisning av de betydande åtgärder som genomförts med anledning
+10\. Redovisning av de betydande åtgärder som genomförts med anledning
 av eventuella driftstörningar, avbrott, olyckor eller liknande händelser som
 har inträffat under året och som medfört eller hade kunnat medföra
 olägenhet för miljön eller människors hälsa.
 
-11. Redovisning av de betydande åtgärder som genomförts under året med
+11\. Redovisning av de betydande åtgärder som genomförts under året med
 syfte att minska verksamhetens förbrukning av råvaror och energi.
-12. De kemiska produkter och biotekniska organismer som kan befaras
+12\. De kemiska produkter och biotekniska organismer som kan befaras
 medföra risker för miljön eller människors hälsa och som under året ersatts
 
 med sådana som kan antas vara mindre farliga.
-13. Redovisning av de betydande åtgärder som genomförts under året i syfte
+13\. Redovisning av de betydande åtgärder som genomförts under året i syfte
 att minska volymen avfall från verksamheten och avfallets farliga
 egenskaper.
 
 <!-- sida 334 -->
 
-14. Redovisning av de betydande åtgärder som genomförts under året med
+14\. Redovisning av de betydande åtgärder som genomförts under året med
 syfte att minska sådana risker som kan ge upphov till olägenheter för miljön
 eller människors hälsa.
-15. En sammanfattning av resultaten av de undersökningar som genomförts
+15\. En sammanfattning av resultaten av de undersökningar som genomförts
 under året för att klarlägga miljöpåverkan vid användning och
 
 omhändertagande av de varor som verksamheten tillverkar samt vilka
@@ -15084,13 +15084,13 @@ omhändertagande av de varor som verksamheten tillverkar samt vilka
 omfattas av Naturvårdsverkets föreskrifter NFS 2016:6 ska dessutom
 innehålla uppgifter om avloppsslammet avseende
 
-1. producerade och hanterade mängder,
-2. behandlingsmetoder,
+1\. producerade och hanterade mängder,
+2\. behandlingsmetoder,
 
-3. innehåll av kemiska ämnen enligt föreskrivna analyskrav,
-4. hur slammet avsätts, och
+3\. innehåll av kemiska ämnen enligt föreskrivna analyskrav,
+4\. hur slammet avsätts, och
 
-5. platser för avsättning.
+5\. platser för avsättning.
 
 Verksamheter som omfattas av anmälningsplikt C enligt 28 kap. 5 §
 miljöprövningsförordningen (2013:251)
@@ -15111,12 +15111,12 @@ uppgifter som anges i 4 § och 5 a § och högst tre månader med övriga
 uppgifter, om det finns särskilda skäl.
 Bestämmelsen gäller inte miljörapporter som avses i 1 § 2.
 
-1. Dessa föreskrifter träder i kraft den 1 januari 2026.
-2. Bestämmelserna i 5 l §, 6 § och bilaga 6 ska tillämpas första gången på
+1\. Dessa föreskrifter träder i kraft den 1 januari 2026.
+2\. Bestämmelserna i 5 l §, 6 § och bilaga 6 ska tillämpas första gången på
 den miljörapport som ska ges in till tillsynsmyndigheten senast den 31 mars
-2026.
+2026\.
 
-3. Övriga bestämmelser ska tillämpas för första gången på den miljörapport
+3\. Övriga bestämmelser ska tillämpas för första gången på den miljörapport
 som ska ges in till tillsynsmyndigheten senast den 31 mars 2027.
 
 <!-- sida 335 -->
@@ -15139,34 +15139,34 @@ emot bygg- och rivningsavfall.
 Följande uppgifter ska lämnas:
 
 Mottagna avfallstyper
--  Avfallskod
+\-  Avfallskod
 
--  Intern benämning
--  Mängd (förutvarande referensår; förifylld)
--  Mängd (aktuellt referensår)
--  Enhet (förifylld som vikt i ton)
--  Hantering
--  Hanteringskod
--  Intern benämning (för hantering)
--  Intern avfallstyp (specificeras under Internt uppkomna avfallstyper)
+\-  Intern benämning
+\-  Mängd (förutvarande referensår; förifylld)
+\-  Mängd (aktuellt referensår)
+\-  Enhet (förifylld som vikt i ton)
+\-  Hantering
+\-  Hanteringskod
+\-  Intern benämning (för hantering)
+\-  Intern avfallstyp (specificeras under Internt uppkomna avfallstyper)
 
 Internt uppkomna avfallstyper
--  Avfallskod
--  Intern benämning
--  Mängd (förutvarande referensår; förifylld)
--  Mängd (aktuellt referensår)
--  Enhet (förifylld som vikt i ton)
+\-  Avfallskod
+\-  Intern benämning
+\-  Mängd (förutvarande referensår; förifylld)
+\-  Mängd (aktuellt referensår)
+\-  Enhet (förifylld som vikt i ton)
 
 Transportör
--  Företagsnamn
+\-  Företagsnamn
 
 Mottagare
--  Anläggning
--  Organisationsnummer
--  Ort
+\-  Anläggning
+\-  Organisationsnummer
+\-  Ort
 Behandling hos mottagaren
--  Hanteringskod
--  Intern benämning (för hantering)
+\-  Hanteringskod
+\-  Intern benämning (för hantering)
 
 Termerna i tabellen ovan har följande betydelse (presenteras i
 bokstavsordning):
@@ -15231,12 +15231,12 @@ avloppsvatten från tätbebyggelse ska följande rapporteras:
 
 (NFS 2019:7)
 
-* Även bedömningsunderlaget ska redovisas.
-** Om efterlevnad sker genom högsta koncentration per mättillfälle eller
+\* Även bedömningsunderlaget ska redovisas.
+\*\* Om efterlevnad sker genom högsta koncentration per mättillfälle eller
 minsta procentuella reduktion per mättillfälle ska samtliga provtagningsdatum
 med analysresultat redovisas.
 
-*** Om efterlevnad sker genom procentuell reduktion ska beräkning redovisas.
+\*\*\* Om efterlevnad sker genom procentuell reduktion ska beräkning redovisas.
 Beräkningen ska utgå från reduktionen i avloppsreningsanläggningen och
 naturlig kväveretention
 
@@ -15244,10 +15244,10 @@ naturlig kväveretention
 
 | Anslutning | - Tillståndsgiven anslutning (pe)<br>- Dimensionerande kapacitet (pe) |
 | --- | --- |
-| Belastning | - Maximal genomsnittlig veckobelastning<br>från tätbebyggelsen (pe)*<br>- Inkommande maximal genomsnittlig<br>veckobelastning för året (pe)*<br>- Inkommande belastning beräknat som<br>årsmedelvärde (pe) |
+| Belastning | - Maximal genomsnittlig veckobelastning<br>från tätbebyggelsen (pe)\*<br>- Inkommande maximal genomsnittlig<br>veckobelastning för året (pe)\*<br>- Inkommande belastning beräknat som<br>årsmedelvärde (pe) |
 | Inkommande till<br>avloppsrenings-anläggning | - COD , BOD , totalfosfor och totalkväve<br>Cr 7<br>i mängd och halt (kg, mg/l)<br>- Flöde (1 000 m3) |
 | Utgående från avloppseningsan-<br>läggning | - COD , BOD , totalfosfor, totalkväve,<br>Cr 7<br>NH -N, Hg, Cd, Pb, Cu, Zn, Cr och Ni i<br>4<br>mängd och halt (kg, mg/l) samt flöde (1 000<br>m3) för utgående renat avloppsvatten, bräd-<br>dat i eller vid avloppsreningsanläggningen,<br>och sammanvägd utgående mängd och halt<br>inklusive bräddning i eller vid avloppse-<br>ningsanläggningen |
-| Efterlevnad av begränsningsvär-<br>den i NFS 2016:6 | - COD (förvalda alternativ anges)**<br>Cr<br>- BOD (förvalda alternativ anges)**<br>7<br>- Totalkväve (förvalda alternativ anges)***<br>- Totalfosfor (förvalda alternativ anges) |
+| Efterlevnad av begränsningsvär-<br>den i NFS 2016:6 | - COD (förvalda alternativ anges)\*\*<br>Cr<br>- BOD (förvalda alternativ anges)\*\*<br>7<br>- Totalkväve (förvalda alternativ anges)\*\*\*<br>- Totalfosfor (förvalda alternativ anges) |
 
 <!-- sida 339 -->
 
@@ -15592,7 +15592,7 @@ trafik samt vad investeringen innebär för den kommunala ekonomin, se vidare i 
 Flertalet fastighetsägare har lämnat synpunkter som inte tillgodosetts och som berör investeringsmedel
 samt önskan om fler parkeringsplatser.
 Nu gällande detaljplan KP129 anger GATA. Genomförandetiden för detaljplanen går ut den 12 mars
-2028. Före genomförandetidens utgång får en detaljplan inte ersättas mot berörda fastighetsägares
+2028\. Före genomförandetidens utgång får en detaljplan inte ersättas mot berörda fastighetsägares
 
 1 (2)
 Samhällsbyggnadskontoret                                  Kungsbacka kommun
@@ -15649,7 +15649,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (57)
 Byggnadsnämndens arbetsutskott Datum
 2025-06-24
 
-$ 146 Dnr BN-2019-00020
+\$ 146 Dnr BN-2019-00020
 Godkännande av detaljplan för Kungsbackas arena i Kungsbacka stad
 
 Förslag till beslut i byggnadsnämnden
@@ -15662,7 +15662,7 @@ Kungsbackas arena i Kungsbacka stad, upprättad 2025-06-10.
 
 Sammanfattning av ärendet
 
-Byggnadsnämnden gav 2019-10-24 $332 samhällsbyggnadskontoret i uppdrag att
+Byggnadsnämnden gav 2019-10-24 \$332 samhällsbyggnadskontoret i uppdrag att
 upprätta detaljplan för ny arena inom fastigheten Kungsbacka 4:65 m.fl. Detaljplanen
 hanteras med utökat planförfarande därav sker beslut om antagande av detaljplanen i
 kommunfullmäktige.
@@ -15692,7 +15692,7 @@ Genomförandetiden för detaljplanen har gått ut. Den sydöstra delen av områd
 omfattas inte av någon detaljplan.
 
 Kontoret har för aktuell detaljplan gjort en undersökning av miljöpåverkan enligt
-Plan- och bygglagen 4 kap. 34 $ och Miljöbalken 6 kap. 11 $. Vid undersökningen
+Plan- och bygglagen 4 kap. 34 \$ och Miljöbalken 6 kap. 11 \$. Vid undersökningen
 konstaterades att ett genomförande av planen inte innebär betydande miljöpåverkan,
 varför en miljöbedömning med särskild miljökonsekvensbeskrivning inte har gjorts.
 Länsstyrelsen instämmer med kommunens bedömning.
@@ -17428,9 +17428,9 @@ Utifrån resultaten av tagna markprover bedöms sammanfattningsvis ingen sanerin
 nödvändig för de identifierade arsenik-, nickel- och alifathalterna, då dessa antingen har
 naturligt ursprung eller förekommer på djup där exponering och spridning är begränsad. Om det
 uppstår kvittblivningsbehov för massor från dessa lager, ska dessa massor hanteras som MKM-
-massor (föroreningsgrad >KM, <MKM). Däremot bedöms det föreligga saneringsbehov på
+massor (föroreningsgrad >KM, \<MKM). Däremot bedöms det föreligga saneringsbehov på
 grusytan som representeras av provpunkt 2, för lagret 0-0,5 m under markytan, där massorna
-ska omhändertas som IFA-massor (föroreningsgrad >MKM, <FA).
+ska omhändertas som IFA-massor (föroreningsgrad >MKM, \<FA).
 En planbestämmelse har införts på område i plankartan där annexet är lokaliserat i form av
 
 • ”Startbesked får inte ges för byggnad förrän markförorening ned till KM (känslig
@@ -18438,7 +18438,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 Detaljplanens överensstämmelse med översiktsplanen
 
 Länsstyrelsen delar kommunens bedömning att detaljplanen överensstämmer med översiktsplanen.
@@ -18702,7 +18702,7 @@ En översiktlig miljöteknisk markundersökning (Kodeda konsulter AB, 2025) har 
 det bedöms föreligga saneringsbehov på grusytan som representeras av provpunkt 2, för lagret
 0-0,5 m under markytan, där massorna ska omhändertas som IFA-massor (föroreningsgran
 
->MKM, <FA). En planbestämmelse har införts på område i plankartan där annexet är
+\>MKM, \<FA). En planbestämmelse har införts på område i plankartan där annexet är
 lokaliserat i form av ”Startbesked får inte ges för byggnad förrän markförorening ned till KM
 (känslig markanvändning) uppfylls.”
 
@@ -18776,7 +18776,7 @@ planbeskrivningen.
 KUNGSBACKA  KOMMUN
 9 (37)
 
-2. SGI
+2\. SGI
 
 Enligt 2 kap 5 § PBL ska bebyggelse och byggnadsverk lokaliseras till mark som är lämpad för
 ändamålet med hänsyn till bland annat människors hälsa och säkerhet samt med hänsyn till risken för
@@ -18838,7 +18838,7 @@ utvecklar förutsättningarna för grundläggning och säkerhetsåtgärder i
 genomförandeskedet. De slutsatser och rekommendationer som beskrivits i
 tidigare utredning är fortfarande relevanta.
 
-3. Trafikverket
+3\. Trafikverket
 
 Trafikflöde
 Trafikverket välkomnar kommunens åtgärder för att göra hållbara transporter mer attraktiva för
@@ -18913,7 +18913,7 @@ och detta säkerställs i byggskedet.
 KUNGSBACKA  KOMMUN
 12 (37)
 
-4. Lantmäteriet
+4\. Lantmäteriet
 För plangenomförandet viktiga frågor där planen behöver förbättras
 
 (Här redovisas synpunkter om sådana frågor som Lantmäteriet särskilt ska bevaka och sådant som vi
@@ -18974,7 +18974,7 @@ avseende de reviderade planbestämmelserna.
 Hur gällande detaljplaner påverkas i och med aktuellt detaljplaneförslag har förtydligats i
 planbeskrivningen.
 
-5. Räddningstjänsten
+5\. Räddningstjänsten
 Överväganden
 
 Riskhänsyn
@@ -18985,10 +18985,10 @@ kostnadsmässigt rimliga och tekniskt genomförbara åtgärder bör genomföras 
 anges vidare att den totala risknivån för området anses vara godtagbar utifrån de tillämpade
 riskkriterierna om följande skyddsåtgärder genomförs:
 
-- Utrymning bör vara möjlig bort från Västkustbanan.
+\- Utrymning bör vara möjlig bort från Västkustbanan.
 
-- Ventilation bör placeras i högt läge och bortvänd från Västkustbanan.
-- Större entréer på arenan bör placeras så att de inte vetter mot Västkustbanan.
+\- Ventilation bör placeras i högt läge och bortvänd från Västkustbanan.
+\- Större entréer på arenan bör placeras så att de inte vetter mot Västkustbanan.
 
 Åtgärden gällande placering av ventilation har införts som planbestämmelse. RSG kan inte se att
 övriga åtgärder (möjlighet till utrymning bort från järnvägen samt placering av entré) har beaktats.
@@ -19033,7 +19033,7 @@ finns för utryckningsfordon att ta sig fram utan hinder.
 En ny brandpost föreslås etableras i torgets västra del för att uppfylla gällande riktlinjer för
 avstånd mellan brandposterna. Exakt placering bestäms i projekteringsskedet.
 
-6. Havs- och vattenmyndigheten
+6\. Havs- och vattenmyndigheten
 
 Havs- och vattenmyndigheten har tagit del av samrådsunderlaget i rubricerat ärende.
 Myndigheten avstår från att lämna synpunkter på underlaget. Det innebär inte att myndigheten tagit
@@ -19043,7 +19043,7 @@ Kommentar: Noteras.
 
 Organisationer och föreningar
 
-7. Kulturmiljö Halland
+7\. Kulturmiljö Halland
 
 Kulturmiljö Halland har fått rubricerat ärende för yttrande. Vi har inget att erinra mot förslaget. Flera
 kända fornlämningar finns i närområden runt aktuellt område, varför undersökning bör göras på
@@ -19061,7 +19061,7 @@ aktuell detaljplan.
 
 Kommunala  förvaltningar och nämnder
 
-8. Teknik
+8\. Teknik
 
 Teknik är positiva till förslaget att utveckla området för att möjliggöra för större idrotts-, näringslivs
 och kulturevenemang inom planområdet. Planens syfte stämmer väl med gällande översiktsplan där
@@ -19185,7 +19185,7 @@ Inför granskningsskedet av detaljplanen har dagvattenutredningen reviderats. Nu
 större mängd av rening och fördröjning av vatten att ske genom öppna lösningar i form av
 bland annat krossdiken och rain-gardens.
 
-9. Nämnden för Vård och Omsorg
+9\. Nämnden för Vård och Omsorg
 
 Nämnden för Vård & Omsorg har tagit del av detaljplan för Kungsbacka Arena i Kungsbacka tätort
 inom fastigheten: Kungsbacka 4:56. Användning idrott, kultur och mötesplats. Vård & Omsorg vill
@@ -19199,7 +19199,7 @@ Kommentar: Noterat.
 KUNGSBACKA  KOMMUN
 18 (37)
 
-10. Nämnden för miljö och hälsoskydd
+10\. Nämnden för miljö och hälsoskydd
 Tidigare remiss gällde inte detta område som nu är på samråd, utan området öster om järnvägen. Detta
 gäller området väster om järnvägen.
 
@@ -19288,7 +19288,7 @@ området.
 En översiktlig miljöteknisk markundersökning (Kodeda konsulter AB, 2025) har tagits fram där
 det bedöms föreligga saneringsbehov på grusytan som representeras av provpunkt 2, för lagret
 0-0,5 m under markytan, där massorna ska omhändertas som IFA-massor (föroreningsgrad
->MKM, <FA). En planbestämmelse har införts på område i plankartan där annexet är
+\>MKM, \<FA). En planbestämmelse har införts på område i plankartan där annexet är
 
 <!-- sida 424 -->
 
@@ -19302,7 +19302,7 @@ lokaliserat i form av ”Startbesked får inte ges för byggnad förrän markfö
 Om föroreningar påträffas under byggtiden kommer detta anmälas till Miljö och Hälsoskydd i
 enlighet med 10 kap. 11§ miljöbalken.
 
-11. Nämnden för service
+11\. Nämnden för service
 Nämnden för Service ställer sig i huvudsak positivt till planförslaget, undantaget vissa synpunkter som
 listas längre ned i dokumentet. Planförslaget har som ändamål att tillskapa flera olika byggrätter
 
@@ -19311,47 +19311,47 @@ Planförslaget möjliggör också för kommersiell verksamhet.
 Nämndens ställningstagande i detalj
 
 Nämnden för Service är i huvudsak positiv till planförslaget, dock med följande synpunkter;
-1. Ytan för annexbyggnaden som har användningsbestämmelserna C och R är begränsad för
+1\. Ytan för annexbyggnaden som har användningsbestämmelserna C och R är begränsad för
 kommunal besöksverksamhet (ex fullmåttshall). Önskvärt vore om ytan i markplan kan ses över för
 eventuell utökning för att även möjliggöra kommunal verksamhet i framtiden.
 
-2. Ytan för annexbyggnaden som har användningsbestämmelserna C och R, kommer bli utmanande att
+2\. Ytan för annexbyggnaden som har användningsbestämmelserna C och R, kommer bli utmanande att
 bygga dikt an arenabyggnaden p.g.a nuvarande utformning. Kontor och restaurang i arenan som vetter
 mot annexbyggnaden försvårar detta och har med dagsljusinsläpp.
-3. Smal remsa öster om byggrätten för R1 har en diagonal form. Svårt att utröna om det är en
+3\. Smal remsa öster om byggrätten för R1 har en diagonal form. Svårt att utröna om det är en
 nödvändighet. Kan byggrätten göras mer kvadratiskt är det till en fördel.
 
-4. Smal remsa öster om byggrätten för R innehåller egenskapsbestämmelse p , som hänvisar till
+4\. Smal remsa öster om byggrätten för R innehåller egenskapsbestämmelse p , som hänvisar till
 1                       1
 prickad mark. Dock förekommer bestämmelse på både icke prickad mark och på korsmark.
-5. Ytan för användningsbestämmelse R , saknar egenskapsbestämmelse för n , dvs belysningsmaster.
+5\. Ytan för användningsbestämmelse R , saknar egenskapsbestämmelse för n , dvs belysningsmaster.
 2                        2
 Kommentar: Se svar nedan;
-1. Annexbyggnadens användningsbestämmelser skapar en flexibilitet för flera
+1\. Annexbyggnadens användningsbestämmelser skapar en flexibilitet för flera
 användningsområden och kommunal verksamhet i form av exempelvis idrottshall blir
 därmed planenligt. Byggrätten är cirka 1200 kvm stor vilket bedöms tillräckligt för att fylla
 byggnaden med ett attraktivt och efterfrågat innehåll på sikt.
-2. Till granskningsskedet har byggrätten för annexet justerats. Det är nu inlagt att det ska
+2\. Till granskningsskedet har byggrätten för annexet justerats. Det är nu inlagt att det ska
 finnas ett avstånd mellan arenabyggnad och annex i markplan och på plan två för att inte
 påverka arenans verksamheter invändigt på ett negativt sätt med brist på bland annat
 ljusinsläpp och entrépunkter. Annexet och arenan kommer däremot vara möjliga att bygga
 samman från arenans plan tre där kontorsytor föreslås om intresse för detta finns på sikt.
-3. Den diagonala formen föranleds av skyddsavståndet om 80 meter mellan järnvägsspåret
+3\. Den diagonala formen föranleds av skyddsavståndet om 80 meter mellan järnvägsspåret
 och byggnaden ur ett riskperspektiv.
-4. Revideras inför granskning av detaljplanen.
+4\. Revideras inför granskning av detaljplanen.
 
 <!-- sida 425 -->
 
 KUNGSBACKA  KOMMUN
 21 (37)
 
-5. Det är möjligt att uppföra belysningsmastar även på prickad mark (Mark där byggnad inte
+5\. Det är möjligt att uppföra belysningsmastar även på prickad mark (Mark där byggnad inte
 
 får uppföras) då en belysningsmast inte är en byggnad.
 
 Övriga
 
-12. Västtrafik
+12\. Västtrafik
 Västtrafik har tagit del av ovan nämnda samrådshandling. Vi har inget att erinra. Vi har aktivt deltagit i
 framtagande av dokumentet tillhörande planen: Mobilitet-och parkering för Kungsbacka sportcenter:
 Åtgärdsplan för tillgängliga evenemang. Det är positivt att kommunen i tidigt skede arbetat med
@@ -19366,12 +19366,12 @@ arenan behöver ta sig.
 Yttrandet är avstämt med Hallandstrafiken.
 Kommentar: Noterat.
 
-13. Ellevio
+13\. Ellevio
 
 Ellevio har ingenting att erinra.
 Kommentar: Noterat.
 
-14. E.ON
+14\. E.ON
 
 E.ON Energidistribution AB (E.ON) har tagit del av inkomna handlingar i ovan rubricerat ärende och
 har följande synpunkter.
@@ -19424,7 +19424,7 @@ till Södra infarten.
 
 Utformning av transformatorstationen ansvarar Förvaltningen för service för.
 
-15. PostNord
+15\. PostNord
 
 PostNord har i uppdrag att tillhandahålla den samhällsomfattande posttjänsten vilket bland annat
 innebär att det är Postnord som ska godkänna placeringen och standarden på
@@ -19449,20 +19449,20 @@ befintlig alt ny infrastruktur.
 En placering som inte är godkänd leder till att posten inte börjar delas ut till adressen.
 Kommentar: Noterat.
 
-16. Skanova
+16\. Skanova
 
 Skanova har inget att erinra mot detaljplanen. Skanovas teleanläggningar/rättigheter berörs
 inte/påverkas inte av rubricerat planförslag.
 Kommentar: Noterat.
 
-17. Swedavia airport
+17\. Swedavia airport
 Nuvarande planförslag (Dnr 2019:00020) bedöms inte innebära någon negativ påverkan på Göteborg
 Landvetter Airport.
 
 Swedavia har inga övriga synpunkter och därmed inget att erinra i detta samråd.
 Kommentar: Noterat.
 
-18. Miljöpartiet i Kungsbacka
+18\. Miljöpartiet i Kungsbacka
 
 Miljöpartiet stöttar att det är viktigt med mötesplatser för sport och kultur, mötesplatser som främjar
 jämlikhet och mångfald, som både stärker Kungsbacka som stad och stärker tillgänglighet för olika
@@ -19515,7 +19515,7 @@ Hede station och arenan, utveckla attraktiva gång- och cykelstråk, förstärkn
 
 kollektivtrafik, parkeringsledningssystem med flera.
 
-19. Socialdemokraterna i Kungsbacka
+19\. Socialdemokraterna i Kungsbacka
 Aktuellt yttrande
 
 Planering och placering av byggnad.
@@ -19627,7 +19627,7 @@ behovet av detta finns.
 KUNGSBACKA  KOMMUN
 27 (37)
 
-20. Region Halland
+20\. Region Halland
 Region Halland tackar för möjligheten att yttra sig över detaljplanen. Yttrandet är avstämt mot aktuella
 förvaltningar, inklusive Hallandstrafiken. Bedömningen från regionen är att det är positivt att
 verksamheter samlas, särskilt i ett bra läge som ligger nära starka kollektivtrafikstråk. För att göra
@@ -19641,14 +19641,14 @@ Kommentar: I ”Åtgärdsplan för tillgängliga evenemang” ges förslag på 2
 stärka mobiliteten till området, bland annat en utökad kollektivtrafik, skyttelbussar vid
 evenemang och tydligare gång- och cykelstråk mellan olika målpunkter.
 
-21. Mölndals stad
+21\. Mölndals stad
 
 Mölndals Stad, samhällsbyggnadsförvaltningen, tackar för möjligheten att komma med synpunkter på
 ovan rubricerat ärende. Emellertid avstår förvaltningen att inkomma med synpunkter i enlighet med
 kommunstyrelsens delegeringsordning, punkt E7.
 Kommentar: Noteras.
 
-22. Aranäs fastigheter
+22\. Aranäs fastigheter
 
 Att skapa en symbolbyggnad i Kungsbacka och den stolthet som det för med sig är en fantastisk
 målbild. En multiarena för idrott, kultur, event och fotboll som vi alla kan använda, en ny mötesplats i
@@ -19674,14 +19674,14 @@ Kommentar: Noteras.
 KUNGSBACKA  KOMMUN
 28 (37)
 
-23. Kommuninvånare 1
+23\. Kommuninvånare 1
 Ni bygger sönder den småstad de flesta flyttat hit för. Bor ni ens i Kungsbacka själva eller är ni
 skyddade i mindre samhällen från era egna beslut. Vägarna köar igen, översvämningar hotar. Låt
 båthamnen och lugnet bero. Vandaler.
 
 Kommentar: Noteras.
 
-24. Kommuninvånare 2
+24\. Kommuninvånare 2
 Jag anser som skattebetalare i kommunen att detta ”skrytbygge” är ett slöseri utan dess like med
 skattepengar som skulle kunna användas på ett betydligt bättre sätt, satsa på äldrevård, sjukvård,
 skolor, trafikmiljö för rullstolar och andra med funktionshinder, satsa på våra unga medborgare med
@@ -19706,7 +19706,7 @@ lokaler som restauranger, kontor med mera som gör platsen attraktiv för flera 
 Kommunen har en tydlig målsättning att växa och då är det viktigt att tillskapa funktioner,
 utöver bostäder, som bidrar till att skapa en attraktiv stad för boenden och besökare.
 
-25. Kommuninvånare 3
+25\. Kommuninvånare 3
 Jag är emot en ny arena i Kungsbacka. Det finns tomma tider på nuvarande arenor i Göteborg och
 
 våran smidiga anslutning med pendeltåget gör att vi inte behöver göra denna kostsamma satsning.
@@ -19725,7 +19725,7 @@ Kommentar: En multiarena i Kungsbacka kommer uppfylla flera behov än de anlägg
 som finns i staden idag och kompletterar Kungsbacka sportcenter till en än mer attraktiv och
 naturlig besöksmål för boenden i Kungsbacka men även besökare från andra kommuner.
 
-26. Kommuninvånare 4
+26\. Kommuninvånare 4
 
 Nej till ny arena. Vi ska inte ta ett lån och betala avbetalning samt ränta. Pengar som detta
 kostar måste kommunen istället lägga på att öka anslagen till vården och skolan. Alternativt
@@ -19736,7 +19736,7 @@ Kommentar: Kommunfullmäktige fattade beslutet i april 2021 att en funktionell, 
 robust arena innehållandes kommersiella lokaler ska byggas i kommunen och att
 investeringsmedel ska avsättas för detta.
 
-27. Kommuninvånare 5
+27\. Kommuninvånare 5
 
 För det första, vill ni verkligen ha synpunkter? Har ni inte insett att vägen fram, via QR-kod, är
 samtidigt exkluderande. Det borde vara betydligt enklare, att kunna lämna synpunkter. Att det blir
@@ -19783,7 +19783,7 @@ placeringen intill badhus, ishall, teater och gymnasieskolor är väl avvägd. P
 inom korta avstånd till busshållplats, Kungsbacka station och med goda möjligheter att ta sig
 till platsen både till fots, med cykel samt bil.
 
-28. Kommuninvånare 6
+28\. Kommuninvånare 6
 Sluta med alla byggnadsprojekt i Kungsbacka kommun, ni förgiftar redan nu badplatserna i
 kommunen!
 
@@ -19810,7 +19810,7 @@ och cykelnät som leder till arenaområdet.
 KUNGSBACKA  KOMMUN
 31 (37)
 
-29. Kommuninvånare 7
+29\. Kommuninvånare 7
 Vi är många i Kungsbacka som undrar om politikerna här lider av storhetsvansinne. Ni har tillåtit att
 bygga ut hela stan med omnejd utan att det finns tillräckligt med vatten, det kommer vi att behöva
 
@@ -19833,7 +19833,7 @@ Kommunfullmäktige fattade beslutet i april 2021 att en funktionell, attraktiv o
 innehållandes kommersiella lokaler ska byggas i kommunen och att investeringsmedel ska
 avsättas för detta.
 
-30. Kommuninvånare 8
+30\. Kommuninvånare 8
 
 Angående konstgräsplanerna tycker jag att vi ska installera markvärmerör för bättre utnyttjande och
 billigare underhåll över tid. Pris för varje plan bör ligga på ca 1,100 000. Därtill kommer en pump som
@@ -19845,7 +19845,7 @@ hallen, utan all fotboll spelas utomhus). Tacksam för feedback.
 Kommentar: Noteras. Synpunkten sänds vidare till förvaltningen för Service som ansvarar
 för utbyggnad och drift av konstgräsplanerna.
 
-31. Kommuninvånare 9
+31\. Kommuninvånare 9
 
 Jag vill bara säga NEJ! Jag tycker att Kungsbacka Kommun skall akta dig för att dra igång ett projekt
 av denna storlek. Man kan ha stora drömmar och det är fint med visioner men jag anser att innan man
@@ -19873,7 +19873,7 @@ Idrott är fantastisk på många sätt och den behövs men inte på bekostnad av
 
 Kommentar: Noteras.
 
-32. Kommuninvånare 10
+32\. Kommuninvånare 10
 
 Kungsbacka behöver inte en stor arena för elitidrott och större evenemang. Kungsbacka bör fortsätta
 vara en småstad och kommunen bör inte satsa på sådana här jätteprojekt, utan genomföra mindre
@@ -19893,7 +19893,7 @@ Arenans placering gör det möjligt att ta sig dit med flertalet färdmedel, int
 är korta avstånd till busshållplats och Kungsbacka station. Det finns även ett väl utbyggt gång-
 och cykelnät som leder till arenaområdet.
 
-33. Kommuninvånare 11
+33\. Kommuninvånare 11
 
 Varför bygga en stor arena i ett område där vi vet att vattennivån kommer att stiga. Gräsplanen
 närmarmast Båtklubben är redan vattensjuk.
@@ -19935,17 +19935,17 @@ bil. Busshållplats finns i direkt anslutning och Kungsbacka station är inom pr
 Det finns även ett väl utbyggt gång- och cykelvägnät till området. Vid större evenemang
 kommer det även genomföras flertalet åtgärder som gör det möjligt att ta sig till platsen med
 andra färdmedel än bil, se ”Åtgärdsplan för tillgängliga evenemang” (Kungsbacka kommun,
-2025) som är en bilaga till detaljplanen.
+2025\) som är en bilaga till detaljplanen.
 Om fyrspår byggs ut i längs järnvägen kommer det ske mot öster vilket inte påverkar
 
 arenaprojektet eller arenans närhet till järnvägen.
 Arenabyggnaden kommer pålgrundläggas ned till berg.
 
-34. Kommuninvånare 12
+34\. Kommuninvånare 12
 
-1. Motsätter mig beslutet om Arenan o kostnaderna därav.
+1\. Motsätter mig beslutet om Arenan o kostnaderna därav.
 
-2. Om arenabygget blir av, dess placering. De öppna ytorna behövs!
+2\. Om arenabygget blir av, dess placering. De öppna ytorna behövs!
 
 <!-- sida 438 -->
 
@@ -19958,7 +19958,7 @@ De stora gräsytorna i området kommer i stort bevaras som de är idag. En stör
 kommer byggas mellan arenan, ishallen och badhuset där flertalet funktioner inklusive mer
 grönska än idag kommer finnas.
 
-35. Kommuninvånare 13
+35\. Kommuninvånare 13
 
 Att genomföra ett s.k. samråd för Arenan, utan att samtidigt presentera investeringskostnad och
 driftsbudget för oss kommuninnevånare/skattebetalare, är totalt meningslöst. Vad är det vi skall ha en
@@ -19984,12 +19984,12 @@ kommunen kan bemöta då det är politiska beslut som är fastställda.
 Driftbudgeten är inte fastställd ännu varför vi inte hade svar på samtliga frågor kring detta på
 mötet.
 
-36. Kommuninvånare 14
+36\. Kommuninvånare 14
 Jag ser ingen utredning om i vilken grad trafiken på Kungsgatan och vidare via Vallgatan
 /Storgatan till Varbergsvägen kommer att öka. Redan idag är det ofta svårt att svänga ut från
 Kollavägen till Kungsgatan och köer på Vallgatan/Storgatan till Varbergsvägen.
 
-*Utredningen föreslår ingen ändring av trafiken norrifrån på Södra Infarten till arenan. Jag anser
+\*Utredningen föreslår ingen ändring av trafiken norrifrån på Södra Infarten till arenan. Jag anser
 detta vara fel och man borde utreda möjligheten att flytta Södra Infarten att gå längs järnvägen
 
 från rondellen vid Hantverksgatan eller möjligen först vid Läraregatan. Detta för att få bort
@@ -20000,11 +20000,11 @@ biltrafiken bredvid badhuset när trafikvolymen till arenan ökar på trafiken.
 KUNGSBACKA  KOMMUN
 35 (37)
 
-*Utredningen räknar med parkering i Parkeringshus Linden vid större arrangemang.
+\*Utredningen räknar med parkering i Parkeringshus Linden vid större arrangemang.
 Utredningen borde innehålla planer för gångväg därifrån, förslagsvis via gång/cykelväg närmast
 öster om sporthall och badhus.
 
-*För att minska trafiken genom centrala Kungsbacka bör man även utreda att skapa
+\*För att minska trafiken genom centrala Kungsbacka bör man även utreda att skapa
 parkeringsplatser i dödutrymmet mellan Södra Infarten och Inlagsleden samt gång/cykelväg
 därifrån till arenan och längs Inlagsleden västerut.
 
@@ -20095,17 +20095,17 @@ daterade 2025-01-14. Detaljplanen handläggs med utökat förfarande.
 
 Under samrådet ska Länsstyrelsen enligt 5 kap. 14 § PBL särskilt
 
-1. ta till vara och samordna statens intressen
-2. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
+1\. ta till vara och samordna statens intressen
+2\. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
 (1998:808), MB, tillgodoses, att miljökvalitetsnormer enligt
 5 kap. MB följs och att strandskydd enligt 7 kap. MB inte
 
 upphävs i strid med gällande bestämmelser
-3. verka för att sådana frågor om användningen av mark- och
+3\. verka för att sådana frågor om användningen av mark- och
 vattenområden som angår två eller flera kommuner
 samordnas på ett lämpligt sätt
 
-4. verka för att en bebyggelse inte blir olämplig eller ett
+4\. verka för att en bebyggelse inte blir olämplig eller ett
 byggnadsverk olämpligt med hänsyn till människors hälsa
 eller säkerhet eller till risken för olyckor, översvämning eller
 erosion.
@@ -20152,7 +20152,7 @@ Länsstyrelsen delar kommunens bedömning att detaljplanen
 överensstämmer med översiktsplanen.
 
 Länsstyrelsens synpunkter
-- prövningsgrunder  enligt 11 kap. 10 § PBL
+\- prövningsgrunder  enligt 11 kap. 10 § PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i
 11 kap. 10 § PBL och nu kända förhållanden att frågor som rör
@@ -20372,7 +20372,7 @@ detaljplanen.
 
 Länsstyrelsens synpunkter
 
-- råd enligt 2 kap. PBL
+\- råd enligt 2 kap. PBL
 
 Naturmiljövärden
 Det finns observationer av jättebalsamin i anslutning till
@@ -20546,14 +20546,14 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra allmänna
 intressen och bedömer med hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
 förhållanden att ett antagande av detaljplanen inte kommer att prövas.
 
 Kommentar: Noteras.
 
-2. Trafikverket
+2\. Trafikverket
 Dagvattenhantering
 
 Trafikverket notera att kommunen ska anlägga ett dike för dagvattenhantering samt att skyfall kommer
@@ -20576,7 +20576,7 @@ Se ”PM angående påverkan på järnvägsanläggningen med hänsyn till planer
 
 Kungsbacka Arena” (Skanska, 2025).
 
-3. Lantmäteriet
+3\. Lantmäteriet
 Vid genomgång av planförslagets handlingar (daterade april 2025) har följande noterats:
 
 Delar av planen som bör förbättras
@@ -20613,7 +20613,7 @@ Kommentar: Kommunen äger all mark inom planområdet och avser att bygga ut
 arenabyggnaden med både kommersiella lokaler samt arenahall (besöksanläggning) samtidigt,
 vilket säkerställer båda funktionerna i arenan.
 
-4. Statens Geotekniska Institut (SGI)
+4\. Statens Geotekniska Institut (SGI)
 
 SGI har under samrådsskedet yttrat sig, (2025-01-30, dnr 4.3.1-2501-0068) och då framfört att:
 • Relevanta jordartsparametrar ska sammanställas och redovisas inom detaljplanehandlingarna.
@@ -20626,7 +20626,7 @@ Tidigare framförda synpunkter har hanterats på ett bra sätt och SGI har inga 
 planförslaget.
 Kommentar: Noterat.
 
-5. Räddningstjänstförbundet Storgöteborg (RSG)
+5\. Räddningstjänstförbundet Storgöteborg (RSG)
 Riskhänsyn
 
 RSG framförde vid samråd synpunkter gällande avsaknad av vissa riskrelaterade planbestämmelser.
@@ -20669,7 +20669,7 @@ KUNGSBACKA  KOMMUN
 
 Sakägare
 
-6. E.ON
+6\. E.ON
 
 E.ON Energidistribution AB (E.ON) har tagit del av inkomna handlingar i ovan rubricerat ärende och
 noterar kommunens kommentarer i samrådsredogörelsen och har inga ytterligare synpunkter över
@@ -20678,7 +20678,7 @@ Kommentar: Noterat.
 
 Organisationer och föreningar
 
-7. Region Halland
+7\. Region Halland
 
 Region Halland tackar för möjligheten att yttra sig över detaljplanen. Yttrandet är avstämt mot aktuella
 förvaltningar, inklusive Hallandstrafiken.
@@ -20689,14 +20689,14 @@ Region Halland har inga ytterligare synpunkter på planförslaget i granskningss
 
 Kommentar: Noterat.
 
-8. Kulturmiljö Halland
+8\. Kulturmiljö Halland
 Kulturmiljö Halland har fått rubricerade ärende på remiss har inga synpunkter ur kulturmiljöaspekt.
 
 Kommentar: Noteras.
 
 Kommunala förvaltningar och nämnder
 
-9. Teknik
+9\. Teknik
 Teknik är positiva till förslaget att utveckla området för att möjliggöra för större idrotts-, näringslivs-
 
 och kulturevenemang inom planområdet. Planens syfte stämmer väl med gällande översiktsplan där
@@ -20768,7 +20768,7 @@ Synpunkten om fettavskiljare läggs in i planbeskrivningen som ett förtydligand
 vidare till förvaltningen för service som ansvarar för uthyrning och anpassning av lokalerna i
 arenan.
 
-10. Miljö & Hälsoskydd
+10\. Miljö & Hälsoskydd
 
 Synpunkterna från samrådsskedet har arbetats in i planbeskrivningen som nu är på granskning och man
 har gjort en markmiljöundersökning och jordprover analyserades med avseende på metaller, PAH-16,
@@ -20776,7 +20776,7 @@ alifatiska- och aromatiska kolväten, BTEX och PCB (7). Asfalt analyseras med av
 
 Den översiktlig miljöteknisk markundersökning (Kodeda konsulter AB, 2025) har tagits fram där det
 bedöms föreligga saneringsbehov på grusytan som representeras av provpunkt 2, för lagret 0-0,5 m
-under markytan, där massorna ska omhändertas som IFA-massor (föroreningsgran >MKM, <FA). Hela
+under markytan, där massorna ska omhändertas som IFA-massor (föroreningsgran >MKM, \<FA). Hela
 området kommer att ha krav att saneras ner till KM samt att man hanterar konstgräsplanen så att
 plastgranulater inte riskerar att spridas vidare ut i dagvattnet.
 Vi ansåg att man skulle utreda risken för buller- och ljusstörning som kunde påverka arenans framtida
@@ -20793,7 +20793,7 @@ havsvattennivån ökning eller översvämning.
 
 Kommentar: Noteras.
 
-11. Vård och omsorg
+11\. Vård och omsorg
 Vård & Omsorg har tagit del av detaljplan för Kungsbacka Arena i Kungsbacka tätort inom
 fastigheten: Kungsbacka 4:56. Användning idrott, kultur och mötesplats. Vård & Omsorg vill betona
 
@@ -20806,7 +20806,7 @@ Kommentar: Noteras.
 KUNGSBACKA  KOMMUN
 8 (14)
 
-12. Service
+12\. Service
 Detaljplanen för Kungsbacka arena på Inlagområdet har tidigare varit ute på samråd och är nu ute på
 granskning. Detaljplanen tas fram för att kommunen ska kunna uppföra en arena vilken föreslås
 innehålla en arenahall för idrotts- och kulturevenemang, en fotbollsarena samt kommersiella lokaler.
@@ -20827,18 +20827,18 @@ Kommentar: Noteras.
 
 Övriga
 
-13. Marks kommun
+13\. Marks kommun
 Avstår från att yttra sig.
 
 Kommentar: Noteras.
 
-14. Varbergs kommun
+14\. Varbergs kommun
 Varbergs kommun gör samma bedömning som i samrådet, att förslaget inte bedöms vara av ett större
 mellankommunalt intresse och lämnar inte något yttrande.
 
 Kommentar: Noteras.
 
-15. Swedavia
+15\. Swedavia
 
 Nuvarande planförslag bedöms inte innebära någon negativ påverkan på Göteborg Landvetter Airport.
 Swedavia har inga övriga synpunkter och därmed inget att erinra i denna granskning.
@@ -20849,12 +20849,12 @@ Kommentar: Noteras.
 KUNGSBACKA  KOMMUN
 9 (14)
 
-16. Kommuninvånare 1
+16\. Kommuninvånare 1
 Parkeringssituationen bör man nog tänka igenom en extra gång. I stort sett alla parkeringar
 framför nuvarande konstgräsplan ser ut att försvinna och det verkar inte tillkomma några nya i
 närheten av den nya konstgräsplanen. Jag ser flera problem med detta.
 
-1) Konstgräsplanen är den fotbollsplan som används större delen av året av föreningarna, då
+1\) Konstgräsplanen är den fotbollsplan som används större delen av året av föreningarna, då
 gräset är avstängt. Det är väldigt högt tryck på den och ofta ett mycket stort antal barn
 /ungdomar per träningstillfälle. Se (bifogad bild till yttrandet) hur det typiskt ser ut vid
 hämtning/lämning av fotbollsträning under vinterhalvåret. Dessa kommer nu få parkera på stora
@@ -20864,18 +20864,18 @@ blir det långt från den nya konstgräsplanen! I bästa fall 500 meter, i värs
 (parkeringshuset). Det är långt att gå för en knatte som blir hämtad efter sin fotbollsträning i
 januari... Det känns orimligt.
 
-2) Parkeringspunkten ovan gäller också hockeyträningar. Och lägg till handboll/innebandy till det,
+2\) Parkeringspunkten ovan gäller också hockeyträningar. Och lägg till handboll/innebandy till det,
 eftersom de skall hålla till i nya arenan, så inser man snabbt att det kommer bli orimligt mycket
 trafik i ett litet område. Har någon av föreningarna en cup eller liknande, så kommer det inte
 finnas en parkeringsplats inom en kilometers radie för de andra föreningarna.
 
-3) Trafiksituationen med bilar som hämtar och lämnar är redan hektisk det här området. Att
+3\) Trafiksituationen med bilar som hämtar och lämnar är redan hektisk det här området. Att
 lägga till handboll/innebandy/evenemangs-trafik till simning/hockey/fotbollshämtningarna på
 samma gata låter som ett recept på kaos. Det kommer bli farligare för barnen, speciellt de som
 cyklar eller går själv till träningen att transportera sig till och från träningen, både österifrån
 (Hammerö/Fors/Hålabäck) och norrifrån (Varla/innerstan).
 
-4) Att så många kommer lämna/hämta och leta parkering i samma område är heller inte positivt
+4\) Att så många kommer lämna/hämta och leta parkering i samma område är heller inte positivt
 
 för de uteserveringar och andra verksamheter som skall vara i den nya hallen.
 Jag föreslår att man försöker skapa en ny större parkeringsyta i södra delen av Inlag, närmare
@@ -20908,7 +20908,7 @@ omvandlingen av området.
 
 Ytorna i södra delen av Inlag är avsedda för idrottsutövande.
 
-17. Kommuninvånare 2
+17\. Kommuninvånare 2
 Att planera för ett arenabygge i Kungsbacka under rådande ekonomiska omständigheter är ett riskabelt
 och oansvarigt beslut. Ekonomin är osäker, med högre räntor, inflation och en global politisk
 instabilitet som påverkar även Sverige och Kungsbacka kommun. Hushållen håller i sina pengar, och
@@ -20930,7 +20930,7 @@ trenden med storskaliga arenabyggen.
 Kommentar: Kommunfullmäktige fattade beslutet i april 2021 att en arena ska byggas i
 kommunen och att investeringsmedel ska avsättas för detta.
 
-18. Kommuninvånare 3
+18\. Kommuninvånare 3
 Nej till arenabygget i Kungsbacka satsa på skola och omsorg istället.
 
 Kungsbacka kommun planerar att bygga en ny arena för mångmiljonbelopp ett projekt som väcker
@@ -20975,15 +20975,15 @@ kulturevenemang i Kungsbacka stad.
 
 Detaljplanen möjliggör för ett hotell om behovet finns i framtiden.
 
-19. Kommuninvånare 4
+19\. Kommuninvånare 4
 Nedanstående punkter samläses med situationskarta (nästa sida) med skiss/anteckningar.
 
 Parkeringssituationen
-1. Besökare till simhallen och idrottsanläggningen kommer konkurrera om p-platser på den
+1\. Besökare till simhallen och idrottsanläggningen kommer konkurrera om p-platser på den
 befintliga parkeringsytans södra del. Att som det hänvisas i dokumenten gå upp till 1300 meter
 för att parkera är inte rimligt.
 
-2. Parkering för ledare till idrottshall och fotboll. Det är idrottsledarna för allt i från barn- och
+2\. Parkering för ledare till idrottshall och fotboll. Det är idrottsledarna för allt i från barn- och
 ungdomslag till seniorlag som bär upp idrottsklubbarna. Dom lägger mängder med tid på
 verksamheten och gör ett fantastiskt arbete. Det är dock ofta tidsmässigt pressande och kan
 också innebära att material behöver fraktas. Det är viktigt att det finns möjlighet till
@@ -20998,21 +20998,21 @@ parkeringsmöjligheter för ledare på rimligt avstånd från arenan eller fotbo
 från parkeringen till aktiviteten borde vara max 100 meter. Föreslår kompletterande
 parkeringsyta.
 
-3. Att föräldrar med idrottande barn ska behöva passera två trafikerade vägar på väg från
+3\. Att föräldrar med idrottande barn ska behöva passera två trafikerade vägar på väg från
 parkeringsplats till idrottshallen och fotbollsplanerna är inte bra!
 Egentligen vore en bättre lösning att förlägga vägen, Södra infarten, norrut på östra sidan
 (närmast järnvägen) om den befintliga parkeringsytan, då försvinner spring över vägen och
 parkeringen knyts bättre ihop med badhuset och idrottsanläggningen.
 
-4. Parkering för spelarbussar till arenan och fotbollsplanerna?
+4\. Parkering för spelarbussar till arenan och fotbollsplanerna?
 
 Tillgång till toaletter
-5. Vore bra om det finns offentliga toaletter
+5\. Vore bra om det finns offentliga toaletter
 tillgängliga i området för folk (föräldrar mfl) som
 rör sig i området.
 
 Gångpassager
-6. Anslutning för gående/cyklister mellan
+6\. Anslutning för gående/cyklister mellan
 multiarenan/torget och GC-banan längs
 Kungsbackaån
 tycks saknas i situationsplanen? Känns som en
@@ -21020,7 +21020,7 @@ viktig anslutning, särskilt om fler GC-broar över
 ån kommer byggas i framtiden
 
 Omklädningsrum
-7. Kanske inte en fråga för detaljplanen, men ändå:
+7\. Kanske inte en fråga för detaljplanen, men ändå:
 Omklädningsrummen bör utformas så pass stora så
 att hela idrottslag får plats (upp till 20
 personer). Omklädningsrummen bör också ha en
@@ -21047,7 +21047,7 @@ finns även ett väl utbyggt gång- och cykelvägnät till området. Vid större
 det även genomföras flertalet åtgärder som gör det möjligt att ta sig till platsen med andra
 färdmedel än bil.
 
-3. Förslaget om att flytta den huvudsakliga motorfordonstrafiken närmast järnvägen och skapa
+3\. Förslaget om att flytta den huvudsakliga motorfordonstrafiken närmast järnvägen och skapa
 attraktivare gång- och cykelförbindelser närmast och öster om Badhuset och Sportcentret är
 intressant. I den fördjupade översiktsplanen (granskningshandling) finns ett utredningsområde
 för utökning av järnvägen och att pröva omstrukturering av trafiknäten kan göras först efter
@@ -21059,9 +21059,9 @@ motorfordonstrafik mellan idrottsparken och Badhuset samt Sportcentret.
 
 4, Parkering för spelarbussar ska i första hand ske inom logistikytan (back of house).
 
-5. Synpunkten gällande tillgång till offentliga toaletter noteras och utreds vidare i samband
+5\. Synpunkten gällande tillgång till offentliga toaletter noteras och utreds vidare i samband
 med projektering av de allmänna ytorna i arenaområdet.
-6. I nuläget är det svårt att tillskapa en gångpassage mellan det planerade arenatorget och
+6\. I nuläget är det svårt att tillskapa en gångpassage mellan det planerade arenatorget och
 gång- och cykelbanan längs Kungsbackaån med anledning av att flera stora byggnader som is-
 och boulehall förhindrar en sådan koppling, även om platsen hade dragit fördelar av en sådan
 fysisk koppling. Ytan söder om ishallen är även aktuell i en lokaliseringsutredning för ny isyta i
@@ -21070,7 +21070,7 @@ Kungsbacka stad som hade omöjliggjort en sådan koppling. En koppling längre s
 att säkerställa då det finns ett behov att ha flexibilitet när bollplanerna ska målas upp varför en
 gångpassage inte kan göras permanent inom det stora gräsfältet. Synpunkten noteras och tas
 med i fortsatt arbete med utvecklingen av Kungsbacka sportcenter.
-7. Synpunkten gällande utformning av omklädningsrum sänds vidare till förvaltningen för
+7\. Synpunkten gällande utformning av omklädningsrum sänds vidare till förvaltningen för
 service som ansvarar för arenabyggnadens interiöra delar.
 
 <!-- sida 463 -->
@@ -21132,7 +21132,7 @@ en fotbollsplan och tillhörande läktare med syftet att uppfylla
 Svenska Fotbollsförbundets krav vid matchspel på elitnivå.
 
 Länsstyrelsens synpunkter
-- prövningsgrunder  enligt 11 kap. 10 § PBL
+\- prövningsgrunder  enligt 11 kap. 10 § PBL
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget
 
@@ -21287,7 +21287,7 @@ pension och familjeskydd efter att uppdraget avslutats.
 
 Den 18 oktober 2024 beslutade styrelsen för Sveriges Kommuner och Regioner (SKR) att anta
 reglerna i OPF-KL § 5 om pensionsavgifter. I samband med detta bytte regelverket namn till OPF-KR
-25.
+25\.
 De nya bestämmelserna har anpassats så långt som möjligt till de pensions- och omställningsavtal som
 gäller för anställda i kommuner, regioner och kommunalförbund. I OPF-KR 25 § 5 har
 
@@ -21374,8 +21374,8 @@ andra eventuella förändringar. Översynen ska ske i dialog med medlemmarna.
 Kommunfullmäktige beslutade vid sammanträde att genom minoritetsåterremiss, återremittera ärendet
 för:
 
-1. Utredning av möjligheten att avslå omställningsstöd vid grovt förtroendeskadligt beteende, och
-2. Utformning av etiska riktlinjer för hur förtroendevalda bör uppträda och vad som utgör
+1\. Utredning av möjligheten att avslå omställningsstöd vid grovt förtroendeskadligt beteende, och
+2\. Utformning av etiska riktlinjer för hur förtroendevalda bör uppträda och vad som utgör
 oacceptabelt beteende.
 
 Kommunstyrelsens förvaltning har genomfört en omvärldsanalys av tillämpningen i andra kommuner.
@@ -21387,12 +21387,12 @@ I Kungsbacka kommun har det funnits ett lokalt regelverk som utgått från OPF-K
 tillägg. Detta regelverk har benämnts OPF-KL 22 och antogs i kommunfullmäktige den 15 juni 2022.
 Nedan följer de lokala tilläggen:
 
-1. Förtydligande av skrivningen om hur 40-procentsregeln ska tolkas (kap 2, § 1, st)
+1\. Förtydligande av skrivningen om hur 40-procentsregeln ska tolkas (kap 2, § 1, st)
 
-2. Förverkad rätt till omställningsstöd för förtroendevald som dömts till brott (kap 2, § 1, st 3)
+2\. Förverkad rätt till omställningsstöd för förtroendevald som dömts till brott (kap 2, § 1, st 3)
 
-3. Samordna inkomster från första dagen (kap 2, § 6, st 4 och 5)
-4. Egen aktivitet från första dagen (kap 2, § 7, st 2 och 3)
+3\. Samordna inkomster från första dagen (kap 2, § 6, st 4 och 5)
+4\. Egen aktivitet från första dagen (kap 2, § 7, st 2 och 3)
 
 De lokala tilläggen föreslås överföras till de nya bestämmelserna i OPF-KR 25, i de paragrafer där de
 tidigare sorterats, se förslag till Bestämmelser om omställningsstöd, pension och familjeskydd för
@@ -21415,19 +21415,19 @@ omställningsersättning inom ramen för OPF-regelverket.
 
 Att försöka reglera frågor om uppförande eller etik medför flera principiella och praktiska problem:
 
-- Rättsosäkerhet: Det är svårt att på ett rättssäkert sätt fastställa vad som utgör ”grovt
+\- Rättsosäkerhet: Det är svårt att på ett rättssäkert sätt fastställa vad som utgör ”grovt
 förtroendeskadligt beteende” eller ”oacceptabelt uppträdande”, särskilt om det inte rör sig om
 lagstadgade brottsliga handlingar. Att knyta ekonomiska sanktioner till sådana bedömningar
 riskerar att leda till godtycke.
-- Tolkningssvårigheter: Etiska riktlinjer som ska ligga till grund för beslut om ekonomisk
+\- Tolkningssvårigheter: Etiska riktlinjer som ska ligga till grund för beslut om ekonomisk
 ersättning kräver tydliga definitioner och objektiva tillämpningskriterier. Sådana är svåra att
 formulera och en utmaning att praktiskt tillämpa utan att hamna i bedömningar av personliga
 värderingar eller politiska hänsyn.
-- Partiernas ansvar: Det är i första hand respektive politiskt partis ansvar att ställa krav på sina
+\- Partiernas ansvar: Det är i första hand respektive politiskt partis ansvar att ställa krav på sina
 
 förtroendevalda vad gäller uppträdande, moral och efterlevnad av partiets värderingar. Eventuella
 sanktioner vid oacceptabelt uppträdande bör hanteras inom ramen för partiets egna strukturer.
-- Reglering i lag: Förtroendevaldas skyldigheter och ansvar regleras redan i flera lagar. Bland annat
+\- Reglering i lag: Förtroendevaldas skyldigheter och ansvar regleras redan i flera lagar. Bland annat
 anger kommunallagen (2017:725) att ett uppdrag som förtroendevald ska utföras med integritet
 och i enlighet med det allmännas bästa (1 kap. 7 §). Vidare gäller förvaltningslagens (2017:900)
 krav på objektivitet, saklighet och god förvaltningssed även när förtroendevalda agerar i rollen som
@@ -21681,26 +21681,26 @@ för förtroendevalda som avses i 4 kap. § 1 kommunallagen. OPF-KL18 antas loka
 av fullmäktige inom kommun, landsting/region eller kommunalförbund.
 OPF-KL18 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
   Pensionsmyndighet
 
   Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 
   Aktiva omställningsinsatser
 
   Ekonomiskt omställningsstöd
   Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
   Avgiftsbestämd pensionsbehållning
   Sjukpension
 
   Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 Kapitel 1
 
@@ -22230,7 +22230,7 @@ Kungsbacka kommun Bestämmelser om omställningsstöd och pension för förtroen
 förtroendevaldes död. Omständigheterna ska vara sådana som anges i 12 kap. 8 §
 första stycket FAL.
 
-______________________
+\______________________
 
 Kungsbacka kommun Bestämmelser om omställningsstöd och pension för förtroendevalda (OPF-KL 22) 13 (13)
 
@@ -22423,25 +22423,25 @@ inom kommun, region eller kommunalförbund.
 
 OPF-KR25 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 •  Lokal pensionsmyndighet
 
 •  Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 •  Aktiva omställningsinsatser
 
 •  Ekonomiskt omställningsstöd
 •  Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
 •  Avgiftsbestämd pensionsbehållning
 •  Sjukpension
 
 •  Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 <!-- sida 494 -->
 
@@ -22767,9 +22767,9 @@ upphör också rätten till sjukpension.
 
 Anmärkningar
 
-1. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i
+1\. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i
 uppdraget (uppdragen).
-2. Sjukpensionen ska värdesäkras på motsvarande sätt som i de
+2\. Sjukpensionen ska värdesäkras på motsvarande sätt som i de
 bestämmelser som gäller för utbetalning av månadsersättning
 enligt AGS-KL.
 
@@ -22982,13 +22982,13 @@ kommunalförbund.
 
 OPF-KR25 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 •  Lokal pensionsmyndighet
 
 •  Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 
 •  Aktiva omställningsinsatser
 
@@ -22996,7 +22996,7 @@ OPF-KR25 indelas i fyra kapitel:
 
 •  Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
 •  Avgiftsbestämd pensionsbehållning
 
@@ -23004,7 +23004,7 @@ OPF-KR25 indelas i fyra kapitel:
 
 •  Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 <!-- sida 506 -->
 
@@ -23347,10 +23347,10 @@ upphör också rätten till sjukpension.
 
 Anmärkningar
 
-1. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i uppdraget
+1\. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i uppdraget
 (uppdragen).
 
-2. Sjukpensionen ska värdesäkras på motsvarande sätt som i de bestämmelser som
+2\. Sjukpensionen ska värdesäkras på motsvarande sätt som i de bestämmelser som
 gäller för utbetalning av månadsersättning enligt AGS-KL.
 
 Förtroendevald som befrias/frånträder sitt uppdrag p g a sjukdom har rätt till
@@ -23843,7 +23843,7 @@ Utbetalning av förmåner
 pensionshandläggare som ansökan om familjeskydd för efterlevande vuxen
 och familjeskydd för efterlevande barn.
 
-__________________
+\__________________
 
 Kungsbacka kommun Lokalt regelverk för bestämmelser om omställningsstöd, pension och familjeskydd för 6 (6)
 förtroendevalda, OPF-KL 22
@@ -23860,14 +23860,14 @@ Taxa för brandskyddskontroll 2026-2031
 
 Förslag till beslut i kommunfullmäktige
 
-1. Kommunfullmäktige antar taxa i enlighet med bilaga 1.
+1\. Kommunfullmäktige antar taxa i enlighet med bilaga 1.
 
-2. Kommunfullmäktige antar taxebestämmelserna i enlighet med bilaga 2.
-4. Kommunfullmäktige beslutar att taxan enligt beslutspunkt 1 gäller från och med
+2\. Kommunfullmäktige antar taxebestämmelserna i enlighet med bilaga 2.
+4\. Kommunfullmäktige beslutar att taxan enligt beslutspunkt 1 gäller från och med
 den 1 januari 2026 till och med den 31 december 2031 för Kungsbacka kommun med
 den justering som sker enligt beslutspunkt 5.
 
-5. Kommunfullmäktige beslutar att Räddningstjänstförbundet Storgöteborg för varje
+5\. Kommunfullmäktige beslutar att Räddningstjänstförbundet Storgöteborg för varje
 avgiftsår ska årligen justera taxorna enligt beslutspunkt 1 enligt Sveriges kommuner
 och regioners (SKR) Prisindex för kommunal verksamhet (PKV). Vid justeringen
 tillämpas det PKV som SKR årligen publicerar i februari, i samband med cirkuläret
@@ -23942,13 +23942,13 @@ Taxa för brandskyddskontroll 2026–2031
 
 Förslag till beslut i kommunfullmäktige
 
-1. Kommunfullmäktige antar taxa i enlighet med bilaga 1.
-2. Kommunfullmäktige antar taxebestämmelserna i enlighet med bilaga 2.
+1\. Kommunfullmäktige antar taxa i enlighet med bilaga 1.
+2\. Kommunfullmäktige antar taxebestämmelserna i enlighet med bilaga 2.
 
-4. Kommunfullmäktige beslutar att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026
+4\. Kommunfullmäktige beslutar att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026
 till och med den 31 december 2031 för Kungsbacka kommun med den justering som sker enligt
 beslutspunkt 5.
-5. Kommunfullmäktige beslutar att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska
+5\. Kommunfullmäktige beslutar att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska
 årligen justera taxorna enligt beslutspunkt 1 enligt Sveriges kommuner och regioners (SKR) Prisindex
 för kommunal verksamhet (PKV). Vid justeringen tillämpas det PKV som SKR årligen publicerar i
 februari, i samband med cirkuläret som omfattar budgetförutsättningar och skatteprognos. Taxan
@@ -24055,16 +24055,16 @@ Beslut
 Förbundsstyrelsen överlämnar till medlemskommunernas kommunstyrelser och kommunfullmäktige
 att besluta:
 
-1. att anta taxa i enlighet med bilaga 1
-2. att anta taxebestämmelserna i enlighet med bilaga 2,
+1\. att anta taxa i enlighet med bilaga 1
+2\. att anta taxebestämmelserna i enlighet med bilaga 2,
 
-3. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 till och med den 31
+3\. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 till och med den 31
 december 2031 för kommunerna Tjörn, Stenungsund och Lilla Edet, med den justering som sker
 enligt beslutspunkt 5,
-4. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026 till och med den 31
+4\. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026 till och med den 31
 december 2031 för kommunerna Göteborg, Mölndal, Kungsbacka, Härryda, Lerum och Partille
 med den justering som sker enligt beslutspunkt 5,
-5. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska årligen justera taxorna enligt
+5\. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska årligen justera taxorna enligt
 beslutspunkt 1 enligt Sveriges kommuner och regioners (SKR) Prisindex för kommunal
 verksamhet (PKV). Vid justeringen tillämpas det PKV som SKR årligen publicerar i februari, i
 samband med cirkuläret som omfattar budgetförutsättningar och skatteprognos. Taxan beräknas
@@ -24106,21 +24106,21 @@ Taxa  brandskyddskontroll     inom
 
 Räddningstjänsten     Storgöteborg
 
-1.   Förslag till beslut
+1\.   Förslag till beslut
 
 Förbundsstyrelsen överlämnar till medlemskommunernas kommunstyrelser och
 kommunfullmäktige att besluta:
 
-1. att anta taxa i enlighet med bilaga 1
-2. att anta taxebestämmelserna i enlighet med bilaga 2,
-3. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 till och
+1\. att anta taxa i enlighet med bilaga 1
+2\. att anta taxebestämmelserna i enlighet med bilaga 2,
+3\. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 till och
 med den 31 december 2031 för kommunerna Tjörn, Stenungsund och Lilla Edet,
 med den justering som sker enligt beslutspunkt 5,
-4. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026 till och med
+4\. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026 till och med
 den 31 december 2031 för kommunerna Göteborg, Mölndal, Kungsbacka, Härryda,
 Lerum och Partille med den justering som sker enligt beslutspunkt 5,
 
-5. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska årligen justera
+5\. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska årligen justera
 taxorna enligt beslutspunkt 1 enligt Sveriges kommuner och regioners (SKR)
 Prisindex för kommunal verksamhet (PKV). Vid justeringen tillämpas det PKV som
 SKR årligen publicerar i februari, i samband med cirkuläret som omfattar
@@ -24128,7 +24128,7 @@ budgetförutsättningar och skatteprognos. Taxan beräknas enligt PKV för två 
 det år som taxebeloppet ska gälla. Justeringen görs med PKV enligt det cirkulär som
 publiceras året före det år taxebeloppet ska gälla.
 
-2.   Sammanfattning
+2\.   Sammanfattning
 
 Då föreskriftsrätt inte kan delegeras från kommun till kommunalförbund behöver
 RSG:s medlemskommuner fatta beslut om de taxor och frister som RSG ska tillämpa i
@@ -24153,7 +24153,7 @@ januari 2026.
 
 För Stenungssund, Tjörn och Lilla Edets kommuner från 1 september 2026.
 
-3.   Ärendet
+3\.   Ärendet
 
 Bakgrund
 RSG ansvarar enligt LSO för brandskyddskontroll. Avgifter för denna verksamhet får tas
@@ -24211,13 +24211,13 @@ med tidigare taxa.
 Lars Klevensparr           Joakim Ögren
 Förbundsdirektör           Handläggare
 
-4.   Bilagor
+4\.   Bilagor
 
-1. Taxa för brandskyddskontroll 2026
-2. Taxebestämmelser
-3. Redogörelse taxa brandskyddskontroll
+1\. Taxa för brandskyddskontroll 2026
+2\. Taxebestämmelser
+3\. Redogörelse taxa brandskyddskontroll
 
-4. BSK-taxa_2026 TU-
+4\. BSK-taxa_2026 TU-
 
 3 (3)
 
@@ -24232,7 +24232,7 @@ För Göteborg, Mölndal, Kungsbacka, Härryda, Partille och Lerums kommuner
 gäller från 1 januari 2026.
 För Stenungsund, Tjörn och Lilla Edets kommuner gäller taxan från 1 september
 
-2026.
+2026\.
 För utförande av föreskriven brandskyddskontroll enligt 3 kap. 4 § lag om skydd
 mot olyckor (2003:778) utgår ersättning enligt denna taxa.
 
@@ -24314,10 +24314,10 @@ Inledande bestämmelse
 1 §
 Enligt denna taxa utgår avgift för brandskyddskontroll avseende
 
-1. Objekt i småhus
+1\. Objekt i småhus
 
-2. Övriga objekt
-3. Särskilda bestämmelser
+2\. Övriga objekt
+3\. Särskilda bestämmelser
 
 Allmänna bestämmelser
 2 §
@@ -24682,7 +24682,7 @@ Verksamheten är inte lagreglerad utan är en allmän nyttighet av infrastruktur
 karaktär med stort allmänt intresse. Avgifter för kommunens bredband tas ut i en
 kommunallagsreglerad taxa som beslutas av kommunfullmäktige. Avgifterna i taxan
 för bredbandstjänster baseras på en förväntad utveckling av verksamheten till år
-2030.
+2030\.
 
 Inför 2026 föreslår nämnden för Teknik att endast kapacitetspriserna justeras, medan
 övriga avgifter förblir oförändrade. Priserna för kapacitetstjänster sänks för att bättre
@@ -25028,7 +25028,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 554 -->
 
-1. Om Kungsbacka    Bredbandsnät
+1\. Om Kungsbacka    Bredbandsnät
 Kungsbacka bredbandsnät har genom Nämnden för Teknik sedan oktober 2010 i
 
 uppdrag av Kommunfullmäktige1 att svara för utbyggnad av kanalisation och
@@ -25063,7 +25063,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                2 (9)
 
 <!-- sida 555 -->
 
-2. Tjänster
+2\. Tjänster
 I Kungsbacka Bredbandsnät är idag en väsentlig del av anslutningarna till nätet
 
 relaterade till kommunens verksamhet. Det är ofta mycket kritiska anslutningar
@@ -25143,7 +25143,7 @@ inget annat avtalats.
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
 
-•  Tillgänglighet = 100*(mätperiod-oplanerade avbrott) / mätperiod.
+•  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
 Servicetid: inom den tid vilken felavhjälpning och service sker.
@@ -25169,7 +25169,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                4 (9)
 Erbjudna tjänster uppfyller SSNF:s tekniska produktspecifikationer enligt
 Avtalspaketet för Cesar2 där så är tillämpligt och avtalat.
 
-3.       Avgifter och  taxor
+3\.       Avgifter och  taxor
 
 Samtliga priser är angivna exklusive moms om inget annat anges.
 
@@ -25342,7 +25342,7 @@ fibersatt område där Kungsbacka bredbandsnät tidigare lagt ner tom kanalisati
 (rör) vid tomtgräns. Byggnation av efteranslutningar sker under fastställda perioder
 som planeras årsvis.
 
-*Priser angivna inklusive moms.
+\*Priser angivna inklusive moms.
 
 3.6      Servicenivåer
 Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
@@ -25362,7 +25362,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                8 (9)
 
 [Tabell 560-2](handlingar.tabeller/560-2.csv)
 
-| Beskrivning | Engångsavgift* |
+| Beskrivning | Engångsavgift\* |
 | --- | --- |
 | Fiberanslutning till villa vid byggnation av ett område i tätort | 20 000 kr |
 | Fiberanslutning till villa vid byggnation av ett område på landsbygd | 25 000 kr |
@@ -25386,9 +25386,9 @@ fiberinstallation orsakad av tredje part, arbete i noder, aktivering eller omkop
 Avgiften kan även ligga till grund för riktpris gällande andra åtaganden som kräver
 teknikerinsats. Även restid och inställelsetid debiteras med samma timpris.
 
-* Pris angivet inklusive moms.
+\* Pris angivet inklusive moms.
 
-________________
+\________________
 
 Kungsbacka kommun             Bredbandstaxa 2026                9 (9)
 
@@ -25402,7 +25402,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                9 (9)
 
 [Tabell 561-2](handlingar.tabeller/561-2.csv)
 
-| Arbete | Pris * | Förklaring |
+| Arbete | Pris \* | Förklaring |
 | --- | --- | --- |
 | Fibertekniker | 800 kr | Per påbörjad timme. Helgfri vardag kl.08-16 |
 
@@ -25455,12 +25455,12 @@ och omvärldsanalys. Nämnden föreslår få ändringar i de föreslagna avgifte
 jämfört med tidigare fastställda avgifter. Nedan följer en kortfattad redogörelse över
 föreslagna ändringar:
 
-- Parkeringsavgifter: Ingen ändring föreslås. Nivå A (7 kronor/timma) och D (3
+\- Parkeringsavgifter: Ingen ändring föreslås. Nivå A (7 kronor/timma) och D (3
 kronor/timma) används i dagsläget.
 
-- Avgiftsbefrielse för rörelsehindrade: Fortsatt undantag från parkeringsavgift
+\- Avgiftsbefrielse för rörelsehindrade: Fortsatt undantag från parkeringsavgift
 föreslås.
-- Boendeparkering: Ingen ändring av avgifter eller villkor föreslås.
+\- Boendeparkering: Ingen ändring av avgifter eller villkor föreslås.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E76FE59DA75520ACE74E23F202A5EB7B69A7B4A941
@@ -25473,16 +25473,16 @@ Kommunstyrelsens arbetsutskott
 Datum
 2025-09-09
 
-- Nyttoparkering: Ingen ändring av avgifter för nyttokort föreslås.
-- Felparkeringsavgift – överskriden tid/ej betalt: Oförändrad, 300 kronor per
+\- Nyttoparkering: Ingen ändring av avgifter för nyttokort föreslås.
+\- Felparkeringsavgift – överskriden tid/ej betalt: Oförändrad, 300 kronor per
 tillfälle.
 
-- Felparkeringsavgift – parkering på plats med förbud att parkera: Höjs från 450
+\- Felparkeringsavgift – parkering på plats med förbud att parkera: Höjs från 450
 kronor till 600 kronor.
-- Felparkeringsavgift – parkering på plats med förbud att stanna: Oförändrad, 800
+\- Felparkeringsavgift – parkering på plats med förbud att stanna: Oförändrad, 800
 
 kronor per tillfälle.
-- Felparkeringsavgift – parkering på plats reserverad för rörelsehindrade utan
+\- Felparkeringsavgift – parkering på plats reserverad för rörelsehindrade utan
 tillstånd: Höjs från 800 kronor till 1 300 kronor.
 
 Kontrollavgift på kvartersmark avser den avgift som markägare, eller den
@@ -25758,14 +25758,14 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 570 -->
 
-1. Inledning
+1\. Inledning
 
 Detta dokument innehåller alla taxor som innebär kostnader kopplat till
 parkering för motorfordon. I respektive avsnitt beskrivs taxorna för
 parkeringsavgifter, boendeparkeringsavgifter, nyttokort samt
 felparkeringsavgifter och kontrollavgifter.
 
-2. Inledande bestämmelser    för parkeringsavgifter
+2\. Inledande bestämmelser    för parkeringsavgifter
 
 Möjligheten att reglera parkering med avgift styrs av Lag (1957:259) om rätt för
 kommun att ta ut avgift för vissa upplåtelser av offentlig plats, m. m. I lagen anges
@@ -25827,7 +25827,7 @@ Kungsbacka kommun      Taxa för parkeringsavgifter och felparkeringsavgifter 3 
 
 <!-- sida 572 -->
 
-3. Boendeparkering
+3\. Boendeparkering
 
 Enligt 2 § i Lag (1957:259) om rätt för kommun att ta ut avgift för vissa upplåtelser
 av offentlig plats, m. m. får parkeringsavgifter tas ut efter särskilda grunder för de
@@ -25861,7 +25861,7 @@ Kungsbacka kommun      Taxa för parkeringsavgifter och felparkeringsavgifter 4 
 
 <!-- sida 573 -->
 
-4. Nyttoparkering
+4\. Nyttoparkering
 
 Enligt 2 § i Lag (1957:259) om rätt för kommun att ta ut avgift för vissa upplåtelser
 av offentlig plats, m. m. får parkeringsavgifter tas ut på särskilda grunder för
@@ -25891,7 +25891,7 @@ Kungsbacka kommun      Taxa för parkeringsavgifter och felparkeringsavgifter 5 
 
 <!-- sida 574 -->
 
-5. Felparkeringsavgifter och  kontrollavgifter
+5\. Felparkeringsavgifter och  kontrollavgifter
 
 Möjligheten att ta ut en felparkeringsavgift styrs av Lag (1976:206) om
 felparkeringsavgift där det anges att regeringen beslutar om det högsta och lägsta
@@ -27449,7 +27449,7 @@ Kommunfullmäktiges sammanträden
 Förslag till beslut:
 Vi föreslår att kommunfullmäktige beslutar:
 
-- Att ändra arbetsordningen för kommunfullmäktige så att ersättare som inte tjänstgör ges
+\- Att ändra arbetsordningen för kommunfullmäktige så att ersättare som inte tjänstgör ges
 rätt att delta i överläggningarna vid fullmäktiges sammanträden men inte i beslutet.
 
 Motivering:
@@ -28633,13 +28633,13 @@ förmåga att informera äldre om aktuella frågor och möjligheten för äldre 
 synpunkter och förslag.
 Mot bakgrund av detta vill motionären att kommunfullmäktige beslutar:
 
-1. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
+1\. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
 mellan kommunen och dess äldre invånare.
 
-2. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
+2\. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
 kommunalt pensionärsråd ska organiseras och fungera, i dialog med lokala
 pensionärsföreningar och andra berörda intressenter.
-3. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
+3\. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
 dem vara delaktiga i kommunala beslut. Genom detta får kommunen bättre underlag
 för sina beslut genom samverkan med dem man finns till för. Deltagardemokrati
 
@@ -28710,14 +28710,14 @@ från olika pensionärsorganisationer vilket begränsar både kommunens förmåg
 aktuella frågor och möjligheten för äldre att framföra synpunkter och förslag.
 
 Mot bakgrund av detta vill motionären att kommunfullmäktige beslutar:
-1. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan mellan
+1\. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan mellan
 kommunen och dess äldre invånare.
 
-2. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett kommunalt
+2\. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett kommunalt
 pensionärsråd ska organiseras och fungera, i dialog med lokala pensionärsföreningar och andra
 berörda intressenter.
 
-3. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta dem vara
+3\. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta dem vara
 delaktiga i kommunala beslut. Genom detta får kommunen bättre underlag för sina beslut
 genom samverkan med dem man finns till för. Deltagardemokrati mellan valen är viktig för att
 komplettera mellan de vanliga demokratiska valen.
@@ -29110,13 +29110,13 @@ förmåga att informera äldre om aktuella frågor och möjligheten för äldre 
 synpunkter och förslag.
 Mot bakgrund av detta vill motionären att kommunfullmäktige beslutar:
 
-1. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
+1\. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
 mellan kommunen och dess äldre invånare.
-2. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
+2\. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
 
 kommunalt pensionärsråd ska organiseras och fungera, i dialog med lokala
 pensionärsföreningar och andra berörda intressenter.
-3. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
+3\. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
 dem vara delaktiga i kommunala beslut. Genom detta får kommunen bättre
 underlag för sina beslut genom samverkan med dem man finns till för.
 Deltagardemokrati mellan valen är viktig för att komplettera mellan de vanliga
@@ -29187,13 +29187,13 @@ förmåga att informera äldre om aktuella frågor och möjligheten för äldre 
 synpunkter och förslag.
 Mot bakgrund av detta vill motionären att kommunfullmäktige beslutar:
 
-1. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och
+1\. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och
 samverkan mellan kommunen och dess äldre invånare.
-2. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för
+2\. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för
 hur ett kommunalt pensionärsråd ska organiseras och fungera, i dialog med
 
 lokala pensionärsföreningar och andra berörda intressenter.
-3. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att
+3\. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att
 låta dem vara delaktiga i kommunala beslut. Genom detta får kommunen
 bättre underlag för sina beslut genom samverkan med dem man finns till för.
 Deltagardemokrati mellan valen är viktig för att komplettera mellan de
@@ -29241,14 +29241,14 @@ Pensionärsråd
 Förslag till beslut:
 Vi föreslår att kommunfullmäktige beslutar:
 
-1. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
+1\. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
 mellan kommunen och dess äldre invånare.
 
-2. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
+2\. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
 kommunalt pensionärsråd ska organiseras och fungera, i dialog med lokala
 pensionärsföreningar och andra berörda intressenter.
 
-3. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
+3\. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
 dem vara delaktiga i kommunala beslut. Genom detta får kommunen bättre underlag för
 sina beslut genom samverkan med dem man finns till för. Deltagardemokrati mellan valen
 är viktig för att komplettera mellan de vanliga demokratiska valen
@@ -29280,10 +29280,10 @@ representation har blivit särskilt tydligt under påfrestande perioder, som und
 pandemin, där bristande informationsflöden drabbade våra äldre särskilt hårt.
 
 Ett kommunalt pensionärsråd skulle:
-- Fungera som en länk mellan kommunen och äldre invånare.
-- Ge pensionärsföreningar och andra organisationer en röst i frågor som rör äldre.
+\- Fungera som en länk mellan kommunen och äldre invånare.
+\- Ge pensionärsföreningar och andra organisationer en röst i frågor som rör äldre.
 
-- Underlätta för kommunen att sprida viktig information och få återkoppling på
+\- Underlätta för kommunen att sprida viktig information och få återkoppling på
 beslut och initiativ.
 
 Det är dags att vår kommun tar detta steg och inrättar ett kommunalt

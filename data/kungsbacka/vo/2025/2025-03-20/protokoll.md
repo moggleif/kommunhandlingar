@@ -779,11 +779,11 @@ Vi vill därför undersöka frågan och låta en extern part titta på det med f
 arbetsmiljön för personalen.
 
 Förslag till beslut
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att initiera en
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att initiera en
 
 extern utvärdering av Nattpatrullens omorganisation med fokus på den
 påverkan som den har haft på personalens arbetsmiljö.
-2. Nämnden för Vård & Omsorg beslutar att redovisning ska ske senast i
+2\. Nämnden för Vård & Omsorg beslutar att redovisning ska ske senast i
 samband med septembersammanträdet 2025.
 
 Beslutsunderlag
@@ -1069,7 +1069,7 @@ Datum
 § 51                       Dnr VO-2025-00005
 Anmälan av ordförandebeslut
 
--
+\-
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 267497D065AC4DB21F24DE73D946D6AE576D5FC62C

@@ -68,7 +68,7 @@ Vanja Winroth, utvecklingsledare,
 Katrin Wiklund, HR-generalist, § 81
 
 Personalföreträdare           Övriga
--                             -
+\-                             -
 
 Plats och tid för justering Digital justering
 
@@ -632,7 +632,7 @@ Sammanfattning av ärendet
 Verksamhetschef Annica Sommar informerar i ärendet och förklarar att det är ett
 pågående arbete med att följa upp resultaten kring halvtidsavstämningen av
 Kungsbackamodellen som kommer att presenteras till nämndens sammanträde i juni
-2024.
+2024\.
 
 Beslutsgång
 Ordförande Hravn Forsne (M) prövar om nämnden kan notera informationen till
@@ -918,7 +918,7 @@ Ansökan om intyg för rätt till N-tandvård (uppsökande verksamhet och nödv�
 tandvård) vid anhörigvård.
 
 Diarienummer: VO-2022-00220. (Ernst & Young AB) Uppföljande granskning 2024
-- Skriftliga frågor VO Vikarieplanering.
+\- Skriftliga frågor VO Vikarieplanering.
 
 Diarienummer: VO-2023-00129. (Ernst & Young AB) Grundläggande granskning
 2023, Kungsbacka slutlig.
@@ -1031,7 +1031,7 @@ Datum
 § 86                       Dnr VO-2024-00007
 Information från ledamöter 2024
 
--
+\-
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: FD90D66766F945684404371E77C22B0973DA74E3E2

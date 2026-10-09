@@ -151,10 +151,10 @@ Kungsbacka kommun             Rapport                           3
 
 Årets analys av personuppgiftsincidenter gjordes för år 2023. Resultatet visade tre tydliga trender;
 
-1. Att anmälda personuppgiftsincidenter ökar
-2. Den främsta orsaken till en personuppgiftsincident är den mänskliga faktorn
+1\. Att anmälda personuppgiftsincidenter ökar
+2\. Den främsta orsaken till en personuppgiftsincident är den mänskliga faktorn
 
-3. Verksamhetssystemet ByggR är det sammanhang där flest personuppgiftsincidenter sker
+3\. Verksamhetssystemet ByggR är det sammanhang där flest personuppgiftsincidenter sker
 Ovan nämnda mall är en del i arbetet för att minska antalet incidenter. Skapa förståelse och
 eftertanke varför incidenter sker och förvaltningen fortsätter skapa och förbättra rutiner för att
 
@@ -196,16 +196,16 @@ Kungsbacka kommun             Rapport                           4
 <!-- sida 6 -->
 
 1.6 Behörighetsrutiner
--  Kontroll av behörighet till ByggR. Loggning har utförts två gånger under året av
+\-  Kontroll av behörighet till ByggR. Loggning har utförts två gånger under året av
 systemförvaltaren.
 
--  Kontroll av behörighet till Ciceron.
--  Kontroll av behörighet till EDP Arkiv.
+\-  Kontroll av behörighet till Ciceron.
+\-  Kontroll av behörighet till EDP Arkiv.
 
--  Kontroll av behörighet till Bildbanken.
--  Kontroll av behörighet i Kartportalen.
+\-  Kontroll av behörighet till Bildbanken.
+\-  Kontroll av behörighet i Kartportalen.
 
--  Kontroll av behörighet till Bygg- och miljöförvaltningens fysiska arkiv.
+\-  Kontroll av behörighet till Bygg- och miljöförvaltningens fysiska arkiv.
 
 1.7 Lagstiftning
 AI-förordningen
@@ -254,7 +254,7 @@ Kungsbacka kommun             Rapport                           5
 <!-- sida 7 -->
 
 Dataskyddskontakt har planerat in att arbete skall ske med dessa åtgärder under första kvartalet år
-2025.
+2025\.
 
 1.9 Omvärldsanalys
 
@@ -346,13 +346,13 @@ fram tydliga riktlinjer. Samtidigt expanderar användningen av drönarteknik.
 
 Förvaltningen planerar för att fortsätta att arbeta för ett fullgott dataskydd i sitt dataskyddsarbete för
 år 2025.
--  Arbeta med åtgärdsförslag efter Dataskyddsombudets granskning 2024
+\-  Arbeta med åtgärdsförslag efter Dataskyddsombudets granskning 2024
 
--  Fastställa behandlingsregister i nämnden
--  Säkerställa informationen i våra E-tjänster
+\-  Fastställa behandlingsregister i nämnden
+\-  Säkerställa informationen i våra E-tjänster
 
--  Analys av personuppgiftsincidenter år 2024
--  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”.
+\-  Analys av personuppgiftsincidenter år 2024
+\-  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”.
 
 Kungsbacka kommun             Rapport                           7
 
@@ -679,7 +679,7 @@ Nämndens omvärldsanalys
 Mer detaljerad styrning: Nationella och EU-direktiv ökar komplexiteten i regelverk, vilket ställer ökade krav
 på rapportering, tillsyn och samverkan, särskilt kopplat till klimat, miljö och säkerhet. Förslag finns om större
 förändringar i plan- och bygglagen och EU har beslutat om direktiv om cybersäkerhet som ska börja gälla under
-2025. Därutöver bedöms vi löpande kunna förvänta oss direktiv och regelverk inom informationshantering,
+2025\. Därutöver bedöms vi löpande kunna förvänta oss direktiv och regelverk inom informationshantering,
 digitalisering och AI.
 Digital transformation och AI: Nationellt pågår den stora omställningen till en helt digital
 
@@ -808,12 +808,12 @@ nuvarande mätutrustning.
 BESKRIV KONSEKVENSERNA
 
 Varje steg ska utredas och eventuellt förkastas.
-1. Inga åtgärder
+1\. Inga åtgärder
 
 a. Om inga åtgärder görs har vi mätinstrument som är dåligt fungerande, eller inte fungerar
 alls, vilket innebär risker för produktionsbortfall, långa leveranstider på mät- och
 kartuppdrag samt ökande kostnader för service och underhåll.
-2. Ny investering
+2\. Ny investering
 
 a. Engångskostnad 2026 för utrangering av uttjänta mätinstrument, GNSS-mottagare, som
 lagts med lite för lång avskrivningstid, Preliminärt cirka 100 000 kronor.

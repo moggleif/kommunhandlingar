@@ -1301,13 +1301,13 @@ takfot samt exteriört måleri av hela kyrkan inklusive dörrar och fönster. Sy
 kulturhistoriska värde inte minskar.
 
 Ansökan avser följande åtgärder:
-- Lister och dekor målas i varmgrå kulör, S2005-Y20R. Även lister runt tornluckorna
+\- Lister och dekor målas i varmgrå kulör, S2005-Y20R. Även lister runt tornluckorna
 målas i varmgrå kulör.
 
-- Takfot, fönster- och dörromfattning målas i varmgrå kulör, S1505-Y20R.
-- Fasadpanel målas i ljus varmgrå kulör, S1002-Y20R.
+\- Takfot, fönster- och dörromfattning målas i varmgrå kulör, S1505-Y20R.
+\- Fasadpanel målas i ljus varmgrå kulör, S1002-Y20R.
 
-- Fönster, dörrar och ljudluckor målas i röd kulör, S5040-Y80R.
+\- Fönster, dörrar och ljudluckor målas i röd kulör, S5040-Y80R.
 Alla fönster på kyrkan ska underhållas. Mindre rötskador lagas och beslagning
 
 justeras och smörjs. Skadad beslagning byts. Alla kittfalser kittkompletteras.
@@ -1620,10 +1620,10 @@ Beslutsmotivering
 
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 
 områdesbestämmelser. Lag (2014:900).
@@ -1988,9 +1988,9 @@ i föreskrifter som meddelats med stöd av lagen, ska en åtgärd som avser ett
 byggnadsverk, en tomt eller en allmän plats genomföras så att åtgärden inte strider
 mot
 
-1. det lov som har getts för åtgärden, eller
+1\. det lov som har getts för åtgärden, eller
 
-2. om åtgärden inte kräver lov, den detaljplan eller de områdesbestämmelser som
+2\. om åtgärden inte kräver lov, den detaljplan eller de områdesbestämmelser som
 gäller för området.
 Förvaltningen bedömer därför att startbesked inte kan beviljas.
 

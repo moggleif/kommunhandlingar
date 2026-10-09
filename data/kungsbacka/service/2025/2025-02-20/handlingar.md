@@ -455,12 +455,12 @@ för valnämnden, överförmyndare i samverkan och revisionen, arbetar aktivt f�
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och
 livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och
 kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för
 att få livet att fungera.
 
 Sammanfattning av nämndens arbete med målet
@@ -537,7 +537,7 @@ Brukarbedömning
 individ- och
 88 %
 familjeomsorg totalt
-- helhetssyn
+\- helhetssyn
 
 10
 
@@ -551,11 +551,11 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också
 skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av nämndens arbete med målet
 Service har en stor påverkan på målet En hållbar utveckling och en hälsosam miljö, och tar ett samlat grepp
@@ -620,7 +620,7 @@ inhemsk ärtfärs introducerats för att succesivt byta ut utländsk sojafärs. 
 inplanerade i skolans grundmeny, vilket är lättare att få acceptans för än för helvegetariskt, och det ligger också
 i linje med det politiska beslutet om att inte ha några helvegetariska dagar.
 Kungsbackas långsiktiga mål för klimatpåverkan från livsmedel är maximalt 1,0 kg koldioxid per kilo livsmedel
-2030. År 2016 var Kungsbackas siffror 2,7 kg koldioxid, och 2024 års siffra för perioden januari till september
+2030\. År 2016 var Kungsbackas siffror 2,7 kg koldioxid, och 2024 års siffra för perioden januari till september
 är 1,82, att jämföras med 1,69 motsvarande period föregående år.
 
 För att främja hälsa har Måltider under året samarbetat med Folkhälsomyndigheten i deras arbete för att ta fram
@@ -719,7 +719,7 @@ som god eller mycket
 god under
 elevhälsosamtalet,
 Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som
 har skattat sin egen
 livstillfredsställelse
@@ -728,11 +728,11 @@ som god eller mycket
 god under
 elevhälsosamtalet,
 Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska
 minska med 30% per
 invånare från 2020 till 98       97
-2030. Startvärde 100,
+2030\. Startvärde 100,
 målvärde 2030 är 70.
 Avfall från
 kommunens
@@ -792,8 +792,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Sammanfattning av nämndens arbete med målet
@@ -910,8 +910,8 @@ invånare 16–64 år
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av nämndens arbete med målet
 Rådgivning ger stöd i ekonomiskt utmanande tider
@@ -956,7 +956,7 @@ barn och ungdomars välmående, utveckling och potential att kunna ta tillvara s
 Indikatorer     Utfall 2021   Utfall 2022 Utfall 2023 Utfall 2024
 Genomsnittligt
 meritvärde i årskurs
-9. Meritvärdet
+9\. Meritvärdet
 utgörs av summan
 239           237          236,5         237,5
 av de 17 bästa
@@ -1006,12 +1006,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara
 medskapande i att utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt
 bemötta i kontakt med kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Sammanfattning av nämndens arbete med målet
 Kungsbacka Live och Kungsbacka direkt - dialog och service i fokus
@@ -1090,7 +1090,7 @@ max 180. Jämix
 103          114          122
 beräknas utifrån nio
 nyckeltal med skala 1–
-20.
+20\.
 
 20
 
@@ -1310,7 +1310,7 @@ Digitalt center är en viktig grundpelare för att kommunen ska kunna nyttja nya
 organisationen med förstärkta resurser inom Digitalt center är skapad för att möta behoven och större
 efterfrågan hos alla verksamheter inom kommunen. I samband med uppgraderingen av Kungsbackas datacenter
 valdes en design som även klarar av att erbjuda drift av AI-system med stöd av GPU:er (avancerade grafikkort)
-- en grundläggande teknisk förutsättning för att kunna använda fördelarna med AI även på känsliga data utan att
+\- en grundläggande teknisk förutsättning för att kunna använda fördelarna med AI även på känsliga data utan att
 den lämnar vår IT-miljö. Digitalt center har dessutom genomfört ett AI Hackathon, där alla medarbetare dels
 ägnade sig åt kreativ idégenerering för att identifiera nya innovationsprojekt, dels fick en generell
 kunskapshöjning inom AI-området.
@@ -1362,14 +1362,14 @@ Ackumulerat
 Nyckeltal     Mars      Juli      December            Målvärde
 utfall
 Partnerskapsgrad
-- Antal
+\- Antal
 utvecklingsinitiativ
 och samarbetsprojekt 6            9
 som har genomförts
 med direkt nytta för
 våra partners.
 Partnerskapsgrad
-- Antal idéer eller
+\- Antal idéer eller
 innovativa lösningar
 1
 som har utvecklats
@@ -1415,18 +1415,18 @@ Ackumulerat
 Nyckeltal     Mars      Juli      December            Målvärde
 utfall
 Fastigheter, R12
-- Personalkostnad
+\- Personalkostnad
 11 kr/kvm 11,4 kr/kvm 11,8 kr/kvm       10,5
 per kvadratmeter
 (kvm)
 Måltider, R12
-- Personalkostnadens
+\- Personalkostnadens
 58,3 %    57 %      56 %                56 %
 andel av
 omsättningen
 Lokalvård,
 månadsvärde
-- Personalkostnad 18,7 kr/kvm 22,8 kr/kvm 19 kr/kvm 19,4 kr/kvm 18,5
+\- Personalkostnad 18,7 kr/kvm 22,8 kr/kvm 19 kr/kvm 19,4 kr/kvm 18,5
 per kvadratmeter
 (kvm)
 Lokalförsörjning,
@@ -1655,7 +1655,7 @@ jämförelse med förra
 året.
 Solcellsproduktion
 3 754 kw  3 781 kw  3 831 kw  3 785 kw  4 054 kw
-- Installerad effekt
+\- Installerad effekt
 Fossiloberoende
 72 %      72 %      76 %      73,42 %   100 %
 fordon (Fastighet)
@@ -1787,7 +1787,7 @@ har inte avslutats, främst med anledning av att dessa lokalbehov har ändrats r
 Fastighet
 Verksamhetsområdet står inför en period av förändring, där digitalisering, energiomställning och nya arbetssätt
 blir centrala för framgång. Makrotrenderna från vår omvärld visar på tre stora trender som präglar fastigheter
-- att minska energiprestanda, nå nya energimål och hantera ett stort underhållsbehov i det befintliga
+\- att minska energiprestanda, nå nya energimål och hantera ett stort underhållsbehov i det befintliga
 byggnadsbeståndet. Detta måste göras både ekonomiskt och ekologiskt hållbart, vilket innebär att tekniska
 investeringar i fastigheterna blir avgörande för att kunna mäta, följa upp och styra energi- och inomhusklimat.
 För att hantera dessa makrotrender drivs flera utvecklingsinitiativ för att förbättra våra fastigheter och deras
@@ -2934,7 +2934,7 @@ dagar.
 livsmedel 2030. År 2016 var Kungsbackas siffror 2,7 kg koldioxid, och 2024 års siffra för perioden
 januari till september är 1,82, att jämföras med 1,69 motsvarande period föregående år.
   Utbyte av köldmedier med stor klimatpåverkan fortsätter enligt plan, där målsättningen är 0 år
-2030. 2023 hade vi 164 stora aggregat med stor miljöpåverkan och under 2024 har vi kommit ner till
+2030\. 2023 hade vi 164 stora aggregat med stor miljöpåverkan och under 2024 har vi kommit ner till
 80 aggregat. Den totala mängden koldioxidekvivalenter var 1 827 ton 2023, och motsvarande siffra
 för 2024 är 1 062 ton.
 
@@ -3731,14 +3731,14 @@ Inriktningen för DSO:s regelbundna granskning 2024 omfattade följande områden
 
 •  Rutiner mot obehörig åtkomst,
 
-- På Service har granskningen av Rutiner mot obehörig åtkomst omfattat de
+\- På Service har granskningen av Rutiner mot obehörig åtkomst omfattat de
 behandlingsystem som används vid rekrytering.
 •  Systematiskt kvalitetssäkerhetsarbete.
 
 •  Uppföljning av avvikelser som framkom vid 2022 års regelbundna granskning.
 •  Uppföljning av avvikelser som framkommit i riktad granskning,
 
-- Ingen riktad granskning har genomförts på Service.
+\- Ingen riktad granskning har genomförts på Service.
 
 Resultatet presenteras i Dataskyddsombudets rapport efter regelbunden granskning 2024.
 
@@ -3847,28 +3847,28 @@ faktorn     fel       rutin      orsak       angrepp
 Den registrerade har rätt att vända sig till en myndighet för att få veta vilka personuppgifter
 myndigheten behandlar om personen och på vilket sätt uppgifterna behandlas, genom ett så kallat
 registerutdrag.
--  Förfrågan om ifall personuppgifter behandlas har inkommit en gång.
+\-  Förfrågan om ifall personuppgifter behandlas har inkommit en gång.
 
--  Begäran om registerutdrag har inkommit fyra gånger.
+\-  Begäran om registerutdrag har inkommit fyra gånger.
 
 4.2 Rättelse (GDPR art. 16)
 Den registrerade har rätt att vända sig till en myndighet som behandlar personuppgifter och be att få
 felaktiga uppgifter rättade.
 
--  Noll begäran om rättelse av personuppgifter har inkommit.
+\-  Noll begäran om rättelse av personuppgifter har inkommit.
 
 4.3 Radering (GDPR art. 17)
 Varje person har rätt att vända sig till en myndighet som behandlar personuppgifter och be att
 uppgifterna som avser honom eller henne raderas.
 
--  Två personer begärde att få sina personuppgifter raderade.
+\-  Två personer begärde att få sina personuppgifter raderade.
 
 4.4 Begränsning (GDPR art. 18)
 
 De registrerade har i vissa fall rätt att kräva att behandlingen av personuppgifter begränsas. Med
 begränsning menas att uppgifterna markeras så att de i framtiden endast får behandlas för vissa
 avgränsade syften.
--  Noll personer begärde att få sina personuppgifter begränsade.
+\-  Noll personer begärde att få sina personuppgifter begränsade.
 
 Nämnden för Service       Årsrapport Dataskydd                  5
 
@@ -3878,13 +3878,13 @@ Nämnden för Service       Årsrapport Dataskydd                  5
 Varje person har rätt att vända sig till en myndighet som behandlar personuppgifter och be att
 uppgifterna som avser honom eller henne flyttas.
 
--  Noll personer begärde att få sina personuppgifter flyttade.
+\-  Noll personer begärde att få sina personuppgifter flyttade.
 
 4.6 Invändning (GDPR art. 21)
 Den registrerade har rätt att invända mot den personuppgiftsansvarigas behandling av hans eller
 hennes personuppgifter.
 
--  Noll personer invände mot behandlingen av sina personuppgifter.
+\-  Noll personer invände mot behandlingen av sina personuppgifter.
 
 5  Registrerade  personuppgiftsbehandlingar
 
@@ -3893,7 +3893,7 @@ behandlingar av personuppgifter som utförs under dess ansvar. Registret ska bla
 uppgifter om ändamålet med behandlingen, kategorier av registrerade och kategorier av
 personuppgifter.
 
--  Behandlingsregistret fastställdes i mars 2024 och innehöll då 171 behandlingar.
+\-  Behandlingsregistret fastställdes i mars 2024 och innehöll då 171 behandlingar.
 
 6  Tröskelanalys  och  konsekvensbedömningar
 
@@ -3908,8 +3908,8 @@ behandling påbörjas. Detta gäller även i de fall en pågående behandling f�
 konsekvensbedömning har två syften, dels att utreda om behandlingen är laglig och berättigad, dels
 att minska riskerna för de konsekvenser som behandlingen kan få för enskildas fri- och rättigheter.
 
--  13 tröskelanalyser beslutades.
--  3 konsekvensbedömningar beslutades.
+\-  13 tröskelanalyser beslutades.
+\-  3 konsekvensbedömningar beslutades.
 
 Upprättande  av personuppgiftsansvars-    och
 
@@ -3924,8 +3924,8 @@ När ett personuppgiftsbiträde anlitar ett underbiträde som ska utföra en spe
 personuppgiftsansvariges vägnar, måste det finnas ett avtal (eller annan rättsakt) mellan
 personuppgiftsbiträdet och underbiträdet vilket framgår av GDPR art. 28.4
 
--  Noll personuppgiftsansvarsavtal upprättades
--  Sju personuppgiftsbiträdesavtal upprättades.
+\-  Noll personuppgiftsansvarsavtal upprättades
+\-  Sju personuppgiftsbiträdesavtal upprättades.
 
 Nämnden för Service       Årsrapport Dataskydd                  6
 
@@ -3956,7 +3956,7 @@ riktlinjer för hantering av personuppgifter (KF 5 mars 2024 § 33). Behandlings
 även löpande då nya behandlingar tillkommer, förändras eller upphör och fastställs årligen.
 
 •  Omhänderta de avvikelser som framkommit vid dataskyddsombudets regelbundna granskning
-2024.
+2024\.
 •  Stöd till verksamheterna med att upprätta tröskelanalyser, konsekvensbedömningar,
 personuppgiftsbiträdesavtal samt hantering av känslig information där arbetet med
 
@@ -4480,7 +4480,7 @@ verksamhet. Riskanalyserna i respektive verksamhet blir ett viktigt tillfälle f
 arbetssätt, problem och risker. Internkontrollplanen för 2025 beslutades i nämnden i november 2024.
 
 Årets granskningar har skett främst under senhösten. Perioden som har granskats har i de flesta fall varit januari
-- oktober. Detta av praktiska skäl, för att resultatet av granskningen ska hinna bearbetas innan årsskiftet. Där
+\- oktober. Detta av praktiska skäl, för att resultatet av granskningen ska hinna bearbetas innan årsskiftet. Där
 granskningen har visat behov av åtgärder har vi tagit fram det tillsammans med att utse en ansvarig person.
 För de kommunövergripande risker som granskas så planerade kommunledningskontorets specialister hur
 granskningen skulle utföras, med undantag av granskningen av referenstagning där Service Rekryteringscenter
@@ -4858,7 +4858,7 @@ Dessa åtgärder var:
 •  Följa upp arbetet med att begränsa andelen specialkost
 
 Av dessa har alla genomförts under 2024 utom den översta, som kommer att avslutas under första kvartalet
-2025. Vad gäller utbildningar i inköpsprocessen så har flera chefer deltagit i utbildningarna. Dock ser vi att det
+2025\. Vad gäller utbildningar i inköpsprocessen så har flera chefer deltagit i utbildningarna. Dock ser vi att det
 finns fler berörda chefer som ännu inte har gått utbildningarna så detta arbetar vi vidare med 2025.
 
 5.3 Resultat av annan granskning av vår verksamhet
@@ -5209,12 +5209,12 @@ om kommunens avtalsuppföljning är tillräcklig.
 Granskningsrapporten översänds med önskemål att senast den 13 mars 2025 erhålla svar från nämnden
 för Service på de frågeställningar och rekommendationer som redovisas i rapporten:
 
--  Vilka åtgärder avser nämnden att vidta med anledning av de rekommendationer som redovisas
+\-  Vilka åtgärder avser nämnden att vidta med anledning av de rekommendationer som redovisas
 i rapporten?
--  När avser nämnden att vidta eventuella åtgärder med anledning av de rekommendationer som
+\-  När avser nämnden att vidta eventuella åtgärder med anledning av de rekommendationer som
 redovisas i rapporten samt när planeras åtgärderna att vara genomförda?
 
--  Vilken verksamhet och/eller funktion i förvaltningen ansvarar för att genomföra beslutade
+\-  Vilken verksamhet och/eller funktion i förvaltningen ansvarar för att genomföra beslutade
 åtgärder med anledning av de rekommendationer som redovisas i rapporten?
 
 Beslutsunderlag
@@ -5258,23 +5258,23 @@ upphandlingsprocessen och att utbildning och kommunikation till medarbetarna på
 genomföras regelbundet för att upprätthålla en god process.
 Utifrån granskningen rekommenderas nämnden för Service att:
 
--  Tydliggöra via styrdokument vilka kontroller som ska göras inför varje upphandling/inköp.
+\-  Tydliggöra via styrdokument vilka kontroller som ska göras inför varje upphandling/inköp.
 Exempelvis utifrån olika förutbestämda riskanalyser av kategorier av avtal/leverantörer.
--  Införa tydliga kontroller av leverantörer och dess befattningshavare före avtalsperiod samt
+\-  Införa tydliga kontroller av leverantörer och dess befattningshavare före avtalsperiod samt
 säkerställa att dessa kontroller systematiskt görs under avtalsperioden.
 
--  Tillse att det i styrdokument framgår att kontroller ska genomföras avseende uppföljning av
+\-  Tillse att det i styrdokument framgår att kontroller ska genomföras avseende uppföljning av
 tillstånd samt belastningsregister hos avtalspartners.
--  Införa tydliga skrivningar avseende när och hur riskanalyser ska genomföras inför upphandling
+\-  Införa tydliga skrivningar avseende när och hur riskanalyser ska genomföras inför upphandling
 
 samt uppdatera riskanalyserna vid förändring.
--  Införa krav kopplat till avtal och eller leverantör utifrån riskanalysens resultat.
+\-  Införa krav kopplat till avtal och eller leverantör utifrån riskanalysens resultat.
 
--  Utvärdera risker kopplat till oegentligheter i upphandlingsprocessen i sitt årliga
+\-  Utvärdera risker kopplat till oegentligheter i upphandlingsprocessen i sitt årliga
 internkontrollarbete.
--  Tydliggöra ansvarsfördelningen avseende avtalsuppföljning.
+\-  Tydliggöra ansvarsfördelningen avseende avtalsuppföljning.
 
--  Systematiskt följa upp arbetet med avtalsuppföljning.
+\-  Systematiskt följa upp arbetet med avtalsuppföljning.
 
 Julia Tryggvadottir Tollesson      Camilla Pålsson
 Förvaltningschef Service           Verksamhetschef Inköp
@@ -5309,14 +5309,14 @@ förbättringsarbetet.
 
 Kommunrevisionens rekommendationer och nämndens planerade åtgärder
 
-1. Rekommendation: Tydliggöra via styrdokument vilka kontroller som ska göras inför varje
+1\. Rekommendation: Tydliggöra via styrdokument vilka kontroller som ska göras inför varje
 upphandling/inköp. Exempelvis utifrån olika förutbestämda riskanalyser av kategorier av
 avtal/leverantörer.
 
 Åtgärd: Uppdatera styrdokument så att det tydligt framgår vilka kontroller som ska
 genomföras vid olika typer av upphandlingar och direktupphandlingar. Dessa kontroller ska
 följas upp genom internkontrollen.
-2. Rekommendation: Införa tydliga kontroller av leverantörer och dess befattningshavare före
+2\. Rekommendation: Införa tydliga kontroller av leverantörer och dess befattningshavare före
 avtalsperiod samt säkerställa att dessa kontroller systematiskt görs under avtalsperioden.
 
 Åtgärd: Arbete med att utöka leverantörskontroller pågår, både vad gäller upphandling och
@@ -5336,24 +5336,24 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-3. Rekommendation: Tillse att det i styrdokument framgår att kontroller ska genomföras
+3\. Rekommendation: Tillse att det i styrdokument framgår att kontroller ska genomföras
 
 avseende uppföljning av tillstånd samt belastningsregister hos avtalspartners.
 Åtgärd: Förtydliga i Riktlinjerna för Inköp (KF 2021-03-09) att dessa kontroller är
 obligatoriska, samt ange vilken funktion som ansvarar för genomförandet.
 
-4. Rekommendation: Införa tydliga skrivningar avseende när och hur riskanalyser ska
+4\. Rekommendation: Införa tydliga skrivningar avseende när och hur riskanalyser ska
 genomföras inför upphandling samt uppdatera riskanalyserna vid förändring.
 Åtgärd: Säkerställa att riskanalyser blir ett obligatoriskt moment i inköpsprocessen. Klargöra
 vilka roller som ska delta i riskanalysarbetet. Införa rutiner för uppdatering av riskanalyser vid
 förändringar som påverkar upphandlingens förutsättningar.
 
-5. Rekommendation: Införa krav kopplat till avtal och/eller leverantör utifrån riskanalysens
+5\. Rekommendation: Införa krav kopplat till avtal och/eller leverantör utifrån riskanalysens
 resultat.
 
 Åtgärd: Öka kraven på leverantörer i samband med anbudsprövning för att säkerställa att
 oseriösa aktörer inte får tillträde till kommunens upphandlingar.
-6. Rekommendation: Utvärdera risker kopplat till oegentligheter i upphandlingsprocessen i sitt
+6\. Rekommendation: Utvärdera risker kopplat till oegentligheter i upphandlingsprocessen i sitt
 årliga internkontrollarbete.
 
 Åtgärder: Internkontrollen bygger på aktuell omvärldsanalys och tidigare års arbete. Risker
@@ -5365,12 +5365,12 @@ Inköpsprocessen granskades inte som en kommunövergripande risk 2024, men den i
 Utöver kommunövergripande granskningar kommer oegentligheter i upphandlingsprocessen
 fortsatt att ingå i Nämnden för Services riskanalys.
 
-7. Rekommendation: Tydliggöra ansvarsfördelningen avseende avtalsuppföljning
+7\. Rekommendation: Tydliggöra ansvarsfördelningen avseende avtalsuppföljning
 Åtgärd: Förtydliga i upphandlingen vilka roller som ansvarar för vilka delar i
 avtalsuppföljningen under kontraktsperioden. Tydliggöra med vilken regelbundenhet som
 uppföljningen ska utföras.
 
-8. Rekommendation: Systematiskt följa upp arbetet med avtalsuppföljning
+8\. Rekommendation: Systematiskt följa upp arbetet med avtalsuppföljning
 
 Åtgärd: Implementera en mer strukturerad uppföljning av avtalsuppföljningens genomförande.
 
@@ -5464,7 +5464,7 @@ S
 s
 a u
 ö
--
+\-
 n
 t
 k
@@ -5528,7 +5528,7 @@ KUNGSBACKA       KOMMUN
 Innehållsförteckning
 
 Sammanfattning ....................................................................................................................... 4
-1.  Inledning ......................................................................................................................... 5
+1\.  Inledning ......................................................................................................................... 5
 
 1.1. Bakgrund ........................................................................................................................ 5
 1.2. Syfte och revisionsfrågor ................................................................................................ 5
@@ -5537,11 +5537,11 @@ Sammanfattning .................................................................
 1.4. Metod .............................................................................................................................. 5
 
 1.5. Avgränsningar och ansvariga nämnder ......................................................................... 5
-2.  Organisation av upphandling och avtalsuppföljning ............................................... 6
+2\.  Organisation av upphandling och avtalsuppföljning ............................................... 6
 
 2.1. Organisation och ansvarsfördelning i upphandlingsprocessen och avtalsuppföljning är
 inte tydligt dokumenterat ................................................................................................ 6
-3.  Riskanalyser av oegentligheter i upphandlingsprocessen...................................... 7
+3\.  Riskanalyser av oegentligheter i upphandlingsprocessen...................................... 7
 
 3.1. Vår bedömning ............................................................................................................... 7
 3.2. Det framgår inte av styrdokument att riskanalys ska genomföras i
@@ -5550,7 +5550,7 @@ upphandlingsprocessen eller inför avtalsskrivning .............................
 3.3. Nämnden för Service har inte riskvärderat oegentligheter i upphandlingsprocessen
 eller under avtalsperioder i sin årliga riskanalys ............................................................ 7
 
-4.  Möjlighet att stänga ute oseriösa leverantörer .......................................................... 9
+4\.  Möjlighet att stänga ute oseriösa leverantörer .......................................................... 9
 4.1. Vår bedömning ............................................................................................................... 9
 
 4.2. Brottsförebyggande rådet............................................................................................... 9
@@ -5559,7 +5559,7 @@ eller under avtalsperioder i sin årliga riskanalys ............................
 4.4. Möjligheterna att utestänga oseriösa leverantörer under avtalsperiod kan stärkas ... 10
 4.4.1. Avtalsmallar .............................................................................................................. 11
 
-5.  Förhindra och upptäcka oegentligheter i upphandlingsprocessen samt kontroll
+5\.  Förhindra och upptäcka oegentligheter i upphandlingsprocessen samt kontroll
 och uppföljning av externa utförare.......................................................................... 13
 5.1. Vår bedömning ............................................................................................................. 13
 
@@ -5568,7 +5568,7 @@ utförare men dessa följs inte ................................................
 5.3. Samtliga kommunens nämnder ska granska privata utförare och avtalssamverkan
 
 inom ramen för internkontrollplanen ............................................................................ 14
-6.  Kontrollmiljö avseende uppföljning av avtalsefterlevnad...................................... 15
+6\.  Kontrollmiljö avseende uppföljning av avtalsefterlevnad...................................... 15
 
 6.1. Vår bedömning ............................................................................................................. 15
 6.2. Det finns riktlinjer för uppföljning av avtal men dessa efterlevs inte ........................... 15
@@ -5580,18 +5580,18 @@ leverantörer...................................................................
 
 <!-- sida 119 -->
 
-7.  Kanaler för att rapportera om oegentligheter .......................................................... 18
+7\.  Kanaler för att rapportera om oegentligheter .......................................................... 18
 
 7.1. Vår bedömning ............................................................................................................. 18
 7.2. Visselblåsarfunktion ..................................................................................................... 18
 
 7.3. Andra rapporteringskanaler.......................................................................................... 18
-8.  Nämndens uppföljning av upphandlingsprocessen och avtalsuppföljning ........ 19
+8\.  Nämndens uppföljning av upphandlingsprocessen och avtalsuppföljning ........ 19
 
 8.1. Vår bedömning ............................................................................................................. 19
 8.2. Uppföljningen av upphandlingsprocessen kan stärkas ............................................... 19
 
-9.  Samlad bedömning ..................................................................................................... 20
+9\.  Samlad bedömning ..................................................................................................... 20
 9.1. Bedömning utifrån revisionsfrågorna ........................................................................... 20
 
 9.2. Slutsatser ...................................................................................................................... 21
@@ -5659,7 +5659,7 @@ internkontrollarbete.
 
 <!-- sida 121 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -5708,7 +5708,7 @@ Granskningen avgränsas i enlighet med revisionsfrågorna.
 
 <!-- sida 122 -->
 
-2. Organisation av upphandling och avtalsuppföljning
+2\. Organisation av upphandling och avtalsuppföljning
 
 2.1. Organisation och ansvarsfördelning i upphandlingsprocessen och
 
@@ -5762,7 +5762,7 @@ ansvarar för uppföljning av avtal som skett genom direktupphandling.
 
 <!-- sida 123 -->
 
-3. Riskanalyser av oegentligheter i upphandlingsprocessen
+3\. Riskanalyser av oegentligheter i upphandlingsprocessen
 
 3.1. Vår bedömning
 
@@ -5848,7 +5848,7 @@ oegentligheter eller upphandling har dock identifierats:
 
 <!-- sida 125 -->
 
-4. Möjlighet att stänga ute oseriösa leverantörer
+4\. Möjlighet att stänga ute oseriösa leverantörer
 
 4.1. Vår bedömning
 
@@ -6023,7 +6023,7 @@ leverantörer har identifierats.
 
 <!-- sida 129 -->
 
-5. Förhindra och upptäcka oegentligheter i upphandlingsprocessen
+5\. Förhindra och upptäcka oegentligheter i upphandlingsprocessen
 
 samt kontroll och uppföljning av externa utförare
 
@@ -6127,7 +6127,7 @@ För samtliga nämnder ska avrapportering ske i februari 2025.
 
 <!-- sida 131 -->
 
-6. Kontrollmiljö avseende uppföljning av avtalsefterlevnad
+6\. Kontrollmiljö avseende uppföljning av avtalsefterlevnad
 
 6.1. Vår bedömning
 
@@ -6192,14 +6192,14 @@ Göteborg.
 
 Avtal upphandlade av Kungsbacka kommun har granskats gentemot följande
 kontrollpunkter:
-1. Har korrekt upphandlingstyp tillämpats?
-2. Är upphandlingen dokumenterad?
-3. Har kontroller gjorts och dokumenterats inför avtalsskrivning?
+1\. Har korrekt upphandlingstyp tillämpats?
+2\. Är upphandlingen dokumenterad?
+3\. Har kontroller gjorts och dokumenterats inför avtalsskrivning?
 
-4. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
-5. Regleras uppföljning i avtalet?
-6. Finns en plan för uppföljning i enlighet med riktlinjer för inköp?
-7. Har uppföljning av avtal genomförts och dokumenteras under avtalsperioden?
+4\. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
+5\. Regleras uppföljning i avtalet?
+6\. Finns en plan för uppföljning i enlighet med riktlinjer för inköp?
+7\. Har uppföljning av avtal genomförts och dokumenteras under avtalsperioden?
 
 Stickprov av avtal inom Nämnden för Tekniks verksamheter5
 
@@ -6244,11 +6244,11 @@ kallar till uppföljningsmöte under avtalsperioden och för mötesanteckningar.
   Uppföljning av avtalet har gjorts av i ett fall.
 
 Göteborgs Stads avtal har granskats gentemot följande kontrollpunkter:
-1. Har Kungsbacka säkerställt att kontroller gjorts och dokumenterats inför
+1\. Har Kungsbacka säkerställt att kontroller gjorts och dokumenterats inför
 avtalsskrivning?
-2. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
-3. Regleras uppföljning i avtalet?
-4. Har Kungsbacka säkerställt att uppföljning genomförts under avtalsperioden?
+2\. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
+3\. Regleras uppföljning i avtalet?
+4\. Har Kungsbacka säkerställt att uppföljning genomförts under avtalsperioden?
 
 Stickprov av avtal från Göteborgs stad som används inom Nämnden för Individ och
 Familjeomsorgs verksamheter
@@ -6281,7 +6281,7 @@ vissa ramavtal och inköpschefen på inköpsenheten undertecknat vissa ramavtal.
 
 <!-- sida 134 -->
 
-7. Kanaler för att rapportera om oegentligheter
+7\. Kanaler för att rapportera om oegentligheter
 
 7.1. Vår bedömning
 
@@ -6331,7 +6331,7 @@ vara anonym och anmäla synpunkter kopplat till klagomål, beröm och förslag p
 
 <!-- sida 135 -->
 
-8. Nämndens  uppföljning av upphandlingsprocessen  och
+8\. Nämndens  uppföljning av upphandlingsprocessen  och
 
 avtalsuppföljning
 
@@ -6366,7 +6366,7 @@ med fullmäktiges program.
 
 <!-- sida 136 -->
 
-9. Samlad bedömning
+9\. Samlad bedömning
 
 9.1. Bedömning utifrån revisionsfrågorna
 

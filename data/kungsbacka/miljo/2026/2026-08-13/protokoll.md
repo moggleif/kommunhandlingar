@@ -560,12 +560,12 @@ skrämmande låg, näst sämst i Sverige. Alliansen anser att det kräver kraftt
 förbättra servicenivån och att arbetet med ”servicelyftet” kräver högsta prioritet.
 Förslagsställarna yrkar på följande:
 
-- Redovisa en tydlig analys för 2025 års NKI och tydliggöra problemen som finns
+\- Redovisa en tydlig analys för 2025 års NKI och tydliggöra problemen som finns
 inom förvaltningen.
-- Redovisa hur den befintliga tidsplanen för ”servicelyftet” kan påskyndas.
+\- Redovisa hur den befintliga tidsplanen för ”servicelyftet” kan påskyndas.
 
-- Identifiera områden i ”servicelyftet” som behöver prioriteras.
-- Redovisa en första analys på nämndmötet i juni samt en tydlig handlingsplan på
+\- Identifiera områden i ”servicelyftet” som behöver prioriteras.
+\- Redovisa en första analys på nämndmötet i juni samt en tydlig handlingsplan på
 nämndmötet i augusti.
 
 Bygg- och miljöförvaltningen redovisar handlingsplanen för prioriterade områden i
@@ -592,11 +592,11 @@ Förslag till beslut på sammanträdet
 Nils Skyman (M) yrkar att förvaltningen ska fortsätta utreda punkt 1-3 i initiativet
 och att detta ska redovisas under nästkommande sammanträde:
 
-- Redovisa en tydlig analys för 2025 års NKI och tydliggöra problemen som finns
+\- Redovisa en tydlig analys för 2025 års NKI och tydliggöra problemen som finns
 inom förvaltningen.
 
-- Redovisa hur den befintliga tidsplanen för ”servicelyftet” kan påskyndas.
-- Identifiera områden i ”servicelyftet” som behöver prioriteras.
+\- Redovisa hur den befintliga tidsplanen för ”servicelyftet” kan påskyndas.
+\- Identifiera områden i ”servicelyftet” som behöver prioriteras.
 
 Niklas Lundahl (M) yrkar bifall till Nils Skymans (M) yrkande.
 Peter Wesley (KD) yrkar på att följande mening ska tas bort från beslutet:

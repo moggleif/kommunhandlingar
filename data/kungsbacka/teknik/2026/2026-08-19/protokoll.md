@@ -154,7 +154,7 @@ Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
 
--  Avtackning av förvaltningschef
+\-  Avtackning av förvaltningschef
 Ärendet lyfts efter paragraf § 87 i dagordningen: Förvaltningen informerar 2026.
 
 Beslutsgång
@@ -790,41 +790,41 @@ Sammanfattning av ärendet
 Under perioden 11 juni – 18 augusti inkom följande skrivelser till nämnden för
 Teknik:
 
-- Synpunkt gällande bristande driftsåtgärder på kommunens mark - 292246
-- Till nämnden för Teknik gällande Taxikupong Riksfärdtjänst, RIAK
+\- Synpunkt gällande bristande driftsåtgärder på kommunens mark - 292246
+\- Till nämnden för Teknik gällande Taxikupong Riksfärdtjänst, RIAK
 
-- Fråga till Nämnden för Teknik angående självkostnaden för RIAK, Riksfärdtjänst
-- Kommunbudget 2027, plan 2028-2029
+\- Fråga till Nämnden för Teknik angående självkostnaden för RIAK, Riksfärdtjänst
+\- Kommunbudget 2027, plan 2028-2029
 
-- Protokollsutdrag Kommunfullmäktige 2026-06-09 § 105
-- Protokollsutdrag Kommunfullmäktige 2026-06-09 § 106
+\- Protokollsutdrag Kommunfullmäktige 2026-06-09 § 105
+\- Protokollsutdrag Kommunfullmäktige 2026-06-09 § 106
 
-- Uppföljning och prognos april 2026 för Kungsbacka kommun
-- Bilaga: Redovisning av ej färdigberedda motioner
+\- Uppföljning och prognos april 2026 för Kungsbacka kommun
+\- Bilaga: Redovisning av ej färdigberedda motioner
 
-- Tjänsteskrivelse - Redovisning av icke färdigberedda motioner
-- Protokollsutdrag Kommunfullmäktige 2026-06-09 § 109
+\- Tjänsteskrivelse - Redovisning av icke färdigberedda motioner
+\- Protokollsutdrag Kommunfullmäktige 2026-06-09 § 109
 
-- Protokollsutdrag Kommunfullmäktige 2026-06-09 § 110
+\- Protokollsutdrag Kommunfullmäktige 2026-06-09 § 110
 
-- Protokollsutdrag Kommunstyrelsens arbetsutskott 2026-05-05 § 163
-- Protokollsutdrag Kommunstyrelsen 2026-05-26 § 142
+\- Protokollsutdrag Kommunstyrelsens arbetsutskott 2026-05-05 § 163
+\- Protokollsutdrag Kommunstyrelsen 2026-05-26 § 142
 
-- Protokollsutdrag, Halmstad kommun - Färdtjänstavtal - 2026-06-16 KF § 63
-- Protokollsutdrag RF §81 - Beslut om Regionalt Trafikförsörjningsprogram för
+\- Protokollsutdrag, Halmstad kommun - Färdtjänstavtal - 2026-06-16 KF § 63
+\- Protokollsutdrag RF §81 - Beslut om Regionalt Trafikförsörjningsprogram för
 Halland 2026-2030
 
-- Anteckningar från kommunrevisionens dialog med Nämnden för teknik,
+\- Anteckningar från kommunrevisionens dialog med Nämnden för teknik,
 grundläggande granskning 2026
-- Protokollsutdrag 2026-06-16 KS § 156 Införande av premie till jägare för fällda
+\- Protokollsutdrag 2026-06-16 KS § 156 Införande av premie till jägare för fällda
 vildsvin, KS-2025-00881
 
-- Protokollsutdrag Kommunstyrelsen 2026-06-16 § 156, införande av premie till
+\- Protokollsutdrag Kommunstyrelsen 2026-06-16 § 156, införande av premie till
 jägare för fällda vildsvin, KS-2025-00881
 
-- Formellt krav på utökad väghållning och begäran om myndighetsbeslut (Detaljplan
+\- Formellt krav på utökad väghållning och begäran om myndighetsbeslut (Detaljplan
 T9)
-- Namnunderskrifter - Formellt krav på utökad väghållning
+\- Namnunderskrifter - Formellt krav på utökad väghållning
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 24847974610F77F42A635DA871BD45DF3F7CF57D13
@@ -863,12 +863,12 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Händelser som berört verksamheterna under sommaren
--  Samplanering mellan kommunen och Region Halland om kollektivtrafiken på
+\-  Händelser som berört verksamheterna under sommaren
+\-  Samplanering mellan kommunen och Region Halland om kollektivtrafiken på
 tjänstemannanivå
 
--  Avyttring av laddinfrastrukturen
--  Status dricksvattenförsörjning
+\-  Avyttring av laddinfrastrukturen
+\-  Status dricksvattenförsörjning
 
 Beslutsgång
 Ordföranden (L) prövar om nämnden för Teknik kan notera informationen till

@@ -95,7 +95,7 @@ Nämnden för Tekniks arbetsutskott godkänner förändring av ärendelista.
 Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
--  Initiativärende om förändring gällande Prioriteringsordning för vägprojekt i
+\-  Initiativärende om förändring gällande Prioriteringsordning för vägprojekt i
 
 Kungsbacka stad
 
@@ -201,13 +201,13 @@ Beslut
 Nämnden för Tekniks arbetsutskott beslutar att förändra prioriteringsordningen för
 vägprojekt i Kungsbacka stad enligt följande ordning:
 
-1. Breddning av befintlig vägbro över järnvägen vid Inlag
-2. Breddning av Varlavägen till fyra körfält delen Arendalsleden - Tölö tvärled.
+1\. Breddning av befintlig vägbro över järnvägen vid Inlag
+2\. Breddning av Varlavägen till fyra körfält delen Arendalsleden - Tölö tvärled.
 Förvaltningen uppdras att dela upp projektet etappvis utifrån tekniska förutsättningar
 och prioritera en snabb framdrift.
 
-3. Breddning av Varlavägen till fyra körfält, delen Kungsgatan - Borgmästaregatan
-4. Breddning av Kungsgatan till fyra körfält, delen Varlavägen - Onsalavägen
+3\. Breddning av Varlavägen till fyra körfält, delen Kungsgatan - Borgmästaregatan
+4\. Breddning av Kungsgatan till fyra körfält, delen Varlavägen - Onsalavägen
 
 Sammanfattning av ärendet
 Ordförande Monica Neptun (L) har väckt ett initiativ gällande en förändring av

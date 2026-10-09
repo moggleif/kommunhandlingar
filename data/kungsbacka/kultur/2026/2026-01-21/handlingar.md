@@ -162,7 +162,7 @@ vi kan erbjuda mer än den förväntade kommunala servicen.
 
 1.2 Nämndens  arbete med de kommunövergripande  målen
 
-1. EN ATTRAKTIV KOMMUN ATT BO, VERKA OCH VISTAS I
+1\. EN ATTRAKTIV KOMMUN ATT BO, VERKA OCH VISTAS I
 Kultur & Fritid bidrar till en attraktiv kommun på flera sätt. Nämnden har lagt en tydlig riktning för
 förvaltningen att fokusera på barn, unga, äldre och utsatta grupper samt nå ut bredare kring vårt utbud samt nå ut
 bredare kring vårt utbud. Vi ökar trygghet via samverkan inom det lokala brottsförebyggande arbetet. Nya
@@ -177,7 +177,7 @@ I nära samverkan med andra aktörer i samhällsbyggnadsprocessen tar vi fram so
 bidrar med kompetens för att bidra både till ett bättre samhälle och till attraktiva platser. I det kortare
 perspektivet samarbetar Kultur & Fritid med Teknik för att levandegöra och gestalta invånarnas livsmiljöer,
 vilket syns genom Sommartorget, skateparken, trygga stråk, nya mötesplatser och offentlig konst.
-2. EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ
+2\. EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ
 Kultur & Fritid bidrar till en hållbar kommun och en hälsosam miljö genom att utveckla mer träffsäkra och
 resurseffektiva insatser, bland annat för barn och unga med behov av stöd. Ett innovationsprojekt ska
 tillsammans med civilsamhället utveckla metoder för att nå unga i riskzonen. Genom uppsökande
@@ -195,7 +195,7 @@ riktlinjer och ett rättighetsbaserat arbetssätt har stärkt social hållbarhet
 som friskvårdsprogram, feriearbeten för ungdomar i riskzon samt #Tryggdigitaluppväxt har dessutom bidragit
 till att främja ungas fysiska och psykiska hälsa.
 
-3. BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE
+3\. BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE
 Kultur & Fritid bidrar till ett bättre företagsklimat genom flera insatser. Kungsbacka teater har fått en ny
 verksamhetsplan som både ska locka fler kommersiella arrangörer och ge utrymme för såväl amatörer som
 professionella kulturutövare, vilket breddar kulturutbudet och stärker möjligheterna för kulturella och kreativa
@@ -208,7 +208,7 @@ gym utanför nätverket kvarstår.
 Samarbetet med Kungsbacka innerstadsförening syftar till att stärka befintliga näringsidkare och attrahera nya
 genom att skapa attraktiva platser. Exempel på samarbetet är de olika evenemang som äger rum på torget.
 
-4. I KUNGSBACKA UTVECKLAS VI HELA LIVET
+4\. I KUNGSBACKA UTVECKLAS VI HELA LIVET
 Främjande fyran, samarbetet mellan Kultur & Fritid, Individ & Familjeomsorg, Förskola & Grundskola samt
 Gymnasium & Arbetsmarknad är mer än en satsning – det är ett sätt att arbeta som möjliggör tidiga,
 samordnade och långsiktiga insatser. Genom att kliva över förvaltningsgränserna kan vi skapa förutsättningar
@@ -217,7 +217,7 @@ som stärker skolresultat, minskar utanförskap och ger varje barn en hållbar, 
 Arbetet pågår i tre taktiska grupper; skolsociala aktiviteter, hemmaplanslösningar och Kommunalt
 aktivitetsansvar/Utanförskap. Pilotprojekt pågår som innebär att barn och ungdomar fångas upp tidigare och får
 stöd på de platser där de befinner sig.
-5. ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD
+5\. ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD
 Genom Kultur & Fritids arbete med publikutveckling ökar vi mängden invånardialoger, och kan därmed erbjuda
 ett större utbud som är mer relevant för Kungsbackas invånare.
 
@@ -230,14 +230,14 @@ barns möjlighet att komma till tals och ökar därigenom delaktigheten.
 1.3 Nämndens  arbete med bemötande, företagsklimatet och att motverka
 välfärdsbrottslighet
 
-1. Förbättra bemötande
+1\. Förbättra bemötande
 Vår verksamhet bygger på att invånarna uppfattar dem som relevanta, varför bemötandet är av största vikt.
 Nämndens målbild påtalar på flera ställen att invånarnas perspektiv ska omhändertas, förvaltningen ska därför
 vara tillmötesgående och erbjuda en mängd dialoger för att bättre ta hand om invånarnas vilja och behov.
 
 Därför fokuserar förvaltningen på publikutveckling för att ha relevant verksamhet och utbud för fler invånare.
 Nämndens verksamheter behöver bli bättre på att ta hand om invånarnas vilja och behov.
-2. Förbättra företagsklimatet
+2\. Förbättra företagsklimatet
 
 4
 
@@ -261,7 +261,7 @@ Med förändrade befolknings- och flyttmönster är det viktigt att kommunen beh
 vi kan erbjuda mer än den förväntade kommunala servicen.
 Vi behöver än mer bredda samverkan med andra aktörer, särskilt näringsidkare,
 samt stärka relationerna mellan näringsliv, civilsamhälle och kommun.
-3. För att motverka välfärdsbrott?
+3\. För att motverka välfärdsbrott?
 
 Med det förändrade stödsystemet finns nya tydligare förväntningar och krav på kontroll, som också kravställer
 på förvaltningen att ha löpande uppföljning. Stödsystem inbegriper numera bättre möjligheter till uppföljning
@@ -519,7 +519,7 @@ KUNGSBACKA  KOMMUN
 2 (2)
 
 anläggning av motionsspår i Åsa, totalt 6 000 tkr. Utbyte av biblioteksbuss flyttas från år 2028 till år
-2030.
+2030\.
 
 Nämnden begär att få ta i anspråk driftmedel avseende arenan år 2027, då verksamheten behöver
 påbörjas för att evenemang och aktiviteter ska vara planerade, bokade och kunna genomföras så snart
@@ -588,10 +588,10 @@ Nyttan med en biblioteksbuss är att tillgängliggöra bibliotekets fysiska och 
 bestånd/medier för de som väntar och längtar men inte kan ta sig till biblioteket samt att göra
 3   biblioteket relevant för alla. Med bussen kan biblioteket nå prioriterade grupper samt
 2
--
+\-
 5   möjligheten att öka utbud och tillgänglighet till biblioteksverksamhet i Kungsbacka kommun
 0
--
+\-
 2   genom att kunna erbjuda biblioteksservice på mer flexibla sätt för att nå fler invånare vilket har
 1
 0
@@ -615,7 +615,7 @@ Kungsbacka kommun
 BESKRIV KONSEKVENSERNA
 2 (2)
 Varje steg ska utredas och eventuellt förkastas.
-1. Inga åtgärder. Om inget byte av fordon sker så försämras biblioteksservicen
+1\. Inga åtgärder. Om inget byte av fordon sker så försämras biblioteksservicen
 Kungsbackas invånare, främst utsatta grupper som beskrivits tidigare i
 behovsbeskrivningen.
 
@@ -731,7 +731,7 @@ KUNGSBACKA  KOMMUN
 
 BESKRIV KONSEKVENSERNA
 
-1. Inga åtgärder
+1\. Inga åtgärder
 Om ingen konstnärlig gestaltning genomförs riskerar området att sakna identitet och förlora möjligheten
 att skapa en sammanhållen och inbjudande miljö. Det skulle kunna leda till minskad attraktionskraft för
 såväl invånare som besökare och missa chansen att skapa en tydlig profil för arenan och dess
@@ -763,7 +763,7 @@ ska vara en inspirerande och nytänkande kommun
 Att inte inkludera konst kan innebära förlorade möjligheter att ytterligare stärka kommunens
 attraktionskraft och engagemang för att uppnå visionens mål.
 
-2. Behovet åtgärdat
+2\. Behovet åtgärdat
 
 Om konstnärlig gestaltning genomförs måste praktiska frågor som budget, tillgänglighet, och drift av
 platsen också beaktas. Det finns därför behov av en tydlig ansvarsfördelning, budgetering för löpande
@@ -876,7 +876,7 @@ utveckling.
 
 BESKRIV KONSEKVENSERNA
 
-1. Inga åtgärder
+1\. Inga åtgärder
 Mindre offentlig konst i kommunens utomhusmiljö.
 
 Kungsbacka kommuns Vision 2030 betonar mångfald, livskvalitet, och samverkan mellan kultur och
@@ -893,7 +893,7 @@ kulturella landmärken som stödjer visionens målsättningar.
 inslag som stödjer social hållbarhet. Ett konstverk kan bidra till att skapa en plats för interaktion
 och reflektion, vilket i sin tur stärker det lokala samhället och dess trivsel
 
-2. Behovet åtgärdat
+2\. Behovet åtgärdat
 
 Om konstnärlig gestaltning genomförs måste praktiska frågor som budget, tillgänglighet, och drift av
 platsen också beaktas. Det finns därför behov av en tydlig ansvarsfördelning, budgetering för löpande
@@ -1083,7 +1083,7 @@ B
 . 2
 2 1 06
 v
-- -
+\- -
 ,
 f S
 S
@@ -1112,7 +1112,7 @@ n
 n o f
 g
 c o
-:
+\:
 h r m k a o t n io di n t i o o m ns n sp iv å å r e e r n . s P l l ä a n t g se d r o f c ö h r v ti i l l l a g ä o n c g h l i e g v h e e n t t . u ellt enklare utegym längs sträckan.
 U
 m
@@ -1441,36 +1441,36 @@ bara en kostnad utan en investering i gemenskapens hälsa, kultur, ekonomi och f
 idrottsframgångar.
 
 BESKRIV KONSEKVENSERNA
-1. Skola samt föreningsliv kan inte nyttja Tingbergsvallen på grund av att banorna är i så
+1\. Skola samt föreningsliv kan inte nyttja Tingbergsvallen på grund av att banorna är i så
 
 dåligt skick att det kan generera kroppsskador.
-2. Beläggningen är sliten och trasig och har släppt från underlaget på vissa ställen.
+2\. Beläggningen är sliten och trasig och har släppt från underlaget på vissa ställen.
 
-3. Det är sättningar på flera platser som gör att det bildas vattensamlingar.
-4. Radien på kurvorna följer inte standard. De är för tvära och när man bygger om bör
+3\. Det är sättningar på flera platser som gör att det bildas vattensamlingar.
+4\. Radien på kurvorna följer inte standard. De är för tvära och när man bygger om bör
 
 man undersöka om det går att åtgärda.
-5. Längdhoppsgroparna är för smala vilket gör att det kan vara farligt att hoppa i dem
+5\. Längdhoppsgroparna är för smala vilket gör att det kan vara farligt att hoppa i dem
 
 och längdhoppet blir då inte säkert.
-6. Ansatsbanan för längdhopp är sliten och trasig och flera av plankorna är inte i nivå
+6\. Ansatsbanan för längdhopp är sliten och trasig och flera av plankorna är inte i nivå
 med beläggningen, vilket är en skaderisk.
 
-7. Fotbollsplanen uppfyller inte sina mått, fattas tre meter.
+7\. Fotbollsplanen uppfyller inte sina mått, fattas tre meter.
 
-8. Kastburen är svår att hantera och har ett tungt nät som inte är anpassat för buren. Detta
+8\. Kastburen är svår att hantera och har ett tungt nät som inte är anpassat för buren. Detta
 innebär att det kan vara riskabelt att kasta. Dessutom är det tveksamt om stolparna är
 rätt placerade i förhållande till kastsektorn.
 
-9. Vattengraven läcker och beläggningen där är trasig.
-10. Det saknas belysning som gör att man kan förlänga säsongen.
+9\. Vattengraven läcker och beläggningen där är trasig.
+10\. Det saknas belysning som gör att man kan förlänga säsongen.
 
-11. Stavhoppsmattan är i minsta laget för att vara säker.
+11\. Stavhoppsmattan är i minsta laget för att vara säker.
 
-12. Fungerande dränering saknas i kastringarna.
-13. För kort kastsektor för kulstötning.
+12\. Fungerande dränering saknas i kastringarna.
+13\. För kort kastsektor för kulstötning.
 
-14. Asfaltsområden har nått sin livslängd, vilket resulterat i sprickor, deformationer som
+14\. Asfaltsområden har nått sin livslängd, vilket resulterat i sprickor, deformationer som
 kräver underhåll eller byte.
 
 SAMORDNINGSBEHOV
@@ -3915,7 +3915,7 @@ hästnäringen som kan ge indikationer om utvecklingen i branschen.
 
 Tabell 2.1 Exempel på hästrelaterade verksamheter och dess undergrupper
 Verksamhet     Undergrupper
-Hästsport*     A-tränare, B-tränare, kuskar, ryttare, jockeys, trav- och
+Hästsport\*     A-tränare, B-tränare, kuskar, ryttare, jockeys, trav- och
 galoppbanor
 Ridskolor och  Ridskolor, utbildningsanläggningar, licensutbildningar
 utbildningsverksamhet
@@ -3928,7 +3928,7 @@ och slakt, transporter: trailers och transportföretag, export
 av hästartiklar
 Lantbruk       Foder- och strömedelsproduktion, inackordering av hästar,
 skogshästverksamhet
-Anm.: *Notera att begreppet hästsport i tabellen inte motsvarar utredningens definition av hästsport
+Anm.: \*Notera att begreppet hästsport i tabellen inte motsvarar utredningens definition av hästsport
 som omfattar ridning, trav och andra aktiviteter med hästar och även inkluderar avel och uppfödning
 samt uppstallningsverksamhet.
 Källa: Hushållningssällskapet Halland 2025.
@@ -4603,7 +4603,7 @@ pekar avelsorganisationernas betäckningssiffror nedåt efter år 2020.
 Det totala antalet uppfödare under perioden 2016–2020 var 3 619.
 Definitionen av uppfödare i HNS rapport var den person eller före-
 tag som fött upp minst en häst per år under två av tre av åren 2018–
-2020. I sammanställningen ingick bara uppfödare i Sverige. Uppfö-
+2020\. I sammanställningen ingick bara uppfödare i Sverige. Uppfö-
 dare i andra länder som stambokfört sina hästar i en svensk stambok
 inkluderades inte. Uppfödare av varmblodig ridhäst och varmblodig
 travhäst är enligt HNS rapport flest. Det finns dock stora skillnader
@@ -4763,8 +4763,8 @@ företagarnas upplevda situation. I barometern ställs frågor till cirka
 1000 lantbruksföretagare via telefonintervjuer. Det finns två frågor
 som relaterar till häst35:
 
-1. Vilken är er huvudsakliga verksamhet i lantbruket mätt i intäkter?
-2. Planerar du inom de kommande 12 månaderna att utveckla\inve-
+1\. Vilken är er huvudsakliga verksamhet i lantbruket mätt i intäkter?
+2\. Planerar du inom de kommande 12 månaderna att utveckla\inve-
 stera inom någon av de kompletterande verksamheter som jag
 nu läser upp?
 
@@ -8004,7 +8004,7 @@ tungande för företag och där behovet av förenklingsåtgärder är störst.
 Med utgångspunkt i kartläggning och analys ska myndigheterna se
 
 80 Tillväxtverket 2023. Rapport. Regler som påverkar företagens kostnader och konkurrenskraft
-2022. Dnr Ä 2023-2451.
+2022\. Dnr Ä 2023-2451.
 81 Tillväxtverket 2024. Regler som påverkar företagens kostnader och konkurrenskraft 2023.
 Dnr Ä 2024-877.
 82 Regeringen. 2024. Regeringsuppdrag, KN 2024:01546.
@@ -8443,13 +8443,13 @@ uppnå detta. För att undvika överkompensation styrs ersättningen
 per hektar av de typer av jordbruk som företaget bedriver.
 Kompensationsstödet är utformat genom att jordbruksmarken
 delas in i fem typer av jordbruk:
-1. Jordbruk med betesdjur och grovfodergrödor på åkermark.
+1\. Jordbruk med betesdjur och grovfodergrödor på åkermark.
 
-2. Jordbruk med betesdjur och naturbetesmarker.
-3. Jordbruk med betesdjur och mycket extensiva naturbetesmarker.
+2\. Jordbruk med betesdjur och naturbetesmarker.
+3\. Jordbruk med betesdjur och mycket extensiva naturbetesmarker.
 
-4. Jordbruk med växtodling.
-5. Extensivt jordbruk med grovfodergrödor.
+4\. Jordbruk med växtodling.
+5\. Extensivt jordbruk med grovfodergrödor.
 
 De olika jordbrukstyperna har olika krav på djurtäthet. Att krav på
 djurenheter per hektar skiljer sig mellan jordbrukstyperna speglar
@@ -9926,16 +9926,16 @@ Enligt bestämmelsen är det förbjudet att:
 
 SOU 2025:58                   Stärkt företagande och ökad sysselsättning
 
-1. uppföra nya byggnader,
+1\. uppföra nya byggnader,
 
-2. ändra byggnader eller byggnaders användning eller utföra andra
+2\. ändra byggnader eller byggnaders användning eller utföra andra
 anläggningar eller anordningar, om det hindrar eller avhåller
 allmänheten från att beträda ett område där den annars skulle ha
 fått färdas fritt,
 
-3. utföra grävningsarbeten eller andra förberedelsearbeten för
+3\. utföra grävningsarbeten eller andra förberedelsearbeten för
 byggnader, anläggningar eller anordningar, eller
-4. vidta åtgärder som väsentligt förändrar livsvillkoren för djur-
+4\. vidta åtgärder som väsentligt förändrar livsvillkoren för djur-
 eller växtarter.
 
 Upphävande av strandskyddet
@@ -10128,7 +10128,7 @@ införandet förändrats över tid. Identitetshandlingar för vissa hästar
 omnämns i direktiven 90/427/EEG avseende handel med renrasiga
 hästar, och 90/426/EEG avseende förflyttning av hästar. Krav på
 identitetshandling för hästdjur kom för medlemsstaterna i EU redan
-1991. Kravet på ett fastställt identitetsdokument gällde dock bara
+1991\. Kravet på ett fastställt identitetsdokument gällde dock bara
 registrerade hästar, det vill säga hästar som var införda i en stambok
 
 eller som var registrerade hos en tävlingsorganisation. Genom beslut
@@ -10215,10 +10215,10 @@ passen:
 Artikel 20 Användning av plastkort, smartkort eller digitala applika-
 tioner i bärbara elektroniska enheter tillsammans med livslånga iden-
 titetshandlingar
-1. Om den livslånga identitetshandlingen utfärdas tillsammans
+1\. Om den livslånga identitetshandlingen utfärdas tillsammans
 med ett plastkort eller ett smartkort ska dessa kort uppfylla kraven
 i bilaga III.
-2. Medlemsstaterna får godkänna användning av digitala
+2\. Medlemsstaterna får godkänna användning av digitala
 applikationer i bärbara elektroniska enheter som åtminstone visar de
 identifieringsuppgifter som lagras i databasen för identifiering av
 hästdjur vid förflyttningar
@@ -10226,7 +10226,7 @@ a) inom deras nationella territorium,
 b) till medlemsstater enligt undantaget i artikel 69 i delegerad för-
 ordning (EU) 2020/688,
 c) till tredjeländer som har godkänt sådan identifiering.
-3. Medlemsstaterna får dock inte godkänna användning av plastkort,
+3\. Medlemsstaterna får dock inte godkänna användning av plastkort,
 smartkort eller digitala applikationer i bärbara elektroniska enheter
 som den enda identitetshandlingen vid förflyttning till ett slakteri.
 3.14.4 Den centrala hästdatabasen
@@ -10357,7 +10357,7 @@ Stärkt företagande och ökad sysselsättning SOU 2025:58
 tillgänglig, hållbar och effektiv veterinär beredskap för djursjukvård
 under jourtid138. Utredningens arbete ska redovisas den 31 augusti
 
-2025. Då de frågor som lyfts av hästnäringen kopplat till veterinär-
+2025\. Då de frågor som lyfts av hästnäringen kopplat till veterinär-
 bristen under jourtid tas om hand inom ramen för en pågående ut-
 redning hanterar inte Hästutredningen den specifika frågan vidare.
 
@@ -13947,9 +13947,9 @@ Hästhållning,
 skolår 1     –       –    819   899   960
 Gymnasieexamen
 (Djur/Djurvård och
-Hästhållning) 1 300 1 429 1 420 1 550* 1 754**
+Hästhållning) 1 300 1 429 1 420 1 550\* 1 754\*\*
 Andel med examen 93 % 91 % 91 % 92 %  92 %
-Anm.: *Varav Hästhållning 3 elever. **Varav Hästhållning 722 elever. Andelen av dessa med examen
+Anm.: \*Varav Hästhållning 3 elever. \*\*Varav Hästhållning 722 elever. Andelen av dessa med examen
 var 94 %.
 Källa: SCB.
 
@@ -14477,7 +14477,7 @@ hållning, anläggningsskötsel, arbetsgivaransvar, säkerhet, ekonomi,
 mm. SvRF erbjuder också flera yrkesutbildningar, diplomering för
 ridlärare och licensiering av tränare. Totalt hade SvRF på central
 nivå över 4 000 deltagare i kurser, föreläsningar och konferenser
-2023. Till detta kommer motsvarande verksamhet i distrikten som
+2023\. Till detta kommer motsvarande verksamhet i distrikten som
 totalt omfattade över 13 000 deltagare. Kurserna är öppna för med-
 lemmar i förbundet och finansieras av deltagaravgifter, projektmedel
 och SISU Idrottsutbildarna. Ridsporten är med cirka 150 000 med-
@@ -17295,7 +17295,7 @@ lingsarbetet har de gjort studiebesök och haft hjälp av bland annat
 Hushållningssällskapet, Riksförbundet FUB10, Svensk travsport
 och Årjängs kommun.
 Den nya travskolan kunde alltså sedan vara klar under hösten
-2024. I och med detta har arbetsmiljön förbättrats kraftigt och nu
+2024\. I och med detta har arbetsmiljön förbättrats kraftigt och nu
 kan travskolan även välkomna barn och ungdomar med funktions-
 
 variationer eftersom stallet är helt tillgänglighetsanpassat. Alla rum
@@ -18211,14 +18211,14 @@ Idrott                        Antal medlemmar
 Fotboll                        1 594 969
 Friidrott                       658 473
 Golf                            532 283
-Gymnastik*                      505 109
+Gymnastik\*                      505 109
 Innebandy                       424 672
 Ishockey                        293 306
 Simidrott                       275 808
 Handboll                        195 251
 Ridsport                        171 996
 Motorsport                      167 389
-Anm.: *Riksidrottsförbundet låter meddela att Gymnastikförbundets medlemsantal bör justeras ned.
+Anm.: \*Riksidrottsförbundet låter meddela att Gymnastikförbundets medlemsantal bör justeras ned.
 Så har dock inte skett än.
 Källa: Idrottstatistik.se, Riksidrottsförbundet.
 
@@ -18328,7 +18328,7 @@ Detta förhållande är en av idrottsrörelsens största utmaningar.
 
 SOU 2025:58                 Möjligheter för fler att delta i hästverksamheter
 
-Figur 5.1 Antal unika individer för hästsport* efter ålder 2023
+Figur 5.1 Antal unika individer för hästsport\* efter ålder 2023
 
 9 000
 
@@ -18345,7 +18345,7 @@ Figur 5.1 Antal unika individer för hästsport* efter ålder 2023
 1 000
 0
 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
-Anm.: *Hästsport är ridsport inklusive islandshäst, som utgör cirka 1,4 %.
+Anm.: \*Hästsport är ridsport inklusive islandshäst, som utgör cirka 1,4 %.
 Källa: Riksidrottsförbundet.
 
 Av figur 5.1 framgår att flest antal som får LOK-stöd för att utöva
@@ -18359,7 +18359,7 @@ Man kan jämföra med idrotten i stort som har en peak vid cirka
 
 Möjligheter för fler att delta i hästverksamheter SOU 2025:58
 
-Figur 5.2 Andel unika individer för hästsport* jämfört med övriga sporter
+Figur 5.2 Andel unika individer för hästsport\* jämfört med övriga sporter
 efter ålder 2023
 
 120%
@@ -18375,7 +18375,7 @@ efter ålder 2023
 0%
 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
 Totalt Hästsport
-Anm.: *Hästsport är ridsport inklusive islandshäst, som utgör cirka 1,4 %.
+Anm.: \*Hästsport är ridsport inklusive islandshäst, som utgör cirka 1,4 %.
 Källa: Riksidrottsförbundet. Grafen visar andel och utgår från andel i relation till peakålder (det år som
 det är flest individer).
 
@@ -18507,7 +18507,7 @@ Handboll                13 144     2,59 %
 Korpen*                 12 207     2,41 %
 ```
 
-Anm.: *Korpen är verksamhet inom Svenska motionsförbundet.
+Anm.: \*Korpen är verksamhet inom Svenska motionsförbundet.
 Källa: Riksidrottsförbundet.
 
 Av tabell 5.5 framgår att sett till antal deltagartillfällen är ridsporten
@@ -18727,7 +18727,7 @@ kan förklaras av att kläder också räknas in som en del av utrustningen
 i de svar som föräldrarna har lämnat. Se tabell 5.7.
 
 Tabell 5.7 Översiktsbild av kostnader uppdelat på huvudidrotter
-Kostnader för barn (7–18 år) uppdelat på idrotter och kostnadsposter*.
+Kostnader för barn (7–18 år) uppdelat på idrotter och kostnadsposter\*.
 Totalsumman (horisontellt) = Summan av kostnadsposterna.
 Totalt (vertikalt) = Medelvärdet för respektive kostnadspost
 Idrotter Medlems- Tränings- Läger/ Utrust- Kläder Resor Försälj- Övrigt Total-
@@ -18745,7 +18745,7 @@ Simidrott 300 3 700 2 000 1 500 500 2 900 0 500 11 400
 Tennis 400 10 000 5 000 2 200 700 4 900 0 500 23 700
 Övriga 300  1 800 1 000 1 000 500 2 000 0 0 6 600
 Totalt 400  2 000 1 500 1 500 800 2 300 500 500 9 400
-Anm.: *Underlaget bygger på enkät med svar från 1 244 föräldrar/vårdnadshavare.
+Anm.: \*Underlaget bygger på enkät med svar från 1 244 föräldrar/vårdnadshavare.
 Källa: Riksidrottsförbundet.
 
 Vidare framgår av rapporten att trots att ridsport tillhör en av de
@@ -22591,7 +22591,7 @@ Centrum för idrottsforskning. 2022. Idrottsanläggningar – i dag och
 i morgon: Om behov, tillgänglighet och konkurrerande intressen.
 2022:2.
 Eftang, S., et al. 2023. Applied Animal Behaviour Science 269 (2023)
-106112. Sheep’s learning ability and behavioural response to a fully
+106112\. Sheep’s learning ability and behavioural response to a fully
 automated virtual fencing system.
 Ekonomistyrningsverket. 2025. Regleringsbrev för budgetåret 2025
 avseende Sveriges lantbruksuniversitet.
@@ -22834,7 +22834,7 @@ Platsens betydelse – unga på landsbygd.
 
 Myndigheten för yrkeshögskolan. 2024. Områdesanalys 2024 Häst.
 Myndigheten för yrkeshögskolan. 2024. Resultat ansökningsomgång
-2024.
+2024\.
 Nordström, Sofia. 2023. Slumpmässighet och direkt samband inom
 hästverksamhet – en analys av begreppet ekonomisk verksamhet i
 artikel 9.1 i mervärdesskattedirektivet, Examensarbete i skatterätt,
@@ -23111,7 +23111,7 @@ Sveriges lantbruksuniversitet, SLU. 2020. Byråkratin i lantbruket
 belastar och kostar. Rapport 2020:7.
 Sveriges lantbruksuniversitet, HIR Skåne, Växa Sverige,
 Lantbrukarnas riksförbund och Hushållningssällskapet Halland.
-2021. Metodutveckling för regelförenkling – projekt. Faktablad:
+2021\. Metodutveckling för regelförenkling – projekt. Faktablad:
 Fortsatt ökning av antalet lagkrav för lantbruket.
 Sveriges Lantbruksuniversitet, SLU. 2021. Hästunderstödda insatser –
 samspel mellan hästens välfärd och människans säkerhet. Rapport
@@ -23440,101 +23440,101 @@ Statens offentliga utredningar  2025
 
 Kronologisk förteckning
 
-1. Skärpta krav för svenskt medborgar- 20. Kommunal anslutning till Utbetal-
+1\. Skärpta krav för svenskt medborgar- 20. Kommunal anslutning till Utbetal-
 skap. Ju.              ningsmyndighetens verksamhet. Fi.
-2. Några frågor om grundläggande 21. Miljömålsberedningens förslag om en
+2\. Några frågor om grundläggande 21. Miljömålsberedningens förslag om en
 fri- och rättigheter. Ju. strategi för hur Sverige ska leva upp
-3. Skatteincitament för forskning till EU:s åtaganden inom biologisk
+3\. Skatteincitament för forskning till EU:s åtaganden inom biologisk
 och utveckling. En översyn av mångfald respektive nettoupptag av
 FoU-avdraget och expertskatte- växthusgaser från markanvändnings-
 reglerna. Fi.          sektorn (LULUCF). KN.
-4. Moderna och enklare skatteregler 22. Förbättrad konkurrens i offentlig och
+4\. Moderna och enklare skatteregler 22. Förbättrad konkurrens i offentlig och
 för arbetslivet. Fi.   privat verksamhet. KN.
-5. Avgift för områdessamverkan 23. Ersättningsregler med brottsoffret
+5\. Avgift för områdessamverkan 23. Ersättningsregler med brottsoffret
 – och andra åtgärder för trygghet i fokus. Ju.
 i byggd miljö. LI.   24. Publiken i fokus
-6. Plikten kallar! En modern personal- – reformer för ett starkare filmland. Ku.
+6\. Plikten kallar! En modern personal- – reformer för ett starkare filmland. Ku.
 försörjning av det civila försvaret. Fö. 25. Arbetslivskriminalitet – upplägg,
-7. Ny kärnkraft i Sverige – effektivare verktyg och åtgärder, fortsatt arbete. A.
+7\. Ny kärnkraft i Sverige – effektivare verktyg och åtgärder, fortsatt arbete. A.
 tillståndsprövning och ändamålsenliga 26. Tid för undervisningsuppdraget –
 avgifter. KN.          åtgärder för god undervisning och
-8. Bättre förutsättningar för trygghet läraryrkenas attraktivitet. U.
+8\. Bättre förutsättningar för trygghet läraryrkenas attraktivitet. U.
 och studiero i skolan. U. 27. En socionomutbildning i tiden. U.
-9. På språklig grund. U. 28. Frihet från våld, förtryck och utnytt-
-10. En förändrad abortlag – för en god, jande. En jämställdhetspolitisk strategi
+9\. På språklig grund. U. 28. Frihet från våld, förtryck och utnytt-
+10\. En förändrad abortlag – för en god, jande. En jämställdhetspolitisk strategi
 säker och tillgänglig abortvård. S. mot våld och en stärkt styrning av
 centrala myndigheter. A.
-11. Straffbarhetsåldern. Ju.
-29. Ökad kvalitet hos Samhall
-12. AI-kommissionens
+11\. Straffbarhetsåldern. Ju.
+29\. Ökad kvalitet hos Samhall
+12\. AI-kommissionens
 och fler vägar till skyddat arbete. A.
 Färdplan för Sverige. Fi.
-30. Enklare mervärdesskatteregler vid
-13. En effektivare organisering av mindre
+30\. Enklare mervärdesskatteregler vid
+13\. En effektivare organisering av mindre
 försäljning av begagnade varor och
 myndigheter – analys och förslag. Fi.
 donation av livsmedel. Fi.
-14. En skärpt miljöstraffrätt och
-31. Utmönstring av permanent uppehålls-
+14\. En skärpt miljöstraffrätt och
+31\. Utmönstring av permanent uppehålls-
 ett effektivt sanktionssystem. KN.
 tillstånd och vissa anpassningar till
-15. Stärkta drivkrafter och möjligheter för miniminivån enligt EU:s migrations-
+15\. Stärkta drivkrafter och möjligheter för miniminivån enligt EU:s migrations-
 biståndsmottagare. Volym 1 och 2. S. och asylpakt. Ju.
-16. Ett nytt regelverk för uppsikt och 32. Vissa förändringar av jaktlagstiftningen.
+16\. Ett nytt regelverk för uppsikt och 32. Vissa förändringar av jaktlagstiftningen.
 förvar. Ju.            LI.
-17. Anpassning av svensk rätt till EU:s 33. Skärpta och tydligare krav på vandel
+17\. Anpassning av svensk rätt till EU:s 33. Skärpta och tydligare krav på vandel
 avskogningsförordning. LI. för uppehållstillstånd. Ju.
-18. Ett likvärdigt betygssystem. 34. Ett modernare konsumentskydd vid
+18\. Ett likvärdigt betygssystem. 34. Ett modernare konsumentskydd vid
 Volym 1 och 2. U.      distansavtal. Ju.
-19. Kunskap för alla – nya läroplaner med 35. Etableringsboendelagen
+19\. Kunskap för alla – nya läroplaner med 35. Etableringsboendelagen
 fokus på undervisning och lärande. U. – ett nytt system för bosättning
 för vissa nyanlända. A.
 
 <!-- sida 519 -->
 
-36. Skydd för biologisk mångfald i havs-
+36\. Skydd för biologisk mångfald i havs-
 områden utanför nationell jurisdiktion.
 UD.
-37. Skärpta villkor för friskolesektorn. U.
-38. Att omhänderta barn och unga. S.
-39. Digital teknik på lika villkor.
+37\. Skärpta villkor för friskolesektorn. U.
+38\. Att omhänderta barn och unga. S.
+39\. Digital teknik på lika villkor.
 En reglering för socialtjänsten och
 verksamhet enligt LSS. S.
-40. Säkrare tivoli. Ju.
-41. Pensionsnivåer och pensionsavgiften
+40\. Säkrare tivoli. Ju.
+41\. Pensionsnivåer och pensionsavgiften
 – analyser på hundra års sikt. S.
-42. Säkerhetsskyddslagen – ytterligare
+42\. Säkerhetsskyddslagen – ytterligare
 kompletteringar. Ju.
-43. Säkerställ tillgången till läkemedel
+43\. Säkerställ tillgången till läkemedel
 – förordnande och utlämnande
 i bristsituationer. S.
-44. Förbättrat stöd i skolan. U.
-45. Ökat informationsutbyte mellan
+44\. Förbättrat stöd i skolan. U.
+45\. Ökat informationsutbyte mellan
 myndigheter – några anslutande
 frågor. Ju.
-46. Tryggare idrottsarrangemang. Ju.
-47. Spänning i tillvaron – hur säkrar vi vår
+46\. Tryggare idrottsarrangemang. Ju.
+47\. Spänning i tillvaron – hur säkrar vi vår
 framtida elförsörjning? KN.
-48. Stärkt pandemiberedskap. S.
-49. Säkerhetspolisens behandling
+48\. Stärkt pandemiberedskap. S.
+49\. Säkerhetspolisens behandling
 av personuppgifter. Ju.
-50. En ny nationell myndighet för
+50\. En ny nationell myndighet för
 viltförvaltning. LI.
-51. Bättre förutsättningar för
+51\. Bättre förutsättningar för
 klimatanpassning. KN.
-52. Ökad insyn i politiska processer. Ju.
-53. Kvalificering till socialförsäkring
+52\. Ökad insyn i politiska processer. Ju.
+53\. Kvalificering till socialförsäkring
 och ekonomiskt bistånd
 för vissa grupper. S.
-54. Ett skärpt regelverk om utvisning
+54\. Ett skärpt regelverk om utvisning
 på grund av brott. Ju.
-55. En reformerad samhällsorientering
+55\. En reformerad samhällsorientering
 för bättre integration. A.
-56. Stärkt skydd för domstolarnas
+56\. Stärkt skydd för domstolarnas
 och domarnas oberoende. Ju.
-57. Polisiär beredskap i fred, kris och krig.
+57\. Polisiär beredskap i fred, kris och krig.
 Ju.
-58. En stärkt hästnäring – för företagande,
+58\. En stärkt hästnäring – för företagande,
 jämställdhet, jämlikhet och folkhälsa.
 LI.
 
@@ -23889,10 +23889,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -23984,7 +23984,7 @@ genom att främja samhällsengagemang och utveckla föreningsdemokratin. Vi info
 som önskar ansöka om stöd ska säkerställa att de uppfyller de grundvillkor som krävs för att vara
 stödberättigade, om att hälsocertifieringen numera är en obligatorisk del av att bli en stödberättigad förening,
 om de nya stödformerna utvecklingsstöd och föreningsuppdrag, att utveckling- och utbildningsbidraget upphör
-2026. Föreningarna informerades också om de nya taxor och avgifter som ska börja gälla från 1:e juli 2026.
+2026\. Föreningarna informerades också om de nya taxor och avgifter som ska börja gälla från 1:e juli 2026.
 Vi har upphandlat och implementerat ett nytt boknings- och bidragssystem, som syftar till att öka
 
 6
@@ -24052,11 +24052,11 @@ Nämndens årsredovisning 2025
 
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -24139,12 +24139,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %     73 %      75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %     86 %      88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 103 92
 målvärde 2030 är 70.
@@ -24173,7 +24173,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,86      1,79     1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 113      115       151
@@ -24196,8 +24196,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -24264,8 +24264,8 @@ Antal nystartade företag per 1 000 invånare
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -24361,12 +24361,12 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -24556,7 +24556,7 @@ genom att främja samhällsengagemang och utveckla föreningsdemokratin. Vi info
 som önskar ansöka om stöd ska säkerställa att de uppfyller de grundvillkor som krävs för att vara
 stödberättigade, om att hälsocertifieringen numera är en obligatorisk del av att bli en stödberättigad förening,
 om de nya stödformerna utvecklingsstöd och föreningsuppdrag, att utveckling- och utbildningsbidraget upphör
-2026. Föreningarna informerades också om de nya taxor och avgifter som ska börja gälla från 1:e juli 2026.
+2026\. Föreningarna informerades också om de nya taxor och avgifter som ska börja gälla från 1:e juli 2026.
 Förbättrad tillgänglighet till kommunala lokaler och anläggningar
 
 Vi har upphandlat och implementerat ett nytt boknings- och bidragssystem, som syftar till att öka
@@ -24629,7 +24629,7 @@ Nämndens årsredovisning 2025
 Fler skolpersonal har utbildats i att genomföra lektioner om trygghet på nätet och informera vårdnadshavare vid
 föräldramöten. Även politiker och medarbetare inom individ- och familjeomsorg har deltagit i utbildningarna.
 
-#Tryggdigitaluppväxt har breddats till fler områden, bland annat frågor kopplade till nätet och alkohol,
+\#Tryggdigitaluppväxt har breddats till fler områden, bland annat frågor kopplade till nätet och alkohol,
 narkotika, doping, tobak samt spel om pengar. Ett särskilt fokus har lagts på att sprida kunskap om och
 uppmärksamma risken för att unga dras in i kriminella nätverk via sociala medier och krypterade tjänster.
 Under vecka 45–48 genomförde vi en digital kampanj på TikTok och Snapchat riktad till 13–20-åringar.
@@ -25198,21 +25198,21 @@ pilot för att under hösten 2025 arbeta fram ett nytt arbetssätt som syftade t
 individuella behov, intressen och förutsättningar. Genom att erbjuda ett mer varierat och meningsfullt
 aktivitetsutbud skapas flera förväntade nyttor:
 
-1. Ökad livskvalitet och välbefinnande:
+1\. Ökad livskvalitet och välbefinnande:
 Aktiviteter som stimulerar både kropp och sinne bidrar till att stärka självkänslan, öka glädjen i
 vardagen och skapa en känsla av meningsfullhet för de äldre.
-2. Förbättrad fysisk och psykisk hälsa:
+2\. Förbättrad fysisk och psykisk hälsa:
 Regelbundna och anpassade aktiviteter kan motverka stillasittande, minska risken för ofrivillig
 ensamhet, depression, och stimulera kognitiva funktioner, vilket i sin tur kan leda till ett minskat
 vårdbehov.
-3. Ökad delaktighet och social samvaro:
+3\. Ökad delaktighet och social samvaro:
 Ett rikare aktivitetsutbud främjar gemenskap och motverkar ensamhet. Boende får fler möjligheter att
 interagera med varandra och med personal, vilket stärker den sociala sammanhållningen.
-4. Individanpassad omsorg:
+4\. Individanpassad omsorg:
 Genom att ta tillvara på de boendes tidigare intressen och livserfarenheter genom arbetet med
 levnadsberättelser och genomförandeplaner, kan aktiviteterna anpassas så att varje individ känner sig
 sedd, hörd och värdefull.
-5. Stärkt anhörigrelation:
+5\. Stärkt anhörigrelation:
 Anhöriga upplever ofta en ökad trygghet och tillfredsställelse när de ser att deras närstående får en
 meningsfull vardag med möjlighet till engagemang och glädje.
 Projektet har därmed lagt en stabil grund för fortsatt utveckling och implementering av meningsfulla aktiviteter i
@@ -26013,11 +26013,11 @@ samarbete vara möjligt.
 
 Vi yrkar därför
 
--  att förvaltningschefen i nämnden för Kultur och Fritid lyfter frågan i
+\-  att förvaltningschefen i nämnden för Kultur och Fritid lyfter frågan i
 samtal med sin motsvarighet inom IF för att undersöka möjligheter till
 
 samarbete i frågan.
--
+\-
 
 Kungsbacka 7 januari 2026
 

@@ -448,7 +448,7 @@ genom att bedriva tillsyn. I uppdraget som tillsynsmyndighet ingår att priorite
 tillsynsarbetet.
 Den nationella strategin för tillsyn enligt miljöbalken är grunden för vilken tillsyn
 som ska utföras i Kungsbacka. En ny strategi är beslutad för tillsynsperioden 2026–
-2029. Tillsyn som ryms inom strategin prioriteras därmed särskilt högt för att vi ska
+2029\. Tillsyn som ryms inom strategin prioriteras därmed särskilt högt för att vi ska
 
 kunna uppnå miljömålen. Det finns andra tillsynsområden som inte ryms inom
 strategin i samma utsträckning där det är viktigt att tillsyn utförs så att vi uppfyller
@@ -476,10 +476,10 @@ vattendirektiv
 Övriga tillsynsområden som kommer prioriteras utifrån följande tre miljömål
 (rangordning där siffran 1 är viktigast):
 
-1. Begränsad klimatpåverkan
-2. Grundvatten av god kvalitet
+1\. Begränsad klimatpåverkan
+2\. Grundvatten av god kvalitet
 
-3. God bebyggd miljö som nämnden valt att prioritera
+3\. God bebyggd miljö som nämnden valt att prioritera
 Vilket kommer leda till följande tillsynsaktiviteter:
 
 Begränsad klimatpåverkan
@@ -517,14 +517,14 @@ Tillsynsplan 2026 för tillsyn enligt Miljöbalken, 2025-11-20
 Behovsutredning, 2025-11-13
 
 Bilagor:
-1. Sammanställning över tillsynsområden inom Framtidens Miljö & Hälsoskydd
-2. Sammanställning av nationell strategin för miljöbalkstillsynen 2022–2025
+1\. Sammanställning över tillsynsområden inom Framtidens Miljö & Hälsoskydd
+2\. Sammanställning av nationell strategin för miljöbalkstillsynen 2022–2025
 
-3. Sammanställning över prioriterade förorenade objekt
-4. Protokollsutdrag Prioriteringar inom ramen för tillsynsplan avseende nämnden för
+3\. Sammanställning över prioriterade förorenade objekt
+4\. Protokollsutdrag Prioriteringar inom ramen för tillsynsplan avseende nämnden för
 Miljö & Hälsoskydd under 2025"
-5. Nämnden för Miljö & Hälsoskydds prioriteringar avseende tillsynsplan 2025
-6. Tillsynsprogram för industriverksamheter i Kungsbacka kommun, nämnden för
+5\. Nämnden för Miljö & Hälsoskydds prioriteringar avseende tillsynsplan 2025
+6\. Tillsynsprogram för industriverksamheter i Kungsbacka kommun, nämnden för
 Miljö & Hälsoskydd, daterad 2023-05-11, dnr 2023–544
 
 Beslutsgång
@@ -561,7 +561,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Byggnadsnämnden beslutade 2025-11-20 § 189 att godkänna intern kontrollplan
-2026.
+2026\.
 
 Enligt kommunens process för intern styrning och kontroll ska nämnderna varje år
 anta en intern kontrollplan för kommande år. Planen ska bygga på riskanalys
@@ -699,7 +699,7 @@ kontroll av livsmedel och vissa jordbruksprodukter från 1 502 kronor per timme 
 512 kronor per timme i enlighet med 8 § i taxans inledande bestämmelser.
 
 Den justerade handläggningskostnaden per timme gäller från och med 1 januari
-2026.
+2026\.
 
 Sammanfattning av ärendet
 
@@ -805,7 +805,7 @@ strålskyddslagens område, lagen om sprängämnesprekursorer, lagen om
 gaturenhållning och skyltning samt lagen om åtgärder mot föroreningar från fartyg
 från 1 391 kronor per timme till 1 400 kronor per timme i enlighet med 5 § i taxans
 inledande bestämmelser. Den föreslagna timavgiften gäller från och med 1 januari
-2026.
+2026\.
 
 Beslutsunderlag
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2025-10-21

@@ -435,23 +435,23 @@ Sammanfattning av ärendet
 Under perioden 18 september och den 15 oktober inkom följande skrivelser till
 nämnden för Teknik:
 
-- Återkoppling till invånare: Gravplats på kommunens mark
-- E-post - PM avseende svar på revisionens frågor om KF direktiv om innovation
+\- Återkoppling till invånare: Gravplats på kommunens mark
+\- E-post - PM avseende svar på revisionens frågor om KF direktiv om innovation
 
-- PM avseende svar på revisionens frågor om KF direktiv om innovation
-- Protokollsutdrag NMH 2025-09-11 § 106 - Upphävande av beslut om mätning av
+\- PM avseende svar på revisionens frågor om KF direktiv om innovation
+\- Protokollsutdrag NMH 2025-09-11 § 106 - Upphävande av beslut om mätning av
 badvattenkvalité, MH-2025-04890
 
-- Mätning av badvattenkvalité i de badvikar där det bedrivs simskolor och
+\- Mätning av badvattenkvalité i de badvikar där det bedrivs simskolor och
 seglarskolor NMH 2014-11-27
-- Tjänsteskrivelse - Upphävande av beslut om mätning av badvattenkvalité, MH-
+\- Tjänsteskrivelse - Upphävande av beslut om mätning av badvattenkvalité, MH-
 
 2025-04890
-- Protokollsutdrag KS 2025-09-23 § 173 - Kungsbacka Arena genomförandefrågor -
+\- Protokollsutdrag KS 2025-09-23 § 173 - Kungsbacka Arena genomförandefrågor -
 startbesked samt friställning av blivande byggnadsyta, KS-2020-00547
 
-- Tjänsteskrivelse - Omfördelning av medel mellan projekt skatt 2025 - Omgång 4
-- TEAU Protokollsutdrag TE-2025-00779 § 46 - Omfördelning av medel mellan
+\- Tjänsteskrivelse - Omfördelning av medel mellan projekt skatt 2025 - Omgång 4
+\- TEAU Protokollsutdrag TE-2025-00779 § 46 - Omfördelning av medel mellan
 projekt skatt 2025 - omgång 4
 
 Beslutsgång

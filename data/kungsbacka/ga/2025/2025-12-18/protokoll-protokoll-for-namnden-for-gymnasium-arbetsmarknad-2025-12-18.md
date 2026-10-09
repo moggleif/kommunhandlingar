@@ -55,13 +55,13 @@ Karin Zetterman, verksamhetschef
 Cecilia Fossan, biträdande
 gymnasiechef
 Alexandra Cameron, utvecklare
-Camilla Pålsson, verksamhetschef $
+Camilla Pålsson, verksamhetschef \$
 145
-Anna Danielsson, jurist $ 145
-Maria Åsberg, rektor $ 146
-Marie Andersson, rektor $ 147
-Hannah Tengelin, rektor $ 147
-Angela Lyrhagen, enhetschef $ 148
+Anna Danielsson, jurist \$ 145
+Maria Åsberg, rektor \$ 146
+Marie Andersson, rektor \$ 147
+Hannah Tengelin, rektor \$ 147
+Angela Lyrhagen, enhetschef \$ 148
 Personalföreträdare
 
 Cajsa Friden, Sveriges skolledare
@@ -69,7 +69,7 @@ Frida Hagelin, Sveriges lärare
 
 Plats och tid för justering Digital justering
 
-Sekreterare Alexandra Cameron Paragrafer $$ 144-161
+Sekreterare Alexandra Cameron Paragrafer \$\$ 144-161
 
 Ordförande Axel Storckenfeldt (M)
 
@@ -85,13 +85,13 @@ Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
 Återrapportering av program- och verksamhetsråd (2025) ....................... 22
-$ 159 Dnr GA-2024-00225
+\$ 159 Dnr GA-2024-00225
 
 Återrapportering av delegeringsbeslut (2025) ..........sssssrssssssssssersrrersssennsna 23
-$ 160 Dnr GA-2024-00227
+\$ 160 Dnr GA-2024-00227
 
 Inkomna skrivelser till ledamöter och ersättare i nämnden (2025)............ 24
-$ 161 Dnr GA-2024-00228
+\$ 161 Dnr GA-2024-00228
 
 Förvaltningschef informerar (2025) ..ssssssssssrsserssrsersrerrsrnresnrrerrsrrrrr rn rn nn 25
 
@@ -107,7 +107,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 144 Dnr GA-2024-00224
+\$ 144 Dnr GA-2024-00224
 Förändring av ärendelista samt val av justerare (2025)
 
 Beslut
@@ -133,7 +133,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 145 Dnr GA-2025-00185
+\$ 145 Dnr GA-2025-00185
 Information - Inköp och upphandling
 
 Beslut
@@ -167,7 +167,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 146 Dnr GA-2025-00092
+\$ 146 Dnr GA-2025-00092
 Verksamhetsinformation
 
 Beslut
@@ -197,7 +197,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 147 Dnr GA-2025-00178
+\$ 147 Dnr GA-2025-00178
 
 Uppföljning av systematiskt kvalitetsarbete gymnasieskolan och
 anpassad gymnasieskola 2024/2025
@@ -229,7 +229,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 148 Dnr GA-2025-00183
+\$ 148 Dnr GA-2025-00183
 Uppföljning av det kommunala aktivitetsansvaret- KAA 2025
 
 Beslut
@@ -250,15 +250,15 @@ Nulägesrapport 2025-11-12
 
 244 ungdomar
 
-- 95 arbetar (timmar, visstid, tv-tjänst, eget företag)
+\- 95 arbetar (timmar, visstid, tv-tjänst, eget företag)
 
-- 19 utomlands (studerar, utbytesstudenter, reser)
+\- 19 utomlands (studerar, utbytesstudenter, reser)
 
-- 27 andra aktörer (AME, LSS, AF, HVB, Vården)
+\- 27 andra aktörer (AME, LSS, AF, HVB, Vården)
 
-- 53 etablerad kontakt (ingen pågående aktivitet men tät kontakt)
+\- 53 etablerad kontakt (ingen pågående aktivitet men tät kontakt)
 
-- 50 inget svar
+\- 50 inget svar
 
 Beslutsgång
 
@@ -277,7 +277,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 
 2025-12-18
-$ 149 Dnr GA-2024-00223
+\$ 149 Dnr GA-2024-00223
 Budget 2026
 Beslut
 
@@ -316,7 +316,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 150 Dnr GA-2025-00182
+\$ 150 Dnr GA-2025-00182
 Investeringsplan 2027-2036
 
 Beslut
@@ -374,7 +374,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 151 Dnr GA-2025-00179
+\$ 151 Dnr GA-2025-00179
 Inackorderingsbidrag 2026
 
 Beslut
@@ -387,7 +387,7 @@ Sammanfattning av ärendet
 Kommunens skyldighet att lämna stöd till elever i gymnasieskolan, gymnasial
 vuxenutbildning eller påbyggnadsutbildning, som behöver inackordering till följd av
 skollagen, regleras i skollagen (2010:800) 15 kap. 32 3. Lägsta beloppet, om stöd ges
-kontant, är 1/30 av basbeloppet enligt 2 kap. 6 och 7 $$ socialförsäkringsbalken och
+kontant, är 1/30 av basbeloppet enligt 2 kap. 6 och 7 \$\$ socialförsäkringsbalken och
 regleras årligen.
 
 Prisbasbeloppet för år 2026 är fastställt till 59 200 kronor.
@@ -414,7 +414,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 152 Dnr GA-2025-00180
+\$ 152 Dnr GA-2025-00180
 Ersättning friskolor 2026
 
 Beslut
@@ -451,7 +451,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 153 Dnr GA-2025-00128
+\$ 153 Dnr GA-2025-00128
 
 Beredning av motion - Avskaffa religiöst motiverad specialkost i
 förskola och skola (KS-2025-00457)
@@ -537,8 +537,8 @@ Beslutsunderlag
 Moderaternas yrkande 2025-12-18
 
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2025-11-28
-Protokollutdrag, kommunstyrelsens arbetsutskott 2025-08-12 $ 212
-Protokollutdrag, kommunfullmäktige 2025-06-16 $ 133
+Protokollutdrag, kommunstyrelsens arbetsutskott 2025-08-12 \$ 212
+Protokollutdrag, kommunfullmäktige 2025-06-16 \$ 133
 
 Sverigedemokraternas motion, Avskaffa religiöst motiverad specialkost i förskola
 och skola, 2025-05-25
@@ -663,7 +663,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 
 2025-12-18
-$ 154 Dnr GA-2025-00165
+\$ 154 Dnr GA-2025-00165
 Förstudie samverkan Varberg/Kungsbacka, Fordon- och
 transportprogrammet
 Beslut
@@ -776,7 +776,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 19 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 
 2025-12-18
-$ 155 Dnr GA-2020-00182
+\$ 155 Dnr GA-2020-00182
 IOP Erikshjälpen
 Beslut
 
@@ -794,7 +794,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 20 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 156 Dnr GA-2025-00049
+\$ 156 Dnr GA-2025-00049
 IOP Onsala församling
 
 Beslut
@@ -812,7 +812,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 21 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 157 Dnr GA-2025-00176
+\$ 157 Dnr GA-2025-00176
 IOP Skyddsvärnet i Göteborg
 
 Beslut
@@ -861,7 +861,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 22 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 158 Dnr GA-2024-00226
+\$ 158 Dnr GA-2024-00226
 Återrapportering av program- och verksamhetsråd (2025)
 
 Beslut
@@ -890,8 +890,8 @@ som personlig tränare.
 
 Önskemål att flera från nämnden deltar.
 
-1. Anteckningar från verksamhetsråd, Anpassad gymnasieskola
-2. Protokoll från programråd Ledarskap och hälsa, Barn och Fritid
+1\. Anteckningar från verksamhetsråd, Anpassad gymnasieskola
+2\. Protokoll från programråd Ledarskap och hälsa, Barn och Fritid
 
 Beslutsgång
 
@@ -910,7 +910,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 23 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 159 Dnr GA-2024-00225
+\$ 159 Dnr GA-2024-00225
 Återrapportering av delegeringsbeslut (2025)
 
 Beslut
@@ -957,7 +957,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 24 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 160 Dnr GA-2024-00227
+\$ 160 Dnr GA-2024-00227
 Inkomna skrivelser till ledamöter och ersättare i nämnden (2025)
 
 Beslut
@@ -984,7 +984,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 25 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 161 Dnr GA-2024-00228
+\$ 161 Dnr GA-2024-00228
 Förvaltningschef informerar (2025)
 
 Beslut
@@ -998,26 +998,26 @@ Patrik Hellberg förvaltningschef föredrar ärendet.
 Årets höjdpunkter för 2025, med nyckelord utvecklande, utmanade, spännande och
 roligt!
 
-1. Stora framsteg i säkerhetsarbete. Förvaltningen har anställt en
+1\. Stora framsteg i säkerhetsarbete. Förvaltningen har anställt en
 säkerhetssamordnare och en säkerhetsgrupp är infört. Vi har köpt in mobila bredband
 ifall internet går ner och nödproviant.
 
-2. Attraktiv gymnasieskola med hög måluppfyllelse. Vi har fyllt nästan alla platser,
+2\. Attraktiv gymnasieskola med hög måluppfyllelse. Vi har fyllt nästan alla platser,
 men högt söktryck och haft många besökare på öppet hus. Det vittnar om att vi
 kommer ha bra söktryck kommande år.
 
-3. Hög grad av självförsörjning i Kungsbacka. Vi har låg arbetslöshet, vi har halverat
+3\. Hög grad av självförsörjning i Kungsbacka. Vi har låg arbetslöshet, vi har halverat
 familjerna i behov av TAK boende. Många lämnar etableringsboende efter två år till
 förstahandskontakt och självförsörjande.
 
 Spåningar för 2026
-1. Fokusera på styrkedjan. Det ska vara tydligt vem som gör vad.
-2. Få ekonomi i balans.
+1\. Fokusera på styrkedjan. Det ska vara tydligt vem som gör vad.
+2\. Få ekonomi i balans.
 
-3. Det kommer många reformer, föreskrifter och nya lagar som kommer att påverka
+3\. Det kommer många reformer, föreskrifter och nya lagar som kommer att påverka
 kommunen.
 
-4. Vi ska rekrytera en grym ersättare för Karin Zetterman!
+4\. Vi ska rekrytera en grym ersättare för Karin Zetterman!
 
 God Jul och Gott Nytt År!
 

@@ -391,24 +391,24 @@ Styrelsens arbete med innovation och omställning till nya arbetssätt
 
 Många insatser pågår, bland annat:
 
--  arbetar vi för att ta fram gemensamma arbetssätt för att prioritera rätt saker som ger effekt, bidrar till att
+\-  arbetar vi för att ta fram gemensamma arbetssätt för att prioritera rätt saker som ger effekt, bidrar till att
 lösa utmaningar och underlätta samarbete över förvaltningsgränser.
--  samordnar och coachar vi pilotprogrammen Framtidens hälsa, vård och omsorg, Framtidens datadrivna
+\-  samordnar och coachar vi pilotprogrammen Framtidens hälsa, vård och omsorg, Framtidens datadrivna
 kommun och Framtidens lärande för att öka nyttorna av utvecklingsarbetet.
 
--  arbetar vi för att förbättra organisationens AI-kapacitet genom att utveckla styrande dokument, höja
+\-  arbetar vi för att förbättra organisationens AI-kapacitet genom att utveckla styrande dokument, höja
 medarbetarnas kompetens och optimera användningen av befintliga AI-verktyg.
--  tar vi fram ramverk för kompetensväxling av befintliga medarbetare för att ställa om inför framtidens
+\-  tar vi fram ramverk för kompetensväxling av befintliga medarbetare för att ställa om inför framtidens
 utmaningar.
--  arbetar vi för att optimera de kompetenser som finns på förvaltningen för att bättre möta framtidens behov
+\-  arbetar vi för att optimera de kompetenser som finns på förvaltningen för att bättre möta framtidens behov
 och lösa uppgifter.
 
--  arbetar vi för att bli en mer datadriven kommun genom att utveckla analyticslösningar som underlättar för
+\-  arbetar vi för att bli en mer datadriven kommun genom att utveckla analyticslösningar som underlättar för
 invånare, företag och chefer att ta del av information inför besluts-fattande.
--  planerar vi för att digitalisera kommunens gällande detaljplaner innan 2028 för att öppna upp för
+\-  planerar vi för att digitalisera kommunens gällande detaljplaner innan 2028 för att öppna upp för
 innovativa produkter och tjänster och möjlighet till bättre analysverktyg och visualiseringar.
 
--  inför vi en klass 3-yta för säker digital information och genomför kompetenshöjande åtgärder för
+\-  inför vi en klass 3-yta för säker digital information och genomför kompetenshöjande åtgärder för
 medarbetare och chefer för att säkerställa att information hanteras på ett säkert och korrekt sätt.
 
 4
@@ -424,17 +424,17 @@ Styrelsens arbete med civil beredskap
 
 Mycket arbete är påbörjat, bland annat:
 
--  arbetar vi för att säkerställa att samhällsviktiga funktioner som el, vatten och nödproviant finns tillgängliga
+\-  arbetar vi för att säkerställa att samhällsviktiga funktioner som el, vatten och nödproviant finns tillgängliga
 även under extraordinära omständigheter, för att uppnå ökad robusthet och uthållighet.
--  utvecklar och förbättrar vi arbetet med säkerhetsskydd och informationssäkerhet, för att skydda
+\-  utvecklar och förbättrar vi arbetet med säkerhetsskydd och informationssäkerhet, för att skydda
 samhällskritiska verksamheter och data mot cyberattacker och andra hot.
 
--  kartlägger och etablerar vi relationer med frivilligorganisationer i närområdet, för att identifiera resurser
+\-  kartlägger och etablerar vi relationer med frivilligorganisationer i närområdet, för att identifiera resurser
 och kompetenser som kan bistå vid samhällspåfrestningar.
--  samverkar och samordnar vi med invånare, företag och andra aktörer för att förebygga och hantera
+\-  samverkar och samordnar vi med invånare, företag och andra aktörer för att förebygga och hantera
 extraordinära händelser.
 
--  pekar vi ut och påbörjar upprustning av trygghetspunkter, som ska ge stöd till människor vid kris-
+\-  pekar vi ut och påbörjar upprustning av trygghetspunkter, som ska ge stöd till människor vid kris-
 situationer och samhällsstörningar.
 Kommunstyrelsens förvaltning är i full gång med att undersöka vilka ekonomiska resurser som kommer att
 krävas för att skapa robusta lokaler och trygghetspunkter. Detta kommer sannolikt att innebära investeringar hos
@@ -827,7 +827,7 @@ Initiativärende    angående      – Ett  grönt  spadtag
 för gemenskap
 
 Förslag till beslut i Nämnden för Teknik:
-1. Förvaltningen får i uppdrag att äska 500tkr från kommunstyrelsens avsatta medel för
+1\. Förvaltningen får i uppdrag att äska 500tkr från kommunstyrelsens avsatta medel för
 främjande av välmående och motverkande av psykisk ohälsa.
 
 Äskade medel ska användas till att främja medskapande, samt att motverka ofrivillig
@@ -1245,24 +1245,24 @@ Beslut
 
 Nämnden beslutar att:
 
-- Anta initiativet
-- Ansöka om 1 000 000 kr i bidrag från kommunstyrelsens satsning för att främja
+\- Anta initiativet
+\- Ansöka om 1 000 000 kr i bidrag från kommunstyrelsens satsning för att främja
 välmående och motverka psykisk ohälsa
 
 Sammanfattning av ärendet
 Alliansen inkommer med initiativ för ett stärkt brottsförebyggande arbete, som med
 initiativet ska utvecklas och intensifieras genom att:
 
-* öka kommunikation till och med invånare om det brottsförebyggande arbetet och
+\* öka kommunikation till och med invånare om det brottsförebyggande arbetet och
 lägesbilden.
-* BRÅ, i samarbete med olika aktörer, ska arbeta genom skolor för att stärka
+\* BRÅ, i samarbete med olika aktörer, ska arbeta genom skolor för att stärka
 invånarnas och särskilt vuxnas förmåga att tidigt identifiera och agera på problem.
 
-* BRÅ ska öka sin närvaro och synlighet i samhället i stort, men särskilt i våra
+\* BRÅ ska öka sin närvaro och synlighet i samhället i stort, men särskilt i våra
 skolor, tillsammans med förvaltningarna för För- och grundskola, Gymnasium &
 Arbetsmarknad, Individ & Familjeomsorg samt Kultur & Fritid (Främjande Fyran)
 
-* BRÅ ska tillsammans med Individ och Familjeomsorg synka ihop det
+\* BRÅ ska tillsammans med Individ och Familjeomsorg synka ihop det
 brottsförebyggande arbetet med kraven i den nya socialtjänstlagen
 
 Beslutsunderlag
@@ -2513,7 +2513,7 @@ Diagrammet visar flera staplar och linjer. Den horisontella axeln visar de olika
 märkta A till J. Den vertikala axeln visar värden från 20 000 till 80 000 kronor.
 Stapel i grönt visar 10 percentillönen och den orangea visar den 90 percentillönen i Kungsbacka
 kommun: Linjerna visar den beslutade lönestrukturen 2024 och den föreslagna lönestrukturen för
-2025.
+2025\.
 
 <!-- sida 64 -->
 
@@ -2660,7 +2660,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    3
 Nedan uppgifter avser en jämförelse av medianlönen mellan samtliga kommuner i Sverige och
 Kungsbacka kommun.
 
-*Riket =Alla kommuner i Sverige
+\*Riket =Alla kommuner i Sverige
 
 Löneläget inom respektive förvaltning skiljer sig åt. Kommunstyrelsens förvaltning följt av
 förvaltningarna för Gymnasium & Arbetsmarknad samt Bygg & Miljö placerar sig i toppen och
@@ -2686,7 +2686,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    4
 
 | 2021 2022 2023 2024 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Kungsbacka | Riket* | Kungsbacka | Riket* | Kungsbacka | Riket* | Kungsbacka |
+| Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka |
 | 32 132 | 30 350 | 32 770 | 31 000 | 34 100 | 32 215 | 35 600 |
 | 33 000 | 31 000 | 33 550 | 31 500 | 35 000 | 32 600 | 36 400 |
 | 868 | 650 | 780 | 500 | 900 | 385 | 800 |
@@ -3422,42 +3422,42 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   18
 
 11 Åtgärder
 
-1. Genomföra regelbundna löneanalyser med fokus på att identifiera och åtgärda osakliga
+1\. Genomföra regelbundna löneanalyser med fokus på att identifiera och åtgärda osakliga
 löneskillnader.
 Tidpunkt: Inför löneöversyn
 
-2. Planera och genomföra satsningar utifrån den årliga analysen av löner baserat på
+2\. Planera och genomföra satsningar utifrån den årliga analysen av löner baserat på
 lönestatistik för lika, likvärdiga och hierarkiska arbeten.
 Tidpunkt: I samband med löneöversyn
 
-3. Följa upp tidigare års satsningar för att säkerställa kontinuitet och framsteg.
+3\. Följa upp tidigare års satsningar för att säkerställa kontinuitet och framsteg.
 Tidpunkt: Årligen
 
-4. Säkerställa att lika och likvärdiga befattningar i olika verksamheter/förvaltningar har samma
+4\. Säkerställa att lika och likvärdiga befattningar i olika verksamheter/förvaltningar har samma
 utgångspunkt vid lönesättning.
 Tidpunkt: Kontinuerligt, vid nyrekrytering och löneöversyn
 
-5. Undersöka lönespridningen inom olika befattningar för att identifiera och åtgärda eventuella
+5\. Undersöka lönespridningen inom olika befattningar för att identifiera och åtgärda eventuella
 ojämlikheter.
 Tidpunkt: Till nästa löneöversyn
 
-6. Föra dialog med fackliga organisationer för att uppnå jämställda löner.
+6\. Föra dialog med fackliga organisationer för att uppnå jämställda löner.
 Tidpunkt: I samband med löneöversynen
 
-7. Fortsätta arbeta utifrån den övergripande lönestrukturen för att säkerställa rättvisa löner.
+7\. Fortsätta arbeta utifrån den övergripande lönestrukturen för att säkerställa rättvisa löner.
 Tidpunkt: Kontinuerligt, vid nyrekrytering och löneöversyn
 
-8. Utbilda chefer i att sätta löner fria från diskriminering.
+8\. Utbilda chefer i att sätta löner fria från diskriminering.
 Tidpunkt: Årligen
 
-9. Utbilda HR-personal i att BAS-värdera befattningar korrekt.
+9\. Utbilda HR-personal i att BAS-värdera befattningar korrekt.
 Tidpunkt: Årligen
 
-10. Underhålla arbetsvärdering i BAS och AID-koder för att säkerställa att de är aktuella och
+10\. Underhålla arbetsvärdering i BAS och AID-koder för att säkerställa att de är aktuella och
 rättvisa.
 Tidpunkt: Kontinuerligt
 
-11. Genomföra medarbetarsamtal med alla medarbetare för att tydliggöra sambandet mellan
+11\. Genomföra medarbetarsamtal med alla medarbetare för att tydliggöra sambandet mellan
 måluppfyllelse, resultat och lön.
 Tidpunkt: Årligen
 
@@ -3549,7 +3549,7 @@ Sammanfattning av ärendet
 I lokalplanen för kommunbudget 2025–2029 som är en del av kommunbudget för 2025 finns medel
 avsatta för projektet Kvarteret Liljan skola med löpnummer 338.
 Kommunstyrelsen godkände den 23 januari 2024 uppstart av projektet med ett beräknat färdigställande
-2027. I beslutet ingick också uppstart av Kvarteret Liljans idrottshall med löpnummer 339.
+2027\. I beslutet ingick också uppstart av Kvarteret Liljans idrottshall med löpnummer 339.
 
 Efter uppföljning av befolkningsutvecklingen under 2024 är bedömningen att antalet barn inte kommer
 att öka i den takt som det tidigare prognosticerats. Av denna anledning har nämnden för Förskola &
@@ -3637,10 +3637,10 @@ Beslut
 Nämnden för Förskola & Grundskola föreslår Kommunstyrelsen att i
 aktualitetsprövning av Liljan skolan besluta att:
 
-1. Minska antalet utbildningsplatser på skolan från 525 till 350 elever.
-2. I fortsatt projektering av skolan möjliggöra att vid senare tillfälle och vid
+1\. Minska antalet utbildningsplatser på skolan från 525 till 350 elever.
+2\. I fortsatt projektering av skolan möjliggöra att vid senare tillfälle och vid
 behov kunna bygga ut skolan till 525 elever.
-3. Att i övrigt fortsätta enligt beslut i Lokalplan 2025-2029.
+3\. Att i övrigt fortsätta enligt beslut i Lokalplan 2025-2029.
 
 Sammanfattning av ärendet
 
@@ -4175,12 +4175,12 @@ Kommunen och Bolaget kallas gemensamt nedan Parterna.
 
 A. —- BAKGRUND OCH FÖRUTSÄTTNINGAR
 
-1. Uppdrag, politiska beslut m.m.
+1\. Uppdrag, politiska beslut m.m.
 
 1.1 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ny ”Detaljplan för
 handel-, kontor och verksamhetsändamål inom Varla 2:412 i Kungsbacka”,
-nedan kallad Detaljplanen, genom beslut i Byggnadsnämnden, 2023-08-10, $
-211.
+nedan kallad Detaljplanen, genom beslut i Byggnadsnämnden, 2023-08-10, \$
+211\.
 
 1.2 — Bolaget har inkommit till samhällsbyggnadskontoret med en begäran om
 planbesked (2022-03-18) för att genom ny detaljplan möjliggöra för utökad
@@ -4193,8 +4193,8 @@ Avtalet, mellan Parterna. Avtalet reglerar samarbetet mellan Parterna under
 planarbetet fram till dess att ett exploateringsavtal avseende Detaljplanen kan
 tecknas.
 
-1.4 — Syftet med Detaljplanen (framgår i godkänd projektbeställning 2023-02-21, $
-35) är att skapa förutsättningar för att genomföra Projektet, genom att pröva
+1.4 — Syftet med Detaljplanen (framgår i godkänd projektbeställning 2023-02-21, \$
+35\) är att skapa förutsättningar för att genomföra Projektet, genom att pröva
 möjligheten för utökad byggrätt för handel-, kontor-, och verksamhetsändamål
 samt parkeringshus inom fastigheten Varla 2:412 med en total exploateringsgrad
 på 6094 byggnadsarea. Då trafiksituationen är ansträngd inom Hede
@@ -4276,7 +4276,7 @@ Inom Projektområdet finns följande gällande stadsplaner och detaljplaner:
 Tp45F, TP63, Tp45B. Parallellt med framtagandet av Detaljplanen inom
 Planområdet ska även en ändring avseende utnyttjandegraden (byggnadsarea i
 relation till fastighetsarea) genomföras i gällande detaljplanerna Tp45C och TP
-63.
+63\.
 
 <!-- sida 102 -->
 
@@ -4367,7 +4367,7 @@ exploateringsavtal på gemensamma möten under planarbetet.
 
 9.1
 
-10.
+10\.
 
 10.1
 
@@ -4430,17 +4430,17 @@ säkerheten i anspråk utan Bolagets medgivande.
 
 <!-- sida 104 -->
 
-11.
+11\.
 
 11.1
 
-12.
+12\.
 
 12.1
 
 12.2
 
-13.
+13\.
 
 13.1
 
@@ -4498,7 +4498,7 @@ av allmän plats, vilket bekostas av exploatören.
 
 <!-- sida 105 -->
 
-14.
+14\.
 
 14.1
 
@@ -4506,17 +4506,17 @@ IS.
 
 15.1
 
-16.
+16\.
 
 16.1
 
 16.2
 
-17.
+17\.
 
 17.1
 
-18.
+18\.
 
 18.1
 
@@ -4627,7 +4627,7 @@ beskriver innehållet i detaljplanen. Denna kan komma att uppdateras under proje
 detaljplan möjliggöra utökad byggrätt för handel-, kontor- och verksamhetsändamål samt
 parkeringshus inom Varla 2:412 i Kungsbacka stad. Den tänkta utbyggnaden kommer att ske på
 parkeringsytan som idag ligger framför Hede fashion outlet. Kommunstyrelsen beslutade att 21 juni
-2022 $161 att kommunen avser att pröva den begärda åtgärden.
+2022 \$161 att kommunen avser att pröva den begärda åtgärden.
 
 Planområdet ligger i Hede handelsområde i norra delen av Kungsbacka stad och utgörs av Hede
 fashion outlet med tillhörande parkering. Ytan för planområdet uppgår till cirka 6,5 hektar och ägs
@@ -4638,7 +4638,7 @@ fastigheten Varla 2:412.
 Beslutsunderlag
 Samhällsbyggnadskontorets tjänsteskrivelse, 2023-07-26
 
-Protokollsutdrag, 2023-02-21 KS $35
+Protokollsutdrag, 2023-02-21 KS \$35
 Projektbeställning, 2022-11-07
 
 Beslutsgång
@@ -4825,7 +4825,7 @@ med hyresrätt samt att anlägga cirka 20 seniorbostäder i bostadsrättsform. U
 Bostad AB inom planområdet tillhandahålla fem lägenheter till kommunen för förmedling till
 kommunens olika bostadsbehov.
 Utbyggnaden av bostäder, gator, cykelvägar och parker i Vallbyn i Fjärås, Må 3:13 har pågått sedan
-2020. Derome Bostad AB har nu för avsikt att påbörja den sista etappen med bostäder, etapp 6. Den
+2020\. Derome Bostad AB har nu för avsikt att påbörja den sista etappen med bostäder, etapp 6. Den
 omfattar bland annat ett flerbostadshus som är tänkt att upplåtas med hyresrätt. I rådande
 
 marknadsläge gör dock Derome bedömningen att lägenheterna måste upplåtas med bostadsrätt om
@@ -4868,7 +4868,7 @@ b) Derome Bostad AB (556250-9223), f.d. Derome Hus AB nedan kallad Exploatören
 Kommunen och Exploatören kallas gemensamt Parterna
 
 ÅA. BAKGRUND OCH NULÄGE
-1. Detaljplan och avtal
+1\. Detaljplan och avtal
 
 Kommunfullmäktige antog 2019 en detaljplan för bostäder och förskola inom Må 3:13
 i Fjärås. I samband med detta godkändes även exploateringsavtal mellan kommunen
@@ -4936,11 +4936,11 @@ b) Derome Hus AB (556250-9223), nedan kallad Exploatören
 Kommunen och Exploatören kallas gemensamt Parterna
 
 A. BAKGRUND OCH FÖRUTSÄTTNINGAR
-1. Uppdrag, politiska beslut m.m.
+1\. Uppdrag, politiska beslut m.m.
 
 Byggnadsnämnden uppdrog 2016-01-14 åt samhällsbyggnadskontoret att upprätta
 detaljplan för bostäder och förskola inom Må 3:13 m fl i enlighet med tidigare godkänt
-program, Detaljplanen. Ett Principavtal (KS/2000:298, $236), Principavtalet, har
+program, Detaljplanen. Ett Principavtal (KS/2000:298, \$236), Principavtalet, har
 tecknats mellan Kommunen och Exploatören. Principavtalet föreskriver att ett
 Exploateringsavtal, Avtalet, ska upprättas innan Detaljplanen kan antas av
 Kommunfullmäktige.
@@ -4949,7 +4949,7 @@ Kommunfullmäktige.
 mellan 2017-12-13 och 2018-01-31. Granskning genomfördes mellan 2018-12-20 och
 2019-02-05.
 
-2. Exploateringsområde
+2\. Exploateringsområde
 
 2.1 — Det område som är föremål för genomförandet av Detaljplanen är ungefärligt markerat
 med blå linje på karta, bilaga A, Exploateringsområdet.
@@ -5104,7 +5104,7 @@ erforderliga avtal kring teknik och installation av aktuell anläggning.
 
 8.2
 
-10.
+10\.
 
 10.1
 
@@ -5171,15 +5171,15 @@ förbindelsepunkt.
 
 10.5
 
-11.
+11\.
 
 11.2
 
-12.
+12\.
 
 12.1
 
-13.
+13\.
 
 13.1
 
@@ -5313,7 +5313,7 @@ krav mot Exploatören. För det fall ersättnings- eller skadeståndsanspråk ri
 
 <!-- sida 123 -->
 
-14.
+14\.
 
 14.1
 
@@ -5327,7 +5327,7 @@ krav mot Exploatören. För det fall ersättnings- eller skadeståndsanspråk ri
 
 14.6
 
-15.
+15\.
 
 15.1
 
@@ -5391,7 +5391,7 @@ Gatuanläggningar
 
 15.3
 
-16.
+16\.
 
 16.1
 
@@ -5515,7 +5515,7 @@ och opto i Kungsbacka kommun.
 
 <!-- sida 126 -->
 
-17.
+17\.
 
 17.1
 
@@ -5523,19 +5523,19 @@ och opto i Kungsbacka kommun.
 
 17.3
 
-18.
+18\.
 
 18.1
 
-19.
+19\.
 
 19.1
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
@@ -5598,11 +5598,11 @@ inom blivande parkmark, parallellt med Vallbyvägen. Nytt läge eller ny
 
 21.2
 
-22.
+22\.
 
 22.1
 
-23.
+23\.
 
 23.1
 
@@ -5610,7 +5610,7 @@ inom blivande parkmark, parallellt med Vallbyvägen. Nytt läge eller ny
 
 23.3
 
-24.
+24\.
 
 24.1
 
@@ -5674,7 +5674,7 @@ medföra läggs till kostnaden för allmän plats, enligt punkt 17.
 
 24.3
 
-25.
+25\.
 
 25.1
 
@@ -5682,11 +5682,11 @@ medföra läggs till kostnaden för allmän plats, enligt punkt 17.
 
 25.3
 
-20.
+20\.
 
 26.1
 
-27.
+27\.
 
 27.1
 
@@ -5750,19 +5750,19 @@ som Exploatören åtagit sig enligt punkt 17 och 22 i Avtalet, för det fall Exp
 
 21:3
 
-28.
+28\.
 28.1
-29.
+29\.
 
 29.1
 
-30.
+30\.
 
 30.1
 
 30.2
 
-31.
+31\.
 
 31.1
 
@@ -5830,7 +5830,7 @@ utbyggd när Måvägens nuvarande utfart till Gåsevadholmsvägen stängs av.
 Planområdet ska flyttas, se punkt 21.2. Området i direkt anslutning till ledningarna (u-
 området) samt norr om ledningarna bör inte bebyggas förrän ledningarna flyttats.
 
-32. — Avtalets giltighet
+32\. — Avtalets giltighet
 32.1 — Förutsättingar för Avtalets giltighet är att villkoren nedan är uppfyllda
 
 e Kommunfullmäktige i Kungsbacka kommun godkänner Avtalet genom beslut som
@@ -5839,7 +5839,7 @@ vinner laga kraft.
 eo Kommunfullmäktige i Kungsbacka kommun antar Detaljplanen genom beslut som
 vinner laga kraft.
 
-33. Tvist
+33\. Tvist
 
 33.1 Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
 detta avtal ska avgöras av allmän domstol.
@@ -6115,7 +6115,7 @@ Begära     planbesked
 
 Ärendenummer: #143876 | Inskickat av: Ingvar | 2024-09-20 11:21
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -6130,7 +6130,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -6162,7 +6162,7 @@ Om fastigheten ägs av flera fastighetsägare fyller du i en per rad.
 
 Förnamn    Efternamn    Telefon       E-postadress
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -6637,7 +6637,7 @@ Begära     planbesked
 
 Ärendenummer: #163409 | Inskickat av:      | 2024-10-02 21:45
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -6652,7 +6652,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -6676,7 +6676,7 @@ Ja
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -6705,7 +6705,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -6992,43 +6992,43 @@ avfall ska nås.
 KUNGSBACKA  KOMMUN
 3 (5)
 
-1. Kommunalt ansvar: Kommunerna har ett centralt ansvar för att hantera kommunalt avfall och
+1\. Kommunalt ansvar: Kommunerna har ett centralt ansvar för att hantera kommunalt avfall och
 bidra till målen för återanvändning och materialåtervinning. Detta kan innebära ökade
 
 administrativa kostnader.
-2. Nationell avfallsplan: Förslaget att ta bort kravet på kommunala avfallsplaner minskar de
+2\. Nationell avfallsplan: Förslaget att ta bort kravet på kommunala avfallsplaner minskar de
 administrativa kostnaderna för kommunerna, även om de fortfarande kan välja att ha en egen
 plan.
 
-3. Flytt av ansvar: Förslagen om att flytta ansvaret för vissa typer av avfall (t.ex. från
+3\. Flytt av ansvar: Förslagen om att flytta ansvaret för vissa typer av avfall (t.ex. från
 detaljhandeln med livsmedel) innebär minskat ansvar och kostnader för kommunerna, men
 också minskade intäkter.
 
-4. Insamlingssystem: Förslagen om insamlingssystem för återanvändning och separat insamling
+4\. Insamlingssystem: Förslagen om insamlingssystem för återanvändning och separat insamling
 av olika avfallsfraktioner kan innebära ökade kostnader för kommunerna, beroende på deras
 nuvarande system och servicenivå.
-5. Harmonisering av lagstiftning: Förslagen om att harmonisera lagstiftningen kring
+5\. Harmonisering av lagstiftning: Förslagen om att harmonisera lagstiftningen kring
 fastighetsnära insamling och införa generella undantag istället för dispensförfaranden innebär
 administrativa lättnader och potentiella besparingar för kommunerna.
 
-6. Fastighetsnära insamling: Kraven förtydligas så att all insamling ska ske från en och samma
+6\. Fastighetsnära insamling: Kraven förtydligas så att all insamling ska ske från en och samma
 plats, vilket förenklar för kommunerna. Kommunerna får också befogenhet att samarbeta med
 fastighetsägare om insamlingsplatser.
 
-7. Ytterligare sortering: Förslagen kräver mer sortering för att öka materialåtervinningen, vilket
+7\. Ytterligare sortering: Förslagen kräver mer sortering för att öka materialåtervinningen, vilket
 kan innebära att avtal med avfallsbehandlare behöver justeras.
 
-8. Undantag och dispensrätt: Färre dispensansökningar förväntas, vilket minskar behovet av
+8\. Undantag och dispensrätt: Färre dispensansökningar förväntas, vilket minskar behovet av
 resurser.
 
-9. Tillsynsansvar: Kommunens tillsynsansvar minskar för vissa områden men utökas för andra,
+9\. Tillsynsansvar: Kommunens tillsynsansvar minskar för vissa områden men utökas för andra,
 
 vilket kan kräva ytterligare insatser.
 
-10. Ekonomisk särredovisning: Kommunerna ska särredovisa avfallsverksamheten, vilket kan
+10\. Ekonomisk särredovisning: Kommunerna ska särredovisa avfallsverksamheten, vilket kan
 innebära initiala kostnader men också framtida besparingar.
 
-11. Övriga förslag: Länsstyrelsen ska ansvara för tillsyn över kommunernas avfallshantering,
+11\. Övriga förslag: Länsstyrelsen ska ansvara för tillsyn över kommunernas avfallshantering,
 vilket innebär en kostnad för kommunen. Förslagen påverkar också kommunernas ekonomi och
 självstyre, men bedöms vara nödvändiga för att uppnå målen.
 
@@ -7991,7 +7991,7 @@ Riksbyggen ekonomisk förening
 
 Beskrivning av ärendet
 Detaljplanen för stadsutveckling inom kvarteret Gjutaren och Liljan fick laga kraft den 26 september
-2023. Detaljplanen syftar till att skapa förutsättningar för uppförande av cirka 350 nya bostäder,
+2023\. Detaljplanen syftar till att skapa förutsättningar för uppförande av cirka 350 nya bostäder,
 utbildningslokaler, gator, gång- och cykelvägar och park. Kommunen äger samtliga fastigheter inom
 planområdet, förutom Gjutaren 2 som ägs av Kungsbacka Gjutaren 2 AB, c/o Riksbyggen ekonomisk
 förening. Kommunen är huvudman för allmän platsmark inom planområdet.
@@ -8032,7 +8032,7 @@ nedan kallad Bolaget.
 
 Kommunen och Bolaget kallas gemensamt för Parterna
 
-1. Bakgrund och syfte
+1\. Bakgrund och syfte
 
 Parterna har den 1 juni 2021 tecknat Principavtal, nedan kallat Principavtalet.
 Ett tilläggsavtal till Principavtalet tecknades den 7 mars 2023. Principavtalet
@@ -8070,13 +8070,13 @@ och villkor för kommande marköverlåtelse.
 
 <!-- sida 193 -->
 
-28)
+28\)
 
 Markanvisningen innebär att Bolaget har ensamrätt att förhandla med
 Kommunen om förvärv av markområdet och övriga villkor avseende
 exploatering av markområdet under en tid som framgår av punkt 3.
 
-2. Detaljplan och övriga utredningar
+2\. Detaljplan och övriga utredningar
 
 För markområdet gäller detaljplan för stadsutveckling inom kvarteret Gjutaren
 och Liljan, KP135, nedan kallad Detaljplanen. Detaljplanen vann laga kraft den
@@ -8112,7 +8112,7 @@ exploatering ska utredas vidare av parterna och överenskommelse ska nås
 genom tecknande av tilläggsavtal till Genomförandeavtalet innan ansökan om
 bygglov för flerbostadshus inlämnas.
 
-3. Villkor för marköverlåtelse
+3\. Villkor för marköverlåtelse
 
 Bolaget har från och med att Avtalet är undertecknat av Parterna fram till 30
 november 2025 eller det senare datum som erforderlig lantmäteriförrättning
@@ -8200,7 +8200,7 @@ markområdet ska det ansökas och bekostas av Bolaget. I det fall Bolaget välje
 att yrka på annan fastighetsbildningsåtgärd ska kommunen vara behjälplig med
 erforderlig hantering.
 
-4. Markområdets avgränsning och skick
+4\. Markområdets avgränsning och skick
 
 Markområdet avser del av Gjutaren 1 och del av Kungsbacka 2:2, markerat med
 blå linje på Bilaga 1.
@@ -8243,7 +8243,7 @@ utrymmesbehov för allmänna vatten-, dagvatten och spillvattenledningar, som
 förläggs inom u-området. Kommunen garanterar att Markområdet inte belastas
 av andra ledningar än de som kommer att förläggas inom u-området.
 
-5. Markföroreningar
+5\. Markföroreningar
 
 I detaljplanearbetet har markmiljötekniska undersökningar genomförts som har
 visat på att det finns föroreningar inom Markområdet. Kommunen står för
@@ -8251,7 +8251,7 @@ kostnader för markundersökningar avseende markföroreningar och erforderlig
 avhjälpandeåtgärd till den för bostadsändamål nödvändiga riktvärden uppfylls.
 
 Kommunen har skickat in en anmälan om efterbehandling av förorenad mark
-enligt 28 $ förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd till
+enligt 28 \$ förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd till
 tillsynsmyndigheten och fått ett beslut om försiktighetsåtgärder i samband med
 efterbehandling av förorenat område, se bilaga 5. Kommunen kommer att
 genomföra avhjälpandeåtgärder i enlighet med anmälan och beslut som finns
@@ -8273,7 +8273,7 @@ påbörjas. Vidare ska Köparen skriftligen ställa ersättningsanspråk till
 Kommunen senast 3 månader, efter det att åtgärderna slutförts, annars är
 möjligheten till ersättning förverkad.
 
-6. Kommunens byggnation av allmän plats
+6\. Kommunens byggnation av allmän plats
 
 Parternas ansvar för planering och genomförande av utbyggnad av allmän plats
 regleras i Genomförandeavtalet.
@@ -8284,19 +8284,19 @@ Bolagets ansvar för planering och utförande av byggnader och anläggningar ino
 kvartersmark för bostadsändamål, parkering- och centrumändamål vilket regleras
 i Genomförandeavtalet.
 
-8. Övriga avgifter
+8\. Övriga avgifter
 
 <!-- sida 197 -->
 
 9;
 
-10.
+10\.
 
-11.
+11\.
 
-12.
+12\.
 
-13.
+13\.
 
 6(8)
 
@@ -8401,13 +8401,13 @@ Bilaga 2
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (48)
 Byggnadsnämnden Datum
 2024-10-17
-$ 224 Dnr BN-2020-00024
+\$ 224 Dnr BN-2020-00024
 
 Rättelse av detaljplan för kvarteret Gjutaren och Liljan i Kungsbacka
 
 Beslut
 
-Byggnadsnämndens beslut den 24 augusti 2023, $ 159, att godkänna detaljplan för
+Byggnadsnämndens beslut den 24 augusti 2023, \$ 159, att godkänna detaljplan för
 kvarteret Gjutaren och Liljan, BN 2020-00024, rättas genom att planbestämmelse el
 i plankartan justeras så att högsta tillåtna byggnadsarea är exklusive
 parkeringsgarage.
@@ -8439,7 +8439,7 @@ rättelse berör inte planbeskrivningen eller illustrationskartan.
 
 Beslutsunderlag
 
-Byggnadsnämndens arbetsutskott 2024-09-12 $ 261
+Byggnadsnämndens arbetsutskott 2024-09-12 \$ 261
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-09-03
 
@@ -8447,7 +8447,7 @@ Plankarta med rättelse, 2024-08-30
 
 Lagakraftbevis, 2023-10-04
 
-Byggnadsnämnden, 2023-08-24 $ 159 (sammanträdesprotokoll)
+Byggnadsnämnden, 2023-08-24 \$ 159 (sammanträdesprotokoll)
 
 Planhandlingar med plankarta, illustration, planbeskrivning upprättad 2023-07-28
 
@@ -8487,13 +8487,13 @@ Bilaga 2
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (48)
 Byggnadsnämnden Datum
 2024-10-17
-$ 224 Dnr BN-2020-00024
+\$ 224 Dnr BN-2020-00024
 
 Rättelse av detaljplan för kvarteret Gjutaren och Liljan i Kungsbacka
 
 Beslut
 
-Byggnadsnämndens beslut den 24 augusti 2023, $ 159, att godkänna detaljplan för
+Byggnadsnämndens beslut den 24 augusti 2023, \$ 159, att godkänna detaljplan för
 kvarteret Gjutaren och Liljan, BN 2020-00024, rättas genom att planbestämmelse el
 i plankartan justeras så att högsta tillåtna byggnadsarea är exklusive
 parkeringsgarage.
@@ -8519,13 +8519,13 @@ genomföra i praktiken.
 
 Följden av det uppenbara skrivfelet är att en planbestämmelse är felaktig och därmed
 inte uppfyller sitt syfte. Samhällsbyggnadskontoret föreslår därför att
-byggnadsnämnden fattar beslut om rättelse i enlighet med 36 $ förvaltningslagen.
+byggnadsnämnden fattar beslut om rättelse i enlighet med 36 \$ förvaltningslagen.
 Rättelsen innebär att endast en mening i planbestämmelse el justeras. Föreslagen
 rättelse berör inte planbeskrivningen eller illustrationskartan.
 
 Beslutsunderlag
 
-Byggnadsnämndens arbetsutskott 2024-09-12 $ 261
+Byggnadsnämndens arbetsutskott 2024-09-12 \$ 261
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-09-03
 
@@ -8533,7 +8533,7 @@ Plankarta med rättelse, 2024-08-30
 
 Lagakraftbevis, 2023-10-04
 
-Byggnadsnämnden, 2023-08-24 $ 159 (sammanträdesprotokoll)
+Byggnadsnämnden, 2023-08-24 \$ 159 (sammanträdesprotokoll)
 
 Planhandlingar med plankarta, illustration, planbeskrivning upprättad 2023-07-28
 
@@ -8780,17 +8780,17 @@ Bilaga 4
 
 9.2
 
-10.
+10\.
 
 10.1
 
-11.
+11\.
 
 112
 
 L1:3
 
-12.
+12\.
 
 12.1
 
@@ -8865,11 +8865,11 @@ Bilaga 4
 
 12.4
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 14.1
 
@@ -8908,7 +8908,7 @@ Köparen har vidare tagit del av den dokumentation, beslut och protokoll som tag
 för avhjälpandeåtgärderna. Dokumentationen omfattar miljökontrollrapporter som
 påvisar vilka avhjälpandeåtgärder som genomförts och att avhjälpandeåtgärderna
 genomförts i enlighet med anmälan som inlämnats till tillsynsmyndigheten i enlighet
-med 28 $ förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd och
+med 28 \$ förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd och
 samtliga beslut från tillsynsmyndigheten.
 
 Genomförda avhjälpandeåtgärder är genomförda i samråd med Köparen och planerade
@@ -8945,35 +8945,35 @@ Bilaga 4
 
 14.5
 
-15.
+15\.
 
 15.1
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 17.1
 
-18.
+18\.
 
 18.1
 
-19.
+19\.
 
 19.1
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
-22.
+22\.
 
 22.1
 
@@ -9044,11 +9044,11 @@ Sign
 
 Bilaga 4
 
-23.
+23\.
 
 23.1
 
-24.
+24\.
 
 24.1
 
@@ -9383,15 +9383,15 @@ borttransport eller för att transporter ska kunna samordnas mer effektivt.
 Omgivningspåverkan
 Schakt-sanering medför omgivningspåverkan i form av:
 Lokalt på platsen:
-- Buller
-- - Damning
+\- Buller
+\- - Damning
 Regionalt/nationellt:
-- - Uppfyllnad av deponier
--  Resursanvändning vid ev. återfyllnad på platsen efter genomförd schaktning
-- Transporter till och från platsen
+\- - Uppfyllnad av deponier
+\-  Resursanvändning vid ev. återfyllnad på platsen efter genomförd schaktning
+\- Transporter till och från platsen
 o Miljöpåverkande utsläpp från dessa
 Globalt:
-- — Klimat- och övrigt miljöpåverkande utsläpp kopplade till arbetsmaskiner och transporter
+\- — Klimat- och övrigt miljöpåverkande utsläpp kopplade till arbetsmaskiner och transporter
 
 För att minimera klimatpåverkan samt mass-hanterings-problematiken med uppfyllnad av deponier
 och resursuttag av jungfruliga massor, bör schakt-sanering alltid utvärderas utifrån risk och nytta.
@@ -9414,8 +9414,8 @@ Första Långgatan 16 A 031 333 66 60
 <!-- sida 219 -->
 
 Göteborg, 2023-06-27 Rev 2023-09-06
-- arbete inte bör utföras nere i schakt utan att andningsmask med lämpligt filter används.
-- intag av mat och dryck samt snusning bör undvikas, för att minimera risk för oral exponering.
+\- arbete inte bör utföras nere i schakt utan att andningsmask med lämpligt filter används.
+\- intag av mat och dryck samt snusning bör undvikas, för att minimera risk för oral exponering.
 
 Arbete utförs endast måndag-fredag kl. 07.00-18.00, för att buller från arbetsplatsen inte ska påverka
 nattsömn för närboende.
@@ -9619,16 +9619,16 @@ Detta beslut kan överklagas, se sista sidan,
 
 Lagstöd
 Beslutet är fattat med stöd i följande lagstiftning: Miljöbalken (1998:808): 26 kap. 9
-och 21 $$, 10 kap.2, 3 och 4 $$ och 2 kap. 3 och 7 $$ och 27 kap. 1 $,
+och 21 \$\$, 10 kap.2, 3 och 4 \$\$ och 2 kap. 3 och 7 \$\$ och 27 kap. 1 \$,
 
-Förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd 27 $, samt 9 kap.
-5 $ Förordning (1998:940) om avgifter för prövning och tillsyn enligt miljöbalken,
+Förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd 27 \$, samt 9 kap.
+5 \$ Förordning (1998:940) om avgifter för prövning och tillsyn enligt miljöbalken,
 
 Bakgrund
 
 Kungsbacka kommun, förvaltningen för Service lämnade, via konsulter, den 4:e juli
 2023 in en anmälan om efterbehandlingsåtgärder av förorenat område i enlighet med
-28 $ förordningen om miljöfarlig verksamhet och hälsoskydd.
+28 \$ förordningen om miljöfarlig verksamhet och hälsoskydd.
 
 I anmälan anger ni att saneringsmålet är att området ska vara lämpligt för framtida
 bostadsbyggnation, Därför är åtgärdsmålet att halter som motsvarar
@@ -9668,18 +9668,18 @@ PCB-föroreningar behöver fortsätta utredas, vilket Länsstyrelsen delar uppfa
 om, och som även beskrivs i anmälan, Beslutspunkt 3 och 4 är därmed rimliga.
 
 Det är viktigt att förhindra spridning av föroreningar till omgivande mark och vatten,
-Därför beslutar vi med stöd i försiktighetsprincipen i 2 kap. 3 $ miljöbalken att
+Därför beslutar vi med stöd i försiktighetsprincipen i 2 kap. 3 \$ miljöbalken att
 massor som grävts upp ska skyddas från mark och nederbörd om de behöver
 mellanlagras innan borttransport, Likaså att cisterner behöver kontrolleras innan
 uppgrävning och att länsvatten och lakvatten ska hanteras som beskrivet.
 
-Vi beslutar också med stöd i 26 kap. 21 $ miljöbalken att ni efter avslutad
+Vi beslutar också med stöd i 26 kap. 21 \$ miljöbalken att ni efter avslutad
 efterbehandling ska skicka in redovisning till oss i form av en slutrapport. Rapporten
 ska innehålla uppgifter om hur mycket massor som transporterats bort samt
 mottagningsbevis eller kvitton från mottagaren av massorna, Dessa uppgifter
 behöver vi som en del av vår tillsyn av era åtgärder.
 
-Miljö & Hälsoskydd har gjort en skälighetsavvägning enligt 2 kap. 7 $ miljöbalken
+Miljö & Hälsoskydd har gjort en skälighetsavvägning enligt 2 kap. 7 \$ miljöbalken
 och bedömer att det är rimligt att ni följer försiktighetsåtgärderna i detta beslut, i
 förhållande till miljönyttan,
 
@@ -9688,7 +9688,7 @@ Beslutade avgifter
 Kommunfullmäktige har fastställt en taxa för prövning och tillsyn inom miljöbalkens
 och strålskyddslagens område, lagen om sprängämnesprekursorer samt lagen om
 gaturenhållning och skyltning, Taxan antogs enligt beslut i kommunfullmäktige
-2022-10-18 $ 158.
+2022-10-18 \$ 158.
 
 Aktuell timtaxa för 2023: 1250 kr.
 
@@ -9700,12 +9700,12 @@ Lagstiftning
 Nämnden för Miljö & Hälsoskydd fattar detta beslut med stöd av nedanstående
 bestämmelser:
 
-26 kap 9 $ miljöbalken, En tillsynsmyndighet får i det enskilda fallet besluta om de
+26 kap 9 \$ miljöbalken, En tillsynsmyndighet får i det enskilda fallet besluta om de
 förelägganden och förbud som behövs för att denna balk samt föreskrifter, domar och
 andra beslut som har meddelats med stöd av balken ska följas. Mer ingripande
 åtgärder än vad som behövs i det enskilda fallet får inte tillgripas.
 
-26 kap 21 $ miljöbalken. Tillsynsmyndigheten får förelägga den som bedriver
+26 kap 21 \$ miljöbalken. Tillsynsmyndigheten får förelägga den som bedriver
 verksamhet eller vidtar en åtgärd som det finns bestämmelser om i denna balk eller i
 föreskrifter som meddelats med stöd av balken, att till myndigheten lämna de
 
@@ -9716,7 +9716,7 @@ KUNGSBACKA KOMMUN
 uppgifter och handlingar som behövs för tillsynen, Detsamma gäller också för den 4 (8)
 som annars är skyldig att avhjälpa olägenheter från sådan verksamhet,
 
-10 kap. 2 $ miljöbalken. Den som bedriver eller har bedrivit en verksamhet eller
+10 kap. 2 \$ miljöbalken. Den som bedriver eller har bedrivit en verksamhet eller
 vidtagit en åtgärd som har bidragit till en föroreningsskada eller allvarlig miljöskada
 (verksamhetsutövaren) är ansvarig för det avhjälpande som skall ske enligt
 bestämmelserna i detta kapitel.
@@ -9729,12 +9729,12 @@ fråga om en förorenad byggnad eller anläggning gäller detsamma den som förv
 den fastighet där byggnaden eller anläggningen är belägen. Med förvärv av fastighet
 likställs förvärv av tomträtt.
 
-10 kap. 4 $ miljöbalken, Den som är ansvarig för att avhjälpa en föroreningsskada
+10 kap. 4 \$ miljöbalken, Den som är ansvarig för att avhjälpa en föroreningsskada
 skall i skälig omfattning utföra eller bekosta det avhjälpande som på grund av
 föroreningen behövs för att förebygga, hindra eller motverka att skada eller
 olägenhet uppstår för människors hälsa eller miljön.
 
-2 kap 3 $ miljöbalken, Alla som bedriver eller avser att bedriva en verksamhet eller
+2 kap 3 \$ miljöbalken, Alla som bedriver eller avser att bedriva en verksamhet eller
 vidta en åtgärd skall utföra de skyddsåtgärder, iaktta de begränsningar och vidta de
 försiktighetsmått i övrigt som behövs för att förebygga, hindra eller motverka att
 verksamheten eller åtgärden medför skada eller olägenhet för människors hälsa eller
@@ -9743,24 +9743,24 @@ teknik, Dessa försiktighetsmått skall vidtas så snart det finns skäl att ant
 verksamhet eller åtgärd kan medföra skada eller olägenhet för människors hälsa eller
 miljön,
 
-2 kap, 7 $ miljöbalken, Kraven i 2-5 $$ och 6 $ första stycket gäller i den
+2 kap, 7 \$ miljöbalken, Kraven i 2-5 \$\$ och 6 \$ första stycket gäller i den
 utsträckning det inte kan anses orimligt att uppfylla dem, Vid denna bedömning ska
 särskild hänsyn tas till nyttan av skyddsåtgärder och andra försiktighetsmått jämfört
 med kostnaderna för sådana åtgärder.
 
-27 kap 1 $ miljöbalken: Regeringen eller den myndighet som regeringen bestämmer
+27 kap 1 \$ miljöbalken: Regeringen eller den myndighet som regeringen bestämmer
 får meddela föreskrifter om avgift för myndigheters kostnader för prövning och
 tillsyn enligt denna balk eller enligt föreskrifter som har meddelats med stöd av
 balken samt för prövning och tillsyn med anledning av EU-förordningar inom denna
 balks tillämpningsområde, Kommunen får meddela föreskrifter om sådana avgifter
 när det gäller en kommunal myndighets verksamhet,
 
-27 $ Förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd: När ett
+27 \$ Förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd: När ett
 anmälningsärende är tillräckligt utrett, skall den myndighet som handlägger ärendet
 meddela föreläggande om försiktighetsmått eller förbud enligt miljöbalken om det
 behövs,
 
-9 kap 5 $ Förordning om avgifter för prövning och tillsyn enligt miljöbalken: En
+9 kap 5 \$ Förordning om avgifter för prövning och tillsyn enligt miljöbalken: En
 myndighet får bestämma att dess beslut om avgift skall gälla omedelbart även om det
 överklagas.
 
@@ -9852,7 +9852,7 @@ Miljö & Hälsoskydd
 
 Tejpa här
 
- SVARSPOST
+SVARSPOST
 
 204 872 92
 434 20 KUNGSBACKA
@@ -9982,13 +9982,13 @@ dröjsmålsränta enligt lag, för tiden från Tillträdesdagen till dess betaln
 Tillträdesdag
 Köparen ska tillträda Fastigheten när:
 
-- Kommunen rivit samtliga byggnader inom Fastigheten och genomfört nödvändig
+\- Kommunen rivit samtliga byggnader inom Fastigheten och genomfört nödvändig
 sanering i enlighet med punkt 14.
 
-- — Fastighetsbildningsbeslut som innebär att Fastigheten överensstämmer med
+\- — Fastighetsbildningsbeslut som innebär att Fastigheten överensstämmer med
 Detaljplanen vunnit laga kraft.
 
-- — Bygglov avseende nytt flerbostadshus inom Fastigheten vunnit laga kraft.
+\- — Bygglov avseende nytt flerbostadshus inom Fastigheten vunnit laga kraft.
 
 Samt att Köpeskillingen, efter avdrag, till fullo betalats, Tillträdesdagen.
 Sign
@@ -10005,17 +10005,17 @@ Sign
 
 92
 
-10.
+10\.
 
 10.1
 
-11.
+11\.
 
 11.2
 
 11.3
 
-12.
+12\.
 
 12.1
 
@@ -10089,11 +10089,11 @@ penninginteckningar och att Fastigheten inte är föremål för tvist.
 
 12.6
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 14.1
 
@@ -10170,29 +10170,29 @@ Sign
 
 14.5
 
-15.
+15\.
 
 15.1
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 17.1
 
-18.
+18\.
 
 18.1
 
-19.
+19\.
 
 19.1
 
 19.2
 
-20.
+20\.
 
 20.1
 
@@ -10259,7 +10259,7 @@ Sign
 
 <!-- sida 235 -->
 
-21.
+21\.
 
 21.1
 
@@ -10269,7 +10269,7 @@ Sign
 
 21.4
 
-22.
+22\.
 
 22.1
 
@@ -10277,7 +10277,7 @@ Sign
 
 22.3
 
-23.
+23\.
 
 23.1
 
@@ -10399,7 +10399,7 @@ ne Metria | FastighetSök
 
 036 Allmän 2023-03-21
 
-|
+\|
 
 ! Fastighet
 Beteckning .
@@ -10455,7 +10455,7 @@ Metria FastighetSök - Kungsbacka Gjutaren I
 
 Rättigheter
 
-|
+\|
 
 | Redovisning av rättigheter kan vara ofullständig
 
@@ -10551,7 +10551,7 @@ Metria FastighetSök - Kungsbacka Gjutaren I
 
 ' Taxeringsvärde
 
- Taxeringsår Taxeringsvärde
+Taxeringsår Taxeringsvärde
 
 : 2022 6.287.000 SEK
 "Taxerad Ägare Andel Juridisk form
@@ -10566,7 +10566,7 @@ Metria FastighetSök - Kungsbacka Gjutaren I
 Tomtmätning
 Sammanläggning
 Ledningsåtgärd
- Ledningsåtgärd
+Ledningsåtgärd
 
 Ursprung
 Kungsbacka Kungsbacka 1:48, 1:51
@@ -11638,7 +11638,7 @@ Kommunfullmäktige Datum
 
 2023-08-15
 
-$ 108 Dnr 2019-00547
+\$ 108 Dnr 2019-00547
 
 Godkännande av genomförandeavtal, köpekontrakt samt
 överenskommelse om fastighetsreglering med Riksbyggen ekonomisk
@@ -11680,9 +11680,9 @@ Riksbyggen.
 
 Beslutsunderlag
 
-Kommunstyrelsen 2023-06-20, $ 167
+Kommunstyrelsen 2023-06-20, \$ 167
 
-Kommunstyrelsens arbetsutskott 2023-06-07, $ 175
+Kommunstyrelsens arbetsutskott 2023-06-07, \$ 175
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2023-05-17
 
@@ -12100,7 +12100,7 @@ utveckling.
 
 Läroplaner:
 Enligt läroplan för grundskola (Lgr 22) kapitel 2:8 och läroplan för gymnasieskola (Gy
-11) kap 2:6 är rektors ansvar att skolbibliotekets verksamhet används som en del i
+11\) kap 2:6 är rektors ansvar att skolbibliotekets verksamhet används som en del i
 undervisningen för att stärka elevernas språkliga förmåga och digitala kompetens.
 
 FN:s konvention om barnets rättigheter
@@ -12197,11 +12197,11 @@ De nationella minoriteterna
 Bibliotekslagen säger i 5 § att "Biblioteken i det allmänna biblioteksväsendet ska ägna
 särskild uppmärksamhet åt de nationella minoriteterna och personer som har annat
 modersmål än svenska, bland annat genom att erbjuda litteratur på
-1. de nationella minoritetsspråken,
+1\. de nationella minoritetsspråken,
 
-2. andra språk än de nationella minoritetsspråken och svenska, och
+2\. andra språk än de nationella minoritetsspråken och svenska, och
 
-3. lättläst svenska"
+3\. lättläst svenska"
 De nationella minoriteterna är sverigefinnar, tornedalingar, romer, judar och samer
 
 (som också har status som urfolk). Det finns också fem erkända nationella
@@ -12374,7 +12374,7 @@ Vid höjd beredskap ska folkbiblioteken fortsätta att erbjuda samhällsservice 
 fungera som informationsnav. Det kan bli nödvändigt att anpassa biblioteken i
 Kungsbackas uppdrag och tjänster utifrån de rådande omständigheterna.
 
-__________
+\__________
 
 Kungsbacka kommun            Biblioteksplan 2025-2030           9 (9)
 
@@ -12760,16 +12760,16 @@ Lagen om Förenta Nationernas konvention om barnets rättigheter
 I lagen ser vi att följande artiklar har direkt bäring på folk- och
 skolbiblioteksverksamheterna i Kungsbacka:
 Artikel 13
-1. Barnet ska ha rätt till yttrandefrihet. Denna rätt innefattar frihet att
+1\. Barnet ska ha rätt till yttrandefrihet. Denna rätt innefattar frihet att
 oberoende av territoriella gränser söka, ta emot och sprida
 information och tankar av alla slag, i tal, skrift eller tryck, i
 konstnärlig form eller genom annat uttrycksmedel som barnet
 väljer.
 Artikel 14
-1. Konventionsstaterna ska respektera barnets rätt till tankefrihet,
+1\. Konventionsstaterna ska respektera barnets rätt till tankefrihet,
 samvetsfrihet och religionsfrihet.
 Artikel 17
-1. Konventionsstaterna erkänner den viktiga uppgift som massmedier
+1\. Konventionsstaterna erkänner den viktiga uppgift som massmedier
 utför och ska säkerställa att barnet har tillgång till information och
 material från olika nationella och internationella källor, särskilt sådant
 
@@ -13042,7 +13042,7 @@ https://www.kungsbacka.se/Kommun-och-politik/Mal-och-resultat1/Vision-2030/
 
 Läroplan för gymnasieskolan GY11:
 http://www.skolverket.se/om-skolverket/publikationer/visa-enskild-
-publikation?_xurl_=http%3A%2F%2Fwww5.skolverket.se%2Fwtpub%2Fws%2Fsk
+publikation?\_xurl\_=http%3A%2F%2Fwww5.skolverket.se%2Fwtpub%2Fws%2Fsk
 olbok%2Fwpubext%2Ftrycksak%2FRecord%3Fk%3D2705
 
 Gymnasiearbetet:

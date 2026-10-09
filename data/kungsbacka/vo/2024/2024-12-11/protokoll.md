@@ -79,7 +79,7 @@ Hanna Vestklev, utvecklingsledare, §
 175
 
 Personalföreträdare           Övriga
--                             -
+\-                             -
 
 <!-- sida 2 -->
 
@@ -230,10 +230,10 @@ Föreliggande ärende avser återrapportering av utredning om driftsformer. Utre
 om funktionsupphandling underställs nämnden i december.
 
 Utredningen om driftsformer inom särskilt boende fokuserar på tre frågor.
-1. Vad innebär de olika driftsformerna inom särskilt boende?
+1\. Vad innebär de olika driftsformerna inom särskilt boende?
 
-2. Vilka förutsättningar krävs för de olika driftsformerna?
-3. Vilka konsekvenser kan förväntas med respektive driftsform?
+2\. Vilka förutsättningar krävs för de olika driftsformerna?
+3\. Vilka konsekvenser kan förväntas med respektive driftsform?
 
 Utredningen visar att rådighet över fastigheter är direkt avgörande för vilka
 driftsformer som kan användas. För att privata aktörer ska kunna ingå i ett
@@ -349,7 +349,7 @@ Vård & Omsorg
 
 Beslut
 Nämnden för Vård & Omsorg antar Årsplan för konkurrensutsättning av verksamhet
-2025.
+2025\.
 
 Nämnden för Vård & Omsorg ger förvaltningschefen i uppdrag att ta fram ett system
 för valfrihet inom särskilt boende.
@@ -363,8 +363,8 @@ I utredningen ska ingå, finansiella hänsynstaganden, avtal och regelstruktur, 
 Nämnden för vård och omsorg ger förvaltningschefen i uppdrag att utreda
 upphandling med funktionskrav för två av nämndens mål i nämndbudgeten 2026.
 
-1. Minskade fallolyckor
-2. Kompetensutveckling
+1\. Minskade fallolyckor
+2\. Kompetensutveckling
 
 Reservation
 Ermin Skoric (S), Astrid Börjesson (S) och Eva Tingström (S) reserverar sig mot
@@ -439,9 +439,9 @@ I utredningen ska ingå, finansiella hänsynstaganden, avtal och regelstruktur, 
 
 Nämnden för Vård & Omsorg ger förvaltningschefen i uppdrag att utreda
 upphandling med funktionskrav för två av nämndens mål i nämndbudgeten 2026.
-1.       Minskade fallolyckor
+1\.       Minskade fallolyckor
 
-2.       Kompetensutveckling
+2\.       Kompetensutveckling
 
 Ermin Škorić (S), Astrid Börjesson (S) och Eva Tingström (S) yrkar avslag till
 Alliansens tilläggsyrkanden.
@@ -568,7 +568,7 @@ Intern kontrollplan 2025 - Nämnden för Vård & Omsorg
 Beslut
 
 Nämnden för Vård & Omsorg antar intern kontrollplan för 2025, daterad 2024-11-
-22.
+22\.
 
 Sammanfattning av ärendet
 Enligt kommunens process för intern styrning och kontroll ska nämnderna årligen
@@ -974,7 +974,7 @@ Sammanfattning av ärendet
 Vid Nämnden för Vård & Omsorgs sammanträde den 19 september 2024, § 120,
 beslutades om tidplan för sammanträdes- och planeringsdagar 2025. Det finns nu ett
 förslag om att flytta sammanträdesdagen från den 28 augusti till den 4 september
-2025. Detta datum inkluderar även en planeringsdag, vilket innebär att nämnden
+2025\. Detta datum inkluderar även en planeringsdag, vilket innebär att nämnden
 kommer att kombinera sin sammanträdesdag med planeringsdagen.
 
 Beslutsunderlag

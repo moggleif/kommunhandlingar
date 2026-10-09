@@ -232,7 +232,7 @@ Sammanfattning av ärendet
 Den 10 februari 2023 beslutade Göteborgsregionens (GR) förbundsstyrelse att under
 2023–2024 genomföra ett rådslag i de 13 medlemskommunerna. Målet är att
 rådslaget ska utmynna i ett antal politiska överenskommelser som tar sikte på år
-2050.
+2050\.
 
 Rådslagsprocessen befinner sig nu fas 1. I denna fas besöker GR:s förvaltning
 samtliga kommunstyrelser för att identifiera och inhämta kunskap om respektive
@@ -1217,7 +1217,7 @@ Kommuner får lämna ekonomiskt bidrag och annat stöd till politiska partier so
 representerade i kommunfullmäktige. Syftet med stödet är att stärka partiernas
 ställning i den kommunala demokratin.
 Nuvarande regler för kommunalt partistöd antogs av kommunfullmäktige i december
-2014. För att säkerställa att reglerna följer gällande lagstiftning samt kommunens
+2014\. För att säkerställa att reglerna följer gällande lagstiftning samt kommunens
 hantering av det kommunala partistödet har en översyn av reglerna genomförts.
 
 Beslutsunderlag
@@ -1667,7 +1667,7 @@ tennisverksamhet.
 
 Kommunen har gått i borgen för föreningarnas låneskulder och kommunfullmäktige
 beslutade den 11 juni 2019 om amorteringsfrihet för lånen till och med 31 december
-2023.
+2023\.
 Vallda Tennishall ekonomisk förening och Vallda Tennisklubb har den 29 december
 2023 inkommit med en gemensam ansökan till kommunen om förlängning av
 amorteringsfriheten i ytterligare fem år. Anledning är ökade kostnader på grund av

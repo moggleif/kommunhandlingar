@@ -51,7 +51,7 @@ ordningsföreskrifter
 
 Miljöpartiet föreslår;
 
-- Att i syfte att skydda människors och djurs hälsa och välbefinnande komplettera
+\- Att i syfte att skydda människors och djurs hälsa och välbefinnande komplettera
 hänsynsregeln för fyrverkerier i Kungsbackas lokala ordningsföreskrift med tydligare
 regler för användandet av pyrotekniska varor i enlighet med vägledning från SKR
 cirkulär 23:04 och eventuella senare rättspraxis.
@@ -82,7 +82,7 @@ Sammanfattning av ärendet
 Maria Losman (MP) och Elisabeth Sahlsten (MP) har inkommit med en motion om
 att komplettera de lokala ordningsföreskrifterna med tydligare regler för användandet
 av pyrotekniska varor. Motionen anmäldes i kommunfullmäktige den 12 december
-2024.
+2024\.
 
 Motionärerna menar att de regler som finns i de lokala ordningsföreskrifterna (att
 den som skjuter av fyrverkerier eller andra pyrotekniska varor ska visa största
@@ -202,7 +202,7 @@ TE-2025-00049
 Yttrande från förvaltningen för Teknik – gällande Motion från Maria Losman (MP) m.fl.
 om tydligare regler i lokala ordningsföreskrifter för användandet av pyrotekniska varor
 
-- KS-2024-00826
+\- KS-2024-00826
 
 Förvaltningen för Teknik har tagit del av motionen att genom införande av tydligare regler i
 Kungsbackas lokala ordningsföreskrifter begränsa användande av pyrotekniska varor i syfte att skydda
@@ -447,7 +447,7 @@ S
 s
 a u
 ö
--
+\-
 n
 t
 k
@@ -511,7 +511,7 @@ KUNGSBACKA       KOMMUN
 Innehållsförteckning
 
 Sammanfattning ....................................................................................................................... 4
-1.  Inledning ......................................................................................................................... 5
+1\.  Inledning ......................................................................................................................... 5
 
 1.1. Bakgrund ........................................................................................................................ 5
 1.2. Syfte och revisionsfrågor ................................................................................................ 5
@@ -520,11 +520,11 @@ Sammanfattning .................................................................
 1.4. Metod .............................................................................................................................. 5
 
 1.5. Avgränsningar och ansvariga nämnder ......................................................................... 5
-2.  Organisation av upphandling och avtalsuppföljning ............................................... 6
+2\.  Organisation av upphandling och avtalsuppföljning ............................................... 6
 
 2.1. Organisation och ansvarsfördelning i upphandlingsprocessen och avtalsuppföljning är
 inte tydligt dokumenterat ................................................................................................ 6
-3.  Riskanalyser av oegentligheter i upphandlingsprocessen...................................... 7
+3\.  Riskanalyser av oegentligheter i upphandlingsprocessen...................................... 7
 
 3.1. Vår bedömning ............................................................................................................... 7
 3.2. Det framgår inte av styrdokument att riskanalys ska genomföras i
@@ -533,7 +533,7 @@ upphandlingsprocessen eller inför avtalsskrivning .............................
 3.3. Nämnden för Service har inte riskvärderat oegentligheter i upphandlingsprocessen
 eller under avtalsperioder i sin årliga riskanalys ............................................................ 7
 
-4.  Möjlighet att stänga ute oseriösa leverantörer .......................................................... 9
+4\.  Möjlighet att stänga ute oseriösa leverantörer .......................................................... 9
 4.1. Vår bedömning ............................................................................................................... 9
 
 4.2. Brottsförebyggande rådet............................................................................................... 9
@@ -542,7 +542,7 @@ eller under avtalsperioder i sin årliga riskanalys ............................
 4.4. Möjligheterna att utestänga oseriösa leverantörer under avtalsperiod kan stärkas ... 10
 4.4.1. Avtalsmallar .............................................................................................................. 11
 
-5.  Förhindra och upptäcka oegentligheter i upphandlingsprocessen samt kontroll
+5\.  Förhindra och upptäcka oegentligheter i upphandlingsprocessen samt kontroll
 och uppföljning av externa utförare.......................................................................... 13
 5.1. Vår bedömning ............................................................................................................. 13
 
@@ -551,7 +551,7 @@ utförare men dessa följs inte ................................................
 5.3. Samtliga kommunens nämnder ska granska privata utförare och avtalssamverkan
 
 inom ramen för internkontrollplanen ............................................................................ 14
-6.  Kontrollmiljö avseende uppföljning av avtalsefterlevnad...................................... 15
+6\.  Kontrollmiljö avseende uppföljning av avtalsefterlevnad...................................... 15
 
 6.1. Vår bedömning ............................................................................................................. 15
 6.2. Det finns riktlinjer för uppföljning av avtal men dessa efterlevs inte ........................... 15
@@ -563,18 +563,18 @@ leverantörer...................................................................
 
 <!-- sida 13 -->
 
-7.  Kanaler för att rapportera om oegentligheter .......................................................... 18
+7\.  Kanaler för att rapportera om oegentligheter .......................................................... 18
 
 7.1. Vår bedömning ............................................................................................................. 18
 7.2. Visselblåsarfunktion ..................................................................................................... 18
 
 7.3. Andra rapporteringskanaler.......................................................................................... 18
-8.  Nämndens uppföljning av upphandlingsprocessen och avtalsuppföljning ........ 19
+8\.  Nämndens uppföljning av upphandlingsprocessen och avtalsuppföljning ........ 19
 
 8.1. Vår bedömning ............................................................................................................. 19
 8.2. Uppföljningen av upphandlingsprocessen kan stärkas ............................................... 19
 
-9.  Samlad bedömning ..................................................................................................... 20
+9\.  Samlad bedömning ..................................................................................................... 20
 9.1. Bedömning utifrån revisionsfrågorna ........................................................................... 20
 
 9.2. Slutsatser ...................................................................................................................... 21
@@ -642,7 +642,7 @@ internkontrollarbete.
 
 <!-- sida 15 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -691,7 +691,7 @@ Granskningen avgränsas i enlighet med revisionsfrågorna.
 
 <!-- sida 16 -->
 
-2. Organisation av upphandling och avtalsuppföljning
+2\. Organisation av upphandling och avtalsuppföljning
 
 2.1. Organisation och ansvarsfördelning i upphandlingsprocessen och
 
@@ -745,7 +745,7 @@ ansvarar för uppföljning av avtal som skett genom direktupphandling.
 
 <!-- sida 17 -->
 
-3. Riskanalyser av oegentligheter i upphandlingsprocessen
+3\. Riskanalyser av oegentligheter i upphandlingsprocessen
 
 3.1. Vår bedömning
 
@@ -831,7 +831,7 @@ oegentligheter eller upphandling har dock identifierats:
 
 <!-- sida 19 -->
 
-4. Möjlighet att stänga ute oseriösa leverantörer
+4\. Möjlighet att stänga ute oseriösa leverantörer
 
 4.1. Vår bedömning
 
@@ -1006,7 +1006,7 @@ leverantörer har identifierats.
 
 <!-- sida 23 -->
 
-5. Förhindra och upptäcka oegentligheter i upphandlingsprocessen
+5\. Förhindra och upptäcka oegentligheter i upphandlingsprocessen
 
 samt kontroll och uppföljning av externa utförare
 
@@ -1110,7 +1110,7 @@ För samtliga nämnder ska avrapportering ske i februari 2025.
 
 <!-- sida 25 -->
 
-6. Kontrollmiljö avseende uppföljning av avtalsefterlevnad
+6\. Kontrollmiljö avseende uppföljning av avtalsefterlevnad
 
 6.1. Vår bedömning
 
@@ -1175,14 +1175,14 @@ Göteborg.
 
 Avtal upphandlade av Kungsbacka kommun har granskats gentemot följande
 kontrollpunkter:
-1. Har korrekt upphandlingstyp tillämpats?
-2. Är upphandlingen dokumenterad?
-3. Har kontroller gjorts och dokumenterats inför avtalsskrivning?
+1\. Har korrekt upphandlingstyp tillämpats?
+2\. Är upphandlingen dokumenterad?
+3\. Har kontroller gjorts och dokumenterats inför avtalsskrivning?
 
-4. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
-5. Regleras uppföljning i avtalet?
-6. Finns en plan för uppföljning i enlighet med riktlinjer för inköp?
-7. Har uppföljning av avtal genomförts och dokumenteras under avtalsperioden?
+4\. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
+5\. Regleras uppföljning i avtalet?
+6\. Finns en plan för uppföljning i enlighet med riktlinjer för inköp?
+7\. Har uppföljning av avtal genomförts och dokumenteras under avtalsperioden?
 
 Stickprov av avtal inom Nämnden för Tekniks verksamheter5
 
@@ -1227,11 +1227,11 @@ kallar till uppföljningsmöte under avtalsperioden och för mötesanteckningar.
   Uppföljning av avtalet har gjorts av i ett fall.
 
 Göteborgs Stads avtal har granskats gentemot följande kontrollpunkter:
-1. Har Kungsbacka säkerställt att kontroller gjorts och dokumenterats inför
+1\. Har Kungsbacka säkerställt att kontroller gjorts och dokumenterats inför
 avtalsskrivning?
-2. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
-3. Regleras uppföljning i avtalet?
-4. Har Kungsbacka säkerställt att uppföljning genomförts under avtalsperioden?
+2\. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
+3\. Regleras uppföljning i avtalet?
+4\. Har Kungsbacka säkerställt att uppföljning genomförts under avtalsperioden?
 
 Stickprov av avtal från Göteborgs stad som används inom Nämnden för Individ och
 Familjeomsorgs verksamheter
@@ -1264,7 +1264,7 @@ vissa ramavtal och inköpschefen på inköpsenheten undertecknat vissa ramavtal.
 
 <!-- sida 28 -->
 
-7. Kanaler för att rapportera om oegentligheter
+7\. Kanaler för att rapportera om oegentligheter
 
 7.1. Vår bedömning
 
@@ -1314,7 +1314,7 @@ vara anonym och anmäla synpunkter kopplat till klagomål, beröm och förslag p
 
 <!-- sida 29 -->
 
-8. Nämndens  uppföljning av upphandlingsprocessen  och
+8\. Nämndens  uppföljning av upphandlingsprocessen  och
 
 avtalsuppföljning
 
@@ -1349,7 +1349,7 @@ med fullmäktiges program.
 
 <!-- sida 30 -->
 
-9. Samlad bedömning
+9\. Samlad bedömning
 
 9.1. Bedömning utifrån revisionsfrågorna
 

@@ -36,7 +36,7 @@ Initiativärende    angående      –
 Hastighetsbegränsning          Hällingsjövägen
 
 Förslag till beslut i Nämnden för Teknik:
-1. Nämnden för Tekniks arbetsutskott ger förvaltningen i uppdrag att hemställa hos
+1\. Nämnden för Tekniks arbetsutskott ger förvaltningen i uppdrag att hemställa hos
 Trafikverket om en sänkning hastighetsbegränsningen till 50km/h på Hällingsjövägen
 mellan busshållplatserna Ramsjödalsvägen och Hjälmeskulla.
 
@@ -264,9 +264,9 @@ Karta
 Typ av dokument
 Komplettering av handling
 
-Nämnden_för_Tekniks_arbetsutskott_-_Protokoll_2026-09-07.pdf  289.2 kB
+Nämnden_för_Tekniks_arbetsutskott\_-\_Protokoll_2026-09-07.pdf  289.2 kB
 
-Initiativärende_-_Hastighetsbegränsning_Hällingsjövägen.pdf   94.27 kB
+Initiativärende\_-\_Hastighetsbegränsning_Hällingsjövägen.pdf   94.27 kB
 
 Typ av dokument
 
@@ -1096,11 +1096,11 @@ Kungsbacka    kommun
 
 Beslut
 
-1. Länsstyrelsen avvisar förslag om varningsmärke för förskola
+1\. Länsstyrelsen avvisar förslag om varningsmärke för förskola
 
 samt andra trafiksäkerhetshöjande åtgärder.
 
-2. Länsstyrelsen avslår förslag om sänkt hastighet.
+2\. Länsstyrelsen avslår förslag om sänkt hastighet.
 
 Beskrivning av ärendet
 
@@ -1505,7 +1505,7 @@ enligt kommunens lokala trafikföreskrift om tättbebyggt område. Den aktuella 
 
 126 meter lång. Avgränsningen framgår av figur 1.
 Sträckan utanför tättbebyggt område har prövats av Länsstyrelsen genom beslut den 10 september
-2026. Frågor om gång- och cykelväg, vägbreddning, vägmärken, trafikmätningar och permanenta
+2026\. Frågor om gång- och cykelväg, vägbreddning, vägmärken, trafikmätningar och permanenta
 fysiska ombyggnader på statlig väg behöver hanteras av Trafikverket som ansvarig väghållare.
 Figurer och bilder används som stöd för att tydliggöra sträckans geografiska avgränsning,
 vägmiljö, målpunkter, trafikmätningens placering och planerad gång- och cykelväg. De ska läsas
@@ -2000,7 +2000,7 @@ Skickat:       Tue, 26 May 2026 13:25:42 +0100
 Till:          halland@lansstyrelsen.se
 Ämne:          Ansökan om hastighetssänkning och trafiksäkerhetsåtgärder vid förskola, väg
 950
-Bilagor:       Svar kundbehov VA~¤st.pdf
+Bilagor:       Svar kundbehov VA\~¤st.pdf
 Categories:    Hanna
 
 Hej
@@ -2074,7 +2074,7 @@ begränsade, varför prioriteringar ständigt behöver göras. I dagsläget har 
 .v
 v e  inget uppdrag med vägbreddning på väg 950.
 rB
-_
+\_
 lla
 M
 6
@@ -2149,7 +2149,7 @@ F
 v
 e
 rB
-_
+\_
 lla
 M
 6

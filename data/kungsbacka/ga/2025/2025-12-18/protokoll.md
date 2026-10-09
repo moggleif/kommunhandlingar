@@ -114,17 +114,17 @@ Cecilia Fossan, biträdande
 gymnasiechef
 
 Alexandra Cameron, utvecklare
-Camilla Pålsson, verksamhetschef $
+Camilla Pålsson, verksamhetschef \$
 145
 
-Anna Danielsson, jurist $ 145
-Maria Åsberg, rektor $ 146
+Anna Danielsson, jurist \$ 145
+Maria Åsberg, rektor \$ 146
 
-Marie Andersson, rektor $ 147
-Hannah Tengelin, rektor $ 147
-Angela Lyrhagen, enhetschef $ 148
+Marie Andersson, rektor \$ 147
+Hannah Tengelin, rektor \$ 147
+Angela Lyrhagen, enhetschef \$ 148
 
-$ 144 - 161
+\$ 144 - 161
 
 Paragrafer
 
@@ -136,7 +136,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (5)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 155 Dnr GA-2020-00182
+\$ 155 Dnr GA-2020-00182
 IOP Erikshjälpen
 
 Beslut
@@ -186,7 +186,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (5)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-$ 156 Dnr GA-2025-00049
+\$ 156 Dnr GA-2025-00049
 IOP Onsala församling
 
 Beslut

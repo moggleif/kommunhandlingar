@@ -232,7 +232,7 @@ Sammanfattning av ärendet
 
 Lena Engberg, enhetschef Biblioteken i Kungsbacka, och Susan Pour, enhetschef
 Biblioteken i Kungsbacka, informerar nämnden om arbetet mot nämndens målbild
-2030.
+2030\.
 
 Beslutsunderlag
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2026-02-24
@@ -510,7 +510,7 @@ har sin bakgrund i priset Kungsbackas tenntallrik som instiftades redan 1975 och
 delas årligen ut av kommunfullmäktige.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i
+1\. Berättigad att erhålla priset Kungsbackas mästare är antingen: a. medlem i
 Kungsbackaförening b. bosatt i Kungsbacka kommun, men tävlande för förening
 utanför Kungsbacka och har som enskild eller genom lag erövrat ett svenskt
 mästerskap eller nått en ännu större framgång.
@@ -526,13 +526,13 @@ Nämnden för Kultur & Fritid
 Datum
 2026-03-25
 
-2. Priset utdelas endast en gång till en och samma person.
-3. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem
+2\. Priset utdelas endast en gång till en och samma person.
+3\. Det åligger föreningarna att meddela nämnden för Kultur & Fritid om medlem
 som är berättigad till priset.
 
-4. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna
+4\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar från föreningarna
 utse pristagare.
-5. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni
+5\. Utdelning av priset sker årligen under nämnden för Kultur & Fritids prisceremoni
 
 och verkställs av nämnden för Kultur & Fritids ordförande samt
 kommunfullmäktiges ordförande.
@@ -565,10 +565,10 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att
 
-- utse XXX som Årets förnyare 2025.
-- offentliggöra pristagare vid prisceremonin.
+\- utse XXX som Årets förnyare 2025.
+\- offentliggöra pristagare vid prisceremonin.
 
-- nominera Friskis & Svettis Kungsbacka, Onsala Bollklubb och Kungsbacka
+\- nominera Friskis & Svettis Kungsbacka, Onsala Bollklubb och Kungsbacka
 Brukshundsklubb till finalister.
 
 Sammanfattning av ärendet
@@ -578,12 +578,12 @@ och kreativt utvecklingsarbete hos aktörer som verkar inom något av nämndens
 ansvarsområden.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med
+1\. Berättigad att erhålla priset Årets förnyare är lag, grupp, förening eller person med
 anknytning till Kungsbacka kommun som är verksam inom något av nämnden för
 Kultur & Fritids ansvarsområden
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
 av nämnden för Kultur & Fritids ordförande.
 
 Bedömningsvillkor
@@ -624,10 +624,10 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att
 
-- utse XXX som Årets förening 2025.
-- offentliggöra pristagare vid prisceremonin.
+\- utse XXX som Årets förening 2025.
+\- offentliggöra pristagare vid prisceremonin.
 
-- nominera Bostället 2.0, Friskis & Svettis Kungsbacka och Onsala Bollklubb till
+\- nominera Bostället 2.0, Friskis & Svettis Kungsbacka och Onsala Bollklubb till
 finalister.
 
 Sammanfattning av ärendet
@@ -638,13 +638,13 @@ premiera föreningar i Kungsbacka kommun som på ett framgångsrikt sätt bedriv
 sin verksamhet.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av
+1\. Berättigad att erhålla priset Årets förening är: a. Förening verksam inom något av
 nämnden för Kultur & Fritids ansvarsområden. b. med anknytning till Kungsbacka
 
 kommun.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
 av nämnden för Kultur & Fritids ordförande.
 Bedömningsvillkor
 
@@ -694,10 +694,10 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att
 
-- utse XXX
-- offentliggöra pristagaren vid prisceremonin.
+\- utse XXX
+\- offentliggöra pristagaren vid prisceremonin.
 
-- nominera Robin Jacobsson, FRS Kungsbacka, Stina Liljegren Rydell, Lerkils IF,
+\- nominera Robin Jacobsson, FRS Kungsbacka, Stina Liljegren Rydell, Lerkils IF,
 samt Rune Östlund, Go Kungsbacka, till finalister.
 
 Sammanfattning av ärendet
@@ -706,11 +706,11 @@ Med priset Årets eldsjäl vill nämnden för Kultur & Fritid uppmärksamma bety
 av den enskilda kraft som verkar inom något av nämndens ansvarsområde.
 
 Allmänna bestämmelser
-1. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka
+1\. Berättigad att erhålla priset Årets eldsjäl är antingen: a. bosatt i Kungsbacka
 kommun. b. medlem i Kungsbackaförening
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
 
 av nämnden för Kultur & Fritids ordförande.
 Bedömningsvillkor
@@ -750,10 +750,10 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att
 
-- utse XXX som Årets volontär 2025.
-- offentliggöra pristagaren vid prisceremonin.
+\- utse XXX som Årets volontär 2025.
+\- offentliggöra pristagaren vid prisceremonin.
 
-- nominera Lena Larsson, Gabriella Rudström och Rune Östlund till finalister.
+\- nominera Lena Larsson, Gabriella Rudström och Rune Östlund till finalister.
 
 Sammanfattning av ärendet
 
@@ -761,13 +761,13 @@ Med priset Årets volontär vill nämnden för Kultur & Fritid uppmärksamma och
 det ideella engagemang som gör skillnad i samhället.
 Allmänna bestämmelser
 
-1. Berättigad att erhålla priset Årets volontär är person som utfört sin insats på
+1\. Berättigad att erhålla priset Årets volontär är person som utfört sin insats på
 uppdrag av Kungsbacka kommun under det år som nomineringsperioden gäller.
 Personen är en inspirerande kraft som bidrar till gemenskap, meningsfullhet och
 utveckling i sin omgivning.
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse pristagare.
 
-3. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
+3\. Utdelning av priset sker årligen under Kultur & Fritids prisceremoni och verkställs
 av nämnden för Kultur & Fritids ordförande.
 
 Beslutsunderlag
@@ -799,10 +799,10 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
 
-- utse XXX som 2025 års kulturpristagare.
-- offentliggöra pristagaren vid prisceremonin.
+\- utse XXX som 2025 års kulturpristagare.
+\- offentliggöra pristagaren vid prisceremonin.
 
-- nominera CityRock, Kungsbacka Sällskapsspelsförening samt Margareta Evmark
+\- nominera CityRock, Kungsbacka Sällskapsspelsförening samt Margareta Evmark
 till finalister.
 
 Sammanfattning av ärendet
@@ -844,8 +844,8 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
 
-- XXX tilldelas 2025 års ledarstipendium.
-- ledarstipendiaten offentliggörs vid prisceremonin.
+\- XXX tilldelas 2025 års ledarstipendium.
+\- ledarstipendiaten offentliggörs vid prisceremonin.
 
 Sammanfattning av ärendet
 Bakgrund
@@ -855,14 +855,14 @@ olika karaktär och som är en viktig person i aktuell förening.
 Allmänna bestämmelser
 
 Berättigad att erhålla stipendiet är:
-1. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är
+1\. Verksam som ledare i en ungdomsorganisation i Kungsbacka som är
 bidragsberättigad förening i nämnden för Kultur & Fritids föreningsregister.
 
-2. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
-3. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den
+2\. Nämnden för Kultur & Fritid ansvarar för att efter nomineringar utse stipendiat.
+3\. Stipendiet är avsett att stimulera ledare till vidareutbildning, för att utveckla den
 
 egna organisationens verksamhet.
-4. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
+4\. Stipendiet delas ut årligen vid nämnden för Kultur & Fritids prisceremoni.
 Bedömningsvillkor Mottagare av stipendiet är en ungdomsledare inom det lokala
 föreningslivet, som på ett förtjänstfullt sätt medverkar till att skapa en meningsfull
 fritidssysselsättning för ungdomar i kommunen.
@@ -896,8 +896,8 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
 
-- 2026 års idrottsstipendium tilldelas XXX och XXX
-- offentliggöra stipendiaterna vid prisceremonin.
+\- 2026 års idrottsstipendium tilldelas XXX och XXX
+\- offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 Varje år delar nämnden för Kultur & Fritid i Kungsbacka ut två idrottsstipendier till
@@ -937,8 +937,8 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
 
-- tilldela XXX och XXX 2025 års kulturstipendium.
-- offentliggöra stipendiaterna vid prisceremonin.
+\- tilldela XXX och XXX 2025 års kulturstipendium.
+\- offentliggöra stipendiaterna vid prisceremonin.
 
 Sammanfattning av ärendet
 Nämnden för Kultur & Fritid delar årligen ut två kulturstipendier till kulturellt

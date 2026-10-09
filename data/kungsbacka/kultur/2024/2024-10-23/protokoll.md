@@ -156,7 +156,7 @@ Nämnden för Kultur & Fritid tillsammans med Dokumenthanteringsplan 2021-04-22,
 Sammanfattning av ärendet
 
 I Kungsbacka kommuns riktlinjer för informationsförvaltning (KS 10 januari 2023 §
-16) framgår att varje myndighet ska ha en klassificeringsstruktur,
+16\) framgår att varje myndighet ska ha en klassificeringsstruktur,
 informationshanteringsplan och informationsbeskrivning. Dessa utgör tillsammans
 myndighetens informationsredovisning.
 Myndigheten ska upprätta en klassificeringsstruktur som representerar de egna
@@ -293,15 +293,15 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
 
-* godkänna nämndbudget 2025:
-* förvaltningen ska omhänderta tidigare ansökningar gällande
+\* godkänna nämndbudget 2025:
+\* förvaltningen ska omhänderta tidigare ansökningar gällande
 friskvårds- och aktivitetsgruppen samt Tillsammansgruppen (KFT 2023-10-18 §86-
-87) inom tilldelad budgetram
+87\) inom tilldelad budgetram
 
-* ge bifall åt Alliansens förslag till direktiv
-* uppdra åt förvaltningschefen att upprätta förvaltningsbudget för 2025
+\* ge bifall åt Alliansens förslag till direktiv
+\* uppdra åt förvaltningschefen att upprätta förvaltningsbudget för 2025
 
-* uppdra åt förvaltningschefen att göra nödvändiga omfördelningar i
+\* uppdra åt förvaltningschefen att göra nödvändiga omfördelningar i
 Förvaltningsbudgeten under året samt att informera nämnden om dessa i samband
 med delårsrapport och bokslut
 
@@ -310,12 +310,12 @@ Kommunfullmäktige beslutade 2024-06-13 att fastställa kommunövergripande mål
 
 som utgångspunkt för nämndens arbete med verksamhetsplanering. I
 verksamhetsplanen ingår bland annat:
-* Nämndens övergripande inriktning för arbetet i förvaltningen
+\* Nämndens övergripande inriktning för arbetet i förvaltningen
 
-* Målbild samt eventuella mål och direktiv
-* Ramfördelning driftbudget
+\* Målbild samt eventuella mål och direktiv
+\* Ramfördelning driftbudget
 
-* Investeringsbudget
+\* Investeringsbudget
 Nämnden fördelar driftbudgeten i tre delar: bidrag, förvaltning och kapitalkostnader.
 Ramen som fördelas till bidrag räknas inte upp inför 2025 då ett förändringsarbete
 
@@ -351,14 +351,14 @@ som erbjuds."
 Beslutsgång
 
 Ordförande prövar först om det är nämndens mening att:
-- godkänna nämndbudget 2025
+\- godkänna nämndbudget 2025
 
-- att uppdra åt förvaltningschefen att upprätta förvaltningsbudget för 2025
-- uppdra åt förvaltningschefen att göra nödvändiga omfördelningar i
+\- att uppdra åt förvaltningschefen att upprätta förvaltningsbudget för 2025
+\- uppdra åt förvaltningschefen att göra nödvändiga omfördelningar i
 Förvaltningsbudgeten under året samt att informera nämnden om dessa i samband
 med delårsrapport och bokslut
 
-- ge i uppdrag åt förvaltningen att omhänderta tidigare ansökningar gällande
+\- ge i uppdrag åt förvaltningen att omhänderta tidigare ansökningar gällande
 friskvårds- och aktivitetsgruppen samt Tillsammansgruppen (KFT 2023 §§86-87)
 inom tilldelad budgetram
 
@@ -506,23 +506,23 @@ samlokaliseringsprincipen och idén om att mötesplatser blir bättre om de är
 tillgängliga och till för alla över alla gränser.
 
 Inriktningarna är:
-1. Utomhuskoncept för rörelseglädje för att uppmana till rörelse och träning i olika
+1\. Utomhuskoncept för rörelseglädje för att uppmana till rörelse och träning i olika
 miljöer, något som även avlastar idrottshallarna och den verksamhet som bedrivs där
 av det organiserade föreningslivet.
 
-2. Samutnyttjande med nyckeltal för ytor i fritids- idrotts- och kulturlokaler som gör
+2\. Samutnyttjande med nyckeltal för ytor i fritids- idrotts- och kulturlokaler som gör
 dem fungerande och attraktiva.
-3. Stora fullmåtts-idrottshallar för flexibilitet och användbarhet, inga mindre hallar.
+3\. Stora fullmåtts-idrottshallar för flexibilitet och användbarhet, inga mindre hallar.
 
-4. Samutnyttjande av lokaler - särskilt nya lokaler - för olika ändamål, t ex för kultur-
+4\. Samutnyttjande av lokaler - särskilt nya lokaler - för olika ändamål, t ex för kultur-
 fritids- och idrottsändamål, samt för skola.
 
-5. Nya kulturlokaler tillförs det fria kulturlivet genom att ställa krav på, och
+5\. Nya kulturlokaler tillförs det fria kulturlivet genom att ställa krav på, och
 samarbeta med, exploatörer i samband med markanvisningar - snarare än att bygga
 kommunala kulturlokaler.
 Grundligare beskrivning av inriktningarna:
 
-1) Utomhuskoncept för rörelseglädje kan dels avlasta det stora trycket på
+1\) Utomhuskoncept för rörelseglädje kan dels avlasta det stora trycket på
 idrottshallar dels möjliggöra mer varierad träning. Vidare kan
 konceptet uppmuntra spontan rörelse för personer i alla åldrar, som komplement till
 
@@ -545,7 +545,7 @@ scener och läktare osv. Mer utomhusaktivitet på olika platser kan även
 höja upplevelsen av trygghet eftersom en attraktivare utomhusmiljö gör att fler
 människor rör sig i områdena.
 
-2) Vår främsta inriktning för lokaler är att nyttja de lokaler som redan finns på ett
+2\) Vår främsta inriktning för lokaler är att nyttja de lokaler som redan finns på ett
 annat sätt, t. ex. genom omfördelning av idrottshallsytor mellan olika sporter och
 mellan olika föreningar på ett mer likvärdigt sätt. Konsekvensen är att vi behöver
 stödja föreningarna än mer i hur de kan tänka nytt och förändra sin verksamhet då
@@ -556,7 +556,7 @@ andra sidan lite mer aktiva än i andra kommuner vilket gör trängseln i hallar
 Föreningarna kommer inte kunna växa i den takt de själva tänkt om de inte varierar
 sin träning mer, något ett fåtal blivit mer vana vid och behållit sedan pandemin.
 
-3) Vår tredje inriktning är att endast växa i takt med att kommunen växer och bygger
+3\) Vår tredje inriktning är att endast växa i takt med att kommunen växer och bygger
 ut nya skolor, inte mer än så. När en ny skola byggs måste det byggas
 en fullmåttshall. Endast sådana hallar har den flexibilitet som krävs och möjliggör
 det föreningsidrottande som efterfrågas i kommunen. I det fall endast en halv
@@ -566,7 +566,7 @@ skolverksamheten även om den senare är den enda som är lagstyrd.
 Kommunfullmäktigemålet om att vi ska vara en attraktiv kommun är det som är
 
 styrande avseende behovet av fullmåttshallar.
-4) Vår fjärde inriktning är samlokalisering. Tillkommande skolor ska betraktas som
+4\) Vår fjärde inriktning är samlokalisering. Tillkommande skolor ska betraktas som
 mer än skolor som används dagtid av elever. Skolorna ska även fungera som
 mötesplatser för olika åldrar över olika tider på dygnet. Det kan vara för
 föreningsverksamhet, fritidsverksamhet för yngre och äldre, för
@@ -578,7 +578,7 @@ förändring jämfört med nuvarande projektgenomförande. Det är av yttersta v
 de areanyckeltal och produktionskostnadsnyckeltal som används i
 investeringsprocessen utgår från denna samlokaliseringstanke för att lokalerna ska
 upplevas som attraktiva av invånarna.
-5) Vår femte inriktning är att bidra med kunskap i hur samhällsbyggnadsprocesser
+5\) Vår femte inriktning är att bidra med kunskap i hur samhällsbyggnadsprocesser
 kan drivas så att utformningen av nya stadsdelar blir trygga och trivsamma för de
 
 som ska bo där. Det innebär t ex att lokaler för kultur tillförs samhället men utan
@@ -606,10 +606,10 @@ Beslutsunderlag
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-10-14
 Lokalbehov 2026-2030 med utblicksår 2031-2035, 2024-10-14
 Bilagor
-1. 1.2 Konstförråd Lokalplan 2026-2030. 2024-10-14
-2. 1.2 Liten teater för repetitioner och föreställningar Lokalplan 2026-2030. 2024-10-
+1\. 1.2 Konstförråd Lokalplan 2026-2030. 2024-10-14
+2\. 1.2 Liten teater för repetitioner och föreställningar Lokalplan 2026-2030. 2024-10-
 14
-3. 1.2 Lokal för utlån av fritidsutrustning Lokalplan 2026-2030. 2024-10-14
+3\. 1.2 Lokal för utlån av fritidsutrustning Lokalplan 2026-2030. 2024-10-14
 
 Förslag till beslut på sammanträdet
 Moderaterna, Liberalerna och Kristdemokraterna lämnar ändringsyrkande att "Liten

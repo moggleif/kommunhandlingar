@@ -93,12 +93,12 @@ oberoende sätt.
 
 Qvalify’s verksamhet bygger på följande principer:
 
-- Opartiskhet och oberoende
-- Kompetens
-- Ansvar
-- Öppenhet
-- Sekretess
-- Flexibilitet
+\- Opartiskhet och oberoende
+\- Kompetens
+\- Ansvar
+\- Öppenhet
+\- Sekretess
+\- Flexibilitet
 
 Positiva iakttagelser som noterats under granskningsperioden
 
@@ -780,12 +780,12 @@ oberoende sätt.
 
 Qvalify’s verksamhet bygger på följande principer:
 
-- Opartiskhet och oberoende
-- Kompetens
-- Ansvar
-- Öppenhet
-- Sekretess
-- Flexibilitet
+\- Opartiskhet och oberoende
+\- Kompetens
+\- Ansvar
+\- Öppenhet
+\- Sekretess
+\- Flexibilitet
 
 Positiva iakttagelser som noterats under granskningsperioden
 
@@ -1457,7 +1457,7 @@ Innehåll
 
 Uppföljning nämndens mål och direktiv ......................................................................... 4
 
-1. En attraktiv kommun att bo, verka och vistas i ..................................................................... 4
+1\. En attraktiv kommun att bo, verka och vistas i ..................................................................... 4
 1.1 Antalet personal som en hemtjänstmottagare möter under 14 dagar ska årligen minska och
 2028 uppgå till maximalt 14 medarbetare ....................................................................................... 4
 
@@ -1466,27 +1466,27 @@ Uppföljning nämndens mål och direktiv .......................................
 1.3 Förvaltningen för Vård & Omsorg ska tillsammans med förvaltningen för Kultur & Fritid öka
 
 utbudet av aktiviteter på särskilda boenden ..................................................................................... 5
-2. I Kungsbacka utvecklas vi hela livet ....................................................................................... 6
+2\. I Kungsbacka utvecklas vi hela livet ....................................................................................... 6
 
 2.1 Vård-och omsorgstagare i Kungsbacka kommun har en upplevd god hälsa och blir stärkta i
 fallpreventiva åtgärder ..................................................................................................................... 6
-3. Ett medskapande samhälle och öppen attityd........................................................................ 6
+3\. Ett medskapande samhälle och öppen attityd........................................................................ 6
 
 3.1 Medarbetare hos Vård & Omsorg får den kompetensutveckling som krävs för arbetet och kan
 utvecklas genom vidareutbildning ................................................................................................... 7
-4. Direktiv - Innovation och omställning till nya arbetssätt ..................................................... 7
+4\. Direktiv - Innovation och omställning till nya arbetssätt ..................................................... 7
 
 Kvalitetsberättelse ................................................................................................................ 8
-5. Inledning .................................................................................................................................... 8
+5\. Inledning .................................................................................................................................... 8
 
-6. Sammanfattning ....................................................................................................................... 8
-7. Genomförande .......................................................................................................................... 8
+6\. Sammanfattning ....................................................................................................................... 8
+7\. Genomförande .......................................................................................................................... 8
 
 7.1 Adekvat kunskap och kompetens .............................................................................................. 8
 7.2 Samverkan ................................................................................................................................. 9
 
 7.3 Delaktighet ................................................................................................................................ 9
-8. Resultat och analys ................................................................................................................. 10
+8\. Resultat och analys ................................................................................................................. 10
 
 8.1 Riskanalys ............................................................................................................................... 10
 8.2 Synpunkter och klagomål .........................................................................................................11
@@ -1496,13 +1496,13 @@ Kvalitetsberättelse ...........................................................
 
 8.5 Egenkontroll ............................................................................................................................ 15
 
-9. Arbetet framåt ........................................................................................................................ 16
+9\. Arbetet framåt ........................................................................................................................ 16
 Patientsäkerhetsberättelse ..................................................................................................... 17
 
-10. Inledning .................................................................................................................................. 17
-11. Sammanfattning ..................................................................................................................... 17
+10\. Inledning .................................................................................................................................. 17
+11\. Sammanfattning ..................................................................................................................... 17
 
-12. Grundläggande förutsättningar för säker vård ................................................................... 18
+12\. Grundläggande förutsättningar för säker vård ................................................................... 18
 
 2(34)
 
@@ -1518,7 +1518,7 @@ Patientsäkerhetsberättelse ...................................................
 12.6 Adekvat kunskap och kompetens .......................................................................................... 20
 
 12.7 Patienten som medskapare .................................................................................................... 21
-13. Agera för säker vård .............................................................................................................. 21
+13\. Agera för säker vård .............................................................................................................. 21
 
 13.1 Öka kunskap om inträffade vårdskador ................................................................................. 22
 13.2 Tillförlitliga och säkra system och processer ........................................................................ 26
@@ -1529,15 +1529,15 @@ Patientsäkerhetsberättelse ...................................................
 13.5 Öka riskmedvetenhet och beredskap ..................................................................................... 29
 God och nära vård .................................................................................................................. 30
 
-14. Sammanfattning ..................................................................................................................... 30
-15. Hälsofrämjande: I Kungsbacka finns förutsättningar för att främja hälsa och
+14\. Sammanfattning ..................................................................................................................... 30
+15\. Hälsofrämjande: I Kungsbacka finns förutsättningar för att främja hälsa och
 motverka sjukdom .................................................................................................................. 30
 
-16. Gemensam: I Kungsbacka gör vi vård och omsorg och hälsofrämjande insatser
+16\. Gemensam: I Kungsbacka gör vi vård och omsorg och hälsofrämjande insatser
 bättre tillsammans .................................................................................................................. 32
 
-17. Trygg: I Kungsbacka bygger vård och omsorg på kompetens och tillit ............................ 33
-18. Enkel: I Kungsbacka är vård och omsorg nära och lätt att nå. ......................................... 34
+17\. Trygg: I Kungsbacka bygger vård och omsorg på kompetens och tillit ............................ 33
+18\. Enkel: I Kungsbacka är vård och omsorg nära och lätt att nå. ......................................... 34
 
 3(34)
 
@@ -1564,7 +1564,7 @@ aktiviteter” i din delårsrapport.
 •  Måluppfyllelse: Bedöm om målet är uppnått, delvis uppnått eller ej uppnått.
 •  Analys: Varför är målet uppnått, delvis uppnått eller ej uppnått?
 
-1. En attraktiv kommun att bo, verka och vistas i
+1\. En attraktiv kommun att bo, verka och vistas i
 
 1.1 Antalet personal som en hemtjänstmottagare möter under 14 dagar ska
 årligen minska och 2028 uppgå till maximalt 14 medarbetare
@@ -1638,7 +1638,7 @@ Måluppfyllelse
 
 Analys
 
-2. I Kungsbacka utvecklas vi
+2\. I Kungsbacka utvecklas vi
 
 hela livet
 
@@ -1665,7 +1665,7 @@ Analys
 Tidig upptäckt av förändrade behov och nära samarbete med hemsjukvård och
 rehabilitering bidrar till att risker fångas upp och åtgärdas i tid.
 
-3. Ett medskapande  samhälle och öppen attityd
+3\. Ett medskapande  samhälle och öppen attityd
 
 6(34)
 
@@ -1693,7 +1693,7 @@ Analys
 Kombinationen av utbildning, erfarenhetsutbyte och handledning har bidragit till en
 kompetent arbetsgrupp med goda förutsättningar att möta våra omsorgstagares behov.
 
-4. Direktiv - Innovation och omställning till nya arbetssätt
+4\. Direktiv - Innovation och omställning till nya arbetssätt
 
 Uppföljning
 Aktivitet
@@ -1720,7 +1720,7 @@ information för medarbetarna.
 
 Kvalitetsberättelse
 
-5. Inledning
+5\. Inledning
 
 SOSFS 2011:9
 
@@ -1732,7 +1732,7 @@ de har ett eget kvalitetsledningssystem med tillhörande riktlinjer och rutiner,
 är huvudman för dessa verksamheter. Externa utförare upprättar egna kvalitetsberättelser vari
 beskrivningar och analyser av det systematiska kvalitetsarbetet ingår.
 
-6. Sammanfattning
+6\. Sammanfattning
 
 Anvisning
 Skriv en kort sammanfattning av verksamhetens kvalitetsarbete under året, goda resultat och
@@ -1748,7 +1748,7 @@ hög delaktighet från både omsorgstagare och medarbetare. Våra identifierade
 utvecklingsområden är fortsatt arbete med dokumentation, uppföljning av
 genomförandeplaner och kontinuerlig kompetensutveckling.
 
-7. Genomförande
+7\. Genomförande
 
 SOSFS 2011:9, 3 kap 1§
 Kvaliteten ska systematiskt och fortlöpande utvecklas och säkras. Här beskrivs
@@ -1787,10 +1787,10 @@ kommunikation som påverkat kvaliteten? Finns det planerade åtgärder för att 
 samverkan?
 
 Hur ser samverkan ut med exempelvis:
--  Biståndshandläggare kring beslutade insatser, ändrade behov och uppföljning av
+\-  Biståndshandläggare kring beslutade insatser, ändrade behov och uppföljning av
 genomförandeplaner?
 
--  Med närstående och anhöriga?
+\-  Med närstående och anhöriga?
 
 Samverkan sker kontinuerligt med biståndshandläggare, hemsjukvård, rehabilitering,
 vårdcentraler, omsorgstagare och anhöriga. Kommunikationen fungerar överlag väl och bidrar
@@ -1828,7 +1828,7 @@ anpassade och följa upp omsorgstagarnas önskemål oftare. Fler medarbetare har
 man gör genomförandeplaner och har fått möjlighet att vara med vid hembesök. Detta har
 bidragit till ökad delaktighet och inflytande över utförandet av insatserna.
 
-8. Resultat och analys
+8\. Resultat och analys
 
 Anvisning
 Beskriv syftet med en resultat- och analysdel.
@@ -2011,15 +2011,15 @@ bostaden.
 
 Konsekvens händelse VO
 
-0. Ingen
+0\. Ingen
 
-1. Mindre
+1\. Mindre
 
-2. Måttlig
+2\. Måttlig
 
-3. Betydande
+3\. Betydande
 
-4. Katastrofal
+4\. Katastrofal
 
 0     2     4     6     8    10    12    14     16
 
@@ -2032,7 +2032,7 @@ något allvarligare.
 Anvisning
 
 Se anvisning kring händelserapportering.
--  Antal anmälningar till IVO.
+\-  Antal anmälningar till IVO.
 
 Verksamheten informerar kontinuerligt om rapporteringsskyldigheten enligt Lex Sarah. Under
 föregående rapportperiod förekom inga rapporterade Lex Sarah-ärenden.
@@ -2112,7 +2112,7 @@ Verksamheten arbetar kontinuerligt med utbildning, påminnelser och egenkontroll
 upprätthålla följsamheten. Goda hygienrutiner är en viktig del i arbetet med att förebygga
 vårdrelaterade infektioner och säkerställa en trygg vård.
 
-9. Arbetet framåt
+9\. Arbetet framåt
 
 Anvisning
 
@@ -2156,7 +2156,7 @@ avsedd effekt.
 
 Patientsäkerhetsberättelse
 
-10.    Inledning
+10\.    Inledning
 
 Enligt patientsäkerhetslagen ska vårdgivaren varje år upprätta en patientsäkerhetsberättelse.
 Syftet med patientsäkerhetsberättelsen är att öppet och tydligt redovisa strategier, mål och
@@ -2166,7 +2166,7 @@ färdig senast den 1 mars varje år, finnas tillgänglig för den som vill ta de
 den bör utformas så att den kan ingå i vårdgivarens ledningssystem för patientsäkerhet.
 PSL 2010:659, SOSFS 2011:9 7 kap. 3 §
 
-11.    Sammanfattning
+11\.    Sammanfattning
 
 Anvisning
 
@@ -2191,7 +2191,7 @@ uppföljning för att stärka patientsäkerheten ytterligare.
 
 <!-- sida 45 -->
 
-12.    Grundläggande förutsättningar för säker vård
+12\.    Grundläggande förutsättningar för säker vård
 
 12.1 Engagerad ledning och styrning
 
@@ -2382,7 +2382,7 @@ förbättringsförslag. Synpunkter används som underlag i verksamhetens förbä
 Genom återkommande dialoger med omsorgstagare och närstående skapas förutsättningar för
 en personcentrerad och säker vård där den enskildes erfarenheter tas tillvara.
 
-13.    Agera för säker vård
+13\.    Agera för säker vård
 
 SOSFS 2011:9, 5 kap. 2 §, 7 §, 8 §, 7 kap. 2 § p 2, PSL 2010:659, 3 kap. 10 §
 
@@ -2408,20 +2408,20 @@ Ett fortlöpande förbättringsarbete, som bygger på lärande och utveckling, t
 förbättringsmodell, är en viktig grund för ett
 framgångsrikt patientsäkerhetsarbete enligt nedanstående fyra steg.
 
-1. Identifiering
-- Beskriv resultatet inom de områden som identifierats och följs.
-- Beskriv omfattning och frekvens (till exempel basala hygienrutiner, palliativa registret,
+1\. Identifiering
+\- Beskriv resultatet inom de områden som identifierats och följs.
+\- Beskriv omfattning och frekvens (till exempel basala hygienrutiner, palliativa registret,
 vårdrelaterade infektioner, journalgranskning)
 
-2. Analys
-- Beskriv analys av och/eller resonemang kring resultat inom området, till exempel orsaker till
+2\. Analys
+\- Beskriv analys av och/eller resonemang kring resultat inom området, till exempel orsaker till
 förändring i resultatet eller koppling till patientsäkerhetsrisker.
 
-3. Åtgärder
-- Beskriv åtgärder med koppling till identifierat område. Åtgärder kan både vara i form av
+3\. Åtgärder
+\- Beskriv åtgärder med koppling till identifierat område. Åtgärder kan både vara i form av
 aktiviteter eller förändringar i struktur eller organisation.
 
-4. Uppföljning av åtgärd
+4\. Uppföljning av åtgärd
 -Beskriv hur ni följt upp och återkopplat vidtagna åtgärder inom identifierat område.
 -Beskriv hur kunskap och lärande har spridits till verksamheter och/eller ledning. Uppföljning och
 återkoppling kan till exempel göras via arbetsplatsträffar, patientsäkerhetsdialoger.
@@ -2450,7 +2450,7 @@ förutsättningar för att tidigt upptäcka risker och förebygga vårdskador.
 Rapporterade händelser
 Anvisning
 Sammanfattning och analys av antal händelser som rapporterats in under perioden 241101 –
-251031. Redovisning ska innehålla hur många som berodde på en brist i verksamheten, hur många
+251031\. Redovisning ska innehålla hur många som berodde på en brist i verksamheten, hur många
 som inte berodde på en brist och hur många som inte var färdigutredda.
 Beskriv sammanfattning av vilka konsekvenser de händelser som bedömdes vara en brist i
 verksamheten har haft. Ingen, liten, måttlig, betydande och katastrofal. Beskriv också om någon
@@ -2789,7 +2789,7 @@ Det övergripande målet är att vård, omsorg och hälsofrämjande insatser i K
 personcentrerade, sammanhållna, nära och proaktiva. Framgångsfaktorer för att nå målet samlas i
 rubrikerna: Hälsofrämjande, Gemensam, Trygg och Enkel
 
-14.    Sammanfattning
+14\.    Sammanfattning
 
 Anvisning
 Skriv en kort sammanfattning av verksamhetens arbete med God och Nära vård under
@@ -2807,7 +2807,7 @@ framgångsfaktorer. Verksamheten fortsätter utveckla arbetssätt som stödjer t
 förändrade behov och stärker omsorgstagarnas möjlighet att leva ett självständigt liv i det
 egna hemmet.
 
-15.    Hälsofrämjande: I Kungsbacka finns förutsättningar för
+15\.    Hälsofrämjande: I Kungsbacka finns förutsättningar för
 
 att främja hälsa och motverka sjukdom
 
@@ -2854,7 +2854,7 @@ och psykisk hälsa.
 
 <!-- sida 59 -->
 
-16.    Gemensam:   I Kungsbacka gör vi vård och omsorg och
+16\.    Gemensam:   I Kungsbacka gör vi vård och omsorg och
 hälsofrämjande insatser bättre tillsammans
 
 Anvisning
@@ -2897,7 +2897,7 @@ att arbetet med delaktighet och inflytande behöver fortsätta utvecklas.
 
 <!-- sida 60 -->
 
-17.    Trygg: I Kungsbacka bygger vård och omsorg på
+17\.    Trygg: I Kungsbacka bygger vård och omsorg på
 kompetens  och tillit
 
 Anvisning
@@ -2951,7 +2951,7 @@ förändringar eftersom endast 36 % uppgav att de får information om förändri
 omfattning. Detta kommer att följas upp genom fortsatt dialog med omsorgstagare och
 anhöriga samt genom verksamhetens kvalitetsarbete.
 
-18.    I Kungsbacka är vård och omsorg nära och lätt att nå.
+18\.    I Kungsbacka är vård och omsorg nära och lätt att nå.
 
 Anvisning
 
@@ -3244,10 +3244,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
 
@@ -3329,7 +3329,7 @@ förvaltningsövergripande och inkluderar samtliga av våra verksamhetsområden.
 genomfördes under hösten 2025. Under våren 2026 gjordes därefter ett breddinförandet av insatsplanering och
 korttidsrekrytering för hemtjänst, Serviceteam, Nattpatrull och Digitala besök. Vidare har enheten fortsatt att
 arbeta med schemaplanering för samtliga verksamheter efter att den delen breddinfördes i slutet på november
-2025.
+2025\.
 Under våren har en arbetsgrupp bestående av metodutvecklare, representanter från Gemensam insats och
 bemanningsenhet (GIB), verksamhetschefer och enhetschefer arbetat aktivt med att bland annat gå igenom
 systemfrågor och berett ett antal frågor kopplat till de åtgärder som implementerats under våren/försommaren.
@@ -3470,11 +3470,11 @@ Kommunfullmäktige
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Delårsrapport augusti 2026
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 Sammanfattning av nämndens arbete med målet
 Den nya socialtjänstlagen tydliggör att kommunen har ett ansvar att medverka i samhällsplaneringen och verka
 för goda levnadsförhållanden för äldre. Planeringen ska bidra till att äldre kan leva och bo självständigt under
@@ -3493,7 +3493,7 @@ Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 85 % 85 %   87 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -3503,23 +3503,23 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 79 % 73 %   75 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 92 % 89 %   89 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 73 %   75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 86 %   88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 
 10
 
@@ -3544,7 +3544,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,79    1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 115   151
@@ -3563,8 +3563,8 @@ Andelen återbrukade möbler
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Sammanfattning av nämndens arbete med målet
@@ -3624,8 +3624,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
 2023   2024    2025  2026    2026
@@ -3728,10 +3728,10 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
 2023   2024    2025  2026    2026
@@ -3808,7 +3808,7 @@ med att kompetenshöja medarbetare med kunskaper och praktiska verktyg på temat
 språksituationen på sina arbetsplatser. Det planeras även för att utbilda fler handledare för både APL-elever och
 VFU-elever.
 Utbildningsteamet planerar att genomföra utbildningar i psykisk hälsa och sjukdomslära under hösten 2026
-- våren 2027. All omsorgspersonal kommer även fortsättningsvis att få möjlighet att göra delegeringsprov. Målet
+\- våren 2027. All omsorgspersonal kommer även fortsättningsvis att få möjlighet att göra delegeringsprov. Målet
 är att våra medarbetare ska fortsätta kunna ge personcentrerad och anpassad vård och omsorg och att
 medarbetare upplever att de får den kompetensutveckling som krävs för att de ska kunna utföra sitt arbete. För
 att utveckla och behålla våra medarbetare behöver vi både erbjuda kompetensutveckling och arbeta med
@@ -3828,7 +3828,7 @@ Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
 Antal biträden som utbildas till vårdbiträde - 3 0
 
 Antal vårdbiträden som utbildas till
--              17
+\-              17
 undersköterska
 Upplevd möjlighet till kompetensutveckling -  6,1 %
 
@@ -3925,7 +3925,7 @@ Andelen av prioriterade
 administrativa flöden
 Öka
 digitaliserade/automatiserade
-2028.
+2028\.
 Frigjord tid i antal timmar/vecka
 per enhet som återförs till
 Öka
@@ -4101,7 +4101,7 @@ Andelen av prioriterade
 administrativa flöden
 Öka
 digitaliserade/automatiserade
-2028.
+2028\.
 Frigjord tid i antal timmar/vecka
 per enhet som återförs till
 Öka
@@ -4595,7 +4595,7 @@ Planeringsteamet och HSV Smedjan visar en negativ budgetavvikelse vilket är ett
 utskrivningsklara samt kostnader för ofinansierad tjänst samt inhyrd personal. Prognosen beräknas landa på -5
 663 tkr.
 Kvalitet och uppföljning visar en positiv budgetavvikelse som beror på tjänster som inte tillsätts. Prognosen är
-+ 1 522 tkr.
+\+ 1 522 tkr.
 
 Verksamhetsnära Stöd visar positiv budgetavvikelse som ett resultat av tjänster som ej tillsats och en prognos på
 +1 011 tkr.
@@ -4912,7 +4912,7 @@ Sammanfattning av ärendet
 Regeringen beslutade den 23 maj 2024 att tillkalla en särskild utredare med uppdrag att analysera och
 föreslå en ny och stärkt vårdgaranti samt lämna förslag som ökar kontinuiteten inom den specialiserade
 vården (S 2024:05). Utredningen överlämnade betänkandet Behovsstyrd vård (SOU 2026:38) 17 juni
-2026.
+2026\.
 
 Utredningen föreslår en ny vårdgaranti i den specialiserade vården. Undersökningar och utredningar
 föreslås ingå i den nya vårdgarantin samt fast vårdkontakt ska erbjudas även inom specialiserad vård.
@@ -5175,38 +5175,38 @@ Remiss av slutbetänkandet Behovsstyrd vård (SOU 2026:38)
 
 Remissinstanser
 
-1.   Akademikerförbundet SSR
-2.   Aleris
+1\.   Akademikerförbundet SSR
+2\.   Aleris
 
-3.   Almega Vårdföretagarna
-4.   Anhörigas Riksförbund
+3\.   Almega Vårdföretagarna
+4\.   Anhörigas Riksförbund
 
-5.   Arbetsmiljöverket
+5\.   Arbetsmiljöverket
 
-6.   Arvika kommun
-7.   Autism Sverige
+6\.   Arvika kommun
+7\.   Autism Sverige
 
-8.   Barnens rätt i samhället (BRIS)
+8\.   Barnens rätt i samhället (BRIS)
 
-9.   Barnombudsmannen
-10.  Blodtrycksdoktorn
+9\.   Barnombudsmannen
+10\.  Blodtrycksdoktorn
 
-11.  Bodens kommun
+11\.  Bodens kommun
 
-12.  Cancerfonden
-13.  Capio
+12\.  Cancerfonden
+13\.  Capio
 
-14.  Carlanderska sjukhuset
-15.  DHR
+14\.  Carlanderska sjukhuset
+15\.  DHR
 
-16.  Din psykolog
+16\.  Din psykolog
 
-17.  Diskrimineringsombudsmannen
-18.  Doktor.se
+17\.  Diskrimineringsombudsmannen
+18\.  Doktor.se
 
-19.  E-hälsomyndigheten
+19\.  E-hälsomyndigheten
 
-20.  Ersta diakoni
+20\.  Ersta diakoni
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
@@ -5214,197 +5214,197 @@ Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
 
 <!-- sida 110 -->
 
-21.  EsterCare AB
+21\.  EsterCare AB
 
-22.  Falu kommun
-23.  Famna
+22\.  Falu kommun
+23\.  Famna
 
-24.  Folkhälsomyndigheten
+24\.  Folkhälsomyndigheten
 
-25.  Forskningsrådet för hälsa, arbetsliv och välfärd
-26.  Fremia
+25\.  Forskningsrådet för hälsa, arbetsliv och välfärd
+26\.  Fremia
 
-27.  Funktionsrätt Sverige
-28.  Fysioterapeuterna
+27\.  Funktionsrätt Sverige
+28\.  Fysioterapeuterna
 
-29.  Försäkringskassan
+29\.  Försäkringskassan
 
-30.  Förvaltningsrätten i Uppsala
-31.  Förvaltningsrätten i Växjö
+30\.  Förvaltningsrätten i Uppsala
+31\.  Förvaltningsrätten i Växjö
 
-32.  Gnosjö kommun
+32\.  Gnosjö kommun
 
-33.  Göteborgs kommun
-34.  Göteborgs universitet
+33\.  Göteborgs kommun
+34\.  Göteborgs universitet
 
-35.  Huddinge kommun
-36.  Hässleholms kommun
+35\.  Huddinge kommun
+36\.  Hässleholms kommun
 
-37.  Inspektionen för vård och omsorg
+37\.  Inspektionen för vård och omsorg
 
-38.  Integritetsskyddsmyndigheten
-39.  Joint Academy (Arthro Therapeutics AB)
+38\.  Integritetsskyddsmyndigheten
+39\.  Joint Academy (Arthro Therapeutics AB)
 
-40.  Jokkmokks kommun
+40\.  Jokkmokks kommun
 
-41.  Jämställdhetsmyndigheten
-42.  Karolinska institutet
+41\.  Jämställdhetsmyndigheten
+42\.  Karolinska institutet
 
-43.  Knodd Vård AB
-44.  Konkurrensverket
+43\.  Knodd Vård AB
+44\.  Konkurrensverket
 
-45.  Kry International AB
+45\.  Kry International AB
 
-46.  Kungsbacka kommun
-47.  Kungälvs kommun
+46\.  Kungsbacka kommun
+47\.  Kungälvs kommun
 
-48.  Linköpings kommun
+48\.  Linköpings kommun
 
-49.  Linköpings universitet (Prioriteringscentrum)
-50.  Ljusdals kommun
+49\.  Linköpings universitet (Prioriteringscentrum)
+50\.  Ljusdals kommun
 
 2 (6)
 
 <!-- sida 111 -->
 
-51.  Logopedförbundet
+51\.  Logopedförbundet
 
-52.  Lomma kommun
-53.  Lunds universitet
+52\.  Lomma kommun
+53\.  Lunds universitet
 
-54.  Malmö kommun
+54\.  Malmö kommun
 
-55.  MediCheck Healthcare AB
-56.  Min Doktor (MD International AB)
+55\.  MediCheck Healthcare AB
+56\.  Min Doktor (MD International AB)
 
-57.  Mindler
-58.  Motala kommun
+57\.  Mindler
+58\.  Motala kommun
 
-59.  Myndigheten för delaktighet
+59\.  Myndigheten för delaktighet
 
-60.  Myndigheten för digital förvaltning
-61.  Myndigheten för vård- och omsorgsanalys
+60\.  Myndigheten för digital förvaltning
+61\.  Myndigheten för vård- och omsorgsanalys
 
-62.  Mörbylånga kommun
+62\.  Mörbylånga kommun
 
-63.  Nationell samverkan för psykisk hälsa
-64.  Nyköpings kommun
+63\.  Nationell samverkan för psykisk hälsa
+64\.  Nyköpings kommun
 
-65.  Pensionärernas riksorganisation
-66.  Praktikertjänst
+65\.  Pensionärernas riksorganisation
+66\.  Praktikertjänst
 
-67.  Region Blekinge
+67\.  Region Blekinge
 
-68.  Region Dalarna
-69.  Region Gotland
+68\.  Region Dalarna
+69\.  Region Gotland
 
-70.  Region Gävleborg
+70\.  Region Gävleborg
 
-71.  Region Halland
-72.  Region Jämtland Härjedalen
+71\.  Region Halland
+72\.  Region Jämtland Härjedalen
 
-73.  Region Jönköpings län
-74.  Region Kalmar län
+73\.  Region Jönköpings län
+74\.  Region Kalmar län
 
-75.  Region Kronoberg
+75\.  Region Kronoberg
 
-76.  Region Norrbotten
-77.  Region Skåne
+76\.  Region Norrbotten
+77\.  Region Skåne
 
-78.  Region Stockholm
+78\.  Region Stockholm
 
-79.  Region Sörmland
-80.  Region Uppsala
+79\.  Region Sörmland
+80\.  Region Uppsala
 
 3 (6)
 
 <!-- sida 112 -->
 
-81.  Region Värmland
+81\.  Region Värmland
 
-82.  Region Västerbotten
-83.  Region Västernorrland
+82\.  Region Västerbotten
+83\.  Region Västernorrland
 
-84.  Region Västmanland
+84\.  Region Västmanland
 
-85.  Region Örebro län
-86.  Region Östergötland
+85\.  Region Örebro län
+86\.  Region Östergötland
 
-87.  Reumatikerförbundet
-88.  Riksdagens ombudsmän
+87\.  Reumatikerförbundet
+88\.  Riksdagens ombudsmän
 
-89.  Riksförbundet Attention
+89\.  Riksförbundet Attention
 
-90.  Riksförbundet FUB
-91.  Riksförbundet för Rörelsehindrade Barn och Ungdomar
+90\.  Riksförbundet FUB
+91\.  Riksförbundet för Rörelsehindrade Barn och Ungdomar
 
-92.  Robertsfors kommun
+92\.  Robertsfors kommun
 
-93.  Sala kommun
-94.  SKPF Pensionärerna
+93\.  Sala kommun
+94\.  SKPF Pensionärerna
 
-95.  Skövde kommun
-96.  Sobona
+95\.  Skövde kommun
+96\.  Sobona
 
-97.  Socialstyrelsen
+97\.  Socialstyrelsen
 
-98.  Sollefteå kommun
-99.  Sophiahemmet, ideell förening
+98\.  Sollefteå kommun
+99\.  Sophiahemmet, ideell förening
 
-100. SPF Seniorerna
+100\. SPF Seniorerna
 
-101. SRAT
-102. Statens beredning för medicinsk och social utvärdering
+101\. SRAT
+102\. Statens beredning för medicinsk och social utvärdering
 
-103. Statens institutionsstyrelse
-104. Statens medicinsk-etiska råd
+103\. Statens institutionsstyrelse
+104\. Statens medicinsk-etiska råd
 
-105. Statskontoret
+105\. Statskontoret
 
-106. Stockholms kommun
-107. Stockholms universitet (Juridiska fakulteten)
+106\. Stockholms kommun
+107\. Stockholms universitet (Juridiska fakulteten)
 
-108. Svensk sjuksköterskeförening
+108\. Svensk sjuksköterskeförening
 
-109. Svenska föreningen för barn- och ungdomspsykiatri
-110. Svenska Kommunalarbetareförbundet
+109\. Svenska föreningen för barn- och ungdomspsykiatri
+110\. Svenska Kommunalarbetareförbundet
 
 4 (6)
 
 <!-- sida 113 -->
 
-111. Svenska Läkaresällskapet
+111\. Svenska Läkaresällskapet
 
-112. Sveriges akademikers centralorganisation
-113. Sveriges Arbetsterapeuter
+112\. Sveriges akademikers centralorganisation
+113\. Sveriges Arbetsterapeuter
 
-114. Sveriges Kommuner och Regioner
+114\. Sveriges Kommuner och Regioner
 
-115. Sveriges läkarförbund
-116. Sveriges Psykologförbund
+115\. Sveriges läkarförbund
+116\. Sveriges Psykologförbund
 
-117. Sölvesborgs kommun
-118. Tjänstemännens centralorganisation
+117\. Sölvesborgs kommun
+118\. Tjänstemännens centralorganisation
 
-119. Umeå kommun
+119\. Umeå kommun
 
-120. Umeå universitet
-121. Upphandlingsmyndigheten
+120\. Umeå universitet
+121\. Upphandlingsmyndigheten
 
-122. Uppsala kommun
+122\. Uppsala kommun
 
-123. Vision
-124. Vårdförbundet
+123\. Vision
+124\. Vårdförbundet
 
-125. Västerviks kommun
-126. Västra Götalandsregionen
+125\. Västerviks kommun
+126\. Västra Götalandsregionen
 
-127. Ydre kommun
+127\. Ydre kommun
 
-128. Åre kommun
-129. Älmhults kommun
+128\. Åre kommun
+129\. Älmhults kommun
 
-130. Örebro kommun
+130\. Örebro kommun
 
 Remissvaren ska ha kommit in till Socialdepartementet senast
 
@@ -5525,7 +5525,7 @@ utvecklingsledaren Johanna Woltjer. Enhetschefen Henrik Lysell
 entledigades från och med den 29 januari 2025 och ersattes med
 enhetschefen Lena Hellberg från och med samma datum. Specialist-
 läkaren Thomas Wallén entledigades från och med den 12 augusti
-2025. Analytikern Agnes Lindvall entledigades från och med den
+2025\. Analytikern Agnes Lindvall entledigades från och med den
 23 mars 2026 och ersattes med utredaren Carl Lundgren från och
 med samma datum. Professorn Anders Anell entledigades som
 expert i samband med att han blev anställd i utredningen, den
@@ -6449,34 +6449,34 @@ Författningsförslag                        SOU 2026:38
 Ett föreläggande enligt 24 § ska Ett föreläggande enligt 23 b eller
 
 innehålla uppgifter om 24 § ska innehålla uppgifter om
-1. de åtgärder som Inspektionen för vård och omsorg anser nöd-
+1\. de åtgärder som Inspektionen för vård och omsorg anser nöd-
 vändiga för att missförhållandena eller bristen ska kunna avhjälpas, och
-2. är åtgärderna senast ska vara utförda.
+2\. är åtgärderna senast ska vara utförda.
 Beslutet om föreläggande får förenas med vite.
 
 10 kap.
 13 §2
 Inspektionen för vård och omsorgs beslut får överklagas till all-
 män förvaltningsdomstol, om beslutet gäller
-1. tillstånd att bedriva verksamhet enligt 2 kap. 4 § eller avgift för
+1\. tillstånd att bedriva verksamhet enligt 2 kap. 4 § eller avgift för
 ansökan om sådant tillstånd enligt 2 kap. 9 §,
-2. föreläggande enligt 7 kap. 20 § andra stycket att lämna upplys-
+2\. föreläggande enligt 7 kap. 20 § andra stycket att lämna upplys-
 ningar, handlingar eller annat material,
-3. föreläggande enligt 7 kap. 23 a § att göra anmälan,
-4. föreläggande enligt 7 kap.
+3\. föreläggande enligt 7 kap. 23 a § att göra anmälan,
+4\. föreläggande enligt 7 kap.
 23 b § att avhjälpa brister i infor-
 mationsgarantin eller informations-
 skyldigheten,
-4. föreläggande enligt 7 kap. 5. föreläggande enligt 7 kap.
+4\. föreläggande enligt 7 kap. 5. föreläggande enligt 7 kap.
 24 § att vidta rättelse, 24 § att vidta rättelse,
-5. förbud enligt 7 kap. 26, 27, 6. förbud enligt 7 kap. 26, 27,
+5\. förbud enligt 7 kap. 26, 27, 6. förbud enligt 7 kap. 26, 27,
 28 eller 28 b § att bedriva verksam- 28 eller 28 b § att bedriva verksam-
 het,                  het,
-6. återkallelse enligt 7 kap. 26 7. återkallelse enligt 7 kap. 26
+6\. återkallelse enligt 7 kap. 26 7. återkallelse enligt 7 kap. 26
 eller 27 § av tillstånd enligt 2 kap. eller 27 § av tillstånd enligt 2 kap.
 4 §, eller            4 §, eller
 
-7. förbud att utöva verksam- 8. förbud att utöva verksam-
+7\. förbud att utöva verksam- 8. förbud att utöva verksam-
 het enligt 8 § första stycket. het enligt 8 § första stycket.
 Andra beslut av Inspektionen för vård och omsorg enligt denna lag
 får inte överklagas.
@@ -6508,22 +6508,22 @@ vårdslagen (2017:30) ska patienter vårdslagen (2017:30) ska patienter
 erbjudas en vårdgaranti. Den ska erbjudas en vårdgaranti. Den inne-
 innehålla en försäkran om att den bär att den enskilde inom viss tid
 enskilde inom viss tid får, ska få,
-1. kontakt med primärvården,
-2. en medicinsk bedömning av läkare eller annan legitimerad hälso-
+1\. kontakt med primärvården,
+2\. en medicinsk bedömning av läkare eller annan legitimerad hälso-
 och sjukvårdspersonal inom primärvården,
-3. besöka den specialiserade 3. remiss till den specialiserade
+3\. besöka den specialiserade 3. remiss till den specialiserade
 vården, och           vården granskad,
-4. information om att en remiss
+4\. information om att en remiss
 till den specialiserade vården har
 mottagits,
-5. information om när en medi-
+5\. information om när en medi-
 cinsk bedömning i den specialise-
 rade vården ska ske,
-6. en medicinsk bedömning av
+6\. en medicinsk bedömning av
 läkare eller annan legitimerad hälso-
 och sjukvårdspersonal inom den
 specialiserade vården, och
-4. planerad vård.     7. planerad vård.
+4\. planerad vård.     7. planerad vård.
 
 4 §
 Om vårdgarantin enligt 3 § 3 När regionen bedömer att
@@ -6700,22 +6700,22 @@ eller 2 §. Vårdgarantin ska inne- eller 2 §. Vårdgarantin innebär
 hålla en försäkran om att den en- att den enskilde inom viss tid ska
 
 skilde inom viss tid får få
-1. kontakt med primärvården,
-2. en medicinsk bedömning av läkare eller annan legitimerad hälso-
+1\. kontakt med primärvården,
+2\. en medicinsk bedömning av läkare eller annan legitimerad hälso-
 och sjukvårdspersonal inom primärvården,
-3. besöka den specialiserade 3. remiss till den specialiserade
+3\. besöka den specialiserade 3. remiss till den specialiserade
 vården, och           vården granskad,
-4. information om att en remiss
+4\. information om att en remiss
 till den specialiserade vården har
 mottagits,
-5. information om när en medi-
+5\. information om när en medi-
 cinsk bedömning i den specialise-
 rade vården ska ske,
-6. en medicinsk bedömning av
+6\. en medicinsk bedömning av
 läkare eller annan legitimerad hälso-
 och sjukvårdspersonal inom den
 specialiserade vården, och
-4. planerad vård.     7. planerad vård.
+4\. planerad vård.     7. planerad vård.
 Hos en sådan utförare som avses i 7 kap. 3 a § första stycket gäller
 vårdgarantin enligt första stycket 1 och 2 endast om den enskilde är
 listad hos utföraren.
@@ -6760,11 +6760,11 @@ hälso- och sjukvårdslagen hälso- och sjukvårdslagen
 (2017:30) ska innehålla en för- (2017:30) innebär, inom verk-
 säkran om att den enskilde får samhet som utgör primärvård, att
 den enskilde ska få
-1. kontakt med primärvården 1. kontakt med primärvården
+1\. kontakt med primärvården 1. kontakt med primärvården
 samma dag som den enskilde samma dag som den enskilde
 söker kontakt med primärvården söker kontakt med primärvården
 (tillgänglighetsgaranti), (tillgänglighetsgaranti), och
-2. en medicinsk bedömning 2. en medicinsk bedömning
+2\. en medicinsk bedömning 2. en medicinsk bedömning
 av läkare eller annan legitimerad av läkare eller annan legitimerad
 hälso- och sjukvårdspersonal inom hälso- och sjukvårdspersonal inom
 primärvården inom tre dagar från primärvården inom tre dagar från
@@ -6777,7 +6777,7 @@ den enskilde först söker kontakt den enskilde först söker kontakt
 
 (bedömningsgaranti inom primär- (bedömningsgaranti inom primär-
 vården),              vården).
-3. besöka den specialiserade
+3\. besöka den specialiserade
 vården inom 90 dagar från det att
 remiss har utfärdats eller, om någon
 remiss inte är nödvändig, från det
@@ -6795,7 +6795,7 @@ med den specialiserade vården
 
 (besöksgaranti inom den speciali-
 serade vården), och
-4. planerad vård inom 90 dagar
+4\. planerad vård inom 90 dagar
 från det att vårdgivaren har beslu-
 tat att den enskilde ska få den aktu-
 ella vården (behandlingsgaranti).
@@ -6805,20 +6805,20 @@ Vårdgarantin enligt 9 kap. 1 §
 hälso- och sjukvårdslagen (2017:30)
 innebär, inom verksamhet som utgör
 specialiserad vård, att
-1. den vårdgivare som mottar
+1\. den vårdgivare som mottar
 en remiss inom tre arbetsdagar
 granskar remissen,
-2. den vårdgivare som mottar
+2\. den vårdgivare som mottar
 en remiss informerar patienten, inom
 tre arbetsdagar, om att remissen har
 mottagits (informationsgaranti),
-3. patienten får information
+3\. patienten får information
 om när han eller hon ska få en
 medicinsk bedömning inom tio
 arbetsdagar från det att remissen har
 mottagits (informationsgaranti),
 
-4. patienten får en medicinsk
+4\. patienten får en medicinsk
 bedömning av läkare eller annan
 legitimerad hälso- och sjukvårds-
 personal inom 30 dagar från det
@@ -6826,7 +6826,7 @@ att remissen har mottagits i den
 specialiserade vården (bedömnings-
 garanti inom den specialiserade
 vården), och
-5. patienten får planerad vård
+5\. patienten får planerad vård
 inom 60 dagar från det att vård-
 givaren har beslutat att patienten
 ska få den aktuella vården (garanti
@@ -6884,15 +6884,15 @@ skilde                enskilde
 
 Författningsförslag                        SOU 2026:38
 
-1. av medicinska skäl inte kan ges vård,
-2. utnyttjat sin möjlighet att välja vård i en annan region enligt
+1\. av medicinska skäl inte kan ges vård,
+2\. utnyttjat sin möjlighet att välja vård i en annan region enligt
 
 9 kap. 1 § patientlagen (2014:821), eller
-3. frivilligt avstår från vård.
+3\. frivilligt avstår från vård.
 Den enskilde ska anses frivilligt avstå från vård om han eller hon har
-1. informerats om vårdgarantin,
-2. erbjudits vård i enlighet med vårdgarantin, och
-3. meddelat vårdgivaren att han eller hon avstår från erbjudandet
+1\. informerats om vårdgarantin,
+2\. erbjudits vård i enlighet med vårdgarantin, och
+3\. meddelat vårdgivaren att han eller hon avstår från erbjudandet
 om vård.
 
 Denna förordning träder i kraft den 1 juli 2028.
@@ -7623,10 +7623,10 @@ Bakgrunden är att vårdens behov alltid är större än de resurser som
 finns tillgängliga, vilket gör att prioriteringar är nödvändiga.32
 
 Den etiska plattformen utgörs av tre principer:
-1. Människovärdesprincipen
+1\. Människovärdesprincipen
 
-2. Behovs- och solidaritetsprincipen
-3. Kostnadseffektivitetsprincipen.
+2\. Behovs- och solidaritetsprincipen
+3\. Kostnadseffektivitetsprincipen.
 
 Principerna är rangordnade: människovärdesprincipen gäller i första
 hand, behovs- och solidaritetsprincipen i andra hand och kostnads-
@@ -10100,7 +10100,7 @@ olika yrkeskategorier.
 
 Inför konstruktionen av en ny, behovsstyrd vårdgaranti SOU 2026:38
 
-Tabell 6.1 Patientens första kontakt* med den specialiserade vården
+Tabell 6.1 Patientens första kontakt\* med den specialiserade vården
 
 Antal genomförda första kontakter under 2025 per yrkeskategori
 Yrkeskategori       Antal         Procent
@@ -10119,7 +10119,7 @@ Arbetsterapeut      17 844         0,7
 ```
 
 Totalt            2 515 948
-* Med kontakt avses fysiska besök, hembesök, distansbesök samt telefon-/brevkontakt.
+\* Med kontakt avses fysiska besök, hembesök, distansbesök samt telefon-/brevkontakt.
 Källa: SKR Utökad uppföljning av specialiserad vård, 2026-02-09.
 
 6.3.2 Många får sitt första besök snabbt, men det finns
@@ -10437,7 +10437,7 @@ Väntan på undersökningar: demens33
 
 Medianväntetiden från remiss eller kontaktdatum till starten för en
 demensutredning inom den specialiserade vården var 21 dagar under
-2024. Kvalitetsmålet för vårdförloppet vid misstänkt demens är
+2024\. Kvalitetsmålet för vårdförloppet vid misstänkt demens är
 30 dagar från remiss eller kontakt till utredningsstart, vilket 40 procent
 av specialistenheterna i landet klarade under 2024.
 År 2024 var utredningstiden för demens 57 dagar i median inom
@@ -11014,13 +11014,13 @@ Inför konstruktionen av en ny, behovsstyrd vårdgaranti SOU 2026:38
 Det finns framför allt tre skäl till att avtalen inte används i större
 utsträckning:
 
-1. Ekonomiska skäl: vissa regioners ekonomiska situation gör att
+1\. Ekonomiska skäl: vissa regioners ekonomiska situation gör att
 de hellre ställer en patient i kö, än erbjuder vård hos en annan
 vårdgivare via ett befintligt avtal.
 
-2. Brist på kunskap: det förekommer att det saknas kunskap om
+2\. Brist på kunskap: det förekommer att det saknas kunskap om
 vilka avtal som finns inom och utanför den egna regionen.
-3. Administrativa skäl: det kan vara administrativt komplicerat att
+3\. Administrativa skäl: det kan vara administrativt komplicerat att
 använda andra regioners avtal.60
 
 Vi kan också konstatera att systemet med ett riksavtal, mellanläns-
@@ -13262,7 +13262,7 @@ av patienterna sin behandling inom 30 dagar. Motsvarande siffra för
 
 IVO har analyserat patientklagomål riktade mot BUP samt lex
 Maria-anmälningar från vårdgivare inom BUP under perioden 2022–
-2024. Drygt 40 procent (26 av 63) av de klagomål där IVO kritiserar
+2024\. Drygt 40 procent (26 av 63) av de klagomål där IVO kritiserar
 vårdgivaren handlar om bristande behandling. Enligt IVO har försenad
 eller utebliven behandling lett till allvarliga konsekvenser för patient-
 erna, såsom hög skolfrånvaro med social isolering och ökande ångest
@@ -13350,7 +13350,7 @@ inom BUP med diagnosen adhd, utifrån socioekonomiska områden
 1,0%
 0,0%
 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
-1. Områden med mycket stora socioekonomiska utmaningar. 2. Områden med socioekonomiska
+1\. Områden med mycket stora socioekonomiska utmaningar. 2. Områden med socioekonomiska
 utmaningar. 3. Socioekonomiskt blandade områden. 4. Områden med goda socioekonomiska
 förutsättningar. 5. Områden med mycket goda socioekonomiska förutsättningar.
 Källa: Socialstyrelsen.
@@ -15297,8 +15297,8 @@ hället, som rättssäkerhet, effektivitet och demokrati. En tillsyns-
 myndighet kan ha olika möjligheter att utfärda sanktioner eller göra
 ingripanden. Det kan handla om att myndigheten
 
-1. helt saknar sanktionsmöjligheter
-2. kan besluta om anmärkning, varning eller liknande
+1\. helt saknar sanktionsmöjligheter
+2\. kan besluta om anmärkning, varning eller liknande
 
 1 Dir. 2024:50.
 2 Dir. 2025:94.
@@ -15309,13 +15309,13 @@ ingripanden. Det kan handla om att myndigheten
 
 Tillsyn av huvudmännen när vårdgarantin inte följs SOU 2026:38
 
-3. kan dra in eller neka tillstånd
+3\. kan dra in eller neka tillstånd
 
-4. kan besluta om föreläggande som kan förenas med vite
-5. kan besluta om sanktionsavgift
+4\. kan besluta om föreläggande som kan förenas med vite
+5\. kan besluta om sanktionsavgift
 
-6. kan besluta om förbud mot att bedriva verksamhet
-7. kan med författningsstöd besluta om åtalsanmälan.3
+6\. kan besluta om förbud mot att bedriva verksamhet
+7\. kan med författningsstöd besluta om åtalsanmälan.3
 
 Tillsynen av hälso- och sjukvården i Sverige syftar till att säkerställa
 att vården är säker, lagenlig och håller god kvalitet. Det är framför
@@ -16068,7 +16068,7 @@ analys) har i uppdrag av regeringen att följa hur stor andel av befolk-
 
 ningen som uppfattar att den har en fast, namngiven läkarkontakt i
 primärvården.20 Den första delredovisningen publicerades i oktober
-2024. Den visade att cirka tre av tio i befolkningen uppfattar att de
+2024\. Den visade att cirka tre av tio i befolkningen uppfattar att de
 har en fast läkare. Andelen med en fast läkare är högre i grupper som
 generellt har ett högre vårdbehov.21 Den andra delredovisningen som
 publicerades i mars 2026 visar att tillgången till fast läkare i primär-
@@ -20364,12 +20364,12 @@ annat uppgifter som rör statlig styrning med kunskap114 och att
 myndigheten ska följa, stödja och främja utvecklingen inom hälso-
 
 och sjukvården när det gäller
-1. tillgänglighet, väntetider och vårdkapacitet,
+1\. tillgänglighet, väntetider och vårdkapacitet,
 
-2. en god och nära vård med fokus på primärvården,
-3. patientsäkerhet, och
+2\. en god och nära vård med fokus på primärvården,
+3\. patientsäkerhet, och
 
-4. kompetensförsörjning.
+4\. kompetensförsörjning.
 
 Vidare har regeringen genom såväl en instruktionsändring som flera
 olika uppdrag uttryckt ett ökat fokus på Socialstyrelsens uppdrag att
@@ -20385,13 +20385,13 @@ Utformningen av funktionen
 
 I den vidare utformningen och uppbyggnaden av funktionen
 bedömer vi att följande aspekter särskilt bör beaktas:
-1. Ersättningar och avgifter är två områden som skiljer sig åt på flera
+1\. Ersättningar och avgifter är två områden som skiljer sig åt på flera
 sätt. Inom dessa finns det sedan en mängd olika delområden som
 kräver olika angreppssätt och olika uppsättningar principer. För
 att uppnå en effektiv styrning bör det inom funktionen upprättas
 två olika ”arbetsflöden” (ersättningar respektive avgifter).
 
-2. För dessa två arbetsflöden behöver myndigheten sedan utarbeta
+2\. För dessa två arbetsflöden behöver myndigheten sedan utarbeta
 prioriteringsordningar för i vilken ordning funktionen ska ta sig
 an olika delområden. Här kan man tänka sig olika angreppssätt:
 – Att börja med områden där det redan finns en relativt hög nivå
@@ -20418,13 +20418,13 @@ länsvård eller kopplat till nationell vårdförmedling.
 
 – Att utgå från systemet för kunskapsstyrning och dess priori-
 terade områden.
-3. För varje område funktionen överväger att ta sig an och utveckla
+3\. För varje område funktionen överväger att ta sig an och utveckla
 nationella principer för blir det centralt att inledningsvis beakta om
 ifall det finns problem relaterat till just ersättningar och avgifter,
 eller om det snarare är andra aspekter som behöver åtgärdas för
 att komma till rätta med upplevda problem.
 
-4. Med utgångspunkt i de olika områden och uppgifter som funk-
+4\. Med utgångspunkt i de olika områden och uppgifter som funk-
 tionen tar sig an behöver funktionen knyta till sig relevanta
 kompetenser som exempelvis hälsoekonomer och personer med
 nationalekonomisk kompetens. Funktionen bör även utveckla
@@ -20432,7 +20432,7 @@ kontakter och samarbeten med forskare inom berörda områden
 och olika relevanta nätverk. Företrädare för privata utförare som
 utför offentligt finansierad vård behöver involveras i arbetet.
 
-5. När det gäller uppgiften att följa upp olika modeller och deras
+5\. När det gäller uppgiften att följa upp olika modeller och deras
 effekter blir det centralt att denna uppföljning redovisas på ett
 sätt så att den kan användas för att
 – återkoppla till regioner och bidra till ett systematiskt lärande,
@@ -20442,7 +20442,7 @@ på såväl regional som nationell nivå,
 ning och utveckling,
 – utveckla nationella principer, som får normativ innebörd.
 
-6. Funktionen bör i första hand vara lärande och rådgivande. Med
+6\. Funktionen bör i första hand vara lärande och rådgivande. Med
 hjälp av den kontinuerliga uppföljningen som utförs kommer
 det att visa sig om de principer funktionen rekommenderar får
 genomslag eller inte. Om förväntad samordning och utveckling
@@ -22411,12 +22411,12 @@ distanskontakt avser personer som omfattas av regionens ansvar att
 erbjuda vård enligt 8 kap. 1–2 §§ HSL. I 8 kap. 2 § HSL regleras att
 regionen ska erbjuda en god hälso- och sjukvård åt
 
-1. den som, utan att vara bosatt här, har rätt till vårdförmåner i
+1\. den som, utan att vara bosatt här, har rätt till vårdförmåner i
 Sverige vid sjukdom och moderskap enligt vad som följer av
 Europaparlamentets och rådets förordning (EG) nr 883/2004 av
 den 29 april 2004 om samordning av de sociala trygghetssyste-
 men, och
-2. den som avses i 5 kap. 7 § första stycket socialförsäkringsbalken
+2\. den som avses i 5 kap. 7 § första stycket socialförsäkringsbalken
 och som omfattas av förordningen.
 
 Personer som omfattas av denna bestämmelse har inte alltid ett
@@ -23039,7 +23039,7 @@ Samtidigt är det viktigt att regionerna får tid på sig att ställa om till
 en vårdgaranti med kortare tidsgränser. Vi bedömer att det är rim-
 
 ligt att regionerna får tid för detta under 2027 och första delen av
-2028. Författningsändringarna som rör vårdgarantin föreslås därför
+2028\. Författningsändringarna som rör vårdgarantin föreslås därför
 träda i kraft den 1 juli 2028.
 Regionernas behov av omställning gäller inte i lika hög utsträck-
 ning för samtliga förslag. Förtydligande om fast vårdkontakt i patient-
@@ -23134,9 +23134,9 @@ kommentaren till 10 kap. 13 § patientsäkerhetslagen nedan.
 25 §
 
 Ett föreläggande enligt 23 b eller 24 § ska innehålla uppgifter om
-1. de åtgärder som Inspektionen för vård och omsorg anser nödvän-
+1\. de åtgärder som Inspektionen för vård och omsorg anser nödvän-
 diga för att missförhållandena eller bristen ska kunna avhjälpas, och
-2. när åtgärderna senast ska vara utförda.
+2\. när åtgärderna senast ska vara utförda.
 Beslutet om föreläggande får förenas med vite.
 Paragrafen ändras på så sätt att en hänvisning till den nya 23 b §
 läggs till i bestämmelsen. Se kommentaren till den bestämmelsen
@@ -23154,17 +23154,17 @@ SOU 2026:38                            Författningskommentar
 
 Inspektionen för vård och omsorgs beslut får överklagas till allmän förvalt-
 ningsdomstol, om beslutet gäller
-1. tillstånd att bedriva verksamhet enligt 2 kap. 4 § eller avgift för
+1\. tillstånd att bedriva verksamhet enligt 2 kap. 4 § eller avgift för
 ansökan om sådant tillstånd enligt 2 kap. 9 §,
-2. föreläggande enligt 7 kap. 20 § andra stycket att lämna upplysningar,
+2\. föreläggande enligt 7 kap. 20 § andra stycket att lämna upplysningar,
 handlingar eller annat material,
-3. föreläggande enligt 7 kap. 23 a § att göra anmälan,
-4. föreläggande enligt 7 kap. 23 b § att avhjälpa brister i informations-
+3\. föreläggande enligt 7 kap. 23 a § att göra anmälan,
+4\. föreläggande enligt 7 kap. 23 b § att avhjälpa brister i informations-
 garantin eller informationsskyldigheten,
-5. föreläggande enligt 7 kap. 24 § att vidta rättelse,
-6. förbud enligt 7 kap. 26, 27, 28 eller 28 b § att bedriva verksamhet,
-7. återkallelse enligt 7 kap. 26 eller 27 § av tillstånd enligt 2 kap. 4 §, eller
-8. förbud att utöva verksamhet enligt 8 § första stycket.
+5\. föreläggande enligt 7 kap. 24 § att vidta rättelse,
+6\. förbud enligt 7 kap. 26, 27, 28 eller 28 b § att bedriva verksamhet,
+7\. återkallelse enligt 7 kap. 26 eller 27 § av tillstånd enligt 2 kap. 4 §, eller
+8\. förbud att utöva verksamhet enligt 8 § första stycket.
 Andra beslut av Inspektionen för vård och omsorg enligt denna lag får
 inte överklagas.
 Prövningstillstånd krävs vid överklagande till kammarrätten.
@@ -23183,12 +23183,12 @@ i patientlagen (2014:821)
 
 Enligt 9 kap. 1 § hälso- och sjukvårdslagen (2017:30) ska patienter erbjudas
 en vårdgaranti. Den innebär att den enskilde inom viss tid ska få,
-1. kontakt med primärvården,
-2. en medicinsk bedömning av läkare eller annan legitimerad hälso- och
+1\. kontakt med primärvården,
+2\. en medicinsk bedömning av läkare eller annan legitimerad hälso- och
 sjukvårdspersonal inom primärvården,
-3. remiss till den specialiserad vården granskad,
-4. information om att en remiss till den specialiserad vården har mottagits,
-5. information om när en medicinsk bedömning i den specialiserade vården
+3\. remiss till den specialiserad vården granskad,
+4\. information om att en remiss till den specialiserad vården har mottagits,
+5\. information om när en medicinsk bedömning i den specialiserade vården
 ska ske,
 
 405
@@ -23197,9 +23197,9 @@ ska ske,
 
 Författningskommentar                      SOU 2026:38
 
-6. en medicinsk bedömning av läkare eller annan legitimerad hälso- och
+6\. en medicinsk bedömning av läkare eller annan legitimerad hälso- och
 sjukvårdspersonal inom den specialiserade vården, och
-7. planerad vård.
+7\. planerad vård.
 
 Paragrafen hänvisar till och redovisar innehållet i 9 kap. 1 § hälso-
 och sjukvårdslagen (2017:30), HSL, om att regionerna ska erbjuda
@@ -23541,16 +23541,16 @@ om hur ett sådant godkännande ska regleras internt.
 Regionen ska erbjuda vårdgaranti åt den som omfattas av regionens ansvar
 enligt 8 kap. 1 eller 2 §. Vårdgarantin innebär att den enskilde inom viss
 tid ska få
-1. kontakt med primärvården,
-2. en medicinsk bedömning av läkare eller annan legitimerad hälso- och
+1\. kontakt med primärvården,
+2\. en medicinsk bedömning av läkare eller annan legitimerad hälso- och
 sjukvårdspersonal inom primärvården,
-3. remiss till den specialiserade vården granskad,
-4. information om att en remiss till den specialiserade vård har mottagits,
-5. information om när en medicinsk bedömning i den specialiserade
+3\. remiss till den specialiserade vården granskad,
+4\. information om att en remiss till den specialiserade vård har mottagits,
+5\. information om när en medicinsk bedömning i den specialiserade
 vården ska ske,
-6. en medicinsk bedömning av läkare eller annan legitimerad hälso- och
+6\. en medicinsk bedömning av läkare eller annan legitimerad hälso- och
 sjukvårdspersonal inom den specialiserade vården, och
-7. planerad vård
+7\. planerad vård
 Hos en sådan utförare som avses i 7 kap. 3 a § första stycket gäller vård-
 garantin enligt första stycket 1 och 2 endast om den enskilde är listad hos
 utföraren.
@@ -23622,9 +23622,9 @@ hälso- och sjukvårdsförordningen (2017:80)
 
 Vårdgarantin enligt 9 kap. 1 § hälso- och sjukvårdslagen (2017:30) innebär,
 inom verksamhet som utgör primärvård, att den enskilde ska få
-1. kontakt med primärvården samma dag som den enskilde söker kontakt
+1\. kontakt med primärvården samma dag som den enskilde söker kontakt
 med primärvården (tillgänglighetsgaranti), och
-2. en medicinsk bedömning av läkare eller annan legitimerad hälso- och
+2\. en medicinsk bedömning av läkare eller annan legitimerad hälso- och
 sjukvårdspersonal inom primärvården inom tre dagar från det att den enskilde
 har sökt kontakt med primärvården, om vårdgivaren har bedömt att den
 enskilde behöver få en medicinsk bedömning och en sådan inte kan göras när
@@ -23641,11 +23641,11 @@ avsedd.
 
 Vårdgarantin enligt 9 kap. 1 § hälso- och sjukvårdslagen (2017:30) innebär,
 inom verksamhet som utgör specialiserad vård, att
-1. den vårdgivare som mottar en remiss inom tre arbetsdagar granskar
+1\. den vårdgivare som mottar en remiss inom tre arbetsdagar granskar
 remissen,
-2. den vårdgivare som mottar en remiss informerar patienten, inom tre
+2\. den vårdgivare som mottar en remiss informerar patienten, inom tre
 arbetsdagar, om att remissen har mottagits (informationsgaranti),
-3. patienten får information om när han eller hon ska få en medicinsk
+3\. patienten får information om när han eller hon ska få en medicinsk
 bedömning inom tio arbetsdagar från det att remissen har mottagits (infor-
 mationsgaranti),
 
@@ -23655,11 +23655,11 @@ mationsgaranti),
 
 Författningskommentar                      SOU 2026:38
 
-4. patienten får en medicinsk bedömning av läkare eller annan legitimerad
+4\. patienten får en medicinsk bedömning av läkare eller annan legitimerad
 hälso- och sjukvårdspersonal inom 30 dagar från det att remissen har mottagits
 i den specialiserade vården (bedömningsgaranti inom den specialiserade
 vården), och
-5. patienten får planerad vård inom 60 dagar från det att vårdgivaren har
+5\. patienten får planerad vård inom 60 dagar från det att vårdgivaren har
 beslutat att patienten ska få den aktuella vården. (garanti för planerad vård).
 Vad gäller verksamhet som utgör barn- och ungdomspsykiatri ska planerad
 vård ges inom 30 dagar
@@ -23871,7 +23871,7 @@ SLS önskar här framföra ett särskilt yttrande över betänkandet
 (SOU 2026:38). Det innehåller sex punkter med tillhörande
 anknytning till betänkandets kapitel.
 
-1. Den föreslagna nya vårdgarantins status i förhållande till
+1\. Den föreslagna nya vårdgarantins status i förhållande till
 prioriteringsplattformen (kap. 1, 3–8, 10, 13, 16)
 
 SLS menar att en konstruktion med garanterad vård inom en viss
@@ -23885,7 +23885,7 @@ måste framgå att normsystemet för prioriteringar (prioriteringsplatt-
 formen) är överordnat normsystemet för vårdgarantier, i händelse
 av konflikt dem emellan.
 
-2. Beskrivningen av risken för undanträngningseffekter
+2\. Beskrivningen av risken för undanträngningseffekter
 (kap. 4–8, 13)
 
 Undanträngningseffekter innebär att patienter med mindre medi-
@@ -23913,7 +23913,7 @@ SLS anser även att uteblivna eller försenade planerade uppfölj-
 ningar i form av återbesök riskerar att leda till att försämringar inte
 upptäcks med åtföljande konsekvenser för patientsäkerhet.
 
-3. Praktiska konsekvenser för patientflöden mellan olika
+3\. Praktiska konsekvenser för patientflöden mellan olika
 vårdgivare (kap. 7, 10, 13)
 
 Givet den föreslagna nya vårdgarantins utformning, kan förutses ett
@@ -23927,7 +23927,7 @@ i betänkandet. Detta i synnerhet som exempelvis Riksrevisionen
 konstaterat att vårdgarantier hittills inte varit långsiktigt effektiva
 för att korta väntetider.
 
-4. Valfrihet beträffande val av vårdgivare inom sluten vård
+4\. Valfrihet beträffande val av vårdgivare inom sluten vård
 (kap. 1, 9, 13, 16)
 
 Det är centralt att val av vårdgivare sker inom ramen för den ordi-
@@ -23955,7 +23955,7 @@ patientflöden, vårdplatsbrist och behov av specifik specialist-
 kompetens) i relation till möjligheten att välja utförare inom sluten
 vård skulle kunna bemästras.
 
-5. Allmänna synpunkter på effektivitet, kapacitet och
+5\. Allmänna synpunkter på effektivitet, kapacitet och
 beslutsfattande inom hälso- och sjukvården (kap. 3)
 
 SLS anser att det ur effektivitets- och kapacitetssynvinkel krävs
@@ -23970,7 +23970,7 @@ SLS anser även att det på klinisk beslutsnivå alltid kommer att
 krävas individuella bedömningar på basen av vetenskap och beprövad
 erfarenhet, samt tillämpning av genomtänkta etiska principer.
 
-6. Den använda begreppsapparaten i betänkandet (kap. 4–8, 13)
+6\. Den använda begreppsapparaten i betänkandet (kap. 4–8, 13)
 
 Det är centralt att en enhetlig nomenklatur, med tillhörande tydliga
 definitioner av nyckelbegrepp, tillämpas. I annat fall kan oklarheter
@@ -24112,7 +24112,7 @@ skap och kontroll.
 SOU 2022:22, Vägen till ökad tillgänglighet – delaktighet, tidiga in-
 satser och inom lagens ram.
 S 2024:A, Rättsliga förutsättningar för en nationell vårdförmedling,
-2025.
+2025\.
 
 427
 
@@ -24357,9 +24357,9 @@ kommelse mellan staten och Sveriges Kommuner och Landsting
 2015, 2015.
 Regeringen och SKL, En ny, uppdaterad kömiljard 2019. Överens-
 kommelse mellan staten och Sveriges Kommuner och Landsting,
-2019.
+2019\.
 Regeringen och SKR, Ökad tillgänglighet i hälso- och sjukvården
-2020. Överenskommelse mellan staten och Sveriges Kommuner
+2020\. Överenskommelse mellan staten och Sveriges Kommuner
 och Landsting, 2019.
 
 Regeringen och SKR, Insatser inom området psykisk hälsa och suicid-
@@ -24456,12 +24456,12 @@ Litteratur, utredningar och publikationer
 Anell, A., Värden i vården – en ESO-rapport om målbaserad ersättning
 i hälso- och sjukvården, rapport 2010:7, Regeringskansliet, 2010.
 Anell, A., Vården är värd en bättre styrning, SNS Förlag: Stockholm,
-2020.
+2020\.
 Autism Sverige, Hälso- och sjukvårdsrapport 2024, 2024.
 
 Barnombudsmannen. Årsrapport 2024. Hur dåligt måste man må
 egentligen? Samhällets insatser för att främja barns psykiska hälsa,
-2024.
+2024\.
 Dahlgren, G. och Whitehead, M., Policies and strategies to promote
 social equity in health, Institutet för framtidsstudier, 1991.
 Deeny, S., Gardner, T., Al-Zaidy, S., Barker, I., Steventon, A., Briefing:
@@ -24472,7 +24472,7 @@ Ekman, B. och Ellegård, LM., Digitaliseringen av svensk vård och om-
 sorg, SNS Förlag: Stockholm, 2023.
 Folkhälsomyndigheten, Varför har den psykiska ohälsan ökat bland
 barn och unga i Sverige? Utvecklingen under perioden 1985–2014,
-2018.
+2018\.
 Försäkringskassan, Planerad vård utomlands, 2017:4, 2017.
 
 Haggerty J., Reid R., Freeman G., Starfield, B., Adair C.,
@@ -24513,7 +24513,7 @@ conceptual framework, Health Res Policy Syst., 2019.
 Myndigheten för ungdoms- och civilsamhällesfrågor och Folkhälso-
 myndigheten, Att inte bara överleva, utan att faktiskt också leva –
 En kartläggning om ungas psykiska hälsa, Folkhälsomyndigheten,
-2023.
+2023\.
 Myndigheten för vårdanalys, Låt den rätte komma in – Hur har till-
 gängligheten påverkats av apoteksomregleringen, vårdvalet samt
 vårdgarantin och Kömiljarden?, rapport 2014:3, 2014.
@@ -24608,7 +24608,7 @@ Förfrågningsunderlag med förutsättningar för att bedriva primär-
 vård inom Region Örebro län, 2025.
 
 Region Östergötland, Vårdval primärvård Regelbok för auktorisation
-2026.
+2026\.
 Regionala cancercentrum i samverkan, Styrdokument – Riktlinjer för
 framtagande av standardiserade vårdförlopp inom cancersjukvården,
 version 2.0, 2020.
@@ -24747,7 +24747,7 @@ förmedling, 2025.
 Socialstyrelsen och E-hälsomyndigheten, Förslag till en nationell
 plan för nationell vårdförmedling, 2025.
 Socialstyrelsen, Förslag på ytterligare åtgärder för att korta vårdköerna,
-2025.
+2025\.
 
 Socialstyrelsen och E-hälsomyndigheten, Insatser som stödjer och
 stärker patienters möjlighet att få vård hos andra vårdgivare med
@@ -24909,7 +24909,7 @@ er/pong/statistiknyhet/halsorakenskaper-2024/,
 hämtad 2026-04-19.
 SCB, ”Köp från regioner i mnkr, löpande priser efter verksamhets-
 område och år”, https://www.statistikdatabasen.scb.se/pxweb/s
-v/ssd/START__OE__OE0107__OE0107D/ForsaljVerksamh/,
+v/ssd/START\_\_OE\_\_OE0107\_\_OE0107D/ForsaljVerksamh/,
 hämtad 2026-03-10.
 SKR, ”Utökad uppföljning av specialiserad vård”,
 https://extra.skr.se/vantetiderivarden/vantetidsstatistik/utokad
@@ -25008,12 +25008,12 @@ Region Sörmland, Statistikpaket DVG 2025, 2026.
 SKR, Meddelande från styrelsen – Patientavgifter vid digitala vård-
 möten, 2018.
 SKR, Meddelande från styrelsen – Utvecklingen av digitala vårdtjänster,
-2019.
+2019\.
 
 SKR, PM för arbetssätt för uppföljning av återbesök i specialiserad
 vård kopplat till rapportering av tillgänglighet till SKR, 2023-11-17.
 SKR, Riksavtal för utomlänsvård, med giltighet fr.om 1 september 2025,
-2025.
+2025\.
 SKR, Hur får regionerna använda andra regioners avtal och LOU,
 utformning av kontrakt. Svarar riksavtalet på det? presentation
 SKR, 2025.
@@ -26018,7 +26018,7 @@ Bilaga 3                                   SOU 2026:38
 
 Av figur 2.1 nedan framgår andelen patienter i regionerna som
 hade väntat mer än 90 dagar på en operation eller åtgärd i augusti
-2024.
+2024\.
 Figur 2.1 Andel patienter i regionerna som hade väntat mer än 90 dagar
 på en operation eller åtgärd i augusti 2024
 
@@ -27544,7 +27544,7 @@ Queues, Patient Health, and Labor Supply, American Economic
 Journal: Economic Policy, 16 (2): 150–81, 2024.
 Myndigheten för vård- och omsorgsanalys, Styra mot horisonten -
 Om vård efter behov som grund för horisontella prioriteringar,
-2020.
+2020\.
 Nationella Kataraktregistret, Svensk Kataraktkirurgi Årsrapport
 2023 baserad på data från Nationella Kataraktregistret, 2023.
 Nationella kvalitetsregistret inom gynekologisk kirurgi,
@@ -27569,7 +27569,7 @@ offentliga vårdgivares kostnader – för höft- och
 knäprotesoperationer, operationer av grå starr och
 framfallsoperationer - Rapport till Vårdföretagarna, 2024.
 Socialstyrelsen, Kapaciteten i sjukvården – att hantera kritiska lägen,
-2018.
+2018\.
 Socialstyrelsen, Vård som inte bör göras - Följsamheten till nationella
 riktlinjer, 2023.
 Socialstyrelsen, Stöd till regioner för produktions- och
@@ -27592,7 +27592,7 @@ Tidöavtalet: Överenskommelse för Sverige, avtal mellan
 Sverigedemokraterna, Moderaterna, Kristdemokraterna och
 Liberalerna.
 Upphandlingsmyndigheten, Årsredovisning 2023, UHM-2023-
-0149.
+0149\.
 Vårdföretagarna, Nationellt initiativ för verkställd vårdgaranti – En
 nationell insats för att ta ansvar för patienter – i hela landet. Så
 kan vårdgarantin bli en realitet och vårdköerna kortas.
@@ -27736,7 +27736,7 @@ beloppet per operation. Enligt Nationella kvalitetsregistret inom gynekologisk k
 avseende prolapsoperationer utförda 2023 tillhörde 94 procent av patienterna ASA 1–2. Enligt Svenska
 Ledprotesregistret årsrapport 2024 tillhörde cirka 81 procent av patienterna som genomgick operation
 av elektiv primär total höftprotes ASA 1–2.
-* Beräkning på kostnadssnitt för främre och bakre kolporafi (34 900 kr).
+\* Beräkning på kostnadssnitt för främre och bakre kolporafi (34 900 kr).
 Risk för att regionerna minskar sina egna resurser
 Utredningens förslag är att varje region tilldelas en andel av
 totalsumman på 314 (284+30) miljoner kronor. Från varje regions
@@ -27755,7 +27755,7 @@ antalet operationer måste öka för att regionerna ska få del av medel,
 |  | Snittkostnad<br>operation<br>offentlig<br>vårdgivare | Antal väntande i<br>genomsnitt per<br>månad aug<br>2023 - aug<br>2024 | Summa<br>kostnader<br>operationer | Resekostnader |
 | --- | --- | --- | --- | --- |
 | Operation av<br>höftledsprotes | 104 167 kr | 1 700 | 177 083 900 kr | 6 800 000 kr |
-| Operation av<br>framfall* | Främre<br>kolporafi<br>32 914 kr<br>Bakre kolporafi<br>36 887 kr | 1 200 | 41 880 000 kr | 4 800 000 kr |
+| Operation av<br>framfall\* | Främre<br>kolporafi<br>32 914 kr<br>Bakre kolporafi<br>36 887 kr | 1 200 | 41 880 000 kr | 4 800 000 kr |
 | Operation av<br>grå starr | Ensidig<br>operation av<br>grå starr<br>14 395 kr | 4 500 | 64 777 500 kr | 18 000 000 kr |
 | Kostnader |  |  | 283 741 400 kr | 29 600 000 kr |
 | Totalt belopp<br>313 341 400 kr |  |  |  |  |
@@ -27831,19 +27831,19 @@ kapitel 2 finns bestämmelser i patientlagen om skyldigheten för
 regionerna att informera om vårdgarantin. Vårdgarantin är uppdelad
 på olika vårdinsatser och innebär en försäkran om att den enskilde
 ska få
-1. kontakt med primärvården samma dag som den enskilde söker
+1\. kontakt med primärvården samma dag som den enskilde söker
 kontakt med primärvården (tillgänglighetsgaranti),
-2. en medicinsk bedömning av läkare eller annan legitimerad hälso-
+2\. en medicinsk bedömning av läkare eller annan legitimerad hälso-
 och sjukvårdspersonal inom primärvården inom tre dagar från det
 att den enskilde har sökt kontakt med primärvården, om
 vårdgivaren har bedömt att den enskilde behöver få en medicinsk
 bedömning och en sådan inte kan göras när den enskilde först
 söker kontakt (bedömningsgaranti inom primärvården),
-3. besöka den specialiserade vården inom 90 dagar från det att
+3\. besöka den specialiserade vården inom 90 dagar från det att
 remiss har utfärdats eller, om någon remiss inte är nödvändig,
 från det att den enskilde har sökt kontakt med den specialiserade
 vården (besöksgaranti inom den specialiserade vården), och
-4. planerad vård inom 90 dagar från det att vårdgivaren har beslutat
+4\. planerad vård inom 90 dagar från det att vårdgivaren har beslutat
 att den enskilde ska få den aktuella vården (behandlingsgaranti).69
 67F
 
@@ -27859,67 +27859,67 @@ Statens offentliga utredningar  2026
 
 Kronologisk förteckning
 
-1. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
+1\. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
 utveckling – ett nytt incitament baserat av kapacitet, redundans och svenskt-
 på utgifter för FoU-personal. Fi. danskt samarbete. LI.
-2. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
-3. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
+2\. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
+3\. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
 A.                     – förslag för att motverka
-4. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
+4\. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
 ett pedagogiskt ledarskap. U. 20. Belägg för broms? Åtgärder
-5. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
+5\. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
 m.m. Fi.               kommunalskattesatser. Fi.
-6. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
+6\. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
 hälso- och sjukvården. Styrning med Ju.
 tydliga roller och ansvar för aktörerna. 22. Stärkt läkemedelsförsörjning
 S.                     i samverkan. Nationella åtgärder för
-7. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
+7\. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
 av folkhälsopolitiken. vid brist. S.
 Del I: Effektivare folkhälsoinsatser 23. Tolkavgift och förbud
 genom hälsoekonomiska analyser. mot barntolkning. A.
 Del II: Utvärdering av alkohol- 24. Mervärdesskatt vid uthyrning
 politikens styrmedel. S. och överlåtelse av fastighet. Fi.
-8. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
+8\. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
 unga. S.
-26. Digitala verktyg inom bolagsrätten.
-9. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
-10. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
+26\. Digitala verktyg inom bolagsrätten.
+9\. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
+10\. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
 brottsbekämpning. Del 1 och 2. Ju. rätten. Ju.
-11. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
+11\. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
 verksamhet och tillgångar till Tredje rapportering. Ju.
 och Fjärde AP-fonderna. Fi. 28. Tillgång till passageraruppgifter
-12. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
+12\. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
 verksamhet och tillgångar till Andra 29. Förbud mot uppfödning av djur
 AP-fonden. Fi.         för pälsproduktion. LI.
-13. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
+13\. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
 med kriminella sammanslutningar. Ju. häktning och fängelsestraff. Ju.
-14. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
+14\. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
 rad reglering av handel med ädelmetall-
-32. Att säga ja! Kommunernas förutsätt-
+32\. Att säga ja! Kommunernas förutsätt-
 arbeten. KN.
 ningar att ta emot stora företagsetable-
-15. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
+15\. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
 Konsekvenser för samer av svensk
-33. Vägen mot utfasning. Styrmedel för
+33\. Vägen mot utfasning. Styrmedel för
 politik. Volym 1 och 2. Ku.
 ett fossilfritt samhälle. KN.
-16. Försvarsexportinitiativ. För gemensam
+16\. Försvarsexportinitiativ. För gemensam
 säkerhet. Fö.
 
 <!-- sida 634 -->
 
-34. Nya nätbrott och andra åtgärder för
+34\. Nya nätbrott och andra åtgärder för
 genomförandet av direktivet om
 bekämpning av våld mot kvinnor och
 våld i nära relationer. Volym 1 & 2. Ju.
-35. En åldersgräns för barns tillgång
+35\. En åldersgräns för barns tillgång
 till sociala medier. S.
-36. Bättre förutsättningar att inkludera
+36\. Bättre förutsättningar att inkludera
 personer med nedsatt beslutsförmåga
 i medicinsk forskning. S.
-37. Förutsättningar för en likvärdig och
+37\. Förutsättningar för en likvärdig och
 språkutvecklande förskola. U.
-38. Behovsstyrd vård. S.
+38\. Behovsstyrd vård. S.
 
 <!-- sida 635 -->
 
@@ -28104,12 +28104,12 @@ Beslut
 Regionstyrelsens arbetsutskott föreslår regionstyrelsen föreslå regionfullmäktige
 beslutar följande:
 
-1. Regionfullmäktige godkänner upprättat förslag till reviderat samverkansavtal för
+1\. Regionfullmäktige godkänner upprättat förslag till reviderat samverkansavtal för
 
 den gemensamma Patientnämnden mellan Region Halland och kommunerna i
 Halland.
 
-2. Beslutet gäller under förutsättning att respektive kommun i Halland godkänner
+2\. Beslutet gäller under förutsättning att respektive kommun i Halland godkänner
 avtalet.
 
 Ärendet
@@ -28163,11 +28163,11 @@ Regionstyrelsens arbetsutskott föreslår regionstyrelsen föreslå
 
 regionfullmäktige beslutar följande:
 
-1. Regionfullmäktige godkänner upprättat förslag till reviderat
+1\. Regionfullmäktige godkänner upprättat förslag till reviderat
 samverkansavtal för den gemensamma Patientnämnden mellan
 Region Halland och kommunerna i Halland.
 
-2. Beslutet gäller under förutsättning att respektive kommun i Halland
+2\. Beslutet gäller under förutsättning att respektive kommun i Halland
 godkänner avtalet.
 
 Sammanfattning
@@ -28625,7 +28625,7 @@ vilka förutsättningar som gäller.
 
 Kommunfullmäktige beslutar att:
 
-- ge kommunstyrelsen i uppdrag att utreda, eventuellt utifrån det pågående projektet med
+\- ge kommunstyrelsen i uppdrag att utreda, eventuellt utifrån det pågående projektet med
 prislappsmodellen, hur den ekonomiska kompensationen för drift av vård- och
 omsorgsboendeverksamheten kan förbättras så att nya vård- och omsorgsboendeverksamheter tilldelas
 en öronmärkt budget vid start av verksamheten.
@@ -29075,11 +29075,11 @@ Efter att beslut tagits i er kommun, expediera beslutet till regionen@regionhall
 
 Bilagor
 
--  Utkast beslutsförslag Överenskommelse om samverkan vid utskrivning från sluten
+\-  Utkast beslutsförslag Överenskommelse om samverkan vid utskrivning från sluten
 hälso- och sjukvård i Halland 2027.
--  Överenskommelse om samverkan vid utskrivning från sluten hälso- och sjukvård i
+\-  Överenskommelse om samverkan vid utskrivning från sluten hälso- och sjukvård i
 Halland 2027.
--  Presentation Överenskommelse – till stöd inför er politiska process.
+\-  Presentation Överenskommelse – till stöd inför er politiska process.
 
 Med vänlig hälsning
 
@@ -29184,9 +29184,9 @@ Bilaga 8: Behovsbeskrivning Verksamhetslokal för Hemtjänst och Hemsjukvård i 
 Bilaga 9: Behovsbeskrivning Verksamhetslokal för Hemtjänst och Hemsjukvård i Åsa (Aktualisering
 
 Beslutet skickas till
--  Service Lokalförsörjning
+\-  Service Lokalförsörjning
 
--  Kommunstyrelsen
+\-  Kommunstyrelsen
 
 Arian Faily                        Ann-Helen Svensson
 
@@ -29338,7 +29338,7 @@ behöver fatta beslut om utbyggnad i god tid för att säkerställa tillräcklig
 
 2.2 Nämndens uppdrag och ansvar
 
-Nämnden för Vård och Omsorg har, enligt reglemente fastställt av kommunfullmäktige (KF $ 8,
+Nämnden för Vård och Omsorg har, enligt reglemente fastställt av kommunfullmäktige (KF \$ 8,
 2023-02-07), ett övergripande ansvar att tillhandahålla service och omsorg i enlighet med gällande
 lagar och riktlinjer. Detta innebär att nämnden ska:
 
@@ -29521,7 +29521,7 @@ Den samlade effekten av utvecklingen är att:
 
 e Fler äldre lever längre och har behov av insatser under en längre tidsperiod.
 
-+ Antalet biståndsbeslut om särskilt boende och andra omsorgsinsatser förväntas öka.
+\+ Antalet biståndsbeslut om särskilt boende och andra omsorgsinsatser förväntas öka.
 
 «  Belastningen på hela omsorgskedjan ökar, från hemtjänst och hemsjukvård till slutenvård
 och stöd till anhöriga.
@@ -29758,7 +29758,7 @@ at
 behov | 842 876 900 922 934 945 959 968 980 990 1003
 (platse
 
-1)
+1\)
 
 Tillgän
 gliga 786 786 786 786 786 786 786 786 786 786 786
@@ -29817,9 +29817,9 @@ på 50
 pers
 
 6 40 64 86 98 109 123 132 144 154 167
-- Unde
+\- Unde
 rskott/
-+ över
+\+ över
 skott
 
 Tabell 2: Utfall vid planerad kö (50 personer)
@@ -30511,7 +30511,7 @@ Kommunfullmäktige har i gällande årsbudget inte prioriterat följande lokalbe
 Nämnden för Vård & Omsorg bedömer att behovsbeskrivningarna fortsatt är aktuella och relevanta,
 och att lokalbehoven kvarstår oförändrade.
 
-+  Verksamhetslokal för Hemtjänst och Hemsjukvård i Centrum med tillhörande
+\+  Verksamhetslokal för Hemtjänst och Hemsjukvård i Centrum med tillhörande
 parkeringsplatser med laddstolpar för tjänstebilar.
 
 e  Verksamhetslokal för Hemtjänst och Hemsjukvård i Anneberg med tillhörande
@@ -30610,7 +30610,7 @@ Kungsbacka kommun Lokal- och avtalsöversikt 3 (12)
 
 <!-- sida 692 -->
 
-2. Adresser verksamhetslokaler
+2\. Adresser verksamhetslokaler
 
 2.1 Vård- och omsorgsboende
 
@@ -30838,7 +30838,7 @@ Förflyttningsutbildning | Signes väg 1991 Eksta Egenregi
 och Lågaffektivt 17,434 32 Renoverat,
 bemötande. Kungsbacka | ombyggt 2026
 Signeshus
-3. Avtalstider Hyreskontrakt
+3\. Avtalstider Hyreskontrakt
 3.1 Vård- och omsorgsboende
 Vård- och Avtalstid Senast Förlängningstid | Kommentar
 omsorgsboende uppsägning
@@ -30922,7 +30922,7 @@ uppdateras i
 systemet vid
 avtalsstart april
 och september
-2026.
+2026\.
 3.6 Hemsjukvård
 Hemsjukvård Avtalstid Senast Förlängningstid | Kommentar
 uppsägning
@@ -30982,7 +30982,7 @@ uppdateras i
 systemet vid
 avtalsstart
 april/september
-2026.
+2026\.
 
 Syrengatan 1 Avveckling av
 Syrengatan 1 i
@@ -31973,7 +31973,7 @@ NYKO 1 centralt i Kungsbacka (6)
 irtskär
 
 ES
-$ /
+\$ /
 
 Förvaltningschef Vård & Omsorg
 Arian Faily
@@ -32045,7 +32045,7 @@ I dagsläget är platser för dagomsorg integrerade på följande vård- och oms
 
 oe Åsa vård- och omsorgsboende
 
-- Korallen
+\- Korallen
 
 .  Måhaga vård- och omsorgsboende i Fjärås — två separata lokaler — Källarbacken och Linden
 .  Sandlyckans vård- och omsorgsboende - Solliden
@@ -32268,7 +32268,7 @@ Verksamhetsutveckling vård- och aktiviteter för od: . -
 | särskilt boende, vilket stärker
 omsorgsboenden boende . |
 kvaliteten i omsorgen.
-- Höore Vård & Omsorg får ökade kostnader
+\- Höore Vård & Omsorg får ökade kostnader
 . Ökade e . för verksamhetslokaler, vilket
 Ekonomi driftkostnader för a .
 hyreskostnader behöver hanteras inom budget eller
@@ -32590,14 +32590,14 @@ intentioner.
 Övergång från geografiskt
 uppdelad verksamhet till
 
-- gemensam central lokal kräver
+\- gemensam central lokal kräver
 ökad samordning mellan enheter
 och funktioner.
 
 Samordning behövs mellan enheter
 kring aktivitetsplanering,
 
-- hjälpmedel och miljöanpassning
+\- hjälpmedel och miljöanpassning
 utifrån individens behov och
 funktionsnivå.
 
@@ -32607,7 +32607,7 @@ kommunikation behöver utvecklas
 och samordnas.
 
 Samordning av transporter (t.ex.
-- taxi) krävs när deltagarna inte
+\- taxi) krävs när deltagarna inte
 längre är bundna till geografisk
 
 <!-- sida 725 -->
@@ -32738,25 +32738,25 @@ arbetssätt för tillgänglig personal.
 
 VAD ÄR DEN FÖRVÄNTANDE NYTTAN?
 
-- Skapa en robusthet i samhällsfunktioner i området kring Anneberg som tillhör
+\- Skapa en robusthet i samhällsfunktioner i området kring Anneberg som tillhör
 förvaltningens distrikt Centrum.
 
-- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp nuvarande
+\- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp nuvarande
 hemtjänstgrupp i Åsa, alternativt för att skapa ytterligare en verksamhetslokal för
 Hemtjänst i området.
 
-- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
+\- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
 medarbetare inom hemsjukvård i Åsa, alternativt för att skapa ytterligare en
 verksamhetslokal för Hemsjukvård i området.
 
-- Vård & Omsorg har en verksamhetslokal med närliggande tjänstebilsparkering
+\- Vård & Omsorg har en verksamhetslokal med närliggande tjänstebilsparkering
 dimensionerad för verksamhetens behov med tillhörande laddstolpar.
 
-- - Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
+\- - Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
 parkera sina privata bilar i närområdet. Skapar bättre förutsättning för Vård & Omsorg
 att rekrytera personal.
 
-- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
+\- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
 
 Koppling till Vision 2030 och mål
 
@@ -33028,10 +33028,10 @@ i P hantering av ren tvätt. Hyllor
 för förvaring av ren tvätt och
 tvättmedel.
 Tloltöntramms— sons Separat utrymme för förvaring
-- 1 st av smutsig tvätt/vagn med
+\- 1 st av smutsig tvätt/vagn med
 tvätt 4
 säck.
-- a. Tvättmaskin, torktumlare samt
+\- a. Tvättmaskin, torktumlare samt
 fvättatrnmme Jokalvä (Lat förråd för lokalvårdens behov
 Teknik och Skrivare 1 Gemensam tillgång
 utrustning
@@ -33058,7 +33058,7 @@ Fordon — Tjänstebilsparkering «65 st verksamhetslokal
 Laddinfrastruktur (tjänstebilar) o5st till verksamhetslokalen
 Cykelförråd / säkra För tjänstecyklar, med
 Cyklar cykelställ 40 st möjlighet att ladda elcykel
-- För personal som cyklar till
+\- För personal som cyklar till
 Cyklar — personal Cykelställ 20 st arbetet
 ÖVRIGT
 Behovsbeskrivning - Övrigt
@@ -33107,7 +33107,7 @@ TIDPLAN
 i kommunbudeget).
 
 Vid aktualisering av lokalbehovet bedömer Vård och Omsorg att behov av lokaler kvarstår år
-2029.
+2029\.
 
 KRAV AV GEOGRAFISK LOKALISERING AV VERKSAMHETEN (JA/NEJ)
 Ja, NYKO 6 (Åsa).
@@ -33203,23 +33203,23 @@ förändrade arbetssätt för tillgänglig personal.
 
 VAD ÄR DEN FÖRVÄNTANDE NYTTAN?
 
-- — Skapa en robusthet i samhällsfunktioner i området kring Anneberg och Älvsåker som
+\- — Skapa en robusthet i samhällsfunktioner i området kring Anneberg och Älvsåker som
 tillhör förvaltningens distrikt Centrum.
 
-- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
+\- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
 medarbetare inom Hemtjänst i Anneberg/Alvsåker.
 
-- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
+\- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
 medarbetare inom hemsjukvård i Anneberg/Älvsåker.
 
-- Vård & Omsorg har en verksamhetslokal med närliggande tjänstebilsparkering
+\- Vård & Omsorg har en verksamhetslokal med närliggande tjänstebilsparkering
 dimensionerad för verksamhetens behov med tillhörande laddstolpar.
 
-- - Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
+\- - Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
 parkera sina privata bilar i närområdet. Skapar bättre förutsättning för Vård & Omsorg
 att rekrytera personal.
 
-- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
+\- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
 
 Koppling till Vision 2030 och mål
 
@@ -33483,7 +33483,7 @@ värdesaker, som i stadshuset.
 
 I st För jackor och skor
 
-- Säker förvaring
+\- Säker förvaring
 Hygienartiklar,
 
 1 st skyddsutrustning,
@@ -33624,7 +33624,7 @@ kommunbudget.
 
 Vid aktualisering av lokalbehovet bedömer Vård och Omsorg att behov av lokaler kvarstår år
 
-2029.
+2029\.
 
 NI
 
@@ -33633,7 +33633,7 @@ NI
 KRAV AV GEOGRAFISK LOKALISERING AV VERKSAMHETEN (JA/NEJ)
 JA (NYKO 8)
 
-> Donsö
+\> Donsö
 
 bod
 irtskär
@@ -33715,23 +33715,23 @@ eventuellt förändrade arbetssätt för tillgänglig personal.
 
 VAD ÄR DEN FÖRVÄNTANDE NYTTAN?
 
-- Skapa en robusthet i samhällsfunktioner i området kring Kungsbacka centrum som
+\- Skapa en robusthet i samhällsfunktioner i området kring Kungsbacka centrum som
 tillhör förvaltningens distrikt Centrum.
 
-- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka
+\- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka
 antalet medarbetare inom Hemtjänst i centrala Kungsbacka.
 
-- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
+\- Att den lokalyta som krävs finns tillgänglig för att kunna bemanna upp och utöka antal
 medarbetare inom hemsjukvård i centrala Kungsbacka.
 
-- Vård & Omsorg har en verksamhetslokal med närliggande tjänstebilsparkering
+\- Vård & Omsorg har en verksamhetslokal med närliggande tjänstebilsparkering
 dimensionerad för verksamhetens behov med tillhörande laddstolpar.
 
-- - Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
+\- - Medarbetare ska kunna ta sig till och från sin arbetsplats och ha förutsättning att
 parkera sina privata bilar i närområdet. Skapar bättre förutsättning för Vård & Omsorg
 att rekrytera personal.
 
-- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
+\- Kungsbacka kommun uppfyller sitt mål om att vara en attraktiv arbetsgivare.
 
 Koppling till Vision 2030 och mål
 
@@ -34094,7 +34094,7 @@ Fordon — Tjänstebilsparkering 65 st verksamhetslokal
 Laddinfrastruktur (tjänstebilar) O5st till verksamhetslokalen
 Cykelförråd / säkra För tjänstecyklar, med
 Cyklar cykelställ 40 st möjlighet att ladda elcykel
-- För personal som cyklar till
+\- För personal som cyklar till
 Cyklar — personal Cykelställ 50 st arbetet
 ÖVRIGT
 Behovsbeskrivning — Övrigt
@@ -34145,7 +34145,7 @@ TIDPLAN
 prioriterades inte i kommunbudget).
 
 Vid aktualisering av lokalbehovet bedömer Vård och Omsorg att behov av lokaler kvarstår år
-2029.
+2029\.
 
 KRAV AV GEOGRAFISK LOKALISERING AV VERKSAMHETEN (JA/NEJ)
 Ja, NYKO 1 (Kungsbacka centrum).
@@ -34159,11 +34159,11 @@ WP
 
 Bredvidgång                            i   verksamheten
 
--    förslag                till      genomförande
+\-    förslag                till      genomförande
 
 <!-- sida 752 -->
 
-1.   Uppdraget
+1\.   Uppdraget
 
 
 Nämndens          beslut     i juli
@@ -34177,7 +34177,7 @@ Syfte:     nämnden         ska    komma        närmare       verksamhetens    
 
 <!-- sida 753 -->
 
-2.    Vad       bredvidgången                         är    –    och        inte       är
+2\.    Vad       bredvidgången                         är    –    och        inte       är
 
 
 Vardag      –  inte    uppvisning
@@ -34198,7 +34198,7 @@ Omsorgstagarens              integritet      går   först
 
 <!-- sida 754 -->
 
-3.    Grundprinciper
+3\.    Grundprinciper
 
 
 Omsorgstagarens              integritet      går   först
@@ -34216,7 +34216,7 @@ Inga    journaler,      system       eller   personakter
 
 <!-- sida 755 -->
 
-4.    Föreslaget                 upplägg
+4\.    Föreslaget                 upplägg
 
 
 Vecka     41:   vård-     och    omsorgsboende
@@ -34232,7 +34232,7 @@ Vecka     44:    hemtjänst
 
 <!-- sida 756 -->
 
-5.   Verksamheter                         som        ingår
+5\.   Verksamheter                         som        ingår
 
 
 Våbo:     Björkris,     Signeshus,         Måhaga,       Smedjans         kortstidsboende
@@ -34248,7 +34248,7 @@ HSV:    HSV     IF,  HSV     Söder      och    HSV     Jour
 
 <!-- sida 757 -->
 
-6.    Hur       deltagarna                  fördelas
+6\.    Hur       deltagarna                  fördelas
 
 
 Fem     grupper       med     cirka    5–6    personer
@@ -34265,7 +34265,7 @@ FLK    genomförs         i grupp
 
 <!-- sida 758 -->
 
-7.    Förberedelser
+7\.    Förberedelser
 
 
 Berörda       verksamheter           informeras
@@ -34279,7 +34279,7 @@ Verksamheten            förbereder         mottagande,          arbetskläder  
 
 <!-- sida 759 -->
 
-8.    Uppföljning                  och        utvärdering
+8\.    Uppföljning                  och        utvärdering
 
 
 Varje    deltagare       dokumenterar             sina   reflektioner
@@ -34298,11 +34298,11 @@ verksamhetsförändringar
 
 Dialogträffar                           för        presidiet
 
--    förslag                till      genomförande
+\-    förslag                till      genomförande
 
 <!-- sida 761 -->
 
-1.   Uppdraget
+1\.   Uppdraget
 
 
 Nämndens          beslut     22   juli  2026
@@ -34316,7 +34316,7 @@ Samtliga       fem    distrikt      ska   vara    representerade
 
 <!-- sida 762 -->
 
-2.    Syfte
+2\.    Syfte
 
 
 Ge   presidiet      direkt     dialog     med     verksamheten
@@ -34330,7 +34330,7 @@ Skapa      utrymme         för  olika    perspektiv
 
 <!-- sida 763 -->
 
-3.    Förutsättningar                         för     dialogen
+3\.    Förutsättningar                         för     dialogen
 
 
 Dialog     mellan      inbjudna       deltagare       och    presidiet
@@ -34346,7 +34346,7 @@ Utrymme         finns    för   egna     frågor    och    perspektiv
 
 <!-- sida 764 -->
 
-4.    Dialogträffar                    med         medarbetare
+4\.    Dialogträffar                    med         medarbetare
 
 
 Tre   träffar:
@@ -34366,7 +34366,7 @@ Totalt    tio   medarbetare           per   träff
 
 <!-- sida 765 -->
 
-5.   Urval          av     medarbetare
+5\.   Urval          av     medarbetare
 
 
 Urval    i dialog     mellan      EC    och    medarbetare
@@ -34379,7 +34379,7 @@ Erfarenhet        av   förvaltningsövergripande                 frågor     ka
 
 <!-- sida 766 -->
 
-6.    Dialogträff                 med         enhetschefer
+6\.    Dialogträff                 med         enhetschefer
 
 
 En   gemensam           träff   med     enhetschefer
@@ -34395,7 +34395,7 @@ VC   samordnar          urvalet
 
 <!-- sida 767 -->
 
-7.    Upplägg              för      träffarna
+7\.    Upplägg              för      träffarna
 
 
 120   minuter       (2  timmar)
@@ -34413,7 +34413,7 @@ Moderatorer          leder    samtalet
 
 <!-- sida 768 -->
 
-8.    Gemensamma                          dialogfrågor
+8\.    Gemensamma                          dialogfrågor
 
 
 Vad    fungerar       bra   i er   vardag?
@@ -34429,7 +34429,7 @@ Vad    behöver       nämnden         känna      till?
 
 <!-- sida 769 -->
 
-9.    Dokumentation                          och       återkoppling
+9\.    Dokumentation                          och       återkoppling
 
 
 Moderatorer          dokumenterar            övergripande          teman
@@ -34445,7 +34445,7 @@ Deltagarna        informeras         om    hur    återkoppling         sker
 
 <!-- sida 770 -->
 
-10.     Tidsplan              och        praktiskt
+10\.     Tidsplan              och        praktiskt
 
 
 Genomförande             vecka:     46-47      (efter    bredvidgången            vecka     41–44)

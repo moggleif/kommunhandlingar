@@ -710,9 +710,9 @@ Stigert Pettersson, förvaltningschef redovisar ärendet innehållandes informat
 •  Lägesrapport – Jul/Nyår – lugnt i verksamheten under ledigheten.
 
 •  Arbetsutskottets verksamhetsbesök våren och hösten 2026:
--  Kapareskolan
--  Kollaskolan/Varlaskolan
--  HT 26 - förskolan
+\-  Kapareskolan
+\-  Kollaskolan/Varlaskolan
+\-  HT 26 - förskolan
 
 •  Växjökonferensen 21-22 januari, arbetsutskottet deltar.
 

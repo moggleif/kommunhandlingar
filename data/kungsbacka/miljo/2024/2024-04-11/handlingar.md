@@ -51,15 +51,15 @@ Sammanfattning av ärendet
 Utredningen föreslår att miljöbalkens regler gällande strandskydd ändras. Ändringar
 som föreslås i utredningen är att:
 
-- Vattenbruk ska omfattas av undantagen från strandskyddsbestämmelserna.
-- De förvärvsnäringar som omfattas av undantagen ska bedrivas varaktigt antingen
+\- Vattenbruk ska omfattas av undantagen från strandskyddsbestämmelserna.
+\- De förvärvsnäringar som omfattas av undantagen ska bedrivas varaktigt antingen
 som huvud- eller bisyssla.
-- Byggnader, anläggningar, anordningar eller åtgärder (ej bostadsändamål) som
+\- Byggnader, anläggningar, anordningar eller åtgärder (ej bostadsändamål) som
 behövs för jordbruk, fiske, vattenbruk, skogsbruk eller renskötsel skulle kunna
 undantas om de för sin funktion eller för att uppnå ett funktionellt samband och att
 
 dessa finns eller vidtas inom strandskyddsområdet.
-- Ett ytterligare särskilt skäl för dispens från strandskyddet föreslås också för
+\- Ett ytterligare särskilt skäl för dispens från strandskyddet föreslås också för
 byggnad, anläggning, anordning eller åtgärd (ej för bostadsändamål) om den
 behövs för en småskalig förvärvsverksamhet som bedrivs varaktigt på landsbygden.
 Det strandnära läget ska i detta fall innebära en fördel för byggnadens,
@@ -67,7 +67,7 @@ anläggningens, anordningens eller åtgärdens funktion och samma funktionella f
 ska inte kunna uppnås utanför området.
 
 Ändringarna av miljöbalkens strandskyddsregler förslås träda ikraft 1 september
-2025.
+2025\.
 Vidare föreslår utredningen att en vägledning om tillämpningen av
 
 undantagsbestämmelsen tas fram av ansvarig myndighet. I detta fall är det
@@ -464,7 +464,7 @@ i kommunstyrelse och kommunfullmäktige avseende ny styrmodell kan innebära att
 revideras. Strategin omfattar hela förvaltningens verksamhet och är nämndens kompass för att
 
 säkerställa att verksamheten håller rätt riktning och kurs för att uppnå kommunens vision “Vision 2030
-- I Kungsbacka växer framtiden”, samt bidra till de globala hållbarhetsmålen i Agenda 2030. Strategin
+\- I Kungsbacka växer framtiden”, samt bidra till de globala hållbarhetsmålen i Agenda 2030. Strategin
 klargör vad som förväntas av förvaltningen under perioden 2024-2027. Nämnden för Miljö &
 Hälsoskydd har en antagen nämndbudget för 2024 för det som är nämndens egna kostnader för
 arvoden, utbildning etc.
@@ -680,7 +680,7 @@ kommunens arbete. Styrmodellen ska säkerställa att kommunen når
 politiska mål, att skattemedel används på bästa sätt och att kommunen
 levererar kvalitativa tjänster till alla som bor verkar och vistas i kommunen.
 Uppdraget har organiserats i projektform och pågår till och med 2024-04-
-30. Byggnadsnämnden och nämnden för Miljö & Hälsoskydd har utsetts till
+30\. Byggnadsnämnden och nämnden för Miljö & Hälsoskydd har utsetts till
 pilotnämnder och bygg- och miljöförvaltningen till pilotförvaltning i
 projektet med målet att kunna ta fram en så kallad prototyp för det som
 förväntas kunna ersätta nuvarande styrdokument nämndbudget. Som en
@@ -1114,7 +1114,7 @@ Kungsbacka kommun        Strategi 2024–2027, Byggnadsnämnden   14 (17)
 
 Genom att 'Nyttja data och geodata smartare’ och 'Utveckla framtidens
 tillsyn' bidrar vi till förbättrad infrastruktur och stöd för innovation. (nytta
-#2: Snabbare till lösning och nytta #3: Förutsägbarhet och förtroende).
+\#2: Snabbare till lösning och nytta #3: Förutsägbarhet och förtroende).
 Genom att 'Nyttja data och geodata smartare’ bidrar vi till stöd för
 
 innovation och hållbar industriell utveckling och infrastruktur (nytta #5:
@@ -1129,7 +1129,7 @@ samhällen inkluderande, säkra, motståndskraftiga och hållbara.
 Genom att 'Arbeta i en sammanhållen samhällsbyggnadsprocess’ och
 'Utveckla tjänster utifrån användares behov' bidrar vi till mer hållbara
 städer genom förbättrad service och deltagande i samhällsplanering. (nytta
-#2: Snabbare till lösning och nytta #3: Förutsägbarhet och förtroende)
+\#2: Snabbare till lösning och nytta #3: Förutsägbarhet och förtroende)
 
 Genom att 'Utveckla tjänster utifrån användares behov' bidrar vi till
 hållbarhet i städer. (nytta #4: Relevant och i framkant och nytta #5

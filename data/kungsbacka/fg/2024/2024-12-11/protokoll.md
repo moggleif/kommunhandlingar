@@ -608,7 +608,7 @@ Information om Löneöversyn 2024, från årshjul
 Beslut
 
 Nämnden för Förskola & Grundskola tar del av informationen om löneöversynen
-2024.
+2024\.
 
 Sammanfattning av ärendet
 I löneöversynen 2024 gjorde förvaltningen lönesatsningar för legitimerade
@@ -1034,7 +1034,7 @@ fastställer delegeringsbesluten. Däremot får nämnden återta lämnad deleger
 föregripa ett beslut i ett enskilt ärende av den som fått beslutanderätten genom att
 själv ta över ärendet och fatta beslut. Sammanställningen omfattar beslut fattade eller
 inkomna till förvaltningen för Förskola & Grundskola från 2024-11-05—2024-12-
-01.
+01\.
 
 Beslutsgång
 Ordförande Emanuel Forsell (M) prövar om nämnden för Förskola & Grundskola

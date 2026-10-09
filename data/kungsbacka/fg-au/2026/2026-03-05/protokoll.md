@@ -336,16 +336,16 @@ Skolinspektionen har genomfört en riktad tillsyn av Toråsskolan 4-6 och i besl
 konstaterades brister inom tre områden samt en anmärkning. Detta resulterade i ett
 föreläggande med krav på åtgärder senast den 16 mars 2026.
 
-1. Rektor ska säkerställa att elever som vi upprepade tillfällen stör ordningen eller
+1\. Rektor ska säkerställa att elever som vi upprepade tillfällen stör ordningen eller
 begår allvarliga förseelser utreds. Åtgärder ska beslutas utifrån utredningens resultat,
 samråd ska ske med vårdnadshavare och antal påbörjade utredningar under perioden
 2025-12-05 till och med 2026-03-11 ska dokumenteras och redovisas till
 Skolinspektionen.
 
-2. Rektor ska, senast 2026-03-16, tydliggöra för all personal om skyldigheten att
+2\. Rektor ska, senast 2026-03-16, tydliggöra för all personal om skyldigheten att
 anmäla till rektor när en elev upplever sig utsatt för kränkande behandling. Vidare
 ska det dokumenteras för när samt hur informationen har lämnats.
-3. Skolenheten ska säkerställa att personal anmäler misstänkt kränkande behandling
+3\. Skolenheten ska säkerställa att personal anmäler misstänkt kränkande behandling
 till rektor samt att rektor ska dokumentera hur många anmälningar som kommit in
 
 och anmälts vidare till huvudman under perioden 2025-12-05 – 2026-03-11.

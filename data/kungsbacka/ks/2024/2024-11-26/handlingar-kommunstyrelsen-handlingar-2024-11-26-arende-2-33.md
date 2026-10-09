@@ -729,12 +729,12 @@ vad nämnderna gör för att bidra till måluppfyllelse samt att följa upp arbe
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
 
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
 
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 5.2 En hållbar utveckling och en hälsosam miljö
 
@@ -742,12 +742,12 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
 
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 5.3 Bästa företagsklimatet i Västsverige
 
@@ -763,8 +763,8 @@ Nämndbudget 2025
 
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 5.4 I Kungsbacka utvecklas vi hela livet
@@ -773,22 +773,22 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
 
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
 
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 8
 
@@ -943,7 +943,7 @@ Nämndbudget 2025
 
 7.4 Effektmått
 
-*Antal nystartade företag 2023 har inte publicerats ännu.
+\*Antal nystartade företag 2023 har inte publicerats ännu.
 
 12
 
@@ -951,7 +951,7 @@ Nämndbudget 2025
 
 | Delområde | Nyckeltal Utfall 2022 Utfall 2023 |
 | --- | --- |
-| Näringsliv | Antal nystartade företag per tusen<br>12,5 *<br>invånare (etableringsfrekvens) |
+| Näringsliv | Antal nystartade företag per tusen<br>12,5 \*<br>invånare (etableringsfrekvens) |
 |  | Antal arbetsställen 11 808 11 948 |
 |  | Sysselsatt dagbefolkning, 15–74 år 27 695 28 485 |
 
@@ -1224,12 +1224,12 @@ Styrdokument                                       Beslutande paragraf/År
 Allmän handling, taxa för kopior                       KF 2021-04-13 § 65
 Vigsel, taxa för administrativ service                 KF 2021-04-13 § 66
 
-Plan-och byggverksamhet, taxa 2020*                    KF 2020-09-08 § 97
-Plan- och byggverksamhet, taxa 2011*                  KF 2011-12-06 § 246
-Taxa för plan- och byggverksamhet 2023*               KF 2022-12-06 § 236
+Plan-och byggverksamhet, taxa 2020\*                    KF 2020-09-08 § 97
+Plan- och byggverksamhet, taxa 2011\*                  KF 2011-12-06 § 246
+Taxa för plan- och byggverksamhet 2023\*               KF 2022-12-06 § 236
 
-Taxa för plan- och byggverksamhet 2024*               KF 2023-12-14 § 196
-*Alla gäller utifrån när ärendet kom in till kommunen
+Taxa för plan- och byggverksamhet 2024\*               KF 2023-12-14 § 196
+\*Alla gäller utifrån när ärendet kom in till kommunen
 
 18
 
@@ -1263,16 +1263,16 @@ förutsättningar för att styra och leda omställningen som säkrar framtidens 
 trots begränsade resurser.
 
 Styrmodellen ska enligt uppdraget ge förutsättningar för att
-- både förbättra befintlig verksamhet och förnya inför morgondagen.
+\- både förbättra befintlig verksamhet och förnya inför morgondagen.
 
-- möta välfärdsutmaningen på ett hållbart sätt.
-- tydligare utgå ifrån invånarnas behov och livssituation och möjliggöra
+\- möta välfärdsutmaningen på ett hållbart sätt.
+\- tydligare utgå ifrån invånarnas behov och livssituation och möjliggöra
 
 flexibilitet, lärande och anpassning i verksamheten.
-- främja samarbete mellan olika aktörer inom och utanför kommunen, för att
+\- främja samarbete mellan olika aktörer inom och utanför kommunen, för att
 nyttja den samlade kompetensen och kraften i samhället.
 
-- möta utmaningar med mod, nytänkande och samarbete.
+\- möta utmaningar med mod, nytänkande och samarbete.
 
 Beslutsunderlag
 
@@ -1720,7 +1720,7 @@ Kommunledningen styr
 4 programledning
 styrning
 OPERATIV NIVÅ - att göra saker rätt Linjearbete Förändringssinsatser
-+ (uppgifter och löpande N
+\+ (uppgifter och löpande N
 Verksamhetsledningen styr äthete) (projekt och uppdrag)
 Löpande Kommunens resurser Förändrings-
 verksamhet verksamhet
@@ -2098,11 +2098,11 @@ Förskola & Grundskola, nämnden för Gymnasium & Arbetsmarknad, nämnden för
 Individ & Familjeomsorg, nämnden för Kultur & Fritid, nämnden för Service,
 nämnden för Teknik, nämnden för Vård & Omsorg för yttrande över förslaget att:
 
-- se över både interna och externa priser för att skapa tydlighet och effektivitet.
-- samla interna utmärkelser och priser rörande medarbetare och ledare till
+\- se över både interna och externa priser för att skapa tydlighet och effektivitet.
+\- samla interna utmärkelser och priser rörande medarbetare och ledare till
 
 Medarbetardagen respektive Ledardagen
-- de förvaltningsspecifika priserna Lära för livet, Leva livet och Självständigt liv
+\- de förvaltningsspecifika priserna Lära för livet, Leva livet och Självständigt liv
 inte längre delas ut i kommunfullmäktige utan överlåtes till berörda nämnder att
 besluta om hur priserna ska se ut framåt.
 
@@ -2297,7 +2297,7 @@ av respektive nämnd.
 •  Vi har även ett pris – Självständigt liv – som
 ej är i bruk.
 
-*Delas ut vartannat år               **Extern nominering möjlig
+\*Delas ut vartannat år               \*\*Extern nominering möjlig
 
 Delas  ut på Kungsbackagalan
 
@@ -2305,10 +2305,10 @@ Delas  ut på Kungsbackagalan
 
 | EXTERNT PRIS | INTERNT PRIS |
 | --- | --- |
-| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)** |
+| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)\*\* |
 | Kungsbackas mästare | Årets ledare (två kategorier) |
-| Kungsbackas olympier* | Leva livet-priset** |
-| Årets eldsjäl | Lära för livet-priset** |
+| Kungsbackas olympier\* | Leva livet-priset\*\* |
+| Årets eldsjäl | Lära för livet-priset\*\* |
 | Årets förening |  |
 | Årets förnyare |  |
 | Arkitekturpriset |  |
@@ -2319,10 +2319,10 @@ Delas  ut på Kungsbackagalan
 
 Nuläge
 
-*utdelning under höst
+\*utdelning under höst
 
 Jan       Feb     Mars     April     Maj      Juni    Juli    Aug      Sept      Okt      Nov       Dec
-Leva livet-               Kungsbacka-                                Arkitekturpriset*   Hållbarhets-
+Leva livet-               Kungsbacka-                                Arkitekturpriset\*   Hållbarhets-
 priset                      galan                                                         priset
 Ledardagen
 Medarbetar-
@@ -2381,7 +2381,7 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
-*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
+\*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
 
 [Tabell 71-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/71-1.csv)
 
@@ -2390,7 +2390,7 @@ Kartläggning                    interna            priset
 | Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
 | Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
 | Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
+| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
 | Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 72 -->
@@ -2883,7 +2883,7 @@ Projektet omfattar 12 platser och det planeras att vara klart år 2026.
 Kommunstyrelsen beslutade den 23 januari 2024 att genomföra en förstudie och
 tilldelade projektet 1,5 miljoner kronor i investeringsmedel. Syftet med förstudien
 var att ta fram bygglovshandlingar som ska lämnas in senast i slutet av november
-2024. Kommunfullmäktige beslutade i lokalplan 2025–2029 att tillföra budgetmedel
+2024\. Kommunfullmäktige beslutade i lokalplan 2025–2029 att tillföra budgetmedel
 för investering och driftskostnad.
 
 För att kunna genomföra projektet behöver budgetmedel för investering, engångsdrift
@@ -3995,7 +3995,7 @@ Begära     planbesked
 
 Ärendenummer: #146706 | Inskickat av:     | 2024-07-08 13:17
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -4010,7 +4010,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -4055,7 +4055,7 @@ Om fastigheten ägs av flera fastighetsägare fyller du i en per rad.
 
 Förnamn       Efternamn       Telefon          E-postadress
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -4079,7 +4079,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -4316,10 +4316,10 @@ R                                                                2.   Växthus, 
 R
 O
 N                                                                3.   Gästparkering
-4.   Befintlig gång-/ och cykelväg
-5.   Villaområde
-6.   Busshållplats
-7.   Alafors kvarnkafé
+4\.   Befintlig gång-/ och cykelväg
+5\.   Villaområde
+6\.   Busshållplats
+7\.   Alafors kvarnkafé
 6  3
 7
 J
@@ -4594,7 +4594,7 @@ n
 g
 e
 e
--
+\-
 n       D A e la l f a o v rs
 4:12
 Storåvägen
@@ -4710,14 +4710,14 @@ Förslag till beslut på sammanträdet
 
 Ordförande Lisa Andersson (M) yrkar att följande ändringar görs i
 projektbeställningen:
-- på sidan 2 under andra stycket stryks följande meningar: Strax sydost om
+\- på sidan 2 under andra stycket stryks följande meningar: Strax sydost om
 planområdet finns riksintresse för kulturmiljövård samt ett av kommunen utpekat
 kulturmiljöområde, Fjärås bräcka. Gården har stor historisk förankring och
 betydelse för platsen med anknytning till frukt- och bärodling. Enligt
 
 bebyggelseregistret har gården byggnadshistoriskt värde, miljöskapande värde
 samt samhällshistoriskt värde.
-- På sidan 5 under rubrik Kommunala kostnader läggs en mening till efter den
+\- På sidan 5 under rubrik Kommunala kostnader läggs en mening till efter den
 första meningen som lyder: Strävan ska vara att undvika kommunalt
 huvudmannaskap inom planområdet.
 
@@ -4866,22 +4866,22 @@ ytterligare en samfällighetsförening är under bildande, för skötsel av väg
 Uppdraget innebär således att pröva möjligheten att planlägga för bostäder inom Må 3:15.
 
 Ett flertal beslut har fattats gällande utveckling av fastigheten:
-- 2013 uttryckte fastighetsägaren intresse att bygga förskola alternativt särskilt boende inom
+\- 2013 uttryckte fastighetsägaren intresse att bygga förskola alternativt särskilt boende inom
 fastigheten. 19 november 2013 fattade kommunstyrelsen beslut om att platsen var lämplig för
 särskilt boende alternativt offentlig service.
 
-- 19 augusti 2014 fattade kommunstyrelsen beslut att gruppbostäder skulle lokaliseras på platsen.
-- 24 februari 2015 hemställde kommunstyrelsen hos byggnadsnämnden att upprätta förslag till
+\- 19 augusti 2014 fattade kommunstyrelsen beslut att gruppbostäder skulle lokaliseras på platsen.
+\- 24 februari 2015 hemställde kommunstyrelsen hos byggnadsnämnden att upprätta förslag till
 detaljplan för Må 3:15 i Fjärås med inriktning på särskilt boende, gruppboende och/eller
 äldreboende och/eller trygghetsboende samt eventuell lämplig offentlig service, exempelvis
 förskola. Planläggningen ska samordnas med planläggning av Må 3:13 i Fjärås.
 
-- 20 september 2016 beslutade byggnadsnämndens arbetsutskott att uppdra åt förvaltningen att
+\- 20 september 2016 beslutade byggnadsnämndens arbetsutskott att uppdra åt förvaltningen att
 upprätta detaljplan med inriktning på särskilt boende samt bostäder inom fastigheten.
 
-- 20 oktober 2016 beslutade byggnadsnämnden att ge förvaltningen i uppdrag att genomföra
+\- 20 oktober 2016 beslutade byggnadsnämnden att ge förvaltningen i uppdrag att genomföra
 samråd för Må 3:15
-- 21 juni 2017 beviljade byggnadsnämnden bygglov för gruppboendet inom fastigheten Må 3:100
+\- 21 juni 2017 beviljade byggnadsnämnden bygglov för gruppboendet inom fastigheten Må 3:100
 som tidigare var en del av Må 3:15
 
 Detaljplanen ska bedrivas som en exploatörsdriven planprocess tillsammans med fastighetsägaren som
@@ -4910,33 +4910,33 @@ söder avgränsas planområdet av Måvägen och i väster och norr av befintliga
 och gruppboende.
 
 Detaljplanen kommer att hantera:
-- Lämplig storlek på byggrätt för bostäder
+\- Lämplig storlek på byggrätt för bostäder
 
-- Utformning av byggnader
-- Anslutning till Gåsevadholmsvägen och gång- och cykelvägnät
+\- Utformning av byggnader
+\- Anslutning till Gåsevadholmsvägen och gång- och cykelvägnät
 
-- Buller från Gåsevadholmsvägen. Ev. bullerskärm vid Gåsevadholmsvägen ska sannolikt stå på
+\- Buller från Gåsevadholmsvägen. Ev. bullerskärm vid Gåsevadholmsvägen ska sannolikt stå på
 fastigheten samt bekostas och skötas av fastighetsägaren
 
-- Mobilitet och parkering
-- Geotekniska förutsättningar
+\- Mobilitet och parkering
+\- Geotekniska förutsättningar
 
-- VA, dagvattenhantering och skyfall. Dagvattenhantering ska ske genom ytlig avrinning och
+\- VA, dagvattenhantering och skyfall. Dagvattenhantering ska ske genom ytlig avrinning och
 fördröjning inom fastigheten enligt kommunens dagvattenplan.
-- Utrymme för allmänna VA-anläggningar inom fastigheten
+\- Utrymme för allmänna VA-anläggningar inom fastigheten
 
-- Eventuell omläggning av ledningar inom fastigheten
-- Påverkan på Hovmanneåns dikningsföretag
+\- Eventuell omläggning av ledningar inom fastigheten
+\- Påverkan på Hovmanneåns dikningsföretag
 
-- Strandskydd
-- Påverkan på befintliga servitut och ledningsrätter
+\- Strandskydd
+\- Påverkan på befintliga servitut och ledningsrätter
 
-- Markföroreningar
+\- Markföroreningar
 
-- Kulturmiljö
-- Sociala aspekter
+\- Kulturmiljö
+\- Sociala aspekter
 
-- Om befintlig gård på fastigheten ska ingå i detaljplanen eller inte
+\- Om befintlig gård på fastigheten ska ingå i detaljplanen eller inte
 
 FÖRVÄNTAD  NYTTA
 Enligt kommunens bostadsförsörjningsprogram 2019-2025 är målet att det ska byggas i genomsnitt 25
@@ -4983,14 +4983,14 @@ beaktas i detaljplaneprocessen.
 PROJEKTETS  LEVERANSER
 Projektet kommer att ha följande leveranser:
 
-1. Projektbeställning tas fram av samhällsbyggnadskontoret och beslutas av kommunstyrelsen
-2. Projektplan tas fram av samhällsbyggnadskontoret och godkänns av Forum Samhällsbyggnad
+1\. Projektbeställning tas fram av samhällsbyggnadskontoret och beslutas av kommunstyrelsen
+2\. Projektplan tas fram av samhällsbyggnadskontoret och godkänns av Forum Samhällsbyggnad
 
-3. Plankostnadsavtal tas fram av samhällsbyggnadskontoret
-4. Samrådshandlingar tas fram av exploatören och beslutas om i byggnadsnämnden
+3\. Plankostnadsavtal tas fram av samhällsbyggnadskontoret
+4\. Samrådshandlingar tas fram av exploatören och beslutas om i byggnadsnämnden
 
-5. Granskningshandlingar tas fram av exploatören och beslutas om i byggnadsnämnden
-6. Antagandehandlingar tas fram av exploatören och beslutas om i byggnadsnämnden
+5\. Granskningshandlingar tas fram av exploatören och beslutas om i byggnadsnämnden
+6\. Antagandehandlingar tas fram av exploatören och beslutas om i byggnadsnämnden
 
 Detaljplanen drivs med exploatörsdriven planprocess och upprättas med standardförfarande. Ny
 detaljplan för fastigheten bedöms ha ett mindre allmänt intresse och följer översiktsplanen, därav kan
@@ -5090,7 +5090,7 @@ KUNGSBACKA KOMMUN
 Byggnadsnämndens arbetsutskott SAMMANTRÄDESPROTOKOLL 23 (86)
 Datum
 2016-09-20
-BNAU $ 376 Dnr 2015-P019
+BNAU \$ 376 Dnr 2015-P019
 
 Kommunstyrelsens begäran om planläggning inom
 fastigheten Må 3:15 m.fl.
@@ -5124,7 +5124,7 @@ särskilt boende (gruppboende och/eller äldreboende och/eller trygghetsboende) 
 eventuell lämplig offentlig service (t.ex. förskola) i samklang med övrig
 planläggning för bostäder och förskola på fastigheten Må 3:13 i Fjärås.
 
-Kommunstyrelsen beslutade 2015-02-24 $ 37 att hemställa hos byggnadsnämnden att
+Kommunstyrelsen beslutade 2015-02-24 \$ 37 att hemställa hos byggnadsnämnden att
 utarbeta förslag till detaljplan för särskilt boende samt eventuell lämplig offentlig
 service inom fastigheten Må 3:15 i Fjärås i enlighet med förfrågan från Fastighets
 AB Mönster, daterad 2014-12-09.
@@ -5157,7 +5157,7 @@ Datum
 BNAU 3 376, forts
 
 Den befintliga bebyggelsen är gles, med villor. Planprogrammet för bostäder inom
-Må 3:13, m.fl. i Fjärås, KS 2015-02-24, $ 35 som ser Fjärås samhälle i sin helhet,
+Må 3:13, m.fl. i Fjärås, KS 2015-02-24, \$ 35 som ser Fjärås samhälle i sin helhet,
 talar också för en gles bebyggelse på Måvägen.
 
 Förvaltning för Plan & Bygg har kommit fram till att den lämpligaste användningen
@@ -5168,7 +5168,7 @@ Området är inte detaljplanelagt.
 Beslutsunderlag
 Tjänsteskrivelse 2016-09-01
 
-Kommunstyrelsens protokoll 2015-02-24 $ 37.
+Kommunstyrelsens protokoll 2015-02-24 \$ 37.
 
 Beslutet skickas till
 Förvaltningen för Plan & Bygg, planavdelningen
@@ -5381,7 +5381,7 @@ direkt norr om pågående planområde Må 3:13 för boende och förskola. Föres
 byggnation ligger i anslutning till befintlig bebyggelse i Fjärås. Området är inte
 detaljplanelagt.
 
-Kommunstyrelsen tog 2013-05-21 KS $112 beslut att avslå förfrågan om
+Kommunstyrelsen tog 2013-05-21 KS \$112 beslut att avslå förfrågan om
 planläggning för bostadsbebyggelse på samma fastighet. Bedömningen var att det
 inte fanns utrymme i dagsläget för fler bostadsområden i Fjärås tätort utifrån
 styrdokumentet ”Mål för bostadsbyggande 2010-2015” och pågående planering.
@@ -5390,7 +5390,7 @@ Kungsbacka - Sveriges Kvalitetskommun
 
 Kungsbacka
 
-12)
+12\)
 
 Datum
 
@@ -5429,13 +5429,13 @@ k Å ES NEG [ |
 75 KC JA pra å | ; a
 RT RS SR C
 Må . . ( |
-- å 5 Vr <
+\- å 5 Vr <
 CAT
 988
 4 4
 a RN
 ET Hg Re z
-| =
+\| =
 | Fiärås |
 aras |
 — SN |
@@ -5474,7 +5474,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsens arbetsutskott SAMMANTRÄDESPROTOKOLL 7 (13)
 Datum
 2013-10-22
-$ 313 KS13-00205/21
+\$ 313 KS13-00205/21
 
 Förfrågan om utveckling av Må 3:15 — lokaliseringsbeslut
 
@@ -5505,7 +5505,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL
 Datum
 2013-11-19
-$ 246 KS13-00205/21
+\$ 246 KS13-00205/21
 
 Förfrågan om utveckling av Må 3:15 — lokaliseringsbeslut
 
@@ -5526,7 +5526,7 @@ bedöms byggnation kunna ske genom bygglov via byggnadsnämnden.
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2013-09-30
-Kommunstyrelsens arbetsutskott, 2013-10-22, $ 313
+Kommunstyrelsens arbetsutskott, 2013-10-22, \$ 313
 
 Proposition
 
@@ -5827,7 +5827,7 @@ elledningen istället att säkras med ledningsrätt eller servitut.
 
 <!-- sida 153 -->
 
-10.
+10\.
 
 10.1
 
@@ -5835,13 +5835,13 @@ elledningen istället att säkras med ledningsrätt eller servitut.
 
 10.3
 
-11.
+11\.
 
 11.2
 
 11.4
 
-12.
+12\.
 
 12.1
 
@@ -5913,17 +5913,17 @@ Sign
 
 12.5
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 14.1
 
 14.2
 
-15.
+15\.
 
 15.1
 
@@ -5933,7 +5933,7 @@ Sign
 
 15.4
 
-16.
+16\.
 
 16.1
 
@@ -5998,13 +5998,13 @@ ligger till grund för Avtalet.
 
 <!-- sida 155 -->
 
-17.
+17\.
 
 17.1
 
 17.2
 
-18.
+18\.
 
 18.1
 
@@ -6012,15 +6012,15 @@ ligger till grund för Avtalet.
 
 18.3
 
-19.
+19\.
 
 19.1
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
@@ -6091,7 +6091,7 @@ Sign
 
 <!-- sida 156 -->
 
-22.
+22\.
 
 22.1
 
@@ -6105,7 +6105,7 @@ Sign
 
 22.6
 
-23.
+23\.
 
 23.1
 
@@ -6174,27 +6174,27 @@ Sign
 
 <!-- sida 157 -->
 
-24.
+24\.
 
 24.1
 
-25.
+25\.
 
 25.1
 
 252
 
-26.
+26\.
 
 26.1
 
-27.
+27\.
 
 27.1
 
 27.2
 
-28.
+28\.
 
 28.1
 
@@ -6676,7 +6676,7 @@ vinner laga kraft.
 
 6.1
 
-203)
+203\)
 Grundläggande förutsättningar
 
 Bolaget gör bedömningen att ett hotell i detta läge bör ha minst 180 - 200 rum
@@ -6731,7 +6731,7 @@ c) Bolaget väljer att avbryta projektet efter avslutad förstudie.
 
 3(3)
 
-7. Överlåtelse av avtal
+7\. Överlåtelse av avtal
 7.1 Denna avsiktsförklaring får inte överlåtas på annan part, såvida överlåtelsen ej
 
 sker till annat helägt bolag ägt av Bolaget. Bolaget ska i god tid innan avsedd
@@ -6740,7 +6740,7 @@ sker till annat helägt bolag ägt av Bolaget. Bolaget ska i god tid innan avsed
 lämnas av Kommunen om inte särskilda skäl föreligger emot ett sådant
 medgivande.
 
-8. Avtalets giltighet
+8\. Avtalets giltighet
 
 8.1 Avsiktsförklaringen är giltigt endast under förutsättning att den senast 2025-03-
 31 godkänns av kommunstyrelsen i Kungsbacka kommun genom beslut som
@@ -7061,7 +7061,7 @@ förslag till ny FÖP Staden har därför ett större
 område i anslutning till Västkustbanan och
 Kungsbacka resecentrum markerats som
 Utredningsområde för framtida station, se figur
-1. Med ett dubblerat antal invånare i Kungsbacka
+1\. Med ett dubblerat antal invånare i Kungsbacka
 stad ser kommunen det som nödvändigt att värna
 ytorna nära stationen för att hantera det ökade
 antalet rörelser som förväntas i området, när Figur 1. Utdrag ur samrådsförslaget för ny FÖP Staden med
@@ -7163,9 +7163,9 @@ förslag till en statlig samlad informationsportal för att enklare överblicka 
 statsbidrag.
 
 Syftet med en samlad informationsportal för riktade statsbidrag är att:
--  minska bidragssökande aktörers administrativa kostnader
+\-  minska bidragssökande aktörers administrativa kostnader
 
--  bättre nå de bidragsmottagare som regeringen har avsett
+\-  bättre nå de bidragsmottagare som regeringen har avsett
 Statskontorets förslag innebär en statlig portal som administreras från Skolverket.
 
 Portalen ska vara en enklare webbplats med information om alla riktade statsbidrag
@@ -7317,12 +7317,12 @@ kostnader avseende informationsinhämtning om riktade statsbidrag.
 
 Kommunens inställning i detalj
 
-2. Statskontorets slutsatser och förslag för en samlad informationsportal
+2\. Statskontorets slutsatser och förslag för en samlad informationsportal
 Kungsbacka kommun instämmer i Statskontorets förslag till en samlad informationsportal för riktade
 statsbidrag till kommuner och regioner. Kommunen lämnar synpunkter till kapitlen 3-5 enligt samma
 struktur som i Statskontorets rapport.
 
-3. Nyttan av en samlad portal
+3\. Nyttan av en samlad portal
 
 Kungsbacka kommun har behov av samlad information om riktade statsbidrag vilket idag tillgodoses
 hos några av kommunens förvaltningar genom abonnemang på en bevakningstjänst. En statlig och
@@ -7355,7 +7355,7 @@ KUNGSBACKA  KOMMUN
 riktade statsbidrag. Investeringar i system för att hantera riktade statsbidrag kan snarare bidra till att
 
 permanenta problemen med kortsiktiga planeringsförutsättningar och tung administration.
-4. Hur en samlad informationsportal kan utformas
+4\. Hur en samlad informationsportal kan utformas
 
 Kungsbacka anser att förslagen till hur en samlad informationsportal kan utformas är bra och tydliga.
 Kungsbacka framhåller vikten av att informationen i portalen ska vara korrekt och komplett liksom att
@@ -7366,7 +7366,7 @@ detaljerna. Att kompletterande information hämtas och ansökningar görs via bi
 myndigheters egna system medför en risk att verksamheter håller fast vid invanda arbetssätt och gamla
 informationskällor som bidragsgivande myndigheters egna webbsidor.
 
-5. Hur en samlad informationsportal kan införas och förvaltas
+5\. Hur en samlad informationsportal kan införas och förvaltas
 Kungsbacka instämmer i att Skolverket kan vara en lämplig myndighet för att få uppgiften att ansvara
 
 för en samlad informationsportal men vill samtidigt framhålla vikten av ett tydligt uppdrag och mandat
@@ -8853,13 +8853,13 @@ SCB kräver nu ett formellt beslut om den särskilda avgränsade statistikverksa
 med sekretess enligt 24 kap. 8 § OSL,för att fortsätta leverera statistikpaket.
 Beslutet måste innehålla:
 
-1. Vilken kommun det gäller.
-2. Vilken sekretess som gäller för statistikverksamheten.
+1\. Vilken kommun det gäller.
+2\. Vilken sekretess som gäller för statistikverksamheten.
 
-3. Vilken kommunal myndighet, kommunstyrelsen eller annan nämnd i kommunen
+3\. Vilken kommunal myndighet, kommunstyrelsen eller annan nämnd i kommunen
 som statistikverksamheten är organiserad under.
 
-4. Hur verksamheten är avskild från annan verksamhet vid den aktuella kommunala
+4\. Hur verksamheten är avskild från annan verksamhet vid den aktuella kommunala
 myndigheten, så att sekretessprövning sker och sekretesskyddet fungerar i
 praktiken även gentemot den.
 
@@ -8945,11 +8945,11 @@ SCB kräver nu ett formellt beslut om den särskilda avgränsade statistikverksa
 enligt 24 kap. 8 § OSL,för att fortsätta leverera statistikpaket.
 
 Beslutet måste innehålla:
-1. Vilken kommun det gäller.
-2. Vilken sekretess som gäller för statistikverksamheten.
-3. Vilken kommunal myndighet, kommunstyrelsen eller annan nämnd i kommunen som
+1\. Vilken kommun det gäller.
+2\. Vilken sekretess som gäller för statistikverksamheten.
+3\. Vilken kommunal myndighet, kommunstyrelsen eller annan nämnd i kommunen som
 statistikverksamheten är organiserad under.
-4. Hur verksamheten är avskild från annan verksamhet vid den aktuella kommunala myndigheten,
+4\. Hur verksamheten är avskild från annan verksamhet vid den aktuella kommunala myndigheten,
 så att sekretessprövning sker och sekretesskyddet fungerar i praktiken även gentemot den
 kommunala myndighetens övriga verksamhet
 
@@ -9011,7 +9011,7 @@ Kommundirektör                     Biträdande kommundirektör
 
 <!-- sida 235 -->
 
-Från: uppdrag@scb.se <uppdrag@scb.se>
+Från: uppdrag@scb.se \<uppdrag@scb.se>
 Skickat: den 17 juni 2024 08:51
 Ämne: Särskild statistikverksamhet
 
@@ -9037,11 +9037,11 @@ statistikverksamhet som avses i offentlighets- och sekretesslagen 24 kap. 8 §
 
 (2009:400) måste innehålla:
 
-1. Vilken kommun det gäller.
-2. Vilken sekretess som gäller för statistikverksamheten.
-3. Vilken kommunal myndighet (t ex kommunstyrelsen eller annan nämnd) i kommunen som
+1\. Vilken kommun det gäller.
+2\. Vilken sekretess som gäller för statistikverksamheten.
+3\. Vilken kommunal myndighet (t ex kommunstyrelsen eller annan nämnd) i kommunen som
 statistikverksamheten är organiserad under.
-4. Hur verksamheten är avskild från annan verksamhet vid den aktuella kommunala
+4\. Hur verksamheten är avskild från annan verksamhet vid den aktuella kommunala
 myndigheten, så att sekretesskyddet fungerar i praktiken även gentemot den kommunala
 myndighetens övriga verksamhet.
 
@@ -9064,9 +9064,9 @@ scb.se
 
 <!-- sida 236 -->
 
-Från: Karin Månsson <karin.mansson@kungsbacka.se>
+Från: Karin Månsson \<karin.mansson@kungsbacka.se>
 Skickat: den 20 juni 2024 08:55
-Till: *Uppdragstjänst <uppdrag@scb.se>
+Till: \*Uppdragstjänst \<uppdrag@scb.se>
 Ämne: Särskild statistikverksamhet
 
 Hej Caroline,
@@ -9082,9 +9082,9 @@ Kungsbacka Kommun
 Kommunledningskontoret
 434 81 KUNGSBACKA
 
-Från: uppdrag@scb.se <uppdrag@scb.se>
+Från: uppdrag@scb.se \<uppdrag@scb.se>
 Skickat: den 20 juni 2024 10:15
-Till: Karin Månsson <karin.mansson@kungsbacka.se>
+Till: Karin Månsson \<karin.mansson@kungsbacka.se>
 Ämne: Sv: Särskild statistikverksamhet
 
 Du får inte e-post ofta från uppdrag@scb.se. Se varför det här är viktigt.
@@ -9121,7 +9121,7 @@ scb.se
 
 <!-- sida 238 -->
 
-Från: uppdrag@scb.se <uppdrag@scb.se>
+Från: uppdrag@scb.se \<uppdrag@scb.se>
 Skickat: den 6 mars 2024 10:37
 Ämne: Statistikpaketen - information om särskild statistikverksamhet
 
@@ -9337,7 +9337,7 @@ Trafikförsörjningsprogram för särskild kollektivtrafik.
 Den 1 januari 2021 övergick huvudmannaskapet för färdtjänst i Kungsbacka kommun från
 kommunstyrelsen till nämnden för Teknik. I samband med det utformades ett
 Trafikförsörjningsprogram för särskild kollektivtrafik som antogs av kommunfullmäktige den 9 maj
-2023. Med anledning av att en ny taxa för särskild kollektivtrafik antogs av kommunfullmäktige den 9
+2023\. Med anledning av att en ny taxa för särskild kollektivtrafik antogs av kommunfullmäktige den 9
 april 2024 har nämnden för Teknik arbetat fram ett uppdaterat Trafikförsörjningsprogram. I
 framtagandet av Trafikförsörjningsprogrammet har anpassning också gjorts till Region Hallands
 
@@ -9771,7 +9771,7 @@ Som en del av Hallandstrafikens kollektivtrafik (kommun och region) och utifrån
 omfattas färdtjänsten av gällande miljöarbete i samt Hallandstrafikens professionella
 ’Regionalt Trafikförsörjningsprogram’ som bedömning blev ingången att påbörja en
 antogs av Regionfullmäktige den 9 december omställning till ett fossilfritt samhälle senast
-2020. I de riktlinjer som skapades mellan 2030. Aktuella avtalskrav blev därför en
+2020\. I de riktlinjer som skapades mellan 2030. Aktuella avtalskrav blev därför en
 Hallands kommuner och Region Halland funktionell kravställning på fossilfrihet (ingen
 gällande överlåtelse av färdtjänsten pekas de specifik teknik) som när trafikavtal 2022–2026
 strategiska frågorna ut till det regionala trafikf- går igång ska vara 50 procent fossilfritt vid
@@ -10288,7 +10288,7 @@ finns tillgänglig har det inte varit möjligt att hitta några specifika orsake
 åldersgrupp har en sådan markant ökning.
 
 Kung sbacka kommun           Trafikförsörjningsprogram          10 (
-14)
+14\)
 
 <!-- sida 265 -->
 
@@ -10328,12 +10328,12 @@ egenavgifter som resenärer betalar. Färdtjänst och riksfärdtjänst har gener
 avsevärt lägre finansieringsgrad än den allmänna kollektivtrafiken, så också i Kungsbacka.
 
 Kung sbacka kommun           Trafikförsörjningsprogram          11 (
-14)
+14\)
 
 <!-- sida 266 -->
 
 Kung sbacka kommun           Trafikförsörjningsprogram          12 (
-14)
+14\)
 
 <!-- sida 267 -->
 
@@ -10371,7 +10371,7 @@ Där finns nu en sammanställning av de mätindikatorer som följs upp. Se bilde
 7 Särskild kollektivtrafik – Taxa, Kommunfullmäktige 9 april 2024 § 58 KS2023-00666
 8 Riksfärdtjänsten Sverige AB
 Kung sbacka kommun           Trafikförsörjningsprogram          13 (
-14)
+14\)
 
 <!-- sida 268 -->
 
@@ -10391,7 +10391,7 @@ teknik) som när trafikavtal 2022–2026 går igång ska vara 50 procent fossilf
 avtalsstart och 75 procent innan avtalet tar slut.
 
 Kung sbacka kommun           Trafikförsörjningsprogram          14 (
-14)
+14\)
 
 <!-- sida 269 -->
 
@@ -10428,7 +10428,7 @@ finansieras dels av offentliga medel, dels av avgifter. Avgiften för Kulturskol
 med stöd av kommunallagens 2 kap. 5-6 §§ och utgår från självkostnadsprincipen.
 Avgifterna i Kulturskolan justerades senast 2015. Mot bakgrund av detta lämnar
 nämnden för Kultur & Fritid förslag om en höjning med 20 procent från och med
-2025. I taxan lämnas också förslag att nämnden för Kultur & Fritid årligen har
+2025\. I taxan lämnas också förslag att nämnden för Kultur & Fritid årligen har
 möjlighet indexreglera avgifterna enligt prisindex för kommunal verksamhet (PKV).
 
 Beslutsunderlag
@@ -10557,7 +10557,7 @@ Genomföra        barnkonsekvensanalys
 
 Ärendenummer: #163460 | Inskickat av: Harald Tjelle | 2024-10-14 09:32
 
-1. Introduktion/överblick
+1\. Introduktion/överblick
 
 Ange rubrik
 
@@ -10596,7 +10596,7 @@ Vem är mottagare av denna barnkonsekvensanalys
 
 Nämnden för Kultur & Fritid samt Kommunfullmäktige.
 
-2. Kartläggning
+2\. Kartläggning
 
 Vilka rättigheter, utöver de fyra grundprinciperna i Barnkonventionen, är
 särskilt relevanta för aktuell barnkonsekvensanalys?
@@ -10623,9 +10623,9 @@ Likabehandlingslagen (2006:67): Kulturskolans verksamhet ska vara tillgänglig f
 höjning av avgiften skulle kunna skapa orättvisa villkor för deltagande. Här kan
 kompensatoriska åtgärder vara viktiga för att säkerställa tillgång.
 
-3. Fråga berörda barn
+3\. Fråga berörda barn
 
-4. Barnkonsekvensanalys
+4\. Barnkonsekvensanalys
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -10685,11 +10685,11 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 276 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 Denna taxa gäller för avgifter för verksamhet som drivs av Kungsbacka Kulturskola
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Avgifter tas ut enligt de grunder som framgår av kommunallagen (2017:900), 2 kap. 6 § –
 självkostnadsprincipen. Enligt kommunallagens självkostnadsprincip finns möjlighet att ta ut en
 självkostnad vid tillhandahållande av till exempel en lokal eller tjänst. Den avgift kommunen tar ut för
@@ -10698,11 +10698,11 @@ och unga ska ha möjlighet till eget kulturskapande och genom att deltaga i kult
 
 kunna utvecklas inom musik, dans, konst, film och teater.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Kommunal kultur- och musikskoleverksamhet är undantaget från skatteplikt och mervärdesskatt
 utgår inte för denna taxas avgifter.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1. Fakturering
 Terminsavgiften faktureras i oktober och februari, en avgift per kurs. Om eleven börjar en kurs efter
@@ -10740,11 +10740,11 @@ Taxa för Kungsba cka Kulturskola Sida 2 av 3
 
 <!-- sida 277 -->
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Avgiftsbeloppen får justeras årligen enligt motsvarande utveckling av Prisindex för kommunal verksamhet
 (PKV).
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller inte,
 och i förekommande fall räkna om beloppen i taxan. Outnyttjad indexreglering får inte tillgodoräknas
@@ -10776,13 +10776,13 @@ Beslut
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
 
-1. Biblioteken i Kungsbacka
-2. Kungsbacka Konsthall
+1\. Biblioteken i Kungsbacka
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
-4. Naturum Fjärås Bräcka och Äskhult By
+3\. Kungsbacka Kulturskola
+4\. Naturum Fjärås Bräcka och Äskhult By
 
-5. Kungsbacka Teater och Konsertsalen Snäckan
+5\. Kungsbacka Teater och Konsertsalen Snäckan
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att besluta att taxorna ska
 börja gälla från och med 1 januari 2025.
@@ -10804,13 +10804,13 @@ allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
 
-1. Biblioteken i Kungsbacka, 2014
-2. Kungsbacka Konsthall, 2014
+1\. Biblioteken i Kungsbacka, 2014
+2\. Kungsbacka Konsthall, 2014
 
-3. Kungsbacka Kulturskola, 2015
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
-5. Kungsbacka Teater och Konsertsalen Snäckan, 2021
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
+5\. Kungsbacka Teater och Konsertsalen Snäckan, 2021
 
 Avgifterna justeras för att uppnå en större grad av tydlighet och för att uppnå en
 avgiftsnivå i paritet med vad som gäller för andra kommuner som Kungsbacka
@@ -10869,7 +10869,7 @@ Transaktionsidentitet: 8D072D2EF71ED7D10DA6A54590129247ADC5F97F21
 
 Kungsbacka        Kulturskola,       taxa   2025
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 a. Denna taxa gäller avgifter för verksamhet som drivs av Kungsbacka Kulturskola, inom
 nämnden för Kultur & Fritids ansvarsområde.
 
@@ -10877,7 +10877,7 @@ b. Taxan är beslutad med stöd av Kommunallagen (2017:900), 2 kap. 5 - 6 §§ -
 kompetensen.
 c. Uthyrning av lokaler omfattas inte av denna taxa.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Avgifter tas ut enligt de grunder som framgår av Kommunallagen (2017:900), 2 kap. 6 § -
 självkostnadsprincipen. Enligt kommunallagens självkostnadsprincip finns möjlighet att ta ut en
@@ -10886,7 +10886,7 @@ att delta i kulturskolans verksamhet är betydligt lägre än kommunens självko
 detta för att barn och unga ska ha möjlighet till eget kulturskapande och genom att deltaga i
 kulturskolans verksamhet kunna utvecklas inom musik, dans, konst, film och teater.
 
-3. Avgiftsbelopp/taxetabeller
+3\. Avgiftsbelopp/taxetabeller
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
@@ -10911,32 +10911,32 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 281 -->
 
-4. Andra undervisningsformer
+4\. Andra undervisningsformer
 
 Förvaltningschef får under året anta ny taxa för eventuellt tillkommande undervisningsformer.
 
-5. Fakturering
+5\. Fakturering
 
 Terminsavgiften faktureras i oktober och februari, en avgift per kurs. Om eleven börjar en kurs efter
 höstlovet på höstterminen eller efter påsklovet på vårterminen betalas halva terminsavgiften för denna kurs.
 
-6. Orkester och kör
+6\. Orkester och kör
 
 Elever som spelar ett orkesterinstrument kan vara med i en orkester eller ensemble utan att betala extra avgift
 för det. Sångelever kan vara med i en av kulturskolans körer utan att betala extra avgift för det.
 
-7. Syskonrabatt
+7\. Syskonrabatt
 
 Om tre barn från samma hushåll går på kulturskolan betalas halva priset för det tredje barnet. Det fjärde
 barnet från samma hushåll går gratis. Detta gäller om alla barn är folkbokförda på samma adress och samma
 person står som fakturamottagare för samtliga barn.
 
-8. Indexjustering av avgiftsbelopp
+8\. Indexjustering av avgiftsbelopp
 
 Avgiftsbeloppen får justeras årligen med höjningar motsvarande utveckling av Prisindex för kommunal
 verksamhet (PKV).
 
-9. Delegering av beslut om justering efter index
+9\. Delegering av beslut om justering efter index
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller inte,
 
 och i förekommande fall räkna upp beloppen i taxan. Outnyttjad indexreglering får inte tillgodoräknas
@@ -10973,13 +10973,13 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
 
-1. Biblioteken i Kungsbacka
-2. Kungsbacka Konsthall
+1\. Biblioteken i Kungsbacka
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
-4. Naturum Fjärås Bräcka och Äskhult By
+3\. Kungsbacka Kulturskola
+4\. Naturum Fjärås Bräcka och Äskhult By
 
-5. Kungsbacka Teater och Konsertsalen Snäckan
+5\. Kungsbacka Teater och Konsertsalen Snäckan
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att besluta att taxorna ska börja gälla från
 och med 1 januari 2025.
@@ -10991,13 +10991,13 @@ offentliga medel dels av avgifter som tas ut med stöd i Bibliotekslagen (2013:8
 Kommunallagen (2017:900), 2 kap. 5 - 6 §§ - allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
-1. Biblioteken i Kungsbacka, 2014
+1\. Biblioteken i Kungsbacka, 2014
 
-2. Kungsbacka Konsthall, 2014
-3. Kungsbacka Kulturskola, 2015
+2\. Kungsbacka Konsthall, 2014
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
-5. Kungsbacka Teater och Konsertsalen Snäckan, 2021
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
+5\. Kungsbacka Teater och Konsertsalen Snäckan, 2021
 
 Avgifterna justeras för att uppnå en större grad av tydlighet och för att uppnå en avgiftsnivå i paritet
 med vad som gäller för andra kommuner som Kungsbacka naturligt kan jämföras med.
@@ -11404,7 +11404,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 294 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för verksamhet som drivs av Biblioteken i Kungsbacka, inom nämnden för
 Kultur & Fritids ansvarsområde.
 Enligt bibliotekslagen (2013:801) §9 gäller att lån är avgiftsfria, men att folkbiblioteken får ta ut
@@ -11412,12 +11412,12 @@ Enligt bibliotekslagen (2013:801) §9 gäller att lån är avgiftsfria, men att 
 ersättning för kostnader för porto, fotokopiering och andra liknande tjänster samt avgift för de fall
 låntagare inte inom avtalad tid lämnar tillbaka det som de har lånat.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Avgift tas ut enligt de grunder som framgår av 2 kap. 6 § kommunallagen (2017:725). Kommuner får ta
 ut avgifter för tjänster och nyttigheter som de tillhandahåller. Kommuner får inte ta ut högre avgifter än
 kostnaden för de tjänster eller nyttigheter som kommunen tillhandahåller (självkostnaden).
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Kommunal biblioteksverksamhet är momsfri.
 
 Förseningsavgifter och avgifter för borttappade böcker ses som skadestånd och är heller inte
@@ -11425,7 +11425,7 @@ momspliktiga.
 För kopieringstjänster tas moms ut med 25 procent. Kopiering som avser material som inte
 lånas ut är momsfri.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 Taxa för Bibliotek en i Kungsbacka Sida 2 av 3
 
@@ -11446,11 +11446,11 @@ Taxa för Bibliotek en i Kungsbacka Sida 2 av 3
 
 <!-- sida 295 -->
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Avgiftsbeloppen får justeras årligen enligt motsvarande utveckling av Prisindex för kommunal
 
 verksamhet (PKV).
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller
 inte, och i förekommande fall räkna om beloppen i taxan. Outnyttjad indexreglering får inte
@@ -11498,13 +11498,13 @@ Beslut
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
 
-1. Biblioteken i Kungsbacka
-2. Kungsbacka Konsthall
+1\. Biblioteken i Kungsbacka
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
-4. Naturum Fjärås Bräcka och Äskhult By
+3\. Kungsbacka Kulturskola
+4\. Naturum Fjärås Bräcka och Äskhult By
 
-5. Kungsbacka Teater och Konsertsalen Snäckan
+5\. Kungsbacka Teater och Konsertsalen Snäckan
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att besluta att taxorna ska
 börja gälla från och med 1 januari 2025.
@@ -11526,13 +11526,13 @@ allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
 
-1. Biblioteken i Kungsbacka, 2014
-2. Kungsbacka Konsthall, 2014
+1\. Biblioteken i Kungsbacka, 2014
+2\. Kungsbacka Konsthall, 2014
 
-3. Kungsbacka Kulturskola, 2015
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
-5. Kungsbacka Teater och Konsertsalen Snäckan, 2021
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
+5\. Kungsbacka Teater och Konsertsalen Snäckan, 2021
 
 Avgifterna justeras för att uppnå en större grad av tydlighet och för att uppnå en
 avgiftsnivå i paritet med vad som gäller för andra kommuner som Kungsbacka
@@ -11602,13 +11602,13 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
 
-1. Biblioteken i Kungsbacka
-2. Kungsbacka Konsthall
+1\. Biblioteken i Kungsbacka
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
-4. Naturum Fjärås Bräcka och Äskhult By
+3\. Kungsbacka Kulturskola
+4\. Naturum Fjärås Bräcka och Äskhult By
 
-5. Kungsbacka Teater och Konsertsalen Snäckan
+5\. Kungsbacka Teater och Konsertsalen Snäckan
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att besluta att taxorna ska börja gälla från
 och med 1 januari 2025.
@@ -11620,13 +11620,13 @@ offentliga medel dels av avgifter som tas ut med stöd i Bibliotekslagen (2013:8
 Kommunallagen (2017:900), 2 kap. 5 - 6 §§ - allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
-1. Biblioteken i Kungsbacka, 2014
+1\. Biblioteken i Kungsbacka, 2014
 
-2. Kungsbacka Konsthall, 2014
-3. Kungsbacka Kulturskola, 2015
+2\. Kungsbacka Konsthall, 2014
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
-5. Kungsbacka Teater och Konsertsalen Snäckan, 2021
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
+5\. Kungsbacka Teater och Konsertsalen Snäckan, 2021
 
 Avgifterna justeras för att uppnå en större grad av tydlighet och för att uppnå en avgiftsnivå i paritet
 med vad som gäller för andra kommuner som Kungsbacka naturligt kan jämföras med.
@@ -11728,7 +11728,7 @@ Förvaltningschef
 
 Biblioteken       i Kungsbacka,         taxa   2025
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 a. Denna taxa gäller avgifter för verksamhet som drivs av Biblioteken i Kungsbacka, inom
 nämnden för Kultur & Fritids ansvarsområde.
@@ -11737,7 +11737,7 @@ b. Taxan är beslutad med stöd av Kommunallagen (2017:900), 2 kap. 5 - 6 §§ -
 kompetensen.
 c. Uthyrning av lokaler omfattas inte av denna taxa.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Enligt bibliotekslagen gäller att lån är avgiftsfria, men att folkbiblioteken får ta ut ersättning för
 kostnader för porto, fotokopiering och andra liknande tjänster samt avgift för de fall låntagare inte inom
 avtalad tid lämnar tillbaka det som de har lånat.
@@ -11745,7 +11745,7 @@ avtalad tid lämnar tillbaka det som de har lånat.
 Höjningarna av avgifterna för ej tillbakalämnat material görs för att uppnå ett smidigt flöde av utlånat
 material.
 
-3. Avgiftsbelopp/taxetabell
+3\. Avgiftsbelopp/taxetabell
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
@@ -11770,17 +11770,17 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 A4 per sida               3 kr
 
-4. Indexjustering av avgiftsbelopp
+4\. Indexjustering av avgiftsbelopp
 Avgiftsbeloppen får justeras årligen med höjningar motsvarande utveckling av Prisindex för kommunal
 
 verksamhet (PKV).
 
-5. Delegering av beslut om justering efter index
+5\. Delegering av beslut om justering efter index
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller inte,
 och i förekommande fall räkna upp beloppen i taxan. Outnyttjad indexreglering får inte tillgodoräknas
 retroaktivt.
 
-6. Ikraftträdande
+6\. Ikraftträdande
 Denna taxa träder i kraft 2025-01-01. Samtidigt upphävs alla tidigare beslut om taxa och avgifter för
 verksamhet som omfattas av denna taxa.
 
@@ -11992,7 +11992,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 308 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 Denna taxa gäller avgifter för produkter och tjänster till organisationer och enskilda invånare vid besöksmål
 inom nämnden för Kultur & Fritids ansvarsområde.
@@ -12001,22 +12001,22 @@ Följande verksamheter omfattas:
 •  Naturum Fjärås Bräcka
 •  Äskhults By
 
-2. Beräkningsgrunder
-1. Avgifter tas ut enligt de grunder som framgår av kommunallagen (2017:900), 2 kap. 6 § -
+2\. Beräkningsgrunder
+1\. Avgifter tas ut enligt de grunder som framgår av kommunallagen (2017:900), 2 kap. 6 § -
 
 självkostnadsprincipen.
-2. Principen om att inte konkurrera med privata alternativ innebär att avgifter för produkter och tjänster
+2\. Principen om att inte konkurrera med privata alternativ innebär att avgifter för produkter och tjänster
 som även finns på den privata marknaden har avgiftsnivåer motsvararande marknadsnivå, så att
 kommunen inte påverkar marknaden med sin prissättning. Principen innebär att de grupper besökare
 som kommunen inte enligt mål och styrdokument ska stödja betalar en marknadsmässig avgift.
-3. Kafé och varuförsäljning på respektive besöksmål omfattas inte av denna taxa.
+3\. Kafé och varuförsäljning på respektive besöksmål omfattas inte av denna taxa.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Momsfrihet gäller för lokalhyra enligt mervärdesskattelagen (2023:200). För tjänster gäller 25 procent moms
 
 förutom vid naturguidning där moms utgår med 6 procent.
 
-4. Avgiftsbelopp/taxetabeller
+4\. Avgiftsbelopp/taxetabeller
 
 Taxa för Naturum Fjärås Bräcka och Äskhults By Sida 2 av 4
 
@@ -12063,15 +12063,15 @@ Taxa för Naturum Fjärås Bräcka och Äskhults By Sida 3 av 4
 
 <!-- sida 310 -->
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Avgiftsbeloppen får justeras årligen i enlighet med utvecklingen av Prisindex för kommunal verksamhet
 (PKV). Outnyttjad indexreglering får inte tillgodoräknas retroaktivt.
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om indexjustering ska ske eller inte, och i
 förekommande fall räkna om beloppen i taxan. Outnyttjad indexreglering får inte tillgodoräknas retroaktivt.
 
-7. Övergångsbestämmelse
+7\. Övergångsbestämmelse
 Avgift debiteras enligt den taxa som är beslutad att gälla vid datum för besökstillfället. Om inget taxebeslut
 har tagits för detta datum, används priset som gällde när besöket avtalades.
 
@@ -12100,13 +12100,13 @@ Beslut
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
 
-1. Biblioteken i Kungsbacka
-2. Kungsbacka Konsthall
+1\. Biblioteken i Kungsbacka
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
-4. Naturum Fjärås Bräcka och Äskhult By
+3\. Kungsbacka Kulturskola
+4\. Naturum Fjärås Bräcka och Äskhult By
 
-5. Kungsbacka Teater och Konsertsalen Snäckan
+5\. Kungsbacka Teater och Konsertsalen Snäckan
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att besluta att taxorna ska
 börja gälla från och med 1 januari 2025.
@@ -12128,13 +12128,13 @@ allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
 
-1. Biblioteken i Kungsbacka, 2014
-2. Kungsbacka Konsthall, 2014
+1\. Biblioteken i Kungsbacka, 2014
+2\. Kungsbacka Konsthall, 2014
 
-3. Kungsbacka Kulturskola, 2015
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
-5. Kungsbacka Teater och Konsertsalen Snäckan, 2021
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
+5\. Kungsbacka Teater och Konsertsalen Snäckan, 2021
 
 Avgifterna justeras för att uppnå en större grad av tydlighet och för att uppnå en
 avgiftsnivå i paritet med vad som gäller för andra kommuner som Kungsbacka
@@ -12204,13 +12204,13 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
 
-1. Biblioteken i Kungsbacka
-2. Kungsbacka Konsthall
+1\. Biblioteken i Kungsbacka
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
-4. Naturum Fjärås Bräcka och Äskhult By
+3\. Kungsbacka Kulturskola
+4\. Naturum Fjärås Bräcka och Äskhult By
 
-5. Kungsbacka Teater och Konsertsalen Snäckan
+5\. Kungsbacka Teater och Konsertsalen Snäckan
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att besluta att taxorna ska börja gälla från
 och med 1 januari 2025.
@@ -12222,13 +12222,13 @@ offentliga medel dels av avgifter som tas ut med stöd i Bibliotekslagen (2013:8
 Kommunallagen (2017:900), 2 kap. 5 - 6 §§ - allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
-1. Biblioteken i Kungsbacka, 2014
+1\. Biblioteken i Kungsbacka, 2014
 
-2. Kungsbacka Konsthall, 2014
-3. Kungsbacka Kulturskola, 2015
+2\. Kungsbacka Konsthall, 2014
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
-5. Kungsbacka Teater och Konsertsalen Snäckan, 2021
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
+5\. Kungsbacka Teater och Konsertsalen Snäckan, 2021
 
 Avgifterna justeras för att uppnå en större grad av tydlighet och för att uppnå en avgiftsnivå i paritet
 med vad som gäller för andra kommuner som Kungsbacka naturligt kan jämföras med.
@@ -12500,7 +12500,7 @@ drifts- och entreprenadkostnader, kapitalkostnader samt intäkter.
 
 Avfallsverksamheten har ett negativt resultat på -1,3 miljoner kronor efter reglering mot fond 2023.
 Enligt simuleringen förväntas ett fortsatt underskott åren 2024-2027 och en budget i balans först år
-2028. För att komma i balans inom treårsperioden och för att inte belasta skattekollektivet krävs
+2028\. För att komma i balans inom treårsperioden och för att inte belasta skattekollektivet krävs
 ytterligare större avgiftshöjningar eller kostnadsminskningar kommande år.
 
 Underskottet från år 2023 kan regleras genom avgiftsuttag eller skattebidrag och måste återföras senast
@@ -12575,7 +12575,7 @@ en avgiftsökning om tolv procent för år 2025.
 
 Maxtaxor för auktorisationer (bygg- och rivningsavfall, returpapper flerbostadshus och förpackningar
 flerbostadshus) höjs enligt avfallsindex A12:1. Basmånad januari 2024 och avläsningsmånad oktober
-2024.
+2024\.
 Avgiftshöjningen för ett hushåll som har den vanligaste tjänsten med ett kärl för restavfall och ett kärl
 för matavfall innebär att årsavgiften inklusive moms enligt förslaget ökar från 2375 kronor år 2024 till
 2660 kronor år 2025.
@@ -12809,8 +12809,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 [Tabell 329-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/329-1.csv)
 
@@ -12820,14 +12820,14 @@ Grundavgift per restavfallskärl, i kronor per år
 
 [Tabell 329-2](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/329-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, helår | 2 660 | 2 660 | 5 735 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 045 | Inte valbar |
 | 190 liter | Varannan vecka, helår | 3 255 | 3 255 | 7 245 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 305 | Inte valbar |
 | 370 liter | Varannan vecka, helår | 5 005 | 5 005 | 9 220 |
-| 660 liter** | Varannan vecka, helår | 12 920 | 12 920 | 20 445 |
+| 660 liter\*\* | Varannan vecka, helår | 12 920 | 12 920 | 20 445 |
 
 <!-- sida 330 -->
 
@@ -12838,8 +12838,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 [Tabell 330-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/330-1.csv)
 
@@ -12849,14 +12849,14 @@ Grundavgift per restavfallskärl, i kronor per år
 
 [Tabell 330-2](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/330-2.csv)
 
-| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, delår | 1 325 | 1 325 | 2 865 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 025 | Inte valbar |
 | 190 liter | Varannan vecka, delår | 1 630 | 1 630 | 3 625 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 155 | Inte valbar |
 | 370 liter | Varannan vecka, delår | 2 505 | 2 505 | 4 610 |
-| 660 liter** | Varannan vecka, delår | 6 460 | 6 460 | 10 225 |
+| 660 liter\*\* | Varannan vecka, delår | 6 460 | 6 460 | 10 225 |
 
 <!-- sida 331 -->
 
@@ -12921,7 +12921,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 Utkörningsavgift, hyra av container (7 dagar) samt hemtagningsavgift och
 behandlingskostnad ingår i avgiften. Till komposterbart trädgårds- och parkavfall räknas
@@ -12943,7 +12943,7 @@ Avgift för hämtning av trädgårds- och parkavfall i container, i kronor per h
 
 [Tabell 332-2](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/332-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -13273,7 +13273,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 Utkörningsavgift, hyra av container (7 dagar) samt hemtagningsavgift och
 behandlingskostnad ingår i avgiften. Till komposterbart trädgårds- och parkavfall räknas
@@ -13296,7 +13296,7 @@ Avgift för hämtning av trädgårds- och parkavfall i container, i kronor per h
 
 [Tabell 340-2](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/340-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -13426,7 +13426,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -13453,7 +13453,7 @@ Grundavgift container
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i<br>container, per container och hämtningstillfälle | 7000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten behållare/tank<br>(ABP-avfall, kategori 3), per behållare och hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett,<br>per behållare och hämtningstillfälle | 600 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis<br>kasserade produkter, textilavfall eller avfall som uppkommit i<br>verksamhetens personalutrymmen eller serveringsverksamhet, per<br>hämtning * | 7000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis<br>kasserade produkter, textilavfall eller avfall som uppkommit i<br>verksamhetens personalutrymmen eller serveringsverksamhet, per<br>hämtning \* | 7000 |
 
 [Tabell 343-2](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/343-2.csv)
 
@@ -13465,9 +13465,9 @@ Grundavgift container
 
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
+\* Som består av sten, tegel, betong, klinker eller keramik
 
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 [Tabell 344-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/344-1.csv)
 
@@ -13481,8 +13481,8 @@ Behandlingskostnad per ton
 | Gips | 2 500 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 400 |
 | Metall | 350 |
-| Mineral* | 2 882 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 500 |
+| Mineral\* | 2 882 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 500 |
 | Planglas | 2 619 |
 | Plast (inkl. eftersortering) | 2 700 |
 | Tryckimpregnerat trä/slipers | 2 330 |
@@ -13499,8 +13499,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 Avgift för exempelvis provtagning, extra hyra av container, felsortering, utkörning av
@@ -13526,8 +13526,8 @@ Behandlingsavgiften utgår då ifrån omklassningen.
 | Gips | 1 000 |
 | Kablar (ej farligt avfall) | 1 000 |
 | Metall | 175 |
-| Mineral* | 2 885 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 000 |
+| Mineral\* | 2 885 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 000 |
 | Planglas | 1 500 |
 | Plast | 1 000 |
 | Tryckimpregnerat trä/slipers | 1 165 |
@@ -13742,7 +13742,7 @@ Uppdateringar mellan Avfallstaxa 2024 (Avfallstaxa Kommunfullmäktige 14 decembe
 
 [Tabell 355-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/355-1.csv)
 
-|  |  | Nya tjänster som erbjuds:<br>-Fast livsmedelsavfall (ABP-avfall kategori 3), separat utsorterat i 140l-kärl<br>eller annan typ av behållare<br>-Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container<br>-Flytande livsmedelsavfall i sluten behållare (ABP-avfall, kategori 3)<br>-Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett<br>-Övrigt kommunalt avfall. Exempelvis kasserade produkter, textilavfall eller<br>avfall som uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet*<br>* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie<br>utförare. Sådant avfall får endast hämtas av annan entreprenör efter<br>godkännande från kommunens avfallsorganisation. |
+|  |  | Nya tjänster som erbjuds:<br>-Fast livsmedelsavfall (ABP-avfall kategori 3), separat utsorterat i 140l-kärl<br>eller annan typ av behållare<br>-Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container<br>-Flytande livsmedelsavfall i sluten behållare (ABP-avfall, kategori 3)<br>-Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett<br>-Övrigt kommunalt avfall. Exempelvis kasserade produkter, textilavfall eller<br>avfall som uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet\*<br>\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie<br>utförare. Sådant avfall får endast hämtas av annan entreprenör efter<br>godkännande från kommunens avfallsorganisation. |
 | --- | --- | --- |
 | 4.6.1<br>Privatpersoner | Förenkla texten om ÅVC-<br>besök. | Följande text:<br>I avfallsabonnemanget ingår besök på återvinningscentralerna. Alla vuxna<br>folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Inpassering sker<br>med körkort. Personer som inte har körkort kan ansöka om att få ett ÅVC-<br>kort i stället. Även privatpersoner som är folkbokförda i annan kommun<br>men äger ett fritidshus med avfallsabonnemang i Kungsbacka har rätt till 15<br>besök per abonnemang och år och får ett ÅVC-kort till detta. Det är också<br>möjligt att betala enstaka besök på någon av kommunens<br>återvinningscentraler.<br>Byts till:<br>Alla vuxna folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Privatpersoner med<br>avfallsabonnemang för fritidshus i Kungsbacka kommun har rätt till 15 besök per |
 
@@ -13804,11 +13804,11 @@ I ärendets förslag till beslut inryms tre separata ärenden som lyfts till nä
 samlingsärende.
 De tre ärendena är:
 
--  Avfallstaxan för 2025
--  Återredovisningen gällande maxtaxa för fastighetsnära insamling av bygg-
+\-  Avfallstaxan för 2025
+\-  Återredovisningen gällande maxtaxa för fastighetsnära insamling av bygg-
 och rivningsavfall
 
--  Beslut om införande av ett auktorisationssystem för hantering av kommunalt
+\-  Beslut om införande av ett auktorisationssystem för hantering av kommunalt
 avfall
 Nämnden för Tekniks beslut om Avfallstaxa 2025 från nämnden för Tekniks
 sammanträde i april 2024 har reviderats på grund av ny lagstiftning. Avfallstaxa
@@ -13954,7 +13954,7 @@ behandlingskostnader föreslås till år 2025. Avfallsindex ligger till grund f�
 Hälsningar
 Sandra Carlström
 Miljöingenjör
-______________________
+\______________________
 Kungsbacka kommun
 Avfall & Återvinning
 
@@ -13992,7 +13992,7 @@ kommunfullmäktige antar.
 Nybyggnation av omlastningsstation kommer att innebära ökad hyra vilket är den
 största kostnadsökningen inför 2025. Kostnader för insamling av avfall samt
 kostnader för drift och transporter avfall från återvinningscentraler bedöms öka även
-2025. Sammantaget bedöms att taxan behöver höjas med 12 procent för att intäkterna
+2025\. Sammantaget bedöms att taxan behöver höjas med 12 procent för att intäkterna
 ska matcha kostnaderna.
 
 Avgifterna avrundas till närmsta fem- eller tiokrona.
@@ -14201,7 +14201,7 @@ Verksamhetens kostnader
 
 För ett hushåll som har den vanligaste tjänsten med ett kärl för restavfall och ett kärl för matavfall ökar
 årsavgiften med föreslagen taxejustering från 2375 kronor år 2024 till 2660 kronor inklusive moms år
-2025.
+2025\.
 Hämtningsintervall för trädgårdsavfall har förlängts.
 
 Maxtaxor för auktorisationer (bygg- och rivningsavfall, returpapper flerbostadshus och förpackningar
@@ -14230,7 +14230,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -14241,7 +14241,7 @@ avfallsorganisation.
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat<br>i container, per container och hämtningstillfälle | 7000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten<br>behållare/tank (ABP-avfall, kategori 3), per behållare och<br>hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt<br>fett, per hämtning | 1000 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning * | 7000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning \* | 7000 |
 
 <!-- sida 370 -->
 
@@ -14262,16 +14262,16 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Inledande bestämmelser ...................................................................................... 3
+1\. Inledande bestämmelser ...................................................................................... 3
 1.1 Ansvar för den kommunala renhållningen och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper ............................................................. 3
 1.3 Ägarbyte ......................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ...................... 4
-2. Beräkningsgrunder ............................................................................................... 4
+2\. Beräkningsgrunder ............................................................................................... 4
 
-3. Mervärdesskatt .................................................................................................... 5
-4. Avgiftsbelopp/taxetabell ....................................................................................... 5
+3\. Mervärdesskatt .................................................................................................... 5
+4\. Avgiftsbelopp/taxetabell ....................................................................................... 5
 
 4.1 Allmän information .......................................................................................... 5
 4.2 Abonnemangsformer ...................................................................................... 5
@@ -14309,7 +14309,7 @@ Kungsbacka kommun              Avfallstaxa 2024                2 (24)
 
 <!-- sida 372 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar.
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808).
@@ -14381,7 +14381,7 @@ fastighetsinnehavare betalar grundavgift. Fastighetsinnehavarna ska tillsammans
 ansöka skriftligt om gemensamma avfallsbehållare eller gemensam avfallslösning till
 nämnden för Teknik enligt kommunens avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808).
 Avgift tas ut enligt fastställd taxa för varje enskild tjänst. Avgiften som anges i taxan
@@ -14420,11 +14420,11 @@ Kungsbacka kommun              Avfallstaxa 2024                4 (24)
 
 <!-- sida 374 -->
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Avgifter i taxan är angivna i kronor inklusive 25 % moms.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 I abonnemangsavgiften ingår följande:
@@ -14493,8 +14493,8 @@ Grundavgift per restavfallskärl, i kronor per år
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive
 grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun              Avfallstaxa 2024                6 (24)
 
@@ -14506,14 +14506,14 @@ Kungsbacka kommun              Avfallstaxa 2024                6 (24)
 
 [Tabell 375-2](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/375-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, helår | 2 375 | 2 375 | 5 120 |
 |  | Var fjärde vecka, helår | Inte valbar | 1825 | Inte valbar |
 | 190 liter | Varannan vecka, helår | 2 905 | 2 905 | 6 470 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 060 | Inte valbar |
 | 370 liter | Varannan vecka, helår | 4 470 | 4 470 | 8 230 |
-| 660 liter** | Varannan vecka, helår | 11 535 | 11 535 | 18 255 |
+| 660 liter\*\* | Varannan vecka, helår | 11 535 | 11 535 | 18 255 |
 
 <!-- sida 376 -->
 
@@ -14526,9 +14526,9 @@ Grundavgift per restavfallskärl, i kronor per år
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive
 grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
 
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 4.3.3 Avgifter för tilläggstjänster, en- och tvåbostadshus
 
@@ -14549,14 +14549,14 @@ Kungsbacka kommun              Avfallstaxa 2024                7 (24)
 
 [Tabell 376-2](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/376-2.csv)
 
-| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka, delår | 1 185 | 1 185 | 2 560 |
 |  | Var fjärde vecka, delår | Inte valbar | 915 | Inte valbar |
 | 190 liter | Varannan vecka, delår | 1 455 | 1 455 | 3 235 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 030 | Inte valbar |
 | 370 liter | Varannan vecka, delår | 2 235 | 2 235 | 4 115 |
-| 660 liter** | Varannan vecka, delår | 5 770 | 5 770 | 9 130 |
+| 660 liter\*\* | Varannan vecka, delår | 5 770 | 5 770 | 9 130 |
 
 [Tabell 376-3](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/376-3.csv)
 
@@ -14635,7 +14635,7 @@ hämtningar per år ingår.
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under
 vecka 14–45
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall i container
 Utkörningsavgift, hyra av container (7 dagar) samt hemtagningsavgift och
@@ -14669,7 +14669,7 @@ Kungsbacka kommun              Avfallstaxa 2024                9 (24)
 
 [Tabell 378-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/378-1.csv)
 
-| Kärl 240 liter* | 1 905 |
+| Kärl 240 liter\* | 1 905 |
 | --- | --- |
 | Kärl 370 liter | 2 225 |
 
@@ -15023,7 +15023,7 @@ hämtningar per år ingår.
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under
 vecka 14–45
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall i container
 Utkörningsavgift, hyra av container (7 dagar) samt hemtagningsavgift och
@@ -15057,7 +15057,7 @@ Kungsbacka kommun              Avfallstaxa 2024                16 (24)
 
 [Tabell 385-3](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/385-3.csv)
 
-| Kärl 240 liter* | 1 905 |
+| Kärl 240 liter\* | 1 905 |
 | --- | --- |
 | Kärl 370 liter | 2 225 |
 
@@ -15221,9 +15221,9 @@ Kungsbacka kommun              Avfallstaxa 2024                19 (24)
 
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
+\* Som består av sten, tegel, betong, klinker eller keramik
 
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om
 dispens kan uppvisas.
 
 4.5.2 Hämtning i storsäck
@@ -15249,8 +15249,8 @@ Kungsbacka kommun              Avfallstaxa 2024                20 (24)
 | Gips | 2 500 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 400 |
 | Metall | 350 |
-| Mineral* | 2 882 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 500 |
+| Mineral\* | 2 882 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 500 |
 | Planglas | 2 619 |
 | Plast (inkl. eftersortering) | 2 700 |
 | Tryckimpregnerat trä/slipers | 2 330 |
@@ -15267,8 +15267,8 @@ Kungsbacka kommun              Avfallstaxa 2024                20 (24)
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om
 dispens kan uppvisas.
 
 4.5.3 Övriga avgifter
@@ -15308,8 +15308,8 @@ Kungsbacka kommun              Avfallstaxa 2024                21 (24)
 | Gips | 1 000 |
 | Kablar (ej farligt avfall) | 1 000 |
 | Metall | 175 |
-| Mineral* | 2 885 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 000 |
+| Mineral\* | 2 885 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 000 |
 | Planglas | 1 500 |
 | Plast | 1 000 |
 | Tryckimpregnerat trä/slipers | 1 165 |
@@ -15540,7 +15540,7 @@ beräknad till fjärde kvartalet 2024. Utöver det innehåller redovisningen ett
 i kommunfullmäktige 2023 och 2024. Dessa motioner är inplanerade för politisk behandling och
 beräknas med andra ord kunna besvaras inom ett år eller strax över ett år från att de väcktes.
 Sammanställningen omfattar motioner som väckts, men inte besvarats till och med den 11 oktober
-2024.
+2024\.
 
 Beslutsunderlag
 Kommunledningskontorets tjänsteskrivelse, 2024-10-11

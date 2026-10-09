@@ -127,7 +127,7 @@ Bygg- och miljöförvaltningen har upprättat uppföljning och prognos per den 3
 2024 för Byggnadsnämnden enligt kommunens riktlinjer.
 Byggnadsnämnden redovisar ett utfall mot budget om -0,5 miljoner kronor per april.
 Prognosen för helåret visar att nämnden har en sammantagen budget i balans för
-2024.
+2024\.
 
 Beslutsunderlag
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2024-05-07

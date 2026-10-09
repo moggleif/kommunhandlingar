@@ -221,10 +221,10 @@ incidenter upprepas.
 Årets analys av personuppgiftsincidenter gjordes för år 2024. Resultatet påvisade tre tydliga
 trender;
 
-1. Anmälda personuppgiftsincidenter minskar
+1\. Anmälda personuppgiftsincidenter minskar
 
-2. Den mänskliga faktorn utgör den främsta bakomliggande orsaken till personuppgiftsincidenter
-3. Microsoft Outlook 365 utgör det sammanhang där flest personuppgiftsincidenter har rapporterats
+2\. Den mänskliga faktorn utgör den främsta bakomliggande orsaken till personuppgiftsincidenter
+3\. Microsoft Outlook 365 utgör det sammanhang där flest personuppgiftsincidenter har rapporterats
 
 Den ovan nämnda sammanställningen samt den årliga analysen av personuppgiftsincidenter är en
 del av förvaltningens arbete för att minska antalet personuppgiftsincidenter, skapa förståelse för
@@ -455,7 +455,7 @@ personuppgifter för att se till att reglerna i GDPR och god informationssäkerh
 samt utskick från E-tjänsterna granskas och även ser över förtydligande text för personer med
 skyddad identitet. Det är viktigt att rätt information står i våra E-tjänster och att den är lättbegriplig
 för invånarna.
--  Gallringstid för E-tjänster:
+\-  Gallringstid för E-tjänster:
 
 Den gallringstid som ska anges avser den period under vilken personuppgifterna bevaras i
 det system där de slutligen lagras efter att E-tjänsten har använts. Exempelvis, vid ansökan
@@ -463,7 +463,7 @@ om bygglov via E-tjänsten ska den gallringstid som gäller för hur länge för
 personuppgifterna i systemet ByggR/Nova även anges i E-tjänsten. Tidigare har begreppet
 gallringstid tolkats olika inom Bygg respektive Miljö, vilket nu förtydligats.
 
--  Se över utskick via E-tjänster:
+\-  Se över utskick via E-tjänster:
 Kontrollera om E-tjänsten skickar ut sms eller e-post till registrerade användare. Om
 sådana utskick förekommer får meddelandena inte innehålla någon känslig information,
 utan endast allmänt formulerad text. Denna granskning genomförs med anledning av en
@@ -484,7 +484,7 @@ känslig information, utan enbart texten: ”Du har fått ett nytt meddelande ko
 [ärendenummer]. Klicka på länken nedan för att visa ärendet.”
 
 Vid klick på länken krävs inloggning med BankID för att ta del av informationen.
--  Förtydligande för personer med skyddad identitet:
+\-  Förtydligande för personer med skyddad identitet:
 
 Ett förtydligande avseende personer med skyddad identitet har införts i förtexten till
 samtliga E-tjänster inom Bygg- och miljöförvaltningen. Informationen klargör att personer
@@ -622,19 +622,19 @@ drönare
 Inom projektet Flygning med drönare
 
 1.11 Behörighetsrutiner
--  Kontroll av behörighet till Nova (ByggR). Loggning utförs 2 gånger per år av
+\-  Kontroll av behörighet till Nova (ByggR). Loggning utförs 2 gånger per år av
 systemförvaltaren. 1 gång i juni samt 1 gång i december enligt rutin.
 
--  Kontroll av behörighet till Nova (ByggR) Sekretess.
--  Kontroll av behörighet till Ciceron.
+\-  Kontroll av behörighet till Nova (ByggR) Sekretess.
+\-  Kontroll av behörighet till Ciceron.
 
--  Kontroll av behörighet till Ciceron Sekretess.
--  Kontroll av behörighet till EDP Arkiv.
+\-  Kontroll av behörighet till Ciceron Sekretess.
+\-  Kontroll av behörighet till EDP Arkiv.
 
--  Kontroll av behörighet till Bildbanken.
--  Kontroll av behörighet till Kartportalen.
+\-  Kontroll av behörighet till Bildbanken.
+\-  Kontroll av behörighet till Kartportalen.
 
--  Kontroll av behörighet till Bygg- och miljöförvaltningens fysiska arkiv.
+\-  Kontroll av behörighet till Bygg- och miljöförvaltningens fysiska arkiv.
 
 Kungsbacka kommun             Rapport                          12
 
@@ -752,18 +752,18 @@ Kungsbacka kommun             Rapport                          14
 
 Förvaltningen avser att under 2026 fortsätta utveckla och säkerställa ett fullgott skydd av
 personuppgifter inom ramen för sitt dataskyddsarbete.
--  Arbeta med eventuella åtgärdspunkter efter Dataskyddsombudets årsrapport för 2025.
+\-  Arbeta med eventuella åtgärdspunkter efter Dataskyddsombudets årsrapport för 2025.
 
--  Fortsättning gemensam utbildningsinsats: informationssäkerhet, sekretess, dataskydd samt
+\-  Fortsättning gemensam utbildningsinsats: informationssäkerhet, sekretess, dataskydd samt
 SEFOS.
--  Information till nämnd.
+\-  Information till nämnd.
 
--  Information till förvaltningsledning.
--  Dataskyddsombudet utför granskning. Arbeta med dessa frågeställningar och underlag.
+\-  Information till förvaltningsledning.
+\-  Dataskyddsombudet utför granskning. Arbeta med dessa frågeställningar och underlag.
 
--  Analys av personuppgiftsincidenter år 2025.
--  Årsrapport dataskyddsarbete 2026 och årsplan 2027.
+\-  Analys av personuppgiftsincidenter år 2025.
+\-  Årsrapport dataskyddsarbete 2026 och årsplan 2027.
 
--  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”.
+\-  Egenkontroll av verksamhetens dataskydd ”Kolla dataskyddet”.
 
 Kungsbacka kommun             Rapport                          15

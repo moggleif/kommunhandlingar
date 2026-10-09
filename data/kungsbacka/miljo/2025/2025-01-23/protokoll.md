@@ -240,11 +240,11 @@ miljöhandläggare att fokusera på anläggningar som inte uppfyller lagkraven o
 fastigheter som påverkar vattenkvaliteten negativt.
 Förslagsställarna yrkar på följande:
 
-- Att förvaltningen undersöker möjligheten att samarbeta med näringslivet för en
+\- Att förvaltningen undersöker möjligheten att samarbeta med näringslivet för en
 effektivare tillsyn av avloppsrening för små avlopp, vad gäller minireningsverk.
 
-- Att förvaltningen redovisar utfallet senast till nämndens sammanträde den 8 maj
-2025.
+\- Att förvaltningen redovisar utfallet senast till nämndens sammanträde den 8 maj
+2025\.
 
 Beslutsunderlag
 
@@ -686,13 +686,13 @@ möjliggöra en minskning av det fluorerande ämnet i kommunens vattendrag enlig
 satta gränsvärden.
 Förslagsställarna lyfter följande punkter:
 
-- Hur står kommunen sig rustad för de krav på gränsvärden som satts?
-- Hur och vilka ekonomiska förutsättningar har vi som kommun planerat för?
+\- Hur står kommunen sig rustad för de krav på gränsvärden som satts?
+\- Hur och vilka ekonomiska förutsättningar har vi som kommun planerat för?
 
-- Hur och med vilka kan vi samarbeta med när det gäller våra vattendrag, våra
+\- Hur och med vilka kan vi samarbeta med när det gäller våra vattendrag, våra
 gemensamma reservledningspartner Göteborg och Varberg?
-- Svar och återkoppling på initiativärendets frågor önskas senast under maj månad
-2025.
+\- Svar och återkoppling på initiativärendets frågor önskas senast under maj månad
+2025\.
 
 Beslutsunderlag
 Initiativ från Renée Sylvan (S) med flera, 2025-01-23

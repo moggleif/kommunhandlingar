@@ -346,12 +346,12 @@ finns tillgängliga på Samhällsbyggnadskontoret. Länsstyrelsens yttrande bifo
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10 § plan- och bygglagen
 (PBL) och nu kända förhållanden att ändringen av detaljplanen enligt förslaget kan komma att
 prövas. Motivet för denna bedömning är följande:
--  Detaljplanen riskerar att på ett betydande sätt påverka miljön i Natura 2000-området
+\-  Detaljplanen riskerar att på ett betydande sätt påverka miljön i Natura 2000-området
 Kungsbackafjorden.
 
 Kommentar: Detaljplaneområdet har minskats och omfattar inte längre vattenområdet,
@@ -360,14 +360,14 @@ möjligheten för en småbåtshamn och vågbrytare är inte längre aktuell. Dä
 kommunens bedömning att detaljplanen inte innebär någon påverkan på miljön i Natura
 2000-området Kungsbackafjorden.
 
--  Det saknas en beskrivning av hur miljökvalitetsnormerna kommer att påverkas av den
+\-  Det saknas en beskrivning av hur miljökvalitetsnormerna kommer att påverkas av den
 planerade hamnen.
 Kommentar: Detaljplaneområdet har minskats och omfattar inte längre vattenområdet.
 Den del av detaljplanen som prövade möjligheten för en småbåtshamn är inte längre
 aktuell. Därmed är det kommunens bedömning att detaljplanen inte kommer att påverka
 möjligheten att nå uppsatta mål kopplat till MKN för vatten.
 
--  Det finns risk för människors hälsa och säkerhet, med avseende på risk för
+\-  Det finns risk för människors hälsa och säkerhet, med avseende på risk för
 markföroreningar, risk för översvämning samt risk för ras, skred och erosion.
 
 Det krävs ytterligare utredningar och avgränsningar gällande förorenade sediment.
@@ -405,17 +405,17 @@ strandkant och i vatten.
 
 Länsstyrelsen lämnar följande råd om tillämpningen av PBL och MB:
 
--  Trafikbuller: Detaljplanen bör säkerställa att bullernivåer från trafik följer de riktvärden
+\-  Trafikbuller: Detaljplanen bör säkerställa att bullernivåer från trafik följer de riktvärden
 som finns i förordningen (2015:216) om trafikbuller vid bostadsbyggnader.
 Kommentar: Detaljplanen kompletteras med bestämmelse som säkerställer att
 
 bullernivåer från trafik följer riktvärdena.
--  Verksamhetsbuller: Detaljplanen bör säkerställa eventuella skyddsåtgärder som krävs för
+\-  Verksamhetsbuller: Detaljplanen bör säkerställa eventuella skyddsåtgärder som krävs för
 att klara kraven för verksamhetsbuller vid bostäder.
 
 Kommentar: Detaljplanen möjliggör skärmtak över entréer och inlastning om
 detta behövs för att skärma av buller.
--  Strandskydd: I nuvarande formulering upphävs strandskyddet generellt med undantag av
+\-  Strandskydd: I nuvarande formulering upphävs strandskyddet generellt med undantag av
 områden med bestämmelsen a . Kommunen bör i stället peka på de områden där
 2
 strandskyddet upphävs.
@@ -423,19 +423,19 @@ Kommentar: Detaljplanen har ändrats. Detaljplanen föreslår nu att strandskydd
 upphävs inom all kvartersmark. Inom allmän plats upphävs strandskyddet med
 undantag för områden för NATUR.
 
--  Arkeologi: Inför fortsatt planarbete är det motiverat att genomföra en arkeologisk
+\-  Arkeologi: Inför fortsatt planarbete är det motiverat att genomföra en arkeologisk
 förundersökning på land och en marinarkeologisk förundersökning i vattnet.
 Kommentar: En arkeologisk förundersökning på land kommer att genomföras.
 Eftersom det inte längre är aktuellt att anlägga en småbåtshamn kommer inga
 undersökningar göras inom vattenområdet.
 
--  Kulturmiljö: Kommunen bör förtydliga sina argument kring ställningstagandet att riva
+\-  Kulturmiljö: Kommunen bör förtydliga sina argument kring ställningstagandet att riva
 befintlig byggnad ”Hamnkrogen”. Likaså bör kommunens bedömning av hur den nya
 bebyggelsen kan påverka landskapsbilden och kulturmiljövärden på platsen kompletteras
 och motiveras.
 Kommentar: Planbeskrivningen har kompletterats.
 
--  MKB: Miljökonsekvensbeskrivningen bör utvecklas och kompletteras med följande:
+\-  MKB: Miljökonsekvensbeskrivningen bör utvecklas och kompletteras med följande:
 
 <!-- sida 12 -->
 
@@ -465,7 +465,7 @@ småbåtshamn är inte längre aktuell. Därmed är det kommunens bedömning att
 risken för att detaljplanens genomförande innebära en betydande miljöpåverkan är
 mycket liten. Detaljplanens MKB har ändå uppdaterat och gäller för tillämpbara
 delar.
--  Planbestämmelser:
+\-  Planbestämmelser:
 Detaljplanen bör förtydliga syftet med att bygglovsbefria matvagnar på hela piren
 o
 och se över behovet att begränsa exempelvis tider och antal dagar samt vilken yta
@@ -502,7 +502,7 @@ o
 vilket planbeskrivningen anger att den gör.
 Kommentar: Plankarta och planbeskrivning ändras och kompletteras med
 utformningsbestämmelse som reglerar takfärgen på bostadsbyggnader.
--  Övrigt:
+\-  Övrigt:
 
 När det planeras för bostäder vore det intressant att i planen kunna läsa om vilken
 o
@@ -522,7 +522,7 @@ Kommentar: Detaljplaneområdet har minskats och omfattar inte längre
 vattenområdet. Den del av detaljplanen som prövade möjligheten för en
 småbåtshamn och vågbrytare är inte längre aktuell.
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Lantmäteriet vill påpeka att nyttjande av den administrativa bestämmelsen i dess nuvarande form
 kan innebära otydlighet. Strandskyddet gäller generellt på mark och i vatten inom 100 meter från
 strandlinjen. Kommunen kan i detaljplanearbetet bestämma att strandskyddet upphävs med en
@@ -535,7 +535,7 @@ Kommentar: Detaljplanen har ändrats. Detaljplanen föreslår nu att strandskydd
 upphävs inom all kvartersmark. Inom allmän plats upphävs strandskyddet med undantag
 för områden för NATUR.
 
-3. Räddningstjänsten Storgöteborg
+3\. Räddningstjänsten Storgöteborg
 Räddningstjänstens insatstid är mellan 10–20 minuter. Befintligt vägnät bedöms ge möjlighet för
 räddningstjänstens fordon att kunna ställas upp på så vis att avståndet från fordon till
 byggnadernas angreppspunkter inte överstiger 50 meter.
@@ -554,7 +554,7 @@ Kommentar: Kommunen kommer i samband med projekteringen av ledningar för vatten
 och spillvatten se över möjligheten att placera en brandpost närmare den nya
 bostadsbebyggelsen. Kapacitet finns i befintligt system.
 
-4. Statens Geotekniska Institut
+4\. Statens Geotekniska Institut
 SGI anser att översyn av befintliga erosionsskydd ska utföras i planskedet och vid behov ska
 erosionsskyddande åtgärder säkerställas i plankartan, då det enligt PM Geoteknik är en
 förutsättning för planområdets långsiktiga stabilitet.
@@ -596,7 +596,7 @@ KUNGSBACKA  KOMMUN
 
 8 (26)
 
-5. Trafikverket
+5\. Trafikverket
 
 Trafikverket anser att kommunen bör planera för bostäder i centrala delar av Kungsbackas tätort i
 stället för i ett område som har begränsad tillgång till kollektivtrafik. Genom en sådan planering
@@ -616,7 +616,7 @@ kring detta.
 
 Sakägare
 
-6. Skanova
+6\. Skanova
 Skanova uppmärksammar i sitt yttrande att de har anläggningar inom fastigheten. Eventuella
 undanflyttningar bekostas av exploatören. Skanova har i övrigt inget att invända mot
 
@@ -624,7 +624,7 @@ planförslaget.
 Kommentar: Samhällsbyggnadskontoret noterar informationen och lämnar den vidare till
 exploatören. U-område vid triangeltomten har utökats.
 
-7. Ellevio
+7\. Ellevio
 Ellevio uppmärksammar i sitt yttrande att det finns jordkabelledningar och en
 transformatorstation inom planområdet. Det är troligt att det krävs en större transformatorstation
 för att strömförsörja området, än den som finns där idag. Det läge som detaljplanen föreslår för
@@ -647,7 +647,7 @@ KUNGSBACKA  KOMMUN
 
 9 (26)
 
-8. Skällared 3:20
+8\. Skällared 3:20
 
 Lagfaren ägare till Skällared 3:20 tycker inte att det är lämpligt att möjliggöra för så mycket som
 70 lägenheter och motsätter sig därför planförslaget. Byggnationen kommer att få negativa
@@ -734,7 +734,7 @@ utvecklingen av Gottskär.
 Synpunkter och idéer som rör Gottskärs utveckling utöver det som detaljplanen för
 Skällared 3:55 föreslår, tas vidare till kommunens pågående arbete med Gottskär.
 
-9. Skällared 3:24
+9\. Skällared 3:24
 
 Fastighetsägaren, hälftenägare, uppmärksammar i sitt yttrande att havsutsikten från caféet på
 bottenplan och från lägenheten en våning upp kommer att påverkas negativt av
@@ -821,7 +821,7 @@ lagstiftningen.
 Synpunkter och idéer som rör Gottskärs utveckling utöver det som detaljplanen för
 Skällared 3:55 föreslår, tas vidare till kommunens pågående arbete med Gottskär.
 
-10. Skällared 3:25, 3:46 och 3:115
+10\. Skällared 3:25, 3:46 och 3:115
 Yttrandet är gemensamt från lagfarna ägare till Skällared 3:25, 3:46 och 3:115.
 
 Sammanfattningsvis är fastighetsägarna negativa till omfattningen av det som detaljplanen
@@ -943,7 +943,7 @@ markerat med BC (i samrådsförslaget BC ) regleras till maximalt 3,5 meter.
 Det parkeringsbehov som en exploatering inom Skällared 3:55 genererar tillgodoses
 genom de parkeringsplatser som tillskapas inom området.
 
-11. Skällared 3:45, Brf Galjonsvägen 1
+11\. Skällared 3:45, Brf Galjonsvägen 1
 
 Bostadsrättföreningen är positiv till att Gottskär utvecklas. De anser dock att den byggnation som
 förslås är för stort och stadsliknande. Det som detaljplanen möjliggör innebär att den havsutsikt
@@ -1038,7 +1038,7 @@ Gottskärsvägen, längs med sträckan från Klaraplan till Hamnplan. Vägsträc
 
 i detaljplanen för Skällared 3:55 m fl men åtgärderna är möjliga att genomföra ändå.
 
-12. Skällared 3:84
+12\. Skällared 3:84
 Fastighetsägaren är tveksam till de byggnadshöjder som planförslaget möjliggör. I nuvarande
 plan är byggnaders höjder reglerat till 7,6 meter och i planförslaget föreslås byggnader högre än
 12 meter. I planförslaget står det att byggnaders utformning ska tillvarata de
@@ -1109,7 +1109,7 @@ KUNGSBACKA  KOMMUN
 
 18 (26)
 
-13. Skällared 3:114
+13\. Skällared 3:114
 
 Fastighetsägaren var initialt positiv till det som presenterades i planprogrammet från 2018 då
 detta skulle bidra till Gottskärs utveckling. I planförslaget har dock förutsättningarna förändrats
@@ -1147,7 +1147,7 @@ takvinklar i syfta att värna platsens karaktär och den bohuslänska skärgård
 bebyggelsetradition. Kommunen gör bedömningen att regleringen bidrar till att de nya
 byggnaderna harmoniserar med övriga Gottskär.
 
-14. Skällared 3:117
+14\. Skällared 3:117
 Den föreslagna bebyggelsen kommer påverka fastighetsägarens havsutsikt och hen motsätter sig
 därför byggnadshöjden. Nuvarande bebyggelse har anpassats för att inte dominerande och störa
 omkringliggande fastigheter. Ny bebyggelse bör istället få en höjd likt nuvarande bebyggelse på
@@ -1171,7 +1171,7 @@ förtret för befintliga fastighetsägare. Det är inte bara ekonomiska värden 
 
 estetik med tanke på att byggnaderna ska stå på platsen en längre tid.
 Kommentar: Den bebyggelse som föreslås är inte högre än den i planprogrammet från
-2018. Inom delar av planområdet tillåter den nya detaljplanen lägre byggnader än vad
+2018\. Inom delar av planområdet tillåter den nya detaljplanen lägre byggnader än vad
 som är tillåtet genom nuvarande plan och inom andra delar tillåts en något högre
 nockhöjd. Kommunen gör bedömningen att den högsta nockhöjd som detaljplanen
 möjliggör för bostadskvarteret är lämplig och inte innebär någon större
@@ -1197,7 +1197,7 @@ förstudien för Gottskär.
 
 Kommunala förvaltningar och nämnder
 
-15. Teknik
+15\. Teknik
 Förvaltningen för Teknik konstaterar i sitt yttrande att kommunen kommer att få ökade kostnader
 för drift och underhåll kopplade till övertagande av väghållarskapet för Gottskärsvägen.
 
@@ -1244,7 +1244,7 @@ utformning och de antalet parkeringar som är lämpliga inom detta stråk. Vidar
 möjligheten för cykelparkeringar i anslutning till verksamheterna ses över och redovisas
 på illustrationskartan.
 
-16. Miljö & Hälsoskydd
+16\. Miljö & Hälsoskydd
 
 Miljö & Hälsoskydd ser positivt på att Gottskär utvecklas som ett nav för båt- och friluftsliv,
 service- och turistmöjligheter i kommunen. Detta med tanke på områdets historia med aktiv
@@ -1315,7 +1315,7 @@ KUNGSBACKA  KOMMUN
 
 22 (26)
 
-17. Kultur & Fritid
+17\. Kultur & Fritid
 
 Förvaltningen för Kultur & Fritid tycker att flera av de gestaltningsgrepp som detaljplanen
 använder, såsom material och byggnadernas placering i förhållande till gatorna, kan fungera på
@@ -1333,7 +1333,7 @@ byggnaden före rivning så tas denna fråga vidare till fastighetsägaren.
 
 Övriga
 
-18. Bratterås 1:97
+18\. Bratterås 1:97
 Fastighetsägaren ställer sig positiv till att befintlig bebyggelsen rivs och ersätts av ny bebyggelse.
 Förslaget är vackert och kommer bli ett lyft för hela Gottskär och Kungsbacka kommun.
 
@@ -1344,7 +1344,7 @@ Kommentar: Synpunkter och idéer som rör Gottskärs utveckling utöver det som
 detaljplanen för Skällared 3:55 föreslår, tas vidare till kommunens pågående arbete med
 Gottskär.
 
-19. Skällared 3:44
+19\. Skällared 3:44
 Fastighetsägarens synpunkter berör i huvudsak parkeringen på Hamnplan. Enligt
 samrådsförslaget ser det ut som att de flesta parkeringsplatser på Hamnplan kommer vara kvar
 vilket är en besvikelse. Parkeringen vid Klaraplan bör utökas och antalet platser på Hamnplan
@@ -1355,7 +1355,7 @@ användningen av hamnplan. Synpunkterna tas dock vidare till kommunens pågåend
 arbete med Gottskär, som sker parallellt med, och till viss del oberoende av, detaljplanen
 för Skällared 3:55 m fl.
 
-20. Skällared 3:50 och 2:11
+20\. Skällared 3:50 och 2:11
 Fastighetsägarna ställer sig mycket positiva till planförslaget trots ökad trafik. Att vägen till
 
 planområdet är smal ser fastighetsägarna inte som ett problem utan det är snarare charmigt. Om
@@ -1395,7 +1395,7 @@ Kommentar: Synpunkter och idéer som rör Gottskärs utveckling utöver det som
 detaljplanen för Skällared 3:55 föreslår, tas vidare till kommunens pågående arbete med
 Gottskär.
 
-21. Skällared 3:52
+21\. Skällared 3:52
 
 Fastighetsägaren motsäger sig planförslaget och den exploateringen som föreslås. Föreslagen
 bebyggelse är för hög och kommer leda till allt för mycket trafik och för många människor i
@@ -1445,7 +1445,7 @@ Trafiksituationen på Gottskärsvägen kommer att förändras genom den exploate
 detaljplanen möjliggör. Därför planerar kommunen för trafiksäkerhethöjande åtgärder på
 Gottskärsvägen, längs med sträckan från Klaraplan till Hamnplan.
 
-22. Skällared 3:89
+22\. Skällared 3:89
 
 Fastighetsägaren anser att trafik- och parkeringsutredningen saknar beräkningar och en analys om
 framtida trafikflöden. Det totala flödet efter utbyggnad enligt planförslaget, och om detta funkar
@@ -1494,7 +1494,7 @@ ger är rimlig i förhållande till den positiva effekt som fler boende i områd
 
 befintliga och framtida verksamheter och servicefunktioner i Gottskär.
 
-23. Skällared 3:110
+23\. Skällared 3:110
 Fastighetsägaren konstaterar att kommunen för två år sedan presenterade ett förslag med 50
 lägenheter och att bebyggelsen skulle bli 7,5 meter hög. Nuvarande förslag innebär en alldeles för
 
@@ -1505,7 +1505,7 @@ tanke på att det knappt går att mötas på smala delar av vägen i dagsläget.
 
 Det är positivt att det händer något i Gottskär men detta är för mycket.
 Kommentar: Den bebyggelse som föreslås är inte högre än den i planprogrammet från
-2018. Inom delar av planområdet tillåter den nya detaljplanen lägre byggnader än vad
+2018\. Inom delar av planområdet tillåter den nya detaljplanen lägre byggnader än vad
 som är tillåtet idag och inom andra delar tillåts en något högre nockhöjd. Kommunen gör
 bedömningen att den högsta nockhöjd som detaljplanen möjliggör för bostadskvarteret är
 lämplig och inte innebär någon större omgivningspåverkan än den som nuvarande
@@ -1653,7 +1653,7 @@ Under denna granskningstid inkom 19 skrivelser. Inkomna synpunkter berörde blan
 nockhöjd, placering av byggnader, antalet bostäder som möjliggörs samt trafik. Länsstyrelsen lyfte i
 sitt yttrande frågor kopplat till hälsa och säkerhet samt risk för olyckor, översvämning eller erosion.
 Inkomna synpunkter sammanfattades och kommenterades i ett granskningsutlåtande daterat 2025-01-
-30.
+30\.
 Kontoret gjorde bedömningen att planförslaget skulle revideras. Följande revideringar gjordes:
 •  Planområdet utökades med 1,5 meter längs med användningsområdet för centrum
 (restaurangbyggnad) för att möjliggöra ett allmänt tillgängligt bryggstråk närmast vattnet.
@@ -1725,35 +1725,35 @@ Inkomna synpunkter har sammanfattats nedan. Personnamn anges inte. Samtliga yttr
 helhet diarieförda i kommunens diarium. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter                    5
-1.   Länsstyrelsen ........................................................................................ 5
-2.   Lantmäteriet .......................................................................................... 6
-3.   Statens Geotekniska Institut, SGI ......................................................... 6
-4.   Trafikverket .......................................................................................... 6
-5.   Skällared 3:26 ....................................................................................... 7
-6.   Skällared 3:46, 3:25 och 3:115 ............................................................. 7
-7.   Skällared 3:60 (lagfaren ägare + hyresgäst + ombud) ........................ 10
+1\.   Länsstyrelsen ........................................................................................ 5
+2\.   Lantmäteriet .......................................................................................... 6
+3\.   Statens Geotekniska Institut, SGI ......................................................... 6
+4\.   Trafikverket .......................................................................................... 6
+5\.   Skällared 3:26 ....................................................................................... 7
+6\.   Skällared 3:46, 3:25 och 3:115 ............................................................. 7
+7\.   Skällared 3:60 (lagfaren ägare + hyresgäst + ombud) ........................ 10
 
-8.   Skällared 3:117 ................................................................................... 13
-9.   Skällared s:1, s:5 ................................................................................. 13
-10.  Ellevio ................................................................................................ 13
+8\.   Skällared 3:117 ................................................................................... 13
+9\.   Skällared s:1, s:5 ................................................................................. 13
+10\.  Ellevio ................................................................................................ 13
 
 Kommunala förvaltningar och nämnder                  14
-11.  Teknik ................................................................................................. 14
-12.  Miljö & Hälsoskydd ........................................................................... 14
-13.  Kultur & Fritid .................................................................................... 14
-14.  Service ................................................................................................ 14
-15.  Räddningstjänsten .............................................................................. 14
+11\.  Teknik ................................................................................................. 14
+12\.  Miljö & Hälsoskydd ........................................................................... 14
+13\.  Kultur & Fritid .................................................................................... 14
+14\.  Service ................................................................................................ 14
+15\.  Räddningstjänsten .............................................................................. 14
 
 Övriga                                               15
-16.  Skällared 3:50 ..................................................................................... 15
-17.  Skällared 3:52 ..................................................................................... 15
-18.  Spekedal 1:50 ..................................................................................... 15
+16\.  Skällared 3:50 ..................................................................................... 15
+17\.  Skällared 3:52 ..................................................................................... 15
+18\.  Spekedal 1:50 ..................................................................................... 15
 
 Kvarstående erinringar                               16
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap 10 § PBL och nu kända
 förhållanden att ett antagande av en detaljplan enligt förslaget inte kommer att prövas.
@@ -1770,10 +1770,10 @@ Planbeskrivningen har förtydligats vad gäller syftet med bestämmelse b .
 KUNGSBACKA  KOMMUN
 6 (16)
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Lantmäteriet har inga synpunkter på planförslaget.
 
-3. Statens Geotekniska Institut, SGI
+3\. Statens Geotekniska Institut, SGI
 SGI anser att det är otydligt om bestämmelsen b gäller stabilitet. SGI lyfter också att
 3
 bestämmelsen kan påtvinga onödigt kostsamma lösningar vilket i sin tur kan riskera att åtgärden
@@ -1805,7 +1805,7 @@ för kvartersmarken där restaurangbyggnaden ska uppföras.
 Planbeskrivningen har uppdaterats i erforderliga delar, bland annat rörande geotekniska
 förutsättningar och konsekvenser.
 
-4. Trafikverket
+4\. Trafikverket
 Trafikverket har inga synpunkter på planförslaget.
 
 <!-- sida 40 -->
@@ -1815,7 +1815,7 @@ KUNGSBACKA  KOMMUN
 
 Sakägare
 
-5. Skällared 3:26
+5\. Skällared 3:26
 Fastighetsägaren anser att kommunens förslag om nya byggnader i Gottskär inte bevarar ortens
 
 bebyggelsetraditioner. De föreslagna byggnaderna är för höga och massproducerade, vilket inte
@@ -1842,7 +1842,7 @@ att arbeta för att skapa en trivsam och välkomnande miljö i Gottskär.
 Komplettering: Restaurangbyggnaden har flyttats, vilket innebär att havsutsikten för Skällared
 3:26 påverkas i än mer begränsad omfattning.
 
-6. Skällared 3:46, 3:25 och 3:115
+6\. Skällared 3:46, 3:25 och 3:115
 Fastighetsägaren beskriver i sitt yttrande hur det område som kallas triangeltomten används idag
 och vilka behov fastigheterna Skällared 3:46 och 3:115 även fortsättningsvis har av denna yta.
 Fastighetsägaren ifrågasätter om de behov som idag kan tillgodoses genom att triangeltomten
@@ -1960,7 +1960,7 @@ fastighetsägaren till Skällared 3:46, 3:25 och 3:115 innebär ändringen ingen
 förhållande till tidigare. Skillnaden är att kommunen kommer äga och drifta området, samt att
 användningen parkering definieras.
 
-7. Skällared 3:60 (lagfaren ägare + hyresgäst + ombud)
+7\. Skällared 3:60 (lagfaren ägare + hyresgäst + ombud)
 Fastighetsägare
 
 Fastighetsägaren har fortfarande invändningar mot planförslaget. De anser att bilderna som visar
@@ -2050,14 +2050,14 @@ såsom önskemålen var då bryggan uppfördes men som aldrig genomfördes.
 KUNGSBACKA  KOMMUN
 13 (16)
 
-8. Skällared 3:117
+8\. Skällared 3:117
 Fastighetsägare är fortsatt negativ till byggnadernas höjder och utformning samt antalet lägenheter.
 Detaljplanen får negativ påverkan på boende i området som inte längre får havsutsikt.
 
 Kommentar: Kommunen hänvisar till tidigare svar i samrådsredogörelsen och
 granskningsutlåtandet (2025-01-30).
 
-9. Skällared s:1, s:5
+9\. Skällared s:1, s:5
 
 Delägarna i de samfällda fastigheterna uppmärksammar i sitt yttrande att kommunen har beaktat de
 synpunkter som lämnades in i samband med den första granskningen genom att
@@ -2079,7 +2079,7 @@ innebär ingen skillnad för Skällared s:5 eftersom delar av fastigheten redan 
 
 väg.
 
-10. Ellevio
+10\. Ellevio
 
 Ellevio vill med sitt yttrande försäkra sig om att detaljplanen möjliggör för en transformatorstation
 som inte inverkar negativt på sin omgivning eller påverkas av omgivningen.
@@ -2094,7 +2094,7 @@ KUNGSBACKA  KOMMUN
 
 Kommunala förvaltningar och nämnder
 
-11. Teknik
+11\. Teknik
 Förvaltningen för Teknik har deltagit i framtagandet av detaljplanen och är positiva till
 
 planförslaget.
@@ -2107,13 +2107,13 @@ Kommentar: Yttrandet noteras.
 Komplettering: Genom restaurangbyggnadens ändrade placering har bryggstråket nu
 utformats med 2,0 meters bredd för att möjliggöra för rullstol längs bryggstråket.
 
-12. Miljö & Hälsoskydd
+12\. Miljö & Hälsoskydd
 Förvaltningen för Miljö- och Hälsoskydd lyfter i sitt yttrande bland annat att kommunen bör utreda
 möjligheten att begränsa tomgångskörning samt tidsbegränsa leveranser under kvälls- och nattetid.
 
 Kommentar: Yttrandet noteras.
 
-13. Kultur & Fritid
+13\. Kultur & Fritid
 
 Kultur & Fritid anser att det är positivt att tillgängliggöra och öka attraktionen till Gottskär som en
 destinationspunkt.
@@ -2124,10 +2124,10 @@ byggnadens roll och betydelse för orten. Den dokumentationen ska levereras till
 finnas som tillgång för framtida generationer.
 Kommentar: Yttrandet noteras.
 
-14. Service
+14\. Service
 Förvaltningen för Service har inga synpunkter på planförslaget.
 
-15. Räddningstjänsten
+15\. Räddningstjänsten
 Räddningstjänsten har inga synpunkter på planförslaget.
 
 <!-- sida 48 -->
@@ -2137,10 +2137,10 @@ KUNGSBACKA  KOMMUN
 
 Övriga
 
-16. Skällared 3:50
+16\. Skällared 3:50
 Fastighetsägaren har inga synpunkter på planförslaget.
 
-17. Skällared 3:52
+17\. Skällared 3:52
 Fastighetsägaren lämnar synpunkter angående behov av rening och omhändertagande dagvatten
 
 från väg och parkering. Fastighetsägaren ifrågasätter att avloppsledningar från det nya området
@@ -2164,7 +2164,7 @@ Parkering. Avsikten är att kommunen ska tillhandahålla parkering inom denna yt
 innebär ingen stor skillnad i förhållande till tidigare. Skillnaden är att kommunen kommer äga
 och drifta området, samt att användningen parkering definieras.
 
-18. Spekedal 1:50
+18\. Spekedal 1:50
 
 Fastighetsägaren har inga synpunkter på planförslaget.
 
@@ -2677,10 +2677,10 @@ läggning.
 För att åstadkomma ett offensivt och framgångsrikt arbete utgår vi från tre
 
 grundläggande principer:
--  Konstnärlig frihet och armlängds avstånd,
+\-  Konstnärlig frihet och armlängds avstånd,
 
--  Hållbar kulturutveckling – Agenda 2030 samt
--  Samverkan.
+\-  Hållbar kulturutveckling – Agenda 2030 samt
+\-  Samverkan.
 
 Grundläggande principer för kulturpolitiken
 
@@ -3323,7 +3323,7 @@ Digitalt utanförskap            - Bibliotek öppna för besökare utan personal
 digitala verktyg och resurser.
 Nationella minoriteter
 Fri åsiktsbildning              – En grupp med religiös, språklig, traditionell eller
-- Rätten att fritt uttrycka och bilda egna åsikter kulturell tillhörighet som har långvariga band till
+\- Rätten att fritt uttrycka och bilda egna åsikter kulturell tillhörighet som har långvariga band till
 utan censur eller begränsningar. Sverige men inte har dominerande ställning i
 samhället. Sveriges nationella minoriteter är judar,
 Hållbar tillväxt                romer, sverigefinnar, tornedalingar och urfolket
@@ -3352,7 +3352,7 @@ kontinuitet som konstnärlig förnyelse inom - Användarupplevelse, hur använda
 kulturlivet. I biblioteksplanen åsyftas institutioner med och upplever en produkt eller tjänst.
 som drivs av en offentlig huvudman.
 Öppen vetenskap
-- Forskning och vetenskaplig publicering som är
+\- Forskning och vetenskaplig publicering som är
 tillgänglig för allmänheten utan hinder.
 18
 
@@ -3374,16 +3374,16 @@ biblioteksväsendet består av all offentligt
 finansierad biblioteksverksamhet och utgörs av:
 ska ägna särskild uppmärksamhet åt personer med
 funktionsnedsättning, bland annat genom att
-1. folkbibliotek,
+1\. folkbibliotek,
 utifrån deras olika behov och förutsättningar
-2. skolbibliotek,
+2\. skolbibliotek,
 erbjuda litteratur och tekniska hjälpmedel för att
-3. regional biblioteksverksamhet,
+3\. regional biblioteksverksamhet,
 kunna ta del av information.
-4. högskolebibliotek,
-5. lånecentraler, och
+4\. högskolebibliotek,
+5\. lånecentraler, och
 5 § Biblioteken i det allmänna biblioteksväsendet
-6. övrig offentligt finansierad
+6\. övrig offentligt finansierad
 ska ägna särskild uppmärksamhet åt de nationella
 biblioteksverksamhet.
 minoriteterna och personer som har annat
@@ -3391,13 +3391,13 @@ modersmål än svenska, bland annat genom att
 Ändamål
 erbjuda litteratur på
 2 § Biblioteken i det allmänna biblioteksväsendet
-1. de nationella minoritetsspråken,
+1\. de nationella minoritetsspråken,
 ska verka för det demokratiska samhällets
-2. andra språk än de nationella
+2\. andra språk än de nationella
 utveckling genom att bidra till
 minoritetsspråken och svenska, och
 kunskapsförmedling och fri åsiktsbildning.
-3. lättläst svenska.
+3\. lättläst svenska.
 Biblioteken i det allmänna biblioteksväsendet ska
 Folkbibliotek
 främja litteraturens ställning och intresset för
@@ -3417,22 +3417,22 @@ regionerna, staten och, i fråga om vissa skolor,
 och tillgång till litteratur.
 enskilda.
 Folkbiblioteken ska verka för att öka kunskapen
-1. För folkbibliotek ansvarar kommunerna.
+1\. För folkbibliotek ansvarar kommunerna.
 om hur informationsteknik kan användas för
-2. För skolbibliotek ansvarar kommuner,
+2\. För skolbibliotek ansvarar kommuner,
 kunskapsinhämtning, lärande och delaktighet i
 regioner, staten eller enskilda huvudmän i
 kulturlivet.
 enlighet med bestämmelserna i 2 kap.
 skollagen (2010:800).        8 § Folkbiblioteken ska ägna särskild
-3. För regional biblioteksverksamhet ansvarar uppmärksamhet åt barn och ungdomar för att
+3\. För regional biblioteksverksamhet ansvarar uppmärksamhet åt barn och ungdomar för att
 regionerna och de kommuner som inte ingår främja deras språkutveckling och stimulera till
 i en region.                 läsning, bland annat genom att erbjuda litteratur
-4. För högskolebibliotek vid universitet och utifrån deras behov och förutsättningar.
+4\. För högskolebibliotek vid universitet och utifrån deras behov och förutsättningar.
 högskolor som omfattas av högskolelagen
 (1992:1434) ansvarar staten. 9 § På folkbiblioteken ska allmänheten
-5. För lånecentraler ansvarar staten. avgiftsfritt få låna eller på annat sätt få tillgång till
-6. För övrig offentligt finansierad litteratur under en viss tid oavsett
+5\. För lånecentraler ansvarar staten. avgiftsfritt få låna eller på annat sätt få tillgång till
+6\. För övrig offentligt finansierad litteratur under en viss tid oavsett
 biblioteksverksamhet ansvarar den som publiceringsform.
 enligt särskilda bestämmelser är huvudman
 för verksamheten.
@@ -3442,10 +3442,10 @@ för verksamheten.
 
 Första stycket hindrar inte att folkbiblioteken tar Skyldigheten att avgiftsfritt ställa litteratur till
 ut                              förfogande gäller inte för folk- eller skolbibliotek.
-1. ersättning för kostnader för porto, 16 § Bestämmelsen i 2 kap. 1 § kommunallagen
+1\. ersättning för kostnader för porto, 16 § Bestämmelsen i 2 kap. 1 § kommunallagen
 fotokopiering och andra liknande tjänster, (2017:725) om anknytning till kommunens
 och                          område eller dess medlemmar hindrar inte att
-2. avgift för de fall låntagare inte inom avtalad folk- eller skolbibliotek avgiftsfritt ställer litteratur
+2\. avgift för de fall låntagare inte inom avtalad folk- eller skolbibliotek avgiftsfritt ställer litteratur
 tid lämnar tillbaka det som de har lånat. till förfogande för ett bibliotek i det allmänna
 biblioteksväsendet som är beläget utanför
 Skolbibliotek                   kommungränsen.
@@ -3586,8 +3586,8 @@ DNKS240478
 Beslut
 Driftnämnd kultur och skola beslutar att
 
-1. anta förslag till remissversion av Hallands biblioteksplan 2026–2029 samt
-2. skicka ut dem på remiss mellan 24 april - 30 juni 2025.
+1\. anta förslag till remissversion av Hallands biblioteksplan 2026–2029 samt
+2\. skicka ut dem på remiss mellan 24 april - 30 juni 2025.
 
 Paragrafen justeras omedelbart.
 
@@ -3632,8 +3632,8 @@ Bibliotek av, med och för barn och unga samt Breddat och inkluderande deltagand
 Förslag till beslut
 Driftnämnd kultur och skola beslutar att
 
-1. anta förslag till remissversion av Hallands biblioteksplan 2026–2029 samt
-2. skicka ut dem på remiss mellan 24 april - 30 juni 2025.
+1\. anta förslag till remissversion av Hallands biblioteksplan 2026–2029 samt
+2\. skicka ut dem på remiss mellan 24 april - 30 juni 2025.
 
 Paragrafen justeras omedelbart.
 

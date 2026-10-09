@@ -874,7 +874,7 @@ Sammanträdesdatum
 
 2012-08-14
 
-$ 168 KS10-002157/00
+\$ 168 KS10-002157/00
 
 Slutrapport och förslag till fortsatt arbete med Invånardialog
 samt upphörande av arbetsordning för Kommunala
@@ -889,9 +889,9 @@ Kommunstyrelsen får i uppdrag att under 2012 inarbeta projektet Invånardialog 
 Kungsbacka kommuns styrmodell.
 
 Arbetsordning för Kommunala handikapprådet — KHR — i Kungsbacka, antagen av
-KF $ 146/2001, upphör härmed att gälla.
+KF \$ 146/2001, upphör härmed att gälla.
 
-Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF $ 10/1989, upphör
+Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF \$ 10/1989, upphör
 härmed att gälla.
 
 Nämnden för Aldreomsorg och nämnden för Funktionsstöd får i uppdrag att, minst
@@ -914,7 +914,7 @@ Slutrapport Invånardialog i Kungsbacka, daterad juni 2012, godkänns och
 
 Sammanfattning
 
-Kommunstyrelsen beslutade 2010-12-14, $ 269, att Kommunala Handikapprådet och
+Kommunstyrelsen beslutade 2010-12-14, \$ 269, att Kommunala Handikapprådet och
 Kommunala pensionärsrådet skulle ersättas med pilotprojektet Medborgardialog,
 (senare ersatt med Invånardialog). Förslag till nytt arbetssätt/organisation skulle
 återrapporteras senast juni 2012.
@@ -940,7 +940,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (54)
 Sammanträdesdatum
 2012-08-14
-$ 168 KS10-00215/00
+\$ 168 KS10-00215/00
 
 Projektet har, som övergripande syfte, fokuserat på att skapa ökad transparens och
 engagemang för de gemensamma frågorna i kommunen bland invånarna och på att
@@ -964,9 +964,9 @@ Beslutsunderlag
 Skrivelse från styrgruppsledaren för projektet 2012-06-07, med slutrapport och
 handbok för invånardialog.
 
-Kommunstyrelsens arbetsutskott 2012-06-12, $ 223
+Kommunstyrelsens arbetsutskott 2012-06-12, \$ 223
 
-Kommunstyrelsen 2012-06-19, $ 149
+Kommunstyrelsen 2012-06-19, \$ 149
 
 Anförande
 
@@ -1005,7 +1005,7 @@ Sammanträdesdatum
 
 2012-08-14
 
-$ 168 KS10-002157/00
+\$ 168 KS10-002157/00
 
 Slutrapport och förslag till fortsatt arbete med Invånardialog
 samt upphörande av arbetsordning för Kommunala
@@ -1020,9 +1020,9 @@ Kommunstyrelsen får i uppdrag att under 2012 inarbeta projektet Invånardialog 
 Kungsbacka kommuns styrmodell.
 
 Arbetsordning för Kommunala handikapprådet — KHR — i Kungsbacka, antagen av
-KF $ 146/2001, upphör härmed att gälla.
+KF \$ 146/2001, upphör härmed att gälla.
 
-Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF $ 10/1989, upphör
+Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF \$ 10/1989, upphör
 härmed att gälla.
 
 Nämnden för Aldreomsorg och nämnden för Funktionsstöd får i uppdrag att, minst
@@ -1045,7 +1045,7 @@ Slutrapport Invånardialog i Kungsbacka, daterad juni 2012, godkänns och
 
 Sammanfattning
 
-Kommunstyrelsen beslutade 2010-12-14, $ 269, att Kommunala Handikapprådet och
+Kommunstyrelsen beslutade 2010-12-14, \$ 269, att Kommunala Handikapprådet och
 Kommunala pensionärsrådet skulle ersättas med pilotprojektet Medborgardialog,
 (senare ersatt med Invånardialog). Förslag till nytt arbetssätt/organisation skulle
 återrapporteras senast juni 2012.
@@ -1071,7 +1071,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (54)
 Sammanträdesdatum
 2012-08-14
-$ 168 KS10-00215/00
+\$ 168 KS10-00215/00
 
 Projektet har, som övergripande syfte, fokuserat på att skapa ökad transparens och
 engagemang för de gemensamma frågorna i kommunen bland invånarna och på att
@@ -1095,9 +1095,9 @@ Beslutsunderlag
 Skrivelse från styrgruppsledaren för projektet 2012-06-07, med slutrapport och
 handbok för invånardialog.
 
-Kommunstyrelsens arbetsutskott 2012-06-12, $ 223
+Kommunstyrelsens arbetsutskott 2012-06-12, \$ 223
 
-Kommunstyrelsen 2012-06-19, $ 149
+Kommunstyrelsen 2012-06-19, \$ 149
 
 Anförande
 
@@ -1136,7 +1136,7 @@ Sammanträdesdatum
 
 2012-08-14
 
-$ 168 KS10-002157/00
+\$ 168 KS10-002157/00
 
 Slutrapport och förslag till fortsatt arbete med Invånardialog
 samt upphörande av arbetsordning för Kommunala
@@ -1151,9 +1151,9 @@ Kommunstyrelsen får i uppdrag att under 2012 inarbeta projektet Invånardialog 
 Kungsbacka kommuns styrmodell.
 
 Arbetsordning för Kommunala handikapprådet — KHR — i Kungsbacka, antagen av
-KF $ 146/2001, upphör härmed att gälla.
+KF \$ 146/2001, upphör härmed att gälla.
 
-Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF $ 10/1989, upphör
+Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF \$ 10/1989, upphör
 härmed att gälla.
 
 Nämnden för Aldreomsorg och nämnden för Funktionsstöd får i uppdrag att, minst
@@ -1176,7 +1176,7 @@ Slutrapport Invånardialog i Kungsbacka, daterad juni 2012, godkänns och
 
 Sammanfattning
 
-Kommunstyrelsen beslutade 2010-12-14, $ 269, att Kommunala Handikapprådet och
+Kommunstyrelsen beslutade 2010-12-14, \$ 269, att Kommunala Handikapprådet och
 Kommunala pensionärsrådet skulle ersättas med pilotprojektet Medborgardialog,
 (senare ersatt med Invånardialog). Förslag till nytt arbetssätt/organisation skulle
 återrapporteras senast juni 2012.
@@ -1202,7 +1202,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (54)
 Sammanträdesdatum
 2012-08-14
-$ 168 KS10-00215/00
+\$ 168 KS10-00215/00
 
 Projektet har, som övergripande syfte, fokuserat på att skapa ökad transparens och
 engagemang för de gemensamma frågorna i kommunen bland invånarna och på att
@@ -1226,9 +1226,9 @@ Beslutsunderlag
 Skrivelse från styrgruppsledaren för projektet 2012-06-07, med slutrapport och
 handbok för invånardialog.
 
-Kommunstyrelsens arbetsutskott 2012-06-12, $ 223
+Kommunstyrelsens arbetsutskott 2012-06-12, \$ 223
 
-Kommunstyrelsen 2012-06-19, $ 149
+Kommunstyrelsen 2012-06-19, \$ 149
 
 Anförande
 
@@ -1267,7 +1267,7 @@ Sammanträdesdatum
 
 2012-08-14
 
-$ 168 KS10-002157/00
+\$ 168 KS10-002157/00
 
 Slutrapport och förslag till fortsatt arbete med Invånardialog
 samt upphörande av arbetsordning för Kommunala
@@ -1282,9 +1282,9 @@ Kommunstyrelsen får i uppdrag att under 2012 inarbeta projektet Invånardialog 
 Kungsbacka kommuns styrmodell.
 
 Arbetsordning för Kommunala handikapprådet — KHR — i Kungsbacka, antagen av
-KF $ 146/2001, upphör härmed att gälla.
+KF \$ 146/2001, upphör härmed att gälla.
 
-Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF $ 10/1989, upphör
+Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF \$ 10/1989, upphör
 härmed att gälla.
 
 Nämnden för Aldreomsorg och nämnden för Funktionsstöd får i uppdrag att, minst
@@ -1307,7 +1307,7 @@ Slutrapport Invånardialog i Kungsbacka, daterad juni 2012, godkänns och
 
 Sammanfattning
 
-Kommunstyrelsen beslutade 2010-12-14, $ 269, att Kommunala Handikapprådet och
+Kommunstyrelsen beslutade 2010-12-14, \$ 269, att Kommunala Handikapprådet och
 Kommunala pensionärsrådet skulle ersättas med pilotprojektet Medborgardialog,
 (senare ersatt med Invånardialog). Förslag till nytt arbetssätt/organisation skulle
 återrapporteras senast juni 2012.
@@ -1333,7 +1333,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (54)
 Sammanträdesdatum
 2012-08-14
-$ 168 KS10-00215/00
+\$ 168 KS10-00215/00
 
 Projektet har, som övergripande syfte, fokuserat på att skapa ökad transparens och
 engagemang för de gemensamma frågorna i kommunen bland invånarna och på att
@@ -1357,9 +1357,9 @@ Beslutsunderlag
 Skrivelse från styrgruppsledaren för projektet 2012-06-07, med slutrapport och
 handbok för invånardialog.
 
-Kommunstyrelsens arbetsutskott 2012-06-12, $ 223
+Kommunstyrelsens arbetsutskott 2012-06-12, \$ 223
 
-Kommunstyrelsen 2012-06-19, $ 149
+Kommunstyrelsen 2012-06-19, \$ 149
 
 Anförande
 
@@ -1513,7 +1513,7 @@ anvisningar. Nämnderna för Vård & Omsorg respektive Funktionsstöd fick ocks�
 två gånger per år, i samråd med pensionärs- och handikapporganisationerna, anordna och genomföra
 informationsmöten med riktad information för dessa organisationer.
 Invånardialoger har genomförts av Nämnden för Vård & Omsorg vid fyra tillfällen under åren 2014-
-2017. Dessutom genomför nämnden ”Forum Pensionärsorganisationer” flera gånger om året. År 2014
+2017\. Dessutom genomför nämnden ”Forum Pensionärsorganisationer” flera gånger om året. År 2014
 och 2015 genomfördes fem tillfällen vartdera åren, år 2016 sex tillfällen och i år fem tillfällen.
 
 Det är svårt att ge alla intresseorganisationer samma förutsättningar till deltagande och påverkan.5
@@ -1657,7 +1657,7 @@ anvisningar. Nämnderna för Vård & Omsorg respektive Funktionsstöd fick ocks�
 två gånger per år, i samråd med pensionärs- och handikapporganisationerna, anordna och genomföra
 informationsmöten med riktad information för dessa organisationer.
 Invånardialoger har genomförts av Nämnden för Vård & Omsorg vid fyra tillfällen under åren 2014-
-2017. Dessutom genomför nämnden ”Forum Pensionärsorganisationer” flera gånger om året. År 2014
+2017\. Dessutom genomför nämnden ”Forum Pensionärsorganisationer” flera gånger om året. År 2014
 och 2015 genomfördes fem tillfällen vartdera åren, år 2016 sex tillfällen och i år fem tillfällen.
 
 Det är svårt att ge alla intresseorganisationer samma förutsättningar till deltagande och påverkan.5
@@ -1801,7 +1801,7 @@ anvisningar. Nämnderna för Vård & Omsorg respektive Funktionsstöd fick ocks�
 två gånger per år, i samråd med pensionärs- och handikapporganisationerna, anordna och genomföra
 informationsmöten med riktad information för dessa organisationer.
 Invånardialoger har genomförts av Nämnden för Vård & Omsorg vid fyra tillfällen under åren 2014-
-2017. Dessutom genomför nämnden ”Forum Pensionärsorganisationer” flera gånger om året. År 2014
+2017\. Dessutom genomför nämnden ”Forum Pensionärsorganisationer” flera gånger om året. År 2014
 och 2015 genomfördes fem tillfällen vartdera åren, år 2016 sex tillfällen och i år fem tillfällen.
 
 Det är svårt att ge alla intresseorganisationer samma förutsättningar till deltagande och påverkan.5
@@ -1945,7 +1945,7 @@ anvisningar. Nämnderna för Vård & Omsorg respektive Funktionsstöd fick ocks�
 två gånger per år, i samråd med pensionärs- och handikapporganisationerna, anordna och genomföra
 informationsmöten med riktad information för dessa organisationer.
 Invånardialoger har genomförts av Nämnden för Vård & Omsorg vid fyra tillfällen under åren 2014-
-2017. Dessutom genomför nämnden ”Forum Pensionärsorganisationer” flera gånger om året. År 2014
+2017\. Dessutom genomför nämnden ”Forum Pensionärsorganisationer” flera gånger om året. År 2014
 och 2015 genomfördes fem tillfällen vartdera åren, år 2016 sex tillfällen och i år fem tillfällen.
 
 Det är svårt att ge alla intresseorganisationer samma förutsättningar till deltagande och påverkan.5
@@ -2308,13 +2308,13 @@ förmåga att informera äldre om aktuella frågor och möjligheten för äldre 
 synpunkter och förslag.
 Mot bakgrund av detta vill motionären att kommunfullmäktige beslutar:
 
-1. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och
+1\. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och
 samverkan mellan kommunen och dess äldre invånare.
-2. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för
+2\. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för
 hur ett kommunalt pensionärsråd ska organiseras och fungera, i dialog med
 
 lokala pensionärsföreningar och andra berörda intressenter.
-3. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att
+3\. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att
 låta dem vara delaktiga i kommunala beslut. Genom detta får kommunen
 bättre underlag för sina beslut genom samverkan med dem man finns till för.
 Deltagardemokrati mellan valen är viktig för att komplettera mellan de
@@ -2383,13 +2383,13 @@ förmåga att informera äldre om aktuella frågor och möjligheten för äldre 
 synpunkter och förslag.
 Mot bakgrund av detta vill motionären att kommunfullmäktige beslutar:
 
-1. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
+1\. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
 mellan kommunen och dess äldre invånare.
-2. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
+2\. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
 
 kommunalt pensionärsråd ska organiseras och fungera, i dialog med lokala
 pensionärsföreningar och andra berörda intressenter.
-3. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
+3\. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
 dem vara delaktiga i kommunala beslut. Genom detta får kommunen bättre
 underlag för sina beslut genom samverkan med dem man finns till för.
 Deltagardemokrati mellan valen är viktig för att komplettera mellan de vanliga
@@ -2439,14 +2439,14 @@ Pensionärsråd
 Förslag till beslut:
 Vi föreslår att kommunfullmäktige beslutar:
 
-1. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
+1\. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
 mellan kommunen och dess äldre invånare.
 
-2. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
+2\. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
 kommunalt pensionärsråd ska organiseras och fungera, i dialog med lokala
 pensionärsföreningar och andra berörda intressenter.
 
-3. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
+3\. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
 dem vara delaktiga i kommunala beslut. Genom detta får kommunen bättre underlag för
 sina beslut genom samverkan med dem man finns till för. Deltagardemokrati mellan valen
 är viktig för att komplettera mellan de vanliga demokratiska valen
@@ -2478,10 +2478,10 @@ representation har blivit särskilt tydligt under påfrestande perioder, som und
 pandemin, där bristande informationsflöden drabbade våra äldre särskilt hårt.
 
 Ett kommunalt pensionärsråd skulle:
-- Fungera som en länk mellan kommunen och äldre invånare.
-- Ge pensionärsföreningar och andra organisationer en röst i frågor som rör äldre.
+\- Fungera som en länk mellan kommunen och äldre invånare.
+\- Ge pensionärsföreningar och andra organisationer en röst i frågor som rör äldre.
 
-- Underlätta för kommunen att sprida viktig information och få återkoppling på
+\- Underlätta för kommunen att sprida viktig information och få återkoppling på
 beslut och initiativ.
 
 Det är dags att vår kommun tar detta steg och inrättar ett kommunalt
@@ -2645,13 +2645,13 @@ förvaltningens arbete i civil beredskap. Riktlinjen bidrar till att identifiera
 arbetar med samhällsviktig och lagstadgad verksamhet. Dessa enheter kommer att arbeta
 vidare med kontinuitshantering.
 De sex prioriterade områdena är:
-1. Förutsättningar för att planera arbetet i civil beredskap
+1\. Förutsättningar för att planera arbetet i civil beredskap
 
-2. Att upprätthålla ordinarie verksamhet vid avbrott och störningar
-3. Samverkan och ledning
-4. Utbildning och övning
-5. Upphandling och samverkan med privata aktörer
-6. Målgruppsanpassad kriskommunikation
+2\. Att upprätthålla ordinarie verksamhet vid avbrott och störningar
+3\. Samverkan och ledning
+4\. Utbildning och övning
+5\. Upphandling och samverkan med privata aktörer
+6\. Målgruppsanpassad kriskommunikation
 
 2  Förutsättningar  för att planera arbetet i civil
 
@@ -3337,7 +3337,7 @@ kommundirektören i uppdrag att ställa ut Granskningsförslag till fördjupad
 översiktsplan, text och kartmaterial, daterad 2024-12-18.
 Stefan Jägnert (SD) och Stefan Vilumsons (SD) yrkar på följande ändringar:
 
-1. Under rubriken Jordbruksmark på sidan 12 stryks följande stycke:
+1\. Under rubriken Jordbruksmark på sidan 12 stryks följande stycke:
 −  Den jordbruksmark som föreslås tas i anspråk för bebyggelse bedöms ha ett
 strategiskt viktigt läge för att Kungsbacka ska kunna gå mot ett hållbart
 samhälle utifrån ett helhetsperspektiv.
@@ -3360,27 +3360,27 @@ Kommunstyrelsen
 Datum
 2025-02-18
 
-2. Under rubriken Riktlinjer och motiveringar för hela staden på sidan 42
+2\. Under rubriken Riktlinjer och motiveringar för hela staden på sidan 42
 läggs följande stycke till i först stycket:
 −  Särskilt fokus ska läggas på att skapa tryggare kollektivtrafikpunkter och
 gång- och cykelstråk för att öka säkerheten, särskilt på kvällar och i utsatta
 områden. Dessa åtgärder ska stärka förtroendet för hållbara färdmedel.
 
-3. Under rubriken Stadsmiljön ska utformas utifrån genomarbetade
+3\. Under rubriken Stadsmiljön ska utformas utifrån genomarbetade
 arkitektoniska idéer. (2) på sidan 42 läggs följande stycke till:
 
 −  Arkitektoniska idéer ska också bidra till att skapa trygghet och trivsel genom
 att prioritera öppna och upplysta miljöer som förhindrar social oro och brott.
-4. Under rubriken Vi ska verka för att det finns mötesplatser i alla delar av
+4\. Under rubriken Vi ska verka för att det finns mötesplatser i alla delar av
 
 staden som erbjuder varierade funktioner på sidan 43 stryks orden:
 −  samt utifrån perspektiv om kön och könsidentitet.
-5. Under rubriken Vi frigör ytor till bebyggelse och grönområden genom att
+5\. Under rubriken Vi frigör ytor till bebyggelse och grönområden genom att
 samla parkering i anläggningar. (10) stryks följande mening:
 
 −  Vi kan också minska biltrafikmängden och utsläppen i centrala och
 stationsnära lägen.
-6. Under rubriken Vid ny- och ombyggnation av allmän platsmark,
+6\. Under rubriken Vid ny- och ombyggnation av allmän platsmark,
 
 skolgårdar, idrottsanläggningar och annan offentlig service ska vi alltid
 pröva möjligheten att skapa ytor som har flera funktioner. (11) på sidan
@@ -3402,11 +3402,11 @@ byggherre och beställare måste kommunen också efterfråga flera olika
 funktioner när vi planerar ett projekt. En större investering idag betalar sig
 för kommunen som helhet på längre sikt.
 
-7. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
+7\. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
 och Södra Hammerö utökas enligt karta daterad 2025-01-14, så att fler
 bostäder kan möjliggöras jämfört med samrådsredogörelsen.
 
-8. Slutligen yrkas på följande ändringar: Vi Sverigedemokrater yrkar att all
+8\. Slutligen yrkas på följande ändringar: Vi Sverigedemokrater yrkar att all
 text i dokumentet som innehåller förslag eller formuleringar som främjar
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 4C989CB81BA0ACE4C1A75926F6C4D03C76CD70A538
@@ -3431,22 +3431,22 @@ samrådsredogörelse för fördjupad översiktsplan för Kungsbacka stad, datera
 12-18 samt ge kommundirektören i uppdrag att ställa ut Granskningsförslag till
 fördjupad översiktsplan, text och kartmaterial, daterad 2024-12-18, men med
 följande tillägg och ändringar:
-1. Bifall till Lisa Anderssons (M) yrkande om att underlaget Kompletterande
+1\. Bifall till Lisa Anderssons (M) yrkande om att underlaget Kompletterande
 
 material ska ingå i Granskningsförslaget.
-2. Bifall till att ”Utredningsområde för näringsliv och service” norr om
+2\. Bifall till att ”Utredningsområde för näringsliv och service” norr om
 Gröningevägen utgår.
 
-3. Bifall till att område för verksamheter i den nordöstra delen av Klovsten
+3\. Bifall till att område för verksamheter i den nordöstra delen av Klovsten
 utökas i enlighet med pågående detaljplanearbete.
-4. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
+4\. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
 och Södra Hammerö utökas enligt karta, daterad 2025-01-14, så att fler
 bostäder kan möjliggöras jämfört med samrådsredogörelsen.
 
-5. Avslag på Stefan Jägnerts (SD) och Stefan Vilumsons (SD) samtliga
+5\. Avslag på Stefan Jägnerts (SD) och Stefan Vilumsons (SD) samtliga
 yrkanden.
 
-6. Avslag på Emanuel Forsells (M) samtliga yrkanden i kommunstyrelsens
+6\. Avslag på Emanuel Forsells (M) samtliga yrkanden i kommunstyrelsens
 arbetsutkott.
 Johan Tolinsson (S) och Patrik Jervne Henestam (V) yrkar bifall till Magdalena
 Sundqvists (S) yrkande.
@@ -3519,7 +3519,7 @@ stad.
 Den fördjupade översiktsplanen för Kungsbacka stad kompletterar den
 
 kommunövergripande översiktsplanen som antogs av kommunfullmäktige 2021-11-
-09. Planen ska medverka till att uppfylla Kungsbacka Vision 2030 och fullfölja
+09\. Planen ska medverka till att uppfylla Kungsbacka Vision 2030 och fullfölja
 översiktsplanens intentioner genom strategier och riktlinjer för hur utveckling av
 mark- och vattenområden ska ske inom staden. Förslaget ska bidra till att skapa
 förståelse och samsyn, såväl externt som internt, kring utvecklingsinriktning för
@@ -3563,39 +3563,39 @@ Projektbeställning, 2020-06-30
 Förslag till beslut på sammanträdet
 
 Emanuel Forsell (M) yrkar att:
-1. Förslag på kollektivtrafikkörfält tas bort. Dessa ersätts i kartplanen med uttryckt
+1\. Förslag på kollektivtrafikkörfält tas bort. Dessa ersätts i kartplanen med uttryckt
 behov av kapacitetsökning på motsvarande del av vägnätet.
 
-2. De dokument som anges som underlag i översiktsplanen ska i absolut huvudsak
+2\. De dokument som anges som underlag i översiktsplanen ska i absolut huvudsak
 vara politiskt antagna och nu gällande dokument. Rena tjänstedokument, som till
 exempel hållbarhetsanalys och omvärldsanalys ska i möjligaste mån inte utgöra
 underlag till översiktsplanen.
 
-3. Parkeringsstrategi, innehållande bland annat fördelningsnyckel för P-tal, ska även
+3\. Parkeringsstrategi, innehållande bland annat fördelningsnyckel för P-tal, ska även
 fortsättningsvis hanteras i ett separat styrdokument. Dessa delar ska därmed
 strykas ur översiktsplanen.
-4. Under Mål 1, ingen fattigdom, stryks följande mening; “I ett globalt perspektiv är
+4\. Under Mål 1, ingen fattigdom, stryks följande mening; “I ett globalt perspektiv är
 inte fattigdom ett prioriterat område i kommunen däremot behöver vi hantera
 lokala inkomstskillnader.”
 
-5. Under Mål 10, minskad ojämlikhet, stryks följande mening; “Gällande den
+5\. Under Mål 10, minskad ojämlikhet, stryks följande mening; “Gällande den
 ekonomiska ojämlikheten har Kungsbacka relativt stora inkomstskillnader
 samtidigt som inkomstskillnaderna ökar över tid. Det betyder att planen i sig
 antagligen kommer ha en liten påverkan på att minska inkomstskillnaderna.”
 
-6. Under artikel 2, Barnkonsekvensanalys, stryks följande mening; “Planen skapar
+6\. Under artikel 2, Barnkonsekvensanalys, stryks följande mening; “Planen skapar
 långsiktiga förutsättningar för barn från olika socioekonomiska grupper att träffas
 genom blandningen av upplåtelseformer och boendeformer.”
-7. Under artikel 2, Barnkonsekvensanalys, stryks följande mening; “Lugna platser i
+7\. Under artikel 2, Barnkonsekvensanalys, stryks följande mening; “Lugna platser i
 
 staden säkerställer att barn med kognitiv funktionsnedsättning kan dra sig
 undan.”
-8. Utredningsområde för trafik mellan Fors och Hällingsjövägen ska även inkludera
+8\. Utredningsområde för trafik mellan Fors och Hällingsjövägen ska även inkludera
 ordinarie motortrafik.
 
-9. Den planerade broförbindelsen vid Hamntorget ska utredas för att eventuellt
+9\. Den planerade broförbindelsen vid Hamntorget ska utredas för att eventuellt
 också kunna tillgodose motortrafik.
-10. Vid utredningsområdet i anknytning till Svinholmen anges att Säröbanans spår
+10\. Vid utredningsområdet i anknytning till Svinholmen anges att Säröbanans spår
 ansluter till Västkustbanan. Detta ändras till en mer generell skrivning, som till
 
 exempel ‘Kollektivtrafikreservatets anslutning mot staden’.
@@ -3610,51 +3610,51 @@ Kommunstyrelsens arbetsutskott
 Datum
 2025-01-14
 
-11. Under “Demografi” tas de två första styckena bort. (Börjar med “Vi riskerar...”
+11\. Under “Demografi” tas de två första styckena bort. (Börjar med “Vi riskerar...”
 och avslutas med “... och besöksmål.”
-12. Riktlinje tre tas bort i sin helhet.
+12\. Riktlinje tre tas bort i sin helhet.
 
-13. Riktlinje sex; ta bort text som berör målgruppsanalyser.
-14. Riktlinje åtta; rubriken ändras från “Vi ska skapa god tillgång...” till “Vi ska
+13\. Riktlinje sex; ta bort text som berör målgruppsanalyser.
+14\. Riktlinje åtta; rubriken ändras från “Vi ska skapa god tillgång...” till “Vi ska
 
 möjliggöra god tillgång...”.
-15. Riktlinje tio; meningen “Vi kan också minska biltrafikmängden och utsläppen i
+15\. Riktlinje tio; meningen “Vi kan också minska biltrafikmängden och utsläppen i
 centrala och stationsnära lägen.” tas bort.
 
-16. Riktlinje tolv; följande text tas bort: “De tekniska lösningarna och kunskapen
+16\. Riktlinje tolv; följande text tas bort: “De tekniska lösningarna och kunskapen
 finns på marknaden men som byggherre och beställare måste kommunen också
 efterfråga flera olika funktioner när vi planerar ett projekt. En större investering
 idag betalar sig för kommunen som helhet på längre sikt.”
-17. Riktlinje tretton; ny rubrik: “Gestaltning och skötsel av utemiljöer ska möjliggöra
+17\. Riktlinje tretton; ny rubrik: “Gestaltning och skötsel av utemiljöer ska möjliggöra
 sociala värden samt livsmiljöer för djur och växtliv.”
 
-18. Riktlinje tretton; de tre sista meningarna stryks. Börjar med “Kol kan bindas...”.
+18\. Riktlinje tretton; de tre sista meningarna stryks. Börjar med “Kol kan bindas...”.
 
-19. Riktlinje tjugotre, sista meningen i rubriken ändras till “När vi bygger nära
+19\. Riktlinje tjugotre, sista meningen i rubriken ändras till “När vi bygger nära
 befintliga områden med småhus anpassar vi höjd och karaktär på de nya husen."
-20. Riktlinje tjugosex; stryk de två sista meningarna, med start “I kartan har...”.
+20\. Riktlinje tjugosex; stryk de två sista meningarna, med start “I kartan har...”.
 
-21. Riktlinje tjugonio skrivs om. Ny rubrik och brödtext:
-22. Vi verkar för hållbara och efterfrågade bostadstyper både när vi skapar nya
+21\. Riktlinje tjugonio skrivs om. Ny rubrik och brödtext:
+22\. Vi verkar för hållbara och efterfrågade bostadstyper både när vi skapar nya
 bostadsområden och när vi utvecklar befintlig stadsmiljö. (29)
 
-23. Grunden till en levande och hållbar stad är att det byggs bostäder som faktiskt
+23\. Grunden till en levande och hållbar stad är att det byggs bostäder som faktiskt
 efterfrågas av människor. Samtidigt kan en viss variation av upplåtelserätter bidra
 till en flexibilitet som möjliggör en bostadsresa genom flera skeden av livet. I
 anslutning till stationslägen kan tätare byggnation prioriteras och i övriga delar av
 staden finns möjlighet även till mer småskalig bebyggelse, som till exempel
 villor, stadsradhus eller mindre flerbostadshus.
 
-24. Riktlinje trettiofyra; inledande mening skrivs om och ordet bostäder läggs till:
+24\. Riktlinje trettiofyra; inledande mening skrivs om och ordet bostäder läggs till:
 “Bottenvåningarna ska planeras utifrån en mix av verksamheter, bostäder och
 mötesplatser som gör stråken i stadskärnan till navet för staden.”
-25. Riktlinje trettiosex; de två sista meningarna stryks: “Alla ärenden avseende höga
+25\. Riktlinje trettiosex; de två sista meningarna stryks: “Alla ärenden avseende höga
 
 objekt behöver skickas på remiss till Försvarsmakten för att säkerställa att ingen
 skada sker på riksintressen som omfattas av sekretess. Samråd bör även ske med
 Myndigheten för samhällsskydd och beredskap (MSB) och Luftfartsverket i
 dessa ärenden.”
-26. Inlag; området ska inte bara vara besöksområde utan också yta för kultur- och
+26\. Inlag; området ska inte bara vara besöksområde utan också yta för kultur- och
 företagsevenemang. Minska ytan som utgör grönområde samt vattenhantering.
 
 Det här dokumentet är digitalt signerat
@@ -3673,11 +3673,11 @@ bredvid Centerpartiet på sidan 39 under avsnittet om Forsbergen och Forsgården
 samrådsredogörelsen.
 Fredrik Hansson (C) yrkar att:
 
-1. ”Utredningsområde för näringsliv och service” norr om Gröningevägen utgår.
-2. område för verksamheter i den nordöstra delen av Klovsten utökas i enlighet med
+1\. ”Utredningsområde för näringsliv och service” norr om Gröningevägen utgår.
+2\. område för verksamheter i den nordöstra delen av Klovsten utökas i enlighet med
 
 pågående detaljplanearbete.
-3. områden för bostäder i markanvändningskartan i Forsbergen och Södra Hammerö
+3\. områden för bostäder i markanvändningskartan i Forsbergen och Södra Hammerö
 utökas enligt karta daterad 2025-01-14, så att fler bostäder kan möjliggöras
 jämfört med samrådsredogörelsen. En mer exakt placering, utformning och
 exploateringsgrad studeras närmare i detaljplaneskedet.
@@ -3905,11 +3905,11 @@ goda kommunikationer med kommunens orter och omvärld. Välplanerad infrastruktu
 lättillgänglig kollektivtrafik minimerar transporternas miljöpåverkan.
 
 Kommunfullmäktige har tagit fram fem mål för att nå visionen:
-- En attraktiv kommun att bo, verka och vistas i
-- En hållbar utveckling och en hälsosam miljö
-- Bästa företagsklimatet i Västsverige
-- I Kungsbacka utvecklas vi hela livet
-- Ett medskapande samhälle och öppen attityd
+\- En attraktiv kommun att bo, verka och vistas i
+\- En hållbar utveckling och en hälsosam miljö
+\- Bästa företagsklimatet i Västsverige
+\- I Kungsbacka utvecklas vi hela livet
+\- Ett medskapande samhälle och öppen attityd
 
 Kommunövergripande   översiktsplan
 
@@ -3945,15 +3945,15 @@ Strategi 2040, ur översiktsplanen
 Strategi 2040 ur översiktsplanen
 
 För att Kungsbacka ska vara en attraktiv kommun att bo, verka och vistas i ska vi:
-- Fokusera på staden för att skapa förutsättningar för fler invånare, fler arbetstillfällen, större
+\- Fokusera på staden för att skapa förutsättningar för fler invånare, fler arbetstillfällen, större
 utbud, mångfald och puls
-- Fokusera på stationsorterna Anneberg och Åsa
-- Utveckla stark kollektivtrafik och infrastruktur
-- Värna och utveckla landsbygdens näringar och naturresurser
-- Värna och utveckla kustens attraktivitet
-- Värna och utveckla värdefulla naturområden och främja ett attraktivt friluftsliv
+\- Fokusera på stationsorterna Anneberg och Åsa
+\- Utveckla stark kollektivtrafik och infrastruktur
+\- Värna och utveckla landsbygdens näringar och naturresurser
+\- Värna och utveckla kustens attraktivitet
+\- Värna och utveckla värdefulla naturområden och främja ett attraktivt friluftsliv
 
-- Utveckla samhället smart och vara väl rustade för klimatförändringar
+\- Utveckla samhället smart och vara väl rustade för klimatförändringar
 
 6
 
@@ -3974,7 +3974,7 @@ bakom Hållbar tillväxt som är GR:s strategidokument.
 GR:s strukturbild till vänster och GR:s fördjupad strukturbild för kustzonen till höger
 
 Region Halland har än så länge inte tagit fram en egen strukturbild men en Tillväxtstrategi 2014–
-2020. Både Region Halland och GR trycker på vikten av effektiva transporter och en hållbar
+2020\. Både Region Halland och GR trycker på vikten av effektiva transporter och en hållbar
 utveckling.
 
 Kommunen deltar aktivt i flera regionala och statliga sammanhang i syfte att tillsammans utveckla
@@ -4006,13 +4006,13 @@ myndighet som har i uppgift att granska hur kommunens planering tar hänsyn till
 förutsättningar.
 
 Delområden inom allmänna intressen styrda i lag
-- Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
-- Riksintressen, 3 kapitlet miljöbalken
-- Riksintressen, 4 kapitlet miljöbalken
-- Miljökvalitetsnormer, 5 kapitlet miljöbalken
-- Skydd av natur, 7 kapitlet miljöbalken
-- Fornminnen, 2 kapitlet kulturmiljölagen
-- Hälsa och säkerhet, plan- och bygglagen
+\- Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
+\- Riksintressen, 3 kapitlet miljöbalken
+\- Riksintressen, 4 kapitlet miljöbalken
+\- Miljökvalitetsnormer, 5 kapitlet miljöbalken
+\- Skydd av natur, 7 kapitlet miljöbalken
+\- Fornminnen, 2 kapitlet kulturmiljölagen
+\- Hälsa och säkerhet, plan- och bygglagen
 
 Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
 
@@ -5180,10 +5180,10 @@ Trafik och översvämning belyses i var sitt strategikapitel eftersom det är tv
 behöver hantera för att kunna växa.
 
 Delområden inom markanvändning i staden
-- Riktlinjer med motiveringar
-- Markanvändningskarta
-- Trafikstrategi - rörelser i staden
-- Översvämningsstrategi
+\- Riktlinjer med motiveringar
+\- Markanvändningskarta
+\- Trafikstrategi - rörelser i staden
+\- Översvämningsstrategi
 
 41
 
@@ -5198,10 +5198,10 @@ utmaningar och planeringsprinciper de berör. Dessutom finns kopplingar till kar
 mer om markanvändningen genom att klicka på relevant information.
 
 Delområden inom riktlinjer med motiveringar
-- Trafiknät
-- Stadsbebyggelse
-- Grönstruktur
-- Tekniska anläggningar
+\- Trafiknät
+\- Stadsbebyggelse
+\- Grönstruktur
+\- Tekniska anläggningar
 
 LÄS MER OM MARKANVÄNDNINGSKARTA
 
@@ -6080,11 +6080,11 @@ informationsklick i kartan. Informationsklick innebär att när du klickar på e
 relevant information i en textruta.
 
 Delområden inom markanvändningskarta
-- Trafiknät
-- Stadsbebyggelse
-- Grönstruktur
-- Tekniska anläggningar
-- Utanför stadsgräns
+\- Trafiknät
+\- Stadsbebyggelse
+\- Grönstruktur
+\- Tekniska anläggningar
+\- Utanför stadsgräns
 
 SE MARKANVÄNDNINGSKARTA
 
@@ -7010,7 +7010,7 @@ figurer nedan.
 
 Högsta beräknade havsvattenstånd från SMHI, 2018 (Höjdsystem RH2000).
 
-Nivåer i havet vid 200-årshändelse från SMHI, 2018 (Höjdsystem RH2000). *Inklusive nutida
+Nivåer i havet vid 200-årshändelse från SMHI, 2018 (Höjdsystem RH2000). \*Inklusive nutida
 medelvattenstånd på ca 0,1 meter.
 
 Nivåer i havet genom att lägga ihop Framtida medelvattenyta (utsläppsscenario SSP5-8.5, 83:e percentilen
@@ -7022,8 +7022,8 @@ föreslås 0,4 meter.
 
 <!-- sida 185 -->
 
-*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier.
-**Rekommenderat av MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag.
+\*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier.
+\*\*Rekommenderat av MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag.
 Skyfallskarteringen för Kungsbacka använder klimatfaktor 1,35.
 
 101
@@ -7221,11 +7221,11 @@ utvecklingsalternativ: planförslaget baserat på fyra planeringsprinciper och e
 motsatta principer.
 
 Delområden inom hållbarhetanalys
-- Samlad bedömning
-- Alternativgranskning
-- Miljökonsekvensbeskrivning enligt miljöbalken
-- Analys utifrån de globala målen
-- Barnkonsekvensanalys
+\- Samlad bedömning
+\- Alternativgranskning
+\- Miljökonsekvensbeskrivning enligt miljöbalken
+\- Analys utifrån de globala målen
+\- Barnkonsekvensanalys
 
 Samlad bedömning
 Den samlade bedömningen är att strategierna i planförslaget medför många positiva och några
@@ -7477,12 +7477,12 @@ planarbetet. Kommunen har genomfört ett avgränsningssamråd enligt 6 kapitlet 
 det framförs vilka möjliga konfliktområden som kommunen avser att särskilt belysa i en MKB.
 
 Delområden inom miljökonsekvensbeskrivning
-- Påverkan på vatten samt miljökvalitetsnormer för vatten
-- Trafikbuller samt miljökvalitetsnormer för omgivningsbuller
-- Luftkvalitet samt miljökvalitetsnormer för luft
-- Förändrat klimat
-- Riksintressen
-- Övriga miljökonsekvenser
+\- Påverkan på vatten samt miljökvalitetsnormer för vatten
+\- Trafikbuller samt miljökvalitetsnormer för omgivningsbuller
+\- Luftkvalitet samt miljökvalitetsnormer för luft
+\- Förändrat klimat
+\- Riksintressen
+\- Övriga miljökonsekvenser
 
 Bakgrund till Miljökonsekvensbeskrivning
 
@@ -7892,7 +7892,7 @@ förorenade områden hanteras frågan i planprocessen och kan leda till att för
 
 åtgärdas. Vi ska också arbeta vidare med det strategiska arbetet för att uppnå målet om att alla
 områden med mycket stor risk eller stor risk för människors hälsa eller miljön ska vara åtgärdade
-2050.
+2050\.
 Naturresurser
 
 De areella näringarna, ibland kallade gröna näringar, har stor betydelse för natur- och kulturvärden,
@@ -8488,18 +8488,18 @@ Barn och unga i olika åldrar har fått tycka till om planen i olika former. Der
 utformningen av planen.
 
 VI har genomfört dessa dialoger:
-- Barn i förskoleålder: dialog med barn på tre förskolor.
+\- Barn i förskoleålder: dialog med barn på tre förskolor.
 
-- Bred kartenkät: fyra respondenter under 12 år (en underrepresentation sett till befolkningen);
+\- Bred kartenkät: fyra respondenter under 12 år (en underrepresentation sett till befolkningen);
 213 respondenter i åldern 13–17 år (en överrepresentation sett till befolkningen).
 
-- Dialog med hyresgäster: fyra respondenter i åldern upp till 13 år samt 21 respondenter i åldern
+\- Dialog med hyresgäster: fyra respondenter i åldern upp till 13 år samt 21 respondenter i åldern
 13–17 år.
 
-- Kommunutvecklarna (sommarjobbare): 64 samtal med tonåringar och unga vuxna om
+\- Kommunutvecklarna (sommarjobbare): 64 samtal med tonåringar och unga vuxna om
 utvecklingen av staden.
 
-- Medskapande rum ”Kungsbacka Live”: drop-in rum i ett köpcentrum i Kungsbacka stad. Rummet
+\- Medskapande rum ”Kungsbacka Live”: drop-in rum i ett köpcentrum i Kungsbacka stad. Rummet
 hade tema Utvecklingen av Kungsbacka stad under tre dagar. Rummet hade inslag av lek och
 interaktivitet som tilltalar barn och några barn kom in och lämnade sina synpunkter.
 
@@ -8658,7 +8658,7 @@ Hur samrådet bedrivits
 
 Kommunstyrelsen beslöt 2024-02-20 § 47 att genomföra samråd kring förslag till fördjupad översiktsplan för
 Kungsbacka stad. Planförslaget syftar till att peka ut en riktning för utvecklingen av Kungsbacka stad fram till
-2050. Förslaget har varit utställt för samråd i stadshuset i Kungsbacka under tiden 7 mars till 7 juni 2024.
+2050\. Förslaget har varit utställt för samråd i stadshuset i Kungsbacka under tiden 7 mars till 7 juni 2024.
 Information om samrådet skickades ut enligt sändlista till remissinstanser. Under samrådet har omkring 180
 yttranden skickats in, varav omkring 120 från privatpersoner. Samhällsbyggnadskontoret har fått in fem
 
@@ -10482,7 +10482,7 @@ vatten genom ökad andel hårdgjord yta och ökade vattenföroreningar. Det är 
 förbättra vattenkvaliteten, särskilt i Kungsbackaån och att åtgärder vidtas för att minska näringsämnen,
 framför allt vid Hammargårds avloppsreningsverk och återställa vattendragen till naturliga förhållanden. - Om
 utsläppen från Hammargård bibehålls på nuvarande nivåer kommer god ekologisk status inte att uppnås till
-2027. ”En stad som ska växa med 12 000 bostäder måste stora mål som god ekologisk status finnas med. Om
+2027\. ”En stad som ska växa med 12 000 bostäder måste stora mål som god ekologisk status finnas med. Om
 målet om god ekologisk status inte finns med kommer det bli svårare ju större staden växer och ju längre tiden
 går för att förbättra MKN.”
 
@@ -10814,7 +10814,7 @@ Hur samrådet bedrivits
 
 Kommunstyrelsen beslöt 2024-02-20 § 47 att genomföra samråd kring förslag till fördjupad översiktsplan för
 Kungsbacka stad. Planförslaget syftar till att peka ut en riktning för utvecklingen av Kungsbacka stad fram till
-2050. Förslaget har varit utställt för samråd i stadshuset i Kungsbacka under tiden 7 mars till 7 juni 2024.
+2050\. Förslaget har varit utställt för samråd i stadshuset i Kungsbacka under tiden 7 mars till 7 juni 2024.
 Information om samrådet skickades ut enligt sändlista till remissinstanser. Under samrådet har omkring 180
 yttranden skickats in, varav omkring 120 från privatpersoner. Samhällsbyggnadskontoret har fått in fem
 
@@ -12638,7 +12638,7 @@ vatten genom ökad andel hårdgjord yta och ökade vattenföroreningar. Det är 
 förbättra vattenkvaliteten, särskilt i Kungsbackaån och att åtgärder vidtas för att minska näringsämnen,
 framför allt vid Hammargårds avloppsreningsverk och återställa vattendragen till naturliga förhållanden. - Om
 utsläppen från Hammargård bibehålls på nuvarande nivåer kommer god ekologisk status inte att uppnås till
-2027. ”En stad som ska växa med 12 000 bostäder måste stora mål som god ekologisk status finnas med. Om
+2027\. ”En stad som ska växa med 12 000 bostäder måste stora mål som god ekologisk status finnas med. Om
 målet om god ekologisk status inte finns med kommer det bli svårare ju större staden växer och ju längre tiden
 går för att förbättra MKN.”
 
@@ -14053,7 +14053,7 @@ KUNGSBACKA  KOMMUN
 KUNGSBACKA  KOMMUN
 12 (22)
 
-_______________________________________________________
+\_______________________________________________________
 
 <!-- sida 352 -->
 
@@ -14566,7 +14566,7 @@ Nämnden för Vård & Omsorg noterar informationen till protokollet.
 Sammanfattning av ärendet
 Nämnden önskar att förvaltningen regelbundet rapporterar om arbetet med semesterbemanningen för
 
-2025.
+2025\.
 
 Beslutsunderlag
 
@@ -14717,7 +14717,7 @@ Gynnande beslut som avbrutits och ej verkställts inom tre månader
 KUNGSBACKA  KOMMUN
 3 (4)
 
--
+\-
 
 Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts eller avslutats
 
@@ -14849,7 +14849,7 @@ Diarienummer VO-2025-00037
 Diarienummer VO-2025-00038
 
 Avtal
--
+\-
 
 Övrigt
 Diarienummer VO-2025-00110. Yttrande till Patientnämnden Halland, 2025-04-04.

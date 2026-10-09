@@ -318,27 +318,27 @@ Rådgivningsverksamheten bidrar till kommunens hållbarhetsmål inom flera områ
 såsom:
 Social hållbarhet:
 
--  Stärker individers förmåga att hantera sin ekonomi och sin livssituation.
--  Förebygger ekonomisk utsatthet och social exkludering.
+\-  Stärker individers förmåga att hantera sin ekonomi och sin livssituation.
+\-  Förebygger ekonomisk utsatthet och social exkludering.
 
--  Bidrar till ökad självständighet och delaktighet i samhället.
--  Stärker individers förmåga att hantera ekonomi, konsumtion och
+\-  Bidrar till ökad självständighet och delaktighet i samhället.
+\-  Stärker individers förmåga att hantera ekonomi, konsumtion och
 
 energianvändning i vardagen.
--  Ger företag bättre förutsättningar att agera ansvarsfullt och långsiktigt.
+\-  Ger företag bättre förutsättningar att agera ansvarsfullt och långsiktigt.
 
 Ekonomisk hållbarhet:
--  Hjälper invånare att undvika eller hantera skuldsättning.
+\-  Hjälper invånare att undvika eller hantera skuldsättning.
 
--  Bidrar till en hållbar privatekonomi genom rådgivning och kunskapshöjande
+\-  Bidrar till en hållbar privatekonomi genom rådgivning och kunskapshöjande
 insatser.
--  Ger stöd som kan minska behovet av mer omfattande samhällsinsatser på
+\-  Ger stöd som kan minska behovet av mer omfattande samhällsinsatser på
 sikt.
 
--  Bidrar till mer hållbara konsumtionsval och minskad överkonsumtion.
+\-  Bidrar till mer hållbara konsumtionsval och minskad överkonsumtion.
 
 Ekologisk hållbarhet:
--  Främjar hållbar konsumtion genom konsumentrådgivning.
+\-  Främjar hållbar konsumtion genom konsumentrådgivning.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 62194421EC16642FDB155403F0C5BC201C4538E3C3
@@ -351,9 +351,9 @@ Nämnden för Service
 Datum
 2026-06-17
 
--  Bidrar till minskad energianvändning och ökad kunskap om energieffektiva
+\-  Bidrar till minskad energianvändning och ökad kunskap om energieffektiva
 lösningar genom energi- och klimatrådgivningen.
--  Stödjer invånare och företag i omställningen till ett mer hållbart samhälle.
+\-  Stödjer invånare och företag i omställningen till ett mer hållbart samhälle.
 
 Rådgivningsenheten arbetar både reaktivt genom individuella rådgivningsärenden
 och proaktivt genom information, utbildningar, föreläsningar och samverkan.
@@ -636,11 +636,11 @@ protokollet.
 Sammanfattning av ärendet
 Förvaltningschef Julia Tryggvadottir Tollesson informerar om,
 
--  Service omhändertagande av Kommunfullmäktiges beslut om avskaffande av
+\-  Service omhändertagande av Kommunfullmäktiges beslut om avskaffande av
 religiöst motiverad specialkost.
--  Introduktionsträff för nyanställda på Service.
+\-  Introduktionsträff för nyanställda på Service.
 
--  Intervjurunda och dialog med samtliga förvaltningar om gemensam digital
+\-  Intervjurunda och dialog med samtliga förvaltningar om gemensam digital
 utveckling.
 
 Beslutsgång

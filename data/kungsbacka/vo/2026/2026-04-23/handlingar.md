@@ -187,9 +187,9 @@ verksamhet.
 Brukare, anhöriga, personal och övriga kommunmedborgare kan ge förslag på mottagare av det
 årliga priset. Förslag skall innehålla:
 
--  Vilka som föreslås att få priset
--  Motivering av förslaget
--  Vem eller vilka som har gett förslaget
+\-  Vilka som föreslås att få priset
+\-  Motivering av förslaget
+\-  Vem eller vilka som har gett förslaget
 
 Information om möjlighet att lämna förslag skall annonseras på ett lämpligt sätt för att nå de grupper
 som kan ge förslag.
@@ -949,13 +949,13 @@ förvaltningens arbete i civil beredskap. Riktlinjen bidrar till att identifiera
 arbetar med samhällsviktig och lagstadgad verksamhet. Dessa enheter kommer att arbeta
 vidare med kontinuitshantering.
 De sex prioriterade områdena är:
-1. Förutsättningar för att planera arbetet i civil beredskap
+1\. Förutsättningar för att planera arbetet i civil beredskap
 
-2. Att upprätthålla ordinarie verksamhet vid avbrott och störningar
-3. Samverkan och ledning
-4. Utbildning och övning
-5. Upphandling och samverkan med privata aktörer
-6. Målgruppsanpassad kriskommunikation
+2\. Att upprätthålla ordinarie verksamhet vid avbrott och störningar
+3\. Samverkan och ledning
+4\. Utbildning och övning
+5\. Upphandling och samverkan med privata aktörer
+6\. Målgruppsanpassad kriskommunikation
 
 2  Förutsättningar  för att planera arbetet i civil
 
@@ -1490,8 +1490,8 @@ Testa Datapult och Medvind:                                                     
 upphandling – Finns det något system som uppfyller
 Utvärdera:
 våra förväntningar:
-1. Ifall Datapult eller Medvind Autoschema kan ge mer signifikanta resultat.
-2. Uppfylls samtliga förväntningar/målbild.
+1\. Ifall Datapult eller Medvind Autoschema kan ge mer signifikanta resultat.
+2\. Uppfylls samtliga förväntningar/målbild.
 
 Diskutera strategiska åtgärder:                                                 För att uppnå signifikanta effekter bör detta
 utvärderas (70% av potentialen enl. Konvoj).
@@ -1576,9 +1576,9 @@ genom att automatisera tal-till-text och
 sammanställning av anteckningar.
 
 Två centrala funktioner
-1) Transkribering av tal till text.
+1\) Transkribering av tal till text.
 
-2) Sammanställning till tydliga, konsekventa
+2\) Sammanställning till tydliga, konsekventa
 anteckningar.
 
 Översätter idag från två språk, Arabiska och
@@ -1800,7 +1800,7 @@ Kungsbacka
 | S
 -(0)-
 A ON Å A
-V J Validera md Dokumentera med <Visualisera v
+V J Validera md Dokumentera med \<Visualisera v
 | Nyckeltal ] | Känslig data | ( Datakvalitet ] ( Datalexikon | | Power Bl on-prem | | Insikter |
 Info.säk | ( Beräkningsmetoder J ( Kravställning | | Behörighetsstyrning |
 Integrationer | ( Datamodell ] Datakvalitetrapport
@@ -1908,7 +1908,7 @@ Vi använder data för att
 förstå hur det går i
 verksamheten
 
-=
+\=
 
 00
 —[00
@@ -2049,12 +2049,12 @@ kunskapsbaserat
 utbud.
 Säkerställa att
 aktiviteterna är
-- tillgängliga
+\- tillgängliga
 FOKUS            Ta fram och testa
-- inkluderande                         nya aktiviteter
-- anpassade för olika Delaktighet, kvalitet och
+\- inkluderande                         nya aktiviteter
+\- anpassade för olika Delaktighet, kvalitet och
 funktionsnivåer långsiktig hållbarhet
--
+\-
 där både boende och personal
 ges möjlighet att påverka och
 bidra.​
@@ -2277,7 +2277,7 @@ Kunskapshbaserad
 Kungsbacka
 
 Organisationens Invånarens
-- Vetenskap, funktion perspektiv
+\- Vetenskap, funktion perspektiv
 Så har vi alltid gjort Kunskapsbaserad Känsla och kultur beprövad erfarenhet
 2
 nn ED =;
@@ -2289,7 +2289,7 @@ Källa: SKR Förflyttning av framtidens socialtjänst
 
 Lätt tillgänglig
 
-> 2
+\> 2
 
 Insatser utan
 Sluten, krånglig Lätt tillgänglig Utreda allt behovsprövning
@@ -2424,7 +2424,7 @@ den som vårdar eller stöder en, |
 närstående som är äldre eller långvarigt
 sjuk, och
 
-2. den som stöder en närstående med
+2\. den som stöder en närstående med
 funktionsnedsättning. Stödet ska ges i
 form av information, vägledning eller
 annat stöd. Socialnämnden ska erbjuda
@@ -2970,7 +2970,7 @@ KUNGSBACKA  KOMMUN
 
 Attester
 
--
+\-
 
 Lex Sarah
 Diarienummer VO-2025-00290
@@ -3073,7 +3073,7 @@ Avser särskild avgift. Kammarrätten meddelar prövningstillstånd. Kammarrätt
 för vård och omsorgs överklagande.
 
 Diarienummer VO-2026–00095. (Socialstyrelsen) Enkät - Utvecklingen av e-hälsa och välfärdsteknik
-2026.
+2026\.
 Diarienummer VO-2026–00024. (Inspektionen för Vård & Omsorg (IVO)) IVO har begär yttrande och
 handlingar som gäller ett ej verkställt beslut. IVO beslut, 2026-03-17. IVO bedömer att det saknas stöd
 

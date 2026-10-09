@@ -365,7 +365,7 @@ e att planen kan främja tillit och bidra till att motverka segregation och pola
 mötesplatserna ska användas av flera grupper och att besökarna då knyter kontakter med
 människor utanför det egna bostadsområdet.
 
-13)
+13\)
 Förvaltningen för Kultur & Fritid Kungsbacka kommun
 Erik Norinder 434 81 Kungsbacka
 0300-834883 Besöksadress
@@ -378,7 +378,7 @@ www.kungsbacka.se
 <!-- sida 10 -->
 
 KUNGSBACKA KOMMUN
-23)
+23\)
 
 att det samlade utbudet av mötesplatser kan erbjuda en variation av upplevelser, inklusive
 konst, kultur, motion, naturupplevelser och socialt umgänge där det finns ett utbud såväl
@@ -712,7 +712,7 @@ Kungsbacka
 <!-- sida 17 -->
 
 KUNGSBACKA KOMMUN
-212)
+212\)
 
 Detaljplaneprocessen
 
@@ -767,7 +767,7 @@ Detaljplan för blandad stadsbebyggelse inom sydöstra centrum etapp 1
 
 Genomförande
 
-Byggnadsnämnden beslöt den 2022-03-17 $90 att genomföra samråd för detaljplaneförslaget.
+Byggnadsnämnden beslöt den 2022-03-17 \$90 att genomföra samråd för detaljplaneförslaget.
 Detaljplaneförslaget har varit utställt för samråd i Stadshuset i Kungsbacka och på biblioteket Fyren i
 Kungsbacka under tiden 17 maj till 28 juni 2022.
 
@@ -811,9 +811,9 @@ KUNGSBACKA KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
-Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap 10 $ PBL och nu kända
+Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap 10 \$ PBL och nu kända
 förhållanden att ett antagande av en detaljplan enligt förslaget kan komma att prövas.
 
 Motiv för bedömningen
@@ -959,7 +959,7 @@ Kommunen har även utrett risk med elladdningsstation inom bostadskvarter, kompl
 handlingarna med avvägningar gällande stadssilluett samt beskrivit hur befintliga skyddsrum
 ska hanteras under genomförandet av detaljplanen.
 
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Delar av planen som måste förbättras
 DUBBLA ANVÄNDNINGSOMRÅDEN I PLANKARTA
@@ -1006,7 +1006,7 @@ Kommentar: Planbeskrivningen har uppdaterats med information om dessa tomtindeln
 
 FÖRTYDLIGANDE OM GENOMFÖRANDETIDEN
 
-Lantmäteriet lyfter i sitt yttrande att enligt PBL 4 kap. 22 $ avser genomförandetiden vid planändring
+Lantmäteriet lyfter i sitt yttrande att enligt PBL 4 kap. 22 \$ avser genomförandetiden vid planändring
 endast de frågor som ändras och att det borde framgå både av skrivningen på plankartan och även
 tydliggöras av skrivningar i planbeskrivningen att genomförandetiden endast avser dessa frågor.
 
@@ -1028,7 +1028,7 @@ Lantmäteriet efterfrågar förtydligande gällande genomförandeavtalet.
 
 Kommentar: Planhandlingarna är kompletterade enligt Lantmäteriets önskemål.
 
-3. Statens geotekniska institut
+3\. Statens geotekniska institut
 
 SGI skriver i sitt yttrande att de ser att det kvarstår, från geoteknisk säkerhetssynvinkel, oklarheter som
 behöver förtydligas i det fortsatta planarbetet. SGI tar upp att det i norra delen av planområdet finns
@@ -1064,7 +1064,7 @@ Kommentar: Kommunen har kompletterat de geotekniska utredningarna enligt SGTI:s
 synpunkter inför granskningen av planen samt infört planbestämmelser med
 belastningsrestriktioner samt krav på pålning där så krävs.
 
-4. Trafikverket
+4\. Trafikverket
 
 Transportsnål planering
 
@@ -1158,17 +1158,17 @@ planen är planområdet och spåret avskilt av Söderå.
 
 Sakägare
 
-5. Brf Söderå
+5\. Brf Söderå
 
 Styrelsen är positiv till den nya detaljplanen men vill tydliggöra att ökad boende/kontor och trafik i
 området kommer påverka vår BRF, vilket föranleder följande synpunkter och funderingar som måste
 tas i beaktande av kommunen:
 
-1. Fler bostäder och kontor kommer medföra fler medborgare i området, vilket resulterar i fler bilar
+1\. Fler bostäder och kontor kommer medföra fler medborgare i området, vilket resulterar i fler bilar
 och därmed trafik. Varbergsvägen är redan nu högt belastad och kommer troligtvis inte kunna hantera
 så mycket mer trafik. Hur kommer kommunen hantera den ökade trafiken?
 
-2. Bullernivåer är redan på höga nivåer speciellt på Varbergsvägen och dessa nivåer kommer troligtvis
+2\. Bullernivåer är redan på höga nivåer speciellt på Varbergsvägen och dessa nivåer kommer troligtvis
 öka kraftigt med ökad trafik. En buller-plan för både fordonstrafik samt tågtrafik måste tas fram som
 inte bara innefattar den nya detaljplanen men även de kringliggande områden (fastigheter norrut från
 tilltänkt stadsdel). Hur säkerställer kommunen att bullernivåer inte överskrider de nivåer som är
@@ -1179,7 +1179,7 @@ lagstadgade och reglerade?
 KUNGSBACKA KOMMUN
 10 (19)
 
-3. Infrastruktur såsom väg, vatten och avlopp måste kraftigt uppdateras vilket kommer påverka
+3\. Infrastruktur såsom väg, vatten och avlopp måste kraftigt uppdateras vilket kommer påverka
 fastigheter i närområdet. Byggnation och trafik till tilltänkt stadsdel kommer medföra tunga fordon
 vilket kan riskera skada (sättningar i mark + fastigheter) vilket inte alltid täcks av försäkringsbolag, hur
 kommer denna typen av påverkan och extra kostnader hanteras av kommunen som vår BRF kan
@@ -1198,7 +1198,7 @@ utbyggnadstiden. De företag som utför åtgärder blir ansvariga för eventuell
 skador på grund av byggnationen på intilliggande fastigheter, Sådant regleras
 genom försäkringar och kan inte regleras genom detaljplanen.
 
-6. Scanova
+6\. Scanova
 Skanova har markförlagda teleanläggningar inom detaljplaneområdet.
 
 Skanova önskar att så långt som möjligt behålla befintliga teleanläggningar i nuvarande läge för att
@@ -1218,7 +1218,7 @@ hitta lösningar för placering av kabelstråk.
 KUNGSBACKA KOMMUN
 11 (19)
 
-7. E.ON
+7\. E.ON
 
 Inom området har E.ON ett befintligt elnät som består av markförlagda låg- och
 mellanspänningskablar samt en transformatorstation KBN-030 Lantmannagatan 3 se bifogade
@@ -1291,11 +1291,11 @@ Kommentar: Synpunkterna är beaktade inom ramen för arbetet med genomförandest
 lösningar för placering av kabelstråk samt transformatorstationer.
 
 Kommunala förvaltningar och nämnder
-8. Teknik
+8\. Teknik
 
 Nämnden för Teknik instämmer i planförslaget vad gäller blandad bebyggelse, parkeringshus i
 utkanterna av området, parker, stråk och möjlighet att bredda Varbergsvägen. Nämnden för teknik
-instämmer med BN:s förslag 27/3 2022 $ 90 gällande korsningsutformning mellan Lantmannagatan
+instämmer med BN:s förslag 27/3 2022 \$ 90 gällande korsningsutformning mellan Lantmannagatan
 och Hantverksgatan/Skolgatan. I samrådsförslaget finns en rondell där det föreslås en kraftig kurva/
 böj vid infarten till rondellen från Lantmannagatan, vi ser gärna att nytt förslag tas fram till nästa skede
 med en rakare sträckning av Lantmannagatan.
@@ -1314,7 +1314,7 @@ granskningshandlingen.
 KUNGSBACKA KOMMUN
 13 (19)
 
-9. Vård och omsorg
+9\. Vård och omsorg
 
 Vård & Omsorg skriver i sitt yttrande att de vill betona att fastigheterna och kvarteret utformas på ett
 sådant sätt att de blir tillgängliga för alla oavsett ålder eller funktionsnedsättning.
@@ -1323,7 +1323,7 @@ I övrigt så har Vård & Omsorg inga synpunkter på förslaget.
 
 Kommentar: Noteras
 
-10. Service
+10\. Service
 
 Service tar upp i sitt yttrande att det är viktigt att redan i planskedet ta i beaktning placeringen av
 respektive BMSS. Service anser att det inte är önskvärt att de tre planerade BMSS hamnar för nära
@@ -1340,7 +1340,7 @@ som enligt BBR kräver de höjderna.
 Kommentar:  BmSsS regleras inte i plankartan då de kan inrymmas under B, bostäder.
 Placering är inte fastslagen. Synpunkten noteras till kommande skede.
 
-11. Kultur och fritid
+11\. Kultur och fritid
 
 Kulturmiljö
 
@@ -1402,7 +1402,7 @@ riskfyllda platser.
 Lekytor kommer finnas inom området i den norra parken men även i den bostadsnära parken
 samt på kvartersgatorna som ska fungera som förlängning av bostadsgårdarna.
 
-12. Miljö & Hälsoskydd
+12\. Miljö & Hälsoskydd
 
 Miljö och hälsa tar upp framtagen bullerutredning och att gällande riktvärden överskrids för ekvivalent
 ljudnivå vid fasad utmed Varbergsvägen, Hantverkargatan och Lantmannagatan. Enligt
@@ -1481,7 +1481,7 @@ Kommentar: Uppdaterad bullerutredning är framtagen. Vibrationsutredning är fra
 Planområdet har höjdsats i plankartan. Saneringskrav är infört som
 planbestämmelse.
 
-13. Individ & Familjeomsorg
+13\. Individ & Familjeomsorg
 
 Nämnden för Individ & Familjeomsorg tillstyrker framtagen Detaljplan för blandad stadsbebyggelse
 inom Sydöstra Centrum etapp 1 i Kungsbacka. Nämnden för Individ & Familjeomsorg vill samtidigt
@@ -1491,7 +1491,7 @@ Kommentar: Noteras
 
 Övriga
 
-14. Hallandstrafiken
+14\. Hallandstrafiken
 
 Hallandstrafiken skriver att de ser mycket positivt till utökning av tätorten längst prioriterade
 kollektivtrafikshuvudstråk. Med närhet till både hållplats med bra turtäthet och närhet till stationen
@@ -1517,7 +1517,7 @@ Yttrandet är även förankrat med Västtrafik.
 
 Kommentar: Noteras
 
-15. Privatperson 1
+15\. Privatperson 1
 
 I inkommet yttrande från privatperson framförs kritik till har kommunala skattemedel hanteras på ett
 felaktigt sätt enligt privatperson 1. Yttrandet beskriver hur privatperson 1 kunnat läsa i lokalpressen
@@ -1528,7 +1528,7 @@ Lantmannagatan och Hantverksgatan.
 
 Kommentar: Noteras
 
-16. Privatperson 2
+16\. Privatperson 2
 
 Privatperson 2 skriver i sitt yttrande att bygga en förtätad stad är det absolut sämsta alternativet om vi
 skall möta framtiden. Troligtvis blir den traditionellt förtätade stadskärnan obeboelig på somrarna runt
@@ -1546,7 +1546,7 @@ Kommentar: Noteras
 KUNGSBACKA KOMMUN
 18 (19)
 
-17. Räddningstjänsten Storgöteborg
+17\. Räddningstjänsten Storgöteborg
 Räddningstjänsten skriver i sitt yttrande om riskhänsyn, framkomlighet och brandvattenförsörjning.
 
 Gällande riskhänsyn påtalar räddningstjänsten att det inte framgår hur baskraven i länsttyrelsens
@@ -1564,14 +1564,14 @@ bedömer därför frågan som hanterad.
 Kommentar:  Planbestämmelser är införda i plankartan för att säkerställa att baskraven
 uppfylls gällande risk
 
-18. Ellevio
+18\. Ellevio
 
 Ellevio har genom sitt yttrande meddelat att de har inga ledningar eller andra anläggningar i eller i
 närheten av planområdet och avstår därför från att yttra sig i ärendet.
 
 Kommentar: Noteras
 
-19. Närliggande verksamhet
+19\. Närliggande verksamhet
 
 En närliggande verksamhet har under samrådstiden skrivit ett yttrande med ett antal frågor då de nåtts
 av information och rykten kring kommunens planering i området.
@@ -1664,7 +1664,7 @@ www.kungsbacka.se
 <!-- sida 38 -->
 
 KUNGSBACKA KOMMUN
-24)
+24\)
 
 Trygghet
 För sydöstra centrum etapp 1 planeras det för två stycken nya parkeringshus. Det är av stor vikt att de
@@ -1696,7 +1696,7 @@ i det kommande planeringsskedet.
 Upplysning
 
 Beslut fattat med stöd av delegering. Nämnden för Kultur & Fritids delegeringsförteckning: punkt
-3.1.12, 2021-04-21, $ 19
+3.1.12, 2021-04-21, \$ 19
 
 Sammanfattning
 
@@ -1775,7 +1775,7 @@ Beslutet skickas till
 
 Samhällsbyggnadskontoret
 
-34)
+34\)
 
 <!-- sida 40 -->
 
@@ -1915,7 +1915,7 @@ Erik Norinder
 0300-834883
 Utvecklingsledare
 
-12)
+12\)
 Kungsbacka kommun
 434 81 Kungsbacka
 
@@ -2101,7 +2101,7 @@ Upplysning
 
 Beslut fattade med stöd av delegering. Nämnden för Kultur & Fritids delegeringsförteckning: 2025-04-
 
-23 $ 52.
+23 \$ 52.
 
 Sammanfattning av ärendet
 
@@ -2186,14 +2186,14 @@ KFT-2025- 2025-04- Region Halland Hallands biblioteksplan 2026-2029 på
 
 00103 24 remiss
 
-KFT-2025- 2025-04- Kommunledningskontoret Protokollsutdrag 2025-04-22 KS $ 73
+KFT-2025- 2025-04- Kommunledningskontoret Protokollsutdrag 2025-04-22 KS \$ 73
 
 00102 24 Antagande av
 
 informationshanteringsplan för
 kommungemensamma stödprocesser
 
-12)
+12\)
 
 Förvaltningen för Kultur & Fritid Kungsbacka kommun
 Erik Norinder 434 81 Kungsbacka
@@ -2208,7 +2208,7 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN
 
-KFT-2025- 2025-04- Kommunledningskontoret Protokollsutdrag 2025-04-22 KS $ 72
+KFT-2025- 2025-04- Kommunledningskontoret Protokollsutdrag 2025-04-22 KS \$ 72
 
 00101 24 Antagande av
 informationshanteringsplan för
@@ -2227,7 +2227,7 @@ Karl Persson
 
 Förvaltningschef
 
-202)
+202\)
 
 <!-- sida 52 -->
 

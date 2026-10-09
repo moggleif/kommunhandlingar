@@ -114,7 +114,7 @@ Information om aktivitetskravet 2025 ...........................................
 
 § 115 Dnr GA-2026-00168
 Informationsbeskrivning: arkivbeskrivning av GA organisation och historik
-- beslut .................................................................................................... 14
+\- beslut .................................................................................................... 14
 
 § 116 Dnr GA-2026-00169
 Sammanträdestider för Gymnasium & Arbetsmarknads nämnd & utskott
@@ -196,10 +196,10 @@ utblick mot 2037. Nämnden informerades i juni om lokalplaneringsprocessen och
 förvaltningens identifierade lokalbehov.
 
 Inför kommande beslut om lokalplan lämnas information om följande behov:
--        Anpassad gymnasieskola Aranäsgymnasiet
+\-        Anpassad gymnasieskola Aranäsgymnasiet
 
--        Anpassad gymnasieskola Aranäsgymnasiet - Extern etablering
--        Ekonomiprogrammet Elof Lindälvs gymnasium
+\-        Anpassad gymnasieskola Aranäsgymnasiet - Extern etablering
+\-        Ekonomiprogrammet Elof Lindälvs gymnasium
 
 Behoven har bearbetats vidare sedan informationen i juni och utgör underlag inför
 nämndens beslut om lokalplan i oktober.
@@ -314,7 +314,7 @@ Budget 2026
 Beslut
 
 Nämnden för Gymnasium & Arbetsmarknad godkänner delårsrapport per augusti
-2026.
+2026\.
 
 Sammanfattning av ärendet
 Gymnasium & Arbetsmarknad prognostiserar ett överskott på 19,3 miljoner kronor

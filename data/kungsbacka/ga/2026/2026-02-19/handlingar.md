@@ -254,7 +254,7 @@ Mål och strategier ............................................................
 4.Patienten som medskapare ...........................................................................................19
 
 AGERA FÖR SÄKER VÅRD .........................................................................................................
-5. Resultat och analys .......................................................................................................20
+5\. Resultat och analys .......................................................................................................20
 Avvikelser .....................................................................................................................25
 
 MÅL, STRATEGIER OCH UTMANINGAR FÖR KOMMANDE ÅR ................................................27
@@ -436,12 +436,12 @@ PSL 2010:659, 3 kap. 1 §, SOSFS 2011:9, 3 kap. 1-3 §
 
 Elevhälsans medicinska insats har alltid ett övergripande mål att patientsäkert kunna
 erbjuda
-- Förebyggande och hälsofrämjandeinsatser för att stödja elever
-- Erbjuda vaccinationer enligt FHM vaccinationsprogram (komplettering gymnasieskolan)
+\- Förebyggande och hälsofrämjandeinsatser för att stödja elever
+\- Erbjuda vaccinationer enligt FHM vaccinationsprogram (komplettering gymnasieskolan)
 
-- Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp hen är
+\- Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp hen är
 i behov av.
-- Utföra enklare sjukvårdsinsatser
+\- Utföra enklare sjukvårdsinsatser
 
 Utifrån dessa övergripande mål tas även fram identifierade mål för patientsäkerhetsarbete.
 
@@ -857,10 +857,10 @@ En god säkerhetskultur inom verksamheten där lärande, kommunikation och refle
 
 ledord bygger på intern samverkan som tidigare beskrivits. Intern samverkan består av bl.a.:
 
-- Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
-- Ledningsmöten Elevhälsans medicinska insats
-- Samverkan mellan EMI samt övrig elevhälsa
-- Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
+\- Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
+\- Ledningsmöten Elevhälsans medicinska insats
+\- Samverkan mellan EMI samt övrig elevhälsa
+\- Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
 
 Extern samverkan EPI
 
@@ -901,11 +901,11 @@ gynnsam ur ett barn- och föräldraperspektiv.
 Intern samverkan
 EPI
 
--  Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
+\-  Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
 
--  Samverkan mellan PLA och verksamhetschef HSL
+\-  Samverkan mellan PLA och verksamhetschef HSL
 
--  Samverkan mellan PLA och verksamhetschef EMI
+\-  Samverkan mellan PLA och verksamhetschef EMI
 
 16
 
@@ -974,44 +974,44 @@ Handledning i grupp erbjuds.
 
 Kontinuerlig fortbildning (återkommande) EMI Gymnasieskolan
 
-- Kompetensutvecklingsdag (heldag)
-- Yrkesspecifik utbildning i journalsystem (Prorenata)
-- Skolsköterskedagarna
-- Kategorimöten
+\- Kompetensutvecklingsdag (heldag)
+\- Yrkesspecifik utbildning i journalsystem (Prorenata)
+\- Skolsköterskedagarna
+\- Kategorimöten
 
 Kompetensutvecklingsinsatser under 2024 EMI Centralt
 
-- Tillväxtutbildning (Region Halland- Anton Holmberg-Endokrinolog)
-- Diabetesutbildning (Region Halland Alina Heringhaus-Diabetessjuksköterska
-- NPF- Flickor med ADHD/Autism (VGR- Svenny Kopp- Barnneurolog)
-- ANTDS
-- Skolsköterskedagarna Stockholm
-- Tillväxtprojektdag – Halmstad sjukhus
+\- Tillväxtutbildning (Region Halland- Anton Holmberg-Endokrinolog)
+\- Diabetesutbildning (Region Halland Alina Heringhaus-Diabetessjuksköterska
+\- NPF- Flickor med ADHD/Autism (VGR- Svenny Kopp- Barnneurolog)
+\- ANTDS
+\- Skolsköterskedagarna Stockholm
+\- Tillväxtprojektdag – Halmstad sjukhus
 
-- Barnahus Halland – Utbildning/diskussion
-- Skolfrånvaro- Basutbildning
-- Webbutbildningar (Skyddade uppgifter, Barn och cancer, Trauma hos barn,
+\- Barnahus Halland – Utbildning/diskussion
+\- Skolfrånvaro- Basutbildning
+\- Webbutbildningar (Skyddade uppgifter, Barn och cancer, Trauma hos barn,
 Obesitas(viktmobbning)
-- Heldagsutbildning ”Sexit” – EMI Halland (Länsstyrelsen föreläsare)
+\- Heldagsutbildning ”Sexit” – EMI Halland (Länsstyrelsen föreläsare)
 
 Kontinuerlig fortbildning (återkommande) EPI Centralt
 
-- Kompetensutvecklingsdag (heldag) x 2
-- Kategorimöten (olika områden/patientsäkerhet)
+\- Kompetensutvecklingsdag (heldag) x 2
+\- Kategorimöten (olika områden/patientsäkerhet)
 
 18
 
 <!-- sida 26 -->
 
 Kompetensutvecklingsinsatser under 2025 EPI Centralt
--  Om suicidpreventionsuppdraget i Region Halland
+\-  Om suicidpreventionsuppdraget i Region Halland
 
--  ANTDS hos ungdomar och det drogförebyggande arbetet.
--  Vändpunkten samtalsmottagning och Mottaget barn och unga, Socialtjänsten
--  Att utveckla barns förmågor i förskolan
--  Skolfrånvaro Basutbildning
+\-  ANTDS hos ungdomar och det drogförebyggande arbetet.
+\-  Vändpunkten samtalsmottagning och Mottaget barn och unga, Socialtjänsten
+\-  Att utveckla barns förmågor i förskolan
+\-  Skolfrånvaro Basutbildning
 
-4. Patienten som medskapare
+4\. Patienten som medskapare
 
 En grundläggande förutsättning för en säker vård är patientens och de
 närståendes delaktighet. Vården blir säkrare om patienten är välinformerad,
@@ -1031,16 +1031,16 @@ information digitalt via e-tjänst.
 Samtycke och/eller information mellan elevhälsans medicinska insats och
 elever/vårdnadshavare sker inom följande insatser:
 
-- Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
-- Information/samtycke vaccinationer inom basprogrammet
-- Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt för
+\- Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
+\- Information/samtycke vaccinationer inom basprogrammet
+\- Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt för
 
 vårdnadshavare. Hälsosamtalet är personcentrerad dialog mellan skolsköterska och elev
 som syftar till att främja hälsa och förebygga ohälsa. Här har elev och/eller
 vårdnadshavare förutsättningar till delaktighet och medskapande dels genom en
 webbaserad enkät inför samtalet som besvaras och ligger till grund för det enskilda
 samtalet (även engelsk version framtagits)
-- Information/samtycke om åtgärder som kan behövas initieras efter
+\- Information/samtycke om åtgärder som kan behövas initieras efter
 hälsosamtal/hälsobesök tas alltid ihop med elev/vårdnadshavare (finns undantag)
 
 Utifrån elevens ålder och mognadsgrad ökar rätten av inflytande och beslutsrätt gällandes
@@ -1097,7 +1097,7 @@ Egenkontroller utförda under 2025
 Resultat gällande identifierade mål för 2025
 
 Analys
-1.
+1\.
 
 Analys
 2
@@ -1356,19 +1356,19 @@ Elevhälsans psykologiska insats (EPI)
 
 Under 2025 har inga avvikelser rapporterats inom EPI Gymnasium Kungsbacka Kommun.
 
-6. Mål och utmaningar för kommande år
+6\. Mål och utmaningar för kommande år
 
 Övergripande mål
 
 Elevhälsans medicinska del har alltid ett övergripande mål att patientsäkert kunna erbjuda
-- Förebyggande och hälsofrämjandeinsatser för att stödja elever
+\- Förebyggande och hälsofrämjandeinsatser för att stödja elever
 
-- Erbjuda vaccinationer enligt FHM vaccinationsprogram (komplettera inom
+\- Erbjuda vaccinationer enligt FHM vaccinationsprogram (komplettera inom
 gymnasieskolan)
-- Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp hen är
+\- Hälsosamtal där identifiering av insatser skall upptäckas så att eleven får den hjälp hen är
 i behov av.
 
-- Utföra enklare sjukvårdsinsatser
+\- Utföra enklare sjukvårdsinsatser
 
 Dessa mål säkerställs genom egenkontroller och kontinuerlig dialog med närmsta chef och
 
@@ -1635,7 +1635,7 @@ och nära vårdområdet. I nuläget finns två initiativ som bedrivs under denna
 skolans verksamhet.
 Under 2025 har ett nytt initiativ kommit från verksamheten som har godkänts i slutet av
 
-2025. Initiativet har framkommit genom att skolsköterskor och skolläkare har sett en
+2025\. Initiativet har framkommit genom att skolsköterskor och skolläkare har sett en
 tydlig ökning av problematik inom ätstörningsområdet, vilket bland annat innefattar
 selektivt ätande, ätstörningar samt obesitas. Ett behov av specialistkompetens i form av
 Leg. Dietist har blivit alltmer tydligt då insatser behöver initieras direkt och då behövs
@@ -1872,7 +1872,7 @@ god kännedom om vårdprogram och hantering av denna problematik. I uppdraget
 kommer det ligga att skapa tydlighet i vårdprocesser, vårdkedja samt samverkan och
 tydlig ansvarsfördelning med övriga verksamheter.
 
-2. Var står vi och hur kommer    vi framåt?
+2\. Var står vi och hur kommer    vi framåt?
 
 Initiativet ” En väg åter” kommer under 2026 startas med en planering och
 implementeringsfas under våren. I Mars 2026 kommer funktionen vara på plats (två Leg.
@@ -2122,7 +2122,7 @@ Revidering av riktlinjer ekonomiskt bistånd 2026
 Förslag till beslut i Nämnden för Gymnasium & Arbetsmarknad
 
 Nämnden för Gymnasium & Arbetsmarknad godkänner revideringen av riktlinjer Ekonomiskt bistånd
-2026.
+2026\.
 
 Sammanfattning av ärendet
 
@@ -2179,15 +2179,15 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 Innehåll
 
-1. Beslut om riktlinjer .................................................................................................................................. 8
-2. Utgångspunkter i Socialtjänstlagen .......................................................................................................... 8
+1\. Beslut om riktlinjer .................................................................................................................................. 8
+2\. Utgångspunkter i Socialtjänstlagen .......................................................................................................... 8
 
-3. Lagregler och definitioner ........................................................................................................................ 9
+3\. Lagregler och definitioner ........................................................................................................................ 9
 
 3.1 Socialtjänstlagen ............................................................................................................................................... 9
 3.2 Bidragsbrottslag (2007:612) Ändrad 2020-01-01 .............................................................................................. 11
 
-4. Begrepp som används i lagtexten ........................................................................................................... 12
+4\. Begrepp som används i lagtexten ........................................................................................................... 12
 
 4.1 Försörjningsstöd ............................................................................................................................................. 12
 
@@ -2201,7 +2201,7 @@ Innehåll
 
 4.6 Helhetssyn...................................................................................................................................................... 13
 
-5. Försörjningsstöd .................................................................................................................................... 13
+5\. Försörjningsstöd .................................................................................................................................... 13
 
 5.1 Riksnorm ........................................................................................................................................................ 13
 
@@ -2225,7 +2225,7 @@ Innehåll
 
 5.11 Reducerat försörjningsstöd ............................................................................................................................. 14
 
-6. Inkomster och tillgångar ........................................................................................................................ 15
+6\. Inkomster och tillgångar ........................................................................................................................ 15
 
 2
 
@@ -2239,7 +2239,7 @@ Innehåll
 
 6.4 Jobbstimulans................................................................................................................................................... 15
 
-7. Boende.................................................................................................................................................. 16
+7\. Boende.................................................................................................................................................. 16
 
 7.1 Boendekostnad ................................................................................................................................................ 16
 
@@ -2294,7 +2294,7 @@ Innehåll
 
 7.25 Oskälig hög boendekostnad för egen fastighet ................................................................................................. 23
 
-8. Avgifter ................................................................................................................................................. 23
+8\. Avgifter ................................................................................................................................................. 23
 
 8.1 Avgift vid sjukhusvård ......................................................................................................................................23
 
@@ -2308,9 +2308,9 @@ Innehåll
 
 8.6 Måltider/Matleverans ....................................................................................................................................... 24
 
-9. Bilinnehav ............................................................................................................................................. 24
+9\. Bilinnehav ............................................................................................................................................. 24
 
-10. Barn ...................................................................................................................................................... 25
+10\. Barn ...................................................................................................................................................... 25
 
 10.1 Fritidspeng ..................................................................................................................................................... 25
 
@@ -2321,13 +2321,13 @@ Innehåll
 10.4 Mobiltelefon ungdomar .................................................................................................................................. 25
 
 10.5 Studentkostnader ........................................................................................................................................... 25
-11. Akut bistånd .......................................................................................................................................... 25
+11\. Akut bistånd .......................................................................................................................................... 25
 
-12. Umgängeskostnader .............................................................................................................................. 26
+12\. Umgängeskostnader .............................................................................................................................. 26
 
-13. Beslut som löper över flera månader ..................................................................................................... 26
+13\. Beslut som löper över flera månader ..................................................................................................... 26
 
-14. Hemutrustning ...................................................................................................................................... 26
+14\. Hemutrustning ...................................................................................................................................... 26
 
 14.1 Generellt ........................................................................................................................................................ 26
 
@@ -2337,7 +2337,7 @@ Innehåll
 
 14.4 Hemutrustning för nyanlända ......................................................................................................................... 28
 
-15. Juridiska kostnader och stämpelavgifter................................................................................................. 28
+15\. Juridiska kostnader och stämpelavgifter................................................................................................. 28
 
 15.1 Advokatkostnader........................................................................................................................................... 28
 
@@ -2349,13 +2349,13 @@ Innehåll
 
 15.3 Id-kort och pass .............................................................................................................................................. 29
 
-16. Kläder och skor utöver vad som ingår i försörjningsstödet ...................................................................... 29
+16\. Kläder och skor utöver vad som ingår i försörjningsstödet ...................................................................... 29
 
 16.1 Behov av särskilda kläder eller skor ................................................................................................................. 29
 
 16.2 Klädbidrag för nyanlända ................................................................................................................................ 29
 
-17. Diverse läkare- och optikerkostnader ..................................................................................................... 29
+17\. Diverse läkare- och optikerkostnader ..................................................................................................... 29
 
 17.1 Läkarvård och medicinkostnad ........................................................................................................................ 29
 
@@ -2363,7 +2363,7 @@ Innehåll
 
 17.3 Glasögon och kontaktlinser ............................................................................................................................. 29
 
-18. Resor/Rekreationsresor ......................................................................................................................... 30
+18\. Resor/Rekreationsresor ......................................................................................................................... 30
 
 18.1 Arbetsresor .................................................................................................................................................... 30
 
@@ -2384,25 +2384,25 @@ Innehåll
 
 18.10 Återvandringsresor .................................................................................................................................. 31
 
-19. Utlandsvistelse ...................................................................................................................................... 32
+19\. Utlandsvistelse ...................................................................................................................................... 32
 
-20. Skulder .................................................................................................................................................. 32
+20\. Skulder .................................................................................................................................................. 32
 
-21. Spädbarnsutrustning.............................................................................................................................. 33
+21\. Spädbarnsutrustning.............................................................................................................................. 33
 
-22. Tandvård ............................................................................................................................................... 33
+22\. Tandvård ............................................................................................................................................... 33
 
 22.1 Nödvändig tandvård ....................................................................................................................................... 33
 
 22.2 Akut tandvård ................................................................................................................................................. 34
 
-23. Tekniska hjälpmedel .............................................................................................................................. 34
+23\. Tekniska hjälpmedel .............................................................................................................................. 34
 
 5
 
 <!-- sida 61 -->
 
-24. Telefoni/dator/bredband/TV.................................................................................................................. 34
+24\. Telefoni/dator/bredband/TV.................................................................................................................. 34
 
 24.1 Telefoni .......................................................................................................................................................... 34
 
@@ -2414,21 +2414,21 @@ Innehåll
 
 24.5 Depositionsavgift för el-abonnemang .............................................................................................................. 35
 
-25. Tvättmaskin/torktumlare/diskmaskin ..................................................................................................... 35
+25\. Tvättmaskin/torktumlare/diskmaskin ..................................................................................................... 35
 
-26. Person som uppnått pensionsålder ........................................................................................................ 35
+26\. Person som uppnått pensionsålder ........................................................................................................ 35
 
-27. Person som är arbetslös ........................................................................................................................ 35
+27\. Person som är arbetslös ........................................................................................................................ 35
 
 27.1 Bistånd vid avstängning från arbetslöshetsersättning ....................................................................................... 36
 
 27.2 Körkort ........................................................................................................................................................... 36
 
-28. Person som är sjukskriven ..................................................................................................................... 36
+28\. Person som är sjukskriven ..................................................................................................................... 36
 
-29. Företagare eller person med s.k. fritt yrke .............................................................................................. 36
+29\. Företagare eller person med s.k. fritt yrke .............................................................................................. 36
 
-30. Person som är inskriven för kriminalvård, rättspsykiatriskvård etc .......................................................... 38
+30\. Person som är inskriven för kriminalvård, rättspsykiatriskvård etc .......................................................... 38
 
 30.1 Person som är intensivövervakad med elektronisk kontroll .............................................................................. 38
 
@@ -2439,7 +2439,7 @@ s.k. fotboja ...................................................................
 30.3 Person som står inför frigivning från ett längre straff........................................................................................ 39
 
 30.4 Samhällstjänst ................................................................................................................................................ 39
-31. Person som studerar ............................................................................................................................. 39
+31\. Person som studerar ............................................................................................................................. 39
 
 31.1 Ungdomar 18–21 år som går i skolan ............................................................................................................... 39
 
@@ -2459,7 +2459,7 @@ s.k. fotboja ...................................................................
 
 <!-- sida 62 -->
 
-32. Personer som är utländska medborgare ................................................................................................. 41
+32\. Personer som är utländska medborgare ................................................................................................. 41
 
 32.1 Person som är EU/EES-medborgare ................................................................................................................. 41
 
@@ -2467,7 +2467,7 @@ s.k. fotboja ...................................................................
 
 32.3 Person med uppehållstillstånd ..........................................................................................................................43
 
-33. Dödsfall ................................................................................................................................................. 43
+33\. Dödsfall ................................................................................................................................................. 43
 
 33.1 Begravningskostnader ..................................................................................................................................... 43
 
@@ -2481,7 +2481,7 @@ s.k. fotboja ...................................................................
 
 <!-- sida 63 -->
 
-1. Beslut om riktlinjer
+1\. Beslut om riktlinjer
 Riktlinjer för handläggning av ekonomiskt bistånd fastställs av nämnden för Gymnasium &
 Arbetsmarknad i Kungsbacka kommun.
 
@@ -2491,7 +2491,7 @@ verksamheten. Dokumentet innehåller riktlinjer för ekonomiskt bistånd enligt 
 socialtjänstlagen (SoL), avseende försörjningsstöd och ekonomiskt bistånd till livsföringen i
 övrigt.
 
-2. Utgångspunkter i Socialtjänstlagen
+2\. Utgångspunkter i Socialtjänstlagen
 
 Syftet med riktlinjerna är att likabehandling ska erbjudas alla kommuninvånare vad
 gäller så väl bidragsnivå och förutsättningar för rätt till ekonomiskt bistånd som insatser
@@ -2504,9 +2504,9 @@ och det är bättre för den enskilde att klara sin försörjning på egen hand 
 bistånd.
 
 Arbetet med ekonomiskt bistånd är ett tvådelat uppdrag som syftar till att:
--  Stödja människor i att finna vägar till självförsörjning.
+\-  Stödja människor i att finna vägar till självförsörjning.
 
--  Stödja människor till att leva ett självständigt liv.
+\-  Stödja människor till att leva ett självständigt liv.
 
 Den grundläggande principen är att arbetslinjen ska gälla. Det innebär att enskilda i första
 hand ska kunna försörja sig genom arbete och vid behov stöttas för att klara detta.
@@ -2537,7 +2537,7 @@ När åtgärder rör barn ska särskilt beaktas vad hänsynen till barnets bäst
 
 <!-- sida 64 -->
 
-3. Lagregler och definitioner
+3\. Lagregler och definitioner
 
 3.1 Socialtjänstlagen
 4 kap. 1 § Den som inte själv kan tillgodose sina behov eller kan få dem tillgodosedda
@@ -2561,8 +2561,8 @@ ett självständigt liv.
 
 4 kap. 1a § Följande inkomster ska inte beaktas vid bedömningen av rätten till
 biståndenligt 1 §
-1. hemmavarande barns inkomster av eget arbete,
-2. hemmavarande skolungdomars inkomster av eget arbete,
+1\. hemmavarande barns inkomster av eget arbete,
+2\. hemmavarande skolungdomars inkomster av eget arbete,
 omskolungdomarna är under 21 år.
 
 Till skolgång räknas studier i grundskolan eller gymnasieskolan eller annan
@@ -2586,9 +2586,9 @@ Den särskilda beräkningsregeln gäller inte inkomster som anges i 1 a §.
 
 4 kap. 3 § Försörjningsstöd lämnas för skäliga kostnader för:
 
-1. livsmedel, kläder och skor, lek och fritid, förbrukningsvaror, hälsa och
+1\. livsmedel, kläder och skor, lek och fritid, förbrukningsvaror, hälsa och
 hygien samt dagstidning och telefon.
-2. boende, hushållsel, arbetsresor, hemförsäkring samt
+2\. boende, hushållsel, arbetsresor, hemförsäkring samt
 
 9
 
@@ -2637,10 +2637,10 @@ med för högt belopp och skäligen borde ha insett detta, får socialnämnden
 
 9 kap. 2 § Socialnämnden får, i andra fall än som avses i 1 §, återkräva bistånd som
 denenskilde har erhållit enligt 4 kap 1 § endast om den lämnats.
-1. som förskott på en förmån eller ersättning,
+1\. som förskott på en förmån eller ersättning,
 
-2. till den som är indragen i arbetskonflikt, eller
-3. till den som på grund av förhållanden som han eller hon inte kunnat råda över
+2\. till den som är indragen i arbetskonflikt, eller
+3\. till den som på grund av förhållanden som han eller hon inte kunnat råda över
 hindrats från att förfoga över sina inkomster och tillgångar
 
 10
@@ -2706,7 +2706,7 @@ förmånstagaren eller på grund av social hänsyn.
 För mer information om hantering se Rutin för återkrav, felaktiga utbetalningar och
 polisanmälan.
 
-4. Begrepp som används i lagtexten
+4\. Begrepp som används i lagtexten
 
 4.1 Försörjningsstöd
 Försörjningsstöd är kostnader som framgår i 4 kap. 3 § SoL. Detta utgörs av riksnormen plus
@@ -2774,7 +2774,7 @@ organisation och arbete ska vara sammanhängande så att invånarna inte blir li
 
 grund av olika synsätt eller brist på samverkan inom förvaltningen.
 
-5. Försörjningsstöd
+5\. Försörjningsstöd
 
 Försörjningsstöd definieras i 4 kap. 3 § SoL och består av två delar, riksnorm och övrigt
 försörjningsstöd.
@@ -2827,21 +2827,21 @@ högre nivå. Det gäller när någon har förhöjda kostnader för en eller fle
 budgetposter som ingår i riksnormen och om dessa kostnader inte täcks av annan
 ersättning som handikappersättning eller vårdbidrag. Förhöjda kostnader kan t.ex. bero på
 att:
--  den enskilde av medicinska skäl har behov av dyrare kost,
--  den enskilde betalar avgift för skolmåltid,
+\-  den enskilde av medicinska skäl har behov av dyrare kost,
+\-  den enskilde betalar avgift för skolmåltid,
 
--  den enskilde har höga livsmedelskostnader på grund av att kostnaden
+\-  den enskilde har höga livsmedelskostnader på grund av att kostnaden
 är inräknad i egenavgift,
--  den enskilde på grund av funktionsnedsättning har svårt att upprätthålla
+\-  den enskilde på grund av funktionsnedsättning har svårt att upprätthålla
 kontakten med andra människor eller delta i samhällslivet och därför
 har extra utgifter, för t.ex. telefon och tidningar eller fritidsaktiviteter,
 som inte täcks av annat särskilt stöd,
--  om det är en förutsättning för att barn ska kunna delta i fritidsaktiviteter,
--  om det är en förutsättning för att en förälder ska kunna ha umgänge eller
+\-  om det är en förutsättning för att barn ska kunna delta i fritidsaktiviteter,
+\-  om det är en förutsättning för att en förälder ska kunna ha umgänge eller
 
 kontakt med sittbarn i rimlig omfattning,
--  om den enskilde har ett tillfälligt och visst behov av att köpa kläder och skor,
--  om den enskilde har tillfälligt höga kostnader t.ex. för livsmedel, kläder
+\-  om den enskilde har ett tillfälligt och visst behov av att köpa kläder och skor,
+\-  om den enskilde har tillfälligt höga kostnader t.ex. för livsmedel, kläder
 och skor eller telefon, beroende på att hen är eller har varit utsatt för
 våld eller andra övergrepp av närstående eller för något annat brott.
 
@@ -2864,9 +2864,9 @@ Reducering av försörjningsstöd får endast göras utifrån särskilda skäl o
 enskilda fallet.
 Bedömning om reducering kan vara aktuellt med stöd av följande situationer;
 
--  Den sökande saknar pengar för sin egen försörjning pga. att han/hon har avstått
+\-  Den sökande saknar pengar för sin egen försörjning pga. att han/hon har avstått
 från arbete eller inte stått till arbetsmarknadens förfogande.
--  Den sökande har haft inkomster till sin försörjning men använt dem till annat, vid
+\-  Den sökande har haft inkomster till sin försörjning men använt dem till annat, vid
 upprepade tillfällen tappat eller blivit bestulen på inkomsterna och saknar därför
 
 14
@@ -2874,10 +2874,10 @@ upprepade tillfällen tappat eller blivit bestulen på inkomsterna och saknar d�
 <!-- sida 70 -->
 
 medel till sitt uppehälle.
--  Den sökande har inte de kostnaderna sökt bistånd omfattar.
--  Den sökande använder inte biståndet till avsett ändamål.
+\-  Den sökande har inte de kostnaderna sökt bistånd omfattar.
+\-  Den sökande använder inte biståndet till avsett ändamål.
 
-6. Inkomster och tillgångar
+6\. Inkomster och tillgångar
 
 6.1 Inkomster som ej medräknas
 Huvudregeln är att alla inkomster i hushållet ska medräknas vid beräkning av sökandes
@@ -2887,16 +2887,16 @@ skatteavdrag.
 
 I vissa fall ska inkomster inte medräknas vid ekonomisk beräkning. Detta gäller:
 
--  ungdomars inkomster av arbete upp till ett prisbasbelopp per år.
--  inkomstavdrag enligt jobbstimulans, se riktlinjer för Jobbstimulans.
--  Extratillägg från CSN till barns studiebidrag (kan dock hänvisas till)
+\-  ungdomars inkomster av arbete upp till ett prisbasbelopp per år.
+\-  inkomstavdrag enligt jobbstimulans, se riktlinjer för Jobbstimulans.
+\-  Extratillägg från CSN till barns studiebidrag (kan dock hänvisas till)
 
--  Lärlingsersättning
--  Habiliteringsersättning
--  Merkostnadsersättning (ta reda på vilka utgifter den ska täcka för att inte
+\-  Lärlingsersättning
+\-  Habiliteringsersättning
+\-  Merkostnadsersättning (ta reda på vilka utgifter den ska täcka för att inte
 
 dubbelkompensera)
--  Omkostnadsersättningsdelen i ersättning till familjehem och kontaktfamilj-
+\-  Omkostnadsersättningsdelen i ersättning till familjehem och kontaktfamilj-
 /personer.
 
 6.2 Stipendier och Fonder
@@ -2934,12 +2934,12 @@ och gäller inte hushållet som helhet. Se även Socialstyrelsens handbok för E
 
 bistånd.
 
-7. Boende
+7\. Boende
 
 Kommunen som helhet är enbart skyldig att bereda boende för följande kategorier:
--  Personer med funktionshinder.
--  Äldre som inte klarar sitt boende.
--  Personer som beviljats uppehållstillstånd och blivit kommunplacerade.
+\-  Personer med funktionshinder.
+\-  Äldre som inte klarar sitt boende.
+\-  Personer som beviljats uppehållstillstånd och blivit kommunplacerade.
 
 Det finns dock tillfällen där invånare kan beviljas tillfälligt boende utan att tillhöra ovanstående
 
@@ -2947,14 +2947,14 @@ kategorier. Bedömning görs individuellt och i samråd med arbetsledare.
 
 Det är den enskildes ansvar att först försöka ordna inkvartering på egen hand, bland annat
 genom att:
--  söka i sitt nätverk efter inkvartering,
+\-  söka i sitt nätverk efter inkvartering,
 
--  anmäla sig som sökande hos kommunens bostadsförmedling och andra förmedlingar,
--  annonsera efter hyresrum eller lägenhet i andra hand,
--  söka via de privata bostadsförmedlingarna i kranskommunerna samt söka efter
+\-  anmäla sig som sökande hos kommunens bostadsförmedling och andra förmedlingar,
+\-  annonsera efter hyresrum eller lägenhet i andra hand,
+\-  söka via de privata bostadsförmedlingarna i kranskommunerna samt söka efter
 boende via annons,
 
--  söka plats på vandrarhem om ingen av ovanstående möjligheter visat sig vara
+\-  söka plats på vandrarhem om ingen av ovanstående möjligheter visat sig vara
 möjlig och situationen är akut.
 
 Hänsyn ska alltid tas om det finns hemmaboende omyndiga barn i hushållet.
@@ -2986,8 +2986,8 @@ ska inte godtas.
 7.2    Oskäligt hög boendekostnad
 
 Oskäligt hög boendekostnad kan godkännas i följande situationer:
--  kortvarigt biståndsbehov (max tre sammanhängande månader)
--  starka sociala och/eller medicinska skäl.
+\-  kortvarigt biståndsbehov (max tre sammanhängande månader)
+\-  starka sociala och/eller medicinska skäl.
 Det gäller både barnfamiljer och ensamstående vuxna.
 
 7.3 Skäligt rådrum
@@ -2997,8 +2997,8 @@ vara tillfälligt (mindre än tre månader) ska den sökande uppmanas att sänka
 bostadskostnaden.
 Innan ett hushåll ställs inför kravet att förändra sin boendesituation ska följande
 förhållanden beaktas:
--  bostadens storlek i förhållande till familjemedlemmarnas antal
--  starka sociala och/eller medicinska skäl
+\-  bostadens storlek i förhållande till familjemedlemmarnas antal
+\-  starka sociala och/eller medicinska skäl
 
 Skäligt rådrum ges vanligtvis med fyra månader från beslutsdatum samt att sökta bostäder ska
 redovisas kontinuerligt.
@@ -3043,16 +3043,16 @@ det enskilda fallet.
 Flyttningen bör vara en förutsättning för att den enskilde ska uppnå skälig levnadsnivå.
 Sådana omständigheter kan till exempel vara:
 
--  medicinska eller starka sociala skäl,
--  svåra personliga motsättningar mellan hushållsmedlemmar,
--  oskälig standard i bostaden avseende fysisk miljö och utrustning,
+\-  medicinska eller starka sociala skäl,
+\-  svåra personliga motsättningar mellan hushållsmedlemmar,
+\-  oskälig standard i bostaden avseende fysisk miljö och utrustning,
 
--  om ett vuxet barn genom att bo i föräldrahemmet förhindras att leva ett
+\-  om ett vuxet barn genom att bo i föräldrahemmet förhindras att leva ett
 normalt vuxenliv och bli självständig,
--  om den enskilde måste flytta till följd av att ha varit utsatt för våld eller andra
+\-  om den enskilde måste flytta till följd av att ha varit utsatt för våld eller andra
 övergrepp av närstående eller för något annat brott,
 
--  vid trångboddhet.
+\-  vid trångboddhet.
 
 Enheten för Myndighet ska i samråd med den enskilde medverka till bostadsbyte om den
 enskilde eller familjen har svårigheter att få en annan bostad.
@@ -3092,12 +3092,12 @@ försökt att lösa sin situation själv/försatt sig i situationen själv samt 
 har medel att bekosta tillfälligt boende för en period. Beviljas högst tillfälligt och endast
 för någon/några nätter.
 
--  Kostnad för vandrarhemsboende kan beviljas om den enskilde i annat fall är
+\-  Kostnad för vandrarhemsboende kan beviljas om den enskilde i annat fall är
 bostadslös och inte kan lösa sin situation på annat sätt.
--  Kostnad för hotellboende beviljas mycket restriktivt, endast i akuta nödfall och
+\-  Kostnad för hotellboende beviljas mycket restriktivt, endast i akuta nödfall och
 endast för något/några dygn.
 
--  Vid boende i husvagn kan kostnaden för tillgång till dusch och tvättmaskin beviljas som
+\-  Vid boende i husvagn kan kostnaden för tillgång till dusch och tvättmaskin beviljas som
 en boendekostnad.
 
 För att beviljas fortsatt akut boende ska den sökande redovisa sökta bostäder inom och
@@ -3110,11 +3110,11 @@ göras.
 
 Målgruppen som kan beviljas tillfälligt boende mer än högst tillfälligt är personer som har
 uppenbara svårigheter att själv ordna boende tillfälligt eller stadigvarande:
--  Äldre personer
+\-  Äldre personer
 
--  Personer med funktionsnedsättning
--  Barnfamiljer
--  Personer med missbruksproblematik som följer sin planering med Vuxenenheten.
+\-  Personer med funktionsnedsättning
+\-  Barnfamiljer
+\-  Personer med missbruksproblematik som följer sin planering med Vuxenenheten.
 
 7.12 Andrahandsboende
 
@@ -3259,8 +3259,8 @@ kranskommuner, är godtagbara kostnader liksom annonseringskostnader understigan
 Bistånd kan beviljas till sökande som har försörjningsstöd eller inkomster i nivå med
 riksnormen. Biståndsbehovet ska prövas utifrån följande orsaker;
 
--  Behov av och orsak till flyttningen (hälsa, sociala omständigheter).
--  Egen förmåga att ordna flytt med hjälp av vänner och anhöriga.
+\-  Behov av och orsak till flyttningen (hälsa, sociala omständigheter).
+\-  Egen förmåga att ordna flytt med hjälp av vänner och anhöriga.
 
 Det beviljade biståndet ska i första hand gälla hyra av flyttbil inklusive kostnader för bensin och
 försäkring. Endast om särskilda skäl finns, t.ex. sjukdom eller ålder, godtas anlitande av
@@ -3281,10 +3281,10 @@ avses med överskådlig tid måste bedömas individuellt, i huvudregel 3 månade
 Beslutet ska tidsbegränsas och omprövas vid behov. Det är den enskilde som ska stå för
 kontraktet gentemot magasineringsfirman. Vid bedömningen ska följande beaktas;
 
--  Bohagets innehåll och skick.
--  Kostnaderna för magasinering i förhållande till kostnad för nyanskaffning av
+\-  Bohagets innehåll och skick.
+\-  Kostnaderna för magasinering i förhållande till kostnad för nyanskaffning av
 hemutrustning.
--  Konsekvenser för den enskilde vid eventuell försäljning av bohaget.
+\-  Konsekvenser för den enskilde vid eventuell försäljning av bohaget.
 
 7.23 Bostadsrätt/Villaägare
 
@@ -3310,15 +3310,15 @@ och bostadskostnaden inte överstiger vad som är skäligt. Genomsnittskostnaden
 Göteborg ska tjäna som riktmärke vid bedömning av skälig boendekostnad.
 
 Bostadskostnaden utgörs av:
--  ränta
--  tomträttsavgäld, typarrende
--  uppvärmningskostnader såsom el/olja/pellets/ved
--  vatten och avlopp
--  vägunderhåll
+\-  ränta
+\-  tomträttsavgäld, typarrende
+\-  uppvärmningskostnader såsom el/olja/pellets/ved
+\-  vatten och avlopp
+\-  vägunderhåll
 
--  villaförsäkring
--  renhållning
--  sotning
+\-  villaförsäkring
+\-  renhållning
+\-  sotning
 
 Om man erhåller lön eller ersättning, ska jämkning hos Skatteverket av bolånen genomföras.
 
@@ -3330,13 +3330,13 @@ inköpspris, belåningsgrad och taxeringsvärde.
 7.25 Oskälig hög boendekostnad för egen fastighet
 
 Undantag kan efter individuell prövning tillämpas i följande situationer:
--  Kortvarigt biståndsbehov (max 10 månader)
--  Saknar möjlighet att få annan bostad
--  Barnfamiljer där det finns starka skäl att anta att barnen skulle få stora svårigheter
+\-  Kortvarigt biståndsbehov (max 10 månader)
+\-  Saknar möjlighet att få annan bostad
+\-  Barnfamiljer där det finns starka skäl att anta att barnen skulle få stora svårigheter
 att anpassa sig till ett nytt område eller ny skola
--  Andra sociala skäl
+\-  Andra sociala skäl
 
-8. Avgifter
+8\. Avgifter
 8.1 Avgift vid sjukhusvård
 
 Patientens egenavgift vid sjukhusvård utgör avgift för kost och logi. Vid vistelse på
@@ -3404,7 +3404,7 @@ månader.
 
 <!-- sida 80 -->
 
-9. Bilinnehav
+9\. Bilinnehav
 
 Grundprincipen är att en bil är en realiserbar tillgång och krav på att bilen avyttras inom en
 månad bör ställas. Vid nyansökan så ska krav ställas på försäljning innan bistånd beviljas om
@@ -3415,12 +3415,12 @@ bedömningen där ett värde över eller under 20 % av pbb är ett riktvärde.
 
 Särskilda behov av bilinnehav bedöms utifrån Socialstyrelsens riktlinjer. Innehav av bil ska inte
 vara ett hinder för ekonomiskt bistånd, om den enskilde måste ha bil:
--  i sitt arbete
--  för att kunna ta sig till och från sitt arbete pga. otillräckliga
+\-  i sitt arbete
+\-  för att kunna ta sig till och från sitt arbete pga. otillräckliga
 
 allmänna kommunikationer
--  för att skjutsa barn till förskoleverksamhet
--  av medicinska eller sociala skäl, till exempel för att en förälder ska kunna umgås
+\-  för att skjutsa barn till förskoleverksamhet
+\-  av medicinska eller sociala skäl, till exempel för att en förälder ska kunna umgås
 med sitt barn. Medicinska skäl ska styrkas med medicinskt underlag.
 
 Bil bedöms i normalfallet vara en realiserbar tillgång. Krav på försäljning ska ställas om bilens
@@ -3440,7 +3440,7 @@ funktionshinder har en specialanpassad bil, bör denna, oavsett värde, inte rä
 en tillgång. Om det inte föreligger särskilda behov av bilinnehav ska omkostnader inte
 godkännas.
 
-10. Barn
+10\. Barn
 10.1 Fritidspeng
 
 Kan beviljas till familjer som haft ett långvarigt biståndsbehov (10 månader eller längre)
@@ -3486,20 +3486,20 @@ samband med studenten. Hänsyn tas till om ungdomen har egna inkomster och extra
 
 CSN som räknas av från summan.
 
-11. Akut bistånd
+11\. Akut bistånd
 Vid ansökan om akut bistånd ska följande överväganden göras:
 
--  Är det en akut nödsituation?
--  Finns det egna ekonomiska tillgångar (kontrollera kontoutdrag)?
--  Finns barn i familjen?
+\-  Är det en akut nödsituation?
+\-  Finns det egna ekonomiska tillgångar (kontrollera kontoutdrag)?
+\-  Finns barn i familjen?
 
--  Finns sjukdom hos sökanden som skulle kunna förvärras om han eller hon inte
+\-  Finns sjukdom hos sökanden som skulle kunna förvärras om han eller hon inte
 får hjälp?
--  Har sökanden medicinska eller sociala problem som medför svårigheter att ta
+\-  Har sökanden medicinska eller sociala problem som medför svårigheter att ta
 eget ansvar för sin situation?
 
--  Kan sökanden få hjälp från familj eller vänner?
--  Är behovet av ekonomisk hjälp återkommande trots egen försörjning?
+\-  Kan sökanden få hjälp från familj eller vänner?
+\-  Är behovet av ekonomisk hjälp återkommande trots egen försörjning?
 
 Bistånd till personer som regelmässigt har egna inkomster som överstiger riksnormen ska
 
@@ -3524,7 +3524,7 @@ igen. Om någon trots denna information tappar eller blir bestulen på sina peng
 ansökan om bistånd avslås. Ansökan kan också avslås om det är uppenbart att fakta kring
 den beskrivna situationen inte är trovärdiga.
 
-12. Umgängeskostnader
+12\. Umgängeskostnader
 Full norm för umgängesdagar beviljas utifrån barnrättsperspektivet.
 
 Försörjningsstöd i form av umgängeskostnad beviljas normalt för 6 dagar per månad. På
@@ -3540,7 +3540,7 @@ och utgifter som rör barnet delas lika mellan föräldrarna och halv månadsnor
 
 räknas in i den biståndssökande förälderns försörjningsstöd.
 
-13. Beslut som löper över flera månader
+13\. Beslut som löper över flera månader
 Ibland är det nödvändigt att fatta beslut som sträcker sig över flera månader, exempelvis
 
 gällande en omfattande tandvårdsbehandling. Rätten till ekonomiskt bistånd prövas månad
@@ -3551,7 +3551,7 @@ Följande om-prövningsklausul ska läggas till alla beslut som sträcker sig ö
 månad: ”Vid väsentligt ändrade förhållanden av biståndsbehovet kan beslutet komma att
 omprövas”
 
-14. Hemutrustning
+14\. Hemutrustning
 14.1 Generellt
 
 Bistånd till löpande komplettering och reparation av befintlig hemutrustning beviljas vid behov
@@ -3568,17 +3568,17 @@ nödvändigt att göra hembesök. I bedömningen ska följande punkter överväg
 
 <!-- sida 83 -->
 
--  Är behovet akut och nödvändigt för att den sökande med kort varsel ska kunna
+\-  Är behovet akut och nödvändigt för att den sökande med kort varsel ska kunna
 flytta in i en anvisad bostad?
--  Har den sökande varit utsatt för våld eller andra övergrepp av närstående eller
+\-  Har den sökande varit utsatt för våld eller andra övergrepp av närstående eller
 något annat brott och måste därför flytta?
 
--  Kommer den sökande inom rimlig tid själv kunna skaffa sig eller komplettera
+\-  Kommer den sökande inom rimlig tid själv kunna skaffa sig eller komplettera
 sin hemutrustning?
--  Vilka möjligheter har den sökande haft att spara till eller planera för boende
+\-  Vilka möjligheter har den sökande haft att spara till eller planera för boende
 och hemutrustning?
 
--  Vilken hjälp kan den sökande få av sitt nätverk? Unga människor som flyttar
+\-  Vilken hjälp kan den sökande få av sitt nätverk? Unga människor som flyttar
 hemifrån ska normalt inte beviljas bistånd till full grundutrustning.
 
 Köp av secondhandutrustning kan rekommenderas som ett alternativ för den sökande
@@ -3633,7 +3633,7 @@ ABOs
 Beviljas full hemutrustning enligt riktlinjer. OBS bedömning behöver göras utifrån boendet och
 utifrån deras möjlighet att själva inom rimlig tid bli självförsörjande.
 
-15. Juridiska kostnader och stämpelavgifter
+15\. Juridiska kostnader och stämpelavgifter
 15.1 Advokatkostnader
 
 I första hand ska den sökande utnyttja det rättsskydd som ingår i hemförsäkringen. Detta
@@ -3653,7 +3653,7 @@ exempel att det av sociala skäl är mycket viktigt att en person får behålla 
 15.2 Stämpelavgifter
 Huvudregel är att bistånd till stämpelavgifter inte beviljas. Undantag kan göras för enskilda fall
 som exempelvis;
--  Om det är viktigt att en äktenskapsskillnad eller bodelning genomförs till exempel
+\-  Om det är viktigt att en äktenskapsskillnad eller bodelning genomförs till exempel
 
 för en kvinna som varit utsatt för misshandel, identitetshandling för dem som
 saknar sådan(beroende på biståndslängd).
@@ -3674,7 +3674,7 @@ säkert sätt. Förlustanmälan bör inkrävas. Kostnad för pass beviljas i reg
 beviljas istället för ett id-kort om kostnaden är lägre. Pass kan även beviljas om det finns
 starka skäl till en utlandsvistelse.
 
-16. Kläder och skor utöver vad som ingår i försörjningsstödet
+16\. Kläder och skor utöver vad som ingår i försörjningsstödet
 
 16.1 Behov av särskilda kläder eller skor
 Här avses engångskostnader för specialbeställda kläder eller skor som inte täcks av
@@ -3689,7 +3689,7 @@ Klädbidrag om 1500 kr per person kan beviljas kvotflyktingar i samband med för
 
 ansökan. För ABO (anvisade från Migrationsverket) görs individuell prövning.
 
-17. Diverse läkare- och optikerkostnader
+17\. Diverse läkare- och optikerkostnader
 17.1 Läkarvård och medicinkostnad
 
 Omfattar egenavgift vid läkarbesök och läkarföreskriven medicin och behandling som ingår
@@ -3733,7 +3733,7 @@ med läkarintyg.
 
 Kostnad för läsglasögon godkänns inte då det ingår i riksnormens post för hälsa och hygien.
 
-18. Resor/Rekreationsresor
+18\. Resor/Rekreationsresor
 18.1 Arbetsresor
 
 Bistånd till periodkort kan beviljas till vuxna som har behov av resor till arbete eller annan
@@ -3778,9 +3778,9 @@ skäl. Rimligheten i biståndsnivån ska prövas i varje enskilt fall.
 18.5 Resor i samband med umgänge med barn
 Behovsprövningen ska innefatta;
 
--  Barnets behov av umgänge.
--  Båda föräldrarnas ekonomiska förutsättningar.
--  Skäligheten av kostnaden för resan.
+\-  Barnets behov av umgänge.
+\-  Båda föräldrarnas ekonomiska förutsättningar.
+\-  Skäligheten av kostnaden för resan.
 Båda föräldrarna har gemensamt ansvar för att barns behov av umgänge tillgodoses.
 Den förälder som barnet bor hos ska vara med och bekosta umgänget utifrån ekonomisk
 förmåga och vad som är skäligt i förhållande till båda föräldrarnas ekonomi. Det primära
@@ -3835,7 +3835,7 @@ Utländska medborgare som kommit till Sverige som flyktingar kan söka återvand
 hos Migrationsverket. I de fall en person fått statligt återvandringsbidrag ska kommunen inte
 ge bistånd.
 
-19. Utlandsvistelse
+19\. Utlandsvistelse
 
 Huvudprincipen är att försörjningsstöd inte beviljas vid utlandsvistelse. Undantagsfall kan vara
 till exempel resor till hemlandet för att utforska eventuell återflyttning eller om den sökande
@@ -3848,7 +3848,7 @@ Sverige, dvs. om personen ej är arbetsför, finns inte grund för att säga att
 försörjningsstöd under en restid av maximalt en månad eller vid återkomsten upphört p.g.a.
 resan.
 
-20. Skulder
+20\. Skulder
 
 Bistånd till skulder som böter, avbetalning på studielån eller banklån, underhållstöd,
 kontokortskulder, privata skulder, etc. beviljas inte. Undantag kan endast göras om lån tagits för att
@@ -3857,14 +3857,14 @@ skulder har dålig kontroll över sin ekonomi ska han eller hon erbjudas hjälp 
 och skuldrådgivare.
 
 Undantag för att bevilja bistånd till skulder kan göras i följande situationer;
--  Hyresskuld som uppkommit under tid då den sökande ej haft egna inkomster som
+\-  Hyresskuld som uppkommit under tid då den sökande ej haft egna inkomster som
 räckt till hyra. Om ansökan gjorts hade hen haft rätt till bistånd.
--  Hyresskulder som uppkommit till följd av obetald hyra i familjer med barn och när
+\-  Hyresskulder som uppkommit till följd av obetald hyra i familjer med barn och när
 
 en eventuell avhysning medför sociala konsekvenser för barnen.
--  Hyresskulder för personer som är gamla och sjuka och där alternativt boende inte går
+\-  Hyresskulder för personer som är gamla och sjuka och där alternativt boende inte går
 att ordna.
--  Hyresskulder och eventuell avhysning som riskerar medföra social utslagning
+\-  Hyresskulder och eventuell avhysning som riskerar medföra social utslagning
 
 och/eller försämrad möjlighet till egen försörjning.
 
@@ -3886,7 +3886,7 @@ möjlighet att göra upp en avbetalningsplan med förvaltningen för förskola o
 ansvarig för förskoleverksamheten kontaktas. Om barnet på grund av sociala skäl har behov av att
 delta i förskoleverksamhet får barnet enligt skollagen inte sägas upp.
 
-21. Spädbarnsutrustning
+21\. Spädbarnsutrustning
 Den person som beviljas bistånd till spädbarnsutrustning ska ha haft behov av
 försörjningsstöd längre tid eller inkomster i nivå med normen. Bistånd till spädbarns-
 utrustning kan beviljas till del av eller full spädbarnsutrustning. Biståndet prövas utifrån det
@@ -3902,7 +3902,7 @@ som spädbarnsutrustning. Efter en tid kan man behöva ytterligare utrustning, t
 
 och säkerhetsutrustning till hemmet. Det kan beviljas som kompletterande hemutrustning.
 
-22. Tandvård
+22\. Tandvård
 22.1 Nödvändig tandvård
 
 Bistånd till nödvändig tandvård kan beviljas person som under lång tid haft försörjningsstöd
@@ -3912,10 +3912,10 @@ biståndet men inte kostnad för uteblivande från besök. Omfattningen av tandv
 kostnaden ska jämföras med vad människor med ordinära inkomster har råd att kosta på sig.
 
 Med nödvändig tandvård menas exempelvis följande;
--  Uppnå godtagbar tuggförmåga.
+\-  Uppnå godtagbar tuggförmåga.
 
--  Ge möjlighet att fungera socialt.
--  Förhindra väsentligt försämrad tandstatus.
+\-  Ge möjlighet att fungera socialt.
+\-  Förhindra väsentligt försämrad tandstatus.
 
 Med vård i syfte att förhindra väsentligt försämrad tandstatus kan avses t.ex. förebyggande
 behandling eller förhindra begynnande tandlossning. Med vård som ger möjlighet att
@@ -3930,12 +3930,12 @@ kostnaden för en grundundersökning vartannat år.
 <!-- sida 90 -->
 
 Förutom nämnda kriterier ska följande beaktas vid ansökan om bistånd till tandvård;
--  Kostnadsförslag ska ges och innefatta alla åtgärder, kostnader samt avdrag för
+\-  Kostnadsförslag ska ges och innefatta alla åtgärder, kostnader samt avdrag för
 tandvårdsstöd.
--  Vid tandvårdskostnad över 20% av prisbasbeloppet eller om det finns
+\-  Vid tandvårdskostnad över 20% av prisbasbeloppet eller om det finns
 
 olika behandlingsalternativ bör förtroendetandläkare anlitas.
--  En individuell bedömning ska göras av den enskildes förmåga att sköta sin
+\-  En individuell bedömning ska göras av den enskildes förmåga att sköta sin
 tandhygien. Det är däremot inte acceptabelt att enbart göra bedömningen utifrån
 ålder eller utifrån att den enskilde har ett missbruk i början av sin rehabilitering.
 
@@ -3960,7 +3960,7 @@ fall ett sådant inte kan inväntas.
 Det ska av tandvårdsräkning, kvitto eller genom kontakt med behandlande tandläkare
 framgå atttandvården var akut.
 
-23. Tekniska hjälpmedel
+23\. Tekniska hjälpmedel
 
 Bistånd beviljas efter sedvanlig ekonomisk prövning till egenavgiften för läkarföreskrivna
 hjälpmedel som till exempel hörapparat, kryckor, batterier, etc., om behovet inte kan
@@ -3969,7 +3969,7 @@ hjälpmedel som till exempel Tens-apparat ska utredas om andra behandlingsaltern
 prövats/är möjliga. Vid långvarig behandling, utred möjlighet till inköp av eget hjälpmedel
 ex Tensapparat och bevilja engångskostnad.
 
-24. Telefoni/dator/bredband/TV
+24\. Telefoni/dator/bredband/TV
 24.1 Telefoni
 Alla löpande kostnader för telefon ingår i riksnormen.
 
@@ -4004,12 +4004,12 @@ Elbolag kan kräva depositionsavgift av personer som har betalningsanmärkning f
 skuld och när personen själv inte kan ordna borgen. Depositionsavgift gällande el-abonnemang
 kan i särskilda fall beviljas och då mot återkrav.
 
-25. Tvättmaskin/torktumlare/diskmaskin
+25\. Tvättmaskin/torktumlare/diskmaskin
 
 Bistånd till inköp av tvättmaskin, torktumlare eller diskmaskin kan beviljas i följande
 situationer;
--  När det finns ett medicinskt behov som är styrkt med läkarintyg.
--  När den sökande har fysiskt eller psykiskt funktionshinder som gör det omöjligt
+\-  När det finns ett medicinskt behov som är styrkt med läkarintyg.
+\-  När den sökande har fysiskt eller psykiskt funktionshinder som gör det omöjligt
 
 att använda fastighetens tvättstuga, om behovet inte kan tillgodoses på annat
 sätt till exempel genom merkostnadsersättning eller genom hjälp i hemmet.
@@ -4018,7 +4018,7 @@ Om behov av tvättmaskin uppstått till följd av att fastigheten saknar tvätts
 i första hand hänvisas till hyresvärden, hyresgästföreningen eller hyresnämnden. Innan bistånd
 beviljas ska undersökas om hyresvärden kan installera apparaterna mot hyreshöjning.
 
-26. Person som uppnått pensionsålder
+26\. Person som uppnått pensionsålder
 
 Personer som uppnått pensionsålder som ansöker om försörjningsstöd ska hänvisas till
 Pensionsmyndigheten för att ansöka om äldreförsörjningsstöd. Äldreförsörjningsstödet riktas
@@ -4035,16 +4035,16 @@ mot återkrav.
 
 <!-- sida 92 -->
 
-27. Person som är arbetslös
+27\. Person som är arbetslös
 Då en person som söker ekonomiskt bistånd enligt 4 kap 1 § SoL är arbetslös men arbetsför,
 gäller att personen ska;
 
--  vara inskriven på arbetsförmedling,
--  aktivt söka arbete inom varierande yrkesområden inom pendlingsavstånd,
--  ta anvisat arbete,
+\-  vara inskriven på arbetsförmedling,
+\-  aktivt söka arbete inom varierande yrkesområden inom pendlingsavstånd,
+\-  ta anvisat arbete,
 
--  delta i arbetsmarknadspolitisk åtgärd anvisad av Arbetsförmedlingen.
--  delta i svenskundervisning om detta är aktuellt.
+\-  delta i arbetsmarknadspolitisk åtgärd anvisad av Arbetsförmedlingen.
+\-  delta i svenskundervisning om detta är aktuellt.
 
 Socialtjänsten kan även kräva att den sökande under begränsad tid deltar i kommunal
 verksamhet som är kompetenshöjande och syftar till att ge den arbetslöse större
@@ -4091,12 +4091,12 @@ utifrån den enskildes förmåga och situation. Beviljas mot återkrav. Beslut f
 4:2.
 Beviljas i samråd med enhetschef.
 
-28. Person som är sjukskriven
+28\. Person som är sjukskriven
 Person som är sjukskriven ska vara inskriven hos Enheten för Arbetsmarknad och kunna
 uppvisa aktuellt sjukintyg samt följa uppgjord planering, tex att komma på möten, för att
 kunna beviljas bistånd.
 
-29. Företagare eller person med s.k. fritt yrke
+29\. Företagare eller person med s.k. fritt yrke
 Ekonomiskt bistånd beviljas som regel inte till invånare som är egenföretagare. Ekonomiskt bistånd
 ska inte utgå för att finansiera affärsverksamhet eller till att reglera skulder som uppkommit i sådan
 
@@ -4131,7 +4131,7 @@ skattsedel eftersom detta är ett krav från deras uppdragsgivare.
 Om invånaren väljer att behålla sitt företag och synnerliga skäl föreligger kan endast ett högst
 tillfälligt bistånd beviljas om:
 
--  Behovet av bistånd är nödvändigt för att tillgodose behov av nöd. Särskilt ska beaktas om
+\-  Behovet av bistånd är nödvändigt för att tillgodose behov av nöd. Särskilt ska beaktas om
 det finns barn i familjen. Tillfälligt bistånd kan beviljas i längst tre månader, för att ge tid för
 
 38
@@ -4139,13 +4139,13 @@ det finns barn i familjen. Tillfälligt bistånd kan beviljas i längst tre mån
 <!-- sida 94 -->
 
 avveckling och kontakter med Arbetsförmedlingen.
--  Den egna företagaren har fått aktivitetsstöd från arbetsförmedlingen under sex månader
+\-  Den egna företagaren har fått aktivitetsstöd från arbetsförmedlingen under sex månader
 och det finns utsikter att företaget ger inkomster inom tre månader.
 
--  Sökande kan också i särskilda fall beviljas ekonomiskt bistånd en kortare period för att ”få
+\-  Sökande kan också i särskilda fall beviljas ekonomiskt bistånd en kortare period för att ”få
 fart på” ett inaktivt företag efter t.ex. sjukskrivning eller som komplement till starta-eget-
 bidrag som en väg ut till självförsörjning.
--
+\-
 Hjälprutin företagsutredning
 
 För att genomföra en företagsutredning inom försörjningsstöd behöver du vanligtvis ta in följande
@@ -4168,7 +4168,7 @@ dokument.
 -Övriga relevanta dokument: Detta kan inkludera hyresavtal, försäkringsdokument och andra
 papper som kan påverka företagets ekonomi.
 
-30. Person som är inskriven för kriminalvård, rättspsykiatrisk
+30\. Person som är inskriven för kriminalvård, rättspsykiatrisk
 vård etc.
 
 När en person är inskriven inom kriminalvården ska kriminalvårdsverket svara för alla
@@ -4248,7 +4248,7 @@ studier eller vara aktivt arbetssökande. Det faktum att en bidragssökande pers
 till samhällstjänst ska inte påverka socialtjänstens krav på den sökande att stå till
 arbetsmarknadens förfogande på heltid och till exempel delta i praktik.
 
-31. Person som studerar
+31\. Person som studerar
 
 31.1 Ungdomar 18–21 år som går i skolan
 Föräldrar har enligt föräldrabalken försörjningsskyldighet för barnet/den unge som går i
@@ -4282,9 +4282,9 @@ För vuxenstuderande på gymnasienivå gäller huvudregeln att de ska försörja
 statliga studiestödsformer som finns, se vidare rubriken ovan. En individuell behovsprövning
 kan dock ske och undantag kan till exempel göras i följande situationer:
 
--  I akuta nödsituationer,
--  Studierna ingår i en rehabilitering,
--  Enstaka kurser där studierna kombineras med studier på grundskolenivå.
+\-  I akuta nödsituationer,
+\-  Studierna ingår i en rehabilitering,
+\-  Enstaka kurser där studierna kombineras med studier på grundskolenivå.
 
 Bidragsdelen av studiemedel etc. ska alltid sökas.
 
@@ -4357,7 +4357,7 @@ bifogas ansökan. I första hand beviljas kostnaden för begagnade böcker.
 Övriga kostnader vid studier såsom utrustning mm kan också beviljas. Underlag från
 skolan ska bifogas ansökan och även här gäller i första hand begagnat.
 
-32. Personer som är utländska medborgare
+32\. Personer som är utländska medborgare
 
 En utländsk medborgare, med undantag från vissa EU-medborgare och deras anhöriga får inte
 uppehålla sig i Sverige mer än tre månader från inresan utan att ha uppehållstillstånd.
@@ -4454,9 +4454,9 @@ vårdnadshavare som har uppehållstillstånd. Dessa personer ska ges bistånd en
 Person som är utländsk medborgare med uppehålls- och arbetstillstånd i Sverige och som
 vistashär har samma rätt till bistånd som svenska medborgare. Utländsk medborgare som
 söker ekonomiskt bistånd ska kunna uppvisa följande:
--  Beslut om uppehålls- och arbetstillstånd.
+\-  Beslut om uppehålls- och arbetstillstånd.
 
--  Om tidigare tillstånd gått ut, bevis på inlämnad ansökan om förnyat uppehålls-
+\-  Om tidigare tillstånd gått ut, bevis på inlämnad ansökan om förnyat uppehålls-
 44
 
 <!-- sida 100 -->
@@ -4466,7 +4466,7 @@ ocharbetstillstånd.
 Person som är utländsk medborgare med uppehållstillstånd för besök ska bedömas på
 sammasätt som utländska medborgare som befinner sig tillfälligt i landet.
 
-33. Dödsfall
+33\. Dödsfall
 
 33.1 Begravningskostnader
 Begravningskostnader ska i första hand täckas av tillgångarna i dödsboet. Om dödsboet saknar
@@ -4486,10 +4486,10 @@ Som nära anhörig betraktas förälder, egna eller makes barn och syskon. Indiv
 får göras om vem som räknas som nära anhörig.
 För dessa kan biståndet utgå enligt följande efter individuell bedömning:
 
--  resa till begravning inom Sverige, billigaste färdsätt.
--  handblommor max 100 kr
--  krans max 2 % av basbeloppet, gäller endast den som är närmast anhörig
--  sorgkläder max 2 % av basbeloppet
+\-  resa till begravning inom Sverige, billigaste färdsätt.
+\-  handblommor max 100 kr
+\-  krans max 2 % av basbeloppet, gäller endast den som är närmast anhörig
+\-  sorgkläder max 2 % av basbeloppet
 
 33.3 Resa till begravning
 
@@ -4748,10 +4748,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad bidrar till uppfyllelsen av det kommunövergripande målet med
 tillhörande fokusområden genom att skapa trygga miljöer för elever, studerande, målgrupper och berörda
@@ -4785,7 +4785,7 @@ Brukarbedömning hemtjänst äldreomsorg, helhetssyn 90 % 91 % 88 % 88 %
 Brukarbedömning särskilt boende äldreomsorg, helhetssyn 74 % 76 % 76 % 78 %
 Brukarbedömning individ- och familjeomsorg totalt
 88 %           95 %
-- helhetssyn
+\- helhetssyn
 
 3.2 En hållbar utveckling och en hälsosam miljö
 
@@ -4801,11 +4801,11 @@ Nämndens årsredovisning 2025
 
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad bidrar till uppfyllelsen av det kommunövergripande målet med
 tillhörande fokusområden genom att arbeta för att främja ungas välmående, vilket konkretiserats i ett särskilt
@@ -4828,7 +4828,7 @@ Indikatorer                                Utfall Utfall Utfall Utfall
 Andelen elever som skattat sin egen livstillfredsställelse som god
 eller mycket god under elevhälsosamtalet, ÅK 4 i %
 88 %   85 %  85 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar metod utifrån
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar metod utifrån
 hälsosamtal med elever.)
 Andelen elever som skattat sin egen livstillfredsställelse som god
 eller mycket god under elevhälsosamtalet, ÅK 4 i % - Pojkar.
@@ -4838,22 +4838,22 @@ elever.)
 Andelen elever som skattat sin egen livstillfredsställelse som god
 eller mycket god under elevhälsosamtalet, ÅK 8 i %
 72 %   79 %  73 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar metod utifrån
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar metod utifrån
 hälsosamtal med elever.)
 Andelen elever som skattat sin egen livstillfredsställelse som god
 eller mycket god under elevhälsosamtalet, ÅK 8 i %
 93 %   92 %  89 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar metod utifrån
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar metod utifrån
 hälsosamtal med elever.)
 Andelen elever som har skattat sin egen livstillfredsställelse som
 god eller mycket god under elevhälsosamtalet, Gymnasiet ÅK 1 i% 65 % 73 % 75 %
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen livstillfredsställelse som
 god eller mycket god under elevhälsosamtalet, Gymnasiet ÅK 1 i% 85 % 86 % 88 %
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per invånare från 2020 till
 103   92
-2030. Startvärde 100, målvärde 2030 är 70.
+2030\. Startvärde 100, målvärde 2030 är 70.
 8
 
 <!-- sida 110 -->
@@ -4950,8 +4950,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Sammanfattning av nämndens arbete med målet
 Sommarlovsentreprenörer
@@ -5107,8 +5107,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Sammanfattning av nämndens arbete med målet
 
 För 2025 var andelen elever med gymnasieexamen 90,8 procent, en ökning från 89,4 procent år 2024. På de
@@ -5134,7 +5134,7 @@ trots fortsatt oro på arbetsmarknaden med högre andel arbetslösa. Trots detta
 personer i inskrivna i november månad vilket beror på ett fortsatt jämt flöde av avslut. Försörjningsstödet ligger
 också förhållandevis lågt även om vi ser en viss ökning.
 Personer kommer fortsatt ut i arbete men invånare erhåller också annan ersättning som tex sjukersättning likt
-2024. Det är fortsatt få personer inskrivna i arbetsmarknadsprocessen, men en ökning av antalet sjukskrivna
+2024\. Det är fortsatt få personer inskrivna i arbetsmarknadsprocessen, men en ökning av antalet sjukskrivna
 eller har någon form av vårdkontakter. Flertalet av antalet äldre ärenden har längre resa mot självförsörjning. De
 behöver flera insatser och mer stöd för att nå självförsörjning. Antalet ungdomar har inte ökat under 2025, vilket
 är positivt. Runt flertalet av de unga som är inskrivna finns dock ofta en komplexitet.
@@ -5365,11 +5365,11 @@ antal elevtimmar
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Sammanfattning av nämndens arbete med målet
 Nämnden för Gymnasium & Arbetsmarknad har inte brutit ned detta kommunövergripande mål med tillhörande
 
@@ -5937,17 +5937,17 @@ Inom förvaltningen omhändertas arbetet med kommunens övergripande arbetsmilj�
 ordinarie arbetsmiljöarbete och samverkanssystem, vilket inkluderar APT, samverkansgrupper och framför allt
 via den årliga uppföljningen av SAM. De områden som under året har identifierats att särskilt fokuseras på är:
 
-1. Fortsätta arbetet med friskfaktorerna.
-2. Utveckla förvaltningens stödmaterial kopplat till risker för otillåten påverkan
+1\. Fortsätta arbetet med friskfaktorerna.
+2\. Utveckla förvaltningens stödmaterial kopplat till risker för otillåten påverkan
 
-3. Säkerställa att varje chef och rektor kontinuerligt undersöker och riskbedömer arbetsmiljön med fokus på
+3\. Säkerställa att varje chef och rektor kontinuerligt undersöker och riskbedömer arbetsmiljön med fokus på
 risker för våld eller hot
-4. Fortsatt utveckling av facklig samverkan
+4\. Fortsatt utveckling av facklig samverkan
 
-5. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin, samt förtydliga
+5\. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin, samt förtydliga
 arbetsmiljöorganisationen avseende lokaler på gymnasiet
-6. Säkerställa att riskbedömningar också följs upp.
-7. Säkerställa att händelser i KIA hanteras inom en rimlig tid.
+6\. Säkerställa att riskbedömningar också följs upp.
+7\. Säkerställa att händelser i KIA hanteras inom en rimlig tid.
 
 6.1.4 Sammanfattande bedömning
 
@@ -6221,7 +6221,7 @@ Ekonomiskt bistånd
 Ekonomiskt bistånd redovisar ett överskott på 4,6 mkr.
 
 Utbetalningsnivåerna är fortsatt lägre än tidigare år, även om en viss ökning kan noteras jämfört med 2023 och
-2024.
+2024\.
 
 34
 
@@ -6553,7 +6553,7 @@ Ombudgetering och resultatfond 2025
 Förslag till beslut
 Nämnden för Gymnasium & Arbetsmarknad godkänner förslag till ombudgetering och resultatfond
 
-2025. Paragrafen justeras direkt.
+2025\. Paragrafen justeras direkt.
 
 Sammanfattning av ärendet
 Nämnden för Gymnasium & Arbetsmarknad har upprättat ett förslag till ombudget och resultatfond för
@@ -7014,7 +7014,7 @@ föreläggande avseende brister rörande utredning av särskilt stöd, anmälan 
 för användande av mobiltelefoner. Kungsbacka kommuns vidtagna åtgärder skall redovisas senast den 20
 januari 2026.
 Skolinspektionen genomförde tematisk kvalitetsgranskning av studie och yrkesvägledningen i komvux under
-2024. I uppföljningsbeslutet anges att huvudmannen och rektorn behöver utveckla uppföljningen av kvaliteten i
+2024\. I uppföljningsbeslutet anges att huvudmannen och rektorn behöver utveckla uppföljningen av kvaliteten i
 den individuella studie- och yrkesvägledningen och vidta eventuella insatser utifrån resultaten. Nämnden
 redovisade sitt svar till Skolinspektionen under våren 2025. I sitt uppföljningsbeslut konstaterade
 Skolinspektionen att Kungsbackas påbörjade arbete som ligger i linje med vad som behövs för att höja
@@ -7080,7 +7080,7 @@ främst av Fordons-och transportprogrammet på Elof Lindälvs gymnasium. Andelen
 utförare har minskar från 96% till 95% Kostnaderna har ökat från 18,3 mkr till 21,3 mkr.
 
 När det gäller gymnasieverksamheten har andel elever hos externa utförare ökat från 23,7% till 24,2 år 2024 till
-2025. Kostnaderna har ökat från 108,5 mkr till 117 mkr.
+2025\. Kostnaderna har ökat från 108,5 mkr till 117 mkr.
 
 11
 
@@ -7314,7 +7314,7 @@ Den 1 juli 2025 trädde den nya socialtjänstlagen i kraft. Förvaltningen har v
 men fortsatte utvecklingsarbetet under året. Ytterligare utvecklingsarbete kommer att ske under 2026.
 I februari 2022 inleddes Rysslands invasion av Ukraina. Under juni 2022 kom de första anvisningarna från
 Migrationsverket avseende kommunens mottagande utifrån massflyktsdirektivet, som började gälla den 1 juli
-2022.
+2022\.
 
 Europeiska unionens råd har under perioden enats om att förlänga massflyktsdirektivet till den 4 mars 2026.
 Beskedet innebär kortfattat att Skatteverket kan börja folkbokföra de ukrainare som varit här med tillfälligt
@@ -7984,7 +7984,7 @@ Box 161 19
 Forum:        10 kap. 1 § rättegångsbalken
 
 Saken:        Fordran
-_________________________
+\_________________________
 
 Advokatfirman Lindahl KB Box 11911, 404 39 Göteborg. Södra Hamngatan 37-41, tel 031 799 10 00, fax 031 799 10 99, www.lindahl.se
 
@@ -8083,32 +8083,32 @@ I     INLEDNING, YRKANDEN OCH GRUNDER
 A.    INLEDNING
 
 A.1   Målet i ett nötskal
-1.    Detta mål handlar i huvudsak om att Göteborgs IT konsult Gotit AB (”Gotit”) för sent och i
+1\.    Detta mål handlar i huvudsak om att Göteborgs IT konsult Gotit AB (”Gotit”) för sent och i
 
 felaktigt skick levererat ett skoladministrativt IT-system för förskola och grundskola till
 Kungsbacka kommun.
-2.    Gotit levererade därtill även ett system för gymnasiet, efter omfattande dröjsmål, vilket
+2\.    Gotit levererade därtill även ett system för gymnasiet, efter omfattande dröjsmål, vilket
 kommunen nyttjat. Det systemet var också behäftat med omfattande fel.
 
-3.    De tjänster som Gotit utförde för kommunen under förvaltningen av systemet för gymnasiet
+3\.    De tjänster som Gotit utförde för kommunen under förvaltningen av systemet för gymnasiet
 var också felaktiga.
-4.    När kommunen begärde att Gotit skulle åtgärda bristerna förklarade Gotit att bolaget inte
+4\.    När kommunen begärde att Gotit skulle åtgärda bristerna förklarade Gotit att bolaget inte
 hade för avsikt att förändra leveransen på något sätt.
-5.    Som en följd av dessa brister och dröjsmål har kommunen hävt avtalet med Gotit och vill nu
+5\.    Som en följd av dessa brister och dröjsmål har kommunen hävt avtalet med Gotit och vill nu
 
 ha åter erlagda ersättningar samt få skadestånd för de tillkommande kostnader som Gotits
 avtalsbrott orsakat kommunen.
 A.2   Sammanfattning av tvisten
 
-6.    Kungsbacka kommun och Gotit träffade efter en offentlig upphandling den 12 februari 2021
+6\.    Kungsbacka kommun och Gotit träffade efter en offentlig upphandling den 12 februari 2021
 avtal (”Avtalet”) om leverans av ett skoladministrativt IT-system för förskola och grundskola
 samt gymnasiet (”Systemet”).
-7.    Systemet ska hantera och automatisera administration för förskolor och skolor, allt från
+7\.    Systemet ska hantera och automatisera administration för förskolor och skolor, allt från
 elevregistrering till ekonomiska beräkningar. Systemet fungerar som kommunens digitala
 
 nav där alla elevuppgifter, betyg, studieplaner, personal, ekonomi och fakturering samlas på
 ett ställe.
-8.    För att fungera måste Systemet vara kopplat till ca 20 andra system genom så kallade
+8\.    För att fungera måste Systemet vara kopplat till ca 20 andra system genom så kallade
 integrationer, dvs. automatiska dataöverföringar som säkerställer att samma information
 finns överallt i samtliga kringliggande system och databaser. Om systemet inte fungerar
 korrekt påverkas tusentals elever, barn och vårdshavare, hundratals lärare och hela
@@ -8116,20 +8116,20 @@ kommunens skol- och förskoleverksamhet eftersom ingen administration kan sköta
 manuellt i denna omfattning. Systemet är därför kritiskt för att kommunen ska kunna fullgöra
 sina lagstadgade skyldigheter inom utbildningsområdet.
 
-9.    Avtalet innebar att Gotit skulle leverera vad som bäst kan jämföras med en nyckelfärdig
+9\.    Avtalet innebar att Gotit skulle leverera vad som bäst kan jämföras med en nyckelfärdig
 småhusentreprenad som innebar ett uttömmande resultat- och projektledningsansvar för
 Gotit. I upphandlingen och avtalet var Gotits helhetsansvar för leveransen och förvaltningen
 av Systemet centralt och i princip innebar Avtalet att kommunen efter projektinitieringen
 skulle kunna koncentrera sig på ordinarie verksamhet och invänta leverans.
-10.   Avtalad leveransdag var ursprungligen den 1 augusti 2022 och på Systemet ställdes
+10\.   Avtalad leveransdag var ursprungligen den 1 augusti 2022 och på Systemet ställdes
 (inklusive optioner) 367 unika krav i upphandlingen, vilka Gotit accepterade.
 
-11.   Gotit levererade emellertid inte Systemet på avtalad leveransdag och de etappleveranser
+11\.   Gotit levererade emellertid inte Systemet på avtalad leveransdag och de etappleveranser
 som skedde uppfyllde inte kraven: i många fall hade Gotit inte ens försökt utveckla
 funktionalitet som motsvarade kraven och Systemet hade inte heller anpassats till de regler
 som gäller för vare sig förskola och grundskola eller gymnasiet i kommunen vad gäller
 exempelvis debitering för förskoleplats, terminsplanering eller sommarskola.
-12.   Gotit implementerade i mitten på mars 2022 systemet avseende gymnasiet, men det fick
+12\.   Gotit implementerade i mitten på mars 2022 systemet avseende gymnasiet, men det fick
 rullas tillbaka då Gotit underlåtit att överhuvudtaget utveckla omfattande delar av kravställd
 
 4
@@ -8141,13 +8141,13 @@ framåt omfattande korrespondens där kommunen om och om igen påtalade Gotits a
 projektet, vad det innebär m.m. och att Gotit kontinuerligt avvek från Avtalet. Kommunen
 underkände även Gotits leveranser den 17 januari 2023.
 
-13.   Slutligen levererades gymnasietappen i augusti 2023. Parterna träffade i november 2023 en
+13\.   Slutligen levererades gymnasietappen i augusti 2023. Parterna träffade i november 2023 en
 förlikning som innebar att införandet av gymnasiet ansågs avslutat per augusti 2023 och att
 av kommunen innehållna medel betalades ut. Funktioner som inte uppfyllde avtalade krav –
 och alltså egentligen var grund för underkännande av leveransen – fördes förlikningsvis upp
 på en restlista och att Gotit åtog sig att utföra åtgärderna på denna restlista på vissa
 bestämda tidpunkter. Förlikningen villkorades av Gotits rätta fullgörande av åtagandena däri.
-14.   Felen som därefter inträffade i gymnasieetappen var likartade och återkommande. De rörde
+14\.   Felen som därefter inträffade i gymnasieetappen var likartade och återkommande. De rörde
 främst röjande av sekretessbelagda uppgifter samt brister i betygssättningen, bland annat att
 elever inte fick något betyg, fick fel betyg eller att sparade betyg inte syntes i systemet.
 Vidare förekom brister i studieplanerna, som inte överensstämde med läroplanen eller
@@ -8157,22 +8157,22 @@ plötsligt slutade fungera, att kravställda egenskaper endast kunde hanteras ge
 telefonkontakter med Gotit samt att systemets integrationer inte fungerade. Slutligen skedde
 felaktig registrering av elevers kurser och slutdatum kontinuerligt.
 
-15.   Ett centralt och återkommande fel var också att de debiteringar av andra kommuner och
+15\.   Ett centralt och återkommande fel var också att de debiteringar av andra kommuner och
 bidragsutbetalningar till friskolor som sköttes genom systemet, i regel utvisade felaktiga
 belopp. Mest allvarligt har säkerhetsbristerna varit där elever med skyddade personuppgifter
 felaktigt har exponerats i Systemet och elever skickats till andra IT-system utan att
 sekretesskyddet följt med. Gotit lyckades inte presentera några lösningar på de problem som
 gav upphov till dessa incidenter.
-16.   Gotit hanterade inte heller de incidenter som felen gav upphov till enligt avtalade processer.
+16\.   Gotit hanterade inte heller de incidenter som felen gav upphov till enligt avtalade processer.
 Bland annat ändrade Gotit regelbundet status på av kommunen inrapporterade fel,
 varigenom inrapporterade fel etiketterades om till ”önskemål”. Gotit har också hänvisat till en
 egen – avtalsstridig – process för hantering av incidenter och ignorerat kommunens krav på
 rättelse och att incidenthanteringen ska utföras i enlighet med de avtalade processerna.
 
-17.   Problemen med Systemet avseende gymnasiet hade därtill så allvarliga konsekvenser för
+17\.   Problemen med Systemet avseende gymnasiet hade därtill så allvarliga konsekvenser för
 verksamheten att Sveriges Lärare genom huvudskyddsombud inför sommaren 2024
 uttryckte stark stress och oro för arbetsmiljön om problemen fortsatte.
-18.   Gotits uppsåtliga avtalsbrott har varit flagranta; exempelvis har Gotit i sin återkoppling till
+18\.   Gotits uppsåtliga avtalsbrott har varit flagranta; exempelvis har Gotit i sin återkoppling till
 kommunen beskrivit de i Avtalet intagna kraven som ”rymdraketer”, som Gotit tydligen aldrig
 
 haft för avsikt eller förmåga att uppfylla. Genom att ignorera Avtalet om Systemets
@@ -8182,7 +8182,7 @@ att lyckas med vad Gotit lovat ursäktar inte en försenad eller felaktig levera
 avtalsbrott har varit medvetna och avsiktliga och avsett centrala delar av avtalet. Kommunen
 har kontinuerligt och upprepade gånger ombett Gotit att rätta sina processer utan att någon
 förändring skett.
-19.   Slutligen levererade Gotit under hösten 2024 egenkontrollen (som ska omfatta testprotokoll
+19\.   Slutligen levererade Gotit under hösten 2024 egenkontrollen (som ska omfatta testprotokoll
 som utvisar att alla krav är testade och uppfyllda) samt systemet såvitt avsåg etappen för
 förskola och grundskola för test till kommunen. Innan kommunen ens hann påbörja testerna i
 testmiljön för att verifiera kravuppfyllnad försökte Gotit samtidigt olovligen och i strid med
@@ -8199,52 +8199,52 @@ lyckosamt, för i den leverans som Gotit försökte påtvinga kommunen var 162 a
 inte uppfyllda, eller var överhuvudtaget inte implementerade, och 44 ytterligare krav var helt
 omöjliga att testa eller verifiera på grund av bristande dokumentation.
 
-20.   Som en följd av bristerna i leveransen, pågående försening samt anteciperad ytterligare
+20\.   Som en följd av bristerna i leveransen, pågående försening samt anteciperad ytterligare
 försening hävde kommunen Avtalet samt förlikningsavtalet i november 2024. Kommunen har
 i stället direktupphandlat ett nytt system för gymnasiet och förlängt ett tidigare avtal för
 förskolan och grundskolan.
-21.   I samband med hävningen begärde kommunen att Gotit skulle fullgöra det
+21\.   I samband med hävningen begärde kommunen att Gotit skulle fullgöra det
 avvecklingsåtagande som avtalet ålade Gotit, vilket skulle utföras kostnadsfritt vid en
 hävning. Avvecklingsåtagandet syftade till att möjliggöra fortsatt drift för att undvika att
 kommunen skulle stå helt utan ett fungerande system i glappet mellan två leverantörer. Gotit
 krävde dock ersättning för arbetet och när kommunen hänvisade till avtalets innehåll stängde
 Gotit, trots kommunens upprepade protester, slutligt av Systemet den 6 december 2024.
 
-22.   Kommunen vill nu ha åter till Gotit erlagda ersättningar om ca 3,2 miljoner kr samt få
+22\.   Kommunen vill nu ha åter till Gotit erlagda ersättningar om ca 3,2 miljoner kr samt få
 skadestånd om ca 7,9 miljoner kr för de tillkommande kostnader som Gotits avtalsbrott
 orsakat kommunen. Kommunen vill också ha fastställt att Gotit ska svara för kommande
 merkostnader när Gotits system ersatts efter ny upphandling.
 
 A.3   Disposition
-23.   Denna stämningsansökan är disponerad i tre huvudkapitel: först följer i kapitel I denna
+23\.   Denna stämningsansökan är disponerad i tre huvudkapitel: först följer i kapitel I denna
 inledning samt yrkanden och rättsliga grunder, i kapitel II följer utveckling av talan och i
 kapitel III redogörs för bevisning, bilagor m.m.
 
-24.   I kapitel I, avsnitt B presenterar kommunen sina yrkanden i målet. Därefter, i avsnitt C,
+24\.   I kapitel I, avsnitt B presenterar kommunen sina yrkanden i målet. Därefter, i avsnitt C,
 sammanfattas de rättsliga grunderna för talan.
-25.   Kommunen utvecklar därefter talan i kapitel II och ger en fylligare bakgrundsbeskrivning av
+25\.   Kommunen utvecklar därefter talan i kapitel II och ger en fylligare bakgrundsbeskrivning av
 systemets funktion och syfte i avsnitt D. Kommunen går därefter igenom avtalsbrotten var för
 sig i avsnitt F.1–F.4. I samma avsnitt knyter kommunen varje avtalsbrott till specifika
 regleringar i avtalet.
 
-26.   Väsentlighetsbedömningen följer därefter i avsnitt G och inkluderar redogörelser för Gotits
+26\.   Väsentlighetsbedömningen följer därefter i avsnitt G och inkluderar redogörelser för Gotits
 uppsåt, att avtalsbrotten avser centrala delar av avtalet, att avtalsbrotten och Gotits
 agerande i övrigt gett kommunen anledning att utgå från att avtalsbrotten kommer fortsätta,
 att kommunens förtroende därmed har raserats och att Gotit insett allt det nu listade.
-27.   Som avslut på kapitel II redogör kommunen för vilka belopp som ska återgå till kommunen,
+27\.   Som avslut på kapitel II redogör kommunen för vilka belopp som ska återgå till kommunen,
 vad som ska utgå i skadestånd samt grunden för räntan och hur denna beräknats.
 
-28.   I kapitel III följer kommunens bevisuppgift samt bilageförteckning.
+28\.   I kapitel III följer kommunens bevisuppgift samt bilageförteckning.
 
 B.    YRKANDEN
 
 B.1   Fullgöra betalning
-29.   Kungsbacka kommun yrkar att Göteborgs IT konsult Gotit AB till Kungsbacka kommun ska
+29\.   Kungsbacka kommun yrkar att Göteborgs IT konsult Gotit AB till Kungsbacka kommun ska
 betala 10 435 520 kr.
 
 B.2   Fastställa betalningsskyldighet
 
-30.   Kungsbacka kommun yrkar att domstolen ska fastställa att
+30\.   Kungsbacka kommun yrkar att domstolen ska fastställa att
 (a) Kommunen har rätt till ersättning från Gotit för den merkostnad som det medför att, från
 tidpunkten för hävningen vidmakthålla två interimssystem som ersätter Systemet i
 
@@ -8256,14 +8256,14 @@ avtalat skick, dock längst 16 år från ursprungligen avtalad leveransdag för 
 system, dvs. till den 1 augusti 2038; 1
 
 (b) Kommunen har rätt till ersättning från Gotit för
-1. den kostnad en ny upphandling av ett skoladministrativt system som ersätter de
+1\. den kostnad en ny upphandling av ett skoladministrativt system som ersätter de
 system som Gotit enligt Avtalet skulle leverera, medför; och
 
-2. den merkostnad som det medför att införa och vidmakthålla ett system som
+2\. den merkostnad som det medför att införa och vidmakthålla ett system som
 ersätter Systemet i avtalat skick till den 1 augusti 2038.
 
 B.3   Ränta
-31.   Kungsbacka kommun yrkar att Göteborgs IT konsult Gotit AB till Kungsbacka kommun ska
+31\.   Kungsbacka kommun yrkar att Göteborgs IT konsult Gotit AB till Kungsbacka kommun ska
 betala avkastningsränta om totalt 246 787 kr på belopp som ska gå åter enligt 2 och 5 §§
 räntelagen, enligt följande:
 
@@ -8277,22 +8277,22 @@ räntelagen, enligt följande:
 (f) på 1 000 000 kr från den 4 januari 2024 till och med den 1 mars 2025; samt
 (g) på 57 333 kr från den 16 januari 2024 till och med den 1 mars 2025;
 
-32.   På till betalning förfallen avkastningsränta om 246 787 kr begär Kungsbacka kommun
+32\.   På till betalning förfallen avkastningsränta om 246 787 kr begär Kungsbacka kommun
 dröjsmålsränta enligt 4 och 6 §§ räntelagen från den 1 mars 2025 till dess betalning sker.
-33.   På beloppet 3 171 607 kr (återgångsersättningen) begär Kungsbacka kommun
+33\.   På beloppet 3 171 607 kr (återgångsersättningen) begär Kungsbacka kommun
 dröjsmålsränta enligt 4 och 6 §§ räntelagen från den 1 mars 2025 till dess betalning sker.
 
-34.   På beloppet 5 034 106 kr (skadestånd begärt 31 januari 2025) begär Kungsbacka kommun
+34\.   På beloppet 5 034 106 kr (skadestånd begärt 31 januari 2025) begär Kungsbacka kommun
 dröjsmålsränta enligt 4 och 6 §§ räntelagen från den 1 mars 2025 till dess betalning sker.
-35.   På beloppet 781 998 kr (skadestånd begärt 11 juli 2025) begär Kungsbacka kommun
+35\.   På beloppet 781 998 kr (skadestånd begärt 11 juli 2025) begär Kungsbacka kommun
 dröjsmålsränta enligt 4 och 6 §§ räntelagen från den 11 augusti 2025 till dess betalning sker.
 
-36.   På beloppet 3 011 805 kr (skadestånd begärt i stämningsansökan) begär Kungsbacka
+36\.   På beloppet 3 011 805 kr (skadestånd begärt i stämningsansökan) begär Kungsbacka
 kommun dröjsmålsränta enligt 4 och 6 §§ räntelagen från dagen för delgivning av
 stämningsansökan till dess betalning sker.
 
 B.4   Rättegångskostnad
-37.   Kungsbacka kommun yrkar ersättning för sin rättegångskostnad.
+37\.   Kungsbacka kommun yrkar ersättning för sin rättegångskostnad.
 
 1 Kommunen har rätt till ersättning för den merkostnad (prisskillnad) det medför för kommunen att från tidpunkten för hävningen
 vidmakthålla två ersättningssystem. Kommunen har rätt till ersättning av Gotit för sådan merkostnad under hela den tid som
@@ -8311,11 +8311,11 @@ C.    SAMMANFATTNING AV KOMMUNENS RÄTTSLIGA GRUNDER
 
 C.1   Avtal
 
-38.   Kungsbacka kommun och Gotit ingick den 12 februari 2021 avtal om leverans av ett
+38\.   Kungsbacka kommun och Gotit ingick den 12 februari 2021 avtal om leverans av ett
 skoladministrativt IT-system. Leveransen skulle ske enligt vissa avtalade krav, på viss tid,
 med ett strikt resultat- och projektledningsansvar och i enlighet med vissa avtalade
 processer. Dessa återkommer vi till nedan.
-39.   För leveransen gällde sammanfattningsvis, i prioritetsordning, följande avtalshandlingar:
+39\.   För leveransen gällde sammanfattningsvis, i prioritetsordning, följande avtalshandlingar:
 
 Avtalsdokument
 
@@ -8341,9 +8341,9 @@ anbudsansökan
 C.2   Avtalsbrott
 
 C.2.1 Förseningar och fel i leverans
-40.   Leveransen var uppdelad i två etapper: gymnasiet respektive grundskola, förskola och fritids.
+40\.   Leveransen var uppdelad i två etapper: gymnasiet respektive grundskola, förskola och fritids.
 Dessa etapper skulle införas enligt en av Gotit offererad införandeplan.
-41.   Avtalad Leveransdag för Systemet i dess helhet var den 15 april 2022 och för gymnasiet
+41\.   Avtalad Leveransdag för Systemet i dess helhet var den 15 april 2022 och för gymnasiet
 
 under vecka 47 år 2021.3 Leverans skedde inte på dessa datum. Efter en lång rad
 omleveranser godkände kommunen förlikningsvis gymnasieetappen per den 29 augusti
@@ -8351,12 +8351,12 @@ omleveranser godkände kommunen förlikningsvis gymnasieetappen per den 29 augus
 februari, vilken vi återkommer till nedan. Gymnasietappen var då nästan två år försenad.
 Etappen för förskola och grundskola har dock aldrig levererats, i vart fall inte i komplett eller
 avtalat skick.
-42.   Parterna träffade som en följd av bland annat förseningen från Gotit, den 7 november 2023
+42\.   Parterna träffade som en följd av bland annat förseningen från Gotit, den 7 november 2023
 nyss nämnda förlikning. Förlikningen villkorades bland annat av parternas rätta fullgörande
 av sina åtaganden enligt förlikningen.4
 
-43.   Förlikningen innebar i huvudsak:
-1) Att kommunen gav Gotit förnyat förtroende att fullfölja Avtalet.
+43\.   Förlikningen innebar i huvudsak:
+1\) Att kommunen gav Gotit förnyat förtroende att fullfölja Avtalet.
 
 2 Bilaga 2, Förlikningsavtal 2023-11-17
 3 Bilaga C3 Införandeplan version 1.5 reviderad 2021-04-14.
@@ -8366,30 +8366,30 @@ av sina åtaganden enligt förlikningen.4
 
 <!-- sida 197 -->
 
-2) Att införandeprojektet för gymnasieetappen skulle anses avslutat och att kommunen
+2\) Att införandeprojektet för gymnasieetappen skulle anses avslutat och att kommunen
 skulle erlägga betalning till Gotit för införandet i de delarna.
 
-3) Att Gotit åtog sig att utföra ett antal leveranser avseende icke-levererad funktionalitet,
+3\) Att Gotit åtog sig att utföra ett antal leveranser avseende icke-levererad funktionalitet,
 vilka rätteligen hade utgjort en förutsättning för acceptans av leveransen av
 gymnasieetappen, i tiden efter förlikningen. En förteckning över dessa leveranser fördes
 upp på en restlista, som behandlas nedan i avsnitt C.2.1.1.
-4) Att Avtalad Leveransdag för etappen avseende förskola och grundskola flyttades fram till
+4\) Att Avtalad Leveransdag för etappen avseende förskola och grundskola flyttades fram till
 den 11 november 2024.
 
-5) Att en detaljerad planering av införandeplan för förskola/grundskola skulle
+5\) Att en detaljerad planering av införandeplan för förskola/grundskola skulle
 överenskommas mellan parterna efter förslag från Gotit. Särskilt viktigt för kommunen
 var att leverans av de s.k. ekonomikörningarna skedde på våren 2024 för att dessa
 skulle kunna testas mycket noggrant.
 C.2.1.1 Avtalsbrott genom väsentligen försenad leverans av funktionerna på Restlistan
 
-44.   Genom den förlikning som parterna träffade den 7 november 2023 åtog sig Gotit att fullgöra
+44\.   Genom den förlikning som parterna träffade den 7 november 2023 åtog sig Gotit att fullgöra
 de specifika åtgärder som framgår av den lista som utgör bilaga 1 till Förlikningsavtalet
 (”Restlistan”) inom de däri stipulerade tidsfristerna.
-45.   De icke-levererade funktioner som fördes upp på Restlistan hade rätteligen utgjort hinder för
+45\.   De icke-levererade funktioner som fördes upp på Restlistan hade rätteligen utgjort hinder för
 acceptans av leveransen. Att de hanterades genom att föras upp på Restlistan utgjorde
 således en förlikningsvis eftergift från kommunens sida.
 
-46.   Vid tidpunkten för kommunens hävning av Avtalet den 11 november 2024 hade tidpunkten
+46\.   Vid tidpunkten för kommunens hävning av Avtalet den 11 november 2024 hade tidpunkten
 för leverans inträffat avseende 39 av åtgärderna enligt Restlistan. Gotit har underlåtit att
 vidta avtalsenlig leverans avseende 25 av åtgärderna. De funktioner som enligt Restlistan
 skulle ha levererats vid tidpunkten för Kommunens hävning av Avtalet den 11 november
@@ -8402,21 +8402,21 @@ skulle ha levererats vid tidpunkten för Kommunens hävning av Avtalet den 11 no
 
 (iv) Krav 2.5.01, 2.5.07, 4.1.10, 2.5.10 och 4.1.42 med leveransdag 18 juni 2024, samt
 (v) Krav 2.5.18, 2.5.19, 2.5.04, 2.5.15, 3.3.05 och 5.3.08 med leveransdag 10 september
-2024.
+2024\.
 
-47.   Gotits underlåtenhet att i tid företa avtalsenlig leverans av funktionerna enligt Restlistan
+47\.   Gotits underlåtenhet att i tid företa avtalsenlig leverans av funktionerna enligt Restlistan
 utgör väsentligt dröjsmål och väsentligt avtalsbrott. Kommunens mer detaljerade skäl till
 underkännande av dessa åtgärder i Restlistan anges i avsnitt F.1.1.
 C.2.1.2 Avtalsbrott: Brister i leveransen den 18 september 2024 och dröjsmål
 
-48.   Den 18 september 2024 levererade Gotit protokoll från egenkontrollen för etappen för
+48\.   Den 18 september 2024 levererade Gotit protokoll från egenkontrollen för etappen för
 förskola/grundskola.
-49.   Enligt Avtalet gällde 281 krav på Systemet avseende förskola/grundskola. Kraven
+49\.   Enligt Avtalet gällde 281 krav på Systemet avseende förskola/grundskola. Kraven
 specificerades i dokumentet Avtalade Krav Bilaga C1 och har därefter efter gemensam
 överenskommelse detaljerats och justerats i delar. Systemet ska uppfylla de krav som anges
 i kravlistan senast vid avtalad leveransdag för att Systemet ska godkännas av kommunen.
 
-50.   Gotit ska enligt Avtalet lämna fullständiga och felfria testprotokoll för egenkontroll.
+50\.   Gotit ska enligt Avtalet lämna fullständiga och felfria testprotokoll för egenkontroll.
 Testprotokollen är fullständiga om kommunen med dessa som ledning kan verifiera att
 Systemet har förutsättningar att uppnå vad som krävs för att uppfylla kraven. Testprotokollen
 
@@ -8427,42 +8427,42 @@ Systemet har förutsättningar att uppnå vad som krävs för att uppfylla krave
 är felfria om testprotokollen visar att testfall har genomförts av Gotit med lyckat resultat
 (Bilaga C5 p. 8.3).
 
-51.   Gotits leverans den 18 september 2024 avvek väsentligen från de avtalade kraven.
+51\.   Gotits leverans den 18 september 2024 avvek väsentligen från de avtalade kraven.
 Avseende 162 av avtalade krav fanns avtalad funktionalitet inte alls vid leveransen.5 44 av
 avtalade krav var inte testbara eller underkändes då det inte var möjligt för kommunen att
 verifiera att kravet var uppfyllt.6 Endast cirka 27 procent av kraven hade implementerats
 korrekt. Gotits leverans avvek väsentligen från Avtalet och avtalade krav.
-52.   Testprotokollen som Gotit tillhandhöll var ofullständiga och innehöll direkt oriktiga uppgifter
+52\.   Testprotokollen som Gotit tillhandhöll var ofullständiga och innehöll direkt oriktiga uppgifter
 om att tester utförts som omöjligen kunde ha utförts. Funktioner som i protokollet påstods
 vara implementerade, saknades helt. Protokollen påvisade inte en godkänd leverans utan
 tvärtom en avsaknad av tillämpning av avtalade metoder och processer.
 
-53.   Kommunen begärde slutlig rättelse av leveransen i brev av den 1 november 2024. Rättelse
+53\.   Kommunen begärde slutlig rättelse av leveransen i brev av den 1 november 2024. Rättelse
 hade ej vidtagits per den 11 november 2024, varför Gotit hamnat i faktiskt dröjsmål av
 leveransen. Bristerna i Gotits leverans, Gotits dröjsmål samt Gotits underlåtenhet att
 tillhandahålla fullständiga testprotokoll utgör väsentligt avtalsbrott.
-54.   En komplett lista på de brister som leveransen innehöll finns i Bilaga 3.7 Samtliga däri
+54\.   En komplett lista på de brister som leveransen innehöll finns i Bilaga 3.7 Samtliga däri
 angivna brister och fel åberopas till grund för kommunens rätt till hävning på grund av brister
 i leveransen den 18 september 2024 och dröjsmål.
 
 C.2.1.3 Anteciperad ytterligare försening avseende förskola och grundskola
-55.   Gotits leverans den 18 september 2024 var så behäftad med fel att det var uppenbart att
+55\.   Gotits leverans den 18 september 2024 var så behäftad med fel att det var uppenbart att
 avtalsenlig leverans i tid inte var möjlig. Av de 281 krav som gällde för införandet av förskola
 och grundskola var 162 krav inte godkända då avtalad funktionalitet inte fanns
 överhuvudtaget eller inte uppfyllde kraven. Ytterligare 44 krav var inte testbara eller
 underkända då det inte var möjligt att verifiera att kravet var uppfyllt. Endast cirka 27 procent
 av kraven hade implementerats korrekt vid leveransen.
 
-56.   Trots att tidpunkten för leverans skjutits upp mer än två år från ursprungligen avtalad
+56\.   Trots att tidpunkten för leverans skjutits upp mer än två år från ursprungligen avtalad
 leveransdag den 1 augusti 2022 till den 11 november 2024, hade Gotit inte lyckats
 implementera ens hälften av den avtalade funktionaliteten. Detta visade att Gotits
 utvecklingsarbete under nästan fyra år inte varit tillräckligt för att uppfylla
 avtalsförpliktelserna.
-57.   Gotit hade därtill meddelat kommunen att ett antal krav inte var möjliga att implementera och
+57\.   Gotit hade därtill meddelat kommunen att ett antal krav inte var möjliga att implementera och
 att Gotit inte avsåg att rätta felen i leveransen. Gotit hade beskrivit de avtalade kraven som
 "rymdraketer" och gjort klart att Gotit inte hade för avsikt att fullgöra dessa delar av Avtalet.
 
-58.   Enligt Gotits egen tidplan och uppgifter till kommunen skulle utveckling påbörjas för flertalet
+58\.   Enligt Gotits egen tidplan och uppgifter till kommunen skulle utveckling påbörjas för flertalet
 avtalade funktioner först under 2025. Detta innebar att även om Gotit skulle ha påbörjat
 
 5 Följande krav är testade med underkänt resultat: 2.2.01, 2.2.02, 2.2.04, 2.2.05, 2.2.07, 2.2.11, 2.2.12, 2.2.14, 2.2.38, 2.2.39,
@@ -8488,31 +8488,31 @@ och 2.2.51
 rättelseåtgärder, vilket Gotit dock gjort klart att Gotit inte hade för avsikt att göra, skulle den
 ytterligare förseningen innan en avtalsenlig leverans kunde ske, bli mycket lång.
 
-59.   För att Gotit skulle kunna leverera inom den avtalade 60-dagarsfristen när förseningen
+59\.   För att Gotit skulle kunna leverera inom den avtalade 60-dagarsfristen när förseningen
 ensamt skulle vara hävningsgrundande, skulle ny leverans ha behövt ske senast den 29
 november 2024 (med tillämpning av 60-dagarsgränsen i avtalet punkt 9.3 och att
 omleverans ska ges 30 arbetsdagar för att testas enligt punkt 8.1). Att Gotit inte skulle ha
 möjlighet att rätta de hundratals fel som förelåg i leveransen på ytterligare 18 kalenderdagar
 var uppenbart.
-60.   Den omfattande bristen i leveransen, kombinerat med Gotits uttryckliga meddelande att Gotit
+60\.   Den omfattande bristen i leveransen, kombinerat med Gotits uttryckliga meddelande att Gotit
 inte avsåg att rätta felen, samt det faktum att utvecklingsarbetet för många funktioner enligt
 Gotits egen uppgift inte ens skulle påbörjas förrän under 2025, gjorde det uppenbart för
 kommunen att ytterligare väsentlig försening var oundviklig. Detta utgjorde grund för
 kommunens rätt att häva Avtalet på grund av anteciperat avtalsbrott.
 
 C.2.1.4 Avtalsbrott genom brott mot införandeplanen för förskola och grundskola
-61.   Parterna överenskom den 26 september 20238 om en ny införandeplan för
+61\.   Parterna överenskom den 26 september 20238 om en ny införandeplan för
 förskola/grundskola. Denna införandeplan har aldrig ersatts genom någon överenskommelse
 mellan parterna. Gotit har varit skyldigt att följa införandeplanen som översändes den
 26 september 2023.
 
-62.   Enligt införandeplanen skulle leverans av etappen förskola/grundskola ske den
+62\.   Enligt införandeplanen skulle leverans av etappen förskola/grundskola ske den
 15 februari 2024. Gotit har utan kommunens godkännande frångått avtalad införandeplan
 och i stället tillämpat en ensidigt framtagen införandeplan som avviker från den gällande.
 Gotit har därigenom avtalsstridigt skjutit fram planerad leverans till den 18 september 2024.
-63.   Gotits avsteg från den avtalade införandeplanen utgör ett avtalsbrott.
+63\.   Gotits avsteg från den avtalade införandeplanen utgör ett avtalsbrott.
 
-64.   Av den gällande införandeplanen följer att Gotit innan driftsättning ska genomföra
+64\.   Av den gällande införandeplanen följer att Gotit innan driftsättning ska genomföra
 ekonomikörningar och att ekonomifunktionerna ska färdigställas innan övrig funktionalitet.
 Gotit har frångått införandeplanen genom att inte färdigställa ekonomikörningarna innan
 övrig funktionalitet samt inte ge kommunen möjlighet att godkänna inläsningen av data innan
@@ -8520,16 +8520,16 @@ driftsättning den 18 september 2024. Gotits agerande utgör ett väsentligt avt
 C.2.2 Väsentliga fel i driften och brister i upprätthållande av avtalade processer och rutiner
 för förvaltningsåtagandet
 
-65.   Sedan Systemet avseende gymnasiet togs i drift den 29 augusti 2023 har 299 incidenter
+65\.   Sedan Systemet avseende gymnasiet togs i drift den 29 augusti 2023 har 299 incidenter
 inträffat och rapporterats. Sedan kommunen började föra statistik över antalet öppna
 incidenter i februari 2024 har antalet öppna ärenden kontinuerligt ökat. Den statistik
 kommunen har fört är sammanställd i Bilaga 4.9 Samtliga däri angivna incidenter åberopas
 till grund för kommunens rätt till hävning på grund av Gotits väsentliga fel i driften och brister
 i upprätthållande av avtalade processer och rutiner för förvaltningsåtagandet.
-66.   Incidenterna beror på allvarliga och väsentliga fel i den levererade funktionaliteten.
+66\.   Incidenterna beror på allvarliga och väsentliga fel i den levererade funktionaliteten.
 Kommunen har rapporterat incidenterna till Gotit. Incidenterna beror på fel i Systemet.
 
-67.   Gotit har månadsvis felaktigt rapporterat att Systemets tillgänglighet varit 100-procentig och
+67\.   Gotit har månadsvis felaktigt rapporterat att Systemets tillgänglighet varit 100-procentig och
 att inga problem förekommit i driften, trots att flertalet kritiska funktioner inte varit tillgängliga
 under den månad vilken rapporteringen avser. Kritiska funktioner som inte varit fungerande
 är ekonomiberäkningar, skyddsnivåer för skyddade personuppgifter, betyg och statistik,
@@ -8543,7 +8543,7 @@ den 26 september 2023.
 
 <!-- sida 200 -->
 
-68.   Gotit följde inte avtalade åtaganden för förvaltningsåtagandet avseende gymnasietappen
+68\.   Gotit följde inte avtalade åtaganden för förvaltningsåtagandet avseende gymnasietappen
 enligt följande:
 
 (a) Gotit har brustit i att upprätthålla avtalade rutiner för incidenthantering. Gotit har i stället
@@ -8603,12 +8603,12 @@ av avdrag för incidenter.
 
 C.2.3 Otillräckliga skyddsnivåer för lagrad information
 
-69.   Gotit har enligt Avtalet en skyldighet att upprätta adekvata skyddsnivåer för lagrad
+69\.   Gotit har enligt Avtalet en skyldighet att upprätta adekvata skyddsnivåer för lagrad
 information. Skyldigheten omfattar utformningen av Systemet, vilket innebär att det ska ha
 en tillräckligt hög säkerhetsnivå med tekniska skyddsåtgärder och funktioner och flöden för
 att effektivt upptäcka och administrera skyldigheten att rapportera personuppgiftsincidenter
 till den registrerade och Integritetsskyddsmyndigheten (huvudavtalet p.2).
-70.   Skyldigheterna omfattar även en avrådandeplikt avseende olämpliga lösningar (huvudavtalet
+70\.   Skyldigheterna omfattar även en avrådandeplikt avseende olämpliga lösningar (huvudavtalet
 p. 13.5–13.6) samt andra nödvändiga åtgärder under avtalstiden för efterlevande av
 kommunens data- och informationssäkerhetsföreskrifter (Bilaga C4, avsnitt 7, Bilaga C5 p.
 30.1 samt bilaga C6). Skyldigheterna innebär bland annat att all kommunikation ska vara
@@ -8617,27 +8617,27 @@ p. 7.2.2). Gotit ska därutöver ha dokumenterade rutiner för hantering av säk
 (Bilaga C4 p. 7.2.4) och säkerställa att systemet förses med korrekta behörigheter (Bilaga
 C1 p. 3.3.5–3.3.9).
 
-71.   Gotit har inte upprätthållit adekvata skyddsnivåer för lagrad information. Ett flertal incidenter
+71\.   Gotit har inte upprätthållit adekvata skyddsnivåer för lagrad information. Ett flertal incidenter
 har inträffat där sekretesskyddade elevers personuppgifter har exponerats. Kommunen har
 som en följd av det inträffade anmält sig själv till Integritetsskyddsmyndigheten.
-72.   Incidenterna som inträffat visar att Gotit inte utformat systemet med tillräcklig hög
+72\.   Incidenterna som inträffat visar att Gotit inte utformat systemet med tillräcklig hög
 säkerhetsnivå och att systemet inte uppfyllt avtalade krav, se vidare avsnitt F.2.
 
-73.   Avtalsbrotten i avseende otillräckliga skyddsnivåer är väsentliga. Detta både då parterna
+73\.   Avtalsbrotten i avseende otillräckliga skyddsnivåer är väsentliga. Detta både då parterna
 direkt avtalat om att brott i detta avseende är hävningsgrundande (Bilaga C5 p. 36.1) och på
 grund av att felen återkommit upprepade gånger med omfattande förtroendeskador för
 kommunen som följd.
 C.2.4 Otillåten dataöverföring
 
-74.   Gotit har en skyldighet att utföra en fullständig migrering och testkonvertering av data till
+74\.   Gotit har en skyldighet att utföra en fullständig migrering och testkonvertering av data till
 testmiljön för kommunens testning, verifiering och godkännande, innan skarp drift (Bilaga C5
 p.8).
-75.   Vid ej godkänd testning kan leveransen inte fortskrida innan Gotit åtgärdat felen. Gotit har i
+75\.   Vid ej godkänd testning kan leveransen inte fortskrida innan Gotit åtgärdat felen. Gotit har i
 strid med avtalet och utan samtycke från kommunen den 12 september 2024 vidtagit
 åtgärder för att föra över overifierad data till systemets skarpa databaser och integrationer.
 Gotits åtgärder utgör ett avtalsbrott.
 
-76.   Avtalsbrottet var uppsåtligt. Agerandet föregick av att kommunen den 10 september 2024
+76\.   Avtalsbrottet var uppsåtligt. Agerandet föregick av att kommunen den 10 september 2024
 poängterat att Gotit inte utfört de steg som krävs för att driftsättning av integrationer ska
 kunna ske. Kommunen poängterade uttryckligen att någon skarp integration inte fick ske.10
 Gotit meddelade att bolaget ”inte delade kommunens uppfattning” och påbörjade arbetet
@@ -8646,7 +8646,7 @@ obehörigt och i strid med kommunens direkta instruktioner. Det utgjorde ett vä
 avtalsbrott. Agerandet uppfyllde därtill rekvisiten för dataintrång.
 C.2.5 Förtida nedstängning av systemet den 6 december 2024
 
-77.   Gotit har enligt p. 25 i Bilaga C5 en skyldighet att utföra avveckling, ersättning och/eller
+77\.   Gotit har enligt p. 25 i Bilaga C5 en skyldighet att utföra avveckling, ersättning och/eller
 överflyttning av förvaltningsåtagandet. Vid en hävning ska åtagandet utföras kostnadsfritt, se
 p. 25.1. Vid kommunens avrop ska Gotit tillställa kommunen en plan för avveckling,
 ersättning och/eller överflyttning, vilken ska innehålla uppgifter om alla de nödvändiga och
@@ -8659,43 +8659,43 @@ och överflyttningsprojekt.
 
 <!-- sida 202 -->
 
-78.   Kommunen avropade avveckling/ersättning/överflyttning av förvaltningsåtagandet den
+78\.   Kommunen avropade avveckling/ersättning/överflyttning av förvaltningsåtagandet den
 1 november 2024.
 
-79.   Gotit stängde emellertid ned systemet den 6 december 2024 trots kommunens protester och
+79\.   Gotit stängde emellertid ned systemet den 6 december 2024 trots kommunens protester och
 i strid med avtalet och kommunens instruktioner i övrigt. Vid tidpunkten hade kommunen inte
 ett godkänt ersättningssystem i drift. Agerande utgjorde ett avsiktligt avtalsbrott.
-80.   Kommunen kunde dagarna innan, genom anlitande av ett externt företag, via ett s.k.
+80\.   Kommunen kunde dagarna innan, genom anlitande av ett externt företag, via ett s.k.
 robotuttag, säkra tillgång till alla kommunens uppgifter i systemet. Gotits filexport av
 kommunens data var, vid tillfället liksom tidigare, inkomplett och felaktig och kunde inte
 användas.
 
-81.   Kommunen sammanställer för närvarande kostnaderna för detta och återkommer med ett
+81\.   Kommunen sammanställer för närvarande kostnaderna för detta och återkommer med ett
 preciserat skadeståndsanspråk.
 
 C.3   Avtalsbrotten är väsentliga
-82.   Gotits avtalsbrott har varit uppsåtliga eller grovt vårdslösa. Kommunen har påpekat vad
+82\.   Gotits avtalsbrott har varit uppsåtliga eller grovt vårdslösa. Kommunen har påpekat vad
 avtalet anger för Gotit upprepade gånger och i brev och flertalet krismöten påpekat att Gotits
 agerande strider mot avtalet. Gotit har struntat i detta. Gotit har planerat för leveranser efter
 avtalade leveransdagar, dvs. uppsåtliga förseningar.
 
-83.   Gotit förnekade kontinuerligt och fortsatt att avtalsbrott förelåg och gjorde inga försök att
+83\.   Gotit förnekade kontinuerligt och fortsatt att avtalsbrott förelåg och gjorde inga försök att
 rätta de brister som kommunen påpekade. De av kommunen påtalade felen i leveransen av
 den 18 september 2024 kommenterades inte och Gotit gjorde det klart för kommunen att
 någon omleverans som uppfyllde avtalade krav, inte skulle ske.
-84.   Gotits avtalsbrott avser centrala delar av avtalet. Tidpunkten för leverans, de avtalade
+84\.   Gotits avtalsbrott avser centrala delar av avtalet. Tidpunkten för leverans, de avtalade
 kraven på systemet (där systemet bland annat avvikit vad gäller central funktionalitet som
 betygsättning och säkerhetsbrister) och avtalade processer och rutiner för förvaltningen
 utgör alla centrala åtaganden i avtalet.
 
-85.   En central del av systemets funktionalitet är betygssättning. Gotit har inte anpassat systemet
+85\.   En central del av systemets funktionalitet är betygssättning. Gotit har inte anpassat systemet
 för hantering av betygssättning. Genom bristerna i Gotits leverans har risk uppstått för
 försenade och uteblivna betyg, vilket kan påverka elevers möjligheter att ta examen och
 studera vidare. Bristerna innebär att kommunen inte kan uppfylla kraven i
 gymnasieförordningen, Skolverkets riktlinjer och skollagen på korrekt dokumentation av
 betyg. Bristerna har även inneburit omfattande manuellt arbete för kommunens anställda,
 vilket medfört en ökad administrativ börda.
-86.   Gotits avtalsbrott har rubbat kommunens förtroende för Gotit. Gotit har därtill kontinuerligt
+86\.   Gotits avtalsbrott har rubbat kommunens förtroende för Gotit. Gotit har därtill kontinuerligt
 sökt påverka avtalsrelationen genom att övervältra ansvar på kommunen vid varje tillfälle
 och skylla de egna misslyckandena på kommunen. Detta trots att avtalet är mycket tydligt
 vad gäller Gotits strikta resultat- och projektledningsansvar. Gotit har också försökt utöva
@@ -8704,13 +8704,13 @@ inte går med på Gotits krav vad gällde denna leverans. Gotit struntade efter 
 också uttryckligen i det avtalade avvecklingsansvaret och ”drog ut sladden” och släckte ned
 systemet för evigt före det att det nya systemet var i drift.
 
-87.   Gotits avtalsbrott har gett kommunen anledning att befara ytterligare avtalsbrott. Trots att
+87\.   Gotits avtalsbrott har gett kommunen anledning att befara ytterligare avtalsbrott. Trots att
 avtalet varit gällande i nästan fem år fortgick Gotits agerande med att söka övervältra det
 egna ansvaret på kommunen, oförmågan att prestera enligt tidplan och oförmågan att
 leverera i enlighet med avtalade krav. Gotit har haft otaliga möjligheter att rätta sina
 avtalsbrott men har inte vidtagit någon rättelse eller gentemot kommunen ens utlovat
 rättelse.
-88.   Under förvaltningen har de avtalade processerna för att hantera incidenter och rapportera
+88\.   Under förvaltningen har de avtalade processerna för att hantera incidenter och rapportera
 och följa upp incidenter och tillgänglighet, inte överhuvudtaget följts. Bristerna har varit
 
 14
@@ -8720,13 +8720,13 @@ och följa upp incidenter och tillgänglighet, inte överhuvudtaget följts. Bri
 sådana att monetär och faktisk uppföljning av Gotits prestation i enlighet med Avtalet
 omöjliggjorts.
 
-89.   Felen i systemet har under drift visat sig genom säkerhetsincidenter, vilket parterna
+89\.   Felen i systemet har under drift visat sig genom säkerhetsincidenter, vilket parterna
 uttryckligen har avtalat ska vara väsentligt och ensamt hävningsgrundande.
 
 C.4   Kommunens rätt till ersättning
 C.4.1 Återgång av erlagd ersättning
 
-90.   Kommunen har hävt Avtalet och parternas prestationer ska därmed återgå. Till följd härav
+90\.   Kommunen har hävt Avtalet och parternas prestationer ska därmed återgå. Till följd härav
 ska Gotit återbetala vad kommunen erlagt till Gotit. Kommunen har till Gotit betalat totalt
 3 171 607 kr fördelat enligt följande.
 (i) 372 200 kr avseende 20 procent av totalkostnaden för införandeprojektet vid
@@ -8736,29 +8736,29 @@ tiden för godkännandet av projektdefinitionen;
 (iii) 1 000 000 kr avseende del av förlikningslikvid; och
 
 (iv) 235 257 kr avseende förvaltningsavgifter11.
-91.   Gotit har inte fullgjort sina åtaganden enligt Avtalet och inte levererat de funktioner som
+91\.   Gotit har inte fullgjort sina åtaganden enligt Avtalet och inte levererat de funktioner som
 avtalats. Det system som Gotit levererat har innehållit sådana allvarliga brister att Gotit inte
 kan anses ha fullgjort leveransen. Systemet har i levererade delar återgått till Gotit. Gotit har
 slutligt stängt ned systemet den 6 december 2024 och kommunen har inte kvar någon del av
 systemet. Som anges ovan ska Gotit därför återbetala vad kommunen betalat för införandet
 (p. i-iii ovan) enligt Avtalet.
 
-92.   Gotit har återkommande brustit i redovisningen och utförandet av sitt
+92\.   Gotit har återkommande brustit i redovisningen och utförandet av sitt
 incidenthanteringsarbete och i förvaltningen av systemet i övrigt. Gotit har därigenom inte
 gjort det som ålegat bolaget enligt Avtalet för att förvaltningsavgiften ska utgå. Vad
 kommunen betalat till Gotit avseende förvaltningsavgifter (p. iv ovan) ska därför återbetalas
 till kommunen.
-93.   Under alla förhållanden har kommunen rätt till prisavdrag motsvarande skillnaden i värde av
+93\.   Under alla förhållanden har kommunen rätt till prisavdrag motsvarande skillnaden i värde av
 ett felfritt och utan dröjsmål levererat system och det system Gotit levererat. De brister och
 avvikelser som Gotits leverans påvisat är så allvarliga att kommunen har rätt till prisavdrag
 motsvarande vad kommunen erlagt till Gotit, dvs. 3 171 607 kr.
 
 C.4.2 Skadestånd
-94.   Gotits avtalsbrott har orsakat kommunen skada i form av kostnader som kommunen inte
+94\.   Gotits avtalsbrott har orsakat kommunen skada i form av kostnader som kommunen inte
 hade belastats med om Gotit hade fullgjort sina åtaganden enligt Avtalet. Gotit är skyldigt att
 ersätta kommunen för den skada som Gotit orsakat, sammanlagt 7 236 913 kr.
 
-95.   Kommunen har haft följande direkta kostnader till följd av Gotits avtalsbrott
+95\.   Kommunen har haft följande direkta kostnader till följd av Gotits avtalsbrott
 (a) Kostnader för avtalsförlängning och fortsatt leverans från tidigare leverantör av
 IT-system för förskola och grundskola: Som en direkt följd av Gotits uteblivna
 leverans enligt Avtalet har kommunen behövt förlänga det avtal om tillhandahållande
@@ -8766,7 +8766,7 @@ av IT-system som varit gällande med leverantören IST Sverige AB för systemet
 avseende förskola och grundskola. Totalt uppgår dessa kostnader till 8 233 182 kr,
 fördelat enligt följande:12
 
-- 1 298 182 kr avseende perioden 2022-08-01–2023-05-15;
+\- 1 298 182 kr avseende perioden 2022-08-01–2023-05-15;
 
 11 Bilaga 6-12– Gotits faktura nr 10859, 12251, 12253, 12254, 12255, 12256 och 12296,
 12 Bilaga 13, 14 och 15 – IST:s faktura nr 265863, 268139, 269697.
@@ -8775,10 +8775,10 @@ fördelat enligt följande:12
 
 <!-- sida 204 -->
 
-- 1 595 000 kr avseende perioden 2023-05-15–2023-12-31;
+\- 1 595 000 kr avseende perioden 2023-05-15–2023-12-31;
 
-- 2 550 000 kr avseende perioden 2024-01-01–2024-12-31; och
-- 2 790 000 kr avseende perioden 2025-01-01–2025-12-31.
+\- 2 550 000 kr avseende perioden 2024-01-01–2024-12-31; och
+\- 2 790 000 kr avseende perioden 2025-01-01–2025-12-31.
 
 Motsvarande kostnad som kommunen skulle ha haft för förvaltningsåtagandet från
 Gotit under förlängningsperioden uppgår till 2 350 667 kr. Beloppet är beräknat på den
@@ -8793,8 +8793,8 @@ upphandling kan genomföras. Det har medfört kostnader i samband med införande
 det nya systemet samt förvaltningsavgifter. Kostnaderna för införandet enligt
 interimsavtalet samt för förvaltningen fram till maj 2025 uppgår till följande.
 
-- 295 310 kr för införande av ersättningssystem för gymnasiet;14
-- 512 498 kr avseende förvaltning av ersättningssystemet för gymnasiet avseende
+\- 295 310 kr för införande av ersättningssystem för gymnasiet;14
+\- 512 498 kr avseende förvaltning av ersättningssystemet för gymnasiet avseende
 perioden 1 mars 2025 – 31 december 2025.15
 
 Motsvarande kostnad som kommunen skulle ha haft för förvaltningsåtagandet från
@@ -8816,14 +8816,14 @@ av Gotits avtalsbrott avseende gymnasiet. Konsultkostnaderna avser testning av
 systemet samt dokumentering och annan administration på grund av de av Gotit
 orsakade incidenterna i tiden från den 4 april 2024 till den 31 oktober 2024. Totalt
 uppgår kostnaderna till 1 004 640 kr (exkl. moms), fördelat enligt följande.16
-- 494 592 kr avseende perioden 2024-04-04–2024-07-30;
+\- 494 592 kr avseende perioden 2024-04-04–2024-07-30;
 
-- 170 016 kr avseende perioden 2024-08-01–2024-08-31;
-- 162 288 kr avseende perioden 2024-09-01–2024-09-30; och
+\- 170 016 kr avseende perioden 2024-08-01–2024-08-31;
+\- 162 288 kr avseende perioden 2024-09-01–2024-09-30; och
 
 13 Under perioden 2022-08-01–2024-12-31 (cirka 2,417 år) skulle kommunen haft en årlig kostnad till Gotit om 688 000 kr,
 vilket motsvarar halva förvaltningsavgiften. Motsvarande kostnad som kommunen skulle haft till Gotit under perioden uppgår till
-1 569 022 kr (2,471*688 000). Skillnaden mellan kommunens kostnader för förlängning (8 233 182) och motsvarande
+1 569 022 kr (2,471\*688 000). Skillnaden mellan kommunens kostnader för förlängning (8 233 182) och motsvarande
 kostnad för Gotits system (2 350 667) är 5 882 515 kr, vilket utgör kommunens skada i denna del. För 2025 är avdraget 688 000
 kr vilket motsvarar ett års halv förvaltningsavgift.
 14 Bilaga 16, 17, 18 och 19 – IST:s faktura nr 272796, 273013, 272994 och 273977.
@@ -8834,7 +8834,7 @@ kr vilket motsvarar ett års halv förvaltningsavgift.
 
 <!-- sida 205 -->
 
-- 177 744 kr avseende perioden 2024-10-01–2024-10-31.
+\- 177 744 kr avseende perioden 2024-10-01–2024-10-31.
 
 (d) Kostnader för interimschef. Gotits avtalsstridiga och sena leveranser avseende
 gymnasiet har medfört omfattande merarbete för kommunens styrgrupp och anställda.
@@ -8843,19 +8843,19 @@ till införandet av systemet i stället för sina ordinarie arbetsuppgifter. Til
 kommunen anlitat en interimschef för utförande av enhetschefs ordinarie
 arbetsuppgifter i tiden från den 2024-09-16 till den 2024-12-31. Totalt uppgår
 kostnaderna till 213 000 kr, fördelat enligt följande.17
-- 27 000 kr avseende perioden 2024-09-16–2024-09-30;
+\- 27 000 kr avseende perioden 2024-09-16–2024-09-30;
 
-- 69 000 kr avseende perioden 2024-10-01–2024-10-31;
-- 63 000 kr avseende perioden 2024-11-01–2024-11-30; och
+\- 69 000 kr avseende perioden 2024-10-01–2024-10-31;
+\- 63 000 kr avseende perioden 2024-11-01–2024-11-30; och
 
-- 54 000 kr avseende perioden 2024-12-01–2024-12-31.
+\- 54 000 kr avseende perioden 2024-12-01–2024-12-31.
 (e) Kostnader för elevadministratör avseende gymnasiet. Gotits avtalsstridiga och
 sena leveranser har medfört att kommunen behövt anlita en elevadministratör för
 tillkommande administrativt elevarbete som inte hade behövts vid en avtalsenlig
 leverans. Totalt uppgår kostnaderna till 35 951 kr, fördelat enligt följande.18
 
-- 27 024 kr avseende perioden 2024-06-03–2024-06-20; och
-- 8 927 kr avseende perioden 2024-08-05–2024-08-09.
+\- 27 024 kr avseende perioden 2024-06-03–2024-06-20; och
+\- 8 927 kr avseende perioden 2024-08-05–2024-08-09.
 
 (f) Kostnader för manuellt uttag av data inför nedstängning av Systemet samt
 efterföljande migreringskostnader. Gotit nedstängning av systemet i förtid samt
@@ -8871,10 +8871,10 @@ närvarande och är inte en del i yrkat belopp. Kommunen har därutöver haft yt
 interna kostnader, däribland onödigt arbete avseende manuella processer som
 normalt sker via robotar, vilka fick stängas av under filuttaget. Kommunen
 sammanställer alltjämt dessa och begär att få återkomma med preciserade kostnader.
-96.   Kommunens sammanlagda skadeståndskrav för ovan redovisade och redan inträffade
+96\.   Kommunens sammanlagda skadeståndskrav för ovan redovisade och redan inträffade
 skador uppgår för närvarande till 7 263 913 kr.
 
-97.   Kommunen kommer med stor sannolikhet också att drabbas av ytterligare skada avseende
+97\.   Kommunen kommer med stor sannolikhet också att drabbas av ytterligare skada avseende
 nytt system för samtliga skolformer när den formella upphandlingen av en ny leverantör för
 att ersätta Gotits åtaganden är färdigställd. Skadan består i merkostnaden för införande och
 förvaltning jämfört med Gotits leverans samt kostnaderna för ytterligare en upphandling.
@@ -8891,52 +8891,52 @@ II    UTVECKLING AV TALAN
 
 D.    SYSTEMBESKRIVNING
 
-98.   Det skoladministrativa systemet är kommunens digitala hjärta för all utbildningsverksamhet.
+98\.   Det skoladministrativa systemet är kommunens digitala hjärta för all utbildningsverksamhet.
 Precis som ett sjukhus behöver ett journalsystem för att hålla reda på patienter, behöver
 kommunen detta system för att administrera sina cirka 16 000 elever från förskola till
 gymnasium.
-99.   Systemet består av en databas där all information om kommunens utbildningsverksamhet
+99\.   Systemet består av en databas där all information om kommunens utbildningsverksamhet
 lagras och hanteras. I Systemet finns uppgifter om varje elev, barn, vårdnadshavare,
 personal, skolenheter, klasser, grupper, kurser och ämnen. Systemet innehåller också
 ekonomiska data som används för resursfördelning, bidragsberäkningar och fakturering.
 
-100.  Systemet hanterar organisationsuppbyggnad genom att skapa och administrera
+100\.  Systemet hanterar organisationsuppbyggnad genom att skapa och administrera
 verksamhetsformer, enheter, skolenheter och deras ekonomiska kopplingar. För
 grundskolan behöver varje skolenhet innehålla rätt årskurser, medan gymnasieskolorna
 måste ha korrekta program och inriktningar enligt skolenhetsregistret.
-101.  En central funktion är elevadministrationen. För grundskolan innebär detta att skapa
+101\.  En central funktion är elevadministrationen. För grundskolan innebär detta att skapa
 timplansmallar för alla årskurser, hantera löpande in- och utskrivningar av både interna och
 externa elever, samt koppla elever till rätt klasser och grupper. Motsvarande gäller för
 gymnasiet. För gymnasiet skapas även studieplansmallar för varje program, inriktning och
 årskurser. Systemet hanterar även CSN-rapportering.
 
-102.  Systemet administrerar också årliga processer som skolval för vissa årskurser i grundskolan
+102\.  Systemet administrerar också årliga processer som skolval för vissa årskurser i grundskolan
 och språkval per skola. För gymnasiet hanteras studieval för inriktningar, individuella val,
 programgemensamma och programfördjupningar.
-103.  En omfattande del av Systemets funktionalitet rör ekonomi. Systemet beräknar och
+103\.  En omfattande del av Systemets funktionalitet rör ekonomi. Systemet beräknar och
 administrerar avtal, ansvar, kontering och specialpriser för 18 olika typer av ekonomiska
 körningar. Detta inkluderar intern resursfördelning, bidrag till fristående enheter,
 interkommunal ersättning, föräldrafakturering, intern och extern modersmålsundervisning
 och studiehandledning samt inackorderingsbidrag.
 
-104.  Dessa beräkningar är komplexa eftersom de måste ta hänsyn till olika regler och tariffer
+104\.  Dessa beräkningar är komplexa eftersom de måste ta hänsyn till olika regler och tariffer
 beroende på elevens eller barnets ålder, studieväg, GY-kategori, skolform, kommun,
 enhetsbidrag och eventuella särskilda behov. Ekonomisystemet måste också hantera
 tidsdifferenser, exempelvis kan en elev börja på en skola mitt i terminen, vilket påverkar hur
 bidrag och ersättningar ska beräknas.
-105.  Kommunen har valt att upphandla ett gemensamt system för både förvaltningen förskola och
+105\.  Kommunen har valt att upphandla ett gemensamt system för både förvaltningen förskola och
 grundskola och gymnasieförvaltningen. Detta innebär att all skoladministration sker i samma
 digitala miljö, från det att ett barn skrivs in på förskola till dess att eleven tar examen från
 gymnasiet. Över 15 olika användargrupper, från lärare och rektorer till ekonomer,
 administratörer (som är primäranvändare) och vårdnadshavare, ska använda Systemet
 dagligen.
 
-106.  Systemet måste samverka med cirka 20 andra digitala system genom olika former av
+106\.  Systemet måste samverka med cirka 20 andra digitala system genom olika former av
 informationsöverföringar. Det kan ske genom så kallade integrationer, alternativt genom
 automatiserade eller manuella filöverföringar. En integration är en automatisk dataöverföring
 mellan två system som säkerställer att samma information finns tillgänglig i båda systemen
 utan att någon behöver mata in data manuellt två gånger. Några exempel följer nedan.
-107.  Den mest centrala integrationen är med systemet Vklass. Vklass är en digital lärplattform
+107\.  Den mest centrala integrationen är med systemet Vklass. Vklass är en digital lärplattform
 som används inom skolan och förskolan för informationsutbyte mellan elever, lärare och
 vårdnadshavare. Plattformen används för bland annat schemahantering, närvaroregistrering,
 
@@ -8947,22 +8947,22 @@ vårdnadshavare. Plattformen används för bland annat schemahantering, närvaro
 inlämningsuppgifter, betyg, individuella utvecklingsplaner, utvecklingssamtal och
 kommunikation mellan lärare och elev/vårdnadshavare.
 
-108.  Schemasystemet Skola24 behöver få uppgifter om elever, lärare och för att kunna skapa
+108\.  Schemasystemet Skola24 behöver få uppgifter om elever, lärare och för att kunna skapa
 scheman. Denna integration sker genom att filer överförs manuellt från skolsystemet till
 schemasystemet, vissa perioder dagligen.
-109.  CSN-integrationen innebär att CSN varje månad automatiskt skickar anmärkningar som
+109\.  CSN-integrationen innebär att CSN varje månad automatiskt skickar anmärkningar som
 påverkar elevernas rätt till inackorderingsbidrag. För elever på interna enheter tas en fil
 manuellt ut från skolsystemet och laddas upp till CSN för att möjliggöra utbetalning av
 studiebidrag.
 
-110.  Ekonomisystemet Raindance får filer från skolsystemet månadsvis med underlag för alla
+110\.  Ekonomisystemet Raindance får filer från skolsystemet månadsvis med underlag för alla
 ekonomiska beräkningar; interkommunal ersättning, bidrag till fristående verksamheter,
 vårdnadshavarfakturor, intern och extern fakturering av modersmålsundervisning och
 studiehandledning samt intern resursfördelning och inackorderingsbidrag.
-111.  Systemet ska även samverka med folkbokföringsregistret för uppdaterade personuppgifter
+111\.  Systemet ska även samverka med folkbokföringsregistret för uppdaterade personuppgifter
 och systemet ELIN för information om elevplaceringar i Göteborgsregionen.
 
-112.  Utan ett fungerande system skulle kommunen inte kunna:
+112\.  Utan ett fungerande system skulle kommunen inte kunna:
 • Registrera nya elever eller hantera skolval
 
 • Hantera betygsättning och rapportering till myndigheter
@@ -8971,22 +8971,22 @@ och systemet ELIN för information om elevplaceringar i Göteborgsregionen.
 • Skapa scheman, registrera närvaro/frånvaro eller hantera personal eller
 • Fullfölja lagstadgade skyldigheter som skolplikt och rapportering.
 
-113.  Modern skoladministration är helt beroende av digitala system. Manuell hantering av denna
+113\.  Modern skoladministration är helt beroende av digitala system. Manuell hantering av denna
 omfattning är praktiskt omöjlig, det skulle kräva hundratals personer och månader av arbete
 för uppgifter som idag hanteras mer eller mindre automatiskt av de skoladministrativa
 system som finns tillgängliga på marknaden. Systemet är kravställt i enlighet med detta
 behov av automatiserad och flödesbaserad administration av ovan nämnd information i
 kommunens verksamhet för grundskola, inklusive förskola, fritids och gymnasieskola.
-114.  När Systemet eller dess integrationer inte fungerar får det dominoeffekter genom hela
+114\.  När Systemet eller dess integrationer inte fungerar får det dominoeffekter genom hela
 skolorganisationen. Fel i ekonomiberäkningar påverkar kommunens budget, bristfällig
 dataöverföring skapar dubbelarbete och felaktig information till myndigheter kan få juridiska
 konsekvenser. Elevernas utbildning riskeras när administration inte kan skötas korrekt:
 korrekt registrering av betyg och studieplaner är en förutsättning för skolval, ansökningar till
 universitet och planering av undervisningen.
 
-115.  Systemet är därför inte bara ett administrativt verktyg utan kommunens grundförutsättning
+115\.  Systemet är därför inte bara ett administrativt verktyg utan kommunens grundförutsättning
 för att kunna bedriva lagstadgad utbildningsverksamhet.
-116.  Kommunen är också beroende av att Systemet fungerar på ett sätt som säkerställer att
+116\.  Kommunen är också beroende av att Systemet fungerar på ett sätt som säkerställer att
 gällande lagkrav efterlevs, såsom Dataskyddsförordningen (GDPR), offentlighets- och
 sekretesslagen samt arkivlagen. Eftersom elev- och personaluppgifter, inklusive känslig
 
@@ -9003,28 +9003,28 @@ lösningar.
 
 E.    AVTALET
 
-117.  Kommunen och Gotit (”Parterna”) har ingått ett avtal om skoladministrativt IT-system den
+117\.  Kommunen och Gotit (”Parterna”) har ingått ett avtal om skoladministrativt IT-system den
 12 februari 2021 enligt vilket Gotit skulle leverera ett IT-system för kommunen att använda i
 den administrativa verksamheten avseende förskola och grundskola respektive
 gymnasieskola. Avtalet träffades efter en offentlig upphandling med förhandlat förfarande där
 Gotits anbud antagits.
-118.  De ursprungliga avtalshandlingarna består av ett Huvudavtal (Bilaga C0) samt bilagor
+118\.  De ursprungliga avtalshandlingarna består av ett Huvudavtal (Bilaga C0) samt bilagor
 bestående av Avtalade krav (Bilaga C1), Service Level Agreement (Bilaga C2),
 Införandeplan (Bilaga C3), Förvaltningsplan (Bilaga C4), Allmänna bestämmelser (Bilaga
 C5) och Personuppgiftsbiträdesavtal (Bilaga C6).
 
-119.  Gotits skyldigheter enligt Avtalet består av två huvudsakliga delar; införandet av systemet
+119\.  Gotits skyldigheter enligt Avtalet består av två huvudsakliga delar; införandet av systemet
 och ett förvaltningsåtagande avseende Systemet. Genom införandet av Systemet
 tillgängliggör Gotit de funktioner och egenskaper som följer av kravlistan i de avtalade
 kraven i Bilaga C1.
-120.  Där Avtalet inte säger annat gäller alltid som avtalade krav på Systemet en analog
+120\.  Där Avtalet inte säger annat gäller alltid som avtalade krav på Systemet en analog
 tillämpning av den generella funktionsduglighet och ändamålsenliga standard som föreskrivs
 för varor i köplagen 17 §. Med ändamålsenlig standard avses alltid att Systemet ska vara
 utformat så att kommunen – vid dess användning av Systemet för dess avsedda ändamål –
 inte ska bryta mot den rättsliga reglering som gäller för offentlig sektor i allmänhet och
 kommunens verksamhet i synnerhet.
 
-121.  För införandet har Gotit ett särskilt reglerat resultatansvar, se avsnitt 13 i de Allmänna
+121\.  För införandet har Gotit ett särskilt reglerat resultatansvar, se avsnitt 13 i de Allmänna
 Villkoren. Resultatansvaret innebär bland annat att Gotit på eget initiativ ska leda framdriften
 av införandeprojektet i den utsträckning som krävs för att parternas arbete ska följa
 Införandeplanen. Vidare ska Gotit utan särskilda instruktioner vidta de åtgärder som krävs
@@ -9040,11 +9040,11 @@ enligt avsnitt 13 i de allmänna villkoren, endast undantaget den situation då 
 hindret kvarstått trots att Gotit vidtagit de åtgärder som rimligen kan begäras enligt punkt
 13.2.
 
-122.  Förvaltningsåtagandet innebär att Gotit ska tillhandahålla drift, support, incidenthantering
+122\.  Förvaltningsåtagandet innebär att Gotit ska tillhandahålla drift, support, incidenthantering
 och problemlösning, underhåll, ändrings- och tilläggsarbeten, samverkan och biträde vid
 avveckling av systemet. Driften, supporten och underhållet av systemet ska ske enligt vissa
 avtalade servicenivåer som specificeras i SLA, Bilaga C2.
-123.  Resultatansvaret för driften av Systemet innebär framför allt att Gotit ska se till att alla
+123\.  Resultatansvaret för driften av Systemet innebär framför allt att Gotit ska se till att alla
 användare alltid har störningsfri tillgång till Systemet och kan använda Systemets olika
 funktioner enligt dess avsedda ändamål, vilket betyder att Systemet ska utföra varje funktion
 på begäran av användaren enligt överenskomna responstider. Resultatansvaret bestäms
@@ -9061,7 +9061,7 @@ Förvaltningsåtagandet och därmed sammanhängande ansvar för att undanröja h
 Resultatansvaret för Förvaltningsåtagandet är strikt i den mening som anges under avsnitt
 13.3 i de allmänna bestämmelserna. Gotit har också en särskilt reglerad omsorgsplikt.
 
-124.  Kommunen i sin tur ska enligt Avtalet ersätta Gotit dels för införandet, dels för
+124\.  Kommunen i sin tur ska enligt Avtalet ersätta Gotit dels för införandet, dels för
 förvaltningsåtagandet. Ersättningen för införandet har avtalats till ett fast belopp för hela
 införandeprojektet som ska betalas i delbetalningar efter godkännande av i Avtalet angivna
 delleveranser. Ersättning för förvaltningsåtagandet ska utgå månadsvis beräknat på en årlig
@@ -9071,45 +9071,45 @@ varje månad, inom ramen för parternas samverkan, redovisa alla tillämpliga pr
 under förvaltningsåtagandet, som en följd av bristande uppfyllnad av avtalade servicenivåer.
 Denna redogörelse utgör betalningsunderlaget, utan vilket Gotit inte kan få betalt.
 Betalningsunderlaget förutsätter således att mätning och redovisning sker enligt avtalet.
-125.  Avtalstiden är såvitt avser införandeprojektet till dagen för leverans av systemet. Såvitt avser
+125\.  Avtalstiden är såvitt avser införandeprojektet till dagen för leverans av systemet. Såvitt avser
 förvaltningsåtagandet löper avtalet från och med leverans under en period om fem år.
 Därefter löper Avtalet i ytterligare elva år, med rätt för kommunen att säga upp avtalet med
 ett års uppsägningstid. Avtalstiden för förvaltningsåtagandet är maximalt 16 år.
 
-126.  Vissa av leverantörens åtaganden enligt Avtalet aktualiseras först när Avtalet upphör. En
+126\.  Vissa av leverantörens åtaganden enligt Avtalet aktualiseras först när Avtalet upphör. En
 sådan bestående förpliktelse som överlever t.ex. en hävning är leverantörens ansvar för en
 störningsfri migrering av kommunens data till en ny IT-miljö. Vid upphörande av Avtalet är
 leverantören sålunda skyldig att genomföra avvecklings-, ersättnings- och/eller
 överflyttningsassistans. Ersättningen för sådan avvecklings-, ersättnings- och/eller
 överflyttningsassistans specificeras i huvudavtalet.
-127.  Vad leverantörens åtagande innefattar, konkretiseras i den avvecklings-, ersättnings- och
+127\.  Vad leverantörens åtagande innefattar, konkretiseras i den avvecklings-, ersättnings- och
 överflyttningsplan som leverantören ansvarar för att ta fram för kommunens godkännande.
 Vilka punkter som närmare ska ingå konkretiseras i p. 25.3 Bilaga C6, och leverantören är
 skyldig att utföra de avvecklings-, ersättnings- och/eller överflyttningsarbeten som
 kommunen avropar.
 
-128.  Om Avtalet upphör pga. leverantörens avtalsbrott (eller kommunens hävning om den
+128\.  Om Avtalet upphör pga. leverantörens avtalsbrott (eller kommunens hävning om den
 hävningsgrundande omständigheten är hänförlig till leverantören) ska leverantörens arbete
 utföras kostnadsfritt.
-129.  Parterna har den 7 november 2023 även ingått ett förlikningsavtal avseende det ursprungliga
+129\.  Parterna har den 7 november 2023 även ingått ett förlikningsavtal avseende det ursprungliga
 avtalet, Bilaga 2.
 
-130.  Huvudavtalet och Förlikningsavtalet benämns gemensamt som ”Avtalet”.
+130\.  Huvudavtalet och Förlikningsavtalet benämns gemensamt som ”Avtalet”.
 
 F.    NÄRMARE OM GOTITS AVTALSBROTT
-131.  Gotit har genom sitt agerande och sin underlåtenhet brutit mot Avtalet i flera delar. I det
+131\.  Gotit har genom sitt agerande och sin underlåtenhet brutit mot Avtalet i flera delar. I det
 följande redogörs närmare för Gotit avtalsbrott.
 
 F.1   Förseningar och fel i leverans
 
 F.1.1 Dröjsmål avseende leverans av funktionerna på Restlistan
-132.  Efter att Gotit levererat och kommunen underkänt leveransen avseende gymnasiet vid flera
+132\.  Efter att Gotit levererat och kommunen underkänt leveransen avseende gymnasiet vid flera
 tillfällen ledde parternas diskussioner i tvisten fram till en förlikning. Genom
 Förlikningsavtalet som ingicks den 7 november 2023 har leveransen av gymnasiet godkänts
 och Gotit har åtagit sig att fullgöra de specifika åtgärder som framgår av en lista som utgör
 bilaga 1 till Förlikningsavtalet, den s.k. restlistan (Förlikningsavtalet, p. 3.1).
 
-133.  Restlistan består av 50 krav som Gotit behöver leverera för att fullgöra sitt åtagande enligt
+133\.  Restlistan består av 50 krav som Gotit behöver leverera för att fullgöra sitt åtagande enligt
 förlikningsavtalet. Icke-leveransen av dessa krav hade rätteligen utgjort hinder för acceptans
 av gymnasieetappen. Restlistans krav innehåller specificerade kravtexter från kommunen
 
@@ -9121,11 +9121,11 @@ som anger vilken funktion i Systemet som inte har levererats och som Gotit ska l
 kommunen. För leveranserna av funktionerna på restlistan gäller samma krav och rutiner för
 egenkontroll och acceptanskontroll som för alla andra leveranser enligt Avtalet.
 
-134.  De specifika åtgärder som anges i restlistan ska Gotit fullgöra inom de i listan stipulerade
+134\.  De specifika åtgärder som anges i restlistan ska Gotit fullgöra inom de i listan stipulerade
 tidsfristerna, vilka utgörs av sju delleveransdatum mellan den 4 december 2023 och den
 11 februari 2025.
 
-135.  Av restlistans 50 angivna krav har Gotit endast levererat och fått godkänt avseende 14.
+135\.  Av restlistans 50 angivna krav har Gotit endast levererat och fått godkänt avseende 14.
 Resterande 25 krav har Gotit inte levererat på avtalad tid. Följande krav som anges i
 restlistan har Gotit inte levererat avtalsenligt:
 
@@ -9138,20 +9138,20 @@ restlistan har Gotit inte levererat avtalsenligt:
 och
 − krav 2.5.18, 2.5.19, 2.5.04, 2.5.15, 3.3.05 och 5.3.08 med avtalad leveransdag den 10
 september 2024.
-136.  Genom att inte leverera de avtalade funktionerna enligt restlistan på avtalad tid har Gotit
+136\.  Genom att inte leverera de avtalade funktionerna enligt restlistan på avtalad tid har Gotit
 varit i dröjsmål med leveranserna. Gotits dröjsmål utgör avtalsbrott.
 
 F.1.2 Brister i leveransen den 18 september 2024 och dröjsmål
-137.  Den 18 september 2024 levererade Gotit systemet för förskola och grundskola. Gotits
+137\.  Den 18 september 2024 levererade Gotit systemet för förskola och grundskola. Gotits
 leverans avviker från avtalade krav, avtalade processer för införandeprojektet och Avtalet i
 övrigt.
 
-138.  De allmänna villkoren föreskriver att leverantören, innan denne bereder kommunen tillgång
+138\.  De allmänna villkoren föreskriver att leverantören, innan denne bereder kommunen tillgång
 till systemet för acceptanskontroll, ska ha kvalitetssäkrat detsamma genom egenkontroller.
 Egenkontrollen ska innefatta verifiering av att funktionskraven är uppfyllda, samt genomförda
 systemtester och integrationstester. Egenkontrollen ska utföras i den testmiljö som
 leverantören själv ansvarar för att tillhandahålla.19
-139.  Kommunens testning av Gotits leverans för acceptanskontroll skedde i såväl testmiljön som i
+139\.  Kommunens testning av Gotits leverans för acceptanskontroll skedde i såväl testmiljön som i
 den s.k. produktionsmiljön. Med produktionsmiljö avses den IT-miljö som innehåller – eller
 
 19 Se Bilaga C5 p. 8.2.
@@ -9167,21 +9167,21 @@ syfte att leverantörens egenkontroll ska vara meningsfull. Gotit har ansvarat f
 har alla integrationer som krävs för testning, se avsnitt 8.2 i de allmänna bestämmelserna,
 bilaga C5:
 
-140.  Testprotokollen över leverantörens egenkontroller ska överlämnas vid leveransen till
+140\.  Testprotokollen över leverantörens egenkontroller ska överlämnas vid leveransen till
 kommunen.20 Syftet med det är att kommunen med ledning av testprotokollen ska kunna
 verifiera att systemet har förutsättningar att uppnå vad som krävs för leveransgodkännande.
 
-141.  Fullständiga och felfria testprotokoll utgör alltså en del av vad som krävs för att leverantören
+141\.  Fullständiga och felfria testprotokoll utgör alltså en del av vad som krävs för att leverantören
 ska ha fullgjort sin leverans.
-142.  Kommunen har testat leveransen av den avtalade funktionaliteten för förskola och
+142\.  Kommunen har testat leveransen av den avtalade funktionaliteten för förskola och
 grundskola och har enligt avtalet gått igenom och försökt verifiera leveransens
 kravuppfyllnad med stöd av Gotits upprättade dokument för egenkontroll.
 
-143.  Kommunens tester visar att leveransen inte uppfyller de avtalade kraven. Kommunens tester
+143\.  Kommunens tester visar att leveransen inte uppfyller de avtalade kraven. Kommunens tester
 visar också att Gotit inte har genomfört sin egenkontroll på ett avtalsenligt sätt, samt att en
 del av kraven inte kan ha implementerats eller testats på det sätt som Gotit beskrivit i
 testfallen.
-144.  Föregående kan illustreras med ett exempel. Nedan följer Gotits testprotokoll beträffande det
+144\.  Föregående kan illustreras med ett exempel. Nedan följer Gotits testprotokoll beträffande det
 avtalade kravet 2.4.16:
 
 20 Bilaga C5 p. 8.3.
@@ -9190,20 +9190,20 @@ avtalade kravet 2.4.16:
 
 <!-- sida 212 -->
 
-145.  Nedan följer till vänster kommunens notering vid kommunens testning av kravet i
+145\.  Nedan följer till vänster kommunens notering vid kommunens testning av kravet i
 produktionsmiljön, och till höger kommunens slutsats:
 
-146.  Det som kommunen har konstaterat när kommunen försökt reproducera testet, är alltså att
+146\.  Det som kommunen har konstaterat när kommunen försökt reproducera testet, är alltså att
 det inte ens finns en funktion i Systemets gränssnitt för att ange ett stoppdatum. Det måste
 således ha varit omöjligt för Gotit att testa kravet. Alternativt har Systemet modifierats sedan
 Gotit testade kravet, på så vis att funktionen för att sätta stoppdatum har tagits bort.
 
-147.  Av de 281 krav som gäller för införandet av förskola och grundskola är 162 krav inte
+147\.  Av de 281 krav som gäller för införandet av förskola och grundskola är 162 krav inte
 godkända då avtalad funktionalitet inte finns överhuvudtaget eller inte uppfyller kraven.
 Ytterligare 44 krav är inte testbara eller underkända då det inte är möjligt att verifiera att
 kravet är uppfyllt. Efter kommunens testning förefaller endast 75 krav vara korrekt
 implementerade, vilket utgör cirka 27 procent av kraven.
-148.  En generell och grundläggande brist är att så gott som samtliga test inom ramen för
+148\.  En generell och grundläggande brist är att så gott som samtliga test inom ramen för
 egenkontrollen som Gotit beskrivit som utförda i de överlämnade testprotokollen saknar en
 beskrivning av ett faktiskt utfall ens för de typer av test som är ett minimikrav och
 obligatoriska enligt avtalet, dvs verifiering av kravställd funktion, systemtest och
@@ -9217,7 +9217,7 @@ behörigheterna i systemet för exempelvis en ekonomiadministratör så att beh�
 inte senare omöjliggör användning av funktioner som fungerade när Gotit testade med
 fullständig behörighet.
 
-149.  Följande krav är testade med underkänt resultat: 2.2.01, 2.2.02, 2.2.04, 2.2.05, 2.2.07,
+149\.  Följande krav är testade med underkänt resultat: 2.2.01, 2.2.02, 2.2.04, 2.2.05, 2.2.07,
 2.2.11, 2.2.12, 2.2.14, 2.2.38, 2.2.39, 2.2.40, 2.3.01, 2.3.02, 2.3.04, 2.3.05, 2.3.06, 2.3.08,
 2.3.09, 2.3.12, 2.3.14, 2.3.15, 2.3.19, 2.3.22, 2.3.23, 2.3.24, 2.3.25, 2.3.26, 2.3.27, 2.3.28,
 2.3.30, 2.3.31, 2.3.32, 2.3.34, 2.3.36, 2.3.37, 2.3.38, 2.3.39, 2.3.40, 2.3.41, 2.3.42, 2.3.43,
@@ -9238,34 +9238,34 @@ fullständig behörighet.
 B4.3, B4.5, 2.2.18, 2.2.21, 2.2.22, 2.2.23, 2.2.25, 2.2.26, 2.2.42, 2.2.45, 2.2.46, 2.2.47,
 2.2.48, 2.2.49, 2.2.50 och 2.2.51.21
 
-150.  Följande krav är inte testbara eller är underkända då protokollen från egenkontrollen inte
+150\.  Följande krav är inte testbara eller är underkända då protokollen från egenkontrollen inte
 påvisar att Gotit gjort egenkontroll i testmiljön avseende i vart fall verifiering av att
 funktionskraven är uppfyllda, genomförda systemtester och integrationstester: 2.2.20, 2.2.24,
 2.2.27, 2.2.28, 3.2.01, 3.2.02, 3.2.03, 3.2.04, 3.3.01, 3.3.02, 3.3.03, 3.3.04 a, 3.3.04 b,
 3.3.04 c, 3.3.04 d, 4.1.18, 4.1.20, 4.1.21, 4.1.22, 4.1.27, 4.1.37, 5.1.20 b, 5.2.01, 5.2.09,
 5.3.07, 5.3.10, 5.3.12, 5.3.14, 5.3.17, 5.3.18, 5.3.20, 5.3.25, 5.3.27, 5.3.30, 5.3.31, 5.3.34,
 5.3.35, 5.3.36, 5.4.01, 5.4.04, 5.4.05, 5.4.07, 5.4.11 och 5.4.12.22
-151.  Gotit har lämnat oriktiga uppgifter i protokollen för egenkontroll som kommunen
+151\.  Gotit har lämnat oriktiga uppgifter i protokollen för egenkontroll som kommunen
 tillhandahållit. Gotit har i protokollen anfört att funktionalitet som överhuvudtaget inte är
 tillgängligt i testmiljön eller i produktionsmiljön, har testats. Gotit har sagt sig genomfört tester
 av avtalade krav med godkänt resultat som sedan varit omöjliga för kommunen att
 reproducera. Gotit har angett att ett krav är godkänt genom utförandet av ett test som inte
 alls eller endast i delar testar den avtalade funktionaliteten för det aktuella kravet.
 
-152.  Gotits brister i egenkontrollerna utgör avtalsbrott som är ägnade att försvåra kommunens
+152\.  Gotits brister i egenkontrollerna utgör avtalsbrott som är ägnade att försvåra kommunens
 uppföljning av Gotits leverans.
-153.  Ofullständiga eller bristfälliga testprotokoll över egenkontrollen medför automatiskt att
+153\.  Ofullständiga eller bristfälliga testprotokoll över egenkontrollen medför automatiskt att
 Systemet avviker från de avtalade kraven, och utgör enligt uttrycklig föreskrift alltid grund för
 underkännande av leveransen.23
 
 F.1.3 Anteciperad ytterligare försening avseende förskola och grundskola
 
-154.  Som framgått var endast 27 procent av de 281 krav som skulle vara uppfyllda, korrekt
+154\.  Som framgått var endast 27 procent av de 281 krav som skulle vara uppfyllda, korrekt
 implementerade vid leveransen den 18 september 2024. I denna del hänvisas till utveckling
 av talan ovan i avsnitt F.1.2. Att 73 procent av leveransen kvarstod i icke avtalat skick trots
 fyra års utveckling innebar att det stod klart att det var omöjligt för Gotit att omleverera inom
 skälig tid.
-155.  Gotit har också själva förklarat att de överskattat sin förmåga och inte skulle kunna leverera i
+155\.  Gotit har också själva förklarat att de överskattat sin förmåga och inte skulle kunna leverera i
 tid.
 
 21 Se Bilaga 3 – Resultat av kommunens kontroll av leverans den 18 september 2024.
@@ -9276,7 +9276,7 @@ tid.
 
 <!-- sida 214 -->
 
-156.  Vid ett möte den 3 maj 2024 rörande status på leveransen för förskola och grundskola
+156\.  Vid ett möte den 3 maj 2024 rörande status på leveransen för förskola och grundskola
 uttryckte kommunen återigen sin oro för Gotits leveransförmåga. Peter Dal på kommunen
 uttalade då, vilket citeras i anteckningarna från mötet:24
 
@@ -9288,43 +9288,43 @@ Andreas Öhman på Gotit svarade:
 
 Jag håller delvis med dig och jag kan faktiskt inte svara på det du säger. Jag kan inte ge mer
 trygghet idag.
-157.  Samtalet fortsatte och Anna Hedlund på kommunen ifrågasatte Gotits hantering av
+157\.  Samtalet fortsatte och Anna Hedlund på kommunen ifrågasatte Gotits hantering av
 tidsplanen:
 
 Vi förstår inte varför ni skjuter på tidsplanen och ställer in viktiga möten och sedan sitter i ett
 sånt här möte och säger att allt är bra. För oss så framstår det som att det är något som är
 väldigt fel.
-158.  Andreas Öhman svarade att Gotit överskattat sin förmåga att leverera enligt avtalade krav:
+158\.  Andreas Öhman svarade att Gotit överskattat sin förmåga att leverera enligt avtalade krav:
 
 Vår uppfattning är att det dolde sig en rymdraket i upphandlingen som vi inte har tagit höjd för.
-159.  Med att det ”dolde sig en rymdraket i upphandlingen” avsåg Andreas Öhman att kommunens
+159\.  Med att det ”dolde sig en rymdraket i upphandlingen” avsåg Andreas Öhman att kommunens
 krav var mer komplexa att uppfylla än vad Gotit hade förstått.
 
-160.  Den 23 augusti 2024 hade kommunen och Gotit ett planerat möte för att gå igenom status
+160\.  Den 23 augusti 2024 hade kommunen och Gotit ett planerat möte för att gå igenom status
 på samtliga krav. Kraven gicks igenom ett och ett och Gotit rapporterade status på kravet.
 Kommunen förde under mötet löpande anteckningar på storbildsskärm i en Excelfil rörande
 status på utvecklingen, baserat på Gotits input. Mötet fortsatte även den 26 augusti.
-161.  På mötena mellan kommunen och Gotit den 23 och 26 augusti 2024 framgick att Gotit inte
+161\.  På mötena mellan kommunen och Gotit den 23 och 26 augusti 2024 framgick att Gotit inte
 ens påbörjat arbetet avseende ett antal krav, att ytterligare en stor mängd krav inte var
 färdiga för test, att ett antal krav därutöver inte skulle testas alls före driftsättning och att
 Gotit inte hade för avsikt att leverera ett antal krav på Avtalad Leveransdag utan redan vid
 denna tidpunkt planerade för en senare leverans.25
 
-162.  Följande framkom i mer detalj. 27 krav (ca 10 procent av totalen) meddelade Gotit att Gotit
+162\.  Följande framkom i mer detalj. 27 krav (ca 10 procent av totalen) meddelade Gotit att Gotit
 inte påbörjat arbetet med. Vissa av dessa krav meddelade Gotit att Gotit inte ens planerade
 att försöka få klart till Avtalad Leveransdag utan planerade att färdigställa dessa i december
 2024 eller februari 2025 (exempelvis krav 3.3.08, 4.1.46, 5.1.11, 5.3.15 och 5.3.24). Gotit
 meddelade också att Gotit ”inte vet” när den för systemet centrala funktionaliteten avseende
 individuell studieplan för elev på grundskola kommer att vara färdig (krav 2.4.18–19).
 Detsamma gäller för ett antal ytterligare krav.
-163.  34 krav (ca 12 procent av totalen) meddelade Gotit var delvis färdiga.
+163\.  34 krav (ca 12 procent av totalen) meddelade Gotit var delvis färdiga.
 
-164.  Avseende kvarvarande arbete kunde Gotit inte beskriva vad som kvarstod för att uppfylla
+164\.  Avseende kvarvarande arbete kunde Gotit inte beskriva vad som kvarstod för att uppfylla
 kravet eller nuvarande status. Färdigställandetidpunkten angavs nästan uteslutande till ”vet
 inte” eller ”skarp drift”. När funktionaliteten skulle kunna testas visste inte Gotit heller. Särskilt
 oroväckande ansåg kommunen det vara att ett antal krav rörande ekonomikörningarna inte
 var färdiga, trots att dessa skulle varit färdiga för test under våren 2024.
-165.  Vidare fanns inte timplaner eller grundskolans samtliga ämnen i systemet och det fanns
+165\.  Vidare fanns inte timplaner eller grundskolans samtliga ämnen i systemet och det fanns
 enligt Gotits uppgifter ingen funktion för att skapa centrala timplaner, vilket behövs för att
 
 24 Bilaga 31 – Anteckningar från halvtidsavstämning den 3 maj 2024.
@@ -9339,52 +9339,52 @@ av Gotit angavs var ”delvis färdiga krav” uppgav Gotit att flera av dem sku
 december 2024, däribland B4.2, 4.4 och B4.5. Det innebär att Gotit medvetet planerade för
 en leverans i dröjsmål efter avtalad leveransdag.
 
-166.  4 av kraven kunde Gotit inte alls lämna besked om status på. Det omfattade bland annat de
+166\.  4 av kraven kunde Gotit inte alls lämna besked om status på. Det omfattade bland annat de
 centrala kraven på om systemet var konstruerat för att klara tilltänkt belastning (3.2.02) och
 stöd för autentisering i systemets API (4.1.21).
-167.  Avseende de krav som Gotit påstod var färdiga var 83 krav inte ens tillgängliga i testmiljön.
+167\.  Avseende de krav som Gotit påstod var färdiga var 83 krav inte ens tillgängliga i testmiljön.
 
-168.  Detta var endast veckor före Gotits leverans den 18 september 2024. Det som då framkom
+168\.  Detta var endast veckor före Gotits leverans den 18 september 2024. Det som då framkom
 bekräftade kommunens farhågor från mitten på augusti och visade att Gotits egna farhågor
 om oförmågan att leverera, var korrekta.
-169.  Gotit hade därutöver i de löpande mötena med kommunen dessförinnan förklarat att Gotit,
+169\.  Gotit hade därutöver i de löpande mötena med kommunen dessförinnan förklarat att Gotit,
 trots att dagen för driftsättning flyttats fram med sju månader, inte kunde uppfylla ett antal
 Avtalade Krav. Dessa uttalanden har främst gjorts i förhållande till de krav som rör systemets
 API samt inkomstkontrollen men har också omfattat andra krav.
 
 F.1.4 Avvikelser från införandeplanen för förskola och grundskola
-170.  Efter diskussioner mellan kommunen och Gotit under sommaren 2023 kom parterna överens
+170\.  Efter diskussioner mellan kommunen och Gotit under sommaren 2023 kom parterna överens
 om en ny införandeplan för förskola/grundskola, daterad den 13 september 2023, Bilaga C3.
 Enligt införandeplanen skulle driftsättningen av etappen avseende förskola/grundskola ske
 den 15 februari 2024.
 
-171.  Vid projektmöte den 9 januari 2024 där företrädare för kommunen och Gotit närvarade
+171\.  Vid projektmöte den 9 januari 2024 där företrädare för kommunen och Gotit närvarade
 frågade kommunen varför arbetet med ekonomikörningar stod stilla och hur testningen av
 etappen avseende förskola/grundskola skulle hinna färdigt till driftsättningen den 15 februari
-2024. Gotit uppgav att Gotit arbetade med att hålla tiden för driftsättning och att Gotit ska
+2024\. Gotit uppgav att Gotit arbetade med att hålla tiden för driftsättning och att Gotit ska
 hitta ett datum för att kommunen ska hinna testa systemet innan driftsättning, Bilaga 33.
-172.  Senare samma dag meddelade Gotit per e-post att driftsättningen skulle flyttas fram, vilket
+172\.  Senare samma dag meddelade Gotit per e-post att driftsättningen skulle flyttas fram, vilket
 utvecklades av Gotit i e-postmeddelande av den 15 januari 2024, Bilaga 34 och 35.
 Kommunen fick del av Gotits nya införandeplan den 20 februari 2024, Bilaga 36. I den nya
 planen hade Gotit flyttat fram driftsättningen av förskola/grundskola till den 18 september
 2024, dvs. sju månader senare.
 
-173.  Kommunen godkände inte det förslag Gotit lämnade. För att en ny införandeplan på förslag
+173\.  Kommunen godkände inte det förslag Gotit lämnade. För att en ny införandeplan på förslag
 från Gotit ska vara gällande, krävs kommunens godkännande. Det anges i Förlikningsavtalet
 att en detaljerad planering av införandeplanen för förskola/grundskola ska överenskommas
 efter förslag från Gotit. Då kommunen inte godkänt föreslagen införandeplan har den tidigare
 avtalade införandeplanen därför alltjämt varit gällande mellan parterna.
-174.  Gotit har alltså ensidigt frångått den avtalade införandeplanen för förskola/grundskola. Gotit
+174\.  Gotit har alltså ensidigt frångått den avtalade införandeplanen för förskola/grundskola. Gotit
 har ensidigt skjutit upp planerad leverans från den 15 februari 2024 till den 18 september
-2024. Kommunen har inte godkänt framflyttningen av driftsättningen och än mindre
+2024\. Kommunen har inte godkänt framflyttningen av driftsättningen och än mindre
 instruerat Gotit att flytta fram driftsättningen. Kommunen har heller inte varit orsaken till
 förseningen. Kommunen protesterade mot Gotits ej godkända införandeplan bland annat i
 brev av den 1 mars 2024.
 
-175.  Enligt införandeplanen av den 13 september 2023 som varit gällande mellan parterna skulle
+175\.  Enligt införandeplanen av den 13 september 2023 som varit gällande mellan parterna skulle
 Gotit under perioden fram till driftsättningen genomföra simulerade testflöden av systemets
 ekonomiberäkningar, så kallade ”ekonomikörningar”.
-176.  Gotit har utan kommunens godkännande frångått parternas överenskommelse avseende
+176\.  Gotit har utan kommunens godkännande frångått parternas överenskommelse avseende
 testning och verifiering. Parterna enades den 2 maj 2023 om att Gotit skulle färdigställa
 
 27
@@ -9396,43 +9396,43 @@ Detta i syfte att ekonomikörningarna noggrant skulle testas igenom och godkänn
 har också enats om att kommunen skulle ges möjlighet att verifiera och godkänna Gotits
 inläsning och konvertering av data före leveransen den 18 september 2024.
 
-177.  För kommunen har en avgörande förutsättning för driftsättning varit att ekonomikörningarnas
+177\.  För kommunen har en avgörande förutsättning för driftsättning varit att ekonomikörningarnas
 funktionalitet testats genom simulerade testflöden, och att funktionaliteten säkerställts och
 verifierats. Dessa tester har varit obligatoriska delar av införandeplanen och ska alltså vara
 utförda innan Gotits egenkontroll. Att just ekonomikörningarna har varit föremål för en mer
 omfattande riskhantering beror på att endast mindre, ibland till synes obetydliga avvikelser
 från de avtalade beräkningsreglerna, leder till konsekvenser som i många fall är såväl
 allvarliga som irreversibla för kommunen.
-178.  Gotit har inte följt den avtalade införandeplanen för förskola och grundskola och inte efterlevt
+178\.  Gotit har inte följt den avtalade införandeplanen för förskola och grundskola och inte efterlevt
 parternas överenskommelse vad gäller testning och verifiering. Gotits agerande innebär ett
 avtalsbrott.
 
 F.2   Fel i driften och brister i upprätthållande av avtalade processer och rutiner för
 förvaltningsåtagandet
 
-179.  Av Avtalet framgår vad Gotits skyldigheter enligt förvaltningsåtagandet innebär. Där framgår
+179\.  Av Avtalet framgår vad Gotits skyldigheter enligt förvaltningsåtagandet innebär. Där framgår
 särskilt kraven på incidenthantering och vissa särskilda förvaltningsprocesser.
-180.  Med incident avses vid IT-drift ett oplanerat avbrott i hela eller delar av systemet, eller en
+180\.  Med incident avses vid IT-drift ett oplanerat avbrott i hela eller delar av systemet, eller en
 reduktion av kvaliteten hos systemet. Vid en långvarig IT-drift är det mer eller mindre
 oundvikligt att sådana avbrott förekommer. När en leverantör har ett driftsåtagande
 avseende systemet är det normalt så att leverantören ansvarar för att åtgärda incidenter
 inom viss tid, beroende på hur allvarlig incidenten är.
 
-181.  Leverantören ska åtgärda incidenten oavsett om den beror på ett förhållande som
+181\.  Leverantören ska åtgärda incidenten oavsett om den beror på ett förhållande som
 leverantören ansvarar för (ett fel eller en brist i systemet), eller om den beror på något som
 beställaren ansvarar för, exempelvis tredjepartsprodukter eller ändringar som beställaren
 gjort.
-182.  Om en incident beror på ett förhållande som leverantören ansvarar för, utgår ett prisavdrag
+182\.  Om en incident beror på ett förhållande som leverantören ansvarar för, utgår ett prisavdrag
 för leverantörens driftåtagande, och åtgärdandet av incidenten ska i sådant fall ske utan
 kostnad för beställaren. Om incidenten däremot beror på något som beställaren ansvarar för,
 utgår inget prisavdrag för driftåtagandet och leverantören har i stället rätt till ersättning för sitt
 arbete med att felsöka och åtgärda incidenten. Förekomsten av incidenter utgör alltså inte i
 sig fel, även om de kan bero på fel i systemet.
 
-183.  Om leverantören inte klarar att leverera den tillgänglighet och den incidenthantering som
+183\.  Om leverantören inte klarar att leverera den tillgänglighet och den incidenthantering som
 avtalats kan det utgöra ett fel i leverantörens förvaltningsåtagande, vilket berättigar
 beställaren till prisavdrag, eller ytterst hävning av avtalet.
-184.  Gotit har etablerat en rutin för incidenthantering som avviker från den avtalade. Skillnaderna
+184\.  Gotit har etablerat en rutin för incidenthantering som avviker från den avtalade. Skillnaderna
 mellan vad som framgår av Avtalet och Gotits rutin framgår av matrisen nedan.27
 
 26 Bilaga 37 - Protokoll vid veckoavstämning den 2 maj 2023.
@@ -9458,16 +9458,16 @@ mellan vad som framgår av Avtalet och Gotits rutin framgår av matrisen nedan.2
 
 <!-- sida 218 -->
 
-185.  Vid en jämförelse av den avtalade rutinen för incidenthantering, och den rutin Gotit försökt få
+185\.  Vid en jämförelse av den avtalade rutinen för incidenthantering, och den rutin Gotit försökt få
 kommunen att acceptera och använda, är det uppenbart att Gotits version innebär en
 betydande ansvarsförskjutning till kommunens nackdel och till Gotits förmån.
-186.  Sedan Systemet avseende gymnasiet togs i drift den 29 augusti 2023 har 299 incidenter
+186\.  Sedan Systemet avseende gymnasiet togs i drift den 29 augusti 2023 har 299 incidenter
 rapporterats. Antalet öppna incidenter har kontinuerligt ökat. Sedan kommunen började föra
 statistik över antalet öppna incidenter i februari 2024 har fler incidenter inträffat och
 rapporterats än vad Gotit har förmått att lösa. Incidenterna beror på allvarliga och väsentliga
 fel i den levererade funktionaliteten.
 
-187.  Incidenterna har kommit att utgöra ett allvarligt arbetsmiljöproblem i gymnasieskolan. De har
+187\.  Incidenterna har kommit att utgöra ett allvarligt arbetsmiljöproblem i gymnasieskolan. De har
 bland annat medfört att personalen har behövt upprätta i – normalfallet automatiskt
 genererad eller bearbetad dokumentation – manuellt, och att felaktigt data uppstått i
 Systemet som personalen behövt kontrollera och korrigera. Arbetet med korrektur och
@@ -9489,7 +9489,7 @@ avtalsenlig leverans.
 
 <!-- sida 219 -->
 
-188.  Av Avtalet framgår att incidenter ska avhjälpas när de rapporteras av kommunen, och att det
+188\.  Av Avtalet framgår att incidenter ska avhjälpas när de rapporteras av kommunen, och att det
 är kommunens uppfattning av incidentens allvar som äger företräde under tiden incidenten
 pågår. Huruvida den rapporterade incidenten slutligt är Gotits ansvar bestäms senare och
 kan generera mer ersättning till Gotit om Gotit avhjälpt en incident utanför Gotits ansvar.
@@ -9498,42 +9498,42 @@ incidenten och inte avhjälpt incidenten. Sex av de inträffade incidenterna har
 genom att rubricera om till ”önskemål”. Genom att inte avhjälpa rapporterade incidenter i
 enlighet med avtalade krav på incidenthantering har Gotit begått avtalsbrott.
 
-189.  Av Bilaga C4 Förvaltningsplan framgår vidare att Gotit är skyldigt att för inträffade incidenter
+189\.  Av Bilaga C4 Förvaltningsplan framgår vidare att Gotit är skyldigt att för inträffade incidenter
 genomföra en problemlösningsprocess med rotorsaksanalys inom sex veckor, för alla
 problem som genererat incidenter med prioritet Brådskande eller Hög. Gotit har varken
 genomfört rotorsaksanalyser eller implementerat slutliga rättningar och har varken redovisat
 eller implementerat några problemlösningar. Detta trots att kommunen har rapporterat 65
 incidenter av prioriteringsgraden Brådskande eller Hög.
-190.  Av Avtalet framgår att Gotit ska redovisa sitt incidenthanteringsarbete och hur denna
+190\.  Av Avtalet framgår att Gotit ska redovisa sitt incidenthanteringsarbete och hur denna
 redovisning ska utföras. Syftet med redovisningen är att åstadkomma en kontinuerlig
 mätning av Gotits uppfyllande av sitt förvaltningsåtagande. Redovisningen ligger till grund för
 månadsavgiften enligt förvaltningsåtagandet enligt de allmänna bestämmelserna till
 huvudavtalet och enligt förlikningsavtalet. En förutsättning för att rätt prisavdrag ska kunna
 utgå vid bristande tillgänglighet är att redovisningen sköts av Gotit på ett avtalsenligt sätt.
 
-191.  Gotit har felaktigt rapporterat att tillgängligheten varit 100-procentig och att inga problem
+191\.  Gotit har felaktigt rapporterat att tillgängligheten varit 100-procentig och att inga problem
 förekommit i driften, trots att flertalet kritiska funktioner inte varit tillgängliga under den
 månad vilken rapporteringen avser. Kritiska funktioner som inte varit fungerande är
 ekonomiberäkningar, betyg, systemets svarstider, låsningar och utloggningar ur systemet
 och åtkomst till elevunderlag.
-192.  Gotits underlåtenhet att rapportera brister i Systemet är direkt vilseledande och har medfört
+192\.  Gotits underlåtenhet att rapportera brister i Systemet är direkt vilseledande och har medfört
 att ett för lågt prisavdrag har redovisats, vilket utgör ett avtalsbrott.
 
-193.  Gotit har underlåtit att återrapportera status i andra fall än då kommunen efterfrågat
+193\.  Gotit har underlåtit att återrapportera status i andra fall än då kommunen efterfrågat
 återrapportering och har inte följt start- och sluttid för analys och åtgärd. Vid ett flertal
 tillfällen (exempelvis SP-1089 och SP-1093) har återrapportering dröjt eller uteblivit även när
 kommunen uttryckligen efterfrågat denna.
 
 F.3   Underlåtenhet att upprätthålla skyddsnivåer för lagrad information, särskilt
 personuppgifter
-194.  Skyddade personuppgifter utgör ett av de mest känsliga områdena inom offentlig förvaltning,
+194\.  Skyddade personuppgifter utgör ett av de mest känsliga områdena inom offentlig förvaltning,
 särskilt i en kommunal skolkontext. För kommunen är det en av verksamhetens högst
 prioriterade funktioner att skydda identiteten hos elever, barn, vårdnadshavare och personal
 som omfattas av särskilda skyddsåtgärder. Det handlar om individer som är utsatta för hot,
 våld eller annan form av allvarlig risk, och som därför har fått skyddade personuppgifter
 enligt beslut från Skatteverket.
 
-195.  Skyddade personuppgifter är ett samlingsbegrepp som omfattar tre nivåer av skydd:
+195\.  Skyddade personuppgifter är ett samlingsbegrepp som omfattar tre nivåer av skydd:
 • Sekretessmarkering, vilket innebär att en sekretessprövning måste göras innan
 
 folkbokföringsuppgifter lämnas ut.
@@ -9547,7 +9547,7 @@ nytt namn och personnummer, i syfte att skydda liv, hälsa eller frihet.
 
 <!-- sida 220 -->
 
-196.  Det juridiska ramverket kring hantering av skyddade personuppgifter är omfattande.
+196\.  Det juridiska ramverket kring hantering av skyddade personuppgifter är omfattande.
 Offentlighets- och sekretesslagen (OSL) reglerar sekretessprövningen (bland annat i 21 kap.
 3 §, 22 kap. 1 a § och 23 kap. 2 §), och enligt Dataskyddsförordningen (GDPR), artikel
 5(1)(f) och artikel 16, ska personuppgifter skyddas mot obehörig åtkomst och rättas om fel
@@ -9557,43 +9557,43 @@ verksamheten i enlighet med gällande regler och lagar. I Arkivlagen (t.ex. 4, 5
 uppställs grundläggande krav på kommunens arkivvård, till möjliggörande av bl.a.
 föreskriven gallring.
 
-197.  Kommunens skyldighet är därmed dubbel: dels att skydda individers integritet och säkerhet,
+197\.  Kommunens skyldighet är därmed dubbel: dels att skydda individers integritet och säkerhet,
 dels att säkerställa att dess tekniska system och organisatoriska rutiner uppfyller
 lagstadgade krav. Det innefattar behörighetsstyrning, regelbunden personalutbildning,
 tydliga rutinbeskrivningar, samt fungerande och uppdaterade digitala system, inklusive
 gallring och arkivering.
 F.3.1 Avtalade krav
 
-198.  Gotit har enligt Avtalet bland annat nedan angivna skyldigheter vad gäller skyddsnivåer för
+198\.  Gotit har enligt Avtalet bland annat nedan angivna skyldigheter vad gäller skyddsnivåer för
 lagrad information.
-199.  Systemet skulle bland annat kunna hämta uppgifter från folkbokföringen samt kontrollera om
+199\.  Systemet skulle bland annat kunna hämta uppgifter från folkbokföringen samt kontrollera om
 personer omfattas av skyddade personuppgifter, enligt krav 2.2.40 i Bilaga C1:
 
-200.  Krav 4.1.11 i Bilaga C1 anger vidare ytterligare krav på hur personer med skyddade
+200\.  Krav 4.1.11 i Bilaga C1 anger vidare ytterligare krav på hur personer med skyddade
 personuppgifter ska hanteras:
 
-201.  Enligt 7.2.3 i Förvaltningsplanen gäller också att Gotit ska ha dokumenterade rutiner för
+201\.  Enligt 7.2.3 i Förvaltningsplanen gäller också att Gotit ska ha dokumenterade rutiner för
 hantering av eventuella avvikelser
 
 32
 
 <!-- sida 221 -->
 
-202.  Vidare finns följande avtalade skyldigheter:
+202\.  Vidare finns följande avtalade skyldigheter:
 
 F.3.2 Konstaterade brister
-203.  Gotit har inte upprätthållit skyddsnivåerna för lagrad information i enlighet med Gotits
+203\.  Gotit har inte upprätthållit skyddsnivåerna för lagrad information i enlighet med Gotits
 skyldigheter enligt ovan. Gotit har inte heller åtgärdat bristerna efter kommunens
 uppmaningar.
 
-204.  Trots tydliga avtalade krav och lagstadgade skyldigheter har det inträffat ett antal allvarliga
+204\.  Trots tydliga avtalade krav och lagstadgade skyldigheter har det inträffat ett antal allvarliga
 incidenter där Systemet inte klarat att hantera skyddade personuppgifter på korrekt sätt.
 Återkommande fel har uppstått i både registrering och borttagning av skydd, samt i det
 tekniska skyddet för att förhindra att känsliga uppgifter sprids till andra system.
-205.  Gotits underlåtenhet att upprätthålla och åtgärda bristande skyddsnivåerna för lagrad
+205\.  Gotits underlåtenhet att upprätthålla och åtgärda bristande skyddsnivåerna för lagrad
 information har resulterat i följande incidenter:28
 
-- Vid en sökning på ”sekretess” har samtliga sekretesskyddade elever listats. Vid visning
+\- Vid en sökning på ”sekretess” har samtliga sekretesskyddade elever listats. Vid visning
 av dessa elevers grunduppgifter framgått elevens namn i fältet för e-post samt koppling
 till vårdnadshavare. Incidenten har rapporterats till Gotit i rapport skapad 2024-09-05
 
@@ -9617,14 +9617,14 @@ till vårdnadshavare. Incidenten har rapporterats till Gotit i rapport skapad 20
 med ärendenummer SP-1109. Incidenten rapporterades även till
 Integritetsskyddmyndigheten som en personuppgiftsincident (Bilaga 38).
 
-- Sekretesskyddade elever har kommit med i fakturaunderlag. Incidenten har varit
+\- Sekretesskyddade elever har kommit med i fakturaunderlag. Incidenten har varit
 återkommande. Incidenten har rapporterats till Gotit i rapport skapad 2024-09-24 med
 ärendenummer SP-1172.
-- Sekretesskyddade elevers identitet har röjts i systemlogg för användare som ej har
+\- Sekretesskyddade elevers identitet har röjts i systemlogg för användare som ej har
 behörighet att se sekretesskyddade elever. Incidenten har rapporterats till Gotit i rapport
 skapad 2024-09-24 med ärendenummer SP-1174.
 
-- Sekretess slår inte igenom på sekretesskyddade elever som läggs in i Skolplatsen.
+\- Sekretess slår inte igenom på sekretesskyddade elever som läggs in i Skolplatsen.
 Eleven var sekretesskyddad men blev inte sekretesskyddad i systemet. Då detta inte
 fungerade valde Gotit att manuellt döpa om eleven och använda sig utav ett TF-
 nummer, elevens användaruppgifter gick inte att ändra under grundinställningar. Gotits
@@ -9632,10 +9632,10 @@ lösningsförsök innefattade skapandet av pseudonymen ”Anna Panna” som läs
 klasslistor, ekonomikörningar, kringliggande system m.m. Incidenten har rapporterats till
 Gotit i rapporter skapade 2024-09-09 med ärendenummer SP-1113 och 2024-09-10
 med ärendenummer SP-1122.
-- Omöjligt att manuellt häva sekretesskydd vid fel i indata. Incidenten har rapporterats till
+\- Omöjligt att manuellt häva sekretesskydd vid fel i indata. Incidenten har rapporterats till
 Gotit i rapport skapad 2024-08-20 med ärendenummer SP-1055.
 
-- Sekretesskydd lästes felaktigt från integrationer där elever som har sekretess angetts
+\- Sekretesskydd lästes felaktigt från integrationer där elever som har sekretess angetts
 med fullständiga uppgifter, fullt tillgängligt för alla användare av systemet. Felet
 inträffade den 14 augusti 2024 men 30 september hade grundproblemet alltjämt inte
 identifierats eller lösts. Kommunens administratörer har alltså behandlat personen med
@@ -9643,87 +9643,87 @@ sekretess på korrekt sätt men systemet har inte registrerat personen med skydd
 korrekt sätt, detta har gjort att eleven var sökbar även i inaktivitet vilket resulterat i att
 man fått ta bort eleven helt ur systemet och behandla den helt manuellt. Incidenten har
 rapporterats till Gotit i rapport skapad 2024-08-14 med ärendenummer SP-1032.
-- Sekretesskydd kunde inte upphävas. En elev hade tidigare haft sekretesskydd men
+\- Sekretesskydd kunde inte upphävas. En elev hade tidigare haft sekretesskydd men
 sekretesskyddet har upphört (enligt Skatteverket). Sekretesskyddet gick inte att manuellt
 upphäva i systemet, varken i grunduppgifterna eller elevens grunduppgifter. Gotit blev
 kontaktat per telefon och uppgav att inte heller Gotit kunde upphäva sekretessen
 (ärendet registrerades inte av Gotit och problemet kvarstår). Incidenten har rapporterats
 till Gotit i rapport skapad 2024-08-12 med ärendenummer SP-1020.
 
-- Skyddade elevers uppgifter syns för obehöriga användare i systemloggen. Incidenten
+\- Skyddade elevers uppgifter syns för obehöriga användare i systemloggen. Incidenten
 har rapporterats till Gotit flera gånger, i rapporter skapade 2024-09-24 och 2024-10-01
 med ärendenummer SP-1174 respektive SP-1192.
-- Sekretess slog inte igenom på sekretesskyddad personal som läggs in i Skolplatsen.
+\- Sekretess slog inte igenom på sekretesskyddad personal som läggs in i Skolplatsen.
 Personens skyddade ID slog igenom när personen gått vidare via integration till
 Skolverkets provplattform. Detta innebar bland annat att personen har legat utan skydd i
 Skolplatsen och samtliga integrationer m.m. Någon lösning har inte presenterats.
 
 Incidenten har rapporterats till Gotit i rapport skapad 2024-10-15 med ärendenummer
 SP-1217.
-- Elev skrivs in i systemet men sekretessen slår inte igen och eleven skapas inte korrekt.
+\- Elev skrivs in i systemet men sekretessen slår inte igen och eleven skapas inte korrekt.
 Incidenten har rapporterats till Gotit i rapport skapad 2024-01-31 med ärendenummer
 SP-673.
-- Sekretesskyddade elever kommer med i fakturaunderlag. Incidenten har rapporterats till
+\- Sekretesskyddade elever kommer med i fakturaunderlag. Incidenten har rapporterats till
 Gotit i rapport skapad 2024-01-12 med ärendenummer SP-636.
-- Sekretesskyddade elever kommer med i ekonomiberäkningar. Incidenten har
+\- Sekretesskyddade elever kommer med i ekonomiberäkningar. Incidenten har
 rapporterats till Gotit i rapport skapad 2023-09-27 med ärendenummer SP-428.
 
 34
 
 <!-- sida 223 -->
 
-206.  Gotit har brustit i sin hantering av behörigheter genom att inte säkerställa korrekta
+206\.  Gotit har brustit i sin hantering av behörigheter genom att inte säkerställa korrekta
 behörigheter i systemet, vilket resulterat i att personal på förskola och grundskola beretts
 tillgång till all data för gymnasiet och personal på gymnasiet beretts tillgång till all data för
 förskola och grundskola. Gotits bristande hantering av behörigheter har medfört
 personuppgiftsincidenter där uppgifter oavsiktligt röjts för obehörig personal inom
 kommunen.
 
-207.  Gotit har för kommunen inte kunnat förklara varför incidenterna inträffat och inte heller
+207\.  Gotit har för kommunen inte kunnat förklara varför incidenterna inträffat och inte heller
 kunnat säkerställa att incidenterna inte kommer upprepas.
-208.  Gotits underlåtenhet att upprätthålla skyddsnivåerna för lagrad information i enlighet med
+208\.  Gotits underlåtenhet att upprätthålla skyddsnivåerna för lagrad information i enlighet med
 Gotits skyldigheter enligt Avtalet samt att Gotit inte heller åtgärdat bristerna efter
 kommunens uppmaningar utgör avtalsbrott.
 
 F.4   Otillåten dataöverföring
 
-209.  Utvecklas inte av kommunen för närvarande.
+209\.  Utvecklas inte av kommunen för närvarande.
 
 F.5   Förtida nedstängning av systemet den 6 december 2024
-210.  Utvecklas inte av kommunen för närvarande.
+210\.  Utvecklas inte av kommunen för närvarande.
 
 G.    AVTALSBROTTEN ÄR VÄSENTLIGA
-211.  Gotits avtalsbrott under avsnitt F har vart och ett samt tillsammans utgjort väsentliga
+211\.  Gotits avtalsbrott under avsnitt F har vart och ett samt tillsammans utgjort väsentliga
 
 avtalsbrott och varit hävningsgrundade för kommunen. I det följande redogörs för
 omständigheterna som medför att avtalsbrotten varit väsentliga.
 G.1   Gotits avtalsbrott är uppsåtliga eller grovt vårdslösa
 
-212.  Gotit har varit medvetet om innehållet i Avtalet. Kommunen har upprepade gånger påtalat för
+212\.  Gotit har varit medvetet om innehållet i Avtalet. Kommunen har upprepade gånger påtalat för
 Gotit att Gotits agerande avviker från Avtalet och upplyst om innehållet i Avtalet och vilka
 rutiner som ska tillämpas. Trots att Gotit känt till avtalsinnehållet, inte minst efter att
 kommunen upplyst om detta, har Gotit valt att frångå avtalade rutiner. Gotits avtalsbrott har
 genomgående skett uppsåtligt. Följande omständigheter görs gällande som grund för att
 Gotits avtalsbrott skett uppsåtligen.
 
-213.  Gotit har etablerat och tillämpat en rutin för incidenthantering som avviker från den som
+213\.  Gotit har etablerat och tillämpat en rutin för incidenthantering som avviker från den som
 uttryckligen framgår av Avtalet. Gotit har ignorerat den del av den avtalade processen som
 innebär att incidenter ska avhjälpas när de rapporteras, oavsett om incidenten slutligt är
 Gotits ansvar. Gotit har överhuvudtaget inte utfört arbetsmomentet som är att redovisa sitt
 incidenthanteringsarbete. Gotits agerande i dessa delar avviker från vad som uttryckligen
 framgår av Avtalet. Trots att Gotit vet om avtalsinnehållet, och att kommunen tydliggjort detta
 för Gotit, har Gotit hävdat att andra rutiner än de avtalade är gällande.
-214.  Gotits otillåtna dataöverföring som vidtogs den 10–12 september 2024 har skett i direkt strid
+214\.  Gotits otillåtna dataöverföring som vidtogs den 10–12 september 2024 har skett i direkt strid
 med kommunens instruktioner. Genom kommunens direkta instruktioner har det stått klart
 för Gotit att dataöverföringen inte får ske på annat sätt.
 
-215.  Gotit har avseende införandeplanen för förskola och grundskola lämnat ett nytt förslag på
+215\.  Gotit har avseende införandeplanen för förskola och grundskola lämnat ett nytt förslag på
 införandeplan för kommunens godkännande, i enlighet med förlikningsavtalet. Kommunen
 godkände inte det förslag som Gotit lämnade. I och med att förslaget på införandeplan skulle
 lämnas för kommunens godkännande har det stått klart för Gotit att Gotits förslag på
 införandeplan inte får tillämpas utan kommunens godkännande. Trots detta har Gotit
 tillämpat den ej godkända införandeplanen.
-216.  Gotit har lämnat direkt oriktiga uppgifter i protokollen för egenkontroll. Gotit har lämnat
+216\.  Gotit har lämnat direkt oriktiga uppgifter i protokollen för egenkontroll. Gotit har lämnat
 uppgifter om att funktionalitet som överhuvudtaget inte finns tillgänglig i den testmiljö eller
 
 35
@@ -9735,27 +9735,27 @@ genomföra de tester som Gotit påstår sig ha testat. Gotit har därigenom medv
 falska uppgifter till kommunen. Gotits lämnande av falska uppgifter har varit ägnat att
 vilseleda och försvåra kommunens kontroll av Gotits leverans.
 
-217.  Gotit har även påstått att Gotit inte har för avsikt att fullgöra Avtalet. Gotit har uttryckt att
+217\.  Gotit har även påstått att Gotit inte har för avsikt att fullgöra Avtalet. Gotit har uttryckt att
 kraven i delar utgör ”rymdraketer”. Gotit har kommunicerat att den egna planeringen varit att
 utveckling och test av central funktionalitet skulle ske efter avtalad leveransdag.
-218.  Gotit har också vid begäran om rättelse angett att Gotit inte har för avsikt att vidta någon
+218\.  Gotit har också vid begäran om rättelse angett att Gotit inte har för avsikt att vidta någon
 rättelse.
 
 G.2   Gotits avtalsbrott avser centrala delar av Avtalet
 
-219.  Avtalsbrotten från Gotits sida har rört kärnan i Gotits åtagande. De har rört såväl tidpunkten
+219\.  Avtalsbrotten från Gotits sida har rört kärnan i Gotits åtagande. De har rört såväl tidpunkten
 för leverans, där Gotit gång på gång misslyckats att leverera i avtalad tid, trots att
 kommunen förlikningsvis medgett en tidsförlängning. Det har vid tiden för hävningen för
 kommunen framstått som omöjligt att Gotit skulle kunna hålla leveranstiden för de leveranser
 för vilka leveransdagen ännu inte infallit (eller infallit samma dag som hävningen).
-220.  När Gotit väl levererade förskole- och grundskoleetappen för testning, var endast 75 krav
+220\.  När Gotit väl levererade förskole- och grundskoleetappen för testning, var endast 75 krav
 korrekt testade och korrekt implementerade, vilket endast motsvarar 27 procent av de 281
 krav som gällde för leveransen av för- och grundskolan.
 
-221.  Gotits avtalsbrott har även, i de delar där Systemet ens har levererats, rört Systemets
+221\.  Gotits avtalsbrott har även, i de delar där Systemet ens har levererats, rört Systemets
 kärnegenskaper, där gymnasieetappen som leveransgodkändes förlikningsvis visade sig
 innehålla allvarliga säkerhetsbrister och åtskilliga andra fel.
-222.  Gotits har även brustit i sitt drifts- och förvaltningsåtagande beträffande den del av Systemet
+222\.  Gotits har även brustit i sitt drifts- och förvaltningsåtagande beträffande den del av Systemet
 som tagits i drift (trots att det rätteligen var ofärdigt). Gotit har underlåtit att bedriva
 incidenthantering enligt den avtalade rutinen, och trots kommunens protester har Gotit
 försökt införa en egen rutin som är mer förmånlig för Gotit. Gotit har också rapporterat att
@@ -9765,16 +9765,16 @@ förvaltningsavgiften vid bristande tillgänglighet. Gotits hantering av förval
 enlighet med avtalade processer och rutiner är fundamentalt för avtalet och Gotits
 åtaganden.
 
-223.  Därtill har Gotit utan fog stängt ner Systemet i förtid, och i samband med det underlåtit att
+223\.  Därtill har Gotit utan fog stängt ner Systemet i förtid, och i samband med det underlåtit att
 sköta sitt åtagande att åstadkomma en störningsfri avveckling av Systemet i de delar det
 införts. Gotits agerande har medfört akut risk för dataförlust för kommunen och har varit nära
 att medföra allvarliga och irreversibla konsekvenser för kommunen.
 G.2.1 Gotit har insett att avtalsbrotten var väsentliga
 
-224.  Kommunen har till Gotit upprepade gånger påtalat bristerna i systemets funktionalitet, påtalat
+224\.  Kommunen har till Gotit upprepade gånger påtalat bristerna i systemets funktionalitet, påtalat
 när Gotit frångått avtalade krav och processer, uppmanat Gotit att följa kraven på
 incidenthantering enligt Avtalet och gett Gotit tydliga instruktioner.29
-225.  Vad kommunen upprepat påtalat för Gotit framgår redan av Avtalet. Gotit har därmed varit
+225\.  Vad kommunen upprepat påtalat för Gotit framgår redan av Avtalet. Gotit har därmed varit
 medveten om kraven redan vid anbudslämnande och avtalets ingående. I takt med att
 kommunen gång på gång påtalat vikten av att följa avtalade krav och processer har det varit
 tydligt för Gotit att de delarna av Avtalet varit av stor vikt för kommunen. Vid tidpunkten för
@@ -9787,34 +9787,34 @@ väsentlig betydelse för kommunen.
 
 <!-- sida 225 -->
 
-226.  Kommunen har i ett flertal sammanhang, muntligen, per e-post, i brev och i andra skrivelser,
+226\.  Kommunen har i ett flertal sammanhang, muntligen, per e-post, i brev och i andra skrivelser,
 tydliggjort Avtalets innehåll för Gotit och inskärpt sin skyldighet att tillämpa Avtalets
 sanktionssystem, att kommunen är förhindrad att befria Gotit från påföljder vid vites- och
 skadeståndssanktionerade avtalsbrott, kravet på att avtalsbrotten upphör och att Gotit måste
 agera lojalt i enlighet med sitt omfattande resultat- och projektledningsansvar. Det har bland
 annat skett vid följande tillfällen/genom följande skrivelser:30
 
-- Krismöte den 24 februari 2022,
-- Brev till Gotit den 23 mars 2022,
+\- Krismöte den 24 februari 2022,
+\- Brev till Gotit den 23 mars 2022,
 
-- Krismöte den 29 april 2022,
-- Vid ingåendet av förlikningsavtalet den 7 november 2023,
+\- Krismöte den 29 april 2022,
+\- Vid ingåendet av förlikningsavtalet den 7 november 2023,
 
-- Brev den 8 februari 2024, och
-- Brev den 17 april 2024, m.m.
+\- Brev den 8 februari 2024, och
+\- Brev den 17 april 2024, m.m.
 
 G.3   Gotits avtalsbrott har rubbat kommunens förtroende för Gotit
 
-227.  Ovan beskrivna avtalsbrott har rubbat kommunens förtroende för Gotit.
-228.  Därtill har Gotits hantering av avtalsbrotten i sig varit förtroenderubbande.
-229.  Gotits agerande och oförmåga att lösa problem i Systemet och att Gotit inte heller har tagit
+227\.  Ovan beskrivna avtalsbrott har rubbat kommunens förtroende för Gotit.
+228\.  Därtill har Gotits hantering av avtalsbrotten i sig varit förtroenderubbande.
+229\.  Gotits agerande och oförmåga att lösa problem i Systemet och att Gotit inte heller har tagit
 det för uppdraget så avgörande resultat- och projektledningsansvaret, har urholkat och
 
 slutligen raserat allt förtroende för Gotit. Det gäller för Gotits genomförande av
 införandeprojektet med avseende på såväl tider, aktiviteter, överenskomna arbetsprocesser
 och rutiner samt de väsentliga förseningar som präglat Gotits leverans under hela
 avtalstiden, detta då Systemet inte uppfyllt de avtalade kraven.
-230.  Det gäller i motsvarande utsträckning Gotits oförmåga att etablera och upprätthålla de
+230\.  Det gäller i motsvarande utsträckning Gotits oförmåga att etablera och upprätthålla de
 absolut mest kritiska delarna av de avtalade förvaltningsprocesserna. Det vill säga de
 förvaltningsflöden som måste fungera för att Gotit ska kunna uppfylla de absolut lägst ställda
 kraven på förvaltningsåtagandets incidenthantering, problemlösning, beställning och
@@ -9823,18 +9823,18 @@ releasehantering som har innefattat den genom förlikningen villkorade tidplanen
 driftsättning av de utestående kravställda funktionerna på Restlistan.
 
 G.3.1 Gotits utpressningsförsök
-231.  Gotit har försökt framtvinga en uppgörelse med kommunen genom att leveransvägra under
+231\.  Gotit har försökt framtvinga en uppgörelse med kommunen genom att leveransvägra under
 ett annat avtal, nämligen avtalet avseende systemet för vuxenutbildning, Alvis.
 
-232.  I maj 2024 förlängde kommunen avtalet avseende Alvis, vilket kommunen enligt gällande
+232\.  I maj 2024 förlängde kommunen avtalet avseende Alvis, vilket kommunen enligt gällande
 avtal hade en ensidig rätt att göra. Gotits VD Jörgen Rönning undertecknade förlängningen.
-233.  Trots detta meddelade Gotit den 29 oktober 2024 att kommunen inte korrekt förlängt avtalet
+233\.  Trots detta meddelade Gotit den 29 oktober 2024 att kommunen inte korrekt förlängt avtalet
 och att Gotit den 31 oktober 2024 skulle stänga den tillgången till Alvis. Detta skulle medföra
 irreparabel skada för kommunen. Gotit meddelade samtidigt att man emellertid kunde tänka
 sig en helhetslösning, vilket innefattade en förlikning som innebär att parterna gick skilda
 vägar och Gotit slapp sitt ansvar under avtalet i förevarande mål.
 
-234.  På eftermiddagen den 31 oktober 2024 meddelade Gotit att man ”tänkt ett varv till” och
+234\.  På eftermiddagen den 31 oktober 2024 meddelade Gotit att man ”tänkt ett varv till” och
 avstod därmed från sitt utpressningsförsök och fortsatte driften av Alvis i enlighet med
 ingånget avtal.
 
@@ -9844,16 +9844,16 @@ ingånget avtal.
 
 <!-- sida 226 -->
 
-235.  Agerandet är otillbörligt och illojalt och har rubbat kommunens förtroende för Gotit som
+235\.  Agerandet är otillbörligt och illojalt och har rubbat kommunens förtroende för Gotit som
 leverantör.
 
 G.3.2 Gotits efterföljande illojalitet
-236.  Som en del av Gotits åtaganden under avtalet, har Gotit haft en skyldighet att vid avtalets
+236\.  Som en del av Gotits åtaganden under avtalet, har Gotit haft en skyldighet att vid avtalets
 upphörande genomföra avvecklings-, ersättnings och överflyttningsassistans. När avtalet,
 som i det här fallet, hävts på grund av leverantörens väsentliga avtalsbrott ska Gotit utföra
 detta utan kostnad för kommunen.
 
-237.  Efter hävningen den 3 november 2024 genomförde kommunen en direktupphandling med
+237\.  Efter hävningen den 3 november 2024 genomförde kommunen en direktupphandling med
 IST Sverige AB avseende en interimslösning för systemstöd till gymnasiet till dess att en ny
 upphandling kunde genomföras. IST:s tidigast möjliga leveransdag för ett ersättningssystem
 var under v. 7 år 2025. I samband med hävningen begärde kommunen s.k. ”tittåtkomst” till
@@ -9861,26 +9861,26 @@ Systemet i syfte att kunna läsa historiska data som redan inlagts i Systemet, v
 utgjort ett extremt begränsat åtagande för Gotit. Kommunen skulle helt ha upphört att
 använda Systemet i skolverksamheten, varvid inga nya data skulle matas in, lagras eller
 processas av Systemet inom ramen för dess användning.
-238.  Den 22 november 2024 tillskrev kommunen Gotit med ett utkast till tidsplan för ersättnings-
+238\.  Den 22 november 2024 tillskrev kommunen Gotit med ett utkast till tidsplan för ersättnings-
 och överflyttningsprojektet. Eftersom interimssystemet skulle kunna driftsättas tidigast den
 1 mars 2025, var det en förutsättning att Gotit garanterade bl.a. en störningsfri åtkomst fram
 till dess att interimssystemet skulle bli tillgängligt för kommunen.
 
-239.  Gotit var inte intresserat av att medverka till övergången på det sätt som avtalet förutsatte. I
+239\.  Gotit var inte intresserat av att medverka till övergången på det sätt som avtalet förutsatte. I
 stället hotade Gotit att bryta kommunens åtkomst till Systemet och att kommunens inlagrade
 data, innefattande personuppgifter om tusentals elever, vårdnadshavare och anställda inom
 kommunen, skulle raderas om inte kommunen inom viss tid accepterade att på nytt börja
 betala Gotit, för den åtkomst som rätteligen skulle ha varit kostnadsfri under hela
 avvecklingsperioden.
-240.  I stället för att lojalt medverka till en störningsfri avveckling av Systemet höll Gotit på detta
+240\.  I stället för att lojalt medverka till en störningsfri avveckling av Systemet höll Gotit på detta
 sätt kommunens data som gisslan i ett försök att tillskansa sig ekonomiska fördelar, väl
 medvetet om att kommunen utan Gotits medverkan inte kunde uppfylla sina lagstadgade
 åligganden i bl.a. skollagen och dataskyddsförordningen.
 
-241.  När kommunen genom ombud tillbakavisade Gotits ogrundade krav på ersättning skrev Gotit
+241\.  När kommunen genom ombud tillbakavisade Gotits ogrundade krav på ersättning skrev Gotit
 direkt till kommunpolitiker inom Kungsbacka kommun, vilket i sig utgör ett anmärkningsvärt
 försök att påverka kommunens beslutsfattande genom informella kontaktvägar.
-242.  Innan Gotit hann göra verklighet av sitt hot att stänga av systemet och radera dess data,
+242\.  Innan Gotit hann göra verklighet av sitt hot att stänga av systemet och radera dess data,
 lyckades kommunen genomföra ett filuttag genom en bakväg varigenom kommunens
 handlingar säkerställdes. Om det inte hade lyckats hade kommunen inte haft några alternativ
 till att utverka interimistiska säkerhetsåtgärder mot Gotit eller ge efter för
@@ -9888,7 +9888,7 @@ utpressningsförsöket.
 
 G.4   Gotits avtalsbrott har gett kommunen anledning att befara framtida avtalsbrott
 
-243.  Kommunen har haft anledning att befara framtida avtalsbrott från Gotit, som en följd av:
+243\.  Kommunen har haft anledning att befara framtida avtalsbrott från Gotit, som en följd av:
 (i) Att Gotit inte levererat gymnasieetappen i avtalad tid enligt avtalade krav,
 
 (ii) Att Gotit inte levererat funktionerna på Restlistan i avtalad tid enligt avtalade krav,
@@ -9902,18 +9902,18 @@ därmed inte i tid),
 
 <!-- sida 227 -->
 
-244.  Dessa avtalsbrott har gett kommunen anledning att befara att avtalsbrott kommer att ske
+244\.  Dessa avtalsbrott har gett kommunen anledning att befara att avtalsbrott kommer att ske
 även avseende framtida prestationer. Särskilt har kommunen haft anledning att anta att Gotit
 inte kunnat leverera etappen för förskola och grundskola i rätt tid, då ursprunglig
 leveransdag förskjutits med över två år och Gotits leverans trots detta inte innehöll ens
 hälften av den avtalade funktionaliteten och egenskaperna.
 
-245.  Som svar på kommunens slutliga rättelseanmaning den 1 november 2024 har Gotit förnekat
+245\.  Som svar på kommunens slutliga rättelseanmaning den 1 november 2024 har Gotit förnekat
 avtalsbrott och anmält att bolaget inte avser att vidta någon rättelse. Det har därmed stått
 klart för kommunen att Gotit vare sig avsåg att vidta rättelse eller följa avtalet i framtiden.
 
 H.    KOMMUNENS RÄTT ATT HÄVA AVTALET
-246.  Kommunen har enligt Avtalet (punkt 36.1) rätt att säga upp Avtalet till omedelbart
+246\.  Kommunen har enligt Avtalet (punkt 36.1) rätt att säga upp Avtalet till omedelbart
 upphörande om Gotit bryter mot väsentlig del av avtalet och underlåter att vidta rättelse
 senast inom 10 kalenderdagar från erhållen skriftlig uppmaning om rättelse. Kommunen har
 därutöver rätt att häva Avtalet om Gotit begått ett väsentligt avtalsbrott, om Gotit i väsentligt
@@ -9924,7 +9924,7 @@ redovisa orimligt låga prisavdrag trots att Systemet haft stora problem med så
 tillgänglighet som Leverantörens support- och underhållsorganisations oförmåga att hantera
 Incidenter enligt Avtalet.
 
-247.  Kommunen har löpande anmanat Gotit att rätta avtalsbrotten. Kommunen har den
+247\.  Kommunen har löpande anmanat Gotit att rätta avtalsbrotten. Kommunen har den
 1 november 2024 gett Gotit en slutlig begäran om rättelse. Gotit vidtog inga rättelseåtgärder
 inom föreskriven tid, varför kommunen till följd av Gotits väsentliga avtalsbrott haft rätt att
 häva Avtalet. Kommunen har den 12 november 2024 hävt Avtalet.
@@ -9939,7 +9939,7 @@ I.2   Skadestånd
 Se avsnitt C.4.2.
 
 I.3   Ränta
-248.  Avkastningsränta löper per dagen för betalning av ersättning som ska återgå. Följande
+248\.  Avkastningsränta löper per dagen för betalning av ersättning som ska återgå. Följande
 betalningar som ska återgå har gjorts:
 
 39
@@ -9958,22 +9958,22 @@ betalningar som ska återgå har gjorts:
 
 <!-- sida 228 -->
 
-249.  Avkastningsränta har beräknats till 246 787 kr, enligt Bilaga 1 (med beaktande av den under
+249\.  Avkastningsränta har beräknats till 246 787 kr, enligt Bilaga 1 (med beaktande av den under
 perioden fluktuerande referensräntan).
 
 III   BEVISNING M.M.
 
 J.    BEVISNING
 
-250.  Kommunen åberopar preliminärt följande bevisning.
+250\.  Kommunen åberopar preliminärt följande bevisning.
 J.1   Muntlig bevisning
 
 J.1.1 Förhörstema
-251.  Johanna Friberg ska höras om sina iakttagelser som projektledare för Gymnasium och
+251\.  Johanna Friberg ska höras om sina iakttagelser som projektledare för Gymnasium och
 Arbetsmarknad i Kungsbacka kommun vid införandet av Skolplatsen under perioden 2021–
-2025.
+2025\.
 
-252.  Anna Hedlund ska höras om sina iakttagelser som projektledare för förskola och grundskola
+252\.  Anna Hedlund ska höras om sina iakttagelser som projektledare för förskola och grundskola
 i Kungsbacka kommun vid införandet av Skolplatsen under perioden 2021–2025.
 
 J.2   Skriftlig bevisning
@@ -10059,8 +10059,8 @@ J.2   Skriftlig bevisning
 
 K.    ÖVRIGT
 
-253.  Rättegångsfullmakt i original har idag skickats till tingsrätten med post.
-254.  Ansökningsavgiften om 2 800 kr har erlagts genom tingsrättens betaltjänst.
+253\.  Rättegångsfullmakt i original har idag skickats till tingsrätten med post.
+254\.  Ansökningsavgiften om 2 800 kr har erlagts genom tingsrättens betaltjänst.
 
 44
 
@@ -10165,11 +10165,11 @@ Ink
 Akt... fossan forsnansan boeornnoe
 
 Kungsbacka kommun org.nr. 212000-1256 ./. Göteborgs IT konsult Gotit AB, org. nr 556523-7913
-- Kvittens nr 70070021
+\- Kvittens nr 70070021
 
 Advokatfirman Lindahl KB har idag för Kungsbacka kommun ansökt om stämning mot Göteborgs IT
 konsult Gotit AB. Ansökan gjordes via Sveriges domstolars e-tjänst och tilldelades kvittensnummer
-70070021.
+70070021\.
 
 Fullmakt i original översänds härmed, Bilaga.
 
@@ -10213,7 +10213,7 @@ ha den betydelse som anges i Avtalet. I övrigt gäller Avtalet mutatis mutandis
 är tyst eller annars ledning krävs för kontext och förståelse. Alla belopp i Förlikningsavtalet anges
 exklusive mervärdesskatt.
 
-1.      BAKGRUND
+1\.      BAKGRUND
 
 Kommunen och Leverantören ingick den 12 februari 2021 ett avtal avseende ett
 skoladministrativt system, referens Elevadministration FGG 20/146, (”Avtalet”).
@@ -10225,7 +10225,7 @@ underkände etappen i enlighet med beslut den 17 januari 2023. Efter en förnyad
 acceptanskontroll leveransgodkändes Etapp 1 med en Restlista den 29 augusti 2023
 enligt Kommunens beslut samma dag.
 
-2.      TVISTEN
+2\.      TVISTEN
 
 På hösten 2021 flaggade Leverantören första gången för risk för försening enligt en
 
@@ -10271,7 +10271,7 @@ samt att Förlikningen inte i övrigt innebär någon ändring av Avtalet. Mot d
 
 bakgrund har Parterna enats om följande.
 
-3.      FÖRLIKNING
+3\.      FÖRLIKNING
 
 Leverantören åtar sig att fullgöra de specifika åtgärder som framgår av Restlistan,
 Bilaga 1, vid däri angivna tidpunkterna. Tidsfristerna som stipuleras i Bilaga 1 för
@@ -10298,7 +10298,7 @@ Kommunens beslut om leveransgodkännande samma dag. När Förlikningsavtalet har
 undertecknats ska Parterna därför vidta de åtgärder och i övrigt följa vad som närmare
 framgår av avsnitt 4 nedan.
 
-4.      AVSLUTNING AV INFÖRANDEPROJEKTET FÖR ETAPP 1
+4\.      AVSLUTNING AV INFÖRANDEPROJEKTET FÖR ETAPP 1
 
 Leveransgodkännandet av Etapp 1 den 29 augusti 2023 utlöser omgående följande
 huvudsakliga skyldigheter i anledning av övergången till förvaltning av etappen;
@@ -10351,7 +10351,7 @@ därför vara 688 000 kr och Månadsavgiften 57 333 kr.
 4.3.2   De upplupna Månadsavgifterna avser 3 dagar i augusti och hela september 2023,
 vilket blir 57 333 kr med tillägg av 5 924 kr, sammanlagt 63 258 kr.
 
-5.      FULLSTÄNDIG OCH SLUTLIG REGLERING
+5\.      FULLSTÄNDIG OCH SLUTLIG REGLERING
 
 Utöver vad som följer av Förlikningen enligt punkt 3 och Avslutningen av
 Införandeprojektet för Etapp 1 enligt punkt 4 ovan, har ingen av Parterna, vid
@@ -10375,7 +10375,7 @@ mellanhavanden, krav och anspråk, såväl framtida som existerande, av vad slag
 
 må, med anledning av Tvisten fullt och slutligt reglerade.
 
-6.      SEKRETESS
+6\.      SEKRETESS
 
 Parterna förbinder sig att iaktta sekretess avseende detta Förlikningsavtal och dess
 innehåll. Information som omfattas av sekretess får inte i någon form vidarebefordras
@@ -10389,7 +10389,7 @@ Kommunen omfattas av offentlighetsprincipen. Ett sekretessåtagande från Kommun
 sida kan därmed endast göras i den utsträckningen offentlighets- och sekretesslagen så
 medger.
 
-7.      ÖVRIGT
+7\.      ÖVRIGT
 
 Leverantören åtar sig att vidta de åtgärder som krävs för att Kommunens betalningar
 enligt detta Förlikningsavtal genomförs på ett bokföringstekniskt korrekt sätt,
@@ -10435,7 +10435,7 @@ Detta Förlikningsavtal ska vara underkastat svensk lag utan hänsyn tagen till 
 lags lagvalsregler. Tvister angående tolkning eller tillämpning av detta Förlikningsavtal
 eller därmed sammanhängande rättsförhållande ska slutligt avgöras av allmän domstol.
 
------------------------
+\-----------------------
 
 Underskrifter
 KUNGSBACKA KOMMUN
@@ -10972,11 +10972,11 @@ respektive   yrkesutbildningar    för vuxna
 Härmed översänds remissversioner av förslag till samverkansavtal på remiss
 till Göteborgsregionens kommunalförbunds (GR) medlemskommuner. De
 samverkansavtal som remitteras är
--  Samverkansavtal för gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
+\-  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
 för avtalsperiod 2027–2030
 
 Samverkansavtal inom utbildningsområdet har funnits mellan kommunerna i
@@ -11068,13 +11068,13 @@ Remissförslag
 
 Innehåll
 
-- Ärendet
+\- Ärendet
 
-- Beredning
+\- Beredning
 
-- Ställningstaganden
+\- Ställningstaganden
 
-- Sammanfattning               förnyat      samverkansavtal
+\- Sammanfattning               förnyat      samverkansavtal
 
 <!-- sida 266 -->
 
@@ -11085,9 +11085,9 @@ Förslag  till nytt samverkansavtal för gymnasieskolan   i Göteborgsregionen
 Förnyat  avtal föreslås gälla från läsåret 2027/2028
 
 Syftet är att:
-- bredda utbildningsutbudet
+\- bredda utbildningsutbudet
 
-- säkra kompetensförsörjningen     till välfärd och näringsliv
+\- säkra kompetensförsörjningen     till välfärd och näringsliv
 
 Avtalet bygger  på Skollagen  och  Gymnasieförordningen
 
@@ -11423,7 +11423,7 @@ Härmed sänds förslag till samverkansavtal på remiss till Göteborgsregionens
 kommunalförbunds (GR) medlemskommuner. Det samverkansavtal som
 remitteras är
 
--  Samverkansavtal för gymnasieskolan i Göteborgsregionen för
+\-  Samverkansavtal för gymnasieskolan i Göteborgsregionen för
 avtalsperiod 2027/2028 - 2030/2031
 
 Ärendet
@@ -11761,12 +11761,12 @@ Analys
 
 Kostnadsutvecklingen för gymnasieskolan påverkas av flera parametrar,
 exempelvis:
--   Demografi
--   Konkurrens
--   Investeringar
+\-   Demografi
+\-   Konkurrens
+\-   Investeringar
 
--   Index
--   Löneutveckling
+\-   Index
+\-   Löneutveckling
 
 Den demografiska utvecklingen påverkar IKE i allra högsta grad. Då priset
 beräknas (förenklat) som summan av gymnasieskolornas kostnader dividerat
@@ -11827,17 +11827,17 @@ Det bygger på en gemensam upplysningsskyldighet från skolorna till
 hemkommun. Utbildningschefsnätverket enades om regelverket 2016-06-17
 och har därefter reviderat innehållet.
 
-1. Månadsavstämning förutsätter korrekt elevunderlag. När en elev är
+1\. Månadsavstämning förutsätter korrekt elevunderlag. När en elev är
 inskriven på flera skolor samtidigt kommer den inte med i
 månadsavstämningen för aktuell månad. Ansvariga skolhuvudmän löser
 
 konflikten och elevens hemkommun hålls underrättad.
-2. Den dag som är elevens sista schemalagda dag på avlämnande skola, är
+2\. Den dag som är elevens sista schemalagda dag på avlämnande skola, är
 slutdatum.
-3. Den dag som är elevens första schemalagda dag på mottagande skola, är
+3\. Den dag som är elevens första schemalagda dag på mottagande skola, är
 startdatum.
 
-4. Information till ELIN kan av gymnasieskola lämnas på fyra olika sätt:
+4\. Information till ELIN kan av gymnasieskola lämnas på fyra olika sätt:
 a. Finns ingen automatisk överföring, skall ELIN-filen läsas
 in i IT-systemet så fort en utbildningshändelse har
 uppkommit.
@@ -11850,18 +11850,18 @@ c. Finns ingen möjlighet att skapa en ELIN-fil eller en CSN-
 
 fil skall utbildningshändelsen registreras manuellt i IT-
 systemet när utbildningshändelsen har uppkommit.
-5. Korrekt elevunderlag förutsätter att gymnasieskola varje läsår
+5\. Korrekt elevunderlag förutsätter att gymnasieskola varje läsår
 rapporterar in samtliga elever till ELIN, oavsett årskurs. På så sätt
 säkerställs gymnasieskolans rapportering om att elev påbörjat
 utbildning efter sommaren, att elev byter årskurs och att ungdom som
 inte påbörjar utbildning faller inom ramen för det kommunala
 
 aktivitetsansvaret.
-6. Avstämningsdag sker per den 15e varje månad, inklusive
+6\. Avstämningsdag sker per den 15e varje månad, inklusive
 sommarmånaderna. Om avstämningsdag infaller på icke schemalagd
 dag anses eleven inskriven på avlämnande skola.
 
-7. Elev som har uppehåll i sina studier omfattas av det kommunala
+7\. Elev som har uppehåll i sina studier omfattas av det kommunala
 aktivitetsansvaret. Vid planerat uppehåll har skolan dialog med eleven
 fram till dess att eleven är åter. Skolan kan välja att antingen registrera
 avbrott, skolbyte eller planerat uppehåll.
@@ -11876,7 +11876,7 @@ Bilaga 4 Gemensamt regelverk för elevavstämning, 2027/2028 – 2030/2031
 Dnr: ATN-2025-00049
 Remissversion 2026-01-09
 
-8. Uppgift om examen och studiebevis hämtas från nationell databas.
+8\. Uppgift om examen och studiebevis hämtas från nationell databas.
 Gymnasieskola ansvarar för att information som inte kan hämtas
 nationellt i stället registreras i ELIN. Det gäller examen/studiebevis för
 elev äldre än 20 år samt elev med tillfälligt personnummer,
@@ -11884,9 +11884,9 @@ gymnasiebevis avseende anpassad gymnasieskola, samt IB-
 diplom. Elever som fått gymnasieintyg behöver också registreras
 manuellt i ELIN.
 
-9. Gymnasiebevis avseende anpassad gymnasieskola ska läsas över om det
+9\. Gymnasiebevis avseende anpassad gymnasieskola ska läsas över om det
 är aktuellt.
-10. Gymnasiebetyg och kopia på betygskatalogen kan läsas över till IT-
+10\. Gymnasiebetyg och kopia på betygskatalogen kan läsas över till IT-
 systemet när elev lämnar gymnasieskolan, det vill säga vid avbrott,
 skolbyte, studiebevis eller gymnasieintyg. ELIN är ingen betygsdatabas,
 men en kopia kan underlätta för det kommunala aktivitetsansvaret i
@@ -13244,7 +13244,7 @@ Antagningsnämnden ges möjlighet att lämna synpunkter om det bedöms att
 brister finns i någon del av utbildningsutbudet ur ett Regionalt perspektiv, så
 som beskrivs i p. 7.3 Regionala samverkansformer i detta Avtal.
 
-10. Ekonomiska  förutsättningar
+10\. Ekonomiska  förutsättningar
 
 10.1 Prislista för interkommunal ersättning
 
@@ -13506,11 +13506,11 @@ respektive   yrkesutbildningar    för vuxna
 Härmed översänds remissversioner av förslag till samverkansavtal på remiss
 till Göteborgsregionens kommunalförbunds (GR) medlemskommuner. De
 samverkansavtal som remitteras är
--  Samverkansavtal för gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
+\-  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
 för avtalsperiod 2027–2030
 
 Samverkansavtal inom utbildningsområdet har funnits mellan kommunerna i
@@ -13602,13 +13602,13 @@ Remissförslag
 
 Innehåll
 
-- Ärendet
+\- Ärendet
 
-- Beredning
+\- Beredning
 
-- Ställningstaganden
+\- Ställningstaganden
 
-- Sammanfattning               förnyat      samverkansavtal
+\- Sammanfattning               förnyat      samverkansavtal
 
 <!-- sida 325 -->
 
@@ -13930,7 +13930,7 @@ Härmed sänds förslag till samverkansavtal på remiss till Göteborgsregionens
 kommunalförbunds (GR) medlemskommuner. Det samverkansavtal som
 remitteras är
 
--  Samverkansavtal för anpassade gymnasieskolan i Göteborgsregionen
+\-  Samverkansavtal för anpassade gymnasieskolan i Göteborgsregionen
 för avtalsperiod 2027/2028 - 2030/2031
 
 Ärendet
@@ -14252,11 +14252,11 @@ december.
 Analys
 
 Kostnadsutvecklingen för gymnasieskolan påverkas av flera parametrar, exempelvis:
--   Demografi
--   Konkurrens
--   Investeringar
--   Index
--   Löneutveckling
+\-   Demografi
+\-   Konkurrens
+\-   Investeringar
+\-   Index
+\-   Löneutveckling
 
 Den demografiska utvecklingen påverkar IKE i allra högsta grad. Då priset beräknas
 (förenklat) som summan av gymnasieskolornas kostnader dividerat med antalet
@@ -14304,17 +14304,17 @@ Det bygger på en gemensam upplysningsskyldighet från skolorna till
 hemkommun. Utbildningschefsnätverket enades om regelverket 2016-06-17
 och har därefter reviderat innehållet.
 
-1. Månadsavstämning förutsätter korrekt elevunderlag. När en elev är
+1\. Månadsavstämning förutsätter korrekt elevunderlag. När en elev är
 inskriven på flera skolor samtidigt kommer den inte med i
 månadsavstämningen för aktuell månad. Ansvariga skolhuvudmän löser
 
 konflikten och elevens hemkommun hålls underrättad.
-2. Den dag som är elevens sista schemalagda dag på avlämnande skola, är
+2\. Den dag som är elevens sista schemalagda dag på avlämnande skola, är
 slutdatum.
-3. Den dag som är elevens första schemalagda dag på mottagande skola, är
+3\. Den dag som är elevens första schemalagda dag på mottagande skola, är
 startdatum.
 
-4. Information till ELIN kan av gymnasieskola lämnas på fyra olika sätt:
+4\. Information till ELIN kan av gymnasieskola lämnas på fyra olika sätt:
 a. Finns ingen automatisk överföring, skall ELIN-filen läsas
 in i IT-systemet så fort en utbildningshändelse har
 uppkommit.
@@ -14327,18 +14327,18 @@ c. Finns ingen möjlighet att skapa en ELIN-fil eller en CSN-
 
 fil skall utbildningshändelsen registreras manuellt i IT-
 systemet när utbildningshändelsen har uppkommit.
-5. Korrekt elevunderlag förutsätter att gymnasieskola varje läsår
+5\. Korrekt elevunderlag förutsätter att gymnasieskola varje läsår
 rapporterar in samtliga elever till ELIN, oavsett årskurs. På så sätt
 säkerställs gymnasieskolans rapportering om att elev påbörjat
 utbildning efter sommaren, att elev byter årskurs och att ungdom som
 inte påbörjar utbildning faller inom ramen för det kommunala
 
 aktivitetsansvaret.
-6. Avstämningsdag sker per den 15e varje månad, inklusive
+6\. Avstämningsdag sker per den 15e varje månad, inklusive
 sommarmånaderna. Om avstämningsdag infaller på icke schemalagd
 dag anses eleven inskriven på avlämnande skola.
 
-7. Elev som har uppehåll i sina studier omfattas av det kommunala
+7\. Elev som har uppehåll i sina studier omfattas av det kommunala
 aktivitetsansvaret. Vid planerat uppehåll har skolan dialog med eleven
 fram till dess att eleven är åter. Skolan kan välja att antingen registrera
 avbrott, skolbyte eller planerat uppehåll.
@@ -14354,7 +14354,7 @@ Bilaga 3 Gemensamt regelverk för elevavstämning, 2027/2028 – 2030/2031
 Dnr: ATN-2025-00050
 Remissversion 2026-01-09
 
-8. Uppgift om examen och studiebevis hämtas från nationell databas.
+8\. Uppgift om examen och studiebevis hämtas från nationell databas.
 Gymnasieskola ansvarar för att information som inte kan hämtas
 nationellt i stället registreras i ELIN. Det gäller examen/studiebevis för
 elev äldre än 20 år samt elev med tillfälligt personnummer,
@@ -14362,9 +14362,9 @@ gymnasiebevis avseende anpassad gymnasieskola, samt IB-
 diplom. Elever som fått gymnasieintyg behöver också registreras
 manuellt i ELIN.
 
-9. Gymnasiebevis avseende anpassad gymnasieskola ska läsas över om det
+9\. Gymnasiebevis avseende anpassad gymnasieskola ska läsas över om det
 är aktuellt.
-10. Gymnasiebetyg och kopia på betygskatalogen kan läsas över till IT-
+10\. Gymnasiebetyg och kopia på betygskatalogen kan läsas över till IT-
 systemet när elev lämnar gymnasieskolan, det vill säga vid avbrott,
 skolbyte, studiebevis eller gymnasieintyg. ELIN är ingen betygsdatabas,
 men en kopia kan underlätta för det kommunala aktivitetsansvaret i
@@ -15100,7 +15100,7 @@ Göteborgsregionen
 Dnr: ATN-2025-00050
 Remissversion 2026-01-09
 
-10. Ekonomiska  förutsättningar
+10\. Ekonomiska  förutsättningar
 
 10.1 Prislista för interkommunal ersättning
 
@@ -15351,11 +15351,11 @@ respektive   yrkesutbildningar    för vuxna
 Härmed översänds remissversioner av förslag till samverkansavtal på remiss
 till Göteborgsregionens kommunalförbunds (GR) medlemskommuner. De
 samverkansavtal som remitteras är
--  Samverkansavtal för gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
+\-  Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen för
 avtalsperiod 2027/2028–2030/2031
--  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
+\-  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
 för avtalsperiod 2027–2030
 
 Samverkansavtal inom utbildningsområdet har funnits mellan kommunerna i
@@ -15445,13 +15445,13 @@ Marie  Egerstad, Göteborgsregionen
 
 Innehåll:
 
-- Ärendet
+\- Ärendet
 
-- Beredning
+\- Beredning
 
-- Ställningstaganden
+\- Ställningstaganden
 
-- Sammanfattning               förnyat      samverkansavtal
+\- Sammanfattning               förnyat      samverkansavtal
 
 <!-- sida 373 -->
 
@@ -15783,7 +15783,7 @@ yrkesutbildningar    för vuxna
 Härmed sänds förslag till samverkansavtal på remiss till Göteborgsregionens
 kommunalförbunds (GR) medlemskommuner. Det samverkansavtal som
 remitteras är
--  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
+\-  Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
 för avtalsperiod 2027-2030
 
 Ärendet
@@ -15872,14 +15872,14 @@ yrkesutbildningar          för   vuxna    i
 
 Göteborgsregionen
 
-1. Avtalsparter
+1\. Avtalsparter
 
 Avtalets parter för detta samverkansavtal är Göteborgsregionens
 kommunalförbund (GR) och följande medlemskommuner: Ale, Alingsås,
 Göteborg, Härryda, Kungsbacka, Kungälv, Lerum, Lilla Edet, Mölndal,
 Partille, Stenungsund, Tjörn och Öckerö.
 
-2. Avtalets syfte och intentioner
+2\. Avtalets syfte och intentioner
 Skollagen och förordningen om vuxenutbildningen reglerar hur huvudmän
 ska planera, dimensionera och erbjuda utbildning inom komvux. Syftet med
 bestämmelserna är att öka det tillgängliga utbudet av utbildning, underlätta
@@ -15930,7 +15930,7 @@ Detta är ett primärt samverkansavtal i enlighet med Skollagen, 2 kap. 2 a och
 
 2 b §§ samt 20 kap. 16, 16 a och 16 b §§.
 
-3. Avtalstid
+3\. Avtalstid
 Avtalet avser verksamheten från och med 2027-01-01 och gäller till och med
 
 2030-12-31, med möjlighet att revidera och komplettera avtalet årligen.
@@ -15946,7 +15946,7 @@ lärande i Göteborgsregionen” fr o m 2024-01-01 till 2026-12-31 att gälla f�
 samverkan kring yrkesutbildningar inom kommunal vuxenutbildning inom
 Göteborgsregionen.
 
-4. Avtalets omfattning
+4\. Avtalets omfattning
 
 4.1 Regionalt anordnade avtalsutbildningar
 
@@ -15994,7 +15994,7 @@ avtalet möjlighet att skapa sekundära överlappande samverkansavtal mellan
 kommuner inom Göteborgsregionen, gällande utbildningar som ingår i detta
 avtal.
 
-5. Förutsättningar
+5\. Förutsättningar
 
 5.1 Generella förutsättningar
 För att uppnå syftet och intentionerna med avtalet finns ett antal faktorer
@@ -16098,7 +16098,7 @@ kompetensråd, Arbetsförmedlingen samt i dialog med andra berörda parter.
 Principer ska finnas för planering och dimensionering av
 avtalsutbildningar, vilka årligen fastställs av Utbildningschefsnätverket.
 
-6. Roll- och ansvarsfördelning
+6\. Roll- och ansvarsfördelning
 
 6.1 Antagningsnämnd (GRs politiska nämnd för utbildning)
 
@@ -16274,10 +16274,10 @@ Göteborgsregionens branschspecifika kompetensråd.
 och intentioner, till exempel i form av kommunikation och information
 beträffande statsbidrags utformning.
 
-7. Ekonomi
+7\. Ekonomi
 
 7.1 Finansiering av avtalsutbildningarna
-7. 1.1 Statsbidragsfinansierade utbildningar
+7\. 1.1 Statsbidragsfinansierade utbildningar
 Finansieringen av avtalsutbildningarna baseras på en grundpost (sk. 33-
 
 kronan), vilken utgörs av de kommunala resurser som avtalsparterna
@@ -16368,7 +16368,7 @@ Samverkansavtal om yrkesutbildningar för vuxna
 Dnr: ATN-2025-00060
 Remissversion 2026-01-09
 
-8. Idé- och erfarenhetsutbyte för personal inom
+8\. Idé- och erfarenhetsutbyte för personal inom
 vuxnas lärande
 
 Göteborgsregionens samlade kompetens inom området vuxnas lärande tas
@@ -16379,14 +16379,14 @@ regional nätverksform kring t ex kvalitetsfrågor, ledarskap,
 
 utvecklingsarbete, omvärldsbevakning och lobbyverksamhet.
 
-9. Tvist
+9\. Tvist
 
 Tvist med anledning av detta avtal medlemskommunerna löses i första
 hand genom lokala förhandlingar. Om parterna inte kommer överens sker
 medling genom GR. Om tvist inte kan lösas på detta sätt avgörs det av
 allmän domstol.
 
-10. Godkännande
+10\. Godkännande
 
 Respektive medlemskommun rekommenderas att fatta beslut om att
 godkänna föreliggande avtal. En kopia på beslut i nämnd/styrelse eller av
@@ -16469,7 +16469,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 <!-- sida 406 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 Som delegat avses anställd med tillsvidareanställning. Vikarie eller annan
@@ -16500,12 +16500,12 @@ Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 
 Vid förfall för övriga delegater
 
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten
 ska framgå av ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -16542,7 +16542,7 @@ nedan.
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut
 som delegaten har tagit:
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om individutskottet har fått
 delegation undertecknas handling som beslutet avser av individutskottets
 ordförande och förvaltningschefen.
@@ -16552,10 +16552,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 ärende eller ärendet visar sig falla inom ramen för vad som är föreskrivet i
 
 kommunallagen 6 kap 38 § ska tjänstemannen överlämna ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
 
@@ -16699,7 +16699,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | --- | --- | --- | --- | --- |
 | 2.1.11 | GDPR artikel 30 | Fastställa nämndens register över personuppgiftsbehandlingar. | Dataskydds<br>kontakt |  |
 | 2.1.12 | Riktlinjer för<br>personuppgifts-<br>behandling,<br>GDPR artikel 28 | Ge fullmakt att underteckna personuppgiftsbiträdesavtal för digital tjänst eller<br>system som ska användas gemensamt med en eller flera andra nämnder. | Fc | Fullmakt får ges till tjänsteman som ska vara systemägare<br>för tjänsten eller systemet. |
-| 2.1.13 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande, ledamot och ersättare<br>i nämnden. | N ordf<br>För beslut som<br>avser ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>*I samma dokument som ovan framgår vilka aktiviteter<br>som avses. |
+| 2.1.13 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande, ledamot och ersättare<br>i nämnden. | N ordf<br>För beslut som<br>avser ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>Regler och riktlinjer för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår vilka aktiviteter<br>som avses. |
 | 2.1.14 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Beslut att nämnden lämnar inget yttrande föranledd av remiss från annan<br>part | Fc |  |
 | 2.1.15 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Utse ombud att föra kommunens talan i mål och ärenden vid rättegång eller<br>förrättning inför domstol och andra myndigheter, med rätt att sätta annan i<br>sitt ställe | Fc |  |
 | 2.1.16 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Föra nämndens talan i mål eller ärende som överklagats till domstol | Ec | Även beslut att överklaga dom till högre instans.<br>Gäller ej beslut som fattats av nämnden. |
@@ -17142,11 +17142,11 @@ I bifogat underlag redovisar nämnden för Gymnasium & Arbetsmarknad vilka åtg�
 
 Beslutsunderlag
 
--  Återrapportering till Skolinspektionen
--  Utredning av särskilt stöd efter tillsyn 2025-10-01 tom 2026-01-13
+\-  Återrapportering till Skolinspektionen
+\-  Utredning av särskilt stöd efter tillsyn 2025-10-01 tom 2026-01-13
 
--  Brev till elever och vårdnadshavare
--  Rutin för mobiltelefoner och annan digital utrustning på Enhet 4
+\-  Brev till elever och vårdnadshavare
+\-  Rutin för mobiltelefoner och annan digital utrustning på Enhet 4
 
 1 (2)
 Kungsbacka kommun
@@ -18847,13 +18847,13 @@ Kallepruun (GA), Emma Person (Visible Education), Sanna Andersson (GA), Frida Sv
 Elisabeth Kjellbom (GA), Kristina Westrup (IF), Julia Wilholm, (IF), Moa Plenk åk 3-elev på
 Aranäsgymnasiet, Nomi Elfström och Ida Mattbo åk 1-elever på Aranäsgymnasiet.
 
-$1 Mötets öppnas av ordförande Jan Erik Knutas och tillsammans med rektor Dan
+\$1 Mötets öppnas av ordförande Jan Erik Knutas och tillsammans med rektor Dan
 
 Sadé hälsas alla välkomna till dagens möte på Aranäsgymnasiet.
 
 Presentationsrunda.
-$2 Val av sekreterare, Sanna Andersson och justerare, Frida Svärd.
-$3 Föregående protokoll gås igenom.
+\$2 Val av sekreterare, Sanna Andersson och justerare, Frida Svärd.
+\$3 Föregående protokoll gås igenom.
 
 I föregående protokoll fanns återkoppling på att matersättningen nu ökat till 40 kronor och är
 numera samma ersättning till alla elever inom gymnasieskolan samt frågan om lokalplanen.
@@ -18884,7 +18884,7 @@ www.aranasgymnasiet.kungsbacka.se
 
 KUNGSBACKA KOMMUN
 
-$4 Elevernas frågor: Kvarliggande fråga från föregående möte är att
+\$4 Elevernas frågor: Kvarliggande fråga från föregående möte är att
 matersättningen är på 40 kr. Allt är dyrt och eleverna tycker inte det räcker till en hel måltid.
 Ulrika Borgvall ställer frågan vad det kostar att äta i matsalen i skolan? Dan Sadé menar att det
 är en relevant fråga. Men vet inte hur mycket en elevs måltid beräknas till. Nämnden ökade upp
@@ -18905,7 +18905,7 @@ dilemmat att vara två elever på en och samma handledare. Då det blir mindre a
 
 perioden när två elever ska dela på uppgifterna.
 
-$5 Aktuellt från näringslivet
+\$5 Aktuellt från näringslivet
 
 Staffan Boethius (IF) betonar att inom IF finns ett stort behov av nya medarbetare. Nu och
 framåt. Det sker en utökning av verksamheten inom IF, minst ett gruppboende som öppnar upp
@@ -18932,7 +18932,7 @@ Staffan Boethius (IF) betonar att det finns två utbildningsvägar för att kunn
 
 Barn och Fritidsprogrammet och Vård och omsorgsprogrammet.
 
-$6 Aktuellt från skolan
+\$6 Aktuellt från skolan
 
 Ulrika Borgvall berättar att Aranäsgymnasiet fortsätter med Zanzibar-projektet, till våren
 kommer det åka fem elever från VO och tre elever från BF. De är i full gång att marknadsföra
@@ -18943,7 +18943,7 @@ detta är förhoppningen att locka fler elever till att intressera sig av yrkesp
 hus nu i november har Ulrika Borgvall kontaktat tidigare elever som läst på VO på
 Aranäsgymnasiet. Detta för att visa på bredden av olika yrkesbanor efter gymnasiet. Det har
 gett ett gott gensvar från tidigare elever. Dan Sadé tillägger att årets årskursettor är många i år,
-29. Dilemmat är lokalerna, speciellt metodrummen som inte räcker till. Överlag är det ett stort
+29\. Dilemmat är lokalerna, speciellt metodrummen som inte räcker till. Överlag är det ett stort
 tryck på Kungsbackas yrkesprogram, vi hoppas på en positiv trend.
 
 Elisabeth Kjellbom (GA) informerar att på Lärlingsprogrammet på Elof Lindälv är det planerat
@@ -18979,20 +18979,20 @@ sittgympa eller andra aktiviteter för att få känna på hur det är på riklig
 
 fältstudier.
 
-$7 APL. Frågan har lyfts tidigare i mötet.
+\$7 APL. Frågan har lyfts tidigare i mötet.
 
-$8 Arbetsmarknadsläget. Alla medverkande på mötet är överens om att
+\$8 Arbetsmarknadsläget. Alla medverkande på mötet är överens om att
 arbetsmarknadsläget ser fortsatt positivt ut inom vård och omsorg. Hur får vi i
 kontakt med AF. Frida Svärd ser om hon kan få kontakt med AF genom
 upparbetade samverkanskanaler.
 
-$9 Övriga frågor: Inga övriga frågor.
+\$9 Övriga frågor: Inga övriga frågor.
 
-$10 Nästa möte: bokas till 1 april 2026 13.00-14.15 på Nygatan 10A Visible
+\$10 Nästa möte: bokas till 1 april 2026 13.00-14.15 på Nygatan 10A Visible
 
 Education.
 
-$11 Mötet avslutas
+\$11 Mötet avslutas
 
 Sekreterare: ÅA /
 
@@ -19379,7 +19379,7 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Råd & stöd ................................ ................................ ................................ ................................ ........................... 4
+1\. Råd & stöd ................................ ................................ ................................ ................................ ........................... 4
 1.1 Utbildning ................................ ................................ ................................ ................................ ..................... 4
 1.2 Råd ................................ ................................ ................................ ................................ ................................ 4
 
@@ -19387,15 +19387,15 @@ Innehåll
 1.4 Kontakter ................................ ................................ ................................ ................................ ...................... 9
 1.5 Samverkan ................................ ................................ ................................ ................................ .................. 10
 
-2. Granskning ................................ ................................ ................................ ................................ ........................ 11
+2\. Granskning ................................ ................................ ................................ ................................ ........................ 11
 
 2.1 Riktad granskning ................................ ................................ ................................ ................................ ....... 11
 2.2 Fördjupad granskning ................................ ................................ ................................ ............................... 12
 
-3. Omvärld ................................ ................................ ................................ ................................ .............................. 13
+3\. Omvärld ................................ ................................ ................................ ................................ .............................. 13
 3.1 Fokus på cyberskydd och omställning ................................ ................................ ................................ 13
 
-4. Kommande år ................................ ................................ ................................ ................................ ...... 15
+4\. Kommande år ................................ ................................ ................................ ................................ ...... 15
 4.1 Inriktning året 202 6 ................................ ................................ ................................ ................................ ... 15
 4.2 Plan för granskning ................................ ................................ ................................ ................................ ... 15
 
@@ -19403,7 +19403,7 @@ Innehåll
 
 <!-- sida 488 -->
 
-1. Råd & stöd
+1\. Råd & stöd
 
 1.1 Utbildning
 
@@ -19778,7 +19778,7 @@ datadriven omställning och mänskliga rättigheter samt den länsgemensamma kon
 kraftsamling i Halland. Konferenserna har gett viktig inblick och kunskap i aktuella frågor som
 berör kommunens verksamheter och sammanhang.
 
-2. Granskning
+2\. Granskning
 
 2.1 Riktad granskning
 
@@ -19838,7 +19838,7 @@ högre andel överensstämmelser än avvikelser, även om utfallet innebär att 
 avvikande omständigheter att ta hand om. Dessa var punkterna om konsekvensbedömning, information till registrerade,
 anpassad säkerhet och korrekt deklarerade behandlingar i beghandlingsregister.
 
-3. Omvärld
+3\. Omvärld
 
 3.1 Fokus på cyberskydd och omställning
 
@@ -19947,7 +19947,7 @@ behov att använda data och teknikens möjligheter för att möta de demografisk
 blir förmågan att kunna analysera konsekvens och bedöma proportionalitet särskilt viktig för att de
 regeländringar som ger legitimitet för nya arbetssätt inte får oförutsedda och oönskade effekter.11
 
-4. Kommande    år
+4\. Kommande    år
 
 4.1 Inriktning å ret 202 6
 Baserat på strömningarna i kommunens omvärld och mina iakttagelser när jag följt kommunens

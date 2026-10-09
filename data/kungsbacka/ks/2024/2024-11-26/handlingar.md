@@ -66,17 +66,17 @@ Kommunstyrelsen delegerar till kommunstyrelsens arbetsutskott att fatta beslut o
 upphandlingsdokument (UD).
 
 Kommunstyrelsen delegerar till kommundirektören rätten att fatta beslut om:
-- annonsering av upphandlingen
-- tilldela kontrakt samt
+\- annonsering av upphandlingen
+\- tilldela kontrakt samt
 
-- underteckna kontrakt efter att avtalsspärren löpt ut
+\- underteckna kontrakt efter att avtalsspärren löpt ut
 Kommunstyrelsen ger kommundirektören rätt att vidaredelegera beslutsrätt till
 
 samhällsbyggnadschef samt till upphandlingschef för beslut om:
 
-- annonsering av upphandlingen,
-- tilldela kontrakt samt
-- underteckna kontrakt efter att avtalsspärren löpt ut.
+\- annonsering av upphandlingen,
+\- tilldela kontrakt samt
+\- underteckna kontrakt efter att avtalsspärren löpt ut.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 91FA7D48C3D4938AB47730C830920C5CCFD3A92914
@@ -729,7 +729,7 @@ kommersiella lokaler samt intäkter från evenemang och mässor.
 De kommersiella lokalerna kommer att bestå av lokaler för restaurang, café, kiosk, gym,
 hälsofrämjande aktiviteter, konferens, möten med mera. Intäkterna för dessa ytor har beräknats uppgå
 till 6,5 miljoner kronor utifrån jämförbara hyresnivåer i den fördjupade marknadsanalysen oktober
-2023. Uthyrning av arenahallen och andra ytor för idrottsevenemang, mässor, konserter eller liknande
+2023\. Uthyrning av arenahallen och andra ytor för idrottsevenemang, mässor, konserter eller liknande
 samt uthyrning av fotbollsarenan beräknas kunna generera en intäkt på 10 miljoner kronor baserat på
 
 <!-- sida 15 -->
@@ -757,7 +757,7 @@ om cirka 17 000 kvm BTA varav 9 000 kvm BTA kommersiella ytor. Driftsintäkterna
 något högre än nuvarande bedömning, till mellan 20,5 miljoner kronor och 22,7 miljoner kronor.
 Kalkylen för årlig driftskostnad beräknas öka från cirka 36,3 miljoner år 2021 till 52,2 miljoner kronor
 
-2024. Driftskostnaderna påverkas av faktorer som förändringar av räntor och inflation med åtföljande
+2024\. Driftskostnaderna påverkas av faktorer som förändringar av räntor och inflation med åtföljande
 indexuppräkningar av driftskostnader.
 − Ränteökning från 1,25 till 2,5 procent påverkar årlig driftskostnad med cirka 9 miljoner kronor och
 avskrivningar till följd av indexuppräkning av investeringsbeloppet påverkar med cirka 3 miljoner
@@ -880,23 +880,23 @@ Beslut
 Kommunstyrelsens arbetsutskott återremitterar ärendet för förtydligande och
 komplettering i följande frågor:
 
-- Komplettering med information rörande förslag till placering av arenan och var i
+\- Komplettering med information rörande förslag till placering av arenan och var i
 processen beslut tas gällande arenans placering (ursprunglig, ny och reviderad
 plats).
-- Förtydligande gällande utökningen från 3500 till 5500 kvadratmeter och vad det
+\- Förtydligande gällande utökningen från 3500 till 5500 kvadratmeter och vad det
 innebär i utökade driftkostnader. Driftkostnaden ökar mer än räntekostnaden och
 
 index. Vad står resten av ökningen för? Även intäkter ska redovisas samt en
 tydlig kalkyl och information om vem som får intäkter för reklam.
-- Förtydligande rörande om det går att samutnyttja fler lokalytor exempelvis
+\- Förtydligande rörande om det går att samutnyttja fler lokalytor exempelvis
 personalutrymmen och eventutrymmen som även föreningsliv kan använda? Vad
 ska greenroom användas till när det inte är event?
 
-- Komplettering av uppgifter rörande den minskade läktarkapaciteten från 2500 till
+\- Komplettering av uppgifter rörande den minskade läktarkapaciteten från 2500 till
 2000 åskådare, som innebär att det kan finnas behov av att hyra in en extra
 läktare. Hur ofta kan den behöva hyras in och vad kostar det?
 
-- Komplettering rörande vilken publikkapaciteten är i B-hallen.
+\- Komplettering rörande vilken publikkapaciteten är i B-hallen.
 
 Deltar inte i beslut
 Johan Tolinsson (S) deltar inte i beslutet.
@@ -996,30 +996,30 @@ evenemang och 200st fasta åskådarplatser i B-hallen.
 Vi anser också att det inte finns behov att uppnå de fulla kraven för superettan i
 
 fotboll med bland annat uppvärmd plan utan det räcker att uppnå kraven för division
-1.
+1\.
 Då detta inte ryms inom kommunfullmäktiges beslut yrkar jag avslag på förstudien
 och att frågan om kommersiella lokaler i arenan tas upp i KF."
 
 Ordförande Lisa Andersson (M) yrkar att ärendet återremitteras för förtydligande och
 komplettering i följande frågor:
 
-- Komplettering med information rörande förslag till placering av arenan och var i
+\- Komplettering med information rörande förslag till placering av arenan och var i
 processen beslut tas gällande arenans placering (ursprunglig, ny och reviderad
 plats).
 
-- Förtydligande gällande utökningen från 3500 till 5500 kvadratmeter och vad det
+\- Förtydligande gällande utökningen från 3500 till 5500 kvadratmeter och vad det
 innebär i utökade driftkostnader. Driftkostnaden ökar mer än räntekostnaden och
 index. Vad står resten av ökningen för? Även intäkter ska redovisas samt en
 tydlig kalkyl och information om vem som får intäkter för reklam.
-- Förtydligande rörande om det går att samutnyttja fler lokalytor exempelvis
+\- Förtydligande rörande om det går att samutnyttja fler lokalytor exempelvis
 personalutrymmen och eventutrymmen som även föreningsliv kan använda? Vad
 
 ska greenroom användas till när det inte är event?
-- Komplettering av uppgifter rörande den minskade läktarkapaciteten från 2500 till
+\- Komplettering av uppgifter rörande den minskade läktarkapaciteten från 2500 till
 2000 åskådare, som innebär att det kan finnas behov av att hyra in en extra
 läktare. Hur ofta kan den behöva hyras in och vad kostar det?
 
-- Komplettering rörande vilken publikkapaciteten är i B-hallen.
+\- Komplettering rörande vilken publikkapaciteten är i B-hallen.
 Fredrik Hansson (C), Emanuel Forsell (M) och Stefan Jägnert (SD) yrkar bifall till
 ordförandens (M) förslag.
 
@@ -1648,9 +1648,9 @@ Beslut om budget är tagen i kommunfullmäktige 2024-06-13 §34 och uppgår till
 miljoner inklusive indexreglering för planerat färdigställande 2028.
 
 Förstudien har utförts i två delar:
-- hösten 2023 baserat på beskrivna behov och vinnande förslag i projekttävling
+\- hösten 2023 baserat på beskrivna behov och vinnande förslag i projekttävling
 resulterade i alternativ A respektive alternativ B.
-- våren 2024 ytterligare bearbetning resulterade i alternativ C.
+\- våren 2024 ytterligare bearbetning resulterade i alternativ C.
 
 Då alternativ A och B, inte enligt kalkyl nått den beslutade ramen för projektet
 behövdes nödvändiga anpassningar göras inom ramen för KF:s beslut, vilket
@@ -1744,7 +1744,7 @@ totalentreprenad i samverkan har handlats upp.
 Beslut om investeringsbudget om 622 miljoner kronor har fattats av
 kommunfullmäktige 2024-06-13, inklusive indexreglering för planerat slutförande
 
-2028.
+2028\.
 För att säkerställa att projektet uppfyller beslut från kommunstyrelse
 (tävlingsprogram för projekttävling) respektive kommunfullmäktige (funktioner,
 innehåll, behov, budget) har Service Lokalförsörjning genomfört en förstudie baserad
@@ -1767,15 +1767,15 @@ de två som avser projektering respektive byggnation.
 Ett antal styrparametrar fanns vid ingången i förstudien och har under arbetets gång
 reviderats på grund av behovet att anpassa till gällande budget.
 Kvalitet
--  Arenans innehåll baseras på underlag framtaget i utredningsskedet.
+\-  Arenans innehåll baseras på underlag framtaget i utredningsskedet.
 Projekttävling genomfördes därefter med syfte att erhålla en arena med hög
 kvalitet.
 
--  Denna förstudie innehåller omarbetning och anpassning av projekttävlingens
+\-  Denna förstudie innehåller omarbetning och anpassning av projekttävlingens
 vinnande förslag för att hålla beslutad budget.
 
 Tid
--  Den ursprungliga tidplanen i KF-beslutet var att arenan planerades stå klar kv
+\-  Den ursprungliga tidplanen i KF-beslutet var att arenan planerades stå klar kv
 4 2024 men med överklagningar och med de kompletterande utredningar som
 har genomförts planeras nu arenan stå klar kv 2 2028 (Budget 2024-06-13).
 
@@ -1785,26 +1785,26 @@ har genomförts planeras nu arenan stå klar kv 2 2028 (Budget 2024-06-13).
 <!-- sida 39 -->
 
 Ekonomi
--  Kommunfullmäktige har beslutat att budget för projektet är 622 1 miljoner
+\-  Kommunfullmäktige har beslutat att budget för projektet är 622 1 miljoner
 kronor (investering exkl. konst och inventarier) varav 20 miljoner kronor har
 
 avsatts för Fas 1 genom kommunstyrelsens beslut 2023-02-21.
--  Förstudiens förslag håller den totala budgeten, men under Fas 1 har ett antal
+\-  Förstudiens förslag håller den totala budgeten, men under Fas 1 har ett antal
 omarbetningar för att hitta lösning inom budget inneburit en kostnad på 4
 miljoner kronor som inte var budgeterad. Därutöver visar prognosen för Fas 1
 att den ursprungliga kostnadsbedömningen av övriga moment i Fas 1 inte
 överensstämmer med budget. Ytterligare 2 miljoner beräknas för detta arbete.
 
--  Projektets ursprungliga kalkyl byggde på en delbar arena, inte A-hall och B-
+\-  Projektets ursprungliga kalkyl byggde på en delbar arena, inte A-hall och B-
 hall.
 
--  Total budget utökas inte så ökningen inom Fas 1 påverkar tillgängliga medel
+\-  Total budget utökas inte så ökningen inom Fas 1 påverkar tillgängliga medel
 för Fas 2 (riktkostnad).
 Hållbarhet
 
--  Projektet ska ha en tydlig och hög hållbarhetsprofil som utgår från
+\-  Projektet ska ha en tydlig och hög hållbarhetsprofil som utgår från
 projekttävlingens beskrivning av hållbarhetsmål.
--  Hållbarheten i projektet har definierats och specificerats för att inom budget
+\-  Hållbarheten i projektet har definierats och specificerats för att inom budget
 nyttja tillgängliga medel där de gör mest nytta.
 
 1 Budget indexreglerades från 603 till 622 miljoner kronor under förstudiearbetet. Detta beroende på att
@@ -1824,51 +1824,51 @@ Hela området är plant utan några tydliga höjdskillnader.
 
 3.1.2 Tekniska förutsättningar
 
--  Värmesystem planeras via fjärrvärme.
+\-  Värmesystem planeras via fjärrvärme.
 
--  Egenproducerad kyla till kylmaskiner.
+\-  Egenproducerad kyla till kylmaskiner.
 
--  Kommunalt vatten och avlopp ska anslutas till fastigheten.
+\-  Kommunalt vatten och avlopp ska anslutas till fastigheten.
 
--  Fiber ska anslutas till fastigheten.
+\-  Fiber ska anslutas till fastigheten.
 
--  Fett- och oljeavskiljare krävs för storkök och parkering.
+\-  Fett- och oljeavskiljare krävs för storkök och parkering.
 
--  Kraftmatning med ny anslutning.
+\-  Kraftmatning med ny anslutning.
 
--  Ytterligare geotekniska undersökningar i samband med projektering.
+\-  Ytterligare geotekniska undersökningar i samband med projektering.
 
--  Markmiljöndersökning har inte utförts i förstudieskedet.
+\-  Markmiljöndersökning har inte utförts i förstudieskedet.
 
 8/22
 2
 
 <!-- sida 41 -->
 
--  Om beslut tas att lägga utrymningsplats för kärnenergiolycka
+\-  Om beslut tas att lägga utrymningsplats för kärnenergiolycka
 motsvarande fas 2–3 i arenan behövs stationär reservkraft, nödvatten
 och anpassade lösningar på ventilationsanläggning. Förstudie har inte
 inkluderat detta i förslag eller kostnadsbedömning.
 
 3.1.3 Övriga förutsättningar
 
--  Lågriskområde för radon.
+\-  Lågriskområde för radon.
 
--  Servitut öster om fastighetsgränsen för fjärrvärmeledningar.
+\-  Servitut öster om fastighetsgränsen för fjärrvärmeledningar.
 
--  Biotopskyddade träd finns på/i anslutning till tomten.
+\-  Biotopskyddade träd finns på/i anslutning till tomten.
 
--  Inga fornlämningar finns på fastigheten.
+\-  Inga fornlämningar finns på fastigheten.
 
--  Inget strandskydd gäller för fastigheten.
+\-  Inget strandskydd gäller för fastigheten.
 
--  Elnätsområde E.ON Sverige AB
+\-  Elnätsområde E.ON Sverige AB
 
 3.2 Metodik förstudie
 
 Underlag har utgjorts av KF-beslutet med bilagor samt vinnande bidrag i
 projekttävling och rapport kring kommersiella lokaler från Newsec daterad 2023-10-
-31.
+31\.
 Förstudien har genomförts tillsammans med arkitekt, samverkansentreprenör,
 tekniska konsulter, brukare och med delprojekten där de flesta av kommunens
 förvaltningar är representerade.
@@ -1930,18 +1930,18 @@ delprojekt gjordes med hjälp av en extern konsult under hösten 2023 en kartlä
 av vad de kommersiella delarna skulle fyllas med.
 
 Rapport daterad 2023-10-31 (Newsec) redovisar bl a följande:
--  Total kommersiell yta 7000–10 000 kvm bedöms fortfarande vara relevant då
+\-  Total kommersiell yta 7000–10 000 kvm bedöms fortfarande vara relevant då
 ett stort intresse från tillfrågade potentiella hyresgäster har noterats
 
--  Aktörer inom Mat o Dryck respektive Gym är de som i första hand är
+\-  Aktörer inom Mat o Dryck respektive Gym är de som i första hand är
 aktuella. Segmentet Kontor är mer osäkert.
 
--  Aktuellt med boutique-gym (ca 300 kvm) snarare än stora gym.
--  Om restaurangytan delas upp på flera plan eller sprids ut är det mycket viktigt
+\-  Aktuellt med boutique-gym (ca 300 kvm) snarare än stora gym.
+\-  Om restaurangytan delas upp på flera plan eller sprids ut är det mycket viktigt
 att ha fungerande transportlösningar för varm mat och övrig servering.
 
--  Hyresgäster vill ha färdigbyggda lokaler.
--  Ingen nackdel att bygga mindre än behovet - då blir det större konkurrens om
+\-  Hyresgäster vill ha färdigbyggda lokaler.
+\-  Ingen nackdel att bygga mindre än behovet - då blir det större konkurrens om
 de ytor som finns (förutsatt att det är rätt typ av yta).
 
 Under våren 2024 har möten genomförts med kommunens ansvariga för
@@ -1951,10 +1951,10 @@ kommer hanteras under programskedet.
 
 Förstudien har utgått från att “kommersiella lokaler” avser lokaler som innehåller
 följande:
-- café, restaurang
-- gym
-- sjukgymnastik, rehab
-- kontorshotell, konferens, kontor
+\- café, restaurang
+\- gym
+\- sjukgymnastik, rehab
+\- kontorshotell, konferens, kontor
 
 Förstudien har utöver ovanstående gjort överväganden kring vilka ytor som kan
 räknas som kommunala respektive kommersiella. Gemensamma ytor som en
@@ -2050,10 +2050,10 @@ dokument.
 
 I behovsbeskrivningar förekommer behov som bedöms ha tillkommit/utökats sedan
 tidigare skede och beslutad budget. Detta gäller följande:
-- behov av administrativa platser och personalutrymmen för driftpersonal Service
+\- behov av administrativa platser och personalutrymmen för driftpersonal Service
 
 (tidigare har behoven bedömts fyllas av befintliga utrymmen i Ishallen)
-- ytor för eventverksamhet har växt och nivån av anpassning har också ökat -
+\- ytor för eventverksamhet har växt och nivån av anpassning har också ökat -
 omfattar nu t ex greenroom, utökade uppställningsytor, ökade mängd förrådsyta
 (tidigare har antagits att inga specifika ytor krävts). I alternativ C har denna utökning
 minskats jämfört med alternativ A och B.
@@ -2122,7 +2122,7 @@ Logistik, parkering, transporter
 Inom detaljplaneprojektet pågår ett arbete med mobilitetsbehovet2 kopplat till
 Kungsbacka Sportcenter. Arenaprojektet kommer involveras. Avslutas under kv 4
 
-2024.
+2024\.
 
 5.3 Kommersiella lokaler
 En fortsatt utredning av innehåll i de kommersiella delarna av arenan behöver göras.
@@ -2143,7 +2143,7 @@ Ersättningslokaler i form av tillfälliga bodar ska ordnas för perioden mellan
 och färdig arena. Preliminärt handlar detta om perioden kv3 2025 till kv2 2028.
 
 Lösning för ersättningslokaler hanteras som separat lokalbehov i lokalplan 2025–
-2029. Därmed ingår inte budget i förstudiens kostnadsbedömning.
+2029\. Därmed ingår inte budget i förstudiens kostnadsbedömning.
 
 5.5 3D-fastighetsbildning
 Enligt kommunfullmäktiges beslut ska arenan förberedas för en eventuell framtida
@@ -2214,13 +2214,13 @@ delar av fotbollsläktare respektive fotbollsplan med syfte att kunna skjuta på
 investeringsbehovet.
 Utredningen identifierade följande:
 
--  Östra delen av planerad läktare (se Figur 5.1) kan byggas senare. Om denna
+\-  Östra delen av planerad läktare (se Figur 5.1) kan byggas senare. Om denna
 del av läktaren inte byggs direkt får markytan användas till annat under tiden
 – kan ge ökade driftkostnader.
 
--  Rum för kommentatorer, TV-kamera och media (se Figur 5.1) på läktaren kan
+\-  Rum för kommentatorer, TV-kamera och media (se Figur 5.1) på läktaren kan
 byggas senare
--  En enklare modell av belysningsmast kan väljas initialt och senare bytas ut
+\-  En enklare modell av belysningsmast kan väljas initialt och senare bytas ut
 till “Superettanstandard”
 
 Figur 5.1 Fotbollsläktare. Röda markeringar avser delar som kan byggas senare, men som i nuläget är
@@ -2240,8 +2240,8 @@ vidare med alternativ C.
 
 Motivering till detta är att alternativ C:
 
--  uppfyller KF:s beslut inklusive budget
--  gestaltningsmässigt har en tydlig koppling till vinnande tävlingsförslag och
+\-  uppfyller KF:s beslut inklusive budget
+\-  gestaltningsmässigt har en tydlig koppling till vinnande tävlingsförslag och
 därmed anknyter till utfall av projekttävlingen
 
 Byggnaden innehåller en arenahall och en separat sporthall.
@@ -2358,32 +2358,32 @@ Förstudien har identifierats risker (och möjligheter) som behöver hanteras i
 kommande skede - här redovisas ett urval utan inbördes rangordning:
 Förutsättningar projektering
 
--  Fastighetens markförutsättningar (geoteknik, sättningsbenägenhet,
+\-  Fastighetens markförutsättningar (geoteknik, sättningsbenägenhet,
 avstånd till berg, översvämningsrisk m m)
 
--  Osäkerhet kostnads- och tidsmässigt vad gäller kommunens krav på
+\-  Osäkerhet kostnads- och tidsmässigt vad gäller kommunens krav på
 golvnivå +2,3 m innebär för projektet
 
--  Skyddsrum - ej utredda krav kan innebära behov av ändrad
+\-  Skyddsrum - ej utredda krav kan innebära behov av ändrad
 planlösning och ökade ytor
 
--  Risk för att förstudien överskattas och ses som en mer färdig produkt
+\-  Risk för att förstudien överskattas och ses som en mer färdig produkt
 än den är.
 
--  Risk att installationer inte utretts i tillräckligt stor omfattning i
+\-  Risk att installationer inte utretts i tillräckligt stor omfattning i
 förstudien och att detta kommer få inverkan i kommande skeden t ex
 
 vad gäller ökade ytbehov
 
 Budget och tid
 
--  Risker för ökning av kostnad respektive försening kopplat till att
+\-  Risker för ökning av kostnad respektive försening kopplat till att
 innehåll i kommersiella lokaler håller på att utredas och kommersiell
 motpart kommer saknas under Fas 1
 
--  Risk för markföroreningar på tomten
+\-  Risk för markföroreningar på tomten
 
--  Möjlighet att fortsatt projektering under programskedet innebär att
+\-  Möjlighet att fortsatt projektering under programskedet innebär att
 utökad maxkapacitet löses utan tillskjutande medel
 
 21/22
@@ -2393,49 +2393,49 @@ utökad maxkapacitet löses utan tillskjutande medel
 
 Förväntningar, behov i arenabyggnad
 
--  Arenan uppfyller inte projekttävlingens förväntade nivå på gestaltning
+\-  Arenan uppfyller inte projekttävlingens förväntade nivå på gestaltning
 pga den omarbetning som varit nödvändig för att uppnå budget.
 
--  Utformning av VIP-ytor har inte detaljstuderats i förstudien. Risken är
+\-  Utformning av VIP-ytor har inte detaljstuderats i förstudien. Risken är
 att nivån inte hamnat rätt och kräver omtag.
 
--  Eftersom torgyta framför arenabyggnaden inte ingår i projektet finns
+\-  Eftersom torgyta framför arenabyggnaden inte ingår i projektet finns
 risk för att det tidsmässigt och gestaltningsmässigt blir osynkat.
 
--  Behov av stängsel kring Back o House – yta fungerar för
+\-  Behov av stängsel kring Back o House – yta fungerar för
 eventverksamhet men är ett problem för alla andra som behöver
 använda ytan
 
--  Risk att logistik inom byggnaden och även runt byggnaden inte
+\-  Risk att logistik inom byggnaden och även runt byggnaden inte
 fungerar när den börjar studeras i detalj i kommande skede
 
 Politiska beslut, myndigheter
 
--  Överklagan på detaljplan och bygglovsansökan
+\-  Överklagan på detaljplan och bygglovsansökan
 
--  Utökning av isyta kan bli aktuell inom området väster om
+\-  Utökning av isyta kan bli aktuell inom området väster om
 arenatomten. Oklart vilka konsekvenser detta får för arenabyggnaden
 
--  Förslaget godkänns inte vid den politiska behandlingen
+\-  Förslaget godkänns inte vid den politiska behandlingen
 
 Organisation
 
--  Risk att nyckelpersoner försvinner ur projektet vid stopp i väntan på
+\-  Risk att nyckelpersoner försvinner ur projektet vid stopp i väntan på
 politiska beslut.
 
--  Otydlighet kring beslutsfattande vad gäller behov och innehåll i
+\-  Otydlighet kring beslutsfattande vad gäller behov och innehåll i
 
 arenabyggnaden.
 
 Produktion
 
--  Risk att mängden trä som finns i tävlingsförslaget kommer innebära
+\-  Risk att mängden trä som finns i tävlingsförslaget kommer innebära
 behov av väderskydd och/eller etappindelning som påverkar både
 budget och tidplan negativt.
 
--  Möjlighet att korta ner produktionstiden och därmed fasta kostnader
+\-  Möjlighet att korta ner produktionstiden och därmed fasta kostnader
 
--  Möjlighet att handla när marknaden är fördelaktig
+\-  Möjlighet att handla när marknaden är fördelaktig
 
 22/22
 2
@@ -5125,7 +5125,7 @@ u
 ts
 rö
 F
--
+\-
 a
 n
 e
@@ -5174,10 +5174,10 @@ A
 1
 7
 0
--
+\-
 6
 0
--
+\-
 4
 2
 0
@@ -5221,7 +5221,7 @@ u
 ts
 rö
 F
--
+\-
 a
 n
 e
@@ -5270,10 +5270,10 @@ A
 1
 7
 0
--
+\-
 6
 0
--
+\-
 4
 2
 0
@@ -5324,13 +5324,13 @@ N
 Ä
 R
 G
-- S
+\- S
 R
 E
 T
 E
 M
--
+\-
 0
 8
 ISHALL                                                                   INFART BoH
@@ -5396,7 +5396,7 @@ u
 ts
 rö                                                                                                                                           FÖRSTUDIE
 F
-- a                                                                                                                                      KUNGSBACKA ARENA n
+\- a                                                                                                                                      KUNGSBACKA ARENA n
 e
 rA
 a
@@ -5447,7 +5447,7 @@ KA
 LA
 1:500 A
 NUM
--
+\-
 MER
 01-1-001
 BET
@@ -5575,7 +5575,7 @@ tv 0.r .2
 e di
 u ts rö
 F
--
+\-
 n a                       PA 47 S , S 6 A m G ² E e rA
 a k ca
 b
@@ -5662,7 +5662,7 @@ t A3 v .0 r
 e id u ts A3
 rö
 F
-- A2 a A1/6 PENTRY 2 0 M ,0 E S m S ² OR O.L F . RD 3 H 9 A ,9 N m D ² BOLL FR F D Ö S R2 P E 2 0 F O 2 ,N R 2 ,6 R I D Nm T m G² H ² A A R LLEN FRD S 6 I C 1 N , 6 4 H N , 0 A E m K m ² B T ² ANDY T 4 R R , 2 8 A W 3 P , m C 1 P ² m H ² US PA 25 S ,4 S n a e k Ar ca b s A H m G ² IS E S VINDFÅN 2 G 9, 9 / T A m I ² C 2 KETRIP SEMINARIER 6 U 7 M ,0 /F m O ² TBOLLS-VIP BØ M T I6N T ,2 E IS K mT O ²Ä T D T / 23 W , A 2 C R m E ² 9 N 5 A 3, 1 P m LA ² N 2 25 W ,9 C m² SJUKV 12 Å ,6 R D m² S g RWC A1 n u K 5,5 m² 1 T 7 E 9 K ,7 N m IK ² / a n A1/6 e Ar
+\- A2 a A1/6 PENTRY 2 0 M ,0 E S m S ² OR O.L F . RD 3 H 9 A ,9 N m D ² BOLL FR F D Ö S R2 P E 2 0 F O 2 ,N R 2 ,6 R I D Nm T m G² H ² A A R LLEN FRD S 6 I C 1 N , 6 4 H N , 0 A E m K m ² B T ² ANDY T 4 R R , 2 8 A W 3 P , m C 1 P ² m H ² US PA 25 S ,4 S n a e k Ar ca b s A H m G ² IS E S VINDFÅN 2 G 9, 9 / T A m I ² C 2 KETRIP SEMINARIER 6 U 7 M ,0 /F m O ² TBOLLS-VIP BØ M T I6N T ,2 E IS K mT O ²Ä T D T / 23 W , A 2 C R m E ² 9 N 5 A 3, 1 P m LA ² N 2 25 W ,9 C m² SJUKV 12 Å ,6 R D m² S g RWC A1 n u K 5,5 m² 1 T 7 E 9 K ,7 N m IK ² / a n A1/6 e Ar
 a k HC A1   KOMMENSETKRETARIASTPEAKER KAMERA KONTROLLRUM / MÖT ca
 b s g n u B2 A18 A19 K /A20 A21 B10 B11 / :s
 co
@@ -5703,7 +5703,7 @@ tv 0.r
 e di u ts
 rö
 F
-- a n e rA a k ca b s g n u K / a n e Ar
+\- a n e rA a k ca b s g n u K / a n e Ar
 a k ac
 b s g n u K / / s:
 co
@@ -5774,12 +5774,12 @@ a
 n
 e rA
 F
--
+\-
 a
 id
 e
 u ts
--
+\-
 rö F
 A3
 15 W ,0 C m²
@@ -5813,7 +5813,7 @@ K                               k
 k s e d
 s co
 D
-:
+\:
 /
 /
 B2     A18    A19
@@ -5916,7 +5916,7 @@ A4
 rö
 F
 n e rA
--
+\-
 a    A3
 t
 . v . 2 0 r
@@ -5958,7 +5958,7 @@ k s
 e d o
 s co
 D
-:
+\:
 B2     A18    A19
 a
 e
@@ -5991,7 +5991,7 @@ B2     A18
 1
 7
 0
--
+\-
 6
 A              0 - 4 B PLAN 3
 2
@@ -6053,7 +6053,7 @@ e di
 u ts
 rö                                                                                                                                           FÖRSTUDIE
 F
--
+\-
 a                                                                                                                                         KUNGSBACKA ARENA
 n
 e
@@ -6110,7 +6110,7 @@ KA
 LA
 1:250 A
 NUM
--
+\-
 MER
 41-1-101
 BET
@@ -6148,7 +6148,7 @@ u
 ts
 rö                                                                                                                                           FÖRSTUDIE
 F
--
+\-
 a                                                                                                                                         KUNGSBACKA ARENA
 n
 e
@@ -6205,13 +6205,13 @@ N
 N
 D
 A
--
+\-
 D
 D ,
 A
 E
 V
--
+\-
 1
 E
 A
@@ -6219,7 +6219,7 @@ A
 4 R
 F
 E/
--
+\-
 N
 F
 2A0BYGGNAD
@@ -6255,7 +6255,7 @@ u
 ts
 rö                                                                                                                                           FÖRSTUDIE
 F
--
+\-
 a                                                                                                                                         KUNGSBACKA ARENA
 n
 e
@@ -6305,7 +6305,7 @@ E
 N
 L
 D
-:
+\:
 L Ä
 0
 G
@@ -6313,7 +6313,7 @@ G
 G
 1
 A
--
+\-
 R
 0
 E
@@ -6336,7 +6336,7 @@ KA
 LA
 1:250 A
 NUM
--
+\-
 MER
 40-2-101
 BET
@@ -6360,7 +6360,7 @@ v
 .2.0 r
 id e
 u ts
--
+\-
 rö F
 id e
 u
@@ -6415,7 +6415,7 @@ A
 7
 0
 Fasad 7 0 : : 8 5 5 1 : : 7 8 5 0 5 1
-- 6 0 7 0 -
+\- 6 0 7 0 -
 -6
 40
 2-
@@ -6475,7 +6475,7 @@ u
 ts
 rö
 F
--
+\-
 a
 n
 e
@@ -6524,10 +6524,10 @@ Fasader :8
 1
 7
 0
--
+\-
 6
 0
--
+\-
 4
 2
 0
@@ -7480,11 +7480,11 @@ Kommunstyrelsens arbetsutskott får information om hur arbetet fortlöper med
 Kungsbacka Arena.
 
 Informationen berör
-- Återkoppling på frågor från tidigare informationstillfällen
-- Lägesrapport delprojekt
-- Fas 1 – förstudie
-- Lägesrapport – utformning
-- Nästa information i KSAU
+\- Återkoppling på frågor från tidigare informationstillfällen
+\- Lägesrapport delprojekt
+\- Fas 1 – förstudie
+\- Lägesrapport – utformning
+\- Nästa information i KSAU
 
 Beslutsgång
 Ordförande Fredrik Hansson (C) prövar om kommunstyrelsens arbetsutskott kan
@@ -7514,10 +7514,10 @@ Kommunstyrelsens arbetsutskott får information om hur arbetet med Kungsbacka
 Arena fortskrider.
 
 Informationen berör lägesrapport för de olika delprojekten:
-- Förstudie Fas 1
+\- Förstudie Fas 1
 
-- Uthyrningsarbetet
-- Ekonomi
+\- Uthyrningsarbetet
+\- Ekonomi
 
 Informationen berör också utformningen av det underlag som kommunstyrelsen
 kommer att få inför beslut i ärendet under våren, planering av regelbundna
@@ -7603,25 +7603,25 @@ Oktober     2023
 
 Innehållsförteckning
 
-1.  Beskrivning av uppdraget
+1\.  Beskrivning av uppdraget
 
-2.  Kungsbacka  kommun
+2\.  Kungsbacka  kommun
 
-3.  Kungsbacka  Arena
+3\.  Kungsbacka  Arena
 
-4.  Stadsutvecklingsprojekt i närområdet
+4\.  Stadsutvecklingsprojekt i närområdet
 
-5.  Jämförelsereferenser  arenor i Sverige
+5\.  Jämförelsereferenser  arenor i Sverige
 
-6.  Marknadsundersökning
+6\.  Marknadsundersökning
 
-7.  Analys och utvärdering av marknadsundersökning
+7\.  Analys och utvärdering av marknadsundersökning
 
-8.  Unikitet i erbjudandet
+8\.  Unikitet i erbjudandet
 
-9.  Rekommendation    av lokalslag
+9\.  Rekommendation    av lokalslag
 
-10. Slutsats och nästa steg
+10\. Slutsats och nästa steg
 
 <!-- sida 141 -->
 
@@ -8392,11 +8392,11 @@ marknadsundersökning för de kommersiella ytorna som ska tillskapas i Kungsback
 Arena.                                                                       avgränsning
 Marknadsundersökningen har varit uppdelad i tre olika moment:                Lokala                 6
 
--  Telefonsamtal
+\-  Telefonsamtal
 Regionala              2
--  Digitala möten
+\-  Digitala möten
 
--  Skriftlig marknadsundersökning via mail                                   Nationella             35
+\-  Skriftlig marknadsundersökning via mail                                   Nationella             35
 
 Frågorna som  har  ställts via telefonsamtal och digitala möten har varit
 Nordiska               4
@@ -10546,9 +10546,9 @@ Kommunfullmäktiges beslut 2021-04-13 § 51, innehållande även kommunstyrelsen
 beslut 2021-03-23 § 72
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2021-03-02
 Ur Projektbeskrivning 2021-03-02 med utredningsunderlag, bilagor A-H10:
-- H5. Utvärdering av möjliga alternativ till flera gestaltningsförslag, Kungsbacka
+\- H5. Utvärdering av möjliga alternativ till flera gestaltningsförslag, Kungsbacka
 kommun Samhällsbyggnadskontoret
-- H6. Utredning driftformer V 1.9 Kungsbacka kommun Förvaltningen för Kultur
+\- H6. Utredning driftformer V 1.9 Kungsbacka kommun Förvaltningen för Kultur
 och Fritid, 2020-12-18
 
 Förslag till beslut på sammanträdet
@@ -10715,7 +10715,7 @@ Samhällsbyggnadskontoret).
 
 Kommunstyrelsen avsätter medel för genomförande av projekttävling med 1 500 000
 kronor, vilket finansieras ur kommunstyrelsens anslag för oförutsedda utgifter för
-2021.
+2021\.
 
 Kommunstyrelsen uppdrar åt kommundirektören att ta fram förslag till
 genomförande av upphandling av drift av de kommersiella delarna av Kungsbacka

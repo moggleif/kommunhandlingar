@@ -115,7 +115,7 @@ Patientsäkerhetsberättelse 2023
 
 Beslutet skickas till
 
--
+\-
 
 Beskrivning av ärendet
 
@@ -216,7 +216,7 @@ SAMMANFATTNING .................................................................
 Organisation och ansvar .................................................................................................5
 
 Övergripande mål och strategier.....................................................................................6
-2. En god säkerhetskultur ...................................................................................................8
+2\. En god säkerhetskultur ...................................................................................................8
 
 Lärande, kommunikation och reflektion .........................................................................8
 Egenkontroller ................................................................................................................9
@@ -233,21 +233,21 @@ Informationssäkerhet ..........................................................
 
 Samverkan för att förebygga vårdskador ......................................................................11
 
-3. Adekvat kunskap och kompetens ..................................................................................14
+3\. Adekvat kunskap och kompetens ..................................................................................14
 Kompetenskrav för hälso-och sjukvårdspersonal inom elevhälsan ................................14
 Bemanning och kontinuitet ...........................................................................................14
 
-4. Patienten som medskapare ..........................................................................................16
+4\. Patienten som medskapare ..........................................................................................16
 Informerat samtycke.....................................................................................................16
 Hantering av klagomål och synpunkter .........................................................................16
 
-5. Resultat/analys .............................................................................................................17
+5\. Resultat/analys .............................................................................................................17
 Egenkontroll .................................................................................................................17
 
 Resultat gällande identifierade mål för 2023.................................................................18
 Händelser/avvikelser ....................................................................................................20
 
-6. Mål och utmaningar för kommande år ..........................................................................22
+6\. Mål och utmaningar för kommande år ..........................................................................22
 Bilaga 1. ........................................................................................................................24
 
 3
@@ -400,17 +400,17 @@ PSL 2010:659, 3 kap. 1 §, SOSFS 2011:9, 3 kap. 1-3 §
 
 Elevhälsans medicinska del har alltid ett övergripande mål att patientsäkert kunna
 erbjuda
--  Förebyggande och hälsofrämjande insatser för att stödja elever
+\-  Förebyggande och hälsofrämjande insatser för att stödja elever
 
--  Erbjuda vaccinationer enligt FHM vaccinationsprogram
+\-  Erbjuda vaccinationer enligt FHM vaccinationsprogram
 
 6
 
 <!-- sida 12 -->
 
--  Hälsosamtal/kontroller där identifiering av insatser skall upptäckas så att eleven får
+\-  Hälsosamtal/kontroller där identifiering av insatser skall upptäckas så att eleven får
 den hjälp hen är i behov av.
--  Utföra enklare sjukvårdsinsatser
+\-  Utföra enklare sjukvårdsinsatser
 
 Utifrån dessa övergripande mål tas även fram identifierade mål för patientsäkerhetsarbete.
 De bygger på det systematiska kvalitetsarbete inom elevhälsans medicinska del som sker
@@ -450,7 +450,7 @@ nödvändiga för att kunna utföra vårt uppdrag på ett patientsäkert sätt.
 
 <!-- sida 13 -->
 
-2. En god säkerhetskultur
+2\. En god säkerhetskultur
 
 En grundläggande förutsättning för en säker vård är en god säkerhetskultur.
 Organisationen ger då förutsättningar för en kultur som främjar säkerhet och
@@ -731,16 +731,16 @@ En god säkerhetskultur inom verksamheten där lärande, kommunikation och refle
 
 ledord bygger på intern samverkan som tidigare beskrivits. Intern samverkan består av bl.a.:
 
--  Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
--  Ledningsmöten Elevhälsans medicinska insats
--  Samverkan mellan EMI samt övrig elevhälsa
--  Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
+\-  Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
+\-  Ledningsmöten Elevhälsans medicinska insats
+\-  Samverkan mellan EMI samt övrig elevhälsa
+\-  Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
 
 13
 
 <!-- sida 19 -->
 
-3. Adekvat kunskap och kompetens
+3\. Adekvat kunskap och kompetens
 
 En grundläggande förutsättning för en säker vård är att det finns
 tillräckligt med personal som har adekvat kompetens och goda
@@ -799,41 +799,41 @@ introduktion/utbildning när de gäller de psykologiska insatserna inom elevhäl
 
 Kontinuerlig fortbildning (återkommande) EMI Centralt
 
--  Kompetensutvecklingsdag (heldag)
--  Yrkesspecifik utbildning i journalsystem (Prorenata)
--  Skolsköterskedagarna (2 dagars utbildning)
--  Kategorimöten (olika områden/patientsäkerhet)
+\-  Kompetensutvecklingsdag (heldag)
+\-  Yrkesspecifik utbildning i journalsystem (Prorenata)
+\-  Skolsköterskedagarna (2 dagars utbildning)
+\-  Kategorimöten (olika områden/patientsäkerhet)
 
 Kompetensutvecklingsinsatser under 2023 EMI Centralt
--  Medicinska tillstånd barn/ungdomar
--  Pubertetsskattning (halvdag)
--  Ungdomars sömnvanor
+\-  Medicinska tillstånd barn/ungdomar
+\-  Pubertetsskattning (halvdag)
+\-  Ungdomars sömnvanor
 
--  Skolsköterskedagarna Norrköping
--  Journalföring/Utveckling nya journalsystemet Prorenata
+\-  Skolsköterskedagarna Norrköping
+\-  Journalföring/Utveckling nya journalsystemet Prorenata
 
 Kontinuerlig fortbildning (återkommande) EPI Centralt
--  Kompetensutvecklingsdag (heldag) x 2
--  Yrkesspecifik utbildning i journalsystem (Prorenata)
--  PFISOS dagarna (dock deltog ingen av psykologerna år 2023)
--  Kategorimöten (olika områden/patientsäkerhet)
+\-  Kompetensutvecklingsdag (heldag) x 2
+\-  Yrkesspecifik utbildning i journalsystem (Prorenata)
+\-  PFISOS dagarna (dock deltog ingen av psykologerna år 2023)
+\-  Kategorimöten (olika områden/patientsäkerhet)
 
 Kompetensutvecklingsinsatser under 2023 EPI Centralt
 
--  I samarbete med Habiliteringen i Kungsbacka anordnades en kompetenshöjande
+\-  I samarbete med Habiliteringen i Kungsbacka anordnades en kompetenshöjande
 insats runt differentieringen av svag teoretisk begåvning/lindrig intellektuell
 funktionsnedsättning (extern föreläsare) för samtliga psykologer inom Kungsbacka
 kommun
--  Journalföring/avvikelsehantering i det nya journalsystemet Prorenata
+\-  Journalföring/avvikelsehantering i det nya journalsystemet Prorenata
 
--  På utvecklingsdagen (8 december) bjöds extern föreläsare in; Barnahus samt
+\-  På utvecklingsdagen (8 december) bjöds extern föreläsare in; Barnahus samt
 introduktion av PALS.
 
 15
 
 <!-- sida 21 -->
 
-4. Patienten som medskapare
+4\. Patienten som medskapare
 
 En grundläggande förutsättning för en säker vård är patientens och de
 närståendes delaktighet. Vården blir säkrare om patienten är välinformerad,
@@ -852,14 +852,14 @@ Samtycke och/eller information mellan elevhälsans medicinska insats och
 
 elever/vårdnadshavare sker inom följande insatser:
 
--  Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
--  Information/samtycke vaccinationer inom basprogrammet
--  Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt
+\-  Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
+\-  Information/samtycke vaccinationer inom basprogrammet
+\-  Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt
 för vårdnadshavare. Hälsosamtalet är personcentrerad dialog mellan skolsköterska
 och elev som syftar till att främja hälsa och förebygga ohälsa. Här har elev och/eller
 
 vårdnadshavare förutsättningar till delaktighet och medskapande.
--  Information/samtycke om åtgärder som kan behövas initieras efter
+\-  Information/samtycke om åtgärder som kan behövas initieras efter
 hälsosamtal/hälsobesök.
 
 Samtycke från vårdnadshavare krävs vid vissa insatser såsom vaccinationer och
@@ -882,7 +882,7 @@ kvalitets/patientsäkerhetsarbete.
 
 <!-- sida 22 -->
 
-5. Resultat/analys
+5\. Resultat/analys
 
 SOSFS 2011:9, 5 kap. 2 §, 7 §, 8 §, 7 kap. 2 § p 2, PSL 2010:659, 3 kap. 10 §
 Vårdgivaren ska utöva egenkontroll, vilket ska göras med den frekvens och i den omfattning
@@ -1039,17 +1039,17 @@ Under 2023 har inget klagomål/synpunkt inkommit till Elevhälsans medicinska de
 
 <!-- sida 27 -->
 
-6. Mål och utmaningar för kommande år
+6\. Mål och utmaningar för kommande år
 
 Övergripande mål
 
 Elevhälsans medicinska del har alltid ett övergripande mål att patientsäkert kunna erbjuda
--  Förebyggande och hälsofrämjandeinsatser för att stödja elever
--  Erbjuda vaccinationer enligt FHM vaccinationsprogram
+\-  Förebyggande och hälsofrämjandeinsatser för att stödja elever
+\-  Erbjuda vaccinationer enligt FHM vaccinationsprogram
 
--  Hälsosamtal/kontroller där identifiering av insatser skall upptäckas så att eleven får
+\-  Hälsosamtal/kontroller där identifiering av insatser skall upptäckas så att eleven får
 den hjälp hen är i behov av.
--  Utföra enklare sjukvårdsinsatser
+\-  Utföra enklare sjukvårdsinsatser
 
 Dessa mål säkerställs genom egenkontroller och kontinuerlig dialog med närmsta chef
 (rektor) och VC HSL.
@@ -1209,7 +1209,7 @@ Presentation enkät, 2024-02-16
 
 Beslutet skickas till
 
--
+\-
 
 Beskrivning av ärendet
 
@@ -1308,11 +1308,11 @@ Den som får omhänderta mobiltelefoner eller annan elektronisk kommunikationsut
 första, andra eller tredje stycket får även uppdra åt någon annan att göra detta.
 
 4 c § Ett föremål som har omhändertagits enligt
-- 4 b § första stycket ska återlämnas till eleven senast i samband med att undervisningspasset har
+\- 4 b § första stycket ska återlämnas till eleven senast i samband med att undervisningspasset har
 avslutats för eleven,
-- 4 b § andra stycket ska återlämnas till eleven senast i nära anslutning till att eleven har lämnat
+\- 4 b § andra stycket ska återlämnas till eleven senast i nära anslutning till att eleven har lämnat
 utrymmet efter idrottslektionen,
-- 4 b § tredje stycket ska återlämnas när skälet för omhändertagandet har upphört.
+\- 4 b § tredje stycket ska återlämnas när skälet för omhändertagandet har upphört.
 
 Bestämmelsen reglerar befogenheten att ta ifrån mobiltelefoner i syfte att förhindra störningar i
 undervisningen. Åtgärden syftar till att proaktivt förebygga potentiella avbrott i specifika

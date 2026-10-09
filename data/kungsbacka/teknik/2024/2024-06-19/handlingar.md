@@ -215,10 +215,10 @@ framtidsanalys för en hållbar färdtjänst. Kapitel 3 Beställningscentral”:
 
 Alternativ
 
-1. Ny upphandling av Beställningscentral när avtalstiden går ut i mars 2025
-2. Överlåta uppgiften Beställningscentral genom en överenskommelse till Hallandstrafiken
+1\. Ny upphandling av Beställningscentral när avtalstiden går ut i mars 2025
+2\. Överlåta uppgiften Beställningscentral genom en överenskommelse till Hallandstrafiken
 likt övriga Hallands kommuner
-3. Överlåta uppgiften Beställningscentral genom en överenskommelse till Västtrafik
+3\. Överlåta uppgiften Beställningscentral genom en överenskommelse till Västtrafik
 
 Förvaltningen förordar förslaget ”Överlåta uppgiften Beställningscentral genom en överenskommelse
 till Hallandstrafiken likt övriga halländska kommuner”.
@@ -331,7 +331,7 @@ I dialog med infrastrukturspecialister och upphandling i Kungsbacka ställde sig
 följande frågeställningar: ............................................................................................... 13
 
 Möjliga vägar för en hållbar färdtjänst ............................................................................... 13
-1. Myndighetsutövning.............................................................................................. 14
+1\. Myndighetsutövning.............................................................................................. 14
 
 1.1. Tillämpningsregler .......................................................................................... 14
 1.2. Avstånds- och tidsbaserad taxa ....................................................................... 15
@@ -345,7 +345,7 @@ från fritidshem som skolskjuts. ...............................................
 
 1.6. Lämna över helheten enligt 4§ Lag om färdtjänst till Region Halland ............... 22
 1.7. Möjliggörande för civilsamhället att samåka ................................................... 25
-2. Trafiksamordning................................................................................................... 27
+2\. Trafiksamordning................................................................................................... 27
 
 2.1. Ändra överenskommelsen med Region Halland som Trafiksamordnare mot Västra
 götalandsregionen som trafiksamordnare .................................................................. 27
@@ -357,7 +357,7 @@ götalandsregionen som trafiksamordnare ........................................
 2.2. Konkurrensutsätta Trafiksamordningen .......................................................... 27
 2.3. Utreda möjligheten till intern transportgrupp ................................................. 28
 
-3. Beställningscentral ................................................................................................ 30
+3\. Beställningscentral ................................................................................................ 30
 3.1. Ny upphandling av Beställningscentral när avtalstiden går ut i mars 2025 ....... 30
 3.2. Överlåta uppgiften Beställningscentral genom en överenskommelse till Hallandstrafiken
 likt övriga Hallands kommuner ................................................................................... 32
@@ -488,7 +488,7 @@ avtal som Region Halland har upprättat.
 ansökningar « Fordon « Kundtjänst eller autogiro
 . Utfärdar särskilda + Chaufförer + Anmäl försenad resa
 parkeringstillstånd e Fakturafrågor « Avboka resa
-+ Tillämpningsregler +» Synpunkter och
+\+ Tillämpningsregler +» Synpunkter och
 utifrån lagen om klagomål
 färdtjänst « Frågor om
 » Trafikförsörjnings tillståndet
@@ -940,26 +940,26 @@ intressenter är ofta nödvändigt för att hantera och optimera kostnaderna fö
 
 I dialog med infrastrukturspecialister och upphandling i Kungsbacka ställde sig
 förvaltningen även följande frågeställningar:
-1. Vad innebär överenskommelsen med Hallandstrafiken och när/ska den följas upp och skrivas
+1\. Vad innebär överenskommelsen med Hallandstrafiken och när/ska den följas upp och skrivas
 
 om?
-2. I Kungsbacka har vi Västtrafik som kör kommunens kollektivtrafik – vad innebär det i
+2\. I Kungsbacka har vi Västtrafik som kör kommunens kollektivtrafik – vad innebär det i
 sammanhanget?
-- Skulle det vara möjligt att konkurrensutsätta Hallandstrafiken genom upphandling som
+\- Skulle det vara möjligt att konkurrensutsätta Hallandstrafiken genom upphandling som
 Trafiksamordnare och vad skulle det innebära?
-3. Skulle vi, genom Kommunallagens (2017:725) öppning om möjligheter för avtalssamverkan
+3\. Skulle vi, genom Kommunallagens (2017:725) öppning om möjligheter för avtalssamverkan
 mellan kommuner utanför ramen för LOU för att ge även nya möjligheter till samordning,
 kunna göra en överenskommelse med Västtrafik, som idag kör kollektivtrafiken i kommunen,
 att vara vår trafiksamordnare likt den överenskommelse som Kungsbacka har med
 
 Hallandstrafiken har idag?
-4. Vi har idag upphandlat en annan beställningscentral än Hallandstrafiken, får vi välja att inte
+4\. Vi har idag upphandlat en annan beställningscentral än Hallandstrafiken, får vi välja att inte
 upphandla utan ”bara lämna över” till Hallandstrafiken med hänvisning till ex § 4 Lag om
 färdtjänst eller måste vi upphandla beställningscentral eftersom vi gjort det innan?
-5. Vi har idag upphandlat en beställningscentral, får vi välja att inte upphandla utan ”bara lämna
+5\. Vi har idag upphandlat en beställningscentral, får vi välja att inte upphandla utan ”bara lämna
 över” till Västtrafik med hänvisning till ex § 4 Lag om färdtjänst eller måste vi upphandla
 beställningscentral eftersom vi gjort det innan?
-6. Skulle Västtrafik kunna lämna anbud och vinna upphandling om beställningscentral?
+6\. Skulle Västtrafik kunna lämna anbud och vinna upphandling om beställningscentral?
 
 Möjliga vägar  för en hållbar färdtjänst
 
@@ -986,7 +986,7 @@ presentera inom dessa tre delar.
 
 <!-- sida 21 -->
 
-1. Myndighetsutövning
+1\. Myndighetsutövning
 Färdtjänst regleras av Lag (1997:736) om färdtjänst och inbegriper särskilt anordnade transporter för
 personer med funktionshinder. Kommunen har ansvaret för att ordna färdtjänst av god kvalitet, och
 detta kan delegeras till den regionala kollektivtrafikmyndigheten. Tillstånd till färdtjänst beviljas
@@ -1672,7 +1672,7 @@ resenär behöver utredas och förtydligas
 
 <!-- sida 34 -->
 
-2. Trafiksamordning
+2\. Trafiksamordning
 Region Halland, genom Hallandstrafiken, är idag vår Trafiksamordnare och ansvarar för upphandling
 av utförare ex. taxibolag och chaufförer och organisering av trafiken.
 
@@ -1839,7 +1839,7 @@ körningar som kommunen redan hanterar.
 
 <!-- sida 37 -->
 
-3. Beställningscentral
+3\. Beställningscentral
 Beställningscentralen är den funktion till vilken kunden kontaktar för att boka/avboka resa, få
 information om sitt tillstånd, lämna klagomål m.m.
 
@@ -2155,15 +2155,15 @@ kvalitetsrapporter och statistik behöver inhämtas och analyseras från två ol
 
 | Leverantör | Kostnad<br>beställningscentral | Administration och<br>samordning | Summa |
 | --- | --- | --- | --- |
-| Beställningscentral HLT | 643 800 kr (21,46 kr *<br>30 000 resor) | 0 kr (ingen kostnad för<br>administration och<br>samordning utgår då<br>den är inkluderad i<br>kostnaden om 21,46 kr<br>per resa). | 643 800 kr |
-| Beställningscentral via<br>upphandling, idag<br>Dynava | 612 216 kr (51 018 kr *<br>12 månader) | 448 500 kr (14,95 kr *<br>30 000 resor) | 1 060 716 kr |
+| Beställningscentral HLT | 643 800 kr (21,46 kr \*<br>30 000 resor) | 0 kr (ingen kostnad för<br>administration och<br>samordning utgår då<br>den är inkluderad i<br>kostnaden om 21,46 kr<br>per resa). | 643 800 kr |
+| Beställningscentral via<br>upphandling, idag<br>Dynava | 612 216 kr (51 018 kr \*<br>12 månader) | 448 500 kr (14,95 kr \*<br>30 000 resor) | 1 060 716 kr |
 
 [Tabell 42-2](handlingar.tabeller/42-2.csv)
 
 | Leverantör | Kostnad<br>beställningscentral | Administration och<br>samordning | Summa |
 | --- | --- | --- | --- |
-| Beställningscentral HLT | 2 400 000 kr (200 000 kr<br>* 12 månader) | 1 180 300 kr (10,73 kr *<br>110 000 resor) | 3 580 300 kr |
-| Beställningscentral via<br>upphandling, idag<br>Dynava | 1 836 660 kr (153 055 kr<br>* 12 månader) | 1 644 500 kr (14,95 kr *<br>110 000 resor) | 3 481 160 kr |
+| Beställningscentral HLT | 2 400 000 kr (200 000 kr<br>\* 12 månader) | 1 180 300 kr (10,73 kr \*<br>110 000 resor) | 3 580 300 kr |
+| Beställningscentral via<br>upphandling, idag<br>Dynava | 1 836 660 kr (153 055 kr<br>\* 12 månader) | 1 644 500 kr (14,95 kr \*<br>110 000 resor) | 3 481 160 kr |
 
 <!-- sida 43 -->
 
@@ -2416,7 +2416,7 @@ amanda.bjurstrom(Mkungsbacka.se +46704190200 (mob)
 
 dan.nilssonQsamres.se
 
-1. Kommersiella villkor
+1\. Kommersiella villkor
 
 1.1 Parter
 
@@ -2476,14 +2476,14 @@ Avtalshandlingarna kompletterar varandra. Om avtalshandlingarna skulle visa sig 
 något avseende gäller de, om inte omständigheter uppenbarligen föranleder annat, sinsemellan i
 följande ordning
 
-1. Skriftliga ändringar och tillägg till avtal vilka skriftligen är godkända av båda parter.
-2. Avtal (med tillhörande avtalsbilagor)
+1\. Skriftliga ändringar och tillägg till avtal vilka skriftligen är godkända av båda parter.
+2\. Avtal (med tillhörande avtalsbilagor)
 
-3. Upphandlingsdokumentet
+3\. Upphandlingsdokumentet
 
-4. Beställning
+4\. Beställning
 
-5. Leverantörens anbud
+5\. Leverantörens anbud
 
 1.8 Lagar och förordningar
 
@@ -2551,13 +2551,13 @@ Sida 3/16
 
 Beställningscentral 20/113
 
-- Om endast 60-75 246 av totala mängden inkommande samtal besvaras inom fyrtiofem (45) sekunder
+\- Om endast 60-75 246 av totala mängden inkommande samtal besvaras inom fyrtiofem (45) sekunder
 utgår ett vitesbelopp om 15 000 SEK per kalendermånad.
 
-- Om endast 50-60 9246 av totala mängden inkommande samtal besvaras inom fyrtiofem (45) sekunder
+\- Om endast 50-60 9246 av totala mängden inkommande samtal besvaras inom fyrtiofem (45) sekunder
 utgår ett vitesbelopp om 25 000 SEK per kalendermånad.
 
-- Om lägre svarstider än 50 24 av totala mängden inkommande samtal besvaras inom fyrtiofem (45)
+\- Om lägre svarstider än 50 24 av totala mängden inkommande samtal besvaras inom fyrtiofem (45)
 sekunder utgår ett vitesbelopp om 35 000 SEK per kalendermånad.
 
 Efter första försenade kalendermånaden höjs respektive ovan vitesbelopp med 10 000 SEK. Vite kan
@@ -2645,7 +2645,7 @@ exklusive moms. Fakturering sker årsvis i efterskott.
 
 1.25 Ansvar och försäkring
 
-1. Ansvar för skada
+1\. Ansvar för skada
 
 Leverantören ansvarar för samtliga person- och sakskador som leverantören, eller annan för vilken
 leverantören ansvarar, orsakar genom vårdslöshet. Om leverantören enligt lag eller rättspraxis har ett
@@ -2666,7 +2666,7 @@ Sida 5/16
 
 Beställningscentral 20/113
 
-2. Försäkring
+2\. Försäkring
 Leverantören förbinder sig att teckna och under hela avtalstiden vidmakthålla erforderlig
 ansvarsförsäkring som täcker leverantörens skadeståndsrättsliga ansvar enligt punkt 1 ovan.
 
@@ -2676,7 +2676,7 @@ försäkringsbeviset.
 
 Om leverantören brister i någon av ovanstående förutsättningar, har beställaren rätt att häva avtalet.
 
-3. Grov vårdslöshet och uppsåt m.m.
+3\. Grov vårdslöshet och uppsåt m.m.
 I punkt 1 angivna ansvarsbegränsningar gäller inte om leverantören har orsakat skadan genom
 rättighetsintrång, grov vårdslöshet eller uppsåt.
 
@@ -2778,7 +2778,7 @@ Leverantören får inte utan kommunens skriftliga medgivande överlåta, upplåt
 
 Sida 7/16
 
-4)
+4\)
 
 <!-- sida 55 -->
 
@@ -2790,20 +2790,20 @@ eller skyldigheter enligt avtal.
 
 Kommunen äger rätt att med omedelbar verkan säga upp avtalet om:
 
-- Leverantören vid tidpunkten för beslutet att ingå ramavtalet befann sig i någon av de situationer som
+\- Leverantören vid tidpunkten för beslutet att ingå ramavtalet befann sig i någon av de situationer som
 avses i 13 kap. 18 LOU och borde ha uteslutits från upphandlingen enligt den bestämmelsen.
 
-- Leverantören har lämnat oriktiga uppgifter i anbudet eller på annat sätt i samband med upphandlingen
+\- Leverantören har lämnat oriktiga uppgifter i anbudet eller på annat sätt i samband med upphandlingen
 och dessa inte varit av oväsentlig betydelse vid valet av leverantör.
 
-- Leverantören (VD:n eller annan med ledande ställning) enligt laga kraft vunnen dom dömts för
+\- Leverantören (VD:n eller annan med ledande ställning) enligt laga kraft vunnen dom dömts för
 ekonomiska brott eller belagts med näringsförbud.
 
-- Ramavtalet har varit föremål för en ändring som inte är tillåten enligt 17 kap. 9-14 88 LOU.
+\- Ramavtalet har varit föremål för en ändring som inte är tillåten enligt 17 kap. 9-14 88 LOU.
 
-- Domstol eller myndighet fastställer att avtalet ingåtts i strid med upphandlingslagstiftningen.
+\- Domstol eller myndighet fastställer att avtalet ingåtts i strid med upphandlingslagstiftningen.
 
-- Europeiska unionens domstol i ett förfarande enligt artikel 258 i fördraget om Europeiska unionens
+\- Europeiska unionens domstol i ett förfarande enligt artikel 258 i fördraget om Europeiska unionens
 funktionssätt (EUF-fördraget) finner att Sverige, genom att låta den upphandlande myndigheten ingå
 kontraktet eller ramavtalet, allvarligt har åsidosatt sina skyldigheter enligt fördraget avseende
 Europeiska unionen, EUF-fördraget eller Europaparlamentets och rådets direktiv 2014/24/EU av den 26
@@ -2812,10 +2812,10 @@ myndighet fastställer att avtalet ingåtts i strid med upphandlingslagstiftning
 
 Härutöver äger part rätt att med omedelbar verkan säga upp avtalet om:
 
-- Part i väsentlig mån brister i förpliktelse enligt avtalet och inte vidtar rättelse inom skälig tid efter
+\- Part i väsentlig mån brister i förpliktelse enligt avtalet och inte vidtar rättelse inom skälig tid efter
 skriftlig anmodan därom.
 
-- Part begått avtalsbrott upprepade gånger, även om avtalsbrotten var för sig inte är av väsentlig
+\- Part begått avtalsbrott upprepade gånger, även om avtalsbrotten var för sig inte är av väsentlig
 betydelse.
 
 Som väsentligt avtalsbrott avses bland annat att leverantören inte fullgjort i upphandlingen ställda krav,
@@ -2869,7 +2869,7 @@ Sida 9/16
 
 Beställningscentral 20/113
 
-2. Obligatoriska krav på tjänsten
+2\. Obligatoriska krav på tjänsten
 
 2.1 Samordning av resor
 
@@ -2941,14 +2941,14 @@ varför inte alternativ ett (1) använts.
 
 Kunden ska vid beställningstillfället erhålla uppgifter om:
 
-- Dag, klockslag och plats för hämtning alternativt närmaste hållplats.
+\- Dag, klockslag och plats för hämtning alternativt närmaste hållplats.
 
-- Färdsätt; bil, tåg, låggolvbuss samt identifieringsbegrepp såsom linjenummer.
+\- Färdsätt; bil, tåg, låggolvbuss samt identifieringsbegrepp såsom linjenummer.
 
-- Beräknad ankomsttid till beställd adress. Om kunden beställt ”senast frammetid” ska även beräknad
+\- Beräknad ankomsttid till beställd adress. Om kunden beställt ”senast frammetid” ska även beräknad
 ankomsttid lämnas.
 
-- Priset på resan.
+\- Priset på resan.
 
 Om platsen har flera möjliga upphämtningsställen måste detta tydliggöras mellan kund och Leverantör.
 Upphämtningsstället ska även tydliggöras mellan leverantören och Hallandstrafiken AB (HLAB).
@@ -3004,40 +3004,40 @@ Förare ska omgående meddela uppkommen försening till leverantören. Leverant�
 vilken/vilka åtgärder som ska vidtas då en försening rapporteras av förare eller via trafikföretags
 ledningscentral.
 
-- Leverantören ansvarar för att kund som ringer in om problem vid resa, exempelvis försenat eller
+\- Leverantören ansvarar för att kund som ringer in om problem vid resa, exempelvis försenat eller
 uteblivet fordon, får hjälp så att kunden får sin resa enligt sin beställning.
 
-- Leverantören ska arbeta aktivt med larm- och störningshantering i syfte att säkerställa kvaliteten i
+\- Leverantören ska arbeta aktivt med larm- och störningshantering i syfte att säkerställa kvaliteten i
 bokningarna.
 
-- Leverantören ansvarar för att informera berörd kund om givna förutsättningar ändras för beställd resa.
+\- Leverantören ansvarar för att informera berörd kund om givna förutsättningar ändras för beställd resa.
 Flera kunder kan då komma att beröras. Information om leveransavvikelse ska ske per telefon eller efter
 överenskommelse med kunden via SMS.
 
-- Utifrån avtalad påstigningstid ska föraren i normalfallet aktivt söka kunden i tio (10) minuter innan
+\- Utifrån avtalad påstigningstid ska föraren i normalfallet aktivt söka kunden i tio (10) minuter innan
 "hom" noteras. Leverantören ska göra en notering om orsaken till "bom".
 
-- Bokning av regelbundet återkommande resor ska ske i dialog med kunden. Hög kontinuitet ska
+\- Bokning av regelbundet återkommande resor ska ske i dialog med kunden. Hög kontinuitet ska
 uppnås genom att hämtning och lämning sker på regelbundna tider. Detta innebär ofta att manuell
 planering blir nödvändig.
 
-- Skolskjutsar ska planeras manuellt av särskilt utsedd person. Bilagan "Information till föräldrar om taxi
+\- Skolskjutsar ska planeras manuellt av särskilt utsedd person. Bilagan "Information till föräldrar om taxi
 inför läsåret" ska tillämpas. Under högtrafik mellan cirka klockan 7:00-8.30 är det många resor som ska
 genomföras. Det är därför viktigt att planeringen av skolskjutsresor görs på ett optimalt sätt med
 utgångspunkt från fordonstillgång, utan att ge avkall på de särskilda behov som vissa elever har vad
 gäller transporterna.
 
-- Leverantören ska säkerställa elförsörjning för växel och dataterminaler vid elavbrott under minst
+\- Leverantören ska säkerställa elförsörjning för växel och dataterminaler vid elavbrott under minst
 tjugofyra (24) timmar.
 
 2.10 Hantering av synpunkter
 
 Leverantören ska:
 
-- Tillhandahålla personalresurser och system för synpunktshantering. Resenärer som har synpunkter på
+\- Tillhandahålla personalresurser och system för synpunktshantering. Resenärer som har synpunkter på
 sin resa ska kontakta leverantören.
 
-- Registrera synpunkter i ett ärendehanteringssystem så att dessa kan redovisas till. beställaren.
+\- Registrera synpunkter i ett ärendehanteringssystem så att dessa kan redovisas till. beställaren.
 
 Sida 12/16
 
@@ -3049,38 +3049,38 @@ Leverantören ska även utreda synpunkter för att klarlägga bakgrund och orsak
 muntligt och skriftligt. I detta ingår att meddela felaktigheter som upptäcks till den som ska åtgärda
 felaktigheter.
 
-- Registrera synpunkter som rör utförandet av transporter som Hallandstrafiken AB (HLAB) ansvarar för i
+\- Registrera synpunkter som rör utförandet av transporter som Hallandstrafiken AB (HLAB) ansvarar för i
 deras synpunktssystem Respons.
 
-- Kvartalsvis redovisa vilka synpunkter som kommit in och hur de åtgärdats och följts upp. Resenär som
+\- Kvartalsvis redovisa vilka synpunkter som kommit in och hur de åtgärdats och följts upp. Resenär som
 blir mer än trettio (30) minuter försenad är berättigad till resegaranti enligt Kungsbacka kommuns
 tillämpningsregler för Kommunal färdtjänst.
 
 Lösningen på synpunktshantering sker genom att leverantören ska hantera ärendena från "start till slut"
 genom att hantera:
 
-- Mottagning av ärende
+\- Mottagning av ärende
 
-- Registrering av ärende
+\- Registrering av ärende
 
-- Utredning av ärende
+\- Utredning av ärende
 
-- Svar tillbaka till kund
+\- Svar tillbaka till kund
 
-- Beslut om resegaranti enligt förutbestämd mall
+\- Beslut om resegaranti enligt förutbestämd mall
 
-- Inlägg av garantiresor
+\- Inlägg av garantiresor
 
-- Rapportering till uppdragsgivare
+\- Rapportering till uppdragsgivare
 
-- Export av transportörsrelaterade ärenden till Hallandstrafiken veckovis eller med annan
+\- Export av transportörsrelaterade ärenden till Hallandstrafiken veckovis eller med annan
 överenskommen frekvens
 
-- Statistik och analys
+\- Statistik och analys
 
-- Eget telefonnummer till kundtjänst
+\- Eget telefonnummer till kundtjänst
 
-- Öppettider mellan klockan 08:00 - 16:00 vardagar
+\- Öppettider mellan klockan 08:00 - 16:00 vardagar
 
 Leverantören ska även utreda transportörsrelaterade ärenden, vilket innebär att leverantören skickar
 remisser och frågor till trafikföretagen. Ärenden som berör trafikföretagen redovisas (exporteras) till
@@ -3475,7 +3475,7 @@ Som en del av Hallandstrafikens kollektivtrafik (kommun och region) och utifrån
 omfattas färdtjänsten av gällande miljöarbete i samt Hallandstrafikens professionella
 ’Regionalt Trafikförsörjningsprogram’ som bedömning blev ingången att påbörja en
 antogs av Regionfullmäktige den 9 december omställning till ett fossilfritt samhälle senast
-2020. I de riktlinjer som skapades mellan 2030. Aktuella avtalskrav blev därför en
+2020\. I de riktlinjer som skapades mellan 2030. Aktuella avtalskrav blev därför en
 Hallands kommuner och Region Halland funktionell kravställning på fossilfrihet (ingen
 gällande överlåtelse av färdtjänsten pekas de specifik teknik) som när trafikavtal 2022–2026
 strategiska frågorna ut till det regionala trafikf- går igång ska vara 50 procent fossilfritt vid
@@ -3771,18 +3771,18 @@ Bakgrund
 
 Länsstyrelsen har den 24 oktober 2023 fått in en begäran från BERNIIIIIIN om att Länsstyrelsen ska pröva
 om området Västra Hagen i Kungsbacka kommun omfattas av kommunalt ansvar enligt lagen om allmänna
-vattentjänster avseende vattentjänsten dagvatten. I lagen (2006:412) om allmänna vattentjänster anges i 6 $
+vattentjänster avseende vattentjänsten dagvatten. I lagen (2006:412) om allmänna vattentjänster anges i 6 \$
 sammanfattningsvis att om det med hänsyn till skyddet för människors hälsa eller miljön behöver ordnas
 vattenförsörjning eller avlopp i ett större sammanhang så är det kommunalt ansvar att ordna detta. Det är med
-stöd av 51 $ som Länsstyrelsen utövar tillsynen över att kommunen fullgör denna skyldighet.
+stöd av 51 \$ som Länsstyrelsen utövar tillsynen över att kommunen fullgör denna skyldighet.
 
 Nedan lyder Förvaltningen för Tekniks svar på Länsstyrelsens 16 frågor kring Kungsbacka kommuns syn på
-ansvarsfrågan enligt 6 $ lagen om allmänna vattentjänster i Västra Hagen.
+ansvarsfrågan enligt 6 \$ lagen om allmänna vattentjänster i Västra Hagen.
 
 Sammanfattning
 
 Nämnden för Teknik får härmed yttra sig enligt Länsstyrelsens i Hallands län, Länsstyrelsen, begäran
-2024-02-27 och lämna Tekniks syn på ansvarsfrågan enligt 6 $ lagen om allmänna vattentjänster (LAV).
+2024-02-27 och lämna Tekniks syn på ansvarsfrågan enligt 6 \$ lagen om allmänna vattentjänster (LAV).
 
 Nämnden för Tekniks bedömning är att:
 
@@ -3797,7 +3797,7 @@ för Teknik att det inte går att försvara utökat verksamhetsområde för dagv
 Kommunens yttrande skickas till Kommunstyrelsens förvaltning som lämnar kommunens samlade
 yttrande till Länsstyrelsen.
 
-1. Hur ser dagvattensituationen ut i området? Och 2. Hur är dagvattenfrågan löst idag?
+1\. Hur ser dagvattensituationen ut i området? Och 2. Hur är dagvattenfrågan löst idag?
 Västra Hagen har varierad terräng med lågpunkter och instängda områden. Området är uppdelad i flera
 avrinningsområden. Området består av villa-fastigheter och områden med naturmark (bild 1). Det finns ca 300
 
@@ -3864,13 +3864,13 @@ KUNGSBACKA  KOMMUN
 
 Bild 3. Ungefärlig hårdgjord yta, 495m2 på Fastighet Onsala-Hallen 2:11.
 Det går ett annat vattenstråk igenom fastighet Onsala-Hallen 2:12 som sedan passerar över Västra Strandvägen
-2. Fastighet Onsala-Hallen 2:12 (byggnadsår 2004) har också en hårdgjord yta på drygt 500 m2 (ungefär 30%)
+2\. Fastighet Onsala-Hallen 2:12 (byggnadsår 2004) har också en hårdgjord yta på drygt 500 m2 (ungefär 30%)
 och enligt Beslut om Kontrollplan (2002-12-10) ska de ha ett dammsystem för lokalt omhändertagande av
 dagvatten.
 
 Bild 4. Fastighet Onsala-Hallen 2:12 har en hårdgjord yta på omkring 30% och ska enligt handlingar tillhörande bygglov från 2002, ha
 ett dammsystem för lokalt omhändertagande av dagvatten.
-3. Ur dagvattenperspektiv, hur avgränsar kommunen området? Hur många fastigheter omfattas?
+3\. Ur dagvattenperspektiv, hur avgränsar kommunen området? Hur många fastigheter omfattas?
 
 <!-- sida 80 -->
 
@@ -3899,7 +3899,7 @@ Bild 5 och 4. Kommunens förslag på utredningsområde utifrån
 
 dagvattenproblematik i området, markerat i grönt som avrinningsområde för vattenstråk som rinner över Västra Strandvägen 2.
 
-4. Har det inkommit några synpunkter, någon information eller några indikationer till kommunen
+4\. Har det inkommit några synpunkter, någon information eller några indikationer till kommunen
 gällande dagvatten i området? Beskriv den information som kommunen i så fall har fått, till
 vilken förvaltning dessa inkommit, när det inkommit samt hur kommunen hanterat frågan.
 Dåvarande Gatukontoret på Kungsbacka kommun hade en första kontakt med Västra Hagens vägförening
@@ -3934,11 +3934,11 @@ I fallet Västra Strandvägen 2 handlade det om marköversvämning. Fastigheten 
 tryckte upp vid sidan av vägen och hade troligen gått både ovanpå och under vägen och vidare in i huset.
 Boende berättade att ”vatten kom från alla håll”. Som ett försök till åtgärd för fallet Västra Strandvägen stöttade
 kommunen med följande åtgärder:
--  kommunen grävde upp det kommunala ledningsschaktet för vatten och spill som sammanlänkar två
+\-  kommunen grävde upp det kommunala ledningsschaktet för vatten och spill som sammanlänkar två
 sandlager genom berg (Bild 7), och satte dit en lerpropp för att förhindra att vatten skulle kunna ledas i
 rörgraven. Det visade sig dock att vatten inte hade runnit här och alltså inte var upphovet till problemet
 (lerpropp sattes dit ändå).
--  kommunen gjorde en omläggning av 30–35 meter dräneringsledningen längst med östra sidan av Västra
+\-  kommunen gjorde en omläggning av 30–35 meter dräneringsledningen längst med östra sidan av Västra
 Strandvägen, ovan Västra Strandvägen 2 och man la makadam över.
 
 <!-- sida 82 -->
@@ -3990,12 +3990,12 @@ kommer ifrån heller.
 KUNGSBACKA  KOMMUN
 9 (17)
 
-5. Om det har inkommit synpunkter osv, Har ni någon uppfattning om när problemen i området
+5\. Om det har inkommit synpunkter osv, Har ni någon uppfattning om när problemen i området
 började?
 
 Kommunen hade ingen kännedom om problematiken innan 2021. Problematiken fanns inte från början enligt
 då de flyttade in på fastighet Onsala-Hallen 2:18 år 2012.
-6. Bifoga den rapport från Sweco som det hänvisas till i begäran. Redogör för slutsatserna och
+6\. Bifoga den rapport från Sweco som det hänvisas till i begäran. Redogör för slutsatserna och
 eventuella rekommendationer i rapporten. Redogör även för om det genomförts eller planeras att
 genomföras några åtgärder med anledning av rapporten.
 Swecos analys i dagvattenutredningen indikerade att följande parametrar visar behov av dagvattenutbyggnad:
@@ -4030,7 +4030,7 @@ rapportens slutsatser.
 
 För hela Swecos rapport, se Bilaga 3.
 
-7. Beskriv området. Hur ser de fysiska förutsättningarna ut på platsen, till exempel jordmån,
+7\. Beskriv området. Hur ser de fysiska förutsättningarna ut på platsen, till exempel jordmån,
 infiltrationsförmåga, grundvattennivå etc.
 Utredningsområdet ligger till stora delar på berg och sand (Bild 9). I sand kan infiltrationskapaciteten vara god
 medan berg indikerar att infiltrationskapaciteten är låg. Grundvattennivåerna varierar enligt SGUs brunnskarta
@@ -4050,20 +4050,20 @@ Svallsediment, grus2
 
 Onsala-Hallen 2:18 ligger mestadels på svallsediment, grus och är möjligen ett utströmningsområde för
 markvatten. Två vattenstråk går på varsin sida av byggnaden på fastigheten.
-8. Redogör för hur exploateringen i området har sett ut över tid. Består området av
+8\. Redogör för hur exploateringen i området har sett ut över tid. Består området av
 
 permanentbostäder eller tillfälliga bostäder?
 Utredningsområdet har varit ett sommarstugeområde som allt eftersom omvandlats till året-runt hus. Ett fåtal
 sommarstugor finns kvar. Andelen hårdgjord yta i området har successivt ökat.
-9. Finns det andra områden i närheten med liknande förutsättningar/problematik?
+9\. Finns det andra områden i närheten med liknande förutsättningar/problematik?
 Fastigheter i närheten som rapporterat problematik:
 
--  Källaröversvämning med spillvatten rapporterades från Västra Hagenvägen 54, vid regnhändelse 2017,
+\-  Källaröversvämning med spillvatten rapporterades från Västra Hagenvägen 54, vid regnhändelse 2017,
 där spillvattenledningen gick full. Detta skedde på nytt 2021 trots åtgärden att montera backventil på
 nödutlopp från närliggande spillvattenpumpstation. Ytterligare åtgärder genomfördes av kommunen.
 Fastighetsägaren har dessutom rapporterat vid fler tillfällen om problem med dagvatten genom
 vattenansamling på tomten.
--  Gräsvägen 6 hade källaröversvämningar med vatten som kommer in via golvbrunn som är kopplad till
+\-  Gräsvägen 6 hade källaröversvämningar med vatten som kommer in via golvbrunn som är kopplad till
 spillvattenledning, 2021. Drabbades på liknande vis även 2017 vid kraftig regnhändelse men anmälde
 inte den händelsen.
 
@@ -4074,7 +4074,7 @@ inte den händelsen.
 KUNGSBACKA  KOMMUN
 11 (17)
 
--  Fastigheten på Allborydsvägen 27 har rapporterat problem med tillrinnande dagvatten till sin tomt från
+\-  Fastigheten på Allborydsvägen 27 har rapporterat problem med tillrinnande dagvatten till sin tomt från
 fastigheter uppströms tillrinningsvägen.
 
 Inför att kommunalt verksamhetsområde för Vatten och Avlopps (då kallat VA-sanering) skulle införas 2005–
@@ -4085,37 +4085,37 @@ berörda och framtagandet av en rapport och ytterligare kartor. Enkäten gick ut
 och 200 av de utskickade 241 enkäterna besvarades, varav drygt 30 uppgav sig ha problem med dagvatten. På
 detta vis kunde ett antal problemområden utläsas:
 Marken:
-1. En kulvert under Valldavägen dämmer så att vatten blir stående i grönområdet längst västerut på Munkebacksvägen.
+1\. En kulvert under Valldavägen dämmer så att vatten blir stående i grönområdet längst västerut på Munkebacksvägen.
 Vägverket?
 
-2. Ett par fastigheter längs Lilla Munkebacksvägen (Köpstaden 3:49/3:53) har problem med att det kommer stora
+2\. Ett par fastigheter längs Lilla Munkebacksvägen (Köpstaden 3:49/3:53) har problem med att det kommer stora
 vattenmängder söderifrån. 3:49 har vattenfylld källare ca 1 g/år på grund av att avskärande dike inte finns. De
 ovanliggande fastigheterna släpper sitt dag- och dränvatten vid tomtgräns.
-3. Fastigheterna Köpstaden 2:6/2:19 har problem med de vattenmängder som kommer från berget. Det finns inget
+3\. Fastigheterna Köpstaden 2:6/2:19 har problem med de vattenmängder som kommer från berget. Det finns inget
 avskärande dike mellan vägen och 2:19 vilket gör att vattnet rinner över tomten.
 
-4. Området söder om fastigheterna Köpstaden 2.11/2:12 är sankt under vår och blöta somrar. (Se även Sevekulla 4).
+4\. Området söder om fastigheterna Köpstaden 2.11/2:12 är sankt under vår och blöta somrar. (Se även Sevekulla 4).
 OBS! Fastigheten 2:12 ligger lågt! Vägföreningen har lagt en dagvattenledning som mynnar i en dagvattenbrunn på
 Munkebacksvägen.
-5. Fastigheten Köpstaden 2:23 har svårt att bli av med sitt dagvatten på grund av bergförekomst i diket.
+5\. Fastigheten Köpstaden 2:23 har svårt att bli av med sitt dagvatten på grund av bergförekomst i diket.
 
-6. Fastigheten Köpstaden 1:51 ligger i en lågpunkt och har problem med att vägtrumman genom Onsala Skogsväg ligger
+6\. Fastigheten Köpstaden 1:51 ligger i en lågpunkt och har problem med att vägtrumman genom Onsala Skogsväg ligger
 för högt.
-7. Ett antal fastigheter längs Onsala Bergväg /Norra Markavägen har problem med det vatten som kommer från
+7\. Ett antal fastigheter längs Onsala Bergväg /Norra Markavägen har problem med det vatten som kommer från
 höjdområdet norrut. Avskärande dike utanför Köpstaden 1:31 samt kulvert mellan fastigheterna Köpstaden 1:33/1:34
 behövs förmodligen.
 
-8. Längs Festekullavägen har makadamdiken anlagts och dessa fungerar bra, men i korsningen Festekullavägen/Onsala
+8\. Längs Festekullavägen har makadamdiken anlagts och dessa fungerar bra, men i korsningen Festekullavägen/Onsala
 Bergväg dämmer det.
 
 Sevekulla:
-9. Fastigheter längs Fåraböliden. Här har ett antal fastigheter tidigare haft problem med dagvatten. Enligt vägföreningen
+9\. Fastigheter längs Fåraböliden. Här har ett antal fastigheter tidigare haft problem med dagvatten. Enligt vägföreningen
 är dessa problem lösta nu, men ett par fastighetsägare uppger i enkäten att de fortfarande har problem att bli av med
 dagvattnet på grund av att vägdiken ligger för högt.
 
-10. Igenlagda diken längs Dalgången orsakar problem för en fastighetsägare då vattnet rinner över vägen och in på hans
+10\. Igenlagda diken längs Dalgången orsakar problem för en fastighetsägare då vattnet rinner över vägen och in på hans
 tomt.
-11. Längs Mavägen har ett antal fastighetsägare problem med att vägdiken ligger för högt i förhållande till fastigheterna,
+11\. Längs Mavägen har ett antal fastighetsägare problem med att vägdiken ligger för högt i förhållande till fastigheterna,
 vilket innebär att de inte kan bli av med sitt dagvatten. Det dike som ligger mellan Köpstaden 10:26 och Köpstaden
 10:29/10:32 behöver fördjupas och förbättras. Det dike som ligger norr om fastigheterna Köpstaden 10:22/10:23
 
@@ -4127,20 +4127,20 @@ KUNGSBACKA  KOMMUN
 behöver röjas. Problemet verkar också ligga i att de kulverteringar av vägdiken som är gjorda är för klena och
 därigenom dämmer och orsakar översvämningar.
 
-12. Längs Sevekullavägen är det några fastigheter som har uppgett att de har problem. Området bakom fastigheterna
+12\. Längs Sevekullavägen är det några fastigheter som har uppgett att de har problem. Området bakom fastigheterna
 Sevekulla 1:5 och 1:6 är sankt och det verkar inte finnas någon organiserade avledning av dagvatten här. I området
 bakom Köpstaden 10:4 är det enligt uppgift stora vattenansamlingar. Det ligger ett delvis igenlagt dike på baksidan av
 fastigheten som behöver öppnas upp och förbättras.
 
 Älskogsbräcka:
-13. Området kring fastigheterna Älskogsbräcka 1:41 – 1:47 i den sydöstra delen av Älskogsbräcka. Här har ett antal
+13\. Området kring fastigheterna Älskogsbräcka 1:41 – 1:47 i den sydöstra delen av Älskogsbräcka. Här har ett antal
 fastighetsägare uppgett att de har problem vid kraftigt regn och snösmältning. Den lilla tjärnen i sydöst avvattnas
 genom området och orsakar förmodligen problemen. Många av fastigheterna uppger att de diken som finns inte
 fungerar eftersom de inte sköts. Enligt uppgift i enkäten saknas kulvert från diket i Kaggebådan till Bräckavägen,
 vilket kan vara orsak till vattenansamlingen.
 
-14. Området kring Blindskärsvägen. Problem med kvarstående vatten i diken.
-15. Området kring fastigheterna Älskogsbräcka 1:35 – 1:39. Stora vattenmängder från mossen belastar området. De
+14\. Området kring Blindskärsvägen. Problem med kvarstående vatten i diken.
+15\. Området kring fastigheterna Älskogsbräcka 1:35 – 1:39. Stora vattenmängder från mossen belastar området. De
 obebyggda delarna längre norrut ligger flackt och har enligt uppgift otillräcklig avrinning, vilket dämmer vattenflödet
 från området.
 
@@ -4148,22 +4148,22 @@ Utifrån denna inventering drog kommunen slutsatsen att lokalt omhändertagande 
 tillämpas även i fortsättningen. Kommunen rekommenderade att en utveckling av befintligt LOD-system och att
 ansvarsfördelningen för underhållet av bäckar, diken och kulvertar tydliggörs.
 
-10. Bifoga detaljplanehandlingar för det aktuella området.
+10\. Bifoga detaljplanehandlingar för det aktuella området.
 Bilaga 4–6:
 •  Planbeskrivning - O26B-ÄDP.ÄDP_Planbeskrivning.pdf
 
 •  Planbestämmelser - O26B-ÄDP.ÄDP_Planbestämmelser.pdf
 •  Plankarta - O26B-ÄDP.ÄDP_Plankarta.pdf
 
-11. Bifoga de dagvattenutredningar som gjorts för området och eventuellt närliggande områden.
+11\. Bifoga de dagvattenutredningar som gjorts för området och eventuellt närliggande områden.
 Bilaga 7:
 
 •  Sammanställning av dagvattenenkäter Marken/Sevekulla/Älskogsbräcka -
 Dagvatteninventering_kopia.doc
 
-12. Planeras ytterligare förtätningar i området? Om ja, redovisa de planer som finns.
+12\. Planeras ytterligare förtätningar i området? Om ja, redovisa de planer som finns.
 Nej.
-13. Vilken är recipienten för dagvatten från området? Hur bedömer kommunen dagvattnets
+13\. Vilken är recipienten för dagvatten från området? Hur bedömer kommunen dagvattnets
 påverkan på recipienten?
 
 Recipienten är Töseviken som ligger inom vattenförekomsten Onsala kustvatten (WA64137885).
@@ -4180,7 +4180,7 @@ då det bedöms tekniskt omöjligt att sänka halterna till de nivåer som motsv
 halter TBT bedöms på vissa ställen höga och bedöms härstamma från båttrafik. Kommunen bedömer ingen
 nämnvärd föroreningsbelastning från utredningsområdet då det är gles villabebyggelse uppblandat med
 naturmark och där finns ingen genomfartstrafik.
-14. Bifoga en karta över området som även visar er bedömning av hur många fastigheter det rör sig
+14\. Bifoga en karta över området som även visar er bedömning av hur många fastigheter det rör sig
 om.
 Se även svar under Fråga 2. De fastigheter som ingår är:
 
@@ -4193,7 +4193,7 @@ Onsala-Hallen
 
 Bild 9. Fastigheter som ingår i utredningsområdet.
 
-15. Bifoga karta där verksamhetsområden i närheten framgår. Specificera vilka vattentjänster som
+15\. Bifoga karta där verksamhetsområden i närheten framgår. Specificera vilka vattentjänster som
 avses inom de olika verksamhetsområdena.
 Norr om utredningsområdet finns ett mindre verksamhetsområde för dagvatten där sju fastigheter ingår.
 Verksamhetsområdets dagvatten avleds i ledningar till havet i väster (bild 12). Dessa ledningar byggdes 2008.
@@ -4233,7 +4233,7 @@ KUNGSBACKA  KOMMUN
 Bild 12. Verksamhetsområde för Spillvatten (rött rutnät), verksamhetsområde för vatten (blått rutnät) och verksamhetsområde för
 dagvatten gata i och omkring utredningsområdet.
 
-16. Anser Kungsbacka kommun att det föreligger ansvar enligt 6 § lagen om allmänna vattentjänster
+16\. Anser Kungsbacka kommun att det föreligger ansvar enligt 6 § lagen om allmänna vattentjänster
 avseende dagvatten för det aktuella området? Redogör för skälen till den bedömning som
 kommunen gör.
 Kommunen har under förlängd svarstid filmat de befintliga dräneringsledningar och privata dagvattenledning
@@ -4252,11 +4252,11 @@ Kommunen anser att Swecos utredning inte visar på ett uppenbart behov av verksa
 området. Den visar att det kan föreligga ett visst ansvar enligt 6 § lagen om allmänna vattentjänster avseende
 
 dagvatten utifrån samlad bebyggelse och vissa utmaningar med bortledande av dagvatten, men att kommunen:
--  fortfarande är osäker på om kommunal hantering av dagvattnet i området är det som kommer hjälpa upp
+\-  fortfarande är osäker på om kommunal hantering av dagvattnet i området är det som kommer hjälpa upp
 situationen på Västra Strandvägen 2, där vattnet kommer från under marken, trycks upp och går in
 under huset även under torrperioder. Vid kraftigt regn tränger vatten både över och under vägen in på
 berörd fastighet.
--  vill påpeka att inrättande av kommunalt verksamhetsområde för dagvatten i området kommer innebära
+\-  vill påpeka att inrättande av kommunalt verksamhetsområde för dagvatten i området kommer innebära
 stora kostnaden både för VA-kollektivet och för många enskilda fastighetsägare i området som inte
 
 själva upplever problem.
@@ -4311,14 +4311,14 @@ frågeställningarna kan röra flera förvaltningars och bolags
 ansvarsområden och att Länsstyrelsen önskar få in ett samlat svar
 från Kungsbacka kommun. Av redogörelsen bör framgå:
 
-1. Hur ser dagvattensituationen ut i området?
+1\. Hur ser dagvattensituationen ut i området?
 
-2. Hur är dagvattenfrågan löst idag?
+2\. Hur är dagvattenfrågan löst idag?
 
-3. Ur dagvattenperspektiv, hur avgränsar kommunen området?
+3\. Ur dagvattenperspektiv, hur avgränsar kommunen området?
 Hur många fastigheter omfattas?
 
-4. Har det inkommit några synpunkter, någon information eller
+4\. Har det inkommit några synpunkter, någon information eller
 några indikationer till kommunen gällande dagvatten i
 området? Beskriv den information som kommunen i så fall
 har fått, till vilken förvaltning dessa inkommit, när det
@@ -4334,48 +4334,48 @@ Länsstyrelsen H allands län          Begäran                   2 (3)
 
 2024-02-27       7557-2023
 
-5. Om det har inkommit synpunkter osv, Har ni någon
+5\. Om det har inkommit synpunkter osv, Har ni någon
 uppfattning om när problemen i området började?
 
-6. Bifoga den rapport från Sweco som det hänvisas till i begäran.
+6\. Bifoga den rapport från Sweco som det hänvisas till i begäran.
 Redogör för slutsatserna och eventuella rekommendationer i
 
 rapporten. Redogör även för om det genomförts eller
 planeras att genomföras några åtgärder med anledning av
 rapporten.
 
-7. Beskriv området. Hur ser de fysiska förutsättningarna ut på
+7\. Beskriv området. Hur ser de fysiska förutsättningarna ut på
 
 platsen, till exempel jordmån, infiltrationsförmåga,
 grundvattennivå etc.
 
-8. Redogör för hur exploateringen i området har sett ut över tid.
+8\. Redogör för hur exploateringen i området har sett ut över tid.
 Består området av permanentbostäder eller tillfälliga
 bostäder?
 
-9. Finns det andra område i närheten med liknande
+9\. Finns det andra område i närheten med liknande
 förutsättningar/problematik?
 
-10. Bifoga detaljplanehandlingar för det aktuella området.
+10\. Bifoga detaljplanehandlingar för det aktuella området.
 
-11. Bifoga de dagvattenutredningar som gjorts för området och
+11\. Bifoga de dagvattenutredningar som gjorts för området och
 eventuellt närliggande områden.
 
-12. Planeras ytterligare förtätningar i området? Om ja, redovisa
+12\. Planeras ytterligare förtätningar i området? Om ja, redovisa
 
 de planer som finns.
 
-13. Vilken är recipienten för dagvatten från området? Hur
+13\. Vilken är recipienten för dagvatten från området? Hur
 bedömer kommunen dagvattnets påverkan på recipienten?
 
-14. Bifoga en karta över området som även visar er bedömning av
+14\. Bifoga en karta över området som även visar er bedömning av
 hur många fastigheter det rör sig om.
 
-15. Bifoga karta där verksamhetsområden i närheten framgår.
+15\. Bifoga karta där verksamhetsområden i närheten framgår.
 Specificera vilka vattentjänster som avses inom de olika
 verksamhetsområdena.
 
-16. Anser Kungsbacka kommun att det föreligger ansvar enligt 6
+16\. Anser Kungsbacka kommun att det föreligger ansvar enligt 6
 § lagen om allmänna vattentjänster avseende dagvatten för
 
 det aktuella området? Redogör för skälen till den bedömning
@@ -6013,7 +6013,7 @@ staden. För att veta när det är dags att göra det finns ett prognossystem me
 
 För att långsiktigt skydda staden mot höga havsnivåer har vi fattat ett inriktningsbeslut om att anlägga
 ett yttre översvämningsskydd. Beslutet togs av kommunfullmäktige i vår klimatstrategi som antogs
-2022. Som underlag för beslutet finns en förstudie (Norconsult AB, 2021-01-22). Resultatet visar
+2022\. Som underlag för beslutet finns en förstudie (Norconsult AB, 2021-01-22). Resultatet visar
 förutsättningarna för ett skydd i tre alternativa lägen; vid Inlagsleden, vid E6:an och en bit ut i
 Kungsbackafjorden. Samtliga innebär en invallning mot havet med en port i Kungsbackaån som
 
@@ -6086,7 +6086,7 @@ som det minsta nyplanerad byggnation ska vara dimensionerad för att klara av.
 
 <!-- sida 145 -->
 
-*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier. **Rekommenderat av
+\*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier. \*\*Rekommenderat av
 MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag. Skyfallskarteringen för Kungsbacka använder
 klimatfaktor 1,35.
 
@@ -6129,7 +6129,7 @@ möjliga att tillåta i de fall det är motiverat.
 
 Planeringsnivåer utifrån dimensionerande händelser.
 
-Planeringsnivåer för kustzonen angivna som lägsta nivå för vital del (plushöjd RH2000). *Ytterligare 0,4 m för att illustrera
+Planeringsnivåer för kustzonen angivna som lägsta nivå för vital del (plushöjd RH2000). \*Ytterligare 0,4 m för att illustrera
 rimlig planeringsnivå för tidshorisont 2150 (0,4 m = ökning av havets medelvattenstånd år 2100-2150
 
 20
@@ -6665,7 +6665,7 @@ i
 
 NN
 
-|
+\|
 
 31
 
@@ -6749,7 +6749,7 @@ Inre zoner för parkeringstal för bostäder. I takt med att staden växer
 och kollektivtrafiken utvecklas kan zonerna förändras.
 Tabellerna nedan anger min- och maximital för parkering i Kungsbacka stad.
 
-*Ca 5–10 procent av platserna bör vara tillgängliga för besökare
+\*Ca 5–10 procent av platserna bör vara tillgängliga för besökare
 
 För de exploatörer som vill erbjuda sina boende andra mobilitetslösningar än bilparkering så finns
 det möjlighet att sänka parkeringstalen med upp till 0,3 bilplats per lägenhet genom att genomföra
@@ -6759,7 +6759,7 @@ mobilitetsåtgärder.
 
 <!-- sida 161 -->
 
-* Minst hälften av platserna för förskola och skola bör ordnas för hämtning och lämning
+\* Minst hälften av platserna för förskola och skola bör ordnas för hämtning och lämning
 
 Vår utgångspunkt är att vid exploatering bevara områden eller objekt som har stort värde för
 biologisk mångfald eller en viktig social funktion. Den som bygger bort ekosystemtjänster ska
@@ -7559,14 +7559,14 @@ I stora drag fungerar planeringsprinciperna med våra personas. Bland de alterna
 
 tre ut:
 
-- Varje aktör tar sitt ansvar - Upplevelsen av att planera utifrån ett mycket långsiktigt perspektiv kan
+\- Varje aktör tar sitt ansvar - Upplevelsen av att planera utifrån ett mycket långsiktigt perspektiv kan
 gå förlorad, däremot så kan äldre personer uppleva det som mindre viktigt.
 
-- En stad endast för boende - Önskan om en stadsmiljö som främst fokuserar på att skapa en trygg
+\- En stad endast för boende - Önskan om en stadsmiljö som främst fokuserar på att skapa en trygg
 och lugn bostadsmiljö motsätter sig idén om att stadens utformning och aktiviteter bör anpassas för
 att passa de boendes behov.
 
-- Rymlig planering ger livskvalitet - Att undvika tättbebyggda områden kan skapa rymliga ytor men
+\- Rymlig planering ger livskvalitet - Att undvika tättbebyggda områden kan skapa rymliga ytor men
 kan också minska tillgängligheten till handel, kultur och mötesplatser.
 
 Det finns även enstaka avvikelser där planeringsprinciperna ogillas och dess motsatser gillas. Det
@@ -7676,10 +7676,10 @@ klokt och ger människorna förutsättning
 
 för ett socialt gott liv skapar vi också
 
-+
+\+
 
 Globala målen med den miljömässiga hållbarheten som sätter ramarna och
-- oo . . som inte är förhandlingsbar. Målfiguren visar vilka globala mål som kopplas
+\- oo . . som inte är förhandlingsbar. Målfiguren visar vilka globala mål som kopplas
 förutsättning för ekonomisk utveckling. till den miljömässiga, sociala respektive den ekonomiska hållbarheten.
 
 Samlad bedömning utifrån de globala målen
@@ -7795,7 +7795,7 @@ Ett välutvecklat gång- och cykelnät skapar hälsosamma vanor hos alla och min
 befolkningen. Planen säkerställer ekosystemtjänster som vi är beroende av för vår hälsa, men även till
 exempel skuggning av träd för att motverka solstress.
 
->
+\>
 
 <!-- sida 179 -->
 
@@ -7937,7 +7937,7 @@ innovationer och infrastruktur.
 Mål 10 Minskad ojämlikhet
 
 ill Minska ojämlikheten genom rättvis fördelning av resurser och ekonomiskt, socialt och
-- politiskt inflytande i samhället.
+\- politiskt inflytande i samhället.
 
 (=)
 v Den fördjupande översiktsplanens effekt på målet Minskad ojämlikhet
@@ -9723,7 +9723,7 @@ Innehållsförteckning
 FÖRORD ......................................................................................................................... 3
 SAMMANFATTNING .................................................................................................... 4
 
-1. INLEDNING ............................................................................................................... 8
+1\. INLEDNING ............................................................................................................... 8
 
 1.1. Bakgrund ............................................................................................................................ 8
 
@@ -9739,7 +9739,7 @@ SAMMANFATTNING .................................................................
 1.4.2. Pilotkommuner ............................................................................................................. 12
 
 1.5. Kopplingar till andra projekt och relaterade dokument .................................................... 14
-2. METODIK ................................................................................................................ 15
+2\. METODIK ................................................................................................................ 15
 
 2.1. Delmoment och schematisk process ................................................................................. 15
 
@@ -9754,7 +9754,7 @@ SAMMANFATTNING .................................................................
 
 2.4. Kategorisering av belysningsanläggningar......................................................................... 19
 2.4.1. Anläggningsnivåer ......................................................................................................... 21
-3. RESULTAT............................................................................................................... 22
+3\. RESULTAT............................................................................................................... 22
 
 3.1. Sammanställning av belysningsanläggningar .................................................................... 22
 3.1.1. Belysningsanläggningar per anläggningsägare ................................................................ 23
@@ -9767,7 +9767,7 @@ SAMMANFATTNING .................................................................
 3.2.3. Framtida kostnader för Trafikverket .............................................................................. 32
 
 3.3. Översyn statligt ägd belysning på nationell nivå ............................................................... 32
-4. SLUTSATS OCH FORTSATT ARBETE ................................................................ 33
+4\. SLUTSATS OCH FORTSATT ARBETE ................................................................ 33
 
 4.1. Kommentarer till resultat ................................................................................................. 33
 
@@ -9786,7 +9786,7 @@ SAMMANFATTNING .................................................................
 4.5. Fortsatt arbete.................................................................................................................. 36
 4.5.1. Framtida användning av belysningsplaner ..................................................................... 37
 
-5. BILAGOR .................................................................................................................. 38
+5\. BILAGOR .................................................................................................................. 38
 
 Bilaga 1 - Handbok för tillståndsbedömning och kategorisering av belysningsanläggningar .......... 40
 
@@ -9802,7 +9802,7 @@ Bilaga 4 - Sammanställning av tabeller ........................................
 
 <!-- sida 218 -->
 
-1. Inledning
+1\. Inledning
 
 1.1.     Bakgrund
 
@@ -10102,7 +10102,7 @@ detta används följande dokument som utgångspunkt i pilotprojektet:
 
 <!-- sida 225 -->
 
-2. Metodik
+2\. Metodik
 
 Projektet har arbetet fram metodik för tillståndsbedömning och skapat ett planeringsunderlag avseende
 processen att hantera belysningsanläggningar på statlig väg med annan anläggningsägare. Fokus utgör
@@ -10114,21 +10114,21 @@ Det har inom ramen för pilotprojektet skapats en handbok som beskriver metodike
 tillståndsbedömning och kategorisering av belysningsanläggningar. Handboken beskriver den
 schematiska processen (hur övertagandeprocessen genomförs), principer för kategorisering samt
 rollfördelningen inom processen. Som stöddokument till handboken har projektet också arbetat fram:
-1. Checklista för tillståndsbedömning
-2. Tillståndsbedömning belysningsanläggning (fältdokument)
-3. Laddmall till Maximo (stolp- och armaturtabell)
-4. Underlagsdata för belysningsplaner
-5. Verifikat belysning för fortsatt kommunalt ägande
+1\. Checklista för tillståndsbedömning
+2\. Tillståndsbedömning belysningsanläggning (fältdokument)
+3\. Laddmall till Maximo (stolp- och armaturtabell)
+4\. Underlagsdata för belysningsplaner
+5\. Verifikat belysning för fortsatt kommunalt ägande
 
 Tillståndsbedömningen genomförs i tre steg.
-1. Vid den första bedömningen ska samtliga anläggningar utmed statlig väg identifieras gemensamt
+1\. Vid den första bedömningen ska samtliga anläggningar utmed statlig väg identifieras gemensamt
 av kommun och Trafikverket, för att i nästa steg möjliggöra bedömning om anläggningarna är
 aktuella för övertagande eller inte.
-2. Vid den andra bedömningen ska alla anläggningar som ska stå kvar utmed statlig väg
+2\. Vid den andra bedömningen ska alla anläggningar som ska stå kvar utmed statlig väg
 tillståndsbedömas och kategoriseras. Aktuell belysning på sträckan jämförs med kravnivån för
 belysning enligt belysningsplaner för en godtagbar funktionalitet på sträckan.
 
-3. En tredje tillståndsbedömning genomförs på de anläggningar som är klara för övertagande.
+3\. En tredje tillståndsbedömning genomförs på de anläggningar som är klara för övertagande.
 Anläggningar som är aktuella för ett övertagande ska efter ev. ombyggnad av anläggningen
 uppnå minst kategori 3B11.
 
@@ -10259,13 +10259,13 @@ som inte fångas upp av kriterierna ovan.
 2.2.4.   Process för framtagande av belysningsplan
 Nedan beskrivs processen för framtagande av en belysningsplan:
 
-1. Kommunen skickar in underlagsdata för kommunal belysning
-2. Trafikverkets ljuspunkter hämtas från Maximo
-3. Generering av belysningsplaner i GIS12-systemet.
-4. Kvalitetskontroll av Trafikverkets samhällsplanerare
-5. Uppdatering av belysningsplanerna i GIS-systemet
-6. Kvalitetskontroll av byggledare i fält
-7. Uppdatering av belysningsplaner i GIS-systemet
+1\. Kommunen skickar in underlagsdata för kommunal belysning
+2\. Trafikverkets ljuspunkter hämtas från Maximo
+3\. Generering av belysningsplaner i GIS12-systemet.
+4\. Kvalitetskontroll av Trafikverkets samhällsplanerare
+5\. Uppdatering av belysningsplanerna i GIS-systemet
+6\. Kvalitetskontroll av byggledare i fält
+7\. Uppdatering av belysningsplaner i GIS-systemet
 
 2.3.     Genomförande av tillståndsbedömning
 
@@ -10407,7 +10407,7 @@ om en ny anläggning byggs så skall belysningen utformas enligt VGU
 
 <!-- sida 232 -->
 
-3. Resultat
+3\. Resultat
 
 Utmed statligväg finns idag ca 520 000 ljuspunkter (lp) ca 210 000 lp ägs av Trafikverket medan
 
@@ -10651,11 +10651,11 @@ Kostnader per kategori har summerats från denna beräkningsmodell (se även kap
   Kategori 1 = 0kr
   Kategori 2 = 35 000 kr separering från övrig anläggning som inte ska tas över om egen
 mätning inte finns.
-  Kategori 3A = 35 000 kr separering + 5000kr *lp (byte av armatur)
-  Kategori 3B = 35 000 kr separering + 5000kr *lp+ 25 000kr*lp (ny stolpe)
-  Kategori 4 = 35 000 kr separering + 5000kr *lp + 25 000kr*lp + 35 000kr * lp (ny stolpe,
+  Kategori 3A = 35 000 kr separering + 5000kr \*lp (byte av armatur)
+  Kategori 3B = 35 000 kr separering + 5000kr \*lp+ 25 000kr\*lp (ny stolpe)
+  Kategori 4 = 35 000 kr separering + 5000kr \*lp + 25 000kr\*lp + 35 000kr \* lp (ny stolpe,
 armatur, kablage)
-  Kategori 5 = 35 000 kr separering + 35 000kr * lp
+  Kategori 5 = 35 000 kr separering + 35 000kr \* lp
 
 26
 
@@ -10674,49 +10674,49 @@ Fil 127 o 105 970 237 1490
 okr 35 000 kr 85 000 kr | 3445 000 kr 245 000 kr 2 800 000 kr 6 610 000 kr
 Boden
 28 26 87 666 32 538 1377
-- kr 70 000 kr 105 000 kr | 2105 000 kr 1970 000 kr 12 565 000 kr 16 815 000 kr
+\- kr 70 000 kr 105 000 kr | 2105 000 kr 1970 000 kr 12 565 000 kr 16 815 000 kr
 Båstad
 Oo 68 21 86 64 581 820
-- kr 35 000 kr - kr 1040 000 kr 2425 000 kr 1120 000 kr 4 620 000 kr
+\- kr 35 000 kr - kr 1040 000 kr 2425 000 kr 1120 000 kr 4 620 000 kr
 Härjedalen
 [6] 44 56 924 174 106 1304
-- kr - kr - kr - kr 435 000 kr 455 000 kr 890 000 kr
+\- kr - kr - kr - kr 435 000 kr 455 000 kr 890 000 kr
 Härnösand
 1 o 179 35 34 46 295
 okr 35 000 kr - kr 880 000 kr 10 510 000 kr - kr 11 425 000 kr
 Jönköping
 13 202 4 141 754 75 1189
-- kr - kr - kr 1250 000 kr 6 790 000 kr - kr 8 040 000 kr
+\- kr - kr - kr 1250 000 kr 6 790 000 kr - kr 8 040 000 kr
 Kalmar
 Oo 24 12 128 281 [0] 445
-- kr 35 000 kr - kr - kr 1115 000 kr 5 400 000 kr 6 550 000 kr
+\- kr 35 000 kr - kr - kr 1115 000 kr 5 400 000 kr 6 550 000 kr
 Karlshamn
 [0] 78 11 92 171 776 1128
-- kr 140 000 kr 975 000 kr | 4 865 000 kr - kr - kr 5980 000 kr
+\- kr 140 000 kr 975 000 kr | 4 865 000 kr - kr - kr 5980 000 kr
 Linköping
 [0] 132 176 284 [0] [0] 592
-- kr 35 000 kr 3410 000 925 000 kr - kr - kr 4 370 000 kr
+\- kr 35 000 kr 3410 000 925 000 kr - kr - kr 4 370 000 kr
 Malung-Sälen
 [6] 36 718 670 15 407 1846
-- kr - kr 55 000 kr 880 000 kr 200 000 kr 805 000 kr 1940 000 kr
+\- kr - kr 55 000 kr 880 000 kr 200 000 kr 805 000 kr 1940 000 kr
 Motala
 Oo 9 20 119 36 23 207
-- kr - kr - kr 635 000 kr 6 750 000 kr - kr 7 385 000 kr
+\- kr - kr - kr 635 000 kr 6 750 000 kr - kr 7 385 000 kr
 Mölndal
 [0] [0] [0] 30 193 Oo 223
-- kr - kr - kr - kr 41 100 000 kr 7 285 000 kr 48 385 000 kr
+\- kr - kr - kr - kr 41 100 000 kr 7 285 000 kr 48 385 000 kr
 Norrtälje
 10 112 1 21 1390 177 1711
-- kr 210 000 kr - kr 4 720 000 kr 8 395 000 kr 2765 000 kr 16 090 000 kr
+\- kr 210 000 kr - kr 4 720 000 kr 8 395 000 kr 2765 000 kr 16 090 000 kr
 Simrishamn
 o 82 59 3581 9 19 4390
-- kr 140 000 kr 415 000 kr | 1270 000 kr - kr 35 060 oo00 kr | 36 885 000 kr
+\- kr 140 000 kr 415 000 kr | 1270 000 kr - kr 35 060 oo00 kr | 36 885 000 kr
 Sundsvall
 32 19 86 1144 194 1105 2580
-- kr - kr - kr 830 000 kr - kr - kr 830 000 kr
+\- kr - kr - kr 830 000 kr - kr - kr 830 000 kr
 Torsby
 [6] [0] [0] 1472 [6] [6] 1472
-- - kr - kr - kr 2 605 000 kr 1670 000 kr - kr 4 275 000 kr
+\- - kr - kr - kr 2 605 000 kr 1670 000 kr - kr 4 275 000 kr
 Årjäng
 [0] [0] [0] 164 296 Oo 460
 
@@ -10744,7 +10744,7 @@ Totalkostnad per belysningskategori
 
 400000 000 kr
 200000 000 kr
-- kr
+\- kr
 Hela Landet
 Kategori 1 Kategori 2 Kategori 3A Kategori 3B Kategori 4 Kategori 5
 
@@ -10767,7 +10767,7 @@ Totalkostnad per belysningskategori
 30000 000 kr
 20000 000 kr
 10000 000 kr
-- kr
+\- kr
 Hela Landet
 Kategori 1 Kategori 2 Kategori 3A Kategori 3B Kategori 4 Kategori 5
 
@@ -10782,27 +10782,27 @@ som ska vara kvar i kommunal ägo.
 
 Pilotkommuner
 
-- kr - kr - kr - kr 1785 000 kr 165 000 kr 1950 000 kr
+\- kr - kr - kr - kr 1785 000 kr 165 000 kr 1950 000 kr
 51 127 0 105 970 237 1490
-- kr - kr - kr 95 000 kr - kr - kr 95 000 kr
+\- kr - kr - kr 95 000 kr - kr - kr 95 000 kr
 Boden
 28 26 87 666 32 538 1377
-- kr - kr - kr - kr - kr 2485 000kr | 2485 000 kr
+\- kr - kr - kr - kr - kr 2485 000kr | 2485 000 kr
 Båstad
 o 68 21 86 64 581 820
-- kr - kr 115 000 kr 65 000 kr 580 000 kr - kr 760 000 kr
+\- kr - kr 115 000 kr 65 000 kr 580 000 kr - kr 760 000 kr
 Härjedalen
 o 44 56 924 174 106 1304
 . - kr - kr - kr - kr - kr - kr - kr
 Härnösand
 1 0 179 55 34 46 295
-- kr - kr - kr 540 000 kr 1730 000 kr - kr 2 270 000 kr
+\- kr - kr - kr 540 000 kr 1730 000 kr - kr 2 270 000 kr
 Jönköping
 13 202 4 141 754 75 1189
-- kr - kr 20 000 kr - kr 150 000 kr - kr 170 000 kr
+\- kr - kr 20 000 kr - kr 150 000 kr - kr 170 000 kr
 Kalmar
 Oo 24 12 128 281 Oo 445
-- kr 35 000 kr - kr - kr 120 000 kr 490 000 kr 645 000 kr
+\- kr 35 000 kr - kr - kr 120 000 kr 490 000 kr 645 000 kr
 Karlshamn
 Oo 78 u 92 171 776 1128
 L - kr - kr - kr - kr - kr - kr - kr
@@ -10810,22 +10810,22 @@ Linköping
 [0] 132 176 284 Oo Oo 592
 Malung- - kr - kr 240 000 kr] 1455 000 kr - kr - kr 1695 000 kr
 Sälen o 36 718 670 15 407 1846
-- kr - kr - kr - kr - kr - kr - kr
+\- kr - kr - kr - kr - kr - kr - kr
 Motala
 Oo 9 20 119 36 23 207
-- kr - kr - kr - kr - kr - kr - kr
+\- kr - kr - kr - kr - kr - kr - kr
 Mölndal
 Oo [0] [0] 30 193 Oo 223
 a - kr - kr - kr - kr 70 000 kr 140 000 kr 210 000 kr
 Norrtälje
 10 112 1 21 1390 177 1711
-- kr - kr 50 000 kr - kr - kr 2135 000kr | 2185 000 kr
+\- kr - kr 50 000 kr - kr - kr 2135 000kr | 2185 000 kr
 Simrishamn
 o 82 59 3581 249 119 4390
-- kr - kr - kr - kr - kr - kr - kr
+\- kr - kr - kr - kr - kr - kr - kr
 Sundsvall
 30 19 86 1144 194 1105 2580
-- kr - kr - kr 600 000 kr - kr - kr 600 000 kr
+\- kr - kr - kr 600 000 kr - kr - kr 600 000 kr
 Torsby
 Oo [0] [0] 1472 [0] Oo 1472
 sm - kr - kr - kr - kr - kr - kr - kr
@@ -10964,7 +10964,7 @@ Kostnader för Trafikverket
 100000 000 kr
 
 50000 000 kr I
-- kr
+\- kr
 
 Energikostnad Underhållskostnad Reinvesteringskostnad
 
@@ -10990,7 +10990,7 @@ behöver sättas upp.
 
 <!-- sida 243 -->
 
-4. Slutsats och fortsatt arbete
+4\. Slutsats och fortsatt arbete
 
 De 17 pilotkommunerna bedöms vara representativa för landets 290 kommuner. Dock finns en
 osäkerhetsmarginal kring kategorisering och kostnadsbedömning då resultaten bygger på
@@ -11131,9 +11131,9 @@ utmed statlig väg. Hur överlämningen kommer att ske regleras i avtal som teck
 
 Trafikverket och respektive kommun. Huvudprincipen är att överlämnandet sker vid ett tillfälle för
 kommunens samtliga anläggningar utmed statlig väg. Avtalsprocessen kan delas in i tre delavtal:
-1. Avsiktsförklaring
-2. Genomförandeavtal
-3. Överlåtelseavtal
+1\. Avsiktsförklaring
+2\. Genomförandeavtal
+3\. Överlåtelseavtal
 
 4.4.1.   Förslag till organisation Trafikverket
 
@@ -11248,16 +11248,16 @@ För mer information gällande belysningsplaner se kapitel 2.2.
 
 <!-- sida 248 -->
 
-5. Bilagor
+5\. Bilagor
 
-1. Handbok tillståndsbedömning belysningsanläggningar
+1\. Handbok tillståndsbedömning belysningsanläggningar
 
 1.5 Verifikat kravuppfyllnad av kommunägd anläggning längs med statlig väg
 
-2. Synbarhet vägbelysning
-3. Exempel belysningsplan Härjedalen
+2\. Synbarhet vägbelysning
+3\. Exempel belysningsplan Härjedalen
 
-4. Sammanställning av tabeller
+4\. Sammanställning av tabeller
 
 38
 
@@ -11300,7 +11300,7 @@ INLEDNING ......................................................................
 Schematisk process ....................................................................................................................... 44
 
 Övergripande tekniska krav på belysningsanläggningarna .............................................. 50
-1. METOD OCH BEDÖMNING AV KATEGORISERING AV ANLÄGGNING ....... 53
+1\. METOD OCH BEDÖMNING AV KATEGORISERING AV ANLÄGGNING ....... 53
 
 1.1 Fullgod anläggning = Kat 1 .................................................................................................. 53
 
@@ -11313,7 +11313,7 @@ Schematisk process .............................................................
 1.5 Dålig anläggning = Kat 4 ....................................................................................................... 53
 
 1.6 Undermålig anläggning = Kat 5 ............................................................................................. 53
-2. TILLSTÅNDSBEDÖMNING AV BELYSNINGSANLÄGGNING ......................... 55
+2\. TILLSTÅNDSBEDÖMNING AV BELYSNINGSANLÄGGNING ......................... 55
 
 2.1. Belysningscentral .............................................................................................................. 57
 
@@ -11328,7 +11328,7 @@ Schematisk process .............................................................
 2.6. Kabel i mark ...................................................................................................................... 60
 
 2.7. Kabel i luft......................................................................................................................... 60
-3. ELSÄKERHETSTEKNISK STATUS PÅ ANLÄGGNING ..................................... 61
+3\. ELSÄKERHETSTEKNISK STATUS PÅ ANLÄGGNING ..................................... 61
 
 3.1. Spänningsfall..................................................................................................................... 61
 
@@ -11345,7 +11345,7 @@ Schematisk process .............................................................
 3.7. Sammatad belysningsanläggning ...................................................................................... 62
 
 3.8. Separat mätning på anläggning ......................................................................................... 62
-4. BELYSNINGSTEKNISK STANDARD ................................................................... 63
+4\. BELYSNINGSTEKNISK STANDARD ................................................................... 63
 
 41
 
@@ -11366,7 +11366,7 @@ Schematisk process .............................................................
 4.3.1. OM DET FINNS BELYSNINGSMÄTNING ........................................................................... 64
 4.3.2. OM DET FINNS BELYSNINGBERÄKNING .......................................................................... 64
 4.3.3. OM DET SAKNAS UNDERLAG ......................................................................................... 64
-5. DOKUMENTATION ............................................................................................... 65
+5\. DOKUMENTATION ............................................................................................... 65
 
 5.1. Relationshandlingar .......................................................................................................... 65
 
@@ -11377,20 +11377,20 @@ Schematisk process .............................................................
 5.4. Märkning .......................................................................................................................... 65
 
 5.5. Intyg.................................................................................................................................. 66
-6. BEDÖMNING AV ANLÄGGNING SOM HELHET ............................................... 67
+6\. BEDÖMNING AV ANLÄGGNING SOM HELHET ............................................... 67
 BILAGOR ...................................................................................................................... 68
 
-1. Checklista tillståndsbedömning belysningsplaner ...................................................................... 68
+1\. Checklista tillståndsbedömning belysningsplaner ...................................................................... 68
 
-2. Tillståndsbedömning belysningsanläggning (fältdokument) ...................................................... 68
+2\. Tillståndsbedömning belysningsanläggning (fältdokument) ...................................................... 68
 
-3. Laddmall till Maximo ................................................................................................................. 68
+3\. Laddmall till Maximo ................................................................................................................. 68
 
-4. Underlagsdata för belysningsplaner .......................................................................................... 68
+4\. Underlagsdata för belysningsplaner .......................................................................................... 68
 
-5. Verifikat belysning för fortsatt kommunalt ägande ................................................................... 68
+5\. Verifikat belysning för fortsatt kommunalt ägande ................................................................... 68
 
-6. Checklista komplettering av belysningsanläggningar ................................................................. 68
+6\. Checklista komplettering av belysningsanläggningar ................................................................. 68
 
 42
 
@@ -11406,13 +11406,13 @@ kraven på när det ska vara belyst samt tillståndsbedömning av befintliga bel
 
 Tillståndsbedömningen genomförs i tre steg.
 
-1. Vid den första bedömningen ska samtliga anläggningar utmed statlig väg identifieras för att
+1\. Vid den första bedömningen ska samtliga anläggningar utmed statlig väg identifieras för att
 i nästa steg kunna avgöra om anläggningarna är aktuella för övertagande eller inte.
-2. Vid den andra bedömningen ska alla anläggningar som ska stå kvar utmed statlig väg
+2\. Vid den andra bedömningen ska alla anläggningar som ska stå kvar utmed statlig väg
 
 tillståndsbedömas och kategoriseras. Aktuell belysning på sträckan jämförs med den
 erforderliga belysningsnivå som behövs för en godtagbar funktionalitet på sträckan.
-3. En tredje tillståndsbedömning genomförs på de anläggningar som är klara för övertagande.
+3\. En tredje tillståndsbedömning genomförs på de anläggningar som är klara för övertagande.
 Anläggningar som är aktuella för ett övertagande ska uppnå minst kategori 3B.
 
 Idag finns i VGU (Vägar och Gators Utformning) kriterier för när belysning är motiverat och det är
@@ -11824,7 +11824,7 @@ Ljusbilden från belysning ska inte påverka vägen, d.v.s. inte belysa vägytan
 
 Max 15 lux ljusnivå som högsta värde 0,8m över körbana, rakt under armatur.
 
-Armaturens avskärmningsklass G*5
+Armaturens avskärmningsklass G\*5
 
 Får ge max 7,5 lux på vägytan där infarten ansluter till vägen.
 
@@ -11876,7 +11876,7 @@ mellan ljuspunkter i anläggningen inte är så stort att det blir ”enstaka lj
 
 <!-- sida 263 -->
 
-1. Metod  och  bedömning   av  kategorisering  av
+1\. Metod  och  bedömning   av  kategorisering  av
 anläggning
 
 1.1 Fullgod anläggning     = Kat 1
@@ -11969,7 +11969,7 @@ Kat 5    Anläggning klarar inga krav, anläggning som helhet behöver bytas ut 
 
 <!-- sida 265 -->
 
-2. Tillståndsbedömning    av belysningsanläggning
+2\. Tillståndsbedömning    av belysningsanläggning
 
 Tillståndsbedömning genomförs stickprovsvis i 10-15 % av beståndet i anläggningen. Bedömning
 
@@ -12188,7 +12188,7 @@ Resultatet dokumenteras i ”Checklista tillståndsbedömning belysningsanläggn
 
   Lutning, vridning
   Trästolpar (rötskador)
-- Dokumentation från kontroller ska redovisas och innehålla plan för kommande kontroller
+\- Dokumentation från kontroller ska redovisas och innehålla plan för kommande kontroller
 (enligt AFS 2000:6)
 
   Vegetation får ej skava på utrustning
@@ -12288,7 +12288,7 @@ göras upprustning eller tillbyggnad i anläggningen.
 
 <!-- sida 271 -->
 
-3. Elsäkerhetsteknisk   status på anläggning
+3\. Elsäkerhetsteknisk   status på anläggning
 
 Kontroll av elsäkerhetstekniska funktioner ska göras på plats (ej beräknas).
 
@@ -12309,11 +12309,11 @@ olika diazedsäkringar. För huvudledningar gäller 5 sek.
 
 För automatsäkringar gäller nedanstående tabell.
 
-Typ____________Märkström__________Minsta ström 0.4 sek________Minsta ström 5
+Typ\_\_\_\_\_\_\_\_\_\_\_\_Märkström\_\_\_\_\_\_\_\_\_\_Minsta ström 0.4 sek\_\_\_\_\_\_\_\_Minsta ström 5
 sek
-Dvärg typ B________In___________________5 * In____________________5 * In
-Dvärg typ C________In__________________10 * In___________________10 * In
-Dvärg typ D________In__________________20 * In___________________20 * In
+Dvärg typ B\_\_\_\_\_\_\_\_In\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_5 \* In\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_5 \* In
+Dvärg typ C\_\_\_\_\_\_\_\_In\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_10 \* In\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_10 \* In
+Dvärg typ D\_\_\_\_\_\_\_\_In\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_20 \* In\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_20 \* In
 
 3.3.     Kontinuitet i jordledare
 
@@ -12347,10 +12347,10 @@ kontrolleras.
 över i. D.v.s. om anläggning byggs om, utökas eller förses med ny central ska mätning göras
 efter att ny central är på plats.
 
--  Om endast ny inmatningspunkt ordnas kan isolationsmätning uteslutas.
--  Isolationsmätning kan också uteslutas om det ska göras upprustning eller tillbyggnad i
+\-  Om endast ny inmatningspunkt ordnas kan isolationsmätning uteslutas.
+\-  Isolationsmätning kan också uteslutas om det ska göras upprustning eller tillbyggnad i
 anläggningen. Då krävs isolationsmätning enligt elinstallationsreglerna SS 436 40 00, del
-6.
+6\.
 
 3.5.     Säker brytning vid arbete på anläggning
 
@@ -12376,7 +12376,7 @@ belysningscentral och stolpar. Dessa skall avlägsnas.
 
 <!-- sida 273 -->
 
-4. Belysningsteknisk   standard
+4\. Belysningsteknisk   standard
 
 Metodik för att avgöra om belysningsanläggning klarar målnivå för belysning på sträckan.
 
@@ -12469,7 +12469,7 @@ Gör samma dokumentation som för där det finns belysningsberäkningar.
 
 <!-- sida 275 -->
 
-5. Dokumentation
+5\. Dokumentation
 
 5.1.     Relationshandlingar
 
@@ -12548,7 +12548,7 @@ ska göras upprustning eller tillbyggnad i anläggningen.
 
 <!-- sida 277 -->
 
-6. Bedömning   av  anläggning   som  helhet
+6\. Bedömning   av  anläggning   som  helhet
 
 Sammanvägning av punkterna i kapitel 1-5 kommer att krävas inför kategorisering och
 
@@ -12579,17 +12579,17 @@ Bilagor
 
 Bilagorna levereras efter förfrågan.
 
-1. Checklista tillståndsbedömning belysningsplaner
+1\. Checklista tillståndsbedömning belysningsplaner
 
-2. Tillståndsbedömning belysningsanläggning (fältdokument)
+2\. Tillståndsbedömning belysningsanläggning (fältdokument)
 
-3. Laddmall till Maximo
+3\. Laddmall till Maximo
 
-4. Underlagsdata för belysningsplaner
+4\. Underlagsdata för belysningsplaner
 
-5. Verifikat belysning för fortsatt kommunalt ägande
+5\. Verifikat belysning för fortsatt kommunalt ägande
 
-6. Checklista komplettering av belysningsanläggningar
+6\. Checklista komplettering av belysningsanläggningar
 
 68
 
@@ -12614,16 +12614,16 @@ XX kommun intygar genom detta dokument att de kommunägda belysningsanläggninga
 
 längs med statlig väg i XX kommun uppfyller de av Trafikverket ställda krav såväl säkerhetsmässigt
 som belysningstekniskt.
-1. Anläggningarna ska upprätthålla belysningstekniska krav enligt VGU på vägar med ÅDT
+1\. Anläggningarna ska upprätthålla belysningstekniska krav enligt VGU på vägar med ÅDT
 över 2000 samt enligt riktlinje TDOK 2012:1135 ”Belysningsinriktning lågtrafikerade
 
 vägnätet, med annan huvudman” på vägar med ÅDT under 2000.
-2. Elsäkerhetstekniska krav enligt
+2\. Elsäkerhetstekniska krav enligt
 a. Elinstallationsregler SS 436400, avdelning 6 ”Kontroll före drifttagning”
 (spänningsfall, utlösningsvillkor, kontinuitet i jordledare)
 b. Handbok för tillståndsbedömning av belysningsanläggningar kapitel 3.1-3.3
 
-3. Stabilitetstekniska krav
+3\. Stabilitetstekniska krav
 Bärverk för belysning ska ha tillräcklig prestanda för att klara tyngd- och vindlast.
 Stabilitet på stolpe ska vara bedömd enligt ”Handbok för tillståndsbedömning av
 belysningsanläggningar kapitel 2.3”
@@ -12632,10 +12632,10 @@ Förteckning av belysningsanläggningar utmed statlig väg som behålls i kommun
 
 Kravuppfyllnad och omfattning intygas
 
-------------------------------------------------
+\------------------------------------------------
 ort och datum
 
-------------------------------------------------
+\------------------------------------------------
 namn, befattning
 
 70
@@ -12801,7 +12801,7 @@ Torsby Fördelning 096 296 096 98246 096 0961 10096
 
 Antal Ip [0] 25 [0] 1472 o ol 1497
 
-- Fördelning 096 096 096 3696 64926 0961 10096
+\- Fördelning 096 096 096 3696 64926 0961 10096
 Årjäng Antal lp
 
 [0] [0] 0) 164 296 (0) 460
@@ -12820,25 +12820,25 @@ Bod okr 35 000 kr 85 000 kr | 3445 000 kr 245 000 kr 2 800 000 kr 6 610 000 kr
 oden
 28 26 87 666 32 538 1377
 105 000
-- kr 70 000 kr kr 2105 000 kr 1970 000 kr 12 565 000 kr | 16 815 000 kr
+\- kr 70 000 kr kr 2105 000 kr 1970 000 kr 12 565 000 kr | 16 815 000 kr
 Båstad
 [0] 68 21 86 64 581 820
-- kr 35 000 kr - kr 1040 000 kr 2425 000 kr 1120 000 kr 4 620 000 kr
+\- kr 35 000 kr - kr 1040 000 kr 2425 000 kr 1120 000 kr 4 620 000 kr
 Härjedalen
 Oo tt 56 924 174 106 1304
-- kr - kr - kr - kr 435 000 kr 455 000 kr 890 000 kr
+\- kr - kr - kr - kr 435 000 kr 455 000 kr 890 000 kr
 Härnösand
 1 o 179 5 34 46 295
 okr 35 000 kr - kr 880 000 kr 10 510 000 kr - kr 11425 000 kr
 Jönköping
 13 202 4 141 754 75 1189
-- kr - kr - kr 1250 000 kr 6 790 000 kr - kr 8 040 000 kr
+\- kr - kr - kr 1250 000 kr 6 790 000 kr - kr 8 040 000 kr
 Kalmar
 Oo 24 12 128 281 [0] 445
-- kr 35 000 kr - kr - kr 1115 000 kr 5 400 000 kr 6 550 000 kr
+\- kr 35 000 kr - kr - kr 1115 000 kr 5 400 000 kr 6 550 000 kr
 Karlshamn
 [6] 78 u 92 171 776 1128
-- kr 140 000 kr 975 000 4 865 000 kr - kr - kr 5980 000 kr
+\- kr 140 000 kr 975 000 4 865 000 kr - kr - kr 5980 000 kr
 Linköping kr
 [0] 132 176 284 [0] [0] 592
 Malung- - kr 35 000 kr 3 0000 925 000 kr - kr - kr 4 370 000 kr
@@ -12846,22 +12846,22 @@ Sälen [0] 36 718 670 15 407 1846
 ÄTA - kr - kr 55 000 kr | 880 000 kr 200 000 kr 805 000 kr 1940 000 kr
 ot
 [0] 9 20 119 36 23 207
-- kr - kr - kr 635 000 kr 6 750 000 kr - kr 85 000 kr
+\- kr - kr - kr 635 000 kr 6 750 000 kr - kr 85 000 kr
 Mölndal 35 75 7385
 [6] [0] [0] 30 193 [0] 223
-- kr - kr - kr - kr 41100 000 kr 7285 000kr | 48 385 000 kr
+\- kr - kr - kr - kr 41100 000 kr 7285 000kr | 48 385 000 kr
 Norrtälje
 10 112 1 21 1390 177 1711
-- kr 210 000 kr - kr 4 720 000 kr 8 395 000 kr 2765 000 kr | 16 090 000 kr
+\- kr 210 000 kr - kr 4 720 000 kr 8 395 000 kr 2765 000 kr | 16 090 000 kr
 Simrishamn
 Oo 82 59 3581 9 19 4390
-- kr 140 000 kr 415000 I 4 270 000 kr - kr 35 060 000 kr | 36 885 000 kr
+\- kr 140 000 kr 415000 I 4 270 000 kr - kr 35 060 000 kr | 36 885 000 kr
 Sundsvall kr
 32 19 86 1144 194 1105 2580
-- k - kr - kr 830 000 kr - kr - kr 830 000 kr
+\- k - kr - kr 830 000 kr - kr - kr 830 000 kr
 Torsby
 [6] [0] [0] 1472 [6] [0] 1472
-- = 1 - kr sl 2605 000 kr | 1670 000 kr - kr 4 275 000 kr
+\- = 1 - kr sl 2605 000 kr | 1670 000 kr - kr 4 275 000 kr
 Årjäng
 o [0] [0] 164 296 [0] 460
 
@@ -12873,12 +12873,12 @@ o [0] [0] 164 296 [0] 460
 
 Belysningsanläggningar kvar i kommunal ägo
 
-- kr - kr - kr - kr 1785 000 kr 165 000 kr 1950 000 kr
+\- kr - kr - kr - kr 1785 000 kr 165 000 kr 1950 000 kr
 51 127 o 105 970 237 1490
-- kr - kr - kr 95 000 kr - kr - kr 95 000 kr
+\- kr - kr - kr 95 000 kr - kr - kr 95 000 kr
 Boden
 28 26 87 666 32 538 1377
-- kr - kr - kr - kr - kr 2485 000kr | 2485 000kr
+\- kr - kr - kr - kr - kr 2485 000kr | 2485 000kr
 Båstad En EE
 [0] 68 2 86 64 581 820
 o. - kr - kr 115 000 kr 65 000 kr 580 000 kr - kr 760 000 kr
@@ -12890,10 +12890,10 @@ Härnösand
 an. - kr - kr - kr 540 000 kr 1730 000 kr - kr 2270 000 kr
 Jönköping
 13 202 4 141 754 75 1189
-- kr - kr 20 000 kr - kr 150 000 kr - kr 170 000 kr
+\- kr - kr 20 000 kr - kr 150 000 kr - kr 170 000 kr
 Kalmar
 [0] 24 12 128 281 Oo 445
-- kr 000 kr - kr - kr 120 000 kr 0 000 kr 645 000 kr
+\- kr 000 kr - kr - kr 120 000 kr 0 000 kr 645 000 kr
 Karlshamn 32 2 25
 Oo 78 u 92 171 776 1128
 a. - kr - kr - kr - kr - kr - kr - kr
@@ -12901,10 +12901,10 @@ Linköping
 Oo 132 176 284 Oo Oo 592
 Malung- - kr - kr 240 000 kr] 1455 000 kr - kr - kr 1695 000 kr
 Sälen o 36 718 670 15 407 1846
-- kr - kr - kr - kr - kr - kr - kr
+\- kr - kr - kr - kr - kr - kr - kr
 Motala
 Oo 9 20 119 36 23 207
-- kr - kr - kr - kr - kr - kr - kr
+\- kr - kr - kr - kr - kr - kr - kr
 Mölndal
 Oo [6] Oo 30 193 Oo 223
 . - kr - kr - kr - kr 70 000 kr 140 000 kr 210 000 kr
@@ -12913,10 +12913,10 @@ Norrtälje
 os - kr - kr 50 000 kr - kr - kr 2135 000kr | 2185 000 kr
 Simrishamn
 Oo 82 59 3581 9 119 4390
-- kr - kr - kr - kr - kr - kr - kr
+\- kr - kr - kr - kr - kr - kr - kr
 Sundsvall
 32 19 86 1144 194 1105 2580
-- kr - kr - kr 600 000 kr - kr - kr 600 000 kr
+\- kr - kr - kr 600 000 kr - kr - kr 600 000 kr
 Torsby
 Oo [0] [0] 1472 [6] [0] 1472
 a - kr - kr - kr - kr - kr - kr - kr
@@ -12935,11 +12935,11 @@ Oo Oo Oo 164 296 Oo 460
 
 500 000 kr
 
-- kr
+\- kr
 
 Kostnad enligt SKLs kommuntyps indelning
 
-- I — br HH.
+\- I — br HH.
 
 ec fd r ec c
 IS - 2 - se 3
@@ -12950,7 +12950,7 @@ ER ER 2 sg ET 3
 oc Oo ” v om vd
 28 2 v = > dj
 öv FR e FE 3
-& £2 s £T $
+& £2 s £T \$
 hej = ” 2 5SE£
 c = cf s
 v g o
@@ -12958,7 +12958,7 @@ v g o
 
 0
 
--
+\-
 
 HKategori 1 HKategori2 MKategori 3A HKategori 3B HKategori 4 MKategori5
 
@@ -12982,7 +12982,7 @@ HKategori 1 HKategori2 MKategori 3A HKategori 3B HKategori 4 MKategori5
 
 10000 000 kr
 
-- kr
+\- kr
 
 Totalkostnad per belysningskategori
 
@@ -13059,7 +13059,7 @@ Framtida kostnader för Trafikverket
 
 50000 000 kr
 
-- kr
+\- kr
 
 Kostnader för Trafikverket
 
@@ -13108,9 +13108,9 @@ Underhåll av anläggningar sker enligt normal underhållsplaneringstakt.
 Nämnden för Teknik beslutar att Kungsbacka kommun på följande platser ska fortsätta tillhandahålla
 belysning av längs statlig väg där detta inte är krav enligt vid var tid gällande version av Trafikverkets
 vägbelysningshandbok:
-- i direkt anslutning till busshållplatser samt skolskjutshållplatser
+\- i direkt anslutning till busshållplatser samt skolskjutshållplatser
 
-- vid korta avstånd till andra belysta platser
+\- vid korta avstånd till andra belysta platser
 
 Nämnden för Teknik förklarar uppdraget 2021-11-17 §114 för slutfört.
 
@@ -13522,7 +13522,7 @@ tillgängliga att omfördela till andra projekt.
 Förvaltningens förslag
 
 Förvaltningen för Teknik bedömer möjligheterna att hålla en hög investeringstakt som stora även
-2024. Genom att omfördela medel mellan underportföljer respektive projekttyper möjliggörs att
+2024\. Genom att omfördela medel mellan underportföljer respektive projekttyper möjliggörs att
 fortsätta investera och reinvestera i våra befintliga anläggningar.
 
 Att omplanera medel från portföljerna cykelkommun, kommunens vägnät samt attraktiva staden skulle
@@ -13804,10 +13804,10 @@ integreras i planering och beslutsfattande så att en hållbar utveckling främj
 en strategisk miljökonsekvensbeskrivning förenlig med Miljöbalkens bestämmelser.
 Kommunfullmäktige beslutar om antagande och ändring av en vattentjänstplan. Innan den antas eller
 ändras ska Vattentjänstplanen:
-1. på lämpligt sätt och i skälig omfattning samrådas med de fastighetsägare och myndigheter som
+1\. på lämpligt sätt och i skälig omfattning samrådas med de fastighetsägare och myndigheter som
 kan antas ha ett väsentligt intresse av planen, och
 
-2. ställa ut ett förslag till plan för granskning under minst fyra veckor.
+2\. ställa ut ett förslag till plan för granskning under minst fyra veckor.
 Kommunen ska informera om utställningen på sin anslagstavla före utställningstidens början.
 Informationen ska innehålla uppgift om förslagets huvudsakliga innebörd, var det ställs ut samt inom
 
@@ -13848,14 +13848,14 @@ och hänvisar samt refererar till övriga dokument i VA-planen. VA-översikten (
 policy (Beslutad av: Kommunfullmäktige 2018-09-11) lägger grunden för arbetet med Kungsbackas
 VA-planering och den befintliga VA-planen innehåller följande dokument och riktlinjer,
 
--  Dagvattenplan (Beslutad av: Kommunfullmäktige 2023-06-14)
--  VA-utbyggnadsplan (Beslutad av: Kommunfullmäktige 2020-08-20)
+\-  Dagvattenplan (Beslutad av: Kommunfullmäktige 2023-06-14)
+\-  VA-utbyggnadsplan (Beslutad av: Kommunfullmäktige 2020-08-20)
 
--  Vattenförsörjningsplan (Beslutad av Nämnden för Teknik: 2015-08-19)
--  Plan för tillskottsvatten (Arbetsplan, startår 2019)
+\-  Vattenförsörjningsplan (Beslutad av Nämnden för Teknik: 2015-08-19)
+\-  Plan för tillskottsvatten (Arbetsplan, startår 2019)
 
--  Förnyelseplan för VA-ledningsnäten (Beslutad av Nämnden för Teknik: 2021-09-29)
--  Nödvattenplan
+\-  Förnyelseplan för VA-ledningsnäten (Beslutad av Nämnden för Teknik: 2021-09-29)
+\-  Nödvattenplan
 
 I föreliggande Vattentjänstplan för Kungsbacka kommun presenteras den långsiktiga planeringen och
 status för kommunens olika ansvarsområden som VA-huvudman och som samhällsplanerare. En ny
@@ -14350,10 +14350,10 @@ Kommunens skyldighet att ordna vattentjänster
 vattenförsörjning eller avlopp i ett större sammanhang för en viss befintlig eller blivande
 bebyggelse, ska kommunen
 
-1. bestämma det verksamhetsområde inom vilket vattentjänsten eller vattentjänsterna
+1\. bestämma det verksamhetsområde inom vilket vattentjänsten eller vattentjänsterna
 behöver ordnas, och
 
-2. se till att behovet snarast, och så länge behovet finns kvar, tillgodoses i
+2\. se till att behovet snarast, och så länge behovet finns kvar, tillgodoses i
 verksamhetsområdet genom en allmän va-anläggning.
 
 Vid bedömningen av behovet enligt första stycket ska särskild hänsyn tas till
@@ -14399,9 +14399,9 @@ Planen är inte bindande. Lag (2022:1249).
 6 c § Utöver det förfarande som följer av bestämmelserna om strategiska
 miljöbedömningar av planer och program i 6 kap. miljöbalken ska kommunen
 innan den antar eller ändrar en vattentjänstplan
-1. på lämpligt sätt och i skälig omfattning samråda med de fastighetsägare
+1\. på lämpligt sätt och i skälig omfattning samråda med de fastighetsägare
 och myndigheter som kan antas ha ett väsentligt intresse av planen, och
-2. ställa ut ett förslag till plan för granskning under minst fyra veckor.
+2\. ställa ut ett förslag till plan för granskning under minst fyra veckor.
 
 Kommunen ska informera om utställningen på sin anslagstavla före
 utställningstidens början. Informationen ska innehålla uppgift om förslagets
@@ -14804,7 +14804,7 @@ resilienta system och samhällen.
 -- AE EE
 Pa Ya
 
-+
+\+
 dh +
 ÖF |
 4 |
@@ -14813,7 +14813,7 @@ t 1
 ' 1
 I 1
 I 1
-| |
+\| |
 [ Vatten- Gestaltning ||
 I kvalitet (biologisk I
 ' mäss
@@ -15238,7 +15238,7 @@ kallade SPU-områden.
 av SIWI Swedish Water House och Livsmedelsverket om klimatförändringar,
 klimatanpassning, vatten och samhällsplanering.
 30 P110 Avledning av dag-, drän- och spillvatten. Svenskt Vatten Publikationer. Utgiven Jan
-2019.
+2019\.
 31 Plan för Tillskottsvatten 2019. Kungsbacka Kommun.
 
 Kungsbacka kommun              Styrande dokument               28 (36)
@@ -15246,9 +15246,9 @@ Kungsbacka kommun              Styrande dokument               28 (36)
 <!-- sida 357 -->
 
 Områden prioriteras utefter:
-1. Inkommande flöden till avloppsreningsverk
-2. Bräddningar på pumpstationer
-3. Mätningar på ledningsnät
+1\. Inkommande flöden till avloppsreningsverk
+2\. Bräddningar på pumpstationer
+3\. Mätningar på ledningsnät
 
 Arbetets undersökningsmetoder innefattar rökning och färgning av fastigheters
 anslutningar för att detektera om dagvatten är kopplat på spillvattenledning (det blir
@@ -15274,12 +15274,12 @@ Tillskottsvatten 2019, en femårsplan32.
 Åtgärdsarbetet med tillskottsvattnet följs upp enligt Förnyelseplanens 4 indikatorer
 för uppföljningen av arbetet med tillskottsvatten.
 
-1. Årstrenden för inkommande volymer tillskottsvatten till ARV:en, (exempel i Figur
+1\. Årstrenden för inkommande volymer tillskottsvatten till ARV:en, (exempel i Figur
 6).
-2. Årstrend för bräddningar från pumpstationer
+2\. Årstrend för bräddningar från pumpstationer
 
-3. Årstrend för FRC (Fast Response Component) in till verken och
-4. Antal fastigheter som undersöks varje år och hur många felkopplade fastigheter
+3\. Årstrend för FRC (Fast Response Component) in till verken och
+4\. Antal fastigheter som undersöks varje år och hur många felkopplade fastigheter
 som kopplas bort.
 
 32 Plan för Tillskottsvatten 2019. Kungsbacka Kommun.
@@ -15696,13 +15696,13 @@ Sammanfattning
 Under samrådstiden inkom 9 skrivelser. Nedan beskrivs de revideringar som gjorts i
 handlingarna med anledning av inkomna synpunkter.
 
-1. Det har förtydligats att dagvattenanläggningar och andra förändringar av
+1\. Det har förtydligats att dagvattenanläggningar och andra förändringar av
 mark inte är en konsekvens av att Vattentjänstplanen tillkommer till
 kommunens VA-plan. Detta har förtydligats i sammanfattningen på sida 4
 och under ’Strategisk miljökonsekvensbeskrivning av vattentjänstplanen’ på
 sida 33.
 
-2. Utveckling och förtydligande av kommunens avgränsning av
+2\. Utveckling och förtydligande av kommunens avgränsning av
 Vattentjänstplanen till verksamhetsområdet för vatten och avlopp. Det har i
 handlingarna förtydligats att Vattentjänstplanen avgränsats till att omfatta
 områden som ingår, bör ingå och/eller planeras ingå i verksamhetsområde
@@ -15710,9 +15710,9 @@ för vatten och avlopp då det är dessa områden som ska tillgodoses med
 allmänna vattentjänster. Detta har förtydligats i sammanfattningen på sida 4
 och under ’Planens framtagande, giltighet och revidering’ på sida 6.
 
-3. Texten om ’VA och skyfall i Kungsbackas stadsbyggnadsprocess’ på sid 16
+3\. Texten om ’VA och skyfall i Kungsbackas stadsbyggnadsprocess’ på sid 16
 ändras enligt förslag från SMHI.
-4. Uppdatering av bilder och text i kapitel ’Väntade klimateffekter på
+4\. Uppdatering av bilder och text i kapitel ’Väntade klimateffekter på
 Kungsbacka’ kopplat till olika scenarier för framtida klimatförändringar har
 gjorts enligt SMHI:s rekommendationer.
 
@@ -15917,11 +15917,11 @@ och geotekniska frågeställningar kopplade till översvämning. Grundläggnings
 miljötekniska frågor, såsom hantering av radon, ingår inte i vår granskning.
 
 Underlag:
-1. Vattentjänstplan – Kungsbacka kommun, 2023
+1\. Vattentjänstplan – Kungsbacka kommun, 2023
 
-2. Handbok för klimatanpassad dricksvattenförsörjning, Livsmedelsverket 2019.
+2\. Handbok för klimatanpassad dricksvattenförsörjning, Livsmedelsverket 2019.
 
-3. Vägledning vid framtagande av vattentjänstplan – komplettering av VA-plan. M152,
+3\. Vägledning vid framtagande av vattentjänstplan – komplettering av VA-plan. M152,
 meddelande version 2.0, Svenskt Vatten, mars 2023.
 
 Bakgrund och förutsättningar
@@ -16112,7 +16112,7 @@ budgeterad plan för klimatsäkring av VA-anläggningar.
 KUNGSBACKA KOMMUN
 10 (23)
 
-2. Kommuner   samt  politiska partier.
+2\. Kommuner   samt  politiska partier.
 
 2.1 Kretslopp och Vatten Göteborg
 
@@ -17174,11 +17174,11 @@ DÅ
 
 Sä: mg 8
 LJ 8
-- Få
+\- Få
 
-: | :
+\: | :
 
-| |
+\| |
 
 | s mr
 N |
@@ -17282,7 +17282,7 @@ Ort,
 Vinterkärr
 
 Fr "1 Voxlöv
-AN oo $ ”
+AN oo \$ ”
 Arencalsvågon nå ä + - Lille våle
 Ryren e en - -—- -
 Ss,; vd Lissgård
@@ -17294,9 +17294,9 @@ Borgås ; Cd 5 — &
 : - /
 a 6 2, hb /
 0 VV Åt q «7 Toftered
-$ ; - L | :
+\$ ; - L | :
 4 < st pb vr > ” ' Tölögärden
-- $ se iq LCC | ; =
+\- \$ se iq LCC | ; =
 Rrärkan a a 3 - 4 + - Lr |
 
 30

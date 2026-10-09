@@ -1032,7 +1032,7 @@ enligt miljöbalken 7 kap 11§ som bland annat alléer omfattas av. Den allé so
 Varbergsvägen utgör en viktig spridningskorridor för fåglar och insekter. Dispens från
 länsstyrelsen krävs för nedtagning av dessa och kompensation genom plantering av nya träd.
 I samband med detaljplanearbetet har en trädinventering (Kungsbacka kommun 2021-10-
-20) genomförts för att studera trädens art, storlek, ålder och vitalitet. Inventeringen visar
+20\) genomförts för att studera trädens art, storlek, ålder och vitalitet. Inventeringen visar
 vilka träd som är möjliga att flytta och använda på annan plats ifall nuvarande placering
 kommer i konflikt med områdets nya utformning.
 
@@ -2478,7 +2478,7 @@ Klimat och klimatanpassning
 Planförslaget som helhet underlättar för gång-, cykel- och kollektivtrafik vilket bidrar till
 målet om minskade utsläpp från fossila bränslen i linje med klimatstrategin.
 Planförslaget har även klimatanpassats utifrån framtagen skyfallsutredning (DHI 2024-11-
-20) genom höjdsättning av GATA och VÄG samt möjliggörande av uppförandet av låg mur
+20\) genom höjdsättning av GATA och VÄG samt möjliggörande av uppförandet av låg mur
 för att leda skyfall.
 
 Kulturvärden och arkeologi
@@ -3312,10 +3312,10 @@ Planbeskrivning 63
 |  | Prickmark | Byggnad får inte uppföras. Balkonger och burspråk<br>får kraga ut högst 1,5 meter från fasad och 3,5<br>meter ovan mark. Syftar till att reglera och<br>begränsa byggrätten. |
 | --- | --- | --- |
 |  | Plusmark | Endast komplementbyggnader får uppföras. |
-| h1 | Höjd på byggnadsverk | Högsta nockhöjd är <angivet> meter över angivet<br>nollplan. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan. |
-| h2 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst fem<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
-| h3 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst sju<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
-| h4 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst sex<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
+| h1 | Höjd på byggnadsverk | Högsta nockhöjd är \<angivet> meter över angivet<br>nollplan. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan. |
+| h2 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst fem<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
+| h3 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst sju<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
+| h4 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst sex<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
 
 <!-- sida 77 -->
 
@@ -3323,10 +3323,10 @@ Planbeskrivning 63
 
 [Tabell 77-1](handlingar.tabeller/77-1.csv)
 
-| h5 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst fyra<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
+| h5 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst fyra<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
 | --- | --- | --- |
 | h6 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är +51,5 meter över<br>angivet nollplan som får uppföras i högst fjorton<br>(14) våningar. Syftar till att begränsa högsta<br>nockhöjd på ny flerbostadshusbebyggelse över<br>angivet nollplan samt våningsantal. |
-| h7 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst två<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
+| h7 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst två<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
 | n1 | Markens anordnande | Marken får inte förses med byggnad eller annan<br>anläggning ovan mark, undantaget parkering för<br>rörelsehindrad samt cykelparkering. Balkonger och<br>burspråk får kraga ut 1,5 meter 4,0 meter ovan<br>mark. Syftet är att kvartersgatorna ska ha en<br>karaktär av gårdsyta men ändå vara framkomliga<br>för exempelvis räddningsfordon. 4,0 meter i fri<br>höjd är hämtat från räddningstjänstens Råd och<br>anvisningar nr:110. |
 | n2 | Markens anordnande | Maximalt tillåten markbelastning ur<br>stabilitetssynpunkt är 10 kPa. |
 | n3 | Vegetation | Trädet får endast fällas om det är sjukt eller innebär<br>säkerhetsrisk<br>Syftar till att säkerställa att befintliga träd inte får<br>fällas utan särskild anledning. Träden är markerade<br>på plankartan inom område CENTRUM. |
@@ -3528,15 +3528,15 @@ Utgångspunkter för länsstyrelsens bedömning
 Länsstyrelsen ska efter prövning upphäva kommunens beslut att
 anta, ändra eller upphäva en detaljplan om beslutet innebär att:
 
-1. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte tillgodoses,
-2. regleringen av sådana frågor om användningen av mark- och
+1\. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte tillgodoses,
+2\. regleringen av sådana frågor om användningen av mark- och
 vattenområden som angår flera kommuner inte samordnas på ett
 lämpligt sätt,
-3. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+3\. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
 
-4. strandskydd enligt 7 kap. miljöbalken upphävs i strid med
+4\. strandskydd enligt 7 kap. miljöbalken upphävs i strid med
 gällande bestämmelser, eller
-5. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt med
+5\. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt med
 hänsyn till människors hälsa eller säkerhet eller till risken för
 
 olyckor, översvämning eller erosion.
@@ -3586,20 +3586,20 @@ Plan- och bygglagen (2010:900)
 I 11 kap. 10 § andra stycket PBL anges att länsstyrelsen ska överpröva
 kommunens beslut, om beslutet kan antas innebära att
 
-1. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
+1\. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
 tillgodoses,
 
-2. regleringen av sådana frågor om användningen av mark- och
+2\. regleringen av sådana frågor om användningen av mark- och
 
 vattenområden som angår flera kommuner inte samordnas på
 ett lämpligt sätt,
 
-3. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+3\. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
 
-4. strandskydd enligt 7 kap. miljöbalken i strid med gällande
+4\. strandskydd enligt 7 kap. miljöbalken i strid med gällande
 bestämmelser upphävs eller fortsätter att vara upphävt, eller
 
-5. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt
+5\. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt
 med hänsyn till människors hälsa eller säkerhet eller till risken
 för olyckor, översvämning eller erosion.
 
@@ -3720,15 +3720,15 @@ kopplade till översvämning. Grundläggnings- och miljötekniska frågor, såso
 går inte i vår granskning.
 
 Underlag:
-1. Plankarta, antagandehandling, 2025-12-11
-2. Planbeskrivning, antagandehandling, 2025-12-11
-3. PM Geoteknik — Hantverksgatan, Norconsult, version 2, 2025-10-07
+1\. Plankarta, antagandehandling, 2025-12-11
+2\. Planbeskrivning, antagandehandling, 2025-12-11
+3\. PM Geoteknik — Hantverksgatan, Norconsult, version 2, 2025-10-07
 4
 
 . PM Geoteknik, sydöstra centrum — etapp 1, detaljerad stabilitetsutredning längs Söderån, ver-
 sion 2, 2025-10-07
 
-5. Markteknisk undersökningsrapport, MUR, Norconsult, version 2, 2025-10-07
+5\. Markteknisk undersökningsrapport, MUR, Norconsult, version 2, 2025-10-07
 
 Statens geotekniska institut
 
@@ -4294,7 +4294,7 @@ utförts för att undvika en överskattning av den beräknade säkerhetsfaktorn.
 Tåglast har valts enligt TRVINFRA-00230. Enligt Nationella järnvägsdatabasen (NJDB) har järnvägsspåret
 linjekategori D vilket motsvarar STAX (axellast) 22,5 och STVM (vikt per meter) 6,4 t/m vilket motsvarar en
 tåglast på 34 kPa, utgörs ballasten av makadam. Tunghet och friktionsjord har ansatts enligt TRVINFRA
-00230.
+00230\.
 
 Säkerhetsfaktor har valts för detaljerad utredning enligt IEG rapport 4:2010. För Befintlig bebyggelse och
 anläggning gäller att säkerhetsfaktorer ska väljas i spannet i Fc≥ 1,7–1,5 för odränerad analys och Fkomb ≥
@@ -4713,7 +4713,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -4832,7 +4832,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -4955,7 +4955,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 03:51:61
 ,81-70-5202
 :daregider
@@ -5084,7 +5084,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 03:51:61
 ,81-70-5202
 :daregider
@@ -5222,7 +5222,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -5356,7 +5356,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -5468,7 +5468,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:54:41
 ,81-70-5202
 :daregider
@@ -5584,7 +5584,7 @@ E noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:54:41
 ,81-70-5202
 :daregider
@@ -5706,7 +5706,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 92:43:90
 ,81-70-5202
 :daregider
@@ -5830,7 +5830,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 92:43:90
 ,81-70-5202
 :daregider
@@ -5921,7 +5921,7 @@ sylana
 darenärdO
 1
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -5958,7 +5958,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -6050,7 +6050,7 @@ sylana
 darenibmoK
 1
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 1
@@ -6078,7 +6078,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -6172,7 +6172,7 @@ sylana
 darenärdO
 21
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -6206,7 +6206,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 62:32:61
 ,81-70-5202
 :daregider
@@ -6314,7 +6314,7 @@ sylana
 darenibmoK
 21
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -6340,7 +6340,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 62:32:61
 ,81-70-5202
 :daregider
@@ -6434,7 +6434,7 @@ noitkeS
 sylana
 darenärdO
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -6467,7 +6467,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -6572,7 +6572,7 @@ noitkeS
 sylana
 darenibmoK
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM sylanastehrekäslatoT
@@ -6597,7 +6597,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -6689,7 +6689,7 @@ sylana
 darenärdO
 1
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -6720,7 +6720,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 82:40:01
 ,61-50-6202
 :daregider
@@ -6809,7 +6809,7 @@ noitkeS
 sylana
 darenibmoK
 tsalkraP
--
+\-
 nednallåhröf
 edarenalP
 1
@@ -6835,7 +6835,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 82:40:01
 ,61-50-6202
 :daregider
@@ -6888,7 +6888,7 @@ noitkeS
 sylana
 darenärdO
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -6916,7 +6916,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -7006,7 +7006,7 @@ sylana
 darenibmoK
 1
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 1
@@ -7043,7 +7043,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 65:73:01
 ,81-70-5202
 :daregider
@@ -7175,7 +7175,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 00:45:80
 ,61-50-6202
 :daregider
@@ -7303,7 +7303,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 00:45:80
 ,61-50-6202
 :daregider
@@ -7395,7 +7395,7 @@ sylana
 darenärdO
 21
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -7429,7 +7429,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 62:32:61
 ,81-70-5202
 :daregider
@@ -7540,7 +7540,7 @@ sylana
 darenibmoK
 21
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -7571,7 +7571,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 62:32:61
 ,81-70-5202
 :daregider
@@ -7694,7 +7694,7 @@ noitkeS
 sylana
 darenärdO
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -7730,7 +7730,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -7838,7 +7838,7 @@ noitkeS
 sylana
 darenibmoK
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM sylanastehrekäslatoT
@@ -7868,7 +7868,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 95:64:80
 ,81-70-5202
 :daregider
@@ -7961,7 +7961,7 @@ sylana
 darenärdO
 1
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 1
@@ -7994,7 +7994,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 51:25:90
 ,61-50-6202
 :daregider
@@ -8084,7 +8084,7 @@ sylana
 darenibmoK
 1
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -8116,7 +8116,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 51:25:90
 ,61-50-6202
 :daregider
@@ -8219,7 +8219,7 @@ noitkeS
 sylana
 darenärdO
 ekid
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
@@ -8255,7 +8255,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 50:32:80
 ,10-40-6202
 :daregider
@@ -8355,7 +8355,7 @@ noitkeS
 sylana
 darenibmoK
 ekid
--
+\-
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM sylanastehrekäslatoT
@@ -8383,7 +8383,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 50:32:80
 ,10-40-6202
 :daregider
@@ -8735,7 +8735,7 @@ Uppdragsnr.: 107 47 61 Version: 2.1
 
 På uppdrag av Kungsbacka kommun har Norconsult AB genomfört geotekniska undersökningar och utredning
 som underlag för detaljplan avseende sydöstra centrum, etapp 1 som utgörs av planområdet markerat i Figur
-1. Denna PM syftar till att utreda de geotekniska förhållandena samt säkerställa stabiliteten från planområdets
+1\. Denna PM syftar till att utreda de geotekniska förhållandena samt säkerställa stabiliteten från planområdets
 sydvästra del mot Hantverksgatan. För mer detaljerad info hänvisas till bifogade ritningar.
 Handlingen har reviderats med hänsyn till SGI:s yttrande över samrådshandling, daterad 2025-05-28 och
 SGI:s yttrande över antagandehandling daterad 2026-02-04.
@@ -8924,13 +8924,13 @@ Lera 1        13            30          0,1(cid:2185)  16
 (cid:2203)
 Gyttja        13            30          0,1(cid:2185)  14
 (cid:2203)
-Lera 2   13+0,4*z där z är 0 30         0,1(cid:2185)  16
+Lera 2   13+0,4\*z där z är 0 30         0,1(cid:2185)  16
 (cid:2203)
 på nivå -5
-Lera 3   15+1,5*z där z är 0 30         0,1(cid:2185)  16
+Lera 3   15+1,5\*z där z är 0 30         0,1(cid:2185)  16
 (cid:2203)
 på nivå -10
-Lera 4   18+1,3*z där z är 0 30         0,1(cid:2185)  16
+Lera 4   18+1,3\*z där z är 0 30         0,1(cid:2185)  16
 (cid:2203)
 på nivå -12
 För de material där det inte har utförts tillbörliga tester har tabellvärlden från ”TRVINFRA-00229,
@@ -9223,7 +9223,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 85:92:81
 ,82-90-5202
 :daregider
@@ -9393,7 +9393,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 85:92:81
 ,82-90-5202
 :daregider
@@ -9562,7 +9562,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 43:43:70
 ,03-90-5202
 :daregider
@@ -9715,7 +9715,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 43:43:70
 ,03-90-5202
 :daregider
@@ -9877,7 +9877,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 43:43:70
 ,03-90-5202
 :daregider
@@ -10032,7 +10032,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 43:43:70
 ,03-90-5202
 :daregider
@@ -10155,7 +10155,7 @@ darenärdO
 5.4
 moni
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 tedårmonalp
@@ -10187,7 +10187,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 12:92:81
 ,31-50-6202
 :daregider
@@ -10298,7 +10298,7 @@ sylana
 darenibmoK
 moni
 tsalkraM
--
+\-
 nednallåhröf
 edarenalP
 tedårmonalp
@@ -10331,7 +10331,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 12:92:81
 ,31-50-6202
 :daregider
@@ -10440,7 +10440,7 @@ sylana
 darenärdO
 5.4
 masnnygO
--
+\-
 nednallåhröf
 edarenalP
 gnirecalptsal
@@ -10472,7 +10472,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 12:92:81
 ,31-50-6202
 :daregider
@@ -10553,7 +10553,7 @@ sisylanA
 sylana
 darenibmoK
 masnnygO
--
+\-
 nednallåhröf
 edarenalP
 gnirecalptsal
@@ -10622,7 +10622,7 @@ noitkeS
 gninkäreb
 daretadppU\G\ragninkäreB
 30\lairetamstebrA
-5\1674701\74\701\:N
+5\1674701\74\701\\:N
 12:92:81
 ,31-50-6202
 :daregider

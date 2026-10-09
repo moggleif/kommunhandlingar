@@ -104,10 +104,10 @@ behov kring mat och måltider i den individuella genomförandeplanen enligt sida
 och måltider på vård- och omsorgsboende" Kungsbacka kommun.
 
 Två av stickproven som togs vid revisionen saknade relevant information.
-- Enligt omvårdnadspersonalens uppgift (även noterat i matlista) åt inte kund skaldjur men
+\- Enligt omvårdnadspersonalens uppgift (även noterat i matlista) åt inte kund skaldjur men
 
 informationen saknades i GFP.
-- Information om vilket hjälpmedelsbehov en kund hade saknades i GFP.
+\- Information om vilket hjälpmedelsbehov en kund hade saknades i GFP.
 
 Kommentar:
 Omvårdnadspersonalen är medvetna om behoven och vid båda tillfällena fanns inget som tyder på
@@ -131,9 +131,9 @@ och ska användas
 
 Två av stickproven som togs vid revisionen saknade information kring bedömning, syfte och
 samtycke för säkerhetsåtgärder.
-- Information om behov av sänggrindar för en kund samt samtycke för detta saknades i GFP.
+\- Information om behov av sänggrindar för en kund samt samtycke för detta saknades i GFP.
 
-- Information om sänggrind fanns i en kunds GFP, dock inte dokumenterat kring bedömning/syfte för
+\- Information om sänggrind fanns i en kunds GFP, dock inte dokumenterat kring bedömning/syfte för
 detta samt samtycke.
 
 Kommentar: Personal är medvetna om dessa kunders behov och önskemål. Bristen rör
@@ -284,7 +284,7 @@ Besök Ekhaga och Vickan 240523 - besök på samtliga avdelningar
 
 Larmombud finns på samtliga avdelningar.
 Lokal rutin gällande larmhantering och egenkontroll av larm finns på både Vickan och Ekhaga
-- samtliga signeringslistor på båda enheterna ifyllda. Egenkontroll genomförs 1 gång/månad
+\- samtliga signeringslistor på båda enheterna ifyllda. Egenkontroll genomförs 1 gång/månad
 på Ekhaga enligt rutin samt 1 gång/vecka på Vickan, där man behållit fungerande rutin sedan
 tidigare trots att det är oftare än nödvändigt. På Vickan finns även extra trygghetslarm om
 något skulle gå sönder samt instruktion till personal hur dessa installeras.
@@ -515,7 +515,7 @@ möjligheter till loggning av larmärenden.
 
 Uppdragets    delområden
 
-1. Mat och måltider
+1\. Mat och måltider
 DELKRAV: Måltiden ska vara integrerad och trivsam
 
 Besök 240321
@@ -679,7 +679,7 @@ Maten ska:
 -Se aptitlig ut, dofta och smaka gott och ha variation i konsistens och smakbalans.
 -Vara näringsriktig utifrån gällande rekommendationer vilket innebär en liten energi- och
 proteinrik portion.
-- Vara vällagad och varierande och över dagen innehålla komponenter från hela kostcirkeln
+\- Vara vällagad och varierande och över dagen innehålla komponenter från hela kostcirkeln
 för att säkerställa variation av livsmedel, färg och konsistens. Ingen brist identifierad för
 dessa punkter.
 
@@ -1052,11 +1052,11 @@ dessa personer behöver en individuell bedömning göras för att på bästa sä
 boendes behov av trygghet, till exempel utökad tillsyn eller andra åtgärder. AVVIKELSE 2.
 
 Finns det fler larm samtidigt prioriteras dessa enligt följande:
-1. Hjärt- och lungproblem
+1\. Hjärt- och lungproblem
 
-2. Svår och besvärande smärta
-3. Fall
-4. Akuta toalettbesök
+2\. Svår och besvärande smärta
+3\. Fall
+4\. Akuta toalettbesök
 
 Ett larm där mottagaren inte svarar när verksamheten ringer upp bedöms som ett prioriterat
 larm. Verksamheten gör sedan en prioritering över aktuella larm som inkommit och åtgärdar
@@ -1108,10 +1108,10 @@ dessa personer behöver en individuell bedömning göras för att på bästa sä
 boendes behov av trygghet, till exempel utökad tillsyn eller andra åtgärder.
 
 Finns det fler larm samtidigt prioriteras dessa enligt följande:
-1. Hjärt- och lungproblem
-2. Svår och besvärande smärta
-3. Fall
-4. Akuta toalettbesök
+1\. Hjärt- och lungproblem
+2\. Svår och besvärande smärta
+3\. Fall
+4\. Akuta toalettbesök
 
 Ett larm där mottagaren inte svarar när verksamheten ringer upp bedöms som ett prioriterat
 larm. Verksamheten gör sedan en prioritering över aktuella larm som inkommit och åtgärdar
@@ -1216,9 +1216,9 @@ Stickprov Riktlinje för mat och måltider på vård- och omsorgsboende – utva
 under delkrav ”Måltiden ska vara integrerad och trivsam” samt ”Måltiden ska vara säker och
 hållbar”
 
-1. Stickprov avseende ifylld egenkontroll vad gäller punkterna under delkravet
+1\. Stickprov avseende ifylld egenkontroll vad gäller punkterna under delkravet
 
-- Trivsam miljö
+\- Trivsam miljö
 
 Årsrapport 2024                                          Qvalify AB
 
@@ -1239,8 +1239,8 @@ På samtliga avdelningar är det julpyntat med bland annat bordsduk, julgran och
 Nobelmiddag förbereds för morgondagen, där en 3-rätters middag kommer serveras. Ingen
 avvikelse noterad för denna punkt gällande ”trivsam miljö”.
 
-2. Stickprov avseende ifylld egenkontroll vad gäller följande del av kraven:
-- Kall mat ska förvaras vid max +4 grader och varm mat ska förvaras tillräckligt varmt, minst
+2\. Stickprov avseende ifylld egenkontroll vad gäller följande del av kraven:
+\- Kall mat ska förvaras vid max +4 grader och varm mat ska förvaras tillräckligt varmt, minst
 60% under hela varmhållningstiden.
 
 Utskriven egenkontroll på samtliga avdelningar där stickprov genomförs finns ifylld enligt
@@ -1265,12 +1265,12 @@ Oannonserat besök 2024-12-12, Vardaga Ekhaga + Vickan
 
 Stickprov Riktlinje för mat och måltider på vård- och omsorgsboende – utvalda punkter
 under delkrav ”Måltiden ska vara säker och hållbar”
-1. Stickprov avseende: Omsorgspersonalen ska ha kunskap om livsmedelssäkerhet och
+1\. Stickprov avseende: Omsorgspersonalen ska ha kunskap om livsmedelssäkerhet och
 rutiner för att hantera risker samt följa basala hygienrutiner. Vid stickprov kan
 omsorgspersonal uppvisa att de genomgått utbildning i basala hygienrutiner nyligen. Inga
 avvikelser noterade för denna punkt gällande personalens kunskap. ¨
 
-2. Stickprov avseende: Egenkontrollprogram ska finnas på varje enhet, se Lokal rutin
+2\. Stickprov avseende: Egenkontrollprogram ska finnas på varje enhet, se Lokal rutin
 livsmedelshantering Under dessa stickprov besöktes 2 avdelningar på Vickan och 3 på
 
 Ekhaga. På 4 av 5 besökta avdelningar är livsmedel i kyl och skafferi märkta med antingen
@@ -1353,23 +1353,23 @@ rekommendation.
 Besök Ekhaga och Vickan 240523
 
 Ekhaga
-- En del information dokumenteras på olika ställen i kunds genomförandeplan, beroende på
+\- En del information dokumenteras på olika ställen i kunds genomförandeplan, beroende på
 avdelning. En förenkling för personal är att samstämma om var information ska stå så det är
 enkelt och snabbt för samtlig personal att hitta nödvändig information, t ex vad gäller
 skyddsåtgärder, måltidsstöd o dyl. Vid revisionen har några i personalen svårt att finna
 nödvändig information och vet inte var de ska leta i den boendes dokumentation.
 
-- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
+\- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
 livsmedel på avdelningarna överensstämmer med direktiv från Ambea och Kungsbacka
 kommun.
 
 Vickan
-- Skäret
+\- Skäret
 
 Se över och stärka rutin för dokumentation av signering och avvikelse/åtgärder gällande
 varmhållning/kyla av mat/livsmedel - se avvikelse.
 
-- Fyren
+\- Fyren
 Se över och stärka rutin för egenkontroll av temperaturmätning varmhållning/kyla av
 livsmedel - se avvikelse. Personal och ledning ser möjliga orsaker till varför så skett, där
 verksamheten haft utmaningar med högre omsättning av nyinflyttade boende, där man fått
@@ -1377,7 +1377,7 @@ verksamheten haft utmaningar med högre omsättning av nyinflyttade boende, där
 möjligt. Ni bör dock se över om det går att finna andra sätt att fullfölja rutinen för detta tills
 ursprunglig rutin kan användas igen.
 
-- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
+\- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
 livsmedel på avdelningarna överensstämmer med direktiv från Ambea och Kungsbacka
 
 kommun.
@@ -1591,12 +1591,12 @@ Ingen brist identifierad.
 Besök Vickan och Ekhaga 240321
 
 Vid kommande revision
-- Se kompetensbevis på personal i tillagningsköket.
-- Granska senaste årets tillsynsprotokoll från miljö- och hälsa.
-- Hur ni säkerställer att alternativrätten innehåller rätt näringsvärden (om den inte kommer
+\- Se kompetensbevis på personal i tillagningsköket.
+\- Granska senaste årets tillsynsprotokoll från miljö- och hälsa.
+\- Hur ni säkerställer att alternativrätten innehåller rätt näringsvärden (om den inte kommer
 
 från "Mat som hemma").
-- Säkerställa att frekvensen på temperaturmätning följer riktlinjer.
+\- Säkerställa att frekvensen på temperaturmätning följer riktlinjer.
 
 Besök Ekhaga 240425
 
@@ -1608,13 +1608,13 @@ Vardaga        Kungsbacka               2024-12-29       Sida 31(33)
 <!-- sida 32 -->
 
 Vid kommande revision:
-- Se siffror för uppmätt matsvinn; under senaste mätning 2024 samt jämföra med tillfället
+\- Se siffror för uppmätt matsvinn; under senaste mätning 2024 samt jämföra med tillfället
 
 innan dess.
-- Säkerställa att temperatur i kylar följer riktlinjer.
-- Säkerställa att genomförandeplaner innehåller dokumentation gällande säkerhetsåtgärder
+\- Säkerställa att temperatur i kylar följer riktlinjer.
+\- Säkerställa att genomförandeplaner innehåller dokumentation gällande säkerhetsåtgärder
 samt samtycke från kund angående dessa.
-- Se över resultat genomförda måltidsobservationer
+\- Se över resultat genomförda måltidsobservationer
 
 Besök Ekhaga och Vickan 240523
 
@@ -1626,21 +1626,21 @@ ut p g a bristande funktion, fastighetsägaren har ännu inte agerat på felanm�
 
 Vid kommande revision:
 
-- Uppföljning av kyla av livsmedel: genomförd egenkontroll samt att uppdaterad rutin finns
+\- Uppföljning av kyla av livsmedel: genomförd egenkontroll samt att uppdaterad rutin finns
 ute på avdelningarna.
-- Säkerställa kompetens för enhetens personal gällande mat och måltider - genomgången
+\- Säkerställa kompetens för enhetens personal gällande mat och måltider - genomgången
 utbildning livsmedelshygien/livsmedelshantering.
-- Besök på avdelningarna
+\- Besök på avdelningarna
 
 Besök Ekhaga 240620
 
 Vid kommande revision:
 
-- Riktlinje för specialkost, konsistensanpassning och andra anpassningar av maten (Ekhaga +
+\- Riktlinje för specialkost, konsistensanpassning och andra anpassningar av maten (Ekhaga +
 Vickan)
-- Livsmedelshygieniska rutiner samt egenkontrollsrutiner i tillagningskök (Ekhaga)
-- Uppföljning av nyinförd städrutin på Ekhaga
-- Utbildning livsmedelshygien personal (Vickan)
+\- Livsmedelshygieniska rutiner samt egenkontrollsrutiner i tillagningskök (Ekhaga)
+\- Uppföljning av nyinförd städrutin på Ekhaga
+\- Utbildning livsmedelshygien personal (Vickan)
 
 Notering
 
@@ -1836,10 +1836,10 @@ behov kring mat och måltider i den individuella genomförandeplanen enligt sida
 och måltider på vård- och omsorgsboende" Kungsbacka kommun.
 
 Två av stickproven som togs vid revisionen saknade relevant information.
-- Enligt omvårdnadspersonalens uppgift (även noterat i matlista) åt inte kund skaldjur men
+\- Enligt omvårdnadspersonalens uppgift (även noterat i matlista) åt inte kund skaldjur men
 
 informationen saknades i GFP.
-- Information om vilket hjälpmedelsbehov en kund hade saknades i GFP.
+\- Information om vilket hjälpmedelsbehov en kund hade saknades i GFP.
 
 Kommentar:
 Omvårdnadspersonalen är medvetna om behoven och vid båda tillfällena fanns inget som tyder på
@@ -1863,9 +1863,9 @@ och ska användas
 
 Två av stickproven som togs vid revisionen saknade information kring bedömning, syfte och
 samtycke för säkerhetsåtgärder.
-- Information om behov av sänggrindar för en kund samt samtycke för detta saknades i GFP.
+\- Information om behov av sänggrindar för en kund samt samtycke för detta saknades i GFP.
 
-- Information om sänggrind fanns i en kunds GFP, dock inte dokumenterat kring bedömning/syfte för
+\- Information om sänggrind fanns i en kunds GFP, dock inte dokumenterat kring bedömning/syfte för
 detta samt samtycke.
 
 Kommentar: Personal är medvetna om dessa kunders behov och önskemål. Bristen rör
@@ -2016,7 +2016,7 @@ Besök Ekhaga och Vickan 240523 - besök på samtliga avdelningar
 
 Larmombud finns på samtliga avdelningar.
 Lokal rutin gällande larmhantering och egenkontroll av larm finns på både Vickan och Ekhaga
-- samtliga signeringslistor på båda enheterna ifyllda. Egenkontroll genomförs 1 gång/månad
+\- samtliga signeringslistor på båda enheterna ifyllda. Egenkontroll genomförs 1 gång/månad
 på Ekhaga enligt rutin samt 1 gång/vecka på Vickan, där man behållit fungerande rutin sedan
 tidigare trots att det är oftare än nödvändigt. På Vickan finns även extra trygghetslarm om
 något skulle gå sönder samt instruktion till personal hur dessa installeras.
@@ -2247,7 +2247,7 @@ möjligheter till loggning av larmärenden.
 
 Uppdragets    delområden
 
-1. Mat och måltider
+1\. Mat och måltider
 DELKRAV: Måltiden ska vara integrerad och trivsam
 
 Besök 240321
@@ -2411,7 +2411,7 @@ Maten ska:
 -Se aptitlig ut, dofta och smaka gott och ha variation i konsistens och smakbalans.
 -Vara näringsriktig utifrån gällande rekommendationer vilket innebär en liten energi- och
 proteinrik portion.
-- Vara vällagad och varierande och över dagen innehålla komponenter från hela kostcirkeln
+\- Vara vällagad och varierande och över dagen innehålla komponenter från hela kostcirkeln
 för att säkerställa variation av livsmedel, färg och konsistens. Ingen brist identifierad för
 dessa punkter.
 
@@ -2784,11 +2784,11 @@ dessa personer behöver en individuell bedömning göras för att på bästa sä
 boendes behov av trygghet, till exempel utökad tillsyn eller andra åtgärder. AVVIKELSE 2.
 
 Finns det fler larm samtidigt prioriteras dessa enligt följande:
-1. Hjärt- och lungproblem
+1\. Hjärt- och lungproblem
 
-2. Svår och besvärande smärta
-3. Fall
-4. Akuta toalettbesök
+2\. Svår och besvärande smärta
+3\. Fall
+4\. Akuta toalettbesök
 
 Ett larm där mottagaren inte svarar när verksamheten ringer upp bedöms som ett prioriterat
 larm. Verksamheten gör sedan en prioritering över aktuella larm som inkommit och åtgärdar
@@ -2840,10 +2840,10 @@ dessa personer behöver en individuell bedömning göras för att på bästa sä
 boendes behov av trygghet, till exempel utökad tillsyn eller andra åtgärder.
 
 Finns det fler larm samtidigt prioriteras dessa enligt följande:
-1. Hjärt- och lungproblem
-2. Svår och besvärande smärta
-3. Fall
-4. Akuta toalettbesök
+1\. Hjärt- och lungproblem
+2\. Svår och besvärande smärta
+3\. Fall
+4\. Akuta toalettbesök
 
 Ett larm där mottagaren inte svarar när verksamheten ringer upp bedöms som ett prioriterat
 larm. Verksamheten gör sedan en prioritering över aktuella larm som inkommit och åtgärdar
@@ -2948,9 +2948,9 @@ Stickprov Riktlinje för mat och måltider på vård- och omsorgsboende – utva
 under delkrav ”Måltiden ska vara integrerad och trivsam” samt ”Måltiden ska vara säker och
 hållbar”
 
-1. Stickprov avseende ifylld egenkontroll vad gäller punkterna under delkravet
+1\. Stickprov avseende ifylld egenkontroll vad gäller punkterna under delkravet
 
-- Trivsam miljö
+\- Trivsam miljö
 
 Årsrapport 2024                                          Qvalify AB
 
@@ -2971,8 +2971,8 @@ På samtliga avdelningar är det julpyntat med bland annat bordsduk, julgran och
 Nobelmiddag förbereds för morgondagen, där en 3-rätters middag kommer serveras. Ingen
 avvikelse noterad för denna punkt gällande ”trivsam miljö”.
 
-2. Stickprov avseende ifylld egenkontroll vad gäller följande del av kraven:
-- Kall mat ska förvaras vid max +4 grader och varm mat ska förvaras tillräckligt varmt, minst
+2\. Stickprov avseende ifylld egenkontroll vad gäller följande del av kraven:
+\- Kall mat ska förvaras vid max +4 grader och varm mat ska förvaras tillräckligt varmt, minst
 60% under hela varmhållningstiden.
 
 Utskriven egenkontroll på samtliga avdelningar där stickprov genomförs finns ifylld enligt
@@ -2997,12 +2997,12 @@ Oannonserat besök 2024-12-12, Vardaga Ekhaga + Vickan
 
 Stickprov Riktlinje för mat och måltider på vård- och omsorgsboende – utvalda punkter
 under delkrav ”Måltiden ska vara säker och hållbar”
-1. Stickprov avseende: Omsorgspersonalen ska ha kunskap om livsmedelssäkerhet och
+1\. Stickprov avseende: Omsorgspersonalen ska ha kunskap om livsmedelssäkerhet och
 rutiner för att hantera risker samt följa basala hygienrutiner. Vid stickprov kan
 omsorgspersonal uppvisa att de genomgått utbildning i basala hygienrutiner nyligen. Inga
 avvikelser noterade för denna punkt gällande personalens kunskap. ¨
 
-2. Stickprov avseende: Egenkontrollprogram ska finnas på varje enhet, se Lokal rutin
+2\. Stickprov avseende: Egenkontrollprogram ska finnas på varje enhet, se Lokal rutin
 livsmedelshantering Under dessa stickprov besöktes 2 avdelningar på Vickan och 3 på
 
 Ekhaga. På 4 av 5 besökta avdelningar är livsmedel i kyl och skafferi märkta med antingen
@@ -3085,23 +3085,23 @@ rekommendation.
 Besök Ekhaga och Vickan 240523
 
 Ekhaga
-- En del information dokumenteras på olika ställen i kunds genomförandeplan, beroende på
+\- En del information dokumenteras på olika ställen i kunds genomförandeplan, beroende på
 avdelning. En förenkling för personal är att samstämma om var information ska stå så det är
 enkelt och snabbt för samtlig personal att hitta nödvändig information, t ex vad gäller
 skyddsåtgärder, måltidsstöd o dyl. Vid revisionen har några i personalen svårt att finna
 nödvändig information och vet inte var de ska leta i den boendes dokumentation.
 
-- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
+\- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
 livsmedel på avdelningarna överensstämmer med direktiv från Ambea och Kungsbacka
 kommun.
 
 Vickan
-- Skäret
+\- Skäret
 
 Se över och stärka rutin för dokumentation av signering och avvikelse/åtgärder gällande
 varmhållning/kyla av mat/livsmedel - se avvikelse.
 
-- Fyren
+\- Fyren
 Se över och stärka rutin för egenkontroll av temperaturmätning varmhållning/kyla av
 livsmedel - se avvikelse. Personal och ledning ser möjliga orsaker till varför så skett, där
 verksamheten haft utmaningar med högre omsättning av nyinflyttade boende, där man fått
@@ -3109,7 +3109,7 @@ verksamheten haft utmaningar med högre omsättning av nyinflyttade boende, där
 möjligt. Ni bör dock se över om det går att finna andra sätt att fullfölja rutinen för detta tills
 ursprunglig rutin kan användas igen.
 
-- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
+\- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
 livsmedel på avdelningarna överensstämmer med direktiv från Ambea och Kungsbacka
 
 kommun.
@@ -3323,12 +3323,12 @@ Ingen brist identifierad.
 Besök Vickan och Ekhaga 240321
 
 Vid kommande revision
-- Se kompetensbevis på personal i tillagningsköket.
-- Granska senaste årets tillsynsprotokoll från miljö- och hälsa.
-- Hur ni säkerställer att alternativrätten innehåller rätt näringsvärden (om den inte kommer
+\- Se kompetensbevis på personal i tillagningsköket.
+\- Granska senaste årets tillsynsprotokoll från miljö- och hälsa.
+\- Hur ni säkerställer att alternativrätten innehåller rätt näringsvärden (om den inte kommer
 
 från "Mat som hemma").
-- Säkerställa att frekvensen på temperaturmätning följer riktlinjer.
+\- Säkerställa att frekvensen på temperaturmätning följer riktlinjer.
 
 Besök Ekhaga 240425
 
@@ -3340,13 +3340,13 @@ Vardaga        Kungsbacka               2024-12-29       Sida 31(33)
 <!-- sida 67 -->
 
 Vid kommande revision:
-- Se siffror för uppmätt matsvinn; under senaste mätning 2024 samt jämföra med tillfället
+\- Se siffror för uppmätt matsvinn; under senaste mätning 2024 samt jämföra med tillfället
 
 innan dess.
-- Säkerställa att temperatur i kylar följer riktlinjer.
-- Säkerställa att genomförandeplaner innehåller dokumentation gällande säkerhetsåtgärder
+\- Säkerställa att temperatur i kylar följer riktlinjer.
+\- Säkerställa att genomförandeplaner innehåller dokumentation gällande säkerhetsåtgärder
 samt samtycke från kund angående dessa.
-- Se över resultat genomförda måltidsobservationer
+\- Se över resultat genomförda måltidsobservationer
 
 Besök Ekhaga och Vickan 240523
 
@@ -3358,21 +3358,21 @@ ut p g a bristande funktion, fastighetsägaren har ännu inte agerat på felanm�
 
 Vid kommande revision:
 
-- Uppföljning av kyla av livsmedel: genomförd egenkontroll samt att uppdaterad rutin finns
+\- Uppföljning av kyla av livsmedel: genomförd egenkontroll samt att uppdaterad rutin finns
 ute på avdelningarna.
-- Säkerställa kompetens för enhetens personal gällande mat och måltider - genomgången
+\- Säkerställa kompetens för enhetens personal gällande mat och måltider - genomgången
 utbildning livsmedelshygien/livsmedelshantering.
-- Besök på avdelningarna
+\- Besök på avdelningarna
 
 Besök Ekhaga 240620
 
 Vid kommande revision:
 
-- Riktlinje för specialkost, konsistensanpassning och andra anpassningar av maten (Ekhaga +
+\- Riktlinje för specialkost, konsistensanpassning och andra anpassningar av maten (Ekhaga +
 Vickan)
-- Livsmedelshygieniska rutiner samt egenkontrollsrutiner i tillagningskök (Ekhaga)
-- Uppföljning av nyinförd städrutin på Ekhaga
-- Utbildning livsmedelshygien personal (Vickan)
+\- Livsmedelshygieniska rutiner samt egenkontrollsrutiner i tillagningskök (Ekhaga)
+\- Uppföljning av nyinförd städrutin på Ekhaga
+\- Utbildning livsmedelshygien personal (Vickan)
 
 Notering
 
@@ -3437,7 +3437,7 @@ rebecca.granatMkungsbacka.se 0760-30 01 23 (mob)
 
 ida.vallinQambea.se
 
-1. Objektbeskrivning
+1\. Objektbeskrivning
 
 1.1 Objektsbeskrivning Vickan vård- och omsorgsboende
 Avtalet omfattar driften av Vickan vård- och omsorgsboende. Vård- och omsorgsboendet ska drivas för
@@ -3511,7 +3511,7 @@ YX
 
 Driftentreprenad Vickan vård- och omsorgsboende 19/119:1
 
-2. Kvalificeringskrav på leverantör
+2\. Kvalificeringskrav på leverantör
 
 2.1 Teknisk och yrkesmässig kapacitet (kompetens driftansvarig)
 
@@ -3581,7 +3581,7 @@ b. betydelsen av att rutiner och krav i miljöledningssystemet följs.
 c. sina roller och ansvar för att minska belastningen av de betydande miljöaspekterna.
 0 Samlad dokumentation av avvikelser i systemet och rutin för hanteringen av avvikelserna.
 
-1) Med miljöaspekt menas orsaken till miljöpåverkan som uppstår på grund av en aktivitet i företaget
+1\) Med miljöaspekt menas orsaken till miljöpåverkan som uppstår på grund av en aktivitet i företaget
 eller organisationen. Med betydande miljöaspekt menas en miljöaspekt som påverkar miljön i högre
 grad än vad andra miljöaspekter inom företaget eller organisationen gör.
 
@@ -3591,7 +3591,7 @@ Sida 4/28
 
 Driftentreprenad Vickan vård- och omsorgsboende 19/119:1
 
-3. Obligatoriska krav på tjänsten
+3\. Obligatoriska krav på tjänsten
 
 3.1 Åtagande
 
@@ -3739,7 +3739,7 @@ värme och VA (kall- och varmvatten).
 
 abonnemang avseende hushållsavfall.
 
-2) se även punkt 3.22 IT-infrastruktur, teknisk utrustning, system och digitala verktyg
+2\) se även punkt 3.22 IT-infrastruktur, teknisk utrustning, system och digitala verktyg
 
 3.5 Inventarier och utrustning
 
@@ -3961,7 +3961,7 @@ säkerställa att avfallet tas om hand av mottagare som innehar de tillstånd so
 Elektricitet från förnybara energikällor
 Utföraren ska använda elektricitet från förnybara energikällor?på boendet.
 
-3) Enligt Direktivet 2001/77/EG artikel 2a är förnybara energikällor: vindkraft, solenergi, jordvärme, våg
+3\) Enligt Direktivet 2001/77/EG artikel 2a är förnybara energikällor: vindkraft, solenergi, jordvärme, våg
 och tidvattenenergi, vattenkraft, biomassa, deponigas, gas från avloppsreningsanläggningar och
 biogas, där biomassa definieras (artikel 2c): den biologiskt nedbrytbara fraktionen av produkter, avfall
 och rester från jordbruk (både vegetabiliska och animaliska ämnen), skogsbruk och närstående
@@ -4400,7 +4400,7 @@ Sida 18/28
 
 Driftentreprenad Vickan vård- och omsorgsboende 19/119:1
 
-5. Kommersiella villkor
+5\. Kommersiella villkor
 
 5.1 Parter
 
@@ -4429,12 +4429,12 @@ Avtalshandlingarna kompletterar varandra. Om avtalshandlingarna skulle visa sig 
 något avseende gäller de, om inte omständigheter uppenbarligen föranleder annat, sinsemellan i
 följande ordning:
 
-1. Skriftliga ändringar och tillägg till avtal vilka skriftligen är godkända av båda parter.
-2. Avtal (med tillhörande avtalsbilagor)
+1\. Skriftliga ändringar och tillägg till avtal vilka skriftligen är godkända av båda parter.
+2\. Avtal (med tillhörande avtalsbilagor)
 
-3. Upphandlingsdokument
+3\. Upphandlingsdokument
 
-4. Anbud
+4\. Anbud
 
 5.6 Lagar och förordningar
 
@@ -4820,7 +4820,7 @@ och dessa inte varit av oväsentlig betydelse vid valet av utförare.
 e Utföraren (VD:n eller annan med ledande ställning) enligt laga kraft vunnen dom dömts för
 ekonomiska brott eller belagts med näringsförbud.
 
-e Avtalet har varit föremål för en ändring som inte är tillåten enligt 17 kap. 9-14 $8 LOU.
+e Avtalet har varit föremål för en ändring som inte är tillåten enligt 17 kap. 9-14 \$8 LOU.
 
 Domstol eller myndighet fastställer att avtalet ingåtts i strid med upphandlingslagstiftningen.
 
@@ -5252,10 +5252,10 @@ behov kring mat och måltider i den individuella genomförandeplanen enligt sida
 och måltider på vård- och omsorgsboende" Kungsbacka kommun.
 
 Två av stickproven som togs vid revisionen saknade relevant information.
-- Enligt omvårdnadspersonalens uppgift (även noterat i matlista) åt inte kund skaldjur men
+\- Enligt omvårdnadspersonalens uppgift (även noterat i matlista) åt inte kund skaldjur men
 
 informationen saknades i GFP.
-- Information om vilket hjälpmedelsbehov en kund hade saknades i GFP.
+\- Information om vilket hjälpmedelsbehov en kund hade saknades i GFP.
 
 Kommentar:
 Omvårdnadspersonalen är medvetna om behoven och vid båda tillfällena fanns inget som tyder på
@@ -5279,9 +5279,9 @@ och ska användas
 
 Två av stickproven som togs vid revisionen saknade information kring bedömning, syfte och
 samtycke för säkerhetsåtgärder.
-- Information om behov av sänggrindar för en kund samt samtycke för detta saknades i GFP.
+\- Information om behov av sänggrindar för en kund samt samtycke för detta saknades i GFP.
 
-- Information om sänggrind fanns i en kunds GFP, dock inte dokumenterat kring bedömning/syfte för
+\- Information om sänggrind fanns i en kunds GFP, dock inte dokumenterat kring bedömning/syfte för
 detta samt samtycke.
 
 Kommentar: Personal är medvetna om dessa kunders behov och önskemål. Bristen rör
@@ -5432,7 +5432,7 @@ Besök Ekhaga och Vickan 240523 - besök på samtliga avdelningar
 
 Larmombud finns på samtliga avdelningar.
 Lokal rutin gällande larmhantering och egenkontroll av larm finns på både Vickan och Ekhaga
-- samtliga signeringslistor på båda enheterna ifyllda. Egenkontroll genomförs 1 gång/månad
+\- samtliga signeringslistor på båda enheterna ifyllda. Egenkontroll genomförs 1 gång/månad
 på Ekhaga enligt rutin samt 1 gång/vecka på Vickan, där man behållit fungerande rutin sedan
 tidigare trots att det är oftare än nödvändigt. På Vickan finns även extra trygghetslarm om
 något skulle gå sönder samt instruktion till personal hur dessa installeras.
@@ -5663,7 +5663,7 @@ möjligheter till loggning av larmärenden.
 
 Uppdragets    delområden
 
-1. Mat och måltider
+1\. Mat och måltider
 DELKRAV: Måltiden ska vara integrerad och trivsam
 
 Besök 240321
@@ -5827,7 +5827,7 @@ Maten ska:
 -Se aptitlig ut, dofta och smaka gott och ha variation i konsistens och smakbalans.
 -Vara näringsriktig utifrån gällande rekommendationer vilket innebär en liten energi- och
 proteinrik portion.
-- Vara vällagad och varierande och över dagen innehålla komponenter från hela kostcirkeln
+\- Vara vällagad och varierande och över dagen innehålla komponenter från hela kostcirkeln
 för att säkerställa variation av livsmedel, färg och konsistens. Ingen brist identifierad för
 dessa punkter.
 
@@ -6200,11 +6200,11 @@ dessa personer behöver en individuell bedömning göras för att på bästa sä
 boendes behov av trygghet, till exempel utökad tillsyn eller andra åtgärder. AVVIKELSE 2.
 
 Finns det fler larm samtidigt prioriteras dessa enligt följande:
-1. Hjärt- och lungproblem
+1\. Hjärt- och lungproblem
 
-2. Svår och besvärande smärta
-3. Fall
-4. Akuta toalettbesök
+2\. Svår och besvärande smärta
+3\. Fall
+4\. Akuta toalettbesök
 
 Ett larm där mottagaren inte svarar när verksamheten ringer upp bedöms som ett prioriterat
 larm. Verksamheten gör sedan en prioritering över aktuella larm som inkommit och åtgärdar
@@ -6256,10 +6256,10 @@ dessa personer behöver en individuell bedömning göras för att på bästa sä
 boendes behov av trygghet, till exempel utökad tillsyn eller andra åtgärder.
 
 Finns det fler larm samtidigt prioriteras dessa enligt följande:
-1. Hjärt- och lungproblem
-2. Svår och besvärande smärta
-3. Fall
-4. Akuta toalettbesök
+1\. Hjärt- och lungproblem
+2\. Svår och besvärande smärta
+3\. Fall
+4\. Akuta toalettbesök
 
 Ett larm där mottagaren inte svarar när verksamheten ringer upp bedöms som ett prioriterat
 larm. Verksamheten gör sedan en prioritering över aktuella larm som inkommit och åtgärdar
@@ -6364,9 +6364,9 @@ Stickprov Riktlinje för mat och måltider på vård- och omsorgsboende – utva
 under delkrav ”Måltiden ska vara integrerad och trivsam” samt ”Måltiden ska vara säker och
 hållbar”
 
-1. Stickprov avseende ifylld egenkontroll vad gäller punkterna under delkravet
+1\. Stickprov avseende ifylld egenkontroll vad gäller punkterna under delkravet
 
-- Trivsam miljö
+\- Trivsam miljö
 
 Årsrapport 2024                                          Qvalify AB
 
@@ -6387,8 +6387,8 @@ På samtliga avdelningar är det julpyntat med bland annat bordsduk, julgran och
 Nobelmiddag förbereds för morgondagen, där en 3-rätters middag kommer serveras. Ingen
 avvikelse noterad för denna punkt gällande ”trivsam miljö”.
 
-2. Stickprov avseende ifylld egenkontroll vad gäller följande del av kraven:
-- Kall mat ska förvaras vid max +4 grader och varm mat ska förvaras tillräckligt varmt, minst
+2\. Stickprov avseende ifylld egenkontroll vad gäller följande del av kraven:
+\- Kall mat ska förvaras vid max +4 grader och varm mat ska förvaras tillräckligt varmt, minst
 60% under hela varmhållningstiden.
 
 Utskriven egenkontroll på samtliga avdelningar där stickprov genomförs finns ifylld enligt
@@ -6413,12 +6413,12 @@ Oannonserat besök 2024-12-12, Vardaga Ekhaga + Vickan
 
 Stickprov Riktlinje för mat och måltider på vård- och omsorgsboende – utvalda punkter
 under delkrav ”Måltiden ska vara säker och hållbar”
-1. Stickprov avseende: Omsorgspersonalen ska ha kunskap om livsmedelssäkerhet och
+1\. Stickprov avseende: Omsorgspersonalen ska ha kunskap om livsmedelssäkerhet och
 rutiner för att hantera risker samt följa basala hygienrutiner. Vid stickprov kan
 omsorgspersonal uppvisa att de genomgått utbildning i basala hygienrutiner nyligen. Inga
 avvikelser noterade för denna punkt gällande personalens kunskap. ¨
 
-2. Stickprov avseende: Egenkontrollprogram ska finnas på varje enhet, se Lokal rutin
+2\. Stickprov avseende: Egenkontrollprogram ska finnas på varje enhet, se Lokal rutin
 livsmedelshantering Under dessa stickprov besöktes 2 avdelningar på Vickan och 3 på
 
 Ekhaga. På 4 av 5 besökta avdelningar är livsmedel i kyl och skafferi märkta med antingen
@@ -6501,23 +6501,23 @@ rekommendation.
 Besök Ekhaga och Vickan 240523
 
 Ekhaga
-- En del information dokumenteras på olika ställen i kunds genomförandeplan, beroende på
+\- En del information dokumenteras på olika ställen i kunds genomförandeplan, beroende på
 avdelning. En förenkling för personal är att samstämma om var information ska stå så det är
 enkelt och snabbt för samtlig personal att hitta nödvändig information, t ex vad gäller
 skyddsåtgärder, måltidsstöd o dyl. Vid revisionen har några i personalen svårt att finna
 nödvändig information och vet inte var de ska leta i den boendes dokumentation.
 
-- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
+\- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
 livsmedel på avdelningarna överensstämmer med direktiv från Ambea och Kungsbacka
 kommun.
 
 Vickan
-- Skäret
+\- Skäret
 
 Se över och stärka rutin för dokumentation av signering och avvikelse/åtgärder gällande
 varmhållning/kyla av mat/livsmedel - se avvikelse.
 
-- Fyren
+\- Fyren
 Se över och stärka rutin för egenkontroll av temperaturmätning varmhållning/kyla av
 livsmedel - se avvikelse. Personal och ledning ser möjliga orsaker till varför så skett, där
 verksamheten haft utmaningar med högre omsättning av nyinflyttade boende, där man fått
@@ -6525,7 +6525,7 @@ verksamheten haft utmaningar med högre omsättning av nyinflyttade boende, där
 möjligt. Ni bör dock se över om det går att finna andra sätt att fullfölja rutinen för detta tills
 ursprunglig rutin kan användas igen.
 
-- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
+\- Se över så att lokala rutiner och signeringslistor gällande varmhållning/kyla av mat och
 livsmedel på avdelningarna överensstämmer med direktiv från Ambea och Kungsbacka
 
 kommun.
@@ -6739,12 +6739,12 @@ Ingen brist identifierad.
 Besök Vickan och Ekhaga 240321
 
 Vid kommande revision
-- Se kompetensbevis på personal i tillagningsköket.
-- Granska senaste årets tillsynsprotokoll från miljö- och hälsa.
-- Hur ni säkerställer att alternativrätten innehåller rätt näringsvärden (om den inte kommer
+\- Se kompetensbevis på personal i tillagningsköket.
+\- Granska senaste årets tillsynsprotokoll från miljö- och hälsa.
+\- Hur ni säkerställer att alternativrätten innehåller rätt näringsvärden (om den inte kommer
 
 från "Mat som hemma").
-- Säkerställa att frekvensen på temperaturmätning följer riktlinjer.
+\- Säkerställa att frekvensen på temperaturmätning följer riktlinjer.
 
 Besök Ekhaga 240425
 
@@ -6756,13 +6756,13 @@ Vardaga        Kungsbacka               2024-12-29       Sida 31(33)
 <!-- sida 133 -->
 
 Vid kommande revision:
-- Se siffror för uppmätt matsvinn; under senaste mätning 2024 samt jämföra med tillfället
+\- Se siffror för uppmätt matsvinn; under senaste mätning 2024 samt jämföra med tillfället
 
 innan dess.
-- Säkerställa att temperatur i kylar följer riktlinjer.
-- Säkerställa att genomförandeplaner innehåller dokumentation gällande säkerhetsåtgärder
+\- Säkerställa att temperatur i kylar följer riktlinjer.
+\- Säkerställa att genomförandeplaner innehåller dokumentation gällande säkerhetsåtgärder
 samt samtycke från kund angående dessa.
-- Se över resultat genomförda måltidsobservationer
+\- Se över resultat genomförda måltidsobservationer
 
 Besök Ekhaga och Vickan 240523
 
@@ -6774,21 +6774,21 @@ ut p g a bristande funktion, fastighetsägaren har ännu inte agerat på felanm�
 
 Vid kommande revision:
 
-- Uppföljning av kyla av livsmedel: genomförd egenkontroll samt att uppdaterad rutin finns
+\- Uppföljning av kyla av livsmedel: genomförd egenkontroll samt att uppdaterad rutin finns
 ute på avdelningarna.
-- Säkerställa kompetens för enhetens personal gällande mat och måltider - genomgången
+\- Säkerställa kompetens för enhetens personal gällande mat och måltider - genomgången
 utbildning livsmedelshygien/livsmedelshantering.
-- Besök på avdelningarna
+\- Besök på avdelningarna
 
 Besök Ekhaga 240620
 
 Vid kommande revision:
 
-- Riktlinje för specialkost, konsistensanpassning och andra anpassningar av maten (Ekhaga +
+\- Riktlinje för specialkost, konsistensanpassning och andra anpassningar av maten (Ekhaga +
 Vickan)
-- Livsmedelshygieniska rutiner samt egenkontrollsrutiner i tillagningskök (Ekhaga)
-- Uppföljning av nyinförd städrutin på Ekhaga
-- Utbildning livsmedelshygien personal (Vickan)
+\- Livsmedelshygieniska rutiner samt egenkontrollsrutiner i tillagningskök (Ekhaga)
+\- Uppföljning av nyinförd städrutin på Ekhaga
+\- Utbildning livsmedelshygien personal (Vickan)
 
 Notering
 
@@ -6853,7 +6853,7 @@ rebecca.granatMkungsbacka.se 0760-30 01 23 (mob)
 
 ida.vallinQambea.se
 
-1. Objektsbeskrivning
+1\. Objektsbeskrivning
 
 1.1 Objektbeskrivning Ekhaga vård- och omsorgsboende
 
@@ -7018,7 +7018,7 @@ Sida 4/31
 
 Driftentreprenad Ekhaga vård- och omsorgsboende 19/119:2
 
-2. Kvalificeringskrav på leverantör
+2\. Kvalificeringskrav på leverantör
 
 2.1 Teknisk och yrkesmässig kapacitet (kompetens driftansvarig)
 
@@ -7089,7 +7089,7 @@ e Samlad dokumentation av avvikelser i systemet och rutin för hanteringen av av
 
 4
 
-1) Med miljöaspekt menas orsaken till miljöpåverkan som uppstår på grund av en aktivitet i företaget
+1\) Med miljöaspekt menas orsaken till miljöpåverkan som uppstår på grund av en aktivitet i företaget
 eller organisationen. Med betydande miljöaspekt menas en miljöaspekt som påverkar miljön i högre
 grad än vad andra miljöaspekter inom företaget eller organisationen gör.
 
@@ -7099,7 +7099,7 @@ Sida 6/31 ( (/
 
 Driftentreprenad Ekhaga värd- och omsorgsboende 19/119:2
 
-3. Obligatoriska krav på tjänsten
+3\. Obligatoriska krav på tjänsten
 
 3.1 Åtagande
 
@@ -7251,7 +7251,7 @@ värme och VA (kall- och varmvatten).
 
 abonnemang avseende hushållsavfall.
 
-2) se även punkt 3.22 IT-infrastruktur, teknisk utrusning, system och digitala verktyg.
+2\) se även punkt 3.22 IT-infrastruktur, teknisk utrusning, system och digitala verktyg.
 
 3.5 Inventarier och utrustning
 
@@ -7478,7 +7478,7 @@ säkerställa att avfallet tas om hand av mottagare som innehar de tillstånd so
 Elektricitet från förnybara energikällor
 Utföraren ska använda elektricitet från förnybara energikällor?på boendet.
 
-3) Enligt Direktivet 2001/77/EG artikel 2a är förnybara energikällor: vindkraft, solenergi, jordvärme, våg
+3\) Enligt Direktivet 2001/77/EG artikel 2a är förnybara energikällor: vindkraft, solenergi, jordvärme, våg
 och tidvattenenergi, vattenkraft, biomassa, deponigas, gas från avloppsreningsanläggningar och
 biogas, där biomassa definieras (artikel 2c): den biologiskt nedbrytbara fraktionen av produkter, avfall
 och rester från jordbruk (både vegetabiliska och animaliska ämnen), skogsbruk och närstående
@@ -7899,7 +7899,7 @@ Sida 21/31
 
 Driftentreprenad Ekhaga vård- och omsorgsboende 19/119:
 
-5. Kommersiella villkor
+5\. Kommersiella villkor
 
 5.1 Parter
 
@@ -7928,10 +7928,10 @@ Avtalshandlingarna kompletterar varandra. Om avtalshandlingarna skulle visa sig 
 något avseende gäller de, om inte omständigheter uppenbarligen föranleder annat, sinsemellan i
 följande ordning:
 
-1. Skriftliga ändringar och tillägg till avtal vilka skriftligen är godkända av båda parter.
-2. Avtal (med tillhörande avtalsbilagor)
+1\. Skriftliga ändringar och tillägg till avtal vilka skriftligen är godkända av båda parter.
+2\. Avtal (med tillhörande avtalsbilagor)
 
-3. Upphandlingsdokument
+3\. Upphandlingsdokument
 
 4, Anbud
 
@@ -8703,7 +8703,7 @@ Beslutsunderlag
 
 Underlag till beslutet är
 
--  Förfrågningsunderlag
+\-  Förfrågningsunderlag
 
 1 (2)
 Kungsbacka kommun
@@ -8718,9 +8718,9 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
--  Ansökan med bilagor, i enlighet med förfrågningsunderlaget
+\-  Ansökan med bilagor, i enlighet med förfrågningsunderlaget
 
--  Förhandlingsprotokoll enligt MBL § 38
+\-  Förhandlingsprotokoll enligt MBL § 38
 
 Beslutet skickas till
 
@@ -8779,7 +8779,7 @@ Nämnden för Vård & Omsorg noterar informationen till protokollet.
 Sammanfattning av ärendet
 Nämnden önskar att förvaltningen regelbundet rapporterar om arbetet med semesterbemanningen för
 
-2025.
+2025\.
 Efter utvärderingen av sommaren 2024 har utvecklingsförslag beslutats om efter presentation i
 Förvaltningsledning och dialog i samverkan (FSG). Därefter har utvecklingsområdena förmedlats till
 verksamheterna i distrikten.

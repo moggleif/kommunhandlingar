@@ -199,15 +199,15 @@ Förvaltningen har kartlagt behovet av investeringar och reinvesteringar för at
 målen inom VA-verksamheten och har tagit fram förslag på prioriterade projekt som
 ska få budgetmedel för 2025. Projekten är indelade i sex underportföljer:
 
-1. VA-teknik
-2. Vattenproduktion
+1\. VA-teknik
+2\. Vattenproduktion
 
-3. VA-ledningsnät
-4. Avloppsrening
+3\. VA-ledningsnät
+4\. Avloppsrening
 
-5. VA-omvandling
+5\. VA-omvandling
 
-6. Exploatering
+6\. Exploatering
 Förvaltningens prioritering är att ge förtur till pågående projekt med bundna
 kontrakt, eftersom det är både kostsamt och komplicerat att avbryta dessa jämfört
 med att senarelägga projekt som ännu inte har startat. Därför föreslår förvaltningen

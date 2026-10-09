@@ -215,9 +215,9 @@ Sammanfattning av ärendet
 Katarina Öryd, förvaltningschef, ger byggnadsnämnden en återrapportering från
 presidieavstämningen den 3 december 2024. Inledningsvis informeras nämnden om
 tidsplanen och anvisningarna för framtagande av kommunbudget 2026, plan 2027-
-2028. Nämnden för Miljö & Hälsoskydd ska ges möjlighet att yttra sig inför att
+2028\. Nämnden för Miljö & Hälsoskydd ska ges möjlighet att yttra sig inför att
 byggnadsnämnden den 16 januari 2025 tar beslut om underlag till kommunbudget
-2026. Nämnden för Miljö & Hälsoskydds ordförande kommer att fatta ett
+2026\. Nämnden för Miljö & Hälsoskydds ordförande kommer att fatta ett
 
 ordförandebeslut om att nämnden antar ett yttrande. Efter att byggnadsnämnden tagit
 beslut i ärendet sker en återrapportering i nämnden för Miljö & Hälsoskydd.
@@ -356,7 +356,7 @@ Sammanfattning av ärendet
 Byggnadsnämnden gav den 1 juni 2017 samhällsbyggnadskontoret i uppdrag att
 upprätta ändring av detaljplan K35 för bostäder inom Berguven m.fl.
 Planförslaget har varit utställt för granskning under tiden 1 oktober till 25 oktober
-2024. Under granskningstiden inkom fyra skrivelser. Ingen motsätter sig
+2024\. Under granskningstiden inkom fyra skrivelser. Ingen motsätter sig
 planförslaget och någon ändring av detaljplanen föreslås därför inte.
 
 Syftet med detaljplaneändringen är att anpassa byggrätten till hur fastigheterna,
@@ -416,7 +416,7 @@ Kullavik. Planområdes har sedan uppdragsbeslutet utökats till att även omfatt
 Bångsbo 1:34.
 Planförslaget har varit utställt för granskning under tiden 22 oktober – 5 november
 
-2024. Under granskningstiden inkom 7 skrivelser. Inkomna synpunkter berör i
+2024\. Under granskningstiden inkom 7 skrivelser. Inkomna synpunkter berör i
 huvudsak omfattning och reglering av planområdet. Se vidare i
 granskningsutlåtandet.
 Fastighetsägarna till Kyvik 5:400 samt Kyvik 5:120 har lämnat synpunkter som inte
@@ -502,7 +502,7 @@ Sammanfattning av ärendet
 Byggnadsnämnden gav den 16 maj 2024 Samhällsbyggnadskontoret i uppdrag att
 upprätta ändring av del av detaljplan S24 för bostäder inom Malevik 1:41.
 Planförslaget har varit utställt för granskning under tiden 1 oktober – 25 oktober
-2024. Under granskningstiden inkom fyra skrivelser. Ingen motsätter sig
+2024\. Under granskningstiden inkom fyra skrivelser. Ingen motsätter sig
 planförslaget och någon ändring av detaljplanen föreslås därför inte.
 
 Fastighetsägaren till Malevik 1:41 ansökte den 8 maj 2023 om planbesked för att

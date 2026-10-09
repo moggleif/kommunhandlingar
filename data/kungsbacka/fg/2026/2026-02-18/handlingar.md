@@ -481,7 +481,7 @@ ombyggnationer. Befolkningsprognosen visar en minskning av elevunderlaget i hela
 
 Kommunens inriktning: Utifrån minskat elevunderlag och inlämnade lokalbehov (–260 platser år
 
-2030) är kommunens preliminära inriktning att minska antalet grundskolor från fyra till tre.
+2030\) är kommunens preliminära inriktning att minska antalet grundskolor från fyra till tre.
 Förändringar i upptagningsområden kommer att krävas. Kommunen är öppen för olika förslag till
 långsiktig organisering.
 
@@ -732,7 +732,7 @@ och nära vård området. Inuläget finns två initiativ som bedrivs under denna
 skolans verksamhet.
 
 Under 2025 har ett nytt initiativ kommit från verksamheten som har godkänts i slutet av
-2025. Initiativet har framkommit genom att skolsköterskor och skolläkare har sett en
+2025\. Initiativet har framkommit genom att skolsköterskor och skolläkare har sett en
 tydlig ökning av problematik inom ätstörningsområdet, vilket bland annat innefattar
 selektivt ätande, ätstörningar samt obesitas. Ett behov av specialistkompetens iform av
 
@@ -962,7 +962,7 @@ god kännedom om vårdprogram och hantering av denna problematik. I uppdraget
 kommer det ligga att skapa tydlighet i vårdprocesser, vårdkedja samt samverkan och
 tydlig ansvarsfördelning med övriga verksamheter.
 
-2. Var står vi och hur kommer    vi framåt?
+2\. Var står vi och hur kommer    vi framåt?
 
 Initiativet ” En väg åter” kommer under 2026 startas med en planering och
 
@@ -1744,10 +1744,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -1851,11 +1851,11 @@ Nämndens årsredovisning 2025
 
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -1901,7 +1901,7 @@ Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 88 %   85 %      85 %      87 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -1911,12 +1911,12 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 72 %   79 %      73 %      75%
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 93 %   92 %      89 %      89 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 
 3.2.1 Utbildningen ska stimulera till ökad trygghet, glädje och fysisk aktivitet
@@ -1932,9 +1932,9 @@ Alla våra skolor ska erbjuda organiserade rastaktiviteter.
 Mobiltelefoner, smartklockor och motsvarande enheter ska inte vara tillåtna på våra skolor, varken på
 lektionstid eller under rast.
 Fokusområde
-- Trygghet och studiero
-- Fysisk aktivitet
-- Social interaktion
+\- Trygghet och studiero
+\- Fysisk aktivitet
+\- Social interaktion
 
 Nämndens bedömning
 Vi har inte nått målet men är på rätt väg
@@ -2015,8 +2015,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 
@@ -2043,8 +2043,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -2113,9 +2113,9 @@ barn i behov av särskilt stöd, genom till exempel mindre undervisningsgrupper.
 Våra lärare ska bli bättre rustade i att undervisa elever med neuropsykiatriska funktionsnedsättningar (NPF).
 
 Fokusområde
-- Lärmiljö anpassad efter elevens behov
-- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med NPF
-- Stärka arbetet för särskilt begåvade elever i samarbete med gymnasieskolorna
+\- Lärmiljö anpassad efter elevens behov
+\- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med NPF
+\- Stärka arbetet för särskilt begåvade elever i samarbete med gymnasieskolorna
 
 15
 
@@ -2195,11 +2195,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -2336,7 +2336,7 @@ initiativ som har pågått under året har utgått från behov/idéer i verksamh
 
 Förskola & Grundskola har 10 projekt som bygger på externa samarbeten där RISE är den vanligaste
 samarbetspartner men även högskolor, universitet, andra kommuner och regioner. Ett exempel är AI-
-pluggkompis som drivs i samarbete med Gymnasium & Arbetsmarknad, RISE, Nationalencyklopedin * och
+pluggkompis som drivs i samarbete med Gymnasium & Arbetsmarknad, RISE, Nationalencyklopedin \* och
 Sambruk.
 5 innovationsinitiativ är i den så kallade spridafasen. Spridningen sker på olika sätt, dels genom dialog på
 möten, utbildningsinsatser, information på Insidan, studiebesök och genom att starta piloter på fler skolor. Det
@@ -2512,8 +2512,8 @@ arbetsmarknaden i både offentlig och privat sektor.
 
 Vi ska stärka elevernas kompetens och ge dem goda möjligheter att fatta självständiga val för sin framtid.
 Fokusområde
-- Stärkt framtidstro
-- Undervisning kopplad till konkreta arbetsuppgifter
+\- Stärkt framtidstro
+\- Undervisning kopplad till konkreta arbetsuppgifter
 
 22
 
@@ -2569,9 +2569,9 @@ Tillsammans med berörda samhällsaktörer ska det narkotikaförebyggande arbete
 användning av narkotikahundar på våra skolor.
 
 Fokusområde
-- Utökat arbete mot narkotika och normbrytande beteende.
-- Tidiga insatser mot skolfrånvaro
-- Ökat samarbete med vårdnadshavare
+\- Utökat arbete mot narkotika och normbrytande beteende.
+\- Tidiga insatser mot skolfrånvaro
+\- Ökat samarbete med vårdnadshavare
 
 23
 
@@ -2609,9 +2609,9 @@ Samtidigt behöver den kollektiva likvärdigheten stärkas i vår organisation. 
 till exempel grovt språk eller begynnande kränkningar ska vara konsekvent och likvärdigt i våra skolor.
 
 Fokusområde
-- Starkare lärarroll
-- Enhetliga normer och arbetssätt
-- Utbildning och kollegialt arbete
+\- Starkare lärarroll
+\- Enhetliga normer och arbetssätt
+\- Utbildning och kollegialt arbete
 Kommentar
 Förvaltningen arbetar för att stärka lärarrollen genom aktiviteter inom olika områden som tillsammans bidrar till
 att rusta rektorer och medarbetare i det förebyggande arbetet, utforma metodstöd för likvärdighet i rutiner och
@@ -2981,7 +2981,7 @@ fritidshemmet och 4,9 % i skolan. Till största del är det en minskning av den 
 dagar) bland elevassistenter/skolassistenter. Sjukfrånvaron bland lärare har minskat inom samtliga årskurser.
 Lärare som arbetar i årskurserna F-3 har den högsta sjukfrånvaron med 4,5 % och lärare i årskurserna 4–6 har
 lägst med 2,9 %. Sjukfrånvaron bland legitimerade lärare i fritidshemmet har varit 6 % vilket är den lägsta sedan
-2020.
+2020\.
 Sett till ålder så är skillnaderna i sjukfrånvaro mellan åldersgrupper den lägsta på flera år vilket till största del
 beror på att sjukfrånvaron har minskat bland medarbetare 50 år och äldre med 1,7 procentenheter till 6 %. Också
 medarbetare 29 år och yngre har minskat med 0,8 procentenheter till 5 % jämfört med föregående år.
@@ -4275,10 +4275,10 @@ Granskningen har genomförts genom ett stickprov per skola/rektor med spridning 
 åtgärder är tydligt framskrivna.
 
 Resultatet pekar på att
-- Elevers behov beskrivs inte fullt ut tydligt i majoriteten av de granskade ärendena
+\- Elevers behov beskrivs inte fullt ut tydligt i majoriteten av de granskade ärendena
 
-- Åtgärder är inte tillräckligt tydligt framskrivna alternativt kopplade till behov i tillräcklig grad. i alla ärenden
-- För många ärenden bedöms det dock att kriterierna är delvis är uppfyllda.
+\- Åtgärder är inte tillräckligt tydligt framskrivna alternativt kopplade till behov i tillräcklig grad. i alla ärenden
+\- För många ärenden bedöms det dock att kriterierna är delvis är uppfyllda.
 
 Granskningen av dokumentationen omfattar inte kartläggningsunderlag och det faktiska arbetet men pekar på att
 det finns utvecklingsbehov inom området.
@@ -4558,7 +4558,7 @@ Diarienummer
 2025–00743
 
 Svar på motion - Mera grön och blå mat i Kungsbacka kommun (KS-2025-
-00809)
+00809\)
 
 Förslag till beslut i nämnden för Förskola och Grundskola
 
@@ -5205,7 +5205,7 @@ Söder och Norr, SI 2025:5867, 5869
 Kungsbacka kommun ska vidta följande åtgärder
 
 Kränkande behandling
-1. Se till att all skolans personal, senast den 20 februari 2026, informeras om
+1\. Se till att all skolans personal, senast den 20 februari 2026, informeras om
 
 att var och en som verkar inom utbildningen aktivt ska motverka alla
 former av kränkande behandling samt om att en anmälan till rektor ska
@@ -5217,7 +5217,7 @@ med en redogörelse för när och på vilket sätt informationen förmedlats (1
 
 kap. 5 § andra stycket, 2 kap. 34 a §, 5 kap. 6 § och 6 kap. 10 § skollagen).
 
-2. Se till att alla lärare och annan personal som får kännedom om att en elev
+2\. Se till att alla lärare och annan personal som får kännedom om att en elev
 anser sig ha blivit utsatt för kränkande behandling i samband med
 
 verksamheten anmäler detta till rektorn. Detta innebär även att all
@@ -5261,7 +5261,7 @@ Dnr SI 2025:5867, 2025:5869
 Tillsyn av grundskolorna Smedingeskolan Söder samt Smedingeskolan Norr i
 Kungsbacka kommun.
 
-___________________
+\___________________
 
 Beslut
 
@@ -5283,7 +5283,7 @@ skollagen. Beslutet om föreläggande får enligt 28 kap. 2 och 18 §§ skollage
 Kungsbacka kommun ska vidta följande åtgärder
 
 Frånvaro
-1. Se till att rektorn för varje elev med upprepad eller längre frånvaro
+1\. Se till att rektorn för varje elev med upprepad eller längre frånvaro
 skyndsamt startar en utredning om orsakerna till frånvaron, om det inte
 är obehövligt. Utredningen ska genomföras oavsett om frånvaron är giltig
 eller ogiltig samt i samråd med eleven, elevens vårdnadshavare och
@@ -5311,7 +5311,7 @@ Dnr SI 2025:5867, 2025:5869
 
 Kränkande behandling
 
-1. Se till att all skolans personal, senast den 20 februari 2026, informeras om
+1\. Se till att all skolans personal, senast den 20 februari 2026, informeras om
 att var och en som verkar inom utbildningen aktivt ska motverka alla
 former av kränkande behandling samt om att en anmälan till rektor ska
 göras varje gång en elev anser sig ha blivit utsatt för kränkande
@@ -5319,7 +5319,7 @@ behandling i samband med verksamheten. Huvudmannen ska inkomma
 med en redogörelse för när och på vilket sätt informationen förmedlats (1
 kap. 5 § andra stycket, 2 kap. 34 a §, 5 kap. 6 § och 6 kap. 10 § skollagen).
 
-2. Se till att alla lärare och annan personal som får kännedom om att en elev
+2\. Se till att alla lärare och annan personal som får kännedom om att en elev
 anser sig ha blivit utsatt för kränkande behandling i samband med
 verksamheten anmäler detta till rektorn. Detta innebär även att all
 personal ska motverka kränkande behandling av elever genom att agera
@@ -5914,7 +5914,7 @@ av offentlig plats m.m.
 
 Avgiften får tas ut enligt de grunder som har beslutats av kommunfullmäktige.
 
-_____
+\_____
 
 Kungsbacka kommun föreskriver följande med stöd av förordningen (1993:1632) med bemyndigande för
 
@@ -5968,7 +5968,7 @@ Bilaga 3 – Förteckning över platser som jämställs med offentlig plats enli
 Bilaga 4 – Information om annan lagstiftning
 Bilaga 5 – Områden där passiv insamling av pengar inte får ske enligt 14 b §.
 
-____
+\____
 
 Lokala ordning sföreskrifter   Sida 2 av 7
 
@@ -5999,12 +5999,12 @@ Områden som jämställs med offentlig plats
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och dessa föreskrifter
 tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
-3. Parkområde i anslutning till kulturhuset Fyren
-4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och punkt 2
-5. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
-6. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
+1\. Begravningsplats
+2\. Kyrkogård
+3\. Parkområde i anslutning till kulturhuset Fyren
+4\. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och punkt 2
+5\. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
+6\. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet som hör till en förskola eller skolas verksamhet,
 jämställs med offentlig plats endast utanför verksamhetstid och vid tillämpning av 21 § punkt 1 i dessa
@@ -6185,15 +6185,15 @@ Vistelseförbud för hund
 21 §
 
 Hund får inte vistas på
-1.
+1\.
 a. Allmän lekplats
 b. Allmän anläggning för lek och aktivitet
 c. Annan anläggning för lek och aktivitet som enligt 3 § i dessa föreskrifter jämställs med offentlig
 plats
 
-2.   Tingbergsvallen i Kungsbacka
+2\.   Tingbergsvallen i Kungsbacka
 
-3.   Badbrygga och badflotte på badplats som enligt 3 § i dessa föreskrifter jämställs med offentlig plats
+3\.   Badbrygga och badflotte på badplats som enligt 3 § i dessa föreskrifter jämställs med offentlig plats
 Vistelseförbudet gäller inte lek- eller aktivitetsyta avsedd för hund såsom hundrastgård eller agilitybana.
 
 Överträdelse av lokal ordningsföreskrift
@@ -6372,7 +6372,7 @@ Smarholmen
 
 Gottskär Utholmen
 
-_____
+\_____
 
 2 (2)
 
@@ -6432,7 +6432,7 @@ Bestämmelser finns i Transportstyrelsens föreskrift TSFS 2013:77.
 
 Se www.transportstyrelsen.se
 
-_____
+\_____
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se 2 (2)
 
@@ -6474,7 +6474,7 @@ Länsstyrelsens beslut 2020-03-02, dnr 213-1348-2020
 
 SAKEN
 Tillämpning av ordningslagen
-___________________
+\___________________
 
 FÖRVALTNINGSRÄTTENS  AVGÖRANDE
 
@@ -6484,7 +6484,7 @@ Förvaltningsrätten upphäver Länsstyrelsen i Hallands läns beslut beträffan
 fastställer kommunens beslut i denna del. Till följd därav utgår inte heller
 hänvisningen till 15 § i 22 § av ordningsföreskrifterna.
 
-___________________
+\___________________
 
 Dok.Id 115489
 Postadress     Besöksadress  Telefon      Telefax       Expeditionstid
@@ -6781,11 +6781,11 @@ Bilaga 2
 
 Hur man  överklagar
 FR-03
-________________________________________________________________
+\________________________________________________________________
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3. Tala om vilka bevis du vill hänvisa till.
+3\. Tala om vilka bevis du vill hänvisa till.
 Förklara vad du vill visa med varje bevis.
 Överklaga skriftligt inom 3 veckor
 Skicka med skriftliga bevis som inte redan
@@ -6863,7 +6863,7 @@ T
 handlingar i målet vidare till kammarrätten.
 P
 v
--
+\-
 3
 d ite  Så här gör du                      Har du tidigare fått brev genom förenklad
 d n                                       delgivning kan även kammarrätten skicka brev
@@ -6959,7 +6959,7 @@ T
 •
 P
 v
--
+\-
 3
 d
 ite
@@ -7103,13 +7103,13 @@ LÄNSSTYRELSEN                   BESLUT                 3 (7)
 
 2020-03-02     213-1348-2020
 
-1. allmänna vägar,
-2. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän
+1\. allmänna vägar,
+2\. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän
 plats och som har upplåtits för sitt ändamål,
-3. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om
+3\. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om
 
 de har upplåtits för detta ändamål och är tillgängliga för allmänheten, samt
-4. andra landområden och utrymmen inomhus som stadigvarande används för all-
+4\. andra landområden och utrymmen inomhus som stadigvarande används för all-
 män trafik.
 – Av andra stycket framgår att regeringen eller, efter regeringens bemyndigande, en
 kommun får föreskriva att anläggningar för lek, idrott, camping eller friluftsliv, bad-
@@ -7361,8 +7361,8 @@ Robert Bärwald
 Detta beslut har godkänts digitalt och saknar därför namnunderskrifter.
 
 Bilaga
-1. Förslag till ändringsföreskrifter 2019-12-11 – Lokala ordningsföreskrifter
-2. Bilaga 5, 2020-01-21
+1\. Förslag till ändringsföreskrifter 2019-12-11 – Lokala ordningsföreskrifter
+2\. Bilaga 5, 2020-01-21
 
 Kopia
 Polismyndigheten, Lokalpolisområde Kungsbacka, registrator.vast@polisen.se
@@ -7409,52 +7409,52 @@ Kungsbacka kommun » 0300-83 40 00 » infoQQkungsbacka.se » kungsbacka.se
 
 Innehåll
 
-1-2 $$ Föreskrifternas innehåll och tillämpningsområde
-3 $ Områden som jämställs med offentlig plats
+1-2 \$\$ Föreskrifternas innehåll och tillämpningsområde
+3 \$ Områden som jämställs med offentlig plats
 
-4 $ Kommunens yttrande
+4 \$ Kommunens yttrande
 
-5 $ Lasta varor m.m.
+5 \$ Lasta varor m.m.
 
-6 $ Schakta, tippa och utföra annat liknande arbete
+6 \$ Schakta, tippa och utföra annat liknande arbete
 
 7 8 Markiser, flaggor, skyltar
 
 8 & Träd, buskar, häckar och andra hinder
 
-9 $ Containrar och andra anordningar
+9 \$ Containrar och andra anordningar
 
-10 $ Affischer, flyttbara skyltar, anslag och marschaller
-11 $ Störande buller
+10 \$ Affischer, flyttbara skyltar, anslag och marschaller
+11 \$ Störande buller
 
-12 $ Högtalarutsändning
+12 \$ Högtalarutsändning
 
-13 $ Fyrverkerier och andra pyrotekniska varor
+13 \$ Fyrverkerier och andra pyrotekniska varor
 
-14 $ Insamling av pengar och gatumusik
+14 \$ Insamling av pengar och gatumusik
 
-15 $ Förbud mot förtäring av alkohol
+15 \$ Förbud mot förtäring av alkohol
 
 16 8 Förbud mot tillfällig försäljning
 
 17 8 Förbud mot camping
 
-18 $ Hund
+18 \$ Hund
 
-19 $ Skyldighet att hålla hund kopplad
+19 \$ Skyldighet att hålla hund kopplad
 
-20 $ Skyldighet att plocka upp föroreningar efter hund
-21 $ Vistelseförbud för hund
+20 \$ Skyldighet att plocka upp föroreningar efter hund
+21 \$ Vistelseförbud för hund
 
-22 $ Överträdelse av lokal ordningsföreskrift
+22 \$ Överträdelse av lokal ordningsföreskrift
 
-Bilaga 1 — Karta till 13 $
+Bilaga 1 — Karta till 13 \$
 
 Bilaga 2 — Karta över område med förbud mot tillfällig (ambulerande) försäljning samt förbud mot
 
 alkoholförtäring
 
-Bilaga 3 — Förteckning över platser som jämställs med offentlig plats enligt 3 $ i dessa föreskrifter
+Bilaga 3 — Förteckning över platser som jämställs med offentlig plats enligt 3 \$ i dessa föreskrifter
 
 Bilaga 4 — Information om annan lagstiftning
 
@@ -7472,12 +7472,12 @@ Grundläggande bestämmelser om allmän ordning och säkerhet på offentlig plat
 (1993:1617). Dessa lokala ordningsföreskrifter innehåller ytterligare bestämmelser om hur den allmänna
 ordningen i Kungsbacka kommun ska upprätthållas.
 
-Bestämmelserna i 13 $ har till syfte att hindra att människors hälsa eller egendom skadas till följd av
+Bestämmelserna i 13 \$ har till syfte att hindra att människors hälsa eller egendom skadas till följd av
 användning av pyrotekniska varor.
 
 28
 
-Föreskrifterna är tillämpliga på alla platser inom kommunen som är offentlig plats enligt 1 kap. 2 $ första
+Föreskrifterna är tillämpliga på alla platser inom kommunen som är offentlig plats enligt 1 kap. 2 \$ första
 stycket punkterna 1- 4 i ordningslagen, om inget annat anges.
 
 För område som kommunen har upplåtit till torghandel gäller också kommunens lokala föreskrifter om
@@ -7490,33 +7490,33 @@ Områden som jämställs med offentlig plats
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och dessa föreskrifter
 tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
-3. Parkområde i anslutning till kulturhuset Fyren
+1\. Begravningsplats
+2\. Kyrkogård
+3\. Parkområde i anslutning till kulturhuset Fyren
 
 4 elkn NO a nlan ot område e ot h SS
 
-3.4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av +9-20-3$ 21 $ punkt I c och
+3.4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av +9-20-3\$ 21 \$ punkt I c och
 punkt 2
 
 So Idr I liot bilaga 3 vid tillämpni 19-20-88
 
-7.5. Motionsspår enligt bilaga 3 tillämpning av 19-20 $$
+7.5. Motionsspår enligt bilaga 3 tillämpning av 19-20 \$\$
 
-8.6. Badplats enligt bilaga 3 vid tillämpning av 49-20 $ och 21 8 punkt 3
+8.6. Badplats enligt bilaga 3 vid tillämpning av 49-20 \$ och 21 8 punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet enligt första-stycketpunkt4-5-eeh som hör till en
 
 förskola eller skolas verksamhet, jämställs med offentlig plats endast utanför verksamhetstid och vid
-tillämpning av +9-20-3$ 21 $ punkt I i dessa föreskrifter.
+tillämpning av +9-20-3\$ 21 \$ punkt I i dessa föreskrifter.
 
 Kommunens yttrande
 
 48
 
-Innan polismyndigheten fattar beslut om tillstånd för att ställa upp container m.m. (9 $) sätta upp affischer
-m.m. (10 $), för störande buller (11 $), att använda högtalare (12 $) eller för att använda pyrotekniska varor
-(13 $) bör kommunen ges tillfälle att yttra sig.
+Innan polismyndigheten fattar beslut om tillstånd för att ställa upp container m.m. (9 \$) sätta upp affischer
+m.m. (10 \$), för störande buller (11 \$), att använda högtalare (12 \$) eller för att använda pyrotekniska varor
+(13 \$) bör kommunen ges tillfälle att yttra sig.
 
 Kungsbacka kommun Lokala ordningsföreskrifter Sida 3 av 7
 
@@ -7641,7 +7641,7 @@ Förbud mot tillfällig försäljning
 
 Tillfällig försäljning är förbjudet inom markerat område som framgår av bilaga 2. Med tillfällig
 försäljning avses sådan gatuförsäljning samt demonstration av varor som tar offentlig plats i
-anspråk endast tillfälligt och i obetydlig omfattning och därför inte kräver tillstånd enligt 3 kap. 1 $
+anspråk endast tillfälligt och i obetydlig omfattning och därför inte kräver tillstånd enligt 3 kap. 1 \$
 ordningslagen.
 
 Tillstånd krävs dock inte för försäljning av tryckta skrifter samt välgörenhets- och
@@ -7658,10 +7658,10 @@ Hund
 Den som äger en hund, den som har tagit emot en hund för underhåll eller nyttjande eller den som
 tillfälligt vårdar en hund är skyldig att följa bestämmelserna i 19-218 i dessa föreskrifter.
 
-Bestämmelserna i 19-21 $ gäller inte för tjänstehund under tjänsteutövning med polis, tull,
+Bestämmelserna i 19-21 \$ gäller inte för tjänstehund under tjänsteutövning med polis, tull,
 räddningstjänst eller annan liknande myndighet.
 
-Bestämmelserna i 21 $ punkterna 1-2 gäller inte assistanshund.
+Bestämmelserna i 21 \$ punkterna 1-2 gäller inte assistanshund.
 
 Skyldighet att hålla hund kopplad
 195
@@ -7682,22 +7682,22 @@ Skyldighet att plocka upp föroreningar efter hund
 
 Föroreningar efter hund ska plockas upp på offentlig plats, inkluderande gångbanor, parkmark,
 parkvägar eller annat för gångtrafiken erforderligt utrymme samt inom områden som jämställs med
-offentlig plats enligt 3 $ i dessa föreskrifter.
+offentlig plats enligt 3 \$ i dessa föreskrifter.
 
 Vistelseförbud för hund
 
 218
 Hund får inte medföras-+til eHer vistas på
 
-1.
+1\.
 a. Allmän lekplats
 b. Allmän anläggning för lek och aktivitet
-c. Fekplats-eeh Annan anläggning för lek och aktivitet som enligt 3 $ i dessa
+c. Fekplats-eeh Annan anläggning för lek och aktivitet som enligt 3 \$ i dessa
 föreskrifter jämställs med offentlig plats
 
-2. Tingbergsvallen i Kungsbacka
+2\. Tingbergsvallen i Kungsbacka
 
-3. Badbrygga och badflotte på badplats som enligt 3 $ i dessa föreskrifter jämställs med
+3\. Badbrygga och badflotte på badplats som enligt 3 \$ i dessa föreskrifter jämställs med
 offentlig plats
 
 Vistelseförbudet gäller inte lek- eller aktivitetsyta avsedd för hund såsom hundrastgård eller
@@ -7707,8 +7707,8 @@ agilitybana.
 
 2285
 
-Den som uppsåtligen eller av oaktsamhet bryter mot 5-9 $$, 10 $ första och andra stycket, 11-14 $ första
-stycket, 15-17 $$, 19-21 $$ i dessa föreskrifter, kan dömas till penningböter enligt 3 kap. 22 $ andra stycket
+Den som uppsåtligen eller av oaktsamhet bryter mot 5-9 \$\$, 10 \$ första och andra stycket, 11-14 \$ första
+stycket, 15-17 \$\$, 19-21 \$\$ i dessa föreskrifter, kan dömas till penningböter enligt 3 kap. 22 \$ andra stycket
 ordningslagen.
 
 I ordningslagen finns också bestämmelser om föreläggande och förverkande.
@@ -7719,7 +7719,7 @@ Kungsbacka kommun Lokala ordningsföreskrifter Sida 7 av 7
 
 <!-- sida 192 -->
 
-|
+\|
 Teckenförklaring
 Tillfällig (ambulerande) försäljning
 
@@ -8012,9 +8012,9 @@ Dom - Överklagande av länsstyrelsens beslut att upphäva lokala ordningsföres
 Beslut att upphäva lokala ordningsföreskrifter - Anmälan enligt 3 kap. 13 §
 ordningslagen (1993:1617) av lokala ordningsföreskrifter, 2020-03-02.
 Bilaga 1 tillhörande Länsstyrelsens beslut om lokala ordningsföreskrifter, 2020-03-
-02.
+02\.
 Bilaga 2 tillhörande Länsstyrelsens beslut om lokala ordningsföreskrifter, 2020-03-
-02.
+02\.
 
 Beslutsgång
 

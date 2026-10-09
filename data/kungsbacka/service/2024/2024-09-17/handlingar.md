@@ -162,7 +162,7 @@ vi följer och rapporterar regelbundet till nämnden.
 Ny organisation
 
 Under våren har olika aktiviteter genomförts för att hitta en organisation som skapar maximalt värde
-- internt i vårt partnerskap med övriga förvaltningar, för Ett Kungsbacka och i förlängningen för våra
+\- internt i vårt partnerskap med övriga förvaltningar, för Ett Kungsbacka och i förlängningen för våra
 kommuninvånare. Beslut om den nya organisationen fattades i förvaltningens samverkansgrupp i maj och
 den nya organisationen började gälla den 2 september 2024.
 Ett mål med omorganisationen är att bättre kunna möta den omställning vi befinner oss i för att på ett
@@ -242,10 +242,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Sammanfattning av nämndens arbete med målet
 
@@ -305,11 +305,11 @@ totalt - helhetssyn
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av nämndens arbete med målet
 
@@ -407,7 +407,7 @@ Indikatorer                   Utfall  Utfall  Utfall Utfall Målvärde
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 4 i % 88 % 88 %   85 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
@@ -417,23 +417,23 @@ utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 77 % 72 %   79 %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
+\- Flickor.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket god
 under elevhälsosamtalet, ÅK 8 i % 92 % 93 %   92 %
-- Pojkar.(Elevhälsan i Kungsbacka utvecklar
+\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
 metod utifrån hälsosamtal med elever.)
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 68 %   65 %    73 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 88 %   85 %    86 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 98 97
 målvärde 2030 är 70.
@@ -463,7 +463,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,79
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i
@@ -480,8 +480,8 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom
 samverkan mellan näringsliv och utbildning.
 
 Sammanfattning av nämndens arbete med målet
@@ -576,8 +576,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av nämndens arbete med målet
 Service arbetar aktivt för att erbjuda plats åt praktikanter av olika slag, samt att ge ungdomar möjlighet att
@@ -636,12 +636,12 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att
 utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
 ledare.
 
 Sammanfattning av nämndens arbete med målet
@@ -725,7 +725,7 @@ Delårsrapport augusti 2024
 3 Uppföljning    av direktiv
 
 Kommunfullmäktiges  direktiv
-- Innovation och omställning till nya arbetssätt
+\- Innovation och omställning till nya arbetssätt
 
 Kungsbacka kommun står inför stora utmaningar kommande decennier. Bland annat handlar det om hur
 välfärden ska bevaras trots kostnadsökningar och kompetensbrist, men också om klimatanpassning och
@@ -846,7 +846,7 @@ har genomförts med
 direkt nytta för våra
 partners.
 Partnerskapsgrad
-- Antal idéer eller
+\- Antal idéer eller
 innovativa lösningar
 1
 som har
@@ -893,13 +893,13 @@ Ack.
 Nyckeltal    Jan  Feb  Mar  Apr  Maj  Jun Jul        Målvärde
 Utfall
 Fastigheter, R12
-- Personalkostnad 10,9 10,9 11,0 11,1 11,2 11,3 11,4    10,5
+\- Personalkostnad 10,9 10,9 11,0 11,1 11,2 11,3 11,4    10,5
 per kvadratmeter kr/kvm kr/kvm kr/kvm kr/kvm kr/kvm kr/kvm kr/kvm kr/kvm
 (kvm)
 Försämrat nyckeltal beror främst på an del personal togs över av Teknik i mars.
 Exkluderas den effekten är nyckeltalet 11,0 i augusti.
 Måltider, R12
-- Personalkostnadens
+\- Personalkostnadens
 58,5 % 58,3 % 57,7 % 57,4 % 57 %      56 %
 andel av
 omsättningen
@@ -908,7 +908,7 @@ riktning avseende nyckeltalet.
 Lokalvård,
 månadsvärde
 18,6 18,2 18,7 18,9 18,3 20,1 22,8   19,4  18,5
-- Personalkostnad
+\- Personalkostnad
 kr/kvm kr/kvm kr/kvm kr/kvm kr/kvm kr/kvm kr/kvm kr/kvm kr/kvm
 per kvadratmeter
 (kvm)
@@ -1140,7 +1140,7 @@ Ackumulerad inköpt el per kvm egenägd yta 2024 jämfört med Ackumulerad inkö
 el per kvm egenägd yta 2023. Den samlade elanvändningen skall sjunka med
 2% årligen (förbrukning per kvm).
 Solcellsproduktion 3 754 3 754 3 754 3 791 3 791 3 781 3 775 4 054
-- Installerad effekt kw kw kw kw kw  kw   kw       kw
+\- Installerad effekt kw kw kw kw kw  kw   kw       kw
 Förklaring:
 Vi har arbeten med pågående upphandlingar för Maleviks förskola, Skördevägens
 gruppbostad och Fjordskolan. Arbetet med att ta fram tekniska underlag har tagit

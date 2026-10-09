@@ -1183,7 +1183,7 @@ Projektet som omfattar 12 platser planeras att vara klart 2026.
 Kommunstyrelsen beslutade den 23 januari 2024 att genomföra en förstudie och
 tilldelade projektet 1,5 miljoner kronor i investeringsmedel. Syftet med förstudien
 var att ta fram bygglovshandlingar som ska lämnas in senast i slutet av november
-2024. Kommunfullmäktige beslutade i lokalplan 2025–2029 att tillföra budgetmedel
+2024\. Kommunfullmäktige beslutade i lokalplan 2025–2029 att tillföra budgetmedel
 för investering och driftskostnad.
 
 För att kunna genomföra projektet behöver budgetmedel för investering, engångsdrift
@@ -2104,13 +2104,13 @@ SCB kräver nu ett formellt beslut om den särskilda avgränsade statistikverksa
 med sekretess enligt 24 kap. 8 § OSL för att fortsätta leverera statistikpaket.
 Beslutet måste innehålla:
 
-1. Vilken kommun det gäller.
-2. Vilken sekretess som gäller för statistikverksamheten.
+1\. Vilken kommun det gäller.
+2\. Vilken sekretess som gäller för statistikverksamheten.
 
-3. Vilken kommunal myndighet, kommunstyrelsen eller annan nämnd i
+3\. Vilken kommunal myndighet, kommunstyrelsen eller annan nämnd i
 kommunen som statistikverksamheten är organiserad under.
 
-4. Hur verksamheten är avskild från annan verksamhet vid den aktuella
+4\. Hur verksamheten är avskild från annan verksamhet vid den aktuella
 kommunala myndigheten, så att sekretessprövning sker och sekretesskyddet
 fungerar i praktiken även gentemot den.
 
@@ -2249,7 +2249,7 @@ finansieras dels av offentliga medel, dels av avgifter. Avgiften för Kulturskol
 med stöd av kommunallagens 2 kap. 5-6 §§ och utgår från självkostnadsprincipen.
 Avgifterna i Kulturskolan justerades senast 2015. Mot bakgrund av detta lämnar
 nämnden för Kultur & Fritid förslag om en höjning med 20 procent från och med
-2025. I taxan lämnas också förslag att nämnden för Kultur & Fritid årligen har
+2025\. I taxan lämnas också förslag att nämnden för Kultur & Fritid årligen har
 möjlighet indexreglera avgifterna enligt prisindex för kommunal verksamhet (PKV).
 
 Beslutsunderlag

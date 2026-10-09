@@ -283,22 +283,22 @@ Sammanfattning av ärendet
 
 Nämnden för Kultur & Fritid sammanträder nedanstående datum 2025:
 
-* 22 januari
-* 19 februari
+\* 22 januari
+\* 19 februari
 
-* 19 mars
-* 23 april
+\* 19 mars
+\* 23 april
 
-* 14 maj
-* 11 juni
+\* 14 maj
+\* 11 juni
 
-* 20 augusti
-* 17 september
+\* 20 augusti
+\* 17 september
 
-* 22 oktober
-* 19 november
+\* 22 oktober
+\* 19 november
 
-* 17 december
+\* 17 december
 
 Beslutsunderlag
 
@@ -474,7 +474,7 @@ Nämnden noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Karl Persson, förvaltningschef, informerar nämnden om arbetet med nämndbudget
-2025.
+2025\.
 
 Beslutsunderlag
 
@@ -638,28 +638,28 @@ Nämnden noterar frågor och svar till protokollet.
 Sammanfattning av ärendet
 
 Birgitta Tingdal (S) har inkommit med frågor till förvaltningen:
-* I delårsrapporten nämns det att en arbetsgrupp som ska jobba med Kungsbackas
+\* I delårsrapporten nämns det att en arbetsgrupp som ska jobba med Kungsbackas
 
 lokalhistoria satts ihop. Vem är med och vad gör de?
 Tre medarbetare tar ett samlat grepp kring hur vi arbetar med Kungsbackas
 kulturarv och kulturhistoria.
 
-* Det talas om samarbete med Löftadalens konstutbildning. Vad har man gjort där?
+\* Det talas om samarbete med Löftadalens konstutbildning. Vad har man gjort där?
 Samarbete mellan Äskhults by och Löftadalens om konstutställning.
 
-* Kulturskolan har nya aktiviteter och nya arbetssätt. Vad innebär det?
+\* Kulturskolan har nya aktiviteter och nya arbetssätt. Vad innebär det?
 Samarbete med andra aktörer, lek som pedagogiskt verktyg. Undersökning kring vad
 barn och unga vill ha för slags Kulturskola.
 
 Per Gunnarsson (S), Birgitta Tingdal (S) och Gert Svensson (S) har inkommit med
 fråga till förvaltningen:
 
-* Hur garanterar förvaltningen tillgänglighet vid biljettförsäljning till kommunens
+\* Hur garanterar förvaltningen tillgänglighet vid biljettförsäljning till kommunens
 arrangemang?
 Biljetter kan köpas fysiskt på Kungsbacka teater, även vid andra föreställningar.
 
 Birgitta Gustafsson (L):
-* Hur arbetar förvaltningen med att få in fler ansökningar till Bibbi Malmgrens
+\* Hur arbetar förvaltningen med att få in fler ansökningar till Bibbi Malmgrens
 barnboksfond?
 Förvaltningen tar fram förslag och testar hur man kan underlätta
 

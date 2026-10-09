@@ -553,38 +553,38 @@ Sammanfattning av ärendet
 Under perioden 13 november – 11 december inkom följande skrivelser till nämnden
 för Teknik:
 
-- Protokollsutdrag Kommunfullmäktige 2025-11-04 § 223
-- Avfallstaxa 2026, daterad 2025-05-30 slutversion utan ändringsmarkeringar
+\- Protokollsutdrag Kommunfullmäktige 2025-11-04 § 223
+\- Avfallstaxa 2026, daterad 2025-05-30 slutversion utan ändringsmarkeringar
 
-- Tjänsteskrivelse - Taxa för avfall 2026
-- Protokollsutdrag Kommunfullmäktige 2025-11-04 § 221
+\- Tjänsteskrivelse - Taxa för avfall 2026
+\- Protokollsutdrag Kommunfullmäktige 2025-11-04 § 221
 
-- Tjänsteskrivelse -Godkännande av projekt och medfinansiering av
+\- Tjänsteskrivelse -Godkännande av projekt och medfinansiering av
 belysningsanläggning vid del av väg 955 i Särö
-- Protokollsutdrag Kommunfullmäktige 2025-11-04 § 218
+\- Protokollsutdrag Kommunfullmäktige 2025-11-04 § 218
 
-- Delårsbokslut 2025
-- Tjänsteskrivelse - Delårsrapport 2025
+\- Delårsbokslut 2025
+\- Tjänsteskrivelse - Delårsrapport 2025
 
-- Medborgardialog - Vattenpöl på Kungsparksvägen
+\- Medborgardialog - Vattenpöl på Kungsparksvägen
 
-- Medborgardialog: Saltning av vintervägar!!
-- Medborgardialog: Hanteringen av dagvattenfrågan - Örsviken
+\- Medborgardialog: Saltning av vintervägar!!
+\- Medborgardialog: Hanteringen av dagvattenfrågan - Örsviken
 
-- Medborgardialog: Dagvattenfrågan i Örsviken
-- Beslut - Bildande av Tjolöholms naturreservat i Kungsbacka kommun - 8192-2021
+\- Medborgardialog: Dagvattenfrågan i Örsviken
+\- Beslut - Bildande av Tjolöholms naturreservat i Kungsbacka kommun - 8192-2021
 
-- Bilagor till beslut - 8192-2021
-- Protokollsutdrag Kommunstyrelsen 2025-11-25 § 226, Lönestruktur 2026, KS-
+\- Bilagor till beslut - 8192-2021
+\- Protokollsutdrag Kommunstyrelsen 2025-11-25 § 226, Lönestruktur 2026, KS-
 2025-00715
 
-- Tjänsteskrivelse - Lönestruktur 2026, KS-2025-00715
-- Inkommen skrivelse om alger i Lygnern
+\- Tjänsteskrivelse - Lönestruktur 2026, KS-2025-00715
+\- Inkommen skrivelse om alger i Lygnern
 
-- Protokollsutdrag Nämnden för Tekniks arbetsutskott 2025-12-01 § 62
-- Tjänsteskrivelse - Beslut, Sommartorg 2026
+\- Protokollsutdrag Nämnden för Tekniks arbetsutskott 2025-12-01 § 62
+\- Tjänsteskrivelse - Beslut, Sommartorg 2026
 
-- Beslut dnr 7797-2021 angående verksamhetsområde för dagvatten vid Åsa planväg
+\- Beslut dnr 7797-2021 angående verksamhetsområde för dagvatten vid Åsa planväg
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 8F65D0553507555C842A91DA5253CFF3A3B44B25E6

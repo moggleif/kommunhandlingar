@@ -638,7 +638,7 @@ föregripa ett beslut i ett enskilt ärende av den som fått beslutanderätten g
 själv ta över ärendet och fatta beslut. Sammanställningen omfattar beslut fattade eller
 inkomna till förvaltningen för Förskola & Grundskola från 2023-12-05 till 2024-01-
 
-08.
+08\.
 
 Beslutsunderlag
 

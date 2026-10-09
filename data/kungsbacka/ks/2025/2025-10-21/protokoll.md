@@ -196,7 +196,7 @@ Delårsrapport 2025 för Kungsbacka kommun
 Beslut – Förslag till kommunfullmäktige
 
 Kommunfullmäktige godkänner delårsrapport för Kungsbacka kommun per augusti
-2025.
+2025\.
 
 Kommunfullmäktige uppmanar de nämnder som prognostiserar underskott att
 hantera dessa i enlighet med gällande ekonomistyrprinciper.
@@ -1410,7 +1410,7 @@ godkännande i kommunfullmäktige.
 Projektet kostnadsförs på årets resultat och finansieras av kommunens
 finansverksamhet. Kommunfullmäktige minskar nämnden för Tekniks driftram 2025
 med motsvarande belopp. Projektets budget är 3,2 miljoner kronor i prisnivå juli
-2025. Nämnden för Teknik hanterar eventuella avvikelser mot projektets budget
+2025\. Nämnden för Teknik hanterar eventuella avvikelser mot projektets budget
 inom ordinarie driftram.
 
 Enligt ekonomistyrningsprinciperna i Kommunbudget 2025 ska kommunfullmäktige

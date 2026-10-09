@@ -302,10 +302,10 @@ beskrivning av stadens byggnadskaraktär", antagen av byggnadsnämnden 2011-06-
 09, samt upphävande av den del som avser utpekat Varlaområde. Förslagsställarna
 
 lyfter följande punkter:
-- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
+\- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
 gälla.
 
-- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
+\- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
 övriga områden.
 
 Beslutsunderlag
@@ -346,7 +346,7 @@ lantmäterimyndigheter. Varje kommun har rätt att ansöka om att hantera sina e
 lantmäteriärenden genom att inrätta ett kommunalt lantmäteri. Förslagsställarna
 
 lyfter följande punkt:
-- Med anledning av ovanstående föreslår undertecknade att Bygg- och
+\- Med anledning av ovanstående föreslår undertecknade att Bygg- och
 Miljöförvaltningen får i uppdrag att utreda förutsättningarna för att ansöka om ett
 kommunalt Lantmäteri.
 
@@ -398,7 +398,7 @@ att omhänderta dagvatten på ett lämpligt sätt.
 Skolan föreslås nu placeras söder om Kläppavägen intill Åsa Gårdsskola där Stora
 och Lilla lokets förskola idag är placerad. Kommunstyrelsen godkände
 projektbeställning för detaljplan för skola inom Åsa 5:256 och Åsa 4:142 den 28 maj
-2024. Vid samma tillfälle upphävde kommunstyrelsen tidigare beslut från 2022-05-
+2024\. Vid samma tillfälle upphävde kommunstyrelsen tidigare beslut från 2022-05-
 30, § 118.
 
 Beslutsunderlag
@@ -2833,10 +2833,10 @@ Beslutsmotivering
 
 Enligt plan- och bygglagen 9 kap. 31 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd utanför ett område med detaljplan, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 
 områdesbestämmelser. Lag (2014:900).
@@ -2892,14 +2892,14 @@ landsbygdsutveckling, kustbygd och landsbygd. Den aktuella fastigheten ligger in
 vad Vårt Framtida Kungsbacka redovisar som utvecklingsort Särö. Närmare bestämt
 i övergången mellan centrum och ytterområde. Riktlinjer inom utvecklingsorter:
 
-- I centrum ska bebyggelsen vara tätast och här återfinns de flesta verksamheterna
+\- I centrum ska bebyggelsen vara tätast och här återfinns de flesta verksamheterna
 och utbudet av olika upplevelser med närhet till vardagsservice, rekreation, kultur
 och god kollektivtrafik.
-- Förutsättningar för vardagsnära friluftsliv ska bevaras och utvecklas. Gröna stråk
+\- Förutsättningar för vardagsnära friluftsliv ska bevaras och utvecklas. Gröna stråk
 och områden som är viktiga för den biologiska mångfalden ska värnas och utvecklas.
 Inom utvecklingsorterna planeras nya bostadshus generellt genom detaljplan.
 
-- De yttre delarna av utvecklingsorterna domineras ofta av villabebyggelse men kan
+\- De yttre delarna av utvecklingsorterna domineras ofta av villabebyggelse men kan
 också innehålla icke störande verksamheter. På några ställen finns grupper med villor
 som inte regleras av detaljplan. Om området har god tillgång till vardagsservice och
 infrastruktur, kan dessa grupper med fördel kompletteras med några villor till. Var
@@ -3621,7 +3621,7 @@ särskilda skäl är placeringen att betrakta som planenlig.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--  Tillbyggnaden är placerad 1,7 m närmre gräns än vad detaljplanen medger.
+\-  Tillbyggnaden är placerad 1,7 m närmre gräns än vad detaljplanen medger.
 
 Kommunicering
 Om åtgärden avviker mot detaljplan, eller ska utföras utanför detaljplan ska berörda
@@ -3802,7 +3802,7 @@ Datum
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--  tillbyggnaden har föreslagits placerad 1,2 meter från fastighetsgräns, vilket är
+\-  tillbyggnaden har föreslagits placerad 1,2 meter från fastighetsgräns, vilket är
 2,8 meter närmare än vad detaljplanen medger
 
 Kommunicering
@@ -3948,7 +3948,7 @@ altaner, inglasat uterum etc. uppföras.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--  Tillbyggnaden i sin helhet är placerad på korsprickad mark som inte får
+\-  Tillbyggnaden i sin helhet är placerad på korsprickad mark som inte får
 bebyggas med uterum.
 
 Kommunicering

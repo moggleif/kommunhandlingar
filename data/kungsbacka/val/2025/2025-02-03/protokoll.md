@@ -271,8 +271,8 @@ Sammanfattning av ärendet
 Under perioden 1 november - 31 december 2024 har följande skrivelser inkommit till
 valnämnden:
 
--  Valmyndighetens nyhetsutskick v.50
--  Valmyndighetens nyhetsutskick v.48
+\-  Valmyndighetens nyhetsutskick v.50
+\-  Valmyndighetens nyhetsutskick v.48
 
 Beslutsgång
 Ordförande Jan Byvik (S) prövar om valnämnden kan notera redovisningen av
@@ -298,7 +298,7 @@ Valnämnden noterar redovisningen av inkomna skrivelser till protokollet.
 Sammanfattning av ärendet
 Under perioden 1 - 24 januari 2025 har följande skrivelser inkommit till valnämnden:
 
--  Valmyndighetens nyhetsbrev v. 2
+\-  Valmyndighetens nyhetsbrev v. 2
 
 Beslutsgång
 

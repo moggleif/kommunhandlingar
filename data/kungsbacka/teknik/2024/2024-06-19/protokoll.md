@@ -163,7 +163,7 @@ Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
 
--  Initiativärende angående – Prioritering av skötselytor
+\-  Initiativärende angående – Prioritering av skötselytor
 
 Beslutsgång
 Ordförande Monica Neptun (L) prövar om nämnden för Teknik kan godkänna
@@ -335,9 +335,9 @@ normal underhållsplaneringstakt.
 Nämnden för Teknik beslutar att Kungsbacka kommun på följande platser ska
 fortsätta tillhandahålla belysning av längs statlig väg där detta inte är krav enligt vid
 var tid gällande version av Trafikverkets vägbelysningshandbok:
-- i direkt anslutning till busshållplatser samt skolskjutshållplatser
+\- i direkt anslutning till busshållplatser samt skolskjutshållplatser
 
-- vid korta avstånd till andra belysta platser
+\- vid korta avstånd till andra belysta platser
 
 Nämnden för Teknik förklarar uppdraget 2021-11-17 §114 för slutfört.
 
@@ -478,10 +478,10 @@ att en hållbar utveckling främjas och måste ha genomgått en strategisk
 miljökonsekvensbeskrivning förenlig med Miljöbalkens bestämmelser.
 Kommunfullmäktige beslutar om antagande och ändring av en vattentjänstplan.
 Innan den antas eller ändras ska Vattentjänstplanen:
-1. på lämpligt sätt och i skälig omfattning samrådas med de fastighetsägare och
+1\. på lämpligt sätt och i skälig omfattning samrådas med de fastighetsägare och
 myndigheter som kan antas ha ett väsentligt intresse av planen, och
 
-2. ställa ut ett förslag till plan för granskning under minst fyra veckor.
+2\. ställa ut ett förslag till plan för granskning under minst fyra veckor.
 
 Kommunen ska informera om utställningen på sin anslagstavla före
 utställningstidens början. Informationen ska innehålla uppgift om förslagets
@@ -733,42 +733,42 @@ Sammanfattning av ärendet
 
 Under perioden 9 maj 11 juni inkom följande skrivelser till nämnden för Teknik:
 
-- Re: GLÄDJE-STOLHET-ANSVAR EN ÅTTERKOPPLING
-- Beslut - 2024-00049 - KS - § 78
+\- Re: GLÄDJE-STOLHET-ANSVAR EN ÅTTERKOPPLING
+\- Beslut - 2024-00049 - KS - § 78
 
-- Redovisning av icke färdigberedda motioner (1, 2024)
-- Tjänsteskrivelse Redovisning av icke färdigberedda motioner (1, 2024)
+\- Redovisning av icke färdigberedda motioner (1, 2024)
+\- Tjänsteskrivelse Redovisning av icke färdigberedda motioner (1, 2024)
 
-- Protokollsutdrag 2024-05-07 KF § 80 Riktlinjer för informationssäkerhet 2023-
+\- Protokollsutdrag 2024-05-07 KF § 80 Riktlinjer för informationssäkerhet 2023-
 2026
-- Informationssäkerhet riktlinjer KF 2024-05-07 § 80
+\- Informationssäkerhet riktlinjer KF 2024-05-07 § 80
 
-- Tjänsteskrivelse KS-2023-00670 Riktlinjer för informationssäkerhet 2023-2026
-- Beslut - KS-2024-00167 - KS § 81 Ombudgeteringar och resultatfonder 2023
+\- Tjänsteskrivelse KS-2023-00670 Riktlinjer för informationssäkerhet 2023-2026
+\- Beslut - KS-2024-00167 - KS § 81 Ombudgeteringar och resultatfonder 2023
 
-- Ombudget investeringar bilaga KS-2024-001
-- Ombudget investeringar 2023 ny bilaga KS-2024-00167
+\- Ombudget investeringar bilaga KS-2024-001
+\- Ombudget investeringar 2023 ny bilaga KS-2024-00167
 
-- Tjänsteskrivelse KS-2024-00167 Ombudgeteringar och resultatfonder 2023
-- Protokollsutdrag 2024-05-07 KF § 85 Svar på motion från Roger Larsson (KB) om
+\- Tjänsteskrivelse KS-2024-00167 Ombudgeteringar och resultatfonder 2023
+\- Protokollsutdrag 2024-05-07 KF § 85 Svar på motion från Roger Larsson (KB) om
 
 uppställningsplats för husbilar KS-2023-00511
-- Tjänsteskrivelse KS-2023-00511 Svar på motion från Roger Larsson (KB) om
+\- Tjänsteskrivelse KS-2023-00511 Svar på motion från Roger Larsson (KB) om
 uppställningsplats för husbilar
 
-- Protokollsutdrag 2024-05-07 KF § 83 Svar på motion från Per Gunnarsson (S) m.fl.
+\- Protokollsutdrag 2024-05-07 KF § 83 Svar på motion från Per Gunnarsson (S) m.fl.
 om komplettering med ortsskyltar vid större byar i kommunen
-- Tjänsteskrivelse 2024-05-07 KF § 83 Svar på motion från Per Gunnarsson (S) m.fl.
+\- Tjänsteskrivelse 2024-05-07 KF § 83 Svar på motion från Per Gunnarsson (S) m.fl.
 om komplettering med ortsskyltar vid större byar i kommunen
 
-- Beslut - 202200236 - KS - § 79
+\- Beslut - 202200236 - KS - § 79
 
-- Tjänsteskrivelse - KS-2022-00236
-- Beslut - 202200696 - KS - § 82
+\- Tjänsteskrivelse - KS-2022-00236
+\- Beslut - 202200696 - KS - § 82
 
-- (Tjänsteskrivelse) Uppdatering av Kungsbacka kommuns ordningsföreskrifter för
+\- (Tjänsteskrivelse) Uppdatering av Kungsbacka kommuns ordningsföreskrifter för
 torghandel
-- Förslag på förändringar i Kungsbacka, kollektivtrafik och dess priser
+\- Förslag på förändringar i Kungsbacka, kollektivtrafik och dess priser
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 72F20D45C7D91FB3C7DBED315D3F4F34AF5F46273F
@@ -781,25 +781,25 @@ Nämnden för Teknik
 Datum
 2024-06-19
 
-- Vill din kommun medverka i Europeiska Mobilitetsveckan 16-22 september? -
+\- Vill din kommun medverka i Europeiska Mobilitetsveckan 16-22 september? -
 Anmälan öppnar i mitten på juni
-- Kommunstyrelsens arbetsutskotts beslut rörande flaggning med regnbågsflagga
+\- Kommunstyrelsens arbetsutskotts beslut rörande flaggning med regnbågsflagga
 under West Pride, KS-2024-00385
 
-- Dialog med invånare: GLÄDJE - STOLTHET - ANSVAR
+\- Dialog med invånare: GLÄDJE - STOLTHET - ANSVAR
 
-- Samarbetsavtal om ömsesidig dricksvattentillgång, Mölndals Stad
-- Lokala ordningsföreskrifter för torghandel KF 2024-05-07 § 82
+\- Samarbetsavtal om ömsesidig dricksvattentillgång, Mölndals Stad
+\- Lokala ordningsföreskrifter för torghandel KF 2024-05-07 § 82
 
-- E-post - Revisionsplan 2024
-- Revisionsplan 2024
+\- E-post - Revisionsplan 2024
+\- Revisionsplan 2024
 
-- E-post, Anteckningar vid kommunrevisionens dialog med presidiet -
+\- E-post, Anteckningar vid kommunrevisionens dialog med presidiet -
 Grundläggande granskning 2024
-- Anteckningar vid kommunrevisionens dialog med presidiet - Grundläggande
+\- Anteckningar vid kommunrevisionens dialog med presidiet - Grundläggande
 granskning 2024
 
-- Invånardialog: Bevattningsförbudet i kommunen
+\- Invånardialog: Bevattningsförbudet i kommunen
 
 Beslutsgång
 
@@ -825,7 +825,7 @@ Beslut
 
 Nämnden för Teknik noterar delegeringsbeslut fattade och rapporterade under maj
 
-2024.
+2024\.
 
 Sammanfattning av ärendet
 Nämnden för Teknik har överlåtit sin beslutanderätt till utskott, ordförande och
@@ -866,11 +866,11 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  Bevattningsförbudets effekt
--  Beslut om Framtidens avloppsrening som beslutades i kommunfullmäktige
+\-  Bevattningsförbudets effekt
+\-  Beslut om Framtidens avloppsrening som beslutades i kommunfullmäktige
 den 13 juni
 
--  Översvämning i Åsa
+\-  Översvämning i Åsa
 
 Beslutsgång
 

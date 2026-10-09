@@ -431,15 +431,15 @@ Marianne Wallengren (M) m.fl. har lämnat ett initiativ till Byggnadsnämnden.
 Byggnadsnämnden beslutade 14 december 2023 att remittera ärendet till
 förvaltningen för beredning. Initiativet lyfter tre punkter:
 
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
 möjliga, samt vilka ny- och tillbyggnader som inte kräver bygglov, inom ramen för
 Plan och Bygglagen 2010: 900 samt eventuellt annan relevant lagstiftning, på nya
 och uppdaterade Detaljplaner.
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
 handläggning och beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare
 
 i kommunen och företagare, oavsett handläggare.
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
 beslutet är ett JA eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen
 vara enkel att förstå, d.v.s. vilka kriterier var inte uppfyllda.
 
@@ -556,7 +556,7 @@ Förvaltningschef Katarina Öryd informerar byggnadsnämndens arbetsutskott om
 förslag till strategi för bygg-och miljöförvaltningen 2024-2027. Yttrande inför beslut
 om strategi hanteras på nämnden för Miljö & Hälsoskydds sammanträde den 11
 april. Beslut om strategi planeras till byggnadsnämndens sammanträde den 18 april
-2024.
+2024\.
 
 Beslutsgång
 Ordförande Thure Sandén (M) prövar om byggnadsnämndens arbetsutskott kan
@@ -1481,14 +1481,14 @@ skyddas.
 Enligt 4 kap 2 § PBL ska kommunen med detaljplan pröva markområdets lämplighet
 för bebyggelse samt reglera bebyggelsemiljöns utformning för
 
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 till förhållandena i övrigt,
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
 
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 bebyggande.
 
@@ -1955,7 +1955,7 @@ skyddas.
 Enligt 4 kap 2 § PBL ska kommunen med detaljplan pröva markområdets lämplighet
 för bebyggelse samt reglera bebyggelsemiljöns utformning för
 
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 till förhållandena i övrigt,
 
@@ -1968,10 +1968,10 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-04-05
 
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 bebyggande.
@@ -2282,7 +2282,7 @@ boplats stenåldern, dock med svårbedömt läge.”
 En ansökan om bygglov för verksamhet, med nybyggnad av lagerlokal på samma
 lokalisering som denna ansökan avslogs av Byggnadsnämnden 2022-05-12 BN §
 
-154. Beslutsmotiveringen var i huvudsak liknande som för denna åtgärd. Grannar
+154\. Beslutsmotiveringen var i huvudsak liknande som för denna åtgärd. Grannar
 hade synpunkter i den ansökan.
 
 Övriga förutsättningar
@@ -2664,15 +2664,15 @@ skyddas.
 
 Enligt 4 kap 2 § PBL ska kommunen med detaljplan pröva markområdets lämplighet
 för bebyggelse samt reglera bebyggelsemiljöns utformning för
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 
 till förhållandena i övrigt,
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
 
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 bebyggande.
 Enligt 2 kap 1 § PBL ska vid prövningen av frågor hänsyn tas till både allmänna och
@@ -2903,15 +2903,15 @@ möjligt tas till vara.
 
 Enligt 4 kap 2 § PBL ska kommunen med detaljplan pröva markområdets lämplighet
 för bebyggelse samt reglera bebyggelsemiljöns utformning för
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 
 till förhållandena i övrigt,
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
 
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 bebyggande.
 Enligt 2 kap 1 § PBL ska vid prövningen av frågor hänsyn tas till både allmänna och
@@ -3153,11 +3153,11 @@ skyddas.
 
 Enligt 4 kap 2 § PBL ska kommunen med detaljplan pröva markområdets lämplighet
 för bebyggelse samt reglera bebyggelsemiljöns utformning för
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 till förhållandena i övrigt,
 
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
 
@@ -3170,7 +3170,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-04-05
 
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 bebyggande.
 Enligt 2 kap 1 § PBL ska vid prövningen av frågor hänsyn tas till både allmänna och
@@ -3571,14 +3571,14 @@ skyddas.
 Enligt 4 kap 2 § PBL ska kommunen med detaljplan pröva markområdets lämplighet
 för bebyggelse samt reglera bebyggelsemiljöns utformning för
 
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 till förhållandena i övrigt,
 
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 
 bebyggande.
@@ -4000,15 +4000,15 @@ skyddas.
 
 Enligt 4 kap 2 § PBL ska kommunen med detaljplan pröva markområdets lämplighet
 för bebyggelse samt reglera bebyggelsemiljöns utformning för
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 till förhållandena i övrigt,
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
 
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 bebyggande.
 
@@ -4444,7 +4444,7 @@ främmande arter ska beslutet förenas med villkor.
 
 Villkor
 Med stöd av 16 kap 2 § MB förenas beslutet med följande villkor:
-1. Åtgärderna ska i huvudsak utföras i enlighet med ansökan och bifogade kartor, se
+1\. Åtgärderna ska i huvudsak utföras i enlighet med ansökan och bifogade kartor, se
 bilaga 2-4.
 
 Expedierat/bestyrkt
@@ -4456,25 +4456,25 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-04-05
 
-2. Åtgärderna ska utföras på sådant sätt att skador på omkringliggande mark- och
+2\. Åtgärderna ska utföras på sådant sätt att skador på omkringliggande mark- och
 vattenområden samt växt- och djurlivet minimeras.
-3. Eventuella massor som tillförs området ska vara fria från föroreningar samt fröer
+3\. Eventuella massor som tillförs området ska vara fria från föroreningar samt fröer
 och växtdelar.
 
-4. Eventuella överskottsmassor eller stenar får inte läggas upp inom reservatet utan
+4\. Eventuella överskottsmassor eller stenar får inte läggas upp inom reservatet utan
 ska fraktas bort efter avslutat arbete.
 
-5. Eventuella skador som uppstår på intilliggande mark eller vegetation ska
+5\. Eventuella skador som uppstår på intilliggande mark eller vegetation ska
 återställas efter samråd med Länsstyrelsen och markägaren. Beslut Datum 2024-03-
 13 Diarienummer 4609-2023 Dnr BN 2024-000117 – Ankom 2024-03-13
 Länsstyrelsen Hallands län Beslut 2024-03-13 2 (10) 4609-2023
-6. Om det uppstår tveksamheter om villkoren i samband med åtgärdens utförande ska
+6\. Om det uppstår tveksamheter om villkoren i samband med åtgärdens utförande ska
 Länsstyrelsen kontaktas.
 
-7. Den som utför åtgärderna, om annan än sökanden, ska informeras om detta beslut
+7\. Den som utför åtgärderna, om annan än sökanden, ska informeras om detta beslut
 och meddelade villkor. Detta beslut ska medföras när dispensen nyttjas.
 
-8. Sökanden ska skriftligen underrätta Länsstyrelsen senast en månad efter att
+8\. Sökanden ska skriftligen underrätta Länsstyrelsen senast en månad efter att
 åtgärderna har slutförts. Ange diarienummer 4609-2023.
 
 Kommunicering
@@ -5322,20 +5322,20 @@ strandskyddsdispens får enligt 16 kap. 2 § miljöbalken förenas med villkor.
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet får
 man enligt 7 kap. 18 c § miljöbalken endast beakta om det område som dispensen
 avser
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för
 strandskyddets syften,
 
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen,
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området,
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området,
 
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan
 tillgodoses utanför området, eller
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom
 ett område för landsbygdsutveckling i strandnära lägen får man också beakta om ett

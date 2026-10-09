@@ -272,7 +272,7 @@ De poster som bevakas extra just nu är:
 •  Eventuella förgäveskostnader om projektet Gång- och cykelbro Hallabäcksparken avslutas
 
 •  Vinterväghållning, färre insatser än tidigare hittills i år, men är alltid en osäkerhet
-•  Färdtjänst*
+•  Färdtjänst\*
 
 När det gäller färdtjänst är det en verksamhet där kostnadsutvecklingen behöver bevakas extra noga. Den totala
 kostnaden utgörs av fyra poster:
@@ -898,7 +898,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 22 -->
 
-1. Om Kungsbacka    Bredbandsnät
+1\. Om Kungsbacka    Bredbandsnät
 
 Kungsbacka bredbandsnät har genom Nämnden för Teknik sedan oktober 2010 i
 uppdrag av Kommunfullmäktige1 att svara för utbyggnad av kanalisation och
@@ -933,7 +933,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                2 (9)
 
 <!-- sida 23 -->
 
-2. Tjänster
+2\. Tjänster
 
 I Kungsbacka Bredbandsnät är idag en väsentlig del av anslutningarna till nätet
 relaterade till kommunens verksamhet. Det är ofta mycket kritiska anslutningar
@@ -1013,7 +1013,7 @@ inget annat avtalats.
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
 
-•  Tillgänglighet = 100*(mätperiod-oplanerade avbrott) / mätperiod.
+•  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
 Servicetid: inom den tid vilken felavhjälpning och service sker.
@@ -1039,7 +1039,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                4 (9)
 Erbjudna tjänster uppfyller SSNF:s tekniska produktspecifikationer enligt
 Avtalspaketet för Cesar2 där så är tillämpligt och avtalat.
 
-3.       Avgifter och  taxor
+3\.       Avgifter och  taxor
 
 Samtliga priser är angivna exklusive moms om inget annat anges.
 
@@ -1212,7 +1212,7 @@ fibersatt område där Kungsbacka bredbandsnät tidigare lagt ner tom kanalisati
 (rör) vid tomtgräns. Byggnation av efteranslutningar sker under fastställda perioder
 som planeras årsvis.
 
-*Priser angivna inklusive moms.
+\*Priser angivna inklusive moms.
 
 3.6      Servicenivåer
 Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
@@ -1232,7 +1232,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                8 (9)
 
 [Tabell 28-2](handlingar.tabeller/28-2.csv)
 
-| Beskrivning | Engångsavgift* |
+| Beskrivning | Engångsavgift\* |
 | --- | --- |
 | Fiberanslutning till villa vid byggnation av ett område i tätort | 20 000 kr |
 | Fiberanslutning till villa vid byggnation av ett område på landsbygd | 25 000 kr |
@@ -1256,9 +1256,9 @@ fiberinstallation orsakad av tredje part, arbete i noder, aktivering eller omkop
 Avgiften kan även ligga till grund för riktpris gällande andra åtaganden som kräver
 teknikerinsats. Även restid och inställelsetid debiteras med samma timpris.
 
-* Pris angivet inklusive moms.
+\* Pris angivet inklusive moms.
 
-________________
+\________________
 
 Kungsbacka kommun             Bredbandstaxa 2026                9 (9)
 
@@ -1272,7 +1272,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                9 (9)
 
 [Tabell 29-2](handlingar.tabeller/29-2.csv)
 
-| Arbete | Pris * | Förklaring |
+| Arbete | Pris \* | Förklaring |
 | --- | --- | --- |
 | Fibertekniker | 800 kr | Per påbörjad timme. Helgfri vardag kl.08-16 |
 
@@ -1571,7 +1571,7 @@ Hur samrådet bedrivits
 
 Kommunstyrelsen beslöt 2024-02-20 § 47 att genomföra samråd kring förslag till fördjupad översiktsplan för
 Kungsbacka stad. Planförslaget syftar till att peka ut en riktning för utvecklingen av Kungsbacka stad fram till
-2050. Förslaget har varit utställt för samråd i stadshuset i Kungsbacka under tiden 7 mars till 7 juni 2024.
+2050\. Förslaget har varit utställt för samråd i stadshuset i Kungsbacka under tiden 7 mars till 7 juni 2024.
 Information om samrådet skickades ut enligt sändlista till remissinstanser. Under samrådet har omkring 180
 yttranden skickats in, varav omkring 120 från privatpersoner. Samhällsbyggnadskontoret har fått in fem
 
@@ -3395,7 +3395,7 @@ vatten genom ökad andel hårdgjord yta och ökade vattenföroreningar. Det är 
 förbättra vattenkvaliteten, särskilt i Kungsbackaån och att åtgärder vidtas för att minska näringsämnen,
 framför allt vid Hammargårds avloppsreningsverk och återställa vattendragen till naturliga förhållanden. - Om
 utsläppen från Hammargård bibehålls på nuvarande nivåer kommer god ekologisk status inte att uppnås till
-2027. ”En stad som ska växa med 12 000 bostäder måste stora mål som god ekologisk status finnas med. Om
+2027\. ”En stad som ska växa med 12 000 bostäder måste stora mål som god ekologisk status finnas med. Om
 målet om god ekologisk status inte finns med kommer det bli svårare ju större staden växer och ju längre tiden
 går för att förbättra MKN.”
 
@@ -4821,7 +4821,7 @@ kommundirektören i uppdrag att ställa ut Granskningsförslag till fördjupad
 översiktsplan, text och kartmaterial, daterad 2024-12-18.
 Stefan Jägnert (SD) och Stefan Vilumsons (SD) yrkar på följande ändringar:
 
-1. Under rubriken Jordbruksmark på sidan 12 stryks följande stycke:
+1\. Under rubriken Jordbruksmark på sidan 12 stryks följande stycke:
 −  Den jordbruksmark som föreslås tas i anspråk för bebyggelse bedöms ha ett
 strategiskt viktigt läge för att Kungsbacka ska kunna gå mot ett hållbart
 samhälle utifrån ett helhetsperspektiv.
@@ -4844,27 +4844,27 @@ Kommunstyrelsen
 Datum
 2025-02-18
 
-2. Under rubriken Riktlinjer och motiveringar för hela staden på sidan 42
+2\. Under rubriken Riktlinjer och motiveringar för hela staden på sidan 42
 läggs följande stycke till i först stycket:
 −  Särskilt fokus ska läggas på att skapa tryggare kollektivtrafikpunkter och
 gång- och cykelstråk för att öka säkerheten, särskilt på kvällar och i utsatta
 områden. Dessa åtgärder ska stärka förtroendet för hållbara färdmedel.
 
-3. Under rubriken Stadsmiljön ska utformas utifrån genomarbetade
+3\. Under rubriken Stadsmiljön ska utformas utifrån genomarbetade
 arkitektoniska idéer. (2) på sidan 42 läggs följande stycke till:
 
 −  Arkitektoniska idéer ska också bidra till att skapa trygghet och trivsel genom
 att prioritera öppna och upplysta miljöer som förhindrar social oro och brott.
-4. Under rubriken Vi ska verka för att det finns mötesplatser i alla delar av
+4\. Under rubriken Vi ska verka för att det finns mötesplatser i alla delar av
 
 staden som erbjuder varierade funktioner på sidan 43 stryks orden:
 −  samt utifrån perspektiv om kön och könsidentitet.
-5. Under rubriken Vi frigör ytor till bebyggelse och grönområden genom att
+5\. Under rubriken Vi frigör ytor till bebyggelse och grönområden genom att
 samla parkering i anläggningar. (10) stryks följande mening:
 
 −  Vi kan också minska biltrafikmängden och utsläppen i centrala och
 stationsnära lägen.
-6. Under rubriken Vid ny- och ombyggnation av allmän platsmark,
+6\. Under rubriken Vid ny- och ombyggnation av allmän platsmark,
 
 skolgårdar, idrottsanläggningar och annan offentlig service ska vi alltid
 pröva möjligheten att skapa ytor som har flera funktioner. (11) på sidan
@@ -4886,11 +4886,11 @@ byggherre och beställare måste kommunen också efterfråga flera olika
 funktioner när vi planerar ett projekt. En större investering idag betalar sig
 för kommunen som helhet på längre sikt.
 
-7. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
+7\. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
 och Södra Hammerö utökas enligt karta daterad 2025-01-14, så att fler
 bostäder kan möjliggöras jämfört med samrådsredogörelsen.
 
-8. Slutligen yrkas på följande ändringar: Vi Sverigedemokrater yrkar att all
+8\. Slutligen yrkas på följande ändringar: Vi Sverigedemokrater yrkar att all
 text i dokumentet som innehåller förslag eller formuleringar som främjar
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 4C989CB81BA0ACE4C1A75926F6C4D03C76CD70A538
@@ -4915,22 +4915,22 @@ samrådsredogörelse för fördjupad översiktsplan för Kungsbacka stad, datera
 12-18 samt ge kommundirektören i uppdrag att ställa ut Granskningsförslag till
 fördjupad översiktsplan, text och kartmaterial, daterad 2024-12-18, men med
 följande tillägg och ändringar:
-1. Bifall till Lisa Anderssons (M) yrkande om att underlaget Kompletterande
+1\. Bifall till Lisa Anderssons (M) yrkande om att underlaget Kompletterande
 
 material ska ingå i Granskningsförslaget.
-2. Bifall till att ”Utredningsområde för näringsliv och service” norr om
+2\. Bifall till att ”Utredningsområde för näringsliv och service” norr om
 Gröningevägen utgår.
 
-3. Bifall till att område för verksamheter i den nordöstra delen av Klovsten
+3\. Bifall till att område för verksamheter i den nordöstra delen av Klovsten
 utökas i enlighet med pågående detaljplanearbete.
-4. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
+4\. Avslag på att områden för bostäder i markanvändningskartan i Forsbergen
 och Södra Hammerö utökas enligt karta, daterad 2025-01-14, så att fler
 bostäder kan möjliggöras jämfört med samrådsredogörelsen.
 
-5. Avslag på Stefan Jägnerts (SD) och Stefan Vilumsons (SD) samtliga
+5\. Avslag på Stefan Jägnerts (SD) och Stefan Vilumsons (SD) samtliga
 yrkanden.
 
-6. Avslag på Emanuel Forsells (M) samtliga yrkanden i kommunstyrelsens
+6\. Avslag på Emanuel Forsells (M) samtliga yrkanden i kommunstyrelsens
 arbetsutkott.
 Johan Tolinsson (S) och Patrik Jervne Henestam (V) yrkar bifall till Magdalena
 Sundqvists (S) yrkande.
@@ -5132,11 +5132,11 @@ goda kommunikationer med kommunens orter och omvärld. Välplanerad infrastruktu
 lättillgänglig kollektivtrafik minimerar transporternas miljöpåverkan.
 
 Kommunfullmäktige har tagit fram fem mål för att nå visionen:
-- En attraktiv kommun att bo, verka och vistas i
-- En hållbar utveckling och en hälsosam miljö
-- Bästa företagsklimatet i Västsverige
-- I Kungsbacka utvecklas vi hela livet
-- Ett medskapande samhälle och öppen attityd
+\- En attraktiv kommun att bo, verka och vistas i
+\- En hållbar utveckling och en hälsosam miljö
+\- Bästa företagsklimatet i Västsverige
+\- I Kungsbacka utvecklas vi hela livet
+\- Ett medskapande samhälle och öppen attityd
 
 Kommunövergripande   översiktsplan
 
@@ -5172,15 +5172,15 @@ Strategi 2040, ur översiktsplanen
 Strategi 2040 ur översiktsplanen
 
 För att Kungsbacka ska vara en attraktiv kommun att bo, verka och vistas i ska vi:
-- Fokusera på staden för att skapa förutsättningar för fler invånare, fler arbetstillfällen, större
+\- Fokusera på staden för att skapa förutsättningar för fler invånare, fler arbetstillfällen, större
 utbud, mångfald och puls
-- Fokusera på stationsorterna Anneberg och Åsa
-- Utveckla stark kollektivtrafik och infrastruktur
-- Värna och utveckla landsbygdens näringar och naturresurser
-- Värna och utveckla kustens attraktivitet
-- Värna och utveckla värdefulla naturområden och främja ett attraktivt friluftsliv
+\- Fokusera på stationsorterna Anneberg och Åsa
+\- Utveckla stark kollektivtrafik och infrastruktur
+\- Värna och utveckla landsbygdens näringar och naturresurser
+\- Värna och utveckla kustens attraktivitet
+\- Värna och utveckla värdefulla naturområden och främja ett attraktivt friluftsliv
 
-- Utveckla samhället smart och vara väl rustade för klimatförändringar
+\- Utveckla samhället smart och vara väl rustade för klimatförändringar
 
 6
 
@@ -5201,7 +5201,7 @@ bakom Hållbar tillväxt som är GR:s strategidokument.
 GR:s strukturbild till vänster och GR:s fördjupad strukturbild för kustzonen till höger
 
 Region Halland har än så länge inte tagit fram en egen strukturbild men en Tillväxtstrategi 2014–
-2020. Både Region Halland och GR trycker på vikten av effektiva transporter och en hållbar
+2020\. Både Region Halland och GR trycker på vikten av effektiva transporter och en hållbar
 utveckling.
 
 Kommunen deltar aktivt i flera regionala och statliga sammanhang i syfte att tillsammans utveckla
@@ -5233,13 +5233,13 @@ myndighet som har i uppgift att granska hur kommunens planering tar hänsyn till
 förutsättningar.
 
 Delområden inom allmänna intressen styrda i lag
-- Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
-- Riksintressen, 3 kapitlet miljöbalken
-- Riksintressen, 4 kapitlet miljöbalken
-- Miljökvalitetsnormer, 5 kapitlet miljöbalken
-- Skydd av natur, 7 kapitlet miljöbalken
-- Fornminnen, 2 kapitlet kulturmiljölagen
-- Hälsa och säkerhet, plan- och bygglagen
+\- Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
+\- Riksintressen, 3 kapitlet miljöbalken
+\- Riksintressen, 4 kapitlet miljöbalken
+\- Miljökvalitetsnormer, 5 kapitlet miljöbalken
+\- Skydd av natur, 7 kapitlet miljöbalken
+\- Fornminnen, 2 kapitlet kulturmiljölagen
+\- Hälsa och säkerhet, plan- och bygglagen
 
 Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
 
@@ -6407,10 +6407,10 @@ Trafik och översvämning belyses i var sitt strategikapitel eftersom det är tv
 behöver hantera för att kunna växa.
 
 Delområden inom markanvändning i staden
-- Riktlinjer med motiveringar
-- Markanvändningskarta
-- Trafikstrategi - rörelser i staden
-- Översvämningsstrategi
+\- Riktlinjer med motiveringar
+\- Markanvändningskarta
+\- Trafikstrategi - rörelser i staden
+\- Översvämningsstrategi
 
 41
 
@@ -6425,10 +6425,10 @@ utmaningar och planeringsprinciper de berör. Dessutom finns kopplingar till kar
 mer om markanvändningen genom att klicka på relevant information.
 
 Delområden inom riktlinjer med motiveringar
-- Trafiknät
-- Stadsbebyggelse
-- Grönstruktur
-- Tekniska anläggningar
+\- Trafiknät
+\- Stadsbebyggelse
+\- Grönstruktur
+\- Tekniska anläggningar
 
 LÄS MER OM MARKANVÄNDNINGSKARTA
 
@@ -7307,11 +7307,11 @@ informationsklick i kartan. Informationsklick innebär att när du klickar på e
 relevant information i en textruta.
 
 Delområden inom markanvändningskarta
-- Trafiknät
-- Stadsbebyggelse
-- Grönstruktur
-- Tekniska anläggningar
-- Utanför stadsgräns
+\- Trafiknät
+\- Stadsbebyggelse
+\- Grönstruktur
+\- Tekniska anläggningar
+\- Utanför stadsgräns
 
 SE MARKANVÄNDNINGSKARTA
 
@@ -8237,7 +8237,7 @@ figurer nedan.
 
 Högsta beräknade havsvattenstånd från SMHI, 2018 (Höjdsystem RH2000).
 
-Nivåer i havet vid 200-årshändelse från SMHI, 2018 (Höjdsystem RH2000). *Inklusive nutida
+Nivåer i havet vid 200-årshändelse från SMHI, 2018 (Höjdsystem RH2000). \*Inklusive nutida
 medelvattenstånd på ca 0,1 meter.
 
 Nivåer i havet genom att lägga ihop Framtida medelvattenyta (utsläppsscenario SSP5-8.5, 83:e percentilen
@@ -8249,8 +8249,8 @@ föreslås 0,4 meter.
 
 <!-- sida 209 -->
 
-*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier.
-**Rekommenderat av MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag.
+\*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier.
+\*\*Rekommenderat av MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag.
 Skyfallskarteringen för Kungsbacka använder klimatfaktor 1,35.
 
 101
@@ -8448,11 +8448,11 @@ utvecklingsalternativ: planförslaget baserat på fyra planeringsprinciper och e
 motsatta principer.
 
 Delområden inom hållbarhetanalys
-- Samlad bedömning
-- Alternativgranskning
-- Miljökonsekvensbeskrivning enligt miljöbalken
-- Analys utifrån de globala målen
-- Barnkonsekvensanalys
+\- Samlad bedömning
+\- Alternativgranskning
+\- Miljökonsekvensbeskrivning enligt miljöbalken
+\- Analys utifrån de globala målen
+\- Barnkonsekvensanalys
 
 Samlad bedömning
 Den samlade bedömningen är att strategierna i planförslaget medför många positiva och några
@@ -8704,12 +8704,12 @@ planarbetet. Kommunen har genomfört ett avgränsningssamråd enligt 6 kapitlet 
 det framförs vilka möjliga konfliktområden som kommunen avser att särskilt belysa i en MKB.
 
 Delområden inom miljökonsekvensbeskrivning
-- Påverkan på vatten samt miljökvalitetsnormer för vatten
-- Trafikbuller samt miljökvalitetsnormer för omgivningsbuller
-- Luftkvalitet samt miljökvalitetsnormer för luft
-- Förändrat klimat
-- Riksintressen
-- Övriga miljökonsekvenser
+\- Påverkan på vatten samt miljökvalitetsnormer för vatten
+\- Trafikbuller samt miljökvalitetsnormer för omgivningsbuller
+\- Luftkvalitet samt miljökvalitetsnormer för luft
+\- Förändrat klimat
+\- Riksintressen
+\- Övriga miljökonsekvenser
 
 Bakgrund till Miljökonsekvensbeskrivning
 
@@ -9119,7 +9119,7 @@ förorenade områden hanteras frågan i planprocessen och kan leda till att för
 
 åtgärdas. Vi ska också arbeta vidare med det strategiska arbetet för att uppnå målet om att alla
 områden med mycket stor risk eller stor risk för människors hälsa eller miljön ska vara åtgärdade
-2050.
+2050\.
 Naturresurser
 
 De areella näringarna, ibland kallade gröna näringar, har stor betydelse för natur- och kulturvärden,
@@ -9715,18 +9715,18 @@ Barn och unga i olika åldrar har fått tycka till om planen i olika former. Der
 utformningen av planen.
 
 VI har genomfört dessa dialoger:
-- Barn i förskoleålder: dialog med barn på tre förskolor.
+\- Barn i förskoleålder: dialog med barn på tre förskolor.
 
-- Bred kartenkät: fyra respondenter under 12 år (en underrepresentation sett till befolkningen);
+\- Bred kartenkät: fyra respondenter under 12 år (en underrepresentation sett till befolkningen);
 213 respondenter i åldern 13–17 år (en överrepresentation sett till befolkningen).
 
-- Dialog med hyresgäster: fyra respondenter i åldern upp till 13 år samt 21 respondenter i åldern
+\- Dialog med hyresgäster: fyra respondenter i åldern upp till 13 år samt 21 respondenter i åldern
 13–17 år.
 
-- Kommunutvecklarna (sommarjobbare): 64 samtal med tonåringar och unga vuxna om
+\- Kommunutvecklarna (sommarjobbare): 64 samtal med tonåringar och unga vuxna om
 utvecklingen av staden.
 
-- Medskapande rum ”Kungsbacka Live”: drop-in rum i ett köpcentrum i Kungsbacka stad. Rummet
+\- Medskapande rum ”Kungsbacka Live”: drop-in rum i ett köpcentrum i Kungsbacka stad. Rummet
 hade tema Utvecklingen av Kungsbacka stad under tre dagar. Rummet hade inslag av lek och
 interaktivitet som tilltalar barn och några barn kom in och lämnade sina synpunkter.
 
@@ -9958,7 +9958,7 @@ Sida:       1 av 20
 Förutsättningar för Revaqcertifiering  av Kullavik och/eller
 Ölmanäs  ARV
 
-1.  Bakgrund
+1\.  Bakgrund
 
 Tidigare har allt slam som produceras i Kungsbacka kommun avvattnats och slutbehandlats på
 Hammargård ARV. Hammargård är Revaqcertifierat, vilket innebär att allt slam som har uppfyllt
@@ -9973,7 +9973,7 @@ att slam från dessa reningsverk ska kunna spridas som Revaqslam så kommer äve
 sammanfattats, för att ge en bild av omfattningen av det arbete som skulle krävas för att certifiera
 även dessa reningsverk
 
-2.  Kort sammanfattning
+2\.  Kort sammanfattning
 
 •  Kostnad för att vara med i Revaqsystemet beror på anslutning till reningsverket. 2024 var
 kostnaden 70 öre/år per PE ansluten till reningsverket. För Hammargård har slam från yttre
@@ -10025,7 +10025,7 @@ kan en certifieringsrevision hållas.
 •  Slam som produceras 4 veckor efter att certifieringsrevisionen har godkänts får spridas på
 åkermark
 •  Om det första månadsprovet tas ut i maj bedöms Revaqslam kunna produceras i november
-2025.
+2025\.
 
 Framtagande och upprätthållande av Revaqkvalitetssystem bör påbörjas så att systemet är på
 plats när certifieringsrevisionen hålls:
@@ -10833,7 +10833,7 @@ salmonellaprovtagning, framtagande av information till tillsynsmyndighet) inneb�
 som entreprenören kommer lägga på priset. Det ger dock en säkrare, och mer transparant hantering
 jämfört med om endast kraven i lagstiftningen följs.
 
-4.  Slamkvalitet
+4\.  Slamkvalitet
 En förutsättning för att det ska vara rimligt att Revaqcertifiera Kullavik och/eller Ölmanäs är att
 slammet håller sådan kvalitet att det kommer kunna spridas på åkermark. Årsmedelvärden av 6
 blandprover per år per reningsverk för de tre senaste årens slamprovtagningar från Kullavik, Lerkil
@@ -10860,7 +10860,7 @@ nd
 li
 e
 g
-:
+\:
 tidplan för att erhålla Revaqcertifiering på Ölmanäs och Kullavik skulle kunna se ut enligt
 K
 h
@@ -10909,7 +10909,7 @@ Sida 19 av 19
 avvikelser från certifieringsrevisionen
 •  Andra halvan av november: Revaqslam produceras
 
-6.  Övrigt
+6\.  Övrigt
 Kostnad för att vara med i Revaqsystemet beror på anslutning till reningsverket. 2024 var kostnaden
 70 öre/år per PE ansluten till reningsverket. För Hammargård har slam från yttre reningsverk
 tidigare räknats in i den anslutna belastningen, eftersom slammet har behandlats där. Detta
@@ -10986,10 +10986,10 @@ gälla.
 Sammanfattning av ärendet
 
 Den nya slamstrategin innebär inga stora förändringar utan förtydligar att:
-1. Slam från Kungsbackas avloppsreningsverk som sprids på åkermark ska ske på ett säkert sätt
+1\. Slam från Kungsbackas avloppsreningsverk som sprids på åkermark ska ske på ett säkert sätt
 genom att uppfylla certifieringskrav enligt Revaq.
 
-2. Teknik ska sträva efter att avloppsslammet från reningsverken i Kungsbacka ska vara av god
+2\. Teknik ska sträva efter att avloppsslammet från reningsverken i Kungsbacka ska vara av god
 kvalitet genom kontinuerligt förbättringsarbete så att lantbruket efterfrågar slammet som
 växtnäring och ser dess värde.
 En liten skillnad är att beskrivningen att ”Fosfor ska begränsa givan” har tagits bort eftersom detta är

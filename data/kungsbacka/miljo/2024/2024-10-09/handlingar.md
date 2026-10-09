@@ -1875,7 +1875,7 @@ ska även föra register över de tillsynsobjekt som behöver återkommande till
 behovsutredningen och registret ska tillsynsmyndigheten upprätta en samlad tillsynsplan för tillsynen
 enligt miljöbalken inför varje verksamhetsår. Behovsutredning, tillsynsplan och kontrollplan ska
 beslutas av nämnden. Tillsynsplan och kontrollplan kommer beslutas av nämnden den 5 december
-2025.
+2025\.
 Målet med behovsutredning och tillsynsplan är att det ska leda till en effektiv och ändamålsenlig
 tillsyn som bygger på prioriteringar utifrån nämndens uppdrag och den ska leda till en hållbar
 
@@ -2161,15 +2161,15 @@ Innehållsförteckning
 Sammanfattning ................................................................................................. 1
 Innehållsförteckning .......................................................................................... 5
 
-1. Inledning ..................................................................................................... 6
+1\. Inledning ..................................................................................................... 6
 
-2. Beskrivning av tillsynsuppdraget................................................................. 7
+2\. Beskrivning av tillsynsuppdraget................................................................. 7
 2.1 Tillsynsansvaret ................................................................................... 7
 
 2.2 Styrande dokument .............................................................................. 7
 2.3 Samverkan ..........................................................................................10
 
-3. Beskrivning av behovsutredningen .............................................................11
+3\. Beskrivning av behovsutredningen .............................................................11
 
 3.1 Förklaring av olika begrepp.................................................................11
 3.2 Förhållandet mellan behovsutredning, budgetarbete och tillsynsplan ...16
@@ -2179,8 +2179,8 @@ Innehållsförteckning .........................................................
 
 3.5 Behov av kompetensförsörjning ..........................................................18
 
-4. Resursbehov av övrig tid ............................................................................19
-5. Resursbehov av handläggningstid per verksamhetsområde .........................21
+4\. Resursbehov av övrig tid ............................................................................19
+5\. Resursbehov av handläggningstid per verksamhetsområde .........................21
 
 5.1 Miljöskydd ..........................................................................................21
 5.2 Förorenade områden ...........................................................................26
@@ -2195,13 +2195,13 @@ Innehållsförteckning .........................................................
 
 5.8 Servering- och försäljningsställen – Mölndal Stad ...............................43
 
-6. Resursbehov sammanställning ...................................................................44
+6\. Resursbehov sammanställning ...................................................................44
 
 Sida 5 av 46
 
 <!-- sida 68 -->
 
-1. Inledning
+1\. Inledning
 
 För att möjliggöra en god och korrekt myndighetsutövning har kommunfullmäktige
 och kommunstyrelsen ansvar för att se till att nämnden för Miljö & Hälsoskydd har
@@ -2265,7 +2265,7 @@ sammanställning av resursbehov och personaltillgångar mellan 2025–2027 som
 
 beskrivs i den här behovsutredningen.
 
-2. Beskrivning av tillsynsuppdraget
+2\. Beskrivning av tillsynsuppdraget
 
 2.1  Tillsynsansvaret
 
@@ -2394,7 +2394,7 @@ hälsosam miljö, Bästa företagsklimatet i Västsverige, I Kungsbacka utveckla
 hela livet, Ett medskapande samhälle och öppen attityd
 
 Kungsbacka kommunfullmäktige har också tagit fram ett direktiv till nämnderna
-2025. Nämnderna och kommunstyrelsen får i uppdrag att öka tempot med att
+2025\. Nämnderna och kommunstyrelsen får i uppdrag att öka tempot med att
 förnya verksamheten genom att:
 
 Bygga en kultur som inspirerar och tillåter experimenterande och testande,
@@ -2467,7 +2467,7 @@ bland annat livsmedelsinspektörer, hälsoskyddstillsyn, dricksvattenkontroll, s
 avlopp, strandskyddshandläggare och miljöchefer. Syftet är samsyn,
 erfarenhetsutbyte och ökad kompetens.
 
-3. Beskrivning av behovsutredningen
+3\. Beskrivning av behovsutredningen
 Detta stycke handlar om vilka resurser som finns tillgängliga i form av årsarbetare
 
 (heltid och deltid) och hur det beräknas samt övergripande förutsättningar för
@@ -2694,7 +2694,7 @@ som ska utföras i Kungsbacka. Det finns tillsynsområden som inte finns med i
 strategin där nämnden kommer visa riktningen inför kommande tillsynsplan.
 
 Tillsynsplanen kommer beslutas av nämnden under sammanträdet den 5 december
-2024.
+2024\.
 
 3.2  Förhållandet mellan behovsutredning, budgetarbete och
 tillsynsplan
@@ -2829,7 +2829,7 @@ Nya arbetsuppgifter inom nya lagstiftningsområden gör att personal kan komma a
 behöva mer utbildning den närmsta perioden för att kunna arbeta inom andra
 områden.
 
-4. Resursbehov av övrig tid
+4\. Resursbehov av övrig tid
 Beskrivning av området
 Övrig tid, är sådan tid som inte är direkt handläggningstid men som behövs för att
 verksamheten ska fungera. Det beskrivs närmare i avsnitt 3.1
@@ -2931,7 +2931,7 @@ Sammanställning av resursbehov – Övrig tid
 Behovet uppskattas för 2025 till 630 timmar per heltid. Det innebär i sin tur att
 handläggningstiden per heltid blir 970 timmar per handläggare.
 
-5. Resursbehov av handläggningstid per verksamhetsområde
+5\. Resursbehov av handläggningstid per verksamhetsområde
 
 I detta avsnitt redovisas resursbedömningen per verksamhetsområde.
 Redovisningen är indelad i följande övergripande verksamhetsområden:
@@ -3274,7 +3274,7 @@ I behovet ingår hela hanteringen av objektet, det vill säga all tillsynstid so
 från initiering tills dess att objektet kan anses vara slutligt åtgärdat. Tillsynen delas
 in i fyra faser: initieringsfas, utredningsfas, åtgärdsfas och uppföljningsfas, se tabell
 
-4.
+4\.
 
 Kungsbacka kommun har för närvarande 30 prioriterade förorenade områden
 (riskklass 1 eller 2). Varav två objekt är riskklass 1 och 28 objekt är riskklass 2.
@@ -3808,7 +3808,7 @@ Livsmedelsverksamheter kontrolleras regelbundet. Kontrollen ska vara riskbaserad
 
 ändamålsenlig och likvärdig för alla verksamheter.
 Livsmedelsverket har tagit fram en riskklassningsmodell som används från och med
-2024. Syftet är att livsmedelskontrollerna ska utföras i de led i livsmedelskedjan där
+2024\. Syftet är att livsmedelskontrollerna ska utföras i de led i livsmedelskedjan där
 
 den är mest effektiv. Reglerna ska ta hänsyn till kända risker kopplade till varor och
 verksamheter samt ska ge tydligare information och undvika att vilseleda
@@ -4095,7 +4095,7 @@ Styrd Händelsestyrd Behovsprioriterad
 
 Figur 13. Figuren visar resursbehovet för servering 2025–2027 för Mölndal Stad.
 
-6. Resursbehov sammanställning
+6\. Resursbehov sammanställning
 
 Behovsutredningen omfattar en period på tre år. För att få en någorlunda jämn
 resursfördelning mellan åren och därmed lättare kunna planera eventuell
@@ -4308,7 +4308,7 @@ dispens från kraven på utsortering av bioavfall föreligger skäl att åter de
 denna punkt till förvaltningschefen. Punkten 34.4 i delegeringsförteckningen avseende möjligheten att
 meddela dispens emot eldning av trädgårds- eller parkavfall berörs däremot av initiativbeslut 2024-04-
 
-11. Med beaktande av att eldning av trädgårds- eller parkavfall inte bedöms vara förbjudet eller kräva
+11\. Med beaktande av att eldning av trädgårds- eller parkavfall inte bedöms vara förbjudet eller kräva
 dispens i enskilda fall föreligger inte heller anledning att delegera beslutanderätten enligt denna punkt
 till förvaltningschefen. Nämnden föreslås sålunda fatta beslut gällande dispens i enskilda ärenden på
 egen hand, i den mån frågan om dispens enligt p. 34.4 aktualiseras.

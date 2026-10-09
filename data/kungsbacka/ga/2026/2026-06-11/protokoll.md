@@ -306,10 +306,10 @@ lärare och andra verksamma inom gymnasieskolan och den anpassade
 
 gymnasieskolan. Dialog och gemensamt lärande är centralt i den nya strukturen som
 utgörs av två teman:
-* Trygghet och stöd: Uppföljning av trygghet, studiero samt om eleverna får det stöd
+\* Trygghet och stöd: Uppföljning av trygghet, studiero samt om eleverna får det stöd
 som de behöver.
 
-* Stimulans, framtid och resultat: Uppföljning av kunskapsresultat, ledning och
+\* Stimulans, framtid och resultat: Uppföljning av kunskapsresultat, ledning och
 stimulans i undervisningen samt hur väl förberedda eleverna är för framtida arbetsliv
 och/eller studier.
 

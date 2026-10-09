@@ -117,7 +117,7 @@ Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 4 -->
 
-1. Bakgrund   och syfte
+1\. Bakgrund   och syfte
 
 Socialstyrelsens föreskrifter och allmänna råd om ledningssystem för systematiskt
 kvalitetsarbete, ställer krav på att verksamheten systematiskt utvecklar och säkrar
@@ -134,9 +134,9 @@ Riskanalys handlar om att systematiskt använda sig av tillgänglig information 
 beskriva och beräkna risker i verksamheten. Med riskanalys som underlag kan
 adekvata åtgärder vidtas i syfte att minimera dessa risker.
 
-2. Definitioner och begrepp
+2\. Definitioner och begrepp
 
-3. Genomförande
+3\. Genomförande
 
 3.1 Vad kan riskanalysen omfatta?
 
@@ -209,7 +209,7 @@ genom intervjuer eller workshops.
 Om riskanalysen genomförs på individnivå så ska den enskilde, och eventuellt
 dennes anhöriga, erbjudas att vara delaktig i riskanalysen.
 
-4. Uppföljning
+4\. Uppföljning
 
 Riskanalyser sammanställs och följs upp av chef på respektive nivå två gånger per
 år, delår och helår. Förvaltningsövergripande resultat redovisas i patientsäkerhets-
@@ -217,7 +217,7 @@ och kvalitetsberättelsen och kommer på så sätt nämnden till kännedom.
 Riktlinjen följs upp av nämnd inom ramen för det årliga antagandet av
 kvalitetsberättelse.
 
-5. Styrdokument
+5\. Styrdokument
 
 Socialstyrelsens föreskrifter och allmänna råd SOSFS 2011:9 om ledningssystem
 för systematiskt kvalitetsarbete.
@@ -318,7 +318,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 10 -->
 
-1. Bakgrund   och syfte
+1\. Bakgrund   och syfte
 
 Egenkontroll innebär att den egna verksamheten systematiskt följs upp och
 utvärderas samt kontroll av att den bedrivs enligt de processer och riktlinjer som
@@ -332,7 +332,7 @@ Innehållet i egenkontroll kan till exempel innefatta jämförelser av verksamhe
 resultat med nationella undersökningar, målgruppsundersökningar,
 dokumentationsgranskningar och stickprov av följsamhet till processer och rutiner.
 
-2. Genomförande
+2\. Genomförande
 
 Förvaltningens egenkontroll består av två delar. Dels egenkontroller som beslutas
 på förvaltningsövergripande nivå, och som är obligatoriska för de verksamheter som
@@ -357,7 +357,7 @@ verksamhetens kvalitet. Om verksamheten bedömer att ingen kontroll är nödvän
 utöver den av förvaltningsledningen beslutade egenkontrollen, så kan verksamheten
 avstå.
 
-3. Externa utförare
+3\. Externa utförare
 Enligt Socialstyrelsen ska den som bedriver socialtjänst ha ett ledningssystem för
 systematiskt kvalitetsarbete i (SOSFS 2011:9). Med ”den som bedriver socialtjänst”
 
@@ -381,7 +381,7 @@ av resultat från egenkontroller i externa utförares regi sker i samband med
 nämndens antagande av patientsäkerhets- och kvalitetsberättelse och vid ordinarie
 avtalsuppföljning om så bedöms lämpligt och adekvat.
 
-4. Uppföljning
+4\. Uppföljning
 
 Uppföljning av egenkontroll sker i delårs- och helårsredovisning av
 patientsäkerhetsberättelse och kvalitetsberättelse och resultatet från dem kommer
@@ -390,7 +390,7 @@ på så sätt nämnden till kännedom.
 Denna riktlinje följs upp inom ramen för nämndens årliga antagande av
 patientsäkerhets- och kvalitetsberättelse.
 
-5. Styrdokument
+5\. Styrdokument
 
 Socialstyrelsens föreskrift (SOSFS 2011:9) om ledningssystem för ett systematiskt
 kvalitetsarbete.
@@ -504,7 +504,7 @@ Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 15 -->
 
-1. Bakgrund   och syfte
+1\. Bakgrund   och syfte
 
 Verksamheter som bedrivs enligt socialtjänstlagen (SoL), lagen om stöd och service
 till vissa funktionshindrade (LSS) och/eller hälso- och sjukvårdslagen (HSL) ska ha
@@ -527,9 +527,9 @@ och sjukvårdens område. När en händelse rapporteras ska den som bedriver
 socialtjänst eller ansvarig vårdgivare utreda beroende på vad som inträffat. Syftet
 med utredningen ska vara att:
 
-1. så långt som möjlighet klarlägga händelseförloppet och vilka faktorer som
+1\. så långt som möjlighet klarlägga händelseförloppet och vilka faktorer som
 påverkat det, samt
-2. ge underlag för beslut om åtgärder som syftar att hindra att liknande
+2\. ge underlag för beslut om åtgärder som syftar att hindra att liknande
 händelser inträffar igen, eller begränsar effekten av sådana händelser om
 de inte helt går att förhindra.
 
@@ -537,7 +537,7 @@ Om händelsen inträffat inom socialtjänstens område och fått konsekvenser/ha
 kunnat få konsekvenser för den enskildes liv, säkerhet, fysiska eller psykiska hälsa
 så ska de rapporteras och utredas som missförhållanden enligt lex Sarah.
 
-2. Definitioner
+2\. Definitioner
 
 [Tabell 15-1](handlingar.tabeller/15-1.csv)
 
@@ -548,7 +548,7 @@ så ska de rapporteras och utredas som missförhållanden enligt lex Sarah.
 
 <!-- sida 16 -->
 
-3. Genomförande
+3\. Genomförande
 
 Händelsen rapporteras i det digitala verktyget för händelserapportering. Enhetschef
 för den verksamhet som händelsen berör ansvarar för att utreda händelsen med
@@ -567,7 +567,7 @@ ständigt förbättra och utveckla verksamheten. Inkomna rapporter sammanställs
 analyseras för att nämnden ska kunna se mönster eller trender som indikerar brister
 i verksamhetens kvalitet.
 
-4. Externa utförare
+4\. Externa utförare
 
 Enligt nämnden för Vård & Omsorgs avtal med externa utförare så rapporterar
 externa utförare händelser i kommunens digitala verktyg för händelserapportering.
@@ -581,7 +581,7 @@ för ställningstagande till eventuell anmälan enligt lex Maria.
 Brister inom socialtjänsten eller lex Sarah utreds av den externa utföraren själv som
 även tar ställning till eventuell anmälan enligt lex Sarah.
 
-5. Sammanställning    och analys
+5\. Sammanställning    och analys
 
 Enhets- och verksamhetschefer sammanställer rapporterade händelser och
 analyserar dessa två gånger per år. Deras arbete utgör underlag för den
@@ -599,12 +599,12 @@ helårsuppföljningar inom ramen för patientsäkerhets- och kvalitetsberättels
 Rapporterade händelser och tillhörande analys av dessa, redovisas på så sätt till
 nämnden två gånger per år.
 
-6. Uppföljning
+6\. Uppföljning
 
 Riktlinjen följs upp inom ramen för det årliga antagandet av patientsäkerhets- och
 kvalitetsberättelse.
 
-7. Styrdokument
+7\. Styrdokument
 
 Socialstyrelsens föreskrifter och allmänna råd (SOSFS 2011:9) om ledningssystem
 för ett systematiskt kvalitetsarbete
@@ -714,7 +714,7 @@ Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 21 -->
 
-1. Bakgrund   och syfte
+1\. Bakgrund   och syfte
 
 Vårdgivaren har en skyldighet att bedriva ett systematiskt patientsäkerhetsarbete
 med hög patientsäkerhet inom verksamheten, för att minimera risker och förhindra
@@ -729,9 +729,9 @@ Nämnden för Vård & Omsorg har delegerat till medicinskt ansvariga att utreda
 allvarliga händelser inom hälso- och sjukvården samt bedöma om en anmälan enligt
 lex Maria ska upprättas och skickas till Inspektionen för vård och omsorg, IVO.
 
-2. Definitioner
+2\. Definitioner
 
-3. Genomförande
+3\. Genomförande
 
 Visar utredningen att händelsen beror på brister i verksamheten och att
 konsekvenserna blivit allvarliga eller risken för konsekvenser är allvarliga ska en
@@ -771,12 +771,12 @@ om beslut från IVO.
 Sammanställning av antal lex Mariaanmälningar sker i patientsäkerhetsberättelse
 två gånger per år.
 
-4. Uppföljning
+4\. Uppföljning
 
 Riktlinjen följs upp inom ramen för det årliga antagandet av patientsäkerhets- och
 kvalitetsberättelse.
 
-5. Styrdokument
+5\. Styrdokument
 
 Inspektionen för vård och omsorgs föreskrifter om anmälan av händelser som har
 medfört eller kunnat medföra en allvarlig vårdskada (lex Maria), HSLF-FS 2017:41
@@ -876,7 +876,7 @@ Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 26 -->
 
-1. Bakgrund   och syfte
+1\. Bakgrund   och syfte
 
 Den som bedriver socialtjänst ska systematiskt och fortlöpande utveckla och säkra
 verksamhetens kvalitet. Syftet med lex Sarah-bestämmelserna är att bidra till att den
@@ -889,20 +889,20 @@ Alla medarbetare är skyldiga att delta i kvalitetsarbetet och att rapportera
 missförhållanden, och påtagliga risker för missförhållanden, enligt lex Sarah.
 Rapporteringsskyldigheten inträder när följande förutsättningar konstateras eller
 misstänks.
-1. Missförhållandet har inträffat i den egna verksamheten
+1\. Missförhållandet har inträffat i den egna verksamheten
 
-2. Missförhållandet berör någon som får eller kan komma i fråga för insatser inom
+2\. Missförhållandet berör någon som får eller kan komma i fråga för insatser inom
 den egna verksamheten
 
-3. Någon har utfört handlingar eller genom försummelse eller av annat skäl
+3\. Någon har utfört handlingar eller genom försummelse eller av annat skäl
 underlåtit att utföra handlingar.
-4. Det inträffade har medfört konsekvenser för, eller inneburit ett hot mot, enskildas
+4\. Det inträffade har medfört konsekvenser för, eller inneburit ett hot mot, enskildas
 liv, säkerhet eller fysiska eller psykiska hälsa.
 
 Nämnden som har ansvar för verksamheten ska fastställa rutiner för att säkerställa
 att bestämmelserna enligt lex Sarah uppfylls.
 
-2. Definitioner och begrepp
+2\. Definitioner och begrepp
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
@@ -913,7 +913,7 @@ att bestämmelserna enligt lex Sarah uppfylls.
 
 <!-- sida 27 -->
 
-3. Genomförande
+3\. Genomförande
 
 3.1 Rapportering
 Alla som arbetar på förvaltningen för Vård & Omsorg ska genast lex Sarah-
@@ -1016,7 +1016,7 @@ delegeringsförteckning.
 
 <!-- sida 29 -->
 
-4. Externa utförare
+4\. Externa utförare
 
 Enligt Socialstyrelsen ska den som bedriver socialtjänst ha ett ledningssystem för
 systematiskt kvalitetsarbete i (SOSFS 2011:9) om ledningssystem för systematiskt
@@ -1035,12 +1035,12 @@ Externa utförare ska informera SAS om samtliga lex Sarah-rapporter och eventuel
 anmälningar om allvarliga missförhörhållanden/påtagliga risker för missförhållanden
 till IVO. SAS ansvarar för att föra informationen vidare till nämnd.
 
-5. Uppföljning
+5\. Uppföljning
 
 Riktlinjen följs upp av nämnd inom ramen för det årliga antagandet av
 kvalitetsberättelse.
 
-6. Styrdokument
+6\. Styrdokument
 
 Socialtjänstlagen 14 kap. 3-6 §§ och Lagen om stöd och service till vissa
 funktionshindrade 24 b § om skyldigheten att rapportera och utreda samt avhjälpa
@@ -1090,9 +1090,9 @@ funktionsupphandling underställs nämnden i december.
 
 Utredningen om driftsformer inom särskilt boende fokuserar på tre frågor.
 
-1. Vad innebär de olika driftsformerna inom särskilt boende?
-2. Vilka förutsättningar krävs för de olika driftsformerna?
-3. Vilka konsekvenser kan förväntas med respektive driftsform?
+1\. Vad innebär de olika driftsformerna inom särskilt boende?
+2\. Vilka förutsättningar krävs för de olika driftsformerna?
+3\. Vilka konsekvenser kan förväntas med respektive driftsform?
 
 Utredningen visar att rådighet över fastigheter är direkt avgörande för vilka driftsformer som kan
 användas. För att privata aktörer ska kunna ingå i ett valfrihetssystem enligt LOV, eller sälja platser
@@ -1193,12 +1193,12 @@ valfrihetssystem enligt LOV eller vinna en offentlig upphandling enligt LOU, ant
 verksamhet (s.k. driftentreprenad) eller enstaka platser genom ramavtal.2
 Sammantaget finns därmed fyra tänkbara driftsformer för SÄBO.
 
-1. Egenregi
+1\. Egenregi
 
-2. Driftentreprenad enligt LOU
-3. Ramavtal anseende enstaka platser enligt LOU
+2\. Driftentreprenad enligt LOU
+3\. Ramavtal anseende enstaka platser enligt LOU
 
-4. Valfrihetssystem enligt LOV
+4\. Valfrihetssystem enligt LOV
 I Kungsbacka kommun tillämpas för närvarande två av dessa för SÄBO, här benämnda vård- och
 omsorgsboende (hädanefter: VÅBO): egenregi (tio st.) och driftentreprenad enligt LOU (två st).
 
@@ -1227,11 +1227,11 @@ kontinuerligt ska pröva och ta ställning till i vilken form deras verksamhet s
 
 Föreliggande rapport syftar till att ge nämnden den information som behövs för att fatta beslut om
 driftsformer inom VÅBO. För att uppnå syftet ska utredningen besvara tre frågor:
-1. Vad innebär de olika driftsformerna?
+1\. Vad innebär de olika driftsformerna?
 
-2. Vilka förutsättningar krävs för att de olika driftsformerna ska kunna användas?
+2\. Vilka förutsättningar krävs för att de olika driftsformerna ska kunna användas?
 
-3. Vilka konsekvenser, såväl önskvärda som icke önskvärda, kan förväntas med respektive
+3\. Vilka konsekvenser, såväl önskvärda som icke önskvärda, kan förväntas med respektive
 driftsform?
 
 1.2 Metod
@@ -1354,10 +1354,10 @@ angelägenheter till privata utförare.7 Med privat utförare avses en juridisk 
 som mottagit uppdraget om skötseln av en kommunal angelägenhet. Kommunen kan överlämna
 uppdrag att tillhandahålla VÅBO på tre sätt:
 
-1. Driftentreprenad upphandlad enligt LOU (”Driftentreprenad”)
-2. Köp av platser genom ramavtal upphandlat enligt LOU (”Ramavtal”)
+1\. Driftentreprenad upphandlad enligt LOU (”Driftentreprenad”)
+2\. Köp av platser genom ramavtal upphandlat enligt LOU (”Ramavtal”)
 
-3. Valfrihetssystem enligt LOV (LOV)
+3\. Valfrihetssystem enligt LOV (LOV)
 De olika driftformerna kräver olika förutsättningar och svarar mot olika behov och önskemål. En
 direkt avgörande förutsättning för vilken driftform som är möjlig, är vem (kommun eller privat aktör)
 som har rådighet över fastigheter som inrymmer VÅBO. Med ”rådighet över fastigheter” menas att
@@ -1520,12 +1520,12 @@ Själva syftet med LOV är att den enskilde ska ges möjlighet att välja utför
 vill, och ersättningen till utföraren följer den enskildes val. Till skillnad från driftentreprenad, som
 
 har en strikt tvåpartsrelation mellan beställare och utförare, finns i LOV tre parter:
-1. Kommunen. Beviljar insats, godkänner utförare och följer upp och utvärderar att utförare
+1\. Kommunen. Beviljar insats, godkänner utförare och följer upp och utvärderar att utförare
 följer avtal.
 
-2. Den enskilde. Väljer utförare och byter utförare om hen inte längre är nöjd utförare av någon
+2\. Den enskilde. Väljer utförare och byter utförare om hen inte längre är nöjd utförare av någon
 anledning.
-3. Utföraren. Utför avtalade uppgifter.
+3\. Utföraren. Utför avtalade uppgifter.
 
 I ett valfrihetssystem enligt LOV så måste kommunen ange ett i förväg bestämt ”ickevals-alternativ”.
 Man behöver också inrätta någon typ av ”omsorgslots”, som kan guida omsorgstagare bland de olika
@@ -1754,7 +1754,7 @@ Kungsbacka kommun            Rapportmall                       16
 | Driftsansvar | Kommunen | Privat aktör | Privat aktör | Privat aktör |
 | Arbetsgivaransvar | Kommunen | Privat aktör | Privat aktör | Privat aktör |
 | Huvudmannaskap | Kommunen | Kommunen | Kommunen | Privat aktör |
-| Avtalslängd | Ej relevant19 | Max 4+4 år | Längre,<br><tillsvidare | Max 4 år |
+| Avtalslängd | Ej relevant19 | Max 4+4 år | Längre,<br>\<tillsvidare | Max 4 år |
 | Lagrum för upphandling | Ej relevant | LOU | LOV | LOU |
 | (Grovt uppskattad) Kostnad | Medel | Lägst | Medel | Högst |
 
@@ -2064,7 +2064,7 @@ Trelleborgs kommun, ”Tjänsteskrivelse LOV”, 2020-02-25.
 Trelleborgs kommun, ”Införande av LOV i särskilt boende inom äldrevården.”, 2020.
 
 Uppsala kommun, ”Förfrågningsunderlag för särskilt boende i Uppsala kommuns valfrihetssystem”,
-2021.
+2021\.
 Uppsala kommun, ”Översyn av boendeformer inom äldreomsorgen”, 2022. Dnr. ALN-2021-00414.
 
 Vårdföretagarna. ”RAPPORT Privata aktörer som bygger och driver särskilda boenden”, 2022.
@@ -2117,7 +2117,7 @@ som uppkommer i verksamheten. Genomgången bör resultera i en plan över vilka
 verksamheter som kan konkurrensutsättas.
 Nämnden för Vård & Omsorg har en konkurrensutsättningsplan som fastställdes vid
 sammanträde 2023-12-14 och som gäller till och med 2026-12-31, dnr VO 2023–
-00265.
+00265\.
 
 Konkurrensutsättningsplanen utgör en inventering av nämndens verksamheter. Vilka
 obligatoriska respektive frivilliga verksamheter som finns inom nämndens ansvar,
@@ -2291,7 +2291,7 @@ Förslag till beslut i nämnden för Vård & Omsorg
 Nämnden för Vård & Omsorg antar Nämndbudget 2025.
 
 Nämnden för Vård & Omsorg uppdrar åt förvaltningschefen att upprätta förvaltningsbudget för år
-2025.
+2025\.
 
 Nämnden för Vård & Omsorg uppdrar åt förvaltningschefen att göra nödvändiga omfördelningar i
 förvaltningsbudgeten under året samt att informera nämnden om dessa i samband med delårsbokslut
@@ -2662,7 +2662,7 @@ Nämndens omvärldsanalys
 Framtidens vård och omsorg står inför stora utmaningar inte minst på grund av en åldrande befolkning, men
 också ökade krav på kvalitet och tillgänglighet. Detta gäller för alla Sveriges kommuner. Andelen i
 åldersgruppen 80 år och äldre kommer utifrån dagens nivåer öka med cirka 40 procent i Kungsbacka fram till
-2033. Detta samtidigt som gruppen i arbetsför ålder endast ökar med cirka 10 procent.För att möta dessa
+2033\. Detta samtidigt som gruppen i arbetsför ålder endast ökar med cirka 10 procent.För att möta dessa
 utmaningar krävs nya arbetssätt och innovativa lösningar som kan frigöra de “varma händerna” och säkerställa
 att kompetensen används där den behövs som mest.
 
@@ -2729,10 +2729,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 10
 
@@ -2760,7 +2760,7 @@ Fokusområde
 Nämndmålet är kopplat till fokusområdet "I Kungsbacka är man trygg och får en god omsorg när man behöver
 stöd för att få livet att fungera"
 
-*Andel som svarat "Ja, ofta" på frågan: "Brukar du träffa din fasta omsorgskontakt i hemtjänsten? i Socialstyrelsens årliga
+\*Andel som svarat "Ja, ofta" på frågan: "Brukar du träffa din fasta omsorgskontakt i hemtjänsten? i Socialstyrelsens årliga
 undersökning ”Vad tycker de äldre om äldreomsorgen?”
 
 5.1.2 Upplevelsen av ensamhet bland äldre i Kungsbacka som får insatser av förvaltningen
@@ -2787,7 +2787,7 @@ de äldre om äldreomsorgen?”
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
 | Personalkontinuitet, antal personal som en<br>hemtjänstmottagare möter under 14 dagar,<br>medelvärde, egenregi | 17,9 | 19 | 18,4 |  |
-| Fast omsorgskontakt inom hemtjänsten* | - | - | 21 % | 30 % |
+| Fast omsorgskontakt inom hemtjänsten\* | - | - | 21 % | 30 % |
 
 [Tabell 70-3](handlingar.tabeller/70-3.csv)
 
@@ -2807,11 +2807,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 12
 
@@ -2839,8 +2839,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 13
@@ -2885,8 +2885,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.4.1 Vård-och omsorgstagare i Kungsbacka kommun har en upplevd god hälsa och blir
 stärkta i fallpreventiva åtgärder
@@ -2927,12 +2927,12 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 5.5.1 Medarbetare hos Vård & Omsorg får den kompetensutveckling som krävs för arbetet
 och kan utvecklas genom vidareutbildning
@@ -3127,9 +3127,9 @@ Fritid öka utbudet av aktiviteter på särskilda boenden
 Beslutats av
 Nämnd
 
-*Andel som svarat "Mycket nöjd/Ganska nöjd" på frågan "Hur nöjd eller missnöjd är du med de aktiviteter som erbjuds på ditt
+\*Andel som svarat "Mycket nöjd/Ganska nöjd" på frågan "Hur nöjd eller missnöjd är du med de aktiviteter som erbjuds på ditt
 äldreboende?" i Socialstyrelsens årliga undersökning ”Vad tycker de äldre om äldreomsorgen?”
-**Andel som svarat "Ja, ofta" på frågan: "Händer det att du besväras av ensamhet?" i Socialstyrelsens årliga undersökning ”Vad tycker
+\*\*Andel som svarat "Ja, ofta" på frågan: "Händer det att du besväras av ensamhet?" i Socialstyrelsens årliga undersökning ”Vad tycker
 de äldre om äldreomsorgen?”
 
 19
@@ -3138,8 +3138,8 @@ de äldre om äldreomsorgen?”
 
 | Indikator | Utfall 2024 | Målsättning 2025 |
 | --- | --- | --- |
-| Boende är nöjda med de aktiviteter som<br>erbjuds på vård- och omsorgsboende* | 52% | Öka |
-| Upplevd ensamhet bland äldre på vård-och<br>omsorgsboende** | 17% | Minska |
+| Boende är nöjda med de aktiviteter som<br>erbjuds på vård- och omsorgsboende\* | 52% | Öka |
+| Upplevd ensamhet bland äldre på vård-och<br>omsorgsboende\*\* | 17% | Minska |
 
 <!-- sida 79 -->
 

@@ -247,7 +247,7 @@ driftsbudget för 2024 på 180 000 kronor. Eftersom nämnden inte har någon
 resultatfond eller projekt som kan ombudgeteras begär nämnden följande
 resultatdisponering:
 
-* Överskott för driftsbudget, 180 000 kronor, återredovisas till kommunstyrelsen.
+\* Överskott för driftsbudget, 180 000 kronor, återredovisas till kommunstyrelsen.
 
 Beslutsunderlag
 
@@ -680,7 +680,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 Tina Carlson, verksamhetschef, ger nämnden en uppföljning av tillsynsplanen för
-2024. Nämnden för Miljö & Hälsoskydd har fattat beslut om behovsutredning,
+2024\. Nämnden för Miljö & Hälsoskydd har fattat beslut om behovsutredning,
 tillsynsplan och kontrollplan. För att säkerställa att tillsynen utförs enligt plan följs
 tillsynsarbetet upp och utvärderas inom de olika lagstiftningsområdena. Tillsynen för
 2024 har följts upp kvartalsvis och nämnden har fått information löpande under året.

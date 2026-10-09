@@ -402,13 +402,13 @@ behörighetsroll, med mera.
 
 Valnämnden behöver därför fatta beslut om:
 
-- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
+\- Vilka som ska vara behörighetsadministratörer i Valid. Det får finnas max fyra
 behörighetsadministratörer i varje kommun. Dessa kan i sin tur lägga till och ta bort
 behörighetsroller för kommunens övriga användare.
-- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen
+\- Vilka av behörighetsadministratörerna som också ska ha rollen inskrivare. Rollen
 inskrivare krävs för att kunna lägga till och ta bort användare i Valid.
 
-- Vilka som ska utses till lokala skyddsadministratörer (L-SKYAD) som har
+\- Vilka som ska utses till lokala skyddsadministratörer (L-SKYAD) som har
 behörighet att efterregistrera förtidsröster för väljare med skyddade personuppgifter.
 Högst två personer får utses.
 
@@ -468,7 +468,7 @@ Beslut
 
 Valnämnden beslutar att ett halvt sammanträdesarvode ska utgå till de ledamöter och
 ersättare i valnämnden som deltar i utbildning för röstmottagare inför allmänna val
-2026.
+2026\.
 
 Sammanfattning av ärendet
 Valsamordnare Kristina Gudmundson informerar om utbildning för röstmottagare.
@@ -554,30 +554,30 @@ Sammanfattning av ärendet
 
 Under perioden 30 januari - 7 maj har följande skrivelser inkommit till valnämnden:
 
-- Valmyndighetens nyhetsutskick v.19
-- MFD, Så förbereder ni röstmottagare för ett tillgängligt val
+\- Valmyndighetens nyhetsutskick v.19
+\- MFD, Så förbereder ni röstmottagare för ett tillgängligt val
 
-- Valmyndighetens nyhetsutskick v.18
-- Valmyndighetens nyhetsutskick v.17
+\- Valmyndighetens nyhetsutskick v.18
+\- Valmyndighetens nyhetsutskick v.17
 
-- Valmyndighetens nyhetsutskick v.16
-- Valmyndighetens nyhetsutskick v.15
+\- Valmyndighetens nyhetsutskick v.16
+\- Valmyndighetens nyhetsutskick v.15
 
-- Valmyndighetens nyhetsutskick v.14
-- Valmyndighetens nyhetsutskick v.13
+\- Valmyndighetens nyhetsutskick v.14
+\- Valmyndighetens nyhetsutskick v.13
 
-- Valmyndighetens nyhetsbrev v. 10
-- Protokollsutdrag Kommunfullmäktige 2026-03-03 §38
+\- Valmyndighetens nyhetsbrev v. 10
+\- Protokollsutdrag Kommunfullmäktige 2026-03-03 §38
 
-- Valmyndighetens nyhetsbrev v. 10
-- Valmyndighetens nyhetsbrev v. 9
+\- Valmyndighetens nyhetsbrev v. 10
+\- Valmyndighetens nyhetsbrev v. 9
 
-- Valmyndighetens nyhetsbrev v. 8
+\- Valmyndighetens nyhetsbrev v. 8
 
-- Valmyndighetens nyhetsbrev v. 7
-- Protokollsutdrag Kommunfullmäktige 2026-02-03 §17
+\- Valmyndighetens nyhetsbrev v. 7
+\- Protokollsutdrag Kommunfullmäktige 2026-02-03 §17
 
-- Protokollsutdrag Kommunfullmäktige 2026-02-03 §16
+\- Protokollsutdrag Kommunfullmäktige 2026-02-03 §16
 
 Beslutsgång
 

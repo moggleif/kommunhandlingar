@@ -176,12 +176,12 @@ Nämnden för Teknik beslutar att anta förslag till ramar för 2026, enligt fö
 skickar dessa vidare till Kommunfullmäktige för fastställande, belopp i prisnivå
 2025:
 
--  Skattefinansierad verksamhet 76 500 000 kr
--  Vatten och Avlopp 350 000 000 kr exklusive Hammargårds reningsverk
+\-  Skattefinansierad verksamhet 76 500 000 kr
+\-  Vatten och Avlopp 350 000 000 kr exklusive Hammargårds reningsverk
 (FAR)
 
--  Avfall och Återvinning 59 000 000kr
--  Kungsbacka bredbandsnät 22 000 000 kr
+\-  Avfall och Återvinning 59 000 000kr
+\-  Kungsbacka bredbandsnät 22 000 000 kr
 
 Nämnden för Teknik beslutar att anta förslag till ramar för utgiftsområden för 2026-
 2030 med utblick mot 2031-2035 enligt följande och skickar dessa vidare till
@@ -268,11 +268,11 @@ Beslut
 Nämnden för Teknik beslutar att fastställa procentuell fördelning mellan
 underportföljer inom respektive ekonomi i enlighet med nedan indelning:
 
--  Cykelkommun 26%
--  Kommunens vägnät 6%
+\-  Cykelkommun 26%
+\-  Kommunens vägnät 6%
 
--  Attraktiva staden 10%
--  Reinvesteringar 35%
+\-  Attraktiva staden 10%
+\-  Reinvesteringar 35%
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: D42E9988EECD023DACC3C1FB49F302CC10CC72B14B
@@ -285,21 +285,21 @@ Nämnden för Teknik
 Datum
 2025-01-22
 
--  Skog och park 3%
--  Maskiner och utrustning 20%
+\-  Skog och park 3%
+\-  Maskiner och utrustning 20%
 
 Nämnden för Teknik beslutar att förlägga följande projekt till utblicksperioden.
 Nämnden återkommer i senare budgetar med en prioritering mellan samtliga projekt
 när information om tidplan och kostnad är utredd i förstudier för följande fyra
 projekt:
 
--  ombyggnation av väg 940 (nuvarande Onsalaväg)
--  utbyggnation av Arendalsleden till fyra körfält, delen Varlavägen -
+\-  ombyggnation av väg 940 (nuvarande Onsalaväg)
+\-  utbyggnation av Arendalsleden till fyra körfält, delen Varlavägen -
 Göteborgsvägen
 
--  utbyggnation av Kungsgatan till fyra körfält/ kollektivtrafikkörfält, delen
+\-  utbyggnation av Kungsgatan till fyra körfält/ kollektivtrafikkörfält, delen
 Kungsgatan - Onsalavägen
--  utbyggnation av Varlavägen till fyra körfält delen Tölö tvärled -
+\-  utbyggnation av Varlavägen till fyra körfält delen Tölö tvärled -
 Arendalsleden
 
 Sammanfattning av ärendet
@@ -744,27 +744,27 @@ Sammanfattning av ärendet
 Under perioden 6 december och 15 januari inkom följande skrivelser till nämnden
 för Teknik:
 
-- Kungsbacka kommun - Följebrev granskning interna kontroller oegentligheter_IF
+\- Kungsbacka kommun - Följebrev granskning interna kontroller oegentligheter_IF
 TE
-- Granskning av kontroller för oegentligheter - slutlig version
+\- Granskning av kontroller för oegentligheter - slutlig version
 
-- Medborgardialog - Otrygghet pga trafik i Kolla
-- Beslut - 202400478 - KS - § 161
+\- Medborgardialog - Otrygghet pga trafik i Kolla
+\- Beslut - 202400478 - KS - § 161
 
-- Trafikförsörjningsprogram 2025 KF 2024-12-12 § 161
-- Tjänsteskrivelse - Antagande av Trafikförsörjningsprogram för särskild
+\- Trafikförsörjningsprogram 2025 KF 2024-12-12 § 161
+\- Tjänsteskrivelse - Antagande av Trafikförsörjningsprogram för särskild
 kollektivtrafik 2025
 
-- Beslut - 202400300 - KS - § 165
+\- Beslut - 202400300 - KS - § 165
 
-- Avfallstaxa 2025 KF 2024-12-12 § 165
-- Tjänsteskrivelse - Taxa för avfall 2025
+\- Avfallstaxa 2025 KF 2024-12-12 § 165
+\- Tjänsteskrivelse - Taxa för avfall 2025
 
-- Beslut - 202400050 - KS - § 166
-- Redovisning av icke färdigberedda motioner
+\- Beslut - 202400050 - KS - § 166
+\- Redovisning av icke färdigberedda motioner
 
-- Tjänsteskrivelse - Redovisning av icke färdigberedda motioner (2, 2024)
-- Beslut - 202400832 - KS - § 180
+\- Tjänsteskrivelse - Redovisning av icke färdigberedda motioner (2, 2024)
+\- Beslut - 202400832 - KS - § 180
 
 Beslutsgång
 Ordföranden (L) prövar om nämnden för Teknik kan notera redovisningen av
@@ -792,12 +792,12 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om bland annat:
 
--  En invasiv köttätande mask har funnits i Halland
--  Teknikförvaltningens deltagande på Kungsbacka live vecka 2
+\-  En invasiv köttätande mask har funnits i Halland
+\-  Teknikförvaltningens deltagande på Kungsbacka live vecka 2
 
--  Nämnden för Tekniks kommande resultatdag som syftar till att utvärdera
+\-  Nämnden för Tekniks kommande resultatdag som syftar till att utvärdera
 2024
--  Revisionens granskning av kommunens verksamheter
+\-  Revisionens granskning av kommunens verksamheter
 
 Beslutsgång
 Ordföranden (L) prövar om nämnden för Teknik kan notera informationen till

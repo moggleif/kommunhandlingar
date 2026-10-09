@@ -116,7 +116,7 @@ lägenheter i två våningar, riktade till en äldre målgrupp. I anslutning til
 boendeytorna ska ytor för social gemenskap finnas, både inomhus och utomhus.
 
 Planförslaget har varit utställt för granskning under tiden 24 februari till den 24 mars
-2026. Under granskningstiden kom det in 25 skrivelser. De inkomna synpunkterna
+2026\. Under granskningstiden kom det in 25 skrivelser. De inkomna synpunkterna
 berör i huvudsak strandskydd, risk för insyn och bullerstörningar, byggnaders
 placering och höjd samt trafikfrågor. För mer information om synpunkternas
 innehåll, se vidare i granskningsutlåtandet.

@@ -36,11 +36,11 @@ Gåsevadholm, Storgatan 37
 Ärende Beteckning |Förslag Tid
 Val av justerare Ordinarie: Lars Eriksson (S)
 Ersättare: Heinrich Kaufmann (C)
-1. | Förändring av ärendelista BN-2026- 1
+1\. | Förändring av ärendelista BN-2026- 1
 00001 min
-2. | Information från BN-2026- 10
+2\. | Information från BN-2026- 10
 förvaltningschefen 00003 min
-3. |Sammanträdesdagar 2027 för | BN-2026- Förslag till beslut 2
+3\. |Sammanträdesdagar 2027 för | BN-2026- Förslag till beslut 2
 byggnadsnämndens 00147 Byggnadsnämndens arbetsutskott min
 arbetsutskott och sammanträder följande datum år 2027:
 byggnadsnämnden
@@ -80,7 +80,7 @@ Besöksadress
 
 KUNGSBACKA KOMMUN
 
-23)
+23\)
 Ärende Beteckning | Förslag Tid
 BUKÄRR 1:9 — Antagande av |BN-2026- Förslag till beslut i byggnadsnämnden 5
 nytt vägnamn 00166 Byggnadsnämnden antar vägnamnsförslaget | min
@@ -97,7 +97,7 @@ grund av att beslutet har tagit mer än 10
 veckor. Kostnaden blir därför 0 kronor.
 Avgiften är fastställd i taxan för
 byggnadsnämndens verksamhet, beslutad i
-kommunfullmäktige 2023-12-14 $ 196.
+kommunfullmäktige 2023-12-14 \$ 196.
 LUNNA 1:35 - Förhandsbesked | BN-2026- Förslag till beslut 5
 för nybyggnad av ett 000150 Byggnadsnämndens arbetsutskott lämnar min
 enbostadshus negativt förhandsbesked för ett enbostadshus
@@ -108,7 +108,7 @@ grund av att beslutet har tagit mer än 10
 veckor. Kostnaden blir därför 0 kr. Avgiften
 är fastställd i taxan för byggnadsnämndens
 verksamhet, beslutad i kommunfullmäktige
-2023-12-14 $ 196.
+2023-12-14 \$ 196.
 ÖLMANÄS 2:49 - BN-2026- Förslag till beslut 5
 Förhandsbesked för nybyggnad |000630 Byggnadsnämndens arbetsutskott lämnar min
 av enbostadshus negativt förhandsbesked för nybyggnad av
@@ -116,7 +116,7 @@ on ett enbostadshus på fastigheten.
 tentor byeglovshandläggare Avgiften för beslutet är 22 400 kronor.
 Avgiften är fastställd i taxan för
 byggnadsnämndens verksamhet, beslutad i
-kommunfullmäktige 2023-12-14 $ 196.
+kommunfullmäktige 2023-12-14 \$ 196.
 
 <!-- sida 3 -->
 

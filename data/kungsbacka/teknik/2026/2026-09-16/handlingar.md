@@ -145,10 +145,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -371,11 +371,11 @@ och trygga miljöer, ekonomi och en mer varierad och naturnära skötsel.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 Kommunövergripande bedömning
 Vi har nått målet
@@ -491,8 +491,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Nämndens bedömning
 
@@ -623,8 +623,8 @@ vidare med.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Kommunövergripande bedömning
 Vi har nått målet
@@ -685,10 +685,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -776,7 +776,7 @@ att ersätta tidskrävande manuellt arbete där handläggare idag behöver söka
 utreda möjliga resalternativ och kombinationer med anpassad kollektivtrafik. Pilotprojektet prövar funktion,
 nytta och utvecklingspotential med tydligt fokus på förbättrad extern service och hjälp till självhjälp där
 resenärernas behov snabbt identifieras och kopplar behov till lämplig resa. Pilotprojektet pågår fram till 31/12
-2026. Hittills har företaget arbetat fram en första prototyp som ska testas. Eftersom Hallandstafikens kostnader
+2026\. Hittills har företaget arbetat fram en första prototyp som ska testas. Eftersom Hallandstafikens kostnader
 för färdtjänstresor skickas direkt till oss understödjer vi det här arbetet. Vi har under året skalat upp och "snott
 och glott" från oss själva om liknande lösning inte finns i övriga Kommunsverige. Det gäller utfärdande av
 parkeringstillstånd för rörelsehindrade. Vi har kunnat kopiera upplägget som vi använt när vi digitaliserade och
@@ -1286,7 +1286,7 @@ utan bokslutsdispositionerna.
 Sammanfattning till kommunstyrelsen
 VA-verksamheten redovisar ett utfall för januari-augusti om -10,3 miljoner kronor. Prognosen för helåret är -7,7
 miljoner kronor, budgeten för helåret uppgår till -13,6 miljoner kronor. Budgetavvikelsen uppgår således till
-+ 5,9 miljoner kronor. Under 2026 finansieras en del av verksamheten genom upplösning av Hammargårds
+\+ 5,9 miljoner kronor. Under 2026 finansieras en del av verksamheten genom upplösning av Hammargårds
 investeringsfond som skulle kompensera för de driftkostnader som uppstod som en del av
 Hammargårdsprojektet. Investeringsfonden innehåller totalt 45,7 miljoner kronor och under 2026 kommer 31
 miljoner kronor att lösas ut. Utan den finansieringen hade resultatet varit -38,7 miljoner kronor. Fonden kommer
@@ -1335,7 +1335,7 @@ taxehöjningskurvan för invånarna. Underskottet kommer växa kraftigt kommande
 utplattningen av taxehöjningskurvan.
 Går vi in på detaljer så redovisar VA-verksamheten ett utfall för januari-augusti om -10,3 Prognosen för helåret
 är -7,7 miljoner kronor, budgeten för helåret uppgår till -13,6 miljoner kronor. Budgetavvikelsen uppgår till
-+ 5,9 miljoner kronor. Verksamhetens intäkter bedöms bli lägre än budget.
+\+ 5,9 miljoner kronor. Verksamhetens intäkter bedöms bli lägre än budget.
 På kostnadssidan bedöms utfallet för helåret bli lägre än budget. Personalkostnaderna prognostiseras vara lägre
 än budget till följd av vakanser. Verksamhetskostnaderna förväntas bli lägre på grund av nedanstående:
 
@@ -1742,7 +1742,7 @@ på en ramjustering där 2,5 miljoner kronor har överförts från Teknik Skatt 
 Serviceförvaltningen. Denna justering avser årets inköp av fordon fram till och med den 31 augusti 2026.
 Projekt 3510, gång- och cykelbro över järnvägen vid Inlag rapporterar en tidsförskjutning som innebär att
 kostnaderna 2026 är lägre än tidigare prognostiseras. Entreprenör är nu upphandlad och byggstart kommer ske
-2027. Total prognos för projektet bedöms oförändrad.
+2027\. Total prognos för projektet bedöms oförändrad.
 
 Gällande exploateringar har projekt tidsförskjutits på grund av rådande konjunkturläge. Projekten redovisas i
 detalj av Samhällsbyggnadskontoret.
@@ -1791,13 +1791,13 @@ på en ramjustering där 2,5 miljoner kronor har överförts från Teknik Skatt 
 Serviceförvaltningen. Denna justering avser årets inköp av fordon fram till och med den 31 augusti 2026.
 Projekt 3510, gång- och cykelbro över järnvägen vid Inlag rapporterar en tidsförskjutning som innebär att
 kostnaderna 2026 är lägre än tidigare prognostiserade. Entreprenör är nu upphandlad och byggstart kommer ske
-2027. Total prognos för projektet bedöms oförändrad.
+2027\. Total prognos för projektet bedöms oförändrad.
 
 Projekt 6545 redovisar en tidsförskjutning. Projektering pågår, denna var tidigare bedömd att avslutas under
 2026 för att upphandling skulle kunna ta vid. Projektet arbetar med att erhålla erforderliga tillstånd från
 Länsstyrelsen gällande dispens för arbeten med träd samt vattenarbeten. Dessa tillstånd behöver erhållas innan
 byggnation kan starta. Bedömning är att byggstart sker 2027 och medel tidsförskjuts därför mellan 2026 och
-2027.
+2027\.
 Specifikation projekt över 30 mnkr till Kommunstyrelsen
 
 5.4.2 Investeringsbudget VA
@@ -1994,7 +1994,7 @@ hantera invasiva arter (parkslide) och artrika vägkanter. Budgeten har uppdater
 kalkylen för det fjärde området som avslutas under 2026 bedöms hålla.
 Kungsbacka Bredbandsnät investerar och bygger också ut i Vallda Sandö. Här ansluts bland annat Sandö hamn,
 en förskola, sju privata hushåll och jordbruk . Projektet startade i maj i år och kommer att slutföras i november
-2026. Projektet kommer att gå i linje med budget.
+2026\. Projektet kommer att gå i linje med budget.
 
 38
 
@@ -2100,7 +2100,7 @@ RS230670
 
 Beslut
 
-1. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
+1\. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
 
 Reservationer
 Mot beslutet reserverar sig Martin Hjulström (S), Gustaf Kristensson (S), Rasmus
@@ -2157,7 +2157,7 @@ regionstyrelsens förslag.
 Ett slutligt förslag på trafikförsörjningsprogram för Halland 2026-2030 har arbetats
 fram. Programmet har varit på remiss till kommuner, grannregioner, Trafikverket,
 Länsstyrelsen och andra intressenter under perioden 7 oktober 2025 till 14 januari
-2026. Intressenterna gavs möjlighet att inkomma med synpunkter på planförslaget.
+2026\. Intressenterna gavs möjlighet att inkomma med synpunkter på planförslaget.
 
 Totalt inkom 24 yttranden. Synpunkter från samrådssvaren har arbetats in i
 slutversionen för trafikförsörjningsprogrammet där så bedömts lämpligt.
@@ -2165,7 +2165,7 @@ slutversionen för trafikförsörjningsprogrammet där så bedömts lämpligt.
 Förslag till beslut
 Regionstyrelsen föreslår Regionfullmäktige att besluta följande:
 
-1. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
+1\. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
 
 Beslutsunderlag
 •  §127 RS Regionalt Trafikförsörjningsprogram för Halland 2026-2030
@@ -2228,7 +2228,7 @@ RS230670
 Beslut
 Regionstyrelsen föreslår Regionfullmäktige besluta:
 
-1. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
+1\. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
 
 Reservationer
 Lars Larsson (SD), Joacim Svensson (SD), Jonas Strand (S), Camilla Gustafsson
@@ -2258,10 +2258,10 @@ invånare garanteras tillgång till arbete, studier, vård och samhällsservice 
 linjetrafik,
 närtrafik eller anropsstyrd trafik.
 
-- Att programmet tydligare prioriterar utvecklingen av kollektivtrafiken i inlandet
+\- Att programmet tydligare prioriterar utvecklingen av kollektivtrafiken i inlandet
 och östra Halland, särskilt i stråken Halmstad–Hyltebruk–Gislaved, Halmstad–Torup–
 Unnaryd samt mot Värnamo, Ljungby och Markaryd.
-- Att utvecklingen av närtrafik, anropsstyrd trafik och andra flexibla trafiklösningar
+\- Att utvecklingen av närtrafik, anropsstyrd trafik och andra flexibla trafiklösningar
 
 Ordförandes sign     Justerares sign      Utdragsbestyrkande
 
@@ -2278,24 +2278,24 @@ Regionstyrelsen
 ges en mer framträdande roll i programmet för att säkerställa tillgänglighet även
 
 i områden med begränsat resandeunderlag.
-- Att möjligheten till ökad samordning mellan kollektivtrafik, skolskjutsar och
+\- Att möjligheten till ökad samordning mellan kollektivtrafik, skolskjutsar och
 övriga samhällsbetalda transporter särskilt lyfts fram för att stärka servicen på
 landsbygden och samtidigt använda skattemedel mer effektivt.
 
-- Att målen för kollektivtrafikens miljöarbete förtydligas med fokus på åtgärder
+\- Att målen för kollektivtrafikens miljöarbete förtydligas med fokus på åtgärder
 som ger faktisk miljö- nytta, så som ökad beläggning och fler resenärer snarare än
 enbart val av drivmedel.
-- Att skrivningar om fossilfrihet kompletteras med fokus på lokala
+\- Att skrivningar om fossilfrihet kompletteras med fokus på lokala
 förutsättningar, driftssäkerhet, och kostnadseffektivitet.
 
-- Att programmet tydligare beskriver hur länsöverskridande pendling ska
+\- Att programmet tydligare beskriver hur länsöverskridande pendling ska
 utvecklas mot angränsande kommuner och regioner, särskilt avseende arbets-
 och studiependling från Hallands inland.
-- Att Region Halland inom programperioden särskilt verkar för utveckling av HNJ-
+\- Att Region Halland inom programperioden särskilt verkar för utveckling av HNJ-
 
 banan, Markarydsbanan och Viskadalsbanan för att stärka Hallands
 robusthet, tillgänglighet och regionala utveckling.
-- Att Region Halland ska verka för förbättrade nattågsförbindelser
+\- Att Region Halland ska verka för förbättrade nattågsförbindelser
 längs Västkustbanan, inklusive norrgående förbindelser, för att stärka tillgängligheten
 till övriga Sverige och skapa fler hållbara resalternativ för hallänningar
 
@@ -2353,7 +2353,7 @@ Ett slutligt förslag på trafikförsörjningsprogram för Halland 2026-2030 har
 fram. Programmet har varit på remiss till kommuner, grannregioner, Trafikverket,
 Länsstyrelsen och andra intressenter under perioden 7 oktober 2025 till 14 januari
 
-2026. Intressenterna gavs möjlighet att inkomma med synpunkter på planförslaget.
+2026\. Intressenterna gavs möjlighet att inkomma med synpunkter på planförslaget.
 Totalt inkom 24 yttranden. Synpunkter från samrådssvaren har arbetats in i
 slutversionen för trafikförsörjningsprogrammet där så bedömts lämpligt.
 
@@ -2361,7 +2361,7 @@ Förslag till beslut
 Regionstyrelsens tillväxtutskott föreslår Regionstyrelsen att föreslå Regionfullmäktige
 besluta:
 
-1. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
+1\. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
 
 Beslutsunderlag
 •  §130 RS TU Fastställande av Regionalt Trafikförsörjningsprogram för Halland
@@ -2410,7 +2410,7 @@ RS230670
 Beslut
 Tillväxtutskottet föreslår regionstyrelsen att föreslå regionfullmäktige följande:
 
-1. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
+1\. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
 
 Förslag till beslut på sammanträdet
 
@@ -2463,7 +2463,7 @@ finner det antaget.
 Ett slutligt förslag på trafikförsörjningsprogram för Halland 2026-2030 har arbetats
 fram. Programmet har varit på remiss till kommuner, grannregioner, Trafikverket,
 Länsstyrelsen och andra intressenter under perioden 7 oktober 2025 till 14 januari
-2026. Intressenterna gavs möjlighet att inkomma med synpunkter på planförslaget.
+2026\. Intressenterna gavs möjlighet att inkomma med synpunkter på planförslaget.
 
 Totalt inkom 24 yttranden. Synpunkter från samrådssvaren har arbetats in i
 slutversionen för trafikförsörjningsprogrammet där så bedömts lämpligt.
@@ -2471,7 +2471,7 @@ slutversionen för trafikförsörjningsprogrammet där så bedömts lämpligt.
 Förslag till beslut
 Tillväxtutskottet föreslår regionstyrelsen att föreslå regionfullmäktige följande:
 
-1. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
+1\. Regionfullmäktige fastställer Trafikförsörjningsprogram 2026-2030.
 
 Beslutsunderlag
 •  Beslutsförslag, fastställande av Regionalt Trafikförsörjningsprogram för
@@ -2505,7 +2505,7 @@ Trafikförsörjningsprogram   för Halland 2026-2030
 
 Förslag till beslut
 
-1. Regionstyrelsens tillväxtutskott föreslår Regionstyrelsen att föreslå
+1\. Regionstyrelsens tillväxtutskott föreslår Regionstyrelsen att föreslå
 
 Regionfullmäktige att besluta att fastställa Trafikförsörjningsprogram
 2026-2030.
@@ -2702,11 +2702,11 @@ Krister Björkegren Bo-Josef Eriksson
 Regiondirektör     Regional utvecklingsdirektör
 
 Bilaga:
--  Trafikförsörjningsprogram Region Halland 2026-2030
--  Samrådsredogörelse Trafikförsörjningsprogram 2026-2030
+\-  Trafikförsörjningsprogram Region Halland 2026-2030
+\-  Samrådsredogörelse Trafikförsörjningsprogram 2026-2030
 
--  Sammanställning av inkomna yttranden
--  Barnkonsekvens- och jämställdhetsanalys Regionalt Trafikförsörjningsprogram för
+\-  Sammanställning av inkomna yttranden
+\-  Barnkonsekvens- och jämställdhetsanalys Regionalt Trafikförsörjningsprogram för
 Halland 2026-2030
 
 Styrelsens/nämndens beslut delges
@@ -2734,18 +2734,18 @@ Innehåll
 
 Förord                                                    5
 
-1. Bakgrund och ramverk                                   7
+1\. Bakgrund och ramverk                                   7
 
 1.1 Organisation, uppdrag och styrdokument                7
 
 1.2 Kollektivtrafiklagen – 2kap. Regional kollektivtrafik 10
 
-2. Förutsättningar för en attraktiv kollektivtrafik      13
+2\. Förutsättningar för en attraktiv kollektivtrafik      13
 2.1 Framgångsfaktorer för att åstadkomma en attraktiv kollektivtrafik i Halland 13
 
 2.2 Kollektivtrafik som medel att uppnå samhällsnyttor   18
 
-3. Mål och vision – Halland bästa livsplatsen            22
+3\. Mål och vision – Halland bästa livsplatsen            22
 
 3.1 Globala och nationella mål med bäring på Trafikförsörjningsprogrammet 22
 3.2 Kollektivtrafikens roll i den regionala utvecklingen 23
@@ -2755,7 +2755,7 @@ Förord                                                    5
 3.4 Delmål kollektivtrafikens marknadsandel              25
 3.5 Delmål Kollektivtrafikens roll för ekologisk, ekonomisk och social hållbarhet 27
 
-4. Utveckling av den allmänna kollektivtrafiken – principer och riktlinjer 33
+4\. Utveckling av den allmänna kollektivtrafiken – principer och riktlinjer 33
 
 4.1 Trafikeringsstrategi                                 33
 
@@ -2766,7 +2766,7 @@ Förord                                                    5
 
 4.5 Kollektivtrafikens infrastruktur                     38
 
-5. Kollektivtrafikstråk i Halland                        43
+5\. Kollektivtrafikstråk i Halland                        43
 
 Sida 16 av 290
 
@@ -2781,7 +2781,7 @@ Sida 16 av 290
 
 5.5 Järnvägsstationer                                    59
 
-6. Trafikeringsbehov tåg 2028–2050                       61
+6\. Trafikeringsbehov tåg 2028–2050                       61
 6.1 Tågsystem i Halland                                  61
 
 6.2 Trafikering Västkustbanan                            63
@@ -2793,7 +2793,7 @@ Sida 16 av 290
 
 6.6 Nya tågstationer                                     74
 
-7. Samplanering och ansvarsfördelning                    78
+7\. Samplanering och ansvarsfördelning                    78
 7.1 Ansvarsfördelning                                    78
 
 7.2 Hållplatser och stationer                            79
@@ -2802,7 +2802,7 @@ Sida 16 av 290
 
 7.4 Samplaneringsmodellen                                81
 
-8. Anpassad kollektivtrafik                              82
+8\. Anpassad kollektivtrafik                              82
 
 8.1 Bakgrund och ramverk                                 82
 
@@ -2813,7 +2813,7 @@ Sida 16 av 290
 
 8.5 Samverkan och uppföljning                            87
 
-9. Ekonomiska förutsättningar och finansiering.          90
+9\. Ekonomiska förutsättningar och finansiering.          90
 9.1 Samhällsnytta                                        90
 
 Sida 17 av 290
@@ -2829,7 +2829,7 @@ Sida 17 av 290
 
 9.6 Riktlinjer för tillköp av trafik                     94
 
-10. Kommersiell trafik                                   95
+10\. Kommersiell trafik                                   95
 10.1 Allmän trafikplikt                                  95
 
 10.2 Tillgång till infrastruktur                         96
@@ -2858,7 +2858,7 @@ Sida 20 av 290
 
 <!-- sida 62 -->
 
-1.   Bakgrund                 och       ramverk
+1\.   Bakgrund                 och       ramverk
 
 Som kollektivtrafikmyndighet ska Region Halland upprätta ett
 
@@ -2891,7 +2891,7 @@ kollektivtrafikens utveckling och
 investeringar i infrastruktur på regionala
 arbets- och studiependling eller annat
 vägar och till viss del även på järnvägar.
-vardagsresande* och som med hänsyn till sitt
+vardagsresande\* och som med hänsyn till sitt
 faktiska nyttjande tillgodoser ett sådant
 Kollektivtrafiken är en samhällsviktig
 behov”. Beslut om allmän trafikplikt gäller
@@ -2899,7 +2899,7 @@ funktion och utgör en central del av Sveriges
 regional kollektivtrafik.
 civila försvar. Region Halland har därför i
 uppdrag att säkerställa att kollektivtrafiken
-* Med arbets- och studieresor samt annat fungerar såväl under normala förhållanden
+\* Med arbets- och studieresor samt annat fungerar såväl under normala förhållanden
 vardagsresande avses miljövänliga och som vid kris och höjd beredskap. Detta
 energieffektiva transportsätt för att nå
 innebär ett ansvar att reducera sårbarheter,
@@ -3139,7 +3139,7 @@ angränsande län. Samråd ska även ske med
 ska innehålla en redovisning av:
 övriga berörda myndigheter, organisationer,
 kollektivtrafikföretag samt företrädare för
-1. behovet av regional kollektivtrafik i länet
+1\. behovet av regional kollektivtrafik i länet
 näringsliv och resenärer. I de fall en region
 samt mål för kollektivtrafikförsörjningen,
 ensam är regional kollektivtrafikmyndighet
@@ -3150,14 +3150,14 @@ på kommersiell grund och trafik som
 myndigheten avser att ombesörja på grundval
 regionala                        av allmän trafikplikt,
 kollektivtrafikmyndigheten
-3. åtgärder för att skydda miljön,
+3\. åtgärder för att skydda miljön,
 12§ Efter överenskommelse med regionen
 eller en kommun i länet får den regionala 4. tidsbestämda mål och åtgärder för
 kollektivtrafikmyndigheten upphandla anpassning av kollektivtrafik med hänsyn till
 persontransport- och samordningstjänster behov hos personer med
 för sådana transportändamål som  funktionsnedsättning,
 kommunerna eller regionen ska tillgodose
-5. de bytespunkter och linjer som ska vara
+5\. de bytespunkter och linjer som ska vara
 samt samordna sådana transporttjänster. Lag
 fullt tillgängliga för alla resenärer, samt
 Trafikförsörjningsprogram 2026-2030 11
@@ -3165,7 +3165,7 @@ Sida 25 av 290
 
 <!-- sida 67 -->
 
-6. omfattningen av trafik enligt lagen
+6\. omfattningen av trafik enligt lagen
 (1997:736) om färdtjänst och lagen
 (1997:735) om riksfärdtjänst och grunderna
 för prissättningen för resor med sådan trafik,
@@ -3180,7 +3180,7 @@ Sida 26 av 290
 
 <!-- sida 68 -->
 
-2.   Förutsättningar                        för      en
+2\.   Förutsättningar                        för      en
 
 attraktiv             kollektivtrafik
 
@@ -3655,7 +3655,7 @@ Sida 35 av 290
 
 <!-- sida 77 -->
 
-3.   Mål       och       vision          –
+3\.   Mål       och       vision          –
 
 Halland             bästa          livsplatsen
 
@@ -4145,7 +4145,7 @@ Sida 46 av 290
 
 <!-- sida 88 -->
 
-4.   Utveckling                 av      den
+4\.   Utveckling                 av      den
 
 allmänna
 
@@ -4411,7 +4411,7 @@ Tätort-inv.antal Mån-fre                         Lör     Sön
 300–499                                                  -
 500–999                                                  -
 1000–2999                                                5
->3000           18                               10      6
+\>3000           18                               10      6
 Tabell 1. Basutbud för orter utefter invånarantal. Antal turer/resmöjligheter per dag i båda
 
 riktningarna. Antal turer i stadstrafiken bestäms enligt efterfrågan samt stråk i stadstrafiken.
@@ -4693,7 +4693,7 @@ Sida 56 av 290
 
 <!-- sida 98 -->
 
-5.   Kollektivtrafikstråk                            i
+5\.   Kollektivtrafikstråk                            i
 
 Halland
 
@@ -5067,7 +5067,7 @@ regionala fysiska planen. Även om
 Stråket Onsala–Kungsbacka–Göteborg utgör pendlingsströmmarna inte är lika stora som i
 ett av Hallands mest pendlingsintensiva stråket Onsala–Kungsbacka, är de tillräckligt
 relationer. Stråket följer Onsalavägen (väg starka för att motivera en tydlig satsning på
-940) från Onsala in till Kungsbacka stad, och kollektivtrafikens utveckling.
+940\) från Onsala in till Kungsbacka stad, och kollektivtrafikens utveckling.
 vidare mot Göteborg. Onsala är Hallands
 I ett 2050-perspektiv pekas Vallda ut som ett
 största tätort efter kommunhuvudorterna och
@@ -5528,7 +5528,7 @@ Sida 74 av 290
 
 <!-- sida 116 -->
 
-6.   Trafikeringsbehov                            tåg
+6\.   Trafikeringsbehov                            tåg
 
 2028–2050
 
@@ -5856,7 +5856,7 @@ I det tidigare Regionala
 målsättningen att öka antalet resenärer och
 Trafikförsörjningsprogrammet för åren 2021
 att kostnadstäckningsgraden skulle uppgå till
-- 2025 beskrevs att en treårig satsning i
+\- 2025 beskrevs att en treårig satsning i
 minst 30 procent. Som en del av projektet
 projektform skulle genomföras med
 utökades antalet avgångar och miljön runt
@@ -6115,32 +6115,32 @@ Infrastrukturella behov
 Planerade och pågående projekt
 (preliminär byggtid)
 
-1. Västlänken: Etapp 1 och 2                (2020–2027 och -2030)
+1\. Västlänken: Etapp 1 och 2                (2020–2027 och -2030)
 
-2. Pilekrogen: Uppställningsspår            (2028–2029)
-5. Lekarekulle: Förbigångsspår              (2030–2032)
+2\. Pilekrogen: Uppställningsspår            (2028–2029)
+5\. Lekarekulle: Förbigångsspår              (2030–2032)
 
-7. Värö station: Ny station                 (2030–2032)
-8. Tyllered: Förbigångsspår                 (2033–2035)
+7\. Värö station: Ny station                 (2030–2032)
+8\. Tyllered: Förbigångsspår                 (2033–2035)
 
-9. Brännarp: Förbigångsspår                 (2033–2035)
-10. Halmstad C: Bangårdsombyggnad           (2029–2030)
+9\. Brännarp: Förbigångsspår                 (2033–2035)
+10\. Halmstad C: Bangårdsombyggnad           (2029–2030)
 
-11. Halmstad C: Uppställningsbangård
+11\. Halmstad C: Uppställningsbangård
 och hamnanslutning                       (2033–2037)
-12. Knäred och Veinge: Mötesspår och två stationer (2025–2027)
+12\. Knäred och Veinge: Mötesspår och två stationer (2025–2027)
 
-13. Båstad: Vändspår                        (2026–2027)
+13\. Båstad: Vändspår                        (2026–2027)
 
-14. Helsingborg C – Maria: Dubbelspår       (2032 -)
+14\. Helsingborg C – Maria: Dubbelspår       (2032 -)
 ERTMS etapputbyggnad: Nytt signalsystem     (2033–2035)
 
 Behov av investeringar
 
-3. Kungsbacka – Göteborg: Fyrspår Hede - Mölndal
+3\. Kungsbacka – Göteborg: Fyrspår Hede - Mölndal
 
-4. Kungsbacka C: Vändspår inkl. partiellt fyrspår Kungsbacka - Hede
-6. Viskadalsbanan: Hastighetshöjning och mötesspår
+4\. Kungsbacka C: Vändspår inkl. partiellt fyrspår Kungsbacka - Hede
+6\. Viskadalsbanan: Hastighetshöjning och mötesspår
 
 Trafikförsörjningsprogram 2026-2030 72
 
@@ -6321,7 +6321,7 @@ Sida 91 av 290
 
 <!-- sida 133 -->
 
-7.   Samplanering                       och
+7\.   Samplanering                       och
 
 ansvarsfördelning
 
@@ -6524,7 +6524,7 @@ Sida 95 av 290
 
 <!-- sida 137 -->
 
-8.   Anpassad                kollektivtrafik
+8\.   Anpassad                kollektivtrafik
 
 Detta kapitel beskriver den särskilda kollektivtrafikens
 
@@ -6887,7 +6887,7 @@ Sida 103 av 290
 
 <!-- sida 145 -->
 
-9.   Ekonomiska
+9\.   Ekonomiska
 
 förutsättningar                       och
 
@@ -6937,7 +6937,7 @@ per påstigning, beräknad som totala
 integrerat samhälle. Eftersom fler kvinnor än
 kostnader minus trafikintäkter, 30 kronor år
 män reser kollektivt förbättrar god
-2024. Detta placerar Halland på sjätte plats i
+2024\. Detta placerar Halland på sjätte plats i
 kollektivtrafik deras rörlighet och stärker
 landet, där endast de tre storstadsregionerna
 jämställdheten. Dessutom främjar den
@@ -7220,7 +7220,7 @@ Sida 108 av 290
 
 <!-- sida 150 -->
 
-10.     Kommersiell                    trafik
+10\.     Kommersiell                    trafik
 
 Kollektivtrafiklagen ger kommersiella aktörer samhällsbyggandet som på många sätt
 möjlighet att med 21 dagars framförhållning påverkar människors val av arbete, boende,
@@ -9932,7 +9932,7 @@ i kapitel 6, men vill uppmärksamma att det krävs omfattande investeringar i s�
 infrastruktur som fordon och i vissa fall även indragning av tågstopp samt parallell
 trafikering med olika trafiksystem för att uppnå målbilden. Kartan på sid 58 (Figur
 
-8) kan med fördel utvecklas med vad som krävs för att uppnå restiderna, likt texten i
+8\) kan med fördel utvecklas med vad som krävs för att uppnå restiderna, likt texten i
 början på s. 50.
 
 Region Hallands kommentar: Region Halland är medvetna om att det krävs
@@ -9946,7 +9946,7 @@ genomförs utöver andra viktiga åtgärder.
 Region Halland lyfter behov av åtgärder på Västkustbanan för att möta ett ökat
 behov av resande i framtiden. I förslag till Nationell infrastrukturplan 2026–2037
 finns två nya objekt med som bidrar till att möta behovet, Halmstad C kapacitet (del
-2) uppställningsspår samt Tyllered förbigångsspår. Trafikverket har i enlighet med
+2\) uppställningsspår samt Tyllered förbigångsspår. Trafikverket har i enlighet med
 
 regeringens direktiv även redovisat ytterligare namngivna investeringar som
 övervägts till planförslaget och som motsvarar en ökning av medlen för namngivna
@@ -10155,12 +10155,12 @@ Region Hallands kommentar: Synpunkterna noteras. Åtgärd: Nej
 Socialdemokratiska regiongruppen
 
 Övergripande
-- På ett par ställen benämns regionen som ”ägare”, ex under kapitel 4,3. Det upplevs
+\- På ett par ställen benämns regionen som ”ägare”, ex under kapitel 4,3. Det upplevs
 som en rest från tiden som bolag och bör ses över.
 
 Region Hallands kommentar: Synpunkten noteras. Åtgärd: Ja
 
-- Trafikförsörjningsprogrammet berör inte ersättningstrafik för tåg. Det är dock en
+\- Trafikförsörjningsprogrammet berör inte ersättningstrafik för tåg. Det är dock en
 viktig fråga, beredskapen för detta, särskilt på Västkustbanan, påverkar robustheten
 och resenärernas tilltro till kollektivtrafiken.
 
@@ -10173,7 +10173,7 @@ trafikförsörjningsprogrammet.
 Åtgärd: Nej
 
 S 12
-- Under rubriken: Förbättrad jämställdhet och ökad tillgänglighet för sårbara
+\- Under rubriken: Förbättrad jämställdhet och ökad tillgänglighet för sårbara
 
 grupper, saknas ett resonemang kring information och teknik som en del av
 reseupplevelsen och tryggheten.
@@ -10188,7 +10188,7 @@ information och teknik i relation till tillgänglighet.
 
 Åtgärd: Ja
 
-- Under samma rubrik saknas också ett resonemang om trygghetsskapande åtgärder
+\- Under samma rubrik saknas också ett resonemang om trygghetsskapande åtgärder
 såsom trygghetsstopp för att fler kvinnor ska känna sig trygga att resa kollektivt
 under hela trafikdygnet.
 
@@ -10198,7 +10198,7 @@ möjligheten till trygghetsstopp inom regionbusstrafiken.
 Åtgärd: Ja
 
 S 18
-- Kommunernas roll och ansvar för att öka bussars framkomlighet i tätort bör
+\- Kommunernas roll och ansvar för att öka bussars framkomlighet i tätort bör
 förtydligas. - Grafen om kollektivtrafikens marknadsandel bör utgå från 2025 för att
 ha så uppdaterade siffror som möjligt.
 
@@ -10216,12 +10216,12 @@ Grafen uppdateras så att 2025 utgör utgångsåret.
 Åtgärd: ja
 
 Kap 3.5 Delmål Kollektivtrafikens roll för ekologisk, ekonomisk och social hållbarhet
-- Här ligger alla delmålen efter texten, i alla andra delar är det tvärtom.
+\- Här ligger alla delmålen efter texten, i alla andra delar är det tvärtom.
 
 Region Hallands kommentar: Synpunkten noteras. Åtgärd: Ja
 
 S 19
-- Under social hållbarhet saknas resonemang om socioekonomi.
+\- Under social hållbarhet saknas resonemang om socioekonomi.
 
 Region Hallands kommentar: Socioekonomi är en av flera delar i beskrivningen
 av den Sociala hållbarheten. Utöver beskrivningarna på sidan 19 Finns kortare
@@ -10230,7 +10230,7 @@ trygghet”.
 
 Åtgärd: Nej
 
-- Förtydliga vikten av dialog om tillgänglighet med funktionsrättsorganisationer.
+\- Förtydliga vikten av dialog om tillgänglighet med funktionsrättsorganisationer.
 
 52
 Sida 165 av 290
@@ -10243,7 +10243,7 @@ förutsättningar för medborgardeltagande som involverar de människor som ber�
 
 Åtgärd: Nej
 
-- Saknas mål om digital tillgänglighet i form av information inför resan.
+\- Saknas mål om digital tillgänglighet i form av information inför resan.
 
 Region Hallands kommentar: Information inför resan är en viktig del i att forma
 en enkel, trygg och inkluderande kollektivtrafik vilket beskrivs i kapitel 2.
@@ -10251,12 +10251,12 @@ en enkel, trygg och inkluderande kollektivtrafik vilket beskrivs i kapitel 2.
 Åtgärd: Nej
 
 S 20
-- Vi vill att målet för självfinansieringsgraden ska vara 50%.
+\- Vi vill att målet för självfinansieringsgraden ska vara 50%.
 
 Region Hallands kommentar: Synpunkten noteras. Åtgärd: Nej
 
 S 55
-- Texten som refererar kring tidigare försök till ökad trafik på HNJ-banan bör
+\- Texten som refererar kring tidigare försök till ökad trafik på HNJ-banan bör
 strykas så att man precis som för övriga trafiksträckor fokuserar på framtiden och
 inte det som varit.
 
@@ -10269,7 +10269,7 @@ resultaten från en genomförd studie i stråket Halmstad–Hyltebruk
 Åtgärd: Nej
 
 S 78
-- I Kapitel 9.5 Riktlinjer för tillköp av biljetter: Stryka andra delen i första meningen
+\- I Kapitel 9.5 Riktlinjer för tillköp av biljetter: Stryka andra delen i första meningen
 så att den lyder: Samtliga kommuner inom Hallandstrafikens trafikområde ges
 
 möjlighet att köpa biljetter till sina invånare.
@@ -11079,7 +11079,7 @@ Sammanfattning
 I rollen som regional kollektivtrafikmyndighet tar Region Halland fram ett trafikförsörjningsprogram
 som fastställer mål för den regionala kollektivtrafiken i Halland. Följande förslag till
 Trafikförsörjningsprogram gäller för perioden 2026 fram till 2030, men med en långsiktig utblick mot
-2050. Förslaget beskriver vilka mål, trafikeringsstrategier och principer för trafikutveckling som ska
+2050\. Förslaget beskriver vilka mål, trafikeringsstrategier och principer för trafikutveckling som ska
 styra den långsiktiga utvecklingen av kollektivtrafiken i Halland.
 
 Region Halland har i sitt följebrev sammanfattat programmets innehåll och efterfrågat generella
@@ -11292,7 +11292,7 @@ Arbetsutskottet beslutar:
 
 Kommunstyrelsens arbetsutskott godkänner förslag till yttrande som
 sitt eget och att det skickas till Region Halland senast den 14 januari
-2026.
+2026\.
 
 Sammanfattning av ärendet
 Region Halland har tagit fram ett förslag till trafikförsörjningsprogram
@@ -11310,7 +11310,7 @@ tillhörande bilaga.
 Förvaltningens förslag
 Kommunstyrelsens arbetsutskott godkänner förslag till yttrande som
 sitt eget och att det skickas till Region Halland senast den 14 januari
-2026.
+2026\.
 
 Föredragande
 Planchef Klara Harmark-Peters föredrar ärendet.
@@ -11373,7 +11373,7 @@ Beslutet ska expedieras för kännedom till:
 Region Halland
 
 Bilagor till tjänsteskrivelsen:
-1. Remiss av förslag till trafikförsörjningsprogram Halland 2026–2030
+1\. Remiss av förslag till trafikförsörjningsprogram Halland 2026–2030
 
 Sida 188 av 290
 
@@ -11381,7 +11381,7 @@ Sida 188 av 290
 
 2 (2)
 
-2. Förslag till yttrande över trafikförsörjningsprogram Halland 2026–2030
+2\. Förslag till yttrande över trafikförsörjningsprogram Halland 2026–2030
 
 Samråd har skett med:
 Roger Larsson, samhällsbyggnadschef
@@ -11404,18 +11404,18 @@ Beslut
 
 Kommunstyrelsen beslutar:
 
-1. Komplettera yttrandet med att en utredning gällande förutsättningarna för
+1\. Komplettera yttrandet med att en utredning gällande förutsättningarna för
 
 att etablera vändspår i Falkenberg ska initieras så snart det är möjligt.
 
-2. Därefter översända yttrandet gällande Region Hallands remissversion av
+2\. Därefter översända yttrandet gällande Region Hallands remissversion av
 Trafikförsörjningsprogram 2026–2030 till Region Halland som Falkenbergs
 kommuns  svar på remissen.
 
 Beskrivning av ärendet
 
 Region Halland har skickat ut remissversion av Trafikförsörjningsprogram 2026–
-2030. Programmet utgör det regionala styrdokumentet för utvecklingen av den
+2030\. Programmet utgör det regionala styrdokumentet för utvecklingen av den
 allmänna och särskilda kollektivtrafiken och har en central roll i arbetet med att
 
 skapa ett tillgängligt, sammanhållet och hållbart transportsystem i Halland.
@@ -11846,7 +11846,7 @@ Enligt kollektivtrafiklagen ska respektive region ha ett regionalt
 trafikförsörjningsprogram. I detta ska regionen beskriva kollektivtrafikens roll i
 länets utveckling, de behov som finns, samt de övergripande målsättningarna
 för kollektivtrafiken. Perioden för detta trafikförsörjningsprogram, är 2026-
-2030. Gislaved är gränskommun till Hallands län, och mottagare av remissen för
+2030\. Gislaved är gränskommun till Hallands län, och mottagare av remissen för
 trafikförsörjningsprogrammet.
 
 I yttrandet lyfter Gislaveds kommun vikten av regionöverskridande
@@ -11867,7 +11867,7 @@ Region Halland - remissversion Trafikförsörjningsprogram 2026-2030.
 Svar på remiss Trafikförsörjningsprogram Region Halland 2026-2030, daterat
 den 21 oktober 2025.
 Samhällsutvecklingsförvaltningens tjänsteskrivelse, daterad den 20 oktober
-2025.
+2025\.
 Kommunstyrelsens allmänna utskotts protokoll den 12 november 2025, §138.
 
 Yrkanden
@@ -11958,7 +11958,7 @@ vikten av hela resan-perspektivet, vilket är en förutsättning för hållbar m
 effektivare pendling och ett mer yteffektivt transportsystem.
 
 Det har genomförts flera utredningar (däribland Trafikverkets åtgärdsvalsstudie för väg
-158) som har identifierat stora utmaningar och behov av att säkerställa möjligheterna till
+158\) som har identifierat stora utmaningar och behov av att säkerställa möjligheterna till
 en mer kapacitetsstark kollektivtrafik i stråket längs väg 158 mellan Göteborg och
 Kungsbacka. De havsnära områdena är attraktiva och det både pågår och planeras
 omfattande exploateringar, vilket medför ökat resandebehov. Samtidigt har Göteborgs
@@ -12011,7 +12011,7 @@ Västkustbanan samt behov av ökad trafikering längs banan.
 Ett av delmålen är att marknadsandelen för kollektivtrafiken ska vara 30 %
 år 2050, vilket är mer än en fördubbling från dagens resande. GR noterar att
 samma mål finns i nuvarande Trafikförsörjningsprogram men med målår
-2030. Det innebär att målet har förskjutits på framtiden. I remissversionen
+2030\. Det innebär att målet har förskjutits på framtiden. I remissversionen
 är etappmålet till 2030 att marknadsandelen ska vara 20 %. GR saknar en
 motivering till hur det kommer sig att målet flyttats fram och att
 ambitionsnivån till 2030 har sänkts.
@@ -12108,7 +12108,7 @@ långsiktiga utvecklingen av kollektivtrafiken i Halland. Programperioden
 stäcker sig fram till och med 2030, med en långsiktig utblick mot 2050.
 Regional fysisk plan för Region Halland planeras att beslutas politiskt i juni
 
-2026. Trafikförsörjningsprogrammet revideras parallellt med att Regional
+2026\. Trafikförsörjningsprogrammet revideras parallellt med att Regional
 fysisk plan tas fram. I samband med detta har det varit viktigt att säkerställa
 kopplingen mellan de båda dokumenten i remissförfarandet.
 Revideringsarbetet har inte syftat till att ta fram ett helt nytt
@@ -13044,7 +13044,7 @@ och översänder detsamma till Region Halland.
 Beskrivning av ärendet
 Region Halland har översänt ett remissförslag på Trafikförsörjningsprogram 2026– 2030.
 Hylte kommun har getts möjlighet att lämna synpunkter på förslaget senast den 14 januari
-2026.
+2026\.
 
 Hylte kommun tackar för möjligheten att lämna synpunkter på remissversionen av
 Trafikförsörjningsprogram 2026–2030 och delar Region Hallands ambition om en tillgänglig
@@ -13794,11 +13794,11 @@ Med  utgångspunkt i programmets långsiktiga mål har en
 trafikeringsstrategi i tre delar formulerats. Strategin kvarstår från
 gällande trafikförsörjningsprogram. Strategin kan sammanfattas
 enligt nedan:
-* Koncentrera resurser till stråk där förutsättningar för ökat resande
+\* Koncentrera resurser till stråk där förutsättningar för ökat resande
 är goda.
 
-* Grundläggande resmöjligheter för hela länet.
-* Tågtrafiken på Västkustbanan utgör stommen i det halländska
+\* Grundläggande resmöjligheter för hela länet.
+\* Tågtrafiken på Västkustbanan utgör stommen i det halländska
 kollektivtrafiksystemet.
 
 Beslutsunderlag
@@ -13808,7 +13808,7 @@ januari § 21.
 Förvaltningens tjänsteskrivelse den 8 oktober 2025.
 Förslag till Trafikförsörjningsprogram
 Remissvar från nämnderna
-_____
+\_____
 
 Beslutet skickas till:
 
@@ -14139,7 +14139,7 @@ och finner att så sker.
 Beslut skickas till
 Region Halland, regionen@regionhalland.se märk med ”RS230670 Marks kommun”
 
-______________________
+\______________________
 
 Justerandes signatur           Utdragsbestyrkande
 
@@ -14411,7 +14411,7 @@ Sida 255 av 290
 
 Joki Malin RK STAB
 
-Från:        Colliander Josefine <josefine.colliander@rjl.se>
+Från:        Colliander Josefine \<josefine.colliander@rjl.se>
 Skickat:     den 15 december 2025 08:41
 Till:        REGION HALLAND officiell e-post
 Ämne:        Diarienummer RS230670 - Region Jönköpings län
@@ -14425,7 +14425,7 @@ Hej,
 2026-2030 (diarienummer RS230670).
 
 Med vänlig hälsning
-____________________________
+\____________________________
 Josefine Colliander
 Nämndsekreterare
 Tel. 072-216 07 34
@@ -14467,7 +14467,7 @@ kartor och beskrivningar av stråket Halmstad-Simlångsdalen framgår att det i
 förlängningen fortsätter mot Ljungby och vidare mot Växjö.
 
 Region Kronoberg ser potential att öka det kollektiva resandet i stråket Halmstad
-- Ljungby, men för att öka attraktiviteten behöver restiderna minskas. Kortare
+\- Ljungby, men för att öka attraktiviteten behöver restiderna minskas. Kortare
 restider kan bli verklighet genom en kombination av infrastrukturåtgärder på väg
 25 samt optimering av tidtabeller och linjeläggning avseende busstrafiken. Det är i
 sammanhanget även angeläget att regionerna samarbetar kring tidtabeller så att
@@ -14756,34 +14756,34 @@ Trafikförsörjningsprogram 2026-2030
 
 Övergripande
 
--  På ett par ställen benämns regionen som ”ägare”, ex under kapitel 4,3. Det
+\-  På ett par ställen benämns regionen som ”ägare”, ex under kapitel 4,3. Det
 upplevs som en rest från tiden som bolag och bör ses över.
--  Trafikförsörjningsprogrammet berör inte ersättningstrafik för tåg. Det är dock en
+\-  Trafikförsörjningsprogrammet berör inte ersättningstrafik för tåg. Det är dock en
 
 viktig fråga, beredskapen för detta, särskilt på Västkustbanan, påverkar
 robustheten och resenärernas tilltro till kollektivtrafiken.
 
 S 12
 
--  Under rubriken: Förbättrad jämställdhet och ökad tillgänglighet för sårbara
+\-  Under rubriken: Förbättrad jämställdhet och ökad tillgänglighet för sårbara
 grupper, saknas ett resonemang kring information och teknik som en del av
 reseupplevelsen och tryggheten.
 
--  Under samma rubrik saknas också ett resonemang om trygghetsskapande
+\-  Under samma rubrik saknas också ett resonemang om trygghetsskapande
 åtgärder såsom trygghetsstopp för att fler kvinnor ska känna sig trygga att resa
 kollektivt under hela trafikdygnet.
 
 S 18
 
--  Kommunernas roll och ansvar för att öka bussars framkomlighet i tätort bör
+\-  Kommunernas roll och ansvar för att öka bussars framkomlighet i tätort bör
 förtydligas.
 
--  Grafen om kollektivtrafikens marknadsandel bör utgå från 2025 för att ha så
+\-  Grafen om kollektivtrafikens marknadsandel bör utgå från 2025 för att ha så
 uppdaterade siffror som möjligt.
 
 Kap 3.5 Delmål Kollektivtrafikens roll för ekologisk, ekonomisk och social hållbarhet
 
-- Här ligger alla delmålen efter texten, i alla andra delar är det tvärtom.
+\- Här ligger alla delmålen efter texten, i alla andra delar är det tvärtom.
 
 Sida 264 av 290
 
@@ -14791,23 +14791,23 @@ Sida 264 av 290
 
 S 19
 
--  Under social hållbarhet saknas resonemang om socioekonomi.
--  Förtydliga vikten av dialog om tillgänglighet med funktionsrättsorganisationer.
--  Saknas mål om digital tillgänglighet i form av information inför resan.
+\-  Under social hållbarhet saknas resonemang om socioekonomi.
+\-  Förtydliga vikten av dialog om tillgänglighet med funktionsrättsorganisationer.
+\-  Saknas mål om digital tillgänglighet i form av information inför resan.
 
 S 20
 
--  Vi vill att målet för självfinansieringsgraden ska vara 50%.
+\-  Vi vill att målet för självfinansieringsgraden ska vara 50%.
 
 S 55
 
--  Texten som refererar kring tidigare försök till ökad trafik på HNJ-banan bör strykas
+\-  Texten som refererar kring tidigare försök till ökad trafik på HNJ-banan bör strykas
 så att man precis som för övriga trafiksträckor fokuserar på framtiden och inte det
 som varit.
 
 S 78
 
--  I Kapitel 9.5 Riktlinjer för tillköp av biljetter: Stryka andra delen i första meningen
+\-  I Kapitel 9.5 Riktlinjer för tillköp av biljetter: Stryka andra delen i första meningen
 
 så att den lyder: Samtliga kommuner inom Hallandstrafikens trafikområde ges
 möjlighet att köpa biljetter till sina invånare.
@@ -14888,7 +14888,7 @@ förbigångsspår. Trafikverket har i enlighet med regeringens direktiv även
 redovisat ytterligare namngivna investeringar som övervägts till planförslaget
 och som motsvarar en ökning av medlen för namngivna investeringar med
 10%. Där ingår objektet Västkustbanan, Kungsbacka, vändspår, Kungsbacka
-- Hede, partiellt fyrspår. Anledningen till att objektet inte prioriterats är att
+\- Hede, partiellt fyrspår. Anledningen till att objektet inte prioriterats är att
 det inte inryms ekonomiskt. Åtgärden i sin nuvarande utformning bedöms
 som ”robust olönsam” och tillsammans med andra prioriteringsfaktorer
 hamnar detta objekt längre ner i prioriteringslistan.
@@ -14920,7 +14920,7 @@ KOMMUN
 
 Yttrande
 
-15)
+15\)
 
 2026-01-13 Dnr: KS 2025/0613-16
 
@@ -14979,7 +14979,7 @@ Sida 268 av 290
 
 <!-- sida 310 -->
 
-25)
+25\)
 2026-01-13 Dnr: KS 2025/0613-
 16
 
@@ -15127,7 +15127,7 @@ Sida 271 av 290
 
 <!-- sida 313 -->
 
-95)
+95\)
 2026-01-13 Dnr: KS 2025/0613-
 16
 
@@ -15157,7 +15157,7 @@ Beslut
 
 Kommunstyrelsen beslutar
 
-1. godkänna yttrandet daterat 13 januari 2026 som Varbergs kommuns
+1\. godkänna yttrandet daterat 13 januari 2026 som Varbergs kommuns
 svar på remiss från Region Halland om Trafikförsörjningsprogram för
 Halland 2026 – 2030.
 
@@ -15296,7 +15296,7 @@ Sida 275 av 290
 
 Joki Malin RK STAB
 
-Från:        Kommunkansli <kommunkansli@varberg.se>
+Från:        Kommunkansli \<kommunkansli@varberg.se>
 Skickat:     den 29 januari 2026 14:23
 Till:        REGION HALLAND officiell e-post
 Ämne:        RS230670 Varbergs kommun - KS 260127, § 11 - Svar på remiss - Trafikförsörjningsprogram för
@@ -15532,7 +15532,7 @@ Halland
 Diarienummer IKN 2025-00290
 
 Beslut
-1. Infrastruktur- och kollektivtrafiknämnden godkänner yttrandet över
+1\. Infrastruktur- och kollektivtrafiknämnden godkänner yttrandet över
 
 trafikförsörjningsprogram 2026–2030 för Region Halland.
 
@@ -15591,7 +15591,7 @@ trafikförsörjningsprogram                2026–
 
 Förslag  till beslut
 
-1. Infrastruktur- och kollektivtrafiknämnden godkänner yttrandet över
+1\. Infrastruktur- och kollektivtrafiknämnden godkänner yttrandet över
 trafikförsörjningsprogram 2026–2030 för Region Halland.
 
 Sammanfattning     av ärendet
@@ -16000,7 +16000,7 @@ Y T T
 u n s
 2 0 2
 D
-- 2 0 2
+\- 2 0 2
 2 0 2
 R A N D
 t y r e ls e
@@ -16338,7 +16338,7 @@ Som en del av Hallandstrafikens kollektivtrafik (kommun och region) och utifrån
 omfattas färdtjänsten av gällande miljöarbete i samt Hallandstrafikens professionella
 ’Regionalt Trafikförsörjningsprogram’ som bedömning blev ingången att påbörja en
 antogs av Regionfullmäktige den 9 december omställning till ett fossilfritt samhälle senast
-2020. I de riktlinjer som skapades mellan 2030. Aktuella avtalskrav blev därför en
+2020\. I de riktlinjer som skapades mellan 2030. Aktuella avtalskrav blev därför en
 Hallands kommuner och Region Halland funktionell kravställning på fossilfrihet (ingen
 gällande överlåtelse av färdtjänsten pekas de specifik teknik) som när trafikavtal 2022–2026
 strategiska frågorna ut till det regionala trafikf- går igång ska vara 50 procent fossilfritt vid

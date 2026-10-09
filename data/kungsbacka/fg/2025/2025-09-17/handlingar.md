@@ -166,11 +166,11 @@ Sveriges Skolledare - Kristin Arplöw
 
 Plats och tid: VM Lagan 2025-08-20 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 
 Protokoll för mötet 2025-06-03 är justerat.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 
 Arbetsgivaren redovisar ärenden inför nämndsammanträde i augusti.
 
@@ -193,7 +193,7 @@ KUNGSBACKA  KOMMUN
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 Förskola
 
 •  Kristina Gustafsson avslutat anställning
@@ -229,14 +229,14 @@ Beslut: Att anteckna informationen.
 KUNGSBACKA  KOMMUN
 3 (6)
 
-4. Tidplan för införande i Medvind FG
+4\. Tidplan för införande i Medvind FG
 
 Nu finns en tidplan för införande av schemaplaneringsverktyg på de förskolor och fritidshem som
 önskat. Planen sträcker sig till årsskiftet.
 
 Beslut: Att anteckna informationen.
 
-5. Koncept utbildningslokaler inför beslut - Riskbedömning planerad 27 augusti
+5\. Koncept utbildningslokaler inför beslut - Riskbedömning planerad 27 augusti
 
 En del justeringar är gjorda för konceptet för utbildningslokaler. Ärendet går upp till nämnd för beslut
 i oktober om inte serviceförvaltningen vill tidigarelägga. Riskbedömning av förändringarna är
@@ -244,7 +244,7 @@ planerade till den 27 augusti.
 
 Beslut: Att anteckna informationen.
 
-6. Förslag FSG from september förskola/skola/förvaltningsövergripande
+6\. Förslag FSG from september förskola/skola/förvaltningsövergripande
 Förskolans frågor följs av gemensam information för FG, och avslutas med skolspecifika frågor.
 Ombuden behöver endast delta i de delar som berör deras medlemmar.
 
@@ -257,7 +257,7 @@ Arbetsgivarens svar: Arbetsgivaren lägger till eventuellt återkommande frågor
 
 Beslut: Att anteckna informationen.
 
-7. Resursskola - SSG
+7\. Resursskola - SSG
 
 Arbetsgivaren föreslår att det upprättas en särskild samverkansgrupp (SSG) för arbetet att starta
 resursskolan. FSG följer upp arbetet och återkoppling sker löpande. Alla förbund erbjuds delta. Många
@@ -280,7 +280,7 @@ till möte.
 
 Beslut: Dialog.
 
-8. Främjande Fyran
+8\. Främjande Fyran
 
 Initiativ mellan fyra förvaltningschefer: FG, IFO, VO och GA.
 
@@ -297,7 +297,7 @@ gemensamt. Arbetsgivaren kommer att skicka kallelse för inbjudan.
 
 Beslut: Att anteckna informationen.
 
-9. Fastställa datum för heldag FSG i höst
+9\. Fastställa datum för heldag FSG i höst
 Arbetsgivaren föreslår att varje förbund skickar två datum som skulle passa respektive förbund,
 förslagsvis måndag, tisdag eller onsdag.
 
@@ -312,7 +312,7 @@ KUNGSBACKA  KOMMUN
 
 Arbetstagarorganisation
 
-10. Akademikerförbundet SSR påminner om vikten av översyn av elevantal per
+10\. Akademikerförbundet SSR påminner om vikten av översyn av elevantal per
 kuratorstjänst
 
 Arbetsgivaren har gjort en översyn och tittat på jämförelsetalen utifrån varje skolenhet. Arbetsgivaren
@@ -321,7 +321,7 @@ tar med sig frågan.
 
 Beslut: Informationen antecknas.
 
-11. Tjänsteplanering EFL, Sveriges lärare
+11\. Tjänsteplanering EFL, Sveriges lärare
 
 Sveriges Lärare:
 
@@ -355,11 +355,11 @@ För arbetstagarorganisationerna:
 
 Akademikerförbundet SSR             Kommunal
 
--                                   Beatrice Sandgren
+\-                                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 skolledare
@@ -368,7 +368,7 @@ Ronnie Ripgården                    -
 
 Vision                              Vårdförbundet
 
--                                   Anne Melin
+\-                                   Anne Melin
 
 <!-- sida 11 -->
 
@@ -393,7 +393,7 @@ Dok.nr DiarieNr Datum Beskrivning
 Hej!
 
 Här kommer Sveriges Lärares synpunkter på delårsrapporten som presenterades på FSG
-250910.
+250910\.
 
 Sveriges Lärare ser positivt på att sjukfrånvaron och personalomsättningen på FG
 minskat en del samt att vi fortfarande ligger bra till kontra övriga kommunen. Vi ser också
@@ -701,10 +701,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -758,11 +758,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -821,12 +821,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %    73 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %    86 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 2.2.1 Utbildningen ska stimulera till ökad trygghet, glädje och fysisk aktivitet
 Beslutats av
 Nämnd
@@ -839,9 +839,9 @@ Alla våra skolor ska erbjuda organiserade rastaktiviteter.
 Mobiltelefoner, smartklockor och motsvarande enheter ska inte vara tillåtna på våra skolor, varken på
 lektionstid eller under rast.
 Fokusområde
-- Trygghet och studiero
-- Fysisk aktivitet
-- Social interaktion
+\- Trygghet och studiero
+\- Fysisk aktivitet
+\- Social interaktion
 
 6
 
@@ -925,8 +925,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 
@@ -979,8 +979,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -1047,9 +1047,9 @@ barn i behov av särskilt stöd, genom till exempel mindre undervisningsgrupper.
 Våra lärare ska bli bättre rustade i att undervisa elever med neuropsykiatriska funktionsnedsättningar (NPF).
 
 Fokusområde
-- Lärmiljö anpassad efter elevens behov
-- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med NPF
-- Stärka arbetet för särskilt begåvade elever i samarbete med gymnasieskolorna
+\- Lärmiljö anpassad efter elevens behov
+\- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med NPF
+\- Stärka arbetet för särskilt begåvade elever i samarbete med gymnasieskolorna
 Nämndens bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -1088,12 +1088,12 @@ skolorna i de geografiska områdena.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -1274,8 +1274,8 @@ arbetsmarknaden i både offentlig och privat sektor.
 
 Vi ska stärka elevernas kompetens och ge dem goda möjligheter att fatta självständiga val för sin framtid.
 Fokusområde
-- Stärkt framtidstro
-- Undervisning kopplad till konkreta arbetsuppgifter
+\- Stärkt framtidstro
+\- Undervisning kopplad till konkreta arbetsuppgifter
 
 Kommentar
 Det pågår flera aktiviteter i samband med direktivet.
@@ -1334,9 +1334,9 @@ Nolltolerans mot bruk av otillåtna substanser ska konsekvent och likvärdigt ti
 Tillsammans med berörda samhällsaktörer ska det narkotikaförebyggande arbetet utökas, genom till exempel
 användning av narkotikahundar på våra skolor.
 Fokusområde
-- Utökat arbete mot narkotika och normbrytande beteende.
-- Tidiga insatser mot skolfrånvaro
-- Ökat samarbete med vårdnadshavare
+\- Utökat arbete mot narkotika och normbrytande beteende.
+\- Tidiga insatser mot skolfrånvaro
+\- Ökat samarbete med vårdnadshavare
 
 Kommentar
 Nämnden antog under våren riktlinje gällande ANDTS för kommunala förskolor och grundskolor i Kungsbacka
@@ -1377,9 +1377,9 @@ Samtidigt behöver den kollektiva likvärdigheten stärkas i vår organisation. 
 till exempel grovt språk eller begynnande kränkningar ska vara konsekvent och likvärdigt i våra skolor.
 
 Fokusområde
-- Starkare lärarroll
-- Enhetliga normer och arbetssätt
-- Utbildning och kollegialt arbete
+\- Starkare lärarroll
+\- Enhetliga normer och arbetssätt
+\- Utbildning och kollegialt arbete
 Kommentar
 I den partsgemensamma arbetsgruppen med Sveriges lärare är det nu framtaget en plan för kunskapshöjande
 insatser kring bl. a ledarskap i klassrummet, Relationellt ledarskap och gemensam tolkning av den juridiska
@@ -2084,16 +2084,16 @@ elever har gått.
 
 Resultat 2025 års obligatoriska sommarskola
 
-1. Fler anmälda än någonsin, 107 elever var anmälda och av dessa dök 12 st aldrig upp. De
+1\. Fler anmälda än någonsin, 107 elever var anmälda och av dessa dök 12 st aldrig upp. De
 anmälda var fördelade som åk 6 (2 st, ukrainska), åk 7 (14 st), åk 8 (20 st) och åk 9 (71 st).
-2. Skolinspektionen kom på besök dag 3. Allt flöt på och de är mest intresserade av hur våra
+2\. Skolinspektionen kom på besök dag 3. Allt flöt på och de är mest intresserade av hur våra
 bedömningar i åk 9 går till. De betygssättande lärarna, Håkan (rektor) och VC Maria E blev
 intervjuade om fokus rättssäker bedömning i åk 9. Resultat kommer i oktober/november.
 
 Bifogar Rutiner för organisering av lovskolan, rutiner för bedömning och betygsättning genom
 prövning vid lovskolan i Kungsbacka kommun som skolinspektionen tagit del av.
 
-3. Det var i år ont om gymnasieplatser, vilket resulterat i att elever som klarar sitt betyg och då
+3\. Det var i år ont om gymnasieplatser, vilket resulterat i att elever som klarar sitt betyg och då
 skaffat behörighet, inte vet om de ens kommer in på något program. Det har även resulterat i att
 tre elever ej fullföljt sin prövning, trots att de troligt skulle klara den, för att de kommit in på
 IMV (vanligt program, men de läser matematik på grundskolenivå). Hade de fått sitt betyg i
@@ -2103,14 +2103,14 @@ gjorde att de riskerade att bli utan gymnasieplats helt och hållet. Anledningar
 preliminära analysen: Färre platser då några friskolor stänger, några program i Kungsbackas
 gymnasier och på praktiska i Kungsbacka startar inte, samt att Särö skolas elever har i högre
 grad valt Kungsbacka som studieort.
-4. Fler antal elever som klarat prövning än något år tidigare, men också fler åk 9 elever anmälda.
+4\. Fler antal elever som klarat prövning än något år tidigare, men också fler åk 9 elever anmälda.
 
-5. Vi testade en sak framgångsrikt: Åsaskolan startade flera elever lovskolan i matematik redan
+5\. Vi testade en sak framgångsrikt: Åsaskolan startade flera elever lovskolan i matematik redan
 sista veckan på terminen så de redan hade kommit en bit när de startade ordinarie lovskolan.
 Lovskolan betalade vikarie för läraren Anna-Karin till Åsaskolan, hon fortsatte sedan med
 eleverna i ordinarie lovskola.
 
-6. Vi hade lovsimskola parallellt där 2 av 5 elever klarade simtest för åk 9.
+6\. Vi hade lovsimskola parallellt där 2 av 5 elever klarade simtest för åk 9.
 
 Här kommer en tabell med resultat per ämne och vilken skola eleven gick på:
 
@@ -2185,12 +2185,12 @@ Förslag till beslut i nämnden för Förskola & Grundskola
 
 Nämnden för Förskola & Grundskola beslutar:
 
--  Att Det lilla lokets verksamhet flyttas till Stockalids förskola vid årsskiftet 2025/2026.
+\-  Att Det lilla lokets verksamhet flyttas till Stockalids förskola vid årsskiftet 2025/2026.
 
--  Att verksamheten i Lilla Loket kvarstår till sommaren 2026 och därefter flyttas till ombyggda
+\-  Att verksamheten i Lilla Loket kvarstår till sommaren 2026 och därefter flyttas till ombyggda
 lokaler på Åsa Gårdsskolan,
 
--  Att den nya enheten Åsa Gårds förskola öppnar hösten 2026 med plats för 40 barn i etapp 1.
+\-  Att den nya enheten Åsa Gårds förskola öppnar hösten 2026 med plats för 40 barn i etapp 1.
 
 Beskrivning av ärendet
 Enligt tidigare beslutad förändring av skolstrukturen i Åsa ska årskurs 4-9 ha sin skolgång på
@@ -2335,7 +2335,7 @@ på Åsaskolan och årskurs F-3 på den nybyggda Ölmevallaskolan, som beräknas
 gällande beslut.
 Vid nämnden för Förskola & Grundskola den 14 maj 2025 beslutades att:
 
--  Förvaltningen får i uppdrag att utreda förutsättningar att flytta förskoleverksamheten vid Lilla Loket
+\-  Förvaltningen får i uppdrag att utreda förutsättningar att flytta förskoleverksamheten vid Lilla Loket
 till närliggande förskolor, primärt Stockalid respektive Åsa Gårdsskolans lokaler. Utredningen ska
 förutsätta att Åsa Gårdsskolans mellanstadium inte flyttas innan ny skola i Åsa står klar.
 
@@ -2359,18 +2359,18 @@ möjliggöra en byggstart av Ölmevallaskolan krävs det att båda förskolebygg
 2026 och att lokaler för förskoleverksamhet tillskapas enligt gällande beslut. Ölmevallaskolan ska byggas på
 den mark där Lilla Lokets förskola står idag.
 
-1. Det Lilla loket flyttas till Stockalids förskola
+1\. Det Lilla loket flyttas till Stockalids förskola
 Det Lilla Lokets verksamhet som omfattar 40 barn, flyttas till Stockalids förskola vid årsskiftet
 2025/2026. Det innebär att barnen kommer tillhöra Stockalids förskola från januari 2026.
 
-2. Lilla Loket flyttas till nya Åsa Gårds förskola (del av hus C)
+2\. Lilla Loket flyttas till nya Åsa Gårds förskola (del av hus C)
 Verksamheten på Lilla Loket med 40 barn flyttas till en del av hus C på Åsa Gårdsskolan vid
 
 terminsslut sommaren 2026 (till och med v.27) och verksamheten startar därmed upp i ombyggda
 lokaler från terminsstart hösten 2026 (v.32). Den nya verksamheten har fått namnet Åsa Gårds
 förskola.
 
-3. Åsa Gårdsskolan F-6 får minskad lokalyta
+3\. Åsa Gårdsskolan F-6 får minskad lokalyta
 För att möjliggöra fortsatt skolverksamhet för årskurserna F-6, även i det fall delar av hus C anpassas
 för förskoleverksamhet, krävs små lokalanpassningar i befintliga lokaler. Dessa omfattar exempelvis
 rivning av vägg mellan klassrum samt borttagning av vikvägg. Det är nödvändigt att de åtgärder som
@@ -2388,11 +2388,11 @@ Byggnation av nya skolan
 För att den nya Ölmevallaskolan ska kunna startas upp höstterminen 2028 krävs det att flera processer
 samverkar och att delmoment genomförs i rätt tid och i rätt ordning. Det handlar om:
 
--  avveckling av externt inhyrda lokaler, Det lilla loket och Lilla loket, sker sommaren 2026. Dialog
+\-  avveckling av externt inhyrda lokaler, Det lilla loket och Lilla loket, sker sommaren 2026. Dialog
 med fastighetsägare är nödvändigt för att säkerställa att avyttringsprocessen anpassas. Byggstart av
 skolan förutsätter att båda förskolelokalerna är avyttrade innan byggstart pga. placering av nya
 skolan.
--  säkerställa att det finns tillräckligt med förskoleplatser i Åsa på kort och lång sikt genom
+\-  säkerställa att det finns tillräckligt med förskoleplatser i Åsa på kort och lång sikt genom
 tillskapande av förskoleplatser i Åsa Gårdsskolans hus C.
 
 Lilla loket
@@ -2631,7 +2631,7 @@ Beskrivning av ärendet
 
 Personalkooperativet Sälungens förskola i Ur och Skur har ansökt om utökning av barnantalet till 20
 barn på Sälungens förskola i Fjärås, Rajgräsvägen 28C-D. Verksamheten i Fjärås har bedrivits sedan
-2018. Huvudmannen har i beslut från 2019 godkännande som omfattar 17 barn.
+2018\. Huvudmannen har i beslut från 2019 godkännande som omfattar 17 barn.
 
 Huvudman har utökat sin lokal med cirka 180 kvadratmeter, vilket föranledde huvudmannens ansökan
 om utökning för Sälungens förskola i Fjärås.
@@ -2664,9 +2664,9 @@ Förvaltningen bedömer att en permanent utökning till 20 barn kan godkännas.
 Rättslig reglering
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -2699,7 +2699,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #210768 | Inskickat av: Anette Maria Margarethe Bergman | 2025-06-03 13:04
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -2763,7 +2763,7 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 69 -->
 
-2. Utökning
+2\. Utökning
 
 Antal personal idag
 
@@ -2803,7 +2803,7 @@ börjar i annan verksamhet i augusti 2025.
 I Bilaga plan lösning: är grå yta städ/förråd i den andra ritningen står det om det är barn eller
 personalutrymmen.
 
-3. Bilagor
+3\. Bilagor
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se

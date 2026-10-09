@@ -85,7 +85,7 @@ Datum
 2024-10-17
 
 Personalföreträdare           Övriga
--                             -
+\-                             -
 
 Plats och tid för justering Digital justering
 
@@ -132,7 +132,7 @@ Utdelning av Studentstipendium 2024 - Nämnden för Vård & Omsorg .... 16
 
 § 134 Dnr VO-2024-00414
 Initiativärende från Per Hoel (SD) - Trygghetsombud inom äldreomsorgen
-- En värdig ålderdom .................................................................................. 18
+\- En värdig ålderdom .................................................................................. 18
 
 § 135 Dnr VO-2020-00871
 Information - Upphandlingsförfarandet av Digitala inköp & matdistribution
@@ -196,7 +196,7 @@ Sammanfattning av ärendet
 
 Ordförande Hravn Forsne (M) anmäler ett initiativärende till dagens sammanträde
 
-- Initiativ från Per Hoel (SD) m.fl. - Trygghetsombud inom äldreomsorgen - En
+\- Initiativ från Per Hoel (SD) m.fl. - Trygghetsombud inom äldreomsorgen - En
 värdig ålderdom
 
 Beslutsgång
@@ -272,12 +272,12 @@ Sammanfattning av ärendet
 Nämnden för Vård & Omsorg gav den 22 februari 2024 förvaltningschefen i uppdrag
 att:
 
-1. Genomföra en utredning för att kartlägga behoven och resurserna för att etablera
+1\. Genomföra en utredning för att kartlägga behoven och resurserna för att etablera
 en sådan avdelning på Signes Hus
-2. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre
+2\. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre
 personer.
 
-3. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om möjligt
+3\. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om möjligt
 statliga donationer.
 
 Utredningen visar att avdelning Brokö på Signeshus skulle kunna vara en lämplig
@@ -900,7 +900,7 @@ Planeringsteamet, Serviceteamet och hemtjänst Natt har berörts av piloten.
 Nu har förvaltningen för Vård & Omsorg beslutat att arbetssättet ska införas i
 samtliga hemtjänstgrupper i Kungsbacka kommun. Implementering sker stegvis med
 ett distrikt i taget och målet är att arbetssättet ska vara implementerat till sommaren
-2025. Personal i hemtjänsten kommer att utbildas i samband med införandet.
+2025\. Personal i hemtjänsten kommer att utbildas i samband med införandet.
 
 Förvaltningen kommer att återkomma till nämnden delårsvis under 2025 med
 information om arbetet med breddinförandet.

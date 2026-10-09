@@ -331,13 +331,13 @@ Sammanfattning av ärendet
 Under perioden 4 juni - 6 september 2024 har följande skrivelser inkommit till
 valnämnden:
 
-- Civic education for American living in Sweden
-- Valmyndighetens nyhetsutskick v. 28-30
+\- Civic education for American living in Sweden
+\- Valmyndighetens nyhetsutskick v. 28-30
 
-- Valmyndighetens nyhetsutskick v. 28
-- Valmyndighetens nyhetsutskick v. 27
+\- Valmyndighetens nyhetsutskick v. 28
+\- Valmyndighetens nyhetsutskick v. 27
 
-- Valmyndighetens nyhetsutskick v. 25
+\- Valmyndighetens nyhetsutskick v. 25
 
 Beslutsgång
 

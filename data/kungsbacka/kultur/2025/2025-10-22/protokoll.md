@@ -262,9 +262,9 @@ för föreningar vid korttidsuthyrning av anläggningar (verksamhetsytor).
 
 Nämnden för Kultur & Fritid beslutar att självkostnadspriset vid korttidsuthyrning av
 anläggningar (verksamhetsytor) ska vara:
-*minst 30 % år 2032.
+\*minst 30 % år 2032.
 
-*minst 15 % för ridanläggningar och isytor år 2032.
+\*minst 15 % för ridanläggningar och isytor år 2032.
 
 Nämnden för Kultur & Fritid antar förvaltningens förslag till regler för uthyrning av
 lokaler och anläggningar förutsatt ovan beslut i Kommunfullmäktige. Reglerna ska
@@ -358,10 +358,10 @@ Beslut
 
 Nämnden för Kultur & Fritid beslutar att:
 
-* godkänna nämndbudget 2026
-* uppdra åt förvaltningschefen att upprätta förvaltningsbudget för 2026
+\* godkänna nämndbudget 2026
+\* uppdra åt förvaltningschefen att upprätta förvaltningsbudget för 2026
 
-* uppdra åt förvaltningschefen att göra nödvändiga omfördelningar i
+\* uppdra åt förvaltningschefen att göra nödvändiga omfördelningar i
 Förvaltningsbudgeten under året samt att informera nämnden om dessa i samband
 med delårsrapport och bokslut
 
@@ -370,12 +370,12 @@ Sammanfattning av ärendet
 Kommunfullmäktige beslutade 2025-06-16 att fastställa kommunövergripande mål
 som utgångspunkt för nämndens arbete med verksamhetsplanering. I
 verksamhetsplanen ingår bland annat:
-* Nämndens övergripande inriktning för arbetet i förvaltningen
+\* Nämndens övergripande inriktning för arbetet i förvaltningen
 
-* Målbild samt eventuella mål och direktiv
+\* Målbild samt eventuella mål och direktiv
 
-* Ramfördelning driftbudget
-* Investeringsbudget
+\* Ramfördelning driftbudget
+\* Investeringsbudget
 
 Nämnden fördelar driftbudgeten i tre delar: bidrag, förvaltning och kapitalkostnader.
 Ramen som fördelas till bidrag räknas inte upp inför 2026 då ett förändringsarbete
@@ -466,33 +466,33 @@ som innehåller denna målbild, och dessa principer för att arbeta för målbil
 uppfyllas:
 
 Målbild
-1. Rättvis resursfördelning. Likvärdiga och jämställda förutsättningar för alla att
+1\. Rättvis resursfördelning. Likvärdiga och jämställda förutsättningar för alla att
 kunna delta i de verksamheter de önskar inom kultur och fritid, med god
 tillgänglighet för personer med funktionsnedsättning.
 
-2. Anläggningar som barn och ungdomar själva enkelt kan ta sig till.
-3. God förvaltning av beståndet av lokaler. Renoveringar, om- och utbyggnader vid
+2\. Anläggningar som barn och ungdomar själva enkelt kan ta sig till.
+3\. God förvaltning av beståndet av lokaler. Renoveringar, om- och utbyggnader vid
 behov.
 
-4. Lokaler som tar hänsyn till den sociala, ekonomiska och kulturella roll som
+4\. Lokaler som tar hänsyn till den sociala, ekonomiska och kulturella roll som
 idéburen sektor spelar i samhället.
-5. Fokusering. Verksamhetslokaler som på ett flexibelt sätt uppfyller behov som är i
+5\. Fokusering. Verksamhetslokaler som på ett flexibelt sätt uppfyller behov som är i
 
 linje med förvaltningens uppdrag.
-6. Regional samverkan för att balansera behoven mellan kommuner.
+6\. Regional samverkan för att balansera behoven mellan kommuner.
 
 Principer
-1. Planera förvaltningens samlade bestånd av lokaler utifrån omvärldsanalyser samt
+1\. Planera förvaltningens samlade bestånd av lokaler utifrån omvärldsanalyser samt
 analyser av befolkningsprognoser och beteendemönster, inklusive nya aktiviteter,
 och planera tillkommande lokaler utifrån detta.
 
-2. Utnyttja såväl befintliga som nya lokaler mer effektivt, bl.a. genom att höja
+2\. Utnyttja såväl befintliga som nya lokaler mer effektivt, bl.a. genom att höja
 nyttjande- och beläggningsgraden, dvs. nyttja lokalerna under fler timmar och av fler
 personer per vecka än i nuläget, när detta är möjligt och önskvärt.
 
-3. Optimera lokaler för att möjliggöra hög grad av samnyttjande mellan olika
+3\. Optimera lokaler för att möjliggöra hög grad av samnyttjande mellan olika
 verksamheter. Detta gäller även vid renoveringar och ombyggnationer.
-4. Utforma lokaler så att de passar för olika verksamheter/typer av kultur och idrott.
+4\. Utforma lokaler så att de passar för olika verksamheter/typer av kultur och idrott.
 Låta organiserade och spontana kultur- och idrottsaktiviteter samsas i gemensamma
 
 Det här dokumentet är digitalt signerat
@@ -508,16 +508,16 @@ Datum
 
 lokaler, och samlokalisera aktiviteter inriktade på spets med aktiviteter inriktade på
 bredd.
-5. Nyttja en bredd av hyresmodeller och ägandeformer, bl.a. med medverkan av
+5\. Nyttja en bredd av hyresmodeller och ägandeformer, bl.a. med medverkan av
 kommersiella aktörer, för att optimera nyttan för invånarna.
 
-6. Hålla nere förvaltningens kostnader för lokaler genom att i högre grad än tidigare
+6\. Hålla nere förvaltningens kostnader för lokaler genom att i högre grad än tidigare
 ge stöd riktat till föreningars och andra samarbetsparters aktiviteter hellre än till
 deras lokalkostnader.
 
-7. Uppmuntra till att föreningar och andra samarbetsparter i högre grad än tidigare
+7\. Uppmuntra till att föreningar och andra samarbetsparter i högre grad än tidigare
 själva äger sina lokaler.
-8. Ta tillvara de möjligheter som finns i lagstiftning för att kravställa lokaler för
+8\. Ta tillvara de möjligheter som finns i lagstiftning för att kravställa lokaler för
 kultur- och idrottsändamål vid marktilldelningar till privata exploatörer.
 
 Behoven för nya kultur- och fritidslokaler kommer under planperioden att vara större

@@ -229,7 +229,7 @@ Ny tomt på Heberg 2:4 som vill ansluta sig via 2:18 privata ledningar
 
 1:20
 FEN
--
+\-
 
 KC
 

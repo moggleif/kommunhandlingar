@@ -257,7 +257,7 @@ Nämnden för Individ & Familjeomsorg antar Konkurrensutsättningsplan Nämnden
 för Individ & Familjeomsorg 2025.
 
 Nämnden för Individ & Familjeomsorg antar Årsplan för konkurrensutsättning 2025
-- Nämnden för Individ & Familjeomsorg.
+\- Nämnden för Individ & Familjeomsorg.
 
 Reservation
 
@@ -311,20 +311,20 @@ Internkontrollplan 2025
 Beslut
 
 Nämnden för Individ och Familjeomsorg godkänner upprättad Internkontrollplan
-2025.
+2025\.
 
 Sammanfattning av ärendet
 En god intern kontroll ska bidra till att verksamheten bedrivs effektivt och säkert
 med invånarnas bästa som utgångspunkt. Det handlar om att säkra att det som ska
 göras blir gjort, på det sätt som det är tänkt. Detta innebär konkret att
 
-* Vi följer lagar, föreskrifter, policys och riktlinjer
-* Vår verksamhet följer mål och riktlinjer och är kostnadseffektiv
+\* Vi följer lagar, föreskrifter, policys och riktlinjer
+\* Vår verksamhet följer mål och riktlinjer och är kostnadseffektiv
 
-* Vår finansiella rapportering och information om verksamheten är pålitlig
-* Vi skyddar kommunens tillgångar mot förluster eller förstörelse
+\* Vår finansiella rapportering och information om verksamheten är pålitlig
+\* Vi skyddar kommunens tillgångar mot förluster eller förstörelse
 
-* Vi upptäcker och förhindrar allvarliga fel
+\* Vi upptäcker och förhindrar allvarliga fel
 Enligt kommunens process för intern styrning och kontroll ska nämnderna varje år
 senast i november anta en internkontrollplan för kommande år som är baserad på en
 

@@ -698,7 +698,7 @@ Högsta byggnadshöjd  för huvudbyggnad  är 5,5 m
 Fastighetsgräns                               Uthus fasad, resp. tak                    Höjd  på  byggnadsverk
 Högsta nockhöjd för huvudbyggnad  är 8,0 m
 Gång- och cykelbana                           Skärmtak
-Högsta byggnadshöjd  för garage, carport, förråd etc är 3,0 m                                                                                                                                                                        Högsta  nockhöjd  på  huvudbyggnad    är <angivet>  meter
+Högsta byggnadshöjd  för garage, carport, förråd etc är 3,0 m                                                                                                                                                                        Högsta  nockhöjd  på  huvudbyggnad    är \<angivet>  meter
 Höjdkurva 1,0 m
 Högsta nockhöjd för garage, carport, förråd etc är 4,5 m                                                                                                                                                                             över angivet nollplan.
 Takvinkel
@@ -771,7 +771,7 @@ helhet diarieförda i kommunens diarium. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra allmänna
 intressen och bedömer, med hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
@@ -791,25 +791,25 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet har inga synpunkter på planförslaget.
 
-3. Sveriges Geotekniska Institut, SGI
+3\. Sveriges Geotekniska Institut, SGI
 
 Tidigare framförda synpunkter har hanterats och SGI har inga ytterligare synpunkter på planförslaget.
 
-4. Trafikverket
+4\. Trafikverket
 Trafikverket anser fortfarande att kommunen behöver ta över huvudansvar för väghållningen i
 Kullavik.
 
 Kommentar: Noteras
 
-5. Räddningstjänsten
+5\. Räddningstjänsten
 Räddningstjänsten har inget att erinra avseende föreslagen detaljplan.
 
 Sakägare
-6. Fastighetsägare till Malevik 1:72 och Malevik 1:177
+6\. Fastighetsägare till Malevik 1:72 och Malevik 1:177
 
 Fastighetsägaren anser fortfarande att en byggnation i enlighet med föreslagen detaljplan kommer att
 skugga Malevik 1:72 och 1:177 och påverka dessa fastigheters värde. Avsändarna understryker att
@@ -846,12 +846,12 @@ lämnas in går att läsa om här: Så begär du planbesked | Kungsbacka kommun
 
 Organisationer och föreningar
 
-7. Maleviks vägars Samfällighetsförening
+7\. Maleviks vägars Samfällighetsförening
 Maleviks vägars Samfällighetsförening har inga invändningar mot planförslaget.
 
 Kommunala förvaltningar och nämnder
 
-8. Teknik
+8\. Teknik
 
 Förvaltningen för Teknik uppmärksammar att vändplatsen längst in vid fastigheterna ska ha en
 diameter om minst 18 meter. Om denna dimension inte uppfylls, ska avfallskärlen placeras vid
@@ -966,17 +966,17 @@ standardförfarande.
 
 Under samrådet ska Länsstyrelsen enligt 5 kap. 14 § PBL särskilt
 
-1. ta till vara och samordna statens intressen
-2. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
+1\. ta till vara och samordna statens intressen
+2\. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
 (1998:808), MB, tillgodoses, att miljökvalitetsnormer enligt 5
 
 kap. MB följs och att strandskydd enligt 7 kap. MB inte
 upphävs i strid med gällande bestämmelser
-3. verka för att sådana frågor om användningen av mark- och
+3\. verka för att sådana frågor om användningen av mark- och
 vattenområden som angår två eller flera kommuner
 
 samordnas på ett lämpligt sätt
-4. verka för att en bebyggelse inte blir olämplig eller ett
+4\. verka för att en bebyggelse inte blir olämplig eller ett
 byggnadsverk olämpligt med hänsyn till människors hälsa
 eller säkerhet eller till risken för olyckor, översvämning eller
 
@@ -1114,7 +1114,7 @@ helhet diarieförda i kommunens diarium. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10 § PBL och nu kända
 
 förhållanden att frågor som rör Hälsa och säkerhet, risk för olycka och erosion ska lösas på ett
@@ -1173,7 +1173,7 @@ Sekundär egenskapsgräns har tagits bort från legenden tillhörande plankartan
 planbeskrivning har tydliggjorts avseende var förslag till ändring av S21A gäller. Planbestämmelse
 om högsta nockhöjd har roterats för att tydliggöra inom vilket område planbestämmelsen gäller.
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Otydligt om vilken del av detaljplan s21a som ska ändras.
 
 På sidan 9 i planbeskrivningen framgår det genom hänvisning till Figur 3 om hur detaljplan S21A
@@ -1223,7 +1223,7 @@ Sekundär egenskapsgräns har tagits bort från legenden tillhörande plankartan
 Fastighetsgränser har sedan tidigare kontrollmätts och anses ha bra kvalitet. Det är därför
 inte aktuellt med inmätning i fält.
 
-3. Räddningstjänsten Storgöteborg
+3\. Räddningstjänsten Storgöteborg
 Närmsta brandpost ligger enligt RSG:s underlag när Långenäsvägen delar sig och delvis blir Maleviks
 vipväg, cirka 150 meter bort. RSG rekommenderar att ytterligare brandpost placeras längre ut på nätet
 
@@ -1242,7 +1242,7 @@ RSG har inget att erinra inför fortsatt planarbete.
 
 Kommentar: Yttrandet noteras.
 
-4. Trafikverket
+4\. Trafikverket
 Kungsbacka kommun har varit expansiva under många år men någon ändring av väghållaransvaret har
 
 inte skett. Trafikverket har i samråd med Riksförbundet enskilda vägar (REV) och Sveriges kommuner
@@ -1259,7 +1259,7 @@ Kommentar:
 Kungsbacka kommun delar inte Trafikverkets uppfattning om att väghållningsansvaret ska
 övergå till kommunen.
 
-5. Statens geotekniska institut (SGI)
+5\. Statens geotekniska institut (SGI)
 Enligt 2 kap 5 § PBL ska bebyggelse och byggnadsverk lokaliseras till mark som är lämpad för
 ändamålet med hänsyn till bland annat människors hälsa och säkerhet samt med hänsyn till risken för
 
@@ -1302,7 +1302,7 @@ KUNGSBACKA  KOMMUN
 
 Sakägare
 
-6. Fastighetsägare till Malevik 1:72 och Malevik 1:177
+6\. Fastighetsägare till Malevik 1:72 och Malevik 1:177
 
 I enlighet med vad vi tidigare inkommit med så motsätter vi oss ändring av detaljplan gällande
 Malevik 1:39. En ändring av detaljplanen och nybyggnation innebär att Malevik 1:72 och Malevik
@@ -1327,14 +1327,14 @@ Vad gäller planändring inom Malevik 1:72 är detta en separat fråga som i så
 prövas genom en ansökan om planbesked.
 
 Kommunala förvaltningar och nämnder
-7. Teknik
+7\. Teknik
 
 Teknik har inget att erinra, men vill informera om följande:
-- Planområdet ligger utanför verksamhetsområde för dagvatten och det är fastighetsägarens ansvar att
+\- Planområdet ligger utanför verksamhetsområde för dagvatten och det är fastighetsägarens ansvar att
 lösa fastighetens behov av dagvatten- och skyfallshantering och säkerställa att exploatering inte
 påverkar nedströms fastigheter negativt.
 
-- Allmänna spill- och dricksvattenledningar finns vid planområdets sydöstra spets där fastigheterna
+\- Allmänna spill- och dricksvattenledningar finns vid planområdets sydöstra spets där fastigheterna
 Malevik 1:159, 1:160 samt 1:171 idag har förbindelsepunkter för dricks- och spillvatten. Anledningen
 till att dessa fastigheter inte har förbindelsepunkter vid respektive fastighetsgräns är att de anses vara
 så kallade oäkta skaftfastigheter då de har tillfartsväg reglerad med servitut över Malevik 1:39.
@@ -1345,23 +1345,23 @@ Detaljplanen innebär inte några förändringar avseende detta.
 KUNGSBACKA  KOMMUN
 7 (7)
 
-- Detaljplanens genomförande innebär att fastighetsägare behöver ansöka om VA-anslutning och
+\- Detaljplanens genomförande innebär att fastighetsägare behöver ansöka om VA-anslutning och
 
 erlägga anslutningsavgift för VA.
 
 Kommentar: Yttrandet noteras.
-8. Miljö & Hälsoskydd
+8\. Miljö & Hälsoskydd
 
 Miljö & Hälsoskydd avstår från att yttra sig.
 Kommentar: Yttrandet noteras.
 
 Övriga
-9. Skanova
+9\. Skanova
 
 Skanova/Telia Company påverkas inte av, och har inget att erinra.
 Kommentar: Yttrandet noteras.
 
-10. Ellevio
+10\. Ellevio
 Ellevio har inget att erinra.
 
 Kommentar: Yttrandet noteras.
@@ -1961,9 +1961,9 @@ tolkats   i samband      med   ändring    av
 Mallen    innehåller     följande:
 underjordiska      ledningar.
 detaljplan    utan   kvarstår   oförändrad.
-- plankarta     (genereras      från   ditt arbete)
+\- plankarta     (genereras      från   ditt arbete)
 Takvinkel
-- legend    för  planbestämmelser           (genereras      från   ditt arbete)
+\- legend    för  planbestämmelser           (genereras      från   ditt arbete)
 EGENSKAPSBESTÄMMELSER                                 FÖR      ALL
 Minsta    takvinkel   för  huvudbyggnad        är  30                                          - Teckenförklaring         kartdata    (genereras      från   ditt arbete)
 KVARTERSMARK
@@ -2074,17 +2074,17 @@ standardförfarande.
 
 Under samrådet ska Länsstyrelsen enligt 5 kap. 14 § PBL särskilt
 
-1. ta till vara och samordna statens intressen
-2. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
+1\. ta till vara och samordna statens intressen
+2\. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
 (1998:808), MB, tillgodoses, att miljökvalitetsnormer enligt
 
 5 kap. MB följs och att strandskydd enligt 7 kap. MB inte
 upphävs i strid med gällande bestämmelser
-3. verka för att sådana frågor om användningen av mark- och
+3\. verka för att sådana frågor om användningen av mark- och
 vattenområden som angår två eller flera kommuner
 
 samordnas på ett lämpligt sätt
-4. verka för att en bebyggelse inte blir olämplig eller ett
+4\. verka för att en bebyggelse inte blir olämplig eller ett
 byggnadsverk olämpligt med hänsyn till människors hälsa
 eller säkerhet eller till risken för olyckor, översvämning eller
 
@@ -2124,7 +2124,7 @@ Länsstyrelsen delar kommunens bedömning att detaljplanen
 överensstämmer med översiktsplanen.
 
 Länsstyrelsens synpunkter
-- prövningsgrunder  enligt 11 kap. 10 § PBL
+\- prövningsgrunder  enligt 11 kap. 10 § PBL
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget
 tillgodoser statliga eller andra allmänna intressen och bedömer med
@@ -2134,7 +2134,7 @@ förhållanden att ett antagande av detaljplanen inte kommer att
 prövas.
 
 Länsstyrelsens synpunkter
-- råd enligt 2 kap. PBL
+\- råd enligt 2 kap. PBL
 
 Formaliafrågor
 
@@ -2264,7 +2264,7 @@ helhet diarieförda i kommunens diarium. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra allmänna
 intressen och bedömer med hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
@@ -2281,16 +2281,16 @@ det dock fortfarande att detaljplan T16 ändras med upphävande av 39 § byggnad
 Kommentar:
 
 Plankartan har uppdaterats utifrån yttrandet.
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet har inga synpunkter på planförslaget.
 Kommentar: Yttrandet noteras.
 
-3. Räddningstjänsten Storgöteborg
+3\. Räddningstjänsten Storgöteborg
 RSG har ingen erinran gällande ändring av detaljplan.
 
 Kommentar: Yttrandet noteras.
-4. Trafikverket
+4\. Trafikverket
 
 Kommunen måste säkerställa att bebyggelsen kommer klara bullerförordningar.
 
@@ -2306,31 +2306,31 @@ KUNGSBACKA  KOMMUN
 
 Sakägare
 
-5. Fastighetsägare till Violen 5
+5\. Fastighetsägare till Violen 5
 
-1. Byggnadshöjd och anpassning till omgivningen
+1\. Byggnadshöjd och anpassning till omgivningen
 •  Trots sänkt nockhöjd från 16 till 13 meter anses byggnaden fortfarande vara för hög.
 •  Den höga byggnaden påverkar negativt den småskaliga villabebyggelsen längs
 Borgmästaregatan.
 •  Nybyggnationen bryter mot områdets karaktär av låg, grön och harmonisk bebyggelse.
 •  Hyreshus i närområdet påverkas inte direkt – det är villaområdet som drabbas mest.
 •  Förslaget riskerar att förändra områdets identitet negativt.
-2. Hänsyn till befintlig bebyggelse och historik
+2\. Hänsyn till befintlig bebyggelse och historik
 •  Villorna har funnits sedan 1950-talet, skolbyggnaden sedan 1960-talet.
 •  Området har en etablerad småskalig struktur som inte beaktas tillräckligt i planförslaget.
 •  Anpassning till den historiska miljön är nödvändig enligt Plan- och bygglagen.
-3. Solförhållanden
+3\. Solförhållanden
 •  Solstudien visar att byggnaderna skapar omfattande skuggning.
 •  Kvällssolen försvinner tidigare, vilket påverkar uteplatser negativt.
 
 •  Studien ifrågasätts då den inte stämmer med verkliga ljusförhållanden.
-4. Insyn och boendemiljö
+4\. Insyn och boendemiljö
 •  Ökad byggnadshöjd medför insyn från högre våningsplan.
 •  Detta påverkar den personliga integriteten och livskvaliteten negativt.
-5. Trafik och framtida användning
+5\. Trafik och framtida användning
 •  Oro för att området kan få annan användning än skola, t.ex. äldreboende.
 •  Det skulle innebära ökad trafik även utanför skoltid, vilket försämrar boendemiljön.
-6. Fastighetsvärden
+6\. Fastighetsvärden
 •  Exploateringen kan leda till minskade fastighetsvärden.
 •  Sämre utsikt, mindre sol och ökad insyn är faktorer som påverkar negativt.
 
@@ -2348,7 +2348,7 @@ För samhällsbyggnadskontorets kommentar – se samlat utlåtande på sidan 8.
 KUNGSBACKA  KOMMUN
 4 (10)
 
-6. Fastighetsägare till Violen 6
+6\. Fastighetsägare till Violen 6
 Otillräcklig hänsyn till faktisk påverkan
 
 •  Kommunens jämförelse med teoretisk byggrätt enligt gällande detaljplan anses missvisande –
@@ -2383,7 +2383,7 @@ fastighetsvärden.
 Kommentar:
 För samhällsbyggnadskontorets kommentar – se samlat utlåtande på sidan 8.
 
-7. Fastighetsägare till Violen 7
+7\. Fastighetsägare till Violen 7
 Vi vill härmed lämna synpunkter på reviderat förslag till ändring av detaljplan K35 och T16-Spoven 1,
 
 Kungsbacka kommun.
@@ -2446,15 +2446,15 @@ Mot denna bakgrund föreslår vi följande justeringar:
 KUNGSBACKA  KOMMUN
 6 (10)
 
-1. Att byggnadsgränserna justeras så att högre byggnader inte placeras i direkt anslutning till
+1\. Att byggnadsgränserna justeras så att högre byggnader inte placeras i direkt anslutning till
 
 Borgmästaregatan, och att nockhöjden för hela Spoven 1 hålls på en nivå som liknar den
 befintliga Tingbergsskolans.
-2. Om detta inte är möjligt, bör en stegvis höjdövergång införas, där byggnader närmast
+2\. Om detta inte är möjligt, bör en stegvis höjdövergång införas, där byggnader närmast
 Borgmästaregatan begränsas till lägre våningshöjd, medan högre hus tillåts längre in på
 fastigheten.
 
-3. Att planbestämmelserna kompletteras med ljus- och skuggstudier för att säkerställa att
+3\. Att planbestämmelserna kompletteras med ljus- och skuggstudier för att säkerställa att
 boendemiljön inte påverkas negativt.
 Vi anser att om dessa förslag följs kan boendemiljön för närliggande bostäder fortsatt erbjuda goda
 ljusförhållanden, bibehållen integritet och trivsel, samtidigt som risken för värdeminskning minimeras.
@@ -2467,7 +2467,7 @@ och möjliggöra en mer informerad dialog mellan kommunen och de boende.
 Kommentar:
 För samhällsbyggnadskontorets kommentar – se samlat utlåtande på sidan 8.
 
-8. Fastighetsägare till Vitsippan 4
+8\. Fastighetsägare till Vitsippan 4
 Vi som fastighetsägare på Borgmästaregatan 20 vill härmed framföra våra synpunkter på det
 reviderade förslaget till detaljplan för Spoven 1.
 
@@ -2502,7 +2502,7 @@ anslutning till planområdet
 Kommentar:
 
 För samhällsbyggnadskontorets kommentar – se samlat utlåtande på sidan 8.
-9. Fastighetsägare till Vitsippan 5
+9\. Fastighetsägare till Vitsippan 5
 
 Fastigheten som tänkts byggas är alldeles för hög och bör inte vara högre än omgivande fastigheter så
 som Borgmästaregatan och Lundgrens gatan samt att placeringen är för nära tomtgräns. Både insyn
@@ -2513,7 +2513,7 @@ fastigheter.
 Kommentar:
 För samhällsbyggnadskontorets kommentar – se samlat utlåtande på sidan 8.
 
-10. Fastighetsägare till Vitsippan 6
+10\. Fastighetsägare till Vitsippan 6
 Planen att bygga ett högt hus så nära tomtgränsen kommer vi inte gå med på. Det kommer skugga både
 vår tomt och grannarnas. Tomten där det tilltänkta huset står på är dessutom prickad. Då det är en
 sluttande tomt kommer insynen bli oacceptabel. Vi föreslår att ni vänder huset och lägger bredsidan
@@ -2573,7 +2573,7 @@ KUNGSBACKA  KOMMUN
 9 (10)
 
 Kommunala förvaltningar och nämnder
-11. Teknik
+11\. Teknik
 Förvaltningen för Teknik ser positivt på de möjligheter som detaljplanen möjliggör med ytterligare
 kommunal service centralt beläget i Kungsbacka stad.
 
@@ -2758,7 +2758,7 @@ helhet diarieförda i kommunens diarium. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra allmänna
 intressen och bedömer med hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
@@ -2809,17 +2809,17 @@ Kommunen är av uppfattningen att planändringen följer Boverkets inställning 
 en detaljplan för ett geografiskt område. Det geografiska området är i detta fall definierat av
 planområdesgränsen för ändringen, och det är inom denna avgränsning som ändringen gäller. Inom
 detta geografiska område kommer det även fortsättningsvis endast finnas en detaljplan.
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet har inga synpunkter på planförslaget.
 Kommentar: Yttrandet noteras.
 
-3. Räddningstjänsten Storgöteborg
+3\. Räddningstjänsten Storgöteborg
 RSG har ingen erinran gällande ändring av detaljplan.
 
 Kommentar: Yttrandet noteras.
 
-4. Trafikverket
+4\. Trafikverket
 Eftersom bullerutredningen inte finns i översända handlingar utgår Trafikverket från att kommunen har
 beaktat bullerfrågan och att bebyggelsen kommer klara bullerförordningar (SFS 2015:216).
 
@@ -2886,11 +2886,11 @@ Hög bebyggelse i nära anslutning riskerar att förändra områdets karaktär p
 upplevs som negativt för både boende och helhetsmiljö.
 Förslag till justering
 
-1. Att byggnadsgränserna justeras så att högre byggnader inte placeras i direkt anslutning till
+1\. Att byggnadsgränserna justeras så att högre byggnader inte placeras i direkt anslutning till
 Borgmästaregatan.
-2. Att en stegvis höjdövergång införs, där byggnader närmast Borgmästaregatan begränsas till
+2\. Att en stegvis höjdövergång införs, där byggnader närmast Borgmästaregatan begränsas till
 lägre våningshöjd, medan eventuellt högre hus tillåts längre in på fastigheten.
-3. Att planbestämmelserna vid behov kompletteras med ljus- och skuggstudier för att säkerställa
+3\. Att planbestämmelserna vid behov kompletteras med ljus- och skuggstudier för att säkerställa
 att boendemiljön inte påverkas negativt.
 
 Sammanfattning
@@ -2916,7 +2916,7 @@ detaljplanen
 KUNGSBACKA  KOMMUN
 6 (8)
 
-14. Fastighetsägare till Vitsippan 3
+14\. Fastighetsägare till Vitsippan 3
 På plankartan visas endast ytan som är tilltänkt att bebyggas. Där framgår nockhöjd 13 m och vinkel
 30 grader. Det finns ingen information om var högsta höjden placeras. När man vill öka takhöjden till
 13 m mot tidigare max 7 m oroas vi som har hus på Borgmästaregatan att framför allt kvällsljuset
@@ -2929,7 +2929,7 @@ specifik och svår att anpassa vid framtida behov. Inför granskningsskedet har 
 tagits fram som visar att förslag till ändring, möjliggör byggnation med mindre påverkan på
 omgivningen i form av skuggning än vad som är tillåtet enligt den nu gällande detaljplanen.
 
-15. Fastighetsägare till Vitsippan 5
+15\. Fastighetsägare till Vitsippan 5
 Jag anser att enligt planbeskrivning att nockhöjd på 16m inte är ok på grund av att detta kommer
 försämra kvällssol och ge förhöjd insyn samt att fastigheter i denna höjd kan placeras så nära som 10
 meter 'Prickad mark' från tomtgräns vilket är för nära.
@@ -2950,7 +2950,7 @@ KUNGSBACKA  KOMMUN
 7 (8)
 
 Kommunala förvaltningar och nämnder
-16. Teknik
+16\. Teknik
 Idag finns Tingbergsskolan på fastigheten Spoven 1. Skolan nyttjar angränsande parkeringsytor
 utanför fastigheten, väster om planområdet. Teknik bedömer att dessa parkeringsytor bör inkluderas i
 detaljplanen eftersom de idag nyttjas för att lösa befintlig verksamhets parkeringsbehov och troligen
@@ -2968,20 +2968,20 @@ till ändring.
 Förvaltningen för Service har meddelat att de inte ser någon risk för att framtida verksamhet
 genererar fler trafikrörelser än vad som genereras av pågående skolverksamhet.
 
-17. Miljö & Hälsoskydd
+17\. Miljö & Hälsoskydd
 Miljö & Hälsoskydd har inga synpunkter eftersom det är inom ett befintligt och
 
 etablerat område sedan tidigare.
 Kommentar: Yttrandet noteras.
 
-18. Service
+18\. Service
 Nämnden för Service ser positivt på den nya detaljplanen inom Spoven 1, Kungsbacka kommun och
 har ingenting att erinra.
 
 Kommentar: Yttrandet noteras.
 
 Övriga
-19. Ellevio
+19\. Ellevio
 
 Ellevio har inget nät i området och avstår därmed från att yttra sig.
 
@@ -4056,11 +4056,11 @@ I den fördjupade översiktsplanen för Åsa, antagen 2013-11-12, beskrivs en vi
 
 fortsatt ska vara en levande och livlig del av kommunen. För att uppnå detta lyfts fyra
 huvudstrategier fram:
--  Ett attraktivt stråk mellan stationen, centrum och stranden
--  Mångfald av bostäder och företag
--  Åsa ska locka året runt
+\-  Ett attraktivt stråk mellan stationen, centrum och stranden
+\-  Mångfald av bostäder och företag
+\-  Åsa ska locka året runt
 
--  Från bilberoende till hållbara resor
+\-  Från bilberoende till hållbara resor
 Placeringen av den nya skolan har påverkan på möjligheten att skapa ett attraktivt stråk
 
 mellan stationen och centrum samt möjligheten att minska bilberoendet till förmån för
@@ -5190,7 +5190,7 @@ ska vara genomsläpplig.
 angiven  användning  och utformning  är tillåten. Där beteckning saknas
 Utnyttjandegrad
 gäller bestämmelsen   inom hela området.
-Största byggnadsarea   är <angivet> m².
+Största byggnadsarea   är \<angivet> m².
 GRÄNSER
 
 Planområdesgräns.                                              EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
@@ -5201,7 +5201,7 @@ användningsgräns
 Egenskapsgräns.
 Höjd  på byggnadsverk
 Sekundär   egenskapsgräns.
-Högsta  nockhöjd är <angivet> meter.
+Högsta  nockhöjd är \<angivet> meter.
 
 Sammanfallande    sekundär  och egenskapsgräns.
 Markreservat    för allmännyttiga  ändamål
@@ -5230,7 +5230,7 @@ Marken   får inte förses med byggnad.
 
 Höjd  på  byggnadsverk
 
-Högsta  nockhöjd  är <angivet> meter.
+Högsta  nockhöjd  är \<angivet> meter.
 
 Markens    anordnande     och vegetation
 
@@ -5435,7 +5435,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsens synpunkter - prövningsgrunder enligt 11 kap. 10 § PBL
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra
@@ -5444,7 +5444,7 @@ kända förhållanden, att ett antagande av detaljplanen inte kommer att prövas
 
 Kommentar: Noteras
 
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Detaljplan för skola inom del av Åsa 5:246
 Vid genomgång av planförslagets handlingar (daterade 2025-06-27) har följande noterats:
@@ -5453,7 +5453,7 @@ Lantmäteriet har inga synpunkter på planförslaget.
 
 Kommentar: Noteras
 
-3. Trafikverket
+3\. Trafikverket
 
 Trafikverkets synpunkter
 Bullerstörning
@@ -5466,7 +5466,7 @@ ljudnivå vara 55 dBA.
 Trafikverket ser fram emot fortsatt deltagande i ärendet.
 Kommentar: Noteras
 
-4. Statens geotekniska institut (SGI)
+4\. Statens geotekniska institut (SGI)
 
 SGI:s synpunkter
 Enligt 2 kap 5 § PBL ska bebyggelse och byggnadsverk lokaliseras till mark som är lämpad för
@@ -5490,7 +5490,7 @@ SGI har ingen erinran mot planförslaget.
 
 Kommentar: Noteras
 
-5. Räddningstjänsten Storgöteborg (RSG)
+5\. Räddningstjänsten Storgöteborg (RSG)
 
 Granskade frågeställningar i ärendet
 Räddningstjänsten Storgöteborg (RSG) har granskat följande frågeställningar i detta ärende:
@@ -5523,7 +5523,7 @@ Kommentar: Noteras
 KUNGSBACKA  KOMMUN
 4 (13)
 
-6. Region Halland
+6\. Region Halland
 
 Region Halland tackar för möjligheten att yttra sig över detaljplanen. Yttrandet är avstämt mot
 aktuella förvaltningar, inklusive Hallandstrafiken.
@@ -5543,7 +5543,7 @@ KUNGSBACKA  KOMMUN
 
 Sakägare
 
-7. Fastighetsägare Åsa 4:160
+7\. Fastighetsägare Åsa 4:160
 Brf Gästgiveriet i Åsa, Åsa 4:160, har uppmanats att Lämna synpunkter på planens
 granskningshandlingar och framför nedanstående.
 
@@ -5609,7 +5609,7 @@ Kommentar: Tanken är att det ska bli en gemensam entré till de båda skolgård
 om gymnastiksalen. Hur denna entré kommer att utformas i detalj med gång-
 och cykelstråk, cykelställ m.m. är en fråga för kommande projektering.
 
-8. Fastighetsägare Åsa 5:295
+8\. Fastighetsägare Åsa 5:295
 Har tittat på detaljplanen sidan 9 & 10.
 
 Vill att nedan tillägg kommer med i ärende nr. 230687
@@ -5649,7 +5649,7 @@ Inga organisationer eller föreningar har lämnat yttrande i samrådet.
 
 Kommunala förvaltningar och nämnder
 
-9. Nämnden för Service
+9\. Nämnden för Service
 
 Sammanfattande inställning
 Nämnden för Service ser positivt på den nya detaljplanen för skola inom del av Åsa 5.246 i Åsa,
@@ -5662,7 +5662,7 @@ aktörer inom kommunen. Vi ser att arbetsprocessen fungerar väldigt väl och at
 uppfyller behovet för Service att kunna söka bygglov för skolverksamhet.
 Kommentar: Noteras.
 
-10. Nämnden för Miljö & Hälsoskydd
+10\. Nämnden för Miljö & Hälsoskydd
 Förvaltningens synpunkter
 
 Buller
@@ -5702,7 +5702,7 @@ finns ökad risk för felhantering i framtiden. Således bör KM tillämpas för
 Kommentar: Noteras. Avhjälpandeåtgärderna ska anmälas till och godkännas av Miljö-
 och hälsoskydd.
 
-11. Nämnden för Kultur och fritid
+11\. Nämnden för Kultur och fritid
 Ordförandebeslut
 
 Förvaltningen för Kultur & Fritid har varit aktiv i framtagandet av planförslaget om skola, bland
@@ -5721,13 +5721,13 @@ KUNGSBACKA  KOMMUN
 
 Övriga
 
-12. Ellevio AB
+12\. Ellevio AB
 Ellevio har lämnat synpunkter under samrådsskedet, vilka har beaktats enligt samrådsredogörelsen.
 I detta skede har Ellevio inga ytterligare kommentarer eller synpunkter.
 
 Kommentar: Noteras.
 
-13. Privatperson 1
+13\. Privatperson 1
 
 Hej! Jag bor i området By 1:29 och har tagit del av planbeskrivningen för skola inom del av Åsa
 5:246 och ser en stor risk med förslaget på hur byggnaden planerar att utformas med ett lägre tak
@@ -5740,7 +5740,7 @@ skadegörelse, olyckor etc. Överväg om det verkligen är lämpligt att bygga e
 Kommentar: Illustrationen i planbeskrivningen visar bara ett tidigt förslag till utformning.
 Hur det blir i slutändan är inte bestämt än.
 
-14. Privatperson 2
+14\. Privatperson 2
 
 Att bygga denna stora höga koloss inne/nära befintliga villaområden är katastrof. Varför ska alla
 skolor placeras i norra delen av Åsa? Nu ligger redan Åsaskolan och Åsa Gårdskola här. Varför
@@ -5752,7 +5752,7 @@ varandra för att underlätta för de som har barn i olika åldrar. En placering
 vid järnvägsstation har i dagsläget valts bort för att den bedöms generera
 mycket onödig trafik på Kläppavägen.
 
-15. Privatperson 3
+15\. Privatperson 3
 
 I planbeskrivningen framgår det att kommunen anser att det finns goda förbindelse för gång- och
 cykeltrafik till och från den planerade skolan. Jag vill dock uppmärksamma att detta inte tillräckligt
@@ -5788,7 +5788,7 @@ vägen i plan.
 Vad gäller tunnlar finns även en risk att dessa upplevs som otrygga och att
 man därför ändå väljer att passera över gatan i plan.
 
-16. Privatperson 4
+16\. Privatperson 4
 
 Synpunkter på detaljplan Ölmevallaskolan i Åsa
 
@@ -5996,7 +5996,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsens synpunkter - prövningsgrunder enligt 11 kap. 10 § PBL
 Länsstyrelsen har inget att tillägga i fråga om hur planförslaget tillgodoser statliga eller andra allmänna
@@ -6048,7 +6048,7 @@ Kommentar: Noteras
 KUNGSBACKA  KOMMUN
 4 (34)
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Delar av planen som bör förbättras
 
 Olika genomförandetid i plankarta och planbeskrivning
@@ -6098,7 +6098,7 @@ KUNGSBACKA  KOMMUN
 
 med lokala stomnät kan ha god ”intern” lägesosäkerhet, men inte ligga rätt i förhållande till SWEREF
 
-99.
+99\.
 Lantmäteriet uppmanar därför kommunen att vara extra uppmärksam vid planläggning av områden där
 det förekommer gränser med just lägesosäkerheten0,025 eller 0,03 meter, och vid behov kontrollmäta
 sådana gränser.
@@ -6111,7 +6111,7 @@ geodataavdelning varit ute på plats och kontrollerat gränsernas lägesriktighe
 KUNGSBACKA  KOMMUN
 6 (34)
 
-3. Trafikverket
+3\. Trafikverket
 Trafikverkets synpunkter
 
 Trafikflöde
@@ -6142,7 +6142,7 @@ Kommentar: Noteras.
 KUNGSBACKA  KOMMUN
 7 (34)
 
-4. Statens geotekniska institut (SGI)
+4\. Statens geotekniska institut (SGI)
 SGI:s synpunkter
 
 Enligt 2 kap 5 § PBL ska bebyggelse och byggnadsverk lokaliseras till mark som är lämpad för
@@ -6161,7 +6161,7 @@ Kommentar: Noteras.
 KUNGSBACKA  KOMMUN
 8 (34)
 
-5. Räddningstjänsten Storgöteborg (RSG)
+5\. Räddningstjänsten Storgöteborg (RSG)
 Överväganden
 
 Riskhänsyn
@@ -6200,7 +6200,7 @@ Kommentar: Noteras.
 KUNGSBACKA  KOMMUN
 9 (34)
 
-6. Havs- och vattenmyndigheten
+6\. Havs- och vattenmyndigheten
 “Havs- och vattenmyndigheten har tagit del av samrådsunderlaget i rubricerat ärende. Myndigheten
 avstår från att lämna synpunkter på underlaget. Det innebär inte att myndigheten tagit ställning i
 sakfrågan eller till handlingarna i ärendet.”
@@ -6214,7 +6214,7 @@ KUNGSBACKA  KOMMUN
 
 Sakägare
 
-7. Fastighetsägare Åsa 4:146 och Åsa 4:152
+7\. Fastighetsägare Åsa 4:146 och Åsa 4:152
 Detta yttrande är författat av fastighetsägarna av de intilliggande fastigheterna Åsa 4:146 och Åsa
 4:152. Dessa fastigheter är belägna direkt söder om skolfastigheten Åsa 5:246.
 
@@ -6296,7 +6296,7 @@ KUNGSBACKA  KOMMUN
 
 Kommunala förvaltningar och nämnder
 
-8. Nämnden för Service
+8\. Nämnden för Service
 Sammanfattande inställning
 
 Nämnden för Service ser positivt på den nya detaljplanen för skola inom del av Åsa 5.246 i Åsa,
@@ -6314,7 +6314,7 @@ Kommentar: Noteras.
 KUNGSBACKA  KOMMUN
 14 (34)
 
-9. Nämnden för Miljö & Hälsoskydd
+9\. Nämnden för Miljö & Hälsoskydd
 Vid tidigare yttrande framfördes (detta i kursivstil); Vid lokalisering är det också viktigt att planera
 för goda och säkra färdvägar för gång och cykel så att barnen på ett enkelt och självständigt sätt kan
 ta sig mellan bostaden och skolan” Boverkets rapport 2015:8.
@@ -6410,7 +6410,7 @@ Kommentar: Noteras.
 KUNGSBACKA  KOMMUN
 16 (34)
 
-10. Nämnden för Teknik
+10\. Nämnden för Teknik
 Trafik
 
 Eftersom skolan planeras på en plats som redan används för skol- och förskoleverksamhet finns det
@@ -6468,7 +6468,7 @@ KUNGSBACKA  KOMMUN
 
 Övriga
 
-11. Ellevio AB
+11\. Ellevio AB
 Ellevio AB har mottagit underlag för ärendet och har följande synpunkter.
 
 Ellevio har lokalnätsledningar intill föreslaget planområde. Befintliga anläggningar måste beaktas och
@@ -6491,7 +6491,7 @@ Kommentar: Noteras.
 KUNGSBACKA  KOMMUN
 19 (34)
 
-12. Privatperson 1
+12\. Privatperson 1
 Synpunkt angående påverkan på befintlig verksamhet:
 
 Boverkets hänvisar till forskares rekommendationer om friyta: “Vid bedömningen av om friytan är
@@ -6760,7 +6760,7 @@ Kommentar: Tidsplanen är utmanande då det råder brist på skol- och förskole
 KUNGSBACKA  KOMMUN
 25 (34)
 
-13. Privatperson 2, 3 och 4 – tre identiska yttranden
+13\. Privatperson 2, 3 och 4 – tre identiska yttranden
 Vi skriver detta yttrande i rollen som föräldrar till barn på Lilla Lokets förskola, och som framtida
 föräldrar till barn på den planerade Ölmevallaskolan.
 
@@ -6881,7 +6881,7 @@ Kommunen bör lämpligen i detaljplanearbetet för Ölmvevallaskolan utreda frå
 •  Hur bör skolbyggnad och skolgård utformas så att förskolebarnen får en trygg miljö?
 •  Många vårdnadshavare kommer att ha barn på både skola och förskola med samtidig hämtning
 
-- hur kan mobilitets- och parkeringsfrågor samordnas på ett sätt som blir smidigt och tryggt för
+\- hur kan mobilitets- och parkeringsfrågor samordnas på ett sätt som blir smidigt och tryggt för
 både barn och vårdnadshavare?
 Därtill är det relevant att titta på hur en 17 meter hög byggnad påverkar Åsas identitet, kulturmiljö och
 landskapsbild.
@@ -7021,7 +7021,7 @@ samtliga barn i Åsa är en av flera viktiga beståndsdelar i den helhet som gö
 KUNGSBACKA  KOMMUN
 31 (34)
 
-14. Privatperson 5
+14\. Privatperson 5
 Synpunkter på detaljplan Ölmevallaskolan i Åsa
 
 I inledningen för planprogrammet anges att läget innebär att befintlig idrottshall, parkeringar,
@@ -7103,7 +7103,7 @@ utformning av skolor i flera våningar för yngre barn.
 KUNGSBACKA  KOMMUN
 33 (34)
 
-15. Privatperson 6
+15\. Privatperson 6
 Utifrån ter det sig som resursslöseri att riva fungerande byggnader och flytta runt alla verksamheterna
 inom området. Finns det ett underlag som förklarar att detta är den lämpligaste lösningen? Finns det en
 alternativstudie?
@@ -7164,12 +7164,12 @@ Kommentar: Se svar ovan. I det förslag som nu tagits fram av avdelningen för S
 kommer skolan att placeras i norra delen av planområdet.
 
 Mina önskemål:
-- Presentera en ordentlig alternativstudie för lokalisering av ny skola i Åsa.
+\- Presentera en ordentlig alternativstudie för lokalisering av ny skola i Åsa.
 
-- Presentera en enkel illustrationsplan så att det går att förstå förslagets konsekvenser
+\- Presentera en enkel illustrationsplan så att det går att förstå förslagets konsekvenser
 
-- Presentera en solstudie
-- Utöka planområdet västerut och utred placering av byggnad i norr utmed Kläppavägen
+\- Presentera en solstudie
+\- Utöka planområdet västerut och utred placering av byggnad i norr utmed Kläppavägen
 
 Kommentar: Se svar ovan.
 
@@ -7209,17 +7209,17 @@ standardförfarande.
 
 Under samrådet ska Länsstyrelsen enligt 5 kap. 14 § PBL särskilt
 
-1. ta till vara och samordna statens intressen
-2. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
+1\. ta till vara och samordna statens intressen
+2\. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
 
 (1998:808), MB, tillgodoses, att miljökvalitetsnormer enligt 5
 kap. MB följs och att strandskydd enligt 7 kap. MB inte
 upphävs i strid med gällande bestämmelser
-3. verka för att sådana frågor om användningen av mark- och
+3\. verka för att sådana frågor om användningen av mark- och
 
 vattenområden som angår två eller flera kommuner
 samordnas på ett lämpligt sätt
-4. verka för att en bebyggelse inte blir olämplig eller ett
+4\. verka för att en bebyggelse inte blir olämplig eller ett
 byggnadsverk olämpligt med hänsyn till människors hälsa
 eller säkerhet eller till risken för olyckor, översvämning eller
 
@@ -7974,7 +7974,7 @@ Damm1 – damm för dagvattenhantering ska finnas
 Syftet med bestämmelsen är att säkerställa att en anläggning för fördröjning och rening av
 dagvatten anläggs.
 
-+ 9,2 – Markens höjd över nollplanet ska vara 9,2 meter
+\+ 9,2 – Markens höjd över nollplanet ska vara 9,2 meter
 Syftet med bestämmelsen är att reglera markhöjden inom allmänplats för att skyfallsvatten
 ska ledas från sjukhusområdet till allmänplats och vidare ner i torrdammen på ett sådant sätt
 att det inte blir stående inom området en längre tid. Höjdregleringen avser dammens krön.
@@ -8016,24 +8016,24 @@ vara undertecknat av exploatören och godkänt av kommunstyrelsen innan detaljpl
 
 I det här projektet kommer exploateringsavtalet att omfatta
 
--  Definition av exploateringsområdet.
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
+\-  Definition av exploateringsområdet.
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
 Vid kommunalt huvudmannaskap utför kommunen utbyggnad av allmän plats på
 exploatörens bekostnad (exploateringsbidrag). Utbyggnaden sker till självkostnadspris
 
 och betalning sker löpande i takt med att området byggs ut.
 Åtgärder och anläggningar inom kvartersmark utför och bekostar Region Halland.
--  Principer för marköverlåtelser mellan kommunen och Region Halland. Vid
+\-  Principer för marköverlåtelser mellan kommunen och Region Halland. Vid
 kommunalt huvudmannaskap är utgångspunkten att exploatören överlåter allmän
 
 platsmark till kommunen utan ersättning. Alternativet är att markersättning utgår, men
 att den sedan räknas in i underlaget för exploateringsavtal som exploatören ska betala
 till kommunen.
--  Reglering av Region Hallands ansvar att erlägga avgift enligt kommunens VA-taxa.
--  Reglering av Region Hallands ansvar för att bekosta undersökningar som inte omfattas
+\-  Reglering av Region Hallands ansvar att erlägga avgift enligt kommunens VA-taxa.
+\-  Reglering av Region Hallands ansvar för att bekosta undersökningar som inte omfattas
 
 av plankostnadsavtalet.
--  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\-  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
 
 Antagandehandling                                          15 (56)
 
@@ -8041,7 +8041,7 @@ Antagandehandling                                          15 (56)
 
 Detaljplan för Tölöberg 2 och Tölö 1:17             Datum: 2025-11-04
 
--  Övriga frågor som behöver regleras för exploateringsområdets rationella och
+\-  Övriga frågor som behöver regleras för exploateringsområdets rationella och
 ändamålsenliga utbyggnad.
 
 Avtalet medför bland annat att detaljplanens genomförande säkerställs ekonomiskt samt att
@@ -9446,11 +9446,11 @@ Närmaste statliga vägar är E6 / E20, 2,5 km västerut och Gåsevadholmsvägen
 978), 2 km österut. Tillskottet av trafik från detaljplanens exploatering till dessa vägar antas
 vara mycket lågt. Detta på grund av:
 
--  Den totala alstringen från exploateringen är låg (280 fordon per dygn).
+\-  Den totala alstringen från exploateringen är låg (280 fordon per dygn).
 
--  En betydande andel av anställda och patienter antas komma från Kungsbacka stad,
+\-  En betydande andel av anställda och patienter antas komma från Kungsbacka stad,
 vilket innebär att de inte behöver använda det statliga vägnätet.
--  Avståndet till de statliga vägarna är relativt långt.
+\-  Avståndet till de statliga vägarna är relativt långt.
 
 Angöringsvägen till Korttidsenheten Smedjan föreslås få ett nytt läge inom fastigheten Tölö
 1:17. Det nya läget föreslås sammanfalla med u-området förbi parkeringshuset. Det är viktigt
@@ -9691,7 +9691,7 @@ KUNGSBACKA  KOMMUN
 2 (11)
 
 Statliga och regionala myndigheter
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen bedömer att detaljplaneförslaget överensstämmer med översiktsplanen enligt 4 kap. 33
 § p.5 PBL.
@@ -9701,12 +9701,12 @@ förhållanden, att ett antagande av detaljplanen inte kommer att prövas.
 
 Kommentar: Noteras
 
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet har inga synpunkter på planförslaget.
 Kommentar: Noteras
 
-3. Kulturmiljö Halland
+3\. Kulturmiljö Halland
 Vår synpunkt från samrådet kvarstår att planen bedöms påverka kulturvärden negativt då de enda
 kvarvarande ursprungliga delarna av sjukhusanläggningen rivs. Det är dock bra att en dokumentation
 
@@ -9725,7 +9725,7 @@ påverkas negativt. Intresset att bevara den historiska bebyggelsen har ställts
 en funktionell vård i lokaler som uppfyller de krav som ställs på verksamheten idag. I den
 avvägningen har vårdens behov bedömts väga tyngre än bevarandet.
 
-4. Region Halland
+4\. Region Halland
 Yttrandet är avstämt mot aktuella förvaltningar, inklusive Hallandstrafiken. Region Halland har inga
 synpunkter på planförslaget i granskningsskede.
 
@@ -9736,12 +9736,12 @@ Kommentar: Noteras
 KUNGSBACKA  KOMMUN
 3 (11)
 
-5. Polisen Region Väst
+5\. Polisen Region Väst
 
 LPO Kungsbacka har inget att erinra gällande byggnation vid Tölö 1:17.
 Kommentar: Noteras
 
-6. Räddningstjänsten
+6\. Räddningstjänsten
 Riskhänsyn
 Sedan samrådsskedet har ett möte genomförts mellan Region Halland, Kungsbacka kommun och RSG.
 Där diskuterades bl a sjukhusets egna transporter av flytande syrgas samt möjligheten att då även
@@ -9793,7 +9793,7 @@ säkerställs i bygglovsprocessen.
 
 Exakt höjdsättning för att säkerställa framkomlighet för räddningsfordon görs i projekteringen.
 
-7. Statens Geotekniska Institut (SGI)
+7\. Statens Geotekniska Institut (SGI)
 SGI har inga synpunkter på planförslaget.
 
 Geoteknisk utredning
@@ -9822,7 +9822,7 @@ fastigheten.
 KUNGSBACKA  KOMMUN
 5 (11)
 
-8. Trafikverket
+8\. Trafikverket
 Bullerstörning
 Trafikverket noterar att bullerutredningen visar att ställda riktvärden och rekommendationer avseende
 buller för befintliga bostäder klaras för hela planområdet och intilliggande bostadsbebyggelse.
@@ -9841,7 +9841,7 @@ järnvägsområdets dike.
 
 Sakägare
 
-9. E.ON
+9\. E.ON
 För det E-område som utlagts i plankartan visar plankartans bestämmelser endast ”Teknisk
 anläggning” vid beteckningen ”E”. E.ON yrkar på att E-området för vår transformatorstation
 preciseras och istället får beteckningen ”E1 -Transformatorstation”.
@@ -9856,7 +9856,7 @@ inte känt om E.ONs ledningar är säkerställda med någon rättighet i Regione
 som ska stå för kostnader för eventuell ledningsflytt är därför en fråga som måste diskuteras
 mellan berörda parter.
 
-10. Ellevio
+10\. Ellevio
 Ellevio har tagit del av granskningshandlingarna detaljplan för sjukhus inom Tölöberg 2 och Tölö 1:17
 och har inget att erinra.
 
@@ -9867,12 +9867,12 @@ Kommentar: Noteras
 KUNGSBACKA  KOMMUN
 6 (11)
 
-11. Gemensamt yttrande från fastighetsägare till Tölö 1:23, Tölö 1:28, Tölö1:30, Tölö 1:31,
+11\. Gemensamt yttrande från fastighetsägare till Tölö 1:23, Tölö 1:28, Tölö1:30, Tölö 1:31,
 Tölö 1:32 och Tölö 1:33
 Fastighetsägarna betonar att de förstår Regionens behov att förändra och bygga ut sjukhuset, och är
 inte emot projektet som sådant men har synpunkter på utformningen av nuvarande förslag. Generellt så
 godkänner de fortfarande INTE förslaget till detaljplan i dess nuvarande utförande.
-1. Bebyggelsens placering
+1\. Bebyggelsens placering
 
 De anser att de nya byggnaderna kommer väldigt nära befintlig bostadsbebyggelse och föreslår att man
 flyttar hjälpmedelscentralen och istället placerar sjukhusbyggnaderna i bakkant mot nordost och lägger
@@ -9881,7 +9881,7 @@ befintlig bebyggelse. De anser att det skulle behålla känslan och karaktären 
 villa/bostadsrättsbebyggelse och påtagligt minska känslan av att kommande bebyggelse sticker ut och
 inte är anpassad till nuvarande karaktär i området.
 
-2. Den tänkta bebyggelsens höjd
+2\. Den tänkta bebyggelsens höjd
 De invänder mot möjligheten att bygga 25-26 meter höga byggnader. De vänder sig mot att sjukhuset
 blir ett landmärke och framför att ingen som bor i närheten av sjukhuset är intresserade av att det ska
 sticka ut helt från befintlig bebyggelse och kasta sin högst bokstavliga skugga över hela omgivningen.
@@ -9894,7 +9894,7 @@ att kunna bedriva modern sjukvård måste ha 5-våningshus och en nockhöjd på 
 att det i så fall inte skulle finnas några moderna vårdinrättningar under dessa höjder. Att man drar in
 den översta våningen lite från resterande fasad får nog sägas ha en marginell betydelse hur husen
 kommer att upplevas och passa in med nuvarande omgivande bebyggelse.
-3. Markens beskaffenhet påverkan på nuvarande bebyggelse
+3\. Markens beskaffenhet påverkan på nuvarande bebyggelse
 
 De framför att marken som man tänkt bygga på består av lera av olika typ, på samma sätt som för
 marken med befintlig bebyggelse. De ställer sig frågande till de geologiska undersökningar som gjorts
@@ -9903,7 +9903,7 @@ tidigare byggnationer. Fastighetsägarna framför en oro både för påverkan p�
 omgivningen under denna byggprocess som kommer vara oerhört omfattande och långvarig.
 
 Kommentar:
-1. Bebyggelsens placering
+1\. Bebyggelsens placering
 
 Placeringen av bebyggelsen har utformats med stor hänsyn till den närliggande bebyggelsen.
 De högre vårdbyggnaderna placeras på ett avstånd om cirka 40 meter från befintliga
@@ -9918,7 +9918,7 @@ KUNGSBACKA  KOMMUN
 området, dels för att hålla dessa mer tekniskt inriktade byggnader borta från den publika
 
 entrésidan.
-2. Den tänkta bebyggelsens höjd
+2\. Den tänkta bebyggelsens höjd
 Angående byggnadshöjderna är det riktigt att den nya vårdbebyggelsen innebär en avvikelse
 från områdets nuvarande låga silhuett. Samtidigt är en viss höjdskillnad nödvändig för att kunna
 
@@ -9927,7 +9927,7 @@ teknisk infrastruktur samtidigt som vi hushåller med den mark vi har. För att 
 har vissa våningsplan dragits in. Ambitionen är inte att skapa ett landmärke som dominerar
 omgivningen, utan att möjliggöra en långsiktig vårdstruktur inom ramen för platsens
 förutsättningar.
-3. Markens beskaffenhet påverkan på nuvarande bebyggelse
+3\. Markens beskaffenhet påverkan på nuvarande bebyggelse
 
 Vad gäller markförhållandena har kommunen låtit genomföra geotekniska undersökningar och
 expertbedömningar som ligger till grund för planens utformning. Dessa har granskats av Statens
@@ -9935,7 +9935,7 @@ Geotekniska Institut både under samråd och granskning utan att de framfört n�
 avsnitt 7). Det är en självklar prioritet att byggnation sker på ett sådant sätt att påverkan på
 omkringliggande fastigheter minimeras.
 
-12. Fastighetsägare till Tölögräns 28
+12\. Fastighetsägare till Tölögräns 28
 
 Fastighetsägaren godkänner planförslaget men framför att Tölövägen måste förstärkas och
 farthindergupp tas bort helt före rivningsarbeten och byggarbeten. Detta gäller även vid
@@ -9952,14 +9952,14 @@ KUNGSBACKA  KOMMUN
 8 (11)
 
 Kommunala förvaltningar och nämnder
-13. Teknik
+13\. Teknik
 
 Förvaltningen för Teknik har deltagit i planarbetet och är positiva till detaljplanen. De medskick som
 lyftes i samrådsskedet har hanterats i granskningsskedet och förvaltningen har utifrån det inga
 ytterligare synpunkter på granskningsförslaget.
 Kommentar: Noteras
 
-14. Vård & Omsorg
+14\. Vård & Omsorg
 Vård & Omsorg har tagit del av detaljplan för sjukhus inom Tölöberg 2 och Tölö 1:17 i Kungsbacka.
 Vård & Omsorg vill betona att fastigheter för vårdbyggnader samt parkeringshus och den omgivande
 miljön utformas på ett sådant sätt att de blir tillgängliga för alla oavsett ålder eller funktionsnedsättning
@@ -9967,7 +9967,7 @@ miljön utformas på ett sådant sätt att de blir tillgängliga för alla oavse
 Kommentar: Utformning och tillgänglighet hanteras i samband med projektering och
 granskas i bygglovskedet.
 
-15. Kultur & Fritid
+15\. Kultur & Fritid
 Nämnden anser att planförslaget är väl genomarbetat och har tagit hänsyn till många av de faktorer
 
 som Kultur & Fritid har lyft i tidigare behandling. Kultur & Fritid har inget att tillägga i denna
@@ -9976,13 +9976,13 @@ Kommentar: Noteras
 
 Övriga
 
-16. Gemensamt yttrande från fastighetsägare till Tölö 1:24, Tölö 1:25, Tölö 1:26, Tölö 1:27
+16\. Gemensamt yttrande från fastighetsägare till Tölö 1:24, Tölö 1:25, Tölö 1:26, Tölö 1:27
 och Tölö 1:29
 Gemensamt yttrande med Tölö 1:30 m.fl. Se avsnitt 11
 
 Kommentar: Se kommentar till avsnitt 11
 
-17. Boende på Södercentrum 7
+17\. Boende på Södercentrum 7
 
 Personen är positiv till en utbyggnad av sjukhuset. Det finns ett behov av ett större sjukhus.
 Kungsbacka har vuxit och behöver ett moderniserat sjukhus för att minska resor till Varberg.
@@ -10022,7 +10022,7 @@ samhällsskydd och beredskap (MSB). Detaljplanen hindrar inte ytterligare skydds
 
 behov skulle uppstå.
 
-18. Fastighetsägare till Iserås 5:87
+18\. Fastighetsägare till Iserås 5:87
 Fastighetsägaren har yttrat sig under både samråd och granskning. Under granskningen angavs en
 annan fastighetsbeteckning där personen inte står som ägare.
 
@@ -10043,7 +10043,7 @@ uppfyller dagens standarder och skapa förutsättningar för effektiv intern log
 KUNGSBACKA  KOMMUN
 10 (11)
 
-19. Privatperson
+19\. Privatperson
 Personen lyfter frågan om parkeringsmöjligheterna vid Kungsbacka Sjukhus efter ombyggnad och hur
 dessa påverkar äldre och personer med ökat behov av sjukvård. Personen föreslår att parkeringen
 begränsas till endast sjukhusbesökare genom att ge patienter en parkeringslapp vid incheckning,
@@ -10057,7 +10057,7 @@ Sjukhuset har ont om mark och den mark som finns behöver användas effektivt, d
 parkeringshus den enda lösningen för att tillgodose sjukhusets behov av utbyggnad av sina
 vårdlokaler.
 
-20. Anonym
+20\. Anonym
 
 Personen uttrycker ett starkt stöd för att bygga ett större sjukhus i Kungsbacka, med argument om att
 det bör ersätta vården i Varberg och Halmstad. Personen förespråkar Scenario 2, där sjukhuset byggs
@@ -10168,7 +10168,7 @@ Endast byggnadsverk under mark.
 
 Höjd på byggnadsverk
 
-Högsta nockhöjd är <angivet> meter över angivet nollplan.
+Högsta nockhöjd är \<angivet> meter över angivet nollplan.
 
 Högsta nockhöjd är 5,0 meter.
 
@@ -10286,7 +10286,7 @@ TÖLÖ
 AN
 3
 GÖ
-:
+\:
 6
 1
 R I
@@ -10314,7 +10314,7 @@ H
 3 1
 3
 K O R T T                                                                                                    56                                                      P
--
+\-
 ID                                                                                                       0
 S -P                                                                             7:8                    5
 11
@@ -10500,7 +10500,7 @@ ID
 R
 S
 T
--
+\-
 T
 P
 IDS-P
@@ -10533,7 +10533,7 @@ H
 3 1
 3
 K O R T T                                                                                                    56                                                      P
--
+\-
 ID                                                                                                       0
 S -P                                                                             7:8                    5
 11
@@ -10659,7 +10659,7 @@ PBL 2010:900 med standardförfarande
 
 "KUNGSBA
 
-4)
+4\)
 
 N=6375100
 
@@ -10680,7 +10680,7 @@ SKALA 1:1000 A1
 
 TECKENFÖRKLARING
 
-+ Kommungräns
+\+ Kommungräns
 — — Trakt-, kvartersgräns
 — — Fastighetsgräns
 Föreslagen fastighetsgräns
@@ -10926,7 +10926,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 Länsstyrelsen bedömer att detaljplanen överensstämmer med översiktsplanen.
 
 Länsstyrelsen kan komma att överpröva detaljplanen utifrån ingripandegrunderna gällande för
@@ -11112,7 +11112,7 @@ nybyggnation ger förutsättningar för att öka robustheten ytterligare.
 KUNGSBACKA  KOMMUN
 6 (29)
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Lantmäteriet uppmärksammar att plangränsen lagts i samma läge som flera befintliga
 fastighetsgränser. En del av gränspunkterna har hög lägesosäkerhet. Det kan innebära konsekvenser
 om fastighetsgränsen visar sig ha ett annat läge. I planförslaget finns det planområdesgränser i samma
@@ -11125,7 +11125,7 @@ just lägesosäkerheten 0,025 eller 0,03 meter, och vid behov kontrollmäta såd
 Kommentar: Kommunen har utrett gränserna i samband med samrådet och anser inte att det
 finns några oklarheter kring gränsernas läge.
 
-3. Trafikverket
+3\. Trafikverket
 
 Trafikflöde
 Trafikutredning (Norconsult, 2023-09-25) visar att i dagsläget alstrar sjukhusområdet 1020
@@ -11180,7 +11180,7 @@ att riskerna för vibrationsstörningar är mycket låg.
 Dagvatten från planområdet kommer att fördröjas och renas inom planområdet för att sedan
 ledas till Söderån och Kungsbackaån via allmänna dagvattenledningar.
 
-4. Räddningstjänsten Storgöteborg (RSG)
+4\. Räddningstjänsten Storgöteborg (RSG)
 Riskhänsyn
 
 RSG har inte identifierat några riskkällor i planområdets närhet med avseende på transport av farligt
@@ -11223,7 +11223,7 @@ som krävs. Interngatan mellan Tölövägen och Smidesvägen möjliggör tillgä
 räddningstjänsten. Ett 3,5 meter brett stråk säkerställs för interngata och skyfallsstråk. Övriga
 synpunkter noteras.
 
-5. Kulturmiljö Halland
+5\. Kulturmiljö Halland
 
 Kulturmiljö Halland bedömer att planändringen påverkar kulturvärden negativt då de enda
 kvarvarande ursprungliga delarna av sjukhusanläggningen rivs.
@@ -11245,7 +11245,7 @@ har vårdens behov bedömts väga tyngre än bevarandet. De gamla byggnaderna sk
 
 i rapportform innan rivning.
 
-6. SGI
+6\. SGI
 Ingen erinran
 Kommentar: Noteras
 
@@ -11254,7 +11254,7 @@ Kommentar: Noteras
 KUNGSBACKA KOMMUN
 9 (29)
 
-7. Ellevio
+7\. Ellevio
 Ellevio har en servicekabel som går längs planområdets östra gräns längs med gränsen mot Tölö 6:15.
 Ledningen ser ut att vara placerad inom u-område. Vi har ingen erinran mot förslaget.
 
@@ -11262,7 +11262,7 @@ Ellevio har inte områdeskoncession inom området. Ellevio förutsätter att E.O
 områdeskoncessionen ges möjlighet att yttra sig.
 Kommentar: Noteras
 
-8. E.ON
+8\. E.ON
 E.ON har mellanspänningskablar inom området. E.ON noterar att det i planbestämmelserna inte nämns
 att E.ON är ledningsägare. På samma sätt har inte mellanspänningskabeln som går i planområdet karta
 tagits i beaktning.
@@ -11279,7 +11279,7 @@ med E.ON blev den gemensamma slutsatsen att u-områden inte behövs då ledninga
 av servitut och de i framtiden kommer att läggas om i nya sträckningar som endast försörjer
 sjukhuset. Plankartan kompletteras med ett E-område.
 
-9. Skanova (Telia Company)
+9\. Skanova (Telia Company)
 Skanova har markförlagda teleanläggningar inom detaljplaneområdet.
 
 Skanova önskar att så långt som möjligt behålla befintliga teleanläggningar i nuvarande läge för att
@@ -11295,19 +11295,19 @@ med u-område.
 KUNGSBACKA  KOMMUN
 10 (29)
 
-10. Swedavia
+10\. Swedavia
 Nuvarande planförslag bedöms inte innebära någon negativ påverkan på Göteborg Landvetter Airport.
 Swedavia har därmed inget att erinra i detta samrådsskede.
 
 Kommentar: Noteras
 
-11. Luftfartsverket
+11\. Luftfartsverket
 Luftfartsverket har yttrat sig över samrådshandlingarna
 Kommentar: Noteras
 
 Sakägare
 
-12. Fastighetsägare till Hummern 3
+12\. Fastighetsägare till Hummern 3
 Fastighetsägarna är positiv till planförslaget men är orolig för trafikökningen och risken för ökat
 trafikbuller. De har märkt en markant ökning av trafik på Tölövägen de senaste åren. En del av
 ökningen beror på anläggande av fastigheter, det som kallas Tölöbergs Terrass. Utöver detta etableras
@@ -11353,7 +11353,7 @@ medför en mycket liten påverkan på bullersituationen.
 Byggtrafik och eventuella störningar från den regleras inte i detaljplan utan hanteras senare i
 processen genom riskanalys och kontrollprogram i samband med genomförandet.
 
-13. Fastighetsägare till Tölö 1:23
+13\. Fastighetsägare till Tölö 1:23
 Fastighetsägaren anser att tänkt placering och höjd på byggnaderna hamnar väldigt nära bebyggelsen i
 Gårdskullaområdet och framför allt Lilla Gårdskullavägen och att det kommer upplevas som väldigt
 påträngande.
@@ -11399,7 +11399,7 @@ P-huset delvis under mark skulle kunna vara ett sätt att minska belastningen me
 pålgrundläggning blir det ingen tillförd last alls och blir därför en bättre lösning sett till
 platsens förutsättningar.
 
-14. Fastighetsägare till Tölögräns 28
+14\. Fastighetsägare till Tölögräns 28
 Fastighetsägaren är positiv till förslag till detaljplan i dess nuvarande utförande men framför att man
 under rivnings och byggtid bör förstärka Tölövägen och att alla farthindergupp tas bort helt. Om man
 inte åtgärdar dessa förberedelser på vägen riskerar man skador på bebyggelser som ligger längs med
@@ -11407,21 +11407,21 @@ vägen.
 
 Kommentar: Se svar till Hummern 3, avsnitt 12
 
-15. Tre bostadsrättsägare till Tölö 7:10
+15\. Tre bostadsrättsägare till Tölö 7:10
 
 Tre bostadsrättsägare inom Tölö 7:10 har lämnat in identiska yttranden:
-1. Jag begär att upplevelsen av en stor koloss mjukas upp genom att bygga lägre i framkant mot
+1\. Jag begär att upplevelsen av en stor koloss mjukas upp genom att bygga lägre i framkant mot
 Tölövägen 32-48 och att det inte börjar med maxhöjd direkt.
 
-2. Jag begär att det anläggs en grön korridor mellan de nya byggnaderna och vägen för att
+2\. Jag begär att det anläggs en grön korridor mellan de nya byggnaderna och vägen för att
 ytterligare mjuka upp upplevelsen av en stor koloss.
 
-3. Det står i dokumentationen att utbyggnaden beror på behov av verksamhetsökning pga utökat
+3\. Det står i dokumentationen att utbyggnaden beror på behov av verksamhetsökning pga utökat
 invånarantal det bör leda till ökat trafikflöde, framför allt för till och från leden, men även förbi
 Tölövägen 18-30 samt 32-48. Det är redan idag problem med att komma ut på leden vissa tider,
 kan detta underlättas förebyggande genom att anlägga tex trafikljus/rondell/svängfil.
 
-4. Byggnaden ner mot tandläkarbyggnaden, hur är det tänkt att trafiken dit ska ledas? Jag befarar
+4\. Byggnaden ner mot tandläkarbyggnaden, hur är det tänkt att trafiken dit ska ledas? Jag befarar
 en stor risk för ökad trafik förbi båda huslängorna som vetter mot sjukhuset (Tölövägen 18-30
 samt 32-48) vilket riskerar leda till ökad ljudkontaminering. Går det att leda trafiken annan väg
 än förbi dessa adresser? Kan man anlägga fler hastighetsbegränsande åtgärder, det går ofta med
@@ -11433,43 +11433,43 @@ sjukhuset samt av transporter till och från sjukhuset.
 KUNGSBACKA KOMMUN
 13 (29)
 
-5. Det sades på samrådsmötet att trafiken inte väntas öka så mycket pga utbyggnaden i
+5\. Det sades på samrådsmötet att trafiken inte väntas öka så mycket pga utbyggnaden i
 förhållande till andra orsaker till trafikökning. Vilket dels inte låter rimligt, med tanke på
 dokumentationen enligt punkt 3 ovan. Men om det nu skulle vara så, varför behöver då
 parkeringshuset byggas i 5 våningar, då borde det räcka med färre antal våningar.
 
-6. Jag begär att det direkt vidtas åtgärder för att buskörning av epatraktorer, mopeder och annat
+6\. Jag begär att det direkt vidtas åtgärder för att buskörning av epatraktorer, mopeder och annat
 inne på p-huset på kvällar och nätter inte ska uppstå.
 
-7. Jag begär att grönområden och naturvärden ersätts i lämplig mängd för att mildra känslan av en
+7\. Jag begär att grönområden och naturvärden ersätts i lämplig mängd för att mildra känslan av en
 stor koloss. Jag vill föreslå att man skapa promenadstråk med skuggade viloplatser runt
 sjukhusområdet.
 
-8. Jag motsätter mig eventuella planer på att ta bort ekarna framför ”varumottaget” (tvätt, sopor,
+8\. Jag motsätter mig eventuella planer på att ta bort ekarna framför ”varumottaget” (tvätt, sopor,
 leveranser och annat) mitt emot längan Tölövägen 18-30.
 
-9. Det är redan idag mycket trafik och ljudkontaminering bland annat tidiga morgnar till och från
+9\. Det är redan idag mycket trafik och ljudkontaminering bland annat tidiga morgnar till och från
 ”varumottagningen” mittemot huslängan Tölövägen 18-30. Med utbyggnad av sjukhuset
 kommer detta rimligtvis att öka ytterligare. Jag begär att ljuddämpande åtgärder anläggs bakom
 ekarna (från huslängan sett), alternativt att ljuddämpande åtgärder anläggs vid en eventuell ny
 placering av denna verksamhet eller på båda platserna om det blir både på befintlig och ny
 placering.
 
-10. Jag begär att byggarbete och byggtrafik begränsas till dagtid (7-19). Ej sena kvällar/nätter eller
+10\. Jag begär att byggarbete och byggtrafik begränsas till dagtid (7-19). Ej sena kvällar/nätter eller
 helger.
 
-11. Jag begär att sjukhuset ej byggs med glasfasader för att undvika ljusreflektioner.
-12. Jag föreslår att bygget görs med mestadels trämaterial för att göra transporterna så lätta som
+11\. Jag begär att sjukhuset ej byggs med glasfasader för att undvika ljusreflektioner.
+12\. Jag föreslår att bygget görs med mestadels trämaterial för att göra transporterna så lätta som
 
 möjligt och minska ljudpåverkan så mycket som möjligt. Trä är dessutom mer miljövänligt än
 tex betong och passar bra in med övrig byggnation i området.
-13. Jag begär att kontroll av närliggande fastigheter sker före och efter arbete och att eventuella
+13\. Jag begär att kontroll av närliggande fastigheter sker före och efter arbete och att eventuella
 skador åtgärdas och/eller ersätts.
 
 Kommentar:
-1. Se svar till Tölö 1:23, avsnitt 13
+1\. Se svar till Tölö 1:23, avsnitt 13
 
-2. Ytan mellan de tillkommande vårdbyggnaderna och Tölövägen är avsedd att vara ett
+2\. Ytan mellan de tillkommande vårdbyggnaderna och Tölövägen är avsedd att vara ett
 entréstråk med grönska.
 
 <!-- sida 271 -->
@@ -11477,7 +11477,7 @@ entréstråk med grönska.
 KUNGSBACKA  KOMMUN
 14 (29)
 
-3. Syftet med detaljplanen är att möjliggöra om- och tillbyggnad av sjukhuset för att skapa
+3\. Syftet med detaljplanen är att möjliggöra om- och tillbyggnad av sjukhuset för att skapa
 vårdlokaler som uppfyller de krav som ställs på vården idag. De nya lokalerna kommer att till
 stor del ersätta de äldre lokalerna som idag inte lever upp till kraven från vården. Gällande
 
@@ -11489,52 +11489,52 @@ huvudvägnätet, som Söderåleden är en del av, planeras i relation till andra
 huvudvägnät. I samband med att sjukhuset väntas vara ombyggt är bedömningen gjord att
 
 andra delar av stadens huvudvägnät är mer ansträngda och aktuella att göra förändringar på.
-4. Den huvudsakliga infarten till sjukhuset är via Tölövägen och det är den vägen som är mest
+4\. Den huvudsakliga infarten till sjukhuset är via Tölövägen och det är den vägen som är mest
 lämplig att trafiken hänvisas till. Tölövägen har redan hastighetsdämpade åtgärder i de punkter
 
 där gång- och cykeltrafikanter passerar vägen. Ytterligare åtgärder till följd av exploateringen
 är inte planerade. Se även svar kring trafikökning under Hummern 3, avsnitt 12.
-5. Parkeringshuset ersätter de parkeringsplatser som idag finns på markparkeringen samt
+5\. Parkeringshuset ersätter de parkeringsplatser som idag finns på markparkeringen samt
 
 ytterligare 100 parkeringsplatser för bil och cykelparkeringar för personalen. Om- och
 utbyggnaden av sjukhuset bedöms generera ett ökat behov på 100 parkeringsplatser vilket
 också är vad detaljplanen och parkeringshuset möjliggör.
 
-6. Detaljplanen kan inte reglera eventuella åtgärder i parkeringshuset. Det finns en medvetenhet
+6\. Detaljplanen kan inte reglera eventuella åtgärder i parkeringshuset. Det finns en medvetenhet
 om utmaningarna och riskerna finns beskrivna i den sociala konsekvensanalysen (SKA).
 Region Halland ansvarar för att hantera frågan i samband med genomförandet i sin roll som
 exploatör.
 
-7. Förslag på att ersätta och kompensera de naturvärden som försvinner presenteras i
+7\. Förslag på att ersätta och kompensera de naturvärden som försvinner presenteras i
 planbeskrivningen under rubriken Naturvärden och biologisk mångfald i kapitlet
 Konsekvenser.
 
-8. Ekarna vid inlastningen skyddas med planbestämmelsen n1 som innebär att de inte får tas
+8\. Ekarna vid inlastningen skyddas med planbestämmelsen n1 som innebär att de inte får tas
 bort annat än om de blir sjuka eller utgör en säkerhetsrisk.
 
-9. Bullerstörningar från verksamheter regleras i Miljöbalken. Detaljplanen hindrar inte att
+9\. Bullerstörningar från verksamheter regleras i Miljöbalken. Detaljplanen hindrar inte att
 bullerskydd uppförs. Region Halland är uppmärksam på frågan.
 
-10. Störningar från byggarbete regleras inte inom detaljplanen. Det hanteras i samband med
+10\. Störningar från byggarbete regleras inte inom detaljplanen. Det hanteras i samband med
 genomförandet och regleras i annan lagstiftning och följs upp med bland annat riskanalys och
 kontrollprogram.
 
-11. Bedömning av utformning sker i bygglovsprövningen,
+11\. Bedömning av utformning sker i bygglovsprövningen,
 
 <!-- sida 272 -->
 
 KUNGSBACKA KOMMUN
 15 (29)
 
-12. Synpunkten noteras.
+12\. Synpunkten noteras.
 
-13. Detta regleras inte i detaljplan utan hanteras i kontrollplanen i samband med bygglovet.
+13\. Detta regleras inte i detaljplan utan hanteras i kontrollplanen i samband med bygglovet.
 
-16. Fastighetsägare till Tölö 1:23, Tölö 1:30, Tölö 1:31, Tölö 1:32 och Tölö 1:33
+16\. Fastighetsägare till Tölö 1:23, Tölö 1:30, Tölö 1:31, Tölö 1:32 och Tölö 1:33
 Fastighetsägarna förstår Regionens behov att förändra och bygga ut sjukhuset, och är inte emot
 projektet som sådant men har synpunkter på nuvarande förslag till utformning.
 
-1. Den tänkta bebyggelsens placering.
+1\. Den tänkta bebyggelsens placering.
 Med tänkt placering av byggnaderna 1 och 2 (se bifogad illustration) anser fastighetsägarna att de
 hamnar väldigt nära befintlig bostadsbebyggelse och kommer att upplevas som mycket påträngande i
 miljön. Idag ligger hjälpmedelscentralen mellan tänkt bebyggelse och äldreboendet Smedjan. Deras
@@ -11544,7 +11544,7 @@ mot nordost och Smedjan på tomten och lägger de lägre komplementbyggnaderna,
 hjälpmedelscentralen och 4 i framkant, mot befintlig bostadsbebyggelse. Det skulle behålla känslan
 och karaktären av dagens villa/bostadsrättsbebyggelse och påtagligt minska känslan av att kommande
 bebyggelse sticker ut och inte är anpassad till nuvarande karaktär i området.
-2. Den tänkta bebyggelsens höjd
+2\. Den tänkta bebyggelsens höjd
 
 De invänder mot möjligheten att bygga 25-26 meter höga byggnader. De framför att man skriver i
 beskrivningen av projektet att byggnaden på grund av sin höga höjd blir "ett landmärke" men betonar,
@@ -11556,7 +11556,7 @@ mindre, lägre byggnader och smälter fint in i både omgivande bebyggelse och m
 bebyggelse runt om är låg, och höghus av den tänkta utformningen skulle helt förstöra nuvarande
 karaktär av lågbebyggt bostadsområde.
 
-3. Markens beskaffenhet påverkan på nuvarande bebyggelse
+3\. Markens beskaffenhet påverkan på nuvarande bebyggelse
 Fastighetsägarna framför att marken som man tänkt bygga på, precis som den mark våra hus står på,
 består av lera av olika typ. De ställer dig frågande till de geologiska undersökningar som gjorts vad
 gäller vad marken klarar i form av belastning osv. De beskriver problem som uppstod när nuvarande
@@ -11570,13 +11570,13 @@ KUNGSBACKA  KOMMUN
 16 (29)
 
 Kommentar:
-1. Gällande byggnadernas placering se svar till Tölö 1:23, avsnitt 13
-2. Gällande höjder se svar till Tölö 1:23, avsnitt 13
-3. Gällande geoteknik se svar till Tölö 1:23, avsnitt 13, samt svar till Tölö 7:10, avsnitt 15
+1\. Gällande byggnadernas placering se svar till Tölö 1:23, avsnitt 13
+2\. Gällande höjder se svar till Tölö 1:23, avsnitt 13
+3\. Gällande geoteknik se svar till Tölö 1:23, avsnitt 13, samt svar till Tölö 7:10, avsnitt 15
 
 Organisationer och föreningar
 
-17. Socialdemokraterna
+17\. Socialdemokraterna
 Dagvatten
 
 Vid beräkningarna bör man utgå ifrån mer frekvent förekomst av 100-års regn. Området bör ha väl
@@ -11643,7 +11643,7 @@ KUNGSBACKA  KOMMUN
 
 Kommunala förvaltningar och nämnder
 
-18. Teknik
+18\. Teknik
 Kungsbacka Bredbandsnät har ledningar i grönytan längst med Söderåleden och Tölövägen. I
 dagsläget finns ingen konflikt men hänsyn till ledningarna skall tas vid byggnation av P-huset. I övrigt
 har Bredbandsenheten inget att erinra.
@@ -11657,7 +11657,7 @@ landskapsperspektiv.
 Kommentar: Befintliga ledningar skyddas av u-område.
 Dagvattenutredning och geoteknisk utredning har kompletterats till granskningen.
 
-19. Miljö & Hälsoskydd
+19\. Miljö & Hälsoskydd
 Buller och vibrationer
 Trafikutredningen visar på en viss förhöjning av trafiken i området men man har bara utrett
 framkomligheten. Miljö & Hälsoskydd vill att man gör en bullerutredning för att säkerställa att den
@@ -11691,7 +11691,7 @@ tas fram till granskningen. Gällande 100-årsregn se svar om MKN till Länsstyr
 Regionfastigheter har ett pågående arbete med sanering av PCB i byggnader. Om föroreningar
 påträffas i samband med grävarbeten anmäls och hanteras dessa enligt gällande lagstiftning.
 
-20. Vård & Omsorg
+20\. Vård & Omsorg
 Vård & Omsorg vill betona att fastigheter för vårdbyggnader samt parkeringshus och den omgivande
 miljön utformas på ett sådant sätt att de blir tillgängliga för alla oavsett ålder eller
 funktionsnedsättning. I övrigt har Vård & Omsorg inga synpunkter på förslaget.
@@ -11699,7 +11699,7 @@ funktionsnedsättning. I övrigt har Vård & Omsorg inga synpunkter på förslag
 Kommentar: Noteras. Tillgängligheten kontrolleras i bygglovsprövningen.
 
 Övriga
-21. Fastighetsägare till Tölö 1:25
+21\. Fastighetsägare till Tölö 1:25
 
 Sakägarkrets
 Fastighetsägarna anser att sakägarkretsen borde vara större då planförslaget innebär en stor
@@ -11853,7 +11853,7 @@ direkt berörda av detaljplanens genomförande och därmed ingår i sakägarkret
 Utformning av byggnader: Gällande höjder och planering av byggnader se svar till Tölö 7:10,
 avsnitt 15 respektive Tölö 1:23, avsnitt 13
 Trafik: Gällande ökning av patientunderlag, personal och trafik se svar till Hummern 3, avsnitt
-12. Gällande trafik på övriga vägar se punkt 3 i svar till Tölö 7:10, avsnitt 15 samt svar till Tölö
+12\. Gällande trafik på övriga vägar se punkt 3 i svar till Tölö 7:10, avsnitt 15 samt svar till Tölö
 1:12, avsnitt 22.
 
 Markens beskaffenhet: Den geotekniska utredningen har tagits fram av konsult i på uppdrag av
@@ -11888,7 +11888,7 @@ möjligt att bedriva vård på två separata platser samtidigt. Den nuvarande pl
 mycket bra läge sett till kommunikationer och kollektivtrafik. Det finns inga andra platser inom
 Kungsbacka stad som bedömts vara realistiska för ett sjukhus.
 
-22. Fastighetsägare till Tölö 1:25
+22\. Fastighetsägare till Tölö 1:25
 Fastighetsägaren framför att en så pass stor och omfattande utbyggnad av Hallands sjukhus i
 Kungsbacka riskerar att generera en mycket dålig och i många avseenden farlig trafiksituation i
 omkringliggande bostadsområden. Antalet vårdplatser kommer öka radikalt och olika
@@ -11911,7 +11911,7 @@ påverkan till följd av exploateringen på de lokala bostadsgatorna inne i Öst
 mycket liten. I övrigt se svar till Hummern 3, avsnitt 12 samt punkt 3 i svar till Tölö 7:10,
 avsnitt 15.
 
-23. Boende på Gymnasiegatan 36
+23\. Boende på Gymnasiegatan 36
 Personen hoppas att det inte blir för mycket protester mot att bygga högre än två våningar och att det
 blir ok att riva den gamla sjukstugan. Personen har under flera år sammanställt historik om sjukhuset i
 Kungsbacka och dess utveckling och bifogar några dokument kring detta.
@@ -11937,7 +11937,7 @@ Kommentar: Den historiska dokumentationen har vidarebefordrats till kommunantikv
 Det finns redan idag skyddsrum i sjukhuset. Dessa kommer att ersättas i samband med
 ombyggnationen. Detaljplanen hindrar inte ytterligare skyddsrum om behov skulle uppstå.
 
-24. Boende på Gymnasiegatan 36
+24\. Boende på Gymnasiegatan 36
 Personen är positiv till detaljplanen, men är orolig för att byggnaderna inte blir tillräckligt stora,
 baserat på den historik av att bygga relativt små byggnader i Kungsbacka kommun sedan 80-talet.
 Personen framför att mark är dyrt, men att det överlag ändå byggs ganska få våningar i Kungsbacka
@@ -11975,7 +11975,7 @@ en överkapacitet.
 Det finns redan idag skyddsrum i sjukhuset. Dessa kommer att ersättas i samband med
 ombyggnationen
 
-25. Fastighetsägare till Tölö 1:56
+25\. Fastighetsägare till Tölö 1:56
 Fastighetsägaren är positiv till planförslaget med framför att många av de som bor i Tölö kyrkby har
 valt vårt boende pga närheten till kommunikation och då i synnerhet tåg och station. Flera från andra
 delar av Tölös andra områden passerar område då detta är en smidig och enkel väg att ta sig till
@@ -11997,7 +11997,7 @@ alternativ.
 KUNGSBACKA  KOMMUN
 26 (29)
 
-26. Fastighetsägare till Tölö 1:28
+26\. Fastighetsägare till Tölö 1:28
 Fastighetsägaren skriver inledningsvis är det glädjande att Region Halland gör en investering i
 sjukvården för de som bor i och kring Kungsbacka. Den lokala sjukvården har tyvärr inte hängt med
 när Kungsbackas befolkning vuxit.
@@ -12073,7 +12073,7 @@ visar bara de tänkta byggnadernas volym, inte gestaltning, arkitektur eller est
 Trafik: Se punkt 3 i svar till Tölö 7:10, avsnitt 15.
 Geoteknik och påverkan på befintliga fastigheter: Se svar till Tölö 7:10, avsnitt 15.
 
-27. Fastighetsägare till Tölö 1:24, Tölö 1:25, Tölö 1:26, Tölö 1:27, Tölö 1:28 och Tölö 1:29
+27\. Fastighetsägare till Tölö 1:24, Tölö 1:25, Tölö 1:26, Tölö 1:27, Tölö 1:28 och Tölö 1:29
 Fastighetsägarna har skrivit under samma yttrande som flera sakägare. Se sammanfattning av yttrande
 från Tölö 1:23, Tölö 1:30, Tölö 1:31, Tölö 1:32 och Tölö 1:33, avsnitt 16.
 
@@ -12084,7 +12084,7 @@ Kommentar: Se svar till Tölö 1:23, Tölö 1:30, Tölö 1:31, Tölö 1:32 och T
 KUNGSBACKA  KOMMUN
 28 (29)
 
-28. Privatperson
+28\. Privatperson
 Personen förstår inte varför det skall byggas så stort och undrar om det ska finnas vårdavdelningar för
 eftervård, istället för att vårdas på Varbergs sjukhus. Personen anser att det finns ju hur mycket "döyta"
 i sjukhuset idag i form av långa korridorer och väntrum utan patienter och anser att det är bättre att
@@ -12097,24 +12097,24 @@ lokaler för vården. Det finns inget självändamål att bygga ett stort sjukhu
 
 baseras på det behov som framförts från verksamheten.
 
-29. Boende på Kolla 5:16
+29\. Boende på Kolla 5:16
 
 Personen anser att planen ser bra ut men har några invändningar.
-1. Västra Tölövägen måste hopkopplas tillbaka med Smidesvägen. För att kompensera med den
+1\. Västra Tölövägen måste hopkopplas tillbaka med Smidesvägen. För att kompensera med den
 vägdragningen kan man bygga på sjukhuset med ett par våningar längs med den vägen och koppla
 ihop dem våningarna med gångbroar ovan.
 
-2. P-huset kan likaså byggas på med några våningar (med gångbroar kopplad till sjukhuset) för att
+2\. P-huset kan likaså byggas på med några våningar (med gångbroar kopplad till sjukhuset) för att
 husera en matbutik och gym. Den delen av Kungsbacka saknar adekvat matbutik och ett gym intill
 sjukhuset ger hälsofördelar.
-3. I en inte så avlägsen framtid kan Östra Tölövägen få fortsätta under sjukhuset och Tölöberget i en
+3\. I en inte så avlägsen framtid kan Östra Tölövägen få fortsätta under sjukhuset och Tölöberget i en
 tunnel och ansluta till korsningen Gamla Göteborgsvägen och Järnvägsgatan.
 
 Kommentar: 1. Det kommer även fortsättningsvis att finnas en intern vägkoppling inom
 sjukhusområdet som knyter ihop Tölövägen med Smidesvägen.
-2. Det finns idag inga planer på ytterligare funktioner eller verksamheter i parkeringshuset.
+2\. Det finns idag inga planer på ytterligare funktioner eller verksamheter i parkeringshuset.
 
-3. Det finns inga planer på en sådan vägsträckning.
+3\. Det finns inga planer på en sådan vägsträckning.
 
 Ändringar
 Inkomna synpunkter har resulterat i följande ändringar:
@@ -12184,17 +12184,17 @@ standardförfarande.
 
 Under samrådet ska Länsstyrelsen enligt 5 kap. 14 § PBL särskilt
 
-1. ta till vara och samordna statens intressen
-2. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
+1\. ta till vara och samordna statens intressen
+2\. verka för att riksintressen enligt 3 och 4 kap. miljöbalken
 (1998:808), MB, tillgodoses, att miljökvalitetsnormer enligt 5
 kap. MB följs och att strandskydd enligt 7 kap. MB inte
 
 upphävs i strid med gällande bestämmelser
-3. verka för att sådana frågor om användningen av mark- och
+3\. verka för att sådana frågor om användningen av mark- och
 vattenområden som angår två eller flera kommuner
 samordnas på ett lämpligt sätt
 
-4. verka för att en bebyggelse inte blir olämplig eller ett
+4\. verka för att en bebyggelse inte blir olämplig eller ett
 byggnadsverk olämpligt med hänsyn till människors hälsa
 eller säkerhet eller till risken för olyckor, översvämning eller
 erosion.
@@ -12241,13 +12241,13 @@ nedan.
 
 Länsstyrelsen befarar inte att:
 
--  riksintresse enligt miljöbalken (MB) påtagligt kommer att
+\-  riksintresse enligt miljöbalken (MB) påtagligt kommer att
 skadas,
 
--  reglering av mellankommunala frågor inte samordnas på ett
+\-  reglering av mellankommunala frågor inte samordnas på ett
 lämpligt sätt,
 
--  strandskydd enligt 7 kap. MB upphävs i strid med gällande
+\-  strandskydd enligt 7 kap. MB upphävs i strid med gällande
 bestämmelser,
 
 Översvämningsrisk
@@ -13116,11 +13116,11 @@ vara undertecknat av exploatören och godkänt av berörd politisk instans innan
 antas.
 
 I det här projektet kommer exploateringsavtalet att omfatta
--  Definition av exploateringsområdet.
+\-  Definition av exploateringsområdet.
 
--  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
+\-  Tidsplan för utbyggnad, inklusive eventuell etappvis utbyggnad.
 
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar inom planområdet.
 Vid kommunalt huvudmannaskap utför kommunen utbyggnad av allmän plats på
 exploatörens bekostnad (exploateringsbidrag). Utbyggnaden sker till självkostnadspris
 och fördelas vid behov mellan exploatörer, enligt reglerna om gatukostnader i PBL.
@@ -13130,23 +13130,23 @@ Vid enskilt huvudmannaskap utför exploatören utbyggnad av allmän plats och
 anläggningarna överlåts senare till en gemensamhetsanläggning.
 Åtgärder inom kvartersmark för bostadsändamål ansvarar exploatören för.
 
--  Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför
+\-  Fördelning av ansvar och kostnader för utbyggnad av anläggningar utanför
 planområdet, som är nödvändiga för detaljplanens genomförande och rimliga med
 hänsyn till exploatörens nytta av åtgärden.
 
--  Principer för marköverlåtelser mellan kommunen och exploatören. Vid kommunalt
+\-  Principer för marköverlåtelser mellan kommunen och exploatören. Vid kommunalt
 huvudmannaskap är utgångspunkten att exploatören överlåter allmän platsmark till
 kommunen utan ersättning.
--  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
+\-  Reglering av exploatörens ansvar att erlägga avgift enligt kommunens VA-taxa.
 
--  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
+\-  Reglering av exploatörens ansvar för att bekosta undersökningar som inte omfattas av
 plankostnadsavtalet.
--  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
+\-  Fördelning av ansvar för ansökan om och bekostande av lantmäteriåtgärder.
 
--  Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att
+\-  Reglering av exploatörens skyldighet att ställa säkerhet till kommunen för att
 säkerställa exploatörens åtaganden.
 
--  Övriga frågor som behöver regleras för exploateringsområdets rationella och
+\-  Övriga frågor som behöver regleras för exploateringsområdets rationella och
 ändamålsenliga utbyggnad.
 Avtalet medför bland annat att detaljplanens genomförande säkerställs ekonomiskt samt att
 samordningen mellan exploatören och kommunen regleras avseende utbyggnad av
@@ -13874,7 +13874,7 @@ trafikmätningen från AFRY 2020-10-26 att användas för att få fram ÅDT äve
 delen av Lindomevägen. Enligt VGU-guiden (2022) kan det antas att antal fordon under
 maxtimman är ungefär 10 % av ÅDT. Detta överensstämde med den västra delen av
 Lindomevägen. Utifrån detta beräknas ÅDT på den östra delen av Lindomevägen vara runt 8
-000. ÅDT på Letsegårdsvägen beräknas vara ungefär 800 och är beräknad enligt samma
+000\. ÅDT på Letsegårdsvägen beräknas vara ungefär 800 och är beräknad enligt samma
 princip som Lindomevägen i östlig riktning. Trafikmätning saknas på Slättegårdsvägen men
 utifrån befintlig markanvändning, inklusive exploatering inom Bolsheden 1:40 beräknas
 flödet uppgå till ca ÅDT 100 i det som motsvarar den aktuella planens nuläge.
@@ -14124,7 +14124,7 @@ genom stigsystem ansluter till skogsområdet. Detaljplanen kan på så sätt ver
 friluftslivet.
 
 Planområdet ligger cirka 3 kilometer från Sandsjöbacka Naturreservat som omfattas av Natura
-2000. Detaljplanens genomförande bedöms inte påverka miljön inne i Natura 2000 i
+2000\. Detaljplanens genomförande bedöms inte påverka miljön inne i Natura 2000 i
 
 Sandsjöbacka.
 
@@ -14798,7 +14798,7 @@ förenlig med den gällande översiktsplanen och därför genomförs detaljplane
 kallat utökat standardförfarande (Plan- och bygglag (2010:900) 5 kap 7 §).
 
 Ett planprogram för Rya verksamhetsområde godkändes av kommunstyrelsen 2016-11-15 §
-295. Planprogrammet omfattar Frillesås-Rya 3:77 och föreslår industriändamål där området
+295\. Planprogrammet omfattar Frillesås-Rya 3:77 och föreslår industriändamål där området
 längst i söder föreslås vara ”ej störande industri”,
 
 Programområdet omfattade ett mindre område än nu föreliggande detaljplaneförslag.
@@ -15254,23 +15254,23 @@ verksamhetsområdet i nuläget.
 Yttrande från lantmäteriet som bör beaktas
 
 Synpunkter från lantmäteriet bör beaktas. Frågorna avser
--  Osäker gräns för kvartersmark
+\-  Osäker gräns för kvartersmark
 
--  Grundkarta
+\-  Grundkarta
 
--  Ersättning för upphävande av GA
--  Fastighetskonsekvensbeskrivning saknas
+\-  Ersättning för upphävande av GA
+\-  Fastighetskonsekvensbeskrivning saknas
 
 Övriga synpunkter från Trafikverket som bör beaktas
 Övriga synpunkter från Trafikverket bör beaktas i det fortsatta planarbetet. Frågorna gäller
 exempelvis
 
--  Hållbarhetsfrågor
+\-  Hållbarhetsfrågor
 
--  Gång- och cykelvägnät och kollektivtrafik
--  Finansieringsfrågor
+\-  Gång- och cykelvägnät och kollektivtrafik
+\-  Finansieringsfrågor
 
--  mm.
+\-  mm.
 Försvarsmakten
 
 Länsstyrelsen har tillställt Försvarsmakten planförslaget. Försvarsmakten har ingen erinran.
@@ -15332,14 +15332,14 @@ Sammanfattning av ärendet
 Kommunfullmäktige beslutade 2025-06-16 att fastställa kommunövergripande mål
 som utgångspunkt för nämndens arbete med verksamhetsplanering. I
 verksamhetsplanen ingår bland annat.
-* Nämndens övergripande inriktning för arbetet i förvaltningen
+\* Nämndens övergripande inriktning för arbetet i förvaltningen
 
-* Nämndmål
+\* Nämndmål
 
-* Nämndens direktiv till förvaltningen
-* Ramfördelning driftbudget
+\* Nämndens direktiv till förvaltningen
+\* Ramfördelning driftbudget
 
-* Investeringsbudget
+\* Investeringsbudget
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser i arbetet med
 nämndbudget fatta beslut om verksamhetsplan och ramfördelning. Till ärendet
 bifogas nämndbudget 2026.
@@ -15410,11 +15410,11 @@ Taxetabell A22-23 är kopplad till milliprisbasbelopp, mbpp. Prisbasbeloppet ök
 
 från 58 800 kronor 2025 till 59 200 kronor 2026, vilket motsvarar en ökning med 0,7
 procent. Bygg- och miljöförvaltningen föreslår att Byggnadsnämnden:
-* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
+\* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
 kommuns plan- och byggverksamhet från 1 391 kronor per timme till 1 400 kronor
 per timme i enlighet med punkt fyra i taxans bestämmelser.
 
-* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
+\* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
 handläggningskostnad per timme (A1-21) samt prisbasbelopp för 2026 (A22-23) i
 enlighet med punkt fyra i taxan.
 
@@ -15429,7 +15429,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2025-11-18
 
-* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
+\* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
 A1-23 gäller från och med 1 januari 2026.
 Förvaltningen beräknar att indexjusteringen motsvarar en intäktsökning på cirka 100
 000 kronor baserat på preliminär budget för 2026. De nya beloppen framgår av
@@ -15650,7 +15650,7 @@ Byggnadsnämndens arbetsutskott gav den 20 juni 2024 samhällsbyggnadskontoret i
 uppdrag att upprätta detaljplan för skola inom Åsa 5:246 och Åsa 4:142.
 
 Planförslaget har varit utställt för granskning under tiden 19 augusti – 12 september
-2025. Under granskningstiden inkom 16 skrivelser. Inkomna synpunkter berör i
+2025\. Under granskningstiden inkom 16 skrivelser. Inkomna synpunkter berör i
 huvudsak Inkomna synpunkter berör i huvudsak att skolan blir för hög för att passa
 in i Åsas bebyggelsestruktur samt att skolan försämrar dagsljusförhållandena för
 intilliggande fastighet i öster. Se vidare i granskningsutlåtandet.
@@ -16231,14 +16231,14 @@ upphävs till följd av den nya detaljplanen. Se karta nedan.
 
 Planområde
 
-1.
+1\.
 
 Befintlig
 betongindustri
 
 Idrottsplats
 
-2.
+2\.
 
 1
 
@@ -16505,14 +16505,14 @@ Stabilitetsberäkningar har utförts i fyra representativa sektioner. Resultaten
 befintliga förhållanden är tillfredsställande.
 För planerade förhållanden uppnås erforderlig säkerhet i samtliga sektioner, men vissa åtgärder är
 nödvändiga:
--  All schaktning och fyllning >0,5 m ska föregås av geoteknisk kontroll och detaljprojektering
+\-  All schaktning och fyllning >0,5 m ska föregås av geoteknisk kontroll och detaljprojektering
 
--  Höjdsättning och utformning är avgörande för stabilitet och måste fastställas innan byggnation.
--  Norra dagvattendammen: Avstånd mellan dammens släntkrön och Almedalsvägens släntfot ska
+\-  Höjdsättning och utformning är avgörande för stabilitet och måste fastställas innan byggnation.
+\-  Norra dagvattendammen: Avstånd mellan dammens släntkrön och Almedalsvägens släntfot ska
 vara minst 14 meter och släntlutning får inte vara brantare än 1:3. Om avståndet inte kan uppnås,
 krävs stödkonstruktion mot Almedalsvägen.
 
--  Södra dagvattendammen: Planerad väg ska placeras minst 7 meter från dammens släntkrön.
+\-  Södra dagvattendammen: Planerad väg ska placeras minst 7 meter från dammens släntkrön.
 Känslighetsanalys: Vid högt portryck kan säkerheten minska, men nuvarande mätningar indikerar att
 detta scenario är osannolikt.
 Sammanfattningsvis bedöms området lämpligt för den planerade exploateringen under förutsättning att
@@ -16671,7 +16671,7 @@ planområdets norra del i samband med framtagandet av detaljplanen (Kulturmiljö
 fynd eller anläggningar av antikvariskt intresse påträffades vid utredningen, varför inga ytterligare
 
 Figur 14 Bilden visar de två områden där fynd påträffats och som genomgått en arkeologisk förundersökning under hösten
-2020. Områdena benämns Frillesås 109 och Frillesås 108. Bild: Kulturmiljö Halland.
+2020\. Områdena benämns Frillesås 109 och Frillesås 108. Bild: Kulturmiljö Halland.
 
 arkeologiska insatser krävs för detta delområde.
 En begäran om arkeologisk utredning avseende markområden som detaljplanen utökats med har
@@ -16974,7 +16974,7 @@ I trafikutredning (Bouvier, 2025-12-01) har kapacitet och framkomlighet vid traf
 analyserats, med fokus på hur den ökade trafiken från exploateringen påverkar funktion och
 belastning. Utredningen visar att trafikplatsen har tillräcklig kapacitet för den planerade verksamheten
 och att inga åtgärder behöver vidtas, varken till följd av exploateringen nu eller i ett framtida scenario
-2050.
+2050\.
 
 En ny cirkulationsplats föreslås i norra delen av planområdet, inom vägområdet för Almedalsvägen.
 Läge för den nya cirkulationsplatsen sammanfaller med en befintlig väganslutning till Almedalsvägen.
@@ -17526,7 +17526,7 @@ och i viss mån störande verksamheter inte sker i området. Vad som är den mes
 i ett nollalternativ är inte alltid lätt att bedöma, men utgångspunkten i detta fall är att nuvarande
 markanvändning i form av delvis brukade åker- och betesmarker i så fall kommer att bestå. De
 miljökonsekvenser som beskrivs i kapitel 6-15 i miljökonsekvensbeskrivningen (Norconsult 2025-11-
-14) blir inte verklighet i ett nollalternativ, utan beskrivningarna under ”Nuvarande förhållanden” för
+14\) blir inte verklighet i ett nollalternativ, utan beskrivningarna under ”Nuvarande förhållanden” för
 respektive miljöaspekt kommer i huvudsak att gälla även framöver.
 
 En annan tänkbar utveckling är att brukandet av odlingsmarkerna efterhand upphör, vilket på sikt leder
@@ -17764,7 +17764,7 @@ utan att anläggningskostnaderna blir orimligt höga.
 Miljömål
 
 De miljömål som anses vara relevanta för planen är 1, 2, 6, 7, 8, 10, 13, 15 och 16.
-1. Begränsad klimatpåverkan
+1\. Begränsad klimatpåverkan
 Planerad utbyggnad av verksamheter med inriktning på logistik och lager ger en lokal ökning av trafik
 och uppvärmning av arbetsplatser. Planens påverkan på klimatet beror nästan uteslutande på att
 trafiken ökar i området, vilket ger en ökning av utsläppet av växthusgaser. Dessa konsekvenser finns i
@@ -17779,12 +17779,12 @@ resurser, vilket bl.a. medför transporter, användande av arbetsmaskiner samt f
 och materiel. Detta innebär i sin tur utsläpp av koldioxid både som följd av anläggningsarbetena och
 vid produktionen av byggnadsmaterial etc. Sammantaget bedöms detaljplanens lokala klimatpåverkan
 bli liten i negativ riktning.
-2. Frisk luft
+2\. Frisk luft
 Detaljplanen medför små ökningar av halterna av luftföroreningar. Gällande miljökvalitetsnormer
 bedöms komma att klaras med stor marginal. Miljöpåverkan med avseende på frisk luft bedöms
 därmed bli svagt negativ
 
-7. Ingen övergödning
+7\. Ingen övergödning
 Detaljplanen beräknas minska näringshaltsbelastningen från planområdet jämfört med idag, vilket
 bidrar något till att förbättra vattenkvaliteten i recipienterna Löftaån, Vendelsöfjorden och
 Landabukten. Detta då planområdet utformas med en förbättrad dagvattenhantering som fördröjer och
@@ -17796,25 +17796,25 @@ ekologiska och kemiska status och därmed inte heller möjligheterna till att up
 <!-- sida 431 -->
 
 Miljöpåverkan med avseende på övergödning bedöms därmed bli svagt positiv.
-8. Levande sjöar och vattendrag
+8\. Levande sjöar och vattendrag
 Planförslaget med förslaget dagvattensystem bedöms ge en minskad föroreningsbelastning via
 dagvatten från området ned mot l Löftaån jämfört med idag. Detta kan bidra något till att minska
 övergödningen i Löftaån och havet, vilket är positivt för åns växt- och djurliv. Samtidigt krävs
 sannolikt kraftfullare åtgärder för att säkerställa att miljökvalitetsnormer i ån uppnås. Miljöpåverkan
 med avseende på levande sjöar och vattendrag bedöms därmed bli svagt positiv.
 
-10. Hav i balans samt levande kust och skärgård
+10\. Hav i balans samt levande kust och skärgård
 Planen ger upphov till en minskad föroreningsbelastning och bidrar därmed något till att minska
 övergödningen av mynningsområdet Vendelsöfjorden och Landabukten, genom att tillförseln av
 näringsämnen från jordbruksmark minskas. Samtidigt berör planen endast en mycket begränsad del av
 slutrecipienten Vändelsöarkipelagens avrinningsområde, varför situationen i recipienten inte förändras
 nämnvärt av utbyggnaden utan mer kraftfulla åtgärder krävs för att få en märkbar effekt.
-13. Ett rikt odlingslandskap
+13\. Ett rikt odlingslandskap
 Utbyggnaden innebär att ytterligare en del av det öppna odlingslandskapet kring Frillesås tas i anspråk
 för utbyggnad av verksamhetsområdet. Vidare tas brukningsvärd odlingsmark i anspråk, vilket innebär
 att möjligheten att i framtiden utnyttja området för odling försvinner, vilket är negativt. Detaljplanen
 innebär därmed en stor negativ påverkan på miljömålet.
-15. God bebyggd miljö
+15\. God bebyggd miljö
 Utbyggnaden innebär att brukningsvärd jordbruksmark bebyggs med verksamheter, vilket negativt
 påverkar möjligheten att i framtiden utnyttja marken för livsmedelsproduktion. Samtidigt utgör planen
 en del i Kungsbacka kommuns arbete med att på sikt omplacera företag som alstrat tung trafik till
@@ -17827,7 +17827,7 @@ friluftsvärdena bedöms som liten. Marken utnyttjas därmed på ett mer effekti
 bedöms planförslaget påverkas målet i negativ riktning. Planförslaget medför därmed påverkan i såväl
 positiv som negativ riktning, denna bedöms som liten till måttlig.
 
-16. Ett rikt växt- och djurliv
+16\. Ett rikt växt- och djurliv
 Utbyggnaden medför framför allt att åkermark utan några högre naturvärden tas i anspråk för ett
 verksamhetsområde. Dock är konsekvenserna på växt- och djurlivet avhängigt på den mer detaljerade
 planeringen av verksamhetsytorna samt vilken hänsyn som tas till naturvärdes- och biotopskyddade
@@ -19058,7 +19058,7 @@ antingen genom att själva vara av särskild vikt eller genom att de indikerar a
 naturtyper är särskilt viktiga ur ett naturvårdsperspektiv. De fynd som görs och de naturtyper som finns
 representerade kan dock ge en vägledning om hur naturvärdena skall bedömas.
 Planområdet har besökts av biologer vid ett flertal tillfällen under planprojektet (år 2009, 2015 och
-2021) för att studera bland annat naturmiljön. Under dessa fältbesök i området gjordes inga fynd av
+2021\) för att studera bland annat naturmiljön. Under dessa fältbesök i området gjordes inga fynd av
 skyddade eller skyddsvärda arter. En del av anledningen till detta är att större delen av området utgörs
 av åker- och betesmark, samt igenväxande odlingsmark utan några högre naturvärden. Således
 bedöms förutsättningarna för skyddade eller skyddsvärda arter vara begränsade. Däremot finns
@@ -19159,7 +19159,7 @@ groda och mindre vattensalamander. Eftersökningar och noteringar har gjorts av 
 eventuella spelläten, lekbeteenden och ägg/rom.
 Tabell 4.2. Inventeringsresultat.
 
-* Vid inventeringstillfället påträffades dock romklumpar i ett dike strax sydöst om dammen vid centralt höjdområde.
+\* Vid inventeringstillfället påträffades dock romklumpar i ett dike strax sydöst om dammen vid centralt höjdområde.
 
 | 23(69)
 
@@ -19180,7 +19180,7 @@ Tabell 4.2. Inventeringsresultat.
 
 | Datum | Damm vid centralt höjdområde | Damm i planområdets sydvästra hörn | Väderlek |
 | --- | --- | --- | --- |
-| 13 april<br>2021* | Två noteringar av grodor, troligen<br>av samma individ. Sannolikt<br>vanlig groda då denna<br>förekommer tidigare på säsongen<br>än åkergroda. Dock oklart vilken<br>art då inga spelläten hördes. | Inga noteringar av romklumpar eller<br>grodor. | Cirka 8-9 grader, molnfri<br>himmel, svag vind. |
+| 13 april<br>2021\* | Två noteringar av grodor, troligen<br>av samma individ. Sannolikt<br>vanlig groda då denna<br>förekommer tidigare på säsongen<br>än åkergroda. Dock oklart vilken<br>art då inga spelläten hördes. | Inga noteringar av romklumpar eller<br>grodor. | Cirka 8-9 grader, molnfri<br>himmel, svag vind. |
 | 20 april<br>2021 | Inga noteringar av romklumpar<br>eller grodor. | Inga individer eller romklumpar av vanlig<br>groda eller åkergroda. Dock hördes 1<br>möjligt spelläte av åkergroda under en<br>kort stund i anslutning till dammen. | Cirka 15-16 grader, molnfri<br>himmel, svag vind. |
 | 17 maj<br>2021 | Två noteringar av mindre vatten-<br>salamander (1 hona och 1 hane) | Inga noteringar av någon art av<br>salamander. | Cirka 10-11 grader, molnfri<br>himmel, svag vind. Cirka 10<br>grader i dammar. |
 
@@ -20635,9 +20635,9 @@ genomförande medverkar till att målet blir svårare att uppnå, plustecken att
 kommentarer görs i anslutning till bedömningarna i Tabell 11.2.
 Tabell 11.2. Bedömning av relevanta miljömål och hur de påverkas av detaljplanen.
 
-* Bedömningen av miljöpåverkan är gjord i en tregradig skala: liten, måttlig, stor.
+\* Bedömningen av miljöpåverkan är gjord i en tregradig skala: liten, måttlig, stor.
 
-1. Begränsad klimatpåverkan
+1\. Begränsad klimatpåverkan
 
 Planerad utbyggnad av verksamheter med inriktning på bland annat logistik och lager ger en lokal
 ökning av trafik och uppvärmning av arbetsplatser. Planens påverkan på klimatet beror nästan
@@ -20666,7 +20666,7 @@ Kungsbacka centrum, vilket bidrar till en bättre miljö i staden. Genom att ge 
 
 [Tabell 502-2](handlingar.tabeller/502-2.csv)
 
-| Miljökvalitetsmål |  | Planens lokala<br>miljöpåverkan* | Riktning mot (+) eller från<br>(-) miljökvalitetsmålet |
+| Miljökvalitetsmål |  | Planens lokala<br>miljöpåverkan\* | Riktning mot (+) eller från<br>(-) miljökvalitetsmålet |
 | --- | --- | --- | --- |
 | 1. | Begränsad klimatpåverkan | Liten | - |
 | 7. | Ingen övergödning | Liten | + |
@@ -20686,7 +20686,7 @@ utbyggnaden av området krävs resurser, vilket bland annat medför transporter,
 arbetsmaskiner samt förbrukning av byggvaror och materiel. Detta innebär i sin tur utsläpp av
 koldioxid både som följd av anläggningsarbetena och vid produktionen av byggnadsmaterial etc.
 Sammantaget bedöms detaljplanens lokala klimatpåverkan bli liten i negativ riktning.
-7. Ingen övergödning
+7\. Ingen övergödning
 
 Detaljplanen beräknas minska närsaltsbelastningen från planområdet jämfört med idag, vilket bidrar
 något till att förbättra vattenkvaliteten i recipienterna Löftaån, Vendelsöfjorden och Landabukten. Detta
@@ -20697,27 +20697,27 @@ dagvattensystem bedöms utbyggnaden inte försämra recipienternas ekologiska oc
 och därmed inte heller möjligheterna till att uppnå miljömålet. Miljöpåverkan med avseende på
 övergödning bedöms därmed bli svagt positiv.
 
-8. Levande sjöar och vattendrag
+8\. Levande sjöar och vattendrag
 Planförslaget med förslaget dagvattensystem bedöms ge en minskad föroreningsbelastning via
 dagvatten från området ned mot l Löftaån jämfört med idag. Detta kan bidra något till att minska
 övergödningen i Löftaån och havet, vilket är positivt för åns växt- och djurliv. Samtidigt krävs sannolikt
 kraftfullare åtgärder för att säkerställa att miljökvalitetsnormer i ån uppnås. Miljöpåverkan med
 avseende på levande sjöar och vattendrag bedöms därmed bli svagt positiv.
 
-10. Hav i balans samt levande kust och skärgård
+10\. Hav i balans samt levande kust och skärgård
 Planen ger upphov till en minskad föroreningsbelastning och bidrar därmed något till att minska
 övergödningen av mynningsområdet Vendelsöfjorden och Landabukten, genom att tillförseln av
 näringsämnen från jordbruksmark minskas. Samtidigt berör planen endast en mycket begränsad del
 av slutrecipienten Vändelsöarkipelagens avrinningsområde, varför situationen i recipienten inte
 förändras nämnvärt av utbyggnaden utan mer kraftfulla åtgärder krävs för att få en märkbar effekt.
 
-13. Ett rikt odlingslandskap
+13\. Ett rikt odlingslandskap
 
 Utbyggnaden innebär att ytterligare en del av det öppna odlingslandskapet kring Frillesås tas i
 anspråk för utbyggnad av verksamhetsområdet. Vidare tas brukningsvärd odlingsmark i anspråk,
 vilket innebär att möjligheten att i framtiden utnyttja området för odling försvinner, vilket är negativt.
 Detaljplanen innebär därmed en stor negativ påverkan på miljömålet.
-15. God bebyggd miljö
+15\. God bebyggd miljö
 
 Utbyggnaden innebär att brukningsvärd jordbruksmark bebyggs med verksamheter, vilket negativt
 påverkar möjligheten att i framtiden utnyttja marken för livsmedelsproduktion. Samtidigt utgör planen
@@ -20744,7 +20744,7 @@ Granskningshandling
 preciseringen av målet avseende bebyggelsemiljöer samt platser och landskap bedöms planförslaget
 påverkas målet i negativ riktning. Planförslaget medför påverkan i såväl positiv som negativ riktning,
 denna bedöms som måttlig.
-16. Ett rikt växt- och djurliv
+16\. Ett rikt växt- och djurliv
 
 Utbyggnaden medför framför allt att åkermark utan några högre naturvärden tas i anspråk för ett
 verksamhetsområde. Dock är konsekvenserna på växt- och djurlivet avhängigt på den mer detaljerade
@@ -20927,7 +20927,7 @@ Länsstyrelsen 2025: LstO Informationskartan 2.0 - WebbGIS informationskarta Vä
 hämtad oktober 2025.
 
 Naturvårdsverket 2015: Vägledning om industri- och annat verksamhetsbuller. Rapport 6538. April
-2015.
+2015\.
 Naturvårdsverket 2020: Skyddad natur. http://skyddadnatur.naturvardsverket.se/ Kartverktyg över
 olika skyddsformer.
 
@@ -21135,7 +21135,7 @@ SKALA 1:2000 A1
 
 TECKENFÖRKLARING
 
-+ Kommungräns
+\+ Kommungräns
 — — Trakt-, kvartersgräns
 — — Fastighetsgräns
 or Föreslagen fastighetsgräns

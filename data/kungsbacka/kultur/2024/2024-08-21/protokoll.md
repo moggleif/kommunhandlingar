@@ -34,11 +34,11 @@ Plats och tid för Ågrenska Klockan 08:30-16:45
 sammanträde
 Beslutande Ledamöter Tjänstgörande ersättare
 Annika Hedman (C), Ordförande Bo Barknertz (M) för Maria
-Ulrika Jörgensen (M) Gathendahl (M) $ 80, 84-85
+Ulrika Jörgensen (M) Gathendahl (M) \$ 80, 84-85
 Charlotte Wallenstein (M) Birgitta Gustafsson (L) för Lena
-Per Gunnarsson (S) Hasslöf Gustafsson (C) $ 80-85
+Per Gunnarsson (S) Hasslöf Gustafsson (C) \$ 80-85
 Birgitta Tingdal (S) Gert Svensson (S) för Jon
-Torbjörn Andersson (SD) Thorbjörnson $ 85
+Torbjörn Andersson (SD) Thorbjörnson \$ 85
 Mats Dahl (SD)
 Helene Engstrand (KD)
 Jon Thorbjörnson (V)
@@ -63,7 +63,7 @@ Annika Rönnblom, Ågrenska
 
 Plats och tid för justering Digitalt. 2024-08-26
 
-Sekreterare Erik Norinder Paragrafer $ 80-85
+Sekreterare Erik Norinder Paragrafer \$ 80-85
 
 Ordförande Annika Hedman (C)
 
@@ -77,19 +77,19 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (9)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-$ 80 Dnr KFT-2024-00221
+\$ 80 Dnr KFT-2024-00221
 Taxor och avgifter Kultur & Fritid
 
 Beslut
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
-1. Biblioteken i Kungsbacka
+1\. Biblioteken i Kungsbacka
 
-2. Kungsbacka Konsthall
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
+3\. Kungsbacka Kulturskola
 
-4. Naturum Fjärås Bräcka och Äskhult By
+4\. Naturum Fjärås Bräcka och Äskhult By
 
 5
 
@@ -111,17 +111,17 @@ Sammanfattning av ärendet
 Den publika verksamhet inom nämnden för Kultur & Fritids ansvarsområde
 
 finansieras dels av offentliga medel dels av avgifter som tas ut med stöd i
-Bibliotekslagen (2013:801) 9 $ samt Kommunallagen (2017:900), 2 kap. 5 - 6 $$ -
+Bibliotekslagen (2013:801) 9 \$ samt Kommunallagen (2017:900), 2 kap. 5 - 6 \$\$ -
 allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
-1. Biblioteken i Kungsbacka, 2014
+1\. Biblioteken i Kungsbacka, 2014
 
-2. Kungsbacka Konsthall, 2014
+2\. Kungsbacka Konsthall, 2014
 
-3. Kungsbacka Kulturskola, 2015
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
 
 2
 
@@ -175,17 +175,17 @@ Omröstningsresultat
 Nämnden beslutar enligt förvaltningens förslag.
 
 Ledamot JA NEJ AVSTÅR JÄV = Ersättare
-| Annika Hedman (O O O (0 — |<Välj ersättare> wv|
+| Annika Hedman (O O O (0 — |\<Välj ersättare> wv|
 | Maria Gathendahl (OJ O O 0 — |Bo Barknertz Nå
-[Ulrika Jörgensen (Oj Oo O OO — [<Välj ersättare> v|
-Charlotte Wallenstein (O O O CD — |<Välj ersättare> w|
+[Ulrika Jörgensen (Oj Oo O OO — [\<Välj ersättare> v|
+Charlotte Wallenstein (O O O CD — |\<Välj ersättare> w|
 | Annika Hamberg (OJ O O 0 — [Birgitta Gustafsson v |
-Per Gunnarsson O (OJ O 0 — |<Vvälj ersättare> wv|
-|Bi Tingdal O (OJ O 0 — |<Vvälj ersättare> wv|
-[To n Andersson (0) [OJ O 00 | <Välj ersättare> wv|
-| Mats Dahl SS [OO] O 0 — |<Väljersättare> wv|
-| Helene Engstrand (O O O 0 — |<Välj ersättare> wv|
-Jon Thorbjörnson O (OJ O () — [<välj ersättare» wv|
+Per Gunnarsson O (OJ O 0 — |\<Vvälj ersättare> wv|
+|Bi Tingdal O (OJ O 0 — |\<Vvälj ersättare> wv|
+[To n Andersson (0) [OJ O 00 | \<Välj ersättare> wv|
+| Mats Dahl SS [OO] O 0 — |\<Väljersättare> wv|
+| Helene Engstrand (O O O 0 — |\<Välj ersättare> wv|
+Jon Thorbjörnson O (OJ O () — [\<välj ersättare» wv|
 6 5 0
 
 Beslutet skickas till
@@ -202,7 +202,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (9)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-$ 81 Dnr KFT-2024-00220
+\$ 81 Dnr KFT-2024-00220
 Information till nämnd: Kulturbarometern
 
 Beslut
@@ -234,7 +234,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (9)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-$ 82 Dnr KFT-2024-00218
+\$ 82 Dnr KFT-2024-00218
 Anmälan av delegeringsbeslut aug 2024
 
 Beslut
@@ -273,7 +273,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (9)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-$ 83 Dnr KFT-2024-00219
+\$ 83 Dnr KFT-2024-00219
 Redovisning av inkomna handlingar augusti 2024
 
 Beslut
@@ -306,7 +306,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 89)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-$ 84 Dnr KFT-2024-00223
+\$ 84 Dnr KFT-2024-00223
 Planeringsdag 2024: Målbild 2030
 
 Beslut
@@ -316,7 +316,7 @@ Nämnden noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Nämnden informeras om hur förvaltningen omsätter Målbild 2030, som arbetades
-fram hösten 2023 (KFT 2023 $ 81). Nämnden ges också en omvärldsbevakning,
+fram hösten 2023 (KFT 2023 \$ 81). Nämnden ges också en omvärldsbevakning,
 både vad gäller Kungsbacka och världen i stort. Efterföljande gruppdiskussioner
 hålls kring eventuell uppdatering av målbilden.
 
@@ -351,7 +351,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (9)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-$85 Dnr KFT-2024-00224
+\$85 Dnr KFT-2024-00224
 Planeringsdag 2024: Stöd till föreningar
 
 Beslut
@@ -360,7 +360,7 @@ Nämnden noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-Nämnden gav 2024-02-21 $ 18 förvaltningen i uppdrag att presentera förslag på
+Nämnden gav 2024-02-21 \$ 18 förvaltningen i uppdrag att presentera förslag på
 förnyat bidragssystem. Under planeringsdagen ges nämnden en statusuppdatering på
 arbetet med efterföljande gruppdiskussioner.
 

@@ -512,7 +512,7 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Överenskommelse Ny socialtjänstlag SKR
+1\. Överenskommelse Ny socialtjänstlag SKR
 
 Beslutsgång
 

@@ -554,33 +554,33 @@ fristående verksamheten ska ha samma ekonomiska förutsättningar som den
 kommunala verksamheten. Från och med budgetåret 2010 gäller ny lagstiftning vad
 gäller ersättningen. Den innebär kortfattat att;
 
-- Kommunens bidrag ska beräknas efter samma grunder som kommunen tillämpar
+\- Kommunens bidrag ska beräknas efter samma grunder som kommunen tillämpar
 vid fördelning av resurser till den egna verksamheten av motsvarande slag.
-- Kommunens budget för verksamheten det kommande året ska ligga till grund för
+\- Kommunens budget för verksamheten det kommande året ska ligga till grund för
 
 bestämningen av bidragen till den fristående verksamheten.
-- Bidraget delas upp i grundbelopp och tilläggsbelopp.
+\- Bidraget delas upp i grundbelopp och tilläggsbelopp.
 
 Grundbelopp
 Grundbeloppet i förskolan, pedagogisk omsorg och fritidshemmet avser ersättning
 för:
 
-1. omsorg och pedagogisk verksamhet,
-2. pedagogiskt material och utrustning,
-3. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
-4. administration (schablon på 3%, ped omsorg 1%),
-5. mervärdesskatt (schablon på 6%), och
-6. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+1\. omsorg och pedagogisk verksamhet,
+2\. pedagogiskt material och utrustning,
+3\. måltider (ersätts med omkostnadsersättningen i pedagogisk omsorg)
+4\. administration (schablon på 3%, ped omsorg 1%),
+5\. mervärdesskatt (schablon på 6%), och
+6\. lokalkostnader (ersätts med omkostnadsersättningen i pedagogisk omsorg)
 
 Grundbeloppet i förskoleklass, grundskolan och anpassad grundskola avser
 ersättning för
-1. undervisning,
-2. lärverktyg,
-3. elevhälsa,
-4. måltider,
-5. administration (schablon på 3%),
-6. mervärdesskatt (schablon på 6%), och
-7. lokalkostnader.
+1\. undervisning,
+2\. lärverktyg,
+3\. elevhälsa,
+4\. måltider,
+5\. administration (schablon på 3%),
+6\. mervärdesskatt (schablon på 6%), och
+7\. lokalkostnader.
 
 Nedan följer grundbeloppen för 2025 i både kommunal och fristående verksamhet. I
 den fristående verksamheternas grundbelopp inkluderas bidrag för lokalkostnader,
@@ -667,7 +667,7 @@ Datum
 Beslut
 
 Nämnden för Förskola & Grundskola godkänner ändring i Resursfördelningsmodell
-2025.
+2025\.
 
 Sammanfattning av ärendet
 Nämnden för Förskola & Grundskola upprättar årligen resursfördelningsmodell för
@@ -862,7 +862,7 @@ fastställer delegeringsbesluten. Däremot får nämnden återta lämnad deleger
 föregripa ett beslut i ett enskilt ärende av den som fått beslutanderätten genom att
 själv ta över ärendet och fatta beslut. Sammanställningen omfattar beslut fattade eller
 inkomna till förvaltningen för Förskola & Grundskola från 2024-10-08—2024-11-
-04.
+04\.
 
 Beslutsgång
 Ordförande Emanuel Forsell (M) prövar om nämnden för Förskola & Grundskola

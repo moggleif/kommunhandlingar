@@ -189,18 +189,18 @@ Säkerhet och tillgänglighet vid val.
 
 För att skydda de allmänna valen samt stärka möjligheterna att utnyttja rösträtten
 föreslår regeringen ändringar i vallagen. Förslagen innebär bland annat följande:
--  Valmyndigheten ges ett uttryckligt ansvar att stödja och samordna arbetet
+\-  Valmyndigheten ges ett uttryckligt ansvar att stödja och samordna arbetet
 med skydd av val.
 
--  Länsstyrelserna, kommunerna och de utlandsmyndigheter som inrättat
+\-  Länsstyrelserna, kommunerna och de utlandsmyndigheter som inrättat
 röstnings-lokaler ska skyndsamt rapportera incidenter som kan påverka
 genomförandet av val till Valmyndigheten.
 
--  Kraven på att röstningen ska vara tillgänglig för alla väljare tydliggörs.
--  Fler väljare, bland annat personer som är placerade på särskilda
+\-  Kraven på att röstningen ska vara tillgänglig för alla väljare tydliggörs.
+\-  Fler väljare, bland annat personer som är placerade på särskilda
 ungdomshem, ska få möjlighet att rösta med ambulerande röstmottagare.
 
--  Utlandssvenskar som fallit ur röstlängden ska kunna förtidsrösta i Sverige
+\-  Utlandssvenskar som fallit ur röstlängden ska kunna förtidsrösta i Sverige
 och genom förtidsrösten återupptas i röstlängden.
 Vidare bedömer regeringen att det bör införas möjlighet att skicka digitala röstkort
 till väljare som har valt att ta emot meddelanden från myndigheter i en säker digital
@@ -235,23 +235,23 @@ Sammanfattning av ärendet
 
 Under perioden 24 januari - 12 maj har följande skrivelser inkommit till valnämnden:
 
-- Tjänsteskrivelse Informationshanteringsplan Ledningsprocesser
-- Beslut - 202400786 KS §72
+\- Tjänsteskrivelse Informationshanteringsplan Ledningsprocesser
+\- Beslut - 202400786 KS §72
 
-- Informationshanteringsplan för kommungemensamma ledningsprocesser
-- Tjänsteskrivelse Informationshanteringsplan stödprocesser
+\- Informationshanteringsplan för kommungemensamma ledningsprocesser
+\- Tjänsteskrivelse Informationshanteringsplan stödprocesser
 
-- Beslut - 202400787 KS §73
-- Informationshanteringsplan för kommungemensamma stödprocesser
+\- Beslut - 202400787 KS §73
+\- Informationshanteringsplan för kommungemensamma stödprocesser
 
-- Kungsbacka kommun - Revisionsplan 2025
-- Valmyndighetens nyhetsbrev v. 16
+\- Kungsbacka kommun - Revisionsplan 2025
+\- Valmyndighetens nyhetsbrev v. 16
 
-- Följebrev grundläggande granskning 2024
-- Grundläggande granskning 2024
+\- Följebrev grundläggande granskning 2024
+\- Grundläggande granskning 2024
 
-- Valmyndighetens nyhetssammanfattning 12 mars 2025
-- DSO årsrapport 2024 Kungsbacka_20250205
+\- Valmyndighetens nyhetssammanfattning 12 mars 2025
+\- DSO årsrapport 2024 Kungsbacka_20250205
 
 Beslutsgång
 Ordförande Jan Byvik (S) prövar om valnämnden kan notera redovisningen av

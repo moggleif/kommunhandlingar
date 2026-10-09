@@ -512,7 +512,7 @@ tillkomma under året.
 
 Under perioden 2023–2026 har det samlade resursbehovet inom Miljö & Hälsoskydd
 varit relativt stabilt, trots att tillsynsuppdraget för Mölndals stad tillkommit från
-2024. Personaltillgången har legat över behovet varje år, men överskottet har minskat
+2024\. Personaltillgången har legat över behovet varje år, men överskottet har minskat
 successivt. En viss överkapacitet har varit nödvändig för att hantera minskade
 personaltillgångar under året som sjukfrånvaro, föräldraledighet och
 personalomsättning.

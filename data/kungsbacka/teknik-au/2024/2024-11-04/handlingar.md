@@ -88,7 +88,7 @@ Handläggningstiden för kamerabevakningstillstånd var i juni 2024 i genomsnitt
 Förvaltningen för Service kan hjälpa till med övervakningen, idag har kommunen delvis bevakning av
 parkeringarna på Hede station och inne på stationshuset på Hede.
 Tillståndsprocessen kommer fortsatt vara relativt omfattande även efter eventuell ändring från 1 juli
-2025.
+2025\.
 
 Den samlade bilden polisen har är att pendelparkeringar är generellt utsatta, men Hede är inget
 problemområde. Dock kan kamera vara bra ur annat perspektiv, som en förebyggande åtgärd då stora
@@ -123,8 +123,8 @@ station;
 
 beslutade den 3 juni 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 $ andra stycket 16 och 17
-och 3 $ första stycket trafikförordningen (1998:1276) följande.
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
+och 3 \$ första stycket trafikförordningen (1998:1276) följande.
 
 Inom rödmarkerad yta på parkeringsanläggningen öster om Hede station enligt
 

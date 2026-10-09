@@ -85,11 +85,11 @@ ordförande                        sekreterare
 Diskussionsområden vid kommunrevisionens dialog med valnämnden
 – del av grundläggande granskning 2026
 
-1. Beskriv nämndens arbete med förberedelser inför valet i dagsläget.
+1\. Beskriv nämndens arbete med förberedelser inför valet i dagsläget.
 a. Beskriv arbetet med att rekrytera röstmottagare samt att utse lämpliga vallokaler.
 Finns det några utmaningar?
 
-2. Valsäkerhet är ett samlat begrepp för valadministrationens systematiska arbete med att
+2\. Valsäkerhet är ett samlat begrepp för valadministrationens systematiska arbete med att
 skydda de uppgifter som ska utföras enligt vallagen och andra valrelaterade
 författningar. Det handlar om säkerhetsskydd och verksamhetsskydd – men även om
 skydd mot olyckor, informationssäkerhet, krisberedskap och kontinuitetshantering.
@@ -97,20 +97,20 @@ skydd mot olyckor, informationssäkerhet, krisberedskap och kontinuitetshanterin
 a. Vilka risker kopplade till genomförandet av valet ser nämnden?
 
 b. Hur arbetar nämnden med valsäkerhet?
-3. Under 2022 anmäldes 2600 valrelaterade brott i Sverige mellan 1 april och 4 september.
+3\. Under 2022 anmäldes 2600 valrelaterade brott i Sverige mellan 1 april och 4 september.
 Bland annat utsattes röstmottagare för ofredanden och olaga hot.
 
 a. Vilka åtgärder vidtar nämnden för att motverka brottslighet och skydda
 röstmottagare?
 
-4. I tidigare dialog med revisionen diskuterades möjligheten att rösta för personer på olika
+4\. I tidigare dialog med revisionen diskuterades möjligheten att rösta för personer på olika
 typer av boenden och med olika särskilda behov. Hur möjliggör nämnden så att äldre
 och funktionshindrade kan rösta oavsett boendeform?
 Styrning, uppföljning och intern kontroll
 
-5. Beskriv hur nämnden styr verksamheten samt följer upp att styrningen fått genomslag.
+5\. Beskriv hur nämnden styr verksamheten samt följer upp att styrningen fått genomslag.
 
-6. Har nämndens arbete med riskanalysen som ligger till grund för nämndens interna
+6\. Har nämndens arbete med riskanalysen som ligger till grund för nämndens interna
 kontrollplan förändrats sedan föregående år?
 a. Hur arbetar nämnden med riskanalysen inför internkontrollarbetet?
 
@@ -1002,7 +1002,7 @@ Distribution av valsedlar
 
 Valnämnden kan besluta att ta på sig ett utökat ansvar för samordnad distribution av valsedlar utöver
 vallagens krav. Det innebär att;
--  Partier som har rätt till utläggning av partivalsedlar kan lämna namnvalsedlar till valnämndens
+\-  Partier som har rätt till utläggning av partivalsedlar kan lämna namnvalsedlar till valnämndens
 kansli för distribution till respektive röstmottagningsställe. Partierna ansvarar själva att leverera
 namnvalsedlar i den mängd som förväntas gå åt vid röstmottagningen till valkansliet senast
 klockan 12:00 den 10 augusti 2026 för utläggning, för att valsedlarna ska hinna packas och
@@ -1011,7 +1011,7 @@ köras ut till respektive röstmottagningslokal. I annat fall ansvarar partierna
 leverera sina namnvalsedlar till respektive röstmottagningsställe. Om valsedlarna till dessa
 partier tar slut kontaktar röstmottagaren den kontaktperson som respektive parti angett i förväg
 för leverans av fler valsedlar.
--  Partier som, enligt vallagen, inte har rätt till utläggning kan lämna in parti- och namnvalsedlar
+\-  Partier som, enligt vallagen, inte har rätt till utläggning kan lämna in parti- och namnvalsedlar
 till valnämndens kansli för distribution till respektive röstmottagningsställe. Partierna ansvarar
 själva att leverera namnvalsedlar i den mängd som förväntas gå åt vid röstmottagningen till
 valkansliet senast klockan 12:00 den 10 augusti 2026 för utläggning, för att valsedlarna ska
@@ -1563,9 +1563,9 @@ Skickat:               den 4 december 2025 09:23
 Till:                  Valnämnden
 Ämne:                  VB: Inbjudan till regionala valkonferenser 2026
 
-Från: SKR Evenemang <evenemang@skr.se>
+Från: SKR Evenemang \<evenemang@skr.se>
 Skickat: den 4 december 2025 09:02
-Till: Kommun <kommun@kungsbacka.se>
+Till: Kommun \<kommun@kungsbacka.se>
 Ämne: Inbjudan till regionala valkonferenser 2026
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -1649,7 +1649,7 @@ Läs mer om hur vi behandlar personuppgifter
 
 <!-- sida 45 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 4 december 2025 08:58
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens sammanfattade nyheter v. 49
@@ -1693,7 +1693,7 @@ Valmyndigheten
 
 <!-- sida 46 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 22 januari 2026 11:27
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsbrev v_4
@@ -1733,7 +1733,7 @@ Valmyndigheten
 
 <!-- sida 47 -->
 
-Från:                  Myndigheten för delaktighet <info@mfd.se>
+Från:                  Myndigheten för delaktighet \<info@mfd.se>
 Skickat:               den 20 januari 2026 11:43
 Till:                  Valnämnden
 Ämne:                  Tillgängliga val – stöd för kommunernas valarbete
@@ -1801,7 +1801,7 @@ info@mfd.se                               Instagram
 
 <!-- sida 49 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 12 januari 2026 15:21
 Till:                  valnamnd@olofstrom.se; val@karlskrona.se; val@ronneby.se;
 val@karlshamn.se; valnamnden@solvesborg.se;

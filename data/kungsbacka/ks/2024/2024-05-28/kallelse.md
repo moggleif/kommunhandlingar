@@ -67,7 +67,7 @@ KUNGSBACKA  KOMMUN
 
 3 (9)
 
-2.  Kommunbudget 2025, plan 2023-00686 Förslag till beslut i kommunfullmäktige
+2\.  Kommunbudget 2025, plan 2023-00686 Förslag till beslut i kommunfullmäktige
 2026–2027                      Kommunfullmäktige fastställer Kommunbudget 2025,
 plan 2026–2027, daterad 2023-05-10, nedan kallad
 13.00–13.25                    budgetdokumentet.

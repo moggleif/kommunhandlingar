@@ -461,10 +461,10 @@ Datum
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 
 områdesbestämmelser. Lag (2014:900).
@@ -804,10 +804,10 @@ Byggnadsnämndens arbetsutskott
 Datum
 2025-05-20
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Prövningen om en lovpliktig åtgärd är lämplig på en viss plats utgår ifrån
@@ -824,11 +824,11 @@ planläggning är en förutsättning för att kunna bevilja ansökan om bygglov.
 kap. 2 § 4a PBL ska kommunen med detaljplan pröva ett markområdes lämplighet
 för bebyggelse och byggnadsverk samt reglera bebyggelsemiljöns utformning för:
 
-1. en ny sammanhållen bebyggelse … om det behövs …
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske ….
+1\. en ny sammanhållen bebyggelse … om det behövs …
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske ….
 
-3. (…)
-4. ett nytt byggnadsverk som kräver bygglov om… a) byggnadsverket eller dess
+3\. (…)
+4\. ett nytt byggnadsverk som kräver bygglov om… a) byggnadsverket eller dess
 
 användning får betydande inverkan på omgivningen eller om det råder stor
 efterfrågan på området för bebyggande,
@@ -2730,7 +2730,7 @@ Detta förhållande ställer mycket stora krav på kommunen att hantera transpor
 med miljöhänsyn och att skapa en tillfredsställande samhällsservice. För att kunna
 hantera detta ska kommunen växa och utvecklas främst inom utvecklingsområden
 som är utpekade i kommunens översiktsplan Vårt framtida Kungsbacka antagen
-2022.
+2022\.
 
 Denna fastighet är inte ett sådant område. Lokaliseringen är enligt översiktsplan Vårt
 framtida Kungsbacka belägen utanför gränsen till utvecklingsområde Kullavik.
@@ -2780,17 +2780,17 @@ bestämmelserna i plan- och bygglagen.
 Ärendet har prövats mot undantagen till den restriktiva hållningen. Förvaltningen
 bedömer att undantagen inte uppfylls eftersom lokaliseringen
 
-- inte är en avstyckad och obebyggd fastighet för bostadsändamål
-- inte är en lucka i en övrigt bebyggd tomtrad.
+\- inte är en avstyckad och obebyggd fastighet för bostadsändamål
+\- inte är en lucka i en övrigt bebyggd tomtrad.
 
-- inte är en obebyggd jord- eller skogsbruksfastighet med särskilt behov av
+\- inte är en obebyggd jord- eller skogsbruksfastighet med särskilt behov av
 bostadshus för att möjliggöra drift av fastigheten
 
-- inte är ett generationsskifte för kommersiell verksamhet eller jord- och skogsbruk
-- inte kan ses som en komplettering av en befintlig bebyggelsegrupp då
+\- inte är ett generationsskifte för kommersiell verksamhet eller jord- och skogsbruk
+\- inte kan ses som en komplettering av en befintlig bebyggelsegrupp då
 detaljplanekravet utfaller eftersom det råder ett högt bebyggelsetryck inom området.
 
-- inte gäller etablering av en hästgård
+\- inte gäller etablering av en hästgård
 
 Riksintressen
 
@@ -2981,7 +2981,7 @@ Detta förhållande ställer mycket stora krav på kommunen att hantera transpor
 med miljöhänsyn och att skapa en tillfredsställande samhällsservice. För att kunna
 hantera detta ska kommunen växa och utvecklas främst inom utvecklingsområden
 som är utpekade i kommunens översiktsplan Vårt framtida Kungsbacka antagen
-2022.
+2022\.
 Denna fastighet är inte ett sådant område. Lokaliseringen är enligt översiktsplan Vårt
 
 framtida Kungsbacka belägen utanför gränsen till utvecklingsområde Kullavik.
@@ -3033,22 +3033,22 @@ byggnadsnämnden gjort.
 Den sammantagna bedömningen av ärendet är att inte förutsättningarna har ändrats
 sedan tidigare bedömning då ansökan avslogs på samma grunder som förvaltningen
 bedömer nu:
-- Att de föreslagna placeringarna av de tre nya bostadshusen är olämplig med hänsyn
+\- Att de föreslagna placeringarna av de tre nya bostadshusen är olämplig med hänsyn
 till;
 
-- Fastigheten ligger inom ett område där kommunen är restriktiv till ny bebyggelse
+\- Fastigheten ligger inom ett område där kommunen är restriktiv till ny bebyggelse
 utanför detaljplan, där det inte är tänkt att utvidgad bebyggelse ska uppstå. Skälet är
 att stor efterfrågan på mark råder i kombination med en sedan tidigare splittrad
 bebyggelsestruktur i dessa delar.
 
 Den restriktiva hållningen är en nödvändig förutsättning för att kommunen ska kunna
 hantera bebyggelseutvecklingen inom dessa områden.
-- Området har höga naturvärden, de tomter som skapas innebär markarbeten och
+\- Området har höga naturvärden, de tomter som skapas innebär markarbeten och
 vägdragning som kommer medföra en betydande påverkan på landskapsbilden,
 natur- och kulturvärdena på platsen och är ej förenligt med intresset av en god
 helhetsverkan.
 
-- Åtgärden innebär exploatering av mark inom område som omfattas av riksintresset
+\- Åtgärden innebär exploatering av mark inom område som omfattas av riksintresset
 för rörligt
 
 Det här dokumentet är digitalt signerat
@@ -3064,7 +3064,7 @@ Datum
 
 friluftsliv. Byggnation på platsen minskar områdets kustkaraktär och etablerar en ny
 hemfridszon inom riksintressen för friluftsliv.
-- Fastigheten ligger utanför område med kollektivtrafik samt cykelförbindelse.
+\- Fastigheten ligger utanför område med kollektivtrafik samt cykelförbindelse.
 
 Den sammantagna bedömningen av ärendet är att de föreslagna placeringarna är
 olämplig med hänsyn till att tre nya enbostadshus på fastigheten kan skada

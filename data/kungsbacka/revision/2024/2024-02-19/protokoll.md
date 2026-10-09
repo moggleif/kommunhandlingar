@@ -188,7 +188,7 @@ Projektplan Grundläggande granskning 2024
 Beslut
 
 Kommunrevisionen godkänner projektplanen avseende grundläggande granskning
-2024.
+2024\.
 
 Sammanfattning
 Karin Knutsson (EY) föredrar ärendet.

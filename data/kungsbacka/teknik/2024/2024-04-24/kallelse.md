@@ -52,7 +52,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-2.  Framtidens avloppsrening i TE-2018- Förslag till beslut i kommunfullmäktige
+2\.  Framtidens avloppsrening i TE-2018- Förslag till beslut i kommunfullmäktige
 Kungsbacka            00895,     Nämnden för Teknik föreslår att
 Föredragande: kommunfullmäktige godkänner förslaget på
 Catarina   inriktningsbeslut för genomförande av Framtidens
@@ -108,7 +108,7 @@ KUNGSBACKA KOMMUN
 3(5)
 
 Ärende Beteckning Förslag
-01-17, $ 10
+01-17, \$ 10
 Nämnden för Teknik förklarar paragrafen
 omedelbart justerad.
 Fastighetsnära insamling av TE-2023- Nämnden för Teknik beslutar om att komplettera
@@ -124,7 +124,7 @@ Maria Nämnden för Teknik översänder Avfallstaxan till
 Samuelsson, kommunfullmäktige för att fastställas.
 17:55 — 18:00 | Avfallstaxan för 2024 beslutad av
 
-kommunfullmäktige 14 december 2023 $ 194, KS
+kommunfullmäktige 14 december 2023 \$ 194, KS
 2023-00300 upphör samtidigt att gälla.
 
 Nämnden för Teknik förklarar paragrafen

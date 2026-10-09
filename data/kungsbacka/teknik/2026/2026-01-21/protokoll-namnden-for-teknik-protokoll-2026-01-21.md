@@ -106,17 +106,17 @@ Investeringsplan för Teknik 2027 - plan för 2028-2031, utblick 2032–2036
 
 Beslut – för fastställande i kommunfullmäktige
 
-* Nämnden för Teknik beslutar att anta förslag till ramar för 2027 med
+\* Nämnden för Teknik beslutar att anta förslag till ramar för 2027 med
 ändringsyrkande, och skicka dessa vidare till Kommunfullmäktige för fastställande,
 belopp i 2026 års prisnivå.
 
-* Skattefinansierad verksamhet 120 000 000 kr
-* Vatten och Avlopp 350 000 000 kr exklusive Hammargårds reningsverk (FAR)
+\* Skattefinansierad verksamhet 120 000 000 kr
+\* Vatten och Avlopp 350 000 000 kr exklusive Hammargårds reningsverk (FAR)
 
-* Avfall och Återvinning 18 000 000kr
-* Kungsbacka bredbandsnät 20 500 000 kr
+\* Avfall och Återvinning 18 000 000kr
+\* Kungsbacka bredbandsnät 20 500 000 kr
 
-* Nämnden för Teknik beslutar att anta förslag till ramar för utgiftsområden för
+\* Nämnden för Teknik beslutar att anta förslag till ramar för utgiftsområden för
 2028-2031 med utblick mot 2032-2036 enligt följande och skickar dessa vidare till
 kommunfullmäktige för beslut, belopp i 2026 års prisnivå:
 
@@ -146,8 +146,8 @@ Vatten och Avlopp, summa nettokostnad
 Exkl FAR
 350 000
 
-350 000*
-350 000*
+350 000\*
+350 000\*
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 48F740BB6F2B76A79F433EC4E8E597BE9C5D8B2A54
@@ -160,10 +160,10 @@ Nämnden för Teknik
 Datum
 2026-01-21
 
-350 000*
-350 000*
+350 000\*
+350 000\*
 
-1 750 000*
+1 750 000\*
 Framtidens avloppsrening (FAR)
 
 521 850
@@ -197,7 +197,7 @@ Bredband, summa nettokostnad
 17 850
 98 300
 
-* När det gäller Vatten och Avlopp visar tabellen ovan den ram som signalerats att
+\* När det gäller Vatten och Avlopp visar tabellen ovan den ram som signalerats att
 Teknik kommer att få tillgång till. Det egentliga behovet är emellertid betydligt
 större, se tabell nedan. Behovet i tabellen nedan baseras på en planering där Tekniks
 investeringar i Vatten och Avlopp går i takt med Samhällsbyggnadskontorets
@@ -281,12 +281,12 @@ Ordförande Monica Neptun (L) yrkar på förvaltningens förslag med
 ändringsyrkandet att följande projekt flyttas från Utblick 2032 till Plan 2031 (i
 Bilaga 4 projektlista Skatt 2027–2036):
 
-- Varlavägen fyra körfält (delen Stora Bäcksleden-Tölö Tvärled), &
-- Arendalsleden breddning (delen Varlavägen - Göteborgsvägen),
+\- Varlavägen fyra körfält (delen Stora Bäcksleden-Tölö Tvärled), &
+\- Arendalsleden breddning (delen Varlavägen - Göteborgsvägen),
 samt att följande projekt avvaktar tills vidare:
-- Kapacitetshöjning och upprustning av gång- och cykelstråk till Kungsbacka arena,
+\- Kapacitetshöjning och upprustning av gång- och cykelstråk till Kungsbacka arena,
 &
-- Parkeringsledningssystem (skyltar för att visa var lediga parkeringsplatser finns.
+\- Parkeringsledningssystem (skyltar för att visa var lediga parkeringsplatser finns.
 Kopplat till öppning av arenan).
 
 Beslutsgång
@@ -525,42 +525,42 @@ Sammanfattning av ärendet
 Under perioden 12 december – 14 januari inkom följande skrivelser till nämnden för
 Teknik:
 
-- Regler för fakturering och kravhantering antagna av kommunstyrelsen 2025-11-25,
+\- Regler för fakturering och kravhantering antagna av kommunstyrelsen 2025-11-25,
 § 225
-- Protokollsutdrag Kommunstyrelsen 2025-11-25 § 225
+\- Protokollsutdrag Kommunstyrelsen 2025-11-25 § 225
 
-- Tjänsteskrivelse - KS-2025-00525
-- Protokollsutdrag Kommunfullmäktige 2025-12-11 § 238
+\- Tjänsteskrivelse - KS-2025-00525
+\- Protokollsutdrag Kommunfullmäktige 2025-12-11 § 238
 
-- Tjänsteskrivelse - Redovisning av icke färdigberedda motioner (2, 2025)
-- Redovisning av icke färdigberedda motioner (2, 2025)
+\- Tjänsteskrivelse - Redovisning av icke färdigberedda motioner (2, 2025)
+\- Redovisning av icke färdigberedda motioner (2, 2025)
 
-- Protokollsutdrag Kommunfullmäktige 2025-12-11 § 242
-- Vatten och avlopp - taxa 2026, KF 2025-12-11, § 242
+\- Protokollsutdrag Kommunfullmäktige 2025-12-11 § 242
+\- Vatten och avlopp - taxa 2026, KF 2025-12-11, § 242
 
-- Tjänsteskrivelse - Vatten & Avloppstaxa 2026
+\- Tjänsteskrivelse - Vatten & Avloppstaxa 2026
 
-- Lokala avfallsföreskrifter för Kungsbacka kommun, KF 2025-12-11, § 244
-- Tjänsteskrivelse - Revidering av avfallsföreskrifter 2025
+\- Lokala avfallsföreskrifter för Kungsbacka kommun, KF 2025-12-11, § 244
+\- Tjänsteskrivelse - Revidering av avfallsföreskrifter 2025
 
-- Protokollsutdrag Kommunfullmäktige 2025-12-11 § 240
-- Tjänsteskrivelse - koncernbudget 2026
+\- Protokollsutdrag Kommunfullmäktige 2025-12-11 § 240
+\- Tjänsteskrivelse - koncernbudget 2026
 
-- Budget 2026 - Eksta
-- Kommunkoncernens investeringar och lånebehov 2025-2028
+\- Budget 2026 - Eksta
+\- Kommunkoncernens investeringar och lånebehov 2025-2028
 
-- Protokollsutdrag Kommunfullmäktige 2025-06-16 § 114
-- Kommunbudget 2026, plan 2027-2028
+\- Protokollsutdrag Kommunfullmäktige 2025-06-16 § 114
+\- Kommunbudget 2026, plan 2027-2028
 
-- Protokollsutdrag Kommunstyrelsen 2025-12-16 § 262
-- Tjänsteskrivelse - undertecknande av handlingar och beslut för stiftelser, KS-2025-
+\- Protokollsutdrag Kommunstyrelsen 2025-12-16 § 262
+\- Tjänsteskrivelse - undertecknande av handlingar och beslut för stiftelser, KS-2025-
 00840
 
-- Protokollsutdrag Kommunstyrelsen 2025-12-16 § 261
+\- Protokollsutdrag Kommunstyrelsen 2025-12-16 § 261
 
-- Tjänsteskrivelse - Godkännande av anvisningar för fördelning av medel för Trygg
+\- Tjänsteskrivelse - Godkännande av anvisningar för fördelning av medel för Trygg
 uppväxt
-- Protokollsutdrag Kommunstyrelsen 2025-12-16 § 259
+\- Protokollsutdrag Kommunstyrelsen 2025-12-16 § 259
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 48F740BB6F2B76A79F433EC4E8E597BE9C5D8B2A54
@@ -573,17 +573,17 @@ Nämnden för Teknik
 Datum
 2026-01-21
 
-- Tjänsteskrivelse - Begäran om medel för att främja välmående och motverka
+\- Tjänsteskrivelse - Begäran om medel för att främja välmående och motverka
 psykisk ohälsa – Teknik
-- Skrivelse - förbjud försäljning av fyrverkerier till privatpersoner i kommunen och
+\- Skrivelse - förbjud försäljning av fyrverkerier till privatpersoner i kommunen och
 förbjud för privatpersoner att skjuta fyrverkerier
 
-- Protokollsutdrag Kommunstyrelsen 2025-12-16 § 264
+\- Protokollsutdrag Kommunstyrelsen 2025-12-16 § 264
 
-- Kungsbacka Urban Mobility - Samlingshandling
-- TE - Klagomål - Färdtjänst (KOM-2025-00585)
+\- Kungsbacka Urban Mobility - Samlingshandling
+\- TE - Klagomål - Färdtjänst (KOM-2025-00585)
 
-- Skrivelse om dagvattenledning till Örsviken
+\- Skrivelse om dagvattenledning till Örsviken
 
 Beslutsgång
 

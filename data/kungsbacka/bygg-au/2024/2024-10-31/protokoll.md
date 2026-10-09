@@ -301,10 +301,10 @@ från 57 300 kronor 2024 till 58 800 kronor 2025, vilket motsvarar en ökning me
 procent.
 Bygg- och miljöförvaltningen föreslår att Byggnadsnämnden:
 
-* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
+\* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
 kommuns plan- och byggverksamhet från 1 330 kronor per timme till 1 391 kronor
 per timme i enlighet med punkt fyra i taxans bestämmelser.
-* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
+\* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
 
 handläggningskostnad per timme (A1-21) samt prisbasbelopp för 2025 (A22-23) i
 enlighet med punkt fyra i taxan.
@@ -319,7 +319,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-10-31
 
-* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
+\* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
 A1-23 gäller från och med 1 januari 2025.
 Förvaltningen beräknar att indexjusteringen motsvarar en intäktsökning på cirka 0,9
 miljoner kronor baserat på preliminär budget för 2025. De nya beloppen framgår av
@@ -897,26 +897,26 @@ taxan för byggnadsnämndens verksamhet, beslutad i kommunfullmäktige 2020-09-
 08 § 97.
 
 Villkor
--  Infart till ny byggnad ska samordnas med infart till befintligt bostadshus på
+\-  Infart till ny byggnad ska samordnas med infart till befintligt bostadshus på
 fastigheten Iserås 23:3.
 
--  Infart ska placeras i samma läge som redovisat för Iserås 23:3 enligt
+\-  Infart ska placeras i samma läge som redovisat för Iserås 23:3 enligt
 markplaneringsritning/nybyggnadskarta inkommen 2020-05-08 och
 tillhörande bygglov D 2020-000914, 2020-05-13.
 
--  Färdigt golv på ny byggnad får inte placeras högre än +5,9.
--  Väg ska anläggas/justeras så att plant vilplan om minst 5 meter anordnas mot
+\-  Färdigt golv på ny byggnad får inte placeras högre än +5,9.
+\-  Väg ska anläggas/justeras så att plant vilplan om minst 5 meter anordnas mot
 Landstormsvägen och så att vägen ansluter till ny byggnad utan större
 nivåskillnad till huvudentré än 0,5 meter.
 
--  Befintliga och naturliga marknivåer i gräns i sydväst ska bevaras, minst 6
+\-  Befintliga och naturliga marknivåer i gräns i sydväst ska bevaras, minst 6
 meter från gräns.
--  Slänt med grus eller sprängsten inom tomt ska undvikas och tomt ska
+\-  Slänt med grus eller sprängsten inom tomt ska undvikas och tomt ska
 
 utformas så att dess naturliga karaktär bibehålls.
--  Sprängkanter kan tillåtas, ej högre än 1 meter.
+\-  Sprängkanter kan tillåtas, ej högre än 1 meter.
 
--  Byggnationen ska anpassas till omgivningen så att den, trots att det är en
+\-  Byggnationen ska anpassas till omgivningen så att den, trots att det är en
 byggnad av sin tid, ansluter till bebyggelseområdets karaktär och
 omkringliggande bebyggelse på ett lämpligt sätt. Särskilt ska utformning av
 byggnader anpassas sett till totalhöjd. Med bebyggelseområdet avses alla
@@ -956,10 +956,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Enligt 12 kap. 8 a § PBL ska en avgift som tas ut för prövning att förhandsbesked
@@ -1129,7 +1129,7 @@ förhandsbesked på fastigheten.
 Beslutet överklagades av sökande till Länsstyrelsen som avslog överklagandet 2023-
 07-05.
 Beslutet överklagades av sökande till Mark- och miljödomstolen (laga kraft 2024-06-
-12) som upphävde förvaltningens beslut och återförvisade ärendet till
+12\) som upphävde förvaltningens beslut och återförvisade ärendet till
 byggnadsnämnden i Kungsbacka för vidare utredning.
 
 De skriver i sitt beslut att fastigheten ligger inom område med högt bebyggelsetryck
@@ -1561,9 +1561,9 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-10-31
 
-1. är förenlig med detaljplanens syfte och tillgodoser ett angeläget gemensamt
+1\. är förenlig med detaljplanens syfte och tillgodoser ett angeläget gemensamt
 behov eller ett allmänt intresse, eller
-2. innebär en sådan annan användning av mark eller vatten som utgör ett lämpligt
+2\. innebär en sådan annan användning av mark eller vatten som utgör ett lämpligt
 komplement till den användning som har bestämts i detaljplanen. Lag (2014:900).
 
 Förvaltningens bedömning är att byggandet av enbostadshus i strid med detaljplanen
@@ -2041,10 +2041,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Enligt 4 kap. 2 § PBL ska kommunen pröva ett mark- eller vattenområdes lämplighet
@@ -2502,7 +2502,7 @@ kräver bygglov kan tillåtas på en specifik plats.
 Bygglov, och därmed förhandsbesked, ska enligt 9 kap. 31 § PBL ges för en åtgärd
 utanför ett område med detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: AAB40F2150450C77BB1B904BD9AAF60692E74367FA
@@ -2515,8 +2515,8 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-10-31
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7,
 9-11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -2535,12 +2535,12 @@ Enligt 4 kap. 2 § 4a PBL ska kommunen med detaljplan pröva ett markområdes
 lämplighet för bebyggelse och byggnadsverk samt reglera bebyggelsemiljöns
 utformning för:
 
-1. en ny sammanhållen bebyggelse … om det behövs …
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske ….
+1\. en ny sammanhållen bebyggelse … om det behövs …
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske ….
 
-3. (…)
+3\. (…)
 
-4. ett nytt byggnadsverk som kräver bygglov om…
+4\. ett nytt byggnadsverk som kräver bygglov om…
 a) byggnadsverket eller dess användning får betydande inverkan på
 omgivningen eller om det råder stor efterfrågan på området för bebyggande,
 
@@ -2658,7 +2658,7 @@ invändningar från berörda sakägare har blivit bemötta.
 Sammanfattning av ärendet
 
 Ansökan registrerades 2024-01-24 och var komplett med bullerutredning 2024-09-
-21.
+21\.
 Ansökan innebär nylokalisering av ett enbostadshus inom fastigheten Vallda 33:2.
 
 Fastigheten har en areal av 4649 kvm och är idag bebyggd med ett enbostadshus,
@@ -2997,7 +2997,7 @@ Genomförandetiden är 15 år och slutar 2029-07-04.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--  plan 1 har en annan användning än handel och kontor. Plan 1 föreslås
+\-  plan 1 har en annan användning än handel och kontor. Plan 1 föreslås
 användningen gym på en bruttoarea om 1 254 kvm. Avvikelsen utgör 27 %
 av den totala bruttoarean.
 
@@ -3648,7 +3648,7 @@ samt hur murar får anordnas inom området.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--  en stödmur är 1,5 meter högt, vilket är 0,5 meter högre än tillåtet i gällande
+\-  en stödmur är 1,5 meter högt, vilket är 0,5 meter högre än tillåtet i gällande
 detaljplan som säger följande: ”Stödmurar på kvartersmark får uppföras till
 en maximal höjd om 1 meter vardera”
 

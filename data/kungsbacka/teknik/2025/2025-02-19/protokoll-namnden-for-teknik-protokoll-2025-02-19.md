@@ -538,7 +538,7 @@ Sammanfattning av ärendet
 Maria Losman (MP) och Elisabeth Sahlsten (MP) har inkommit med en motion om
 att komplettera de lokala ordningsföreskrifterna med tydligare regler för användandet
 av pyrotekniska varor. Motionen anmäldes i kommunfullmäktige den 12 december
-2024.
+2024\.
 
 Motionärerna menar att de regler som finns i de lokala ordningsföreskrifterna (att
 den som skjuter av fyrverkerier eller andra pyrotekniska varor ska visa största
@@ -663,23 +663,23 @@ Sammanfattning av ärendet
 Under perioden 15 januari och 12 februari inkom följande skrivelser till nämnden för
 Teknik:
 
-- Beslut - Protokollsutdrag 2025-01-21 KS § 15 Lönekartläggning 2024 och
+\- Beslut - Protokollsutdrag 2025-01-21 KS § 15 Lönekartläggning 2024 och
 lönestruktur 2025
-- Handlingsplan Lönekartläggning 2024
+\- Handlingsplan Lönekartläggning 2024
 
-- Tjänsteskrivelse - Lönekartläggning 2024 och lönestruktur 2025
-- Beslut - KS-2024-00741 - Protokollsutdrag 2025-01-21 KS § 7 Begäran om medel
+\- Tjänsteskrivelse - Lönekartläggning 2024 och lönestruktur 2025
+\- Beslut - KS-2024-00741 - Protokollsutdrag 2025-01-21 KS § 7 Begäran om medel
 för att främja välmående och motverka psykisk ohälsa – Teknik
 
-- Medborgardialog: Ang. Runsås Reningsverk
-- Medborgardialog: Öppen dagvattendamm vid skola
+\- Medborgardialog: Ang. Runsås Reningsverk
+\- Medborgardialog: Öppen dagvattendamm vid skola
 
-- Avgift för köp av dricksvatten avseende Kungsbacka kommun, TEN 39/2025
+\- Avgift för köp av dricksvatten avseende Kungsbacka kommun, TEN 39/2025
 
-- Dataskyddsombudets årsrapport 2024
-- Medborgardialog, Re: Öppen dagvattendamm vid skola
+\- Dataskyddsombudets årsrapport 2024
+\- Medborgardialog, Re: Öppen dagvattendamm vid skola
 
-- Förberedande åtgärder och undersökningar för projekt väg 970/513, gång- och
+\- Förberedande åtgärder och undersökningar för projekt väg 970/513, gång- och
 cykelväg, Anneberg -Lindome, i Kungsbacka kommun och Mölndals stad, Hallands
 och Västra Götalands län - TRV 2022/71722
 
@@ -710,8 +710,8 @@ Sammanfattning av ärendet
 
 Nämnden informeras om bland annat:
 
--  Återinvigningen av Ölmanäs reningsverk
--  Information om nämnden för Tekniks resultatdag den 26 februari
+\-  Återinvigningen av Ölmanäs reningsverk
+\-  Information om nämnden för Tekniks resultatdag den 26 februari
 
 Beslutsgång
 

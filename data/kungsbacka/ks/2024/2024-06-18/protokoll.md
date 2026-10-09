@@ -293,12 +293,12 @@ till de Verdier.
 Avslutningsvis informerar kommundirektören om erbjudandet från Sveriges
 Kommuner och Regioner (SKR) om anslutning till de fyra första initiativen inom
 Handslaget för välfärdsutveckling genom digitalisering. De fyra initiativen är:
-1. Identitets- och behörighetshantering
+1\. Identitets- och behörighetshantering
 
-2. Införande av Säker digital kommunikation (SDK) i socialtjänsten
-3. Införande och utveckling av Digital post
+2\. Införande av Säker digital kommunikation (SDK) i socialtjänsten
+3\. Införande och utveckling av Digital post
 
-4. Breddinförande av vissa välfärdstekniska lösningar.
+4\. Breddinförande av vissa välfärdstekniska lösningar.
 
 Beslutsgång
 
@@ -555,7 +555,7 @@ Klarinettens förskola är lokaliserad inom fastigheterna Fors 1:230 och Fors 1:
 Sedan renoveringen av byggnaden 2018 har Förskola & Grundskola endast bedrivit
 verksamhet i mindre omfattning i lokalerna. Detta fick till följd att byggnaden
 återlämnades till kommunstyrelsens förvaltning av nämnden för Service i december
-2022.
+2022\.
 
 Det innebär att kommunstyrelsen har ansvaret att besluta om fastigheterna och dess
 byggnader när det inte längre finns behov av dem som kommunal verksamhetslokal.
@@ -773,12 +773,12 @@ samt hur de statliga medlen, som fördelas enligt kultursamverkansmodellen, ska
 användas.
 
 Tre strategiska utvecklingsområden lyfts i remissutgåvorna
-1. Ett fritt konst- och kulturliv
+1\. Ett fritt konst- och kulturliv
 Mål: Halland – en dynamisk och modig plats för kultur
 
-2. Engagerande kulturliv för alla
+2\. Engagerande kulturliv för alla
 Mål: Halland – en plats där alla kan delta i kulturlivet
-3. Kultur som samhällskraft
+3\. Kultur som samhällskraft
 Mål: Halland – en plats där kultur präglar samhället.
 
 Beslutsunderlag

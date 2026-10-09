@@ -157,19 +157,19 @@ prioritering biologisk mångfald (KS 2023-00584), med svar till Kommunstyrelsens
 2024-01-26. Motionen behandlades av Kommunfullmäktige 2023-09-12 § 139.
 Motionärerna yrkar:
 
-- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i kommunen, tar fram
+\- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i kommunen, tar fram
 en konkret plan för att bekämpa dessa arter, i parker och på allmänna ytor samt av kommunen ägda
 bolags marker tex Eksta och Tjolöholm. En plan för att bekämpa en art med stor spridning bör innehålla.
-1. Kartläggning av förekomster av arten
-2. Prioritering för bekämpning
-3. Metod och avfallshantering
+1\. Kartläggning av förekomster av arten
+2\. Prioritering för bekämpning
+3\. Metod och avfallshantering
 
-4. Upprepade insatser och uppföljning
-- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i kontakt med dessa
+4\. Upprepade insatser och uppföljning
+\- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i kontakt med dessa
 utmaningar i sitt dagliga värv. Detta skall även gälla underentreprenörer för att effektivisera
 bekämpningen i parker och allmänna ytor och till kommunen kopplade ytor.
 
-- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för att effektivt
+\- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för att effektivt
 förhindra spridning.
 
 1 (3)
@@ -213,14 +213,14 @@ eller kommer i kontakt med dessa utmaningar i sitt dagliga värv bör avslås me
 utbildning för anställda redan finns inom kommunen.
 
 Följande åtgärder har genomförts,
--  Service Fastighet har informerat all berörd personal om gällande rutiner för bekämpning av
+\-  Service Fastighet har informerat all berörd personal om gällande rutiner för bekämpning av
 invasiva arter.
 
--  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
+\-  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
 
--  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av Service.
+\-  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av Service.
 
--  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda verksamhetsområden
+\-  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda verksamhetsområden
 och enheter inom förvaltningarna Teknik, Service och Kommunstyrelsen med uppdrag att
 samordna tidiga insatser så att rätt åtgärder vidtas.
 
@@ -230,10 +230,10 @@ KUNGSBACKA  KOMMUN
 3 (3)
 
 Följande insatser genomförs under 2024 och därefter årligen,
--  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med personal inför
+\-  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med personal inför
 
 växtsäsongen.
--  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
+\-  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
 
 Gällande det fortsatta yrkandet, om att det även ska gälla underentreprenörer för att effektivisera
 bekämpningen i parker och allmänna ytor och till kommunen kopplade ytor, menar förvaltningen för
@@ -405,24 +405,24 @@ spridningskraft och det finns ingen bekämpningsmetod som säkert fungerar.
 
 Kungsbackaborna yrkar därför:
 
-- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser
+\- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser
 ut i kommunen, tar fram en konkret plan för att bekämpa dessa arter, i parker
 och på allmänna ytor samt av kommunen ägda bolags marker tex Eksta och
 Tjolöholm. En plan för att bekämpa en art med stor spridning bör innehålla.
 
-1. Kartläggning av förekomster av arten
-2. Prioritering för bekämpning
+1\. Kartläggning av förekomster av arten
+2\. Prioritering för bekämpning
 
-3. Metod och avfallshantering
+3\. Metod och avfallshantering
 
-4. Upprepade insatser och uppföljning
+4\. Upprepade insatser och uppföljning
 
-- att kommunen tar fram en utbildning för de anställda som arbetar eller
+\- att kommunen tar fram en utbildning för de anställda som arbetar eller
 kommer i kontakt med dessa utmaningar i sitt dagliga värv. Detta skall även
 gälla underentreprenörer för att effektivisera bekämpningen i parker och
 allmänna ytor och till kommunen kopplade ytor.
 
-- att kommunen tar fram riktlinjer för samarbete med Trafikverket och
+\- att kommunen tar fram riktlinjer för samarbete med Trafikverket och
 Länsstyrelsen för att effektivt förhindra spridning.
 
 Roger Larsson (Kb) Janne Heimbrand (Kb)
@@ -840,7 +840,7 @@ fastigheten till dagens krav och standard. Utifrån nuvarande underhållsunderla
 fastighetsförvaltande. Flera byggnader riskerar under åren som kommer att ha uppnått sin tekniska livslängd och
 i detta kommer större investeringar krävas för att upprätthålla en rimlig standard. Därav begärs ett utökat
 investeringsutrymme för Fastigheter de kommande åren och återges mer detaljerat i Investeringsplan 2025–
-2034.
+2034\.
 
 1.1 Innovation och omställning till nya arbetssätt
 
@@ -863,7 +863,7 @@ Underlag till Kommunbudget 2025
 Utveckling och spridning av nya arbetssätt
 
 Styrning och ledning av innovationsarbetet hos förvaltningen för Service utgår ifrån innovationsstandarden ISO
-56002. Förvaltningen gjorde en första självskattning mot standarden under 2023, som tydliggjorde hur
+56002\. Förvaltningen gjorde en första självskattning mot standarden under 2023, som tydliggjorde hur
 innovationsmogna vi är och som gav oss förutsättningar att arbeta med ett framtida önskat läge. Detta kommer
 vi att fortsätta följa upp för att fortsätta stärka förvaltningens förmåga.
 Medskapande är en viktig komponent i innovationsarbetet och vi har flera års erfarenhet av arbete i partnerskap
@@ -1618,23 +1618,23 @@ SE-2024-00002
 
 Kungsbacka
 
-Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-10-19 $ 104 under
+Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-10-19 \$ 104 under
 perioden 2023-11-01 till 2024-01-10,
 
 Ärende/ärendegrupp Beslut, insats samt | Beslutsfattare Beslutsdatum | Dnr
 enligt delegationslistan |ev. omfattning
 2:32 Tillsvidareanställning | Carina Gustafsson 2023-11-01
-LAS, AB $$ 3-5 Kock EC Måltid
+LAS, AB \$\$ 3-5 Kock EC Måltid
 kollektivavtal,
 lönepolicy mm
 2:32 Projektanställning Lizette Andersson 2023-11-06
-LAS, AB $$ 3-5 Projektledare EC
+LAS, AB \$\$ 3-5 Projektledare EC
 kollektivavtal, Personalförsörjning
 lönepolicy mm
 23 Disciplinpåföljd Ann Cathrine Roxhage 2023-11-16
-AB $ 11 skriftlig varning VC Lokalvård
+AB \$ 11 skriftlig varning VC Lokalvård
 2:30 Tillsvidareanställning | Madeleine Nilsson 2023-11-30
-LAS, AB $$ 3-5 Kock EC Måltid
+LAS, AB \$\$ 3-5 Kock EC Måltid
 kollektivavtal,
 lönepolicy mm
 I 2) Kungsbacka kommun

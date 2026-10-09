@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- |
 | 4. | Information till nämnd: ökade<br>aktiviteter på boenden<br>Föredragande: Lisa Håkansson,<br>utvecklingschef, Marie Persson,<br>verksamhetschef Fritid &<br>Mötesplatser, Annica Sommar,<br>utvecklingschef Vård & Omsorg,<br>samt Ann-Helen Svensson,<br>verksamhetschef Vård & Omsorg<br>1 st dokument<br>20 min | KFT-2026-<br>00097 | Nämnden noterar informationen till protokollet. |
 | 5. | Information till nämnd:<br>uppdatering Kulturskolan<br>Föredragande: Malin Lönegren-<br>Mikulic, enhetschef Kulturskolan,<br>Malin Svarfvar, enhetschef<br>Kulturskolan<br>1 st dokument<br>20 min | KFT-2026-<br>00106 | Nämnden noterar informationen till protokollet. |
-| 6. | Begäran att få behålla<br>budgetmedel för uppsagda<br>lokaler<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument<br>5 min | KFT-2026-<br>00112 | Nämnden för Kultur & Fritid beslutar:<br>Att nämnden begär hos kommunstyrelsen att få<br>behålla budgetmedel för uppsagda lokaler:<br>* Förslag att få behålla budgetram motsvarande 75<br>% av hyresbudget om 216 900 kr som avser Fjärås<br>mötesplats, då det är en extern lokal som sagts upp.<br>* Förslag att få behålla 20% av hyresbudgeten om<br>144 000 kr för Rydets mötesplats.<br>* Förslag att få behålla 100% av lokalvårdsbudget<br>om 100 000 kr för båda lokalerna. |
+| 6. | Begäran att få behålla<br>budgetmedel för uppsagda<br>lokaler<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument<br>5 min | KFT-2026-<br>00112 | Nämnden för Kultur & Fritid beslutar:<br>Att nämnden begär hos kommunstyrelsen att få<br>behålla budgetmedel för uppsagda lokaler:<br>\* Förslag att få behålla budgetram motsvarande 75<br>% av hyresbudget om 216 900 kr som avser Fjärås<br>mötesplats, då det är en extern lokal som sagts upp.<br>\* Förslag att få behålla 20% av hyresbudgeten om<br>144 000 kr för Rydets mötesplats.<br>\* Förslag att få behålla 100% av lokalvårdsbudget<br>om 100 000 kr för båda lokalerna. |
 
 <!-- sida 3 -->
 
@@ -351,7 +351,7 @@ Mötesplats Fjärås:
 Hyresbudget 216 900 kr
 
 Budget lokalvård 57 000 kr
-_______________________
+\_______________________
 Summa Fjärås: 273 900 kr
 
 Mötesplats Rydet:
@@ -359,7 +359,7 @@ Mötesplats Rydet:
 Hyresbudget 144 000 kr
 
 Budget lokalvård 43 000kr
-_______________________
+\_______________________
 Summa Rydet: 187 000 kr
 
 Totalt ramjusterad budget: 460 900 kr
@@ -369,7 +369,7 @@ Preliminär utökad skatehall
 Ny hyra: 2 598 122 kr
 Befintlig hyresbudget: 1 298 900 kr
 
-_____________________________
+\_____________________________
 Mellanskillnad: 1 299 222 kr
 
 20% egenfinansiering 259 844 kr
@@ -382,7 +382,7 @@ KUNGSBACKA  KOMMUN
 Beräknad ny lokalvård: 200 000 kr
 
 Nuvarande lokalvårdsbudget: 88 000 kr
-________________________________
+\________________________________
 
 Mellanskillnad: 112 000 kr
 

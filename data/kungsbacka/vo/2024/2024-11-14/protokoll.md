@@ -68,7 +68,7 @@ Michael Lövgren, utvecklingsledare,
 § 156
 Sofia Wirdmo, enhetschef, § 158
 Personalföreträdare           Övriga
--                             -
+\-                             -
 
 Plats och tid för justering Digital justering
 
@@ -709,10 +709,10 @@ Föreliggande ärende avser återrapportering av utredning om driftsformer. Utre
 om funktionsupphandling underställs nämnden i december.
 Utredningen om driftsformer inom särskilt boende fokuserar på tre frågor.
 
-1. Vad innebär de olika driftsformerna inom särskilt boende?
-2. Vilka förutsättningar krävs för de olika driftsformerna?
+1\. Vad innebär de olika driftsformerna inom särskilt boende?
+2\. Vilka förutsättningar krävs för de olika driftsformerna?
 
-3. Vilka konsekvenser kan förväntas med respektive driftsform?
+3\. Vilka konsekvenser kan förväntas med respektive driftsform?
 
 Utredningen visar att rådighet över fastigheter är direkt avgörande för vilka
 driftsformer som kan användas. För att privata aktörer ska kunna ingå i ett
@@ -874,9 +874,9 @@ hemtjänsten. (målsättning 2025)
 
 Tilläggsyrkande:
 Under 8.2 Arbetsmiljö lägga in mål om att:
--  följa måluppfyllelsen, för varje delmål, utifrån de av kommunfullmäktige
+\-  följa måluppfyllelsen, för varje delmål, utifrån de av kommunfullmäktige
 fastställda fem
--  arbetsmiljömålen. (Målsättning öka)
+\-  arbetsmiljömålen. (Målsättning öka)
 
 Beslutsgång
 Ordförande Hravn Forsne (M) finner att det finns tre förslag, dels förvaltningens
@@ -1124,17 +1124,17 @@ följande:
 Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma följande
 underlag:
 
--  Hur beräkning av 144 mnkr som kostnad för pilot har räknats fram eftersom
+\-  Hur beräkning av 144 mnkr som kostnad för pilot har räknats fram eftersom
 motionen inte anger storleken på pilotverksamheten eller dess längd.
 
--  Mer specifikt hur arbetet har gått i bl a Göteborgs stad med dessa satsningar
+\-  Mer specifikt hur arbetet har gått i bl a Göteborgs stad med dessa satsningar
 och hur Göteborgs stad har planerat för fortsatt arbete utifrån de rön man har
 fått fram.
--  Ett bredare underlag om vilka forskningsrön som finns och exempel på
+\-  Ett bredare underlag om vilka forskningsrön som finns och exempel på
 studier i närtid där 6-timmars arbetsdag och förkortad arbetstid har
 genomförts och vilka slutsatser som dessa studier har visat.
 
--  Vilken syn som fackliga organisationer har på denna fråga som organiserar
+\-  Vilken syn som fackliga organisationer har på denna fråga som organiserar
 medarbetare i nom vård och omsorg i förvaltningens verksamhet.
 
 Beslutsgång

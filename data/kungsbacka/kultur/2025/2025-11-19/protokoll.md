@@ -178,7 +178,7 @@ Datum
 
 § 109                      Dnr KFT-2025-00229
 Beredning av motion - Hedra pandemins vardagshjältar (KS-2025-
-00597)
+00597\)
 
 Beslut
 Nämnden föreslår Kommunfullmäktige att avslå motionen.

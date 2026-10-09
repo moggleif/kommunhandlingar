@@ -204,7 +204,7 @@ dataskyddsarbetet med förvaltningens säkerhetsarbete med inriktning på cybers
 <!-- sida 6 -->
 
 lv KUNGSBACKA Datum 1996-11-14 Beteckning 2.
-KOMMUNS KF $$ 205/96
+KOMMUNS KF \$\$ 205/96
 FÖRFATTNINGSSAMLING
 
 Grunder för torghandelsavgifter i Kungsbacka
@@ -224,7 +224,7 @@ Avgifterna delas upp i fem grupper:
 2A. Tillfälliga upplåtelser av försäljningsplats på torgdagar
 
 2B. Tillfälliga upplåtelser av försäljningsplats på marknadsdagar
-3. Avgiftsfria upplåtelser
+3\. Avgiftsfria upplåtelser
 
 1A. Fasta försäljningsplatser samtliga försäljningsdagar
 
@@ -686,7 +686,7 @@ A 'Försäljningsändamål
 | av eller 500 kr/plats/mån
 B Annat kommersiellt ändamål
 | Affischpelare 5 000 kr/st/år
-2. Reklamskyltar, typ vippskylt 1 000 kr/st/år Maxbredd från husliv I m
+2\. Reklamskyltar, typ vippskylt 1 000 kr/st/år Maxbredd från husliv I m
 3 Skyltvaror utanför butik 500 kr/år Maxbredd från husliv 0,75 m
 4 > Festivaler, utställningar 5 kr/kvm/dag Minimiavgift 500 kr
 5 Cirkus, tivoli 2-:000 kr/plats/dag
@@ -759,7 +759,7 @@ Teknik fastställd typ, till 500 kr/m och säsong från och med säsongen 2005.
 
 Ärendeberedning
 Kommunstyrelsens förvaltning, skrivelse 2005-05-1 1.
-Kommunstyrelsens arbetsutskott 2005-05-17, $ 228.
+Kommunstyrelsens arbetsutskott 2005-05-17, \$ 228.
 
 Kommunstyrelsen 2005-05-25, 8 124.
 
@@ -800,7 +800,7 @@ säsongen 2005.
 
 Hyresnivån för staket, enligt av Plan & Bygg och Teknik fastställd typ, fastslås
 till 500 kr/m och säsong (1 april- 30 september) från och med säsongen
-2005.
+2005\.
 
 Nämnden för Teknik slutför förhandlingarna om 2004 års kostnader för
 staketuthyrning.
@@ -821,7 +821,7 @@ KD H i
 
 | f Asa i SS - |
 
-|
+\|
 Je
 
 US

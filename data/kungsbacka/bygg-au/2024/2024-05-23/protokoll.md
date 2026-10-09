@@ -454,16 +454,16 @@ förvaltningen för beredning. Förvaltningen lämnade svar på initiativet i
 byggnadsnämnden 18 april 2024, där nämnden beslutade att återremittera ärendet.
 
 Initiativet lyfter tre punkter:
-1. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
+1\. Bygg- och Miljöförvaltningen utreder vilka förenklingar för bygglov som är
 möjliga, samt vilka ny- och tillbyggnader som inte kräver bygglov, inom ramen för
 Plan och Bygglagen 2010:900 samt eventuellt annan relevant lagstiftning, på nya och
 
 uppdaterade Detaljplaner.
-2. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
+2\. Bygg- och Miljöförvaltningen fortbildar och stödjer bygglovshandläggarna, så
 handläggning och beslut uppfattas som jämlika, d.v.s. likabehandling för medborgare
 i kommunen och företagare, oavsett handläggare.
 
-3. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
+3\. Bygg- och Miljöförvaltningen förtydligar beslut, så mottagaren lätt kan förstå om
 beslutet är ett JA eller NEJ. Om beslutet är negativt för mottagen, skall motiveringen
 vara enkel att förstå, d.v.s. vilka kriterier var inte uppfyllda.
 
@@ -1167,10 +1167,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -1306,7 +1306,7 @@ Ansökan
 
 Ansökan kom in 2023-11-25 och gäller byggnation av ett enbostadshus med
 komplementbyggnad på fastigheten Skörvalla 1:165 delområde
-2.
+2\.
 Byggnaden är tänkt att anslutas till det kommunala VA-nätet.
 
 Infart ordnas från Krokaviksvägen.
@@ -2427,14 +2427,14 @@ ska bebyggelseområdets särskilda kulturhistoriska och miljömässiga värden s
 Enligt 4 kap 2 § PBL ska kommunen med detaljplan pröva markområdets lämplighet
 för bebyggelse samt reglera bebyggelsemiljöns utformning för
 
-1. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
+1\. en ny sammanhållen bebyggelse, om det behövs med hänsyn till bebyggelsens
 karaktär, omfattning eller inverkan på omgivningen, till behovet av samordning eller
 till förhållandena i övrigt,
 
-2. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
+2\. en bebyggelse som ska förändras eller bevaras, om regleringen behöver ske i ett
 sammanhang med hänsyn till den fysiska miljö som åtgärden ska genomföras i, till
 åtgärdens karaktär eller omfattning eller till förhållandena i övrigt.
-3. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
+3\. ett nytt byggnadsverk och byggnadsverket eller dess användning får betydande
 inverkan på omgivningen eller om det råder stor efterfrågan på området för
 bebyggande.
 
@@ -3084,7 +3084,7 @@ Beslutsmotivering
 
 Enligt plan- och bygglagen 9 kap 30 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd inom ett område med detaljplan, om
-1. den fastighet och det byggnadsverk som åtgärden avser
+1\. den fastighet och det byggnadsverk som åtgärden avser
 
 a) överensstämmer med detaljplanen, eller
 b) avviker från detaljplanen men avvikelsen har godtagits vid en tidigare
@@ -3092,11 +3092,11 @@ bygglovsprövning enligt denna lag eller äldre bestämmelser eller vid en
 
 fastighetsbildning enligt 3 kap. 2 § första stycket andra meningen
 fastighetsbildningslagen (1970:988),
-2. åtgärden inte strider mot detaljplanen,
+2\. åtgärden inte strider mot detaljplanen,
 
-3. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
+3\. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
 och
-4. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
+4\. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
 tredje stycket, 8 och 9 §§ samt 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-11 §§, 12 §
 
 första stycket, 13, 17 och 18 §§.
@@ -3333,7 +3333,7 @@ Beskrivning av ärendet
 Historik
 
 Bygglov beviljas för nybyggnad av enbostadshus samt nybyggnad av
-komplementbyggnader och murar 2023-12-01, BNAU $ 325.
+komplementbyggnader och murar 2023-12-01, BNAU \$ 325.
 
 Beslutet överklagas till Länsstyrelsen.
 Länsstyrelsen beslutar 2024-03-22, 318-2024, att avslå överklagan.
@@ -4254,12 +4254,12 @@ Byggnadsnämndens arbetsutskott
 Datum
 2024-05-23
 
-- Hela tillbyggnaden (inglasningen) placeras på mark som inte får bebyggas
+\- Hela tillbyggnaden (inglasningen) placeras på mark som inte får bebyggas
 (punktprickad mark)
-- Hela tillbyggnaden placeras på mark som i huvudsak ska vara lämpad för
+\- Hela tillbyggnaden placeras på mark som i huvudsak ska vara lämpad för
 utevistelse (n1).
 
-- Del av tillbyggnaden placeras på mark som ska vara tillgänglig för underjordiska
+\- Del av tillbyggnaden placeras på mark som ska vara tillgänglig för underjordiska
 ledningar (u).
 
 Kommunicering
@@ -4856,17 +4856,17 @@ Beslutsmotivering
 
 Trots 2 § krävs det inte bygglov för att, i omedelbar närhet av ett en- eller
 tvåbostadshus, uppföra eller bygga till en byggnad som
-1. avses utgöra antingen en särskild bostad (komplementbostadshus) eller en
+1\. avses utgöra antingen en särskild bostad (komplementbostadshus) eller en
 
 komplementbyggnad,
-2. tillsammans med övriga byggnader som har uppförts på tomten med stöd av denna
+2\. tillsammans med övriga byggnader som har uppförts på tomten med stöd av denna
 paragraf inte får en större byggnadsarea än
 
 30,0 kvadratmeter,
-3. har en taknockshöjd som inte överstiger 4,0 meter,
+3\. har en taknockshöjd som inte överstiger 4,0 meter,
 
-4. inte placeras närmare gränsen än 4,5 meter, och
-5. i förhållande till en järnväg inte placeras närmare spårets mitt än 30,0 meter.
+4\. inte placeras närmare gränsen än 4,5 meter, och
+5\. i förhållande till en järnväg inte placeras närmare spårets mitt än 30,0 meter.
 
 Det krävs inte heller bygglov för att ändra en komplementbyggnad till ett sådant
 komplementbostadshus som avses i första stycket.

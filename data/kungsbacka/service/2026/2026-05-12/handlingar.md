@@ -1129,35 +1129,35 @@ Beslut om delegeringsförteckning innefattar förändringar om,
 Kap. 1.8 – Förkortningar och hänvisningar:
 
 •  Bitr. VC stryks.
-- Befattning ej aktuell.
+\- Befattning ej aktuell.
 Kap. 2.1 – Allmänt:
 
 •  OSL 5 kap 5 §.
 Beslut om sekretessmarkering.
-- Egen delegation med förändring delegater.
+\- Egen delegation med förändring delegater.
 •  OSL 6 kap 3-4,6 §§.
 
 Utlämnande av allmän handling med förbehåll eller att inte lämna ut en allmän handling.
-- Beslut om sekretessmarkering stryks (se ovan).
-- Slås samman som en delegation med förändring delegater.
+\- Beslut om sekretessmarkering stryks (se ovan).
+\- Slås samman som en delegation med förändring delegater.
 •  OSL 6 kap 5 §.
 Helt eller delvis avslå begäran av en annan myndighet att ta del av en uppgift.
-- Förändring delegater.
+\- Förändring delegater.
 
 •  OSL 10 kap 15 a §.
 Sekretessbrytande bestämmelse.
-- Ny delegation.
+\- Ny delegation.
 
 •  Uppgiftsskyldighetslagen 4 och 6 §§.
 Helt eller delvis avslå begäran av en brottsbekämpande myndighet att ta del av en uppgift.
-- Ny delegation.
+\- Ny delegation.
 
 •  OSL 6 kap. 1 a §.
 Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän handling lämnas ut.
-- Förändring delegater.
+\- Förändring delegater.
 •  Dataskyddsförordningen. GDPR artikel 15-21, 23. Dataskyddslagen 5 kap 1-3 §§.
 Helt eller delvis avslå framställan om begäran av utövande av registrerads rättigheter.
-- Förändring delegater.
+\- Förändring delegater.
 
 <!-- sida 25 -->
 
@@ -1167,47 +1167,47 @@ KUNGSBACKA  KOMMUN
 •  Riktlinjer för personuppgiftsbehandling, Dataskyddsförordningen GDPR, artikel 28.
 
 Teckna personuppgiftsbiträdesavtal.
-- Förändring i anmärkning/villkor.
-- Delegationen slås ihop med tidigare punkt 2.1.8
+\- Förändring i anmärkning/villkor.
+\- Delegationen slås ihop med tidigare punkt 2.1.8
 •  Undertecknande till myndighet.
-- Ny delegation.
+\- Ny delegation.
 
 •  Yttrande över remisser.
-- Ny delegation.
+\- Ny delegation.
 
 •  Yttrande över planprogram i gransknings- och samrådsskedet.
-- Förändring i anmärkning/villkor.
+\- Förändring i anmärkning/villkor.
 •  Yttrande över detaljplan i gransknings- och samrådsskedet.
-- Förändring i anmärkning/villkor.
+\- Förändring i anmärkning/villkor.
 
 •  Yttrande över bygglov.
-- Förändring i anmärkning/villkor.
+\- Förändring i anmärkning/villkor.
 
 Kap. 2.2 – Ekonomi och inköp:
 •  LOU, Policy för inköp, Riktlinjer för inköp, Riktlinjer för direktupphandling.
-- Ny hänvisning till styrande dokument.
+\- Ny hänvisning till styrande dokument.
 
 •  Reinvesteringar Fastigheter.
-- Upp till 20 basbelopp är verkställighet.
-- Förändring delegater.
+\- Upp till 20 basbelopp är verkställighet.
+\- Förändring delegater.
 
 •  Försäljning av material.
-- Förändring delegater.
+\- Förändring delegater.
 •  Hantera uppsägning av externa hyresavtal för villkorsändring avseende lokaler mellan kommun
 och hyresvärd.
-- Förändring delegater.
+\- Förändring delegater.
 
 •  Hantera hyresavtal avseende lokaler mellan kommun och extern hyresgäst med upp till 4 års
 avtalstid och en årshyra upp till 30 basbelopp exklusive mervärdesskatt.
-- Ny delegation.
+\- Ny delegation.
 
 •  Hantera uppsägning av externa hyresavtal för villkorsändring avseende lokaler mellan kommun
 och hyresgäst.
-- Ny delegation.
+\- Ny delegation.
 
 •  Hantera interna hyresavtal avseende lokaler och bostäder mellan nämnden för Service och
 övriga nämnder.
-- Ny delegation.
+\- Ny delegation.
 
 <!-- sida 26 -->
 
@@ -1216,12 +1216,12 @@ KUNGSBACKA  KOMMUN
 
 •  Hantera externa hyresavtal avseende bostäder mellan kommun och hyresgäst/hyresvärd.
 
-- Ny delegation.
+\- Ny delegation.
 Kap. 2.3 Personal
 
 •  AB § 11.
 Disciplinpåföljd - skriftlig varning.
-- Förändring delegater.
+\- Förändring delegater.
 
 Julia Tryggvadottir Tollesson
 Förvaltningschef Service
@@ -1250,7 +1250,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 28 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 
@@ -1285,11 +1285,11 @@ Vid förfall för övriga delegater
 
 Delegation till tjänsteperson får vid förfall för denne, utövas av:
 
-1. Annan delegat om det finns flera angivna.
-2. Vikarie eller ersättare. Vem som tar över beslutanderätten ska framgå av
+1\. Annan delegat om det finns flera angivna.
+2\. Vikarie eller ersättare. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet.
 
-3. Den ordinarie delegatens/vikariens/ställföreträdarens chef. Vem som tar över
+3\. Den ordinarie delegatens/vikariens/ställföreträdarens chef. Vem som tar över
 beslutanderätten ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet.
 Fördelning av beslutanderätt
@@ -1311,12 +1311,12 @@ Kungsbacka kommun      Delegering av beslutanderätt – nämnden för Service 2
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som
 delegaten har tagit:
 
-- Besluta att överklaga beslut samt domar i ett ärende vid en överprövning.
-- Beslut att avge yttrande till högre instans med anledning av överklagande av
+\- Besluta att överklaga beslut samt domar i ett ärende vid en överprövning.
+\- Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
 
-- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om ett utskott har fått delegation
 undertecknas handling som beslutet avser av arbetsutskottets ordförande och
 förvaltningschefen.
@@ -1452,7 +1452,7 @@ Kungsbacka kommun      Delegering av beslutanderätt – nämnden för Service 8
 
 | 2.1.16 | Arkivbeskrivning, nämnden för<br>Service<br>2021-04-29 § 35 | Utse Informationsredogörare för förvaltningen för<br>Service. | FC | Återrapporteras 1 gång per år |
 | --- | --- | --- | --- | --- |
-| 2.1.17 | Nämndens budget,<br>Regler och riktlinjer för förmåner<br>till förtroendevalda | Deltagande i aktivitet* för ordförande, vice<br>ordförande, ledamot och ersättare i nämnden. | Ordf.<br>För beslut som avser<br>ordförande beslutar<br>vice ordförande | Rätt till arvode för deltagande på aktivitet<br>regleras i Regler och riktlinjer för förmåner till<br>förtroendevalda<br>*I samma dokument som ovan framgår vilka<br>aktiviteter som avses. |
+| 2.1.17 | Nämndens budget,<br>Regler och riktlinjer för förmåner<br>till förtroendevalda | Deltagande i aktivitet\* för ordförande, vice<br>ordförande, ledamot och ersättare i nämnden. | Ordf.<br>För beslut som avser<br>ordförande beslutar<br>vice ordförande | Rätt till arvode för deltagande på aktivitet<br>regleras i Regler och riktlinjer för förmåner till<br>förtroendevalda<br>\*I samma dokument som ovan framgår vilka<br>aktiviteter som avses. |
 | 2.1.18 |  | Underteckna bidragsansökningar. | FC<br>VC<br>Ekonomichef | Statliga- och EU bidrag. Beslutsrätten gäller<br>inom budgetansvar för respektive<br>verksamhetsområde. |
 | 2.1.19<br>NY |  | Undertecknande till myndighet | FC<br>VC |  |
 | 2.1.20<br>NY |  | Yttrande över remisser | FC<br>VC |  |
@@ -1612,7 +1612,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 45 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 
@@ -1645,12 +1645,12 @@ Vid förfall för förvaltningschef inträder biträdande förvaltningschef elle
 förvaltningschef om sådan är utsedd och inget annat anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska
 framgå av ärendet och registreras i ärende-/verksamhetssystemet
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 
 /verksamhetssystemet.
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet
 och registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -1680,12 +1680,12 @@ enskilt ärende innan beslutet är taget.
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som
 delegaten har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning.
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om arbetsutskottet har fått delegation
 undertecknas handling som beslutet avser av arbetsutskottets ordförande och
 förvaltningschefen.
@@ -1695,10 +1695,10 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 eller ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap
 38 § ska tjänstemannen överlämna ärendet till
 
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
 
-- till nämnden om beslutanderätten är lämnad genom delegation direkt
+\- till nämnden om beslutanderätten är lämnad genom delegation direkt
 från nämnden.
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
 
@@ -1713,11 +1713,11 @@ sammanträde.
 
 Syftet med anmälan av delegeringsbeslut är att,
 
--  Tiden för när överklaganden av ärenden som överklagas med kommunalbesvär
+\-  Tiden för när överklaganden av ärenden som överklagas med kommunalbesvär
 bestäms genom det datum då beslutet eller det protokoll där anmälan noterats
 tillkännages. Det har alltså betydelse för när beslutet vinner laga kraft.
 
--  Ge nämnden fortlöpande information om vad som händer i verksamheten och
+\-  Ge nämnden fortlöpande information om vad som händer i verksamheten och
 därmed ligga som grund för möjlighet till förändringar och utveckling av
 verksamheten.
 
@@ -1776,7 +1776,7 @@ Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 4 (1
 
 <!-- sida 48 -->
 
-2. Delegeringsförteckning
+2\. Delegeringsförteckning
 
 2.1 Allmänt
 
@@ -1809,7 +1809,7 @@ Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 6 (1
 | 2.1.12 | Dataskyddsförordningen,<br>GDPR artikel 37 | Utse dataskyddsombud för nämnden. | FC | Beslutet ska anmälas till Integritetsskyddsmyndigheten (IMY). |
 | 2.1.13 | Arkivbeskrivning,<br>nämnden för Service<br>2021-04-29 § 35 | Utse Informationsredogörare för förvaltningen för<br>Service. | FC | Anmäls till nämnden 1 gång per år. |
 | 2.1.14 | Reglemente för<br>kommunstyrelsen och<br>övriga nämnder<br>i Kungsbacka kommun | Utse ombud med rätt att föra talan i alla mål och<br>ärenden som enligt lag eller annan författning<br>ankommer på nämnden eller på annat sätt faller inom<br>nämndens ansvarsområde. | FC |  |
-| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | N Ordf.<br>För beslut som avser ordförande<br>beslutar vice ordförande | Rätt till arvode för deltagande på aktivitet regleras i Regler och<br>riktlinjer för förmåner till förtroendevalda<br>*I samma dokument som ovan framgår vilka aktiviteter som<br>avses. |
+| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | N Ordf.<br>För beslut som avser ordförande<br>beslutar vice ordförande | Rätt till arvode för deltagande på aktivitet regleras i Regler och<br>riktlinjer för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår vilka aktiviteter som<br>avses. |
 | 2.1.16 |  | Underteckna bidragsansökningar. | FC<br>VC<br>Ekonomichef | Statliga- och EU bidrag. Beslutsrätten gäller inom<br>budgetansvar för respektive verksamhetsområde. |
 
 <!-- sida 50 -->

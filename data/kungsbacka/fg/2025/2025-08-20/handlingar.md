@@ -97,11 +97,11 @@ Frånvarande:   Akademikerförbundet SSR - Sofia Kareliusson
 
 Plats och tid: VM Lagan 2025-05-21 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 
 Protokoll för mötet 2024-05-21 är justerat.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 
 Arbetsgivaren redovisar ärenden inför nämndsammanträde i juni.
 
@@ -132,7 +132,7 @@ KUNGSBACKA  KOMMUN
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 • Stadigvarande förflyttning
 
 -Tobias Eklund – EC Hålabäcksområdet efter Kajsa Angervall
@@ -176,14 +176,14 @@ Beslut: Att anteckna informationen.
 KUNGSBACKA  KOMMUN
 3 (6)
 
-4. Information förvaltningsstab
+4\. Information förvaltningsstab
 
 Samverkansprotokollet är klart utifrån tillsättande av ny elevhälsochef. Arbetsgivaren meddelar att
 tillsättandet av ny elevhälsochef snart ska vara klar.
 
 Beslut: Att anteckna informationen.
 
-5. Budgetprognos samt befolkningsprognos
+5\. Budgetprognos samt befolkningsprognos
 
 Nämnden prognostiserar ett underskott på 2,1 miljoner kronor för 2025, motsvarande en
 budgetavvikelse på -0,1 %. Detta inkluderar 9,9 miljoner kronor i planerade utvecklingsprojekt inom
@@ -217,7 +217,7 @@ Beslut: Att anteckna informationen.
 KUNGSBACKA  KOMMUN
 4 (6)
 
-6. Civil beredskap
+6\. Civil beredskap
 
 Civil beredskap omfattar kommunens förmåga att upprätthålla samhällsviktiga verksamheter vid kriser
 
@@ -238,13 +238,13 @@ följande begrepp.
 
 Beslut: Att anteckna informationen.
 
-7. Läsårstider och arbetsår 2026/27
+7\. Läsårstider och arbetsår 2026/27
 
 Dokument kommer att skickas ut för dialog och beslut på FSG i augusti.
 
 Beslut: Att anteckna informationen.
 
-8. Mötestider FSG höstterminen 2025
+8\. Mötestider FSG höstterminen 2025
 
 Från och med höstterminen hålls samverkansmöten för förskola, grundskola och
 förvaltningsgemensamma frågor på onsdagar kl. 10.00–12.00. Deltagande är flexibelt: Representant
@@ -260,7 +260,7 @@ KUNGSBACKA  KOMMUN
 
 Arbetstagarorganisation
 
-9. VFU-ersättning
+9\. VFU-ersättning
 Sveriges Lärare:
 • Göteborgs Universitet betalar ut VFU-ersättning till kommunen/förvaltningen. Därefter
 betalar förvaltningen 60% (425 kr/hp) av ersättningen till skolan där VFU:n genomförs.
@@ -276,7 +276,7 @@ VFU. Tre personer på FG och en person på GA f är kopplade till uppdraget.
 
 Beslut: informationen antecknas.
 
-10. Förskjuten arbetstid
+10\. Förskjuten arbetstid
 Kommunal:
 • På CFG har man beslutat att medlemmar inte ska behöva fylla i blankett för förskjuten
 arbetstid utan rektor på varje enhet ansvarar för rapporteringen. Har informationen gått
@@ -307,11 +307,11 @@ För arbetstagarorganisationerna:
 
 Akademikerförbundet SSR             Kommunal
 
--                                   Beatrice Sandgren
+\-                                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 
@@ -321,7 +321,7 @@ Ronnie Ripgården                    Kristin Arplöw
 
 Vision                              Vårdförbundet
 
--                                   Anne Melin
+\-                                   Anne Melin
 
 <!-- sida 9 -->
 
@@ -520,9 +520,9 @@ Förvaltningen bedömer att en permanent utökning till 54 barn kan godkännas.
 Rättslig reglering
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -555,7 +555,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #204132 | Inskickat av: Lena Tenlén | 2025-05-20 11:02
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -619,7 +619,7 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 18 -->
 
-2. Utökning
+2\. Utökning
 
 Antal personal idag
 
@@ -645,7 +645,7 @@ vi antal volymtimmar. Enligt uppgift från er står vi på 52 barn sedan 2005. V
 kommer ifrån vet vi inte men vi har alltid haft 54 barn och fortfarande har vi det. Därför vill vi
 ansöka om 54 barn.
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 

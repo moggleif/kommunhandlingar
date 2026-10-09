@@ -36,7 +36,7 @@ sammanträde
 Beslutande Ledamöter Tjänstgörande ersättare
 
 Monica Neptun (L), Ordförande Stefan Jakobsson (C) ersätter Anders
-Erik Lindqvist (M), 1:e vice ordförande Eriksson (C) $$ 50, 52-55
+Erik Lindqvist (M), 1:e vice ordförande Eriksson (C) \$\$ 50, 52-55
 
 Övriga närvarande
 
@@ -80,11 +80,11 @@ Catarina Sundberg, verksamhetschef
 Emir Halalkic, verksamhetschef
 Maria Hellström, verksamhetschef
 Fillitsa Grönberg, ekonomichef
-Joakim Ekberg projektledare $ 50
-Maria Samuelsson, enhetschef $ 52
-Mathias Pedersen, enhetschef $ 53
+Joakim Ekberg projektledare \$ 50
+Maria Samuelsson, enhetschef \$ 52
+Mathias Pedersen, enhetschef \$ 53
 
-Paragrafer $$ 50, 52-55
+Paragrafer \$\$ 50, 52-55
 
 <!-- sida 2 -->
 
@@ -122,7 +122,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (14)
 Nämnden för Teknik palt
 2024-04-24
 
-$ 50 Dnr TE-2018-00895
+\$ 50 Dnr TE-2018-00895
 Godkännande av projekt Framtidens avloppsrening i Kungsbacka samt
 
 tillägg till investeringsplan för Teknik 2025 — plan för 2026-2029, utblick
@@ -158,7 +158,7 @@ av kommunfullmäktiges beslut ovan
 
 Nämnden för Teknik lägger till Framtidens avloppsrening, FAR, till nämndens
 förslag till ram för utgiftsområden för 2025-2029 med utblick mot 2030-2034,
-antagna av nämnden för Teknik 2024-01-17, $ 10, med ett beräknat
+antagna av nämnden för Teknik 2024-01-17, \$ 10, med ett beräknat
 
 investeringsbehov i januari 2024 års prisnivå om
 
@@ -331,7 +331,7 @@ kommunfullmäktige antar.
 Nybyggnation av omlastningsstation kommer att innebära ökad hyra vilket är den
 största kostnadsökningen inför 2025. Kostnader för insamling av avfall samt
 kostnader för drift och transporter avfall från återvinningscentraler bedöms öka även
-2025. Sammantaget bedöms att taxan behöver höjas med 12 procent för att intäkterna
+2025\. Sammantaget bedöms att taxan behöver höjas med 12 procent för att intäkterna
 ska matcha kostnaderna.
 
 Avgifterna avrundas till närmsta fem- eller tiokrona.

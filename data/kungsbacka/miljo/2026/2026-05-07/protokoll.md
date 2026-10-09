@@ -194,11 +194,11 @@ Nämnden för Miljö & Hälsoskydd godkänner förändring av ärendelistan.
 Sammanfattning av ärendet
 Niclas Nilsson (M) anmäler ett extra ärende till dagens sammanträde:
 
-- Initiativ från Niclas Nilsson (M) med flera om ökad kundnöjdhet, som behandlas
+\- Initiativ från Niclas Nilsson (M) med flera om ökad kundnöjdhet, som behandlas
 efter ärende 7.
 Renée Sylvan (S) anmäler ett extra ärende till dagens sammanträde:
 
-- Initiativ från Renée Sylvan (S) med flera gällande SKR insiktsmätning av
+\- Initiativ från Renée Sylvan (S) med flera gällande SKR insiktsmätning av
 företagsklimat 2025, som behandlas efter ärende 8.
 
 Beslutsgång
@@ -356,14 +356,14 @@ kommunen deponier. Syftet med initiativet är att utreda planerade saneringsåtg
 av deponierna och kostanden för detta.
 
 Förslagsställarna yrkar på följande:
--  Hur har förvaltningen agerat och arbetat med de planerade åtgärder,
+\-  Hur har förvaltningen agerat och arbetat med de planerade åtgärder,
 
 saneringsinsatser som gjorts de senaste åren?
--  Vilka åtgärder är gjorda och hur ser kostnaderna/ekonomin ut idag?
+\-  Vilka åtgärder är gjorda och hur ser kostnaderna/ekonomin ut idag?
 
--  Enligt revisionen återstår den 2025-12-31 ekonomiska medel av 146 mnkr,
+\-  Enligt revisionen återstår den 2025-12-31 ekonomiska medel av 146 mnkr,
 räcker dessa pengar till sluttäckning?
--  Om, de avsatta medlen inte räcker till enligt prognos, hur planerar
+\-  Om, de avsatta medlen inte räcker till enligt prognos, hur planerar
 förvaltningen/kommunen att fortsätta sitt saneringsarbete med de deponier
 som är aktuella, tillexempel Banaremossen.
 
@@ -418,12 +418,12 @@ skrämmande låg, näst sämst i Sverige. Alliansen anser att det kräver kraftt
 förbättra servicenivån och att arbetet med ”servicelyftet” kräver högsta prioritet.
 Förslagsställarna yrkar på följande:
 
--  Redovisa en tydlig analys för 2025 års NKI och tydliggöra problemen som
+\-  Redovisa en tydlig analys för 2025 års NKI och tydliggöra problemen som
 finns inom förvaltningen.
--  Redovisa hur den befintliga tidsplanen för ”servicelyftet” kan påskyndas.
+\-  Redovisa hur den befintliga tidsplanen för ”servicelyftet” kan påskyndas.
 
--  Identifiera områden i ”servicelyftet” som behöver prioriteras.
--  Redovisa en första analys på nämndmötet i juni samt en tydlig handlingsplan
+\-  Identifiera områden i ”servicelyftet” som behöver prioriteras.
+\-  Redovisa en första analys på nämndmötet i juni samt en tydlig handlingsplan
 på nämndmötet i augusti.
 
 Beslutsunderlag
@@ -527,7 +527,7 @@ Uppföljning och prognos, april 2026
 
 Beslut
 Nämnden för Miljö & Hälsoskydd godkänner uppföljning per april och prognos
-2026.
+2026\.
 
 Sammanfattning av ärendet
 Bygg- och miljöförvaltningen har upprättat uppföljning och prognos per april 2026

@@ -124,7 +124,7 @@ Nämnden noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Företrädare för Hanhals IF återrapporterar om arbetet efter genomlysningen av föreningen, KFT-2024-
-00041.
+00041\.
 
 Beslutsunderlag
 
@@ -172,7 +172,7 @@ Nämndmöte            20   mars:
 
 Uppföljning                     11      åtgärder                (1)
 
-1.    Gemensamma        nya  styrdokument.
+1\.    Gemensamma        nya  styrdokument.
 
 • Översyn  av nya dokumenten   med  ledare från hela föreningen under våren  2024.
 
@@ -180,7 +180,7 @@ Uppföljning                     11      åtgärder                (1)
 
 • Godkännande    av justerade dokument  av styrelsen i augusti.
 
-2.    Ekonomi    i balans  och  ordnad    ekonomistyrning.
+2\.    Ekonomi    i balans  och  ordnad    ekonomistyrning.
 
 • Hela  underskottet fån 2022/23  och mer därtill hämtades hem  under  2023/24.
 
@@ -193,7 +193,7 @@ Uppföljning                     11      åtgärder                (1)
 
 klubbchef
 
-3.    Regelbunda     samtal   med   ledning   för normering    och  ledarskap.
+3\.    Regelbunda     samtal   med   ledning   för normering    och  ledarskap.
 
 • Fortgår med  fasta huvudtränarmöten   och lagledarmöten  varje månad.
 
@@ -203,19 +203,19 @@ klubbchef
 
 Uppföljning                     11      åtgärder                (2)
 
-4.   Stärkt  sektionsledning   för Junior  för att säkra kultur &  värden.
+4\.   Stärkt  sektionsledning   för Junior  för att säkra kultur &  värden.
 
 • Värdegrundsansvarig i Juniorrådet driver projekt i “Spelarskap” säs 2024/25
 
 • Översyn av “mandatperioder”, säkerställa kontinuerlig förnyelse av rådsrepresentanter.
 
-5.   Stärkt  breddidrott  högre   upp  i åldrarna. (J18 div 2)
+5\.   Stärkt  breddidrott  högre   upp  i åldrarna. (J18 div 2)
 
 • Kållered hade inget att bidra med I det tänkta samarbetet
 
 • Hanhals lyckades ändå lösa breddlag för J18 helt på egen hand.
 
-6.   Tillsättning av  ny ledning  för Ungdomsrådet.
+6\.   Tillsättning av  ny ledning  för Ungdomsrådet.
 
 • Etablering av ny struktur som möjliggör högre närvaro från rådet i alla Ungdomslagens ledargrupper.
 
@@ -223,7 +223,7 @@ Uppföljning                     11      åtgärder                (2)
 
 • Betydligt färre brandsläckningsinsatser ger möjlighet till mer långsiktigt arbete
 
-7.   Säkerställande   av  den  sk ”hemmaplansmodellen”.
+7\.   Säkerställande   av  den  sk ”hemmaplansmodellen”.
 
 • Fokusområde  för Ungdomsrådet  ända ner i hockeyskolan.
 • Starta på rätt sätt från början.
@@ -232,7 +232,7 @@ Uppföljning                     11      åtgärder                (2)
 
 Uppföljning                     11      åtgärder                (3)
 
-8.   Förändring  av tränarstaber
+8\.   Förändring  av tränarstaber
 
 •  Inga tränare bortplockade pga avvikelse från styrande dokument 2024/25
 
@@ -241,17 +241,17 @@ Uppföljning                     11      åtgärder                (3)
 
 •  Översyn av ledargrupper i Hockeyskolan
 
-9.   Säkerställt att engagemang    i privata kommersiella  hockeyföretag   inte förekommer
+9\.   Säkerställt att engagemang    i privata kommersiella  hockeyföretag   inte förekommer
 
 bland  våra ledare.
 
 • Tydlighet i styrande dokument och kommunikation
 
-10. Föräldrautbildning.  (samarbete   med   GIF)
+10\. Föräldrautbildning.  (samarbete   med   GIF)
 
 • Vidareutvecklad version av utbildningen nyligen genomförd
 
-11.  Avstängning   av vårdnadshavare    vilka utövar negativa  påtryckningar  på ledare  och
+11\.  Avstängning   av vårdnadshavare    vilka utövar negativa  påtryckningar  på ledare  och
 
 ungdomar.
 
@@ -265,7 +265,7 @@ Ytterligare                 Åtgärder                –   uppföljning
 
 (1)
 
-1.    Organisationsförändring       i syfte separera   våra  två verksamheter,     ideell
+1\.    Organisationsförändring       i syfte separera   våra  två verksamheter,     ideell
 
 ungdomssektion       från vår  elitförberedande     verksamhet.
 
@@ -280,7 +280,7 @@ ungdomssektion       från vår  elitförberedande     verksamhet.
 •  Marknad (sponsring och marknadsevent)
 •  Gemensamt (kansli, osv)
 
-2.    Ny  daglig  styrning  from   augusti  2024.
+2\.    Ny  daglig  styrning  from   augusti  2024.
 
 •  Formaliserande  av mötesstuktur och  frekvens.
 
@@ -294,7 +294,7 @@ Ytterligare                 Åtgärder                –   uppföljning
 
 (2)
 
-3.    Löpande    kvalitetsmätningar      med   samtliga   lag i vår verksamhet     från  säs
+3\.    Löpande    kvalitetsmätningar      med   samtliga   lag i vår verksamhet     från  säs
 
 24/25.   Dessa   genomförs    digitalt  till alla våra ledare,  aktiva  och
 
@@ -306,7 +306,7 @@ vårdnadshavare.
 
 • Riktade  uppföljingsenkäter U14  och U16
 
-4.    Tidigare  infasning   (redan   under   tidig vår  inför kommande       säsong)   av nya
+4\.    Tidigare  infasning   (redan   under   tidig vår  inför kommande       säsong)   av nya
 
 tränare   inför säsongsbyten     för  att möjliggöra    förbättrad   kommunikation
 
@@ -614,7 +614,7 @@ Kön (%)                                                       Ålder (%)
 )                                                              )
 7                                                              2
 2 6 40                                                         7 5 40
-=                                                              =
+\=                                                              =
 n                                                              n
 ( 30                                                           ( 30                    24
 18
@@ -740,7 +740,7 @@ Positiva
 
 Att få uppleva eller utöva någon form av fritid- och idrottsaktivitet
 60                      30       6
-är en viktig del av mitt liv*
+är en viktig del av mitt liv\*
 
 När jag tar del av kultur gör jag det tillsammans med vänner 33           48             9    10
 
@@ -752,11 +752,11 @@ Jag skulle vilja ägna mer tid åt kulturaktiviteter än vad jag gör idag 35   
 
 Jag tycker att det är viktigt att vara aktiv ideellt, exempelvis i en
 25              37              23       15
-förening*
+förening\*
 
 Instämmer helt Instämmer delvis Instämmer knappast Instämmer inte alls
 
-* Kommunspecifik fråga för Kungsbacka kommun
+\* Kommunspecifik fråga för Kungsbacka kommun
 
 <!-- sida 36 -->
 
@@ -836,7 +836,7 @@ medan 27 % inte känner sig hindrad eller begränsad överhuvudtaget.
 9
 2
 6 20
-=
+\=
 n
 (                                                16
 14
@@ -851,7 +851,7 @@ inte där jag bor         kultursammanhang           tillsammans med aktiviteter
 
 <!-- sida 41 -->
 
-Inställning     till kulturpåståenden             i Kungsbacka          kommun*
+Inställning     till kulturpåståenden             i Kungsbacka          kommun\*
 
 •  I princip vill samtliga svarande att kommunen ska arbeta för att främja det lokala fritids- och
 idrottslivet och drygt 8 av 10 vill att kommunen ska arbeta för att främja kulturlivet.
@@ -872,13 +872,13 @@ Jag vill att kulturen i Kungsbacka ger mig nya perspektiv 28      39            
 
 Instämmer helt Instämmer delvis Instämmer knappast Instämmer inte alls
 
-* Kommunspecifika frågor för Kungsbacka kommun
+\* Kommunspecifika frågor för Kungsbacka kommun
 
 <!-- sida 42 -->
 
 Upplever       du   att   du   kan    påverka       utbudet       av   följande      i
 
-Kungsbacka           kommun?*
+Kungsbacka           kommun?\*
 
 •  Resultaten till frågorna om huruvida respondenterna upplever att de kan påverka utbudet av
 idrottsaktiviteter, fritidsaktiviteter och kultur visar att en majoritet inte upplever sig kunna göra det.
@@ -895,11 +895,11 @@ Fritidsaktiviteter 7      35                         58
 
 Ja Delvis Nej
 
-* Kommunspecifika frågor för Kungsbacka kommun
+\* Kommunspecifika frågor för Kungsbacka kommun
 
 <!-- sida 43 -->
 
-Ser   du   kulturskolan       som     en   möjlig    fritidsaktivitet      för  ditt  barn?*
+Ser   du   kulturskolan       som     en   möjlig    fritidsaktivitet      för  ditt  barn?\*
 
 •  Av de som har barn mellan 6-20 år ser en majoritet kulturskolan som en möjlig fritidsaktivitet för sitt barn.
 •  Notera att det är 58 procent som inte har barn i åldern 6-20 år och därför inte tagit ställning i frågan.
@@ -911,11 +911,11 @@ Ej aktuellt
 
 Ja Nej
 
-* Kommunspecifik fråga för Kungsbacka kommun
+\* Kommunspecifik fråga för Kungsbacka kommun
 
 <!-- sida 44 -->
 
-Om     du   svarat     nej,  beror     det   på    att..*
+Om     du   svarat     nej,  beror     det   på    att..\*
 
 •  Av de som svarade  nej på föregående fråga uppger 64 procent att de inte ser kulturskolan som
 en möjlig fritidsaktivitet för sina barn eftersom att de inte är intresserade.
@@ -931,7 +931,7 @@ en möjlig fritidsaktivitet för sina barn eftersom att de inte är intresserade
 )
 1
 8
-=
+\=
 n
 ( 30
 22
@@ -944,7 +944,7 @@ Aktiviteter som intresserar Det är svårt för mitt barn att Det är för dyrt 
 mitt barn finns inte på ta sig till och från
 kulturskolan          aktiviteten
 
-* Kommunspecifik fråga för Kungsbacka kommun
+\* Kommunspecifik fråga för Kungsbacka kommun
 
 <!-- sida 45 -->
 
@@ -1006,7 +1006,7 @@ större evenemang som t ex en stadsfestival (50 %).
 9                                30
 2
 6 30
-=
+\=
 n                                            25
 (                                                        23
 20
@@ -1039,7 +1039,7 @@ prioritera     i framtiden       inom     fritid-  och    idrottsområdet?      
 )  40
 1 3                               34         34          32
 6
-=
+\=
 n  30                                                                27
 (
 20
@@ -1080,7 +1080,7 @@ Nämnden för Kultur & Fritid beslutar att:
 
 •  förvaltningen har som övergripande inriktning att flytta ekonomiska medel från anläggningar
 och byggnader till aktivitetsstöd till föreningar. Subventionsgrader på hyror ska fasas ut till
-2030.
+2030\.
 
 •  öka LOK-stödet till 10 kr samt räknar upp LOK-stödet till de föreningar som äger och helt
 sköter sina egna anläggningar med tre gånger det generella LOK-stödet.
@@ -1465,27 +1465,27 @@ människor, för att skapa tidiga vanor att röra sig och investera i sin egen f
 För deltagare 7-20 år
 
 Aktivitetskrav:
--  Aktiviteten ska vara ledarledd (vuxen eller äldre ungdom från 13-20 år) Ledare mellan 13-15 år
+\-  Aktiviteten ska vara ledarledd (vuxen eller äldre ungdom från 13-20 år) Ledare mellan 13-15 år
 räknas som hjälpledare
--  Minst 3 deltagare (exkl. ledare)
+\-  Minst 3 deltagare (exkl. ledare)
 
--  Aktiviteten ska pågå i minst 45 min
--  Antal aktiviteter max per vecka, kopplat till ålder:
+\-  Aktiviteten ska pågå i minst 45 min
+\-  Antal aktiviteter max per vecka, kopplat till ålder:
 Vid 7-9 år får du högst 3 aktiviteter per vecka, ålder 10-20 år får du högst 5 aktiviteter per
 vecka
--  Aktiviteten ska vara planerad och godkänd av föreningens styrelse
--  Högst 20 deltagare per ledare, så är det 40 deltagare – behövs minst 2 ledare (Är man max 1
+\-  Aktiviteten ska vara planerad och godkänd av föreningens styrelse
+\-  Högst 20 deltagare per ledare, så är det 40 deltagare – behövs minst 2 ledare (Är man max 1
 ledare så är det bara 20 deltagare som redovisas, trots att gruppen är större).
 
 Rapportering och närvaro, samt tidsperiod och ansökan:
--  Föreningen måste rapportera sina aktiviteter i kommunens system
--  Vårterminen (1 januari till 30 juni) redovisas från och med 1 juli till senast 25 augusti
--  Höstterminen (1 juli till 31 december) redovisas från och med 1 januari till senast 25 februari.
+\-  Föreningen måste rapportera sina aktiviteter i kommunens system
+\-  Vårterminen (1 januari till 30 juni) redovisas från och med 1 juli till senast 25 augusti
+\-  Höstterminen (1 juli till 31 december) redovisas från och med 1 januari till senast 25 februari.
 
 Ekonomiskt stöd:
--  Stödet betalas ut två gånger per år och baseras på antalet deltagartillfälle
--  Föreningen får 10 kronor per deltagartillfälle och 10 kronor för ledartillfälle
--  Föreningar som tillhandahåller egna verksamhetsytor för aktiviteter uppräknas LOKx3.
+\-  Stödet betalas ut två gånger per år och baseras på antalet deltagartillfälle
+\-  Föreningen får 10 kronor per deltagartillfälle och 10 kronor för ledartillfälle
+\-  Föreningar som tillhandahåller egna verksamhetsytor för aktiviteter uppräknas LOKx3.
 
 <!-- sida 58 -->
 
@@ -1494,10 +1494,10 @@ KUNGSBACKA  KOMMUN
 
 Ansökan och utbetalning:
 
--  Ansökan ska göras av en av föreningsstyrelsen utsedd person som bör ha administrativa
+\-  Ansökan ska göras av en av föreningsstyrelsen utsedd person som bör ha administrativa
 rättigheter
 
--  Utbetalning sker till föreningens plus- eller bankgiro, inte till enskilda personer eller
+\-  Utbetalning sker till föreningens plus- eller bankgiro, inte till enskilda personer eller
 sektioner.
 
 LOK stöd – för deltagare med funktionsnedsättning 7 år och uppåt
@@ -1511,28 +1511,28 @@ funktionsnedsättning.
 För deltagare 7 år och uppåt.
 
 Aktivitetskrav:
--  Aktiviteten ska vara ledarledd. Stöd till extra ledare
+\-  Aktiviteten ska vara ledarledd. Stöd till extra ledare
 
--  Minst 3 deltagare (exkl. ledare)
--  Aktiviteten ska pågå i minst 45 min
--  Antal aktiviteter max per vecka, kopplat till ålder:
+\-  Minst 3 deltagare (exkl. ledare)
+\-  Aktiviteten ska pågå i minst 45 min
+\-  Antal aktiviteter max per vecka, kopplat till ålder:
 Vid 7-9 år får du högst 3 aktiviteter per vecka, ålder 10 år och uppåt får du högst 5 aktiviteter
 per vecka
--  Aktiviteten ska vara planerad och godkänd av föreningens styrelse
--  Högst 20 deltagare per ledare, så är det 40 deltagare – behövs minst 2 ledare (Är man max 1
+\-  Aktiviteten ska vara planerad och godkänd av föreningens styrelse
+\-  Högst 20 deltagare per ledare, så är det 40 deltagare – behövs minst 2 ledare (Är man max 1
 ledare så är det bara 20 deltagare som redovisas, trots att gruppen är större).
 
 Rapportering och närvaro, samt tidsperiod och ansökan:
--  Föreningen måste rapportera sina aktiviteter i kommunens system
--  Vårterminen (1 januari till 30 juni) redovisas från och med 1 juli till senast 25 augusti
--  Höstterminen (1 juli till 31 december) redovisas från och med 1 januari till senast 25 februari.
+\-  Föreningen måste rapportera sina aktiviteter i kommunens system
+\-  Vårterminen (1 januari till 30 juni) redovisas från och med 1 juli till senast 25 augusti
+\-  Höstterminen (1 juli till 31 december) redovisas från och med 1 januari till senast 25 februari.
 
 Ekonomiskt stöd:
--  Stödet betalas ut två gånger per år och baseras på antalet deltagartillfälle
--  Föreningen får 10 kronor per deltagartillfälle och 10 kronor för ledartillfälle.
+\-  Stödet betalas ut två gånger per år och baseras på antalet deltagartillfälle
+\-  Föreningen får 10 kronor per deltagartillfälle och 10 kronor för ledartillfälle.
 
 Ansökan och utbetalning:
--  Ansökan ska göras av en av föreningsstyrelsen utsedd person som bör ha administrativa
+\-  Ansökan ska göras av en av föreningsstyrelsen utsedd person som bör ha administrativa
 rättigheter
 
 <!-- sida 59 -->
@@ -1540,7 +1540,7 @@ rättigheter
 KUNGSBACKA  KOMMUN
 11 (20)
 
--  Utbetalning sker till föreningens plus- eller bankgiro, inte till enskilda personer eller
+\-  Utbetalning sker till föreningens plus- eller bankgiro, inte till enskilda personer eller
 
 sektioner.
 
@@ -1552,25 +1552,25 @@ att skapa vanor att röra sig och investera i sin egen fysiska och psykiska häl
 67+
 
 Aktivitetskrav:
--  Aktiviteten ska vara ledarledd
+\-  Aktiviteten ska vara ledarledd
 
--  Deltagarna behöver inte vara medlemmar
--  Minst 3 deltagare (exkl. ledare)
--  Aktiviteten ska pågå i minst 45 min.
+\-  Deltagarna behöver inte vara medlemmar
+\-  Minst 3 deltagare (exkl. ledare)
+\-  Aktiviteten ska pågå i minst 45 min.
 
 Rapportering och närvaro, samt tidsperiod och ansökan:
--  Föreningen måste rapportera sina aktiviteter i kommunens system
--  Vårterminen (1 januari till 30 juni) redovisas från och med 1 juli till senast 25 augusti
--  Höstterminen (1 juli till 31 december) redovisas från och med 1 januari till senast 25 februari.
+\-  Föreningen måste rapportera sina aktiviteter i kommunens system
+\-  Vårterminen (1 januari till 30 juni) redovisas från och med 1 juli till senast 25 augusti
+\-  Höstterminen (1 juli till 31 december) redovisas från och med 1 januari till senast 25 februari.
 
 Ekonomiskt stöd:
--  Stödet betalas ut två gånger per år och baseras på antalet deltagartillfälle
--  Föreningen får 10 kronor per deltagartillfälle och 10 kronor för ledartillfälle.
+\-  Stödet betalas ut två gånger per år och baseras på antalet deltagartillfälle
+\-  Föreningen får 10 kronor per deltagartillfälle och 10 kronor för ledartillfälle.
 
 Ansökan och utbetalning:
--  Ansökan ska göras av en av föreningsstyrelsen utsedd person som bör ha administrativa
+\-  Ansökan ska göras av en av föreningsstyrelsen utsedd person som bör ha administrativa
 rättigheter
--  Utbetalning sker till föreningens plus- eller bankgiro, inte till enskilda personer eller
+\-  Utbetalning sker till föreningens plus- eller bankgiro, inte till enskilda personer eller
 sektioner.
 
 Utvecklingsstödet baseras på ett treårigt verksamhetsåtagande
@@ -1736,13 +1736,13 @@ klubblokalens yta, utan som verksamhetsyta.
 Förslag på principer klubblokaler:
 Grundprincipen är att kommunen inte bygger klubblokaler.
 Förvaltningen kommer utgå från två modeller:
-1. Föreningen hyr klubblokalen för en hyra utan subventioner, enligt ett av dessa tre alternativ.
+1\. Föreningen hyr klubblokalen för en hyra utan subventioner, enligt ett av dessa tre alternativ.
 
 a. hela klubblokalen
 b. tillsammans med en eller flera andra föreningar
 
 c. begränsat antal kvadratmeter
-2. Föreningen äger själv sin klubblokal.
+2\. Föreningen äger själv sin klubblokal.
 
 <!-- sida 64 -->
 
@@ -1859,7 +1859,7 @@ Förslag på principer gällande verksamhetsytor
 Förvaltningen kommer att agera enligt följande principer, utifrån den klassificering som görs av i vilken grad de
 enskilda lokaler/ytor är strategiskt viktiga:
 •  Kommunen stödjer verksamhet i anläggningar i Kategori 1, Strategiskt prioriterad verksamhetsyta
-(minst sju poäng*), genom att stå för skötsel av anläggningen.
+(minst sju poäng\*), genom att stå för skötsel av anläggningen.
 
 •  Utpekade strategiskt prioriterade verksamhetsytor är öppna för alla stödberättigade föreningar.
 
@@ -1896,21 +1896,21 @@ verksamhetsytor kommer uppdateras vart tredje år.
 
 Dessa kriterier ligger till grund för beräkningarna:
 
-1. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2 p.
-2. Anläggningen ligger i direkt anslutning till skola och är tillgänglig för allmänheten för olika aktiviteter,
+1\. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2 p.
+2\. Anläggningen ligger i direkt anslutning till skola och är tillgänglig för allmänheten för olika aktiviteter,
 möten eller evenemang. Ytan kan användas av många, för såväl organiserade som icke organiserade
 ändamål. 2 p.
-3. Anläggningen ligger i område med hög befolkningstäthet, dvs Kungsbacka Stad1, Särö, Onsala eller Åsa. 2
+3\. Anläggningen ligger i område med hög befolkningstäthet, dvs Kungsbacka Stad1, Särö, Onsala eller Åsa. 2
 p.
-4. Anläggningen uppfyller behov hos underrepresenterade målgrupper identifierade utifrån ålder, kön eller
+4\. Anläggningen uppfyller behov hos underrepresenterade målgrupper identifierade utifrån ålder, kön eller
 typ av idrott. 2 p.
-5. Anläggningen ligger i ett av de tre strategiska fokusområdena Anneberg, Kungsbacka Stad eller Åsa. 2 p.
+5\. Anläggningen ligger i ett av de tre strategiska fokusområdena Anneberg, Kungsbacka Stad eller Åsa. 2 p.
 
-6. Anläggningen har god nåbarhet för barn och ungdomar, dvs. de kan på egen hand ta sig till anläggningen 1
+6\. Anläggningen har god nåbarhet för barn och ungdomar, dvs. de kan på egen hand ta sig till anläggningen 1
 p.
-7. Specialanläggning: konstis, friidrottsanläggning, simhall, skejt, parasport. 1 p.
-8. Konstgräs. Omfattande miljökrav i underhåll 5 p.
-9. Begränsad nyttjandekapacitet. Anläggningen kan pga. ljud- eller ljusstörningar inte nyttjas obegränsat. Det
+7\. Specialanläggning: konstis, friidrottsanläggning, simhall, skejt, parasport. 1 p.
+8\. Konstgräs. Omfattande miljökrav i underhåll 5 p.
+9\. Begränsad nyttjandekapacitet. Anläggningen kan pga. ljud- eller ljusstörningar inte nyttjas obegränsat. Det
 kan även pågå andra aktiviteter som begränsar möjligheterna för nyttjande för enskilda föreningar. - 2 p.
 
 Verksamhetsytor (befintliga och planerade) poängsätts utifrån i vilken grad de uppfyller kriterier för stöd.
@@ -2227,12 +2227,12 @@ Analys         av    subventioner                  och      bidrag
 
 -Fotbollsklubbar
 
-*Alla aktiva medlemmar oberoende av sektion har använts för beräkning av hyressubventionen samt anläggnings-och skötselbidraget.
-**Beräkningarna har inte kunnat ta hänsyn till skillnaderna i hyreskostnader för olika storlekar på planer.
+\*Alla aktiva medlemmar oberoende av sektion har använts för beräkning av hyressubventionen samt anläggnings-och skötselbidraget.
+\*\*Beräkningarna har inte kunnat ta hänsyn till skillnaderna i hyreskostnader för olika storlekar på planer.
 
 [Tabell 80-1](handlingar.tabeller/80-1.csv)
 
-|  | Antal aktiva<br>fotbolls-<br>sektionen<br>medlemmar<br>7-20 år 2022 | Antal aktiva<br>alla sektioner<br>7 –20 år* | Hyressubvention per<br>aktiv medlem* | Anläggnings-<br>och<br>skötselbidrag<br>per aktiv<br>medlem<br>7-20 år* | Bokade timmar i<br>snitt per aktiv<br>medlem<br>fotbollssektionen<br>7-20 år 2022 | Planhyra i snitt<br>per aktiv medlem<br>fotbollssektionen<br>7-20 år 2022** | Total planhyra<br>per bokad<br>timme** | Subvention Planhyra per<br>aktiv medlem<br>jmf med B-plan för Övrig<br>förening/privat inom<br>kommunen<br>277 kr/timme** | Totalt bidrag<br>per aktiv<br>medlem |
+|  | Antal aktiva<br>fotbolls-<br>sektionen<br>medlemmar<br>7-20 år 2022 | Antal aktiva<br>alla sektioner<br>7 –20 år\* | Hyressubvention per<br>aktiv medlem\* | Anläggnings-<br>och<br>skötselbidrag<br>per aktiv<br>medlem<br>7-20 år\* | Bokade timmar i<br>snitt per aktiv<br>medlem<br>fotbollssektionen<br>7-20 år 2022 | Planhyra i snitt<br>per aktiv medlem<br>fotbollssektionen<br>7-20 år 2022\*\* | Total planhyra<br>per bokad<br>timme\*\* | Subvention Planhyra per<br>aktiv medlem<br>jmf med B-plan för Övrig<br>förening/privat inom<br>kommunen<br>277 kr/timme\*\* | Totalt bidrag<br>per aktiv<br>medlem |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Frillesås FF | 364 | 609 | Eget klubbhus | 66 kr | 5,1 | 450 kr | 89 kr | 956 kr | 1 022 kr |
 | IFK Fjärås | 471 |  | Eget klubbhus | 0 | 6,1 | 539 kr | 88 kr | 1 155 kr | 1 155 kr |
@@ -3074,15 +3074,15 @@ kungsbacka.se
 Stor inomhusförening   Liten inomhusförening
 
 2026       2029        2026
-+ Ökat LOK stöd från 7,5kr till 10kr 150 000 150 000     9 000
-+ LOK stöd x3
-- Driftbidrag
-- Utveckling / Utbildningsbidrag -160 000   -160 000     -6 000
-- Drogpolicy / Hälsocertifiering -40 000     -40 000
-- Lovbidrag
-- Folkhälsobidrag
+\+ Ökat LOK stöd från 7,5kr till 10kr 150 000 150 000     9 000
+\+ LOK stöd x3
+\- Driftbidrag
+\- Utveckling / Utbildningsbidrag -160 000   -160 000     -6 000
+\- Drogpolicy / Hälsocertifiering -40 000     -40 000
+\- Lovbidrag
+\- Folkhälsobidrag
 
-- Subventioner
+\- Subventioner
 
 ```osaker-tabell
 - Höjda taxor                   -100 000    -120 000     -5 800
@@ -3370,15 +3370,15 @@ FRÅGOR
 Vi uppskattar transparensen som redovisades men har också en del följdfrågor som delvis
 adresserades vid mötet:
 
-1. Vi önskar erhålla uppgifter på fastighetens yta i kvadratmeter samt hur många kvadratmeter
+1\. Vi önskar erhålla uppgifter på fastighetens yta i kvadratmeter samt hur många kvadratmeter
 som direkt belastar föreningen av dessa.
-2. Vi önskar se kommunens kostnad per år (internhyra) för:
+2\. Vi önskar se kommunens kostnad per år (internhyra) för:
 a. Den klubbyta som föreningen hyrt under perioden 2019-2024 samt prognos 2025
 b. Resterande yta som ingår i planhyran (omklädningsrum, mm) under samma period
-3. Vi önskar också mer i detalj få reda på vad som ingår i kommunens internhyra från
+3\. Vi önskar också mer i detalj få reda på vad som ingår i kommunens internhyra från
 Serviceförvaltningen för klubbytan samt vad varje del av detta kostar och som därmed ingår i
 hyra och subvention.
-4. I tillägg önskar vi även få en uppfattning om det finns delar i p3 som vi som hyresgäst kan
+4\. I tillägg önskar vi även få en uppfattning om det finns delar i p3 som vi som hyresgäst kan
 påverka i någon form.
 Att subventionen, som ska minskas/elimineras, bygger på er internhyra inom kommunen oroar oss.
 Vi noterade t ex vid er redovisning att kultur- och fritids internhyra från Serviceförvaltningen
@@ -3428,17 +3428,17 @@ kommunen. Under de senaste åren har verksamheten begränsats genom akuta åtgä
 gäller mögel, skadeinsekter och brister i bärande delar av byggnadskonstruktioner.
 Till skillnad från de flesta föreningar i kommunen skiljer sig förutsättningarna vid vår ridklubb
 väsentligt genom
-- En vi har en stor andel anställd personal beroende på de myndighets- kvalitets- och säkerhetskrav
+\- En vi har en stor andel anställd personal beroende på de myndighets- kvalitets- och säkerhetskrav
 och att verksamheten bedrivs alla veckans dagar från tidig morgon till sent på kvällarna. F.n. är vi 13
 
 antal personer anställda och ytterligare ett antal timanställda.
-- Ett mycket stort ideellt arbete av våra medlemmar framförallt vid tävlingar. KRK är kända som en av
+\- Ett mycket stort ideellt arbete av våra medlemmar framförallt vid tävlingar. KRK är kända som en av
 landets bästa tävlingsarrangörer KRK har bl. a genomfört tävlingar såsom Gothenburg horse show
 nationella delen, SM, kval till SM osv.
-- Vi genomför kontinuerliga investeringar i hästar. Vi har dag ett 40 tal hästar representerar en
+\- Vi genomför kontinuerliga investeringar i hästar. Vi har dag ett 40 tal hästar representerar en
 investering på ca 4 Mkr som årligen har ett behov av att förnyas
-- Vi har en fortlöpande skötsel av anläggning och hästardagligen 24/7.
-- Ett stort administrativt arbete beroende på personaladministration, arbetsledning, täta
+\- Vi har en fortlöpande skötsel av anläggning och hästardagligen 24/7.
+\- Ett stort administrativt arbete beroende på personaladministration, arbetsledning, täta
 myndighetskontakter och framtagande av rutiner för att säkerställa medlemskontakter,
 
 personalvård, djurskydd och säkerhet.
@@ -3675,11 +3675,11 @@ påverkar oss ekonomiskt.
 
 KGFS förslår därför:
 
-1. Vänta ett år med att ta upp förslaget för beslut till nämnden.
-2. Ha en dialog föreningsvis eller i kluster under 2025 avseende konsekvenserna och
+1\. Vänta ett år med att ta upp förslaget för beslut till nämnden.
+2\. Ha en dialog föreningsvis eller i kluster under 2025 avseende konsekvenserna och
 möjligheterna för respektive förening med förslaget.
 
-3. Efter dessa dialoger ta fram en sammanställning och förslag till förändring, om det
+3\. Efter dessa dialoger ta fram en sammanställning och förslag till förändring, om det
 behövs.
 
 KGFS har sin ordförandeträff den 24 november kl 1700-2100 i KIF lokaler då ni är välkomna
@@ -3696,8 +3696,8 @@ Inkomna synpunkter via enkät
 Följande synpunkter har inkommit via enkät som skickades till föreningslivet efter dialogmötet den 8
 oktober 2024. Frågorna som ställdes var:
 
--  Vad blir konsekvensen av förslaget på ny modell för stöd till er förening? Utmaningar?
--  Vad blir konsekvensen av förslaget på ny modell för stöd till er förening? Möjligheter?
+\-  Vad blir konsekvensen av förslaget på ny modell för stöd till er förening? Utmaningar?
+\-  Vad blir konsekvensen av förslaget på ny modell för stöd till er förening? Möjligheter?
 
 Följande föreningar har skickat in synpunkter via enkäten;
 
@@ -3715,7 +3715,7 @@ Följande föreningar har skickat in synpunkter via enkäten;
 •  Löftadalens IF
 •  IFSAP Kungsbacka = Intresseföreningen för schizofreni och andra psykossjukdomar.
 
-1. Vad blir konsekvensen av förslaget på ny modell för stöd till er förening? Utmaningar?
+1\. Vad blir konsekvensen av förslaget på ny modell för stöd till er förening? Utmaningar?
 
 Eftersom subventioner på hyran för vårt klubbhus drastiskt kommer minska blir konsekvensen att
 vår hyra kraftigt kommer öka. Detta innebär i sin tur att vi tvingas ta ut en högre avgift för våra
@@ -3775,7 +3775,7 @@ med andra anhöriga, detta var till mkt stor hjälp, vi själva fick hjälp, ngn
 få nya medlemmar, men det verkar vara lika i många föreningar. Svårt att få ngn att sköta det vanliga
 kansliarbetet. / IFSAP Kungsbacka
 
-2. Vad blir konsekvensen av förslaget på ny modell för stöd till er förening? Möjligheter?
+2\. Vad blir konsekvensen av förslaget på ny modell för stöd till er förening? Möjligheter?
 
 Se ovan. Att vi totalt får en högre kostnad, utan att det andra stödet ökar i samma omfattning, innebär
 en möjlighet att lämna en anläggning (Ledet) vilket vi lämnar in förslag om. Tyvärr togs detta förslag
@@ -3851,7 +3851,7 @@ demokratiskt samhälle. Kungsbacka kommun stödjer det ideella föreningslivet g
 ekonomiskt stöd, indirekt ekonomiskt stöd i form av anläggningar och lokaler samt kompetens inom
 exempelvis föreningsutveckling.
 Kommunens föreningsstöd har i omgångar setts över och reviderats, nuvarande stöd trädde i kraft
-2022. För att möta framtidens utmaningar behövs en större översyn av föreningsstödet göras för att
+2022\. För att möta framtidens utmaningar behövs en större översyn av föreningsstödet göras för att
 säkerställa att föreningslivet även i framtiden är välfungerande och hållbart. Genom att ha tydliga
 grundprinciper för stöd och en genomtänkt strategi, står kommunen och föreningslivet stärkare i resan
 framåt.
@@ -4192,13 +4192,13 @@ själva klubblokalens yta, utan som verksamhetsyta.
 
 Ny strategi för klubblokaler
 Två modeller:
-1. Föreningen hyr klubblokalen för en marknadsmässig hyra, enligt ett av dessa tre alternativ
+1\. Föreningen hyr klubblokalen för en marknadsmässig hyra, enligt ett av dessa tre alternativ
 
 o  hela klubblokalen
 o  tillsammans med en eller flera andra föreningar
 o  begränsat antal kvadratmeter
 
-2. Föreningen äger själv sin klubblokal. För en del föreningar är detta redan fallet.
+2\. Föreningen äger själv sin klubblokal. För en del föreningar är detta redan fallet.
 
 <!-- sida 140 -->
 
@@ -4217,10 +4217,10 @@ produkter eller tjänster.
 
 Uppföljningsrutiner
 
-1. Kommunen utvärderar kontinuerligt hur subventionerna för föreningslokaler används och om
+1\. Kommunen utvärderar kontinuerligt hur subventionerna för föreningslokaler används och om
 stöden ger tillräckligt med samhällsnytta. Om vissa stöd inte uppfyller krav och kriterier kan
 resurserna omfördelas till ändamål som ger större effekt.
-2. Alla hyresförhållanden med föreningar ska omfattas av undertecknade avtal som ska finnas
+2\. Alla hyresförhållanden med föreningar ska omfattas av undertecknade avtal som ska finnas
 med i en uppdaterad samling.
 
 Verksamhetsytor
@@ -4344,7 +4344,7 @@ samlad bedömning för att planera befintliga och kommande stöd och investering
 framförda behov kategoriseras utifrån hur väl de uppfyller kriterierna, sedan görs en prioritering.
 
 Dessa kriterier ligger till grund för beräkningarna:
-1. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2
+1\. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2
 p.
 
 •  Anläggningen ligger nära en skola och är tillgänglig för allmänheten för olika aktiviteter,
@@ -4509,7 +4509,7 @@ Genomföra        barnkonsekvensanalys
 
 Ärendenummer: #168297 | Inskickat av: Sarah Lowry | 2024-10-31 10:34
 
-1. Introduktion/överblick
+1\. Introduktion/överblick
 
 Ange rubrik
 
@@ -4535,19 +4535,19 @@ DIREKT BERÖRDA GRUPPER AV BARN
 
 Barn och ungdomar som är aktiva i föreningar:
 
-- De påverkas direkt av förändringar i stöd och resurser till föreningarna, då det kan innebära
+\- De påverkas direkt av förändringar i stöd och resurser till föreningarna, då det kan innebära
 skillnader i träningsmöjligheter, tillgång till lokaler och kvalitén på verksamheten.
 
 Barn med någon form av funktionsnedsättning:
 
-- Då tillgänglighet och anpassningar för barn med funktionsnedsättning är en del av förslaget,
+\- Då tillgänglighet och anpassningar för barn med funktionsnedsättning är en del av förslaget,
 påverkas de direkt i fråga om hur väl idrottsanläggningar och föreningsverksamheter är
 
 tillgängliga och inkluderande.
 
 Barn med familjer med begränsade ekonomiska resurser:
 
-- Ungdomsbarometern 2023 anger att barn som har en sämre familjeekonomi är det allt färre
+\- Ungdomsbarometern 2023 anger att barn som har en sämre familjeekonomi är det allt färre
 som vänder sig till träning inom föreningsregi. Krav på medlemsavgifter kan påverka familjer
 med begränsade ekonomiska resurser, vilket kan leda till att vissa barn utestängs.
 
@@ -4555,12 +4555,12 @@ INDIREKT BERÖRDA GRUPPER AV BARN:
 
 Barn som inte är aktiva i föreningar men kan komma att delta:
 
-- Förbättrade resurser för föreningsliv kan öka tillgängligheten och attraktiviteten för de barn
+\- Förbättrade resurser för föreningsliv kan öka tillgängligheten och attraktiviteten för de barn
 som ännu inte är aktiva men som kan börja delta i framtiden.
 
 Barn i familjer där föräldrar är aktiva i föreningslivet:
 
-- Om föräldrar engagerar sig i föreningar som får stöd kan detta skapa positiva förebilder och
+\- Om föräldrar engagerar sig i föreningar som får stöd kan detta skapa positiva förebilder och
 indirekt förbättra barns sociala miljö och engagemang i aktiviteter.
 
 Fyll i dina kontaktuppgifter
@@ -4586,7 +4586,7 @@ Vem är mottagare av denna barnkonsekvensanalys
 
 Nämnden för Kultur och Fritid
 
-2. Kartläggning
+2\. Kartläggning
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -4669,7 +4669,7 @@ Revisionsrapport Föreningsbidrag Kalmar kommun.pdf (265 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-3. Fråga berörda barn
+3\. Fråga berörda barn
 
 Vad har berörda barn för synpunkter i frågan?
 
@@ -4679,7 +4679,7 @@ Detta kan påverka barns möjligheter att fortsätta sin föreningsverksamhet. S
 framkommer en stark önskan från barnen att kunna fortsätta utforska och delta i ett brett utbud
 av idrottsaktiviteter.
 
-4. Barnkonsekvensanalys
+4\. Barnkonsekvensanalys
 
 Redogör för vilka konsekvenser det blir för berörda barn, på lång och kort sikt,
 
@@ -4694,36 +4694,36 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 152 -->
 
-- Ökad insyn i föreningars användning av kommunala medel, med tydligare krav på att
+\- Ökad insyn i föreningars användning av kommunala medel, med tydligare krav på att
 resurserna direkt stöder aktiviteter för barn, kan medföra positiva effekter. Genom att
 öronmärka medel för barn- och ungdomsaktiviteter säkerställs att kommunens stöd direkt
 
 bidrar till barnens möjlighet att delta i föreningslivet och främjar ett rikt utbud av aktiviteter som
 stärker deras hälsa, sociala färdigheter och inkludering.
 
-- En tydligare prioritering av kommunala medel direkt för föreningsverksamhet riktad till barn,
+\- En tydligare prioritering av kommunala medel direkt för föreningsverksamhet riktad till barn,
 snarare än till anläggningar och lokaler, kan leda till flera positiva effekter. Genom att tydligare
 öronmärka medel till aktiviteter som direkt engagerar barn främjas ett ökat deltagande och ger
 fler möjligheter för barn och unga att utvecklas både socialt och fysiskt
 
-- Ökade kostnader för enskilda och familjer kan uppstå på kort sikt om föreningar inte anpassar
+\- Ökade kostnader för enskilda och familjer kan uppstå på kort sikt om föreningar inte anpassar
 sig och aktivt söker stöd inom den nya fördelningsmodellen.
 
-- Minskat aktivitetsutbud. Föreningar kan tvingas minska sitt utbud av aktiviteter eller i värsta
+\- Minskat aktivitetsutbud. Föreningar kan tvingas minska sitt utbud av aktiviteter eller i värsta
 fall stänga helt om de inte kan kompensera för minskat ekonomiskt stöd, vilket direkt påverkar
 barnens möjlighet att delta.
 
-- Minskad mångfald och inkludering. Föreningar som arbetar aktivt för inkludering kan behöva
+\- Minskad mångfald och inkludering. Föreningar som arbetar aktivt för inkludering kan behöva
 dra ner på insatser för att nå barn från socioekonomiskt utsatta grupper, vilket riskerar att
 förstärka sociala klyftor redan från tidig ålder.
 
-- Omfördelningen av medel innebär en ekonomisk förbättring för föreningar med högt beroende
+\- Omfördelningen av medel innebär en ekonomisk förbättring för föreningar med högt beroende
 av LOK-stöd, då LOK-stödet höjs. Detta stärker föreningarnas möjlighet att fortsatt erbjuda
 
 aktiviteter, vilket gynnar barnen genom ökad tillgänglighet och stabilitet i utbudet av
 fritidsaktiviteter.
 
-- Den antagliga ökade administrationen som åläggs föreningarna kan leda till negativa
+\- Den antagliga ökade administrationen som åläggs föreningarna kan leda till negativa
 konsekvenser för verksamhetens kvalitet och fokus. När föreningar tvingas ägna mer tid åt
 administrativa uppgifter kan det resultera i mindre tid och resurser för aktiviteter med barnen. I
 värsta fall kan detta leda till att vissa aktiviteter måste läggas ner, vilket direkt påverkar barnens
@@ -4732,18 +4732,18 @@ möjligheter till deltagande och gemenskap.
 
 LÅNG SIKT
 
-- Ökad insyn i föreningars användning av kommunala medel, med tydligare krav på att
+\- Ökad insyn i föreningars användning av kommunala medel, med tydligare krav på att
 resurserna direkt stöder aktiviteter för barn, kan medföra positiva effekter. Genom att
 öronmärka medel för barn- och ungdomsaktiviteter säkerställs att kommunens stöd direkt
 
 bidrar till barnens möjlighet att delta i föreningslivet och främjar ett rikt utbud av aktiviteter som
 stärker deras hälsa, sociala färdigheter och inkludering.
 
-- Den gamla stödmodellen gynnade vissa föreningar oproportionerligt, vilket i tur påverkar
+\- Den gamla stödmodellen gynnade vissa föreningar oproportionerligt, vilket i tur påverkar
 föreningsaktiva barns möjlighet till rättvist stöd. Den nya modellen ger ökade möjligheter till att
 skapa en mer jämlik resursfördelning så att fler barn får lika möjligheter att delta i föreningslivet.
 
-- Ökade ekonomiska konsekvenser för kommunen. Minskad föreningsaktivitet riskerar att leda
+\- Ökade ekonomiska konsekvenser för kommunen. Minskad föreningsaktivitet riskerar att leda
 till högre kostnader för kommunen i framtiden, särskilt genom ökat behov av socialt stöd och
 hälsovård om barnens tillgång till idrottsliv minskar.
 
@@ -4754,14 +4754,14 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 153 -->
 
-- Försämrad fysisk hälsa och folkhälsa. Om tillgången till idrottsaktiviteter minskar, riskerar
+\- Försämrad fysisk hälsa och folkhälsa. Om tillgången till idrottsaktiviteter minskar, riskerar
 barns fysiska hälsa att påverkas negativt, vilket på längre sikt kan leda till en generell försämring
 av folkhälsan i Kungsbacka. Vidare risk för långsiktigt utanförskap. Utebliven social interaktion
 
 och aktiviteter genom föreningslivet kan leda till känslor av utanförskap, sämre självkänsla och
 en övergripande negativ påverkan på barns psykiska hälsa.
 
-- Minskat lokalt engagemang och samhörighet. Ett aktivt föreningsliv bidrar till känslan av
+\- Minskat lokalt engagemang och samhörighet. Ett aktivt föreningsliv bidrar till känslan av
 gemenskap och engagemang i samhället. Om detta engagemang minskar, kan det påverka både
 barnens och familjernas känsla av samhörighet och tillhörighet till sin närmiljö.
 
@@ -4770,14 +4770,14 @@ på lång och kort sikt, utifrån beslutet i fråga.
 
 KORT SIKT
 
-- Under omställningsperioden behöver vissa föreningar, extra stöd för att hantera förändringen
+\- Under omställningsperioden behöver vissa föreningar, extra stöd för att hantera förändringen
 över tid. För att säkerställa att utbudet av föreningar för barn och unga inte minskar är det
 viktigt att införa lösningar som hjälper dessa föreningar att anpassa sig. Genom tillfälliga
 
 stödinsatser eller gradvisa förändringar kan vi skapa en stabil grund som underlättar
 övergången och bevarar barnens tillgång till ett brett utbud av föreningsaktiviteter.
 
-- Fortsätt med satsningar på att utveckla hållbara lösningar för föreningsaktiva att delta i
+\- Fortsätt med satsningar på att utveckla hållbara lösningar för föreningsaktiva att delta i
 samhällsnyttiga aktiviteter som samtidigt kan bidra till att täcka deras föreningskostnader.
 Genom ett initiativ där föreningslivet skapar strukturer för att engagera unga i samhällsinsatser
 
@@ -4786,7 +4786,7 @@ föreningsdeltagande delvis subventioneras. Detta både stärker deras engageman
 och gör föreningsdeltagande mer tillgängligt för alla familjer, oavsett ekonomiska
 förutsättningar.
 
-- För att minska konsekvenserna av den ökade administrationen på föreningar kan kommunen
+\- För att minska konsekvenserna av den ökade administrationen på föreningar kan kommunen
 tillhandahålla digitala verktyg för ansökningar, rapportering och kommunikation kan föreningar
 
 avlasta sina administrativa åtaganden och fokusera mer på aktiviteter med barnen. Dessutom
@@ -4796,7 +4796,7 @@ verksamheten.
 
 LÅNG SIKT
 
-- Införandet av en objektiv granskning av föreningsmedel skulle säkerställa att resurserna
+\- Införandet av en objektiv granskning av föreningsmedel skulle säkerställa att resurserna
 används som avsett, med fokus på barn- och ungdomsverksamhet. Genom en systematisk
 uppföljning kan kommunen garantera att stödet går direkt till aktiviteter som gynnar barn och
 unga, istället för andra ändamål inom föreningen. Detta bidrar till en mer transparent och
@@ -4810,16 +4810,16 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 <!-- sida 154 -->
 
-- Analysera skillnader mellan stadsdelar. Genomföra en grundläggande undersökning för att
+\- Analysera skillnader mellan stadsdelar. Genomföra en grundläggande undersökning för att
 förstå skillnaderna i aktiviteten bland barn och unga inom idrotten mellan olika stadsdelar.
 Undersök möjligheter till att upprätta/stödja föreningslivet i delar av Kungsbacka kommun med
 
 minskad utbud eller längre resväg till anläggningar eller förenings ytor
 
-- För att främja tillgänglighet och underlätta deltagande i föreningsverksamhet är det viktigt att
+\- För att främja tillgänglighet och underlätta deltagande i föreningsverksamhet är det viktigt att
 säkerställa att barn har trygga och enkla förbindelser till anläggningar och föreningsytor.
 
-- För att säkerställa en rättvis och jämlik omfördelning av föreningsstöd mellan olika föreningar i
+\- För att säkerställa en rättvis och jämlik omfördelning av föreningsstöd mellan olika föreningar i
 Kungsbacka kommun, är det avgörande att förslagen tar hänsyn till ett jämställdhetsperspektiv.
 Detta innebär att fördelningen av lokaler, tider och stöd bör ske på ett sätt som inte missgynnar
 
@@ -4827,7 +4827,7 @@ varken tjejer eller killar. Det är viktigt att analysera och utvärdera hur res
 påverka tillgången till aktiviteter för båda könen, samt att skapa strukturer som främjar
 deltagande från alla barn.
 
-- Tydlig beskrivning av inkludering. Föreningen ska ge en klar och detaljerad beskrivning av vad
+\- Tydlig beskrivning av inkludering. Föreningen ska ge en klar och detaljerad beskrivning av vad
 inkludering av olika målgrupper innebär i praktiken. Definition av målgrupper som ska
 
 inkluderas (t.ex. barn och unga från olika socioekonomiska bakgrunder, olika kulturella grupper,
@@ -4986,10 +4986,10 @@ bestånd/medier för de som väntar och längtar men inte kan ta sig till biblio
 biblioteket relevant för alla. Med bussen kan biblioteket nå prioriterade grupper samt
 3
 2   möjligheten att öka utbud och tillgänglighet till biblioteksverksamhet i Kungsbacka kommun
--
+\-
 5
 0   genom att kunna erbjuda biblioteksservice på mer flexibla sätt för att nå fler invånare vilket har
--
+\-
 2
 1   betydelse för demokratin. För att alla ska få tillgång till bibliotek krävs flexibla lösningar och för
 0
@@ -5014,7 +5014,7 @@ Kungsbacka kommun
 BESKRIV KONSEKVENSERNA
 2 (2)
 Varje steg ska utredas och eventuellt förkastas.
-1. Inga åtgärder. Om inget byte av fordon sker så försämras biblioteksservicen
+1\. Inga åtgärder. Om inget byte av fordon sker så försämras biblioteksservicen
 Kungsbackas invånare, främst utsatta grupper som beskrivits tidigare i
 behovsbeskrivningen.
 
@@ -5249,40 +5249,40 @@ bara en kostnad utan en investering i gemenskapens hälsa, kultur, ekonomi och f
 idrottsframgångar.                                                   2 (2)
 
 BESKRIV KONSEKVENSERNA
-1. Skola samt föreningsliv kan inte nyttja Tingbergsvallen på grund av att banorna är i så
+1\. Skola samt föreningsliv kan inte nyttja Tingbergsvallen på grund av att banorna är i så
 dåligt skick att det kan generera kroppsskador.
 
-2. Beläggningen är sliten och trasig och har släppt från underlaget på vissa ställen.
+2\. Beläggningen är sliten och trasig och har släppt från underlaget på vissa ställen.
 
-3. Det är sättningar på flera platser som gör att det bildas vattensamlingar.
-4. Radien på kurvorna följer inte standard. De är för tvära och när man bygger om bör
+3\. Det är sättningar på flera platser som gör att det bildas vattensamlingar.
+4\. Radien på kurvorna följer inte standard. De är för tvära och när man bygger om bör
 man undersöka om det går att åtgärda.
 
-5. Längdhoppsgroparna är för smala vilket gör att det kan vara farligt att hoppa i dem
+5\. Längdhoppsgroparna är för smala vilket gör att det kan vara farligt att hoppa i dem
 och längdhoppet blir då inte säkert.
 
-6. Ansatsbanan för längdhopp är sliten och trasig och flera av plankorna är inte i nivå
+6\. Ansatsbanan för längdhopp är sliten och trasig och flera av plankorna är inte i nivå
 med beläggningen, vilket är en skaderisk.
 
-7. Fotbollsplanen uppfyller inte sina mått, fattas tre meter.
-8. Kastburen är svår att hantera och har ett tungt nät som inte är anpassat för buren. Detta
+7\. Fotbollsplanen uppfyller inte sina mått, fattas tre meter.
+8\. Kastburen är svår att hantera och har ett tungt nät som inte är anpassat för buren. Detta
 
 innebär att det kan vara riskabelt att kasta. Dessutom är det tveksamt om stolparna är
 rätt placerade i förhållande till kastsektorn.
 
-9. Vattengraven läcker och beläggningen där är trasig.
-10. Det saknas belysning som gör att man kan förlänga säsongen.
+9\. Vattengraven läcker och beläggningen där är trasig.
+10\. Det saknas belysning som gör att man kan förlänga säsongen.
 
-11. Stavhoppsmattan är i minsta laget för att vara säker.
+11\. Stavhoppsmattan är i minsta laget för att vara säker.
 
-12. Fungerande dränering saknas i kastringarna.
-13. För kort kastsektor för kulstötning.
+12\. Fungerande dränering saknas i kastringarna.
+13\. För kort kastsektor för kulstötning.
 
-14. Asfaltsområden har nått sin livslängd, vilket resulterat i sprickor, deformationer som
+14\. Asfaltsområden har nått sin livslängd, vilket resulterat i sprickor, deformationer som
 kräver underhåll eller byte.
 
 SAMORDNINGSBEHOV
-15. MEX, teknik, fastighet, samhällsbyggnadskontoret, skola
+15\. MEX, teknik, fastighet, samhällsbyggnadskontoret, skola
 
 INVESTERINGSSVOLYM
 Krävs en förstudie för att se över hela anläggningen, Tingbergsvallen. Bedömningen i
@@ -5356,13 +5356,13 @@ KUNGSBACKA  KOMMUN
 
 BESKRIV KONSEKVENSERNA
 2 (2)
-1. Inga åtgärder
+1\. Inga åtgärder
 Våra besökare och gästspelande artister får en negativ upplevelse av leveransen vilket inte ger en
 bra erfarenhet från Kungsbacka, vilket kan påverka framtida intäkter för uthyrning till arrangörer.
 Ökade kostnader när den befintliga ljudanläggningen (PA) går sönder. Risken för detta ökar för
 varje år.
 
-2. Ny investering
+2\. Ny investering
 
 Ingen ökad löpande driftskostnad efter att inköp och installation är genomförd.
 Vi bidrar till att uppfylla målen om att leverera föreställningar av högsta kvalitet.
@@ -5482,7 +5482,7 @@ KUNGSBACKA  KOMMUN
 
 BESKRIV KONSEKVENSERNA
 
-1. Inga åtgärder
+1\. Inga åtgärder
 Om ingen konstnärlig gestaltning genomförs riskerar området att sakna identitet och förlora möjligheten
 att skapa en sammanhållen och inbjudande miljö. Det skulle kunna leda till minskad attraktionskraft för
 såväl invånare som besökare och missa chansen att skapa en tydlig profil för arenan och dess
@@ -5514,7 +5514,7 @@ ska vara en inspirerande och nytänkande kommun
 Att inte inkludera konst kan innebära förlorade möjligheter att ytterligare stärka kommunens
 attraktionskraft och engagemang för att uppnå visionens mål.
 
-2. Behovet åtgärdat
+2\. Behovet åtgärdat
 
 Om konstnärlig gestaltning genomförs måste praktiska frågor som budget, tillgänglighet, och drift av
 platsen också beaktas. Det finns därför behov av en tydlig ansvarsfördelning, budgetering för löpande
@@ -5626,7 +5626,7 @@ utveckling.
 
 BESKRIV KONSEKVENSERNA
 
-1. Inga åtgärder
+1\. Inga åtgärder
 Mindre offentlig konst i kommunens utomhusmiljö.
 
 Kungsbacka kommuns Vision 2030 betonar mångfald, livskvalitet, och samverkan mellan kultur och
@@ -5643,7 +5643,7 @@ kulturella landmärken som stödjer visionens målsättningar.
 inslag som stödjer social hållbarhet. Ett konstverk kan bidra till att skapa en plats för interaktion
 och reflektion, vilket i sin tur stärker det lokala samhället och dess trivsel
 
-2. Behovet åtgärdat
+2\. Behovet åtgärdat
 
 Om konstnärlig gestaltning genomförs måste praktiska frågor som budget, tillgänglighet, och drift av
 platsen också beaktas. Det finns därför behov av en tydlig ansvarsfördelning, budgetering för löpande
@@ -5794,7 +5794,7 @@ Kungsbacka    badhus   och  Fjärås simhall
 
 Beslutad i Kommunfullmäktige 11 juni 2019
 
-1.   Högsta avgiftsuttag 2020-01-01 – 2026-06-301
+1\.   Högsta avgiftsuttag 2020-01-01 – 2026-06-301
 
 1.1  Avgifter för allmänhetens bad
 
@@ -5843,7 +5843,7 @@ KUNGSBACKA  KOMMUN
 KUNGSBACKA  KOMMUN
 3 (4)
 
-1. 2 Avgifter för skolor, föreningar m.fl.
+1\. 2 Avgifter för skolor, föreningar m.fl.
 Gäller båda anläggningarna
 
 [Tabell 175-1](handlingar.tabeller/175-1.csv)
@@ -5872,48 +5872,48 @@ KUNGSBACKA  KOMMUN
 
 1.3     Övriga avgifter
 
-1. Driftoperatören får anordna simskoleverksamhet som egen verksamhet. Maximal avgift för
+1\. Driftoperatören får anordna simskoleverksamhet som egen verksamhet. Maximal avgift för
 deltagare får vara motsvarande 130 kr/tillfälle.
 
-2. Friskvård, folkhälsoarbete, på beställning av Kungsbacka kommun. Ersättning enligt avgift
+2\. Friskvård, folkhälsoarbete, på beställning av Kungsbacka kommun. Ersättning enligt avgift
 
 för skolbad/simskoleverksamhet för skolelever utgår då driftoperatör eller förening utför
 den specifika aktiviteten.
 
 1.4     Särskilt om föreningar
 
-1. Med förening menas bidragsberättigad förening i Kungsbacka kommun.
+1\. Med förening menas bidragsberättigad förening i Kungsbacka kommun.
 
-2. Förening får nyttja förråd i anläggningarna mot hyra (2018) 71 kr/m²/år, samt har tillgång
+2\. Förening får nyttja förråd i anläggningarna mot hyra (2018) 71 kr/m²/år, samt har tillgång
 till eget kontorsutrymme i plan 1 i Kungsbacka Badhus mot hyra (2018) 400 kr/m²/år. Dessa
 hyror följer Kungsbacka kommuns fasta avgifter för idrottsföreningar och får justeras av
 kommunen under perioden. Andrahands hyresavtal skrivs med förvaltningen för Kultur &
 
 Fritid.
 
-3. Tävlingsarrangör ska betala avgift till driftoperatören i samband med tävlingar.
+3\. Tävlingsarrangör ska betala avgift till driftoperatören i samband med tävlingar.
 Beräkningen av avgiften omfattar de timmar som en tävlingsaktivitet pågår, samt tiden för
 förberedelse- och efterarbetet som har direkt anknytning till tävlingen.
 
 1.5     Villkor för avgifterna
 
-1. Avgifterna ska tas ut av operatör och får inte överstiga nivåerna i denna villkorsbilaga.
+1\. Avgifterna ska tas ut av operatör och får inte överstiga nivåerna i denna villkorsbilaga.
 Operatör får underskrida dessa beloppen, samt erbjuda ytterligare rabatter.
 
-2. Avgifterna indexregleras årligen med höjningar motsvarande KPI/AKI. Detta sker för
+2\. Avgifterna indexregleras årligen med höjningar motsvarande KPI/AKI. Detta sker för
 
 första gången 2022-01-01.
-3. Avgifterna gäller från 2020-01-01 till och med 2026-06-30. Dock ska förutvarande
+3\. Avgifterna gäller från 2020-01-01 till och med 2026-06-30. Dock ska förutvarande
 
 avgifter gälla i båda anläggningarna tills det nya badhuset tas i bruk.
 
-2.   Övriga villkor för badhusverksamheten
+2\.   Övriga villkor för badhusverksamheten
 
-1.   Klippkort och årskort för Kungsbacka badhus gäller även i Fjärås simhall.
+1\.   Klippkort och årskort för Kungsbacka badhus gäller även i Fjärås simhall.
 
-2.   Årskort och klippkort skall gälla ett år från och med inköpsdatum och vara personliga.
+2\.   Årskort och klippkort skall gälla ett år från och med inköpsdatum och vara personliga.
 
-3.   Åldersgräns för relaxavdelningen är normalt 18 år. Dock ska viss del av öppettiden vara
+3\.   Åldersgräns för relaxavdelningen är normalt 18 år. Dock ska viss del av öppettiden vara
 familjerelax där det inte finns någon åldersgräns för barn i vuxens sällskap.
 
 <!-- sida 177 -->
@@ -5937,7 +5937,7 @@ Simhall som driftoperatören får ta ut.
 Priserna gäller inklusive mervärdesskatt från 2020-01-01 dock tidigast då det nya
 badhuset tas i bruk till och med 2026-06-30.
 
-1. 1 Priser för allmänhetens bad
+1\. 1 Priser för allmänhetens bad
 
 Expedierat/bestyrkt
 
@@ -5967,7 +5967,7 @@ Kommunfullmäktige               Datum
 priser gälla i båda anläggningarna tills det nya badhuset tas i bruk.”
 Priserna för gymbesök regleras separat och ingår inte i de allmänna priserna för bad.
 
-1. 2 Priser för skolor, föreningar m.fl.
+1\. 2 Priser för skolor, föreningar m.fl.
 Gäller båda anläggningarna
 
 Expedierat/bestyrkt
@@ -6007,10 +6007,10 @@ Kommunfullmäktige               Datum
 2019-06-11
 
 1.3 Övriga priser
-1. Driftoperatören får anordna simskoleverksamhet som egen verksamhet.
+1\. Driftoperatören får anordna simskoleverksamhet som egen verksamhet.
 Maximala priser för deltagare får vara motsvarande 130 kr/tillfälle.
 
-2. Friskvård, folkhälsoarbete, på beställning av Kungsbacka kommun.
+2\. Friskvård, folkhälsoarbete, på beställning av Kungsbacka kommun.
 Ersättning enligt priser för skolbad/simskoleverksamhet för skolelever
 utgår då driftoperatör eller förening utför den specifika aktiviteten.
 
@@ -6040,37 +6040,37 @@ Kommunfullmäktige               Datum
 2019-06-11
 
 1.4      Särskilt om föreningar
-1. Med förening menas bidragsberättigad förening i Kungsbacka kommun.
+1\. Med förening menas bidragsberättigad förening i Kungsbacka kommun.
 
-2. Förening får nyttja förråd i anläggningarna mot hyra (2018) 71 kr/m²/år,
+2\. Förening får nyttja förråd i anläggningarna mot hyra (2018) 71 kr/m²/år,
 samt har tillgång till eget kontorsutrymme i plan 1 i Kungsbacka Badhus
 mot hyra (2018) 400 kr/m²/år. Dessa hyror följer Kungsbacka kommuns
 fasta avgifter för idrottsföreningar och får justeras av kommunen under
 perioden. Andrahandshyresavtal skrivs med förvaltningen för Kultur &
 Fritid.
 
-3. Tävlingsarrangör ska betala ett pris till driftoperatören i samband med
+3\. Tävlingsarrangör ska betala ett pris till driftoperatören i samband med
 tävlingar. Beräkningen av priset omfattar de timmar som en
 tävlingsaktivitet pågår, samt tiden för förberedelse- och efterarbetet som
 har direkt anknytning till tävlingen.
 
 1.5      Prisvillkor
-1. Priserna ska tas ut av operatör och får inte överstiga nivåerna i denna
+1\. Priserna ska tas ut av operatör och får inte överstiga nivåerna i denna
 villkorsbilaga. Operatör får underskrida dessa beloppen, samt erbjuda
 ytterligare rabatter.
 
-2. Priserna indexregleras årligen med höjningar motsvarande KPI/AKI.
+2\. Priserna indexregleras årligen med höjningar motsvarande KPI/AKI.
 Detta sker för första gången 2022-01-01.
-3. Priserna gäller från 2020-01-01 till och med 2026-06-30. Dock ska
+3\. Priserna gäller från 2020-01-01 till och med 2026-06-30. Dock ska
 förutvarande priser gälla i båda anläggningarna tills det nya badhuset tas i
 bruk.
 
-2.  Övriga villkor för badhusverksamheten
-1. Klippkort och årskort för Kungsbacka badhus gäller även i Fjärås simhall.
+2\.  Övriga villkor för badhusverksamheten
+1\. Klippkort och årskort för Kungsbacka badhus gäller även i Fjärås simhall.
 
-2. Årskort och klippkort skall gälla ett år från och med inköpsdatum och
+2\. Årskort och klippkort skall gälla ett år från och med inköpsdatum och
 vara personliga.
-3. Åldersgräns för relaxavdelningen är normalt 18 år. Dock ska viss del av
+3\. Åldersgräns för relaxavdelningen är normalt 18 år. Dock ska viss del av
 öppettiden vara familjerelax där det inte finns någon åldersgräns för barn
 
 i vuxens sällskap.
@@ -6355,23 +6355,23 @@ Kungsbacka     badhus    och  Fjärås  simhall
 Villkor till förfrågningsunderlag vid upphandling av drift av badhus, Bilaga 3.
 
 Beslutade i Kommunfullmäktige 2025-03-xx Gäller avtalsperioden 2026-07-01 – 2033-06-30 (inkl. optionsperiod).
-1. Vid beräkning av högsta tillåtna avgifter gällande från 2026-07-01 skall indexregleringar som görs
+1\. Vid beräkning av högsta tillåtna avgifter gällande från 2026-07-01 skall indexregleringar som görs
 november 2025 gällande avgifter för 2026 inräknas.
 
-2. Avgifterna baseras på högsta tillåtna avgiftsnivå 2025, enligt dessa tabeller:
+2\. Avgifterna baseras på högsta tillåtna avgiftsnivå 2025, enligt dessa tabeller:
 
 Tabell 1, Avgifter för allmänhetens bad, Kungsbacka badhus
 Tabell 2, Avgifter för allmänhetens bad, Fjärås simhall
 Tabell 3, Avgifter för skolor, föreningar m.fl., båda anläggningarna
 
-3. Övriga avgifter
+3\. Övriga avgifter
 3.1 Driftoperatören får anordna simskoleverksamhet som egen verksamhet. Maximal avgift för
 deltagare är 150 kr/tillfälle.
 3.2 Folkhälsoarbete på beställning av Kungsbacka kommun. Ersättning enligt avgift för
 skolbad/simskoleverksamhet för skolelever erlägges om driftoperatör eller förening utför den
 specifika aktiviteten.
 
-4. Särskilt om föreningar
+4\. Särskilt om föreningar
 4.1 Med förening menas bidragsberättigad förening i Kungsbacka kommun.
 
 4.2 Förening får hyra förråd i anläggningarna samt kontorsutrymme i plan ett i Kungsbacka Badhus.
@@ -6381,14 +6381,14 @@ kommunen under perioden. Andrahandshyresavtal skrivs med förvaltningen för Kul
 avgiften omfattar de timmar som en tävlingsaktivitet pågår, samt tiden för förberedelse- och
 efterarbetet som har direkt anknytning till tävlingen.
 
-5. Villkor för avgifterna
+5\. Villkor för avgifterna
 5.1 Avgifterna ska tas ut av operatör och får inte överstiga nivåerna i denna villkorsbilaga. Operatör
 får underskrida dessa belopp, samt erbjuda ytterligare rabatter.
 5.2 Avgifterna får indexregleras årligen med höjningar motsvarande KPI/AKI. Indexregleringar görs i
 samarbete mellan beställare och operatör, på sätt som preciseras i avtalet.
 5.3 Avgifterna gäller från 2026-07-01– 2033-06-30, se dock regler för indexreglering.
 
-6. Övriga villkor för badhusverksamheten
+6\. Övriga villkor för badhusverksamheten
 6.1 Klippkort och årskort för Kungsbacka badhus gäller även i Fjärås simhall.
 6.2 Årskort och klippkort skall gälla ett år från och med inköpsdatum.
 6.3 Årskort ska vara personliga, för klippkort gäller inte detta krav.
@@ -6844,9 +6844,9 @@ kräver nämndens beslut. Förvaltningen återrapporterar och redovisar för nä
 hur verkställigheten bedrivits samt uppföljning av delegerade beslut.
 Delegeringen sker i två steg:
 
-1. Nämnden beslutar om delegeringsförteckning, där det framgår vad
+1\. Nämnden beslutar om delegeringsförteckning, där det framgår vad
 förvaltningschefen får delegera.
-2. Förvaltningschefens vidaredelegering, som tas efter nämndens beslut,
+2\. Förvaltningschefens vidaredelegering, som tas efter nämndens beslut,
 
 och anmäls för kännedom till nämnden.
 Beslutsunderlag
@@ -7244,16 +7244,16 @@ Sammanfattning av ärendet
 Information lämnas i följande:
 
 Budgetläget 2020 och framåt
-- information från kommunledningen
+\- information från kommunledningen
 Fortsatt politikerutbildning
-- denna gång information från förvaltningens ”Förenings- och
+\- denna gång information från förvaltningens ”Förenings- och
 förvaltningsstöd”
 
 Förvaltningschefen informerar i aktuella frågor
-- styrning och ledning, samarbetet mellan förtroendevalda och tjänstemän
-- lägesrapport föreningslivet
-- status på väckta frågor från nämnden
-- kundval Kulturskola, direktiv från nämnden för Kultur & Turism 2018
+\- styrning och ledning, samarbetet mellan förtroendevalda och tjänstemän
+\- lägesrapport föreningslivet
+\- status på väckta frågor från nämnden
+\- kundval Kulturskola, direktiv från nämnden för Kultur & Turism 2018
 
 Händer i Kungsbacka under mars 2019
 
@@ -7318,14 +7318,14 @@ Datum & Tid          2019-03-04 10:32:09 +01:00
 
 Identifikationstyp   Svensk e-legitimation
 
-Identifikations-id   _05fb87659e0a16b0cad8afe57f94c9b4eb
+Identifikations-id   \_05fb87659e0a16b0cad8afe57f94c9b4eb
 
 Namn                 Marie Charlotte Wadström
 
 Datum & Tid          2019-03-04 18:35:03 +01:00
 
 Identifikationstyp   Svensk e-legitimation
-Identifikations-id   _07d2064868d8c0ca61ec262f0db0eb4d58
+Identifikations-id   \_07d2064868d8c0ca61ec262f0db0eb4d58
 
 Validera dokumentet | Användarvillkor
 
@@ -8234,16 +8234,16 @@ Förvaltningen för Förskola & Grundskolas har tagit fram en målbild för
 förskolegårdar i Kungsbacka kommun som samverkar och delvis preciserar delar av
 de övergripande ledorden framtagna för konceptet:
 
-1. En attraktiv lekmiljö – en omtyckt plats som är intressant och trivsam.
-2. Sociala värden – en plats som bidrar till gemenskap och sociala möten och
+1\. En attraktiv lekmiljö – en omtyckt plats som är intressant och trivsam.
+2\. Sociala värden – en plats som bidrar till gemenskap och sociala möten och
 där barn växer genom det sociala samspelet.
 
-3. Kreativa värden – en plats som stimulerar till att fantasin flödar, och där barn
+3\. Kreativa värden – en plats som stimulerar till att fantasin flödar, och där barn
 kan påverka miljön och skapa med hjälp av löst material.
-4. Nya upptäckter – en sinnlig och spännande plats som väcker nyfikenheten
+4\. Nya upptäckter – en sinnlig och spännande plats som väcker nyfikenheten
 och utforskandets förtjusning.
 
-5. Rörelseglädje – en plats som stimulerar till aktivitet och ger barn och unga
+5\. Rörelseglädje – en plats som stimulerar till aktivitet och ger barn och unga
 möjlighet att utmana sig själva. Att testa, misslyckas och till slut bemästra.
 
 5.4  Skola
@@ -8766,7 +8766,7 @@ En sådan bok är extra angelägen nu när historieintresset genom bland annat S
 historia stärkts historieintresset påtagligt.
 
 Socialdemokraterna yrkar därför:
--  att kommunen låter framställa en lättillgänglig bok om kommunens historia
+\-  att kommunen låter framställa en lättillgänglig bok om kommunens historia
 
 Per Gunnarsson (S)
 
@@ -8852,7 +8852,7 @@ kommunen, skyltar, skulpturer m.m.
 
 Socialdemokraterna yrkar därför:
 
--  Att kulturförvaltningen gör en plan för hur man kan synliggöra vår historia i offentliga lokaler
+\-  Att kulturförvaltningen gör en plan för hur man kan synliggöra vår historia i offentliga lokaler
 och i de offentliga rummen.
 
 Per Gunnarsson (S)
@@ -8959,7 +8959,7 @@ göra genom att belysa vår historia.
 
 Socialdemokraterna yrkar därför:
 
--  att kommunen presenterar en plan över hur kommunen mer aktivt vill arbeta för att lyfta
+\-  att kommunen presenterar en plan över hur kommunen mer aktivt vill arbeta för att lyfta
 kunskapen om den hittills glömda tidiga historia
 
 Per Gunnarsson (S)

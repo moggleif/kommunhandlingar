@@ -69,7 +69,7 @@ Maria Ädel, MAS
 Jens Ingelsäter, utvecklingsledare
 
 Personalföreträdare           Övriga
--                             Peter Landin, VD, Qvalify AB, § 23
+\-                             Peter Landin, VD, Qvalify AB, § 23
 
 Magdalena Sundqvist (S)
 oppositionsråd
@@ -515,29 +515,29 @@ och uppföljning av åtgärder inom nio områden.
 Komplettering av redovisning har skett av vidtagna och planerade åtgärder inom
 områden:
 
--  kontinuitet
--  dokumentation av läkemedelsgenomgång
+\-  kontinuitet
+\-  dokumentation av läkemedelsgenomgång
 
--  dokumentation av brytpunktssamtal
--  att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets
+\-  dokumentation av brytpunktssamtal
+\-  att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets
 slutskede utan förnyad kontakt med läkare
 
 Komplettering av redovisning har skett av effekt och uppföljning inom områden:
--  vård- och omsorgspersonalens kompetens
+\-  vård- och omsorgspersonalens kompetens
 
--  vård- och omsorgspersonalens brister i svenska språket
+\-  vård- och omsorgspersonalens brister i svenska språket
 
--  sjuksköterskans förutsättningar bedöma patientens hälsotillstånd/handleda
+\-  sjuksköterskans förutsättningar bedöma patientens hälsotillstånd/handleda
 vård- och omsorgspersonal
--  läkartillgång/läkarmedverkan
+\-  läkartillgång/läkarmedverkan
 
--  dokumentation
--  kontinuitet
+\-  dokumentation
+\-  kontinuitet
 
--  delegering
--  genomförande/dokumentation av läkemedelsgenomgång
+\-  delegering
+\-  genomförande/dokumentation av läkemedelsgenomgång
 
--  att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets
+\-  att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets
 slutskede utan förnyad kontakt med läkare
 Redovisningen ska komma in till IVO senast 15 mars 2024.
 
@@ -697,7 +697,7 @@ Omtanke Halland.
 Inom Vård & Omsorgs verksamheter pågår ett positivt och hälsofrämjande arbete.
 Framför allt på vård- och omsorgsboende med alla aktiviteter som anordnas.
 Förebyggandeenheten har startat upp i samband med omorganisationen i januari
-2023. Det förvaltningen kan se är att medarbetarna behöver mer kompetenshöjande
+2023\. Det förvaltningen kan se är att medarbetarna behöver mer kompetenshöjande
 
 insatser inom området förebyggande och rehabilitering. Området inkluderas delvis i
 projekt Utbildningsteam under 2024.
@@ -981,12 +981,12 @@ Beslut
 Nämnden för Vård & Omsorg bifaller initiativet och ger förvaltningschefen i
 uppdrag att:
 
-1. Genomföra en utredning för att kartlägga behoven och resurserna för att
+1\. Genomföra en utredning för att kartlägga behoven och resurserna för att
 etablera en sådan avdelning på Signeshus.
-2. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre
+2\. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre
 personer.
 
-3. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om
+3\. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om
 möjligt privata donationer.
 
 Sammanfattning av ärendet
@@ -1033,13 +1033,13 @@ Datum
 forts. § 24
 
 Förslag till nämnden:
-1. Genomföra en utredning för att kartlägga behoven och resurserna för att
+1\. Genomföra en utredning för att kartlägga behoven och resurserna för att
 etablera en sådan avdelning på Signeshus.
 
-2. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre
+2\. Samråd med experter inom kognitiv svikt, särskilt med inriktning på yngre
 personer.
 
-3. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om
+3\. Identifiera potentiella finansieringskällor, inklusive statliga bidrag och om
 möjligt privata donationer.
 
 Beslutsunderlag
@@ -1601,6 +1601,6 @@ Datum
 § 33                       Dnr VO-2024-00007
 Information från ledamöter, februari 2024
 
--
+\-
 
 Expedierat/bestyrkt

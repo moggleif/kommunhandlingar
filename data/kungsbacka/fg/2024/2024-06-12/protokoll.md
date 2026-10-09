@@ -227,13 +227,13 @@ Helen Thylin (S) reserverar sig reserverar sig till förmån för eget förslag.
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
 egenavgift för tolktjänst efter 3 år i landet kan införas.
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
 uteblivit utan att avboka tiden, ska tolkavgiften bekostas av den enskilde även om
 denne haft sin hemvist i landet kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
 uteblivit utan att avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden
@@ -366,10 +366,10 @@ i maj respektive september tillsammans med ekonom, HR-specialist och
 verksamhetschef. Månadsvis uppföljning sker på pedagogisk områdesnivå samt för
 varje rektors ansvarsområde för att säkerställa att planerade åtgärder genomförs.
 Åtgärder som görs i de pedagogiska områdena är sammanfattningsvis:
-- Justeringar i skolors och förskolors inre organisationer utifrån tjänsteplanering samt
+\- Justeringar i skolors och förskolors inre organisationer utifrån tjänsteplanering samt
 antal barn och elever.
 
-- Allmän sparsamhet vad gäller övriga kostnader, såsom materialinköp, fortbildning
+\- Allmän sparsamhet vad gäller övriga kostnader, såsom materialinköp, fortbildning
 och representation.
 
 Förvaltningen arbetar med resursoptimering av förvaltningens centrala organisation
@@ -636,21 +636,21 @@ Nämnden för Förskola & Grundskola har tagit del av informationen och anteckna
 informationen i protokollet.
 
 Sammanfattning av ärendet
--  Resultat av elevenkäter åk 2,5 och 8. Redovisning av ett urval av resultaten
+\-  Resultat av elevenkäter åk 2,5 och 8. Redovisning av ett urval av resultaten
 och jämförelse med GR-regionen.
 
--  Skolinspektionens kvalitetsgranskning i Kungsbacka. Sex skolenheter har
+\-  Skolinspektionens kvalitetsgranskning i Kungsbacka. Sex skolenheter har
 ingått som en del i tillsynsmyndighetens regelbundna granskning.
 Förvaltningen återkopplar kring de resultat som hittills inkommit och
 processen framåt.
--  Information om förvaltningens arbete med innovation. Redogörelse för
+\-  Information om förvaltningens arbete med innovation. Redogörelse för
 processer och skarpa initiativ för att skapa bättre kvalitet och förutsättningar
 
 för undervisning och utbildning för barn och elever med siktet på framtidens
 välfärdsutmaningar.
--  Rapport skolmat
+\-  Rapport skolmat
 
--  Information om gemensamt initiativ till ökat samarbete från
+\-  Information om gemensamt initiativ till ökat samarbete från
 förvaltningscheferna inom förskola- och grundskola, gymnasium och
 arbetsmarknad, individ och familjeomsorg samt kultur och fritid.
 

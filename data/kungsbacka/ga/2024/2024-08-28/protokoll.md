@@ -439,19 +439,19 @@ de skäl Kungsbacka kommun inte godkänner vid elevområdesprövning.
 Sammanfattning av ärendet
 Förslag till godkända skäl:
 
-1) En av vårdnadshavarna bor i Kungsbacka kommun
-2) Eleven har sjukvård, annan långvarig viktig sjukvårdskontakt eller liknande i
+1\) En av vårdnadshavarna bor i Kungsbacka kommun
+2\) Eleven har sjukvård, annan långvarig viktig sjukvårdskontakt eller liknande i
 
 Kungsbacka
-3) Elever från Frillesåsskolan vars restid ökar med 30 min enkel resväg
+3\) Elever från Frillesåsskolan vars restid ökar med 30 min enkel resväg
 
-4) Eleven bor i en annan kommun men går/har gått i Kungsbackas kommunala
+4\) Eleven bor i en annan kommun men går/har gått i Kungsbackas kommunala
 grundskola
-5) Medicinskt eller psykosocialt skäl tex att eleven har ångest och vill byta miljö
+5\) Medicinskt eller psykosocialt skäl tex att eleven har ångest och vill byta miljö
 
 Förslag till icke godtagbara skäl:
 
-1) Rent generellt så gäller att intresse inte är ett särskilt skäl, t ex ett idrottsintresse
+1\) Rent generellt så gäller att intresse inte är ett särskilt skäl, t ex ett idrottsintresse
 eller ”jag tycker skolan är mysig”. Däremot så har överklagandenämnden sagt att
 idrott på högsta elitnivå kan vara ett särskilt skäl, det fallet kom ganska nyligen,
 innan har alla idrottsskäl avslagits. Skälet – ”ni har en profil jag gillar” – ska avslås.
@@ -904,11 +904,11 @@ Sammanfattning av ärendet
 3 & 4. Uppföljning och prognos april 2024
 5 & 6 Kommunbudget 2025, plan 2026-2027
 
-8. Skolinspektionen beslut enhet 4, Aranäsgymnasiet
+8\. Skolinspektionen beslut enhet 4, Aranäsgymnasiet
 9 & 10. Skolinspektionens tematisk kvalitetsgranskning av studie- och
 yrkesvägledningen i Kungsbacka
 
-11. Skolinspektionens dag 29 november
+11\. Skolinspektionens dag 29 november
 
 Beslutsgång
 

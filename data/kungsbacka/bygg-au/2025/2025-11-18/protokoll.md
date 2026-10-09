@@ -259,13 +259,13 @@ Kommunfullmäktige beslutade 2025-06-16 att fastställa kommunövergripande mål
 som utgångspunkt för nämndens arbete med verksamhetsplanering. I
 verksamhetsplanen ingår bland annat.
 
-* Nämndens övergripande inriktning för arbetet i förvaltningen
-* Nämndmål
+\* Nämndens övergripande inriktning för arbetet i förvaltningen
+\* Nämndmål
 
-* Nämndens direktiv till förvaltningen
-* Ramfördelning driftbudget
+\* Nämndens direktiv till förvaltningen
+\* Ramfördelning driftbudget
 
-* Investeringsbudget
+\* Investeringsbudget
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser i arbetet med
 nämndbudget fatta beslut om verksamhetsplan och ramfördelning. Till ärendet
 bifogas nämndbudget 2026.
@@ -337,11 +337,11 @@ kommunernas kostnadsutveckling. För oktober 2025 är PKV 0,7 procent. Denna
 Taxetabell A22-23 är kopplad till milliprisbasbelopp, mbpp. Prisbasbeloppet ökar
 från 58 800 kronor 2025 till 59 200 kronor 2026, vilket motsvarar en ökning med 0,7
 procent. Bygg- och miljöförvaltningen föreslår att Byggnadsnämnden:
-* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
+\* Beslutar att justera handläggningskostnad (A) per timme i taxa för Kungsbacka
 kommuns plan- och byggverksamhet från 1 391 kronor per timme till 1 400 kronor
 per timme i enlighet med punkt fyra i taxans bestämmelser.
 
-* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
+\* Beslutar att justera beloppen i tabell A1-23 i enlighet med justerad
 handläggningskostnad per timme (A1-21) samt prisbasbelopp för 2026 (A22-23) i
 enlighet med punkt fyra i taxan.
 
@@ -356,7 +356,7 @@ Byggnadsnämndens arbetsutskott
 Datum
 2025-11-18
 
-* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
+\* Den justerade handläggningskostnaden per timme samt justerade belopp i tabell
 A1-23 gäller från och med 1 januari 2026.
 Förvaltningen beräknar att indexjusteringen motsvarar en intäktsökning på cirka 100
 000 kronor baserat på preliminär budget för 2026. De nya beloppen framgår av
@@ -576,7 +576,7 @@ Byggnadsnämndens arbetsutskott gav den 20 juni 2024 samhällsbyggnadskontoret i
 uppdrag att upprätta detaljplan för skola inom Åsa 5:246 och Åsa 4:142.
 
 Planförslaget har varit utställt för granskning under tiden 19 augusti – 12 september
-2025. Under granskningstiden inkom 16 skrivelser. Inkomna synpunkter berör i
+2025\. Under granskningstiden inkom 16 skrivelser. Inkomna synpunkter berör i
 huvudsak Inkomna synpunkter berör i huvudsak att skolan blir för hög för att passa
 in i Åsas bebyggelsestruktur samt att skolan försämrar dagsljusförhållandena för
 intilliggande fastighet i öster. Se vidare i granskningsutlåtandet.
@@ -1399,10 +1399,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
-1. inte strider mot områdesbestämmelser,
+1\. inte strider mot områdesbestämmelser,
 
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
@@ -1949,10 +1949,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Enligt 12 kap. 8 a § PBL ska en avgift som tas ut för prövning att förhandsbesked
@@ -2374,10 +2374,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 Enligt 2 kap. 1 § PBL Vid prövningen av frågor enligt denna lag ska hänsyn tas till
@@ -2623,7 +2623,7 @@ Fastigheten omfattas av riksintresse för friluftsliv (3 kap. 6 § Miljöbalken
 
 MB) och i den norra delen av fastigheten av riksintresse för naturvård (3 kap. MB).
 Direkt väster om fastigheten finns område med naturreservat och skydd enligt Natura
-2000.
+2000\.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: B8C65711D6C40402FD8903E2C6A632209526F84BD6
@@ -3266,7 +3266,7 @@ Beslutsmotivering
 
 Enligt plan- och bygglagen 9 kap 30 § (PBL, SFS 2010:900) ska bygglov ges för en
 åtgärd inom ett område med detaljplan, om
-1. den fastighet och det byggnadsverk som åtgärden avser
+1\. den fastighet och det byggnadsverk som åtgärden avser
 
 a) överensstämmer med detaljplanen, eller
 b) avviker från detaljplanen men avvikelsen har godtagits vid en tidigare
@@ -3274,11 +3274,11 @@ bygglovsprövning enligt denna lag eller äldre bestämmelser eller vid en
 
 fastighetsbildning enligt 3 kap. 2 § första stycket andra meningen
 fastighetsbildningslagen (1970:988),
-2. åtgärden inte strider mot detaljplanen,
+2\. åtgärden inte strider mot detaljplanen,
 
-3. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
+3\. åtgärden inte måste avvakta att genomförandetiden för detaljplanen börjar löpa,
 och
-4. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
+4\. åtgärden uppfyller de krav som följer av 2 kap. 6 § första stycket 1 och 5, 6 §
 tredje stycket, 8 och 9 §§ samt 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9-11 §§, 12 §
 
 första stycket, 13, 17 och 18 §§.

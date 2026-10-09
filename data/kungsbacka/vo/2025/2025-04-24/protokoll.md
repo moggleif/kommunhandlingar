@@ -121,14 +121,14 @@ Beslut
 Nämnden för Vård & Omsorg godkänner utredning Samverkansavtal för gemensam
 nämnd för hemsjukvård och hjälpmedel, med följande tillägg.
 
--  1.6, andra närliggande frågor ska specificeras och uppdateras vad det är.
+\-  1.6, andra närliggande frågor ska specificeras och uppdateras vad det är.
 Nämndens uppdrag har breddats sedan dess införande och samverkansavtalet
 ska spegla de nya områdena som nämnden har.
--  4.3, det bör vara tydligare hur beslut om att kommunala resurser deltar i
+\-  4.3, det bör vara tydligare hur beslut om att kommunala resurser deltar i
 arbetet går till. Alltså hur sådana beslut tas och vilken instans som bestämmer
 det. Risk finns annars för godtycklighet.
 
--  7.2, sammansättningen i nämnden bör vara baserad på position och inte på
+\-  7.2, sammansättningen i nämnden bör vara baserad på position och inte på
 regionfullmäktiges sammansättning. Det bör vara att det är ordförande samt
 andre vice ordförande i relevanta regionala nämnder och styrelser samt
 motsvarigheten från kommunerna. Eftersom detta är en samverkansnämnd
@@ -137,10 +137,10 @@ kräver en acceptans från 2/3 delar av regionfullmäktige och
 
 kommunfullmäktige men med tanke på nämndens natur är det svårt att se att
 detta inte skulle accepteras.
--  8.1, den gemensamma nämnden bör även i denna paragraf lyfta hur arbetet
+\-  8.1, den gemensamma nämnden bör även i denna paragraf lyfta hur arbetet
 med 1.7, ska göras om hemsjukvård och övervakning av det.
 
--  16.1, Det behöver bli tydligare vad strukturen för samverkan och beredning är
+\-  16.1, Det behöver bli tydligare vad strukturen för samverkan och beredning är
 samt vilket dokument som hänvisas till i den paragrafen.
 Utöver detta bör det bli ett avtal som löper gemensamt som innehåller trygg och
 effektiv utskrivning samt hemsjukvård och att dessa avtal följs upp, revideras och
@@ -195,15 +195,15 @@ Reglemente för gemensam nämnd för hjälpmedel och hemsjukvård
 Förslag till beslut på sammanträdet
 
 Hravn Forsne (M) yrkar bifall till förslaget med följande tillägg:
--  1.6 andra närliggande frågor ska specificeras och uppdateras vad det är.
+\-  1.6 andra närliggande frågor ska specificeras och uppdateras vad det är.
 Nämndens uppdrag har breddats sedan dess införande och samverkansavtalet
 ska spegla de nya områdena som nämnden har.
 
--  4.3 det bör vara tydligare hur beslut om att kommunala resurser deltar i
+\-  4.3 det bör vara tydligare hur beslut om att kommunala resurser deltar i
 arbetet går till. Alltså hur sådana beslut tas och vilken instans som bestämmer
 det. Risk finns annars för godtycklighet.
 
--  7.2 sammansättningen i nämnden bör vara baserad på position och inte på
+\-  7.2 sammansättningen i nämnden bör vara baserad på position och inte på
 regionfullmäktiges sammansättning. Det bör vara att det är ordförande samt
 andre vice ordförande i relevanta regionala nämnder och styrelser samt
 motsvarigheten från kommunerna. Eftersom detta är en samverkansnämnd
@@ -212,10 +212,10 @@ kräver en acceptans från 2/3 delar av regionfullmäktige och
 kommunfullmäktige men med tanke på nämndens natur är det svårt att se att
 detta inte skulle accepteras.
 
--  8.1 den gemensamma nämnden bör även i denna paragraf lyfta hur arbetet
+\-  8.1 den gemensamma nämnden bör även i denna paragraf lyfta hur arbetet
 med 1.7 ska göras om hemsjukvård och övervakning av det.
 
--  16.1 Det behöver bli tydligare vad strukturen för samverkan och beredning är
+\-  16.1 Det behöver bli tydligare vad strukturen för samverkan och beredning är
 samt vilket dokument som hänvisas till i den paragrafen
 
 Det här dokumentet är digitalt signerat

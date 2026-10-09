@@ -191,7 +191,7 @@ Ledningssystemts  uppbyggnad
 
 Planera
 
-1. Processer och rutiner
+1\. Processer och rutiner
 Processer är ett verktyg för att kunna driva verksamheten på ett enhetligt sätt och
 erbjuda likvärdig och rättssäker service med hög delaktighet för de vi är till för.
 
@@ -202,7 +202,7 @@ Stratsys. Här gör förvaltningen riskanalyser utifrån följsamhet till proces
 aktiviteterna. Varje enhet kan hantera sina identifierade risker och brister genom att
 införa åtgärder eller egenkontroller för att utveckla och säkra sin verksamhet.
 
-2. Styrande och stödjande dokument
+2\. Styrande och stödjande dokument
 Förvaltningen ska ha riktlinjer, handböcker och rutiner som styr verksamheten.
 Dessa ska vara kända och ändamålsenliga. Riktlinjer och handböcker grundar sig
 på aktuell lagstiftning samt av Socialstyrelsen utfärdade föreskrifter och allmänna
@@ -216,7 +216,7 @@ Kungsbacka kommun     Riktlinje Ledningssystem för systematiskt kvalitetsarbete
 För mer information om styrande dokument, exempelvis vem som beslutar om
 rutiner, se kommunens Riktlinjer för styrdokument.
 
-3. Samverkan
+3\. Samverkan
 
 Verksamheterna ska identifiera processer där samverkan behövs för att säkra
 kvaliteten på de insatser som ges i verksamheten. Ett syfte med samverkan är att
@@ -225,7 +225,7 @@ omsorg. Genom att samordna resurser från flera professioner skapas en ökad
 trygghet för den enskilde. I en verksamhet ska det finnas forum för samverkan för att
 täcka de behov av samordning och informationsöverföring som uppstår.
 
-4. Riskanalys
+4\. Riskanalys
 
 Riskanalyser syftar till att bygga bra och tydliga processer med inbyggda kontroller
 och nödvändiga rutiner. Ansvarig chef ansvarar för och initierar genomförandet av
@@ -234,11 +234,11 @@ Ansvarig chef ska fortlöpande bedöma om det finns risk för att händelser sku
 kunna inträffa som kan medföra brister i verksamhetens kvalitet. Riskanalys ska
 
 genomföras då:
--  brister eller risk för brister i verksamhetens kvalitet uppmärksammas
--  nya metoder och behandlingar införs
--  förändringar av inriktning på verksamheten genomförs
--  förändringar i personalbemanning
--  andra förändringar som planeras som kan påverka kvaliteten för brukaren
+\-  brister eller risk för brister i verksamhetens kvalitet uppmärksammas
+\-  nya metoder och behandlingar införs
+\-  förändringar av inriktning på verksamheten genomförs
+\-  förändringar i personalbemanning
+\-  andra förändringar som planeras som kan påverka kvaliteten för brukaren
 
 En gång per år ska en riskanalys genomföras av ansvarig chef på alla nivåer för att
 identifiera och värdera risker utifrån verksamhetens processer. I samband med
@@ -247,7 +247,7 @@ dess konsekvenser
 
 Genomföra
 
-1. Personalens medverkan
+1\. Personalens medverkan
 All personal är inom sin verksamhet skyldig att arbeta enligt de processer och
 rutiner som ingår i ledningssystemet, bidra till att hög säkerhet upprätthålls och
 
@@ -264,21 +264,21 @@ Kungsbacka kommun     Riktlinje Ledningssystem för systematiskt kvalitetsarbete
 
 <!-- sida 7 -->
 
-2. Klagomål – och synpunktshantering
+2\. Klagomål – och synpunktshantering
 
 Verksamheten ska ta emot och utreda klagomål och synpunkter på verksamhetens
 kvalitet för att kunna planera och genomföra åtgärder. Inkomna klagomål och
 synpunkter ska sammanställas och analyseras så att mönster eller trender som
 indikerar brister i verksamhetens kvalitet kan synliggöras och åtgärdas.
 
-3. Rapporteringsskyldighet
+3\. Rapporteringsskyldighet
 
 Alla som arbetar i socialtjänsten och i verksamheter enligt LSS är skyldiga att
 rapportera missförhållanden och påtagliga risker för missförhållanden enligt lex
 Sarah. All personal ska även rapportera när det händer något som avviker mot
 normal rutin och som innebär minskad kvalitet för brukarna.
 
-4. Händelserapportering
+4\. Händelserapportering
 
 Förvaltningen har en riktlinje för händelserapportering som beskriver hur
 rapportering och utredning av händelser ska gå till och vem som ansvarar för vad.
@@ -290,7 +290,7 @@ Syftet med händelserapportering är att förebygga att något händer och att v
 åtgärder om något har hänt så att något liknande inte händer igen. Det skapar
 förutsättningar för en god kvalitet och ger ett bra skydd för de vi är till för.
 
-5. Dokumentationsskyldighet
+5\. Dokumentationsskyldighet
 
 Arbetet med att systematiskt och fortlöpande utveckla och säkra verksamhetens
 kvalitet ska dokumenteras och med dokumentationen som utgångspunkt ska en
@@ -2874,7 +2874,7 @@ ersättningen till fristående gymnasieskolor för 2026.
 
 Upplysning
 Beslut fattat med stöd av delegering. Gymnasium & Arbetsmarknad delegeringsförteckning: punkt
-2.1.1, 2025-12-18, $ 152.
+2.1.1, 2025-12-18, \$ 152.
 
 Sammanfattning av ärendet
 
@@ -3017,16 +3017,16 @@ Koordinator), Pernilla Kallepruun (lärare Aranäsgymnasiet), Vanja Winroth Lohm
 (Enhetschef kommunikation och kompetensförsörjning VO), Jan Eric Knutas (L,
 förtroendevald, ordförande), Malin Edefors (lärare Aranäsgymnasiet)
 
-$1 Mötets öppnande
+\$1 Mötets öppnande
 Ordförande Jan Eric Knutas välkomnar och inleder mötet.
 Presentationsrunda.
 
-$2 Val av sekreterare och justerare:
+\$2 Val av sekreterare och justerare:
 
 Sekretere: Malin Edefors
 Justerare: Emilia Löfberg
 
-$3 Föregående protokoll
+\$3 Föregående protokoll
 
 Dan Sadé återkopplar. Matersättningsfrågan är ständigt en aktuell
 kopplat till ökade matkostnader i samhället.
@@ -3062,7 +3062,7 @@ www.aranasgymnasiet.kungsbacka.se
 
 <!-- sida 84 -->
 
-$4
+\$4
 
 KUNGSBACKA KOMMUN
 
@@ -3124,7 +3124,7 @@ Lärlingsprogrammet, Lindälvs gymnasium:
 
 <!-- sida 85 -->
 
-$5
+\$5
 
 86
 
@@ -3205,17 +3205,17 @@ med Äldreomsorgslyftet för IF-personal. Det finns generellt ett ökat
 intresse för utbildning till stödassistent. Språkombudsutbildning startar
 till hösten.
 
-$7 APL
+\$7 APL
 Alla vill hitta en lösning! Se tidigare punkter.
 Dubbelt så många elever behöver få sjukvårdsplatser till hösten i GR.
 Det är ett problem för praktikplatsen.se att lösa.
-$8 Arbetsmarknadsläget
+\$8 Arbetsmarknadsläget
 Ingen representant.
-$9 Övriga frågor
+\$9 Övriga frågor
 Inga övriga frågor
-$10 Nästa möte
+\$10 Nästa möte
 Onsdag 14 oktober 13.00 Lindälvs gymnasium
-$l1 Mötet avslutas
+\$l1 Mötet avslutas
 Ordförande avslutar mötet
 Sekreterare:
 A VÄ 5 gt / /
@@ -3749,21 +3749,21 @@ Sverige AB (org.nr 556257-5786) som huvudman för Praktiska Gymnasiet
 Kungsbacka (skolenhetskod 23457902) i Kungsbacka kommun.
 Genom återkallelsen upphör följande delar av godkännandet den 27 augusti
 2010 (dnr 2010:3293) för gymnasieskola avseende:
--  bygg och anläggningsprogrammet inriktningarna mark och
+\-  bygg och anläggningsprogrammet inriktningarna mark och
 anläggning, måleri samt byggnadsplåtslageri,
--  el- och energiprogrammet inriktningarna automationsteknik,
+\-  el- och energiprogrammet inriktningarna automationsteknik,
 dator- och kommunikationsteknik samt energiteknik,
--  VVS- och fastighetsprogrammet inriktningarna fastighet, kyl- och
+\-  VVS- och fastighetsprogrammet inriktningarna fastighet, kyl- och
 värmepumpsteknik samt ventilation,
--  fordons- och transportprogrammet inriktningarna
+\-  fordons- och transportprogrammet inriktningarna
 fordonsskadeteknik och lackering, lastbil och mobila maskiner,
 personbil samt transport,
--  naturbruksprogrammet inriktningarna lantbruk samt trädgård.
--  hotell- och turismprogrammet samt
--  barn-och fritidsprogrammet inriktning fritid och hälsa.
+\-  naturbruksprogrammet inriktningarna lantbruk samt trädgård.
+\-  hotell- och turismprogrammet samt
+\-  barn-och fritidsprogrammet inriktning fritid och hälsa.
 Genom återkallelsen upphör följande delar av godkännandet den 20 januari
 2021 (dnr 2020:6665) för gymnasieskola avseende:
--  naturbruksprogrammet inriktningarna hästhållning, naturturism
+\-  naturbruksprogrammet inriktningarna hästhållning, naturturism
 samt skogsbruk.
 
 Praktiska Sverige AB har inte rätt till bidrag från elevernas hemkommuner
@@ -4083,16 +4083,16 @@ Koordinator), Pernilla Kallepruun (lärare Aranäsgymnasiet), Vanja Winroth Lohm
 (Enhetschef kommunikation och kompetensförsörjning VO), Jan Eric Knutas (L,
 förtroendevald, ordförande), Malin Edefors (lärare Aranäsgymnasiet)
 
-$1 Mötets öppnande
+\$1 Mötets öppnande
 Ordförande Jan Eric Knutas välkomnar och inleder mötet.
 Presentationsrunda.
 
-$2 Val av sekreterare och justerare:
+\$2 Val av sekreterare och justerare:
 
 Sekretere: Malin Edefors
 Justerare: Emilia Löfberg
 
-$3 Föregående protokoll
+\$3 Föregående protokoll
 
 Dan Sadé återkopplar. Matersättningsfrågan är ständigt en aktuell
 kopplat till ökade matkostnader i samhället.
@@ -4128,7 +4128,7 @@ www.aranasgymnasiet.kungsbacka.se
 
 <!-- sida 109 -->
 
-$4
+\$4
 
 KUNGSBACKA KOMMUN
 
@@ -4190,7 +4190,7 @@ Lärlingsprogrammet, Lindälvs gymnasium:
 
 <!-- sida 110 -->
 
-$5
+\$5
 
 86
 
@@ -4271,17 +4271,17 @@ med Äldreomsorgslyftet för IF-personal. Det finns generellt ett ökat
 intresse för utbildning till stödassistent. Språkombudsutbildning startar
 till hösten.
 
-$7 APL
+\$7 APL
 Alla vill hitta en lösning! Se tidigare punkter.
 Dubbelt så många elever behöver få sjukvårdsplatser till hösten i GR.
 Det är ett problem för praktikplatsen.se att lösa.
-$8 Arbetsmarknadsläget
+\$8 Arbetsmarknadsläget
 Ingen representant.
-$9 Övriga frågor
+\$9 Övriga frågor
 Inga övriga frågor
-$10 Nästa möte
+\$10 Nästa möte
 Onsdag 14 oktober 13.00 Lindälvs gymnasium
-$l1 Mötet avslutas
+\$l1 Mötet avslutas
 Ordförande avslutar mötet
 Sekreterare:
 A VÄ 5 gt / /
@@ -4375,7 +4375,7 @@ Transaktionsidentitet: 39739583FD41AA65DE60580BE23801F5079D4004CB
 
 <!-- sida 114 -->
 
-Från:                  RES-Tillstånd <tillstand@skolinspektionen.se>
+Från:                  RES-Tillstånd \<tillstand@skolinspektionen.se>
 Skickat:               den 19 februari 2026 13:00
 Till:                  'info@educ.goteborg.se'; 'grundskola@grundskola.goteborg.se';
 'forskoleforvaltningen@forskola.goteborg.se'; 'kommun@ale.se';
@@ -4437,32 +4437,32 @@ Kommunens  yttrande
 För att Skolinspektionen ska kunna göra en helhetsbedömning av vilka följder en etablering kan medföra
 ska kommunen skicka in följande:
 
-1. En konsekvensbeskrivning där det framgår vilka ekonomiska, organisatoriska och pedagogiska
+1\. En konsekvensbeskrivning där det framgår vilka ekonomiska, organisatoriska och pedagogiska
 samt eventuella övriga konsekvenser som kan uppstå på lång sikt vid en etablering av den sökta
 utbildningen.
 
 Om kommunen anser att en etablering av en fristående skola skulle medföra påtagligt negativa
 konsekvenser behöver kommunen redogöra för konkreta exempel på hur det påverkar
 kommunen.
-2. Uppgift om vilka kommuner/förbund ni har samverkansavtal med.
+2\. Uppgift om vilka kommuner/förbund ni har samverkansavtal med.
 
-3. En befolkningsprognos över kommunens 16-åringar de kommande fem åren (år 2027-2031).
+3\. En befolkningsprognos över kommunens 16-åringar de kommande fem åren (år 2027-2031).
 
-4. Preliminär antagningsstatistik, uppgift om antalet platser samt antalet antagna vid befintliga
+4\. Preliminär antagningsstatistik, uppgift om antalet platser samt antalet antagna vid befintliga
 program i både de kommunala och i de fristående gymnasieskolorna i kommunen.
 
-5. En sammanställning över antalet kommunala och fristående gymnasieskolor i kommunen som
+5\. En sammanställning över antalet kommunala och fristående gymnasieskolor i kommunen som
 idag erbjuder nedanstående program och inriktningar:
 
 •  Det nationella försäljnings- och serviceprogrammet
 
-6. Uppgift om antalet befintliga utbildningsplatser på respektive sökt program (se ovan) vid
+6\. Uppgift om antalet befintliga utbildningsplatser på respektive sökt program (se ovan) vid
 kommunala respektive fristående gymnasieskolor i kommunen.
 
-7. Uppgift om kommunen avser att erbjuda sökt program läsåret 2026/2027 samt om möjligt
+7\. Uppgift om kommunen avser att erbjuda sökt program läsåret 2026/2027 samt om möjligt
 läsåret 2027/2028.
 
-8. Uppgift om hur många elever som går i gymnasieskola i annan kommun än i lägeskommunen,
+8\. Uppgift om hur många elever som går i gymnasieskola i annan kommun än i lägeskommunen,
 samt vilka program dessa elever är antagna till.
 Remissvar
 
@@ -4490,7 +4490,7 @@ Bilaga
 
 Ansökan från Magelungen Utveckling AB
 
-______________________________________
+\______________________________________
 Johanna Wallfors
 Utredare, Avdelningen för tillstånd och skolors ekonomi, Enheten för tillståndsprövning
 Skolinspektionen
@@ -4625,9 +4625,9 @@ inskickat.
 
 Vid inträde betalar en ny medlem:
 
--  1 krona per invånare (Kungsbacka 2024-12-31: 85 792 invånare, siffror för 2025 finns ej vid
+\-  1 krona per invånare (Kungsbacka 2024-12-31: 85 792 invånare, siffror för 2025 finns ej vid
 skrivelsens framtagande) som andelskapital
--  25 000 kr i administrativ avgift
+\-  25 000 kr i administrativ avgift
 
 Båda är engångskostnader vilka föreslås belasta kommunstyrelsen.
 Tjänster debiteras enligt självkostnadsprincipen. Kungsbackas nämnder kommer att betala för faktiskt
@@ -4843,14 +4843,14 @@ Bo Regnér         Ingvar Henriksson
 Lars-Erik Hörmander
 
 Bilagor:
-- Redogörelse för revisionen år 2025
-- Det sakkunniga biträdets yttrande och rapport om
+\- Redogörelse för revisionen år 2025
+\- Det sakkunniga biträdets yttrande och rapport om
 årsredovisningens balansräkning, resultaträkning,
 
 kassaflödesanalys samt noter
-- Granskning av god ekonomisk hushållning och
+\- Granskning av god ekonomisk hushållning och
 balanskrav
-- Granskningsrapport från lekmannarevisorerna
+\- Granskningsrapport från lekmannarevisorerna
 OLI7P-O58SW-VR56Y-B9ETD-6ZU34-E9YZL
 :yek
 tnemucod
@@ -4976,7 +4976,7 @@ S
 s
 a u
 ö
--
+\-
 n
 t
 k
@@ -5027,7 +5027,7 @@ Kungsbacka    kommun
 
 <!-- sida 129 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -5076,7 +5076,7 @@ Hälsoskydd, nämnden för Service, nämnden för Teknik samt nämnden för Vår
 
 <!-- sida 130 -->
 
-2. Redogörelse av granskningsresultat
+2\. Redogörelse av granskningsresultat
 
 På uppdrag av de förtroendevalda revisorerna har EY genomfört en grundläggande
 granskning av styrelse och nämnder i Kungsbacka kommun. Granskningen har genomförts
@@ -5123,7 +5123,7 @@ av framtagna verksamhetsmått. Verksamhetsmåtten är inte målsatta.
 O  Nämnden för Service har inte antagit egna mål kopplat till kommunfullmäktiges mål. I
 budget 2025 har nämnden antagit en målbild som är kopplad till kommunens vision.
 Målbilden beskriver övergripande vart nämnden vill befinna sig inom olika områden
-2027. Målbilden är nedbruten i olika fokusområden. Uppföljning sker genom kvalitativa
+2027\. Målbilden är nedbruten i olika fokusområden. Uppföljning sker genom kvalitativa
 bedömningar av genomförda aktiviteter samt genom mätningar av framtagna nyckeltal.
 
 27
@@ -5364,11 +5364,11 @@ budgetår. Politikerna i kommunfullmäktige beslutar om direktiv som gäller und
 Direktiv gäller för särskilt, utpekat område där det krävs förändring.
 
 Kommunfullmäktiges mål
-1. En attraktiv kommun att bo, verka och vistas i
-2. En hållbar utveckling och en hälsosam miljö
-3. Bästa företagsklimatet i Västsverige
-4. I Kungsbacka utvecklas vi hela livet ut
-5. Ett medskapande samhälle och en öppen attityd
+1\. En attraktiv kommun att bo, verka och vistas i
+2\. En hållbar utveckling och en hälsosam miljö
+3\. Bästa företagsklimatet i Västsverige
+4\. I Kungsbacka utvecklas vi hela livet ut
+5\. Ett medskapande samhälle och en öppen attityd
 
 Målstyrning
 Varje nämnd ansvarar för att bidra till att de kommunövergripande målen nås. Eftersom målen
@@ -5595,7 +5595,7 @@ m
 å
 Ett medskapande samhälle och öppen attityd
 l
-:
+\:
 3
 
 <!-- sida 142 -->
@@ -5634,7 +5634,7 @@ m
 å
 Ett medskapande samhälle och öppen attityd
 l
-:
+\:
 Nämnden för Vård & Omsorg
 Nämnden för Vård & omsorg har antagit tre nämndmål. Nämnden beskriver arbetet med
 målen men har inte gjort någon bedömning av måluppfyllelsen av nämndmålen eller
@@ -6052,7 +6052,7 @@ när en sådan avbruten insats återupptas. Rapporten sker IVO kvartalsvis och p
 individnivå. Har nämnden inga ej verkställda beslut att rapportera behöver IVO inte
 informeras.
 Ett ärende gällande avbruten verkställighet rapporteras till IVO under kvartal 4,
-2025.
+2025\.
 
 Beslutsunderlag
 Kommunstyrelsen 2026-03-17, § 75
@@ -6397,8 +6397,8 @@ INLEDNING
 
 Året       i  korthet
 
-+   939
-+   668                                            mnkr
+\+   939
+\+   668                                            mnkr
 
 mnkr                     Nettoinvesteringar
 för koncernen
@@ -6406,8 +6406,8 @@ Resultat för koncernen
 Kungsbacka kommun
 Kungsbacka kommun
 
-+   748
-+   604
+\+   748
+\+   604
 mnkr
 mnkr
 Nettoinvesteringar
@@ -6421,7 +6421,7 @@ Under året har Kungsbacka kommun tagit emot flera gårds reningsverk, Kungsback
 priser och utmärkelser. Här är några exempel. på hållbar utveckling. Den nya anläggningen planeras att
 vara energineutral och klimatpositiv.
 • Vi blev utsedda till Sveriges digitaliseringskommun
-2025. Bakom utmärkelsen står Sveriges Kommuner Under 2025 har vi startat upp Frivilliga resursgruppen,
+2025\. Bakom utmärkelsen står Sveriges Kommuner Under 2025 har vi startat upp Frivilliga resursgruppen,
 och Regioner, DIGG – Myndigheten för digital FRG. Det är ett samarbete mellan kommun och frivilliga
 förvaltning, Regeringskansliet, TechSverige, Micro- försvarsorganisationer med stöd från Myndigheten för
 soft, Telia, Google, Kivra och Kvalitetsmässan. civil beredskap, tidigare MSB. Frivillig resursgrupp är
@@ -6520,12 +6520,12 @@ Visible care Sweden
 Byggnadsnämnd  Förskola & Grundskola             Drottning Blankas
 gymnasieskola
 Nämnd för hemsjukvård Praktiska Sverige
-Överförmyndarnämnd* Patientnämnd**
-och hjälpmedel*** Ljud & Bildskolan LBS
-* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Individ & Familjeomsorg
+Överförmyndarnämnd\* Patientnämnd\*\*
+och hjälpmedel\*\*\* Ljud & Bildskolan LBS
+\* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Individ & Familjeomsorg
 Mölndals kommun är värdkommun.
-** Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun. Gryning Vård
-*** N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
+\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun. Gryning Vård
+\*\*\* N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
 Teknik
 Ragn-Sells Recycling
 Viavest
@@ -6818,7 +6818,7 @@ trakasserier.                     gruppen över 80 år beräknas fortsatt att ö
 takt än den andel av befolkningen som jobbar, vilket
 Antalet orosanmälningar har också fortsatt att öka, med innebär att färre behöver försörja fler i framtiden. Att
 nästan tio procent fler än 2024 och 60 procent fler än andelen äldre ökar innebär visserligen inte automatiskt
-2020. Ärendena har blivit mer komplexa och omfattar att behovet av stöd ökar i samma takt. Dagens äldre är
+2020\. Ärendena har blivit mer komplexa och omfattar att behovet av stöd ökar i samma takt. Dagens äldre är
 fler unga med normbrytande beteenden eller koppling generellt sett mer aktiva och självständiga högre upp i
 till kriminalitet. Kommunen har därför arbetat med åldrarna än tidigare generationer. Här finns möjligheter
 att stärka handläggning och säkerställa rättssäkerhet, att ta vara på den enskildes förmågor och värna dess
@@ -6982,7 +6982,7 @@ kommunen. Sammantaget består kommunens pensions- och de riktade statsbidragen b
 kostnader av två olika delar, en avgiftsbestämd kostnad olika satsningar inom olika verksamheter. Kungsbacka
 och en förmånsbaserad pension som delas upp i vad som kommun får årligen skatteintäkter och generella
 tjänats in från och med 1998 och vad som tjänats in före statsbidrag på cirka sex miljarder kronor. Även en mindre
-1998. Det nya pensionsavtalet AKAP-KR som gäller från procentuell avvikelse får därför stort genomslag.
+1998\. Det nya pensionsavtalet AKAP-KR som gäller från procentuell avvikelse får därför stort genomslag.
 Kungsbacka kommuns årsredovisning 2025 17
 
 <!-- sida 174 -->
@@ -7282,7 +7282,7 @@ för Kommunal Analys bästa i Sverige, alternativt kan
 (RKA) föreslagit som uppvisa en trend som ligger i
 stöd för kommunernas linje med eller över alla kom-
 genomförande av Agenda muners ovägda medel under
-2030.         senaste fyraårsp erioden.
+2030\.         senaste fyraårsp erioden.
 Om mätvärde saknas görs
 bedömningen på senaste år
 som mätningen gjordes.
@@ -7407,7 +7407,7 @@ får man det strukturella resultatet för kommunens
 ordinarie verksamhet. Det strukturella resultatet för året
 nettok ostnader
 var 548 miljoner kronor att jämföra med 211 miljoner exklusive jämförelse-
-2024. Det är viktigt att analysera det strukturella störande poster (%)
+2024\. Det är viktigt att analysera det strukturella störande poster (%)
 resultatet över tid och se hur det utvecklas i förhållande
 Årlig förändring 4,8 -0,3 15,4 1,5 -1,9
 till skatteintäkter och generella statsbidrag. Det struk- nettokostnader
@@ -7483,7 +7483,7 @@ Den senaste femårsperioden har kommunen i genomsnitt risk.
 investerat för 903 miljoner kronor per år. Årets investe-
 ringsutgifter fördelat per invånare motsvarar 9 670 kronor Soliditet 2021 2022 2023 2024 2025
 per invånare, en ökning med två procent jämfört med kommunen,
-2024. Kommunen planerar för ännu högre investerings- (procent)
+2024\. Kommunen planerar för ännu högre investerings- (procent)
 nivåer framöver. Högre investeringar ökar låneskulden Soliditet inklusive 35,5 35,4 35,9 37,4 41,3
 och högre ränta vid refinansiering eller nya lån kommer hela pensions-
 åtagandet
@@ -7877,16 +7877,16 @@ Antal påbörjade bostäder              848   165   213     158     öka
 Antal färdigställda bostäder          363   319   324     601     öka
 ```
 
-Anmälda brott mot brottsbalken per invånare, 5 691 6 475 6 541 6 299 *** minska
+Anmälda brott mot brottsbalken per invånare, 5 691 6 475 6 541 6 299 \*\*\* minska
 antal/100 000 invånare (Brottsförebyggande rådet, BRÅ)
 Brukarbedömning hemtjänst äldreomsorg, helhetssyn (Kolada) 90 % 91 % 88 % 88 % öka
 Brukarbedömning särskilt boende äldreomsorg, helhetssyn 74 % 76 % 76 % 78 % öka
 (Kolada)
-Brukarbedömning individ- och familjeomsorg, totalt 88 % - * 98 %** 96% öka
+Brukarbedömning individ- och familjeomsorg, totalt 88 % - \* 98 %\*\* 96% öka
 – helhetssyn (Kolada)1
-*) Brukarbedömning har inte gjorts det här året.
-**) Värdet för 2024 tidigare redovisat till 95 % i KOLADA redovisas nu 98 %.
-***) Preliminära uppgifter från BRÅ
+\*) Brukarbedömning har inte gjorts det här året.
+\*\*) Värdet för 2024 tidigare redovisat till 95 % i KOLADA redovisas nu 98 %.
+\*\*\*) Preliminära uppgifter från BRÅ
 
 Kungsbacka kommuns årsredovisning 2025 33
 
@@ -7915,7 +7915,7 @@ Det är glädjande att vi ser positiva steg mot ett mer Vi har startat en pilots
 effektivt resursutnyttjande, som minskad elförbrukning för regnbågsfamiljer. Satsningen syftar till att skapa en
 och minskad klimatpåverkan från våra måltider. Men inkluderande mötesplats för en målgrupp som annars
 sammantaget är bedömningen att vi inte nått målet under riskerar att sakna trygga sammanhang i det offentliga
-2025.                             rummet. Vi har även för första gången anordnat Rättig-
+2025\.                             rummet. Vi har även för första gången anordnat Rättig-
 hetsveckorna, en stor satsning för att öka medvetenhet
 Det här har vi gjort
 och kunskaper om allas lika värde. Vidare har vi gjort
@@ -8010,13 +8010,13 @@ FÖRVALTNINGSBERÄTTELSE
 Målsätt-
 Indikator                         2022   2023   2024    2025 ning 2025
 Kommunens verksamheters elförbrukning, total (kWh) 39,9 40,7 40,3 38,7 minska
-Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/ 2,27 2,27 * * minska
+Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/ 2,27 2,27 \* \* minska
 inv (Kolada)
-Fossiloberoende personbilar, andel av totalt antal bilar 21,2 24,1 26,5 * öka
+Fossiloberoende personbilar, andel av totalt antal bilar 21,2 24,1 26,5 \* öka
 i det geografiska området (%)
 Fossiloberoende personbilar i kommunorganisationen, 94,6 96,2 97,5 97,2 öka
 andel (%)
-Slutanvändning av energi inom det geografiska 15 15 *     *   minska
+Slutanvändning av energi inom det geografiska 15 15 \*     \*   minska
 området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga måltiderna 1,86 1,69 1,85 1,54 minska
 ska minska räknat i kg CO2-ekv/kg livsmedel. Målsätt-
@@ -8024,16 +8024,16 @@ ningen är 1,0 år 2030.
 Antal kemiska produkter med utfasningsämnen, inklu- 113 115 151 162 minska
 sive hormonstörande ämnen på SIN-listan ska minska i
 kommunens verksamheter.
-Avfall från hushåll ska minska med 30 % per invånare 103 92 92 * minska
+Avfall från hushåll ska minska med 30 % per invånare 103 92 92 \* minska
 från 2020 till 2030. Startvärde 100, målvärde 2030 är
-70.
-Avfall från kommunens verksamheter ska minska med 115 223 * * minska
+70\.
+Avfall från kommunens verksamheter ska minska med 115 223 \* \* minska
 40 % per heltidsanställd. Startvärde 100, målvärde
 2030 är 60.
 Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig måttlig öka
-Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 %    *
+Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 %    \*
 Vattendrag med god ekologisk status, andel (Kolada) 18,5 % 18,5 % 18,5 % 18,5 % öka
-Andelen återbrukade möbler          *      *       *     2 %    öka
+Andelen återbrukade möbler          \*      \*       \*     2 %    öka
 Ungas hälsa i årskurs 4 och 8 – Flickor. (Elevhälsan i Åk 4: 88%, Åk 4: 85%, Åk 4: 85%, Åk 4: 87%, öka
 Kungsbacka utvecklar metod utifrån hälsosamtal med Åk 8: 72%, Åk 8: 79%, Åk 8: 73%, Åk 8: 75%,
 elever)                           Åk 1    Åk 1   Åk 1 Åk 1 gymna-
@@ -8044,7 +8044,7 @@ Kungsbacka utvecklar metod utifrån hälsosamtal med Åk 8: 93% Åk 8: 92% Åk 8
 elever)                           Åk 1    Åk 1   Åk 1 Åk 1 gymna-
 gymnasiet: gymnasiet: gymnasiet: siet:
 85%     86%    88%
-*) Ännu ej publicerad.
+\*) Ännu ej publicerad.
 
 Kungsbacka kommuns årsredovisning 2025 37
 
@@ -8140,13 +8140,13 @@ av företagsklimatet.
 Svenskt näringslivs attitydundersökning av kommuners före- 3,4 3,4 3,8 3,6 öka
 tagsklimat. Medelvärde utifrån skala 1–6, där företag bedömer
 företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal      28 485 28 586 28 426 **    öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % 4,9 % ** 5,0 %
-Företagsamhet, andel av invånare 16–74 år 18 % 19 % *    *       *
-Antal nystartade företag per 1 000 invånare 16–64 år, etable- 12,8 10,3 12,3 ** öka
+Sysselsatt dagbefolkning, antal      28 485 28 586 28 426 \*\*    öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % 4,9 % \*\* 5,0 %
+Företagsamhet, andel av invånare 16–74 år 18 % 19 % \*    \*       \*
+Antal nystartade företag per 1 000 invånare 16–64 år, etable- 12,8 10,3 12,3 \*\* öka
 ringsfrekvens (Kolada)
-*) Måttet sammanställs inte längre.
-**) Ännu ej publicerad
+\*) Måttet sammanställs inte längre.
+\*\*) Ännu ej publicerad
 
 Kungsbacka kommuns årsredovisning 2025 39
 
@@ -8225,11 +8225,11 @@ utgörs av summan av de 17 bästa betygen i elevens slutbetyg och
 kan max vara 340. (Kolada)
 Genomsnittlig betygspoäng för gymnasiets avgångselevers betygs- 14,5 14,3 14,0 14,0 öka
 poäng som kan vara max 20. (Kolada)
-Arbetslöshet 16–24 år i kommunen, procent (Kolada) 1,7 1,7 2,3 * minska
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 376 325 306 *
-Andel vuxna personer som inte återkommer till försörjningsstöd 69 73 75 * öka
+Arbetslöshet 16–24 år i kommunen, procent (Kolada) 1,7 1,7 2,3 \* minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 376 325 306 \*
+Andel vuxna personer som inte återkommer till försörjningsstöd 69 73 75 \* öka
 inom ett år efter avslutat försörjningsstöd, procent (Kolada)
-*) Ännu ej publicerad
+\*) Ännu ej publicerad
 
 Kungsbacka kommuns årsredovisning 2025 41
 
@@ -8312,15 +8312,15 @@ vidare och att höja resultatet framöver.
 
 Målsättning
 Indikator                            2022  2023  2024  2025    2025
-Hållbart medarbetarengagemang, ett index för medarbetarnas 78 76 75 * öka
+Hållbart medarbetarengagemang, ett index för medarbetarnas 78 76 75 \* öka
 samlade uppfattning om områdena motivation, ledarskap och
 styrning, skala 1–100 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 114 122 124 **   öka
-180. Jämix beräknas utifrån nio nyckeltal med skala 1–20 och
+Jämställdhetsindex, Jämix. Antal poäng av max 114 122 124 \*\*   öka
+180\. Jämix beräknas utifrån nio nyckeltal med skala 1–20 och
 visar hur jämställda arbetsvillkor, arbetsmiljö och anställnings-
 villkor är i organisationen
-*Undersökningen har ändrat frekvens och genomförs numera vartannat år. Vi kommer därför inte att ha ett värde för 2025.
-**) Ännu ej publicerad
+\*Undersökningen har ändrat frekvens och genomförs numera vartannat år. Vi kommer därför inte att ha ett värde för 2025.
+\*\*) Ännu ej publicerad
 
 Kungsbacka kommuns årsredovisning 2025 43
 
@@ -8771,16 +8771,16 @@ Balanskravsutredning, miljoner kronor                   2024  2025
 Pensionsförpliktelser intjänade före 1998               +25    -38
 
 Årets resultat enligt blandmodellen                     311    567
-- Samtliga realisationsvinster                           -1    -2
-+ Realisationsvinster enligt undantagsmöjlighet           -     -
-+ Realisationsförluster enligt undantagsmöjlighet         -     -
+\- Samtliga realisationsvinster                           -1    -2
+\+ Realisationsvinster enligt undantagsmöjlighet           -     -
+\+ Realisationsförluster enligt undantagsmöjlighet         -     -
 -/+ Orealiserade vinster och förluster i värdepapper      -     -
 
 +/- Återföring av orealiserade vinster och förluster i värdepapper - -
 = Årets resultat efter balanskravsjusteringar           310    565
-- Reservering av medel till resultatreserv                -     -
-+ Användning av medel från resultatreserv                 -     -
-+ Användning av medel från resultatutjämningsreserv       -     -
+\- Reservering av medel till resultatreserv                -     -
+\+ Användning av medel från resultatreserv                 -     -
+\+ Användning av medel från resultatutjämningsreserv       -     -
 
 = Balanskravsresultat                                   310    565
 
@@ -8964,7 +8964,7 @@ FÖRVALTNINGSBERÄTTELSE
 Förväntad                utveckling
 
 Årsredovisningen är en redogörelse och analys av året höjningar till 2028. Det gör det dyrare för kommuner att
-2025. Den är också ett viktigt underlag när vi planerar låna pengar och att genomföra investeringar, till exempel
+2025\. Den är också ett viktigt underlag när vi planerar låna pengar och att genomföra investeringar, till exempel
 ekonomin för kommande år och för ekonomistyrningen. i infrastruktur, skolor och omsorgslokaler. Kommuner
 Kungsbacka kommun beslutar i juni om budgeten för som redan har stora lån eller stora investeringsplaner
 nästa år och därför hänger arbetet med årsredovisningen behöver därför vara försiktiga och planera långsiktigt.
@@ -9242,7 +9242,7 @@ Kungsbacka kommun följer lagen om kommunal hushållning. Vi har eliminerat inte
 bokföring och redovisning, LKBR (2018:597) med mellan kommunen och koncernföretagen.
 undantag för redovisning av pensioner intjänade före
 Skatteintäkter
-1998. Kommunen följer även, om inte annat anges, de
+1998\. Kommunen följer även, om inte annat anges, de
 rekommendationer som Rådet för kommunal redovisning Redovisade skatteintäkter utgörs av årets preliminära
 (RKR) lämnar samt övrig redovisningspraxis. skatteinbetalningar, prognostiserad slutavräkning
 för redovisningsåret samt en justering av föregående
@@ -9486,7 +9486,7 @@ kostnader          38,8  -8,1 38,8  -8,1
 Summa jämförelsestörande
 Övriga upplysningar
 poster             75,0  56,7 75,0 56,7
-1) Övriga generella statsbidrag: Stöd till kommuner - skolor mot brott 2025 om
+1\) Övriga generella statsbidrag: Stöd till kommuner - skolor mot brott 2025 om
 0,4 mkr.                               Övriga upplysningar
 Under 2024 redovisas realisationsvinster från exploateringsverksamheten samt
 exploateringsersättningar som jämförelsestörande poster samt minskning av
@@ -9673,7 +9673,7 @@ Summa bidrag till statlig 64,6 61,1 64,6 61,1
 infrastruktur
 Övriga upplysningar
 1 Avser byggande av ny tågstation i Åsa. Bidraget upplöses på 25 år med start år
-2011.
+2011\.
 2 Avser åtgärder i den statliga infrastrukturen i anslutning till exploatering av Må.
 Bidraget är justerat med index år 2023 och år 2024. Bidraget upplöses på 25 år
 med start år 2019. Samt summa 2024 har justerats.
@@ -9900,7 +9900,7 @@ Utgående avsättning 0,0   1,5  0,0   1,5 Kommunen svarar för alla kostnadsfö
 avtalet. Projektet avslutades 2025.
 Total utgående avsättning 51,7 37,6 51,7 37,6
 6 Bidrag till Trafikverket avser cirkulationsplats i Frillesås Rya. Avtal tecknades år
-2022. Bidraget återfördes år 2025 då medfinansieringsavtalet inte var gällande då
+2022\. Bidraget återfördes år 2025 då medfinansieringsavtalet inte var gällande då
 ¹³Avsättning för ledningsflytt          detaljplanen blev upphävd. Samt öresavrundning föregående år.
 Valand                                  7 Bidraget till Trafikverket avser Må vänstersväng och tecknades 2018. Bidraget är
 Redovisat värde vid årets 4,4 3,3 4,4 3,3 indexjusterat år 2023 och projektet avslutades år 2024.
@@ -10140,7 +10140,7 @@ Summa Avgiftsfinansierade                         375,9 -378,7 -2,7
 nämnder
 Summa nämnder                                    2 743,6 -8 495,5 -5 751,9
 
-Finans (9*)                                       44,0  -53,7  -9,7
+Finans (9\*)                                       44,0  -53,7  -9,7
 
 1 Justering Interna poster                      -1 385,5 1 939,0 553,5
 avskrivningar med mera
@@ -10279,7 +10279,7 @@ Finansiering lokalplan                 0,0      27,3    27,3  100,0%
 Finans                                 0,0     -16,4   -16,4  100,0%
 ```
 
-Exploateringsverksamhet * (Anläggningstillgångar) 7,2 55,8 48,6 87,1%
+Exploateringsverksamhet \* (Anläggningstillgångar) 7,2 55,8 48,6 87,1%
 
 ```osaker-tabell
 Summa skattefinansierad verksamhet    294,6    701,1   406,5  58,0%
@@ -10471,7 +10471,7 @@ och möjlighet till ny skola eller kontor. Detaljplanen med radhus till annan ex
 vann laga kraft under 2018 men exploatören har lämnat har man förberett marken i området för byggstart genom
 tillbaka tidigare markanvisning. Vi planerar för en ny rivningsarbete och marksanering och under 2025 har
 markanvisning som vi kommer att genomföra under man påbörjat utbyggnad av allmän plats. Kommunen
-2026.                             har under 2025 sålt kommunens flerbostadskvarter till
+2026\.                             har under 2025 sålt kommunens flerbostadskvarter till
 Riksbyggen.
 Väster om ån
 Björkris etapp 2
@@ -10495,7 +10495,7 @@ Andra etappen i detta projekt är kvarter Ejdern, där
 vi planerar att bygga cirka 250 bostäder och ett parke- Intill Annebergs pendelstation planerar kommunen för
 ringshus. Det är kommunen som äger marken i området ett nytt centrum som ska stärka Anneberg som tätort.
 och det har pågått förberedelser för markanvisning under Planområdet kommer att innehålla cirka 400 bostäder,
-2025.                             vård- och omsorgsboende, gruppbostad, förskola, samt
+2025\.                             vård- och omsorgsboende, gruppbostad, förskola, samt
 80 Kungsbacka kommuns årsredovisning 2025
 
 <!-- sida 237 -->

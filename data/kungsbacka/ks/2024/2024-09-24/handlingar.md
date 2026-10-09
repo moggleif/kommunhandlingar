@@ -76,7 +76,7 @@ KUNGSBACKA  KOMMUN
 
 3(7)
 
-9.  Godkännande av        2019-00047 Förslag till beslut i kommunstyrelsen
+9\.  Godkännande av        2019-00047 Förslag till beslut i kommunstyrelsen
 projektbeställning samt        Kommunstyrelsen godkänner projektbeställning för
 överlämnande för att upprätta  detaljplan för bostäder inom Vallda-Backa 1:6 i
 detaljplan för bostäder inom   Vallda, daterad 2024-08-21, med följande ändringar:
@@ -359,11 +359,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
 
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Sammanfattning av styrelsens arbete med målet
 Kungsbacka Live
 
@@ -397,12 +397,12 @@ Delårsrapport augusti 2024
 
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
 
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av styrelsens arbete med målet
 Hållbarhetskriterier vid markanvisning
@@ -453,8 +453,8 @@ Delårsrapport augusti 2024
 
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Sammanfattning av styrelsens arbete med målet
@@ -533,9 +533,9 @@ tillsammans med regionerna har antagit och verkar för.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av styrelsens arbete med målet
 Kommunstyrelsen har inga aktiviteter under målet.
@@ -546,12 +546,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med kommunen.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med kommunen.
 
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Sammanfattning av styrelsen arbete med målet
 
 Digitalisering av gamla detaljplaner
@@ -1199,7 +1199,7 @@ alla nämnder tas planen av KS runt halvårsskiftet för att vara tillgänglig i
 Riskanalysen för 2025 bygger på tidigare års riskinventering och resultat från granskningar samt
 omvärldsanalys. Någon ny risk har identifierats och någon har omformulerats. Riskerna som tas till granskning
 är i stort sett samma som föregående år med tillägg för efterlevnad till inköpsprocessen som återkommer från
-2023.
+2023\.
 
 4
 
@@ -1716,21 +1716,21 @@ Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendeval
 1 Förtroendevalda
 
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
--  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\-  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
--  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\-  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag
 och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare (leder respektive partigrupp i kommunfullmäktige)
--  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\-  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 
 kommunfullmäktige, nämnder, styrelsen, revisionen, ledamöter och ersättare
 i kommunala bolag- och stiftelser, beredningar och andra uppdrag enligt
 särskilt beslut.
--  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\-  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
--  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
+\-  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
 revisionen.
 Kommunens bolag och stiftelser rekommenderas att tillämpa dessa riktlinjer.
 
@@ -1753,10 +1753,10 @@ kommunalråd till den del avdraget överstiger timersättningen (se avsnitt 2.6)
 Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 Rätten till ledighet avser
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd.
 
@@ -1984,9 +1984,9 @@ bolag och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare.
 Arvode betalas i form av
 
--  Fast arvode för deltidsuppdrag
+\-  Fast arvode för deltidsuppdrag
 
--  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\-  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
 
@@ -2076,9 +2076,9 @@ förtroendevalda representerar det organ denne själv tillhör. Därtill betalas
 och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-_____________
+\_____________
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 11 (17)
 
@@ -2233,9 +2233,9 @@ har ägt rum.
 
 När en förtroendevald ska begära ersättning
 
--  för andra förmåner än dagarvode, timersättning och reseersättning, i
+\-  för andra förmåner än dagarvode, timersättning och reseersättning, i
 samband med protokollfört sammanträde eller
--  efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\-  efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
@@ -2289,7 +2289,7 @@ att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst.
 
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 2023–2027.
-____________________
+\____________________
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 17 (17)
 
@@ -3458,10 +3458,10 @@ planen har tagits fram. Sedan identifieras fyra prioriterade utmaningar för bos
 Kungsbacka kommun: hållbar tillväxt av bostäder, bostäder för allas behov, åldrande befolkning och
 välfärden samt social sammanhållning. Utmaningarna ligger sedan till grund för planens tre mål.
 Målen är:
--  Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
+\-  Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
 
--  Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig bostad
--  Bostadsförsörjningen ska främja en god social sammanhållning.
+\-  Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig bostad
+\-  Bostadsförsörjningen ska främja en god social sammanhållning.
 
 Under respektive mål finns insatser som sträcker sig över åren 2025–2029 och ska bidra till att målen
 uppnås.
@@ -3528,7 +3528,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 Innehåll
 
-1. Syfte och bakgrund .............................................................................................. 3
+1\. Syfte och bakgrund .............................................................................................. 3
 Varför en bostadsförsörjningsplan? ...................................................................... 3
 Vad är goda bostäder? ......................................................................................... 3
 
@@ -3536,27 +3536,27 @@ Hur har planen tagits fram? ....................................................
 Hur är planen uppbyggd? ..................................................................................... 4
 Vad säger översiktsplanen om bostäder? ............................................................. 5
 
-2. Kommunens utmaningar ...................................................................................... 7
+2\. Kommunens utmaningar ...................................................................................... 7
 Utmaning: Hållbar tillväxt av bostäder .................................................................. 8
 Utmaning: Bostäder för allas behov .................................................................... 10
 Utmaning: Åldrande befolkning och välfärden .................................................... 12
 
 Utmaning: Social sammanhållning ..................................................................... 13
-3. Mål och insatser ................................................................................................. 15
+3\. Mål och insatser ................................................................................................. 15
 
 Mål 1: Vi ska tillgängliggöra fler bostadsytor i en hållbar takt .............................. 16
 Mål 2: Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad ................................................................................................................ 18
 Mål 3: Bostadsförsörjningen ska främja en god social sammanhållning ............. 21
 
-4. Uppföljning ......................................................................................................... 23
+4\. Uppföljning ......................................................................................................... 23
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 2 (23)
 
 <!-- sida 82 -->
 
 Syfte och bakgrund
-1. Syfte och bakgrund
+1\. Syfte och bakgrund
 
 Varför en bostadsförsörjningsplan?
 Enligt Lag (2000:1383) om kommunernas bostadsförsörjningsansvar ska varje
@@ -3721,7 +3721,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 <!-- sida 86 -->
 
 Kommunens utmaningar
-2. Kommunens    utmaningar
+2\. Kommunens    utmaningar
 
 I detta kapitel identifieras fyra utmaningar för bostadsförsörjningen i Kungsbacka
 kommun som ligger till grund för målen och insatserna i kapitel 3. Utmaningarna har
@@ -3736,12 +3736,12 @@ kopplingen till hållbarhet. De globala hållbarhetsmålen omfattar samtliga asp
 hållbar utveckling (ekonomisk, social och miljömässig hållbarhet).
 Kommunens utmaningar är följande:
 
-1. Hållbar tillväxt av bostäder
+1\. Hållbar tillväxt av bostäder
 
-2. Bostäder för allas behov
-3. Åldrande befolkning och välfärden
+2\. Bostäder för allas behov
+3\. Åldrande befolkning och välfärden
 
-4. Social sammanhållning
+4\. Social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 7 (23)
 
@@ -4073,7 +4073,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Mål och insatser
 
-3. Mål och insatser
+3\. Mål och insatser
 
 I detta kapitel hittar du det huvudsakliga innehållet i denna plan, nämligen mål och
 insatser för bostadsförsörjningen under tidsperioden 2025–2029. Målen och
@@ -4081,11 +4081,11 @@ insatserna tar sin utgångspunkt i våra utmaningar. Till varje mål kopplas ett
 förväntade effekter samt nyckeltal. Till varje insats kopplas ansvariga aktörer.
 Kommunens tre mål för bostadsförsörjning:
 
-1. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
+1\. Vi ska tillgängliggöra fler bostadsytor i en hållbar takt
 
-2. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
+2\. Vi ska verka för att fler unga och äldre får tillgång till en ändamålsenlig
 bostad
-3. Bostadsförsörjningen ska främja en god social sammanhållning
+3\. Bostadsförsörjningen ska främja en god social sammanhållning
 
 Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029 15 (23)
 
@@ -4419,7 +4419,7 @@ Kungsbacka kommun   Bostadsförsörjningsplan för Kungsbacka kommun 2025–2029
 
 Uppföljning
 
-4. Uppföljning
+4\. Uppföljning
 
 Planen följs upp varje år genom en återrapportering till kommunstyrelsen.
 Kommunstyrelsens förvaltning är ansvarig för uppföljningen. Uppföljningen görs
@@ -4962,7 +4962,7 @@ Befolkningen beräknas att bli allt äldre i Kungsbacka. Andel äldre än 60 år
 20,4 procent till 22,9 procent av total befolkning fram till 2032. Samtidigt beräknas andelen mellan
 0–9 år att minska från något från 10,9 procent av total befolkning 2024 till 10,5 procent per år
 
-2032.
+2032\.
 Diagrammet nedan visar åldersfördelningen i ettårsklasser idag och enligt prognos tio år framåt.
 
 15
@@ -5843,7 +5843,7 @@ Figur 49 - Bostadsmarknadsläget i kommunen som helhet. På kartan visas både k
 januari 2023 och om tre år, i fyra kategorier, se teckenförklaringen. Källa: Boverket, Bostadsmarknadsenkäten (BME), 2023.
 1.4.2.1 Bostadsmarknaden, bedömning av läget i Halland per kommun år 2001–2023
 Tabellen visar hur kommunerna bedömt bostadsmarknadsläget i kommunen som helhet sedan år
-2001. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
+2001\. I Kungsbacka har det bedömts vara brist på bostäder hela den här tidsperioden.
 
 43
 
@@ -6124,7 +6124,7 @@ mått 2
 Figur 58 – Andel och antal hushåll per boende med ansträngd boendeekonomi i Kungsbacka 2012–2021. Källa: Boverket "Underlag
 bedömning bostadsbrist 2023", bearbetat av Kungsbacka kommun
 Figur 13 visar antal individer som ingår i hushåll som har en ansträngd boendeekonomi enligt mått
-2. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
+2\. Majoriteten av personerna är 35 år och uppåt. I åldersgruppen 35–79 har den ansträngda
 boendeekonomin minskat från 2012–2021. I den äldsta åldersgruppen 80+ är trenden i antal på
 liknade nivå under perioden, dock har andelen minskat.
 
@@ -6331,7 +6331,7 @@ Den största gruppen inom detta mått i Kungsbacka består av ensamstående män
 barn, samt sammanboende med barn, som bor i hyresrätter. Under den givna perioden har antalet
 hushåll utvecklats på en jämförbar nivå. Däremot har det observerats en ökning av antalet barn i
 åldern 0–17 år och vuxna i åldern 25–64 år från 2017 till 2019, följt av en viss avmattning under
-2020.
+2020\.
 
 53
 
@@ -6669,7 +6669,7 @@ Hushåll där någon av individerna har flyttat minst en gång årligen de senas
 Boverket kan måttet indikera att det finns hushåll som har en osäker boendesituation och har svårt
 att hitta ett permanent boende.
 I Kungsbacka har både antalet och andelen hushåll som flyttar ofta legat på en jämn nivå sedan
-2012. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
+2012\. De som flyttar ofta bor främst i småhus med äganderätt och i flerbostadshus med hyresrätt.
 Denna grupp utgörs huvudsakligen av individer i åldersspannet 18–64 år, där åldersgruppen 35–
 64 år utgör den största delen.
 
@@ -7381,7 +7381,7 @@ yngre hushållen åt de äldre.
 40 000
 20 000
 
--
+\-
 30-39 år 40-49 år 70-79 år 80+ år
 
 Figur 101 - Medelvärde för hushåll i äganderätt i riket för 2021. Källa: SCB
@@ -7700,11 +7700,11 @@ uppdrag på ett innovativt sätt som överträffar invånarnas förväntningar�
 Kungsbacka kommun har fem kommunövergripande mål som är uppsatta av kommunfullmäktige.
 Målen har sin utgångspunkt i Vision 2030.
 
--  En attraktiv kommun att bo, verka och vistas i
--  En hållbar utveckling och en hälsosam miljö
--  Bästa företagsklimatet i Västsverige
--  I Kungsbacka utvecklas vi hela livet
--  Ett medskapande samhälle och öppen attityd
+\-  En attraktiv kommun att bo, verka och vistas i
+\-  En hållbar utveckling och en hälsosam miljö
+\-  Bästa företagsklimatet i Västsverige
+\-  I Kungsbacka utvecklas vi hela livet
+\-  Ett medskapande samhälle och öppen attityd
 
 2.4.3 Översiktsplan
 
@@ -7751,7 +7751,7 @@ I dagsläget pågår arbete med att ta fram en ny fördjupad översiktsplan för
 ska vara vägledande i hur vi ska använda mark- och vattentillgångar i staden fram till 2050. I
 enlighet med intentionerna i nya översiktsplanen tar denna plan höjd för en fördubbling av stadens
 befolkning fram till 2050, vilket innebär cirka 50 000 invånare. Planen beräknas vinna laga kraft år
-2026.
+2026\.
 
 2.5 Planens beaktande av relevanta mål och styrdokument
 De relevanta målen och styrdokumenten som beskrivits ovan har varit styrande i framtagandet av
@@ -8362,7 +8362,7 @@ pensionärsföreningar vilket gör att de tog hänsyn till behoven hos en störr
 individuella önskemål (som var fokus för dialogen år 2015 och därav riktade sig till ett större antal
 äldre). På dialogen diskuterades hur deltagarna ser på bostäder i kommunen och vilka nya
 utmaningar eller behov som kan identifieras kopplat till äldres behov i jämförelse med dialogen år
-2015.
+2015\.
 
 De viktigaste resultaten från dialogen inkluderade:
 •  Behov av fler trygghetsboenden och en mer varierad bostadsförsörjning
@@ -8442,7 +8442,7 @@ Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen godkänner projektbeställning för detaljplan för bostäder inom
 Vallda-Backa 1:6 i Vallda, daterad 2024-08-21 med följande ändringar:
 
-- Under rubriken "Förväntad nytta" stryks följande stycke:
+\- Under rubriken "Förväntad nytta" stryks följande stycke:
 Med blandade bostads- och upplåtelseformer ökar variationen av bostadsutbudet
 i Vallda som idag mest består av småhus i äganderättsform. Det gör det möjligt
 för fler grupper att bo kvar eller flytta till Vallda vilket stärker kommunen mål
@@ -8454,7 +8454,7 @@ och ersätts med följande stycke:
 Med en huvudsakligen småskalig bebyggelse bibehålls karaktären i området
 samtidigt som möjligheten till en viss blandning av bostads- och
 upplåtelseformer bidrar till valfrihet på bostadsmarknaden.
-- Under rubriken Hållbarhetsaspekter:
+\- Under rubriken Hållbarhetsaspekter:
 
 stryks meningen Detta projekt kan därför bidra till att minska byggande utanför
 tätorterna som annars är väldigt attraktivt nära kustbandet.
@@ -8474,8 +8474,8 @@ utsträckning är anpassade efter det omgivande områdets karaktär. En fortsatt
 hög andel bostäder i ägandeform gynnar den sociala hållbarheten och är
 dessutom den boendeform som en majoritet av våra invånare efterfrågar.
 
-- Under rubriken Uppdrag stryks orden med blandade upplåtelseformer.
-- Under rubriken Beröringspunkter stryks meningen:
+\- Under rubriken Uppdrag stryks orden med blandade upplåtelseformer.
+\- Under rubriken Beröringspunkter stryks meningen:
 Detaljplanen påverkar kommunens skolplanering i Vallda då ett ökat
 
 bostadsbyggande kan aktualisera behovet av att bygga skolan i Heberg, för
@@ -8523,7 +8523,7 @@ Förslag till beslut på sammanträdet
 Emanuel Forsell yrkar att projektbeställningen uppdateras och att arbetsutskottet
 föreslår kommunstyrelsen gör följande ändringar i projektbeställningen:
 
-- Under rubriken "Förväntad nytta" stryks följande stycke:
+\- Under rubriken "Förväntad nytta" stryks följande stycke:
 Med blandade bostads- och upplåtelseformer ökar variationen av bostadsutbudet
 
 i Vallda som idag mest består av småhus i äganderättsform. Det gör det möjligt
@@ -8536,7 +8536,7 @@ Med en huvudsakligen småskalig bebyggelse bibehålls karaktären i området
 samtidigt som möjligheten till en viss blandning av bostads- och
 upplåtelseformer bidrar till valfrihet på bostadsmarknaden.
 
-- Under rubriken Hållbarhetsaspekter:
+\- Under rubriken Hållbarhetsaspekter:
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 6B3A56FC87BCED8A4D0194158EAAFFEE8769BFCF8F
@@ -8567,8 +8567,8 @@ utsträckning är anpassade efter det omgivande områdets karaktär. En fortsatt
 hög andel bostäder i ägandeform gynnar den sociala hållbarheten och är
 dessutom den boendeform som en majoritet av våra invånare efterfrågar.
 
-- Under rubriken Uppdrag stryks orden med blandade upplåtelseformer.
-- Under rubriken Beröringspunkter stryks meningen:
+\- Under rubriken Uppdrag stryks orden med blandade upplåtelseformer.
+\- Under rubriken Beröringspunkter stryks meningen:
 Detaljplanen påverkar kommunens skolplanering i Vallda då ett ökat
 bostadsbyggande kan aktualisera behovet av att bygga skolan i Heberg, för
 vilken det finns en färdig detaljplan
@@ -8882,14 +8882,14 @@ följa uppsatt budget.
 
 PROJEKTETS  LEVERANSER
 
-1. Projektbeställning      KS
-2. Projektplan             Forum Samhällsbyggnad
+1\. Projektbeställning      KS
+2\. Projektplan             Forum Samhällsbyggnad
 
-3. Samrådshandlingar       BN
-4. Granskningshandlingar   BN
+3\. Samrådshandlingar       BN
+4\. Granskningshandlingar   BN
 
-5. Avtal (princip-, exploaterings-) KS
-6. Antagandehandlingar     BN
+5\. Avtal (princip-, exploaterings-) KS
+6\. Antagandehandlingar     BN
 
 Detaljplanen upprättas med standardförfarande, därav antas detaljplanen av byggnadsnämnden.
 
@@ -8921,27 +8921,27 @@ PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 5 (6)
 
 Projektet kommer att hantera:
-- trafik- och parkeringslösning
-- stråk och kopplingar till målpunkter som skolor, affär och kollektivtrafik.
+\- trafik- och parkeringslösning
+\- stråk och kopplingar till målpunkter som skolor, affär och kollektivtrafik.
 
-- naturvärden och eventuella skyddade arter och biotoper
-- VA och dagvattenhantering inklusive skyfall
-- mängden bostäder och storlek på byggrätt för bostäder
-- placering och gestaltning av byggnader, utemiljöer och gator
+\- naturvärden och eventuella skyddade arter och biotoper
+\- VA och dagvattenhantering inklusive skyfall
+\- mängden bostäder och storlek på byggrätt för bostäder
+\- placering och gestaltning av byggnader, utemiljöer och gator
 
-- ytor för grönstruktur
-- sociala aspekter
-- geotekniska förutsättningar
-- arkeologi
-- markmiljö
+\- ytor för grönstruktur
+\- sociala aspekter
+\- geotekniska förutsättningar
+\- arkeologi
+\- markmiljö
 
-- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
+\- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
 
 Frågor som inte ingår i projektet:
-- etappindelning utifrån behov av kommunal service.
-- Åtgärder på Rörmöstvägen och Valldavägen förutom ev vid korsningspunkter.
+\- etappindelning utifrån behov av kommunal service.
+\- Åtgärder på Rörmöstvägen och Valldavägen förutom ev vid korsningspunkter.
 
-- Skyfallshantering i Vallda som inte beror av planområdet.
+\- Skyfallshantering i Vallda som inte beror av planområdet.
 
 TIDPLAN
 Q4 2024 Uppdragsbeslut BNAU
@@ -9506,7 +9506,7 @@ Klarinettens förskola är lokaliserad inom fastigheterna Fors 1:230 och Fors 1:
 Sedan renoveringen av byggnaden 2018 har Förskola & Grundskola endast bedrivit
 verksamhet i mindre omfattning i lokalerna. Detta fick till följd att byggnaden
 återlämnades till kommunstyrelsens förvaltning av nämnden för Service i december
-2022.
+2022\.
 
 Det innebär att kommunstyrelsen har ansvaret att besluta om fastigheterna och dess
 byggnader när det inte längre finns behov av dem som kommunal verksamhetslokal.
@@ -9596,7 +9596,7 @@ RINNA. s Fate 2 sor AR se SÄ Ae TVÄR RE RAS NE Rc
 mallnör Yänsstyrelsens i . Hallands län beslut 1974-06 28 . . T |+
 11,082-292-74 |
 
--
+\-
 .
 
 é
@@ -9632,8 +9632,8 @@ a) Med Es betecknat område får användas endast för
 
 1 mom Med punktprickning betecknad mark får icke bebyggas.
 
-| |
-3 $ — SÄRSKILDA FÖRESKRIFTER ANGÅENDE OMRÅDEN FÖR LEDNINGAR
+\| |
+3 \$ — SÄRSKILDA FÖRESKRIFTER ANGÅENDE OMRÅDEN FÖR LEDNINGAR
 1 mom På med u betecknad mark får. icke vidtos anordningar sem
 
 hindrar framdragande eller underhåll av underjordiska
@@ -9646,17 +9646,17 @@ LUK a RER
 
 oa RER Re ne
 
-4$
+4\$
 
 1 mom
 
 2 mom
 
-'5$ |
+'5\$ |
 
 t 1 mom
 
-6$
+6\$
 
 1 mon
 
@@ -9664,7 +9664,7 @@ t 1 mom
 
 CL
 
-7$
+7\$
 
 1 mom
 
@@ -9731,7 +9731,7 @@ antal, där terrängen så medgiver, källare inredas.
 
 <!-- sida 238 -->
 
-8 $ — BYGGNADS HÖJD
+8 \$ — BYGGNADS HÖJD
 
 I mom På med I eller I k betecknat område får byggnad icke
 uppföras till större höjd än respektive 3,5 och 6,0 m.
@@ -9743,16 +9743,16 @@ uppföras till högst den höjd i meter som siffron anger.
 .
 tg
 
-9 $ ANTAL LÄGENHETER
+9 \$ ANTAL LÄGENHETER
 
 1 mom | På med 3 eller F betecknat område får huvudbyggnad
 
 icke inrymma mera än en bostadslögenhet, I gårds-
 byggnad får bostad icke inredas.
 
--
+\-
 
-10 $  UTFARTSFÖRBUD
+10 \$  UTFARTSFÖRBUD
 
 1 mom Utfart må icke anordnas över områdesgräns som jämväl
 betecknats med ofyllda cirklar.
@@ -9768,10 +9768,10 @@ Henrik Folkenberg
 Arkitekt SAR
 
 Tillhör kommunfullmäktiges i Kungsbacka
-beslut den 11.10. 1 enligt $ 165 och
+beslut den 11.10. 1 enligt \$ 165 och
 
 samyanläggningsd
-11.
+11\.
 
 Lars E. Billton
 Sekreterare
@@ -10362,12 +10362,12 @@ gäller, förbjudet att inom området:
 A.
 Karta 5. Område med beträdnadsförbud.
 
-1. under tiden 1 april - 15 juli vistas i området som är markerat på karta 5. Förbudet
+1\. under tiden 1 april - 15 juli vistas i området som är markerat på karta 5. Förbudet
 gäller inte vid skötsel av betesmark och betesdjur. Förbudet omfattar inte
 befintlig bilväg
 
-2. uppföra byggnad, anordning eller anläggning
-3. uppföra mast eller antenn, vindkraftverk, anlägga luft- eller markledning, eller
+2\. uppföra byggnad, anordning eller anläggning
+3\. uppföra mast eller antenn, vindkraftverk, anlägga luft- eller markledning, eller
 framdra rör eller ledning i vattnet eller på bottnen
 
 Page 9 of 112
@@ -10378,18 +10378,18 @@ Länsstyrelsen                       Förslag till BESLUT       8 (24)
 Hallands län
 2024-05-29        511-5993-23
 
-4. anlägga väg, parkeringsplats, anordna camping eller uppställningsplats för
+4\. anlägga väg, parkeringsplats, anordna camping eller uppställningsplats för
 husbil, husvagn, båttrailer eller motsvarande
 
-5. anlägga brygga eller pir, vall, pålning, stensättning, vågbrytare eller
+5\. anlägga brygga eller pir, vall, pålning, stensättning, vågbrytare eller
 erosionsskydd
-6. borra, spränga, schakta, gräva, muddra eller markbearbeta
+6\. borra, spränga, schakta, gräva, muddra eller markbearbeta
 
-7. bedriva täkt av till exempel block, sten, grus, sand, lera eller matjord, tång eller
+7\. bedriva täkt av till exempel block, sten, grus, sand, lera eller matjord, tång eller
 alger
 
-8. anordna upplag, tippa, valla in vattenområde eller fylla ut
-9. dika, dämma, dikesrensa eller utföra annan åtgärd som kan påverka områdets
+8\. anordna upplag, tippa, valla in vattenområde eller fylla ut
+9\. dika, dämma, dikesrensa eller utföra annan åtgärd som kan påverka områdets
 
 hydrologi. Med Länsstyrelsen tillstånd är det dock tillåtet att underhålla dike
 enligt bestämmelserna i 11 kap. 17 § miljöbalken under förutsättning att diket är
@@ -10503,10 +10503,10 @@ Hallands län
 B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6 § MB
 ägare och innehavare av särskild rätt till marken i den aktuella delen att tåla
 åtgärder inom området enligt följande:
-1. utmärkning av naturreservatets gräns och områden med beträdnadsförbud enligt
+1\. utmärkning av naturreservatets gräns och områden med beträdnadsförbud enligt
 Naturvårdsverkets anvisningar
 
-2. betesdrift inklusive stängsling, slåtter, tuvfräsning, bränning och röjning av
+2\. betesdrift inklusive stängsling, slåtter, tuvfräsning, bränning och röjning av
 igenväxningsvegetation som träd och buskar, i de betesmarker där markägaren
 inte själv kan eller vill upprätthålla den hävd som krävs för att uppnå god
 
@@ -10514,10 +10514,10 @@ bevarandestatus för områdets naturtyper och arter (se karta 7.1)
 
 Karta 7.1. Kartan visar var i området vissa B-föreskrifter gäller.
 
-3. grävning och markbearbetning för att skapa bar sand/jord i strandängar och på
+3\. grävning och markbearbetning för att skapa bar sand/jord i strandängar och på
 kusthedar (se karta 7.1)
 
-4. anläggning av ängsvall (se karta 7.2)
+4\. anläggning av ängsvall (se karta 7.2)
 
 Page 13 of 112
 
@@ -10527,12 +10527,12 @@ Länsstyrelsen                       Förslag till BESLUT      12 (24)
 Hallands län
 2024-05-29        511-5993-23
 
-5. åtgärder för att återställa hydrologin, som till exempel restaurering av våtmark
+5\. åtgärder för att återställa hydrologin, som till exempel restaurering av våtmark
 och igenläggning av diken samt anläggning av småvatten (se karta 7.2)
 
-6. fällning och röjning av träd samt naturvårdande skötsel av träd så som
+6\. fällning och röjning av träd samt naturvårdande skötsel av träd så som
 veteranisering och hamling (se karta 7.2)
-7. anläggning av tillgänglighetsanpassad led och tältplats med vindskydd samt
+7\. anläggning av tillgänglighetsanpassad led och tältplats med vindskydd samt
 utmärkning av ny stig, (se karta 7.2) samt uppsättning av bänkbord på halvön.
 
 Karta 7.2. Kartan visar var i området vissa B-föreskrifter gäller.
@@ -10545,9 +10545,9 @@ Länsstyrelsen                       Förslag till BESLUT      13 (24)
 Hallands län
 2024-05-29        511-5993-23
 
-8. underhåll av friluftslivsanordningar
+8\. underhåll av friluftslivsanordningar
 
-9. naturvårdande jakt på vildsvin, grävling, mink, iller, mård, räv, kråkfågel,
+9\. naturvårdande jakt på vildsvin, grävling, mink, iller, mård, räv, kråkfågel,
 havstrut, trana, grågås, vitkindad gås och kanadagås. I samband med denna jakt
 har förvaltaren eller den förvaltaren uppdrar åt, rätt att medföra hund och vid
 behov använda, åtel, vätte, bulvan och jakttorn, samt laserpekare för att skrämma
@@ -10562,23 +10562,23 @@ svamp- och djurliv.
 
 C. Med stöd av 7 kap. 30 § MB, om rätten att färdas och vistas i den aktuella delen
 av reservatet är det utöver vad som annars gäller förbjudet att:
-1. under tiden 1 april - 15 juli vistas i det område som är markerat på karta 5.
+1\. under tiden 1 april - 15 juli vistas i det område som är markerat på karta 5.
 Förbudet omfattar inte befintlig bilväg (se karta 5)
 
-2. framföra motordrivet fordon på land annat än på befintliga vägar eller parkera
+2\. framföra motordrivet fordon på land annat än på befintliga vägar eller parkera
 annat än på markerad parkeringsplats (se karta 8)
 
-3. ha husvagn eller husbil parkerad i reservatet kl. 22:00 - 06:00
-4. sätta upp tält annat än på anvisad tältplats (se karta 8)
+3\. ha husvagn eller husbil parkerad i reservatet kl. 22:00 - 06:00
+4\. sätta upp tält annat än på anvisad tältplats (se karta 8)
 
-5. elda annat än på anvisad plats (se karta 8)
-6. cykla annat än på befintliga vägar (se karta 8)
+5\. elda annat än på anvisad plats (se karta 8)
+6\. cykla annat än på befintliga vägar (se karta 8)
 
-7. åka vattenskidor, wakeboard eller liknande vattensportsutrustning efter båt
+7\. åka vattenskidor, wakeboard eller liknande vattensportsutrustning efter båt
 
-8. utöva brädsegling, kitesurfing, skärmflygning, drakflygning eller liknande
+8\. utöva brädsegling, kitesurfing, skärmflygning, drakflygning eller liknande
 aktiviteter
-9. starta eller landa med bemannat eller obemannat luftfartyg till exempel
+9\. starta eller landa med bemannat eller obemannat luftfartyg till exempel
 
 helikopter, gyrokopter, drönare eller modellflygplan
 10.ha båt upplagd på stranden, ankrad eller förtöjd mellan kl. 22:00 - 06:00
@@ -11145,11 +11145,11 @@ Hallands län
 2 024-05-29       511-5993-23
 
 Bilagor
-1. Skötselplan
+1\. Skötselplan
 
-2. Beslut från 1972 och 1983 med tillhörande kartor
+2\. Beslut från 1972 och 1983 med tillhörande kartor
 
-3. Rödlistade och andra naturvårdsintressanta arter
+3\. Rödlistade och andra naturvårdsintressanta arter
 
 Kartor:
 © Naturvårdsverket, © Lantmäteriet, © Lantmäteriet Geodatasamverkan, ©
@@ -11206,9 +11206,9 @@ Förord ........................................................................
 
 Innehållsförteckning ........................................................................................................2
 
-1. Syfte med säkerställande och skötsel .........................................................................3
+1\. Syfte med säkerställande och skötsel .........................................................................3
 
-2. Beskrivning av området ..............................................................................................4
+2\. Beskrivning av området ..............................................................................................4
 
 2.1 Markslag, naturtyper och arter.....................................................................................4
 2.2 Historisk och nuvarande markanvändning och naturförhållanden ..............................7
@@ -11216,18 +11216,18 @@ Innehållsförteckning .........................................................
 2.3 Beskrivning av bevarandevärden ...............................................................................13
 2.4 Referenser ..................................................................................................................15
 
-3. Skötsel av området.....................................................................................................16
+3\. Skötsel av området.....................................................................................................16
 
 3.1. Generella riktlinjer ....................................................................................................16
 3.2 Skötselområden .........................................................................................................21
 
-4. Friluftsliv och turism .................................................................................................33
+4\. Friluftsliv och turism .................................................................................................33
 
-5. Tillsyn, dokumentation och uppföljning .................................................................34
+5\. Tillsyn, dokumentation och uppföljning .................................................................34
 
-6. Sammanfattning och prioritering av planerade skötselåtgärder ..........................34
+6\. Sammanfattning och prioritering av planerade skötselåtgärder ..........................34
 
-7. Kartor .........................................................................................................................36
+7\. Kartor .........................................................................................................................36
 
 7.1 Översiktskarta ............................................................................................................36
 7.2 Naturtyper enligt Natura 2000 ...................................................................................37
@@ -11243,7 +11243,7 @@ Skötselplan
 Datum            Diarienummer
 2024-05-29       5992-2023
 
-1. Syfte med   säkerställande    och skötsel
+1\. Syfte med   säkerställande    och skötsel
 
 Syftet med reservatet i den aktuella delen är att bevara biologisk mångfald, att bevara och
 vårda värdefulla naturmiljöer, samt att återställa och utveckla värdefulla livsmiljöer för
@@ -11313,7 +11313,7 @@ landskapsbild negativt
 kunskapen om marina ekosystem, fåglar, andra hotade arter, naturvårdsbiologi och
 skötselmetoder främjas.
 
-2. Beskrivning   av området
+2\. Beskrivning   av området
 
 Det befintliga naturreservatet och Natura 2000-området Vallda Sandö ligger i det
 nordhalländska kustbandet mellan Stallviken och Låddholmsviken, ca 6 km väster om
@@ -11789,7 +11789,7 @@ Västkuststiftelsen samt Länsstyrelserna i Halland, Västra Götaland och Skån
 Svenska fiskeregler. Länsstyrelserna, Jordbruksverket och Havs och Vattenmyndigheten.
 www.svenskafiskeregler.se/
 
-3. Skötsel av  området
+3\. Skötsel av  området
 
 3.1. Generella riktlinjer
 Skötsel av strandängarna
@@ -12558,7 +12558,7 @@ Mål: En öppen och trivsam miljö för reservatets besökare.
 •  Städning vid behov.
 •
 
-4. Friluftsliv och turism
+4\. Friluftsliv och turism
 
 Beskrivning:
 
@@ -12625,13 +12625,13 @@ Härifrån är det cirka 1 kilometer till parkeringen. Om man kommer med bil kö
 skyltat mot Vallda och Sandö och sedan direkt höger mot Sandö (Sandövägen). Efter
 cirka 4 kilometer leder en grusväg ut till parkeringen i reservatet.
 
-5. Tillsyn, dokumentation     och  uppföljning
+5\. Tillsyn, dokumentation     och  uppföljning
 
 Länsstyrelsen ansvarar för att uppföljning av bevarandemål genomförs. Uppföljningen
 ska ske enligt de manualer för skyddade områden som har tagits fram av
 Naturvårdsverket. Länsstyrelsen ansvarar för regelbunden tillsyn av reservatet.
 
-6. Sammanfattning      och  prioritering  av
+6\. Sammanfattning      och  prioritering  av
 planerade   skötselåtgärder
 
 34 Page 62 of 112
@@ -12681,7 +12681,7 @@ Länsstyrelsen I Hallands län         Skötselplan
 2024-05-29
 5992-2023
 
-7. Kartor
+7\. Kartor
 
 7.1 Översiktskarta
 
@@ -12792,7 +12792,7 @@ Statens naturvårdsw�i    ex
 Kungsbacka kommun
 Naturvårdsenheten 2 ex, Dossier, Akten
 . I .   Kopia
-__________M       a _ r _ k _ _ a _· g .;;.· a _ r_ e __ en _ l _ _J._· _ gt __ bi_ _fo_ _g_ a d__fö_ r _ _te_ _c.;....k_n.;.;i... n g;... '-- _________ K_�JL
+\_\_\_\_\_\_\_\_\_\_M       a \_ r \_ k \_ \_ a \_· g .;;.· a \_ r\_ e \_\_ en \_ l \_ \_J.\_· \_ gt \_\_ bi\_ \_fo\_ \_g\_ a d\_\_fö\_ r \_ \_te\_ \_c.;....k_n.;.;i... n g;... '-- \_\_\_\_\_\_\_\_\_ K\_�JL
 Postadress                                                 Postgiro
 Telefon
 Page 74 of 112
@@ -12851,9 +12851,9 @@ VATTEN
 2.1      Mål för mark- och vegetationsvård                 7
 
 2
-2.       Principer för disposition av marken samt �tg�rder 7
+2\.       Principer för disposition av marken samt �tg�rder 7
 av allmän karaktär
-2. 2. 1                                                    7
+2\. 2. 1                                                    7
 Hävd av strandängen
 7
 2.2.1.1   Bete
@@ -12863,13 +12863,13 @@ Hävd av strandängen
 2.2.1.3  Stängsel
 7
 2.2.1.4  Vattenförsörjning
-2. 2. 2                                                    7
+2\. 2. 2                                                    7
 Hävd av hällmarksljungheden
 2.2 . 3                                                    8
 Hävd av skogen
 2.2 . 4                                                    8
 Hävd av odlad mark och ängsmark
-2. 2. 5                                                    8
+2\. 2. 5                                                    8
 Fornminnen och fornminnesområden
 2.2 . 6                                                    8
 Reningsverk
@@ -12877,7 +12877,7 @@ Reningsverk
 Småbåtshamn
 2.2 . 8                                                    8
 Golfbana
-2. 2. 9                                                    9
+2\. 2. 9                                                    9
 Luf tle dni ng
 9
 2.2.10    Vattenledning
@@ -12937,19 +12937,19 @@ Skötselområde 4 b                                 16
 2.4       Komprimerat skötselprogram                        16
 3         PLAN FÖR ANLÄGGNING, DISPOSITION OCH SKÖTSEL      17
 AV ANORDNINGAR FÖR ALLMÄNHETEN
-3. 1      Allmänt                                           17
-3. 2                                                        18
+3\. 1      Allmänt                                           17
+3\. 2                                                        18
 Befintliga och föreslagna anordningar
-3. 2. 1                                                     18
+3\. 2. 1                                                     18
 Parkeringsplats
-3. 2. 2   Badplats                                          18
-3. 2. 3   Toaletter                                         18
-3. 2. 4   Sop kärl                                          18
+3\. 2. 2   Badplats                                          18
+3\. 2. 3   Toaletter                                         18
+3\. 2. 4   Sop kärl                                          18
 3.2.5     Väg och stigar                                    1 8
-3. 2.6    Stängselgenomgångar                               18
-3. 2.7    Utsiktpunkter                                     18
-3. 2.8    Fågelt orn                                        18
-3. 2.9    Informationstavlor                                19
+3\. 2.6    Stängselgenomgångar                               18
+3\. 2.7    Utsiktpunkter                                     18
+3\. 2.8    Fågelt orn                                        18
+3\. 2.9    Informationstavlor                                19
 3.2.10    Vägvisning och gränsmarkering                     19
 3.2.11    Informationsfolder                                19
 4         EKONOMISK FLERARSPLAN                             20
@@ -13227,7 +13227,7 @@ fortsätta en mindre väg rakt fram ca 1 km till en
 giftsbelagd P-plats strax bortom gården, se bilaga 1.
 
 1 . 5
-Föreskrifter angående rätten att._förfoga över fastighet
+Föreskrifter angående rätten att.\_förfoga över fastighet
 Det är förbjudet
 att utan länsstyrelsens tillstånd uppföra ny byggnad
 eller väsentligt ändra byggnads yttre utseende
@@ -13310,28 +13310,28 @@ gan).
 1 . 7
 Vård- och förvaltningsbestämmelser
 
-1.  Syftet med reservatet är att bevara ett för både
+1\.  Syftet med reservatet är att bevara ett för både
 den vetenskapliga och den sociala naturvården synner­
 ligen värdefullt avsnitt av den halländska kusten. Om­
 rådet skall bevaras så, att allmänheten beredes möjlig­
 het till rekreation och friluftliv i en så orörd miljö
 som möjligt, samtidigt som områdets stora vetenskapliga
-- främst botaniska och ornitologiska - värden beaktas.
-2.  Området skall skötas så, att dess karaktär av öppet
+\- främst botaniska och ornitologiska - värden beaktas.
+2\.  Området skall skötas så, att dess karaktär av öppet
 kustlandskap bibehålles. Skötseln skall ske i enlighet
 med en skötselplan, vilken upprättas av respektive för­
 valtare i samråd med länets skötselråd och därefter
 godkännes av statens naturvårdsverk och länsstyrelsen.
-3.  Inom den del av naturreservatet, som tillika utgör
+3\.  Inom den del av naturreservatet, som tillika utgör
 fornminnesområde, gäller därtill särskilda bestämmel­
 ser enligt fornminneslagen.
-4.  Den del av området som varit föremål för kommunalt
+4\.  Den del av området som varit föremål för kommunalt
 förvärv skall förvaltas av markägaren. Övriga delar av
 reservatet skall förvaltas av skogsvårdsstyrelsen i
 samråd med vederbörande markägare. Den kronan tillhö­
 riga ön Klöven skall dock förvaltas av domänverket
 eller den domänverket förordnar därtill.
-5.  Förvaltaren skall anordna toaletter, uppsamlings­
+5\.  Förvaltaren skall anordna toaletter, uppsamlings­
 kärl för avfall och dylikt i den mån besöksfrekvensen
 påkallar dessa åtgärder.
 
@@ -13343,7 +13343,7 @@ Bilaga              2
 
 7
 
-6.  Naturreservatet, som skall benämnas 11Vallda Sandö",
+6\.  Naturreservatet, som skall benämnas 11Vallda Sandö",
 skall genom förvaltarens försorg utmärkas i enlighet
 med de anvisningar som utfärdats av statens naturvårds­
 verk. Förordnandet omfattar ej fastigheterna Vallda
@@ -13394,7 +13394,7 @@ föras i den mån de negativt inverkar på landskapets
 på-- störa delar- långsam·,, varför röjningar dflr, endast be,­
 hövet. utfö�as fu�dJflera.åis ·mellanrufu. Fö�ekommind�.
 i
-grat t�s bort._förutsätthing�r att b�t� åt�rstående
+grat t�s bort.\_förutsätthing�r att b�t� åt�rstående
 d�lar.av halvön bör undersökas av länsstyrelsen.
 
 Page 84 of 112
@@ -13405,8 +13405,8 @@ Bilaga              2
 
 8
 
-2. 2. 3
-_t!ä�d_a� �k�g�n
+2\. 2. 3
+\_t!ä�d_a� �k�g�n
 
 Barrskogen på halvöns centrala del avvecklas gradvis
 till förmån för uppväxande ek, varvid en kustekskog
@@ -13414,22 +13414,22 @@ med inslag av enstaka grova tallar efterstr�vas.
 Förekommande gran tas bort. Ädellövskogs- och al­
 skogsfragment bevaras och tillåt"s i viss mån att ex­
 pandera.
-2. 2. 4
+2\. 2. 4
 �ä�d_a� �d�ai mark_och_ängsmark
 Ängsmarkerna hålls öppna genom årlig betesdrift. Vid
 behov röjs uppväxande buskar. Den odlade jorden skall
 btbehålla sin öppenhet genom betesdrift eller åker­
 odling. Gödsling av Råglyckan med naturligt gödsel
 bör tillåtas.
-2. 2. 5
+2\. 2. 5
 Fornminnen och fornminnesområden
 Inom reservatet finns ett antal fornminnen (se bilaga
-4) för vilka gäller skydd enligt§§  1-3 fornminnesla­
+4\) för vilka gäller skydd enligt§§  1-3 fornminnesla­
 gen. Dessutom finns fyra fornminnesområden (se bilaga
 4), för vilka länsstyrelsen 1966-12-12 med stöd av 3 §
 fornminneslagen fastställt gränserna.
 
-2. 2. 6
+2\. 2. 6
 
 Inom fastigheten Vallda 21:47 finns ett reningsverk
 (se bilaga 2), vilket enligt statens vatteninspektion
@@ -13438,7 +13438,7 @@ att betrakta som ett provisorium, tills den planera-
 de reningsanläggningen vid Lerkilsområdet färdig­
 ställts. Reningsverket bör vid upphörd drift avvecklas
 och marken överföras till betes- eller åkermark.
-2. 2. 7
+2\. 2. 7
 Småbåtshamn
 Enligt beslut av länsstyrelsen 1975-04-21 gavs till­
 stånd till Göteborgs Idrotts- och friluftsförbund att
@@ -13447,7 +13447,7 @@ digare för samma ändamål utnyttjat mindre område på
 norra delen av Vallda Sandö. Tillståndet är förknip­
 pRt med vissa villkor (se bilaga 7). Småbåtshamnens
 nuvarande utbredning och läge framgår av bilaga 4.
-2. 2. 8
+2\. 2. 8
 Golfbana
 En golfbana har efter länsstyrelsens beslut 1974-12-10
 anlagts inom fastigheterna Vallda 24:5 och 25:3 av
@@ -13497,7 +13497,7 @@ längre används för sitt ändamål.
 2.2.13
 
 Inom reservatet befintliga byggnader framgår av bilaga
-2. En olovligen uppförd byggnad, närmast väster om
+2\. En olovligen uppförd byggnad, närmast väster om
 fastigheten 6:25, inom fastigheten Vallda 6:5 har en-
 ligt beslut av byggnadsnämnden i Kungsbacka kommun
 1972-10-05 belagts med vitesföreläggande. Byggnaden
@@ -13505,14 +13505,14 @@ står dock fortfarnade kvar. Byggnaderna vid Sandö gård
 är ålderdomliga och underhållet eftersatt. Den ålder­
 domliga gårdskaraktären bör i möjligaste mån bevaras.
 Baracken får tills vidare stå kvar men bör på sikt rivas.
-2.2.14   � ä g_
+2.2.14   � ä g\_
 
 Om en förbättring av vägen ut till Vallda Sandö skulle
 bli aktuell i framtiden måste biologisk expertis ovill­
 korligen vidtalas redan på planeringsstadiet för en
 bedömning av de ekologiska följderna inom strandängs­
 området av ev dräneringsarbeten.
-2.2.15   1t �n_g_äE_ d�g år�a E_
+2.2.15   1t �n_g_äE\_ d�g år�a E\_
 
 Befintliga stengärdsgårdar bevaras och underhålls vid
 behov.
@@ -13548,7 +13548,7 @@ Klöven, vilket bör regleras genom avtal mellan de bå­
 da berörda förvaltarna. I möjligaste mån bör vårdåt­
 gärder samordnas mellan skogsvårdsstyrelsen och Göte­
 borgs kommun.
-2. 2 .19
+2\. 2 .19
 En av förvaltaren utsedd tillsyningsman ska utöva till­
 syn av reservatet. För tillsyningsman ska upprättas
 avtal och instruktioner.
@@ -13558,7 +13558,7 @@ avtal och instruktioner.
 Sopor och latrinkärl ska omhändertas genom kommunens
 försorg. Avtal om sophämtning upprättas mellan för­
 valtaren och kommunen.
-2. 2. 21
+2\. 2. 21
 �t�a�d�t�d�i�g
 Vid behov utföres strandstädning på våren före 15/4.
 
@@ -13572,13 +13572,13 @@ samt åtgärder av engångs- och underhållskaraktär anges.
 För skötselåtgärder av allmän karaktär hänvisas till
 2.2.
 kap      Skötselområdena har indelats enligt följande:
-1.  Strandängar och övriga ängs-/hedmarker
+1\.  Strandängar och övriga ängs-/hedmarker
 a) Strandängar med angränsande marker
 b) Strandängen norr om Sandö gård
 c) Igenvuxen strandäng
 d) Ängs- och hedmark vid Kalvheden
 e) Ängsmark SV Nötaberget
-2.  Hällmarksljunghed
+2\.  Hällmarksljunghed
 
 a) Vallda Sandös centrala del
 b) Sandöknapp
@@ -13597,9 +13597,9 @@ e)  Danevarden
 f)  Alekläppa
 g)  Öarna i Stallviken
 h)  Område V Nötaberget
-3.  Skogen på Vallda Sandös centrala del.
+3\.  Skogen på Vallda Sandös centrala del.
 
-4.  Odlingsmark. Aker eller vall.'·
+4\.  Odlingsmark. Aker eller vall.'·
 a) Odlingsmark runt Sandö gård och på fastlands­
 sidan
 b) Golfbana
@@ -13685,7 +13685,7 @@ betas.
 Mål:         Öppen ängs-/hedmark.
 Atgärd:      Engångsåtgärd: Gallring av enbuskar längs
 vägen. Uppsättning av stängsel enligt bil
-5. En grusgrop strax norr om Ottervik
+5\. En grusgrop strax norr om Ottervik
 fylls igen och omgärdas av stängsel så
 att vegetationen kan utvecklas.
 Underhållsåtgärd: Arligt bete. Bete väster
@@ -14022,7 +14022,7 @@ Behandlade anordningar har angivits på karta (bilaga 6).
 
 3.2       Befintliga och föreslagna anordningar
 
-3. 2. 1
+3\. 2. 1
 
 En parkeringsplats finns strax söder ·om småbåtshamneno
 Parkeringen föreslås utvidgas åt väster  enligt karta.
@@ -14064,12 +14064,12 @@ kappade och barnvagnar.
 Stängselgenomqångar, för att unerlätta framkomlighe­
 ten, har markerats på karta.
 �i
-3.2.7      Ut kt sp�_nkt �r
+3.2.7      Ut kt sp�\_nkt �r
 Bra utsiktspunkter har markerats på karta.
 
 3.2.8    f_å
-_g_
-e!_t�r!l_
+\_g\_
+e!\_t�r!l\_
 För att underlätta studiet av fågellivet på strand­
 ängarna och  minska störningarna kan ett fågeltorn upp­
 sättas i buskaget, strax norr om vägen, som leder
@@ -14093,7 +14093,7 @@ Placering av informationstavlor och fågelskyddstav­
 lor framgår av karta. En större informationstavla
 med mer information bör utarbetas och uppsättas på
 parkeringsplatsen.
-3.2.10    V ä .S!.. v is n in g _o c h _gr ä n s m ar k er in .S!..
+3.2.10    V ä .S!.. v is n in g \_o c h \_gr ä n s m ar k er in .S!..
 
 Detta skall utföras enligt svensk standard och natur­
 vårdsverkets anvisningar. Vid infartsvägen till Vallda
@@ -14147,22 +14147,22 @@ NATURRESERVATET
 
 VALLDA    SANDO
 
-\
+\\
 d
 i
-l-1',ij :-,L:.);1c\.::>:.:.. I !
-\
+l-1',ij :-,L:.);1c\\.::>:.:.. I !
+\\
 J
 I
 'I
 ---  '
-....... -,-.'\.':
+....... -,-.'\\.':
 //  • ··,,1-,.,, '·,"
 l.
-\
+\\
 
-\
-\
+\\
+\\
 ; FALKENBERG
 <)S
 
@@ -14171,7 +14171,7 @@ I
 } HAL!<,\STAD r l ---
 
 .J
-,---..·--./ "\
+,---..·--./ "\\
 
 04                                                                        04
 TECKENFÖRKLARING
@@ -14189,7 +14189,7 @@ Skala 1 : 600 000
 0     10     20    30 km
 .n
 <
-'Ji·) j).,_1) Pageh,J 1 98 of 112   O(Jl l<bJ
+'Ji·) j).,\_1) Pageh,J 1 98 of 112   O(Jl l\<bJ
 
 <!-- sida 345 -->
 
@@ -14242,7 +14242,7 @@ I
 NATURRESERVAT
 I
 ••      0                                                                   I
-SK0TSEL0MRADEN                                                                  \"-B�g
+SK0TSEL0MRADEN                                                                  \\"-B�g
 I   • "
 Gräns fifr naturreservat                                                    I    ·"·
 I
@@ -14250,11 +14250,11 @@ I
 Gräns· för skötse/omrdde
 I
 I
-\
-\
+\\
+\\
 I
 I
-1---...._
+1---....\_
 I
 
 0    200        600  800   1000 m
@@ -14293,7 +14293,7 @@ Bro utsiktspunkt
 :-< Spång
 
 I  Stängselgenomgång                        i'
----
+\---
 Stängsel
 -11-•- Nytt stängsel
 
@@ -14301,7 +14301,7 @@ Stängsel
 
 0    200  400   600  800   1000 m
 ';,Sk=a,;:-a-;-::t
-::10�000'=:----..L....---1----L--___J
+::10�000'=:----..L....---1----L--\_\_\_J
 Page 105 of 112
 
 <!-- sida 350 -->
@@ -14342,7 +14342,7 @@ fågelskyddsområden, 1 februari - 31 juli för fågelskyddsom-
 råden där särskilda skäl motiverar utökad tid och 15 maj -
 10 juli för sälskyddsområden.
 
-Med stöd av 10 och 14 $$ naturvårdslagen beslutar länsstyrel-
+Med stöd av 10 och 14 \$\$ naturvårdslagen beslutar länsstyrel-
 gen att tiden för tillträdesförbudet till skydd för fågel-
 livet ändras till den 1 april —- 15 juli för följande områden:
 
@@ -14863,7 +14863,7 @@ Bilaga till yttrande daterat 2024-06-27
 
 Svar på frågor ställda i Länsstyrelsens begäran om yttrande
 
-1. Hur ser dagvattensituationen ut i området? och 2. Hur är dagvattenfrågan löst idag?
+1\. Hur ser dagvattensituationen ut i området? och 2. Hur är dagvattenfrågan löst idag?
 Västra Hagen har varierad terräng med lågpunkter och instängda områden. Området är
 uppdelat i flera avrinningsområden. Området består av villafastigheter och områden med
 naturmark (bild 1). Det finns ca 300 bebyggda fastigheter som har allmänt spill- och
@@ -14925,7 +14925,7 @@ tillhörande bygglov från 2002, ha ett dammsystem för lokalt omhändertagande 
 
 <!-- sida 365 -->
 
-3. Ur dagvattenperspektiv, hur avgränsar kommunen området? Hur många fastigheter
+3\. Ur dagvattenperspektiv, hur avgränsar kommunen området? Hur många fastigheter
 omfattas?
 
 Kommunen skriver detta yttrande utifrån problematiken för boende på Västra Strandvägen 2
@@ -14946,7 +14946,7 @@ Detta inbegriper följande 9 fastigheter, inom avrinningsområdena (Bild 5), Ons
 Bild 5 och 6. Kommunens förslag på utredningsområde utifrån dagvattenproblematik i området, markerat i
 grönt som avrinningsområde för vattenstråk som rinner över Västra Strandvägen 2.
 
-4. Har det inkommit några synpunkter, någon information eller några indikationer till
+4\. Har det inkommit några synpunkter, någon information eller några indikationer till
 kommunen gällande dagvatten i området? Beskriv den information som kommunen i så
 fall har fått, till vilken förvaltning dessa inkommit, när det inkommit samt hur
 kommunen hanterat frågan.
@@ -14985,12 +14985,12 @@ lågpunkt och vatten tryckte upp vid sidan av vägen och hade troligen gått bå
 under vägen och vidare in i huset. Boende berättade att ”vatten kom från alla håll”. Som ett
 
 försök till åtgärd för fallet Västra Strandvägen 2 stöttade kommunen med följande åtgärder:
-- kommunen grävde upp det kommunala ledningsschaktet för vatten och spill som
+\- kommunen grävde upp det kommunala ledningsschaktet för vatten och spill som
 sammanlänkar två sandlager genom berg (Bild 7), och satte dit en lerpropp för att förhindra
 att vatten skulle kunna ledas i rörgraven. Det visade sig dock att vatten inte hade runnit här
 och alltså inte var upphovet till problemet (lerpropp sattes dit ändå).
 
-- kommunen gjorde en omläggning av 30–35 meter dräneringsledning längs östra sidan av
+\- kommunen gjorde en omläggning av 30–35 meter dräneringsledning längs östra sidan av
 Västra Strandvägen, ovan Västra Strandvägen 2 och lade makadam över.
 
 <!-- sida 367 -->
@@ -15039,13 +15039,13 @@ heller.
 
 <!-- sida 369 -->
 
-5. Om det har inkommit synpunkter osv, har ni någon uppfattning om när problemen i
+5\. Om det har inkommit synpunkter osv, har ni någon uppfattning om när problemen i
 området började?
 
 Kommunen hade ingen kännedom om problematiken innan 2021. Problematiken fanns inte
 från början enligt boende då de flyttade in på fastighet Onsala-Hallen 2:18 år 2012.
 
-6. Bifoga den rapport från Sweco som det hänvisas till i begäran. Redogör för
+6\. Bifoga den rapport från Sweco som det hänvisas till i begäran. Redogör för
 slutsatserna och eventuella rekommendationer i rapporten. Redogör även för om det
 genomförts eller planeras att genomföras några åtgärder med anledning av rapporten.
 
@@ -15086,7 +15086,7 @@ fastighet som har problem som är kopplat till olägenhet för människors häls
 
 planerade med anledning av rapportens slutsatser. För hela Swecos rapport, se Bilaga 3.
 
-7. Beskriv området. Hur ser de fysiska förutsättningarna ut på platsen, till exempel
+7\. Beskriv området. Hur ser de fysiska förutsättningarna ut på platsen, till exempel
 jordmån, infiltrationsförmåga, grundvattennivå etc.
 
 <!-- sida 370 -->
@@ -15107,17 +15107,17 @@ Onsala-Hallen 2:18 ligger mestadels på svallsediment, grus och är möjligen et
 utströmningsområde för markvatten. Två vattenstråk går på varsin sida av byggnaden på
 fastigheten.
 
-8. Redogör för hur exploateringen i området har sett ut över tid. Består området av
+8\. Redogör för hur exploateringen i området har sett ut över tid. Består området av
 permanentbostäder eller tillfälliga bostäder?
 
 Utredningsområdet har varit ett sommarstugeområde som allt eftersom omvandlats till året-
 runt hus. Ett fåtal sommarstugor finns kvar. Andelen hårdgjord yta i området har successivt
 ökat.
 
-9. Finns det andra områden i närheten med liknande förutsättningar/problematik?
+9\. Finns det andra områden i närheten med liknande förutsättningar/problematik?
 Fastigheter i närheten som rapporterat problematik:
 
-- Källaröversvämning med spillvatten rapporterades från Västra Hagenvägen 54, vid
+\- Källaröversvämning med spillvatten rapporterades från Västra Hagenvägen 54, vid
 regnhändelse 2017, där spillvattenledningen gick full. Detta skedde på nytt 2021 trots
 åtgärden att montera backventil på nödutlopp från närliggande spillvattenpumpstation.
 
@@ -15126,10 +15126,10 @@ regnhändelse 2017, där spillvattenledningen gick full. Detta skedde på nytt 2
 Ytterligare åtgärder genomfördes av kommunen. Fastighetsägaren har dessutom rapporterat
 vid fler tillfällen om problem med dagvatten genom vattenansamling på tomten.
 
-- Gräsvägen 6 hade källaröversvämningar med vatten som kommer in via golvbrunn som är
+\- Gräsvägen 6 hade källaröversvämningar med vatten som kommer in via golvbrunn som är
 kopplad till spillvattenledning, 2021. Drabbades på liknande vis även 2017 vid kraftig
 regnhändelse men anmälde inte den händelsen.
-- Fastigheten på Allborydsvägen 27 har rapporterat problem med tillrinnande dagvatten till sin
+\- Fastigheten på Allborydsvägen 27 har rapporterat problem med tillrinnande dagvatten till sin
 
 tomt från fastigheter uppströms tillrinningsvägen.
 Inför att kommunalt verksamhetsområde för vatten och avlopp (då kallat VA-sanering) skulle
@@ -15143,34 +15143,34 @@ områdena och 200 av de utskickade 241 enkäterna besvarades, varav drygt 30 upp
 problem med dagvatten. På detta vis kunde ett antal problemområden utläsas:
 Marken:
 
-1. En kulvert under Valldavägen dämmer så att vatten blir stående i grönområdet längst
+1\. En kulvert under Valldavägen dämmer så att vatten blir stående i grönområdet längst
 västerut på Munkebacksvägen. Vägverket?
-2. Ett par fastigheter längs Lilla Munkebacksvägen (Köpstaden 3:49/3:53) har problem med
+2\. Ett par fastigheter längs Lilla Munkebacksvägen (Köpstaden 3:49/3:53) har problem med
 att det kommer stora vattenmängder söderifrån. 3:49 har vattenfylld källare ca 1 g/år på grund
 av att avskärande dike inte finns. De ovanliggande fastigheterna släpper sitt dag- och
 
 dränvatten vid tomtgräns.
-3. Fastigheterna Köpstaden 2:6/2:19 har problem med de vattenmängder som kommer från
+3\. Fastigheterna Köpstaden 2:6/2:19 har problem med de vattenmängder som kommer från
 berget. Det finns inget avskärande dike mellan vägen och 2:19 vilket gör att vattnet rinner
 över tomten.
 
-4. Området söder om fastigheterna Köpstaden 2.11/2:12 är sankt under vår och blöta somrar.
+4\. Området söder om fastigheterna Köpstaden 2.11/2:12 är sankt under vår och blöta somrar.
 (Se även Sevekulla 4). OBS! Fastigheten 2:12 ligger lågt! Vägföreningen har lagt en
 dagvattenledning som mynnar i en dagvattenbrunn på Munkebacksvägen.
-5. Fastigheten Köpstaden 2:23 har svårt att bli av med sitt dagvatten på grund av
+5\. Fastigheten Köpstaden 2:23 har svårt att bli av med sitt dagvatten på grund av
 
 bergförekomst i diket.
-6. Fastigheten Köpstaden 1:51 ligger i en lågpunkt och har problem med att vägtrumman
+6\. Fastigheten Köpstaden 1:51 ligger i en lågpunkt och har problem med att vägtrumman
 genom Onsala Skogsväg ligger för högt.
 
-7. Ett antal fastigheter längs Onsala Bergväg /Norra Markavägen har problem med det vatten
+7\. Ett antal fastigheter längs Onsala Bergväg /Norra Markavägen har problem med det vatten
 som kommer från höjdområdet norrut. Avskärande dike utanför Köpstaden 1:31 samt kulvert
 mellan fastigheterna Köpstaden 1:33/1:34 behövs förmodligen.
-8. Längs Festekullavägen har makadamdiken anlagts och dessa fungerar bra, men i
+8\. Längs Festekullavägen har makadamdiken anlagts och dessa fungerar bra, men i
 korsningen Festekullavägen/Onsala Bergväg dämmer det.
 
 Sevekulla:
-9. Fastigheter längs Fåraböliden. Här har ett antal fastigheter tidigare haft problem med
+9\. Fastigheter längs Fåraböliden. Här har ett antal fastigheter tidigare haft problem med
 dagvatten. Enligt vägföreningen är dessa problem lösta nu, men ett par fastighetsägare uppger
 
 <!-- sida 372 -->
@@ -15178,16 +15178,16 @@ dagvatten. Enligt vägföreningen är dessa problem lösta nu, men ett par fasti
 i enkäten att de fortfarande har problem att bli av med dagvattnet på grund av att vägdiken
 ligger för högt.
 
-10. Igenlagda diken längs Dalgången orsakar problem för en fastighetsägare då vattnet rinner
+10\. Igenlagda diken längs Dalgången orsakar problem för en fastighetsägare då vattnet rinner
 över vägen och in på hans tomt.
-11. Längs Mavägen har ett antal fastighetsägare problem med att vägdiken ligger för högt i
+11\. Längs Mavägen har ett antal fastighetsägare problem med att vägdiken ligger för högt i
 förhållande till fastigheterna, vilket innebär att de inte kan bli av med sitt dagvatten. Det dike
 
 som ligger mellan Köpstaden 10:26 och Köpstaden 10:29/10:32 behöver fördjupas och
 förbättras. Det dike som ligger norr om fastigheterna Köpstaden 10:22/10:23 behöver röjas.
 Problemet verkar också ligga i att de kulverteringar av vägdiken som är gjorda är för klena
 och därigenom dämmer och orsakar översvämningar.
-12. Längs Sevekullavägen är det några fastigheter som har uppgett att de har problem.
+12\. Längs Sevekullavägen är det några fastigheter som har uppgett att de har problem.
 Området bakom fastigheterna Sevekulla 1:5 och 1:6 är sankt och det verkar inte finnas någon
 organiserade avledning av dagvatten här. I området bakom Köpstaden 10:4 är det enligt
 
@@ -15195,15 +15195,15 @@ uppgift stora vattenansamlingar. Det ligger ett delvis igenlagt dike på baksida
 som behöver öppnas upp och förbättras.
 Älskogsbräcka:
 
-13. Området kring fastigheterna Älskogsbräcka 1:41 – 1:47 i den sydöstra delen av
+13\. Området kring fastigheterna Älskogsbräcka 1:41 – 1:47 i den sydöstra delen av
 Älskogsbräcka. Här har ett antal fastighetsägare uppgett att de har problem vid kraftigt regn
 och snösmältning. Den lilla tjärnen i sydöst avvattnas genom området och orsakar
 förmodligen problemen. Många av fastigheterna uppger att de diken som finns inte fungerar
 eftersom de inte sköts. Enligt uppgift i enkäten saknas kulvert från diket i Kaggebådan till
 Bräckavägen, vilket kan vara orsak till vattenansamlingen.
 
-14. Området kring Blindskärsvägen. Problem med kvarstående vatten i diken.
-15. Området kring fastigheterna Älskogsbräcka 1:35 – 1:39. Stora vattenmängder från mossen
+14\. Området kring Blindskärsvägen. Problem med kvarstående vatten i diken.
+15\. Området kring fastigheterna Älskogsbräcka 1:35 – 1:39. Stora vattenmängder från mossen
 belastar området. De obebyggda delarna längre norrut ligger flackt och har enligt uppgift
 otillräcklig avrinning, vilket dämmer vattenflödet från området.
 
@@ -15213,7 +15213,7 @@ bedöms kunna tillämpas även i fortsättningen. Kommunen rekommenderade en utv
 befintligt LOD-system och att ansvarsfördelningen för underhållet av bäckar, diken och
 kulvertar tydliggörs.
 
-10. Bifoga detaljplanehandlingar för det aktuella området.
+10\. Bifoga detaljplanehandlingar för det aktuella området.
 Bilaga 4–6:
 
 • Planbeskrivning - O26B-ÄDP.ÄDP_Planbeskrivning.pdf
@@ -15223,18 +15223,18 @@ Bilaga 4–6:
 
 <!-- sida 373 -->
 
-11. Bifoga de dagvattenutredningar som gjorts för området och eventuellt närliggande
+11\. Bifoga de dagvattenutredningar som gjorts för området och eventuellt närliggande
 områden.
 
 Bilaga 7:
 • Sammanställning av dagvattenenkäter Marken/Sevekulla/Älskogsbräcka -
 Dagvatteninventering_kopia.doc
 
-12. Planeras ytterligare förtätningar i området? Om ja, redovisa de planer som finns.
+12\. Planeras ytterligare förtätningar i området? Om ja, redovisa de planer som finns.
 
 Nej.
 
-13. Vilken är recipienten för dagvatten från området? Hur bedömer kommunen
+13\. Vilken är recipienten för dagvatten från området? Hur bedömer kommunen
 dagvattnets påverkan på recipienten?
 
 Recipienten är Töseviken som ligger inom vattenförekomsten Onsala kustvatten
@@ -15246,7 +15246,7 @@ ställen höga och bedöms härstamma från båttrafik. Kommunen bedömer ingen 
 föroreningsbelastning från utredningsområdet då det är gles villabebyggelse uppblandat med
 naturmark och där finns ingen genomfartstrafik.
 
-14. Bifoga en karta över området som även visar er bedömning av hur många
+14\. Bifoga en karta över området som även visar er bedömning av hur många
 fastigheter det rör sig om.
 
 Se även svar under Fråga 2. De fastigheter som ingår är Onsala-Hallen 2:49, 2:10, 2:48, 2:12,
@@ -15256,7 +15256,7 @@ Se även svar under Fråga 2. De fastigheter som ingår är Onsala-Hallen 2:49, 
 
 Bild 10. Fastigheter som ingår i utredningsområdet.
 
-15. Bifoga karta där verksamhetsområden i närheten framgår. Specificera vilka
+15\. Bifoga karta där verksamhetsområden i närheten framgår. Specificera vilka
 vattentjänster som avses inom de olika verksamhetsområdena.
 
 Norr om utredningsområdet finns ett mindre verksamhetsområde för dagvatten där sju
@@ -15285,7 +15285,7 @@ kommunal dagvattenlednings är synlig i grönt.
 Bild 13. Verksamhetsområde för Spillvatten (rött rutnät), verksamhetsområde för vatten (blått rutnät) och
 verksamhetsområde för dagvatten gata i och omkring utredningsområdet.
 
-16. Anser Kungsbacka kommun att det föreligger ansvar enligt 6 § lagen om allmänna
+16\. Anser Kungsbacka kommun att det föreligger ansvar enligt 6 § lagen om allmänna
 vattentjänster avseende dagvatten för det aktuella området? Redogör för skälen till den
 bedömning som kommunen gör.
 Kommunen har under förlängd svarstid filmat de befintliga dräneringsledningar och privata
@@ -15304,7 +15304,7 @@ vissa utmaningar med bortledande av dagvatten, men kommunen:
 
 <!-- sida 378 -->
 
-- är fortfarande osäker på om kommunal hantering av dagvattnet i området är det som
+\- är fortfarande osäker på om kommunal hantering av dagvattnet i området är det som
 kommer hjälpa upp situationen på Västra Strandvägen 2, där vattnet kommer från under
 marken, trycks upp och går in under huset även under torrperioder. Vid kraftigt regn tränger
 vatten både över och under vägen in på berörd fastighet.
@@ -15848,7 +15848,7 @@ BEHOVSUTREDNING DAGVATTEN VÄSTRA HAGEN
 
 <!-- sida 405 -->
 
-Tabell 3. Parametrar för bedömning av behov av verksamhetsområde för dagvatten. *Uppmätta
+Tabell 3. Parametrar för bedömning av behov av verksamhetsområde för dagvatten. \*Uppmätta
 grundvattennivåer i brunnsregistret bedöms som osäkra och har inte beaktats i modellen.
 
 22(30)
@@ -15863,7 +15863,7 @@ BEHOVSUTREDNING DAGVATTEN VÄSTRA HAGEN
 | --- | --- | --- | --- |
 | Behov i ett större sammanhang |  |  |  |
 | Infiltrationskapacit<br>et | Marken är<br>mestadels<br>självdränerande<br>med en<br>permeabilitet >10-4<br>m/s. | Infiltration sker men den<br>är begränsad,<br>permeabilitet hos jordart<br>varierar mellan 10-4-10-8<br>m/s | Marken är<br>mestadels tät med<br>en permeabilitet<br>>10-8 m/s eller<br>består av berg. |
-| Grundvattennivå* | Grundvattennivån<br>ligger djupare än 2<br>m från markyta. | Grundvattennivån ligger<br>inom 1-2 m från markyta. | Grundvattennivån<br>ligger ytligt eller<br>inom 1 m från<br>markyta. |
+| Grundvattennivå\* | Grundvattennivån<br>ligger djupare än 2<br>m från markyta. | Grundvattennivån ligger<br>inom 1-2 m från markyta. | Grundvattennivån<br>ligger ytligt eller<br>inom 1 m från<br>markyta. |
 | Avledning av<br>dagvatten | Alla fastigheter kan<br>avleda sitt<br>dagvatten till<br>naturmark/<br>recipient. | Flertalet fastigheter kan<br>avleda sitt dagvatten till<br>naturmark/recipient. | Inga eller ett fåtal<br>fastigheter kan<br>avleda sitt dagvatten<br>till<br>naturmark/recipient. |
 | Bebyggelsetryck | Lågt<br>bebyggelsetryck<br>alternativt finns<br>beslut att ej<br>godkänna fler<br>bygglov. | Medelhögt<br>bebyggelsetryck/omvandl<br>ing till permanentboende.<br>Alternativt högt tryck som<br>inte är politiskt beslutat. | Högt<br>bebyggelsetryck/<br>omvandling till<br>permanentboende.<br>Detta ska vara<br>beslutat i ÖP, FÖP<br>eller DP. |
 | Andel hårdgjord<br>yta<br>(bostadsfastighete<br>r) | Mindre än 20%<br>hårdgjord yta | 20-40% hårdgjord yta | Mer än 40%<br>hårdgjord yta |
@@ -16241,13 +16241,13 @@ planens genomförande kan antas medföra betydande miljöpåverkan eller inte.
 Kommunen skall göra sin bedömning enligt de kriterier som anges i bilaga 4 till
 förordningen om miljökonsekvensbeskrivningar.
 
--  Detaljplanerna bedöms inte medge användning som innebär betydande
+\-  Detaljplanerna bedöms inte medge användning som innebär betydande
 påverkan på miljön. (PBL 5 kap 188)
 
--  Detaljplanerna bedöms inte innehålla verksamheter som kan påverka ett
+\-  Detaljplanerna bedöms inte innehålla verksamheter som kan påverka ett
 Natura 2000-område.
 
--  Detaljplanerna bedöms inte medföra någon betydande miljöpåverkan utifrår
+\-  Detaljplanerna bedöms inte medföra någon betydande miljöpåverkan utifrår
 sina karaktäristiska egenskaper eller sina befintliga värden och typen av
 påverkan. Planområdena är tidigare planlagda områden för bostäder.
 
@@ -16355,7 +16355,7 @@ IN 3:27
 ra Vd
 
 Sö. bo” SN
->"
+\>"
 x
 N
 LU
@@ -16365,7 +16365,7 @@ LU
 i
 i
 IG
-- ! Lill Iksvagen ;
+\- ! Lill Iksvagen ;
 1 | = ”/
 . 5 |
 Uj
@@ -16459,13 +16459,13 @@ planens genomförande kan antas medföra betydande miljöpåverkan eller inte.
 Kommunen skall göra sin bedömning enligt de kriterier som anges i bilaga 4 till
 förordningen om miljökonsekvensbeskrivningar.
 
--  Detaljplanerna bedöms inte medge användning som innebär betydande
+\-  Detaljplanerna bedöms inte medge användning som innebär betydande
 påverkan på miljön. (PBL 5 kap 188)
 
--  Detaljplanerna bedöms inte innehålla verksamheter som kan påverka ett
+\-  Detaljplanerna bedöms inte innehålla verksamheter som kan påverka ett
 Natura 2000-område.
 
--  Detaljplanerna bedöms inte medföra någon betydande miljöpåverkan utifrån
+\-  Detaljplanerna bedöms inte medföra någon betydande miljöpåverkan utifrån
 sina karaktäristiska egenskaper eller sina befintliga värden och typen av
 påverkan. Planområdena är tidigare planlagda områden för bostäder.
 
@@ -16570,7 +16570,7 @@ Beslutet har vunnit laga kraft 2008-12-04
 
 0 20 40 60 80 100 120 140 160 180 200 m
 
- 026B 0 53B
+026B 0 53B
 
 <!-- sida 417 -->
 
@@ -16585,11 +16585,11 @@ Kungsbacka kommun. I området finns ca 240 fastigheter varav ca 15 är obebyggda
 genomtänkt lösning.
 
 Arbetet med att kartlägga nuvarande dagvattenhantering har bestått av följande delmoment:
-1. Insamling och utvärdering av information från befintliga kartor över området.
-2. Dagvattenenkät som har skickats ut till samtliga fastighetsägare har sammanställts och
+1\. Insamling och utvärdering av information från befintliga kartor över området.
+2\. Dagvattenenkät som har skickats ut till samtliga fastighetsägare har sammanställts och
 utvärderats.
-3. Fältbesiktning med representanter från två av de tre samfälligheterna.
-4. Utvärdering och redovisning i form av rapport och kartor.
+3\. Fältbesiktning med representanter från två av de tre samfälligheterna.
+4\. Utvärdering och redovisning i form av rapport och kartor.
 
 Områdesbeskrivning
 Det undersökta områdets lägsta nivå i norr är ca +10 meter. I området finns ett antal
@@ -16615,9 +16615,9 @@ problem med dagvatten i dagsläget. Det går ur dessa resultat att utläsa att d
 ”problemområden”.
 
 Marken:
-1. En kulvert under Valldavägen dämmer så att vatten blir stående i grönområdet längst
+1\. En kulvert under Valldavägen dämmer så att vatten blir stående i grönområdet längst
 västerut på Munkebacksvägen. Vägverket?
-2. Ett par fastigheter längs Lilla Munkebacksvägen (Köpstaden 3:49/3:53) har problem med
+2\. Ett par fastigheter längs Lilla Munkebacksvägen (Köpstaden 3:49/3:53) har problem med
 att det kommer stora vattenmängder söderifrån. 3:49 har vattenfylld källare ca 1 g/år på
 grund av att avskärande dike inte finns. De ovanliggande fastigheterna släpper sitt dag-
 och dränvatten vid tomtgräns.
@@ -16628,36 +16628,36 @@ och dränvatten vid tomtgräns.
 
 Sammanställning av dagvattenenkäter Marken/Sevekulla/Älskogsbräcka
 
-3. Fastigheterna Köpstaden 2:6/2:19 har problem med de vattenmängder som kommer från
+3\. Fastigheterna Köpstaden 2:6/2:19 har problem med de vattenmängder som kommer från
 berget. Det finns inget avskärande dike mellan vägen och 2:19 vilket gör att vattnet rinner
 över tomten.
-4. Området söder om fastigheterna Köpstaden 2.11/2:12 är sankt under vår och blöta somrar.
+4\. Området söder om fastigheterna Köpstaden 2.11/2:12 är sankt under vår och blöta somrar.
 (Se även Sevekulla 4). OBS! Fastigheten 2:12 ligger lågt! Vägföreningen har lagt en
 dagvattenledning som mynnar i en dagvattenbrunn på Munkebacksvägen.
-5. Fastigheten Köpstaden 2:23 har svårt att bli av med sitt dagvatten på grund av
+5\. Fastigheten Köpstaden 2:23 har svårt att bli av med sitt dagvatten på grund av
 bergförekomst i diket.
-6. Fastigheten Köpstaden 1:51 ligger i en lågpunkt och har problem med att vägtrumman
+6\. Fastigheten Köpstaden 1:51 ligger i en lågpunkt och har problem med att vägtrumman
 genom Onsala Skogsväg ligger för högt.
-7. Ett antal fastigheter längs Onsala Bergväg /Norra Markavägen har problem med det vatten
+7\. Ett antal fastigheter längs Onsala Bergväg /Norra Markavägen har problem med det vatten
 som kommer från höjdområdet norrut. Avskärande dike utanför Köpstaden 1:31 samt
 kulvert mellan fastigheterna Köpstaden 1:33/1:34 behövs förmodligen.
-8. Längs Festekullavägen har makadamdiken anlagts och dessa fungerar bra, men i
+8\. Längs Festekullavägen har makadamdiken anlagts och dessa fungerar bra, men i
 korsningen Festekullavägen/Onsala Bergväg dämmer det.
 
 Sevekulla:
-9. Fastigheter längs Fåraböliden. Här har ett antal fastigheter tidigare haft problem med
+9\. Fastigheter längs Fåraböliden. Här har ett antal fastigheter tidigare haft problem med
 dagvatten. Enligt vägföreningen är dessa problem lösta nu, men ett par fastighetsägare
 uppger i enkäten att de fortfarande har problem att bli av med dagvattnet på grund av att
 vägdiken ligger för högt.
-10. Igenlagda diken längs Dalgången orsakar problem för en fastighetsägare då vattnet rinner
+10\. Igenlagda diken längs Dalgången orsakar problem för en fastighetsägare då vattnet rinner
 över vägen och in på hans tomt.
-11. Längs Mavägen har ett antal fastighetsägare problem med att vägdiken ligger för högt i
+11\. Längs Mavägen har ett antal fastighetsägare problem med att vägdiken ligger för högt i
 förhållande till fastigheterna, vilket innebär att de inte kan bli av med sitt dagvatten. Det
 dike som ligger mellan Köpstaden 10:26 och Köpstaden 10:29/10:32 behöver fördjupas
 och förbättras. Det dike som ligger norr om fastigheterna Köpstaden 10:22/10:23 behöver
 röjas. Problemet verkar också ligga i att de kulverteringar av vägdiken som är gjorda är
 för klena och därigenom dämmer och orsakar översvämningar.
-12. Längs Sevekullavägen är det några fastigheter som har uppgett att de har problem.
+12\. Längs Sevekullavägen är det några fastigheter som har uppgett att de har problem.
 Området bakom fastigheterna Sevekulla 1:5 och 1:6 är sankt och det verkar inte finnas
 någon organiserade avledning av dagvatten här. I området bakom Köpstaden 10:4 är det
 
@@ -16665,14 +16665,14 @@ enligt uppgift stora vattenansamlingar. Det ligger ett delvis igenlagt dike på 
 fastigheten som behöver öppnas upp och förbättras.
 
 Älskogsbräcka:
-13. Området kring fastigheterna Älskogsbräcka 1:41 – 1:47 i den sydöstra delen av
+13\. Området kring fastigheterna Älskogsbräcka 1:41 – 1:47 i den sydöstra delen av
 Älskogsbräcka. Här har ett antal fastighetsägare uppgett att de har problem vid kraftigt
 regn och snösmältning. Den lilla tjärnen i sydöst avvattnas genom området och orsakar
 förmodligen problemen. Många av fastigheterna uppger att de diken som finns inte
 fungerar eftersom de inte sköts. Enligt uppgift i enkäten saknas kulvert från diket i
 Kaggebådan till Bräckavägen, vilket kan vara orsak till vattenansamlingen.
-14. Området kring Blindskärsvägen. Problem med kvarstående vatten i diken.
-15. Området kring fastigheterna Älskogsbräcka 1:35 – 1:39. Stora vattenmängder från mossen
+14\. Området kring Blindskärsvägen. Problem med kvarstående vatten i diken.
+15\. Området kring fastigheterna Älskogsbräcka 1:35 – 1:39. Stora vattenmängder från mossen
 belastar området. De obebyggda delarna längre norrut ligger flackt och har enligt uppgift
 otillräcklig avrinning, vilket dämmer vattenflödet från området.
 
@@ -16698,7 +16698,7 @@ respektive vägförening samt berörda markägare (och eventuellt Vägverket) b�
 under hösten för att diskutera lösningsförslag etc.
 
 Bilaga:
-1. Översikt över ”problemfastigheter”
+1\. Översikt över ”problemfastigheter”
 
 3
 
@@ -16746,7 +16746,7 @@ för Teknik att det inte går att försvara utökat verksamhetsområde för dagv
 Kommunens yttrande skickas till Kommunstyrelsens förvaltning som lämnar kommunens samlade
 yttrande till Länsstyrelsen.
 
-1. Hur ser dagvattensituationen ut i området? Och 2. Hur är dagvattenfrågan löst idag?
+1\. Hur ser dagvattensituationen ut i området? Och 2. Hur är dagvattenfrågan löst idag?
 Västra Hagen har varierad terräng med lågpunkter och instängda områden. Området är uppdelad i flera
 avrinningsområden. Området består av villa-fastigheter och områden med naturmark (bild 1). Det finns ca 300
 1 (17)
@@ -16812,13 +16812,13 @@ KUNGSBACKA  KOMMUN
 
 Bild 3. Ungefärlig hårdgjord yta, 495m2 på Fastighet Onsala-Hallen 2:11.
 Det går ett annat vattenstråk igenom fastighet Onsala-Hallen 2:12 som sedan passerar över Västra Strandvägen
-2. Fastighet Onsala-Hallen 2:12 (byggnadsår 2004) har också en hårdgjord yta på drygt 500 m2 (ungefär 30%)
+2\. Fastighet Onsala-Hallen 2:12 (byggnadsår 2004) har också en hårdgjord yta på drygt 500 m2 (ungefär 30%)
 och enligt Beslut om Kontrollplan (2002-12-10) ska de ha ett dammsystem för lokalt omhändertagande av
 dagvatten.
 
 Bild 4. Fastighet Onsala-Hallen 2:12 har en hårdgjord yta på omkring 30% och ska enligt handlingar tillhörande bygglov från 2002, ha
 ett dammsystem för lokalt omhändertagande av dagvatten.
-3. Ur dagvattenperspektiv, hur avgränsar kommunen området? Hur många fastigheter omfattas?
+3\. Ur dagvattenperspektiv, hur avgränsar kommunen området? Hur många fastigheter omfattas?
 
 <!-- sida 424 -->
 
@@ -16847,7 +16847,7 @@ Bild 5 och 4. Kommunens förslag på utredningsområde utifrån
 
 dagvattenproblematik i området, markerat i grönt som avrinningsområde för vattenstråk som rinner över Västra Strandvägen 2.
 
-4. Har det inkommit några synpunkter, någon information eller några indikationer till kommunen
+4\. Har det inkommit några synpunkter, någon information eller några indikationer till kommunen
 gällande dagvatten i området? Beskriv den information som kommunen i så fall har fått, till
 vilken förvaltning dessa inkommit, när det inkommit samt hur kommunen hanterat frågan.
 Dåvarande Gatukontoret på Kungsbacka kommun hade en första kontakt med Västra Hagens vägförening
@@ -16882,11 +16882,11 @@ I fallet Västra Strandvägen 2 handlade det om marköversvämning. Fastigheten 
 tryckte upp vid sidan av vägen och hade troligen gått både ovanpå och under vägen och vidare in i huset.
 Boende berättade att ”vatten kom från alla håll”. Som ett försök till åtgärd för fallet Västra Strandvägen stöttade
 kommunen med följande åtgärder:
--  kommunen grävde upp det kommunala ledningsschaktet för vatten och spill som sammanlänkar två
+\-  kommunen grävde upp det kommunala ledningsschaktet för vatten och spill som sammanlänkar två
 sandlager genom berg (Bild 7), och satte dit en lerpropp för att förhindra att vatten skulle kunna ledas i
 rörgraven. Det visade sig dock att vatten inte hade runnit här och alltså inte var upphovet till problemet
 (lerpropp sattes dit ändå).
--  kommunen gjorde en omläggning av 30–35 meter dräneringsledningen längst med östra sidan av Västra
+\-  kommunen gjorde en omläggning av 30–35 meter dräneringsledningen längst med östra sidan av Västra
 Strandvägen, ovan Västra Strandvägen 2 och man la makadam över.
 
 <!-- sida 426 -->
@@ -16938,12 +16938,12 @@ kommer ifrån heller.
 KUNGSBACKA  KOMMUN
 9 (17)
 
-5. Om det har inkommit synpunkter osv, Har ni någon uppfattning om när problemen i området
+5\. Om det har inkommit synpunkter osv, Har ni någon uppfattning om när problemen i området
 började?
 
 Kommunen hade ingen kännedom om problematiken innan 2021. Problematiken fanns inte från början enligt
 då de flyttade in på fastighet Onsala-Hallen 2:18 år 2012.
-6. Bifoga den rapport från Sweco som det hänvisas till i begäran. Redogör för slutsatserna och
+6\. Bifoga den rapport från Sweco som det hänvisas till i begäran. Redogör för slutsatserna och
 eventuella rekommendationer i rapporten. Redogör även för om det genomförts eller planeras att
 genomföras några åtgärder med anledning av rapporten.
 Swecos analys i dagvattenutredningen indikerade att följande parametrar visar behov av dagvattenutbyggnad:
@@ -16978,7 +16978,7 @@ rapportens slutsatser.
 
 För hela Swecos rapport, se Bilaga 3.
 
-7. Beskriv området. Hur ser de fysiska förutsättningarna ut på platsen, till exempel jordmån,
+7\. Beskriv området. Hur ser de fysiska förutsättningarna ut på platsen, till exempel jordmån,
 infiltrationsförmåga, grundvattennivå etc.
 Utredningsområdet ligger till stora delar på berg och sand (Bild 9). I sand kan infiltrationskapaciteten vara god
 medan berg indikerar att infiltrationskapaciteten är låg. Grundvattennivåerna varierar enligt SGUs brunnskarta
@@ -16998,20 +16998,20 @@ Svallsediment, grus2
 
 Onsala-Hallen 2:18 ligger mestadels på svallsediment, grus och är möjligen ett utströmningsområde för
 markvatten. Två vattenstråk går på varsin sida av byggnaden på fastigheten.
-8. Redogör för hur exploateringen i området har sett ut över tid. Består området av
+8\. Redogör för hur exploateringen i området har sett ut över tid. Består området av
 
 permanentbostäder eller tillfälliga bostäder?
 Utredningsområdet har varit ett sommarstugeområde som allt eftersom omvandlats till året-runt hus. Ett fåtal
 sommarstugor finns kvar. Andelen hårdgjord yta i området har successivt ökat.
-9. Finns det andra områden i närheten med liknande förutsättningar/problematik?
+9\. Finns det andra områden i närheten med liknande förutsättningar/problematik?
 Fastigheter i närheten som rapporterat problematik:
 
--  Källaröversvämning med spillvatten rapporterades från Västra Hagenvägen 54, vid regnhändelse 2017,
+\-  Källaröversvämning med spillvatten rapporterades från Västra Hagenvägen 54, vid regnhändelse 2017,
 där spillvattenledningen gick full. Detta skedde på nytt 2021 trots åtgärden att montera backventil på
 nödutlopp från närliggande spillvattenpumpstation. Ytterligare åtgärder genomfördes av kommunen.
 Fastighetsägaren har dessutom rapporterat vid fler tillfällen om problem med dagvatten genom
 vattenansamling på tomten.
--  Gräsvägen 6 hade källaröversvämningar med vatten som kommer in via golvbrunn som är kopplad till
+\-  Gräsvägen 6 hade källaröversvämningar med vatten som kommer in via golvbrunn som är kopplad till
 spillvattenledning, 2021. Drabbades på liknande vis även 2017 vid kraftig regnhändelse men anmälde
 inte den händelsen.
 
@@ -17022,7 +17022,7 @@ inte den händelsen.
 KUNGSBACKA  KOMMUN
 11 (17)
 
--  Fastigheten på Allborydsvägen 27 har rapporterat problem med tillrinnande dagvatten till sin tomt från
+\-  Fastigheten på Allborydsvägen 27 har rapporterat problem med tillrinnande dagvatten till sin tomt från
 fastigheter uppströms tillrinningsvägen.
 
 Inför att kommunalt verksamhetsområde för Vatten och Avlopps (då kallat VA-sanering) skulle införas 2005–
@@ -17033,37 +17033,37 @@ berörda och framtagandet av en rapport och ytterligare kartor. Enkäten gick ut
 och 200 av de utskickade 241 enkäterna besvarades, varav drygt 30 uppgav sig ha problem med dagvatten. På
 detta vis kunde ett antal problemområden utläsas:
 Marken:
-1. En kulvert under Valldavägen dämmer så att vatten blir stående i grönområdet längst västerut på Munkebacksvägen.
+1\. En kulvert under Valldavägen dämmer så att vatten blir stående i grönområdet längst västerut på Munkebacksvägen.
 Vägverket?
 
-2. Ett par fastigheter längs Lilla Munkebacksvägen (Köpstaden 3:49/3:53) har problem med att det kommer stora
+2\. Ett par fastigheter längs Lilla Munkebacksvägen (Köpstaden 3:49/3:53) har problem med att det kommer stora
 vattenmängder söderifrån. 3:49 har vattenfylld källare ca 1 g/år på grund av att avskärande dike inte finns. De
 ovanliggande fastigheterna släpper sitt dag- och dränvatten vid tomtgräns.
-3. Fastigheterna Köpstaden 2:6/2:19 har problem med de vattenmängder som kommer från berget. Det finns inget
+3\. Fastigheterna Köpstaden 2:6/2:19 har problem med de vattenmängder som kommer från berget. Det finns inget
 avskärande dike mellan vägen och 2:19 vilket gör att vattnet rinner över tomten.
 
-4. Området söder om fastigheterna Köpstaden 2.11/2:12 är sankt under vår och blöta somrar. (Se även Sevekulla 4).
+4\. Området söder om fastigheterna Köpstaden 2.11/2:12 är sankt under vår och blöta somrar. (Se även Sevekulla 4).
 OBS! Fastigheten 2:12 ligger lågt! Vägföreningen har lagt en dagvattenledning som mynnar i en dagvattenbrunn på
 Munkebacksvägen.
-5. Fastigheten Köpstaden 2:23 har svårt att bli av med sitt dagvatten på grund av bergförekomst i diket.
+5\. Fastigheten Köpstaden 2:23 har svårt att bli av med sitt dagvatten på grund av bergförekomst i diket.
 
-6. Fastigheten Köpstaden 1:51 ligger i en lågpunkt och har problem med att vägtrumman genom Onsala Skogsväg ligger
+6\. Fastigheten Köpstaden 1:51 ligger i en lågpunkt och har problem med att vägtrumman genom Onsala Skogsväg ligger
 för högt.
-7. Ett antal fastigheter längs Onsala Bergväg /Norra Markavägen har problem med det vatten som kommer från
+7\. Ett antal fastigheter längs Onsala Bergväg /Norra Markavägen har problem med det vatten som kommer från
 höjdområdet norrut. Avskärande dike utanför Köpstaden 1:31 samt kulvert mellan fastigheterna Köpstaden 1:33/1:34
 behövs förmodligen.
 
-8. Längs Festekullavägen har makadamdiken anlagts och dessa fungerar bra, men i korsningen Festekullavägen/Onsala
+8\. Längs Festekullavägen har makadamdiken anlagts och dessa fungerar bra, men i korsningen Festekullavägen/Onsala
 Bergväg dämmer det.
 
 Sevekulla:
-9. Fastigheter längs Fåraböliden. Här har ett antal fastigheter tidigare haft problem med dagvatten. Enligt vägföreningen
+9\. Fastigheter längs Fåraböliden. Här har ett antal fastigheter tidigare haft problem med dagvatten. Enligt vägföreningen
 är dessa problem lösta nu, men ett par fastighetsägare uppger i enkäten att de fortfarande har problem att bli av med
 dagvattnet på grund av att vägdiken ligger för högt.
 
-10. Igenlagda diken längs Dalgången orsakar problem för en fastighetsägare då vattnet rinner över vägen och in på hans
+10\. Igenlagda diken längs Dalgången orsakar problem för en fastighetsägare då vattnet rinner över vägen och in på hans
 tomt.
-11. Längs Mavägen har ett antal fastighetsägare problem med att vägdiken ligger för högt i förhållande till fastigheterna,
+11\. Längs Mavägen har ett antal fastighetsägare problem med att vägdiken ligger för högt i förhållande till fastigheterna,
 vilket innebär att de inte kan bli av med sitt dagvatten. Det dike som ligger mellan Köpstaden 10:26 och Köpstaden
 10:29/10:32 behöver fördjupas och förbättras. Det dike som ligger norr om fastigheterna Köpstaden 10:22/10:23
 
@@ -17075,20 +17075,20 @@ KUNGSBACKA  KOMMUN
 behöver röjas. Problemet verkar också ligga i att de kulverteringar av vägdiken som är gjorda är för klena och
 därigenom dämmer och orsakar översvämningar.
 
-12. Längs Sevekullavägen är det några fastigheter som har uppgett att de har problem. Området bakom fastigheterna
+12\. Längs Sevekullavägen är det några fastigheter som har uppgett att de har problem. Området bakom fastigheterna
 Sevekulla 1:5 och 1:6 är sankt och det verkar inte finnas någon organiserade avledning av dagvatten här. I området
 bakom Köpstaden 10:4 är det enligt uppgift stora vattenansamlingar. Det ligger ett delvis igenlagt dike på baksidan av
 fastigheten som behöver öppnas upp och förbättras.
 
 Älskogsbräcka:
-13. Området kring fastigheterna Älskogsbräcka 1:41 – 1:47 i den sydöstra delen av Älskogsbräcka. Här har ett antal
+13\. Området kring fastigheterna Älskogsbräcka 1:41 – 1:47 i den sydöstra delen av Älskogsbräcka. Här har ett antal
 fastighetsägare uppgett att de har problem vid kraftigt regn och snösmältning. Den lilla tjärnen i sydöst avvattnas
 genom området och orsakar förmodligen problemen. Många av fastigheterna uppger att de diken som finns inte
 fungerar eftersom de inte sköts. Enligt uppgift i enkäten saknas kulvert från diket i Kaggebådan till Bräckavägen,
 vilket kan vara orsak till vattenansamlingen.
 
-14. Området kring Blindskärsvägen. Problem med kvarstående vatten i diken.
-15. Området kring fastigheterna Älskogsbräcka 1:35 – 1:39. Stora vattenmängder från mossen belastar området. De
+14\. Området kring Blindskärsvägen. Problem med kvarstående vatten i diken.
+15\. Området kring fastigheterna Älskogsbräcka 1:35 – 1:39. Stora vattenmängder från mossen belastar området. De
 obebyggda delarna längre norrut ligger flackt och har enligt uppgift otillräcklig avrinning, vilket dämmer vattenflödet
 från området.
 
@@ -17096,22 +17096,22 @@ Utifrån denna inventering drog kommunen slutsatsen att lokalt omhändertagande 
 tillämpas även i fortsättningen. Kommunen rekommenderade att en utveckling av befintligt LOD-system och att
 ansvarsfördelningen för underhållet av bäckar, diken och kulvertar tydliggörs.
 
-10. Bifoga detaljplanehandlingar för det aktuella området.
+10\. Bifoga detaljplanehandlingar för det aktuella området.
 Bilaga 4–6:
 •  Planbeskrivning - O26B-ÄDP.ÄDP_Planbeskrivning.pdf
 
 •  Planbestämmelser - O26B-ÄDP.ÄDP_Planbestämmelser.pdf
 •  Plankarta - O26B-ÄDP.ÄDP_Plankarta.pdf
 
-11. Bifoga de dagvattenutredningar som gjorts för området och eventuellt närliggande områden.
+11\. Bifoga de dagvattenutredningar som gjorts för området och eventuellt närliggande områden.
 Bilaga 7:
 
 •  Sammanställning av dagvattenenkäter Marken/Sevekulla/Älskogsbräcka -
 Dagvatteninventering_kopia.doc
 
-12. Planeras ytterligare förtätningar i området? Om ja, redovisa de planer som finns.
+12\. Planeras ytterligare förtätningar i området? Om ja, redovisa de planer som finns.
 Nej.
-13. Vilken är recipienten för dagvatten från området? Hur bedömer kommunen dagvattnets
+13\. Vilken är recipienten för dagvatten från området? Hur bedömer kommunen dagvattnets
 påverkan på recipienten?
 
 Recipienten är Töseviken som ligger inom vattenförekomsten Onsala kustvatten (WA64137885).
@@ -17128,7 +17128,7 @@ då det bedöms tekniskt omöjligt att sänka halterna till de nivåer som motsv
 halter TBT bedöms på vissa ställen höga och bedöms härstamma från båttrafik. Kommunen bedömer ingen
 nämnvärd föroreningsbelastning från utredningsområdet då det är gles villabebyggelse uppblandat med
 naturmark och där finns ingen genomfartstrafik.
-14. Bifoga en karta över området som även visar er bedömning av hur många fastigheter det rör sig
+14\. Bifoga en karta över området som även visar er bedömning av hur många fastigheter det rör sig
 om.
 Se även svar under Fråga 2. De fastigheter som ingår är:
 
@@ -17141,7 +17141,7 @@ Onsala-Hallen
 
 Bild 9. Fastigheter som ingår i utredningsområdet.
 
-15. Bifoga karta där verksamhetsområden i närheten framgår. Specificera vilka vattentjänster som
+15\. Bifoga karta där verksamhetsområden i närheten framgår. Specificera vilka vattentjänster som
 avses inom de olika verksamhetsområdena.
 Norr om utredningsområdet finns ett mindre verksamhetsområde för dagvatten där sju fastigheter ingår.
 Verksamhetsområdets dagvatten avleds i ledningar till havet i väster (bild 12). Dessa ledningar byggdes 2008.
@@ -17181,7 +17181,7 @@ KUNGSBACKA  KOMMUN
 Bild 12. Verksamhetsområde för Spillvatten (rött rutnät), verksamhetsområde för vatten (blått rutnät) och verksamhetsområde för
 dagvatten gata i och omkring utredningsområdet.
 
-16. Anser Kungsbacka kommun att det föreligger ansvar enligt 6 § lagen om allmänna vattentjänster
+16\. Anser Kungsbacka kommun att det föreligger ansvar enligt 6 § lagen om allmänna vattentjänster
 avseende dagvatten för det aktuella området? Redogör för skälen till den bedömning som
 kommunen gör.
 Kommunen har under förlängd svarstid filmat de befintliga dräneringsledningar och privata dagvattenledning
@@ -17200,11 +17200,11 @@ Kommunen anser att Swecos utredning inte visar på ett uppenbart behov av verksa
 området. Den visar att det kan föreligga ett visst ansvar enligt 6 § lagen om allmänna vattentjänster avseende
 
 dagvatten utifrån samlad bebyggelse och vissa utmaningar med bortledande av dagvatten, men att kommunen:
--  fortfarande är osäker på om kommunal hantering av dagvattnet i området är det som kommer hjälpa upp
+\-  fortfarande är osäker på om kommunal hantering av dagvattnet i området är det som kommer hjälpa upp
 situationen på Västra Strandvägen 2, där vattnet kommer från under marken, trycks upp och går in
 under huset även under torrperioder. Vid kraftigt regn tränger vatten både över och under vägen in på
 berörd fastighet.
--  vill påpeka att inrättande av kommunalt verksamhetsområde för dagvatten i området kommer innebära
+\-  vill påpeka att inrättande av kommunalt verksamhetsområde för dagvatten i området kommer innebära
 stora kostnaden både för VA-kollektivet och för många enskilda fastighetsägare i området som inte
 
 själva upplever problem.
@@ -17259,14 +17259,14 @@ frågeställningarna kan röra flera förvaltningars och bolags
 ansvarsområden och att Länsstyrelsen önskar få in ett samlat svar
 från Kungsbacka kommun. Av redogörelsen bör framgå:
 
-1. Hur ser dagvattensituationen ut i området?
+1\. Hur ser dagvattensituationen ut i området?
 
-2. Hur är dagvattenfrågan löst idag?
+2\. Hur är dagvattenfrågan löst idag?
 
-3. Ur dagvattenperspektiv, hur avgränsar kommunen området?
+3\. Ur dagvattenperspektiv, hur avgränsar kommunen området?
 Hur många fastigheter omfattas?
 
-4. Har det inkommit några synpunkter, någon information eller
+4\. Har det inkommit några synpunkter, någon information eller
 några indikationer till kommunen gällande dagvatten i
 området? Beskriv den information som kommunen i så fall
 har fått, till vilken förvaltning dessa inkommit, när det
@@ -17282,48 +17282,48 @@ Länsstyrelsen H allands län          Begäran                   2 (3)
 
 2024-02-27       7557-2023
 
-5. Om det har inkommit synpunkter osv, Har ni någon
+5\. Om det har inkommit synpunkter osv, Har ni någon
 uppfattning om när problemen i området började?
 
-6. Bifoga den rapport från Sweco som det hänvisas till i begäran.
+6\. Bifoga den rapport från Sweco som det hänvisas till i begäran.
 Redogör för slutsatserna och eventuella rekommendationer i
 
 rapporten. Redogör även för om det genomförts eller
 planeras att genomföras några åtgärder med anledning av
 rapporten.
 
-7. Beskriv området. Hur ser de fysiska förutsättningarna ut på
+7\. Beskriv området. Hur ser de fysiska förutsättningarna ut på
 
 platsen, till exempel jordmån, infiltrationsförmåga,
 grundvattennivå etc.
 
-8. Redogör för hur exploateringen i området har sett ut över tid.
+8\. Redogör för hur exploateringen i området har sett ut över tid.
 Består området av permanentbostäder eller tillfälliga
 bostäder?
 
-9. Finns det andra område i närheten med liknande
+9\. Finns det andra område i närheten med liknande
 förutsättningar/problematik?
 
-10. Bifoga detaljplanehandlingar för det aktuella området.
+10\. Bifoga detaljplanehandlingar för det aktuella området.
 
-11. Bifoga de dagvattenutredningar som gjorts för området och
+11\. Bifoga de dagvattenutredningar som gjorts för området och
 eventuellt närliggande områden.
 
-12. Planeras ytterligare förtätningar i området? Om ja, redovisa
+12\. Planeras ytterligare förtätningar i området? Om ja, redovisa
 
 de planer som finns.
 
-13. Vilken är recipienten för dagvatten från området? Hur
+13\. Vilken är recipienten för dagvatten från området? Hur
 bedömer kommunen dagvattnets påverkan på recipienten?
 
-14. Bifoga en karta över området som även visar er bedömning av
+14\. Bifoga en karta över området som även visar er bedömning av
 hur många fastigheter det rör sig om.
 
-15. Bifoga karta där verksamhetsområden i närheten framgår.
+15\. Bifoga karta där verksamhetsområden i närheten framgår.
 Specificera vilka vattentjänster som avses inom de olika
 verksamhetsområdena.
 
-16. Anser Kungsbacka kommun att det föreligger ansvar enligt 6
+16\. Anser Kungsbacka kommun att det föreligger ansvar enligt 6
 § lagen om allmänna vattentjänster avseende dagvatten för
 
 det aktuella området? Redogör för skälen till den bedömning
@@ -17890,7 +17890,7 @@ eventuella synpunkter på process och resultat av arbetet.
 Skriftliga synpunkter ska ha inkommit till Göteborgsregionen senast 23
 september 2024. Synpunkter skickas till cecilia.kvist@goteborgsregionen.se
 med diarium@goteborgsregionen.se på kopia. Ange diarienummer FS2024-
-00061.
+00061\.
 
 Frågor
 
@@ -18203,7 +18203,7 @@ Regional utvecklingsstrategi för Västra Götaland framtagandet av planen. Stra
 utvecklingsarbetet och innehåller prioriteringar beskrivningen som är en del av den regionala
 för att möjliggöra omställningen till ett mer infrastrukturplanen. Slutsatser sammanfattas i
 hållbart och konkurrenskraftigt samhälle till år kapitlet Bedömning av effekter.
-2030. Klimat 2030 och
+2030\. Klimat 2030 och
 Trafikförsörjningsprogrammet är
 regionövergripande styrdokument som den
 regionala infrastrukturplanen ska stödja. Andra
@@ -18228,7 +18228,7 @@ PROGRAM     2030
 STRATEGI
 Vision Västra Götaland är Västra
 Götalandsregionens och de 49
-6. REGIONAL 7.STRATEGI
+6\. REGIONAL 7.STRATEGI
 kommunernas gemensamma vision.    INFRASTRUKTUR- FÖR ÖKAD
 Visionen uttrycker det önskade framtida PLAN CYKLING
 tillståndet – Det goda livet.
@@ -19603,8 +19603,8 @@ plan för åtgärder på kommunalt vägnät.
 
 Trimning och
 effektivisering,
-1. Samordnar
-2. Prioriterar 3. Genomför
+1\. Samordnar
+2\. Prioriterar 3. Genomför
 I stråk och     behov och förslag
 Till stråk
 • Västtrafik och
@@ -19621,7 +19621,7 @@ effektivisering till stråk.
 
 Statlig
 medfinans till
-1. Årlig ansökan till 2. Prioriterar 3. Genomför
+1\. Årlig ansökan till 2. Prioriterar 3. Genomför
 kommunalt
 vägnät
 
@@ -19981,7 +19981,7 @@ Ytterby. Åtgärden möjliggör
 framtida kommunal
 exploatering.
 Väg 161, Rotvik Väg 161 ingår i ett för Befintlig väg har låg standard Mötesfri väg och 270 mnkr 270 mnkr Inget data
-- Bäcken    transporter och pendling viktigt och ett stort antal bostäder GC-bana.
+\- Bäcken    transporter och pendling viktigt och ett stort antal bostäder GC-bana.
 regionalt stråk mellan Lysekil, ligger nära vägen. Vägen är
 Uddevalla, Trollhättan, mycket smal och
 Lidköping, Skövde och vägstandarden har stora
@@ -20018,10 +20018,10 @@ möjliggör utbyggnad av 3 000
 bostäder i Partille kommun.
 Väg 41,                                                                                           Inget data
 Sundholmen
-- Björketorp
+\- Björketorp
 
 Väg 49, Axvall                                                                                    Inget data
-- Varnhem
+\- Varnhem
 
 44
 
@@ -20042,7 +20042,7 @@ Förslag till                             Övrig
 mnkr         mnkr
 Inget data
 Väg 41, Fritsla Väg 41, mellan Varberg och Behov av att öka Mötesfri väg. 80 mnkr 80 mnkr
-- Kråkered   Borås, är ett viktigt trafiksäkerheten och
+\- Kråkered   Borås, är ett viktigt trafiksäkerheten och
 komplement till det nationella framkomligheten i ett viktigt
 vägnätet för såväl   stråk mellan Borås och
 godstransporter som  Varberg.
@@ -20055,7 +20055,7 @@ utpekade sträckan berör den
 norra delen av väg 41
 närmare Borås.
 Väg 49, Skövde                                                                                 Skövde kommun
-- Igelstorp
+\- Igelstorp
 
 Väg 168, Tjuvkil                                                                               Kungälvs
 kommun
@@ -20116,7 +20116,7 @@ mnkr         mnkr
 Inget data
 Väg 49       Väg 49 utgör en del av Sträckan har brister gällande Mötesfri väg, 281 mnkr 281 mnkr
 Varnhem      kopplingen Lidköping - Skara trafiksäkerhet då det bland trafiksäkerhets-
-- Storekullen - Skövde vilket är kopplingen annat finns många höjande åtgärder
+\- Storekullen - Skövde vilket är kopplingen annat finns många höjande åtgärder
 mellan Skaraborgs två största anslutningar. samt GC-väg.
 lokala arbetsområden. Tillgängligheten till
 Sträckan är viktig för busshållplatser och
@@ -20130,7 +20130,7 @@ Backadal-    kommuner: Härryda, Mark, tillgänglighet samt i
 Bonared      Svenljunga och Tranemo. Den trafiksäkerhet för
 aktuella sträckan kopplar ihop personbilstrafik,
 Marks kommun med riksväg kollektivtrafik och
-40. De kommande åren godstransporter samt för
+40\. De kommande åren godstransporter samt för
 planerar Marks kommun för oskyddade trafikanter. Norr
 cirka 740 nya bostäder. För att om Hjorttorp saknas
 kunna realisera detta och viltstängsel.
@@ -21825,31 +21825,31 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 543 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för förvaring av cykel i kommunens två olika typer av låst
 cykelförvaring.
 
 Avgifter enligt denna taxa ska betalas till Kungsbacka kommun eller av kommunen avtalad
 leverantör av tjänster för cykelförvaring.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Taxan för de låsta cykelparkeringarna grundar sig på självkostnadsprincipen enligt 2 kap. 6 §
 kommunallagen och är beräknad utifrån kostnader för att sköta ytan samt byggnad där
 parkeringarna finns.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Mervärdesskatt (moms) tas ut med 25 procent.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 Avgift för cykelparkering tas ut som abonnemangstjänst. I cykelgaraget vid Kungsbacka station
 erbjuds även korttidshyra för 24 timmar åt gången utan ytterligare bindningstid. Avgift tas ut per
 påbörjad abonnemangsperiod alternativt påbörjat dygn.
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Avgiftsbeloppen justeras för kommande år enligt förändringen i konsumentprisindex för oktober
 
 månad innevarande år, KPI.
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 
 Berörda förvaltningar ges i uppdrag att årligen justera avgifterna enligt taxans punkt 5.
 Indexjustering av avgiftsbelopp.
@@ -22456,7 +22456,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 560 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -22509,7 +22509,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        2 (15)
 
 <!-- sida 561 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -22636,7 +22636,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter (§§ 5–12)
+3\. Anläggningsavgifter (§§ 5–12)
 
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 
@@ -22648,7 +22648,7 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
+\*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 
@@ -22665,7 +22665,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        5 (15)
 | b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
 | d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 212 kr |
-| e)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
+| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 564 -->
 
@@ -22748,7 +22748,7 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
+\*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
@@ -22777,7 +22777,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        7 (15)
 |  |  | V | S | Df | Dg | Totalavgift |
 | b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
+| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 566 -->
 
@@ -22836,7 +22836,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        8 (15)
 Bebyggs Obebyggd fastighet ska resterande avgifter betalas enligt följande:
 
 Avgifterna är uttryckta i procent av full avgift per vattentjänst.
-*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
+\*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
 medger detta.
 
 § 8
@@ -22880,7 +22880,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        9 (15)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
-| Tomtyteavgift | 5.1 c) | *) | 6.1 c) | 30% |
+| Tomtyteavgift | 5.1 c) | \*) | 6.1 c) | 30% |
 | Bostadsenhetsavgift | 5.1 d) | 100% | - |  |
 
 [Tabell 567-2](handlingar.tabeller/567-2.csv)
@@ -22951,7 +22951,7 @@ Avgifter enligt §§ 5–6 är baserade på Entreprenadindex 2011, 50% 311 Jorda
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4. Brukningsavgifter (§§ 14–21)
+4\. Brukningsavgifter (§§ 14–21)
 
 § 14
 
@@ -23155,7 +23155,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -23163,7 +23163,7 @@ Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -23495,7 +23495,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 583 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -23548,7 +23548,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        2 (19)
 
 <!-- sida 584 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -23675,7 +23675,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter (§§ 5–12)
+3\. Anläggningsavgifter (§§ 5–12)
 
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 
@@ -23687,7 +23687,7 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
+\*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 
@@ -23704,7 +23704,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        5 (19)
 | b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
 | d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 212 kr |
-| e)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
+| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 587 -->
 
@@ -23723,7 +23723,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        6 (19)
 | b) | Förbindelsepunktsavgift | 29 140<br>kr 35% | 45 790kr<br>55% | 8 330kr<br>10% | - | 83 260 kr |
 | c) | Tomtyteavgift per m2 | 20,00 kr<br>30% | 20,00kr<br>30% | 20,00kr<br>30% | 7,00<br>kr<br>10% | 67,00 kr |
 | d) | Bostadsenhetsavgift | 23 110 kr<br>50% | 23 110 kr<br>50% | - | - | 46 220 kr |
-| e)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 16 650 kr | - | 16 650 kr |
+| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 16 650 kr | - | 16 650 kr |
 
 <!-- sida 588 -->
 
@@ -23806,7 +23806,7 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
-*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
+\*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 2024
@@ -23823,7 +23823,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        8 (19)
 |  |  | V | S | Df | Dg | Totalavgift |
 | b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
 | c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
+| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 [Tabell 589-2](handlingar.tabeller/589-2.csv)
 
@@ -23881,7 +23881,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        9 (19)
 
 | c) | Tomtyteavgift per m2 | 20,00 kr<br>30% | 20,00kr<br>30% | 20,00kr<br>30% | 7,00kr<br>10% | 67,00 kr |
 | --- | --- | --- | --- | --- | --- | --- |
-| d)* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 22 200kr | - |  |
+| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 22 200kr | - |  |
 
 [Tabell 590-2](handlingar.tabeller/590-2.csv)
 
@@ -23909,7 +23909,7 @@ enligt 5.1 a), b) och e), jämför 5.3 andra stycket.
 Bebyggs Obebyggd fastighet ska resterande avgifter betalas enligt följande:
 
 Avgifterna är uttryckta i procent av full avgift per vattentjänst.
-*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
+\*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
 medger detta.
 
 § 8
@@ -23945,7 +23945,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        10 (19)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
-| Tomtyteavgift | 5.1 c) | *) | 6.1 c) | 30% |
+| Tomtyteavgift | 5.1 c) | \*) | 6.1 c) | 30% |
 | Bostadsenhetsavgift | 5.1 d) | 100% | - |  |
 
 [Tabell 591-2](handlingar.tabeller/591-2.csv)
@@ -24027,7 +24027,7 @@ Avgifter enligt §§ 5–6 är baserade på Entreprenadindex 2011, 50% 311 Jorda
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4. Brukningsavgifter (§§ 14–21)
+4\. Brukningsavgifter (§§ 14–21)
 
 § 14
 
@@ -24277,7 +24277,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -24285,7 +24285,7 @@ Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -24935,15 +24935,15 @@ framförs även att undersökningarna ska redovisas på ett ändamålsenligt sä
 kommunfullmäktiges övergripande arbetsmiljömål.
 
 Målen är följande:
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
-2. Sjukfrånvaron ska minska.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
 tillämpning.
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
 
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 Kommunstyrelsens arbetsutskott remitterade den 9 januari 2024 motionen till nämnden för Individ &
 Familjeomsorg och nämnden för Vård & Omsorg för beredning.
 
@@ -24996,21 +24996,21 @@ Ermin Škorić (S) och Maj-Britt Rane Andersson (S) har den 24 september 2023
 inkommit med en motion om att nämnden för Vård & Omsorg och nämnden för
 Individ & Familjeomsorg ges i uppdrag att utveckla en medarbetarundersökning
 utifrån de fem övergripande målen som kommunfullmäktige antog den 6 oktober
-2020.
+2020\.
 
 I motionen framförs att undersökningarna ska redovisas på ett ändamålsenligt sätt i
 enlighet med kommunfullmäktiges övergripande arbetsmiljömål.
 
 Målen är följande:
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
-2. Sjukfrånvaron ska minska.
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt
+2\. Sjukfrånvaron ska minska.
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt
 dess tillämpning.
 
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under
 arbetsdagen.
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ &
 Familjeomsorg och nämnden för Vård & Omsorg för beredning.
@@ -25132,13 +25132,13 @@ I motionen framförs att undersökningarna ska redovisas på ett ändamålsenlig
 kommunfullmäktiges övergripande arbetsmiljömål.
 Målen är följande:
 
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
-2. Sjukfrånvaron ska minska.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
 
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ & Familjeomsorg
 och nämnden för Vård & Omsorg för beredning.
@@ -25265,16 +25265,16 @@ Familjeomsorg ges i uppdrag att utveckla en medarbetarundersökning utifrån de 
 övergripande målen som kommunfullmäktige antog den 6 oktober 2020. I motionen
 framförs även att undersökningarna ska redovisas på ett ändamålsenligt sätt i enlighet
 med kommunfullmäktiges övergripande arbetsmiljömål. Målen är följande:
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
-2. Sjukfrånvaron ska minska.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt
 dess tillämpning.
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under
 arbetsdagen.
 
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ &
 Familjeomsorg och nämnden för Vård & Omsorg för beredning.
 
@@ -25341,13 +25341,13 @@ medarbetarundersökning utifrån de fem övergripande målen som kommunfullmäkt
 oktober 2020. I motionen framförs även att undersökningarna ska redovisas på ett ändamålsenligt sätt i
 enlighet med kommunfullmäktiges övergripande arbetsmiljömål. Målen är följande:
 
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
-2. Sjukfrånvaron ska minska.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
 
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ & Familjeomsorg
 och nämnden för Vård & Omsorg för beredning.
@@ -25539,16 +25539,16 @@ bättre arbetsmiljö.
 Under hösten 2020 antog kommunfullmäktige fem övergripande arbetsmiljömål som ligger i
 fokus för den egna verksamheten i kommunen. Dessa är:
 
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
-2. Sjukfrånvaron ska minska.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
 tillämpning.
 
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
 
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Nämnden Individ och Familjeomsorg och nämnden Vård och Omsorg har många
 beröringspunkter inte minst utifrån nuvarande reglementen, lagområden, målgrupper och

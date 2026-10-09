@@ -100,13 +100,13 @@ till att ett införande av tolkavgift strider mot lagstiftningen i samband med h
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden för Förskola &
@@ -408,14 +408,14 @@ vid uteblivet besök som inte avbokats i tid.
 
 Med anledning av ovan yrkar Sverigedemokraterna:
 
-- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Stefan Jägnert / SD Kungsbacka
@@ -463,7 +463,7 @@ handlaggning-av-motioner
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\______________________
 
 <!-- sida 14 -->
 
@@ -501,10 +501,10 @@ inte inom ramen för beslut om särskilt stöd i ett åtgärdsprogram.
 
 Utifrån nämnduppdraget om införande av en resursskola kan erbjuda en mer småskalig omgivning och
 tillgängliggöra undervisning för fler elever har utredningen utgått från nedanstående frågeställningar:
--  Vilka elever är beroende av ett mindre skolsammanhang där lärmiljön är anpassad?
--  Möter nuvarande skolenheters ”flexverksamhet” upp mot resursskolans behov?
--  Kan inspektions- och klagomålsärenden härledas till behov av resursskola?
--  Vilka ekonomiska konsekvenser innebär ett upprättande av resursskola?
+\-  Vilka elever är beroende av ett mindre skolsammanhang där lärmiljön är anpassad?
+\-  Möter nuvarande skolenheters ”flexverksamhet” upp mot resursskolans behov?
+\-  Kan inspektions- och klagomålsärenden härledas till behov av resursskola?
+\-  Vilka ekonomiska konsekvenser innebär ett upprättande av resursskola?
 
 I den undersökning kring resursskola som avdelningen myndighet och stöd genomförde vårterminen
 2023 uppgav rektorerna att de hade svårt att möta upp mot 168 elevers behov av stöd. Av dessa 168
@@ -561,7 +561,7 @@ Utredningsuppdrag – Resursskola, 2024-05-22
 
 Beslutet skickas till
 
--
+\-
 
 Stigert Pettersson            Eva Eriksson
 Förvaltningschef              Verksamhetschef
@@ -631,11 +631,11 @@ enligt 3 kap i skollagen.
 Utifrån nämnduppdraget om införande av en resursskola kan erbjuda en mer småskalig omgivning och
 tillgängliggöra undervisning för fler elever har utredningen utgått från nedanstående frågeställningar:
 
--  Vilka elever är beroende av ett mindre skolsammanhang där lärmiljön är anpassad?
--  Möter nuvarande skolenheters ”flexverksamhet” upp mot resursskolans behov?
+\-  Vilka elever är beroende av ett mindre skolsammanhang där lärmiljön är anpassad?
+\-  Möter nuvarande skolenheters ”flexverksamhet” upp mot resursskolans behov?
 
--  Kan inspektions- och klagomålsärenden härledas till behov av resursskola?
--  Vilka ekonomiska konsekvenser innebär ett upprättande av resursskola?
+\-  Kan inspektions- och klagomålsärenden härledas till behov av resursskola?
+\-  Vilka ekonomiska konsekvenser innebär ett upprättande av resursskola?
 
 Enligt Skollagens 3 kapitel 2§ ska rektor tillse att alla elever ges den ledning och stimulans som de behöver i
 sitt lärande och sin personliga utveckling för att de utifrån sina egna förutsättningar ska kunna utvecklas så
@@ -750,7 +750,7 @@ hyra, el, vatten, sophämtning, måltid och städ inkluderad i kostnadsberäknin
 
 <!-- sida 23 -->
 
-*Snittkostnad på 50–80 elever
+\*Snittkostnad på 50–80 elever
 
 Initialt kommer den administrativa tiden för mottagningsteamet vara mycket större än ovanstående då alla
 ansökningar behöver behandlas och utredas utifrån elevens stödbehov.
@@ -783,7 +783,7 @@ innebära.
 | Studie och yrkesvägledare | 0,1 | 53 478 |
 | Mottaningsteam | 0,25 | 209 786 |
 | Administratör | 0,15 | 88 600 |
-| Taxi** | 65 elever | 6 942 000 |
+| Taxi\*\* | 65 elever | 6 942 000 |
 | Summa |  | 27 237 032 |
 
 <!-- sida 24 -->
@@ -1053,10 +1053,10 @@ upp arten av riskerna och förebygga dessa på systemnivå.
 
 Den samlade bedömningen av arbetet med personuppgiftsincidenter är att:
 
-1) anmälningar av personuppgiftsincidenter görs och att det finns en viss benägenhet att
+1\) anmälningar av personuppgiftsincidenter görs och att det finns en viss benägenhet att
 anmäla, och
 
-2) det finns rutiner och förutsättningar för att anmälan, utredning och åtgärder ska kunna ske.
+2\) det finns rutiner och förutsättningar för att anmälan, utredning och åtgärder ska kunna ske.
 
 Registrerades rättigheter
 De personer vars personuppgifter behandlas, de registrerade, har ett antal rättigheter enligt
@@ -1112,18 +1112,18 @@ systematisk uppföljning av dataskyddsarbetet. Årsstrukturen består, utöver d
 följande.
 
 Maj-juni
-- Årlig rapport med sammanställning av resultatet av årets dataskyddsarbete, till nämnd.
+\- Årlig rapport med sammanställning av resultatet av årets dataskyddsarbete, till nämnd.
 
 Juni
-- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
+\- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
 och processöversikter, information till registrerade och information till användare/personal
 
 September-Oktober
-- Likvärdighetsforum och egenkontroller.
+\- Likvärdighetsforum och egenkontroller.
 
-- Återrapportering av åtgärder utifrån Kolla dataskyddet.
+\- Återrapportering av åtgärder utifrån Kolla dataskyddet.
 
-- Uppföljning av rutiner kring systemförvaltningen.
+\- Uppföljning av rutiner kring systemförvaltningen.
 
 <!-- sida 33 -->
 
@@ -1132,11 +1132,11 @@ Datum
 Dnr
 2024-00150
 December
-- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
+\- Aktualisering och revidering av dokumentation; förteckning över behandlingar, rutinsamling
 och processöversikter, generell information
 
 Februari-mars
-- Likvärdighetsforum och egenkontroller med hjälp av Kolla dataskyddet.
+\- Likvärdighetsforum och egenkontroller med hjälp av Kolla dataskyddet.
 
 Tillkommer gör även Dataskyddsombudets årliga granskning, samt det löpande
 dataskyddsarbetet i samband med begäran om registerutdrag, personuppgiftsincidenter och
@@ -1294,7 +1294,7 @@ Pågående anmälningsärenden hos Skolinspektionen och Barn-
 och elevombudet (Beo), inklusive ärenden som utreds inom          1 (4)
 Förskola & Grundskolas klagomålshantering per den 21 maj
 Datum
-2024.
+2024\.
 2024-05-21
 Nya ärenden
 
@@ -1341,7 +1341,7 @@ s
 a u
 ö
 r
--
+\-
 n k
 8
 g

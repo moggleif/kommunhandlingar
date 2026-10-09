@@ -193,7 +193,7 @@ Delårsrapport 2024 för Kungsbacka kommun
 Beslut – Förslag till kommunfullmäktige
 
 Kommunfullmäktige godkänner delårsrapport för Kungsbacka kommun per augusti
-2024.
+2024\.
 
 Kommunfullmäktige uppmanar de nämnder som prognostiserar underskott att
 hantera dessa i enlighet med gällande ekonomistyrprinciper.
@@ -394,7 +394,7 @@ Sammanfattning av ärendet
 
 I lokalplan 2025–2029, som är en del av kommunbudgeten för 2025, ingår
 färdigställande av ny skola i Åsa, löpnummer 336. Projektet planeras att vara klart år
-2028.
+2028\.
 
 Behovet av ny skola omfattar 500 elevplatser där merparten av platserna kommer
 användas av elever som i dag går på Åsa Gårdsskolan. Den nya skolan bedöms även

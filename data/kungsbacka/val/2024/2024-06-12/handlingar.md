@@ -172,37 +172,37 @@ Biträde åt väljare
 
 Remissinstanser
 
-1. Botkyrka kommun
-2. Eda kommun
+1\. Botkyrka kommun
+2\. Eda kommun
 
-3. Essunga kommun
-4. Göteborgs kommun
+3\. Essunga kommun
+4\. Göteborgs kommun
 
-5. Göteborgs universitet (juridiska institutionen vid Handelshögskolan och
+5\. Göteborgs universitet (juridiska institutionen vid Handelshögskolan och
 statsvetenskapliga institutionen)
 
-6. Hallsbergs kommun
+6\. Hallsbergs kommun
 
-7. Haparanda kommun
-8. Högsby kommun
+7\. Haparanda kommun
+8\. Högsby kommun
 
-9. Höörs kommun
-10. Funktionsrätt Sverige
+9\. Höörs kommun
+10\. Funktionsrätt Sverige
 
-11. Föreningen valobservation i Sverige
+11\. Föreningen valobservation i Sverige
 
-12. Institutet för mänskliga rättigheter
-13. Jönköpings kommun
+12\. Institutet för mänskliga rättigheter
+13\. Jönköpings kommun
 
-14. Kammarrätten i Göteborg
+14\. Kammarrätten i Göteborg
 
-15. Karlshamns kommun
-16. Kristinehamns kommun
+15\. Karlshamns kommun
+16\. Kristinehamns kommun
 
-17. Kungsbacka kommun
+17\. Kungsbacka kommun
 
-18. Kungsörs kommun
-19. Laholms kommun
+18\. Kungsörs kommun
+19\. Laholms kommun
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Herkulesgatan 17
@@ -210,63 +210,63 @@ Webb: www.regeringen.se     E-post: ju.registrator@regeringskansliet.se
 
 <!-- sida 6 -->
 
-20. Landskrona kommun
+20\. Landskrona kommun
 
-21. Linköpings kommun
-22. Lunds universitet (juridiska fakulteten och statsvetenskapliga
+21\. Linköpings kommun
+22\. Lunds universitet (juridiska fakulteten och statsvetenskapliga
 institutionen)
 
-23. Lycksele kommun
+23\. Lycksele kommun
 
-24. Länsstyrelsen i Gävleborgs län
-25. Länsstyrelsen i Skåne län
+24\. Länsstyrelsen i Gävleborgs län
+25\. Länsstyrelsen i Skåne län
 
-26. Länsstyrelsen i Stockholms län
+26\. Länsstyrelsen i Stockholms län
 
-27. Länsstyrelsen i Västerbottens län
-28. Länsstyrelsen i Västmanlands län
+27\. Länsstyrelsen i Västerbottens län
+28\. Länsstyrelsen i Västmanlands län
 
-29. Länsstyrelsen i Västra Götalands län
+29\. Länsstyrelsen i Västra Götalands län
 
-30. Länsstyrelsen i Östergötlands län
-31. Myndigheten för delaktighet (MFD)
+30\. Länsstyrelsen i Östergötlands län
+31\. Myndigheten för delaktighet (MFD)
 
-32. Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)
-33. Malmö kommun
+32\. Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)
+33\. Malmö kommun
 
-34. Neuroförbundet
+34\. Neuroförbundet
 
-35. Nätverket Unga för tillgänglighet
-36. Piteå kommun
+35\. Nätverket Unga för tillgänglighet
+36\. Piteå kommun
 
-37. Ragunda kommun
+37\. Ragunda kommun
 
-38. Rättviks kommun
-39. Sandvikens kommun
+38\. Rättviks kommun
+39\. Sandvikens kommun
 
-40. Stockholms kommun
-41. Swedish International Liberal Centre
+40\. Stockholms kommun
+41\. Swedish International Liberal Centre
 
-42. Sveriges Kommuner och Regioner
+42\. Sveriges Kommuner och Regioner
 
-43. Synskadades Riksförbund
-44. Söderhamns kommun
+43\. Synskadades Riksförbund
+44\. Söderhamns kommun
 
-45. Trelleborgs kommun
+45\. Trelleborgs kommun
 
-46. Uppsala kommun
-47. Valmyndigheten
+46\. Uppsala kommun
+47\. Valmyndigheten
 
-48. Västerås kommun
+48\. Västerås kommun
 
 2 (3)
 
 <!-- sida 7 -->
 
-49. Åmåls kommun
+49\. Åmåls kommun
 
-50. Älmhults kommun
-51. Örnsköldsviks kommun
+50\. Älmhults kommun
+51\. Örnsköldsviks kommun
 
 Remissvaren ska ha kommit in till Justitiedepartementet senast den 22
 
@@ -646,7 +646,7 @@ bakom kommitténs överväganden men ansåg att det, bl.a. mot bakgrund
 av de synpunkter som framförts av remissinstanserna, var viktigt att
 tillämpningen av bestämmelserna om biträde åt väljare vid röstningen och
 med att ta valsedlar bakom avskärmningen först utvärderades vid valen
-2022. Sammantaget ansåg utskottet att det med utgångspunkt i kommitténs
+2022\. Sammantaget ansåg utskottet att det med utgångspunkt i kommitténs
 förslag borde införas bestämmelser om att en röstmottagare ska vara
 närvarande när en väljare får biträde vid röstningen eller med att ta sina
 valsedlar bakom avskärmningen. Efter förslag från utskottet ställde sig
@@ -837,13 +837,13 @@ en röstmottagare. Förslagen ligger i linje med riksdagens tillkännagivande
 3     Ikraftträdandebestämmelse
 
 Promemorians förslag: Lagändringarna ska träda i kraft den 1 juni
-2025.
+2025\.
 Bedömning: Det behövs inte några övergångsbestämmelser.
 
 Skälen för promemorians förslag och bedömning: Lagändringar som
 rör förfarandet i val bör göras så att lagändringarna kan träda i kraft i god
 tid före valen till riksdag, regionfullmäktige och kommunfullmäktige
-2026. Ju kortare tid som finns för förberedelser och för utbildning av
+2026\. Ju kortare tid som finns för förberedelser och för utbildning av
 valnämnder och röstmottagare om vilka regler som ska gälla i ett val, desto
 större blir risken för handhavandefel. Sådana fel kan leda till att utgången
 i valet påverkas och att det uppkommer behov av att hålla omval. De
@@ -949,7 +949,7 @@ Antagen 22 april 2024
 
 Revisionsplan 2024
 
-1. Uppdrag
+1\. Uppdrag
 
 Revisionens uppdrag är att granska all verksamhet i kommunen. Det innebär att revisorerna prövar
 om verksamheten sköts på ett ändamålsenligt, från ekonomisk synpunkt tillfredställande sätt och
@@ -973,7 +973,7 @@ och stiftelser genom de lekmannarevisorer/valda revisorer som utsetts.
 Revisorerna ska dessutom bedöma om resultaten i delårsrapporten och årsbokslutet är förenliga med
 de mål fullmäktige beslutat om i budgeten och planen för ekonomin under perioden.
 
-2. Risk- och väsentlighetsanalys
+2\. Risk- och väsentlighetsanalys
 
 Förslag till revisionsplan baseras på genomförd risk- och väsentlighetsanalys. Analysen av risk och
 väsentlighet utgår från revisionens syfte. Analysen startar med att fastställa väsentliga
@@ -1007,7 +1007,7 @@ verksamhet 2022” utgiven av Sveriges Kommuner och Regioner (SKR).
 Planering och granskning av räkenskaperna av nämnder och styrelse genomförs av sakkunnigt
 biträde enligt kommunal standard för granskning av räkenskaper
 
-3. Grundläggande granskning 2024
+3\. Grundläggande granskning 2024
 
 Kommunrevisionens uppgift är att ge kommunfullmäktige underlag till den årliga ansvars-
 prövningen. Enligt kommunallagen 12 kap. 1 § ska revisorerna årligen granska all verksamhet som
@@ -1081,7 +1081,7 @@ kompletterade intervjuer.
 
 Revisionen av den mellan Härryda, Kungsbacka, Mölndal, Öckerö och Partille
 kommungemensamma överförmyndarnämnden regleras i separat arbetsordning, fastställd 2018-10-
-22. Under 2024 är Öckerö kommun sammankallande kommun i revisionen av den gemensamma
+22\. Under 2024 är Öckerö kommun sammankallande kommun i revisionen av den gemensamma
 överförmyndarnämnden.
 
 Samverkansnämnder i Region Halland
@@ -1090,7 +1090,7 @@ Tillsammans med Region Halland och länets övriga kommuner har Kungsbacka kommu
 samverkansnämnder inom vård- och omsorgsområdet. Patientnämnden och Gemensam nämnd för
 hemsjukvård och hjälpmedel. Revisionen genomförs på uppdrag av Region Halland.
 
-4. Fördjupade granskningar och förstudier
+4\. Fördjupade granskningar och förstudier
 
 Fördjupade granskningar
 
@@ -1120,7 +1120,7 @@ utarbetas inför varje förstudie.
 Inga förstudier har ännu planerats inför 2024. Ytterligare förstudier kan tillkomma. Revisionsplanen
 uppdateras med dessa när revisionen fattat beslut om det.
 
-5. Granskning av delårsrapport och årsredovisning
+5\. Granskning av delårsrapport och årsredovisning
 Granskning av delårsrapport och årsredovisning består av flera olika delar; Granskning av
 
 räkenskaperna, granskning och bedömning av god ekonomisk hushållning samt granskning av
@@ -1134,13 +1134,13 @@ upprättade i enlighet med lag om kommunal bokföring och redovisning (LKBR) och
 
 redovisningssed. Rådet för kommunal redovisning (RKR) är normbildande för god redovisningssed.
 Granskningen görs enligt Standard för kommunal räkenskapsrevision och omfattar granskning av:
--  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
+\-  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
 
--  driftredovisning och investeringsredovisning samt noter
--  sammanställda räkenskaper
+\-  driftredovisning och investeringsredovisning samt noter
+\-  sammanställda räkenskaper
 
--  förvaltningsberättelse
--  delårsrapport
+\-  förvaltningsberättelse
+\-  delårsrapport
 
 Inom ramen för granskningen av räkenskaperna ingår att skaffa sig en förståelse för kommunens
 
@@ -1158,7 +1158,7 @@ resultat ska vara positivt. Granskningen av balanskravsresultatet genomförs ino
 
 granskning av delårsrapport och årsredovisningen.
 
-6. Granskning av kommunens bolag och stiftelse
+6\. Granskning av kommunens bolag och stiftelse
 
 Lekmannarevisionen av kommunens bolag och de valda revisorernas granskning av stiftelsen
 omfattar en grundläggande granskning av bolagen och stiftelsen. Utgångspunkt för granskningen är
@@ -1244,11 +1244,11 @@ bortkopplade larm etc.
 
 Genomsökning
 
-1. Stanna, överblicka: var ska jag söka? 4. Om du hittar något: se BUSA. Markera platsen.
+1\. Stanna, överblicka: var ska jag söka? 4. Om du hittar något: se BUSA. Markera platsen.
 Notera avvikelser, gömställen, svårsökt plats. 5. Efter genomsökning: rapportera ”[Plats]
-2. Sök området systematiskt. Sök högt, lågt och genomsökt: GRÖN”
+2\. Sök området systematiskt. Sök högt, lågt och genomsökt: GRÖN”
 i mitten.
-3. Sök efter:
+3\. Sök efter:
 Oroa inte i onödan.
 • föremål som avviker från normalbilden Sök igenom lokalen och
 • föremål som saknas eller är felplacerade platsen innan väljarna
@@ -1286,7 +1286,7 @@ Utestängning Hela fastigheten stängs. Utlyses av ansvarig.
 
 <!-- sida 31 -->
 
-Från:           Max Andersson <max.andersson@val.se>
+Från:           Max Andersson \<max.andersson@val.se>
 Skickat:        den 29 maj 2024 14:18
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 22
@@ -1307,7 +1307,7 @@ Kommuner som inte redan tillhandahåller liknande checklista rekommenderas att s
 tillhandahålla i röstningslokalerna som en del i sitt valsäkerhetsarbete.
 
 Vi ber er också notera att ett nytt parti har tillkommit i listan över anmälda partier, totala antalet är alltså
-122.
+122\.
 
 Nyhetssammanfattning:
 
@@ -1339,7 +1339,7 @@ kommunexterna förtidsröster.
 
 Heads up – enkät till röstmottagare efter valet | Valcentralen
 Efter valet vill vi fånga in röstmottagarnas behov för att på bästa sätt kunna utveckla utbildningsmaterialet inför
-2026. En enkät kommer gå ut via mejl den 10 juni som vi önskar att valnämnden vidarebefordrar till
+2026\. En enkät kommer gå ut via mejl den 10 juni som vi önskar att valnämnden vidarebefordrar till
 röstmottagarna.
 Hälsningar,
 Valmyndigheten
@@ -1363,7 +1363,7 @@ Enligt sändlista
 Kungörelse
 
 Slutlig rösträkning efter val till Europaparlamentet den 9 juni
-2024.
+2024\.
 
 Länsstyrelsen i Hallands län genomför med början måndagen den 10
 
@@ -1382,7 +1382,7 @@ www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 34 -->
 
-Från:           Brev: Val ValAdm <valadm@val.se>
+Från:           Brev: Val ValAdm \<valadm@val.se>
 Skickat:        den 21 maj 2024 16:28
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 21 (1)
@@ -1446,7 +1446,7 @@ www.val.se
 
 <!-- sida 36 -->
 
-Från:           Brev: Val ValAdm <valadm@val.se>
+Från:           Brev: Val ValAdm \<valadm@val.se>
 Skickat:        den 15 maj 2024 13:45
 Till:           Brev: Val ValAdm
 Ämne:           Valmyndighetens nyhetsutskick v. 20

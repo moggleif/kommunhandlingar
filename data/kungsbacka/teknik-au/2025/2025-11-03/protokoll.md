@@ -265,7 +265,7 @@ Nämnden för Tekniks arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Förvaltningen presenterar en utvärdering av sommarmånaderna på Kungsbacka torg
-2025. Torgets utformning, evenemang, budget och näringsidkares synpunkter var
+2025\. Torgets utformning, evenemang, budget och näringsidkares synpunkter var
 centrala delar i utvärderingen.
 
 Beslutsgång

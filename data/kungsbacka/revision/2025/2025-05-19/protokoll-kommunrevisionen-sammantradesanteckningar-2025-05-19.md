@@ -153,10 +153,10 @@ Kommunrevisionen godkänner förslag på kommunikationsplan med föreslagna
 revideringar. Kommunikationsplanen ska översändas till kommunfullmäktiges
 presidium inför deras besök på kommande revisionsmöte. Nina Wiklander (Wikom)
 uppdras att:
-1. Ställa samman publicerade artiklar avseende revisionens granskning av
+1\. Ställa samman publicerade artiklar avseende revisionens granskning av
 Tjolöholm.
 
-2. Översända sedan tidigare framtagna presentationer med talmanus till
+2\. Översända sedan tidigare framtagna presentationer med talmanus till
 revisionen.
 
 Sammanfattning

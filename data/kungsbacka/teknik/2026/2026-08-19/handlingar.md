@@ -182,7 +182,7 @@ bakom Hållbar tillväxt som är GR:s strategidokument.
 GR:s strukturbild till vänster och GR:s fördjupade strukturbild för kustzonen till höger
 
 Region Halland har än så länge inte tagit fram en egen strukturbild men en Tillväxtstrategi 2014–
-2020. Både Region Halland och GR trycker på vikten av effektiva transporter och en hållbar
+2020\. Både Region Halland och GR trycker på vikten av effektiva transporter och en hållbar
 utveckling.
 
 Kommunen deltar aktivt i flera regionala och statliga sammanhang i syfte att tillsammans utveckla
@@ -227,11 +227,11 @@ har goda kommunikationer med kommunens orter och omvärld. Välplanerad infrastr
 lättillgänglig kollektivtrafik minimerar transporternas miljöpåverkan.
 
 Kommunfullmäktige har tagit fram fem mål för att nå visionen:
-- En attraktiv kommun att bo, verka och vistas i
-- En hållbar utveckling och en hälsosam miljö
-- Bästa företagsklimatet i Västsverige
-- I Kungsbacka utvecklas vi hela livet
-- Ett medskapande samhälle och öppen attityd
+\- En attraktiv kommun att bo, verka och vistas i
+\- En hållbar utveckling och en hälsosam miljö
+\- Bästa företagsklimatet i Västsverige
+\- I Kungsbacka utvecklas vi hela livet
+\- Ett medskapande samhälle och öppen attityd
 
 Kommunövergripande   översiktsplan
 Den här planen kompletterar till den kommunövergripande översiktsplanen som blev antagen av
@@ -269,15 +269,15 @@ Strategi 2040, ur översiktsplanen
 Strategi 2040 ur översiktsplanen
 
 För att Kungsbacka ska vara en attraktiv kommun att bo, verka och vistas i ska vi:
-- Fokusera på staden för att skapa förutsättningar för fler invånare, fler arbetstillfällen, större
+\- Fokusera på staden för att skapa förutsättningar för fler invånare, fler arbetstillfällen, större
 utbud, mångfald och puls
-- Fokusera på stationsorterna Anneberg och Åsa
-- Utveckla stark kollektivtrafik och infrastruktur
+\- Fokusera på stationsorterna Anneberg och Åsa
+\- Utveckla stark kollektivtrafik och infrastruktur
 
-- Värna och utveckla landsbygdens näringar och naturresurser
-- Värna och utveckla kustens attraktivitet
-- Värna och utveckla värdefulla naturområden och främja ett attraktivt friluftsliv
-- Utveckla samhället smart och vara väl rustade för klimatförändringar
+\- Värna och utveckla landsbygdens näringar och naturresurser
+\- Värna och utveckla kustens attraktivitet
+\- Värna och utveckla värdefulla naturområden och främja ett attraktivt friluftsliv
+\- Utveckla samhället smart och vara väl rustade för klimatförändringar
 
 7
 
@@ -674,10 +674,10 @@ Kapitlen om markanvändningskarta och riktlinjer delas in på samma sätt så at
 läsas parallellt.
 
 Delområden inom markanvändning i staden
-- Riktlinjer med motiveringar
-- Markanvändningskarta
-- Trafikstrategi - rörelser i staden
-- Översvämningsstrategi
+\- Riktlinjer med motiveringar
+\- Markanvändningskarta
+\- Trafikstrategi - rörelser i staden
+\- Översvämningsstrategi
 
 18
 
@@ -695,11 +695,11 @@ utmaningar och planeringsprinciper de berör. Dessutom finns kopplingar till kar
 mer om markanvändningen genom att klicka på relevant information.
 
 Delområden inom riktlinjer med motiveringar
-- Trafiknät
+\- Trafiknät
 
-- Stadsbebyggelse
-- Grön- och blåstruktur
-- Tekniska anläggningar
+\- Stadsbebyggelse
+\- Grön- och blåstruktur
+\- Tekniska anläggningar
 LÄS MER OM MARKANVÄNDNING OMRÅDESVIS
 
 Hela stadens utveckling
@@ -1632,11 +1632,11 @@ informationsklick i kartan. Informationsklick innebär att när du klickar på e
 relevant information i en textruta.
 
 Delområden inom markanvändning områdesvis
-- Trafiknät
-- Stadsbebyggelse
-- Grön- och blåstruktur
-- Tekniska anläggningar
-- Utanför stadsgräns
+\- Trafiknät
+\- Stadsbebyggelse
+\- Grön- och blåstruktur
+\- Tekniska anläggningar
+\- Utanför stadsgräns
 
 SE MARKANVÄNDNINGSKARTA
 
@@ -2635,7 +2635,7 @@ figurer nedan.
 
 Högsta beräknade havsvattenstånd från SMHI, 2018 (Höjdsystem RH2000).
 
-Nivåer i havet vid 200-årshändelse från SMHI, 2018 (Höjdsystem RH2000). *Inklusive nutida
+Nivåer i havet vid 200-årshändelse från SMHI, 2018 (Höjdsystem RH2000). \*Inklusive nutida
 medelvattenstånd på ca 0,1 meter.
 
 Nivåer i havet genom att lägga ihop Framtida medelvattenyta (utsläppsscenario SSP5-8.5, 83:e percentilen
@@ -2649,8 +2649,8 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 77 -->
 
-*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier.
-**Rekommenderat av MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag.
+\*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier.
+\*\*Rekommenderat av MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag.
 Skyfallskarteringen för Kungsbacka använder klimatfaktor 1,35.
 
 77
@@ -2883,14 +2883,14 @@ myndighet som har i uppgift att granska hur kommunens planering tar hänsyn till
 förutsättningar.
 
 Delområden inom allmänna intressen styrda i lag
-- Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
-- Riksintressen, 3 kapitlet miljöbalken
-- Riksintressen, 4 kapitlet miljöbalken
-- Miljökvalitetsnormer, 5 kapitlet miljöbalken
-- Skydd av natur, 7 kapitlet miljöbalken
+\- Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
+\- Riksintressen, 3 kapitlet miljöbalken
+\- Riksintressen, 4 kapitlet miljöbalken
+\- Miljökvalitetsnormer, 5 kapitlet miljöbalken
+\- Skydd av natur, 7 kapitlet miljöbalken
 
-- Fornminnen, 2 kapitlet kulturmiljölagen
-- Hälsa och säkerhet, plan- och bygglagen
+\- Fornminnen, 2 kapitlet kulturmiljölagen
+\- Hälsa och säkerhet, plan- och bygglagen
 
 Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
 
@@ -3371,7 +3371,7 @@ klimatförändringen. Att välja det värsta scenariot att förhålla sig till k
 
 också ett sätt att hantera osäkerheter. Att utgå från det kan ses som en säkerhetsmarginal. Det är
 särskilt viktigt då vi förhåller oss till havsnivån som vi vet kommer fortsätta stiga långt bortom år
-2100.
+2100\.
 LÄS MILJÖKONSEKVENSBESKRIVNING, FÖRÄNDRAT KLIMAT
 
 97
@@ -3780,11 +3780,11 @@ utvecklingsalternativ: planen baserat på fyra planeringsprinciper och ett alter
 motsatta principer.
 
 Delområden inom hållbarhetanalys
-- Samlad bedömning
-- Alternativgranskning
-- Miljökonsekvensbeskrivning enligt miljöbalken
-- Analys utifrån de globala målen
-- Barnkonsekvensanalys
+\- Samlad bedömning
+\- Alternativgranskning
+\- Miljökonsekvensbeskrivning enligt miljöbalken
+\- Analys utifrån de globala målen
+\- Barnkonsekvensanalys
 
 Samlad bedömning
 
@@ -3989,12 +3989,12 @@ i planarbetet. Kommunen har genomfört ett avgränsningssamråd enligt 6 kapitle
 
 där det framförs vilka möjliga konfliktområden som kommunen avser att särskilt belysa i en MKB.
 Delområden inom miljökonsekvensbeskrivning
-- Påverkan på vatten samt miljökvalitetsnormer för vatten
-- Trafikbuller samt miljökvalitetsnormer för omgivningsbuller
-- Luftkvalitet samt miljökvalitetsnormer för luft
-- Förändrat klimat
-- Riksintressen
-- Övriga miljökonsekvenser
+\- Påverkan på vatten samt miljökvalitetsnormer för vatten
+\- Trafikbuller samt miljökvalitetsnormer för omgivningsbuller
+\- Luftkvalitet samt miljökvalitetsnormer för luft
+\- Förändrat klimat
+\- Riksintressen
+\- Övriga miljökonsekvenser
 
 Bakgrund till Miljökonsekvensbeskrivning
 Geografisk avgränsning
@@ -4415,7 +4415,7 @@ Kommunen ska fortsätta sitt arbete med förorenande områden. Vid exploatering 
 förorenade områden hanteras frågan i planprocessen och kan leda till att föroreningar upptäcks och
 åtgärdas. Vi ska också arbeta vidare med det strategiska arbetet för att uppnå målet om att alla
 områden med mycket stor risk eller stor risk för människors hälsa eller miljön ska vara åtgärdade
-2050.
+2050\.
 
 Naturresurser
 De areella näringarna, ibland kallade gröna näringar, har stor betydelse för natur- och kulturvärden,
@@ -5009,18 +5009,18 @@ Barn och unga i olika åldrar har fått tycka till om planen i olika former. Der
 i utformningen av planen.
 
 VI har genomfört dessa dialoger:
-- Barn i förskoleålder: dialog med barn på tre förskolor.
+\- Barn i förskoleålder: dialog med barn på tre förskolor.
 
-- Bred kartenkät: fyra respondenter under 12 år (en underrepresentation sett till befolkningen);
+\- Bred kartenkät: fyra respondenter under 12 år (en underrepresentation sett till befolkningen);
 213 respondenter i åldern 13–17 år (en överrepresentation sett till befolkningen).
 
-- Dialog med hyresgäster: fyra respondenter i åldern upp till 13 år samt 21 respondenter i åldern
+\- Dialog med hyresgäster: fyra respondenter i åldern upp till 13 år samt 21 respondenter i åldern
 13–17 år.
 
-- Kommunutvecklarna (sommarjobbare): 64 samtal med tonåringar och unga vuxna om
+\- Kommunutvecklarna (sommarjobbare): 64 samtal med tonåringar och unga vuxna om
 utvecklingen av staden.
 
-- Medskapande rum ”Kungsbacka Live”: drop-in rum i ett köpcentrum i Kungsbacka stad. Rummet
+\- Medskapande rum ”Kungsbacka Live”: drop-in rum i ett köpcentrum i Kungsbacka stad. Rummet
 hade tema Utvecklingen av Kungsbacka stad under tre dagar. Rummet hade inslag av lek och
 interaktivitet som tilltalar barn och några barn kom in och lämnade sina synpunkter.
 
@@ -5060,13 +5060,13 @@ redan framgår av lagstiftning har tagits bort eller kortats ned, samtidigt som 
 som kommunen ansvarar för att reglera. Se separat dokument för redovisning av föreslagna ändringar.
 Ändringarna innefattar bland annat:
 
--  Rubriken ”Sortering av avfall” förkortas och anvisningar om sortering av avfall flyttas till en
+\-  Rubriken ”Sortering av avfall” förkortas och anvisningar om sortering av avfall flyttas till en
 bilaga.
--  Rubrikerna ”Särskilt om avfall under kommunalt ansvar från verksamheter” och ”Annat avfall
+\-  Rubrikerna ”Särskilt om avfall under kommunalt ansvar från verksamheter” och ”Annat avfall
 än avfall under kommunalt ansvar från verksamheter” utgår i stort.
--  Tillsynsansvarig nämnd och nämnden för Miljö & Hälsoskydd justeras till ansvarig
+\-  Tillsynsansvarig nämnd och nämnden för Miljö & Hälsoskydd justeras till ansvarig
 tillsynsmyndighet.
--  Längsta tillåtna sträcka för framdragning, dragväg, justeras från 100 meter till 50 meter.
+\-  Längsta tillåtna sträcka för framdragning, dragväg, justeras från 100 meter till 50 meter.
 
 Föreskrifterna ställs ut för att ge allmänheten, fastighetsinnehavare, verksamhetsutövare och andra
 berörda möjlighet att ta del av och lämna synpunkter på förslaget innan det antas. Syftet är att
@@ -5194,9 +5194,9 @@ Bemyndigande
 Kommunfullmäktige meddelar dessa lokala föreskrifter för avfallshantering i
 Kungsbacka kommun med stöd av följande lagstiftning:
 
--  Miljöbalken (1998:808) 15 kap. 47, 49 och 52 §§
--  Avfallsförordningen 3 kap. 4, 35, 41a, 41b §§, 4 kap. 14 § och 5 kap. 15a §
--  Förordningen (2022:1274) om producentansvar för förpackningar 7 kap. 11 §
+\-  Miljöbalken (1998:808) 15 kap. 47, 49 och 52 §§
+\-  Avfallsförordningen 3 kap. 4, 35, 41a, 41b §§, 4 kap. 14 § och 5 kap. 15a §
+\-  Förordningen (2022:1274) om producentansvar för förpackningar 7 kap. 11 §
 
 Dessa föreskrifter avser avfall under kommunalt ansvar.
 
@@ -5237,7 +5237,7 @@ begravningsplatser.
 
 f. Med farligt avfall avses detsamma som i 1 kap. 2 § avfallsförordningen
 (2020:614), det vill säga avfall som i bilaga 3 till avfallsförordningen beskrivs
-med en avfallskod markerad med en asterisk (*).
+med en avfallskod markerad med en asterisk (\*).
 
 Kungsbacka kommun              Avfallsföreskrifter             3 (25)
 
@@ -5541,12 +5541,12 @@ Fastighetsinnehavaren ansvarar för och bekostar installation och underhåll av
 anordningar och utrymmen för avfallshanteringen. Beträffande avfallsanordningar
 gäller att:
 
--  De ska utformas, underhållas och installeras så att kraven på god
+\-  De ska utformas, underhållas och installeras så att kraven på god
 arbetsmiljö uppfylls och risken för olycksfall minimeras.
--  De ska vara tillgängliga och underhållas så att driftavbrott och olägenhet
+\-  De ska vara tillgängliga och underhållas så att driftavbrott och olägenhet
 såsom buller, lukt et cetera inte uppstår.
 
--  De ska medge hantering med den utrustning som används i kommunens
+\-  De ska medge hantering med den utrustning som används i kommunens
 renhållningssystem.
 
 Kungsbacka kommun              Avfallsföreskrifter             10 (25)
@@ -5761,19 +5761,19 @@ Kungsbacka kommun              Avfallsföreskrifter             14 (25)
 Ordinarie hämtning av avfall under kommunalt ansvar sker med de intervall som
 framgår av avfallstaxan, om det inte framgår annat av följande hämtningsintervall.
 
--  Matavfall hämtas varannan vecka, som längst två veckors tömningsintervall.
+\-  Matavfall hämtas varannan vecka, som längst två veckors tömningsintervall.
 Fyra veckor kan medges vid anmäld kompostering av matavfall.
--  Restavfall hämtas var fjärde vecka, som längst fyra veckors
+\-  Restavfall hämtas var fjärde vecka, som längst fyra veckors
 tömningsintervall.
--  Fettavskiljare töms minst fyra gånger per år, eller oftare om det krävs för att
+\-  Fettavskiljare töms minst fyra gånger per år, eller oftare om det krävs för att
 säkerställa anläggningens funktion.
--  Avfall från enskilda avlopp ska tömmas i enlighet med leverantörens
+\-  Avfall från enskilda avlopp ska tömmas i enlighet med leverantörens
 anvisningar, om det inte framgår något annat i tillståndet eller godkännandet
 av anläggningen som är meddelat av ansvarig tillsynsmyndighet. I annat fall
 sker tömning minst en gång per år för enskilda avloppsanläggningar och
 vartannat år för fosforfällor.
 
--  Tömning av andra små avloppsanläggningar sker minst en gång per år.
+\-  Tömning av andra små avloppsanläggningar sker minst en gång per år.
 
 Kungsbacka kommun              Avfallsföreskrifter             15 (25)
 
@@ -6453,7 +6453,7 @@ Kungsbacka kommun                Avfallstaxa                   2 (40)
 
 Innehåll
 
-1. Inledande bestämmelser ................................................................................................... 6
+1\. Inledande bestämmelser ................................................................................................... 6
 1.1 Lagstöd ........................................................................................................................... 6
 
 1.2 Avgiftsskyldighet ............................................................................................................. 6
@@ -6475,15 +6475,15 @@ Innehåll
 1.8 Delegering .................................................................................................................... 10
 1.9 Dokumentets uppbyggnad ........................................................................................... 10
 
-2. Beräkningsgrunder .......................................................................................................... 11
+2\. Beräkningsgrunder .......................................................................................................... 11
 
 2.1 Taxans konstruktion ..................................................................................................... 11
 2.2 Maxtaxa ........................................................................................................................ 11
 
 2.3 Avgifter när taxan inte kan tillämpas ............................................................................ 11
-3. Mervärdesskatt ................................................................................................................. 12
+3\. Mervärdesskatt ................................................................................................................. 12
 
-4. Grundavgift ....................................................................................................................... 13
+4\. Grundavgift ....................................................................................................................... 13
 
 4.1 En- och tvåbostadshus ................................................................................................. 13
 4.2 Flerbostadshus och samfälligheter .............................................................................. 13
@@ -6491,7 +6491,7 @@ Innehåll
 4.3 Verksamheter ............................................................................................................... 13
 4.4 Klassificering av grundavgift ......................................................................................... 13
 
-5. Taxetabeller och avgifter för en- och tvåbostadshus ................................................... 14
+5\. Taxetabeller och avgifter för en- och tvåbostadshus ................................................... 14
 5.1 Hämtavgifter helår ........................................................................................................ 14
 5.1.1 Restavfall ............................................................................................................... 14
 5.1.2 Matavfall ................................................................................................................ 14
@@ -6524,7 +6524,7 @@ Kungsbacka kommun                Avfallstaxa                   3 (40)
 5.5.2 Hämtning i storsäck ............................................................................................... 20
 5.5.3 Behandlingsavgift .................................................................................................. 21
 5.5.4 Övriga avgifter vid särskilda åtgärder .................................................................... 21
-6. Taxetabeller och avgifter för flerbostadshus och samfälligheter ............................... 22
+6\. Taxetabeller och avgifter för flerbostadshus och samfälligheter ............................... 22
 
 6.1 Hämtavgifter helår i kärl ............................................................................................... 22
 6.1.1 Restavfall ............................................................................................................... 22
@@ -6558,7 +6558,7 @@ Kungsbacka kommun                Avfallstaxa                   3 (40)
 6.6.3 Behandlingsavgift .................................................................................................. 29
 6.6.4 Övriga avgifter vid särskilda åtgärder .................................................................... 29
 
-7. Taxetabeller och avgifter för verksamheter ................................................................... 30
+7\. Taxetabeller och avgifter för verksamheter ................................................................... 30
 7.1 Hämtavgifter helår i kärl ............................................................................................... 30
 7.1.1 Restavfall ............................................................................................................... 30
 7.1.2 Matavfall ................................................................................................................ 30
@@ -6598,7 +6598,7 @@ Kungsbacka kommun                Avfallstaxa                   4 (40)
 7.9.6 Komposterbart trädgårdsavfall i kärl ..................................................................... 36
 7.9.7 Komposterbart trädgårds- och parkavfall (inklusive ris och grenar) i container .... 36
 7.9.8 Fastighetsnära hämtning av grovavfall och hämtning av återbruk........................ 37
-8. Avgifter för hämtning av slam, filtermaterial, latrin och fett ........................................ 38
+8\. Avgifter för hämtning av slam, filtermaterial, latrin och fett ........................................ 38
 
 8.1 Slamsugning och tömning av fettavskiljare .................................................................. 38
 8.2 Tömning av byggtoalett och portabel toalett ................................................................ 38
@@ -6607,13 +6607,13 @@ Kungsbacka kommun                Avfallstaxa                   4 (40)
 8.4 Hämtning av fosforfilter eller annat filtermaterial .......................................................... 39
 8.5 Övriga avgifter slamsugning och hämtning av filtermaterial ........................................ 39
 
-9. Övergångsbestämmelser ................................................................................................ 40
+9\. Övergångsbestämmelser ................................................................................................ 40
 
 Kungsbacka kommun                Avfallstaxa                   5 (40)
 
 <!-- sida 176 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 1.1 Lagstöd
 
@@ -6739,7 +6739,7 @@ Nedan kärlstorlekar är valbara för flerbostadshus och samfälligheter och vä
 fastighetsinnevaren. Tvåfackskärl är valbara för flerbostadshus och samfälligheter
 med upp till sju hushåll. Se separata rader för container.
 
-*erbjuds endas i kombination med tvåfackskärl.
+\*erbjuds endas i kombination med tvåfackskärl.
 
 Krantömda markbehållare och komprimatorcontainer kan användas men ägs och
 anskaffas av fastighetsinnehavaren. Se kapitel 6.
@@ -6767,7 +6767,7 @@ Kungsbacka kommun                Avfallstaxa                   8 (40)
 | Glasförpackningar i singelkärl | 190, 370 |
 | Pappers- och plastförpackningar i tvåfackskärl | 370 uppdelat 60/40% |
 | Ofärgade och färgade glasförpackningar i tvåfackskärl | 240 uppdelat 50/50% |
-| Metallförpackningar | 20*, 190, 370 |
+| Metallförpackningar | 20\*, 190, 370 |
 |  | Kubikmeter |
 | Container | Upp till 6 |
 | Container | 6,1–10 |
@@ -6844,7 +6844,7 @@ Kungsbacka kommun                Avfallstaxa                   10 (40)
 
 <!-- sida 181 -->
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 2.1 Taxans konstruktion
 
@@ -6888,7 +6888,7 @@ Kungsbacka kommun                Avfallstaxa                   11 (40)
 
 <!-- sida 182 -->
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Avfallsavgifter från en kommun är momspliktiga med 25%. Avgifterna i taxan är
 angivna i kronor inklusive moms.
@@ -6897,7 +6897,7 @@ Kungsbacka kommun                Avfallstaxa                   12 (40)
 
 <!-- sida 183 -->
 
-4. Grundavgift
+4\. Grundavgift
 
 4.1 En- och tvåbostadshus
 
@@ -6942,7 +6942,7 @@ Kungsbacka kommun                Avfallstaxa                   13 (40)
 
 <!-- sida 184 -->
 
-5. Taxetabeller och avgifter för en- och tvåbostadshus
+5\. Taxetabeller och avgifter för en- och tvåbostadshus
 
 Rutor märkta ”Ingår” specificerar det alternativ som ingår som ett förvalt alternativ i
 avfallsabonnemanget. En kund behöver inte göra några andra val och tjänsten är
@@ -6954,7 +6954,7 @@ kostnadsfri. Se övriga rutor för andra alternativ och kostnader.
 
 5.1.2 Matavfall
 
-*Kräver anmäld och godkänd varmkompost
+\*Kräver anmäld och godkänd varmkompost
 
 5.1.3 Förpackningsavfall
 Hämtas i tvådelade kärl och separat metallbehållare. Avgiften anges i kronor per år.
@@ -6974,7 +6974,7 @@ Kungsbacka kommun                Avfallstaxa                   14 (40)
 
 | Kärlvolym liter | Kronor/år |  |
 | --- | --- | --- |
-|  | Var fjärde vecka* | Varannan vecka |
+|  | Var fjärde vecka\* | Varannan vecka |
 | 140 | Valbar, avgiftsfri | Ingår |
 
 [Tabell 184-3](handlingar.tabeller/184-3.csv)
@@ -6994,7 +6994,7 @@ Gäller för fritidshus med säsongsboende. Hämtperioden är vecka 19 till 38.
 
 5.2.2 Matavfall
 
-*Kräver anmäld och godkänd varmkompost
+\*Kräver anmäld och godkänd varmkompost
 
 5.2.3 Förpackningsavfall
 Hämtas i tvådelade kärl och separat metallbehållare. Avgiften anges i kronor per
@@ -7015,7 +7015,7 @@ Kungsbacka kommun                Avfallstaxa                   15 (40)
 
 | Kärlvolym liter | Kronor/delår |  |
 | --- | --- | --- |
-|  | Var fjärde vecka* | Varannan vecka |
+|  | Var fjärde vecka\* | Varannan vecka |
 | 140 | Valbar, avgiftsfri | Ingår |
 
 [Tabell 185-3](handlingar.tabeller/185-3.csv)
@@ -7228,9 +7228,9 @@ Kungsbacka kommun                Avfallstaxa                   20 (40)
 
 5.5.3 Behandlingsavgift
 
-* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens
+\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens
 kan uppvisas.
-** Kontakta godkänd entreprenör för mer information och pris
+\*\* Kontakta godkänd entreprenör för mer information och pris
 
 5.5.4 Övriga avgifter vid särskilda åtgärder
 Felsorterat avfall klassas om och behandlingsavgift tas då ut enligt den nya
@@ -7250,8 +7250,8 @@ Kungsbacka kommun                Avfallstaxa                   21 (40)
 | Glas | 2 690 | 1 541 |
 | Plast | 2 773 | 1 027 |
 | Gips | 2 568 | 1 027 |
-| Osorterat/sammansatt bygg- och<br>rivningsavfall * | 2 568 | 2 054 |
-| Övriga typer av sorterat bygg- och<br>rivningsavfall ** | 7 704 | 2 054 |
+| Osorterat/sammansatt bygg- och<br>rivningsavfall \* | 2 568 | 2 054 |
+| Övriga typer av sorterat bygg- och<br>rivningsavfall \*\* | 7 704 | 2 054 |
 
 [Tabell 191-2](handlingar.tabeller/191-2.csv)
 
@@ -7262,7 +7262,7 @@ Kungsbacka kommun                Avfallstaxa                   21 (40)
 
 <!-- sida 192 -->
 
-6. Taxetabeller och avgifter för flerbostadshus  och
+6\. Taxetabeller och avgifter för flerbostadshus  och
 samfälligheter
 
 Rutor märkta ”Ingår” specificerar det hämtningsalternativ som ingår utan extra
@@ -7586,9 +7586,9 @@ Kungsbacka kommun                Avfallstaxa                   28 (40)
 
 6.6.3 Behandlingsavgift
 
-* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens
+\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens
 kan uppvisas.
-** Kontakta godkänd entreprenör för mer information och pris.
+\*\* Kontakta godkänd entreprenör för mer information och pris.
 
 6.6.4 Övriga avgifter vid särskilda åtgärder
 
@@ -7609,8 +7609,8 @@ Kungsbacka kommun                Avfallstaxa                   29 (40)
 | Glas | 2 690 | 1 541 |
 | Plast | 2 773 | 1 027 |
 | Gips | 2 568 | 1 027 |
-| Osorterat/sammansatt bygg- och<br>rivningsavfall * | 2 568 | 2 054 |
-| Övriga typer av sorterat bygg-<br>och rivningsavfall ** | 7704 | 2054 |
+| Osorterat/sammansatt bygg- och<br>rivningsavfall \* | 2 568 | 2 054 |
+| Övriga typer av sorterat bygg-<br>och rivningsavfall \*\* | 7704 | 2054 |
 
 [Tabell 199-2](handlingar.tabeller/199-2.csv)
 
@@ -7621,7 +7621,7 @@ Kungsbacka kommun                Avfallstaxa                   29 (40)
 
 <!-- sida 200 -->
 
-7. Taxetabeller och avgifter för verksamheter
+7\. Taxetabeller och avgifter för verksamheter
 
 7.1 Hämtavgifter helår i kärl
 
@@ -7954,7 +7954,7 @@ Kungsbacka kommun                Avfallstaxa                   37 (40)
 
 <!-- sida 208 -->
 
-8. Avgifter för hämtning av slam,  filtermaterial, latrin
+8\. Avgifter för hämtning av slam,  filtermaterial, latrin
 och fett
 
 8.1 Slamsugning och tömning av fettavskiljare
@@ -8002,7 +8002,7 @@ anläggningen för att möjliggöra hämtning med kranbil.
 
 8.5 Övriga avgifter slamsugning och hämtning av filtermaterial
 
-*Exempelvis tunga lock över 15 kilo, svåråtkomlig eller problematisk placering av anläggning
+\*Exempelvis tunga lock över 15 kilo, svåråtkomlig eller problematisk placering av anläggning
 eller vad som framkommer vid utredning av arbetsmiljö.
 
 Kungsbacka kommun                Avfallstaxa                   39 (40)
@@ -8030,11 +8030,11 @@ Kungsbacka kommun                Avfallstaxa                   39 (40)
 | Tjänst | Kronor/tillfälle |
 | Framkörningsavgift vid uteblivet uppdrag (bomkörning) | 1 700 |
 | Tjänst | Kronor/påbörjad<br>timme |
-| Extra personal vid dubbelbemanning på grund av<br>arbetsmiljöskäl* | 1 000 |
+| Extra personal vid dubbelbemanning på grund av<br>arbetsmiljöskäl\* | 1 000 |
 
 <!-- sida 210 -->
 
-9. Övergångsbestämmelser
+9\. Övergångsbestämmelser
 
 Abonnemang och tjänster som vid ikraftträdandet omfattas av tidigare taxa övergår
 till motsvarande avgiftskategori enligt denna taxa från och med ikraftträdandedagen.
@@ -8142,9 +8142,9 @@ hastighet.
 
 Fibernät vs bredbandsnät; Fibernät är den passiva infrastrukturen i marken.
 Bredbandsnät är det kompletta nät som levererar tjänster – fibernät + aktiv utrustning
-+ drift + tjänsteleverantörer.
+\+ drift + tjänsteleverantörer.
 
-1. Om Kungsbacka    Bredbandsnät
+1\. Om Kungsbacka    Bredbandsnät
 
 Kungsbacka bredbandsnät har sedan 2010 på uppdrag av Kommunfullmäktige
 byggt ut det fysiska bredbandsnätet i Kungsbacka kommun, i form av ett öppet nät.
@@ -8175,7 +8175,7 @@ kommunala verksamheter och företag i ett slutet aktivt nät.
 Intäkterna från den kommersiella verksamheten ska täcka kostnaderna för drift och
 utbyggnad av densamma inom Kungsbacka kommuns geografiska område.
 
-2.       Öppet  nät
+2\.       Öppet  nät
 
 Kungsbacka Bredbandsnät säljer den fysiska anslutningen till nätet, och hyr ut
 svartfiber, kapacitet och inplaceringar till företag, tjänsteleverantörer och operatörer.
@@ -8195,7 +8195,7 @@ och telefoni i det öppna nätet genom en upphandlad kommunikationsoperatör. Ta
 vare det öppna nätet uppnås full konkurrens mellan de olika leverantörerna, vilket
 gynnar medborgare och företag genom ett brett tjänsteutbud och lägre priser.
 
-3.       Tjänster och avgifter
+3\.       Tjänster och avgifter
 3.1      Anslutning till Kungsbacka Bredbandsnät
 
 Förbindelser till Kungsbacka Bredbandsnäts öppna nät debiteras med en
@@ -8213,16 +8213,16 @@ Kungsbacka kommun             Bredbandstaxa 2027                4 (9)
 
 [Tabell 214-1](handlingar.tabeller/214-1.csv)
 
-| Anslutningsavgift | Engångsavgift* |
+| Anslutningsavgift | Engångsavgift\* |
 | --- | --- |
 | Fiberanslutning till villa vid byggnation av ett område i tätort | 20 000 kr |
 | Fiberanslutning till villa vid byggnation av ett område på landsbygd | 25 000 kr |
 
 <!-- sida 215 -->
 
-*Priser angivna inklusive moms.
+\*Priser angivna inklusive moms.
 
-** Offerten grundar sig på fastighet, läge och behov av aktiv utrustning.
+\*\* Offerten grundar sig på fastighet, läge och behov av aktiv utrustning.
 
 3.2      Svartfiber
 Svartfiber debiteras en anslutningsavgift (engångsavgift) i samband med att
@@ -8255,11 +8255,11 @@ Kungsbacka kommun             Bredbandstaxa 2027                5 (9)
 
 | Efteranslutning av villa i redan utbyggt område | 29 900 kr |
 | --- | --- |
-| Enskild villa | Offert** |
-| Företagsanslutning | Offert** |
-| Kommunala verksamheter | Offert** |
-| Svartfiber | Offert** |
-| Kapacitet | Offert** |
+| Enskild villa | Offert\*\* |
+| Företagsanslutning | Offert\*\* |
+| Kommunala verksamheter | Offert\*\* |
+| Svartfiber | Offert\*\* |
+| Kapacitet | Offert\*\* |
 
 [Tabell 215-2](handlingar.tabeller/215-2.csv)
 
@@ -8374,7 +8374,7 @@ inget annat avtalats.
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
 
-•  Tillgänglighet = 100*(mätperiod-oplanerade avbrott) / mätperiod.
+•  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar servicetid på årsbasis enligt vald servicenivå. Servicetid:
 
 inom den tid vilken felavhjälpning och service sker.
@@ -8415,15 +8415,15 @@ Kungsbacka kommun             Bredbandstaxa 2027                8 (9)
 
 personal från Kungsbacka Bredbandsnät.
 
-* Pris angivet inklusive moms.
+\* Pris angivet inklusive moms.
 
-________________
+\________________
 
 Kungsbacka kommun             Bredbandstaxa 2027                9 (9)
 
 [Tabell 219-1](handlingar.tabeller/219-1.csv)
 
-| Arbete | Pris * | Förklaring |
+| Arbete | Pris \* | Förklaring |
 | --- | --- | --- |
 | Fibertekniker | 800 kr | Per påbörjad timme. Helgfri vardag<br>kl.08-16 |
 
@@ -8621,14 +8621,14 @@ grund av det ekonomiska läget har en handlingsplan upprättats på både kort o
 budget i balans och den höjning som föreslås i denna skrivelse är en del i den handlingsplanen.
 
 Föreslagna förändringar till taxa 2027
-1. Lämna pris på offert ändras från 36 till 24 månader för svartfiber och kapacitet
+1\. Lämna pris på offert ändras från 36 till 24 månader för svartfiber och kapacitet
 
 <!-- sida 224 -->
 
 KUNGSBACKA  KOMMUN
 5 (10)
 
-2. Bredda tjänsteutbudet för kommunal verksamhet, I dagsläget finns det endast två produkter att
+2\. Bredda tjänsteutbudet för kommunal verksamhet, I dagsläget finns det endast två produkter att
 göra avrop på; ”svartfiber / kapacitet under 10 Mbit”, ”svartfiber / kapacitet över 10 Mbit”
 
 Eftersom Kungsbacka Bredbandsnät redan tillhandahåller ett bredare produktutbud gentemot
@@ -8640,7 +8640,7 @@ a. Separera kapacitet och svartfiber
 b. Skapar tre nya kapacitetstjänster (100Mbit/s, 10Gbit/s & Redundans)
 Se förslag till ny prissättning i tabellerna nedan.
 
-3. Nämnden för Teknik ges möjlighet att justera priserna varje år per 1 januari utifrån
+3\. Nämnden för Teknik ges möjlighet att justera priserna varje år per 1 januari utifrån
 förändringen i konsumentprisindex enligt nedanstående villkor. Övriga förändringar av taxan
 beslutas av kommunfullmäktige.
 
@@ -8655,7 +8655,7 @@ d. “Avtalat pris ska från och med den 1 januari varje år justeras enligt fö
 enligt uppgifter från Statistiska centralbyrån.”
 e. Nämnden för Teknik ansvarar för att årligen räkna upp beloppen i taxan.
 
-4. Anslutningsavgiften för hushåll föreslås kvarstå ojusterad till 2027 då den bedöms vara i paritet
+4\. Anslutningsavgiften för hushåll föreslås kvarstå ojusterad till 2027 då den bedöms vara i paritet
 med vad som gäller på marknaden i övrigt. Anslutningsavgiften är den enda kostnad som
 
 invånare faktureras för av Kungsbacka Bredbandsnät. Hushåll beställer den fysiska
@@ -8730,7 +8730,7 @@ Mbit motsvarar tjänsten för 1Gbit/s och hanteras därför som denna.
 Önskemål från nämnden var att Kungsbacka Bredbandsnät återkommer och presenterar två nya
 förslag;
 
-1. Alternativ 1; En stegvis förändring från 2027 med fullständig justering 2028
+1\. Alternativ 1; En stegvis förändring från 2027 med fullständig justering 2028
 
 [Tabell 226-1](handlingar.tabeller/226-1.csv)
 
@@ -8749,7 +8749,7 @@ förslag;
 KUNGSBACKA  KOMMUN
 8 (10)
 
-2. Alternativ 2; Full förändring till 2027 i enlighet med föreslaget pris och produktutbud för
+2\. Alternativ 2; Full förändring till 2027 i enlighet med föreslaget pris och produktutbud för
 
 svartfiber/ kapacitetstjänster
 
@@ -9276,7 +9276,7 @@ Götalands län ska vara robust även i framtiden.
 
 Innehåll
 
-1. Inledning .............................................................................................................................................. 8
+1\. Inledning .............................................................................................................................................. 8
 Regional vattenförsörjningsplanering för robust dricksvattenförsörjning ....................................... 10
 
 Vem ansvarar för dricksvattenförsörjningen? ................................................................................... 11
@@ -9291,7 +9291,7 @@ Uppdatering och uppföljning av planen .........................................
 Fyra delregioner ................................................................................................................................ 16
 Hur ska vattenförsörjningsplanen användas? ................................................................................... 18
 
-2. Vattenresurser och behov idag ........................................................................................................ 19
+2\. Vattenresurser och behov idag ........................................................................................................ 19
 Vattenresurser i Västra Götaland ...................................................................................................... 19
 
 Vattenkvalitet .................................................................................................................................... 21
@@ -9300,19 +9300,19 @@ Vattenskyddsområden ...........................................................
 Vattenanvändning ............................................................................................................................. 24
 Erfarenheter av torka från 2018–2025 .............................................................................................. 32
 
-3. Tillgång och behov år 2100................................................................................................................ 33
+3\. Tillgång och behov år 2100................................................................................................................ 33
 Länets vattenresurser i ett förändrat klimat ..................................................................................... 34
 
 Klimatrisker för vattenförsörjningen ................................................................................................. 41
 Länets framtida vattenbehov ............................................................................................................ 47
 
-4. Länets dricksvattenresurser .............................................................................................................. 51
+4\. Länets dricksvattenresurser .............................................................................................................. 51
 Nationellt viktiga dricksvattenresurser ............................................................................................. 52
 
 Regionalt viktiga dricksvattenresurser .............................................................................................. 52
 Vattenresurser av betydelse för andra län ........................................................................................ 54
 
-5. Åtgärder för robust dricksvattenförsörjning ..................................................................................... 55
+5\. Åtgärder för robust dricksvattenförsörjning ..................................................................................... 55
 Säkerställa tillgång till råvatten av god kvalitet och tillräcklig mängd .............................................. 56
 
 Tillse tillräckliga kunskapsunderlag ................................................................................................... 58
@@ -9322,7 +9322,7 @@ Skapa robusta tekniska system ..................................................
 Beakta sekretess och säkerhetsskydd ............................................................................................... 60
 
 Föreslagna åtgärder........................................................................................................................... 60
-6. Referenser ......................................................................................................................................... 66
+6\. Referenser ......................................................................................................................................... 66
 
 Copyrightförteckning av kartor ......................................................................................................... 69
 
@@ -9330,18 +9330,18 @@ Copyrightförteckning av kartor ................................................
 
 Bilagor
 
-1. Nationellt och regionalt viktiga dricksvattenresurser
+1\. Nationellt och regionalt viktiga dricksvattenresurser
 
-2. Översikt av regionalt viktiga vattenresurser samt vattenskyddsområden i Västra Götaland per
+2\. Översikt av regionalt viktiga vattenresurser samt vattenskyddsområden i Västra Götaland per
 delregion
-3. Metodbeskrivning urval av regionalt viktiga dricksvattenresurser
+3\. Metodbeskrivning urval av regionalt viktiga dricksvattenresurser
 
-4. Metodbeskrivning vattenbehov
-5. Sammanfattning från kommundialoger
+4\. Metodbeskrivning vattenbehov
+5\. Sammanfattning från kommundialoger
 
 <!-- sida 246 -->
 
-1.   Inledning
+1\.   Inledning
 
 Den här vattenförsörjningsplanen är ett led i Länsstyrelsens arbete för robust dricksvattenförsörjning
 i ett flergenerationsperspektiv. En viktig del i det arbetet är att skapa nödvändigt skydd för regionalt
@@ -9822,7 +9822,7 @@ geologiska undersökning, SMHI samt länsstyrelser i angränsande län.
 
 <!-- sida 257 -->
 
-2.  Vattenresurser               och     behov       idag
+2\.  Vattenresurser               och     behov       idag
 
 Vattenresurser i Västra Götaland
 
@@ -10361,7 +10361,7 @@ ansträngt läge för dricksvatten och uppmaningar om sparsamhet.
 
 <!-- sida 271 -->
 
-3.   Tillgång       och     behov       år   2100
+3\.   Tillgång       och     behov       år   2100
 
 Klimat-och samhällsförändringar kommer att påverka vattenbehovet och tillgången till vatten. I detta
 
@@ -11169,7 +11169,7 @@ användas för human konsumtion.
 
 <!-- sida 289 -->
 
-4.   Länets       dricksvattenresurser
+4\.   Länets       dricksvattenresurser
 
 För att en vattenresurs ska anses som en robust dricksvattenresurs för flera generationer framåt
 behöver flera kriterier vara uppfyllda. Vattentillgången behöver kunna täcka det behov som finns
@@ -11258,33 +11258,33 @@ Tabell 3. Nationellt och regionalt viktiga dricksvattenresurser i länet med ID-
 
 Nationellt viktiga dricksvattenresurser
 
-1. Göta Älv    2. Vänern       3. Vättern
+1\. Göta Älv    2. Vänern       3. Vättern
 
 Regionalt viktiga dricksvattenresurser – grundvatten
-13. Fänneslunda- 22. Magasinsgrupp Rösjön
-4. Algutstorp-Horla                                 31. Ödskölts moar
+13\. Fänneslunda- 22. Magasinsgrupp Rösjön
+4\. Algutstorp-Horla                                 31. Ödskölts moar
 Rångedala       Hornborga Valle Timmersdala
-5. Backen      14. Gråbodeltat 23. Rådaåsen         32. Örbydeltat
-6. Blidsberg-Ulricehamn 15. Göjeholm 24. Sandhem-Hömb norr 33. Östadsdeltat
-7. Nolåns dalgång 16. Hagelberg 25. Sandhem-Hömb söder 34. Östra Frölunda
+5\. Backen      14. Gråbodeltat 23. Rådaåsen         32. Örbydeltat
+6\. Blidsberg-Ulricehamn 15. Göjeholm 24. Sandhem-Hömb norr 33. Östadsdeltat
+7\. Nolåns dalgång 16. Hagelberg 25. Sandhem-Hömb söder 34. Östra Frölunda
 
-8. Bullarebygden 17. Hökensås  26. Svenljunga
-9. Dalsjöfors  18. Kinnarumma-Fritsla 27. Tibro
+8\. Bullarebygden 17. Hökensås  26. Svenljunga
+9\. Dalsjöfors  18. Kinnarumma-Fritsla 27. Tibro
 
-10. Nittorp    19. Kolarp      28. Tranemo
+10\. Nittorp    19. Kolarp      28. Tranemo
 
-11. Diseröd Norra 20. Töreboda 29. Ambjörnarp
-12. Diseröd Södra 21. Hova     30. Sjötofta
+11\. Diseröd Norra 20. Töreboda 29. Ambjörnarp
+12\. Diseröd Södra 21. Hova     30. Sjötofta
 
 Regionalt viktiga dricksvattenresurser – ytvatten
 
-35. Kärnsjön   40. Rådasjön    45. Västra Nedsjön   50. Öresjö Viskan
-36. Lelång     41. Stora Hällungen 46. Åsunden      51. Östra Nedsjön
+35\. Kärnsjön   40. Rådasjön    45. Västra Nedsjön   50. Öresjö Viskan
+36\. Lelång     41. Stora Hällungen 46. Åsunden      51. Östra Nedsjön
 
-37. Lygnern    42. Säven       47. Yttre Åsunden    52. Östra Öresjön
-38. Mjörn      43. Södra Bullaresjön 48. Ömmern
+37\. Lygnern    42. Säven       47. Yttre Åsunden    52. Östra Öresjön
+38\. Mjörn      43. Södra Bullaresjön 48. Ömmern
 
-39. Norra Bullaresjön 44. Tolken (Ulricehamn) 49. Öresjö Bäveån
+39\. Norra Bullaresjön 44. Tolken (Ulricehamn) 49. Öresjö Bäveån
 
 53
 
@@ -11306,7 +11306,7 @@ och hur de behöver förvaltas framgår av respektive läns vattenförsörjnings
 
 <!-- sida 293 -->
 
-5.   Åtgärder         för   robust
+5\.   Åtgärder         för   robust
 
 dricksvattenförsörjning
 
@@ -11748,7 +11748,7 @@ Tabell 7. Åtgärder riktade till Länsstyrelsen.
 
 <!-- sida 304 -->
 
-6.   Referenser
+6\.   Referenser
 
 Anna Eklund, 1998. SMHI Nr 74. Vattentemperaturer i sjöar, sommar och vinter. Resultat från SMHI:s
 mätningar.
@@ -11806,7 +11806,7 @@ livsmedelsstrategi-for-jobb-och-hallbar-tillvaxt-i-hela-landet/ , senast ändrad
 Miljösamverkan Skaraborg, 2025. https://www.miljoskaraborg.se/privatperson/vatten/vatten-till-
 miljon/vattenskyddsomraden/vatterns-vattenskyddsomrade/. Besökt 2026-01-15.
 MSB, 2025. Konsekvenser vid höga och låga vattennivåer i Vänern. Publikationsnummer: MSB2612 - Oktober
-2025. https://rib.msb.se/filer/pdf/31151.pdf
+2025\. https://rib.msb.se/filer/pdf/31151.pdf
 
 Rhode, A., Lindström, G., Rosberg, J. & Pers, C., 2006. Grundvattenbildning i svenska typjordar - översiktlig
 beräkning med en vattenbalansmodell. Uppsala Universitet: Report Series A, No. 66.
@@ -11814,7 +11814,7 @@ Rhode, A., Lindström, G., Dahnée, J., 2009. Grundvattennivåer i ett förändr
 nr 60–1642/2007.
 
 SCB, 2025, Folkmängd, antalet födda, döda och flyttningar efter region, kön och ålder. År 2024–2070,
-https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0401__BE0401A/BefProgOsiktRegN/.
+https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_BE\_\_BE0401\_\_BE0401A/BefProgOsiktRegN/.
 SCB, 2025a, Total vattenanvändning per användargrupp, efter region. Vart femte år 1990 – 2020. Total
 vattenanvändning per användargrupp, efter region. Vart femte år 1990 - 2020. PxWeb
 
@@ -11823,15 +11823,15 @@ https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vattenanvandning/v
 vattenanvandning-i-sverige/
 SCB, 2025c, Statistiska centralbyråns statistikdatabas, Befolkningens anslutning till kommunalt vatten och
 avlopp. År 1960–2022.
-https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902C/MI0902T05/
+https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_MI\_\_MI0902\_\_MI0902C/MI0902T05/
 
 SCB, 2025d, Antal småhusfastigheter efter region, fastighetstyp, och vattenanslutning. Vart femte år 2000–
-2020, https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902C/MI0902T04/
+2020, https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_MI\_\_MI0902\_\_MI0902C/MI0902T04/
 SCB, 2025e. Jordbrukets vattenanvändning per typ av användning, efter region, Vart femte år 1995–2020.
-https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902E/VattenAnvJord/.
+https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_MI\_\_MI0902\_\_MI0902E/VattenAnvJord/.
 
 SCB, 2025f, Industrins vattenanvändning efter region och typ av vatten. År 2005 – 2020.
-https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902E/VattenAnv/
+https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_MI\_\_MI0902\_\_MI0902E/VattenAnv/
 SCB, 2022. Vattenanvändningen i Sverige 2020. Stockholm: Statistiska centralbyrån.
 https://www.scb.se/contentassets/54f765e90041445397b0fdc85aa04424/mi0902_2020a01_br_mi27br2201.p
 df
@@ -12050,7 +12050,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 313 -->
 
-1. Bestämmelser   för nämndens    delegering
+1\. Bestämmelser   för nämndens    delegering
 
 1.1 Villkor för delegat
 
@@ -12085,11 +12085,11 @@ Vid förfall för ordförande inträder vice ordförande, om inte annat anges.
 Vid förfall för övriga delegater
 Delegation till tjänsteperson får vid förfall för denne, utövas av …
 
-1. annan delegat om det finns flera angivna.
+1\. annan delegat om det finns flera angivna.
 
-2. vikarie eller ersättare. Vem som tar över beslutanderätten ska framgå av
+2\. vikarie eller ersättare. Vem som tar över beslutanderätten ska framgå av
 ärendet och registreras i ärende-/verksamhetssystemet
-3. den ordinarie delegatens/vikariens/ställföreträdarens chef. Vem som tar över
+3\. den ordinarie delegatens/vikariens/ställföreträdarens chef. Vem som tar över
 beslutanderätten ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
 
@@ -12111,12 +12111,12 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 2
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som
 delegaten har tagit:
 
-- Besluta att överklaga beslut samt domar i ett ärende vid en överprövning.
-- Beslut att avge yttrande till högre instans med anledning av överklagande av
+\- Besluta att överklaga beslut samt domar i ett ärende vid en överprövning.
+\- Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
 
-- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\- Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om ett utskott har fått delegation
 undertecknas handling som beslutet avser av arbetsutskottets ordförande och
 förvaltningschefen.
@@ -12359,7 +12359,7 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 1
 | --- | --- | --- | --- | --- |
 | 2.1.12 | GDPR artikel 35 och 36 | Beslut med anledning av konsekvensbedömning avseende<br>dataskydd<br>Beslut att godkänna konsekvensbedömning | Fc | En konsekvensbedömning görs först<br>efter en upprättad tröskelanalys påvisat<br>att det finns ett behov efter upptäckta<br>eller misstänkta risker.<br>Dataskyddskontakt upprättar<br>konsekvensbedömning som ligger till<br>grund för beslut. Vid behov, samråda<br>med tillsyns- myndigheten |
 | 2.1.13 | GDPR artikel 37 | Utnämna dataskyddsombud för nämnden. | Fc |  |
-| 2.1.14 | Nämndens budget, Regler och riktlinjer<br>för förmåner till förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande, ledamot<br>och ersättare i nämnden. | N Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och riktlinjer<br>för förmåner till förtroendevalda<br>*I samma dokument som ovan framgår<br>vilka aktiviteter som avses. |
+| 2.1.14 | Nämndens budget, Regler och riktlinjer<br>för förmåner till förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande, ledamot<br>och ersättare i nämnden. | N Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och riktlinjer<br>för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår<br>vilka aktiviteter som avses. |
 | 2.1.15 |  | Rätt att skriva under delgivningskvitto ställt till nämnden | Fc<br>Registrator<br>Nämnd-<br>sekreterare |  |
 | 2.1.16 | OSL 15 kap. 2 §<br>OSL 18 kap. 8 och 13 § | Bedöma sekretess i fråga om försvarssekretess, säkerhets- eller<br>bevakningsåtgärd och risk- och sårbarhetsanalyser m.m. | Fc<br>Vc Vatten<br>Avfall<br>Bredband | Avser även att ingå sekretessavtal |
 | 2.1.17 | 6 kap 15 § KL<br>Gemensamt reglemente för<br>kommunstyrelsen och övriga nämnder i<br>Kungsbacka kommun | Utse ombud med rätt att föra talan i alla mål och ärenden som<br>enligt lag eller annan författning ankommer på nämnden eller på<br>annat sätt faller inom nämndens ansvarsområde. | Fc |  |
@@ -12704,30 +12704,30 @@ Sammanfattning av ärendet
 Val av sammanträdesdagar för Tekniks arbetsutskott och nämnden för Teknik 2027.
 Nämnden för Teknik föreslås sammanträda följande datum 2027:
 
--  20 januari
--  24 februari
+\-  20 januari
+\-  24 februari
 
--  17 mars
--  21 april
+\-  17 mars
+\-  21 april
 
--  12 maj
--  16 juni
+\-  12 maj
+\-  16 juni
 
--  18 augusti
--  15 september
+\-  18 augusti
+\-  15 september
 
--  20 oktober
--  17 november
+\-  20 oktober
+\-  17 november
 
--  15 december
+\-  15 december
 
 Nämnden för Tekniks arbetsutskott föreslås sammanträda följande datum 2027:
--  25 januari
+\-  25 januari
 
--  8 februari
--  8 mars
+\-  8 februari
+\-  8 mars
 
--  5 april
+\-  5 april
 1 (2)
 Teknik Stöd & Styrning                                    Kungsbacka kommun
 434 81 Kungsbacka
@@ -12742,17 +12742,17 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
--  3 maj
+\-  3 maj
 
--  7 juni
+\-  7 juni
 
--  9 augusti
--  6 september
+\-  9 augusti
+\-  6 september
 
--  4 oktober
--  8 november
+\-  4 oktober
+\-  8 november
 
--  6 december
+\-  6 december
 
 Beslutsunderlag
 

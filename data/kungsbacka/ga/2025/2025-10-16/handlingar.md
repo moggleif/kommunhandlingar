@@ -237,19 +237,19 @@ demiljö     med    studiero.
 
 Fem ledstänger för att skapa en god elevhälsa
 
-1. Alla vuxna är ansvariga för att skapa och vidmakthålla god elev-
+1\. Alla vuxna är ansvariga för att skapa och vidmakthålla god elev-
 
 hälsa.
-2. Uppdraget lärande ska fungera för varje elev.
+2\. Uppdraget lärande ska fungera för varje elev.
 
-3. Information hanteras med respekt för elevers integritet och lämnas
+3\. Information hanteras med respekt för elevers integritet och lämnas
 enbart till personer som behöver kännedom för att eleven ska få en
 
 god lärandemiljö.
-4. Kommunikation på skolan ska präglas av tillgänglighet, snabbhet
+4\. Kommunikation på skolan ska präglas av tillgänglighet, snabbhet
 samt professionalitet utifrån tydliga roller.
 
-5. Kvaliteten i elevhälsoarbetet följs och utvecklas genom doku-
+5\. Kvaliteten i elevhälsoarbetet följs och utvecklas genom doku-
 mentation och utvärdering.
 
 <!-- sida 9 -->
@@ -326,12 +326,12 @@ arbete leds av rektorn eller den rektorn delegerat till.
 Enhetsmöte
 Enhetsmöten är det möte som äger rum på skolenheten inom ramen för elevhälsoteamet. En-
 hetsmöten har främst tre syften:
-1. Tvärprofessionella analyser för att utveckla enhetens operativa elevhälsoarbete på in-
+1\. Tvärprofessionella analyser för att utveckla enhetens operativa elevhälsoarbete på in-
 divid, grupp och organisationsnivå.
-2. Tvärprofessionella analyser, ofta tillsammans med mentor, och beslut kring elevhälso-
+2\. Tvärprofessionella analyser, ofta tillsammans med mentor, och beslut kring elevhälso-
 insatser som ligger utanför arbetslagets räckvidd.
 
-3. Systematiskt kvalitetsarbete och utvärdering av enhetens elevhälsoarbete.
+3\. Systematiskt kvalitetsarbete och utvärdering av enhetens elevhälsoarbete.
 
 Rektorn beslutar om skolenhetens enhetsmöte avseende utformning, sammansättning och mö-
 testider.
@@ -511,10 +511,10 @@ Planerat utbud på gymnasieskolorna läsår 2026/2027
 Förslag till beslut
 
 Nämnden för Gymnasium & Arbetsmarknad beslutar att:
-1. Avveckla Restaurang- och livsmedelsprogrammet vid Elof Lindälvs gymnasium från och med
+1\. Avveckla Restaurang- och livsmedelsprogrammet vid Elof Lindälvs gymnasium från och med
 läsåret 2026/2027
 
-2. Gymnasieskolorna erbjuder övriga program med oförändrat utbud för läsåret 2026/2027.
+2\. Gymnasieskolorna erbjuder övriga program med oförändrat utbud för läsåret 2026/2027.
 
 Sammanfattning av ärendet
 Nämnden ska fastställa gymnasieskolornas utbildningsutbud inför läsåret 2026/2027. Förvaltningen
@@ -1209,7 +1209,7 @@ KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja. Kungsbacka centralort enligt NYKO-indelningen, med god tillgänglighet till kollektivtrafik och
 kommunala noder. Motivering: målgruppernas resmönster, närhet till arbetsgivare/utbildningsaktörer
 samt behov av samordning med kommunala möteslokaler.
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 32 -->
 
@@ -1355,7 +1355,7 @@ KUNGSBACKA  KOMMUN
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 
 Ja, i fastigheten Elof Lindälvs gymnasium
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 35 -->
 
@@ -1499,7 +1499,7 @@ Ja – Aranäsgymnasiet (K-blocket med koppling till L-blocket) med egen, inhäg
 Motivering: befintlig specialanpassad miljö, samlokalisering med LSS och programgemensamma
 funktioner.
 
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 38 -->
 
@@ -1605,7 +1605,7 @@ Ja, NYKO 1.
 Lokalerna är placerade på Elof Lindälvs gymnasium och ska även fortsättningsvis nyttjas inom
 skolområdet, då de har nära koppling till skolans övriga verksamhet och infrastruktur
 
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 40 -->
 
@@ -1659,10 +1659,10 @@ måluppfyllelse.
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 
 En satsning på lokalerna skapar:
-- Ökad attraktionskraft för elever och personal.
-- Högre måluppfyllelse genom realistiska övningsmiljöer.
-- Större söktryck som bidrar till ekonomisk balans.
-- Möjligheter till samutnyttjande för fortbildning av kommunens personal.
+\- Ökad attraktionskraft för elever och personal.
+\- Högre måluppfyllelse genom realistiska övningsmiljöer.
+\- Större söktryck som bidrar till ekonomisk balans.
+\- Möjligheter till samutnyttjande för fortbildning av kommunens personal.
 
 2102
 ,0.2
@@ -1721,11 +1721,11 @@ tydligt behov av samordnade, moderna och verklighetsnära lärmiljöer. Dessa l�
 programmets praktiska undervisning i en sammanhållen enhet – en så kallad vårdkorridor – där olika
 typer av rum stödjer elevernas lärande, progression och måluppfyllelse.
 
-- Omklädningsrum: Ett större för tjejer (10–15 platser) och ett mindre för killar (3–5 platser).
-- Metodsal: Ca 60 kvm, plats för 6 sjukhussängar och förvaring, tak-lift, sjukhusbelysning, handfat och
+\- Omklädningsrum: Ett större för tjejer (10–15 platser) och ett mindre för killar (3–5 platser).
+\- Metodsal: Ca 60 kvm, plats för 6 sjukhussängar och förvaring, tak-lift, sjukhusbelysning, handfat och
 handtvätt
-- Omsorgssal: Ca 20–25 kvm, utformad som ett äldreboenderum med HWC för praktisk träning.
-- Simulerings- och träningsrum: Ca 35 kvm + kontrollrum med nätverk, ljud och ljusstyrning och
+\- Omsorgssal: Ca 20–25 kvm, utformad som ett äldreboenderum med HWC för praktisk träning.
+\- Simulerings- och träningsrum: Ca 35 kvm + kontrollrum med nätverk, ljud och ljusstyrning och
 scenarioanalys för realistiska övningar inom akutsjukvård.
 
 Rummen bör samlas i ett gemensamt område för att skapa en tydlig och autentisk lärmiljö, liknande en
@@ -1764,7 +1764,7 @@ Ja, Nyko 1.
 Motivering är att elever och personal även nyttjar andra lokaler på Aranäsgymnasiet och skall fortsätta
 med detta även i framtiden.
 
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 44 -->
 
@@ -1866,15 +1866,15 @@ KONCEPTSHANDLINGAR   FINNS ATT TILLGÅ. (JA/NEJ)
 Nej
 
 DIMENSIONERADE  LOKALBEHOV, ANTAL PERSONER-OBS  MÅSTE BESVARAS
-1) Antal personer (normal/max):
+1\) Antal personer (normal/max):
 Normalsituation: dagens kapacitet + ca 30 elever (≈180 totalt).
 Maxutnyttjande: upp till +30 elever över dagens max, fördelat mellan teori och verkstad efter schema.
 
-2) Uppskattning av lokalbehov:
-Tillägg motsvarande ca 1 teorisal (~30 platser) eller motsvarande i verkstad (t.ex. ~10 extra bås × 3
+2\) Uppskattning av lokalbehov:
+Tillägg motsvarande ca 1 teorisal (\~30 platser) eller motsvarande i verkstad (t.ex. \~10 extra bås × 3
 elever) alternativt en kombination; mindre justeringar i grupprum/förråd för att bära ökningen. +
 omklädningsrum som klarar 180 elever.
-3) Dimensionerande mängder/kvalitéer/krav (översikt):
+3\) Dimensionerande mängder/kvalitéer/krav (översikt):
 Behov av motsvarande 30 extra elevplatser i möblering/utrustning (bänkar, förvaring, el/data).
 Ventilation/akustik ses över i de mest belastade salarna (särskilt automation och motorstyrning);
 
@@ -1909,7 +1909,7 @@ Ja, Nyko 1.
 Motivering; är att elever och personal även nyttjar andra lokaler på Elof Lindälvs gymnasium och skall
 fortsätta med detta även i framtiden.
 
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 47 -->
 
@@ -1956,15 +1956,15 @@ VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 Syftet är att optimera nyttjandet av befintliga ytor inom Elof Lindälvs gymnasium.
 
 En omdisponering ger:
-- Effektivare lokalutnyttjande – fler elever och verksamheter kan använda ytorna.
-- Ekonomisk balans genom att minska outnyttjade speciallokaler.
+\- Effektivare lokalutnyttjande – fler elever och verksamheter kan använda ytorna.
+\- Ekonomisk balans genom att minska outnyttjade speciallokaler.
 
 2102
 ,0.2
 ,0006B
 5 3 0 2 - -
--
--
+\-
+\-
 K
 M
 S
@@ -2088,18 +2088,18 @@ KUNGSBACKA  KOMMUN
 
 2 (3)
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION? SE EXEMPEL
-- Stora ytor står outnyttjade eller ineffektivt använda.
-- Driftkostnader kvarstår utan motsvarande verksamhetsnytta.
-- Brist på ändamålsenliga lokaler för andra program som kan behöva expansion.
-- Försämrad resurseffektivitet och planeringsförutsättning för skolans helhet.
+\- Stora ytor står outnyttjade eller ineffektivt använda.
+\- Driftkostnader kvarstår utan motsvarande verksamhetsnytta.
+\- Brist på ändamålsenliga lokaler för andra program som kan behöva expansion.
+\- Försämrad resurseffektivitet och planeringsförutsättning för skolans helhet.
 
 VAD FÅR NY LOKALFUNKTION FÖR KONSEKVENS  PÅ NUVARANDE  VERKSAMHET?
 
 Vid en omdisponering behöver:
-- Befintlig utrustning och inredning (t.ex. storkök, restaurangutrustning) inventeras och delvis
+\- Befintlig utrustning och inredning (t.ex. storkök, restaurangutrustning) inventeras och delvis
 avetableras eller återanvändas.
-- Omarbetning av planlösning ske för att anpassa till annan typ av undervisning.
-- Samordning måste ske med Anpassad gymnasieskola under övergångsperioden och för att synliggöra
+\- Omarbetning av planlösning ske för att anpassa till annan typ av undervisning.
+\- Samordning måste ske med Anpassad gymnasieskola under övergångsperioden och för att synliggöra
 vilka lokalfunktioner som bör vara kvar.
 
 KONCEPTSHANDLINGAR   FINNS ATT TILLGÅ. (JA/NEJ)
@@ -2110,10 +2110,10 @@ DIMENSIONERADE  LOKALBEHOV, ANTAL PERSONER-OBS  MÅSTE BESVARAS
 Nuvarande yta: ca 850 kvm
 
 Krav på anpassning:
-- Omdisponering av restaurangkök till undervisnings- eller teorisalar. Med delar som sparas och nyttjas
+\- Omdisponering av restaurangkök till undervisnings- eller teorisalar. Med delar som sparas och nyttjas
 till Anpassad gymnasieskola inom programmet Hotell/Restaurang/Bageri-programmet (ca 5-6 elever).
-- Justering av ventilation, vatten och avlopp
-- Möjlig ny användning som flexibla lärsalar, verkstäder eller labbmiljöer
+\- Justering av ventilation, vatten och avlopp
+\- Möjlig ny användning som flexibla lärsalar, verkstäder eller labbmiljöer
 
 NYTTJANDETID/NYTTJANDEGRAD
 Dagtid, skolåret.
@@ -2143,7 +2143,7 @@ Ja, Nyko 1
 Lokalerna är placerade på Elof Lindälvs gymnasium och ska även fortsättningsvis nyttjas inom
 
 skolområdet, då de har nära koppling till skolans övriga verksamhet och infrastruktur
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 50 -->
 
@@ -2161,7 +2161,7 @@ Namn och förvaltning     E-postadress               Arbetstelefon
 Erika Erngard            Erika.erngard@kungsbacka.se 0300-83 42 60
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
-Ekonomiprogrammet är skolans största program (~ 480 elever VT 2025; 5 klasser/årskurs, ca 30
+Ekonomiprogrammet är skolans största program (\~ 480 elever VT 2025; 5 klasser/årskurs, ca 30
 elever/klass, max 32). Programmet använder främst H‑korridoren samt delar av I‑korridoren. Vissa
 teorisalar upplevs som trånga för nuvarande elevantal; uppehållsytor/skåpszoner är belastade och skapar
 trängsel och otrygg sikt.
@@ -2229,7 +2229,7 @@ Y
 g
 m u
 L
--
+\-
 n
 å
 O
@@ -2341,7 +2341,7 @@ Internhyra, Gymnasium & Arbetsmarknad.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja, Nyko 1 – inom Elof Lindälvs gymnasium
 
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 52 -->
 
@@ -2637,7 +2637,7 @@ KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja, inom NYKO 1. Lokaliseringen motiveras av behovet av närhet till Elof Lindälvs gymnasium och
 möjligheten att samnyttja resurser och kompetens mellan utbildningarna.
 
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 56 -->
 
@@ -3082,10 +3082,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 10
 
@@ -3110,11 +3110,11 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 11
 
@@ -3155,8 +3155,8 @@ Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 12
@@ -3201,8 +3201,8 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 13
 
@@ -3244,12 +3244,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 14
 
@@ -3571,13 +3571,13 @@ att undersöka arbetsmiljön, och åtgärda brister och risker som framkommer �
 utveckling inom området föreligger.
 På en övergripande nivå har beslutats att fokus inom arbetsmiljöarbetet de närmaste året kommer att vara
 följande områden:
-1. Fortsätta arbetet med de forskningsbaserade friskfaktorerna som ingår i årshjulet och stödmaterial för SAM
+1\. Fortsätta arbetet med de forskningsbaserade friskfaktorerna som ingår i årshjulet och stödmaterial för SAM
 
-2. Utveckla förvaltningens stödmaterial för SAM kopplat till risker för otillåten påverkan och dess hantering
-3. Säkerställa att varje chef och rektor kontinuerligt undersöker och riskbedömer arbetsmiljön med fokus på
+2\. Utveckla förvaltningens stödmaterial för SAM kopplat till risker för otillåten påverkan och dess hantering
+3\. Säkerställa att varje chef och rektor kontinuerligt undersöker och riskbedömer arbetsmiljön med fokus på
 risker för våld eller hot samt uppdatera åtgärder utifrån aktuella risker
 
-4. Fortsatt utveckling av facklig samverkan
+4\. Fortsatt utveckling av facklig samverkan
 
 20
 
@@ -3586,12 +3586,12 @@ risker för våld eller hot samt uppdatera åtgärder utifrån aktuella risker
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2026
 
-5. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda upplever att de har
+5\. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda upplever att de har
 tillräckligt med kunskap, kompetens och befogenheter för att utföra sina uppgifter, samt förtydliga
 arbetsmiljöorganisationen avseende lokaler på gymnasiet
 
-6. Säkerställa att de riskbedömningar som genomförs i verksamheterna också följs upp
-7. Säkerställa att de händelser som rapporteras i systemstödet för det systematiska arbetsmiljöarbetet utreds,
+6\. Säkerställa att de riskbedömningar som genomförs i verksamheterna också följs upp
+7\. Säkerställa att de händelser som rapporteras i systemstödet för det systematiska arbetsmiljöarbetet utreds,
 åtgärdas och följs upp inom en rimlig tid, och på så sätt minska antalet ohanterade händelser.
 
 7.3.1 Arbetsmiljömål
@@ -4374,10 +4374,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 
 12
 
@@ -4402,11 +4402,11 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 
 13
 
@@ -4447,8 +4447,8 @@ Unga i Kungsbacka mår bra såväl fysiskt som psykiskt
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 14
@@ -4494,8 +4494,8 @@ och karriärvägar som väntar efter studierna.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 15
 
@@ -4538,12 +4538,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 16
 
@@ -4867,13 +4867,13 @@ utveckling inom området föreligger.
 På en övergripande nivå har beslutats att fokus inom arbetsmiljöarbetet de närmaste året kommer att vara
 följande områden:
 
-1. Fortsätta arbetet med de forskningsbaserade friskfaktorerna som ingår i årshjulet och stödmaterial för SAM
-2. Utveckla förvaltningens stödmaterial för SAM kopplat till risker för otillåten påverkan och dess hantering
-3. Säkerställa att varje chef och rektor kontinuerligt undersöker och riskbedömer arbetsmiljön med fokus på
+1\. Fortsätta arbetet med de forskningsbaserade friskfaktorerna som ingår i årshjulet och stödmaterial för SAM
+2\. Utveckla förvaltningens stödmaterial för SAM kopplat till risker för otillåten påverkan och dess hantering
+3\. Säkerställa att varje chef och rektor kontinuerligt undersöker och riskbedömer arbetsmiljön med fokus på
 risker för våld eller hot samt uppdatera åtgärder utifrån aktuella risker
 
-4. Fortsatt utveckling av facklig samverkan
-5. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda upplever att de har
+4\. Fortsatt utveckling av facklig samverkan
+5\. Säkerställa att fördelning av arbetsmiljöuppgifter sker enligt befintlig rutin och att berörda upplever att de har
 tillräckligt med kunskap, kompetens och befogenheter för att utföra sina uppgifter, samt förtydliga
 
 22
@@ -4885,8 +4885,8 @@ Nämndbudget 2026
 
 arbetsmiljöorganisationen avseende lokaler på gymnasiet
 
-6. Säkerställa att de riskbedömningar som genomförs i verksamheterna också följs upp
-7. Säkerställa att de händelser som rapporteras i systemstödet för det systematiska arbetsmiljöarbetet utreds,
+6\. Säkerställa att de riskbedömningar som genomförs i verksamheterna också följs upp
+7\. Säkerställa att de händelser som rapporteras i systemstödet för det systematiska arbetsmiljöarbetet utreds,
 åtgärdas och följs upp inom en rimlig tid, och på så sätt minska antalet ohanterade händelser.
 
 7.3.1 Arbetsmiljömål
@@ -7205,7 +7205,7 @@ Utskriven 2025-10-03. ILAB Viva ®                                              
 
 <!-- sida 163 -->
 
-#9  SEPTEMBER 2025                                            www.werket.se
+\#9  SEPTEMBER 2025                                            www.werket.se
 
 Månadsrapport
 
@@ -7230,7 +7230,7 @@ Michael Rosholm.         hävningar av avtal?       en i norr.
 <!-- sida 164 -->
 
 9
-#
+\#
 REBMETPES
 5202
 WERKET  MÅNADSRAPPORT
@@ -7297,7 +7297,7 @@ bjorn@werket.nu | 070-888 26 01
 <!-- sida 165 -->
 
 9
-#
+\#
 REBMETPES
 5202
 WERKET  MÅNADSRAPPORT
@@ -7323,7 +7323,7 @@ för mottagare av ekonomiskt bistånd. och socialförsäkringen.
 marknadspolitiska program med närmare
 Kravet börjar gälla från halvårsskiftet
 sex miljarder kronor jämfört med 2025.             En ny regel införs där hushållens sam-
-2026.
+2026\.
 Samtidigt förstärker regeringen Arbets-            lade försörjningsstöd begränsas. Det
 förmedlingens interna resurser. Grundprincipen är att den som får gäller framför allt större hushåll. Full
 försörjningsstöd ska delta i en heltidsak- norm gäller för upp till tre barn. Från det
@@ -7360,7 +7360,7 @@ igen 2027 och 2028.                                      EElliissaabbeetthh SSvv
 <!-- sida 166 -->
 
 9
-#
+\#
 REBMETPES
 5202
 WERKET  MÅNADSRAPPORT
@@ -7441,7 +7441,7 @@ yrkesvux förstärks med 100 miljoner
 <!-- sida 167 -->
 
 9
-#
+\#
 REBMETPES
 5202
 WERKET  MÅNADSRAPPORT
@@ -7515,7 +7515,7 @@ MMiicchhaaeell RRoosshhoollmm
 <!-- sida 168 -->
 
 9
-#
+\#
 REBMETPES
 5202
 WERKET  MÅNADSRAPPORT
@@ -7582,7 +7582,7 @@ nuläget.
 <!-- sida 169 -->
 
 9
-#
+\#
 REBMETPES
 5202
 WERKET  MÅNADSRAPPORT
@@ -7613,7 +7613,7 @@ betyg över tid.             200
 I 62 av 63 leveransområden (undantaget 100
 Luleå) fanns leverantörer med minst tre
 stjärnor i betyg i maj – alltså bättre än 0
--        1        2        3        4
+\-        1        2        3        4
 det regionala genomsnittet. Tillgången
 på duktiga leverantörer var alltså god när
 deltagarna skulle göra sina nyval.
@@ -7657,7 +7657,7 @@ Faktaruta:  Betygsmodell  ROM2
 <!-- sida 170 -->
 
 9
-#
+\#
 REBMETPES
 5202
 WERKET  MÅNADSRAPPORT
@@ -7760,7 +7760,7 @@ Antalet deltagare fördelat efter deras nya leverantörs betyg. Källa: Arbetsf�
 <!-- sida 171 -->
 
 9
-#
+\#
 REBMETPES
 5202
 WERKET  MÅNADSRAPPORT
@@ -7841,7 +7841,7 @@ det tydligt stärker arbetsmarknad och
 <!-- sida 172 -->
 
 9
-#
+\#
 REBMETPES
 5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
@@ -7926,7 +7926,7 @@ statistik
 <!-- sida 174 -->
 
 9
-#
+\#
 REBMETPES
 5202
 statistik
@@ -7936,7 +7936,7 @@ TEMPERATUREN         PÅ  ARBETSMARKNADEN
 MAKROLÄGET
 Temperaturen på arbetsmarknaden är sval Antalet lediga jobb ökade marginellt i
 5
-- 2 av fem indikatorer är positiva. augusti, men trenden är fortsatt nedåtgå-
+\- 2 av fem indikatorer är positiva. augusti, men trenden är fortsatt nedåtgå-
 ende och de lediga jobben 10 000 färre
 4
 Arbetslösheten sjönk marginellt till 7 pro- än i fjol.
@@ -7986,7 +7986,7 @@ Förändring 12 mån: −11 106 platser Förändring 12 mån: 1,7 enheter
 <!-- sida 175 -->
 
 9
-#
+\#
 REBMETPES
 5202
 statistik
@@ -8044,7 +8044,7 @@ sörjningsgrad om 60,1 procent, medan självförsörjningsgraden i Perstorp var 
 <!-- sida 176 -->
 
 9
-#
+\#
 REBMETPES
 5202
 WERKET  MÅNADSRAPPORT
@@ -8061,7 +8061,7 @@ statistik
 <!-- sida 177 -->
 
 9
-#
+\#
 REBMETPES
 5202
 statistik
@@ -8117,7 +8117,7 @@ Utvecklingen av antalet leverantörer och deltagare över tid i ROM2
 <!-- sida 178 -->
 
 9
-#
+\#
 REBMETPES
 5202
 statistik
@@ -8172,7 +8172,7 @@ Anvisningsgraden per kommun ROM2
 <!-- sida 179 -->
 
 9
-#
+\#
 REBMETPES
 5202
 statistik
@@ -8239,7 +8239,7 @@ De 30 största ROM2-leverantörerna
 <!-- sida 180 -->
 
 9
-#
+\#
 REBMETPES
 5202
 statistik
@@ -8302,7 +8302,7 @@ STA      KVL      IPSU (A & B)
 <!-- sida 181 -->
 
 9
-#
+\#
 REBMETPES
 5202
 WERKET  MÅNADSRAPPORT
@@ -8319,7 +8319,7 @@ statistik
 <!-- sida 182 -->
 
 9
-#
+\#
 REBMETPES
 5202
 statistik
@@ -8382,7 +8382,7 @@ De 15 största leverantörerna av arbetsmarknadsutbildning
 <!-- sida 183 -->
 
 9
-#
+\#
 REBMETPES
 5202
 statistik
@@ -8451,7 +8451,7 @@ Kvarstående och nya deltagare i arbetsmarknadsutbildning efter utbildningsinrik
 <!-- sida 184 -->
 
 9
-#
+\#
 REBMETPES
 5202
 statistik

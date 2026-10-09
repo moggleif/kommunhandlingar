@@ -530,7 +530,7 @@ Efter remissperioden kommer vi att ta om hand de synpunkter som har kommit in.
 
 Därefter vidtar arbetet med att utforma layout och färdigställa riktlinjerna i digital
 och tryckt form. De färdiga riktlinjerna planeras att presenteras under hösten
-2025. Samtliga remissvar diarieförs och är därmed en allmän handling.
+2025\. Samtliga remissvar diarieförs och är därmed en allmän handling.
 Remissvaren kan även komma att publiceras på Livsmedelsverkets webbplats.
 
 Vid frågor om remissen, vänligen kontakta:
@@ -569,8 +569,8 @@ Projektledare
 
 Bilagor
 
-1. Nationella riktlinjer för måltider i skolan
-2. Nationella riktlinjer för måltider i skolan - Hanteringsrapport
+1\. Nationella riktlinjer för måltider i skolan
+2\. Nationella riktlinjer för måltider i skolan - Hanteringsrapport
 
 <!-- sida 12 -->
 
@@ -586,7 +586,7 @@ Klicka eller tryck här för att ange text.
 
 <!-- sida 13 -->
 
-_______________
+\_______________
 
 Denna titel kan laddas ner från: Livsmedelsverkets publikationer
 
@@ -983,13 +983,13 @@ relevanta intressenter.
 
 Målens utformning styrdes av ett antal principer:
 
--  Målen ska vila på vetenskaplig grund och kunskap bland intressenter
+\-  Målen ska vila på vetenskaplig grund och kunskap bland intressenter
 
--  Mål och indikatorer ska vara användbara för relevanta aktörer
--  Målen ska vara tillräckligt konkreta för att tydliggöra en gemensam riktning mot
+\-  Mål och indikatorer ska vara användbara för relevanta aktörer
+\-  Målen ska vara tillräckligt konkreta för att tydliggöra en gemensam riktning mot
 
 hållbarare skolmåltider
--  Målen ska formuleras inom de områden inom varje pusselbit i måltidsmodellen där det
+\-  Målen ska formuleras inom de områden inom varje pusselbit i måltidsmodellen där det
 bedöms vara väsentligt med förändring för att uppnå hållbarare skolmåltider
 
 Verksamhetslogik användes som metod för att skapa en målstruktur samt prioritera bland mål
@@ -1793,10 +1793,10 @@ mer frukt, grönsaker och fullkornsprodukter, det vill säga mat som barn rekomm
 att äta mer av (Livsmedelsverket. Edwall Löfvenborg J and Sellberg F, 2024).
 Forskningen visar att om elever får 25 minuter eller mer på sig att äta, kan det bidra till:
 
--  Att mer av maten äts upp
--  Att eleverna äter mer frukt, grönsaker och fullkorn
--  Att eleverna får mer tid på sig att bygga relationer och umgås med vänner
--  Minskat tallrikssvinn
+\-  Att mer av maten äts upp
+\-  Att eleverna äter mer frukt, grönsaker och fullkorn
+\-  Att eleverna får mer tid på sig att bygga relationer och umgås med vänner
+\-  Minskat tallrikssvinn
 
 Andra faktorer som påverkar åtgärden
 
@@ -2011,7 +2011,7 @@ hållbarhetsarbete (Eustachio Colombo et al., 2021). Resultatet visade att den n
 vegetariska skolmaten behövde introduceras gradvis och att det var viktigt hur den
 benämndes och presenterades rent estetiskt. Liknande slutsatser dras i en annan svensk
 studie där elever intervjuades om deras upplevelser av vegetarisk skolmat (Frödén,
-2021) där följande konstateras: ”För att öka sannolikheten att fler elever väljer den
+2021\) där följande konstateras: ”För att öka sannolikheten att fler elever väljer den
 vegetariska skolmaten bör den presenteras på ett attraktivt sätt med möjlighet till
 
 provsmakning, ha hög igenkänningsfaktor och placeras först i raden av maträtter.”
@@ -2340,7 +2340,7 @@ vetenskapliga risk- och nyttovärderingar. Även andra relevanta faktorer har v�
 bedöma och motivera vilka råd som ska ges. Avvägningar har gjorts med stöd från
 hanteringsrapporten för kostråden för vuxna 2025, där bakgrunden till råden på
 livsmedelsnivå samt hälsoaspekter av livsmedelsgrupper beskrivs. Kostråden baseras på NNR
-2023.
+2023\.
 
 Grönsaker, rotfrukter, frukt och bär
 Servera till varje måltid
@@ -2805,10 +2805,10 @@ Att säkra näringsinnehållet i skolans måltider
 Livsmedelsverkets åtgärd
 
 Stöd ges om olika metoder för att kvalitetssäkra näringsinnehållet i skolans måltider:
-1. Att utgå från rekommendationerna i Tabell 6 i riktlinjerna och följa
+1\. Att utgå från rekommendationerna i Tabell 6 i riktlinjerna och följa
 
 hänvisningar i avsnittet Näringsriktiga måltider.
-2. Att näringsberäkna recept till menyer.
+2\. Att näringsberäkna recept till menyer.
 
 Bakgrund
 
@@ -3704,7 +3704,7 @@ LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX                65
 Bakgrund
 
 •  Skolluncher har visats förbättra elevers näringsintag (Morris and Schäfer Elinder,
-2024) och skolmåltiderna i Sverige ska enligt lag vara näringsriktiga (SFS, 2010:800).
+2024\) och skolmåltiderna i Sverige ska enligt lag vara näringsriktiga (SFS, 2010:800).
 Detta definieras här som att en genomsnittlig skollunch ska förse eleven med 30
 
 procent av elevens dagliga energi- och näringsbehov utifrån rekommenderat dagligt
@@ -4683,7 +4683,7 @@ ANDERSEN, S. S., BAARTS, C. & HOLM, L. 2017. Contrasting Approaches to Food
 Education and School Meals. Food, Culture & Society, 20, 609-629.
 
 ANZMAN-FRASCA, S., SAVAGE, J. S., MARINI, M. E., FISHER, J. O. & BIRCH, L. L.
-2012. Repeated exposure and associative conditioning promote preschool children's
+2012\. Repeated exposure and associative conditioning promote preschool children's
 liking of vegetables. Appetite, 58, 543-53.
 AYDIN, G., MARGERISON, C., WORSLEY, A. & BOOTH, A. 2021. Parents’ and
 teachers’ views of the promotion of healthy eating in Australian primary schools.
@@ -4722,7 +4722,7 @@ lunch: At variance with national policy. Health Education Journal, 83, 29-39.
 BIRCH, L. L., GUNDER, L., GRIMM-THOMAS, K. & LAING, D. G. 1998. Infants'
 consumption of a new food enhances acceptance of similar foods. Appetite, 30, 283-
 
-95.
+95\.
 
 88                            LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
 
@@ -4737,7 +4737,7 @@ Cappelen Damm Akademisk/NOASP.
 BLOM, W. M., MICHELSEN-HUISMAN, A. D., VAN OS-MEDENDORP, H., VAN
 DUIJN, G., DE ZEEUW-BROUWER, M. L., VERSLUIS, A., CASTENMILLER, J.
 J. M., NOTEBORN, H., KRUIZINGA, A. G., KNULST, A. C. & HOUBEN, G. F.
-2018. Accidental food allergy reactions: Products and undeclared ingredients. J
+2018\. Accidental food allergy reactions: Products and undeclared ingredients. J
 Allergy Clin Immunol, 142, 865-875.
 BLOMHOFF, R., ANDERSEN, R., ARNESEN, E., CHRISTENSEN, J., ENEROTH, H.,
 ERKKOLA, M., GUDANAVICIENE, I., HALLDORSSON, T., HØYER-LUND, A.,
@@ -4795,9 +4795,9 @@ EUSTACHIO COLOMBO, P., ELINDER, L. S., PATTERSON, E., PARLESAK, A.,
 LINDROOS, A. K. & ANDERMO, S. 2021. Barriers and facilitators to successful
 implementation of sustainable school meals: a qualitative study of the OPTIMAT™-
 intervention. International Journal of Behavioral Nutrition and Physical Activity, 18,
-89.
+89\.
 EUSTACHIO COLOMBO, P., PATTERSON, E., ELINDER, L. S. & LINDROOS, A. K.
-2020. The importance of school lunches to the overall dietary intake of children in
+2020\. The importance of school lunches to the overall dietary intake of children in
 Sweden: a nationally representative study. Public Health Nutrition, 23, 1705-1715.
 
 FALCIGLIA, G. A., COUCH, S. C., GRIBBLE, L. S., PABST, S. M. & FRANK, R. 2000.
@@ -4916,13 +4916,13 @@ institutt for forbruksforskning.
 
 LAITINEN, A. L., ANTIKAINEN, A., MIKKONEN, S., KÄHKÖNEN, K., TALVIA, S.,
 VARJONEN, S., PAAVOLA, S., KARHUNEN, L. & TILLES-TIRKKONEN, T.
-2023. The ‘Tasty School’ model is feasible for food education in primary schools.
+2023\. The ‘Tasty School’ model is feasible for food education in primary schools.
 Journal of Human Nutrition and Dietetics, 36, 75-85.
 LIM, J., URBAN, L. & GREEN, B. G. 2008. Measures of individual differences in taste and
 creaminess perception. Chem Senses, 33, 493-501.
 
 LINDROOS, A. K., MORAEUS, L., SIPINEN, J. P., LEMMING, E. W. & PATTERSON, E.
-2021. The Contribution of Foods and Beverages of Low Nutritional Value to the Diets
+2021\. The Contribution of Foods and Beverages of Low Nutritional Value to the Diets
 of Swedish Adolescents, by Food Group, Time and Place. A Nationally
 Representative Study. Nutrients, 13.
 LIVSMEDELSVERKET 2007. Bra mat i skolan, Malmö, Elanders Berlings Tryck.
@@ -5025,7 +5025,7 @@ LIVSMEDELSVERKET. EDWALL LÖFVENBORG J & SELLBERG F 2024. Tid för
 skollunch – hur lång tid behöver eleverna vid matbordet. Livsmedelsverkets PM.
 Uppsala: Livsmedelsverket.
 LIVSMEDELSVERKET. EDWALL LÖFVENBORG, J., LINDROOS, A. & MORAEUS, L.
-2024. L 2024 nr 10: Järnintag och järnstatus med fokus på ungdomar i Sverige.
+2024\. L 2024 nr 10: Järnintag och järnstatus med fokus på ungdomar i Sverige.
 Analyser av data från Riksmaten ungdom 2016–17. Livsmedelsverkets rapportserie.
 Uppsala: Livsmedelsverket.
 
@@ -5033,7 +5033,7 @@ LIVSMEDELSVERKET. ENEROTH, H. & BJÖRCK, L. 2015. Bra livsmedelsval för barn 2-
 17 år - baserat på nordiska näringsrekommendationer 2012. Livsmedelsverkets
 rapportserie. Uppsala: Livsmedelsverket.
 LIVSMEDELSVERKET. ENGHARDT BARBIERI, E., PEARSON, M. & BECKER, W.
-2006. Riksmaten – barn 2003. Livsmedels- och näringsintag bland barn i Sverige.
+2006\. Riksmaten – barn 2003. Livsmedels- och näringsintag bland barn i Sverige.
 Uppsala: Livsmedelsverket.
 
 LIVSMEDELSVERKET. ERIKSSON, E. & BARBIERI, H. 2022. L 2022 nr 01:
@@ -5186,7 +5186,7 @@ SEPP, H. & HÖIJER, K. 2016. Food as a tool for learning in everyday activities 
 
 SFS 2010:800. Skollag.
 SKOLINSPEKTIONEN. GILLSTRÖM, P., LEDBERG BUHLIN, C. & KARIKOSKI, M.
-2020. Tio år av elevers röster. Skolenkäten.
+2020\. Tio år av elevers röster. Skolenkäten.
 SKOLMATSVERIGE 2024. Resultat från elevernas matgästenkät [opublicerat material].
 
 SKOLMATSVERIGE. 2025. SkolmatSverige [Online]. SkolmatSverige. Centrum för
@@ -5268,7 +5268,7 @@ WALING, M. & OLSSON, C. 2017. School lunch as a break or an educational activity
 Health Education, 117, 540-550.
 WANG, K., NIU, Y., LU, Z., DUO, B., EFFAH, C. Y. & GUAN, L. 2023. The effect of
 breakfast on childhood obesity: a systematic review and meta-analysis. Front Nutr, 10,
-1222536.
+1222536\.
 
 WASERMAN, S., CRUICKSHANK, H., HILDEBRAND, K. J., MACK, D., BANTOCK, L.,
 BINGEMANN, T., CHU, D. K., CUELLO-GARCIA, C., EBISAWA, M., FAHMY,
@@ -5282,7 +5282,7 @@ WORLD HEALTH ORGANISATION 2022. Nudges to promote healthy eating in schools:
 
 policy brief. World Health Organisation.
 WORLD HEALTH ORGANISATION & FOOD AND AGRICULTURE ORGANISATION
-2007. Codex Alimentarius: Working principles for risk analysis for food safety for
+2007\. Codex Alimentarius: Working principles for risk analysis for food safety for
 application by governments.
 WWF 2021. One Planet Plate Solna.
 
@@ -5293,7 +5293,7 @@ WWF 2021. One Planet Plate Solna.
 ZUMBRUNN, S., DOLL, B., DOOLEY, K., LECLAIR, C. M. & WIMMER, C. 2013.
 Assessing Student Perceptions of Positive and Negative Social Interactions in Specific
 School Settings. International Journal of School & Educational Psychology, 1, 82 -
-93.
+93\.
 
 LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX                99
 
@@ -5349,7 +5349,7 @@ successivt under skolålder till rekommendationen för vuxna (minst 3 gram per M
 
 Vitaminer och mineraler
 
-Referensvärden för vitaminer och mineraler beräknades genom att ta 0,3*rekommenderat
+Referensvärden för vitaminer och mineraler beräknades genom att ta 0,3\*rekommenderat
 intag (RI). RI för den ålder med högst RI inom åldersgruppen enligt appendix 6 i NNR 2023
 användes som referens. För 18-åringar användes RI för vuxna (18–24 år). För salt användes
 
@@ -6308,7 +6308,7 @@ food: a systematic literature review. Clin Exp Allergy, 45, 347-67.
 Waserman, S., et al. 2021. Prevention and management of allergic reactions to food in child
 care centers and schools: Practice guidelines. J Allergy Clin Immunol, 147, 1561-
 
-1578.
+1578\.
 
 LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               119
 
@@ -6815,7 +6815,7 @@ Denna fråga ställdes inte i enkäten för sampel 2.
 
 Tabell 5. Svar angående tid, ljudnivå och trygghet kopplat till skolmåltiden.
 
-*Den höga andelen saknade svar kan till viss del förklaras av att frågan troligtvis inte ställts till yngre barn än
+\*Den höga andelen saknade svar kan till viss del förklaras av att frågan troligtvis inte ställts till yngre barn än
 årskurs 6 trots att man använt sig av den långa enkäten.
 
 Uppfattning om lunchutbud (enbart sampel 1)
@@ -6841,14 +6841,14 @@ uteblivna svar (29 procent). Denna fråga ställdes inte i enkäten för sampel 
 | Sällan | 1121 | 14,8 | 930 | 14,0 | 1512 | 19,9 | 1681 | 25,4 | 465 | 6,1 |
 | Oftast | 3595 | 47,4 | 2662 | 40,2 | 3937 | 51,9 | 3110 | 47,0 | 2132 | 28,1 |
 | Alltid | 2405 | 31,7 | 2654 | 40,1 | 1551 | 20,4 | 1150 | 17,4 | 2492 | 32,9 |
-| Inget<br>svar | 68 | 0,9 | 60 | 0,9 | 74 | 1,0 | 79 | 1,2 | 2210 | 29,1* |
+| Inget<br>svar | 68 | 0,9 | 60 | 0,9 | 74 | 1,0 | 79 | 1,2 | 2210 | 29,1\* |
 | Total | 7585 | 100,0 | 6621 | 100,0 | 7585 | 100,0 | 6621 | 100,0 | 7585 | 100,0 |
 
 <!-- sida 146 -->
 
 Tabell 6. Svar angående lunchutbud.
 
-*Den höga andelen saknade svar kan till viss del förklaras av att frågan troligtvis inte ställts till yngre
+\*Den höga andelen saknade svar kan till viss del förklaras av att frågan troligtvis inte ställts till yngre
 barn än årskurs 6 trots att man använt sig av den långa enkäten.
 
 Diskussion
@@ -6893,7 +6893,7 @@ LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               135
 | Det finns lagom<br>mycket att välja på |  | Det finns för lite<br>att välja på |  | Det finns för<br>mycket att välja på |  | Inget svar |  | Total |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Antal | Andel | Antal | Andel | Antal | Andel | Antal | Andel | Antal | Andel |
-| 2484 | 32,7 | 2779 | 36,6 | 101 | 1,3 | 2221 | 29,3* | 7585 | 100,0 |
+| 2484 | 32,7 | 2779 | 36,6 | 101 | 1,3 | 2221 | 29,3\* | 7585 | 100,0 |
 
 <!-- sida 147 -->
 
@@ -8764,26 +8764,26 @@ vatten till maten. Näringsberäkningen bör göras på samtliga serverade rätt
 
 För att näringsberäkningen ska ge tillförlitliga resultat är det viktigt att:
 
-1. Beräkningen omfattar minst fyra sammanhängande veckor och visar lunchernas
+1\. Beräkningen omfattar minst fyra sammanhängande veckor och visar lunchernas
 genomsnittliga innehåll av energi och näring.
-2. Näringsinnehållet beräknas för åtminstone följande: Energi/portion (MJ eller kcal), fett,
+2\. Näringsinnehållet beräknas för åtminstone följande: Energi/portion (MJ eller kcal), fett,
 mättat fett, fleromättat fett, kolhydrater, protein, fibrer, vitamin C, vitamin D, folat, järn och
 salt.
-3. Näringsvärden för råvaror hämtas i första hand från Livsmedelsverkets livsmedelsdatabas.
+3\. Näringsvärden för råvaror hämtas i första hand från Livsmedelsverkets livsmedelsdatabas.
 Alla sammansatta ingredienser (hel- och halvfabrikat) bör ha produktspecifika angivelser av
 näringsinnehåll, åtminstone för de näringsämnen som nämns i punkten ovan.
-4. Specialkosten behöver näringsberäknas separat om proteinkällan, exempelvis fisk, ägg eller
+4\. Specialkosten behöver näringsberäknas separat om proteinkällan, exempelvis fisk, ägg eller
 
 mejeriprodukt, utesluts eller ersätts av något som inte är näringsmässigt likvärdigt. Samma
 sak kan behövas då spannmålsprodukter utesluts, vilket särskilt kan påverka näringsämnen
 som järn, folat och fibrer.
-5. Beräkningsprogrammet bör ta hänsyn till näringsförändringar vid tillagning, alternativt anges
+5\. Beräkningsprogrammet bör ta hänsyn till näringsförändringar vid tillagning, alternativt anges
 ingredienser i tillagad form och mängd.
-6. Beräkningen ska inkludera allt som eleven erbjuds, även måltidens tillbehör. Det är dock
+6\. Beräkningen ska inkludera allt som eleven erbjuds, även måltidens tillbehör. Det är dock
 önskvärt om måltiderna uppfyller näringsrekommendationerna både med och utan
 måltidsdryck eftersom många väljer att dricka vatten till maten.
 
-7. Det finns rutiner för att säkerställa att den beräknade menyn och recepten är de som faktiskt
+7\. Det finns rutiner för att säkerställa att den beräknade menyn och recepten är de som faktiskt
 serveras i skolan.
 
 Konsumtionsmätningar   och andra  kvalitetsaspekter
@@ -9728,7 +9728,7 @@ Tabell 10. Miljösmarta val inom olika livsmedelsgrupper
 |  | spannmålsodlingar. Av<br>klimatskäl bör därför inte ris<br>användas mer jämfört med<br>idag. |  |
 | Baljväxter<br>Här ingår ärtor, bönor och<br>linser, men inte de som ligger i<br>sin skida, som sockerärtor och<br>gröna bönor. | En ökad andel svenska<br>baljväxter samt ökad andel<br>ekologiska eller andra<br>miljöcertifierade produkter är<br>bra ur miljösynpunkt. | Eftersom baljväxter är<br>näringstäta och kan lagras<br>länge utan kyla är de lämpliga<br>ur beredskapsperspektiv.<br>Konserverade baljväxter har<br>fördelen att de inte kräver<br>någon tillagning. |
 | Potatis | En ökad andel svensk potatis<br>samt ekologiska eller andra<br>miljöcertifierade produkter är<br>bra ur miljösynpunkt. | Potatis är lagringstålig, men<br>kräver kokning eller annan<br>tillagning. |
-| Matfetter | En ökad andel rapsolja, särskilt<br>svenskproducerad, samt<br>minskad andel palmolja och<br>kokosprodukter bidrar till<br>miljömässig hållbarhet. Att öka<br>andelen ekologiska eller andra<br>miljöcertifierade matfetter är<br>bra ur miljösynpunkt. Om<br>palmolja används är det viktigt<br>att välja certifierad palmolja<br>och att sträva efter de<br>certifikat som medför ökad<br>spårbarhet*.<br>*Certifikaten för<br>Segregerad palmolja (eng.<br>”Segregated”) och Bevarad<br>identitet (eng. ”Identity<br>Preserved”) ger störst spårbarhet. | Vegetabilisk matolja är<br>energität, lagringsbar utan kyl<br>och har lång hållbarhet. |
+| Matfetter | En ökad andel rapsolja, särskilt<br>svenskproducerad, samt<br>minskad andel palmolja och<br>kokosprodukter bidrar till<br>miljömässig hållbarhet. Att öka<br>andelen ekologiska eller andra<br>miljöcertifierade matfetter är<br>bra ur miljösynpunkt. Om<br>palmolja används är det viktigt<br>att välja certifierad palmolja<br>och att sträva efter de<br>certifikat som medför ökad<br>spårbarhet\*.<br>\*Certifikaten för<br>Segregerad palmolja (eng.<br>”Segregated”) och Bevarad<br>identitet (eng. ”Identity<br>Preserved”) ger störst spårbarhet. | Vegetabilisk matolja är<br>energität, lagringsbar utan kyl<br>och har lång hållbarhet. |
 | Fisk och skaldjur | Servera fisk och skaldjur som<br>har fiskats på ett skonsamt sätt<br>och kommer från hållbara<br>bestånd eller har odlats på ett<br>hållbart sätt.<br>Musslor, sill, skarpsill och<br>vitfisk har miljömässiga<br>fördelar jämfört med laxfiskar<br>och räkor. Miljöcertifierade<br>produkter, exempelvis ASC,<br>MSC och KRAV, minskar<br>negativ miljöpåverkan. | Eftersom färsk och fryst fisk<br>kräver kyl- eller frysförvaring<br>och har kort hållbarhet är<br>fiskkonserver och torkad fisk<br>mer lämpliga ur<br>beredskapssynpunkt. |
 | Mejeriprodukter | Av klimatskäl bör mjölk- och<br>mejeriprodukter inte användas<br>mer jämfört med idag. En ökad<br>andel svenska mejeriprodukter | Färska mejeriprodukter kan<br>ätas utan tillagning, men<br>kräver kylförvaring.<br>Mjölkpulver och |
 
@@ -9809,14 +9809,14 @@ att förbättra förutsättningarna för en trivsam måltid som äts upp.
 
 En övergripande process för matsvinnsarbetet kan se ut så här:
 
-1. Samla och utbilda berörd personal om varför och hur man bör arbeta för minskat matsvinn.
-2. Mät matsvinnet.
-3. Presentera mätresultaten.
-4. Diskutera vilka åtgärder som ska genomföras. Skapa en åtgärdslista.
-5. Bestäm vem i ert kök/verksamhet som ska ansvara för respektive åtgärd.
+1\. Samla och utbilda berörd personal om varför och hur man bör arbeta för minskat matsvinn.
+2\. Mät matsvinnet.
+3\. Presentera mätresultaten.
+4\. Diskutera vilka åtgärder som ska genomföras. Skapa en åtgärdslista.
+5\. Bestäm vem i ert kök/verksamhet som ska ansvara för respektive åtgärd.
 
-6. Skapa rutiner, bestäm vem som ansvarar för vad och informera alla berörda.
-7. Följ upp och fortsätt utvecklingsarbetet.
+6\. Skapa rutiner, bestäm vem som ansvarar för vad och informera alla berörda.
+7\. Följ upp och fortsätt utvecklingsarbetet.
 Matsvinnshandboken i sin helhet finns på Livsmedelsverkets webbplats. Där finns även information
 
 om den nationella metoden för mätning av matsvinn och ett mätprotokoll för att registrera

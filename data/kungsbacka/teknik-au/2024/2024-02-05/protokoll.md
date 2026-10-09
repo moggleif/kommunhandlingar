@@ -289,8 +289,8 @@ Sammanfattning av ärendet
 
 Nämnden för Tekniks arbetsutskott blir informerade om:
 
--  Separat insamling av textilavfall
--  Besök av Hallands landshövding
+\-  Separat insamling av textilavfall
+\-  Besök av Hallands landshövding
 
 Beslutsgång
 

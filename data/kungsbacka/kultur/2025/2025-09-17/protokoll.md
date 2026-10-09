@@ -39,7 +39,7 @@ Charlotte Wallenstein (M) Stefan Jägnert (SD) för Torbjörn
 
 Annika Hamberg (M) Andersson (SD)
 Per Gunnarsson (S) Karin Clarin (MP) för Markus Rädén
-Birgitta Tingdal (S) (V) $ 79
+Birgitta Tingdal (S) (V) \$ 79
 Mats Dahl (SD)
 Helene Engstrand (KD)
 Markus Räden (V)
@@ -85,7 +85,7 @@ Roger Löfman, Särö Kullavik IF
 Charlotte Schéle, Särökometerna
 Daniel Svensson, Särökometerna
 
-Paragrafer $$ 79-91
+Paragrafer \$\$ 79-91
 
 <!-- sida 2 -->
 
@@ -96,7 +96,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 79 Dnr KFT-2025-00178
+\$ 79 Dnr KFT-2025-00178
 Information till nämnd: nya socialtjänstlagen
 
 Beslut
@@ -127,7 +127,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 80 Dnr KFT-2025-00161
+\$ 80 Dnr KFT-2025-00161
 
 Begäran om yttrande - Betänkandet "Ett nationellt förbud mot tiggeri”
 (KS-2025-00530)
@@ -235,7 +235,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 81 Dnr KFT-2025-00190
+\$ 81 Dnr KFT-2025-00190
 Justering av avgifter på Kungsbacka teater
 
 Beslut
@@ -278,7 +278,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 82 Dnr KFT-2025-00179
+\$ 82 Dnr KFT-2025-00179
 Information till nämnd: lokalplan 2027-2033
 
 Beslut
@@ -309,7 +309,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 83 Dnr KFT-2025-00193
+\$ 83 Dnr KFT-2025-00193
 
 SAMRÅD Detaljplan för seniorbostäder inom Skörvalla 1:116 i Särö,
 Kungsbacka kommun, sista svarsdag 30 september
@@ -350,7 +350,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 84 Dnr KFT-2025-00194
+\$ 84 Dnr KFT-2025-00194
 
 SAMRÅD Detaljplan för bostäder inom Kungsbacka 6:8 i Kungsbacka
 stad, sista svarsdag 2025-09-30
@@ -392,7 +392,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 85 Dnr KFT-2025-00182
+\$ 85 Dnr KFT-2025-00182
 Delårsrapport per augusti 2025
 
 Beslut
@@ -439,7 +439,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 86 Dnr KFT-2025-00181
+\$ 86 Dnr KFT-2025-00181
 Information till nämnd: diskussion nämndbudget 2026
 
 Beslut
@@ -469,7 +469,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 87 Dnr KFT-2025-00183
+\$ 87 Dnr KFT-2025-00183
 Sammanträdesdatum 2026
 
 Beslut
@@ -479,27 +479,27 @@ Beslutsmotivering
 
 Sammanfattning av ärendet
 Nämnden för Kultur & Fritid sammanträder nedanstående datum 2025:
-+ 21 januari
+\+ 21 januari
 
-+ 18 februari
+\+ 18 februari
 
-+ 25 mars
+\+ 25 mars
 
-+ 22 april
+\+ 22 april
 
-+ 13 maj
+\+ 13 maj
 
-+ 10 juni
+\+ 10 juni
 
-+ 26 augusti
+\+ 26 augusti
 
-+ 16 september
+\+ 16 september
 
-+ 21 oktober
+\+ 21 oktober
 
-+ 18 november
+\+ 18 november
 
-+ 16 december
+\+ 16 december
 
 Beslutsunderlag
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2025-08-27
@@ -524,13 +524,13 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 88 Dnr KFT-2025-00184
+\$ 88 Dnr KFT-2025-00184
 Anmälan av delegeringsbeslut september 2025
 
 Beslut
 
 Beslut fattade med stöd av delegering. Nämnden för Kultur & Fritids
-delegeringsförteckning: 2025-04-23 $ 52.
+delegeringsförteckning: 2025-04-23 \$ 52.
 
 Sammanfattning av ärendet
 
@@ -565,7 +565,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 89 Dnr KFT-2025-00185
+\$ 89 Dnr KFT-2025-00185
 Redovisning av inkomna skrivelser september 2025
 
 Beslut
@@ -598,7 +598,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (16)
 Nämnden för Kultur & Fritid Datum
 2025-09-17
 
-$ 90 Dnr KFT-2025-00187
+\$ 90 Dnr KFT-2025-00187
 Förvaltningschefen informerar
 
 Beslut
@@ -630,7 +630,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 16 (16)
 
 Nämnden för Kultur & Fritid Datum
 2025-09-17
-$ 91 Dnr KFT-2025-00197
+\$ 91 Dnr KFT-2025-00197
 Initiativ från Socialdemokraterna: Fornfyndsskydd en del av daglig
 verksamhet
 Beslut

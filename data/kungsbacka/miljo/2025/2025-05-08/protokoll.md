@@ -360,7 +360,7 @@ livsmedelsförpackningar, industrier och förorenad mark. Nämnden för Miljö &
 Hälsoskydd beslutade den 23 januari 2025 § 15 att ge förvaltningen i uppdrag att
 besvara frågeställningarna i initiativet senast till nämndens sammanträde den 8 maj
 
-2025.
+2025\.
 
 Beslutsunderlag
 
@@ -535,7 +535,7 @@ Uppföljning och prognos, april 2025
 Beslut
 
 Nämnden för Miljö & Hälsoskydd godkänner uppföljning per april och prognos
-2025.
+2025\.
 
 Sammanfattning av ärendet
 

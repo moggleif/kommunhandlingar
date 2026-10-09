@@ -270,7 +270,7 @@ av offentlig plats m.m.
 
 Avgiften får tas ut enligt de grunder som har beslutats av kommunfullmäktige.
 
-_____
+\_____
 
 Kungsbacka kommun föreskriver följande med stöd av förordningen (1993:1632) med bemyndigande för
 
@@ -324,7 +324,7 @@ Bilaga 3 – Förteckning över platser som jämställs med offentlig plats enli
 Bilaga 4 – Information om annan lagstiftning
 Bilaga 5 – Områden där passiv insamling av pengar inte får ske enligt 14 b §.
 
-____
+\____
 
 Lokala ordning sföreskrifter   Sida 2 av 7
 
@@ -355,12 +355,12 @@ Områden som jämställs med offentlig plats
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och dessa föreskrifter
 tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
-3. Parkområde i anslutning till kulturhuset Fyren
-4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och punkt 2
-5. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
-6. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
+1\. Begravningsplats
+2\. Kyrkogård
+3\. Parkområde i anslutning till kulturhuset Fyren
+4\. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och punkt 2
+5\. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
+6\. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet som hör till en förskola eller skolas verksamhet,
 jämställs med offentlig plats endast utanför verksamhetstid och vid tillämpning av 21 § punkt 1 i dessa
@@ -541,15 +541,15 @@ Vistelseförbud för hund
 21 §
 
 Hund får inte vistas på
-1.
+1\.
 a. Allmän lekplats
 b. Allmän anläggning för lek och aktivitet
 c. Annan anläggning för lek och aktivitet som enligt 3 § i dessa föreskrifter jämställs med offentlig
 plats
 
-2.   Tingbergsvallen i Kungsbacka
+2\.   Tingbergsvallen i Kungsbacka
 
-3.   Badbrygga och badflotte på badplats som enligt 3 § i dessa föreskrifter jämställs med offentlig plats
+3\.   Badbrygga och badflotte på badplats som enligt 3 § i dessa föreskrifter jämställs med offentlig plats
 Vistelseförbudet gäller inte lek- eller aktivitetsyta avsedd för hund såsom hundrastgård eller agilitybana.
 
 Överträdelse av lokal ordningsföreskrift
@@ -1245,7 +1245,7 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Råd & stöd ................................ ................................ ................................ ................................ ........................... 4
+1\. Råd & stöd ................................ ................................ ................................ ................................ ........................... 4
 1.1 Utbildning ................................ ................................ ................................ ................................ ..................... 4
 1.2 Råd ................................ ................................ ................................ ................................ ................................ 4
 
@@ -1253,15 +1253,15 @@ Innehåll
 1.4 Kontakter ................................ ................................ ................................ ................................ ...................... 9
 1.5 Samverkan ................................ ................................ ................................ ................................ .................. 10
 
-2. Granskning ................................ ................................ ................................ ................................ ........................ 11
+2\. Granskning ................................ ................................ ................................ ................................ ........................ 11
 
 2.1 Riktad granskning ................................ ................................ ................................ ................................ ....... 11
 2.2 Fördjupad granskning ................................ ................................ ................................ ............................... 12
 
-3. Omvärld ................................ ................................ ................................ ................................ .............................. 13
+3\. Omvärld ................................ ................................ ................................ ................................ .............................. 13
 3.1 Fokus på cyberskydd och omställning ................................ ................................ ................................ 13
 
-4. Kommande år ................................ ................................ ................................ ................................ ...... 15
+4\. Kommande år ................................ ................................ ................................ ................................ ...... 15
 4.1 Inriktning året 202 6 ................................ ................................ ................................ ................................ ... 15
 4.2 Plan för granskning ................................ ................................ ................................ ................................ ... 15
 
@@ -1269,7 +1269,7 @@ Innehåll
 
 <!-- sida 33 -->
 
-1. Råd & stöd
+1\. Råd & stöd
 
 1.1 Utbildning
 
@@ -1644,7 +1644,7 @@ datadriven omställning och mänskliga rättigheter samt den länsgemensamma kon
 kraftsamling i Halland. Konferenserna har gett viktig inblick och kunskap i aktuella frågor som
 berör kommunens verksamheter och sammanhang.
 
-2. Granskning
+2\. Granskning
 
 2.1 Riktad granskning
 
@@ -1704,7 +1704,7 @@ högre andel överensstämmelser än avvikelser, även om utfallet innebär att 
 avvikande omständigheter att ta hand om. Dessa var punkterna om konsekvensbedömning, information till registrerade,
 anpassad säkerhet och korrekt deklarerade behandlingar i beghandlingsregister.
 
-3. Omvärld
+3\. Omvärld
 
 3.1 Fokus på cyberskydd och omställning
 
@@ -1813,7 +1813,7 @@ behov att använda data och teknikens möjligheter för att möta de demografisk
 blir förmågan att kunna analysera konsekvens och bedöma proportionalitet särskilt viktig för att de
 regeländringar som ger legitimitet för nya arbetssätt inte får oförutsedda och oönskade effekter.11
 
-4. Kommande    år
+4\. Kommande    år
 
 4.1 Inriktning å ret 202 6
 Baserat på strömningarna i kommunens omvärld och mina iakttagelser när jag följt kommunens
@@ -3412,9 +3412,9 @@ sker när behov uppstår men annars enligt matrisen.
 | Funktionsstödsenheten | Barn | Tidsbegränsat | Genomförande | Kommun | Årligen |
 | Vuxenenheten | Vuxen | Tidsbegränsat | Beslutande | Kommun/<br>Extern | Var 6:e<br>månad |
 | Vuxenenheten | Vuxen | Tidsbegränsat | Genomförande | Kommun | Var 6:e<br>månad |
-| Barn och ungdoms-<br>enheten, Familjehems-<br>enheten | Barn | Tillsvidare/Tids-<br>begränsat | Beslutande | Kommun/<br>Extern | Var 6:e<br>månad* |
+| Barn och ungdoms-<br>enheten, Familjehems-<br>enheten | Barn | Tillsvidare/Tids-<br>begränsat | Beslutande | Kommun/<br>Extern | Var 6:e<br>månad\* |
 | Barn och ungdoms-<br>enheten, Familjehems-<br>enheten | Barn | Tidsbegränsat | Genomförande | Kommun | Var 6:e<br>månad |
-| * Enligt 22kap. 11 § SoL ska Socialnämnden noga följa vården av de barn och unga som vårdas i ett<br>familjehem, jourhem, stödboende, skyddat boende eller hem för vård eller boende. Detta ska främst<br>ske genom 1. regelbundna personliga besök i det hem eller boende där barnet eller den unge vårdas,<br>2. enskilda samtal med barnet eller den unge, 3. samtal med den eller dem som tagit emot barnet<br>eller den unge i sitt hem eller på boendet, och 4. samtal med vårdnadshavarna.<br>Socialnämnden ska särskilt uppmärksamma barnets eller den unges hälsa, utveckling, sociala<br>beteende, skolgång samt relationer till föräldrar, syskon och andra närstående. |  |  |  |  |  |
+| \* Enligt 22kap. 11 § SoL ska Socialnämnden noga följa vården av de barn och unga som vårdas i ett<br>familjehem, jourhem, stödboende, skyddat boende eller hem för vård eller boende. Detta ska främst<br>ske genom 1. regelbundna personliga besök i det hem eller boende där barnet eller den unge vårdas,<br>2. enskilda samtal med barnet eller den unge, 3. samtal med den eller dem som tagit emot barnet<br>eller den unge i sitt hem eller på boendet, och 4. samtal med vårdnadshavarna.<br>Socialnämnden ska särskilt uppmärksamma barnets eller den unges hälsa, utveckling, sociala<br>beteende, skolgång samt relationer till föräldrar, syskon och andra närstående. |  |  |  |  |  |
 | Insats utan individuell<br>behovsprövning | Målgrupp | Omfattning | Uppföljande<br>verksamhet | Typ av<br>utförare | Frekvens<br>uppföljning |
 | Sysselsättning SoL | Vuxen | Obegränsad | Regnbågen | Kommun | Årligen |
 | Råd och stödsamtal –<br>inriktning riskbruk,<br>skadligt bruk eller<br>beroende | Från 15<br>år | Upp till 6<br>månader | Förebyggande-<br>enheten Vuxen | Kommun | Månad 4<br>eller i<br>samband<br>med avslut |
@@ -4033,10 +4033,10 @@ Med privata utförare avses utförare som har hand om skötseln av en kommunal a
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
 
-*Kostnaden för intern personlig assistans har räknats om för 2024 då fler enhetschefer än de som tillhör PA
+\*Kostnaden för intern personlig assistans har räknats om för 2024 då fler enhetschefer än de som tillhör PA
 räknats med. Från och med 2025 ligger kostanden för administratörer centralt och belastar inte verksamheten.
 
-*Kostnaden för öppenvårdsinsatser inom BoU har ändrats för 2024 då även de externa köpen inkluderades i
+\*Kostnaden för öppenvårdsinsatser inom BoU har ändrats för 2024 då även de externa köpen inkluderades i
 beloppet.
 
 12
@@ -4418,10 +4418,10 @@ Underskottet förklaras främst av kostnadsökningar inom verksamhetsområdet My
 där avvikelsen uppgår till -13,4 miljoner kronor.
 
 Denna ökning beror främst av:
-- Ett markant ökat antal orosanmälningar och utredningar, vilket lett till högre volymer och därmed högre
+\- Ett markant ökat antal orosanmälningar och utredningar, vilket lett till högre volymer och därmed högre
 kostnader.
 
-- Prishöjningar för externa placeringar, en trend som även återfinns hos andra kommuner inom
+\- Prishöjningar för externa placeringar, en trend som även återfinns hos andra kommuner inom
 Göteborgsregionen (GR).
 
 Investeringar
@@ -4551,15 +4551,15 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
 Sammanfattning av nämndens arbete med målet
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
 Kungsbacka kommun har boendebistånd som ett led i en boendekedja/vårdkedja efter stödboende eller
 behandlingshem. Det betyder att vi har fler insatsnivåer inom boende som stöd i rehabilitering för personer från
 18 år som har stora svårigheter att komma in på bostadsmarknaden och som har/haft en missbruksproblematik
@@ -4590,7 +4590,7 @@ bland annat en frukostträff, där representanter från både IF och GA närvara
 både hyresvärdar och Stadsmissionen.
 I juni fattade nämnden beslut om att förlänga befintligt idéburet offentliga partnerskapet med Göteborgs
 stadsmission till och med 30 september 2026. Metoden ska utvärderas innan eventuellt beslut om införande
-2026.
+2026\.
 
 6
 
@@ -4599,7 +4599,7 @@ stadsmission till och med 30 september 2026. Metoden ska utvärderas innan event
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Under hösten har brukarundersökningar genomförts inom de flesta av våra verksamheter, både på
 myndighetssidan och inom utförarverksamheterna. Generellt har Kungsbacka kommun goda resultat där vi
@@ -4925,11 +4925,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -5014,12 +5014,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %     73 %      75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %     86 %      88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 103 92
 målvärde 2030 är 70.
@@ -5039,7 +5039,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,86      1,79     1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 113      115       151
@@ -5069,8 +5069,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 
@@ -5139,8 +5139,8 @@ Antal nystartade företag per 1 000 invånare
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -5207,16 +5207,16 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
 Sammanfattning av nämndens arbete med målet
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
 ledare.
 
 Det pågår många olika aktiviteter som ska bidra till att vi är en attraktiv arbetsgivare. Bland annat har vi, utifrån
@@ -5632,7 +5632,7 @@ användning av generativ AI.
 
 Samtliga förvaltningens chefer deltar i en tvådagars utbildning kring förändringsledning. Den första
 utbildningsdagen genomfördes i oktober. Den andra utbildningsdagen kommer att genomföras tidigt under
-2026. Att kunna leda i förändring är av yttersta vikt för att få effekt av de förändrade arbetssätt som nu initieras
+2026\. Att kunna leda i förändring är av yttersta vikt för att få effekt av de förändrade arbetssätt som nu initieras
 med hög hastighet.
 Medarbetare har gått olika utbildningsinsatser som väntas bidra till ökad förmåga till innvation och
 föändringsarbete, bland annat förändringsledningsutbildning via ADDA och projektledningutbildning enligt
@@ -6356,9 +6356,9 @@ Underskottet förklaras främst av kostnadsökningar inom verksamhetsområdet My
 där avvikelsen uppgår till -13,4 miljoner kronor.
 Denna ökning beror främst av:
 
-- Ett markant ökat antal orosanmälningar och utredningar, vilket lett till högre volymer och därmed högre
+\- Ett markant ökat antal orosanmälningar och utredningar, vilket lett till högre volymer och därmed högre
 kostnader.
-- Prishöjningar för externa placeringar, en trend som även återfinns hos andra kommuner inom
+\- Prishöjningar för externa placeringar, en trend som även återfinns hos andra kommuner inom
 Göteborgsregionen (GR).
 
 Mycket av det vi ser i utfallet inom Myndighet, Stöd och Behandling speglar samhällsutvecklingen och
@@ -6633,7 +6633,7 @@ Resultatdisponering
 
 År 2025
 
-Nämnd 81*    Drift/Inv D
+Nämnd 81\*    Drift/Inv D
 Summa-
 nämnds
 Överskott Typ2 Vht             förslag till
@@ -6732,7 +6732,7 @@ IF-2026-00017
 Förberedande underlag till nämnd angående initiativärende till nämnden för Individ &
 Familjeomsorg:
 
-- Utökad målgrupp och resursstöd till Särö Golf Clubs satsning för unga med psykisk
+\- Utökad målgrupp och resursstöd till Särö Golf Clubs satsning för unga med psykisk
 ohälsa och social utsatthet från Carita Boulven (SD) med flera.
 
 Initiativärendet beskriver att Särö Golf Club bedriver ett uppskattat initiativ där barn och unga upp till

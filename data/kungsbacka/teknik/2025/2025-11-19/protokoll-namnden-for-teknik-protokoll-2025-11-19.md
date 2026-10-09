@@ -850,33 +850,33 @@ Sammanfattning av ärendet
 Under perioden 16 oktober – 13 november inkom följande skrivelser till nämnden för
 Teknik
 
-- Protokollsutdrag Kommunfullmäktige 2025-10-07 § 195, KS-2024-00779
-- Lokala bestämmelser om omställningsstöd, pension och familjeskydd för
+\- Protokollsutdrag Kommunfullmäktige 2025-10-07 § 195, KS-2024-00779
+\- Lokala bestämmelser om omställningsstöd, pension och familjeskydd för
 förtroendevalda, KS-2024-00779
 
-- Tjänsteskrivelse - Antagande av OPF-KR 25 – Bestämmelser om omställningsstöd,
+\- Tjänsteskrivelse - Antagande av OPF-KR 25 – Bestämmelser om omställningsstöd,
 pension och familjeskydd för förtroendevalda (OPF-KR 25), KS-2024-00779
-- Protokollsutdrag Kommunfullmäktige 2025-10-07 § 197, KS-2025-00434
+\- Protokollsutdrag Kommunfullmäktige 2025-10-07 § 197, KS-2025-00434
 
-- Taxa för bredband antagen av kommunfullmäktige 2025-10-07 § 197, KS-2025-
+\- Taxa för bredband antagen av kommunfullmäktige 2025-10-07 § 197, KS-2025-
 00434
 
-- Tjänsteskrivelse - Taxa för bredband 2026, KS-2025-00434
-- Protokollsutdrag Kommunfullmäktige 2025-10-07 § 198, KS-2025-00506
+\- Tjänsteskrivelse - Taxa för bredband 2026, KS-2025-00434
+\- Protokollsutdrag Kommunfullmäktige 2025-10-07 § 198, KS-2025-00506
 
-- Taxa för parkeringsavgifter och felparkeringsavgifter, KS-2025-00506
-- Tjänsteskrivelse - Taxa för parkeringsavgifter och felparkeringsavgifter, KS-2025-
+\- Taxa för parkeringsavgifter och felparkeringsavgifter, KS-2025-00506
+\- Tjänsteskrivelse - Taxa för parkeringsavgifter och felparkeringsavgifter, KS-2025-
 00506
 
-- Protokollsutdrag KF 2025-10-07 § 194 - Antagande av detaljplan för Kungsbacka
+\- Protokollsutdrag KF 2025-10-07 § 194 - Antagande av detaljplan för Kungsbacka
 arena, KS-2025-00517
-- Protokollsutdrag BN 2025-10-23 § 165 - Antagande av detaljplan för infrastruktur
+\- Protokollsutdrag BN 2025-10-23 § 165 - Antagande av detaljplan för infrastruktur
 inom fastighet Varla 2:198 och Varla 12:67, BN 2019-00016
 
-- Tjänsteskrivelse - Antagande av detaljplan för infrastruktur inom fastighet Varla
+\- Tjänsteskrivelse - Antagande av detaljplan för infrastruktur inom fastighet Varla
 2:198 och Varla 12:67, BN 2019-00016
 
-- Angående val till Avfall Sveriges styrelse och revision
+\- Angående val till Avfall Sveriges styrelse och revision
 
 Beslutsgång
 

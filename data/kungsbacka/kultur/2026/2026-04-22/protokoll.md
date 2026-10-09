@@ -81,7 +81,7 @@ Malin Svarfvar, enhetschef
 Annica Sommar, utvecklingschef
 Vård & Omsorg
 
-Paragrafer $$ 47-57
+Paragrafer \$\$ 47-57
 
 <!-- sida 2 -->
 
@@ -91,7 +91,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-$ 47 Dnr KFT-2026-00107
+\$ 47 Dnr KFT-2026-00107
 Anmälan av jäv
 
 Beslut
@@ -120,7 +120,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-$ 48 Dnr KFT-2026-00116
+\$ 48 Dnr KFT-2026-00116
 Information till nämnd: mötesplats Protonen
 
 Beslut
@@ -151,7 +151,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-$49 Dnr KFT-2026-00100
+\$49 Dnr KFT-2026-00100
 
 Information till nämnd: uppdatering Kungsbacka Arena och
 Kungsbacka Teater
@@ -184,7 +184,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-$ 50 Dnr KFT-2026-00097
+\$ 50 Dnr KFT-2026-00097
 Information till nämnd: ökade aktiviteter på boenden
 
 Beslut
@@ -217,7 +217,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-$ 51 Dnr KFT-2026-00106
+\$ 51 Dnr KFT-2026-00106
 Information till nämnd: uppdatering Kulturskolan
 
 Beslut
@@ -248,7 +248,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-$ 52 Dnr KFT-2026-00112
+\$ 52 Dnr KFT-2026-00112
 Begäran att få behålla budgetmedel för uppsagda lokaler
 
 Beslut
@@ -257,11 +257,11 @@ Nämnden för Kultur & Fritid beslutar:
 Att nämnden begär hos kommunstyrelsen att få behålla budgetmedel för uppsagda
 lokaler:
 
-+ Förslag att få behålla budgetram motsvarande 75 24 av hyresbudget om 216 900 kr
+\+ Förslag att få behålla budgetram motsvarande 75 24 av hyresbudget om 216 900 kr
 som avser Fjärås mötesplats, då det är en extern lokal som sagts upp.
 
-+ Förslag att få behålla 20240 av hyresbudgeten om 144 000 kr för Rydets mötesplats.
-+ Förslag att få behålla 10094 av lokalvårdsbudget om 100 000 kr för båda lokalerna.
+\+ Förslag att få behålla 20240 av hyresbudgeten om 144 000 kr för Rydets mötesplats.
+\+ Förslag att få behålla 10094 av lokalvårdsbudget om 100 000 kr för båda lokalerna.
 
 Sammanfattning av ärendet
 
@@ -299,7 +299,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-$ 53 Dnr KFT-2026-00108
+\$ 53 Dnr KFT-2026-00108
 Information till nämnd: Armlängds avstånd
 
 Beslut
@@ -330,7 +330,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-$ 54 Dnr KFT-2026-00098
+\$ 54 Dnr KFT-2026-00098
 Information till nämnd: uppföljning målbild 2030
 
 Beslut
@@ -361,7 +361,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-$ 55 Dnr KFT-2026-00109
+\$ 55 Dnr KFT-2026-00109
 Anmälan av delegeringsbeslut april 2026
 
 Beslut
@@ -405,7 +405,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-$ 56 Dnr KFT-2026-00110
+\$ 56 Dnr KFT-2026-00110
 Redovisning av inkomna skrivelser april 2026
 
 Beslut
@@ -437,7 +437,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-$ 57 Dnr KFT-2026-00111
+\$ 57 Dnr KFT-2026-00111
 Förvaltningschefen informerar april 2026
 
 Beslut

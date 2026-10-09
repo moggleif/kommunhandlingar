@@ -269,19 +269,19 @@ Hravn Forsne (M), Monica Neptun (L), Bengt Alderin (C) och Ulrika Högstrand
 (KD) har väckt ett initiativ - Dialog med personal och besök i verksamheten.
 
 I initiativet föreslås följande punkter för nämnden att besluta om:
-1. Nya större verksamhetsförändringar, riktlinjer eller regler bör inte införas
+1\. Nya större verksamhetsförändringar, riktlinjer eller regler bör inte införas
 under semesterperioder.
 
-2. Samtliga större framtida verksamhetsförändringar, riktlinjer och regler ska
+2\. Samtliga större framtida verksamhetsförändringar, riktlinjer och regler ska
 tas till nämnden för avstämning före implementering.
-3. Förvaltningen får i uppdrag att ordna bredvidgång i verksamheten för hela
+3\. Förvaltningen får i uppdrag att ordna bredvidgång i verksamheten för hela
 
 nämnden samt förvaltningsledningen under hösten 2026.
-4. Förvaltningen får i uppdrag att ordna dialogträffar för presidiet med
+4\. Förvaltningen får i uppdrag att ordna dialogträffar för presidiet med
 medarbetare och enhetschefer i samtliga distrikt utan överordnad chefs
 närvaro under hösten 2026.
 
-5. Utvärdering av verksamhetsbesök ska ske i december 2026 och ligga till
+5\. Utvärdering av verksamhetsbesök ska ske i december 2026 och ligga till
 grund för hur framtida kommunikation av verksamhetsförändringar ska
 genomföras.
 
@@ -349,16 +349,16 @@ eget förslag.
 Sammanfattning av ärendet
 
 Ermin Škorić (S), Astrid Börjesson (S) och Ingela Hansson (S) har väckt ett initiativ
-- Åtgärder med anledning av det ekonomiska läget.
+\- Åtgärder med anledning av det ekonomiska läget.
 I initiativet föreslås följande punkter för nämnden att besluta om:
 
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att till ordinarie
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att till ordinarie
 sammanträde, 27 augusti 2026, ta fram underlag som redogör för det växande
 uppdraget genom andel äldre och hur det påverkar verksamhetens behov av
 resurser utifrån målsättningen om en god arbetsmiljö och trygg äldreomsorg
 enligt gällande riktlinjer och styrdokument.
 
-2. Nämnden för Vård & Omsorg beslutar att det inte kommer att fattas beslut
+2\. Nämnden för Vård & Omsorg beslutar att det inte kommer att fattas beslut
 om en åtgärdsplan som innebär besparingar i verksamheten.
 
 Beslutsunderlag

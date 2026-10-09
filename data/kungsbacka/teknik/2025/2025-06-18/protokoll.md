@@ -118,7 +118,7 @@ Avgift för kommunens avfallshantering får enligt 27 kap. 4-6 §§ miljöbalken
 kommunfullmäktige antar.
 
 Sammantaget bedöms att avgifterna i avfallstaxan behöver höjas 7 procent inför
-2026. Verksamhetens kostnader för entreprenader med mera antas öka under 2026.
+2026\. Verksamhetens kostnader för entreprenader med mera antas öka under 2026.
 Under 2026 utgår tjänsten att lämna osorterat avfall. Detta innebär en minskad intäkt.
 Skuld till brukare ska regleras på tre år, vilket innebär att verksamhetens beräknade
 underskott efter 2025 behöver täckas av intäkterna 2026. Kapitalkostnaderna ökar på

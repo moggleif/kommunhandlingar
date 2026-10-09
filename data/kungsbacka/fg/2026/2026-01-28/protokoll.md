@@ -322,44 +322,44 @@ Strukturförändring
 via förvaltningschef).
 
 Ytterligare nya delegeringar införs:
-* A 2.12 - Inhämtande av yttrande och beslut om mottagande av elev i förskoleklass,
+\* A 2.12 - Inhämtande av yttrande och beslut om mottagande av elev i förskoleklass,
 
 grundskolan och anpassad grundskola från annan kommun
-* A 2.13 - Avge yttrande över placering av barn i förskoleklass, grundskola och
+\* A 2.13 - Avge yttrande över placering av barn i förskoleklass, grundskola och
 anpassad grundskola i annan kommun
 
-* A 2.14 - Beslut om mottagande och placering av elev vid resursskola
-* A 2.15 - Beslut om att elevs rätt att kvarstå vid resursskola upphör
+\* A 2.14 - Beslut om mottagande och placering av elev vid resursskola
+\* A 2.15 - Beslut om att elevs rätt att kvarstå vid resursskola upphör
 
-* A 5.1 - Beslut om att ta emot ett barn från annan kommun i förskola/pedagogisk
+\* A 5.1 - Beslut om att ta emot ett barn från annan kommun i förskola/pedagogisk
 omsorg
-* A 5.2 - Beslut om mottagande av elev i förskoleklass, grundskolan och anpassad
+\* A 5.2 - Beslut om mottagande av elev i förskoleklass, grundskolan och anpassad
 
 grundskola från annan kommun
-* A 5.3 - Inhämta och avge yttrande över placering av barn i förskola, pedagogisk
+\* A 5.3 - Inhämta och avge yttrande över placering av barn i förskola, pedagogisk
 omsorg, förskoleklass, grundskola och anpassad grundskola i annan kommun.
 
-* A 7.4 - Beslut om godkännande vid förändring i fristående pedagogisk omsorg.
-* A 7.5 - Beslut om ansökan från fristående huvudman om utökning av antal barn
+\* A 7.4 - Beslut om godkännande vid förändring i fristående pedagogisk omsorg.
+\* A 7.5 - Beslut om ansökan från fristående huvudman om utökning av antal barn
 (max 10 % av tidigare beslut).
 
-* B 6. Enligt Lag (2025:170) om skyldighet att lämna uppgifter till
+\* B 6. Enligt Lag (2025:170) om skyldighet att lämna uppgifter till
 brottsbekämpande myndigheter.
-* B 7. Enligt OSL 6 kap. 5 § - uppgiftsskyldighet mellan myndigheter.
+\* B 7. Enligt OSL 6 kap. 5 § - uppgiftsskyldighet mellan myndigheter.
 
-* B 11. Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän
+\* B 11. Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän
 handling lämnas ut
 
-* B 28 – Arbetsutskottet beslutar om yttrande till Socialstyrelsen / IVO.
-* B 29 - Anmälan av negativa händelser eller tillbud med medicintekniska produkter.
+\* B 28 – Arbetsutskottet beslutar om yttrande till Socialstyrelsen / IVO.
+\* B 29 - Anmälan av negativa händelser eller tillbud med medicintekniska produkter.
 
-* B 30 - Rapportering av misstänkta biverkningar till Läkemedelsverket
-* C 4 - Rätt att teckna avtal vid direktupphandling överstigande 100 tkr
+\* B 30 - Rapportering av misstänkta biverkningar till Läkemedelsverket
+\* C 4 - Rätt att teckna avtal vid direktupphandling överstigande 100 tkr
 
 Delegeringar som tas bort (i den gamla delegeringslistan)
-* A 1.1 - Mottagande av rektors anmälan om upplevd kränkande behandling
+\* A 1.1 - Mottagande av rektors anmälan om upplevd kränkande behandling
 
-* A 1.3 - Mottagande av rektors anmälan till huvudmannen när rektorn har fattat ett
+\* A 1.3 - Mottagande av rektors anmälan till huvudmannen när rektorn har fattat ett
 beslut om avstängning av elev
 
 Det här dokumentet är digitalt signerat
@@ -395,8 +395,8 @@ Förslag till beslut på sammanträdet
 
 Ordförande Emanuel Forsell (M) har i arbetsutskottet yrkat ändring av
 delegeringsförteckningen enligt följande:
-- A 7.5 beslutas av nämnden.
-- B 28 beslutas av arbetsutskottet.
+\- A 7.5 beslutas av nämnden.
+\- B 28 beslutas av arbetsutskottet.
 
 Peter Lundin (C) yrkar att texten under p 1.6 och 1.7 kompletteras i enlighet med
 följande tillägg:

@@ -326,9 +326,9 @@ Beslut
 
 Nämnden för Gymnasium & Arbetsmarknad beslutar att:
 
-1. Avveckla Restaurang- och livsmedelsprogrammet vid Elof Lindälvs gymnasium
+1\. Avveckla Restaurang- och livsmedelsprogrammet vid Elof Lindälvs gymnasium
 från och med läsåret 2026/2027
-2. Gymnasieskolorna erbjuder övriga program med utbud enligt underlag för läsåret
+2\. Gymnasieskolorna erbjuder övriga program med utbud enligt underlag för läsåret
 2026/2027
 
 Jäv
@@ -486,7 +486,7 @@ utblicksår 2032 – 2036 med tilläggsyrkandet av prioriteringar.
 
 Sammanfattning av ärendet
 Varje år beslutar nämnderna om bedömt lokalbehov de kommande fem åren (2027–
-2031) med fokus på det femte året. Till hjälp används beslutade
+2031\) med fokus på det femte året. Till hjälp används beslutade
 befolkningsprognoser. Det krävs behovsanalyser till de fem första åren.
 
 Behoven sammanställs i ett lokalplan som utgör del av kommunens flerårsbudget.
@@ -496,19 +496,19 @@ krävs inga behovsbeskrivningar för dessa sista fem år.
 Som underlag till lokalbehoven har behovsbeskrivningar från gymnasieskolan och
 Kompetenscentrum samlats in och sammanställts. Följande behov finns;
 
-* Kompetenscentrum
-* Projekt Facelift, Elof Lindälv
+\* Kompetenscentrum
+\* Projekt Facelift, Elof Lindälv
 
-* Anpassad gymnasieskola, Elof Lindälv
-* Anpassad gymnasieskola, Aranäs
+\* Anpassad gymnasieskola, Elof Lindälv
+\* Anpassad gymnasieskola, Aranäs
 
-* Vård- och omsorgsprogrammet, Aranäs
-* El- och energiprogrammet, Elof Lindälv
+\* Vård- och omsorgsprogrammet, Aranäs
+\* El- och energiprogrammet, Elof Lindälv
 
-* Restaurang- och livsmedelsprogrammet, Elof Lindälv
-* Ekonomiprogrammet, Elof Lindälv
+\* Restaurang- och livsmedelsprogrammet, Elof Lindälv
+\* Ekonomiprogrammet, Elof Lindälv
 
-* Fordons- och transportprogrammet, Marios Gata
+\* Fordons- och transportprogrammet, Marios Gata
 
 Beslutsunderlag
 
@@ -542,10 +542,10 @@ Förslag till beslut på sammanträdet
 Axel Storckenfeldt (M) yrkar på att ge Förvaltningschefen i uppdrag att, utöver de
 aktualiserade behoven Kompetenscentrum och Marios gata, inkorporera tre
 ytterligare prioriterade områden:
-1) Vård och omsorg
+1\) Vård och omsorg
 
-2) El och energi
-3) Projekt Facelift Elof Lindälv
+2\) El och energi
+3\) Projekt Facelift Elof Lindälv
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) finner att det finns ett förslag till beslut,
@@ -634,7 +634,7 @@ Sammanfattning av ärendet
 Kommunfullmäktige beslutade 2025-06-16 att fastställa kommunövergripande mål
 
 som utgångspunkt för nämndens arbete med verksamhetsplanering och nämndbudget
-2026.
+2026\.
 
 I Nämndbudget 2026 ingår bland annat.
 • Nämndens övergripande inriktning för arbetet i förvaltningen
@@ -794,10 +794,10 @@ främja välmående. Dessa pengar är sökbara av nämnderna.
 Alliansen har tagit fram två initiativ för främjande av välmående med fokus på
 gymnasieskolorna:
 
-1) Förstärkt individuellt psykosocialt stöd för elever inom gymnasieskolan. Förslaget
+1\) Förstärkt individuellt psykosocialt stöd för elever inom gymnasieskolan. Förslaget
 innebär att ta fram en ansökan om 700 000kr.
 
-2) Praktikinsatser inom anpassad gymnasieskola. Förslaget innebär att ta fram en
+2\) Praktikinsatser inom anpassad gymnasieskola. Förslaget innebär att ta fram en
 ansökan om 500 000kr.
 
 Beslutsgång
@@ -985,11 +985,11 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Månadsrapport september, Werket
-2. Sammanställning av svar KFs direktiv- innovation och omställning till nya
+1\. Månadsrapport september, Werket
+2\. Sammanställning av svar KFs direktiv- innovation och omställning till nya
 
 arbetssätt
-3. Protokollsutdrag gällande Kungsbacka Arena
+3\. Protokollsutdrag gällande Kungsbacka Arena
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &

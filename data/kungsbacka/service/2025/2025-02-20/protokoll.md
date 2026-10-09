@@ -301,7 +301,7 @@ Beslut
 
 Nämnden för Service godkänner förslaget gällande ombudget och
 resultatdisponering, inklusive utnyttjande av SE Fastigheters resultatfond, för år
-2024.
+2024\.
 
 Sammanfattning av ärendet
 Förvaltningen har upprättat förslag till ombudget och resultatdisponering avseende år

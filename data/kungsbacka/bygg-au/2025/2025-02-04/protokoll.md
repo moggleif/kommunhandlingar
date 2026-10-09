@@ -256,7 +256,7 @@ synpunkter som inkommit under granskningstiden från bland annat länsstyrelsen 
 samhällsbyggnadskontoret gjort kompletteringar av planhandlingarna. Planområdet
 har också utökats för att möjliggöra en strandpromenad längs med vattnet. Därför
 kommer detaljplanen att genomgå en andra granskning med start den 4 februari
-2025.
+2025\.
 
 Beslutsgång
 Ordförande Thure Sandén (M) prövar om byggnadsnämndens arbetsutskott kan
@@ -409,15 +409,15 @@ byggnadsnämnden från att anta en nämndbudget för 2024 och har i stället ant
 strategidokument. I årsredovisningen 2024 ingår därför inte uppföljning av
 
 kommunfullmäktiges mål. I sin helhet innehåller årsredovisningen:
-* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
+\* Beskrivning av viktiga händelser under året samt faktorer i omvärlden som
 påverkat nämnden
 
-* Uppföljning av kommunfullmäktiges direktiv om innovation och omställning
-* Uppföljning av systematiskt arbetsmiljöarbete, kompetensförsörjning och
+\* Uppföljning av kommunfullmäktiges direktiv om innovation och omställning
+\* Uppföljning av systematiskt arbetsmiljöarbete, kompetensförsörjning och
 personalnyckeltal
 
-* Uppföljning av ekonomi
-* Hållbarhetsbokslut
+\* Uppföljning av ekonomi
+\* Hållbarhetsbokslut
 
 Nämnden håller en hög takt i innovations och utvecklingsarbetet och bedömer att
 kommunfullmäktiges direktiv om innovation och omställning uppnåtts.
@@ -477,12 +477,12 @@ Bygg- och miljöförvaltningen har upprättat förslag till ombudget och resulta
 Byggnadsnämnden redovisar ett positivt resultat jämfört med budget för 2024 på
 4 014 000 kronor. Nämnden begär följande resultatdisponering:
 
-* Kvarvarande budget för internränta, 2 000 kronor återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 2 000 kronor återredovisas enligt kommunens
 ekonomistyrprinciper.
-* Avsatt projektbudget för kartutveckling som inte kunnat användas som planerat på
+\* Avsatt projektbudget för kartutveckling som inte kunnat användas som planerat på
 
 1 117 000 kronor ombudgeteras till 2025.
-* Resterande överskott, 2 895 000 kronor, förs till nämndens resultatfond.
+\* Resterande överskott, 2 895 000 kronor, förs till nämndens resultatfond.
 
 Beslutsunderlag
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2025-01-24
@@ -688,7 +688,7 @@ Reservation
 Stefan Vilumsons (SD) reserverar sig mot beslutet till förmån för eget yrkande, med
 följande motivering:
 
--  Att uppföra högre flerbostadshus vid Åsa 4:146 och 4:152 passar inte in i den
+\-  Att uppföra högre flerbostadshus vid Åsa 4:146 och 4:152 passar inte in i den
 småskaliga bebyggelsen och riskerar att förstöra Åsas unika och mysiga
 karaktär. Planen hotar områdets sammanhållna helhet och dess attraktivitet.
 
@@ -779,7 +779,7 @@ kommunstyrelsen 2018-06-19 §162. Detaljplanen hanteras med utökat
 planförfarande därav sker beslut om antagande av detaljplanen i
 kommunfullmäktige.
 Planförslaget har varit utställt för granskning under tiden 3 november – 2 december
-2020. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
+2020\. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
 
 huvudsak miljö, risker och geotekniska frågor. Se vidare i granskningsutlåtandet.
 Därefter har kompletterande utredningar för geoteknik gällande bergtäkten, området
@@ -1279,10 +1279,10 @@ förhandsbesked om en åtgärd som kräver bygglov kan tillåtas på en specifik
 Enligt 9 kap. 31 § PBL ska bygglov ges för en åtgärd utanför ett område med
 detaljplan och områdesbestämmelser, om åtgärden
 
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 § och
 
-3. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
+3\. uppfyller de krav som följer av 2 kap. och 8 kap. 1 §, 2 § första stycket, 3, 6, 7, 9
 11 §§, 12 § första stycket, 13, 17 och 18 §§ i de delar som inte har prövats i
 områdesbestämmelser. Lag (2014:900).
 
@@ -1651,7 +1651,7 @@ Datum
 
 Länsstyrelsen har i sitt beslut överprövat och vänt till positivt eller inte skäl att neka
 förhandsbesked för de bedömningar byggnadsnämnden hade kommit fram 2023-07-
-06. Länsstyrelsen har bedömt att platsen utgör en lucktomt, och undantaget
+06\. Länsstyrelsen har bedömt att platsen utgör en lucktomt, och undantaget
 frånplankrav är tillämpbart i detta fall utan att det leder till prejudicerande effekter.
 Särskilt som detaljplanen för fastigheten hade upphävts med syfte att pröva bygglov.
 Länsstyrelsen har också bedömt att det inte finns skäl att neka förhandsbesked utifrån
@@ -2085,19 +2085,19 @@ underrättelse 2024-08-16 och per telefon 2024-08-26.
 Sökande inkom med ett yttrande 2024-06-20. Yttrandet finns i sin helhet som ett
 beslutsunderlag. Sammanfattningsvis skriver sökande i sitt yttrande att:
 
--  Det beviljats förhandsbesked 2024 för ett enbostadshus på Släps-hagen 1:136.
+\-  Det beviljats förhandsbesked 2024 för ett enbostadshus på Släps-hagen 1:136.
 Och att det finns ett pågående detaljplanarbete för bostäder inom Släps-hagen
 1:90, 1:30 och 1:99. Sökande anser att det ska finnas en
 likabehandlingsprincip.
 
--  Sökande anser att platsen har unika förutsättningar vilket innebär att risken
+\-  Sökande anser att platsen har unika förutsättningar vilket innebär att risken
 för negativ prejudicerande effekt är låg.
 
--  Sökande vill lyfta att hon har starka band till platsen och ett beviljat
+\-  Sökande vill lyfta att hon har starka band till platsen och ett beviljat
 förhandsbesked skulle medföra att hon blir den sjätte generationen som bebor
 fastigheten.
 
--  Föreslagen lokalisering är lämplig utifrån närhet till befintlig väg och viktig
+\-  Föreslagen lokalisering är lämplig utifrån närhet till befintlig väg och viktig
 samhällsservice. Det finns även kommunalt VA i vägen som angränsar till
 
 fastigheten.
@@ -2113,13 +2113,13 @@ Byggnadsnämndens arbetsutskott
 Datum
 2025-02-04
 
--  Sökande anser att föreslagen åtgärd passar väl in i befintlig bebyggelse och
+\-  Sökande anser att föreslagen åtgärd passar väl in i befintlig bebyggelse och
 omkringliggande natur. Föreslagen byggnation utgör en naturlig
 komplettering till befintlig bebyggelse. Åtgärden kommer enligt sökande inte
 medföra etablering av en ny bebyggelsegrupp då huset kommer lokaliseras
 
 inom den hemfridszon som omfattar fastighetens gårdsbildning.
--  Det saknas alternativa användningsområden för marken enligt sökande.
+\-  Det saknas alternativa användningsområden för marken enligt sökande.
 
 Kommunicering med berörda sakägare
 Om åtgärden avviker mot detaljplan, eller ska utföras utanför detaljplan ska berörda
@@ -2130,10 +2130,10 @@ Berörda sakägare har fått tillfälle att yttra sig. Invändningar har kommit 
 fastighetsägare till Släps-Hagen 1:23. Sakägaren skriver i sitt yttrande att han
 motsätter sig avstyckningen av två anledningar. Dessa följer här nedan:
 
-”*Föreslagen avstyckning och byggnation utgör en förtätning av området. Tomtyta
+”\*Föreslagen avstyckning och byggnation utgör en förtätning av området. Tomtyta
 uppgår endast till 1126 m2 vilket är avsevärt mindre än närliggande fastigheter i
 området.
-*Nybyggnation bör ersätta befintlig byggnad på fastigheten. Föreslagen avstyckning
+\*Nybyggnation bör ersätta befintlig byggnad på fastigheten. Föreslagen avstyckning
 
 och byggnation utgör en förtätning av området. I sammanträdesprotokollet från
 Byggnadsnämndens arbetsutskott daterat 2024-02-29 (dnr BN 2023-002392)
@@ -2185,8 +2185,8 @@ skriver i sitt yttrande att han inte motsätter sig en avstyckning däremot mots
 sig hur den sker:
 ”Det är främst två saker som riskerar att bli prejudicerande
 
-- Föreslagen tomtyta uppgår endast till lite drygt 1 000 m2.
-- Föreslagen avstyckning saknar befintlig bostadsbyggnad.
+\- Föreslagen tomtyta uppgår endast till lite drygt 1 000 m2.
+\- Föreslagen avstyckning saknar befintlig bostadsbyggnad.
 I Dnr BN 2023-002392 framgår att kommunen värnar om att planering och
 
 utveckling av nya bostäder görs på ett långsiktigt och hållbart sätt. Det framgår även
@@ -2242,10 +2242,10 @@ inkom med ett yttrande för att bemöta inkomna synpunkter 2025-01-05. I yttrand
 skriver sökande följande:
 
 ”Två synpunkter har framkommit vid hörande av grannar:
-- Avstyckningen bör omfatta en större yta för att bättre matcha omgivande
+\- Avstyckningen bör omfatta en större yta för att bättre matcha omgivande
 fastigheter samt minska risken för negativ prejudicerande verkan.
 
-- Avstyckningen bör innefatta befintlig bostadsbyggnad för att minimera
+\- Avstyckningen bör innefatta befintlig bostadsbyggnad för att minimera
 exploateringen av området.
 Vi anser att detta är två rimliga åsikter och kan givetvis anpassa oss efter dessa.
 Nedan följer ett justerat förslag till avstyckning som tillmötesgår nämnda
@@ -2392,9 +2392,9 @@ föreskrifter som meddelats med stöd av lagen, ska en åtgärd som avser ett
 byggnadsverk, en tomt eller en allmän plats genomföras så att åtgärden inte strider
 
 mot
-1. det lov som har getts för åtgärden, eller
+1\. det lov som har getts för åtgärden, eller
 
-2. om åtgärden inte kräver lov, den detaljplan eller de områdesbestämmelser som
+2\. om åtgärden inte kräver lov, den detaljplan eller de områdesbestämmelser som
 gäller för området.
 
 Motivering
@@ -2665,7 +2665,7 @@ huvudbyggnad till 4,5 meter.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--  Huvudbyggnaden har en byggnadsarea som är 10,4 m2 större än vad planen
+\-  Huvudbyggnaden har en byggnadsarea som är 10,4 m2 större än vad planen
 medger.
 BS 39 § : I detaljplanen, som är från 1981, regleras inte byggnaders avstånd till
 

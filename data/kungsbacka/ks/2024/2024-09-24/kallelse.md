@@ -76,7 +76,7 @@ KUNGSBACKA  KOMMUN
 
 3(7)
 
-9.  Godkännande av        2019-00047 Förslag till beslut i kommunstyrelsen
+9\.  Godkännande av        2019-00047 Förslag till beslut i kommunstyrelsen
 projektbeställning samt        Kommunstyrelsen godkänner projektbeställning för
 överlämnande för att upprätta  detaljplan för bostäder inom Vallda-Backa 1:6 i
 detaljplan för bostäder inom   Vallda, daterad 2024-08-21, med följande ändringar:

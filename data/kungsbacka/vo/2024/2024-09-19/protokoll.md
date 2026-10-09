@@ -76,7 +76,7 @@ innovationsledare, § 118
 Sofia Wirdmo, enhetschef, § 119
 
 Personalföreträdare           Övriga
--                             Peter Landin, VD Qvalify AB, § 106
+\-                             Peter Landin, VD Qvalify AB, § 106
 
 <!-- sida 2 -->
 
@@ -207,7 +207,7 @@ Sammanfattning av ärendet
 
 Ordförande Hravn Forsne (M) anmäler ett initiativärende till dagens sammanträde
 
-- Initiativ från Ermin Škorić (S) m.fl. - Analys till delårsrapporten 2024.
+\- Initiativ från Ermin Škorić (S) m.fl. - Analys till delårsrapporten 2024.
 
 Beslutsgång
 Ordförande Hravn Forsne (M) prövar om nämnden kan godkänna tillägget av ärende,
@@ -356,17 +356,17 @@ samt personalkontinuiteten.
 
 Förslag till beslut:
 
-1. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma, i
+1\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma, i
 samband med årsredovisningen, med en analys av hur målet avseende så kallade
 ”aktuella genomförandeplaner” till 95% ska tolkas i relation till de resterande 5%
 som blir kvar utanför denna målsättning och det nuvarande regelverket.
 
-2. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma, i
+2\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma, i
 samband med årsredovisningen, med en analys av varför personalkontinuiteten har
 försämrats och vilka åtgärder som har vidtagits under de gånga åren, med fokus på
 2024, för att komma tillrätta med denna negativa utveckling.
 
-3. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma, i
+3\. Nämnden för Vård & Omsorg ger förvaltningen i uppdrag att återkomma, i
 samband med årsredovisningen, med en analys av varför personalomsättningen har
 försämrats och vilka åtgärder som har vidtagits under de gånga åren med fokus på
 2024 för att komma tillrätta med denna negativa utveckling.
@@ -1135,7 +1135,7 @@ Följande datum föreslås för år 2025:
 24 april          18 september 10 december
 
 Nämnden för Vård & Omsorgs planeringsdagar föreslås till 23 januari och 28 augusti
-2025.
+2025\.
 
 Beslutsunderlag
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2024-07-16

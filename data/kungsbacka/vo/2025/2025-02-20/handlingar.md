@@ -254,10 +254,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -308,7 +308,7 @@ Brukarbedömning
 individ- och
 88 %
 familjeomsorg totalt
-- helhetssyn
+\- helhetssyn
 3.1.1 Antalet personal som en hemtjänstmottagare möter under 14 dagar ska årligen
 minska och 2025 uppgå till maximalt 14 medarbetare
 
@@ -396,7 +396,7 @@ omsorgsboende,
 egenregi
 Andel aktuella
 genomförandeplaner
--           78,3 %       96,7 %         95 %
+\-           78,3 %       96,7 %         95 %
 inom hemtjänsten,
 egenregi
 Andel aktuella
@@ -412,7 +412,7 @@ egenregi
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2024
 
-Fotnot: *Den 24 januari 2024 fattade nämnden för Vård & Omsorg beslut om ny vägledning för skälighetsnivå. Ny vägledning innebär
+Fotnot: \*Den 24 januari 2024 fattade nämnden för Vård & Omsorg beslut om ny vägledning för skälighetsnivå. Ny vägledning innebär
 att beslut om korttidsboende förändras från 3 veckor till att vara på 1 vecka. Rutinen för upprättande av genomförandeplaner säger att
 inom 4 veckor på vård- och omsorgsboende och hemtjänst ska en genomförandeplan upprättas, på korttiden ska en genomförandeplan
 upprättas efter 1 vecka. Det innebär att tidigare arbetssätt med genomförandeplaner på korttiden behöver ses över för att säkerställa
@@ -425,11 +425,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Indikatorer       Utfall 2021   Utfall 2022 Utfall 2023 Utfall 2024
 Andelen elever som
@@ -514,7 +514,7 @@ pojkar.
 Avfall från hushåll ska
 minska med 30% per
 invånare från 2020 till 98        97
-2030. Startvärde 100,
+2030\. Startvärde 100,
 målvärde 2030 är 70.
 Avfall från kommunens
 verksamheter ska
@@ -568,8 +568,8 @@ ekologisk status, andel 18,5      18,5
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 12
@@ -625,8 +625,8 @@ invånare 16–64 år
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 13
 
@@ -659,7 +659,7 @@ de som är över 80 år ha tillsyn via kamera för att kommunen ska ha gjort en 
 Indikatorer     Utfall 2021   Utfall 2022 Utfall 2023  Utfall 2024
 Genomsnittligt
 meritvärde i årskurs
-9. Meritvärdet
+9\. Meritvärdet
 utgörs av summan
 239           237          236,5         237,5
 av de 17 bästa
@@ -708,12 +708,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Sammanfattning av nämndens arbete med målet
 Kompetensutveckling
 
@@ -779,7 +779,7 @@ max 180. Jämix
 103          114          122
 beräknas utifrån nio
 nyckeltal med skala 1–
-20.
+20\.
 3.5.1 Andelen medarbetare och chefer som väljer att avsluta sin anställning hos Vård &
 Omsorg ska 2025 uppgå till maximalt 12 procent
 Beslutats av
@@ -960,7 +960,7 @@ Antal lägenheter på vård- och
 omsorgsboende
 Antal lägenheter för korttids/växelvård 62 62 62  60      60
 Beläggningsgrad vård- och
--      92 %  97 %    96 %    97 %
+\-      92 %  97 %    96 %    97 %
 omsorgsboende
 Antal timmar hemtjänst     580 297 582 438 537 632 545 404 548 528
 Kö till vård- och omsorgsboende 29  20     53     67      74
@@ -1075,7 +1075,7 @@ våld som våra anställda möter samt utvecklat rutiner för en tryggare arbets
 
 För att möta ett samhälle i förändring behöver vi tillvarata resurser på bästa sätt. Arbetet med att en gemensam
 insats- och bemanningsplanering utifrån våra omsorgstagares behov och för en god arbetsmiljö fortsätter under
-2025.
+2025\.
 Kungsbackamodellen införs, vi har gått över till en tillits- och behovsbaserad styrning och slopat
 minutstyrningen, vilket förväntas ge positiva effekter på arbetsmiljön i hemtjänsten. Implementeringen fortsätter
 under 2025. Det är fortsatt viktigt att fokusera på upplevelsen av arbetsbelastning.
@@ -1585,7 +1585,7 @@ Nämnden för Vård & Omsorg
 Förslag till beslut i nämnden för Vård & Omsorg
 
 Nämnden för Vård & Omsorg godkänner förslag till ombudgetering av investeringar och resultatfond
-2024.
+2024\.
 Nämnden för Vård & Omsorg förklarar paragrafen omedelbart justerad.
 
 Sammanfattning av ärendet
@@ -2311,10 +2311,10 @@ Socialstyrelsen ”Nationell handlingsplan för ökad patientsäkerhet i hälso-
 <!-- sida 64 -->
 
 Innehåll
-1. INLEDNING ..................................................................................................................................3
+1\. INLEDNING ..................................................................................................................................3
 
-2. SAMMANFATTNING ....................................................................................................................3
-3. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................4
+2\. SAMMANFATTNING ....................................................................................................................3
+3\. GRUNDLÄGGANDE FÖRUTSÄTTNINGAR FÖR SÄKER VÅRD ...........................................................4
 
 Engagerad ledning och tydlig styrning .............................................................................................4
 Övergripande mål och strategier .................................................................................................4
@@ -2326,7 +2326,7 @@ Informationssäkerhet ..........................................................
 En god säkerhetskultur....................................................................................................................7
 
 Adekvat kunskap och kompetens ....................................................................................................8
-4. AGERA FÖR SÄKER VÅRD .............................................................................................................9
+4\. AGERA FÖR SÄKER VÅRD .............................................................................................................9
 
 Öka kunskap om inträffade vårdskador ......................................................................................... 10
 Har vården varit säker ............................................................................................................... 10
@@ -2361,7 +2361,7 @@ Klagomål och synpunkter .......................................................
 
 <!-- sida 65 -->
 
-1. INLEDNING
+1\. INLEDNING
 Enligt patientsäkerhetslagen ska vårdgivaren varje år upprätta en patientsäkerhetsberättelse.
 Syftet med patientsäkerhetsberättelsen är att öppet och tydligt redovisa strategier, mål och
 
@@ -2370,7 +2370,7 @@ färdig senast den 1 mars varje år, finnas tillgänglig för den som vill ta de
 den bör utformas så att den kan ingå i vårdgivarens ledningssystem för patientsäkerhet.
 SL 2010:659, SOSFS 2011:9 7 kap. 3 §
 
-2. SAMMANFATTNING
+2\. SAMMANFATTNING
 Det finns en god vilja att rapportera inträffade händelser vilket stöds av mätning av
 patientsäkerhetskulturen i förvaltningen för Vård & Omsorg, VO. Utredning av händelserna
 har visat att merparten av händelserna i VO inte berodde på någon brist i verksamheten och
@@ -2410,7 +2410,7 @@ under 2025.
 
 <!-- sida 66 -->
 
-3. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
+3\. GRUNDLÄGGANDE    FÖRUTSÄTTNINGAR   FÖR SÄKER VÅRD
 Engagerad ledning och tydlig styrning
 
 En grundläggande förutsättning för en säker vård är en
@@ -2576,16 +2576,16 @@ HSLF-FS 2016:40, 7 kap. 1 §
 Patientsäkerhetsberättelsen ska, utöver vad som anges patientsäkerhetslagen innehålla
 
 uppgifter enligt nedan.
-1. Uppföljningar av informationssäkerheten som är av större betydelse
+1\. Uppföljningar av informationssäkerheten som är av större betydelse
 
-2. Riskanalyser som har gjorts.
+2\. Riskanalyser som har gjorts.
 
-3. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
+3\. Åtgärder som har vidtagits för förbättring av informationssäkerheten som är av större
 betydelse.
 
-4. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
+4\. Utvärdering vårdgivaren har genomfört av skydd mot olovlig åtkomst till datornätverk
 och informationssystem.
-5. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
+5\. Granskning som har gjorts av hälso- och sjukvårdspersonalens journalföring.
 
 Redovisning av punkt 1–4 ingår i informationssäkerhetsberättelsen och redovisas separat.
 
@@ -2653,7 +2653,7 @@ patientsäkerhet.
 VO har genomfört utbildningar i hjärt-lungräddning för att öka kompetensen hos
 medarbetarna inom området. Utbildning kommer att genomföras vartannat år från och med
 
-2024.
+2024\.
 För att öka kompetensen hos medarbetarna har VO gjort en satsning via äldreomsorgslyftet
 där medarbetare kan utbilda sig till vårdbiträde eller undersköterska.
 
@@ -2714,7 +2714,7 @@ IF har identifierat att verksamheten behöver göra den enskilde mer aktiv och d
 
 utprovningen av hjälpmedel.
 
-4. AGERA FÖR  SÄKER VÅRD
+4\. AGERA FÖR  SÄKER VÅRD
 
 SOSFS 2011:9, 5 kap. 2 §, 7 §, 8 §, 7 kap. 2 § p 2, PSL 2010:659, 3 kap. 10 §
 
@@ -2733,12 +2733,12 @@ och regionala uppgifter.
 Socialstyrelsen har tagit fram fem nationella fokusområden för en säker vård med målet att så
 
 få patienter som möjligt ska drabbas av vårdskador. Dessa är:
-1. Öka kunskap om inträffade vårdskador
-2. Tillförlitliga och säkra system och processer
+1\. Öka kunskap om inträffade vårdskador
+2\. Tillförlitliga och säkra system och processer
 
-3. Säker vård här och nu
-4. Stärka analys, lärande och utveckling
-5. Öka riskmedvetenhet och beredskap
+3\. Säker vård här och nu
+4\. Stärka analys, lärande och utveckling
+5\. Öka riskmedvetenhet och beredskap
 
 Öka kunskap om inträffade vårdskador
 SOSFS 2011:9 7 kap. 2 § sista stycket, HSLF-FS 2017:40 3 kap. 1 §, PSL 2010:659 3 kap. 3 §
@@ -3095,7 +3095,7 @@ sjuksköterskorna.
 
 Ordinerade hälso- och sjukvårdsinsatser
 Totalt har knappt 3.2 miljoner insatser delegerats/instruerats i VO under perioden 231101–
-241031. Motsvarande siffra för IF är knappt 400 000.
+241031\. Motsvarande siffra för IF är knappt 400 000.
 
 Antalet insatser ser ut att öka med 5–10% per år.
 
@@ -3464,7 +3464,7 @@ En granskning av förvaltningens arbete med God och Nära vård genomfördes på
 förtroendevalda revisorerna i Kungsbacka kommun under 2024. Av de rekommendationer som
 
 framkom så har förvaltningen redan genomfört vissa aktiviteter. Ytterligare aktiviteter planeras under
-2025.
+2025\.
 
 2025 kommer arbetet med God och Nära vård att regleras i en förordning upprättade av
 Socialdepartementet i stället för en överenskommelse mellan staten och Sveriges kommuner och
@@ -3619,9 +3619,9 @@ förebyggande insatser, samt de fokusområden som tillsammans utgör den samlade
 inriktningen för detta arbete. Under hösten har en strategisk färdplan tagits fram för att
 implementera strategin. Färdplanen är indelad i tre faser:
 
-1. Planering & kartläggning
-2. Definiering & utveckling
-3. Genomförande & utvärdering
+1\. Planering & kartläggning
+2\. Definiering & utveckling
+3\. Genomförande & utvärdering
 Fas 1 pågår för närvarande och nyckelpersoner har utsetts för att bilda ett implementerings-
 team.
 
@@ -4479,7 +4479,7 @@ eller socialtjänst. 75 klagomål och synpunkter rör externa utförare.
 
 Riktlinjen för hantering av klagomål och synpunkter reviderades i samband med genomlysningen
 av ledningssystemet för det systematiska kvalitetsarbetet och fastställdes av nämnden 2024-06-
-12. Den nya riktlinjen syftar till att förtydliga hanteringen av inkomna handlingar och underlätta en
+12\. Den nya riktlinjen syftar till att förtydliga hanteringen av inkomna handlingar och underlätta en
 rättvisande sammanställning av synpunkter och klagomål samt att samtliga handlingar ska
 diarieföras i Ciceron.
 
@@ -4798,7 +4798,7 @@ Diarienummer
 VO-2024-00414
 
 Svar på initiativärende från Per Hoel (SD) m.fl. - Trygghetsombud inom äldreomsorgen
-- En värdig ålderdom
+\- En värdig ålderdom
 
 Förslag till beslut
 
@@ -5204,7 +5204,7 @@ Sammanfattning av ärendet
 Till nämndens sammanträde 11 december 2024 gav nämnden i uppdrag att redovisa plan för
 arbetet med semesterbemanningen 2025. Inför nämndens sammanträde den 20 februari 2025
 ger nämnden förvaltningen i uppdrag att informera om arbetet med semesterbemanning för
-2025.
+2025\.
 
 Beslutsunderlag
 
@@ -5489,11 +5489,11 @@ Nämnden       för  Vård   & Omsorg
 
 Innehållsförteckning
 
-1. ALLMÄNT OM DELEGERING ................................................................................................................................................... 2
+1\. ALLMÄNT OM DELEGERING ................................................................................................................................................... 2
 
-2. BESTÄMMELSER FÖR NÄMNDENS DELEGERING ...................................................................................................................... 3
+2\. BESTÄMMELSER FÖR NÄMNDENS DELEGERING ...................................................................................................................... 3
 
-3. MYNDIGHETSUTÖVNING OCH HANDLÄGGNING  ..................................................................................................................... 4
+3\. MYNDIGHETSUTÖVNING OCH HANDLÄGGNING  ..................................................................................................................... 4
 
 3.1 BISTÅND OCH HANDLÄGGNING ENLIGT SOCIALTJÄNSTLAGEN ........................................................................................................................ 4
 3.2 BOSTADSANPASSNINGSBIDRAG ............................................................................................................................................................. 5
@@ -5502,10 +5502,10 @@ Innehållsförteckning
 
 3.5 TILLSYN, YTTRANDEN OCH ANMÄLNINGAR I VERKSAMHET ............................................................................................................................ 7
 
-4. EKONOMI, UPPHANDLING OCH AVTAL ................................................................................................................................. 10
-5. PERSONAL ........................................................................................................................................................................... 12
+4\. EKONOMI, UPPHANDLING OCH AVTAL ................................................................................................................................. 10
+5\. PERSONAL ........................................................................................................................................................................... 12
 
-6. ADMINISTRATIVA ÄRENDEN ................................................................................................................................................ 14
+6\. ADMINISTRATIVA ÄRENDEN ................................................................................................................................................ 14
 
 BILAGA 1 - FÖRORDNANDEN ................................................................................................................................................... 17
 
@@ -5515,7 +5515,7 @@ DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
 till exempel brutit mot reglerna om jäv, korruption eller begått
-1. Allmänt   om  delegering
+1\. Allmänt   om  delegering
 någon form av tjänstefel.
 Utgångspunkten i kommunallagen är att den politiska nämnden I vissa typer av ärenden får inte nämnden delegera sin
 som ansvarar för en viss ärendetyp fattar alla beslut som rör den beslutanderätt till någon annan. Det handlar då särskilt om
@@ -5556,7 +5556,7 @@ fortfarande bli personligt ansvariga för de beslut som tagits om de
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-2. Bestämmelser      för nämndens                     Förvaltningschef har rätt att vidaredelegera ärenden,
+2\. Bestämmelser      för nämndens                     Förvaltningschef har rätt att vidaredelegera ärenden,
 stadigvarande för en viss ärendegrupp eller i enskilda ärenden,
 delegering
 som delegerats direkt till denne. Sådan vidaredelegation ska
@@ -5597,7 +5597,7 @@ Som verksamhetschef i delegeringsförteckningen räknas också
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-3. Myndighetsutövning       och   handläggning
+3\. Myndighetsutövning       och   handläggning
 
 3.1 Bistånd och handläggning enligt socialtjänstlagen
 
@@ -5740,7 +5740,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-4. Ekonomi,    upphandling     och  avtal
+4\. Ekonomi,    upphandling     och  avtal
 
 Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfaranden skall ses som verkställighet.
 
@@ -5780,7 +5780,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-5. Personal
+5\. Personal
 
 Kommentar: Kommunstyrelsens förvaltning har i Regler kring delegering tagit fram en förteckning över vad som anses vara verkställighet inom personalområdet.
 
@@ -5825,7 +5825,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-6. Administrativa     ärenden
+6\. Administrativa     ärenden
 
 14 (18)
 

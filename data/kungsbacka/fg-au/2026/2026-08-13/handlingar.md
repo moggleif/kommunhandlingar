@@ -497,7 +497,7 @@ naturlig del av det pedagogiska arbetet, där elevernas lärande fördjupas geno
 teori och praktik knyts samman.
 Arbetet syftar till att barn och elever;
 
-* Tidigt får träffa företag och organisationer för att bredda sin kunskap kring olika
+\* Tidigt får träffa företag och organisationer för att bredda sin kunskap kring olika
 yrken, branscher och arbetsliv. Får träna sina entreprenöriella kompetenser genom att
 få bidra med sina tankar och idéer i olika aktiviteter och problemlösningar. Får lära
 känna sig själva i en ny kontext och kan börja ta ut den riktning de vill ta i sina liv.
@@ -1751,26 +1751,26 @@ Kungsbacka kommun  2026
 <!-- sida 50 -->
 
 Innehåll
-1.  Sammanfattning ............................................................................................................ 2
-2.  Inledning ....................................................................................................................... 4
+1\.  Sammanfattning ............................................................................................................ 2
+2\.  Inledning ....................................................................................................................... 4
 2.1   Bakgrund ................................................................................................................ 4
 2.2   Syfte och revisionsfrågor .......................................................................................... 4
 2.3   Revisionskriterier ..................................................................................................... 4
 2.4   Metod ..................................................................................................................... 4
 2.5   Avgränsningar och ansvarig nämnd ........................................................................... 4
-3.  Iakttagelser kopplade till resursfördelningsmodellen ......................................................... 5
+3\.  Iakttagelser kopplade till resursfördelningsmodellen ......................................................... 5
 3.1   Vår bedömning ........................................................................................................ 5
 3.2   Resursfördelningsmodellen i Kungsbacka kommun ...................................................... 5
 3.3   Effekter och uppföljning av resursfördelningsmodellen ................................................ 7
-4.  Iakttagelser kopplade till uppföljning av lärarresurser ........................................................ 9
+4\.  Iakttagelser kopplade till uppföljning av lärarresurser ........................................................ 9
 4.1   Vår bedömning ........................................................................................................ 9
 4.2   Användning och uppföljning av lärarresurser .............................................................. 9
-5.  Iakttagelser kopplat till arbetet med kompensatoriska åtgärder ........................................ 11
+5\.  Iakttagelser kopplat till arbetet med kompensatoriska åtgärder ........................................ 11
 5.1   Vår bedömning ...................................................................................................... 11
 5.2   Styrning av kompensatoriska åtgärder ..................................................................... 11
 5.3   Vidtagna kompensatoriska åtgärder ......................................................................... 11
 5.4   Uppföljning av arbetet med kompensatoriska åtgärder .............................................. 12
-6.  Samlad bedömning och rekommendationer .................................................................... 13
+6\.  Samlad bedömning och rekommendationer .................................................................... 13
 6.1   Bedömning utifrån revisionsfrågorna ....................................................................... 13
 6.2   Slutsatser och rekommendationer ........................................................................... 14
 Bilaga 1. Bakgrund ................................................................................................................ 15
@@ -1782,7 +1782,7 @@ Bilaga 4. Tabeller..............................................................
 
 <!-- sida 51 -->
 
-1.    Sammanfattning
+1\.    Sammanfattning
 
 Den här rapporten handlar om en granskning av kommunens arbete med att säker-
 ställa att elever i grundskolan får en likvärdig utbildning. Med likvärdig utbildning
@@ -1850,7 +1850,7 @@ skillnader mellan skolor i deras förutsättningar att ge eleverna en likvärdig
 
 <!-- sida 53 -->
 
-2.    Inledning
+2\.    Inledning
 
 2.1   Bakgrund
 Kommunrevisionen har bedömt det som väsentligt att granska nämnden för Förskola &
@@ -1895,7 +1895,7 @@ enlighet med ställda revisionsfrågor och avser grundskolan.
 
 <!-- sida 54 -->
 
-3.    Iakttagelser kopplade till resursfördelningsmodellen
+3\.    Iakttagelser kopplade till resursfördelningsmodellen
 
 3.1   Vår bedömning
 Vi bedömer att nämnden för Förskola & Grundskola i stort har fastställt en
@@ -2099,7 +2099,7 @@ utvärdera resursfördelningsmodellen.
 
 <!-- sida 58 -->
 
-4.    Iakttagelser kopplade till uppföljning av lärarresurser
+4\.    Iakttagelser kopplade till uppföljning av lärarresurser
 
 4.1   Vår bedömning
 
@@ -2196,7 +2196,7 @@ centrum.
 
 <!-- sida 60 -->
 
-5.    Iakttagelser kopplat till arbetet med kompensatoriska åtgärder
+5\.    Iakttagelser kopplat till arbetet med kompensatoriska åtgärder
 
 5.1   Vår bedömning
 
@@ -2304,7 +2304,7 @@ undervisningsgrupper eller läxhjälp har fått på elevers möjlighet att nå k
 
 <!-- sida 62 -->
 
-6.    Samlad  bedömning  och  rekommendationer
+6\.    Samlad  bedömning  och  rekommendationer
 
 6.1   Bedömning utifrån revisionsfrågorna
 
@@ -2622,7 +2622,7 @@ S
 s
 a u
 ö
--
+\-
 n
 t
 k

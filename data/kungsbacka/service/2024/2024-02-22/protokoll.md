@@ -255,7 +255,7 @@ Datum
 Beslut
 
 Nämnden för Service godkänner återrapporteringen av delegationsbeslut personal Service
-2023.
+2023\.
 
 Sammanfattning av ärendet
 Vid helår återrapporter HR & kommunikationschef beslut som fattats utifrån nämnden för
@@ -323,7 +323,7 @@ Kommunstyrelsens diarium senast 2024-02-26. Motionen behandlades i
 Kommunfullmäktige 2023-10-10 § 161.
 
 Motionären yrkar,
-- Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, införa
+\- Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, införa
 kontinuerliga bakgrundskontroller under anställningstiden för personal anställda av
 
 Kungsbacka kommun.
@@ -337,16 +337,16 @@ Nämnden för Service
 Datum
 2024-02-22
 
-- Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, vid
+\- Att Kungsbacka kommun ska utreda möjligheten att, utifrån befintlig lagstiftning, vid
 saklig grund häva pågående anställning för personer med koppling till extremism och
 gängkriminalitet.
-- Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta
+\- Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta
 ID-kontroll inför kommande anställningar i Kungsbacka kommun.
 
-- Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta
+\- Att Kungsbacka kommun ska utreda möjligheten för extern professionell aktör att sköta
 ID-kontroll av befintliga anställningar inom Kungsbacka kommun.
 
-- Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad process som
+\- Att Kungsbacka kommun ska utreda möjligheten att införa en certifierad process som
 säkerhetsställer validering av identitet samt för kontroll och uppföljning av rätt till arbete,
 både för befintlig personal och för arbetssökande.
 
@@ -707,22 +707,22 @@ Sammanfattning av ärendet
 Förvaltningschef Julia Tryggvadottir Tollesson och tillförordnad biträdande
 förvaltningschef Johan Burman informerar om,
 
--  Partnerdialoger med Vård & Omsorg, Kommunstyrelsen, Kultur & Fritid,
+\-  Partnerdialoger med Vård & Omsorg, Kommunstyrelsen, Kultur & Fritid,
 Bygg & Miljö och Förskola & Grundskola.
--  Kommande information om uppföljning kopplat till Målbild 2027.
+\-  Kommande information om uppföljning kopplat till Målbild 2027.
 
--  Förstudie cirkulära flöden. Förvaltningen arbetar vidare med ett införandeprojekt
+\-  Förstudie cirkulära flöden. Förvaltningen arbetar vidare med ett införandeprojekt
 för återbruk av kommunens möbler och inredning med en tydlig styrning.
 Lokalförsörjning får i uppdrag att arbeta vidare med kravställan, kompetens-
 utveckling samt att sätta upp mål och arbeta med styrning. Förvaltningen
 återkommer till nämnden inför beslut.
 
--  Ledningsgruppens tillbakablick på Service de senaste fem åren om hur
+\-  Ledningsgruppens tillbakablick på Service de senaste fem åren om hur
 organisationen förändras över tid.
--  Förvaltningsledningens praktik i verksamheten.
+\-  Förvaltningsledningens praktik i verksamheten.
 
--  Säsongbetonade inköp av livsmedel till måltiderna i grundskolorna.
--  Måltid som sökt medel ur Klimatväxlingsfonden till utbildning för kockar i
+\-  Säsongbetonade inköp av livsmedel till måltiderna i grundskolorna.
+\-  Måltid som sökt medel ur Klimatväxlingsfonden till utbildning för kockar i
 Hållbar produktion.
 
 Beslutsgång

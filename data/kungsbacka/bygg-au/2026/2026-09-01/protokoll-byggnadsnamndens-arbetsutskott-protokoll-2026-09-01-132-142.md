@@ -34,10 +34,10 @@ Plats och tid för Kommunfullmäktigesalen, Storgatan 37 Klockan 13.00—15.29
 sammanträde
 Beslutande Ledamöter Tjänstgörande ersättare
 
-Thure Sandén (M), Ordförande $$ 132-142
+Thure Sandén (M), Ordförande \$\$ 132-142
 Heinrich Kaufmann (C), ordförande
 
-$$ 126-131, vice ordförande $$ 132-142
+\$\$ 126-131, vice ordförande \$\$ 132-142
 Daniel Hognert (M)
 
 Lars Eriksson (S)
@@ -48,7 +48,7 @@ Stefan Vilumsons (SD)
 Katarina Öryd, förvaltningschef
 Hanna Ståhl, verksamhetschef
 Kasra Hassirian, förvaltningsjurist
-$$ 126-134
+\$\$ 126-134
 Karl Boström, enhetschef
 Peter Sebestyén, samordnare
 Thinh Bui-Ljungqvist, senior
@@ -56,15 +56,15 @@ bygglovshandläggare
 André Nilsson, senior
 bygglovshandläggare
 Ida Lennartsson, verksamhetschef
-Nahren Dawid, utvecklare $$ 132-142
+Nahren Dawid, utvecklare \$\$ 132-142
 Stina Wikström, planarkitekt
-$$ 135-140
+\$\$ 135-140
 Sofie Axelsson, nämndsekreterare
 
 Plats och tid för justering — Digital justering
 
-Sekreterare Sofie Axelsson Paragrafer. $$ 132-142
-$$ 126-131, se separat
+Sekreterare Sofie Axelsson Paragrafer. \$\$ 132-142
+\$\$ 126-131, se separat
 protokoll
 
 Ordförande Thure Sandén (M)
@@ -224,12 +224,12 @@ Förslag till beslut i byggnadsnämnden
 Byggnadsnämnden godkänner taxa för plan- och byggverksamheten i Kungsbacka
 kommun, daterad 2026-08-18, med följande ändringar:
 
--  handläggningskostnaden i tabell A ska vara oförändrad och uppgå till 1 400
+\-  handläggningskostnaden i tabell A ska vara oförändrad och uppgå till 1 400
 kronor per timme
--  posterna A 4.1 och A 4.3 slås samman,
+\-  posterna A 4.1 och A 4.3 slås samman,
 
--  posterna A 4.2 och A 4.4 utgår,
--  ”övriga anläggningar” läggs till i tabell A 4
+\-  posterna A 4.2 och A 4.4 utgår,
+\-  ”övriga anläggningar” läggs till i tabell A 4
 
 Byggnadsnämnden översänder taxan till kommunfullmäktige för fastställande.
 Kommunfullmäktige beslutar att taxan ska träda i kraft den 1 januari 2027 och
@@ -549,7 +549,7 @@ omprövas och tas bort inom området för planförslaget då huvudmannaskapet ö
 till kommunalt från enskilt.
 
 Planområdet omfattar delar av detaljplanerna Ö54 (antagen 1974), ÖP85 (antagen
-2005) samt ÖP88 (antagen 2010). Hela planområdet är i gällande detaljplaner
+2005\) samt ÖP88 (antagen 2010). Hela planområdet är i gällande detaljplaner
 planlagt för allmän plats, park med enskilt huvudmannaskap. Genomförandetiden har
 löpt ut för samtliga detaljplaner.
 
@@ -770,9 +770,9 @@ positivt förhandsbesked ska därför lämnas.
 Lagstiftning
 Av 9 kap. 74 § plan och bygglagen (2010:900), PBL följer att ett förhandsbesked
 som innebär att en åtgärd kan lokaliseras till en viss plats får ges om åtgärden
-1. inte strider mot områdesbestämmelser,
-2. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
-3. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
+1\. inte strider mot områdesbestämmelser,
+2\. inte förutsätter planläggning enligt 4 kap. 2 eller 3 §, och
+3\. uppfyller de krav på lokalisering som följer av 2 kap. i de delar som inte har
 
 prövats i områdesbestämmelser.
 Vid bedömningen enligt första stycket 2 om en åtgärds miljöpåverkan förutsätter
@@ -809,14 +809,14 @@ marken från allmän synpunkt är lämplig för ändamålet.
 Av 2 kap. 5 § plan och bygglagen (2010:900), PBL följer i ärenden om
 förhandsbesked enligt denna lag ska bebyggelse och byggnadsverk lokaliseras till
 mark som är lämpad för ändamålet med hänsyn till
-1. människors hälsa och säkerhet,
-2. jord-, berg- och vattenförhållandena,
+1\. människors hälsa och säkerhet,
+2\. jord-, berg- och vattenförhållandena,
 
-3. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
+3\. möjligheterna att ordna trafik, vattenförsörjning, avlopp, avfallshantering,
 elektronisk kommunikation samt samhällsservice i övrigt,
-4. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
+4\. möjligheterna att förebygga vatten- och luftföroreningar samt bullerstörningar,
 och
-5. risken för olyckor, översvämning och erosion.
+5\. risken för olyckor, översvämning och erosion.
 Bebyggelse och byggnadsverk som för sin funktion kräver tillförsel av energi ska
 lokaliseras på ett sätt som är lämpligt med hänsyn till energiförsörjningen och
 
@@ -825,20 +825,20 @@ Av 2 kap. 6 § plan och bygglagen (2010:900), PBL följer att vid planläggning,
 ärenden om bygglov och vid åtgärder avseende byggnader som inte kräver lov enligt
 denna lag ska bebyggelse och byggnadsverk utformas och placeras på den avsedda
 marken på ett sätt som är lämpligt med hänsyn till
-1. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
+1\. stads- och landskapsbilden, natur- och kulturvärdena på platsen och intresset av
 en god helhetsverkan,
 
-2. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
+2\. skydd mot uppkomst och spridning av brand och mot trafikolyckor och andra
 olyckshändelser,
-3. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
+3\. åtgärder för att skydda befolkningen mot och begränsa verkningarna av
 stridshandlingar,
-4. behovet av hushållning med energi och vatten och av goda klimat- och
+4\. behovet av hushållning med energi och vatten och av goda klimat- och
 hygienförhållanden,
-5. möjligheterna att hantera avfall,
-6. trafikförsörjning och behovet av en god trafikmiljö,
-7. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
+5\. möjligheterna att hantera avfall,
+6\. trafikförsörjning och behovet av en god trafikmiljö,
+7\. möjligheter för personer med nedsatt rörelse- eller orienteringsförmåga att
 använda området, och
-8. behovet av framtida förändringar och kompletteringar.
+8\. behovet av framtida förändringar och kompletteringar.
 
 Av 2 kap. 1 § plan och bygglagen (2010:900), PBL ska vid prövning av frågor
 hänsyn tas till både allmänna och enskilda intressen.

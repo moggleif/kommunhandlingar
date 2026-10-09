@@ -517,7 +517,7 @@ beslut i ett enskilt ärende av den som fått beslutanderätten genom att själv
 Beslut fattade med stöd av nämnden för Kultur & Fritids delegeringsförteckning
 
 2024-01-24, § 8:
-* KFT 2024-00066 Kungsbacka Stad 2050 Samråd av fördjupad översiktsplan,
+\* KFT 2024-00066 Kungsbacka Stad 2050 Samråd av fördjupad översiktsplan,
 delegat Annika Hedman
 
 Beslutsunderlag

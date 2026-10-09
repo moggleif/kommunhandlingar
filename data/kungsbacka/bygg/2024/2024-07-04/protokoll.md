@@ -288,10 +288,10 @@ Byggnadsnämndens arbetsutskott lämnade den 20 juni 2024 över initiativet till
 byggnadsnämnden för ställningstagande.
 
 Förslagsställarna lyfter följande punkter:
-- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
+\- Att gestaltningsprogrammet för nämnda Varlaområde helt inhiberas och upphör att
 gälla.
 
-- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
+\- Att Bygg- och Miljöförvaltningen ser över aktualiteten av policydokumentet för
 övriga områden.
 
 Beslutsunderlag
@@ -342,7 +342,7 @@ arbetsutskott lämnade den 20 juni 2024 över initiativet till byggnadsnämnden 
 ställningstagande.
 Förslagsställarna lyfter följande punkt:
 
-- Med anledning av ovanstående föreslår undertecknade att Bygg- och
+\- Med anledning av ovanstående föreslår undertecknade att Bygg- och
 Miljöförvaltningen får i uppdrag att utreda förutsättningarna för att ansöka om ett
 kommunalt Lantmäteri.
 

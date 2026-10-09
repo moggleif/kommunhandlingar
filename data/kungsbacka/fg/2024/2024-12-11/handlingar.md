@@ -126,17 +126,17 @@ Vision - Elise Holmberg
 
 Plats och tid: VM Lagan 2024-11-05 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 Protokoll för mötet 2024-10-08 är justerat.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 Arbetsgivaren redovisar ärenden inför arbetsutskott och nämndsammanträde i november.
 
 Beslut: Att anteckna informationen.
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 
 •  Sofia Axell och Maria Sjöström arbetar 25 %
 
@@ -188,7 +188,7 @@ Elevhälsans centrala funktioner föreslås ledas av en central barn- och elevh�
 
 Beslut: Att anteckna informationen.
 
-4. Nämndbudget 2025
+4\. Nämndbudget 2025
 Budgetansvar
 
 Kommunfullmäktige tilldelar nämnderna en nettoram för driften. Nämnderna tar ett självständigt
@@ -281,7 +281,7 @@ Sveriges lärare och Sveriges skolledare.
 
 Beslut: Att anteckna informationen.
 
-5. Lokalplanering
+5\. Lokalplanering
 Tidig information angående bland annat revidering av strategi för försörjning av utbildningslokaler,
 
 kommunikationsplanering avseende strategi lokalförsörjning och lokalutredning.
@@ -297,23 +297,23 @@ vår lokaleffektivitet.
 
 Beslut: Tidig dialog/information
 
-6. Strategi för försörjning av utbildningsplatser
+6\. Strategi för försörjning av utbildningsplatser
 Se punkt 5.
 
-7. Stabsorganisation (om aktuellt)
+7\. Stabsorganisation (om aktuellt)
 
 Ingen information.
 
 Arbetstagarorganisation
 
-8. Resursskola – hur går det? (Sveriges lärare)
+8\. Resursskola – hur går det? (Sveriges lärare)
 
 Utredning är gjord om förutsättningar för resursskola, nämnden har efter det gett ett upprag om
 fördjupad utredning och att ta fram ett skarpt förslag om om införande av resursskola.
 
 Beslut: Informationen antecknas.
 
-9. Utvärdering/uppföljning av nedläggningen av de centrala SU-grupperna
+9\. Utvärdering/uppföljning av nedläggningen av de centrala SU-grupperna
 (Sveriges lärare)
 
 Undervisningen har flyttats till lokala SU grupper. Blev det som planerat och hur fungerar det på
@@ -329,7 +329,7 @@ Beslut: Dialog
 KUNGSBACKA  KOMMUN
 6 (8)
 
-10. Studiedag 15 mars (Sveriges lärare)
+10\. Studiedag 15 mars (Sveriges lärare)
 
 När vi diskuterade detta på FSG i augusti, så uppfattade vi det att skolorna kunde ansöka om att få
 flytta denna studiedag till senare på terminen så det skulle passa verksamheten bättre. Nu får vi till oss
@@ -340,7 +340,7 @@ verksamhetschef och förvaltningschef beslutar.
 
 Beslut: Dialog
 
-11. Liljanskolan föreslås bli mindre än tidigare beslut
+11\. Liljanskolan föreslås bli mindre än tidigare beslut
 
 Sveriges lärare ställer sig frågande till varför FSG inte blev informerade innan nämndens beslut?
 
@@ -351,7 +351,7 @@ skriva fram ett ärendet till FG-nämnd.
 
 Beslut: Informationen antecknas.
 
-12. Från FSG oktober
+12\. Från FSG oktober
 
 Hur räknar arbetsgivaren fram siffrorna om antalet årsarbetare/barn i förskolan?
 
@@ -410,7 +410,7 @@ Ledarna                             Psykologförbundet
 KUNGSBACKA  KOMMUN
 8 (8)
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 Skolledare
@@ -667,7 +667,7 @@ hälsa.
 Samverkan        för  att  stärka    barn    & ungas
 
 välmående        och   psykisk     hälsa    genom      rörelse.
-:
+\:
 
 Kungsbacka kommun            Rapportmall                        5
 
@@ -913,21 +913,21 @@ Europeiska unionen
 
 Den        giltiga        och      ogiltiga          frånvaron
 
-1.  Giltig   frånvaro       utgör    den    största     kategorin       av  frånvaro
+1\.  Giltig   frånvaro       utgör    den    största     kategorin       av  frånvaro
 
-2.  Hälsoproblem           är   den    vanligaste       självrapporterade            förklaringen        till
+2\.  Hälsoproblem           är   den    vanligaste       självrapporterade            förklaringen        till
 
 skolfrånvaro
 
-3.  Professionella          och    föräldrar     kan    se   på   frånvaron       på   olika    sätt
+3\.  Professionella          och    föräldrar     kan    se   på   frånvaron       på   olika    sätt
 
-4.  Giltig    frånvaro      kan    maskera        ogiltig   frånvaro      eller   andra      problem
+4\.  Giltig    frånvaro      kan    maskera        ogiltig   frånvaro      eller   andra      problem
 
-5.  Frånvaron         kan    hänga      samman         med     andra     oidentifierade
+5\.  Frånvaron         kan    hänga      samman         med     andra     oidentifierade
 
 individrelaterade           problem
 
-6.  Konsekvenserna              är   detsamma
+6\.  Konsekvenserna              är   detsamma
 
 <!-- sida 36 -->
 
@@ -1003,7 +1003,7 @@ Omarbeta           huvudmannens                 rutin
 
 Ansöka        om     förlängning          UP2     en    termin
 
-- Djupdyka          i 15    frånvaroutredningar                  alt  insats      åk   8  Åsaskolan
+\- Djupdyka          i 15    frånvaroutredningar                  alt  insats      åk   8  Åsaskolan
 
 <!-- sida 40 -->
 
@@ -1174,14 +1174,14 @@ men det kan konstateras att kommunen för närvarande har en för stor överkapa
 perspektiv i åtanke. Av denna anledning finns ett behov av att varje förskola och grundskola ska ha en
 fastslagen kapacitet som består av:
 
-1. Teknisk kapacitet (max): omfattar lagstadgade krav, såsom ventilation, toaletter m.m. Det
+1\. Teknisk kapacitet (max): omfattar lagstadgade krav, såsom ventilation, toaletter m.m. Det
 inkluderar även rekommendationer från exempelvis Boverket om minsta antal kvadratmeter per barn
 och elev, både för inomhus- och utomhusmiljöer. Kapacitet i matsal och kök ingår också i den
 tekniska kapaciteten.
 
 Den tekniska kapaciteten fastställs av serviceförvaltningen och beskriver fastighetens kapacitet.
 
-2. Pedagogisk kapacitet: För grundskolan ingår antal klassrum, grupprum samt tillgång till
+2\. Pedagogisk kapacitet: För grundskolan ingår antal klassrum, grupprum samt tillgång till
 specialsalar, vilket bedöms utifrån vilka årskurser grundskolan har. Den pedagogiska kapaciteten är
 sannolikt lägre än den tekniska kapaciteten.
 
@@ -1266,16 +1266,16 @@ antalet bil- och busstransporter, men även hur utformningen av skolans lokaler 
 
 Sammanfattningsvis ska nedan faktorer beaktas vid planering av förskolor och grundskolor:
 
--  Pedagogisk och ekonomisk hållbarhet:
+\-  Pedagogisk och ekonomisk hållbarhet:
 o  Varje skolområde ska ha som minst 1000 elever.
 
 o  Eftersträvansvärt är att skolor med f-6 har minst 350 elever, 7-9 skolor minst 360 elever och
 f-9 skolor minst 750 elever.
 o  Vid ombyggnation, nybyggnation och tillbyggnation är dokumentet Koncept för
 utbildningslokaler styrande.
--  Ekologiskt hållbart
+\-  Ekologiskt hållbart
 
--  Socialt hållbart
+\-  Socialt hållbart
 
 Med effektivt lokalutnyttjande eftersträvas en mindre överkapacitet av utbildningsplatser syftande till
 minskade lokalkostnader.
@@ -1297,12 +1297,12 @@ beaktning.
 
 Den grundläggande principen om skolors stadieindelning utgår från tanken om sammanhållet lärande och
 skapandet av kontinuitet i stödinsatser och med beaktande av god lokaleffektivitet.
--  Antalet skolbyten ska, i den mån möjligt, begränsas till högst ett. Vid undantagsfall kan fler än ett
+\-  Antalet skolbyten ska, i den mån möjligt, begränsas till högst ett. Vid undantagsfall kan fler än ett
 skolbyte under grundskoletiden godkännas.
 
--  Stadieindelning bygger i huvudsak på den indelning som Läroplanen anger. I Koncept för
+\-  Stadieindelning bygger i huvudsak på den indelning som Läroplanen anger. I Koncept för
 utbildningslokaler anges byggnadsvolym.
--  För att skapa goda förutsättningar för hållbarhet och en robust organisation kan även andra
+\-  För att skapa goda förutsättningar för hållbarhet och en robust organisation kan även andra
 indelningar än de ovan nämnda övervägas.
 
 <!-- sida 50 -->
@@ -2088,17 +2088,17 @@ riktlinjer för skolgårdar.
 Förvaltningen för Förskola & Grundskolas har tagit fram en målbild för
 förskolegårdar i Kungsbacka kommun som samverkar och delvis preciserar delar av
 de övergripande ledorden framtagna för konceptet:
-1.       En attraktiv lekmiljö – en omtyckt plats som är intressant och trivsam.
+1\.       En attraktiv lekmiljö – en omtyckt plats som är intressant och trivsam.
 
-2.       Sociala värden – en plats som bidrar till gemenskap och sociala möten
+2\.       Sociala värden – en plats som bidrar till gemenskap och sociala möten
 och där barn växer genom det sociala samspelet.
 
-3.       Kreativa värden – en plats som stimulerar till att fantasin flödar, och
+3\.       Kreativa värden – en plats som stimulerar till att fantasin flödar, och
 där barn kan påverka miljön och skapa med hjälp av löst material.
-4.       Nya upptäckter – en sinnlig och spännande plats som väcker
+4\.       Nya upptäckter – en sinnlig och spännande plats som väcker
 nyfikenheten och utforskandets förtjusning.
 
-5.       Rörelseglädje – en plats som stimulerar till aktivitet och ger barn och
+5\.       Rörelseglädje – en plats som stimulerar till aktivitet och ger barn och
 unga möjlighet att utmana sig själva. Att testa, misslyckas och till slut bemästra.
 
 Utemiljön kan delas in i olika zoner för att få till bra gårdar som innehåller alla
@@ -3007,7 +3007,7 @@ störningsmoment av olika slag ska finnas ett mindre avskilt utrymme i nära
 anslutning till övrig matsal. Fram till årskurs 6 går man klassvis 25-30 elever/klass
 tillsammans med pedagoger till matsalen och sitter tillsammans på förutbestämda
 platser och alla i samma område/del av matsalen. Från årskurs 7 går man själv till
-matsalen (bamba*) och har inte heller förutbestämda platser.
+matsalen (bamba\*) och har inte heller förutbestämda platser.
 Projekteringen av möbler i matsalen är därför av största vikt att den görs tillsammans
 med kommunens ramavtalsleverantör i samband med husprojekteringen.
 
@@ -3184,11 +3184,11 @@ Att identifiera och  synliggöra
 
 utvecklingsområden     för att uppnå:
 
--   högre  måluppfyllelse
+\-   högre  måluppfyllelse
 
--   mer  likvärdig verksamhet
+\-   mer  likvärdig verksamhet
 
--   fortsatt skolförbättring
+\-   fortsatt skolförbättring
 
 En  grund för det systematiska kvalitetsarbetet  –
 
@@ -3560,13 +3560,13 @@ delade sitt arbete i grupper och diskuterade förbättringar.
 Rektorernas utvärdering;
 
 Några citat om dagen
-- Bra att få dela erfarenheter och insikter, att få prata om utvecklingsfrågor och olika lösningar
+\- Bra att få dela erfarenheter och insikter, att få prata om utvecklingsfrågor och olika lösningar
 
-- Väldigt bra med fria samtal men ändå styrda ämnen. Ingen produkt som skulle göras
+\- Väldigt bra med fria samtal men ändå styrda ämnen. Ingen produkt som skulle göras
 
-- Att få tid att samtala, att få syn på likheter och skillnader i våra verksamheter och få ta del av
+\- Att få tid att samtala, att få syn på likheter och skillnader i våra verksamheter och få ta del av
 idéer och tankar på hur man kan utveckla sin organisation
-- Att få sitta i verksamhets indelat och prata organisation. Dela och lära är så viktigt för fortsatt
+\- Att få sitta i verksamhets indelat och prata organisation. Dela och lära är så viktigt för fortsatt
 utveckling och för att skapa större likvärdighet.
 
 Fokus förbättring 18/4 - Underlag i kvalitetsarbetet
@@ -3829,7 +3829,7 @@ Nämnden för Förskola & Grundskola               Kungsbacka kommun
 •  Stöd till rektorer; Tiden finns avsatt för rektorerna att träffas i kategorimöten, Pedagogiskt
 område, Fokus förbättring, Teamtid, Skolledardagar. Mötesform kommuniceras i
 kalendarium där obligatoriskt och erbjudande är förtydligat. VFU-samordnare, lektorer och
-doktorander, hjälp med ULF-ansökningar, material och filmade föreläsningar till FG`s
+doktorander, hjälp med ULF-ansökningar, material och filmade föreläsningar till FG\`s
 gemensamma vetenskapliga definition finns samlat under ”Hur Vet Du Det”, Enhetschefer,
 teamorganisering för kollegialt stöd, Stödfunktioner (MS, QU, EK, HR).
 •  Samverkan i nätverk; Göteborgs Regionens branschråd och nätverk, SKR – Fullföljd
@@ -4781,10 +4781,10 @@ Utrymme       och  satsningar
 
 •  Förvaltningens     lönesatsningar
 
-- Lärare förskola
+\- Lärare förskola
 
-- Lärare fritidshem
-- Chefer
+\- Lärare fritidshem
+\- Chefer
 
 Övrigt
 
@@ -5527,7 +5527,7 @@ Sammanfattning av ärendet
 Nämnden för Förskola & Grundskola fattade beslut om principöverenskommelse gällande
 interkommunal ersättning för barn och elever i förskola, pedagogisk omsorg, förskoleklass,
 grundskola, fritidshem och anpassad grundskola mellan Mark, Varberg och Kungsbacka i §64 2011 08
-25.
+25\.
 Därefter har representanter för de tre kommunerna arbetat fram praktisk tillämpning av
 överenskommelse, blankett för avtal mellan placeringskommun och folkbokföringskommun samt
 
@@ -5850,8 +5850,8 @@ Bilaga 1, GR:s modell för IKE inom förskola, grundskola mfl
 Göteborgsregionens kommunalförbund
 Handläggare: Emma Eriksson
 Datum: 2024-08-29, Dnr: ATN 2024-00061
--
---
+\-
+\--
 GR:s  modell   för Interkommunal      ersättning   inom
 
 förskola,  pedagogisk    omsorg,   förskoleklass,
@@ -5904,8 +5904,8 @@ Bilaga 1, GR:s modell för IKE inom förskola, grundskola mfl
 Göteborgsregionens kommunalförbund
 Handläggare: Emma Eriksson
 Datum: 2024-08-29, Dnr: ATN 2024-00061
--
---
+\-
+\--
 Ersättningens omfattning
 Ersättningen omfattar samtliga kostnader för barnets/elevens skolgång.
 Ersättning för eventuella modersmålskostnader ingår. I extraordinära fall
@@ -5961,8 +5961,8 @@ Bilaga 1, GR:s modell för IKE inom förskola, grundskola mfl
 Göteborgsregionens kommunalförbund
 Handläggare: Emma Eriksson
 Datum: 2024-08-29, Dnr: ATN 2024-00061
--
---
+\-
+\--
 ISGR
 ISGR en internationell skola med en svensk sektion och en internationell
 sektion. Den internationella sektionen har högre kostnader då de läser efter
@@ -6113,7 +6113,7 @@ Medlemskommunerna rekommenderas att fastställa interkommunal
 ersättning för förskola, pedagogisk omsorg, förskoleklass, grundskola,
 fritidshem, anpassad grundskola och ISGR enligt bilagor daterade
 2024-08-29 samt att inkomma med beslut till GR senast den 15 december
-2024.
+2024\.
 
 Sammanfattning av ärendet
 Förslaget till interkommunal ersättning inom rubricerade verksamheter

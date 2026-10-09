@@ -144,10 +144,10 @@ Valmyndigheten möjlighet att skapa en samlad nationell lägesbild och därigeno
 valets genomförande.
 Begreppet incident omfattar:
 
-1. Avvikelser från föreskriven ordning i förberedelse eller genomförande av val.
-2. Händelser där röstning hindras, röster manipuleras eller otillbörlig påverkan sker.
+1\. Avvikelser från föreskriven ordning i förberedelse eller genomförande av val.
+2\. Händelser där röstning hindras, röster manipuleras eller otillbörlig påverkan sker.
 
-3. Andra händelser som kan påverka valets genomförande.
+3\. Andra händelser som kan påverka valets genomförande.
 1 (2)
 Kungsbacka kommun                                         Kungsbacka kommun
 434 81 Kungsbacka
@@ -358,7 +358,7 @@ VAL V0180 01
 
 Personuppgiftsbiträdesavtal
 
-1. Parter fylls i digitalt
+1\. Parter fylls i digitalt
 
 Personuppgiftsansvarig (Valnämnden i kommun)
 Kungsbacka kommun
@@ -373,7 +373,7 @@ Valnämnden Kungsbacka kommun
 Underbiträde
 Valmyndigheten
 
-2. Syfte och innehåll
+2\. Syfte och innehåll
 
 Valmyndigheten har för avsikt att inför 2026 års val införa digitala röstkort och
 moderniserad förtidsröstning. Valmyndigheten planerar att från och med de allmänna
@@ -456,36 +456,36 @@ skydd för fysiska personer med avseende på behandling av personuppgifter och o
 det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (nedan
 kallad EU:s dataskyddsförordning).
 
-3. Definitioner
+3\. Definitioner
 Begrepp som förekommer i detta avtal har samma betydelse som i EU:s dataskydds-
 förordning. Det innebär bland annat att nedanstående begrepp har följande betydelse:
 
-- med personuppgift avses varje upplysning som direkt eller indirekt avser en fysisk
+\- med personuppgift avses varje upplysning som direkt eller indirekt avser en fysisk
 person
 
-- med behandling avses en åtgärd eller kombination av åtgärder beträffande
+\- med behandling avses en åtgärd eller kombination av åtgärder beträffande
 personuppgifter eller samlingar av personuppgifter, oberoende av om de utförs
 automatiserat eller ej
 
-- med personuppgiftsansvarig avses en fysisk eller juridisk person, offentlig myndighet,
+\- med personuppgiftsansvarig avses en fysisk eller juridisk person, offentlig myndighet,
 institution eller annat organ som ensamt eller tillsammans med andra bestämmer
 ändamålet och medlen för behandlingen av personuppgifter
 
-- med personuppgiftsbiträde avses en fysisk eller juridisk person, offentlig myndighet,
+\- med personuppgiftsbiträde avses en fysisk eller juridisk person, offentlig myndighet,
 institution eller annat organ som behandlar personuppgifter för den
 personuppgiftsansvariges räkning
 
-- med personuppgiftsincident avses en säkerhetsincident som leder till oavsiktlig eller
+\- med personuppgiftsincident avses en säkerhetsincident som leder till oavsiktlig eller
 olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig
 åtkomst till de personuppgifter som överförts, lagrats eller på annat sätt behandlats
 
-- med mottagare avses en fysisk eller juridisk person, offentlig myndighet, institution
+\- med mottagare avses en fysisk eller juridisk person, offentlig myndighet, institution
 eller annat organ till vilket personuppgifter lämnas ut, vare sig det är en tredje part
 eller inte
 
-- med tredjeland avses ett land utanför EU/EES-området.
+\- med tredjeland avses ett land utanför EU/EES-området.
 
-4. Ansvar för behandlingen
+4\. Ansvar för behandlingen
 
 Valmyndigheten och valnämnden är var för sig personuppgiftsansvariga för den
 behandling av personuppgifter som respektive myndighet skall utföra. Detta avtal avser
@@ -522,7 +522,7 @@ personuppgiftsbehandling som behövs för stöd därtill, innehållande digitala
 förteckningar och digitala röstlängder som den personuppgiftsansvarige tillhandahålls
 av personuppgiftsbiträdet.
 
-5. Underbiträde
+5\. Underbiträde
 
 Personuppgiftsbiträdet äger rätt att anlita Postnord som underbiträde för den aktuella
 hanteringen, och den personuppgiftsansvarige förklarar sig införstådd med detta.
@@ -556,12 +556,12 @@ Om personuppgiftsbiträdet anlitar ett underbiträde är personuppgiftsbiträdet
 ansvarig gentemot den personuppgiftsansvarige för underbiträdets utförande av sina
 skyldigheter.
 
-6. Överföring av personuppgifter till tredjeland
+6\. Överföring av personuppgifter till tredjeland
 Personuppgiftsbiträdet får inte föra över personuppgifterna knutna till den person-
 uppgiftsansvariges verksamhetsområde till tredjeland, om inte den personuppgifts-
 ansvarige skriftligen godkänner överföringen.
 
-7. Behandling som omfattas av avtalet
+7\. Behandling som omfattas av avtalet
 
 Personuppgiftsbiträdet ska hantera och administrera valdatabasen enligt lagen
 (2001:183) om behandling av personuppgifter i verksamhet med val och
@@ -600,7 +600,7 @@ Därutöver kan valnämnden ge i uppdrag till Valmyndigheten att vidarebefordra
 uppgifter om mottagna förtidsröster avlagda i inom kommunen till valnämnderna i de
 kommuner där rösterna ska räknas.
 
-8. Instruktioner för behandlingen
+8\. Instruktioner för behandlingen
 
 Behandlingen måste alltid vara förenlig med artikel 5 och 6 i EU:s dataskydds-
 förordning. Personuppgifter får behandlas enbart för särskilda, uttryckligt angivna och
@@ -645,7 +645,7 @@ gallring enligt gällande föreskrifter.
 
 VAL V0180 01
 
-9. Granskning av behandling hos personuppgiftsbiträdet
+9\. Granskning av behandling hos personuppgiftsbiträdet
 Personuppgiftsbiträdet ska ge den personuppgiftsansvarige tillgång till sådan
 information som behövs för att kontrollera att personuppgiftsbiträdet behandlar
 uppgifterna i enlighet med tillämpliga bestämmelser, detta avtal och de instruktioner
@@ -660,7 +660,7 @@ personuppgiftsansvarige anlitar. Personuppgiftsbiträdet ska vidare biträda den
 personuppgiftsansvarige när det finns anledning att utreda eventuella misstankar om
 obehörig åtkomst till personuppgifterna.
 
-10. Registrerades rättigheter
+10\. Registrerades rättigheter
 
 Om det till personuppgiftsbiträdet kommer in en begäran avseende den registrerades
 rättigheter enligt tillämpliga dataskyddsbestämmelser som avser den behandling som
@@ -670,7 +670,7 @@ biträdet ska genom lämpliga tekniska och organisatoriska åtgärder biträda d
 personuppgiftsansvarige när den personuppgiftsansvarige ska fullgöra sina
 skyldigheter avseende den registrerades rättigheter.
 
-11. Personuppgiftsincident
+11\. Personuppgiftsincident
 
 Personuppgiftsbiträdet ska vidta de tekniska och organisatoriska åtgärder som krävs
 för att ha förmåga att upptäcka personuppgiftsincidenter. Personuppgiftsbiträdet ska
@@ -683,7 +683,7 @@ vid myndighetens anmälan av incidenten till tillsynsmyndigheten. Personuppgifts
 biträdet ska vid behov biträda den personuppgiftsansvarige med att informera de
 registrerade om en inträffad personuppgiftsincident.
 
-12. Konsekvensbedömning
+12\. Konsekvensbedömning
 
 Personuppgiftsbiträdet ska, då behov uppstår och den personuppgiftsansvarige begär
 det, biträda den personuppgiftsansvarige vid myndighetens genomförande av
@@ -695,7 +695,7 @@ minska risken ska den personuppgiftsansvarige samråda med tillsynsmyndigheten f
 behandling. Personuppgiftsbiträdet ska även biträda den personuppgiftsansvarige vid
 myndighetens samråd med tillsynsmyndigheten.
 
-13. Sekretess och tystnadsplikt
+13\. Sekretess och tystnadsplikt
 
 Personuppgiftsbiträdet, och den som arbetar under personuppgiftsbiträdets ledning, får
 inte muntligen, genom utlämnande av handling eller på något annat sätt för obehöriga
@@ -717,7 +717,7 @@ Det ankommer på personuppgiftsbiträdet att i förhållande till den som arbeta
 personuppgiftsbiträdets ledning informera om och i avtal reglera den tystnadsplikt som
 gäller enligt detta avtal.
 
-14. Upphörande av behandlingen
+14\. Upphörande av behandlingen
 
 Om arrangemanget mellan den personuppgiftsansvarige och personuppgiftsbiträdet
 skulle komma att ändras varigenom personuppgiftsbiträdet inte längre ska behandla
@@ -732,13 +732,13 @@ röstlängder ska Valmyndigheten radera kopior av de uppgifter som valnämnden
 behandlar i samband med att valnämnden omhändertar dessa för arkivering eller
 gallring enligt gällande föreskrifter.
 
-15. Ansvar vid överträdelse
+15\. Ansvar vid överträdelse
 
 Beträffande ersättning för skada som, genom fastställd dom eller annat beslut, utgått till
 registrerad på grund av överträdelse av någon bestämmelse i detta avtal eller tillämplig
 dataskyddsbestämmelse ska artikel 82 i EU:s dataskyddsförordning tillämpas.
 
-16. Inrapportering av mottagna förtidsröster
+16\. Inrapportering av mottagna förtidsröster
 
 Kryssa i en av rutorna nedan (fylls i digitalt)
 
@@ -749,7 +749,7 @@ väljarförteckningar.
 = Valnämnden samlar in uppgifter om antalet avlagda förtidsröster inom
 kommunen och rapporterar dagligen in dessa till Valmyndigheten.
 
-17. Distributionsmetod för kommuninterna röster
+17\. Distributionsmetod för kommuninterna röster
 
 Valmyndigheten har, i egenskap av nationell valmyndighet, tecknat ett avtal med
 Postnord avseende distribution av kommunexterna förtidsröster. Samtliga kommun-
@@ -780,7 +780,7 @@ förtidsröster.
 
 VAL V0180 01
 
-18. Rapportering av förtidsröster till berörda valnämnder
+18\. Rapportering av förtidsröster till berörda valnämnder
 
 Kryssa i en av rutorna nedan (fylls i digitalt)
 
@@ -793,7 +793,7 @@ kommuner där rösterna ska räknas.
 förtidsröster som avlagts inom kommunen men som ska räknas i andra
 kommuner och rapporterar dagligen in dessa uppgifter till Valmyndigheten.
 
-19. Kryssa i rutan om valnämnden deltar i försöket med digitala röstlängder
+19\. Kryssa i rutan om valnämnden deltar i försöket med digitala röstlängder
 
 [] Valnämnden ingår avtal med anledning av att nämnden deltar i försök med
 
@@ -834,7 +834,7 @@ Sofia Jonsson
 
 Namnförtydligande |
 
-|
+\|
 
 (TONA /) IG Z AA |
 JA
@@ -949,18 +949,18 @@ Personuppgiftsbehandlingen som följer av den röstmottagning som sker under fö
 
 behövs för att genomföra valet och tillgodose röstberättigades rätt att avlägga röst i allmänna val. Den
 behandling som valnämnden i Kungsbacka gör i samband med förtidsröstningen består i två moment
-med följande behandlingsaktiviteter (*):
+med följande behandlingsaktiviteter (\*):
 
-1) Ta emot förtidsröster
-- Mottagning* av röster i samband med förtidsröstning där de röstberättigades
+1\) Ta emot förtidsröster
+\- Mottagning\* av röster i samband med förtidsröstning där de röstberättigades
 personuppgifter i form av väljarens namn, personnummer, löpnummer och nummer i
-röstlängden används för att markera mottagningen* av förtidsrösten.
+röstlängden används för att markera mottagningen\* av förtidsrösten.
 
-Personuppgifterna läggs in/markeras* i en digital väljarförteckning i valdatasystemet Valid via
+Personuppgifterna läggs in/markeras\* i en digital väljarförteckning i valdatasystemet Valid via
 skanning av id-handling, alternativt via manuell hantering och nedtecknande av personuppgifter på
 papper för senare inläggning digitalt.4
 
-- Personuppgifter kopplas samman* med de avgivna förtidsrösterna via skanning av det
+\- Personuppgifter kopplas samman\* med de avgivna förtidsrösterna via skanning av det
 fönsterkuvert där valkuverten läggs ned och där den röstberättigades röstlängdsnummer
 antecknas utanpå kuvertet. Denna del i behandlingen är kopplad till att valnämnden
 
@@ -978,10 +978,10 @@ internet exempelvis) så skriver man endast ned löpnumret från väljarförteck
 baksidan av kuvertet så att man kan se de manuellt skrivna personuppgifterna och koppla
 digitalt i efterhand.
 
-2) Sortera och distribuera förtidsröster
-- När förtidsrösterna är registrerade så ska de hämtas upp* av PostNord för maskinell
-sortering* och förvaring* fram till att rösterna ska räknas på valdagen. Valnämnden
-förvarar* också förtidsröster i väntan på transport med PostNord för sortering och
+2\) Sortera och distribuera förtidsröster
+\- När förtidsrösterna är registrerade så ska de hämtas upp\* av PostNord för maskinell
+sortering\* och förvaring\* fram till att rösterna ska räknas på valdagen. Valnämnden
+förvarar\* också förtidsröster i väntan på transport med PostNord för sortering och
 
 förvaring.
 
@@ -1234,7 +1234,7 @@ Upplysning
 
 Beslut fattat med stöd av delegering. Valnämnden delegeringsförteckning: punkt 2.4.9, 2024-11-11, §
 
-36.
+36\.
 
 Sammanfattning
 Röstlängden innehåller de personer som har rösträtt vid aktuellt val och den bestäms 30 dagar före
@@ -1379,7 +1379,7 @@ Administrativ chef Sofia Jonsson, 19790521-4727
 
 Upplysning
 Beslut fattat med stöd av delegering. Valnämndens delegeringsförteckning: punkt 2.4.6 2024-11-11, §
-36.
+36\.
 
 Beslutet skickas till
 PostNord
@@ -1438,7 +1438,7 @@ genomgått den obligatoriska utbildningen.
 Upplysning
 
 Beslut fattat med stöd av delegering. Valnämndens delegeringsförteckning: punkt 2.4.1, 2024-11-11 §
-36.
+36\.
 
 Sammanfattning
 Söndagen 13 september är det val till riksdag, kommunfullmäktige och regionfullmäktige. Det finns 46
@@ -1505,12 +1505,12 @@ Förordnande av röstmottagare i förtidsröstningen 2026
 Beslut
 
 Valnämnden utser röstmottagare i röstningslokal under förtidsröstningen 26 augusti – 13 september
-2026. Förordnandet förutsätter att röstmottagarna genomgått den obligatoriska utbildningen.
+2026\. Förordnandet förutsätter att röstmottagarna genomgått den obligatoriska utbildningen.
 
 Upplysning
 
 Beslut fattat med stöd av delegering. Valnämndens delegeringsförteckning: punkt 2.4.3, 2024-11-11 §
-36.
+36\.
 
 Sammanfattning
 Söndagen den 13 september 2026 är det val till riksdag, kommunfullmäktige och regionfullmäktige.
@@ -1631,7 +1631,7 @@ E-post:   valnamnden@kungsbacka.se
 
 <!-- sida 48 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 13 maj 2026 14:13
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 20
@@ -1695,7 +1695,7 @@ Valmyndigheten
 
 <!-- sida 50 -->
 
-Från:                  Valnämnden <valnamnden@kungsbacka.se>
+Från:                  Valnämnden \<valnamnden@kungsbacka.se>
 Skickat:               den 22 maj 2026 09:34
 Till:                  Sofia Jonsson; Andrea Egerlundh; Linnea Princis
 Ämne:                  VB: Valmyndighetens nyhetsutskick v.21
@@ -1773,9 +1773,9 @@ Till:                  Sofia Jonsson; Linnea Princis; Andrea Egerlundh; Zhale Ra
 Uppföljningsflagga:    Följ upp
 Flagga:                Har meddelandeflagga
 
-Från: Brev: Val ValAdm <valadm@val.se>
+Från: Brev: Val ValAdm \<valadm@val.se>
 Skickat: den 28 maj 2026 09:00
-Till: Brev: Val ValAdm <valadm@val.se>
+Till: Brev: Val ValAdm \<valadm@val.se>
 Ämne: Valmyndighetens nyhetsutskick v.22
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -1910,7 +1910,7 @@ Valmyndigheten
 
 <!-- sida 56 -->
 
-Från:                  Brev: Val ValAdm <valadm@val.se>
+Från:                  Brev: Val ValAdm \<valadm@val.se>
 Skickat:               den 10 juni 2026 16:50
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v.24
@@ -1960,7 +1960,7 @@ Valmyndigheten
 
 <!-- sida 57 -->
 
-Från:                  Valmyndigheten <no-reply@val.se>
+Från:                  Valmyndigheten \<no-reply@val.se>
 Skickat:               den 17 juni 2026 16:17
 Till:                  Valnämnden
 Ämne:                  Valmyndighetens nyhetsbrev vecka 25
@@ -2120,7 +2120,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 62 -->
 
-Från:                  Valmyndigheten <no-reply@val.se>
+Från:                  Valmyndigheten \<no-reply@val.se>
 Skickat:               den 24 juni 2026 15:45
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 26
@@ -2223,10 +2223,10 @@ Till:                  Sofia Jonsson; Andrea Egerlundh; Sabina Blomqvist
 Kopia:                 Zhale Rashid
 Ämne:                  VB: Nyhetsbrev kommuner vecka 27
 
-Från: Valmyndigheten <no-reply@val.se>
+Från: Valmyndigheten \<no-reply@val.se>
 
 Skickat: den 3 juli 2026 11:02
-Till: Valnämnden <valnamnden@kungsbacka.se>
+Till: Valnämnden \<valnamnden@kungsbacka.se>
 Ämne: Nyhetsbrev kommuner vecka 27
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
@@ -2306,7 +2306,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 68 -->
 
-Från:                  Valmyndigheten <no-reply@val.se>
+Från:                  Valmyndigheten \<no-reply@val.se>
 Skickat:               den 8 juli 2026 16:01
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 28
@@ -2379,7 +2379,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 71 -->
 
-Från:                  Valmyndigheten <no-reply@val.se>
+Från:                  Valmyndigheten \<no-reply@val.se>
 Skickat:               den 29 juli 2026 16:20
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 31
@@ -2452,7 +2452,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 74 -->
 
-Från:                  Valmyndigheten <no-reply@val.se>
+Från:                  Valmyndigheten \<no-reply@val.se>
 Skickat:               den 5 augusti 2026 16:35
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 32
@@ -2560,7 +2560,7 @@ Antagen 23 mars 2026
 
 Revisionsplan 2026
 
-1. Uppdrag
+1\. Uppdrag
 
 Revisionens uppdrag är att granska all verksamhet i kommunen. Det innebär att revisorerna prövar
 om verksamheten sköts på ett ändamålsenligt, från ekonomisk synpunkt tillfredställande sätt och
@@ -2584,7 +2584,7 @@ genom de lekmannarevisorer som utsetts.
 Revisorerna ska dessutom bedöma om resultaten i delårsrapporten och årsbokslutet är förenliga med
 de mål fullmäktige beslutat om i budgeten och planen för ekonomin under perioden.
 
-2. Risk- och väsentlighetsanalys
+2\. Risk- och väsentlighetsanalys
 
 Förslag till revisionsplan baseras på genomförd risk- och väsentlighetsanalys. Analysen av risk och
 väsentlighet utgår från revisionens syfte. Analysen startar med att fastställa väsentliga
@@ -2618,7 +2618,7 @@ verksamhet 2022” utgiven av Sveriges Kommuner och Regioner (SKR).
 Planering och granskning av räkenskaperna av nämnder och styrelse genomförs av sakkunnigt
 biträde enligt kommunal standard för granskning av räkenskaper
 
-3. Grundläggande granskning 2026
+3\. Grundläggande granskning 2026
 
 Kommunrevisionens uppgift är att ge kommunfullmäktige underlag till den årliga ansvars-
 prövningen. Enligt kommunallagen 12 kap. 1 § ska revisorerna årligen granska all verksamhet som
@@ -2709,7 +2709,7 @@ samverkansnämnder inom vård- och omsorgsområdet. Patientnämnden och Gemensam
 
 hemsjukvård och hjälpmedel. Revisionen genomförs på uppdrag av Region Halland.
 
-4. Fördjupade granskningar och förstudier
+4\. Fördjupade granskningar och förstudier
 
 Fördjupade granskningar
 
@@ -2748,7 +2748,7 @@ kommunfullmäktige i september.
 Ytterligare förstudier kan tillkomma. Revisionsplanen uppdateras med dessa när revisionen fattat
 beslut om det.
 
-5. Granskning av delårsrapport och årsredovisning
+5\. Granskning av delårsrapport och årsredovisning
 Granskning av delårsrapport och årsredovisning består av flera olika delar; Granskning av
 
 räkenskaperna, granskning och bedömning av god ekonomisk hushållning samt granskning av
@@ -2762,13 +2762,13 @@ upprättade i enlighet med lag om kommunal bokföring och redovisning (LKBR) och
 redovisningssed. Rådet för kommunal redovisning (RKR) är normbildande för god redovisningssed.
 Granskningen görs enligt Standard för kommunal räkenskapsrevision och omfattar granskning av:
 
--  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
--  driftredovisning och investeringsredovisning samt noter
+\-  årsredovisningens balansräkning, resultaträkning, kassaflödesanalys,
+\-  driftredovisning och investeringsredovisning samt noter
 
--  sammanställda räkenskaper
+\-  sammanställda räkenskaper
 
--  förvaltningsberättelse
--  delårsrapport
+\-  förvaltningsberättelse
+\-  delårsrapport
 
 Inom ramen för granskningen av räkenskaperna ingår att skaffa sig en förståelse för kommunens
 
@@ -2791,7 +2791,7 @@ Balanskravet innebär att budgeten ska upprättas så att intäkterna överstige
 resultat ska vara positivt. Granskningen av balanskravsresultatet genomförs inom ramen för
 granskning av delårsrapport och årsredovisningen.
 
-6. Granskning av kommunens bolag och stiftelse
+6\. Granskning av kommunens bolag och stiftelse
 Lekmannarevisionen av kommunens bolag omfattar en grundläggande granskning av bolagen.
 Utgångspunkt för granskningen är det kommunala ändamålet, bolagsordning, ägardirektiv och
 
@@ -2826,7 +2826,7 @@ Kungsbacka kommun
 
 <!-- sida 83 -->
 
-Från:                  Mikael Pettersson <micke.pettersson@svt.se>
+Från:                  Mikael Pettersson \<micke.pettersson@svt.se>
 Skickat:               den 22 maj 2026 11:44
 Till:                  Peter Mattsson
 Kopia:                 Emma Wilson; Erika Fornestedt; Margareta Westberg; Hanna

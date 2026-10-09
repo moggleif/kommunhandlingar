@@ -449,10 +449,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -511,11 +511,11 @@ totalt - helhetssyn
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -591,12 +591,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 65 %     73 %      75 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 85 %     86 %      88 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 103 92
 målvärde 2030 är 70.
@@ -625,7 +625,7 @@ Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 1,86      1,79     1,85
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i 113      115       151
@@ -647,8 +647,8 @@ total (kWh)
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -706,8 +706,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -755,11 +755,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -1641,7 +1641,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Byggnadsnämnden beslutade 2026-02-19 § 26 att godkänna uppföljningsrapport för intern kontroll
-2025.
+2025\.
 Enligt kommunallagen och det gemensamma reglementet för nämnderna liksom kommunens
 Ekonomistyrprinciper ansvarar nämnderna för att den interna kontrollen är tillräcklig. Nämnderna ska
 årligen identifiera och analysera väsentliga risker i den egna verksamheten och utifrån riskanalysen
@@ -1945,7 +1945,7 @@ Kommunövergripande risk: Bristande följsamhet till inköpsprocessen; direktupp
 avtalsuppföljning
 
 För denna risk har tre granskningsaktiviteter genomförts under 2025
-1. Uppföljning av direktupphandlingar (köpnivå 4–5)
+1\. Uppföljning av direktupphandlingar (köpnivå 4–5)
 
 Granskning har genomförts av fyra direktupphandlingar enligt urval från Inköp. Vid närmare granskning
 visade sig en vara ett köp enligt avtal så i praktiken har tre granskningar gjorts. Generellt visar granskningen
@@ -1953,10 +1953,10 @@ att förvaltningen följer gällande process i mycket hög utsträckning och att
 vissa brister när det gäller dokumentation. Vid intervjuer har vi konstaterat att detta beror på att användarna
 upplever att det i vissa fall är otydligt vad som ska dokumenteras, men också hur och var. Dialog har förts med
 personalen vid granskningen därför ser förvaltningen inget behov av ytterligare åtgärder baserat på resultatet.
-2. Granskning av köp över direktupphandlingsnivån (köpnivå 6) utanför regelverket
+2\. Granskning av köp över direktupphandlingsnivån (köpnivå 6) utanför regelverket
 Ingen direktupphandling på denna nivå har genomförts i förvaltningen under perioden.
 
-3. Avtalsuppföljning enligt gällande styrdokument
+3\. Avtalsuppföljning enligt gällande styrdokument
 Uppföljning av tre avtal har granskats enligt urval från Inköp. Det är avtal för teckenspråkstolk,
 verksamhetssystemet ByggR samt ramavtal för "konsulttjänster - utvecklare". Granskningen visar att
 avtalsuppföljning genomförts för samtliga avtal i enlighet med styrdokumenten. Frekvensen varierar beroende
@@ -1998,7 +1998,7 @@ Kommunövergripande risk: förvaltningarnas arbete med att utveckla krislednings
 verksamhet
 
 För denna risk har två granskningsaktiviteter genomförts under 2025
-1. Uppföljning av förvaltningarnas systematiska beredskapsarbete
+1\. Uppföljning av förvaltningarnas systematiska beredskapsarbete
 Granskningen visar att bygg- och miljöförvaltningens systematiska beredskapsarbete har sammanställts i en
 årsberättelse. De viktigaste punkterna som lyfts är:
 
@@ -2013,7 +2013,7 @@ Stabsövningar - Praktiska övningar i stabsmetodik har genomförts
 (cid:120) Krisledningsstaben har gjort en lärande övning (heldag) i april 2025 samt en kortare beredskapsövning
 (svara på SMS från beslutsfattaren)
 
-2. Granskning av kontinuitetshantering
+2\. Granskning av kontinuitetshantering
 Granskningen visar att arbete gjorts för att ta fram kontinuitetsplaner för förvaltningens kritiska verksamheter.
 Arbetet är i slutskedet för livsmedelskontroll, miljöbalkstillsyn och utlämnande av allmän handling. Geodata
 har påbörjat arbetet.
@@ -2271,9 +2271,9 @@ Bygg- och miljöförvaltningen har upprättat förslag till ombudget och resulta
 Byggnadsnämnden redovisar ett positivt resultat jämför med budget 2025 på
 1 702 000 kronor. Nämnden begär följande resultatdisponering:
 
-* Kvarvarande budget för internränta, 7 000 kronor, återredovisas enligt kommunens
+\* Kvarvarande budget för internränta, 7 000 kronor, återredovisas enligt kommunens
 Ekonomistyrprinciper.
-* Resterande överskott, 1 695 000 kronor, förs till nämndens resultatfond. Beloppet
+\* Resterande överskott, 1 695 000 kronor, förs till nämndens resultatfond. Beloppet
 inkluderar överskott för projektbudget kartutveckling på 4 000 kronor.
 
 Beslutsunderlag
@@ -2313,7 +2313,7 @@ nednmänsdanggyB
 gnirenopsidtatluser
 mo
 narägeb
--
+\-
 gninsivoderstfirD
 rkt
 i ppoleb

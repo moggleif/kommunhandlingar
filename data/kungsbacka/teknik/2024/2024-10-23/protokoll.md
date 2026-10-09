@@ -132,7 +132,7 @@ Sammanfattning av ärendet
 utgår från dagens sammanträde.
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
--  Initiativärende angående – Ett grönt spadtag för gemenskap.
+\-  Initiativärende angående – Ett grönt spadtag för gemenskap.
 
 Ärendet behandlas efter initiativärendet angående prioritering av skötselytor, § 105.
 
@@ -416,7 +416,7 @@ Datum
 
 § 110                      Dnr TE-2024-00837
 Begäran om yttrande - Länsövergripande nödvattenplan (KS-2024-
-00511)
+00511\)
 
 Beslut
 Nämnden för Teknik ger ordförande i uppdrag att avge Tekniks yttrande till
@@ -476,27 +476,27 @@ Sammanfattning av ärendet
 Under perioden 9 september – 16 oktober har följande skrivelser inkommit till
 nämnden för Teknik:
 
-- Dataskyddsombudets råd om AI och personuppgifter, KS 2024-00114
-- Bestridande av fakturor - Hanhals 3:5, Hanhals 14:12, Hanhals 2:5, Hanhals 2:9,
+\- Dataskyddsombudets råd om AI och personuppgifter, KS 2024-00114
+\- Bestridande av fakturor - Hanhals 3:5, Hanhals 14:12, Hanhals 2:5, Hanhals 2:9,
 Hanhals 10:12 samt Hanhals 4:2
 
-- Till Tekniska nämnden - Beträffande Vatten- och avloppsutbyggnad i Runsås
-- Beslut - 202400536 - KS - § 205
+\- Till Tekniska nämnden - Beträffande Vatten- och avloppsutbyggnad i Runsås
+\- Beslut - 202400536 - KS - § 205
 
-- Tjänsteskrivelse - Intern kontroll 2025 för kommunstyrelsen
-- Intern kontrollplan 2025 Kommunstyrelsen
+\- Tjänsteskrivelse - Intern kontroll 2025 för kommunstyrelsen
+\- Intern kontrollplan 2025 Kommunstyrelsen
 
-- Dialog med invånare: konversation via telefon
-- Beslut - 202400778 - TE - § 33
+\- Dialog med invånare: konversation via telefon
+\- Beslut - 202400778 - TE - § 33
 
-- Tjänsteskrivelse om att inleda upphandling om insamlingsentreprenad för avfall –
+\- Tjänsteskrivelse om att inleda upphandling om insamlingsentreprenad för avfall –
 TE-2024-00778
 
-- Personadresserad skrivelse till kommunstyrelsen – KS 2024-00696
-- Till Tekniska enheten: Övertagande ledningsnät Runsås Reningsverk
+\- Personadresserad skrivelse till kommunstyrelsen – KS 2024-00696
+\- Till Tekniska enheten: Övertagande ledningsnät Runsås Reningsverk
 
-- Överklagan 2024-03-04 - Tillsynsärende dagvatten Örsviken
-- Tillsynsärende dagvatten Örsviken, Till Bygg- och miljöförvaltningen samt Teknik-
+\- Överklagan 2024-03-04 - Tillsynsärende dagvatten Örsviken
+\- Tillsynsärende dagvatten Örsviken, Till Bygg- och miljöförvaltningen samt Teknik-
 förvaltningen
 
 Beslutsgång
@@ -558,8 +558,8 @@ Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om att bland annat:
 
--  Kungsbacka ska delta i ett par nationella digitaliseringsinitiativ
--  SVAR-rapporten om stärkt försörjningssamverkan avseende dricksvatten i
+\-  Kungsbacka ska delta i ett par nationella digitaliseringsinitiativ
+\-  SVAR-rapporten om stärkt försörjningssamverkan avseende dricksvatten i
 Göteborgsregionen är klar
 
 Beslutsgång

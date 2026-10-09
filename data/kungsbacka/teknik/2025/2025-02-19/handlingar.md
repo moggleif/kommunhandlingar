@@ -189,7 +189,7 @@ Avser investeringar exklusive exploateringsprojekt
 Kommentarer till investeringar, skattefinansierad verksamhet
 Helårsutfall är 52,1 mnkr exkl. exploateringsprojekt. GC-väg längs Vallbyvägen, vilken är en statlig
 anläggning, har färdigställts. Kostnaden belastar kommunstyrelsens resultat enligt beslut i Kommunfullmäktige
-2024. Breddning av GC-bana över järnvägen vid Inlagsleden pågår och öppnar för trafik 2027. Stora
+2024\. Breddning av GC-bana över järnvägen vid Inlagsleden pågår och öppnar för trafik 2027. Stora
 reinvesteringar har gjorts under året i beläggning och utbyte till LED. Upparbetningstakten av tillgängliga medel
 var under året 102% vilket uppnåtts tack vare aktiv omplanering under året.
 Investeringar Vatten & Avlopp, miljoner kronor
@@ -434,10 +434,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning och nämndens bedömning
 
 Vi har nått målet
@@ -516,11 +516,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning och nämndens bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -597,8 +597,8 @@ Nämndens årsredovisning 2024
 
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Sammanfattning av nämndens arbete med målet
 Vi vill lyfta fram våra fem viktigaste arbeten som vi bedömer har givit störst effekt och nytta för invånarna:
@@ -663,8 +663,8 @@ tillitsfulla relationer i vardagen för att kunna bli mer snabbfotade och lösni
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Kommunövergripande bedömning och nämndens bedömning
 Vi har nått målet
@@ -684,12 +684,12 @@ eller natur, ett initiativ där planering för detta sker nu.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Kommunövergripande bedömning och nämndens bedömning
 Vi har inte nått målet men är på rätt väg
@@ -731,7 +731,7 @@ max 180. Jämix
 103          114               122
 beräknas utifrån nio
 nyckeltal med skala 1–
-20.
+20\.
 3.5.1 Vi arbetar både målstyrande och målsökande och ökar takten i vårt innovationsarbete
 Beslutats av
 Nämnd
@@ -1071,7 +1071,7 @@ Nämndens årsredovisning 2024
 
 Område           Status Beskrivning           Kommentar
 Vi lovar:
-- Att när du kontaktar oss på
+\- Att när du kontaktar oss på
 Teknik ger vi dig ett gott
 bemötande och återkoppling
 inom två arbetsdagar samt svar
@@ -1081,7 +1081,7 @@ Kommunikation           ärende är avslutat.
 Då vill vi att du som
 kommuninvånare hjälper oss
 genom att:
-- Använda anvisade
+\- Använda anvisade
 kontaktvägar.
 
 26
@@ -1626,7 +1626,7 @@ Kommentar till budgetavvikelse helår 2024
 Årets resultat är ett underskott på 10,3 miljoner kronor, att jämföra med ett budgeterat resultat på - 0,7 miljoner
 kronor. Årets avvikelse är därmed -9,6 miljoner kronor.
 Intäkterna är 8,4 miljoner kronor lägre jämfört med budget. Brukningsavgifterna höjdes med 5 procent inför
-2024. Kostnaderna är 2,1 miljoner kronor högre än budget.
+2024\. Kostnaderna är 2,1 miljoner kronor högre än budget.
 
 37
 
@@ -2178,17 +2178,17 @@ Nämndens årsredovisning 2024
 
 Det här är Tekniks fem viktigaste förflyttningar under året samt dess koppling till FNs globala mål, se vidare
 nedan under resp. målredovisning.
-1. Teknik är en arbetsplats som kan hjälpa unga att lyckas i skolan och med sina liv.
-2. Sättet vi bygger en hållbar stad för framtiden och särskilt satsningen på mer medveten vattenhantering i
+1\. Teknik är en arbetsplats som kan hjälpa unga att lyckas i skolan och med sina liv.
+2\. Sättet vi bygger en hållbar stad för framtiden och särskilt satsningen på mer medveten vattenhantering i
 samhället och att vara en än mer attraktiv cykelstad.
-3. Mer intensivt stöd till invånarna att hamna så långt upp i avfallstrappan som möjligt genom god
+3\. Mer intensivt stöd till invånarna att hamna så långt upp i avfallstrappan som möjligt genom god
 sortering av det avfall som uppstår vid konsumtion samt underlättande av deras avstående från
 konsumtion till förmån för t ex återbruk.
-4. Arbetet med Framtidens avloppsrening via byggprojekten för Ölmanäs reningsverk som byggdes om
+4\. Arbetet med Framtidens avloppsrening via byggprojekten för Ölmanäs reningsverk som byggdes om
 under året och Hammargårds reningsverk som startades på allvar. Tidiga vägval kring utformning och
 material i byggnaderna kommer möjliggöra resan mot god ekologisk status i havet samtidigt som
 ekonomisk hållbarhet över tid uppnås.
-5. Fler ytor där den biologiska mångfalden kan öka samtidigt som vi får en ekonomi i balans
+5\. Fler ytor där den biologiska mångfalden kan öka samtidigt som vi får en ekonomi i balans
 
 Mål 4. God utbildning
 Teknik kan, som alla förvaltningar, bidra till att elever får tillgång till trygga lärmiljöer och klarar sin skolgång.
@@ -2740,7 +2740,7 @@ Kommentar till budgetavvikelse helår 2024
 kronor. Årets avvikelse är därmed -9,6 miljoner kronor.
 
 Intäkterna är 8,4 miljoner kronor lägre jämfört med budget. Brukningsavgifternahöjdes med 5 procent inför
-2024. Kostnaderna är 2,1 miljoner kronor högre än budget.
+2024\. Kostnaderna är 2,1 miljoner kronor högre än budget.
 Kommentar och analys inför framtiden
 
 På kort sikt kommer vi att belastas med ökade försäkringskostnader på grund av flertalet kraftiga skyfall som
@@ -3341,7 +3341,7 @@ KS 2024-00300 gällande från 1 januari 2025
 
 [Tabell 77-1](handlingar.tabeller/77-1.csv)
 
-| 4.5 Fastighetsnära<br>insamling av bygg-<br>och rivningsavfall | Maxtaxor<br>uppräknade<br>enligt<br>avfallsindex | Följande priser:<br>Container liten (6–18 kbm) 4 281<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 832<br>7 500<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Avfall innehållande asbest 3 750<br>Energiåtervinning 2 200<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 500<br>Förorenad jord (invasiva växter) 8 200<br>Gips 2 500<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Metall 350<br>Mineral* 2 882<br>Osorterat/sammansatt bygg- och rivningsavfall** 2 500<br>Planglas 2 619<br>Plast (inkl. eftersortering) 2 700<br>Tryckimpregnerat trä/slipers 2 330<br>Trä 1 120<br>Övrigt bygg- och rivningsavfall 2 619<br>Grundavgift 6 850<br>Styckpris storsäck (1 kbm) 229<br>El-avfall 1 500<br>Energiåtervinning 1 500<br>Gips 1 000 |  |  |  |
+| 4.5 Fastighetsnära<br>insamling av bygg-<br>och rivningsavfall | Maxtaxor<br>uppräknade<br>enligt<br>avfallsindex | Följande priser:<br>Container liten (6–18 kbm) 4 281<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 832<br>7 500<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Avfall innehållande asbest 3 750<br>Energiåtervinning 2 200<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 500<br>Förorenad jord (invasiva växter) 8 200<br>Gips 2 500<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Metall 350<br>Mineral\* 2 882<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 500<br>Planglas 2 619<br>Plast (inkl. eftersortering) 2 700<br>Tryckimpregnerat trä/slipers 2 330<br>Trä 1 120<br>Övrigt bygg- och rivningsavfall 2 619<br>Grundavgift 6 850<br>Styckpris storsäck (1 kbm) 229<br>El-avfall 1 500<br>Energiåtervinning 1 500<br>Gips 1 000 |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  | Grundavgift | 6 850 |  |
 |  |  |  | Styckpris storsäck (1 kbm) | 229 |  |
@@ -3367,8 +3367,8 @@ KS 2024-00300 gällande från 1 januari 2025
 | Gips | 2 500 |  |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 400 |  |
 | Metall | 350 |  |
-| Mineral* | 2 882 |  |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 500 |  |
+| Mineral\* | 2 882 |  |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 500 |  |
 | Planglas | 2 619 |  |
 | Plast (inkl. eftersortering) | 2 700 |  |
 | Tryckimpregnerat trä/slipers | 2 330 |  |
@@ -3379,11 +3379,11 @@ KS 2024-00300 gällande från 1 januari 2025
 
 [Tabell 78-1](handlingar.tabeller/78-1.csv)
 
-|  |  | Kablar (ej farligt avfall) 1 000<br>Metall 175<br>Mineral* 2 885<br>Osorterat/sammansatt bygg- och rivningsavfall** 2 000<br>Planglas 1 500<br>Plast 1 000<br>Tryckimpregnerat trä/slipers 1 165<br>Trä 560<br>Övrigt bygg- och rivningsavfall 2 000<br>Felsorteringsavgift container 4 800<br>Felsorteringsavgift storsäck 1 500<br>Byts till:<br>Container liten (6–18 kbm) 4 332<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 902<br>7 590<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Avfall innehållande asbest 3 795<br>Energiåtervinning 2 226<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 590<br>Förorenad jord (invasiva växter) 8 298<br>Gips 2 530<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Metall 354 | Kablar (ej farligt avfall) | 1 000 |  |  |
+|  |  | Kablar (ej farligt avfall) 1 000<br>Metall 175<br>Mineral\* 2 885<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 000<br>Planglas 1 500<br>Plast 1 000<br>Tryckimpregnerat trä/slipers 1 165<br>Trä 560<br>Övrigt bygg- och rivningsavfall 2 000<br>Felsorteringsavgift container 4 800<br>Felsorteringsavgift storsäck 1 500<br>Byts till:<br>Container liten (6–18 kbm) 4 332<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 902<br>7 590<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Avfall innehållande asbest 3 795<br>Energiåtervinning 2 226<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 590<br>Förorenad jord (invasiva växter) 8 298<br>Gips 2 530<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Metall 354 | Kablar (ej farligt avfall) | 1 000 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | Metall | 175 |  |  |
-|  |  |  | Mineral* | 2 885 |  |  |
-|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall** | 2 000 |  |  |
+|  |  |  | Mineral\* | 2 885 |  |  |
+|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 000 |  |  |
 |  |  |  | Planglas | 1 500 |  |  |
 |  |  |  | Plast | 1 000 |  |  |
 |  |  |  | Tryckimpregnerat trä/slipers | 1 165 |  |  |
@@ -3415,9 +3415,9 @@ KS 2024-00300 gällande från 1 januari 2025
 
 [Tabell 79-1](handlingar.tabeller/79-1.csv)
 
-|  |  | Mineral* 2 917<br>Osorterat/sammansatt bygg- och rivningsavfall** 2 530<br>Planglas 2 650<br>Plast (inkl. eftersortering) 2 732<br>Tryckimpregnerat trä/slipers 2 358<br>Trä 1 133<br>Övrigt bygg- och rivningsavfall 2 650<br>Grundavgift 6 932<br>Styckpris storsäck (1 kbm) 232<br>El-avfall 1 518<br>Energiåtervinning 1 518<br>Gips 1 012<br>Kablar (ej farligt avfall) 1 012<br>Metall 177<br>Mineral* 2 920<br>Osorterat/sammansatt bygg- och rivningsavfall** 2 024<br>Planglas 1 518<br>Plast 1 012<br>Tryckimpregnerat trä/slipers 1 179<br>Trä 567<br>Övrigt bygg- och rivningsavfall 2 024<br>Felsorteringsavgift container 4 858<br>Felsorteringsavgift storsäck 1 518 | Mineral* | 2 917 |  |
+|  |  | Mineral\* 2 917<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 530<br>Planglas 2 650<br>Plast (inkl. eftersortering) 2 732<br>Tryckimpregnerat trä/slipers 2 358<br>Trä 1 133<br>Övrigt bygg- och rivningsavfall 2 650<br>Grundavgift 6 932<br>Styckpris storsäck (1 kbm) 232<br>El-avfall 1 518<br>Energiåtervinning 1 518<br>Gips 1 012<br>Kablar (ej farligt avfall) 1 012<br>Metall 177<br>Mineral\* 2 920<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 024<br>Planglas 1 518<br>Plast 1 012<br>Tryckimpregnerat trä/slipers 1 179<br>Trä 567<br>Övrigt bygg- och rivningsavfall 2 024<br>Felsorteringsavgift container 4 858<br>Felsorteringsavgift storsäck 1 518 | Mineral\* | 2 917 |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall** | 2 530 |  |
+|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 530 |  |
 |  |  |  | Planglas | 2 650 |  |
 |  |  |  | Plast (inkl. eftersortering) | 2 732 |  |
 |  |  |  | Tryckimpregnerat trä/slipers | 2 358 |  |
@@ -3438,8 +3438,8 @@ KS 2024-00300 gällande från 1 januari 2025
 | Gips | 1 012 |  |
 | Kablar (ej farligt avfall) | 1 012 |  |
 | Metall | 177 |  |
-| Mineral* | 2 920 |  |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 024 |  |
+| Mineral\* | 2 920 |  |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 024 |  |
 | Planglas | 1 518 |  |
 | Plast | 1 012 |  |
 | Tryckimpregnerat trä/slipers | 1 179 |  |
@@ -3472,17 +3472,17 @@ kungsbacka.se
 <!-- sida 82 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................... 3
+1\. Inledande bestämmelser ........................................................................................... 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper .............................................................. 3
 1.3 Ägarbyte .................................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ...................................................................................................... 4
+2\. Beräkningsgrunder ...................................................................................................... 4
 
-3. Mervärdesskatt ............................................................................................................ 5
-4. Avgiftsbelopp/taxetabell ........................................................................................... 5
+3\. Mervärdesskatt ............................................................................................................ 5
+4\. Avgiftsbelopp/taxetabell ........................................................................................... 5
 
 4.1 Allmän information ................................................................................................ 5
 4.2 Abonnemangsformer ............................................................................................ 5
@@ -3500,7 +3500,7 @@ Kungsbacka kommun         Avfallstaxa 2025                    2
 
 <!-- sida 83 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 27 kap. 4–6 §§ miljöbalken. Avgift ska betalas till Kungsbacka kommun eller till den som
@@ -3569,7 +3569,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -3608,10 +3608,10 @@ Kungsbacka kommun         Avfallstaxa 2025                    4
 
 <!-- sida 85 -->
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 
@@ -3683,8 +3683,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    7
 
@@ -3696,14 +3696,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    7
 
 [Tabell 87-2](handlingar.tabeller/87-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka,<br>helår | 2 660 | 2 660 | 5 735 |
 |  | Var fjärde vecka,<br>helår | Inte valbar | 2 045 | Inte valbar |
 | 190 liter | Varannan vecka,<br>helår | 3 255 | 3 255 | 7 245 |
 |  | Var fjärde vecka,<br>helår | Inte valbar | 2 305 | Inte valbar |
 | 370 liter | Varannan vecka,<br>helår | 5 005 | 5 005 | 9 220 |
-| 660 liter** | Varannan vecka,<br>helår | 12 920 | 12 920 | 20 445 |
+| 660 liter\*\* | Varannan vecka,<br>helår | 12 920 | 12 920 | 20 445 |
 
 <!-- sida 88 -->
 
@@ -3716,8 +3716,8 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
-** Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang/ändra till Matavfall och Brännbart Restavfall Blandat
+\*\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2025                    8
 
@@ -3729,14 +3729,14 @@ Kungsbacka kommun         Avfallstaxa 2025                    8
 
 [Tabell 88-2](handlingar.tabeller/88-2.csv)
 
-| Kärlstorlek restavfall | Hämtningsinterval<br>l | Matavfall blir<br>Biogas | Egen<br>Varmkompos<br>t | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat* |
+| Kärlstorlek restavfall | Hämtningsinterval<br>l | Matavfall blir<br>Biogas | Egen<br>Varmkompos<br>t | Matavfall och<br>Brännbart<br>Restavfall<br>Blandat\* |
 | --- | --- | --- | --- | --- |
 | 130 liter | Varannan vecka,<br>delår | 1 325 | 1 325 | 2 865 |
 |  | Var fjärde vecka,<br>delår | Inte valbar | 1 025 | Inte valbar |
 | 190 liter | Varannan vecka,<br>delår | 1 630 | 1 630 | 3 625 |
 |  | Var fjärde vecka,<br>delår | Inte valbar | 1 155 | Inte valbar |
 | 370 liter | Varannan vecka,<br>delår | 2 505 | 2 505 | 4 610 |
-| 660 liter** | Varannan vecka,<br>delår | 6 460 | 6 460 | 10 225 |
+| 660 liter\*\* | Varannan vecka,<br>delår | 6 460 | 6 460 | 10 225 |
 
 <!-- sida 89 -->
 
@@ -3811,7 +3811,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -3838,7 +3838,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   10
 
 [Tabell 90-2](handlingar.tabeller/90-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -4222,7 +4222,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -4250,7 +4250,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   18
 
 [Tabell 98-2](handlingar.tabeller/98-2.csv)
 
-| Kärl 240 liter* | 2 135 |
+| Kärl 240 liter\* | 2 135 |
 | --- | --- |
 | Kärl 370 liter | 2 490 |
 
@@ -4394,7 +4394,7 @@ avfallslämnare och godkänd entreprenör.
 Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får debitera
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -4407,7 +4407,7 @@ Kungsbacka kommun         Avfallstaxa 2025                   21
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat<br>i container, per container och hämtningstillfälle | 7000 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten<br>behållare/tank (ABP-avfall, kategori 3), per behållare och<br>hämtning | 10 000 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande<br>ätligt fett, per behållare och hämtningstillfälle | 600 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning * | 7000 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner.<br>Exempelvis kasserade produkter, textilavfall eller avfall som<br>uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet, per hämtning \* | 7000 |
 
 <!-- sida 102 -->
 
@@ -4430,9 +4430,9 @@ Grundavgift container
 9 kbm
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
+\* Som består av sten, tegel, betong, klinker eller keramik
 
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 Kungsbacka kommun         Avfallstaxa 2025                   22
 
@@ -4454,8 +4454,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   22
 | Gips | 2 530 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 477 |
 | Metall | 354 |
-| Mineral* | 2 917 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 530 |
+| Mineral\* | 2 917 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 530 |
 | Planglas | 2 650 |
 | Plast (inkl. eftersortering) | 2 732 |
 | Tryckimpregnerat trä/slipers | 2 358 |
@@ -4474,8 +4474,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 4.5.3 Övriga avgifter
@@ -4504,8 +4504,8 @@ Kungsbacka kommun         Avfallstaxa 2025                   23
 | Gips | 1 012 |
 | Kablar (ej farligt avfall) | 1 012 |
 | Metall | 177 |
-| Mineral* | 2 920 |
-| Osorterat/sammansatt bygg- och<br>rivningsavfall** | 2 024 |
+| Mineral\* | 2 920 |
+| Osorterat/sammansatt bygg- och<br>rivningsavfall\*\* | 2 024 |
 | Planglas | 1 518 |
 | Plast | 1 012 |
 | Tryckimpregnerat trä/slipers | 1 179 |
@@ -4831,7 +4831,7 @@ Bilaga 5. Komplettering av VA-Utbyggnadsområde - Hagryd-Dala
 
 Bilagor 1 – 19 VA-Verksamhetsområde 2024, 2025-01-31 TE-2025-00019
 
-6. VA-Utbyggnadsområde – Altardalsvägen
+6\. VA-Utbyggnadsområde – Altardalsvägen
 Verksamhetsområde för dricksvatten och spillvatten är markerat med rosa.
 
 Syftet med beslut om verksamhetsområde är att genom genomförande av VA-utbyggnadsplanen
@@ -5257,7 +5257,7 @@ Gårdskullavägen, enligt bilaga 11
 
 Benjaminssons Väg, enligt bilaga 12
 •  Verksamhetsområde för dricksvatten och spillvatten för Hanhals - Heavägen, enligt bilaga
-13.
+13\.
 
 •  Verksamhetsområde för dricksvatten och spillvatten för Hanhals - Vårdkaseberg, enligt
 bilaga 14
@@ -5526,14 +5526,14 @@ berusningssyfte på offentliga platser och platser som jämställs med offentlig
 kommun.
 Förbudet bör gälla inom kommunens samtliga tätorter enligt karta nedan under punkt 5
 
-1. Bakgrund och syfte
+1\. Bakgrund och syfte
 
 Missbruk av lustgas (N2O) har på senare tid blivit ett växande problem i Kungsbacka. Förtäring av
 lustgas i berusningssyfte innebär risker för både hälsa och säkerhet. Förvaltningen bedömer att ett
 förbud mot förtäring av lustgas på offentliga platser skulle kunna bidra till att minska dessa risker och
 förbättra ordningen på de berörda platserna.
 
-2. Hälsorisker och säkerhetsproblem
+2\. Hälsorisker och säkerhetsproblem
 
 Förtäring av lustgas för missbruk kan leda till allvarliga hälsoproblem, inklusive syrebrist,
 medvetslöshet och i vissa fall dödsfall. En ny sort av lustgas, som nyligen påträffades vid
@@ -5542,7 +5542,7 @@ reproduktionsstörande och kan skada fertiliteten.
 Användning av lustgas ökar dessutom risken för olyckor, särskilt om användningen sker nära trafik
 eller andra farliga miljöer. Vi bedömer att ett förbud skulle kunna minska dessa risker.
 
-3. Störningar i allmän ordning
+3\. Störningar i allmän ordning
 
 Risk finns för en ökad oro bland invånare och besökare angående de störningar som missbruk av
 lustgas kan orsaka på platser såsom torg, parker och gator. Förtäring av lustgas leder ibland till
@@ -5563,7 +5563,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (5)
 
-4. Nedskräpning, kostnader och trygghet
+4\. Nedskräpning, kostnader och trygghet
 
 Förvaltningen för Teknik har registrerat en ökad nedskräpning i form av tomma lustgastuber. Tuber
 ligger slängda i naturen och då främst i diken, buskar och på skolgårdar runt om i kommunen. Dessa
@@ -5573,7 +5573,7 @@ för förvaltningen för Teknik, därtill kommer arbetstiden för att samla in d
 Nedskräpning och ovårdad utemiljö bidrar även mycket till otrygghetskänsla. Platserna signalerar brist
 på mänsklig närvaro och omsorg som i sin tur leder till otrygghet.
 
-5. Rättsliga och praktiska överväganden
+5\. Rättsliga och praktiska överväganden
 
 Under samråd med polisen framkom vikten av att förbudet ska gälla så stora områden som möjligt.
 Detta för att undvika ”frizoner” där förbudet inte gäller. Om områdena är för små blir förbudet
@@ -5614,7 +5614,7 @@ utformas så de innefattar dessa tätorter.
 KUNGSBACKA  KOMMUN
 4 (5)
 
-6. Förvaltningens förslag
+6\. Förvaltningens förslag
 
 Förvaltningen föreslår att införa ett förbud mot förtäring av lustgas i berusningssyfte på offentliga
 platser inom Kungsbacka kommun. Förvaltningen anser att ett sådant förbud skulle kunna förbättra
@@ -5626,7 +5626,7 @@ med missbruk av lustgas.
 KUNGSBACKA  KOMMUN
 5 (5)
 
-7. Alternativa beslut
+7\. Alternativa beslut
 
 Att inte införa ett förbud mot lustgas i berusningssyfte skulle behålla dagens situation. Fler och fler
 kommuner i Sverige väljer att införa förbud i frågan och Kungsbacka skulle då välja att inte följa
@@ -5836,7 +5836,7 @@ KUNGSBACKA       KOMMUN
 Innehållsförteckning
 
 Sammanfattning ....................................................................................................................... 4
-1.  Inledning ......................................................................................................................... 5
+1\.  Inledning ......................................................................................................................... 5
 
 1.1. Bakgrund ........................................................................................................................ 5
 1.2. Syfte och revisionsfrågor ................................................................................................ 5
@@ -5845,11 +5845,11 @@ Sammanfattning .................................................................
 1.4. Metod .............................................................................................................................. 5
 
 1.5. Avgränsningar och ansvariga nämnder ......................................................................... 5
-2.  Organisation av upphandling och avtalsuppföljning ............................................... 6
+2\.  Organisation av upphandling och avtalsuppföljning ............................................... 6
 
 2.1. Organisation och ansvarsfördelning i upphandlingsprocessen och avtalsuppföljning är
 inte tydligt dokumenterat ................................................................................................ 6
-3.  Riskanalyser av oegentligheter i upphandlingsprocessen...................................... 7
+3\.  Riskanalyser av oegentligheter i upphandlingsprocessen...................................... 7
 
 3.1. Vår bedömning ............................................................................................................... 7
 3.2. Det framgår inte av styrdokument att riskanalys ska genomföras i
@@ -5858,7 +5858,7 @@ upphandlingsprocessen eller inför avtalsskrivning .............................
 3.3. Nämnden för Service har inte riskvärderat oegentligheter i upphandlingsprocessen
 eller under avtalsperioder i sin årliga riskanalys ............................................................ 7
 
-4.  Möjlighet att stänga ute oseriösa leverantörer .......................................................... 9
+4\.  Möjlighet att stänga ute oseriösa leverantörer .......................................................... 9
 4.1. Vår bedömning ............................................................................................................... 9
 
 4.2. Brottsförebyggande rådet............................................................................................... 9
@@ -5867,7 +5867,7 @@ eller under avtalsperioder i sin årliga riskanalys ............................
 4.4. Möjligheterna att utestänga oseriösa leverantörer under avtalsperiod kan stärkas ... 10
 4.4.1. Avtalsmallar .............................................................................................................. 11
 
-5.  Förhindra och upptäcka oegentligheter i upphandlingsprocessen samt kontroll
+5\.  Förhindra och upptäcka oegentligheter i upphandlingsprocessen samt kontroll
 och uppföljning av externa utförare.......................................................................... 13
 5.1. Vår bedömning ............................................................................................................. 13
 
@@ -5876,7 +5876,7 @@ utförare men dessa följs inte ................................................
 5.3. Samtliga kommunens nämnder ska granska privata utförare och avtalssamverkan
 
 inom ramen för internkontrollplanen ............................................................................ 14
-6.  Kontrollmiljö avseende uppföljning av avtalsefterlevnad...................................... 15
+6\.  Kontrollmiljö avseende uppföljning av avtalsefterlevnad...................................... 15
 
 6.1. Vår bedömning ............................................................................................................. 15
 6.2. Det finns riktlinjer för uppföljning av avtal men dessa efterlevs inte ........................... 15
@@ -5888,18 +5888,18 @@ leverantörer...................................................................
 
 <!-- sida 152 -->
 
-7.  Kanaler för att rapportera om oegentligheter .......................................................... 18
+7\.  Kanaler för att rapportera om oegentligheter .......................................................... 18
 
 7.1. Vår bedömning ............................................................................................................. 18
 7.2. Visselblåsarfunktion ..................................................................................................... 18
 
 7.3. Andra rapporteringskanaler.......................................................................................... 18
-8.  Nämndens uppföljning av upphandlingsprocessen och avtalsuppföljning ........ 19
+8\.  Nämndens uppföljning av upphandlingsprocessen och avtalsuppföljning ........ 19
 
 8.1. Vår bedömning ............................................................................................................. 19
 8.2. Uppföljningen av upphandlingsprocessen kan stärkas ............................................... 19
 
-9.  Samlad bedömning ..................................................................................................... 20
+9\.  Samlad bedömning ..................................................................................................... 20
 9.1. Bedömning utifrån revisionsfrågorna ........................................................................... 20
 
 9.2. Slutsatser ...................................................................................................................... 21
@@ -5967,7 +5967,7 @@ internkontrollarbete.
 
 <!-- sida 154 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -6016,7 +6016,7 @@ Granskningen avgränsas i enlighet med revisionsfrågorna.
 
 <!-- sida 155 -->
 
-2. Organisation av upphandling och avtalsuppföljning
+2\. Organisation av upphandling och avtalsuppföljning
 
 2.1. Organisation och ansvarsfördelning i upphandlingsprocessen och
 
@@ -6070,7 +6070,7 @@ ansvarar för uppföljning av avtal som skett genom direktupphandling.
 
 <!-- sida 156 -->
 
-3. Riskanalyser av oegentligheter i upphandlingsprocessen
+3\. Riskanalyser av oegentligheter i upphandlingsprocessen
 
 3.1. Vår bedömning
 
@@ -6156,7 +6156,7 @@ oegentligheter eller upphandling har dock identifierats:
 
 <!-- sida 158 -->
 
-4. Möjlighet att stänga ute oseriösa leverantörer
+4\. Möjlighet att stänga ute oseriösa leverantörer
 
 4.1. Vår bedömning
 
@@ -6331,7 +6331,7 @@ leverantörer har identifierats.
 
 <!-- sida 162 -->
 
-5. Förhindra och upptäcka oegentligheter i upphandlingsprocessen
+5\. Förhindra och upptäcka oegentligheter i upphandlingsprocessen
 
 samt kontroll och uppföljning av externa utförare
 
@@ -6435,7 +6435,7 @@ För samtliga nämnder ska avrapportering ske i februari 2025.
 
 <!-- sida 164 -->
 
-6. Kontrollmiljö avseende uppföljning av avtalsefterlevnad
+6\. Kontrollmiljö avseende uppföljning av avtalsefterlevnad
 
 6.1. Vår bedömning
 
@@ -6500,14 +6500,14 @@ Göteborg.
 
 Avtal upphandlade av Kungsbacka kommun har granskats gentemot följande
 kontrollpunkter:
-1. Har korrekt upphandlingstyp tillämpats?
-2. Är upphandlingen dokumenterad?
-3. Har kontroller gjorts och dokumenterats inför avtalsskrivning?
+1\. Har korrekt upphandlingstyp tillämpats?
+2\. Är upphandlingen dokumenterad?
+3\. Har kontroller gjorts och dokumenterats inför avtalsskrivning?
 
-4. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
-5. Regleras uppföljning i avtalet?
-6. Finns en plan för uppföljning i enlighet med riktlinjer för inköp?
-7. Har uppföljning av avtal genomförts och dokumenteras under avtalsperioden?
+4\. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
+5\. Regleras uppföljning i avtalet?
+6\. Finns en plan för uppföljning i enlighet med riktlinjer för inköp?
+7\. Har uppföljning av avtal genomförts och dokumenteras under avtalsperioden?
 
 Stickprov av avtal inom Nämnden för Tekniks verksamheter5
 
@@ -6552,11 +6552,11 @@ kallar till uppföljningsmöte under avtalsperioden och för mötesanteckningar.
   Uppföljning av avtalet har gjorts av i ett fall.
 
 Göteborgs Stads avtal har granskats gentemot följande kontrollpunkter:
-1. Har Kungsbacka säkerställt att kontroller gjorts och dokumenterats inför
+1\. Har Kungsbacka säkerställt att kontroller gjorts och dokumenterats inför
 avtalsskrivning?
-2. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
-3. Regleras uppföljning i avtalet?
-4. Har Kungsbacka säkerställt att uppföljning genomförts under avtalsperioden?
+2\. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
+3\. Regleras uppföljning i avtalet?
+4\. Har Kungsbacka säkerställt att uppföljning genomförts under avtalsperioden?
 
 Stickprov av avtal från Göteborgs stad som används inom Nämnden för Individ och
 Familjeomsorgs verksamheter
@@ -6589,7 +6589,7 @@ vissa ramavtal och inköpschefen på inköpsenheten undertecknat vissa ramavtal.
 
 <!-- sida 167 -->
 
-7. Kanaler för att rapportera om oegentligheter
+7\. Kanaler för att rapportera om oegentligheter
 
 7.1. Vår bedömning
 
@@ -6639,7 +6639,7 @@ vara anonym och anmäla synpunkter kopplat till klagomål, beröm och förslag p
 
 <!-- sida 168 -->
 
-8. Nämndens  uppföljning av upphandlingsprocessen  och
+8\. Nämndens  uppföljning av upphandlingsprocessen  och
 
 avtalsuppföljning
 
@@ -6674,7 +6674,7 @@ med fullmäktiges program.
 
 <!-- sida 169 -->
 
-9. Samlad bedömning
+9\. Samlad bedömning
 
 9.1. Bedömning utifrån revisionsfrågorna
 
@@ -7076,18 +7076,18 @@ Sammanfattning
 
 Granskningar har genomförts inom fyra områden; 1) Personal, 2) Ekonomi 3) Informationssäkerhet,
 Administration och Inköp samt 4) Verksamhet. Resultatet i stort är mycket gott:
-1) Personal: Granskningen har gjorts av Rekryteringscenter och kompletterats med frågor och/eller
+1\) Personal: Granskningen har gjorts av Rekryteringscenter och kompletterats med frågor och/eller
 granskningsunderlag till förvaltningarna och verksamheterna. Granskningen visade att förvaltningen har
 en mycket god följsamhet till gällande rutiner för referenstagning. Viss förbättring kan göras gällande
 dokumentation.
 
-2) Ekonomi: Granskning utförd av var 10:e utbetalning. Samtliga stickprovskontroller av utbetalningar
+2\) Ekonomi: Granskning utförd av var 10:e utbetalning. Samtliga stickprovskontroller av utbetalningar
 utan anmärkning.
-3) Informationssäkerhet, Administration och Inköp: Avtalskontroller och utbildningar genomförda,
+3\) Informationssäkerhet, Administration och Inköp: Avtalskontroller och utbildningar genomförda,
 behörighetsrutiner i samtliga våra system granskade. Samtliga avtal är nu diarieförda i Ciceron och
 PUB-avtal finns kopplade till respektive avtal.
 
-4) Verksamhet: Krisledningsorganisation och informationshantering förbättrade, korrekt kartinformation
+4\) Verksamhet: Krisledningsorganisation och informationshantering förbättrade, korrekt kartinformation
 säkerställd.
 Revisionsrapporten “Granskning av interna kontroller kopplade till risken för oegentligheter i upphandling och
 avtalsuppföljning” publicerades vid årsskiftet. Den sammanfattande bedömningen utifrån granskningens syfte
@@ -7119,7 +7119,7 @@ Uppföljningsrapport intern kontroll 2024
 
 Arbetet med intern kontroll har genomförts av verksamhetschef för Kund och Verksamhetsstöd, tillsammans
 med enhetschefer som berörts av aktuella aktiviteter kopplade till identifierade risker i internkontrollplanen år
-2024. Ett kommuncentralt arbete har också pågått under året. I detta forum har representanter från samtliga
+2024\. Ett kommuncentralt arbete har också pågått under året. I detta forum har representanter från samtliga
 förvaltningar delat erfarenheter, gjort gemensamma granskningar kring gemensamma risker samt fört dialog
 med fokus på välfärdsbrottslighet och korruption.
 Arbetet med intern kontrollplan har fortlöpt som planerat under året sammanfattat enligt nedan punkter:
@@ -7832,7 +7832,7 @@ KUNGSBACKA       KOMMUN
 Innehållsförteckning
 
 Sammanfattning ....................................................................................................................... 4
-1.  Inledning ......................................................................................................................... 5
+1\.  Inledning ......................................................................................................................... 5
 
 1.1. Bakgrund ........................................................................................................................ 5
 1.2. Syfte och revisionsfrågor ................................................................................................ 5
@@ -7841,11 +7841,11 @@ Sammanfattning .................................................................
 1.4. Metod .............................................................................................................................. 5
 
 1.5. Avgränsningar och ansvariga nämnder ......................................................................... 5
-2.  Organisation av upphandling och avtalsuppföljning ............................................... 6
+2\.  Organisation av upphandling och avtalsuppföljning ............................................... 6
 
 2.1. Organisation och ansvarsfördelning i upphandlingsprocessen och avtalsuppföljning är
 inte tydligt dokumenterat ................................................................................................ 6
-3.  Riskanalyser av oegentligheter i upphandlingsprocessen...................................... 7
+3\.  Riskanalyser av oegentligheter i upphandlingsprocessen...................................... 7
 
 3.1. Vår bedömning ............................................................................................................... 7
 3.2. Det framgår inte av styrdokument att riskanalys ska genomföras i
@@ -7854,7 +7854,7 @@ upphandlingsprocessen eller inför avtalsskrivning .............................
 3.3. Nämnden för Service har inte riskvärderat oegentligheter i upphandlingsprocessen
 eller under avtalsperioder i sin årliga riskanalys ............................................................ 7
 
-4.  Möjlighet att stänga ute oseriösa leverantörer .......................................................... 9
+4\.  Möjlighet att stänga ute oseriösa leverantörer .......................................................... 9
 4.1. Vår bedömning ............................................................................................................... 9
 
 4.2. Brottsförebyggande rådet............................................................................................... 9
@@ -7863,7 +7863,7 @@ eller under avtalsperioder i sin årliga riskanalys ............................
 4.4. Möjligheterna att utestänga oseriösa leverantörer under avtalsperiod kan stärkas ... 10
 4.4.1. Avtalsmallar .............................................................................................................. 11
 
-5.  Förhindra och upptäcka oegentligheter i upphandlingsprocessen samt kontroll
+5\.  Förhindra och upptäcka oegentligheter i upphandlingsprocessen samt kontroll
 och uppföljning av externa utförare.......................................................................... 13
 5.1. Vår bedömning ............................................................................................................. 13
 
@@ -7872,7 +7872,7 @@ utförare men dessa följs inte ................................................
 5.3. Samtliga kommunens nämnder ska granska privata utförare och avtalssamverkan
 
 inom ramen för internkontrollplanen ............................................................................ 14
-6.  Kontrollmiljö avseende uppföljning av avtalsefterlevnad...................................... 15
+6\.  Kontrollmiljö avseende uppföljning av avtalsefterlevnad...................................... 15
 
 6.1. Vår bedömning ............................................................................................................. 15
 6.2. Det finns riktlinjer för uppföljning av avtal men dessa efterlevs inte ........................... 15
@@ -7884,18 +7884,18 @@ leverantörer...................................................................
 
 <!-- sida 201 -->
 
-7.  Kanaler för att rapportera om oegentligheter .......................................................... 18
+7\.  Kanaler för att rapportera om oegentligheter .......................................................... 18
 
 7.1. Vår bedömning ............................................................................................................. 18
 7.2. Visselblåsarfunktion ..................................................................................................... 18
 
 7.3. Andra rapporteringskanaler.......................................................................................... 18
-8.  Nämndens uppföljning av upphandlingsprocessen och avtalsuppföljning ........ 19
+8\.  Nämndens uppföljning av upphandlingsprocessen och avtalsuppföljning ........ 19
 
 8.1. Vår bedömning ............................................................................................................. 19
 8.2. Uppföljningen av upphandlingsprocessen kan stärkas ............................................... 19
 
-9.  Samlad bedömning ..................................................................................................... 20
+9\.  Samlad bedömning ..................................................................................................... 20
 9.1. Bedömning utifrån revisionsfrågorna ........................................................................... 20
 
 9.2. Slutsatser ...................................................................................................................... 21
@@ -7963,7 +7963,7 @@ internkontrollarbete.
 
 <!-- sida 203 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -8012,7 +8012,7 @@ Granskningen avgränsas i enlighet med revisionsfrågorna.
 
 <!-- sida 204 -->
 
-2. Organisation av upphandling och avtalsuppföljning
+2\. Organisation av upphandling och avtalsuppföljning
 
 2.1. Organisation och ansvarsfördelning i upphandlingsprocessen och
 
@@ -8066,7 +8066,7 @@ ansvarar för uppföljning av avtal som skett genom direktupphandling.
 
 <!-- sida 205 -->
 
-3. Riskanalyser av oegentligheter i upphandlingsprocessen
+3\. Riskanalyser av oegentligheter i upphandlingsprocessen
 
 3.1. Vår bedömning
 
@@ -8152,7 +8152,7 @@ oegentligheter eller upphandling har dock identifierats:
 
 <!-- sida 207 -->
 
-4. Möjlighet att stänga ute oseriösa leverantörer
+4\. Möjlighet att stänga ute oseriösa leverantörer
 
 4.1. Vår bedömning
 
@@ -8327,7 +8327,7 @@ leverantörer har identifierats.
 
 <!-- sida 211 -->
 
-5. Förhindra och upptäcka oegentligheter i upphandlingsprocessen
+5\. Förhindra och upptäcka oegentligheter i upphandlingsprocessen
 
 samt kontroll och uppföljning av externa utförare
 
@@ -8431,7 +8431,7 @@ För samtliga nämnder ska avrapportering ske i februari 2025.
 
 <!-- sida 213 -->
 
-6. Kontrollmiljö avseende uppföljning av avtalsefterlevnad
+6\. Kontrollmiljö avseende uppföljning av avtalsefterlevnad
 
 6.1. Vår bedömning
 
@@ -8496,14 +8496,14 @@ Göteborg.
 
 Avtal upphandlade av Kungsbacka kommun har granskats gentemot följande
 kontrollpunkter:
-1. Har korrekt upphandlingstyp tillämpats?
-2. Är upphandlingen dokumenterad?
-3. Har kontroller gjorts och dokumenterats inför avtalsskrivning?
+1\. Har korrekt upphandlingstyp tillämpats?
+2\. Är upphandlingen dokumenterad?
+3\. Har kontroller gjorts och dokumenterats inför avtalsskrivning?
 
-4. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
-5. Regleras uppföljning i avtalet?
-6. Finns en plan för uppföljning i enlighet med riktlinjer för inköp?
-7. Har uppföljning av avtal genomförts och dokumenteras under avtalsperioden?
+4\. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
+5\. Regleras uppföljning i avtalet?
+6\. Finns en plan för uppföljning i enlighet med riktlinjer för inköp?
+7\. Har uppföljning av avtal genomförts och dokumenteras under avtalsperioden?
 
 Stickprov av avtal inom Nämnden för Tekniks verksamheter5
 
@@ -8548,11 +8548,11 @@ kallar till uppföljningsmöte under avtalsperioden och för mötesanteckningar.
   Uppföljning av avtalet har gjorts av i ett fall.
 
 Göteborgs Stads avtal har granskats gentemot följande kontrollpunkter:
-1. Har Kungsbacka säkerställt att kontroller gjorts och dokumenterats inför
+1\. Har Kungsbacka säkerställt att kontroller gjorts och dokumenterats inför
 avtalsskrivning?
-2. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
-3. Regleras uppföljning i avtalet?
-4. Har Kungsbacka säkerställt att uppföljning genomförts under avtalsperioden?
+2\. Regleras kommunens rätt till insyn och kontroll hos leverantörer i avtalet?
+3\. Regleras uppföljning i avtalet?
+4\. Har Kungsbacka säkerställt att uppföljning genomförts under avtalsperioden?
 
 Stickprov av avtal från Göteborgs stad som används inom Nämnden för Individ och
 Familjeomsorgs verksamheter
@@ -8585,7 +8585,7 @@ vissa ramavtal och inköpschefen på inköpsenheten undertecknat vissa ramavtal.
 
 <!-- sida 216 -->
 
-7. Kanaler för att rapportera om oegentligheter
+7\. Kanaler för att rapportera om oegentligheter
 
 7.1. Vår bedömning
 
@@ -8635,7 +8635,7 @@ vara anonym och anmäla synpunkter kopplat till klagomål, beröm och förslag p
 
 <!-- sida 217 -->
 
-8. Nämndens  uppföljning av upphandlingsprocessen  och
+8\. Nämndens  uppföljning av upphandlingsprocessen  och
 
 avtalsuppföljning
 
@@ -8670,7 +8670,7 @@ med fullmäktiges program.
 
 <!-- sida 218 -->
 
-9. Samlad bedömning
+9\. Samlad bedömning
 
 9.1. Bedömning utifrån revisionsfrågorna
 
@@ -9064,7 +9064,7 @@ S
 s
 a u
 ö
--
+\-
 n
 t
 k
@@ -9310,7 +9310,7 @@ ordningsföreskrifter
 
 Miljöpartiet föreslår;
 
-- Att i syfte att skydda människors och djurs hälsa och välbefinnande komplettera
+\- Att i syfte att skydda människors och djurs hälsa och välbefinnande komplettera
 hänsynsregeln för fyrverkerier i Kungsbackas lokala ordningsföreskrift med tydligare
 regler för användandet av pyrotekniska varor i enlighet med vägledning från SKR
 cirkulär 23:04 och eventuella senare rättspraxis.
@@ -9341,7 +9341,7 @@ Sammanfattning av ärendet
 Maria Losman (MP) och Elisabeth Sahlsten (MP) har inkommit med en motion om
 att komplettera de lokala ordningsföreskrifterna med tydligare regler för användandet
 av pyrotekniska varor. Motionen anmäldes i kommunfullmäktige den 12 december
-2024.
+2024\.
 
 Motionärerna menar att de regler som finns i de lokala ordningsföreskrifterna (att
 den som skjuter av fyrverkerier eller andra pyrotekniska varor ska visa största
@@ -9607,7 +9607,7 @@ Delområde II
 Inom delområde II har nedanstående underlag sammanställts.
 
 [1] ”Kungsbacka sportcenter: Markteknisk undersökningsrapport, MUR Geoteknik”. Daterad: 2016-11-
-01. Utförd av: Norconsult AB. Uppdragsnummer: 104 22 35.
+01\. Utförd av: Norconsult AB. Uppdragsnummer: 104 22 35.
 [2] ”Båtsällskapet, Kungsbacka: Markteknisk undersökningsrapport, MUR Geoteknik”. Daterad: 2015-
 12-19. Utförd av: Norconsult AB. Uppdragsnummer: 104 11 43.
 
@@ -10386,16 +10386,16 @@ Inom området finns det en gällande detaljplan (K58 från 1971) Den sydöstra d
 nomrdået saknar idag detaljplan.
 
 Gällande planbestämmelser
-- Idrottsområde
+\- Idrottsområde
 
-- Byggnadshöjd - max 8 meter
-- Delar av området är prickad mark,
+\- Byggnadshöjd - max 8 meter
+\- Delar av området är prickad mark,
 område ej avsett att bebygga
 
-- Gata
-- Park
+\- Gata
+\- Park
 
-- del av området saknar detaljplan
+\- del av området saknar detaljplan
 
 Kommunala beslut i övrigt
 Vision 2030
@@ -13253,7 +13253,7 @@ området. Fyra vardagar och fyra lördagar från det senaste året har valts ut 
 på både situationer då det är normal vardagsaktivitet i området och då det har varit
 någon form av evenemang. Figurerna nedan visar summan av antalet platser som
 fanns vid tillfället och dess beläggning för de två parkeringszonerna Sportcenter (5-
-9) och Södra centrum (3-4).
+9\) och Södra centrum (3-4).
 
 För Lindens parkeringshus är det mer utmanande att presentera liknande statistik då
 nyttjande av boendekort och månadskort inte registreras på samma sätt utan det krävs
@@ -13535,7 +13535,7 @@ Mindre
 Flera små-mellanstora      All
 Grundverksamhet
 evenemang          publikkapacitet
-+ några mindre
+\+ några mindre
 används
 evenemang              eller
 En gång per år
@@ -14746,7 +14746,7 @@ från Kungsbacka kommun. Detta på grund av att recipienten, Kungsbackaån, ligg
 väster om planområdet och Kungsbacka kommun anser att ån har obegränsad kapacitet. Di-
 ken och reningsanläggningar dimensioneras för 10-årsregn3 som motsvarar minimikravet på
 återkomsttid för trycklinje i marknivå för dimensionering av nya dagvattensystem, se Tabell
-3. Återkomsttider 2 och 100 år är också av intresse eftersom 2-årsregn motsvarar regn vid
+3\. Återkomsttider 2 och 100 år är också av intresse eftersom 2-årsregn motsvarar regn vid
 fylld ledning och 100-årsregn används vid skyfall. Klimatfaktor 1,254 används för att kom-
 pensera för påverkan från pågående klimatförändringar på flödena.
 
@@ -15936,7 +15936,7 @@ https://www.boverket.se/sv/PBL-
 kunskapsbanken/teman/ekosystemtjanster/verktyg/ester/
 Furén, R. (2022). Stormwater bioretention: Pollutant occurrence and accumulation in filter
 materials and forebays. Luleå: Luleå University of Technology, Graphic Production
-2022.
+2022\.
 Godecke Blecken, L., Ali Beryani, L., Ahmed Al-Rubaei, L., Maria Viklander, L., Alisha
 Goldstein, N. C., & William F Hunt, N. C. (Januari 2021; Nr.9). Översiktlig
 utvärdering av funktionaliteten av 26 dagvattenbiofilter. NY FORSKNING OCH
@@ -15953,7 +15953,7 @@ MSB248, M. f. (reviderad November 2014). Barnsäker pool och trädgårdsdamm.
 Olika grupper av ekosystemtjänster. (u.d.). (PBL) Hämtat från https://www.boverket.se:
 https://www.boverket.se/sv/byggande/hallbart-byggande-och-
 forvaltning/ekosystemtjanster/olika-grupper-av-
-ekosystemtjanster/#:~:text=Dessa%20typer%20kallas%20f%C3%B6rs%C3%B6rja
+ekosystemtjanster/#:\~:text=Dessa%20typer%20kallas%20f%C3%B6rs%C3%B6rja
 nde%2C%20reglerande%2C%20kulturella%20och%20st%C3%B6djande%20ekosyst
 emtj%C3%A4ns den 11 05 2024
 Ramböll. (2019). Trafikutredning för Klovstens industriområde. Ramböll AB.
@@ -16484,7 +16484,7 @@ Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet 
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål. 106 26 03 Arena inom Kungsbacka sportcenter
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                     2020-05-20 | 2(27)
 
 [Tabell 427-1](handlingar.tabeller/427-1.csv)
@@ -16539,7 +16539,7 @@ ny bebyggelse:
 Om ovanstående skyddsåtgärder genomförs så bedöms att rimliga åtgärder har genomförts och den
 totala risknivån för området anses vara godtagbar utifrån de tillämpade riskkriterierna.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                     2020-05-20 | 3(27)
 
 <!-- sida 429 -->
@@ -16587,7 +16587,7 @@ Slutsatser och skyddsåtgärder                26
 Referenser                                   27
 Bilaga 1 Beräkning av risker transport av farligt gods på järnväg
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                     2020-05-20 | 4(27)
 
 <!-- sida 430 -->
@@ -16605,7 +16605,7 @@ planering inom 150 m från en transportled för farligt gods (Länsstyrelsen 201
 
 Figur 1. Läge för nytt sportcenter markerat med röd rektangel (OpenStreetMap).
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                     2020-05-20 | 5(27)
 
 <!-- sida 431 -->
@@ -16635,7 +16635,7 @@ genom raserade byggnader, ge effekter på några tiotal meters avstånd.
 
 Klass 2: Brännbara eller giftiga gaser
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                     2020-05-20 | 6(27)
 
 [Tabell 431-1](handlingar.tabeller/431-1.csv)
@@ -16696,7 +16696,7 @@ Klass 9: Övriga farliga ämnen och föremål
 
 Denna klass omfattar bl.a. miljöfarligt avfall dock inga ämnen som är brandfarliga eller explosiva.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                     2020-05-20 | 7(27)
 
 <!-- sida 433 -->
@@ -16734,7 +16734,7 @@ mått på hur farligt det är på en viss plats och tar inte hänsyn till hur m�
 befinna sig på platsen. Individrisken är ett lämpligt mått vid riskbedömning för områden där det endast
 kommer att vistas ett fåtal människor, exempelvis lagerlokal med få människor eller parkeringsplatser.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                     2020-05-20 | 8(27)
 
 <!-- sida 434 -->
@@ -16778,7 +16778,7 @@ Den övre gränsen motsvarar högst en tiondel av den totala dödsfallsrisken f�
 samhället. Om risknivån ligger över denna gräns så skall åtgärder vidtas och effekten av dessa
 åtgärder skall verifieras (Lst 2006).
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                     2020-05-20 | 9(27)
 
 <!-- sida 435 -->
@@ -16814,7 +16814,7 @@ beräknas utifrån områdets längd längs transportleden och att planområdet e
 av leden. I detta fall blir kriterierna cirka en faktor 10 lägre, omräknade kriterier visas i figur 5.
 Planområdets längd utmed leden är cirka 390 meter.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 10(27)
 
 <!-- sida 436 -->
@@ -16838,7 +16838,7 @@ figur 6 och tabell 2.
 
 Figur 6.  Rekommenderade avstånd för utformning av området kring Västkustbanan.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 11(27)
 
 <!-- sida 437 -->
@@ -16864,7 +16864,7 @@ sportanläggningar placeras i den bortersta zonen inom riskhanteringsavståndet 
 återfinns också markanvändning som kan kopplas till tätortsområden såsom bostäder, centrum och
 övrig handel.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 12(27)
 
 <!-- sida 438 -->
@@ -16892,7 +16892,7 @@ Riskhanteringsprocessen kan delas upp i tre delar; riskanalys, riskvärdering oc
 se figur 8 (Lst 2006). I den första delen beräknas riskerna, i den andra delen bedöms de och åtgärder
 föreslås och i den tredje delen tas beslut om åtgärderna.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 13(27)
 
 <!-- sida 439 -->
@@ -16919,7 +16919,7 @@ detta område.
 Kraven på skyddsåtgärder inom ALARP-området är att alla rimliga skyddsåtgärder, sett ur
 kostnadsperspektiv och praktisk genomförbarhet, är vidtagna.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 14(27)
 
 <!-- sida 440 -->
@@ -16960,7 +16960,7 @@ I detta alternativ ligger arenan med tillhörande läktare på ett avstånd på 
 Västkustbanan, se figur 10. Läktaren är placerad söder om arenan och söder om läktaren ligger
 fotbollsplanen på ett minsta avstånd från Västkustbanan på cirka 80 meter.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 15(27)
 
 <!-- sida 441 -->
@@ -16985,7 +16985,7 @@ området.
 Individrisken får den tidigare utredningen visar på acceptabla risker från cirka 15 meters avstånd från
 Västkustbanan, se figur 11.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 16(27)
 
 <!-- sida 442 -->
@@ -17011,7 +17011,7 @@ Båda alternativen bedöms kunna vara möjliga utifrån riskperspektiv med vissa
 Alternativ 1 bedöms vara något bättre ur riskperspektiv. I vidare planering bör all ny bebyggelse av
 läktare och arena hålla ett minsta avstånd på 80 meter från Västkustbanan.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 17(27)
 
 <!-- sida 443 -->
@@ -17039,7 +17039,7 @@ Ca 50 m
 
 Figur 12. Illustration över möjlig disponering av området (Abako 2020).
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 18(27)
 
 <!-- sida 444 -->
@@ -17088,7 +17088,7 @@ dagtid och 1 % utomhus nattetid, se tabell 3.
 
 Tabell 3. Persontäthet i området.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 19(27)
 
 [Tabell 444-1](handlingar.tabeller/444-1.csv)
@@ -17135,7 +17135,7 @@ Uppgifterna finns hos Norconsult AB och kan kommuniceras med myndigheterna på d
 
 Tabell 4. Förväntat antal transportvagnar med farligt gods på Västkustbanan år 2030
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 20(27)
 
 [Tabell 445-1](handlingar.tabeller/445-1.csv)
@@ -17189,7 +17189,7 @@ sannolikheten för en olycka 0,000 000 031 eller en gång på 32 300 000 år. Sa
 liten för varje enskild vagn som transporteras men på järnvägar med mycket transporter av farligt gods
 kan det transporteras flera tusen vagnar årligen, vilket gör att riskerna inte är försumbara.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 21(27)
 
 [Tabell 446-1](handlingar.tabeller/446-1.csv)
@@ -17228,7 +17228,7 @@ ett kortaste avstånd på cirka 50 meter från Västkustbanan där risknivåerna
 Figur 13.     Individrisk för Kungsbacka sportcenter på grund av transporter av farligt gods på
 Västkustbanan
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 22(27)
 
 <!-- sida 448 -->
@@ -17239,7 +17239,7 @@ Arena inom Kungsbacka sportcenter | Riskutredning avseende transport av farligt 
 Samhällsrisk
 
 Beräkning av samhällsrisken visar att risknivåerna ligger inom området med acceptabla risker, se figur
-14.
+14\.
 
 Figur 14. Samhällsrisk för Kungsbacka sportcenter på grund av transporter av farligt gods på
 Västkustbanan.
@@ -17252,7 +17252,7 @@ personer som är närvarande i utredningsområdet. Därför har en osäkerhetsan
 antalet personer i utredningsområdet ökats med 25 % samtidigt som antalet transporter av farligt gods
 förbi området har ökats med 25 %, se figur 15 och 16.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 23(27)
 
 <!-- sida 449 -->
@@ -17267,7 +17267,7 @@ påverkas inte nämnvärt utan ligger fortsatt på acceptabla risknivåer.
 Figur 15. Osäkerhetsanalys av individrisken. Ursprungsliga risknivåer markeras med blå linje,
 osäkerhetsanalysens risknivåer visas med lila linje.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 24(27)
 
 <!-- sida 450 -->
@@ -17283,7 +17283,7 @@ risker, se figur 16.
 Figur 16. Osäkerhetsanalys av samhällsrisken. Ursprungsliga risknivåer markeras med blå linje,
 osäkerhetsanalysens risknivåer visas med lila linje.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 25(27)
 
 <!-- sida 451 -->
@@ -17310,7 +17310,7 @@ ny bebyggelse:
 Om ovanstående skyddsåtgärder genomförs så bedöms att rimliga åtgärder har genomförts och den
 totala risknivån för området anses vara godtagbar utifrån de tillämpade riskkriterierna.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 26(27)
 
 <!-- sida 452 -->
@@ -17354,7 +17354,7 @@ Trafikverket, 2016-09-07
 ØSA 2004      Riktlinjer för riskhänsyn i samhällsplaneringen; Øresund Safety Advisers AB,
 2004
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\26\1062603\5 arbetsmaterial\01 dokument\u\riskutredning kungsbacka
 sportcenter.docx                                    2020-05-20 | 27(27)
 
 <!-- sida 453 -->
@@ -17397,11 +17397,11 @@ väsentliga delarna och vad dessa baseras på.
 Riskberäkningsmetoden kan delas upp i fyra steg. Steg 1, 2 samt 4 genomförs i excelblad och steg 3
 genomförs i GIS-programmet QGIS.
 
-1. Beräkning av sannolikhet för olyckor med olika ämnen
-2. Beräkning av sannolikhet av olika scenarier utifrån händelseträd
-3. Beräkning av konsekvenserna av dessa scenarier avseende antalet omkomna utomhus och
+1\. Beräkning av sannolikhet för olyckor med olika ämnen
+2\. Beräkning av sannolikhet av olika scenarier utifrån händelseträd
+3\. Beräkning av konsekvenserna av dessa scenarier avseende antalet omkomna utomhus och
 inomhus
-4. Sammanräkning av resultaten som individrisk och samhällsrisk
+4\. Sammanräkning av resultaten som individrisk och samhällsrisk
 
 n:\106\26\1062603\5 arbetsmaterial\01 dokument\u\bilaga järnväg kungsbacka.docx 2020-05-2020 | 2(20)
 
@@ -17835,11 +17835,11 @@ n:\106\26\1062603\5 arbetsmaterial\01 dokument\u\bilaga järnväg kungsbacka.doc
 Sannolikhet för detonation på grund av brand
 
 Sannolikheten för brand beräknas enligt följande.
-1. Det måste finnas en tankvagn med bensin eller annan mycket brandfarlig vätska med på tåget.
+1\. Det måste finnas en tankvagn med bensin eller annan mycket brandfarlig vätska med på tåget.
 
-2. Vagnen måste befinna sig nära vagnen med sprängämnen, högst en vagn emellan
-3. Vagnen med mycket brandfarlig vätska måste ha en skada som leder till ett betydande utsläpp
-4. Vätskan måste antändas
+2\. Vagnen måste befinna sig nära vagnen med sprängämnen, högst en vagn emellan
+3\. Vagnen med mycket brandfarlig vätska måste ha en skada som leder till ett betydande utsläpp
+4\. Vätskan måste antändas
 
 Sannolikheten för detta framgår av händelseträden i figur 9 och 10 nedan. Händelseträdet är baserat
 på statistik för tunnväggiga tankvagnar i RBM II.
@@ -17915,12 +17915,12 @@ För att en olycka med en transport med oxiderande ämnen skall leda till betyda
 krävs att det oxiderande ämnet blandas med bensin och att blandningen antänds. För att detta skall
 ske måste flera förutsättningar vara uppfyllda:
 
-1. Det måste finnas en tankvagn med bensin eller annan mycket brandfarlig vätska med på tåget.
-2. Vagnen måste befinna sig nära vagnen med oxiderande ämnen för att en blandning skall kunna
+1\. Det måste finnas en tankvagn med bensin eller annan mycket brandfarlig vätska med på tåget.
+2\. Vagnen måste befinna sig nära vagnen med oxiderande ämnen för att en blandning skall kunna
 ske, högst en vagn emellan.
-3. Vagnen med mycket brandfarlig vätska måste ha en skada som leder till ett betydande utsläpp.
-4. Vätskan måste antändas.
-5. Blandningen oxiderande ämne/brandfarlig vätska kan antingen brinna som en pölbrand eller
+3\. Vagnen med mycket brandfarlig vätska måste ha en skada som leder till ett betydande utsläpp.
+4\. Vätskan måste antändas.
+5\. Blandningen oxiderande ämne/brandfarlig vätska kan antingen brinna som en pölbrand eller
 explodera.
 
 Sannolikheten för detta framgår av händelseträdet i figur 11 och 12 nedan. Händelseträdet är baserat
@@ -18153,7 +18153,7 @@ R = avstånd från explosionscentrum (m)
 M = mängd sprängämne i explosionen (kg)
 
 Figur 14 ger övertrycket p
-+
+\+
 
 Figur 14. Reflekterat och oreflekterat övertryck som funktion av det skalade avståndet Z (från
 SRV 2007).

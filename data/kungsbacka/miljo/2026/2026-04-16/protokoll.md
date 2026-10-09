@@ -170,10 +170,10 @@ Sammanfattning av ärendet
 från dagens sammanträde.
 
 Ordförande Niclas Nilsson anmäler två extra ärenden till dagens sammanträde:
-- Initiativ från Niclas Nilsson (M) med flera om effektivare handläggning och sänkta
+\- Initiativ från Niclas Nilsson (M) med flera om effektivare handläggning och sänkta
 avgifter för stadigvarande serveringstillstånd, som behandlas efter ärende 5.
 
-- Initiativ från Niclas Nilsson (M) med flera om tillfälligt utökade serveringstider
+\- Initiativ från Niclas Nilsson (M) med flera om tillfälligt utökade serveringstider
 under fotbolls-VM 2026, som behandlas efter ärende 6.
 
 Beslutsgång
@@ -651,7 +651,7 @@ Datum
 Information om tillsyn av förorenade områden, avfall och PFAS
 
 Ärendet utgår vid nämnden för Miljö & Hälsoskydds sammanträde den 16 april
-2026.
+2026\.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 524ACCA599F44C643F01D67E17EAC5A19E50CE5228

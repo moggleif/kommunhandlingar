@@ -465,8 +465,8 @@ INLEDNING
 
 Året       i  korthet
 
-+   939
-+   668                                            mnkr
+\+   939
+\+   668                                            mnkr
 
 mnkr                     Nettoinvesteringar
 för koncernen
@@ -474,8 +474,8 @@ Resultat för koncernen
 Kungsbacka kommun
 Kungsbacka kommun
 
-+   748
-+   604
+\+   748
+\+   604
 mnkr
 mnkr
 Nettoinvesteringar
@@ -489,7 +489,7 @@ Under året har Kungsbacka kommun tagit emot flera gårds reningsverk, Kungsback
 priser och utmärkelser. Här är några exempel. på hållbar utveckling. Den nya anläggningen planeras
 att vara energineutral och klimatpositiv. Det innebär att
 • Vi blev utsedda till Sveriges digitaliseringskommun verksamheten ska sträva mot att minska utsläppen med
-2025. Bakom utmärkelsen står Sveriges Kommuner motsvarande 120 procent av sina egna utsläpp, vilket ger
+2025\. Bakom utmärkelsen står Sveriges Kommuner motsvarande 120 procent av sina egna utsläpp, vilket ger
 och Regioner, DIGG – Myndigheten för digital ett nettoutsläpp som är 20 procent lägre än noll.
 förvaltning, Regeringskansliet, TechSverige, Micro-
 soft, Telia, Google, Kivra och Kvalitetsmässan. Under 2025 har vi startat upp Frivilliga resursgruppen,
@@ -589,12 +589,12 @@ Visible care Sweden
 Byggnadsnämnd  Förskola & Grundskola             Drottning Blankas
 gymnasieskola
 Nämnd för hemsjukvård Praktiska Sverige
-Överförmyndarnämnd* Patientnämnd**
-och hjälpmedel*** Ljud & Bildskolan LBS
-* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Individ & Familjeomsorg
+Överförmyndarnämnd\* Patientnämnd\*\*
+och hjälpmedel\*\*\* Ljud & Bildskolan LBS
+\* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Individ & Familjeomsorg
 Mölndals kommun är värdkommun.
-** Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun. Gryning Vård
-*** N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
+\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun. Gryning Vård
+\*\*\* N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
 Teknik
 Ragn-Sells Recycling
 Viavest
@@ -885,7 +885,7 @@ trakasserier.                     gruppen över 80 år beräknas fortsatt att ö
 takt än den andel av befolkningen som jobbar, vilket
 Antalet orosanmälningar har också fortsatt att öka, med innebär att färre behöver försörja fler i framtiden. Att
 nästan tio procent fler än 2024 och 60 procent fler än andelen äldre ökar innebär visserligen inte automatiskt
-2020. Ärendena har blivit mer komplexa och omfattar att behovet av stöd ökar i samma takt. Dagens äldre är
+2020\. Ärendena har blivit mer komplexa och omfattar att behovet av stöd ökar i samma takt. Dagens äldre är
 fler unga med normbrytande beteenden eller koppling generellt sett mer aktiva och självständiga högre upp i
 till kriminalitet. Kommunen har därför arbetat med åldrarna än tidigare generationer. Här finns möjligheter
 att stärka handläggning och säkerställa rättssäkerhet, att ta vara på den enskildes förmågor och värna dess
@@ -1049,7 +1049,7 @@ kommunen. Sammantaget består kommunens pensions- och de riktade statsbidragen b
 kostnader av två olika delar, en avgiftsbestämd kostnad olika satsningar inom olika verksamheter. Kungsbacka
 och en förmånsbaserad pension som delas upp i vad som kommun får årligen skatteintäkter och generella
 tjänats in från och med 1998 och vad som tjänats in före statsbidrag på cirka sex miljarder kronor. Även en mindre
-1998. Det nya pensionsavtalet AKAP-KR som gäller från procentuell avvikelse får därför stort genomslag.
+1998\. Det nya pensionsavtalet AKAP-KR som gäller från procentuell avvikelse får därför stort genomslag.
 Kungsbacka kommuns årsredovisning 2025 17
 
 <!-- sida 28 -->
@@ -1345,7 +1345,7 @@ för Kommunal Analys bästa i Sverige, alternativt kan
 (RKA) föreslagit som uppvisa en trend som ligger i
 stöd för kommunernas linje med eller över alla kom-
 genomförande av Agenda muners ovägda medel under
-2030.         senaste fyraårsp erioden.
+2030\.         senaste fyraårsp erioden.
 Om mätvärde saknas görs
 bedömningen på senaste år
 som mätningen gjordes.
@@ -1470,7 +1470,7 @@ får man det strukturella resultatet för kommunens
 ordinarie verksamhet. Det strukturella resultatet för året
 nettok ostnader
 var 548 miljoner kronor att jämföra med 211 miljoner exklusive jämförelse-
-2024. Det är viktigt att analysera det strukturella störande poster (%)
+2024\. Det är viktigt att analysera det strukturella störande poster (%)
 resultatet över tid och se hur det utvecklas i förhållande
 Årlig förändring 4,8 -0,3 15,4 1,5 -1,9
 till skatteintäkter och generella statsbidrag. Det struk- nettokostnader
@@ -1546,7 +1546,7 @@ Den senaste femårsperioden har kommunen i genomsnitt risk.
 investerat för 903 miljoner kronor per år. Årets investe-
 ringsutgifter fördelat per invånare motsvarar 9 670 kronor Soliditet 2021 2022 2023 2024 2025
 per invånare, en ökning med två procent jämfört med kommunen,
-2024. Kommunen planerar för ännu högre investerings- (procent)
+2024\. Kommunen planerar för ännu högre investerings- (procent)
 nivåer framöver. Högre investeringar ökar låneskulden Soliditet inklusive 35,5 35,4 35,9 37,4 41,3
 och högre ränta vid refinansiering eller nya lån kommer hela pensions-
 åtagandet
@@ -1935,16 +1935,16 @@ Antal påbörjade bostäder              848   165   213     158     öka
 Antal färdigställda bostäder          363   319   324     601     öka
 ```
 
-Anmälda brott mot brottsbalken per invånare, 5 691 6 475 6 541 6 299 *** minska
+Anmälda brott mot brottsbalken per invånare, 5 691 6 475 6 541 6 299 \*\*\* minska
 antal/100 000 invånare (Brottsförebyggande rådet, BRÅ)
 Brukarbedömning hemtjänst äldreomsorg, helhetssyn (Kolada) 90 % 91 % 88 % 88 % öka
 Brukarbedömning särskilt boende äldreomsorg, helhetssyn 74 % 76 % 76 % 78 % öka
 (Kolada)
-Brukarbedömning individ- och familjeomsorg, totalt 88 % - * 98 %** 96% öka
+Brukarbedömning individ- och familjeomsorg, totalt 88 % - \* 98 %\*\* 96% öka
 – helhetssyn (Kolada)1
-*) Brukarbedömning har inte gjorts det här året.
-**) Värdet för 2024 tidigare redovisat till 95 % i KOLADA redovisas nu 98 %.
-***) Preliminära uppgifter från BRÅ
+\*) Brukarbedömning har inte gjorts det här året.
+\*\*) Värdet för 2024 tidigare redovisat till 95 % i KOLADA redovisas nu 98 %.
+\*\*\*) Preliminära uppgifter från BRÅ
 
 Kungsbacka kommuns årsredovisning 2025 33
 
@@ -1973,7 +1973,7 @@ Det är glädjande att vi ser positiva steg mot ett mer Vi har startat en pilots
 effektivt resursutnyttjande, som minskad elförbrukning för regnbågsfamiljer. Satsningen syftar till att skapa en
 och minskad klimatpåverkan från våra måltider. Men inkluderande mötesplats för en målgrupp som annars
 sammantaget är bedömningen att vi inte nått målet under riskerar att sakna trygga sammanhang i det offentliga
-2025.                             rummet. Vi har även för första gången anordnat Rättig-
+2025\.                             rummet. Vi har även för första gången anordnat Rättig-
 hetsveckorna, en stor satsning för att öka medvetenhet
 Det här har vi gjort
 och kunskaper om allas lika värde. Vidare har vi gjort
@@ -2068,13 +2068,13 @@ FÖRVALTNINGSBERÄTTELSE
 Målsätt-
 Indikator                         2022   2023   2024    2025 ning 2025
 Kommunens verksamheters elförbrukning, total (kWh) 39,9 40,7 40,3 38,7 minska
-Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/ 2,27 2,27 * * minska
+Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/ 2,27 2,27 \* \* minska
 inv (Kolada)
-Fossiloberoende personbilar, andel av totalt antal bilar 21,2 24,1 26,5 * öka
+Fossiloberoende personbilar, andel av totalt antal bilar 21,2 24,1 26,5 \* öka
 i det geografiska området (%)
 Fossiloberoende personbilar i kommunorganisationen, 94,6 96,2 97,5 97,2 öka
 andel (%)
-Slutanvändning av energi inom det geografiska 15 15 *     *   minska
+Slutanvändning av energi inom det geografiska 15 15 \*     \*   minska
 området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga måltiderna 1,86 1,69 1,85 1,54 minska
 ska minska räknat i kg CO2-ekv/kg livsmedel. Målsätt-
@@ -2082,16 +2082,16 @@ ningen är 1,0 år 2030.
 Antal kemiska produkter med utfasningsämnen, inklu- 113 115 151 162 minska
 sive hormonstörande ämnen på SIN-listan ska minska i
 kommunens verksamheter.
-Avfall från hushåll ska minska med 30 % per invånare 103 92 92 * minska
+Avfall från hushåll ska minska med 30 % per invånare 103 92 92 \* minska
 från 2020 till 2030. Startvärde 100, målvärde 2030 är
-70.
-Avfall från kommunens verksamheter ska minska med 115 223 * * minska
+70\.
+Avfall från kommunens verksamheter ska minska med 115 223 \* \* minska
 40 % per heltidsanställd. Startvärde 100, målvärde
 2030 är 60.
 Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig måttlig öka
-Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 %    *
+Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 %    \*
 Vattendrag med god ekologisk status, andel (Kolada) 18,5 % 18,5 % 18,5 % 18,5 % öka
-Andelen återbrukade möbler          *      *       *     2 %    öka
+Andelen återbrukade möbler          \*      \*       \*     2 %    öka
 Ungas hälsa i årskurs 4 och 8 – Flickor. (Elevhälsan i Åk 4: 88%, Åk 4: 85%, Åk 4: 85%, Åk 4: 87%, öka
 Kungsbacka utvecklar metod utifrån hälsosamtal med Åk 8: 72%, Åk 8: 79%, Åk 8: 73%, Åk 8: 75%,
 elever)                           Åk 1    Åk 1   Åk 1 Åk 1 gymna-
@@ -2102,7 +2102,7 @@ Kungsbacka utvecklar metod utifrån hälsosamtal med Åk 8: 93% Åk 8: 92% Åk 8
 elever)                           Åk 1    Åk 1   Åk 1 Åk 1 gymna-
 gymnasiet: gymnasiet: gymnasiet: siet:
 85%     86%    88%
-*) Ännu ej publicerad.
+\*) Ännu ej publicerad.
 
 Kungsbacka kommuns årsredovisning 2025 37
 
@@ -2198,13 +2198,13 @@ av företagsklimatet.
 Svenskt näringslivs attitydundersökning av kommuners före- 3,4 3,4 3,8 3,6 öka
 tagsklimat. Medelvärde utifrån skala 1–6, där företag bedömer
 företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal      28 485 28 586 28 426 **    öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % 4,9 % ** 5,0 %
-Företagsamhet, andel av invånare 16–74 år 18 % 19 % *    *       *
-Antal nystartade företag per 1 000 invånare 16–64 år, etable- 12,8 10,3 12,3 ** öka
+Sysselsatt dagbefolkning, antal      28 485 28 586 28 426 \*\*    öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % 4,9 % \*\* 5,0 %
+Företagsamhet, andel av invånare 16–74 år 18 % 19 % \*    \*       \*
+Antal nystartade företag per 1 000 invånare 16–64 år, etable- 12,8 10,3 12,3 \*\* öka
 ringsfrekvens (Kolada)
-*) Måttet sammanställs inte längre.
-**) Ännu ej publicerad
+\*) Måttet sammanställs inte längre.
+\*\*) Ännu ej publicerad
 
 Kungsbacka kommuns årsredovisning 2025 39
 
@@ -2283,11 +2283,11 @@ utgörs av summan av de 17 bästa betygen i elevens slutbetyg och
 kan max vara 340. (Kolada)
 Genomsnittlig betygspoäng för gymnasiets avgångselevers betygs- 14,5 14,3 14,0 14,0 öka
 poäng som kan vara max 20. (Kolada)
-Arbetslöshet 16–24 år i kommunen, procent (Kolada) 1,7 1,7 2,3 * minska
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 376 325 306 *
-Andel vuxna personer som inte återkommer till försörjningsstöd 69 73 75 * öka
+Arbetslöshet 16–24 år i kommunen, procent (Kolada) 1,7 1,7 2,3 \* minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 376 325 306 \*
+Andel vuxna personer som inte återkommer till försörjningsstöd 69 73 75 \* öka
 inom ett år efter avslutat försörjningsstöd, procent (Kolada)
-*) Ännu ej publicerad
+\*) Ännu ej publicerad
 
 Kungsbacka kommuns årsredovisning 2025 41
 
@@ -2370,15 +2370,15 @@ vidare och att höja resultatet framöver.
 
 Målsättning
 Indikator                            2022  2023  2024  2025    2025
-Hållbart medarbetarengagemang, ett index för medarbetarnas 78 76 75 * öka
+Hållbart medarbetarengagemang, ett index för medarbetarnas 78 76 75 \* öka
 samlade uppfattning om områdena motivation, ledarskap och
 styrning, skala 1–100 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 114 122 124 **   öka
-180. Jämix beräknas utifrån nio nyckeltal med skala 1–20 och
+Jämställdhetsindex, Jämix. Antal poäng av max 114 122 124 \*\*   öka
+180\. Jämix beräknas utifrån nio nyckeltal med skala 1–20 och
 visar hur jämställda arbetsvillkor, arbetsmiljö och anställnings-
 villkor är i organisationen
-*Undersökningen har ändrat frekvens och genomförs numera vartannat år. Vi kommer därför inte att ha ett värde för 2025.
-**) Ännu ej publicerad
+\*Undersökningen har ändrat frekvens och genomförs numera vartannat år. Vi kommer därför inte att ha ett värde för 2025.
+\*\*) Ännu ej publicerad
 
 Kungsbacka kommuns årsredovisning 2025 43
 
@@ -2830,16 +2830,16 @@ Balanskravsutredning, miljoner kronor                   2024  2025
 
 Pensionsförpliktelser intjänade före 1998               +25    -38
 Årets resultat enligt blandmodellen                     311    567
-- Samtliga realisationsvinster                           -1    -2
-+ Realisationsvinster enligt undantagsmöjlighet           -     -
-+ Realisationsförluster enligt undantagsmöjlighet         -     -
+\- Samtliga realisationsvinster                           -1    -2
+\+ Realisationsvinster enligt undantagsmöjlighet           -     -
+\+ Realisationsförluster enligt undantagsmöjlighet         -     -
 -/+ Orealiserade vinster och förluster i värdepapper      -     -
 
 +/- Återföring av orealiserade vinster och förluster i värdepapper - -
 = Årets resultat efter balanskravsjusteringar           310    565
-- Reservering av medel till resultatreserv                -     -
-+ Användning av medel från resultatreserv                 -     -
-+ Användning av medel från resultatutjämningsreserv       -     -
+\- Reservering av medel till resultatreserv                -     -
+\+ Användning av medel från resultatreserv                 -     -
+\+ Användning av medel från resultatutjämningsreserv       -     -
 
 = Balanskravsresultat                                   310    565
 
@@ -3023,7 +3023,7 @@ FÖRVALTNINGSBERÄTTELSE
 Förväntad                utveckling
 
 Årsredovisningen är en redogörelse och analys av året i infrastruktur, skolor och omsorgslokaler. Kommuner
-2025. Den är också ett viktigt underlag när vi planerar som redan har stora lån eller stora investeringsplaner
+2025\. Den är också ett viktigt underlag när vi planerar som redan har stora lån eller stora investeringsplaner
 ekonomin för kommande år och för ekonomistyrningen. behöver därför vara försiktiga och planera långsiktigt.
 Kungsbacka kommun beslutar i juni om budgeten för
 nästa år och därför hänger arbetet med årsredovisningen Statens finanser påverkar också kommunerna. Under
@@ -3299,7 +3299,7 @@ Kungsbacka kommun följer lagen om kommunal hushållning. Vi har eliminerat inte
 bokföring och redovisning, LKBR (2018:597) med mellan kommunen och koncernföretagen.
 undantag för redovisning av pensioner intjänade före
 Skatteintäkter
-1998. Kommunen följer även, om inte annat anges, de
+1998\. Kommunen följer även, om inte annat anges, de
 rekommendationer som Rådet för kommunal redovisning Redovisade skatteintäkter utgörs av årets preliminära
 (RKR) lämnar samt övrig redovisningspraxis. skatteinbetalningar, prognostiserad slutavräkning
 för redovisningsåret samt en justering av föregående
@@ -3543,7 +3543,7 @@ kostnader          38,8  -8,1 38,8  -8,1
 Summa jämförelsestörande
 Övriga upplysningar
 poster             75,0  56,7 75,0 56,7
-1) Övriga generella statsbidrag: Stöd till kommuner - skolor mot brott 2025 om
+1\) Övriga generella statsbidrag: Stöd till kommuner - skolor mot brott 2025 om
 0,4 mkr.                               Övriga upplysningar
 Under 2024 redovisas realisationsvinster från exploateringsverksamheten samt
 exploateringsersättningar som jämförelsestörande poster samt minskning av
@@ -3730,7 +3730,7 @@ Summa bidrag till statlig 64,6 61,1 64,6 61,1
 infrastruktur
 Övriga upplysningar
 1 Avser byggande av ny tågstation i Åsa. Bidraget upplöses på 25 år med start år
-2011.
+2011\.
 2 Avser åtgärder i den statliga infrastrukturen i anslutning till exploatering av Må.
 Bidraget är justerat med index år 2023 och år 2024. Bidraget upplöses på 25 år
 med start år 2019. Samt summa 2024 har justerats.
@@ -3957,7 +3957,7 @@ Utgående avsättning 0,0   1,5  0,0   1,5 Kommunen svarar för alla kostnadsfö
 avtalet. Projektet avslutades 2025.
 Total utgående avsättning 51,7 37,6 51,7 37,6
 6 Bidrag till Trafikverket avser cirkulationsplats i Frillesås Rya. Avtal tecknades år
-2022. Bidraget återfördes år 2025 då medfinansieringsavtalet inte var gällande då
+2022\. Bidraget återfördes år 2025 då medfinansieringsavtalet inte var gällande då
 ¹³Avsättning för ledningsflytt          detaljplanen blev upphävd. Samt öresavrundning föregående år.
 Valand                                  7 Bidraget till Trafikverket avser Må vänstersväng och tecknades 2018. Bidraget är
 Redovisat värde vid årets 4,4 3,3 4,4 3,3 indexjusterat år 2023 och projektet avslutades år 2024.
@@ -4197,7 +4197,7 @@ Summa Avgiftsfinansierade                         375,9 -378,7 -2,7
 nämnder
 Summa nämnder                                    2 743,6 -8 495,5 -5 751,9
 
-Finans (9*)                                       44,0  -53,7  -9,7
+Finans (9\*)                                       44,0  -53,7  -9,7
 
 1 Justering Interna poster                      -1 385,5 1 939,0 553,5
 avskrivningar med mera
@@ -4336,7 +4336,7 @@ Finansiering lokalplan                 0,0      27,3    27,3  100,0%
 Finans                                 0,0     -16,4   -16,4  100,0%
 ```
 
-Exploateringsverksamhet * (Anläggningstillgångar) 7,2 55,8 48,6 87,1%
+Exploateringsverksamhet \* (Anläggningstillgångar) 7,2 55,8 48,6 87,1%
 
 ```osaker-tabell
 Summa skattefinansierad verksamhet    294,6    701,1   406,5  58,0%
@@ -4529,7 +4529,7 @@ och möjlighet till ny skola eller kontor. Detaljplanen med radhus till annan ex
 vann laga kraft under 2018 men exploatören har lämnat har man förberett marken i området för byggstart genom
 tillbaka tidigare markanvisning. Vi planerar för en ny rivningsarbete och marksanering och under 2025 har
 markanvisning som vi kommer att genomföra under man påbörjat utbyggnad av allmän plats. Kommunen
-2026.                             har under 2025 sålt kommunens flerbostadskvarter till
+2026\.                             har under 2025 sålt kommunens flerbostadskvarter till
 Riksbyggen.
 Väster om ån
 Björkris etapp 2
@@ -4553,7 +4553,7 @@ Andra etappen i detta projekt är kvarter Ejdern, där
 vi planerar att bygga cirka 250 bostäder och ett parke- Intill Annebergs pendelstation planerar kommunen för
 ringshus. Det är kommunen som äger marken i området ett nytt centrum som ska stärka Anneberg som tätort.
 och det har pågått förberedelser för markanvisning under Planområdet kommer att innehålla cirka 400 bostäder,
-2025.                             vård- och omsorgsboende, gruppbostad, förskola, samt
+2025\.                             vård- och omsorgsboende, gruppbostad, förskola, samt
 80 Kungsbacka kommuns årsredovisning 2025
 
 <!-- sida 91 -->
@@ -5658,7 +5658,7 @@ Självskattningen är genomförd för kommunstyrelsens förvaltning och förankr
 Resultatet är överlag gott och vi är på god väg att skapa en systematik som inte funnits tidigare. På några
 punkter finns utvecklingsområden, bland annat kontinuitetsarbetet som kan breddas och fördjupas inom
 förvaltningen. Större fokus kan läggas på kommunens gemensamma krisledningsorganisation, KÖKO, under
-2026.
+2026\.
 
 5.2 Resultat av annan granskning av vår verksamhet
 
@@ -6585,13 +6585,13 @@ nämndssamverkan eller kommunalförbund. Under 2025 ingick Kungsbacka bland anna
 samverkan.
 
 -Göteborgsregionens kommunalförbund (GR)
-- Räddningstjänsten Storgöteborg
+\- Räddningstjänsten Storgöteborg
 -Gemensam nämnd för hemsjukvård och hjälpmedel (Halland)
 
-- Patientnämnd Halland
-- Nämnden för överförmyndare i samverkan
+\- Patientnämnd Halland
+\- Nämnden för överförmyndare i samverkan
 
-- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
+\- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
 kollektivtrafik i Halland enligt lagen om kollektivtrafik, samt skatteväxling, ägarförhållande i Hallandstrafiken
 Ab och former för samverkan mellan Region Halland och länets kommuner i utveckling och planering av den
 regionala kollektivtrafiken").
@@ -6986,7 +6986,7 @@ Arvid och Hildur Anderssons donationsfond – 2025
 Nämnden för Individ och Familjeomsorgs förslag till Kommunstyrelsen
 Kommunstyrelsen beslutar att ingen utdelning ur Arvid och Hildur Anderssons donationsfond görs för
 
-2025.
+2025\.
 
 Sammanfattning av ärendet
 
@@ -7083,7 +7083,7 @@ Ansökan om bidrag till Göteborgsregionens Nämndemannaförening
 Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen avslår ansökan från Göteborgsregionens nämndemannaförening om bidrag för
 
-2026.
+2026\.
 
 Sammanfattning av ärendet
 
@@ -7182,7 +7182,7 @@ november 2026 så gäller avgiften för hela 2027.
 Februari — Digital föreläsning om Nya socialtjänstlagen
 
 Enhetschef vuxenenheten NN och enhetschef barn och unga
- Socialtjänsten Partille föreläser om nya lagen.
+Socialtjänsten Partille föreläser om nya lagen.
 
 När: Måndag 26 januari klockan 18.00 — 20.00
 Var: Digital föreläsning
@@ -7789,7 +7789,7 @@ fördjupade översiktsplanen för Kungsbacka stads intention att komplettera med
 bostäder i centrala delar av staden för en mer hållbar samhällsutveckling.
 Fastigheten är belägen inom detaljplan TP52 som vann laga kraft den 21 september
 
-2001. Den aktuella fastigheten är i plankartan redovisad som kvartersmark för skola.
+2001\. Den aktuella fastigheten är i plankartan redovisad som kvartersmark för skola.
 I dag finns Vittraskolan, Novaskolan och Forsgläntans idrottshall inom fastigheten.
 Mot norr gränsar fastigheten till Forsskogen och i öster till ett mindre grönområde
 mellan skolfastigheten och ett bostadsområde. Sydöst om fastigheten ligger en
@@ -7879,19 +7879,19 @@ aktuella detaljplaneområdet ingår i första etappen.
 
 Revideringen av projektbeställningen, som antogs av kommunstyrelsen den 26
 september 2023, innebär att:
-- Planområdesgränsen ändras
+\- Planområdesgränsen ändras
 
-- Planens innehåll av kommunal service ändras från skola för 700 elever inklusive
+\- Planens innehåll av kommunal service ändras från skola för 700 elever inklusive
 fullmåttshall till en flexibel byggrätt för utbildningslokaler alternativt BMSS
 (boende med särskilt stöd och service)
 
-- Detaljplanearbetet ska utreda förutsättningar för en övergång över Västkustbanan
+\- Detaljplanearbetet ska utreda förutsättningar för en övergång över Västkustbanan
 samt ta fram en kostnadsuppskattning och därefter få ett inriktningsbeslut om
 fortsatt arbete med övergången
-- Förtydligande gällande pendelparkeringen och att planen ska möjliggöra för en
+\- Förtydligande gällande pendelparkeringen och att planen ska möjliggöra för en
 flexibel utbyggnad av parkeringshus för pendlare
 
-- Förändring av uppskattade tidplan och budget.
+\- Förändring av uppskattade tidplan och budget.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: DF64E9E586FB24A50268777F8F12E363B564704A01
@@ -7915,18 +7915,18 @@ Projektbeställning, 2023-07-26, reviderad 2023-09-26
 Förslag till beslut på sammanträdet
 
 Stefan Jägnert (SD) yrkar att projektbeställningen revideras enligt följande:
-1. Formuleringar som anger att hög täthet är att föredra i det stationsnära läget ska
+1\. Formuleringar som anger att hög täthet är att föredra i det stationsnära läget ska
 strykas.
 
-2. Formuleringar som möjliggör bebyggelse mellan 4 och 7 våningar samt
+2\. Formuleringar som möjliggör bebyggelse mellan 4 och 7 våningar samt
 skrivningen om eventuell högre uppstickare ska strykas.
-3. Det ska tydligt anges att byggnadshöjd inom planområdet inte får överstiga fem
+3\. Det ska tydligt anges att byggnadshöjd inom planområdet inte får överstiga fem
 våningar.
 
-4. Det ska införas en skrivning om att planområdet ska utformas med blandad
+4\. Det ska införas en skrivning om att planområdet ska utformas med blandad
 bebyggelse, med variation av flerbostadshus, radhus och småhus.
 
-5. Det ska framgå att bebyggelsen mot det öppna landskapet ska trappas ned i skala
+5\. Det ska framgå att bebyggelsen mot det öppna landskapet ska trappas ned i skala
 och huvudsakligen bestå av två till fyra våningar samt inslag av
 småhusbebyggelse.
 Magdalena Sundqvist (S) yrkar att det ska vara 50 procent hyresrätter.
@@ -8205,17 +8205,17 @@ planområde med strategiskt läge.
 
 PROJEKTETS  LEVERANSER
 
-1. Projektbeställning SBK/KS
-2. Projektplan SBK/Forum Samhällsbyggnad
+1\. Projektbeställning SBK/KS
+2\. Projektplan SBK/Forum Samhällsbyggnad
 
 Revidering: 3. Principavtal
-4. Samrådshandlingar BN
+4\. Samrådshandlingar BN
 
-5. Granskningshandlingar BN
-6. Exploateringsavtal KS
+5\. Granskningshandlingar BN
+6\. Exploateringsavtal KS
 
-7. Antagandehandlingar BN
-8. Antagandehandlingar KF
+7\. Antagandehandlingar BN
+8\. Antagandehandlingar KF
 
 Detaljplanen upprättas med utökat förfarande då den bedöms ha ett stort allmänt intresse, därav antas
 detaljplanen av kommunfullmäktige.
@@ -8253,45 +8253,45 @@ Avgränsning av planområdet. Gult området i söder påverkas av Hedeledens avg
 
 Projektet kommer att hantera:
 
-- lämplig storlek på byggrätt för utbildningslokaler och övrig kommunal service
+\- lämplig storlek på byggrätt för utbildningslokaler och övrig kommunal service
 Revidering: kommunal service i form av BMSS.
 
-- lämplig storlek på byggrätt för bostäder och centrumlokaler
+\- lämplig storlek på byggrätt för bostäder och centrumlokaler
 
-- utformning av byggnader, gårdar och allmän plats
-- ytor för grönstruktur, park och torg
-- sociala aspekter
-- stråk och eventuella kopplingar över/under Västkustbanan
+\- utformning av byggnader, gårdar och allmän plats
+\- ytor för grönstruktur, park och torg
+\- sociala aspekter
+\- stråk och eventuella kopplingar över/under Västkustbanan
 Revidering: -Utreda förutsättningarna för en koppling över järnvägen och utredningen ska
 även omfatta en kostnadsuppskattning.
 
-- trafik- och parkeringslösning
-- antal pendelparkeringar på både östra och västra sidan om Hede station.
+\- trafik- och parkeringslösning
+\- antal pendelparkeringar på både östra och västra sidan om Hede station.
 Revidering: - lämplig storlek på byggrätt som medger uppförande av parkeringshus för
 pendelparkering, med kapacitet att rymma minst lika många pendelparkeringsplatser som
 idag finns inom planområdet samt möjlighet till flexibel omfattning och utbyggnadstakt av
 
 pendelparkering.
 
-- VA och dagvattenhantering
+\- VA och dagvattenhantering
 
 <!-- sida 186 -->
 
 PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 6 (8)
 
-- geotekniska förutsättningar
-- arkeologi
-- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
+\- geotekniska förutsättningar
+\- arkeologi
+\- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
 
 Revidering: Bestämning av fastighetsgränser som bedöms vara osäkra som gränsar till
 planområdet.
 
 Frågor som inte ingår i projektet:
-- Utformning och placering av Hedeleden
-- Innehåll och utformning av bebyggelse på västra sidan om Hede station
+\- Utformning och placering av Hedeleden
+\- Innehåll och utformning av bebyggelse på västra sidan om Hede station
 
-- Innehåll och utformning av övriga områden i Voxlöv
+\- Innehåll och utformning av övriga områden i Voxlöv
 
 TIDPLAN
 Q3 2023 Uppdragsbeslut BNAU
@@ -8422,7 +8422,7 @@ Kommunstyrelsen godkänner projektbeställning för detaljplan för bostäder,
 utbildningslokaler samt centrum inom Hede 9:26 och Voxlöv 4:9, daterad
 2023-07-26 med följande ändringar i projektbeställningen:
 
-1. Följande text stryks under rubriken Hållbarhetsaspekter, stycke tre; ”Inom
+1\. Följande text stryks under rubriken Hållbarhetsaspekter, stycke tre; ”Inom
 planområdet planeras för minst en tredjedel hyresrätter vilket innebär att det
 blir en blandning av bostadsupplåtelser som är bra för variationen och den
 sociala hållbarheten.”
@@ -8431,7 +8431,7 @@ Följande text adderas i dess ställe; ”Inom planområdet bör planeras för e
 högre andel bostäder i ägandeform i förhållande till vad som föreslås i
 planprogrammet. Den del av planområdet som ej angränsar mot Hede
 stationsområde bör ha en starkare karaktär av småhusbebyggelse.”
-2. Följande text stryks under rubriken Hållbarhet, stycke tre; ”För att öka
+2\. Följande text stryks under rubriken Hållbarhet, stycke tre; ”För att öka
 tryggheten och den sociala hållbarheten i området bör stationshus på båda
 sidor om spåret utredas samt att stor vikt läggs vid utformning och
 
@@ -8439,12 +8439,12 @@ programmering av stationstorget.”
 Följande text adderas i dess ställe; ”Området som angränsar till järnvägen
 behöver utformas med fokus på hög trygghet.”
 
-3. Följande text stryks under rubriken Hållbarhetsaspekter, stycke fem; ”… samt
+3\. Följande text stryks under rubriken Hållbarhetsaspekter, stycke fem; ”… samt
 att dessa ytor ska ha hög kvalitet.”
-4. Följande text stryks under rubriken Uppdrag underrubrik Prioritering, stycke
+4\. Följande text stryks under rubriken Uppdrag underrubrik Prioritering, stycke
 två; ”… gestaltningsprogram kommer tas fram…”
 
-5. Följande text stryks under rubriken Beslut och rapportering, underrubrik
+5\. Följande text stryks under rubriken Beslut och rapportering, underrubrik
 rapporteringsrutiner, stycke tre; ”Avstämningar med KS görs endast om
 frågeställningen berör de kommunala investeringarna i projektet.”
 
@@ -8728,16 +8728,16 @@ projekt är väl tilltagen då arbetet ska hålla hög kvalitet samt på grund a
 planområde med strategiskt läge.
 
 PROJEKTETS  LEVERANSER
-1. Projektbeställning SBK/KS
-2. Projektplan SBK/Forum Samhällsbyggnad
+1\. Projektbeställning SBK/KS
+2\. Projektplan SBK/Forum Samhällsbyggnad
 
-3. Samrådshandlingar BN
-4. Granskningshandlingar BN
+3\. Samrådshandlingar BN
+4\. Granskningshandlingar BN
 
-5. Exploateringsavtal KS
-6. Antagandehandlingar BN
+5\. Exploateringsavtal KS
+6\. Antagandehandlingar BN
 
-7. Antagandehandlingar KF
+7\. Antagandehandlingar KF
 Detaljplanen upprättas med utökat förfarande då den bedöms ha ett stort allmänt intresse, därav antas
 
 detaljplanen av kommunfullmäktige.
@@ -8770,31 +8770,31 @@ som markerar fastighetsgränsen mot det öppna jordbrukslandskapet i norr.
 Avgränsning av planområdet. Gult området i söder påverkas av Hedeledens avgränsning. Bilden visar ungefärligt område som påverkas.
 
 Projektet kommer att hantera:
-- lämplig storlek på byggrätt för utbildningslokaler och övrig kommunal service
+\- lämplig storlek på byggrätt för utbildningslokaler och övrig kommunal service
 
 <!-- sida 197 -->
 
 PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 5 (7)
 
-- lämplig storlek på byggrätt för bostäder och centrumlokaler
-- utformning av byggnader, gårdar och allmän plats
-- ytor för grönstruktur, park och torg
+\- lämplig storlek på byggrätt för bostäder och centrumlokaler
+\- utformning av byggnader, gårdar och allmän plats
+\- ytor för grönstruktur, park och torg
 
-- sociala aspekter
-- stråk och eventuella kopplingar över/under Västkustbanan
-- trafik- och parkeringslösning
-- antal pendelparkeringar på både östra och västra sidan om Hede station.
-- VA och dagvattenhantering
+\- sociala aspekter
+\- stråk och eventuella kopplingar över/under Västkustbanan
+\- trafik- och parkeringslösning
+\- antal pendelparkeringar på både östra och västra sidan om Hede station.
+\- VA och dagvattenhantering
 
-- geotekniska förutsättningar
-- arkeologi
-- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
+\- geotekniska förutsättningar
+\- arkeologi
+\- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
 
 Frågor som inte ingår i projektet:
-- Utformning och placering av Hedeleden
-- Innehåll och utformning av bebyggelse på västra sidan om Hede station
-- Innehåll och utformning av övriga områden i Voxlöv
+\- Utformning och placering av Hedeleden
+\- Innehåll och utformning av bebyggelse på västra sidan om Hede station
+\- Innehåll och utformning av övriga områden i Voxlöv
 
 TIDPLAN
 
@@ -8978,7 +8978,7 @@ Sammanfattning av ärendet
 Nämnden för Vård & Omsorg beslutade i september 2022 om en modernisering av Signes hus för att
 anpassa lokalen till nuvarande myndighetskrav med koncept för vård- och omsorgslokaler som grund.
 Lokalbehovet med löpnummer 816 ingår i lokalplan 2025–2029 och kommunbudget 2025, plan 2026–
-2027.
+2027\.
 
 Kommunstyrelsen tog beslut om uppstart av projektet i november 2024 och förvaltningen för Service
 påbörjade projektet strax därefter. Projektet färdigställs i april 2026 med driftstart i två etapper, april
@@ -9975,7 +9975,7 @@ ungefärliga avgränsning framgår av karta i bilaga 2.
 
 3.2
 
-25)
+25\)
 
 Då Bolaget inte avser att vara ägare av Markområdet eller självt ska genomföra
 utbyggnad av byggnader och iordningsställande av mark för sin verksamhet ska
@@ -10148,7 +10148,7 @@ medgivande.
 <!-- sida 239 -->
 
 5(5)
-9. — Tvist
+9\. — Tvist
 
 9.1 Tvist rörande tolkning av denna avsiktsförklaring ska hänskjutas till allmän
 domstol.
@@ -10411,7 +10411,7 @@ Remissversion
 
 Remissversion
 
-- 2 -
+\- 2 -
 
 <!-- sida 250 -->
 
@@ -10433,7 +10433,7 @@ ISBN: Ange ISBN nummer. Omslagsfoto: : Eduardo Infantes Oanes (överst t. v.), K
 (överst t. h), Maja Kristin Nylander (nederst t. v) och Pernilla Johansson nederst t. h.)
 Havs- och vattenmyndigheten | Box 11 930 | 404 39 Göteborg | www.havochvatten.se
 
-- 3 -
+\- 3 -
 
 <!-- sida 251 -->
 
@@ -10479,7 +10479,7 @@ Göteborg, 10 december 2025
 
 Thomas Klein
 
-- 5 -
+\- 5 -
 
 <!-- sida 253 -->
 
@@ -10506,7 +10506,7 @@ däggdjur, sjöfåglar, fisk, pelagiska livsmiljöer, bentiska livsmiljöer och 
 behöver mer utveckling innan de kan anses vara tillräckliga. En del av utvecklingen pågår eller
 planeras, vilket presenteras i rapporten.
 
-- 6 -
+\- 6 -
 
 <!-- sida 254 -->
 
@@ -10563,7 +10563,7 @@ Sjöfåglar (Deskriptor 1) .....................................................
 Fisk (Deskriptor 1) ................................................................................................................... 35
 Kommersiellt nyttjade fiskar och skaldjur (Deskriptor 3) ........................................................ 42
 
-- 7 -
+\- 7 -
 
 <!-- sida 255 -->
 
@@ -10615,7 +10615,7 @@ FÖRKORTNINGAR OCH ORDLISTA ....................................................
 
 REFERENSER ............................................................................................................................... 99
 
-- 8 -
+\- 8 -
 
 <!-- sida 256 -->
 
@@ -10666,7 +10666,7 @@ miljökvalitetsnormer med tillhörande indikatorer, övervakningsprogram samt å
 havsmiljön. Dessa verktyg utgör grunden för planering och uppföljning inom respektive
 förvaltningsperiod, se figur 1.
 
-- 9 -
+\- 9 -
 
 <!-- sida 257 -->
 
@@ -10717,7 +10717,7 @@ Den aktuella uppdateringen av övervakningsprogrammet ingår i den tredje förva
 Första övervakningsprogrammet rapporterades 20142 och andra 20203. Under år 2026 kommer
 programmen att remitteras, revideras, beslutas och rapporteras, vilket ger underlag för nästa
 bedömning av havsmiljön som ska genomföras år 2030. Senaste bedömningen genomfördes
-20244.
+20244\.
 Svensk akvatisk övervakning och dataförvaltning
 De övervakningsstrategier och övervakningsprogram som används för att bedöma status enligt
 havsmiljödirektivet bygger till stor del på existerande övervakningsprogram. Dessa program
@@ -10727,7 +10727,7 @@ att bättre tillgodose behoven inom havsmiljöförvaltningen.
 2 Referens: Havs- och vattenmyndigheten (2014)
 3 Referens: Havs- och vattenmyndigheten (2020)
 4 Referens: Havs- och vattenmyndigheten (2024)
-- 10 -
+\- 10 -
 
 <!-- sida 258 -->
 
@@ -10784,7 +10784,7 @@ en samlad bild av utsläppens effekter samtidigt som samordningen kan minska kos
 5 Mer information om Länsstyrelsernas arbete med regional miljöövervakning finns på Länsstyrelsernas webbsida:
 https://www.regionalmiljoovervakning.se/
 
-- 11 -
+\- 11 -
 
 <!-- sida 259 -->
 
@@ -10844,7 +10844,7 @@ beräkningsprocesser dokumenteras och förvaltas på ett strukturerat sätt. I d
 stor del förvaltning av sådana uppgifter, vilket innebär en risk för bristande spårbarhet och kvalitet
 i dataanvändningen.
 
-- 12 -
+\- 12 -
 
 <!-- sida 260 -->
 
@@ -10884,7 +10884,7 @@ För att uppnå ett önskvärt miljötillstånd i havet krävs en förståelse f
 miljötillstånd, miljöförändringar och mänsklig påverkan. Övervakningen ska därför enligt
 havsmiljödirektivet tillhandahålla ett kunskapsunderlag som möjliggör bedömning av mänskliga
 
-- 13 -
+\- 13 -
 
 <!-- sida 261 -->
 
@@ -10944,7 +10944,7 @@ havsmiljödirektivet beakta storskaliga och gränsöverskridande effekter. För 
 6 Referens: Elliott m.fl., (2017)
 7 Referens: Havs- och vattenmyndigheten (2021)
 
-- 14 -
+\- 14 -
 
 <!-- sida 262 -->
 
@@ -11003,7 +11003,7 @@ De EU-direktiv som har tydligast koppling till havsmiljön är vattendirektivet 
 (92/43/EEG) som bland annat omfattar marina arter och livsmiljöer. EU:s
 datainsamlingsförordning ((EU) 2017/1004; (EU) 2021/1167; (EU) 2021/1168) som står för stora
 
-- 15 -
+\- 15 -
 
 <!-- sida 263 -->
 
@@ -11063,7 +11063,7 @@ beräkna tillförseln av näringsämnen och farliga ämnen till havet. Motsvaran
 
 8 Referens: Zampoukas m.fl. (2012)
 
-- 16 -
+\- 16 -
 
 <!-- sida 264 -->
 
@@ -11110,8 +11110,8 @@ uppnås för de arter och livsmiljötyper som direktivet omfattar.
 Övervakningens resultat utgör underlag för rapporteringen (artikel 17) till EU-kommissionen vart
 sjätte år och omfattar de parametrar som används för att fastställa bevarandestatus:
 
--  Utbredning, areal och tillstånd (struktur & funktion) för livsmiljötyper
--  Utbredning, populationsfaktorer och kvaliteten på artens livsmiljö för direktivsarter.
+\-  Utbredning, areal och tillstånd (struktur & funktion) för livsmiljötyper
+\-  Utbredning, populationsfaktorer och kvaliteten på artens livsmiljö för direktivsarter.
 
 För detta krävs en nationell övervakning av parametrarna uppbyggd på lämpliga, jämförbara
 metoder som genomförs med tillräcklig geografisk täckning och provtagningsfrekvens.
@@ -11123,7 +11123,7 @@ inom skyddade områden. Naturvårdsverket har det övergripande ansvaret för sa
 9 Handlingsplanen Full koll på våra vatten finns på Havs- och vattenmyndighetens webbsida:
 https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/full-koll-pa-vara-vatten.html
 
-- 17 -
+\- 17 -
 
 <!-- sida 265 -->
 
@@ -11151,7 +11151,7 @@ För att nå de övergripande målen ska minst 30 procent av de livsmiljötyper 
 
 som omfattas av förordningen, däribland marina miljöer, återställas från dåligt till gott tillstånd
 senast år 2030. Målsättningen utökas därefter till 60 procent till år 2040 och till 90 procent till år
-2050.
+2050\.
 
 Från att förordningen trädde i kraft den 18 augusti 2024 har medlemsländerna två år på sig att ta
 fram en nationell restaureringsplan. Denna ska bland annat innehålla information för hur
@@ -11180,7 +11180,7 @@ arter, bifångst och fysisk påverkan på bland annat bottnar. I den gemensamma 
 ska nyttjandet och bevarandet av fisken balanseras. Därför är länderna skyldiga att samla in data
 som kan ge underlag för fiskeriförvaltningen.
 
-- 18 -
+\- 18 -
 
 <!-- sida 266 -->
 
@@ -11238,7 +11238,7 @@ livsmiljöer och om hållbar fiskförvaltning.
 
 10 Referens: Miljödepartementet (2012)
 
-- 19 -
+\- 19 -
 
 <!-- sida 267 -->
 
@@ -11295,7 +11295,7 @@ HaV samverkat med Naturvårdsverket, Livsmedelsverket, Kustbevakningen, SMHI, Sv
 12 Faktasidor som beskriver den marina miljöövervakningen finns på Havs- och vattenmyndighetens webbsida:
 https://www.havochvatten.se/overvakning-i-marin-miljo
 
-- 20 -
+\- 20 -
 
 <!-- sida 268 -->
 
@@ -11353,7 +11353,7 @@ bedömning ska tillgängliggöras.
 webbsida: www.havochvatten.se/remisser
 14 Referens: EU Commission (2013)
 
-- 21 -
+\- 21 -
 
 <!-- sida 269 -->
 
@@ -11413,7 +11413,7 @@ arbetsgrupper där Sverige deltar, exempelvis biodiversitet (WG Biodiv), havsbas
 16 Övervakningshandledningar för Helcoms övervakningsprogram finns på Helcoms webbsida: https://helcom.fi/helcom-at-
 work/publications/manuals-and-guidelines/
 
-- 22 -
+\- 22 -
 
 <!-- sida 270 -->
 
@@ -11472,7 +11472,7 @@ Ices arbets- och expertgrupper deltar Sverige även i andra internationella samm
 
 17 Water Information System for Europe, State of the Environment
 
-- 23 -
+\- 23 -
 
 <!-- sida 271 -->
 
@@ -11481,7 +11481,7 @@ Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 syftar till att identifiera samordningsmöjligheter. Därigenom har Sverige en löpande kontakt med
 representanter för nationell övervakning och bedömning i andra länder.
 
-- 24 -
+\- 24 -
 
 <!-- sida 272 -->
 
@@ -11535,7 +11535,7 @@ Populationens tillstånd (D1C3) ska bedömas i fall det finns risk att detta kri
 status. Därför ingår både späcktjocklek och dräktighetsfrekvens i definitionen av god miljöstatus
 (se Tabell 1).
 
-- 25 -
+\- 25 -
 
 <!-- sida 273 -->
 
@@ -11605,7 +11605,7 @@ artens livscykel
 Underlag för miljökvalitetsnormer och åtgärdsuppföljning
 Det finns två miljökvalitetsnormer i HaV:s föreskrifter HVMFS 2012:18, som har betydelse för
 marina däggdjur.
-- 26 -
+\- 26 -
 
 <!-- sida 274 -->
 
@@ -11676,7 +11676,7 @@ minska uppkomsten av marint skräp
 samt sätta upp målsättningar för ett
 sådant arbete
 18 Referens: Havs- och vattenmyndigheten (2021)
-- 27 -
+\- 27 -
 
 <!-- sida 275 -->
 
@@ -11733,7 +11733,7 @@ detektera förändringar i utbredningsmönster på grund av mänsklig störning.
 Kameraövervakning har genomförts i flera områden, till exempel Utklippan och Stockholms
 skärgård i Östersjön och i Bottenhavet.
 
-- 28 -
+\- 28 -
 
 <!-- sida 276 -->
 
@@ -11791,7 +11791,7 @@ populationsstorlek. Det kommer kunna göras en uppdaterad bedömning till 2030 f
 populationsstorlek, dock är det inte möjligt att etablera en tidsserie med endast två skattningar av
 totalabundans.
 
-- 29 -
+\- 29 -
 
 <!-- sida 277 -->
 
@@ -11829,7 +11829,7 @@ att övervaka minst 5% av det totala garnfisket som sker i svenska vatten. För 
 kompletteras övervakning med hjälp av vetenskapliga observatörer med övervakning med hjälp
 av kamerasystem. Kamerasystemen ökar också möjligheten att provta mindre fartyg där det ofta
 råder platsbrist för observatörer. Övervakningen har sedan 2022 innefattat Ices subdivisioner 21-
-29. Sedan 2025 omfattas även Skagerrak (SD20).
+29\. Sedan 2025 omfattas även Skagerrak (SD20).
 
 Data rörande förekomst av bifångster i garnfisket samlades också in under två pilotprojekt 2017-
 2021; med observatörer (2017-2021) och kamerasystem (2020-2021). Merparten av denna
@@ -11839,7 +11839,7 @@ Data rörande förekomst av bifångster i garnfisket samlades också in under tv
 
 observatörer ombord inom den ordinarie provtagningen. För det demersala fisket startade
 övervakningen 2002 (2008 för räkfisket) och för det pelagiska fisket år 2021 (omfattar endast
-Östersjön). I trålfisket övervakas dock ofta <1% (~2% pelagiska trålar) av den årliga
+Östersjön). I trålfisket övervakas dock ofta <1% (\~2% pelagiska trålar) av den årliga
 fiskeansträngningen.
 
 I dagsläget är det enbart möjligt att bedöma bifångst av tumlare i svenska vatten. Information om
@@ -11848,7 +11848,7 @@ loggböcker. Dock är dessa underlag inte tillräckligt för att kunna bedöma p
 Bedömningsmetoder, inklusive tröskelvärden är tillgängliga. HaV undersöker hur övervakningen
 kan utökas för att bättre uppfylla behoven för bedömning av andra arter utöver tumlare.
 
-- 30 -
+\- 30 -
 
 <!-- sida 278 -->
 
@@ -11905,7 +11905,7 @@ miljökvalitetsnormer och åtgärdsuppföljning. Det pågår utveckling för att
 
 ska kunna komma till större användning i havsmiljöförvaltningen, se Brister och utveckling.
 
-- 31 -
+\- 31 -
 
 <!-- sida 279 -->
 
@@ -11965,7 +11965,7 @@ C.5 Miljökvalitetsnorm
 populationens långsiktiga överlevnad. (HVMFS 2025:12)
 Indikatorer för sjöfåglar saknas till miljökvalitetsnormen C.5.
 
-- 32 -
+\- 32 -
 
 <!-- sida 280 -->
 
@@ -12031,7 +12031,7 @@ Brister och utveckling
 I dagsläget ger övervakningen av sjöfåglar underlag för bedömning av abundans (D1C2) och
 delvis häckningsframgång (D1C3) utifrån fastslagna tröskelvärden. Bedömning av bifångst
 19 Referens: Havs- och vattenmyndigheten (2021)
-- 33 -
+\- 33 -
 
 <!-- sida 281 -->
 
@@ -12090,14 +12090,14 @@ till att skatta den totala bifångstkvoten per art. I övervakningsprogrammet ä
 kompletteras övervakning med hjälp av vetenskapliga observatörer med övervakning med hjälp
 av kamerasystem. Kamerasystemen ökar också möjligheten att provta mindre fartyg där det ofta
 
-- 34 -
+\- 34 -
 
 <!-- sida 282 -->
 
 Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
 råder platsbrist för observatörer. Övervakningen har sedan 2022 innefattat Ices subdivisioner 21-
-29. Sedan 2025 omfattas även Skagerrak (SD20).
+29\. Sedan 2025 omfattas även Skagerrak (SD20).
 
 Data rörande förekomst av bifångster i garnfisket samlades också in under två pilotprojekt 2017-
 2021 med observatörer (2017-2021) och kamerasystem (2020-2021). Merparten av denna
@@ -12107,7 +12107,7 @@ Data rörande förekomst av bifångster i garnfisket samlades också in under tv
 Övervakningen av bifångster från trålfisket (demersalt och pelagiskt) sker med hjälp av
 observatörer ombord inom den ordinarie provtagningen. För det demersala fisket startade
 övervakningen 2002 (2008 för räkfisket) och för det pelagiska 2021 (omfattar endast Östersjön). I
-trålfisket övervakas dock ofta <1% (~2% pelagiska tråkar) av den årliga fiskeansträngningen.
+trålfisket övervakas dock ofta <1% (\~2% pelagiska tråkar) av den årliga fiskeansträngningen.
 
 Även om det ingår i övervakningen att notera bifångst av sjöfågel saknas tillräckliga underlag om
 bifångade sjöfåglar i relevanta fisken. HaV undersöker hur övervakningen kan utökas för att
@@ -12147,7 +12147,7 @@ https://www.havochvatten.se/overvakning-i-marin-miljo
 • Kustfisk
 • Fisk och kräftdjur i utsjön
 
-- 35 -
+\- 35 -
 
 <!-- sida 283 -->
 
@@ -12213,7 +12213,7 @@ reproduktionsförmåga) som tyder på att
 de är friska och inte negativt påverkade
 av mänsklig verksamhet
 D1C4                 Indikator saknas      Kustfisk
-- 36 -
+\- 36 -
 
 <!-- sida 284 -->
 
@@ -12268,7 +12268,7 @@ Tillhörande indikatorer till miljökvalitetsnormen C.4
 •  C.4.2 Storleksstruktur hos nyckelart i kustvatten – torsk
 •  C.4.3 Storleksstruktur hos nyckelart av fisk i kustvatten – abborre
 
-- 37 -
+\- 37 -
 
 <!-- sida 285 -->
 
@@ -12348,7 +12348,7 @@ diadroma arter, med fokus på
 nationella åtgärdsprogram för hotade
 flodnejonöga, havsnejonöga och lax
 20 Referens: Havs- och vattenmyndigheten (2021)
-- 38 -
+\- 38 -
 
 <!-- sida 286 -->
 
@@ -12407,7 +12407,7 @@ tillförlitligheten i dessa bedömningar behöver data från både kustnära yrk
 inkluderas. Begränsningar i geografisk täckning och avsaknad av vissa arter i övervakningen
 påverkar även möjligheten att bedöma storleksfördelning hos kustfisk. För arter som sik, siklöja
 
-- 39 -
+\- 39 -
 
 <!-- sida 287 -->
 
@@ -12463,7 +12463,7 @@ tidigare saknats löpande övervakning utom för kräftpest på flodkräftor och
 (Gyrodactylus salaris) på laxungar. Förutom dessa typer av sjukdomar är det viktigt med en
 långsiktig och rutinmässig övervakning av fiskars och kräft- och blötdjurs hälsa.
 
-- 40 -
+\- 40 -
 
 <!-- sida 288 -->
 
@@ -12498,7 +12498,7 @@ DCF
 observatörer ombord inom den ordinarie provtagningen. För det demersala fisket startade
 
 övervakningen 2002 (2008 för räkfisket) och för det pelagiska 2021 (omfattar endast Östersjön). I
-trålfisket övervakas dock ofta <1% (~2% pelagiska tråkar) av den årliga fiskeansträngningen.
+trålfisket övervakas dock ofta <1% (\~2% pelagiska tråkar) av den årliga fiskeansträngningen.
 
 Data rörande förekomst av bifångster i garnfisket samlades också in under två pilotprojekt 2017-
 2021 med observatörer (2017-2021) och kamerasystem (2020-2021). Merparten av denna
@@ -12520,7 +12520,7 @@ göra en bedömning. HaV undersöker hur övervakningen kan utökas för att bä
 behoven för bedömning av andra arter utöver tumlare. Bedömningen bör ske i samarbete med
 andra länder som fiskar med relevanta redskap i populationernas utbredningsområde.
 
-- 41 -
+\- 41 -
 
 <!-- sida 289 -->
 
@@ -12580,7 +12580,7 @@ D3C1                 3.1A Fiskeridödlighet (F) för alla Kontroll av kommersiel
 kommersiellt nyttjade populationer fiskeriverksamhet
 Fiskeridödligheten för populationer av
 kommersiellt nyttjade arter ligger under
-- 42 -
+\- 42 -
 
 <!-- sida 290 -->
 
@@ -12635,7 +12635,7 @@ på näringsämnen.
 standardiserade metoder för övervakning och bedömning punkt 1.
 22 Referens: Havs- och vattenmyndigheten (2021)
 
-- 43 -
+\- 43 -
 
 <!-- sida 291 -->
 
@@ -12693,7 +12693,7 @@ se Underlag för miljökvalitetsnormer och åtgärdsuppföljning. Det pågår ut
 
 utveckling.
 
-- 44 -
+\- 44 -
 
 <!-- sida 292 -->
 
@@ -12761,7 +12761,7 @@ Det finns två miljökvalitetsnormer (MKN) för bentiska livsmiljöer i HaV:s f�
 2012:18. Data från övervakningen av fysisk påverkan ger underlag till en av
 miljökvalitetsnormernas tillhörande indikatorer. Övervakningen av bentiska livsmiljöer kommer på
 sikt att kunna ge underlag för den MKN som i dagsläget saknar indikatorer.
-- 45 -
+\- 45 -
 
 <!-- sida 293 -->
 
@@ -12824,7 +12824,7 @@ miljö samt samordna arbetet nationellt
 Fysisk påverkan: djupa mjukbottnar och
 sjöpennor i Västerhavet
 23 Referens: Havs- och vattenmyndigheten (2021)
-- 46 -
+\- 46 -
 
 <!-- sida 294 -->
 
@@ -12887,7 +12887,7 @@ Uppskattning av den rumsliga omfattningen av aktiviteter som orsakar förlust (D
 uppskattning av fysisk störning per huvudsaklig livsmiljötyp (D6C3) och fysisk förlust per
 huvudsaklig livsmiljötyp (D6C4). Dessa bygger på information om livsmiljöernas utbredning,
 känslighet och en analys om risk för påverkan. Metoderna för påverkansanalysen finns beskrivna
-- 47 -
+\- 47 -
 
 <!-- sida 295 -->
 
@@ -12945,7 +12945,7 @@ direktiven ska ligga till grund för förordningen, och att utvecklingen av dess
 24 Referens: Nyström Sandman A., m. fl., (2024)
 25 Carambha – Cumulative impact assessment of marine benthic habitats
 
-- 48 -
+\- 48 -
 
 <!-- sida 296 -->
 
@@ -13002,7 +13002,7 @@ näringskedjan kan därmed få konsekvenser för andra nivåer. Exempelvis kan f
 fisk- och sälbestånd indirekt påverka planktonsamhällets sammansättning och funktion, vilket
 behandlas vidare i strategin för marina näringsvävar. Planktonsamhället kan även påverkas direkt
 
-- 49 -
+\- 49 -
 
 <!-- sida 297 -->
 
@@ -13062,13 +13062,13 @@ D1C6                 1.6A Storlek och mängd av djurplankton Djurplankton
 Tillståndet i pelagiska livsmiljöer, 1.6B Artsammansättning av Växtplankton,
 inklusive deras biotiska och abiotiska växtplankton bakterieplankton,
 
-- 50 -
+\- 50 -
 
 <!-- sida 298 -->
 
 Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
-struktur och deras funktioner* är inte 5.2A Biomassa av växtplankton i primärproduktion och
+struktur och deras funktioner\* är inte 5.2A Biomassa av växtplankton i primärproduktion och
 negativt påverkade av mänskliga kustvatten (klorofyll a och biovolym) blomningar
 belastningar
 5.2B Klorofyll a koncentration i
@@ -13122,7 +13122,7 @@ upplösning i tid och rum, vilket har bidragit till låg tillförlitlighet i bed
 
 26 Referens: Havs- och vattenmyndigheten (2021)
 
-- 51 -
+\- 51 -
 
 <!-- sida 299 -->
 
@@ -13179,7 +13179,7 @@ ekosystemtjänsterna. IAS innefattar även arter som orsakar socioekonomiska ska
 
 27 Copernicus marine services: http://marine.copernicus.eu
 
-- 52 -
+\- 52 -
 
 <!-- sida 300 -->
 
@@ -13206,7 +13206,7 @@ Syftet med fokuslistan är att uppmuntra miljöövervakare att rapportera IAS ti
 öka uppmärksamheten om besvärliga arter och förbättra informationsflödet från tidig upptäckt och
 därmed få till effektiva åtgärder. Listan utgjordes år 2020 av totalt 57 arter, varav 24 är marina
 eller eustarina och av dessa är 13 dörrknackararter. Listan kommer att uppdateras under 2025-
-2026.
+2026\.
 
 Främmande arter kan introduceras i nya havsområden genom sjöfart som påväxt på fartygsskrov
 eller genom att de följer med i fartygets barlastvatten. De kan också spridas som fripassagerare
@@ -13226,7 +13226,7 @@ att ta fram ett bindande regelverk. Inom Ospar och Helcom har man dessutom tagit
 regional vägledning för att bättre skydda Östersjöns och Nordsjöns känsliga miljöer genom
 
 åtgärder mot biofouling för fritidsbåtar. En motsvarande vägledning för sjöfarten förväntas bli klar
-2026.
+2026\.
 
 Det är även viktigt att kartlägga riskområden där främmande arter kan slå sig ner och få fäste.
 Risken för att en art ska etablera sig i ett område styrs utöver artens spridningsegenskaper av
@@ -13239,7 +13239,7 @@ substrat. Miljöer som främmande arter ofta introduceras i är ofta starkt påv
 31 Fokuslista https://www.havochvatten.se/hav/fiske--fritid/arter/frammande-arter/frammande-arter/fokuslista-pa-invasiva-
 frammande-arter-for-miljoovervakare.html
 
-- 53 -
+\- 53 -
 
 <!-- sida 301 -->
 
@@ -13301,7 +13301,7 @@ mänsklig verksamhet, per
 Effekter av kylvatten
 bedömningsperiod (sex år), räknat från
 det referensår som rapporteras för den
-- 54 -
+\- 54 -
 
 <!-- sida 302 -->
 
@@ -13364,7 +13364,7 @@ dessa
 ÅPH 33               Minskad nyintroduktion och spridning av Främmande arter
 invasiva främmande arter
 32 Referens: Havs- och vattenmyndigheten (2021)
-- 55 -
+\- 55 -
 
 <!-- sida 303 -->
 
@@ -13423,7 +13423,7 @@ skaldjur inte orsakar spridning av främmande arter och stammar. Utsättningar a
 görs för att främja fisket, främst genom kompensationsutsättningar. Det övergripande syftet med
 en kommande övervakning bör vara att dokumentera nya beviljade utsättningstillstånd av
 
-- 56 -
+\- 56 -
 
 <!-- sida 304 -->
 
@@ -13480,7 +13480,7 @@ https://www.havochvatten.se/overvakning-i-marin-miljo
 • Fisk och kräftdjur i utsjön
 • Kontroll av kommersiell fiskeriverksamhet
 
-- 57 -
+\- 57 -
 
 <!-- sida 305 -->
 
@@ -13539,7 +13539,7 @@ Större djur på havsbotten
 Sedimentlevande makrofauna
 Vegetationsklädda bottnar
 
-- 58 -
+\- 58 -
 
 <!-- sida 306 -->
 
@@ -13600,7 +13600,7 @@ I åtgärdsprogrammet som beslutades av HaV 202133 finns det en åtgärd med dir
 marina näringsvävar (se tabell 14). Åtgärderna ses för närvarande över inför kommande
 33 Referens: Havs- och vattenmyndigheten (2021)
 
-- 59 -
+\- 59 -
 
 <!-- sida 307 -->
 
@@ -13660,7 +13660,7 @@ näringsvävar, varför utvecklingsarbete pågår inom expertgrupper i Helcom oc
 expertgrupper, med aktivt stöd från Sverige, utvecklar för närvarande bedömningsmetoder för att
 uppfylla kraven enligt deskriptor 4. Syftet är att identifiera avvikelser från ett referenstillstånd och
 
-- 60 -
+\- 60 -
 
 <!-- sida 308 -->
 
@@ -13715,7 +13715,7 @@ näringsämnen, två mäter koncentrationer av näringsämnen och sex mäter eff
 
 34 Referenser: Helcom (2023), Ospar (2023)
 
-- 61 -
+\- 61 -
 
 <!-- sida 309 -->
 
@@ -13783,14 +13783,14 @@ näringsberikning minskats till nivåer som
 tyder på negativa effekter på bentiska
 livsmiljöer eller andra
 övergödningseffekter
-- 62 -
+\- 62 -
 
 <!-- sida 310 -->
 
 Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
 D5C5                 5.5A Syrebalans i kustvatten Vattnets kemiska egenskaper
-- syre och pH
+\- syre och pH
 Halten löst syre har inte på grund av 5.5B Syrebalans i Utsjövatten
 näringsberikning minskats till nivåer som
 5.5C Syreskuld i utsjövatten
@@ -13843,7 +13843,7 @@ vatten och minskade   från land och atmosfär.
 övergödningseffekter
 35 Referens: Havs- och vattenmyndigheten (2021)
 
-- 63 -
+\- 63 -
 
 <!-- sida 311 -->
 
@@ -13903,7 +13903,7 @@ makrofytsamhällenas artsammansättning samt relativa abundans, då djuputbredni
 36 Handlingsplanen Full koll på våra vatten finns på Havs- och vattenmyndighetens webbsida:
 https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/full-koll-pa-vara-vatten.html
 
-- 64 -
+\- 64 -
 
 <!-- sida 312 -->
 
@@ -13961,7 +13961,7 @@ möjliggör en tydlig åtskillnad mellan dessa olika typer av effekter. Det är 
 
 37 European Monitoring and Evaluation Programme
 
-- 65 -
+\- 65 -
 
 <!-- sida 313 -->
 
@@ -14024,7 +14024,7 @@ Vattnets fysiska egenskaper
 och associerade biologiska samhällen)
 på grund av en bestående förändring av
 hydrografiska förhållanden
-- 66 -
+\- 66 -
 
 <!-- sida 314 -->
 
@@ -14084,7 +14084,7 @@ analys. Det behövs ytterligare arbete för att kvantifiera olika verksamheters 
 
 38 Referens: Havs- och vattenmyndigheten (2021)
 
-- 67 -
+\- 67 -
 
 <!-- sida 315 -->
 
@@ -14140,7 +14140,7 @@ kan de påverka bottenlevande organismer under lång tid framöver, tills dess a
 överlagrade med renare sediment som är ostört från till exempel muddring och omrörning av
 bottenlevande organismer.
 
-- 68 -
+\- 68 -
 
 <!-- sida 316 -->
 
@@ -14200,7 +14200,7 @@ denna strategi.
 • Tillförsel av föroreningar från atmosfär
 • Kontroll av badvattenkvalitet
 
-- 69 -
+\- 69 -
 
 <!-- sida 317 -->
 
@@ -14262,7 +14262,7 @@ Det finns två miljökvalitetsnormer för farliga ämnen i HaV:s föreskrifter H
 från fem övervakningsprogram ger underlag till miljökvalitetsnormernas tillhörande indikatorer –
 Tillförsel av föroreningar från land respektive atmosfär, utsläpp av olja och andra skadliga ämnen,
 farliga ämnen i biota samt biologiska effekter av tennorganiska föreningar.
-- 70 -
+\- 70 -
 
 <!-- sida 318 -->
 
@@ -14321,7 +14321,7 @@ sediment
 spridning av TBT leder till lägre
 koncentrationer av farliga ämnen och
 39 Referens: Havs- och vattenmyndigheten (2021)
-- 71 -
+\- 71 -
 
 <!-- sida 319 -->
 
@@ -14380,7 +14380,7 @@ ut kemikalier som kan vara relevanta att reglera inom till exempel EU:s kemikali
 
 40 Toxikologiska rådet - Kemikalieinspektionen
 
-- 72 -
+\- 72 -
 
 <!-- sida 320 -->
 
@@ -14439,7 +14439,7 @@ empting-pollution-by-screening-for-possible-risks-preempt/
 45 Handlingsplanen Full koll på våra vatten finns på Havs- och vattenmyndighetens webbsida:
 https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/full-koll-pa-vara-vatten.html
 
-- 73 -
+\- 73 -
 
 <!-- sida 321 -->
 
@@ -14495,11 +14495,11 @@ utökades programmet med analyser av organiska föroreningar. Övervakning av fa
 46 Framtidens miljöövervakning - https://www.naturvardsverket.se/om-miljoarbetet/forskning/miljoforskning/forskningssatsningar-
 samhalle/framtidens-miljoovervakning/
 47 SGEFF - Study Group on developing new guidelines for monitoring of biological EFFects of contaminants (SGEFF; 2024-
-2025)
+2025\)
 48 Referens: Naturvårdsverket (2024a)
 49 Referens: Naturvårdsverket (2025)
 
-- 74 -
+\- 74 -
 
 <!-- sida 322 -->
 
@@ -14558,7 +14558,7 @@ https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/full-koll-pa-
 https://rib.msb.se/filer/pdf/25589.pdf
 52 Referens: Vattenmyndigheterna (2024)
 
-- 75 -
+\- 75 -
 
 <!-- sida 323 -->
 
@@ -14617,7 +14617,7 @@ halter av farliga ämnen som förhindrar att god miljöstatus upprätthålls ell
 
 Tillhörande indikatorer till miljökvalitetsnormen B.1
 
-- 76 -
+\- 76 -
 
 <!-- sida 324 -->
 
@@ -14671,7 +14671,7 @@ som återfinns i olika storlekar och former. Den största andelen utgörs dock a
 som är mycket beständig och vanligtvis inte bryts ned helt i miljön, utan istället bryts ner till
 mindre och mindre delar i form av mikroplast.
 
-- 77 -
+\- 77 -
 
 <!-- sida 325 -->
 
@@ -14733,7 +14733,7 @@ D10C2                Indikator saknas      Mikroskräp
 Sammansättning, mängd och rumslig
 fördelning för mikroskräp längs kusterna,
 i vattnets ytskikt och i havsbottnens
-- 78 -
+\- 78 -
 
 <!-- sida 326 -->
 
@@ -14793,7 +14793,7 @@ den marina miljön
 Skräp på havsbotten
 53 Referens: Havs- och vattenmyndigheten (2021)
 
-- 79 -
+\- 79 -
 
 <!-- sida 327 -->
 
@@ -14863,7 +14863,7 @@ Utveckling av visuella metoder pågår för att med hjälp av undervattensvideo 
 förekomsten av skräp. Under 2024 finansierade Havs- och vattenmyndigheten ett projekt där
 skräp noterades i samband med filmning av havskräftbon inom övervakningsprogrammet Större
 djur på havsbotten. Resultaten visade att de ytor som täcks in vid filmning inte är tillräckliga för att
-- 80 -
+\- 80 -
 
 <!-- sida 328 -->
 
@@ -14921,7 +14921,7 @@ robusta analytiska verktyg och effektiva dataflöden som kan stödja en långsik
 övervakning av mikroskräp. Planen är att åter testa metoden i samband med att övervakningen
 av farliga ämnen utökas med nya kuststationer 2027. Genom att kombinera övervakning vid
 
-- 81 -
+\- 81 -
 
 <!-- sida 329 -->
 
@@ -14976,7 +14976,7 @@ delvis dessa mål, och en strategi för att utveckla övervakningen behövs för
 
 54 Referens: Naturvårdsverket (2024b)
 
-- 82 -
+\- 82 -
 
 <!-- sida 330 -->
 
@@ -15036,7 +15036,7 @@ tumlare gäller detta på individnivå.
 
 Indikatorer till miljökvalitetsnormen E.2 saknas.
 
-- 83 -
+\- 83 -
 
 <!-- sida 331 -->
 
@@ -15094,7 +15094,7 @@ senaste åren har Havs- och vattenmyndigheten lyft problemet till Regeringskansl
 
 55 Referens: Havs- och vattenmyndigheten (2021)
 
-- 84 -
+\- 84 -
 
 <!-- sida 332 -->
 
@@ -15142,7 +15142,7 @@ dessa källor kan kvantifieras.
 57 Naturvårdsverket (2025) Nytt system för företagens miljörapportering (KN2025/00357) – Redovisning av regeringsuppdrag,
 skrivelse NV-09157-23 - Nytt system för företagens miljörapportering.
 
-- 85 -
+\- 85 -
 
 <!-- sida 333 -->
 
@@ -15181,7 +15181,7 @@ text i tabellerna nedan. Denna utveckling sker parallellt med utvecklingen av ny
 bedömningsstrategier. Den övergripande statusen för övervakningens tillräcklighet indikeras med
 en färgkod.
 
-- 86 -
+\- 86 -
 
 <!-- sida 334 -->
 
@@ -15207,7 +15207,7 @@ D3C1 – fiskeridödlighet
 D3C2 – lekbeståndens Reviderade kontrollförordningen kommer att förbättra kvaliteten och
 biomassa       omfattning av fiskeridata stegvis fram till 2028
 
-- 87 -
+\- 87 -
 
 [Tabell 334-1](handlingar.tabeller/334-1.csv)
 
@@ -15252,7 +15252,7 @@ Marina näringsvävar (Deskriptor 4)
 Tabell 30 Status för övervakningen per D4-kriterium och djurgrupp. Texten i rutorna beskriver kortfattat det utvecklingsarbete
 som pågår eller planeras. Färgerna indikerar övervakningens tillräcklighet enligt: Ljusgrönt – Övervakning pågår men i
 
-- 88 -
+\- 88 -
 
 [Tabell 335-1](handlingar.tabeller/335-1.csv)
 
@@ -15286,7 +15286,7 @@ Utvecklingsarbetet sker parallellt med utvecklingen av nya indikatorer och bedö
 
 Den övergripande statusen för övervakningens tillräcklighet indikeras med en färgkod.
 
-- 89 -
+\- 89 -
 
 [Tabell 336-1](handlingar.tabeller/336-1.csv)
 
@@ -15316,7 +15316,7 @@ förbättringspotential), Ljusgrönt – Övervakning pågår men i otillräckli
 
 Kriterium     Övervakning för D5
 
-- 90 -
+\- 90 -
 
 [Tabell 337-1](handlingar.tabeller/337-1.csv)
 
@@ -15356,7 +15356,7 @@ förbättringspotential), Ljusgrönt – Övervakning pågår men i otillräckli
 är under utveckling.
 Kriterium  Övervakning för D8
 
-- 91 -
+\- 91 -
 
 [Tabell 338-1](handlingar.tabeller/338-1.csv)
 
@@ -15403,7 +15403,7 @@ Gult – Övervakning pågår, men viktiga delar är under utveckling, Rött –
 
 Kriterium  Övervakning för D10
 
-- 92 -
+\- 92 -
 
 [Tabell 339-1](handlingar.tabeller/339-1.csv)
 
@@ -15468,7 +15468,7 @@ uppfylla EU-direktiv, annan EU-lagstiftning och svensk lagstiftning, samt inom r
 Havs- och vattenmyndigheten har internt tagit fram en strategi för akvatisk övervakning. Det
 första steget i detta arbete har varit att identifiera relevanta kunskapsunderlag samt kartlägga
 
-- 93 -
+\- 93 -
 
 [Tabell 340-1](handlingar.tabeller/340-1.csv)
 
@@ -15492,7 +15492,7 @@ Parallellt pågår arbete med att utforma en sorterings- och presentationsstrukt
 hela den svenska akvatiska övervakningen och som syftar till att stärka förvaltningen av den
 akvatiska miljön genom ökad överskådlighet och tillgång till data.
 
-- 94 -
+\- 94 -
 
 <!-- sida 342 -->
 
@@ -15549,7 +15549,7 @@ IMO      Internationella fartygsorganisationen (International Maritime Organizat
 
 JAMP     Joint Assessment and Monitoring Programme (Ospar)
 
-- 95 -
+\- 95 -
 
 <!-- sida 343 -->
 
@@ -15585,7 +15585,7 @@ TBT      Tributyltenn
 
 QSR      Quality Status Report (Ospar),
 
-- 96 -
+\- 96 -
 
 <!-- sida 344 -->
 
@@ -15643,7 +15643,7 @@ kommissionens beslut (EU) 2017/848 och fastställs för inledande bedömningen i
 
 Kumulativ påverkan När flera belastningar adderas och ger upphov till en samlad påverkan.
 
-- 97 -
+\- 97 -
 
 <!-- sida 345 -->
 
@@ -15691,7 +15691,7 @@ toppredator.
 Tröskelvärde (för betydande påverkan) Gränsvärde för exempelvis tillförsel av näringsämnen, där
 påverkan anses vara betydande om tröskelvärdet överskrids.
 
-- 98 -
+\- 98 -
 
 <!-- sida 346 -->
 
@@ -15706,7 +15706,7 @@ unifying framework for marine environmental management - ScienceDirect
 
 EU Commission (2013). Monitoring under Marine Strategy Framework Directive.
 Recommendations for implementation and reporting. Final version agreed by MSCG on 7 May
-2013.
+2013\.
 
 EU Commission (2025). Reporting on the 2026 update of Article 11 for the Marine Strategy
 Framework Directive. MSFD Guidance document VERSION – 06 17/10/2025.
@@ -15748,7 +15748,7 @@ https://www.havochvatten.se/download/18.60662d6719060e439995beef/1723711349019/r
 Helcom (2023) Eutrophication. State of the Baltic Sea 2023 – Holistic Assessment HELCOM-
 Thematic-assessment-of-eutrophication-2016-2021.pdf
 
-- 99 -
+\- 99 -
 
 <!-- sida 347 -->
 
@@ -15795,7 +15795,7 @@ Technical Reports. EUR 25187 EN. Publications Office of the European Union. 42 s
 monitoring in the European Union: How to fulfill the requirements for the marine strategy
 framework directive in an efficient and integrated way - ScienceDirect
 
-- 100 -
+\- 100 -
 
 <!-- sida 348 -->
 
@@ -16789,7 +16789,7 @@ Rapporten sker IVO kvartalsvis och på individnivå. Har nämnden inga ej verkst
 beslut att rapportera behöver IVO inte informeras.
 
 Ett ärende gällande avbruten verkställighet rapporteras till IVO under kvartal 4,
-2025.
+2025\.
 
 Beslutsunderlag
 
@@ -17067,9 +17067,9 @@ inskickat.
 
 Vid inträde betalar en ny medlem:
 
--  1 krona per invånare (Kungsbacka 2024-12-31: 85 792 invånare, siffror för 2025 finns ej vid
+\-  1 krona per invånare (Kungsbacka 2024-12-31: 85 792 invånare, siffror för 2025 finns ej vid
 skrivelsens framtagande) som andelskapital
--  25 000 kr i administrativ avgift
+\-  25 000 kr i administrativ avgift
 
 Båda är engångskostnader vilka föreslås belasta kommunstyrelsen.
 Tjänster debiteras enligt självkostnadsprincipen. Kungsbackas nämnder kommer att betala för faktiskt
@@ -17178,8 +17178,8 @@ Kommunfullmäktige antog den 4 november 2025 avfallstaxan för 2026. Efter att
 taxan fastställts i kommunfullmäktige har nämnden för Teknik uppmärksammat att
 taxan innehåller felaktiga avgifter i två av taxetabellerna:
 
-* 4.4.4.1 Gångavstånd till kärl
-* 4.7 Slamsugning och tömning av fettavskiljare.
+\* 4.4.4.1 Gångavstånd till kärl
+\* 4.7 Slamsugning och tömning av fettavskiljare.
 
 Med anledning av de felaktiga avgifterna har nämnden för Teknik tagit fram en
 uppdaterad taxa för 2026, som nu översänts till kommunfullmäktige för fastställande.
@@ -17310,10 +17310,10 @@ Avgift för kommunens avfallshantering får enligt 27 kap. 4–6 §§ miljöbalk
 (1998:808) tas ut av kommunen. Avgift ska enligt 4 § betalas enligt den taxa som
 kommunfullmäktige antar.
 
-* I avsnitt 4.7 var avgifterna angivna på fel rad. Detta är nu korrigerat och rätt pris är
+\* I avsnitt 4.7 var avgifterna angivna på fel rad. Detta är nu korrigerat och rätt pris är
 angivet på rätt tjänst.
 
-* Priset för gångavstånd hade avrundats fel i tabell 4.4.4.1 och har nu korrigerats
+\* Priset för gångavstånd hade avrundats fel i tabell 4.4.4.1 och har nu korrigerats
 De ändrade priserna är markerade med gul färg i dokumentet Avfallstaxa 2026.
 
 Beslutsunderlag
@@ -17401,17 +17401,17 @@ kungsbacka.se
 <!-- sida 385 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................... 3
+1\. Inledande bestämmelser ........................................................................................... 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper .............................................................. 3
 1.3 Ägarbyte .................................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ...................................................................................................... 4
+2\. Beräkningsgrunder ...................................................................................................... 4
 
-3. Mervärdesskatt ............................................................................................................ 4
-4. Avgiftsbelopp/taxetabell ........................................................................................... 5
+3\. Mervärdesskatt ............................................................................................................ 4
+4\. Avgiftsbelopp/taxetabell ........................................................................................... 5
 
 4.1 Allmän information ................................................................................................ 5
 4.2 Abonnemangsformer ............................................................................................ 5
@@ -17425,14 +17425,14 @@ Innehåll
 4.7 Slamsugning och tömning av fettavskiljare.................................................. 26
 4.9 Särskilda avgifter ................................................................................................. 27
 
-5. Indexjustering av avgiftsbelopp ......................................................................... 28
-6. Delegering av beslut om justering efter index ............................................... 28
+5\. Indexjustering av avgiftsbelopp ......................................................................... 28
+6\. Delegering av beslut om justering efter index ............................................... 28
 
 Kungsbacka kommun         Avfallstaxa 2026                    2
 
 <!-- sida 386 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 27 kap. 4–6 §§ miljöbalken. Avgift ska betalas till Kungsbacka kommun eller till den som
@@ -17500,7 +17500,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -17534,7 +17534,7 @@ returpapper, textilavfall, samt avfall från detaljhandel begränsas av maxtaxa.
 Avgifterna för tömning av enskilda avloppsanläggningar och fettavskiljare ska täcka
 kostnader för insamling och behandling av avfallet.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
@@ -17542,7 +17542,7 @@ Kungsbacka kommun         Avfallstaxa 2026                    4
 
 <!-- sida 388 -->
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 I abonnemangsavgiften ingår följande:
@@ -17613,7 +17613,7 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 4.3.2 Avgifter för delårsabonnemang
 
@@ -17624,7 +17624,7 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för delårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\* Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun         Avfallstaxa 2026                    7
 
@@ -17643,7 +17643,7 @@ Kungsbacka kommun         Avfallstaxa 2026                    7
 | 190 liter | Varannan vecka, helår | 3 485 | 3 485 |
 |  | Var fjärde vecka, helår | Inte valbar | 2 470 |
 | 370 liter | Varannan vecka, helår | 5 355 | 5 355 |
-| 660 liter* | Varannan vecka, helår | 13 825 | 13 825 |
+| 660 liter\* | Varannan vecka, helår | 13 825 | 13 825 |
 
 [Tabell 390-3](handlingar.tabeller/390-3.csv)
 
@@ -17660,7 +17660,7 @@ Kungsbacka kommun         Avfallstaxa 2026                    7
 | 190 liter | Varannan vecka, delår | 1 745 | 1 745 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 235 |
 | 370 liter | Varannan vecka, delår | 2 680 | 2 680 |
-| 660 liter* | Varannan vecka, delår | 6 915 | 6 915 |
+| 660 liter\* | Varannan vecka, delår | 6 915 | 6 915 |
 
 <!-- sida 391 -->
 
@@ -17731,7 +17731,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.3.3.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -17759,7 +17759,7 @@ Kungsbacka kommun         Avfallstaxa 2026                    9
 
 [Tabell 392-2](handlingar.tabeller/392-2.csv)
 
-| Kärl 240 liter* | 2 285 |
+| Kärl 240 liter\* | 2 285 |
 | --- | --- |
 | Kärl 370 liter | 2 665 |
 
@@ -18143,7 +18143,7 @@ per år ingår.
 
 Årsavgift, i kronor, för hämtning av komposterbart trädgårdsavfall under vecka 12–47
 
-*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
+\*Det går inte att beställa nya abonnemang med/byta till 240 liters kärl.
 
 4.4.4.5 Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris
 och grenar) i container
@@ -18171,7 +18171,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   17
 
 [Tabell 400-2](handlingar.tabeller/400-2.csv)
 
-| Kärl 240 liter* | 2 285 |
+| Kärl 240 liter\* | 2 285 |
 | --- | --- |
 | Kärl 370 liter | 2 665 |
 
@@ -18335,7 +18335,7 @@ Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får 
 
 avfallslämnare.
 
-* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
@@ -18356,7 +18356,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   21
 | Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container, per<br>container och hämtningstillfälle | 7 105 |
 | Flytande livsmedelsavfall, separat utsorterat i sluten behållare/tank (ABP-avfall,<br>kategori 3), per behållare och hämtning | 10 150 |
 | Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett, per behållare<br>och hämtningstillfälle | 609 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade<br>produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen<br>eller serveringsverksamhet, per hämtning * | 7 105 |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade<br>produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen<br>eller serveringsverksamhet, per hämtning \* | 7 105 |
 
 <!-- sida 405 -->
 
@@ -18377,8 +18377,8 @@ Grundavgift container
 
 Behandlingskostnad per ton
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
 Kungsbacka kommun         Avfallstaxa 2026                   22
 
@@ -18400,8 +18400,8 @@ Kungsbacka kommun         Avfallstaxa 2026                   22
 | Gips | 2 568 |
 | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) | 6 574 |
 | Metall | 359 |
-| Mineral* | 2 961 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 568 |
+| Mineral\* | 2 961 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 568 |
 | Planglas | 2 690 |
 | Plast (inkl. eftersortering) | 2 773 |
 | Tryckimpregnerat trä/slipers | 2 393 |
@@ -18420,8 +18420,8 @@ Grundavgift storsäck
 
 Behandlingskostnad storsäck
 
-* Som består av sten, tegel, betong, klinker eller keramik
-** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
+\* Som består av sten, tegel, betong, klinker eller keramik
+\*\* Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
 
 4.5.3 Övriga avgifter
@@ -18451,8 +18451,8 @@ Kungsbacka kommun         Avfallstaxa 2026                   23
 | Gips | 1 027 |
 | Kablar (ej farligt avfall) | 1 027 |
 | Metall | 180 |
-| Mineral* | 2 964 |
-| Osorterat/sammansatt bygg- och rivningsavfall** | 2 054 |
+| Mineral\* | 2 964 |
+| Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 054 |
 | Planglas | 1 541 |
 | Plast | 1 027 |
 | Tryckimpregnerat trä/slipers | 1 197 |
@@ -18540,7 +18540,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   25
 4.7 Slamsugning och tömning av fettavskiljare
 Avgifter, i kronor, per tömning av enskild avloppsanläggning, fettavskiljare och byggtoalett
 
-*Tilläggsavgift per kubikmeter överstigande 4 kubikmeter tillkommer med 740 kr för samtliga tjänster, undantag
+\*Tilläggsavgift per kubikmeter överstigande 4 kubikmeter tillkommer med 740 kr för samtliga tjänster, undantag
 schemalagd tömning där tilläggsavgiften är 350 kr per kubikmeter.
 
 Kungsbacka kommun         Avfallstaxa 2026                   26
@@ -18554,18 +18554,18 @@ Kungsbacka kommun         Avfallstaxa 2026                   26
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 2 545 |
 | Budad tömning inom fem dygn<br>Utförs inom fem helgfria vardagar eller under fem specifikt valda vardagar |  |
 | Anläggning mindre än 2 kubikmeter | 1 770 |
-| Anläggning 2–4 kubikmeter* | 2 555 |
+| Anläggning 2–4 kubikmeter\* | 2 555 |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 3 080 |
 | Budad tömning inom ett dygn<br>Utförs inom 24 timmar, även på kvällar och helger eller inom valt dygn |  |
 | Anläggning mindre än 2 kubikmeter | 5 480 8 500 |
-| Anläggning 2–4 kubikmeter* | 6 090 9 100 |
+| Anläggning 2–4 kubikmeter\* | 6 090 9 100 |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 5 945 |
 | Tidsbeställd tömning<br>Utförs tidigast 25 timmar efter beställning (på specifik timme, helgfria vardagar klockan 06–15) |  |
 | Anläggning mindre än 2 kubikmeter | 8 500 5 480 |
-| Anläggning 2–4 kubikmeter* | 9 100 6 090 |
+| Anläggning 2–4 kubikmeter\* | 9 100 6 090 |
 | Akut tömning<br>Utförs inom 4 timmar |  |
 | Anläggning mindre än 2 kubikmeter | 10 505 |
-| Anläggning 2–4 kubikmeter* | 11 110 |
+| Anläggning 2–4 kubikmeter\* | 11 110 |
 
 <!-- sida 410 -->
 
@@ -18618,7 +18618,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   27
 
 <!-- sida 411 -->
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 
 Taxan avseende tjänster som utförs av auktoriserade entreprenörer, den så kallade maxtaxan,
 justeras årligen i enlighet med förändringen av avfallsindex med basmånad januari och
@@ -18629,7 +18629,7 @@ avläsningsmånad oktober året innan det aktuella taxeåret. Detta gäller föl
 
 4.4.4.11 Förpackningsavfall
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 Nämnden för Teknik ansvarar för att årligen räkna om beloppen i taxan.
 
 Kungsbacka kommun         Avfallstaxa 2026                   28
@@ -18767,17 +18767,17 @@ Elisabeth Sahlsten (MP) och Maria Losman (MP) har i en motion som anmäldes till
 kommunfullmäktige 6 maj 2025 föreslagit ett antal åtgärder kopplade till minskad
 vattenförbrukning. I motionen föreslås att kommunen ska:
 
-* Uppmuntra enskilda fastighetsägare och byggentreprenörer att installera
+\* Uppmuntra enskilda fastighetsägare och byggentreprenörer att installera
 vattenbesparande utrustning.
 
-* Erbjuda rådgivning och tips till de fastighetsägare som vill installera
+\* Erbjuda rådgivning och tips till de fastighetsägare som vill installera
 vattenbesparande system och cirkulerande system för till exempel regnvatten och
 gråvatten.
-* Uppmuntra innovativ teknik för att använda regnvatten och återcirkulerat
+\* Uppmuntra innovativ teknik för att använda regnvatten och återcirkulerat
 gråvatten.
 
-* Utreda hur källsortering av avloppsvatten kan testas i en pilotanläggning.
-* Lämna uppdrag till Eksta Bostads AB att skissa ett pilotsystem med hållbar
+\* Utreda hur källsortering av avloppsvatten kan testas i en pilotanläggning.
+\* Lämna uppdrag till Eksta Bostads AB att skissa ett pilotsystem med hållbar
 bostadsbebyggelse förslagsvis i Forsbergen.
 
 Det här dokumentet är digitalt signerat
@@ -18996,7 +18996,7 @@ Yttrande över motion Pilotsatsning Forsbergen - för cirkulerande vatten och av
 Dnr KS -2025-00357
 
 Eksta vill härmed yttra sig med anledning av rubricerande motion med Dnr KS -2025-
-00357.
+00357\.
 Vattenfrågan är en allt viktigare fråga för Eksta inom flera områden och speciellt vid
 nyproduktion där frågan måste vara med i tidigt skede och i samverkan med berörda
 förvaltningar inom kommunen.
@@ -19044,17 +19044,17 @@ hot om kris och krig från omvärlden. Detta menar motionärerna kräver en bere
 med en hållbar lokal samhällsplanering.
 Mot bakgrund av detta vill motionerna att kommunen ska:
 
--  Uppmuntra enskilda fastighetsägare och byggentreprenörer att installera
+\-  Uppmuntra enskilda fastighetsägare och byggentreprenörer att installera
 vattenbesparande utrustning
--  Erbjuda rådgivning och tips till de fastighetsägare som vill installera
+\-  Erbjuda rådgivning och tips till de fastighetsägare som vill installera
 vattenbesparande system och cirkulerande system för till exempel regnvatten
 och gråvatten
 
--  Uppmuntra innovativ teknik för att använda regnvatten och återcirkulerat
+\-  Uppmuntra innovativ teknik för att använda regnvatten och återcirkulerat
 gråvatten
 
--  Utreda hur källsortering av avloppsvatten kan testas i en pilotanläggning
--  Lämna uppdrag till Eksta Bostads AB att skissa ett pilotsystem med hållbar
+\-  Utreda hur källsortering av avloppsvatten kan testas i en pilotanläggning
+\-  Lämna uppdrag till Eksta Bostads AB att skissa ett pilotsystem med hållbar
 bostadsbebyggelse förslagsvis i Forsbergen.
 
 Beslutsunderlag
@@ -19430,20 +19430,20 @@ dricksvatten. Inspiration kan hämtas från Helsingborgs unika system ”två r�
 
 Vi föreslår därför:
 
-- att kommunen uppmuntrar enskilda fastighetsägare och byggentreprenörer att
+\- att kommunen uppmuntrar enskilda fastighetsägare och byggentreprenörer att
 installera vattenbesparande utrustning
 
-- att kommunen erbjuder rådgivning och tips till de fastighetsägare som vill
+\- att kommunen erbjuder rådgivning och tips till de fastighetsägare som vill
 installera vattenbesparande system och cirkulerande system för till exempel
 regnvatten och gråvatten
 
-- att kommunen uppmuntrar innovativ teknik för att använda regnvatten och
+\- att kommunen uppmuntrar innovativ teknik för att använda regnvatten och
 återcirkulerat gråvatten
 
-- att kommunen uppdrar åt Eksta bostadsbolag att skissa ett pilotsystem med
+\- att kommunen uppdrar åt Eksta bostadsbolag att skissa ett pilotsystem med
 hållbar bostadsbebyggelse förslagsvis i Forsbergen
 
-- att kommunen utreder hur källsortering av avloppsvatten kan testas i en
+\- att kommunen utreder hur källsortering av avloppsvatten kan testas i en
 pilotanläggning
 
 2025-04-25
@@ -19704,7 +19704,7 @@ Sammanfattning av ärendet
 
 Carita Boulwén (SD) har inkommit om motion om införande av blocktider inom
 hemtjänsten. Motionen anmäldes i Kommunfullmäktige arbetsutskott den 12 augusti
-2025. Den 2 september 2025 har Kommunstyrelsens arbetsutskott remitterat
+2025\. Den 2 september 2025 har Kommunstyrelsens arbetsutskott remitterat
 motionen till Nämnden för Vård & Omsorg för beredning.
 
 Det här dokumentet är digitalt signerat
@@ -20203,7 +20203,7 @@ Detta medför olika grad av komplexitet i verksamheten och möjlighet till att u
 3.1 Erfarenhetsutbyte Arjeplog
 Utvecklingsledare samt biträdande förvaltningschef på Förvaltningen för Vård & omsorg har
 genomfört ett möte med enhetschefen för Arjeplogs hemtjänst, Bitte Westerlund, den 8e oktober
-2025. Mötet syftade till att få veta mer om vad Arjeplog har genomfört för förändringar samt vad
+2025\. Mötet syftade till att få veta mer om vad Arjeplog har genomfört för förändringar samt vad
 arbetssättet innebär för medarbetarna i vardagen. För att efterfölja IBIC processen presenteras
 arbetssättet från Utreda & besluta till Följa upp. 18
 
@@ -20527,10 +20527,10 @@ incitament för det27. Det är av den anledningen som nyckeltalen Effektivitet, 
 Efterlevnad Antal ska börja användas inom hemtjänsten och som enheter ska följa på enhetsnivå.
 
 Dessa nyckeltal ger enheterna datadriven information i realtid om:
-1) hur mycket av arbetstiden som går till besök hemma hos omsorgstagaren (Effektivitet)
-2) hur vi använder den totala ramtiden och beställd hsl-tid för enheten som planeras ut i
+1\) hur mycket av arbetstiden som går till besök hemma hos omsorgstagaren (Effektivitet)
+2\) hur vi använder den totala ramtiden och beställd hsl-tid för enheten som planeras ut i
 planeringen och hur mycket som sedan används till besökstid (Efterlevnad tid) samt
-3) säkerställer att vi utför och efterlever de insatser (Sol och HSL-insatser) som omsorgstagaren
+3\) säkerställer att vi utför och efterlever de insatser (Sol och HSL-insatser) som omsorgstagaren
 har rätt till utifrån sina behov (Efterlevnad antal).
 
 26 Styrning av hemtjänsten, Socialstyrelsen, 2025

@@ -56,7 +56,7 @@ Mia Sundvall (M)
 
 Per Stenberg (M)
 
-Sofia Hansen (M) $$ 73-81
+Sofia Hansen (M) \$\$ 73-81
 Helen Thylin (S)
 Anna-Karin Granberg (SD)
 Susanne Andersson (SD)
@@ -104,16 +104,16 @@ Eric Knutas (L)
 
 Tjänstepersoner
 
-Frida Byrsten, verksamhetschef $$ 75
-Gustav Sjöström, ekonomichef $ 76
+Frida Byrsten, verksamhetschef \$\$ 75
+Gustav Sjöström, ekonomichef \$ 76
 Annelie Sackelius, utvecklare
-Anna Sörensen, utvecklingsledare $
+Anna Sörensen, utvecklingsledare \$
 77
 
 Karin Steneros Einvall,
-utvecklingsledare $ 82
+utvecklingsledare \$ 82
 
-Anna Sörensen, utvecklingsledare $
+Anna Sörensen, utvecklingsledare \$
 82
 
 Stigert Pettersson, förvaltningschef
@@ -121,7 +121,7 @@ Lars Sundbom, utvecklare
 
 Övriga
 
-Paragrafer $$ 73-82
+Paragrafer \$\$ 73-82
 
 <!-- sida 2 -->
 
@@ -130,44 +130,44 @@ Nämnden för Förskola & Grundskola Datum
 2026-08-19
 
 Innehåll
-$ 73 Dnr FG-2026-00014
+\$ 73 Dnr FG-2026-00014
 
 Fastställande av dagordning och val av juSterafe..............ssssssorsssororerrsssssnnn 3
-$ 74 Dnr FG-2026-00042
+\$ 74 Dnr FG-2026-00042
 
 Redovisning av inkomna skrivelser till nämnd 2026 s....ssssssserseserererssrererrnt 4
-$ 75 Dnr FG-2025-00530
+\$ 75 Dnr FG-2025-00530
 
 Kvalitetsgranskning Särö skola 6-9- Skolinspektionen SI 2025:5873.
 
 Redovisning av åtgärdert. ..sssssssersrsrssreressrerreserrresserrrerernrreserrrersrrrrer rr rr r nr nn 5
-$ 76 Dnr FG-2026-00367
+\$ 76 Dnr FG-2026-00367
 
 Slutlig granskning likvärdig SKOIa ssssssssssssersrsrsrrrrrssrerrrssrrressrrnrreserrrrrrrrrr er nn 7
-$ 77 Dnr FG-2026-00385
+\$ 77 Dnr FG-2026-00385
 
 Information om satsningen samverkan skola - arbetsliv ....................ssso.000- 8
 
 Myndighet & Stöds tjänsteskrivelse, 2026-06-17. Information om
 
 satsningen samverkan skola - arbetsliv. soessmmsssersrrssrrrsrsrrrresrrrrnresrrrrerrrrrrer nn 8
-$ 78 Dnr FG-2026-00439
+\$ 78 Dnr FG-2026-00439
 
 Sammanträdestider 2027 omosssssssserssrrrsseresrrrsrrrrerrrrrrrrerrrrrrrrerrr rr rer ere r rr rr rn nn 10
-$ 79 Dnr FG-2026-00277
+\$ 79 Dnr FG-2026-00277
 
 Uttag ur resultatfond, skolcoacher i samverkan..........sssessersrsrerssrrrsrerenrrrnn 12
-$ 80 Dnr FG-2026-00459
+\$ 80 Dnr FG-2026-00459
 
 Initiativ för distansundervisning i egeh fC8l.....ssssssssserrrrssrersrserereerrrrrernrra 14
-$ 81 Dnr FG-2026-00018
+\$ 81 Dnr FG-2026-00018
 
 Delegeringsbeslut antagna av nämnden 20206..............sessssrsssrrssererrrrrssrsnne 16
-$ 82 Dnr FG-2026-00016
+\$ 82 Dnr FG-2026-00016
 
 Information - Förskola & Grundskola arbetsutskott och nämnd ............... 17
 
-2017)
+2017\)
 
 Det här dokumentet är digitalt signerat
 
@@ -181,7 +181,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (17)
 Nämnden för Förskola & Grundskola Datum
 2026-08-19
 
-$ 73 Dnr FG-2026-00014
+\$ 73 Dnr FG-2026-00014
 Fastställande av dagordning och val av justerare
 
 Beslut
@@ -207,7 +207,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (17)
 Nämnden för Förskola & Grundskola Datum
 2026-08-19
 
-$ 74 Dnr FG-2026-00042
+\$ 74 Dnr FG-2026-00042
 Redovisning av inkomna skrivelser till nämnd 2026
 
 Beslut
@@ -235,7 +235,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (17)
 Nämnden för Förskola & Grundskola Datum
 2026-08-19
 
-$ 75 Dnr FG-2025-00530
+\$ 75 Dnr FG-2025-00530
 
 Kvalitetsgranskning Särö skola 6-9- Skolinspektionen SI 2025:5873.
 Redovisning av åtgärder.
@@ -310,7 +310,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (17)
 Nämnden för Förskola & Grundskola Datum
 2026-08-19
 
-$ 76 Dnr FG-2026-00367
+\$ 76 Dnr FG-2026-00367
 Slutlig granskning likvärdig skola
 
 Paragrafen justeras i separat protokoll.
@@ -327,7 +327,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (17)
 Nämnden för Förskola & Grundskola Datum
 2026-08-19
 
-$ 77 Dnr FG-2026-00385
+\$ 77 Dnr FG-2026-00385
 Information om satsningen samverkan skola - arbetsliv
 
 Beslut
@@ -408,7 +408,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (17)
 Nämnden för Förskola & Grundskola Datum
 2026-08-19
 
-$ 78 Dnr FG-2026-00439
+\$ 78 Dnr FG-2026-00439
 Sammanträdestider 2027
 
 Beslut
@@ -483,7 +483,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (17)
 Nämnden för Förskola & Grundskola Datum
 2026-08-19
 
-$ 79 Dnr FG-2026-00277
+\$ 79 Dnr FG-2026-00277
 Uttag ur resultatfond, skolcoacher i samverkan
 
 Beslut
@@ -558,7 +558,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (17)
 Nämnden för Förskola & Grundskola Datum
 2026-08-19
 
-$ 80 Dnr FG-2026-00459
+\$ 80 Dnr FG-2026-00459
 Initiativ för distansundervisning i egen regi
 
 Beslut
@@ -639,7 +639,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 16 (17)
 Nämnden för Förskola & Grundskola Datum
 2026-08-19
 
-$ 81 Dnr FG-2026-00018
+\$ 81 Dnr FG-2026-00018
 Delegeringsbeslut antagna av nämnden 2026
 
 Beslut
@@ -679,7 +679,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (17)
 Nämnden för Förskola & Grundskola Datum
 2026-08-19
 
-$ 82 Dnr FG-2026-00016
+\$ 82 Dnr FG-2026-00016
 Information - Förskola & Grundskola arbetsutskott och nämnd
 
 Beslut

@@ -447,7 +447,7 @@ Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Underlag till Kommunbudget 2027
 
 Jämställdhetsindex, Jämix. Antal poäng av max
-180. Jämix beräknas utifrån nio nyckeltal med B
+180\. Jämix beräknas utifrån nio nyckeltal med B
 skala 1–20.
 
 11
@@ -860,7 +860,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 27 -->
 
-1. Bakgrund
+1\. Bakgrund
 
 I nämnden för Vård & Omsorgs konkurrensutsättningsplan anges att förvaltningen
 årligen ska ta fram förslag till Årsplan för konkurrensutsättning av verksamhet för Vård
@@ -871,7 +871,7 @@ möjliggöra en långsiktig planering gällande konkurrensutsättning av nämnde
 
 verksamhet.
 
-2. Nuläge
+2\. Nuläge
 
 Konkurrensutsättning av kommunal drift
 Nämnden för Vård & Omsorgs har idag konkurrensutsatt:
@@ -940,7 +940,7 @@ Kungsbacka kommun     Årsplan för konkurrensutsättning av verksamhet 2026 3 (
 
 <!-- sida 29 -->
 
-3. Beslutad upphandling
+3\. Beslutad upphandling
 
 Nämnden beslutade på sammanträdet i februari 2025 att förlänga avtalet med Vardaga
 Äldreomsorg AB gällande Ekhaga och Vickan vård- och omsorgsboenden för perioden
@@ -957,7 +957,7 @@ att avbryta upphandlingen.
 Förvaltningen vidtar inga ytterligare åtgärder innan nämnden förmedlat visat hur den
 önskar att förvaltningen hanterar frågan.
 
-4. Utredning om valfrihetssystem enligt Lag
+4\. Utredning om valfrihetssystem enligt Lag
 
 (2008:962) om valfrihetsystem (LOV) inom vård       - och
 omsorgsboende
@@ -976,7 +976,7 @@ besluta att införa ett valfrihetssystem.
 om det ska skickas vidare till kommunstyrelsen (KS) för fortsatt beredning. Ärendet kan
 tidigas tas upp för beslut i kommunfullmäktige den 3 mars 2026.
 
-6. Egenregianbu  d
+6\. Egenregianbu  d
 
 I enlighet med kommunens Policy för konkurrensprövning ska nämnden fatta beslut om
 den kommunala regin ska tillåtas att lämna anbud i nämndens konkurrensutsättningar.
@@ -985,7 +985,7 @@ Ett anbud från kommunal regi, ett så kallat egenregianbud, innebär att nämnd
 verksamhet konkurrerar med externa anbudsgivare om uppdraget att driva den
 konkurrensutsatta verksamheten.
 
-7. Förvaltningens förslag
+7\. Förvaltningens förslag
 
 Förvaltningens förslag är att inte gå ut med någon ny konkurrensutsättning under 2026.
 Resursåtgången för omhändertagande av uppdrag och beslut, samt eventuellt
@@ -2103,7 +2103,7 @@ Diarienummer VO-2022-00121. (Regionfullmäktige) RF, § 136. Beslut om förläng
 Diarienummer VO-2023–00283. (Gemensam nämnd för Hemsjukvård och Hjälpmedel) GNHH § 59 -
 Beslut om förändring av vårdriktlinjer för hjälpmedel 2026.
 Diarienummer VO-2025–00500. (Vardaga AB) Uppföljning kvalitetsberättelse och patientberättelse
-2025.
+2025\.
 
 Diarienummer VO-2025–00501. (Attendo Hemtjänst Kungsbacka) Uppföljning kvalitet 2025.
 Diarienummer VO-2025–00502. (Annas Omsorg AB) Uppföljning kvalitet 2025.

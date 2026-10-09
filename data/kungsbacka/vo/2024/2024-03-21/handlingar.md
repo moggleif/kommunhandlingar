@@ -235,30 +235,30 @@ Karin Malmsten, dataskyddsombud
 
 Innehåll
 
-1. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
+1\. Årsrapport för sammanfattande lägesbild ................................................................................................. 6
 
 1.1 Dataskyddsombudet följer och rapporterar ......................................................................................... 6
 1.2 En värdegrundsfråga i tiden ..................................................................................................................... 6
 
-2. Råd & stöd .......................................................................................................................................................... 9
+2\. Råd & stöd .......................................................................................................................................................... 9
 
 2.1 Utbildning ..................................................................................................................................................... 9
 2.2 Råd & rekommendationer ......................................................................................................................... 9
 2.3 Kontakter ..................................................................................................................................................... 15
 2.4 Samverkan .................................................................................................................................................. 17
 
-3. Granskning ....................................................................................................................................................... 18
+3\. Granskning ....................................................................................................................................................... 18
 3.1 Riktad granskning ...................................................................................................................................... 18
 3.2 Regelbunden granskning ......................................................................................................................... 18
 3.3 Fördjupad granskning .............................................................................................................................. 18
 
 3.4 Övriga iakttagelser…………………………………………………………………………………………………………..19
 
-4. Omvärld.............................................................................................................................................................. 21
+4\. Omvärld.............................................................................................................................................................. 21
 4.1 Fortsatt fokus på tredjelandsöverföring .............................................................................................. 21
 4.2 Fortsatt fokus på innovation och teknikutveckling ........................................................................ 22
 
-5. Kommande år ...................................................................................................................................... 24
+5\. Kommande år ...................................................................................................................................... 24
 5.1 Inriktning året 2023 .................................................................................................................................. 24
 5.2 Granskningsplan för åren 2023 – 2026 .............................................................................................. 24
 
@@ -266,7 +266,7 @@ Innehåll
 
 <!-- sida 6 -->
 
-1. Årsrapport   för  sammanfattande       lägesbild
+1\. Årsrapport   för  sammanfattande       lägesbild
 
 Syftet med den här sammanställningen är att ge kommunstyrelsen och de personuppgiftsansvariga
 nämnderna, bolagen och stiftelsen en bild över vad jag som dataskyddsombud sett i kommunen som
@@ -394,7 +394,7 @@ ett värde som bidrar till att bygga förtroende i samhället, inte som en broms
 
 <!-- sida 9 -->
 
-2. Råd  & stöd
+2\. Råd  & stöd
 
 2.1 Utbildning
 
@@ -802,7 +802,7 @@ medverkade även i kommunens informationsaktiviteter under den årliga Beredskap
 
 <!-- sida 18 -->
 
-3. Granskning
+3\. Granskning
 
 3.1 Riktad granskning
 
@@ -937,7 +937,7 @@ tunga att utforska.
 
 <!-- sida 21 -->
 
-4. Omvärld
+4\. Omvärld
 
 4.1 Fortsatt fokus på tredjelandsöverföring
 
@@ -1082,13 +1082,13 @@ kommunens satsning på AI-området.
 24 AI och risker för diskriminering i arbetslivet (2023:6) https://www.do.se/kunskap-stod-och-vagledning/publikationer-om-
 diskriminering/2023/ai-och-risker-for-diskriminering-i-arbetslivet
 25 Innebygd diskrimineringsvern. En veileder for å avdekke og forebygge diskriminering i utvikling og bruk av kunstig intelligens
-(2023) https://www.ldo.no/globalassets/_ldo_2019/_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
+(2023) https://www.ldo.no/globalassets/\_ldo_2019/\_bilder-til-nye-nettsider/ki/ldo.-innebygd-diskrimineringsvern.pdf
 26 Yttrande om behandlingsunderlag för utveckling och drift av AI-lösning inom vård- och omsorgsområdet (datatilsynet.dk) 2023-
 11-17                                                           23
 
 <!-- sida 24 -->
 
-5. Kommande      år
+5\. Kommande      år
 
 5.1 Inriktning året 2024
 
@@ -1117,9 +1117,9 @@ användas.
 Den regelbundna granskningen kommer initialt ske under 2024 och repeteras 2026. Här kommer
 varje personuppgiftsansvarig verksamhet adresseras28. De två områdena som kommer ingå är:
 
-1) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
+1\) Rutiner för behörighetsstyrning och åtkomstkontroll (inbegripet tekniska
 autenticeringsmetoder, kryptering i digitala tjänster och system samt kontraktuella åtgärder)
-2) Systematiskt kvalitetssäkringsarbete
+2\) Systematiskt kvalitetssäkringsarbete
 
 Därutöver kommer uppmärksammade avvikelser i senaste regelbunden och riktad granskning följas
 upp.
@@ -1656,11 +1656,11 @@ Ta emot och  åtgärda larm
 
 Finns det flera larm samtidigt prioriteras dessa enligt följande:
 
-1. Hjärt-lungproblem
-2. Svår och besvärande smärta
+1\. Hjärt-lungproblem
+2\. Svår och besvärande smärta
 
-3. Fall
-4. Akuta toalettbesök
+3\. Fall
+4\. Akuta toalettbesök
 
 Ett larm där mottagaren inte svarar när verksamheten ringer upp bedöms som ett
 prioriterat larm. Verksamheten gör sedan en prioritering över aktuella larm som
@@ -1880,7 +1880,7 @@ framåt. Nämnden för Vård & Omsorg antog dessa berättelser på sammanträde 
 Den viktigaste, och mest omfattande, åtgärden med koppling till det systematiska kvalitetsarbetet och
 arbetet med riktlinjer och rutiner för verkställigheten är beslutet att genomföra en omfattande
 genomlysning. Uppdraget tydliggörs i kvalitetsberättelsen 2023 under rubrik 4.1 Planerade åtgärder
-2024. Där står:
+2024\. Där står:
 
 ”Genomlysningen syftar till att se över, utveckla och kvalitetssäkra förvaltningens arbete inom ramen
 för det systematiska kvalitetsarbetet. Detta innebär att se över processer, arbetssätt, riktlinjer, rutiner
@@ -2195,7 +2195,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 52 -->
 
-1. Bakgrund
+1\. Bakgrund
 
 I Nämnden för Vård & Omsorgs konkurrensutsättningsplan anges att förvaltningen
 årligen ska ta fram förslag till Årsplan för konkurrensutsättning av verksamhet för
@@ -2205,7 +2205,7 @@ verksamheter som eventuellt ska konkurrensutsättas nästkommande år.
 konkurrensutsättningsplanen möjliggöra en långsiktig planering gällande
 konkurrensutsättning av nämndens verksamhet.
 
-2. Kommande   nybyggnation  vård- och omsorgsboende
+2\. Kommande   nybyggnation  vård- och omsorgsboende
 
 En upphandling av driften av ett vård- och omsorgsboende behöver påbörjas minst
 ett och ett halvt år före planerad driftstart för att möjliggöra tilldelning av kontrakt
@@ -2255,7 +2255,7 @@ konkurrensutsättas, se över om hälso-och sjukvård kan inkluderas samt arbeta
 igenom kravställan för avtalsvillkor och även vilka krav som en upphandling ställer
 på utförararen avseende kvalitet och avtalsuppföljning.
 
-3. Konkurrensutsättning av kommunal  drift
+3\. Konkurrensutsättning av kommunal  drift
 
 Geografisk placering vård- och omsorgsboenden
 I förvaltningens analys av möjligheten att konkurrensutsätta boendena som idag
@@ -2313,7 +2313,7 @@ Kungsbacka kommun     Årsplan för konkurrensutsättning av verksamhet 2024 3 (
 Förvaltningen föreslår att ytterligare analyser behövs för att se vilket vård- och
 omsorgsboende som ska konkurrensutsättas under år 2025/2026.
 
-4. Egenregianbud
+4\. Egenregianbud
 
 I enlighet med kommunens Policy för konkurrensprövning ska nämnden fatta beslut
 om den kommunala regin ska tillåtas att lämna anbud i nämndens
@@ -2524,7 +2524,7 @@ omsorgs- och servicetjänster inom samtliga områden i kommunen. Startdatum är 
 Upplysning
 
 Beslut fattat med stöd av delegering. Nämnden för Vård & Omsorg delegeringsförteckning: punkt
-4.10, 2023-10-19, $ 126.
+4.10, 2023-10-19, \$ 126.
 
 Sammanfattning
 
@@ -2535,7 +2535,7 @@ Med anledning av SKRs pågående arbete för att motverka välfärdsbrott och ot
 kommuner, har förvaltningen genomfört en utökad bakgrundskontroll på nyckelpersoner hos utföraren.
 I bakgrundskontrollen framkom ingen information som utgör hinder för certifiering.
 
-Förvaltningen genomförde förhandlingsmöte enligt MBL $38, den 15 februari 2024. Vid
+Förvaltningen genomförde förhandlingsmöte enligt MBL \$38, den 15 februari 2024. Vid
 förhandlingen framkom inga hinder för certifiering.
 
 Förvaltningen har granskat handlingarna som inkommit i enlighet med förfrågningsunderlaget och
@@ -2545,10 +2545,10 @@ Beslutsunderlag
 
 Underlag till beslutet är
 
-- Förfrågningsunderlaget
+\- Förfrågningsunderlaget
 
-- Ansökan med bilagor, i enlighet med förfrågningsunderlaget
-- Förhandlingsprotokoll enligt MBL $38
+\- Ansökan med bilagor, i enlighet med förfrågningsunderlaget
+\- Förhandlingsprotokoll enligt MBL \$38
 
 1 2)
 Kungsbacka kommun
@@ -2581,7 +2581,7 @@ Förvaltningschef
 Förvaltningen för Vård & Omsorg
 
 KUNGSBACKA KOMMUN
-202)
+202\)
 
 <!-- sida 61 -->
 
@@ -2591,7 +2591,7 @@ PROTOKOLL
 
 Kungsbacka
 
-FÖRHANDLINGSPROTOKOLL enligt MBL $38, gällande entreprenör inom kundvalet i
+FÖRHANDLINGSPROTOKOLL enligt MBL \$38, gällande entreprenör inom kundvalet i
 
 Vård och Omsorg i Kungsbacka kommun
 
@@ -2620,7 +2620,7 @@ Ingela Linderoth Nord, Kommunal
 
 Ärende: Förhandling ny hemtjänstutförare
 
-$ I Förhandling har påkallats av Kungsbacka kommun enligt MBL $38 med anledning av ny potentiell
+\$ I Förhandling har påkallats av Kungsbacka kommun enligt MBL \$38 med anledning av ny potentiell
 
 entreprenör inom kundvalet i Vård och Omsorg i Kungsbacka kommun
 
@@ -2666,19 +2666,19 @@ förklarar att de kommer bygga upp och dimensionera företaget efterhand som de 
 
 kunder.
 
-$ 6 Kommunal frågar om tid för dokumentation samt arbetsplatsträffar. Arbetsgivaren tar med sig frågorna
+\$ 6 Kommunal frågar om tid för dokumentation samt arbetsplatsträffar. Arbetsgivaren tar med sig frågorna
 och ska återkomma med detaljer.
 
 8 7 Vision frågar om hantering nattetid och arbetsgivaren bekräftar att det är kommunens nattpatrull som
 täcker det behovet.
 
-$ 8 Ledarna ställer en fråga kring följsamhet till arbetstidsregler och arbetsgivaren hänvisar till allas
+\$ 8 Ledarna ställer en fråga kring följsamhet till arbetstidsregler och arbetsgivaren hänvisar till allas
 skyldighet att följa gällande lagstiftning.
 
-$ 9 Arbetstagarparterna förklarar sig eniga med arbetsgivaren och har inget att invända mot att företaget
+\$ 9 Arbetstagarparterna förklarar sig eniga med arbetsgivaren och har inget att invända mot att företaget
 godkänns som utförare av hemtjänstinsatser i Kungsbacka kommun.
 
-$ 10 Förhandlingen förklarades avslutad vid dagens datum.
+\$ 10 Förhandlingen förklarades avslutad vid dagens datum.
 
 Justeras 2024-02-15
 
@@ -2775,11 +2775,11 @@ Nämnden       för  Vård   & Omsorg
 
 Innehållsförteckning
 
-1. ALLMÄNT OM DELEGERING ................................................................................................................................................... 2
+1\. ALLMÄNT OM DELEGERING ................................................................................................................................................... 2
 
-2. BESTÄMMELSER FÖR NÄMNDENS DELEGERING ...................................................................................................................... 3
+2\. BESTÄMMELSER FÖR NÄMNDENS DELEGERING ...................................................................................................................... 3
 
-3. MYNDIGHETSUTÖVNING OCH HANDLÄGGNING  ..................................................................................................................... 4
+3\. MYNDIGHETSUTÖVNING OCH HANDLÄGGNING  ..................................................................................................................... 4
 
 3.1 BISTÅND OCH HANDLÄGGNING ENLIGT SOCIALTJÄNSTLAGEN ........................................................................................................................ 4
 3.2 BOSTADSANPASSNINGSBIDRAG ............................................................................................................................................................. 5
@@ -2788,10 +2788,10 @@ Innehållsförteckning
 3.4 ALLMÄNT OM HANDLÄGGNING, ÖVERKLAGAN, MED MERA .......................................................................................................................... 6
 3.5 TILLSYN, YTTRANDEN OCH ANMÄLNINGAR I VERKSAMHET ............................................................................................................................ 7
 
-4. EKONOMI, UPPHANDLING OCH AVTAL ................................................................................................................................. 10
+4\. EKONOMI, UPPHANDLING OCH AVTAL ................................................................................................................................. 10
 
-5. PERSONAL ........................................................................................................................................................................... 12
-6. ADMINISTRATIVA ÄRENDEN ................................................................................................................................................ 14
+5\. PERSONAL ........................................................................................................................................................................... 12
+6\. ADMINISTRATIVA ÄRENDEN ................................................................................................................................................ 14
 
 BILAGA 1 - FÖRORDNANDEN ................................................................................................................................................... 16
 
@@ -2801,7 +2801,7 @@ DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
 till exempel brutit mot reglerna om jäv, korruption eller begått
-1. Allmänt   om  delegering
+1\. Allmänt   om  delegering
 någon form av tjänstefel.
 Utgångspunkten i kommunallagen är att den politiska nämnden I vissa typer av ärenden får inte nämnden delegera sin
 som ansvarar för en viss ärendetyp fattar alla beslut som rör den beslutanderätt till någon annan. Det handlar då särskilt om
@@ -2842,7 +2842,7 @@ fortfarande bli personligt ansvariga för de beslut som tagits om de
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-2. Bestämmelser      för nämndens                     Förvaltningschef har rätt att vidaredelegera ärenden,
+2\. Bestämmelser      för nämndens                     Förvaltningschef har rätt att vidaredelegera ärenden,
 stadigvarande för en viss ärendegrupp eller i enskilda ärenden,
 delegering
 som delegerats direkt till denne. Sådan vidaredelegation ska
@@ -2883,7 +2883,7 @@ Som verksamhetschef i delegeringsförteckningen räknas också
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-3. Myndighetsutövning       och   handläggning
+3\. Myndighetsutövning       och   handläggning
 
 3.1 Bistånd och handläggning enligt socialtjänstlagen
 
@@ -3026,7 +3026,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-4. Ekonomi,    upphandling     och  avtal
+4\. Ekonomi,    upphandling     och  avtal
 
 Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfaranden skall ses som verkställighet.
 
@@ -3068,7 +3068,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-5. Personal
+5\. Personal
 
 Kommentar: Kommunstyrelsens förvaltning har i Regler kring delegering tagit fram en förteckning över vad som anses vara verkställighet inom personalområdet.
 
@@ -3107,7 +3107,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-6. Administrativa     ärenden
+6\. Administrativa     ärenden
 
 14 (17)
 
@@ -3239,41 +3239,41 @@ sommaren 2024 samt i de utvecklingsområden och framgångsfaktorer som identifie
 
 En samlad funktion i en sommarsamordnare tillsammans med en projektgrupp tillsattes.
 Denna funktion har därefter arbetat med följande aktiviteter.
--  Inriktningsbeslut i förvaltningen om ordinarie medarbetares semester med målsättning
+\-  Inriktningsbeslut i förvaltningen om ordinarie medarbetares semester med målsättning
 
 om 66% ordinarie medarbetare i verksamheten under juni, juni och augusti. Fokus på
 dialog och delaktighet i planeringen av semesterförläggningen.
--  Anpassad, och därmed tidigarelagd, semesterplanering i förhållande till period för
+\-  Anpassad, och därmed tidigarelagd, semesterplanering i förhållande till period för
 huvudsemester under juni, juli och augusti.
 
--  Dialoger i samtliga ledningsgrupper samt material togs fram för att stödja enheternas
+\-  Dialoger i samtliga ledningsgrupper samt material togs fram för att stödja enheternas
 arbete med semesterplaneringen.
--  Planering finns i varje ledningsgrupp för vad som behöver hanteras och säkerställas
+\-  Planering finns i varje ledningsgrupp för vad som behöver hanteras och säkerställas
 inför sommaren i aktuellt distrikt.
 
--  Rekrytering och marknadsföring har startat. Förvaltningen testar nya sätt att nå ut, dels
+\-  Rekrytering och marknadsföring har startat. Förvaltningen testar nya sätt att nå ut, dels
 om oss som arbetsgivare, dels om vår bransch. Förvaltningen rekryterar fortsatt 17-
 åringar samt planerar för att annonsera ”ständig helg” under sommarmånaderna om
 behov finns.
 
--  Fokus på att rekrytera medarbetare till längre vikariat för att skapa trygghet och
+\-  Fokus på att rekrytera medarbetare till längre vikariat för att skapa trygghet och
 stabilitet i verksamheten under sommaren.
 
 <!-- sida 85 -->
 
--  Fokus på att utveckla och säkerställa kandidatresan från intresserad till vikarie till dess
+\-  Fokus på att utveckla och säkerställa kandidatresan från intresserad till vikarie till dess
 att dem börjar arbeta.
--  Utveckling av webintroduktionen för målgruppen pågår.
+\-  Utveckling av webintroduktionen för målgruppen pågår.
 
--  Den fysiska introduktionen hur utvärderats och justerats och vi utvecklar hur
+\-  Den fysiska introduktionen hur utvärderats och justerats och vi utvecklar hur
 förvaltningsledningskontoret fortsatt kan introducera när extern part inte längre kan
 bedriva den och våra interna medarbetare behövs i klinisk verksamhet.
--  Delegeringsprocessen utvecklas och renodlas. Dels för att säkerställa kvalité, dels för
+\-  Delegeringsprocessen utvecklas och renodlas. Dels för att säkerställa kvalité, dels för
 
 att avlasta sjuksköterskor i klinisk verksamhet. Rekrytering har påbörjats av ett
 utbildningsteam som sannolikt kommer samarbeta med metodutvecklare och
 förvaltningsledningskontor i frågan.
--  Intensivt arbete med Vikariecenter för att utveckla samarbetet.
+\-  Intensivt arbete med Vikariecenter för att utveckla samarbetet.
 
 <!-- sida 86 -->
 
@@ -3360,7 +3360,7 @@ Tidplan 2024 - Ändring av datum för sammanträdesdagen 29 augusti 2024
 Förslag till beslut
 Nämnden för Vård & Omsorg flyttar nämndens planeringsdag den 29 augusti till den 5 september
 
-2024.
+2024\.
 
 Sammanfattning av ärendet
 

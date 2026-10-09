@@ -232,7 +232,7 @@ verksamheten ska vara ett krav för att en kommun ska få möjlighet att inrätt
 kommunalt lantmäteri.
 Vid sammanträdet lämnades även information om övergången från radiosystemet
 Rakel till systemet SWEN inom blåljusverksamheterna. Övergången ska ske senast
-2030.
+2030\.
 
 Fredrik Hansson (C) rapporterar även från Göteborgsregionen och beredningen för
 miljö och samhällsbyggnad. Vid senaste sammanträdet lämnades information om den

@@ -138,7 +138,7 @@ vara planläggning, vilket också betonas i översiktsplanen.
 
 Byggnadsnämnden ser gärna att det även framgår mer tydligt i planförslaget att syftet med
 den fördjupade översiktsplanen är att området i första hand ska planläggas. Det bör även
-förtydligas att de föreslagna riktlinjerna (exempelvis riktlinje 13*) främst är avsedda att
+förtydligas att de föreslagna riktlinjerna (exempelvis riktlinje 13\*) främst är avsedda att
 vägleda framtida detaljplanering, inte direkt tillämpas vid prövning av förhandsbesked eller
 bygglov. Ett sådant klargörande skulle minska risken för missförstånd och öka rättssäkerheten
 

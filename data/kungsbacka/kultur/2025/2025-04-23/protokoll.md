@@ -362,31 +362,31 @@ Granskningsrapporten översänds med önskemål att senast den 25 april 2025 erh
 svar från nämnden på nedanstående frågeställningar med anledning av de
 rekommendationer som redovisas i rapporten.
 
-* Vilka åtgärder avser nämnden att vidta med anledning av de rekommendationer
+\* Vilka åtgärder avser nämnden att vidta med anledning av de rekommendationer
 som redovisas i rapporten?
-* När avser nämnden att vidta eventuella åtgärder med anledning av de
+\* När avser nämnden att vidta eventuella åtgärder med anledning av de
 rekommendationer som redovisas i rapporten samt när planeras åtgärderna att vara
 genomförda?
 
-* Vilken verksamhet och/eller funktion i förvaltningen ansvarar för att genomföra
+\* Vilken verksamhet och/eller funktion i förvaltningen ansvarar för att genomföra
 beslutade åtgärder med anledning av de rekommendationer som redovisas i
 rapporten?
 
 Utifrån granskningen rekommenderas nämnden för Kultur & Fritid att:
-* Säkerställa att systemet för föreningsbidrag och principerna för klubblokaler och
+\* Säkerställa att systemet för föreningsbidrag och principerna för klubblokaler och
 verksamhetsytor skyndsamt förankras och får genomslag i verksamheten.
 
-* Säkerställa att det uppdaterade regelverket för föreningsstöd löpande följs upp
+\* Säkerställa att det uppdaterade regelverket för föreningsstöd löpande följs upp
 under övergångsåret och utvärderas under 2026.
-* Säkerställa att nämndens beslut om utfasning av nuvarande former för
+\* Säkerställa att nämndens beslut om utfasning av nuvarande former för
 
 hyressubventioner till föreningar fullföljs.
-* Fortsätta arbetet med att öka kunskapen kring jäv och otillåten påverkan inom
+\* Fortsätta arbetet med att öka kunskapen kring jäv och otillåten påverkan inom
 förvaltningen.
 
-* Stärka arbetet med att förhindra och förebygga jäv genom dokumenterade rutiner
+\* Stärka arbetet med att förhindra och förebygga jäv genom dokumenterade rutiner
 och löpande egenkontroller.
-* Säkerställa att nämndens jävsprövningar protokollförs.
+\* Säkerställa att nämndens jävsprövningar protokollförs.
 
 Beslutsunderlag
 
@@ -511,30 +511,30 @@ Nämnden godkänner förvaltningens förslag på revideringar.
 
 Sammanfattning av ärendet
 
-* Nämnden för Kultur & Fritid beslutade 2025-03-19 § 35 om en ny
+\* Nämnden för Kultur & Fritid beslutade 2025-03-19 § 35 om en ny
 delegeringsförteckning. Revideringen avser:
 
-* ändring av punkt 1.5: Om en tjänsteman av något skäl inte vill utnyttja sin rätt att
+\* ändring av punkt 1.5: Om en tjänsteman av något skäl inte vill utnyttja sin rätt att
 fatta beslut i ett visst ärende eller ärendet visar sig falla inom ramen för vad som är
 föreskrivet i kommunallagen 6 kap 38 § ska tjänstemannen överlämna ärendet till
 nämnden.
-* ändring av punkt 1.6: Samtliga beslut som är fattade med stöd av delegering ska
+\* ändring av punkt 1.6: Samtliga beslut som är fattade med stöd av delegering ska
 anmälas till nämnden vid nästa sammanträde om inte annat anges i
 delegeringsförteckningen nedan. Beslut som är fattade av ordförande eller annan
 
 ledamot som nämnden har utsett, som brådskande enligt kommunallagen 6 kap 39 §,
 ska anmälas vid nämndens nästa sammanträde.
-* korrigering av felaktigt angiven beslutsinstans i delegering 2.1.1: Ärenden som är
+\* korrigering av felaktigt angiven beslutsinstans i delegering 2.1.1: Ärenden som är
 så brådskande att nämndens avgörande inte kan avvaktas.
 
-* ändring av delegering 2.1.2 – 2.1.13: förtydliganden kring lagrum/stöd, samt
+\* ändring av delegering 2.1.2 – 2.1.13: förtydliganden kring lagrum/stöd, samt
 delegering till berörda roller
-* felstavad enhet i delegering 2.2.1 f
+\* felstavad enhet i delegering 2.2.1 f
 
-* ändring av delegering 2.4.5 (ansöka istället för underskrift), tydliggörande av
+\* ändring av delegering 2.4.5 (ansöka istället för underskrift), tydliggörande av
 delegering samt namnlista på delegater.
 
-* ny delegering 2.4.7: Mottaga konstdonation vars egenvärde inkl eventuella
+\* ny delegering 2.4.7: Mottaga konstdonation vars egenvärde inkl eventuella
 omkostnader understiger 3 prisbasbelopp.
 
 Beslutsunderlag

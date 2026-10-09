@@ -1050,7 +1050,7 @@ handläggningskostnad per timme B.
 Handläggningskostnad per timme (tabell B) är bestämd med utgångspunkt för
 kostnadsläge och Prisindex för kommunal verksamhet (PKV). Vid en indexering
 med PKV sker en höjning av handläggningskostnad per timme till 1 220 kronor
-2026.
+2026\.
 
 Avgiftsbeloppet i tabell B3 (planbesked) är bestämt med utgångspunkt från
 kostnadsläge och Prisindex för kommunal verksamhet (PKV). Vid en indexering
@@ -1060,9 +1060,9 @@ utgångspunkt från prisbasbelopp (PBB). Tabell B1-B2 (planavgift vid bygglov) �
 
 kopplad till milliprisbasbelopp (mpBB) och beräknas med en formel. Regeringen
 beslutade i september 2025 om att prisbasbeloppet skulle höjas till 59 200 kronor för
-2026.
+2026\.
 Utgångsår för indexjustering enligt Prisindex för kommunal verksamhet (PKV) är
-2024.
+2024\.
 
 Beslutsunderlag
 Kommunstyrelsens arbetsutskott 2025-12-02, § 353

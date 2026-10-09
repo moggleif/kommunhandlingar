@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 2(8)
 
-3.  Kommunbudget 2026, plan 2024-00717 Förslag till beslut i kommunfullmäktige
+3\.  Kommunbudget 2026, plan 2024-00717 Förslag till beslut i kommunfullmäktige
 2027–2028                      Kommunfullmäktige fastställer Kommunbudget
 2026, plan 2027–2028, daterad 2025-05-16, nedan
 13.30-13.50                    kallad budgetdokumentet.
@@ -560,7 +560,7 @@ bedömningen av arbetet med mål och direktiv gör vi i samband med delårsboksl
 
 Resultat, prognos
 
-1) Årets resultat exklusive jämförelsestörande poster
+1\) Årets resultat exklusive jämförelsestörande poster
 Prognosen är att årets resultat blir 642 miljoner kronor. Det är 356 miljoner kronor mer än resultatet
 förra året. Det prognostiserade resultatet motsvarar tio procent av skatteintäkter och statsbidrag,
 jämfört med 4,6 procent förra året. Kommunen har inte med resultatet från
@@ -858,7 +858,7 @@ Kungsbacka kommun         Apriluppföljning 2025                 9
 
 8  Driftredovisning
 
-1) I finansverksamheten ingår bara verksamhetens nettokostnader, det vill säga skatteintäkter och generella
+1\) I finansverksamheten ingår bara verksamhetens nettokostnader, det vill säga skatteintäkter och generella
 statsbidrag samt finansiella poster ingår inte i beloppen.
 
 Nämndernas prognos + 36 miljoner kronor
@@ -1664,7 +1664,7 @@ Pensionsskuld, miljoner kronor 1 673 1 689 1 747 1 795 1789 1 946 2 202 2 181 2 
 Pensionsskuld, kronor per invånare 20 072 20 015 20 570 21 043 20 851 22 720 25 667 25 307 24 447 23 838 23 272
 Borgensåtagande, miljoner kronor 3 059 3 283 3 412 3 502 3 493 3 484 3 476 3 476 3 476 3 476 3 476
 Borgensåtagande, kronor per invånare 36 702 38 900 40 174 41 049 40 710 40 676 40 517 40 333 40 331 40 302 40 246
-* Jämföresletalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
+\* Jämföresletalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
 
 10
 
@@ -2093,7 +2093,7 @@ Fokusområden
 •  I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att
 fungera.
 
-*) Brukarbedömning görs vartannat år för individ- och familjeomsorg. Detsamma gällde tidigare även äldreomsorg.
+\*) Brukarbedömning görs vartannat år för individ- och familjeomsorg. Detsamma gällde tidigare även äldreomsorg.
 
 EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ
 Fokusområden
@@ -2117,7 +2117,7 @@ biologisk mångfald.
 | Invånare 16–84 år med avsaknad av tillit till andra (Folkhälsoenkäten) |  |  |  | Minska |
 | Brukarbedömning hemtjänst äldreomsorg, helhetssyn (Kolada) | 90 % | 91 % | 88 % | Öka |
 | Brukarbedömning särskilt boende äldreomsorg, helhetssyn (Kolada) | 74 % | 76 % | 76 % | Öka |
-| Brukarbedömning individ- och familjeomsorg totalt – helhetssyn<br>(Kolada) | 88 % | * | 95 % | Öka |
+| Brukarbedömning individ- och familjeomsorg totalt – helhetssyn<br>(Kolada) | 88 % | \* | 95 % | Öka |
 
 [Tabell 54-2](handlingar.tabeller/54-2.csv)
 
@@ -2125,11 +2125,11 @@ biologisk mångfald.
 | --- | --- | --- | --- | --- |
 | Total debiterad vattenförbrukning fördelat på antal anslutna till<br>vattenledningsnätet. (här ingår förbrukning från hushåll, kommunen<br>och privata verksamheter). Liter/person och dygn | 154 | 145 | 145 | Minska |
 | Vattenförbrukning för hushåll anslutna till vattenledningsnätet.<br>Liter/person och dygn. | . | - | 125 | Minska |
-| Fossiloberoende personbilar, andel av totalt antal bilar i det geografiska<br>området (%) | 21,2 | 24,1 | * | Öka |
+| Fossiloberoende personbilar, andel av totalt antal bilar i det geografiska<br>området (%) | 21,2 | 24,1 | \* | Öka |
 
 <!-- sida 55 -->
 
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE
 Fokusområden
@@ -2138,8 +2138,8 @@ Fokusområden
 •  I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom
 samverkan mellan näringsliv och utbildning.
 
-*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
-**Ännu ej publicerad.
+\*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
+\*\*Ännu ej publicerad.
 
 21
 
@@ -2148,23 +2148,23 @@ samverkan mellan näringsliv och utbildning.
 | Matens klimatpåverkan från de offentliga måltiderna ska minska räknat i<br>kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030. | 1,86 | 1,69 | 1,85 | Minska |
 | --- | --- | --- | --- | --- |
 | Antal kemiska produkter med utfasningsämnen, inklusive<br>hormonstörande ämnen på SIN-listan ska minska i kommunens<br>verksamheter. 2021 var antalet 124 (KEMgroup PRO) | 113 | 115 | 151 | Minska |
-| Avfall från hushåll ska minska med 30% per invånare från 2020 till 2030.<br>Startvärde 100, målvärde 2030 är 70. | 103 | 92 | * | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) | måttlig | måttlig | * | Öka |
-| Vattendrag med god ekologisk status, andel (Kolada) | 18,5 % | * | * | Öka |
-| Andelen återbrukade möbler | - | - | * | Öka |
-| Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor<br>(Elevhälsan i Kungsbackas hälsosamtal med elever) | Åk 4:<br>88%<br>Åk 8:<br>72%<br>Åk 1 gy:<br>65% | Åk 4:<br>85%<br>Åk 8:<br>79%<br>Åk 1 gy:<br>73% | * | Öka |
-| Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar<br>(Elevhälsan i Kungsbackas hälsosamtal med elever) | Åk 4:<br>90%<br>Åk 8:<br>93%<br>Åk 1 gy:<br>85% | Åk 4:<br>91%<br>Åk 8:<br>92%<br>Åk 1 gy:<br>86% | * | Öka |
+| Avfall från hushåll ska minska med 30% per invånare från 2020 till 2030.<br>Startvärde 100, målvärde 2030 är 70. | 103 | 92 | \* | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) | måttlig | måttlig | \* | Öka |
+| Vattendrag med god ekologisk status, andel (Kolada) | 18,5 % | \* | \* | Öka |
+| Andelen återbrukade möbler | - | - | \* | Öka |
+| Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor<br>(Elevhälsan i Kungsbackas hälsosamtal med elever) | Åk 4:<br>88%<br>Åk 8:<br>72%<br>Åk 1 gy:<br>65% | Åk 4:<br>85%<br>Åk 8:<br>79%<br>Åk 1 gy:<br>73% | \* | Öka |
+| Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar<br>(Elevhälsan i Kungsbackas hälsosamtal med elever) | Åk 4:<br>90%<br>Åk 8:<br>93%<br>Åk 1 gy:<br>85% | Åk 4:<br>91%<br>Åk 8:<br>92%<br>Åk 1 gy:<br>86% | \* | Öka |
 
 [Tabell 55-2](handlingar.tabeller/55-2.csv)
 
 | Indikator | 2022 | 2023 | 2024 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
-| Insikt, SKR:s servicemätning av kommunernas myndighetsutövning<br>till företag. Nöjd kund-index utifrån sammanvägt betygsindex 0–100,<br>för hur företag i kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilken är en viktig del av företagsklimatet. * | 69 | 66 | 64 | Öka |
+| Insikt, SKR:s servicemätning av kommunernas myndighetsutövning<br>till företag. Nöjd kund-index utifrån sammanvägt betygsindex 0–100,<br>för hur företag i kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilken är en viktig del av företagsklimatet. \* | 69 | 66 | 64 | Öka |
 | Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,4 | 3,4 | 3,8 | Öka |
-| Sysselsatt dagbefolkning, antal (Kolada) | 28 485 | 28 586 | ** | Öka |
-| Andel av sysselsatt dagbefolkning inom Göteborgsregionen | 4,9 % | 4,9 % | ** | Öka |
-| Företagsamhet, andel av invånare 16 - 74 år | 18 % | 19 % | ** | Öka |
-| Antal nystartade företag per 1 000 invånare 16 - 64 år,<br>etableringsfrekvens (Kolada) | 12,8 | 10,3 % | ** | Öka |
+| Sysselsatt dagbefolkning, antal (Kolada) | 28 485 | 28 586 | \*\* | Öka |
+| Andel av sysselsatt dagbefolkning inom Göteborgsregionen | 4,9 % | 4,9 % | \*\* | Öka |
+| Företagsamhet, andel av invånare 16 - 74 år | 18 % | 19 % | \*\* | Öka |
+| Antal nystartade företag per 1 000 invånare 16 - 64 år,<br>etableringsfrekvens (Kolada) | 12,8 | 10,3 % | \*\* | Öka |
 
 <!-- sida 56 -->
 
@@ -2185,7 +2185,7 @@ med kommunen.
 
 ledare.
 
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 22
 
@@ -2203,7 +2203,7 @@ ledare.
 | Indikator | 2022 | 2023 | 2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
 | Hållbart medarbetarengagemang, ett index för medarbetarnas<br>samlade uppfattning om områdena motivation, ledarskap och<br>styrning, skala 1–100 enligt Medarbetarenkäten | 78 | 76 | 75 | Öka |
-| Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix beräknas<br>utifrån nio nyckeltal med skala 1–20 | 114 | 124 | * | Öka |
+| Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix beräknas<br>utifrån nio nyckeltal med skala 1–20 | 114 | 124 | \* | Öka |
 
 <!-- sida 57 -->
 
@@ -2417,15 +2417,15 @@ kan beskriva med fyra byggstenar:
 
 <!-- sida 62 -->
 
-1. En robust organisation
+1\. En robust organisation
 Omfattar exempelvis organisationsstruktur, reglementen, rutiner, verksamhetssystem,
 kvalitetskontroller, avtal, information, kommunikation och kultur.
-2. Riskanalyser som riktar arbetet
+2\. Riskanalyser som riktar arbetet
 Ett reflekterande och framåtsyftande förhållningssätt. Omvärldsanalys och faktainsamling inom
 och utom den egna organisationen.
-3. Planerade åtgärder och kontroller
+3\. Planerade åtgärder och kontroller
 Utgår från riskanalysen och prioriterar och planerar uppföljande kontroller.
-4. Uppföljning
+4\. Uppföljning
 Vi följer upp och analyserar den interna kontrollen. Resultatet återkopplar man till ansvarig
 nämnd.
 
@@ -2462,11 +2462,11 @@ resultatfonder. Under året kan man göra ramjustering av resultatfonden i de fa
 övergår till annan nämnd. I de fall nämnden önskar föra med ett överskott till resultatfonden ska
 nämnden tydligt beskriva och motivera utifrån kriterierna 1–4 nedan beroende på orsak till
 avvikelsen.
-1. Nämnden har inte utfört planerad verksamhet. Nämnden ska normalt återredovisa överskottet.
-2. Man har överfört verksamhet till annan nämnd eller styrelse. Normalt gör man ramjustering av
+1\. Nämnden har inte utfört planerad verksamhet. Nämnden ska normalt återredovisa överskottet.
+2\. Man har överfört verksamhet till annan nämnd eller styrelse. Normalt gör man ramjustering av
 budgeten under verksamhetsåret. I undantagsfall kan man återredovisa överskott eller överföra
 det till aktuell nämnd eller styrelse i samband med bokslutet.
-3. Egna effektiviseringar eller besparingar. Redovisning av prestationer eller andra
+3\. Egna effektiviseringar eller besparingar. Redovisning av prestationer eller andra
 utvärderingskriterier som nämnden eller styrelsen använder ska jämföras med budget.
 Överskottet förs till nämndens resultatfond.
 
@@ -2474,7 +2474,7 @@ utvärderingskriterier som nämnden eller styrelsen använder ska jämföras med
 
 <!-- sida 63 -->
 
-4. Pågående driftprojekt. Projekten ska vara igångsatta men inte avslutade. Överskottet kan
+4\. Pågående driftprojekt. Projekten ska vara igångsatta men inte avslutade. Överskottet kan
 ombudgeteras till nya budgetåret. Man ska också analysera och redovisa orsaker till underskott
 av nämndens totala nettobudget. Normalt tar nämnden med sig underskottet och täcker det
 inom sin resultatfond.
@@ -2892,13 +2892,13 @@ Summa Äldreomsorg                  60      80     32           2,8%
 ```
 
 0,0
-- 5,0   -2,6         -2,1-2,4-2,7 -2,6 -1,5
+\- 5,0   -2,6         -2,1-2,4-2,7 -2,6 -1,5
 -5,1
-- 10,0
+\- 10,0
 -9,4
-- 15,0
+\- 15,0
 -15,4
-- 20,0                                   -15,7
+\- 20,0                                   -15,7
 
 Diagram: Om stapeln är över nollstrecket är det en indikation på högt kostnadsläge på grund av hög ambitionsnivå
 och/eller låg effektivitet. På motsvarande sätt visar resultat under noll på lägre kostnadsläge på grund av lägre
@@ -4036,7 +4036,7 @@ Reinvesteringar               31 750    18 600   20 400     79 500
                     Summa     81 500    86 500   86 500    153 000
 ```
 
-*Varlavägen, delen Stora Bäcksleden-Arendalsleden (År 2026 5 000 tkr, År 2027 10 000 tkr,
+\*Varlavägen, delen Stora Bäcksleden-Arendalsleden (År 2026 5 000 tkr, År 2027 10 000 tkr,
 År 2028 10 000 tkr)
 
 Teknik Avgiftsfinansierat    Budget                      Plan 2029-
@@ -4125,15 +4125,15 @@ utbyggnad av infrastrukturen. Byggstart av bostäderna är planerad till andra h
 
 Tölöängar syd (del 1) innehåller cirka 400 bostäder i både småhus och flerbostadshus och som
 kommer att uppföras av Sverigehuset som är exploatör. Vi beräknar att anta detaljplanen under
-2026.
+2026\.
 
 Voxlöv norr ligger precis öster om Hedestation och kommer att innehålla cirka 750 bostäder i både
 småhus och flerbostadshus där Derome är exploatör. Vi beräknar att anta detaljplanen under
-2027.
+2027\.
 
 Etapp 2
 Den andra etappen består av Voxlöv sydväst och sydöst. Vi planerar att starta detaljplanen under
-2025.
+2025\.
 
 Etapp 3
 
@@ -4552,9 +4552,9 @@ Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen beviljar avvikelse från regler om maxlängden på 20 timmar för ett
 arbetspass till 24 timmar inom:
 
-1. personlig assistans för situationer då brukare ska genomföra resor på semester
+1\. personlig assistans för situationer då brukare ska genomföra resor på semester
 eller inom sitt arbete och
-2. lägerverksamheten för barn och unga.
+2\. lägerverksamheten för barn och unga.
 
 Beslutet gäller under perioden 1 juni 2025–31 maj 2026.
 
@@ -4636,10 +4636,10 @@ Förslag till beslut i kommunstyrelsen
 
 Kommunstyrelsen beviljar avvikelse från regler om maxlängden på 20 timmar för ett arbetspass till 24
 timmar inom:
-1. personlig assistans för situationer då brukare ska genomföra resor på semester eller inom sitt
+1\. personlig assistans för situationer då brukare ska genomföra resor på semester eller inom sitt
 arbete och
 
-2. lägerverksamheten för barn och unga.
+2\. lägerverksamheten för barn och unga.
 Beslutet gäller under perioden 1 juni 2025–31 maj 2026.
 
 Sammanfattning av ärendet
@@ -4803,10 +4803,10 @@ Nämnden för Individ & Familjeomsorgs förslag till Kommunstyrelsen
 Kommunstyrelsen beslutar att bevilja avvikelse från regler om maxlängden på 20
 timmar för ett arbetspass till 24 timmar inom:
 
-1. personlig assistans för situationer då brukare ska företa resor som rekreation eller
+1\. personlig assistans för situationer då brukare ska företa resor som rekreation eller
 inom sitt värv
 och
-2. lägerverksamheten för barn och unga
+2\. lägerverksamheten för barn och unga
 
 Beslutet gäller under perioden 1 juni 2025 – 31 maj 2026.
 
@@ -4905,10 +4905,10 @@ Nämnden för Individ & Familjeomsorgs förslag till Kommunstyrelsen
 
 Kommunstyrelsen beslutar att bevilja avvikelse från regler om maxlängden på 20 timmar för ett
 arbetspass till 24 timmar inom
-1. personlig assistans för situationer då brukare ska företa resor som rekreation eller inom sitt värv
+1\. personlig assistans för situationer då brukare ska företa resor som rekreation eller inom sitt värv
 
 och
-2. lägerverksamheten för barn och unga
+2\. lägerverksamheten för barn och unga
 
 Beslutet gäller under perioden 1 juni 2025–31 maj 2026.
 
@@ -5091,7 +5091,7 @@ MBL med anledning av behov att tillämpa avvikelse för
 arbetstidsförläggning inom personlig assistans vid resor och för
 läger- och korttidsverksamheten.
 
-$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
+\$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
 arbetstidsförläggning enligt Allmänna Bestämmelser, AB, och
 Bilaga J, identifierat ett behov av att tillämpa avvikelse genom
 att schemalägga arbetspass på upp till 24 timmar.
@@ -5136,7 +5136,7 @@ och personalens arbetsmiljö.
 Uppföljning sker på APT och i lokal samverkansgrupp, LSG,
 där uppföljning är en stående punkt.
 
-$ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
+\$ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
 
 8 4 Förhandlingen förklarades avslutad vid dagen datum.
 
@@ -5193,18 +5193,18 @@ Tänk på att medarbetare och skyddsombud och elevskyddsombud ska ges möjlighet
 riskbedömning och handlingsplan görs.
 
 Använd checklistan så här:
-1. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
+1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
 
-2. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
+2\. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
 friskfaktorer!
-3. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
+3\. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
 
-4. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
+4\. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
 och datum för när åtgärden ska vara genomförd.
 
 -Tips!
-- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
+\- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
 
 2/4
 2025-109
@@ -5252,7 +5252,7 @@ under och efter resan.
 |  | Identifiera riskkällor som ni tror uppstår efter genomförd förändring och bedöm om dessa kan leda till risker för ohälsa eller<br>olycksfall. Glöm inte att även lyfta friskfaktorer som förändringen kan medföra. Om en risk ska åtgärdas - klicka på<br>skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig och datum. Klicka på pilen längst till vänster för att<br>lägga till en ny rad. |  |  |
 | 2.1 | Friskfaktor- möjlighet att arbeta längre arbetspass vid<br>resor för att inte förlägga assistansbyten under<br>dagen/under aktivitet/utflykt | 0 |  |
 | 2.2 | Friskfaktor- 24h arbetspass skapar förutsättning och<br>möjlighet för att möta assistansanvändarens rätt till ett<br>självständigt liv enligt LSS lagstiftningen. | 0 |  |
-| 2.3 | Riskfaktor- högre arbetsbelastning vid längre<br>arbetspass | 2*1<br>2 | Att följa med som assistent på resa bygger på<br>frivillighet för medarbetare.<br>AG säkerställer att veckovila planeras in före<br>och efter resan, samt att möjlighet till vila och<br>återhämtning finns under arbetspasset. |
+| 2.3 | Riskfaktor- högre arbetsbelastning vid längre<br>arbetspass | 2\*1<br>2 | Att följa med som assistent på resa bygger på<br>frivillighet för medarbetare.<br>AG säkerställer att veckovila planeras in före<br>och efter resan, samt att möjlighet till vila och<br>återhämtning finns under arbetspasset. |
 
 [Tabell 123-2](handlingar.tabeller/123-2.csv)
 
@@ -5285,23 +5285,23 @@ Resor med assistansanvändare
 Uppgifter som ska lämnas i samband med begäran om dispens
 I samband med begäran om dispens ska arbetsgivaren besvara följande frågor.
 
-1. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
+1\. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
 vilken.
 Begäran avser avvikelse från Bilaga J.
 
-2. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
+2\. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
 dispens?
 Begäran avser personlig assistans inom Förvaltningen för Individ & Familjeomsorg i Kungsbacka
 kommun. Begäran avser att tillämpas för de medarbetare som medföljer assistansanvändare vid
 längre resor där ordinarie schemaläggning inte är möjligt.
 
-3. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
+3\. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
 många arbetstagare i dessa grupper skulle beröras?
 Beslutet kommer att beröra de medarbetare som följer med assistansanvändare vid resor och inte
 inom den ordinarie schemaläggningen.
 Berörda yrkesgrupper är personliga assistenter och PAN-anställda.
 
-4. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
+4\. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
 saknas specifik kompetens eller dylikt. Om så är fallet vilken/vilka kompetenser
 
 saknas och vilka konsekvenser får det?
@@ -5309,33 +5309,33 @@ Vid planerade resor följer personlig assistent med assistansanvändaren för at
 stöd som individen har. Vid längre resor och/eller resor på långt avstånd till hemmet finns inte
 möjlighet till att följa ordinarie schemaläggning enligt AB Bilaga J.
 
-5. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
+5\. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
 brukare, barn, civilsamhälle eller dylikt) som särskilt behöver beaktas när
 verksamheten bemannas.
 Att ha en personlig assistent medföljande på resor är en rättighet för assistansanvändaren och ett
 
 lagkrav som arbetsgivare har att följa.
 
-6. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
+6\. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
 deltidsarbete, frånvaro, svårigheter att rekrytera eller dylikt?
 Begäran avser tillämpning inom personlig assistans vid resor under en begränsad tidsperiod. Vid
 resor planeras i största möjliga mån frivilligt medföljande medarbetare i dialog med
 assistansanvändare.
 
-7. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
+7\. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
 glesbygd med långa pendlingsavstånd eller dylikt?
 Det finns inte alltid möjlighet att följa ordinarie schema vid resor inom personlig assistans då det kan
 röra sig om stora geografiska områden inom Sverige samt till andra länder. Vid längre resor behöver
 antalet assistenter som arbetar minimeras för att möjliggöra resan för assistansanvändaren.
 
-8. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
+8\. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
 yrkesgrupp/yrkesgrupper. Bifoga statistik om sådan finns att tillgå.
 
 <!-- sida 126 -->
 
 Vi arbetar enligt AB Bilaga J och det finns inga planerade insatser under jourtid.
 
-9. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
+9\. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
 månaderna.
 Förväntad utveckling och belastning är oförändrad under kommande 12 månader.
 Arbetsmiljö och arbetssituation följs upp regelbundet, löpande och på varje arbetsplatsträff för att
@@ -5348,7 +5348,7 @@ självbestämmande och goda levnadsvillkor.
 Det förekommer regelbundet resor inom personlig assistans där assistenter följer med. Varje resa
 planeras individuellt utifrån assistansanvändaren behov.
 
-10. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
+10\. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
 bilaga till AB ska kunna förläggas.
 Risk och konsekvensbedömning har gjorts för att;
 
@@ -5358,7 +5358,7 @@ Risk och konsekvensbedömning har gjorts för att;
 medarbetare innan under och efter resan.
 Arbetstidsförläggning med 24h arbetspass inom personlig assistans är tillämpligt enligt AB Bilaga J.
 
-11. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
+11\. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
 sammantaget uppgår till 20 timmar, inte är tillräckligt för verksamheten. Beskriv
 också vilka konsekvenser en sådan schemaläggning skulle medföra för verksamheten.
 
@@ -5374,7 +5374,7 @@ en god arbetsmiljö under resan. Att följa med assistansanvändaren på resa by
 medarbetarna och det finns alltid en dialog mellan assistansanvändare, medarbetare och enhetschef
 inför och under planering av resan.
 
-12. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
+12\. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
 Tidsperioden för begärt beslut är 2025-07-01 till och med 2026-01-30, för att sedan ha samma
 tidsperiod som övriga beslut inom personlig assistans.
 
@@ -5384,16 +5384,16 @@ Lägerverksamheten
 Uppgifter som ska lämnas i samband med begäran om dispens
 I samband med begäran om dispens ska arbetsgivaren besvara följande frågor.
 
-1. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
+1\. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
 vilken.
 Begäran avser avvikelse från Bilaga J
 
-2. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
+2\. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
 dispens?
 Begäran avser Lägerverksamheten inom Förvaltningen för Individ & Familjeomsorg i Kungsbacka
 kommun
 
-3. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
+3\. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
 många arbetstagare i dessa grupper skulle beröras?
 Berörda yrkesgrupper är timanställd personal inom Lägerverksamheten. Behovet varierar inom
 verksamheten och beroende av hur barn och familjer väljer att barnen är närvarande i
@@ -5402,7 +5402,7 @@ Arbetsgivaren kommer att aktivt arbeta för att antalet 24h pass i verksamheten 
 möjligt utan att det påverkar barnperspektivet på ett negativt sätt. De medarbetare som är
 månadsavlönade kommer arbeta enligt AB och bilaga J max 20h pass.
 
-4. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
+4\. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
 saknas specifik kompetens eller dylikt. Om så är fallet vilken/vilka kompetenser
 saknas och vilka konsekvenser får det?
 Verksamheten har tidigare tillämpat Bilaga L och haft samma personalgrupp i arbete under hela
@@ -5416,7 +5416,7 @@ det inskränker på möjligheten till längre aktiviteter utanför enheten vilke
 verksamheten. Fler personalbyten riskerar också påverka till större andel händelser och
 kommunikationsmissar kring medicinhantering/dokumentationsöverföring för brukarna.
 
-5. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
+5\. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
 brukare, barn, civilsamhälle eller dylikt) som särskilt behöver beaktas när
 verksamheten bemannas.
 Barnperspektivet bör särskilt beaktas samt familjers möjlighet till avlastning. Personalbyten och
@@ -5424,7 +5424,7 @@ Barnperspektivet bör särskilt beaktas samt familjers möjlighet till avlastnin
 förändring i verksamheten kan bidra till en försämrad trygghet för barnen vilket kan leda till en lägre
 närvaro och vilja att nyttja beslut om korttidsvistelse på lägerverksamhet.
 
-6. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
+6\. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
 deltidsarbete, frånvaro, svårigheter att rekrytera eller dylikt?
 Lägerverksamheten bemannas idag av 7 månadsanställda medarbetare som verkar som arbetsledare
 under helgen. Övriga medarbetare är timanställda medarbetare som i regel arbetar en helg i
@@ -5437,7 +5437,7 @@ kön, samt en personalgrupp som känner barnen väl och ger trygghet under viste
 Idag har verksamheten en låg sjukfrånvaro, låg personalomsättning och inget övertidsarbete
 förkommer.
 
-7. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
+7\. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
 glesbygd med långa pendlingsavstånd eller dylikt?
 Begäran om beslut grundar sig inte i första hand på geografiska förutsättningar, men enheterna där
 
@@ -5448,12 +5448,12 @@ genomgång/ rapportering sedan åker man gemensamt med bussen ut till enheten oc
 arbetspassets slut på söndag eftermiddag tar man sig tillbaka till Stadshuset med bussen. De allra
 flesta av dagens medarbetare bor utanför Kungsbacka kommun och saknar bil och/eller körkort.
 
-8. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
+8\. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
 yrkesgrupp/yrkesgrupper. Bifoga statistik om sådan finns att tillgå.
 
 Vi arbetar enligt AB Bilaga J och finns inga planerade insatser under jourtid.
 
-9. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
+9\. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
 månaderna.
 Förväntad utveckling och belastning är oförändrad under perioden.
 Arbetsmiljö och arbetssituationen följs upp regelbundet och löpande på varje arbetsplatsträff för att
@@ -5463,7 +5463,7 @@ Dialog planeras med beslutsfattande myndighet för att beslut och verksamhetspla
 
 behovet hos barnet.
 
-10. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
+10\. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
 bilaga till AB ska kunna förläggas.
 Risk och konsekvensbedömning har gjorts för att identifiera och säkerställa behov utifrån
 barnperspektivet enligt Barnkonventionen, LSS och SoL samt utifrån Arbetsmiljölagen för att
@@ -5472,7 +5472,7 @@ Arbetstidsförläggning med 24h arbetspass inom funktionsstödsverksamhet är ti
 
 Bilaga J from 2024-04-01.
 
-11. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
+11\. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
 sammantaget uppgår till 20 timmar, inte är tillräckligt för verksamheten. Beskriv
 också vilka konsekvenser en sådan schemaläggning skulle medföra för verksamheten.
 Se punkt 4 och 5.
@@ -5482,7 +5482,7 @@ detta kan visa sig genom hot och våld. Det kan även medföra en större risk f
 
 medicinhantering med större omsättning av personal under en vistelse.
 
-12. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
+12\. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
 Tidsperioden för begärt beslut är 2025-07-01 till och med 2026-01-30, för att sedan ha samma
 tidsperiod som övriga beslut.
 
@@ -5526,18 +5526,18 @@ riskbedömning och handlingsplan görs.
 
 Använd checklistan så här:
 
-1. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
+1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
-2. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
+2\. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
 friskfaktorer!
 
-3. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
+3\. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
 
-4. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
+4\. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
 och datum för när åtgärden ska vara genomförd.
 
 -Tips!
-- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
+\- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
 
 1/3
 2025-110
@@ -5586,9 +5586,9 @@ i verksamheten veckovis.
 |  | Identifiera riskkällor som ni tror uppstår efter genomförd förändring och bedöm om dessa kan leda till risker för ohälsa eller<br>olycksfall. Glöm inte att även lyfta friskfaktorer som förändringen kan medföra. Om en risk ska åtgärdas - klicka på<br>skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig och datum. Klicka på pilen längst till vänster för att<br>lägga till en ny rad. |  |  |
 | 2.1 | Attraktiva arbetstider, längre pass vilket våra<br>medarbetare önskar, skapar en attraktiv arbetsplats<br>och låg personalomsättning bibehålls. Lättare att byta<br>arbetspass | 0 | Friskfaktor |
 | 2.2 |  | 0 |  |
-| 2.3 | Kortare arbetspass och fler personalbyten under<br>vistelsen innebär en arbetsmiljörisk för medarbetarna.<br>Det kan skapa oro och otrygghet för deltagare och visa<br>sig genom hot och våld. | 3*2<br>6 | Rapporteringstid mellan personalbyten utifrån<br>framtagna mallar är framtaget av medarbetarna<br>på enheten för att kunna arbeta så likt som<br>möjligt. |
-| 2.4 | Att personalbyten inte behöver ske vid kvälls eller natt<br>rutiner eller mitt i aktivitet.<br>Det skapar risk för oro hos deltagarna och det<br>inskränker på möjligheten till längre aktiviteter utanför<br>enheten vilket kan innebära en brist i verksamhetens<br>uppdrag. | 3*2<br>6 | Friskfaktor;<br>-Vid färre personalbyten minskar risken för oro,<br>hot och våld. Nu mera sker personalbytet på<br>dagen<br>Riskfaktor;<br>-Hot och våld, är minimerad efter ny tid för<br>personalbyte |
-| 2.5 | Det kan även medföra en större risk för händelser och<br>avvikelser i medicinhantering. | 4*3<br>12 |  |
+| 2.3 | Kortare arbetspass och fler personalbyten under<br>vistelsen innebär en arbetsmiljörisk för medarbetarna.<br>Det kan skapa oro och otrygghet för deltagare och visa<br>sig genom hot och våld. | 3\*2<br>6 | Rapporteringstid mellan personalbyten utifrån<br>framtagna mallar är framtaget av medarbetarna<br>på enheten för att kunna arbeta så likt som<br>möjligt. |
+| 2.4 | Att personalbyten inte behöver ske vid kvälls eller natt<br>rutiner eller mitt i aktivitet.<br>Det skapar risk för oro hos deltagarna och det<br>inskränker på möjligheten till längre aktiviteter utanför<br>enheten vilket kan innebära en brist i verksamhetens<br>uppdrag. | 3\*2<br>6 | Friskfaktor;<br>-Vid färre personalbyten minskar risken för oro,<br>hot och våld. Nu mera sker personalbytet på<br>dagen<br>Riskfaktor;<br>-Hot och våld, är minimerad efter ny tid för<br>personalbyte |
+| 2.5 | Det kan även medföra en större risk för händelser och<br>avvikelser i medicinhantering. | 4\*3<br>12 |  |
 
 [Tabell 130-2](handlingar.tabeller/130-2.csv)
 
@@ -6072,7 +6072,7 @@ MBL med anledning av behov att tillämpa avvikelse för
 arbetstidsförläggning inom bostad med särskild service (BmMSS)
 vid resor och annan utflyttad verksamhet.
 
-$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
+\$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
 arbetstidsförläggning enligt Allmänna Bestämmelser, AB, och
 Bilaga J, identifierat ett behov av att tillämpa avvikelse genom
 att schemalägga arbetspass på upp till 24 timmar inom bostad
@@ -6178,18 +6178,18 @@ Tänk på att medarbetare och skyddsombud och elevskyddsombud ska ges möjlighet
 riskbedömning och handlingsplan görs.
 
 Använd checklistan så här:
-1. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
+1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
 
-2. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
+2\. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
 friskfaktorer!
-3. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
+3\. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
 
-4. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
+4\. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
 och datum för när åtgärden ska vara genomförd.
 
 -Tips!
-- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
+\- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
 
 2/4
 2025-198
@@ -6237,7 +6237,7 @@ under och efter resan.
 |  | Identifiera riskkällor som ni tror uppstår efter genomförd förändring och bedöm om dessa kan leda till risker för ohälsa eller<br>olycksfall. Glöm inte att även lyfta friskfaktorer som förändringen kan medföra. Om en risk ska åtgärdas - klicka på<br>skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig och datum. Klicka på pilen längst till vänster för att<br>lägga till en ny rad. |  |  |
 | 2.1 | Friskfaktor- möjlighet att arbeta längre arbetspass vid<br>resor för att inte förlägga personalbyten under<br>dagen/under aktivitet/utflykt | 0 |  |
 | 2.2 | Friskfaktor- 24h arbetspass skapar förutsättning och<br>möjlighet för att möta brukarens rätt till ett självständigt<br>liv enligt LSS lagstiftningen. | 0 |  |
-| 2.3 | Riskfaktor- högre arbetsbelastning vid längre<br>arbetspass | 2*1<br>2 | Att som medarbetare följa med på resa bygger<br>på frivillighet för medarbetare.<br>AG säkerställer att veckovila planeras in före<br>och efter resan, samt att möjlighet till vila och<br>återhämtning finns under arbetspasset. |
+| 2.3 | Riskfaktor- högre arbetsbelastning vid längre<br>arbetspass | 2\*1<br>2 | Att som medarbetare följa med på resa bygger<br>på frivillighet för medarbetare.<br>AG säkerställer att veckovila planeras in före<br>och efter resan, samt att möjlighet till vila och<br>återhämtning finns under arbetspasset. |
 
 [Tabell 146-2](handlingar.tabeller/146-2.csv)
 
@@ -6272,24 +6272,24 @@ Skyddsombud: ...................................................................
 Uppgifter som ska lämnas i samband med begäran om dispens
 I samband med begäran om dispens ska arbetsgivaren besvara följande frågor.
 
-1. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
+1\. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
 vilken.
 Begäran avser avvikelse från Bilaga J.
 
-2. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
+2\. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
 dispens?
 Begäran avser bostad med särskild service (BmSS) inom Förvaltningen för Individ & Familjeomsorg i
 Kungsbacka kommun. Begäran avser att tillämpas för de medarbetare som medföljer brukare vid
 resor där ordinarie schemaläggning inte är möjligt.
 
-3. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
+3\. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
 många arbetstagare i dessa grupper skulle beröras?
 Beslutet kommer att beröra de medarbetare som följer med brukare vid resor och inte inom den
 
 ordinarie schemaläggningen.
 Berörda yrkesgrupper är stödbiträden, stödassistenter och stödpedagoger.
 
-4. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
+4\. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
 saknas specifik kompetens eller dylikt. Om så är fallet vilken/vilka kompetenser
 saknas och vilka konsekvenser får det?
 Vid planerade resor följer medarbetare med brukaren för att tillgodose de behov av stöd som den
@@ -6297,31 +6297,31 @@ enskilde individen har. Vid längre resor och/eller resor på långt avstånd ti
 
 möjlighet till att följa ordinarie schemaläggning enligt AB Bilaga J.
 
-5. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
+5\. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
 brukare, barn, civilsamhälle eller dylikt) som särskilt behöver beaktas när
 verksamheten bemannas.
 Att ha en personal medföljande på resor är en rättighet för brukaren och ett lagkrav som
 arbetsgivare har att följa.
 
-6. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
+6\. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
 
 deltidsarbete, frånvaro, svårigheter att rekrytera eller dylikt?
 Begäran avser tillämpning inom BmSS vid resor under en begränsad tidsperiod. Vid resor planeras i
 största möjliga mån frivilligt medföljande medarbetare i dialog med brukaren.
 
-7. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
+7\. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
 glesbygd med långa pendlingsavstånd eller dylikt?
 Det finns inte alltid möjlighet att följa ordinarie schema vid resor då det kan röra sig om stora
 geografiska områden inom Sverige samt till andra länder. Vid längre resor behöver antalet personal
 som arbetar minimeras för att möjliggöra resan för brukaren.
 
-8. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
+8\. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
 yrkesgrupp/yrkesgrupper. Bifoga statistik om sådan finns att tillgå.
 Vi arbetar enligt AB Bilaga J och det finns inga planerade insatser under jourtid.
 
 <!-- sida 149 -->
 
-9. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
+9\. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
 månaderna.
 Förväntad utveckling och belastning är oförändrad under kommande 12 månader.
 Arbetsmiljö och arbetssituation följs upp regelbundet, löpande och på varje arbetsplatsträff för att
@@ -6334,7 +6334,7 @@ levnadsvillkor.
 Det förekommer regelbundet resor inom BmSS där personal följer med. Varje resa planeras
 individuellt utifrån brukarens behov.
 
-10. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
+10\. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
 bilaga till AB ska kunna förläggas.
 Risk och konsekvensbedömning har gjorts för att;
 -identifiera brukarens behov
@@ -6346,7 +6346,7 @@ efter resan
 Arbetstidsförläggning med 24h arbetspass inom funktionshinderområdet är tillämpligt enligt AB
 Bilaga J.
 
-11. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
+11\. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
 sammantaget uppgår till 20 timmar, inte är tillräckligt för verksamheten. Beskriv
 
 också vilka konsekvenser en sådan schemaläggning skulle medföra för verksamheten.
@@ -6359,7 +6359,7 @@ dygns- och veckovila enligt AB Bilaga J samt för att säkerställa en god arbet
 följa med brukare på resa bygger på frivillighet för medarbetarna och det finns alltid en dialog mellan
 brukare, medarbetare och enhetschef inför och under planering av resan.
 
-12. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
+12\. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
 Tidsperioden för begärt beslut är 2025-07-01 till och med 2026-01-30, för att sedan ha samma
 tidsperiod som övriga beslut inom förvaltningen.
 
@@ -6482,10 +6482,10 @@ Sammanfattning av ärendet
 
 Nämnden för Individ och Familjeomsorg ska ge förslag åt kommunstyrelsen att
 besluta om utdelning ur Arvid och Hildur Anderssons fond.
-* Till vård av sjuka och invalidiserade personer
+\* Till vård av sjuka och invalidiserade personer
 
-* Från Släps församling
-* För behov som icke kan tillgodoses av allmänna medel eller andra bidrag
+\* Från Släps församling
+\* För behov som icke kan tillgodoses av allmänna medel eller andra bidrag
 
 I år har enbart två ansökningar inkommit för utdelning av medel 2024 per sista
 ansökningsdatum 30 oktober, dessvärre uppfyller ingen av dem villkoret att vara från
@@ -6551,7 +6551,7 @@ Arvid och Hildur Andersson donationsfond - 2024
 Nämnden för Individ och Familjeomsorgs förslag till Kommunstyrelsen
 
 Kommunstyrelsen beslutar att ingen utdelning ur Arvid och Hildur Anderssons donationsfond görs för
-2024.
+2024\.
 
 Sammanfattning av ärendet
 
@@ -6759,7 +6759,7 @@ säkerhetskyddsförordningen (2021:955) ska en organisation som bedriver
 säkerhetskänslig verksamhet ha en säkerhetsskyddschef. Uppgifter för
 
 säkerhetsskyddschef:
-- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten
+\- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten
 bedrivs enligt lagen och de föreskrifter som gäller.
 
 För att skapa redundans i händelse av att ordinarie Säkerhetsskyddschef inte kan
@@ -6804,7 +6804,7 @@ Sveriges säkerhet mot spioneri, sabotage, terroristbrott och vissa andra hot. S
 säkerhet eller som omfattas av ett för Sverige förpliktande internationellt åtagande om säkerhetsskydd.
 I enlighet med säkerhetskyddsförordningen (2021:955) ska en organisation som bedriver
 säkerhetskänslig verksamhet ha en säkerhetsskyddschef. Uppgifter för säkerhetsskyddschef:
-- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten bedrivs enligt lagen och
+\- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten bedrivs enligt lagen och
 
 de föreskrifter som gäller.
 För att skapa redundans i händelse av att ordinarie Säkerhetsskyddschef inte kan fullfölja sina
@@ -6858,7 +6858,7 @@ eller som omfattas av ett för Sverige förpliktande internationellt åtagande o
 säkerhetsskydd. I enlighet med säkerhetskyddsförordningen (2021:955) ska en
 organisation som bedriver säkerhetskänslig verksamhet ha en säkerhetsskyddschef.
 Uppgifter för säkerhetsskyddschef:
-- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten
+\- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten
 bedrivs enligt lagen och de föreskrifter som gäller.
 
 Beslutsunderlag
@@ -6902,7 +6902,7 @@ förpliktande internationellt åtagande om säkerhetsskydd. I enlighet med säke
 (2021:955) ska en organisation som bedriver säkerhetskänslig verksamhet ha en säkerhetsskyddschef.
 Uppgifter för säkerhetsskyddschef:
 
-- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten bedrivs enligt lagen och
+\- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten bedrivs enligt lagen och
 de föreskrifter som gäller.
 
 Beslutsunderlag
@@ -7117,9 +7117,9 @@ Bolagen enligt b och c ovan kallas gemensamt för Exploatören
 Kommunen och Exploatören kallas gemensamt Parterna
 
 ÅA. BAKGRUND OCH FÖRUTSÄTTNINGAR
-1. Uppdrag, politiska beslut m.m.
+1\. Uppdrag, politiska beslut m.m.
 
-1.1 - Byggnadsnämnden beslutade 2016-06-15 $ 179 att en detaljplan för
+1.1 - Byggnadsnämnden beslutade 2016-06-15 \$ 179 att en detaljplan för
 verksamhetsområde inom Varla 3:22 med tillägg av Varla 3:34 samt del av Varla
 
 2:198 ska upprättas.
@@ -7134,7 +7134,7 @@ verksamhetsområde inom Varla 3:22 med tillägg av Varla 3:34 samt del av Varla
 1.3 — Exploateringsavtal, Avtalet, ska upprättas innan Detaljplanen kan antas av
 Byggnadsnämnden.
 
-2. Exploateringsområde
+2\. Exploateringsområde
 
 2.1 — Det område som är föremål för genomförandet av Detaljplanen är ungefärligt markerat
 med blått på karta, bilaga A, Exploateringsområdet.
@@ -7329,11 +7329,11 @@ bestämmelser.
 
 <!-- sida 171 -->
 
-10.
+10\.
 
 10.1
 
-11.
+11\.
 
 11.1
 
@@ -7423,7 +7423,7 @@ mot Kommunen ska Kommunen samråda med Exploatören innan Kommunen medger
 eller avtalar om eventuell ersättning till tredje man. Exploatören ansvar inkluderar
 ansvar för skador som orsakas av entreprenör eller annan som Exploatören anlitar.
 
-12. — Besiktning och återställande
+12\. — Besiktning och återställande
 
 12.1 Före byggstart ska Exploatören kalla Kommunen, genom Teknik (gata, park, va och
 bredband) till förbesiktning i syfte att tillsammans med Kommunen göra en
@@ -7449,19 +7449,19 @@ Exploateringsområdet, som konstateras vid efterbesiktningen, ska skyndsamt åtg
 
 12.6
 
-13.
+13\.
 
 13.1
 
 13.2
 
-14.
+14\.
 
 14.1
 
 14.2
 
-7013)
+7013\)
 
 av Exploatören på dennes bekostnad i den mån skadan uppkommit till direkt följd av
 Exploatörens eller dennes entreprenörers verksamhet inom Planområdet.
@@ -7522,7 +7522,7 @@ IS.
 
 15.2
 
-16.
+16\.
 
 16.1
 
@@ -7588,24 +7588,24 @@ enligt gällande kommunala taxor. a
 
 16.4
 
-17.
+17\.
 
-18.
+18\.
 
 18.1
 
 18.2
 
-19.
+19\.
 
 19.1
 
 19.2
-20.
+20\.
 
 20.1
 
-913)
+913\)
 
 Betalning till Kommunen ska ske i takt med genomförandet. Exploatören ska beredas
 möjlighet att granska samtliga handlingar som ligger till grund för betalning av
@@ -7655,7 +7655,7 @@ fastigheten Varla 3:22.
 
 <!-- sida 176 -->
 
-10013)
+10013\)
 
 = — Flytt av tele-ledningar tillhörande Skanova som ligger inom kvartersmark inom
 fastigheten Varla 3:22.
@@ -7663,7 +7663,7 @@ fastigheten Varla 3:22.
 20.2 — Exploatören ansvarar för att samordning sker med berörda ledningshavare inför
 ledningsflytt.
 
-21. Geoteknik
+21\. Geoteknik
 
 21.1 - Exploatören ansvarar för och bekostar de tillkommande geotekniska utredningar och
 stabilitetsutredningar som krävs för byggnader och anläggningars grundläggning och
@@ -7674,7 +7674,7 @@ inom Exploateringsområdet.
 för och bekostar de åtgärder som krävs.
 
 [44 Startbesked får inte ges för ny-och tillbyggnation förrän bergsblock (markerat i
-rött), enligt PBL 4 kap, 14 $, 4 p, har säkrats och godkänts av sakkunnig
+rött), enligt PBL 4 kap, 14 \$, 4 p, har säkrats och godkänts av sakkunnig
 bergtekniker.
 
 21.3 Kommunen ansvarar för de tillkommande geotekniska utredningar och
@@ -7682,7 +7682,7 @@ stabilitetsutredningar som kan krävas för utbyggnad av allmän plats samt för
 av de åtgärder som erfordras. Kostnaden för utredningar och åtgärder läggs till
 kostnaden för iordningställande av allmän plats enligt punkt 16.
 
-22. Förorenad mark
+22\. Förorenad mark
 
 22.1 — Exploatören ansvarar för och bekostar eventuella kompletterande provtagningar och
 miljötekniska markmiljöundersökningar samt har kostnadsansvaret för sanering av
@@ -7695,7 +7695,7 @@ Kommunen för sanering samt anmälan till berörd tillsynsmyndighet. De merkostn
 som hanteringen av dessa föroreningar kan medföra läggs till kostnaden för
 iordningställande av allmän plats, enligt punkt 16.
 
-23. — Arkeologi
+23\. — Arkeologi
 
 23.1 Inom planområdets västra och nordöstra del finns kända fornlämningar och en
 arkeologisk förundersökning har genomförts. Under förundersökningen påträffades två
@@ -7709,7 +7709,7 @@ arkeologiskt förundersökta området tas i anspråk för avsett ändamål. a
 
 <!-- sida 177 -->
 
-11013)
+11013\)
 
 23.2 — Inga fler kända fornlämningar finns inom Exploateringsområdet. Om arkeologiskt fynd
 ändå påträffas i samband med utbyggnad av kvartersmarken ansvarar Exploatören för
@@ -7728,7 +7728,7 @@ iordningställande av allmän plats, enligt punkt 16.
 
 D. ÖVRIGA BESTÄMMELSER
 
-24. Säkerhet
+24\. Säkerhet
 
 24.1 — För det rätta fullgörandet av Exploatörens åtaganden enligt Avtalet ska Exploatören
 till förmån för Kommunen ställa en säkerhet till ett värde om 3 000 000 kronor i form
@@ -7749,7 +7749,7 @@ Exploatörens medgivande.
 kvarvarande belopp enligt Kommunens bedömande utgöra en betryggande säkerhet
 för Exploatörens återstående skyldigheter.
 
-25. — Risktagande
+25\. — Risktagande
 
 25.1 Om hinder, oavsett vilket, skulle uppstå mot att Detaljplanen kan antas samt vinner
 laga kraft ska vardera part svara för sina respektive nedlagda kostnader och således
@@ -7758,9 +7758,9 @@ Kommunen för nedlagda plankostnader, vilket regleras i ett separat plankostnads
 
 <!-- sida 178 -->
 
-12013)
+12013\)
 
-26. . Överlåtelse av avtal och fastigheter
+26\. . Överlåtelse av avtal och fastigheter
 
 26.1 Avtalet får inte utan Kommunens skriftliga medgivande överlåtas på annan.
 Exploatören ska i god tid innan avsedd överlåtelse begära sådant medgivande.
@@ -7772,7 +7772,7 @@ inte särskilda skäl föreligger emot ett sådant medgivande.
 26.2  Exploatören är skyldig att skriftligen meddela Kommunen vid eventuell överlåtelse av
 Fastigheten samt vem som förvärvar Fastigheten och den nya ägarens tillträdesdag.
 
-27. - Avtalets giltighet
+27\. - Avtalets giltighet
 27.1  Förutsättingar för Avtalets giltighet är att villkoren nedan är uppfyllda
 
 e Kommunstyrelsen i Kungsbacka kommun godkänner Avtalet, genom beslut som
@@ -7781,7 +7781,7 @@ vinner laga kraft.
 e Byggnadsnämnden i Kungsbacka kommun antar Detaljplanen, genom beslut som
 vinner laga kraft.
 
-28. Tvist
+28\. Tvist
 
 28.1 Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
 detta avtal ska avgöras av allmän domstol.
@@ -7877,12 +7877,12 @@ Motivering till beslutet
 
 Länsstyrelsen ska efter prövning upphäva kommunens beslut att
 anta, ändra eller upphäva en detaljplan om beslutet innebär att:
-1. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte tillgodoses,
-2. regleringen av sådana frågor om användningen av mark- och
+1\. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte tillgodoses,
+2\. regleringen av sådana frågor om användningen av mark- och
 
 vattenområden som angår flera kommuner inte samordnas på ett
 lämpligt sätt,
-3. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+3\. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
 
 Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
@@ -7893,9 +7893,9 @@ Länsstyrelsen H allands län          Beslut                    2 (4)
 
 2024-01-16       7483-2023
 
-4. strandskydd enligt 7 kap. miljöbalken upphävs i strid med
+4\. strandskydd enligt 7 kap. miljöbalken upphävs i strid med
 gällande bestämmelser, eller
-5. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt med
+5\. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt med
 
 hänsyn till människors hälsa eller säkerhet eller till risken för
 olyckor, översvämning eller erosion.
@@ -7982,9 +7982,9 @@ SGI – sgi@sgi.se
 Lantmäterimyndigheten – registrator@lm.se
 
 Bilagor
-1. Överklagandehänvisning regeringen
+1\. Överklagandehänvisning regeringen
 
-2. Yttrande från SGI: 7483-2023-8.1
+2\. Yttrande från SGI: 7483-2023-8.1
 
 <!-- sida 187 -->
 
@@ -8247,10 +8247,10 @@ Lars Klevensparr
 Förbundsdirektör
 
 Bifogade handlingar
--  Förbundsstyrelsens beslut 2025-03-12 § 31
--  Tjänsteutlåtande 2025-02-24 Underlag för budget 2026 och 2027-2028 för
+\-  Förbundsstyrelsens beslut 2025-03-12 § 31
+\-  Tjänsteutlåtande 2025-02-24 Underlag för budget 2026 och 2027-2028 för
 Räddningstjänstförbundet Storgöteborg
--  Budgetunderlag 2026 och plan 2027-2028
+\-  Budgetunderlag 2026 och plan 2027-2028
 
 <!-- sida 194 -->
 
@@ -8323,7 +8323,7 @@ Underlag för budget 2026 och plan 2027-2028 för
 
 Räddningstjänstförbundet Storgöteborg
 
-1.   Förslag till beslut
+1\.   Förslag till beslut
 •
 
 Förbundsstyrelsen godkänner Underlag till budget 2026 och
@@ -8336,7 +8336,7 @@ Förbundsstyrelsen överlämnar Underlag till budget 2026 och plan
 Förbundsstyrelsen överlämnar Underlag till budget 2026 och plan
 2027-2028 till Medlemssamrådet för information den 4 april 2025.
 
-2.   Sammanfattning   av ärendet
+2\.   Sammanfattning   av ärendet
 
 Handlingen utgör underlag för budget 2026 plan 2027-2028 och beskriver RSG:s
 verksamhet och ekonomi med hänsyn till förbundets uppdrag och förutsättningar samt
@@ -8358,10 +8358,10 @@ kommer därefter att sammanvägas i framtagandet av handlingen Förslag till Bud
 
 <!-- sida 197 -->
 
-3.   Ärendet
+3\.   Ärendet
 
 Budget 2026 och plan 2027-2028 utgår från att RSG uppnår en budget i balans för år
-2025. Förutsättningar för att så ska ske är ett pågående arbete med anpassningar där
+2025\. Förutsättningar för att så ska ske är ett pågående arbete med anpassningar där
 samtliga avdelningar gör en översyn inom en rad områden. Detta ska leda till åtgärder
 som får effekt på både kort och lång sikt. RSG har från och med 2025-02-01 en ny
 organisationsstruktur och förväntningarna är att den nya organiseringen ska leda till
@@ -8389,7 +8389,7 @@ Hänsyn har tagits i budget för att återställa eget kapital avseende undersko
 
 från tidigare år 2023 och 2024.
 
-4.   Samverkan
+4\.   Samverkan
 
 Information om budget lämnas i förbundsrådet efter sammanställning av inkomna
 beslut från medlemskommunerna, preliminärt den 28 augusti 2025.
@@ -8397,9 +8397,9 @@ beslut från medlemskommunerna, preliminärt den 28 augusti 2025.
 Lars Klevensparr           Marie Karlsson
 Förbundsdirektör           Handläggare
 
-5.   Bilagor
+5\.   Bilagor
 
-1. Budgetunderlag 2026 plan 2027-2028
+1\. Budgetunderlag 2026 plan 2027-2028
 
 2 (2)
 
@@ -8425,14 +8425,14 @@ Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
 Innehåll
 
-1. INLEDNING ................................................................................... 3
-2. BUDGETPROCESSEN ...................................................................... 3
+1\. INLEDNING ................................................................................... 3
+2\. BUDGETPROCESSEN ...................................................................... 3
 
-3. BUDGET 2026 OCH PLAN 2027-2028 ............................................. 4
+3\. BUDGET 2026 OCH PLAN 2027-2028 ............................................. 4
 
 3.1  Beslut om medlemsavgifter 2026 ........................................................ 5
 
-4. F ÖRUTSÄTTNINGAR FÖR VERKSAMHETEN .................................... 6
+4\. F ÖRUTSÄTTNINGAR FÖR VERKSAMHETEN .................................... 6
 4.1  Från brandkår till räddningstjänstmyndighet ...................................... 6
 
 4.2  Förbundsutökning ................................................................................ 6
@@ -8444,7 +8444,7 @@ Innehåll
 
 4.6  Omvärldsläget ...................................................................................... 8
 
-5. E KONOMI – EFFEKTIVISERINGAR OCH UTMANINGAR ................... 9
+5\. E KONOMI – EFFEKTIVISERINGAR OCH UTMANINGAR ................... 9
 5.1  Omorganisation 2025 ........................................................................... 9
 
 5.2  Anpassningar i ekonomin ................................................................... 10
@@ -8454,14 +8454,14 @@ Innehåll
 5.2  Lokalfrågor.......................................................................................... 10
 5.3  Investeringar ...................................................................................... 11
 
-6. R ESULTAT, EGET KAPITAL och PERSONAL ..................................... 12
+6\. R ESULTAT, EGET KAPITAL och PERSONAL ..................................... 12
 
 6.1  Resultat ............................................................................................... 13
 6.2  Eget kapital ......................................................................................... 13
 
 6.1  Personal - statistik och utveckling ...................................................... 14
 
-7. B ILAGOR ......................................................................................1 5
+7\. B ILAGOR ......................................................................................1 5
 
 7.1  Preliminär Resultatbudget 2026 och 2027-2028 ............................... 15
 7.2  Preliminär medlemsavgift per kommun 2026-2028 .......................... 16
@@ -8474,7 +8474,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             2(19)
 
 Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
-1. INLEDNING
+1\. INLEDNING
 
 Räddningstjänstförbundet Storgöteborg (RSG) är ett kommunalförbund med nio
 medlemskommuner; Göteborg, Mölndal, Kungsbacka, Härryda, Partille, Lerum,
@@ -8507,7 +8507,7 @@ för att kunna genomföra räddningsinsatser. I Handlingsprogrammet redovisas m�
 LSO-verksamheten
 Finansiering av räddningstjänstverksamheten sker genom medlemsavgifter och övriga
 intäkter.
-2. BUDGETPROCESSEN
+2\. BUDGETPROCESSEN
 underlag
 Sedan föregående år har RSG en ny budgetprocess där för budget
 verksamhetsår och planperiod, utarbetats under inledningen av året före den aktuella
@@ -8531,7 +8531,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             3(19)
 
 Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
-3. BUDGET 2026 OCH  PLAN 2027-2028
+3\. BUDGET 2026 OCH  PLAN 2027-2028
 
 Dokumentet beskriver framför allt verksamhetens grundläggande förutsättningar för
 att utföra sitt uppdrag samt faktorer med särskild ekonomisk påverkan. Till
@@ -8626,7 +8626,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             5(19)
 
 Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
-4. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
+4\. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
 
 4.1 Från brandkår till räddningstjänstmyndighet
 
@@ -8834,7 +8834,7 @@ uttrycksmedel för negativa känslor och psykiskt mående. RSG:s arbete inom ram
 förhindra och begränsa antalet anlagda bränder och olyckor i och runt skolor samt att
 öka elevernas kunskap om att agera på rätt sätt vid brand och att förebygga brand.
 
-5. EKONOMI  – EFFEKTIVISERINGAR OCH  UTMANINGAR
+5\. EKONOMI  – EFFEKTIVISERINGAR OCH  UTMANINGAR
 
 5.1 Omorganisation 2025
 
@@ -9000,7 +9000,7 @@ verksamhet. Budget är beslutad med möjlighet att vid behov utnyttja delar av R
 egna kapital. Investeringarna medför både kostnader för avskrivningar och vissa
 engångsutgifter som krävs för att genomföra projektet och dess investeringar.
 
-6. RESULTAT, EGET KAPITAL och PERSONAL
+6\. RESULTAT, EGET KAPITAL och PERSONAL
 
 Det under senare år, allmänt svårare ekonomiska läget med stigande priser,
 löneökningar som överstiger uppräkning av medlemsavgifterna och ökat tryck på
@@ -9098,7 +9098,7 @@ Personalstatistik
 Uppgifter per 31/12
 2024  2023   2022  2021   2020
 Arbetad tid
-Antal årsarbetare*         798    797   725    722   728
+Antal årsarbetare\*         798    797   725    722   728
 Antal anställda per december
 Totalt antal anställda (inkl timanställda) 802 804 737 733 739
 varav tillsvidareanställda 772    767   695    703   701
@@ -9128,7 +9128,7 @@ varav räddningsvärn        133    130   109    105   107
 varav förtroendevalda (styrelse, fullmäktige, revision) 93 93 62 59 84
 Totalt                     1244  1235   1056  1045   1075
 
-*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
+\*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
 t.ex. 100 % sysselsättningsgrad motsvarar 1,0 årsarbetare och 75 procent 0,75.
 Tabell 2 Personalstatistik
 
@@ -9138,7 +9138,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            14(19)
 
 Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
-7. BILAGOR
+7\. BILAGOR
 
 7.1 Preliminär Resultatbudget 2026 och 2027-2028
 
@@ -9183,7 +9183,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            17(19)
 
 | Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Medlemsavgift för pensionskostnader*<br>Göteborgs kommun<br>Mölndals kommun<br>Kungsbacka kommun<br>Partille kommun<br>Härryda kommun<br>Lerums kommun<br>Tjörns kommun<br>Stenungsunds kommun<br>Lilla Edets kommun<br>Summa<br>* 2025 enligt KPA Prognos 2024-08-20 och<br>2026-2027 enligt KPA Prognos 2024-12-09 inkl avsättning för SAP-R | 2025<br>75 200 000<br>7 047 000<br>10 412 000<br>3 962 000<br>4 803 000<br>5 095 000<br>2 209 000<br>5 586 000<br>2 548 000<br>116 862 000 | 2026<br>58 175 000<br>5 451 000<br>8 055 000<br>3 065 000<br>3 716 000<br>3 942 000<br>1 709 000<br>4 321 000<br>1 971 000<br>90 405 000 | 2027<br>64 340 000<br>6 029 000<br>8 909 000<br>3 389 000<br>4 109 000<br>4 359 000<br>1 890 000<br>4 779 000<br>2 180 000<br>99 984 000 | 2028<br>69 790 000<br>6 540 000<br>9 663 000<br>3 677 000<br>4 457 000<br>4 729 000<br>2 050 000<br>5 184 000<br>2 364 000<br>108 454 000 |
+| Medlemsavgift för pensionskostnader\*<br>Göteborgs kommun<br>Mölndals kommun<br>Kungsbacka kommun<br>Partille kommun<br>Härryda kommun<br>Lerums kommun<br>Tjörns kommun<br>Stenungsunds kommun<br>Lilla Edets kommun<br>Summa<br>\* 2025 enligt KPA Prognos 2024-08-20 och<br>2026-2027 enligt KPA Prognos 2024-12-09 inkl avsättning för SAP-R | 2025<br>75 200 000<br>7 047 000<br>10 412 000<br>3 962 000<br>4 803 000<br>5 095 000<br>2 209 000<br>5 586 000<br>2 548 000<br>116 862 000 | 2026<br>58 175 000<br>5 451 000<br>8 055 000<br>3 065 000<br>3 716 000<br>3 942 000<br>1 709 000<br>4 321 000<br>1 971 000<br>90 405 000 | 2027<br>64 340 000<br>6 029 000<br>8 909 000<br>3 389 000<br>4 109 000<br>4 359 000<br>1 890 000<br>4 779 000<br>2 180 000<br>99 984 000 | 2028<br>69 790 000<br>6 540 000<br>9 663 000<br>3 677 000<br>4 457 000<br>4 729 000<br>2 050 000<br>5 184 000<br>2 364 000<br>108 454 000 |
 | Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader<br>Göteborgs kommun<br>Mölndals kommun<br>Kungsbacka kommun<br>Partille kommun<br>Härryda kommun<br>Lerums kommun<br>Tjörns kommun<br>Stenungsunds kommun<br>Lilla Edets kommun | 2025<br>484 027 917<br>45 323 707<br>67 044 244<br>25 503 601<br>30 918 808<br>32 774 604<br>17 618 266<br>44 594 186<br>20 356 990 | 2026<br>480 085 410<br>44 952 562<br>66 499 476<br>25 295 932<br>30 667 514<br>32 507 351<br>17 611 363<br>44 577 448<br>20 349 878 | 2027<br>499 751 543<br>46 794 612<br>69 223 699<br>26 331 322<br>31 922 962<br>33 838 443<br>18 301 238<br>46 323 654<br>21 147 002 | 2028<br>519 134 713<br>48 610 111<br>71 907 769<br>27 353 476<br>33 161 009<br>35 151 785<br>18 048 791<br>45 687 290<br>20 856 801 |
 | Summa | 768 162 323 | 762 546 933 | 793 634 475 | 819 911 745 |
 
@@ -9237,21 +9237,21 @@ och säkert sätt krävs en bred uppsättning åtgärder som kompletterar varand
 täcker många olika områden. Enligt AI-kommissionen är följande nödvändiga
 beståndsdelar i ett svenskt AI-ekosystem:
 
-1. Elektricitet: Tillgång till stabil och effektiv energi för att driva AI-systemen.
-2. Telekom: Utvecklad telekommunikationsinfrastruktur för att möjliggöra snabb och
+1\. Elektricitet: Tillgång till stabil och effektiv energi för att driva AI-systemen.
+2\. Telekom: Utvecklad telekommunikationsinfrastruktur för att möjliggöra snabb och
 säker dataöverföring.
 
-3. Beräkningskraft: Tillgång till avancerad beräkningskapacitet för att hantera
+3\. Beräkningskraft: Tillgång till avancerad beräkningskapacitet för att hantera
 komplexa AI-beräkningar.
 
-4. Data: Tillgång till relevanta och högkvalitativa data för att träna och utveckla AI-
+4\. Data: Tillgång till relevanta och högkvalitativa data för att träna och utveckla AI-
 modeller.
-5. Säkerhet: Effektiva säkerhetsåtgärder för att skydda AI-systemen och data mot
+5\. Säkerhet: Effektiva säkerhetsåtgärder för att skydda AI-systemen och data mot
 cyberhot och andra säkerhetsrisker.
 
-6. Spetsforskning: Kontinuerlig forskning och utveckling inom AI-området för att
+6\. Spetsforskning: Kontinuerlig forskning och utveckling inom AI-området för att
 hålla Sverige i framkant.
-7. Tillgång till utländska AI-resurser: Möjlighet att samarbeta med och ta del av
+7\. Tillgång till utländska AI-resurser: Möjlighet att samarbeta med och ta del av
 
 internationella AI-resurser och expertis.
 
@@ -9266,13 +9266,13 @@ Kommunstyrelsens arbetsutskott
 Datum
 2025-05-13
 
-8. AI-kompetens för alla: Utbildning och kompetensutveckling inom AI för att
+8\. AI-kompetens för alla: Utbildning och kompetensutveckling inom AI för att
 säkerställa att alla medarbetare har den kunskap som behövs för att arbeta effektivt
 med AI.
-9. Innovation och riskkapital: Tillgång till riskkapital och innovationsstöd för att
+9\. Innovation och riskkapital: Tillgång till riskkapital och innovationsstöd för att
 främja utveckling och implementering av AI-baserade lösningar.
 
-10. Ledarskap: Effektivt ledarskap och styrning för att säkerställa att AI-utvecklingen
+10\. Ledarskap: Effektivt ledarskap och styrning för att säkerställa att AI-utvecklingen
 är strategiskt inriktad och samordnad.
 
 Genom att säkerställa att dessa beståndsdelar finns på plats kan Sverige skapa ett väl
@@ -9335,14 +9335,14 @@ utvecklas och implementeras på ett framgångsrikt och säkert sätt krävs en b
 som kompletterar varandra och täcker många olika områden. Enligt AI-kommissionen är följande
 
 nödvändiga beståndsdelar i ett svenskt AI-ekosystem:
-1. Elektricitet: Tillgång till stabil och effektiv energi för att driva AI-systemen.
+1\. Elektricitet: Tillgång till stabil och effektiv energi för att driva AI-systemen.
 
-2. Telekom: Utvecklad telekommunikationsinfrastruktur för att möjliggöra snabb och säker
+2\. Telekom: Utvecklad telekommunikationsinfrastruktur för att möjliggöra snabb och säker
 dataöverföring.
-3. Beräkningskraft: Tillgång till avancerad beräkningskapacitet för att hantera komplexa AI-
+3\. Beräkningskraft: Tillgång till avancerad beräkningskapacitet för att hantera komplexa AI-
 beräkningar.
 
-4. Data: Tillgång till relevanta och högkvalitativa data för att träna och utveckla AI-modeller.
+4\. Data: Tillgång till relevanta och högkvalitativa data för att träna och utveckla AI-modeller.
 
 1 (6)
 Kungsbacka kommun                                         Kungsbacka kommun
@@ -9358,21 +9358,21 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (6)
 
-5. Säkerhet: Effektiva säkerhetsåtgärder för att skydda AI-systemen och data mot cyberhot och
+5\. Säkerhet: Effektiva säkerhetsåtgärder för att skydda AI-systemen och data mot cyberhot och
 
 andra säkerhetsrisker.
-6. Spetsforskning: Kontinuerlig forskning och utveckling inom AI-området för att hålla Sverige i
+6\. Spetsforskning: Kontinuerlig forskning och utveckling inom AI-området för att hålla Sverige i
 framkant.
 
-7. Tillgång till utländska AI-resurser: Möjlighet att samarbeta med och ta del av internationella
+7\. Tillgång till utländska AI-resurser: Möjlighet att samarbeta med och ta del av internationella
 AI-resurser och expertis.
-8. AI-kompetens för alla: Utbildning och kompetensutveckling inom AI för att säkerställa att alla
+8\. AI-kompetens för alla: Utbildning och kompetensutveckling inom AI för att säkerställa att alla
 medarbetare har den kunskap som behövs för att arbeta effektivt med AI.
 
-9. Innovation och riskkapital: Tillgång till riskkapital och innovationsstöd för att främja
+9\. Innovation och riskkapital: Tillgång till riskkapital och innovationsstöd för att främja
 utveckling och implementering av AI-baserade lösningar.
 
-10. Ledarskap: Effektivt ledarskap och styrning för att säkerställa att AI-utvecklingen är strategiskt
+10\. Ledarskap: Effektivt ledarskap och styrning för att säkerställa att AI-utvecklingen är strategiskt
 inriktad och samordnad.
 Genom att säkerställa att dessa beståndsdelar finns på plats kan Sverige skapa ett väl fungerande AI-
 ekosystem som möjliggör en framgångsrik och säker AI-utveckling.
@@ -9438,7 +9438,7 @@ Förslagens innebörd
 Förslagen i färdplanen är omfattande och spänner över flera sektorer. För Kungsbacka kommun är
 följande områden särskilt relevanta:
 
-1.   AI kräver samordnat arbete med data
+1\.   AI kräver samordnat arbete med data
 Kommunstyrelsens förvaltning delar AI-kommissionens bedömning att data är ett avgörande område
 där Sverige behöver komma i kapp för att skapa en stabil grund för utveckling och användning av AI.
 Det krävs en snabbare omställning inom offentlig sektor för att säkra datakvalitet och etablera
@@ -9462,7 +9462,7 @@ arbetar nationellt med data som strategisk resurs, såsom Nationell dataverkstad
 Transition Lab, som båda drivs av Internetstiftelsen. De föreslagna åtgärderna är angelägna och bör
 genomföras så snart som möjligt.
 
-2.   Delning av känslig information måste ske med stor försiktighet
+2\.   Delning av känslig information måste ske med stor försiktighet
 Kommunstyrelsens förvaltning instämmer i AI-kommissionens slutsats att ökad tillgång till data är
 viktig för att främja AI-utveckling. Samtidigt instämmer kommunstyrelsens förvaltning inte iförslaget
 om att ändra logiken i offentlighets- och sekretesslagen (OSL) i syfte att delning av sekretessbelagd
@@ -9480,7 +9480,7 @@ förvaltning anser att eventuella undantag från sekretess bör göras mycket re
 finns tydligt definierade och berättigade syften. Om tilliten till sekretessen urholkas riskerar det att få
 långtgående negativa konsekvenser.
 
-3.   Tydligare lagstiftning krävs för rättssäker AI-användning
+3\.   Tydligare lagstiftning krävs för rättssäker AI-användning
 Kommunstyrelsens förvaltning anser att flera rättsliga oklarheter behöver redas ut för att användningen
 av AI inom offentlig sektor inte ska hämmas. Det gäller särskilt tolkningen av vad som utgör teknisk
 bearbetning eller lagring – en fråga som påverkar de rättsliga förutsättningarna för användning av AI
@@ -9505,7 +9505,7 @@ därför en rättslig modernisering.
 KUNGSBACKA  KOMMUN
 5 (6)
 
-4.   AI-verkstaden kan spela en avgörande roll för framtidens digitala välfärd
+4\.   AI-verkstaden kan spela en avgörande roll för framtidens digitala välfärd
 Kommunstyrelsens förvaltning ser positivt på förslaget om att etablera en nationell AI-verkstad, men
 understryker att det är viktigt att klargöra hur kommuner förväntas agera under tiden den byggs upp.
 För många kommuner är det inte ett realistiskt alternativ att vänta – samtidigt som det är både
@@ -10652,19 +10652,19 @@ Lekmannarevision     2024
 
 Innehållsförteckning
 
-1.  Granskningsinriktning ............................................................................................... 2
+1\.  Granskningsinriktning ............................................................................................... 2
 1.1. Bakgrund ................................................................................................................. 2
 1.2. Syfte ........................................................................................................................ 2
 1.3. Avgränsning ............................................................................................................ 2
 1.4. Revisionskriterier ..................................................................................................... 2
 1.5. Metod ...................................................................................................................... 2
 
-2.  Granskningsresultat 2023 .......................................................................................... 3
+2\.  Granskningsresultat 2023 .......................................................................................... 3
 2.2. Styrning, uppföljning och ägardialog ........................................................................ 3
 2.3. Riskanalys och intern kontroll .................................................................................. 5
 2.4. Årets resultat ........................................................................................................... 6
 
-3.  Sammanfattande bedömning och rekommendationer ............................................ 7
+3\.  Sammanfattande bedömning och rekommendationer ............................................ 7
 
 Bilagor:
 Bilaga 1: Revisionskriterier
@@ -10675,7 +10675,7 @@ Bilaga 2: Källförteckning
 
 <!-- sida 280 -->
 
-1. Granskningsinriktning
+1\. Granskningsinriktning
 
 1.1. Bakgrund
 Lekmannarevisionens uppdrag regleras i aktiebolagslagens kap 10. Av 3 § framgår att
@@ -10719,7 +10719,7 @@ av bilaga 2. Samtliga intervjuade har getts tillfälle att sakfelsgranska rappor
 
 <!-- sida 281 -->
 
-2. Granskningsresultat 2024
+2\. Granskningsresultat 2024
 
 2.1.1. Väsentliga händelser under året
 
@@ -10762,7 +10762,7 @@ Visionen för Eksta lyder: ”Eksta framtidens boende – i framkant för ett mi
 
 Kungsbacka”.
 Mål och affärsidé, vilken revideras årligen, behandlades och antogs av styrelsen i september
-2024. Dokumentet innehåller utdrag ur bolagsordning och ägardirektiv. Vidare innehåller
+2024\. Dokumentet innehåller utdrag ur bolagsordning och ägardirektiv. Vidare innehåller
 dokumentet målsättningar som tillsammans utgör affärsidén. Målen, liksom tidigare år, avser
 att:
 
@@ -10895,7 +10895,7 @@ uppnår soliditets- och direktavkastningskravet i ägardirektivet.
 
 <!-- sida 285 -->
 
-3. Sammanfattande  bedömning  och rekommendationer
+3\. Sammanfattande  bedömning  och rekommendationer
 
 Vår sammanfattande bedömning är att bolagens verksamhet sköts på ändamålsenligt sätt.
 Vidare är vår bedömning att verksamheten i stort sköts på ett från ekonomisk synpunkt
@@ -11170,7 +11170,7 @@ mkr
 (85,8 mkr)
 Energianvändningen i vårt bestånd är
 lågt. Dock inte lika lågt som rekordåret
-2022. Normalsårskorrigerad A-tempsyta
+2022\. Normalsårskorrigerad A-tempsyta
 (82 kWh/m2).                Bostadshyrorna
 höjdes med i snitt
 4,95 %
@@ -11310,7 +11310,7 @@ Under året har vi fördjupat oss i de hållbarhetsfrågor som
 Kommande hållbarhetsrapportering är mest väsentliga för både oss och våra intressenter. Med
 Vi är väl medvetna om att hållbarhetsredovisningen för- denna grund kommer vi att fortsätta fokusera på frågor som
 ändras i och med den nya EU-lagen CSRD som börjar gälla vi kan påverka mest, särskilt inom områdena kundnöjdhet,
-2024. Trots att vi ännu inte vet när vi kommer att omfattas medarbetare och klimatpåverkan. Vår uppdaterade vä-
+2024\. Trots att vi ännu inte vet när vi kommer att omfattas medarbetare och klimatpåverkan. Vår uppdaterade vä-
 av de nya rapporteringskraven har vi redan börjat förbereda sentlighetsanalys kommer att vara ett viktigt verktyg i detta
 oss genom att höja vår interna kompetens och anpassa våra arbete och säkerställa att vi håller fokus på rätt områden.
 processer. Under året har vi fortsatt och avslutat utbildning-
@@ -11462,7 +11462,7 @@ containrar för skräp, jord till trädgårdarna med mera. Vi bjöd
 som berättade hur de arbetar för att motverka ofrivillig
 ensamhet och vad de erbjuder för aktiviteter för seniorer i
 kommunen. Vi erbjöd även gratis ansiktsmålning för barnen
-- vilket var mycket uppskattat! Våra hyresgäster blir glada
+\- vilket var mycket uppskattat! Våra hyresgäster blir glada
 av vår närvaro och det gläder oss när de frågar om när det
 är dags att komma ut till just deras område igen.
 
@@ -11704,7 +11704,7 @@ och stärka den.
 
 <
 
-- At
+\- At
 
 Pra introduktion [.
 ger bra förutsättningar. EmIl började hos oss
@@ -12042,7 +12042,7 @@ Ekstaprojektet
 Vi har under året fortsatt vårt samarbete med Aranäsgym-
 nasiet och numer även Lindälvsgymnasiets linje Teknik
 
-- årskurs ett. Linjen är certifierad som Teknikcollege där en
+\- årskurs ett. Linjen är certifierad som Teknikcollege där en
 stor del syftar till att ha nära samarbete med näringslivet.
 Samarbetet har pågått i 17 år. Syftet är att eleverna ska få
 ett verkligt projekt att jobba med och att vi samtidigt får
@@ -12280,10 +12280,10 @@ med nya ytskick och kök har gjorts på nio lägen-
 så som exempelvis tillgänglighet, bullerskydd,
 heter.
 brandlarm och sprinkler. Något som kräver fo-
-- Huvudbyggnaden hade tidigare bland annat
+\- Huvudbyggnaden hade tidigare bland annat
 kus och ett bra samarbete för att lyckas med.
 lokaler för hemtjänsten vilka nu byggts om till
-- Vi har haft ett bra samarbete med alla
+\- Vi har haft ett bra samarbete med alla
 tre nya lägenheter med tillhörande gemensamt
 berörda under hela projektet både ifrån kom-
 samvarorum och kök för boende. I källaren har vi
@@ -12306,7 +12306,7 @@ tvättmaskin och torktumlare finns också i lägen-
 Vi hoppas att våra hyresgäs-
 heterna.
 ter ska trivas bra i sina nya
-- Det är väldigt trevliga lägenheter som varie-
+\- Det är väldigt trevliga lägenheter som varie-
 lägenheter och gemen-
 rar lite i storlek och planlösning. Det är alltid en
 samhetsutrymmen!
@@ -12444,7 +12444,7 @@ ber monterades ned, karmar och lister togs ner och
 spikar drogs ur. Möbler och inredning bars ut, allt
 från wc stolar och handfat till förvaringsskåp.
 
-- Det finns mycket att ta till vara på. Vi själva tar
+\- Det finns mycket att ta till vara på. Vi själva tar
 
 till vara på sådant som vi kan återanvända i andra
 fastigheter, vitvaror, radiatorer, möbler med mera.
@@ -12464,7 +12464,7 @@ med överblivet material som försvinner i samband
 med rivningsarbetet. När rivningen är utförd finns
 det nya planer för marken.
 
-- Tomter kommer att styckas av och säljas. På övrig
+\- Tomter kommer att styckas av och säljas. På övrig
 mark kommer ett antal hyresrätter i parhus/radhus
 att byggas enligt vårt energikoncept, säger Christer
 Kilersjö, vd.
@@ -12532,7 +12532,7 @@ tillsämmans med omhådesänsvarig
 
 slastighetsskötare rondéetar,
 
-- sa
+\- sa
 
 Transaktion 09222115557540214944
 
@@ -12719,7 +12719,7 @@ Pågående forsknings och utvecklingsprojekt
 ENFLATE ENabling FLexibility provision by all Actors and
 sectors through markets and digital TEchnologies). Det EU
 finansierade projektet ENFLATE har pågått sedan oktober
-2022. Syftet med projektet är minska EU:s behov av fossila
+2022\. Syftet med projektet är minska EU:s behov av fossila
 bränslen. Tillsammans med IVL Svenska Miljöinstitutet och
 NODA driver vi den svenska demositen på Humlevägen i
 Fjärås. Under året har vi installerat en elpanna som styrs av
@@ -12932,7 +12932,7 @@ En utmaning har varit att veta när de skall tömmas. För tre
 veckor sedan installerades de första sensorerna i tre olika
 områden. Ett pilotprojekt tillsammans med Kungsbacka
 kommun.
-- Vi har monterat sensorer på insidan som mäter hur fulla
+\- Vi har monterat sensorer på insidan som mäter hur fulla
 behållarna är. Nu ska de sitta uppe i tre månader och efter
 det görs en utvärdering. Vi får då ett förslag på schema
 utifrån mängden som slängs och en uppfattning om hur
@@ -12941,7 +12941,7 @@ ander Beglert som är fastighetsskötare i centrum.
 Syftet med att sätta upp sensorer är att spara in på antal
 transporter och få en uppfattning om hur snabbt kärlen
 blir fulla.
-- Detta skapar möjlighet för en bättre avfallshantering. I
+\- Detta skapar möjlighet för en bättre avfallshantering. I
 en förlängning kan det bli att vi drar ner på transporterna,
 kostnaderna och miljöpåverkan i stort, säger Jonathan
 Hagrenius, förvaltningschef på Eksta.
@@ -13369,7 +13369,7 @@ i verksamheten och i våra fastigheter Årets resultat uppgår
 till 63,0 mkr (85,8 mkr) före bokslutsdispositioner och skatt.
 Intäkter från den löpande verksamheten uppgår till 483,6
 mkr (458,9 mkn), vilket ger en ökning på 5,4 2 jämfört med
-2023.
+2023\.
 
 Intäkter
 
@@ -13844,7 +13844,7 @@ Materiella anläggningstillgångar 4 384 393 4 363 632 4 324 950 4 225 045 4 020
 Finansiella anläggningstillgångar 126 026 116 143 116 111 119 565 116 182
 Omsättningstillgångar 124 935 156 277 175 314 226 139 298 516
 Eget kapital          857 163 809 822 738 802 675 480 617 221
-Obeskattade reserver * 10 108 8 284 6 927 8 908  8 152
+Obeskattade reserver \* 10 108 8 284 6 927 8 908  8 152
 Avsättningar          87 050 83 466 74 012 68 277 62 473
 Låneskuld            3 591 957 3 598 802 3 672 712 3 700 222 3 614 459
 Rörelseskulder        89 076 135 679 123 922 117 863 132 637
@@ -14153,7 +14153,7 @@ har gjorts med ledning av extern värdering.
 Elinstallationer, ventilation, hissar 40 år
 Intäktsredovisning               Lokalanpassningar          10 år
 Hyror och försäljning
-Intäkterna redovisas till nominellt värde. Övrigt*         100 år
+Intäkterna redovisas till nominellt värde. Övrigt\*         100 år
 Byggnadsinventarier       20 år
 Tjänste- och entreprenaduppdrag
 Företaget vinstavräknar utförda uppdrag till fast pris när Markanläggningar 50 år
@@ -14173,7 +14173,7 @@ tar betydande tid att färdigställa (exempelvis byggnader) Undercentraler 40 å
 räknas låneutgifterna (räntorna) in i anskaffningsvärdet.
 Inventarier                5 år
 Leasing
-*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
+\*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
 Företaget redovisar leasingavtal som en kostnad linjärt över
 leasingperioden.                Bolaget har i ägardirektiv begränsningar i sin rätt att avyttra
 fastigheter till ett värde över 10 mkr.
@@ -15561,7 +15561,7 @@ Styrelsen och Verkställande direktören för Tempo- Verksamheten
 hus Kungsbacka AB, 559151–1349, avger följande Intäkterna från den löpande verksamheten uppgår till
 berättelse för bolagets verksamhet 2024-01-01-2024- 7,9 miljoner (8,4 miljoner). Intäktsminskningen beror
 12-31. Bolaget är helägt av Eksta Bostads AB 556497– på lägre förbrukning av individuell mätning samt ing-
-8293. Tempohus Kungsbacka AB hänvisar till Eksta en försäkringsersättning under 2024. Årets resultat
+8293\. Tempohus Kungsbacka AB hänvisar till Eksta en försäkringsersättning under 2024. Årets resultat
 Bostads AB:s hållbarhetsrapport för 2024. Rapporten uppgår till 121 tkr (250 tkr). Det lägre resultatet 2024
 går att ladda ner och läsa på www.eksta.se. beror främst på omställningen av lägenheter för per-
 manent bygglov och upprustning för uthyrning via
@@ -17380,7 +17380,7 @@ gårdsförsäljningstillstånd av alkoholdrycker bör vara samma som tid för pr
 stadigvarande serveringstillstånd för provsmakning vid tillverkningsstället. Förvaltningens förslag är
 att avgiften sätts att motsvara nio timmars arbete. Bygg- och miljöförvaltningen föreslår också att
 avgiften för prövning av ansökan om gårdsförsäljning av alkoholdrycker ska följa taxans bestämmelse
-5. Om Indexjustering av avgiftsbelopp. Vid nämnden för Miljö & Hälsoskydds sammanträde ställdes
+5\. Om Indexjustering av avgiftsbelopp. Vid nämnden för Miljö & Hälsoskydds sammanträde ställdes
 
 flera yrkanden om lägre debitering framför allt för verksamheter som redan har stadigvarande
 serveringstillstånd. Nämnden för Miljö & Hälsoskydd beslutade att föreslå att avgiften för
@@ -17749,7 +17749,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 407 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 1.1 Denna taxa gäller avgifter enligt
 •  Alkohollag (2010:1622) 8 kap. 10 §
@@ -17782,14 +17782,14 @@ Om det finns särskilda skäl får avgiften sättas ned eller helt efterges av n
 
 för Miljö & Hälsoskydd.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Enligt 2 kap. 5 och 6 § i kommunallagen (2017:725) får kommuner ta ut avgifter
 för tjänster och nyttigheter som de tillhandahåller. Kommuner får inte ta ut högre
 avgifter än kostnaden för de tjänster eller nyttigheter som kommunen
 tillhandahåller (självkostnaden). Timavgiften har beräknats utifrån SKR:s
 vägledning och är samma timavgift som fastställs för livsmedelstillsynen.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Avgifterna i denna taxa gäller myndighetsutövning och omfattas därmed inte av
 mervärdesskatt.
 
@@ -17797,7 +17797,7 @@ Taxa för prövni ng och tillsyn Sida 2 av 6
 
 <!-- sida 408 -->
 
-4. Avgiftsbelopp/taxetabeller
+4\. Avgiftsbelopp/taxetabeller
 4.1 Prövningsavgifter serveringstillstånd enligt alkohollagen
 Tabell 1
 
@@ -17938,7 +17938,7 @@ debiteras fast tillsynsavgift inklusive eventuella påminnelseavgifter samt
 maximalt belopp för den rörliga delen i tillsynsavgiften.
 Tabell 5
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Timavgiften i denna taxa är bestämd med utgångspunkt från kostnadsläge och
 Prisindex för kommunal verksamhet (PKV) oktober månad året före det år taxan
 börjar gälla.
@@ -17948,7 +17948,7 @@ besluta att justera timavgiften med den procentsats för PKV som är publicerad 
 Sveriges Kommuner och Regioners webbplats för oktober månad året före
 avgiftsåret.
 
-6. Övergångsbestämmelser
+6\. Övergångsbestämmelser
 
 Denna taxa börjar gälla den 1 juli 2025. Ärenden inkomna före den 1 juli 2025
 debiteras enligt tidigare gällande taxa antagen av kommunfullmäktige den 14 juni
@@ -17989,7 +17989,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 413 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 1.1 Denna taxa gäller avgifter enligt
 •  Alkohollag (2010:1622) 8 kap. 10 §
@@ -18022,14 +18022,14 @@ Om det finns särskilda skäl får avgiften sättas ned eller helt efterges av n
 
 för Miljö & Hälsoskydd.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Enligt 2 kap. 5 och 6 § i kommunallagen (2017:725) får kommuner ta ut avgifter
 för tjänster och nyttigheter som de tillhandahåller. Kommuner får inte ta ut högre
 avgifter än kostnaden för de tjänster eller nyttigheter som kommunen
 tillhandahåller (självkostnaden). Timavgiften har beräknats utifrån SKR:s
 vägledning och är samma timavgift som fastställs för livsmedelstillsynen.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Avgifterna i denna taxa gäller myndighetsutövning och omfattas därmed inte av
 mervärdesskatt.
 
@@ -18037,7 +18037,7 @@ Taxa för prövni ng och tillsyn Sida 2 av 6
 
 <!-- sida 414 -->
 
-4. Avgiftsbelopp/taxetabeller
+4\. Avgiftsbelopp/taxetabeller
 4.1 Prövningsavgifter serveringstillstånd enligt alkohollagen
 Tabell 1
 
@@ -18178,7 +18178,7 @@ debiteras fast tillsynsavgift inklusive eventuella påminnelseavgifter samt
 maximalt belopp för den rörliga delen i tillsynsavgiften.
 Tabell 5
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Timavgiften i denna taxa är bestämd med utgångspunkt från kostnadsläge och
 Prisindex för kommunal verksamhet (PKV) oktober månad året före det år taxan
 börjar gälla.
@@ -18189,7 +18189,7 @@ Sveriges Kommuner och Regioners webbplats för oktober månad året före
 avgiftsåret. Nu gällande timavgift är beräknad med basår 2022 och därefter
 indexjusterad.
 
-6. Övergångsbestämmelser
+6\. Övergångsbestämmelser
 Denna taxa börjar gälla den 1 juli 2025. Ärenden inkomna före den 1 juli 2025
 debiteras enligt tidigare gällande taxa antagen av kommunfullmäktige den 14 juni
 2023 § 76.
@@ -18218,7 +18218,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 419 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 1.1 Denna taxa gäller avgifter enligt
 •  Alkohollag (2010:1622) 8 kap. 10 §
@@ -18246,14 +18246,14 @@ Sådan avgift tas ut för varje påbörjad halvtimme nedlagd handläggningstid.
 Om det finns särskilda skäl får avgiften sättas ned eller helt efterges av nämnden för Miljö &
 Hälsoskydd.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Enligt 2 kap. 5 och 6 § i kommunallagen (2017:725) får kommuner ta ut avgifter för tjänster och
 nyttigheter som de tillhandahåller. Kommuner får inte ta ut högre avgifter än kostnaden för de
 tjänster eller nyttigheter som kommunen tillhandahåller (självkostnaden). Timavgiften har beräknats
 utifrån SKR:s vägledning och är samma timavgift som fastställs för livsmedelstillsynen.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Avgifterna i denna taxa gäller myndighetsutövning och omfattas därmed inte av mervärdesskatt.
 
@@ -18261,7 +18261,7 @@ Taxa för prövni ng och tillsyn Sida 2 av 6
 
 <!-- sida 420 -->
 
-4. Avgiftsbelopp/taxetabeller
+4\. Avgiftsbelopp/taxetabeller
 4.1 Prövningsavgifter serveringstillstånd enligt alkohollagen
 
 Tabell 1
@@ -18393,7 +18393,7 @@ Taxa för prövni ng och tillsyn Sida 5 av 6
 
 Tabell 5
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 
 Timavgiften i denna taxa är bestämd med utgångspunkt från kostnadsläge och Prisindex för
 kommunal verksamhet (PKV) oktober månad året före det år taxan börjar gälla.
@@ -18401,11 +18401,11 @@ Nämnden för Miljö & Hälsoskydd får för varje kalenderår (avgiftsår) där
 timavgiften med den procentsats för PKV som är publicerad på Sveriges Kommuner och Regioners
 
 webbplats för oktober månad året före avgiftsåret.
-7. Övergångsbestämmelser
+7\. Övergångsbestämmelser
 
 Denna taxa börjar gälla 1 juli 2023. Ärenden inkomna före 1 juli 2023 debiteras enligt tidigare
 gällande taxor. Antagna 2018-12-13, KF §§ 258–259 jämte komplettering, antagen 2019-10-08, §
-141.
+141\.
 
 Beslutad av: Kommunfullmäktige 14 juni 2023 § 76, Dnr KS 2023-00205
 
@@ -19410,7 +19410,7 @@ Samtliga nämnder och bolag, Länsstyrelsen i Hallands län, Polismyndigheten i 
 
 Beskrivning av ärendet
 
-1. Lustgas och dess användningsområden
+1\. Lustgas och dess användningsområden
 Lustgas (N O) är en färglös gas med en sötaktig lukt. Inom vården används lustgas för smärtlindring
 2
 och som narkosmedel. När lustgas används som ett läkemedel omfattas den av krav i läkemedelslagen
@@ -19430,7 +19430,7 @@ Andra användningsområden för lustgas är inom elektronikområdet vid tillverk
 halvledare och LCD-skärmar. Lustgas används också inom förpackningsindustrin som en
 förpackningsgas.
 
-2. Användning av lustgas som berusningsmedel och dess risker
+2\. Användning av lustgas som berusningsmedel och dess risker
 Namnet lustgas syftar på gasens effekt att framkalla eufori. Lustgas orsakar vid inandning ett kort och
 intensivt rus, med lyckorus och fnissighet som följd samt en känsla av att vara avskärmad från
 verkligheten. Ruset kulminerar inom någon minut efter inhalationen för att sedan snabbt avta.
@@ -19480,7 +19480,7 @@ eleverna i årskurs 9 hade provat lustgas någon gång. Bland de äldre eleverna
 uppgick motsvarande andel till 17 procent. I 2024 års undersökning hade lustgasanvändningen minskat
 till 4 procent av eleverna i årskurs 9 och 8 procent i gymnasiet.
 Sammantaget har alltså lustgasanvändningen minskat bland skolelever sedan mätningen påbörjades
-2022. Det går inte att se några könsskillnader i lustgasanvändningen. Det saknas uppgifter om
+2022\. Det går inte att se några könsskillnader i lustgasanvändningen. Det saknas uppgifter om
 användningen av lustgas bland vuxna. Mycket tyder dock på att användning av lustgas är vanligast
 bland unga och unga vuxna. Trots att användningen av lustgas bland skolelever har minskat något
 
@@ -19490,7 +19490,7 @@ inte tillåtet att i alla situationer använda lustgas för berusning och det fi
 som har lagförts till följd av brott begångna efter användning av lustgas, se till exempel Svea hovrätts
 dom den 10 september 2024 (mål nr B 4228-24) angående grov vårdslöshet i trafik och rattfylleri.
 
-3. Statlig utredning om att begränsa tillgången till lustgas
+3\. Statlig utredning om att begränsa tillgången till lustgas
 I juli 2022 gav regeringen en särskild utredare i uppdrag att analysera och ta ställning till hur lustgas
 
 ska regleras. Den särskilda utredaren överlämnade i mars 2024 betänkandet En trygg uppväxt utan
@@ -19498,7 +19498,7 @@ nikotin, alkohol och lustgas (SOU 2024:23). Efter remissförfarandet har en lagr
 Avsikten är att införa en ny lag som begränsar försäljning av lustgas för att motverka användning av
 lustgas som berusningsmedel. Lagen föreslås träda i kraft den 1 juli 2025.
 
-4. Förslaget till ny lag om lustgas
+4\. Förslaget till ny lag om lustgas
 I förslaget till ny lag om lustgas anges att lustgas inte ska få säljas eller på annat sätt lämnas ut i
 näringsverksamhet om det finns särskild anledning att anta att lustgasen ska användas som
 berusningsmedel. Högst 18 gram lustgas ska få säljas eller på annat sätt lämnas ut i näringsverksamhet
@@ -19549,16 +19549,16 @@ Offentlig plats skulle kunna vara en plats där det går att göra regleringar v
 ordningsföreskrifter, i syfte att komma till rätta med eventuella ordningsstörningar kopplade
 till bruk av lustgas.
 
-5. Möjlighet att reglera användningen lustgas i berusningssyfte i lokala
+5\. Möjlighet att reglera användningen lustgas i berusningssyfte i lokala
 ordningsföreskrifter
 Av 3 kap. 8 § ordningslagen (1993:1617) följer att en kommun får meddela de föreskrifter som behövs
 för att upprätthålla den allmänna ordningen på offentlig plats. Med offentlig plats avses enligt 1 kap.
 2 § ordningslagen:
 
-1. allmänna vägar,
-2. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän plats och som har
+1\. allmänna vägar,
+2\. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän plats och som har
 upplåtits för sitt ändamål,
-3. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om de har upplåtits för
+3\. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om de har upplåtits för
 detta ändamål och är tillgängliga för allmänheten, samt
 
 2 Länsstyrelserna har till uppgift att pröva om kommunernas lokala ordningsföreskrifter är förenliga med lag, och då dessa anses strida
@@ -19569,7 +19569,7 @@ mot lag, upphäva föreskrifterna.
 KUNGSBACKA  KOMMUN
 6 (9)
 
-4. andra landområden och utrymmen inomhus som stadigvarande används för allmän trafik.
+4\. andra landområden och utrymmen inomhus som stadigvarande används för allmän trafik.
 Kommuner får också föreskriva att anläggningar för lek, idrott, camping eller friluftsliv, badplatser,
 järnvägsområden, begravningsplatser och andra sådana områden, om de inte omfattas av
 bestämmelserna i första stycket, ska jämställas med offentliga platser vid tillämpning av
@@ -19579,13 +19579,13 @@ ordningsföreskrifter för Kungsbacka kommun framgår att:
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och dessa föreskrifter
 tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
-3. Parkområde i anslutning till kulturhuset Fyren
-4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och
+1\. Begravningsplats
+2\. Kyrkogård
+3\. Parkområde i anslutning till kulturhuset Fyren
+4\. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och
 punkt 2
-5. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
-6. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
+5\. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
+6\. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet som hör till en förskola eller skolas
 verksamhet, jämställs med offentlig plats endast utanför verksamhetstid och vid tillämpning av 21 §
@@ -19639,7 +19639,7 @@ inskränkningar i den enskildes frihet. Lokala föreskrifter måste också ha s�
 utformade med sådan exakthet att möjlighet finns att tillämpa dem och övervaka efterlevnaden av dem
 (RÅ 1992 ref. 75).
 
-6. Nämndernas beredning av motionen
+6\. Nämndernas beredning av motionen
 Motionen har remitterats till nämnden för Teknik och nämnden för Kultur & Fritid för beredning.
 
 6.1. Nämnden för Kultur & Fritids yttrande
@@ -19704,7 +19704,7 @@ del kopplas till ungdomar som befinner sig på andra platser än i krogmiljö el
 Polismyndigheten vill att ett förbud mot användning av lustgas i berusningssyfte ska införas på
 offentlig plats och platser som jämställs med offentlig plats i samtliga tätorter i Kungsbacka kommun.
 
-7. Kommunstyrelsens förvaltnings bedömning
+7\. Kommunstyrelsens förvaltnings bedömning
 Kommunstyrelsens förvaltning kan inledningsvis konstatera att användandet av lustgas i
 berusningssyfte är ett växande problem i Sverige samt att det finns betydande risker med användandet
 av lustgas i berusningssyfte. Detta växande samhällsproblem finns också i Kungsbacka kommun.
@@ -19753,7 +19753,7 @@ Lokala
 
 ordningsföreskrifter
 
--
+\-
 
 Tillägg
 
@@ -19854,15 +19854,15 @@ lokala föreskrifter om torghandel.
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och
 dessa föreskrifter tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
+1\. Begravningsplats
+2\. Kyrkogård
 
-3. Parkområde i anslutning till kulturhuset Fyren
-4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 §
+3\. Parkområde i anslutning till kulturhuset Fyren
+4\. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 §
 punkt 1 c och punkt 2
 
-5. Motionsspår enligt bilaga 3 tillämpning av 19–20 §§
-6. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
+5\. Motionsspår enligt bilaga 3 tillämpning av 19–20 §§
+6\. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet som hör till en förskola eller
 skolas verksamhet, jämställs med offentlig plats endast utanför verksamhetstid och
@@ -20052,14 +20052,14 @@ områden som jämställs med offentlig plats enligt 3 § i dessa föreskrifter.
 21 § Vistelseförbud för hund
 Hund får inte vistas på
 
-1.
+1\.
 a. Allmän lekplats
 b. Allmän anläggning för lek och aktivitet
 
 c. Annan anläggning för lek och aktivitet som enligt 3 § i dessa
 föreskrifter jämställs med offentlig plats
 
-2. Tingbergsvallen i KungsbackaBadbrygga och badflotte på badplats som
+2\. Tingbergsvallen i KungsbackaBadbrygga och badflotte på badplats som
 enligt 3 § i dessa föreskrifter jämställs med offentlig platsVistelseförbudet
 gäller inte lek- eller aktivitetsyta avsedd för hund såsom hundrastgård eller
 agilitybana.
@@ -20111,36 +20111,36 @@ Varlaberg
 ,r
 e,< ) It'
 <;
-l      Sjukhus (!,, <!! (J 'i)• f (),
-f      a ..., •C/!; ., ~ <) ,;,• • !l~;..
-(!J.i ◊ ~;;.,.
-c ~ - .. < ~ C 6 ':: J - \ ,. b ,: O . , : , : ' t < ' ) s ~ ~ " (! # ) 0 ' (; , .' itl ' . i } ? • [! r ;, - -G " 9 I 3 , ) ; , O
-aC'. !c o [ O i . n~ • I ~ ~ " . ~ ~ O .. stra yiµ , asta .. den J
-0Ro[} I O •   ~
-~ e, C 0 D C ~ ., ' -c & , '< ' ) I ,: . ", $ . '( ) ' <>!> • . i , T ,.. . ◊ / 0
-~:J'5 0 "' ,0 . ,.::. (;,,
-~ [7 < . o P, ' - f I 0 ) /
+l      Sjukhus (!,, \<!! (J 'i)• f (),
+f      a ..., •C/!; ., \~ <) ,;,• • !l\~;..
+(!J.i ◊ \~;;.,.
+c \~ - .. < \~ C 6 ':: J - \ ,. b ,: O . , : , : ' t < ' ) s \~ \~ " (! # ) 0 ' (; , .' itl ' . i } ? • [! r ;, - -G " 9 I 3 , ) ; , O
+aC'. !c o [ O i . n\~ • I \~ \~ " . \~ \~ O .. stra yiµ , asta .. den J
+0Ro[} I O •   \~
+\~ e, C 0 D C \~ ., ' -c & , '< ' ) I ,: . ", \$ . '( ) ' <>!> • . i , T ,.. . ◊ / 0
+\~:J'5 0 "' ,0 . ,.::. (;,,
+\~ [7 < . o P, ' - f I 0 ) /
 0
 0 J l ö : 1 1
 o
 i 0 ' Q O
 c i
--
+\-
 "
 l 1
 i
 . .
-:
+\:
 l ,
-:
--
+\:
+\-
 ,
 j I
-~
-- J l ) L 1
+\~
+\- J l ) L 1
 •
 1 l ,
-~
+\~
 ?' V / . - ) c? (
 <
 ;,
@@ -20149,23 +20149,23 @@ l
 o
 )
 .
-~
+\~
 .
-~
-1 f f l / , ! " 1 1' ~ , IQ 0 " [ • t b !J ~ ~ C ~ " : J G6<r ~ l l!tJ"G ~ G' ~ ~ ~ ,f) t ) - • / ; I I
-Kung.\iac~O•ro ~, a q ~ • ~ .
-. ~ 'ti·,o ~-~ I] • • 'v<v
-<f''oO ,:,'o il 'o 61◊
--
+\~
+1 f f l / , ! " 1 1' \~ , IQ 0 " [ • t b !J \~ \~ C \~ " : J G6\<r \~ l l!tJ"G \~ G' \~ \~ \~ ,f) t ) - • / ; I I
+Kung.\iac\~O•ro \~, a q \~ • \~ .
+. \~ 'ti·,o \~-\~ I] • • 'v\<v
+\<f''oO ,:,'o il 'o 61◊
+\-
 % "
-~
+\~
 ,. "
-~
-: o '? ~ >
+\~
+: o '? \~ >
 ,:
-, ~
+, \~
 ,
-\ \ ' ~
+\ \ ' \~
 . <
 'i
 v
@@ -20173,7 +20173,7 @@ if
 .
 c
 )
-' . ~
+' . \~
 [ Q ]
 D
 ,i C . l o
@@ -20181,42 +20181,42 @@ D
 O < : (
 s
 I
->
+\>
 : lf
 o
 ,
-~• " > < . Ä ·-e ':> ?~ ~-- · . . ,, O ,,, ..,,,. -
+\~• " > < . Ä ·-e ':> ?\~ \~-- · . . ,, O ,,, ..,,,. -
 ,
 / ....-,,. . ,?
 xo ••
 (} (}
-~?
+\~?
 d
 c:;
 0
 0
-~
-~
-0                                                             \
-__
+\~
+\~
+0                                                             \\
+\__
 • () O()f0 J
 övrekolla
-c~,
+c\~,
 0
 ,
-~  rv1G,ehus
-g; 1 r _ ,
-Cl~ ~□F " ✓
-·appp ~~~~~~ \ \o
+\~  rv1G,ehus
+g; 1 r \_ ,
+Cl\~ \~□F " ✓
+·appp \~\~\~\~\~\~ \ \o
 .---··
-•\\
-~c
+•\\\\
+\~c
 Kungsbacka kommun            Lokala ordningsföreskrifter       9 (20)
 Teckenförk  laring
 ,'
 , 'G.
 0
-Tillfällig (ambulerande) försäljning ·-~                                       I
+Tillfällig (ambulerande) försäljning ·-\~                                       I
 ) /
 /
 D
@@ -20354,7 +20354,7 @@ I
 .!:I
 l-lede
 
-Vsd~befg
+Vsd\~befg
 .. · ·, .. -
 Graitlä.lr
 "
@@ -20395,12 +20395,12 @@ Il
 
 i) I
 
-~.,,__~
+\~.,,\_\_\~
 /"
-~
-_ _,..,/   S1e11vik
+\~
+\_ \_,..,/   S1e11vik
 .....
-Badplats~     asar1d
+Badplats\~     asar1d
 Sörvik ?•
 Kungsbacka kommun            Lokala ordningsföreskrifter       14 (20)
 
@@ -20425,14 +20425,14 @@ Servicehus
 ..
 /
 1ennjsb. . ()
---=~.,,,,..--~_,-./
+--=\~.,,,,..--\~\_,-./
 r  /
-I     ~
+I     \~
 
 I
-0   -..__f.~      )
+0   -..\_\_f.\~      )
 ,
-'-'•Wltii Gcit~
+'-'•Wltii Gcit\~
 ,
 Backa
 ..............
@@ -20449,15 +20449,15 @@ r.
 .
 Klasberg
 a
-~~.' lllv                                                            D
->
+\~\~.' lllv                                                            D
+\>
 (K)
 ·---
-\; <.,.-----·
+\\; <.,.-----·
 -·
 ,,,...)
 Tröskeberg
-~
+\~
 I
 
 Kungsbacka kommun            Lokala ordningsföreskrifter       15 (20)
@@ -20466,33 +20466,33 @@ Kungsbacka kommun            Lokala ordningsföreskrifter       15 (20)
 
 K ,
 
-~~&:11"'
+\~\~&:11"'
 ♦
 
 (/
 ..
-~
+\~
 R
--
--                (r :, I' )
+\-
+\-                (r :, I' )
 C)                 R
 .r
 I
 l
--r.:. ✓--~L~         'ckebro  ~··
+-r.:. ✓--\~L\~         'ckebro  \~··
 ,r
 ✓
 .
-(~J
+(\~J
 •
 Särög. .,
-~
+\~
 D
 Bukärr
-~             □
+\~             □
 q
 0
-~~
+\~\~
 !J
 "
 ..
@@ -20502,13 +20502,13 @@ D  .
 0
 .. /2
 Lyck
-~✓
-~'--
+\~✓
+\~'--
 
 R
 
 C. •
-tl  \
+tl  \\
 
 Vea
 Kungsbacka kommun            Lokala ordningsföreskrifter       16 (20)
@@ -20526,16 +20526,16 @@ I
 
 Vårdcentral    I
 
-\/
+\\/
 Oro
 FJärås
 0
 Il
-\
+\\
 Il                       0
-\
-'&)               \
-I JÖ'~
+\\
+'&)               \\
+I JÖ'\~
 R
 I
 "
@@ -20553,8 +20553,8 @@ n       D
 -aD ,
 CJ
 •
-\
-•                                                             _.
+\\
+•                                                             \_.
 0                                                     \   ...
 't>
 [I                       tO
@@ -20565,21 +20565,21 @@ f
 J
 c;    ..
 t)
-\\               ~
+\\\               \~
 "''"'D'Gfi, 11<\J
-\
+\\
 •
 Kungsbacka kommun            Lokala ordningsföreskrifter       17 (20)
-$ervice111..
+\$ervice111..
 11
 s•
-0          ""~
+0          ""\~
 OOa
 
 <!-- sida 469 -->
 
-~
-#
+\~
+\#
 i
 
 ,a
@@ -20588,7 +20588,7 @@ I
 
 ' ID
 l.
-/_J
+/\_J
 JQ
 14
 i
@@ -20596,12 +20596,12 @@ i
 u
 tJ
 u
-n                ~
-11.
+n                \~
+11\.
 lt
 I
-\
-~
+\\
+\~
 I
 z
 111
@@ -20609,26 +20609,26 @@ z
 r
 ?
 6
-Tll'.LIV~-d,,JH"'
+Tll'.LIV\~-d,,JH"'
 u
 Q FriUea4s
 Yäxtl}lJ, s-
 4
 \                                            I
 {
-I    ~,                                              -==
+I    \~,                                              -==
 1\1
 i      . t\ (
 •
 u
 •
-}                                1\\\8~~
-4      J   fo                           ~
+}                                1\\\\\8\~\~
+4      J   fo                           \~
 Kung
 FriJ
 ,
 fe s
--
+\-
 1
 i
 e! ,
@@ -20637,24 +20637,24 @@ u
 k
 •
 4               ftl/al.J.s
-~)                                I
+\~)                                I
 CJ                                                       -
-'4,n,g~~
+'4,n,g\~\~
 .,,                      Il,                            C
-\
+\\
 l
 !
-(J             ·,       .~  •
-\
+(J             ·,       .\~  •
+\\
 •    •
 -0
-\
-\
+\\
+\\
 [j
 t
 Kungsb acka kommun           Lokala o0r dningsföreskrifter     18 (20)
 l'
-~                              \
+\~                              \\
 I
 l·                                           i
 ,., f] I! 0
@@ -20668,15 +20668,15 @@ r,
 
 S P_gJt
 • F, b  .
-.....__ Ku >l•lii l!J lllU/J.111
+.....\_\_ Ku >l•lii l!J lllU/J.111
 
 .Kullavik
 
 ·.r   'l,,'CJ  :-... 11 ' ..
--
+\-
 . . . . • • • "9 • I •
 .
-. -~
+. -\~
 .
 Rönnaråcke
 ...
@@ -20702,7 +20702,7 @@ D                                      •,.
 o
 .
 l •
--
+\-
 .
 ..
 I
@@ -20730,22 +20730,22 @@ D
 .
 .
 
-_;:-;;;;.
-~ ~-==
-=-
+\_;:-;;;;.
+\~ \~-==
+\=-
 
 '
-\
+\\
 {?
-\
+\\
 tl
-\
+\\
 t
 ..
 I
 onsa\a
 
-\
+\\
 
 l
 
@@ -20784,7 +20784,7 @@ y      �
 JRubbesjö
 
 C' .
-:
+\:
 .
 .
 Blixered
@@ -20792,7 +20792,7 @@ Blixered
 . .
 .
 
-("\
+("\\
 
 <!-- sida 473 -->
 
@@ -20849,8 +20849,8 @@ Bilaga 6 - Förbud mot användning av lustgas i berusningssyfte:
 Fjärås/Hjälm
 .
 .
-/  li:-/M( \,,- - ..,
-11.
+/  li:-/M( \\,,- - ..,
+11\.
 
 r  )(
 11
@@ -21221,14 +21221,14 @@ berusningssyfte på offentliga platser och platser som jämställs med offentlig
 kommun.
 Förbudet bör gälla inom kommunens samtliga tätorter enligt karta nedan under punkt 5
 
-1. Bakgrund och syfte
+1\. Bakgrund och syfte
 
 Missbruk av lustgas (N2O) har på senare tid blivit ett växande problem i Kungsbacka. Förtäring av
 lustgas i berusningssyfte innebär risker för både hälsa och säkerhet. Förvaltningen bedömer att ett
 förbud mot förtäring av lustgas på offentliga platser skulle kunna bidra till att minska dessa risker och
 förbättra ordningen på de berörda platserna.
 
-2. Hälsorisker och säkerhetsproblem
+2\. Hälsorisker och säkerhetsproblem
 
 Förtäring av lustgas för missbruk kan leda till allvarliga hälsoproblem, inklusive syrebrist,
 medvetslöshet och i vissa fall dödsfall. En ny sort av lustgas, som nyligen påträffades vid
@@ -21237,7 +21237,7 @@ reproduktionsstörande och kan skada fertiliteten.
 Användning av lustgas ökar dessutom risken för olyckor, särskilt om användningen sker nära trafik
 eller andra farliga miljöer. Vi bedömer att ett förbud skulle kunna minska dessa risker.
 
-3. Störningar i allmän ordning
+3\. Störningar i allmän ordning
 
 Risk finns för en ökad oro bland invånare och besökare angående de störningar som missbruk av
 lustgas kan orsaka på platser såsom torg, parker och gator. Förtäring av lustgas leder ibland till
@@ -21258,7 +21258,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (5)
 
-4. Nedskräpning, kostnader och trygghet
+4\. Nedskräpning, kostnader och trygghet
 
 Förvaltningen för Teknik har registrerat en ökad nedskräpning i form av tomma lustgastuber. Tuber
 ligger slängda i naturen och då främst i diken, buskar och på skolgårdar runt om i kommunen. Dessa
@@ -21268,7 +21268,7 @@ för förvaltningen för Teknik, därtill kommer arbetstiden för att samla in d
 Nedskräpning och ovårdad utemiljö bidrar även mycket till otrygghetskänsla. Platserna signalerar brist
 på mänsklig närvaro och omsorg som i sin tur leder till otrygghet.
 
-5. Rättsliga och praktiska överväganden
+5\. Rättsliga och praktiska överväganden
 
 Under samråd med polisen framkom vikten av att förbudet ska gälla så stora områden som möjligt.
 Detta för att undvika ”frizoner” där förbudet inte gäller. Om områdena är för små blir förbudet
@@ -21309,7 +21309,7 @@ utformas så de innefattar dessa tätorter.
 KUNGSBACKA  KOMMUN
 4 (5)
 
-6. Förvaltningens förslag
+6\. Förvaltningens förslag
 
 Förvaltningen föreslår att införa ett förbud mot förtäring av lustgas i berusningssyfte på offentliga
 platser inom Kungsbacka kommun. Förvaltningen anser att ett sådant förbud skulle kunna förbättra
@@ -21321,7 +21321,7 @@ med missbruk av lustgas.
 KUNGSBACKA  KOMMUN
 5 (5)
 
-7. Alternativa beslut
+7\. Alternativa beslut
 
 Att inte införa ett förbud mot lustgas i berusningssyfte skulle behålla dagens situation. Fler och fler
 kommuner i Sverige väljer att införa förbud i frågan och Kungsbacka skulle då välja att inte följa
@@ -22085,7 +22085,7 @@ Länsstyrelsen Hallands län          Yttrande                  10 (11)
 2024-08-20          4027–2024
 
 9 Ikraftträdande och övergångsbestämmelser (1 juli
-2026)
+2026\)
 
 9:2 Övergångsbestämmelser
 

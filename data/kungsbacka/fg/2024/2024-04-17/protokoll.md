@@ -732,7 +732,7 @@ Förskole- och skolområdena Åsa Gård och Malevik har under en försöksperiod
 drygt 3 år prövat driftsformen intraprenad, försöket upphör vid årets slut, 2023. Efter
 att Åsa Gårds intraprenad avslutades vid läsårsslut vårterminen 2023 startade
 förskolorna Lilla och Stora Loket upp en ny intraprenad från och med höstterminen
-2023.
+2023\.
 
 Beslutsunderlag
 Förvaltningen för Förskola & Grundskolas tjänsteskrivelse, 2024-03-28

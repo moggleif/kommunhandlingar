@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 3. | Plan för Kungsbacka kommuns<br>folk-, skol- och<br>gymnasiebibliotek 2025-2030<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>4 st dokument<br>15 min | KFT-2024-<br>00290 | Nämnden föreslår kommunfullmäktige att anta Plan<br>för Kungsbacka kommuns folk-, skol- och<br>gymnasiebibliotek 2025-2030.<br>Nämnden beslutar att förlänga befintlig<br>biblioteksplans giltighetstid till dess att<br>kommunfullmäktige antagit planen för 2025-2030. |
-| 4. | Nämndbudget 2025<br>Föredragande: Karl Persson<br>3 st dokument<br>15 min | KFT-2024-<br>00298 | Nämnden för Kultur & Fritid beslutar att:<br>* godkänna nämndbudget 2025<br>* uppdra åt förvaltningschefen att upprätta<br>förvaltningsbudget för 2025<br>* uppdra åt förvaltningschefen att göra nödvändiga<br>omfördelningar i Förvaltningsbudgeten under året<br>samt att informera nämnden om dessa i samband<br>med delårsrapport och bokslut |
+| 4. | Nämndbudget 2025<br>Föredragande: Karl Persson<br>3 st dokument<br>15 min | KFT-2024-<br>00298 | Nämnden för Kultur & Fritid beslutar att:<br>\* godkänna nämndbudget 2025<br>\* uppdra åt förvaltningschefen att upprätta<br>förvaltningsbudget för 2025<br>\* uppdra åt förvaltningschefen att göra nödvändiga<br>omfördelningar i Förvaltningsbudgeten under året<br>samt att informera nämnden om dessa i samband<br>med delårsrapport och bokslut |
 | 5. | Initiativ från Alliansen 2023-<br>10-23: söka finansiering för<br>ökade aktiviteter för äldre på<br>boenden<br>2 st dokument | KFT-2024-<br>00321 | Nämnden ger förvaltningen i uppdrag att söka<br>finansiering tillsammans med förvaltningen för Vård<br>& Omsorg för att öka aktiviteter på kommunens<br>särskilda boenden. |
 | 6. | Information till nämnd:<br>Omtanke Halland (Reformen<br>God och nära vård)<br>Föredragande: Stefan Löfmark,<br>förändringsledare<br>2 st dokument<br>30 min | KFT-2023-<br>00331 | Nämnden noterar informationen till protokollet. |
 |  | PAUS |  |  |
@@ -433,14 +433,14 @@ KUNGSBACKA  KOMMUN
 Lerums kommun
 
 • Prioritet ges till bidragsberättigade föreningar med barn och ungdomar 7-25 år.
-1. Säsongsbokning (minst 7 månader) för barn och ungdomar 7-25 år, med höst och vår som
+1\. Säsongsbokning (minst 7 månader) för barn och ungdomar 7-25 år, med höst och vår som
 huvudsaklig säsong och inomhusaktiviteter som huvudaktivitet.
-2. Säsongsbokning (minst 7 månader) för övriga föreningar med verksamhet riktad till barn och
+2\. Säsongsbokning (minst 7 månader) för övriga föreningar med verksamhet riktad till barn och
 unga 7-25 år.
-3. Bokningar för del av säsong av föreningar med verksamhet riktad till barn och ungdomar 7-
+3\. Bokningar för del av säsong av föreningar med verksamhet riktad till barn och ungdomar 7-
 25 år.
-4. Övriga föreningar i Lerums kommun.
-5. Privatpersoner, företag och andra organisationer.
+4\. Övriga föreningar i Lerums kommun.
+5\. Privatpersoner, företag och andra organisationer.
 • Kommunen har bokningsföreträde och rätt att göra avsteg från prioriteringen ovan.
 Säsongstider:
 • Säsongen är 1 september till siste april.
@@ -487,15 +487,15 @@ Förvaltningen bedömer därför att grundprinciperna bör kompletteras och gör
 
 Fördelningen sker enligt följande prioritering:
 
-1. Evenemang, arrangemang, cuper, som har ansökt innan 1 mars. (max två
+1\. Evenemang, arrangemang, cuper, som har ansökt innan 1 mars. (max två
 evenemang/termin/förening)
-2. Bidragsberättigade barn- och ungdomsföreningar i seriespel – dessa omfattar även
+2\. Bidragsberättigade barn- och ungdomsföreningar i seriespel – dessa omfattar även
 föreningarnas seniorlag.
 
-3. Övriga föreningar i seriespel, men som inte är bidragsberättigade
-4. Barn- och ungdomsföreningar som inte har seriespel inomhus
+3\. Övriga föreningar i seriespel, men som inte är bidragsberättigade
+4\. Barn- och ungdomsföreningar som inte har seriespel inomhus
 
-5. Övriga föreningar/motionsgrupper/privata/ företag
+5\. Övriga föreningar/motionsgrupper/privata/ företag
 
 Arbetsförslag på nya principer
 
@@ -512,7 +512,7 @@ lämnas inför nästkommande säsong
 
 Fördelningsprioritering vid säsong
 
-1) Evenemang, arrangemang, cuper, som har ansökts innan utlyst datum (max två evenemang per
+1\) Evenemang, arrangemang, cuper, som har ansökts innan utlyst datum (max två evenemang per
 termin och förening under säsong)
 
 <!-- sida 22 -->
@@ -520,25 +520,25 @@ termin och förening under säsong)
 KUNGSBACKA  KOMMUN
 5 (5)
 
-2) Stödberättigade föreningar med barn & ungdomsverksamhet som är anmälda tävling/seriespel
+2\) Stödberättigade föreningar med barn & ungdomsverksamhet som är anmälda tävling/seriespel
 och inom säsong (för inomhusanläggningar gäller att säsongsbokningen måste vara minst 7
 
 månader). Särskild hänsyn tas till:
 •    barn och ungdomar 7-20 år
 
 •    personer med funktionsnedsättningar
-3) Stödberättigade föreningar med barn & ungdomsverksamhet som är anmälda
+3\) Stödberättigade föreningar med barn & ungdomsverksamhet som är anmälda
 tävlingsverksamhet/seriespel men har avvikande säsong (för inomhusanläggningar är
 säsongsbokningen mindre än 7 månader). Särskild hänsyn tas till:
 
 •    barn och ungdomar 7-20 år
 •    personer med funktionsnedsättningar
 
-4) Övriga stödberättigade föreningar med barn & ungdomsverksamhet som inte uppfyller kraven
+4\) Övriga stödberättigade föreningar med barn & ungdomsverksamhet som inte uppfyller kraven
 ovan.
-5) Övriga stödberättigade föreningar
+5\) Övriga stödberättigade föreningar
 
-6) Övriga föreningar/motionsgrupper/privata/företag med mera.
+6\) Övriga föreningar/motionsgrupper/privata/företag med mera.
 
 Förvaltningen för Kultur & fritid har bokningsföreträde och rätt att göra avsteg ifrån prioriteringen och
 principerna ovan.
@@ -815,9 +815,9 @@ De nationella minoriteterna
 
 Bibliotekslagen säger i 5 § att "Biblioteken i det allmänna biblioteksväsendet ska ägna särskild uppmärksamhet åt de nationella minoriteterna och personer
 som har annat modersmål än svenska, bland annat genom att erbjuda litteratur på
-1. de nationella minoritetsspråken,
-2. andra språk än de nationella minoritetsspråken och svenska, och
-3. lättläst svenska"
+1\. de nationella minoritetsspråken,
+2\. andra språk än de nationella minoritetsspråken och svenska, och
+3\. lättläst svenska"
 
 De nationella minoriteterna är sverigefinnar, tornedalingar, romer, judar och samer (som också har status som urfolk). Det finns också fem erkända nationella
 minoritetsspråk; finska, meänkieli, jiddish, romani chib (alla varieteter) och samiska (alla varieteter).
@@ -1152,17 +1152,17 @@ I lagen ser vi att följande artiklar har direkt bäring på folk- och
 skolbiblioteksverksamheterna i Kungsbacka:
 Artikel 13
 
-1. Barnet ska ha rätt till yttrandefrihet. Denna rätt innefattar frihet att
+1\. Barnet ska ha rätt till yttrandefrihet. Denna rätt innefattar frihet att
 oberoende av territoriella gränser söka, ta emot och sprida information och
 tankar av alla slag, i tal, skrift eller tryck, i konstnärlig form eller genom
 annat uttrycksmedel som barnet väljer.
 
 Artikel 14
-1. Konventionsstaterna ska respektera barnets rätt till tankefrihet,
+1\. Konventionsstaterna ska respektera barnets rätt till tankefrihet,
 samvetsfrihet och religionsfrihet.
 
 Artikel 17
-2. Konventionsstaterna erkänner den viktiga uppgift som massmedier utför
+2\. Konventionsstaterna erkänner den viktiga uppgift som massmedier utför
 och ska säkerställa att barnet har tillgång till information och material
 från olika nationella och internationella källor, särskilt sådant som syftar
 till att främja dess sociala, andliga och moraliska välmående samt fysiska
@@ -1322,7 +1322,7 @@ I Vision 2030 berörs folk- och skolbiblioteksverksamhet i följande passager:
 
 <!-- sida 41 -->
 
--  Vi utvecklas hela livet
+\-  Vi utvecklas hela livet
 I våra skolor utvecklar var och en sin fulla kapacitet i en kreativ miljö där alla tar
 ansvar, visar respekt och bryr sig om varandra. Alla elever lämnar skolan med god
 
@@ -1330,7 +1330,7 @@ kompetens, god självkänsla och stark framtidstro.
 Livslångt lärande är en självklarhet. När vi växer som människor utvecklas både
 näringslivet och samhället i stort.
 
--  Aktiviteter som engagerar, inspirerar och berikar livet
+\-  Aktiviteter som engagerar, inspirerar och berikar livet
 Här har alla ett rikt fritids- och kulturliv med både bredd och spets. Mångfalden av
 aktiviteter, upplevelser och gemenskaper främjar hälsa, välmående och kreativitet.
 Framåtanda, mångfald och öppenhet spirar i nätverk och föreningar.
@@ -1442,7 +1442,7 @@ https://www.kungsbacka.se/Kommun-och-politik/Mal-och-resultat1/Vision-2030/
 
 Läroplan för gymnasieskolan GY11:
 http://www.skolverket.se/om-skolverket/publikationer/visa-enskild-
-publikation?_xurl_=http%3A%2F%2Fwww5.skolverket.se%2Fwtpub%2Fws%2Fsk
+publikation?\_xurl\_=http%3A%2F%2Fwww5.skolverket.se%2Fwtpub%2Fws%2Fsk
 olbok%2Fwpubext%2Ftrycksak%2FRecord%3Fk%3D2705
 
 Gymnasiearbetet:
@@ -1919,10 +1919,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 10
 
@@ -1947,11 +1947,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 11
 
@@ -1979,8 +1979,8 @@ Nämndbudget 2025
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 12
@@ -2020,8 +2020,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 5.5 Ett medskapande samhälle och öppen attityd
 
@@ -2029,12 +2029,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 13
 
@@ -2376,7 +2376,7 @@ Investeringar (belopp i tkr)
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndbudget 2025
 
-* Lokaler- konstnärlig gestaltning, budget tilldelas från Kommunstyrelsen lokalplan ** Budget 2025, Övriga investeringar, inkluderar
+\* Lokaler- konstnärlig gestaltning, budget tilldelas från Kommunstyrelsen lokalplan \*\* Budget 2025, Övriga investeringar, inkluderar
 500 tkr ombudget från 2023.
 
 Kommentarer investeringsbudget
@@ -2398,9 +2398,9 @@ ombudgeterat belopp från 2023 om 500 tkr som avser konst till Kungsbacka torg.
 
 | Investeringar | Bokslut 2023 | Budget 2024 | Budget 2025 | Plan 2026 | Plan 2027-<br>2029 |
 | --- | --- | --- | --- | --- | --- |
-| Lokaler- konstnärlig<br>gestaltning * | 3 641 | 6 233 |  |  |  |
+| Lokaler- konstnärlig<br>gestaltning \* | 3 641 | 6 233 |  |  |  |
 |  |  |  |  |  |  |
-| Övriga investeringar | 1 726 | 9 027 | 5 500 ** | 5 000 | 21 000 |
+| Övriga investeringar | 1 726 | 9 027 | 5 500 \*\* | 5 000 | 21 000 |
 | Summa | 20 552 | 26 160 | 16 400 | 15 900 | 53 500 |
 
 <!-- sida 70 -->
@@ -2984,12 +2984,12 @@ tillgängliga och till för alla över alla gränser.
 
 Inriktningarna är:
 
-1. Utomhuskoncept för rörelseglädje för att uppmana till rörelse och träning i olika miljöer, något
+1\. Utomhuskoncept för rörelseglädje för att uppmana till rörelse och träning i olika miljöer, något
 som även avlastar idrottshallarna och den verksamhet som bedrivs där av det organiserade
 föreningslivet.
-2. Samutnyttjande med nyckeltal för ytor i fritids- idrotts- och kulturlokaler som gör dem
+2\. Samutnyttjande med nyckeltal för ytor i fritids- idrotts- och kulturlokaler som gör dem
 fungerande och attraktiva.
-3. Stora fullmåtts-idrottshallar för flexibilitet och användbarhet, inga mindre hallar.
+3\. Stora fullmåtts-idrottshallar för flexibilitet och användbarhet, inga mindre hallar.
 
 1 (3)
 Förvaltningen för Kultur & Fritid                         Kungsbacka kommun
@@ -3005,15 +3005,15 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-4. Samutnyttjande av lokaler - särskilt nya lokaler - för olika ändamål, t ex för kultur- fritids- och
+4\. Samutnyttjande av lokaler - särskilt nya lokaler - för olika ändamål, t ex för kultur- fritids- och
 idrottsändamål, samt för skola.
 
-5. Nya kulturlokaler tillförs det fria kulturlivet genom att ställa krav på, och samarbeta med,
+5\. Nya kulturlokaler tillförs det fria kulturlivet genom att ställa krav på, och samarbeta med,
 exploatörer i samband med markanvisningar - snarare än att bygga kommunala kulturlokaler.
 
 Grundligare beskrivning av inriktningarna:
 
-1) Utomhuskoncept för rörelseglädje kan dels avlasta det stora trycket på idrottshallar dels
+1\) Utomhuskoncept för rörelseglädje kan dels avlasta det stora trycket på idrottshallar dels
 möjliggöra mer varierad träning. Vidare kan konceptet uppmuntra spontan rörelse för personer i alla
 åldrar, som komplement till de föreningsdrivna aktiviteterna som, pga. platsbrist, endast riktar sig till
 ungdomar. Utomhuskoncept kan vara att aktivera skolgårdar, parker och natur samt även väggar och
@@ -3022,7 +3022,7 @@ radiostyrda bilar, intervallsträckor, klätterväggar, scener och läktare osv.
 olika platser kan även höja upplevelsen av trygghet eftersom en attraktivare utomhusmiljö gör att fler
 människor rör sig i områdena.
 
-2) Vår främsta inriktning för lokaler är att nyttja de lokaler som redan finns på ett annat sätt, t. ex.
+2\) Vår främsta inriktning för lokaler är att nyttja de lokaler som redan finns på ett annat sätt, t. ex.
 genom omfördelning av idrottshallsytor mellan olika sporter och mellan olika föreningar på ett mer
 likvärdigt sätt. Konsekvensen är att vi behöver stödja föreningarna än mer i hur de kan tänka nytt och
 förändra sin verksamhet då tillgången till inomhushallar är starkt begränsad och betydligt lägre än vad
@@ -3032,7 +3032,7 @@ andra kommuner vilket gör trängseln i hallarna stor. Föreningarna kommer inte
 de själva tänkt om de inte varierar sin träning mer, något ett fåtal blivit mer vana vid och behållit sedan
 pandemin.
 
-3) Vår tredje inriktning är att endast växa i takt med att kommunen växer och bygger ut nya skolor,
+3\) Vår tredje inriktning är att endast växa i takt med att kommunen växer och bygger ut nya skolor,
 inte mer än så. När en ny skola byggs måste det byggas en fullmåttshall. Endast sådana hallar har den
 flexibilitet som krävs och möjliggör det föreningsidrottande som efterfrågas i kommunen. I det fall
 endast en halv idrottshall går att inrymma på en tomt anser vi inte att det är en lämplig plats för
@@ -3041,7 +3041,7 @@ bebyggelse. En hall används till 60% av föreningslivet och till 40% av skolver
 senare är den enda som är lagstyrd. Kommunfullmäktigemålet om att vi ska vara en attraktiv kommun
 är det som är styrande avseende behovet av fullmåttshallar.
 
-4) Vår fjärde inriktning är samlokalisering. Tillkommande skolor ska betraktas som mer än skolor
+4\) Vår fjärde inriktning är samlokalisering. Tillkommande skolor ska betraktas som mer än skolor
 som används dagtid av elever. Skolorna ska även fungera som mötesplatser för olika åldrar över olika
 tider på dygnet. Det kan vara för föreningsverksamhet, fritidsverksamhet för yngre och äldre, för
 kulturskoleverksamhet, för bibliotek- och kulturverksamhet, lokaler för fria kulturlivet mm mm. Det
@@ -3057,7 +3057,7 @@ KUNGSBACKA  KOMMUN
 investeringsprocessen utgår från denna samlokaliseringstanke för att lokalerna ska upplevas som
 attraktiva av invånarna.
 
-5) Vår femte inriktning är att bidra med kunskap i hur samhällsbyggnadsprocesser kan drivas så att
+5\) Vår femte inriktning är att bidra med kunskap i hur samhällsbyggnadsprocesser kan drivas så att
 utformningen av nya stadsdelar blir trygga och trivsamma för de som ska bo där. Det innebär t ex
 att lokaler för kultur tillförs samhället men utan nödvändigtvis att vara kommunala lokaler.
 Tillkommande lokaler tas därför inte alltid upp för kommunal finansiering i lokalplanen, men det
@@ -3071,9 +3071,9 @@ Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-10-14
 Lokalbehov 2026-2030 med utblicksår 2031-2035, 2024-10-14
 
 Bilagor
-1. 1.2 Konstförråd Lokalplan 2026-2030. 2024-10-14
-2. 1.2 Liten teater för repetitioner och föreställningar Lokalplan 2026-2030. 2024-10-14
-3. 1.2 Lokal för utlån av fritidsutrustning Lokalplan 2026-2030. 2024-10-14
+1\. 1.2 Konstförråd Lokalplan 2026-2030. 2024-10-14
+2\. 1.2 Liten teater för repetitioner och föreställningar Lokalplan 2026-2030. 2024-10-14
+3\. 1.2 Lokal för utlån av fritidsutrustning Lokalplan 2026-2030. 2024-10-14
 
 Beslutet skickas till
 Nämnden för Service
@@ -3347,13 +3347,13 @@ skulle gå emot samlokaliseringprincipen och idén om att mötesplatser blir bä
 tillgängliga och till för alla över alla gränser.
 Inriktningarna är:
 
-1. Utomhuskoncept för rörelseglädje för att uppmana till rörelse och träning i olika miljöer,
+1\. Utomhuskoncept för rörelseglädje för att uppmana till rörelse och träning i olika miljöer,
 något som även avlastar idrottshallarna och den verksamhet som bedrivs där av det
 organiserade föreningslivet.
-2. Samutnyttjande med nyckeltal för ytor i fritids- idrotts- och kulturlokaler som gör dem
+2\. Samutnyttjande med nyckeltal för ytor i fritids- idrotts- och kulturlokaler som gör dem
 fungerande och attraktiva.
-3. Stora fullmåtts-idrottshallar för flexibilitet och användbarhet, inga mindre hallar.
-4. Samutnyttjande av lokaler - särskilt nya lokaler - för olika ändamål, t ex för kultur- fritids-
+3\. Stora fullmåtts-idrottshallar för flexibilitet och användbarhet, inga mindre hallar.
+4\. Samutnyttjande av lokaler - särskilt nya lokaler - för olika ändamål, t ex för kultur- fritids-
 och idrottsändamål, samt för skola.
 
 Lokalbehov 2026-2030 Utblicksår 2031-2035 8
@@ -3362,12 +3362,12 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 8
 
 Nämnden för Kultur & Fritid                     Kungsbacka kommun
 
-5. Nya kulturlokaler tillförs det fria kulturlivet genom att ställa krav på, och samarbeta med,
+5\. Nya kulturlokaler tillförs det fria kulturlivet genom att ställa krav på, och samarbeta med,
 exploatörer i samband med markanvisningar - snarare än att bygga kommunala
 kulturlokaler.
 Grundligare beskrivning av inriktningarna:
 
-1) Utomhuskoncept för rörelseglädje kan dels avlasta det stora trycket på idrottshallar dels
+1\) Utomhuskoncept för rörelseglädje kan dels avlasta det stora trycket på idrottshallar dels
 möjliggöra mer varierad träning. Vidare kan konceptet uppmuntra spontan rörelse för personer i alla
 åldrar, som komplement till de föreningsdrivna aktiviteterna som, pga. platsbrist, endast riktar sig
 till ungdomar. Utomhuskoncept kan vara att aktivera skolgårdar, parker och natur samt även väggar
@@ -3376,7 +3376,7 @@ banor för radiostyrda bilar, intervallsträckor, klätterväggar, scener och l�
 utomhusaktivitet på olika platser kan även höja upplevelsen av trygghet eftersom en attraktivare
 utomhusmiljö gör att fler människor rör sig i områdena.
 
-2) Vår främsta inriktning för lokaler är att nyttja de lokaler som redan finns på ett annat sätt, t.
+2\) Vår främsta inriktning för lokaler är att nyttja de lokaler som redan finns på ett annat sätt, t.
 ex. genom omfördelning av idrottshallsytor mellan olika sporter och mellan olika föreningar på ett
 mer likvärdigt sätt. Konsekvensen är att vi behöver stödja föreningarna än mer i hur de kan tänka
 nytt och förändra sin verksamhet då tillgången till inomhushallar är starkt begränsad och betydligt
@@ -3386,7 +3386,7 @@ mer aktiva än i andra kommuner vilket gör trängseln i hallarna stor. Förenin
 kunna växa i den takt de själva tänkt om de inte varierar sin träning mer, något ett fåtal blivit mer
 vana vid och behållit sedan pandemin.
 
-3) Vår tredje inriktning är att endast växa i takt med att kommunen växer och bygger ut nya skolor,
+3\) Vår tredje inriktning är att endast växa i takt med att kommunen växer och bygger ut nya skolor,
 inte mer än så. När en ny skola byggs måste det byggas en fullmåttshall. Endast sådana hallar har
 den flexibilitet som krävs och möjliggör det föreningsidrottande som efterfrågas i kommunen. I det
 fall endast en halv idrottshall går att inrymma på en tomt anser vi inte att det är en lämplig plats för
@@ -3394,7 +3394,7 @@ bebyggelse. En hall används till 60% av föreningslivet och till 40% av skolver
 den senare är den enda som är lagstyrd. Kommunfullmäktigemålet om att vi ska vara en attraktiv
 kommun är det som är styrande avseende behovet av fullmåttshallar.
 
-4) Vår fjärde inriktning är samlokalisering. Tillkommande skolor ska betraktas som mer än skolor
+4\) Vår fjärde inriktning är samlokalisering. Tillkommande skolor ska betraktas som mer än skolor
 som används dagtid av elever. Skolorna ska även fungera som mötesplatser för olika åldrar över
 olika tider på dygnet. Det kan vara för föreningsverksamhet, fritidsverksamhet för yngre och äldre,
 för kulturskoleverksamhet, för bibliotek- och kulturverksamhet, lokaler för fria kulturlivet mm mm.
@@ -3404,7 +3404,7 @@ Det är av yttersta vikt att de areanyckeltal och produktionskostnadsnyckeltal s
 investeringsprocessen utgår från denna samlokaliseringstanke för att lokalerna ska upplevas som
 attraktiva av invånarna.
 
-5) Vår femte inriktning är att bidra med kunskap i hur samhällsbyggnadsprocesser kan drivas så att
+5\) Vår femte inriktning är att bidra med kunskap i hur samhällsbyggnadsprocesser kan drivas så att
 utformningen av nya stadsdelar blir trygga och trivsamma för de som ska bo där. Det innebär t ex
 att lokaler för kultur tillförs samhället men utan nödvändigtvis att vara kommunala lokaler.
 Tillkommande lokaler tas därför inte alltid upp för kommunal finansiering i lokalplanen, men det
@@ -3665,11 +3665,11 @@ Utlån av fritidsutrustning sker kostnadsfritt för de som lånar. Verksamheten 
 de förvaltningar och eventuella externa parter som ingår.
 
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN
-1. Ja, NYKO-område 1
-2. Detta är en ny verksamhet som inte finns i kommunen idag. För att den ska kunna rikta sig till
+1\. Ja, NYKO-område 1
+2\. Detta är en ny verksamhet som inte finns i kommunen idag. För att den ska kunna rikta sig till
 alla invånare är en central placering önskvärd.
 
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 101 -->
 
@@ -3746,7 +3746,7 @@ t
 0
 g
 u
--
+\-
 r
 s
 8
@@ -3882,9 +3882,9 @@ nuvarande Alléskolan har en rektangulär form, 10x20 m, dvs. 200 kvm.
 teaterverksamheten hyr.
 • Fri höjd under tross bör vara minst 7 m.
 
-1. Kapacitet. Det bör finnas plats för ca 100 i publiken för föreställningar, för att kunna uppnå en
+1\. Kapacitet. Det bör finnas plats för ca 100 i publiken för föreställningar, för att kunna uppnå en
 rimlig kostnadstäckningsgrad för evenemang med betalande publik.
-2. Placering av olika utrymmen. I en traditionell teaterlokal, exempelvis i den nuvarande
+2\. Placering av olika utrymmen. I en traditionell teaterlokal, exempelvis i den nuvarande
 teaterlokalen i Alléskolan, är placeringen av scen och salong fast i förhållande till varandra. I en
 Black Box- teater är rumslösningen mer flexibel och spelriktningen kan ändras genom att flytta
 publikens sittplatser, på gradänger eller på golvet. Även teknisk utrustning för ljus och ljud
@@ -3892,7 +3892,7 @@ publikens sittplatser, på gradänger eller på golvet. Även teknisk utrustning
 monteras i en Black Box på ett flexibelt sätt. Resultatet blir att förutsättningar finns för en större
 konstnärlig frihet i utformningen av den enskilda teaterföreställningen. Black Box-teatrar har
 därför blivit en mycket använd modell för teaterlokaler.
-3. Flöden. I en teaterlokal ska såväl publikens som deltagarnas/personalens flöden planeras in.
+3\. Flöden. I en teaterlokal ska såväl publikens som deltagarnas/personalens flöden planeras in.
 Publiken kommer traditionellt till själva scenrummet/auditoriet genom en publik entré och tar sig
 vidare in till scenrummet som i vanliga fall består av scen och salong. Före och efter
 föreställningen och i pauser är publiken som oftast inte inne i själva scenrummet, utan uppehåller
@@ -3907,7 +3907,7 @@ om ”inför öppen ridå”.
 4 (5)
 KUNGSBACKA  KOMMUN
 
-4. Övriga ytor. Kring scenrummet behöver finnas kompletterande ytor för loger, verkstäder och
+4\. Övriga ytor. Kring scenrummet behöver finnas kompletterande ytor för loger, verkstäder och
 förråd. Lokalen kan göras mer flexibel och användbar om den förutom själva teatersalen även
 innehåller viss yta för repetition som kan genomföras parallellt med att annat arbete utförs i
 teatersalen.
@@ -3947,7 +3947,7 @@ kommunala och kommersiella utbud. Denna typ av verksamhetslokaler kan bli dragar
 ligger i, vitalisera dem samt skapa större trygghet. Det är alltså ett önskemål att ha kvar placeringen av
 verksamheterna centralt i staden.
 
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 106 -->
 
@@ -4200,7 +4200,7 @@ konstverk av olika former och storlekar, dels en arbetsyta.
 
 Funktioner
 
-1. Förvaring
+1\. Förvaring
 a. Förvaring under kort tid av verk som anländer kort tid innan utställning/utplacering,
 även uppbevaring av tillfälliga konstverk.
 
@@ -4211,7 +4211,7 @@ beskaffenhet inte längre fungerar på sin nuvarande placering, inom- eller utom
 
 d. Viss dokumentförvaring.
 
-2. Arbetsyta. Arbetsmomenten är att
+2\. Arbetsyta. Arbetsmomenten är att
 
 <!-- sida 109 -->
 
@@ -4223,7 +4223,7 @@ av att skydda konsten från transportskador
 b. se och fotografera konstverk för bedömning, dokumentation och marknadsföring.
 Detta sker lämpligast vid en fri yta/vägg med bra belysning.
 
-3. Övriga funktioner
+3\. Övriga funktioner
 
 a. Tillgång till vatten och avlopp.
 
@@ -4293,7 +4293,7 @@ Fordonet som används i verksamheten har fast parkeringsplats vid Kulturhuset Fy
 
 används i bibliotekens verksamhet.
 
-________________________________________________________________________________
+\________________________________________________________________________________
 
 <!-- sida 111 -->
 
@@ -4363,7 +4363,7 @@ Förvaltningen för Kultur & Fritid föreslår att nämnden för Kultur & Fritid
 november beslutar att:
 •  förvaltningen har som övergripande inriktning att flytta ekonomiska medel från anläggningar
 och byggnader till aktivitetsstöd till föreningar. Subventionsgrader på hyror ska fasas ut till
-2030.
+2030\.
 •  öka LOK-stödet till 10 kr samt räknar upp LOK-stödet till de föreningar som äger och helt
 
 sköter sina egna anläggningar med tre gånger det generella LOK-stödet.
@@ -4384,7 +4384,7 @@ ekonomiskt stöd, indirekt ekonomiskt stöd i form av anläggningar och lokaler 
 exempelvis föreningsutveckling.
 
 Kommunens föreningsstöd har i omgångar setts över och reviderats, nuvarande stöd trädde i kraft
-2022. För att möta framtidens utmaningar behövs en större förändring av föreningsstödet göras för att
+2022\. För att möta framtidens utmaningar behövs en större förändring av föreningsstödet göras för att
 säkerställa att föreningslivet även i framtiden är välfungerande och hållbart. Genom att ha tydliga
 grundprinciper för stöd och en genomtänkt strategi, står kommunen och föreningslivet stärkare i resan
 framåt.
@@ -4740,23 +4740,23 @@ Detta är fiktiva exempel. Utvecklingsstödet är det som beskrivs ovan under Ut
 på ett treårigt verksamhetsåtagande. Summan under Utvecklingsstödet är ett genomsnitt och inte en
 faktisk summa.
 
-+ Ökat LOK stöd från
+\+ Ökat LOK stöd från
 7,5kr till 10kr
-+ LOK stöd x3
-- Driftbidrag
-- Utveckling /
+\+ LOK stöd x3
+\- Driftbidrag
+\- Utveckling /
 Utbildningsbidrag
 
-- Drogpolicy /
+\- Drogpolicy /
 Hälsocertifiering
-- Lovbidrag
-- Folkhälsobidrag
-- Subventioner
-- Höjda taxor
+\- Lovbidrag
+\- Folkhälsobidrag
+\- Subventioner
+\- Höjda taxor
 
 Summa
 
-+ Utvecklingsstöd
+\+ Utvecklingsstöd
 (Genomsnittligt stöd per
 förening utifrån det belopp
 som frigörs från lokaler)
@@ -4860,13 +4860,13 @@ själva klubblokalens yta, utan som verksamhetsyta.
 Förslag på principer klubblokaler
 Grundprincipen är att kommunen inte bygger klubblokaler.
 Förvaltningen kommer utgå från två modeller:
-1. Föreningen hyr klubblokalen för en hyra utan subventioner, enligt ett av dessa tre alternativ.
+1\. Föreningen hyr klubblokalen för en hyra utan subventioner, enligt ett av dessa tre alternativ.
 a. hela klubblokalen
 
 b. tillsammans med en eller flera andra föreningar
 c. begränsat antal kvadratmeter
 
-2. Föreningen äger själv sin klubblokal.
+2\. Föreningen äger själv sin klubblokal.
 
 <!-- sida 124 -->
 
@@ -4990,7 +4990,7 @@ Förslag på principer gällande verksamhetsytor
 Förvaltningen kommer att agera enligt följande principer, utifrån den klassificering som görs av i
 vilken grad de enskilda lokaler/ytor är strategiskt viktiga:
 •  Kommunen stödjer verksamhet i anläggningar i Kategori 1, Strategiskt prioriterad
-verksamhetsyta (minst sju poäng*), genom att stå för skötsel av anläggningen.
+verksamhetsyta (minst sju poäng\*), genom att stå för skötsel av anläggningen.
 
 •  Utpekade strategiskt prioriterade verksamhetsytor är öppna för alla stödberättigade föreningar.
 
@@ -5019,24 +5019,24 @@ samlad bedömning för att planera befintliga och kommande stöd och investering
 framförda behov kategoriseras utifrån hur väl de uppfyller kriterierna, sedan görs en prioritering.
 
 Dessa kriterier ligger till grund för beräkningarna:
-1. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2
+1\. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2
 p.
-2. Anläggningen ligger i direkt anslutning till skola och är tillgänglig för allmänheten för olika
+2\. Anläggningen ligger i direkt anslutning till skola och är tillgänglig för allmänheten för olika
 aktiviteter, möten eller evenemang. Ytan kan användas av många, för såväl organiserade som icke
 
 organiserade ändamål. 2 p.
-3. Anläggningen ligger i område med hög befolkningstäthet, dvs Kungsbacka Stad1, Särö, Onsala
+3\. Anläggningen ligger i område med hög befolkningstäthet, dvs Kungsbacka Stad1, Särö, Onsala
 eller Åsa. 2 p.
-4. Anläggningen uppfyller behov hos underrepresenterade målgrupper identifierade utifrån ålder, kön
+4\. Anläggningen uppfyller behov hos underrepresenterade målgrupper identifierade utifrån ålder, kön
 eller typ av idrott. 2 p.
-5. Anläggningen ligger i ett av de tre strategiska fokusområdena Anneberg, Kungsbacka Stad eller
+5\. Anläggningen ligger i ett av de tre strategiska fokusområdena Anneberg, Kungsbacka Stad eller
 Åsa. 2 p.
 
-6. Anläggningen har god nåbarhet för barn och ungdomar, dvs. de kan på egen hand ta sig till
+6\. Anläggningen har god nåbarhet för barn och ungdomar, dvs. de kan på egen hand ta sig till
 anläggningen 1 p.
-7. Specialanläggning: konstis, friidrottsanläggning, simhall, skejt, parasport. 1 p.
-8. Konstgräs. Omfattande miljökrav i underhåll 5 p.
-9. Begränsad nyttjandekapacitet. Anläggningen kan pga. ljud- eller ljusstörningar inte nyttjas
+7\. Specialanläggning: konstis, friidrottsanläggning, simhall, skejt, parasport. 1 p.
+8\. Konstgräs. Omfattande miljökrav i underhåll 5 p.
+9\. Begränsad nyttjandekapacitet. Anläggningen kan pga. ljud- eller ljusstörningar inte nyttjas
 obegränsat. Det kan även pågå andra aktiviteter som begränsar möjligheterna för nyttjande för
 
 enskilda föreningar. - 2 p.
@@ -5162,7 +5162,7 @@ demokratiskt samhälle. Kungsbacka kommun stödjer det ideella föreningslivet g
 ekonomiskt stöd, indirekt ekonomiskt stöd i form av anläggningar och lokaler samt kompetens inom
 exempelvis föreningsutveckling.
 Kommunens föreningsstöd har i omgångar setts över och reviderats, nuvarande stöd trädde i kraft
-2022. För att möta framtidens utmaningar behövs en större översyn av föreningsstödet göras för att
+2022\. För att möta framtidens utmaningar behövs en större översyn av föreningsstödet göras för att
 säkerställa att föreningslivet även i framtiden är välfungerande och hållbart. Genom att ha tydliga
 grundprinciper för stöd och en genomtänkt strategi, står kommunen och föreningslivet stärkare i resan
 framåt.
@@ -5503,13 +5503,13 @@ själva klubblokalens yta, utan som verksamhetsyta.
 
 Ny strategi för klubblokaler
 Två modeller:
-1. Föreningen hyr klubblokalen för en marknadsmässig hyra, enligt ett av dessa tre alternativ
+1\. Föreningen hyr klubblokalen för en marknadsmässig hyra, enligt ett av dessa tre alternativ
 
 o  hela klubblokalen
 o  tillsammans med en eller flera andra föreningar
 o  begränsat antal kvadratmeter
 
-2. Föreningen äger själv sin klubblokal. För en del föreningar är detta redan fallet.
+2\. Föreningen äger själv sin klubblokal. För en del föreningar är detta redan fallet.
 
 <!-- sida 139 -->
 
@@ -5528,10 +5528,10 @@ produkter eller tjänster.
 
 Uppföljningsrutiner
 
-1. Kommunen utvärderar kontinuerligt hur subventionerna för föreningslokaler används och om
+1\. Kommunen utvärderar kontinuerligt hur subventionerna för föreningslokaler används och om
 stöden ger tillräckligt med samhällsnytta. Om vissa stöd inte uppfyller krav och kriterier kan
 resurserna omfördelas till ändamål som ger större effekt.
-2. Alla hyresförhållanden med föreningar ska omfattas av undertecknade avtal som ska finnas
+2\. Alla hyresförhållanden med föreningar ska omfattas av undertecknade avtal som ska finnas
 med i en uppdaterad samling.
 
 Verksamhetsytor
@@ -5655,7 +5655,7 @@ samlad bedömning för att planera befintliga och kommande stöd och investering
 framförda behov kategoriseras utifrån hur väl de uppfyller kriterierna, sedan görs en prioritering.
 
 Dessa kriterier ligger till grund för beräkningarna:
-1. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2
+1\. Anläggningen används mångsidigt – av flera olika föreningar eller inom minst två olika sporter. 2
 p.
 
 •  Anläggningen ligger nära en skola och är tillgänglig för allmänheten för olika aktiviteter,
@@ -5959,15 +5959,15 @@ Förvaltningschef
 Stor inomhusförening   Liten inomhusförening
 
 2026       2029        2026
-+ Ökat LOK stöd från 7,5kr till 10kr 150 000 150 000     9 000
-+ LOK stöd x3
-- Driftbidrag
-- Utveckling / Utbildningsbidrag -160 000   -160 000     -6 000
-- Drogpolicy / Hälsocertifiering -40 000     -40 000
-- Lovbidrag
-- Folkhälsobidrag
+\+ Ökat LOK stöd från 7,5kr till 10kr 150 000 150 000     9 000
+\+ LOK stöd x3
+\- Driftbidrag
+\- Utveckling / Utbildningsbidrag -160 000   -160 000     -6 000
+\- Drogpolicy / Hälsocertifiering -40 000     -40 000
+\- Lovbidrag
+\- Folkhälsobidrag
 
-- Subventioner
+\- Subventioner
 
 ```osaker-tabell
 - Höjda taxor                   -100 000    -120 000     -5 800
@@ -6229,12 +6229,12 @@ Analys         av    subventioner                  och      bidrag
 
 -Fotbollsklubbar
 
-*Alla aktiva medlemmar oberoende av sektion har använts för beräkning av hyressubventionen samt anläggnings-och skötselbidraget.
-**Beräkningarna har inte kunnat ta hänsyn till skillnaderna i hyreskostnader för olika storlekar på planer.
+\*Alla aktiva medlemmar oberoende av sektion har använts för beräkning av hyressubventionen samt anläggnings-och skötselbidraget.
+\*\*Beräkningarna har inte kunnat ta hänsyn till skillnaderna i hyreskostnader för olika storlekar på planer.
 
 [Tabell 161-1](handlingar.tabeller/161-1.csv)
 
-|  | Antal aktiva<br>fotbolls-<br>sektionen<br>medlemmar<br>7-20 år 2022 | Antal aktiva<br>alla sektioner<br>7 –20 år* | Hyressubvention per<br>aktiv medlem* | Anläggnings-<br>och<br>skötselbidrag<br>per aktiv<br>medlem<br>7-20 år* | Bokade timmar i<br>snitt per aktiv<br>medlem<br>fotbollssektionen<br>7-20 år 2022 | Planhyra i snitt<br>per aktiv medlem<br>fotbollssektionen<br>7-20 år 2022** | Total planhyra<br>per bokad<br>timme** | Subvention Planhyra per<br>aktiv medlem<br>jmf med B-plan för Övrig<br>förening/privat inom<br>kommunen<br>277 kr/timme** | Totalt bidrag<br>per aktiv<br>medlem |
+|  | Antal aktiva<br>fotbolls-<br>sektionen<br>medlemmar<br>7-20 år 2022 | Antal aktiva<br>alla sektioner<br>7 –20 år\* | Hyressubvention per<br>aktiv medlem\* | Anläggnings-<br>och<br>skötselbidrag<br>per aktiv<br>medlem<br>7-20 år\* | Bokade timmar i<br>snitt per aktiv<br>medlem<br>fotbollssektionen<br>7-20 år 2022 | Planhyra i snitt<br>per aktiv medlem<br>fotbollssektionen<br>7-20 år 2022\*\* | Total planhyra<br>per bokad<br>timme\*\* | Subvention Planhyra per<br>aktiv medlem<br>jmf med B-plan för Övrig<br>förening/privat inom<br>kommunen<br>277 kr/timme\*\* | Totalt bidrag<br>per aktiv<br>medlem |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Frillesås FF | 364 | 609 | Eget klubbhus | 66 kr | 5,1 | 450 kr | 89 kr | 956 kr | 1 022 kr |
 | IFK Fjärås | 471 |  | Eget klubbhus | 0 | 6,1 | 539 kr | 88 kr | 1 155 kr | 1 155 kr |

@@ -88,7 +88,7 @@ Delårsrapport per augusti 2025 ................................................
 
 § 110 Dnr IF-2025-00234
 Svar på remiss - Betänkandet "Ett nationellt förbud mot tiggeri" (KS-2025-
-00530) ....................................................................................................... 5
+00530\) ....................................................................................................... 5
 
 § 124 Dnr IF-2023-00118
 Nedläggning av faderskapsutredning enligt 2 kap 7 § punkt 1 och 2
@@ -144,7 +144,7 @@ Förslag till beslut på sammanträdet
 
 Ordförande Tommy Rydfeldt (L) yrkar bifall till förslaget med tillägget att nämnden
 uppmärksammar kommunstyrelsen på att nämnden prognotiserar ett underskott för
-2025.
+2025\.
 
 Beslutsgång
 

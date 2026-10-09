@@ -474,11 +474,11 @@ Förslag till beslut
 
 Nämnden för Förskola & Grundskola beslutar:
 
-- att godkänna behovsbeskrivning utökat behov för anpassad grundskola.
-- att godkänna behovsbeskrivning förskoleplatser i Björkris.
+\- att godkänna behovsbeskrivning utökat behov för anpassad grundskola.
+\- att godkänna behovsbeskrivning förskoleplatser i Björkris.
 
-- att godkänna behovsbeskrivning Onsala skolor.
-- att godkänna behovsbeskrivning omställning Åsaskolan till 4-9.
+\- att godkänna behovsbeskrivning Onsala skolor.
+\- att godkänna behovsbeskrivning omställning Åsaskolan till 4-9.
 
 Sammanfattning av ärendet
 Varje år beslutar nämnden om sina lokalbehov samt lämnar in behovsbeskrivningar

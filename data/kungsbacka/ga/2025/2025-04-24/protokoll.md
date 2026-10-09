@@ -519,41 +519,41 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Utbudsplanering inför läsåret 2026–2027 vid Elof Lindälvs gymnasium:
+1\. Utbudsplanering inför läsåret 2026–2027 vid Elof Lindälvs gymnasium:
 
-* Ekonomiprogrammet: 160 platser
-* El- och energiprogrammet: 48 platser
+\* Ekonomiprogrammet: 160 platser
+\* El- och energiprogrammet: 48 platser
 
-* Hotell- och turismprogrammet: 25 platser
-* Försäljning och serviceprogrammet: 52 platser
+\* Hotell- och turismprogrammet: 25 platser
+\* Försäljning och serviceprogrammet: 52 platser
 
-* Fordon- och transportprogrammet: 40 platser
-* Teknikprogrammet: 64 platser
+\* Fordon- och transportprogrammet: 40 platser
+\* Teknikprogrammet: 64 platser
 
-* Restaurang- och livsmedelsprogrammet: 0 platser
+\* Restaurang- och livsmedelsprogrammet: 0 platser
 
 Utbudet för Elof Lindälvs gymnasium är i stort sett oförändrat jämfört med tidigare
 år, med vissa skillnader:
-- El- och energiprogrammet kan trots det höga söktrycket inte erbjuda 60 platser.
+\- El- och energiprogrammet kan trots det höga söktrycket inte erbjuda 60 platser.
 
 Programmet kräver särskilda lokaler, och de befintliga lokalerna har inte kapacitet att
 ta emot fler elever utan en ombyggnation. För att kunna erbjuda 60 platser varje läsår
 krävs ändamålsenliga lokaler.
-- Restaurang- och livsmedelsprogrammet kommer inte kunna erbjudas om antalet
+\- Restaurang- och livsmedelsprogrammet kommer inte kunna erbjudas om antalet
 sökande inte ökar markant.
 
-2. Utbudsplanering inför läsåret 2026–2027 vid Aranäsgymnasiet:
+2\. Utbudsplanering inför läsåret 2026–2027 vid Aranäsgymnasiet:
 
-* Estetiska programmet: 30 platser (10 platser per inriktning: musik, bild och form,
+\* Estetiska programmet: 30 platser (10 platser per inriktning: musik, bild och form,
 teater).
 
-* Naturvetenskapliga programmet: 96 platser
-* International Baccalaureate: 24 platser
+\* Naturvetenskapliga programmet: 96 platser
+\* International Baccalaureate: 24 platser
 
-* Bygg och anläggningsprogrammet: 30 platser
-* Barn- och fritidsprogrammet: 26 platser
+\* Bygg och anläggningsprogrammet: 30 platser
+\* Barn- och fritidsprogrammet: 26 platser
 
-* Samhällsvetenskapsprogrammet: 192 platser
+\* Samhällsvetenskapsprogrammet: 192 platser
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: BA76A020B0337E751DD2286B0EE517CF87269393E7
@@ -568,11 +568,11 @@ Datum
 
 Utbudet för Aranäsgymnasiet är i stort sett oförändrat jämfört med tidigare år, med
 vissa skillnader:
-- Estetiska programmets inriktning musik kommer endast att kunna erbjudas om
+\- Estetiska programmets inriktning musik kommer endast att kunna erbjudas om
 antalet sökanden ökar markant.
 
-3. NIU padel
-* NIU padel: 0 platser. Andelen förstahandssökande till NIU padel vid Elof Lindälvs
+3\. NIU padel
+\* NIU padel: 0 platser. Andelen förstahandssökande till NIU padel vid Elof Lindälvs
 gymnasium och Aranäsgymnasiet har långsiktigt minskat och antalet elever som når
 elitnivå inom sporten är inte tillräckligt för att upprätthålla utbildningen.
 
@@ -657,7 +657,7 @@ Under de senaste åren har intresset för Lära för livet-priset minskat, vilke
 i det låga antalet nomineringar. Flera år har kännetecknats av få inkomna
 nomineringar, vilket begränsar prisets genomslag och relevans. Mellan åren 2018–
 2024 var antalet nomineringar lågt och den högsta antalet nomineringar var fem år
-2022. Det finns en negativ trend över tid och år 2024 var det endast två nominerade
+2022\. Det finns en negativ trend över tid och år 2024 var det endast två nominerade
 
 vilket även var fallet 2021. Det har varit svårt att uppmärksamma priset samtidigt
 som det medfört stor arbetsbörda för de som är ansvariga för priset. En överföring av
@@ -787,9 +787,9 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Minnesanteckningar vård- och omsorgsprogrammet
+1\. Minnesanteckningar vård- och omsorgsprogrammet
 
-2. Minnesanteckningar programråd fordon- och transportprogrammet
+2\. Minnesanteckningar programråd fordon- och transportprogrammet
 
 Jan Eric Knutas redovisar från programrådet för vård- och omsorgsprogrammet. APL
 ersättning, lokaler och APL platser diskuterades.
@@ -823,15 +823,15 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-1. Protokoll samordningsförbundet Halland
+1\. Protokoll samordningsförbundet Halland
 
-2. Plan grundläggande granskning revision
-3. Skrivelse från lärarlaget restaurang- och livsmedelsprogrammet
+2\. Plan grundläggande granskning revision
+3\. Skrivelse från lärarlaget restaurang- och livsmedelsprogrammet
 
-4. Inkommet mejl från Visitas
-5. Bilaga till mejl nr 4
+4\. Inkommet mejl från Visitas
+5\. Bilaga till mejl nr 4
 
-6. Bilaga till mejl nr 4
+6\. Bilaga till mejl nr 4
 
 Beslutsgång
 

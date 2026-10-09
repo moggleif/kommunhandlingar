@@ -401,12 +401,12 @@ företagarna i Kungsbacka i synnerhet, deras förutsättningar och deras behov.
 
 Vi föreslår därför kommunstyrelsen besluta att
 
--  Föra direkta dialoger mellan kommunens företagare och kommunstyrelsen
+\-  Föra direkta dialoger mellan kommunens företagare och kommunstyrelsen
 (inte bara utskottet)
 
--  Bjuda in kommunens företagare till kommunstyrelsens möten
+\-  Bjuda in kommunens företagare till kommunstyrelsens möten
 
--  Ha en stående punkt på kommunstyrelsens dagordning för inbjudna företag
+\-  Ha en stående punkt på kommunstyrelsens dagordning för inbjudna företag
 
 Carita Boulwèn (SD)
 Susanne Andersson (SD)
@@ -974,7 +974,7 @@ Utifrån ett initiativärende sökte förvaltningen medel hos Kommunstyrelsen oc
 påbörjat ett arbete för att främja välmående och motverka psykisk ohälsa bland elever på Kungsbackas
 kommunala gymnasieskolor. Evalotta Magnusson har ansvar för projektet och har tillsammans med
 processgrupp tagit fram en metod som ska testas mot olika personal- och elevgrupper under våren
-2024. För att kunna fortsätta arbetet önskar förvaltningen söka om ytterligare medel för 2024 samt
+2024\. För att kunna fortsätta arbetet önskar förvaltningen söka om ytterligare medel för 2024 samt
 vårterminen 2025. Tanken är att kunna anställa en samordnare på 60 %, implementera metoden under
 vårterminen 2024 samt fullfölja under höstterminen 2024 och vårterminen 2025. Kostnaden för år
 2024 uppgår till 600 000 kr och för vårterminen 2025 uppgår kostnaden till 300 000 kr.
@@ -1352,7 +1352,7 @@ Att stärka   barn   och   ungas    välmående      och
 
 psykiska    hälsa   med    fysisk  aktivitet.
 
--  Underlag ansökan ”Samverkan för ökad rörelse” 2024
+\-  Underlag ansökan ”Samverkan för ökad rörelse” 2024
 
 Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
@@ -1391,7 +1391,7 @@ Kungsbacka kommun            Rapportmall                        2
 
 <!-- sida 38 -->
 
-2. Vart är vi idag?
+2\. Vart är vi idag?
 
 Självskattad hälsa hos flickor minskar successivt i alla åldersgrupperna –
 LUPP
@@ -1426,7 +1426,7 @@ Kungsbacka kommun            Rapportmall                        3
 
 <!-- sida 39 -->
 
-3. Vart vill vi?
+3\. Vart vill vi?
 
 Öka andelen barn och unga som rör sig enligt rekommendationerna!
 
@@ -1444,7 +1444,7 @@ Kungsbacka kommun            Rapportmall                        4
 
 <!-- sida 40 -->
 
-4. Vad vill vi göra?
+4\. Vad vill vi göra?
 
 Bakgrund för prioriteringar för FG:
 Inom barn och ungdomsidrotten, och framför allt inom idrott och hälsa i skolan,
@@ -1680,7 +1680,7 @@ Inte aktuellt
 
 Utvecklande av light sports communities
 
-2024: *
+2024: \*
 Mötesplatsidrott, i övrigt på vänt.
 
 Budget          Kostnad
@@ -1823,7 +1823,7 @@ ommunstyrelsen 2016-11-15
 
 Kungsbacka
 
-$ 229
+\$ 229
 
 Utveckling av Rya verksamhetsområde i Frillesås
 KS/2016:135 7.1.2
@@ -1858,7 +1858,7 @@ den nya delen av Rya har en potential på uppemot 250.000 kvm.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott, 2016-11-08, $ 287
+Kommunstyrelsens arbetsutskott, 2016-11-08, \$ 287
 Kommunledningskontorets tjänsteskrivelse, 2016-10-19
 
 Expedierat/bestyrkt
@@ -2131,7 +2131,7 @@ Begära     planbesked
 
 Ärendenummer: #108556 | Inskickat av:   | 2023-12-20 15:33
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -2146,7 +2146,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -2170,7 +2170,7 @@ Ja
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -2189,7 +2189,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -2199,7 +2199,7 @@ Situationskarta
 
 Illustrationskarta 2023-11-02.pdf (741 KB)
 
-2. PLANKARTA ORGINAL.pdf (1,68 MB)
+2\. PLANKARTA ORGINAL.pdf (1,68 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
@@ -2792,7 +2792,7 @@ Begära     planbesked
 
 Ärendenummer: #108394 | Inskickat av:      | 2023-12-22 14:54
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -2807,7 +2807,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -2831,7 +2831,7 @@ Ja
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -2877,7 +2877,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -3071,7 +3071,7 @@ TILLÄGGSAVTAL TILL
 AVTAL OM MARKÖVERLÅTELSE
 OCH GENOMFÖRANDE
 
-1. PARTER
+1\. PARTER
 Säljare
 Kungsbacka kommun, org.nr. 212000-1256, 434 81 Kungsbacka, nedan kallad Kom-
 munen, ägare till fastigheten Kungsbacka Kolla 5:151 (tidigare del av Kolla 5:149).
@@ -3081,7 +3081,7 @@ Maxemal Fastigheter Kolla 2 AB, org.nr. 559192-4161, Norra Körnåsvägen 22, 42
 
 31 Kullavik, nedan kallad Bolaget.
 
-2. BAKGRUND OCH FÖRUTSÄTTNINGAR
+2\. BAKGRUND OCH FÖRUTSÄTTNINGAR
 
 För fastigheten Kolla 5:149 gäller ”Detaljplan för bostäder och verksamheter, Kolla
 5:6 m fl” (Kp118c). Inom Kolla 5:151 medger Detaljplanen uppförande av byggnad
@@ -3095,15 +3095,15 @@ tighet, Kolla 5:151.
 
 Enligt Avtalet förbinder sig Bolaget att bebygga Kolla 5:151 i enlighet med Avtalet
 och villkoren i bygglov för nybyggnad av kontor och gym, som beslutades den 3 no-
-vember 2022 (BNAu 2022-11-03, $498).
+vember 2022 (BNAu 2022-11-03, \$498).
 
 Bolaget har önskat göra ändringar i tidigare beviljat bygglov och har därför lämnat in
 en ny ansökan som godkändes genom beslut den 1 februari 2024 (BNAu 2024-02-
-01, $25).
+01, \$25).
 
 Med anledning av det nya bygglovet måste villkor i Avtalet, punkt 4 och 11 justeras.
 
-3. ÄNDRADE AVTALSVILLKOR
+3\. ÄNDRADE AVTALSVILLKOR
 
 Köpeskilling — punkt 4
 Genom det nya bygglovet ökar byggnadens ljusa BTA, vilket medför att köpeskil-
@@ -3126,12 +3126,12 @@ Bolaget har fått ett nytt bygglov för nybyggnad av kontor och gym inom Kolla
 
 Parterna är överens om att punkt 11 i Avtalet ska ändras på så vis att Bolaget förbin-
 der sig att bebygga fastigheten enligt Avtalet och enligt villkoren i det nya bygglovet
-(BNAu 2024-02-01, $25).
+(BNAu 2024-02-01, \$25).
 
 Villkoren i Avtalet, punkt 11, angående uppförande av kontorsbyggnad gäller i övrigt
 utan ändring.
 
-4. ÖVRIGA VILLKOR
+4\. ÖVRIGA VILLKOR
 
 Avtal om marköverlåtelse och genomförande, Avtalet, daterat 2023-04-20, ska i öv-
 riga delar fortsätta att gälla med oförändrade avtalsvillkor.
@@ -3213,7 +3213,7 @@ Expedierat/bestyrkt
 10-20-4202
 –
 52
-$
+\$
 UANB
 –
 
@@ -3299,7 +3299,7 @@ Genomförandetiden är 15 år och slutar 2029-07-04.
 Avvikelse från detaljplan
 Ansökan avviker från gällande detaljplan då
 
--        plan 1 har en annan användning än handel och kontor. Plan 1 föreslås
+\-        plan 1 har en annan användning än handel och kontor. Plan 1 föreslås
 användningen gym på en bruttoarea om 1 264 kvm. Avvikelsen utgör 27 % av den
 totala bruttoarean.
 
@@ -3475,7 +3475,7 @@ Expedierat/bestyrkt
 AVTAL OM MARKÖVERLÅTELSE
 OCH GENOMFÖRANDE
 
-1. PARTER
+1\. PARTER
 
 Säljare
 Kungsbacka kommun, org.nr. 212000-1256, 434 81 Kungsbacka, nedan kallad Kom-
@@ -3486,7 +3486,7 @@ Maxemal Fastigheter Kolla 2 AB, org.nr. 559192-4161, Norra Körnåsvägen 22, 42
 
 31 Kullavik, nedan kallad Bolaget.
 
-2. BAKGRUND OCH ÖVERLÅTELSEOBJEKT
+2\. BAKGRUND OCH ÖVERLÅTELSEOBJEKT
 
 För fastigheten Kolla 5:149 gäller ”Detaljplan för bostäder och verksamheter, Kolla
 5:6 m fl” (Kp118c), Detaljplanen. Inom Kolla 5:149 medger Detaljplanen uppfö-
@@ -3510,7 +3510,7 @@ ning. Parterna förbinder sig att vid kommande förrättning utan särskild komp
 ion, godta smärre justeringar av områdets areal som lantmäterimyndigheten kan
 komma att påkalla.
 
-4. KÖPESKILLING
+4\. KÖPESKILLING
 Köpeskillingen för Området utgör 10 986 191 kronor.
 Köpeskillingen är beräknad utifrån en byggnad med 3148 m? BTA för kontor och
 
@@ -3551,12 +3551,12 @@ pebrev i enlighet med punkt 4 ovan, i avtalet kallad Tillträdesdagen.
 Parterna är överens om att äganderätten till Området övergår först på Tillträdesda-
 gen.
 
-6. LAGFARTSKOSTNAD OCH SKATTER
+6\. LAGFARTSKOSTNAD OCH SKATTER
 
 Med köpet förenade lagfarts- och inteckningskostnader, såsom stämpelskatt med
 mera, betalas av Bolaget.
 
-7. INTECKNINGAR, SERVITUT OCH NYTTJANDERÄTTER
+7\. INTECKNINGAR, SERVITUT OCH NYTTJANDERÄTTER
 
 Kommunen garanterar att det på Avtalsdagen och Tillträdesdagen inte förekommer
 andra inteckningar, servitut, nyttjanderätter eller inskränkande belastningar på Områ-
@@ -3586,7 +3586,7 @@ med avstyckning av Området ska ett servitut för infart bildas till förmån f�
 läge har markerats med blå linje på ritning, bilaga 1. Servitutets slutliga omfattning
 fastställs av lantmäteriet.
 
-8. FÖRDELNING AV INKOMSTER OCH UTGIFTER
+8\. FÖRDELNING AV INKOMSTER OCH UTGIFTER
 
 För Området utgående periodiska avgifter samt all avkastning av Området betalas re-
 spektive uppbärs av Kommunen i den mån de belöper på tiden före Tillträdesdagen
@@ -3601,7 +3601,7 @@ innevarande inkomstår denna dag inte känd för Kommunen. Så snart taxeringsv�
 har fastställts kommer Kommunen att fakturera Köparen dennes andel av fastighets-
 skatten.
 
-9. OMRÅDETS SKICK
+9\. OMRÅDETS SKICK
 
 Kommunen garanterar att Kommunen på Avtalsdagen och Tillträdesdagen är ägare
 till Området samt att Området inte besväras av servitut, nyttjanderätter, anteckningar
@@ -3624,7 +3624,7 @@ ter i Området.
 
 <!-- sida 99 -->
 
-10. FÖRORENAD MARK
+10\. FÖRORENAD MARK
 
 Detaljplanen anger markanvändningen till handel- och kontorsändamål. Kravet på
 markens renhet för sådant ändamål är att den uppfyller riktvärdena för mindre käns-
@@ -3662,7 +3662,7 @@ toret innan åtgärderna påbörjas. Vidare ska Bolaget skriftligen ställa ers�
 språk till Kommunen senast 3 månader, efter det att åtgärderna slutförts, annars är
 möjligheten till ersättning förverkad.
 
-11. UPPFÖRANDE AV KONTORSBYGGNAD
+11\. UPPFÖRANDE AV KONTORSBYGGNAD
 
 Bolaget har fått bygglov för nybyggnad av kontor och gym inom Området (BNAu
 2022-11-03, 3498), Bygglovet. Bolaget förbinder sig att bebygga Området enligt
@@ -3677,7 +3677,7 @@ avtal godkänts av kommunstyrelsen, genom beslut som vunnit laga kraft. Byggnat-
 ionen anses påbörjad när Bolaget påbörjat byggnadsarbeten av väsentlig grad, så som
 arbete med bottenplatta.
 
-409)
+409\)
 
 <!-- sida 100 -->
 
@@ -3686,7 +3686,7 @@ ning.
 
 Bolaget svarar för ansökan om eventuella tillstånd för verksamheten.
 
-12. EXPLOATERINGSKOSTNADER
+12\. EXPLOATERINGSKOSTNADER
 
 Kommunen är huvudman för allmän plats i Kolla Parkstad och genomför utbyggnad
 av gator och parker inom allmän plats och svarar för framtida drift och underhåll av
@@ -3716,12 +3716,12 @@ sker enligt särskilt ramavtal mellan Kommunen/exploatörerna i Kolla Parkstad o
 Statkraft.
 
 Området belastas av avtalsservitut för kraftledning, nätstation (akt D-2015-
-00060406) och avtalsservitut för kraftledning (akt D-2016-00071545). Bolaget an-
+00060406\) och avtalsservitut för kraftledning (akt D-2016-00071545). Bolaget an-
 svarar för att kontakta ledningshavaren Ellevio, för att klargöra om/hur ledningarna
 berörs av Bolagets planerade byggnation. Bolaget står för samtliga kostnader som
 uppkommer om ledningarna måste skyddas eller flyttas.
 
-13. PARKERING
+13\. PARKERING
 
 Bolaget förbinder sig att anlägga det antal parkeringsplatser för bil och cykel inom
 Området som framgår av Bygglovet.
@@ -3753,7 +3753,7 @@ kostnadsansvar är dock begränsat till maximalt 500 000 kronor. Kommunen skicka
 en faktura till Bolaget när parkeringsanläggningen godkänts vid slutbesiktning.
 Kommunen ansvarar för framtida drift och underhåll av anläggningen.
 
-14. AVLEDANDE AV DAGVATTEN, YTVATTENAVRINNING MM.
+14\. AVLEDANDE AV DAGVATTEN, YTVATTENAVRINNING MM.
 
 Bolaget är skyldig att på egen bekostnad vidta nödvändiga åtgärder för avledande av
 dagvatten från Området så att inte skada uppstår på grannfastigheterna.
@@ -3786,7 +3786,7 @@ rad 2014-02-03. Bolaget ansvarar för att utreda om sprinkler behövs.
 
 <!-- sida 102 -->
 
-15. GENOMFÖRANDE
+15\. GENOMFÖRANDE
 
 Samordning
 
@@ -3884,7 +3884,7 @@ entreprenörers verksamhet inom Området. Kommunen svarar, efter samråd med Bo-
 laget, för återställandet på Bolagets bekostnad och Kommunen fakturerar Bolaget ef-
 ter utfört arbete.
 
-16. HÄVANDE AV KÖPET
+16\. HÄVANDE AV KÖPET
 
 Kommunen har ensidig rätt att häva detta avtal om Bolaget inte påbörjat byggnat-
 ionen enligt den tidpunkt som anges i punkt 11. Avtalet upphör då att gälla och er-
@@ -3896,12 +3896,12 @@ rätt till skadestånd eller annan ersättning från Kommunen.
 
 <!-- sida 104 -->
 
-17. ÖVERLÅTELSE AV AVTAL
+17\. ÖVERLÅTELSE AV AVTAL
 
 Bolaget får inte utan Kommunens skriftliga medgivande överlåta detta avtal på annan
 part.
 
-18. TVIST
+18\. TVIST
 
 Tvist rörande tolkning av detta avtal ska, om inte annat överenskommes mellan Par-
 terna, avgöras av allmän domstol.
@@ -3920,7 +3920,7 @@ Kommundirektör
 
 Säljarens namnteckning bevittnas Säljarens namnteckning bevittnas
 
-209)
+209\)
 
 <!-- sida 105 -->
 
@@ -4156,7 +4156,7 @@ Kommunstyrelsen Datum
 
 2023-03-21
 
-$ 66 Dnr 2019-00398
+\$ 66 Dnr 2019-00398
 
 Godkännande av avtal om marköverlåtelse och genomförande
 avseende del av fastigheten Kolla 5:149 i Kolla Parkstad
@@ -4199,16 +4199,16 @@ i tid.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2023-03-07, $ 72
+Kommunstyrelsens arbetsutskott 2023-03-07, \$ 72
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2023-02-20
 
 Avtal om marköverlåtelse och genomförande, undertecknat av Maxemal Fastigheter
 Kolla 2 AB, 2023-02-20
 
-Byggnadsnämndens arbetsutskott 2022-11-03, $ 498
+Byggnadsnämndens arbetsutskott 2022-11-03, \$ 498
 
-Kommunstyrelsens arbetsutskott 2021-04-13, $ 152
+Kommunstyrelsens arbetsutskott 2021-04-13, \$ 152
 
 Markanvisningsavtal, undertecknat 2019-07-18
 
@@ -4415,25 +4415,25 @@ Samhällsbyggnadskontoret, Mark & Exploatering, har 2022-08-30 bl. a lämnat syn
 att exploateringsavtalet inte följs enligt följande:
 
 ”Urval av villkor i markanvisningsavtalet:
-1. Byggnaden ska endast innehålla kontorslokaler, inga andra verksamheter är tillåtna
-2. Byggnaden och dess användning ska följa detaljplanens bestämmelser utan avvikelser
+1\. Byggnaden ska endast innehålla kontorslokaler, inga andra verksamheter är tillåtna
+2\. Byggnaden och dess användning ska följa detaljplanens bestämmelser utan avvikelser
 
-3. Byggnad och parkeringsytor ska utformas enligt detaljplanens gestaltningsprinciper och
+3\. Byggnad och parkeringsytor ska utformas enligt detaljplanens gestaltningsprinciper och
 samspela med befintlig bebyggelse
 
-4. Höjdsättningen av byggnader och mark inom Kolla 5:149 ska anpassas till befintlig
+4\. Höjdsättningen av byggnader och mark inom Kolla 5:149 ska anpassas till befintlig
 höjdsättning på angränsande kommunal allmän plats och trafik-/parkeringsmark
 
-5. Bolaget ska uppfylla p-talet för kontor som är 20-25 platser/1000 kvm BTA
+5\. Bolaget ska uppfylla p-talet för kontor som är 20-25 platser/1000 kvm BTA
 
-6. Parkering ska i huvudsak ske inom egen mark, men det kan bli aktuellt att samutnyttja
+6\. Parkering ska i huvudsak ske inom egen mark, men det kan bli aktuellt att samutnyttja
 kommunal parkering
 
-7. Bolaget ansvarar för att kontakta Ellevio för att klargöra hur/om deras kraftledning utmed
+7\. Bolaget ansvarar för att kontakta Ellevio för att klargöra hur/om deras kraftledning utmed
 Månstensvägen, vid/inom Kolla 5:149 berörs av den planerade byggnationen. Ellevio har ett
 servitut för ledningen, som bland annat belastar Kolla 5:149.
 
-8. Köpeavtal ska upprättas när bolaget tagit fram skisser som uppfyller detaljplanens
+8\. Köpeavtal ska upprättas när bolaget tagit fram skisser som uppfyller detaljplanens
 bestämmelser, gestaltningsprinciper, parkeringstal m.m.
 
 Enligt samhällsbyggnadskontorets bedömning uppfyller Maxemals ansökan om bygglov inte punkt
@@ -5036,15 +5036,15 @@ efter en kostnadseffektiv planprocess. Detaljplanen förväntas följa uppsatt t
 
 PROJEKTETS  LEVERANSER
 Projektet kommer att ha följande leveranser:
-1. Projektbeställning
+1\. Projektbeställning
 
-2. Projektplan
-3. Plankostnadsavtal
+2\. Projektplan
+3\. Plankostnadsavtal
 
-4. Samrådshandlingar
-5. Granskningshandlingar
+4\. Samrådshandlingar
+5\. Granskningshandlingar
 
-6. Antagandehandlingar
+6\. Antagandehandlingar
 
 BERÖRINGSPUNKTER
 Det pågår ett arbete inom kommunen med att ta fram ett program för ”Framtidens hälsa, vård och
@@ -5142,7 +5142,7 @@ Kommunstyrelsen Datum
 
 2020-01-21
 
-$4 Dnr 2019-00667
+\$4 Dnr 2019-00667
 Ansökan om planbesked för Skörvalla 1:116
 
 Beslut
@@ -5183,13 +5183,13 @@ Skörvallabäcken och av det utökade strandskyddet från havet.
 Området föreslås angöras från Västra Särövägen, via Bukärrsvägen, där Trafikverket
 är väghållare. Kommunen har tillsammans med Trafikverket under 2019 gjort en
 åtgärdsvalsstudie för Västra Särövägen. Slutlig rapport förväntas vid årsskiftet 2019—
-2020.
+2020\.
 
 Kommunstyrelsen har i augusti 2016 lämnat avslag på en ansökan om planbesked
 inom fastigheten Skörvalla 1:116. Den ansökan liknade den som nu är aktuell.
 
 Beslutsunderlag
-Kommunstyrelsens arbetsutskott 2019-12-10, $ 415
+Kommunstyrelsens arbetsutskott 2019-12-10, \$ 415
 
 Justerare
 
@@ -5649,7 +5649,7 @@ med förfrågan är att genom planförfarande möjliggöra för befintlig bebygg
 planenlig. Den politiska behandlingen av ansökan har avvaktats på sökandets
 begäran.
 Fastigheterna är belägna inom detaljplan S71 som vann laga kraft den 26 oktober
-1966. De aktuella fastigheterna är i plankartan redovisade som kvartersmark för
+1966\. De aktuella fastigheterna är i plankartan redovisade som kvartersmark för
 bostäder. I planbeskrivningen omnämns fastigheterna med beteckningarna BF1 vilket
 innebär att de får förses med bostadsbebyggelse samt att endast en huvudbyggnad får
 uppföras. Stor del av området består av prickad mark vilket innebär att marken inte
@@ -6001,7 +6001,7 @@ som kan bidra till en överflyttning av gods från väg till järnväg. En vikti
 0tt.e2k
 .nva
 glBn
-i_
+i\_
 rallalkm
 a
 o
@@ -6445,7 +6445,7 @@ kt
 u
 2
 r
--
+\-
 e
 2
 n
@@ -6607,7 +6607,7 @@ Göteborg 2024-             Kungsbacka 2024-
 0tt.e2k
 .nva
 glBn
-i_
+i\_
 rallalkm
 röd        Rebecca Brembeck          Lisa Andersson
 fns
@@ -7128,7 +7128,7 @@ huvudmannaskap i området eller i direkt anslutning till området.
 
 <!-- sida 169 -->
 
-3.
+3\.
 
 3.1
 
@@ -7136,7 +7136,7 @@ huvudmannaskap i området eller i direkt anslutning till området.
 
 4.2
 
-26)
+26\)
 Grundläggande och projektspecifika villkor
 För markanvisningen gäller följande för projektet grundläggande villkor:
 = - Området ska överlåtas till Eksta med äganderätt.
@@ -7320,13 +7320,13 @@ Ts2
 
 9.1
 
-10.
+10\.
 
 10.1
 
-11.
+11\.
 
-12.
+12\.
 
 12.1
 
@@ -7913,7 +7913,7 @@ medlemskommunerna tillfälle att yttra sig över ett samrådsunderlag
 avseende budget för nästkommande år. Inför år 2025 har förslag till
 samrådsunderlag inför beslut kring rambudget tagits fram.
 Medlemskommunernas synpunkter ska vara GR tillhanda senast 17 april
-2024. Beslut fattas i förbundsstyrelsen 24 maj och i förbundsfullmäktige
+2024\. Beslut fattas i förbundsstyrelsen 24 maj och i förbundsfullmäktige
 11 juni.
 Beslutsunderlag
 Tjänsteskrivelse daterad 24 januari 2024.
@@ -8697,7 +8697,7 @@ Kungsbacka kommun ser det som positivt att statligt stöd och ersättning erbjud
 huvudmannen att inkorporera kompetensutvecklande insatser i det systematiska kvalitetsarbetet.
 Däremot bedömer Kungsbacka kommun att de ekonomiska förutsättningarna för
 kompetensförstärkning som föreslås, behöver tydliggöras ytterligare.
-13)
+13\)
 Kommunstyrelsen Kungsbacka kommun
 434 81 Kungsbacka
 
@@ -9389,7 +9389,7 @@ Datum
 
 § 28                       Dnr KFT-2024-00030
 Begäran om yttrande - Betänkande från Narkotikautredningen (KS 2024-
-00081)
+00081\)
 
 Beslut
 Nämnden för Kultur & Fritid avger yttrande på remiss av Socialdepartementets
@@ -11133,22 +11133,22 @@ Kriterier
 
 För att vara berättigad att erhålla stipendiet ska den sökande vara:
 
--  elev på Vård- och omsorgsprogrammet eller på GLA (Gymnasial
+\-  elev på Vård- och omsorgsprogrammet eller på GLA (Gymnasial
 lärlingsanställning) och läsa vård- och omsorg på Kungsbacka
 gymnasieskolor.
 
--  vara folkbokförd i Kungsbacka kommun.
--  nå en yrkesexamen (gymnasieexamen) under tre år alternativt fyra år i de
+\-  vara folkbokförd i Kungsbacka kommun.
+\-  nå en yrkesexamen (gymnasieexamen) under tre år alternativt fyra år i de
 fall där rektor fattat beslut om ett fjärde år på gymnasiet.
 
--  ta sitt körkort senast under samma kalenderår som eleven avslutar
+\-  ta sitt körkort senast under samma kalenderår som eleven avslutar
 gymnasiestudierna. För elever som gått ett fjärde år krävs att de tar sitt
 körkort senast den dag de skrivs ut från gymnasieskolan.
--  under sin utbildning på gymnasiet ej ha omfattats av upprepade disciplinära
+\-  under sin utbildning på gymnasiet ej ha omfattats av upprepade disciplinära
 åtgärder av allvarligare karaktär enligt 5 kap skollagen. Bedömning görs
 enskilt för varje elev.
 
--  anställningskontrakt på en tim-, visstid- eller tillsvidareanställning inom vård
+\-  anställningskontrakt på en tim-, visstid- eller tillsvidareanställning inom vård
 och omsorg hos både kommunala och privata arbetsgivare i Kungsbacka
 senast under samma kalenderår som examen avlagts.
 
@@ -12334,7 +12334,7 @@ att genomföra utredning kring möjligheterna att anlägga ställplatser för hu
 Kungsbacka stad. Kommunfullmäktige uppdrog 2022-02-08 åt nämnden för Teknik att utreda detta.
 Förvaltningen för Teknik har nu tillsammans med berörda systerförvaltningar genomfört utredning i
 frågan och föreslår att ställplats för husbilar anordnas inom Inlagsby 1:1 med start till sommarsäsongen
-2024. Platserna beläggs med avgift vilken beslutas om i särskild ordning vid nämnden för Tekniks
+2024\. Platserna beläggs med avgift vilken beslutas om i särskild ordning vid nämnden för Tekniks
 
 arbetsutskott.
 
@@ -12671,14 +12671,14 @@ finns skäl att riktlinjen tydliggör ansvar och processarbete på ett mer detal
 I den nya riktlinjen tydliggörs vilka delar som ska ingå i det systematiska
 informationssäkerhetsarbetet:
 
-- Identifiera och analysera tillgångar, krav och risker. Varje förvaltning ska arbeta med behovsanalys
+\- Identifiera och analysera tillgångar, krav och risker. Varje förvaltning ska arbeta med behovsanalys
 för att säkerställa att arbetet med informationssäkerhet utformas med utgångspunkt i ett tydligt
 definierat nuläge
 
-- Förvaltningarna ska utforma informationssäkerhetsarbetet utifrån resultatet av behovsanalysen och
+\- Förvaltningarna ska utforma informationssäkerhetsarbetet utifrån resultatet av behovsanalysen och
 på så sätt fastställa säkerhetsåtgärder och prioriteringar för sitt informationssäkerhetsarbete. I
 tillägg ska en tydlig organisation skapas
-- Förvaltningarna ska arbeta med resultatet av analysen och behovet av säkerhetsåtgärder på ett
+\- Förvaltningarna ska arbeta med resultatet av analysen och behovet av säkerhetsåtgärder på ett
 riskbaserat sätt samt systematiskt följa upp och förbättra.
 
 Riktlinjen tydliggör också vikten av att skapa en stark informationssäkerhetskultur där en engagerad
@@ -12690,9 +12690,9 @@ underhåll av externa IT-resurser samt kontinuitetshantering för IT-resurser la
 Kommunstyrelsens arbetsutskott behandlade riktlinjen på sitt sammanträde den 12 december 2023.
 Utskottet återremitterade då ärendet och ville att riktlinjerna skulle konkretiseras. Kommunstyrelsens
 förvaltning har efter återremitteringen gjort följande:
-- Förkortat och förenklat för att på så sätt fått en mer lättläst och stringent text
+\- Förkortat och förenklat för att på så sätt fått en mer lättläst och stringent text
 
-- Förtydligat roller och ansvar samt förväntade insatser och åtgärder.
+\- Förtydligat roller och ansvar samt förväntade insatser och åtgärder.
 
 Malin Aronsson                     Anders Johansson
 
@@ -12719,10 +12719,10 @@ digitalisering, med särskilt fokus på medborgarnas rättigheter och personliga
 
 Kommunen ska säkerställa att samtliga informationstillgångar:
 
--  skyddas för obehörig insyn och manipulation (konfidentialitet)
+\-  skyddas för obehörig insyn och manipulation (konfidentialitet)
 
--  är tillförlitliga, korrekta och fullständiga (riktighet)
--  är nåbara vid rätt tillfälle (tillgänglighet)
+\-  är tillförlitliga, korrekta och fullständiga (riktighet)
+\-  är nåbara vid rätt tillfälle (tillgänglighet)
 
 God informationssäkerhetskultur
 Kommunens informationssäkerhetskultur ska vara en naturlig del av verksamheten och
@@ -12864,17 +12864,17 @@ verksamheten.
 Anskaffning, utveckling och underhåll av externa IT-resurser
 
 Varje förvaltning ska inför anskaffning av förvaltningsspecifika externa IT-resurser:
--  klassa informationen som ska hanteras i tjänsten och analysera
+\-  klassa informationen som ska hanteras i tjänsten och analysera
 
 informationssäkerhetsrisker för det som ska anskaffas
--  ställa krav på den kontrakterade parten utifrån informationsklassningen och
+\-  ställa krav på den kontrakterade parten utifrån informationsklassningen och
 riskanalysens resultat
 
--  följa upp att de ställda kraven är ändamålsenliga och tillräckliga
+\-  följa upp att de ställda kraven är ändamålsenliga och tillräckliga
 
--  följa upp om den kontrakterade parten har infört de säkerhetsåtgärder som avtalats
+\-  följa upp om den kontrakterade parten har infört de säkerhetsåtgärder som avtalats
 och att dessa följer med under hela avtalsperioden
--  införa säkerhetsåtgärder som den egna organisationen ska utföra utifrån
+\-  införa säkerhetsåtgärder som den egna organisationen ska utföra utifrån
 informationsklassningen
 
 Vid anskaffning av kommunövergripande IT-resurser ansvarar Kommunstyrelsens förvaltning
@@ -12955,11 +12955,11 @@ kommun samt vilka de prioriterade områdena är för arbetet med
 informationssäkerhet. Fokus ligger på god informationssäkerhetskultur och
 systematiskt informationssäkerhetsarbete. De prioriterade områdena är:
 
--  Informationsklassificering
--  Information och utbildning
+\-  Informationsklassificering
+\-  Information och utbildning
 
--  Incidenthantering och rapportering
--  Anskaffning, utveckling och underhåll av externa IT-resurser samt
+\-  Incidenthantering och rapportering
+\-  Anskaffning, utveckling och underhåll av externa IT-resurser samt
 kontinuitetshantering för IT-resurser.
 
 Det systematiska informationssäkerhetsarbetet som beskrivs i riktlinjerna stödjer
@@ -13193,21 +13193,21 @@ behöver inkluderas vid anskaffning, utveckling och underhåll av externa IT-res
 Inför anskaffning av externa IT-resurser ska följande genomföras:
 Varje förvaltning ska inför anskaffning av förvaltningsspecifika externa IT-resurser:
 
--  klassa informationen som ska hanteras i tjänsten och analysera informationssäkerhetsrisker
+\-  klassa informationen som ska hanteras i tjänsten och analysera informationssäkerhetsrisker
 för det som ska anskaffas
 
--  ställa krav på den kontrakterade parten utifrån informationsklassningen och riskanalysens
+\-  ställa krav på den kontrakterade parten utifrån informationsklassningen och riskanalysens
 resultat
--  följa upp att de ställda kraven är ändamålsenliga och tillräckliga
+\-  följa upp att de ställda kraven är ändamålsenliga och tillräckliga
 
--  följa upp om den kontrakterade parten har infört de säkerhetsåtgärder som avtalats och att
+\-  följa upp om den kontrakterade parten har infört de säkerhetsåtgärder som avtalats och att
 dessa följer med under hela avtalsperioden
 
 Riktlinjer för infor mationssäkerhet Sida 4 av 6
 
 <!-- sida 320 -->
 
--  införa säkerhetsåtgärder som den egna organisationen ska utföra utifrån
+\-  införa säkerhetsåtgärder som den egna organisationen ska utföra utifrån
 informationsklassningen
 Vid anskaffning av kommunövergripande IT-resurser ansvarar Kommunstyrelsens förvaltning för
 
@@ -13449,7 +13449,7 @@ KUNGSBACKA  KOMMUN
 
 Resultatfonder
 
-* Gymnasium & Arbetsmarknad samt Kultur & Fritid når taket för resultatfondens storlek 2023 som justerats.
+\* Gymnasium & Arbetsmarknad samt Kultur & Fritid når taket för resultatfondens storlek 2023 som justerats.
 Nämndernas inlämnade förslag innebär en minskning av resultatfonderna med 64 194 000 kronor.
 
 Efter genomgång föreslås minskningen bli 76 190 000 kronor. Nämndernas ingående resultatfonder
@@ -13467,7 +13467,7 @@ resultatfonder 2024 till 472 159 000 kronor.
 
 | Nämnd/Styrelse<br>Belopp i tusentals kronor | IB 2023 | Bokslut<br>2023 | Nämndens<br>begäran | Förslag | Förslag UB<br>2023 |
 | --- | --- | --- | --- | --- | --- |
-| 10 Kommunfullmäktige<br>11 Kommunstyrelsen<br>15 Kommunrevision<br>19 Valnämnden<br>20 Gymnasium & Arbetsmarknad*<br>30 Kultur & Fritid*<br>40 Förskola & Grundskola<br>50 Teknik Skatt<br>71 Miljö & Hälsoskydd<br>73 Byggnadsnämnden<br>81 Individ & Familjeomsorg<br>85 Vård & Omsorg<br>60 Service<br>63 Service Fastigheter<br>Finans | 0<br>0<br>0<br>0<br>79 046<br>31 591<br>161 290<br>9 094<br>0<br>1 549<br>37 512<br>102 359<br>35 452<br>79 191<br>11 266 | 1 459<br>2 041<br>274<br>774<br>13 255<br>583<br>-44 350<br>-4 754<br>333<br>1 870<br>-14 877<br>12 519<br>-10 524<br>-10 452<br>264 677 | 0<br>0<br>0<br>0<br>0<br>0<br>-37 718<br>-4 754<br>0<br>1 037<br>-14 877<br>5 897<br>-10 524<br>-3 255<br>0 | 0<br>0<br>0<br>0<br>-4 849<br>-515<br>-44 350<br>-4 754<br>0<br>1 037<br>-14 877<br>5 897<br>-10 524<br>-3 255<br>0 | 0<br>0<br>0<br>0<br>74 197<br>31 076<br>116 940<br>4 340<br>0<br>2 586<br>22 635<br>108 256<br>24 928<br>75 936<br>11 266 |
+| 10 Kommunfullmäktige<br>11 Kommunstyrelsen<br>15 Kommunrevision<br>19 Valnämnden<br>20 Gymnasium & Arbetsmarknad\*<br>30 Kultur & Fritid\*<br>40 Förskola & Grundskola<br>50 Teknik Skatt<br>71 Miljö & Hälsoskydd<br>73 Byggnadsnämnden<br>81 Individ & Familjeomsorg<br>85 Vård & Omsorg<br>60 Service<br>63 Service Fastigheter<br>Finans | 0<br>0<br>0<br>0<br>79 046<br>31 591<br>161 290<br>9 094<br>0<br>1 549<br>37 512<br>102 359<br>35 452<br>79 191<br>11 266 | 1 459<br>2 041<br>274<br>774<br>13 255<br>583<br>-44 350<br>-4 754<br>333<br>1 870<br>-14 877<br>12 519<br>-10 524<br>-10 452<br>264 677 | 0<br>0<br>0<br>0<br>0<br>0<br>-37 718<br>-4 754<br>0<br>1 037<br>-14 877<br>5 897<br>-10 524<br>-3 255<br>0 | 0<br>0<br>0<br>0<br>-4 849<br>-515<br>-44 350<br>-4 754<br>0<br>1 037<br>-14 877<br>5 897<br>-10 524<br>-3 255<br>0 | 0<br>0<br>0<br>0<br>74 197<br>31 076<br>116 940<br>4 340<br>0<br>2 586<br>22 635<br>108 256<br>24 928<br>75 936<br>11 266 |
 | Totalt | 548 349 | 212 828 | -64 194 | -76 190 | 472 159 |
 
 <!-- sida 328 -->
@@ -13500,7 +13500,7 @@ Ombudgetering och omplanering av investeringar och exploateringar till 2024 och 
 
 Från nämnderna har inkommit begäran om ombudgetering av sammanlagt 553 197 000 kronor för
 pågående projekt. Förslaget omfattar 491 824 000 kronor till år 2024 och 61 373 000 kronor till år
-2025.
+2025\.
 Kommunstyrelsens förvaltning föreslår att totalt 438 329 000 kronor kan ombudgeteras, varav
 437 829 000 kronor till år 2024 och 500 000 kronor till år 2025. Löpande investeringar ombudgeteras
 inte.
@@ -13591,7 +13591,7 @@ KUNGSBACKA  KOMMUN
 
 Belopp i tusentals kronor
 
-*Exploateringserättningar redovisas som en intäkt det år de uppkommer i enlighet med gällande redovisningsregler.
+\*Exploateringserättningar redovisas som en intäkt det år de uppkommer i enlighet med gällande redovisningsregler.
 
 Malin Aronsson                Anders Johansson
 Kommundirektör                Biträdande kommundirektör
@@ -13605,7 +13605,7 @@ Kommundirektör                Biträdande kommundirektör
 | Lokaler | 377 706 | 160 716 | 0 | 0 | 0 | 538 422 | 0 |
 | Avgiftsfinansierad<br>verksamhet | 532 337 | 50 553 | 60 873 | -54 627 | -60 873 | 528 263 | 0 |
 | Delsumma | 1 111 401 | 269 861 | 61 373 | -53 995 | -60 873 | 1 327 267 | 500 |
-| Exploaterings-<br>investeringar och<br>omsättnings-<br>tillgångar * | -104 500 | 221 963 | 0 | 0 | 0 | 117 463 | 0 |
+| Exploaterings-<br>investeringar och<br>omsättnings-<br>tillgångar \* | -104 500 | 221 963 | 0 | 0 | 0 | 117 463 | 0 |
 | Summa totalt | 1 006 901 | 491 824 | 61 373 | -53 995 | -60 873 | 1 444 730 | 500 |
 
 <!-- sida 332 -->
@@ -14408,7 +14408,7 @@ ombudget  nämndernas nämndernas budget budget
 
 <!-- sida 350 -->
 
-*Behålla del av årets budget med 50 000 tkr som totalt är på 104 627 tkr. Det är det 50 000 tkr som beräknas förbrukas under 2024.
+\*Behålla del av årets budget med 50 000 tkr som totalt är på 104 627 tkr. Det är det 50 000 tkr som beräknas förbrukas under 2024.
 
 <!-- sida 351 -->
 
@@ -15375,12 +15375,12 @@ KUNGSBACKA  KOMMUN
 Nuläge
 
 Gällande lokala ordningsföreskrifter för torghandel, ibland benämnda torgstadga, tillåter torghandel på
-* de mest centrala områdena på Kungsbacka torg helgfria tisdagar och fredagar klockan 08:00-18:00
+\* de mest centrala områdena på Kungsbacka torg helgfria tisdagar och fredagar klockan 08:00-18:00
 
-* norra delen av Lindens torg samtliga helgfria dagar klockan 08:00-18:00, med undantag för första
+\* norra delen av Lindens torg samtliga helgfria dagar klockan 08:00-18:00, med undantag för första
 helgfria torsdagen varje månad (månadsmarknad)
 
-* övriga delar av Kungsbacka torg, resterande delar av Lindens torg samt Södra Torggatan mellan
+\* övriga delar av Kungsbacka torg, resterande delar av Lindens torg samt Södra Torggatan mellan
 Kyrkogatan och Östergatan, första helgfria torsdagen varje månad klockan 08:00-15:00
 Nuvarande regelverk inte är fullt ut tillåtande utan det finns en stor del av veckans helgfria dagar när
 regelverket inte tillåter torghandel. Om en försäljare idag vill sälja en dag när det inte är torghandel så
@@ -15460,10 +15460,10 @@ Roger Larsson (KB) har inkommit med en motion som väcktes i kommunfullmäktige
 den 9 november 2021. Motionären vill kommunfullmäktige ska besluta att det på
 Kungsbacka torg ska tillåtas:
 
-1. Marknad första helgfria torsdagen i månaden
-2. Torghandel minst varje helgfri fredag
+1\. Marknad första helgfria torsdagen i månaden
+2\. Torghandel minst varje helgfri fredag
 
-3. Finns intresse bör torget utnyttjas alla övriga helgfria vardagar för handeln eller
+3\. Finns intresse bör torget utnyttjas alla övriga helgfria vardagar för handeln eller
 annan aktivitet som skapar liv och rörelse i Innerstaden.
 
 Beslutsunderlag
@@ -15533,15 +15533,15 @@ Kungsbackaborna önskar att kommunen beslutar:
 
 att det på Kungsbackatorg skall tillåtas
 
-1. Marknad 1: a helgfria torsdagen i varje månad.
+1\. Marknad 1: a helgfria torsdagen i varje månad.
 
-2. Torghandel minst varje helgfri fredag
+2\. Torghandel minst varje helgfri fredag
 
-3. Finns intresse bör torget utnyttjas alla övriga
+3\. Finns intresse bör torget utnyttjas alla övriga
 helgfria vardagar för handel eller annan aktivitet
 
 (om skgar liv och rörelge i innerstaden
--
+\-
 ga OC VA
 
 Roger Larsson
@@ -15904,7 +15904,7 @@ samma sätt. Motionärerna framhåller att vissa av de gamla byarna i kommunen �
 försedda med vägskyltar som talar om var byn börjar och slutar men att vissa byar
 saknar sådana skyltar. Motionärerna menar att det vore önskvärt att alla byar
 presenteras på samma sätt. Motionen hanterades av Kommunfullmäktige 2023-09-
-12.
+12\.
 
 Yrkandet i motionen ligger inte inom förvaltningens för Tekniks ansvarsområde
 eftersom kommunen inte är väghållare där det kan vara aktuellt med ortsskyltar
@@ -16227,7 +16227,7 @@ alla byar presenteras på samma sätt. Idag är det svårt att hitta logiken i s
 
 Vi yrkar därför att:
 
-- - komplettering påbörjas så att namnskyltar sätts upp vid större byar
+\- - komplettering påbörjas så att namnskyltar sätts upp vid större byar
 
 Per Gunnarsson, Ledamot Kommunfullmäktige
 
@@ -16535,18 +16535,18 @@ synen på värdet av personers insatser kan omvärderas över tid. Dock finns m�
 kommunens vägnamn.
 De senaste vägnamnen som Byggnadsnämnden beslutat om anspelar alla på något historiskt i området:
 
-1. I Björkris 2 är sju nya vägnamn uppkallades efter två gamla gårdar, samt fem mossar som ligger i
+1\. I Björkris 2 är sju nya vägnamn uppkallades efter två gamla gårdar, samt fem mossar som ligger i
 området.
 
-2. I Må 3:13 i Fjärås är fyra nya vägnamn uppkallade efter en känd äppelodling som legat där och efter
+2\. I Må 3:13 i Fjärås är fyra nya vägnamn uppkallade efter en känd äppelodling som legat där och efter
 äppelsorter som odlats där.
-3. I Köpstaden 1:2 i Onsala finns namnet Backens Gårdsväg som härrör från det gamla namnet Backen
+3\. I Köpstaden 1:2 i Onsala finns namnet Backens Gårdsväg som härrör från det gamla namnet Backen
 
 på Köpstaden 1:2.
-4. I Frillesås-Rya 2:1 finns namnet Boställets väg som härrör från en av Frillesås största gårdar från
+4\. I Frillesås-Rya 2:1 finns namnet Boställets väg som härrör från en av Frillesås största gårdar från
 1700-talet.
 
-5. I Gällinge-Skår finns Markamursvägen som härrör från en kulturhistorisk gräns mellan områdena
+5\. I Gällinge-Skår finns Markamursvägen som härrör från en kulturhistorisk gräns mellan områdena
 som kallades Markamuren.
 Eftersom byggnadsnämnden redan arbetar så som motionärerna föreslår, anser byggnadsnämnden att
 motionen ska avslås.
@@ -16667,7 +16667,7 @@ enhetliga utan att vara anonyma. Björkris och Varlaplatån som nämnts ovan är
 
 Vi yrkar därför att:
 
-- Kommunfullmäktige beslutar att nya gatunamn vid nybyggnation så långt det är möjligt bör
+\- Kommunfullmäktige beslutar att nya gatunamn vid nybyggnation så långt det är möjligt bör
 spegla historien i Kungsbacka och gärna i det aktuella området
 
 Per Gunnarsson, Ledamot Kommunfullmäktige

@@ -100,11 +100,11 @@ Vision - Elise Holmberg
 
 Plats och tid: VM Lagan 2024-08-13 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 Nytt utkast till protokoll för mötet 2024-06-04 är utskickat och läggs i underskriftsportalen för digital
 signering.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 
 Arbetsgivaren redovisar ärenden inför arbetsutskott och nämndsammanträde i augusti.
 
@@ -127,7 +127,7 @@ KUNGSBACKA  KOMMUN
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 IST fungerar på alla skolor även på Maleviksskolan, Särö skola och Kollaskolan.
 
 Tilläggsbudget på 500 Mkr, sammanlagt 4,8 Mkr varav 3,4 Mkr ska gå till Förskola & Grundskola.
@@ -141,19 +141,19 @@ för chefer och medarbetare (valbara och obligatoriska).
 
 Beslut: Att anteckna informationen.
 
-4. Stabsorganisation (om aktuellt)
+4\. Stabsorganisation (om aktuellt)
 
 Ny registrator efter Reneé Rydberg som går i pension 30 september. Fredrik Ajell kommer att ersätta
 Reneé och har börjat sin anställning.
 
 Beslut: Att anteckna informationen.
 
-5. Nya PRAO, Anneli Sackelius, utvecklare Kvalitet och Utveckling
+5\. Nya PRAO, Anneli Sackelius, utvecklare Kvalitet och Utveckling
 Information kring det nya upplägget av prao som gäller från och med vårterminen 2025.
 
 Beslut: Att anteckna informationen.
 
-6. Sätta betyg för en kollega som är obehörig enligt skollag (Sv lärare från juni)
+6\. Sätta betyg för en kollega som är obehörig enligt skollag (Sv lärare från juni)
 Sveriges lärare vill veta hur det funkar när betygssättande lärare ska sätta betyg för obehörig, hur blir
 det rätt utifrån gällande lagstiftning?
 
@@ -174,7 +174,7 @@ frågan inför planering av kategoriträff med rektorerna för grundskolan.
 
 Beslut: Dialog/ information
 
-7. Studiedagar (Sveriges lärare)
+7\. Studiedagar (Sveriges lärare)
 Sveriges lärare undrar varför antalet studiedagar detta läsår är fyra stället för fem.
 
 Arbetsgivarens svar: Enligt skollagen så får förvaltningen lägga ut max fem studiedagar under ett
@@ -190,7 +190,7 @@ tar beslut om studiedag i maj och det får man som rektor inkomma med skriftlig 
 
 Beslut: Dialog/ information
 
-8. Hur väcker vi ett ärende för förvaltningssamverkan? (Sveriges skolledare)
+8\. Hur väcker vi ett ärende för förvaltningssamverkan? (Sveriges skolledare)
 
 Fråga från Sveriges Skolledare.
 Arbetsgivarens svar; Man skriver in sin fråga i dagordning i samarbetsrummet och om vi kan bereda
@@ -199,7 +199,7 @@ samarbetsrummet.
 
 Beslut: Dialog/ information
 
-9. Tidig info/dialog
+9\. Tidig info/dialog
 Lokalutredning och lokalkoncept.
 Det är lägligt att ta frågan för beslut i september på FSG eftersom den ska upp på nämnd i oktober.
 Vi får boka in ett extra möte för information där frågan förhandlas.
@@ -234,7 +234,7 @@ Sofia Kareliusson                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 Skolledare
@@ -243,7 +243,7 @@ Ronnie Ripgården                    Kristin Arplöw
 
 Vision                              Vårdförbundet
 
--                                   Anne Melin
+\-                                   Anne Melin
 
 <!-- sida 7 -->
 
@@ -323,7 +323,7 @@ KUNGSBACKA  KOMMUN
 
 Beslutet skickas till
 
--
+\-
 
 Beskrivning av ärendet
 
@@ -667,10 +667,10 @@ Förvaltningen bedömer utifrån ovanstående att utökning av en ny dagbarnvår
 Rättslig reglering
 
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
@@ -696,100 +696,100 @@ Förvaltningschef              Utredare Myndighet & stöd
 
 Anteckn.ID Anteckn. hänBdeeslsluettsidfattare Beslut             Antecknings titel
 A 9.3 Beslut om utökad vistelsetid eller
-198126011 2024-08-05 1R1e:0kt2o:0r 0Maria Franzén *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+198126011 2024-08-05 1R1e:0kt2o:0r 0Maria Franzén \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 Beslut om utökad vistelsetid eller
-190237919 2024-08-06 0R9e:0kt1o:0r 0Anna Palmås *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+190237919 2024-08-06 0R9e:0kt1o:0r 0Anna Palmås \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 Beslut om utökad vistelsetid eller
-193175835 2024-08-12 0R8e:5kt3o:0r 0Daniel Alfredsson *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+193175835 2024-08-12 0R8e:5kt3o:0r 0Daniel Alfredsson \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 
 Beslut om utökad vistelsetid eller
-193184282 2024-08-12 1R0e:1kt8o:0r 0Anja Hörnlund *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+193184282 2024-08-12 1R0e:1kt8o:0r 0Anja Hörnlund \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 Beslut om utökad vistelsetid eller
-194711812 2024-08-14 1R0e:5kt6o:0r 0Anna Palmås *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+194711812 2024-08-14 1R0e:5kt6o:0r 0Anna Palmås \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 Beslut om utökad vistelsetid eller
-194757778 2024-08-14 1R5e:4kt6o:0r 0Anna Eriksson *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+194757778 2024-08-14 1R5e:4kt6o:0r 0Anna Eriksson \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 Beslut om utökad vistelsetid eller
-194821324 2024-08-15 1R1e:4kt7o:0r 0Ann-Sofie Mellerot *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+194821324 2024-08-15 1R1e:4kt7o:0r 0Ann-Sofie Mellerot \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 
 Beslut om utökad vistelsetid eller
-194833319 2024-08-15 1R3e:2kt9o:0r 0Maria Gustafsson *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+194833319 2024-08-15 1R3e:2kt9o:0r 0Maria Gustafsson \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 Beslut om utökad vistelsetid eller
-194834226 2024-08-15 1R3e:3kt6o:0r 0Maria Gustafsson *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+194834226 2024-08-15 1R3e:3kt6o:0r 0Maria Gustafsson \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 Beslut om utökad vistelsetid eller
-194926525 2024-08-16 1R0e:4kt9o:0r 0Niklas Nyqvist *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+194926525 2024-08-16 1R0e:4kt9o:0r 0Niklas Nyqvist \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 Beslut om utökad vistelsetid eller
-194947051 2024-08-16 1R3e:4kt1o:0r 0Kristofer Skogholm *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+194947051 2024-08-16 1R3e:4kt1o:0r 0Kristofer Skogholm \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 Beslut om utökad vistelsetid eller
 
-195037224 2024-08-19 0R9e:2kt8o:0r 0Niklas Nyqvist *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+195037224 2024-08-19 0R9e:2kt8o:0r 0Niklas Nyqvist \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 Beslut om utökad vistelsetid eller
-195054467 2024-08-19 1R0e:5kt8o:0r 0Anna Ramström *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+195054467 2024-08-19 1R0e:5kt8o:0r 0Anna Ramström \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 Beslut om utökad vistelsetid eller
-195683199 2024-08-19 1R5e:1kt7o:0r 0Niklas Nyqvist *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+195683199 2024-08-19 1R5e:1kt7o:0r 0Niklas Nyqvist \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 Beslut om utökad vistelsetid eller
-195685422 2024-08-19 1R5e:3kt0o:0r 0Niklas Nyqvist *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+195685422 2024-08-19 1R5e:3kt0o:0r 0Niklas Nyqvist \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 
 <!-- sida 20 -->
 
 Beslut om utökad vistelsetid eller
-195446670 2024-08-20 1R5e:0kt7o:0r 0Daniel Alfredsson *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+195446670 2024-08-20 1R5e:0kt7o:0r 0Daniel Alfredsson \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 Beslut om utökad vistelsetid eller
-195533910 2024-08-21 1R1e:4kt9o:0r 0Anna Palmås *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+195533910 2024-08-21 1R1e:4kt9o:0r 0Anna Palmås \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 Beslut om utökad vistelsetid eller
-195540330 2024-08-21 1R2e:3kt4o:0r 0Kristofer Skogholm *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+195540330 2024-08-21 1R2e:3kt4o:0r 0Kristofer Skogholm \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 A 9.3 Beslut om utökad vistelsetid eller
 
-197022339 2024-08-26 1R2e:2kt8o:0r 0Eva-Lena Edelborg *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+197022339 2024-08-26 1R2e:2kt8o:0r 0Eva-Lena Edelborg \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 A 9.3 Beslut om utökad vistelsetid eller
-197118237 2024-08-26 1R5e:4kt8o:0r 0Ingela Åstrand *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+197118237 2024-08-26 1R5e:4kt8o:0r 0Ingela Åstrand \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 A 9.3 Beslut om utökad vistelsetid eller
-197122247 2024-08-26 1R6e:0kt6o:0r 0Ingela Åstrand *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+197122247 2024-08-26 1R6e:0kt6o:0r 0Ingela Åstrand \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 A 9.3 Beslut om utökad vistelsetid eller
-197126188 2024-08-26 1R6e:2kt4o:0r 0Ingela Åstrand *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+197126188 2024-08-26 1R6e:2kt4o:0r 0Ingela Åstrand \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 A 9.3 Beslut om utökad vistelsetid eller
 
-197185472 2024-08-27 0R9e:4kt3o:0r 0Otto Bergman *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+197185472 2024-08-27 0R9e:4kt3o:0r 0Otto Bergman \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 A 10.2 Beslut om utökad vistelsetid eller
-197230742 2024-08-27 1R1e:2kt3o:0r 0Anna Palmås *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+197230742 2024-08-27 1R1e:2kt3o:0r 0Anna Palmås \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 A 9.3 Beslut om utökad vistelsetid eller
-197245802 2024-08-27 1R2e:1kt5o:0r 0Otto Bergman *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+197245802 2024-08-27 1R2e:1kt5o:0r 0Otto Bergman \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 A 9.3 Beslut om utökad vistelsetid eller
-197263916 2024-08-27 1R3e:1kt4o:0r 0Otto Bergman *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+197263916 2024-08-27 1R3e:1kt4o:0r 0Otto Bergman \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 A 10.2 Beslut om utökad vistelsetid eller
-197332875 2024-08-27 1R6e:2kt8o:0r 0Linda Johansson *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+197332875 2024-08-27 1R6e:2kt8o:0r 0Linda Johansson \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 
 A 9.3 Beslut om utökad vistelsetid eller
-197354259 2024-08-28 0R7e:2kt2o:0r 0Eva-Lena Edelborg *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+197354259 2024-08-28 0R7e:2kt2o:0r 0Eva-Lena Edelborg \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 A 9.3 Beslut om utökad vistelsetid eller
-197408881 2024-08-28 1R0e:4kt8o:0r 0Eva-Lena Edelborg *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+197408881 2024-08-28 1R0e:4kt8o:0r 0Eva-Lena Edelborg \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 A 9.3 Beslut om utökad vistelsetid eller
-197479451 2024-08-28 1R3e:5kt0o:0r 0Anna Eriksson *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+197479451 2024-08-28 1R3e:5kt0o:0r 0Anna Eriksson \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 
 <!-- sida 21 -->
 
 A 9.3 Beslut om utökad vistelsetid eller
-197541826 2024-08-28 1R6e:3kt5o:0r 0Kristofer Skogholm *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+197541826 2024-08-28 1R6e:3kt5o:0r 0Kristofer Skogholm \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 Utvecklingsledare Bertil                         A 3.1 A 3.2 Beslut om mottagande i anpassad grundskola
 198072677 2024-09-02 0L9ju:2n4g:b0l0ad                           och huvudsaklig inriktning
 A 10.2 Beslut om utökad vistelsetid eller
-198121397 2024-09-02 1R0e:5kt3o:0r 0Anna Palmås *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+198121397 2024-09-02 1R0e:5kt3o:0r 0Anna Palmås \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 Utvecklingsledare Bertil                         A 3.1 A 3.2 Beslut om mottagande i anpassad grundskola
 
 198138941 2024-09-02 1L1ju:2n0g:b0l0ad                           och huvudsaklig inriktning
-*A 9.4 Avgiftsbefrielse gäller för vistelse på A 9.3 A 9.4 Beslut om utökad vistelsetid eller
+\*A 9.4 Avgiftsbefrielse gäller för vistelse på A 9.3 A 9.4 Beslut om utökad vistelsetid eller
 198368911 2024-09-03 0R8e:2kt7o:0r 0Anna Eriksson förskolan      nedsättning/avskrivning av avgift i FSK
 Utvecklingsledare Bertil                         A 3.1 A 3.2 Beslut om mottagande i anpassad grundskola
 198384183 2024-09-03 0L8ju:5n6g:b0l0ad                           och huvudsaklig inriktning
 A 9.3 A 9.4 Beslut om utökad vistelsetid eller
-198493402 2024-09-03 1R2e:3kt5o:0r 0Otto Bergman *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+198493402 2024-09-03 1R2e:3kt5o:0r 0Otto Bergman \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
 A 10.2 Beslut om utökad vistelsetid eller
 
-198751738 2024-09-04 1R2e:2kt1o:0r 0Emma Nilsson *Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
+198751738 2024-09-04 1R2e:2kt1o:0r 0Emma Nilsson \*Utökad tid på fritidshem beviljas nedsättning/avskrivning av avgift fritidshem
 A 9.3 A 9.4 Beslut om utökad vistelsetid eller
-198857475 2024-09-04 1R7e:1kt3o:0r 0Ingela Åstrand *A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
-*Eleven mottas i skolformen anpassad
+198857475 2024-09-04 1R7e:1kt3o:0r 0Ingela Åstrand \*A 9.3 Utökad tid på förskolan beviljas nedsättning/avskrivning av avgift i FSK
+\*Eleven mottas i skolformen anpassad
 Utvecklingsledare Bertil grundskola              A 3.1 A 3.2 Beslut om mottagande i anpassad grundskola
-197713668 2024-09-06 1L6ju:3n0g:b0l0ad *Huvudsaklig inriktning - ämnen och huvudsaklig inriktning
+197713668 2024-09-06 1L6ju:3n0g:b0l0ad \*Huvudsaklig inriktning - ämnen och huvudsaklig inriktning
 
 <!-- sida 22 -->
 
@@ -887,7 +887,7 @@ KUNGSBACKA KOMMUN
 
 Augusti 2024 anmälan om misstänkt kränkande behandling
 
-* Notera att detta är vad som angetts i anmälningsformulär
+\* Notera att detta är vad som angetts i anmälningsformulär
 
 [Tabell 25-1](handlingar.tabeller/25-1.csv)
 
@@ -911,7 +911,7 @@ Augusti 2024 anmälan om misstänkt kränkande behandling
 
 [Tabell 25-2](handlingar.tabeller/25-2.csv)
 
-| Handlingar som förekommit* |  |
+| Handlingar som förekommit\* |  |
 | --- | --- |
 | Fysiskt (ex slag, spark, fasthållning, beröring, förstörelse av egendom) | 38 |
 | Icke verbal/fysisk åtbörd (ex uteslutning, gester, miner eller blickar) | 2 |
@@ -921,7 +921,7 @@ Augusti 2024 anmälan om misstänkt kränkande behandling
 
 [Tabell 25-3](handlingar.tabeller/25-3.csv)
 
-| Tillfälle för händelse* |  |
+| Tillfälle för händelse\* |  |
 | --- | --- |
 | Fritidstid | 10 |
 | Lektionstid | 16 |
@@ -1042,10 +1042,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -1057,19 +1057,19 @@ Alla våra förskolor och skolor ska vara lärmiljöer som främjar lärande, so
 Inom detta område finns en mängd olika initiativ och en mångfald av insatser och arbete ute på våra förskolor
 och skolor. Övergripande kan vi lyfta några områden särskilt:
 
-1. Att öka närvaron är ett särskilt mål och insatsområde. Att fånga, kartlägga och tidigt försöka bryta
+1\. Att öka närvaron är ett särskilt mål och insatsområde. Att fånga, kartlägga och tidigt försöka bryta
 problematisk skolfrånvaro är pågående arbete och där vi deltar i gemensamt arbete med SKR. Under
 året har arbetet fördjupats och riktade utbildningar till våra skolor och elevhälsoteam rullas ut. Vi kan se
 effekter av vårt arbete med att rapporteringsgraden av frånvaro ökat med drygt 50% och ligger nu på
 runt 90%
-2. Trygghet och studiero är ett fortsatt prioriterat område och där vi riktar insatser dels att tillse att
+2\. Trygghet och studiero är ett fortsatt prioriterat område och där vi riktar insatser dels att tillse att
 kränkningar anmäls, följs upp, utreds och åtgärdas. Såväl frånvaro som analys av
 kränkningsanmälningar ingår i enheternas systematiska kvalitetsarbete.
-3. Vårt systematiska kvalitetsarbete har reviderats utifrån nya nationella föreskrifter. I dessa nya
+3\. Vårt systematiska kvalitetsarbete har reviderats utifrån nya nationella föreskrifter. I dessa nya
 föreskrifter accentueras att det systematiska kvalitetsarbetet tydligare ska fånga och beakta frånvaro och
 studiero, vilket vi redan till del gjort i Kungsbacka. Vi fortsätter att jobba utifrån det underlag som
 sedan tidigare tagits fram för att stärka undervisningens kvalitet - ”Hur vet du det?”
-4. Vi har jobbat vidare med vårt systematiska säkerhetsarbete med bl.a. utbildning och övning av
+4\. Vi har jobbat vidare med vårt systematiska säkerhetsarbete med bl.a. utbildning och övning av
 krisledning, utarbetande av krigsorganisation. Arbete pågår med att få ett larmsystem på plats för att
 
 4
@@ -1137,11 +1137,11 @@ Delårsrapport Augusti 2024
 
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -1201,12 +1201,12 @@ Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 68 %    65 %   73 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- flickor.
+\- flickor.
 Andelen elever som har skattat sin egen
 livstillfredsställelse som god eller mycket god
 88 %    85 %   86 %
 under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-- pojkar.
+\- pojkar.
 Avfall från hushåll ska minska med 30% per
 invånare från 2020 till 2030. Startvärde 100, 98 97
 målvärde 2030 är 70.
@@ -1224,7 +1224,7 @@ området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga
 måltiderna ska minska räknat i kg CO2-
 ekv/kg livsmedel. Målsättningen är 1,0 år
-2030.
+2030\.
 Antal kemiska produkter med
 utfasningsämnen, inklusive hormonstörande
 ämnen på SIN-listan ska minska i
@@ -1253,9 +1253,9 @@ Kungsbackas lärmiljöer ska präglas av trygghet, glädje och studiero. Fysisk 
 mellan elever prioriteras. Mobiltelefoner, smartklockor eller motsvarande enheter ska inte vara tillåtna på våra
 skolor, varken på lektionstid eller under rast.
 Fokusområde
-- Trygghet och studiero
-- Fysisk aktivitet
-- Social interaktion
+\- Trygghet och studiero
+\- Fysisk aktivitet
+\- Social interaktion
 Nämndens bedömning
 
 Vi har inte nått målet men är på rätt väg
@@ -1305,8 +1305,8 @@ Delårsrapport Augusti 2024
 
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -1336,10 +1336,10 @@ Skola-arbetsliv
 detta. Särskilt med inriktning på systematik, likvärdighet och att eleverna tidigt ska möta
 arbetsliv/näringsliv inom ramen för skolans undervisning.
 •  Vi ser framförallt tre delar som är angelägna:
-1. Tidigt stärka elevernas valkompetens.
-2. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
+1\. Tidigt stärka elevernas valkompetens.
+2\. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
 parter upplevs intressanta och relevanta.
-3. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
+3\. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
 finns?
 Detta arbete sker i samverkan med andra:
 
@@ -1386,8 +1386,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -1501,7 +1501,7 @@ undervisningen tillgänglig för alla. Våra lärare ska bli bättre rustade i a
 och behov, till exempel de med neuropsykiatriska funktionsnedsättningar (NPF).
 Fokusområde
 Fokusområde
-- Tillgänglig lärmiljö för alla- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med
+\- Tillgänglig lärmiljö för alla- Kompetenshöjning hos pedagogisk personal inom undervisning av elever med
 NPF- Stärka arbetet för särskilt begåvade elever i samarbete med gymnasieskolorna.
 Nämndens bedömning
 
@@ -1550,12 +1550,12 @@ Utredning kring införande av resursskola är genomförd och har redovisats för
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
@@ -1713,8 +1713,8 @@ Nämndens formulering
 Vi ska förbättra vårt arbete med att identifiera barn och unga som riskerar att hamna i utanförskap. Genom
 innovation och ny teknik ska vi tidigare och mer resurseffektivt upptäcka problematisk skolfrånvaro.
 Fokusområde
-- Barn och elever med problematisk frånvaro i skolan
-- Samverkan med andra samhällsaktörer
+\- Barn och elever med problematisk frånvaro i skolan
+\- Samverkan med andra samhällsaktörer
 
 Kommentar
 I september ger Skolchefen ett utredningsuppdrag om elevhälsans kompetenser, organisering och framför allt
@@ -1745,8 +1745,8 @@ arbetsmarknaden i både offentlig och privat sektor. Vi ska stärka elevernas ko
 möjligheter att fatta självständiga val för sin framtid.
 
 Fokusområde
-- Stärkt framtidstro
-- Undervisning kopplad till konkreta arbetsuppgifter
+\- Stärkt framtidstro
+\- Undervisning kopplad till konkreta arbetsuppgifter
 Kommentar
 FG bygger struktur för att åstadkomma ett bättre samarbete med näringsliv och offentlig sektor.
 Strukturen kommer gagna både våra barn och elever som får en med likvärdig utbildning och våra företagare
@@ -1771,10 +1771,10 @@ Skola-arbetsliv
 läroplansområdet Skolan och omvärlden. Särskilt med inriktning på systematik, likvärdighet och att
 eleverna tidigt ska möta arbetsliv/näringsliv inom ramen för skolans undervisning.
 •  Vi ser framförallt tre delar som är angelägna:
-1. Tidigt stärka elevernas valkompetens.
-2. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
+1\. Tidigt stärka elevernas valkompetens.
+2\. Koppla undervisningen till att göra på riktigt, dvs att de aktiviteter vi gör tillsammans av alla
 parter upplevs intressanta och relevanta.
-3. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
+3\. Stärka elevernas framtidstro – hur ska jag kunna drömma om ett jobb om jag inte vet att det
 finns?
 
 Årets skolledardagar kommer ha ett stort fokus på barn och elevers framtidstro.
@@ -1795,8 +1795,8 @@ För de elever som har behov av en mindre skolkontext och mer anpassad lärmilj�
 resursskola. Skolan ska erbjuda en mer småskalig omgivning och tillgänggöra undervisningen för fler elever.
 Fokusområde
 
-- Förebyggande insatser i ett tidigt skede
-- Anpassad undervisning
+\- Förebyggande insatser i ett tidigt skede
+\- Anpassad undervisning
 Kommentar
 Utredning av vilka elevgrupper som är beroende av en mindre skolkontext är redovisad till nämnd 240530.
 Fortsatt utredningsuppdrag angående specifik målgrupp och var en eventuell resursskola ska kunna bedrivas.
@@ -1811,7 +1811,7 @@ Lärarens roll ska stärkas i Kungsbacka. Arbetsgivaren ska verka för att skapa
 tydligt handlingsutrymme för vår pedagogiska personal som i sin tur kan skapa studiero och trygghet på
 förskolor och skolor.
 Fokusområde
-- Utbildning och kollegialt arbete
+\- Utbildning och kollegialt arbete
 
 Kommentar
 Förvaltningen arbetar på flera sätt med att skapa goda förutsättningar för våra lärare att utföra sitt grunduppdrag.
@@ -2896,7 +2896,7 @@ samma grundbelopp.
 För en integrerad anpassad grundskoleelev finns två nivåer, nivå 1 och 2 beroende på
 elevens behov av stöd. I kommunal skola avsätts 20 % av grundbeloppet för nivå 2
 som utgör storleken på det krontal som avsätts ur ersättningarna för både nivå 1 och
-2. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
+2\. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
 
 administration och kontaktlärare. Resterande del, 80 %, tilldelas det aktuella
 pedagogiska området. Den fristående skolan erhåller hela grundbeloppet utan
@@ -3331,7 +3331,7 @@ samma grundbelopp.
 För en integrerad anpassad grundskoleelev finns två nivåer, nivå 1 och 2 beroende på
 elevens behov av stöd. I kommunal skola avsätts 20 % av grundbeloppet för nivå 2
 som utgör storleken på det krontal som avsätts ur ersättningarna för både nivå 1 och
-2. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
+2\. Detta för att täcka specialpedagogiska teamets kostnader för arbetsledning,
 
 administration och kontaktlärare. Resterande del, 80 %, tilldelas det aktuella
 pedagogiska området. Den fristående skolan erhåller hela grundbeloppet utan

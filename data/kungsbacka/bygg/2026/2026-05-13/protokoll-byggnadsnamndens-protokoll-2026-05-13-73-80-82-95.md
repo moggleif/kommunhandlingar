@@ -51,20 +51,20 @@ Gunnar Riksén (KD) Thinh Bui-Ljungqvist, senior
 Bo Johansson (MP) bygglovshandläggare
 Christina Nordberg, controller
 
-$$ 73-82
+\$\$ 73-82
 
-Johanna Gille, HR-specialist $$ 73-76
+Johanna Gille, HR-specialist \$\$ 73-76
 Ida Lennartsson, verksamhetschef
 Johanna Vinterhav, planarkitekt
 
-$$ 79-83
+\$\$ 79-83
 
 Sofie Axelsson, nämndsekreterare
 
 Plats och tid för justering Digital justering
 
-Sekreterare Sofie Axelsson Paragrafer $$ 73-80, 82-95
-$ 81 omedelbart justerad,
+Sekreterare Sofie Axelsson Paragrafer \$\$ 73-80, 82-95
+\$ 81 omedelbart justerad,
 se separat protokoll
 
 Ordförande Thure Sandén (M)
@@ -369,7 +369,7 @@ resultat om 62, vilket ger placering 198 av 199 kommuner. Bygglov hamnar på pla
 Serveringstillstånd på plats 91 av 97 kommuner.
 Förslagsställarna lyfter följande punkt:
 
--  Socialdemokraterna yrkar på att bygg- och miljöförvaltningen skyndsamt
+\-  Socialdemokraterna yrkar på att bygg- och miljöförvaltningen skyndsamt
 analyserar och kommer med handlingsplan på hur man avser att förbättra
 företagsklimatet i Kungsbacka.
 
@@ -448,10 +448,10 @@ behöver därför intensifieras och omsättas i praktiskt fungerande arbetssätt
 med fokus på faktisk service och tillgänglighet för invånare och företag.
 Förslagsställarna yrkar att bygg- och miljöförvaltningen ges i uppdrag att skyndsamt:
 
-- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
+\- säkerställa att inga ärenden blir liggande vid exempelvis frånvaro eller
 sjukskrivning, genom fungerande överlämnings- och ersättningsrutiner
-- identifiera områden i Servicelyftet som behöver prioriteras
-- redovisa en första analys på ett nämndmöte i juni samt en tydlig
+\- identifiera områden i Servicelyftet som behöver prioriteras
+\- redovisa en första analys på ett nämndmöte i juni samt en tydlig
 handlingsplan på nämndmötet i augusti
 
 Beslutsunderlag

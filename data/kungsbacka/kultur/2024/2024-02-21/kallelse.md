@@ -61,7 +61,7 @@ KUNGSBACKA  KOMMUN
 | 3. | Information till nämnd: Trygg<br>digital uppväxt<br>Föredragande: Cecilia<br>Ljungkvist-Holm, utvecklare,<br>och Emma Snelder, utvecklare<br>1 st dokument<br>30 min | KFT-2024-<br>00034 | Nämnden för Kultur & Fritid noterar informationen<br>till protokollet. |
 | 4. | Uppdrag till förvaltningen att<br>vidareutveckla Kultur & Fritids<br>bidragssystem<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument<br>15 min | KFT-2024-<br>00035 |  |
 | 5. | Årsredovisning 2023 inkl BRÅ<br>Föredragande: Erik Norinder,<br>utvecklingsledare, och Malin<br>Fjellström, controller<br>3 st dokument<br>15 min | KFT-2024-<br>00036 | Nämnden för Kultur & Fritid godkänner<br>årsredovisning 2023.<br>Nämnden för Kultur & Fritid godkänner BRÅs<br>verksamhetsredovisning för 2023 och översänder<br>verksamhetsredovisningen till kommunfullmäktige<br>för godkännande. |
-| 6. | Ombudgetering och resultatfond<br>Föredragande: Malin Fjellström<br>3 st dokument<br>5 min | KFT-2024-<br>00045 | Nämnden för Kultur & Fritid beslutar att begära:<br>* att av nämndens överskott i driftsbudgeten om +<br>583 tkr återredovisas.<br>* att av nämndens överskott i investeringsbudgeten<br>om +9 029 tkr begära 3 873 tkr ombudgeteras till år<br>2024 och 500 tkr till 2025. |
+| 6. | Ombudgetering och resultatfond<br>Föredragande: Malin Fjellström<br>3 st dokument<br>5 min | KFT-2024-<br>00045 | Nämnden för Kultur & Fritid beslutar att begära:<br>\* att av nämndens överskott i driftsbudgeten om +<br>583 tkr återredovisas.<br>\* att av nämndens överskott i investeringsbudgeten<br>om +9 029 tkr begära 3 873 tkr ombudgeteras till år<br>2024 och 500 tkr till 2025. |
 
 <!-- sida 3 -->
 

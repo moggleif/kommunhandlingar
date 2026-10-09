@@ -283,28 +283,28 @@ Nämnden för Vård & Omsorg fastställer taxor och avgifter för 2026. De nya
 nivåerna är direkt kopplade till höjningen av prisbasbeloppet för 2026. Taxor och
 avgifterna fastställs enligt följande:
 
-* Förbehållsbelopp, ensamstående             7 296 kr/månad
-* Förbehållsbelopp, gifta/sammanboende       5 953 kr/månad
+\* Förbehållsbelopp, ensamstående             7 296 kr/månad
+\* Förbehållsbelopp, gifta/sammanboende       5 953 kr/månad
 
-* Förhöjt förbehållsbelopp, ensamstående under 65år 8 025 kr/månad
-* Förhöjt förbehållsbelopp, gifta/sammanboende under 65 år 6 548 kr/månad
+\* Förhöjt förbehållsbelopp, ensamstående under 65år 8 025 kr/månad
+\* Förhöjt förbehållsbelopp, gifta/sammanboende under 65 år 6 548 kr/månad
 
-* Omsorgsavgift (maxtaxan)                   2 660 kr/månad
-* Hyra särskilt boende (utanför hyreslagen)  2 733 kr/månad
+\* Omsorgsavgift (maxtaxan)                   2 660 kr/månad
+\* Hyra särskilt boende (utanför hyreslagen)  2 733 kr/månad
 
-* Timtaxa hemtjänst                           266 kr/timme
-* Avgift för korttidsplats, omsorg             89 kr/dygn
+\* Timtaxa hemtjänst                           266 kr/timme
+\* Avgift för korttidsplats, omsorg             89 kr/dygn
 
-* Avgift för dagomsorg                         30 kr/dygn
+\* Avgift för dagomsorg                         30 kr/dygn
 
-* Trygghetslarm                               333 kr/månad
-* Kostnad mat korttidsplats                   149 kr/dygn
+\* Trygghetslarm                               333 kr/månad
+\* Kostnad mat korttidsplats                   149 kr/dygn
 
-* Kostnad mat/fika dagomsorg                   76 kr/dag
-* Helabonnemang mat VÅBO                     4 471 kr/månad
+\* Kostnad mat/fika dagomsorg                   76 kr/dag
+\* Helabonnemang mat VÅBO                     4 471 kr/månad
 
-* Hygienabonnemang inkl. moms                 150 kr/månad
-* Patientavgift HSV, 18-84 år                 375 kr/månad
+\* Hygienabonnemang inkl. moms                 150 kr/månad
+\* Patientavgift HSV, 18-84 år                 375 kr/månad
 
 Reservation
 Ermin Škorić (S), Astrid Börjesson (S) och Eva Tingström (S) reserverar sig mot
@@ -388,18 +388,18 @@ Därför lägger Socialdemokraterna ett initiativärende för att genomföra 6 t
 arbetsdag med bibehållen heltidslön.
 
 Förslag till beslut
-1. Nämnden för Vård och Omsorg ger förvaltningen i uppdrag att identifiera en
+1\. Nämnden för Vård och Omsorg ger förvaltningen i uppdrag att identifiera en
 hemtjänstgrupp för pilotprojekt för 6-timmars arbetsdag med bibehållen
 heltidslön och samtidigt identifierar en hemtjänstgrupp som ska vara en
 referensgrupp under pilotprojektet.
 
-2. Nämnden för Vård och Omsorg ger förvaltningen i uppdrag att påbörja en
+2\. Nämnden för Vård och Omsorg ger förvaltningen i uppdrag att påbörja en
 pilotstudie med 6-timmars arbetsdag med start september 2026 och avslut
 september 2029 med återredovisning till nämnden därefter.
 
-3. Nämnden för Vård och Omsorg beslutar att använda resultatfondsmedel för
+3\. Nämnden för Vård och Omsorg beslutar att använda resultatfondsmedel för
 detta ändamål om 15 mnkr under innevarande projekttid.
-4. Nämnden för Vård och Omsorg vill att förvaltningen, inom ramen för
+4\. Nämnden för Vård och Omsorg vill att förvaltningen, inom ramen för
 pilotstudien, följer upp:
 
 Det här dokumentet är digitalt signerat
@@ -1221,7 +1221,7 @@ Diarienummer VO-2025-00345
 Diarienummer VO-2025-00346
 
 Avtal
--
+\-
 
 Övrigt
 

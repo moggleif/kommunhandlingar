@@ -1564,7 +1564,7 @@ Kommunen följer rekommenderad nivå för arbetsgivaravgifterna enligt Sveriges
 Kommuner och Regioner (SKR) och reglerar till slutlig nivå när denna är fastställd.
 Personalomkostnadspålägget, PO-pålägget, publicerades av SKR den 12 december
 
-2024.
+2024\.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3B8B296F0459A33C401A8F42225F61D80ECF02E4EF
@@ -1578,7 +1578,7 @@ Datum
 2025-04-22
 
 För kommunerna justeras nu PO-pålägget ned och fastställs till 40,24 procent för
-2025. I kommunbudget 2025 är PO-pålägget 42,75 procent och ingår i nämndernas
+2025\. I kommunbudget 2025 är PO-pålägget 42,75 procent och ingår i nämndernas
 budgetram.
 Total ramjustering från nämnderna i budget 2025 är beräknad till -60 671 000
 kronor. Kommunstyrelsens förvaltning föreslår att förändringen regleras mot årets
@@ -1969,7 +1969,7 @@ respektive Bostadsenhetsavgift i VA-taxan 2025, i tabellen för anläggningsavgi
 5.1 respektive § 6.1, har felaktiga belopp. De felaktiga beloppen beror på felräkning.
 Tabellen för avgiftsbeloppen förekommer på sidan 5 respektive sidan 7 i VA taxan
 
-2025.
+2025\.
 Nämnden för Teknik uppmärksammade felet innan taxan började gälla och
 debitering år 2025 har i förekommande fall skett enligt de korrekt beräknade lägre
 beloppen. För att få en korrekt taxa med korrekt framräknade belopp krävs ett nytt
@@ -2283,7 +2283,7 @@ verksamheter som industri och lager. Syftet är även att möjliggöra en utöka
 pendelparkering inom området.
 
 Planförslaget har varit utställt för granskning under tiden 3 november till 2 december
-2020. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
+2020\. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
 huvudsak miljö, risker och geotekniska frågor, se vidare i granskningsutlåtandet.
 Därefter har kompletterande utredningar för geoteknik gällande bergtäkten, området
 vid bullervallen och sprängstensvallen tagits fram. Nya inmätningar av planområdet

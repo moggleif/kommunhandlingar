@@ -220,7 +220,7 @@ Förvaltningen bedömer att en permanent utökning till 53 barn kan godkännas.
 Rättslig reglering
 
 Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
-1. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
+1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
 
 <!-- sida 7 -->
@@ -228,7 +228,7 @@ verksamheten,
 KUNGSBACKA  KOMMUN
 3 (3)
 
-2. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
+2\. har ekonomiska förutsättningar att följa de föreskrifter som gäller för verksamheten, och 3. i övrigt
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 
 övrigt bedöms lämplig.
@@ -256,7 +256,7 @@ förskola,     pedagogisk       omsorg      och   fritidshem
 
 Ärendenummer: #277023 | Inskickat av: Livi Ulrica Ekholm | 2026-04-15 12:53
 
-1. Information om verksamheten
+1\. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -303,7 +303,7 @@ når från utsidan
 
 390
 
-2. Utökning
+2\. Utökning
 
 Antal personal idag
 
@@ -334,7 +334,7 @@ Ange kort beskrivning av skälet till utökningen
 Vi önskar att ha en möjlighet att ta in ytterligare 2 barn under vårterminerna för att kunna möta
 efterfrågan av plats för syskon samt utifrån behovet i vår kö.
 
-3. Bilagor
+3\. Bilagor
 
 Skalenlig ritning över lokalernas disposition
 
@@ -342,15 +342,15 @@ Ange yta i kvadratmeter för respektive rum samt namnge eventuella teknikrum och
 kommer in från utsidan.
 
 Kungsbacka 6_30-SITPLAN 2025 06 26 (1).pdf (1,25 MB)
-Kungsbacka 6_30-ENTRE&#769;PLAN 2025 06 26 (1).pdf (118 KB)
+Kungsbacka 6_30-ENTRE\&#769;PLAN 2025 06 26 (1).pdf (118 KB)
 Kungsbacka 6_30-BOTTENPLAN 2025 06 26 (1).pdf (98 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
 Barnkonsekvensanalys utifrån tillfällig eller permanent utökning
 
-Riskbedo&#776;mning o handlingsplan, fo&#776;ra&#776;ndringar i verksamheten -
-uto&#776;kat antal barn.pdf (513 KB)
+Riskbedo\&#776;mning o handlingsplan, fo\&#776;ra\&#776;ndringar i verksamheten -
+uto\&#776;kat antal barn.pdf (513 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
@@ -489,9 +489,9 @@ en annan elevs berättigade krav på placering vid en skolenhet nära hemmet ås
 kommunen placera eleven vid en annan skolenhet inom sin grundskola.
 
 Kommunen får annars frångå elevens vårdnadshavares önskemål endast om
-1. den önskade placeringen skulle medföra betydande organisatoriska eller ekonomiska svårigheter för
+1\. den önskade placeringen skulle medföra betydande organisatoriska eller ekonomiska svårigheter för
 kommunen, eller
-2. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
+2\. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
 
 Beslut enligt andra stycket 2 gäller omedelbart, om inte annat beslutas.
 
@@ -527,7 +527,7 @@ Förvaltningschef                   Verksamhetschef Myndighet & Stöd
 
 Riktlinje           för    profilklasser
 
--  med   krav   på  särskilda   färdigheter
+\-  med   krav   på  särskilda   färdigheter
 
 Dokumentegenskaper: Titel: Riktlinje för profilklasser, Skapat av:
 Beslutad av:    Nämnden för Förskola och grundskola, § xx 2026-09-xx
@@ -582,9 +582,9 @@ fortsatta skolplaceringen. Elever som inte antas till profilklass tilldelas skol
 det ordinarie skolvalet.
 Vid fler sökande än platser görs urval enligt följande:
 
-1. Resultat färdighetsprov
+1\. Resultat färdighetsprov
 
-2. Lottning (om flera elever har samma resultat)
+2\. Lottning (om flera elever har samma resultat)
 Rektor för profilklass beslutar om mottagande.
 
 Förvaltningen fastställer närmare tillämpningsdokument för profilklassernas
@@ -619,10 +619,10 @@ krav på placering vid en skolenhet nära hemmet åsidosätts, ska dock
 kommunen placera eleven vid en annan skolenhet inom sin grundskola.
 
 Kommunen får annars frångå elevens vårdnadshavares önskemål endast om
-1. den önskade placeringen skulle medföra betydande organisatoriska eller
+1\. den önskade placeringen skulle medföra betydande organisatoriska eller
 ekonomiska svårigheter för kommunen, eller
 
-2. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
+2\. det är nödvändigt med hänsyn till övriga elevers trygghet och studiero.
 
 Beslut enligt andra stycket 2 gäller omedelbart, om inte annat beslutas.
 Tester och prov får enligt 10 kap. 9 § första stycket skollagen som huvudregel

@@ -505,7 +505,7 @@ driftsbudget för 2025 på 108 000 kronor. Eftersom nämnden inte har någon
 resultatfond eller projekt som kan ombudgeteras begär nämnden följande
 resultatdisponering:
 
-* Överskott för driftsbudget, 108 000 kronor, återredovisas till kommunstyrelsen.
+\* Överskott för driftsbudget, 108 000 kronor, återredovisas till kommunstyrelsen.
 
 Beslutsunderlag
 

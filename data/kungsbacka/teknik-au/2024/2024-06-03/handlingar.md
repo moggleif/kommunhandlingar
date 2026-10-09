@@ -394,8 +394,8 @@ www.kungsbacka.se
 
 Skala: 1/1 090 (vid A4 liggande) -
 
-z<Aaeh
-- ON 20
+z\<Aaeh
+\- ON 20
 
 (8
 
@@ -1141,7 +1141,7 @@ staden. För att veta när det är dags att göra det finns ett prognossystem me
 
 För att långsiktigt skydda staden mot höga havsnivåer har vi fattat ett inriktningsbeslut om att anlägga
 ett yttre översvämningsskydd. Beslutet togs av kommunfullmäktige i vår klimatstrategi som antogs
-2022. Som underlag för beslutet finns en förstudie (Norconsult AB, 2021-01-22). Resultatet visar
+2022\. Som underlag för beslutet finns en förstudie (Norconsult AB, 2021-01-22). Resultatet visar
 förutsättningarna för ett skydd i tre alternativa lägen; vid Inlagsleden, vid E6:an och en bit ut i
 Kungsbackafjorden. Samtliga innebär en invallning mot havet med en port i Kungsbackaån som
 
@@ -1214,7 +1214,7 @@ som det minsta nyplanerad byggnation ska vara dimensionerad för att klara av.
 
 <!-- sida 32 -->
 
-*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier. **Rekommenderat av
+\*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier. \*\*Rekommenderat av
 MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag. Skyfallskarteringen för Kungsbacka använder
 klimatfaktor 1,35.
 
@@ -1241,7 +1241,7 @@ möjliga att tillåta i de fall det är motiverat.
 
 Planeringsnivåer utifrån dimensionerande händelser.
 
-Planeringsnivåer för kustzonen angivna som lägsta nivå för vital del (plushöjd RH2000). *Ytterligare 0,4 m för att illustrera
+Planeringsnivåer för kustzonen angivna som lägsta nivå för vital del (plushöjd RH2000). \*Ytterligare 0,4 m för att illustrera
 rimlig planeringsnivå för tidshorisont 2150 (0,4 m = ökning av havets medelvattenstånd år 2100-2150
 
 20
@@ -1838,7 +1838,7 @@ Inre zoner för parkeringstal för bostäder. I takt med att staden växer
 och kollektivtrafiken utvecklas kan zonerna förändras.
 Tabellerna nedan anger min- och maximital för parkering i Kungsbacka stad.
 
-*Ca 5–10 procent av platserna bör vara tillgängliga för besökare
+\*Ca 5–10 procent av platserna bör vara tillgängliga för besökare
 
 För de exploatörer som vill erbjuda sina boende andra mobilitetslösningar än bilparkering så finns
 det möjlighet att sänka parkeringstalen med upp till 0,3 bilplats per lägenhet genom att genomföra
@@ -1848,7 +1848,7 @@ mobilitetsåtgärder.
 
 <!-- sida 48 -->
 
-* Minst hälften av platserna för förskola och skola bör ordnas för hämtning och lämning
+\* Minst hälften av platserna för förskola och skola bör ordnas för hämtning och lämning
 
 Vår utgångspunkt är att vid exploatering bevara områden eller objekt som har stort värde för
 biologisk mångfald eller en viktig social funktion. Den som bygger bort ekosystemtjänster ska
@@ -3572,7 +3572,7 @@ riksintresset E6.
 Under följande kapitel beskrivs övriga konsekvenser som planförslaget kan ha på olika aspekter inom
 miljö, människors hälsa samt naturresurser.
 
-Biologisk _mångfald _o ch _grön _infrastruktur
+Biologisk \_mångfald \_o ch \_grön \_infrastruktur
 Biologisk mångfald innebär en stor variation av växter och djur vilket är nödvändigt för att säkerställa
 
 ekosystemens funktion och motståndskraft. Bevarandet och utvecklandet av biologisk mångfald är
@@ -3618,7 +3618,7 @@ Ljussättningens påverkan på stadsnära djurliv bör utredas vidare. Riktlinje
 miljöer och kommunala byggnader kan minimera negativ påverkan.
 
 Konflikten mellan tillgänglighet längs åarna och naturvärden bör studeras vidare.
-Förorenad_ mark
+Förorenad\_ mark
 Kungsbacka har likt alla städer en historisk markanvändning som i olika mån gett upphov till risker med
 markföroreningar. I Kungsbacka är det dock inte lika utbrett som på många andra håll eftersom det inte
 
@@ -3819,7 +3819,7 @@ Sandsjöbacka. Området är även skyddat som naturreservat och Natura 2000-omr�
 
 <!-- sida 84 -->
 
-Riksintressen,_ 4_k apitlet_ miljöbalken
+Riksintressen,\_ 4_k apitlet\_ miljöbalken
 
 Riksintressen enligt 4 kapitlet miljöbalken gäller större områden med stora natur- och kulturvärden
 och värden för friluftslivet.
@@ -4335,7 +4335,7 @@ skogen
 Kollektivtraf .k förändring
 t
 / Busskörfält
-..      _
+..      \_
 ,." Busspriontet
 Gång och cykel
 i N ga• ng- oc h cy.k..e lkoppllng
@@ -4351,13 +4351,13 @@ i Pendelcykelstråk
 Utre dning trafik
 -·
 [:.: Utred n ingsomra• d en för trafik
-.,.._ Utredningsomr åde för framtida
+.,..\_ Utredningsomr åde för framtida
 "'.. sia1 1· 0 n
 Natur oc h rekreation
 La• ngsI· kt·Igt säkerställda
 grönområden
 ./ Gröna upplevelser
-� / S re tö k r r r e e a u tio tv n e s c v k .a !_ i r nie � v och/eller
+� / S re tö k r r r e e a u tio tv n e s c v k .a !\_ i r nie � v och/eller
 •
 biologi· sk mangf ald
 Natur och aree Ila näringar

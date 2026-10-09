@@ -517,11 +517,11 @@ Sverigedemokraterna inkom med ett initiativärende till nämnden för Individ &
 Familjeomsorg på sammanträdet den 20 mars 2025 gällande miljön i receptionen på
 Stadshuset avseende nämndens målgrupper. Initiativtagarna yrkade på att:
 
-* Att En översyn görs av väntrumslösningar för att möjliggöra mer avskildhet.
-* Att utreda om möjligheten till en digital anmälan kan göras vid ankomst för att
+\* Att En översyn görs av väntrumslösningar för att möjliggöra mer avskildhet.
+\* Att utreda om möjligheten till en digital anmälan kan göras vid ankomst för att
 minimera exponeringen.
 
-* Att undersöka om tidsbokning med anpassade väntutrymmen för ökad integritet är
+\* Att undersöka om tidsbokning med anpassade väntutrymmen för ökad integritet är
 möjlig.
 
 Nämnden beslutade att remittera ärendet till förvaltningen för vidare beredning.

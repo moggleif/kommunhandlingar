@@ -114,11 +114,11 @@ Sveriges Lärare - Johan Bergström
 
 Plats och tid: VM Lagan 2025-02-18 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 
 Protokoll för mötet 2024-01-14 är justerat.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 
 Arbetsgivaren redovisar ärenden inför nämndsammanträde i januari.
 
@@ -141,7 +141,7 @@ KUNGSBACKA  KOMMUN
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 •  Fokus för verksamheterna är organisering och tjänsteplanering utifrån antal barn och elever.
 
 •  Nuläge och pågående arbete i förvaltningen med anledning av händelsen i Örebro.
@@ -198,7 +198,7 @@ Arbetsgivarens svar: Service upphandlar och plan för införande i augusti.
 
 Beslut: Att anteckna informationen.
 
-4. Årsredovisning 2024
+4\. Årsredovisning 2024
 Förvaltningen har enligt uppdrag upprättat och lämnar sin årsredovisning för 2024.
 Nämnden redovisar ett positivt resultat på 8,8 miljoner kronor, vilket innebär en avvikelse mot budget
 på 0,4 %. Överskottet beror till stor del på lägre kostnader inom den centrala organisationen.
@@ -236,7 +236,7 @@ betydelse”.
 
 Beslut: Att anteckna informationen.
 
-5. Återkoppling särskild samverkansgrupp (SSG) rast och paus
+5\. Återkoppling särskild samverkansgrupp (SSG) rast och paus
 
 Arbetsgivaren vill ha till protokollet det arbete som gjorts kring rast och paus i den särskilda
 samverkansgruppen. Det dialogmaterial som gjorts för att användas på arbetsplatsträffar har delgetts
@@ -248,14 +248,14 @@ partsgemensamma arbetet. Förbunden anser att arbetet går för långsamt.
 
 Beslut: Informationen/dialog.
 
-6. Införande barn- och elevhälsochef, samverkan och riskbedömning
+6\. Införande barn- och elevhälsochef, samverkan och riskbedömning
 organisation.
 
 Punkten bordläggs.
 
 Arbetstagarorganisation
 
-7. Otillbörlig påverkan (Sveriges skolledare)
+7\. Otillbörlig påverkan (Sveriges skolledare)
 
 Vi i Sveriges skolledare har en fråga gällande otillbörlig påverkan. Om det sker och det rapporteras in
 (i KIA) så undrar vi hur rutinen ser ut? Görs det polisanmälan och anmälan till Arbetsmiljöverket? Har
@@ -277,7 +277,7 @@ bli klara över vad som är/kan vara otillbörlig påverkan.
 
 Beslut: Dialog
 
-8. 10-årig grundskola och kompetensutvecklingsplan. Samverkan beslut som
+8\. 10-årig grundskola och kompetensutvecklingsplan. Samverkan beslut som
 gäller enhet Kvalitet och utveckling (Sveriges lärare)
 
 •  Vad händer med personalens kompetens, kompetensöverväxling vid 10 årig grundskola?
@@ -301,7 +301,7 @@ Beslut: Dialog
 
 Tidig information/dialog
 
-9. Lokalplan feb
+9\. Lokalplan feb
 
 Förslag till beslut kommer på au och nämnd i april. Endast redaktionella ändringar i förslagen.
 I samband med att det presenteras har vi ett extra FSG 26 mars kl 13.00 via teams. Kallelse kommer i
@@ -339,7 +339,7 @@ Angelica Svensson                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 Skolledare
@@ -695,8 +695,8 @@ syftar till att så långt som möjligt motverka funktionsnedsättningens konsek
 För att få en så träffsäker bild över vilken målgrupp som resursskolan i Kungsbacka bäst skulle kunna möta
 upp mot har utredningen fokuserat på nedanstående två tillvägagångssätt.
 
--  Enkätundersökning till alla rektorer i grundskolan
--  Omvärldsspaning
+\-  Enkätundersökning till alla rektorer i grundskolan
+\-  Omvärldsspaning
 
 För att undersöka vilka elevgrupper Kungsbackas grundskoleenheter har svårt att möta upp emot
 genomfördes en Formsenkät som skickades ut till samtliga rektorer i grundskolan. 26 av 47 rektorer svarade
@@ -760,9 +760,9 @@ inte längre kan tillgodogöra sig undervisning.
 Den elevgrupp som rektorerna hänvisar till och som utifrån definitionen av resursskola skulle kunna få sin
 skolgång i en resursskola är elever med:
 
--  svår autism,
--  språkstörning och
--  elever som begåvningsmässigt ligger nära anpassad grundskola men som inte helt når upp till den
+\-  svår autism,
+\-  språkstörning och
+\-  elever som begåvningsmässigt ligger nära anpassad grundskola men som inte helt når upp till den
 anpassade grundskolans målgrupp.
 
 Tidiga insatser i grundskolan är en avgörande faktor för att främja barns kognitiva, emotionella och sociala
@@ -784,13 +784,13 @@ Begreppet kommer från Bibeln och betyder i korthet "den som har ska få mer, oc
 lättare blir det att lära dig nya saker. Tidiga insatser kan alltså förhindra att svårigheter cementeras och leder
 till skolmisslyckanden senare i livet. Om vi inte bryter Mathew-effekten i tid kan den få långsiktiga
 konsekvenser både för individen och samhället genom:
--  Akademiska svårigheter
+\-  Akademiska svårigheter
 Elever som halkar efter i lågstadiet har mycket svårt att nå gymnasiebehörighet.
--  Självförtroende och motivation
+\-  Självförtroende och motivation
 Ständiga misslyckanden kan leda till att elever ger upp om skolan.
--  Ökad risk för skolavhopp
+\-  Ökad risk för skolavhopp
 Elever som inte hänger med i högstadiet löper större risk att hoppa av gymnasiet.
--  Sämre framtidsmöjligheter
+\-  Sämre framtidsmöjligheter
 Låga betyg begränsar möjligheter till högre utbildning och arbete.
 
 Forskning visar att elever som har svaga läsfärdigheter i lågstadiet har fyra gånger större risk att hoppa av
@@ -986,7 +986,7 @@ rättigheter, utveckling och välmående, enligt Barnkonventionen.
 
 Minskad skolfrånvaro:
 
--  Elever som tidigare haft svårigheter att
+\-  Elever som tidigare haft svårigheter att
 klara av skoldagen kan få en skolmiljö som
 bättre möter deras behov.
 
@@ -1099,22 +1099,22 @@ för att fokusera på lek.
 för resursskolan, liknande anpassad grundskola.
 
 Utmaningar:
--  Kvaliteten på undervisningen är en utmaning, liksom att leda personalgruppen och arbeta med
+\-  Kvaliteten på undervisningen är en utmaning, liksom att leda personalgruppen och arbeta med
 förståelsen på skolorna och bland rektorerna att resursskolan inte är för alla elever. Det finns också
 en utmaning i att hantera elever med hög frånvaro, vilket ibland löses med hemundervisning.
 
 Nästa steg:
--  Gymnasiet: Studie- och yrkesvägledare (SYV) arbetar nära eleverna från årskurs 8 för att säkerställa
+\-  Gymnasiet: Studie- och yrkesvägledare (SYV) arbetar nära eleverna från årskurs 8 för att säkerställa
 en bra överlämning till gymnasiet. Det finns dock ingen uppföljning av eleverna när de börjar eller
 har gått något år på gymnasiet.
--  Det finns potential för samarbete med socialtjänsten för förebyggande och främjande arbete.
+\-  Det finns potential för samarbete med socialtjänsten för förebyggande och främjande arbete.
 
 Rekommendationer:
--  Implementera uppföljning av eleverna efter övergången till gymnasiet.
--  Utveckla samarbetet med socialtjänsten för att stärka det förebyggande arbetet.
--  Fokusera på att rekrytera och behålla kompetent personal samt erbjuda handledning för att leda
+\-  Implementera uppföljning av eleverna efter övergången till gymnasiet.
+\-  Utveckla samarbetet med socialtjänsten för att stärka det förebyggande arbetet.
+\-  Fokusera på att rekrytera och behålla kompetent personal samt erbjuda handledning för att leda
 personalgruppen.
--  Skolan måste vara förberedd på tuffa händelser och utåtagerande beteenden.
+\-  Skolan måste vara förberedd på tuffa händelser och utåtagerande beteenden.
 
 <!-- sida 34 -->
 
@@ -1237,13 +1237,13 @@ att åstadkomma en varaktigt förbättrad trygghet och studiero i skolan genom f
 
 Utbildningsdepartementet har utifrån denna bakgrund lagt förslag till ändring i skollagen samt ett antal
 ändringar i förordningar. Förslagen kan sammanfattas som att:
--  Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och studiero.
+\-  Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och studiero.
 
--  Alla skolor ska använda skolregler och en konsekvensplan för trygghet och studiero.
--  Nolltolerans mot trakasserier, kränkande behandling och mobbning kan säkerställas genom
+\-  Alla skolor ska använda skolregler och en konsekvensplan för trygghet och studiero.
+\-  Nolltolerans mot trakasserier, kränkande behandling och mobbning kan säkerställas genom
 statliga åtgärder.
 
--  Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
+\-  Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
 Föreskrifterna föreslås träda i kraft den 1 juli 2026 utan några övergångsbestämmelser.
 
 Nämnden för Förskola & Grundskola har fått möjlighet att på kommunstyrelsens uppdrag svara på
@@ -2116,9 +2116,9 @@ I grundskolan, anpassade grundskolan, specialskolan, sameskolan,
 gymnasieskolan och anpassade gymnasieskolan får en lärare eller en
 handledare som avses i 21 kap. 13 § visa ut en elev från undervisnings-
 lokalen för högst återstoden av ett undervisningspass, om
-1. eleven stör undervisningen eller på annat sätt uppträder olämp-
+1\. eleven stör undervisningen eller på annat sätt uppträder olämp-
 ligt, och
-2. eleven inte har ändrat sitt uppförande efter uppmaning från
+2\. eleven inte har ändrat sitt uppförande efter uppmaning från
 läraren eller handledaren.
 I stället för vad som anges i
 första stycket 2 gäller att läraren
@@ -2264,10 +2264,10 @@ I grundskolan, specialskolan och sameskolan får rektorn besluta
 att stänga av en elev helt eller delvis om eleven agerar på ett sådant
 sätt att andra elevers eller personals säkerhet bedöms vara hotad.
 Rektorn får även besluta att stänga av en elev helt eller delvis om
-1. åtgärder enligt 13 § inte är tillräckligt ingripande eller inte är
+1\. åtgärder enligt 13 § inte är tillräckligt ingripande eller inte är
 möjliga att genomföra eller det finns särskilda skäl med hänsyn till
 elevens beteende, och
-2. det är nödvändigt med hänsyn till övriga elevers trygghet och
+2\. det är nödvändigt med hänsyn till övriga elevers trygghet och
 studiero.
 Eleven ska erbjudas kompen- Eleven ska så långt det är möj-
 sation för den undervisning som ligt erbjudas kompensation för
@@ -2340,9 +2340,9 @@ Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om giltig frånvaro enligt första stycket och om
 
 avvikelser från andra stycket för
-1. elever i grundskolan, specialskolan och sameskolan som läser
+1\. elever i grundskolan, specialskolan och sameskolan som läser
 på en högre nivå och även i andra fall för elever i specialskolan, och
-2. elever i anpassade grundskolan.
+2\. elever i anpassade grundskolan.
 Om en elev i förskoleklassen, Om en elev i förskoleklassen,
 grundskolan, anpassade grund- grundskolan, anpassade grund-
 skolan, specialskolan eller same- skolan, specialskolan eller same-
@@ -2443,9 +2443,9 @@ prenad.
 Beslut av en rektor får över- Beslut av en rektor får över-
 klagas till allmän förvaltningsdom- klagas till allmän förvaltningsdom-
 stol i fråga om       stol i fråga om
-1. avstängning av en elev en- 1. Nekande av tillträde till skol-
+1\. avstängning av en elev en- 1. Nekande av tillträde till skol-
 ligt 5 kap. 14, 17 eller 19 §, och enheten enligt 5 kap. 13 b §,
-2. befrielse från skyldighet att 2. avstängning av en elev en-
+2\. befrielse från skyldighet att 2. avstängning av en elev en-
 delta i obligatoriska inslag i under- ligt 5 kap. 14, 17 eller 19 §, och
 visningen enligt 7 kap. 19 §. 3. befrielse från skyldighet att
 delta i obligatoriska inslag i under-
@@ -2611,31 +2611,31 @@ Nuvarande lydelse     Föreslagen lydelse
 2 §
 Informationssystemet ska för varje skolenhet i förskoleklassen,
 grundskolan och gymnasieskolan innehålla uppgift om
-1. hur många lärare det finns i förhållande till antalet elever,
-2. andel legitimerade lärare,
-3. tillgång till speciallärare eller specialpedagog,
-4. förelägganden från Statens 4. förelägganden från Statens
+1\. hur många lärare det finns i förhållande till antalet elever,
+2\. andel legitimerade lärare,
+3\. tillgång till speciallärare eller specialpedagog,
+4\. förelägganden från Statens 4. förelägganden från Statens
 skolinspektion, och   skolinspektion,
-5. huvudmannens juridiska 5. huvudmannens juridiska
+5\. huvudmannens juridiska 5. huvudmannens juridiska
 form.                 form, och
-6. omfattningen av giltig res-
+6\. omfattningen av giltig res-
 pektive ogiltig frånvaro.
 
 10 §
 Informationssystemet ska för varje skolenhet i anpassade grund-
 skolan och anpassade gymnasieskolan innehålla uppgift om
-1. hur många lärare och förskollärare det finns i förhållande till
+1\. hur många lärare och förskollärare det finns i förhållande till
 antalet elever,
-2. andel legitimerade lärare och sådana legitimerade förskollärare
+2\. andel legitimerade lärare och sådana legitimerade förskollärare
 som är behöriga i ämnesområden i anpassade grundskolan och på
 individuella programmet i anpassade gymnasieskolan,
-3. tillgång till speciallärare eller specialpedagog,
-4. förelägganden från Statens skolinspektion,
-5. huvudmannens juridiska 5. huvudmannens juridiska
+3\. tillgång till speciallärare eller specialpedagog,
+4\. förelägganden från Statens skolinspektion,
+5\. huvudmannens juridiska 5. huvudmannens juridiska
 form, och             form,
-6. tillgång till skolbibliotek. 6. tillgång till skolbibliotek,
+6\. tillgång till skolbibliotek. 6. tillgång till skolbibliotek,
 och
-7. omfattningen av giltig respek-
+7\. omfattningen av giltig respek-
 tive ogiltig frånvaro.
 
 Denna lag träder i kraft den 1 juli 2026.
@@ -12577,9 +12577,9 @@ I grundskolan, anpassade grundskolan, specialskolan, sameskolan, gym-
 nasieskolan och anpassade gymnasieskolan får en lärare eller en hand-
 ledare som avses i 21 kap. 13 § visa ut en elev från undervisningslokalen
 för högst återstoden av ett undervisningspass, om
-1. eleven stör undervisningen eller på annat sätt uppträder olämpligt,
+1\. eleven stör undervisningen eller på annat sätt uppträder olämpligt,
 och
-2. eleven inte har ändrat sitt uppförande efter uppmaning från läraren
+2\. eleven inte har ändrat sitt uppförande efter uppmaning från läraren
 eller handledaren.
 I stället för vad som anges i första stycket 2 gäller att läraren eller hand-
 ledaren får visa ut eleven ur undervisningslokalen utan att först ha uppmanat
@@ -12791,10 +12791,10 @@ I grundskolan, specialskolan och sameskolan får rektorn besluta att stänga
 av en elev helt eller delvis om eleven agerar på ett sådant sätt att andra
 elevers eller personals säkerhet bedöms vara hotad.
 Rektorn får även besluta att stänga av en elev helt eller delvis om
-1. åtgärder enligt 13 § inte är tillräckligt ingripande eller inte är möj-
+1\. åtgärder enligt 13 § inte är tillräckligt ingripande eller inte är möj-
 liga att genomföra eller det finns särskilda skäl med hänsyn till elevens
 beteende, och
-2. det är nödvändigt med hänsyn till övriga elevers trygghet och
+2\. det är nödvändigt med hänsyn till övriga elevers trygghet och
 studiero.
 Eleven ska så långt det är möjligt erbjudas kompensation för den under-
 visning som han eller hon går miste om på grund av avstängningen.
@@ -12883,9 +12883,9 @@ eller andra helgdagar.
 Regeringen eller den myndighet som regeringen bestämmer får med-
 dela föreskrifter om giltig frånvaro enligt första stycket och om avvikelser
 från andra stycket för
-1. elever i grundskolan, specialskolan och sameskolan som läser på en
+1\. elever i grundskolan, specialskolan och sameskolan som läser på en
 högre nivå och även i andra fall för elever i specialskolan, och
-2. elever i anpassade grundskolan.
+2\. elever i anpassade grundskolan.
 Om en elev i förskoleklassen, grundskolan, anpassade grundskolan,
 specialskolan eller sameskolan utan att ha giltig frånvaro uteblir från den
 obligatoriska verksamheten, ska rektorn se till att elevens vårdnads-
@@ -13023,9 +13023,9 @@ till en annan huvudman inom skolväsendet på entreprenad.
 9 §
 
 Beslut av en rektor får överklagas till allmän förvaltningsdomstol i fråga om
-1. Nekande av tillträde till skolenheten enligt 5 kap. 13 b §,
-2. avstängning av en elev enligt 5 kap. 14, 17 eller 19 §, och
-3. befrielse från skyldighet att delta i obligatoriska inslag i under-
+1\. Nekande av tillträde till skolenheten enligt 5 kap. 13 b §,
+2\. avstängning av en elev enligt 5 kap. 14, 17 eller 19 §, och
+3\. befrielse från skyldighet att delta i obligatoriska inslag i under-
 visningen enligt 7 kap. 19 §.
 Paragrafen reglerar vilka beslut av en rektor som får överklagas till
 allmän förvaltningsdomstol.
@@ -13271,7 +13271,7 @@ ning, kortanalys 1/2024.
 Brottförebyggande rådet, 2024a, Grovt våld i skolan – En beskrivning
 av omfattning, karaktär och utveckling fram till och med 2022.
 Brottsförebyggande rådet 2024b, Skolundersökningen om brott
-2023. Om utsatthet för och delaktighet i brott. Rapport 2024:10.
+2023\. Om utsatthet för och delaktighet i brott. Rapport 2024:10.
 Brottförebyggande rådet, 2023, Skolfaktorers betydelse för elevers
 utsatthet för hot och våld i skolmiljö – En statistisk analys utifrån
 
@@ -15041,25 +15041,25 @@ Statens offentliga utredningar  2025
 
 Kronologisk förteckning
 
-1. Skärpta krav för svenskt medborgar-
+1\. Skärpta krav för svenskt medborgar-
 skap. Ju.
-2. Några frågor om grundläggande
+2\. Några frågor om grundläggande
 fri- och rättigheter. Ju.
-3. Skatteincitament för forskning
+3\. Skatteincitament för forskning
 och utveckling. En översyn av
 FoU-avdraget och expertskatte-
 reglerna. Fi.
-4. Moderna och enklare skatteregler
+4\. Moderna och enklare skatteregler
 för arbetslivet. Fi.
-5. Avgift för områdessamverkan
+5\. Avgift för områdessamverkan
 – och andra åtgärder för trygghet
 i byggd miljö. LI.
-6. Plikten kallar! En modern personal-
+6\. Plikten kallar! En modern personal-
 försörjning av det civila försvaret. Fö.
-7. Ny kärnkraft i Sverige – effektivare
+7\. Ny kärnkraft i Sverige – effektivare
 tillståndsprövning och ändamålsenliga
 avgifter. KN.
-8. Bättre förutsättningar för trygghet
+8\. Bättre förutsättningar för trygghet
 och studiero i skolan. U.
 
 <!-- sida 349 -->
@@ -15115,36 +15115,36 @@ studiero i skolan (SOU 2025:8)
 
 Remissinstanser
 
-1. Almega utbildning
+1\. Almega utbildning
 
-2. Arboga kommun
-3. Barnombudsmannen
+2\. Arboga kommun
+3\. Barnombudsmannen
 
-4. Brottsförebyggande rådet
-5. Båstad kommun
+4\. Brottsförebyggande rådet
+5\. Båstad kommun
 
-6. Centrala studiestödsnämnden
+6\. Centrala studiestödsnämnden
 
-7. Diskrimineringsombudsmannen
-8. Elevernas riksförbund
+7\. Diskrimineringsombudsmannen
+8\. Elevernas riksförbund
 
-9. Funktionsrätt Sverige
+9\. Funktionsrätt Sverige
 
-10. Förvaltningsrätten i Uppsala
-11. Gnesta kommun
+10\. Förvaltningsrätten i Uppsala
+11\. Gnesta kommun
 
-12. Gotlands kommun
-13. Göteborgs kommun
+12\. Gotlands kommun
+13\. Göteborgs kommun
 
-14. Göteborgs universitet
+14\. Göteborgs universitet
 
-15. Haninge kommun
-16. Haparanda kommun
+15\. Haninge kommun
+16\. Haparanda kommun
 
-17. Hudiksvalls kommun
+17\. Hudiksvalls kommun
 
-18. Idéburna skolors riksförbund
-19. Institutet för mänskliga rättigheter
+18\. Idéburna skolors riksförbund
+19\. Institutet för mänskliga rättigheter
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Drottninggatan 16
@@ -15152,89 +15152,89 @@ Webb: www.regeringen.se     E-post: u.registrator@regeringskansliet.se
 
 <!-- sida 352 -->
 
-20. Integritetsskyddsmyndigheten
+20\. Integritetsskyddsmyndigheten
 
-21. Jämställdhetsmyndigheten
-22. Jönköpings kommun
+21\. Jämställdhetsmyndigheten
+22\. Jönköpings kommun
 
-23. Kammarrätten i Stockholm
-24. Karolinska institutet
+23\. Kammarrätten i Stockholm
+24\. Karolinska institutet
 
-25. Knivsta kommun
+25\. Knivsta kommun
 
-26. Kungsbacka kommun
-27. Linköpings universitet
+26\. Kungsbacka kommun
+27\. Linköpings universitet
 
-28. Ludvika kommun
+28\. Ludvika kommun
 
-29. Länsstyrelsen i Östergötlands län
-30. Malmö kommun
+29\. Länsstyrelsen i Östergötlands län
+30\. Malmö kommun
 
-31. Myndigheten för delaktighet
+31\. Myndigheten för delaktighet
 
-32. Norrköpings kommun
-33. Nätverket Unga för Tillgänglighet
+32\. Norrköpings kommun
+33\. Nätverket Unga för Tillgänglighet
 
-34. Orust kommun
-35. Polismyndigheten
+34\. Orust kommun
+35\. Polismyndigheten
 
-36. Regelrådet
+36\. Regelrådet
 
-37. Riksdagens ombudsmän (JO)
-38. Robertsfors kommun
+37\. Riksdagens ombudsmän (JO)
+38\. Robertsfors kommun
 
-39. Ronneby kommun
+39\. Ronneby kommun
 
-40. Sameskolstyrelsen
-41. Skellefteå kommun
+40\. Sameskolstyrelsen
+41\. Skellefteå kommun
 
-42. Skolforskningsinstitutet
-43. Skolväsendets överklagandenämnd
+42\. Skolforskningsinstitutet
+43\. Skolväsendets överklagandenämnd
 
-44. Skövde kommun
+44\. Skövde kommun
 
-45. Socialstyrelsen
-46. Specialpedagogiska skolmyndigheten
+45\. Socialstyrelsen
+46\. Specialpedagogiska skolmyndigheten
 
-47. Statens skolinspektion
+47\. Statens skolinspektion
 
-48. Statens skolverk
-49. Statistiska centralbyrån
+48\. Statens skolverk
+49\. Statistiska centralbyrån
 
 2 (5)
 
 <!-- sida 353 -->
 
-50. Stiftelsen Friends
+50\. Stiftelsen Friends
 
-51. Stockholms kommun
-52. Storfors kommun
+51\. Stockholms kommun
+52\. Storfors kommun
 
-53. Strömsunds kommun
-54. Sveriges Elevkårer
+53\. Strömsunds kommun
+54\. Sveriges Elevkårer
 
-55. Sveriges Elevråd
+55\. Sveriges Elevråd
 
-56. Sveriges Kommuner och Regioner
-57. Sveriges kvinnoorganisationer
+56\. Sveriges Kommuner och Regioner
+57\. Sveriges kvinnoorganisationer
 
-58. Sveriges Lärare
+58\. Sveriges Lärare
 
-59. Sveriges Skolledare
-60. Sölvesborgs kommun
+59\. Sveriges Skolledare
+60\. Sölvesborgs kommun
 
-61. Tyresö kommun
+61\. Tyresö kommun
 
-62. Uppsala universitet
-63. Uppvidinge kommun
+62\. Uppsala universitet
+63\. Uppvidinge kommun
 
-64. Västerviks kommun
-65. Årjängs kommun
+64\. Västerviks kommun
+65\. Årjängs kommun
 
-66. Ängelholms kommun
+66\. Ängelholms kommun
 
-67. Örebro kommun
-68. Örnsköldsviks kommun
+67\. Örebro kommun
+68\. Örnsköldsviks kommun
 
 Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 14
 maj 2025. Svaren bör lämnas per e-post till u.remissvar@regeringskansliet.se
@@ -15345,7 +15345,7 @@ pa-remisser-och-skriva-fram-yttranden
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\______________________
 
 Kungsbacka kommun
 Kommunledningskontoret
@@ -15549,7 +15549,7 @@ Kompetensutvecklingsinsatser under 2024 EMI Centralt ...........................
 
 Kontinuerlig fortbildning (återkommande) EPI Centralt ................................................17
 
-4. Patienten som medskapare .............................................................................................17
+4\. Patienten som medskapare .............................................................................................17
 Informerat samtycke ........................................................................................................18
 Hantering av klagomål och synpunkter .............................................................................18
 
@@ -15561,7 +15561,7 @@ Analys .........................................................................
 Händelser/avvikelser ........................................................................................................23
 Klagomål och synpunkter ..................................................................................................25
 
-6. Mål och utmaningar för kommande år ............................................................................25
+6\. Mål och utmaningar för kommande år ............................................................................25
 Övergripande mål .............................................................................................................25
 
 Identifierade mål EMI 2025 ..............................................................................................25
@@ -15586,7 +15586,7 @@ Under 2023 skedde byte av dokumentationssystem för hela elevhälsan i Kungsback
 Kommun. För EMI (Elevhälsans medicinska insats) innebar det ett helt nytt journalsystem
 
 och fortsatt implementering och utveckling av det har varit fortsatt ett stort arbete under
-2024. Stort fokus har varit på att beakta patientsäkerheten, att elevhälsan kan dokumentera
+2024\. Stort fokus har varit på att beakta patientsäkerheten, att elevhälsan kan dokumentera
 så att alla krav på säker och jämlik dokumentation inom EMI uppfylls där journalföringsplikt
 gäller vid samtliga besök och insatser inom den medicinska elevhälsan.
 
@@ -15748,12 +15748,12 @@ PSL 2010:659, 3 kap. 1 §, SOSFS 2011:9, 3 kap. 1-3 §
 Elevhälsans medicinska del har alltid ett övergripande mål att patientsäkert kunna
 erbjuda
 
--  Förebyggande och hälsofrämjande insatser för att stödja elever
--  Erbjuda vaccinationer enligt FHM vaccinationsprogram
--  Hälsosamtal/kontroller där identifiering av insatser skall upptäckas så att eleven får
+\-  Förebyggande och hälsofrämjande insatser för att stödja elever
+\-  Erbjuda vaccinationer enligt FHM vaccinationsprogram
+\-  Hälsosamtal/kontroller där identifiering av insatser skall upptäckas så att eleven får
 
 den hjälp hen är i behov av.
--  Utföra enklare sjukvårdsinsatser
+\-  Utföra enklare sjukvårdsinsatser
 
 Utifrån dessa övergripande mål tas även fram identifierade mål för patientsäkerhetsarbete.
 De bygger på det systematiska kvalitetsarbete inom elevhälsans medicinska del som sker
@@ -16133,10 +16133,10 @@ Intern samverkan
 En god säkerhetskultur inom verksamheten där lärande, kommunikation och reflektion är
 ledord bygger på intern samverkan som tidigare beskrivits. Intern samverkan består av bl.a.:
 
--  Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
--  Ledningsmöten Elevhälsans medicinska insats
--  Samverkan mellan EMI samt övrig elevhälsa
--  Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
+\-  Regelbundna strukturerade professionsmöten i helgrupp samt i områdesgrupp
+\-  Ledningsmöten Elevhälsans medicinska insats
+\-  Samverkan mellan EMI samt övrig elevhälsa
+\-  Samverkan med andra förvaltningar gällandes frågor som rör barn/ungdomar
 
 15
 
@@ -16200,36 +16200,36 @@ och ansvaras av PLA. Kartläggning görs av behov av introduktion/utbildning nä
 psykologiska insatserna inom elevhälsan. Handledning i grupp erbjuds.
 
 Kontinuerlig fortbildning (återkommande) EMI Centralt
--  Kompetensutvecklingsdag (heldag)
--  Yrkesspecifik utbildning i journalsystem (Prorenata)
--  Skolsköterskedagarna (2 dagars utbildning)
+\-  Kompetensutvecklingsdag (heldag)
+\-  Yrkesspecifik utbildning i journalsystem (Prorenata)
+\-  Skolsköterskedagarna (2 dagars utbildning)
 
--  Kategorimöten (olika områden/patientsäkerhet)
+\-  Kategorimöten (olika områden/patientsäkerhet)
 
 Kompetensutvecklingsinsatser under 2024 EMI Centralt
--  Tillväxtutbildning (Region Halland- Anton Holmberg-Endokrinolog)
--  Diabetesutbildning (Region Halland Alina Heringhaus-Diabetessjuksköterska
--  NPF- Flickor med ADHD/Autism (VGR- Svenny Kopp-Barnneurolog)
+\-  Tillväxtutbildning (Region Halland- Anton Holmberg-Endokrinolog)
+\-  Diabetesutbildning (Region Halland Alina Heringhaus-Diabetessjuksköterska
+\-  NPF- Flickor med ADHD/Autism (VGR- Svenny Kopp-Barnneurolog)
 
--  ANTDS
--  Skolsköterskedagarna Stockholm
--  Tillväxtprojektdag – Halmstad sjukhus
--  Barnahus Halland – Utbildning/diskussion
--  Skolfrånvaro-Basutbildning
--  Webbutbildningar (Skyddade uppgifter, Barn och cancer, Trauma hos barn, Obesitas
+\-  ANTDS
+\-  Skolsköterskedagarna Stockholm
+\-  Tillväxtprojektdag – Halmstad sjukhus
+\-  Barnahus Halland – Utbildning/diskussion
+\-  Skolfrånvaro-Basutbildning
+\-  Webbutbildningar (Skyddade uppgifter, Barn och cancer, Trauma hos barn, Obesitas
 
 (viktmobbning)
--  Heldagsutbildning ”Sexit” – EMI Halland (Länsstyrelsen förläsare)
+\-  Heldagsutbildning ”Sexit” – EMI Halland (Länsstyrelsen förläsare)
 
 Kontinuerlig fortbildning (återkommande) EPI Centralt
--  Kompetensutvecklingsdag (heldag) x 2
--  Yrkesspecifik utbildning i journalsystem (Prorenata)
--  PFISOS dagarna (Fem psykologer av 10 deltog 2024)
+\-  Kompetensutvecklingsdag (heldag) x 2
+\-  Yrkesspecifik utbildning i journalsystem (Prorenata)
+\-  PFISOS dagarna (Fem psykologer av 10 deltog 2024)
 
--  Kategorimöten (olika områden/patientsäkerhet)
+\-  Kategorimöten (olika områden/patientsäkerhet)
 Ingen ytterligare kompetensinsats gavs under 2024.
 
-4. Patienten som medskapare
+4\. Patienten som medskapare
 
 En grundläggande förutsättning för en säker vård är patientens och de
 närståendes delaktighet. Vården blir säkrare om patienten är välinformerad,
@@ -16253,14 +16253,14 @@ Samtycke och/eller information mellan elevhälsans medicinska insats och
 
 elever/vårdnadshavare sker inom följande insatser:
 
--  Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
--  Information/samtycke vaccinationer inom basprogrammet
--  Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt
+\-  Information om elevhälsans medicinska uppdrag/skolsköterskans uppdrag.
+\-  Information/samtycke vaccinationer inom basprogrammet
+\-  Information inför hälsosamtal/hälsobesök samt erbjudande att medverka om aktuellt
 för vårdnadshavare. Hälsosamtalet är personcentrerad dialog mellan skolsköterska
 och elev som syftar till att främja hälsa och förebygga ohälsa. Här har elev och/eller
 
 vårdnadshavare förutsättningar till delaktighet och medskapande.
--  Information/samtycke om åtgärder som kan behövas initieras efter
+\-  Information/samtycke om åtgärder som kan behövas initieras efter
 hälsosamtal/hälsobesök.
 
 Samtycke från vårdnadshavare krävs vid vissa insatser såsom vaccinationer och
@@ -16547,17 +16547,17 @@ Kontakt mellan vårdnadshavare och verksamhetschef EMI och återkoppling/åtgär
 Till elevhälsans psykologiska insats har ett klagomål/synpunkt inkommit och hanterats samt
 återkopplats enligt gällande regelverk.
 
-6. Mål och utmaningar för kommande år
+6\. Mål och utmaningar för kommande år
 
 Övergripande mål
 
 Elevhälsans medicinska del har alltid ett övergripande mål att patientsäkert kunna erbjuda
--  Förebyggande och hälsofrämjandeinsatser för att stödja elever
--  Erbjuda vaccinationer enligt FHM vaccinationsprogram
+\-  Förebyggande och hälsofrämjandeinsatser för att stödja elever
+\-  Erbjuda vaccinationer enligt FHM vaccinationsprogram
 
--  Hälsosamtal/kontroller där identifiering av insatser skall upptäckas så att eleven får
+\-  Hälsosamtal/kontroller där identifiering av insatser skall upptäckas så att eleven får
 den hjälp hen är i behov av.
--  Utföra enklare sjukvårdsinsatser
+\-  Utföra enklare sjukvårdsinsatser
 
 Dessa mål säkerställs genom egenkontroller och kontinuerlig dialog med närmsta chef
 (rektor) och VC HSL.
@@ -16639,7 +16639,7 @@ efterföljs och att arbetet sker systematiskt.
 
 Under 2024 har arbetet med implementering och fastställande av
 dokumentationsrutiner/mallar fortsatt i journalsystemet. Ett nytt journalsystem (April
-2023) inom HSL är en process som behöver noggrant övervakas och även på ett
+2023\) inom HSL är en process som behöver noggrant övervakas och även på ett
 patientsäkert sätt kunna anpassas efter införande.
 Koppling till NPÖ för att producera journaluppgifter är utfört under 2024. Detta är
 
@@ -17061,7 +17061,7 @@ Förskola & Grundskola, God och Nära vård                    8(9)
 
 <!-- sida 398 -->
 
-2. Var står vi och hur kommer  vi framåt?
+2\. Var står vi och hur kommer  vi framåt?
 
 Initiativet kommer under 2025 startas med en planering och implementeringsfas under våren.
 
@@ -17107,7 +17107,7 @@ för elever inom skolan där remisser återgår till skolan från barn och
 ungdomspsykiatrin (En väg in, UPH 1:a linjen, BUP specialistmottagning).
 Processen är startad under andra halvåret 2024 och tas upp i denna årsrapport.
 Initiativet är huvudaktiviteten för skolan inom reformen God och nära vård under
-2025.
+2025\.
 Den Kungsbackaövergripande rapporten redovisas årligen till kommunens
 ledningsgrupp efter att de separata förvaltningsspecifika delarna till rapporten
 
@@ -19145,7 +19145,7 @@ Förvaltningsrätten
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Psykologiska<br>insatser | Psykologjournal | PMO | Digitalt | Bevaras | För asylsökande, gömda elever eller elever med<br>skyddad identitet sker dokumentation för samtliga<br>handlingar enbart i pappersform, och förvaras i<br>journalskåp i respektive skolas närarkiv. |
 |  | Testmaterial | Akt i dokumentskåp | Papper | Bevaras | Omfattas ofta av instrumentsekretess. |
-|  | Utlåtande, bedömning från<br>psykologiskt test | PMO/<br>Akt i dokumentskåp | Digitalt/<br>Papper* | Bevaras | * Om utlåtande, bedömning innehåller delar ur testet<br>ska dessa inte ligga i PMO utan endast i<br>pappersjournal. |
+|  | Utlåtande, bedömning från<br>psykologiskt test | PMO/<br>Akt i dokumentskåp | Digitalt/<br>Papper\* | Bevaras | \* Om utlåtande, bedömning innehåller delar ur testet<br>ska dessa inte ligga i PMO utan endast i<br>pappersjournal. |
 |  | Självskattningsinstrument | PMO/<br>Akt i dokumentskåp | Digitalt/<br>Papper | Se anm. | Självskattningsinstrument av betydelse för<br>undersökning, bedömning, beslut, diagnos eller<br>uppföljning bevaras.<br>Självskattningsinstrument etc. av tillfällig eller ringa<br>betydelse gallras vid inaktualitet. |
 |  | Läkarintyg | PMO | Digitalt | Bevaras | Pappershandling förvaras i pappersjournal eller<br>gallras 24 timmar efter skanning till PMO. |
 |  | Pedagogiska utlåtande,<br>kopia | Akt i dokumentskåp | Papper | Vid inaktualitet | Original bevaras i den pedagogiska verksamheten. |
@@ -20194,7 +20194,7 @@ Förvaltningschef Förskola & Grundskola
 <!-- sida 565 -->
 
 at
-<S Socialdemokraterna
+\<S Socialdemokraterna
 
 Motion 2024-09-09
 Ökat samarbete för barn och elevers hälsa
@@ -20233,7 +20233,7 @@ agerar kompletterande.
 För att stärka det förebyggande och hälsofrämjande arbetet inom i Kungsbacka kommun
 yrkar Socialdemokraterna att:
 
-- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
+\- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
 Grundskola, Nämnden för Gymnasium & Arbetsmarknad samt Nämnden för Individ &
 Familjeomsorg, i uppdrag att inrätta stående forum för samarbete med viktiga parter i
 arbetet med barn och elevers hälsa där fokus är på både riskfaktorer och
@@ -20398,7 +20398,7 @@ beredning/beredning-handlaggning-av-motioner
 Hälsningar
 Kristian Egstedt
 Registrator
-______________________
+\______________________
 
 Kungsbacka kommun
 Kommunledningskontoret

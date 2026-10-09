@@ -118,12 +118,12 @@ nuvarande mätutrustning.
 BESKRIV KONSEKVENSERNA
 
 Varje steg ska utredas och eventuellt förkastas.
-1. Inga åtgärder
+1\. Inga åtgärder
 
 a. Om inga åtgärder görs har vi mätinstrument som är dåligt fungerande, eller inte fungerar
 alls, vilket innebär risker för produktionsbortfall, långa leveranstider på mät- och
 kartuppdrag samt ökande kostnader för service och underhåll.
-2. Ny investering
+2\. Ny investering
 
 a. Engångskostnad 2026 för utrangering av uttjänta mätinstrument, GNSS-mottagare, som
 lagts med lite för lång avskrivningstid, Preliminärt cirka 100 000 kronor.

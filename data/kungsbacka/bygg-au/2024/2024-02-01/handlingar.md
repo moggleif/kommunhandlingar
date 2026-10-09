@@ -308,10 +308,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -375,7 +375,7 @@ Kungsbacka har välkomnande och trygga miljöer
 Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
 2020    2021   2022   2023   2023
 2023 är Kungsbacka kommun en certifierad
--       -       -
+\-       -       -
 blåljuskommun.
 Andel avvikelser vid tillsynsbesök hos
 verksamhetsutövare med serverings-tillstånd.
@@ -388,11 +388,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -450,10 +450,10 @@ Beslutats av
 
 Nämnd
 Nämndens formulering
-Nämnderna ska med stöd av bestämmelserna i sina speciallagstiftningar* verka för att utvecklingen av samhället
+Nämnderna ska med stöd av bestämmelserna i sina speciallagstiftningar\* verka för att utvecklingen av samhället
 sker med väl avvägd påverkan på miljön, samtidigt som hälsosamma livsförhållanden för människor skapas.
 
-(*Miljöbalken, Plan- och Bygglagen, Livsmedel, - alkohol-, och tobakslagen.)
+(\*Miljöbalken, Plan- och Bygglagen, Livsmedel, - alkohol-, och tobakslagen.)
 Fokusområde
 
 Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
@@ -476,11 +476,11 @@ många samverkande faktorer behöver vi arbeta brett och långsiktigt. Det är s
 och nyttor på kort sikt. Exempel på aktiviteter som vi har gjort och som vi bedömer ger mest effekt på lång sikt
 är;
 
-- Kunskapshöjande insatser om hållbarhet för politiker och tjänstepersoner.
-- Startat upp arbetet med tillsyn över förorenade områden så att vi även i framtiden kan leva i en giftfri miljö.
+\- Kunskapshöjande insatser om hållbarhet för politiker och tjänstepersoner.
+\- Startat upp arbetet med tillsyn över förorenade områden så att vi även i framtiden kan leva i en giftfri miljö.
 
-- Arbetat med tillsyn av inomhusmiljön där barn och äldre ofta vistas så att den fortsätter att vara hälsosam.
-- Arbetat med tillsyn inom Fjärås Bräcka vattenskyddsområde för att skydda vår dricksvattenförsörjningen.
+\- Arbetat med tillsyn av inomhusmiljön där barn och äldre ofta vistas så att den fortsätter att vara hälsosam.
+\- Arbetat med tillsyn inom Fjärås Bräcka vattenskyddsområde för att skydda vår dricksvattenförsörjningen.
 
 Efter årets tillsyn av förorenade områden är vi i bra fas att klara målsättningen att riskklass 1 och 2 objekt ska
 vara åtgärdade senast 2025. Vi har utvecklat våra arbetssätt och startat upp 15 tillsynsärenden av prioriterade
@@ -507,7 +507,7 @@ förorenade områden i riskklass 1 och 2 som - -  -        15       3
 ska vara åtgärdade senast år 2050.
 Uppföljning av fokusområde i tillsynen av ljus,
 buller, ventilation och luftkvalitet i
--       -       -     Uppnått
+\-       -       -     Uppnått
 undervisningslokaler, vård- och
 omsorgsboenden samt särskilda boenden.
 3.2.2 Nämnderna ska verka för att miljökvalitetsnormer för vatten följs.
@@ -571,8 +571,8 @@ vattenförekomst.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Kommunövergripande bedömning
@@ -659,8 +659,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Kommunövergripande bedömning
 
 Vi har nått målet
@@ -718,12 +718,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Kommunövergripande bedömning
 Vi har nått målet
 
@@ -829,7 +829,7 @@ mätning.
 Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
 2020    2021   2022   2023   2023
 Andel medarbetare som utbildats i
--       -      85%      95%
+\-       -      85%      95%
 Utvecklande medarbetarskap (UM).
 3.5.2 Nämnderna ska med innovationskraft och hög grad av digitalisering möjliggöra en
 enklare vardag för invånare och företag.
@@ -881,11 +881,11 @@ Nyttjandegrad e-tjänst "Söka bygglov för att
 48%     59%     75%      75%     70%
 bygga nytt"
 Öka nyttjandegrad av e-tjänst "Anmäla
--      39%     59%      61%
+\-      39%     59%      61%
 installation av värmepumpsanläggning"
 Handläggningstid prövning registrering av
 livsmedelsanläggning - från komplett
--       -       -         3
+\-       -       -         3
 anmälan till beslut - (analog ansökan), 5
 arbetsdagar.
 NKI totalt värde, Nöjd-Kund-Index, bygglov 37 41 47      57
@@ -893,7 +893,7 @@ NKI totalt värde, Nöjd-Kund-Index, miljöskydd 65 62 68   64
 NKI totalt värde, Nöjd-Kund-Index, livsmedel 72 75 76    77
 NKI totalt värde, Nöjd-Kund-Index, servering 72 81 87    65
 NKI-värden här gäller både företag och privatpersoner. Utfall 2023 gäller de tre första kvartalen. Helårsutfallet publiceras först i april
-2024.
+2024\.
 
 17
 
@@ -1158,7 +1158,7 @@ Beslutats av
 Nämnd
 
 Nämndens formulering
-Byggnadsnämnden ska arbeta aktivt med OVK-tillsyn*.(*OVK= obligatorisk funktionskontroll av
+Byggnadsnämnden ska arbeta aktivt med OVK-tillsyn\*.(\*OVK= obligatorisk funktionskontroll av
 ventilationssystem i byggnader.)
 Fokusområde
 
@@ -1173,7 +1173,7 @@ Utöver digitaliseringsarbetet har samarbetsmöten ägt rum med två fastighetsb
 Syftet var dels att skapa relationer inför kommande tillsynsarbete, dels att ta reda på vilka ventilationssystem
 som fortfarande är aktiva. Samarbetsmöten med fastighetsbolag har fortlöpt under hösten 2023.
 Under året är uppbyggnaden av systematik inom OVK klar och det kommer ingå i den löpande tillsynen från
-2024.
+2024\.
 
 4.3 Direktiv handläggningstid förhandsbesked
 
@@ -1221,7 +1221,7 @@ från komplett ansökan/anmälan till - -      16        21      14
 beslut. 14 arbetsdagar
 Handläggningstid prövning registrering
 av livsmedelsanläggning - från komplett
--       -       -        10       3
+\-       -       -        10       3
 anmälan till beslut - (analog ansökan),
 5 arbetsdagar.
 Handläggningstid från ärende komplett
@@ -1253,7 +1253,7 @@ Antal påbörjade bostäder (beviljade
 144     168   82          649     45
 bygglov) - lägenheter i flerbostadshus
 Andel levererade nybyggnadskartor
--       -    30,7%     13,3%    27%
+\-       -    30,7%     13,3%    27%
 inom 15 arbetsdagar (i procent)
 Andel bygglovsärenden som klarar
 lagstadgad handläggningstid (10 -    -    58%        78%     90%
@@ -1371,10 +1371,10 @@ Uppföljningen av det systematiska arbetsmiljöarbetet tyder på att en stor del
 arbetsmiljöarbetet bedrivs på ett ändamålsenligt sätt och att det finns väl fungerande rutiner i förvaltningen för
 att undersöka arbetsmiljön och åtgärda eventuella brister och risker som framkommer, samtidigt som att det
 finns ytterligare behov av utveckling inom området. Under 2024 kommer förvaltningen fokusera på:
-- fortsatt arbete med utvecklande medarbetarskap
+\- fortsatt arbete med utvecklande medarbetarskap
 
-- uppföljning av puls-mätningar på enhetsnivå
-- arbete med friskfaktorer inom vissa enheter efter behov
+\- uppföljning av puls-mätningar på enhetsnivå
+\- arbete med friskfaktorer inom vissa enheter efter behov
 
 6.2 Kompetensförsörjning
 
@@ -1628,7 +1628,7 @@ avviker med -1,8 miljoner kronor och intäkterna för livsmedel och serveringsti
 Underskottet kompenseras delvis av att verksamheten beviljats ett projektbidrag från Länsstyrelsen för en
 förstudie för ett förorenat område på 0,4 miljoner kronor.
 En revidering av tillsynsplanen för miljöbalkstillsyn beslutades av nämnden för Miljö & Hälsoskydd i november
-2023. Revideringen omfattade debiterbar tillsyn motsvarande knappt 2,0 miljoner kronor. Utfallet för året för
+2023\. Revideringen omfattade debiterbar tillsyn motsvarande knappt 2,0 miljoner kronor. Utfallet för året för
 miljöbalkstillsynen är -1,8 miljoner kronor, vilket är något bättre än väntat.
 För miljöbalkstillsynen avviker intäkterna med -1,8 miljoner kronor. Avvikelsen gäller i första hand
 efterhandsdebiterad tillsyn, -1,5 miljoner kronor, samt händelsestyrd tillsyn som till exempel prövning, -0,3.
@@ -1787,7 +1787,7 @@ för våra kunder. Det har vi gjort genom så kallade innovationssprintar där v
 ett antal utvalda kunder för att bättre kunna förstå våra kunders behov och anpassa vårt arbetssätt. Vi ser också
 att insatsen har lett till ökad förståelse och ökat engagemang hos medarbetarna om vikten av att arbeta på nya
 sätt och att skapa lättillgängliga och automatiserade tjänster.
-3. GOD HÄLSA OCH VÄLBEFINNANDE
+3\. GOD HÄLSA OCH VÄLBEFINNANDE
 
 Människors hälsa står i fokus inom samtliga lagstiftningar som ryms inom Bygg- och miljöförvaltningens olika
 myndighetsuppdrag. Att våra kommuninnevånare har en god hälsa och välbefinnande är grunden i vår tillsyn
@@ -1842,7 +1842,7 @@ Under året har förvaltningen ökat takten och startat upp flera tillsynsärend
 gjort en omfattande ansvarsutredning. Effekten av arbetet är att vi förflyttat oss närmare målsättningen att år
 2050 ska alla prioriterade objekt med hög risk vara åtgärdade så att vi även i framtiden kan leva i en giftfri
 miljö.
-11. HÅLLBARA STÄDER OCH SAMHÄLLEN
+11\. HÅLLBARA STÄDER OCH SAMHÄLLEN
 Under året har vi börjat ett omfattande arbete mot en obruten digital samhällsbyggnadsprocess där geodata
 spelar en väsentlig och avgörande roll. Målet är att Kungsbacka kommun ska kunna fatta bättre beslut som
 skapar en mer hållbar framtid och kommun genom att använda och utnyttja den data som finns i hela
@@ -1861,7 +1861,7 @@ från att all byggnation ska främja hållbara städer och samhällen.
 Ett annat exempel på hur förvaltningen bidrar till målet är de kontroller utifrån ställda krav som sker vid en
 bygglovsprövning. Det kan till exempel gälla bullernivåer, energieffektivitet och infrastruktur för laddning av
 elfordon.
-13. BEKÄMPA KLIMATFÖRÄNDRINGARNA
+13\. BEKÄMPA KLIMATFÖRÄNDRINGARNA
 
 Utsläppen av växthusgaser fortsätter att stiga och som följd riskerar vi att nå en genomsnittlig global
 uppvärmning som överstiger två grader, vilket skulle få allvarliga konsekvenser för ekosystem, havsförsurning,
@@ -1899,7 +1899,7 @@ En informationsinsats har även skett inom bygglov där syftet var att ge råd o
 kommuninnevånare och företagare kan bidra till att minska sin energianvändning och i förlängningen till
 minskad klimatpåverkan. Med hjälp av våra insatser bidrar förvaltningen till att kommunens invånare har goda
 förutsättningar att skapa hållbar energi framåt.
-14. HAV OCH MARINA RESURSER
+14\. HAV OCH MARINA RESURSER
 
 Badvattenprovtagningen har varit i fokus under sommaren och extra provtagningar har utförts för att säkerställa
 en god badvattenkvalitet. Stor vikt har lagts på samverkan mellan förvaltningar och tydlig information till
@@ -2023,18 +2023,18 @@ Ombudgeteringar och resultatfond
 
 Kostnader anges med (-), belopp i tkr
 Fyll i endast er nämnds blad och justera inga summeringar. Samtliga sparar i samma arbetsbok.
-1. Driftsredovisning - begäran om resultatdisponering
+1\. Driftsredovisning - begäran om resultatdisponering
 
 I steg 1 alla nämnder/styrelse redovisar årsbudget, utfall och avvikelse i kommungemensam arbetsbok
 med nämndens blankett gul del                                    Steg
 2 omfattar att orsakerna till avvikelser ska klassificeras som underskott eller överskott enligt
 ekonomistyrprinciperna i kommungemensam arbetsbok nämndens blankett grön del. För överskott
 används olika typer enligt nedan:
-* Typ 1 – planerad verksamhet har inte utförts - återredovisas
-* Typ 2 – verksamhet har överförts till annan nämnd/styrelse - återredovisas
+\* Typ 1 – planerad verksamhet har inte utförts - återredovisas
+\* Typ 2 – verksamhet har överförts till annan nämnd/styrelse - återredovisas
 
-* Typ 3 – egna effektiviseringar/besparingar - förs till resultatfond
-* Typ 4 – pågående projekt, igångsatta men ej avslutade - ombudgeteras
+\* Typ 3 – egna effektiviseringar/besparingar - förs till resultatfond
+\* Typ 4 – pågående projekt, igångsatta men ej avslutade - ombudgeteras
 
 I steg 3 redovisas nämndens begäran om resultatdisponering (blankett blå del).
 
@@ -2080,7 +2080,7 @@ egna effektiviseringar.
 Överskott budget internränta 6 000 kr
 återredovisas, resterande överskott
 förs till nämndens resultatfond
-2024. Utveckling av GIS-verksamhet
+2024\. Utveckling av GIS-verksamhet
 är av strategisk betydelse för
 kommunen.
 
@@ -2410,9 +2410,9 @@ Kommunövergripande risk: Granskning av avslut av behörigheter vid avslut av an
 tjänst)
 Varje förvaltning ska ta ställning till om man i tillräcklig omfattning har:
 
-1. Chefer har kännedom om praktiska rutiner vid avslutad anställning
-2. Chefer har kännedom om e-tjänsten Hantera behörigheter
-3. Rapporten för avslutade medarbetare är tillgänglig för de systemförvaltare som behöver tillgång till den.
+1\. Chefer har kännedom om praktiska rutiner vid avslutad anställning
+2\. Chefer har kännedom om e-tjänsten Hantera behörigheter
+3\. Rapporten för avslutade medarbetare är tillgänglig för de systemförvaltare som behöver tillgång till den.
 Granskningen visar att:
 Samtliga chefer inom förvaltningen har via chefsbrev fått information om praktiska rutiner vid avslut av
 anställning. Samtliga chefer har också fått information om e-tjänsten "Hantera behörigheter" samt att det finns
@@ -2533,7 +2533,7 @@ med förvaltningens förslag. Granskningen har avgränsats till beslut om förha
 arbetsutskott, BNAU, då det är i dessa fall vi noterat flest avvikelser. Generellt sett är det ovanligt att
 nämnderna vänder förvaltningens förslag till beslut.
 Granskningen visar att BANU och BN fattat beslut om 61 förhandsbesked under perioden 23-01-01 till 23-11-
-30. Av dessa vände de 25 beslut (beslutat annat än förvaltningens förslag) varav 8 från positivt till negativt och
+30\. Av dessa vände de 25 beslut (beslutat annat än förvaltningens förslag) varav 8 från positivt till negativt och
 17 från negativt till positivt. Det innebär att politikerna inte går på förvaltningens förslag i drygt 40 procent av
 förhandsbeskedsärendena.
 Analys av de vända besluten visar inte på några mönster eller brister utan handlar om att BNAU gör en annan

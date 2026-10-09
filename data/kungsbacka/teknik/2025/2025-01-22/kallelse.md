@@ -53,7 +53,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-3.  Investeringsplan för Teknik TE-2024-
+3\.  Investeringsplan för Teknik TE-2024-
 Förslag till beslut i Kommunfullmäktige
 2026 - plan för 2027-2030, 01302,
 utblick 2031-2035     Föredragande:
@@ -65,11 +65,11 @@ vidare till Kommunfullmäktige för fastställelse,
 Emir Halalkic,
 belopp i prisnivå 2025.
 17:20 – 17:30
-- Skattefinansierad verksamhet 76 500 000 kr
-- Vatten och Avlopp 350 000 000 kr exklusive
+\- Skattefinansierad verksamhet 76 500 000 kr
+\- Vatten och Avlopp 350 000 000 kr exklusive
 Hammargårds reningsverk (FAR)
-- Avfall och Återvinning 59 000 000kr
-- Kungsbacka bredbandsnät 22 000 000 kr
+\- Avfall och Återvinning 59 000 000kr
+\- Kungsbacka bredbandsnät 22 000 000 kr
 • Nämnden för Teknik beslutar att anta förslag till
 ramar för utgiftsområden för 2026-2030 med
 utblick mot 2031-2035 enligt följande och skickar

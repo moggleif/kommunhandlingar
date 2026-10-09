@@ -110,10 +110,10 @@ Vårdförbundet - Anne Melin
 
 Plats och tid: Sveriges Lärares lokal 2024-02-06 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 Protokoll 2024-01-09 är justerat.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 Arbetsgivaren redovisar ärenden inför arbetsutskott i februari.
 
 Beslut: Att anteckna informationen.
@@ -135,7 +135,7 @@ KUNGSBACKA  KOMMUN
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 
 Skolledarorganisation
 
@@ -179,7 +179,7 @@ Beslut: Att anteckna informationen.
 KUNGSBACKA  KOMMUN
 3 (7)
 
-4. Säkerhetsarbete FG
+4\. Säkerhetsarbete FG
 Arbetsgivaren informerar om säkerhetsarbetet och den kartläggning som genomförs kring
 förutsättningar för fysiskt skydd. Kartläggningen har gjorts genom enkät till enhetschefer och rektorer
 och dialog med Serviceförvaltningen och säkerhetsavdelningen. Även en dokumentgranskning har
@@ -211,11 +211,11 @@ Krigsorganisation
 
 •  Projektet med att ta fram en krigsorganisation är avslutat.
 
-5. Förslag till nytt upplägg av förvaltningssamverkan (inkl punkt 6)
+5\. Förslag till nytt upplägg av förvaltningssamverkan (inkl punkt 6)
 Utifrån utvärderingen av förvaltningens övergripande samverkan som genomfördes på föregående
 möte ger arbetsgivaren nedan förslag till nytt upplägg för samverkan.
 
-1. Beredningsmöte slopas av den anledningen att alla inte är med. Ärenden anmäls istället direkt i
+1\. Beredningsmöte slopas av den anledningen att alla inte är med. Ärenden anmäls istället direkt i
 det dokument som använts på beredningsmötet senast måndag en vecka innan
 samverkansmötet för att kallelse och dagordning ska kunna skickas ut sju dagar innan mötet
 
@@ -227,12 +227,12 @@ KUNGSBACKA  KOMMUN
 (tisdag). Viktigt att båda parter tydliggör vad frågorna handlar om, tidsåtgång samt om frågan
 
 ska hanteras som information, dialog och/eller beslut.
-2. Varje samverkansmöte avslutas med att gemensamt titta på nästkommande dagordning utifrån
+2\. Varje samverkansmöte avslutas med att gemensamt titta på nästkommande dagordning utifrån
 samverkansgruppens och nämndens årshjul. När vi gör nämndens årshjul får det påverkan på
 samverkansgruppens årshjul, de kommer att länkas till varandra.
-3. Tidig och fördjupad dialog. Avsätta utrymme för det vid utvalda tillfällen, kanske kvartalsvis
+3\. Tidig och fördjupad dialog. Avsätta utrymme för det vid utvalda tillfällen, kanske kvartalsvis
 med samtal utan protokoll.
-4. Tydliggöra hur, var och när frågor samverkas, exempelvis hur vi ska samverka budget.
+4\. Tydliggöra hur, var och när frågor samverkas, exempelvis hur vi ska samverka budget.
 
 Sveriges Lärare
 •  Vi behöver inte besluta nu utan fundera och återkomma i frågan om hur vi samverkar budgeten.
@@ -240,7 +240,7 @@ Arbetsgivarens svar: Vi återkommer i frågan.
 
 Beslut: Dialog
 
-7. Tjänsteplanering nuläge
+7\. Tjänsteplanering nuläge
 
 •  Ett första matchningsmöte med enhetschefer 21 mars.
 •  Arbetsgivaren kommer att göra matchningar kontinuerligt för att perioden för
@@ -260,7 +260,7 @@ Arbetsgivaren planerar för facklig dialog from vecka 8 och kontinuerligt varann
 
 Beslut: Att anteckna informationen:
 
-8. Löneöversyn nuläge
+8\. Löneöversyn nuläge
 
 <!-- sida 8 -->
 
@@ -279,7 +279,7 @@ Beslut: Att anteckna informationen.
 
 Arbetstagarorganisationer
 
-9. Allmän förskola (15-timmars barn), Sveriges lärare
+9\. Allmän förskola (15-timmars barn), Sveriges lärare
 Sveriges Lärare efterfrågar tydlighet om vad som gäller barn i den avgiftsfria allmänna förskolan under
 skolans läsårstider och skollov
 
@@ -289,7 +289,7 @@ nämndbudget.
 
 Beslut: Att anteckna informationen.
 
-10. Utvärdering huvudsyftet med ”Förskola i förändring”, Sveriges lärare
+10\. Utvärdering huvudsyftet med ”Förskola i förändring”, Sveriges lärare
 Förbundet undrar om statsbidrag lett till att man fått färre relationer i förskolan? Kommunal delar
 frågeställningen från Sveriges lärare.
 
@@ -309,7 +309,7 @@ Beslut: Frågan tas upp på nästa FSG.
 KUNGSBACKA  KOMMUN
 6 (7)
 
-11. Arbete när man är ledig/sjuk/vård av barn, Sveriges lärare
+11\. Arbete när man är ledig/sjuk/vård av barn, Sveriges lärare
 Om man ska vara borta på måndag och vet om det på söndagen, då ska man ringa in en vikarie. Eller
 om man är sjuk på morgonen, då ska man hitta ersättare. Hur ser arbetsgivaren på att man ska arbeta
 när man är sjuk och är det medarbetarens arbetsuppgift att hitta ersättare?
@@ -319,7 +319,7 @@ situationer. Arbetsgivaren tar med sig frågan och återkommer.
 
 Beslut: Dialog
 
-12. Ersättning för VFU handledare
+12\. Ersättning för VFU handledare
 Sveriges Lärare önskar återkoppling från arbetsgivaren gällande det förslag som tidigare presenterats
 inför beslut om rutiner för den ekonomiska ersättningen för VFU-handledare.
 Enligt Sveriges Lärares tidigare förslag skulle ersättning ska gå till arbetslaget, kompetensutveckling
@@ -358,7 +358,7 @@ Sofia Kareliusson                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 
@@ -398,11 +398,11 @@ Vision - Elise Holmberg
 
 Plats och tid: VM Lagan 2024-08-13 kl 10.00-12.00
 
-1. Föregående mötesprotokoll
+1\. Föregående mötesprotokoll
 Nytt utkast till protokoll för mötet 2024-06-04 är utskickat och läggs i underskriftsportalen för digital
 signering.
 
-2. Ärenden från arbetsutskott och nämnd
+2\. Ärenden från arbetsutskott och nämnd
 
 Arbetsgivaren redovisar ärenden inför arbetsutskott och nämndsammanträde i augusti.
 
@@ -425,7 +425,7 @@ KUNGSBACKA  KOMMUN
 
 Organisation/verksamhet/arbetsmiljö
 
-3. Verksamhetschef informerar
+3\. Verksamhetschef informerar
 IST fungerar på alla skolor även på Maleviksskolan, Särö skola och Kollaskolan.
 
 Tilläggsbudget på 500 Mkr, sammanlagt 4,8 Mkr varav 3,4 Mkr ska gå till Förskola & Grundskola.
@@ -439,19 +439,19 @@ för chefer och medarbetare (valbara och obligatoriska).
 
 Beslut: Att anteckna informationen.
 
-4. Stabsorganisation (om aktuellt)
+4\. Stabsorganisation (om aktuellt)
 
 Ny registrator efter Reneé Rydberg som går i pension 30 september. Fredrik Ajell kommer att ersätta
 Reneé och har börjat sin anställning.
 
 Beslut: Att anteckna informationen.
 
-5. Nya PRAO, Anneli Sackelius, utvecklare Kvalitet och Utveckling
+5\. Nya PRAO, Anneli Sackelius, utvecklare Kvalitet och Utveckling
 Information kring det nya upplägget av prao som gäller från och med vårterminen 2025.
 
 Beslut: Att anteckna informationen.
 
-6. Sätta betyg för en kollega som är obehörig enligt skollag (Sv lärare från juni)
+6\. Sätta betyg för en kollega som är obehörig enligt skollag (Sv lärare från juni)
 Sveriges lärare vill veta hur det funkar när betygssättande lärare ska sätta betyg för obehörig, hur blir
 det rätt utifrån gällande lagstiftning?
 
@@ -472,7 +472,7 @@ frågan inför planering av kategoriträff med rektorerna för grundskolan.
 
 Beslut: Dialog/ information
 
-7. Studiedagar (Sveriges lärare)
+7\. Studiedagar (Sveriges lärare)
 Sveriges lärare undrar varför antalet studiedagar detta läsår är fyra stället för fem.
 
 Arbetsgivarens svar: Enligt skollagen så får förvaltningen lägga ut max fem studiedagar under ett
@@ -488,7 +488,7 @@ tar beslut om studiedag i maj och det får man som rektor inkomma med skriftlig 
 
 Beslut: Dialog/ information
 
-8. Hur väcker vi ett ärende för förvaltningssamverkan? (Sveriges skolledare)
+8\. Hur väcker vi ett ärende för förvaltningssamverkan? (Sveriges skolledare)
 
 Fråga från Sveriges Skolledare.
 Arbetsgivarens svar; Man skriver in sin fråga i dagordning i samarbetsrummet och om vi kan bereda
@@ -497,7 +497,7 @@ samarbetsrummet.
 
 Beslut: Dialog/ information
 
-9. Tidig info/dialog
+9\. Tidig info/dialog
 Lokalutredning och lokalkoncept.
 Det är lägligt att ta frågan för beslut i september på FSG eftersom den ska upp på nämnd i oktober.
 Vi får boka in ett extra möte för information där frågan förhandlas.
@@ -532,7 +532,7 @@ Sofia Kareliusson                   Beatrice Sandgren
 
 Ledarna                             Psykologförbundet
 
--                                   -
+\-                                   -
 
 Sveriges Lärare                     Sveriges
 Skolledare
@@ -541,7 +541,7 @@ Ronnie Ripgården                    Kristin Arplöw
 
 Vision                              Vårdförbundet
 
--                                   Anne Melin
+\-                                   Anne Melin
 
 <!-- sida 15 -->
 
@@ -1536,10 +1536,10 @@ och åtgärdande arbetet med studiero samt följa upp och analysera lärarnas be
 
 likvärdighet.
 Rektor har vidtagit ett antal åtgärder i relation till det olika utvecklingsområdena.
-- En utvecklad struktur för elevhälsans samarbete med lärarna och mellan speciallärare-lärare.
-- Speciallärare ger ett mer utvecklat stöd till lärarna och ett riktat kollegialt stöd från förstelärare.
-- Förtydligad struktur kring raster/rastaktiviteter och en utvecklad rutin för kränkningsanmälningar.
-- Utvecklat en förtydligad struktur för lärarnas bedömningar med sambedömning och gemensamma analyser.
+\- En utvecklad struktur för elevhälsans samarbete med lärarna och mellan speciallärare-lärare.
+\- Speciallärare ger ett mer utvecklat stöd till lärarna och ett riktat kollegialt stöd från förstelärare.
+\- Förtydligad struktur kring raster/rastaktiviteter och en utvecklad rutin för kränkningsanmälningar.
+\- Utvecklat en förtydligad struktur för lärarnas bedömningar med sambedömning och gemensamma analyser.
 
 Beslutsunderlag
 Förskola & Grundskola arbetsutskotts tjänsteskrivelse, 2024-09-23

@@ -134,7 +134,7 @@ Datum
 
 Svar på motion från Per Gunnarsson (S) och Magdalena Sundqvist (S) om
 Förena modernitet och tradition: Skyltar byar, TE-2023-00860 (KS-2023-
-00568) ..................................................................................................... 21
+00568\) ..................................................................................................... 21
 
 § 15 Dnr TE-2023-01145
 Delegeringsförteckning 2024 - nämnden för Teknik ................................ 22
@@ -170,7 +170,7 @@ Nämnden för Teknik godkänner förändring av ärendenlista.
 Sammanfattning av ärendet
 
 Ordförande Monica Neptun (L) anmäler ett extra ärende till dagens sammanträde:
--  Initiativärende gällande egenavgifter färdtjänsten i Kungsbacka –
+\-  Initiativärende gällande egenavgifter färdtjänsten i Kungsbacka –
 
 Socialdemokraterna
 Ärendet behandlas före dem resterande färdtjänstärendena §§ 8–9 på sammanträdet.
@@ -611,38 +611,38 @@ från investeringsplaneringen för att istället hantera projektet som särskilt
 april 2024.
 För 2025 är investeringsbehoven enligt följande:
 
-- Skattefinansierad verksamhet 80 miljoner kronor
-- Vatten och Avlopp, summa nettokostnad 403,7 miljoner kronor
+\- Skattefinansierad verksamhet 80 miljoner kronor
+\- Vatten och Avlopp, summa nettokostnad 403,7 miljoner kronor
 
-- Avfall och Återvinning, summa nettokostnad 14,75 miljoner kronor
-- Bredband, summa nettokostnad 25,15 miljoner kronor.
+\- Avfall och Återvinning, summa nettokostnad 14,75 miljoner kronor
+\- Bredband, summa nettokostnad 25,15 miljoner kronor.
 
 Nämnden för Teknik beslutar om fördelning av medel mellan de olika
 projektportföljerna avseende 2025 enligt nedan.
 Skatt
 
-- Portfölj cykelkommun 33 % av tillgängliga medel
-- Portfölj kommunens vägnät 6 % av tillgängliga medel
+\- Portfölj cykelkommun 33 % av tillgängliga medel
+\- Portfölj kommunens vägnät 6 % av tillgängliga medel
 
-- Portfölj den attraktiva staden 8 % av tillgängliga medel
+\- Portfölj den attraktiva staden 8 % av tillgängliga medel
 
-- Portfölj skog och park 8 % av tillgängliga medel
-- Portfölj reinvesteringar 28 % av tillgängliga medel
+\- Portfölj skog och park 8 % av tillgängliga medel
+\- Portfölj reinvesteringar 28 % av tillgängliga medel
 
-- Portfölj maskiner och fordon 17 % av tillgängliga medel
+\- Portfölj maskiner och fordon 17 % av tillgängliga medel
 Vatten och avlopp
 
-- Portfölj Teknik VA 0,3% av tillgängliga medel
-- Portfölj VA Vattenproduktion 2,8% av tillgängliga medel
+\- Portfölj Teknik VA 0,3% av tillgängliga medel
+\- Portfölj VA Vattenproduktion 2,8% av tillgängliga medel
 
-- Portfölj VA Ledningsnät 55% av tillgängliga medel
-- Portfölj VA Avloppsrening 4,4 % av tillgängliga medel
+\- Portfölj VA Ledningsnät 55% av tillgängliga medel
+\- Portfölj VA Avloppsrening 4,4 % av tillgängliga medel
 
-- Portfölj VA Omvandling 31% av tillgängliga medel
-- Portfölj VA Exploatering 6,5% av tillgängliga medel
+\- Portfölj VA Omvandling 31% av tillgängliga medel
+\- Portfölj VA Exploatering 6,5% av tillgängliga medel
 
 Avfall och återvinning
-- Portfölj Avfall 100 % av tillgängliga medel
+\- Portfölj Avfall 100 % av tillgängliga medel
 
 Expedierat/bestyrkt
 
@@ -654,16 +654,16 @@ Datum
 2024-01-17
 
 Kungsbacka bredbandsnät
-- Portfölj Kungsbacka Bredbandsnät 4 % av tillgängliga medel
+\- Portfölj Kungsbacka Bredbandsnät 4 % av tillgängliga medel
 
-- Portfölj KBN Stamnät och hårdvara 29 % av tillgängliga medel
-- Portfölj KBN område/villaanslutningar 35 % av tillgängliga medel
+\- Portfölj KBN Stamnät och hårdvara 29 % av tillgängliga medel
+\- Portfölj KBN område/villaanslutningar 35 % av tillgängliga medel
 
-- Portfölj KBN Verksamhet och nya områden 16 % av tillgängliga medel
-- Portfölj KBN Samförläggning VA 6 % av tillgängliga medel
+\- Portfölj KBN Verksamhet och nya områden 16 % av tillgängliga medel
+\- Portfölj KBN Samförläggning VA 6 % av tillgängliga medel
 
-- Portfölj KBN Samförläggning belysning/GC-väg 6% av tillgängliga medel
-- Portfölj KBN Extra tillkommande investeringar 4 % av tillgängliga medel
+\- Portfölj KBN Samförläggning belysning/GC-väg 6% av tillgängliga medel
+\- Portfölj KBN Extra tillkommande investeringar 4 % av tillgängliga medel
 
 Sammanfattning av ärendet
 Förvaltningen för Teknik har berett förvaltningens samlade investeringsbehov för
@@ -877,7 +877,7 @@ samma sätt. Motionärerna framhåller att vissa av de gamla byarna i kommunen �
 försedda med vägskyltar som talar om var byn börjar och slutar men att vissa byar
 saknar sådana skyltar. Motionärerna menar att det vore önskvärt att alla byar
 presenteras på samma sätt. Motionen hanterades av Kommunfullmäktige 2023-09-
-12.
+12\.
 
 Yrkandet i motionen ligger inte inom förvaltningens för Tekniks ansvarsområde
 eftersom kommunen inte är väghållare där det kan vara aktuellt med ortsskyltar
@@ -922,32 +922,32 @@ förändringar är tydliggjorda i årets version av delegeringsförteckningen. D
 bort är markerat i rött och den uppdaterade texten är gulmarkerad.
 
 Uppdateringarna är beskriva nedan:
-- Ny punkt 3.22 - Beslut om avsteg från fordonspolicyns krav på fossilfritt bränsle.
+\- Ny punkt 3.22 - Beslut om avsteg från fordonspolicyns krav på fossilfritt bränsle.
 
-- 8.1 – Uppdatering av lagrum.
-- 8.2 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
+\- 8.1 – Uppdatering av lagrum.
+\- 8.2 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
 
-- 8.3 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
-- Ny punkt 8.4 - Besluta om förlängt tömningsintervall för fettavskiljare på
+\- 8.3 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
+\- Ny punkt 8.4 - Besluta om förlängt tömningsintervall för fettavskiljare på
 
 fastigheter med anslutning till det kommunala ledningsnätet
-- 8.5 – Uppdatering av lagrum, delegeringens omfattning, & nummer i
+\- 8.5 – Uppdatering av lagrum, delegeringens omfattning, & nummer i
 delegeringsförteckningen
 
-- 8.6 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
-- Ny punkt 8.7 - Besluta om inställd hämtning av avfall från fastighetens
+\- 8.6 – Uppdatering av lagrum & nummer i delegeringsförteckningen.
+\- Ny punkt 8.7 - Besluta om inställd hämtning av avfall från fastighetens
 avloppsanläggning
 
-- Ny punkt 8.8 - Besluta om uppehåll i slamtömning inklusive eventuella
+\- Ny punkt 8.8 - Besluta om uppehåll i slamtömning inklusive eventuella
 filteranläggningar
-- Ny punkt 8.9 - Besluta om uppehåll i tömning av fettavskiljare för fettavskiljare på
+\- Ny punkt 8.9 - Besluta om uppehåll i tömning av fettavskiljare för fettavskiljare på
 
 fastigheter med anslutning till det kommunala ledningsnätet
-- 8.10 – Uppdatering av nummer i delegeringsförteckningen.
+\- 8.10 – Uppdatering av nummer i delegeringsförteckningen.
 
-- Ny punkt 8.11 - Beslut om att frångå avfallsföreskrifter på annat sätt än i
+\- Ny punkt 8.11 - Beslut om att frångå avfallsföreskrifter på annat sätt än i
 undantagsfallen 35-46 §§
-- 9.1.1 – Uppdateringen förtydligar att omfördelning av belopp gäller inom av
+\- 9.1.1 – Uppdateringen förtydligar att omfördelning av belopp gäller inom av
 nämnden beslutade underportföljer.
 
 Beslutsunderlag
@@ -1034,14 +1034,14 @@ Sammanfattning av ärendet
 Under perioden 1–31 december har följande skrivelser inkommit till nämnden för
 Teknik:
 
-- Tjänsteskrivelse - Redovisning av icke färdigberedda motioner
-- Redovisning av icke färdigberedda motioner (2, 2023)
+\- Tjänsteskrivelse - Redovisning av icke färdigberedda motioner
+\- Redovisning av icke färdigberedda motioner (2, 2023)
 
-- Beslut - 202300134 - KS - § 191
-- NTE Protokollsutdrag 2023-12-13 § 153 Redovisning av inkomna handlingar 2023
+\- Beslut - 202300134 - KS - § 191
+\- NTE Protokollsutdrag 2023-12-13 § 153 Redovisning av inkomna handlingar 2023
 
-- Inbjudan till miljömålskonferens - 2024-01-26
-- Svar på frågor om färdtjänsten i Kungsbacka
+\- Inbjudan till miljömålskonferens - 2024-01-26
+\- Svar på frågor om färdtjänsten i Kungsbacka
 
 Beslutsgång
 Ordförande Monica Neptun (L) prövar om nämnden för Teknik kan notera
@@ -1098,7 +1098,7 @@ Nämnden för Teknik noterar informationen till protokollet
 Sammanfattning av ärendet
 
 Nämnden för Teknik informeras om:
--  Den extra satsningen på trygghetsbelysning i centrum, främst kring
+\-  Den extra satsningen på trygghetsbelysning i centrum, främst kring
 
 resecentrum och Badhusparken.
 

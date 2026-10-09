@@ -78,7 +78,7 @@ Lisa Håkansson, utvecklingschef
 Josefine Ivemalm Palm, Medley
 Susanne Andersson, Medley
 
-Paragrafer $$ 58-70
+Paragrafer \$\$ 58-70
 
 <!-- sida 2 -->
 
@@ -88,7 +88,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 58 Dnr KFT-2026-00139
+\$ 58 Dnr KFT-2026-00139
 Anmälan av jäv
 
 Beslut
@@ -117,7 +117,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 59 Dnr KFT-2026-00122
+\$ 59 Dnr KFT-2026-00122
 Information till nämnd: Medley
 
 Beslut
@@ -148,7 +148,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 60 Dnr KFT-2026-00123
+\$ 60 Dnr KFT-2026-00123
 Information till nämnd: uppföljning badhusverksamhet
 
 Beslut
@@ -179,7 +179,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 61 Dnr KFT-2026-00124
+\$ 61 Dnr KFT-2026-00124
 Information till nämnd: återrapportering nytt stöd till föreningar
 
 Beslut
@@ -224,7 +224,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 62 Dnr KFT-2026-00126
+\$ 62 Dnr KFT-2026-00126
 Information till nämnd: uppdatering Destination
 
 Beslut
@@ -255,7 +255,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 63 Dnr KFT-2026-00127
+\$ 63 Dnr KFT-2026-00127
 Uppföljning per april 2026
 
 Beslut
@@ -301,7 +301,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 64 Dnr KFT-2026-00140
+\$ 64 Dnr KFT-2026-00140
 Definition armlängds avstånd för nämnd och förvaltning
 
 Ärendet utgår vid nämnden för Kultur & Fritids sammanträde 13 maj 2026.
@@ -317,7 +317,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (15)
 
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
-$ 65 Dnr KFT-2026-00141
+\$ 65 Dnr KFT-2026-00141
 Information till nämnd: förvaltningens förhållningssätt till armlängds
 avstånd
 
@@ -334,7 +334,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 66 Dnr KFT-2026-00128
+\$ 66 Dnr KFT-2026-00128
 Delrapportering uppdrag ridanläggningar
 
 Beslut
@@ -350,7 +350,7 @@ och att delrapportering ska presenteras våren 2026.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2026-04-24
-Protokollsutdrag 2025-12-17 $ 131 Uppdrag Ridanläggningar, 2025-12-17
+Protokollsutdrag 2025-12-17 \$ 131 Uppdrag Ridanläggningar, 2025-12-17
 
 Beslutsgång
 
@@ -368,7 +368,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 67 Dnr KFT-2026-00138
+\$ 67 Dnr KFT-2026-00138
 Initiativärende Socialdemokraterna: Nya lokaler för Tölöscouterna
 
 Beslut
@@ -402,7 +402,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 68 Dnr KFT-2026-00129
+\$ 68 Dnr KFT-2026-00129
 Anmälan av delegeringsbeslut
 
 Beslut
@@ -441,7 +441,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 69 Dnr KFT-2026-00130
+\$ 69 Dnr KFT-2026-00130
 Redovisning av inkomna skrivelser
 
 Beslut
@@ -473,7 +473,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (15)
 Nämnden för Kultur & Fritid Dalin
 2026-05-13
 
-$ 70 Dnr KFT-2026-00131
+\$ 70 Dnr KFT-2026-00131
 Förvaltningschefen informerar
 
 Beslut

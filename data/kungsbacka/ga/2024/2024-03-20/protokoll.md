@@ -365,10 +365,10 @@ och engagemang, utan vi skapar också incitament för dem att fortsätta bidra t
 vården i Kungsbacka.
 
 Förslag till beslut:
-1. Att förvaltningen ser över möjligheterna att erbjuda tillsvidareanställning i
+1\. Att förvaltningen ser över möjligheterna att erbjuda tillsvidareanställning i
 kommunen efter avslutad utbildning i samråd med Nämnden för Vård och Omsorg
 
-2. Att förvaltningen ser över möjligheterna att erbjuda tillsvidareanställning i
+2\. Att förvaltningen ser över möjligheterna att erbjuda tillsvidareanställning i
 kommunen efter avslutad utbildning i samråd med förvaltningen för Vård och
 Omsorg
 
@@ -460,17 +460,17 @@ Sammanfattning av ärendet
 
 Följande skrivelser har inkommit under perioden.
 
-1. Föreläggande om yttrande till förvaltningsrätten
-2. Föreläggande om komplettering till laglighetsprövning i förvaltningsrätten
+1\. Föreläggande om yttrande till förvaltningsrätten
+2\. Föreläggande om komplettering till laglighetsprövning i förvaltningsrätten
 
-3. FSG protokoll 2024-03-12
-4. Beslut från Skolinspektionen gällande tillsyn vid Aranäsgymnasiet Enhet 2
+3\. FSG protokoll 2024-03-12
+4\. Beslut från Skolinspektionen gällande tillsyn vid Aranäsgymnasiet Enhet 2
 
-5. Förtroendevaldas arvoden 2024
-6. Riktlinjer personalföreträdare i nämnder
+5\. Förtroendevaldas arvoden 2024
+6\. Riktlinjer personalföreträdare i nämnder
 
-7. Strategi för krisberedskap och civilt försvar
-8. Reglemente för krisledningsnämnden
+7\. Strategi för krisberedskap och civilt försvar
+8\. Reglemente för krisledningsnämnden
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &

@@ -909,7 +909,7 @@ förhandsbeskedet vann laga kraft enligt 9 kap. 18 §, PBL.
 Enligt 2 kap. 9 § PBL, ska en obebyggd tomt, som ska bebyggas, ordnas på ett sätt
 som är lämpligt med hänsyn till stads- eller landskapsbilden och till natur- och
 kulturvärdena på platsen. Tomten ska ordnas så att
-1. naturförutsättningarna så långt möjligt tas till vara,
+1\. naturförutsättningarna så långt möjligt tas till vara,
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: AFDBD8081A28675444928A4AC53F49259162D6EB05
@@ -922,18 +922,18 @@ Byggnadsnämndens arbetsutskott
 Datum
 2026-02-24
 
-2. betydande olägenheter för omgivningen eller trafiken inte uppkommer,
-3. det finns en lämpligt belägen utfart eller annan utgång från tomten samt
+2\. betydande olägenheter för omgivningen eller trafiken inte uppkommer,
+3\. det finns en lämpligt belägen utfart eller annan utgång från tomten samt
 anordningar som medger nödvändiga transporter och tillgodoser kravet på
 framkomlighet för utryckningsfordon,
 
-4. det på tomten eller i närheten av den i skälig utsträckning finns lämpligt utrymme
+4\. det på tomten eller i närheten av den i skälig utsträckning finns lämpligt utrymme
 för parkering, lastning och lossning av fordon,
 
-5. personer med nedsatt rörelse- eller orienteringsförmåga ska kunna komma fram till
+5\. personer med nedsatt rörelse- eller orienteringsförmåga ska kunna komma fram till
 byggnadsverk och på annat sätt använda tomten, om det med hänsyn till terrängen
 och förhållandena i övrigt inte är orimligt, och
-6. risken för olycksfall begränsas.
+6\. risken för olycksfall begränsas.
 
 Beslutet kan överklagas
 Om du vill överklaga beslutet ska du skicka en skrivelse till Byggnadsnämnden,
