@@ -1,4 +1,4 @@
-"""Krav: K14 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
+"""Krav: K7 och K14 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
 
 from dataclasses import dataclass
 from datetime import datetime
@@ -7,6 +7,7 @@ from html import escape
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.konvertering.kvalitet import KVALITETER
+from kommunhandlingar.webbplats.luckavsnitt import luckavsnitt
 from kommunhandlingar.webbplats.rakning import Organrad, rakna
 
 STIL = """
@@ -90,14 +91,16 @@ def startsida(mall: Mall) -> str:
 
 
 def statussida(mall: Mall, kommun: Kommun, dokument: list[dict[str, str]]) -> str:
-    rader = rakna(kommun, dokument)
+    rader = rakna(kommun, dokument, mall.byggd.date())
     innehall = (
         sammanfattning(dokument)
         + "<h2>Dokument per organ</h2>"
         + dokumenttabell(rader)
         + "<h2>Kvalitet per organ</h2>"
         + f'<p>Nivåerna förklaras i <a href="{escape(mall.repo + ARKITEKTUR)}'
-        '#konvertering-och-kvalitet">arkitekturen</a>.</p>' + kvalitetstabell(rader)
+        '#konvertering-och-kvalitet">arkitekturen</a>.</p>'
+        + kvalitetstabell(rader)
+        + luckavsnitt(kommun, rader, mall.repo)
     )
     return sida(mall, f"{kommun.id}.html", kommun.namn, innehall)
 
@@ -112,11 +115,18 @@ def sammanfattning(dokument: list[dict[str, str]]) -> str:
 
 
 def dokumenttabell(rader: list[Organrad]) -> str:
-    kolumner = ["Sammanträden", *TYPORDNING]
+    kolumner = ["Sammanträden", *TYPORDNING, "Luckor"]
     return tabell(
         kolumner,
         [
-            (rad, [rad.sammantraden, *(rad.typer[typ] for typ in TYPORDNING)])
+            (
+                rad,
+                [
+                    rad.sammantraden,
+                    *(rad.typer[t] for t in TYPORDNING),
+                    len(rad.luckor),
+                ],
+            )
             for rad in rader
         ],
     )
