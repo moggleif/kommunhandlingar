@@ -1,0 +1,17 @@
+Parametrar,Enhet,Utbyggnadskoncept,
+,,Rötning,Pyrolys
+"Förtjockning, råslamlager, mottagning avvattnat slam yttre verk",,,
+Lager primärslam/kemslam,st.,2,2
+Lagervolym totalt,m³,600,600
+Blandslamförtjockarmaskiner,st,2,2
+Kapacitet per styck,m3/h,23,23
+Antagen TS-halt ut,% TS,6,6
+Bioslamförtjockarmaskiner,st,2,2
+Kapacitet per styck,m3/h,23,23
+Antagen TS-halt ut,% TS,5,5
+Råslamlager,st,2,2
+Lagervolym totalt,m³,600,600
+Mottagningsficka slam yttre verk,st,2,2
+Lagringsvolym i mottagning totalt,m3,40,40
+Upplösningsenhet för slam från yttre verk,st,1,-
+Kapacitet upplösning,ton slam/h,10,-

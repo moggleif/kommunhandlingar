@@ -1,0 +1,26 @@
+Parametrar,Enhet,Utbyggnadskoncept
+,,Rötning
+"Rötning, gashantering och uppgradering, avvattning",,
+Rötkammarvolymer,st.,2
+Volym per rötkammare,m³,1300
+HRT vid en avställd rötkammare,d,10
+Värmeväxlare för återvinning,par,2
+Återvunnen effekt totalt,kW,128
+Värmeväxlare för värmning,st,2
+Effekt för värmning,kW,172
+Effektbehov kylning,kW,70
+Nedbrytningsgrad,% av VS in,45
+Specifik gasproduktion,Nm3/nedbruten VS,"1,0"
+Driftform vid dimensionering,,Parallellt
+Metanhalt i biogas,Volym %,65
+Gasklocka volymbehov,m³,150
+Gasfackla kapacitetsbehov,Nm³ biogas/h,139
+Gasuppgradering kapacitetsbehov,Nm3 biogas/h,117
+Mobilt gaslager hanteringsbehov,"Nm3 CH /d
+4",1700
+Hålltankar för hygienisering/lager,st,4
+Volym per hålltank,m³,100
+Vacuumavgasning kapacitetsbehov,m3 rötat slam/h,5
+Avvattningsmaskiner/pressar,st,2
+Kapacitet per styck,kg TS/h,350
+Antagen TS-halt ut,% TS,28

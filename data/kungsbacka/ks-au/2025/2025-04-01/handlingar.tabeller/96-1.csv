@@ -1,0 +1,13 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Ledning,,,,
+Processgrupp:,Verksamhetsledning,,,,
+Process:,Inhämta juridisk expertis,,,,
+Processnummer:,1.1.3.3,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Begära extern
+juridisk expertis",Underlag,Diarium,Digitalt,Se anmärkning,"Avser eventuella kopior som används som underlag
+för juridiskt utlåtande. Gallras efter att utlåtandet är
+förankrat hos beställaren."
+"Motta extern juridisk
+expertis",Juridisk utlåtande,Diarium,Digitalt,Bevaras,"Skriftligt utlåtande registreras i regel tillsammans
+med tillhörande ärende."

@@ -1,0 +1,17 @@
+"Energibalans
+(MWh)","Utbyggnadskoncept
+CAS",,"Utbyggnadskoncept
+MBR",,"Utbyggnadskoncept
+AGS",
+,Rötning,Pyrolys,Rötning,Pyrolys,Rötning,Pyrolys
+Energianvändning:,,,,,,
+Elanvändning,2 140,2 820,3 230,3 910,2 380,3 060
+Värmeanvändning,1140,0,1140,0,1140,0
+Kylanvändning,310,0,310,0,310,0
+Total energianvändning,3 580,2 820,4 670,3 910,3 820,3 060
+Energiproduktion:,,,,,,
+Uppgraderad gas*,6260,0,6260,0,6260,0
+Värmeproduktion**,0,1900,0,1900,0,1900
+Total energitillförsel justerat för kvalité,6260,1900,6260,1900,6260,1900
+Energibalans (Produktion - Användning),2 680,-920,1 580,-2 010,2 430,-1 160
+Utvärdering (poäng),"5,0","3,7","4,6","3,2","4,9","3,6"
