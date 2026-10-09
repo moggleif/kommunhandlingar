@@ -1,15 +1,16 @@
-"""Krav: K14 i docs/02-KRAV.md. Kod: src/kommunhandlingar/webbplats/."""
+"""Krav: K7 och K14 i docs/02-KRAV.md. Kod: src/kommunhandlingar/webbplats/."""
 
 import shutil
 import tempfile
 import unittest
+from dataclasses import replace
 from datetime import UTC, datetime
 from pathlib import Path
 
 from kommunhandlingar import frontmatter
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import las
-from kommunhandlingar.webbplats import rakning, sidor
+from kommunhandlingar.webbplats import luckavsnitt, rakning, sidor
 from kommunhandlingar.webbplats.bygg import bygg
 
 FIXTURER = Path(__file__).parent / "fixtures"
@@ -56,10 +57,10 @@ class TestFrontMatter(unittest.TestCase):
 class TestRakning(unittest.TestCase):
     def rader(self, *texter: str) -> dict:
         dok = [frontmatter.las(text) for text in texter]
-        return {rad.id: rad for rad in rakning.rakna(exempelby(), dok)}
+        return {rad.id: rad for rad in rakning.rakna(exempelby(), dok, TID.date())}
 
     def test_organ_i_kommunfilens_ordning(self):
-        rader = rakning.rakna(exempelby(), [])
+        rader = rakning.rakna(exempelby(), [], TID.date())
         self.assertEqual([rad.id for rad in rader], ["bun", "fsn"])
 
     def test_dokument_och_sammantraden_raknas_per_organ(self):
@@ -117,6 +118,29 @@ class TestSidor(unittest.TestCase):
             self.assertIn('href="exempelby.html"', html)
             self.assertIn(f'href="{REPO}"', html)
             self.assertIn("2026-10-07 20:15 UTC", html)
+
+    def test_luckorna_per_organ_med_kallor(self):
+        html = self.statussida(
+            dokument(typ="kallelse"),
+            dokument(typ="protokoll"),
+            dokument(datum="2024-06-01", typ="protokoll"),
+        )
+        self.assertIn('<td class="tal">1</td></tr>', html)
+        self.assertIn('<a href="https://exempelby.se/fsn">mötessidan</a>', html)
+        self.assertIn("<li>2024-06-01: kallelse och handlingar saknas</li>", html)
+        self.assertNotIn("Inga luckor", html)
+
+    def test_arkivet_ar_en_kalla(self):
+        kommun = exempelby()
+        kalla = replace(kommun.kallor[0], wayback=True)
+        html = luckavsnitt.kallor(replace(kommun, kallor=(kalla,)), "fsn")
+        self.assertEqual(
+            html,
+            '<a href="https://exempelby.se/fsn">mötessidan</a> och Internet Archive',
+        )
+
+    def test_inga_luckor(self):
+        self.assertIn("<p>Inga luckor.</p>", self.statussida(dokument()))
 
     def test_text_ur_poolen_escapas(self):
         html = self.statussida(dokument(datum="<script>"))

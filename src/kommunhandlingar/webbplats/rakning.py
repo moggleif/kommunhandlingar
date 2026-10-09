@@ -1,12 +1,14 @@
-"""Krav: K14 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
+"""Krav: K7 och K14 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
 
 from collections import Counter
 from dataclasses import dataclass
+from datetime import date
 
 from kommunhandlingar.frontmatter import lista
 from kommunhandlingar.kandidat import TYPORDNING
-from kommunhandlingar.konfiguration import Kommun
+from kommunhandlingar.konfiguration import Kommun, Organ
 from kommunhandlingar.konvertering.kvalitet import KVALITETER
+from kommunhandlingar.webbplats.luckor import Lucka, luckor
 
 
 @dataclass(frozen=True)
@@ -17,6 +19,7 @@ class Organrad:
     typer: Counter
     kvaliteter: Counter
     obekraftade_sidor: int
+    luckor: list[Lucka]
 
     @property
     def dokument(self) -> int:
@@ -36,21 +39,20 @@ def okanda(dokument: dict[str, str], kommun: Kommun) -> list[str]:
     ]
 
 
-def rakna(kommun: Kommun, dokument: list[dict[str, str]]) -> list[Organrad]:
+def rakna(kommun: Kommun, dokument: list[dict[str, str]], idag: date) -> list[Organrad]:
     return [
-        organrad(
-            organ.id, organ.namn[0], [d for d in dokument if d["organ"] == organ.id]
-        )
+        organrad(organ, [d for d in dokument if d["organ"] == organ.id], idag)
         for organ in kommun.organ
     ]
 
 
-def organrad(organ_id: str, namn: str, dokument: list[dict[str, str]]) -> Organrad:
+def organrad(organ: Organ, dokument: list[dict[str, str]], idag: date) -> Organrad:
     return Organrad(
-        organ_id,
-        namn,
+        organ.id,
+        organ.namn[0],
         len({(d["datum"], d["lopnr"]) for d in dokument}),
         Counter(d["typ"] for d in dokument),
         Counter(d["kvalitet"] for d in dokument),
         sum(len(lista(d["tal_obekraftade"])) for d in dokument),
+        luckor(dokument, idag),
     )

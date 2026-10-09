@@ -138,9 +138,35 @@ kunna läggas till utan kodändring.
 
 ## K7 — Luckor redovisas
 
-- **Givet** ett sammanträde som vi vet har hållits
-- **När** ett av dess dokument inte hittas i någon källa
-- **Så** registreras det som saknat, med vilka källor som prövats och när.
+Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
+([ADR-0020](decisions/0020-luckor-raknas-fram-lagras-inte.md)).
+
+- **Givet** ett sammanträde med minst ett dokument i poolen, vars datum
+  har passerat när webbplatsen byggs
+- **När** det saknar både kallelse och handlingar, eller protokoll, och
+  organet har den typen vid något annat sammanträde
+- **Så** redovisas sammanträdet som en lucka på statussidan, med det som
+  saknas, organets källor i kommunfilen och när sidan byggdes.
+
+- **Givet** ett sammanträde med en kallelse men inga handlingar, eller
+  tvärtom
+- **När** webbplatsen byggs
+- **Så** är det ingen lucka: kallelsen och handlingarna publiceras ofta
+  som en fil, under endera namnet.
+
+- **Givet** ett sammanträde som hölls för färre än 21 dagar sedan
+- **När** dess protokoll saknas
+- **Så** är det ingen lucka: protokollet kan vänta på justering.
+
+- **Givet** ett sammanträde utan något dokument i poolen, eller ett
+  dokument som är `ej-hamtad`
+- **När** webbplatsen byggs
+- **Så** är det ingen lucka. Mötet går inte att skilja från ett inställt,
+  och ett `ej-hamtad` finns och syns under kvalitet (K6).
+
+- **Givet** en bilaga som bara finns vid vissa sammanträden
+- **När** webbplatsen byggs
+- **Så** är dess frånvaro ingen lucka.
 
 ## K8 — Körningen är inkrementell och kan avbrytas
 
