@@ -13,9 +13,9 @@ Texten under front matter
 ([ADR-0014](0014-markdown-texten-och-steg-2.md)) skrivs rad för rad som
 den står i PDF:en. Den innehåller rader som en Markdown-läsare tolkar
 som struktur: 2026-10-09 började omkring 26 000 rader med ett tal och en
-punkt och blev numrerade listor, 12 000 började med `- ` och blev
-punktlistor, 650 hade `<…>` som blev HTML eller försvann, och 560 rader
-med bara `-` gjorde raden ovanför till rubrik. Filerna visas därför fel
+punkt och blev numrerade listor, 12 000 började med ett bindestreck och
+ett mellanslag och blev punktlistor, 650 hade `<…>` som blev HTML eller
+försvann, och 560 rader med bara `-` gjorde raden ovanför till rubrik. Filerna visas därför fel
 på GitHub, och webbplatsen
 ([#55](https://github.com/moggleif/kommunhandlingar/issues/55)) kan inte
 använda en vanlig Markdown-läsare
@@ -70,12 +70,19 @@ en enda ägare av formatet. Den exakta regeln står i
   är den som stod. `pipeline` rörs inte, så omkonverteringen ser
   fortfarande vilka dokument som lästs av en äldre version. Escapningen tål
   inte att köras två gånger, så skriptet körs bara på filer som inte är
-  rättade, och tas bort när poolen är rättad.
+  rättade, och tas bort när poolen är rättad. Det finns kvar i historiken,
+  som `scripts/escapa_poolen.py` i commit b40cd06.
+* **Nattkörningens gren från 2026-10-09**, som ännu inte nått `main`,
+  mergas in i samma pull request och rättas med de andra. En gren som en
+  nattkörning med version 0.3.0 skriver efter det rättas med skriptet ur
+  historiken innan den mergas; lint i dess pull request faller annars.
 * **Markdown-lint** (markdownlint-cli2, MIT) körs i CI på varje
   `.md` som en pull request lägger till eller ändrar. Reglerna står i
   `.markdownlint-cli2.jsonc`; regler om stil och radlängd är avstängda,
   eftersom texten är PDF:ens rader, liksom regeln om omvända länkar,
-  som läser `(1)[3237]` ur en PDF som ett skrivfel.
+  som läser `(1)[3237]` ur en PDF som ett skrivfel. Nattkörningen kör
+  inte lint själv: dess data når `main` genom en pull request med samma
+  kontroller (ADR-0015).
 
 ### Consequences
 
@@ -153,5 +160,15 @@ en enda ägare av formatet. Den exakta regeln står i
    bara på de filer en pull request ändrar, och med Node, som redan finns
    i CI. Lint hittade också en trasig länk i ARKITEKTUR och några fel i
    dokumentationen, som rättades i samma ändring.
-5. **Omprövas** om webbplatsen eller #56 behöver hårda radbrytningar i
+5. **Datakontroll eller test (agenten).** Issuet föreslog att
+   datakontrollen renderar varje fil och prövar att inga rubriker, listor
+   eller HTML uppstår. Agenten valde testerna i stället: regeln prövas där
+   mot varje känt fall, och en datakontroll skulle göra markdown-it-py
+   till ett beroende i varje körning och rendera hela poolen varje gång.
+   Engångsskriptet gjorde samma prövning på varje fil det rättade.
+6. **Granskningen (granskaren).** Fann att lint föll på två kodspann i
+   dokumentationen, att nattkörningens gren från 2026-10-09 med 241
+   oescapade filer saknade en väg till `main`, och att `_` i en rad av
+   streck kunde bli betoning. Alla tre rättades i samma pull request.
+7. **Omprövas** om webbplatsen eller #56 behöver hårda radbrytningar i
    råfilen.

@@ -10,7 +10,8 @@ import re
 
 # Var som helst i raden: \ före skiljetecken och i radslutet, kod, betoning,
 # genomstrykning och formler, HTML och autolänkar, entiteter, länkar och
-# `_` som inte står inne i ett ord.
+# `_` som inte står inne i ett ord. `]` före `[` blir aldrig en länk utan
+# definition, men lint läser det som en referens.
 I_RADEN = re.compile(
     r"\\(?=[!-/:-@\[-`{-~]|$)"
     r"|[`*~$]"
@@ -21,18 +22,19 @@ I_RADEN = re.compile(
     re.MULTILINE,
 )
 # Radens början: listor, rubriker, citat och länkdefinitioner.
-LISTA_MED_TAL = re.compile(r"^(\d+)([.)])(?= |$)")
-FORSTA_TECKEN = re.compile(r"^(?:[-+](?= |$)|#|>|\[(?=[^\]]*\]:))")
+LISTA_MED_TAL = re.compile(r"^(\d+)([.)])(?=[ \t]|$)")
+FORSTA_TECKEN = re.compile(r"^(?:[-+](?=[ \t]|$)|#|>|\[(?=[^\]]*\]:))")
 # En rad av bara streck kan bli rubrikstreck, linje eller tabellavgränsare;
-# ett \ först räcker för att den ska bli text. Stjärnorna escapas ändå, så
-# att lint inte läser dem som betoning.
+# ett \ först gör den till text, och `*` och `_` escapas så att de inte
+# blir betoning.
 STRECK = re.compile(r"[-=_*|: ]+")
 
 
 def rad(text: str) -> str:
     rad_ = text.strip()
     if STRECK.fullmatch(rad_):
-        return "\\" + rad_[0] + rad_[1:].replace("*", "\\*")
+        resten = rad_[1:].replace("*", "\\*").replace("_", "\\_")
+        return "\\" + rad_[0] + resten
     escapad = LISTA_MED_TAL.sub(r"\1\\\2", i_raden(rad_))
     return FORSTA_TECKEN.sub(lambda m: "\\" + m.group(), escapad)
 

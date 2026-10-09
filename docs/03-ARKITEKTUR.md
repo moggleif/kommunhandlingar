@@ -720,9 +720,9 @@ Hur och varför står i
 [ADR-0014](decisions/0014-markdown-texten-och-steg-2.md) och
 [ADR-0021](decisions/0021-texten-ar-riktig-markdown.md). Texten är
 riktig Markdown: CommonMark med GFM:s tabeller och genomstrykning, och
-GitHubs formler med `$`. Efter front matter följer sidorna i ordning. Varje sida börjar med kommentaren
-`<!-- sida N -->`, så att en sida i `kvalitet_per_sida` eller
-`tal_obekraftade` går att hitta i texten.
+GitHubs formler med `$`. Efter front matter följer sidorna i ordning.
+Varje sida börjar med kommentaren `<!-- sida N -->`, så att en sida i
+`kvalitet_per_sida` eller `tal_obekraftade` går att hitta i texten.
 
 - **Texten** är textlagret med bevarad uppställning (pdfplumber,
   `layout=True`). Raderna skrivs utan indrag, men mellanrummen inne i
@@ -733,14 +733,14 @@ GitHubs formler med `$`. Efter front matter följer sidorna i ordning. Varje sid
 - **Escapningen** gör att texten visas som den stod. Bara det som annars
   ändrar betydelse får ett `\` framför sig:
   - i radens början: talet i `1.` och `1)` (`1\.`), `-` och `+` följda av
-    mellanslag eller radslut, `#`, `>`, och `[` i något som liknar en
+    mellanslag, tabb eller radslut, `#`, `>`, och `[` i något som liknar en
     länkdefinition (`[1]: …`);
   - en rad av bara `-`, `=`, `_`, `*`, `|`, `:` och mellanslag får ett
-    `\` först, och i övrigt escapas bara `*`;
+    `\` först, och i övrigt escapas bara `*` och `_`;
   - var som helst: `\` före ett skiljetecken eller i radslutet, `` ` ``,
     `*`, `~`, `$`, `<` före en bokstav, `/`, `!` eller `?`, `&` i
-    något som liknar en entitet (`&amp;`, `&#776;`), `]` före `(` eller `[`, och `_`
-    som inte står mellan två bokstäver eller siffror.
+    något som liknar en entitet (`&amp;`, `&#776;`), `]` före `(` eller
+    `[`, och `_` som inte står mellan två bokstäver eller siffror.
 - **En OCR-sida** escapas på samma sätt, och raderna skrivs utan indrag.
 - **En osäker tabell** står där den står på sidan, som ett kodblock märkt
   `osaker-tabell` med uppställningen kvar. Staketet är längre än varje
@@ -859,9 +859,10 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
   cell stå i sidans text före tolkningen, och en cell med siffror som
   inte är ett helt tal, som `65–79 år` eller `2022-23`, ska stå
   ordagrant där. Sidans text är då utan länkarna till tabellerna och
-  utan Markdowns escapning, som den stod i PDF:en, och ett tal är ett helt tal med tusentalsmellanrum: `120` står inte i
-  `1 120` eller `1 250–1 120`, och inget tal står i `13.30`,
-  `2025-10-08`, `2022/23`, `K15` eller `3a`. En cell som står ordagrant
+  utan Markdowns escapning, som den stod i PDF:en, och ett tal är ett
+  helt tal med tusentalsmellanrum: `120` står inte i `1 120` eller
+  `1 250–1 120`, och inget tal står i `13.30`, `2025-10-08`, `2022/23`,
+  `K15` eller `3a`. En cell som står ordagrant
   är heller ingen del av ett tal: `5–3` står inte i `2,5–3,5`, och
   `250–300` inte i `1 250–300`. Eftersom tusentalen skiljs med
   mellanslag läses tal med ett enda mellanslag emellan ihop, som axeln

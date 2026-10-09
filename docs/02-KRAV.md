@@ -70,7 +70,8 @@ kunna läggas till utan kodändring.
   vilka verktyg och med vilken kvalitet – och PDF:en raderas. Fälten står
   i [Front matter](03-ARKITEKTUR.md#front-matter).
 - **Givet** text i PDF:en som Markdown annars läser som struktur, till
-  exempel en rad som börjar med `1.`, `- ` eller `#`, eller en adress
+  exempel en rad som börjar med `1.`, `#` eller ett
+  bindestreck och ett mellanslag, eller en adress
   inom `<…>`
 - **När** dokumentet konverteras
 - **Så** visar en Markdown-läsare (CommonMark med GFM:s tabeller) texten
