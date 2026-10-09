@@ -16,11 +16,13 @@ issuet frågade hur vi vet att ett möte hållits, hur ett ojusterat
 protokoll skiljs från ett som saknas, hur ett inställt möte märks och var
 en lucka registreras.
 
-Poolen hade 2026-10-09 445 sammanträden i 15 organ. 373 hade kallelse,
-handlingar och protokoll. Revisionen publicerar bara protokoll.
-Mötessidorna listar varje möte som en rubrik, men bara tre rubriker i
-de sparade sidorna saknade filer, och ingen sa "inställt". Arkivet
-(ADR-0018) är avstängt.
+Organen publicerar olika: en del aldrig kallelser, en del kallelsen och
+handlingarna i en och samma fil, ibland med rubriken "Handlingar", ibland
+"Kallelse och handlingar". Mötessidorna listar varje möte som en rubrik,
+och ett möte utan filer går inte att skilja från ett inställt. Hur
+Kungsbacka publicerar står i
+[kallor/kungsbacka.md](../kallor/kungsbacka.md). Arkivet (ADR-0018) är
+avstängt.
 
 ## Decision Drivers
 
@@ -52,9 +54,11 @@ Reglerna:
 
 * **Ett möte har hållits** när poolen har minst ett dokument från det
   och datumet har passerat. Ett möte utan dokument tas inte med.
-* **Vilka typer som väntas** avgörs per organ av poolen: kallelse,
-  handlingar och protokoll väntas för ett organ som har typen vid något
-  annat sammanträde. Bilagor väntas aldrig.
+* **Vad som väntas** avgörs per organ av poolen, i två grupper: kallelse
+  eller handlingar, och protokoll. En grupp väntas för ett organ som har
+  den vid något annat sammanträde, och den saknas när mötet inte har
+  någon av dess typer. Kallelsen och handlingarna är en grupp eftersom de
+  ofta är samma fil, under endera namnet. Bilagor väntas aldrig.
 * **Ett protokoll** saknas först 21 dagar efter mötet: kommunallagen ger
   14 dagar för justeringen, och en vecka till för anslag och
   publicering. Lagen gäller alla svenska kommuner, så gränsen står i
@@ -69,10 +73,12 @@ Reglerna:
 
 * Good, eftersom ingenting nytt lagras och nattkörningen inte ändras.
 * Good, eftersom regeln för väntade typer gör att ett organ som aldrig
-  publicerar en typ, som revisionen och kallelser, inte får falska
-  luckor, utan att något står i kommunfilen.
+  publicerar en typ inte får falska luckor, utan att något står i
+  kommunfilen.
 * Good, eftersom en fil som inget mönster känner igen syns som en lucka
   i stället för att försvinna tyst i sammanfattningen.
+* Bad, eftersom ett möte med bara kallelsen, när handlingarna verkligen
+  saknas, inte blir en lucka.
 * Bad, eftersom ett möte utan något dokument inte syns, och ett organ
   som aldrig publicerat en typ aldrig får en lucka för den.
 * Bad, eftersom en lucka inte har någon egen tid; den gäller poolen när
@@ -123,15 +129,27 @@ dokument, väntade typer per organ med 21 dagar för protokollet, och K7
 omskrivet så att "vilka källor som prövats och när" blir organets
 källor och sidans byggtid.
 
+I fas 0 väntades varje typ för sig. Med den regeln gav poolen 2026-10-09
+29 möten med luckor. Granskningen visade att de flesta var falska: filer
+med rubriken "Handlingar för möte …" börjar med kallelsen, och "Kallelse
+och handlingar för möte …" är båda. Agenten slog därför ihop kallelse
+och handlingar till en grupp. Då återstod två luckor, båda trovärdiga:
+ett möte med kallelse och handlingar men inget protokoll, och ett med
+protokoll men varken kallelse eller handlingar. Att en grupp missar ett
+möte där bara handlingarna saknas bedömdes som bättre än att visa
+luckor som inte finns ("hellre märka än gissa").
+
+ADR-0004 sköt upp två frågor till luckorna. "Vilka källor som prövats
+och när" besvaras här: organets källor och sidans byggtid. Om en fil som
+länkas från flera sammanträden ska räknas för det andra avgörs inte: den
+står på det första mötets plats, och det andra mötet blir en lucka om
+det inte har något annat dokument i gruppen. Det är en sann beskrivning
+av poolen, och frågan tas upp om det visar sig hända.
+
 Den andra källan, som issuet tänkte sig kom med arkivet, behövs inte i
 A: luckan bygger på att mötet har dokument, inte på att två källor
 jämförts. Fyller arkivet en lucka när det slås på försvinner luckan
 från sidan av sig själv.
-
-Med reglerna gav poolen 2026-10-09 30 luckor: 24 möten utan handlingar,
-5 utan kallelse och ett utan protokoll. Mötena utan handlingar kan vara
-luckor i källan eller filer som inget mönster känner igen; att de syns
-är poängen.
 
 C prövas igen om möten utan dokument visar sig vara vanliga, och en
 lista med inställda möten i kommunfilen, som `rattelser`, om ett inställt

@@ -4,7 +4,8 @@ from collections import defaultdict
 from dataclasses import dataclass
 from datetime import date, timedelta
 
-VANTADE = ("kallelse", "handlingar", "protokoll")
+# Kallelsen och handlingarna publiceras ofta som en fil, under endera namnet.
+GRUPPER = (("kallelse", "handlingar"), ("protokoll",))
 # Kommunallagen ger 14 dagar för justeringen; en vecka till för anslag och publicering.
 JUSTERING = timedelta(days=21)
 
@@ -20,18 +21,19 @@ def luckor(dokument: list[dict[str, str]], idag: date) -> list[Lucka]:
     moten = defaultdict(set)
     for d in dokument:
         moten[(d["datum"], d["lopnr"])].add(d["typ"])
-    vantade = {typ for typer in moten.values() for typ in typer if typ in VANTADE}
+    organets = set().union(*moten.values())
+    vantade = [grupp for grupp in GRUPPER if organets.intersection(grupp)]
     return [
         Lucka(datum, lopnr, saknas)
         for (datum, lopnr), typer in sorted(moten.items())
-        if (saknas := saknade(datum, vantade - typer, idag))
+        if (saknas := saknade(datum, [g for g in vantade if not typer & set(g)], idag))
     ]
 
 
 # Datumen är ÅÅÅÅ-MM-DD (datakontrollen), så de jämförs som text.
-def saknade(datum: str, typer: set[str], idag: date) -> tuple[str, ...]:
+def saknade(datum: str, grupper: list[tuple], idag: date) -> tuple[str, ...]:
     if datum >= idag.isoformat():
         return ()
     if datum > (idag - JUSTERING).isoformat():
-        typer = typer - {"protokoll"}
-    return tuple(typ for typ in VANTADE if typ in typer)
+        grupper = [grupp for grupp in grupper if "protokoll" not in grupp]
+    return tuple(" och ".join(grupp) for grupp in grupper)

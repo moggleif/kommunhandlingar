@@ -878,13 +878,11 @@ push till `main` och för hand. Inget av det som byggs checkas in.
   något att räkna andelen av.
 - **Luckorna** (K7,
   [ADR-0020](decisions/0020-luckor-raknas-fram-lagras-inte.md)) räknas
-  ur samma front matter, med sidans byggdatum som dag: för varje organ de
-  sammanträden före dagen som saknar en av typerna kallelse, handlingar
-  och protokoll som organet har vid något annat sammanträde. Ett
-  protokoll saknas först 21 dagar efter mötet. Dokumenttabellen har en
-  kolumn med antalet luckor, och under tabellerna står varje organ med
-  luckor: dess källor ur kommunfilen och mötenas datum med de typer som
-  saknas.
+  ur samma front matter, med sidans byggdatum som dag, enligt reglerna i
+  K7 (`webbplats/luckor.py`). Dokumenttabellen har en kolumn med antalet
+  luckor, och under tabellerna står varje organ med luckor: dess källor
+  ur kommunfilen och mötenas datum med det som saknas
+  (`webbplats/luckavsnitt.py`).
 - **Statisk och utan beroenden:** bara standardbiblioteket, ingen
   JavaScript och inga externa resurser. All text går genom
   `html.escape`. Ingen information bärs av färg.

@@ -3,13 +3,14 @@
 import shutil
 import tempfile
 import unittest
+from dataclasses import replace
 from datetime import UTC, datetime
 from pathlib import Path
 
 from kommunhandlingar import frontmatter
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import las
-from kommunhandlingar.webbplats import rakning, sidor
+from kommunhandlingar.webbplats import luckavsnitt, rakning, sidor
 from kommunhandlingar.webbplats.bygg import bygg
 
 FIXTURER = Path(__file__).parent / "fixtures"
@@ -126,8 +127,17 @@ class TestSidor(unittest.TestCase):
         )
         self.assertIn('<td class="tal">1</td></tr>', html)
         self.assertIn('<a href="https://exempelby.se/fsn">mötessidan</a>', html)
-        self.assertIn("<li>2024-06-01: kallelse saknas</li>", html)
+        self.assertIn("<li>2024-06-01: kallelse och handlingar saknas</li>", html)
         self.assertNotIn("Inga luckor", html)
+
+    def test_arkivet_ar_en_kalla(self):
+        kommun = exempelby()
+        kalla = replace(kommun.kallor[0], wayback=True)
+        html = luckavsnitt.kallor(replace(kommun, kallor=(kalla,)), "fsn")
+        self.assertEqual(
+            html,
+            '<a href="https://exempelby.se/fsn">mötessidan</a> och Internet Archive',
+        )
 
     def test_inga_luckor(self):
         self.assertIn("<p>Inga luckor.</p>", self.statussida(dokument()))

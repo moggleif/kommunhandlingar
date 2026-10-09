@@ -143,10 +143,16 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 
 - **Givet** ett sammanträde med minst ett dokument i poolen, vars datum
   har passerat när webbplatsen byggs
-- **När** en typ som organet har vid något annat sammanträde – kallelse,
-  handlingar eller protokoll – saknas
-- **Så** redovisas sammanträdet som en lucka på statussidan, med de typer
-  som saknas, organets källor i kommunfilen och när sidan byggdes.
+- **När** det saknar både kallelse och handlingar, eller protokoll, och
+  organet har den typen vid något annat sammanträde
+- **Så** redovisas sammanträdet som en lucka på statussidan, med det som
+  saknas, organets källor i kommunfilen och när sidan byggdes.
+
+- **Givet** ett sammanträde med en kallelse men inga handlingar, eller
+  tvärtom
+- **När** webbplatsen byggs
+- **Så** är det ingen lucka: kallelsen och handlingarna publiceras ofta
+  som en fil, under endera namnet.
 
 - **Givet** ett sammanträde som hölls för färre än 21 dagar sedan
 - **När** dess protokoll saknas

@@ -116,20 +116,12 @@ def sammanfattning(dokument: list[dict[str, str]]) -> str:
 
 def dokumenttabell(rader: list[Organrad]) -> str:
     kolumner = ["Sammanträden", *TYPORDNING, "Luckor"]
-    return tabell(
-        kolumner,
-        [
-            (
-                rad,
-                [
-                    rad.sammantraden,
-                    *(rad.typer[t] for t in TYPORDNING),
-                    len(rad.luckor),
-                ],
-            )
-            for rad in rader
-        ],
-    )
+    return tabell(kolumner, [(rad, dokumenttal(rad)) for rad in rader])
+
+
+def dokumenttal(rad: Organrad) -> list[int]:
+    typer = [rad.typer[typ] for typ in TYPORDNING]
+    return [rad.sammantraden, *typer, len(rad.luckor)]
 
 
 def kvalitetstabell(rader: list[Organrad]) -> str:

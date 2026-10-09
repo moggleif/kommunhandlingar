@@ -3,23 +3,20 @@
 from html import escape
 
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.luckor import Lucka
+from kommunhandlingar.webbplats.luckor import JUSTERING, Lucka
 from kommunhandlingar.webbplats.rakning import Organrad
 
 ADR = "/blob/main/docs/decisions/0020-luckor-raknas-fram-lagras-inte.md"
-INLEDNING = (
-    "<p>Sammanträden före den dag sidan byggdes som saknar en kallelse, "
-    "handlingar eller ett protokoll, när organet har den typen vid något annat "
-    "sammanträde. Ett protokoll räknas som saknat först 21 dagar efter mötet. "
-    'Hur luckorna räknas står i <a href="{}">ADR-0020</a>.</p>'
-)
 
 
 def luckavsnitt(kommun: Kommun, rader: list[Organrad], repo: str) -> str:
     organ = "".join(organluckor(kommun, rad) for rad in rader if rad.luckor)
     return (
         "<h2>Luckor</h2>"
-        + INLEDNING.format(escape(repo + ADR))
+        "<p>Sammanträden före den dag sidan byggdes som saknar både kallelse och "
+        "handlingar, eller protokoll, när organet har dem vid andra sammanträden. "
+        f"Ett protokoll räknas som saknat först {JUSTERING.days} dagar efter mötet. "
+        f'Hur luckorna räknas står i <a href="{escape(repo + ADR)}">ADR-0020</a>.</p>'
         + (organ or "<p>Inga luckor.</p>")
     )
 

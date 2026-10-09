@@ -158,6 +158,13 @@ eller protokollet.
 - **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena
   (tjänsteskrivelser, bilagor) ligger efter varandra i samma fil.
   Kallelsen listar ärendena och är liten.
+- **Kallelsen står ibland först i handlingarna.** Filer med rubriken
+  "Handlingar för möte …" börjar med kallelsen, och "Kallelse och
+  handlingar för möte …" är båda (kontrollerat 2026-10-09 i poolen, till
+  exempel Gymnasium & Arbetsmarknad 2024-01-24 och Förskola & Grundskola
+  2024-08-21). Därför räknas de som en grupp i luckorna
+  ([ADR-0020](../decisions/0020-luckor-raknas-fram-lagras-inte.md)).
+- **Revisionen publicerar bara protokoll**, inga kallelser.
 - **Storleken varierar kraftigt.** Enligt länktexterna och JSON-postens
   `fileSize` 2026-10-07 är hälften av de omkring 490 handlingsfilerna
   under 6,7 MB, men 36 är över 100 MB
