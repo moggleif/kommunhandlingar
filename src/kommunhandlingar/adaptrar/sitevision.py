@@ -1,4 +1,4 @@
-"""Krav: K1 och K2 i docs/02-KRAV.md, ADR-0011. Test: tests/test_sitevision.py."""
+"""Krav: K1, K2 och K16 i docs/02-KRAV.md, ADR-0011. Test: tests/test_sitevision.py."""
 
 import re
 from dataclasses import dataclass
@@ -9,7 +9,7 @@ from kommunhandlingar.adaptrar.sitevision_html import Forekomst, forekomster
 from kommunhandlingar.fel import IngenKandidat, Konfigurationsfel
 from kommunhandlingar.kandidat import Avvisad, Kandidat
 
-FALT = {"adapter", "monster", "manader", "sidor", "rubrik", "rattelser"}
+FALT = {"adapter", "monster", "manader", "sidor", "rubrik", "rattelser", "wayback"}
 MONSTERGRUPPER = {"ar", "manad", "dag", "typ"}
 
 
@@ -20,6 +20,7 @@ class Kalla:
     monster: tuple[monster.Monster, ...]
     manader: tuple[str, ...]
     rattelser: dict[str, date]
+    wayback: bool
 
 
 def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
@@ -34,6 +35,7 @@ def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
         ),
         monster.manader(post, var),
         rattelser(schema.valfritt(post, "rattelser", dict, var) or {}, var),
+        schema.valfritt(post, "wayback", bool, var) or False,
     )
 
 
@@ -61,10 +63,17 @@ def rattelser(tabell: dict, var: str) -> dict[str, date]:
 def upptack(
     kalla: Kalla, html_per_sida: dict[str, str]
 ) -> tuple[list[Kandidat], list[Avvisad]]:
+    return las(kalla, [(o, a, html_per_sida[a]) for o, a in kalla.sidor.items()])
+
+
+def las(
+    kalla: Kalla, sidor: list[tuple[str, str, str]]
+) -> tuple[list[Kandidat], list[Avvisad]]:
+    """Sidorna som organ, adress och HTML; den första sidan med en fil gäller."""
     kandidater: dict[str, Kandidat] = {}
     avvisade: dict[str, Avvisad] = {}
-    for organ, adress in kalla.sidor.items():
-        for forekomst in forekomster(html_per_sida[adress], adress):
+    for organ, adress, html in sidor:
+        for forekomst in forekomster(html, adress):
             nyckel = kallnyckel(forekomst)
             if nyckel in kandidater:
                 continue

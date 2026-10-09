@@ -1,15 +1,30 @@
-"""Krav: K2 och K13, ADR-0013. Kod: src/kommunhandlingar/upptack.py."""
+"""Krav: K2, K13 och K16, ADR-0013 och ADR-0018.
+Kod: src/kommunhandlingar/upptack.py."""
 
+import argparse
 import json
 import tempfile
 import unittest
+from contextlib import redirect_stdout
+from dataclasses import replace
+from datetime import UTC, datetime
+from io import StringIO
 from pathlib import Path
 
 from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 from kommunhandlingar.konfiguration import las
-from kommunhandlingar.upptack import sammanfattning, skriv, upptack, utanfor_repot
+from kommunhandlingar.tidsbudget import Tidsgrans
+from kommunhandlingar.upptack import (
+    main,
+    sammanfattning,
+    skriv,
+    upptack,
+    upptack_arkiv,
+    utanfor_repot,
+)
 from tests.test_konfiguration import FIXTURER, ROT
 from tests.test_sitevision import lank, sida
+from tests.test_sitevision_arkiv import arkivet
 
 
 class Klient:
@@ -40,7 +55,7 @@ class TestUpptack(unittest.TestCase):
         )
         kandidater, avvisade = upptack(self.kommun, klient)
         self.assertEqual([k.kallnyckel[-2:] for k in kandidater], ["b2", "b1", "f1"])
-        text = sammanfattning(self.kommun, kandidater, avvisade)
+        text = sammanfattning(self.kommun, kandidater, avvisade, [])
         self.assertIn("3 kandidater, 1 filer utan kandidat", text)
         self.assertIn("  bun: 2", text)
         self.assertIn("Budget 2022.pdf (inget mönster matchar)", text)
@@ -72,3 +87,52 @@ class TestUpptack(unittest.TestCase):
             utanfor_repot(ROT / "arbete", ROT)
         with tempfile.TemporaryDirectory() as katalog:
             self.assertEqual(utanfor_repot(Path(katalog), ROT), Path(katalog))
+
+
+class TestArkivet(unittest.TestCase):
+    def setUp(self):
+        exempelby = las(FIXTURER / "exempelby.toml")
+        self.utan_arkiv = exempelby
+        kalla = replace(exempelby.kallor[0], wayback=True)
+        self.kommun = replace(exempelby, kallor=(kalla,))
+
+    def test_utan_arkiv_i_konfigurationen_fragas_inget(self):
+        self.assertEqual(upptack_arkiv(self.utan_arkiv, Klient({}), None), ([], [], []))
+
+    def test_arkivets_lista_nyast_forst(self):
+        kandidater, _, noteringar = upptack_arkiv(self.kommun, arkivet(), None)
+        self.assertEqual(
+            [str(k.datum) for k in kandidater], ["2022-05-03", "2022-05-02"]
+        )
+        self.assertEqual(
+            noteringar, ["arkivets lista för https://exempelby.se/fsn: anslutning"]
+        )
+
+    def test_noteringarna_star_i_sammanfattningen(self):
+        text = sammanfattning(self.kommun, [], [], ["https://a: anslutning"])
+        self.assertIn("\nArkivet: https://a: anslutning", text)
+
+    def test_den_harda_gransen_ger_en_tom_lista(self):
+        class Avbryter:
+            def text(self, url):
+                raise Tidsgrans
+
+        resultat = upptack_arkiv(self.kommun, Avbryter(), datetime.now(UTC))
+        self.assertEqual(resultat, ([], [], ["avbrutet vid tidsbudgetens hårda gräns"]))
+
+    def test_arkivet_fragas_inte_efter_den_mjuka_gransen(self):
+        with tempfile.TemporaryDirectory() as katalog:
+            arg = argparse.Namespace(
+                kommunfil=ROT / "kommuner" / "kungsbacka.toml",
+                arbetskatalog=Path(katalog),
+                arkiv=True,
+                start=datetime(2026, 1, 1, tzinfo=UTC),
+            )
+            with redirect_stdout(StringIO()) as utskrift:
+                main(arg)
+            lista = Path(katalog) / "kungsbacka.arkiv.kandidater.json"
+            self.assertEqual(json.loads(lista.read_text("utf-8")), [])
+        self.assertIn(
+            "Arkivet: väntar på nästa körning; tidsbudgeten är slut",
+            utskrift.getvalue(),
+        )

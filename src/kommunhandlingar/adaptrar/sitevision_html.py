@@ -11,7 +11,8 @@ from dataclasses import dataclass
 from html.parser import HTMLParser
 from urllib.parse import unquote, urljoin
 
-NEDLADDNING = re.compile(r"^(?:https?://[^/]+)?/download/(18\.[0-9a-f]+)/")
+# Nod-id:t och versionens tidsstämpel; adressen kan börja med värd och port.
+NEDLADDNING = re.compile(r"^(?:https?://[^/]+)?/download/(18\.[0-9a-f]+)/(\d+)/")
 TILLSTAND = "registerInitialState("
 
 

@@ -51,7 +51,7 @@ kunna läggas till utan kodändring.
   repot
 - **När** upptäckten körs
 - **Så** stoppas körningen med adressen och orsaken, och ingen
-  kandidatlista skrivs.
+  kandidatlista skrivs. För arkivet gäller K16.
 
 ## K3 — Historiken hämtas så långt bakåt den finns
 
@@ -59,7 +59,7 @@ kunna läggas till utan kodändring.
 - **När** upptäckten körs
 - **Så** prövas också de äldre källor konfigurationen anger (t.ex. Internet
   Archive och kommunens diarium), och varje dokument registreras med den
-  källa det hittades i.
+  källa det hittades i. Hur Internet Archive tas in står i K16.
 
 ## K4 — Varje dokument blir en Markdown-fil med härkomst
 
@@ -145,9 +145,9 @@ kunna läggas till utan kodändring.
 ## K8 — Körningen är inkrementell och kan avbrytas
 
 - **Givet** att en källnyckel redan finns i poolen som ett dokuments
-  `kallnyckel`, med samma `kalla_url` som upptäckten anger, utan
-  kvalitet `ej-hamtad` och med den version av poolen som körs i
-  `pipeline`
+  `kallnyckel`, med samma `kalla_url` som upptäckten anger och utan
+  kvalitet `ej-hamtad`, och, när kommunfilen har `omkonvertera = true`,
+  med den version av poolen som körs i `pipeline`
 - **När** en ny körning startas
 - **Så** hämtas filen inte, och dokumentets `.md` lämnas orörd.
 
@@ -171,9 +171,9 @@ kunna läggas till utan kodändring.
   dokument med `ej-hamtad` som nu går att hämta skrivs som en fullständig
   `.md` på samma sökväg.
 
-- **Givet** ett fullständigt dokument vars `pipeline` har en annan version
-  av poolen än den som körs, och en kandidat med samma källnyckel och
-  samma `kalla_url`
+- **Givet** en kommunfil med `omkonvertera = true`, ett fullständigt
+  dokument vars `pipeline` har en annan version av poolen än den som
+  körs, och en kandidat med samma källnyckel och samma `kalla_url`
 - **När** körningen når kandidaten
 - **Så** hämtas filen och konverteras om. Är sha256 densamma skrivs
   dokumentet om på samma sökväg med den nya versionens text, tabeller och
@@ -203,8 +203,9 @@ kunna läggas till utan kodändring.
   sha256 som den som redan finns
 - **När** nästa körning hittar den
 - **Så** uppdateras bara `kalla_url`, och texten konverteras inte om, om
-  inte dokumentets `pipeline` har en annan version av poolen än den som
-  körs; då konverteras det om som i K8.
+  inte kommunfilen har `omkonvertera = true` och dokumentets `pipeline`
+  har en annan version av poolen än den som körs; då konverteras det om
+  som i K8.
 
 - **Givet** att kommunen publicerar en fil under en ny källnyckel på ett
   dokuments plats, och den gamla källnyckeln inte längre finns i källan
@@ -299,6 +300,11 @@ kunna läggas till utan kodändring.
 - **När** hämtningen börjar
 - **Så** tas kandidaterna i samma ordning.
 
+- **Givet** en kandidatlista ur ett arkiv (K16)
+- **När** hämtningen börjar
+- **Så** tas det nyaste sammanträdet först, för alla organ samtidigt; vid
+  samma datum organ och typ som ovan, och sist i källnyckelns ordning.
+
 ## K14 — Webbplatsen visar vad poolen innehåller
 
 - **Givet** en kommunfil och poolens dokument under `data/<kommun>/`
@@ -371,3 +377,47 @@ kunna läggas till utan kodändring.
   `null` men inte det andra
 - **När** datakontrollen körs
 - **Så** faller den.
+
+## K16 — Internet Archive fyller luckor, sist i körningen
+
+- **Givet** en källa vars konfiguration anger ett arkiv
+- **När** körningen har försökt varje kandidat ur de levande källorna, i
+  alla kommuner, inom tidsbudgeten
+- **Så** upptäcks och hämtas arkivets kopior av källans filer. Ett
+  `ej-hamtad` räknas som försökt.
+- **Givet** att den levande hämtningen har nått tidsbudgetens mjuka gräns
+- **När** arkivet står på tur
+- **Så** frågas arkivet inte, och nästa körning försöker igen.
+- **Givet** att tidsbudgetens hårda gräns nås medan arkivet upptäcks
+- **När** gränsen nås
+- **Så** avbryts upptäckten, arkivets lista blir tom, och det som hämtats
+  från de levande källorna checkas in.
+- **Givet** en fråga till arkivet som inte besvaras, efter de nya försöken
+  i K10
+- **När** arkivet upptäcks
+- **Så** hoppas frågan över och nämns i sammanfattningen; körningen går
+  vidare, och det som hämtats checkas in.
+- **Givet** en mötessida som arkivet inte har någon kopia av
+- **När** arkivet upptäcks
+- **Så** nämns den i sammanfattningen.
+- **Givet** en källnyckel som finns i poolen utan kvalitet `ej-hamtad`, en
+  plats som har ett dokument från en levande källa, eller en plats vars
+  dokument ur arkivet har en källnyckel som inte finns i arkivets
+  kandidatlista
+- **När** en kandidat ur arkivet för den källnyckeln eller platsen tas
+- **Så** hämtas den inte, och dokumentet i poolen lämnas orört.
+- **Givet** flera versioner och kopior av samma fil i arkivet
+- **När** arkivet upptäcks
+- **Så** blir den nyaste versionen kandidat, med den största kopian och vid
+  lika storlek den äldsta; samma arkiv ger samma val varje gång.
+- **Givet** en fil på en arkiverad mötessida som arkivet inte har någon
+  kopia av
+- **När** arkivet upptäcks
+- **Så** blir det ingen kandidat, och det nämns i sammanfattningen.
+- **Givet** en hämtad kopia ur arkivet som saknar `%%EOF` bland sina sista
+  1 024 byte
+- **När** den har hämtats
+- **Så** blir dokumentet `ej-hamtad` med `fel: kapad` (K6).
+- **Givet** ett `ej-hamtad` från en levande källa
+- **När** arkivets kopia av samma källnyckel inte heller går att hämta
+- **Så** lämnas dokumentets `.md` orörd.

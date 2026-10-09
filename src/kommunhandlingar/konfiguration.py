@@ -1,4 +1,4 @@
-"""Krav: K1 i docs/02-KRAV.md. Test: tests/test_konfiguration.py."""
+"""Krav: K1 i docs/02-KRAV.md, ADR-0019. Test: tests/test_konfiguration.py."""
 
 import tomllib
 from dataclasses import dataclass
@@ -27,6 +27,7 @@ class Kommun:
     namn: str
     organ: tuple[Organ, ...]
     kallor: tuple[sitevision.Kalla, ...]
+    omkonvertera: bool
 
 
 def las(sokvag: Path) -> Kommun:
@@ -35,7 +36,9 @@ def las(sokvag: Path) -> Kommun:
 
 
 def tolka(kommun_id: str, data: dict) -> Kommun:
-    schema.kontrollera_falt(data, {"namn", "organ", "kalla"}, "kommunen")
+    schema.kontrollera_falt(
+        data, {"namn", "organ", "kalla", "omkonvertera"}, "kommunen"
+    )
     namn = schema.varde(data, "namn", str, "kommunen")
     organ = tuple(organ_av(post) for post in poster(data, "organ"))
     kontrollera_organ(organ)
@@ -43,7 +46,10 @@ def tolka(kommun_id: str, data: dict) -> Kommun:
     kallor = tuple(
         kalla_av(post, i, organ_id) for i, post in enumerate(poster(data, "kalla"), 1)
     )
-    return Kommun(schema.katalognamn(kommun_id, "kommunen"), namn, organ, kallor)
+    omkonvertera = schema.valfritt(data, "omkonvertera", bool, "kommunen") or False
+    return Kommun(
+        schema.katalognamn(kommun_id, "kommunen"), namn, organ, kallor, omkonvertera
+    )
 
 
 def poster(data: dict, falt: str) -> list[dict]:

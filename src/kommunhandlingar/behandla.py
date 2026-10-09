@@ -1,10 +1,13 @@
-"""Krav: K4, K6, K8 och K9 i docs/02-KRAV.md, ADR-0003, ADR-0004 och ADR-0019.
-Test: tests/test_hamta.py och tests/test_omkonvertering.py.
+"""Krav: K4, K6, K8, K9 och K16 i docs/02-KRAV.md, ADR-0003, ADR-0004,
+ADR-0018 och ADR-0019. Test: tests/test_hamta.py och
+tests/test_omkonvertering.py.
 
-Steg 2 för en kandidat: hoppa över det som redan finns i poolens version,
-annars hämta, konvertera och skriv. Ett misslyckat försök skriver aldrig
-över en fullständig `.md`. K8:s regel om äldre ögonblicksbilder väntar på
-Wayback-adaptern. Skrivningen avbryts aldrig av tidsgränsen (K11).
+Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta,
+konvertera och skriv. Ett misslyckat försök skriver aldrig över en
+fullständig `.md`. En kandidat ur ett arkiv fyller bara luckor, så att en
+äldre kopia aldrig ersätter ett dokument i poolen. Med omkonverteringen
+påslagen räknas ett dokument från en annan version av poolen inte som
+befintligt. Skrivningen avbryts aldrig av tidsgränsen (K11).
 """
 
 import hashlib
@@ -15,6 +18,7 @@ from datetime import datetime
 from pathlib import Path, PurePosixPath
 
 from kommunhandlingar import frontmatter, skrivning
+from kommunhandlingar.adaptrar import wayback
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.kandidat import Kandidat
 from kommunhandlingar.konvertering.dokument import Resultat, konvertera, versioner
@@ -32,6 +36,8 @@ class Steg2:
     nycklar: frozenset[str]
     tid: Callable[[], datetime]
     version: str
+    arkiv: bool = False
+    omkonvertera: bool = False
 
 
 @dataclass(frozen=True)
@@ -51,6 +57,8 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
     else:
         dokument = Dokument(kandidat, sokvag, steg.pool.efter_sokvag[sokvag])
     gammal = dokument.befintlig
+    if steg.arkiv and ingen_lucka(steg, kandidat, sokvag, gammal):
+        return "finns redan; arkivet fyller bara luckor"
     if sokvag and samma_kalla(gammal, kandidat) and aktuell(steg, gammal):
         return "oförändrad"
     with tempfile.TemporaryDirectory() as katalog:
@@ -60,6 +68,8 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
             steg.klient.fil(kandidat.url, pdf)
         except Hamtfel as fel:
             return misslyckad(steg, dokument, fel.orsak, hamtad)
+        if steg.arkiv and wayback.kapad(pdf):
+            return misslyckad(steg, dokument, "kapad", hamtad)
         return hamtad_fil(steg, dokument, pdf, hamtad)
 
 
@@ -72,6 +82,8 @@ def samma_kalla(falt: dict[str, str], kandidat: Kandidat) -> bool:
 
 
 def aktuell(steg: Steg2, falt: dict[str, str]) -> bool:
+    if not steg.omkonvertera:
+        return True
     return falt["pipeline"].split(" / ")[0] == steg.version
 
 
@@ -81,11 +93,30 @@ def bara_omkonvertering(steg: Steg2, kandidat: Kandidat) -> bool:
     return bool(gammal) and samma_kalla(gammal, kandidat) and not aktuell(steg, gammal)
 
 
-def placera(steg: Steg2, kandidat: Kandidat) -> Dokument:
-    namn = namn_av(kandidat.filnamn.removesuffix(".pdf").removesuffix(".PDF"))
+def ingen_lucka(steg: Steg2, kandidat: Kandidat, sokvag, gammal) -> bool:
+    """Arkivet tar inte en källnyckel med ett fullständigt dokument, en plats
+    med ett dokument från en levande källa, eller en plats vars dokument ur
+    arkivet har en källnyckel som inte står i listan (`placera` ger det)."""
+    if sokvag is not None:
+        return hel(gammal)
+    upptagen = steg.pool.efter_sokvag.get(grundplats(kandidat).sokvag(steg.kommun))
+    levande = upptagen is not None and not wayback.ar_kopia(upptagen["kalla_url"])
+    return levande or gammal is not None
+
+
+def grundplats(kandidat: Kandidat) -> Plats:
     plats = Plats(kandidat.organ, kandidat.datum, kandidat.typ)
     if kandidat.typ == "bilaga":
-        plats = replace(plats, namn=namn or "2")
+        return replace(plats, namn=filnamnet(kandidat) or "2")
+    return plats
+
+
+def filnamnet(kandidat: Kandidat) -> str:
+    return namn_av(kandidat.filnamn.removesuffix(".pdf").removesuffix(".PDF"))
+
+
+def placera(steg: Steg2, kandidat: Kandidat) -> Dokument:
+    plats = grundplats(kandidat)
     sokvag = plats.sokvag(steg.kommun)
     upptagen = steg.pool.efter_sokvag.get(sokvag)
     if upptagen is None:
@@ -98,7 +129,7 @@ def placera(steg: Steg2, kandidat: Kandidat) -> Dokument:
             replace(plats, namn=forslag).sokvag(steg.kommun) in steg.pool.efter_sokvag
         )
 
-    plats = replace(plats, namn=ledigt_namn(namn, finns))
+    plats = replace(plats, namn=ledigt_namn(filnamnet(kandidat), finns))
     return Dokument(kandidat, plats.sokvag(steg.kommun), None, plats.namn)
 
 
@@ -109,6 +140,9 @@ def misslyckad(steg: Steg2, dokument: Dokument, orsak: str, hamtad: datetime) ->
     adress = dokument.kandidat.url
     if gammal and (gammal["fel"], gammal["kalla_url"]) == (orsak, adress):
         return f"ej hämtad ({orsak}), oförändrad"
+    if steg.arkiv and gammal and not wayback.ar_kopia(gammal["kalla_url"]):
+        # Annars skriver den levande källan och arkivet om filen varannan gång.
+        return f"ej hämtad ({orsak}), den levande källans försök orört"
     falt = grundfalt(steg, dokument) | {
         "hamtad": gammal["hamtad"] if gammal else hamtad.isoformat(),
         "pipeline": steg.version,

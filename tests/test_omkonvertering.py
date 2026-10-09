@@ -1,11 +1,27 @@
 """Krav: K8, K9 och K13, ADR-0019.
 Kod: src/kommunhandlingar/behandla.py och hamta.py."""
 
+from dataclasses import replace
+
+from kommunhandlingar.behandla import Steg2
 from kommunhandlingar.hamta import ordna
 from tests.test_hamta import Steg2Fall, kandidat
 
 
+class TestAvstangd(Steg2Fall):
+    def test_annan_version_hamtas_inte(self):
+        self.klient.filer["u1"] = "sidor.pdf"
+        self.kor(kandidat("s:1", "u1"), version="kommunhandlingar 0.1.0")
+        self.assertEqual(self.kor(kandidat("s:1", "u1")), ["oförändrad"])
+        self.assertEqual(self.klient.anrop, ["u1"])
+        lista = [kandidat("s:1", "u1"), kandidat("s:2", "u2", "bilaga")]
+        self.assertEqual(ordna(self.steg(lista), lista), lista)
+
+
 class TestOmkonvertering(Steg2Fall):
+    def steg(self, kandidater, version: str = "kommunhandlingar 0.2.0") -> Steg2:
+        return replace(super().steg(kandidater, version), omkonvertera=True)
+
     def test_annan_version_konverteras_om(self):
         self.klient.filer["u1"] = "sidor.pdf"
         self.kor(kandidat("s:1", "u1"), version="kommunhandlingar 0.1.0")

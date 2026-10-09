@@ -49,6 +49,10 @@ Valt: A, eftersom versionen redan står i varje dokument och redan höjs
 när konverteringen ändrar vad den skriver. Det behövs ingen ny signal,
 ingen lagring och inget nytt arbetsflöde.
 
+* **Flaggan.** Omkonverteringen slås på med `omkonvertera = true` i
+  kommunfilen. Utan den gäller ADR-0004 som förut, och versionen räknas
+  inte. Den är avstängd tills konverteringen är färdig; då slås den på
+  för en omgång och stängs av igen när poolen är omkonverterad.
 * **Signalen.** Ett fullständigt dokument, alltså inte `ej-hamtad`, vars
   `pipeline` börjar med en annan version av poolen än den som körs, och
   som har en kandidat med samma källnyckel och adress, hämtas igen.
@@ -172,5 +176,15 @@ Tester i `tests/test_hamta.py` och `tests/test_omkonvertering.py`:
    före Wayback, som ägaren vill ha med lägst prioritet.
 4. **Beslutet (projektägaren).** Ja på alla tre: versionen styr,
    ordningen nya, omkonvertering, Wayback, och omhämtning utan lagring.
-5. **Omprövas** när poolen är så stor att en omkonvertering tar mer än
+5. **Ett engångsjobb, inte en automatik (projektägaren).** Ägaren
+   frågade varför varje höjning av versionen skulle konvertera om, när
+   det är ett engångsjobb. Agenten visade att det finns riktiga fel i de
+   äldre dokumenten: 223 CSV:er i 79 dokument har celler med flera tal,
+   och dokumenten är ändå märkta `full`. Ett av dem konverterades om på
+   prov med version 0.3.0; cellerna försvann och två sidor märktes
+   `tabell-osaker`. Ägaren valde ändå att vänta tills konverteringen är
+   färdig, eftersom alla dokument ska göras om då, och att koden läggs in
+   med en flagga som är avstängd. Arkivet (ADR-0018) är avstängt på samma
+   sätt.
+6. **Omprövas** när poolen är så stor att en omkonvertering tar mer än
    en vecka av nätter, eller om källorna börjar ta bort gamla original.
