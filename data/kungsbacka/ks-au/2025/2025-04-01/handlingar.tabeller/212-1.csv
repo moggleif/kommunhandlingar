@@ -1,0 +1,14 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Systemförvaltning och arkitektur,,,,
+Processgrupp:,IT-plattform och drift,,,,
+Process:,Hantera fel,,,,
+Processnummer:,2.2.3.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Ta emot ärende,"Ärende rörande
+frågor, felanmälan
+eller förändring",Artvise,Digitalt,14 månader,
+Åtgärda ärende,Korrespondens,Se anmärkning,Digitalt,Se anmärkning,"Korrespondens hos användare förvaras i Outlook
+och gallras vid inaktualitet.
+Korrespondens hos support förvaras i Artvise och
+gallras efter 14 månader."
+Hantera incident,Incidentrapporter,Samarbetsrum,Digitalt,Vid inaktualitet,

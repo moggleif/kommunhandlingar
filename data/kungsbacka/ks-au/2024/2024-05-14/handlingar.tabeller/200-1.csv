@@ -1,0 +1,12 @@
+Parametrar,Enhet,Utbyggnadskoncept
+,,Pyrolys
+"Föravvattning, lager, pyrolys och biokolshantering",,
+Avvattningsmaskiner/pressar,st,3
+Kapacitet per styck,kg TS/h,350
+Antagen TS-halt ut,% TS,22
+Lager avvattnat slam,st,3
+Volym per lagertank,m³,100
+Pyrolys (inkluderat tork),st,3
+Totalt kapacitetsbehov,ton TS/d,"7,5"
+,ton avvattnat slam/d,34
+Biokolshantering,m3/d,6

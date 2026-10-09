@@ -5,22 +5,22 @@ datum: 2026-10-13
 lopnr: null
 typ: handlingar
 namn: null
-kallnyckel: sitevision:18.dedd4261a115a11376bd5
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.663576d1a1156c4d3b1ecc7
+tidigare_kallnycklar: [sitevision:18.dedd4261a115a11376bd5]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.dedd4261a115a11376bd5/1791367136752/Byggnadsn%C3%A4mndens%20arbetsutskott%20handlingar%202026-10-13.pdf
+kalla_url: https://kungsbacka.se/download/18.663576d1a1156c4d3b1ecc7/1791457520859/Byggnadsn%C3%A4mndens%20arbetsutskott%20handlingar%202026-10-13.pdf
 sha256: 62e11e6360cf6153821ec5188be3c62f19adfae6c770d920ca8d469060d98975
 bytes: 41316939
 sidor: 182
-hamtad: 2026-10-08T00:34:15+00:00
-konverterad: 2026-10-08T00:38:22+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-09T07:30:24+00:00
+konverterad: 2026-10-09T07:34:32+00:00
+pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [7, 8, 84, 89, 90, 91, 92, 93, 98, 105, 149, 159, 164, 168, 169, 170]
-figurer: null
-tolkade: null
+figurer: [3, 5, 14, 18, 19, 20, 21, 25, 27, 30, 31, 32, 33, 38, 39, 40, 41, 42, 44, 50, 54, 55, 64, 65, 84, 85, 95, 97, 99, 100, 101, 103, 104, 106, 109, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 150, 151, 152, 153, 154, 156, 158, 160, 161, 162, 163, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -5183,17 +5183,60 @@ elgnA
 reyaL
 )³m/Nk(
 )aPk(
-6
+63
+0
+1
+91
+bmoluoC-rhoM
+gninllyF
 murtnecartsödyS
+61
+5-
+1
+0
+2.1
+41
+)mutad(f=S
+närdo
+ajttyG
 16
 74
 701
+1
+0
+2.1
+01
+61
+)htped(f=S
+närdo
+1
+areL
 C
 noitkeS
+8.02
+9-
+1
+0
+2.1
+61
+)mutad(f=S
+närdo
+2
+areL
 sylana
 darenärdO
 nednallåhröf
 agiltnifeB
+61
+01-
+1
+0
+2.1
+61
+)mutad(f=S
+närdo
+3
+areL
 ecirP-nretsnegroM
 1
 0
@@ -5234,20 +5277,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 123-1](handlingar.tabeller/123-1.csv)
-
-| 3<br>0 |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | 61 |  | 8.02 | 61 |
-|  | 5- |  | 9- | 01- |
-| 1 | 1 | 1 | 1 | 1 |
-|  | 0 | 0 | 0 | 0 |
-|  | 2.1 | 2.1 | 2.1 | 2.1 |
-|  |  | 01 |  |  |
-| 91 | 41 | 61 | 61 | 61 |
-| bmoluoC-rhoM | )mutad(f=S | )htped(f=S | )mutad(f=S | )mutad(f=S |
-| gninllyF | närdo<br>ajttyG | närdo<br>1<br>areL | närdo<br>2<br>areL | närdo<br>3<br>areL |
 
 <!-- sida 124 -->
 
@@ -5328,16 +5357,65 @@ murtnecartsödyS
 74
 701
 0
+1
+63
+91
+bmoluoC-rhoM
+gninllyF
 C
 noitkeS
+61
+5-
+1
+1.0
+2.1
+03
+41
+)mutad(f=S
+,denibmoC
+bmok
+ajttyG
 sylana
 darenibmoK
 nednallåhröf
 agiltnifeB
-ecirP-nretsnegroM sylanastehrekäslatoT
+1
+1.0
+2.1
+01
+03
+61
+)htped(f=S
+,denibmoC
+bmok
+1 areL
+ecirP-nretsnegroM
+8.02
+9-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+2 areL
+sylanastehrekäslatoT
 m
 1 :pujdetydilg
 atsniM
+61
+01-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+3 areL
 1
 1.0
 0
@@ -5365,19 +5443,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 124-1](handlingar.tabeller/124-1.csv)
-
-|  | 61 |  | 8.02 | 61 |
-| --- | --- | --- | --- | --- |
-|  | 5- |  | 9- | 01- |
-| 1 | 1 | 1 | 1 | 1 |
-|  | 1.0 | 1.0 | 1.0 | 1.0 |
-|  | 2.1 | 2.1 | 2.1 | 2.1 |
-| 63 | 03 | 01<br>03 | 03 | 03 |
-| 91 | 41 | 61 | 61 | 61 |
-| bmoluoC-rhoM | )mutad(f=S<br>,denibmoC | )htped(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC |
-| gninllyF | bmok<br>ajttyG | bmok<br>1<br>areL | bmok<br>2<br>areL | bmok<br>3<br>areL |
 
 <!-- sida 125 -->
 
@@ -5915,17 +5980,38 @@ murtnecartsödyS
 74
 701
 1
+0
+7.0
+01
+41
+)htped(f=S
+närdo
+ajttyG
 A
 noitkeS
 sylana
 darenärdO
 1
+0
+7.0
+01
+61
+)htped(f=S
+närdo
+1 areL
 tsalkraP
 -
 nednallåhröf
 edarenalP
 ecirP-nretsnegroM
 1
+0
+8.0
+21
+61
+)htped(f=S
+närdo
+2 areL
 sylanastehrekäslatoT
 1
 0
@@ -5967,16 +6053,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 129-1](handlingar.tabeller/129-1.csv)
-
-| 0 | 0 | 0 |
-| --- | --- | --- |
-| 7.0 | 7.0 | 8.0 |
-| 0 | 0 | 2 |
-| 1<br>41 | 1<br>61 | 1<br>61 |
-| )htped(f=S | )htped(f=S | )htped(f=S |
-| närdo<br>ajttyG | närdo<br>1<br>areL | närdo<br>2<br>areL |
 
 <!-- sida 130 -->
 
@@ -6567,15 +6643,67 @@ murtnecartsödyS
 74
 701
 0
+1
+63
+91
+bmoluoC-rhoM
+gninllyF
 C
 noitkeS
+61
+5-
+1
+1.0
+2.1
+03
+41
+)mutad(f=S
+,denibmoC
+bmok
+ajttyG
 sylana
 darenibmoK
+1
+1.0
+2.1
+01
+03
+61
+)htped(f=S
+,denibmoC
+bmok
+1
+areL
 tsalkraP
 -
 nednallåhröf
 edarenalP
-ecirP-nretsnegroM sylanastehrekäslatoT
+ecirP-nretsnegroM
+8.02
+9-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+2
+areL
+sylanastehrekäslatoT
+61
+01-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+3
+areL
 m
 1 :pujdetydilg
 atsniM
@@ -6606,18 +6734,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 134-1](handlingar.tabeller/134-1.csv)
-
-|  | 61 |  | 8.02 | 61 |
-| --- | --- | --- | --- | --- |
-|  | 5- |  | 9- | 01- |
-| 1 | 1 | 1 | 1 | 1 |
-|  | 1.0 | 1.0 | 1.0 | 1.0 |
-|  | 2.1 | 2.1<br>01 | 2.1 | 2.1 |
-| 63<br>91 | 03<br>41 | 03<br>61 | 03<br>61 | 03<br>61 |
-| bmoluoC-rhoM | )mutad(f=S<br>,denibmoC | )htped(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC |
-| gninllyF | bmok<br>ajttyG | bmok<br>1<br>areL | bmok<br>2<br>areL | bmok<br>3<br>areL |
 
 <!-- sida 135 -->
 
@@ -7833,15 +7949,67 @@ murtnecartsödyS
 74
 701
 0
+1
+63
+91
+bmoluoC-rhoM
+gninllyF
 C
 noitkeS
+61
+5-
+1
+1.0
+2.1
+03
+41
+)mutad(f=S
+,denibmoC
+bmok
+ajttyG
 sylana
 darenibmoK
+1
+1.0
+2.1
+01
+03
+61
+)htped(f=S
+,denibmoC
+bmok
+1
+areL
 tsalkraM
 -
 nednallåhröf
 edarenalP
-ecirP-nretsnegroM sylanastehrekäslatoT
+ecirP-nretsnegroM
+8.02
+9-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+2
+areL
+sylanastehrekäslatoT
+61
+01-
+1
+1.0
+2.1
+03
+61
+)mutad(f=S
+,denibmoC
+bmok
+3
+areL
 m
 1 :pujdetydilg
 atsniM
@@ -7877,19 +8045,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
-
-|  | 61 |  | 8.02 | 61 |
-| --- | --- | --- | --- | --- |
-|  | 5- |  | 9- | 01- |
-| 1 | 1 | 1 | 1 | 1 |
-|  | 1.0<br>2.1 | 1.0<br>2.1 | 1.0<br>2.1 | 1.0<br>2.1 |
-|  |  |  |  |  |
-| 63 | 03 | 01<br>03 | 03 | 03 |
-| 91 | 41 | 61 | 61 | 61 |
-| bmoluoC-rhoM | )mutad(f=S<br>,denibmoC | )htped(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC | )mutad(f=S<br>,denibmoC |
-| gninllyF | bmok<br>ajttyG | bmok<br>1<br>areL | bmok<br>2<br>areL | bmok<br>3<br>areL |
 
 <!-- sida 145 -->
 
@@ -7955,16 +8110,40 @@ murtnecartsödyS
 74
 701
 1
+7.0
+4.01
+7.0
+4.01
+41
+)htped(f=S
+rdo
+ajttyG
 E
 noitkeS
 sylana
 darenärdO
 1
+7.0
+01
+7.0
+01
+61
+)htped(f=S
+rdo
+1 areL
 tsalkraM
 -
 nednallåhröf
 edarenalP
 1
+8.0
+21
+8.0
+21
+61
+)htped(f=S
+rdo
+2 areL
 ecirP-nretsnegroM
 sylanastehrekäslatoT
 1
@@ -8003,17 +8182,6 @@ ognahkoS
 mahlE
 :va
 dapakS
-
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
-
-| 7.0 | 7.0 | 8.0 |
-| --- | --- | --- |
-| 4.01 | 01 | 21 |
-| 7.0 | 7.0 | 8.0 |
-| 4.0 | 0 | 2 |
-| 1<br>41 | 1<br>61 | 1<br>61 |
-| )htped(f=S | )htped(f=S | )htped(f=S |
-| rdo<br>ajttyG | rdo<br>1<br>areL | rdo<br>2<br>areL |
 
 <!-- sida 146 -->
 
@@ -8966,6 +9134,20 @@ Uppdragsnr.: 107 47 61 Version: 2.1
 
 Tabell 2: Redovisning av beräkningsresultat, sektion D och G. Säkerhet inom parentes avser beräkningsresultat utan
 belastning.
+Sektion   Befintliga    Planerade      Planerade   Erfordrad säkerhet
+förhållanden   förhållanden förhållanden med
+Med marklast på utbredd last över
+glidytans aktiva planområdet
+sida
+D-D       F = 1,58    F = 1,57 (1,54)    -            F ≥1,5
+c            c                               c
+F  = 1,57   F  = 1,55 (1,53)                F  ≥1,4
+komb        komb                            komb
+
+G-G         -           F = 1,50      F = 1,53        F ≥1,5
+c             c               c
+F  = 1,50     F   = 1,53      F  ≥1,4
+komb          komb            komb
 
 Stabilitetsberäkningarna har utförts i två sektioner från planområdet och snett mot Hantverksgatan och
 redovisas i Bilaga 3 och 4. Utförda beräkningar visar på att säkerhetsfaktorn mot brott inom planområdet
@@ -8989,13 +9171,6 @@ byggnad och att sättningar pågår inom planområdet. All belastning av marken 
 Utförda geotekniska undersökningar visar att byggnader behöver utföras med pålar för att undvika sättningar.
 
 2026-06-09 | Sida 11 av 12
-
-[Tabell 165-1](handlingar.tabeller/165-1.csv)
-
-| Sektion | Befintliga<br>förhållanden | Planerade<br>förhållanden<br>Med marklast på<br>glidytans aktiva<br>sida | Planerade<br>förhållanden med<br>utbredd last över<br>planområdet | Erfordrad säkerhet |
-| --- | --- | --- | --- | --- |
-| D-D | F = 1,58<br>c<br>F = 1,57<br>komb | F = 1,57 (1,54)<br>c<br>F = 1,55 (1,53)<br>komb | - | F ≥1,5<br>c<br>F ≥1,4<br>komb |
-| G-G | - | F = 1,50<br>c<br>F = 1,50<br>komb | F = 1,53<br>c<br>F = 1,53<br>komb | F ≥1,5<br>c<br>F ≥1,4<br>komb |
 
 <!-- sida 166 -->
 
@@ -9184,22 +9359,103 @@ cirtemozeiP
 )aPk(
 ecafruS )³m/Nk(
 murtnec
-artsödyS 98
+artsödyS
+63
+0
+1
+91
+bmoluoC-rhoM
+gninllyF
+98
 33
 701
+43
+0
+1
+42
+bmoluoC-rhoM
+gnotebvorG
 D
 noitkeS
+1
+0
+0
+31
+0
+31
+41
+)htped(f=S
+närdo
+ajttyG
 :epyT
 sisylanA
+1
+0
+0
+31
+0
+31
+61
+)htped(f=S
+närdo
+1 areL
 sylana
 darenärdO
+31
+31
+5-
+1
+0
+4.0
+4.0
+61
+)mutad(f=S
+närdo
+2 areL
 nednallåhröf
 agiltnifeB
+51
+51
+01-
+1
+0
+5.1
+5.1
+61
+)mutad(f=S
+närdo
+3 areL
 ecirP-nretsnegroM
+81
+81
+21-
+1
+0
+3.1
+3.1
+61
+)mutad(f=S
+närdo
+4 areL
 sylanastehrekäslatoT
+1
+42
+htgnertS
+hgiH
+rumdötS
 m
 1:pujdetydilg
 atsniM
+1
+0
+0
+02
+0
+02
+81
+)htped(f=S
+areleproksrroT
+närdo
 81
 43
 0
@@ -9237,24 +9493,6 @@ mahlE
 dapakS
 
 [Tabell 171-1](handlingar.tabeller/171-1.csv)
-
-| 63 | 43 |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | 0 |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  | 31<br>31 | 51<br>51 | 81<br>81 |  |  |
-|  |  |  |  | 5- | 01- | 21- |  |  |
-| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-|  |  | 0 | 0 | 0 | 0 | 0 |  | 0 |
-|  |  | 0 | 0 | 4.0 | 5.1 | 3.1 |  | 0 |
-|  |  | 31 | 31 |  |  |  |  | 02 |
-|  |  | 0 | 0 | 4.0 | 5.1 | 3.1 |  | 0 |
-|  |  | 31 | 31 |  |  |  |  | 02 |
-| 91 | 42 | 41 | 61 | 61 | 61 | 61 | 42 | 81 |
-| bmoluoC-rhoM | bmoluoC-rhoM | )htped(f=S | )htped(f=S | )mutad(f=S | )mutad(f=S | )mutad(f=S | htgnertS<br>hgiH | )htped(f=S |
-| gninllyF | gnotebvorG | närdo<br>ajttyG | närdo<br>1<br>areL | närdo<br>2<br>areL | närdo<br>3<br>areL | närdo<br>4<br>areL | rumdötS | areleproksrroT<br>närdo |
-
-[Tabell 171-2](handlingar.tabeller/171-2.csv)
 
 |  |  |  |
 | --- | --- | --- |
@@ -9521,23 +9759,100 @@ cirtemozeiP
 ecafruS )³m/Nk(
 murtnec
 artsödyS
+63
+1
+91
+bmoluoC-rhoM
+gninllyF
 98
 33
 701
+43
+1
+42
+bmoluoC-rhoM
+gnotebvorG
 D
 noitkeS
+1
+0
+31
+0
+31
+41
+)htped(f=S
+närdo
+ajttyG
 :epyT
 sisylanA
 5.4
+53
+1
+11
+bmoluoC-rhoM
+danllyfttäL
 sylana
 darenärdO
+1
+0
+31
+0
+31
+61
+)htped(f=S
+närdo
+1 areL
 nednallåhröf
 edarenalP
+31
+31
+5-
+1
+4.0
+4.0
+61
+)mutad(f=S
+närdo
+2 areL
 ecirP-nretsnegroM
+51
+51
+01-
+1
+5.1
+5.1
+61
+)mutad(f=S
+närdo
+3 areL
 sylanastehrekäslatoT
+81
+81
+21-
+1
+3.1
+3.1
+61
+)mutad(f=S
+närdo
+4 areL
 m
 1:pujdetydilg
 atsniM
+1
+42
+htgnertS
+hgiH
+rumdötS
+1
+0
+02
+0
+02
+81
+)htped(f=S
+areleproksrroT
+närdo
 81
 43
 1
@@ -9585,22 +9900,6 @@ dapakS
 |  |  |
 |  |  |
 |  |  |
-
-[Tabell 173-2](handlingar.tabeller/173-2.csv)
-
-| 63 | 43 |  | 53 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | 3 | 5 | 8 |  |  |
-|  |  |  |  |  | 1<br>31 | 1<br>51 | 1<br>81 |  |  |
-|  |  |  |  |  | 5- | 01- | 21- |  |  |
-| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-|  |  | 0 |  | 0 | 4.0 | 5.1 | 3.1 |  | 0 |
-|  |  | 31 |  | 31 |  |  |  |  | 02 |
-|  |  | 0 |  | 0 | 4.0 | 5.1 | 3.1 |  | 0 |
-|  |  | 31 |  | 31 |  |  |  |  | 02 |
-| 91 | 42 | 41 | 11 | 61 | 61 | 61 | 61 | 42 | 81 |
-| bmoluoC-rhoM | bmoluoC-rhoM | )htped(f=S | bmoluoC-rhoM | )htped(f=S | )mutad(f=S | )mutad(f=S | )mutad(f=S | htgnertS<br>hgiH | )htped(f=S |
-| gninllyF | gnotebvorG | närdo<br>ajttyG | danllyfttäL | närdo<br>1<br>areL | närdo<br>2<br>areL | närdo<br>3<br>areL | närdo<br>4<br>areL | rumdötS | areleproksrroT<br>närdo |
 
 <!-- sida 174 -->
 

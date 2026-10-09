@@ -1,0 +1,33 @@
+"Klimatbalans
+(ton CO per år)
+2e","Utbyggnadskoncept
+CAS",,"Utbyggnadskoncept
+MBR",,"Utbyggnadskoncept
+AGS",
+,Rötning,Pyrolys,Rötning,Pyrolys,Rötning,Pyrolys
+Emissioner:,,,,,,
+"Direkta emissioner från företagsägda
+bilar, reservkraft och värme",13,13,13,13,13,13
+"Direkta emissioner av N O
+2",2 000,1 720,2 000,1 720,2 000,1 720
+"Direkta emissioner av CH
+4",740,470,740,470,740,470
+"Direkta emissioner av CO från respiration
+2
+av kolkälla",0,0,0,0,0,0
+"El-, värme- och fjärrkylaanvändning",3 490,3 730,3 900,3 880,3 830,3 820
+"Indirekta emissioner från företagsägda
+bilar och reservkraft",10,10,10,10,10,10
+"Indirekta utsläpp från produktion av
+kemikalier",200,220,450,470,200,210
+"Inköpta transporter, av logistikbolag",14,4,18,12,14,4
+Emissioner från restprodukter,360,220,360,220,360,220
+Totala emissioner,6 840,6 400,7 500,6 800,7 180,6 470
+Potentiell klimatnytta:,,,,,,
+"Potentiell klimatnytta från el, värme och
+bränslen",-1 480,-110,-1 480,-110,-1 480,-110
+Potentiell klimatnytta från Avloppsslam,-1 630,-1060,-1 630,-1060,-1 630,-1060
+Total potentiell klimatnytta,-3 120,-1180,-3 120,-1180,-3 120,-1180
+"Klimatbalans (Klimatpåverkan +
+Klimatnytta)",3 730,5 210,4 380,5 620,4 060,5 300
+Utvärdering (poäng),"5,0","3,6","4,3","3,3","4,6","3,5"

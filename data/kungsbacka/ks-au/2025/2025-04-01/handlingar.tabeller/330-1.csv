@@ -1,0 +1,29 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Systemförvaltning och arkitektur,,,,
+Processgrupp:,Hantera systemförvaltning,,,,
+Process:,Administrera systemförvaltning,,,,
+Processnummer:,2.2.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Administrera konton
+och behörigheter","Användarkonto i
+användardatabas",Active Directory,Digitalt,Se anm.,"Automatisk gallring 3 månader efter avslutad
+anställning, förutsatt att uppgifterna inte har
+betydelse för tolkning av händelseloggar i anslutna
+system som ska bevaras under längre tid."
+,Behörighetsgrupper,Active Directory,Digitalt,Vid inaktualitet,
+,"VPN-konton
+(inloggning utifrån)",Active Directory,Digitalt,Vid inaktualitet,
+,"Loggar över
+lösenordsbyte i
+AD-katalogen","Active Directory
+ADAudit",Digitalt,Se anm.,"Lösenordsbytet är tvingat och sker var 180:e dag.
+Loggning av senaste lösenordsbytet sparas.
+Automatisk gallring 3 månader efter avslutad
+anställning."
+,"Loggar över in-
+och utloggning i
+AD",Active Directory,Digitalt,"Volymstyrd
+gallringVid
+inaktualitet",
+,"Profilinformation,
+Remote Desktop",I aktuell server,Digitalt,Vid inaktualitet,

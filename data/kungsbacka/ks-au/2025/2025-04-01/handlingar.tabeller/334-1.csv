@@ -1,0 +1,32 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Systemförvaltning och arkitektur,,,,
+Processgrupp:,Systemförvaltning,,,,
+Process:,Förvalta system,,,,
+Processnummer:,2.2.2.3,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Ingå avtal,Offert,Diarium,Digitalt,Se anmärkning,"Antagna offerter bevaras, övriga gallras
+vid inaktualitet. Avser offerter som
+inkommer efter systeminförandet,
+exempelvis utveckling av ny funktion."
+Planera,Förvaltningsplan,Diarium,Digital,10 år,Upprättas årligen.
+Genomföra test,Testplan,Diarium,Digitalt,Bevaras,"Administreras i Antura eller
+samarbetsrum. Diarieförs i diarium efter
+upprättande."
+,Testrapport,Diarium,Digitalt,Bevaras,"Administreras i Antura eller
+samarbetsrum. Diarieförs i diarium efter
+upprättande."
+Dokumentera,Teknisk dokumentation,Diarium,Digitalt,Bevaras,"Beskrivning av komponenter i
+verksamhetssystem, exempelvis
+gränssnitt, databas, programvara och
+övriga kringsystem.
+Dokumentation vänder sig framför allt
+till teknisk systemförvaltare."
+,Systemdokumentation,Insidan,Digitalt,Se anmärkning,"Gallras efter att verksamhetssystemet
+avvecklats.
+Beskriver processer, gränssnitt och
+funktioner vid förvaltning av system.
+Dokumentationen vänder sig framför
+allt till systemförvaltare och användare."
+,Beslut,Diarium,Digitalt,Bevaras,"Beslut av betydelse. Exempelvis beslut
+gällande utveckling och inköp av ny
+funktionalitet."
