@@ -793,11 +793,11 @@ scenkonst, musik, litteratur, visuell konst, arkitektur, design, konsthantverk, 
 samt arkiv- och museiverksamhet.
 Det går att få bidrag för
 
-1. inköp av professionell kulturverksamhet
+1\. inköp av professionell kulturverksamhet
 
-2. konst- och kulturprojekt som genomförs av professionella kulturaktörer för att främja elevernas
+2\. konst- och kulturprojekt som genomförs av professionella kulturaktörer för att främja elevernas
 eget skapande, och/eller
-3. för- och/eller efterarbete med skolans pedagoger och den professionella kulturaktören, som
+3\. för- och/eller efterarbete med skolans pedagoger och den professionella kulturaktören, som
 sker som en del av ett Skapande skola-projekt.
 
 På regionalt plan, ger Region Halland stöd till arrangörer som genomför kulturprogram för barn och
@@ -1294,10 +1294,10 @@ utveckling utan även för att bygga en stark gemenskap.
 Barnkonventionen
 
 I barnkonventionen artikel 31 fastslås följande:
-1. Konventionsstaterna erkänner barnets rätt till vila och fritid, till lek och rekreation anpassad till
+1\. Konventionsstaterna erkänner barnets rätt till vila och fritid, till lek och rekreation anpassad till
 barnets ålder och rätt att fritt delta i det kulturella och konstnärliga livet.
 
-2. Konventionsstaterna ska respektera och främja barnets rätt att till fullo delta i det kulturella
+2\. Konventionsstaterna ska respektera och främja barnets rätt att till fullo delta i det kulturella
 och konstnärliga livet och ska uppmuntra tillhandahållandet av lämpliga och lika möjligheter till
 kulturell och konstnärlig verksamhet samt till rekreations och fritidsverksamhet.
 
@@ -1320,7 +1320,7 @@ starkt samhälle behöver en jämlik tillgång till kultur.
 
 Därför föreslår Socialdemokraterna kommunfullmäktige besluta:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur det går att införa
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur det går att införa
 Kulturell allemansrätt på sköltid i enlighet med motionens andemening
 
 S  bna    ani (S).
@@ -1462,7 +1462,7 @@ Datum
 
 § 3                        Dnr IF-2024-00338
 Svar på motion - Ökat samarbete för barn och elevers hälsa (KS-2024-
-00595)
+00595\)
 
 Nämnden för Individ & Familjeomsorgs förslag till kommunfullmäktige
 Kommunfullmäktige anser att motionen är besvarad med hänvisning till att det redan
@@ -2230,7 +2230,7 @@ agerar kompletterande.
 För att stärka det förebyggande och hälsofrämjande arbetet inom i Kungsbacka kommun
 yrkar Socialdemokraterna att:
 
-- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
+\- - Kommunfullmäktige ger Nämnden för Kultur & Fritid, Nämnden för Förskola &
 Grundskola, Nämnden för Gymnasium & Arbetsmarknad samt Nämnden för Individ &
 Familjeomsorg, i uppdrag att inrätta stående forum för samarbete med viktiga parter i
 arbetet med barn och elevers hälsa där fokus är på både riskfaktorer och
@@ -2271,7 +2271,7 @@ styrdokumentet Samverkansformer kring kollektivtrafik i Västra Götaland upprä
 antogs 2011 av de 49 kommunerna i Västra Götalands län samt av regionfullmäktige i Västra
 
 Götalandsregionen. Styrdokumentet har också reviderats vid två tidigare tillfällen, dels 2017, dels
-2021.
+2021\.
 Genom den föreslagna revideringen av dokumentet skiftas nu fokus från processer och formella
 
 beslutsgångar till politisk dialog mellan kommuner och Västra Götalandsregionen/Västtrafik. Då
@@ -2315,7 +2315,7 @@ styrdokumentet Samverkansformer kring kollektivtrafik i Västra Götaland upprä
 antogs 2011 av de 49 kommunerna i Västra Götalands län samt av regionfullmäktige i Västra
 Götalandsregionen. Styrdokumentet har också reviderats vid två tidigare tillfällen, dels 2017, dels
 
-2021.
+2021\.
 Den föreslagna revideringen av dokumentet skiftar nu fokus från processer och formella beslutsgångar
 till politisk dialog mellan kommuner och Västra Götalandsregionen /Västtrafik. Förslaget innebär att
 ersätta den årliga avstämningen av trafikförsörjningsprogrammet med en halvtidsutvärdering. Ett nytt
@@ -2437,9 +2437,9 @@ kollektivtrafiknämnden XXXX-XX-XX
 
 Innehåll
 
-1. Samverkan kring kollektivtrafik i Västra Götaland ................................................................3
+1\. Samverkan kring kollektivtrafik i Västra Götaland ................................................................3
 
-2. Parter ..........................................................................................................................................................3
+2\. Parter ..........................................................................................................................................................3
 2.1 Västra Götalandsregionen ......................................................................................................3
 
 2.2 Västtrafik ........................................................................................................................................3
@@ -2447,25 +2447,25 @@ Innehåll
 2.4 Kommunalförbund .....................................................................................................................4
 2.5 Övriga aktörer ...............................................................................................................................4
 
-3. Ömsesidigt ansvar för kollektivtrafikens utveckling ..........................................................4
+3\. Ömsesidigt ansvar för kollektivtrafikens utveckling ..........................................................4
 3.1 Kommuner och VGR i samverkan ..........................................................................................4
 3.2 Samverkan på olika sätt ...........................................................................................................6
 
-4. Forum för politisk dialog ....................................................................................................................7
+4\. Forum för politisk dialog ....................................................................................................................7
 4.1 Beredningen för hållbar utveckling .....................................................................................7
 
 4.2 Strategiskt samhällsplaneringsforum ..............................................................................7
 4.3 Stadstrafikforum ........................................................................................................................8
 
-5. Samverkan i genomförandet ...........................................................................................................8
+5\. Samverkan i genomförandet ...........................................................................................................8
 
-6. Revidering och ytterligare information ......................................................................................9
+6\. Revidering och ytterligare information ......................................................................................9
 
 <!-- sida 65 -->
 
 Samverkansformer kring kollektivtrafik i Västra Götaland
 
-1. Samverkan       kring   kollektivtrafik     i
+1\. Samverkan       kring   kollektivtrafik     i
 
 Västra    Götaland
 
@@ -2480,7 +2480,7 @@ mellan VGR/Västtrafik och kommunerna ska bidra till samsyn och verka för att
 samhällsbyggnad och kollektivtrafikens utveckling går hand i hand. Samverkan innebär
 inte alltid att parterna är överens men alla parter bör värna om en konstruktiv dialog.
 
-2. Parter
+2\. Parter
 
 2.1 Västra Götalandsregionen
 
@@ -2549,7 +2549,7 @@ Trafikverket ansvarar för den statliga väg- och järnvägsinfrastrukturen, hå
 statliga vägar, järnvägens plattformar, plattformsförbindelser samt trafikinformation
 på stationer.
 
-3. Ömsesidigt       ansvar    för
+3\. Ömsesidigt       ansvar    för
 
 kollektivtrafikens       utveckling
 
@@ -2665,7 +2665,7 @@ information och samarbete. Figuren ger även exempel på samverkan inom kollekti
 
 Samverkansformer kring kollektivtrafik i Västra Götaland
 
-4. Forum     för  politisk   dialog
+4\. Forum     för  politisk   dialog
 
 Som forum för politisk dialog om kollektivtrafikutvecklingen i Västra Götaland
 finns beredningen för hållbar utveckling (BHU) och fyra delregionala strategiska
@@ -2748,7 +2748,7 @@ Västtrafik. Forumet ansvarar för att kollektivtrafikplaner och målbilder för
 i samverkan mellan parterna. Handlingsplaner för de regionala kärnorna tas fram i samverkan
 mellan Västtrafik, berörd kommun/kommuner och eventuella andra relevanta aktörer.
 
-5. Samverkan       i genomförandet
+5\. Samverkan       i genomförandet
 
 För samordning av samhälls- och kollektivtrafikutveckling behöver kommunerna och Västtrafik
 samverka i tidiga skeden och löpande under kommunens planprocesser. Samverkan om
@@ -2790,7 +2790,7 @@ Parterna ska ha en ansvarig kontaktperson för kollektivtrafikfrågor. Kontaktpe
 representerar sin organisation och ansvarar för att samverkan fungerar genom att både politiker
 och övriga tjänstepersoner delaktiggörs i relevanta frågor.
 
-6. Revidering      och   ytterligare    information
+6\. Revidering      och   ytterligare    information
 
 De ursprungliga samverkansformerna kring kollektivtrafik i Västra Götaland beslutades 2011, i
 samband med avtalet om ansvar för den regionala kollektivtrafiken i Västra Götalands län. De
@@ -2798,7 +2798,7 @@ antogs då av Västra Götalands 49 kommunfullmäktige och VGR:s fullmäktige so
 avtalet. En första revidering och uppdatering av dokumentet gjordes 2017. En andra utvärdering
 
 och uppdatering genomfördes 2020. Som en följd av IKN bildades, reviderades dokumentet
-2026.
+2026\.
 En ny utvärdering ska genomföras senast 2030. Aktualisering av dokumentet kan behöva göras
 vid exempelvis större organisationsförändringar.
 
@@ -3090,7 +3090,7 @@ skatteväxlingen redovisas i bilaga 1.
 Skatteväxlingen berör inte det som särfaktureras kommunerna enligt punkt 6
 nedan.
 
-28)
+28\)
 
 <!-- sida 78 -->
 
@@ -3118,7 +3118,7 @@ För att upprätthålla och vidareutveckla samordningen, samt nyttja den
 upphandlingskompetens som Regionen besitter kan Kommun välja att enligt
 särskild överenskommelse med Regionen gällande skolskjuts/skolresor:
 
-- — uppdra till Regionen att upphandla skolskjuts och samordna denna, varvid
+\- — uppdra till Regionen att upphandla skolskjuts och samordna denna, varvid
 Kommun har beslutanderätten över trafikens omfattning och utformning
 samt faktureras för tjänstens kostnader, och/eller
 
@@ -3131,7 +3131,7 @@ Ovanstående alternativ kan kombineras inom samma kommun.
 
 Kommun kan också välja att enligt särskild överenskommelse med Regionen
 gällande färdtjänst:
-- uppdra till Regionen att upphandla färdtjänsttrafik samt samordna denna
+\- uppdra till Regionen att upphandla färdtjänsttrafik samt samordna denna
 varvid Kommun faktureras för tjänstens kostnader.
 
 För särfakturering av skolresor och färdtjänstresor inom anropstyrd trafik gäller
@@ -3240,7 +3240,7 @@ utveckling.
 
 8.7
 
-10.
+10\.
 
 Samverksansforum på regional nivå ska säkerställa dialog- och
 samrådsmöjligheter mellan Regionen och representanter för delregioner. Frågor
@@ -3261,16 +3261,16 @@ stadstrafik (Göteborg, Mölndal, Partille), Trestad (Vänersborg, Trollhättan,
 Uddevalla), Borås och Skövde.
 
 Regionen ansvarar för
-- — att bilda regionalt samverkansforum för politiska samråd med
+\- — att bilda regionalt samverkansforum för politiska samråd med
 Kommunerna.
 
 = att tillse att det på tjänstemannanivå finns en tydlig och regelbunden
 kontaktmöjlighet för varje Kommun rörande kollektivtrafikfrågor.
 
 Kommunerna ansvarar för
-- att bilda delregionala fora för politiska samråd med Regionen.
+\- att bilda delregionala fora för politiska samråd med Regionen.
 
-- att tillse att det på tjänstemannanivå finns en tydlig kontaktmöjlighet för
+\- att tillse att det på tjänstemannanivå finns en tydlig kontaktmöjlighet för
 Regionen rörande kollektivtrafikfrågor
 
 = att dialog förs med Regionen om den egna kommunens samhällsplanering
@@ -3293,19 +3293,19 @@ beslutande församlingar, såsom kommun- och regionfullmäktige.
 
 <!-- sida 81 -->
 
-11. Uppföljning och utvärdering
+11\. Uppföljning och utvärdering
 
 Detta avtal ska följas upp och utvärderas med avseende på samverkansformer och
 tillköpsprinciper senast fem år efter att det har börjat gälla, dvs senast 31 december
-2017.
+2017\.
 
 12 Tvist
 Tvist med anledning av detta avtal ska i första hand avgöras genom förhandling
 mellan Parterna.
 
 Bilagor
-1. Bilaga 1 - Skatteväxling
-2. Bilaga 2 - Principer för tillköp
+1\. Bilaga 1 - Skatteväxling
+2\. Bilaga 2 - Principer för tillköp
 
 Skövde den 27 maj 2011
 
@@ -3469,7 +3469,7 @@ Västra Götalands län baseras på ägarersättning år 2007.
 Som utjämningssystemet är uppbyggt bör således alla kommuner i ett län ha samma
 nettokostnad (korrigerad för avvikande ambitionsnivå) för kollektivtrafik efter bidrag och
 
-25)
+25\)
 
 <!-- sida 86 -->
 
@@ -3724,11 +3724,11 @@ Kommun kan köpa färdbevis till sina invånare under förutsättning att Kommun
 använder det utbud av färdbevis som tillhandahålls av Regionen, baserat på
 befintligt zonsystem, giltighetstider mm, om inte annat överenskommes.
 Dvs tillköp kan göras under förutsättning att;
--  tillköpet inte innebär att andra färdbevis än det som tillköpet avser
+\-  tillköpet inte innebär att andra färdbevis än det som tillköpet avser
 behöver prisförändras.
-- — tillköpet inte förändrar den beslutade zonstrukturen om motsvarande
+\- — tillköpet inte förändrar den beslutade zonstrukturen om motsvarande
 tillköp skulle beviljas för en eller flera kommuner.
--  tillköpet inte påverkar prisförhållandet mellan färdbevis så att mål inom
+\-  tillköpet inte påverkar prisförhållandet mellan färdbevis så att mål inom
 Trafikförsörjningsprogrammet motverkas om motsvarande tillköp skulle
 beviljas för en eller flera kommuner
 
@@ -3765,7 +3765,7 @@ eller bättre måluppfyllelse än övriga föreslagna åtgärder som ryms inom d
 Regionen beslutade ekonomiska ramen, överförs tillköpet till ordinarie utbud
 och kostnadsansvaret övertas av Regionen.
 
-202)
+202\)
 
 <!-- sida 91 -->
 
@@ -3985,13 +3985,13 @@ hållbar utveckling 2021-03-09 och beslut i Kollektivtrafiknämnden 2021-03-17
 
 Innehåll
 
-1. Sammanfattning ................................................................................................................. 3
+1\. Sammanfattning ................................................................................................................. 3
 
-2. Samverkan kring kollektivtrafikutveckling i Västra Götaland .......................................... 4
+2\. Samverkan kring kollektivtrafikutveckling i Västra Götaland .......................................... 4
 
-3. Västra Götalandsregionens organisation ............................................................................ 5
+3\. Västra Götalandsregionens organisation ............................................................................ 5
 
-4. Samverkansformer ............................................................................................................. 6
+4\. Samverkansformer ............................................................................................................. 6
 
 4.1 Vardagskontakter ......................................................................................................... 6
 4.2 Kommundialog om trafikförändringar ......................................................................... 6
@@ -4004,7 +4004,7 @@ Innehåll
 
 4.6 Övrig samverkan .......................................................................................................... 9
 
-5. Förankring och beslut....................................................................................................... 10
+5\. Förankring och beslut....................................................................................................... 10
 5.1 Operativa frågor ......................................................................................................... 10
 
 5.2 Trafikförsörjningsprogram ......................................................................................... 10
@@ -4017,13 +4017,13 @@ Innehåll
 
 5.6 Tillköp ........................................................................................................................ 12
 
-6. Revidering av samverkansformerna................................................................................. 13
+6\. Revidering av samverkansformerna................................................................................. 13
 
 <!-- sida 100 -->
 
 3
 
-1. Sammanfattning
+1\. Sammanfattning
 
 Som regional kollektivtrafikmyndighet har Västra Götalandsregionen (VGR) ansvaret, och
 därmed beslutsrätten, för kollektivtrafikens utveckling gentemot medborgarna i Västra
@@ -4070,7 +4070,7 @@ genomföras senast 2027.
 
 4
 
-2. Samverkan    kring kollektivtrafikutveckling  i Västra
+2\. Samverkan    kring kollektivtrafikutveckling  i Västra
 
 Götaland
 
@@ -4105,7 +4105,7 @@ frågor såväl på lokal som på delregional och regional nivå.
 
 5
 
-3. Västra Götalandsregionens     organisation
+3\. Västra Götalandsregionens     organisation
 
 Västra Götalandsregionen är den ansvariga regionala kollektivtrafikmyndigheten. VGR
 arbetar enligt styrmodellen att skilja på funktionerna ägare, beställare och utförare.
@@ -4130,7 +4130,7 @@ Figur 2: Processen inom VGR från trafikförsörjningsprogram till genomförande
 
 6
 
-4. Samverkansformer
+4\. Samverkansformer
 
 Som plattform för samverkan kring kollektivtrafikutvecklingen i Västra Götaland finns
 beredningen för hållbar utveckling (BHU) och fyra delregionala kollektivtrafikråd.
@@ -4281,7 +4281,7 @@ begränsar inte den möjligheten.
 
 10
 
-5. Förankring  och  beslut
+5\. Förankring  och  beslut
 
 Bilden nedan avser att schematiskt illustrera hur kommunerna, genom de delregionala
 kollektivtrafikråden och beredningen för hållbar utveckling, kan påverka den viktiga
@@ -4426,7 +4426,7 @@ inför ett beslut.
 
 13
 
-6. Revidering  av samverkansformerna
+6\. Revidering  av samverkansformerna
 
 De ursprungliga Samverkansformerna kring kollektivtrafik i Västra Götaland beslutades
 genom att 49 kommunfullmäktige och regionfullmäktige ställt sig bakom dem 2011. En
@@ -4616,7 +4616,7 @@ KUNGSBACKA  KOMMUN
 
 1.3.1 Kommunallagen bör tydliggöras med avseende på styrelsens ansvar för uppsikt
 
-3. Ansvarsfördelning mellan styrelse, fullmäktige och nämnder
+3\. Ansvarsfördelning mellan styrelse, fullmäktige och nämnder
 De senaste åren har såväl lagstiftning bland annat genom ändringar i kommunallagen om kommuners
 ansvar för intern kontroll (6 kap. 6 § KL) och nya lagstiftningen om kommuners ansvar för
 brottsförebyggande arbete (2023:196), som stödmaterial från statliga myndigheter och Sveriges
@@ -5179,15 +5179,15 @@ Sverigedemokraterna  i Kungsbacka föreslår därför
 kommunfullmäktige   besluta att:
 
 Kommunen  ska inte erbjuda religiöst motiverad specialkost i
--
+\-
 kommunala förskolor och skolor.
 
 Berörda nämnder får i uppdrag att justera riktlinjerna för specialkost
--
+\-
 i enlighet med detta inför kommande läsår.
 
 Vårdnadshavare informeras om förändringen i god tid.
--
+\-
 
 Sverigedemokraterna Kungsbacka genom
 
@@ -5322,7 +5322,7 @@ Gynnande beslut som avbrutits och ej verkställts inom tre månader
 KUNGSBACKA  KOMMUN
 3 (4)
 
--
+\-
 
 Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts eller avslutats
 
@@ -5856,7 +5856,7 @@ Kommundirektör                     Samhällsbyggnadschef
 AVTAL OM PARKERING
 KOLLA PARKSTAD
 
-1. PARTER
+1\. PARTER
 
 Kungsbacka kommun (212000-1256)
 
@@ -5867,7 +5867,7 @@ Aranäs Projekt AB (556719-1423)
 JM AB (556045-2103)
 Nordr Sverige AB (556550-7307) tidigare Veidekke Bostad AB.
 
-2. SAMMANFATTNING
+2\. SAMMANFATTNING
 
 Utbyggnaden av bostäder, verksamhetslokaler, allmänna parkeringar, gator och par-
 ker i Kolla Parkstad är nu slutförd, med undantag av Aranäs fastigheter Kolla 3:67,
@@ -5885,7 +5885,7 @@ med detta avtal, i syfte att reglera Aranäs särskilda ansvar för att iordning
 keringsplatser.
 
 Allt som nämns och regleras angående parkering i detta avtal avser bilparkering.
-3. BAKGRUND OCH FÖRUTSÄTTNINGAR, PARKERING
+3\. BAKGRUND OCH FÖRUTSÄTTNINGAR, PARKERING
 
 För att möjliggöra utbyggnad av bostäder och verksamheter i Kolla Parkstad antog
 kommunfullmäktigen en detaljplan 2010, ”Detaljplan för fastigheten Kolla 5:6
@@ -5932,7 +5932,7 @@ fastställt vilken part som i så fall ska äga och förvalta anläggningarna.
 Varken avtal eller parkeringsplan reviderades i samband med att den nya detaljpla-
 nen antogs 2014, vilket innebär att dokumenten från 2010 fortfarande gäller.
 
-4. PARKERINGSUTREDNINGAR OCH PARKERINGSTAL
+4\. PARKERINGSUTREDNINGAR OCH PARKERINGSTAL
 
 För att klargöra vilket parkeringsbehov som faktiskt finns i Kolla Parkstad har par-
 keringsutredningar och parkeringsräkningar utförts 2017, 2019 och 2022 (Nor-
@@ -5958,7 +5958,7 @@ Parkeringsutredningarna visar vidare att de parkeringsplatser som redan finns i 
 det, tillsammans med de platser som Aranäs ska bygga inom Kolla 3:67, 3:70 och
 3:87 (totalt ca 1680 parkeringsplatser i området, p-tal 1,24 platser/lägenhet och ca
 
-25)
+25\)
 
 <!-- sida 150 -->
 
@@ -6002,7 +6002,7 @@ gångväg mellan Kolla Parkstad och rekreationsområdet Kungsbackaskogen som lig
 ger på andra sidan Onsalavägen. Parterna är nu överens om att finansiera en sådan
 
 gångväg.
-6. ÖVERENSKOMMELSE ANGÅENDE PARKERING
+6\. ÖVERENSKOMMELSE ANGÅENDE PARKERING
 
 Parterna är överens om att;
 
@@ -6013,7 +6013,7 @@ Kolla 5:149) tillgodoser planområdet Kolla Parkstads parkeringsbehov, med
 ett visst överskott. Inga ytterligare parkeringsdäck, garage eller andra parke-
 ringsanläggningar ska/behöver byggas.
 
-305)
+305\)
 
 <!-- sida 151 -->
 
@@ -6055,7 +6055,7 @@ Detta avtal har upprättats i fem likalydande exemplar av vilka parterna tagit v
 
 Datum 2025-€/,—[€
 Eksta Bostadsaktiebolag
-- /
+\- /
 
 Datum 2025-
 Kungsbacka kommun
@@ -6073,16 +6073,16 @@ Nordr Sverige AB
 
 Bilagor:
 
-1. Parkeringsplan, ramavtal 2010
+1\. Parkeringsplan, ramavtal 2010
 
-2. Plankarta, detaljplan Kp118C
+2\. Plankarta, detaljplan Kp118C
 
-3. Mobilitets- och parkeringsutredning, Norconsult 2022, justerad 2024
-4. Parkeringsstrategi Kungsbacka stad, 2017
+3\. Mobilitets- och parkeringsutredning, Norconsult 2022, justerad 2024
+4\. Parkeringsstrategi Kungsbacka stad, 2017
 
-5. Parkering Aranäs fastigheter
+5\. Parkering Aranäs fastigheter
 
-6. Gångväg till Kungsbackaskogen, principskiss
+6\. Gångväg till Kungsbackaskogen, principskiss
 
 5(5)
 
@@ -6532,7 +6532,7 @@ Uppdragsnr.: 1051799 Version: 1.0
 I Figur 3 redovisas befinilga Na samt Ryke baner inom Kolla Parkstad.
 HH
 
-2)
+2\)
 
 Im Vuäralalla
 
@@ -6673,14 +6673,14 @@ Tabell 4. Av dessa bilplatser är 108 bilplatser i garage där samtliga är uthy
 fastighetsägaren.
 
 Sammanlagt fanns vid inventeringen 360 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-7426. I området finns enligt uppgifter 396 lägenheter och 16 hus. Det momentana parkeringsbehovet i området
+7426\. I området finns enligt uppgifter 396 lägenheter och 16 hus. Det momentana parkeringsbehovet i området
 har beräknats vara 0,86 bilplatser/lägenhet och 1,20 bilplatser/hus.
 
 I Tabell 4 presenteras en sammanställning av inventeringsresultaten för område A — Norra.
 
 Tabell
 
-4. Sammanställning av inve gsresult mråde A — Norr (år 2022)
+4\. Sammanställning av inve gsresult mråde A — Norr (år 2022)
 Antal Antal P- Beläggnings-| Antal Antal P-behov P-behov
 parkerade |platser grad lägenheter | småhus Igh hus
 bilar (bp/lgh) (bp/hus)
@@ -6712,7 +6712,7 @@ Kolla Parkstad, Kungsbacka
 Uppdragsnr.: 1051799 Version: 1.0
 
 Sammanlagt fanns vid inventeringen 146 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-5390. I området finns 122 lägenheter och 50 hus. Det momentana parkeringsbehovet i området har beräknats
+5390\. I området finns 122 lägenheter och 50 hus. Det momentana parkeringsbehovet i området har beräknats
 vara 0,76 bilplatser/lägenhet och 1,06 bilplatser/hus.
 
 I Tabell 5 presenteras en sammanställning av inventeringsresultaten för område A — Söder.
@@ -6733,7 +6733,7 @@ Området består endast av småhus och det är finns totalt 59 småhus i område
 området ha sammanlagt 214 bilplatser, se Tabell 6.
 
 Sammanlagt fanns vid inventeringen 74 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-3560. I området finns sammanlagt 59 hus och det momentana parkeringsbehovet i området har beräknats vara
+3560\. I området finns sammanlagt 59 hus och det momentana parkeringsbehovet i området har beräknats vara
 1,25 bilplatser/hus.
 
 I Tabell 6 presenteras en sammanställning av inventeringsresultaten för område B — Norr.
@@ -6758,7 +6758,7 @@ hyresrätter och bostadsrätter men också småhus. Det finns 49 lägenheter res
 inventeringen räknades området ha sammanlagt 91 bilplatser, se Tabell 7.
 
 Sammanlagt fanns vid inventeringen 52 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-5720. I området finns enligt uppgifter 49 lägenheter och 6 hus. Det momentana parkeringsbehovet i området
+5720\. I området finns enligt uppgifter 49 lägenheter och 6 hus. Det momentana parkeringsbehovet i området
 har beräknats vara 0,91 bilplatser/lägenhet och 1,27 bilplatser/hus.
 
 I Tabell 7 presenteras en sammanställning av inventeringsresultaten för område B — Söder.
@@ -6790,13 +6790,13 @@ Totalt 52 91 57,10
 3.3.1 Område C — Norr
 
 I område C — Norra är inte heller alla kvarter byggda och inflyttade. Bebyggda kvarter är 13a, 13b, 18, 19 och
-20. Det är endast kvarter 13c som ännu står ofärdigt, se streckad inringning i Figur 1. Området består till
+20\. Det är endast kvarter 13c som ännu står ofärdigt, se streckad inringning i Figur 1. Området består till
 största del av flerbostadshus i form av hyresrätter och bostadsrätter men även småhus. Det finns 220
 lägenheter och 3 småhus. Vid inventeringen räknades området ha sammanlagt 183 bilplatser, se Tabell 8. Av
 dessa bilplatser är 39 bilplatser i garage där samtliga är uthyrda enligt uppgifter från fastighetsägaren.
 
 Sammanlagt fanns vid inventeringen 159 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-87246. I området finns enligt uppgifter 220 lägenheter och 3 hus. Det momentana parkeringsbehovet i området
+87246\. I området finns enligt uppgifter 220 lägenheter och 3 hus. Det momentana parkeringsbehovet i området
 har beräknats vara 0,71 bilplatser/lägenhet och 0,99 bilplatser/hus.
 
 I Tabell 8 presenteras en sammanställning av inventeringsresultaten för område C — Norr.
@@ -6823,7 +6823,7 @@ hyresrätter och bostadsrätter men också småhus. Det finns 136 lägenheter re
 inventeringen räknades området ha sammanlagt 275 bilplatser, se Tabell 9.
 
 Sammanlagt fanns vid inventeringen 164 bilar parkerade i området. Detta ger en beläggningsgrad på cirka
-6026. I området finns enligt uppgifter 136 lägenheter och 38 hus. Det momentana parkeringsbehovet i området
+6026\. I området finns enligt uppgifter 136 lägenheter och 38 hus. Det momentana parkeringsbehovet i området
 
 har beräknats vara 0,87 bilplatser/lägenhet och 1,21 bilplatser/hus.
 
@@ -6876,7 +6876,7 @@ antalet parkeringsplatser har ökat kraftigt i området i samband med exploateri
 beläggningsgraden sjunkit något.
 
 2022
-<UZe
+\<UZe
 
 Tabell 11. Parkeringsinventering år 2017, 2018 och
 
@@ -7013,7 +7013,7 @@ parkeringsplatser i stället vilket innebär att nyttjandegraden totalt sett bli
 överskott av parkeringsplatser i nuläget.
 
 https //norconsult365-my.sharepoint.com/personal/karin gamberg norconsult comidocumentsidesktopikolla
-+ , 2 Fas -
+\+ , 2 Fas -
 
 parkstad p-utredning/2024 mobilitets- och parkeringsutredning kolla parkstad.docx
 
@@ -7385,7 +7385,7 @@ inom respektive kvarter.
 Bild och tabell hämtad från Mobilitets och parkeringsutredning Kolla Parkstad (Norconsult 2022).
 
 Proc RR BN Område B HH fodhus/Kediehus/Villor N
-- Norr Lgh, bostadsrätt
+\- Norr Lgh, bostadsrätt
 
 Ugh, hyresrätt
 Övrig bebyggelse Etapp I Etapp 2 Eropp 3
@@ -7393,7 +7393,7 @@ Ugh, hyresrätt
 [I Obebyggt år 2022
 
 Område B
-- Söder
+\- Söder
 
 (SE
 
@@ -7437,7 +7437,7 @@ stället ger ett överskott på 235 platser.
 AVTAL OM PARKERING
 ARANÄS, KOLLA PARKSTAD
 
-1. PARTER
+1\. PARTER
 
 Kungsbacka kommun (212000-1256), nedan kallad Kommunen
 
@@ -7448,7 +7448,7 @@ Aranäs i Kungsbacka 13 AB (556947-6095), ägare av Kolla 3:70 och 3:87
 BRF Idyllen i Kungsbacka (769633-2340) c/o Aranäs AB, ägare av Kolla 3:67
 
 Exploatörerna kallas nedan gemensamt för Aranäs.
-2. BAKGRUND OCH FÖRUTSÄTTNINGAR
+2\. BAKGRUND OCH FÖRUTSÄTTNINGAR
 
 Utbyggnaden av bostäder, verksamhetslokaler, allmänna parkeringar, gator och par-
 ker i Kolla Parkstad är nu slutförd, med undantag av Aranäs fastigheter Kolla 3:67,
@@ -7471,7 +7471,7 @@ keringsplatser när fastigheterna Kolla 3:67, 3:70 och 3:87 bebyggs.
 Allt som nämns och regleras angående parkering i detta avtal avser bilparkering. Ut-
 över detta har Aranäs en skyldighet att ordna cykelparkering på egen mark.
 
-3. NULÄGE, PARKERINGSUTREDNINGAR OCH PARKERINGSTAL
+3\. NULÄGE, PARKERINGSUTREDNINGAR OCH PARKERINGSTAL
 
 För att klargöra vilket parkeringsbehov som faktiskt finns i Kolla Parkstad har parke-
 ringsutredningar och parkeringsräkningar utförts 2017, 2019 och 2022 (Norconsult).
@@ -7482,7 +7482,7 @@ helt utbyggt uppskattas det viktade parkeringsbehovet till 0,94 platser/lägenhe
 flerbostadshus och 1,36 platser/småhus, vilket motsvarar ett behov av totalt ca
 1245 platser.
 
-13)
+13\)
 
 <!-- sida 182 -->
 
@@ -7496,7 +7496,7 @@ ca 99 parkeringsplatser, vilket är en förutsättning för den totala parkering
 Kolla Parkstad. Se bilaga 1, delområden samt bilaga 2, utdrag från Mobilitets- och
 parkeringsutredning Kolla Parkstad (Norconsult 2022).
 
-4. ÖVERENSKOMMELSE ANGÅENDE PARKERING
+4\. ÖVERENSKOMMELSE ANGÅENDE PARKERING
 
 Aranäs förbinder sig att iordningställa totalt ca 99 parkeringsplatser inom sina fastig-
 heter Kolla 3:67 (kvarter 5 och 7), Kolla 3:70 (kvarter 8) och Kolla 3:87 (kvarter 9),
@@ -7509,7 +7509,7 @@ Antalet parkeringsplatser som ska iordningställas ska beräknas utifrån parker
 inom respektive fastighet. Preliminärt antal parkeringsplatser som ska anläggas inom
 respektive fastighet framgår av bilaga 2.
 
-5. ÖVERLÅTELSE AV FASTIGHET
+5\. ÖVERLÅTELSE AV FASTIGHET
 
 Om Aranäs överlåter någon av fastigheterna Kolla 3:67, 3:70 och 3:87, eller fastighet
 som avstyckats från dessa, ska köparen förbinda sig att anlägga erforderligt antal par-
@@ -7523,7 +7523,7 @@ Detta avtal har upprättats i fyra likalydande exemplar av vilka parterna tagit 
 Datum 2025- Datum 2025- 66 -1 4
 Kungsbacka kommun Aranäs Projekt AB
 
-203)
+203\)
 
 <!-- sida 183 -->
 
@@ -7532,9 +7532,9 @@ Aranäs i Kungsbacka 13 AB BRF Idyllen i Kungsbacka
 Kolla 3:70 och 3:87 Kolla 3:67
 
 Bilagor:
-1. Indelning i delområden och kvarter
+1\. Indelning i delområden och kvarter
 
-2. Utdrag, Mobilitets- och parkeringsutredning Kolla Parkstad, Norconsult 2022,
+2\. Utdrag, Mobilitets- och parkeringsutredning Kolla Parkstad, Norconsult 2022,
 justerad 2024.
 
 3(3)
@@ -7548,11 +7548,11 @@ Bilaga 1
 Aranäs fastigheter Kolla 3:67 (kvarter 5 och 7), Kolla 3:70 (kvarter 8) och Kolla 3:37 (kvarter 9) är obebyggda.
 
 sx
-+
+\+
 
 OmrådeB = I jan/keäda/vile
 
-- Norr
+\- Norr
 
 Logh, bostodsärt
 
@@ -7564,7 +7564,7 @@ Bape I Eropp 2
 
 CC Obebyggt år 2022
 
-2)
+2\)
 
 Bropp 3
 
@@ -7799,7 +7799,7 @@ har träffats följande
 
 RAMAVTAL
 
-$1 BAKGRUND
+\$1 BAKGRUND
 
 Kommunen är lagfaren ägare till fastigheterna Kolla 5:5, 5:6, 5:7 och 1:20, Aranäs är
 lagfaren ägare till fastigheten Kolla 3:64, JM är lagfaren ägare till fastigheten Kolla 5:13
@@ -7896,7 +7896,7 @@ Kommunen, Aranäs, JM och Eksta hanterar var för sig och tar ansvar för de eve
 skatteeffekter som kan uppstå vid genomförande av marköverföringarna enligt
 Överenskommelsen och Överenskommelse Kollaskolan.
 
-$3 BYGGNATION
+\$3 BYGGNATION
 
 Exploatörerna, förutom Eksta, och av Kommunen utsedda exploatörer för hyresrätterna
 skall inom Exploateringsområdet bygga ca 1100 bostäder för bostadsrätt,
@@ -7960,10 +7960,10 @@ omfattning och följd som behövs för att färdigställa området enligt tidpla
 området skall fungera för boende, verksamheter och besökare inom
 Exploateringsområdet.
 
-$7 GEMENSAMT ANSVAR
+\$7 GEMENSAMT ANSVAR
 
 Exploatörerna har ett gemensamt ansvar för att allmänna anläggningar m.m. byggs ut
-enligt $$ 4 och 6. Det gemensamma ansvaret innebär en förpliktelse för Exploatörerna
+enligt \$\$ 4 och 6. Det gemensamma ansvaret innebär en förpliktelse för Exploatörerna
 att bekosta sin respektive andel av allmänna anläggningar m.m. enligt
 Exploateringsavtalen i takt med utbyggnaden av Exploateringsområdet, detta oaktat om
 man själv bygger på sina respektive kvarter.
@@ -8002,7 +8002,7 @@ Om Kommunen inte kunnat anvisa hyresgäster till respektive kvarter inom tre må
 efter att broschyr med nödvändiga villkor föreligger för respektive kvarter äger
 exploatören för hyresrätterna rätt att själv utse hyresgäster.
 
-$9 PARKERING
+\$9 PARKERING
 
 För Exploateringsområdet gäller parkeringsnorm för bostäder och hantering av parkering
 vid bygglovsprövning enligt Planbeskrivningen till Detaljplanen, bilaga 6,
@@ -8012,22 +8012,22 @@ Kommunen och Exploatörerna har kommit överens om att upplåta all parkering ut
 Exploatörernas kvartersmark inom Exploateringsområdet med boendekort.
 Förutsättningarna för och konsekvenserna av upplåtelse med boendekort är följande:
 
-- Vid beräkning av parkeringsbehovet för boende och besökare kan behovet genom
+\- Vid beräkning av parkeringsbehovet för boende och besökare kan behovet genom
 samnyttjande reduceras med 25 94 på all parkering som upplåtes med boendekort.
 Beräkning av behovet framgår av bilaga 6, Parkeringsplan.
 
-- Kvartersmarken för verksamheter i västra delen av Exploateringsområdet skall inte
+\- Kvartersmarken för verksamheter i västra delen av Exploateringsområdet skall inte
 iordningställas och upplåtas för boendeparkering. Verksamheterna skall ordna sitt behov
 av parkering på egen kvartersmark.
 
-- Parkeringsdäcket väster om punkthusen i norra delen av Exploateringsområdet kan utgå
+\- Parkeringsdäcket väster om punkthusen i norra delen av Exploateringsområdet kan utgå
 och ersättas av markparkering.
 
-- Skolan skall ordna sitt behov av parkering på egen kvartersmark. Skolans
+\- Skolan skall ordna sitt behov av parkering på egen kvartersmark. Skolans
 parkeringsplatser skall till en del och genom samnyttjande kunna nyttjas som parkering
 för boende.
 
-- Behov av parkering för förskolor och lokaler i bottenvåningen på bostadskvarteren
+\- Behov av parkering för förskolor och lokaler i bottenvåningen på bostadskvarteren
 
 tillgodoses genom samnyttjande av ---
 
@@ -8038,42 +8038,42 @@ tillgodoses genom samnyttjande av ---
 Kolla Parkstad
 Ramavtal Kommunen, JM, Aranäs, Exploatören, Eksta
 
-- Parkeringsplatser som upplåts med boendekort skall vid behov kunna avsättas för
+\- Parkeringsplatser som upplåts med boendekort skall vid behov kunna avsättas för
 bilpooler och handikapplatser. Behovet av handikapplatser för boende inom
 Exploateringsområdet skall dock i första hand och vid behov lösas inom Exploatörernas
 kvartersmark.
 
-- Obebyggda ytor, såsom etableringsytor som inte nyttjas, får inte upplåtas för parkering
+\- Obebyggda ytor, såsom etableringsytor som inte nyttjas, får inte upplåtas för parkering
 för boende eller besökare till Exploateringsområdet.
 
-- Parkeringsavgift skall införas för besökare och boende utan boendekort.
+\- Parkeringsavgift skall införas för besökare och boende utan boendekort.
 
-- Avgiften för boendekort skall från och med 2013 uppgå till ca 75 94 av avgiften som
+\- Avgiften för boendekort skall från och med 2013 uppgå till ca 75 94 av avgiften som
 boende betalar på Exploatörernas kvartersmark, dock minst 200 kronor per månad
 exklusive eventuell tillkommande moms.
 
-- Parkeringsavgifter och avgifter för boendekort samt övriga parkeringsregler inom
+\- Parkeringsavgifter och avgifter för boendekort samt övriga parkeringsregler inom
 Exploateringsområdet skall inordnas i den parkeringspolicy för Kungsbacka innerstad
 som Kommunen avser att ta fram under 2010. Överenskommelsen om avgiften för
 boendekort enligt ovan är en förutsättning för denna parkeringspolicy.
 
-- Kommunen skall administrera och förvalta all parkering som upplåts med boendekort,
+\- Kommunen skall administrera och förvalta all parkering som upplåts med boendekort,
 för besökare, för bilpooler och för handikappade utanför Exploatörernas kvartersmark.
 Det innebär också att Kommunen skall sätta upp parkeringsautomater och få alla intäkter
 från försäljning av boendekort och parkeringsavgifter samt ta alla kostnader för drift,
 underhåll och reinvesteringar.
 
-- Kostnaden för anläggandet av de ytor som upplåtes med boendekort ingår i Allmänna
-anläggningar m.m. enligt $ 4 och regleras i Exploateringsavtalen. Exploatörerna av
+\- Kostnaden för anläggandet av de ytor som upplåtes med boendekort ingår i Allmänna
+anläggningar m.m. enligt \$ 4 och regleras i Exploateringsavtalen. Exploatörerna av
 hyresrätter skall dock bidra med en gatukostnadsersättning uppgående till 150 kronor per
 m2 BTA byggrätt för hyresrätt.
 
-- Exploatörerna åtar sig att i skrift informera alla berörda såsom boende,
+\- Exploatörerna åtar sig att i skrift informera alla berörda såsom boende,
 bostadsrättsföreningar och samfällighetsföreningar om de parkeringsregler som gäller för
 Exploateringsområdet samt även ge information om vart de skall vända sig för att lösa
 boendekort.
 
-- Genom införande av boendekort avsäger sig Exploatörerna rätten att kräva att
+\- Genom införande av boendekort avsäger sig Exploatörerna rätten att kräva att
 Kommunen skall ordna mer parkering för boende inom Exploateringsområdet.
 
 8 10 FJÄRRVÄRME, EL, BREDBAND
@@ -8099,7 +8099,7 @@ bostadskvarteren med hyresrätter. Exploatörerna skall efter behov bekosta övr
 utläggning av tomrör. Projektering och utläggning av tomrör skall så långt det är möjligt
 samordnas mellan samtliga exploatörer som är verksamma inom Exploateringsområdet
 
-$ 11 AVFALLSHANTERING
+\$ 11 AVFALLSHANTERING
 
 Bostäder skall utrustas för hushållsnära källsortering.
 
@@ -8111,7 +8111,7 @@ m.m.
 För övrigt gäller Kommuns Renhållningsordning beslutad av kommunfullmäktige i
 september 2004.
 
-$ 12 ENERGIEFFEKTIVA HUS
+\$ 12 ENERGIEFFEKTIVA HUS
 
 I planbeskrivningen står att målsättningen är att bygga så energisnåla hus som möjligt.
 Ett av Kungsbacka kommuns miljömål är att alla nybyggda bostäder inom planlagt
@@ -8128,7 +8128,7 @@ från en normalvägg med tjocklek 300 mm inklusive fasadmaterial vid krav enligt
 på 110 kWh/m? BOA och år. Vid en utformning med lägre energianvändning får BTA
 öka motsvarande vad totala väggtjockleken ökar jämfört med 300 mm.
 
-$£13 MARKNADSKOMMUNIKATION
+\$£13 MARKNADSKOMMUNIKATION
 
 Aranäs och JM har i samarbete med Kommunen arbetat fram och bekostat en gemensam
 kommunikationsplan och en gemensam hemsida för den nya stadsdelen. Stadsdelen har
@@ -8161,7 +8161,7 @@ Exploatörerna har var och en inte, utan Kommunens skriftliga medgivande, rätt 
 
 Exploatörerna har var och en heller inte, utan Kommunens skriftliga medgivande, rätt att
 överlåta del av respektive Exploatörs exploateringsfastighet definierad enligt
-Överenskommelsen $ 2.1 respektive Överenskommelse Kollaskolan $ 2.1 på annan part.
+Överenskommelsen \$ 2.1 respektive Överenskommelse Kollaskolan \$ 2.1 på annan part.
 Medgivande krävs dock inte vid överlåtelse med syfte att skapa bostadsrätter,
 äganderätter för egnahem eller ägarlägenheter.
 
@@ -8171,7 +8171,7 @@ förpliktigad att förbinda den nya parten att följa i detta Ramavtal tillämpl
 och rättigheter gentemot Kommunen och Exploatörerna.
 
 Kommunen har, utan Exploatörernas skriftliga medgivande, rätt att överlåta hela eller del
-av Kommunfastigheten, definierad enligt Överenskommelsen $ 2.1. Kommunen har
+av Kommunfastigheten, definierad enligt Överenskommelsen \$ 2.1. Kommunen har
 dock skyldighet att hålla Exploatörerna informerade om planerade överlåtelser innan
 formella beslut har fattats. Vid en överlåtelse av hela eller del av Kommunfastigheten
 står Kommunen kvar som part i detta Ramavtal. Kommunen är också förpliktigad att
@@ -8180,7 +8180,7 @@ gentemot Kommunen och Exploatörerna.
 
 Kungsbacka kommun, såsom ägare till Exploatörsfastigheten har inte, utan Aranäs, JM:s
 och Ekstas skriftliga medgivande, rätt att överlåta hela Exploatörsfastigheten definierad
-enligt Överenskommelsen $ 2.1. Aranäs, JM och Eksta skall dock ge sitt skriftliga
+enligt Överenskommelsen \$ 2.1. Aranäs, JM och Eksta skall dock ge sitt skriftliga
 medgivande till överlåtelsen om inte synnerliga skäl finns att åberopa mot den nya
 parten. Vid en överlåtelse av hela Exploatörsfastigheten träder den nya parten in i detta
 Ramavtal istället för Kungsbacka kommun och övertar samtliga de skyldigheter och
@@ -8188,7 +8188,7 @@ rättigheter som Exploatören har enligt detta Ramavtal.
 
 Kungsbacka kommun, såsom ägare till Exploatörsfastigheten, har, utan Aranäs, JM:s och
 Ekstas skriftliga medgivande, rätt att överlåta del av Exploatörsfastigheten definierad
-enligt Överenskommelsen $ 2.1. Kungsbacka kommun har dock skyldighet att hålla
+enligt Överenskommelsen \$ 2.1. Kungsbacka kommun har dock skyldighet att hålla
 Aranäs, JM och Eksta informerade om planerade överlåtelser innan formella beslut har
 fattats. Vid en överlåtelse av del av Exploatörsfastigheten står Kungsbacka kommun
 kvar som part i detta Ramavtal. Kungsbacka kommun är också förpliktigad att förbinda
@@ -8208,25 +8208,25 @@ Ramavtal Kommunen, JM, Aranäs, Exploatören, Eksta
 För det rätta fullgörandet av Aranäs skyldigheter enligt detta Ramavtal går Aranäs KB
 (organisationsnummer 969622-1440) i borgen såsom för egen skuld.
 
-$ 17 nedan skall äga tillämpning på denna borgensförbindelse
+\$ 17 nedan skall äga tillämpning på denna borgensförbindelse
 
 8 17 TVISTELÖSNING
 
 Tvist i anledning av detta Ramavtal skall avgöras genom skiljedom enligt
 Skiljedomsregler för Stockholms Handelskammares Skiljedomsinstitut
 
-$ 18 GILTIGHET
+\$ 18 GILTIGHET
 
 Detta Ramavtal är giltigt under förutsättning av
 
-- att det behörigen undertecknas av Exploatörerna innan det behandlas i
+\- att det behörigen undertecknas av Exploatörerna innan det behandlas i
 Kommunstyrelsen.
 
-- att det tillsammans med Överenskommelsen, Överenskommelse Kollaskolan och
+\- att det tillsammans med Överenskommelsen, Överenskommelse Kollaskolan och
 Exploateringsavtalen godkänns av Kommunfullmäktige, genom beslut som vinner laga
 kraft, och undertecknas av Kommunen senast den 31 december 2010.
 
-- att beslut om antagande av Detaljplanen vinner laga kraft senast inom två år från det
+\- att beslut om antagande av Detaljplanen vinner laga kraft senast inom två år från det
 datum detta Ramavtal godkänns av Kommunfullmäktige, genom beslut som vinner laga
 kraft. i
 
@@ -8266,7 +8266,7 @@ Kungsbacka den ä/ 2010
 
 U
 
-Borgensförbindelse enligt $ 16 bekräftas härmed
+Borgensförbindelse enligt \$ 16 bekräftas härmed
 
 Kungsbacka som ovan
 
@@ -8286,7 +8286,7 @@ Bilaga 6 Parkeringsplan daterad 2010-01-31
 
 Bilaga 7 Organisationsschema daterad 2010-01-31 =
 
--
+\-
 
 <!-- sida 198 -->
 
@@ -8778,8 +8778,8 @@ Markera fastigheten eller fastigheterna du begär planbesked för
 Du kan välja att bifoga en situationskarta med tydliga markeringar istället för att markera
 fastigheten eller fastigheterna på denna kartan.
 
-> |
->
+\> |
+\>
 än
 Ms LJ ?
 43
@@ -9244,22 +9244,22 @@ PROJEKTETS  LEVERANS
 
 Projektet ska leverera ett planprogram som ger svar på lämplig markanvändning inom område A, B och
 C i förhållande till:
-- närheten till Åsa station, med avseende på hållbart resande
+\- närheten till Åsa station, med avseende på hållbart resande
 
 <!-- sida 238 -->
 
 PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 4 (5)
 
-- närhet till Västkustbanan, med avseende på risker kopplat till planering nära transportled för
+\- närhet till Västkustbanan, med avseende på risker kopplat till planering nära transportled för
 farligt gods samt risk för buller och vibrationer
 
-- närhet till jordbruk och djurhållning, med avseende på den avvägning mellan olika intressen som
+\- närhet till jordbruk och djurhållning, med avseende på den avvägning mellan olika intressen som
 detta kan innebära
-- förutsättningar för avledning av dagvatten och skyfall, med avseende på hur olika delar inom
+\- förutsättningar för avledning av dagvatten och skyfall, med avseende på hur olika delar inom
 programområdet förhåller sig till varandra
 
-- förutsättningar för vatten och spillvatten, på en övergripande nivå
+\- förutsättningar för vatten och spillvatten, på en övergripande nivå
 Planprogrammet ska också ge förslag på hur olika trafikslag kan röra sig till, från och inom området.
 
 De fastighetsrättsliga förutsättningarna behöver kartläggas och beskrivas för hela programområdet.

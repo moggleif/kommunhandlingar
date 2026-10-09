@@ -23362,7 +23362,7 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 
 <!-- sida 539 -->
 
-\_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
@@ -23548,7 +23548,7 @@ kommunstyrelsen.
 Arvodesberedningen bereder generella ärenden om arvoden och ersättningar inför
 beslut i kommunfullmäktige. Arvodesberedningen kan även vara rådgivande till
 kommunstyrelsen i tolkningsfrågor.
-\____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala uppdrag 18 (18)
 
@@ -24079,7 +24079,7 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 
 <!-- sida 557 -->
 
-\_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
@@ -24272,7 +24272,7 @@ att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst.
 
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 2023–2027.
-\____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala uppdrag 18 (18)
 

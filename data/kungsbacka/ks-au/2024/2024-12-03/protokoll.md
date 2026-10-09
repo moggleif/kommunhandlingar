@@ -623,7 +623,7 @@ detaljplanen är i första hand att göra det möjligt att bevilja permanent byg
 befintliga flerbostadsbostadshus. Byggnaderna uppfördes med tillfälliga bygglov
 under åren 2016–2019 för att ordna bostäder till nyanlända personer som anvisats till
 Kungsbacka kommun. Tempohus fick permanent bygglov för Modulhuset sommaren
-2024. Lovet är villkorat med att ett antal förbättringsåtgärder på mark och byggnader
+2024\. Lovet är villkorat med att ett antal förbättringsåtgärder på mark och byggnader
 utförs.
 Köpeskillingen på 20 000 000 kronor utgår ifrån en värdering som är utförd av en
 
@@ -723,11 +723,11 @@ Kommunstyrelsen godkänner projektbeställning för detaljplan för bostäder in
 4:146 och 4:152 i Åsa, daterad 2024-11-11 med följande ändringar:
 
 Under rubriken Hållbarhetsaspekter
-- Följande mening ur första stycket stryks:
+\- Följande mening ur första stycket stryks:
 
 Detta projekt kan bidra till att minska byggandet utanför tätorterna, vilket
 annars är mycket attraktivt nära kustbandet.
-- Följande stycke stryks:
+\- Följande stycke stryks:
 
 Eftersom Åsa är en ort med stor andel småhus så kan byggnation av lägenheter i
 bostadsrätts- eller hyresrättsform bidra till ökad variation av bostadsutbudet
@@ -801,11 +801,11 @@ Förslag till beslut på sammanträdet
 Emanuel Forsell (M) yrkar att projektbeställningen ändras enligt följande:
 
 Under rubriken Hållbarhetsaspekter
-- Följande mening ur första stycket stryks:
+\- Följande mening ur första stycket stryks:
 
 Detta projekt kan bidra till att minska byggandet utanför tätorterna, vilket
 annars är mycket attraktivt nära kustbandet.
-- Följande stycke stryks:
+\- Följande stycke stryks:
 
 Eftersom Åsa är en ort med stor andel småhus så kan byggnation av lägenheter i
 bostadsrätts- eller hyresrättsform bidra till ökad variation av bostadsutbudet
@@ -958,19 +958,19 @@ Kommunstyrelsens arbetsutskott får information om hur arbetet med detaljplanen 
 Kungsbacka arena fortlöper.
 
 Detaljplanen säkerställer:
-- Arenabyggnad
-- Fotbollsstadion med läktare
-- Ny konstgräsplan
-- Annex (möjliggör för framtida byggnation)
-- Back of house-yta
-- Torgyta
+\- Arenabyggnad
+\- Fotbollsstadion med läktare
+\- Ny konstgräsplan
+\- Annex (möjliggör för framtida byggnation)
+\- Back of house-yta
+\- Torgyta
 
-- Motionsslinga
-- Fjärrvärmeledningar
+\- Motionsslinga
+\- Fjärrvärmeledningar
 
 Detaljplanen planeras vara på samråd den 14 januari – 4 februari 2025, granskning är
 planerad 2 maj till 23 maj. Antagande i kommunfullmäktige är planerad till oktober
-2025.
+2025\.
 
 Beslutsgång
 
@@ -1030,18 +1030,18 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Biträdande kommundirektör Anders Johansson lämnar följande information:
-- Kungsbacka nämns i Vinnova-rapport. Sidan 29 och framåt i rapporten är särskilt
+\- Kungsbacka nämns i Vinnova-rapport. Sidan 29 och framåt i rapporten är särskilt
 
 läsvärda utifrån ett Kungsbackaperspektiv.
-- Landshövdingen i Hallands län gör turné och kommer till Kungsbacka den 28
+\- Landshövdingen i Hallands län gör turné och kommer till Kungsbacka den 28
 januari 2025. Ett år som landshövding är tema för besöket. Det går att boka sig
 för att delta vid tillfällena som äger rum kl. 15:00 respektive kl. 17:00.
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
-- Uppdatering rörande diskussioner om öppettider på resecentrum
+\- Uppdatering rörande diskussioner om öppettider på resecentrum
 
-- Förvaltningsrätten har avslagit överklagandet rörande detaljplanen för Klarinetten
-- Nystad säljer Idrottshallarna till Nordiqus – kommunstyrelsen kommer att behöva
+\- Förvaltningsrätten har avslagit överklagandet rörande detaljplanen för Klarinetten
+\- Nystad säljer Idrottshallarna till Nordiqus – kommunstyrelsen kommer att behöva
 behandla ett ärende 2025 rörande försäljningen och den option som kommunen
 
 har att köpa fastigheterna efter 25 år.

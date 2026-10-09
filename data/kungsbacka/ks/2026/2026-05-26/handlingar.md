@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2 (13)
 
-4.  Kommunbudget 2027, plan 2025-00785 Förslag till beslut i kommunfullmäktige
+4\.  Kommunbudget 2027, plan 2025-00785 Förslag till beslut i kommunfullmäktige
 2028–2029                       Kommunfullmäktige fastställer Kommunbudget
 2027, plan 2028–2029, daterad 2026-05-15, nedan
 14.05–14.25                     kallad budgetdokumentet.
@@ -163,7 +163,7 @@ KUNGSBACKA  KOMMUN
 
 6 (13)
 
-18. Godkännande av        2024-00261 Förslag till beslut i kommunstyrelsen
+18\. Godkännande av        2024-00261 Förslag till beslut i kommunstyrelsen
 projektbeställning samt         Kommunstyrelsen godkänner projektbeställning för
 överlämnande för att upprätta   detaljplan för bostäder och service inom Vallda 20:3
 detaljplan för bostäder och     m.fl. i Vallda, daterad 2026-04-22, med följande
@@ -267,11 +267,11 @@ KUNGSBACKA  KOMMUN
 
 Ärende                Beteckning Förslag
 
-31. Redovisning av icke   2026-00049 Förslag till beslut i kommunfullmäktige
+31\. Redovisning av icke   2026-00049 Förslag till beslut i kommunfullmäktige
 färdigberedda motioner          Kommunfullmäktige noterar redovisningen av ej
 (1, 2026)                       färdigberedda motioner till och med 2025-04-02.
 
-32. Sammanträdesdagar 2027 för 2026-00240 Förslag till beslut i kommunstyrelsen
+32\. Sammanträdesdagar 2027 för 2026-00240 Förslag till beslut i kommunstyrelsen
 kommunfullmäktige och           Kommunstyrelsen sammanträder följande datum
 kommunstyrelsen                 2027
 
@@ -764,7 +764,7 @@ ombudget
 Årets resultat, prognos       753   231  286   604     320   508
 Avgår jämförelsestörande poster: -184 52 -75   -57      0   -142
 0
-- varav resultat från exploateringsverksamhet -184 40 23 46  -145
+\- varav resultat från exploateringsverksamhet -184 40 23 46  -145
 ¹ Strukturellt resultat/prognos 569 276  211   548     320   366
 Resultatets andel av skatter & statsbidrag
 Årets resultat (%)            13,1  3,8   4,6  9,5     4,8   7,7
@@ -979,8 +979,8 @@ Sveriges Kommuner och Regioner (SKR) bedömer i cirkulär 26:18 Aktuell ekonomi 
 Planeringsförutsättningar för åren 2026–2029 att den ekonomiska återhämtningen försenas något.
 Samtidigt räknar SKR med att BNP växer mer under 2026 och 2027 än under 2025. Efter en
 minskning under 2025 väntas antalet arbetade timmar öka under 2026 och öka ytterligare under
-2027. SKR bedömer också att skatteintäkterna ökar under 2026 och att de fortsätter att öka under
-2027.
+2027\. SKR bedömer också att skatteintäkterna ökar under 2026 och att de fortsätter att öka under
+2027\.
 
 Det ser ut att bli en svag utveckling för svensk export under 2026. Det beror på kriget i
 Mellanöstern, som påverkar världsekonomin negativt. Leveranser av olja har minskat och
@@ -1202,7 +1202,7 @@ verksamheter.
 Det pågår flera stora bostadsprojekt i kommunen. Ett av dem är kvarteret Valand, där de första
 husen blev klara 2022. Sedan 2024 har man pausat byggandet av de fem kvarvarande kvarteren på
 grund av det ekonomiska läget. Ett annat område är Gjutaren och Liljan. Där blev detaljplanen klar
-2023. Under 2025 har kommunen byggt ut allmänna ytor och sålt mark till Riksbyggen, som planerar
+2023\. Under 2025 har kommunen byggt ut allmänna ytor och sålt mark till Riksbyggen, som planerar
 att börja bygga under året.
 I Björkris byggs det också mycket. Det pågår utbyggnad av gator och allmänna ytor och de två första
 kvarteren blev färdiga 2025. Samma år började byggandet av ytterligare ett kvarter.
@@ -1714,12 +1714,12 @@ Visible care Sweden
 Byggnadsnämnd  Förskola & Grundskola             Drottning Blankas
 gymnasieskola
 Nämnd för hemsjukvård Praktiska Sverige
-Överförmyndarnämnd* Patientnämnd**
-och hjälpmedel*** Ljud & Bildskolan LBS
-* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Individ & Familjeomsorg
+Överförmyndarnämnd\* Patientnämnd\*\*
+och hjälpmedel\*\*\* Ljud & Bildskolan LBS
+\* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Individ & Familjeomsorg
 Mölndals kommun är värdkommun.
-** Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun. Gryning Vård
-*** N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
+\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun. Gryning Vård
+\*\*\* N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
 Teknik
 Ragn-Sells Recycling
 Viavest
@@ -1898,7 +1898,7 @@ Borgensåtagande, miljoner 3 412 3 502 3 493 3 484 3 476 3 473 3 468 3 468 3 468
 kronor
 Borgensåtagande, kronor per 40 174 41 049 40 710 40 676 40 517 40 228 40 128 39 986 39 891 39 815
 invånare
-* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
+\* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
 
 10 Kommunbudget 2027 och plan 2028–2029
 
@@ -2073,7 +2073,7 @@ och sänkt moms på livsmedel bidrar till det. Under 2027
 minskar effekten av energipriserna, men då ökar i stället Kommunen hade i årsbokslutet 2025 pensionsåtagande
 inflationen på andra områden. Samtidigt minskar effekten på 2,2 miljarder kronor. Med pensionsåtagande menar vi
 av den sänkta momsen. Bostadsräntorna väntas stiga under resultatet av ett avtal med anställda om en ersättning som
-2027. Totalt sett räknar SKR därför med att inflationen utgår efter avslutad anställning. Ur risksynpunkt är det
+2027\. Totalt sett räknar SKR därför med att inflationen utgår efter avslutad anställning. Ur risksynpunkt är det
 ökar något mellan 2026 och 2027.  viktigt att ta hänsyn till kommunens pensionsförpliktelser
 eftersom vi ska finansiera skulden i framtiden. Kungs­
 backa kommun redovisar pensionsförpliktelserna enligt
@@ -2118,7 +2118,7 @@ derna kommer att fortsätta minska med 57 miljoner kronor
 Regleringspost 200 223 205  171
 under 2026 men öka med drygt två miljoner kronor till
 2027 och ytterligare öka med drygt 57 miljoner kronor till LSS-utjämning -21 -35 -35 -35
-2028.                              Fastighetsavgift 226 245 245 245
+2028\.                              Fastighetsavgift 226 245 245 245
 Inkomstutjämning, 118,7 117,1 116,4 116,2
 andel av rikets
 skattekraft (%)
@@ -2372,15 +2372,15 @@ Indikator                          2023   2024   2025   Målsättning 2027
 Antal färdigställda bostäder        319    324    601         Öka
 Anmälda brott mot brottsbalken per invånare, antal/100 000 6 475 6 541 6 313 Minska
 invånare (BRÅ)
-Invånare 16–84 år med avsaknad av tillit till andra * 22 % * Minska
+Invånare 16–84 år med avsaknad av tillit till andra \* 22 % \* Minska
 (Folkhälsoenkäten)
 Brukarbedömning hemtjänst äldreomsorg, helhetssyn 91 % 88 % 88 % Öka
 (Kolada)
 Brukarbedömning särskilt boende äldreomsorg, helhetssyn 76 % 76 % 76 % Öka
 (Kolada)
-Brukarbedömning individ- och familjeomsorg totalt – * 98 % 96 % Öka
+Brukarbedömning individ- och familjeomsorg totalt – \* 98 % 96 % Öka
 h elhetssyn (Kolada)
-*) Undersökningen genomfördes inte detta år .
+\*) Undersökningen genomfördes inte detta år .
 
 Kommunbudget 2027 och plan 2028–2029 21
 
@@ -2402,15 +2402,15 @@ Vattenförbrukning för hushåll anslutna till vattenledningsnätet. - 125 Minsk
 Liter/person och dygn.
 Matens klimatpåverkan från de offentliga måltiderna ska minska 1,69 1,85 1,54 Minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030.
-Andelen elever som uppskattar maten i skolan. * *      *        Öka
+Andelen elever som uppskattar maten i skolan. \* \*      \*        Öka
 Brukarbedömning särskilt boende äldreomsorg – maten smakar bra, 74 75 75 Öka
 andel (KOLADA)
 Avfall från hushåll ska minska med 30% per invånare från 2020 till 92 92 97 Minska
-2030. Startvärde 100, målvärde 2030 är 70.
+2030\. Startvärde 100, målvärde 2030 är 70.
 Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig Öka
 Vattendrag med god ekologisk status, andel 18,5 % 18,5 % 18,5 % Öka
 (Källa: Kolada, VISS, Länsstyrelsen)
-Senaste mätvärdet är från 2021 och motsvarar 18,5 % **
+Senaste mätvärdet är från 2021 och motsvarar 18,5 % \*\*
 Andelen återbrukade möbler               -      -     2 %       Öka
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 85% Åk 4: 85% Åk 4: 87% Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 79% Åk 8: 73% Åk 8: 75%
@@ -2418,8 +2418,8 @@ Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 85
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 91% Åk 4: 89% Åk 4: 88% Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 92% Åk 8: 89% Åk 8: 89%
 Åk 1 gy: 86% Åk 1 gy: 88% Åk 1 gy: 89%
-* Mätningen är ny från 2027.
-** Nyckeltalet uppdatera eftersom och alla siffror utom det sista i en cykel bör ses som preliminära. Cykel 1 avser 2004–2009, cykel 2 2010–2016
+\* Mätningen är ny från 2027.
+\*\* Nyckeltalet uppdatera eftersom och alla siffror utom det sista i en cykel bör ses som preliminära. Cykel 1 avser 2004–2009, cykel 2 2010–2016
 och cykel 3 2017–2021. Det äret cykeln tar slut uppdateras med det slutgiltiga resultatet 5 år tillbaka.
 
 22 Kommunbudget 2027 och plan 2028–2029
@@ -2440,17 +2440,17 @@ Insikt, SKR:s servicemätning av kommunernas myndighets- 66 64 61 Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
-viktig del av företagsklimatet. *
+viktig del av företagsklimatet. \*
 Svenskt näringslivs attitydundersökning av kommuners 3,4 3,8 3,6 Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 28 586 28 426 **       Öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % ** Öka
-Företagsamhet, andel av invånare 16–74 år 19 % ** **            Öka
+Sysselsatt dagbefolkning, antal (Kolada) 28 586 28 426 \*\*       Öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % \*\* Öka
+Företagsamhet, andel av invånare 16–74 år 19 % \*\* \*\*            Öka
 Småföretagarindex, ranking utifrån nio olika dimensioner av 32 1 2 Topp 10
 företagande (Källa: Småföretagarnas riksförbund)
-*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
-**Ännu ej publicerad.
+\*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
+\*\*Ännu ej publicerad.
 
 Kommunbudget 2027 och plan 2028–2029 23
 
@@ -2470,11 +2470,11 @@ Meritvärdet utgörs av summan av de 17 bästa betygen i elevens slut-
 betyg och kan max vara 340. (Källa: Kolada)
 Genomsnittlig betygspoäng, gymnasieelever med examen 15,1 15,0 14,9 Öka
 (hemkommun) som kan vara max 20. (Källa: Kolada)
-Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) 1,7 % 2,3 % * Minska
+Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) 1,7 % 2,3 % \* Minska
 Arbetslösa av befolkningen, 18–65 år (Källa: Kolada) 2,3 % 2,7 % 2,9 % Minska
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Källa: Kolada) 325 306 * Minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Källa: Kolada) 325 306 \* Minska
 
-* Ännu ej publicerad.
+\* Ännu ej publicerad.
 
 24 Kommunbudget 2027 och plan 2028–2029
 
@@ -2495,17 +2495,17 @@ och medskapande medarbetare och ledare.
 Indikator                              2023   2024   2025 Målsättning 2027
 Antal engagerade i Go Kungsbacka        89     115    169       Öka
 Antal föreningar som ansöker om bidrag för medskapandeprojekt 34 29 52 Öka
-Andelen invånare som upplever ett gott bemötande i kontakt med * * 85 Öka
+Andelen invånare som upplever ett gott bemötande i kontakt med \* \* 85 Öka
 tjänsteperson i kommunen (SCB medborgarundersökning)
 Andelen företagare som upplever ett gott bemötande i kontakt med Öka
 kommunen (SKR Insikt)
 Andel företagare som upplever att kommunen är lyhörd och tillgänglig Öka
 (SKR Insikt)
-Hållbart medarbetarengagemang, ett index för medarbetarnas sam- 76 75 * Öka
+Hållbart medarbetarengagemang, ett index för medarbetarnas sam- 76 75 \* Öka
 lade uppfattning om områdena motivation, ledarskap och styrning,
 skala 1–100 enligt Medarbetarenkäten
-*Kommunen deltog inte i undersökningen.
-**Undersökningen har ändrat frekvens och genomförs numera vartannat år.
+\*Kommunen deltog inte i undersökningen.
+\*\*Undersökningen har ändrat frekvens och genomförs numera vartannat år.
 
 Kommunbudget 2027 och plan 2028–2029 25
 
@@ -2755,24 +2755,24 @@ och styrelser visar stor lojalitet mot Kungsbacka kommuns korrekt och säkert s�
 beslut och intentioner.           en sammantagen process som vi kan beskriva med fyra
 byggstenar:
 Ekonomiskt ansvar
-1. En robust organisation
+1\. En robust organisation
 Kommunfullmäktige tilldelar nämnder och styrelser en
 nettoram för driften. Inom ramen ska nämnderna ta ett Omfattar exempelvis organisationsstruktur, reglementen,
 självständigt ansvar för sin ekonomi. Nämnderna måste rutiner, verksamhetssystem, kvalitetskontroller, avtal,
 själva upprätta rutiner för budgetuppföljning och intern information, kommunikation och kultur.
 kontroll. Vid befarat underskott ska förvaltningschefen
-2. Riskanalyser som riktar arbetet
+2\. Riskanalyser som riktar arbetet
 utarbeta förslag till åtgärder och presentera dessa för
 nämnden. Nämnden är skyldig att fatta beslut om åtgärder Ett reflekterande och framåtsyftande förhållningssätt.
 för att inte överskrida ramen. Om nämnden trots detta Omvärldsanalys och faktainsamling inom och utom den
 inte anser sig klara sig inom tilldelad ram ska nämnden egna organisationen.
 omedelbart rapportera till kommunstyrelsen. Nämnden
-3. Planerade åtgärder och kontroller
+3\. Planerade åtgärder och kontroller
 är skyldig att göra uppföljning med så täta intervaller som
 krävs för att ha en god kontroll. Efter 30 april och 31 Utgår från riskanalysen och prioriterar och planerar
 augusti rapporterar nämnden sin uppföljning och prognos uppföljande kontroller.
 till kommunstyrelsen som i sin tur gör en uppföljning
-4. Uppföljning
+4\. Uppföljning
 och prognos för kommunen som helhet och redovisar till
 fullmäktige. Detsamma gäller årsbokslutet efter den 31 Vi följer upp och analyserar den interna kontrollen.
 december som vi redovisar till fullmäktige. Resultatet återkopplar man till ansvarig nämnd.
@@ -2783,7 +2783,7 @@ Kommunbudget 2027 och plan 2028–2029 31
 EKONOMISTYRPRINCIPER
 
 Nämndernas ansvar
-1. Nämnden har inte utfört planerad verksamhet.
+1\. Nämnden har inte utfört planerad verksamhet.
 I Kungsbacka arbetar varje nämnd i en årlig process för Nämnden ska normalt återredovisa överskottet.
 internkontroll. Nämnderna har det yttersta ansvaret för
 den interna kontrollen inom sitt verksamhetsområde. De 2. Man har överfört verksamhet till annan nämnd eller
@@ -3203,20 +3203,20 @@ statistiken samlas i en kommungemensam databas, Kolada.
 0,0
 -1,5
 -2,6          -2,1-2,4-2,7 -2,6
-- 5,0
+\- 5,0
 -5,1
-- 10,0                                -9,4
-- 15,0
+\- 10,0                                -9,4
+\- 15,0
 -15,4
 -15,7
-- 20,0
+\- 20,0
 Förskola inkl. Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ & LSS Äldreomsorg
 öppen förskola öppen              Familjeomsorg
 fritidsverksamhet
 tnecorP
 KUNGSBACKAS FÖRUTSÄTTNINGAR
 Nettokostnadsavvkelse i procent
-och miljoner kronor                Avvikelse, miljoner 2023 2024 2025* Avvikelse i
+och miljoner kronor                Avvikelse, miljoner 2023 2024 2025\* Avvikelse i
 kronor                    procent av
 Nettokostnadsavvikelsen jämför nettokostnaden med            utfall 2024
 referenskostnaden, det vill säga statistisk förväntad kostnad
@@ -3236,7 +3236,7 @@ Summa Individ & Familje- -16 -44 -5,5%
 omräknade i miljoner kronor.       omsorg
 Summa Äldreomsorg 80 32       2,8%
 Följande tabell visar att vi sammantaget har ett något lägre
-kostnadsläge inom Förskola & Grundskolas verksamheter * Ännu ej publicerad.
+kostnadsläge inom Förskola & Grundskolas verksamheter \* Ännu ej publicerad.
 med 40 miljoner kronor. Även gymnasieskolan har lägre
 kostnader motsvarande sju miljoner kronor. Sammanlagda
 kostnadsläget inom Individ & Familjeomsorg är 44
@@ -3844,11 +3844,11 @@ INVESTERING OCH EXPLOATERING
 enligt den så kallade Fyrstegsmodellen. Modellen boenden tillhör kommunstyrelsen och kommunstyrelsen
 innebär att vi ska välja och överväga lokallösningar kan justera mellan olika lokalprojekt under året.
 enligt följande prioriteringsordning:
-1. Inte tillgodose behovet alls Behov som vi ska lösa genom investering enligt lokalplanen
-2. Leda om ”strömmar” av elever, boende till ledig får vi starta upp om de understiger 25 miljoner kronor i
+1\. Inte tillgodose behovet alls Behov som vi ska lösa genom investering enligt lokalplanen
+2\. Leda om ”strömmar” av elever, boende till ledig får vi starta upp om de understiger 25 miljoner kronor i
 kapacitet i befintliga lokaler  investeringsbelopp. För behov som överstiger 25 miljoner
-3. Bygga om eller till befintliga lokaler kronor eller är av särskild principiell karaktär ska
-4. Bygga nya lokaler            kommunstyrelsen besluta om igångsättning. Motsvarande
+3\. Bygga om eller till befintliga lokaler kronor eller är av särskild principiell karaktär ska
+4\. Bygga nya lokaler            kommunstyrelsen besluta om igångsättning. Motsvarande
 • Vi ska föreslå och välja lokallösningar utifrån igångsättningsbeslut krävs för de behov som ska lösas
 att ”Minska behovet av att bygga nytt genom att genom inhyrning enligt lokalplanen där hyran motsvarar
 samutnyttja och bygga mer flexibelt” vilket innebär att en investering av 25 miljoner kronor.
@@ -4633,7 +4633,7 @@ Kommunbudget 2027 och plan 2028–2029 67
 Foto: Scandinav bildbyrå
 
 Kungsbacka kommunfullmäktige beslutade i juni 2026 om kommunbudgeten för
-2027. Det här dokumentet innehåller våra övergripande mål med fokusområden
+2027\. Det här dokumentet innehåller våra övergripande mål med fokusområden
 och direktiv, resultat- och finansieringsbudget och de ekonomiska ramar som våra
 nämnder har att förhålla sig till, en omvärldsanalys, riktlinjer för god
 ekonomisk hushållning, vår investeringsplan, taxor och avgifter och skattesats.
@@ -5116,7 +5116,7 @@ Transaktionsidentitet: EA54E7F1F272CEE072E6A220DC30B570CD15AB7122
 
 <!-- sida 122 -->
 
----
+\---
 
 Initiativ
 
@@ -6181,11 +6181,11 @@ Gottskärs hemtjänst AB
 Byggnadsnämnd  Förskola & Grundskola             Olivia Hemtjänst AB
 Vardaga Äldreomsorg AB
 Nämnd för hemsjukvård
-Överförmyndarnämnd* Patientnämnd**
-och hjälpmedel***
-* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Mölndals kommun är värdkommun.
-** Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
-*** N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
+Överförmyndarnämnd\* Patientnämnd\*\*
+och hjälpmedel\*\*\*
+\* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Mölndals kommun är värdkommun.
+\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
+\*\*\* N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
 
 6 Kommunbudget 2026 och plan 2027–2028
 
@@ -6358,7 +6358,7 @@ Borgensåtagande, 3 059 3 283 3 412 3 502 3 493 3 484 3 476 3 476 3 476 3 476 3 
 m iljoner kronor
 Borgensåtagande, 36 702 38 900 40 174 41 049 40 710 40 676 40 517 40 333 40 331 40 302 40 246
 kronor per invånare
-* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
+\* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
 
 [Tabell 152-1](handlingar.tabeller/152-1.csv)
 
@@ -6816,9 +6816,9 @@ Brukarbedömning hemtjänst äldreomsorg, helhetssyn 90 % 91 % 88 % Öka
 (Kolada)
 Brukarbedömning särskilt boende äldreomsorg, helhetssyn 74 % 76 % 76 % Öka
 (Kolada)
-Brukarbedömning individ­ och familjeomsorg totalt – 88 % * 95 % Öka
+Brukarbedömning individ­ och familjeomsorg totalt – 88 % \* 95 % Öka
 h elhetssyn (Kolada)
-*) Brukarbedömning görs vartannat år för individ- och familjeomsorg.
+\*) Brukarbedömning görs vartannat år för individ- och familjeomsorg.
 
 Kommunbudget 2026 och plan 2027–2028 19
 
@@ -6841,25 +6841,25 @@ vattenledningsnätet. (Här ingår förbrukning från hushåll, kommunen
 och privata verksamheter). Liter/person och dygn
 Vattenförbrukning för hushåll anslutna till vattenledningsnätet. - - 125 Minska
 Liter/person och dygn.
-Fossiloberoende personbilar, andel av totalt antal bilar i det 21,2 24,1 * Öka
+Fossiloberoende personbilar, andel av totalt antal bilar i det 21,2 24,1 \* Öka
 geografiska området (%)
 Matens klimatpåverkan från de offentliga måltiderna ska minska 1,86 1,69 1,85 Minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030.
 Antal kemiska produkter med utfasningsämnen, inklusive 113 115 151 Minska
 hormonstörande ämnen på SIN-listan ska minska i kommunens
 verksamheter. 2021 var antalet 124 (KEMgroup PRO)
-Avfall från hushåll ska minska med 30% per invånare från 2020 till 103 92 * Minska
-2030. Startvärde 100, målvärde 2030 är 70.
-Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig *   Öka
-Vattendrag med god ekologisk status, andel (Kolada) 18,5 % * *  Öka
-Andelen återbrukade möbler               -      -      *        Öka
-Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 88% Åk 4: 85% * Öka
+Avfall från hushåll ska minska med 30% per invånare från 2020 till 103 92 \* Minska
+2030\. Startvärde 100, målvärde 2030 är 70.
+Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig \*   Öka
+Vattendrag med god ekologisk status, andel (Kolada) 18,5 % \* \*  Öka
+Andelen återbrukade möbler               -      -      \*        Öka
+Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 88% Åk 4: 85% \* Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 72% Åk 8: 79%
 Åk 1 gy: 65% Åk 1 gy: 73%
-Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 90% Åk 4: 91% * Öka
+Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 90% Åk 4: 91% \* Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 93% Åk 8: 92%
 Åk 1 gy: 85% Åk 1 gy: 86%
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 20 Kommunbudget 2026 och plan 2027–2028
 
@@ -6879,17 +6879,17 @@ Insikt, SKR:s servicemätning av kommunernas myndighets- 69 66 64 Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
-viktig del av företagsklimatet. *
+viktig del av företagsklimatet. \*
 Svenskt näringslivs attitydundersökning av kommuners 3,4 3,4 3,8 Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 28 485 28 586 **       Öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % ** Öka
-Företagsamhet, andel av invånare 16 - 74 år 18 % 19 % **        Öka
-Antal nystartade företag per 1 000 invånare 16 - 64 år, 12,8 10,3 % ** Öka
+Sysselsatt dagbefolkning, antal (Kolada) 28 485 28 586 \*\*       Öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % \*\* Öka
+Företagsamhet, andel av invånare 16 - 74 år 18 % 19 % \*\*        Öka
+Antal nystartade företag per 1 000 invånare 16 - 64 år, 12,8 10,3 % \*\* Öka
 etableringsfrekvens (Kolada)
-*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
-**Ännu ej publicerad.
+\*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
+\*\*Ännu ej publicerad.
 
 Kommunen ska vara en
 möjliggörare för företag-
@@ -6939,9 +6939,9 @@ Indikator                              2022   2023   2024 Målsättning 2026
 Hållbart medarbetarengagemang, ett index för medarbetarnas sam- 78 76 75 Öka
 lade uppfattning om områdena motivation, ledarskap och styrning,
 skala 1–100 enligt Medarbetarenkäten
-Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix beräknas 114 124 * Öka
+Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix beräknas 114 124 \* Öka
 utifrån nio nyckeltal med skala 1–20
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 Näringslivskontoret anordnar en
 rad evenemang för företagare
@@ -7147,24 +7147,24 @@ och styrelser visar stor lojalitet mot Kungsbacka kommuns korrekt och säkert s�
 beslut och intentioner.           en sammantagen process som vi kan beskriva med fyra
 byggstenar:
 Ekonomiskt ansvar
-1. En robust organisation
+1\. En robust organisation
 Kommunfullmäktige tilldelar nämnder och styrelser en
 nettoram för driften. Inom ramen ska nämnderna ta ett Omfattar exempelvis organisationsstruktur, reglementen,
 självständigt ansvar för sin ekonomi. Nämnderna måste rutiner, verksamhetssystem, kvalitetskontroller, avtal,
 själva upprätta rutiner för budgetuppföljning och intern information, kommunikation och kultur.
 kontroll. Vid befarat underskott ska förvaltningschefen
-2. Riskanalyser som riktar arbetet
+2\. Riskanalyser som riktar arbetet
 utarbeta förslag till åtgärder och presentera dessa för
 nämnden. Nämnden är skyldig att fatta beslut om åtgärder Ett reflekterande och framåtsyftande förhållningssätt.
 för att inte överskrida ramen. Om nämnden trots detta Omvärldsanalys och faktainsamling inom och utom den
 inte anser sig klara sig inom tilldelad ram ska nämnden egna organisationen.
 omedelbart rapportera till kommunstyrelsen. Nämnden
-3. Planerade åtgärder och kontroller
+3\. Planerade åtgärder och kontroller
 är skyldig att göra uppföljning med så täta intervaller
 som krävs för att ha en god kontroll. Efter 30 april och 31 Utgår från riskanalysen och prioriterar och planerar
 augusti rapporterar nämnden sin uppföljning och prognos uppföljande kontroller.
 till kommunstyrelsen som i sin tur gör en uppföljning
-4. Uppföljning
+4\. Uppföljning
 och prognos för kommunen som helhet och redovisar till
 fullmäktige. Detsamma gäller årsbokslutet efter den 31 Vi följer upp och analyserar den interna kontrollen.
 december som vi redovisar till fullmäktige. Resultatet återkopplar man till ansvarig nämnd.
@@ -7175,7 +7175,7 @@ december som vi redovisar till fullmäktige. Resultatet återkopplar man till an
 EKONOMISTYRPRINCIPER
 
 Nämndernas ansvar
-1. Nämnden har inte utfört planerad verksamhet.
+1\. Nämnden har inte utfört planerad verksamhet.
 I Kungsbacka arbetar varje nämnd i en årlig process för Nämnden ska normalt återredovisa överskottet.
 internkontroll. Nämnderna har det yttersta ansvaret för
 den interna kontrollen inom sitt verksamhetsområde. 2. Man har överfört verksamhet till annan nämnd eller
@@ -7581,13 +7581,13 @@ av kommunstyrelsen.
 0,0
 -1,5
 -2,6          -2,1-2,4-2,7 -2,6
-- 5,0
+\- 5,0
 -5,1
-- 10,0                                -9,4
-- 15,0
+\- 10,0                                -9,4
+\- 15,0
 -15,4
 -15,7
-- 20,0
+\- 20,0
 Förskola inkl. Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ & LSS Äldreomsorg
 öppen förskola öppen              Familjeomsorg
 fritidsverksamhet
@@ -8214,11 +8214,11 @@ INVESTERING OCH EXPLOATERING
 enligt den så kallade Fyrstegsmodellen. Modellen boenden tillhör kommunstyrelsen och kommunstyrelsen
 innebär att vi ska välja och överväga lokallösningar kan justera mellan olika lokalprojekt under året.
 enligt följande prioriteringsordning:
-1. Inte tillgodose behovet alls Behov som vi ska lösa genom investering enligt lokal-
-2. Leda om ”strömmar” av elever, boende till ledig planen får vi starta upp om de understiger 25 miljoner
+1\. Inte tillgodose behovet alls Behov som vi ska lösa genom investering enligt lokal-
+2\. Leda om ”strömmar” av elever, boende till ledig planen får vi starta upp om de understiger 25 miljoner
 kapacitet i befintliga lokaler kronor i investeringsbelopp. För behov som överstiger 25
-3. Bygga om eller till befintliga lokaler miljoner kronor eller är av särskild principiell karaktär ska
-4. Bygga nya lokaler            kommunstyrelsen besluta om igångsättning. Motsvarande
+3\. Bygga om eller till befintliga lokaler miljoner kronor eller är av särskild principiell karaktär ska
+4\. Bygga nya lokaler            kommunstyrelsen besluta om igångsättning. Motsvarande
 • Vi ska föreslå och välja lokallösningar utifrån att igångsättningsbeslut krävs för de behov som ska lösas
 ”Minska behovet av att bygga nytt genom att sam- genom inhyrning enligt lokalplanen där hyran motsvarar
 utnyttja och bygga mer flexibelt” vilket innebär att en investering av 25 miljoner kronor.
@@ -8720,7 +8720,7 @@ Lokaler & reinvesteringar
 
 Teknik, skattefinansierat
 
-*Varlavägen, delen Stora Bäcksleden­Arendalsleden (År 2026 5 000 tkr, År 2027 10 000 tkr, År 2028 10 000 tkr)
+\*Varlavägen, delen Stora Bäcksleden­Arendalsleden (År 2026 5 000 tkr, År 2027 10 000 tkr, År 2028 10 000 tkr)
 
 Avgiftsfinansierad verksamhet
 
@@ -8751,7 +8751,7 @@ Avgiftsfinansierad verksamhet
 |  |  |  |  | 2030 |
 | Löpande | 9 650 | 12 850 | 12 000 | 33 200 |
 | Reinvesteringar | 31 750 | 18 600 | 20 400 | 79 500 |
-| Övriga investeringar* | 40 100 | 55 050 | 54 100 | 40 300 |
+| Övriga investeringar\* | 40 100 | 55 050 | 54 100 | 40 300 |
 | Summa | 81 500 | 86 500 | 86 500 | 153 000 |
 
 [Tabell 203-4](handlingar.tabeller/203-4.csv)
@@ -8864,10 +8864,10 @@ detaljplanen i slutet av 2023 och projektet innehåller cirka Den andra etappen 
 och kommer att bygga tre kvarter med flerbostadshus, där
 Etapp 3
 byggstart för det första kvarteret är planerat till slutet av
-2025. Byggnationen av skolan är planerad att starta 2025 Sista och tredje etappen består av Tölö ängar 3 (del 2),
+2025\. Byggnationen av skolan är planerad att starta 2025 Sista och tredje etappen består av Tölö ängar 3 (del 2),
 och kvarteret med radhus kommer att markanvisas av Tölöängar syd (del 2), samt Hede station. Vi planerar att
 kommunen till annan exploatör i ett senare skede under starta detaljplanen för dessa områden under 2026 och
-2026. För närvarande pågår projektering av infrastruktu- framåt.
+2026\. För närvarande pågår projektering av infrastruktu- framåt.
 ren.
 
 62 Kommunbudget 2026 och plan 2027–2028
@@ -8928,7 +8928,7 @@ Miljödomstolen meddelade i januari 2024 att de upphäver
 detaljplanen. Kommunen har valt att göra om vissa delar
 och detaljplanen kommer att ställas ut på granskning igen.
 Vi beräknar att kunna anta detaljplanen på nytt under
-2025. Försäljning av verksamhetsmarken kommer sedan att
+2025\. Försäljning av verksamhetsmarken kommer sedan att
 pågå under ett antal år.
 Kommunbudget 2026 och plan 2027–2028 63
 
@@ -9042,7 +9042,7 @@ Kommunbudget 2026 och plan 2027–2028 65
 Foto: Scandinav bildbyrå
 
 Kungsbacka kommunfullmäktige beslutade i juni 2025 om kommunbudgeten för
-2026. Det här dokumentet innehåller våra övergripande mål med fokusområden
+2026\. Det här dokumentet innehåller våra övergripande mål med fokusområden
 och direktiv, resultat­ och finansieringsbudget och de ekonomiska ramar som våra
 nämnder har att förhålla sig till, en omvärldsanalys, riktlinjer för god
 ekonomisk hushållning, vår investeringsplan, taxor och avgifter och skattesats.
@@ -9122,7 +9122,7 @@ Kommunstyrelsen avbryter byggprojektet Naturum Fjärås Bräcka löpnummer 142 m
 verkan.
 
 Kommunstyrelsen godkänner att nedlagda kostnader på cirka 1 400 000 kronor hanteras i bokslut
-2026.
+2026\.
 
 Sammanfattning av ärendet
 
@@ -9576,7 +9576,7 @@ processen ska användas för behov som löses genom inves- 1. Inte tillgodose be
 teringar i egna lokaler och genom inhyrda lokaler. Genom- 2. Leda om ”strömmar” av elever, boende etc. till ledig
 förandeprocessen hanterar de lokalprojekt som krävs för att kapacitet i befintliga lokaler
 omsätta behov till färdiga lokaler. 3. Bygga om eller till befintliga lokaler
-4. Bygga nya lokaler
+4\. Bygga nya lokaler
 Lokalplanering     Genomförande
 Insamling                Genomför-
 Behov            Förstudie Projektering   Avslut
@@ -10090,7 +10090,7 @@ Bukärr 22:36
 
 <!-- sida 232 -->
 
-+ Kungsbacka
+\+ Kungsbacka
 
 Begära planbesked
 
@@ -10236,7 +10236,7 @@ Organisationsnhummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 <!-- sida 258 -->
 
-119)
+119\)
 
 NS
 
@@ -10348,7 +10348,7 @@ k
 
 ÅA CH INFOCLICK är X +
 
-=
+\=
 : 1AV2 > re
 
 ; LÅ
@@ -10389,7 +10389,7 @@ Telefon 010-205 10 80 infoOliljewall.se www:liljewall.se Org.nr 556145-0379
 
 <!-- sida 261 -->
 
-419)
+419\)
 
 NS
 
@@ -10497,7 +10497,7 @@ Telefon 010-205 10 80 infoQliljewall.se www:liljewall.se Org.nr 556145-0379
 
 <!-- sida 264 -->
 
-719)
+719\)
 
 Bild från 22:36 mot föreslagen bebyggelse
 
@@ -10876,7 +10876,7 @@ Kommundirektör                Samhällsbyggnadschef
 
 <!-- sida 273 -->
 
-+ Kungsbacka
+\+ Kungsbacka
 
 Begära planbesked
 Ärendenummer: 4260958 | Inskickat av: | 2026-02-13 12:55
@@ -10970,7 +10970,7 @@ Ja
 
 Beskrivning
 
-=
+\=
 
 4 Planläggning för trygghetsboende på Älskogsbräcka 1.2.pdf (233 KB)
 7 Trygghetsboende i Älskogsbräcka - förstudie.pdf (9,07 MB)
@@ -10987,7 +10987,7 @@ Organisationsnhummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 <!-- sida 277 -->
 
 5] BOSTADSLYFTET
-5) ARKITEKTER
+5\) ARKITEKTER
 
 Ansökan om planbesked — Detaljplan för trygghetsboende
 Fastighet: Älskogsbräcka 1:2, Onsala Västerby, Kungsbacka kommun
@@ -11028,7 +11028,7 @@ de kan behålla sin självständighet.
 <!-- sida 278 -->
 
 5] BOSTADSLYFTET
-5) ARKITEKTER
+5\) ARKITEKTER
 
 Planläggningen bedöms bidra till flera positiva samhällseffekter, såsom:
 
@@ -11068,7 +11068,7 @@ Ytterligare information om projektets förutsättningar återfinns i bilagan:
 <!-- sida 279 -->
 
 5] BOSTADSLYFTET
-2) ARKITEKTER
+2\) ARKITEKTER
 
 Begäran
 
@@ -11213,9 +11213,9 @@ PA
 Va 3 |
 äl
 
-=
+\=
 .
--
+\-
 a
 ;
 | IN
@@ -11330,7 +11330,7 @@ Bilaga 3 sida 4 av 12
 
 <!-- sida 284 -->
 
-=
+\=
 
 Framtida trygghetsboende i Älskogsbräcka
 
@@ -11492,16 +11492,16 @@ NH ns EE denn fontän och fiskar som lugnt simmar i vattnet.
 peer ln HM grönsaker, kryddor och blommor och skapar
 EE både aktivitet, gemenskap och närhet till
 naturen.
-5. I fruktträdgården kan man njuta av skörd
+5\. I fruktträdgården kan man njuta av skörd
 än och skugga, vila under träden och följa
 / årstidernas växlingar.
-1. 6. Parkering för boende och besökare ordnas
+1\. 6. Parkering för boende och besökare ordnas
 Fe i anslutning till entrén.
 jT
 o Längs Bräckavägen sparas träd och växtlighet
 Trygghetsboende pa ps SA VTT NI oavsätt väder. Den glasade delen för att bilda en grön och naturlig avskärmning
 Älskogsbräcka 1:2 E släpper in dagsljuset året runt och mellan vägen och trygghetsboendet.
-1. Trygghetsboende med lägenheter för | skapar en ljus miljö där växtligheten
+1\. Trygghetsboende med lägenheter för | skapar en ljus miljö där växtligheten
 boende från 65 år. Byggnadens hjärta utgörs ( blir en del av inredningen. Genom
 av en inglasad mittdel som fungerar som f glaset kan man följa årstidernas
 entré och rymmer både restaurang för boende NZD - i. skiftningar och känna närheten till
@@ -11870,24 +11870,24 @@ Bilaga 3 sida 11 av 12
 
 Källhänvisning
 
-1. Hemnet. ”La Revange 10B,
+1\. Hemnet. ”La Revange 10B,
 Onsala — Gottskär/Draget, Kungsbacka
 kommun.” Hämtad från: https://www.
 hemnet.se/bostad/tomt-onsala-gottskar-
 draget-kungsbacka-kommun-la-
 revange-10b-21559875
 
-2. Power Bl. (u.å.).
+2\. Power Bl. (u.å.).
 Befolkningsstatistik för Onsala. Hämtad
 15 augusti 2025 från https://app.
 powerbi.com/
 
-3. — Rikshem. (u.å.). 55+ och 70+
+3\. — Rikshem. (u.å.). 55+ och 70+
 boende. Hämtad 15 augusti 2025 från
 https://www.rikshem.se/bo-hos-oss/
 bostadssokande/55-och-70/
 
-4. Boverket. (u.å.).
+4\. Boverket. (u.å.).
 Trygghetsbostäder. Hämtad 15
 augusti 2025 från https://www.
 boverket.se/sv/samhallsplanering/
@@ -11895,13 +11895,13 @@ bostadsmarknad/bostadsmarknaden/
 bostadsmarknadsenkaten/olika-
 grupper/aldre/trygghetsbostader/
 
-5. Google Earth. (2025). [Skärmbild
+5\. Google Earth. (2025). [Skärmbild
 av Älskogsbräcka 1:2, Kungsbacka
 kommun] [Satellitbild]. Hämtad 15
 augusti 2025 från https://earth.google.
 com
 
-6. Örebro kommun. (2015).
+6\. Örebro kommun. (2015).
 Trädgårdarna [Fotografi].
 Mynewsdesk. Hämtad 15 augusti
 2025 från https://www.mynewsdesk.
@@ -11912,13 +11912,13 @@ traedgaardarna-1151527
 
 Ärendenummer: 4260958 | Datum: 2026-02-13 12:55
 
-7. . Örebro kommun. (n.d.).
+7\. . Örebro kommun. (n.d.).
 Trädgårdarna [Fotografi]. Mynewsdesk.
 https://www.mynewsdesk.com/
 se/orebro kommun/images/
 traedgaardarna-1151527
 
-8. Lev hållbart. (2018). Odlingsåret
+8\. Lev hållbart. (2018). Odlingsåret
 2018 — lärdomar från succéer och
 misslyckanden [Fotografi]. Hämtad
 
@@ -11928,7 +11928,7 @@ levahallbart.se/odling/odlingsaret-
 misslyckanden/attachment/4f098ec7-
 88f2-40cc-b4dd-e0a754e26ed0/
 
-9. — iStock. (u.å.). Group of
+9\. — iStock. (u.å.). Group of
 
 senior men and women having
 coffee together. Hämtad 15
@@ -11937,24 +11937,24 @@ augusti 2025 från https://www.
 istockphoto.com/se/search/2/image-
 film?phrase=group+of+senior+men
 
-10. Kungsbackasenioren. (u. å.).
+10\. Kungsbackasenioren. (u. å.).
 Trygghetsboende. Hämtad 15 augusti
 2025 från https://kungsbackasenioren.
 se/valet-2018/trygghetsboende.htmI
 
-11. Heby kommun. (u.å.).
+11\. Heby kommun. (u.å.).
 Mötesplatser för seniorer [Fotografi].
 Hämtad 15 augusti 2025 från https://
 www.heby.se/omsorg-och-stod/stod-till-
 aktiv-vardag/motesplatser-for-seniorer
-12. Bostadsbolaget. (2011). Next
+12\. Bostadsbolaget. (2011). Next
 Step Living i Majviken [Fotografi].
 Mynewsdesk. Hämtad 15 augusti 2025
 från https://www.mynewsdesk.com/se/
 bostadsbolaget/images/next-step-living-
 i-majviken-50410
 
-13.
+13\.
 
 Bostadsbolaget. (u.å.).
 Trygghetsboende [Fotografi].
@@ -11962,7 +11962,7 @@ Hämtad 15 augusti 2025 från https://
 bostadsbolaget.se/for-hyresgaster/
 trygghetsboende/
 
-14. Hedin, E. (2016, 23 juni).
+14\. Hedin, E. (2016, 23 juni).
 Göteborg satsar på trygghetsboende
 för äldre. Sveriges Radio. Hämtad
 15 augusti 2025 från https://www.
@@ -11976,7 +11976,7 @@ Factory Street, Ramsbottom, BLO 9GH
 från https://adlington.co.uk/locations/
 ramsbottom-lancashire/
 
-16.  Adlington Retirement Living.
+16\.  Adlington Retirement Living.
 (u. å.). Enjoy every moment of your
 retirement [VVebbsida]. Hämtad 15
 augusti 2025 från https://adlington.
@@ -12047,7 +12047,7 @@ SITUATIONSPLAN
 <!-- sida 293 -->
 
 5] BOSTADSLYFTET
-5) ARKITEKTER
+5\) ARKITEKTER
 
 Ansökan om planbesked — Detaljplan för trygghetsboende
 Fastighet: Älskogsbräcka 1:2, Onsala Västerby, Kungsbacka kommun
@@ -12086,15 +12086,15 @@ de kan behålla sin självständighet.
 <!-- sida 294 -->
 
 5] BOSTADSLYFTET
-5) ARKITEKTER
+5\) ARKITEKTER
 
 Planläggningen bedöms bidra till flera positiva samhällseffekter, såsom:
 
 möjliggöra för äldre att bo kvar i närområdet,
-- minska ensamhet och behov av mer omfattande vårdinsatser,
-- frigöra befintliga småhus för andra hushållsgrupper,
+\- minska ensamhet och behov av mer omfattande vårdinsatser,
+\- frigöra befintliga småhus för andra hushållsgrupper,
 
-- skapa förutsättningar för möten mellan generationer genom närhet till förskola
+\- skapa förutsättningar för möten mellan generationer genom närhet till förskola
 och skola.
 
 Platsens förutsättningar
@@ -12122,7 +12122,7 @@ Ytterligare information om projektets förutsättningar återfinns i bilagan:
 <!-- sida 295 -->
 
 5] BOSTADSLYFTET
-2) ARKITEKTER
+2\) ARKITEKTER
 
 Begäran
 
@@ -12238,7 +12238,7 @@ Vad är ett trygghetsboende?
 Fi RE YT.
 SE N EN ;
 
-- LJ
+\- LJ
 
 JSM
 
@@ -12333,9 +12333,9 @@ Befolkning per år och enligt senaste prognos
 
 Gutfall Q2024-2033
 
-- äss ev era 88 216 89300
+\- äss ev era 88 216 89300
 t ac sn BE BÖJ Ar £53 86 1760 32:87 559 00
-2. 84 395 84 930 85 301 85 801 85 653 1/9
+2\. 84 395 84 930 85 301 85 801 85 653 1/9
 
 83 348
 
@@ -12478,7 +12478,7 @@ Befintlig byggnad blir
 Trygghetsboende på
 Älskogsbräcka 1:2
 
-1. Trygghetsboende med lägenheter för
+1\. Trygghetsboende med lägenheter för
 boende från 65 år. Byggnadens hjärta utgörs
 av en inglasad mittdel som fungerar som
 entré och rymmer både restaurang för boende
@@ -12556,7 +12556,7 @@ en mer avskild känsla för de boende.
 
 ( ) Konceptmodell.
 
-2. Omkring trygghetsboendet anläggs
+2\. Omkring trygghetsboendet anläggs
 planteringar med temat ”sinnen”. Växterna
 ger dofter som skiftar över året, lockar till sig
 olika insekter och fåglar och skapar variation i
@@ -12564,19 +12564,19 @@ färg och höjd. Resultatet blir en stämningsfull
 utemiljö som samtidigt erbjuder en rofylld
 plats för vila och återhämtning.
 
-3. En damm tillför ytterligare en dimension till
+3\. En damm tillför ytterligare en dimension till
 trädgården, med det rogivande ljudet från en
 fontän och fiskar som lugnt simmar i vattnet.
-4. Köksträdgården ger möjlighet till odling av
+4\. Köksträdgården ger möjlighet till odling av
 grönsaker, kryddor och blommor och skapar
 både aktivitet, gemenskap och närhet till
 naturen.
 
-5. I fruktträdgården kan man njuta av skörd
+5\. I fruktträdgården kan man njuta av skörd
 och skugga, vila under träden och följa
 årstidernas växlingar.
 
-6. Parkering för boende och besökare ordnas
+6\. Parkering för boende och besökare ordnas
 i anslutning till entrén.
 
 Längs Bräckavägen sparas träd och växtlighet
@@ -12921,24 +12921,24 @@ SN S 2 Älsl
 
 Källhänvisning
 
-1. Hemnet. ”La Revange 10B,
+1\. Hemnet. ”La Revange 10B,
 Onsala — Gottskär/Draget, Kungsbacka
 kommun.” Hämtad från: https://www.
 hemnet.se/bostad/tomt-onsala-gottskar-
 draget-kungsbacka-kommun-la-
 revange-10b-21559875
 
-2. Power Bl. (u.å.).
+2\. Power Bl. (u.å.).
 Befolkningsstatistik för Onsala. Hämtad
 15 augusti 2025 från https://app.
 powerbi.com/
 
-3. — Rikshem. (u.å.). 55+ och 70+
+3\. — Rikshem. (u.å.). 55+ och 70+
 boende. Hämtad 15 augusti 2025 från
 https://www.rikshem.se/bo-hos-oss/
 bostadssokande/55-och-70/
 
-4. Boverket. (u.å.).
+4\. Boverket. (u.å.).
 Trygghetsbostäder. Hämtad 15
 augusti 2025 från https://www.
 boverket.se/sv/samhallsplanering/
@@ -12946,13 +12946,13 @@ bostadsmarknad/bostadsmarknaden/
 bostadsmarknadsenkaten/olika-
 grupper/aldre/trygghetsbostader/
 
-5. Google Earth. (2025). [Skärmbild
+5\. Google Earth. (2025). [Skärmbild
 av Älskogsbräcka 1:2, Kungsbacka
 kommun] [Satellitbild]. Hämtad 15
 augusti 2025 från https://earth.google.
 com
 
-6. Örebro kommun. (2015).
+6\. Örebro kommun. (2015).
 Trädgårdarna [Fotografi].
 Mynewsdesk. Hämtad 15 augusti
 2025 från https://www.mynewsdesk.
@@ -12961,13 +12961,13 @@ traedgaardarna-1151527
 
 22
 
-7. . Örebro kommun. (n.d.).
+7\. . Örebro kommun. (n.d.).
 Trädgårdarna [Fotografi]. Mynewsdesk.
 https://www.mynewsdesk.com/
 se/orebro kommun/images/
 traedgaardarna-1151527
 
-8. Lev hållbart. (2018). Odlingsåret
+8\. Lev hållbart. (2018). Odlingsåret
 2018 — lärdomar från succéer och
 misslyckanden [Fotografi]. Hämtad
 
@@ -12977,7 +12977,7 @@ levahallbart.se/odling/odlingsaret-
 misslyckanden/attachment/4f098ec7-
 88f2-40cc-b4dd-e0a754e26ed0/
 
-9. — iStock. (u.å.). Group of
+9\. — iStock. (u.å.). Group of
 
 senior men and women having
 coffee together. Hämtad 15
@@ -12986,24 +12986,24 @@ augusti 2025 från https://www.
 istockphoto.com/se/search/2/image-
 film?phrase=group+of+senior+men
 
-10. Kungsbackasenioren. (u. å.).
+10\. Kungsbackasenioren. (u. å.).
 Trygghetsboende. Hämtad 15 augusti
 2025 från https://kungsbackasenioren.
 se/valet-2018/trygghetsboende.html
 
-11. Heby kommun. (u.å.).
+11\. Heby kommun. (u.å.).
 Mötesplatser för seniorer [Fotografi].
 Hämtad 15 augusti 2025 från https://
 www.heby.se/omsorg-och-stod/stod-till-
 aktiv-vardag/motesplatser-for-seniorer
-12. Bostadsbolaget. (2011). Next
+12\. Bostadsbolaget. (2011). Next
 Step Living i Majviken [Fotografi].
 Mynewsdesk. Hämtad 15 augusti 2025
 från https://www.mynewsdesk.com/se/
 bostadsbolaget/images/next-step-living-
 i-majviken-50410
 
-13.
+13\.
 
 Bostadsbolaget. (u.å.).
 Trygghetsboende [Fotografi].
@@ -13011,7 +13011,7 @@ Hämtad 15 augusti 2025 från https://
 bostadsbolaget.se/for-hyresgaster/
 trygghetsboende/
 
-14. Hedin, E. (2016, 23 juni).
+14\. Hedin, E. (2016, 23 juni).
 Göteborg satsar på trygghetsboende
 för äldre. Sveriges Radio. Hämtad
 15 augusti 2025 från https://www.
@@ -13025,7 +13025,7 @@ Factory Street, Ramsbottom, BLO 9GH
 från https://adlington.co.uk/locations/
 ramsbottom-lancashire/
 
-16.  Adlington Retirement Living.
+16\.  Adlington Retirement Living.
 (u. å.). Enjoy every moment of your
 retirement [VVebbsida]. Hämtad 15
 augusti 2025 från https://adlington.
@@ -14831,14 +14831,14 @@ sl
 
 3.4.3
 
-207)
+207\)
 planförslagets negativa påverkan på kulturmiljön.
 
 Ett nytt förslag till detaljplan, ”Detaljplan för verksamheter inom Frillesås-Rya 3:77
 m.fl.” nedan kallad Detaljplanen, har varit föremål för granskning. Arbete med
 planhandlingarna inför beslut om antagande pågår. Beslut om antagande av
 Detaljplanen bedöms preliminärt tas upp i Kommunfullmäktige under tredje kvartalet
-2026.
+2026\.
 
 Parterna ska tillsammans verka för att Detaljplanen antas och får laga kraft, i syfte att
 möjliggöra Projektet i enlighet med punkt 1.4. I Detaljplanen ingår Markområdet och
@@ -14898,7 +14898,7 @@ Sign
 
 3.4.4
 
-4.
+4\.
 
 —
 
@@ -15300,7 +15300,7 @@ ungefärliga avgränsning framgår av karta i bilaga 2.
 
 3.2
 
-25)
+25\)
 
 Då Bolaget inte avser att vara ägare av Markområdet eller självt ska genomföra
 utbyggnad av byggnader och iordningsställande av mark för sin verksamhet ska
@@ -15473,7 +15473,7 @@ medgivande.
 <!-- sida 364 -->
 
 5(5)
-9. — Tvist
+9\. — Tvist
 
 9.1 Tvist rörande tolkning av denna avsiktsförklaring ska hänskjutas till allmän
 domstol.
@@ -16014,7 +16014,7 @@ fram. I den kommande ansökan och tillhörande
 miljökonsekvensbeskrivning (MKB) redovisas bedömningar av projektets
 miljökonsekvenser. Detta samråd avser möjligheten att placera ledningen
 inom någon av de utredningskorridorer som redovisas i Figur 1 och Figur
-2.
+2\.
 
 7
 
@@ -20214,7 +20214,7 @@ kommuner under detaljprojektering och byggfas.
 
 Miljökonsekvensbeskrivning
 
-- innehåll      och   utformning
+\- innehåll      och   utformning
 
 Svenska kraftnät kommer ta fram två miljökonsekvensbeskrivningar för
 den planerade verksamheten som efter samrådsprocessen bedöms som
@@ -20602,7 +20602,7 @@ Länsstyrelsen Västra Götalands län, 2024, Bevarandeplan för Natura
 
 Länsstyrelsen Västra Götalands län:
 Beskrivning av marina värdetrakter i Västra Götalands län: https://ext-
-dokument.lansstyrelsen.se/VastraGotaland/Naturvard/Gron_Infra/Marina_
+dokument.lansstyrelsen.se/VastraGotaland/Naturvard/Gron_Infra/Marina\_
 vardetrakter_Beskrivning.pdf, 2026-01-30
 
 Mölndals stad, kulturmiljöprogram:
@@ -20892,7 +20892,7 @@ KUNGSBACKA  KOMMUN
 
 Tabell 7.1 Sammanfattning av metoder för sänkta kommunalskatter
 
-* Utredningens förslag
+\* Utredningens förslag
 
 Figur 2 Tabell som sammanfattar metoder för sänkta kommunalskatter. Källa SOU 2026:20 sid 175
 Utredningens slutsatser och förslag
@@ -20907,9 +20907,9 @@ demografiska utvecklingens negativa påverkan på skatteunderlag och kostnadstry
 | 1. Skattetak | • Lagstadgat tak för skattesatserna<br>(Norge)<br>• ”Mjukt” tak, reglering via statsbidrag | Fördel: Ger samma regler för alla kommuner och<br>regioner.<br>Nackdel: Ingripande; stora konsekvenser för<br>kommuner och regioner. De som har en skattenivå<br>u nder taket kan höja. |
 | 2. Skattebroms<br>eller<br>skattestopp | • Lag som förbjuder skattehöjning<br>(Sverige 1991–1993)<br>• Lag med incitament att inte höja<br>skatten och lag om skattebroms via<br>statsbidrag (Sverige 1994 och 1997–<br>1999)<br>• Bidragsbasering (Danmark)<br>• Obligatoriskt samråd med myndighet<br>senast före beslutad höjning (Ej<br>prövat) | Fördel:<br>Broms är mindre ingripande än tak (dock inskrän<br>ker det även beskattningsrätten och självstyret).<br>Nackdel: Kan uppfattas som orättvis mot<br>kommuner och regioner som sänkt före<br>införandet och till fördel för dem som höjt före.<br>Risk att skatten höjs mer eftersom skattehöjning<br>ger mindre intäkt (vid broms). |
 | 3. Skattesänknings-<br>premie | • Kan kombineras med broms<br>• Allmän konstruktion eller frivilliga<br>överenskommelser om minskning av<br>kommunalskatten | Fördel: Mindre ingripande.<br>Kan användas som incitament att sänka, dvs.<br>inte bara undvika att höja.<br>Nackdel: Kan uppfattas som orättvis mot<br>k ommuner som redan sänkt skatt vid införande. |
-| 4. Effektivitetsfrämj<br>ande / ambitions-<br>styrande åtgärder | • Lag om effektivisering och plan<br>för skattesats (obligatorisk)*<br>• Organisatoriskt eller finansiellt<br>stöd till att analysera och genom-<br>d riva förändring | Fördel: Inget ingripande i självstyret om<br>det sker på frivillig grund.<br>Nackdel: Sannolikt svårt att få tydliga<br>resultat avseende just skattesats. |
+| 4. Effektivitetsfrämj<br>ande / ambitions-<br>styrande åtgärder | • Lag om effektivisering och plan<br>för skattesats (obligatorisk)\*<br>• Organisatoriskt eller finansiellt<br>stöd till att analysera och genom-<br>d riva förändring | Fördel: Inget ingripande i självstyret om<br>det sker på frivillig grund.<br>Nackdel: Sannolikt svårt att få tydliga<br>resultat avseende just skattesats. |
 | 5. Ökad utjämning<br>och ökade bidrag | • Ökad utjämning eller alternativa<br>intäktskällor<br>• Ex. bidrag, småkommunstillägg<br>• Icke bindande, men angriper<br>delorsaker till skillnader | Fördel: Mindre eller inget ingripande, enkelt att<br>genomföra.<br>Nackdel: Sannolikt svårt att få tydliga resultat<br>avseende just skattesats, dyr lösning om syftet<br>är att sänka skatten. |
-| 6. Ökad<br>transparens | • Motivering till val av skattesatsnivå*<br>• Krav på planer för skattesats-<br>och ambitionsnivå | Fördel: Mindre ingripande åtgärd.<br>Nackdel: Kommer påverka genomsnittlig<br>skattesats i begränsad omfattning. |
+| 6. Ökad<br>transparens | • Motivering till val av skattesatsnivå\*<br>• Krav på planer för skattesats-<br>och ambitionsnivå | Fördel: Mindre ingripande åtgärd.<br>Nackdel: Kommer påverka genomsnittlig<br>skattesats i begränsad omfattning. |
 
 <!-- sida 497 -->
 
@@ -23547,9 +23547,9 @@ Preliminär medlemsavgift per kommun   2027 - 2029
 I Budgetunderlaget för 2027 plan 2028 – 2029 (diarienummer 2025/541) har två
 felaktigheter uppmärksammats i tabellen, avsnitt 7.2.
 
-1. Infasningsavgiften för 2028 och 2029 avseende Stenungsund, Tjörn och Lilla Edet.
+1\. Infasningsavgiften för 2028 och 2029 avseende Stenungsund, Tjörn och Lilla Edet.
 
-2. Medlemsavgift för pensionskostnader 2026 avseende Lerum.
+2\. Medlemsavgift för pensionskostnader 2026 avseende Lerum.
 
 Korrigeringarna har markerats med gult i bifogat underlag.
 
@@ -23565,7 +23565,7 @@ Marie Karlsson
 Ekonomichef
 
 Bilaga:
-- Uppdaterad tabell i avsnitt 7.2 Preliminär medlemsavgift per kommun 2027 - 2029 i
+\- Uppdaterad tabell i avsnitt 7.2 Preliminär medlemsavgift per kommun 2027 - 2029 i
 Budgetunderlaget 2027 plan 2028 - 2029
 
 Räddningstjänstförbundet Telefon, växel: E-post: Postadress: Besöksadress: Bankgiro:
@@ -23635,7 +23635,7 @@ Forts nästa sida
 3(3)
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader* 2026 2027 2028 2029
+Medlemsavgift för pensionskostnader\* 2026 2027 2028 2029
 Göteborgs kommun                 58 175 000 57 600 000 68 478 000 75 388 000
 Mölndals kommun                  5 451 000 5 397 000 6 417 000 7 064 000
 Kungsbacka kommun                8 055 000 7 975 000 9 482 000 10 438 000
@@ -23646,7 +23646,7 @@ Tjörns kommun                    1 709 000 1 692 000 2 011 000 2 214 000
 Stenungsunds kommun              4 321 000 4 279 000 5 087 000 5 600 000
 Lilla Edets kommun               1 971 000 1 951 000 2 320 000 2 554 000
 Summa                            90 405 000 89 510 000 106 416 000 117 152 000
-*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
+\*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
 Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2026 2027 2028 2029
 Göteborgs kommun                480 085 410 493 011 543 518 258 124 539 561 088
 Mölndals kommun                  44 952 562 46 162 612 48 527 877 50 522 425
@@ -23680,15 +23680,15 @@ www.rsgbg.se
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
 Innehåll
-1.  INLEDNING................................................................................. 3
+1\.  INLEDNING................................................................................. 3
 
-2.  BUDGETPROCESSEN ................................................................... 3
+2\.  BUDGETPROCESSEN ................................................................... 3
 
-3.  BUDGET 2027 OCH PLAN 2028 - 2029 ......................................... 4
+3\.  BUDGET 2027 OCH PLAN 2028 - 2029 ......................................... 4
 
 3.1  Beslut om medlemsavgifter 2027 ........................................................ 5
 
-4.  FÖRUTSÄTTNINGAR  FÖR VERKSAMHETEN ................................. 6
+4\.  FÖRUTSÄTTNINGAR  FÖR VERKSAMHETEN ................................. 6
 4.1  Från brandkår till räddningstjänstmyndighet ...................................... 6
 
 4.2  Förbundsutökning ................................................................................ 6
@@ -23700,7 +23700,7 @@ Innehåll
 
 4.6  Omvärldsläget ...................................................................................... 9
 
-5.  EKONOMI  – EFFEKTIVISERINGAR OCH UTMANINGAR ............... 10
+5\.  EKONOMI  – EFFEKTIVISERINGAR OCH UTMANINGAR ............... 10
 5.1  Kommande kostnadsökningar ........................................................... 10
 
 5.2  Uppbyggnad av civilt försvar, kontinuitet och höjd beredskap ......... 10
@@ -23710,14 +23710,14 @@ Innehåll
 
 5.5  Lönerörelsen och lönekostnaderna ................................................... 12
 
-6.  RESULTAT, EGET KAPITAL och PERSONAL .................................. 13
+6\.  RESULTAT, EGET KAPITAL och PERSONAL .................................. 13
 
 6.1  Resultat ............................................................................................... 13
 6.2  Eget kapital ......................................................................................... 13
 
 6.1  Personal - statistik och utveckling ...................................................... 14
 
-7.  BILAGOR ................................................................................... 15
+7\.  BILAGOR ................................................................................... 15
 
 7.1  Preliminär Resultatbudget 2027 och 2028 - 2029 ............................. 15
 7.2  Preliminär medlemsavgift per kommun 2027 - 2029 ........................ 16
@@ -23730,7 +23730,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             2(19)
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
-1. INLEDNING
+1\. INLEDNING
 Räddningstjänstförbundet Storgöteborg (RSG) är ett kommunalförbund med nio
 medlemskommuner; Göteborg, Mölndal, Kungsbacka, Härryda, Partille, Lerum,
 
@@ -23763,7 +23763,7 @@ LSO-verksamheten.
 Finansiering av räddningstjänstverksamheten sker genom medlemsavgifter och övriga
 intäkter.
 
-2. BUDGETPROCESSEN
+2\. BUDGETPROCESSEN
 Under inledningen av året före den aktuella budgetperioden utarbetas ett underlag för
 budget verksamhetsår och planperiod. Efter förbundsstyrelsens godkännande av
 underlaget informeras medlemssamrådet och underlaget sänds för yttrande till
@@ -23784,7 +23784,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             3(19)
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
-3. BUDGET 2027 OCH  PLAN 2028 - 2029
+3\. BUDGET 2027 OCH  PLAN 2028 - 2029
 Dokumentet beskriver framför allt verksamhetens grundläggande förutsättningar för
 att utföra sitt uppdrag samt faktorer med särskild ekonomisk påverkan. Till
 
@@ -23874,7 +23874,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             5(19)
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
-4. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
+4\. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
 
 4.1 Från brandkår till räddningstjänstmyndighet
 Förbundet har tidigare rättssäkrat myndighetsutövningen och driver sedan snart tio år
@@ -24090,7 +24090,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             9(19)
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
-5. EKONOMI  – EFFEKTIVISERINGAR OCH  UTMANINGAR
+5\. EKONOMI  – EFFEKTIVISERINGAR OCH  UTMANINGAR
 
 5.1 Kommande kostnadsökningar
 Framtagningen av budget 2027 plan 2028–2029 utgår från någorlunda ordinarie
@@ -24155,7 +24155,7 @@ En dialog har inletts med fastighetsägaren Higab, avseende de två hyresavtalen
 gällande Gårda. Fastigheten är närmare 40 år gammal och ansvaret för underhåll kan
 komma att bli kostsamt med den hyreskonstruktion som gällande avtal innebär. Ett
 förslag till nytt hyresavtal är framtaget och hyresnivån kommer att stiga från och med
-2028.
+2028\.
 
 Andra lokalfrågor avser ombyggnation och nybyggnation av brandstationer, föranlett
 av till exempel arbetsmiljöproblematik eller för att berörd kommun har önskemål och
@@ -24202,7 +24202,7 @@ Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
 resurser avgör hur snabbt genomförandet kan ske. Större satsningar har gjorts under
 framför allt 2026 och de beslutade projekten löper även under 2027 och i viss mån
-2028. Beroende på ekonomiska möjligheter kommer beslut om ytterligare
+2028\. Beroende på ekonomiska möjligheter kommer beslut om ytterligare
 digitaliseringsprojekt att fattas allteftersom.
 
 Fartyg och fordon
@@ -24258,7 +24258,7 @@ Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 påverkas med ungefär 0,7 mkr för varje tiondels procent i lönerörelsen.
 Lönekostnaderna uppgår till ca 75 % av RSG:s totala kostnader.
 
-6. RESULTAT, EGET KAPITAL och PERSONAL
+6\. RESULTAT, EGET KAPITAL och PERSONAL
 6.1 Resultat
 
 Resultatet för 2025 har bidragit till goda förutsättningar för kommande år. Det innebar
@@ -24305,12 +24305,12 @@ Uppgifter per 31/12
 
 2025  2024  2023   2022  2021
 Arbetad tid
-Antal årsarbetare*            812   798   797   725   722
+Antal årsarbetare\*            812   798   797   725   722
 Antal anställda per december
 
 Anställda per december inkl. RIB
 
-*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
+\*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
 t.ex. 100 % sysselsättningsgrad motsvarar 1,0 årsarbetare och 75 procent 0,75.
 
 Tabell 2 Personalstatistik
@@ -24347,7 +24347,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            14(19)
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
-7. BILAGOR
+7\. BILAGOR
 
 7.1 Preliminär Resultatbudget 2027 och 2028 - 2029
 Miljontal kronor           2025   2027  2028  2029
@@ -24465,7 +24465,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            16(19)
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader* 2026 2027 2028 2029
+Medlemsavgift för pensionskostnader\* 2026 2027 2028 2029
 Göteborgs kommun                 58 175 000 57 600 000 68 478 000 75 388 000
 Mölndals kommun                   5 451 000 5 397 000 6 417 000 7 064 000
 Kungsbacka kommun                 8 055 000 7 975 000 9 482 000 10 438 000
@@ -24476,7 +24476,7 @@ Tjörns kommun                     1 709 000 1 692 000 2 011 000 2 214 000
 Stenungsunds kommun               4 321 000 4 279 000 5 087 000 5 600 000
 Lilla Edets kommun                1 971 000 1 951 000 2 320 000 2 554 000
 Summa                            92 405 000 89 510 000 106 416 000 117 152 000
-*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
+\*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
 Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2025 2026 2027 2028
 Göteborgs kommun                 480 085 410 493 011 543 518 258 124 539 561 088
 Mölndals kommun                  44 952 562 46 162 612 48 527 877 50 522 425
@@ -24517,12 +24517,12 @@ Sammanträdesdatum 2026-03-11
 Remiss underlag till budget 2027 och plan 2028-2029
 
 Beslut
-1. Förbundsstyrelsen fastställer underlag till budget 2027 och plan 2028-2029.
+1\. Förbundsstyrelsen fastställer underlag till budget 2027 och plan 2028-2029.
 
-2. Förbundsstyrelsen remitterar underlag till budget 2027 och plan 2028-2029 till
+2\. Förbundsstyrelsen remitterar underlag till budget 2027 och plan 2028-2029 till
 medlemskommunerna för yttrande med svar till RSG senast den 31 maj 2026.
 
-3. Förbundsstyrelsen överlämnar underlag till budget 2027 och plan 2028-2029 till Medlemssamrådet
+3\. Förbundsstyrelsen överlämnar underlag till budget 2027 och plan 2028-2029 till Medlemssamrådet
 för information den 27 mars 2026.
 
 Sammanfattning av ärendet
@@ -24625,16 +24625,16 @@ Remiss  underlag   till budget 2027   plan 2028-
 
 2029
 
-1.   Förslag till beslut
+1\.   Förslag till beslut
 
-1. Förbundsstyrelsen fastställer underlag till budget 2027 och plan 2028-2029.
-2. Förbundsstyrelsen remitterar underlag till budget 2027 och plan 2028-2029 till
+1\. Förbundsstyrelsen fastställer underlag till budget 2027 och plan 2028-2029.
+2\. Förbundsstyrelsen remitterar underlag till budget 2027 och plan 2028-2029 till
 medlemskommunerna för yttrande med svar till RSG senast den 31 maj 2026.
 
-3. Förbundsstyrelsen överlämnar underlag till budget 2027 och plan 2028-2029 till
+3\. Förbundsstyrelsen överlämnar underlag till budget 2027 och plan 2028-2029 till
 Medlemssamrådet för information den 27 mars 2026.
 
-2.   Sammanfattning
+2\.   Sammanfattning
 
 Handlingen utgör underlag för budget 2027 plan 2028 - 2029 och beskriver RSG:s
 verksamhet och ekonomi med hänsyn till förbundets uppdrag och förutsättningar samt
@@ -24649,7 +24649,7 @@ för en äskad uppräkning av medlemsavgifterna med 3,2 % avseende budgetåret 2
 Medlemskommunernas yttranden kommer därefter att sammanvägas i framtagandet av
 handlingen Budget 2027 plan 2028 - 2029.
 
-3.   Ärendet
+3\.   Ärendet
 
 Underlag till budget 2027 och plan 2028 – 2029 bygger på ordinarie förutsättningar och
 omständigheter. Tidigare underskott i resultatet, på totalt -9,7 mkr avseende åren 2023
@@ -24689,7 +24689,7 @@ prognostiseras.
 
 .
 
-4.   Samverkan
+4\.   Samverkan
 
 Information MBL 19 § om budget lämnas efter sammanställning av inkomna beslut från
 
@@ -24699,11 +24699,11 @@ Robert Karlsson            Marie Karlsson
 
 Förbundsdirektör           Ekonomichef
 
-5.   Bilagor
+5\.   Bilagor
 
-1. Underlag till budget 2027 plan 2028 - 2029
+1\. Underlag till budget 2027 plan 2028 - 2029
 
-6.   Sändlista
+6\.   Sändlista
 Medlemskommunerna
 
 2 (2)
@@ -24927,7 +24927,7 @@ Kostnadsfördelningen sker genom att samtliga samverkanskommuner betalar en fast
 om 150 000 kronor. Resterande del av budgeten fördelas utifrån kommunernas invånarantal
 per den 31 december året före budgetens fastställande. Dessa uppgifter har ännu inte
 publicerats av SCB. I förslaget till nämnd har därför utgåtts från siffrorna per tredje kvartalet
-2025. Detta kommer att uppdateras innan budget fastställs, men bör rimligtvis inte påverka
+2025\. Detta kommer att uppdateras innan budget fastställs, men bör rimligtvis inte påverka
 fördelningen väsentligt.
 
 Den procentuella kostnadsfördelningen för 2027 är preliminärt att kommunerna, utöver den
@@ -25318,19 +25318,19 @@ Lekmannarevision     2025
 
 Innehållsförteckning
 
-1.  Granskningsinriktning ............................................................................................... 2
+1\.  Granskningsinriktning ............................................................................................... 2
 1.1. Bakgrund ................................................................................................................. 2
 1.2. Syfte ........................................................................................................................ 2
 1.3. Avgränsning ............................................................................................................ 2
 1.4. Revisionskriterier ..................................................................................................... 2
 1.5. Metod ...................................................................................................................... 2
 
-2.  Granskningsresultat 2025 .......................................................................................... 3
+2\.  Granskningsresultat 2025 .......................................................................................... 3
 2.2. Styrning, uppföljning och ägardialog ........................................................................ 3
 2.3. Riskanalys och intern kontroll .................................................................................. 5
 2.4. Årets resultat ........................................................................................................... 6
 
-3.  Sammanfattande bedömning och rekommendationer ............................................ 7
+3\.  Sammanfattande bedömning och rekommendationer ............................................ 7
 
 Bilagor:
 Bilaga 1: Revisionskriterier
@@ -25341,7 +25341,7 @@ Bilaga 2: Källförteckning
 
 <!-- sida 614 -->
 
-1. Granskningsinriktning
+1\. Granskningsinriktning
 
 1.1. Bakgrund
 Lekmannarevisionens uppdrag regleras i aktiebolagslagens kap 10. Av 3 § framgår att
@@ -25386,7 +25386,7 @@ sakfelsgranska rapporten.
 
 <!-- sida 615 -->
 
-2. Granskningsresultat 2025
+2\. Granskningsresultat 2025
 
 2.1.1. Väsentliga händelser under året
 
@@ -25563,7 +25563,7 @@ och direktavkastningskravet i ägardirektivet.
 
 <!-- sida 619 -->
 
-3. Sammanfattande  bedömning  och rekommendationer
+3\. Sammanfattande  bedömning  och rekommendationer
 
 Vår sammanfattande bedömning är att bolagens verksamhet sköts på ändamålsenligt sätt.
 Vidare är vår bedömning att verksamheten har skötts på ett från ekonomisk synpunkt
@@ -25754,7 +25754,7 @@ Under året har ett omfattande ROT-projekt på
 Rosengatan 18-44 med 115 lägenheter färdigställts,
 samtidigt som renoveringen av Signeshus vård- och
 omsorgsboende har startat och ska stå klar våren
-2026. Trots hög investeringstakt har soliditeten stärkts
+2026\. Trots hög investeringstakt har soliditeten stärkts
 och ingen nyupplåning krävts. Målsättningen är att
 fortsätta på samma sätt under 2026.
 
@@ -26627,7 +26627,7 @@ Under 2025 valde vi att arbeta med en ettårig målperiod tent personal, utan oc
 för att öka flexibiliteten och bättre kunna möta förändringar. utvecklingssamtalen samtalar vi om varje medarbetares
 Arbetssättet har bidragit till hög delaktighet och tydligare förutsättningar, behov och önskemål. I den individuella
 mer konkreta mål varför vi kopierar konceptet även under utvecklingsplanen fokuserar vi på att sätta mål och skapa
-2026. Parallellt har värdegrundsarbetet bedrivits genom utvecklingsvägar som gynnar både den anställde, arbets-
+2026\. Parallellt har värdegrundsarbetet bedrivits genom utvecklingsvägar som gynnar både den anställde, arbets-
 gemensamma dialoger och workshops, vilket har stärkt gruppen och bolaget som helhet. Under året har det ge-
 medarbetarnas samsyn, engagemang och samarbete i nomförts både interna och externa kurser och utbildningar,
 organisationen.                 både för enskilda medarbetare och i grupp.
@@ -27078,7 +27078,7 @@ uteplatser och privata balkonger. PERL
 
 . Den! juli var
 « det inflyttning
-> på Rya Ängar
+\> på Rya Ängar
 
 etapp 3
 
@@ -27326,7 +27326,7 @@ på taken är en;självklarhet.
 
 Sarv. Vi har under året producerat 4 miljoner KWh solenergi.
 
-> Där cirka 2/3 är solvärme och 1/3 sol-el.
+\> Där cirka 2/3 är solvärme och 1/3 sol-el.
 
 Ä Energianvändningen i hela vårt bestånd blev för 2025
 
@@ -28486,7 +28486,7 @@ Beskrivning i text över identifierade och klassificerade
 risker.
 
 Intern kontrollplan/riskanalys där varje risk ges ett värde
-+ utifrån sannolikhet multiplicerat med konsekvens om
+\+ utifrån sannolikhet multiplicerat med konsekvens om
 risken faller ut.
 
 En riskmatris som åskådliggör riskvärdet och en helhets-
@@ -28741,7 +28741,7 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 | Finansiella anläggningstillgångar | 146 038 | 126 026 | 116 143 | 116 111 | 119 565 |
 | Omsättningstillgångar | 138 595 | 124 935 | 156 277 | 175 314 | 226 139 |
 | Eget kapital | 924 162 | 857 163 | 809 822 | 738 802 | 675 480 |
-| Obeskattade reserver * | 11 586 | 10 108 | 8 284 | 6 927 | 8 908 |
+| Obeskattade reserver \* | 11 586 | 10 108 | 8 284 | 6 927 | 8 908 |
 | Avsättningar | 86 031 | 87 050 | 83 466 | 74 012 | 68 277 |
 | Låneskuld | 3 587 481 | 3 591 957 | 3 598 802 | 3 672 712 | 3 700 222 |
 | Rörelseskulder | 132 146 | 89 076 | 135 679 | 123 922 | 117 863 |
@@ -29047,7 +29047,7 @@ har gjorts med ledning av extern värdering.
 Elinstallationer, ventilation, hissar 40 år
 Intäktsredovisning               Lokalanpassningar          10 år
 Hyror och försäljning
-Intäkterna redovisas till nominellt värde. Övrigt*         100 år
+Intäkterna redovisas till nominellt värde. Övrigt\*         100 år
 Byggnadsinventarier       20 år
 Tjänste- och entreprenaduppdrag
 Företaget vinstavräknar utförda uppdrag till fast pris när Markanläggningar 50 år
@@ -29067,7 +29067,7 @@ tar betydande tid att färdigställa (exempelvis byggnader) Undercentraler 40 å
 räknas låneutgifterna (räntorna) in i anskaffningsvärdet.
 Inventarier                5 år
 Leasing
-*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
+\*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
 Företaget redovisar leasingavtal som en kostnad linjärt över
 leasingperioden.                Bolaget har i ägardirektiv begränsningar i sin rätt att avyttra
 fastigheter till ett värde över 10 mkr.
@@ -30435,7 +30435,7 @@ Styrelsen och Verkställande direktören för Tempo-
 hus Kungsbacka AB, 559151-1349, avger följande
 berättelse för bolagets verksamhet 2025-01-01-2025-
 12-31. Bolaget är helägt av Eksta Bostads AB 556497-
-8293. Tempohus Kungsbacka AB hänvisar till Eksta
+8293\. Tempohus Kungsbacka AB hänvisar till Eksta
 Bostads AB:s hållbarhetsrapport för 2025. Rapporten
 går att ladda ner och läsa på www.eksta.se.
 
@@ -31721,7 +31721,7 @@ Revisionsberättelse för år 2025
 
 Jag har granskat räkenskaperna, årsredovisningen och förbundsstyrelsens
 förvaltning i Samordningsförbundet i Halland (organisationsnummer 222000-
-2857) för verksamhetsåret 2025.
+2857\) för verksamhetsåret 2025.
 Mitt uppdrag är att pröva om verksamheten sköts på ett ändamålsenligt och från
 ekonomisk synpunkt tillfredställande sätt, om räkenskaperna är rättvisande och
 om den interna kontrollen är tillräcklig.
@@ -31926,17 +31926,17 @@ underlag. Översiktlig analys av övriga poster.
 
 1.3.1.1 Redovisningen
 •  Verksamhetens intäkter
-- Består i huvudsak av medlemmarnas årsavgifter vilka substansgranskas mot
+\- Består i huvudsak av medlemmarnas årsavgifter vilka substansgranskas mot
 
 beslut, fakturering och inbetalning.
 •  Verksamhetens kostnader
-- Kartläggning av posternas innehåll samt stickprov inklusive attest och
+\- Kartläggning av posternas innehåll samt stickprov inklusive attest och
 utanordning samt avklipp.
 
 •  Kassa och bank
-- Substansgranskas mot externa underlag.
+\- Substansgranskas mot externa underlag.
 •  Kortfristiga skulder
-- Kartläggning av posternas innehåll samt stickprov inklusive attest och
+\- Kartläggning av posternas innehåll samt stickprov inklusive attest och
 
 utanordning.
 •  Redovisningsprinciper
@@ -32162,7 +32162,7 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 
 Innehållsförteckning sidor
 
-1. FÖRVALTNINGSBERÄTTELSE                           4
+1\. FÖRVALTNINGSBERÄTTELSE                           4
 1.1 Översikt över verksamhetens utveckling       5
 1.2 Viktiga förhållanden för resultat och ekonomisk ställning 5
 1.3 Händelser av väsentlig betydelse             5
@@ -32173,13 +32173,13 @@ Innehållsförteckning sidor
 1.7 Balanskravsresultat                          13
 1.8 Väsentliga personalförhållanden              13
 1.9 Förväntad utveckling                         13
-2. RESULTATRÄKNING                                  15
-3. BALANSRÄKNING                                    16
-4. KASSAFLÖDESANALYS                                17
-5. DRIFTSREDOVISNING                                18
-6. NOTER                                            18
-7. STYRELSENS UNDERSKRIFT                           22
-8. REVISORERNAS UNDERSKRIFT                         22
+2\. RESULTATRÄKNING                                  15
+3\. BALANSRÄKNING                                    16
+4\. KASSAFLÖDESANALYS                                17
+5\. DRIFTSREDOVISNING                                18
+6\. NOTER                                            18
+7\. STYRELSENS UNDERSKRIFT                           22
+8\. REVISORERNAS UNDERSKRIFT                         22
 
 3
 
@@ -32193,7 +32193,7 @@ Styrelsen för Samordningsförbundet i Halland avger följande årsredovisning f
 
 upprättad i svenska kronor.
 
-1.   Förvaltningsberättelse
+1\.   Förvaltningsberättelse
 
 Organisation
 
@@ -32331,7 +32331,7 @@ arbetsutskott.
 Utvecklingsarbete som styrelsen ska besluta om föregås av genomgångar med berednings-
 och utvecklingsgruppen som utgörs av cheftjänstemän och andra representanter från
 förbundets parter. Berednings- och utvecklingsgruppen gruppen har haft nio möten under
-2025.
+2025\.
 
 Individsamverkansteamen (IST) var fram till sommaren förbundets individinriktade
 basverksamhet. Teamen styrdes av styrgruppen för IST Halland bestående av representanter
@@ -32471,7 +32471,7 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 
 <!-- sida 733 -->
 
-Målet under 2025* var att insatserna som förbundet finansierar bidrar till att rusta och stödja
+Målet under 2025\* var att insatserna som förbundet finansierar bidrar till att rusta och stödja
 individerna närmare arbete/studier där:
 •  Minst 1/3 avslutas till arbete eller studier
 
@@ -32502,7 +32502,7 @@ Måluppfyllelse: Målet bedöms ej uppnått – avseende avslutsanledningar samt
 ej målen. Orsaken att vi inte nått upp till 500 deltagare är att insatserna månaden före och
 under omorganiseringen hade paus i remissintaget.
 
-*Under hösten 2025 beslutades för nya kvantitativa mål för individinriktade insatser, se
+\*Under hösten 2025 beslutades för nya kvantitativa mål för individinriktade insatser, se
 verksamhetsplan 2026.
 
 Mål för strukturpåverkande insatser
@@ -32611,7 +32611,7 @@ Drifts- och administrativa kostnader: 5 296 881 kr
 
 Utveckling av insatser över tid
 
-* Från 2023 har vi differentierat fler samverkansytor som tidigare inte redovisats som insatser så att utfall visas
+\* Från 2023 har vi differentierat fler samverkansytor som tidigare inte redovisats som insatser så att utfall visas
 i Uppföljning Finsam även för strukturövergripande insatser.
 
 Beskrivning av individinriktade insatser - översikt
@@ -32647,7 +32647,7 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 |  |  | 2025 | 2024 | 2023 | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Antal individinriktade insatser |  | 6 | 5 | 6 | 6 | 7 | 7 |
-| Antal strukturövergripande<br>insatser |  | 14* | 13* | 13* | 6 | 4 | 4 |
+| Antal strukturövergripande<br>insatser |  | 14\* | 13\* | 13\* | 6 | 4 | 4 |
 
 <!-- sida 736 -->
 
@@ -32714,9 +32714,9 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 Balanskravsresultat : 3 501 873 kr
 Balanskravsresultatet beräknas enligt följande:
 = Årets resultat enligt resultaträkningen
-- Samtliga realisationsvinster
-+ Realisationsvinster enligt undantagsmöjlighet
-+ Realisationsförluster enligt undantagsmöjlighet
+\- Samtliga realisationsvinster
+\+ Realisationsvinster enligt undantagsmöjlighet
+\+ Realisationsförluster enligt undantagsmöjlighet
 -/+ Orealiserade vinster och förluster i värdepapper
 +/- Återföring av orealiserade vinster och förluster i värdepapper
 = Balanskravsresultat
@@ -32757,7 +32757,7 @@ av det egna kapitalet. Detta innebär ett behov av att Berednings- och Utvecklin
 huvudansvar för att i samverkan identifiera behov av nya insatser alternativt stärka befintliga
 insatser för att omsätta kapital till verksamhet till gagn för hallänningarna.
 
-Systemvärdskap* för en gemensam arena
+Systemvärdskap\* för en gemensam arena
 Förbundet ska arbeta utifrån de behov som finns hos parterna och stödja befintliga
 strukturer. Förbundet erbjuder ett systemvärdskap inom arbetslivsinriktad rehabilitering för
 
@@ -32770,7 +32770,7 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 
 parterna, då omorganisationer och olika sätt att organisera sig ställer krav på förbundet att
 hitta former för samverkan som anpassas efter behoven hos förbundets parter.
-* Systemvärdskap är att möjliggöra samverkan i komplexa system genom att samla aktörer, synliggöra helheten
+\* Systemvärdskap är att möjliggöra samverkan i komplexa system genom att samla aktörer, synliggöra helheten
 och stödja gemensamt ansvarstagande – utan att själv äga verksamheten.
 
 Kunskapsutveckling
@@ -32784,7 +32784,7 @@ forskning och evidens som kan spridas till medlemsorganisationerna för att utve
 med parternas gemensamma behovsgrupper.
 I samverkan med parterna planerar förbundet att fortsätta erbjuda utbildningar, workshops,
 utvecklande nätverk samt anordna en större Samverkanskonferens i Halland under hösten
-2026.
+2026\.
 
 Påverkan på förbundets roll och uppdrag – nationell nivå
 Lagen om finansiell samordning - under 2024 har Försäkringskassan arbetat med ett
@@ -32826,7 +32826,7 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 
 <!-- sida 739 -->
 
-2. RESULTATRÄKNING
+2\. RESULTATRÄKNING
 
 RESULTATRÄKNING     (KR)
 
@@ -32860,7 +32860,7 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 
 <!-- sida 740 -->
 
-3. BALANSRÄKNING
+3\. BALANSRÄKNING
 
 16
 B
@@ -32948,7 +32948,7 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 
 <!-- sida 741 -->
 
-4. KASSAFLÖDESANALYS
+4\. KASSAFLÖDESANALYS
 
 KASSAFLÖDESANALYS (KR)                            2025        2024
 
@@ -32993,9 +32993,9 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 
 <!-- sida 742 -->
 
-5. DRIFTSREDOVISNING
+5\. DRIFTSREDOVISNING
 
-6. NOTER
+6\. NOTER
 
 18
 B e lo p p tk r
@@ -33329,7 +33329,7 @@ r -
 6 1
 2 0 2
 -1 1 0
-- 11 0
+\- 11 0
 5
 5 4
 2 0
@@ -33358,7 +33358,7 @@ r -
 2 0 2 4
 0
 -1 1 1 0 4
-- 11 10 4
+\- 11 10 4
 2025       2024
 NOT 6-Anläggningstillgångar
 2025       2024
@@ -33439,7 +33439,7 @@ e
 n
 r
 k
-- 2
+\- 2
 3
 2 0 2
 1 4 6 7 3 1
@@ -33477,14 +33477,14 @@ k
 6
 8
 8
-- 2
+\- 2
 2 0 2 4
 1 4 6 2 8 6 8
 3 0 3 0 3 3 9
 4 4 9 3 2 0 8
 2 0 2 4
 6 6 8 0 3 5
-- 2 0 2 2 4 4
+\- 2 0 2 2 4 4
 -2 4 6 5 7 9 1
 2 0 2 4
 -1 6 6 6 4 4 7
@@ -33501,7 +33501,7 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 
 <!-- sida 746 -->
 
-7. Styrelsens underskrift
+7\. Styrelsens underskrift
 Innehållet i årsredovisningen bestämdes 2025-03-XX.
 
 Vi intygar att årsredovisningen ger en rättvisande bild av verksamhetens resultat samt
@@ -33529,7 +33529,7 @@ Ledamot                    Ledamot
 Filip Zackrisson
 Ledamot
 
-8. Revisorernas underskrift
+8\. Revisorernas underskrift
 
 ……………………………                ………………………………..
 
@@ -34267,9 +34267,9 @@ INNEHÅLL
 
 8 1 INLEDNING
 
-$2 BAKGRUND
+\$2 BAKGRUND
 
-$3 AVTALETS OMFATTNING
+\$3 AVTALETS OMFATTNING
 84 ÄGANDE OCH RÄTTIGHETER
 85 KOSTNADER
 
@@ -34277,19 +34277,19 @@ $3 AVTALETS OMFATTNING
 
 87 BYGGNATION
 
-$8 GENOMFÖRANDETIDPLAN
-$9 DOKUMENTATION
+\$8 GENOMFÖRANDETIDPLAN
+\$9 DOKUMENTATION
 
 810 =. PROJEKTORGANISATION
 811 - SAMORDNINGSANSVAR
-$12 -. SEKRETESS
+\$12 -. SEKRETESS
 
 813 -. FORCE MAJEURE
 
 814 - AVTALETS GILTIGHET
 
 815 - ÄNDRINGAR OCH TILLÄGG
-$16 «TVIST
+\$16 «TVIST
 
 817 -. KONTRAKTSVÄXLING
 
@@ -34346,7 +34346,7 @@ För att Beställaren ska få åtkomst till marken där Ledningarna går idag m�
 förlägga markkabel i nya sträckningar, genomföra ställverksåtgärder i Kolla station,
 säkerställa rättigheter och markåtkomst för dessa samt efter inkoppling av nya
 ledningar rasera delar av befintliga ledningar. Se Bilaga 2 Översiktskarta ledningsflytt
-+ raseringskarta.
+\+ raseringskarta.
 
 I samband med ledningsarbetet önskar Ellevio framtidssäkra elnätet genom att göra
 en uppdimensionering av ledningarna.
@@ -34444,7 +34444,7 @@ Genomförandeavtal Ledningsflytt Sid 5 (10)
 
 34
 
-$4.1
+\$4.1
 
 84.2
 
@@ -34569,7 +34569,7 @@ Genomförandeavtal Ledningsflytt Sid 7 (10)
 
 87.3
 
-$8
+\$8
 
 89
 
@@ -34579,7 +34579,7 @@ $8
 
 & 10.2
 
-$10.3
+\$10.3
 
 BYGGNATION
 
@@ -34607,7 +34607,7 @@ GENOMFÖRANDETIDPLAN
 
 De nybyggda ledningarna beräknas preliminärt vara i drift Q2 2029 — Q3 2029 och
 projektet i sin helhet avslutas Q4 2029. Upphandling planeras att genomföras Q3
-2026. Detaljerad tidplan tas fram i samband med upphandling av entreprenaden
+2026\. Detaljerad tidplan tas fram i samband med upphandling av entreprenaden
 
 samt anpassas efter Ellevios avbrottsmöjligheter på berörda ledningar.
 
@@ -34709,7 +34709,7 @@ obestånd.
 I enlighet med 83.5 efter genomförd upphandling.
 
 Skulle Beställaren frånträda Genomförandeavtal Ledningsflytt ska Beställaren ersätta
-Ellevio i enlighet med kostnadsfördelning i $ 5.2 för samtliga kostnader som Ellevio
+Ellevio i enlighet med kostnadsfördelning i \$ 5.2 för samtliga kostnader som Ellevio
 åsamkats med anledning av frånträdandet/annulleringen.
 
 För det fall Beställaren säger upp Genomförandeavtal Ledningsflytt, eller önskar att
@@ -35205,7 +35205,7 @@ Kungsbacka kommun
 SP
 Elsäkerhetsverket J
 O
-- ; I
+\- ; I
 Försvarets Radioanstalt Oo
 AA
 .” N
@@ -35331,7 +35331,7 @@ enligt 51 8 (2 kap. 52 8).
 möjligt. En byggnad får uppföras eller en väg byggas endast om markens ägare
 och den som har nyttjanderätt eller servitut avseende marken samtyckt till det eller
 
-nätmyndigheten lämnat tillstånd till åtgärden (2 kap. 55 $ andra stycket).
+nätmyndigheten lämnat tillstånd till åtgärden (2 kap. 55 \$ andra stycket).
 
 Om återställningsåtgärder som avses i 51 eller 53 8 orsakar skada eller intrång, ska
 
@@ -35654,7 +35654,7 @@ s_0
 .1
 2
 v -
--
+\-
 Nätkoncessionerna förenas med följande villkor.
 451
 i
@@ -36370,14 +36370,14 @@ I kommunallagen finns bestämmelser om överlämnad kommunal verksamhet. Kommuna
 
 kan överlämnas till en stiftelse. En stiftelse som bildats ensam av kommunen omfattas av ett antal
 regler i kommunallagen.1 De regler som är relevanta i det här fallet är att fullmäktige ska
-1. Fastställa det kommunala ändamålet med verksamheten.
-2. Se till att det fastställda kommunala ändamålet och de kommunala befogenheterna som utgör ram
+1\. Fastställa det kommunala ändamålet med verksamheten.
+2\. Se till att det fastställda kommunala ändamålet och de kommunala befogenheterna som utgör ram
 för verksamheten anges i stiftelseurkunden.
-3. Utse samtliga styrelseledamöter.
-4. Se till att det anges i stiftelseurkunden att fullmäktige får ta ställning till sådana beslut i
+3\. Utse samtliga styrelseledamöter.
+4\. Se till att det anges i stiftelseurkunden att fullmäktige får ta ställning till sådana beslut i
 
 verksamheten som är av principiell beskaffenhet eller annars av större vikt innan de fattas.
-5. Utse minst en av de kommunala revisorerna som revisor för stiftelsen.
+5\. Utse minst en av de kommunala revisorerna som revisor för stiftelsen.
 När en stiftelse bildas gemensamt med någon annan ska bildarna i stället se till så att Stiftelsen i skälig
 omfattning blir bunden av motsvarande villkor.2
 
@@ -36937,7 +36937,7 @@ Kommunen och Stiftelsen kallas gemensamt Parterna
 
 A.   BAKGRUND  OCH FÖRUTSÄTTNINGAR
 
-1. Inledning
+1\. Inledning
 
 1.1  Stiftelsen bildades år 1987 av Kommunen och Västkuststiftelsen. Västkuststiftelsen
 har numera frånträtt och kommunen är ensam huvudman. Stiftelsen bildades innan
@@ -36955,7 +36955,7 @@ huvudman.
 
 B.   KOMMUNAL   STIFTELSE
 
-2. Klargörande och överenskommelse
+2\. Klargörande och överenskommelse
 
 2.1  Parterna är överens om att stiftelsen ska vara en kommunal stiftelse som utför
 överlämnad kommunal verksamhet för huvudmannens räkning enligt kommunallagen.
@@ -36965,9 +36965,9 @@ uppfylla kraven som numera ställs på överlämnad kommunal verksamhet.
 
 2.3  Kraven som ställs enligt kommunallagens 10 kapitel är att fullmäktige ska
 
-1. Fastställa det kommunala ändamålet med verksamheten,
+1\. Fastställa det kommunala ändamålet med verksamheten,
 
-2. Se till att det fastställda kommunala ändamålet och de kommunala
+2\. Se till att det fastställda kommunala ändamålet och de kommunala
 befogenheterna som utgör ram för verksamheten anges i stiftelseurkunden
 
 Sign.
@@ -36976,20 +36976,20 @@ Sign.
 
 2(3)
 
-3. Utse samtliga styrelseledamöter,
+3\. Utse samtliga styrelseledamöter,
 
-4. Se till att det anges i stiftelseurkunden att fullmäktige får ta ställning till sådana
+4\. Se till att det anges i stiftelseurkunden att fullmäktige får ta ställning till sådana
 beslut i verksamheten som är av principiell beskaffenhet eller annars av större
 vikt innan de fattas,
 
-5. Utse minst en av kommunens revisorer som revisor för stiftelsen,
+5\. Utse minst en av kommunens revisorer som revisor för stiftelsen,
 
 2.4  Parterna är överens om att villkoren i punkt 4 och 5 saknas och behöver kompletteras i
 stiftelsens stadgar. Parterna är också överens om att punkt 2, det kommunala
 ändamålet och de kommunala befogenheterna som utgör ram för verksamheten, kan
 behöva förtydligas.
 
-3. Ändring av stiftelsens stadgar
+3\. Ändring av stiftelsens stadgar
 
 3.1  Parterna är överens om att genomföra stadgeändringar som avser följande.
 
@@ -37009,7 +37009,7 @@ med eller direktiv till Stiftelsen.
 stiftelsen av revisorernas reglemente. Kommunen avser att ändra dessa i
 överensstämmelse med den kommande regleringen i stiftelsens stadgar.
 
-4.   Ramar för stiftelsens verksamhet
+4\.   Ramar för stiftelsens verksamhet
 
 4.1  I syfte att förtydliga det som framgår av stiftelsens stadgar gällande ramarna för
 verksamheten är parterna överens om följande.
@@ -37042,7 +37042,7 @@ som i 10 kap 3 § 2 punkten kommunallagen.
 
 C.   PLANERING  OCH UPPFÖLJNING
 
-5. Ekonomisk planering och uppföljning
+5\. Ekonomisk planering och uppföljning
 
 5.1  Parterna är överens om att verka för att genomföra stadgeändringar som innebär att
 Stiftelsen följer och deltar i kommunens planeringsprocess på samma sätt som
@@ -37056,7 +37056,7 @@ särskilt i sin ordinarie uppföljning.
 5.3  För det fall att stadgeändringarna inte kan genomföras förbinder sig stiftelsen att ändå
 följa kommunens planerings- och uppföljningsprocesser enligt ovan.
 
-_______________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i två likalydande exemplar varav parterna tagit ett vardera.
 
@@ -37123,23 +37123,23 @@ Phone: + 46 8 22 09 00, E-mail: info@hellstromlaw.com, www.hellstromlaw.com
 
 Index
 
-1.   UPPDRAG .............................................................................................................. 3
+1\.   UPPDRAG .............................................................................................................. 3
 
-2.   UTGÅNGSPUNKT FÖR ANALYSEN .................................................................... 3
+2\.   UTGÅNGSPUNKT FÖR ANALYSEN .................................................................... 3
 
-3.   KOMMUNAL ELLER FRISTÅENDE ...................................................................... 4
+3\.   KOMMUNAL ELLER FRISTÅENDE ...................................................................... 4
 3.1 Tillämpliga regler .................................................................................................... 4
 
 3.2 Bedömning ............................................................................................................. 5
 
 3.3 Möjlighet att styra klassificering ............................................................................. 7
 
-4.   FRÅGAN OM KOMMUNAL REVISION ................................................................. 7
+4\.   FRÅGAN OM KOMMUNAL REVISION ................................................................. 7
 4.1 Inledning ................................................................................................................. 7
 
 4.2 Kommunal granskning ........................................................................................... 7
 
-5.   ANNAN OFFENTLIGRÄTTSLIG LAGSTIFTNING ................................................ 9
+5\.   ANNAN OFFENTLIGRÄTTSLIG LAGSTIFTNING ................................................ 9
 5.1 Upphandling ........................................................................................................... 9
 
 5.2 Statsstöd .............................................................................................................. 11
@@ -37149,18 +37149,18 @@ Index
 5.4 Offentlighet och sekretess .................................................................................... 12
 5.5 Skatt ..................................................................................................................... 12
 
-6.   PRIVATRÄTTSLIG LAGSTIFTNING ................................................................... 13
+6\.   PRIVATRÄTTSLIG LAGSTIFTNING ................................................................... 13
 
 6.1 Skadeståndsskyldighet ........................................................................................ 13
-7.   SLUTSATSER ...................................................................................................... 14
+7\.   SLUTSATSER ...................................................................................................... 14
 
 2
 
 <!-- sida 827 -->
 
-1.  UPPDRAG
+1\.  UPPDRAG
 
-1.  Hellström Advokatbyrå KB (”vi/vår”) har fått i uppdrag av Kungsbacka
+1\.  Hellström Advokatbyrå KB (”vi/vår”) har fått i uppdrag av Kungsbacka
 kommun (”Kommunen”) att utreda huruvida stiftelsen Tjolöholm
 
 (”Stiftelsen”) ska klassificeras som kommunal eller fristående, jämte vilka
@@ -37171,7 +37171,7 @@ revision, liksom i fråga om huruvida klassificeringen kan få betydelse för
 
 annan offentligrättslig eller privaträttslig lagstiftning.
 
-2.  Vi har lagt de omständigheter som framgår av Kommunens promemorior
+2\.  Vi har lagt de omständigheter som framgår av Kommunens promemorior
 
 ”Rättsutredning revision av Tjolöholm” jämte ” Underlag för fortsatt
 utredning, Stiftelsen Tjolöholm” till grund för utredningen. I uppdraget ingår
@@ -37179,21 +37179,21 @@ utredning, Stiftelsen Tjolöholm” till grund för utredningen. I uppdraget ing
 
 sistnämnda promemoria.
 
-2.  UTGÅNGSPUNKT  FÖR ANALYSEN
+2\.  UTGÅNGSPUNKT  FÖR ANALYSEN
 
-3.  Den aktuella frågeställningen är till sin natur komplex och ligger i
+3\.  Den aktuella frågeställningen är till sin natur komplex och ligger i
 
 gränslandet mellan kommunal och privat rätt. Vid analysen är det härvid
 av särskild vikt att hålla isär vem de olika lagstiftningarna riktar sig mot.
 
-4.  Kommunallagen reglerar vad kommuner ska göra och får göra. Enligt
+4\.  Kommunallagen reglerar vad kommuner ska göra och får göra. Enligt
 
 reglerna i kommunallagen får kommuner härvid i viss utsträckning
 överlämna kommunal verksamhet till vissa privaträttsliga subjekt,
 
 däribland stiftelser.
 
-5.  Sådana privaträttsliga subjekt regleras emellertid inte i sig av
+5\.  Sådana privaträttsliga subjekt regleras emellertid inte i sig av
 
 kommunallagen, även om de tilldelats uppgiften att genomföra viss
 kommunal verksamhet,1 utan av tillämplig privaträttslig lagstiftning. I och
@@ -37212,27 +37212,27 @@ Lundin och Madell, Kommunala befogenheter, Juno, 2022, s. 161.
 tillse att det privaträttsliga subjektet ändå agerar i linje med de
 kommunalrättsliga ramarna.2
 
-6.  Om de privaträttsliga subjekten likväl inte agerar i linje med de
+6\.  Om de privaträttsliga subjekten likväl inte agerar i linje med de
 
 kommunalrättsliga ramarna kan ett sådant beslut inte i sig bli föremål för
 kommunalrättslig laglighetsprövning, Däremot åligger det då kommunen
 
 att angripa genom de privaträttsliga medel som står till buds.
 
-3.  KOMMUNAL  ELLER FRISTÅENDE
+3\.  KOMMUNAL  ELLER FRISTÅENDE
 
 3.1 Tillämpliga regler
 
-7.  Stiftelsen bildades 1987 av Kommunen tillsammans med
+7\.  Stiftelsen bildades 1987 av Kommunen tillsammans med
 
 Västkuststiftelsen, i syfte att genomföra kommunala angelägenheter.
 
-8.  Frågan om rätten för kommun att överlämna skötseln av kommunala
+8\.  Frågan om rätten för kommun att överlämna skötseln av kommunala
 
 angelägenheter till privaträttsliga subjekt regleras numera i 10 kap.
 kommunallagen.
 
-9.  I fråga om stiftelser som bildats av kommun tillsammans med annan för en
+9\.  I fråga om stiftelser som bildats av kommun tillsammans med annan för en
 kommunal angelägenhet regleras detta i 10 kap. 6 § andra stycket, vilken i
 sin tur hänvisar till 4 §. Av detta framgår att det åligger kommunfullmäktige
 
@@ -37241,7 +37241,7 @@ villkor som anges i 3 §, i sådan omfattning som är rimlig med hänsyn till
 
 andelsförhållandena, verksamhetens art och omständigheterna i övrigt.
 
-10. Övergångsbestämmelser som reglerar hur stiftelser som bildats innan
+10\. Övergångsbestämmelser som reglerar hur stiftelser som bildats innan
 
 kommunallagens ikraftträdande ska behandlas saknas. Anledningen
 härför är dock att lagstiftaren avsett att kommunallagens ikraftträdande
@@ -37249,7 +37249,7 @@ härför är dock att lagstiftaren avsett att kommunallagens ikraftträdande
 inte skulle påverka rättsförhållanden som fortlöpt sedan 1991 års
 kommunallag.3
 
-11. I 1991 års kommunallag intogs övergångsbestämmelser, enligt vilka
+11\. I 1991 års kommunallag intogs övergångsbestämmelser, enligt vilka
 
 dåvarande regler om överlämnande av kommunala angelägenheter till
 privaträttsliga subjekt, fr.o.m. 1 januari 1993 (dvs. ett år efter lagens
@@ -37273,7 +37273,7 @@ genom ändringar i bolagsordning och ingående av avtal med företagen
 
 skulle hinna uppfylla reglerna.5
 
-12. Från lagstiftaren sida har man således avsett att reglerna skulle träffa inte
+12\. Från lagstiftaren sida har man således avsett att reglerna skulle träffa inte
 
 endast ögonblicket då beslut fattas om att föra över kommunal
 verksamhet till privaträttsligt subjekt – såsom ordalydelsen i lagtexten
@@ -37284,17 +37284,17 @@ angripas kommunalrättsligt). I annat fall hade ju övergångsbestämmelser
 
 inte behövts.6
 
-13. Slutsatsen som härvid kan dras är att Stiftelsen omfattas av reglerna i
+13\. Slutsatsen som härvid kan dras är att Stiftelsen omfattas av reglerna i
 
 10 kap. i nuvarande kommunallag i och för sig.7
 
 3.2 Bedömning
 
-14. Nästa fråga blir då i vilken mån Stiftelsen uppfyller reglerna i 10 kap.,
+14\. Nästa fråga blir då i vilken mån Stiftelsen uppfyller reglerna i 10 kap.,
 särskilt huruvida Stiftelsen uppfyller villkoren i 3 §, vilket mot denna
 bakgrund bör vara ett krav för att Stiftelsen ska anses vara kommunal.
 
-15. I promemorian ” Underlag för fortsatt utredning, Stiftelsen Tjolöholm” har
+15\. I promemorian ” Underlag för fortsatt utredning, Stiftelsen Tjolöholm” har
 Kommunen pekat på att Stiftelsen inte uppfyller villkoren i 3 § p. 4 (som
 
 ger fullmäktige rätt att ta ställning i viktigare beslut) och p. 5 (som ger
@@ -37317,12 +37317,12 @@ tillämpat reglerna på samma sätt.
 vilken fullmäktige ska se till att det kommunala ändamålet och de
 kommunala befogenheterna utgör ram för verksamheten).
 
-16. Vi har ingen annan uppfattning än Kommunen i fråga om i vilken mån
+16\. Vi har ingen annan uppfattning än Kommunen i fråga om i vilken mån
 
 Stiftelsen uppfyller nämnda villkor. Härvid synes alltså i vart fall tre av
 villkoren i 3 § inte vara uppfyllda.8
 
-17. Vid prövningen enligt 3 tillsammans med 4 §§ ska en rimlighetsavvägning
+17\. Vid prövningen enligt 3 tillsammans med 4 §§ ska en rimlighetsavvägning
 göras. Kommunen behöver alltså inte nödvändigtvis binda det privat-
 
 rättsliga subjektet vid att fullt ut uppfylla villkoren i 3 §. I stället kan
@@ -37334,7 +37334,7 @@ vara uppfyllda.10 Däremot torde utrymme att helt bortse från
 
 bestämmelserna vara begränsat.
 
-18. I vårt fall noteras här följande. Enligt stadgarna i Stiftelsen har Kommunen
+18\. I vårt fall noteras här följande. Enligt stadgarna i Stiftelsen har Kommunen
 
 tillskjutit 8,5 miljoner kr medan Västkuststiftelsen tillskjutit 2 miljoner kr,
 vilket även avspeglas i att Kommunen har rätt att tillsätta styrelsen. Mot
@@ -37344,7 +37344,7 @@ rätt att välja lekmannarevisor liksom inte heller har rätt att ta ställning 
 
 viktigare beslut.
 
-19. Vår slutsats är därför att Stiftelsen inte uppfyller villkoren i 10 kap.
+19\. Vår slutsats är därför att Stiftelsen inte uppfyller villkoren i 10 kap.
 kommunallagen och därmed inte kan klassificeras som kommunal, liksom
 
 att detta inte läks genom en rimlighetsbedömning.
@@ -37365,17 +37365,17 @@ det alltjämt krävdes att kommunen fick i vart fall något inflytande i frågan
 
 3.3 Möjlighet att styra klassificering
 
-20. Frågan uppstår då om Kommunen har möjlighet att styra Stiftelsen åt det
+20\. Frågan uppstår då om Kommunen har möjlighet att styra Stiftelsen åt det
 ena eller andra hållet, dvs. att antingen klargöra att Stiftelsen inte är
 
 kommunal eller få den att bli kommunal.
 
-21. I den mån rättsligt och praktiskt möjligt kan detta uppnås genom ändring
+21\. I den mån rättsligt och praktiskt möjligt kan detta uppnås genom ändring
 
 av Stiftelsens stadgar, i fråga om ovan nämnda punkter i 10 kap. 3 §,
 vilket bör vara förstahandsvalet.
 
-22. Det kan emellertid noteras att 10 kap. 3 § visserligen uppställer villkor i
+22\. Det kan emellertid noteras att 10 kap. 3 § visserligen uppställer villkor i
 fråga om vad fullmäktige behöver bestämma, men inte anger någonting i
 fråga om hur sådant bestämmande ska utövas. Det bör alltså vara fullt
 
@@ -37384,29 +37384,29 @@ styrelsen i Stiftelsen vid att ge Kommunen sådant inflytande, alternativt
 
 begränsa inflytandet, som fordras enligt bestämmelsen.
 
-23. En möjlig väg framåt för Kommunen skulle härvid kunna vara att inleda
+23\. En möjlig väg framåt för Kommunen skulle härvid kunna vara att inleda
 
 med att ingå avtal med Stiftelsen och/eller lämna ägardirektiv, som styr
 Stiftelsen i någon riktning, och därefter påbörja processen att införa
 
 motsvarande stadgeändringar.
 
-4.  FRÅGAN OM KOMMUNAL  REVISION
+4\.  FRÅGAN OM KOMMUNAL  REVISION
 
 4.1 Inledning
 
-24. I och med att Stiftelsen får anses fristående från Kommunen omfattas den
+24\. I och med att Stiftelsen får anses fristående från Kommunen omfattas den
 
 inte av reglerna kring kommunal revision i kommunallagen.
 
-25. Även vid bortseende av detta förhållande är förhållandena i Stiftelsen
+25\. Även vid bortseende av detta förhållande är förhållandena i Stiftelsen
 
 sådana att kommunal revision inte hade varit aktuellt, enligt vad som följer
 nedan.
 
 4.2 Kommunal granskning
 
-26. Enligt 12 kap. 1 § kommunallagen ska kommunrevisorerna årligen i den
+26\. Enligt 12 kap. 1 § kommunallagen ska kommunrevisorerna årligen i den
 omfattning som följer av god redovisningssed granska all verksamhet som
 
 7
@@ -37419,7 +37419,7 @@ som utsetts i juridiska personer enligt 10 kap. 2–6 §§, även granska
 
 verksamheterna i de juridiska personerna.
 
-27. Fokus för den kommunala revisionen är härvid om stiftelsen sköts på ett
+27\. Fokus för den kommunala revisionen är härvid om stiftelsen sköts på ett
 
 ändamålsenligt och från ekonomisk synpunkt tillfredsställande sätt samt
 om den interna kontrollen är tillräcklig.13 I fråga om räkenskaperna och
@@ -37430,14 +37430,14 @@ auktoriserade revisorns granskning och åberopar denna i sin bedömning
 av om räkenskaperna är rättvisande och om årsredovisningen har
 upprättats enligt lag och god redovisningssed.14
 
-28. På detta sätt undviks dubbel granskning av räkenskaperna.15
+28\. På detta sätt undviks dubbel granskning av räkenskaperna.15
 
 Motsvarande skyldighet för revisorn i kommunal stiftelse att lämna ut
 upplysningar till kommunrevisor följer av 4 kap. 15 § fjärde stycket
 
 stiftelselagen (1994:1220).16
 
-29. Regeln att kommunrevisorerna ska genomföra revisionen i de juridiska
+29\. Regeln att kommunrevisorerna ska genomföra revisionen i de juridiska
 
 personerna genom de revisorer eller lekmannarevisorer som utsetts i
 dessa togs in första gången genom lagen (1999:621) om ändring i
@@ -37471,39 +37471,39 @@ revisorerna genom de revisorer som utsetts enligt 3 kap. 17 eller 18 §§ KL
 
 där sådan eller sådana revisorer utsetts.
 
-30. Reglerna om kommunal revision innebär alltså att kommunrevisor ska
+30\. Reglerna om kommunal revision innebär alltså att kommunrevisor ska
 granska sådana juridiska personer där revisor utsetts med stöd av
 
 reglerna i 10 kap. 2–6 §§ i nuvarande kommunallag.
 
-31. I fråga om stiftelser som kommun stiftat tillsammans med annan anges i
+31\. I fråga om stiftelser som kommun stiftat tillsammans med annan anges i
 
 10 kap. 6 § andra stycket att 4 § gäller, vilken i sin tur hänvisar till 3 §. I
 fråga om revisor anges här (p. 5) att fullmäktige ska utse minst en
 lekmannarevisor.
 
-32. I Stiftelsens stadgar saknas emellertid reglering av vem som utser
+32\. I Stiftelsens stadgar saknas emellertid reglering av vem som utser
 revisorer. Enligt 4 kap. 1 § stiftelselagen utses Stiftelsens revisor härvid av
 
 styrelsen.
 
-33. Stiftelsens revisor har alltså inte tillsatts i sådan ordning som föreskrivs i
+33\. Stiftelsens revisor har alltså inte tillsatts i sådan ordning som föreskrivs i
 
 10 kap. 2–6 §§ kommunallagen. Härvid blir regeln om kommunal revision i
 12 kap. 1 § inte tillämplig på Stiftelsen.
 
-34. Det förhållande att 12 kap. saknar övergångsbestämmelser förändrar inte
+34\. Det förhållande att 12 kap. saknar övergångsbestämmelser förändrar inte
 
 detta. Kapitlet blir i stället direkt gällande på aktuellt förhållande, även om
 Stiftelsen bildats före reglernas ikraftträdande, enligt allmänna
 
 förvaltningsrättsliga grundsatser.18
 
-5.  ANNAN OFFENTLIGRÄTTSLIG LAGSTIFTNING
+5\.  ANNAN OFFENTLIGRÄTTSLIG LAGSTIFTNING
 
 5.1 Upphandling
 
-35. Frågan huruvida en kommunal stiftelse omfattas av lagen (2016:1145) om
+35\. Frågan huruvida en kommunal stiftelse omfattas av lagen (2016:1145) om
 
 offentlig upphandling, LOU, avgörs av om stiftelsen utgör en
 upphandlande myndighet, enligt 1 kap. 2 § LOU. Med sådan
@@ -37517,45 +37517,45 @@ upphandlande myndighet, enligt 1 kap. 2 § LOU. Med sådan
 upphandlande myndighet avses här även bl.a. offentligt styrda organ,
 enligt 22 §.
 
-36. I 18 § definieras vad som menas med offentligt styrt organ. Med sådant
+36\. I 18 § definieras vad som menas med offentligt styrt organ. Med sådant
 
 avses juridisk person som tillgodoser behov i det allmännas intresse,
 under förutsättning att behovet inte är av industriell eller kommersiell
 
 karaktär, och
 
-1. som till största delen är finansierad av staten, en kommun, en region
+1\. som till största delen är finansierad av staten, en kommun, en region
 
 eller en upphandlande myndighet,
 
-2. vars verksamhet står under kontroll av staten, en kommun, en region
+2\. vars verksamhet står under kontroll av staten, en kommun, en region
 eller en upphandlande myndighet, eller
 
-3. i vars styrelse eller motsvarande ledningsorgan mer än halva antalet
+3\. i vars styrelse eller motsvarande ledningsorgan mer än halva antalet
 ledamöter är utsedda av staten, en kommun, en region eller en
 
 upphandlande myndighet.19
 
-37. Härvid får den kommunalrättsliga klassificeringen inte direkt betydelse för
+37\. Härvid får den kommunalrättsliga klassificeringen inte direkt betydelse för
 
 frågan huruvida Stiftelsen omfattas av LOU. Däremot kan klassificeringen
 få indirekt betydelse, så till vida att punkterna 2 och 3 ovan överlappar
 
 flera av villkoren i 10 kap. 3 § kommunallagen.
 
-38. Vad härefter gäller det s.k. Teckalundantaget i 3 kap. 12 § LOU, ska en
+38\. Vad härefter gäller det s.k. Teckalundantaget i 3 kap. 12 § LOU, ska en
 upphandling anses vara intern om
 
-1. den upphandlande myndigheten utövar kontroll över motparten
+1\. den upphandlande myndigheten utövar kontroll över motparten
 motsvarande den som myndigheten utövar över sin egen förvaltning,
 
-2. motparten utför mer än 80 procent av sin verksamhet, bestämt enligt
+2\. motparten utför mer än 80 procent av sin verksamhet, bestämt enligt
 16 §, för myndighetens räkning eller för andra sådana juridiska
 
 personer eller organ som avses i 11 § och som myndigheten utövar
 kontroll över, och
 
-3. det inte finns något direkt privat ägarintresse i motparten.
+3\. det inte finns något direkt privat ägarintresse i motparten.
 
 19 Se Konkurrensverkets beslut den 4 december 2025 med dnr 161/2025 för en god
 sammanfattning av rättsläget jämte bedömning avseende just Stiftelsens nuvarande
@@ -37565,13 +37565,13 @@ verksamhet.
 
 <!-- sida 835 -->
 
-39. Även här skiljer sig villkoren således från dem som gäller enligt 10 kap.
+39\. Även här skiljer sig villkoren således från dem som gäller enligt 10 kap.
 3 § kommunallagen, varvid den kommunalrättsliga bedömningen inte får
 direkt betydelse för frågan om Teckalundantaget.
 
 5.2 Statsstöd
 
-40. Från de kommunalrättsliga reglerna om likabehandling får man skilja
+40\. Från de kommunalrättsliga reglerna om likabehandling får man skilja
 
 statsstödsreglerna. Bedömningen av huruvida kommunalt bidrag till viss
 verksamhet ska anses utgöra statsstöd påverkas inte av finansiering eller
@@ -37579,21 +37579,21 @@ verksamhet ska anses utgöra statsstöd påverkas inte av finansiering eller
 ägarförhållanden, varför frågan huruvida Stiftelsen ska anses vara
 kommunal inte påverkar den statstödsrättsliga bedömningen.20
 
-41. Frågan i vilken utsträckning bidrag till kommunalt privaträttsligt subjekt
+41\. Frågan i vilken utsträckning bidrag till kommunalt privaträttsligt subjekt
 
 utgör statsstöd är komplex – utrymme saknas att närmare redogöra för
 frågan inom ramen för denna promemoria.
 
 5.3 Konkurrensrätt
 
-42. Reglerna i konkurrenslagen (2008:579), vilka måste skiljas från
+42\. Reglerna i konkurrenslagen (2008:579), vilka måste skiljas från
 
 kommunalrättsliga bedömningar om kommunala befogenheter (inklusive
 exempelvis likställighetsprincipen), är i princip opåverkade av
 
 klassificeringen enligt 10 kap. kommunallagen.
 
-43. I konkurrenslagen är den centrala avgränsningen i stället huruvida en
+43\. I konkurrenslagen är den centrala avgränsningen i stället huruvida en
 juridisk person utgör ett företag i lagens mening, vari menas att den
 
 juridiska personen driver verksamhet av ekonomisk eller kommersiell
@@ -37601,7 +37601,7 @@ natur,21 dock inte till den del verksamheten består i myndighetsutövning,
 
 enligt 1 kap. 5 § konkurrenslagen.
 
-44. En annan sak är att konkurrenslagen innehåller särskilda regler enligt vilka
+44\. En annan sak är att konkurrenslagen innehåller särskilda regler enligt vilka
 
 bl.a. kommuner får förbjudas att inom säljverksamhet tillämpa vissa
 förfaranden, enligt 3 kap. 27 §. Enligt 28 § omfattar detta även juridiska
@@ -37621,7 +37621,7 @@ kommunallagen.
 
 5.4 Offentlighet och sekretess
 
-45. Offentlighetsprincipen gäller för juridiska personer där kommun har ett
+45\. Offentlighetsprincipen gäller för juridiska personer där kommun har ett
 bestämmande inflytande. I fråga om stiftelser anges i 2 kap. 3 § första
 
 stycket offentlighets- och sekretesslagen (2009:400), OSL, att OSL är
@@ -37633,12 +37633,12 @@ sådant rättsligt bestämmande inflytande, såvitt nu är av intresse, förstå
 att kommun har rätt att utse eller avsätta mer än hälften av ledamöterna i
 styrelsen för en stiftelse.
 
-46. Prövningen huruvida en stiftelse omfattas av OSL eller inte följer alltså inte
+46\. Prövningen huruvida en stiftelse omfattas av OSL eller inte följer alltså inte
 
 den kommunalrättsliga prövningen huruvida en stiftelse kan anses vara
 kommunal eller inte.
 
-47. I den mån en kommunanknuten stiftelse inte omfattas av nämnda 2 kap.
+47\. I den mån en kommunanknuten stiftelse inte omfattas av nämnda 2 kap.
 3 § OSL följer dock av 10 kap. 6 § andra stycket kommunallagen, med
 
 hänvisning till 4 §, att fullmäktige likväl ska verka för att allmänheten får
@@ -37646,10 +37646,10 @@ rätt att ta del av handlingar i motsvarande mån.
 
 5.5 Skatt22
 
-48. Kommuner är helt undantagna från skatt, enligt 7 kap. 2 §
+48\. Kommuner är helt undantagna från skatt, enligt 7 kap. 2 §
 inkomstskattelagen (1999:1229).
 
-49. I fråga om stiftelser är dessa som utgångspunkt, med undantag för
+49\. I fråga om stiftelser är dessa som utgångspunkt, med undantag för
 inkomst från rörelse, exklusive kapitalvinster och kapitalförluster, befriade
 
 från skattskyldighet i den mån de uppfyller kraven på att bedriva och
@@ -37663,32 +37663,32 @@ skatterättsliga effekter bör specifik rådgivning inhämtas från skatterådgi
 
 <!-- sida 837 -->
 
-50. Härutöver har stiftelser som förvaltas av kommun, och vars syften varit att
+50\. Härutöver har stiftelser som förvaltas av kommun, och vars syften varit att
 tillgodose kommunala intressen, skattebefriats i praxis, enligt samma
 villkor som kommunen (s.k. förvaltarsmitta).
 
-51. I praxis finns även exempel där skattebefrielse beviljats där stiftelsen inte
+51\. I praxis finns även exempel där skattebefrielse beviljats där stiftelsen inte
 förvaltats av kommunen, men där kommunen haft dispositionsrätt över
 
 stiftelsens avkastning liksom haft rätt att utse styrelseledamöter och
 revisor.23
 
-52. Frågan var gränsen går för när stiftelse som inte förvaltas av kommun är
+52\. Frågan var gränsen går för när stiftelse som inte förvaltas av kommun är
 skattebefriad, liksom i vilken mån denna prövning följer den kommunal-
 
 rättsliga klassificeringen, är inte klarlagd utan kräver mer ingående
 utredning.
 
-6.  PRIVATRÄTTSLIG LAGSTIFTNING
+6\.  PRIVATRÄTTSLIG LAGSTIFTNING
 
 6.1 Skadeståndsskyldighet
 
-53. Enligt 3 kap. 2 § skadeståndslagen (1972:207) kan kommun bli
+53\. Enligt 3 kap. 2 § skadeståndslagen (1972:207) kan kommun bli
 skadeståndsskyldig för skada som vållats genom fel eller försummelse vid
 
 myndighetsutövning i verksamhet för vilken kommunen svarar.
 
-54. Kommunen ansvarar härvid även för sådan skada som orsakats av
+54\. Kommunen ansvarar härvid även för sådan skada som orsakats av
 privaträttsligt subjekt som tilldelats myndighetsutövning.24 Ansvaret
 
 omfattar då sannolikt även fall där medhjälpares handlingar inte i och för
@@ -37696,7 +37696,7 @@ sig utgör myndighetsutövning men framstår som ett naturligt led i denna
 
 verksamhet.25
 
-55. Frågan i vilken mån en kommun kan tvingas bära ansvar för skada som
+55\. Frågan i vilken mån en kommun kan tvingas bära ansvar för skada som
 
 orsakats av till kommunen anknuten stiftelse avgörs således inte av den
 kommunalrättsliga klassificeringen i sig, utan av huruvida kommunen
@@ -37712,13 +37712,13 @@ https://www4.skatteverket.se/rattsligvagledning/edition/2025.8/324054.html.
 
 <!-- sida 838 -->
 
-56. I fråga om inomobligatoriskt skadestånd torde kommun i regel inte kunna
+56\. I fråga om inomobligatoriskt skadestånd torde kommun i regel inte kunna
 bli ansvarig för skada som orsakats av stiftelse, oavsett kommunalrättslig
 klassificering.26
 
-7.  SLUTSATSER
+7\.  SLUTSATSER
 
-57. Vår bedömning är att Stiftelsen ur kommunalrättslig synpunkt får anses
+57\. Vår bedömning är att Stiftelsen ur kommunalrättslig synpunkt får anses
 vara fristående från Kommunen, även om Stiftelsen i delar bär kommunala
 
 inslag. I och med detta är Kommunen kommunalrättsligt förhindrad att
@@ -37727,14 +37727,14 @@ särbehandla Stiftelsen i förhållande till andra kommunmedlemmar – varje
 beslut i Kommunen i strid med detta kan härvid bli föremål för laglighets-
 prövning.27
 
-58. Härmed bör stiftelsen inte heller vara föremål för kommunal revision.
+58\. Härmed bör stiftelsen inte heller vara föremål för kommunal revision.
 
-59. Ändring av Stiftelsens klassificering som antingen kommunal eller
+59\. Ändring av Stiftelsens klassificering som antingen kommunal eller
 fristående bör dock kunna uppnås genom stadgeändring, eventuellt
 
 tillsammans med motsvarande avtal och/eller ägardirektiv.
 
-60. Den kommunalrättsliga klassificeringen av Stiftelsen påverkar emellertid
+60\. Den kommunalrättsliga klassificeringen av Stiftelsen påverkar emellertid
 
 inte i sig bedömningen enligt de andra offentligrättsliga eller privaträttsliga
 lagstiftningarna enligt ovan. Frågan huruvida Kommunen exempelvis
@@ -37746,7 +37746,7 @@ alltså analyseras noggrant utifrån var och en av lagstiftningarna, där
 brister i efterlevnad av dessa regler riskerar att medföra olika typer av
 sanktioner eller andra rättsföljder, utanför kommunallagens regler.
 
-_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 26 I svensk praxis finns endast ett fåtal exempel då ansvarsgenombrott accepterats, och
 då i regel under mycket specifika omständigheter. Härvid kan NJA 1947 s. 647 nämnas,
@@ -38164,18 +38164,18 @@ Väsentliga händelser under räkenskapsåret
 
 Förändringar i den verkställande ledningen.
 
-* Beslut om ny organisationsstruktur med ikraftträdande 1 januari 2026.
+\* Beslut om ny organisationsstruktur med ikraftträdande 1 januari 2026.
 
-* Genomförd övergång till nya system och strukturer för ekonomi- och lönehantering.
+\* Genomförd övergång till nya system och strukturer för ekonomi- och lönehantering.
 
-* Etablering av professionellt stöd för upphandling samt påbörjat arbete med struktur, mallar och
+\* Etablering av professionellt stöd för upphandling samt påbörjat arbete med struktur, mallar och
 systemstöd för inköp och upphandling.
-* Antagande av nya styrdokument i syfte att tydliggöra ansvar, roller och arbetssätt.
+\* Antagande av nya styrdokument i syfte att tydliggöra ansvar, roller och arbetssätt.
 
-* Genomförd juridisk utredning av stiftelsens förutsättningar och relation till kommunen samt
+\* Genomförd juridisk utredning av stiftelsens förutsättningar och relation till kommunen samt
 påbörjat arbete med att ta fram avtal för att reglera ansvar och samverkan.
 
-* Tjolöholms område fick formell status som naturreservat i samverkan med Länsstyrelsen.
+\* Tjolöholms område fick formell status som naturreservat i samverkan med Länsstyrelsen.
 
 Det arbete som genomförts under året har skapat förutsättningar för fortsatt stabil och ändamålsenlig
 verksamhet. Under den kommande perioden kommer verksamheten att bedrivas utifrån beslutad
@@ -38718,21 +38718,21 @@ Nämnden för Vård & Omsorg har utrett förutsättningarna för att införa val
 beslutar om införande.
 Nämndens utredning visar kortfattat att:
 
-- Det är juridiskt och praktiskt möjligt att införa ett valfrihetssystem enligt LOV.
-- Överkapacitet är en förutsättning för verklig valfrihet. Det innebär att antalet lägenheter totalt
+\- Det är juridiskt och praktiskt möjligt att införa ett valfrihetssystem enligt LOV.
+\- Överkapacitet är en förutsättning för verklig valfrihet. Det innebär att antalet lägenheter totalt
 behöver öka för att uppnå verklig valfrihet.
 
-- Genom möjligheten till val och omval kan omsorgstagarens ställning stärkas. För att kunna utöva
+\- Genom möjligheten till val och omval kan omsorgstagarens ställning stärkas. För att kunna utöva
 valmöjligheten och göra välinformerade val förutsätts bra och tillgänglig information om systemet,
 de olika utförarna och de olika boendenas kvalitet samt stöd i samband med utförarval.
 
-- Systemet ska säkerställa en jämlik konkurrens mellan offentliga och privata utförare.
-- Administration av systemet är nödvändig och medför kostnader samt kan komma att påverka
+\- Systemet ska säkerställa en jämlik konkurrens mellan offentliga och privata utförare.
+\- Administration av systemet är nödvändig och medför kostnader samt kan komma att påverka
 organisering.
 
-- Medarbetare påverkas genom potentiellt fler arbetsgivare, omställning av befintlig verksamhet
+\- Medarbetare påverkas genom potentiellt fler arbetsgivare, omställning av befintlig verksamhet
 samt potentiella svårigheter vid rekrytering till den egna verksamheten.
-- Parallell tillämpning av valfrihetssystem enligt LOV och driftentreprenad enligt LOU är möjlig,
+\- Parallell tillämpning av valfrihetssystem enligt LOV och driftentreprenad enligt LOU är möjlig,
 men riskerar att öka gränssnittsproblematik och overheadkostnader. Att befintligt
 
 <!-- sida 861 -->
@@ -38743,12 +38743,12 @@ KUNGSBACKA  KOMMUN
 driftentreprenadavtal inte är förberett för parallell tillämpning är en osäkerhetsfaktor som kan
 
 påverka möjligheterna till införande innan avtalsslut.
-- Kommunen har fortsatt ansvaret för att det finns boendeplatser, vilket innebär att en beredskap
+\- Kommunen har fortsatt ansvaret för att det finns boendeplatser, vilket innebär att en beredskap
 behöver upprätthållas för de fall där en utförare försätts i konkurs, missköter sitt uppdrag eller av
 någon anledning väljer att träda ur systemet. Kommunen behöver då tillse boende för
 omsorgstagare i behov av plats.
 
-- Utredningen visar vidare att privata utförares rådighet över fastigheter är en förutsättning för
+\- Utredningen visar vidare att privata utförares rådighet över fastigheter är en förutsättning för
 införande av ett valfrihetssystem. De kan annars inte tillhandahålla tjänsten vård- och
 omsorgsboende i sin helhet.
 
@@ -38830,9 +38830,9 @@ eller är ineffektiva kan tappa omsorgstagare.
 När kommunen samlar in data såsom kostnad per timme, kontinuitet, tidsanvändning och liknande
 kvalitetsmått går det att jämföra utförare. Det skapar i sin tur möjlighet att:
 
-- identifiera ineffektiva arbetssätt
-- justera ersättningsnivåer
-- ställa krav på förbättring.
+\- identifiera ineffektiva arbetssätt
+\- justera ersättningsnivåer
+\- ställa krav på förbättring.
 
 <!-- sida 863 -->
 
@@ -38935,9 +38935,9 @@ etablera sig, vilket i sin tur kräver rådighet över fastigheter. Eftersom så
 valfriheten beroende av nybyggnation, överlåtelse av fastigheter eller övertagande av hyresavtal.
 
 Eftersom marknadsintresse inte har utretts kvarstår osäkerhet kring:
-- hur många aktörer som kan komma att etablera sig
-- under vilka ekonomiska villkor som en etablering ska ske
-- var i kommunen intresse finns för etablering.
+\- hur många aktörer som kan komma att etablera sig
+\- under vilka ekonomiska villkor som en etablering ska ske
+\- var i kommunen intresse finns för etablering.
 
 Dessa aspekter påverkar möjligheten till att göra en korrekt analys av ett införande, särskilt vad gäller
 kapacitetsutveckling, ekonomiska konsekvenser och planeringsförutsättningar.
@@ -38971,12 +38971,12 @@ KUNGSBACKA  KOMMUN
 kommuners och regioners kostnader för dem. Utredningen omfattade alla verksamhetsområden och
 
 inte endast äldreomsorgen och upphandling enligt LOV, men visar i korthet att valfrihetssystem:
-- medför tydliga administrativa kostnader
+\- medför tydliga administrativa kostnader
 
-- kostnaderna är beroende av lokala förutsättningar, såsom hur väl marknaden fungerar
-- vissa kostnader (särskilt risk- och beredskapskostnader) är underskattade eller okända
+\- kostnaderna är beroende av lokala förutsättningar, såsom hur väl marknaden fungerar
+\- vissa kostnader (särskilt risk- och beredskapskostnader) är underskattade eller okända
 
-- det finns ett behov av bättre kunskap och styrning för att effektivisera systemet.
+\- det finns ett behov av bättre kunskap och styrning för att effektivisera systemet.
 Utredningen ger ingen entydig slutsats om huruvida LOV är billigare eller dyrare än konventionella
 system, men den visar att LOV medför tydliga administrativa kostnader. Hur stora dessa kostnader blir
 beror på lokala förutsättningar. Vissa kostnadsposter, särskilt sådana som rör risk och beredskap,
@@ -38992,10 +38992,10 @@ Många kommuner försöker därför formulera “systemkrav” eller “verksamh
 utförare i systemet, inklusive egenregin. Sådana krav ställs upp i syfte att undvika kritik om
 
 konkurrenssnedvridning och kan handla om:
-- kompetenskrav på personal
-- krav på ledningssystem för kvalitet
-- dokumentation och rapportering
-- tillgänglighet och kontinuitet
+\- kompetenskrav på personal
+\- krav på ledningssystem för kvalitet
+\- dokumentation och rapportering
+\- tillgänglighet och kontinuitet
 
 Kontroll och uppföljning kan, som förvaltningen för Vård & Omsorgs utredning också visar, göra
 
@@ -39531,7 +39531,7 @@ att delegera införandet till Nämnden för Vård och Omsorg.
 Utredningen
 Utredningen omfattar följande kapitel:
 
--    Bakgrund
+\-    Bakgrund
 
 1 (4)
 Förvaltningen för Vård & Omsorg                           Kungsbacka kommun
@@ -39547,14 +39547,14 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (4)
 
--    Nulägesbeskrivning
--    Valfrihetssystem enligt LOV
+\-    Nulägesbeskrivning
+\-    Valfrihetssystem enligt LOV
 
--    Rådighet över fastigheter och kapacitet
--    Finansiella hänsynstaganden
+\-    Rådighet över fastigheter och kapacitet
+\-    Finansiella hänsynstaganden
 
--    Erfarenhet av införandet i andra kommuner
--    Efter utredningen
+\-    Erfarenhet av införandet i andra kommuner
+\-    Efter utredningen
 
 Inom varje kapitel finns ytterligare delar som är relevanta för utredningen
 Sammanfattade slutsatser
@@ -39871,12 +39871,12 @@ insats som hen är beviljad. Den enskilde får inte bara välja i första läget
 också byta utförare när helst hen vill, och ersättningen till utföraren följer den enskildes
 val. Till skillnad från driftentreprenad, som har en strikt tvåpartsrelation mellan
 beställare och utförare, finns i LOV tre parter:
-1. Kommunen. Beviljar insats, godkänner utförare och följer upp och utvärderar
+1\. Kommunen. Beviljar insats, godkänner utförare och följer upp och utvärderar
 att utförare följer avtal.
 
-2. Den enskilde. Väljer utförare och byter utförare om hen inte längre är nöjd
+2\. Den enskilde. Väljer utförare och byter utförare om hen inte längre är nöjd
 utförare av någon anledning.
-3. Utföraren. Utför avtalade uppgifter.
+3\. Utföraren. Utför avtalade uppgifter.
 
 I ett valfrihetssystem enligt LOV så måste kommunen ange ett i förväg bestämt
 ”ickevals-alternativ”. Alternativet kan exempelvis utgöras av kommunens egen regi, en
@@ -40356,7 +40356,7 @@ Tabell 1. Befintligt bestånd av vård- och omsorgsboenden
 
 |  | Totalt<br>platser | Varav<br>demens | Varav<br>somatik | Driftform | Hyresavtal kan<br>tidigast avträdas | Detaljplan | Fastighetsägare |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bedagården | 27 | 27 | 0 | Egenregi | 2027-12-31* | Ej detaljplan | Privat |
+| Bedagården | 27 | 27 | 0 | Egenregi | 2027-12-31\* | Ej detaljplan | Privat |
 | Björkris | 1203 | 60 | 60 | Egenregi | 2047-11-30 | Detaljplan, Vård och<br>omsorgsboende (BD1) | Eksta |
 | Blåvinge | 62 | 30 | 32 | Egenregi | 2033-06-30 | Detaljplan, Äldreboende<br>(B6) | Eksta |
 | Ekhaga | 94 | 10 | 84 | Driftentreprenad<br>enligt LOU | 2028-04-30 | Detaljplan, Äldreboende<br>(D) | Eksta |
@@ -40364,22 +40364,22 @@ Tabell 1. Befintligt bestånd av vård- och omsorgsboenden
 | Löftagården | 41 | 21 | 20 | Egenregi | 2028-02-29 | Ej detaljplan | Eksta |
 | Måhaga | 58 | 32 | 26 | Egenregi | 2029-12-31 | Ej detaljplan | Eksta |
 | Sandlyckan | 60 | 40 | 20 | Egenregi | 2038-06-30 | Detaljplan, Äldreboende<br>(B, flerb )<br>3 | Privat |
-| Signeshus** | 97 |  |  | Egenregi | 2051-03-31 | Detaljplan,<br>Servicelägenheter (B )<br>2 | Eksta |
-| Smedjan (korttid<br>och växelvård) | 50 | x | x | Egenregi | 2027-09-30* | Detaljplan, Bostäder (B) | Privat |
+| Signeshus\*\* | 97 |  |  | Egenregi | 2051-03-31 | Detaljplan,<br>Servicelägenheter (B )<br>2 | Eksta |
+| Smedjan (korttid<br>och växelvård) | 50 | x | x | Egenregi | 2027-09-30\* | Detaljplan, Bostäder (B) | Privat |
 | Särö | 80 | 60 | 20 | Egenregi | 2045-10-31 | Detaljplan, Vård och<br>omsorgsboende (BD )<br>1 | Eksta |
 
 <!-- sida 897 -->
 
-* Villkorsändring av hyresavtal för Bedagården samt Smedjan pågår.
-** Signeshus har genomgått ombyggnation och beräknas tas i drift 2026.
-*** Uppgift om fördelning demens/somatik saknas för Signeshus
+\* Villkorsändring av hyresavtal för Bedagården samt Smedjan pågår.
+\*\* Signeshus har genomgått ombyggnation och beräknas tas i drift 2026.
+\*\*\* Uppgift om fördelning demens/somatik saknas för Signeshus
 
 [Tabell 897-1](handlingar.tabeller/897-1.csv)
 
 | Vickan4 | 40 | 20 | 10 | Driftentreprenad<br>enligt LOU | 2032-03-31 | Detaljplan, Bostäder (B )<br>3 | Eksta |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Åsa | 60 | 49 | 11 | Egenregi | 2030-08-31 | Detaljplan, Allmänt<br>ändamål (A) | Eksta |
-| Totalt*** | 860 | 373 | 330 |  |  |  |  |
+| Totalt\*\*\* | 860 | 373 | 330 |  |  |  |  |
 
 <!-- sida 898 -->
 
@@ -40649,10 +40649,10 @@ effekt på indikatorerna.
 
 Följande fyra indikatorer i KOLADA togs fram för de sju kommunerna i analysen:
 
-1. Brukarbedömning särskilt boende äldreomsorg - helhetssyn, andel (%)
-2. Kostnad ordinärt boende äldreomsorg övrigt, kr/inv 80+
-3. Kostnad särskilt/annat boende äldreomsorg, kr/brukare
-4. Väntetid i antal dagar från ansökningsdatum till första erbjudet
+1\. Brukarbedömning särskilt boende äldreomsorg - helhetssyn, andel (%)
+2\. Kostnad ordinärt boende äldreomsorg övrigt, kr/inv 80+
+3\. Kostnad särskilt/annat boende äldreomsorg, kr/brukare
+4\. Väntetid i antal dagar från ansökningsdatum till första erbjudet
 inflyttningsdatum till särskilt boende, medelvärde
 
 Därefter togs medelvärdet ovan indikatorer ovan fram för 2 år innan respektive 2 år
@@ -40662,16 +40662,16 @@ tidsperioder togs även medelvärdet fram för ALLA kommuner (dvs nationella sni
 som stöd i analys av respektive kommuns resultat.
 
 Resultat av sammanställning av statistik i KOLADA:
-1. För mätpunkt 1 så visar 5/7 (86%) på en förbättring på brukarbedömningen,
+1\. För mätpunkt 1 så visar 5/7 (86%) på en förbättring på brukarbedömningen,
 gällande helhetssyn.
-2. För mätpunkt 2 så visar att 5/7 (86%) på en förbättring genom minskade
+2\. För mätpunkt 2 så visar att 5/7 (86%) på en förbättring genom minskade
 kostnader per invånare över 80 år.
 
-3. För mätpunkt 3 så hade samtliga en försämring i form av ökad kostnad per
+3\. För mätpunkt 3 så hade samtliga en försämring i form av ökad kostnad per
 brukare. För samtliga sju kommuner visade även medelvärdet för ALLA
 kommuner en ökad kostnad för samma tidsperiod dvs de sju kommunerna
 följde den nationella trenden
-4. För mätpunkt 4 visade samtliga 7/7 (100%) en förbättring dvs att väntetiden
+4\. För mätpunkt 4 visade samtliga 7/7 (100%) en förbättring dvs att väntetiden
 minskade efter införande av LOV. Detta korrelerar med informationen som
 delgetts från kommunerna att de generellt gått från ett underskott till överskott
 av platser vilket påverkar väntetiden.
@@ -40742,7 +40742,7 @@ Vård & Omsorg att införa valfrihet inom vård- och omsorgsboende.
 
 Planen för införande av ett valfrihetssystem illustreras i ordningen21 nedan:
 
-1. Inrättande av ett valfrihetssystem
+1\. Inrättande av ett valfrihetssystem
 Beslut om att införa valfrihetssystem fattas politiskt. Kommunen annonserar därefter,
 löpande och uppdaterade underlag, på Hitta LOV-uppdrag samt eventuellt på egen
 
@@ -40751,7 +40751,7 @@ När beslut om inrättande av valfrihetssystem fattats politiskt behöver det s�
 att förvaltningsorganisationen är ändamålsenlig och har förutsättningar för att
 hantera, administrera och kvalitetssäkra valfrihetssystemet.
 
-2. Förfrågningsunderlaget
+2\. Förfrågningsunderlaget
 
 Förfrågningsunderlag arbetas fram som beskriver tjänsterna som ska utföras inom
 ramen för systemet samt samtliga krav och villkor för att bli godkänd som utförare.
@@ -40759,21 +40759,21 @@ Förfrågningsunderlaget ska innehålla information om avtals- och uppsägningst
 ersättning, administrativa och kommersiella villkor samt eventuella särskilda
 kontraktsvillkor.
 
-3. Ansökan om att delta
+3\. Ansökan om att delta
 Ansökningar får inkomma under hela avtalsperioden.
 
-4. Tilldelning av kontrakt
+4\. Tilldelning av kontrakt
 
 Samtliga utförare som uppfyller krav och villkor, och som inte utesluts med
 hänvisning till 7 kap. 1 § LOV, ska godkännas. Kommunen ska så snart som möjligt
 teckna kontrakt med utföraren som godkänts.
-5. Överprövning och skadestånd
+5\. Överprövning och skadestånd
 
 Privata utförare som nekats godkännande kan i förvaltningsdomstol ansöka om
 rättelse. Det går även att överklaga överträdelser av LOV. Skadestånd kan komma
 att aktualiseras om kommunen brutit mot reglerna.
 
-6. Omsorgstagares val av leverantör
+6\. Omsorgstagares val av leverantör
 
 Omsorgstagaren ska få information om samtliga utförare för att kunna utöva
 valmöjligheten och göra välinformerade val. Informationen ska vara saklig och
@@ -40781,7 +40781,7 @@ presenteras på ett jämförbart sätt. Omsorgstagaren ska också få informatio
 möjligheten till byte av utförare. Det ska också finnas ett ickevalsalternativ för de
 omsorgstagare som inte gör ett aktivt val.
 
-7. Avbrytande av valfrihetssystem
+7\. Avbrytande av valfrihetssystem
 Systemet kan avbrytas genom nytt politiskt beslut. Utförare ska då informeras.
 Ingångna avtal hanteras enligt civilrättsliga regler.
 
@@ -40823,7 +40823,7 @@ Sveriges kommuner och regioner (2009). Valfrihetssystem för nybörjare och andr
 nyfikna.
 
 Södertälje kommun (2018). Val av driftsform får vård- och omsorgsboende 2018-01-
-22.
+22\.
 Trelleborgs kommun (2020). Införande av LOV i särskilt boende inom äldrevården.
 
 Upphandlingsmyndigheten (2016). Ersättningsformer vid konkurrensutsättning av
@@ -41375,29 +41375,29 @@ Kungsbackaborna
 
 Exempel från andra kommuner
 
-- I Hagfors 2024 satte man upp ett mål på 12 025 m? bekämpad yta - invånarna nådde hela
+\- I Hagfors 2024 satte man upp ett mål på 12 025 m? bekämpad yta - invånarna nådde hela
 26 599 m?, alltså 221 946 av målet.
 
-- I Lilla Edet satsades 50 000 kr, varav 18 000 gick direkt till belöningar. Kommunen
+\- I Lilla Edet satsades 50 000 kr, varav 18 000 gick direkt till belöningar. Kommunen
 konstaterar att det var en billig och effektiv satsning som engagerade många fler än man
 kunnat göra med egna resurser.
 
 Fördelar för Kungsbacka
 
-- Arbetet kan göras på sommaren när kommunens personal har semester.
+\- Arbetet kan göras på sommaren när kommunens personal har semester.
 
-- Invånarna får vara med och förbättra sitt närområde.
+\- Invånarna får vara med och förbättra sitt närområde.
 
-- Ungdomar och föreningar får en rolig och meningsfull aktivitet.
+\- Ungdomar och föreningar får en rolig och meningsfull aktivitet.
 
-- Kommunens resurser frigörs till svårare arter som parkslide och jätteloka.
-- Media uppmärksammar det positiva - ett projekt som skapar engagemang,
+\- Kommunens resurser frigörs till svårare arter som parkslide och jätteloka.
+\- Media uppmärksammar det positiva - ett projekt som skapar engagemang,
 gemenskap och stolthet.
 
 Yrkande
 Med stöd av ovanstående yrkar partiet Kungsbackaborna:
 
-- Att Kungsbacka kommun utreder förutsättningarna för att införa Crowdsorsa eller
+\- Att Kungsbacka kommun utreder förutsättningarna för att införa Crowdsorsa eller
 
 liknande som ett komplement i arbetet mot invasiva arter och återkommer till
 fullmäktige med förslag till beslut.
@@ -41599,11 +41599,11 @@ Därutöver styr även nämndernas skolmatsbeställningar samt kommunfullmäktig
 Services tillämpliga mål inom området.
 
 Mål och beslut som berör området är bland annat:
-- Kommunfullmäktiges mål att matens klimatpåverkan från de offentliga måltiderna ska minska
+\- Kommunfullmäktiges mål att matens klimatpåverkan från de offentliga måltiderna ska minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030. I sitt arbete följer nämnden för
 Service bland annat upp nyckeltal rörande matsvinn per portion.
 
-- Nämnden för Förskola & Grundskola beslutade den 17 maj 2023 att ta bort helvegetariska dagar i
+\- Nämnden för Förskola & Grundskola beslutade den 17 maj 2023 att ta bort helvegetariska dagar i
 skolan och förskolan så att elever alltid ska kunna välja på minst en rätt med animaliskt protein,
 företrädelsevis fisk, fågel, kött eller skaldjur.
 
@@ -41943,7 +41943,7 @@ Diarienummer
 2025–00743
 
 Svar på motion - Mera grön och blå mat i Kungsbacka kommun (KS-2025-
-00809)
+00809\)
 
 Förslag till beslut i nämnden för Förskola och Grundskola
 

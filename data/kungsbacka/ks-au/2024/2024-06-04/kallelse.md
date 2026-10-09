@@ -86,7 +86,7 @@ KUNGSBACKA  KOMMUN
 
 4(5)
 
-11. Svar på motion från Stefan 2023-00621 Förslag till beslut i kommunfullmäktige
+11\. Svar på motion från Stefan 2023-00621 Förslag till beslut i kommunfullmäktige
 Jägnert (SD) om ID-kontroller   Kommunfullmäktige avslår motionen i den del som
 av anställda i Kungsbacka       avser att utreda möjligheten att införa kontinuerliga
 kommun                          bakgrundskontroller under anställningstiden för

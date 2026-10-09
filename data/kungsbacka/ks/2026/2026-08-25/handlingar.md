@@ -818,18 +818,18 @@ enligt LSS. Utöver det har Socialstyrelsen sett ett behov av en tydligare och m
 enhetlig reglering.
 
 Förslagen innebär i korthet:
--  tydligare krav på kvalitet, ledningssystem och systematiskt kvalitetsarbete,
+\-  tydligare krav på kvalitet, ledningssystem och systematiskt kvalitetsarbete,
 
--  skärpta kompetenskrav för personal och föreståndare,
--  förtydligade krav på bemanning och uppföljning,
+\-  skärpta kompetenskrav för personal och föreståndare,
+\-  förtydligade krav på bemanning och uppföljning,
 
--  stärkt fokus på den enskildes delaktighet, självbestämmande och
+\-  stärkt fokus på den enskildes delaktighet, självbestämmande och
 kommunikativa stöd,
--  tydligare krav på trygg och säker omvårdnad,
+\-  tydligare krav på trygg och säker omvårdnad,
 
--  tydligare regler om bostädernas utformning och förebyggande arbete mot
+\-  tydligare regler om bostädernas utformning och förebyggande arbete mot
 olycksrisker,
--  åtgärder för att motverka tvångs- och begränsningsåtgärder och
+\-  åtgärder för att motverka tvångs- och begränsningsåtgärder och
 
 institutionsliknande miljöer.
 
@@ -2091,12 +2091,12 @@ Socialstyrelsen föreslår följande allmänna råd till 3 kap. 1 §:
 
 Bostaden bör utformas så att
 
-- de personer som bor i bostaden kan påkalla personalens
+\- de personer som bor i bostaden kan påkalla personalens
 uppmärksamhet på ett enkelt sätt,
-- alla utrymmen i bostaden är tillgängliga och kan användas utan
+\- alla utrymmen i bostaden är tillgängliga och kan användas utan
 svårigheter för den som är beroende av förflyttningshjälpmedel,
 och
-- den stimulerar till aktiviteter och rekreation.
+\- den stimulerar till aktiviteter och rekreation.
 
 Socialstyrelsen föreslår följande allmänna råd till 5 § LSS:
 För att undvika en institutionsliknande miljö bör bostaden
@@ -2218,12 +2218,12 @@ Gemensamhetslokaler i bostaden
 
 Bostadens gemensamhetslokaler bör
 
-- ligga i anslutning till de enskilda lägenheterna,
-- vara lätta att nå och alltid vara tillgängliga för de personer som bor
+\- ligga i anslutning till de enskilda lägenheterna,
+\- vara lätta att nå och alltid vara tillgängliga för de personer som bor
 i bostaden,
 
-- vara till för de som bor i bostaden,
-- vara tillräckligt stora för att de personer som bor i bostaden och
+\- vara till för de som bor i bostaden,
+\- vara tillräckligt stora för att de personer som bor i bostaden och
 tjänstgörande personal ska kunna vistas där samtidigt.
 
 Sammansättningen          i gruppbostaden
@@ -2431,13 +2431,13 @@ inflytande och medbestämmande över insatser som ges finns i 6 § LSS.
 Socialstyrelsen föreslår följande bestämmelse i 4 kap. 3 §:
 Den som förestår verksamheten ska se till att varje person
 
-1. får individanpassat kommunikativt och kognitivt stöd,
+1\. får individanpassat kommunikativt och kognitivt stöd,
 
-2. får information om genomförandet av insatsen,
+2\. får information om genomförandet av insatsen,
 
-3. uppmuntras att framföra sina åsikter, och
+3\. uppmuntras att framföra sina åsikter, och
 
-4. uppmuntras att utöva sitt inflytande och medbestämmande.
+4\. uppmuntras att utöva sitt inflytande och medbestämmande.
 
 Omvårdnadens        innehåll
 
@@ -2704,15 +2704,15 @@ följande lydelse:
 För den enskilde som behöver det, ska omvårdnaden omfatta stöd och hjälp
 med att
 
-1. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
-2. äta, dricka och förflytta sig,
+1\. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
+2\. äta, dricka och förflytta sig,
 
-3. sköta personlig hygien och klä sig,
-4. kommunicera,
-5. sköta hemmet, tillreda måltider, göra ärenden och inköp,
+3\. sköta personlig hygien och klä sig,
+4\. kommunicera,
+5\. sköta hemmet, tillreda måltider, göra ärenden och inköp,
 
-6. upprätthålla sociala kontakter och bryta isolering,
-7. få kontakt med och hjälp att besöka hälso- och sjukvården och
+6\. upprätthålla sociala kontakter och bryta isolering,
+7\. få kontakt med och hjälp att besöka hälso- och sjukvården och
 tandvården,
 
 41 Se prop.1992/93:159 s. 92.
@@ -2720,7 +2720,7 @@ tandvården,
 
 <!-- sida 55 -->
 
-8. bibehålla hälsa och att uppmuntra till hälsofrämjande levnadsvanor
+8\. bibehålla hälsa och att uppmuntra till hälsofrämjande levnadsvanor
 med utgångspunkt från den enskildes rätt till självbestämmande.
 
 Om det finns en misstanke om att den enskilde har blivit utsatt för brott som
@@ -2921,10 +2921,10 @@ Socialstyrelsen föreslår en reviderad bestämmelse i föreslagna
 Omvårdnaden ska kontinuerligt anpassas så att den svarar mot varje enskilds
 behov och aktuella situation och ges
 
-1. med respekt för den enskildes fysiska och psykiska integritet,
+1\. med respekt för den enskildes fysiska och psykiska integritet,
 
-2. så att den enskilde kan behålla och utveckla sina förmågor,
-3. bidra till att den enskildes självkänsla och tilltro till den egna
+2\. så att den enskilde kan behålla och utveckla sina förmågor,
+3\. bidra till att den enskildes självkänsla och tilltro till den egna
 förmågan stärks och så att den enskilde kan känna sig trygg.
 
 45 Se prop. 1992/93:159 s. 50.
@@ -3216,13 +3216,13 @@ I förslagets 5 kap. 2 § anges:
 I en bostad med särskild service för vuxna enligt 9 § 9 LSS ska personalen
 ha kunskaper om
 
-1. verksamhetens mål och arbetssätt,
-2. konsekvenserna av de funktionsnedsättningar som de personer som
+1\. verksamhetens mål och arbetssätt,
+2\. konsekvenserna av de funktionsnedsättningar som de personer som
 bor i bostaden har,
 
-3. de enskildas fysiska, psykiska och sociala behov,
-4. etiskt förhållningssätt och respektfullt bemötande, och
-5. hur utmanande beteende kan förebyggas.
+3\. de enskildas fysiska, psykiska och sociala behov,
+4\. etiskt förhållningssätt och respektfullt bemötande, och
+5\. hur utmanande beteende kan förebyggas.
 
 Allmänt   om   den   som   förestår
 
@@ -3434,10 +3434,10 @@ Den som förestår verksamheten i en gruppbostad ska ha den sammantagna
 kompetens som behövs för att kunna leda, utveckla och följa upp
 verksamheten. Den som förestår verksamheten ska även ha
 
-1. en högskoleutbildning som är relevant för verksamheten,
-2. erfarenhet av liknande verksamhet eller arbete med målgruppen, och
+1\. en högskoleutbildning som är relevant för verksamheten,
+2\. erfarenhet av liknande verksamhet eller arbete med målgruppen, och
 
-3. personlig lämplighet.
+3\. personlig lämplighet.
 
 Till bestämmelsen föreslås allmänna råd:
 Högskoleutbildningen bör omfatta minst 180 högskolepoäng.
@@ -4046,8 +4046,8 @@ I förslagets 5 kap. 11 § anges:
 Den som bedriver verksamheten ska säkerställa att det finns tillräckligt med
 personal för att tillgodose varje enskilds behov av
 
-1. omvårdnad, trygghet och säkerhet dygnet runt, och
-2. fritids- och kulturaktiviteter.
+1\. omvårdnad, trygghet och säkerhet dygnet runt, och
+2\. fritids- och kulturaktiviteter.
 
 Uppföljning
 
@@ -4077,11 +4077,11 @@ En ny upplysningsbestämmelse i 6 kap. 1 §:
 I 15 § 11 LSS finns bestämmelser om att det till kommunens uppgifter hör
 att anmäla till Inspektionen för vård och omsorg om det
 
-1. finns anledning att anta att en verksamhet bedrivs utan sådant tillstånd
+1\. finns anledning att anta att en verksamhet bedrivs utan sådant tillstånd
 
 som krävs enligt 23 § första stycket LSS,
-2. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS, eller
-3. uppmärksammas allvarliga brister i en verksamhet där tillstånd krävs
+2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS, eller
+3\. uppmärksammas allvarliga brister i en verksamhet där tillstånd krävs
 
 enligt 23 § första stycket LSS.
 
@@ -4173,10 +4173,10 @@ När den nämnd som har beslutat om insatsen följer upp att den som får
 insatsen tillförsäkras goda levnadsvillkor, ska uppföljningen alltid omfatta
 hur den enskilde får
 
-1. kontakt med och hjälp att besöka den hälso- och sjukvård och tandvård
+1\. kontakt med och hjälp att besöka den hälso- och sjukvård och tandvård
 som den enskilde behöver, och
 
-2. utöva inflytande och självbestämmande.
+2\. utöva inflytande och självbestämmande.
 
 Socialstyrelsen föreslår allmänna råd till bestämmelsen:
 
@@ -4278,10 +4278,10 @@ vuxna efter driftsform
 Offentlig   Privat   Total  Genomsnittligt
 antal personer
 per
-verksamhet*
+verksamhet\*
 9 § 9 LSS     4 325       774      5 099  6
 
-Källa: IVO omsorgregister, 2024.* Socialstyrelsens egna beräkningar.
+Källa: IVO omsorgregister, 2024.\* Socialstyrelsens egna beräkningar.
 
 Antal enskilda i bostad med  särskild service
 
@@ -4364,17 +4364,17 @@ och utbildningsnivå. För att kunna uppskatta hur många anställda som kan
 komma att beröras av det nya kompetenskravet har därför följande
 
 antaganden gjorts för att uppskatta antal anställda som berörs.
-1. Enligt uppgifter i Socialstyrelsens öppna jämförelser 2025 uppgick
+1\. Enligt uppgifter i Socialstyrelsens öppna jämförelser 2025 uppgick
 
 antalet månadsanställda till 32 113 personer inkluderat visstids- och
 tillsvidareanställda i de verksamheter som besvarade enkäten.82 I
 beräkningarna har man justerat för en svarsfrekvens på 100 procent
 vilket motsvarar 43 170 månadsavlönade.
-2. Enligt uppgifter från SKR är cirka 21 procent av stödassistenter och
+2\. Enligt uppgifter från SKR är cirka 21 procent av stödassistenter och
 stödpedagoger timanställda. Justerat för timanställda uppskattas det
 
 totala antalet anställda till 54 646.
-3. Av dessa antas mellan 13 och 20 procent redan ha en eftergymnasial
+3\. Av dessa antas mellan 13 och 20 procent redan ha en eftergymnasial
 utbildning motsvarande kompetenskravet, vilket har tagits bort från
 beräkningen.
 
@@ -4404,13 +4404,13 @@ utbildningskravet, 9 § 9 LSS
 Typ av     Antal Antal utan Andel Andel    Antal  Antal
 personal   anställ efter- med     timavlönade anställ anställda per
 da    gymnasial minst           da per person
-totalt* utbildning efter-       verksam
-*        gymnasial        het*
+totalt\* utbildning efter-       verksam
+\*        gymnasial        het\*
 utbildning
 9 § 9 LSS  54 646 43 700 – 13 – 20% 21%    11     2
 47 700
 Källa: Enhetsundersökningen LSS 2025 och rapporten personal i välfärd, SKR (2024). Anm.:
-*Socialstyrelsens egna uppskattningar.
+\*Socialstyrelsens egna uppskattningar.
 I tabell 4 redovisas en uppskattning av hur många anställda som kan komma
 att påverkas av det föreslagna utbildningskravet. Uppskattningen bygger på
 två antaganden när det gäller andelen som redan idag har en eftergymnasial
@@ -4435,15 +4435,15 @@ med högre anställda
 behöver
 utbildning utan högre
 utbildas för
-idag*, totalt utbildning
+idag\*, totalt utbildning
 att uppfylla
-idag*, totalt
+idag\*, totalt
 kravet
 A) 13% redan 6 885   47 760    6 776
 utbildade idag
 B) 20% redan 10 929  43 717    2 732
 utbildade idag
-Socialstyrelsens egna beräkningar. Anm.: * I denna grupp ingår både månadsavlönade samt timanställda.
+Socialstyrelsens egna beräkningar. Anm.: \* I denna grupp ingår både månadsavlönade samt timanställda.
 I dagsläget uppskattas att mellan 6 885 – 10 929 anställda över hela landet
 redan har en eftergymnasial utbildning. Resultatet visar att ett krav om att
 25 procent ska ha en eftergymnasial utbildning innebär att ytterligare ca.
@@ -4572,7 +4572,7 @@ A) 7 650
 Minst 25%          583     19 598      1,4%
 har efter-
 gymnasial B) 2 732 235     7 902       0,6%
-utbildning*
+utbildning\*
 Källa: Socialstyrelsens egna beräkningar Anm.: A utgår från data i enhetsundersökningen, Öppna jämförelser
 – enhetsundersökningen inom LSS, Socialstyrelsen (2025) och B utgår från data i Kompetens i LSS-boenden
 Socialstyrelsen (2021).
@@ -5471,9 +5471,9 @@ föreslås följande allmänna råd:
 
 För att undvika en institutionsliknande miljö bör bostaden
 
-- inrymmas i ett bostadshus i ett område avsett för bostäder,
-- utformas och utrustas så hemlikt som möjligt, och
-- lokaliseras utan nära anslutning till andra boendeformer eller
+\- inrymmas i ett bostadshus i ett område avsett för bostäder,
+\- utformas och utrustas så hemlikt som möjligt, och
+\- lokaliseras utan nära anslutning till andra boendeformer eller
 verksamheter som bedrivs med stöd av LSS eller socialtjänstlagen
 (2025:400). Sådana verksamheter kan till exempel vara
 korttidsvistelse, bostad med särskild service för vuxna, daglig
@@ -5690,18 +5690,18 @@ Följande bestämmelse finns i förslagets 4 kap. 5 §:
 För det barn eller den ungdom som behöver det, ska omvårdnaden omfatta
 stöd och hjälp med att
 
-1. göra den dagliga tillvaron begriplig och förutsägbar,
+1\. göra den dagliga tillvaron begriplig och förutsägbar,
 
-2. äta, dricka och förflytta sig,
-3. sköta personlig hygien och klä sig,
-4. kommunicera,
+2\. äta, dricka och förflytta sig,
+3\. sköta personlig hygien och klä sig,
+4\. kommunicera,
 
-5. göra läxor, leka och ägna sig åt intressen,
-6. vara delaktig i vardagliga göromål,
-7. vara med i sociala sammanhang,
+5\. göra läxor, leka och ägna sig åt intressen,
+6\. vara delaktig i vardagliga göromål,
+7\. vara med i sociala sammanhang,
 
-8. upprätthålla kontakt med föräldrar, övrig familj och vänner, och
-9. planera sin framtid.
+8\. upprätthålla kontakt med föräldrar, övrig familj och vänner, och
+9\. planera sin framtid.
 
 Paragrafen motsvarar 15 § SOSFS 2012:6. Det har inte kommit fram skäl för
 att ändra eller ta bort något krav. Punkt 8 har justerats språkligt.
@@ -5769,11 +5769,11 @@ I förslagets 4 kap. 7 § finns följande bestämmelse:
 Omvårdnaden ska kontinuerligt anpassas så att den svarar mot varje barns
 
 eller ungdoms behov och aktuella situation, och ges
-1. med respekt för barnets eller ungdomens fysiska och psykiska integritet,
+1\. med respekt för barnets eller ungdomens fysiska och psykiska integritet,
 
-2. så att barnet eller ungdomen kan utvecklas fysiskt, psykiskt och socialt,
+2\. så att barnet eller ungdomen kan utvecklas fysiskt, psykiskt och socialt,
 och
-3. så att barnet eller ungdomen kan känna sig trygg.
+3\. så att barnet eller ungdomen kan känna sig trygg.
 
 Omvårdanden ska också bidra till att barnets eller ungdomens självkänsla
 och tilltro till den egna förmågan stärks.
@@ -6589,9 +6589,9 @@ behövs för att kunna leda, utveckla och följa upp verksamheten.
 
 Den som förestår verksamheten ska även ha
 
-1. en högskoleutbildning som är relevant för verksamheten,
-2. erfarenhet av liknande verksamhet eller arbete med målgruppen, och
-3. personlig lämplighet.
+1\. en högskoleutbildning som är relevant för verksamheten,
+2\. erfarenhet av liknande verksamhet eller arbete med målgruppen, och
+3\. personlig lämplighet.
 
 Till bestämmelsen föreslås följande allmänna råd:
 
@@ -7052,8 +7052,8 @@ Följande förslag finns i 5 kap. 10 §:
 Den som bedriver verksamheten ska säkerställa att det finns tillräckligt med
 personal för att tillgodose varje barns och ungdoms behov av
 
-1. omvårdnad, trygghet och säkerhet dygnet runt, och
-2. fritids- och kulturaktiviteter.
+1\. omvårdnad, trygghet och säkerhet dygnet runt, och
+2\. fritids- och kulturaktiviteter.
 
 44
 
@@ -7113,10 +7113,10 @@ En ny upplysningsbestämmelse med följande innehåll införs i förslagets
 
 I 15 § 11 LSS finns bestämmelser om att det till kommunens uppgifter hör att
 anmäla till Inspektionen för vård och omsorg om det
-1. finns anledning att anta att en verksamhet bedrivs utan sådant tillstånd som
+1\. finns anledning att anta att en verksamhet bedrivs utan sådant tillstånd som
 krävs enligt 23 § första stycket LSS
-2. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS, eller
-3. uppmärksammas allvarliga brister i en verksamhet där tillstånd krävs enligt
+2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS, eller
+3\. uppmärksammas allvarliga brister i en verksamhet där tillstånd krävs enligt
 23 § första stycket LSS.
 
 Detta är en ny upplysningsbestämmelse om de bestämmelser om anmälan
@@ -7221,10 +7221,10 @@ När den nämnd som har beslutat om insatsen följer upp att den som får
 insatsen tillförsäkras goda levnadsvillkor ska det alltid följas upp hur barnet
 eller ungdomen får
 
-1. kontakt med och hjälp att besöka den hälso- och sjukvård och tandvård
+1\. kontakt med och hjälp att besöka den hälso- och sjukvård och tandvård
 som han eller hon behöver, och
 
-2. utöva inflytande och självbestämmande.
+2\. utöva inflytande och självbestämmande.
 
 Till bestämmelserna föreslås följande allmänna råd:
 
@@ -7332,10 +7332,10 @@ Tabell 1. Fördelning av registrerade LSS verksamheter efter driftsform
 Offentlig   Privat   Total  Genomsnittligt
 antal personer
 per
-verksamhet*
+verksamhet\*
 LSS 9 § 8     104         106      210    3,5
 
-Källa: IVO omsorgregister, 2024.* Socialstyrelsens egna beräkningar.
+Källa: IVO omsorgregister, 2024.\* Socialstyrelsens egna beräkningar.
 
 Antal barn och ungdomar    som  berörs
 Tabell 2 visar antalet barn och ungdomar som bor i bostad med särskild
@@ -7385,7 +7385,7 @@ bortfall. Efter bearbetning av dessa uppgifter uppskattas att cirka 8 procent
 av personal utöver föreståndare i LSS-boenden i dag har en eftergymnasial
 utbildning motsvarande stödpedagog. Denna uppskattning redovisas i tabell
 
-3. I denna undersökning ingår emellertid inte bostad med särskild service för
+3\. I denna undersökning ingår emellertid inte bostad med särskild service för
 barn eller ungdomar enligt 9 § 8 LSS utan den statistiken avser bostad med
 särskild service för vuxna enligt 9 § 9 LSS.
 
@@ -7414,12 +7414,12 @@ utbildningskravet, 9 § 8 LSS
 Typ av     Antal Antal utan Andel med Andel tim- Antal Antal
 personal   anställ efter- minst   avlönade  anställda anställda
 da    gymnasial efter-           per     per
-totalt* utbildning* gymnasial    verksam person
-utbildning        het*
+totalt\* utbildning\* gymnasial    verksam person
+utbildning        het\*
 
 LSS 9 § 8  2 730 1 938–2 386 13–29 % 21%    13      4
 
-Anm.: *Socialstyrelsens egen uppskattning. Källa: Kompetens i LSS-boenden 2021 samt Öppna jämförelser –
+Anm.: \*Socialstyrelsens egen uppskattning. Källa: Kompetens i LSS-boenden 2021 samt Öppna jämförelser –
 enhetsundersökningen inom LSS, Socialstyrelsen (2025).
 
 I tabell 4 redogörs en uppskattning av antalet anställda utan
@@ -7438,11 +7438,11 @@ Tabell 4. Antal anställda utan eftergymnasial utbildning som påverkas
 av kravet, två scenarier
 Verksamhet    Anställda utan Scenario I Scenario II
 eftergymnasial
-utbildning*,
+utbildning\*,
 totalt
 
 LSS 9 § 8     2 512        1 256      210
-* I denna grupp ingår månadsavlönade samt timanställda
+\* I denna grupp ingår månadsavlönade samt timanställda
 Resultatet visar att när uppgifter från enhetsundersökningen inom LSS
 
 används uppskattas 13 procent av personal redan ha eftergymnasial
@@ -7614,7 +7614,7 @@ utbildning
 
 <!-- sida 152 -->
 
-*Anm.: A utgår från data i enhetsundersökningen, Öppna jämförelser – enhetsundersökningen inom LSS,
+\*Anm.: A utgår från data i enhetsundersökningen, Öppna jämförelser – enhetsundersökningen inom LSS,
 Socialstyrelsen (2025) och B utgår från data i Kompetens i LSS-boenden Socialstyrelsen (2021).
 
 3.3 Kostnader     och   intäkter  för
@@ -7961,10 +7961,10 @@ funktionshindrade och beslutar följande allmänna råd.
 Tillämpningsområde
 
 1 § Dessa föreskrifter ska tillämpas av
-1. de nämnder som beslutar om insatsen bostad med särskild service
+1\. de nämnder som beslutar om insatsen bostad med särskild service
 för vuxna enligt 9 § 9 lagen (1993:387) om stöd och service till
 vissa funktionshindrade, LSS, och
-2. den som bedriver verksamhet i form av bostad med särskild
+2\. den som bedriver verksamhet i form av bostad med särskild
 service för vuxna enligt 9 § 9 LSS.
 
 Begreppsförklaringar
@@ -8062,19 +8062,19 @@ utsträckning ska ges inflytande och medbestämmande över insatser
 som ges finns i 6 § LSS.
 
 3 § Den som förestår verksamheten ska se till att varje person
-1. får individanpassat kommunikativt och kognitivt stöd,
-2. får information om genomförandet av insatsen,
-3. uppmuntras att framföra sina åsikter, och
-4. uppmuntras att utöva sitt inflytande och medbestämmande.
+1\. får individanpassat kommunikativt och kognitivt stöd,
+2\. får information om genomförandet av insatsen,
+3\. uppmuntras att framföra sina åsikter, och
+4\. uppmuntras att utöva sitt inflytande och medbestämmande.
 
 Omvårdnad
 
 Vad som ingår i omvårdnaden
 4 § För den enskilde som behöver det, ska omvårdnaden omfatta
 stöd och hjälp med att
-1. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
-2. äta, dricka och förflytta sig,
-3. sköta personlig hygien och klä sig,
+1\. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
+2\. äta, dricka och förflytta sig,
+3\. sköta personlig hygien och klä sig,
 3
 
 <!-- sida 162 -->
@@ -8082,12 +8082,12 @@ stöd och hjälp med att
 HSLF-FS
 2026: 000
 
-4. kommunicera,
-5. sköta hemmet, tillreda måltider, göra ärenden och inköp,
-6. upprätthålla sociala kontakter och bryta isolering,
-7. få kontakt med och hjälp att besöka hälso- och sjukvården och
+4\. kommunicera,
+5\. sköta hemmet, tillreda måltider, göra ärenden och inköp,
+6\. upprätthålla sociala kontakter och bryta isolering,
+7\. få kontakt med och hjälp att besöka hälso- och sjukvården och
 tandvården,
-8. bibehålla hälsa och att uppmuntra till hälsofrämjande levnads-
+8\. bibehålla hälsa och att uppmuntra till hälsofrämjande levnads-
 vanor med utgångspunkt från den enskildes rätt till
 självbestämmande.
 
@@ -8120,8 +8120,8 @@ dokumenteras.
 Utformningen av omvårdnaden
 6 § Omvårdnaden ska kontinuerligt anpassas så att den svarar mot
 varje enskilds behov och aktuella situation och ges
-1. med respekt för den enskildes fysiska och psykiska integritet,
-2. så att den enskilde kan behålla och utveckla sina förmågor, och
+1\. med respekt för den enskildes fysiska och psykiska integritet,
+2\. så att den enskilde kan behålla och utveckla sina förmågor, och
 
 4
 
@@ -8130,7 +8130,7 @@ varje enskilds behov och aktuella situation och ges
 HSLF-FS
 2026: 000
 
-3. bidra till att den enskildes självkänsla och tilltro till den egna
+3\. bidra till att den enskildes självkänsla och tilltro till den egna
 förmågan stärks och så att den enskilde kan känna sig trygg.
 
 7 § Bestämmelser om egenvård finns i lagen (2022:1250) om
@@ -8163,12 +8163,12 @@ förmågor personalen i bostad med särskild service för vuxna enligt
 
 2 § I en bostad med särskild service för vuxna enligt 9 § 9 LSS ska
 personalen ha kunskaper om
-1. verksamhetens mål och arbetssätt,
-2. konsekvenserna av de funktionsnedsättningar som de personer
+1\. verksamhetens mål och arbetssätt,
+2\. konsekvenserna av de funktionsnedsättningar som de personer
 som bor i bostaden har,
-3. de enskildas fysiska, psykiska och sociala behov,
-4. etiskt förhållningssätt och respektfullt bemötande, och
-5. hur utmanande beteende kan förebyggas.
+3\. de enskildas fysiska, psykiska och sociala behov,
+4\. etiskt förhållningssätt och respektfullt bemötande, och
+5\. hur utmanande beteende kan förebyggas.
 
 5
 
@@ -8192,10 +8192,10 @@ utbildning som förestår verksamheten samt den personal som i
 sammantagna kompetens som behövs för att kunna leda, utveckla
 och följa upp verksamheten.
 Den som förestår verksamheten ska även ha
-1. en högskoleutbildning som är relevant för verksamheten,
-2. erfarenhet av liknande verksamhet eller arbete med målgruppen,
+1\. en högskoleutbildning som är relevant för verksamheten,
+2\. erfarenhet av liknande verksamhet eller arbete med målgruppen,
 och
-3. personlig lämplighet.
+3\. personlig lämplighet.
 Allmänna råd
 
 Högskoleutbildningen bör omfatta minst 180 högskolepoäng.
@@ -8276,35 +8276,35 @@ levnadsvillkor.
 
 11 § Den som bedriver verksamheten ska säkerställa att det finns
 tillräckligt med personal för att tillgodose varje enskilds behov av
-1. omvårdnad, trygghet och säkerhet dygnet runt, och
-2. fritids- och kulturaktiviteter.
+1\. omvårdnad, trygghet och säkerhet dygnet runt, och
+2\. fritids- och kulturaktiviteter.
 
 6 kap. Uppföljning av insats
 1 § I 15 § 11 LSS finns bestämmelser om att det till kommunens
 uppgifter hör att anmäla till Inspektionen för vård och omsorg om
 det
-1. finns anledning att anta att en verksamhet bedrivs utan sådant
+1\. finns anledning att anta att en verksamhet bedrivs utan sådant
 tillstånd som krävs enligt 23 § första stycket LSS,
-2. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS,
+2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS,
 eller
-3. uppmärksammas allvarliga brister i en verksamhet där tillstånd
+3\. uppmärksammas allvarliga brister i en verksamhet där tillstånd
 krävs enligt 23 § första stycket LSS.
 
 2 § När den nämnd som har beslutat om insatsen följer upp att den
 som får insatsen tillförsäkras goda levnadsvillkor, ska uppföljningen
 alltid omfatta hur den enskilde får
-1. kontakt med och hjälp att besöka den hälso- och sjukvård och
+1\. kontakt med och hjälp att besöka den hälso- och sjukvård och
 tandvård som den enskilde behöver, och
-2. utöva inflytande och självbestämmande.
+2\. utöva inflytande och självbestämmande.
 Allmänna råd
 
 Uppföljningen bör göras regelbundet och med utgångspunkt från
 nämndens uppdrag till utföraren eller från en genomförandeplan
 eller motsvarande.
 
-1. Denna författning träder i kraft den 1 juli 2028 i fråga om 5 kap.
+1\. Denna författning träder i kraft den 1 juli 2028 i fråga om 5 kap.
 7 § och i övrigt den 1 mars 2027.
-2. Genom författningen upphävs Socialstyrelsens föreskrifter och
+2\. Genom författningen upphävs Socialstyrelsens föreskrifter och
 allmänna råd (SOSFS 2002:9) om bostad med särskild service för
 vuxna enligt 9 kap. 9 § lagen (1993:387) om stöd och service till
 vissa funktionshindrade.
@@ -8456,10 +8456,10 @@ och mognad finns i 8 § LSS.
 
 3 § Den som förestår verksamheten ska se till att varje barn och
 ungdom
-1. får individanpassat kommunikativt och kognitivt stöd,
-2. får information om genomförandet av insatsen,
-3. uppmuntras att framföra sina åsikter, och
-4. uppmuntras att utöva sitt inflytande och medbestämmande.
+1\. får individanpassat kommunikativt och kognitivt stöd,
+2\. får information om genomförandet av insatsen,
+3\. uppmuntras att framföra sina åsikter, och
+4\. uppmuntras att utöva sitt inflytande och medbestämmande.
 
 4 § När insatsen gäller ett barn, ska den som förestår verksamheten
 se till att personalen regelbundet har kontakt med barnets
@@ -8480,15 +8480,15 @@ Omvårdnad
 Vad som ingår i omvårdnaden
 5 § För det barn eller den ungdom som behöver det, ska
 omvårdnaden omfatta stöd och hjälp med att
-1. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
-2. äta, dricka och förflytta sig,
-3. sköta personlig hygien och klä sig,
-4. kommunicera,
-5. göra läxor, leka och ägna sig åt intressen,
-6. vara delaktig i vardagliga göromål,
-7. vara med i sociala sammanhang,
-8. upprätthålla kontakt med föräldrar, övrig familj och vänner, och
-9. planera sin framtid.
+1\. göra den dagliga tillvaron begriplig, förutsägbar och trygg,
+2\. äta, dricka och förflytta sig,
+3\. sköta personlig hygien och klä sig,
+4\. kommunicera,
+5\. göra läxor, leka och ägna sig åt intressen,
+6\. vara delaktig i vardagliga göromål,
+7\. vara med i sociala sammanhang,
+8\. upprätthålla kontakt med föräldrar, övrig familj och vänner, och
+9\. planera sin framtid.
 Planering av omvårdnaden
 
 6 § Den som förestår verksamheten ska se till att omvårdnaden i
@@ -8503,11 +8503,11 @@ neringen, ska skälen till detta dokumenteras.
 Utformning av omvårdnaden
 7 § Omvårdnaden ska kontinuerligt anpassas så att den svarar mot
 varje barns eller ungdoms behov och aktuella situation och ges
-1. med respekt för barnets eller ungdomens fysiska och psykiska
+1\. med respekt för barnets eller ungdomens fysiska och psykiska
 integritet,
-2. så att barnet eller ungdomen kan utvecklas fysiskt, psykiskt och
+2\. så att barnet eller ungdomen kan utvecklas fysiskt, psykiskt och
 socialt, och
-3. så att barnet eller ungdomen kan känna sig trygg.
+3\. så att barnet eller ungdomen kan känna sig trygg.
 Omvårdnaden ska också bidra till att barnets eller ungdomens
 självkänsla och tilltro till den egna förmågan stärks.
 
@@ -8602,13 +8602,13 @@ ungdomar minst bör ha.
 
 2 § I en bostad med särskild service för barn eller ungdomar enligt
 9 § 8 LSS ska personalen ha kunskaper om
-4. verksamhetens mål och arbetssätt,
-5. konsekvenserna av de funktionsnedsättningar som barnen och
+4\. verksamhetens mål och arbetssätt,
+5\. konsekvenserna av de funktionsnedsättningar som barnen och
 ungdomarna har,
-6. barns och ungdomars utveckling samt fysiska, psykiska och
+6\. barns och ungdomars utveckling samt fysiska, psykiska och
 sociala behov,
-7. etiskt förhållningssätt och respektfullt bemötande, och
-8. hur utmanande beteende kan förebyggas.
+7\. etiskt förhållningssätt och respektfullt bemötande, och
+8\. hur utmanande beteende kan förebyggas.
 3 § I 3 § förordningen (1993:1090) om stöd och service till vissa
 funktionshindrade anges att det ska finnas en person med lämplig
 utbildning som förestår verksamheten samt den personal som i
@@ -8626,10 +8626,10 @@ Den som förestår verksamheten
 kompetens som behövs för att kunna leda, utveckla och följa upp
 verksamheten.
 Den som förestår verksamheten ska även ha
-1. en högskoleutbildning som är relevant för verksamheten,
-2. erfarenhet av liknande verksamhet eller arbete med målgruppen,
+1\. en högskoleutbildning som är relevant för verksamheten,
+2\. erfarenhet av liknande verksamhet eller arbete med målgruppen,
 och
-3. personlig lämplighet.
+3\. personlig lämplighet.
 Allmänna råd
 
 Högskoleutbildningen bör omfatta minst 180 högskolepoäng.
@@ -8687,8 +8687,8 @@ tillförsäkras goda levnadsvillkor.
 10 § Den som bedriver verksamheten ska säkerställa att det finns
 tillräckligt med personal för att tillgodose varje barns och ungdoms
 behov av
-1. omvårdnad, trygghet och säkerhet dygnet runt, och
-2. fritids- och kulturaktiviteter.
+1\. omvårdnad, trygghet och säkerhet dygnet runt, och
+2\. fritids- och kulturaktiviteter.
 
 6 kap. Uppföljning och avslut av insats
 
@@ -8696,19 +8696,19 @@ Uppföljning
 1 § I 15 § 11 LSS finns bestämmelser om att det till kommunens
 uppgifter hör att anmäla till Inspektionen för vård och omsorg om
 det
-1. finns anledning att anta att en verksamhet bedrivs utan sådant
+1\. finns anledning att anta att en verksamhet bedrivs utan sådant
 tillstånd som krävs enligt 23 § första stycket LSS,
-2. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS,
+2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS,
 eller
-3. uppmärksammas allvarliga brister i en verksamhet där tillstånd
+3\. uppmärksammas allvarliga brister i en verksamhet där tillstånd
 krävs enligt 23 § första stycket LSS.
 
 2 § När den nämnd som har beslutat om insatsen följer upp att den
 som får insatsen tillförsäkras goda levnadsvillkor ska uppföljningen
 alltid omfatta hur barnet eller ungdomen får
-1. kontakt med och hjälp att besöka den hälso- och sjukvård samt
+1\. kontakt med och hjälp att besöka den hälso- och sjukvård samt
 tandvård som han eller hon behöver, och
-2. utöva inflytande och självbestämmande.
+2\. utöva inflytande och självbestämmande.
 Allmänna råd
 
 8
@@ -8732,9 +8732,9 @@ insatser som ungdomen kan behöva.
 Den som har avslutat sin gymnasieutbildning bör inte bo i en
 bostad med särskild service för barn eller ungdomar.
 
-1. Denna författning träder i kraft den 1 juli 2028 i fråga om
+1\. Denna författning träder i kraft den 1 juli 2028 i fråga om
 5 kap. 6 § och i övrigt den 1 mars 2027.
-2. Genom författningen upphävs Socialstyrelsens föreskrifter och
+2\. Genom författningen upphävs Socialstyrelsens föreskrifter och
 allmänna råd (SOSFS 2012:6) om bostad med särskild service för
 barn eller ungdomar.
 
@@ -8933,46 +8933,46 @@ Utredningen har särskilt haft i uppdrag att analysera och lämna förslag avsee
 KUNGSBACKA  KOMMUN
 3 (4)
 
-- användningen av sakkunniga i LVU-processen,
-- reglerna om omedelbara omhändertaganden,
+\- användningen av sakkunniga i LVU-processen,
+\- reglerna om omedelbara omhändertaganden,
 
-- frågor om umgänge och umgängesbegränsningar,
-- förutsättningarna för när vård enligt LVU ska upphöra,
+\- frågor om umgänge och umgängesbegränsningar,
+\- förutsättningarna för när vård enligt LVU ska upphöra,
 
-- behovet av återkommande domstolsprövning av vård enligt 3 § LVU (den unges eget beteende),
-- användningen av drogtester som underlag i bedömningar,
+\- behovet av återkommande domstolsprövning av vård enligt 3 § LVU (den unges eget beteende),
+\- användningen av drogtester som underlag i bedömningar,
 
-- vårdnadshavares information och delaktighet i processen, samt
-- uppföljning av barn och unga efter avslutad placering.
+\- vårdnadshavares information och delaktighet i processen, samt
+\- uppföljning av barn och unga efter avslutad placering.
 
 Utgångspunkten för uppdraget har varit att säkerställa att lagstiftningen i högre grad utgår från barnets
 bästa, stärker barns rättigheter i enlighet med barnkonventionen samt bidrar till en mer rättssäker och
 likvärdig tillämpning av LVU.
 Utredaren föreslår bland annat följande förändringar:
 
-- Möjligheterna att anlita sakkunniga i LVU-processen stärks för att förbättra kvaliteten i utredningar
+\- Möjligheterna att anlita sakkunniga i LVU-processen stärks för att förbättra kvaliteten i utredningar
 och domstolsprövningar.
 
-- Barn som vårdas enligt LVU ska ges en tydligare rätt till umgänge med syskon och andra
+\- Barn som vårdas enligt LVU ska ges en tydligare rätt till umgänge med syskon och andra
 närstående personer som är viktiga för barnet.
-- Reglerna om begränsning av umgänge förtydligas och skärps. Begränsningar ska endast få ske när
+\- Reglerna om begränsning av umgänge förtydligas och skärps. Begränsningar ska endast få ske när
 det är nödvändigt utifrån barnets bästa.
 
-- Bedömningen av när vård enligt LVU ska upphöra förtydligas genom att särskild hänsyn ska tas
+\- Bedömningen av när vård enligt LVU ska upphöra förtydligas genom att särskild hänsyn ska tas
 till om de omständigheter som låg till grund för vården har förändrats varaktigt, om vården
 fortfarande behövs och om vården kan bedrivas frivilligt.
 
-- Vård enligt 3 § LVU (den unges eget beteende) ska regelbundet underställas domstolsprövning
+\- Vård enligt 3 § LVU (den unges eget beteende) ska regelbundet underställas domstolsprövning
 även utan överklagande från den unge eller vårdnadshavaren.
-- Reglerna om omedelbara omhändertaganden och verkställighet av sådana beslut förtydligas för att
+\- Reglerna om omedelbara omhändertaganden och verkställighet av sådana beslut förtydligas för att
 stärka skyddet för barn och unga.
 
-- Möjligheterna att använda drogtester i vissa situationer förtydligas för att förbättra underlaget vid
+\- Möjligheterna att använda drogtester i vissa situationer förtydligas för att förbättra underlaget vid
 riskbedömningar.
-- Vårdnadshavare ska ges bättre information och stöd under handläggningen och under tiden som
+\- Vårdnadshavare ska ges bättre information och stöd under handläggningen och under tiden som
 barnet vårdas utanför det egna hemmet.
 
-- Socialnämndens möjligheter att följa upp barns situation efter avslutad placering utökas.
+\- Socialnämndens möjligheter att följa upp barns situation efter avslutad placering utökas.
 
 Förslagen syftar sammantaget till att stärka barnets rättigheter, öka rättssäkerheten och skapa mer
 enhetliga bedömningar inom den sociala barn- och ungdomsvården.
@@ -9433,10 +9433,10 @@ tillgodoses på den lokala bostadsmarknaden.
 
 I handlingsplanen anges tre målområden för Varbergs kommuns arbete med
 bostadsförsörjning:
-1. Varberg växer i takt
+1\. Varberg växer i takt
 
-2. Det erbjuds ett varierat bostadsutbud i hela kommunen efter invånarnas behov
-3. Dialog, samverkan och kunskapsunderlag ska stärkas.
+2\. Det erbjuds ett varierat bostadsutbud i hela kommunen efter invånarnas behov
+3\. Dialog, samverkan och kunskapsunderlag ska stärkas.
 
 Handlingsplanen innehåller även en genomförandelista med planerade insatser.
 Insatserna avser bland annat strategisk planering, planberedskap, aktiv markpolitik,
@@ -9484,10 +9484,10 @@ målen. Till grund för handlingsplanen finns en analys av demografisk utvecklin
 marknadsförutsättningar och bostadsbehov som inte tillgodoses på den lokala bostadsmarknaden.
 
 I handlingsplanen anges tre målområden för Varbergs kommuns arbete med bostadsförsörjning:
-1. Varberg växer i takt
+1\. Varberg växer i takt
 
-2. Det erbjuds ett varierat bostadsutbud i hela kommunen efter invånarnas behov
-3. Dialog, samverkan och kunskapsunderlag ska stärkas.
+2\. Det erbjuds ett varierat bostadsutbud i hela kommunen efter invånarnas behov
+3\. Dialog, samverkan och kunskapsunderlag ska stärkas.
 
 Handlingsplanen innehåller även en genomförandelista med planerade insatser. Insatserna avser bland
 annat strategisk planering, planberedskap, aktiv markpolitik, variation i bostadsutbudet, bostäder för
@@ -9529,10 +9529,10 @@ stämmer överens med utbudet. Handlingsplanen behandlar även bostadsbehov för
 särskilt fokus på grupper som har en svagare ställning på bostadsmarknaden.
 I handlingsplanen anges tre målområden för Varbergs kommuns arbete med bostadsförsörjning:
 
-1. Varberg växer i takt
+1\. Varberg växer i takt
 
-2. Det erbjuds ett varierat bostadsutbud i hela kommunen efter invånarnas behov
-3. Dialog, samverkan och kunskapsunderlag ska stärkas.
+2\. Det erbjuds ett varierat bostadsutbud i hela kommunen efter invånarnas behov
+3\. Dialog, samverkan och kunskapsunderlag ska stärkas.
 
 Handlingsplanen innehåller även en genomförandelista med planerade insatser. Insatserna avser bland
 annat strategisk planering, planberedskap, aktiv markpolitik, variation i bostadsutbudet, bostäder för
@@ -9756,9 +9756,9 @@ Handlingsplan för bostadsförsörjning – remissversion | Varbergs kommun 3
 
 planer och program som är av betydelse för bostadsförsörjningen
 Uppgifterna i handlingsplanen ska särskilt grundas på en analys av
--  Den demografiska utvecklingen
--  Marknadsförutsättningarna, och
--  De bostadsbehov som inte tillgodoses på den lokala bostadsmarknaden
+\-  Den demografiska utvecklingen
+\-  Marknadsförutsättningarna, och
+\-  De bostadsbehov som inte tillgodoses på den lokala bostadsmarknaden
 
 Handlingsplanen för bostadsförsörjning är vägledande när kommunen i
 översiktsplaneringen tillämpar och bedömer det allmänna intresset av
@@ -10725,7 +10725,7 @@ Figur 2 – Befolkningsutveckling 1968 – 2024. Källa: Evidens 2025
 <!-- sida 225 -->
 
 Medelåldern är idag högre i Halland än för riket. Den förväntas även öka fram till
-2040. Av åldersgrupperna nedan syns det att Varberg har en åldrande befolkning,
+2040\. Av åldersgrupperna nedan syns det att Varberg har en åldrande befolkning,
 eftersom åldersgrupperna för barn och unga vuxna är mindre än vad resterande
 åldersgrupper är. En generell trend är att ungdomar flyttar från kommunen och
 barnfamiljer flyttar hit viket också syns på åldersfördelningen.
@@ -11407,13 +11407,13 @@ ungefärligt jämförbara siffror de senaste 10 åren.
 
 Könsfördelningen 2025 över personer i hemlöshet är 41 procent kvinnor och 59
 procent män, vilket innebär en ökning av andelen kvinnor i hemlöshet jämfört med
-2024. Kartläggningen visar att 29 procent även har barn under 18 år.
+2024\. Kartläggningen visar att 29 procent även har barn under 18 år.
 
 •  Hemlösa i situation 1 (akut hemlöshet): 17 personer (16 personer 2024)
 •  Hemlösa i situation 2 (institutionsvistelse och stödboende, ska flytta inom 3
 månader utan boende): 4 personer (7 personer 2024)
 •  Hemlösa i situation 4 (eget ordnat kortsiktigt boende): 20 (8 personer
-2024)
+2024\)
 
 Hemlösa i situation 3 enligt Socialstyrelsens definitioner (långsiktiga
 boendelösningar) ingår inte i den årliga kartläggningen. Boendehanläggare på
@@ -12160,10 +12160,10 @@ allmän platsmark. För att nyttja allmän platsmark krävs tillstånd från
 Polismyndigheten, som tar ut avgift för sin handläggning.
 
 Översynen har haft inriktningen att:
--  samla flera tidigare taxedokument till ett gemensamt och tydligare
+\-  samla flera tidigare taxedokument till ett gemensamt och tydligare
 taxedokument
 
--  erbjuda konkurrenskraftiga och förutsebara avgifter.
+\-  erbjuda konkurrenskraftiga och förutsebara avgifter.
 
 Beslutsunderlag
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-06-08
@@ -12561,7 +12561,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 281 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Taxan tillämpas för uttag av avgifter vid upplåtelse av allmän platsmark inom
 
 detaljplanelagda områden och områden som kommunen jämställt med sådan
@@ -12632,7 +12632,7 @@ humanitära organisationer och föreningar eller därmed jämförliga verksamhet
 omfattning, nedlagd handläggningstid och övriga omständigheter, får avgift enligt
 denna taxa sättas ned eller efterskänkas.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 I Lagen (1957:259) om rätt för kommun att ta ut avgift för vissa upplåtelser av
 allmän platsmark regleras möjligheten att ta ut avgifter. Kommunen har rätt att ta
@@ -12657,7 +12657,7 @@ avgiftsfria. Exempel på icke kommersiell verksamhet är skolklasser, religiösa
 politiska- och ideella föreningar och organisationer, humanitära organisationer
 och föreningar eller därmed jämförliga verksamheter.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Taxor för upplåtelse av allmän platsmark är enligt lagstiftning momsbefriade.
 
@@ -12666,7 +12666,7 @@ Sida 3 av 5
 
 <!-- sida 283 -->
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Indelning av zoner
 Zon 1 - Kungsbacka centrum: Avgränsat av Kungsbackaån, Kungsgatan,
@@ -12754,7 +12754,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 286 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Taxan tillämpas för uttag av avgifter vid upplåtelse av allmän platsmark inom
 
 detaljplanelagda områden och områden som kommunen jämställt med sådan plats.
@@ -12823,7 +12823,7 @@ humanitära organisationer och föreningar eller därmed jämförliga verksamhet
 omfattning, nedlagd handläggningstid och övriga omständigheter, får avgift enligt
 denna taxa sättas ned eller efterskänkas.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 I Lagen (1957:259) om rätt för kommun att ta ut avgift för vissa upplåtelser av
 allmän platsmark regleras möjligheten att ta ut avgifter. Kommunen har rätt att ta
@@ -12848,7 +12848,7 @@ avgiftsfria. Exempel på icke kommersiell verksamhet är skolklasser, religiösa
 politiska- och ideella föreningar och organisationer, humanitära organisationer och
 föreningar eller därmed jämförliga verksamheter.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Taxor för upplåtelse av allmän platsmark är enligt lagstiftning momsbefriade.
 
@@ -12857,7 +12857,7 @@ Sida 3 av 6
 
 <!-- sida 288 -->
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Indelning av zoner
 Zon 1 - Kungsbacka centrum: Avgränsat av Kungsbackaån, Kungsgatan,
@@ -12904,7 +12904,7 @@ Sida 4 av 6
 50 kr/lpm         av Södra Torggatan och del av
 15 Månadsmarknad             40 kr/lpm/6 mån   Lindens torg.
 
-_____
+\_\_\_\_\_
 
 Taxa för upplåtelse av allmän platsmark
 Sida 5 av 6
@@ -13447,7 +13447,7 @@ A 'Försäljningsändamål
 | av eller 500 kr/plats/mån
 B Annat kommersiellt ändamål
 | Affischpelare 5 000 kr/st/år
-2. Reklamskyltar, typ vippskylt 1 000 kr/st/år Maxbredd från husliv I m
+2\. Reklamskyltar, typ vippskylt 1 000 kr/st/år Maxbredd från husliv I m
 3 Skyltvaror utanför butik 500 kr/år Maxbredd från husliv 0,75 m
 4 > Festivaler, utställningar 5 kr/kvm/dag Minimiavgift 500 kr
 5 Cirkus, tivoli 2-:000 kr/plats/dag
@@ -13466,7 +13466,7 @@ För torghandel gäller särskild antagen avgiftstaxa
 
 <!-- sida 305 -->
 
-|
+\|
 
 Kommunfullmäktige
 
@@ -13524,12 +13524,12 @@ Teknik fastställd typ, till 500 kr/m och säsong från och med säsongen 2005.
 
 Ärendeberedning
 Kommunstyrelsens förvaltning, skrivelse 2005-05-1 1.
-Kommunstyrelsens arbetsutskott 2005-05-17, $ 228.
+Kommunstyrelsens arbetsutskott 2005-05-17, \$ 228.
 
 Kommunstyrelsen 2005-05-25, 8 124.
 
 I Utdragsbestyrkande
-|
+\|
 I
 
 <!-- sida 306 -->
@@ -13539,10 +13539,10 @@ Sida
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTCOKOLL 18
 Sammanträdesdatum
 Kommunfullmäktige 2005-06-09
-|
+\|
 & 100 forts KS05-81/05
 
-|
+\|
 | Anföranden
 | Anförande hålls av Kenneth Nilsson (fp).
 
@@ -13559,12 +13559,12 @@ Kommunfullmäktige fastslår taxan för försäljningsändamål — uteservering
 
 | BESLUT
 | säsongen 2005.
-|
+\|
 
 | Hyresnivån för staket, enligt av Plan & Bygg och Teknik fastställd typ, fastslås
 till 500 kr/m och säsong (1 april- 30 september) från och med säsongen
 
-2005.
+2005\.
 
 | Nämnden för Teknik slutför förhandlingarna om 2004 års kostnader för
 | staketuthyrning.
@@ -13581,7 +13581,7 @@ NG
 <!-- sida 307 -->
 
 lv KUNGSBACKA Datum 1996-11-14 Beteckning 2.
-KOMMUNS KF $$ 205/96
+KOMMUNS KF \$\$ 205/96
 FÖRFATTNINGSSAMLING
 
 Grunder för torghandelsavgifter i Kungsbacka
@@ -13601,7 +13601,7 @@ Avgifterna delas upp i fem grupper:
 2A. Tillfälliga upplåtelser av försäljningsplats på torgdagar
 
 2B. Tillfälliga upplåtelser av försäljningsplats på marknadsdagar
-3. Avgiftsfria upplåtelser
+3\. Avgiftsfria upplåtelser
 
 1A. Fasta försäljningsplatser samtliga försäljningsdagar
 
@@ -14559,14 +14559,14 @@ Tjänsteskrivelsen från 2018 (KS/2016:662) sammanfattar fördelarna väl.
 Det finns många positiva effekter med att införa förmånscyklar för medarbetare i Kungsbacka
 kommun, främst inom följande områden:
 
-- Hälsa: Kungsbacka kommun önskar bidra till medarbetares hälsa och ett erbjudande
+\- Hälsa: Kungsbacka kommun önskar bidra till medarbetares hälsa och ett erbjudande
 om förmånscyklar har setts påverka i vilken utsträckning medarbetare motionerar.
 
-- Miljö: Många av våra medarbetare bor inom cykelavstånd till arbetet och
+\- Miljö: Många av våra medarbetare bor inom cykelavstånd till arbetet och
 förmånscykel har setts öka arbetspendlingen med cykel vilket kan komma att minska
 kommunens totala koldioxidutsläpp.
 
--  Förmåner/en attraktiv arbetsgivare: Som en del av arbetet med att vara en attraktiv
+\-  Förmåner/en attraktiv arbetsgivare: Som en del av arbetet med att vara en attraktiv
 arbetsgivare måste Kungsbacka kommun kontinuerligt se över sitt förmånspaket för
 att kunna vara med i konkurrensen om kompetens. Erbjudande om förmånscykel
 kommer att bidra till ett mer attraktivt förmånserbjudande.
@@ -14578,7 +14578,7 @@ arbetsgivare börjat erbjuda kostnadsneutrala lösningar där administrationskos
 in i systemet och därmed blir kostnadsneutralt för arbetsgivaren.
 
 Miljöpartiet föreslår;
-- Att Kungsbacka kommun inför ett kostnadsneutralt system för förmånscyklar.
+\- Att Kungsbacka kommun inför ett kostnadsneutralt system för förmånscyklar.
 
 2023-01-19
 

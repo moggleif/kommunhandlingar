@@ -297,11 +297,11 @@ utveckling av fler teknikslag och större fokus på kapacitetshöjning i elsyste
 Det reviderade förslaget till strategi har två övergripande energi- och klimatmål samt
 fyra fokusområden med mål och insatser. Strategins fokusområden är:
 
-1. Ett effektivt och fossilfritt transportsystem
-2. Ett effektivt och fossilfritt energisystem
+1\. Ett effektivt och fossilfritt transportsystem
+2\. Ett effektivt och fossilfritt energisystem
 
-3. Klimatsmart markanvändning
-4. Hela vägen till nettonoll.
+3\. Klimatsmart markanvändning
+4\. Hela vägen till nettonoll.
 
 Beslutsunderlag
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2025-01-16
@@ -396,7 +396,7 @@ behov som kan uppkomma i samband med projektering eller genomförandet av
 åtgärden. Riskreserven omfattar inte förändringar och fördyringar på grund av
 penningvärdesändringar och motsvarande som i stället hanteras med uppräkning
 enligt Trafikverkets index för väginvesteringar med utgångspunkt i prisnivå juni
-2024.
+2024\.
 
 Medfinansieringsavtalet ger även visst utrymme för kommunens önskemål om tillägg
 eller ytterligare åtgärder i samband med genomförandet av gång- och cykelvägen,
@@ -656,10 +656,10 @@ Sammanfattning av ärendet
 
 Tillförordnad kommundirektör Anders Johansson lämnar följande information:
 
-- Kommunrevisionen har granskat stiftelsen för Tjolöholms verksamhet. Förutom
+\- Kommunrevisionen har granskat stiftelsen för Tjolöholms verksamhet. Förutom
 kommunfullmäktige, kommer även kommunstyrelsen att få ta del av
 granskningsrapporten.
-- Borgensärendet rörande Vallda tennisklubb fortsätter, klubben har till del betalat
+\- Borgensärendet rörande Vallda tennisklubb fortsätter, klubben har till del betalat
 i enlighet med sina åtaganden.
 
 Samhällsbyggnadschef Lovisa Eld lämnar information om att Sveriges kommuner

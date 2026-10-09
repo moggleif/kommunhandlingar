@@ -351,7 +351,7 @@ Mötesplats Fjärås:
 Hyresbudget 216 900 kr
 
 Budget lokalvård 57 000 kr
-\_______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Summa Fjärås: 273 900 kr
 
 Mötesplats Rydet:
@@ -359,7 +359,7 @@ Mötesplats Rydet:
 Hyresbudget 144 000 kr
 
 Budget lokalvård 43 000kr
-\_______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Summa Rydet: 187 000 kr
 
 Totalt ramjusterad budget: 460 900 kr
@@ -369,7 +369,7 @@ Preliminär utökad skatehall
 Ny hyra: 2 598 122 kr
 Befintlig hyresbudget: 1 298 900 kr
 
-\_____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Mellanskillnad: 1 299 222 kr
 
 20% egenfinansiering 259 844 kr
@@ -382,7 +382,7 @@ KUNGSBACKA  KOMMUN
 Beräknad ny lokalvård: 200 000 kr
 
 Nuvarande lokalvårdsbudget: 88 000 kr
-\________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Mellanskillnad: 112 000 kr
 

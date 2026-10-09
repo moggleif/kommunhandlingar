@@ -3669,7 +3669,7 @@ KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN
 2\. Detta är en ny verksamhet som inte finns i kommunen idag. För att den ska kunna rikta sig till
 alla invånare är en central placering önskvärd.
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 101 -->
 
@@ -3947,7 +3947,7 @@ kommunala och kommersiella utbud. Denna typ av verksamhetslokaler kan bli dragar
 ligger i, vitalisera dem samt skapa större trygghet. Det är alltså ett önskemål att ha kvar placeringen av
 verksamheterna centralt i staden.
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 106 -->
 
@@ -4293,7 +4293,7 @@ Fordonet som används i verksamheten har fast parkeringsplats vid Kulturhuset Fy
 
 används i bibliotekens verksamhet.
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 111 -->
 

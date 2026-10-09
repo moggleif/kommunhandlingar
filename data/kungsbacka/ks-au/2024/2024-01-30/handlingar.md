@@ -392,7 +392,7 @@ Förändringar av förslag till förbundsordning efter remissutskick
 Göteborgsregionen har efter att förslaget till ny förbundsordning varit utsänt på remiss till
 medlemskommunerna gjort tre förtydliganden som uttrycks i följande tre tillägg (understruken text)
 med GR:s kommentarer till tilläggen:
-1. § 3.2 punkten 6: Utgöra en regional läromedelssamordnare och inköpscentral, vilket innefattar
+1\. § 3.2 punkten 6: Utgöra en regional läromedelssamordnare och inköpscentral, vilket innefattar
 att anskaffa och leverera lärresurser och läromedel till medlemskommunernas
 utbildningsverksamheter i enlighet med ingångna avtal.
 
@@ -401,7 +401,7 @@ läromedel via GR. Göteborgsregionen bedömer att det är viktigt att denna omf
 anges i förbundsordningen, men att det också är viktigt att förbundsordningen inte står i strid mot
 ingångna avtal. Göteborgsregionen menar att föreslaget tillägg säkerställer detta.
 
-2. § 3.2 punkten 8: Transferera medlemskommunernas ekonomiska stöd till vissa andra
+2\. § 3.2 punkten 8: Transferera medlemskommunernas ekonomiska stöd till vissa andra
 organisationer i Göteborgsregionen enligt förbundets samrådda budget samt administrera och
 följa upp därvid ingångna avtal.
 I remissförfarandet har förslag lämnats om ett tillägg att GR har i uppdrag att administrera och följa
@@ -411,7 +411,7 @@ Göteborgsregionen. GR har egna avtal med fyra av de fem organisationer som medl
 pengar transfereras till. GR menar att det är självklart att GR administrerar och följer upp dessa avtal,
 men att det inte är rimligt att GR ska ta på sig att administrera och följa upp dessa organisationers
 eventuella avtal med medlemskommunerna. Tillägget avser att förtydliga detta.
-3. § 3.2 punkten 12: Samordna nätverk för kulturchefer och hantera delregionala utvecklingsmedel
+3\. § 3.2 punkten 12: Samordna nätverk för kulturchefer och hantera delregionala utvecklingsmedel
 inom kultur enligt överenskommelse med VGR.
 
 GR har en överenskommelse om delregionala utvecklingsmedel inom kultur 2022–2024 med Västra
@@ -992,9 +992,9 @@ inom kultur.
 
 Beslutsunderlag
 
-1. Förslag till ny förbundsordning för GR
-2. Medlemskommunernas remissyttranden
-3. Remissärendet
+1\. Förslag till ny förbundsordning för GR
+2\. Medlemskommunernas remissyttranden
+3\. Remissärendet
 
 Förslag till ny förbundsordning                             1 (7)
 
@@ -1071,7 +1071,7 @@ Kommentarer   och Bedömning
 Nedan kommenteras de olika frågor som medlemskommunerna lyft i sina
 remissvar och redovisas vilka ändringar de föreslås medföra.
 
-1. Förbundsstyrelsens rätt företräda förbundsfullmäktige
+1\. Förbundsstyrelsens rätt företräda förbundsfullmäktige
 Förslaget att utnyttja rätten för förbundsstyrelsen att företräda
 förbundsfullmäktige har sin grund i att förbundsfullmäktige normalt endast
 sammanträder två gånger per år. Det kan därmed bli opraktiskt att kalla in
@@ -1156,7 +1156,7 @@ till förbundsfullmäktige.
 
 Remissyttrandena i denna del föranleder därför inget ändrat förslag.
 
-2. Lärresurser och läromedel
+2\. Lärresurser och läromedel
 
 Enligt gällande samordningsavtal förbinder sig medlemskommunerna att
 inhandla kommunens läromedel via GR. Det är viktigt att denna omfattande
@@ -1181,12 +1181,12 @@ Utgöra en regional läromedelssamordnare och inköpscentral, vilket innefattar
 att anskaffa och leverera lärresurser och läromedel till medlemskommunernas
 utbildningsverksamheter i enlighet med ingångna avtal.
 
-3. Fritidsfrågorna
+3\. Fritidsfrågorna
 
 Som Kungsbacka kommun skriver är detta en framtida fråga och den
 föranleder därför inte någon ändring i förslaget.
 
-4. Närverk för kulturchefer
+4\. Närverk för kulturchefer
 
 GR har en överenskommelse om delregionala utvecklingsmedel inom kultur
 2022-2024. Överenskommelsen innebär att GR erhåller 1,85 Mkr för 2023 i
@@ -1207,7 +1207,7 @@ Samordna nätverk för kulturchefer och hantera delregionala utvecklingsmedel
 
 inom kultur enligt överenskommelse med VGR.
 
-5. Gränsdragningsfrågor
+5\. Gränsdragningsfrågor
 
 Som Göteborgs stad framhåller kommer det alltjämt finnas
 gränsdragningsfrågor mellan medlemskommunerna och förbundet. Det är nog
@@ -1216,7 +1216,7 @@ bedömning är att uppgifterna beskrivits så noggrant det är möjligt utan att
 förlora det mått av flexibilitet i verksamhetens utveckling som är nödvändig
 med hänsyn till förändringar i samhället.
 
-6. Transfereringar till andra organisationer
+6\. Transfereringar till andra organisationer
 
 Förslag till ny förbundsordning
 
@@ -1247,7 +1247,7 @@ Transferera medlemskommunernas ekonomiska stöd till vissa andra
 organisationer i Göteborgsregionen enligt förbundets samrådda budget samt
 administrera och följa upp därvid ingångna avtal.
 
-7. Arkivfrågor
+7\. Arkivfrågor
 
 Det finns ingen juridisk skyldighet att meddela föreskrifter om arkivvården och
 förslaget till förbundsordning innehåller heller inga sådana föreskrifter. GR får
@@ -1361,41 +1361,41 @@ offentlig sektor och näringsliv samt stöd i omställning till digital teknik.
 
 Inom dessa områden tilldelas förbundet följande särskilda uppgifter;
 
-1. Besluta om och genomföra antagning till gymnasieskolan enligt skollagen och
+1\. Besluta om och genomföra antagning till gymnasieskolan enligt skollagen och
 
 gymnasieförordningen samt inom ramen för gällande samverkansavtal
 avseende gymnasieskolan.
-2. Bedriva grundskoleverksamhet enligt internationell läroplan, årskurs 0-9, och
+2\. Bedriva grundskoleverksamhet enligt internationell läroplan, årskurs 0-9, och
 fritidshem inom ramen för gällande skollag och förordning, genom helägt
 aktiebolag (Göteborgsregionens Internationella Skola AB, ISGR).
 
-3. Bedriva förskoleklass, grundskola och fritidshem enligt svensk läroplan med
+3\. Bedriva förskoleklass, grundskola och fritidshem enligt svensk läroplan med
 möjlighet till delvis undervisning på engelska inom ramen för gällande skollag
 och förordning på ISGR med stöd av regeringsbeslut.
-4. Utveckla och tillhandahålla vård-, omsorgs-, behandlings-, utrednings- och
+4\. Utveckla och tillhandahålla vård-, omsorgs-, behandlings-, utrednings- och
 rådgivningsresurser genom delägt aktiebolag (Gryning Vård AB) som
 komplement till medlemskommunernas egen verksamhet.
 
-5. Samordna planering och dimensionering av gymnasialt utbildningsutbud och
+5\. Samordna planering och dimensionering av gymnasialt utbildningsutbud och
 regionala utbildningar för vuxna i Göteborgsregionen inom ramen för gällande
 samverkansavtal.
-6. Utgöra en regional läromedelssamordnare och inköpscentral, vilket innefattar
+6\. Utgöra en regional läromedelssamordnare och inköpscentral, vilket innefattar
 att anskaffa och leverera lärresurser och läromedel till medlemskommunernas
 
 utbildningsverksamheter i enlighet med ingångna avtal.
-7. Utveckla och tillhandahålla vissa kommungemensamma IT-system för
+7\. Utveckla och tillhandahålla vissa kommungemensamma IT-system för
 medlemskommunernas behov.
-8. Transferera medlemskommunernas ekonomiska stöd till vissa andra
+8\. Transferera medlemskommunernas ekonomiska stöd till vissa andra
 organisationer i Göteborgsregionen enligt förbundets samrådda budget samt
 
 administrera och följa upp därvid ingångna avtal.
-9. Ansöka om bidrag för finansiering av projekt och andra satsningar inom
+9\. Ansöka om bidrag för finansiering av projekt och andra satsningar inom
 kommunalförbundets kompetensområden.
-10. Bedriva forskning och utveckling inom kommunala verksamhetsområden.
+10\. Bedriva forskning och utveckling inom kommunala verksamhetsområden.
 
-11. Upprätta förslag till planer och planeringsunderlag av regional karaktär inom
+11\. Upprätta förslag till planer och planeringsunderlag av regional karaktär inom
 området fysisk planering.
-12. Samordna nätverk för kulturchefer och hantera delregionala utvecklingsmedel
+12\. Samordna nätverk för kulturchefer och hantera delregionala utvecklingsmedel
 inom kultur enligt överenskommelse med VGR.
 
 3 (8)
@@ -2297,20 +2297,20 @@ utvecklingsp rojekt tillsammans med medlemskommunerna.
 Förbundsordning för Göteborgsregionens kommunalförbund. Gäller fr.o.m. 2023-01-01.
 
 Förbundet har två funktioner:
-1. Förbundet är myndighetsutövande inom:
+1\. Förbundet är myndighetsutövande inom:
 
 • Utbildning
-- Svara för antagningen till gymnasieskolan enligt skollagen och gymnasieförordningen
+\- Svara för antagningen till gymnasieskolan enligt skollagen och gymnasieförordningen
 samt inom ramen för gällande samverkansavtal avseende gymnasieskolan medlems-
 kommunerna emellan.
 
-- Svara för anordnande av lärande för vuxna enligt gällande lagstiftning, bl.a. skollag och
+\- Svara för anordnande av lärande för vuxna enligt gällande lagstiftning, bl.a. skollag och
 förordning om kommunal vuxenutbildning, inom ramen för gällande samverkansavtal.
-- Bedriva internationellt inriktad förskoleklass , grund och gymnasieskoleverksamhet
+\- Bedriva internationellt inriktad förskoleklass , grund och gymnasieskoleverksamhet
 samt verksamhet för fritidshem och annan pedagogisk verksamhet inom ramen för
 
 gällande skollag och förordning.
-2. Förbundet är samverkansorgan inom följande områden:
+2\. Förbundet är samverkansorgan inom följande områden:
 
 • Arbetsmarknad
 • Miljö och samhällsbyggnad
@@ -2733,7 +2733,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 <!-- sida 61 -->
 
 Innehåll
-1. Bakgrund
+1\. Bakgrund
 
 1.1 Arbetssätt
 1.2 Aktiviteter
@@ -2743,10 +2743,10 @@ Innehåll
 
 Bilagor
 
-1. Årsrapportering hälsosatsningen projekt hälsa
+1\. Årsrapportering hälsosatsningen projekt hälsa
 
-2. Planering och budget
-3. Bilder från middag på enhet
+2\. Planering och budget
+3\. Bilder från middag på enhet
 
 Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohälsa 2
 
@@ -4323,13 +4323,13 @@ Kungsbacka kommuns riktlinjer för hantering av personuppgifter är ett kompleme
 kommunens integritetspolicy. Riktlinjerna gäller för kommunens nämnder,
 kommunstyrelsen, bolag och stiftelse.
 
-1. Syfte
+1\. Syfte
 
 Riktlinjernas syfte är att säkerställa att kommunen hanterar personuppgifter på ett korrekt och likvärdigt sätt,
 men också att visa för allmänhet och anställda att de kan känna sig trygga med att deras personuppgifter
 hanteras på respektfullt sätt.
 
-2. Nämndernas  och kommunstyrelsens   ansvar
+2\. Nämndernas  och kommunstyrelsens   ansvar
 
 2.1 Personuppgiftsansvariga och personuppgiftsbiträden
 Personuppgiftsansvar måste som minimum ligga på myndighetsnivå. Varje nämnd är därmed
@@ -4387,7 +4387,7 @@ vid hantering av personuppgiftsincidenter och registrerades åberopande av sina 
 lämpligt. Samordningsuppdraget innefattar även att bistå personuppgiftsansvariga nämnder med samordning
 och stöd vid konsekvensbedömning.
 
-3. Dataskyddsombud  och dataskyddskontakter
+3\. Dataskyddsombud  och dataskyddskontakter
 Varje nämnd, bolag och stiftelse ska utnämna ett dataskyddsombud (se artikel 37-39 GDPR). Nämndernas
 förvaltningar samt bolag och stiftelse rekommenderas därutöver att utse dataskyddskontakter som löpande
 arbetar med att verksamheten ska leva upp till de krav som ställs i GDPR.
@@ -4403,38 +4403,38 @@ sin verksamhet.
 
 3.2 Dataskyddskontakternas roll
 Dataskyddskontakternas löpande arbete ska åtminstone omfatta följande.
-1. Upprätta och underhålla förteckning över personuppgiftsbehandlingen i enlighet med vad som stadgas i
+1\. Upprätta och underhålla förteckning över personuppgiftsbehandlingen i enlighet med vad som stadgas i
 
 artikel 30.1-3 GDPR.
-2. Samordna och besvara begäranden från registrerade för den egna verksamheten, såsom exempelvis
+2\. Samordna och besvara begäranden från registrerade för den egna verksamheten, såsom exempelvis
 begäran om registerutdrag, radering och invändning. (Se artikel 12-22 GDPR.)
 
-3. Säkerställa att nödvändiga rutiner och instruktioner finns tillgängliga inom den egna verksamheten så att
+3\. Säkerställa att nödvändiga rutiner och instruktioner finns tillgängliga inom den egna verksamheten så att
 behandlingen sker i enlighet med de grundläggande principerna i artikel 5.1.
-4. Vara behjälplig med att bedöma om personuppgiftsincidenter ska vidarerapporteras till
+4\. Vara behjälplig med att bedöma om personuppgiftsincidenter ska vidarerapporteras till
 Integritetsskyddsmyndigheten (IMY) och om de registrerade ska informeras. (Se artikel 33.1 och artikel 34
 GDPR.)
 
-5. Vara förvaltningens, bolagets eller stiftelsens representant i det kommunövergripande nätverket för
+5\. Vara förvaltningens, bolagets eller stiftelsens representant i det kommunövergripande nätverket för
 dataskyddskontakter.
 
-6. Vara ett stöd till personuppgiftsansvarig, förvaltnings- eller bolagsledningen och verksamheten i arbetet
+6\. Vara ett stöd till personuppgiftsansvarig, förvaltnings- eller bolagsledningen och verksamheten i arbetet
 med personuppgiftsfrågor.
-7. Uppmärksamma personuppgiftsansvarig och förvaltnings- eller bolagsledning på åtgärder som måste
+7\. Uppmärksamma personuppgiftsansvarig och förvaltnings- eller bolagsledning på åtgärder som måste
 vidtas för att upprätthålla en god hantering av personuppgifter i enlighet med gällande lagstiftning.
 
-8. Vara dataskyddsombudet behjälplig samt fungera som länk mellan dataskyddsombudet och
+8\. Vara dataskyddsombudet behjälplig samt fungera som länk mellan dataskyddsombudet och
 personuppgiftsansvarig
-9. Omvärldsbevaka kring personuppgiftsfrågor utifrån det egna verksamhetsområdet.
+9\. Omvärldsbevaka kring personuppgiftsfrågor utifrån det egna verksamhetsområdet.
 
-10. Vid behov inhämta råd och stöd från dataskyddsombudet, till exempel vid konsekvensbedömning
+10\. Vid behov inhämta råd och stöd från dataskyddsombudet, till exempel vid konsekvensbedömning
 avseende dataskydd i enlighet med artikel 35.2 samt 39.1 c GDPR.
 
 Riktlinjer för hanterin g av personuppgifter Sida 3 av 6
 
 <!-- sida 98 -->
 
-4. Krav på digitala tjänster och system som medför behandling av
+4\. Krav på digitala tjänster och system som medför behandling av
 personuppgifter
 
 För varje digital tjänst och system som används, eller som det finns planer på att använda, ska det särskilt
@@ -4449,7 +4449,7 @@ bestämmelser på dataskyddsområdet. Kraven ska utformas i samråd mellan kommu
 upphandlingsfunktion och den eller de nämnder som är personuppgiftsansvariga, alternativt den nämnd som
 har samordningsuppdrag för den aktuella behandlingen.
 
-5. Konsekvensbedömning   avseende dataskydd
+5\. Konsekvensbedömning   avseende dataskydd
 
 Om en typ av behandling kan komma att leda till hög risk för registrerades rättigheter och friheter ska en
 bedömning av den planerade behandlingens risker och konsekvenser göras i syfte att sänka riskerna eller
@@ -4460,7 +4460,7 @@ av den personuppgiftsansvarige.
 Dataskyddsombudet ska involveras och rådfrågas på ett så tidigt stadium som möjligt när behandling som
 innebär hög risk för registrerade kan komma ifråga.
 
-6. Incidentrapportering
+6\. Incidentrapportering
 Varje nämnd, bolag och stiftelse ska ha rutiner för att kunna upptäcka, hantera och rapportera
 personuppgiftsincidenter som sker inom den egna verksamheten inom 72 timmar från upptäckt på det sätt
 som anges i artikel 33 och 34 i GDPR. Rapportering till tillsynsmyndigheten behöver emellertid inte göras
@@ -4486,7 +4486,7 @@ Riktlinjer för hanterin g av personuppgifter Sida 4 av 6
 
 <!-- sida 99 -->
 
-7. Förteckning över personuppgiftsbehandlingar
+7\. Förteckning över personuppgiftsbehandlingar
 Varje nämnd, bolag och stiftelse ska löpande föra en förteckning över vilka personuppgifter som behandlas i
 den egna verksamheteten (se artikel 30). Kommunstyrelsens förvaltning ska samordna arbetet i syfte att
 främja likvärdighet och överblickbarhet i kommunens personuppgiftsbehandling.
@@ -4496,7 +4496,7 @@ behandlingen och noteras i respektive personuppgiftsansvarigs förteckning. Beha
 annan nämnds räkning ska, utöver den personuppgiftsansvarigas förteckning, även förtecknas i
 personuppgiftsbiträdesnämndens behandlingsförteckning.
 
-8. Personuppgiftsbiträdesförhållanden
+8\. Personuppgiftsbiträdesförhållanden
 
 8.1 Extern part
 Varje nämnd ska teckna personuppgiftsbiträdesavtal (PUB-avtal) när denne uppdrar åt ett externt
@@ -4531,7 +4531,7 @@ biträdesförhållandet ska kompletteras med från den personuppgiftsansvariga n
 Nämnderna ska ha en sammanställning över de instruktioner som reglerar deras biträdesrelationer med
 interna parter.
 
-9. Överenskommelse  vid gemensamt  personuppgiftsansvar
+9\. Överenskommelse  vid gemensamt  personuppgiftsansvar
 När två personuppgiftsansvariga använder och kan besluta om ändamål och medel för behandlingen av
 personuppgifter i ett och samma system föreligger ett gemensamt personuppgiftsansvar. Gemensamt
 personuppgiftsansvar kan finnas med en extern personuppgiftsansvarig part (exempelvis en extern utförare
@@ -4550,7 +4550,7 @@ vid gemensamt personuppgiftsansvar mellan två eller flera nämnder.
 Nämnderna, bolagen och stiftelsen ska ha en sammanställning över aktuella avtal som reglerar deras
 gemensamma personuppgiftsansvar med externa och interna parter.
 
-10. Information till de registrerade
+10\. Information till de registrerade
 
 Kommunstyrelsens förvaltning ska ta fram och tillhandahålla övergripande information om kommunens
 personuppgiftsbehandling och de registrerades rättigheter i syfte att underlätta för de personuppgifts-
@@ -4560,7 +4560,7 @@ Varje nämnd, bolag och stiftelse ska därutöver ha rutiner för hur informatio
 tillhandahållas utifrån den behandling som utförs inom dess verksamhetsområde i enlighet med kraven i
 artikel 12-14 i GDPR.
 
-11. Tillgång, rättelse, radering, begränsning, flytt av personuppgifter,
+11\. Tillgång, rättelse, radering, begränsning, flytt av personuppgifter,
 invändning och klagomål
 
 Kommunstyrelsens förvaltning ska samordna kommunens rutiner för hanteringen av begäranden från
@@ -4616,7 +4616,7 @@ För hanteringen av personuppgifter gäller även Kungsbacka kommuns riktlinjer 
 personuppgifter och integritetspolicy. De här reglerna kompletterar dessa styrdokument och styrdokument på
 angränsande områden, såsom arkiv och informationshantering.
 
-1. Den personuppgiftsansvariges rättigheter och skyldigheter
+1\. Den personuppgiftsansvariges rättigheter och skyldigheter
 Den personuppgiftsansvarige är ansvarig för att säkerställa att behandlingen av personuppgifter utförs i
 enlighet med GDPR (se artikel 24 i GDPR), annan tillämplig dataskyddslagstiftning i Sverige och EU samt
 dessa regler.
@@ -4626,7 +4626,7 @@ personuppgifter.
 Den personuppgiftsansvarige är bland annat ansvarig för att den behandling av personuppgifter som
 personuppgiftsbiträden ombeds utföra har laglig grund.
 
-2. Personuppgiftsbiträden ska följa anvisningarna
+2\. Personuppgiftsbiträden ska följa anvisningarna
 Personuppgiftsbiträden får enbart behandla personuppgifter enligt den dokumenterade instruktionen från den
 personuppgiftsansvarige, om de inte är skyldiga att göra detta enligt unionens eller tillämplig
 dataskyddslagstiftning i Sverige. Sådana anvisningar ska anges i en särskild instruktion. Efterföljande
@@ -4637,7 +4637,7 @@ Personuppgiftsbiträdet ska omedelbart informera den personuppgiftsansvarige om 
 personuppgiftsbiträdets uppfattning inte följer GDPR eller annan tillämplig dataskyddslagstiftning i Sverige
 och EU.
 
-3. Sekretess
+3\. Sekretess
 Personuppgiftsbiträdet ska endast bevilja tillgång till de personuppgifter som behandlas för den
 personuppgiftsansvariges räkning till personer som är underställda personuppgiftsbiträdet och som behöver
 uppgifterna för att utföra behandlingen. Personuppgiftsbiträdet ansvarar för att dessa personer iakttar den
@@ -4657,7 +4657,7 @@ Personsuppgiftsbiträdet ska föra en förteckning av de personer som beviljats 
 Förteckningen ska granskas regelbundet. Med granskningen som grund ska tillgången till personuppgifter
 återkallas om tillgången inte längre är nödvändig.
 
-4. Säkerhet vid behandling
+4\. Säkerhet vid behandling
 
 I artikel 32 i GDPR anges att med beaktande av tidigare känd teknik, genomförandekostnader och
 behandlingens art, omfattning, sammanhang och ändamål samt risken, av varierande sannolikhets- och
@@ -4694,7 +4694,7 @@ att ytterligare åtgärder vidtas av personuppgiftsbiträdet än de som redan ha
 GDPR, ska den personuppgiftsansvarige ange att dessa ytterligare åtgärder ska vidtas i instruktionen till
 personuppgiftsbiträdet.
 
-5. Användning av underleverantörer
+5\. Användning av underleverantörer
 Personuppgiftsbiträdet ska uppfylla de krav som anges i artikel 28.2 och 28.4 i GDPR om ett annat
 personuppgiftsbiträde anlitas (en underleverantör).
 
@@ -4731,7 +4731,7 @@ avseende tillägg eller utbyte av underleverantörer minst 30 dagar i förväg o
 personuppgiftsansvarige möjlighet att invända mot sådana förändringar innan berörd underleverantör anlitas.
 Den personuppgiftsansvariga har rätt att med anledning av en sådan invändning avbryta biträdesförhållandet.
 
-6. Överföring av uppgifter till tredjeland eller internationella
+6\. Överföring av uppgifter till tredjeland eller internationella
 organisationer
 
 Överföring av personuppgifter till tredjeland eller internationella organisationer av personuppgiftsbiträdet får
@@ -4739,7 +4739,7 @@ endast utföras om den personuppgiftsansvarige har medgett det i sin instruktion
 enligt unionsrätten eller enligt svensk rätt som personuppgiftsbiträdet omfattas av. Behandlingen ska alltid
 utföras i enlighet med kapitel V i GDPR.
 
-7. Stöd till den personuppgiftsansvarige
+7\. Stöd till den personuppgiftsansvarige
 
 7.1 Registrerades rättigheter
 Med beaktande av behandlingens art ska personuppgiftsbiträdet bistå den personuppgiftsansvarige med
@@ -4811,7 +4811,7 @@ b. De troliga konsekvenserna av personuppgiftsincidenten.
 c. Åtgärderna som vidtagits eller föreslås för att hantera personuppgiftsincidenten, inbegripet när så är
 lämpligt åtgärder för att mildra dess potentiella skadliga effekter.
 
-8. Radera och återlämna uppgifter
+8\. Radera och återlämna uppgifter
 När personuppgiftsbehandlingen avslutas ska personuppgiftsbiträdet radera eller återlämna alla
 personuppgifter till den personuppgiftsansvarige och radera befintliga kopior i enlighet med den
 personuppgiftsansvariges instruktion, om det inte enligt unionens eller svensk lagstiftning krävs att
@@ -4825,7 +4825,7 @@ Kungsbacka kommun
 Vid gallring och arkivering av personuppgifter ska gällande lagstiftning och kommunens styrdokument
 gällande arkivering och informationsförvaltning tillämpas.
 
-9. Granskning och inspektion
+9\. Granskning och inspektion
 
 Personuppgiftsbiträdet ska för den personuppgiftsansvarige tillgängliggöra all information som krävs för att
 visa att de skyldigheter som anges i artikel 28 och i de här reglerna efterlevs, samt underlätta uppföljning och
@@ -4834,7 +4834,7 @@ personuppgiftsansvarige.
 Personuppgiftsbiträdet ska även ge behöriga tillsynsmyndigheter, eller ombud som agerar på uppdrag av
 sådana tillsynsmyndigheter, tillgång till personuppgiftsbiträdets fysiska lokaler.
 
-10. Överenskommelser  om  andra villkor
+10\. Överenskommelser  om  andra villkor
 När personuppgiftsbehandling läggs över från en nämnd till en annan ska personuppgiftsansvarig kontrollera
 
 om personuppgiftsbehandlingarna styrs av speciallagstiftning eller myndighetsutövning som medger att de
@@ -4844,7 +4844,7 @@ behandlingen av personuppgifter genom att exempelvis ange ansvarsskyldighet, så
 direkt eller indirekt mot de här reglerna eller den registrerades grundläggande rättigheter eller friheter och det
 skydd som anges i GDPR.
 
-11. Ersättning för skada
+11\. Ersättning för skada
 Vid ersättning för skada i samband med behandling som genom fastställd dom eller förlikning ska utgå till
 den registrerade på grund av överträdelse av bestämmelse i de här reglerna och/eller tillämplig bestämmelse i
 
@@ -4895,10 +4895,10 @@ herr- och damtoaletter vid om- och nybyggnation.
 Motionärerna argumenterar för att separerade toaletter för män och kvinnor skulle bidra till en tryggare
 och mer bekväm miljö för alla användare. Särskilt kvinnor kan känna sig obekväma och utsatta när
 toaletter delas med personer av motsatt kön menar motionärerna. Motionärerna föreslår att:
--  kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
+\-  kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
 separerade dam- och herrtoaletter prioriteras.
 
--  kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga toaletter
+\-  kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga toaletter
 ska separerade dam- och herrtoaletter prioriteras.
 
 Beslutsunderlag
@@ -4997,9 +4997,9 @@ sexuella övergrepp och trakasserier och andra obehagliga situationer.
 Sverigedemokraterna i Kungsbacka föreslår med anledning av ovanstående
 fullmäktige besluta:
 
--  Att: kommunen tar fram riktlinjer som visar att vid planering av nya
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering av nya
 offentliga toaletter ska separerade dam- och herrtoaletter prioriteras.
--  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering
 av offentliga toaletter ska separerade dam- och herrtoaletter prioriteras.
 
 Då det finns fler användare av toaletter än damer och herrar skulle förslaget med
@@ -5120,9 +5120,9 @@ uppdelning kan risken minska för sexuella övergrepp och trakasserier och andra
 situationer. Sverigedemokraterna i Kungsbacka föreslår med anledning av ovanstående fullmäktige
 besluta:
 
--  Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
 separerade dam- och herrtoaletter prioriteras.
--  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga
 
 toaletter ska separerade dam- och herrtoaletter prioriteras.
 
@@ -5210,9 +5210,9 @@ sexuella övergrepp och trakasserier och andra obehagliga situationer.
 Sverigedemokraterna i Kungsbacka föreslår med anledning av ovanstående
 fullmäktige besluta:
 
-- Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga
+\- Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga
 toaletter ska separerade dam- och herrtoaletter prioriteras.
-- Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av
+\- Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av
 offentliga toaletter ska separerade dam- och herrtoaletter prioriteras.
 
 Beslutsunderlag
@@ -5276,10 +5276,10 @@ obekväma och utsatta när toaletter delas med personer av motsatt kön. Av moti
 uppdelning kan risken minska för sexuella övergrepp och trakasserier och andra obehagliga
 situationer. Sverigedemokraterna i Kungsbacka föreslår med anledning av ovanstående fullmäktige
 besluta:
--  Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering av nya offentliga toaletter ska
 separerade dam- och herrtoaletter prioriteras.
 
--  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga
+\-  Att: kommunen tar fram riktlinjer som visar att vid planering inför renovering av offentliga
 toaletter ska separerade dam- och herrtoaletter prioriteras.
 
 Beslutsunderlag

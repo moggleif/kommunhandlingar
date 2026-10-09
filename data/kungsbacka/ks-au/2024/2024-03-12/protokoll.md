@@ -166,7 +166,7 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Malin Aronsson lämnar följande information:
-- Länsstyrelsen i Halland har genomfört ett så kallat Upprop mot mäns våld mot
+\- Länsstyrelsen i Halland har genomfört ett så kallat Upprop mot mäns våld mot
 
 kvinnor. Arbetet inleddes redan 2023 och syftar till att kraftsamla i länet i frågan.
 Länsstyrelsen har även tagit fram en rapport ”Ett jämställt Halland” Strategi för
@@ -182,11 +182,11 @@ rörande mäns våld mot kvinnor. Kungsbacka kommun har en relativt ny
 handlingsplan för arbetet, men det kan finnas anledning att revidera den.
 
 Biträdande kommundirektör Anders Johansson lämnar följande information:
-- en första förfrågan har kommit om att delta i ett projekt inom ramen för Sveriges
+\- en första förfrågan har kommit om att delta i ett projekt inom ramen för Sveriges
 kommuner och regioners (SKR) handslag för digitalisering. Projektet rör
 
 cybersäkerhet.
-- Kommunstyrelsens förvaltning har uppmärksammat att även Policy för
+\- Kommunstyrelsens förvaltning har uppmärksammat att även Policy för
 finansverksamhet skulle behöva ändras med anledning av de föreslagna
 förändringarna i riktlinjer för finansverksamhet, som kommunstyrelsens
 arbetsutskott beslutade om på sitt sammanträde. Eventuella förändringar i policy

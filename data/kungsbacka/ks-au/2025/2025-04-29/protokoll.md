@@ -186,9 +186,9 @@ Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen beviljar avvikelse från regler om maxlängden på 20 timmar för ett
 arbetspass till 24 timmar inom:
 
-1. personlig assistans för situationer då brukare ska genomföra resor på semester
+1\. personlig assistans för situationer då brukare ska genomföra resor på semester
 eller inom sitt arbete och
-2. lägerverksamheten för barn och unga.
+2\. lägerverksamheten för barn och unga.
 
 Beslutet gäller under perioden 1 juni 2025–31 maj 2026.
 
@@ -407,12 +407,12 @@ Kommunstyrelsens arbetsutskott får information om hur arbetet med Kungsbacka
 Arena fortskrider.
 
 Informationen berör samtliga delprojekt:
-- Projektering
-- Uthyrning
-- Detalplanen som klar att gå ut på gransking
-- Dialog med föreningslivet
-- Evenemang
-- Kommunikation
+\- Projektering
+\- Uthyrning
+\- Detalplanen som klar att gå ut på gransking
+\- Dialog med föreningslivet
+\- Evenemang
+\- Kommunikation
 
 Utöver det får utskottet information om riskanalys för överklagande av beslut,
 kommande aktiviteter samt innehåll i tjänsteskrivelse inför kommande beslut.
@@ -511,14 +511,14 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Biträdande kommundirektör Anders Johansson lämnar följande information:
-- Det var felaktig information i Norra Halland rörande den sanktionsavgift som
+\- Det var felaktig information i Norra Halland rörande den sanktionsavgift som
 
 kommunen fick sommaren 2024. Sanktionsavgiften är föremål för rättslig
 prövning och kommunen har inte fått besked från rätten avgiften.
-- Kungsbacka har fått inbjudan att delta i Mediemyndighetens Safer Internet
+\- Kungsbacka har fått inbjudan att delta i Mediemyndighetens Safer Internet
 Centres, rådgivande grupp och Kultur & Fritid kommer att delta i den.
 
-- Kommunstyrelsens förvaltning har påbörjat ett arbete med deltagande i Frivilliga
+\- Kommunstyrelsens förvaltning har påbörjat ett arbete med deltagande i Frivilliga
 Resursgruppen. Frivilliga resursgruppen (FRG) är ett samarbete mellan
 kommuner och de frivilliga försvarsorganisationerna. Frivilliga resursgruppen får
 stöd från Myndigheten för samhällsskydd och beredskap, MSB. FRG finns i hela

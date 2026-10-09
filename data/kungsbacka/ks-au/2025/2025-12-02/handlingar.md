@@ -192,7 +192,7 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN
 
-22)
+22\)
 Nämnd Område Begärt belopp, kronor | Beviljat belopp, kronor
 Teknik Grönt spadtag för 500 000
 gemenskap
@@ -312,7 +312,7 @@ www.kungsbacka.se
 <!-- sida 12 -->
 
 KUNGSBACKA KOMMUN
-22)
+22\)
 
 Beskrivning av ärendet
 
@@ -484,7 +484,7 @@ Utdelning av fondens medel enligt urkundens villkor för Ekonomichef eller finan
 
 de stiftelser som tillhör kommunstyrelsens förvaltning
 
-Kommunstyrelsens beslut 2019-06-18, $ 169, upphör samtidigt att gälla.
+Kommunstyrelsens beslut 2019-06-18, \$ 169, upphör samtidigt att gälla.
 
 Sammanfattning av ärendet
 
@@ -495,7 +495,7 @@ utdelning i enlighet med urkundens villkor.
 Kommunstyrelsens förvaltning hanterar den ekonomiska delen för samtliga stiftelser som kommunen
 förvaltar. Utdelning ur fondens medel beslutas dock av den nämnd som framgår av stiftelsens urkund.
 
-12)
+12\)
 
 Kungsbacka kommun
 
@@ -690,27 +690,27 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 23 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 Taxan tillämpas avseende nedanstående punkter i den utsträckning som närmare
 föreskrivs i nedanstående taxebestämmelser.
 
-1. beslut om planbesked, förhandsbesked, villkorsbesked, startbesked,
+1\. beslut om planbesked, förhandsbesked, villkorsbesked, startbesked,
 slutbesked och ingripandebesked,
-2. beslut om lov
+2\. beslut om lov
 
-3. tekniska samråd och slutsamråd,
-4. arbetsplatsbesök och andra tillsynsbesök på byggarbetsplatsen,
-5. upprättande av nybyggnadskartor.
+3\. tekniska samråd och slutsamråd,
+4\. arbetsplatsbesök och andra tillsynsbesök på byggarbetsplatsen,
+5\. upprättande av nybyggnadskartor.
 
-6. framställning av arkivbeständiga handlingar,
-7. expediering och kungörelse enligt 9 kap. 41-41 b §§ plan- och bygglagen
+6\. framställning av arkivbeständiga handlingar,
+7\. expediering och kungörelse enligt 9 kap. 41-41 b §§ plan- och bygglagen
 (PBL), och
 
-8. andra tids- eller kostnadskrävande åtgärder.
+8\. andra tids- eller kostnadskrävande åtgärder.
 Taxan är beslutad med stöd av 12 kap 8 § plan- och bygglagen (PBL), (2010:900).
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Avgift tas ut enligt de grunder eller principer som framgår av 2 kap 6 §
 kommunallagen (KL) samt i 12 kap 10 § PBL. Kommunen får inte ta ut högre
@@ -814,7 +814,7 @@ Area (m2): BTA + OPA                        OF
 0 - 100                                      5
 101 - 1000                                   25
 1001 - 5000                                  55
->5001                                       105
+\>5001                                       105
 
 Timdebitering
 För vissa ärendetyper anges ”Timdebitering”. I dessa fall beräknas avgiften genom
@@ -886,13 +886,13 @@ Exploateringsavtalet förhandlas löpande under planprocessen och ska vara
 undertecknat av exploatören före detaljplanen antas av byggnadsnämnden eller
 kommunfullmäktige. Detaljplanen antas efter att kommunstyrelsen eller
 kommunfullmäktige godkänt exploateringsavtalet.
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Mervärdesskatt tas inte ut på avgifter som baseras på myndighetsutövning.
 
 Mervärdesskatt tas däremot ut på avgifter enligt tabell A16, A22, A23.
 
-4. Ändring av taxan
+4\. Ändring av taxan
 Ändringar av taxan beslutas av kommunfullmäktige.
 
 Kungsbacka kommun   Taxa för Kungsbacka kommuns plan- och byggverksamhet 5 (21)
@@ -913,7 +913,7 @@ Kommunstyrelsen får för varje kalenderår (avgiftsår) därefter besluta att j
 avgiftsbeloppen (fasta avgifter och timavgifter) i tabell B1-3 samt
 handläggningskostnad per timme B.
 
-5. Övriga upplysningar
+5\. Övriga upplysningar
 
 Betalning av avgift
 Avgift enligt denna taxa betalas av sökanden/beställaren mot faktura när denne
@@ -1237,7 +1237,7 @@ skyddsbestämmelser som har beslutats med stöd av 4 kap. 16 8 eller 42 8 först
 plan- och bygglagen eller motsvarande äldre föreskrifter, utan tekniskt samråd
 A 8.17 | Nybyggnad eller väsentlig ändring av ett vindkraftverk, med tekniskt samråd 17 955 kr
 A 8.18 | Nybyggnad eller väsentlig ändring av ett vindkraftverk, utan tekniskt samråd 6 650 kr
-A 8.19 | Uppförande eller tillbyggnad av sådan komplementbyggnad som avses i 9 kap. 4a $& plan- 13 300 kr
+A 8.19 | Uppförande eller tillbyggnad av sådan komplementbyggnad som avses i 9 kap. 4a \$& plan- 13 300 kr
 och bygglagen, med tekniskt samråd
 Attefallshus
 A 8.20 | Uppförande eller tillbyggnad av sådan komplementbyggnad som avses i 9 kap. 4a 8 plan- r315kr
@@ -1375,13 +1375,13 @@ samma uppdrag och exploateringsområde
 reduceras avgiften med 3090). Moms
 tillkommer.
 A 16.2 Finutstakning 9 310 kr
-+ moms
+\+ moms
 A 16.3 Grov- och finutstakning | 13 300 kr
-+ moms
+\+ moms
 A 16.4 | Utstakning av enbart komplementbyggnad. | Grovutstakning | 3 990 kr
 Moms tillkommer. + moms
 A 16.5 Finutstakning 5 320 kr
-+ moms
+\+ moms
 A 16.6 | Utstakning av avstånd till gräns vid tillbyggnad. 4 655 kr
 Moms tillkommer. + moms
 A 16.7 | Lägeskontroll (vid lägeskontroll av flera 4 655 kr
@@ -1389,7 +1389,7 @@ likartade byggnader inom samma uppdrag och + moms
 exploateringsområde reduceras avgiften med
 3096). Moms tillkommer.
 A 16.8 | B-fix (byggfix). Moms tillkommer. 1 995 kr
-+ moms
+\+ moms
 A 16.9 | Godkännande av sakkunnig för utstakning i | 1 995 kr
 egen regi + moms
 
@@ -1577,15 +1577,15 @@ Prisindex kommunal verksamhet
 PKV
 
 2024 2025   2026  2027   2028  2029
-Arbetskraftskostnad*       5,2   -0,3  3,0    3,1   4,3    3,4
+Arbetskraftskostnad\*       5,2   -0,3  3,0    3,1   4,3    3,4
 vikt arbetskraftskostnad  68,6% 69,7% 68,8% 68,9%  69,2% 69,2%
 
-Övrig förbrukning**         2,8  3,1   2,2    2,5   3,0    2,6
+Övrig förbrukning\*\*         2,8  3,1   2,2    2,5   3,0    2,6
 vikt övrig förbrukning    31,4% 30,3% 31,2% 31,1%  30,8% 30,8%
 Prisindex kommunal verksamhet 4,5 0,7  2,8    2,9   3,9    3,1
 
-* Lönekostnadsförändring inkl. förändring i arbetsgivaravgifter.
-** 40 % lönekostnadsförändring och 60% KPIF för åren 2026-2029
+\* Lönekostnadsförändring inkl. förändring i arbetsgivaravgifter.
+\*\* 40 % lönekostnadsförändring och 60% KPIF för åren 2026-2029
 
 1 (1)
 
@@ -1729,7 +1729,7 @@ Kommunens inställning i detalj
 Kommunrevisionen lämnar nedanstående tre rekommendationer och önskar svar med vilka åtgärder
 som planeras, vilken verksamhet som ansvarar och när åtgärder ska vidtas.
 
-1. Kommunrevisionens rekommendation: Överväga att besluta om riktlinjer för
+1\. Kommunrevisionens rekommendation: Överväga att besluta om riktlinjer för
 kommunstyrelsens uppsikt som tydliggör uppsiktens inriktning, omfattning och genomförande
 1 syfte att skapa en transparens och överskådlighet av uppsiktsplikten i dess helhet.
 
@@ -1740,7 +1740,7 @@ strävan att ytterligare tydliggöra uppsiktens genomförande för att skapa tra
 överskådlighet. Kommunstyrelsens förvaltning ansvarar för att utveckla arbetssätten kring
 uppföljning av uppsiktsplikten vilket sker löpande.
 
-2. Kommunrevisionens rekommendation: Säkerställa årligt ärende i enlighet med 6 kap. 9 $
+2\. Kommunrevisionens rekommendation: Säkerställa årligt ärende i enlighet med 6 kap. 9 \$
 KL, dvs den utökade uppsiktsplikten över kommunens bolag.
 
 Kommunstyrelsens svar: Kommunstyrelsen avser att säkerställa ett årligt ärende för den
@@ -1749,8 +1749,8 @@ att årligen anmäla ett särskilt ärende till kommunstyrelsen. Kommunstyrelsen
 utifrån årlig rutin. Tidpunkten för genomförande är första halvåret 2026 i samband med att
 årsredovisning och revisionsrapport tas upp för beslut.
 
-3. Kommunrevisionens rekommendation: Säkerställa transparens och tydlighet kring årligt
-ärende om avtalssamverkan i enlighet med 9 kap. 38 $ KL.
+3\. Kommunrevisionens rekommendation: Säkerställa transparens och tydlighet kring årligt
+ärende om avtalssamverkan i enlighet med 9 kap. 38 \$ KL.
 
 1
 Kommunstyrelsen 2) Kungsbacka kommun
@@ -1806,7 +1806,7 @@ working world
 Innehållsförteckning
 
 Sammanfattning .................................................................... 3
-1.  Inledning ...................................................................... 4
+1\.  Inledning ...................................................................... 4
 
 1.1. Bakgrund ..................................................................... 4
 1.2. Syfte och revisionsfrågor ............................................. 4
@@ -1815,8 +1815,8 @@ Sammanfattning .................................................................
 1.4. Metod .......................................................................... 4
 1.5. Avgränsningar och ansvarig nämnd ............................. 4
 
-2.  Uppsiktsplikt i lag och praxis .................................... 5
-3.  Uppsiktsplikt i Kungsbacka ....................................... 7
+2\.  Uppsiktsplikt i lag och praxis .................................... 5
+3\.  Uppsiktsplikt i Kungsbacka ....................................... 7
 3.1. Vår bedömning ............................................................ 7
 
 3.2. Riktlinjer, rutiner och styrdokument .............................. 7
@@ -1824,7 +1824,7 @@ Sammanfattning .................................................................
 av densamma .......................................................................... 9
 
 3.4. Fastställda former för rapportering till fullmäktige ....... 10
-4.  Samlad bedömning och rekommendationer ........... 12
+4\.  Samlad bedömning och rekommendationer ........... 12
 
 4.1. Bedömning utifrån revisionsfrågorna .......................... 12
 4.2. Slutsatser och rekommendationer .............................. 13
@@ -1871,7 +1871,7 @@ plikten av kommunens bolag.
 
 <!-- sida 54 -->
 
-1. Inledning                                 1.3. Revisionskriterier
+1\. Inledning                                 1.3. Revisionskriterier
 Med revisionskriterier avses de bedömningsgrunder som bildar
 1.1. Bakgrund                                underlag för revisionens analyser, slutsatser och bedömningar.
 
@@ -1891,7 +1891,7 @@ getts tillfälle att sakfelsgranska rapporten.
 kommunstyrelsens uppsiktsplikt. Granskningen genomförs som
 en fördjupad insats inom ramen för grundläggande granskning
 1.5. Avgränsningar och ansvarig nämnd
-2025.
+2025\.
 Granskningen avser kommunstyrelsen utifrån presenterade
 revisionsfrågor.
 1.2. Syfte och revisionsfrågor
@@ -1912,7 +1912,7 @@ instanser ändamålsenligt?
 
 <!-- sida 55 -->
 
-2. Uppsiktsplikt i lag och praxis            Uppsiktsplikten kan sägas ha två olika funktioner; en reaktiv och
+2\. Uppsiktsplikt i lag och praxis            Uppsiktsplikten kan sägas ha två olika funktioner; en reaktiv och
 proaktiv funktion. Den förstnämnda innebär att en uppföljning
 I kommunallagen (2017:725), KL, framgår att styrelsen ska leda
 sker i efterhand att utförd verksamhet och dess förenlighet med
@@ -1988,7 +1988,7 @@ för uppsiktsplikten.
 
 <!-- sida 57 -->
 
-3. Uppsiktsplikt i Kungsbacka
+3\. Uppsiktsplikt i Kungsbacka
 
 3.2. Riktlinjer, rutiner och styrdokument
 3.1. Vår bedömning
@@ -2168,7 +2168,7 @@ Någon dokumentation kring fastställda former för rapportering i
 
 <!-- sida 62 -->
 
-4. Samlad bedömning och rekommendationer
+4\. Samlad bedömning och rekommendationer
 
 4.1. Bedömning utifrån revisionsfrågorna
 
@@ -2664,7 +2664,7 @@ fram riktlinjer för kommunala
 arrenden. Uppdraget ska
 återrapporteras till
 kommunstyrelsen senast december
-2021.
+2021\.
 2020-00236 Uppdrag att omlokalisera Kommunstyrelsen ger 2020-05-26 Status hösten 2025: Kommunfullmäktige
 
 återvinningscentral inom
@@ -2677,7 +2677,7 @@ verksamhetsområde.
 
 Uppdraget ska redovisas till
 kommunstyrelsen senast december
-2020.
+2020\.
 
 Frågan hanteras inom ramen för detaljplanen
 för Klovsten, som har antagits i KF maj 2025.
@@ -2719,7 +2719,7 @@ Status hösten 2025:
 
 Arbetet med åtgärdsplan pågår. Målsättning
 är att arbetet beräknas bli klart under våren
-2026.
+2026\.
 
 Kommunfullmäktige
 
@@ -3556,7 +3556,7 @@ Sign
 
 9.1
 
-10.
+10\.
 
 10.1
 
@@ -3631,7 +3631,7 @@ Liläde
 
 11.4
 
-12.
+12\.
 
 12.1
 
@@ -3709,7 +3709,7 @@ Sign
 
 <!-- sida 90 -->
 
-14.
+14\.
 
 14.1
 
@@ -3725,17 +3725,17 @@ ISA
 
 15.4
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 I]
 
 17.2
 
-18.
+18\.
 
 18.1
 
@@ -3809,11 +3809,11 @@ Sign
 
 19.1
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 Zl
 
@@ -3823,7 +3823,7 @@ AR
 
 21.4
 
-22.
+22\.
 
 22.1
 
@@ -3901,27 +3901,27 @@ Sign
 
 <!-- sida 92 -->
 
-23.
+23\.
 
 23.1
 
 Fr
 
-24.
+24\.
 
 24.1
 
-25.
+25\.
 
 251
 
 br
 
-26.
+26\.
 
 26.1
 
-27.
+27\.
 
 hel
 
@@ -3987,7 +3987,7 @@ Sign
 
 <!-- sida 93 -->
 
-28. Tvist
+28\. Tvist
 
 11
 
@@ -4243,7 +4243,7 @@ I kommunens handlingsplan för nya verksamhetsområden pekades
 fastigheten Duvehed 2:14 som ligger öster om Västkustbanan, söder om
 Tostaredsvägen (väg 916), ut som nästa område att utveckla i Fjärås
 stationssamhälle. Detaljplanen för Duvehed 2:14 vann laga kraft under hösten
-2016. Kommunen anser att läget intill järnvägen och närheten till motorvägen
+2016\. Kommunen anser att läget intill järnvägen och närheten till motorvägen
 gör att området har goda förutsättningar för att företag med transportintensiv
 verksamhet ska kunna etablera sig. Idag saknas en gång- och cykelväg för
 oskyddade trafikanter som förflyttar sig längs sträckan mellan det nya
@@ -4400,24 +4400,24 @@ anläggningar enligt § 5 om det inte påverkar förutsättningarna för hela
 projektet. För övrigt gäller följande:
 9.1    Planer, tillstånd och myndighetsbeslut
 Trafikverkets ansvar
-1. Trafikverket ansvarar för att tillämpliga lagar och andra författningar
+1\. Trafikverket ansvarar för att tillämpliga lagar och andra författningar
 samt myndighetsbeslut iakttas för åtgärderna som Trafikverket ansvarar
 för.
-2. Trafikverket svarar för formell hantering enligt väglagen för åtgärderna i
+2\. Trafikverket svarar för formell hantering enligt väglagen för åtgärderna i
 statlig anläggning (upprättande av vägplan eller ställningstagande SO-
 åtgärd).
 Kommunens ansvar
-1. Kommunen ansvarar för att tillämpliga lagar och andra författningar samt
+1\. Kommunen ansvarar för att tillämpliga lagar och andra författningar samt
 myndighetsbeslut iakttas för åtgärd 1, som Kommunen ansvarar för.
-2. Kommunen genomför och bekostar eventuellt erforderliga ändringar av
+2\. Kommunen genomför och bekostar eventuellt erforderliga ändringar av
 detaljplaner för genomförande av åtgärder knutna till detta avtal.
 9.2    Genomförande
 Trafikverkets ansvar
-1.   Trafikverket ska utföra eller låta utföra åtgärderna inom det statliga
+1\.   Trafikverket ska utföra eller låta utföra åtgärderna inom det statliga
 åtagandet som omfattas av detta avtal §§5 och 6.
-2.   Trafikverket svarar för projektering av åtgärder 3, 4, 5.
-3.   Trafikverket svarar för byggande av åtgärder 3, 4, 5.
-4.   Trafikverket svarar för att dialog förs med Västtrafik.
+2\.   Trafikverket svarar för projektering av åtgärder 3, 4, 5.
+3\.   Trafikverket svarar för byggande av åtgärder 3, 4, 5.
+4\.   Trafikverket svarar för att dialog förs med Västtrafik.
 
 <!-- sida 110 -->
 
@@ -4435,32 +4435,32 @@ gnireisnaniF
 2640
 LLAMT
 Kommunens ansvar
-1. Kommunen ska utföra eller låta utföra de åtgärder som inte ingår i det
+1\. Kommunen ska utföra eller låta utföra de åtgärder som inte ingår i det
 statliga åtagandet och som omfattas av detta avtal §§5 och 6.
-2. Kommunen ska (är skyldig) att säkerställa att Trafikverkets krav följs. Alla
+2\. Kommunen ska (är skyldig) att säkerställa att Trafikverkets krav följs. Alla
 brister i utförandet ska Kommunen avhjälpa på egen hand.
-3. Kommunen ska informera Trafikverkets bevakningsledare om det
+3\. Kommunen ska informera Trafikverkets bevakningsledare om det
 uppkommer en risk att åtgärd kan påverka Trafikverkets anläggning på
 något sätt.
-4. Kommunen får inte godkänna slutbesiktning av åtgärd 1 utan
+4\. Kommunen får inte godkänna slutbesiktning av åtgärd 1 utan
 Trafikverkets medgivande.
-5. Kommunen svarar för genomförande av sin parallella investering i egen
+5\. Kommunen svarar för genomförande av sin parallella investering i egen
 anläggning.
-6. Kommunen svarar för projektering av åtgärd 1.
-7. Kommunen svarar för byggande av åtgärd 1.
-8. Kommunen har samordningsansvar för åtgärd 1.
+6\. Kommunen svarar för projektering av åtgärd 1.
+7\. Kommunen svarar för byggande av åtgärd 1.
+8\. Kommunen har samordningsansvar för åtgärd 1.
 9.3    Markförvärv och fastighetsbildning
 Kommunens ansvar
-1. Kommunen ska tillhandahålla den mark som behövs för projektets
+1\. Kommunen ska tillhandahålla den mark som behövs för projektets
 genomförande.
-2. Kommunen ska, utan ersättning, tillhandahålla den mark som behövs för
+2\. Kommunen ska, utan ersättning, tillhandahålla den mark som behövs för
 projektets genomförande samt drift och underhåll.
 9.4    Ägaransvar och förvaltningsansvar
 Trafikverkets ansvar
-1. Trafikverket blir efter färdigställandet väghållare och sköter och bekostar
+1\. Trafikverket blir efter färdigställandet väghållare och sköter och bekostar
 framtida drift och underhåll samt eventuell förnyelse av åtgärd 3, 4, 5.
 Kommunens ansvar
-1. Kommunen blir efter färdigställandet väghållare och sköter och bekostar
+1\. Kommunen blir efter färdigställandet väghållare och sköter och bekostar
 framtida drift och underhåll samt eventuell förnyelse av åtgärd 1.
 
 <!-- sida 111 -->
@@ -4480,20 +4480,20 @@ gnireisnaniF
 LLAMT
 9.5    Övrigt
 Trafikverkets ansvar
-1. Trafikverket ansvarar för att tillsätta en bevakningsledare som kommer att
+1\. Trafikverket ansvarar för att tillsätta en bevakningsledare som kommer att
 fungera som kontaktperson vid frågor.
-2. Trafikverket ansvarar för att säkerställa en cirkulär masshantering i ett
+2\. Trafikverket ansvarar för att säkerställa en cirkulär masshantering i ett
 tidigt skede och att skapa förutsättningar för en mer resurseffektivt
 nyttjande av massor i genomförandeprocessen. Överlåtelse av massor till
 annan part regleras genom överlåtelsehandlingar.
 Kommunens ansvar
-1. Kommunen ansvarar för att bevakningsledaren kallas till erforderliga
+1\. Kommunen ansvarar för att bevakningsledaren kallas till erforderliga
 möten och får ta del av erforderligt material för genomförande av
 uppgifterna enligt §5.
-2. Kommunen ansvarar för att upprätta och överlämna förvaltningsdata i
+2\. Kommunen ansvarar för att upprätta och överlämna förvaltningsdata i
 enlighet med Trafikverket önskemål.
-3. Kommunen tillhandahåller nödvändigt kartmaterial utan ersättning.
-3. Kommunen ansvarar för att säkerställa en cirkulär masshantering i ett
+3\. Kommunen tillhandahåller nödvändigt kartmaterial utan ersättning.
+3\. Kommunen ansvarar för att säkerställa en cirkulär masshantering i ett
 tidigt skede och att skapa förutsättningar för en mer resurseffektivt
 nyttjande av massor i genomförandeprocessen. Överlåtelse av massor till
 annan part regleras genom överlåtelsehandlingar.
@@ -4571,17 +4571,17 @@ hco
 gnireisnaniF
 2640
 LLAMT
-____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Detta avtal är upprättat i 2 likalydande exemplar varav parterna tagit var sitt.
-_______________________      _____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum                Ort och datum
-_______________________       _____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Hanna Jonsson                Lisa Andersson
 Enhetschef Infrastrukturplanering väg Kommunstyrelsens ordförande
 Trafikverket                 Kungsbacka kommun
-_____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum
-_____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Rikard Vidlund
 Kommundirektör
 Kungsbacka kommun
@@ -4695,7 +4695,7 @@ Kommundirektör                     Samhällsbyggnadschef
 TILLÄGGSAVTAL TILL EXPLOATERINGSAVTAL
 Kvarteret Banken
 
-1. PARTER
+1\. PARTER
 
 Kungsbacka kommun (212000-1256), 434 81 Kungsbacka, nedan kallad
 Kommunen.
@@ -4704,12 +4704,12 @@ Dan Stenlund Fastigheter AB (556950-8434), nedan kallat Bolaget
 
 Kommunen och Bolaget kallas gemensamt nedan för Parterna.
 
-2. BAKGRUND OCH FÖRUTSÄTTNINGAR
+2\. BAKGRUND OCH FÖRUTSÄTTNINGAR
 
 Kommunen antog en ny detaljplan för kvarteret Banken 2019-06-11 (KS/2019:341
-$85), vilken vann laga kraft 2019-07-15. I samband med detaljplanens antagande
+\$85), vilken vann laga kraft 2019-07-15. I samband med detaljplanens antagande
 godkändes även ett tillhörande exploateringsavtal avseende fastigheten Banken 13,
-tecknat mellan Parterna (KS/2019:220 $84)
+tecknat mellan Parterna (KS/2019:220 \$84)
 
 Detaljplanen syftar till att bevara kulturhistoriskt värdefulla byggnader och miljöer
 samtidigt som förutsättningar för en utveckling av kvarteret med bostäder samt
@@ -4730,14 +4730,14 @@ den säkerhet på 500 000 kronor som ställs i samband med tecknandet av
 exploateringsavtalet för Banken 13. Parterna har utifrån detta enats om att träffa
 detta tilläggsavtal.
 
-3. ÅTERLÄMNANDE AV SÄKERHET
+3\. ÅTERLÄMNANDE AV SÄKERHET
 Parterna är överens om att:
 
-- Punkten Säkerhet i exploateringsavtalet utgår och att Bolaget återfår erlagd
+\- Punkten Säkerhet i exploateringsavtalet utgår och att Bolaget återfår erlagd
 säkerhet när Kommunstyrelsens beslut om att godkänna detta tilläggsavtal har
 vunnit laga kraft.
 
--  Exploateringsavtalet i övrigt ska fortsätta att gälla med oförändrade villkor.
+\-  Exploateringsavtalet i övrigt ska fortsätta att gälla med oförändrade villkor.
 Vilket bland annat innebär att Kommunen kommer att återställa och anpassa
 omkringliggande kommunal allmän plats på Bolagets bekostnad för den
 händelse att Bolaget i framtiden genomför en utbyggnad i enlighet med
@@ -4759,7 +4759,7 @@ Kommundirektör
 
 <!-- sida 120 -->
 
-4.
+4\.
 
 EXPLOATERINGSAVTAL
 
@@ -4820,7 +4820,7 @@ EXPLOATERINGSAVTAL Kvarteret Banken Sida 1 av 6
 
 TT.
 
-10.
+10\.
 
 Bostädernas storlek och tillgång till andra mobilitetslösningar påverkar behovet av parkering som
 bedöms ligga i spannet 0,6-1 plats per bostad. Vilket ger ett behov av 6-10 platser inom kvarteret, se
@@ -4879,11 +4879,11 @@ EXPLOATERINGSAVTAL Kvarteret Banken Sida 2 av 6
 
 <!-- sida 122 -->
 
-11.
+11\.
 
-12.
+12\.
 
-13.
+13\.
 
 gemensamhetsanläggning inom Planområdet ska Bolaget i kontakt med övriga fastighetsägare inom
 Planområdet gemensamt ansöka om lantmäteriförrättning och stå för sin part av kostnaderna.
@@ -4944,11 +4944,11 @@ EXPLOATERINGSAVTAL Kvarteret Banken Sida 3 av 6
 
 <!-- sida 123 -->
 
-14.
+14\.
 
-15.
+15\.
 
-16.
+16\.
 
 TT.
 
@@ -5012,9 +5012,9 @@ EXPLOATERINGSAVTAL Kvarteret Banken Sida 4 av 6
 
 <!-- sida 124 -->
 
-18.
+18\.
 
-19.
+19\.
 
 Bolaget är skyldig att skriftligen meddela Kommunen vid eventuell överlåtelse av någon av Bolagets
 fastigheter samt vem som förvärvar fastigheten och den nya ägarens tillträdesdag.
@@ -5057,7 +5057,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 30 (51)
 
 Kommunfullmäktige Datum
 2019-06-11
-$ 84
+\$ 84
 Exploateringsavtal avseende kvarteret Banken för Dan Stenlund
 Fastigheter
 
@@ -5092,8 +5092,8 @@ rätten till ersättning till följd av varsamhets- och skyddsbestämmelser är 
 
 Beslutsunderlag
 
-Kommunstyrelsen 2019-05-28, $ 158
-Kommunstyrelsens arbetsutskott 2019-05-14, $ 169
+Kommunstyrelsen 2019-05-28, \$ 158
+Kommunstyrelsens arbetsutskott 2019-05-14, \$ 169
 Samhällsbyggnadskontorets tjänsteskrivelse, 2019-04-16
 
 Exploateringsavtal för Banken 13
@@ -5181,7 +5181,7 @@ KS/2019:341 Kungsbacka
 LAGAKRAFTBEVIS
 
 Detaljplan för centrumutveckling och bostäder i kvarteret Banken i Kungsbacka stad har antagits
-av kommunfullmäktige 2019-06-11 $85.
+av kommunfullmäktige 2019-06-11 \$85.
 
 Detaljplanen KP132 har vunnit laga kraft 2019-07-15 enligt 13:e kapitlet plan- och bygglagen.
 
@@ -5408,11 +5408,11 @@ Skriftväxling 2025-05-09 —-2025-11-11
 
 Svar på mejl inkomna 6 — 9 november, 2025-11-11
 
-Skrivelse med komplettering till begäran om normprövning enligt RF 11 kap. 14 $, 2025-11-09
+Skrivelse med komplettering till begäran om normprövning enligt RF 11 kap. 14 \$, 2025-11-09
 
 Skrivelse om avgränsning och skyltning av privat mark — och , 2025-11-07
 
-Begäran om normprövning enligt RF 11 kap. 4 $ innan beslut. 2025-11-06
+Begäran om normprövning enligt RF 11 kap. 4 \$ innan beslut. 2025-11-06
 
 Begäran om redovisning av lagstöd enligt förvaltningslagen, 2025-11-06
 
@@ -5442,7 +5442,7 @@ Skrivelse om handlingar samt komplettering, 2025-10-22
 
 Svar på mejl inkommet 21 oktober, 2025-10-22
 
-Begäran om beslut med anledning av dröjsmål, FL 12 $, 2025-10-21
+Begäran om beslut med anledning av dröjsmål, FL 12 \$, 2025-10-21
 
 Följebrev till skrivelse — ”Tllusionen av parkmark”, inkommen 2025-10-02
 
@@ -5504,11 +5504,11 @@ Begäran om ogiltigförklaring av detaljplanebestämmelse, a m. fl. 2025-05-09
 
 Kommunstyrelsens beslut 2019-02-19—2022-03-22
 
-Begäran om inlösen av , KS 2022-03-22, $ 63
+Begäran om inlösen av , KS 2022-03-22, \$ 63
 
-Förfrågan om planbesked , KS 2019-12-17 $ 326
+Förfrågan om planbesked , KS 2019-12-17 \$ 326
 
-Förfrågan om planbesked , KS 2019-02-19, $ 41
+Förfrågan om planbesked , KS 2019-02-19, \$ 41
 
 Beslutet skickas till
 
@@ -5524,7 +5524,7 @@ andra fastigheterna ingår i samfälligheten Åsa GA:8 som förvaltas av Åsa sa
 framgår av Lantmäteriets register. I övrigt ingår fastigheterna inte i någon genomförd gemensam
 förvaltning.
 
-En ändring skedde i detaljplanen (antagen av kommunfullmäktige den 14 september 1995, $ 125, med
+En ändring skedde i detaljplanen (antagen av kommunfullmäktige den 14 september 1995, \$ 125, med
 laga kraft den 25 april 1996) där det tydliggjordes hur byggnation får ske inom fastigheter med
 bestämmelse kvartersmark. Övriga delar av detaljplanen berördes inte av ändringen.
 
@@ -5705,7 +5705,7 @@ planbestämmelse inte skulle tillämpas så skulle således en annan markanvänd
 vara möjlig än det som har beslutats i enlighet med en demokratisk process.
 
 Ett sådant beslut hade varit lagvidrigt. Beslutet skulle också, genom uppenbar brist
-på lagstöd, kunna anses utgöra ett straffbart tjänstefel enligt 20 kap.1 $ brottsbalken.
+på lagstöd, kunna anses utgöra ett straffbart tjänstefel enligt 20 kap.1 \$ brottsbalken.
 
 En planbestämmelse kan alltså inte ogiltigförklaras.
 
@@ -5739,7 +5739,7 @@ var fråga om förvaltningsbeslut, se prop. 1985/86:1 s. 87-93. Efter viss korri
 förslaget godtog även Lagrådet detta resonemang. Detaljplanering innefattar således
 inte utfärdande av normbeslut eller generella föreskrifter. Det innebär också att det
 saknas möjlighet till lagprövning eller normprövning av kommunernas planbeslut i
-enlighet med 11 kap. 14 $ RF eller 12 kap. 10 & RF då planbesluten alltså inte utgör
+enlighet med 11 kap. 14 \$ RF eller 12 kap. 10 & RF då planbesluten alltså inte utgör
 föreskrifter i grundlagens mening. Se vidare i prop. 1973:90 s. 209 om skillnaden
 mellan normbeslut och förvaltningsbeslut.
 
@@ -5766,7 +5766,7 @@ sökande i en lantmäteriförrättning, men som sagt, inget som ”tvingar” ko
 att göra detta.
 
 Frågan är då om planen är så inaktuell att den av det skälet bör ändras. Enligt
-12 kap. 2 $ PBL ska en byggnadsnämnd uppmärksamt följa den allmänna
+12 kap. 2 \$ PBL ska en byggnadsnämnd uppmärksamt följa den allmänna
 
 utvecklingen inom kommunen och dess närmaste omgivning samt ta de initiativ som
 behövs i frågor om planläggning, byggande och fastighetsbildning. Kommunen har
@@ -5851,26 +5851,26 @@ Ida.lennartsson@kungsbacka.se
 Från: [I »
 Skickat: den 9 november 2025 14:18
 
-Till: Kommun <kommun(Ökungsbacka.se>
+Till: Kommun \<kommun(Ökungsbacka.se>
 
-Kopia: Lisa Andersson <lisa.anderssonQkungsbacka.se>; Berit Bergström
-<berit.bergstrom(ÅMkungsbacka.se>; Lars Eriksson <lars.eriksson(ÅMkungsbacka.se>; Emanuel
-Forsell <emanuel.forsell&ekungsbacka.se>; Hravn Forsne <hravn.forsneQkungsbacka.se>;
-Maria Gathendahl <maria.gathendahl(Mkungsbacka.se>; Annika Hedman
-<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
-<patrik.jervne.henestam(Qkungsbacka.se>; Stefan Jägnert <stefan.jagnertQkungsbacka.se>;
-Fredrik Kollberg <fredrik.kollbergÖQkungsbacka.se>; Erik Lindqvist
-<erik.lindqvistQkungsbacka.se>; Maria Losman <maria.losman(Mkungsbacka.se>; Annlouise
-Lundqvist <ann-louise.lundqvistQkungsbacka.se>; Monica Neptun
-<monica.neptunQkungsbacka.se>; Niclas Nilsson <niclas.nilssonQkungsbacka.se>; Marianne
-Pleijel <marianne.pleijelMkungsbacka.se>; Max Ramström <max.ramstromÅkungsbacka.se>;
-Thure Sandén <thure.sanden(Mkungsbacka.se>; Henrik Schröder
-<henrik.schroderQkungsbacka.se>; Ermin Skoric <ermin.skoricQkungsbacka.se>; Axel
-Storckenfeldt <axel.storckenfeldtQekungsbacka.se>; Magdalena Sundqvist
-<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
-<elisabeth.svensson(Mkungsbacka.se>; Johan Tolinsson <johan.tolinssonQkungsbacka.se>;
-Stefan Vilumsons <stefan.vilumsonsQkungsbacka.se>; Marie Wadström
-<marie.wadstrom(ÅMkungsbacka.se>; Shabnam Zamani <shabnam.zamaniQMkungsbacka.se>
+Kopia: Lisa Andersson \<lisa.anderssonQkungsbacka.se>; Berit Bergström
+\<berit.bergstrom(ÅMkungsbacka.se>; Lars Eriksson \<lars.eriksson(ÅMkungsbacka.se>; Emanuel
+Forsell \<emanuel.forsell&ekungsbacka.se>; Hravn Forsne \<hravn.forsneQkungsbacka.se>;
+Maria Gathendahl \<maria.gathendahl(Mkungsbacka.se>; Annika Hedman
+\<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
+\<patrik.jervne.henestam(Qkungsbacka.se>; Stefan Jägnert \<stefan.jagnertQkungsbacka.se>;
+Fredrik Kollberg \<fredrik.kollbergÖQkungsbacka.se>; Erik Lindqvist
+\<erik.lindqvistQkungsbacka.se>; Maria Losman \<maria.losman(Mkungsbacka.se>; Annlouise
+Lundqvist \<ann-louise.lundqvistQkungsbacka.se>; Monica Neptun
+\<monica.neptunQkungsbacka.se>; Niclas Nilsson \<niclas.nilssonQkungsbacka.se>; Marianne
+Pleijel \<marianne.pleijelMkungsbacka.se>; Max Ramström \<max.ramstromÅkungsbacka.se>;
+Thure Sandén \<thure.sanden(Mkungsbacka.se>; Henrik Schröder
+\<henrik.schroderQkungsbacka.se>; Ermin Skoric \<ermin.skoricQkungsbacka.se>; Axel
+Storckenfeldt \<axel.storckenfeldtQekungsbacka.se>; Magdalena Sundqvist
+\<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
+\<elisabeth.svensson(Mkungsbacka.se>; Johan Tolinsson \<johan.tolinssonQkungsbacka.se>;
+Stefan Vilumsons \<stefan.vilumsonsQkungsbacka.se>; Marie Wadström
+\<marie.wadstrom(ÅMkungsbacka.se>; Shabnam Zamani \<shabnam.zamaniQMkungsbacka.se>
 Ämne: Komplettering till begäran om normprövning enligt RF 11 kap. 14 8 i ärende KS-2025-
 00287
 
@@ -5916,9 +5916,9 @@ Förvaltningslagen (2017:900) har ansvar för att bereda ärendet i enlighet med
 och motiveringsskyldigheten i 32 8 FL.
 
 Det innebär att allt beredningsarbete inför beslut måste innehålla:
-1. En dokumenterad normprövning enligt RF 11:14, och
+1\. En dokumenterad normprövning enligt RF 11:14, och
 
-2. En fullständig motivering enligt FL 32 8 som redovisar de rättsregler och överväganden som
+2\. En fullständig motivering enligt FL 32 8 som redovisar de rättsregler och överväganden som
 legat till grund för bedömningen.
 
 Syftet är inte att påverka beslutets politiska innehåll, utan att säkerställa att beslutet vilar på en
@@ -5945,10 +5945,10 @@ Från:
 
 Skickat: den 7 november 2025 10:31
 
-Till: Kommun <kommunQkungsbacka.se>; Info <infoQkungsbacka.se>
+Till: Kommun \<kommunQkungsbacka.se>; Info \<infoQkungsbacka.se>
 
-Kopia: redaktionQgp.se; Redaktion KBP <redaktionQkungsbackaposten.se>;
-redaktionenQhn.se; Redaktionen Norra Halland <redaktionenQnorrahalland.se>
+Kopia: redaktionQgp.se; Redaktion KBP \<redaktionQkungsbackaposten.se>;
+redaktionenQhn.se; Redaktionen Norra Halland \<redaktionenQnorrahalland.se>
 
 Ämne: Avgränsning och skyltning av privat mark -
 
@@ -5996,12 +5996,12 @@ Jag avser att påbörja skyltningen senast 19 november 2025 vilket är dagen eft
 löpt ut gällande utlämning av lagstöd. Om kommunen anser sig ha rätt att hindra detta, vänligen
 ange:
 
-1. Exakt lagrum för genomförd allmän plats
-2. Datum och handling för lantmäteriförrättning eller expropriation
+1\. Exakt lagrum för genomförd allmän plats
+2\. Datum och handling för lantmäteriförrättning eller expropriation
 
-3. Kopia på eventuellt avtal om övertagande
+3\. Kopia på eventuellt avtal om övertagande
 
-4. Kopia på eventuellt servitut eller annan handling
+4\. Kopia på eventuellt servitut eller annan handling
 
 Om kommunen inte svarar, kommer jag att utgå ifrån att marken enligt kommunens egen
 tillämpning inte är föremål för fortsatt myndighetsutövning som allmän plats.
@@ -6027,26 +6027,26 @@ E-post:
 
 Skickat: den 6 november 2025 12:18
 
-Till: Kommun <kommun(Ökungsbacka.se>
+Till: Kommun \<kommun(Ökungsbacka.se>
 
-Kopia: Lisa Andersson <lisa.anderssonQkungsbacka.se>; Berit Bergström
-<berit.bergstrom(ÅMkungsbacka.se>; Lars Eriksson <lars.eriksson(ÅMkungsbacka.se>; Emanuel
-Forsell <emanuel.forsellQkungsbacka.se>; Hravn Forsne <hravn.forsneQÅMkungsbacka.se>;
-Maria Gathendahl <maria.gathendahl(Qkungsbacka.se>; Annika Hedman
-<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
-<patrik.jervne.henestam(ÅMkungsbacka.se>; Stefan Jägnert <stefan.jagnertQkungsbacka.se>;
-Fredrik Kollberg <fredrik.kollbergÖQkungsbacka.se>; Erik Lindqvist
-<erik.lindqvistQkungsbacka.se>; Maria Losman <maria.losman(Mkungsbacka.se>; Annlouise
-Lundqvist <ann-louise.lundqvistQkungsbacka.se>; Monica Neptun
-<monica.neptunQkungsbacka.se>; Niclas Nilsson <niclas.nilssonQkungsbacka.se>; Marianne
-Pleijel <marianne.pleijelQMkungsbacka.se>; Max Ramström <max.ramstromQkungsbacka.se>;
-Thure Sandén <thure.sanden(Mkungsbacka.se>; Henrik Schröder
-<henrik.schroderQkungsbacka.se>; Ermin Skoric <ermin.skoricQkungsbacka.se>; Axel
-Storckenfeldt <axel.storckenfeldtQekungsbacka.se>; Magdalena Sundqvist
-<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
-<elisabeth.svensson(Mkungsbacka.se>; Johan Tolinsson <johan.tolinssonQkungsbacka.se>;
-Stefan Vilumsons <stefan.vilumsonsQkungsbacka.se>; Marie Wadström
-<marie.wadstrom(ÅMkungsbacka.se>; Shabnam Zamani <shabnam.zamaniQMkungsbacka.se>
+Kopia: Lisa Andersson \<lisa.anderssonQkungsbacka.se>; Berit Bergström
+\<berit.bergstrom(ÅMkungsbacka.se>; Lars Eriksson \<lars.eriksson(ÅMkungsbacka.se>; Emanuel
+Forsell \<emanuel.forsellQkungsbacka.se>; Hravn Forsne \<hravn.forsneQÅMkungsbacka.se>;
+Maria Gathendahl \<maria.gathendahl(Qkungsbacka.se>; Annika Hedman
+\<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
+\<patrik.jervne.henestam(ÅMkungsbacka.se>; Stefan Jägnert \<stefan.jagnertQkungsbacka.se>;
+Fredrik Kollberg \<fredrik.kollbergÖQkungsbacka.se>; Erik Lindqvist
+\<erik.lindqvistQkungsbacka.se>; Maria Losman \<maria.losman(Mkungsbacka.se>; Annlouise
+Lundqvist \<ann-louise.lundqvistQkungsbacka.se>; Monica Neptun
+\<monica.neptunQkungsbacka.se>; Niclas Nilsson \<niclas.nilssonQkungsbacka.se>; Marianne
+Pleijel \<marianne.pleijelQMkungsbacka.se>; Max Ramström \<max.ramstromQkungsbacka.se>;
+Thure Sandén \<thure.sanden(Mkungsbacka.se>; Henrik Schröder
+\<henrik.schroderQkungsbacka.se>; Ermin Skoric \<ermin.skoricQkungsbacka.se>; Axel
+Storckenfeldt \<axel.storckenfeldtQekungsbacka.se>; Magdalena Sundqvist
+\<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
+\<elisabeth.svensson(Mkungsbacka.se>; Johan Tolinsson \<johan.tolinssonQkungsbacka.se>;
+Stefan Vilumsons \<stefan.vilumsonsQkungsbacka.se>; Marie Wadström
+\<marie.wadstrom(ÅMkungsbacka.se>; Shabnam Zamani \<shabnam.zamaniQMkungsbacka.se>
 Ämne: Begäran om normprövning enligt RF 11 kap. 14 8 innan beslut i ärende KS-2025-00287
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar
@@ -6078,7 +6078,7 @@ eller motiverats, utan min begäran har endast avvisats utan rättslig grund.
 Normprövning är en skyldighet – inte ett val
 Denna skrivelse avser att uppmärksamma Kommunstyrelsen på dess skyldighet enligt
 regeringsformen 11 kap. 14 § att genomföra normprövning innan beslut fattas i ärendet KS-2025-
-00287. Bakgrunden är att kommunens tidigare handläggning och skriftliga besked tydligt visar
+00287\. Bakgrunden är att kommunens tidigare handläggning och skriftliga besked tydligt visar
 att frågan gäller myndighetsutövning mot enskild, varför ärendet faller under förvaltningslagen
 (2017:900) och inte enbart kommunallagen.
 
@@ -6128,16 +6128,16 @@ grundlagsstridigt även i förhållande till egendomsskyddet.
 Begäran
 Mot denna bakgrund begär jag följande:
 
-1. Att Kommunstyrelsen formellt klargör hur normprövning enligt RF 11 kap. 14 § ska utföras i
+1\. Att Kommunstyrelsen formellt klargör hur normprövning enligt RF 11 kap. 14 § ska utföras i
 detta ärende,
 
-2. Att Kommunstyrelsen delegerar till Planavdelningen och Samhällsbyggnadskontoret att
+2\. Att Kommunstyrelsen delegerar till Planavdelningen och Samhällsbyggnadskontoret att
 genomföra normprövningen som en del av den förberedande handläggningen, i enlighet med
 förvaltningslagen,
-3. Att Kommunstyrelsen säkerställer att beslutet i sak inte grundas på orealiserade eller
+3\. Att Kommunstyrelsen säkerställer att beslutet i sak inte grundas på orealiserade eller
 rättsstridiga planbestämmelser, och
 
-4. Att normprövningen dokumenteras, motiveras och expedieras i enlighet med FL 20 §.
+4\. Att normprövningen dokumenteras, motiveras och expedieras i enlighet med FL 20 §.
 
 Om diarieföring och spårbarhet
 
@@ -6226,9 +6226,9 @@ Från:
 
 Skickat: den 6 november 2025 12:10
 
-Till: Kommun <kommun(Ökungsbacka.se>
+Till: Kommun \<kommun(Ökungsbacka.se>
 
-Kopia: Info <infoQkungsbacka.se>
+Kopia: Info \<infoQkungsbacka.se>
 
 Ämne: Begäran om redovisning av lagstöd enligt Förvaltningslagen (FL) — diarienr 2025KC22035
 
@@ -6258,11 +6258,11 @@ Om ärendets ursprung och felaktig sammanslagning
 
 Det är viktigt att särskilja två skilda ärenden som kommunen har diariefört:
 
-1. 2025KC22035 — diariefört 30 mars 2025 - "Begäran om redovisning av lagstöd för fastighetens
+1\. 2025KC22035 — diariefört 30 mars 2025 - "Begäran om redovisning av lagstöd för fastighetens
 klassificering som parkmark.” Ett förvaltningsärende som rör min rättsställning enligt
 Förvaltningslagen 1 8.
 
-2. KS-2025-00287 — diariefört 9 maj 2025 - "Begäran om ogiltigförklaring av
+2\. KS-2025-00287 — diariefört 9 maj 2025 - "Begäran om ogiltigförklaring av
 detaljplanebestämmelse.” Ett kommunalärende som handläggs enligt kommunallagen.
 
 <!-- sida 155 -->
@@ -6293,14 +6293,14 @@ Begäran
 Jag begär att kommunen fullgör sin skyldighet enligt 1 8, 4 8,5 8, 6 8, 7 8, 8 8, 12 8 och 208
 förvaltningslagen och redovisar:
 
-1. Det lagstöd- iform av dokument, handling, gällande bestämmelse, författning eller tydlig
+1\. Det lagstöd- iform av dokument, handling, gällande bestämmelse, författning eller tydlig
 hänvisning till aktuell lag- som kommunen åberopar för att min fastighet klassificerats och
 behandlats som parkmark,
 
-2. Om denna klassificering har vunnit rättskraft genom beslut, förrättning eller annan form av
+2\. Om denna klassificering har vunnit rättskraft genom beslut, förrättning eller annan form av
 myndighetsutövning enligt gällande lag, samt
 
-3. Vilken författning och paragraf som utgör rättslig grund för denna tillämpning.
+3\. Vilken författning och paragraf som utgör rättslig grund för denna tillämpning.
 
 Tidsfrist enligt FL 12 8
 
@@ -6347,7 +6347,7 @@ Från:
 
 Skickat: den 30 oktober 2025 15:45
 
-Till: Kommun <kommun(ÅMkungsbacka.se>
+Till: Kommun \<kommun(ÅMkungsbacka.se>
 
 Ämne: Re: KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
 
@@ -6382,10 +6382,10 @@ Från:
 
 Skickat: den 3 november 2025 12:22
 
-Till: Kommun <kommunQkungsbacka.se>
+Till: Kommun \<kommunQkungsbacka.se>
 
-Kopia: Redaktion KBP <redaktionQkungsbackaposten.se>; Redaktionen Norra Halland
-<redaktionenQnorrahalland.se>
+Kopia: Redaktion KBP \<redaktionQkungsbackaposten.se>; Redaktionen Norra Halland
+\<redaktionenQnorrahalland.se>
 
 Ämne: Angående: Felaktig ärendehantering — begäran om förvaltningsbeslut i sak (begäran om
 lagstöd för tillämpning av planbestämmelse Ö22)
@@ -6435,20 +6435,20 @@ en administrativ brist utan ett rättssäkerhetsproblem som behöver rättas til
 
 Jag vill härmed klargöra följande:
 
-1. Min primära begäran har hela tiden varit att kommunen ska redovisa vilket explicit lagstöd
+1\. Min primära begäran har hela tiden varit att kommunen ska redovisa vilket explicit lagstöd
 kommunen anser sig ha för att hävda att marken är juridiskt genomförd/ombildad till parkmark.
 Detta är en ren rättsfråga om tillämpning av lag och rör myndighetsutövning mot enskild. En
 sådan fråga ska handläggas enligt Förvaltningslagen (2017:900) och utgör ett
 förvaltningsärende, inte ett politiskt KS-ärende.
 
-2. Att i stället för att inom förvaltningen hantera ärendet på tjänstemannanivå, där kunskapen
+2\. Att i stället för att inom förvaltningen hantera ärendet på tjänstemannanivå, där kunskapen
 förväntas (cid:433)nnas, gör Ni det till ett KS-ärende (kommunstyrelseärende), vilket är att hantera en
 rättsfråga i en politisk instans, vilken inte kan pröva sakfrågan materiellt — detta omöjliggör en
 normprövning enligt Regeringsformen 11 kap. 14 § och skjuter undan all faktisk prövning av
 lagstödet till en prövning av huruvida saken har hanterats korrekt formellt. Kommunens
 hantering är därmed rättsligt otillfredsställande.
 
-3. Kommunens eget uttalande att ”sådana handlingar inte (cid:433)nns” och att frågan ska behandlas i
+3\. Kommunens eget uttalande att ”sådana handlingar inte (cid:433)nns” och att frågan ska behandlas i
 KS visar tydligt att kommunen saknar dokumenterat lagstöd. Att samtidigt hänvisa till äldre KS-
 beslut som argument för att lagstöd skulle (cid:433)nnas är juridiskt otillräckligt — KS-beslut utgör
 politiska ställningstaganden och inte materiellt lagstöd som kan ersätta genomförandeåtgärder
@@ -6545,17 +6545,17 @@ att ”det finns ett dokument som reglerar det”,
 
 dels förvaltningsutlåtande, promemoria eller motsvarande till kommunstyrelsen i frågan.
 
-Kommunen avvisar begäran att beslutet ska innehålla en normprövning enligt 11 kap. 14 $
+Kommunen avvisar begäran att beslutet ska innehålla en normprövning enligt 11 kap. 14 \$
 regeringsformen, där kommunen prövar om den aktuella planbestämmelsen och dess tillämpning står i
-överensstämmelse med 2 kap. 15 $ RF och legalitetsprincipen.
+överensstämmelse med 2 kap. 15 \$ RF och legalitetsprincipen.
 
 Begäran
 
 har begärt ett formellt beslut i enlighet med förvaltningslagen avseende begäran om
 att ta del av den dokumentation som utgör lagstöd för tillämpningen av planbestämmelsen om
-parkmark inom detaljplan Ö22 samt att det då även ska göras en normprövning enligt 11 kap. 14 $
+parkmark inom detaljplan Ö22 samt att det då även ska göras en normprövning enligt 11 kap. 14 \$
 regeringsformen, där kommunen prövar om den aktuella planbestämmelsen och dess tillämpning står i
-överensstämmelse med 2 kap. 15 $ RF och legalitetsprincipen.
+överensstämmelse med 2 kap. 15 \$ RF och legalitetsprincipen.
 
 Hans begäran, som det får förstås av skriftväxling mellan honom och kommunstyrelsens förvaltning,
 avser handling eller handlingar som skulle visa vilket lagstöd kommunen har för att tillämpa
@@ -6686,7 +6686,7 @@ Från:
 
 Skickat: den 28 oktober 2025 11:44
 
-Till: Kommun <kommunÅQkungsbacka.se>
+Till: Kommun \<kommunÅQkungsbacka.se>
 
 Ämne: Re: KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmetse, m.fl
 
@@ -6748,12 +6748,12 @@ avseende min begäran om att ta del av den dokumentation som utgör lagstöd fö
 av planbestämmelsen om parkmark inom detaljplan Ö22.
 
 Jag begär att detta beslut:
-1. Utfärdas skriftligt,
+1\. Utfärdas skriftligt,
 
-2. Motiveras enligt 32 § förvaltningslagen,
+2\. Motiveras enligt 32 § förvaltningslagen,
 
-3. Förses med överklagandehänvisning, och
-4. Innehåller en normprövning enligt 11 kap. 14 § regeringsformen, där kommunen prövar
+3\. Förses med överklagandehänvisning, och
+4\. Innehåller en normprövning enligt 11 kap. 14 § regeringsformen, där kommunen prövar
 om den aktuella planbestämmelsen och dess tillämpning står i överensstämmelse med
 2 kap. 15 § RF och legalitetsprincipen.
 
@@ -6797,10 +6797,10 @@ Från:
 
 Skickat: den 27 oktober 2025 12:49
 
-Till: Kommun <kommunÅQkungsbacka.se>
+Till: Kommun \<kommunÅQkungsbacka.se>
 
-Kopia: Ida Lennartsson <ida.lennartssonQMkungsbacka.se>; Lisa Andersson
-<lisa.andersson(ÅMkungsbacka.se>
+Kopia: Ida Lennartsson \<ida.lennartssonQMkungsbacka.se>; Lisa Andersson
+\<lisa.andersson(ÅMkungsbacka.se>
 
 Ämne: Begäran om normprövning enligt Regeringsformen 11 kap. 14 S innan beslut i
 kommunstyrelsen (KS-2025-00287)
@@ -6856,19 +6856,19 @@ grundlagen.
 
 Begäran grundas på följande:
 
-1.
+1\.
 Regeringsformen 11 kap. 14 § föreskriver att även annan myndighet än domstol ska underlåta att
 tillämpa en föreskrift som står i strid med grundlag.
 
-2.
+2\.
 
 Förvaltningslagen 25 § ålägger kommunen att se till att ärendet är tillräckligt utrett innan beslut
 fattas.
-3.
+3\.
 
 Förvaltningslagen 32 § kräver att beslut motiveras,
 
-4.
+4\.
 Kommunallagen 6 kap. 1 § fastslår att Kommunstyrelsen leder verksamheten under lagarna,
 vilket förutsätter att förvaltningen säkerställer grundlagsenlighet.
 
@@ -7049,7 +7049,7 @@ Bilaga 5 – Lantmäteriet: Svar på förfrågan KC25128679 (2025-10-13)
 
 Bilaga 6 - Promemoria auktoriserad fastighetsvärderare 2021-10-
 
-26)
+26\)
 
 Bilaga 7 - Promemoria av a . 2021-09-24)
 
@@ -7122,7 +7122,7 @@ Från:
 
 Skickat: den 26 oktober 2025 10:56
 
-Till: Kommun <kommunÅQkungsbacka.se>
+Till: Kommun \<kommunÅQkungsbacka.se>
 
 Ämne: Re: KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmetse, m.fl
 
@@ -7283,7 +7283,7 @@ Från:
 
 Skickat: den 22 oktober 2025 15:18
 
-Till: Kommun <kommunÅQkungsbacka.se>
+Till: Kommun \<kommunÅQkungsbacka.se>
 
 Ämne: Re: KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmetse, m.fl
 
@@ -7358,15 +7358,15 @@ konsekvenserna av kommunens fortsatta agerande är ytterligare förseningar inte
 
 Jag begär därför att kommunen senast inom 14 dagar från mottagandet av detta brev skriftligen
 redovisar:
-1. Vilket konkret lagstöd (lag och paragraf) kommunen åberopar för den pågående
+1\. Vilket konkret lagstöd (lag och paragraf) kommunen åberopar för den pågående
 rådighetsinskränkningen.
 
-2. En rättslig motivering till varför en orealiserad detaljplan tillämpas i detta fall.
-3. Utlämnande av det dokument som kommunalrådet Fredrik Hansson hänvisar till i Norra
+2\. En rättslig motivering till varför en orealiserad detaljplan tillämpas i detta fall.
+3\. Utlämnande av det dokument som kommunalrådet Fredrik Hansson hänvisar till i Norra
 Halland den 16 juli 2025, vilket påstås reglera inskränkningen.
-4. Om inskränkningen saknar lagstöd – en bekräftelse på att planbestämmelsen inte längre
+4\. Om inskränkningen saknar lagstöd – en bekräftelse på att planbestämmelsen inte längre
 kommer att tillämpas.
-5. Om svar inte kan lämnas inom tidsfristen – en rättsligt motiverad förklaring till varför
+5\. Om svar inte kan lämnas inom tidsfristen – en rättsligt motiverad förklaring till varför
 ärendet inte kan handläggas skyndsamt i enlighet med 12 § förvaltningslagen.
 
 Detta brev tjänar som formell dokumentation av att jag har erinrat kommunen om dess
@@ -7423,27 +7423,27 @@ Ida.lennartsson@kungsbacka.se
 Från: [I »
 Skickat: den 21 oktober 2025 12:20
 
-Till: Info <infoQkungsbacka.se>; Kommun <kommun(Mkungsbacka.se>
+Till: Info \<infoQkungsbacka.se>; Kommun \<kommun(Mkungsbacka.se>
 
-Kopia: Lisa Andersson <lisa.anderssonQkungsbacka.se>; Berit Bergström
-<berit.bergstrom(ÅMkungsbacka.se>; Lars Eriksson <lars.erikssonQkungsbacka.se>; Emanuel
-Forsell <emanuel.forsell&kungsbacka.se>; Hravn Forsne <hravn.forsneQkungsbacka.se>;
-Maria Gathendahl <maria.gathendahl(Mkungsbacka.se>; Annika Hedman
-<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
-<patrik.jervne.henestamQkungsbacka.se>; Stefan Jägnert <stefan.jagnertQkungsbacka.se>;
-Fredrik Kollberg <fredrik.kollbergÖQkungsbacka.se>; Erik Lindqvist
-<erik.lindqvistQkungsbacka.se>; Maria Losman <maria.losman(Mkungsbacka.se>; Annlouise
-Lundqvist <ann-louise.lundqvistQkungsbacka.se>; Monica Neptun
-<monica.neptunQkungsbacka.se>; Niclas Nilsson <niclas.nilssonQkungsbacka.se>; Marianne
-Pleijel <marianne.pleijelMkungsbacka.se>; Max Ramström <max.ramstromÅkungsbacka.se>;
-Thure Sandén <thure.sandenQkungsbacka.se>; Henrik Schröder
-<henrik.schroderQkungsbacka.se>; Ermin Skoric <ermin.skoricQkungsbacka.se>;
+Kopia: Lisa Andersson \<lisa.anderssonQkungsbacka.se>; Berit Bergström
+\<berit.bergstrom(ÅMkungsbacka.se>; Lars Eriksson \<lars.erikssonQkungsbacka.se>; Emanuel
+Forsell \<emanuel.forsell&kungsbacka.se>; Hravn Forsne \<hravn.forsneQkungsbacka.se>;
+Maria Gathendahl \<maria.gathendahl(Mkungsbacka.se>; Annika Hedman
+\<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
+\<patrik.jervne.henestamQkungsbacka.se>; Stefan Jägnert \<stefan.jagnertQkungsbacka.se>;
+Fredrik Kollberg \<fredrik.kollbergÖQkungsbacka.se>; Erik Lindqvist
+\<erik.lindqvistQkungsbacka.se>; Maria Losman \<maria.losman(Mkungsbacka.se>; Annlouise
+Lundqvist \<ann-louise.lundqvistQkungsbacka.se>; Monica Neptun
+\<monica.neptunQkungsbacka.se>; Niclas Nilsson \<niclas.nilssonQkungsbacka.se>; Marianne
+Pleijel \<marianne.pleijelMkungsbacka.se>; Max Ramström \<max.ramstromÅkungsbacka.se>;
+Thure Sandén \<thure.sandenQkungsbacka.se>; Henrik Schröder
+\<henrik.schroderQkungsbacka.se>; Ermin Skoric \<ermin.skoricQkungsbacka.se>;
 axel.storkenfeldtQekungsbacka.se; Magdalena Sundqvist
-<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
-<elisabeth.svensson(QMkungsbacka.se>; johan.tollinssonQkungsbacka.se;
+\<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
+\<elisabeth.svensson(QMkungsbacka.se>; johan.tollinssonQkungsbacka.se;
 
-stefan .vilumson(Qkungsbacka.se; Marie Wadström <marie.wadstromQkungsbacka.se>;
-Shabnam Zamani <shabnam.zamaniQkungsbacka.se>
+stefan .vilumson(Qkungsbacka.se; Marie Wadström \<marie.wadstromQkungsbacka.se>;
+Shabnam Zamani \<shabnam.zamaniQkungsbacka.se>
 
 Ämne: Dröjsmål och begäran om beslut i ärende KS-2025-00287 - Ogiltigförklaring av
 detaljplanebestämmetse, [I mr.
@@ -7545,15 +7545,15 @@ brottsbalken.
 Sammanfattning av begäran
 Jag begär att:
 
-1. Kommunstyrelsen senast fyra veckor från mottagandet av denna skrivelse fattar ett
+1\. Kommunstyrelsen senast fyra veckor från mottagandet av denna skrivelse fattar ett
 överklagbart beslut i ärende KS-2025-00287.
 
 <!-- sida 189 -->
 
-2. Beslutet tydligt anger kommunens ställningstagande i sakfrågan och grundas på relevanta
+2\. Beslutet tydligt anger kommunens ställningstagande i sakfrågan och grundas på relevanta
 lagrum, rättspraxis och motivering.
 
-3. Beslutet omfattar samtliga tre fastigheter: och .
+3\. Beslutet omfattar samtliga tre fastigheter: och .
 
 Principiell kommentar om rättsstat och extraordinära åtgärder:
 Jag vill samtidigt uttrycka att det är djupt bekymmersamt att jag som enskild medborgare tvingas
@@ -7806,7 +7806,7 @@ IS 2 Registrerat av Enhet
 
 SS Linda Helgesson Kommunstyrelsens förvaltning
 Ärendetyp
-<saknas> Avslutat Behörighet
+\<saknas> Avslutat Behörighet
 
 Bevakningsdatum
 
@@ -8337,7 +8337,7 @@ Taxa för avskrift eller kopia av allmän handling
 Vi konstaterade i maj att dina frågor som registrerats i KS 2025–00287, övergick till en begäran från dig den 19 maj 2025, att
 kommunen ska förklara att planbestämmelse beträffande dina fastigheter som planerad parkmark är ogiltig. Du har fått
 besked om att ärendet är under förberedelse inför kommunstyrelsens beslut och att det bedöms kunna ske under hösten
-2025.
+2025\.
 Frågor från dig har besvarats och med hänvisning till hur långt en myndighets skyldighet sträcker sig enligt 6 §
 förvaltningslagen. Du har fått information om vilka möjligheter du har att bevaka din rätt och vilka myndigheter du kan vända
 dig till. Jag förstår att du inte är nöjd med dessa svar, men jag får ändå hänvisa till tidigare svar, särskilt 11 april, 23 april och
@@ -8355,7 +8355,7 @@ Från:
 
 Skickat: den 30 september 2025 11:18
 
-Till: Kommun <kommun(Ökungsbacka.se>
+Till: Kommun \<kommun(Ökungsbacka.se>
 
 Ämne: Re: KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmetse, m.fl
 
@@ -8482,7 +8482,7 @@ Jag vill härmed rikta er uppmärksamhet på det rättsliga förhållande som l�
 men som är centralt för frågan om detaljplanens tillämpning på mina fastigheter
 och lj.
 
-1. Skillnaden mellan formell och materiell rättskraft
+1\. Skillnaden mellan formell och materiell rättskraft
 
 En antagen detaljplan får formell rättskraft när den vinner laga kraft. Det betyder att
 planen kan åberopas i myndighetsbeslut, exempelvis vid bygglovsprövning.
@@ -8497,7 +8497,7 @@ genomförande:
 » Faktiskt iordningställande av den planerade anläggningen (exempelvis park).
 
 Det är denna materiella rättskraft som ger planen verklig effekt på markägarens rådighet.
-2. Boverkets tydliga vägledning
+2\. Boverkets tydliga vägledning
 
 Boverket anger i sin egen kunskapsbank att ett antagande endast skapar en möjlighet till
 genomförande. Det är alltså först genom en lantmäteriförrättning eller annan civilrättslig
@@ -8506,7 +8506,7 @@ mekanism som en plan får faktisk genomslagskraft för allmänheten.
 Att behandla en antagen men orealiserad plan som om den automatiskt hade full rättskraft
 strider därmed mot både lagens systematik och Boverkets vägledning.
 
-3. Ett strukturellt norm- och systemfel
+3\. Ett strukturellt norm- och systemfel
 
 Under lång tid — i detta fall snart 75 år — har kommunen tillämpat detaljplan Ö22 (1951)
 som om den hade full rättskraft, trots att:
@@ -8521,7 +8521,7 @@ hänvisa till den som rättslig grund för att inskränka fastighetsägarens rå
 Detta är inte bara en felaktig tolkning — det är ett systemfel som riskerar att ha utvecklat
 sig till en praxis inom kommunen och möjligen i flera andra kommuner.
 
-4. Kognitiv dissonans och ansvar
+4\. Kognitiv dissonans och ansvar
 
 Jag är medveten om att denna information kan vara svår att ta till sig. Det är mänskligt att
 tro att man agerat korrekt när en praxis pågått under lång tid. Men när det klargörs att
@@ -8535,14 +8535,14 @@ fängelse.
 Att detta är obekvämt förändrar dock inte det juridiska läget. Att fortsätta blunda för
 konsekvenserna innebär bara att ansvaret växer.
 
-5. Rättssäkerhet och rättsliga konsekvenser
+5\. Rättssäkerhet och rättsliga konsekvenser
 
 Kommunens agerande innebär idag en dubbel rättsförlust för fastighetsägaren:
 
-1. Förlust av brukanderätten (jag hindras från att använda min fastighet enligt äganderätten
+1\. Förlust av brukanderätten (jag hindras från att använda min fastighet enligt äganderätten
 i RF 2:15).
 
-2. Förlust av ersättningsrätten (jag nekas ersättning enligt ExL 4:3a).
+2\. Förlust av ersättningsrätten (jag nekas ersättning enligt ExL 4:3a).
 
 Detta är inte bara en civilrättslig tvist, utan ett brott mot äganderätten i grundlagen och
 Europakonventionen. Kommunens fortsatta tillämpning av en plan med endast partiell
@@ -8550,7 +8550,7 @@ rättskraft riskerar därför att uppfylla rekvisiten för bland annat grovt tj�
 mot huvudman / grov oaktsamhet och grovt åsidosättande av myndighetsutövning samt
 eventuellt försök till grov förskingring
 
-6. Uppmaning
+6\. Uppmaning
 
 Jag uppmanar kommunen att:
 
@@ -8608,7 +8608,7 @@ Hej Ida,
 
 Med anledning av min kompletterande skrivelse i ärende KS-2025-00287, skickad igår den 17 september 2025,
 vill jag korrigera ett misstag i min hänvisning till lagrum. I min iver att ta hänsyn till en nyfunnen lagändring
-tolkade jag PBL 4 kap. 17 a $ och MB 7 kap. 18 j $ som tillämpliga på planlagd parkmark, men jag inser nu att
+tolkade jag PBL 4 kap. 17 a \$ och MB 7 kap. 18 j \$ som tillämpliga på planlagd parkmark, men jag inser nu att
 dessa enbart rör strandskydd och inte är relevanta för mitt ärende. Jag ber er därför att inte beakta dessa
 
 hänvisningar i er handläggning.
@@ -8760,8 +8760,8 @@ Från:
 
 Skickat: den 17 september 2025 12:35
 
-Till: Info <infoQkungsbacka.se>; Kommun <kommun(Mkungsbacka.se>; Ida Lennartsson
-<ida.lennartssonQkungsbacka.se>
+Till: Info \<infoQkungsbacka.se>; Kommun \<kommun(Mkungsbacka.se>; Ida Lennartsson
+\<ida.lennartssonQkungsbacka.se>
 
 Ämne: Komplettering i ärende KS-2025-00287 - Hänvisning till PBL 4:17a och MB 7:18;
 m.fl.)
@@ -8821,17 +8821,17 @@ innehåller en rättsanalys och en mer pedagogisk redogörelse av problematiken,
 som underlag för kommunens tjänstemän och förtroendevalda.
 
 Jag begär därför att:
-1.
+1\.
 
 Kommunstyrelsen i sitt kommande beslut beaktar PBL 4 kap. 17 a 8 och MB 7 kap. 18 j 8 i
 bedömningen av planbestämmelsens rättsverkan.
 
-2.
+2\.
 
 Kommunen tydligt fastslår att den gröna färgen på plankartan saknar rättsverkan som rättsligt
 bindande inskränkning, eftersom planbestämmelsen om parkmark inte kan tillämpas.
 
-3.
+3\.
 
 Kommunen även beaktar att regering och riksdag genom Dir. 2025:70 själva konstaterat
 rättsosäkerheten i denna typ av ärenden, vilket gör att rättstillämpningen med stor sannolikhet
@@ -8884,7 +8884,7 @@ Från:
 
 Skickat: den 27 augusti 2025 16:03
 
-Till: Kommun <kommun(QÅkungsbacka.se>
+Till: Kommun \<kommun(QÅkungsbacka.se>
 
 Ämne: Re: Ang. KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, [lj
 
@@ -8919,30 +8919,30 @@ Från:
 
 Skickat: Monday, August 25, 2025 7:20:15 PM
 
-Till: Lisa Andersson <lisa.anderssonQMkungsbacka.se>; Fredrik Hansson
-<fredrik.hansson(Mkungsbacka.se>; Magdalena Sundqvist
-<magdalena.sundqvistÖQkungsbacka.se>; Emanuel Forsell <emanueLforsellokungsbacka.se>;
-Hravn Forsne <hravn.forsne(okungsbacka.se>; Maria Gathendahl
-<maria.gathendahl(Mkungsbacka.se>; Axel Storckenfeldt <axel.storckenfeldtQkungsbacka.se>;
-Thure Sandén <thure.sanden(Mkungsbacka.se>; Johan Tolinsson
-<johan.tolinssonQMkungsbacka.se>; Stefan Jägnert <stefan. jagnertSkungsbacka.se>; Stefan
-Vilumsons <stefan vilumsonsQkungsbacka.se>; Monica Neptun
-<monica.neptun(ÅMkungsbacka.se>; Fredrik Kollberg <fredrik.kollbergQkungsbacka.se>; Patrik
-Jervne Henestam <patrik.jervne.henestam(öWkungsbacka.se>; Maria Losman
-<maria.losman(Mkungsbacka.se>; Berit Bergström <berit.bergstrom(öMkungsbacka.se>; Niclas
-Nilsson <niclas.nilsson(Åkungsbacka.se>; Erik Lindqvist <erik.lindqvistokungsbacka.se>;
-Henrik Schröder <henrik.schroderQkungsbacka.se>; Marianne Pleijel
+Till: Lisa Andersson \<lisa.anderssonQMkungsbacka.se>; Fredrik Hansson
+\<fredrik.hansson(Mkungsbacka.se>; Magdalena Sundqvist
+\<magdalena.sundqvistÖQkungsbacka.se>; Emanuel Forsell \<emanueLforsellokungsbacka.se>;
+Hravn Forsne \<hravn.forsne(okungsbacka.se>; Maria Gathendahl
+\<maria.gathendahl(Mkungsbacka.se>; Axel Storckenfeldt \<axel.storckenfeldtQkungsbacka.se>;
+Thure Sandén \<thure.sanden(Mkungsbacka.se>; Johan Tolinsson
+\<johan.tolinssonQMkungsbacka.se>; Stefan Jägnert \<stefan. jagnertSkungsbacka.se>; Stefan
+Vilumsons \<stefan vilumsonsQkungsbacka.se>; Monica Neptun
+\<monica.neptun(ÅMkungsbacka.se>; Fredrik Kollberg \<fredrik.kollbergQkungsbacka.se>; Patrik
+Jervne Henestam \<patrik.jervne.henestam(öWkungsbacka.se>; Maria Losman
+\<maria.losman(Mkungsbacka.se>; Berit Bergström \<berit.bergstrom(öMkungsbacka.se>; Niclas
+Nilsson \<niclas.nilsson(Åkungsbacka.se>; Erik Lindqvist \<erik.lindqvistokungsbacka.se>;
+Henrik Schröder \<henrik.schroderQkungsbacka.se>; Marianne Pleijel
 
-<marianne pleijeldokungsbacka.se>; Max Ramström <max.ramstrom(Mkungsbacka.se>;
-Annlouise Lundqvist <ann-louise.lundavistQkungsbacka.se>; Ermin Skoric
+\<marianne pleijeldokungsbacka.se>; Max Ramström \<max.ramstrom(Mkungsbacka.se>;
+Annlouise Lundqvist \<ann-louise.lundavistQkungsbacka.se>; Ermin Skoric
 
-<ermin.skoric(Mkungsbacka.se>; Shabnam Zamani <shabnam.zamani(Mkungsbacka.se>; Lars
-Eriksson <lars.eriksson(Mkungsbacka.se>; Susanne Andersson7
+\<ermin.skoric(Mkungsbacka.se>; Shabnam Zamani \<shabnam.zamani(Mkungsbacka.se>; Lars
+Eriksson \<lars.eriksson(Mkungsbacka.se>; Susanne Andersson7
 
-<susanne.andersson7(Mkungsbacka.se>; Elisabeth Svensson
-<elisabeth.svenssonQMkungsbacka.se>; Annika Hedman <annika.hedman(Mkungsbacka.se>;
-Tommy Rydfeldt <tommy.rydfeldtÖQkungsbacka.se>; Marie Wadström
-<marie.wadstrom(ÅMkungsbacka.se>
+\<susanne.andersson7(Mkungsbacka.se>; Elisabeth Svensson
+\<elisabeth.svenssonQMkungsbacka.se>; Annika Hedman \<annika.hedman(Mkungsbacka.se>;
+Tommy Rydfeldt \<tommy.rydfeldtÖQkungsbacka.se>; Marie Wadström
+\<marie.wadstrom(ÅMkungsbacka.se>
 
 Ämne: Re: Lagstöd och ersättning vid långvarig rådighetsinskränkning (KS-2025-00287) - inför
 ert sammanträde 2025-08-26
@@ -8980,7 +8980,7 @@ den rättsligt verkningslös och kan inte användas för att inskränka ägander
 <!-- sida 219 -->
 
 Att plankartan är grönfärgad — och att kommunalrådet Fredrik Hansson i Norra Halland (2025-07-
-16) uppger att ”planen gäller” —- räcker inte ur ett juridiskt och rättsligt perspektiv. En plan är bara
+16\) uppger att ”planen gäller” —- räcker inte ur ett juridiskt och rättsligt perspektiv. En plan är bara
 en ram; för att bestämmelser ska få faktisk verkan krävs lagstöd och realisering.
 
 Vad krävs för att en planbestämmelse ska gälla?
@@ -9049,7 +9049,7 @@ Debatt: Ge Åsa en blomstrande framtid
 
 ”Åsa har potential att bli en ännu mer levande och attraktiv del av Kungsbacka kommun, men
 detta kräver att kommunen agerar i linje med intentionerna i den fördjupade översiktsplanen från
-2013. Planen betonar förtätning av centrum, förbättrad tillgänglighet till kusten och ett attraktivt
+2013\. Planen betonar förtätning av centrum, förbättrad tillgänglighet till kusten och ett attraktivt
 stråk mellan stationen, centrum och stranden. Trots detta verkar kommunen ovillig att ta steget
 fullt ut och diskutera med markägare som kan bidra till dessa mål. Detta är ett missat tillfälle att
 
@@ -9216,7 +9216,7 @@ Akten inneh, 20 skrivna sidor,
 
 <!-- sida 231 -->
 
-$
+\$
 
 4
 
@@ -9224,7 +9224,7 @@ MR
 
 Utan avgift.
 
-- åvskrift.
+\- åvskrift.
 
 MAA (006 2 oo Bi
 
@@ -9258,7 +9258,7 @@ i länet att upprätta förslag till byggnadsplan för ifrågavarande
 
 Därefter har länsarkitekten med en den 4 februari 1944 hit
 
--
+\-
 
 inkommen skrivelse överlämnat förslag till sådan plan, åskådlig-
 
@@ -9279,7 +9279,7 @@ nadsstedgan). : = mc IR Aa
 dre oe an der detaljplan JM
 i 5.09..149 ändrats genom estut.
 
-1998. endera sjörta| 1996. 4225; a
+1998\. endera sjörta| 1996. 4225; a
 
 EL | Secakt ÄDP Otel 2.
 
@@ -9330,7 +9330,7 @@ mindre bryggor, tedhus, båthus eller dylikt.
 Med punktprickning FRE ara for ]Oke bebyggas.
 
 nere genom beslut Denna detaliplan tar
-1992. 02... LL. ändrats genom beslut
+1992\. 02... LL. ändrats genom beslut
 
 Se akt ÄDp /2 d 30-Paslq 1996.-04 ars.
 
@@ -9340,7 +9340,7 @@ Se akt ÄDp (2Å4-L96/2
 
 <!-- sida 233 -->
 
->»
+\>»
 
 ”
 
@@ -9394,14 +9394,14 @@ NS
 fe
 
 R
->
+\>
 
 icke vara mindre än som motsvarar den för byggnad tillåtna
 största höjden, byggnadsnämnden likväl obetaget att, där så
 prövas lämpligt, för uthus eller annan gårdsbyggnad medgiva
 mindre avstånd, dock ej under 3 meter.
 
-$ 6.
+\$ 6.
 
 åntal byggnader å tomtplats.
 
@@ -9431,7 +9431,7 @@ uppföras till större höjd än respektive 4,5 och 7,0 meter.
 
 <!-- sida 235 -->
 
-3)
+3\)
 
 //
 
@@ -9447,7 +9447,7 @@ Taklutning.
 
 Tak över oinredd vind får givas en lutning mot horisontal-
 planet av högst 30?.
-$ 10,
+\$ 10,
 
 Tönster till. bonings- och arbetsrum.
 
@@ -9457,7 +9457,7 @@ jämnhöjd med fönstrets umderkans: dvd må fönster anbringas mot
 gårdsdel av mindre brdäd öva detta plan, därest -rugmets behov
 av dager är nöjaktigt tillgodosett genöm annat föRSTST.
 
-1. ee -
+1\. ee -
 
 Förbud mot utfart till väg.
 
@@ -9761,7 +9761,7 @@ kommer. samhällets behov av mark för bl.a. allmänt ändamål,
 
 handelsärhkmål samt för industri att tillgodoses."
 
-Jämlikt 90 $ byggnadsstadgan den 20 november 1931 har
+Jämlikt 90 \$ byggnadsstadgan den 20 november 1931 har
 förslaget hållits för granskning tillgängligt i orten under
 viss, numera förfluten tid, varom även samtliga markägare,.
 
@@ -9799,7 +9799,7 @@ yttrande i ärendet.
 
 a
 
-4)
+4\)
 
 (
 
@@ -9868,7 +9868,7 @@ inkomma med yttrande i ärendet.
 
 Något dylikt yttrande har icke hit inkommit.
 
-Länsstyrelsen finner, med stöd av 107:$ byggnadslagen,
+Länsstyrelsen finner, med stöd av 107:\$ byggnadslagen,
 
 skäligt fastställa ifrågavarande bygcnadsplan för Åsa stations-
 
@@ -9879,7 +9879,7 @@ Ka
 FN
 2
 
--
+\-
 få
 
 samhälle i Ölmevalla socken.
@@ -9916,7 +9916,7 @@ helt eller delvis lämnats utan bifall, icke åtnöjes med denna
 resolution, äger han jämlikt 150 3 byggnecslagen att däruti
 hos Kungl. Maj:t i underdånighet söka ändring genom besvär, vilka
 
-vid äventrr <v talare förlust ckola till Kungl. Kommunikstionrs-
+vid äventrr \<v talare förlust ckola till Kungl. Kommunikstionrs-
 
 <!-- sida 246 -->
 
@@ -10206,7 +10206,7 @@ sommarhotell och restaurang. Upphovet till och förut-
 
 <!-- sida 260 -->
 
-8.
+8\.
 
 sättningen för fritidsbebyggelsen äro de goda bad-
 möjligheterna vid områdets klipp- och sandstränder
@@ -10242,7 +10242,7 @@ vägar .
 
 <!-- sida 261 -->
 
-9.
+9\.
 
 och mot alltför många korsningar med lokalvägnätet. Där
 huvudvägen passerar genom den tätast bebyggda delen av sam-
@@ -10272,7 +10272,7 @@ huvudsak nordsydlig väg, vilken genom en vägbro över ban-
 
 <!-- sida 262 -->
 
-10.
+10\.
 
 gårdens norra del förbindes med rikshuvudvägen. I den
 norra ändan av den nord-sydliga vägen anslutes den
@@ -10354,7 +10354,7 @@ kommer samhällets behov ev mark för bl.a. allmänt ändamål,
 
 handel särhmål samt för industri att tillgodoses."
 
-Jämlikt 90 $ byggnadsstadgan den 20 november 1931 har
+Jämlikt 90 \$ byggnadsstadgan den 20 november 1931 har
 förslaget hållits för granskning tillgängligt i orten under
 viss, numera förfluten tid, varom även samtliga markägare,
 vilkas rätt berördes av förslaget, kommunalfullmäktige och
@@ -10421,7 +10421,7 @@ avgivit yttranden i ärendet. '
 
 Vidare har länsarkitekten hemställt om förordnande
 enligt 113 > byggnadslagen med avseende å fastigheterna
-Ormanås 670 samt Åsa 14, 3$, 321, 376 52 55 och stt, Den
+Ormanås 670 samt Åsa 14, 3\$, 321, 376 52 55 och stt, Den
 mark som avsågs med förordnandet hade angivits till läge och
 gränser å en till ärendet hörande karta.
 
@@ -10443,13 +10443,13 @@ inkomma med yttrande i ärendet.
 
 Något dylikt yttrande har icke hit inkommit.
 
-Länsstyrelsen finner, med stöd av 107 $ byggnadslagen,
+Länsstyrelsen finner, med stöd av 107 \$ byggnadslagen,
 
 skäligt fastställa ifrågavarande byg.nadsplan för Åsa stations-
 
 <!-- sida 267 -->
 
-15.
+15\.
 
 3
 
@@ -10478,14 +10478,14 @@ med åtecknad beskrivning tillställas nämnda myndigheter,
 
 Därest sakäg re, som i ärendet framställt yrkande, vilket
 helt eller delvis lämnats utan bifall, icke åtnöjes med denna
-resolution, äger han jämlikt 150 $ byggnadslagen att däruti
+resolution, äger han jämlikt 150 \$ byggnadslagen att däruti
 hos Kungl. Maj:t i underdånighet söka ändring Keno besvär, vilka
 
 vid "ventre < telare Pfxrlner kols 4111 Kungl. Kommit kerdpves
 
 <!-- sida 268 -->
 
-16.
+16\.
 
 departementet ingivas eller insändas inom en månad härefter,
 Reimer Johansson
@@ -10528,7 +10528,7 @@ prövning sedan nytt planförsleg framlagts för det område &
 tills vidare icke ingår 1 planen. :
 
 Beträffande de av samtliga klagandens framförde yrkan-
-dena i fråga om det av länsstyrelsen enligt 113 $ byggnads-
+dena i fråga om det av länsstyrelsen enligt 113 \$ byggnads-
 lagen meddelade förordnandet om skyldighet för klagandena
 att utan ersättning upplåta vissa på karta närmare angivna
 mearkområden av fastigheterna Åsa 54, 321 och 56 anser sty-
@@ -10553,7 +10553,7 @@ Skickat:  2025-08-21 16:41:42
 Till:
 Hemlig:   ida.lennartsson@kungsbacka.se; anna.rehnberg@kungsbacka.se
 Ämne:     KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, m.fl
-Bifogade filer: LM akt &#197;sa stationssamh&#228;lle.pdf, l&#228;nsstyrelsen arkiv - &#214;22.pdf
+Bifogade filer: LM akt \&#197;sa stationssamh\&#228;lle.pdf, l\&#228;nsstyrelsen arkiv - \&#214;22.pdf
 Hej,
 Angående dina frågor i mejl den 13 augusti 2025.
 Vi har gått igenom de mejl du skickat under sommaren beträffande utlämnande av allmän handling och de svar som har
@@ -10581,7 +10581,7 @@ Från:
 
 Skickat: den 13 augusti 2025 14:16
 
-Till: infoQkungsbacka.se <infoQkungsbacka.se>
+Till: infoQkungsbacka.se \<infoQkungsbacka.se>
 
 Ämne: Re: Dokumentation kring aktualitetsprövning av detaljplan Ö22
 
@@ -10596,16 +10596,16 @@ Jag önskar och begär således att ta del av handlingar som visar när och hur 
 Ö22 (fastställd 1951) senast bedömts vara aktuell och rättssäker att tillämpa. Jag önskar
 särskilt:
 
-1. Dokumentation kring aktualitetsprövning inom ramen för översiktsplan eller annan
+1\. Dokumentation kring aktualitetsprövning inom ramen för översiktsplan eller annan
 planöversyn,
 
-2. Handlingar som visar huruvida planen har realiserats, inklusive genomförandetidens
+2\. Handlingar som visar huruvida planen har realiserats, inklusive genomförandetidens
 utgång,
 
-3. Kommunens bedömning av att planen fortfarande är förenlig med nuvarande
+3\. Kommunens bedömning av att planen fortfarande är förenlig med nuvarande
 lagstiftning och rättsprinciper,
 
-4. Jag önskar också få ta del de planbestämmelser som upprättades i samband med
+4\. Jag önskar också få ta del de planbestämmelser som upprättades i samband med
 planens fastställande år 1951 där planens genomförandetid tydligt framkommer. Denna
 fråga gäller alltså begäran om planbestämmelserna 1 original form och inte vid senare
 planändringen 1995.
@@ -10657,7 +10657,7 @@ problemet.
 
 Det är viktigt att tydliggöra att rådighetsinskränkningar som inte grundar sig på tillfälliga
 förhållanden, och som varar över längre tid, utgör en form av expropriativt ingrepp. Enligt
-Regeringsformen 2 kap. 15 $ och Expropriationslagen 4 kap. 3 a $ ska sådan inskränkning
+Regeringsformen 2 kap. 15 \$ och Expropriationslagen 4 kap. 3 a \$ ska sådan inskränkning
 ersättas. Att kommunen systematiskt förnekar förekomsten av en sådan inskränkning — trots att
 planbestämmelsen effektivt blockerat normalt bruk av fastigheten under decennier — innebär
 ett allvarligt avsteg från grundläggande rättsprinciper.
@@ -10693,12 +10693,12 @@ kommuner redan idag hanterar frågor om ersättning och rådighetsinskränkning.
 Det är min uppfattning att kommunstyrelsen nu har ett ansvar att agera. Inför ert sammanträde
 den 26 augusti 2025, förväntar jag mig att ni:
 
-1. Presenterar vilket konkret lagstöd som kommunen menar att planbestämmelsen om
+1\. Presenterar vilket konkret lagstöd som kommunen menar att planbestämmelsen om
 planerad parkmark vilar på, särskilt i den del där den får faktisk verkan som begränsar
 brukandet av fastigheten.
-2. Initierar en förlikningsprocess för att påbörja en rättssäker lösning i enlighet med
+2\. Initierar en förlikningsprocess för att påbörja en rättssäker lösning i enlighet med
 gällande lagstiftning.
-3. Alternativt, beslutar om att ersättning ska betalas enligt Expropriationslagen 4 kap. 3 a §
+3\. Alternativt, beslutar om att ersättning ska betalas enligt Expropriationslagen 4 kap. 3 a §
 för den rådighetsinskränkning som i praktiken pågått i mer än 75 år, utan att regleras.
 Frågan handlar inte bara om min fastighet. Den rör kommunens långsiktiga trovärdighet,
 
@@ -10723,7 +10723,7 @@ detaljplanebestämmelse, | SK
 Från:
 
 Skickat: den 10 juli 2025 11:54
-Till: Kommun <kommun(Q kungsbacka.se>
+Till: Kommun \<kommun(Q kungsbacka.se>
 
 Ämne: Re: Ang. KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, |
 
@@ -10739,7 +10739,7 @@ Jag vill härmed ytterligare komplettera min tidigare skrivelse med följande f�
 principiell och rättsutvecklingsmässig betydelse samt i beaktande av att jag ännu inte fått ta del
 av utlovade handlingar.
 
-1. Realiseringsprincipen är central för planens rättsverkan
+1\. Realiseringsprincipen är central för planens rättsverkan
 
 Som tidigare påtalat saknar planbestämmelsen i detaljplan Ö22 rättsverkan i praktisk
 tillämpning, eftersom den aldrig har realiserats. Kommunen har inte genomfört någon
@@ -10755,10 +10755,10 @@ Att en detaljplan vinner laga kraft innebär enbart att den får genomföras —
 automatiskt är genomförd. Att blunda för detta faktum är att frångå grundläggande
 rättsprinciper och förvaltningspraxis.
 
-2. Regeringens grundlagsutredning bekräftar min tolkning
+2\. Regeringens grundlagsutredning bekräftar min tolkning
 
 Den 3 juli 2025 tillkännagav Justitiedepartementet att regeringen tillsatt en grundlagsutredning i
-syfte att stärka skyddet för äganderätten i 2 kap. 15 $ Regeringsformen. Utredningen ska särskilt
+syfte att stärka skyddet för äganderätten i 2 kap. 15 \$ Regeringsformen. Utredningen ska särskilt
 undersöka fall där kommunen genom planläggning eller brukshinder inskränker användningen
 av privat egendom utan ersättning — alltså exakt den typ av situation som mitt ärende handlar
 om.
@@ -10775,7 +10775,7 @@ stärka äganderätten. Att inte följa de politiska riktlinjerna skulle undermi
 
 förtroende för rättsstaten.
 
-3. Kommunens hållning är rättspolitiskt och rättssäkert orimlig
+3\. Kommunens hållning är rättspolitiskt och rättssäkert orimlig
 Kungsbacka kommun befinner sig nu i ett avgörande vägval:
 (cid:120) Att antingen följa lagens anda och politikens- och rättsutvecklingens riktning,
 (cid:120) eller att fortsätta tillämpa ett rättsligt tveksamt tillstånd där en icke-realiserad plan
@@ -10844,7 +10844,7 @@ rå
 
 Skickat: den 9 juli 2025 18:36
 
-Till: Kommun <kommun(Qkungsbacka.se>
+Till: Kommun \<kommun(Qkungsbacka.se>
 
 Ämne: Angående mitt ärende KS-2025-00287 vill jag härmed lämna en komplettering och ett
 tydliggörande avseende fyra punkter: (1) begärda handlingar, (2) sakbehandling, (3) identifiering av
@@ -10855,7 +10855,7 @@ Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka i
 
 Hej,
 
-1. Begäran om handlingar rörande detaljplan Ö22
+1\. Begäran om handlingar rörande detaljplan Ö22
 
 I ert mejl daterat den 20 maj 2025 uppger ni att min begäran om handlingar rörande detaljplanen
 ”behandlas, men kan komma att ta ytterligare någon tid”. Jag vill härmed:
@@ -10870,7 +10870,7 @@ formellt beslut om avslag.
 över 40 arbetsdagar sedan min begäran den 9 maj 2025, utan att någon dokumentation har
 tillhandahållits.
 
-2. Sakprövning inför kommunstyrelsens sammanträde den 26 augusti 2025
+2\. Sakprövning inför kommunstyrelsens sammanträde den 26 augusti 2025
 
 Eftersom kommunen ännu inte lämnat ut ovan nämnda handlingar, vill jag göra följande tydliga
 förtydliganden inför kommunstyrelsens behandling av ärendet:
@@ -10880,7 +10880,7 @@ a) Inga rättsliga invändningar har hittills framförts
 Trots att jag i min skrivelse den 9 maj 2025 hänvisat till flertalet relevanta rättskällor — bland annat:
 e 2 kap. 15 & Regeringsformen
 
-» 4 kap. 3 a $ Expropriationslagen
+» 4 kap. 3 a \$ Expropriationslagen
 
 » Förvaltningslagen (2017:900)
 
@@ -10919,7 +10919,7 @@ Kommunens agerande innebär en de facto expropriation utan ersättning, vilket s
 grundlagen. Om planen fortsatt ska tillämpas, ska ersättning utgå enligt 4 kap. 3 a 8
 Expropriationslagen.
 
-3. Identifiering av berörda tjänstepersoner
+3\. Identifiering av berörda tjänstepersoner
 
 Jag har noterat att flera mejl med kommunstyrelsens förvaltning har besvarats anonymt eller utan
 tydlig koppling till ansvarig handläggare. Det är inte rättssäkert att kommunen agerar anonymt i
@@ -10936,7 +10936,7 @@ Denna begäran grundar sig på Förvaltningslagen samt offentlighetsprincipen d�
 
 <!-- sida 280 -->
 
-4. Avslutningsvis
+4\. Avslutningsvis
 
 Jag förutsätter att denna komplettering diarieförs och beaktas inför beslut vid kommunstyrelsens
 sammanträde den 26 augusti 2025. Jag vill härmed tydliggöra att:
@@ -11014,7 +11014,7 @@ detaljplanebestämmelse, | HA
 Från:
 
 Skickat: den 10 juli 2025 11:54
-Till: Kommun <kommun(Q kungsbacka.se>
+Till: Kommun \<kommun(Q kungsbacka.se>
 
 Ämne: Re: Ang. KS-2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmelse, |
 
@@ -11030,7 +11030,7 @@ Jag vill härmed ytterligare komplettera min tidigare skrivelse med följande f�
 principiell och rättsutvecklingsmässig betydelse samt i beaktande av att jag ännu inte fått ta del
 av utlovade handlingar.
 
-1. Realiseringsprincipen är central för planens rättsverkan
+1\. Realiseringsprincipen är central för planens rättsverkan
 
 Som tidigare påtalat saknar planbestämmelsen i detaljplan Ö22 rättsverkan i praktisk
 tillämpning, eftersom den aldrig har realiserats. Kommunen har inte genomfört någon
@@ -11046,10 +11046,10 @@ Att en detaljplan vinner laga kraft innebär enbart att den får genomföras —
 automatiskt är genomförd. Att blunda för detta faktum är att frångå grundläggande
 rättsprinciper och förvaltningspraxis.
 
-2. Regeringens grundlagsutredning bekräftar min tolkning
+2\. Regeringens grundlagsutredning bekräftar min tolkning
 
 Den 3 juli 2025 tillkännagav Justitiedepartementet att regeringen tillsatt en grundlagsutredning i
-syfte att stärka skyddet för äganderätten i 2 kap. 15 $ Regeringsformen. Utredningen ska särskilt
+syfte att stärka skyddet för äganderätten i 2 kap. 15 \$ Regeringsformen. Utredningen ska särskilt
 undersöka fall där kommunen genom planläggning eller brukshinder inskränker användningen
 av privat egendom utan ersättning — alltså exakt den typ av situation som mitt ärende handlar
 om.
@@ -11066,7 +11066,7 @@ stärka äganderätten. Att inte följa de politiska riktlinjerna skulle undermi
 
 förtroende för rättsstaten.
 
-3. Kommunens hållning är rättspolitiskt och rättssäkert orimlig
+3\. Kommunens hållning är rättspolitiskt och rättssäkert orimlig
 Kungsbacka kommun befinner sig nu i ett avgörande vägval:
 (cid:120) Att antingen följa lagens anda och politikens- och rättsutvecklingens riktning,
 (cid:120) eller att fortsätta tillämpa ett rättsligt tveksamt tillstånd där en icke-realiserad plan
@@ -11135,7 +11135,7 @@ rån:
 
 Skickat: den 9 juli 2025 18:36
 
-Till: Kommun <kommun(Qkungsbacka.se>
+Till: Kommun \<kommun(Qkungsbacka.se>
 
 Ämne: Angående mitt ärende KS-2025-00287 vill jag härmed lämna en komplettering och ett
 tydliggörande avseende fyra punkter: (1) begärda handlingar, (2) sakbehandling, (3) identifiering av
@@ -11146,7 +11146,7 @@ Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka i
 
 Hej,
 
-1. Begäran om handlingar rörande detaljplan Ö22
+1\. Begäran om handlingar rörande detaljplan Ö22
 
 I ert mejl daterat den 20 maj 2025 uppger ni att min begäran om handlingar rörande detaljplanen
 ”behandlas, men kan komma att ta ytterligare någon tid”. Jag vill härmed:
@@ -11161,7 +11161,7 @@ formellt beslut om avslag.
 över 40 arbetsdagar sedan min begäran den 9 maj 2025, utan att någon dokumentation har
 tillhandahållits.
 
-2. Sakprövning inför kommunstyrelsens sammanträde den 26 augusti 2025
+2\. Sakprövning inför kommunstyrelsens sammanträde den 26 augusti 2025
 
 Eftersom kommunen ännu inte lämnat ut ovan nämnda handlingar, vill jag göra följande tydliga
 förtydliganden inför kommunstyrelsens behandling av ärendet:
@@ -11171,7 +11171,7 @@ a) Inga rättsliga invändningar har hittills framförts
 Trots att jag i min skrivelse den 9 maj 2025 hänvisat till flertalet relevanta rättskällor — bland annat:
 e 2 kap. 15 & Regeringsformen
 
-» 4 kap. 3 a $ Expropriationslagen
+» 4 kap. 3 a \$ Expropriationslagen
 
 » Förvaltningslagen (2017:900)
 
@@ -11210,7 +11210,7 @@ Kommunens agerande innebär en de facto expropriation utan ersättning, vilket s
 grundlagen. Om planen fortsatt ska tillämpas, ska ersättning utgå enligt 4 kap. 3 a 8
 Expropriationslagen.
 
-3. Identifiering av berörda tjänstepersoner
+3\. Identifiering av berörda tjänstepersoner
 
 Jag har noterat att flera mejl med kommunstyrelsens förvaltning har besvarats anonymt eller utan
 tydlig koppling till ansvarig handläggare. Det är inte rättssäkert att kommunen agerar anonymt i
@@ -11227,7 +11227,7 @@ Denna begäran grundar sig på Förvaltningslagen samt offentlighetsprincipen d�
 
 <!-- sida 288 -->
 
-4. Avslutningsvis
+4\. Avslutningsvis
 
 Jag förutsätter att denna komplettering diarieförs och beaktas inför beslut vid kommunstyrelsens
 sammanträde den 26 augusti 2025. Jag vill härmed tydliggöra att:
@@ -11302,20 +11302,20 @@ Från:
 
 Skickat: den 19 maj 2025 16:00
 
-Till: Info <infoQkungsbacka.se>; Kommun <kommun QMkungsbacka.se>; Peter Sebestyén
-<peter.sebestyen(ÅMkungsbacka.se>; Kasra Hassirian <kasra.hassirian(Mkungsbacka.se>;
-Katarina Öryd <katarina.oryd Åkungsbacka.se>; Lovisa Eld <lovisa.eldåkungsbacka.se>; Ida
-Lennartsson <ida.lennartsson (Åkungsbacka.se>; Lena Melvinsdotter
-<lena.melvinsdotter(Mkungsbacka.se>; Maria Brink <maria.brink(Qkungsbacka.se>; Johanna
-Vinterhav <johanna.vinterhav(Qkungsbacka.se>; Björn Vikström
-<bjorn.vikstromÅkungsbacka.se>; Johan Stenson <johan.stenson(Mkungsbacka.se>; Emma
-Johansson <emma.johansson(Mkungsbacka.se>; Anna Wibling
+Till: Info \<infoQkungsbacka.se>; Kommun \<kommun QMkungsbacka.se>; Peter Sebestyén
+\<peter.sebestyen(ÅMkungsbacka.se>; Kasra Hassirian \<kasra.hassirian(Mkungsbacka.se>;
+Katarina Öryd \<katarina.oryd Åkungsbacka.se>; Lovisa Eld \<lovisa.eldåkungsbacka.se>; Ida
+Lennartsson \<ida.lennartsson (Åkungsbacka.se>; Lena Melvinsdotter
+\<lena.melvinsdotter(Mkungsbacka.se>; Maria Brink \<maria.brink(Qkungsbacka.se>; Johanna
+Vinterhav \<johanna.vinterhav(Qkungsbacka.se>; Björn Vikström
+\<bjorn.vikstromÅkungsbacka.se>; Johan Stenson \<johan.stenson(Mkungsbacka.se>; Emma
+Johansson \<emma.johansson(Mkungsbacka.se>; Anna Wibling
 
-<anna.wibling(& kungsbacka.se>; Ulrika Granfors <ulrika.granfors(Qkungsbacka.se>; Rickard
-Vidlund <rickard.vidlund &kungsbacka.se>; Hanna Ståhl <hanna.stahl(Mkungsbacka.se>;
-Johan Gerremo <johan.gerremo(Mkungsbacka.se>; Maria Malone
+\<anna.wibling(& kungsbacka.se>; Ulrika Granfors \<ulrika.granfors(Qkungsbacka.se>; Rickard
+Vidlund \<rickard.vidlund &kungsbacka.se>; Hanna Ståhl \<hanna.stahl(Mkungsbacka.se>;
+Johan Gerremo \<johan.gerremo(Mkungsbacka.se>; Maria Malone
 
-<maria.malone ÅMkungsbacka.se>; Anna Rehnberg <anna.rehnberg(Åkungsbacka.se>
+\<maria.malone ÅMkungsbacka.se>; Anna Rehnberg \<anna.rehnberg(Åkungsbacka.se>
 
 Ämne: Till Ida Lennartsson, Verksamhetschef Planavdelningen, samt berörda tjänstemän och
 sakkunniga på Kungsbacka kommun
@@ -11335,7 +11335,7 @@ Jag, fastighetsägare til MN och | vill
 meddela mitt uttryckliga och allvarliga missnöje med den undlåtenhet att
 agera som jag upplever från er sida som tjänstepersoner och sakkunniga vid
 Kungsbacka kommun. Trots att jag under de senaste veckorna (sedan mars
-2025) skickat tre formella mail med begäran om att redovisa lagstöd för att
+2025\) skickat tre formella mail med begäran om att redovisa lagstöd för att
 min mark juridiskt skulle ha omvandlats till parkmark enligt detaljplan 022, har
 
 jag inte fått ett konkret svar. Detta trots att ni uppgett att svaren stämts av
@@ -11350,7 +11350,7 @@ dessa principer. Detta är särskilt anmärkningsvärt med tanke på att planen 
 över 70 år gammal, såvitt jag kan konstatera saknar dokumenterat
 genomförande och används för att inskränka min äganderätt utan
 kompensation, vilket i sådant fall strider mot Regeringsformens 2 kap. 15 8
-och Expropriationslagens 4 kap. $3 a.
+och Expropriationslagens 4 kap. \$3 a.
 
 Viktigt att notera är att marken troligen aldrig kommer att bli föremål för en
 
@@ -11415,7 +11415,7 @@ Från
 
 Skickat: den 9 maj 2025 13:35
 
-Till: info (Qkungsbacka.se <infoQkungsbacka.se>
+Till: info (Qkungsbacka.se \<infoQkungsbacka.se>
 
 Ämne: Till Kommunstyrelsen / ansvarig nämnd i Kungsbacka kommun
 Till Kommunstyrelsen / ansvarig nämnd i Kungsbacka kommun
@@ -11465,9 +11465,9 @@ genomförts enligt Anläggningslagen eller Fastighetsbildningslagen. För att ko
 att detta är sant ber jag er ta kontakt med Lantmäterimyndigheten som ansvarar för ett
 sådant genomförande för att bekräfta ovanstående.
 
-Kommunens agerande utgör ett allvarligt brott mot Regeringsformens 2 kap. 15 $
+Kommunens agerande utgör ett allvarligt brott mot Regeringsformens 2 kap. 15 \$
 (skydd för äganderätten), artikel 1 i första tilläggsprotokollet till Europakonventionen
-samt Expropriationslagens 4 kap. 3 a $. Det strider även mot legalitets-,
+samt Expropriationslagens 4 kap. 3 a \$. Det strider även mot legalitets-,
 proportionalitets- och objektivitetsprinciperna enligt Förvaltningslagen (2017:900).
 
 Att kommunens tjänstemän efter upprepade förfrågningar undlåter att redovisa
@@ -11486,15 +11486,15 @@ Begäran
 
 Mot bakgrund av ovanstående begär jag att:
 
-1. Kommunen omedelbart i planen förklarar att planbestämmelsen i detaljplan Ö22
+1\. Kommunen omedelbart i planen förklarar att planbestämmelsen i detaljplan Ö22
 som utpekar fastigheten NN och som planerad parkmark är ogiltig,
 fram tills marken blivit föremål för bildande av eller inlemmats i en
 gemensamhetsanläggning — vilket jag inte avser att medverka till.
 
-2. Ett formellt beslut fattas i ärendet senast inom två månader från mottagandet av
+2\. Ett formellt beslut fattas i ärendet senast inom två månader från mottagandet av
 denna begäran.
 
-3. Kommunen tillhandahåller samtliga handlingar relaterade till planens antagande
+3\. Kommunen tillhandahåller samtliga handlingar relaterade till planens antagande
 (protokoll, beslutsunderlag), eventuella genomförandeplaner och korrespondens med
 Lantmäteriet — i enlighet med offentlighetsprincipen och tryckfrihetsförordningen.
 
@@ -11506,8 +11506,8 @@ plan.
 Jag vill samtidigt upplysa er om att strandskyddet inom mina fastigheter är upphävt
 och således inte kan anses som ett hinder eller särskilt skäl att onödiggöra att den nu
 över 70 år gamla och inaktuella planbestämmelsen ogiltigförklaras. Detta förändrar
-helt dynamiken kring kommunens motiveringar i besluten (t.ex. KS 2019-02-19, $ 41
-och KS 2019-12-19, $ 326), där ni hänvisar till strandskyddsreglerna i MB som ett
+helt dynamiken kring kommunens motiveringar i besluten (t.ex. KS 2019-02-19, \$ 41
+och KS 2019-12-19, \$ 326), där ni hänvisar till strandskyddsreglerna i MB som ett
 hinder för planändring. Jag vill dock vara tydlig med att jag aldrig varit intresserad av
 
 <!-- sida 296 -->
@@ -11538,23 +11538,23 @@ som var tänkt i planen, så ifrågasätter jag dess rättsverkan.
 
 Det finns några viktiga principer att beakta här:
 
-1. Rättskraften i en detaljplan gäller bara i den mån planbestämmelserna har
+1\. Rättskraften i en detaljplan gäller bara i den mån planbestämmelserna har
 ett tydligt syfte och fortfarande är aktuella. Om en bestämmelse inte har genomförts
 trots att lång tid har gått (exempelvis 15 år eller mer), kan detta påverka tolkningen av
 planens rättsverkan.
 
-2. Planbestämmelser måste ha stöd i PBL (plan- och bygglagen). Enligt
+2\. Planbestämmelser måste ha stöd i PBL (plan- och bygglagen). Enligt
 Boverkets vägledning får kommunen inte använda planbestämmelser som saknar stöd
 i lagen — och det gäller även tolkningen av befintliga bestämmelser i äldre planer.
 
-3. Ej genomförd planbestämmelse = möjligt hinder för tillämpning. Om
+3\. Ej genomförd planbestämmelse = möjligt hinder för tillämpning. Om
 exempelvis ett område har planlagts som park, men inget genomförande har skett
 (t.ex. ingen fysisk park har anlagts, ingen mark har tagits i anspråk, ingen ersättning
 har utgått), argumenterar jag för att bestämmelsen inte längre är relevant eller bör
 kunna användas som grund för att exempelvis neka bygglov eller hindra markägaren
 från rätten till pågående användning.
 
-4. Proportionalitetsprincipen och 2 kap. 15 $ Regeringsformen innebär
+4\. Proportionalitetsprincipen och 2 kap. 15 \$ Regeringsformen innebär
 att det måste finnas rimlig balans mellan det allmännas intresse och den enskildes
 rättigheter. En planbestämmelse som i praktiken bara ligger kvar ”på pappret” som en
 s.k. spökplan, men hindrar markägaren från att använda sin mark strider mot detta.
@@ -11566,7 +11566,7 @@ Rättsliga åtgärder vid fortsatt passivitet
 Om kommunen inte vidtar åtgärder för att ogiltigförklara planbestämmelsen och att ge
 mig möjlighet att exploatera marken, förbehåller jag mig rätten att:
 
-« Begära ersättning enligt 2 kap. 15 $ Regeringsformen och 4 kap. 3 a $
+« Begära ersättning enligt 2 kap. 15 \$ Regeringsformen och 4 kap. 3 a \$
 Expropriationslagen.
 
 « Kräva skadestånd enligt skadeståndslagen, inklusive utkrävande av personligt
@@ -11655,21 +11655,21 @@ Kommunstyrelsen Dätin
 Sammanfattning av ärendet
 
 Fastighetsägaren till har den 10 januari 2022 begärt att kommunen ska lösa
-in del av fastigheten enligt PBL 14 kap 14 $ p. 2 samt expropriationslagen
-(1972:719), ExpiL, 4 kap 1-2 $$. Fastighetsägaren har begärt att kommunen ska fatta
+in del av fastigheten enligt PBL 14 kap 14 \$ p. 2 samt expropriationslagen
+(1972:719), ExpiL, 4 kap 1-2 \$\$. Fastighetsägaren har begärt att kommunen ska fatta
 beslut om inlösen, som även ska vara möjligt att överklaga till mark- och
 miljödomstol.
 
 Fastighetsägaren har till stöd för sin begäran lämnat in ett värdeutlåtande daterat
 december 2021 där fastighetsdelen värderas till 5 500 000 kronor.
 
-PBL 14 kap 4 $ innebär att en kommun är skyldig att på fastighetsägarens begäran
+PBL 14 kap 4 \$ innebär att en kommun är skyldig att på fastighetsägarens begäran
 lösa in mark eller annat utrymme som enligt detaljplanen ska användas för
 
-1. en allmän plats som kommunen ska vara huvudman för, eller
-2. annat än enskilt byggande
+1\. en allmän plats som kommunen ska vara huvudman för, eller
+2\. annat än enskilt byggande
 
-ExpriL 4 kap 1-2 $$ innebär bland annat att löseskillingen ska bestämmas på
+ExpriL 4 kap 1-2 \$\$ innebär bland annat att löseskillingen ska bestämmas på
 grundval av det marknadsvärde som fastigheten skulle ha haft om inverkan av
 byggnadsplan inte hade förekommit samt att ytterligare löseskilling ska betalas med
 25 procent av detta värde.
@@ -11678,7 +11678,7 @@ Beslutsunderlag
 
 Skrivelse från sökanden till kommunstyrelsen, 2022-03-17
 
-Kommunstyrelsens arbetsutskott 2022-03-08, $ 93
+Kommunstyrelsens arbetsutskott 2022-03-08, \$ 93
 
 Yttrande från sökanden över förslag till beslut i kommunstyrelsen, 2022-03-07
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-02-17
@@ -11878,34 +11878,34 @@ Från:
 
 Skickat: den 13 november 2025 10:52
 
-Till: Ida Lennartsson <ida.lennartssonQkungsbacka.se>
+Till: Ida Lennartsson \<ida.lennartssonQkungsbacka.se>
 
-Kopia: Kommun <kommun(QMkungsbacka.se>; Carina Rasmussen
-<carina.rasmussen(ÅMkungsbacka.se>; Veronica Löfqvist <veronica.lofqvistQkungsbacka.se>;
-Lisa Andersson <lisa.anderssonQkungsbacka.se>; Berit Bergström
-<berit.bergstrom(Åkungsbacka.se>; Lars Eriksson <lars.erikssonQkungsbacka.se>; Emanuel
-Forsell <emanuel.forselWWkungsbacka.se>; Hravn Forsne <hravn.forsneQMkungsbacka.se>;
-Maria Gathendahl <maria.gathendahl(WBkungsbacka.se>; Annika Hedman
-<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
-<patrik.jervne.henestam(Mkungsbacka.se>; Stefan Jägnert <stefan.jagnertQkungsbacka.se>;
-Fredrik Kollberg <fredrik.kollbergÖ&kungsbacka.se>; Erik Lindqvist
-<erik.lindqvistQkungsbacka.se>; Maria Losman <maria.losman(ÅMkungsbacka.se>; Annlouise
-Lundqvist <ann-louise.lundqvistQkungsbacka.se>; Monica Neptun
-<monica.neptunQkungsbacka.se>; Niclas Nilsson <niclas.nilssonQkungsbacka.se>; Marianne
-Pleijel <marianne.pleijelMkungsbacka.se>; Max Ramström <max.ramstromQkungsbacka.se>;
-Thure Sandén <thure.sanden(Mkungsbacka.se>; Henrik Schröder
-<henrik.schroderQkungsbacka.se>; Ermin Skoric <ermin.skoricQkungsbacka.se>; Axel
-Storckenfeldt <axel.storckenfeldtQkungsbacka.se>; Magdalena Sundqvist
-<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
-<elisabeth.svensson(Mkungsbacka.se>; Johan Tolinsson <johan.tolinssonQkungsbacka.se>;
-Stefan Vilumsons <stefan vilumsonsQkungsbacka.se>; Marie Wadström
-<marie.wadstrom(Mkungsbacka.se>; Shabnam Zamani <shabnam.zamaniQkungsbacka.se>;
-Rickard Vidlund <rickard.vidlund(ÅSkungsbacka.se>; Kommunrevision
-<kommunrevisionQkungsbacka.se>; Katarina Öryd <katarina.orydQkungsbacka.se>; Bygg &
-Miljö bygglov admin <byggochmiljo.bygglovadmin(QMkungsbacka.se>; Miljö & Hälsoskydd admin
-<miljoochhalsoskydd.admin(ÅQkungsbacka.se>; Anders Johansson
-<anders.johanssonQkungsbacka.se>; Lovisa Eld <lovisa.eldQkungsbacka.se>;
-redaktionQkungsbackaposten.se; Redaktionen Norra Halland <redaktionenQnorrahalland.se>;
+Kopia: Kommun \<kommun(QMkungsbacka.se>; Carina Rasmussen
+\<carina.rasmussen(ÅMkungsbacka.se>; Veronica Löfqvist \<veronica.lofqvistQkungsbacka.se>;
+Lisa Andersson \<lisa.anderssonQkungsbacka.se>; Berit Bergström
+\<berit.bergstrom(Åkungsbacka.se>; Lars Eriksson \<lars.erikssonQkungsbacka.se>; Emanuel
+Forsell \<emanuel.forselWWkungsbacka.se>; Hravn Forsne \<hravn.forsneQMkungsbacka.se>;
+Maria Gathendahl \<maria.gathendahl(WBkungsbacka.se>; Annika Hedman
+\<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
+\<patrik.jervne.henestam(Mkungsbacka.se>; Stefan Jägnert \<stefan.jagnertQkungsbacka.se>;
+Fredrik Kollberg \<fredrik.kollbergÖ&kungsbacka.se>; Erik Lindqvist
+\<erik.lindqvistQkungsbacka.se>; Maria Losman \<maria.losman(ÅMkungsbacka.se>; Annlouise
+Lundqvist \<ann-louise.lundqvistQkungsbacka.se>; Monica Neptun
+\<monica.neptunQkungsbacka.se>; Niclas Nilsson \<niclas.nilssonQkungsbacka.se>; Marianne
+Pleijel \<marianne.pleijelMkungsbacka.se>; Max Ramström \<max.ramstromQkungsbacka.se>;
+Thure Sandén \<thure.sanden(Mkungsbacka.se>; Henrik Schröder
+\<henrik.schroderQkungsbacka.se>; Ermin Skoric \<ermin.skoricQkungsbacka.se>; Axel
+Storckenfeldt \<axel.storckenfeldtQkungsbacka.se>; Magdalena Sundqvist
+\<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
+\<elisabeth.svensson(Mkungsbacka.se>; Johan Tolinsson \<johan.tolinssonQkungsbacka.se>;
+Stefan Vilumsons \<stefan vilumsonsQkungsbacka.se>; Marie Wadström
+\<marie.wadstrom(Mkungsbacka.se>; Shabnam Zamani \<shabnam.zamaniQkungsbacka.se>;
+Rickard Vidlund \<rickard.vidlund(ÅSkungsbacka.se>; Kommunrevision
+\<kommunrevisionQkungsbacka.se>; Katarina Öryd \<katarina.orydQkungsbacka.se>; Bygg &
+Miljö bygglov admin \<byggochmiljo.bygglovadmin(QMkungsbacka.se>; Miljö & Hälsoskydd admin
+\<miljoochhalsoskydd.admin(ÅQkungsbacka.se>; Anders Johansson
+\<anders.johanssonQkungsbacka.se>; Lovisa Eld \<lovisa.eldQkungsbacka.se>;
+redaktionQkungsbackaposten.se; Redaktionen Norra Halland \<redaktionenQnorrahalland.se>;
 redaktionQgp.se
 
 Ämne: 2025KC22035 - Begäran om redovisning av lagstöd enligt Förvaltningslagen (FL) « KS-
@@ -12005,7 +12005,7 @@ illusion av rättskraft som i själva verket saknar rättslig grund.
 
 Jag begär därför följande:
 
-1. Att kommunen fattar ett formellt förvaltningsbeslut i sak i ärende 2025KC22035, som
+1\. Att kommunen fattar ett formellt förvaltningsbeslut i sak i ärende 2025KC22035, som
 antingen
 • a) redovisar vilket lagstöd kommunen stödjer sin tillämpning på, eller
 
@@ -12013,14 +12013,14 @@ antingen
 
 • b) bekräftar att något sådant lagstöd inte (cid:433)nns.
 
-2. Att kommunen formellt dokumenterar normprövningen enligt RF 11:14, inklusive bedömning
+2\. Att kommunen formellt dokumenterar normprövningen enligt RF 11:14, inklusive bedömning
 av eventuella kon(cid:434)ikter med
 • RF 2 kap. 15 § (äganderättsskydd),
 
 • Expropriationslagen 4 kap. 3 a §,
 • samt Jordabalken 1 kap. 1 §.
 
-3. Att beslutet innehåller motivering och besvärshänvisning enligt Förvaltningslagen (FL 20 § och
+3\. Att beslutet innehåller motivering och besvärshänvisning enligt Förvaltningslagen (FL 20 § och
 32 §).
 
 Jag vill särskilt åter påminna om att detta är ett förvaltningsrättsligt ärende, inte en politisk fråga.
@@ -12048,12 +12048,12 @@ Från:
 
 Skickat: den 13 november 2025 11:11
 
-Till: Info <infoQkungsbacka.se>
+Till: Info \<infoQkungsbacka.se>
 
-Kopia: Kommun <kommun(Qkungsbacka.se>; Kommunrevision
-<kommunrevision(Mkungsbacka.se>; Lotta Gradén <lotta.gradenQkungsbacka.se>; Redaktion
-KBP <redaktionQkungsbackaposten.se>; Redaktionen Norra Halland
-<redaktionenQnorrahalland.se>; redaktionQgp.se
+Kopia: Kommun \<kommun(Qkungsbacka.se>; Kommunrevision
+\<kommunrevision(Mkungsbacka.se>; Lotta Gradén \<lotta.gradenQkungsbacka.se>; Redaktion
+KBP \<redaktionQkungsbackaposten.se>; Redaktionen Norra Halland
+\<redaktionenQnorrahalland.se>; redaktionQgp.se
 
 Ämne: Begäran om allmänna handlingar rörande lagprövning enligt RF 11:14 samt kommunens
 interna normprövningsrutiner
@@ -12084,7 +12084,7 @@ intern styrning nödvändiga.
 Mot denna bakgrund begär jag, med stöd av 2 kap. tryckfrihetsförordningen, att få ta del av
 följande allmänna handlingar:
 
-1. Samtliga styrdokument som reglerar lagprövning (normprövning) enligt RF 11:14
+1\. Samtliga styrdokument som reglerar lagprövning (normprövning) enligt RF 11:14
 
 <!-- sida 309 -->
 
@@ -12100,7 +12100,7 @@ internkontrollplaner
 
 beslutsstöd eller mallar som rör lagprövning
 
-2. Samtliga utbildningsmaterial som rör tj änstemännens skyldighet att inte tillämpa
+2\. Samtliga utbildningsmaterial som rör tj änstemännens skyldighet att inte tillämpa
 grundlagsstridiga föreskrifter
 
 Exempel:
@@ -12112,10 +12112,10 @@ rättsliga PM
 
 sammanfattningar från kompetensutveckling
 
-3. Samtliga processbeskrivningar och kontrollfunktioner som säkerställer att
+3\. Samtliga processbeskrivningar och kontrollfunktioner som säkerställer att
 grundlagsstridiga föreskrifter, planbestämmelser eller interna rutiner inte tillämpas.
 
-4. Samtliga dokument som beskriver hur lagprövningsansvar utövas inom:
+4\. Samtliga dokument som beskriver hur lagprövningsansvar utövas inom:
 
 Samhällsbyggnadskontoret
 Byggnadsnämnden
@@ -12130,15 +12130,15 @@ rättsligt grundad motivering som anger:
 
 <!-- sida 310 -->
 
-1. Varför handlingarna inte har upprättats,
+1\. Varför handlingarna inte har upprättats,
 
-2. Vilken rättslig grund kommunen lutar sig mot för att avstå från att upprätta styrdokument
+2\. Vilken rättslig grund kommunen lutar sig mot för att avstå från att upprätta styrdokument
 inom ett område som omfattar grundlagsstadgat tjänstemannaansvar,
 
-3. Vem som i praktiken utövar lagprövning enligt RF 11:14 i avsaknad av sådana styrdokument,
+3\. Vem som i praktiken utövar lagprövning enligt RF 11:14 i avsaknad av sådana styrdokument,
 och
 
-4. Hur kommunen säkerställer rättssäker myndighetsutövning när centrala moment av
+4\. Hur kommunen säkerställer rättssäker myndighetsutövning när centrala moment av
 tjänstemannaansvaret saknar dokumenterad vägledning.
 
 Denna motivering, om den behöver upprättas, är i sig en allmän handling som jag begär att få ta
@@ -12162,34 +12162,34 @@ Från
 
 Skickat: den 14 november 2025 04:46
 
-Till: Ida Lennartsson <ida.lennartssonQkungsbacka.se>
+Till: Ida Lennartsson \<ida.lennartssonQkungsbacka.se>
 
-Kopia: Kommun <kommun(Qkungsbacka.se>; Carina Rasmussen
-<carina.rasmussen(ÅMkungsbacka.se>; Veronica Löfqvist <veronica.lofqvistQkungsbacka.se>;
-Lisa Andersson <lisa.anderssonQkungsbacka.se>; Berit Bergström
-<berit.bergstrom(ÅMkungsbacka.se>; Lars Eriksson <lars.eriksson(Mkungsbacka.se>; Emanuel
-Forsell <emanuel.forselMkungsbacka.se>; Hravn Forsne <hravn.forsneQMkungsbacka.se>;
-Maria Gathendahl <maria.gathendahl(Qkungsbacka.se>; Annika Hedman
-<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
-<patrik.jervne.henestam(Mkungsbacka.se>; Stefan Jägnert <stefan.jagnertQkungsbacka.se>;
-Fredrik Kollberg <fredrik.kollbergÖ&kungsbacka.se>; Erik Lindqvist
-<erik.lindqvistQkungsbacka.se>; Maria Losman <maria.losman(Åkungsbacka.se>; Annlouise
-Lundqvist <ann-louise.lundqvistQkungsbacka.se>; Monica Neptun
-<monica.neptunQkungsbacka.se>; Niclas Nilsson <niclas.nilssonQkungsbacka.se>; Marianne
-Pleijel <marianne.pleijelQMkungsbacka.se>; Max Ramström <max.ramstromQkungsbacka.se>;
-Thure Sandén <thure.sanden(Mkungsbacka.se>; Henrik Schröder
-<henrik.schroderQkungsbacka.se>; Ermin Skoric <ermin.skoricQMkungsbacka.se>; Axel
-Storckenfeldt <axel.storckenfeldtQkungsbacka.se>; Magdalena Sundqvist
-<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
-<elisabeth.svensson(Mkungsbacka.se>; Johan Tolinsson <johan.tolinssonQkungsbacka.se>;
-Stefan Vilumsons <stefan vilumsonsQkungsbacka.se>; Marie Wadström
-<marie.wadstrom(Mkungsbacka.se>; Shabnam Zamani <shabnam.zamaniQkungsbacka.se>;
-Rickard Vidlund <rickard.vidlund(ÅSkungsbacka.se>; Kommunrevision
-<kommunrevisionQkungsbacka.se>; Katarina Öryd <katarina.orydQkungsbacka.se>; Bygg &
-Miljö bygglov admin <byggochmiljo.bygglovadmin(QMkungsbacka.se>; Miljö & Hälsoskydd admin
-<miljoochhalsoskydd.admin(Qkungsbacka.se>; Anders Johansson
-<anders.johanssonQkungsbacka.se>; Lovisa Eld <lovisa.eldQkungsbacka.se>;
-redaktionQkungsbackaposten.se; Redaktionen Norra Halland <redaktionenQnorrahalland.se>;
+Kopia: Kommun \<kommun(Qkungsbacka.se>; Carina Rasmussen
+\<carina.rasmussen(ÅMkungsbacka.se>; Veronica Löfqvist \<veronica.lofqvistQkungsbacka.se>;
+Lisa Andersson \<lisa.anderssonQkungsbacka.se>; Berit Bergström
+\<berit.bergstrom(ÅMkungsbacka.se>; Lars Eriksson \<lars.eriksson(Mkungsbacka.se>; Emanuel
+Forsell \<emanuel.forselMkungsbacka.se>; Hravn Forsne \<hravn.forsneQMkungsbacka.se>;
+Maria Gathendahl \<maria.gathendahl(Qkungsbacka.se>; Annika Hedman
+\<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
+\<patrik.jervne.henestam(Mkungsbacka.se>; Stefan Jägnert \<stefan.jagnertQkungsbacka.se>;
+Fredrik Kollberg \<fredrik.kollbergÖ&kungsbacka.se>; Erik Lindqvist
+\<erik.lindqvistQkungsbacka.se>; Maria Losman \<maria.losman(Åkungsbacka.se>; Annlouise
+Lundqvist \<ann-louise.lundqvistQkungsbacka.se>; Monica Neptun
+\<monica.neptunQkungsbacka.se>; Niclas Nilsson \<niclas.nilssonQkungsbacka.se>; Marianne
+Pleijel \<marianne.pleijelQMkungsbacka.se>; Max Ramström \<max.ramstromQkungsbacka.se>;
+Thure Sandén \<thure.sanden(Mkungsbacka.se>; Henrik Schröder
+\<henrik.schroderQkungsbacka.se>; Ermin Skoric \<ermin.skoricQMkungsbacka.se>; Axel
+Storckenfeldt \<axel.storckenfeldtQkungsbacka.se>; Magdalena Sundqvist
+\<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
+\<elisabeth.svensson(Mkungsbacka.se>; Johan Tolinsson \<johan.tolinssonQkungsbacka.se>;
+Stefan Vilumsons \<stefan vilumsonsQkungsbacka.se>; Marie Wadström
+\<marie.wadstrom(Mkungsbacka.se>; Shabnam Zamani \<shabnam.zamaniQkungsbacka.se>;
+Rickard Vidlund \<rickard.vidlund(ÅSkungsbacka.se>; Kommunrevision
+\<kommunrevisionQkungsbacka.se>; Katarina Öryd \<katarina.orydQkungsbacka.se>; Bygg &
+Miljö bygglov admin \<byggochmiljo.bygglovadmin(QMkungsbacka.se>; Miljö & Hälsoskydd admin
+\<miljoochhalsoskydd.admin(Qkungsbacka.se>; Anders Johansson
+\<anders.johanssonQkungsbacka.se>; Lovisa Eld \<lovisa.eldQkungsbacka.se>;
+redaktionQkungsbackaposten.se; Redaktionen Norra Halland \<redaktionenQnorrahalland.se>;
 redaktionQgp.se
 
 Ämne: FÖRTYDLIGANDE - Re: 2025KC22035 - Begäran om redovisning av lagstöd enligt
@@ -12256,12 +12256,12 @@ Från:
 
 Skickat: den 14 november 2025 05:23
 
-Till: Info <infoQkungsbacka.se>
+Till: Info \<infoQkungsbacka.se>
 
-Kopia: Kommun <kommun(Qkungsbacka.se>; Kommunrevision
-<kommunrevision(Åkungsbacka.se>; Lotta Gradén <lotta.gradenQkungsbacka.se>; Redaktion
-KBP <redaktionQkungsbackaposten.se>; Redaktionen Norra Halland
-<redaktionenQnorrahalland.se>; redaktionQgp.se
+Kopia: Kommun \<kommun(Qkungsbacka.se>; Kommunrevision
+\<kommunrevision(Åkungsbacka.se>; Lotta Gradén \<lotta.gradenQkungsbacka.se>; Redaktion
+KBP \<redaktionQkungsbackaposten.se>; Redaktionen Norra Halland
+\<redaktionenQnorrahalland.se>; redaktionQgp.se
 
 Ämne: FÖRTYDLIGANDE - Re: Begäran om allmänna handlingar rörande lagprövning enligt RF
 11:14 samt kommunens interna normprövningsrutiner
@@ -12330,7 +12330,7 @@ Mail:
 
 Från:
 Skickat: den 14 november 2025 12:07
-Till: Ida Lennartsson <ida.lennartssonMkungsbacka.se>
+Till: Ida Lennartsson \<ida.lennartssonMkungsbacka.se>
 
 Ämne: En möjlig väg framåt — utan konflikt, med fokus på rättssäkerhet
 
@@ -12351,9 +12351,9 @@ Efter min genomgång av ärendet står det klart att kommunen, vid tillämpninge
 och aldrig realiserade planbestämmelse, har åsidosatt två av de mest grundläggande
 rättssäkerhetsventilerna i svensk rättsordning:
 
-1. legalitetskontrollen, och
+1\. legalitetskontrollen, och
 
-2. normprövningen enligt 12 kap. 10 8 regeringsformen (samma princip som återfinns i 11 kap.
+2\. normprövningen enligt 12 kap. 10 8 regeringsformen (samma princip som återfinns i 11 kap.
 14 SRF).
 
 Dessa moment är centrala just för att skydda den enskilde från rättsstridiga ingrepp i sin
@@ -12384,17 +12384,17 @@ rättelse innan bristerna har hanterats eller ansvar utkrävts. Min utgångspunk
 följas.
 
 För att hantera situationen konstruktivt ser jag tre möjliga vägar framåt:
-1.
+1\.
 
 Att kommunen initierar en intern, objektiv genomlysning av handläggningen, exempelvis genom
 visselblåsarfunktionen.
 
-2.
+2\.
 
 Att jag lämnar in en ny formell polisanmälan med de senaste uppgifterna, vilket är det normala
 förfarandet när allvarliga fel i myndighetsutövningen misstänks.
 
-3.
+3\.
 
 Att du själv, inom ramen för ditt tjänsteansvar, säkerställer att rättelse sker skyndsamt och att
 den fortsatta handläggningen sker i strikt överensstämmelse med gällande lagstiftning.
@@ -12479,7 +12479,7 @@ Från
 
 Skickat: den 15 november 2025 11:28
 
-Till: Kommun <kommun(ÖQkungsbacka.se>
+Till: Kommun \<kommun(ÖQkungsbacka.se>
 
 Ämne: Re: 2025KC22035 - Begäran om redovisning av lagstöd enligt Förvaltningslagen (FL), KS-
 2025-00287 Begäran om ogiltigförklaring av detaljplanebestämmetse, [ns
@@ -12491,13 +12491,13 @@ säkert.
 Ärenden:
 « 2025KC22035 - Begäran om redovisning av lagstöd enligt Förvaltningslagen (FL)
 
-+ KS-2025-00287 - Begäran om ogiltigförklaring av detaljplanebestämmelse, [i m.r..
+\+ KS-2025-00287 - Begäran om ogiltigförklaring av detaljplanebestämmelse, [i m.r..
 
 Hej,
 
 Tack för beslutet och jag kan konstatera följande:
 
-1. Kommunen verkar helt sakna rutiner, styrdokument och utbildning avseende
+1\. Kommunen verkar helt sakna rutiner, styrdokument och utbildning avseende
 normprövning enligt RF 12 kap. 10 8.
 
 Det innebär att det saknas alla former av:
@@ -12532,7 +12532,7 @@ forfattningssamling/kungorelse-1974152-om-beslutad-ny-regeringsform sfs-1974-152
 Jag som privatperson förstår inte varför en skyldighet enligt lag kan åsidosättas då grundlag i ett
 fungerande rättssamhälle går före lag.
 
-2. Kommunen beskriver lagprövning som något ovanligt” och därför inte nödvändigt att ha
+2\. Kommunen beskriver lagprövning som något ovanligt” och därför inte nödvändigt att ha
 rutiner för.
 
 Det står i direkt konflikt med RF 12:10 ovan och som gäller i alla myndighetsbeslut, inte endast i
@@ -12548,7 +12548,7 @@ e inte varför kommunen hänvisar till praxis i stället för lag.
 
 Jag får inte ihop ekvationen.
 
-3. Kommunen har därmed inte kunnat visa att någon normprövning överhuvudtaget
+3\. Kommunen har därmed inte kunnat visa att någon normprövning överhuvudtaget
 genomförts i mitt ärende - trots att en sådan prövning är obligatorisk när lagstöd saknas
 och grundlagen aktualiseras.
 
@@ -12565,28 +12565,28 @@ Mot denna bakgrund ber jag kommunen svara på följande:
 
 <!-- sida 323 -->
 
-1. På vilket sätt har kommunens tjänstemän uppfyllt normprövningsskyldigheten i RF 12 kap. 10
+1\. På vilket sätt har kommunens tjänstemän uppfyllt normprövningsskyldigheten i RF 12 kap. 10
 8 i detta ärende då det som jag läser det är en skyldighet enligt ovan lagtext?
 
 Jag ber om ett konkret svar.
 
-2. Varför finns inga rutiner, styrdokument eller kontrollfunktioner för att säkerställa att grundlag
+2\. Varför finns inga rutiner, styrdokument eller kontrollfunktioner för att säkerställa att grundlag
 INTE åsidosätts?
 
 Kommunen har själv uppgett att allt detta saknas även om lagen säger att tillämpningen är en
 skyldighet.
 
-3. Hur anser kommunen att rättssäkerhet kan upprätthållas när normprövning inte tillämpas och
+3\. Hur anser kommunen att rättssäkerhet kan upprätthållas när normprövning inte tillämpas och
 lagstöd saknas?
 
 Detta är kärnfrågan i problematiken kring mina fastigheter som behöver besvaras
 
-4. Varför hanteras normprövningsfrågan i ett KS-ärende och inte enligt Förvaltningslagen?
+4\. Varför hanteras normprövningsfrågan i ett KS-ärende och inte enligt Förvaltningslagen?
 
 Kommunens val av handläggningsform har hittills förhindrat sakprövning trots att sakfrågan klart
 går under Förvaltningslagen.
 
-5. Med vilket annat lagligt stöd anser sig kommunen att de inte behöver tillämpa RF 12 kap. 10 8
+5\. Med vilket annat lagligt stöd anser sig kommunen att de inte behöver tillämpa RF 12 kap. 10 8
 trots att lagen tydligt anger att det är en skyldighet som inte går att avtala bort?
 
 Hur går ställningstagandet ihop med god förvaltningskultur.
@@ -12622,10 +12622,10 @@ Från: FR
 
 Skickat: den 18 november 2025 13:01
 
-Till: Info <infoQkungsbacka.se>; Kommun <kommun(QMkungsbacka.se>
+Till: Info \<infoQkungsbacka.se>; Kommun \<kommun(QMkungsbacka.se>
 
-Kopia: Ida Lennartsson <ida.lennartsson(ÅMkungsbacka.se>; Kommunrevision
-<kommunrevision(Mkungsbacka.se>
+Kopia: Ida Lennartsson \<ida.lennartsson(ÅMkungsbacka.se>; Kommunrevision
+\<kommunrevision(Mkungsbacka.se>
 
 Ämne: Begäran om lagstödsbesked —- tillämpning av planbestämmelse om parkmark i detaljplan
 022
@@ -12666,13 +12666,13 @@ en helt annan sakfråga, nämligen min begäran om ogiltigförklaring av en orea
 planbestämmelse.
 
 Dessa två ärenden måste hållas isär:
-1. 2025KC22035 - Lagstödsfrågan (30/3)
+1\. 2025KC22035 - Lagstödsfrågan (30/3)
 
 Ett rent förvaltningsärende som ska handläggas av tjänstemän, beslutas i förvaltningsrättsligt
 forum och kunna överklagas enligt FL. Detta ärendet innehåller min fråga om vilket lagrum
 kommunen stödjer sig på.
 
-2. KS-2025-00287 - Ogiltighetsfrågan (9/5)
+2\. KS-2025-00287 - Ogiltighetsfrågan (9/5)
 
 Ett kommunstyrelseärende enligt kommunallagen som rör min begäran om
 upphävande/ogiltigförklaring av en orealiserad planbestämmelse.
@@ -12692,13 +12692,13 @@ både kommunen och domstol ska kunna utöva sin lagprövningsskyldighet. Felplac
 ärenden riskerar annars att omintetgöra möjligheten till sakprövning och laglighetskontroll.
 
 Mot bakgrund av den felaktiga diarieföringen och sammanblandningen av två separata sakfrågor
-- vilket inte kan lastas mig som enskild —- lämnar jag genom denna skrivelse på nytt en tydlig och
+\- vilket inte kan lastas mig som enskild —- lämnar jag genom denna skrivelse på nytt en tydlig och
 avgränsad begäran om lagstödsbesked avseende min ursprungliga fråga i 2025KC22035.
 
 Jag begär därför att kommunen, inom ramen för ett korrekt handlagt förvaltningsärende enligt
 Förvaltningslagen, ska:
 
-1. lämna ett skriftligt och överklagbart besked om vilket lagstöd kommunen åberopar för att
+1\. lämna ett skriftligt och överklagbart besked om vilket lagstöd kommunen åberopar för att
 behandla min mark som genomförd parkmark enligt detaljplan Ö22, eller
 
 2.i beslutsform fastslå att sådant lagstöd saknas.
@@ -12754,10 +12754,10 @@ Begäran om exakt lagrum
 Jag ber kommunen att ange vilket lagrum (lag, kapitel och paragraf) som uttryckligen ger
 kommunen rätt att:
 
-1. tillämpa planbestämmelsen om parkmark mot mina fastigheter,
-2. trots att ingen lantmäteriförrättning har genomförts för att realisera bestämmelsen,
+1\. tillämpa planbestämmelsen om parkmark mot mina fastigheter,
+2\. trots att ingen lantmäteriförrättning har genomförts för att realisera bestämmelsen,
 
-3. och trots att ingen ersättningsprövning har gjorts enligt 2 kap. 15 8 Regeringsformen och 4
+3\. och trots att ingen ersättningsprövning har gjorts enligt 2 kap. 15 8 Regeringsformen och 4
 kap. 3 a 8 Expropriationslagen.
 
 Det lagrum som anges måste vara direkt tillämpligt på en rådighetssinskränkning av privat
@@ -12864,10 +12864,10 @@ korrekta rättsregler, riktiga rättskällor och gällande lagstöd.
 Om någon del av min begäran eller hänvisning skulle bedömas vara oklart formulerad eller om
 jag skulle ha missförstått en rättsregel, åligger det kommunen att:
 
-1. rätta,
-2. förtydliga, och
+1\. rätta,
+2\. förtydliga, och
 
-3. tillämpa korrekt lagstöd ändå,
+3\. tillämpa korrekt lagstöd ändå,
 
 eftersom det är myndigheten —- inte den enskilde — som har utredningsansvaret och som måste
 säkerställa att ärendet avgörs i enlighet med gällande rätt.
@@ -13001,12 +13001,12 @@ rättssäkerhetsprinciper.
 
 Jag begär därför att:
 
-1. Sakprövningen av lagstödet och normprövningen enligt RF 12:10 handläggs och beslutas av
+1\. Sakprövningen av lagstödet och normprövningen enligt RF 12:10 handläggs och beslutas av
 Kommunstyrelsens förvaltning, inte av kommunstyrelsen i politisk form.
 
-2. Beslutet som lämnas ska vara ett förvaltningsbeslut, inte ett politiskt beredningsbeslut.
+2\. Beslutet som lämnas ska vara ett förvaltningsbeslut, inte ett politiskt beredningsbeslut.
 
-3. Kommunen bekräftar i sitt svar vilken del av organisationen som fattat beslutet och vilken
+3\. Kommunen bekräftar i sitt svar vilken del av organisationen som fattat beslutet och vilken
 beslutsgrunden är enligt delegationsordningen.
 
 Detta är nödvändigt för att säkerställa att beslutet får korrekt rättsverkan, kan överklagas och
@@ -13050,10 +13050,10 @@ Denna prövning följer direkt av regeringsformen och måste ske när lagstöd s
 tillämpningen av en föreskrift påverkar grundlagsskyddade rättigheter —- såsom i detta fall.
 
 Jag begär därför att kommunen i sitt beslut:
-1. redovisar den normprövning som ska göras enligt RF 12:10,
-2. anger hur denna prövning påverkar möjligheten att tillämpa planbestämmelsen,
+1\. redovisar den normprövning som ska göras enligt RF 12:10,
+2\. anger hur denna prövning påverkar möjligheten att tillämpa planbestämmelsen,
 
-3. och klargör om planbestämmelsen kan tillämpas eller måste åsidosättas på grund av
+3\. och klargör om planbestämmelsen kan tillämpas eller måste åsidosättas på grund av
 bristande lagstöd och utebliven realisering.
 
 Om kommunen trots avsaknad av lagstöd avser att tillämpa planbestämmelsen, ber jag att
@@ -13073,16 +13073,16 @@ kommunens jurist.
 
 Jag begär att kommunen i sitt beslut redovisar följande:
 
-1. Vilken kommunjurist som har deltagit i den rättsliga bedömningen, inklusive namn, titel och
+1\. Vilken kommunjurist som har deltagit i den rättsliga bedömningen, inklusive namn, titel och
 funktion.
 
-2. Att den ansvarige juristen personligen undertecknar den rättsliga motiveringen.
-3. Att normprövningen enligt RF 12 kap. 10 8 redovisas separat och signeras av ansvarig jurist.
+2\. Att den ansvarige juristen personligen undertecknar den rättsliga motiveringen.
+3\. Att normprövningen enligt RF 12 kap. 10 8 redovisas separat och signeras av ansvarig jurist.
 
-4. Vilka personer inom förvaltningsledningen som deltagit i avstämningen, inklusive namn och
+4\. Vilka personer inom förvaltningsledningen som deltagit i avstämningen, inklusive namn och
 befattning.
 
-5. Vilka delar av prövningen respektive person varit ansvarig för, exempelvis:
+5\. Vilka delar av prövningen respektive person varit ansvarig för, exempelvis:
 e rättslig bedömning
 
 e normprövning enligt RF 12:10
@@ -13091,7 +13091,7 @@ e normprövning enligt RF 12:10
 
 e fastighetsrättslig bedömning
 
-6. Om ingen jurist deltagit, begär jag att kommunen skriftligen redovisar vem som då gjort den
+6\. Om ingen jurist deltagit, begär jag att kommunen skriftligen redovisar vem som då gjort den
 rättsliga analysen samt vilken formell juridisk kompetens den personen har.
 
 Med hänsyn till förvaltningslagens krav på saklighet, objektivitet, korrekt kompetensanvändning
@@ -13170,7 +13170,7 @@ Det finns idag en situation som i många kommuner leder till osäkerhet, rättsf
 konflikt mellan lagtext och praxis. Detta är välkänt bland jurister men sällan tillämpat i
 praktiken, trots att bestämmelsen är helt tydlig:
 
-RF 12 kap. 10 $— skyldigheten att vägra verkställa uppenbart olagliga beslut.
+RF 12 kap. 10 \$— skyldigheten att vägra verkställa uppenbart olagliga beslut.
 Detta är inte en valmöjlighet. Det är en lagstadgad skyldighet och rättsstatens sista
 självreglerande skyddsmekanism.
 
@@ -13187,12 +13187,12 @@ rättsstatliga principer i en tid då många upplever att de urholkats.
 Om någon på hög tjänstemannanivå faktiskt skulle börja tillämpa RF 12:10 fullt ut — det
 vill säga markera mot beslut som saknar lagstöd — skulle följande ske:
 
-1. Kommunen får ett internt prejudikat: en norm där lag går före interna rutiner.
+1\. Kommunen får ett internt prejudikat: en norm där lag går före interna rutiner.
 
-2. En juridiskt hållbar handlingslinje etableras: underställda tjänstemän får klar vägledning.
-3. Rättssäkerheten stärks: invånare kan lita på att kommunen följer grundlagen.
+2\. En juridiskt hållbar handlingslinje etableras: underställda tjänstemän får klar vägledning.
+3\. Rättssäkerheten stärks: invånare kan lita på att kommunen följer grundlagen.
 
-4. En nationell effekt kan uppstå: eftersom RF 12:10 ytterst sällan prövats rättsligt.
+4\. En nationell effekt kan uppstå: eftersom RF 12:10 ytterst sällan prövats rättsligt.
 
 Detta är inte spekulation — det är exakt så självreglerande mekanismer i en rättsstat är
 avsedda att fungera. Det enda som egentligen krävs är att en tjänsteman med integritet
@@ -13240,7 +13240,7 @@ avsett.
 
 En möjlighet att bli föredöme för rättsstatlig integritet
 
-Om du väljer att fullt ut stå på grundlagens sida och tillämpa RF 12 kap. 10 $ som
+Om du väljer att fullt ut stå på grundlagens sida och tillämpa RF 12 kap. 10 \$ som
 lagstiftaren avsett, kan du bli den som återställer en princip som många anser gått förlorad:
 ett självreglerande tjänstemannaansvar byggt på juridisk integritet och civilkurage.
 
@@ -13257,7 +13257,7 @@ det är tänkt.
 
 <!-- sida 339 -->
 
-Är du villig att lyfta detta internt och överväga att tillämpa RF 12 kap. 10 $ i detta ärende
+Är du villig att lyfta detta internt och överväga att tillämpa RF 12 kap. 10 \$ i detta ärende
 om du (som jag) bedömer att kommunens tidigare ställningstaganden saknar lagstöd?
 
 Det skulle inte bara lösa mitt eget ärende — det skulle vara ett viktigt steg för

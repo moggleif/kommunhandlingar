@@ -4490,7 +4490,7 @@ Bilaga
 
 Ansökan från Magelungen Utveckling AB
 
-\______________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Johanna Wallfors
 Utredare, Avdelningen för tillstånd och skolors ekonomi, Enheten för tillståndsprövning
 Skolinspektionen

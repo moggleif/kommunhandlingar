@@ -4012,7 +4012,7 @@ Mark- och miljööverdomstolen
 
 ÖVERKLAGAT  AVGÖRANDE
 Vänersborgs tingsrätts, mark- och miljödomstolen, dom 2026-03-13 i mål nr P 540-26
-\_______________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Efter föredragning fattar Mark- och miljööverdomstolen följande
 

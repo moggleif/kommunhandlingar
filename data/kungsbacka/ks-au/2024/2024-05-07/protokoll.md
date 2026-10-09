@@ -251,10 +251,10 @@ Sammanfattning av ärendet
 Kommunstyrelsens arbetsutskott får information om utveckling av Inlag.
 Informationen berör:
 
--  Utveckling av Kungsbacka sportcenter
--  Balansen mellan stadens två stora servicepunkter
+\-  Utveckling av Kungsbacka sportcenter
+\-  Balansen mellan stadens två stora servicepunkter
 
--  Utveckling av Kungsbacka Norra
+\-  Utveckling av Kungsbacka Norra
 
 Beslutsgång
 

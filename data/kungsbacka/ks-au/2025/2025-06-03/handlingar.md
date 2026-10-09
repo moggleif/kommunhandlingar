@@ -489,14 +489,14 @@ SIDA | 2
 
 INNEHÅLL
 
-1. Inledning .................................................................................................................................................... 4
+1\. Inledning .................................................................................................................................................... 4
 
 1.1 Sammanfattning ................................................................................................................................. 4
 1.2 Hur kollektivtrafiken fungerar i Halland .......................................................................................... 5
 
 1.3 Kollektivtrafikens styrande dokument ............................................................................................. 5
 
-2. Planeringsförutsättningar ....................................................................................................................... 7
+2\. Planeringsförutsättningar ....................................................................................................................... 7
 2.1 Halland växer mitt i ett växande sydvästsverige ............................................................................ 7
 
 2.2 En boenderegion med stor arbetskraftsrörlighet .......................................................................... 8
@@ -510,7 +510,7 @@ INNEHÅLL
 2.7 Hallänningarnas tillgång till kollektivtrafik .................................................................................... 11
 2.8 Genomförda trafikförändringar 2015 - 2025, urval ..................................................................... 13
 
-3. Mål för kollektivtrafiken ......................................................................................................................... 14
+3\. Mål för kollektivtrafiken ......................................................................................................................... 14
 3.1 Övergripande mål ............................................................................................................................. 14
 
 3.1.2 Uppföljning och indikatorer ..................................................................................................... 14
@@ -524,7 +524,7 @@ INNEHÅLL
 3.2.4 Självfinansieringsgrad ............................................................................................................... 21
 
 3.2.5 Miljö ............................................................................................................................................. 22
-4. Verksamhetsutveckling - vad vi planerar att göra 2025–2027 ......................................................... 23
+4\. Verksamhetsutveckling - vad vi planerar att göra 2025–2027 ......................................................... 23
 
 4.1 Process för upprättande av Kollektivtrafikplan ............................................................................ 23
 4.2 Mobilitetsåtgärder ............................................................................................................................ 23
@@ -546,7 +546,7 @@ SIDA | 3
 4.4.2 Behov av fortsatt utbyggd busstrafik ...................................................................................... 37
 
 4.4.3 Planering inför upphandling av busstrafik ............................................................................. 38
-5. Särskild kollektivtrafik ............................................................................................................................ 41
+5\. Särskild kollektivtrafik ............................................................................................................................ 41
 
 5.1 Färdtjänst, sjukresor och skolskjuts med personbil .................................................................... 41
 5.1.1 Planeringsförutsättningar ........................................................................................................ 41
@@ -561,7 +561,7 @@ SIDA | 3
 
 5.2.3 Långsiktig plan för tidtabellskiften .......................................................................................... 47
 
-6. Bilagor ...................................................................................................................................................... 48
+6\. Bilagor ...................................................................................................................................................... 48
 6.1 Nyckeltal för den allmänna kollektivtrafiken ................................................................................ 48
 
 6.1.1 Antal resor och produktion per linje 2024 ............................................................................. 48
@@ -576,7 +576,7 @@ SIDA | 3
 
 SIDA | 4
 
-1. INLEDNING
+1\. INLEDNING
 
 1.1 SAMMANFATTNING
 
@@ -696,7 +696,7 @@ Figur 1. Styrdokument Region Halland
 
 SIDA | 7
 
-2. PLANERINGSFÖRUTSÄTTNINGAR
+2\. PLANERINGSFÖRUTSÄTTNINGAR
 
 2.1 HALLAND VÄXER MITT I ETT VÄXANDE SYDVÄSTSVERIGE
 
@@ -1017,7 +1017,7 @@ justerad linjesträckning linje 2.
 
 SIDA | 14
 
-3. MÅL FÖR KOLLEKTIVTRAFIKEN
+3\. MÅL FÖR KOLLEKTIVTRAFIKEN
 
 3.1 ÖVERGRIPANDE MÅL
 
@@ -1058,7 +1058,7 @@ KOLLEKTIVTRAFIKEN I HALLAND SKA BIDRA TILL HÖG ATTRAKTIVITET OCH EN HÅLLBAR SA
 Mål                      Indikatorer         Följs upp i
 Kollektivtrafikens marknadsandel av Resandestatistik Kollektivtrafikplanen
 totalt resande ska vara minst 30% år
-2030.
+2030\.
 
 Kollektivtrafiken ska bidra till positiv Skattekraft, Uppföljning till
 ekonomisk utveckling genom att bidra till Flyttningsöverskott från Tillväxtstrategin
@@ -1138,8 +1138,8 @@ Nöjdhet (%)
 • Senaste resan 80,5 78,8 78,2 79,2 80,5 76,0 82,7  90,0
 Självfinansieringsgrad 55,9 33,4 37,4 52,9 51,9 53,6 54,0 60,0
 (%)
-Fossilfria bränslen (%)* 99,6 99,8 100 100 100 100 100 100
-*exklusive Krösatåg
+Fossilfria bränslen (%)\* 99,6 99,8 100 100 100 100 100 100
+\*exklusive Krösatåg
 Figur 6. Nyckeltal övergripande måluppfyllnad, utfall 2019 – 2024
 
 3.2.1 MARKNADSANDEL
@@ -1188,7 +1188,7 @@ bussresor jämfört med 2023.
 
 5000 000
 
--
+\-
 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 20202021 2022 2023 2024
 Tåg  Buss Beställningstrafik/Närtrafik
 
@@ -1422,7 +1422,7 @@ Figur 15. Andel körda kilometer med fossilfria bränslen inom stad- och regionb
 
 SIDA | 23
 
-4. VERKSAMHETSUTVECKLING - VAD VI PLANERAR ATT GÖRA 2025–2027
+4\. VERKSAMHETSUTVECKLING - VAD VI PLANERAR ATT GÖRA 2025–2027
 
 4.1 PROCESS FÖR UPPRÄTTANDE AV KOLLEKTIVTRAFIKPLAN
 
@@ -2178,7 +2178,7 @@ linje längs väg 518 kan tillgodose båda dessa behov.
 
 SIDA | 41
 
-5. SÄRSKILD KOLLEKTIVTRAFIK
+5\. SÄRSKILD KOLLEKTIVTRAFIK
 
 5.1 FÄRDTJÄNST, SJUKRESOR OCH SKOLSKJUTS MED PERSONBIL
 
@@ -2261,7 +2261,7 @@ kategori resor står för 60 procent av alla serviceresor och det är även denn
 sannolikt kommer att fortsätta öka i takt med en åldrande befolkning.
 
 Under 2024 togs det emot 520 000 samtal i beställningscentralen, ungefär lika många som under
-2023. Inflödet av samtal under 2024 har dock inte varit förutsägbart i samma utsträckning som
+2023\. Inflödet av samtal under 2024 har dock inte varit förutsägbart i samma utsträckning som
 tidigare, vilket har medfört stora utmaningar för beställningscentralen. Detta har dels inneburit
 svårigheter med att bemanna beställningscentralen i enlighet med inflödet av samtal, vilket
 stundtals har medfört längre svarstider än normalt.
@@ -2482,7 +2482,7 @@ Figur 25. Tider för tidtabellsskiften, 2025 - 2028
 
 SIDA | 48
 
-6. BILAGOR
+6\. BILAGOR
 
 6.1 NYCKELTAL FÖR DEN ALLMÄNNA KOLLEKTIVTRAFIKEN
 
@@ -2551,18 +2551,18 @@ SIDA | 52
 6.2.2 FÖRDELNING PER VÄGHÅLLARANSVAR
 
 Uppdaterad december 2024. Bokstaven efter hållplatsnamnet är lägesbeteckningen.
-* = endast mindre åtgärd krävs för att uppnå tillgänglighetsanpassning, oftast enbart
+\* = endast mindre åtgärd krävs för att uppnå tillgänglighetsanpassning, oftast enbart
 plattläggning.
 
 LAHOLM                På kommunal väg:       Laholm Repslagaregatan A
-Laholm Blåkulla A *    Laholm Repslagaregatan B
+Laholm Blåkulla A \*    Laholm Repslagaregatan B
 På Trafikverkets väg: Laholm Blåkulla B      Laholms bussterminal B
 Laholm Brandstationen A Laholm Glänninge vårdcentral Laholms bussterminal C
-Laholm Brandstationen B A *                  Laholms bussterminal D
-Veinge station A *    Laholm Industrigatan A Laholms bussterminal E
+Laholm Brandstationen B A \*                  Laholms bussterminal D
+Veinge station A \*    Laholm Industrigatan A Laholms bussterminal E
 Laholm Industrigatan B
 På enskild väg:
---
+\--
 
 HYLTE
 
@@ -2575,7 +2575,7 @@ Hyltebruk Sjukstugan A
 Hyltebruk Sjukstugan B
 
 På enskild väg:
---
+\--
 
 <!-- sida 67 -->
 
@@ -2593,8 +2593,8 @@ Oskarström Bronsgatan A Halmstad Järnvägsgatan B Halmstad Varpvägen A
 Oskarström Bronsgatan B Halmstad Kardvägen A Halmstad Varpvägen B
 Sennan A              Halmstad Kardvägen B   Halmstad Väktarevägen A
 Sennan B              Halmstad Klackerupsgatan A Halmstad Väktarevägen B
-Skipås A              Halmstad Kolastigen A  Halmstad Åttingsstigen A *
-Trönninge A           Halmstad Kolastigen B  Halmstad Åttingsstigen B *
+Skipås A              Halmstad Kolastigen A  Halmstad Åttingsstigen A \*
+Trönninge A           Halmstad Kolastigen B  Halmstad Åttingsstigen B \*
 Åled Kullavägen A     Halmstad Kvarnbacken A Halmstad Örlogsvägen A
 Åled Kullavägen B     Halmstad Kvarnbacken B Halmstad Örlogsvägen B
 Åled A                Halmstad Kvarnbacken C Halmstad Östergård A
@@ -2603,7 +2603,7 @@ Halmstad Larsfridsvägen A Halmstad Östergårdsskolan A
 På kommunal väg:      Halmstad Larsfridsvägen B Halmstad Östergårdsskolan B
 
 Frösakull A           Halmstad Linehed A     Halmstad Östervägen A
-Frösakull B           Halmstad Linehed B *   Tylöbäck A
+Frösakull B           Halmstad Linehed B \*   Tylöbäck A
 Frösakull Campingstigen A Halmstad Lummervägen B Tylöbäck B
 Frösakull Campingstigen B Halmstad Magnus Stenbocks
 Frösakull Erik Staels väg A väg A            På enskild väg:
@@ -2617,10 +2617,10 @@ Halmstad Byvägen B    Halmstad Norra Utmarken A Trönninge B
 
 Halmstad Cirkusplatsen A Halmstad Pihlgården A
 Halmstad Cirkusplatsen C Halmstad Pihlgården B
-Halmstad Flygaregatan B * Halmstad Pumpvägen A
+Halmstad Flygaregatan B \* Halmstad Pumpvägen A
 Halmstad Flygplats A  Halmstad Skyttevägen A
-Halmstad Flygstaden A * Halmstad Slottsjordsskolan A
-Halmstad Flygstaden B * Halmstad Slottsjordsskolan B
+Halmstad Flygstaden A \* Halmstad Slottsjordsskolan A
+Halmstad Flygstaden B \* Halmstad Slottsjordsskolan B
 Halmstad Frennarp A   Halmstad Slottsparken B
 Halmstad Frennarpsvägen A Halmstad Slupvägen B
 Halmstad Frennarpsvägen B Halmstad Sofieberg A
@@ -2665,7 +2665,7 @@ Agerör B
 Falkenberg Falkagårdsvägen A
 Falkenberg Falkagårdsvägen B
 Falkenberg Hertings kyrka A
-Falkenberg Hjortsberg B *
+Falkenberg Hjortsberg B \*
 Falkenberg Lerhålan A
 Falkenberg Lerhålan B
 Falkenberg Ljungholmen A
@@ -2682,7 +2682,7 @@ Långås A
 Långås B
 Skogstorp Humlevägen A
 Skogstorp Humlevägen B
-Skogstorp Hyacintvägen B *
+Skogstorp Hyacintvägen B \*
 Skogstorp Prästkragevägen A
 
 <!-- sida 69 -->
@@ -2701,20 +2701,20 @@ Lillebacka A          Varberg Håstensskolan B
 Lillebacka B          Varberg Karlbergsvägen A
 Limabacka Brandstation A Varberg Karlbergsvägen B
 Limabacka Brandstation B Varberg Lassabacka södra A
-Ringhals A            Varberg Lindbergsvägen A *
-Ringhals B            Varberg Lindbergsvägen B *
+Ringhals A            Varberg Lindbergsvägen A \*
+Ringhals B            Varberg Lindbergsvägen B \*
 Tvååker Grusvägen A   Varberg Peder Skrivares skola
 Tvååker Grusvägen B   A
 Varberg Peder Skrivares skola
 På kommunal väg       B
-Jonstaka A *          Varberg Peder Skrivares skola
-Jonstaka B *          C
+Jonstaka A \*          Varberg Peder Skrivares skola
+Jonstaka B \*          C
 
 Kuragård A            Varberg Polishuset A
 Kuragård B            Varberg Polishuset B
-Lindbergs skola A *   Varberg S:t Jörgens kapell A
+Lindbergs skola A \*   Varberg S:t Jörgens kapell A
 Strandbackavägen A    Varberg S:t Jörgens kapell B
-Träslövsläge Fiskebåtsvägen A Varberg Sjukhuset A *
+Träslövsläge Fiskebåtsvägen A Varberg Sjukhuset A \*
 Träslövsläge Fiskebåtsvägen B På enskild väg:
 Träslövsläge Jungmansvägen Ringhals, Vakten A
 C                     Ringhals, Vakten B
@@ -2742,7 +2742,7 @@ B
 
 SIDA | 56
 
-KUNGSBACKA            Kungsbacka station B   Åsaskolan C *
+KUNGSBACKA            Kungsbacka station B   Åsaskolan C \*
 Kungsbacka station C   Älskogsbräcka B
 På Trafikverkets väg: Kungsbacka station D   Älvsåkers skola A
 Anneberg station A    Kungsbacka station E   Älvsåkers skola B
@@ -2757,18 +2757,18 @@ Hjälms bro A          Kungsbacka station M
 Hjälms bro B          Kungsbacka Stora Bäcksleden
 Karsegården A         A
 Karsegården B         Kungsbacka Stora Bäcksleden
-Kobbavik A            B *
-Kobbavik B            Kungsbacka Tölö kyrka C *
-Leksandsgården A *    Kungsbacka Varlaskolan C *
-Leksandsgården B *
-Onsala kyrka A *      På enskild väg:
+Kobbavik A            B \*
+Kobbavik B            Kungsbacka Tölö kyrka C \*
+Leksandsgården A \*    Kungsbacka Varlaskolan C \*
+Leksandsgården B \*
+Onsala kyrka A \*      På enskild väg:
 
-Onsala kyrka B *      Fjärås Bräckaskolan A *
-Onsala kyrka C *      Fjärås Bräckaskolan B *
-Presseskolan A        Fjärås Bräckaskolan C *
-Presseskolan B        Fjärås Bräckaskolan D *
-Tallbacken A          Fjärås Bräckaskolan E *
-Tallbacken B          Fjärås Bräckaskolan F *
+Onsala kyrka B \*      Fjärås Bräckaskolan A \*
+Onsala kyrka C \*      Fjärås Bräckaskolan B \*
+Presseskolan A        Fjärås Bräckaskolan C \*
+Presseskolan B        Fjärås Bräckaskolan D \*
+Tallbacken A          Fjärås Bräckaskolan E \*
+Tallbacken B          Fjärås Bräckaskolan F \*
 Vallda kyrka A        Fjärås Smedingeskolan A
 Vallda kyrka B        Fjärås Smedingeskolan B
 Vickan A              Fjärås Smedingeskolan C
@@ -2783,13 +2783,13 @@ Bengtsgårdsgatan B    Fjärås station C
 Kungsbacka Fors A     Gottskär A
 Kungsbacka Gårdskulla A Gällingeskolan A
 Kungsbacka Hedebrovägen A Kullaviks hamn A
-*                     Toråsskolan A
+\*                     Toråsskolan A
 Kungsbacka Hedebrovägen B Toråsskolan B
-*                     Toråsskolan C
+\*                     Toråsskolan C
 Kungsbacka Kungsmässan A Toråsskolan D
-Kungsbacka Smeagatan A Åsaskolan A *
+Kungsbacka Smeagatan A Åsaskolan A \*
 
-Kungsbacka station A  Åsaskolan B *
+Kungsbacka station A  Åsaskolan B \*
 
 <!-- sida 71 -->
 
@@ -4132,7 +4132,7 @@ framtida invånare och bidrar till kommunens långsiktiga välfärd och tillväx
 strategi som positionerar Kungsbacka som en framåtblickande och innovativ kommun.
 
 Mot bakgrund av ovan föreslår alliansen att:
--  Kommundirektören får i uppdrag att utreda möjligheten till etablering av ett
+\-  Kommundirektören får i uppdrag att utreda möjligheten till etablering av ett
 utvecklingscenter i kommunen. Utredningen ska belysa intressenter, placering och
 finansiering.
 
@@ -4221,11 +4221,11 @@ också ett granskningsintyg lämnas. Redovisningen och granskningen ska avse per
 december och lämnas in senast sex månader efter räkenskapsårets utgång.
 
 Kommunfullmäktige kan besluta att inte betala ut partistöd till ett parti för nästkommande år om:
--  Redovisningen av partistödet visar att partistödet inte använts för det ändamål som anges i
+\-  Redovisningen av partistödet visar att partistödet inte använts för det ändamål som anges i
 4 kap. 29 § första stycket kommunallagen eller på annat sätt inte följer de bestämmelser som
 
 anges i reglerna för kommunalt partistöd i Kungsbacka kommun.
--  Redovisningen och granskningsintyg inte har lämnats in till kommunfullmäktige inom
+\-  Redovisningen och granskningsintyg inte har lämnats in till kommunfullmäktige inom
 föreskriven tid enligt 4 kap. 31 § andra stycket kommunallagen, det vill säga senast sex
 månader efter räkenskapsårets utgång.
 
@@ -4330,8 +4330,8 @@ Granskares anteckningar
 2 (3)
 
 Överföring till Motprestation Kronor
-+
-+
+\+
+\+
 
 Summa överföringar =
 
@@ -4431,7 +4431,7 @@ Granskares anteckningar
 Överföring till Motprestation Kronor
 
 Centerpartiet Hallands Distrikt |+ Administration 97 181
-+
+\+
 
 Summa överföringar = 97 181
 
@@ -4459,7 +4459,7 @@ Erlånd Andersson
 
 Datum
 
-2025-05 -0$
+2025-05 -0\$
 
 Granskningsrapport
 Alternativ 2 (använd antingen alternativ 1 eller 2)
@@ -4479,7 +4479,7 @@ Datum
 
 <!-- sida 108 -->
 
-113)
+113\)
 
 Kungsbacka
 
@@ -4550,7 +4550,7 @@ Granskares anteckningar
 Överföring till Motprestation
 
 KD partidistrikt Halland + Gemensamma tjänster 94 300
->
+\>
 
 Summa överföringar = 94 300
 
@@ -4645,15 +4645,15 @@ Summa utgifter för aktiviteter under perioden = 85 899
 
 <!-- sida 111 -->
 
-213)
+213\)
 
 C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 
 Granskares anteckningar
 
 Överföring till Motprestation Kronor
-+
-+
+\+
+\+
 
 Summa överföringar -
 
@@ -4669,7 +4669,7 @@ Datum
 
 22 April 2025
 
-- Cd å - - ra z E tf
+\- Cd å - - ra z E tf
 
 Namnförtydligande IH - . På
 Christer Perfjell SI na style
@@ -4706,7 +4706,7 @@ Redovisning av kommunalt partistöd
 
 År 2024
 
-13)
+13\)
 
 Partiuppgifter
 Parti Organisationsnummer Kontonummer
@@ -4755,7 +4755,7 @@ Granskares anteckningar
 Överföring till Motprestation Kronor
 
 Till Moderaterna i Halland + Administrativt stöd 335 910,00
-+
+\+
 
 Summa överföringar = 335 910,00
 
@@ -4810,7 +4810,7 @@ Anvisningar till redovisning av kommunalt partistöd
 
 Inledning
 
-Enligt kommunallagens 4 kapitel 29-32 $$ får kommuner ge ekonomiskt bidrag och annat stöd till politiska
+Enligt kommunallagens 4 kapitel 29-32 \$\$ får kommuner ge ekonomiskt bidrag och annat stöd till politiska
 partier för att stärka deras ställning i den kommunala demokratin, så kallat kommunalt partistöd. De partier som
 beviljas partistöd ska årligen lämna en skriftlig redovisning som visar att partistödet har använts till detta
 ändamål.
@@ -4842,27 +4842,27 @@ använts.
 
 Granskningen ska ge svar på följande frågor:
 
-- — Framgår det av redovisningen att partistödet har använts för att utveckla partiets ställning i den lokala
+\- — Framgår det av redovisningen att partistödet har använts för att utveckla partiets ställning i den lokala
 demokratin?
-- Finns det underlag som styrker de kostnader som framgår av redovisningen?
+\- Finns det underlag som styrker de kostnader som framgår av redovisningen?
 
 Metod
 
 Granska aktiviteterna som framgår av tabell B i redovisningen och bedöm om de motsvarar syftet med
 partistödet. Stödet är avsett för det lokala partiarbetet som riktar sig till kommunmedlemmarna.
 
-- Kontrollera att det finns underlag som styrker kostnaderna för aktiviteterna.
+\- Kontrollera att det finns underlag som styrker kostnaderna för aktiviteterna.
 
-- Kontrollera att beräkningen av summan för kostnaderna i tabell B är korrekt.
+\- Kontrollera att beräkningen av summan för kostnaderna i tabell B är korrekt.
 
-- — Granska eventuella överföringar av partistödet till delar av partiorganisationen utanför kommunen
+\- — Granska eventuella överföringar av partistödet till delar av partiorganisationen utanför kommunen
 (framgår av tabell C) och om motprestationer för dessa motsvarar syftet med partistödet.
 
-- Kontrollera om det finns underlag i partiets bokföring som styrker överföringen.
+\- Kontrollera om det finns underlag i partiets bokföring som styrker överföringen.
 
-- Kontrollera att beräkningen av summan för kostnaderna i tabell C är korrekt.
+\- Kontrollera att beräkningen av summan för kostnaderna i tabell C är korrekt.
 
-- Kontrollera att sammanställningen i tabell A är korrekt.
+\- Kontrollera att sammanställningen i tabell A är korrekt.
 
 Bedömning
 Bedömningen fylls i under rubriken ”Granskningsrapport”. Där väljs ett av de två bedömningsalternativen.
@@ -4891,9 +4891,9 @@ Kronor
 ..
 Västsveri
 liberalerna                                                                        dm
-.;::.__      __-a,.=..         .;=..;..;::..;.:..;.;::.;.:;..:::�.;;;,;;.;;:------t
+.;::.\_\_      \_\_-a,.=..         .;=..;..;::..;.:..;.;::.;.:;..:::�.;;;,;;.;;:------t
 
---
+\--
 
 49840
 
@@ -4901,7 +4901,7 @@ u
 
 som                   i
 
-----
+\----
 T
 
 nde                                                                                              D
@@ -4920,7 +4920,7 @@ er
 
 ..
 den       .                                                          e                         partistödet
-Jag     har.                                                                         av    h      dt     kcm,,.  munata~                             har    använts         och     alt   det    fitns     oode,iag         sa,1     styrker
+Jag     har.                                                                         av    h      dt     kcm,,.  munata\~                             har    använts         och     alt   det    fitns     oode,iag         sa,1     styrker
 
 •    hed                           .• redovisnt
 ·ngen       ger    en    rättvisande           bild   a• v  hur    pasmtödet            anväru         .
@@ -4934,14 +4934,14 @@ Telefort
 
 nde                                                                                              Datum
 (
-�-------__JL___-=!::::S�O�-=-·
+�-------\_\_JL\_\_\_-=!::::S�O�-=-·
 Lf
 Ei  rik
--                                                                                                                      -
+\-                                                                                                                      -
 la                                                              ---                                                                          -                       -
-c:::! .                                                                                                                                    _:_/::::!:..________
-__J
-•                                                             --~-=..---                                                    1
+c:::! .                                                                                                                                    \_:\_/::::!:..\_\_\_\_\_\_\_\_
+\_\_J
+•                                                             --\~-=..---                                                    1
 
 G                          g
 1
@@ -4950,7 +4950,7 @@ G                          g
 
 • .. •
 Jag      har                     d  e n  sk•,• ifli-Ja    redwisningen               av    hur    de'  t• k a111�11U     fla• la· partis
->
+\>
 tödet•    har    31tväi     Ils  och     alt'  det    finns     ..a• tdertag      SOii     styrker
 •   ..
 •                                                 , ....
@@ -5104,13 +5104,13 @@ Postnummer Postort Telefonnummer
 EN Åsa CN
 A Sammanställning Kronor Granskares anteckningar
 Kvarstående partistöd från föregående period (år) 29 421:-
-+ ir
+\+ ir
 Beviljat partistöd för perioden 134 600
 Utgifter under perioden (summa B + C) - 30 733:-
 Kvarstående partistöd inför kommande period (summa) = 133 288:-
 B Redovisning av hur partistödet använts (aktiviteter) Kronor Granskares anteckningar
 Aktivitet
-- 4121-
+\- 4121-
 Möten
 Kommunikation — webb
 Kommunikation — annonsering
@@ -5136,18 +5136,18 @@ Granskares anteckningar
 Överföring till Motprestation Medlemshantering, Kronor
 BN äg es av ” organisationsstöd, information,
 Miljöpartiet de Gröna riks utbildning och nätverk 6 730:-
-+
-+
+\+
+\+
 
 Summa överföringar
 
 Underskrift
 
-=
+\=
 
 Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
 
-Namnförtydligande <A
+Namnförtydligande \<A
 Ingegärd Salmose
 
 Datum
@@ -5168,7 +5168,7 @@ Telef
 
 Datum
 
-202$5-03,06G
+202\$5-03,06G
 
 Granskningsrapport
 
@@ -5203,7 +5203,7 @@ Partiuppgifter
 
 År 2024
 
-13)
+13\)
 
 Vänsterpartiet Kungsbacka
 
@@ -5211,7 +5211,7 @@ Parti 849400-8587
 
 Kontonummer
 
-- Åsa
+\- Åsa
 
 Utdelningsadress E-postadress
 
@@ -5224,10 +5224,10 @@ A Sammanställning Kronor Granskares anteckningar
 236723
 Kvarstående partistöd från föregående period (år)
 
-+ 134600
+\+ 134600
 Beviljat partistöd för perioden
 
-- 112416
+\- 112416
 Utgifter under perioden (summa B + C)
 
 = 258907
@@ -5263,11 +5263,11 @@ Motprestation Kronor
 
 Ombudsman, Annonsering |31104
 
-+ Gemensamma aktiviteter
+\+ Gemensamma aktiviteter
 
 Granskningsrapport
 
-+
+\+
 31104
 
 Summa överföringar =
@@ -5554,18 +5554,18 @@ långtidsstudie av UF alumners arbetsmarknadspotential och företagande av docen
 Wennberg vid Stockholm School of Economics och Niklas Elert på Ratio. Rapporten visar att
 UF-företagare senare i livet:
 
-1. får högre medelinkomst
-2. blir chefer i större utsträckning
-3. har en högre etablering på arbetsmarknaden
+1\. får högre medelinkomst
+2\. blir chefer i större utsträckning
+3\. har en högre etablering på arbetsmarknaden
 
 Det resultatet ska sättas i relation till rapporten Övning ger färdighet – En långtidsuppföljning
 av UF-företagares entreprenöriella karriärer i Sverige 1990-2007 som gavs ut 2011, även
 den av Karl Wennberg. Rapporten visar att UF-företagare:
 
-1. startar företag i större utsträckning senare i livet
-2. anställer fler personer i sina företag
-3. har högre omsättning i sina företag
-4. har längre livslängd på sina företag
+1\. startar företag i större utsträckning senare i livet
+2\. anställer fler personer i sina företag
+3\. har högre omsättning i sina företag
+4\. har längre livslängd på sina företag
 
 …än de som inte har drivit UF-företag.
 
@@ -5875,30 +5875,30 @@ LÄNSSTYRELSEN          Förslag till beslut          5 (14)
 
 2025-04-04            511-4033-2024
 
-1. uppföra byggnad, anordning eller anläggning,
+1\. uppföra byggnad, anordning eller anläggning,
 
-2. uppföra mast eller antenn samt anlägga luft- eller markledning,
-3. anlägga väg,
-4. borra, spränga, schakta, gräva, markbearbeta eller bedriva täkt,
-5. dika, dämma, dikesrensa eller utföra annan åtgärd som kan påverka områdets
+2\. uppföra mast eller antenn samt anlägga luft- eller markledning,
+3\. anlägga väg,
+4\. borra, spränga, schakta, gräva, markbearbeta eller bedriva täkt,
+5\. dika, dämma, dikesrensa eller utföra annan åtgärd som kan påverka områdets
 hydrologi. Med Länsstyrelsens tillstånd är det dock tillåtet att underhålla dike
 enligt bestämmelserna i 11 kap. 17 § miljöbalken under förutsättning att diket
 är lagligt anlagt,
-6. anordna upplag, tippa eller fylla ut,
-7. kalka, gödsla eller sprida bekämpningsmedel,
-8. avverka, gallra, röja, föryngra skog eller på annat sätt påverka vegetationen,
-9. ta bort eller upparbeta dött träd, vindfälle eller döda grövre grenar,
-10. framföra motordrivet fordon,
-11. ha båt upplagd på stranden, ankrad eller förtöjd mer än två dygn,
+6\. anordna upplag, tippa eller fylla ut,
+7\. kalka, gödsla eller sprida bekämpningsmedel,
+8\. avverka, gallra, röja, föryngra skog eller på annat sätt påverka vegetationen,
+9\. ta bort eller upparbeta dött träd, vindfälle eller döda grövre grenar,
+10\. framföra motordrivet fordon,
+11\. ha båt upplagd på stranden, ankrad eller förtöjd mer än två dygn,
 
 Dessutom är det förbjudet att utan Länsstyrelsens tillstånd:
 
-12. sätta upp tavla, affisch, skylt eller göra inskrift,
-13. anordna lägerverksamhet, tävlingar eller andra arrangemang,
-14. uppföra jakttorn,
-15. utfodra vilt och använda åtel,
-16. inplantera för området främmande arter samt att
-17. utföra undersökningar som innebär markering, insamling, fångst eller annan påverkan på
+12\. sätta upp tavla, affisch, skylt eller göra inskrift,
+13\. anordna lägerverksamhet, tävlingar eller andra arrangemang,
+14\. uppföra jakttorn,
+15\. utfodra vilt och använda åtel,
+16\. inplantera för området främmande arter samt att
+17\. utföra undersökningar som innebär markering, insamling, fångst eller annan påverkan på
 naturmiljön. Detta krav om tillstånd gäller dock inte vid insamling och dödande av ryggradslösa
 djur om insamlingen krävs för att en säker artbestämning ska kunna ske, den görs manuellt
 genom plockning, håvning eller motsvarande (alltså ej med fällor) och den görs utan att bark,
@@ -5909,17 +5909,17 @@ a) förvaltaren av naturreservatet, eller den som förvaltaren uppdrar åt, att 
 de åtgärder som behövs för att tillgodose syftet med naturreservatet och som
 framgår av föreskrifterna B 1-7,
 b) underhåll av den stig som markerats på karta 1 under förutsättning att:
-- inget material tillförs området som kan innehålla för området främmande
+\- inget material tillförs området som kan innehålla för området främmande
 
 arter eller förorenade ämnen,
-- överskottsmassor och överblivet material forslas ut ur naturreservatet,
+\- överskottsmassor och överblivet material forslas ut ur naturreservatet,
 c) akuta reparationsåtgärder på ledningar. Undantaget omfattar inte
 förebyggande röjning av ledningsgator, planerat byte, flytt av ledningar eller
 andra åtgärder som kan planeras. Vid åtgärderna ska skador på mark, stigar,
 stängsel och friluftsanordningar undvikas, men om de uppstår ska de
 återställas så fort som möjligt,
 d) underhåll av ledningar inklusive ledningsgator under förutsättning att:
-- markskador minimeras och eventuellt uppkomna skador repareras,
+\- markskador minimeras och eventuellt uppkomna skador repareras,
 
 <!-- sida 138 -->
 
@@ -5927,15 +5927,15 @@ LÄNSSTYRELSEN          Förslag till beslut          6 (14)
 
 2025-04-04            511-4033-2024
 
-- inget material tillförs området som kan innehålla för området främmande
+\- inget material tillförs området som kan innehålla för området främmande
 
 arter eller förorenade ämnen,
-- överskottsmassor och överblivet material forslas ut ur naturreservatet,
-- åtgärder genomförs under perioden 1 september – 31 mars (såvida
+\- överskottsmassor och överblivet material forslas ut ur naturreservatet,
+\- åtgärder genomförs under perioden 1 september – 31 mars (såvida
 åtgärden inte är akut),
-- en, hassel, nypon, slån, apel och hagtorn ska sparas om de inte utgör
+\- en, hassel, nypon, slån, apel och hagtorn ska sparas om de inte utgör
 hinder för elsäkerheten eller ledningsunderhåll,
-- framkomlighet på stigar inte har försämrats när arbetet avslutats,
+\- framkomlighet på stigar inte har försämrats när arbetet avslutats,
 e) jakträttsinnehavare att använda motordrivet fordon för uttransport av älg,
 hjort, rådjur och vildsvin i enlighet med terrängkörningsbestämmelserna,
 dock inte körning på fuktig mark eller inom 20 meter från vattendrag,
@@ -5956,11 +5956,11 @@ B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6
 
 ägare och innehavare av särskild rätt till fastigheten att tåla åtgärder inom området
 enligt följande:
-1. utmärkning av naturreservatets gräns, enligt Naturvårdsverkets anvisningar,
-2. anläggning och underhåll av friluftsanordningar, exempelvis markerade stigar,
+1\. utmärkning av naturreservatets gräns, enligt Naturvårdsverkets anvisningar,
+2\. anläggning och underhåll av friluftsanordningar, exempelvis markerade stigar,
 eldstad och informationsskyltar,
 
-3. naturvårdande skötsel av skog
+3\. naturvårdande skötsel av skog
 a. fällning, röjning, ringbarkning av all gran, lärk och rödek,
 b. fällning, röjning, ringbarkning av bok och sykomorlönn när de riskerar att
 hota ekvärden,
@@ -5968,13 +5968,13 @@ c. veteranisering1, skapande av högstubbar, lågor och hålträd,
 d. sådd och plantering av ek, alm, ask, lind och skogslönn och användande av
 
 stängsel och hägn som skydd för plantor.
-4. uppläggning av död ved i faunadepåer, samt anläggning av mulmholkar,
+4\. uppläggning av död ved i faunadepåer, samt anläggning av mulmholkar,
 ekoxekomposter och liknande konstruktioner för att gynna skyddsvärda arter,
-5. bekämpning av främmande arter,
-6. utsättning av hotade arter där utsättningar krävs för att stärka artens möjlighet
+5\. bekämpning av främmande arter,
+6\. utsättning av hotade arter där utsättningar krävs för att stärka artens möjlighet
 till långsiktig överlevnad i länet samt,
 
-7. undersökningar och dokumentation av friluftsliv, mark, vatten samt växt-,
+7\. undersökningar och dokumentation av friluftsliv, mark, vatten samt växt-,
 svamp- och djurliv.
 
 C. Ordningsföreskrifter om rätten att färdas och vistas inom naturreservat samt om
@@ -5983,15 +5983,15 @@ förordningen [1998:1252] om områdesskydd enligt miljöbalken m.m.).
 
 Inom naturreservatet är det förbjudet att:
 
-1. skada levande eller döda träd, buskar och grenar,
-2. skada, plocka eller samla in mossor, lavar eller svampar annat än enstaka
+1\. skada levande eller döda träd, buskar och grenar,
+2\. skada, plocka eller samla in mossor, lavar eller svampar annat än enstaka
 exemplar. Dock är det tillåtet att plocka matsvamp,
 
-3. elda annat än på anvisad plats,
-4. sätta upp tavla, affisch, skylt, snitsel eller göra inskrift,
-5. inplantera för området främmande arter,
-6. ha båt upplagd på stranden, ankrad eller förtöjd mer än två dygn,
-7. uppföra någon form av anläggning,
+3\. elda annat än på anvisad plats,
+4\. sätta upp tavla, affisch, skylt, snitsel eller göra inskrift,
+5\. inplantera för området främmande arter,
+6\. ha båt upplagd på stranden, ankrad eller förtöjd mer än två dygn,
+7\. uppföra någon form av anläggning,
 
 1 Veteranisering: mekanisk åverkan eller bearbetning på träd för att påskynda åldrande och skapande av sådana
 trädstrukturer som främst uppträder på gamla träd.
@@ -6003,10 +6003,10 @@ LÄNSSTYRELSEN          Förslag till beslut          8 (14)
 2025-04-04            511-4033-2024
 
 Dessutom är det förbjudet att utan Länsstyrelsens tillstånd:
-8. anordna lägerverksamhet, tävlingar eller andra arrangemang,
-9. använda fällor som dödar ryggradslösa djur,
-10. inplantera för området främmande arter samt att
-11. utföra undersökningar som innebär markering, insamling, fångst eller annan
+8\. anordna lägerverksamhet, tävlingar eller andra arrangemang,
+9\. använda fällor som dödar ryggradslösa djur,
+10\. inplantera för området främmande arter samt att
+11\. utföra undersökningar som innebär markering, insamling, fångst eller annan
 påverkan på naturmiljön. Detta krav om tillstånd gäller dock inte vid insamling
 och dödande av ryggradslösa djur om insamlingen krävs för att en säker
 
@@ -6364,9 +6364,9 @@ Innehållsförteckning
 
 Förord ....................................................................................................................................1
 
-1. Syfte ...................................................................................................................................3
+1\. Syfte ...................................................................................................................................3
 
-2. Beskrivning av området ...................................................................................................3
+2\. Beskrivning av området ...................................................................................................3
 2.1 Markslag, naturtyper och arter.....................................................................................3
 
 2.2 Historisk och nuvarande markanvändning samt naturförhållanden och landskapsbild
@@ -6375,12 +6375,12 @@ Förord ........................................................................
 2.3 Beskrivning av bevarandevärden .................................................................................5
 2.4 Referenser ....................................................................................................................7
 
-3. Skötsel av området ...........................................................................................................7
+3\. Skötsel av området ...........................................................................................................7
 
 3.1. Generella riktlinjer ......................................................................................................7
 3.2 Skötselområden ...........................................................................................................8
 
-4. Friluftsliv och turism .....................................................................................................12
+4\. Friluftsliv och turism .....................................................................................................12
 
 Beskrivning ......................................................................................................................12
 Att ta sig hit .....................................................................................................................12
@@ -6388,11 +6388,11 @@ Att ta sig hit .................................................................
 Mål ...................................................................................................................................12
 Åtgärder ...........................................................................................................................12
 
-5. Tillsyn, dokumentation och uppföljning ......................................................................12
+5\. Tillsyn, dokumentation och uppföljning ......................................................................12
 
-6. Sammanfattning och prioritering av planerade skötselåtgärder ..............................12
+6\. Sammanfattning och prioritering av planerade skötselåtgärder ..............................12
 
-7. Kartor ..............................................................................................................................14
+7\. Kartor ..............................................................................................................................14
 
 7.1 Översiktskarta ............................................................................................................14
 7.2 Skötselkartor ..............................................................................................................15
@@ -6409,7 +6409,7 @@ Mål ...........................................................................
 
 <!-- sida 151 -->
 
-1. Syfte
+1\. Syfte
 
 Syftet med naturreservatet är att vårda, bevara, återställa och nyskapa värdefulla
 naturmiljöer samt att skydda, återställa och nyskapa livsmiljöer för skyddsvärda arter.
@@ -6446,7 +6446,7 @@ fridlysta eller rödlistade arter,
 •  nya kunskaper om hotade och hänsynskrävande arter och naturtyper beaktas i
 skötseln av reservatet.
 
-2. Beskrivning  av området
+2\. Beskrivning  av området
 
 2.1 Markslag, naturtyper och arter
 Indelning enligt marktäckedata
@@ -6593,7 +6593,7 @@ Skogsförsöksanstalt volym 31, sidorna 171 - 300.
 Naturvårdsverket och Skogsstyrelsen. 2024. Nationell strategi för formellt skydd av skog –
 reviderad version 2024. Naturvårdsverkets rapport 7168.
 
-3. Skötsel av området
+3\. Skötsel av området
 
 3.1. Generella riktlinjer
 Död ved
@@ -6847,7 +6847,7 @@ behov.
 •  Alla icke inhemska trädslag ska röjas bort alternativt ringbarkas. Sykomorlönn kan
 dock sparas.
 
-4. Friluftsliv och turism
+4\. Friluftsliv och turism
 
 Beskrivning
 
@@ -6864,13 +6864,13 @@ En informationsskylt som beskriver naturreservatet ska finnas.
 Åtgärder
 Uppsättning och underhåll av en informationsskylt.
 
-5. Tillsyn, dokumentation    och  uppföljning
+5\. Tillsyn, dokumentation    och  uppföljning
 
 Länsstyrelsen ansvarar för att uppföljning av bevarandemål genomförs. Uppföljningen ska
 ske enligt de manualer för skyddade områden som har tagits fram av Naturvårdsverket.
 Länsstyrelsen ansvarar för regelbunden tillsyn av reservatet.
 
-6. Sammanfattning     och prioritering  av
+6\. Sammanfattning     och prioritering  av
 
 planerade   skötselåtgärder
 
@@ -6896,7 +6896,7 @@ Tabell 4. Sammanfattning och prioritering av skötselplanens åtgärder. Priorit
 
 <!-- sida 162 -->
 
-7. Kartor
+7\. Kartor
 
 7.1 Översiktskarta
 
@@ -7077,7 +7077,7 @@ Begära     planbesked
 
 Ärendenummer: #191549 | Inskickat av:   | 2025-03-13 14:38
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -7092,7 +7092,7 @@ Personnummer
 Förnamn                           Efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -7117,7 +7117,7 @@ Ja
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -7147,7 +7147,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -8037,18 +8037,18 @@ Bilaga   1: studerade     platser
 
 Följande platser har studerats för placering av ishall:
 
-9. Lerberg 5:14>3
-1. Skårby 12:1
-2. Nötegång 1:108
-4. Hede 9:26 och Voxlöv 4:9>2
+9\. Lerberg 5:14>3
+1\. Skårby 12:1
+2\. Nötegång 1:108
+4\. Hede 9:26 och Voxlöv 4:9>2
 
-6. Nötegång 1:108
-5. Voxlöv 2:3>2
-3. Kungsbacka 4:65 m.fl.
-7. Nedre Ögärdet 2:13>1
+6\. Nötegång 1:108
+5\. Voxlöv 2:3>2
+3\. Kungsbacka 4:65 m.fl.
+7\. Nedre Ögärdet 2:13>1
 
-8. Åsa 2:4
-10. Frillesås-Rya 3:78>1
+8\. Åsa 2:4
+10\. Frillesås-Rya 3:78>1
 
 17
 
@@ -8153,7 +8153,7 @@ Investeringsplan            SE    Fastigheter
 
 2026–2035
 
-1.   Behovsbeskrivning
+1\.   Behovsbeskrivning
 
 1.1 Bakgrund
 Fastigheter förvaltar och hanterar cirka 510 000 kvadratmeter egna och inhyrda
@@ -8220,7 +8220,7 @@ blir väsentligt dyrare. Detta eftersom de senaste årens ökning enligt SCB:s
 byggkostnadsindex inte påverkats av deflation. Således har det inom byggsektorn
 uppstått en helt ny prisbild.
 
-1. Verksamhetens behov
+1\. Verksamhetens behov
 Sammantaget ges bilden som beskrivs ovan med ett åldrande fastighetsbestånd,
 stundande ny lagstiftning samt inflation att investeringsnivåerna inom Service
 Fastigheter behöver omfattande utökningar. Sammanfattningsvis presenteras nedan
@@ -8228,7 +8228,7 @@ verksamhetens samlade behov för planperioden 2026–2030 för reinvesteringar,
 verksamhetsanpassningar och löpande investeringar. Därefter ges en översiktlig
 presentation av de kommande reinvesteringsåtgärderna:
 
-2.   Vad  är den förväntande  nyttan?
+2\.   Vad  är den förväntande  nyttan?
 
 Att återinvestera i verksamhetslokalers tekniska installationer och byggnadsfysiska
 komponenter ger en rad betydande nyttor för både verksamheten och dess
@@ -8476,7 +8476,7 @@ våra gymnasieskolor, som snabbt behöver anpassa lokalerna efter elevantalet
 Väldigt liten andel av det totala investeringsutrymmet. Avser exempelvis utbyte av
 lastbil och ismaskin.
 
-3.   Vad  blir konsekvenserna   om  inget görs?
+3\.   Vad  blir konsekvenserna   om  inget görs?
 
 Om reinvesteringar och verksamhetsanpassningar i lokalerna inte genomförs, kan
 konsekvenserna bli långtgående och påverka både fastigheternas funktionalitet och
@@ -8612,8 +8612,8 @@ Behov                                             4    Susanne Calming, Mark- oc
 Bedömningskriterier                               6    Christina Wenander, lokalplanerare
 Övergripande planeringsförutsättningar            7    Avstämningar har även gjorts med representanter från Kultur & Fritid, Håll-
 Alternativ                                        8    bar utveckling, förvaltningen för Service och Trafik.
-1. Skårby 12:1                                    9
-2. Nötegång 1:108                                 11
+1\. Skårby 12:1                                    9
+2\. Nötegång 1:108                                 11
 Rekommendation                                    13
 Konsekvenser                                      13
 Bilaga 1: studerade platser                       15
@@ -8646,7 +8646,7 @@ Syftet med lokaliseringsutredningen är att ge underlag för beslut om lokalise-
 ring av en ny isyta. Utredningen är avgränsad till de frågor som är nödvändi-
 ga för ett lokaliseringsbeslut. Isytan ska enligt beslutad lokalplan 2024–2028 Som fortsatt del av arbetet med lokalisering av isyta kommer frågan kring
 vara färdig för inflyttning år 2028 och behöver därför byggstartas senast år utbyggnad av infrastruktur och parkering behöva utredas vidare av Service i
-2027.                                                  samband med framtagande av förstudie.
+2027\.                                                  samband med framtagande av förstudie.
 
 4
 
@@ -8799,7 +8799,7 @@ väl platserna uppfyller de uppställda parametrarna. Övriga platser som studer
 
 <!-- sida 222 -->
 
-1. Skårby   12:1                                       För närvarande saknas en trafiksäkerpassage över Göteborgsvägen, men
+1\. Skårby   12:1                                       För närvarande saknas en trafiksäkerpassage över Göteborgsvägen, men
 en passage under vägen ska byggas i samband med att Björkris 2 byggs ut.
 • Fastigheten ägs av Kungsbacka
 Dessutom planeras en gång- och cykelbro över Kungsbackaån vilket gör det
@@ -8887,7 +8887,7 @@ ring långt från ån eller i form byggnadstekniska åtgärder.
 
 <!-- sida 224 -->
 
-2. Nötegång    1:108                                   Platsen är centrum/centrumnära enligt översiktsplanen. Inom centrum ska
+2\. Nötegång    1:108                                   Platsen är centrum/centrumnära enligt översiktsplanen. Inom centrum ska
 kommunen möjliggöra för en blandning av näringsliv, varierade boendefor-
 • Fastigheten ägs av Kungsbacka
 mer och rekreation.
@@ -9046,20 +9046,20 @@ färdig 2028. För att effektivisera processen kan vissa moment göras parallell
 Bilaga  1: studerade    platser
 Följande områden har studerats för placering av ishall:
 
-9. Lerberg 5:14>3
+9\. Lerberg 5:14>3
 
-1. Skårby 12:1
-2. Nötegång 1:108
-4. Hede 9:26 och Voxlöv 4:9>2
-5. Voxlöv 2:3>2
-6. Varla 9:55
+1\. Skårby 12:1
+2\. Nötegång 1:108
+4\. Hede 9:26 och Voxlöv 4:9>2
+5\. Voxlöv 2:3>2
+6\. Varla 9:55
 
-3. Kungsbacka 4:65 m.fl.
+3\. Kungsbacka 4:65 m.fl.
 
-7. Nedre Ögärdet 2:13>1
+7\. Nedre Ögärdet 2:13>1
 
-8. Åsa 2:4
-10. Frillesås-Rya 3:78>1
+8\. Åsa 2:4
+10\. Frillesås-Rya 3:78>1
 
 15
 
@@ -9133,7 +9133,7 @@ mans med Hille Melbye Arkitekter vann med sitt förslag "Krona". Det
 vinnande förslaget kommer ligga till grund för utformningen av Kungsbacka
 17
 edårmosgnilväT
-- snärG
+\- snärG
 Flexibel användning av Arenatorget
 Exteriöra perspektiv Vpläartms aa tut phpä nfögra s, tmreöetet sidprloattts,. Parkering Sfoäosdotnrugcskbse,t monaatfdees tmivaarl.knader, Fågelpost morgonterrass Cykelbana Huvudentré Mindre konserter, evenemang.
 Lek, dagvatten, rekreation. Vinteraktiviteter.
@@ -9977,7 +9977,7 @@ Kungsbacka hade enligt Statistiska Centralbyråns befolkningsstatistik 2023, 17 
 65 år eller äldre. Skulle Kungsbacka kommun använda sig av samma princip som Mölndal skulle vi
 behöva köpa in två gånger fler broddar det vill säga 12 000 till en kostnad av 1.2 miljoner. Kostnaden
 för administration är inte inkluderad inte heller kostnadsökningen för broddar från 2021 fram tills
-2025.
+2025\.
 Att arbeta med fallprevention är en folkhälsofråga som berör flera nämnder och inte enbart en fråga för
 
 Vård & Omsorg. Inom nämnden är fallprevention en prioriterad fråga som det arbetas systematiskt
@@ -10155,13 +10155,13 @@ av broddar
 Förslag till beslut
 Vi föreslår att kommunfullmäktige beslutar:
 
-1. Att införa ett program för kostnadsfri utdelning av broddar till invånare som fyller
+1\. Att införa ett program för kostnadsfri utdelning av broddar till invånare som fyller
 eller har fyllt 65 år i kommunen.
 
-2. Att säkerställa att broddarna erbjuds med enkel tillgång, inklusive digital
+2\. Att säkerställa att broddarna erbjuds med enkel tillgång, inklusive digital
 beställning och fysiska utlämningsställen med möjlighet till utprovning.
 
-3. Attutvärdera programmet efter tre år, med fokus på fallolyckornas påverkan på
+3\. Attutvärdera programmet efter tre år, med fokus på fallolyckornas påverkan på
 kommunens och regionens kostnader för äldreomsorg och sjukvård.
 
 Motivering

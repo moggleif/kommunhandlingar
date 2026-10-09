@@ -455,7 +455,7 @@ Under året har Kungsbacka kommun tagit emot flera
 priser och utmärkelser. Här är några exempel.
 
 » Vi blev utsedda till Sveriges digitaliseringskommun
-2025. Bakom utmärkelsen står Sveriges Kommuner
+2025\. Bakom utmärkelsen står Sveriges Kommuner
 och Regioner, DIGG — Myndigheten för digital
 förvaltning, Regeringskansliet, TechSverige, Micro-
 soft, Telia, Google, Kivra och Kvalitetsmässan.
@@ -528,7 +528,7 @@ na
 YI fY
 LJ
 
--
+\-
 
 <!-- sida 16 -->
 
@@ -588,7 +588,7 @@ Stiftelsen Tjolöholm Göteborgsregionens
 kommunalförbund
 
 Privata utförare
-> 10 miljoner kronor
+\> 10 miljoner kronor
 
 Nämnder
 
@@ -945,7 +945,7 @@ trakasserier.                     gruppen över 80 år beräknas fortsatt att ö
 takt än den andel av befolkningen som jobbar, vilket
 Antalet orosanmälningar har också fortsatt att öka, med innebär att färre behöver försörja fler i framtiden. Att
 nästan tio procent fler än 2024 och 60 procent fler än andelen äldre ökar innebär visserligen inte automatiskt
-2020. Ärendena har blivit mer komplexa och omfattar att behovet av stöd ökar i samma takt. Dagens äldre är
+2020\. Ärendena har blivit mer komplexa och omfattar att behovet av stöd ökar i samma takt. Dagens äldre är
 fler unga med normbrytande beteenden eller koppling generellt sett mer aktiva och självständiga högre upp i
 till kriminalitet. Kommunen har därför arbetat med åldrarna än tidigare generationer. Här finns möjligheter
 att stärka handläggning och säkerställa rättssäkerhet, att ta vara på den enskildes förmågor och värna dess
@@ -1113,7 +1113,7 @@ kommunen. Sammantaget består kommunens pensions- och de riktade statsbidragen b
 kostnader av två olika delar, en avgiftsbestämd kostnad olika satsningar inom olika verksamheter. Kungsbacka
 och en förmånsbaserad pension som delas upp i vad som kommun får årligen skatteintäkter och generella
 tjänats in från och med 1998 och vad som tjänats in före statsbidrag på cirka sex miljarder kronor. Även en mindre
-1998. Det nya pensionsavtalet AKAP-KR som gäller från procentuell avvikelse får därför stort genomslag.
+1998\. Det nya pensionsavtalet AKAP-KR som gäller från procentuell avvikelse får därför stort genomslag.
 Kungsbacka kommuns årsredovisning 2025 17
 
 <!-- sida 27 -->
@@ -1346,7 +1346,7 @@ sammanfattas i dessa punkter:
 
 » Förebygger, upptäcker och åtgärdar fel och brister
 
-+ Bygger medvetenhet om att värna och vårda en stabil,
+\+ Bygger medvetenhet om att värna och vårda en stabil,
 öppen och rättssäker verksamhet
 
 » Strukturer, system och processer för tydlighet och
@@ -1483,7 +1483,7 @@ för Kommunal Analys bästa i Sverige, alternativt kan
 (RKA) föreslagit som uppvisa en trend som ligger i
 stöd för kommunernas linje med eller över alla kom-
 genomförande av Agenda muners ovägda medel under
-2030.         senaste fyraårs perioden.
+2030\.         senaste fyraårs perioden.
 Om mätvärde saknas görs
 bedömningen på senaste år
 som mätningen gjordes.
@@ -1604,7 +1604,7 @@ Om man tar bort posterna för exploatering och deponier,
 får man det strukturella resultatet för kommunens
 ordinarie verksamhet. Det strukturella resultatet för året
 var 548 miljoner kronor att jämföra med 211 miljoner
-2024. Det är viktigt att analysera det strukturella
+2024\. Det är viktigt att analysera det strukturella
 resultatet över tid och se hur det utvecklas i förhållande
 till skatteintäkter och generella statsbidrag. Det struk-
 turella resultatet i förhållande till skatter och generella
@@ -1725,7 +1725,7 @@ Den senaste femårsperioden har kommunen i genomsnitt
 investerat för 903 miljoner kronor per år. Årets investe-
 ringsutgifter fördelat per invånare motsvarar 9 670 kronor
 per invånare, en ökning med två procent jämfört med
-2024. Kommunen planerar för ännu högre investerings-
+2024\. Kommunen planerar för ännu högre investerings-
 nivåer framöver. Högre investeringar ökar låneskulden
 och högre ränta vid refinansiering eller nya lån kommer
 påverka prioriteringarna av investeringar. Notera att
@@ -1935,7 +1935,7 @@ fördelat på löptid (miljoner kronor)
 
 600
 
-- LL
+\- LL
 SEE ak ad I re a
 
 0-1År 1-2År 2-3 År 3-4 År 4-5 År 5-6 År 6-7 År 7-8 År
@@ -2362,16 +2362,16 @@ Antal påbörjade bostäder              848   165   213     158     öka
 Antal färdigställda bostäder          363   319   324     601     öka
 ```
 
-Anmälda brott mot brottsbalken per invånare, 5 691 6 475 6 541 6 299 *** minska
+Anmälda brott mot brottsbalken per invånare, 5 691 6 475 6 541 6 299 \*\*\* minska
 antal/100 000 invånare (Brottsförebyggande rådet, BRÅ)
 Brukarbedömning hemtjänst äldreomsorg, helhetssyn (Kolada) 90 % 91 % 88 % 88 % öka
 Brukarbedömning särskilt boende äldreomsorg, helhetssyn 74 % 76 % 76 % 78 % öka
 (Kolada)
-Brukarbedömning individ- och familjeomsorg, totalt 88 % - * 98 %** 96% öka
+Brukarbedömning individ- och familjeomsorg, totalt 88 % - \* 98 %\*\* 96% öka
 – helhetssyn (Kolada)1
-*) Brukarbedömning har inte gjorts det här året.
-**) Värdet för 2024 tidigare redovisat till 95 % i KOLADA redovisas nu 98 %.
-***) Preliminära uppgifter från BRÅ
+\*) Brukarbedömning har inte gjorts det här året.
+\*\*) Värdet för 2024 tidigare redovisat till 95 % i KOLADA redovisas nu 98 %.
+\*\*\*) Preliminära uppgifter från BRÅ
 
 Kungsbacka kommuns årsredovisning 2025 33
 
@@ -2400,7 +2400,7 @@ Det är glädjande att vi ser positiva steg mot ett mer Vi har startat en pilots
 effektivt resursutnyttjande, som minskad elförbrukning för regnbågsfamiljer. Satsningen syftar till att skapa en
 och minskad klimatpåverkan från våra måltider. Men inkluderande mötesplats för en målgrupp som annars
 sammantaget är bedömningen att vi inte nått målet under riskerar att sakna trygga sammanhang i det offentliga
-2025.                             rummet. Vi har även för första gången anordnat Rättig-
+2025\.                             rummet. Vi har även för första gången anordnat Rättig-
 hetsveckorna, en stor satsning för att öka medvetenhet
 Det här har vi gjort
 och kunskaper om allas lika värde. Vidare har vi gjort
@@ -2495,13 +2495,13 @@ FÖRVALTNINGSBERÄTTELSE
 Målsätt-
 Indikator                         2022   2023   2024    2025 ning 2025
 Kommunens verksamheters elförbrukning, total (kWh) 39,9 40,7 40,3 38,7 minska
-Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/ 2,27 2,27 * * minska
+Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/ 2,27 2,27 \* \* minska
 inv (Kolada)
-Fossiloberoende personbilar, andel av totalt antal bilar 21,2 24,1 26,5 * öka
+Fossiloberoende personbilar, andel av totalt antal bilar 21,2 24,1 26,5 \* öka
 i det geografiska området (%)
 Fossiloberoende personbilar i kommunorganisationen, 94,6 96,2 97,5 97,2 öka
 andel (%)
-Slutanvändning av energi inom det geografiska 15 15 *     *   minska
+Slutanvändning av energi inom det geografiska 15 15 \*     \*   minska
 området, MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga måltiderna 1,86 1,69 1,85 1,54 minska
 ska minska räknat i kg CO2-ekv/kg livsmedel. Målsätt-
@@ -2509,16 +2509,16 @@ ningen är 1,0 år 2030.
 Antal kemiska produkter med utfasningsämnen, inklu- 113 115 151 162 minska
 sive hormonstörande ämnen på SIN-listan ska minska i
 kommunens verksamheter.
-Avfall från hushåll ska minska med 30 % per invånare 103 92 92 * minska
+Avfall från hushåll ska minska med 30 % per invånare 103 92 92 \* minska
 från 2020 till 2030. Startvärde 100, målvärde 2030 är
-70.
-Avfall från kommunens verksamheter ska minska med 115 223 * * minska
+70\.
+Avfall från kommunens verksamheter ska minska med 115 223 \* \* minska
 40 % per heltidsanställd. Startvärde 100, målvärde
 2030 är 60.
 Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig måttlig öka
-Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 %    *
+Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 %    \*
 Vattendrag med god ekologisk status, andel (Kolada) 18,5 % 18,5 % 18,5 % 18,5 % öka
-Andelen återbrukade möbler          *      *       *     2 %    öka
+Andelen återbrukade möbler          \*      \*       \*     2 %    öka
 Ungas hälsa i årskurs 4 och 8 – Flickor. (Elevhälsan i Åk 4: 88%, Åk 4: 85%, Åk 4: 85%, Åk 4: 87%, öka
 Kungsbacka utvecklar metod utifrån hälsosamtal med Åk 8: 72%, Åk 8: 79%, Åk 8: 73%, Åk 8: 75%,
 elever)                           Åk 1    Åk 1   Åk 1 Åk 1 gymna-
@@ -2529,7 +2529,7 @@ Kungsbacka utvecklar metod utifrån hälsosamtal med Åk 8: 93% Åk 8: 92% Åk 8
 elever)                           Åk 1    Åk 1   Åk 1 Åk 1 gymna-
 gymnasiet: gymnasiet: gymnasiet: siet:
 85%     86%    88%
-*) Ännu ej publicerad.
+\*) Ännu ej publicerad.
 
 Kungsbacka kommuns årsredovisning 2025 37
 
@@ -2625,13 +2625,13 @@ av företagsklimatet.
 Svenskt näringslivs attitydundersökning av kommuners före- 3,4 3,4 3,8 3,6 öka
 tagsklimat. Medelvärde utifrån skala 1–6, där företag bedömer
 företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal      28 485 28 586 28 426 **    öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % 4,9 % ** 5,0 %
-Företagsamhet, andel av invånare 16–74 år 18 % 19 % *    *       *
-Antal nystartade företag per 1 000 invånare 16–64 år, etable- 12,8 10,3 12,3 ** öka
+Sysselsatt dagbefolkning, antal      28 485 28 586 28 426 \*\*    öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % 4,9 % \*\* 5,0 %
+Företagsamhet, andel av invånare 16–74 år 18 % 19 % \*    \*       \*
+Antal nystartade företag per 1 000 invånare 16–64 år, etable- 12,8 10,3 12,3 \*\* öka
 ringsfrekvens (Kolada)
-*) Måttet sammanställs inte längre.
-**) Ännu ej publicerad
+\*) Måttet sammanställs inte längre.
+\*\*) Ännu ej publicerad
 
 Kungsbacka kommuns årsredovisning 2025 39
 
@@ -2710,11 +2710,11 @@ utgörs av summan av de 17 bästa betygen i elevens slutbetyg och
 kan max vara 340. (Kolada)
 Genomsnittlig betygspoäng för gymnasiets avgångselevers betygs- 14,5 14,3 14,0 14,0 öka
 poäng som kan vara max 20. (Kolada)
-Arbetslöshet 16–24 år i kommunen, procent (Kolada) 1,7 1,7 2,3 * minska
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 376 325 306 *
-Andel vuxna personer som inte återkommer till försörjningsstöd 69 73 75 * öka
+Arbetslöshet 16–24 år i kommunen, procent (Kolada) 1,7 1,7 2,3 \* minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 376 325 306 \*
+Andel vuxna personer som inte återkommer till försörjningsstöd 69 73 75 \* öka
 inom ett år efter avslutat försörjningsstöd, procent (Kolada)
-*) Ännu ej publicerad
+\*) Ännu ej publicerad
 
 Kungsbacka kommuns årsredovisning 2025 41
 
@@ -2797,15 +2797,15 @@ vidare och att höja resultatet framöver.
 
 Målsättning
 Indikator                            2022  2023  2024  2025    2025
-Hållbart medarbetarengagemang, ett index för medarbetarnas 78 76 75 * öka
+Hållbart medarbetarengagemang, ett index för medarbetarnas 78 76 75 \* öka
 samlade uppfattning om områdena motivation, ledarskap och
 styrning, skala 1–100 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 114 122 124 **   öka
-180. Jämix beräknas utifrån nio nyckeltal med skala 1–20 och
+Jämställdhetsindex, Jämix. Antal poäng av max 114 122 124 \*\*   öka
+180\. Jämix beräknas utifrån nio nyckeltal med skala 1–20 och
 visar hur jämställda arbetsvillkor, arbetsmiljö och anställnings-
 villkor är i organisationen
-*Undersökningen har ändrat frekvens och genomförs numera vartannat år. Vi kommer därför inte att ha ett värde för 2025.
-**) Ännu ej publicerad
+\*Undersökningen har ändrat frekvens och genomförs numera vartannat år. Vi kommer därför inte att ha ett värde för 2025.
+\*\*) Ännu ej publicerad
 
 Kungsbacka kommuns årsredovisning 2025 43
 
@@ -3289,11 +3289,11 @@ Pensionsförpliktelser intjänade före 1998
 
 Årets resultat enligt blandmodellen
 
-- Samtliga realisationsvinster
+\- Samtliga realisationsvinster
 
-+ Realisationsvinster enligt undantagsmöjlighet
+\+ Realisationsvinster enligt undantagsmöjlighet
 
-+ Realisationsförluster enligt undantagsmöjlighet
+\+ Realisationsförluster enligt undantagsmöjlighet
 
 -/+ Orealiserade vinster och förluster i värdepapper
 
@@ -3323,9 +3323,9 @@ reserv, enligt lagstiftningen kallad RUR.
 +/- Återföring av orealiserade vinster och förluster i värdepapper - -
 
 = Årets resultat efter balanskravsjusteringar
-- Reservering av medel till resultatutjämningsreserv
+\- Reservering av medel till resultatutjämningsreserv
 
-+ Användning av medel från resultatutjämningsreserv
+\+ Användning av medel från resultatutjämningsreserv
 
 = Balanskravsresultat
 
@@ -3548,7 +3548,7 @@ FÖRVALTNINGSBERÄTTELSE
 Förväntad                utveckling
 
 Årsredovisningen är en redogörelse och analys av året i infrastruktur, skolor och omsorgslokaler. Kommuner
-2025. Den är också ett viktigt underlag när vi planerar som redan har stora lån eller stora investeringsplaner
+2025\. Den är också ett viktigt underlag när vi planerar som redan har stora lån eller stora investeringsplaner
 ekonomin för kommande år och för ekonomistyrningen. behöver därför vara försiktiga och planera långsiktigt.
 Kungsbacka kommun beslutar i juni om budgeten för
 nästa år och därför hänger arbetet med årsredovisningen Statens finanser påverkar också kommunerna. Under
@@ -3777,7 +3777,7 @@ Redovisningsprinciper
 Kungsbacka kommun följer lagen om kommunal
 bokföring och redovisning, LKBR (2018:597) med
 undantag för redovisning av pensioner intjänade före
-1998. Kommunen följer även, om inte annat anges, de
+1998\. Kommunen följer även, om inte annat anges, de
 rekommendationer som Rådet för kommunal redovisning
 (RKR) lämnar samt övrig redovisningspraxis.
 
@@ -4091,13 +4091,13 @@ Verksamhetens kostnader
 Personalkostnader exklusive Övriga upplysningar
 pensionskostnader -3 844,1 lad 3 880,2 lnsföntn Slutavräkningen baseras på SKR (Sveriges kommuner och regioner) cirkulär
 Pensionskostnader -364,0 =211,2 -366,5 -214,0 = 25:59 i enlighet med rekommendation R2 Intäkter från RKR (Rådet för kommunal
-- . redovisning)
+\- . redovisning)
 Lämnade bidrag -186,5 -145,8 -186,5 -145,8 Slutavräkning 2024
 Köp av verksamhet -1 156,9 -1221,5 -1156,9 -1221,5 Slutavräkningen för 2024 års skatteintäkter blev totalt 178 kronor per invånare.
 Avräkningen regleras i januari 2026. I bokslutet 2024 redovisades en preliminär
 Lokal- och markhyror samt slutavräkning om 186 kronor per invånare. Detta medför en negativ korrigerings-
 övriga fastighetskostnader -419,2 -379,6 -476,6 -438,3 Postpå-8 kronor per invånare som påverkar bokslut 2025, -0,7 miljoner kronor.
-- . Preliminär slutavräkning 2025
+\- . Preliminär slutavräkning 2025
 Inköp av material och varor -251,9 -255,0 -252,4 -255,5 — preliminär slutavräkning för 2025 har redovisats enligt SKRs cirkulär 25:59, -319
 Inköp av tjänster -331,3 -364,5 -346,5 -380,8 kronor per invånare, -27 miljoner kronor.
 Realisationsförluster och
@@ -4139,7 +4139,7 @@ och utjämning 337,4 276,1 337,4 276,1
 
 Övriga upplysningar
 
-1) Övriga generella statsbidrag: Stöd till kommuner - skolor mot brott 2025 om
+1\) Övriga generella statsbidrag: Stöd till kommuner - skolor mot brott 2025 om
 0,4 mkr.
 
 Not 8
@@ -4935,7 +4935,7 @@ Se]
 
 1 Avser byggande av ny tågstation i Åsa. Bidraget upplöses på 25 år med start år
 
-201.
+201\.
 
 2 Avser åtgärder i den statliga infrastrukturen i anslutning till exploatering av Må.
 Bidraget är justerat med index år 2023 och år 2024. Bidraget upplöses på 25 år
@@ -5898,14 +5898,14 @@ kommunen. efter nuvärdesberäkning 2025 är avsättningen 18,2 miljoner kronor.
 
 4 Bidraget till Trafikverket avser GC-väg Anneberg. Avtal tecknades år 2023.
 Bidraget är indexjusterat år 2023, år 2024 och år 2025. Projektet pågår till år
-2028. Samt öresavrundning föregående år.
+2028\. Samt öresavrundning föregående år.
 
 s Bidrag till Trafikverket avser väg i Stockalid. Avtal tecknades år 2023.
 Kommunen svarar för alla kostnadsförändringar för de åtgärder som omfattas i
 avtalet. Projektet avslutades 2025.
 
 e Bidrag till Trafikverket avser cirkulationsplats i Frillesås Rya. Avtal tecknades år
-2022. Bidraget återfördes år 2025 då medfinansieringsavtalet inte var gällande då
+2022\. Bidraget återfördes år 2025 då medfinansieringsavtalet inte var gällande då
 detaljplanen blev upphävd. Samt öresavrundning föregående år.
 
 7 Bidraget till Trafikverket avser Må vänstersväng och tecknades 2018. Bidraget är
@@ -5916,7 +5916,7 @@ indexjusterat år 2023 och projektet avslutades år 2024.
 
 2 Bidraget till Trafikverket avser GC-väg Varbergsvägen Fjärås och tecknades år
 2017 med tillägg år 2021 och år 2022. Bidraget är indexjusterat år 2024 och år
-2025. Projektet pågår till år 2026.
+2025\. Projektet pågår till år 2026.
 
 10 Bidraget till Trafikverket avser GC-väg Frillesås och avtalet tecknades år 2025.
 Bidraget är indexjusterat år 2025. Projektet pågår till år 2029.
@@ -6388,7 +6388,7 @@ nämnder
 nämnder
 Summa nämnder    -6 021,6 2 850,2 -8 728,4 -5 878,2 143,4 2 743,6 -8 495,5 -5 751,9
 
-Finans (9*)        -38,0 70,2   73,4 143,6  181,6 44,0  -53,7  -9,7
+Finans (9\*)        -38,0 70,2   73,4 143,6  181,6 44,0  -53,7  -9,7
 
 1 Justering Interna poster 556,5 -1 440,8 1 998,9 558,1 1,6 -1 385,5 1 939,0 553,5
 avskrivningar med mera
@@ -6731,7 +6731,7 @@ och möjlighet till ny skola eller kontor. Detaljplanen med radhus till annan ex
 vann laga kraft under 2018 men exploatören har lämnat har man förberett marken i området för byggstart genom
 tillbaka tidigare markanvisning. Vi planerar för en ny rivningsarbete och marksanering och under 2025 har
 markanvisning som vi kommer att genomföra under man påbörjat utbyggnad av allmän plats. Kommunen
-2026.                             har under 2025 sålt kommunens flerbostadskvarter till
+2026\.                             har under 2025 sålt kommunens flerbostadskvarter till
 Riksbyggen.
 Väster om ån
 Björkris etapp 2
@@ -6755,7 +6755,7 @@ Andra etappen i detta projekt är kvarter Ejdern, där
 vi planerar att bygga cirka 250 bostäder och ett parke- Intill Annebergs pendelstation planerar kommunen för
 ringshus. Det är kommunen som äger marken i området ett nytt centrum som ska stärka Anneberg som tätort.
 och det har pågått förberedelser för markanvisning under Planområdet kommer att innehålla cirka 400 bostäder,
-2025.                             vård- och omsorgsboende, gruppbostad, förskola, samt
+2025\.                             vård- och omsorgsboende, gruppbostad, förskola, samt
 lokaler för verksamheter och handel. Kommunen är
 80 Kungsbacka kommuns årsredovisning 2025
 
@@ -6917,7 +6917,7 @@ eftersom fordonshanteringen är samlad under nämnden
 för Service. Vi simulerar kalkylmässigt följande poster i
 redovisningen:
 
-+ Personalomkostnader
+\+ Personalomkostnader
 
 »« Kapitalkostnader
 
@@ -7157,7 +7157,7 @@ Kungsbacka kommun
 2
 v 1
 £
--
+\-
 [-]
 c
 5
@@ -7241,7 +7241,7 @@ Självskattningen är genomförd för kommunstyrelsens förvaltning och förankr
 Resultatet är överlag gott och vi är på god väg att skapa en systematik som inte funnits tidigare. På några
 punkter finns utvecklingsområden, bland annat kontinuitetsarbetet som kan breddas och fördjupas inom
 förvaltningen. Större fokus kan läggas på kommunens gemensamma krisledningsorganisation, KÖKO, under
-2026.
+2026\.
 
 5.2 Resultat av annan granskning av vår verksamhet
 
@@ -7810,7 +7810,7 @@ Internkontrollrapport 2025
 4 Årets riskanalys
 
 I matrisen beskrivs de risker som identifierats i arbetet med riskanalys och som tagits med till plan.
-=
+\=
 
 )| [2] R
 3 2 4
@@ -8156,13 +8156,13 @@ nämndssamverkan eller kommunalförbund. Under 2025 ingick Kungsbacka bland anna
 samverkan.
 
 -Göteborgsregionens kommunalförbund (GR)
-- Räddningstjänsten Storgöteborg
+\- Räddningstjänsten Storgöteborg
 -Gemensam nämnd för hemsjukvård och hjälpmedel (Halland)
 
-- Patientnämnd Halland
-- Nämnden för överförmyndare i samverkan
+\- Patientnämnd Halland
+\- Nämnden för överförmyndare i samverkan
 
-- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
+\- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
 kollektivtrafik i Halland enligt lagen om kollektivtrafik, samt skatteväxling, ägarförhållande i Hallandstrafiken
 Ab och former för samverkan mellan Region Halland och länets kommuner i utveckling och planering av den
 regionala kollektivtrafiken").
@@ -8568,10 +8568,10 @@ Avgift för kommunens avfallshantering får enligt 27 kap. 4–6 §§ miljöbalk
 (1998:808) tas ut av kommunen. Avgift ska enligt 4 § betalas enligt den taxa som
 kommunfullmäktige antar.
 
-* I avsnitt 4.7 var avgifterna angivna på fel rad. Detta är nu korrigerat och rätt pris är
+\* I avsnitt 4.7 var avgifterna angivna på fel rad. Detta är nu korrigerat och rätt pris är
 angivet på rätt tjänst.
 
-* Priset för gångavstånd hade avrundats fel i tabell 4.4.4.1 och har nu korrigerats
+\* Priset för gångavstånd hade avrundats fel i tabell 4.4.4.1 och har nu korrigerats
 De ändrade priserna är markerade med gul färg i dokumentet Avfallstaxa 2026.
 
 Beslutsunderlag
@@ -8645,17 +8645,17 @@ www.kungsbacka.se
 <!-- sida 139 -->
 
 Innehåll
-1. Inledande bestämmelser ........................................................................................... 3
+1\. Inledande bestämmelser ........................................................................................... 3
 
 1.1 Ansvar för kommunal avfallshantering och gällande regler ........................ 3
 1.2 Avgiftsskyldighet och avgiftsprinciper .............................................................. 3
 1.3 Ägarbyte .................................................................................................................... 4
 
 1.4 Gemensamma avfallsbehållare eller gemensam avfallslösning ................ 4
-2. Beräkningsgrunder ...................................................................................................... 4
+2\. Beräkningsgrunder ...................................................................................................... 4
 
-3. Mervärdesskatt ............................................................................................................ 4
-4. Avgiftsbelopp/taxetabell ........................................................................................... 5
+3\. Mervärdesskatt ............................................................................................................ 4
+4\. Avgiftsbelopp/taxetabell ........................................................................................... 5
 
 4.1 Allmän information ................................................................................................ 5
 4.2 Abonnemangsformer ............................................................................................ 5
@@ -8669,14 +8669,14 @@ Innehåll
 4.7 Slamsugning och tömning av fettavskiljare.................................................. 26
 4.9 Särskilda avgifter ................................................................................................. 27
 
-5. Indexjustering av avgiftsbelopp ......................................................................... 28
-6. Delegering av beslut om justering efter index ............................................... 28
+5\. Indexjustering av avgiftsbelopp ......................................................................... 28
+6\. Delegering av beslut om justering efter index ............................................... 28
 
 Kungsbacka kommun         Avfallstaxa 2026                    2
 
 <!-- sida 140 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för avfallshantering under kommunalt insamlingsansvar. Taxan är
 beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas ut enligt
 27 kap. 4–6 §§ miljöbalken. Avgift ska betalas till Kungsbacka kommun eller till den som
@@ -8744,7 +8744,7 @@ grundavgift. Fastighetsinnehavarna ska tillsammans ansöka skriftligt om gemensa
 avfallsbehållare eller gemensam avfallslösning till nämnden för Teknik enligt kommunens
 avfallsföreskrifter.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Taxan är beslutad med stöd av avgiftsprinciperna i miljöbalken (SFS 1998:808). Avgift får tas
 ut enligt 27 kap. 4–6 §§ miljöbalken. Avgift tas ut enligt fastställd taxa för varje enskild tjänst.
@@ -8778,7 +8778,7 @@ returpapper, textilavfall, samt avfall från detaljhandel begränsas av maxtaxa.
 Avgifterna för tömning av enskilda avloppsanläggningar och fettavskiljare ska täcka
 kostnader för insamling och behandling av avfallet.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Avgifter i taxan är angivna i kronor inklusive 25 procent moms.
 
@@ -8786,7 +8786,7 @@ Kungsbacka kommun         Avfallstaxa 2026                    4
 
 <!-- sida 142 -->
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 4.1 Allmän information
 I abonnemangsavgiften ingår följande:
@@ -8866,7 +8866,7 @@ Var fjärde vecka, helår | Inte valbar 2470
 370 liter Varannan vecka, helår |5 355 5355
 660 litert Varannan vecka, helår |13 825 13 825
 
-+ Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\+ Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 4.3.2 Avgifter för delårsabonnemang
 
@@ -8889,7 +8889,7 @@ Var fjärde vecka, delår | Inte valbar 1235
 370 liter Varannan vecka, delår |2 680 2 680
 660 liter" Varannan vecka, delår |6 915 6 915
 
-+ Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
+\+ Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
 Kungsbacka kommun
 
@@ -9535,7 +9535,7 @@ och hämtningstillfälle
 produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen | 7 105
 eller serveringsverksamhet, per hämtning +
 
-+ Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
+\+ Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie utförare. Sådant avfall
 får endast hämtas av annan entreprenör efter godkännande från kommunens
 avfallsorganisation.
 
@@ -9586,7 +9586,7 @@ Tryckimpregnerat trä/slipers 2393
 Trä 1150
 Övrigt bygg- och rivningsavfall 2 658
 
-+ Som består av sten, tegel, betong, klinker eller keramik
+\+ Som består av sten, tegel, betong, klinker eller keramik
 
 ++ Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan uppvisas.
 
@@ -9625,7 +9625,7 @@ Behandlingskostnad storsäck
 
 2054
 
-+ Som består av sten, tegel, betong, klinker eller keramik
+\+ Som består av sten, tegel, betong, klinker eller keramik
 
 ++ Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alternativt om dispens kan
 uppvisas.
@@ -9807,13 +9807,13 @@ följande:
 För hämtning med andra metoder än de som är beskrivna i denna avfallstaxa eller där
 förhållandena väsentligt avviker från vad som är normalt får nämnden för Teknik besluta om
 särskilda avgifter i enlighet med grunderna för denna avfallstaxa och de grunder som anges i
-27 kap. 5 $ miljöbalken.
+27 kap. 5 \$ miljöbalken.
 
 Kungsbacka kommun Avfallstaxa 2026 27
 
 <!-- sida 165 -->
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 
 Taxan avseende tjänster som utförs av auktoriserade entreprenörer, den så kallade maxtaxan,
 justeras årligen i enlighet med förändringen av avfallsindex med basmånad januari och
@@ -9824,7 +9824,7 @@ avläsningsmånad oktober året innan det aktuella taxeåret. Detta gäller föl
 
 4.4.4.11 Förpackningsavfall
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 Nämnden för Teknik ansvarar för att årligen räkna om beloppen i taxan.
 
 Kungsbacka kommun         Avfallstaxa 2026                   28
@@ -9946,7 +9946,7 @@ Sammanfattning av ärendet
 Nämnden för Vård & Omsorg beslutade i september 2022 om en modernisering av Signes hus för att
 anpassa lokalen till nuvarande myndighetskrav med koncept för vård- och omsorgslokaler som grund.
 Lokalbehovet med löpnummer 816 ingår i lokalplan 2025–2029 och kommunbudget 2025, plan 2026–
-2027.
+2027\.
 
 Kommunstyrelsen tog beslut om uppstart av projektet i november 2024 och förvaltningen för Service
 påbörjade projektet strax därefter. Projektet färdigställs i april 2026 med driftstart i två etapper, april
@@ -10329,7 +10329,7 @@ Ansökan om bidrag till Göteborgsregionens Nämndemannaförening
 Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen avslår ansökan från Göteborgsregionens nämndemannaförening om bidrag för
 
-2026.
+2026\.
 
 Sammanfattning av ärendet
 
@@ -10716,7 +10716,7 @@ Innehåll
 
 SAMMANFATTNING                                        4
 
-1.  FÖRFATTNINGSFÖRSLAG                               6
+1\.  FÖRFATTNINGSFÖRSLAG                               6
 1.1 Förslag till ändring i miljöbalken                6
 1.2 Förslag till ny luftkvalitetsförordning           6
 
@@ -10726,14 +10726,14 @@ SAMMANFATTNING                                        4
 medelstora förbränningsanläggningar              27
 1.5 Förslag till förordning om ändring i förordningen (2010:1770)
 om geografisk miljöinformation                   28
-2.  INLEDNING                                        29
+2\.  INLEDNING                                        29
 
 2.1 Uppdraget                                        29
 2.2 Utgångspunkter                                   31
 2.3 Genomförande av uppdraget                        33
 2.4 Dialog med aktörer                               33
 
-3.  NATURVÅRDSVERKETS FÖRSLAG OCH BEDÖMNINGAR        34
+3\.  NATURVÅRDSVERKETS FÖRSLAG OCH BEDÖMNINGAR        34
 3.1 Ändring av definitioner (artikel 4)              34
 
 3.2 Behöriga myndigheter ska utses för vissa ansvarsområden
@@ -10796,7 +10796,7 @@ med att förbättra luftkvaliteten                220
 3.10 Att informera blir allt viktigare (artikel 22) 224
 3.11 Naturvårdsverkets rapportering till kommissionen (artikel 23) 231
 
-4.  KONSEKVENSER AV FÖRSLAG                         234
+4\.  KONSEKVENSER AV FÖRSLAG                         234
 4.1 Problembeskrivning och förändringsbehov         235
 4.2 Referensalternativet – ingen åtgärd             236
 
@@ -10811,7 +10811,7 @@ med att förbättra luftkvaliteten                220
 
 4.10 Överensstämmelse med EU-rätt                   256
 4.11 Osäkerheter och utvärdering                    257
-5.  KÄLLFÖRTECKNING                                 259
+5\.  KÄLLFÖRTECKNING                                 259
 
 BILAGA 1 REGERINGSUPPDRAGET                         264
 
@@ -10830,7 +10830,7 @@ Naturvårdsverket fick den 26 september 2024 i uppdrag att lämna förslag till
 genomförande av det nya luftkvalitetsdirektivet 2024/2881 i svensk rätt. Uppdraget
 
 delredovisades den 15 maj 2025 och ska slutredovisas senast den 30 november
-2025.
+2025\.
 Luftkvalitetsdirektivet syftar till att reducera halterna av luftföroreningar för att
 minska de negativa effekterna på hälsa och miljö. Luftföroreningar kan bland annat
 orsaka andningsbesvär, hjärt- och lungsjukdomar, lungcancer samt förtida dödsfall.
@@ -10921,7 +10921,7 @@ lämpliga att genomföra i svensk lagstiftning.
 
 NATURVÅRDSVERKET
 
-1.     Författningsförslag
+1\.     Författningsförslag
 
 1.1    Förslag  till ändring i miljöbalken
 
@@ -11066,13 +11066,13 @@ eftersträvas enligt 5 kap. 2 § första stycket 2 miljöbalken. Om annat inte a
 ska varje överskridande av föroreningsnivån anses innebära att normen inte följs.
 6 § En miljökvalitetsnorm enligt 4 eller 5 § följs även om modellberäkningar visar att den eller
 de föroreningsnivåer som anges i normen överskrids om
-1. det är visat att normen följs genom
+1\. det är visat att normen följs genom
 a. en kontinuerlig mätnings rumsliga representativitet som omfattar det
 modellerade överskridandet, eller
 b. ytterligare minst en kontinuerlig eller indikativ mätning som upprättas på
 ytterligare högbelastade platser i en kommun eller i ett samverkansområde som
 identifierats av modellberäkningar, eller
-2. modellberäkningarna endast använts i syfte att komplettera kontinuerliga mätningar
+2\. modellberäkningarna endast använts i syfte att komplettera kontinuerliga mätningar
 enligt 24 § för att få tillräcklig information om den rumsliga fördelningen av
 luftföroreningarna och de kontinuerliga mätningarnas rumsliga representativitet.
 Om ytterligare kontinuerliga mätningar används ska dessa mätningar upprättas inom två
@@ -11089,9 +11089,9 @@ NATURVÅRDSVERKET
 Kvävedioxid och kväveoxider
 
 7 § För att skydda människors hälsa får kvävedioxid inte förekomma i utomhusluft med mer än
-1. i genomsnitt 50 mikrogram per kubikmeter luft under ett dygn (dygnsmedelvärde) vid
+1\. i genomsnitt 50 mikrogram per kubikmeter luft under ett dygn (dygnsmedelvärde) vid
 fler än 18 tillfällen per år, och
-2. i genomsnitt 200 mikrogram per kubikmeter luft under en timme (timmedelvärde) vid
+2\. i genomsnitt 200 mikrogram per kubikmeter luft under en timme (timmedelvärde) vid
 fler än 3 tillfällen per år.
 
 I samma syfte som anges i första stycket får kvävedioxid till och med den 31 december 2029
@@ -11107,9 +11107,9 @@ utomhusluft med mer än i genomsnitt 30 mikrogram per kubikmeter luft under ett 
 Svaveldioxid
 
 9 § För att skydda människors hälsa får svaveldioxid inte förekomma i utomhusluft med mer än
-1. i genomsnitt 350 mikrogram per kubikmeter luft under en timme (timmedelvärde) vid
+1\. i genomsnitt 350 mikrogram per kubikmeter luft under en timme (timmedelvärde) vid
 fler än 3 tillfällen per år, och
-2. i genomsnitt 50 mikrogram per kubikmeter luft under ett dygn (dygnsmedelvärde) vid
+2\. i genomsnitt 50 mikrogram per kubikmeter luft under ett dygn (dygnsmedelvärde) vid
 fler än 18 tillfällen per år.
 
 I samma syfte som anges i första stycket får svaveldioxid från och med den 1 januari 2030 inte
@@ -11117,9 +11117,9 @@ förekomma i utomhusluft med mer än i genomsnitt 20 mikrogram per kubikmeter lu
 kalenderår (årsmedelvärde).
 10 § För att skydda växtligheten och naturliga ekosystem får svaveldioxid inte förekomma i
 utomhusluft med mer än
-1. i genomsnitt 20 mikrogram per kubikmeter luft under perioden den 1 oktober till och
+1\. i genomsnitt 20 mikrogram per kubikmeter luft under perioden den 1 oktober till och
 med den 31 mars (vintermedelvärde), och
-2. i genomsnitt 20 mikrogram per kubikmeter luft under ett kalenderår (årsmedelvärde).
+2\. i genomsnitt 20 mikrogram per kubikmeter luft under ett kalenderår (årsmedelvärde).
 
 Kolmonoxid
 
@@ -11178,15 +11178,15 @@ Partiklar (PM10)
 
 15 § För att skydda människors hälsa får partiklar (PM10) till och med den 31 december 2029
 inte förekomma i utomhusluft med mer än
-1. i genomsnitt 50 mikrogram per kubikmeter luft under ett dygn (dygnsmedelvärde) vid
+1\. i genomsnitt 50 mikrogram per kubikmeter luft under ett dygn (dygnsmedelvärde) vid
 fler än 35 tillfällen per år, och
-2. i genomsnitt 40 mikrogram per kubikmeter luft under ett kalenderår (årsmedelvärde).
+2\. i genomsnitt 40 mikrogram per kubikmeter luft under ett kalenderår (årsmedelvärde).
 
 I samma syfte som anges i första stycket får partiklar (PM10) från och med den 1 januari 2030
 inte förekomma i utomhusluft med mer än
-1. i genomsnitt 45 mikrogram per kubikmeter luft under ett dygn (dygnsmedelvärde) vid
+1\. i genomsnitt 45 mikrogram per kubikmeter luft under ett dygn (dygnsmedelvärde) vid
 fler än 18 tillfällen per år, och
-2. i genomsnitt 20 mikrogram per kubikmeter luft under ett kalenderår (årsmedelvärde).
+2\. i genomsnitt 20 mikrogram per kubikmeter luft under ett kalenderår (årsmedelvärde).
 
 Partiklar (PM2,5)
 
@@ -11202,9 +11202,9 @@ NATURVÅRDSVERKET
 
 I samma syfte som anges i första stycket får partiklar (PM2,5) från och med den 1 januari 2030
 inte förekomma i utomhusluft med mer än
-1. i genomsnitt 25 mikrogram per kubikmeter luft under ett dygn (dygnsmedelvärde) vid
+1\. i genomsnitt 25 mikrogram per kubikmeter luft under ett dygn (dygnsmedelvärde) vid
 fler än 18 tillfällen per år, och
-2. i genomsnitt 10 mikrogram per kubikmeter luft under ett kalenderår (årsmedelvärde).
+2\. i genomsnitt 10 mikrogram per kubikmeter luft under ett kalenderår (årsmedelvärde).
 
 Bens(a)pyren
 
@@ -11262,8 +11262,8 @@ Genomsnittlig exponering för partiklar (PM2,5) och kvävedioxid
 22 § För att skydda människors hälsa får från och med den 1 januari 2030 den genomsnittliga
 exponeringen per territoriell enhet för genomsnittlig exponering av
 
-1. partiklar (PM2,5) inte överskrida 5 mikrogram per kubikmeter luft, och
-2. kvävedioxid inte överskrida 10 mikrogram per kubikmeter luft.
+1\. partiklar (PM2,5) inte överskrida 5 mikrogram per kubikmeter luft, och
+2\. kvävedioxid inte överskrida 10 mikrogram per kubikmeter luft.
 Nivån för den genomsnittliga exponeringen på befolkningen av partiklar (PM2,5) och
 kvävedioxid ska baseras på det sammanlagda medelvärdet för koncentrationen av föroreningen i
 fråga på platser i urban bakgrund per territoriell enhet för genomsnittlig exponering under en
@@ -11280,9 +11280,9 @@ Kontrollen ska ske genom mätningar, modellberäkningar, objektiv skattning, ell
 samt genom redovisningar och rapportering.
 Om kontrollen sker genom mätningar, ska den ske
 
-1. i de områden och på de platser där det är sannolikt att befolkningen exponeras för de
+1\. i de områden och på de platser där det är sannolikt att befolkningen exponeras för de
 högsta halterna, och
-2. i de områden och på de platser som är representativa för den exponering som
+2\. i de områden och på de platser som är representativa för den exponering som
 befolkningen i allmänhet är utsatt för.
 24 § Om resultat från kontrollen enligt 23 § visar att värdet för en genomsnittsperiod överskrider
 utvärderingströskeln för en förorening enligt bilaga 1, ska kontrollen av den föroreningen ske
@@ -11314,22 +11314,22 @@ NATURVÅRDSVERKET
 27 § Den kommun som regeringen beslutar ska inrätta en superstation för övervakning i urban
 bakgrund. Kommunen ska fullgöra de uppgifter i fråga om kontroll, rapportering och information
 som anges i
-1. artikel 10 samt i bilaga V, bilaga VI och bilaga X till luftkvalitetsdirektivet, och
-2. föreskrifter som har meddelats med stöd av denna förordning.
+1\. artikel 10 samt i bilaga V, bilaga VI och bilaga X till luftkvalitetsdirektivet, och
+2\. föreskrifter som har meddelats med stöd av denna förordning.
 
 Naturvårdsverkets kontroll av luftkvaliteten
 
 28 § Naturvårdsverket ska kontrollera
-1. halterna av kväveoxider och svaveldioxid enligt 8 och 10 §§ i regional bakgrund i
+1\. halterna av kväveoxider och svaveldioxid enligt 8 och 10 §§ i regional bakgrund i
 enlighet med artikel 14 i och bilaga III del C till luftkvalitetsdirektivet,
-2. halterna av ozon enligt 12 och 13 §§ i enlighet med artiklarna 7–9 i och bilaga III del A
+2\. halterna av ozon enligt 12 och 13 §§ i enlighet med artiklarna 7–9 i och bilaga III del A
 och C till luftkvalitetsdirektivet,
-3. halterna av ultrafina partiklar i enlighet med artikel 9.9 i luftkvalitetsdirektivet,
-4. nivån för den genomsnittliga exponeringen på befolkningen av partiklar (PM2,5) och
+3\. halterna av ultrafina partiklar i enlighet med artikel 9.9 i luftkvalitetsdirektivet,
+4\. nivån för den genomsnittliga exponeringen på befolkningen av partiklar (PM2,5) och
 kvävedioxid enligt 22 § i enlighet med artikel 9.6 i luftkvalitetsdirektivet,
-5. halterna av ozonbildande ämnen i enlighet med artikel 9.4 i och bilaga VII avsnitt 3 till
+5\. halterna av ozonbildande ämnen i enlighet med artikel 9.4 i och bilaga VII avsnitt 3 till
 luftkvalitetsdirektivet, och
-6. halterna av svaveldioxid, kolmonoxid, bensen, bens(a)pyren, arsenik, kadmium, nickel
+6\. halterna av svaveldioxid, kolmonoxid, bensen, bens(a)pyren, arsenik, kadmium, nickel
 och bly på relevanta platser i de fall halterna underskrider utvärderingströskeln i bilaga
 1 till luftkvalitetsdirektivet i en eller flera zoner och det behövs för Sveriges rapportering
 enligt direktivet.
@@ -11347,16 +11347,16 @@ luftkvalitetsdirektivet.
 
 31 § Vid kontrollen enligt 23 och 28–30 §§ ska kommunerna och Naturvårdsverket inom sina
 respektive ansvarsområden se till att
-1. mätnoggrannheten säkerställs,
-2. överföringen och delningen av mätdata säkerställs,
-3. ett välfungerande övervakningsnätverk säkerställs,
-4. adekvat underhåll av övervakningsnätverket säkerställs, och
-5. de utvärderingsmetoder som används analyseras.
+1\. mätnoggrannheten säkerställs,
+2\. överföringen och delningen av mätdata säkerställs,
+3\. ett välfungerande övervakningsnätverk säkerställs,
+4\. adekvat underhåll av övervakningsnätverket säkerställs, och
+5\. de utvärderingsmetoder som används analyseras.
 32 § Naturvårdsverket ska
 
-1. utse de zoner och territoriella enheter för genomsnittlig exponering som behövs till följd
+1\. utse de zoner och territoriella enheter för genomsnittlig exponering som behövs till följd
 av artikel 6 i luftkvalitetsdirektivet, och
-2. klassificera de zoner som avses i första punkten och se över klassificeringen i enlighet
+2\. klassificera de zoner som avses i första punkten och se över klassificeringen i enlighet
 med artikel 7 i samma direktiv.
 33 § Naturvårdsverket ska ta fram en årlig nationell modellering av halterna av kvävedioxid och
 partiklar (PM10 och PM2,5) för att stödja kommunernas kontroll av luftkvaliteten enligt 23 §.
@@ -11368,10 +11368,10 @@ Den nationella modelleringen ska tillhandahålla information som kan användas f
 
 NATURVÅRDSVERKET
 
-1. redovisa mätstationers rumsliga representativitet,
-2. komplettera befintliga mätningar,
-3. stödja utformningen och översynen av mätnätverk, och
-4. identifiera risk för att miljökvalitetsnormer inte följs.
+1\. redovisa mätstationers rumsliga representativitet,
+2\. komplettera befintliga mätningar,
+3\. stödja utformningen och översynen av mätnätverk, och
+4\. identifiera risk för att miljökvalitetsnormer inte följs.
 34 § Naturvårdsverket ska vid behov utvärdera kommunernas genomförande av kontrollen enligt
 23 § och underrätta kommunerna om resultatet av utvärderingen.
 35 § Naturvårdsverket ska för kontrollen enligt 28–30 §§ ansvara för val av plats, översyn och
@@ -11382,30 +11382,30 @@ Förebyggande luftkvalitetstrategi
 36 § Om kontrollen enligt 23 § visar att en föroreningsnivå överskrider eller kan antas överskrida
 utvärderingströskeln enligt bilaga 1 ska kommunen
 
-1. underrätta Naturvårdsverket, och
-2. upprätta en förebyggande luftkvalitetsstrategi.
+1\. underrätta Naturvårdsverket, och
+2\. upprätta en förebyggande luftkvalitetsstrategi.
 37 § En förebyggande luftkvalitetsstrategi ska innehålla åtgärder eller insatser som syftar till att
 föroreningshalterna långsiktigt sänks eller inte ökar.
 En förebyggande luftkvalitetsstrategi ska uppdateras minst vart fjärde år, så länge det finns
 behov av en luftkvalitetsstrategi.
 
 38 § Skyldigheten att upprätta en förebyggande luftkvalitetsstrategi gäller inte om
-1. ett förslag till åtgärdsprogram ska upprättas,
-2. ett åtgärdsprogram har fastställts,
-3. det finns goda förutsättningar att föroreningsnivån minskar med åtgärder som redan är i
+1\. ett förslag till åtgärdsprogram ska upprättas,
+2\. ett åtgärdsprogram har fastställts,
+3\. det finns goda förutsättningar att föroreningsnivån minskar med åtgärder som redan är i
 kraft,
-4. det är en tillfällig verksamhet som bidrar till föroreningsnivån, eller
-5. det inte finns goda förutsättningar att med rimliga och proportionerliga åtgärder minska
+4\. det är en tillfällig verksamhet som bidrar till föroreningsnivån, eller
+5\. det inte finns goda förutsättningar att med rimliga och proportionerliga åtgärder minska
 föroreningsnivån.
 Om en förebyggande luftkvalitetsstrategi inte ska upprättas enligt första stycket 1 eller 2 behöver
 kommunen inte underrätta Naturvårdsverket enligt 36 § 1.
 39 § Den som har upprättat en förebyggande luftkvalitetsstrategi enligt 36 § ska
 
-1. skicka en kopia av strategin till Naturvårdsverket och de andra myndigheter och
+1\. skicka en kopia av strategin till Naturvårdsverket och de andra myndigheter och
 kommuner som berörs av strategin,
-2. kostnadsfritt genom internet göra strategin tillgänglig för allmänheten och andra berörda
+2\. kostnadsfritt genom internet göra strategin tillgänglig för allmänheten och andra berörda
 eller intresserade och ge aktuell information om dess genomförande, och
-3. vartannat år redovisa till Naturvårdsverket i vilka delar strategin har genomförts.
+3\. vartannat år redovisa till Naturvårdsverket i vilka delar strategin har genomförts.
 Åtgärdsprogram
 
 40 § Ett förslag till åtgärdsprogram enligt 5 kap. miljöbalken ska upprättas om en föroreningsnivå
@@ -11425,27 +11425,27 @@ enligt 40 § får besluta att inte göra det när
 
 NATURVÅRDSVERKET
 
-1. det saknas goda förutsättningar för att minska ozonkoncentrationerna med beaktande av
+1\. det saknas goda förutsättningar för att minska ozonkoncentrationerna med beaktande av
 geografiska och meteorologiska förhållanden, och
-2. åtgärderna för att minska ozonkoncentrationerna skulle medföra oproportionerliga
+2\. åtgärderna för att minska ozonkoncentrationerna skulle medföra oproportionerliga
 kostnader.
 42 § Den myndighet eller kommun som ska upprätta ett förslag till åtgärdsprogram enligt 40 §
 får besluta att inte göra det när
-1. det är fråga om ett överskridande av ett värde som inte får överskridas från och med den
+1\. det är fråga om ett överskridande av ett värde som inte får överskridas från och med den
 1 januari 2030 och överskridandet skett innan denna tidpunkt, och
-2. referensscenariot enligt bilaga VIII del A.5 till luftkvalitetsdirektivet visar att det
+2\. referensscenariot enligt bilaga VIII del A.5 till luftkvalitetsdirektivet visar att det
 överskridna värdet kommer att uppnås senast den 1 januari 2030 med de åtgärder som
 redan är i kraft.
 43 § Den myndighet eller kommun som ska upprätta ett förslag till åtgärdsprogram enligt 40 §
 får besluta att inte göra det när
 
-1. ett åtgärdsprogram för att följa en miljökvalitetsnorm enligt 7 § tredje stycket, 9 § andra
+1\. ett åtgärdsprogram för att följa en miljökvalitetsnorm enligt 7 § tredje stycket, 9 § andra
 stycket, 11 § andra stycket, 14 § andra stycket, 15 § andra stycket, 16 § andra stycket,
 17 § andra stycket, 18 § andra stycket 19 § andra stycket, 20 § andra stycket, 21 § andra
 stycket eller 22 § som inte får överskridas från och med den 1 januari 2030 redan har
 fastställts till följd av ett överskridande innan denna tidpunkt,
-2. överskridandet kvarstår efter den 1 januari 2030, och
-3. det är säkerställt att det fastställda åtgärdsprogrammet innehåller de åtgärder som behövs
+2\. överskridandet kvarstår efter den 1 januari 2030, och
+3\. det är säkerställt att det fastställda åtgärdsprogrammet innehåller de åtgärder som behövs
 för att hålla överskridandet så kort som möjligt.
 44 § Den myndighet eller kommun som ska upprätta ett förslag till åtgärdsprogram enligt 40 §
 får besluta att inte göra det om ett redan fastställt åtgärdsprogram som avser samma förorening
@@ -11461,9 +11461,9 @@ Naturvårdsverket fattat beslutet.
 får i stället överlämna frågan om vem som ska upprätta förslaget till regeringen för prövning enligt
 5 kap. 7 § första stycket miljöbalken om
 
-1. det finns särskilda skäl för att någon annan myndighet eller kommun ska upprätta
+1\. det finns särskilda skäl för att någon annan myndighet eller kommun ska upprätta
 förslaget, eller
-2. förslaget ska upprättas på grund av betydande gränsöverskridande föroreningar som
+2\. förslaget ska upprättas på grund av betydande gränsöverskridande föroreningar som
 innebär att artikel 21 i luftkvalitetsdirektivet ska tillämpas.
 Ett överlämnande till regeringen ska göras snarast eller senast 6 månader efter det kalenderår
 under vilket överskridandet registrerades.
@@ -11474,7 +11474,7 @@ Naturvårdsverket överlämnat frågan.
 47 § Naturvårdsverket ska upprätta ett förslag till åtgärdsprogram enligt 40 § när det är fråga om
 en miljökvalitetsnorm som Naturvårdsverket ska kontrollera enligt 28 § 1, 2 eller 4.
 Naturvårdsverket behöver inte upprätta ett förslag till åtgärdsprogram om
-1. Naturvårdsverket fattat beslut enligt 41, 42, 43 eller 44 §, eller
+1\. Naturvårdsverket fattat beslut enligt 41, 42, 43 eller 44 §, eller
 
 15
 
@@ -11482,14 +11482,14 @@ Naturvårdsverket behöver inte upprätta ett förslag till åtgärdsprogram om
 
 NATURVÅRDSVERKET
 
-2. regeringen enligt 5 kap. 7 § första stycket miljöbalken bestämt annat.
+2\. regeringen enligt 5 kap. 7 § första stycket miljöbalken bestämt annat.
 48 § En kommun ska upprätta ett förslag till åtgärdsprogram enligt 40 § när överskridandet av
 föroreningsnivån i en miljökvalitetsnorm har skett inom kommunen. Kommunen behöver inte
 upprätta ett förslag till åtgärdsprogram om
 
-1. det är fråga om en sådan föroreningsnivå som avses i 47 §,
-2. kommunen fattat beslut enligt 41, 42, 43 eller 44 §, eller
-3. regeringen enligt 5 kap. 7 § första stycket miljöbalken bestämt annat.
+1\. det är fråga om en sådan föroreningsnivå som avses i 47 §,
+2\. kommunen fattat beslut enligt 41, 42, 43 eller 44 §, eller
+3\. regeringen enligt 5 kap. 7 § första stycket miljöbalken bestämt annat.
 49 § Ett åtgärdsprogram ska, utöver det som anges i 5 kap. 9 § miljöbalken, innehålla de åtgärder
 som behöver vidtas för att följa miljökvalitetsnormen och för att hålla perioden av överskridande
 så kort som möjligt. Perioden får dock inte vara längre än fyra år från det kalenderår som
@@ -11516,12 +11516,12 @@ enligt programmet.
 53 § Regeringens förslag 36 §
 54 § Den som har fastställt ett åtgärdsprogram ska
 
-1. skicka en kopia av programmet till Naturvårdsverket och de andra myndigheter och
+1\. skicka en kopia av programmet till Naturvårdsverket och de andra myndigheter och
 kommuner som berörs av programmet senast en månad efter det har fastställts,
-2. skicka en kopia av övriga handlingar i ärendet till Naturvårdsverket,
-3. kostnadsfritt göra programmet tillgängligt för allmänheten och andra berörda eller
+2\. skicka en kopia av övriga handlingar i ärendet till Naturvårdsverket,
+3\. kostnadsfritt göra programmet tillgängligt för allmänheten och andra berörda eller
 intresserade och ge aktuell information om dess genomförande, och
-4. senast den 31 oktober varje år redovisa till Naturvårdsverket
+4\. senast den 31 oktober varje år redovisa till Naturvårdsverket
 a. i vilken utsträckning åtgärderna har genomförts,
 b. vilka effekter åtgärderna bedöms ha haft på de aktuella luftföroreningshalterna,
 och
@@ -11530,8 +11530,8 @@ bedömning av när miljökvalitetsnormerna kan följas.
 55 § Ett åtgärdsprogram som har fastställts för att följa de föroreningsnivåer som anges i en
 miljökvalitetsnorm som ska följas från och med den 1 januari 2030 till följd av att
 föroreningsnivåerna överskrids innan denna tidpunkt ska omedelbart omprövas om
-1. överskridandet kvarstår efter den 1 januari 2030, och
-2. det inte är säkerställt att åtgärdsprogrammet innehåller de åtgärder som behövs för att
+1\. överskridandet kvarstår efter den 1 januari 2030, och
+2\. det inte är säkerställt att åtgärdsprogrammet innehåller de åtgärder som behövs för att
 hålla överskridandet så kort som möjligt.
 
 16
@@ -11550,12 +11550,12 @@ förhållande till innan omprövningen, för att hålla perioden av överskridan
 
 56 § Naturvårdsverket ska tillhandahålla ett modelleringsverktyg för kommunerna som stöd i
 arbetet med åtgärdsprogram. Modelleringsverktyget ska kunna användas för att
-1. ge information om föroreningars källfördelning,
-2. ge information om framtidsscenarier,
-3. redovisa omfattningen av överskridanden av miljökvalitetsnormer och beräknat antal
+1\. ge information om föroreningars källfördelning,
+2\. ge information om framtidsscenarier,
+3\. redovisa omfattningen av överskridanden av miljökvalitetsnormer och beräknat antal
 människor som utsätts för överskridanden,
-4. tillhandahålla underlag till åtgärdsprogram, och
-5. utvärdera åtgärder i åtgärdsprogram.
+4\. tillhandahålla underlag till åtgärdsprogram, och
+5\. utvärdera åtgärder i åtgärdsprogram.
 
 Information
 
@@ -11573,16 +11573,16 @@ resultat från mätning och, om tillgängligt, modellberäkning.
 30 §§ i enlighet med bilaga X punkt 1 a och b till luftkvalitetsdirektivet.
 59 § Vid överskridande eller risk för överskridande av en föroreningsnivå i en miljökvalitetsnorm
 ska informationen enligt 57 och 58 §§ även omfatta
-1. tid och plats för överskridandet eller det befarade överskridandet,
-2. koncentrationerna i förhållande till miljökvalitetsnormens nivåer,
-3. effekter på hälsa eller växtlighet, och
-4. rekommenderade försiktighetsåtgärder.
+1\. tid och plats för överskridandet eller det befarade överskridandet,
+2\. koncentrationerna i förhållande till miljökvalitetsnormens nivåer,
+3\. effekter på hälsa eller växtlighet, och
+4\. rekommenderade försiktighetsåtgärder.
 60 § Naturvårdsverket ska tillhandahålla information om hälsoeffekter, påverkan på växtligheten
 och förebyggande åtgärder enligt artikel 22.3 och bilaga X punkt 1 d–f till luftkvalitetsdirektivet.
 
 61 § Naturvårdsverket ska ta fram och tillhandahålla sammanställningar med information om
-1. hur miljökvalitetsnormerna i denna förordning följs, och
-2. fastställda åtgärdsprogram enligt 54 §.
+1\. hur miljökvalitetsnormerna i denna förordning följs, och
+2\. fastställda åtgärdsprogram enligt 54 §.
 
 Sammanställningarna enligt punkten 1 ska innehålla information om eventuella överskridanden
 av de föroreningsnivåer som anges i miljökvalitetsnormerna och tröskelvärdena för information
@@ -11615,29 +11615,29 @@ sjukvårdsinstitutioner samt Myndigheten för samhällsskydd och beredskap.
 annat lämpligt sätt.
 
 Informationen ska innehålla
-1. uppgifter om vilken typ av tröskelvärde som överskridits,
-2. uppgifter om datum, tid och plats för överskridandet,
-3. uppgift om orsaken till överskridandet, om den är känd,
-4. en prognos om förändring i koncentrationen,
-5. en prognos om vilka geografiska områden som berörs,
-6. en prognos om överskridandets varaktighet,
-7. uppgifter om vilka grupper av befolkningen som berörs, särskilt riskgrupper,
-8. en beskrivning av sannolika symptom,
-9. uppgifter om hur de berörda grupperna ska skydda sig,
-10. uppgifter om var mer information kan fås,
-11. uppgifter om de sektorer som står för de största utsläppen samt rekommenderade
+1\. uppgifter om vilken typ av tröskelvärde som överskridits,
+2\. uppgifter om datum, tid och plats för överskridandet,
+3\. uppgift om orsaken till överskridandet, om den är känd,
+4\. en prognos om förändring i koncentrationen,
+5\. en prognos om vilka geografiska områden som berörs,
+6\. en prognos om överskridandets varaktighet,
+7\. uppgifter om vilka grupper av befolkningen som berörs, särskilt riskgrupper,
+8\. en beskrivning av sannolika symptom,
+9\. uppgifter om hur de berörda grupperna ska skydda sig,
+10\. uppgifter om var mer information kan fås,
+11\. uppgifter om de sektorer som står för de största utsläppen samt rekommenderade
 åtgärder för att minska utsläppen,
-12. uppgifter om gällande åtgärdsprogram för åtgärder på kort sikt samt vilka åtgärder som
+12\. uppgifter om gällande åtgärdsprogram för åtgärder på kort sikt samt vilka åtgärder som
 vidtas, och
-13. rekommenderade åtgärder för minskad exponering.
+13\. rekommenderade åtgärder för minskad exponering.
 Informationen om ozon enligt 64 § andra stycket ska även innehålla uppgifter om högsta
 medelkoncentrationerna för 1 timme och 8 timmar.
 66 § Om det finns risk för att tröskelvärdet för larm om svaveldioxid, kvävedioxid eller partiklar
 (PM10 eller PM2,5) enligt bilaga 2 kan komma att överskridas, ska kommunen upprätta ett
 åtgärdsprogram för åtgärder som
-1. innehåller de åtgärder som behövs för att på kort sikt minska risken för överskridande
+1\. innehåller de åtgärder som behövs för att på kort sikt minska risken för överskridande
 eller varaktigheten av överskridandet, och
-2. uppfyller kraven för en handlingsplan enligt artikel 20 i luftkvalitetsdirektivet.
+2\. uppfyller kraven för en handlingsplan enligt artikel 20 i luftkvalitetsdirektivet.
 Om förutsättningarna för att minska risken för ett överskridande för partiklar (PM10 eller
 PM2,5) är kraftigt begränsade till följd av de lokala geografiska och meteorologiska förhållandena
 och särdragen hos värmesystem för bostäder får åtgärdsprogrammet avse endast särskilda åtgärder
@@ -11653,9 +11653,9 @@ för det uppmätta eller förväntade överskridandet.
 
 NATURVÅRDSVERKET
 
-1. innehåller de åtgärder som behövs för att på kort sikt minska risken för överskridande
+1\. innehåller de åtgärder som behövs för att på kort sikt minska risken för överskridande
 eller varaktigheten av överskridandet, och
-2. uppfyller kraven för en handlingsplan enligt artikel 20 i luftkvalitetsdirektivet.
+2\. uppfyller kraven för en handlingsplan enligt artikel 20 i luftkvalitetsdirektivet.
 Skyldigheten att upprätta ett åtgärdsprogram enligt första stycket gäller inte om det saknas goda
 förutsättningar att minska risken för överskridande av tröskelvärdet eller minska varaktigheten
 eller graden av ett överskridande med hänsyn till geografiska, meteorologiska och ekonomiska
@@ -11674,8 +11674,8 @@ Information och rapportering för Europeiska kommissionen
 72 § Naturvårdsverket ska fullgöra de uppgifter i fråga om information och rapportering till
 Europeiska kommissionen som följer av
 
-1. artiklarna 19.2, 19.4, 19.8, 20.5, 23 och bilaga VI del B.2 till luftkvalitetsdirektivet, och
-2. de genomförandeakter som kommissionen ska anta enligt artikel 23.5 i
+1\. artiklarna 19.2, 19.4, 19.8, 20.5, 23 och bilaga VI del B.2 till luftkvalitetsdirektivet, och
+2\. de genomförandeakter som kommissionen ska anta enligt artikel 23.5 i
 luftkvalitetsdirektivet.
 Rapporteringen ska ske enligt den geografiska indelning som Naturvårdsverket bestämmer.
 
@@ -11691,12 +11691,12 @@ artikel 5 d och f samt bilaga V del G till luftkvalitetsdirektivet.
 Bemyndiganden
 
 75 § Naturvårdsverket får meddela
-1. föreskrifter om att mätsystem som används för kontrollen enligt 23 och 27–30 §§ ska
+1\. föreskrifter om att mätsystem som används för kontrollen enligt 23 och 27–30 §§ ska
 vara godkända av Naturvårdsverket,
-2. de föreskrifter i övrigt om provtagning och andra metoder som behövs för kontrollen
+2\. de föreskrifter i övrigt om provtagning och andra metoder som behövs för kontrollen
 enligt 23–26 §§,
-3. föreskrifter om hur samverkan enligt 23 § andra stycket ska ske, och
-4. de föreskrifter om rapportering som behövs för att Naturvårdsverket ska kunna fullgöra
+3\. föreskrifter om hur samverkan enligt 23 § andra stycket ska ske, och
+4\. de föreskrifter om rapportering som behövs för att Naturvårdsverket ska kunna fullgöra
 den rapporteringsskyldighet som avses i 72 §.
 Föreskrifter enligt första stycket 1 och 2 får innebära sådana undantag från kraven på hur
 kontrollen enligt 24 § ska ske som är förenliga med luftkvalitetsdirektivet och som behövs med
@@ -11829,10 +11829,10 @@ Bilaga 3
 
 Innehåll i ett åtgärdsprogram enligt 50 § första stycket
 
-1. Allmän information
+1\. Allmän information
 i. Kontaktuppgifter till den myndighet eller kommun som upprättat förslag
 till och fastställt åtgärdsprogrammet.
-2. Allmän information om att miljökvalitetsnormen inte följs
+2\. Allmän information om att miljökvalitetsnormen inte följs
 i. Typ av område som åtgärdsprogrammet avser (kommun, län, territoriell
 enhet för genomsnittlig exponering, annan).
 ii. Kartor som visar de platser där föroreningsnivån som anges i
@@ -11848,7 +11848,7 @@ uppgifterna, inbegripet i vilken mån de överensstämmer med
 miljökvalitetsnormerna eller skyldigheten för genomsnittlig
 exponeringsminskning och målet för genomsnittlig
 exponeringskoncentration.
-3. Information om källfördelning
+3\. Information om källfördelning
 i. Föroreningarnas ursprung, med beaktande av den rapportering som görs
 enligt Europaparlamentets och rådets direktiv (EU) 2016/2284 av den 14
 december 2016 om minskning av nationella utsläpp av vissa
@@ -11861,23 +11861,23 @@ ii. Utvärdering av utsläppsnivåerna med fördelning på lokal, regional,
 nationell, gränsöverskridande eller annan relevant nivå.
 iii. Källfördelning på relevanta sektorer som bidrar till överskridandet i det
 program som har tagits fram enligt luftvårdsförordningen (2018:740).
-4. Referensscenario
+4\. Referensscenario
 i. Beskrivning av det referensscenario som använts som grund för
 åtgärdsprogrammet för att påvisa effekterna av att inte vidta åtgärder, med
 förväntad utveckling av utsläpp och koncentrationer.
-5. Urval av åtgärder
+5\. Urval av åtgärder
 i. Identifiering av och uppgifter om de åtgärder för minskning av
 luftföroreningar som kan komma i fråga för åtgärdsprogrammet med
-1. Förteckning över och beskrivning av samtliga åtgärder som
+1\. Förteckning över och beskrivning av samtliga åtgärder som
 övervägts i åtgärdsprogrammet med angivande av ansvarig
 kommun eller myndighet för åtgärderna.
-2. Kvantifiering eller uppskattning av utsläppsminskningen i ton
+2\. Kvantifiering eller uppskattning av utsläppsminskningen i ton
 per år och, om tillgängligt, koncentrationsminskningarna för
 varje åtgärd som övervägts enligt i.
-6. Valda åtgärder
+6\. Valda åtgärder
 i. Valda åtgärder och deras förväntade effekter för att följa
 miljökvalitetsnormen med
-1. En förteckning över de valda åtgärderna, med underlag, för att
+1\. En förteckning över de valda åtgärderna, med underlag, för att
 följa miljökvalitetsnormen.
 23
 
@@ -11885,25 +11885,25 @@ följa miljökvalitetsnormen.
 
 NATURVÅRDSVERKET
 
-2. En redogörelse för orsaken till att åtgärder som omfattas av 5 a)
+2\. En redogörelse för orsaken till att åtgärder som omfattas av 5 a)
 i och har stor potential att förbättra luftkvaliteten inte valts som
 åtgärd enligt i.
-3. Tidsplan för genomförandet av varje åtgärd och ansvarig aktör
+3\. Tidsplan för genomförandet av varje åtgärd och ansvarig aktör
 för åtgärden.
-4. Kvantifiering av utsläppsminskningen i ton per år till följd av de
+4\. Kvantifiering av utsläppsminskningen i ton per år till följd av de
 åtgärder som valts.
-5. Förväntad kvantifierad koncentrationsminskning i μg per m3 vid
+5\. Förväntad kvantifierad koncentrationsminskning i μg per m3 vid
 varje provtagningspunkt där en föroreningsnivå som anges i
 miljökvalitetsnormen eller indikatorn för genomsnittlig har
 överskridits till följd av de åtgärder som valts.
-6. Indikativ utvecklingsbana för att följa miljökvalitetsnormen och
+6\. Indikativ utvecklingsbana för att följa miljökvalitetsnormen och
 uppskattat år för att följa den med beaktande av de åtgärder som
 valts.
-7. Redogörelse av hur de valda åtgärderna och tidplanen för
+7\. Redogörelse av hur de valda åtgärderna och tidplanen för
 genomförandet av de säkerställer att perioden av överskridande
 av föroreningsnivån i miljökvalitetsnormen hålls så kort som
 möjligt.
-7. Information om alla åtgärder som har övervägts på lokal, regional eller nationell nivå för att
+7\. Information om alla åtgärder som har övervägts på lokal, regional eller nationell nivå för att
 följa miljökvalitetsnormerna.
 
 24
@@ -11916,7 +11916,7 @@ Bilaga 4
 
 Innehåll i ett åtgärdsprogram enligt 50 § andra stycket
 
-1. Kompletterande bakgrundsinformation med
+1\. Kompletterande bakgrundsinformation med
 i. Väderleksförhållanden.
 ii. Topografiska uppgifter.
 iii. Information om vilken typ av objekt som särskilt bör skyddas.
@@ -11932,18 +11932,18 @@ känslighetsscenarier för att beakta de bästa, de mest sannolika och de
 värsta scenarierna.
 vii. Bakgrundsdokument och information som använts för bedömningar i
 samband med fastställande av åtgärdsprogrammet.
-2. Redogörelse av de åtgärder om samråd och information enligt 5 kap. 7 § tredje stycket
+2\. Redogörelse av de åtgärder om samråd och information enligt 5 kap. 7 § tredje stycket
 miljöbalken och denna förordning som har vidtagits, resultatet av åtgärderna och hur
 resultaten från åtgärderna har beaktats i det fastställda åtgärdsprogrammet.
-3. För ett omprövat åtgärdsprogram
+3\. För ett omprövat åtgärdsprogram
 i. En utvärdering av tidsplanen för åtgärder i det tidigare
 åtgärdsprogrammet.
 ii. En uppskattning av inverkan på utsläppsminskningen och
 föroreningskoncentrationen till följd av åtgärder i det tidigare
 åtgärdsprogrammet.
-____________________
-1. Denna förordning träder i kraft den 11 december 2026.
-2. Genom förordningen upphävs luftkvalitetsförordningen (2010:477).
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1\. Denna förordning träder i kraft den 11 december 2026.
+2\. Genom förordningen upphävs luftkvalitetsförordningen (2010:477).
 
 25
 
@@ -12047,7 +12047,7 @@ och enheter för rapportering
 24 § första stycket
 
 […]
-3. Naturvårdsverket i fråga om
+3\. Naturvårdsverket i fråga om
 a) områden som omfattas av naturvårdsavtal där Naturvårdsverket eller länsstyrelserna är
 avtalspart för staten,
 
@@ -12070,7 +12070,7 @@ luftkvalitet och renare luft i Europa. luftkvalitet och renare luft i Europa.
 
 NATURVÅRDSVERKET
 
-2.     Inledning
+2\.     Inledning
 
 2.1    Uppdraget
 
@@ -12151,7 +12151,7 @@ promemorian föreslås ändringar i miljöbalken och luftkvalitetsförordningen
 tillgång till rättslig prövning och rätt till skadestånd.5 Promemorian skickades ut på
 
 remiss den 18 juni 2025 och remissvaren skulle lämnas in senast den 20 oktober
-2025.
+2025\.
 Det finns även delar av direktivet som kommer att genomföras i Naturvårdsverkets
 föreskrifter, vilket inte ingår i uppdraget. Arbetet med revidering av
 Naturvårdsverkets föreskrifter har påbörjats parallellt med regeringsuppdraget, och
@@ -12336,7 +12336,7 @@ Skogsindustrierna och Implementeringsrådet.
 
 NATURVÅRDSVERKET
 
-3.     Naturvårdsverkets
+3\.     Naturvårdsverkets
 
 förslag       och
 
@@ -13921,7 +13921,7 @@ för att säkerställa mätnoggrannheten och överensstämmelsen med
 datakvalitetsmålen. Kraven lyder enligt följande:
 
 F. Kvalitetssäkring vid utvärdering av luftkvaliteten; datavalidering
-1. För att säkerställa mätnoggrannheten och överensstämmelsen med de
+1\. För att säkerställa mätnoggrannheten och överensstämmelsen med de
 kvalitetsmål för mätdata som fastställs i punkt A i denna bilaga ska de behöriga
 
 myndigheter och organ som utsetts enligt artikel 5 göra följande:
@@ -14547,7 +14547,7 @@ Tabell 1 Samverkansområden och luftvårdsförbund.
 
 [Tabell 259-1](handlingar.tabeller/259-1.csv)
 
-|  | Län | Samverkansområde<br>för kontroll av MKN<br>luft | Luftvårdsförbund<br>med avseende på<br>politisk styrning,<br>företagsmedlemmar<br>och övervakning i<br>regional bakgrund* | Kommentar |
+|  | Län | Samverkansområde<br>för kontroll av MKN<br>luft | Luftvårdsförbund<br>med avseende på<br>politisk styrning,<br>företagsmedlemmar<br>och övervakning i<br>regional bakgrund\* | Kommentar |
 | --- | --- | --- | --- | --- |
 | Allmänt |  |  |  | I enstaka fall ingår inte vissa<br>kommuner i samverkansområdet<br>eller luftvårdsförbundet. |
 | AB | Stockholm | Östra Sveriges<br>luftvårdsförbund<br>(ÖSLVF) | Östra Sveriges<br>luftvårdsförbund<br>(ÖSLVF) |  |
@@ -14567,7 +14567,7 @@ Tabell 1 Samverkansområden och luftvårdsförbund.
 
 NATURVÅRDSVERKET
 
-* Ingen övervakning i regional bakgrund i Östra Sveriges luftvårdsförbund.
+\* Ingen övervakning i regional bakgrund i Östra Sveriges luftvårdsförbund.
 
 Det finns många fördelar med samverkan
 Konceptet med att genomföra kontrollen av miljökvalitetsnormerna för
@@ -14586,7 +14586,7 @@ länsstyrelser, luftvårdsförbund och i samverkansområden samt konsulter på o
 
 [Tabell 260-1](handlingar.tabeller/260-1.csv)
 
-|  | Län | Samverkansområde<br>för kontroll av MKN<br>luft | Luftvårdsförbund<br>med avseende på<br>politisk styrning,<br>företagsmedlemmar<br>och övervakning i<br>regional bakgrund* | Kommentar |
+|  | Län | Samverkansområde<br>för kontroll av MKN<br>luft | Luftvårdsförbund<br>med avseende på<br>politisk styrning,<br>företagsmedlemmar<br>och övervakning i<br>regional bakgrund\* | Kommentar |
 | --- | --- | --- | --- | --- |
 |  |  | Luftvårdsförbundet för<br>Västra Sverige (Luft i<br>Väst) | Luftvårdsförbundet<br>för Västra Sverige<br>(Luft i Väst) |  |
 | S | Värmland | Nej | Värmlands<br>luftvårdsförbund | Samarbete med Örebro län om<br>objektiv skattning |
@@ -15343,7 +15343,7 @@ bakgrundsstationer, och att bilaga III del A.1 till direktivet för bland annat 
 
 kräver att antalet mätstationer i urban bakgrund och antalet mätstationer i
 högbelastade platser (exempelvis gaturum) inte ska skilja sig med mer än en faktor
-2. Länen Jämtland, Västerbotten och Norrbotten bedöms ha störst risk för nya krav
+2\. Länen Jämtland, Västerbotten och Norrbotten bedöms ha störst risk för nya krav
 på urbana bakgrundsstationer (en per län / zon) eftersom rapporterade resultat visar
 att dessa har störst risk för överskridande av den befintliga normen mellan 2026–
 2029 och då dessa län helt saknar urbana bakgrundsstationer idag. Efter 2030 kan
@@ -15442,7 +15442,7 @@ NATURVÅRDSVERKET
 3.4.1  Uppdatering av utvärderingströsklarna och
 
 kontrollförfarandet i relation till dessa (artikel 7–
-8)
+8\)
 
 Naturvårdsverkets förslag: Utvärderingströsklarna i bilaga 1 till
 luftkvalitetsförordningen uppdateras enligt bilaga II till luftkvalitetsdirektivet
@@ -15521,7 +15521,7 @@ som gäller idag och de nya utvärderingströsklarna enligt direktivet.
 | PM2,5 | 12 µg/m3 (årsmedel) | 17 µg/m3 (årsmedel) | 5 µg/m3 (årsmedel) |
 | PM10 | 20 µg/m3 (årsmedel)<br>25 µg/m3 (≤35 dygn) | 28 µg/m3 (årsmedel)<br>35 µg/m3 (≤35 dygn) | 15 µg/m3 (årsmedel) |
 | NO<br>2 | 26 µg/m3 (årsmedel)<br>36 µg/m3 (≤7 dygn)<br>54 µg/m3 (≤175 timmar)<br>100 µg/m3 (≤18 timmar) | 32 µg/m3 (årsmedel)<br>48 µg/m3 (≤7 dygn)<br>72 µg/m3 (≤175 timmar)<br>140 µg/m3 (≤18 timmar) | 10 µg/m3 (årsmedel) |
-| SO<br>2 | 50 µg/m3 (≤3 dygn)<br>100 µg/m3 (≤175 timmar)<br>8 µg/m3 (vintermedel*)** | 75 µg/m3 (≤3 dygn)<br>150 µg/m3 (≤175 timmar)<br>12 µg/m3<br>(vintermedel*)** | 40 µg/m3 (≤3 dygn)<br>8 µg/m3<br>(vintermedel*)** |
+| SO<br>2 | 50 µg/m3 (≤3 dygn)<br>100 µg/m3 (≤175 timmar)<br>8 µg/m3 (vintermedel\*)\*\* | 75 µg/m3 (≤3 dygn)<br>150 µg/m3 (≤175 timmar)<br>12 µg/m3<br>(vintermedel\*)\*\* | 40 µg/m3 (≤3 dygn)<br>8 µg/m3<br>(vintermedel\*)\*\* |
 | CO | 5 mg/m3 (8-<br>timmarsmedel) | 7 mg/m3 (8-<br>timmarsmedel) | 4 mg/m3 (≤3 dygn) |
 | Bensen | 2 µg/m3 (årsmedel) | 3,5 µg/m3 (årsmedel) | 1,7 µg/m3 (årsmedel) |
 | Bly | 0,25 µg/m3 (årsmedel) | 0,35 µg/m3 (årsmedel) | 0,25 µg/m3 (årsmedel) |
@@ -15530,8 +15530,8 @@ som gäller idag och de nya utvärderingströsklarna enligt direktivet.
 
 NATURVÅRDSVERKET
 
-* Medelvärde för perioden 1 oktober–31 mars.
-** Utvärderingströsklar för skydd av växtlighet och naturliga ekosystem, relevanta för
+\* Medelvärde för perioden 1 oktober–31 mars.
+\*\* Utvärderingströsklar för skydd av växtlighet och naturliga ekosystem, relevanta för
 kontroll av direktivets kritiska nivåer. Alla andra utvärderingströsklar är för hälsoskydd och
 är relevanta för kontroll av direktivets gräns- och målvärden.
 
@@ -15571,7 +15571,7 @@ rekommenderar.
 | Nickel | 10 ng/m3 (årsmedel) | 14 ng/m3 (årsmedel) | 10 ng/m3 (årsmedel) |
 | Bens(a)pyren | 0,4 ng/m3 (årsmedel) | 0,6 ng/m3 (årsmedel) | 0,30 ng/m3 (årsmedel) |
 | Ozon | - | - | 100 µg/m3 (högsta 8-<br>timmarsmedel ≤3 dygn) |
-| NO<br>x | 19,5 µg/m3 (årsmedel)** | 24 µg/m3 (årsmedel)** | 19,5 µg/m3<br>(årsmedel)** |
+| NO<br>x | 19,5 µg/m3 (årsmedel)\*\* | 24 µg/m3 (årsmedel)\*\* | 19,5 µg/m3<br>(årsmedel)\*\* |
 
 <!-- sida 279 -->
 
@@ -17435,7 +17435,7 @@ behöver ha minst en (1) urban och fyra (4) regionala superstationer. Därför b
 Sverige endast mäta sot, ultrafina partiklar och ammoniak vid två (2) av de fyra
 superstationerna i regional bakgrund. Denna möjlighet till reducerade mätkrav
 bedöms bli implementerad genom att i luftkvalitetsförordningen hänvisa till artikel
-10. Som beskrivs i avsnitt 3.4.7 så är sot och ultrafina partiklar viktiga att övervaka
+10\. Som beskrivs i avsnitt 3.4.7 så är sot och ultrafina partiklar viktiga att övervaka
 för att bättre kunna bedöma partiklars hälsopåverkan. Det är relevant att mäta dessa
 föroreningar på olika platser med en jämn geografisk spridning för att få
 information om föroreningsnivåer i olika delar av landet. En lägsta ambitionsnivå
@@ -17833,13 +17833,13 @@ Högupplösta mätningar av ozon med möjlighet till mätrabatt
 Kraven på antal ozonmätningar i det nya luftkvalitetsdirektivet motsvarar i stora
 delar dem som gäller idag, men det finns skillnader.
 
-1. Bilaga III del A tabell 2 för minsta antal provtagningspunkter för fast
+1\. Bilaga III del A tabell 2 för minsta antal provtagningspunkter för fast
 mätning för att utvärdera efterlevnaden av målvärden för ozon, långsiktiga
 mål samt tröskelvärden för larm och tröskelvärden för information,
-2. Bilaga III del A tabell 4 för tillämpning av en 50-procentig minskning
+2\. Bilaga III del A tabell 4 för tillämpning av en 50-procentig minskning
 
 (mätrabatt) av antalet mätstationer, i enlighet med punkterna A i bilaga III
-3. Bilaga III del C punkt 2 för det långsiktiga målet för ozon för skydd av
+3\. Bilaga III del C punkt 2 för det långsiktiga målet för ozon för skydd av
 människors hälsa och vegetationen
 Punkt 1 innebär att antalet mätstationer i enlighet med artikel 9.2 inte får vara färre
 än det antal som anges i bilaga III A i zoner där halterna överskrider
@@ -19607,12 +19607,12 @@ Partiklar PM2,5 (dygn) 25 µg/m3 Får inte 1 januari -
 överskridas mer 2030
 än 18 gånger
 per kalenderår
-Partiklar PM2,5  25 µg/m3           *       31
+Partiklar PM2,5  25 µg/m3           \*       31
 (årsmedelvärde)                             december
 2029
 Partiklar PM2,5  10 µg/m3           1 januari -
 (årsmedelvärde)                     2030
-Partiklar PM10 (dygn) 50 µg/m3 Får inte *   31
+Partiklar PM10 (dygn) 50 µg/m3 Får inte \*   31
 överskridas mer   december
 än 35 gånger      2029
 per kalenderår
@@ -19630,16 +19630,16 @@ Partiklar PM10 (dygn) 45 µg/m3 Får inte 1 januari -
 överskridas mer 2030
 än 18 gånger
 per kalenderår
-Partiklar PM10   40 µg/m3           *       31
+Partiklar PM10   40 µg/m3           \*       31
 (årsmedelvärde)                             december
 2029
 Partiklar PM10   20 µg/m3           1 januari -
 (årsmedelvärde)                     2030
-Kvävedioxid      200 µg/m3 Får inte *       -
+Kvävedioxid      200 µg/m3 Får inte \*       -
 (timmedelvärde)           överskridas mer
 än 3 gånger per
 kalenderår
-Kvävedioxid      50 µg/m3 Får inte  *       -
+Kvävedioxid      50 µg/m3 Får inte  \*       -
 (dygnsmedelvärde)         överskridas mer
 än 18 gånger
 per kalenderår
@@ -19648,22 +19648,22 @@ Kvävedioxid      40 µg/m3           ’       31
 2029
 Kvävedioxid      20 µg/m3           1 januari -
 (årsmedelvärde)                     2030
-Svaveldioxid     350 µg/m3 Får inte *       -
+Svaveldioxid     350 µg/m3 Får inte \*       -
 (timmedelvärde)           överskridas mer
 än 3 gånger per
 kalenderår
-Svaveldioxid     50 µg/m3 Får inte  *       -
+Svaveldioxid     50 µg/m3 Får inte  \*       -
 (dygnsmedelvärde)         överskridas mer
 än 18 gånger
 per kalenderår
 Svaveldioxid     20 µg/m3           1 januari -
 (årsmedelvärde)                     2030
-Bensen (årsmedelvärde) 5 µg/m3      *       31
+Bensen (årsmedelvärde) 5 µg/m3      \*       31
 december
 2029
 Bensen (årsmedelvärde) 3,4 µg/m3    1 januari -
 2030
-Kolmonoxid (högsta 8- 10 mg/m3      *       -
+Kolmonoxid (högsta 8- 10 mg/m3      \*       -
 timmarsmedelvärdet under
 ett dygn)
 Kolmonoxid       4 mg/m3  Får inte  1 januari -
@@ -19691,7 +19691,7 @@ Bens(a)pyren     1,0 ng/m3          1 januari -
 (årsmedelvärde)                     2030
 
 Målvärden
-Ozon (högsta 8-  120 µg/m3 Får inte *       -
+Ozon (högsta 8-  120 µg/m3 Får inte \*       -
 timmarsmedelvärdet under  överskridas mer
 ett dygn)                 än 18 gånger
 per kalenderår
@@ -19710,31 +19710,31 @@ Ozon (högsta 8-  100 µg/m3 Får inte 1 januari -
 timmarsmedelvärdet under  överskridas mer 2050
 ett dygn)                 än 3 dygn per
 år.
-Ozonindex AOT40  18000 µg/m3 * Medelvärde * -
+Ozonindex AOT40  18000 µg/m3 \* Medelvärde \* -
 h        under fem år
 beräknat från
 timmedelvärden
 under maj till juli
-Ozonindex AOT40  6000 µg/m3 * Beräknat från 1 januari -
+Ozonindex AOT40  6000 µg/m3 \* Beräknat från 1 januari -
 h        timmedelvärden 2050
 under maj till
 juli.
-Bly (årsmedelvärde) 500 ng/m3       *       31
+Bly (årsmedelvärde) 500 ng/m3       \*       31
 december
 2029
-Arsenik (årsmedelvärde) 6,0 ng/m3   *       31
+Arsenik (årsmedelvärde) 6,0 ng/m3   \*       31
 december
 2029
-Kadmium (årsmedelvärde) 5,0 ng/m3   *       31
+Kadmium (årsmedelvärde) 5,0 ng/m3   \*       31
 december
 2029
-Nickel (årsmedelvärde) 20 ng/m3     *       31
+Nickel (årsmedelvärde) 20 ng/m3     \*       31
 december
 2029
-Bens(a)pyren     1,0 ng/m3          *       31
+Bens(a)pyren     1,0 ng/m3          \*       31
 (årsmedelvärde)                             december
 2029
-* börjar gälla direkt när förordningen träder i kraft.
+\* börjar gälla direkt när förordningen träder i kraft.
 Naturvårdsverket anser att de nivåer som antogs i direktivet är väl avvägda och ett
 viktigt steg mot EU:s långsiktiga nollföroreningsmål.
 170
@@ -19816,7 +19816,7 @@ dygnsnormen (18 dygn över 50 ug/m?)
 20 Överskrider den CS
 nya nivån men (cå
 : + T
-35 ej dagens nivå $z,
+35 ej dagens nivå \$z,
 I 02,
 | ig
 E30 I >
@@ -20276,7 +20276,7 @@ påverkan på företag vara begränsad.
 
 3.6.3  Tröskelvärden för larm och information (artikel
 
-15)
+15\)
 
 Naturvårdsverkets förslag: De tröskelvärden för larm och information som
 anges i direktivet införs med samma nivåer i svensk lagstiftning.
@@ -20566,7 +20566,7 @@ luftkvalitetsförordningen, tas bort för att harmoniseras med utformningen av
 övriga miljökvalitetsnormer.
 
 Naturvårdsverket ska genomföra kontrollen av de kritiska nivåerna enligt artikel
-14.
+14\.
 
 Detta ska regleras i 8 och 10 §§ och därutöver 28 § första stycket 1 förslag till ny
 luftkvalitetsförordning.
@@ -22371,7 +22371,7 @@ luftkvalitetsarbete i kommuner, vilket också bör förbättra luftkvaliteten oc
 hälsoriskerna.
 
 3.9.5  Åtgärdsprogram för åtgärder på kort sikt (artikel
-20)
+20\)
 
 Naturvårdsverkets förslag: När halterna av partiklar (PM10 och PM2,5)
 
@@ -22512,7 +22512,7 @@ på nationell nivå. Utan en nationell överblick saknas helhetsbilden, och att 
 miljökvalitetsnormer och högre krav gällande åtgärdsprogram och förebyggande
 luftkvalitetsstrategier som främst belastar kommunerna, kan kommunerna behöva
 stöd. Cirka 55 kommuner förväntas överskrida normen för partiklar PM10 till
-2030. Kommunerna har inte rådighet över trafik på statliga vägar eller möjlighet att
+2030\. Kommunerna har inte rådighet över trafik på statliga vägar eller möjlighet att
 
 se till helheten vilket innebär att det behövs en nationell överblick och möjlighet
 för kommuner att lyfta behov av kompletterande åtgärder och styrmedel.
@@ -22695,7 +22695,7 @@ beroende på vilka typ av åtgärder och styrmedel som är aktuella.
 
 3.10   Att  informera  blir allt viktigare (artikel
 
-22)
+22\)
 
 Naturvårdsverkets förslag: Den som har fastställt ett åtgärdsprogram ska
 skicka en kopia av det till Naturvårdsverket och de andra myndigheter och
@@ -23112,9 +23112,9 @@ inkluderats.
 Naturvårdsverket föreslår att de krav gällande rapportering i direktivet som
 kommer att hanteras av Naturvårdsverket genomförs i 72 § i förslag till ny
 luftkvalitetsförordning:
-1. artiklarna 19.2, 19.4, 19.8, 20.5, 23 samt bilaga VI del B.2 till
+1\. artiklarna 19.2, 19.4, 19.8, 20.5, 23 samt bilaga VI del B.2 till
 luftkvalitetsdirektivet,
-2. de genomförandeakter som kommissionen ska anta enligt artikel 23.5 i
+2\. de genomförandeakter som kommissionen ska anta enligt artikel 23.5 i
 luftkvalitetsdirektivet.
 
 Rapporteringen ska ske enligt den geografiska indelning som Naturvårdsverket
@@ -23195,7 +23195,7 @@ genomförda krav och innebär därför ingen ytterligare insats jämfört med id
 
 NATURVÅRDSVERKET
 
-4.     Konsekvenser               av
+4\.     Konsekvenser               av
 
 förslag
 
@@ -23638,7 +23638,7 @@ nationell modellering bedöms bli en viktig del. Detta innebär en ökad
 arbetsbelastning för Naturvårdsverket med vägledning samt rapportering av dessa
 åtgärdsprogram. Från dagens cirka 3–4 åtgärdsprogram per år till uppskattningsvis
 20–30 åtgärdsprogram som ska rapporteras till kommissionen under åren omkring
-2030. Under en period kan Naturvårdsverket därför behöva extra resurser till att
+2030\. Under en period kan Naturvårdsverket därför behöva extra resurser till att
 hantera den ökade arbetsbelastning som detta medför.
 
 Förslaget om exponeringsminskningsmålen i avsnitt 3.6.4 innebär bland annat
@@ -24298,7 +24298,7 @@ anslag 1:2 Miljöövervakning m.m. för år 2026 och 2027
 
 NATURVÅRDSVERKET
 
-* Genomsnittlig uppskattad kostnad för olika val av mätmetoder.
+\* Genomsnittlig uppskattad kostnad för olika val av mätmetoder.
 
 Som framgår av tabellen ovan uppskattar vi de ökade kostnaderna till cirka 10,1
 miljoner kronor för år 2026 och för år 2027 bedöms tillkommande kostnader för
@@ -24326,7 +24326,7 @@ och mätplatser. Sett över de senaste 13 åren har den nationella luftövervakn
 |  | Kostnad för Nationell modellering och SIMAIR<br>(förslag i avsnitt 3.4.4 och 3.9.4) | 4 600 000 |
 |  | Kompletterande mätningar vid halter under<br>utvärderingströskeln<br>(förslag i avsnitt 3.4.7) | 1 000 000 |
 |  | Nya mätningar/ Inköp av mättjänster, (både vid<br>superstationer och övriga)<br>(förslag i avsnitt 3.4.7) | 2 100 000 |
-|  | Mätningar vid urban superstation<br>(förslag i delredovisningen, avsnitt 4.1) | 3 650 000* |
+|  | Mätningar vid urban superstation<br>(förslag i delredovisningen, avsnitt 4.1) | 3 650 000\* |
 |  | Totalt år 2027 | 11 350 000 |
 
 <!-- sida 440 -->
@@ -24550,7 +24550,7 @@ luftkvalitetsdirektivet senast den 31 december 2030, och därefter minst vart fe
 
 NATURVÅRDSVERKET
 
-5.     Källförteckning
+5\.     Källförteckning
 
 Andersson, S., Arvelius, J., Jones, J., Kindell, S. och Leung, W. (2019).
 Beräkningar av emissioner och halter av benso(a)pyren och partiklar från
@@ -24640,14 +24640,14 @@ Europeiska miljöbyrån (2025). European Air Quality Index,
 https://airindex.eea.europa.eu/AQI/index.html, hämtad 2025-10-17.
 
 Göteborgs stad (2025). Göteborgs Stads åtgärdsplan för partiklar (PM10) 2025–
-2030.
+2030\.
 Havs- och vattenmyndigheten (2024). Vägledning om förlängd tidsfrist och mindre
 stränga krav – Undantag enligt 4 kap. 9–10 §§ vattenförvaltningsförordningen.
 Rapport 2023:14.
 
 IVL Svenska Miljöinstitutet (2019). En ekonomisk utvärdering av inverkan av
 marknära ozon på skog och jordbruksgrödor i Sverige baserat på ozonflux. Nr C
-460.
+460\.
 IVL Svenska Miljöinstitutet (2022). Quantification of population exposure to NO2,
 
 PM10 and PM2.5, and estimated health impacts 2019. No. B 2446.
@@ -24663,7 +24663,7 @@ NATURVÅRDSVERKET
 
 Klimat-och näringslivsdepartementet (2025). Miljökvalitetsnormer för luft: Nya
 regler om rättslig prövning och skadestånd. Promemoria. KN2025/01294. Juni
-2025.
+2025\.
 Lanphear B et al. (2005). Environment Health Perspective 2005.
 
 Lanphear B. et al. (2019). Environment Health Perspective 2019.
@@ -24745,7 +24745,7 @@ Ross-Jones, M. et al. (2025). FAIRMODE WG8 – Guidance Document on the
 estimation of Spatial Representativeness.
 SCB (2025). Karta över NUTS-indelningen i Sverige (fr.o.m. 2008-01-01),
 https://www.scb.se/contentassets/4e32573a1c8f46d1a5ca29e381fb462f/nuts_1_2_3
-_20080101.pdf, hämtad 2025-10-21.
+\_20080101.pdf, hämtad 2025-10-21.
 
 SMHI (2023). Quantification of population exposure to PM10, PM2.5 and NO2
 and estimated health impacts for 2019 and 2030, A study based on high resolution
@@ -24764,7 +24764,7 @@ https://datavardluft.smhi.se/portal/yearly-statistics?P=6001, hämtad 2025-11-06
 
 (e) SMHI (2025). Datavärdskap luftkvalitet,
 https://www.smhi.se/data/luftkvalitet/datavardskap-luftkvalitet, hämtad 2025-10-
-20.
+20\.
 
 262
 
@@ -24858,8 +24858,8 @@ mottagit i samband med sådana anmälningar.
 
 6 b § En miljökvalitetsnorm enligt 4 § följs trots att det är fråga om ett överskridande av
 föroreningsnivån som enligt bestämmelsen ska anses innebära att normen inte följs om
-1. överskridandet beror på naturliga källor, och
-2. Naturvårdsverket har underrättat kommissionen enligt 6 a §.
+1\. överskridandet beror på naturliga källor, och
+2\. Naturvårdsverket har underrättat kommissionen enligt 6 a §.
 Om Europeiska kommissionen har framfört invändningar mot det underlag som lämnats i
 samband med underrättelsen enligt 6 a § andra stycket ska det inte anses bero på naturliga källor
 att miljökvalitetsnormen inte följs förrän de uppgifter och det underlag som kommissionen har
@@ -24871,7 +24871,7 @@ Avvikelser från tidpunkten när en miljökvalitetsnorm ska följas
 PM2,5), kvävedioxid, bensen eller bens(a)pyren som ska följas från och med den 1 januari 2030
 ska följas vid en senare tidpunkt för ett område som omfattas av ett åtgärdsprogram som
 fastställts senast den 31 december 2028 om
-1. det inte är möjligt att följa miljökvalitetsnormen den 1 januari 2030 till följd av
+1\. det inte är möjligt att följa miljökvalitetsnormen den 1 januari 2030 till följd av
 a. platsspecifika spridningsförhållanden,
 b. orografiska förhållanden,
 c. ogynnsamma klimatförhållanden,
@@ -24879,10 +24879,10 @@ d. bidrag från gränsöverskridande luftföroreningar, eller
 e. att nödvändiga minskningar endast kan uppnås genom att ersätta en betydande del
 av de befintliga värmesystem för bostäder som är den föroreningskälla som
 orsakar överskridanden, och
-2. åtgärdsprogrammet uppfyller kraven enligt 22 d §.
+2\. åtgärdsprogrammet uppfyller kraven enligt 22 d §.
 Den senare tidpunkten
-1. ska vara motiverad av åtgärdsprogrammet, och
-2. får inte sättas till senare än den 1 januari 2040.
+1\. ska vara motiverad av åtgärdsprogrammet, och
+2\. får inte sättas till senare än den 1 januari 2040.
 
 267
 
@@ -24900,12 +24900,12 @@ som skulle ha ersatts med en ny den 1 januari 2030.
 PM2,5), kvävedioxid, bensen eller bens(a)pyren som ska följas från och med den 1 januari 2030
 ska följas vid en senare tidpunkt för ett område som omfattas av ett åtgärdsprogram som
 fastställts senast den 31 december 2028 om
-1. det inte är möjligt att följa miljökvalitetsnormen den 1 januari 2030 även med
+1\. det inte är möjligt att följa miljökvalitetsnormen den 1 januari 2030 även med
 beaktande av de åtgärder som anges i åtgärdsprogrammet, och
-2. åtgärdsprogrammet uppfyller kraven enligt 22 d §.
+2\. åtgärdsprogrammet uppfyller kraven enligt 22 d §.
 Den senare tidpunkten
-1. ska vara motiverad av åtgärdsprogrammet, och
-2. får inte sättas till senare än den 1 januari 2035.
+1\. ska vara motiverad av åtgärdsprogrammet, och
+2\. får inte sättas till senare än den 1 januari 2035.
 
 Beslutet träder i kraft nio månader efter att Europeiska kommissionen underrättats om det av
 Naturvårdsverket enligt artikel 18.4 luftkvalitetsdirektivet, om inte Europeiska kommissionen
@@ -24915,16 +24915,16 @@ som skulle ha ersatts med en ny den 1 januari 2030.
 
 22 c § Naturvårdsverket får besluta om en senare tidpunkt än vad som följer av ett beslut enligt
 22 b § om
-1. det inte är möjligt att följa miljökvalitetsnormen vid den tidpunkten som beslutats enligt
+1\. det inte är möjligt att följa miljökvalitetsnormen vid den tidpunkten som beslutats enligt
 22 b §
 a. trots att åtgärderna enligt åtgärdsprogrammet har genomförts, eller
 b. det är visat att åtgärderna enligt åtgärdsprogrammet inte leder till att
 miljökvalitetsnormen följs vid den tidpunkten,
-2. åtgärdsprogrammet är omprövat, och
-3. det omprövade åtgärdsprogrammet uppfyller kraven enligt 22 d §.
+2\. åtgärdsprogrammet är omprövat, och
+3\. det omprövade åtgärdsprogrammet uppfyller kraven enligt 22 d §.
 Den senare tidpunkten
-1. ska vara motiverad av det omprövade åtgärdsprogrammet, och
-2. får inte sättas till senare än två år efter den tidpunkt som beslutats enligt 22 b §.
+1\. ska vara motiverad av det omprövade åtgärdsprogrammet, och
+2\. får inte sättas till senare än två år efter den tidpunkt som beslutats enligt 22 b §.
 Beslutet träder i kraft nio månader efter att Europeiska kommissionen underrättats om det av
 Naturvårdsverket enligt artikel 18.4 luftkvalitetsdirektivet, om inte kommissionen inom denna
 tid framför invändningar mot det.
@@ -24935,11 +24935,11 @@ som skulle ha ersatts med en ny den 1 januari 2030.
 22 d § Naturvårdsverket får besluta om en senare tidpunkt enligt 22 a, 22 b eller 22 c § endast
 om åtgärdsprogrammet är förenligt med 5 kap. 7 och 9 §§ miljöbalken och övriga bestämmelser
 i denna förordning samt
-1. kompletteras med information om åtgärder för att minska luftföroreningar som anges i
+1\. kompletteras med information om åtgärder för att minska luftföroreningar som anges i
 bilaga VIII del B till luftkvalitetsdirektivet,
-2. visar hur perioderna när miljökvalitetsnormen inte följs kommer att hållas så korta som
+2\. visar hur perioderna när miljökvalitetsnormen inte följs kommer att hållas så korta som
 möjligt,
-3. bygger på luftkvalitetsprognoser, innefattande sådana som utarbetats med anledning av
+3\. bygger på luftkvalitetsprognoser, innefattande sådana som utarbetats med anledning av
 bilaga VIII del A.5 och A.7 e till luftkvalitetsdirektivet, som visar hur
 
 268
@@ -24950,24 +24950,24 @@ NATURVÅRDSVERKET
 
 miljökvalitetsnormen kommer att följas så snart som möjligt och senast vid utgången
 av den förlängda tidsfristen, med beaktande av rimliga och proportionella åtgärder,
-4. anger hur allmänheten, i synnerhet känsliga och utsatta grupper, kommer att informeras
+4\. anger hur allmänheten, i synnerhet känsliga och utsatta grupper, kommer att informeras
 på ett enhetligt och lättförståeligt sätt om förlängningens konsekvenser för människors
 hälsa och miljön, och
-5. anger hur ytterligare finansiering kommer att mobiliseras för att påskynda
+5\. anger hur ytterligare finansiering kommer att mobiliseras för att påskynda
 förbättringen av luftkvaliteten i det område som omfattas av åtgärdsprogrammet.
 22 e § Om naturvårdsverket beslutat om en senare tidpunkt enligt 22 a, 22 b eller 22 c § ska den
 myndighet eller kommun som upprättat förslaget till åtgärdsprogram till Naturvårdsverket
-1. i en genomföranderapport redovisa hur åtgärderna i åtgärdsprogrammet genomförs
+1\. i en genomföranderapport redovisa hur åtgärderna i åtgärdsprogrammet genomförs
 senast den 1 januari 2031 och därefter var 30 månad, och
-2. från och med den 1 januari 2035 i ett omprövat åtgärdsprogram redovisa beräkningar
+2\. från och med den 1 januari 2035 i ett omprövat åtgärdsprogram redovisa beräkningar
 som visar att koncentrationsnivåerna av den berörda föroreningen uppvisar en allmänt
 nedåtgående trend i överensstämmelse med en indikativ utvecklingsbana mot
 efterlevnad av miljökvalitetsnormerna.
 
 22 f § Naturvårdsverket får upphäva ett beslut enligt 22 a, 22 b eller 22 c § om
-1. åtgärderna i åtgärdsprogrammet inte genomförs,
-2. åtgärdsprogrammet inte omprövas enligt bestämmelser i denna förordning, eller
-3. koncentrationsnivåerna av den berörda föroreningen från och med den 1 januari 2035
+1\. åtgärderna i åtgärdsprogrammet inte genomförs,
+2\. åtgärdsprogrammet inte omprövas enligt bestämmelser i denna förordning, eller
+3\. koncentrationsnivåerna av den berörda föroreningen från och med den 1 januari 2035
 inte uppvisar en allmänt nedåtgående trend i överensstämmelse med en indikativ
 utvecklingsbana mot efterlevnad av miljökvalitetsnormerna.
 22 g § Naturvårdsverket ska tillgängliggöra beslut enligt 22 a, b eller c § om förlängd tidsfrist i
@@ -25596,7 +25596,7 @@ Yttrande över motion Pilotsatsning Forsbergen - för cirkulerande vatten och av
 Dnr KS -2025-00357
 
 Eksta vill härmed yttra sig med anledning av rubricerande motion med Dnr KS -2025-
-00357.
+00357\.
 Vattenfrågan är en allt viktigare fråga för Eksta inom flera områden och speciellt vid
 nyproduktion där frågan måste vara med i tidigt skede och i samverkan med berörda
 förvaltningar inom kommunen.
@@ -25644,17 +25644,17 @@ hot om kris och krig från omvärlden. Detta menar motionärerna kräver en bere
 med en hållbar lokal samhällsplanering.
 Mot bakgrund av detta vill motionerna att kommunen ska:
 
--  Uppmuntra enskilda fastighetsägare och byggentreprenörer att installera
+\-  Uppmuntra enskilda fastighetsägare och byggentreprenörer att installera
 vattenbesparande utrustning
--  Erbjuda rådgivning och tips till de fastighetsägare som vill installera
+\-  Erbjuda rådgivning och tips till de fastighetsägare som vill installera
 vattenbesparande system och cirkulerande system för till exempel regnvatten
 och gråvatten
 
--  Uppmuntra innovativ teknik för att använda regnvatten och återcirkulerat
+\-  Uppmuntra innovativ teknik för att använda regnvatten och återcirkulerat
 gråvatten
 
--  Utreda hur källsortering av avloppsvatten kan testas i en pilotanläggning
--  Lämna uppdrag till Eksta Bostads AB att skissa ett pilotsystem med hållbar
+\-  Utreda hur källsortering av avloppsvatten kan testas i en pilotanläggning
+\-  Lämna uppdrag till Eksta Bostads AB att skissa ett pilotsystem med hållbar
 bostadsbebyggelse förslagsvis i Forsbergen.
 
 Beslutsunderlag
@@ -25904,20 +25904,20 @@ dricksvatten. Inspiration kan hämtas från Helsingborgs unika system ”två r�
 
 Vi föreslår därför:
 
-- att kommunen uppmuntrar enskilda fastighetsägare och byggentreprenörer att
+\- att kommunen uppmuntrar enskilda fastighetsägare och byggentreprenörer att
 installera vattenbesparande utrustning
 
-- att kommunen erbjuder rådgivning och tips till de fastighetsägare som vill
+\- att kommunen erbjuder rådgivning och tips till de fastighetsägare som vill
 installera vattenbesparande system och cirkulerande system för till exempel
 regnvatten och gråvatten
 
-- attkommunen uppmuntrar innovativ teknik för att använda regnvatten och
+\- attkommunen uppmuntrar innovativ teknik för att använda regnvatten och
 återcirkulerat gråvatten
 
-- att kommunen uppdrar åt Eksta bostadsbolag att skissa ett pilotsystem med
+\- att kommunen uppdrar åt Eksta bostadsbolag att skissa ett pilotsystem med
 hållbar bostadsbebyggelse förslagsvis i Forsbergen
 
-- att kommunen utreder hur källsortering av avloppsvatten kan testas i en
+\- att kommunen utreder hur källsortering av avloppsvatten kan testas i en
 pilotanläggning
 
 2025-04-25

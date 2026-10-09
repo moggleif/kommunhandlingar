@@ -15123,22 +15123,22 @@ AVTAL                                  10 (10)
 Dokumentdatum
 2025-11-04
 
-\____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i 2 likalydande exemplar varav parterna tagit var sitt.
 
-\_______________________        _____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_        \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum                  Ort och datum
 
-\_______________________         _____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Hanna Jonsson                  Lisa Andersson
 Enhetschef Infrastrukturplanering väg Kommunstyrelsens ordförande
 Trafikverket                   Kungsbacka kommun
 
-\_____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum
 
-\_____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Rikard Vidlund
 Kommundirektör
@@ -17139,7 +17139,7 @@ Ordförklaringar
 2 § Termer och uttryck i dessa föreskrifter har samma betydelse som i
 cybersäkerhetslagen.
 
-\___________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1 Europaparlamentets och rådets direktiv (EU) 2022/2555 av den 14 december 2022 om åtgärder för en hög
 gemensam cybersäkerhetsnivå i hela unionen, om ändring av förordning (EU) nr 910/2014 och direktiv
 (EU) 2018/1972 och om upphävande av direktiv (EU) 2016/1148.
@@ -17674,7 +17674,7 @@ incident uppstår behöver verksamhetsutövaren inte informera enligt punkt 1.
 MSBFS
 [Fyll i nr]
 
-\__ ____________
+\_\_ \_\_\_\_\_\_\_\_\_\_\_\_
 
 1\. Dessa föreskrifter träder i kraft [Klicka och skriv tidsangivelse].
 
@@ -17741,7 +17741,7 @@ Ordförklaring
 3 § Termer och uttryck i dessa föreskrifter och allmänna råd har samma
 betydelse som i lagen (2025:XXX) om cybersäkerhet.
 
-\___________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1 Europaparlamentets och rådets direktiv (EU) 2022/2555 av den 14 december 2022 om åtgärder för en hög
 gemensam cybersäkerhetsnivå i hela unionen, om ändring av förordning (EU) nr 910/2014 och direktiv
 (EU) 2018/1972 och om upphävande av direktiv (EU) 2016/1148 (NIS2-direktivet).
@@ -19032,7 +19032,7 @@ Myndigheten för samhällsskydd och beredskap får i enskilda fall och om
 det finns särskilda skäl medge undantag från tillämpningen av dessa
 föreskrifter.
 
-\______________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\. Dessa föreskrifter och allmänna råd träder i kraft
 [Klicka och skriv tidsangivelse].

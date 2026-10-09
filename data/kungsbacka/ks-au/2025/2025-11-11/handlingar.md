@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 Ärende               Beteckning  Förslag
 
-3.  Lönestruktur 2026    KS-2025-00715 Förslag till beslut i kommunstyrelsen
+3\.  Lönestruktur 2026    KS-2025-00715 Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen fastställer lönestrukturen för
 2026 enligt nedan:
 
@@ -335,12 +335,12 @@ Kungsbacka kommun
 
 Budget Budget Plan Plan
 Koncernens investeringsplan, mkr 2025 2026 2027 2028
-Kommunbudget 2026, KF 2025-06-16, $114 1291 1472 2377 2264
+Kommunbudget 2026, KF 2025-06-16, \$114 1291 1472 2377 2264
 Eksta Bostads AB 200 200 350 300
 Summa investeringar årligen 1491 1672 2727 2564
 Summa investeringar perioden 8454
 Koncernens nyupplåningsbehov, mkr
-Kommunbudget 2026, KF 2025-06-16, $114 200 350 1200 900
+Kommunbudget 2026, KF 2025-06-16, \$114 200 350 1200 900
 Eksta Bostads AB 0 0 100 100
 Summa lånebehov årligen 200 350 1300 1000
 Summa lånebehov perioden 2 850
@@ -537,7 +537,7 @@ Datum
 2025-06-16
 
 Christer Perfjell (KB) yrkar bifall till Kungsbackabornas förslag till kommunbudget
-2026.
+2026\.
 
 Beslutsgång
 
@@ -685,13 +685,13 @@ som kommunfullmäktige godkänner:
 −  Ja-röst innebär att bifalla kommunstyrelsens förslag till kommunbudget 2026.
 
 −  Nej-röst innebär att bifalla Socialdemokraternas förslag till kommunbudget
-2026.
+2026\.
 
 Omröstningsresultat
 
 Ordföranden finner att kommunfullmäktige, med 34 ja-röster mot 14 nej-röster och
 13 som avstår, beslutar att bifalla kommunstyrelsens förslag till kommunbudget
-2026.
+2026\.
 
 Ledamöter        Röst
 1   Lisa Andersson (M) Ja
@@ -1145,7 +1145,7 @@ Borgensåtagande, 3 059 3 283 3 412 3 502 3 493 3 484 3 476 3 476 3 476 3 476 3 
 miljoner kronor
 Borgensåtagande, 36 702 38 900 40 174 41 049 40 710 40 676 40 517 40 333 40 331 40 302 40 246
 kronor per invånare
-* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
+\* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
 
 [Tabell 29-1](handlingar.tabeller/29-1.csv)
 
@@ -1696,14 +1696,14 @@ hormonstörande ämnen på SIN-listan ska minska i kommunens
 verksamheter. 2021 var antalet 124 (KEMgroup PRO)
 
 Avfall från hushåll ska minska med 3096 per invånare från 2020 till 103 92 od Minska
-2030. Startvärde 100, målvärde 2030 är 70.
+2030\. Startvärde 100, målvärde 2030 är 70.
 Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig - Öka
 Vattendrag med god ekologisk status, andel (Kolada) 18,5 & od + Öka
 Andelen återbrukade möbler - - Öka
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet — Flickor Åk 4: 8824 Åk 4: 8596 x Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 72946 Åk 8: 7996
 
-Åk 1 gy: 6596 <AÅk1 gy: 7396
+Åk 1 gy: 6596 \<AÅk1 gy: 7396
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet — Pojkar Åk 4: 9096 Åk 4: 9196 «+ Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 9396 Åk 8: 9296
 
@@ -1967,7 +1967,7 @@ genomsnitt över en femårsperiod med senast
 fastställda bokslutsåret 2024 som första året
 under femårsperioden samt budgetåren 2025
 
-- 2028.
+\- 2028.
 
 Soliditet
 
@@ -2046,24 +2046,24 @@ och styrelser visar stor lojalitet mot Kungsbacka kommuns korrekt och säkert s�
 beslut och intentioner.           en sammantagen process som vi kan beskriva med fyra
 byggstenar:
 Ekonomiskt ansvar
-1. En robust organisation
+1\. En robust organisation
 Kommunfullmäktige tilldelar nämnder och styrelser en
 nettoram för driften. Inom ramen ska nämnderna ta ett Omfattar exempelvis organisationsstruktur, reglementen,
 självständigt ansvar för sin ekonomi. Nämnderna måste rutiner, verksamhetssystem, kvalitetskontroller, avtal,
 själva upprätta rutiner för budgetuppföljning och intern information, kommunikation och kultur.
 kontroll. Vid befarat underskott ska förvaltningschefen
-2. Riskanalyser som riktar arbetet
+2\. Riskanalyser som riktar arbetet
 utarbeta förslag till åtgärder och presentera dessa för
 nämnden. Nämnden är skyldig att fatta beslut om åtgärder Ett reflekterande och framåtsyftande förhållningssätt.
 för att inte överskrida ramen. Om nämnden trots detta Omvärldsanalys och faktainsamling inom och utom den
 inte anser sig klara sig inom tilldelad ram ska nämnden egna organisationen.
 omedelbart rapportera till kommunstyrelsen. Nämnden
-3. Planerade åtgärder och kontroller
+3\. Planerade åtgärder och kontroller
 är skyldig att göra uppföljning med så täta intervaller
 som krävs för att ha en god kontroll. Efter 30 april och 31 Utgår från riskanalysen och prioriterar och planerar
 augusti rapporterar nämnden sin uppföljning och prognos uppföljande kontroller.
 till kommunstyrelsen som i sin tur gör en uppföljning
-4. Uppföljning
+4\. Uppföljning
 och prognos för kommunen som helhet och redovisar till
 fullmäktige. Detsamma gäller årsbokslutet efter den 31 Vi följer upp och analyserar den interna kontrollen.
 december som vi redovisar till fullmäktige. Resultatet återkopplar man till ansvarig nämnd.
@@ -2074,7 +2074,7 @@ december som vi redovisar till fullmäktige. Resultatet återkopplar man till an
 EKONOMISTYRPRINCIPER
 
 Nämndernas ansvar
-1. Nämnden har inte utfört planerad verksamhet.
+1\. Nämnden har inte utfört planerad verksamhet.
 I Kungsbacka arbetar varje nämnd i en årlig process för Nämnden ska normalt återredovisa överskottet.
 internkontroll. Nämnderna har det yttersta ansvaret för
 den interna kontrollen inom sitt verksamhetsområde. 2. Man har överfört verksamhet till annan nämnd eller
@@ -2544,31 +2544,31 @@ Nettokostnadsavvikelse
 6,5
 48
 2,9
-= ||
-=
+\= ||
+\=
 
 0,0
 
 -21 2,4. 27
 
-- 2,6
+\- 2,6
 
-- 5,0
+\- 5,0
 
 Procent
 
-- 10,0
+\- 10,0
 
-- 15,0
+\- 15,0
 
-- 15,7
+\- 15,7
 
-- 20,0
+\- 20,0
 Förskola inkl. Fritidshem inkl Grundskola F-9 Gymnasieskola Individ & LSS Äldreomsorg
 öppen förskola öppen Familjeomsorg
 fritidsverksamhet
 
-H2022 $2023 M2024
+H2022 \$2023 M2024
 
 Diagram: Om stapeln är över nollstrecket är det en indikation på högt kostnadsläge på grund av hög ambitionsnivå och/
 eller låg effektivitet. På motsvarande sätt visar resultat under noll på lägre kostnadsläge på grund av lägre ambitions-
@@ -2657,11 +2657,11 @@ Summa skattefinansierad verksamhet 179 839 6342 66 000 -68 442 6193 876 6 385 01
 Finansförvaltning, inklusive pensioner 10 000 -6 800 75 541 88 906
 Semesterlöneskuld 6 000 6 000
 Oförutsett, OF 20 000 20 000
-- Varav KF-OF 10 000 10 000
+\- Varav KF-OF 10 000 10 000
 
-- Varav KS-OF 6 000 6 000
+\- Varav KS-OF 6 000 6 000
 
-- Varav KSAU-OF 4 000 4 000
+\- Varav KSAU-OF 4 000 4 000
 
 Kalkylerade kapitalkostnader -185 437 -215 117
 Nya lokalhyror och avskrivningar 14 572 103 153 113 000
@@ -3230,10 +3230,10 @@ kommunen.
 Handläggningen av lokalbehoven behöver ske enligt
 nedanstående principer:
 
-+ Vi ska omhänderta lokalbehoven enligt lokalförsörj-
+\+ Vi ska omhänderta lokalbehoven enligt lokalförsörj-
 ningsprocessens olika steg för effektiv hantering.
 
-+ Vi ska prioritera utifrån den så kallade Prioriterings-
+\+ Vi ska prioritera utifrån den så kallade Prioriterings-
 principen" i fallande ordning:
 
 « Lokalbehov som inte är lagstyrd verksamhet
@@ -3272,11 +3272,11 @@ INVESTERING OCH EXPLOATERING
 enligt den så kallade Fyrstegsmodellen. Modellen boenden tillhör kommunstyrelsen och kommunstyrelsen
 innebär att vi ska välja och överväga lokallösningar kan justera mellan olika lokalprojekt under året.
 enligt följande prioriteringsordning:
-1. Inte tillgodose behovet alls Behov som vi ska lösa genom investering enligt lokal-
-2. Leda om ”strömmar” av elever, boende till ledig planen får vi starta upp om de understiger 25 miljoner
+1\. Inte tillgodose behovet alls Behov som vi ska lösa genom investering enligt lokal-
+2\. Leda om ”strömmar” av elever, boende till ledig planen får vi starta upp om de understiger 25 miljoner
 kapacitet i befintliga lokaler kronor i investeringsbelopp. För behov som överstiger 25
-3. Bygga om eller till befintliga lokaler miljoner kronor eller är av särskild principiell karaktär ska
-4. Bygga nya lokaler            kommunstyrelsen besluta om igångsättning. Motsvarande
+3\. Bygga om eller till befintliga lokaler miljoner kronor eller är av särskild principiell karaktär ska
+4\. Bygga nya lokaler            kommunstyrelsen besluta om igångsättning. Motsvarande
 • Vi ska föreslå och välja lokallösningar utifrån att igångsättningsbeslut krävs för de behov som ska lösas
 ”Minska behovet av att bygga nytt genom att sam- genom inhyrning enligt lokalplanen där hyran motsvarar
 utnyttja och bygga mer flexibelt” vilket innebär att en investering av 25 miljoner kronor.
@@ -3785,7 +3785,7 @@ Lokaler & reinvesteringar
 
 Teknik, skattefinansierat
 
-*Varlavägen, delen Stora Bäcksleden­Arendalsleden (År 2026 5 000 tkr, År 2027 10 000 tkr, År 2028 10 000 tkr)
+\*Varlavägen, delen Stora Bäcksleden­Arendalsleden (År 2026 5 000 tkr, År 2027 10 000 tkr, År 2028 10 000 tkr)
 
 Avgiftsfinansierad verksamhet
 
@@ -3816,7 +3816,7 @@ Avgiftsfinansierad verksamhet
 |  |  |  |  | 2030 |
 | Löpande | 9 650 | 12 850 | 12 000 | 33 200 |
 | Reinvesteringar | 31 750 | 18 600 | 20 400 | 79 500 |
-| Övriga investeringar* | 40 100 | 55 050 | 54 100 | 40 300 |
+| Övriga investeringar\* | 40 100 | 55 050 | 54 100 | 40 300 |
 | Summa | 81 500 | 86 500 | 86 500 | 153 000 |
 
 [Tabell 80-4](handlingar.tabeller/80-4.csv)
@@ -3929,10 +3929,10 @@ detaljplanen i slutet av 2023 och projektet innehåller cirka Den andra etappen 
 och kommer att bygga tre kvarter med flerbostadshus, där
 Etapp 3
 byggstart för det första kvarteret är planerat till slutet av
-2025. Byggnationen av skolan är planerad att starta 2025 Sista och tredje etappen består av Tölö ängar 3 (del 2),
+2025\. Byggnationen av skolan är planerad att starta 2025 Sista och tredje etappen består av Tölö ängar 3 (del 2),
 och kvarteret med radhus kommer att markanvisas av Tölöängar syd (del 2), samt Hede station. Vi planerar att
 kommunen till annan exploatör i ett senare skede under starta detaljplanen för dessa områden under 2026 och
-2026. För närvarande pågår projektering av infrastruktu- framåt.
+2026\. För närvarande pågår projektering av infrastruktu- framåt.
 ren.
 
 62 Kommunbudget 2026 och plan 2027–2028
@@ -3993,7 +3993,7 @@ Miljödomstolen meddelade i januari 2024 att de upphäver
 detaljplanen. Kommunen har valt att göra om vissa delar
 och detaljplanen kommer att ställas ut på granskning igen.
 Vi beräknar att kunna anta detaljplanen på nytt under
-2025. Försäljning av verksamhetsmarken kommer sedan att
+2025\. Försäljning av verksamhetsmarken kommer sedan att
 pågå under ett antal år.
 Kommunbudget 2026 och plan 2027–2028 63
 
@@ -4001,7 +4001,7 @@ Kommunbudget 2026 och plan 2027–2028 63
 
 KOMMUNFULLMÄKTIGES BESLUT
 
-+
+\+
 
 U
 
@@ -4032,7 +4032,7 @@ Kungsbacka kommun
 0300-83 40 00
 infoQ kungsbacka.se
 
-|
+\|
 
 Kungsbacka kungsbacka.se
 
@@ -5413,7 +5413,7 @@ Sammanfattning av ärendet
 Samhällsbyggnadskontoret har upprättat föreslag till ny taxa för jakträtt. Taxan
 innebär omförhandling av redan tecknade jakträttsavtal samt tillämpning vid
 nytecknande. Gällande taxa för jakträttsavtal beslutades i kommunfullmäktige
-1996.
+1996\.
 
 Beslutsunderlag
 
@@ -5858,7 +5858,7 @@ transportsystemet, förordningen om länstransportplanen och regeringens direkti
 
 Pengaramen för Regional infrastrukturplan Halland 2026 - 2037 är preliminärt 2 120
 miljoner kronor inräknat en del av de medel som inte har förbrukats under åren 2022 -
-2025. Investeringar i infrastrukturen behövs för att fortsatt kunna utveckla Halland och
+2025\. Investeringar i infrastrukturen behövs för att fortsatt kunna utveckla Halland och
 hela Sydvästsverige. Behoven hanteras i både regional infrastrukturplan och nationell plan
 för transportinfrastrukturen.
 
@@ -6034,7 +6034,7 @@ Det övergripande styrdokumentet i Halland är Regional utvecklingsstrategi 2035
 med visionen Halland – bästa livsplatsen.
 
 Regional fysisk plan Halland 2050
-Regional fysisk plan Halland 2050* uttrycker att för att alla ska kunna vara delaktiga i
+Regional fysisk plan Halland 2050\* uttrycker att för att alla ska kunna vara delaktiga i
 samhällsutvecklingen och ingen ska lämnas utanför, krävs en robust och säker fysisk och
 
 digital infrastruktur. Detta möjliggör att människor kan använda samhällstjänster, driva
@@ -6065,7 +6065,7 @@ transportinfrastrukturen såsom målområde 2. En flerkärnig region med attrakt
 hållbara livsmiljöer och målområde 3 En robust och resilient region. Mer om dessa
 målområden finns att ta del av i Regional fysisk plan Halland 2050.
 
-*Regional fysisk plan går upp för beslut i regionfullmäktige i juni 2026
+\*Regional fysisk plan går upp för beslut i regionfullmäktige i juni 2026
 
 8
 
@@ -6232,7 +6232,7 @@ BEKÄMPA KLIMAT- HAV OCH MARINA EKOSYSTEM OCH FREDLIGA OCH GENOMFÖRANDE
 MÅNGFALD ST: PARTNERSKAP Fr ae
 
 a Dvd va NN
-- | i LAN
+\- | i LAN
 Fe n &- GLOBALA MÅLEN
 — för hållbar utveckling
 
@@ -7431,7 +7431,7 @@ Följande nationella järnvägsprojekt har samfinansiering från regional infras
 
 • Halmstad C bangårdsombyggnad, etapp 3, resecentrum
 
-• Ny uppställningsbangård vid Halmstad C *
+• Ny uppställningsbangård vid Halmstad C \*
 
 • Ny mötesstation i Knäred på Markarydsbanan
 
@@ -7439,7 +7439,7 @@ Följande nationella järnvägsprojekt har samfinansiering från regional infras
 
 • Ofördelade medel järnväg
 
-* åtgärden är inspelad till nationell plan 2026 - 37
+\* åtgärden är inspelad till nationell plan 2026 - 37
 
 38
 
@@ -7824,20 +7824,20 @@ Bedömning av miljöpåverkan
 En samlad bedömning av planförslagets betydande miljöpåverkan redovisas i nedanstående
 tabell. Den samlade bedömningen blir:
 
-> Klimat:
+\> Klimat:
 Planen stärker ett transporteffektivt samhälle genom ökad kapacitet för järnväg och
 satsningar på gång-, cykel- och kollektivtrafik. Vägutbyggnader ger dock ökad biltrafik
 och utsläpp. Byggskedet medför alltid ökade utsläpp.
 
-> Hälsa:
+\> Hälsa:
 
 Stora vinster för buller, luftkvalitet och trafiksäkerhet tack vare bullerskydd, hastig-
 hetssänkningar och överflyttning från bil till hållbara färdmedel. Satsningarna kan
 främja fysisk aktivitet genom bättre cykel- och gånginfrastruktur.
 
-> Landskap och naturresurser:
+\> Landskap och naturresurser:
 Generellt små skillnader mot nollalternativet, men vissa vägprojekt (till exempel väg
-940) innebär intrång i värdefulla natur- och kulturmiljöer.
+940\) innebär intrång i värdefulla natur- och kulturmiljöer.
 
 Fokusområde Bedömning
 
@@ -7852,7 +7852,7 @@ Bedömning av sociala konsekvenser
 En samlad bedömning av planförslagets sociala konsekvenser redovisas i nedanstående ta-
 bell. Den samlade bedömningen blir:
 
-> Sammanhållen region:
+\> Sammanhållen region:
 Förbättrad tillgänglighet i Västkuststråket och öst-västliga kopplingar, särskilt genom
 järnvägssatsningar.
 
@@ -7865,13 +7865,13 @@ tel 010-456 56 00 - info(Ötrivector.se
 
 Trivector
 
-> Tillgänglighet:
+\> Tillgänglighet:
 Större satsningar på cykel, kollektivtrafik och trafiksäkerhet förbättrar tillgängligheten
 för barn, äldre, personer med funktionsnedsättning och bidrar till jämställdhet. Möjlig-
 heter att nå socioekonomiskt svagare områden finns men kräver medvetna priorite-
 ringar.
 
-> Hälsofrämjande:
+\> Hälsofrämjande:
 Ökad fysisk aktivitet genom förbättrade förutsättningar för gång, cykel och kollektiv-
 trafik. Viktigt att prioritera områden med höga ohälsotal.
 
@@ -7907,43 +7907,43 @@ Trivector                                                     6:79
 Innehållsförteckning
 
 Sammanfattning............................................................................. 3
-1.  Inledning ............................................................................... 8
+1\.  Inledning ............................................................................... 8
 1.1. Länsplan för regional infrastrukturplanering .................................................... 8
 
 1.2. Strategisk miljöbedömning och miljökonsekvensbeskrivning ......................... 8
 1.3. Strategisk bedömning av sociala aspekter ........................................................ 9
 
 1.4. Tidplan .............................................................................................................. 9
-2.  Styrande nationella och regionala mål ...................................... 10
-3.  Metod för hållbarhetsbedömningen ......................................... 16
+2\.  Styrande nationella och regionala mål ...................................... 10
+3\.  Metod för hållbarhetsbedömningen ......................................... 16
 
 3.1. Den strategiska miljöbedömningens allmänna inriktning .............................. 16
 3.2. Avgränsning av miljökonsekvensbeskrivningen ............................................ 16
 
 3.3. Social konsekvensbedömning i regional planering ........................................ 17
-4.  Nulägesbeskrivning befolkning och resande ............................. 19
+4\.  Nulägesbeskrivning befolkning och resande ............................. 19
 4.1. Befolkningsutveckling .................................................................................... 19
 
 4.2. Resandeutveckling .......................................................................................... 19
-5.  Nulägesbeskrivning miljö ...................................................... 21
+5\.  Nulägesbeskrivning miljö ...................................................... 21
 
 5.1. Klimat ............................................................................................................. 21
 5.2. Hälsa ............................................................................................................... 22
 
 5.3. Landskap och naturresurser ............................................................................ 23
-6.  Nulägesbeskrivning social hållbarhet ...................................... 25
+6\.  Nulägesbeskrivning social hållbarhet ...................................... 25
 6.1. Social hållbarhet i transportsystemet .............................................................. 25
 
 6.2. Sociala knäckfrågor ........................................................................................ 31
 
 6.3. Sociala nycklar ............................................................................................... 33
-7.  Bedömningsgrunder .............................................................. 35
+7\.  Bedömningsgrunder .............................................................. 35
 7.1. Miljöaspekter .................................................................................................. 35
 
 7.2. Sociala aspekter .............................................................................................. 36
 7.3. Analysmetoder ................................................................................................ 37
 
-8.  Studerade och bedömda alternativ ........................................... 41
+8\.  Studerade och bedömda alternativ ........................................... 41
 8.1. Nollalternativ .................................................................................................. 41
 
 8.2. Förutsättningar för planrevidering och studerade alternativ ........................... 42
@@ -7955,7 +7955,7 @@ Trivector                                                     7:79
 
 8.4. Bedömt planförslag (remissversion) ............................................................... 43
 
-9.  Bedömning av åtgärder och potter............................................ 46
+9\.  Bedömning av åtgärder och potter............................................ 46
 9.1. Samfinansiering av järnvägsinvesteringar på Västkustbanan ......................... 46
 
 9.2. Samfinansiering av järnvägsåtgärder på övriga järnvägar .............................. 48
@@ -7964,7 +7964,7 @@ Trivector                                                     7:79
 9.4. Mindre investeringar i det regionala transportsystemet .................................. 53
 9.5. Statlig medfinansiering till kommunalt vägnät ............................................... 56
 
-10. Bedömning av konsekvenser av remissversionen av planen ......... 58
+10\. Bedömning av konsekvenser av remissversionen av planen ......... 58
 10.1. Betydande miljöpåverkan jämfört med nollalternativet ................................. 58
 10.2. Beskrivning av åtgärder som planeras för att förebygga, hindra eller motverka
 
@@ -7982,7 +7982,7 @@ Bilaga 3: Remissammanställning av avgränsningssamråd .................. 78
 
 Trivector                                                     8:79
 
-1.  Inledning
+1\.  Inledning
 
 Region Halland ansvarar för att ta fram en ny regional plan för transportinfra-
 struktur som gäller för Halland under perioden 2026–2037. En strategisk miljö-
@@ -8005,7 +8005,7 @@ ell plan. Vad som kan ingå i en länsplan styrs av Förordning (1997:263, ändr
 SFS 2024:533) om länsplaner för regional transportinfrastruktur.1 De långsiktiga planerna
 gäller för 12 år, men de revideras vart fjärde år. Den nya planen gäller för perioden år 2026–
 
-2037. Regionerna i Sverige ansvarar för att ta fram länsplanerna. I Halland är det Region
+2037\. Regionerna i Sverige ansvarar för att ta fram länsplanerna. I Halland är det Region
 Halland som är länsplaneupprättare. Investeringarna i länsplanen för Halland är på 2 120
 miljoner.
 
@@ -8074,7 +8074,7 @@ ning bör följas åt.
 
 Trivector                                                    10:79
 
-2.  Styrande   nationella  och  regionala   mål
+2\.  Styrande   nationella  och  regionala   mål
 
 I detta avsnitt beskrivs styrande nationella och regionala mål samlat, eftersom de i många
 fall är gemensamma för MKB och SKB. De mål som är styrande specifikt för den strategiska
@@ -8127,7 +8127,7 @@ innehåller också två etappmål:
 utsläppshandelssystem – ska minska med minst 70 % senast 2030 jämfört med 2010.
   Antalet omkomna till följd av trafikolyckor inom vägtrafiken, sjöfarten respektive luft-
 farten ska halveras till år 2030. Antalet omkomna inom bantrafiken ska halveras till år
-2030. Antalet allvarligt skadade inom respektive trafikslag ska till år 2030 minska med
+2030\. Antalet allvarligt skadade inom respektive trafikslag ska till år 2030 minska med
 minst 25 %.4 
 
 Det finns preciseringar av såväl funktionsmålet som hänsynsmålet. Trafikanalys har på upp-
@@ -8190,11 +8190,11 @@ Jämställdhetspolitiska målen
 Det övergripande målet för jämställdhetspolitiken är att kvinnor och män ska ha samma
 makt att forma samhället och sitt eget liv. Till det övergripande målet hör sex delmål:8
 
-1. En jämn fördelning av makt och inflytande: Kvinnor och män ska ha samma
+1\. En jämn fördelning av makt och inflytande: Kvinnor och män ska ha samma
 rätt och möjlighet att vara aktiva medborgare och att forma villkoren för besluts-
 fattandet.
 
-2. Ekonomisk jämställdhet: Kvinnor och män ska ha samma möjligheter och vill-
+2\. Ekonomisk jämställdhet: Kvinnor och män ska ha samma möjligheter och vill-
 kor i fråga om betalt arbete som ger ekonomisk självständighet livet ut.
 
 6 Proposition. 2004/05:150 svenska miljömål – ett gemensamt uppdrag.
@@ -8206,16 +8206,16 @@ lar/2017/01/mer-om-jamstalldhetspolitikens-mal/
 
 Trivector                                                    13:79
 
-3. Jämställd utbildning: Kvinnor och män, flickor och pojkar ska ha samma möjlig-
+3\. Jämställd utbildning: Kvinnor och män, flickor och pojkar ska ha samma möjlig-
 heter och villkor när det gäller utbildning, studieval och personlig utveckling.
 
-4. Jämn fördelning av det obetalda hem- och omsorgsarbetet: Kvinnor och män
+4\. Jämn fördelning av det obetalda hem- och omsorgsarbetet: Kvinnor och män
 ska ta samma ansvar för hemarbetet och ha möjligheter att ge och få omsorg på
 lika villkor.
 
-5. Jämställd hälsa: Kvinnor och män, flickor och pojkar ska ha samma förutsätt-
+5\. Jämställd hälsa: Kvinnor och män, flickor och pojkar ska ha samma förutsätt-
 ningar för en god hälsa samt erbjudas vård och omsorg på lika villkor.
-6. Mäns våld mot kvinnor ska upphöra: Kvinnor och män, flickor och pojkar, ska
+6\. Mäns våld mot kvinnor ska upphöra: Kvinnor och män, flickor och pojkar, ska
 
 ha samma rätt och möjlighet till kroppslig integritet.
 Funktionshinderpolitiska mål
@@ -8320,7 +8320,7 @@ land
 
 Trivector                                                    16:79
 
-3.  Metod   för hållbarhetsbedömningen
+3\.  Metod   för hållbarhetsbedömningen
 
 3.1. Den strategiska miljöbedömningens allmänna inriktning
 
@@ -8381,21 +8381,21 @@ White Arkitekter.13 Modellen är anpassad för regional transportplanering men b
 vedertagna tillvägagångssätt som används i SKB för planer och projekt inom den kommu-
 nala planeringen. Enligt modellen genomförs SKB i följande sex steg:
 
-1. Behovsbedömning – sätt ramarna för SKB, omfattning, ansvarsfördelning och
+1\. Behovsbedömning – sätt ramarna för SKB, omfattning, ansvarsfördelning och
 bakgrund.
 
-2. Nulägesbeskrivning – beskriv förutsättningar och villkor för grupper, områden
+2\. Nulägesbeskrivning – beskriv förutsättningar och villkor för grupper, områden
 och platser som är centrala utifrån länsplanen.
-3. Sociala knäckfrågor – de sociala utmaningar som regionen har och som kan på-
+3\. Sociala knäckfrågor – de sociala utmaningar som regionen har och som kan på-
 verkas genom länsplanen tas och fram baseras på nulägesbeskrivningen.
 
-4. Sociala nycklar – de sociala mål som länsplanen behöver fokusera på för att han-
+4\. Sociala nycklar – de sociala mål som länsplanen behöver fokusera på för att han-
 tera de sociala knäckfrågorna.
 
-5. Konsekvensbedömning - utifrån om länsplanen bidrar/stärker, motverkar/hindrar
+5\. Konsekvensbedömning - utifrån om länsplanen bidrar/stärker, motverkar/hindrar
 eller inte påverkas alls, när det gäller att nå de sociala nycklarna.
 
-6. Kompletteringar – görs vid behov.
+6\. Kompletteringar – görs vid behov.
 Nulägesbeskrivning, sociala knäckfrågor och sociala nycklar redovisas i kapitel 6. Konse-
 kvensbedömning inklusive bedömning av måluppfyllelse redovisas i kapitel 9 och 10.
 
@@ -8428,7 +8428,7 @@ snarare handlar om processen än de faktiska åtgärderna.
 
 Trivector                                                    19:79
 
-4.  Nulägesbeskrivning      befolkning   och  resande
+4\.  Nulägesbeskrivning      befolkning   och  resande
 
 4.1. Befolkningsutveckling
 
@@ -8504,7 +8504,7 @@ load/18.4fc11b9818df2a1be154a3e/1709833709972/Regionalt-Trafikforsorjningsprogra
 
 Trivector                                                    21:79
 
-5.  Nulägesbeskrivning      miljö
+5\.  Nulägesbeskrivning      miljö
 
 Enligt miljöbalken 6 kap. 11 § ska en miljökonsekvensbeskrivning, i detta fall en hållbar-
 hetskonsekvensbeskrivning, innehålla en beskrivning av miljöförhållandena i de områden
@@ -8675,7 +8675,7 @@ landskapet.
 
 Trivector                                                    25:79
 
-6.  Nulägesbeskrivning      social  hållbarhet
+6\.  Nulägesbeskrivning      social  hållbarhet
 
 I föreliggande avsnitt presenteras en sammanställning av hur transportsystemet, enligt forsk-
 ning och tidigare studier, påverkar olika grupper. I avsnittet presenteras parallellt den sociala
@@ -8711,7 +8711,7 @@ frågor för äldres mobilitet.27
 
 26 Se bl a Niska m.fl (2017) Cykling bland barn och unga: en kunskapssammanställning. VTI Rapport: 958
 Lindqvist, A-K., & Rutberg S. Cykelväg till skolan kan vara vägen till framgång. Skolledaren, 2019, no
-3. https://www.skolledarna.se/Skolledaren/Artikelarkiv/2019/cykelvag-till-skolan-kan-vara-vagen-
+3\. https://www.skolledarna.se/Skolledaren/Artikelarkiv/2019/cykelvag-till-skolan-kan-vara-vagen-
 till-framgang/ samt
 Savolainen, E., Lindqvist, A-K. Mikaelsson, K., Nyberg, L., & Rutberg, S., (2024) Promoting Children´s
 Active School Transportation – An international scoping review of psychosocial factors. Syst
@@ -8766,7 +8766,7 @@ transport system in Sweden? Transp. Res. D 8, 75–95. https://doi.org/10.1016/
 S1361-9209(02)00034-2.
 31 Rosqvist, L. S., Hiselius, L. W., & Kronsell, A. (2024). The potential in moving mobility planning to-
 wards a feminine mobility concept. Transportation Research Interdisciplinary Perspectives, 26,
-101168.
+101168\.
 32 Berg, J., mfl. (2019) Hur kan kollektivtrafiken bidra till tillgänglighet och social rättvisa? En studie av
 mobilitetsstrategier i socialt utsatta områden. K2 Outreach 2019:2
 33 Segregationsbarometern (2023) Hallands län https://segregationsbarometern.boverket.se/lan/hal-
@@ -8789,7 +8789,7 @@ Områdestyp 3 - Socioekonomiskt blandade områden
 Områdestyp 4 - Områden med goda socioekonomiska förutsättningar
 
 Områdestyp 5 - Områden med mycket goda socioekonomiska förutsättningar
---
+\--
 
 Figur 6-1 Områdestyper (RegSO) i Hallands län och deras socioekonomiska förutsättningar. Källa Bover-
 
@@ -9061,7 +9061,7 @@ kollektivtrafik (hälsofrämjande).
 
 Trivector                                                    35:79
 
-7.  Bedömningsgrunder
+7\.  Bedömningsgrunder
 
 Med utgångspunkt i nulägesbeskrivning, avgränsningssamråd samt sociala knäckfrågor och
 nycklar har ett antal hållbarhetsaspekter tagits fram. Dessa ligger till grund för bedömning
@@ -9080,12 +9080,12 @@ miljöaspekter har remitterats i ett avgränsnings-samråd och beskrivs närmre 
 6 kap. 2 § miljöbalken: Med miljöeffekter avses i detta kapitel direkta eller indirekta effek-
 ter som är positiva eller negativa, som är tillfälliga eller bestående, som är kumulativa eller
 inte kumulativa och som uppstår på kort, medellång eller lång sikt på
-1. befolkning och människors hälsa,
-2. djur- eller växtarter som är skyddade enligt 8 kap., och biologisk mångfald i övrigt,
-3. mark, jord, vatten, luft, klimat, landskap, bebyggelse och kulturmiljö,
-4. hushållningen med mark, vatten och den fysiska miljön i övrigt,
-5. annan hushållning med material, råvaror och energi, eller
-6. andra delar av miljön. Lag (2017:955)
+1\. befolkning och människors hälsa,
+2\. djur- eller växtarter som är skyddade enligt 8 kap., och biologisk mångfald i övrigt,
+3\. mark, jord, vatten, luft, klimat, landskap, bebyggelse och kulturmiljö,
+4\. hushållningen med mark, vatten och den fysiska miljön i övrigt,
+5\. annan hushållning med material, råvaror och energi, eller
+6\. andra delar av miljön. Lag (2017:955)
 Figur 7-1. Miljöeffekter - utdrag från 6 kap 2 § miljöbalken.
 För länsplanen bedöms de miljömässiga hållbarhetsaspekterna utifrån tre fokusområden
 som presenteras i. Fokusområden och hållbarhetsaspekter är framtagna för att gå i linje
@@ -9306,7 +9306,7 @@ nomisk svagare områden
 
 Trivector                                                    41:79
 
-8.  Studerade   och  bedömda    alternativ
+8\.  Studerade   och  bedömda    alternativ
 
 I detta avsnitt beskrivs de alternativ och åtgärder som ingår länsplanen och som har bedömts
 i miljökonsekvensbeskrivningen och den sociala konsekvensbeskrivningen. I miljöbalken (6
@@ -9437,10 +9437,10 @@ taget till kostnadsfördyringar.
 
 Trivector | 44:79
 
-> En betydligt större summa satsas på Mindre investeringar i det regionala transportsy-
+\> En betydligt större summa satsas på Mindre investeringar i det regionala transportsy-
 stemet, framför allt på åtgärdsområdena cykel- och smärreåtgärder.
 
-> En större summa satsas på Statlig medfinansiering till kommunalt vägnät. En extra
+\> En större summa satsas på Statlig medfinansiering till kommunalt vägnät. En extra
 satsning har tillkommit i form av Kollektivtrafikfrämjande åtgärder i tätort som inte
 ingick i den tidigare planen.
 
@@ -9472,9 +9472,9 @@ Kollektivtrafikåtgärder 88 63
 Väg 153 och väg 154 trimningsåtgärder 104 104
 
 Cykel- och smärreåtgärder
-- Varav cykel 290 141
+\- Varav cykel 290 141
 
-- Varav smärreåtgärder 368 173
+\- Varav smärreåtgärder 368 173
 
 <!-- sida 222 -->
 
@@ -9510,7 +9510,7 @@ Summa
 
 Trivector | 46:79
 
-9. Bedömning av åtgärder och potter
+9\. Bedömning av åtgärder och potter
 
 I detta kapitel redovisas bedömd positiv respektive negativ miljöpåverkan för respektive åt-
 gärdskategori i den regionala planens remissversion.
@@ -9529,17 +9529,17 @@ lande till kriterierna) i relation till satsade medel.
 9.1. Samfinansiering av järnvägsinvesteringar på Västkustbanan
 Åtgärdskategorin ”Större järnvägsinvesteringar” innefattar följande åtgärder:
 
-> Halmstad uppställningsbangård — ökad kapacitet för uppställning av personer för trafi-
+\> Halmstad uppställningsbangård — ökad kapacitet för uppställning av personer för trafi-
 kering med Öresundståg, Pågatåg och Krösatåg.
 
-> Ombyggnad Halmstad C - ökad kapacitet genom att flytta isär spår, bygga plattformar
+\> Ombyggnad Halmstad C - ökad kapacitet genom att flytta isär spår, bygga plattformar
 mm.
 
-> Lekarekulle — förbigångsspår på Västkustbanan för ökad kapacitet för godstrafiken.
+\> Lekarekulle — förbigångsspår på Västkustbanan för ökad kapacitet för godstrafiken.
 
 Hälsa
 
-+ -
+\+ -
 
 Samtliga åtgärder inom åtgärdskategorin bedöms
 bidra positiv till minskade utsläpp av luftförore-
@@ -9580,10 +9580,10 @@ Hälsofrämjande
 Åtgärdskategorin ”Samfinansiering av mindre järnvägsåtgärder” innefattar följande åtgär-
 der:
 
-> Markarydsbanan - Mötesspår för en attraktiv och pålitlig regionaltågstrafik.
+\> Markarydsbanan - Mötesspår för en attraktiv och pålitlig regionaltågstrafik.
 
-> Viskadalabanan — Uppgradering av plattformar
-> Ej fördelade medel till smärre åtgärder för persontrafik på järnväg
+\> Viskadalabanan — Uppgradering av plattformar
+\> Ej fördelade medel till smärre åtgärder för persontrafik på järnväg
 
 <!-- sida 226 -->
 
@@ -9591,7 +9591,7 @@ Trivector
 
 Hälsa
 
-+
+\+
 
 Markarydsbanan mötesspår bidrar positivt till
 aspekten buller genom att objektet omfattar fas-
@@ -9609,7 +9609,7 @@ ning till plankorsning samt stängsling.
 
 Klimat
 
-+
+\+
 
 Samtliga åtgärder inom åtgärdsområdet bedöms
 bidra till eller passa in i ett transporteffektivt
@@ -9619,7 +9619,7 @@ drar till överflyttning från biltrafik.
 
 Landskap och naturresurser
 
-+
+\+
 
 Åtgärderna ger ökad energianvändning i byggs-
 kedet och vid drift och underhåll.
@@ -9659,8 +9659,8 @@ Trivector
 
 Åtgärdskategorin ” Större investeringar i regionala vägstråk” innefattar följande åtgärder:
 
-> Väg 153 stigningsfält Svartenbacken och Yttre Hjärtared
-> Utbyggnad av väg 940, vilket innebär en cirka 7 kilometer ny väg utanför Onsala sam-
+\> Väg 153 stigningsfält Svartenbacken och Yttre Hjärtared
+\> Utbyggnad av väg 940, vilket innebär en cirka 7 kilometer ny väg utanför Onsala sam-
 hälle, från Rösan till Forsbäck.
 
 Hälsa
@@ -9690,11 +9690,11 @@ Hälsofrämjande
 Åtgärdskategorin ”Mindre investeringar i det regionala transportsystemet” omfattar följande
 åtgärder:
 
-> Kollektivtrafikåtgärder på regionalt vägnät
+\> Kollektivtrafikåtgärder på regionalt vägnät
 
-> Cykel- och smärreåtgärder på regionalt vägnät
+\> Cykel- och smärreåtgärder på regionalt vägnät
 
-> Näringslivets transporter på väg 153 och 154 — Trimningsåtgärder för ökad framkom-
+\> Näringslivets transporter på väg 153 och 154 — Trimningsåtgärder för ökad framkom-
 lighet för näringslivets transporter, kollektivtrafik och förbättrad trafiksäkerhet
 
 Hälsa
@@ -9705,7 +9705,7 @@ Trivector
 
 Klimat
 
-+ -
+\+ -
 
 Kollektivtrafikåtgärder och cykelåtgärder på reg- | Åtgärderna ger ökad energianvändning i byggs-
 ionalt vägnät bidrar till ökad relativ attraktivitet kedet och vid drift och underhåll.
@@ -9724,7 +9724,7 @@ porteffektivitet. Denna aspekt har varit svår att bedöma på grund av bristand
 
 Landskap och naturresurser
 
-+ -
+\+ -
 
 Gång- och cykelvägsåtgärder som innebär bredd-
 ning eller nybyggnad bidrar negativt vad gäller
@@ -9737,7 +9737,7 @@ seende aspekten vatten.
 
 Sammanhållen
 
-+ -
+\+ -
 
 Trimningsåtgärderna på väg 153 och 154 inne-
 håller förutom fokus på näringslivet transporter
@@ -9771,12 +9771,12 @@ Trivector
 der:
 
 Trafiksäkerhets- och miljöåtgärder
-> Kollektivtrafikåtgärder
-> Kollektivtrafikfrämjande åtgärder i tätort
+\> Kollektivtrafikåtgärder
+\> Kollektivtrafikfrämjande åtgärder i tätort
 
 Hälsa
 
-+
+\+
 
 Trafiksäkerhets- och miljöåtgärder omfattar bul-
 lerskyddsåtgärder och bidrar därmed positivt av-
@@ -9791,7 +9791,7 @@ kollektivtrafik i tätortsmiljöer.
 
 Klimat
 
-+
+\+
 
 Åtgärderna inom åtgärdskategorin omfattar åt-
 gärder med stor potential för ökad cykling och
@@ -9831,7 +9831,7 @@ Hälsofrämjande
 
 Trivector                                                    58:79
 
-10. Bedömning     av konsekvenser     av remissvers-
+10\. Bedömning     av konsekvenser     av remissvers-
 
 ionen  av  planen
 
@@ -10300,7 +10300,7 @@ har fastställts av riksdagen. Miljökvalitetsmålen beskriver det tillstånd i 
 miljön som miljöarbetet ska leda till. Målen ska nås inom en generation.
   Transportpolitiska mål. Sveriges transportpolitiska mål presenterades i propositionen
 Mål för framtidens resor och transporter (Prop. 2008/09:93) och antogs av Riksdagen
-2009. Transportpolitikens övergripande mål är att säkerställa en samhällsekonomiskt
+2009\. Transportpolitikens övergripande mål är att säkerställa en samhällsekonomiskt
 
 effektiv och långsiktigt hållbar transportförsörjning för medborgarna och näringslivet i
 hela landet. Därutöver finns ett funktionsmål och ett hänsynmål. I funktionsmålet ingår
@@ -10589,7 +10589,7 @@ stråk och landskapsrum vara i fokus.
 
 Länsstyrelsen vill upplysa om att den regionala energi-
 och klimatstrategin revideras nu och ska beslutas i juni
-2025. Den regionala strategins mål för transportsystemet
+2025\. Den regionala strategins mål för transportsystemet
 överensstämmer med de nationella målen som redovisas
 i det nu aktuella underlaget.
 
@@ -10736,12 +10736,12 @@ www kungsbacka.se
 
 <!-- sida 261 -->
 
-Från: Carlsson Josefine <josefine.carlssonQlansstyrelsen.se>
+Från: Carlsson Josefine \<josefine.carlssonQlansstyrelsen.se>
 
 Skickat: den 8 oktober 2025 11:40
 
 Till: kommunenQhylte.se; kansliQfalkenberg.se; ksQvarberg.se; Kommun
-<kommun(ÅMkungsbacka.se>; ksQhalmstad.se; kommunstyrelsenQlaholm.se
+\<kommun(ÅMkungsbacka.se>; ksQhalmstad.se; kommunstyrelsenQlaholm.se
 Ämne: Begäran om yttrande - Samråd om förslag till riksintresseanspråk för land- och
 havsbaserad vindkraft
 
@@ -10764,7 +10764,7 @@ Samrådshandlingar finns tillgängliga på Energimyndighetens hemsida: Samråd o
 riksintresseanspråk för land- och havsbaserad vindkraft
 
 Energimyndigheten kommer att hålla en öppen hearing om förslagen den 23 oktober klockan 13-
-14. Anmälan sker på sidan som finns länkad ovan.
+14\. Anmälan sker på sidan som finns länkad ovan.
 
 Eventuella synpunkter skickas till halland ÖQlansstyrelsen.se senast den 14 november 2025,
 märk skrivelsen
@@ -10806,7 +10806,7 @@ Förslag till beslut i kommunfullmäktige
 Kommunfullmäktige godkänner exploateringsavtal avseende detaljplan för sydöstra centrum, etapp 1,
 mellan kommunen och Balder 2015 AB, Verkmästaren 3 i Kungsbacka AB, Balder i Göteborg AB,
 Balder VM 10 i Kungsbacka AB och Balder Verkmästaren 11 AB, undertecknat av bolagen 2025-10-
-20.
+20\.
 Kommunstyrelsens ordförande och kommundirektören, eller deras respektive ersättare, utses att för
 kommunens räkning underteckna avtalen samt övriga nödvändiga handlingar för avtalens
 genomförande.
@@ -11073,7 +11073,7 @@ att allmänna anläggningar har slutbesiktigats och godkänts.
 
 Innan antagande av detaljplanen ska överenskommelse om fastighetsreglering
 upprättas avseende de delar av Exploatörens fastigheter Lantmästaren 1, Verkmästaren
-3. Verkmästaren 6, Verkmästaren 7, Verkmästaren 10, Verkmästaren 11 markerade
+3\. Verkmästaren 6, Verkmästaren 7, Verkmästaren 10, Verkmästaren 11 markerade
 med rött på karta, bilaga C som enligt Detaljplanen utgör allmän plats VÄG och
 GATA. Aktuella områden ska överföras till Kommunens fastighet Kungsbacka 4:6
 eller annan lämplig fastighet.
@@ -11297,7 +11297,7 @@ fastighet ska upprättas i samband med utbyggnad.
 
 9.3
 
-10.
+10\.
 10.1
 
 10.2
@@ -11485,14 +11485,14 @@ Sign.
 
 <!-- sida 275 -->
 
-11.
+11\.
 11.1
 
 112
 
-12.
+12\.
 
-13.
+13\.
 
 10(23)
 
@@ -11547,12 +11547,12 @@ punkt 23.
 
 <!-- sida 276 -->
 
-14.
+14\.
 
-15.
+15\.
 15.1
 
-16.
+16\.
 16.1
 
 16.2
@@ -11624,7 +11624,7 @@ Teknik.
 
 16.8
 
-17.
+17\.
 173
 
 [7:22
@@ -11695,7 +11695,7 @@ Sig
 
 17.6
 
-18.
+18\.
 
 18.1
 
@@ -11758,15 +11758,15 @@ e Norra parken
 
 <!-- sida 279 -->
 
-19.
+19\.
 
 19.1
 
 19.2
 
-20.
+20\.
 
-21.
+21\.
 
 21.1
 
@@ -11950,11 +11950,11 @@ enligt gällande kommunala taxor.
 
 23.5
 
-24.
+24\.
 
 25.1
 
-20.
+20\.
 
 26.1
 
@@ -11962,9 +11962,9 @@ ET
 
 255 8 I
 
-28.
+28\.
 28.1
-29.
+29\.
 
 29.1
 
@@ -12024,7 +12024,7 @@ annat avtal med ledningsägarna tecknas. Följande åtgärder är kända i dagsl
 
 29.3
 
-30.
+30\.
 
 30.1
 
@@ -12092,7 +12092,7 @@ fastighet och att Exploatören ansvarar för och bekostar åtgärden inom mark s
 21:2
 
 [SE
-=
+\=
 [Se
 
 19(23)
@@ -12153,7 +12153,7 @@ III.  Överskrider merkostnaderna 1 000 000 kr ska Parterna svara till lika dela
 
 31.6
 
-32.
+32\.
 
 321
 
@@ -12161,7 +12161,7 @@ III.  Överskrider merkostnaderna 1 000 000 kr ska Parterna svara till lika dela
 
 33,
 
-34.
+34\.
 
 34.1
 
@@ -12222,15 +12222,15 @@ utgöra en betryggande säkerhet för Exploatörens återstående skyldigheter.
 
 <!-- sida 286 -->
 
-35.
+35\.
 
-36.
+36\.
 
 36.1
 
 SK
 
-38.
+38\.
 
 38.1
 
@@ -12288,7 +12288,7 @@ projektering, ledningsflytt mm.
 
 22(23)
 
-39. Tvist
+39\. Tvist
 
 39.1 Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
 detta avtal ska avgöras av allmän domstol.
@@ -12306,7 +12306,7 @@ Balder Verkmästaren 11 AB
 Ort och datum
 ABTEhobo LOLS-10-20
 
--
+\-
 
 1sabet arkarmo
 
@@ -12514,7 +12514,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap 10 § PBL och nu kända
 förhållanden att ett antagande av en detaljplan enligt förslaget kan komma att prövas.
 
@@ -12656,7 +12656,7 @@ handlingarna med avvägningar gällande stadssilluett samt beskrivit hur befintl
 
 ska hanteras under genomförandet av detaljplanen.
 
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Delar av planen som måste förbättras
 
@@ -12726,7 +12726,7 @@ Lantmäteriet efterfrågar förtydligande gällande genomförandeavtalet.
 
 Kommentar: Planhandlingarna är kompletterade enligt Lantmäteriets önskemål.
 
-3. Statens geotekniska institut
+3\. Statens geotekniska institut
 
 SGI skriver i sitt yttrande att de ser att det kvarstår, från geoteknisk säkerhetssynvinkel, oklarheter som
 behöver förtydligas i det fortsatta planarbetet. SGI tar upp att det i norra delen av planområdet finns
@@ -12761,7 +12761,7 @@ Kommentar: Kommunen har kompletterat de geotekniska utredningarna enligt SGI:s
 synpunkter inför granskningen av planen samt infört planbestämmelser med
 belastningsrestriktioner samt krav på pålning där så krävs.
 
-4. Trafikverket
+4\. Trafikverket
 
 Transportsnål planering
 Trafikverket skriver i sitt yttrande att de ser positivt på att kommunen planerar för bostäder i centrala
@@ -12849,17 +12849,17 @@ planen är planområdet och spåret avskilt av Söderå.
 
 Sakägare
 
-5. Brf Söderå
+5\. Brf Söderå
 
 Styrelsen är positiv till den nya detaljplanen men vill tydliggöra att ökad boende/kontor och trafik i
 området kommer påverka vår BRF, vilket föranleder följande synpunkter och funderingar som måste
 tas i beaktande av kommunen:
 
-1. Fler bostäder och kontor kommer medföra fler medborgare i området, vilket resulterar i fler bilar
+1\. Fler bostäder och kontor kommer medföra fler medborgare i området, vilket resulterar i fler bilar
 och därmed trafik. Varbergsvägen är redan nu högt belastad och kommer troligtvis inte kunna hantera
 så mycket mer trafik. Hur kommer kommunen hantera den ökade trafiken?
 
-2. Bullernivåer är redan på höga nivåer speciellt på Varbergsvägen och dessa nivåer kommer troligtvis
+2\. Bullernivåer är redan på höga nivåer speciellt på Varbergsvägen och dessa nivåer kommer troligtvis
 öka kraftigt med ökad trafik. En buller-plan för både fordonstrafik samt tågtrafik måste tas fram som
 inte bara innefattar den nya detaljplanen men även de kringliggande områden (fastigheter norrut från
 tilltänkt stadsdel). Hur säkerställer kommunen att bullernivåer inte överskrider de nivåer som är
@@ -12870,7 +12870,7 @@ lagstadgade och reglerade?
 KUNGSBACKA  KOMMUN
 10 (19)
 
-3. Infrastruktur såsom väg, vatten och avlopp måste kraftigt uppdateras vilket kommer påverka
+3\. Infrastruktur såsom väg, vatten och avlopp måste kraftigt uppdateras vilket kommer påverka
 fastigheter i närområdet. Byggnation och trafik till tilltänkt stadsdel kommer medföra tunga fordon
 vilket kan riskera skada (sättningar i mark + fastigheter) vilket inte alltid täcks av försäkringsbolag, hur
 kommer denna typen av påverkan och extra kostnader hanteras av kommunen som vår BRF kan
@@ -12888,7 +12888,7 @@ utbyggnadstiden. De företag som utför åtgärder blir ansvariga för eventuell
 skador på grund av byggnationen på intilliggande fastigheter, Sådant regleras
 genom försäkringar och kan inte regleras genom detaljplanen.
 
-6. Scanova
+6\. Scanova
 
 Skanova har markförlagda teleanläggningar inom detaljplaneområdet.
 
@@ -12909,7 +12909,7 @@ hitta lösningar för placering av kabelstråk.
 KUNGSBACKA  KOMMUN
 11 (19)
 
-7. E.ON
+7\. E.ON
 
 Inom området har E.ON ett befintligt elnät som består av markförlagda låg- och
 mellanspänningskablar samt en transformatorstation KBN-030 Lantmannagatan 3 se bifogade
@@ -12936,7 +12936,7 @@ reparation och underhåll försvåras.
 
 Vår transformatorstation KBN-030 Lantmannagatan 3 noterar vi hamnat inom gatumark, vilket vi inte
 kan acceptera. Vi vill antingen att befintlig station säkras med E1-område (blå markering).
-Eller nytt E1-område inom röd markering se bilaga `förslag stationsplaceringar´.
+Eller nytt E1-område inom röd markering se bilaga \`förslag stationsplaceringar´.
 Vi kan konstatera att vi i planen behöver ytterligare 2st E1-områden för kommande stationer, se våra
 
 önskemål och förslag. Vi vill bygga fristående nätstationer för vår distribution, de ska ej byggas in i
@@ -12981,7 +12981,7 @@ Kommentar: Synpunkterna är beaktade inom ramen för arbetet med genomförandest
 lösningar för placering av kabelstråk samt transformatorstationer.
 
 Kommunala förvaltningar och nämnder
-8. Teknik
+8\. Teknik
 Nämnden för Teknik instämmer i planförslaget vad gäller blandad bebyggelse, parkeringshus i
 utkanterna av området, parker, stråk och möjlighet att bredda Varbergsvägen. Nämnden för teknik
 instämmer med BN:s förslag 27/3 2022 § 90 gällande korsningsutformning mellan Lantmannagatan
@@ -13003,7 +13003,7 @@ granskningshandlingen.
 KUNGSBACKA  KOMMUN
 13 (19)
 
-9. Vård och omsorg
+9\. Vård och omsorg
 
 Vård & Omsorg skriver i sitt yttrande att de vill betona att fastigheterna och kvarteret utformas på ett
 sådant sätt att de blir tillgängliga för alla oavsett ålder eller funktionsnedsättning.
@@ -13011,7 +13011,7 @@ sådant sätt att de blir tillgängliga för alla oavsett ålder eller funktions
 I övrigt så har Vård & Omsorg inga synpunkter på förslaget.
 Kommentar: Noteras
 
-10. Service
+10\. Service
 
 Service tar upp i sitt yttrande att det är viktigt att redan i planskedet ta i beaktning placeringen av
 respektive BMSS. Service anser att det inte är önskvärt att de tre planerade BMSS hamnar för nära
@@ -13027,7 +13027,7 @@ som enligt BBR kräver de höjderna.
 Kommentar: BmSS regleras inte i plankartan då de kan inrymmas under B, bostäder.
 Placering är inte fastslagen. Synpunkten noteras till kommande skede.
 
-11. Kultur och fritid
+11\. Kultur och fritid
 
 Kulturmiljö
 Kultur och fritid skriver att bebyggelsen som ska rivas enligt planförslaget inte är utpekat som
@@ -13085,7 +13085,7 @@ riskfyllda platser.
 Lekytor kommer finnas inom området i den norra parken men även i den bostadsnära parken
 samt på kvartersgatorna som ska fungera som förlängning av bostadsgårdarna.
 
-12. Miljö & Hälsoskydd
+12\. Miljö & Hälsoskydd
 Miljö och hälsa tar upp framtagen bullerutredning och att gällande riktvärden överskrids för ekvivalent
 
 ljudnivå vid fasad utmed Varbergsvägen, Hantverkargatan och Lantmannagatan. Enligt
@@ -13161,7 +13161,7 @@ Kommentar: Uppdaterad bullerutredning är framtagen. Vibrationsutredning är fra
 Planområdet har höjdsats i plankartan. Saneringskrav är infört som
 planbestämmelse.
 
-13. Individ & Familjeomsorg
+13\. Individ & Familjeomsorg
 
 Nämnden för Individ & Familjeomsorg tillstyrker framtagen Detaljplan för blandad stadsbebyggelse
 inom Sydöstra Centrum etapp 1 i Kungsbacka. Nämnden för Individ & Familjeomsorg vill samtidigt
@@ -13170,7 +13170,7 @@ Kommentar: Noteras
 
 Övriga
 
-14. Hallandstrafiken
+14\. Hallandstrafiken
 Hallandstrafiken skriver att de ser mycket positivt till utökning av tätorten längst prioriterade
 kollektivtrafikshuvudstråk. Med närhet till både hållplats med bra turtäthet och närhet till stationen
 anser Hallandstrafiken att det ger området stor potential för ökat hållbart resande.
@@ -13195,7 +13195,7 @@ Yttrandet är även förankrat med Västtrafik.
 
 Kommentar: Noteras
 
-15. Privatperson 1
+15\. Privatperson 1
 I inkommet yttrande från privatperson framförs kritik till hur kommunala skattemedel hanteras på ett
 felaktigt sätt enligt privatperson 1. Yttrandet beskriver hur privatperson 1 kunnat läsa i lokalpressen
 om hur politikerna i byggnadsnämnden samt kommunstyrelsen frångått framtagna utredningar
@@ -13205,7 +13205,7 @@ planområdet. Yttrandet handlar om den trafiklösning som planförslaget innehå
 Lantmannagatan och Hantverksgatan.
 Kommentar: Noteras
 
-16. Privatperson 2
+16\. Privatperson 2
 
 Privatperson 2 skriver i sitt yttrande att bygga en förtätad stad är det absolut sämsta alternativet om vi
 skall möta framtiden. Troligtvis blir den traditionellt förtätade stadskärnan obeboelig på somrarna runt
@@ -13223,7 +13223,7 @@ Kommentar: Noteras
 KUNGSBACKA  KOMMUN
 18 (19)
 
-17. Räddningstjänsten Storgöteborg
+17\. Räddningstjänsten Storgöteborg
 
 Räddningstjänsten skriver i sitt yttrande om riskhänsyn, framkomlighet och brandvattenförsörjning.
 Gällande riskhänsyn påtalar räddningstjänsten att det inte framgår hur baskraven i länsttyrelsens
@@ -13240,13 +13240,13 @@ bedömer därför frågan som hanterad.
 Kommentar: Planbestämmelser är införda i plankartan för att säkerställa att baskraven
 uppfylls gällande risk
 
-18. Ellevio
+18\. Ellevio
 Ellevio har genom sitt yttrande meddelat att de har inga ledningar eller andra anläggningar i eller i
 närheten av planområdet och avstår därför från att yttra sig i ärendet.
 
 Kommentar: Noteras
 
-19. Närliggande verksamhet
+19\. Närliggande verksamhet
 En närliggande verksamhet har under samrådstiden skrivit ett yttrande med ett antal frågor då de nåtts
 av information och rykten kring kommunens planering i området.
 Verksamhetens representant undrar främst om Kungsbacka 4:67 berörs av planförslaget.
@@ -13277,12 +13277,12 @@ Verksamhetschef plan               Planarkitekt
 
 <!-- sida 321 -->
 
-+
+\+
 INFARTEN
 
 2
 
-+
+\+
 
 Ad
 
@@ -13450,7 +13450,7 @@ bygglagen (PBL 2010:900)
 Synpunkter på sådant som kan aktualisera prövning
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap
-10 $ PBL och nu kända förhållanden att ett antagande av en detaljplan
+10 \$ PBL och nu kända förhållanden att ett antagande av en detaljplan
 enligt förslaget kan komma att prövas.
 
 Motiv för bedömningen
@@ -13459,12 +13459,12 @@ Länsstyrelsen befarar inte att:
 riksintresse enligt miljöbalken (MB) påtagligt kommer att
 skadas,
 
-- — reglering av mellankommunala frågor inte samordnas på ett
+\- — reglering av mellankommunala frågor inte samordnas på ett
 lämpligt sätt,
 
--  miljökvalitetsnormer enligt MB inte iakttas,
+\-  miljökvalitetsnormer enligt MB inte iakttas,
 
-- — strandskydd enligt 7 kap. MB upphävs i strid med gällande
+\- — strandskydd enligt 7 kap. MB upphävs i strid med gällande
 bestämmelser.
 
 Länsstyrelsen befarar att det som föreslås blir olämpligt avseende
@@ -13620,7 +13620,7 @@ tillsynsvägledning för naturolyckor. Den planerade bebyggelsen har
 en livslängd på minst 100 år vilket är längre än år 2100 som
 kommunen redogjort för och därför behöver även de utredningar som
 ligger till grund för detaljplanen ha ett längre tidsperspektiv än år
-2100. Hur kommunen resonerar kring dessa frågor behöver
+2100\. Hur kommunen resonerar kring dessa frågor behöver
 tydliggöras i planbeskrivningen. Även åtgärder som vidtas t ex
 eventuella skydd behöver planeras utifrån byggnadernas livslängd och
 
@@ -13684,7 +13684,7 @@ det behöver det förtydligas i planbeskrivningen. Uppdateringen av
 nederbördsberäkningar samt ta hänsyn till hur grundvattennivån
 påverkar området.
 
-Formuleringen `färdigt golv` som nämns i planbeskrivningen är inte
+Formuleringen \`färdigt golv\` som nämns i planbeskrivningen är inte
 lämplig att använda eftersom färdigt golv inte skyddar själva
 konstruktionen vid en eventuell översvämning. Det finns
 regeringsavgöranden kring denna formulering som bifogas.
@@ -13894,7 +13894,7 @@ Miljö- och byggnadsnämnden i Mörbylånga kommun beslutade den 23 mars
 2017 att anta en detaljplan för fastigheten Mörbylånga 11:54 samt del av
 fastigheten 11:27, Norra Viken, i kommunen.
 
-Länsstyrelsen i Kalmar län fattade den 14 juli 2017, med stöd av 11 kap. 11 $
+Länsstyrelsen i Kalmar län fattade den 14 juli 2017, med stöd av 11 kap. 11 \$
 plan- och bygglagen (2010:900), det beslut som framgår av bilagan.
 
 Miljö- och byggnadsnämnden i Mörbylånga kommun har överklagat
@@ -13962,7 +13962,7 @@ Skälen för regeringens beslut
 Länsstyrelsen ska upphäva en kommuns beslut att anta, ändra eller upphäva
 en detaljplan bl.a. om en bebyggelse blir olämplig med hänsyn till
 människors hälsa eller säkerhet eller till risken för olyckor, översvämning
-eller erosion (11 kap. 10 $ andra stycket 5 och 11 $ plan- och bygglagen).
+eller erosion (11 kap. 10 \$ andra stycket 5 och 11 \$ plan- och bygglagen).
 
 Av handlingarna i ärendet framgår att det område som den aktuella
 detaljplanen avser har en förhöjd risk för översvämning. Vidare framgår att
@@ -13988,7 +13988,7 @@ möta risken för översvämning.
 
 Regeringen finner med hänsyn till vad som ovan har anförts, och mot
 bakgrund av vad Boverket och MSB har framfört, att länsstyrelsen har haft
-fog för att med stöd av 11 kap. 11 $ plan och bygglagen upphäva miljö- och
+fog för att med stöd av 11 kap. 11 \$ plan och bygglagen upphäva miljö- och
 byggnadsnämndens beslut om att anta detaljplanen.
 
 <!-- sida 333 -->
@@ -14028,15 +14028,15 @@ detaljplan för Mörbylånga 11:54 samt del av 11:27, Norra Viken i Mörbylånga
 kommun
 
 Länsstyrelsens beslut
-Länsstyrelsen beslutar med stöd av 11 kap. 11 $ plan- och bygglagen (2010:900 PBL) att
+Länsstyrelsen beslutar med stöd av 11 kap. 11 \$ plan- och bygglagen (2010:900 PBL) att
 
 upphäva miljö- och byggnadsnämndens beslut att anta detaljplan för Mörbylånga 11:54 samt
 del av 11:27, Norra Viken i Mörbylånga kommun därför att genomförandet av planen strider
-mot bestämmelserna i 11 kap. 10 $ punkt 5 plan- och bygglagen (2010:900 PBL).
+mot bestämmelserna i 11 kap. 10 \$ punkt 5 plan- och bygglagen (2010:900 PBL).
 
 Överprövat beslut
 
-Det överprövade beslutet är miljö- och byggnadsnämndens beslut ($ 37), den 23 mars 2017 att
+Det överprövade beslutet är miljö- och byggnadsnämndens beslut (\$ 37), den 23 mars 2017 att
 anta detaljplan för Mörbylånga 11:54 samt del av 11:27, Norra Viken i Mörbylånga kommun.
 Syftet med detaljplanen är att möjliggöra en utveckling av Mörbylånga tätort. Utvecklingen ska
 ske så att utbudet av boendeformer varieras.
@@ -14076,7 +14076,7 @@ Pl Länsstyrelsen BESLUT 2 (2)
 Kalmar län 2017-07-14 404-2686-17
 
 Länsstyrelsen anser därför att det finns skäl att anta att bebyggelsen bli olämplig med hänsyn
-till hälsa och säkerhet och upphäver därför detaljplanen enligt 11 kap. 10 $ PBL (2010:900).
+till hälsa och säkerhet och upphäver därför detaljplanen enligt 11 kap. 10 \$ PBL (2010:900).
 
 Deltagande
 Beslutet har fattats av landshövding Thomas Carlzon efter föredragning av planhandläggare
@@ -14111,9 +14111,9 @@ HUR MAN UTFORMAR |! skrivelsen ska Ni
 ÖVERKLAGANDET
 AND - tala om vilket beslut Ni överklagar, t.ex. genom att ange
 ärendets nummer (diarienumret) och dag för beslutet
-- redogöra varför Ni anser att Länsstyrelsens beslut är
+\- redogöra varför Ni anser att Länsstyrelsens beslut är
 felaktigt
-- redogöra för hur Ni anser att beslutet ska ändras
+\- redogöra för hur Ni anser att beslutet ska ändras
 Ni kan givetvis anlita ombud att sköta överklagandet åt Er.
 Behöver Ni veta mer om hur Ni ska gå till väga, så ring eller
 skriv till Länsstyrelsen.
@@ -14170,7 +14170,7 @@ Kommunfullmäktige i Kristianstads kommun beslutade den 20 september
 kommunen.
 
 Länsstyrelsen i Skåne län beslutade den 14 december 2017, med stöd av
-11 kap. 11 $ plan- och bygglagen (2010:900), förkortad PBL, att upphäva
+11 kap. 11 \$ plan- och bygglagen (2010:900), förkortad PBL, att upphäva
 
 kommunens beslut, se bilaga 2.
 
@@ -14227,7 +14227,7 @@ beslutet.
 Länsstyrelsen ska upphäva en kommuns beslut att anta, ändra eller upphäva
 en detaljplan bl.a. om en bebyggelse blir olämplig med hänsyn till
 människors hälsa eller säkerhet eller till risken för olyckor, översvämning
-eller erosion (11 kap. 10 $ andra stycket 5 och 11 kap. 11 $ PBL).
+eller erosion (11 kap. 10 \$ andra stycket 5 och 11 kap. 11 \$ PBL).
 
 Av handlingarna i ärendet framgår att området som den aktuella detaljplanen
 avser har en förhöjd risk för översvämning. Vidare framgår att kommunen
@@ -14238,7 +14238,7 @@ Enligt regeringen har kommunen inte fört in de planbestämmelser eller i
 övrigt vidtagit de åtgärder som krävs för att detaljplanen ska vara lämplig
 med hänsyn till risken för översvämning. Det kan i sammanhanget inte anses
 
-213)
+213\)
 
 <!-- sida 339 -->
 
@@ -14248,7 +14248,7 @@ möta risken för översvämning.
 
 Regeringen finner med hänsyn till vad som ovan angivits, och mot bakgrund
 av vad Boverket och MSB har anfört, att länsstyrelsen har haft fog för att
-med stöd av 11 kap. 11 $ PBL upphäva kommunfullmäktiges beslut att anta
+med stöd av 11 kap. 11 \$ PBL upphäva kommunfullmäktiges beslut att anta
 detaljplanen. Vad kommunen, Walter Larsson och Bengt Åkesson har
 anfört, om bl.a. ställningstaganden i andra ärenden, föranleder ingen annan
 
@@ -14311,7 +14311,7 @@ Yngsjö 3:154 utmed Björkstigen i Åhus, Kristianstads kommun
 Länsstyrelsens beslut
 
 Länsstyrelsen upphäver i enlighet med 11 kap 11 8 plan- och bygglagen (PBL
-2010:900) kommunens beslut, den 20 september 2017 $ 189, att anta detaljplan för
+2010:900) kommunens beslut, den 20 september 2017 \$ 189, att anta detaljplan för
 Yngsjö 3:36 och Yngsjö 3:154 utmed Björkstigen i Åhus, Kristianstads kommun.
 
 Redogörelse för ärendet
@@ -14457,12 +14457,12 @@ trostor
 Strand måd vänebes erovuriadsamdsbien matt
 hovwisik balans
 Stand mad ilngsam erosken
-2) Strand med betydande ercecn
+2\) Strand med betydande ercecn
 Ej bedind
 
 Spanska redden S
 
- tänsstyrelinn, Hantmätariet, NVND, CSR) bur, BDAÅÄ, SGU, Sjötartsverket,
+tänsstyrelinn, Hantmätariet, NVND, CSR) bur, BDAÅÄ, SGU, Sjötartsverket,
 BUN SVU, SOU, Sy, FM, Bergsstaten, stu
 
 Figur 2: Erosionsförhållanden i anslutning till stranden vid Äspet.
@@ -14594,7 +14594,7 @@ visas med röd markering.
 
 Page 7 of 16
 
-7016)
+7016\)
 
 Dnr 404-28629-17
 90-B-0352
@@ -14615,7 +14615,7 @@ och betong. Konsekvenserna av hårda erosionsskydd är att närliggande områden
 drabbas av en ökad erosion när sandtransporten störs och att erosionen kan öka då
 
 hårda konstruktioner reflekterar en större del av vågenergin än en naturlig sandstrand
-7)
+7\)
 
 Konsekvenser av kombinationseffekter av översvämning och erosion
 
@@ -14688,7 +14688,7 @@ dagvattenlösningen ej säkerställa en god dagvattenhantering.
 Länsstyrelsen bedömning är att marken inte är lämplig för bebyggelse gällande
 översvämning så som detaljplanen är utformad då den inte säkerställer en god
 
-hantering av dagvatten enligt 2 kap 5 $ PBL.
+hantering av dagvatten enligt 2 kap 5 \$ PBL.
 
 Extremnederbörd
 
@@ -14729,7 +14729,7 @@ etc.
 
 Länsstyrelsen bedömning är att marken inte är lämplig för bebyggelse gällande
 översvämning så som detaljplanen är utformad då den inte säkerställer en god
-hantering av extremnederbörd enligt 2 kap 5 $ PBL.
+hantering av extremnederbörd enligt 2 kap 5 \$ PBL.
 
 Hälsa och säkerhet
 Då den skyddande sandbanken kan förväntas erodera bort i framtiden blir
@@ -14873,37 +14873,37 @@ far
 
 Källor
 
-1) Lantmäteriet, https://www lantmateriet.se/sv/Kartor-och-geografisk-information/GPS-
+1\) Lantmäteriet, https://www lantmateriet.se/sv/Kartor-och-geografisk-information/GPS-
 och-geodetisk-matning/Referenssystem/Landhojning/
 
-2) Persson Gunn et al., 2011, Klimatanalys för Skåne Län Rapport Nr 2011-52
+2\) Persson Gunn et al., 2011, Klimatanalys för Skåne Län Rapport Nr 2011-52
 
-3) Projekt ”Skånestrand”:
+3\) Projekt ”Skånestrand”:
 https: / /www.sgu.se/samhallsplanering /risker/stranderosion/stranderosion-langs-skanes-
 kust/
 
-4) SGU, 2016, Skånes känsliga stränder — erosionsförhållanden och geologi för
+4\) SGU, 2016, Skånes känsliga stränder — erosionsförhållanden och geologi för
 
 samhällsplanering. SGU rapport 2016:17)
 
-5) Bruun, P. 1962. Sealevel rise as a cause of shore erosion. Journal of Waterways and
+5\) Bruun, P. 1962. Sealevel rise as a cause of shore erosion. Journal of Waterways and
 Harbors Division. ASCE 88, 117-130.
 
-6) SGI, 2005. Erosion och översvämningar. Underlag för handlingsplan att förutse och
+6\) SGI, 2005. Erosion och översvämningar. Underlag för handlingsplan att förutse och
 
-7) Fredriksson, C. Almström, B., Hanson, H., Larson, M., Persson, O., 2017. Sandbehov för
+7\) Fredriksson, C. Almström, B., Hanson, H., Larson, M., Persson, O., 2017. Sandbehov för
 att motverka stranderosion utmed Skånes sydkust under perioden 2017-2100, Vatten 73:77-
-84. Lund 2017.
+84\. Lund 2017.
 
-8) Larsson Rolf, 2008, Jords egenskaper, SIG, ISSN 0281-7578
+8\) Larsson Rolf, 2008, Jords egenskaper, SIG, ISSN 0281-7578
 
-9) Svenskt Vatten, 2016, P110 ”Avledning av dag- drän- och spillvatten”, ISSN 1651-4947
+9\) Svenskt Vatten, 2016, P110 ”Avledning av dag- drän- och spillvatten”, ISSN 1651-4947
 
 = 10) Persson Jesper et al., 2014, Att räkna på vatten rapport 2014:17 , Sveriges
 
 Lantbruksuniversitet, ISBN 978-91-87117-78-7
 
-11) Kristianstad kommuns översiktsplan 2013, ”Attraktiv kust, livskraftigt hav, Ändring av
+11\) Kristianstad kommuns översiktsplan 2013, ”Attraktiv kust, livskraftigt hav, Ändring av
 översiktsplan 2013 avseende kusten och havet, utställningshandling 2017-08-29
 
 Page 15 of 16
@@ -14950,7 +14950,7 @@ NR se
 
 Pers
 
-|
+\|
 INN fr PART 7 TT
 I | Fre | a
 | — —D
@@ -14980,10 +14980,10 @@ er fi Fa
 
 Ho
 
-+ +PNALSNÄS
-+ B FY Vd
-+ 3 Nr
-+ + + + Xx
+\+ +PNALSNÄS
+\+ B FY Vd
+\+ 3 Nr
+\+ + + + Xx
 tat + Jat +
 
 — +2,8
@@ -15001,12 +15001,12 @@ I
 
 KH
 
-|
+\|
 +2,8 är
 
 4
 I
-||
+\||
 I
 
 fs
@@ -15032,7 +15032,7 @@ JA mm
 1
 
 85 dd / N |
-SÅD vvs <a fa JON
+SÅD vvs \<a fa JON
 N För NS 4.
 " + I
 
@@ -15054,12 +15054,12 @@ tt + +t + v
 ?
 
 VERKNÄSTAREN H>t4 + +
-+ bt s td dr
+\+ bt s td dr
 st + + + +
-- ” + + ,
-+ + + T
+\- ” + + ,
+\+ + + T
 
-+ + + +
+\+ + + +
 
 N
 
@@ -15087,7 +15087,7 @@ SA
 
 AA”
 Ja
->
+\>
 KUNGSBACKA 4
 
 NY. 2
@@ -15157,7 +15157,7 @@ A+
 
 j
 
-|
+\|
 bo
 
 Fjärås
@@ -15278,7 +15278,7 @@ Avgränsad via egenskapsgräns och användningsgräns
 
 Utformning av allmän plats
 
-+0,0 Markens höjd över nollplanet ska vara <angivet>
++0,0 Markens höjd över nollplanet ska vara \<angivet>
 meter.
 
 markbelastning Maximal tillåten markbelastning ur
@@ -15301,22 +15301,22 @@ Lat, tatt, I Marken får endast förses med komplementbyggnad.
 
 Höjd på byggnadsverk
 
-h, Högsta nockhöjd är <angivet> meter över angivet
+h, Högsta nockhöjd är \<angivet> meter över angivet
 nollplan.
 
-h 2 Högsta nockhöjd på byggnad är <angivet> meter
+h 2 Högsta nockhöjd på byggnad är \<angivet> meter
 över angivet nollplan som får uppföras i högst fem
 våningar.
 
-hs Högsta nockhöjd på byggnad är <angivet> meter
+hs Högsta nockhöjd på byggnad är \<angivet> meter
 över angivet nollplan som får uppföras i högst sju
 våningar.
 
-h, Högsta nockhöjd på byggnad är <angivet> meter
+h, Högsta nockhöjd på byggnad är \<angivet> meter
 över angivet nollplan som får uppföras i högst sex
 våningar.
 
-hs Högsta nockhöjd på byggnad är <angivet> meter
+hs Högsta nockhöjd på byggnad är \<angivet> meter
 över angivet nollplan som får uppföras i högst fyra
 våningar.
 
@@ -15324,7 +15324,7 @@ hs Högsta nockhöjd på byggnad är 51,5 meter över
 angivet nollplan som får uppföras i högst fjorton (14)
 våningar.
 
-h, Högsta nockhöjd på byggnad är <angivet> meter
+h, Högsta nockhöjd på byggnad är \<angivet> meter
 över angivet nollplan som får uppföras i högst två
 våningar.
 
@@ -15503,8 +15503,8 @@ Verkmästaren 6 m fl. Beslutsdatum Instans
 i; Samråd
 x UNI Da 5029-0317 |BN890
 ungSpacka Kommun Granskning
-Kungsbacka | 2025-04-24 | BN $82
-- es Antagande
+Kungsbacka | 2025-04-24 | BN \$82
+\- es Antagande
 Upprättad 2025-09-16, reviderad 2025-10-08 2025-12-44 | KF
 Laga kraft
 . - Plankostnads-
@@ -15691,7 +15691,7 @@ positiva effekter för en hållbar stadsutveckling, så som bostäder med närhe
 tivtrafik och underlag för ett rikt näringsliv.
 
 Planförslaget går i linje med gällande fördjupning av översiktsplan för Kungsbacka stad,
-2009.
+2009\.
 
 Kommunen gör den sammanvägda bedömningen att planförslaget inte bedöms ge upphov
 
@@ -17431,7 +17431,7 @@ Klimat och klimatanpassning
 Planförslaget som helhet underlättar för gång-, cykel- och kollektivtrafik vilket bidrar till
 målet om minskade utsläpp från fossila bränslen i linje med klimatstrategin.
 Planförslaget har även klimatanpassats utifrån framtagen skyfallsutredning (DHI 2024-11-
-20) genom höjdsättning av GATA och VÄG samt möjliggörande av uppförandet av låg mur
+20\) genom höjdsättning av GATA och VÄG samt möjliggörande av uppförandet av låg mur
 för att leda skyfall.
 
 Kulturvärden och arkeologi
@@ -18261,10 +18261,10 @@ Avgränsad via egenskapsgräns och användningsgräns
 |  | Prickmark | Byggnad får inte uppföras. Balkonger och burspråk<br>får kraga ut högst 1,5 meter från fasad och 3,5 me-<br>ter ovan mark. Syftar till att reglera och begränsa<br>byggrätten. |
 | --- | --- | --- |
 |  | Plusmark | Endast komplementbyggnader får uppföras. |
-| h₁ | Höjd på byggnadsverk | Högsta nockhöjd är <angivet> meter över angivet<br>nollplan. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan. |
-| h2 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst fem<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan samt våningsantal. |
-| h₃ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst sju<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan samt våningsantal. |
-| h₄ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst sex<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan samt våningsantal. |
+| h₁ | Höjd på byggnadsverk | Högsta nockhöjd är \<angivet> meter över angivet<br>nollplan. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan. |
+| h2 | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst fem<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan samt våningsantal. |
+| h₃ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst sju<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan samt våningsantal. |
+| h₄ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst sex<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan samt våningsantal. |
 
 <!-- sida 420 -->
 
@@ -18272,10 +18272,10 @@ Planbeskrivning 63
 
 [Tabell 420-1](handlingar.tabeller/420-1.csv)
 
-| h₅ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst fyra<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan samt våningsantal. |
+| h₅ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst fyra<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan samt våningsantal. |
 | --- | --- | --- |
 | h₆ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är +51,5 meter över<br>angivet nollplan som får uppföras i högst fjorton<br>(14) våningar. Syftar till att begränsa högsta nock-<br>höjd på ny flerbostadshusbebyggelse över angivet<br>nollplan samt våningsantal. |
-| h₇ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är <angivet> meter<br>över angivet nollplan som får uppföras i högst två<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan samt våningsantal. |
+| h₇ | Höjd på byggnadsverk | Högsta nockhöjd på byggnad är \<angivet> meter<br>över angivet nollplan som får uppföras i högst två<br>våningar. Syftar till att begränsa högsta nockhöjd<br>på ny flerbostadshusbebyggelse över angivet noll-<br>plan samt våningsantal. |
 | n₁ | Markens anordnande | Marken får inte förses med byggnad eller annan<br>anläggning ovan mark, undantaget parkering för<br>rörelsehindrad samt cykelparkering. Balkonger<br>och burspråk får kraga ut 1,5 meter 4,0 meter<br>ovan mark. Syftet är att kvartersgatorna ska ha en<br>karaktär av gårdsyta men ändå vara framkomliga<br>för exempelvis räddningsfordon. 4,0 meter i fri<br>höjd är hämtat från räddningstjänstens Råd och<br>anvisningar nr:110. |
 | n2 | Markens anordnande | Maximalt tillåten markbelastning ur stabilitetssyn-<br>punkt är 10 kPa. |
 | n3 | Vegetation | Trädet får endast fällas om det är sjukt eller inne-<br>bär säkerhetsrisk<br>Syftar till att säkerställa att befintliga träd inte får<br>fällas utan särskild anledning. Träden är marke-<br>rade på plankartan inom område CENTRUM. |
@@ -18754,7 +18754,7 @@ helhet diarieförda i kommunens diarium. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen skriver i sitt yttrande att de bedömer med hänsyn till ingripandegrunderna i 11 kap. 10 §
 PBL och nu kända förhållanden att frågor som rör hälsa och säkerhet, risk för olyckor, översvämning
@@ -18952,13 +18952,13 @@ riksintresset för kulturmiljövård i Kungsbacka innerstad. Bifogat handlingarn
 dokument (Fotomontage volymer 2023-09-27) med samtliga av de fotomontage som tagits fram under
 planarbetet för att bedöma den höga byggnadens påverkan på stadssiluetten samt riksintresset.
 
-2. Lantmäteriet
+2\. Lantmäteriet
 Lantmäteriet efterfrågar förtydligande i plankartan gällande sekundära egenskapsgränser.
 
 Kommentar: Plankartan och planbeskrivningen har förtydligats gällande sekundära
 egenskapsgränser.
 
-3. Trafikverket
+3\. Trafikverket
 
 Trafikverket skriver i sitt yttrande att de noterar att det står i planhandlingarna att ”alstringsverktyget
 ger en alstrad trafikvolym på ÅDT 1092.” samt att ”kommunens bedömning är att detaljplanen
@@ -19007,7 +19007,7 @@ var placerat väster om det södra parkeringshuset är borttaget och ersätts me
 inom befintlig plan söder om planområdet.
 Dagvattenlösningen för området sker utan påverkan på Trafikverkets dike.
 
-4. Statens geotekniska institut
+4\. Statens geotekniska institut
 
 SGI framför i sitt yttrande att deras tidigare framförda synpunkter kvarstår till stor del och att planen
 därför bör justeras inför antagande. SGI anser att det behöver säkerställas att planområdet och dess
@@ -19079,7 +19079,7 @@ stabilitet anser kommunen att planerad markanvändning är ett tillräckligt sä
 
 Sakägare
 
-5. Fastighetsägare till Kungsbacka 4:24
+5\. Fastighetsägare till Kungsbacka 4:24
 Detaljplanen gör intrång på Kungsbacka 4:24 och detta motsätter sig fastighetsägaren så länge
 kommunen och fastighetsägaren inte kommit överens om priset på marken.
 
@@ -19090,7 +19090,7 @@ om inte ett avtal med fastighetsägaren sluts innan lantmäteriförrättningen p
 
 Organisationer och föreningar
 
-6. Liberalerna
+6\. Liberalerna
 Liberalerna skriver i sitt yttrande att de ser positivt på förslaget och de anser att på grund av områdets
 läge med närhet till innerstaden, kollektivtrafik och service kan bli ett av de mest populära.
 
@@ -19121,7 +19121,7 @@ särskild service ska finnas inom området i övrigt kan upplåtelseform variera
 
 Kommunala förvaltningar och nämnder
 
-7. Teknik
+7\. Teknik
 
 Förvaltningen för Teknik har deltagit i framtagandet av samrådshandlingarna och skriver i sitt yttrande
 att förvaltningen ställer sig positiv till detaljplanens innehåll, blandad bebyggelse, parkeringshus i
@@ -19208,7 +19208,7 @@ Efter samtal mellan exploatören för området, mark- och exploatering samt Plan
 lösning för att samtliga fastigheter kan anslutas till förbindelsepunkt antingen i Lantmannagatan eller
 Varbergsvägen.
 
-8. Miljö & Hälsoskydd
+8\. Miljö & Hälsoskydd
 
 Förvaltningen för Miljö- och hälsoskydd skriver i sitt yttrande att de konstaterar att vissa frågor har
 bearbetats vidare efter samrådet, medan andra kvarstår utan tillräcklig redovisning.
@@ -19280,7 +19280,7 @@ Framtagen bullerutredning tittar endast på aktuellt planområde. Då bebyggelse
 kommande byggnader blir betydligt högre kommer planområdet ha en skyddande effekt för
 järnvägsbuller för de områden som ligger öster om planområdet.
 
-9. Vård och omsorg
+9\. Vård och omsorg
 
 Vård & Omsorg vill betona att fastigheterna och kvarteret utformas på ett sådant sätt att
 
@@ -19293,7 +19293,7 @@ de blir tillgängliga för alla oavsett ålder eller funktionsnedsättning.
 
 Kommentar: Noteras
 
-10. Kultur & Fritid
+10\. Kultur & Fritid
 Kultur och fritid skriver i sitt yttrande att de anser att planförslaget är väl genomarbetat och att det har
 tagits hänsyn till många av de faktorer som Kultur & Fritid har lyft i tidigare behandling.
 
@@ -19347,7 +19347,7 @@ för den sociala konsekvensanalysen, dessa texter har reviderats något utifrån
 
 Övriga
 
-11. Fastighetsägare till Fors 1:12
+11\. Fastighetsägare till Fors 1:12
 
 Fastighetsägaren önskar tydligare analys och förklaring till att planförslaget innehåller två stora
 parkeringshus.
@@ -19395,7 +19395,7 @@ allt för ytkrävande.
 Parkeringshusen är till för boendeparkering och tillfälliga parkeringsplatser intill verksamheterna
 kommer att skapas.
 
-12. Boende inom Södercentrum 4
+12\. Boende inom Södercentrum 4
 
 I yttrandet önskas att kommunen inte ska göra samma misstag som i Kolla parkstad. I yttrandet skrivs
 att det vore bra om denna stadsdel kan blomma med mer kommersiella lokaler och torgplats med
@@ -19406,13 +19406,13 @@ hoppas att denna nya stadsdel kommer få ett varierat innehåll. Planen har regl
 bottenvåningarna ska innehålla kommersiella lokaler och det finns möjlighet till uteserveringar i de
 bästa lägena.
 
-13. Fastighetsägare till Kungsbacka Liden 3:22
+13\. Fastighetsägare till Kungsbacka Liden 3:22
 
 Fastighetsägaren skriver i sitt yttrande att förslag till detaljplan godkänns i dess nuvarande utförande.
 
 Kommentar: Noteras
 
-14. Fastighetsägare till Kungsbacka Skårby 3:42
+14\. Fastighetsägare till Kungsbacka Skårby 3:42
 Fastighetsägaren skriver i sitt yttrande att förslag till detaljplan godkänns i dess nuvarande utförande
 samt att fastighetsägaren tycker att det är jätteroligt att det ska byggs och att kommunen utvecklar
 områden som idag upplevs tråkiga och gråa.
@@ -19429,14 +19429,14 @@ fastighetsägaren som tror att det skulle uppskattas av många.
 
 Kommentar: Noteras
 
-15. Swedavia
+15\. Swedavia
 Swedavia skriver i sitt yttrande att nuvarande planförslag bedöms inte innebära någon negativ
 påverkan på Göteborg Landvetter Airport.
 Swedavia har inga övriga synpunkter och därmed inget att erinra i denna granskning.
 
 Kommentar: Noteras
 
-16. Kungsbacka Varla 9:8
+16\. Kungsbacka Varla 9:8
 Fastighetsägaren till Varla 9:8 framför i sitt yttrande att planförslaget kan medföra risk för ökad
 segregation samt att vattenförsörjningen i kommunen inte klarar av den här typen av projekt.
 
@@ -19488,7 +19488,7 @@ att prata om förslaget med planavdelningen på Kungsbacka torg på en marknadsd
 Arkitekturen i området går det läsa mer om i gestaltningsprogrammet som är framtaget under
 planarbetet.
 
-17. Kungsbacka Sundstorp 8:14
+17\. Kungsbacka Sundstorp 8:14
 Fastighetsägaren till Kungsbacka Sundstorp 8:14 framför i sitt yttrande att Kungsbacka är en småstad
 och att storskalig byggnation som föreslås i detaljplanen förstör staden på många sätt.
 
@@ -19500,7 +19500,7 @@ för högre byggnader än vad som tidigare varit vanligt inom staden. Småskalig
 innerstad värnas och planförslagets påverkan på de områdena har studerats och beskrivits i
 planbeskrivningen.
 
-18. Kungsbacka Soppen 6
+18\. Kungsbacka Soppen 6
 
 Fastighetsägaren till Kungsbacka Soppen 6 skriver i sitt yttrande om stadsutvecklingen i stort i
 Kungsbacka och främst inom Forsgårdens golfklubb, Forsskogen och Forsvägen.
@@ -19513,7 +19513,7 @@ KUNGSBACKA  KOMMUN
 Kommentar: Synpunkterna är noterade men synpunkterna handlar främst om områden som inte berörs
 av aktuell plan.
 
-19. Onsala-Högås 1:7
+19\. Onsala-Högås 1:7
 Fastighetsägaren till Onsala-Högås 1:7 framför i sitt yttrande att kommunen hellre skulle fokusera på
 att skapa en stadskärna där fokuset istället för att skapa en plats för så mycket människor som möjligt,
 skapar en plats där trivseln för de som redan bor där prioriteras.
@@ -19537,7 +19537,7 @@ framtaget en ny detaljplan för nytt reningsverk som kommer att färdigställas 
 Hur planförslaget förhåller sig till innerstadens bebyggelse har studerats och beskrivits i
 planbeskrivningen.
 
-20. Frillesås-Rya 1:121
+20\. Frillesås-Rya 1:121
 
 Fastighetsägaren till Frillesås-Rya 1:121 anser att området inte ska ha fler än 4-5 våningar på grund av
 att räddningstjänsten ej har stegbilar i närområdet samt att höga byggnader ger otrygghetskänsla.
@@ -19556,7 +19556,7 @@ annat hanterats genom att bottenvåningarna ska innehålla en viss andel verksam
 
 och rörelse i gaturummet.
 
-21. Fors 1:341
+21\. Fors 1:341
 Fastighetsägaren till Fors 1:341 skriver i sitt yttrande om stadsutvecklingen i stort i Kungsbacka och
 främst inom Forsgårdens golfbana, Forsbergen och Tingberget vilket tyder på att yttrandet inte var
 avsett för detaljplanen för Sydöstra centrum utan istället till granskningsförslaget av den fördjupande
@@ -19565,7 +19565,7 @@ avsett för detaljplanen för Sydöstra centrum utan istället till granskningsf
 Kommentar: Synpunkterna är noterade men synpunkterna handlar främst om områden som inte berörs
 av aktuell plan.
 
-22. Fors 1:105
+22\. Fors 1:105
 
 Fastighetsägaren till Fors 1:105 tar upp korsningen Lantmannagatan Hantverksgatan i sitt yttrande och
 skriver att dagens lösning med två förskjutna trevägskorsningar borde behållas så att kommunens
@@ -19587,7 +19587,7 @@ Kommentar: Trafiksäkerheten är studerad i föreslagen utformning och är godta
 är presenterade för både kommunstyrelsens arbetsutskott och byggnadsnämnden, föreslagen
 utformning är beslutad av dessa.
 
-23. Skårby 3:33
+23\. Skårby 3:33
 
 <!-- sida 452 -->
 
@@ -19616,7 +19616,7 @@ tillgänglighetsanpassade parkeringsplatser. Vilka upplåtelseformer som kommer 
 fastighetsägaren har kommunen säkerställt att 12-24 bostäder med särskild service kommer att byggas
 inom området.
 
-24. E.ON
+24\. E.ON
 
 E.ON tillsammans med Kungsbacka kommun har kommit fram till två placeringar av E-områden, en
 bakom varje P-hus.
@@ -19718,7 +19718,7 @@ Kommunen och Exploatören kallas gemensamt Parterna.
 
 A.   BAKGRUND  OCH FÖRUTSÄTTNINGAR
 
-1.   Uppdrag, politiska beslut m.m.
+1\.   Uppdrag, politiska beslut m.m.
 
 1.1  Byggnadsnämndens arbetsutskott uppdrog 2020-10-22 åt samhällsbyggnadskontoret
 att upprätta ny detaljplan för bostäder inom Rågelund 1:127 m.fl, Detaljplanen.
@@ -19727,7 +19727,7 @@ att upprätta ny detaljplan för bostäder inom Rågelund 1:127 m.fl, Detaljplan
 mellan 2024-01-09 och 2024-02-06. Granskning genomfördes mellan 2025-05-20 och
 2025-06-10.
 
-2.   Exploateringsområde
+2\.   Exploateringsområde
 
 2.1  Det område som är föremål för genomförandet av Detaljplanen är ungefärligt markerat
 med blå linje på karta, bilaga A, Exploateringsområdet.
@@ -19754,7 +19754,7 @@ Göteborgsvägen.
 e) Område vid Göteborgsvägen där befintliga infarter till Rågelund 1:115, Sintorp 4:9
 och 4:167 ska stängas.
 
-3.   Syfte, innehåll och förutsättningar
+3\.   Syfte, innehåll och förutsättningar
 
 3.1  Avtalet reglerar exploateringen inom Planområdet och genomförandet av åtgärderna
 inom Exploateringsområdet.
@@ -19779,13 +19779,13 @@ som hyresrätt. Resterande bostäder planeras att upplåtas som bostadsrätt ell
 
 äganderätt.
 
-4.   Planförhållanden
+4\.   Planförhållanden
 
 4.1  Större delen av Planområdet är inte tidigare planlagt. Området för ny gc-väg inom
 Sintorp 4:6 omfattas dock av detaljplan (LFP44), vars genomförandetid gällde fram till
 2021-12-09.
 
-5.   Fastigheter och ägare
+5\.   Fastigheter och ägare
 
 5.1  Exploateringsområdet omfattar Exploatörens fastigheter Rågelund 1:127, Sintorp
 4:260 och Sintorp 4:261, Fastigheterna, en del av en samfälld bäck Påtorp s:1, en
@@ -19804,7 +19804,7 @@ Sign.
 
 B.   ÖVERLÅTELSE  AV MARK M.M.
 
-6.   Fastighetsreglering
+6\.   Fastighetsreglering
 
 6.1  Kommunen erhåller allmän platsmark
 
@@ -19837,7 +19837,7 @@ ersättning.
 Upprättande och tecknande av separat överenskommelse om fastighetsreglering, enligt
 bilaga D, ska ske innan Detaljplanen antas.
 
-7.   Gemensamhetsanläggningar
+7\.   Gemensamhetsanläggningar
 
 7.1  Enskilt huvudmannaskap för allmän plats innebär att det är fastighetsägarna i området
 som gemensamt ska äga och förvalta de allmänna anläggningarna. Inom Planområdet
@@ -19866,7 +19866,7 @@ Sign.
 söder om planområdet kan omprövas, på så vis att den utökas med nya gc-vägen och
 att motsvarande yta naturmark utgår.
 
-8.   Ledningsrätt, nyttjanderätter, servitut
+8\.   Ledningsrätt, nyttjanderätter, servitut
 
 8.1  Ledningsrätt
 
@@ -19886,7 +19886,7 @@ Exploatören upplåter utan ersättning område för ledningsrätt/avtalsservitu
 till Kommunen, inom fastigheterna Sintorp 4:260, Sintorp 4:261 och Rågelund 1:127
 och inom nya fastigheter som avstyckas från dessa.
 
-9.   Lantmäteriförrättning
+9\.   Lantmäteriförrättning
 
 9.1  Exploatören ansvarar för ansökan och bekostar fastighetsbildningsåtgärder inom sin
 kvartersmark, såsom till exempel avstyckning, fastighetsreglering och
@@ -19908,7 +19908,7 @@ ledningsrätt för nya kommunala VA- och tele/optoledningar, enligt punkt 8 ovan
 
 C.   EXPLOATERING
 
-10.  Byggnader och anläggningar inom kvartersmark
+10\.  Byggnader och anläggningar inom kvartersmark
 
 10.1 Exploatören ansvarar för utförande av byggnader och anläggningar inom kvartersmark
 för bostadsändamål och parkering.
@@ -19981,7 +19981,7 @@ Sign.
 parkering (P). Exploatören ansvarar för att ordna en långsiktig förvaltning av
 parkeringsanläggningarna, till exempel en gemensamhetsanläggning.
 
-11.  Dagvatten och skyfall
+11\.  Dagvatten och skyfall
 
 11.1 Exploatören är skyldig att vidta nödvändiga åtgärder för avledande av vatten från den
 egna kvartersmarken så att inte skada uppstår på grannfastigheterna.
@@ -20016,7 +20016,7 @@ lågpunkter i området samt iordningställa ytliga rinnstråk för skyfallsvatte
 vid bäcken, Påtorp s:1 (slänterna ska ha lutningen 1:4) för att den ska kunna ta hand
 om större mängder vatten vid skyfall.
 
-12.  Gestaltning
+12\.  Gestaltning
 
 12.1 Exploatören förbinder sig att följa de gestaltningsprinciper som framgår av
 Detaljplanens planbeskrivning vid uppförande av byggnader och anläggningar inom
@@ -20024,7 +20024,7 @@ Planområdet. Avvikelser från dessa får endast ske i samråd med Kommunen.
 Avstämning av projektets gestaltnings- och kvalitetsnivåer sker i samband med
 bygglovsförfarandet.
 
-13.  Byggplatsåtgärder, framkomlighet, etableringsytor med mera
+13\.  Byggplatsåtgärder, framkomlighet, etableringsytor med mera
 
 13.1 Exploatören ansvarar för att informera allmänheten i närområdet om sitt byggprojekt
 genom att till exempel sätta upp skyltar med information om vad som byggs, vem som
@@ -20057,7 +20057,7 @@ Kommunen medger eller avtalar om eventuell ersättning till tredje man. Exploat�
 ansvar inkluderar ansvar för skador som orsakas av entreprenör eller annan som
 Exploatören anlitar.
 
-14.  Besiktning och återställande
+14\.  Besiktning och återställande
 
 14.1 Före byggstart ska Exploatören kalla Kommunen, genom Teknik till förbesiktning i
 
@@ -20095,7 +20095,7 @@ Sign.
 
 8(14)
 
-15.  Anläggningar inom allmän plats som Kommunen ansvarar för
+15\.  Anläggningar inom allmän plats som Kommunen ansvarar för
 
 15.1 Kommunen ansvarar för anläggningar inom allmän plats med kommunalt
 huvudmannaskap. Berörda områden redovisas med grön färg, röd bregsänsningslinje
@@ -20109,7 +20109,7 @@ Parkanläggningarna (gräs) inom PARK damm och NATUR kan därför betraktas som
 1
 en del av VA-anläggningen och ska utföras, bekostas och förvaltas av Kommunen,
 Teknik, VA-kollektivet.
-16.  Anläggningar inom allmän plats som Exploatören ansvarar för
+16\.  Anläggningar inom allmän plats som Exploatören ansvarar för
 
 16.1 Exploatören ansvarar för och bekostar utförande av projektering, upphandling och
 iordningställande av samtliga anläggningar inom allmän plats med enskilt
@@ -20158,7 +20158,7 @@ Sign.
 till den gemensamhetsanläggning som bildas för gatuanläggningar m.m. enligt punkt
 7.1.
 
-17.  Vatten- och avloppsanläggningar
+17\.  Vatten- och avloppsanläggningar
 
 17.1 Avsikten är att Kommunen genom förvaltningen för Teknik ska teckna ett separat VA-
 genomförandeavtal med Exploatören avseende projektering och utbyggnad av
@@ -20196,7 +20196,7 @@ Kommunens process är att fatta nya beslut om VA-verksamhetsområden årsvis. N�
 Detaljplanen antas förbereds den för beslut på kommande ordinarie beslutstillfälle
 avseende inrättande av VA-område i kommunfullmäktige.
 
-18.  Åtgärder på statlig väg som Trafikverket utför, finansiering
+18\.  Åtgärder på statlig väg som Trafikverket utför, finansiering
 
 18.1 Trafikverket ansvarar för ställningstagande, projektering, upphandling och byggnation
 av vänstersvängskörfält med tillhörande anordningar, enligt principerna i
@@ -20237,7 +20237,7 @@ hantera de konsekvenser detta medför, till exempel ökade kostnader och längre
 tidsåtgång. Exploatören förbinder sig att ersätta Kommunen för samtliga kostnader
 som åvilar Kommunen enligt ett eventuellt tilläggsavtal.
 
-19.  Genomförande
+19\.  Genomförande
 
 19.1 Uppstart av projektet och samordning
 
@@ -20252,7 +20252,7 @@ Kommunen ska utse en bevakande projektledare och byggledare till de delar av
 projektet som berör kommunala anläggningar, vilket regleras närmare i VA-
 genomförandeavtalet.
 
-20.  Exploateringsbidrag
+20\.  Exploateringsbidrag
 
 20.1 Exploatören förbinder sig att till Kommunen betala ett exploateringsbidrag som
 motsvarar Kommunens kostnader för lantmäteriförrättning och intrångsersättningar,
@@ -20274,37 +20274,37 @@ Sign.
 
 11(14)
 
-21.  Anläggningsavgifter för vatten och avlopp
+21\.  Anläggningsavgifter för vatten och avlopp
 
 21.1 Exploatören erlägger till Kommunen anläggningsavgifter för vatten-, spillvatten och
 dagvatten enligt vid anslutningstillfället gällande VA-taxa antagen av Kungsbacka
 kommunfullmäktige.
 
-22.  Övriga ledningar
+22\.  Övriga ledningar
 
 22.1 Anslutningsavgifter för el, opto m.fl. betalas av Exploatören.
 
-23.  Flytt av ledningar, provisoriska ledningar
+23\.  Flytt av ledningar, provisoriska ledningar
 
 23.1 Exploatören bekostar samtliga ledningsflyttar och provisoriska ledningsdragningar/
 pumpstationer som krävs till följd av utbyggnaden av bostäder, gator, parker och andra
 anläggningar inom Exploateringsområdet.
 
-24.  Geoteknik
+24\.  Geoteknik
 
 24.1 Exploatören ansvarar för och bekostar de tillkommande geotekniska utredningar och
 stabilitetsutredningar som krävs för byggnader och anläggningars grundläggning och
 uppförande samt för de grundförstärkningsåtgärder som erfordras för sin byggnation
 inom kvartersmark och allmän plats inom Exploateringsområdet.
 
-25.  Förorenad mark
+25\.  Förorenad mark
 
 25.1 Exploatören ansvarar för och bekostar eventuella kompletterande provtagningar och
 miljötekniska markmiljöundersökningar samt har kostnadsansvaret för sanering av
 eventuella markföroreningar inom sin kvartersmark samt inom allmän platsmark.
 Exploatören ansvarar för anmälan till berörd tillsynsmyndighet.
 
-26.  Arkeologi
+26\.  Arkeologi
 
 26.1 Exploatören ansvarar för att samråd sker med länsstyrelsen innan markarbetena
 påbörjas. Exploatören ansvarar även för att eventuella arkeologiska utredningar och
@@ -20317,7 +20317,7 @@ fornlämningarna.
 allmän platsmark ansvarar Exploatören för anmälan till berörd tillsynsmyndighet samt
 bekostar de åtgärder som tillsynsmyndigheten kan kräva.
 
-27.  Dispenser och tillstånd
+27\.  Dispenser och tillstånd
 
 27.1 Inom Planområdet finns biotopskyddade diken och stenmurar. Exploatören ansvarar
 för att söka dispens och göra de anmälningar som krävs för att utföra åtgärder i eller
@@ -20332,7 +20332,7 @@ Sign.
 
 D.   ÖVRIGA BESTÄMMELSER
 
-28.  Säkerhet
+28\.  Säkerhet
 
 28.1 För det rätta fullgörandet av Exploatörens åtaganden enligt Avtalet ska Exploatören
 till förmån för Kommunen ställa en säkerhet till ett värde om 1 600 000 kr i form av
@@ -20341,28 +20341,28 @@ att utbetalning ska göras. Denna säkerhet ska vara Kommunen tillhanda innan Av
 godkänns av Kommunstyrelsen. Säkerheten ska återlämnas efter fullgjord betalning
 avseende nämnda åtaganden;
 
-- Kostnader för lantmäteriförrättningar och intrångsersättningar, enligt punkt 20.
+\- Kostnader för lantmäteriförrättningar och intrångsersättningar, enligt punkt 20.
 
-- Kommunens kostnader för personal på Teknik och samhällsbyggnadskontoret,
+\- Kommunens kostnader för personal på Teknik och samhällsbyggnadskontoret,
 enligt punkt 20.
 
-- Finansiering av åtgärder på statlig väg, enligt punkt 18.
+\- Finansiering av åtgärder på statlig väg, enligt punkt 18.
 
-- Kommunens kostnader för personal på Teknik och samhällsbyggnadskontoret,
+\- Kommunens kostnader för personal på Teknik och samhällsbyggnadskontoret,
 enligt punkt 18.
 
 28.2 Säkerheten är avsedd att täcka de kostnader och åtaganden m.m. som Exploatören
 åtagit sig enligt Avtalet, för det fall Exploatören ej fullgör sina skyldigheter enligt
 Avtalet. Kommunen kan då ta säkerheten i anspråk utan Exploatörens medgivande.
 
-29.  Risktagande
+29\.  Risktagande
 
 29.1 Om hinder, oavsett vilket, skulle uppstå mot att Detaljplanen kan antas samt vinner
 laga kraft ska vardera part svara för sina respektive nedlagda kostnader och således
 inte ställa ersättningsanspråk på motparten. Exploatören ska dock alltid ersätta
 Kommunen för nedlagda plankostnader, vilket regleras i ett separat plankostnadsavtal.
 
-30.  Överlåtelse av avtal och fastigheter
+30\.  Överlåtelse av avtal och fastigheter
 
 30.1 Avtalet får inte utan Kommunens skriftliga medgivande överlåtas på annan.
 Exploatören ska i god tid innan avsedd överlåtelse begära sådant medgivande.
@@ -20398,7 +20398,7 @@ Exploatören är vidare skyldig att skriftligen meddela Kommunen vid eventuell
 överlåtelse av bolag som äger fastighet inom Planområdet eller vid överlåtelse av
 merparten av aktierna i bolaget.
 
-31.  Avtalets giltighet
+31\.  Avtalets giltighet
 
 31.1 Förutsättingar för Avtalets giltighet är att villkoren nedan är uppfyllda
 
@@ -20408,19 +20408,19 @@ vinner laga kraft
 • Byggnadsnämnden i Kungsbacka kommun antar Detaljplanen, genom beslut som
 vinner laga kraft
 
-32.  Tidsplan och utbyggnadstakt
+32\.  Tidsplan och utbyggnadstakt
 
 32.1 Exploatören ska i samråd med Kommunen upprätta en huvudtidplan för
 exploateringen, inklusive etappindelning för utbyggnad av kvartersmark, allmän plats
 och VA-anläggningar. Om avvikelse sker/riskerar att ske mot huvudtidplanen ska
 övriga parter inomformeras utan fördröjning.
 
-33.  Tvist
+33\.  Tvist
 
 33.1 Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
 detta avtal ska avgöras av allmän domstol.
 
-_______________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Signatursida följer
 
@@ -20435,34 +20435,34 @@ Detta avtal är upprättat i fyra likalydande exemplar varav parterna tagit ett 
 Datum 2025-10-
 för Frillesås Projektutveckling AB
 
-________________________           ________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Namnteckning                       Namnteckning
 
-________________________           ________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Namnförtydligande                  Namnförtydligande
 
 Datum 2025-10-
 För Rågelundsfastigheten AB
 
-________________________           ________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Namnteckning                       Namnteckning
 
-________________________           ________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Namnförtydligande                  Namnförtydligande
 
 Datum 2025-10
 För Frillesås Rågelund 2 AB
 
-________________________           ________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Namnteckning                       Namnteckning
 
-________________________           ________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Namnförtydligande                  Namnförtydligande
 
 Datum 2025-
 för Kungsbacka kommun
 
-________________________           ________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Rickard Vidlund                    Lisa Andersson
 Kommundirektör                     Kommunstyrelsens ordförande
 
@@ -20485,30 +20485,30 @@ y” . + B. d N + SPARRE AN
 — . + XN h. So + 2 + or ft NM KR
 As » + töx 1 11,0m + + + . + NN + A
 og a ä på + d, 200m2 + bg sk 10.4
-+ Xx "NO, 25: Va te SN
+\+ Xx "NO, 25: Va te SN
 fy RÅGELUND 1:127> STR KA SELRNSE HEN
 M +
 
 I or + +
 
-+ + + + +
+\+ + + + +
 
-+ ro or +
+\+ ro or +
 
 FORNA + tot
 
 hy 11, SN a
 
-+
-+
+\+
+\+
 
-+ + + +
-+
-+
+\+ + + +
+\+
+\+
 
 ESSEN gg" 2 5 £ 10,4 SÅ d,, 200m? 04 a 2
 SA 30125 AA
-> V . N NEO .
+\> V . N NEO .
 SANS
 
 A +" DL GA
@@ -20524,12 +20524,12 @@ SINTORP
 "TA:
 — — ———
 
-tt tt tt tt tt o.2$+tod
-+ AE tt bt Ft bt tb bt tb td
+tt tt tt tt tt o.2\$+tod
+\+ AE tt bt Ft bt tb bt tb td
 
 ta + tft tt tft + VA ot + At
 
-+ 4 tft tt t tt +
+\+ 4 tft tt t tt +
 
 B d, 250m?
 
@@ -20688,9 +20688,9 @@ Byggnaders användning
 S, För bostäder som överstiger 35 m? ska minst hälften av bostadsrummen i varje
 lägenhet orienteras mot en ljuddämpad sida.
 Fastighetsstorlek
-d, Minsta fastighetsstorlek är <angivet> m?.
+d, Minsta fastighetsstorlek är \<angivet> m?.
 Höjd på byggnadsverk
-h, Högsta nockhöjd på huvudbyggnad är <angivet> meter.
+h, Högsta nockhöjd på huvudbyggnad är \<angivet> meter.
 
 Markens anordnande och vegetation
 1:4 Största lutning är 1:4. (Pilen pekar uppåt).
@@ -20709,8 +20709,8 @@ Stängsel, utfart och annan utgång
 3 O- — — Ad Utfartsförbud.
 
 Takvinkel
-Oo, Minsta takvinkel är <angivet> grader.
-0. Största takvinkel är 37 grader.
+Oo, Minsta takvinkel är \<angivet> grader.
+0\. Största takvinkel är 37 grader.
 Utformning
 f, Endast kedjehus eller parhus.
 f, Endast flerbostadshus.
@@ -20725,7 +20725,7 @@ EGENSKAPSBESTÄMMELSER FÖR KVARTERSMARK
 Avgränsad via sekundär egenskapsgräns och användningsgräns
 
 Begränsning av markens utnyttjande
-+ +" + "+ "+ Marken får endast förses med komplementbyggnad, uterum, stödmur och
+\+ +" + "+ "+ Marken får endast förses med komplementbyggnad, uterum, stödmur och
 
 parkering.
 Markens anordnande och vegetation
@@ -20853,12 +20853,12 @@ a)   Kungsbacka kommun (212000-1256), såsom ägare till fastigheten Kungsbacka
 Frillesås-Rya 2:36, nedan kallad Kommunen
 
 b)   Rågelundsfastigheten AB (559115-5824) och Frillesås Rågelund 2 AB (559311-
-9158) såsom ägare av fastigheten Kungsbacka Rågelund 1:127 nedan
+9158\) såsom ägare av fastigheten Kungsbacka Rågelund 1:127 nedan
 gemensamt kallade Fastighetsägaren
 
 Kommunen och Fastighetsägaren kallas gemensamt Parterna
 
-1.   Bakgrund och syfte
+1\.   Bakgrund och syfte
 
 1.1  Denna överenskommelse är ett led i genomförandet av detaljplanen för bostäder
 inom Rågelund 1:127 m.fl. i Frillesås. Detaljplanen var ute på granskning i maj
@@ -20871,7 +20871,7 @@ till Kommunens fastighet.
 exploateringsavtal, som bland annat reglerar Parternas ansvar för utförande och
 kostnader i samband med genomförandet av Detaljplanen.
 
-2.   Fastighetsreglering
+2\.   Fastighetsreglering
 
 2.1  Fastighetsreglering ska genomföras så att två områden av Fastighetsägarens
 fastighet Rågelund 1:127 överförs till Kommunens fastighet Frillesås-Rya 2:36.
@@ -20883,7 +20883,7 @@ respektive 2, på bilaga A.
 (område 1 och 2) på tillträdesdagen inte är belastad av andra inskrivningar,
 inteckningar och andra belastningar.
 
-3.   Jämkning av gränser
+3\.   Jämkning av gränser
 
 3.1  Parterna accepterar att utan ytterligare ersättning finna sig i sådana mindre
 jämkningar beträffande gränser, areal, särskilda rättigheter och dylikt, som inte
@@ -20899,23 +20899,23 @@ Bilaga C1
 som vid lantmäteriförrättningen bedöms erforderliga för att åstadkomma en
 ändamålsenlig fastighetsindelning.
 
-4.   Tillträde
+4\.   Tillträde
 
 4.1  Tillträde till de aktuella markområdena sker när fastighetsbildningsbeslut enligt
 punkt 6 vunnit laga kraft.
 
-5.   Ersättning
+5\.   Ersättning
 
 5.1  Ingen ersättning ska utgå.
 
-6.   Lantmäteriförrättning
+6\.   Lantmäteriförrättning
 
 6.1  Kommunen ska ansöka om lantmäteriförrättning för genomförandet av denna
 överenskommelse. Fastighetsägaren biträder härmed ansökan.
 Förrättningskostnaderna skall betalas av Fastighetsägaren, inklusive en extra
 aktkopia som ska tillsändas Kommunen.
 
-7.   Övrigt
+7\.   Övrigt
 
 Fastighetsägaren är skyldig att skriftligen meddela Kommunen vid eventuell
 överlåtelse av Rågelund 1:127. Fastighetsägaren förbinder sig vidare att vid
@@ -20923,17 +20923,17 @@ eventuell överlåtelse underrätta köparen om denna överenskommelses innehål
 och i överlåtelsehandlingen förbinda köparen att överta åtagande och
 skyldigheter gentemot Kommunen enligt denna överenskommelse.
 
-8.   Avtalets giltighet
+8\.   Avtalets giltighet
 
 8.1  Detta avtal förutsätter för sin giltighet att:
 
-- Byggnadsnämnden antar detaljplanen för bostäder inom Rågelund 1:127
+\- Byggnadsnämnden antar detaljplanen för bostäder inom Rågelund 1:127
 m.fl. i Frillesås genom beslut som vinner laga kraft.
 
 Parterna har inte träffat någon överenskommelse eller åtagit sig någon
 förpliktelse utöver vad som ovan angetts.
 
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 2(4)
 
@@ -20948,18 +20948,18 @@ Datum 2025-10-                       Datum 2025-10-
 För Kungsbacka kommun                För Rågelundsfastigheten AB
 Frillesås-Rya 2:36                   Rågelund 1:127 (999/1000)
 
-_________________________            _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_            \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Susanne Calming
 
-_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Datum 2025-10-
 För Frillesås Rågelund 2 AB
 Rågelund 1:127 (1/1000)
 
-_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 3(4)
 
@@ -20991,7 +20991,7 @@ Kungsbacka Sintorp 4:260 och 4:261 nedan kallad Fastighetsägaren
 
 Kommunen och Fastighetsägaren kallas gemensamt Parterna
 
-1.   Bakgrund och syfte
+1\.   Bakgrund och syfte
 
 1.1  Denna överenskommelse är ett led i genomförandet av detaljplanen för bostäder
 inom Rågelund 1:127 m.fl. i Frillesås. Detaljplanen var ute på granskning i maj
@@ -21000,7 +21000,7 @@ inom Rågelund 1:127 m.fl. i Frillesås. Detaljplanen var ute på granskning i m
 1.2  Syftet med överenskommelsen är att möjliggöra överföring av allmän platsmark
 till Kommunens fastighet.
 
-2.   Fastighetsreglering
+2\.   Fastighetsreglering
 
 2.1  Fastighetsreglering ska genomföras så att två områden av Fastighetsägarens
 fastighet Sintorp 4:260 och ett område av Sintorp 4:261 överförs till
@@ -21011,7 +21011,7 @@ naturändamål och är markerade med 1, 2 respektive 3, på bilaga A.
 2.2  Fastighetsägaren garanterar att marken (område 1, 2 och 3) på tillträdesdagen
 inte är belastad av inskrivningar, inteckningar eller andra belastningar.
 
-3.   Jämkning av gränser
+3\.   Jämkning av gränser
 
 3.1  Parterna accepterar att utan ytterligare ersättning finna sig i sådana mindre
 jämkningar beträffande gränser, areal, särskilda rättigheter och dylikt, som inte
@@ -21019,7 +21019,7 @@ strider mot vad som varit avsett vid tillkomsten av denna överenskommelse och
 som vid lantmäteriförrättningen bedöms erforderliga för att åstadkomma en
 ändamålsenlig fastighetsindelning.
 
-4.   Tillträde
+4\.   Tillträde
 
 4.1  Tillträde sker när fastighetsbildningsbeslut enligt punkt 6 vunnit laga kraft.
 
@@ -21029,18 +21029,18 @@ som vid lantmäteriförrättningen bedöms erforderliga för att åstadkomma en
 
 Bilaga C2
 
-5.   Ersättning
+5\.   Ersättning
 
 5.1  Ingen ersättning ska utgå.
 
-6.   Lantmäteriförrättning
+6\.   Lantmäteriförrättning
 
 6.1  Kommunen ska ansöka om lantmäteriförrättning för genomförandet av denna
 överenskommelse. Fastighetsägaren biträder härmed ansökan.
 Förrättningskostnaderna skall betalas av Fastighetsägaren, inklusive en extra
 aktkopia som ska tillsändas Kommunen.
 
-7.   Övrigt
+7\.   Övrigt
 
 7.1  Fastighetsägaren är skyldig att skriftligen meddela Kommunen vid eventuell
 överlåtelse av Sintorp 4:260 eller 4:261. Fastighetsägaren förbinder sig vidare att
@@ -21048,17 +21048,17 @@ vid eventuell överlåtelse underrätta köparen om denna överenskommelses
 innehåll och i överlåtelsehandlingen förbinda köparen att överta åtagande och
 skyldigheter gentemot Kommunen enligt denna överenskommelse.
 
-8.   Avtalets giltighet
+8\.   Avtalets giltighet
 
 8.1  Detta avtal förutsätter för sin giltighet att:
 
-- Byggnadsnämnden antar detaljplanen för bostäder inom Rågelund 1:127
+\- Byggnadsnämnden antar detaljplanen för bostäder inom Rågelund 1:127
 m.fl. i Frillesås genom beslut som vinner laga kraft.
 
 Parterna har inte träffat någon överenskommelse eller åtagit sig någon
 förpliktelse utöver vad som ovan angetts.
 
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i tre likalydande exemplar varav parterna tagit ett vardera samt
 
@@ -21068,10 +21068,10 @@ Datum 2025-10                        Datum 2025-10-
 För Kungsbacka kommun                För Frillesås Projektutv AB.
 Frillesås-Rya 2:36                   Sintorp 4:260 och 4:261
 
-_________________________            _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_            \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Susanne Calming
 
-_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 2(3)
 
@@ -21104,7 +21104,7 @@ Kungsbacka Sintorp 4:261 nedan kallad Fastighetsägaren
 
 Kommunen och Fastighetsägaren kallas gemensamt Parterna
 
-1.   Bakgrund och syfte
+1\.   Bakgrund och syfte
 
 1.1  Denna överenskommelse är ett led i genomförandet av detaljplanen för bostäder
 
@@ -21115,7 +21115,7 @@ inom Rågelund 1:127 m.fl. i Frillesås. Detaljplanen var ute på granskning i m
 samfälld bäck till Kommunens fastighet för allmän platsmark med
 dagvattenanläggningar.
 
-2.   Fastighetsreglering
+2\.   Fastighetsreglering
 
 2.1  Fastighetsreglering ska genomföras så att Sintorp 2:461s samtliga andelar i den
 samfällda bäcken Påtorp s:1 ska överföras till Kommunens fastighet Frillesås-
@@ -21128,11 +21128,11 @@ att äga andel i bäcken, eftersom vatten från planområdet ska ledas dit, via
 
 Kommunens anläggningar i området.
 
-4.   Tillträde
+4\.   Tillträde
 
 4.1  Tillträde sker när fastighetsbildningsbeslut enligt punkt 6 vunnit laga kraft.
 
-5.   Ersättning
+5\.   Ersättning
 
 5.1  Ingen ersättning ska utgå.
 
@@ -21142,7 +21142,7 @@ Kommunens anläggningar i området.
 
 Bilaga D
 
-6.   Lantmäteriförrättning
+6\.   Lantmäteriförrättning
 
 6.1  Kommunen ska ansöka om lantmäteriförrättning för genomförandet av denna
 överenskommelse. Fastighetsägaren biträder härmed ansökan.
@@ -21150,7 +21150,7 @@ Bilaga D
 Förrättningskostnaderna skall betalas av Fastighetsägaren, inklusive en extra
 aktkopia som ska tillsändas Kommunen.
 
-7.   Övrigt
+7\.   Övrigt
 
 7.1  Fastighetsägaren är skyldig att skriftligen meddela Kommunen vid eventuell
 överlåtelse av Sintorp 4:261. Fastighetsägaren förbinder sig vidare att vid
@@ -21158,17 +21158,17 @@ eventuell överlåtelse underrätta köparen om denna överenskommelses innehål
 och i överlåtelsehandlingen förbinda köparen att överta åtagande och
 skyldigheter gentemot Kommunen enligt denna överenskommelse.
 
-7.   Avtalets giltighet
+7\.   Avtalets giltighet
 
 7.1  Detta avtal förutsätter för sin giltighet att:
 
-- Byggnadsnämnden antar detaljplanen för bostäder inom Rågelund 1:127
+\- Byggnadsnämnden antar detaljplanen för bostäder inom Rågelund 1:127
 m.fl. i Frillesås genom beslut som vinner laga kraft.
 
 Parterna har inte träffat någon överenskommelse eller åtagit sig någon
 förpliktelse utöver vad som ovan angetts.
 
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i tre likalydande exemplar varav parterna tagit ett vardera samt
 ett som bifogas ansökan om lantmäteriförrättning.
@@ -21177,10 +21177,10 @@ Datum 2025-10-                       Datum 2025-10-
 För Kungsbacka kommun                För Frillesås Projektutv. AB
 Frillesås-Rya 2:36                   Sintorp 2:461
 
-_________________________            _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_            \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Susanne Calming
 
-_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 2(2)
 
@@ -21550,7 +21550,7 @@ Begära     planbesked
 
 Ärendenummer: #217446 | Inskickat av: KRISTIAN HALLIN | 2025-07-03 10:58
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -21596,7 +21596,7 @@ Kristian                          Hallin
 
 Telefon                           E-postadress
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -21630,7 +21630,7 @@ Vad beskriver bäst din begäran?
 Handel
 Café
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -21738,8 +21738,8 @@ BTA PLAN 1, 9400m2.
 FÖRHANDSBESKED
 -SITUATIONSPLAN = 1:500 (A0) PRINCIP LINJEMÅLNING 3m PARKERING (= örsbure
 ANP. MOT SNEDSTÄLLDA PLATSER ”YDOTIISNJOTSJYTAN
-> 30 > infoEbyggbyran se www. byggbyran se -
-- + +
+\> 30 > infoEbyggbyran se www. byggbyran se -
+\- + +
 18150 NR CP AV cp
 GNOSJÖ 230228
 VÄLÅS 3:75
@@ -22059,16 +22059,16 @@ Detaljplanen följer kommunens översiktsplan och fördjupad översiktsplan för
 med standardförfarande.
 
 Projektet kommer ha följande leveranser:
-1. Projektbeställning   SBK/KS
+1\. Projektbeställning   SBK/KS
 
-2. Projektplan          Forum för verksamhetschefer
-3. Plankostnadsavtal    SBK
+2\. Projektplan          Forum för verksamhetschefer
+3\. Plankostnadsavtal    SBK
 
-4. Principavtal         KS
-5. Samrådshandlingar    BN
+4\. Principavtal         KS
+5\. Samrådshandlingar    BN
 
-6. Granskningshandlingar BN
-7. Antagandehandlingar  BN
+6\. Granskningshandlingar BN
+7\. Antagandehandlingar  BN
 
 BERÖRINGSPUNKTER
 Detaljplanen ligger intill planområdet för detaljplan för Åsa 5:246. Inom Åsa 5:246 ska en damm
@@ -22460,16 +22460,16 @@ Detaljplanen följer kommunens översiktsplan och fördjupad översiktsplan för
 med standardförfarande.
 
 Projektet kommer ha följande leveranser:
-1. Projektbeställning   SBK/KS
+1\. Projektbeställning   SBK/KS
 
-2. Projektplan          Forum för verksamhetschefer
-3. Plankostnadsavtal    SBK
+2\. Projektplan          Forum för verksamhetschefer
+3\. Plankostnadsavtal    SBK
 
-4. Principavtal         KS
-5. Samrådshandlingar    BN
+4\. Principavtal         KS
+5\. Samrådshandlingar    BN
 
-6. Granskningshandlingar BN
-7. Antagandehandlingar  BN
+6\. Granskningshandlingar BN
+7\. Antagandehandlingar  BN
 
 BERÖRINGSPUNKTER
 Detaljplanen ligger intill planområdet för detaljplan för Åsa 5:246. Inom Åsa 5:246 ska en damm
@@ -22844,7 +22844,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 521 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -22897,7 +22897,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        2 (15)
 
 <!-- sida 522 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -23023,7 +23023,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter ($$ 5—12)
+3\. Anläggningsavgifter (\$\$ 5—12)
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 &5
 
@@ -23242,7 +23242,7 @@ förelegat, ska tillkommande avgifter betalas enligt 88 5—7.
 8.2
 
 För servisledning som på fastighetsägarens begäran utförs senare än övriga
-servisledningar för fastigheten ska, utöver avgift enligt $8 5-7, en etableringsavgift
+servisledningar för fastigheten ska, utöver avgift enligt \$8 5-7, en etableringsavgift
 betalas om 5096 av servisavgiften för en ledning enligt 5.1 a och 6.1.
 Etableringsavgiften avses täcka huvudmannens merkostnader till följd av att arbetet
 inte utförs i samband med framdragning av övriga servisledningar.
@@ -23330,12 +23330,12 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        10 (15)
 
 813
 
-Avgifter enligt $8 5—6 är baserade på Entreprenadindex 2011, 5096 311 Jordarbeten
+Avgifter enligt \$8 5—6 är baserade på Entreprenadindex 2011, 5096 311 Jordarbeten
 (indextalen för 2015-01: 104,0,0) och 5096 322 Läggning av PVC-rör (indextalen för
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4.Brukningsavgifter ($8 14—21)
+4.Brukningsavgifter (\$8 14—21)
 814
 
 141
@@ -23495,7 +23495,7 @@ och avlopp, i beaktansvärd omfattning avviker från fastigheterna inom
 verksamhetsområdet i övrigt, ska enligt lagen om allmänna vattentjänster avgifter
 utgå enligt särskilt antagen särtaxa.
 
-Om det inte är skäligt att beräkna avgift enligt $$ 13—16 för viss fastighet får
+Om det inte är skäligt att beräkna avgift enligt \$\$ 13—16 för viss fastighet får
 huvudmannen, - exempelvis på grund av att avloppsvattnet från fastigheten
 innehåller föroreningshalter överstigande det normala hushållsspillvattnets, i stället
 komma överens med fastighetsägaren eller annan avgiftsskyldig om avgiftens
@@ -23540,7 +23540,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2026-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -23548,7 +23548,7 @@ Denna taxa träder i kraft 2026-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -23578,7 +23578,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 536 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -23631,7 +23631,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        2 (17)
 
 <!-- sida 537 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -23757,7 +23757,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter ($$ 5—12)
+3\. Anläggningsavgifter (\$\$ 5—12)
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 &5
 
@@ -23976,7 +23976,7 @@ förelegat, ska tillkommande avgifter betalas enligt 88 5—7.
 8.2
 
 För servisledning som på fastighetsägarens begäran utförs senare än övriga
-servisledningar för fastigheten ska, utöver avgift enligt $8 5-7, en etableringsavgift
+servisledningar för fastigheten ska, utöver avgift enligt \$8 5-7, en etableringsavgift
 betalas om 5096 av servisavgiften för en ledning enligt 5.1 a och 6.1.
 Etableringsavgiften avses täcka huvudmannens merkostnader till följd av att arbetet
 inte utförs i samband med framdragning av övriga servisledningar.
@@ -24064,12 +24064,12 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        10 (17)
 
 813
 
-Avgifter enligt $8 5—6 är baserade på Entreprenadindex 2011, 5096 311 Jordarbeten
+Avgifter enligt \$8 5—6 är baserade på Entreprenadindex 2011, 5096 311 Jordarbeten
 (indextalen för 2015-01: 104,0,0) och 5096 322 Läggning av PVC-rör (indextalen för
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4.Brukningsavgifter ($$ 14—21)
+4.Brukningsavgifter (\$\$ 14—21)
 814
 
 14.1
@@ -24337,7 +24337,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2026-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -24345,7 +24345,7 @@ Denna taxa träder i kraft 2026-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -24365,7 +24365,7 @@ Yrkande    angående      – VA-taxa    2026
 
 Förslag till beslut i Nämnden för Teknik:
 
-1. Nämnden för Teknik antar VA-taxa 2026 daterad 2025-08-29, att gälla från den 1
+1\. Nämnden för Teknik antar VA-taxa 2026 daterad 2025-08-29, att gälla från den 1
 januari 2026 och översänder den till kommunfullmäktige för fastställande, med
 följande ändringar:
 
@@ -24378,11 +24378,11 @@ Höjning av förbrukningsavgifterna: 11%
 
 ii. § 2.3 gränsen för små bostadsenheter (30 m2) kvarstår utan ändring.
 
-2. VA-taxan för 2025 beslutad av kommunfullmäktige 2025-05-06 § 91 upphör samtidigt
+2\. VA-taxan för 2025 beslutad av kommunfullmäktige 2025-05-06 § 91 upphör samtidigt
 att gälla. Nämnden för Teknik återför 33,658 Mkr från investeringsfonden för
 Hammargård till den ordinarie resultatfonden.
 
-3. Förvaltningen för Teknik får i uppdrag att utreda möjligheten till att inhämta
+3\. Förvaltningen för Teknik får i uppdrag att utreda möjligheten till att inhämta
 taxeringsuppgifter från Skatteverket avseende uthyrning av små bostadsenheter.
 
 Bakgrund
@@ -24685,14 +24685,14 @@ Nämnden för Teknik antar VA-taxa 2026 daterad 2025-08-29, att gälla från den
 januari 2026 och översänder den till kommunfullmäktige för fastställande, med
 Liberalerna, Moderaterna och Centerpartiets följande tilläggs- och ändringsyrkanden:
 
--  Uppräkningen av VA-taxan sker i enlighet med den simulerade balanseringen
+\-  Uppräkningen av VA-taxan sker i enlighet med den simulerade balanseringen
 av skulden till taxekollektivet på 10 år:
 Investeringsnivå: 350 mnkr/år
 
 Balansering av skulden till taxekollektivet: 10 år
 Höjning av förbrukningsavgifterna: 11%
 
--  § 2.3 gränsen för små bostadsenheter (30 m2) kvarstår utan ändring.
+\-  § 2.3 gränsen för små bostadsenheter (30 m2) kvarstår utan ändring.
 
 VA-taxan för 2025 beslutad av kommunfullmäktige 2025-05-06 § 91 upphör
 samtidigt att gälla.

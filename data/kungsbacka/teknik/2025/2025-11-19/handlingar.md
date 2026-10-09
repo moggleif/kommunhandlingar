@@ -18643,7 +18643,7 @@ Den första etappen planeras att starta år 2027, följt av en
 tabellen nedan. Summan är oklar och tillkommer innan
 etapp varje år fram till 2031.
 projektering.
-\______________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Sträckor och etapper
 I tabellen nedan redovisas hur mycket varje etapp
 Sträcka 1 –Etapp 1

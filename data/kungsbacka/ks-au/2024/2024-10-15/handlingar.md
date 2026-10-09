@@ -231,19 +231,19 @@ Det nya registret kommer att inkludera fler typer av insatser inom socialtjänst
 strikta regler för personuppgiftsbehandling för att skydda den personliga integriteten. Inom följande
 områden föreslås att aktörer ska vara skyldiga att lämna uppgifter:
 
-1. Barn och unga: Stöd och skydd, som familjehem och institutionsvård.
-2. Äldreomsorg: Tjänster för äldre, som hemtjänst och särskilt boende.
+1\. Barn och unga: Stöd och skydd, som familjehem och institutionsvård.
+2\. Äldreomsorg: Tjänster för äldre, som hemtjänst och särskilt boende.
 
 <!-- sida 7 -->
 
 KUNGSBACKA  KOMMUN
 4 (7)
 
-3. Funktionsnedsättning: Stöd för personer med funktionsnedsättning, som personlig assistans.
+3\. Funktionsnedsättning: Stöd för personer med funktionsnedsättning, som personlig assistans.
 
-4. Missbruksvård: Vård för personer med missbruksproblem, som öppenvård och stödboende.
+4\. Missbruksvård: Vård för personer med missbruksproblem, som öppenvård och stödboende.
 
-5. Ekonomiskt bistånd: Stöd för ekonomiskt utsatta, som försörjningsstöd.
+5\. Ekonomiskt bistånd: Stöd för ekonomiskt utsatta, som försörjningsstöd.
 Avsnitt 1.4 Förslag till socialtjänstdataregisterförordning
 
 Socialstyrelsen har hittills behandlat personuppgifter med stöd av den allmänna dataskyddsregleringen
@@ -278,18 +278,18 @@ med EU:s dataskyddsförordning i stort.
 8.2.7 Det ska finnas en uppgiftskatalog i förordning
 Utredaren föreslår att registret ska innehålla uppgifter om:
 
-1. personnummer eller samordningsnummer, kön, födelseår, folkbokföringsort och födelseort,
-2. utredningsåtgärd och beslut,
+1\. personnummer eller samordningsnummer, kön, födelseår, folkbokföringsort och födelseort,
+2\. utredningsåtgärd och beslut,
 
-3. insats och aktivitet,
-4. aktualisering, orsak till insats, avslutsorsak, och
+3\. insats och aktivitet,
+4\. aktualisering, orsak till insats, avslutsorsak, och
 
 <!-- sida 8 -->
 
 KUNGSBACKA  KOMMUN
 5 (7)
 
-5. uppgift av administrativ karaktär av betydelse för den utredning, prövning eller insats inom
+5\. uppgift av administrativ karaktär av betydelse för den utredning, prövning eller insats inom
 
 socialtjänsten som en person får.
 Om det är nödvändigt ska det i registret också få finnas uppgift om ställföreträdare för eller närstående
@@ -1853,17 +1853,17 @@ Solparksprojekt                Kungsbacka              Myra
 
 Innehåll
 
-1. Bakgrund .......................................................................................................... 2
+1\. Bakgrund .......................................................................................................... 2
 
 1.1 Bakgrund och syfte ....................................................................................................... 2
 1.2 Om Turn Energy AB ....................................................................................................... 2
 
-2. Val av plats ...................................................................................................... 3
+2\. Val av plats ...................................................................................................... 3
 
 2.1 Generella kriterier ......................................................................................................... 3
 2.2 Lokaliseringsutredning ................................................................................................ 4
 
-3. Utformning av parken .................................................................................. 8
+3\. Utformning av parken .................................................................................. 8
 
 3.1 Översikt ........................................................................................................................... 8
 3.2 Uppförande ................................................................................................................... 9
@@ -1876,7 +1876,7 @@ Innehåll
 3.3.3 Brand ......................................................................................................................... 15
 3.3.4 Återställning ............................................................................................................ 15
 
-4. Markförhållanden och skyddade områden ............................................ 16
+4\. Markförhållanden och skyddade områden ............................................ 16
 
 4.1 Nuvarande markanvändning ..................................................................................... 16
 4.2 Skyddade områden ................................................................................................... 17
@@ -1892,14 +1892,14 @@ Innehåll
 
 4.5 Barriäreffekter ............................................................................................................ 21
 
-5. Försiktighetsåtgärder ................................................................................ 21
-6. Referenser .................................................................................................... 22
+5\. Försiktighetsåtgärder ................................................................................ 21
+6\. Referenser .................................................................................................... 22
 
 1
 
 <!-- sida 47 -->
 
-1. Bakgrund
+1\. Bakgrund
 
 1.1 Bakgrund och syfte
 
@@ -1970,7 +1970,7 @@ kan vara ett sätt att säkerställa att exempelvis en lantbrukare kan fortsätt
 övriga verksamhet. Under parkens livslängd sker årliga avsättningar i en fond för
 återställning av marken efter parkens livslängd är slut och avveckling ska ske.
 
-2. Val av plats
+2\. Val av plats
 
 2.1 Generella kriterier
 
@@ -2186,7 +2186,7 @@ jordbruksmark som fortfarande kommer finnas kvar i området bedöms även
 påverkan på livsmedelsproduktionen som mycket liten. Solparkens placering syns i
 
 figur 1. Avståndet till fördelningsstationen fågelvägen är cirka 1,2 kilometer, se figur
-2. Solparkens placering inom fastigheten Kungsbacka Myra 3:18 bedöms vara det
+2\. Solparkens placering inom fastigheten Kungsbacka Myra 3:18 bedöms vara det
 bäst lämpliga alternativet och är både tekniskt och funktionellt möjlig att uppföra
 
 solparken på, samt ekonomiskt rimlig.
@@ -2201,7 +2201,7 @@ skiften).
 Figur 2. Översiktskarta med planerat anläggningsområde markerat i vitt och fördelningsstation markerad i blått
 på fastigheten Kungsbacka Hammerö 14:3. Avståndet fågelvägen är cirka 1,2 km.
 
-3. Utformning av parken
+3\. Utformning av parken
 
 3.1 Översikt
 
@@ -2290,7 +2290,7 @@ Metod för grundläggning baseras på rådande markförhållanden, mest troligt
 kommer panelerna uppföras på stativ som pålas/skruvas ned i marken med ett djup
 om 1,2 – 2 meter där ställningen för solcellsmodulerna kommer att placeras, se figur
 
-6. Efter en geologisk undersökning beslutas lämplig metod utifrån de geologiska
+6\. Efter en geologisk undersökning beslutas lämplig metod utifrån de geologiska
 förutsättningarna samt vind- och snölaster i området. För grundläggning och
 11
 
@@ -2399,7 +2399,7 @@ sker på motsatt sätt som uppmontering.
 
 Figur 10. Exempel på fårbete i Turn Energys solcellspark i Kalleberga.
 
-4. Markförhållanden och skyddade   områden
+4\. Markförhållanden och skyddade   områden
 
 4.1 Nuvarande markanvändning
 
@@ -2423,7 +2423,7 @@ Inga områden som omfattas av generellt biotopskydd så som stenmurar,
 
 åkerholmar eller diken finns inom anläggningsområdet. Det finns diken mellan ytan
 som vi planerar att anlägga parken inom och angränsande jordbruksmark, se figur
-12. Dessa diken är mycket smala och nu under sommartid ej vattenförande. Dikena
+12\. Dessa diken är mycket smala och nu under sommartid ej vattenförande. Dikena
 
 finns ej med som vattendrag på lantmäteriets kartor. De kan dock vara
 vattenförande under det vissa delar på året och eventuellt omfattas av generellt
@@ -2507,7 +2507,7 @@ tanke på parkens placering och storlek bedömer Turn Energy inte att det bör s
 några barriäreffekter för vilt och friluftsliv. Det är enkelt att passera området på
 befintliga allmänna vägar för allmänhet och genom närliggande marker för vilt.
 
-5. Försiktighetsåtgärder
+5\. Försiktighetsåtgärder
 
 Då inga specifika skyddade områden, naturmiljövärden eller kulturmiljövärden
 observerats inom anläggningsområdet eller närområdet görs inte heller några
@@ -2525,7 +2525,7 @@ tanke på väta och jordmån. Två till tre sandbäddar placeras ut för att ytt
 
 gynna vilda pollinatörer och insekter på lämpliga platser inom parken.
 
-6. Referenser
+6\. Referenser
 
 Artportalen, SLU Artdatabanken, https://www.artportalen.se/
 
@@ -2844,7 +2844,7 @@ framtida invånare och bidrar till kommunens långsiktiga välfärd och tillväx
 strategi som positionerar Kungsbacka som en framåtblickande och innovativ kommun.
 
 Mot bakgrund av ovan föreslår alliansen att:
--  Kommundirektören får i uppdrag att utreda möjligheten till etablering av ett
+\-  Kommundirektören får i uppdrag att utreda möjligheten till etablering av ett
 utvecklingscenter i kommunen. Utredningen ska belysa intressenter, placering och
 finansiering.
 

@@ -192,10 +192,10 @@ Kommunstyrelsens arbetsutskott godkänner förändring av ärendelista.
 Sammanfattning av ärendet
 
 Ordförande Lisa Andersson (M) anmäler två extra ärenden till dagens sammanträde:
-- Uppstart och etablering av frivillig resursgrupp (FRG) och avtal med frivilliga
+\- Uppstart och etablering av frivillig resursgrupp (FRG) och avtal med frivilliga
 
 försvarsorganisationer (FFO).
-- Flaggning med regnbågsflaggan under West Pride
+\- Flaggning med regnbågsflaggan under West Pride
 
 Ärendena läggs till först i dagordningen.
 Ledamoten Fredrik Hansson (C) anmäler ett extra ärende om ändring av
@@ -502,20 +502,20 @@ rättssäkerheten för sökanden. Kommuner föreslås inta en mer övervakande o
 kompletterande roll i systemet.
 
 Förslagen i utredningen avser i huvudsak:
-- Inrättande av en ny statlig miljöprövningsmyndighet med ansvar för
+\- Inrättande av en ny statlig miljöprövningsmyndighet med ansvar för
 tillståndsprövning enligt miljöbalken för miljöfarliga verksamheter och vissa
 vattenverksamheter.
 
-- I förslaget föreslås staten ta över tillståndsprövning för miljöfarliga verksamheter
+\- I förslaget föreslås staten ta över tillståndsprövning för miljöfarliga verksamheter
 och vissa vattenverksamheter. Kommuner föreslås behålla tillsynsansvar för
 verksamheter med lokal påverkan.
 
-- Kommuner ges en formell rådgivande roll i tillståndsprövningen och utökad rätt
+\- Kommuner ges en formell rådgivande roll i tillståndsprövningen och utökad rätt
 att överklaga tillståndsbeslut.
-- Den nya statliga miljöprövningsmyndigheten får befogenhet att framföra
+\- Den nya statliga miljöprövningsmyndigheten får befogenhet att framföra
 synpunkter på kommunal planläggning i frågor gällande miljöpåverkan.
 
-- Förenkling av miljöbedömningsprocessen och tydligare integrering av denna
+\- Förenkling av miljöbedömningsprocessen och tydligare integrering av denna
 process i prövningskedjan.
 
 Beslutsunderlag
@@ -587,26 +587,26 @@ system, där kommunernas roll och ansvar tydliggörs och samordnas bättre med
 statliga aktörer.
 Betänkandet innehåller bland annat följande förslag:
 
-- Personer som omfattas av etableringsprogrammet får rätt till ett
+\- Personer som omfattas av etableringsprogrammet får rätt till ett
 etableringsboende i upp till 36 månader. Det är en förlängning jämfört med
 dagens två år, och syftar till att ge bättre förutsättningar för en stabil etablering.
-- Boendet blir villkorat, vilket innebär att rätten kan upphöra i förtid om individen
+\- Boendet blir villkorat, vilket innebär att rätten kan upphöra i förtid om individen
 inte deltar i etableringsinsatser. Kommunerna får ansvar för att fatta beslut om
 
 detta, men ska också erbjuda stöd och vägledning innan ett sådant beslut fattas.
-- Kommunerna får större inflytande över mottagande och placering.
+\- Kommunerna får större inflytande över mottagande och placering.
 Migrationsverket ska vid anvisning ta hänsyn till lokala faktorer, såsom
 bostadsmarknadens förutsättningar och förekomsten av utanförskap. Syftet är att
 motverka att vissa områden belastas oproportionerligt mycket.
 
-- Kommunen ska ha ansvar för att informera nyanlända om deras rättigheter och
+\- Kommunen ska ha ansvar för att informera nyanlända om deras rättigheter och
 skyldigheter samt ge stöd i att hitta långsiktiga boendelösningar inför boendets
 avslut. Det betonas att stödet ska vara individanpassat.
 
-- Barnets bästa ska beaktas vid anvisning och jämställdhetsperspektivet ska
+\- Barnets bästa ska beaktas vid anvisning och jämställdhetsperspektivet ska
 integreras i planering och stöd. Det saknas dock bindande regler kring dessa
 aspekter.
-- Staten ska kompensera kommunerna via schablonersättning för vissa kostnader.
+\- Staten ska kompensera kommunerna via schablonersättning för vissa kostnader.
 Ersättningsnivåerna är förenklade och ska enligt förslaget utvärderas över tid.
 
 Det här dokumentet är digitalt signerat
@@ -1232,12 +1232,12 @@ Sammanfattning av ärendet
 Kommunstyrelsens arbetsutskott får information om den utredning om handeln i
 Kungsbacka som har tagits fram. Rapporten berör:
 
-- status för handelssektorn i Kungsbacka idag
-- omvärldsbevakning med beskrivning av vilka handelstrenderna är, vad de
+\- status för handelssektorn i Kungsbacka idag
+\- omvärldsbevakning med beskrivning av vilka handelstrenderna är, vad de
 innebär och hur de påverkar Kungsbacka kommun, samt hur Kungsbacka
 behöver ta höjd för trenderna i planeringen.
 
-- möjligheter framåt och hur kommunen ska växa och ge ett tydligt
+\- möjligheter framåt och hur kommunen ska växa och ge ett tydligt
 investeringsperspektiv för respektive delområde/ort.
 De orter som belyses i utredningen är Kungsbacka stad och stationsorterna Hede,
 

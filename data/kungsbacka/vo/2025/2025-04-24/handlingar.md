@@ -2856,7 +2856,7 @@ Sammanfattande bedömningar utifrån revisionsfrågor
 2024-09-23
 
 Marie Lindblad                   Louise Tornhagen
-\___________________________      ___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kvalitetssäkrare                 Projektledare
 

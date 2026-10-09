@@ -166,7 +166,7 @@ Kommunen har rätt att ta ut avgifter för avfallshantering enligt miljöbalken.
 ska beslutas av kommunfullmäktige och får inte överstiga kostnaderna för
 infrastruktur, planering, drift och kapital. Över- eller underskott ska jämnas ut över
 en period om 3 till 10 år enligt kommunens ekonomistyrprinciper i Kommunbudget
-2026.
+2026\.
 
 Nämnden för Teknik föreslår en höjning av avfallstaxan med 7 procent för 2026 för
 att återställa ett underskott i fonden.
@@ -268,7 +268,7 @@ godkännande i kommunfullmäktige.
 Projektet kostnadsförs på årets resultat och finansieras av kommunens
 finansverksamhet. Kommunfullmäktige minskar nämnden för Tekniks driftram 2025
 med motsvarande belopp. Projektets budget är 3,2 miljoner kronor i prisnivå juli
-2025. Nämnden för Teknik hanterar eventuella avvikelser mot projektets budget
+2025\. Nämnden för Teknik hanterar eventuella avvikelser mot projektets budget
 inom ordinarie driftram.
 
 Enligt ekonomistyrprinciperna i Kommunbudget 2025 ska kommunfullmäktige
@@ -873,12 +873,12 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Biträdande kommundirektör Anders Johansson informerar om:
--  Dataintrång hos Miljödata- Ett drygt 15-tal personer har ställt krav om
+\-  Dataintrång hos Miljödata- Ett drygt 15-tal personer har ställt krav om
 
 skadestånd, Kommunstyrelsens förvaltning söker vägledning från SKR i syfte
 att kommunsverige ska tolka lagstiftningen på samma sätt. De system som
 drabbades av dataintrång, är igång och används igen.
--  Beredskapsveckan- Årets Beredskapsvecka hade temat ”Du är en del av
+\-  Beredskapsveckan- Årets Beredskapsvecka hade temat ”Du är en del av
 Sveriges totalförsvar”. I Kungsbacka arrangerades veckan i samarbete mellan
 flera förvaltningar, civilsamhället och frivilligorganisationer. Bland
 
@@ -898,16 +898,16 @@ mellan kommun, myndigheter, frivilligkrafter och invånare – med syftet
 att stärka Kungsbackas beredskap.
 
 Samhällsbyggnadschef Lovisa Eld informerar om:
--  JM är överens med Riksbyggen om att köpa en del av Riksbyggens del i
+\-  JM är överens med Riksbyggen om att köpa en del av Riksbyggens del i
 kvarteret Gjutaren och Liljan. Överenskommelsen föranleder att
 kommunstyrelsens arbetsutskott kommer att behandla ett ärende om
 
 överlåtandeavtal.
--  slutrapport för Utvecklingscenter kommer sannolikt inte komma innan
+\-  slutrapport för Utvecklingscenter kommer sannolikt inte komma innan
 årsskiftet. Anledningen är bland annat de workshops som ska genomföras i
 slutet av året och deras påverkan på rapporten.
 
--  Fastighetsägaren till marken vid bussvändslingan vid Klaraplan har i brev
+\-  Fastighetsägaren till marken vid bussvändslingan vid Klaraplan har i brev
 krävt att marken ska vara återställd senast 31 december. Kommunstyrelsens
 förvaltning återkommer i frågan om hur bussvändplats ska lösas.
 
@@ -922,13 +922,13 @@ Kommunstyrelsens arbetsutskott
 Datum
 2025-09-30
 
--  Nationell transportinfrastrukturplan presenteras idag av Trafikverket.
+\-  Nationell transportinfrastrukturplan presenteras idag av Trafikverket.
 Kommunstyrelsens förvaltning har ännu inte satt sig in i innehållet.
 Kommundirektör Rickard Vidlund informerar om:
 
--  SKR:s näringslivsranking har presenterats och Kungsbacka har tappat i
+\-  SKR:s näringslivsranking har presenterats och Kungsbacka har tappat i
 placering.
--  Arbetsutskottet kommer att få en inbjudan på e-post till invigningsfika när
+\-  Arbetsutskottet kommer att få en inbjudan på e-post till invigningsfika när
 
 café Nyfiket startar upp en ny verksamhet.
 

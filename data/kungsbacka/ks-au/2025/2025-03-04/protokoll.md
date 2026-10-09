@@ -241,7 +241,7 @@ bebyggelse. Ansökan omfattar möjliggörande av 12-18 lägenheter inom befintli
 byggnader.
 
 Fastigheten är belägen inom detaljplan OP178 som fick laga kraft den 18 februari
-2013. Genomförandetiden löpte ut den 19 februari 2023. Den aktuella fastigheten är i
+2013\. Genomförandetiden löpte ut den 19 februari 2023. Den aktuella fastigheten är i
 plankartan redovisad som kvartersmark för hotell och konferensanläggning samt har
 skyddsbestämmelser för både exteriör av byggnader samt den parkliknande
 trädgården.

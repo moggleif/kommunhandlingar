@@ -452,21 +452,21 @@ Taxa för sotning och rengöring samt frister för sotning och rengöring
 2026
 
 Förslag till beslut i kommunfullmäktige
-1. Kommunfullmäktige antar Taxa för sotning och rengöring, i enlighet med bilaga 1,
+1\. Kommunfullmäktige antar Taxa för sotning och rengöring, i enlighet med bilaga 1,
 med stöd av 3 kap. 6 § lag om skydd mot olyckor
 
-2. Kommunfullmäktige antar Frister sotning och rengöring, i enlighet med bilaga 2,
+2\. Kommunfullmäktige antar Frister sotning och rengöring, i enlighet med bilaga 2,
 med stöd av
 3 kap. 1 § förordning om skydd mot olyckor
 
-4. Taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2027 för
+4\. Taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2027 för
 Kungsbacka kommun, med den justering som sker enligt beslutspunkt 8.
-6. Fristerna enligt beslutspunkt 2 gäller från och med den 1 september 2026 för
+6\. Fristerna enligt beslutspunkt 2 gäller från och med den 1 september 2026 för
 
 Kungsbacka kommun.
-7. Taxans basår är 2024.
+7\. Taxans basår är 2024.
 
-8. Räddningstjänstförbundet Storgöteborg ska för varje avgiftsår justera taxan i
+8\. Räddningstjänstförbundet Storgöteborg ska för varje avgiftsår justera taxan i
 beslutspunkt 1 enligt följande. Taxan revideras årligen enligt Sotningsindex den 1
 april 2025 och 1 april 2026. Från och med den 1 januari 2027 ska taxan justeras i
 enlighet med Prisindex för Kommunal Verksamhet (PKV), som meddelas av
@@ -511,7 +511,7 @@ Göteborg, Mölndal, Kungsbacka, Härryda, Lerum och Partille upplevs enkel och
 tydlig i sin konstruktion. Taxans konstruktion lämnas därmed oförändrad.
 
 Sveriges Kommuner och Regioner (SKR) har meddelat att sotningsindex upphör år
-2029. Rekommendationen från SKR är att Prisindex för Kommunal Verksamhet
+2029\. Rekommendationen från SKR är att Prisindex för Kommunal Verksamhet
 (PKV) används för justering av sotningstaxor. RSG väljer därmed att tillämpa
 indexjustering enligt PKV, från och med 2027.
 Aktuellt ärende innebär vidare att beslut om frister för sotning och rengöring ska
@@ -795,11 +795,11 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Rickard Vidlund lämnar information om:
-- Planering av arbetsutskottets sammanträde den 10 juni då även tiden kl. 13:00-
+\- Planering av arbetsutskottets sammanträde den 10 juni då även tiden kl. 13:00-
 
 15:00 kommer att tas i anspråk för att ge plats för ytterligare ett antal
 informationer.
-- Planeringen av agendan till dialogen med regionstyrelsens arbetsutskott den 3
+\- Planeringen av agendan till dialogen med regionstyrelsens arbetsutskott den 3
 juni.
 
 Beslutsgång

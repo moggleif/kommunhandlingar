@@ -8582,7 +8582,7 @@ m.fl. i Frillesås genom beslut som vinner laga kraft.
 Parterna har inte träffat någon överenskommelse eller åtagit sig någon
 förpliktelse utöver vad som ovan angetts.
 
-\____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 2(4)
 
@@ -8597,18 +8597,18 @@ Datum 2025-10-                       Datum 2025-10-
 För Kungsbacka kommun                För Rågelundsfastigheten AB
 Frillesås-Rya 2:36                   Rågelund 1:127 (999/1000)
 
-\_________________________            _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_            \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Susanne Calming
 
-\_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Datum 2025-10-
 För Frillesås Rågelund 2 AB
 Rågelund 1:127 (1/1000)
 
-\_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 3(4)
 
@@ -8707,7 +8707,7 @@ m.fl. i Frillesås genom beslut som vinner laga kraft.
 Parterna har inte träffat någon överenskommelse eller åtagit sig någon
 förpliktelse utöver vad som ovan angetts.
 
-\____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i tre likalydande exemplar varav parterna tagit ett vardera samt
 
@@ -8717,10 +8717,10 @@ Datum 2025-10                        Datum 2025-10-
 För Kungsbacka kommun                För Frillesås Projektutv AB.
 Frillesås-Rya 2:36                   Sintorp 4:260 och 4:261
 
-\_________________________            _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_            \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Susanne Calming
 
-\_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 2(3)
 
@@ -8817,7 +8817,7 @@ m.fl. i Frillesås genom beslut som vinner laga kraft.
 Parterna har inte träffat någon överenskommelse eller åtagit sig någon
 förpliktelse utöver vad som ovan angetts.
 
-\____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i tre likalydande exemplar varav parterna tagit ett vardera samt
 ett som bifogas ansökan om lantmäteriförrättning.
@@ -8826,10 +8826,10 @@ Datum 2025-10-                       Datum 2025-10-
 För Kungsbacka kommun                För Frillesås Projektutv. AB
 Frillesås-Rya 2:36                   Sintorp 2:461
 
-\_________________________            _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_            \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Susanne Calming
 
-\_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 2(2)
 

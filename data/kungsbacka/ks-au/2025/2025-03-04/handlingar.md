@@ -340,16 +340,16 @@ INLEDNING
 
 Året       i  korthet
 
-+   286
+\+   286
 mnkr
-+   898
+\+   898
 Resultat för
 mnkr
 Kungsbacka kommun
 Investeringar för koncernen
 Kungsbacka kommun
 
-+   334
+\+   334
 mnkr
 
 Resultat för koncernen
@@ -464,11 +464,11 @@ Gottskärs Hemtjänst AB
 Byggnadsnämnd  Förskola & Grundskola             Olivia Hemtjänst AB
 Vardaga Äldreomsorg AB
 Nämnd för hemsjukvård
-Överförmyndarnämnd* Patientnämnd**
-och hjälpmedel***
-* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Mölndals kommun är värdkommun.
-** Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
-*** N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
+Överförmyndarnämnd\* Patientnämnd\*\*
+och hjälpmedel\*\*\*
+\* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner. Mölndals kommun är värdkommun.
+\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
+\*\*\* N ämnd för hemsjukvård och hjälpmedel är gemensam för Hallands län. Region Halland är värdkommun.
 
 8  Kungsbacka kommuns årsredovisning 2024
 
@@ -887,7 +887,7 @@ kommunen. Sammantaget består kommunens pensions­ beror på politiska beslut p�
 kostnader av två olika delar, en avgiftsbestämd kostnad kommun får årligen skatteintäkter och generella
 och en förmånsbaserad pension som delas upp i vad som statsbidrag på cirka sex miljarder kronor. Även en mindre
 tjänats in från och med 1998 och vad som tjänats in före procentuell avvikelse får därför stort genomslag.
-1998. Det nya pensionsavtalet AKAP­KR som gäller från
+1998\. Det nya pensionsavtalet AKAP­KR som gäller från
 2023 är ett steg i övergången till ett mer avgiftsfinansierat
 pensionssystem, vilket över tid kommer att ge kommu­
 nerna en pensionskostnad som är lättare att förutse.
@@ -1230,7 +1230,7 @@ fyra ekonomiska perspektiv: det finansiella resultatet,
 kapacitetsutvecklingen, riskförhållanden och kontrollen Miljoner kronor 2020 20211 20221 2023 2024
 över den finansiella utvecklingen. Målsättningen är att Kommunkoncernen 512 530 822 291 334
 utifrån dessa perspektiv upptäcka finansiella möjligheter
-1) 2021 års jämförelsetal är justerade med anledning av ändrad
+1\) 2021 års jämförelsetal är justerade med anledning av ändrad
 och problem.                       redovisningsprincip avseende investeringsbidrag år 2019. Jämfö-
 relsetalen för 2021 och 2022 är justerade på grund av ändrad
 redovisningsprincip för finansiell leasing.
@@ -1311,7 +1311,7 @@ har nämnderna sammantaget ett positivt resultat.
 nettokostnader inkl
 finansiella poster (%)
 0                          0,0%
-2020 2021 2022 2023 2024       * 2021 års jämförelsetal är justerade med anledning av ändrad
+2020 2021 2022 2023 2024       \* 2021 års jämförelsetal är justerade med anledning av ändrad
 Årets resultat                 redovisningsprincip avseende investeringsbidrag år 2019. Jämförel-
 Strukturellt resultat          setalen för 2021 och 2022 är justerade på grund av ändrad redovis-
 ningsprincip för finansiell leasing.
@@ -1321,7 +1321,7 @@ Om man tar bort posterna för exploatering och deponi, och generella statsbidrag
 får man det strukturella resultatet för kommunens med 2,3 procent. Skatteintäkterna ökade med cirka
 ordinarie verksamhet. Det strukturella resultatet för året två procent och statsbidragen med knappt sex procent.
 var 211 miljoner kronor att jämföra med 276 miljoner Skatteintäkterna ökade inte lika mycket som tidigare år.
-2023. Det är viktigt att analysera det strukturella Förklaringen är bland annat att arbetsmarknaden mattats
+2023\. Det är viktigt att analysera det strukturella Förklaringen är bland annat att arbetsmarknaden mattats
 resultatet över tid och se hur det utvecklas i förhållande av något jämfört med åren innan, på grund av rådande
 till skatteintäkter och generella statsbidrag. Det struk­ lågkonjunktur.
 turella resultatet i förhållande till skatter och generella
@@ -1371,7 +1371,7 @@ koncernen, netto-
 Självfinansieringsgrad (%)
 investeringar1
 Sjävfinansieringsgrad snitt 2022-2026 (%)
-1) Inklusive finansiella investeringar och exklusive finansiell leasing
+1\) Inklusive finansiella investeringar och exklusive finansiell leasing
 Självfinansieringsgraden av årets nettoinvesteringar var
 Under året investerade kommunkoncernen för cirka 0,9 92 procent, vilket är en ökning jämfört med föregående
 miljarder kronor, varav kommunen stod för 0,8 miljarder år på grund av minskad investeringsnivå och högre
@@ -1395,7 +1395,7 @@ Den senaste femårsperioden har kommunen i genomsnitt risk.
 investerat för 925 miljoner kronor per år. Årets investe­
 ringar fördelat per invånare motsvarar 9 465 kronor per
 invånare, en minskning med 17 procent jämfört med
-2023. Årets investeringar fördelat per invånare motsvarar
+2023\. Årets investeringar fördelat per invånare motsvarar
 9 465 kronor per invånare, jämfört med 11 460 kronor
 år 2023. Kommunen planerar för ännu högre investe­
 ringsnivåer framöver. Ökad låneskuld och högre räntor
@@ -1434,7 +1434,7 @@ Soliditet enligt 35,2 36,6 37,3 40,7 42,1 Likviditetsmått visar kommunens förm
 blandmodellen
 kortfristiga skulder. Om likviditeten fortsätter att vara
 oförändrad eller ökar och soliditeten samtidigt inte blir
-* 2021 års jämförelsetal är justerade med anledning av ändrad redo-
+\* 2021 års jämförelsetal är justerade med anledning av ändrad redo-
 visningsprincip avseende investeringsbidrag år 2019. Jämförelsetalen sämre, innebär det att vi stärker kommunens ekonomi.
 för 2021 och 2022 är justerade på grund av ändrad redovisnings-
 princip för finansiell leasing.   Vid slutet av 2024 var kassalikviditeten 99,5 procent,
@@ -1515,7 +1515,7 @@ Låneskulden till kreditinstitut har successivt minskat rande poster/
 för både koncernen och kommunen under de senaste verksamhetens
 fem åren. Den minskade låneskulden innebär att vi har kostnader (%) 1
 stärkt koncernens finansiella ställning. Låneskulden är
-1) Årets budgeterade resultat på 14 miljoner plus beräknade resultat
+1\) Årets budgeterade resultat på 14 miljoner plus beräknade resultat
 fortfarande en finansiell risk. Dels utifrån att vi planerar från exploateringsverksamheten i kassaflödesbudget om 301 miljoner.
 stora investeringar under kommande år, dels på grund
 av förväntat högre räntenivåer vid nyupplåning eller
@@ -1758,22 +1758,22 @@ vara en signal om en vändning på bostadsmarknaden. Den upplevda tryggheten i s
 
 Målsättning
 Indikator                            2021  2022  2023  2024    2024
-Bäst att leva, Kungsbackas placering i ranking av Sveriges - * - * - * 84 < 20 **
+Bäst att leva, Kungsbackas placering i ranking av Sveriges - \* - \* - \* 84 < 20 \*\*
 kommuner enligt tidningen Fokus1
 Antal påbörjade bostäder              216   848   165   213     Öka
 Antal färdigställda bostäder          430   363   319   324     Öka
-Anmälda brott mot brottsbalken per invånare, 5 321 5 691 6 475 **** Minska
+Anmälda brott mot brottsbalken per invånare, 5 321 5 691 6 475 \*\*\*\* Minska
 antal/100 000 invånare (Brottsförebyggande rådet, BRÅ)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn - *** 90 % 91 % 88 % Öka
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn - *** 74 % 76 % 76 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn - \*\*\* 90 % 91 % 88 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn - \*\*\* 74 % 76 % 76 % Öka
 (Kolada)
-Brukarbedömning individ- och familjeomsorg, totalt - *** 88 % - *** 95 % Öka
+Brukarbedömning individ- och familjeomsorg, totalt - \*\*\* 88 % - \*\*\* 95 % Öka
 – helhetssyn (Kolada)2
 
-*) Rankingen hade ett uppehåll under 2022 och analysmodellen gjordes om år 2023. Därmed blir tidigare års resultat inte jämförbara.
-* *) Målsättningen gjordes när den gamla analysmodellen för Bäst att leva var gällande.
-* * *) Brukarbedömning har inte gjorts det här året.
-* * * *) Ännu ej publicerad
+\*) Rankingen hade ett uppehåll under 2022 och analysmodellen gjordes om år 2023. Därmed blir tidigare års resultat inte jämförbara.
+\* \*) Målsättningen gjordes när den gamla analysmodellen för Bäst att leva var gällande.
+\* \* \*) Brukarbedömning har inte gjorts det här året.
+\* \* \* \*) Ännu ej publicerad
 
 Kungsbacka kommuns årsredovisning 2024 33
 
@@ -1917,13 +1917,13 @@ stress.
 
 Målsättning
 Indikator                         2021   2022    2023   2024   2024
-Energiförbrukning i kommunens lokaler, KWh per kva- 165 157 154 *** Minska
+Energiförbrukning i kommunens lokaler, KWh per kva- 165 157 154 \*\*\* Minska
 dratmeter
-Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/ 2,48 2,27 * * Minska
+Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/ 2,48 2,27 \* \* Minska
 inv (Kolada)
-Miljöbilar, andel av totalt antal bilar i det geografiska ** ** ** ** Öka
+Miljöbilar, andel av totalt antal bilar i det geografiska \*\* \*\* \*\* \*\* Öka
 området (Kolada)
-Slutanvändning av el inom det geografiska området, 8 7 *  * Oförändrad
+Slutanvändning av el inom det geografiska området, 8 7 \*  \* Oförändrad
 MWh/inv (Kolada)
 Matens klimatpåverkan från de offentliga måltiderna 1,82 1,86 1,69 1,85 Minska
 ska minska räknat i kg CO2-ekv/kg livsmedel. Målsätt-
@@ -1932,25 +1932,25 @@ Antal kemiska produkter med utfasningsämnen, 124 113 115 151  Minska
 inklusive hormonstörande ämnen på SIN-listan ska
 minska i kommunens verksamheter. 2021 var antalet
 124 (KEMgroup PRO)
-Avfall från hushåll ska minska med 30 % per invånare 105 103 92 * Minska
+Avfall från hushåll ska minska med 30 % per invånare 105 103 92 \* Minska
 från 2020 till 2030. Startvärde 100, målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska minska med 98 115 223 * Minska
+Avfall från kommunens verksamheter ska minska med 98 115 223 \* Minska
 40 % per heltidsanställd. Startvärde 100, målvärde
 2030 är 60.
-Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig * Öka
-Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 %    *     Öka
-Vattendrag med god ekologisk status, andel (Kolada) 18,5 % 18,5 % * * Öka
-Ungas hälsa i årskurs 4 och 8 – Flickor. Åk 4: 88%, Åk 4: 88% Åk 4: 85% * Öka
+Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig \* Öka
+Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 %    \*     Öka
+Vattendrag med god ekologisk status, andel (Kolada) 18,5 % 18,5 % \* \* Öka
+Ungas hälsa i årskurs 4 och 8 – Flickor. Åk 4: 88%, Åk 4: 88% Åk 4: 85% \* Öka
 (Elevhälsan i Kungsbacka utvecklar metod utifrån Åk 8: 77%, Åk 8: 72% Åk 8: 79%
 hälsosamtal med elever)       Åk 1 gymna- Åk 1 gymna- Åk 1 gymna-
 siet: 68% siet: 65% siet: 73%
-Ungas hälsa i årskurs 4 och 8 – Pojkar. Åk 4: 93% Åk 4: 90% Åk 4: 91% * Öka
+Ungas hälsa i årskurs 4 och 8 – Pojkar. Åk 4: 93% Åk 4: 90% Åk 4: 91% \* Öka
 (Elevhälsan i Kungsbacka utvecklar metod utifrån Åk 8: 92% Åk 8: 93% Åk 8: 92%
 hälsosamtal med elever)       Åk 1 gymna- Åk 1 gymna- Åk 1 gymna-
 siet: 88% siet: 85% siet: 86 %
-*) Ännu ej publicerad.
-**) Nyckeltalet har tagits bort från Kolada.
-***) Pga byte av Fastighetsdatasystem finns i dagsläget inget nyckeltal att tillgå för 2024.
+\*) Ännu ej publicerad.
+\*\*) Nyckeltalet har tagits bort från Kolada.
+\*\*\*) Pga byte av Fastighetsdatasystem finns i dagsläget inget nyckeltal att tillgå för 2024.
 Kungsbacka kommuns årsredovisning 2024 37
 
 <!-- sida 44 -->
@@ -2021,7 +2021,7 @@ FÖRVALTNINGSBERÄTTELSE
 
 Målsättning
 Indikator                             2021  2022  2023  2024   2024
-Insikt, SKR:s servicemätning av kommunernas myndighetsutöv- 66 70 67 * Öka
+Insikt, SKR:s servicemätning av kommunernas myndighetsutöv- 66 70 67 \* Öka
 ning till företag. Nöjd kund-index utifrån sammanvägt betygs-
 index 0–100, för hur företag i kommunen bedömer Kungsbacka
 kommuns myndighetsutövning, vilken är en viktig del av före-
@@ -2029,12 +2029,12 @@ tagsklimatet.
 Svenskt näringslivs attitydundersökning av kommuners före- 3,5 3,4 3,4 3,8 Öka
 tagsklimat. Medelvärde utifrån skala 1–6, där företag bedömer
 företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal      27 384 28 485 28 586 *     Öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 5,1 % 4,9 % 4,9 % * 5,0 %
-Företagsamhet, andel av invånare 16–74 år 18 % 18 % 19 %  *     Öka
-Antal nystartade företag per 1 000 invånare 16–64 år (etable- 13,8 12,8 10,3 % * Öka
+Sysselsatt dagbefolkning, antal      27 384 28 485 28 586 \*     Öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen 5,1 % 4,9 % 4,9 % \* 5,0 %
+Företagsamhet, andel av invånare 16–74 år 18 % 18 % 19 %  \*     Öka
+Antal nystartade företag per 1 000 invånare 16–64 år (etable- 13,8 12,8 10,3 % \* Öka
 ringsfrekvens)
-*) Ännu ej publicerad.
+\*) Ännu ej publicerad.
 
 Kungsbacka Business Boost är ett event där lokala
 företagare kan mötas och inspireras.
@@ -2115,14 +2115,14 @@ utgörs av summan av de 17 bästa betygen i elevens slutbetyg och
 kan max vara 340. (Kolada)
 Genomsnittlig betygspoäng för gymnasiets avgångselevers betygs- 14,2 14,5 14,3 14,0 Öka
 poäng som kan vara max 20. (Kolada)
-Självkänsla och framtidstro för gymnasieelever år 2, index med 7,8 ** ** ** Öka
+Självkänsla och framtidstro för gymnasieelever år 2, index med 7,8 \*\* \*\* \*\* Öka
 skala 0–10 enligt Skolinspektionens skolenkät.
-Arbetslöshet 16–24 år i kommunen, procent (Kolada) 2,6 1,7 1,7 * Minska
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 414 376 325 *
+Arbetslöshet 16–24 år i kommunen, procent (Kolada) 2,6 1,7 1,7 \* Minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 414 376 325 \*
 Andel vuxna personer som inte återkommer till försörjningsstöd 67 69 73 75 Öka
 inom ett år efter avslutat försörjningsstöd, procent (Kolada)
-*) Ännu ej publicerad
-**) Frågan finns inte längre med i skolenkäten
+\*) Ännu ej publicerad
+\*\*) Frågan finns inte längre med i skolenkäten
 
 Betygen i grundskolan ökade något
 jämfört med föregående år.
@@ -2211,13 +2211,13 @@ Indikator                             2021 2022  2023  2024    2024
 Hållbart medarbetarengagemang, ett index för medarbetarnas 78 78 76 75 Öka
 samlade uppfattning om områdena motivation, ledarskap och
 styrning, skala 1–100 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix 103 114 122 ** Öka
+Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix 103 114 122 \*\* Öka
 beräknas utifrån nio nyckeltal med skala 1–20 och visar hur
 jämställda arbetsvillkor, arbetsmiljö och anställningsvillkor är i
 organisationen.
-*Från och med 2023 får alla anställda undersökningen, till skillnad från tidigare då endast ett urval av medarbetare fick den.
+\*Från och med 2023 får alla anställda undersökningen, till skillnad från tidigare då endast ett urval av medarbetare fick den.
 Därför är inte siffrorna från 2021–2022 helt jämförbara med 2023–2024.
-**) Ännu ej publicerad
+\*\*) Ännu ej publicerad
 
 Arbetet med artificiell
 intelligens, AI, har tagit fart
@@ -2315,10 +2315,10 @@ projekt.                          har delat med sig erfarenheter av arbetet på 
 studiebesök och genom kontakter från andra kommuner.
 Målsättning
 Indikator                                  2023  2024    2024
-Andel innovationsprojekt som drivits under året -  *     Öka
-Andel av bruttokostnaden som avsätts för verksamhetsutveckling och - * Öka
+Andel innovationsprojekt som drivits under året -  \*     Öka
+Andel av bruttokostnaden som avsätts för verksamhetsutveckling och - \* Öka
 innovation
-*) Mättalet har varit svårt att få fram då underlag saknas.
+\*) Mättalet har varit svårt att få fram då underlag saknas.
 
 På w ww.kungsbacka.se/innovation
 delar vi med oss av goda exempel.
@@ -2978,7 +2978,7 @@ Not 1 Redovisningsprinciper       Skatteintäkter
 Kungsbacka kommun följer lagen om kommunal Redovisade skatteintäkter utgörs av årets preliminära
 bokföring och redovisning, LKBR (2018:597) med skatteinbetalningar, prognostiserad slutavräkning
 undantag för redovisning av pensioner intjänade före för redovisningsåret samt en justering av föregående
-1998. Kommunen följer även, om inte annat anges, de bokslutsårs skatteintäkter. Den preliminära slutav­
+1998\. Kommunen följer även, om inte annat anges, de bokslutsårs skatteintäkter. Den preliminära slutav­
 rekommendationer som Rådet för kommunal redovisning räkningen för skatteintäkter är baserad på Sveriges
 (RKR) lämnar samt övrig redovisningspraxis. kommuner och regioners, SKR, decemberprognos i
 enlighet med Rådet för kommunal redovisnings rekom­
@@ -3200,7 +3200,7 @@ Summa generella statsbi-                Summa jämförelsestörande
 drag och utjämning 319,0 337,4 319,0 337,4 poster          -51,9 75,0 -51,9 75,0
 Övriga upplysningar                     Övriga upplysningar
 Under 2023 redovisas realisationsvinster från exploateringsverksamheten
-1) Övriga generella statsbidrag: minskad andel timanställda inom vård och
+1\) Övriga generella statsbidrag: minskad andel timanställda inom vård och
 samt exploateringsersättningar som jämförelsestörande poster samt ökning av
 omsorg 0 (35) mnkr, ökad bemanning av sjuksköterskor på särskilda boenden
 avsättning för deponi Barnamossen.
@@ -3265,7 +3265,7 @@ Försäljningar       0,0  -1,1 -4,5  -5,4 Försäljningar     -1,1  -0,1 -1,4  
 Utrangeringar      -8,8 -51,5 -10,0 -58,8 Utrangeringar    -13,6 -75,2 -14,4 -75,6
 Överföringar       21,7  29,1 15,2 29,1 Överföringar        0,1  18,7  1,5  23,6
 Utgående anskaffningsvärde 13 514,2 14 195,1 17 691,2 18 392,2 Utgående anskaffningsvärde 2 044,6 2 097,7 2 086,4 2 145,6
-- Varav Pågående investe-
+\- Varav Pågående investe-
 varav pågående investeringar 0,0 3,0
 ringar            264,1 506,5
 Ingående ackumulerade
@@ -3637,7 +3637,7 @@ avtalet. Projektet förväntas vara färdigt under 2025.
 ningstid exklusive derivat 1,2 2,2 2,2 2,3
 6 Bidrag till Trafikverket avser cirkulationsplats i Frillesås Rya. Avtal tecknades
 år 2022. Bidraget är indexjusterat år 2023 och år 2024. Projektet pågår till år Långfristig leasingskuld
-2028.
+2028\.
 7 Bidrag till Trafikverket avser cirkulationsplats i Må. Avtal tecknades år 2018. Ingående leasingskuld 1 655,0 1 605,0 423,6 420,0
 Må cirkulation avslutades 2023.
 8 Avtal avser Må vänstersväng och tecknades 2018. Bidraget är indexuppräknat Årets amortering -77,9 -79,0 -31,6 -31,2
@@ -4000,7 +4000,7 @@ Kungsbacka kommuns årsredovisning 2024 73
 | Individ & Familjeomsorg | 1,3 | 2,7 | 1,4 | 51,3% |
 | Vård & Omsorg | 5,6 | 19,0 | 13,4 | 70,6% |
 | Finansiering lokalplan | - | 158,8 | 158,8 | 100,0% |
-| Exploateringsverksamhet * (Anläggningstillgångar) | 75,6 | 90,6 | 15,0 | 16,6% |
+| Exploateringsverksamhet \* (Anläggningstillgångar) | 75,6 | 90,6 | 15,0 | 16,6% |
 | Summa skattefinansierad verksamhet | 435,3 | 879,6 | 444,3 |  |
 | Teknik Vatten & Avlopp | 336,3 | 586,6 | 250,4 | 42,7% |
 | Avfall & Återvinning | 2,0 | 37,5 | 35,6 | 94,7% |
@@ -4041,7 +4041,7 @@ järnvägen vid Inlag och på så sätt skapa yta för gång och tillfälliga l�
 cykel jämte körfält för motorfordon. Projektet befinner
 Investeringar i avgiftsfinansierad verksamhet
 sig i projekteringsskedet och byggstarten är planerad till
-2026.                             De avgiftsfinansierade nettoinvesteringarna visar på en
+2026\.                             De avgiftsfinansierade nettoinvesteringarna visar på en
 avvikelse på 187,4 miljoner kronor jämfört med budget.
 Service
 Budgetavvikelsen hos Service beror främst på att projekt
@@ -4568,7 +4568,7 @@ Kommentar till budgetavvikelse helår 2024
 Årets resultat är ett underskott på 10,3 miljoner kronor, att jämföra med ett budgeterat resultat på - 0,7 miljoner
 kronor. Årets avvikelse är därmed -9,6 miljoner kronor.
 Intäkterna är 8,4 miljoner kronor lägre jämfört med budget. Brukningsavgifterna höjdes med 5 procent inför
-2024. Kostnaderna är 2,1 miljoner kronor högre än budget.
+2024\. Kostnaderna är 2,1 miljoner kronor högre än budget.
 
 Kommentar och analys inför framtiden
 På kort sikt kommer vi att belastas med ökade försäkringskostnader på grund av flertalet kraftiga skyfall som
@@ -4873,7 +4873,7 @@ Den 2 november 2023 beslutade regeringen att ge en särskild utredare i uppdrag 
 regler för att underlätta för ny kärnkraft genom att effektivisera tillståndsprövningen av kärnteknisk
 verksamhet samt skapa ändamålsenliga avgifter för prövning av nya reaktorer. Målet med förslagen i
 utredningen är att Sverige ska kunna nå sitt klimatmål om 100 procent fossilfri elproduktion senast år
-2040.
+2040\.
 
 I utredningen lämnas bland annat förslag om införande av en ny lag om principbeslut, med syftet att
 regeringen tidigt ska kunna ta ställning till om det är förenligt med samhällets helhetsintresse att
@@ -4912,7 +4912,7 @@ Den 2 november 2023 beslutade regeringen att ge en särskild utredare i uppdrag 
 regler för att underlätta för ny kärnkraft genom att effektivisera tillståndsprövningen av kärnteknisk
 verksamhet samt skapa ändamålsenliga avgifter för prövning av nya reaktorer. Målet med förslagen i
 utredningen är att Sverige ska kunna nå sitt klimatmål om 100 procent fossilfri elproduktion senast år
-2040. Utredningen blev klar i januari 2025.
+2040\. Utredningen blev klar i januari 2025.
 
 Utgångspunkten för utredningens arbete var att det ska finnas ett effektivt och välfungerande
 prövningssystem för kärnteknisk verksamhet med bibehållna krav på säkerhet och strålskydd.
@@ -5503,13 +5503,13 @@ nossnåM
 nérmeS
 ©
 Hållbarhet                                  i    flera               led
-+ Social  hållbarhet   genom   att tillföra fler
+\+ Social  hållbarhet   genom   att tillföra fler
 boendeformer     och  bostadsstorlekar    i
 ett område    som  i övrig domineras    av
 villor. Utemiljön  ger också   möjlighet  till
 nya  mötesplatser    och  gemenskap     för
 de  boende.
-+ Ekologisk   och  ekonomisk     hållbarhet
+\+ Ekologisk   och  ekonomisk     hållbarhet
 Fler   boendeformer         i området      för   olika   livssituationer
 genom    att ta tillvara på befintliga
 byggnader    och  ge  dem  ett nytt
@@ -5518,7 +5518,7 @@ innehåll.  Närheten   till naturen med
 stora  rekreationsområden      och  en
 utemiljö  med   plats för odling  främjar
 också   det en  hållbar livsstil.
-+ Estetisk  hållbarhet   genom    en varsam
+\+ Estetisk  hållbarhet   genom    en varsam
 ombyggnad      med  stor  hänsyn  till
 den  kulturhistoriskt  känsliga  miljön.
 Byggnaderna     rustas  upp,  men  behåller
@@ -5562,7 +5562,7 @@ e                                                   e
 lägenheter  och  det  skulle innebär  ca  36-54  fordon/dygn,    istället för upp till                                g                                                     n
 ä
 v
-100.
+100\.
 a
 l
 a
@@ -5616,9 +5616,9 @@ nérmeS
 Nyckeltal
 BTA:                         1 760  kvm
 Antal lägenheter:            12-18  st
-Antal P-platser*:            12-18  st
+Antal P-platser\*:            12-18  st
 Antal cykelplatser:          24-36   st
-*Markparkering    inom  fastigheten
+\*Markparkering    inom  fastigheten
 
 <!-- sida 120 -->
 
@@ -6821,7 +6821,7 @@ Lägesbeskrivning. Risk för korruption har identifierats och bedömts generellt
 för inköp, utbetalningar och rekrytering. Otillåten påverkan är ett annat gemensamt område där rutiner och
 uppföljning förtydligats under året. Arbetet med att identifiera och värdera korruptionsrisker i
 verksamhetsprocesserna har kommit olika långt i förvaltningarna och fortsätter i respektive verksamhet under
-2025.
+2025\.
 Kontrollaktiviteter: Kontrollaktiviteter är i mångt och mycket inbyggt i ekonomi- och personalprocesserna
 samt e-handeln och andra verksamhetssystem liksom att tvåhandsprincipen är en ledstjärna. Kontrollerna
 förutsätter god efterlevnad till rutiner och systemanvändning för att vara verksamma. Förvaltningarna
@@ -6857,7 +6857,7 @@ intensifieras under 2025, med fokus på att stärka organisationernas förmåga 
 Granskningen har i första hand genomförts utifrån en gemensam checklista med åtta frågor kring nämndernas
 systematiska arbete med krisberedskap. Alla förvaltningar har besvarat checklistan. På frågan om riktlinje för
 civil beredskap är det två förvaltningar som svarar att man ännu inte har någon riktlinje men arbetet fortsätter år
-2025. På frågan om krisledningsorganisationen har övat sista året är det två förvaltningar som svarar att man
+2025\. På frågan om krisledningsorganisationen har övat sista året är det två förvaltningar som svarar att man
 inte genomfört övningar år 2024. Övriga förvaltningar har övat i hela eller delar av ledningsorganisationerna
 under året.
 
@@ -6997,12 +6997,12 @@ nämndssamverkan eller kommunalförbund. Under 2024 ingick Kungsbacka bland anna
 samverkan.
 -Göteborgsregionens kommunalförbund (GR)
 
-- Räddningstjänsten Storgöteborg
+\- Räddningstjänsten Storgöteborg
 -Gemensam nämnd för hemsjukvård och hjälpmedel (Halland)
-- Patientnämnd Halland
+\- Patientnämnd Halland
 
-- Nämnden för överförmyndare i samverkan
-- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
+\- Nämnden för överförmyndare i samverkan
+\- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
 kollektivtrafik i Halland enligt lagen om kollektivtrafik, samt skatteväxling, ägarförhållande i Hallandstrafiken
 Ab och former för samverkan mellan Region Halland och länets kommuner i utveckling och planering av den
 regionala kollektivtrafiken").

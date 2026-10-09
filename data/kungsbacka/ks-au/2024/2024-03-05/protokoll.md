@@ -374,13 +374,13 @@ kontanthantering antagna 2010-09-07, § 160, samt Policy för finansverksamhet
 Kommunfullmäktige reviderar kommunstyrelsens reglemente § 17
 
 Kommunfullmäktiges delegering genom tillägg av punkt 15 med följande lydelse:
--  Beslut om årliga omprövningar av borgensavgifter för ingångna
+\-  Beslut om årliga omprövningar av borgensavgifter för ingångna
 borgensåtaganden.
 
--  Kommunfullmäktige reviderar Gemensamt reglemente för kommunstyrelsen
+\-  Kommunfullmäktige reviderar Gemensamt reglemente för kommunstyrelsen
 och nämnder i Kungsbacka kommun genom tillägg i § 9 Delegering från
 kommunfullmäktige med följande lydelse
--  Nämnd får besluta om undantag från huvudregeln att leasing inte är tillåtet
+\-  Nämnd får besluta om undantag från huvudregeln att leasing inte är tillåtet
 för annat än fordon och arbetsmaskiner, om det finns särskilda skäl och
 
 kommunstyrelsen har godkänt det.
@@ -389,7 +389,7 @@ Förslag till beslut i kommunstyrelsen under förutsättning av
 kommunfullmäktiges beslut ovan
 
 Kommunstyrelsen antar Regler för fakturering och kravhantering, daterade 2023-12-
-19.
+19\.
 
 Sammanfattning av ärendet
 
@@ -1081,18 +1081,18 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Malin Aronsson lämnar följande information:
--  Den 15 augusti är ledamöterna i kommunstyrelsens arbetsutskott samt
+\-  Den 15 augusti är ledamöterna i kommunstyrelsens arbetsutskott samt
 
 kommunfullmäktiges presidium inbjudna att delta i rådslag med
 Göteborgsregionen (GR)
--  Den 27 mars är Kungsbacka inbjudna att delta i SKRs webbsändning för
+\-  Den 27 mars är Kungsbacka inbjudna att delta i SKRs webbsändning för
 kommundirektörer och berätta om det innovationsarbete som pågår i
 kommunen.
 
--  Kungsbacka kommun kommer genom kommundirektören att delta vid ett
+\-  Kungsbacka kommun kommer genom kommundirektören att delta vid ett
 samtal om utveckling av Handelshögskolans utbildningar.
 
--  Svenskt Vatten, RISE, IVL Svenska Miljöinstitutet, SEI, Linköpings Science
+\-  Svenskt Vatten, RISE, IVL Svenska Miljöinstitutet, SEI, Linköpings Science
 Park och Lunds universitet har fått en ansökan beviljad om medel för att
 bedriva starta ett programkontor som ska driva Vattenbranschens
 innovationsprogram kallat WAVE. Programmet har som vision att

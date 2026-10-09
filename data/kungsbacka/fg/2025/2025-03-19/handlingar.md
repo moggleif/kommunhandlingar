@@ -15345,7 +15345,7 @@ pa-remisser-och-skriva-fram-yttranden
 Hälsningar
 Kristian Egstedt
 Registrator
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun
 Kommunledningskontoret
@@ -20398,7 +20398,7 @@ beredning/beredning-handlaggning-av-motioner
 Hälsningar
 Kristian Egstedt
 Registrator
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun
 Kommunledningskontoret

@@ -1057,8 +1057,8 @@ Sammanfattning av ärendet
 
 Kommundirektör Rickard Vidlund informerar om:
 
-- Kungsbackas sjätteplats i rankingen Robust kommun.
-- förslag från Kultur & Fritid om partidebatter på biblioteken i kommunen.
+\- Kungsbackas sjätteplats i rankingen Robust kommun.
+\- förslag från Kultur & Fritid om partidebatter på biblioteken i kommunen.
 
 Beslutsgång
 

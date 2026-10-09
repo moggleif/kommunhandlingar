@@ -514,17 +514,17 @@ Styrande dokument
 Styrmodellen är överordnad de styrande dokumenten.
 Styrande dokument med direkt koppling till styrmodellen är:
 
-+ Kommunens övergripande strategi (mandatperiod)
-+ Nämndens strategi (mandatperiod)
+\+ Kommunens övergripande strategi (mandatperiod)
+\+ Nämndens strategi (mandatperiod)
 
-+ Kommunens budget (varje år)
+\+ Kommunens budget (varje år)
 
-+ Nämndens budget (varje år)
+\+ Nämndens budget (varje år)
 
-+ Kommunens årsredovisning, delårsbokslut och apriluppföljning
+\+ Kommunens årsredovisning, delårsbokslut och apriluppföljning
 (varje år)
 
-+ Nämndens uppföljning
+\+ Nämndens uppföljning
 
 Vi beslutar också om andra styrande dokument och de beskriver vi i
 kommunens författningssamling på kungsbacka.se.
@@ -546,26 +546,26 @@ välfärds- och samhällsutmaningar.
 Kungsbacka kommuns styrmodell har vägledande principer som ska prägla vår
 styrning:
 
-+ Att ha långsiktighet. Vi driver en hållbar verksamhet för både
+\+ Att ha långsiktighet. Vi driver en hållbar verksamhet för både
 nuvarande och framtida generationer.
 
-+ Att arbeta som Ett Kungsbacka. Tillsammans med alla som
+\+ Att arbeta som Ett Kungsbacka. Tillsammans med alla som
 bor, verkar och vistas i kommunen gör vi det bästa vi kan med
 våra gemensamma resurser. Som Ett Kungsbacka är summan
 större än delarna.
 
-+ Att arbeta med förnyelse och innovation. Vi levererar
+\+ Att arbeta med förnyelse och innovation. Vi levererar
 kommunal välfärd och service på nya och andra sätt. Detta
 innebär nya tjänster, nya sätt att erbjuda service, förändrade
 arbetssätt, nya samarbetsformer men också att ”sluta göra”.
 
-+ Att arbeta medskapande med dem vi är till för. Vi hanterar
+\+ Att arbeta medskapande med dem vi är till för. Vi hanterar
 utmaningar och skapar nya lösningar tillsammans med dem vi
 är till för. Medskapande säkerställer att vår service och välfärd
 fortsätter vara relevant för kommunens invånare och
 näringsliv.
 
-+ Att samarbeta med andra för att få kraft i uppdraget.
+\+ Att samarbeta med andra för att få kraft i uppdraget.
 Samarbeten med civilsamhället, näringslivet och akademin är
 en förutsättning för innovation och omställning till framtidens
 kommunala välfärd. Det bidrar till att vi kan använda resurser
@@ -575,7 +575,7 @@ förväntningar på ett bättre sätt.
 <!-- sida 17 -->
 
 Att styra från framtiden
-- Strategisk framsyn
+\- Strategisk framsyn
 
 En viktig del i Kungsbacka kommuns styrmodell handlar om att skapa
 förutsättningar för förnyelse genom innovation. Med hjälp av strategisk
@@ -588,15 +588,15 @@ idag, vilket gör oss bättre förberedda och mer proaktiva.
 
 Strategisk framsyn är viktigt av flera anledningar:
 
-+ Anpassningsförmåga till förändring. Det hjälper oss att anpassa
+\+ Anpassningsförmåga till förändring. Det hjälper oss att anpassa
 oss i en tid med snabba förändringar och osäkerhet i omvärl-
 den.
 
-+ Hållbar utveckling. Genom att förutse framtida utmaningar kan
+\+ Hållbar utveckling. Genom att förutse framtida utmaningar kan
 vi planera för hållbara lösningar som gynnar både nuvarande
 och framtida generationer, i linje med globala hållbarhetsmål.
 
-+ Smartare hantering av resurser. Strategisk framsyn kan hjälpa
+\+ Smartare hantering av resurser. Strategisk framsyn kan hjälpa
 till att identifiera nya typer av externa samarbeten och att hitta
 effektivare sätt att använda begränsade resurser.
 
@@ -615,7 +615,7 @@ och fatta strategiska beslut.
 <!-- sida 18 -->
 
 Att styra på tre nivåer
-- Strategiskt taktiskt och operativt
+\- Strategiskt taktiskt och operativt
 
 I Kungsbacka kommuns styrmodell finns tre nivåer av styrning: strategisk,
 taktisk och operativ styrning.
@@ -651,18 +651,18 @@ företag. Den strategiska styrningen sammanfattas i en strategi.
 Strategin för kommunen ska tydligt beskriva det strategiska perspektivet
 genom följande:
 
-+ Peka ut en tydlig politisk riktning. Vi tar fram en över-
+\+ Peka ut en tydlig politisk riktning. Vi tar fram en över-
 gripande strategi som beskriver vad kommunen ska göra i sin
 helhet för att uppnå våra politiska effektmål. Kommunfull-
 mäktige ansvarar för detta.
 
-+ Identifiera nödvändiga förändringsbehov. Vi politiker pekar ut
+\+ Identifiera nödvändiga förändringsbehov. Vi politiker pekar ut
 vilka förändringar som kommunen behöver genomföra och vad
 vi behöver sluta göra. Dessa förändringsbehov driver kommu-
 nens omställning framåt. Detta ansvarar kommunfullmäktige
 för.
 
-+ Tydliggöra sambandet. Vi måste klargöra sambandet mellan
+\+ Tydliggöra sambandet. Vi måste klargöra sambandet mellan
 politiska effektmål och de värden i form av effekter, nyttor och
 förmågor vi behöver skapa, genom en strategikarta. Den visar
 den röda tråden mellan effektmål och värdeskapande insatser.
@@ -723,17 +723,17 @@ effektivare resursanvändning.
 <!-- sida 21 -->
 
 Att balansera den tvåhänta förmågan
-- förbättra och förnya
+\- förbättra och förnya
 
 Kärnverksamheten i kommunen kan delas in i två huvudkategorier:
 
-+ Löpande verksamhet: Denna del av verksamheten är åter-
+\+ Löpande verksamhet: Denna del av verksamheten är åter-
 kommande och förutsägbar. Här är det viktigt att kontinuerligt
 
 förbättra och effektivisera arbetet. Det är vår leverans av
 kommunal välfärd och service.
 
-+ Förändringsverksamhet: Denna del fokuserar på att genomföra
+\+ Förändringsverksamhet: Denna del fokuserar på att genomföra
 
 större förändringar och utveckla nya arbetssätt för att möta nya
 krav och behov från omvärlden.
@@ -762,29 +762,29 @@ Förbättra
 Att förbättra fokuserar på att optimera nuvarande verksamheter och processer.
 Exempel på detta är:
 
-+ Effektivisering av administrativa processer. Automatisering och
+\+ Effektivisering av administrativa processer. Automatisering och
 digitalisering av rutiner för att minska kostnader och öka effek-
 tiviteten.
 
-+ Förbättring av befintliga tjänster. Anpassning och förbättring
+\+ Förbättring av befintliga tjänster. Anpassning och förbättring
 av kommunala tjänster baserat på invånarnas och näringslivets
 återkoppling och behov.
 
-+ Optimering av resurser. Bättre hantering av budget och resurser
+\+ Optimering av resurser. Bättre hantering av budget och resurser
 för att säkerställa maximal nytta för invånarna.
 
 Förnya
 Att förnya handlar om att innovera och utforska för att skapa nya möjligheter
 och lösningar. Exempel på detta är:
 
-+ Utveckling av nya tjänster. Söka, skapa och skala upp nya
+\+ Utveckling av nya tjänster. Söka, skapa och skala upp nya
 tjänster som kan möta framtida behov och utmaningar.
 
-+ Samverkan och partnerskap. Arbeta tillsammans med privata
+\+ Samverkan och partnerskap. Arbeta tillsammans med privata
 sektorn, akademin och andra offentliga aktörer för att utveckla
 helt nya lösningar.
 
-+ Förändringsledning och kultur. Främja en kultur som uppmunt-
+\+ Förändringsledning och kultur. Främja en kultur som uppmunt-
 rar innovation, kreativitet och risktagande.
 
 Genom att utveckla och främja en tvåhänt förmåga kan vi som kommun inte
@@ -793,14 +793,14 @@ för framtida utmaningar och möjligheter för nästa generation.
 
 Fördelar med tvåhänt förmåga för en kommun:
 
-+ Flexibilitet och anpassningsförmåga. Möjlighet att snabbt anpassa
+\+ Flexibilitet och anpassningsförmåga. Möjlighet att snabbt anpassa
 sig till förändringar i omvärlden och nya krav från invånare och
 lagstiftning.
 
-+ Ökad nytta för invånare och näringsliv. Bättre tjänster och lösningar
+\+ Ökad nytta för invånare och näringsliv. Bättre tjänster och lösningar
 som är anpassade efter nya behov i omvärlden.
 
-+ Hållbar utveckling. Möjlighet att balansera kortsiktiga
+\+ Hållbar utveckling. Möjlighet att balansera kortsiktiga
 effektiviseringar med långsiktig innovation och förnyelse.
 
 12
@@ -2229,7 +2229,7 @@ Diarienummer
 GA-2024-00103
 
 Begäran om yttrande - En trygg uppväxt utan nikotin, alkohol och lustgas (KS-2024-
-00384)
+00384\)
 
 Beslut
 
@@ -2558,7 +2558,7 @@ Diarienummer
 KFT-2024-00160
 
 Begäran om yttrande - En trygg uppväxt utan nikotin, alkohol och lustgas (KS-2024-
-00384)
+00384\)
 
 Förslag till beslut i nämnden för Kultur & Fritid
 

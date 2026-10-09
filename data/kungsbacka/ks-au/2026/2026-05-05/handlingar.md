@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 Ärende                 Beteckning Förslag
 
-3.  Sammanträdesdagar 2027 för KS-2026-00240 Förslag till beslut
+3\.  Sammanträdesdagar 2027 för KS-2026-00240 Förslag till beslut
 kommunfullmäktige,                Kommunstyrelsens arbetsutskott sammanträder
 kommunstyrelsen och               följande datum 2027
 kommunstyrelsens arbetsutskott
@@ -93,7 +93,7 @@ datum 2027
 11 maj   9 november
 8 juni   7 december
 
-4.  Svar på Finansdepartementets KS-2026-00194 Förslag till beslut i kommunstyrelsen
+4\.  Svar på Finansdepartementets KS-2026-00194 Förslag till beslut i kommunstyrelsen
 remiss - Betänkandet Belägg för   Kommunstyrelsen antar yttrande daterat 2026-
 broms? Åtgärder för               04-01 och översänder det som sitt svar till
 starkare incitament till lägre    Finansdepartementet.
@@ -241,7 +241,7 @@ Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats /
 
 hitps://sign visma net/sv/document-check/a8482762-2606-4 5dE628205340dFI0945R152
 
-$ visma sign
+\$ visma sign
 
 www. vismasign. com
 
@@ -280,14 +280,14 @@ Helene Andersson, ordförande
 
 2
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 https://sign visma. net/sv/document-check/a84827362-2646-45dE82053400HI092452T52 www vismasign.com
 
 <!-- sida 10 -->
 
 Innehållsförteckning sidor
 
-1. FÖRVALTNINGSBERÄTTELSE
+1\. FÖRVALTNINGSBERÄTTELSE
 1.1 Översikt över verksamhetens utveckling
 1.2 Viktiga förhållanden för resultat och ekonomisk ställning
 1.3 Händelser av väsentlig betydelse
@@ -300,15 +300,15 @@ OA UV UV UB
 1.7 Balanskravsresultat 13
 1.8 Väsentliga personalförhållanden 13
 1.9 Förväntad utveckling 13
-2. RESULTATRÄKNING 15
-3. BALANSRÄKNING 16
-4. KASSAFLÖDESANALYS 17
-5. DRIFTSREDOVISNING 18
-6. NOTER 18
-7. STYRELSENS UNDERSKRIFT 22
-8. REVISORERNAS UNDERSKRIFT 22
+2\. RESULTATRÄKNING 15
+3\. BALANSRÄKNING 16
+4\. KASSAFLÖDESANALYS 17
+5\. DRIFTSREDOVISNING 18
+6\. NOTER 18
+7\. STYRELSENS UNDERSKRIFT 22
+8\. REVISORERNAS UNDERSKRIFT 22
 3
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 
 https://sign visma net/sv/document-check/a8482353-2646-45d682063400F00925R152 www. vismasign.com
 
@@ -318,7 +318,7 @@ https://sign visma net/sv/document-check/a8482353-2646-45d682063400F00925R152 ww
 Styrelsen för Samordningsförbundet i Halland avger följande årsredovisning för 2025. Den är
 upprättad i svenska kronor.
 
-1. Förvaltningsberättelse
+1\. Förvaltningsberättelse
 
 Organisation
 
@@ -369,7 +369,7 @@ medverka till ett mer inkluderande arbetsliv.”
 
 4
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 https://sign visma net/sv/document-check/a8082353-2646-4 5d682053400dF00945R152 www vismasign.com
 
 <!-- sida 12 -->
@@ -441,7 +441,7 @@ gnert / Elektronisk underskrevet
 
 5
 
-$ visma sign
+\$ visma sign
 
 NYww vismasign. com
 
@@ -475,7 +475,7 @@ arbetsutskott.
 Utvecklingsarbete som styrelsen ska besluta om föregås av genomgångar med berednings-
 och utvecklingsgruppen som utgörs av cheftjänstemän och andra representanter från
 förbundets parter. Berednings- och utvecklingsgruppen gruppen har haft nio möten under
-2025.
+2025\.
 
 Individsamverkansteamen (IST) var fram till sommaren förbundets individinriktade
 basverksamhet. Teamen styrdes av styrgruppen för IST Halland bestående av representanter
@@ -494,7 +494,7 @@ nivå på äskandet av medlemsavgifterna som sker i september.
 
 6
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 https://sign visma. net/sv/document-check/a84827362-2646-45dE82053400HI092452T52 www vismasign.com
 
 <!-- sida 14 -->
@@ -549,7 +549,7 @@ insatserna bedöms målet uppnått.
 
 7
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 
 https://sign visma net/sv/document-check/a8082353-2646-4 5d682053400dF00945R152 www vismasign.com
 
@@ -617,7 +617,7 @@ försörjningsstöd
 
 8
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 https://sign visma. net/sv/document-check/a84827362-2646-45dE82053400HI092452T52 www vismasign.com
 
 <!-- sida 16 -->
@@ -682,7 +682,7 @@ o Länsövergripande och myndighetsgemensamma nätverksträffar och workshops
 har genomförts. Tema var SGI-0.
 9
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 https://sign visma. net/sv/document-check/a84827362-2646-45dE82053400HI092452T52 www vismasign.com
 
 <!-- sida 17 -->
@@ -741,7 +741,7 @@ finansiell stabilitet beaktas. Även om samtliga indikatorer inte uppnåtts visa
 
 10
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 https://sign visma. net/sv/document-check/a84827362-2646-45dE82053400HI092452T52 www vismasign.com
 
 <!-- sida 18 -->
@@ -772,7 +772,7 @@ Antal individinriktade insatser 6 5 6 6 7 7
 Antal strukturövergripande 14? 137 137 6 4 ”
 insatser
 
-+ Från 2023 har vi differentierat fler samverkansytor som tidigare inte redovisats som insatser så att utfall visas
+\+ Från 2023 har vi differentierat fler samverkansytor som tidigare inte redovisats som insatser så att utfall visas
 i Uppföljning Finsam även för strukturövergripande insatser.
 
 Beskrivning av individinriktade insatser - översikt
@@ -806,7 +806,7 @@ upplevelser av våld. Frågorna ställs i samband med SKAPA-samtalen var tredje 
 stor andel av deltagarna som är med i insatserna uppger att de, under sin uppväxt eller som
 11
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 
 htitps://sign visma net/sv/document-check/a8082353-2646-4 5d682053400F00945R152 www vismasign.com
 
@@ -863,7 +863,7 @@ parterna.
 
 12
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 https://sign visma. net/sv/document-check/a84827362-2646-45dE82053400HI092452T52 www vismasign.com
 
 <!-- sida 20 -->
@@ -876,11 +876,11 @@ Balanskravsresultatet beräknas enligt följande:
 
 = Årets resultat enligt resultaträkningen
 
-- Samtliga realisationsvinster
+\- Samtliga realisationsvinster
 
-+ Realisationsvinster enligt undantagsmöjlighet
+\+ Realisationsvinster enligt undantagsmöjlighet
 
-+ Realisationsförluster enligt undantagsmöjlighet
+\+ Realisationsförluster enligt undantagsmöjlighet
 
 -/+ Orealiserade vinster och förluster i värdepapper
 
@@ -928,7 +928,7 @@ strukturer. Förbundet erbjuder ett systemvärdskap inom arbetslivsinriktad reha
 
 13
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 
 https://sign visma net/sv/document-check/a8082353-2646-4 5d682053400dF00945R152 www vismasign.com
 
@@ -953,7 +953,7 @@ med parternas gemensamma behovsgrupper.
 
 I samverkan med parterna planerar förbundet att fortsätta erbjuda utbildningar, workshops,
 utvecklande nätverk samt anordna en större Samverkanskonferens i Halland under hösten
-2026.
+2026\.
 
 Påverkan på förbundets roll och uppdrag - nationell nivå
 
@@ -989,12 +989,12 @@ prioriteringar.
 
 14
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 https://sign visma. net/sv/document-check/a84827362-2646-45dE82053400HI092452T52 www vismasign.com
 
 <!-- sida 22 -->
 
-2. RESULTATRÄKNING
+2\. RESULTATRÄKNING
 
 RESULTATRÄKNING (KR)
 
@@ -1011,11 +1011,11 @@ Resultat efter finansiella poster 3501873 — -202 244
 
 15
 
-$ visma sign
+\$ visma sign
 
 <!-- sida 23 -->
 
-3. BALANSRÄKNING
+3\. BALANSRÄKNING
 
 Anläggningstillgångar
 
@@ -1050,13 +1050,13 @@ Summa skulder
 Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet
 hitps://sign visma net/sv/document-check/a84823863-2846-45d68203400H009A5:T52
 
-$ visma sign
+\$ visma sign
 
 www vismasign.com
 
 <!-- sida 24 -->
 
-4. KASSAFLÖDESANALYS
+4\. KASSAFLÖDESANALYS
 
 Den löpande verksamheten
 
@@ -1081,19 +1081,19 @@ Likvida medel vid årets början 4493 208 5 537 448
 
 Likvida medel vid årets slut 8161 947 4493 208
 
--
+\-
 N
 
 Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet
 https://sign visma net/sv/document-check/a84823523-2646-45d5682053400dF00945ET52
 
-$ visma sign
+\$ visma sign
 
 www vismasign.com
 
 <!-- sida 25 -->
 
-5. DRIFTSREDOVISNING
+5\. DRIFTSREDOVISNING
 
 Belopp tkr Utfall jan-dec 2025 — | Aktuell budget jan-dec 2025] Avvikelse utfall — budget | Utfall jan-dec 2024
 -15 600 326 -16 877 182 1276 856 -19 332 328
@@ -1123,7 +1123,7 @@ Försäljning momspliktigt 38 960 60 400
 Summa verksamhetens intäkter 19 102 199 19 130 084
 18
 
-$ vis
+\$ vis
 
 ma sign
 
@@ -1183,7 +1183,7 @@ allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk und
 
 19
 
-$ visma sign
+\$ visma sign
 
 wyww Vvismasign. com
 
@@ -1234,7 +1234,7 @@ Summa Fordringar f 671198 598 046
 
 20
 
-$ visma sign
+\$ visma sign
 
 nd [
 
@@ -1309,13 +1309,13 @@ Elektronisk signert / Elektronisk underskrevet
 
 21
 
-$ visma sign
+\$ visma sign
 
 www vismasign.com
 
 <!-- sida 29 -->
 
-7. Styrelsens underskrift
+7\. Styrelsens underskrift
 
 Innehållet i årsredovisningen bestämdes 2025-03-XX.
 
@@ -1340,7 +1340,7 @@ Ledamot Ledamot
 Filip Zackrisson
 
 Ledamot
-8. Revisorernas underskrift
+8\. Revisorernas underskrift
 Daniel Larsson, Lillemor Landén
 Azets Revision & Rådgivning AB Revisor för Region Halland och kommunerna
 
@@ -1349,7 +1349,7 @@ och Arbetsförmedlingen
 
 22
 
-Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet \$ visma sign
 https://sign visma. net/sv/document-check/a84827362-2646-45dE82053400HI092452T52 www vismasign.com
 
 <!-- sida 30 -->
@@ -1813,7 +1813,7 @@ Varianter
 
 För- och nackdelar
 
-1. Skattetak
+1\. Skattetak
 
 Lagstadgat tak för skattesatserna
 (Norge)
@@ -1826,7 +1826,7 @@ Nackdel: Ingripande; stora konsekvenser för
 kommuner och regioner. De som har en skattenivå
 under taket kan höja.
 
-2. Skattebroms
+2\. Skattebroms
 eller
 skattestopp
 
@@ -1836,7 +1836,7 @@ Lag som förbjuder skattehöjning
 Lag med incitament att inte höja
 skatten och lag om skattebroms via
 statsbidrag (Sverige 1994 och 1997-
-1999)
+1999\)
 
 Bidragsbasering (Danmark)
 
@@ -1854,7 +1854,7 @@ införandet och till fördel för dem som höjt före.
 Risk att skatten höjs mer eftersom skattehöjning
 ger mindre intäkt (vid broms).
 
-3. Skattesänknings-
+3\. Skattesänknings-
 premie
 
 Kan kombineras med broms
@@ -1887,7 +1887,7 @@ det sker på frivillig grund.
 Nackdel: Sannolikt svårt att få tydliga
 resultat avseende just skattesats.
 
-5. Ökad utjämning
+5\. Ökad utjämning
 och ökade bidrag
 
 Ökad utjämning eller alternativa
@@ -1907,10 +1907,10 @@ avseende just skattesats, dyr lösning om syftet
 
 Motivering till val av skattesatsnivå”
 
-6. Ökad Fördel: Mindre ingripande åtgärd.
+6\. Ökad Fördel: Mindre ingripande åtgärd.
 transparens e Krav på planer för skattesats- Nackdel: Kommer påverka genomsnittlig
 och ambitionsnivå skattesats i begränsad omfattning.
-+ Utredningens förslag
+\+ Utredningens förslag
 
 Figur 2 Tabell som sammanfattar metoder för sänkta kommunalskatter. Källa SOU 2026:20 sid 175
 
@@ -2184,7 +2184,7 @@ två fastigheter på Bukärr 22:36 i Kungsbacka kommun. Det är onekligen en
 fantastisk plats och vi anser av flera anledningar att fastigheten är lämplig för
 bostadsändamål och önskar att lämpligheten prövas i ett planarbete.
 
-119)
+119\)
 
 Telefo
 
@@ -2315,7 +2315,7 @@ Telefon 010-205 10 80 infoQliljewall.se www.liljewall.se Org.nr 556145-0379
 
 [sökväg]
 
-419)
+419\)
 
 NS
 
@@ -2354,7 +2354,7 @@ a
 
 mä
 
--
+\-
 
 sa
 
@@ -2798,7 +2798,7 @@ rr NY [d
 EN Y
 än : "ng X | :
 ÄR . fe ry s HEP
-+ = Re S |
+\+ = Re S |
 Aa
 Ya a
 I I I | osten BEA 2 Pp kung
@@ -2939,7 +2939,7 @@ Tel: +4670 733 72 05
 <!-- sida 68 -->
 
 2] BÖSTADSLYFTET
-- ARKITEKTER
+\- ARKITEKTER
 
 Begäran
 

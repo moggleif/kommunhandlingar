@@ -428,12 +428,12 @@ samt hur de statliga medlen, som fördelas enligt kultursamverkansmodellen, ska
 användas.
 
 Tre strategiska utvecklingsområden lyfts i remissutgåvorna
-1. Ett fritt konst- och kulturliv
+1\. Ett fritt konst- och kulturliv
 Mål: Halland – en dynamisk och modig plats för kultur
 
-2. Engagerande kulturliv för alla
+2\. Engagerande kulturliv för alla
 Mål: Halland – en plats där alla kan delta i kulturlivet
-3. Kultur som samhällskraft
+3\. Kultur som samhällskraft
 Mål: Halland – en plats där kultur präglar samhället.
 
 Beslutsunderlag
@@ -668,14 +668,14 @@ Lokal uppföljning av ungdomspolitiken (LUPP).
 
 Vart tredje år genomför Kungsbacka kommun, undersökningen LUPP. I LUPP
 svarar ungdomarna på frågor inom följande områden:
--  Fritid
--  Skola
--  Politik och samhälle
--  Trygghet
--  Hälsa och hur man trivs med sitt liv
+\-  Fritid
+\-  Skola
+\-  Politik och samhälle
+\-  Trygghet
+\-  Hälsa och hur man trivs med sitt liv
 
--  Arbete
--  Framtid
+\-  Arbete
+\-  Framtid
 Alla elever som går i årskurs åtta eller andra året på gymnasiet fick under hösten
 2023 svara på hur de ser på inflytande och demokrati, situationen i skolan,
 möjligheten till arbete, sin hälsa och trygghet, fritid och framtid.
@@ -813,11 +813,11 @@ Samhällsbyggnadschef Lovisa Eld lämnar information om hur det går med den
 inventering av vissa djurarter i detaljplaneområdet för Hedeleden som pågår just nu.
 
 Ordförande Lisa Andersson (M) lämnar information om:
-- Agendan till medlemssamråd för Räddningstjänsten Storgöteborg där bland annat
+\- Agendan till medlemssamråd för Räddningstjänsten Storgöteborg där bland annat
 
 frågor kopplade till att Kungälv och Ale kommuner ansluter sig till förbundet ska
 diskuteras.
-- Agendan till kommande möte med Kommun- och regionledningsforum (KRF).
+\- Agendan till kommande möte med Kommun- och regionledningsforum (KRF).
 
 Beslutsgång
 Ordförande Lisa Andersson (M) prövar om kommunstyrelsens arbetsutskott kan

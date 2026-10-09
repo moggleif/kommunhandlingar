@@ -271,11 +271,11 @@ får i uppdrag att utreda förutsättningarna för att ansöka om ett kommunalt 
 
 2 juni 2024
 
-\_________________________           __________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Thure Sandén (M)                    Daniel Hognert (M)
 
-\__________________________          ____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_          \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Heinrich Kaufmann (C)               Fredrik Kollberg (KD)
 
 2 (2)
@@ -4533,7 +4533,7 @@ förtroendevalda representerar det organ denne själv tillhör. Därtill betalas
 och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-\_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
@@ -4746,6 +4746,6 @@ att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst.
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 
 2023–2027.
-\____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 17 (17)

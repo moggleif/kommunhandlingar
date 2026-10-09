@@ -284,13 +284,13 @@ frågor och utvecklingsområden med Varbergs kommuns arbetsutskott till
 kommunstyrelsen.
 
 De frågor som diskuteras är bland annat:
-- Kort information om vad som är på gång i respektive kommun
+\- Kort information om vad som är på gång i respektive kommun
 
-- ÖP och FÖP Väröbacka
-- Vad som händer vid gränsen mellan Kungsbacka och Varberg
+\- ÖP och FÖP Väröbacka
+\- Vad som händer vid gränsen mellan Kungsbacka och Varberg
 
-- Utveckling av Ringhals och Västerport
-- Samarbete med Länsstyrelsen och andra statliga myndigheter
+\- Utveckling av Ringhals och Västerport
+\- Samarbete med Länsstyrelsen och andra statliga myndigheter
 
 Informationen är en del av kommunstyrelsens arbetsutskotts så kallade årshjul och
 dialogen med kommunstyrelsens arbetsutskott i Varbergs kommun sker en gång per
@@ -355,25 +355,25 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Biträdande kommundirektör Anders Johansson lämnar följande information:
-- behovsinventering/utvärdering av LOFT (Partnerskapet LOFT – ett
+\- behovsinventering/utvärdering av LOFT (Partnerskapet LOFT – ett
 
 kommunledningspartnerskap) ska påbörjas under hösten
-- Jessica Dahlgren är ny ekonom för kommunstyrelsens förvaltning efter att Malin
+\- Jessica Dahlgren är ny ekonom för kommunstyrelsens förvaltning efter att Malin
 Larsson går vidare till ny tjänst i kommunen.
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
 
-- Inplanerat möte med Länsstyrelsen med anledning av detaljplanen för Klovsten
-- Trafikverket tog beslut innan sommaren om att påbörja en del arbete med
+\- Inplanerat möte med Länsstyrelsen med anledning av detaljplanen för Klovsten
+\- Trafikverket tog beslut innan sommaren om att påbörja en del arbete med
 Onsalavägen rörande att staka ut vägen och börja bekämpning av invasiva arter.
 
 Kommundirektör Rickard Vidlund lämnar följande information:
 
-- planering inför att förvaltningschef Ivan Stipic avslutar sin anställning.
-- återkoppling från studiebesök på strategiska samhällsbyggnadsutvecklingsprojekt
+\- planering inför att förvaltningschef Ivan Stipic avslutar sin anställning.
+\- återkoppling från studiebesök på strategiska samhällsbyggnadsutvecklingsprojekt
 
 i kommunen
-- återkoppling från möte med SKRs kommundirektörsnätverk där fokus var civilt
+\- återkoppling från möte med SKRs kommundirektörsnätverk där fokus var civilt
 försvar. På dagordningen var bland annat utredningen Kommuners och regioners
 grundläggande beredskapsansvar som just nu bereds på Regeringskansliet samt
 information från MSB om att vissa strategiska kommuner ska få ett snabbspår

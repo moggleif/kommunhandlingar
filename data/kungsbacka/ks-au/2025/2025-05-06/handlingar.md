@@ -210,9 +210,9 @@ Kommunen och Exploatören kallas gemensamt Parterna
 
 A. - BAKGRUND OCH FÖRUTSÄTTNINGAR
 
-1. Uppdrag, politiska beslut m.m.
+1\. Uppdrag, politiska beslut m.m.
 
-1.1 - Byggnadsnämnden beslutade 2016-06-15 $ 179 att en detaljplan för
+1.1 - Byggnadsnämnden beslutade 2016-06-15 \$ 179 att en detaljplan för
 verksamhetsområde inom Varla 3:22 med tillägg av Varla 3:34 samt del av Varla
 2:198 ska upprättas.
 
@@ -225,7 +225,7 @@ verksamhetsområde inom Varla 3:22 med tillägg av Varla 3:34 samt del av Varla
 1.3 — Exploateringsavtal, Avtalet, ska upprättas innan Detaljplanen kan antas av
 Byggnadsnämnden.
 
-2. Exploateringsområde
+2\. Exploateringsområde
 
 2.1 — Det område som är föremål för genomförandet av Detaljplanen är ungefärligt markerat
 
@@ -423,11 +423,11 @@ bestämmelser.
 
 <!-- sida 11 -->
 
-10.
+10\.
 
 10.1
 
-11.
+11\.
 
 11.1
 
@@ -485,7 +485,7 @@ bestämmelserna om upplåtelse av offentlig plats tillämpas. Tillstånd ska sö
 polisen och avgift utgår enligt särskild taxa. Tillståndsfrågan hanteras i detta fall av
 
 Teknik.
-=
+\=
 
 <!-- sida 12 -->
 
@@ -497,7 +497,7 @@ Teknik.
 
 11.8
 
-12.
+12\.
 
 12.1
 
@@ -563,19 +563,19 @@ Exploateringsområdet, som konstateras vid efterbesiktningen, ska skyndsamt åtg
 
 12.6
 
-13.
+13\.
 
 13.1
 
 13.2
 
-14.
+14\.
 
 14.1
 
 14.2
 
-7013)
+7013\)
 
 av Exploatören på dennes bekostnad i den mån skadan uppkommit till direkt följd av
 Exploatörens eller dennes entreprenörers verksamhet inom Planområdet.
@@ -636,7 +636,7 @@ IS.
 
 15.2
 
-16.
+16\.
 
 16.1
 
@@ -695,7 +695,7 @@ Samhällsbyggnadskontoret avseende utförande av teknisk granskning, byggledning
 projektledning, deltagande på möten m.m. Kostnaden för personalens tid debiteras
 
 enligt gällande kommunala taxor.
-=
+\=
 
 <!-- sida 15 -->
 
@@ -703,24 +703,24 @@ enligt gällande kommunala taxor.
 
 16.4
 
-17.
+17\.
 
-18.
+18\.
 
 18.1
 
 18.2
 
-19.
+19\.
 
 19.1
 
 19.2
-20.
+20\.
 
 20.1
 
-913)
+913\)
 
 Betalning till Kommunen ska ske i takt med genomförandet. Exploatören ska beredas
 möjlighet att granska samtliga handlingar som ligger till grund för betalning av
@@ -770,7 +770,7 @@ fastigheten Varla 3:22.
 
 <!-- sida 16 -->
 
-10013)
+10013\)
 
 = — Flytt av tele-ledningar tillhörande Skanova som ligger inom kvartersmark inom
 fastigheten Varla 3:22.
@@ -778,7 +778,7 @@ fastigheten Varla 3:22.
 20.2 — Exploatören ansvarar för att samordning sker med berörda ledningshavare inför
 ledningsflytt.
 
-21. Geoteknik
+21\. Geoteknik
 
 21.1 - Exploatören ansvarar för och bekostar de tillkommande geotekniska utredningar och
 stabilitetsutredningar som krävs för byggnader och anläggningars grundläggning och
@@ -789,7 +789,7 @@ inom Exploateringsområdet.
 för och bekostar de åtgärder som krävs.
 
 [44 Startbesked får inte ges för ny-och tillbyggnation förrän bergsblock (markerat i
-rött), enligt PBL 4 kap, 14 $, 4 p, har säkrats och godkänts av sakkunnig
+rött), enligt PBL 4 kap, 14 \$, 4 p, har säkrats och godkänts av sakkunnig
 bergtekniker.
 
 21.3 Kommunen ansvarar för de tillkommande geotekniska utredningar och
@@ -797,7 +797,7 @@ stabilitetsutredningar som kan krävas för utbyggnad av allmän plats samt för
 av de åtgärder som erfordras. Kostnaden för utredningar och åtgärder läggs till
 kostnaden för iordningställande av allmän plats enligt punkt 16.
 
-22. Förorenad mark
+22\. Förorenad mark
 
 22.1 — Exploatören ansvarar för och bekostar eventuella kompletterande provtagningar och
 miljötekniska markmiljöundersökningar samt har kostnadsansvaret för sanering av
@@ -810,7 +810,7 @@ Kommunen för sanering samt anmälan till berörd tillsynsmyndighet. De merkostn
 som hanteringen av dessa föroreningar kan medföra läggs till kostnaden för
 iordningställande av allmän plats, enligt punkt 16.
 
-23. — Arkeologi
+23\. — Arkeologi
 
 23.1 Inom planområdets västra och nordöstra del finns kända fornlämningar och en
 arkeologisk förundersökning har genomförts. Under förundersökningen påträffades två
@@ -820,11 +820,11 @@ borttagen. En arkeologisk förundersökning har också genomförts inom den väs
 delen av Planområdet. Länsstyrelsen i Halland har meddelat slutbesked. I beskedet
 konstateras att inget hinder längre föreligger ur arkeologisk synpunkt att det
 arkeologiskt förundersökta området tas i anspråk för avsett ändamål.
-=
+\=
 
 <!-- sida 17 -->
 
-11013)
+11013\)
 
 23.2 — Inga fler kända fornlämningar finns inom Exploateringsområdet. Om arkeologiskt fynd
 ändå påträffas i samband med utbyggnad av kvartersmarken ansvarar Exploatören för
@@ -843,7 +843,7 @@ iordningställande av allmän plats, enligt punkt 16.
 
 D. ÖVRIGA BESTÄMMELSER
 
-24. Säkerhet
+24\. Säkerhet
 
 24.1 — För det rätta fullgörandet av Exploatörens åtaganden enligt Avtalet ska Exploatören
 till förmån för Kommunen ställa en säkerhet till ett värde om 3 000 000 kronor i form
@@ -865,7 +865,7 @@ Exploatörens medgivande.
 kvarvarande belopp enligt Kommunens bedömande utgöra en betryggande säkerhet
 för Exploatörens återstående skyldigheter.
 
-25. — Risktagande
+25\. — Risktagande
 
 25.1 Om hinder, oavsett vilket, skulle uppstå mot att Detaljplanen kan antas samt vinner
 laga kraft ska vardera part svara för sina respektive nedlagda kostnader och således
@@ -874,9 +874,9 @@ Kommunen för nedlagda plankostnader, vilket regleras i ett separat plankostnads
 
 <!-- sida 18 -->
 
-12013)
+12013\)
 
-26. . Överlåtelse av avtal och fastigheter
+26\. . Överlåtelse av avtal och fastigheter
 
 26.1 Avtalet får inte utan Kommunens skriftliga medgivande överlåtas på annan.
 Exploatören ska i god tid innan avsedd överlåtelse begära sådant medgivande.
@@ -888,7 +888,7 @@ inte särskilda skäl föreligger emot ett sådant medgivande.
 26.2  Exploatören är skyldig att skriftligen meddela Kommunen vid eventuell överlåtelse av
 Fastigheten samt vem som förvärvar Fastigheten och den nya ägarens tillträdesdag.
 
-27. - Avtalets giltighet
+27\. - Avtalets giltighet
 27.1  Förutsättingar för Avtalets giltighet är att villkoren nedan är uppfyllda
 
 e Kommunstyrelsen i Kungsbacka kommun godkänner Avtalet, genom beslut som
@@ -897,7 +897,7 @@ vinner laga kraft.
 e Byggnadsnämnden i Kungsbacka kommun antar Detaljplanen, genom beslut som
 vinner laga kraft.
 
-28. Tvist
+28\. Tvist
 
 28.1 Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
 detta avtal ska avgöras av allmän domstol.
@@ -993,12 +993,12 @@ Motivering till beslutet
 
 Länsstyrelsen ska efter prövning upphäva kommunens beslut att
 anta, ändra eller upphäva en detaljplan om beslutet innebär att:
-1. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte tillgodoses,
-2. regleringen av sådana frågor om användningen av mark- och
+1\. ett riksintresse enligt 3 eller 4 kap. miljöbalken inte tillgodoses,
+2\. regleringen av sådana frågor om användningen av mark- och
 
 vattenområden som angår flera kommuner inte samordnas på ett
 lämpligt sätt,
-3. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+3\. en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
 
 Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
@@ -1009,9 +1009,9 @@ Länsstyrelsen H allands län          Beslut                    2 (4)
 
 2024-01-16       7483-2023
 
-4. strandskydd enligt 7 kap. miljöbalken upphävs i strid med
+4\. strandskydd enligt 7 kap. miljöbalken upphävs i strid med
 gällande bestämmelser, eller
-5. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt med
+5\. en bebyggelse blir olämplig eller ett byggnadsverk olämpligt med
 
 hänsyn till människors hälsa eller säkerhet eller till risken för
 olyckor, översvämning eller erosion.
@@ -1098,9 +1098,9 @@ SGI – sgi@sgi.se
 Lantmäterimyndigheten – registrator@lm.se
 
 Bilagor
-1. Överklagandehänvisning regeringen
+1\. Överklagandehänvisning regeringen
 
-2. Yttrande från SGI: 7483-2023-8.1
+2\. Yttrande från SGI: 7483-2023-8.1
 
 <!-- sida 27 -->
 
@@ -2458,7 +2458,7 @@ mkr
 (85,8 mkr)
 Energianvändningen i vårt bestånd är
 lågt. Dock inte lika lågt som rekordåret
-2022. Normalsårskorrigerad A-tempsyta
+2022\. Normalsårskorrigerad A-tempsyta
 (82 kWh/m2).                Bostadshyrorna
 höjdes med i snitt
 4,95 %
@@ -2598,7 +2598,7 @@ Under året har vi fördjupat oss i de hållbarhetsfrågor som
 Kommande hållbarhetsrapportering är mest väsentliga för både oss och våra intressenter. Med
 Vi är väl medvetna om att hållbarhetsredovisningen för- denna grund kommer vi att fortsätta fokusera på frågor som
 ändras i och med den nya EU-lagen CSRD som börjar gälla vi kan påverka mest, särskilt inom områdena kundnöjdhet,
-2024. Trots att vi ännu inte vet när vi kommer att omfattas medarbetare och klimatpåverkan. Vår uppdaterade vä-
+2024\. Trots att vi ännu inte vet när vi kommer att omfattas medarbetare och klimatpåverkan. Vår uppdaterade vä-
 av de nya rapporteringskraven har vi redan börjat förbereda sentlighetsanalys kommer att vara ett viktigt verktyg i detta
 oss genom att höja vår interna kompetens och anpassa våra arbete och säkerställa att vi håller fokus på rätt områden.
 processer. Under året har vi fortsatt och avslutat utbildning-
@@ -2750,7 +2750,7 @@ containrar för skräp, jord till trädgårdarna med mera. Vi bjöd
 som berättade hur de arbetar för att motverka ofrivillig
 ensamhet och vad de erbjuder för aktiviteter för seniorer i
 kommunen. Vi erbjöd även gratis ansiktsmålning för barnen
-- vilket var mycket uppskattat! Våra hyresgäster blir glada
+\- vilket var mycket uppskattat! Våra hyresgäster blir glada
 av vår närvaro och det gläder oss när de frågar om när det
 är dags att komma ut till just deras område igen.
 
@@ -2992,7 +2992,7 @@ och stärka den.
 
 <
 
-- At
+\- At
 
 Pra introduktion [.
 ger bra förutsättningar. EmIl började hos oss
@@ -3330,7 +3330,7 @@ Ekstaprojektet
 Vi har under året fortsatt vårt samarbete med Aranäsgym-
 nasiet och numer även Lindälvsgymnasiets linje Teknik
 
-- årskurs ett. Linjen är certifierad som Teknikcollege där en
+\- årskurs ett. Linjen är certifierad som Teknikcollege där en
 stor del syftar till att ha nära samarbete med näringslivet.
 Samarbetet har pågått i 17 år. Syftet är att eleverna ska få
 ett verkligt projekt att jobba med och att vi samtidigt får
@@ -3568,10 +3568,10 @@ med nya ytskick och kök har gjorts på nio lägen-
 så som exempelvis tillgänglighet, bullerskydd,
 heter.
 brandlarm och sprinkler. Något som kräver fo-
-- Huvudbyggnaden hade tidigare bland annat
+\- Huvudbyggnaden hade tidigare bland annat
 kus och ett bra samarbete för att lyckas med.
 lokaler för hemtjänsten vilka nu byggts om till
-- Vi har haft ett bra samarbete med alla
+\- Vi har haft ett bra samarbete med alla
 tre nya lägenheter med tillhörande gemensamt
 berörda under hela projektet både ifrån kom-
 samvarorum och kök för boende. I källaren har vi
@@ -3594,7 +3594,7 @@ tvättmaskin och torktumlare finns också i lägen-
 Vi hoppas att våra hyresgäs-
 heterna.
 ter ska trivas bra i sina nya
-- Det är väldigt trevliga lägenheter som varie-
+\- Det är väldigt trevliga lägenheter som varie-
 lägenheter och gemen-
 rar lite i storlek och planlösning. Det är alltid en
 samhetsutrymmen!
@@ -3732,7 +3732,7 @@ ber monterades ned, karmar och lister togs ner och
 spikar drogs ur. Möbler och inredning bars ut, allt
 från wc stolar och handfat till förvaringsskåp.
 
-- Det finns mycket att ta till vara på. Vi själva tar
+\- Det finns mycket att ta till vara på. Vi själva tar
 
 till vara på sådant som vi kan återanvända i andra
 fastigheter, vitvaror, radiatorer, möbler med mera.
@@ -3752,7 +3752,7 @@ med överblivet material som försvinner i samband
 med rivningsarbetet. När rivningen är utförd finns
 det nya planer för marken.
 
-- Tomter kommer att styckas av och säljas. På övrig
+\- Tomter kommer att styckas av och säljas. På övrig
 mark kommer ett antal hyresrätter i parhus/radhus
 att byggas enligt vårt energikoncept, säger Christer
 Kilersjö, vd.
@@ -3820,7 +3820,7 @@ tillsämmans med omhådesänsvarig
 
 slastighetsskötare rondéetar,
 
-- sa
+\- sa
 
 Transaktion 09222115557540214944
 
@@ -4007,7 +4007,7 @@ Pågående forsknings och utvecklingsprojekt
 ENFLATE ENabling FLexibility provision by all Actors and
 sectors through markets and digital TEchnologies). Det EU
 finansierade projektet ENFLATE har pågått sedan oktober
-2022. Syftet med projektet är minska EU:s behov av fossila
+2022\. Syftet med projektet är minska EU:s behov av fossila
 bränslen. Tillsammans med IVL Svenska Miljöinstitutet och
 NODA driver vi den svenska demositen på Humlevägen i
 Fjärås. Under året har vi installerat en elpanna som styrs av
@@ -4220,7 +4220,7 @@ En utmaning har varit att veta när de skall tömmas. För tre
 veckor sedan installerades de första sensorerna i tre olika
 områden. Ett pilotprojekt tillsammans med Kungsbacka
 kommun.
-- Vi har monterat sensorer på insidan som mäter hur fulla
+\- Vi har monterat sensorer på insidan som mäter hur fulla
 behållarna är. Nu ska de sitta uppe i tre månader och efter
 det görs en utvärdering. Vi får då ett förslag på schema
 utifrån mängden som slängs och en uppfattning om hur
@@ -4229,7 +4229,7 @@ ander Beglert som är fastighetsskötare i centrum.
 Syftet med att sätta upp sensorer är att spara in på antal
 transporter och få en uppfattning om hur snabbt kärlen
 blir fulla.
-- Detta skapar möjlighet för en bättre avfallshantering. I
+\- Detta skapar möjlighet för en bättre avfallshantering. I
 en förlängning kan det bli att vi drar ner på transporterna,
 kostnaderna och miljöpåverkan i stort, säger Jonathan
 Hagrenius, förvaltningschef på Eksta.
@@ -4657,7 +4657,7 @@ i verksamheten och i våra fastigheter Årets resultat uppgår
 till 63,0 mkr (85,8 mkr) före bokslutsdispositioner och skatt.
 Intäkter från den löpande verksamheten uppgår till 483,6
 mkr (458,9 mkn), vilket ger en ökning på 5,4 2 jämfört med
-2023.
+2023\.
 
 Intäkter
 
@@ -5159,7 +5159,7 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 | Finansiella anläggningstillgångar | 126 026 | 116 143 | 116 111 | 119 565 | 116 182 |
 | Omsättningstillgångar | 124 935 | 156 277 | 175 314 | 226 139 | 298 516 |
 | Eget kapital | 857 163 | 809 822 | 738 802 | 675 480 | 617 221 |
-| Obeskattade reserver * | 10 108 | 8 284 | 6 927 | 8 908 | 8 152 |
+| Obeskattade reserver \* | 10 108 | 8 284 | 6 927 | 8 908 | 8 152 |
 | Avsättningar | 87 050 | 83 466 | 74 012 | 68 277 | 62 473 |
 | Låneskuld | 3 591 957 | 3 598 802 | 3 672 712 | 3 700 222 | 3 614 459 |
 | Rörelseskulder | 89 076 | 135 679 | 123 922 | 117 863 | 132 637 |
@@ -5468,7 +5468,7 @@ har gjorts med ledning av extern värdering.
 Elinstallationer, ventilation, hissar 40 år
 Intäktsredovisning               Lokalanpassningar          10 år
 Hyror och försäljning
-Intäkterna redovisas till nominellt värde. Övrigt*         100 år
+Intäkterna redovisas till nominellt värde. Övrigt\*         100 år
 Byggnadsinventarier       20 år
 Tjänste- och entreprenaduppdrag
 Företaget vinstavräknar utförda uppdrag till fast pris när Markanläggningar 50 år
@@ -5488,7 +5488,7 @@ tar betydande tid att färdigställa (exempelvis byggnader) Undercentraler 40 å
 räknas låneutgifterna (räntorna) in i anskaffningsvärdet.
 Inventarier                5 år
 Leasing
-*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
+\*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
 Företaget redovisar leasingavtal som en kostnad linjärt över
 leasingperioden.                Bolaget har i ägardirektiv begränsningar i sin rätt att avyttra
 fastigheter till ett värde över 10 mkr.
@@ -6864,7 +6864,7 @@ Styrelsen och Verkställande direktören för Tempo- Verksamheten
 hus Kungsbacka AB, 559151–1349, avger följande Intäkterna från den löpande verksamheten uppgår till
 berättelse för bolagets verksamhet 2024-01-01-2024- 7,9 miljoner (8,4 miljoner). Intäktsminskningen beror
 12-31. Bolaget är helägt av Eksta Bostads AB 556497– på lägre förbrukning av individuell mätning samt ing-
-8293. Tempohus Kungsbacka AB hänvisar till Eksta en försäkringsersättning under 2024. Årets resultat
+8293\. Tempohus Kungsbacka AB hänvisar till Eksta en försäkringsersättning under 2024. Årets resultat
 Bostads AB:s hållbarhetsrapport för 2024. Rapporten uppgår till 121 tkr (250 tkr). Det lägre resultatet 2024
 går att ladda ner och läsa på www.eksta.se. beror främst på omställningen av lägenheter för per-
 manent bygglov och upprustning för uthyrning via

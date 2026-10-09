@@ -148,7 +148,7 @@ Sammanfattning av ärendet
 
 I lokalplan 2025–2029, som är en del av kommunbudgeten för 2025, ingår
 färdigställande av ny skola i Åsa, löpnummer 336. Projektet planeras att vara klart år
-2028.
+2028\.
 
 Behovet av ny skola omfattar 500 elevplatser där merparten av platserna kommer
 användas av elever som i dag går på Åsa Gårdsskolan. Den nya skolan bedöms även
@@ -793,11 +793,11 @@ innovationsveckan pågår just nu. Mer information om Kungsbackas program under
 veckan finns på kungsbacka.se
 
 Samhällsbyggnadschef Lovisa Eld, lämnar följande information:
-- Region Halland har nu godkänt Kollektivtrafikplan 2025 med utblick 2026–2027.
+\- Region Halland har nu godkänt Kollektivtrafikplan 2025 med utblick 2026–2027.
 Av de tre trafikförändringar som Kungsbacka har önskat kom ett med rörande
 utökning av trafiken på Kungsbackapendeln.
 
-- Samhällsbyggnadskontoret har kontakt med Västtrafik rörande öppningstiderna
+\- Samhällsbyggnadskontoret har kontakt med Västtrafik rörande öppningstiderna
 för resecentrum.
 
 Ordförande Lisa Andersson (M) lämnar återkoppling från kommun- och

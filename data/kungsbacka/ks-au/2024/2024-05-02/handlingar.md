@@ -170,7 +170,7 @@ Revisionsberättelse för år 2023
 
 Vi har granskat räkenskaperna, årsredovisningen och förbundsstyrelsens
 förvaltning i Samordningsförbundet i Halland (organisationsnummer 222000-
-2857) för verksamhetsåret 2023.
+2857\) för verksamhetsåret 2023.
 
 Vårt uppdrag är att pröva om verksamheten sköts på ett ändamålsenligt och från
 ekonomisk synpunkt tillfredställande sätt, om räkenskaperna är rättvisande och
@@ -457,7 +457,7 @@ på varje sida
 
 Innehållsförteckning sidor
 
-1. FÖRVALTNINGSBERÄTTELSE
+1\. FÖRVALTNINGSBERÄTTELSE
 1.1 Översikt över verksamhetens utveckling
 1.2 Viktiga förhållanden för resultat och ekonomisk ställning
 1.3 Händelser av väsentlig betydelse
@@ -471,13 +471,13 @@ CO NOU UY ÅB
 1.7 Balanskravsresultat 13
 1.8 Väsentliga personalförhållanden 13
 1.9 Förväntad utveckling 13
-2. RESULTATRÄKNING 15
-3. BALANSRÄKNING 16
+2\. RESULTATRÄKNING 15
+3\. BALANSRÄKNING 16
 4, KASSAFLÖDESANALYS 17
-5. DRIFTSREDOVISNING 18
-6. NOTER 18
-7. STYRELSENS UNDERSKRIFT 22
-8. REVISORERNAS UNDERSKRIFT 22
+5\. DRIFTSREDOVISNING 18
+6\. NOTER 18
+7\. STYRELSENS UNDERSKRIFT 22
+8\. REVISORERNAS UNDERSKRIFT 22
 
 Signering av justerare
 på varje sida
@@ -491,7 +491,7 @@ Sida 3
 Styrelsen för Samordningsförbundet i Halland avger följande årsredovisning för 2023. Den är
 upprättad i svenska kronor.
 
-1. Förvaltningsberättelse
+1\. Förvaltningsberättelse
 
 Organisation
 
@@ -725,7 +725,7 @@ rehabiliteringsplatser (2003:1210).
 
 Förbundets leds av en styrelse med fyra ledamöter och åtta ersättare som utses av
 medlemmarna. Löpande under året hålls styrelsemöten. Åtta styrelsemöten har hållits under
-2023.
+2023\.
 
 Ansökningar och utvecklingsarbete som styrelsen ska besluta om föregås av genomgångar
 med berednings- och utvecklingsgruppen som utgörs av cheftjänstemän eller andra
@@ -994,7 +994,7 @@ Drifts- och administrativa kostnader: 7.133 390 kr
 . . N Sida 11
 Signering av justerare
 
-- - - a
+\- - - a
 
 <!-- sida 21 -->
 
@@ -1006,7 +1006,7 @@ Antal strukturövergripande
 | 13" 5 4 4 3 4
 insatser
 
-> För 2023 har vi differentierat fler samverkansytor som tidigare inte redovisats som insatser.
+\> För 2023 har vi differentierat fler samverkansytor som tidigare inte redovisats som insatser.
 I det nya Uppföljning Finsam vill vi i år visa utfall av deltagare även i stukturövergripande
 insatser, se översikt under rubriken Partsgemensamma samverkansytor och lärandemiljöer
 nedan, sida 13.
@@ -1100,11 +1100,11 @@ Balanskravsresultatet beräknas enligt följande:
 
 = Årets resultat enligt resultaträkningen
 
-- Samtliga realisationsvinster
+\- Samtliga realisationsvinster
 
-+ Realisationsvinster enligt undantagsmöjlighet
+\+ Realisationsvinster enligt undantagsmöjlighet
 
-+ Realisationsförluster enligt undantagsmöjlighet
+\+ Realisationsförluster enligt undantagsmöjlighet
 
 -/+ Orealiserade vinster och förluster i värdepapper
 
@@ -1156,11 +1156,11 @@ kommer vi eventuellt att se över möjligheten för en ESF-ansökan inom Program
 . . . Sida 14
 Signering av justerare
 
-- - - =
+\- - - =
 
 <!-- sida 24 -->
 
-2. RESULTATRÄKNING
+2\. RESULTATRÄKNING
 
 RESULTATRÄKNING (kr)
 
@@ -1182,7 +1182,7 @@ på varje sida
 
 <!-- sida 25 -->
 
-3. BALANSRÄKNING
+3\. BALANSRÄKNING
 
 BALANSRÄKNING (kr)
 Tillgångar
@@ -1224,7 +1224,7 @@ Sida 16
 
 <!-- sida 26 -->
 
-4. KASSAFLÖDESANALYS
+4\. KASSAFLÖDESANALYS
 
 KASSAFLÖDESANALYS (kr) 2023 2022
 Den löpande verksamheten
@@ -1237,7 +1237,7 @@ rörelsekapital
 Kassaflöde från förändring av rörelsekapital ? ?
 a . . on | 1068 184 354 288
 Ökning/minskning kortfristiga fordringar
-- -1 135 218 -1 556 576
+\- -1 135 218 -1 556 576
 Okning/minskning kortfristiga skulder
 -2 867 171 -1 626 261
 Summa Kassaflöde för den löpande verksamheten
@@ -1258,7 +1258,7 @@ på varje sida
 
 <!-- sida 27 -->
 
-5. DRIFTSREDOVISNING
+5\. DRIFTSREDOVISNING
 
 Utfall jan-dec | Aktuell budget | Avvikelse utfall :
 Belopp tkr 2023 jan-dec 2023 — budget Utfall jan-dec 2022
@@ -1420,7 +1420,7 @@ på varje sida
 
 <!-- sida 31 -->
 
-7. Styrelsens underskrift
+7\. Styrelsens underskrift
 
 Vi intygar att årsredovisningen ger en rättvisande bild av verksamhetens resultat samt
 kostnader, intäkter och förbundets ekonomiska ställning.
@@ -1429,13 +1429,13 @@ Linda Biltmark
 Ordförande
 
 Helene Andersson
-: |
+\: |
 Vice ordförande
 
 Thomas Fager Cnristoier Lundholm
 Ledamot Ledamot
 
-8. Révisorernas underskrift
+8\. Révisorernas underskrift
 
 Daniel Larsson, KPMG AB Lillemor Landén
 Revisor för Försäkringskassan Revisor för Region Halland och kommunerna
@@ -1636,19 +1636,19 @@ Redovisningen
 
 Verksamhetens intäkter
 
-- Består i huvudsak av medlemmarnas årsavgifter vilka substansgranskas mot
+\- Består i huvudsak av medlemmarnas årsavgifter vilka substansgranskas mot
 beslut, fakturering och inbetalning.
 
 Verksamhetens kostnader
 
-- Kartläggning av posternas innehåll samt stickprov inklusive attest och
+\- Kartläggning av posternas innehåll samt stickprov inklusive attest och
 utanordning samt avklipp.
 
 Kassa och bank
--  Substansgranskas mot externa underlag.
+\-  Substansgranskas mot externa underlag.
 Kortfristiga skulder
 
-- Kartläggning av posternas innehåll samt stickprov inklusive attest och
+\- Kartläggning av posternas innehåll samt stickprov inklusive attest och
 utanordning.
 
 Redovisningsprinciper
@@ -1708,19 +1708,19 @@ Finansiella mål
 
 Förbundet finansiella mål är att
 
--  Bedriva resurseffektiv verksamhet inom ramen för tilldelade ekonomiska medel
+\-  Bedriva resurseffektiv verksamhet inom ramen för tilldelade ekonomiska medel
 med god ekonomisk hushållning.
 
-- Förbundet ska också hela tiden ha en sådan likviditet att det vid varje enskilt
+\- Förbundet ska också hela tiden ha en sådan likviditet att det vid varje enskilt
 tillfälle kan finansiera utbetalningar i enlighet med beslut som tagits om
 finansiering av verksamhet.
 
-- - Förbundet får inte skuldsätta sig.
+\- - Förbundet får inte skuldsätta sig.
 
--  Erhållna medel ska vara sysselsatta i så hög grad som möjligt och ge så goda
+\-  Erhållna medel ska vara sysselsatta i så hög grad som möjligt och ge så goda
 resultat som möjligt.
 
-- Att på sikt nå till nyckeltalet på cirka 3 Mkr avseende eget kapital.
+\- Att på sikt nå till nyckeltalet på cirka 3 Mkr avseende eget kapital.
 
 Förbundet bedömer att deras finansiella mål är uppnådda i och med att det egna
 kapitalet minskat från 5 481 tkr till 2 668 tkr. Det egna kapitalet ligger därmed i nivå
@@ -1743,17 +1743,17 @@ Samordningsförbundet Halland fastställde i januari 2023 en verksamhetsplan med
 budget för 2023. I denna plan anges övergripande mål. Dessa har sedan legat till
 grund för förbundets verksamhetsmål:
 
-1. Samordningsförbundet bidrar till att det skapas struktur och långsiktighet i
+1\. Samordningsförbundet bidrar till att det skapas struktur och långsiktighet i
 samverkansarbetet.
 
-2. Samordningsförbundet möjliggör ny utveckling inom samverkansområdet
+2\. Samordningsförbundet möjliggör ny utveckling inom samverkansområdet
 arbetslivsinriktad rehabilitering.
 
-3. Aktiviteter med verkningsfulla metoder och rutiner som är tillgängliga,
+3\. Aktiviteter med verkningsfulla metoder och rutiner som är tillgängliga,
 jämställda och icke-diskriminerande samt har en tydlig styrning, mätbara
 ekonomiska ramar och kvantitativa mål.
 
-4. Samordningsförbundet vill förankra och etablera goda samverkansformer
+4\. Samordningsförbundet vill förankra och etablera goda samverkansformer
 och verka för att de goda metoder och arbetssätt som utvecklas inom ramen
 för den finansiella samordningen implementeras i ordinarie verksamhet.
 
@@ -1809,12 +1809,12 @@ posten utan anmärkning.
 
 Intern kontroll och styrning
 Vi har granskat delar av förbundets interna kontroll med fokus på
-- rutiner och system för kostnadsbokföring
-- betalningar
-- — attester och attesträtter
--  bokslutsprocessen
+\- rutiner och system för kostnadsbokföring
+\- betalningar
+\- — attester och attesträtter
+\-  bokslutsprocessen
 
-- — ersättning för utfört arbete
+\- — ersättning för utfört arbete
 
 Vi har också läst förbundsordning och styrelseprotokoll för att bedöma om styrelsen
 utövar tillräcklig kontroll och en god styrning av verksamheten samt att
@@ -1857,18 +1857,18 @@ inte var attesterade av både förbundschef och ordförande, utan enbart förbun
 
 2.6 Styrelsens förvaltning
 Vi har granskat styrelsens förvaltning genom
-- — att säkerställa att förbundsordningen följs
-- att verksamhetsplan/ budget finns upprättad
-- att verksamhetsplanen/budgeten omfattar 3 år
-- att styrelsen har varit beslutsför när beslut fattats
-- att beslut finns om beslutade åtgärder och uppföljning därav
-- att förbundets ekonomiska utfall följs upp minst till delår respektive helår
-- att förbundet inte iklätt sig skulder
-- att delegationsordning finns
-- att attestordning finns
-- att sociala avgifter och källskatt redovisats i tid med rätt belopp
+\- — att säkerställa att förbundsordningen följs
+\- att verksamhetsplan/ budget finns upprättad
+\- att verksamhetsplanen/budgeten omfattar 3 år
+\- att styrelsen har varit beslutsför när beslut fattats
+\- att beslut finns om beslutade åtgärder och uppföljning därav
+\- att förbundets ekonomiska utfall följs upp minst till delår respektive helår
+\- att förbundet inte iklätt sig skulder
+\- att delegationsordning finns
+\- att attestordning finns
+\- att sociala avgifter och källskatt redovisats i tid med rätt belopp
 
-- att förbundet har adekvat administrativ förmåga
+\- att förbundet har adekvat administrativ förmåga
 
 Vi har i vår av redovisning och betalning av sociala avgifter och källskatt noterat att
 förbundet har ådragit sig 4 st förseningsavgifter på 625 kr/st, en förseningsavgift på
@@ -1908,7 +1908,7 @@ I den nya redovisningslagen LKBR, föreskrivs att den årsredovisningen ska inne
 en driftsredovisning som en egen del.
 
 Samordningsförbundet Halland har upprättat en driftsredovisning i årsredovisningen för
-2023.
+2023\.
 Rekommendationer
 
 Baserat på ovan redovisade iakttagelser lämnar vi följande rekommendationer till
@@ -3269,7 +3269,7 @@ priset. Inga förändringar har skett gällande vilka system som används inom
 IT och telefoni.
 
 Hyran kommer för 2025 sannolikt ligga på samma nivå som budgeterat
-2024. Hyran varierar från år till år baserat på renoveringar i stadshuset, men
+2024\. Hyran varierar från år till år baserat på renoveringar i stadshuset, men
 en uppskattning är att nivån kommer vara jämförbar med 2024.
 
 Löner är uppräknade med 3 procent för 2025. Vi vet ännu inte hur avtalen
@@ -3331,10 +3331,10 @@ Enhetschef                Ekonom
 | kost, kostnad för biträde avseende |  |  |  |  |  |  |  |
 | upprättade budget redovisning |  |  |  |  |  |  |  |
 | revision och annan nödvändig |  |  |  |  |  |  |  |
-| intern* eller extern experthjälp |  |  |  |  |  |  |  |
+| intern\* eller extern experthjälp |  |  |  |  |  |  |  |
 |  | 10 633 000 | 10 982 265 | 560 096 | 1 779 127 | 3 777 899 | 1 757 162 | 3 107 981 |
-| *OH | 455 320 | 469 291 | 28 404 | 77 165 | 157 116 | 76 286 | 130 319 |
-| *Fast Avgift | 750 000 | 750 000 | 150 000 | 150 000 | 150 000 | 150 000 | 150 000 |
+| \*OH | 455 320 | 469 291 | 28 404 | 77 165 | 157 116 | 76 286 | 130 319 |
+| \*Fast Avgift | 750 000 | 750 000 | 150 000 | 150 000 | 150 000 | 150 000 | 150 000 |
 | Totalt | 11 838 320 | 12 201 555 | 738 499 | 2 006 292 | 4 085 015 | 1 983 449 | 3 388 300 |
 
 <!-- sida 63 -->
@@ -3541,29 +3541,29 @@ Expedierat/bestyrkt
 Nämnden för Service ska till kommunens förvaltningar inom Kungsbacka kommun tillhandahålla
 
 och utveckla efterfrågade tjänster inom följande områden:
-- Ny- till- och ombyggnad samt inhyrning av verksamhetslokaler
+\- Ny- till- och ombyggnad samt inhyrning av verksamhetslokaler
 
-- Fastighetsförvaltning och -underhåll
-- Måltidsproduktion och servering i förskolor, skolor, gymnasier och boenden
+\- Fastighetsförvaltning och -underhåll
+\- Måltidsproduktion och servering i förskolor, skolor, gymnasier och boenden
 
-- Lokalvård
+\- Lokalvård
 
-- Löneadministration
-- Stöd för personalrekrytering
+\- Löneadministration
+\- Stöd för personalrekrytering
 
-- Extern kundtjänst
-- Inköp (upphandling och e-handel)
+\- Extern kundtjänst
+\- Inköp (upphandling och e-handel)
 
-- Gemensam fordonshantering
-- IT, drift och support samt telesupport
+\- Gemensam fordonshantering
+\- IT, drift och support samt telesupport
 
 Nämnden ansvarar också för kommunens uppgifter vad avser:
-- Ekonomisk rådgivning enligt socialtjänstlagen
+\- Ekonomisk rådgivning enligt socialtjänstlagen
 
-- Konsumentrådgivning
-- Energi- och klimatrådgivning
+\- Konsumentrådgivning
+\- Energi- och klimatrådgivning
 
-- Bostadsförmedling.
+\- Bostadsförmedling.
 
 <!-- sida 70 -->
 
@@ -4048,23 +4048,23 @@ styrelsens diarium senast 2024-01-26. Motionen behandlades av Kommunfullmäktige
 2023-09-12 § 139.
 
 Motionärerna yrkar:
-- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i
+\- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i
 kommunen, tar fram en konkret plan för att bekämpa dessa arter, i parker och på
 allmänna ytor samt av kommunen ägda bolags marker tex Eksta och Tjolöholm. En plan
 för att bekämpa en art med stor spridning bör innehålla.
 
-1. Kartläggning av förekomster av arten
-2. Prioritering för bekämpning
+1\. Kartläggning av förekomster av arten
+2\. Prioritering för bekämpning
 
-3. Metod och avfallshantering
-4. Upprepade insatser och uppföljning
+3\. Metod och avfallshantering
+4\. Upprepade insatser och uppföljning
 
-- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i
+\- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i
 kontakt med dessa utmaningar i sitt dagliga värv. Detta skall även gälla
 underentreprenörer för att effektivisera bekämpningen i parker och allmänna ytor och till
 kommunen kopplade ytor.
 
-- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för
+\- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för
 att effektivt förhindra spridning.
 Kungsbackaborna anger bland annat i sin motion att invasiva främmande arter är ett
 växande problem och räknas som ett av de absolut största hoten mot biologisk mångfald.
@@ -4090,23 +4090,23 @@ Datum
 anställda som arbetar eller kommer i kontakt med dessa utmaningar i sitt dagliga värv bör
 avslås med hänvisning till att utbildning för anställda redan finns inom kommunen.
 Följande åtgärder har genomförts,
--  Service Fastighet har informerat all berörd personal om gällande rutiner för
+\-  Service Fastighet har informerat all berörd personal om gällande rutiner för
 bekämpning av invasiva arter.
 
--  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
--  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av
+\-  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
+\-  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av
 
 Service.
--  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda
+\-  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda
 verksamhetsområden och enheter inom förvaltningarna Teknik, Service och
 Kommunstyrelsen med uppdrag att samordna tidiga insatser så att rätt åtgärder
 vidtas.
 
 Följande insatser genomförs under 2024 och därefter årligen,
--  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med
+\-  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med
 personal inför växtsäsongen.
 
--  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
+\-  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
 Gällande det fortsatta yrkandet, om att det även ska gälla underentreprenörer för att
 
 effektivisera bekämpningen i parker och allmänna ytor och till kommunen kopplade ytor,
@@ -4166,19 +4166,19 @@ prioritering biologisk mångfald (KS 2023-00584), med svar till Kommunstyrelsens
 2024-01-26. Motionen behandlades av Kommunfullmäktige 2023-09-12 § 139.
 Motionärerna yrkar:
 
-- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i kommunen, tar fram
+\- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser ut i kommunen, tar fram
 en konkret plan för att bekämpa dessa arter, i parker och på allmänna ytor samt av kommunen ägda
 bolags marker tex Eksta och Tjolöholm. En plan för att bekämpa en art med stor spridning bör innehålla.
-1. Kartläggning av förekomster av arten
-2. Prioritering för bekämpning
-3. Metod och avfallshantering
+1\. Kartläggning av förekomster av arten
+2\. Prioritering för bekämpning
+3\. Metod och avfallshantering
 
-4. Upprepade insatser och uppföljning
-- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i kontakt med dessa
+4\. Upprepade insatser och uppföljning
+\- att kommunen tar fram en utbildning för de anställda som arbetar eller kommer i kontakt med dessa
 utmaningar i sitt dagliga värv. Detta skall även gälla underentreprenörer för att effektivisera
 bekämpningen i parker och allmänna ytor och till kommunen kopplade ytor.
 
-- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för att effektivt
+\- att kommunen tar fram riktlinjer för samarbete med Trafikverket och Länsstyrelsen för att effektivt
 förhindra spridning.
 
 1 (3)
@@ -4222,14 +4222,14 @@ eller kommer i kontakt med dessa utmaningar i sitt dagliga värv bör avslås me
 utbildning för anställda redan finns inom kommunen.
 
 Följande åtgärder har genomförts,
--  Service Fastighet har informerat all berörd personal om gällande rutiner för bekämpning av
+\-  Service Fastighet har informerat all berörd personal om gällande rutiner för bekämpning av
 invasiva arter.
 
--  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
+\-  Service Fastighet har tagit fram en arbetsprocess vid upptäckt av invasiva arter.
 
--  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av Service.
+\-  Service Fastighet genomför regelbundna kontroller på de ytor som förvaltas av Service.
 
--  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda verksamhetsområden
+\-  Ett ”Invasiva arter-team” bildades 2021 med representanter från berörda verksamhetsområden
 och enheter inom förvaltningarna Teknik, Service och Kommunstyrelsen med uppdrag att
 samordna tidiga insatser så att rätt åtgärder vidtas.
 
@@ -4239,10 +4239,10 @@ KUNGSBACKA  KOMMUN
 3 (3)
 
 Följande insatser genomförs under 2024 och därefter årligen,
--  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med personal inför
+\-  Genomgång om invasiva arter och till detta framtagen rutin för bekämpning med personal inför
 
 växtsäsongen.
--  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
+\-  Uppdatering av infomaterial vid förändring av rutiner eller lagkrav.
 
 Gällande det fortsatta yrkandet, om att det även ska gälla underentreprenörer för att effektivisera
 bekämpningen i parker och allmänna ytor och till kommunen kopplade ytor, menar förvaltningen för
@@ -4412,24 +4412,24 @@ spridningskraft och det finns ingen bekämpningsmetod som säkert fungerar.
 
 Kungsbackaborna yrkar därför:
 
-- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser
+\- att förvaltningen för Teknik, efter en analys hur spridningen av dessa arter ser
 ut i kommunen, tar fram en konkret plan för att bekämpa dessa arter, i parker
 och på allmänna ytor samt av kommunen ägda bolags marker tex Eksta och
 Tjolöholm. En plan för att bekämpa en art med stor spridning bör innehålla.
 
-1. Kartläggning av förekomster av arten
-2. Prioritering för bekämpning
+1\. Kartläggning av förekomster av arten
+2\. Prioritering för bekämpning
 
-3. Metod och avfallshantering
+3\. Metod och avfallshantering
 
-4. Upprepade insatser och uppföljning
+4\. Upprepade insatser och uppföljning
 
-- att kommunen tar fram en utbildning för de anställda som arbetar eller
+\- att kommunen tar fram en utbildning för de anställda som arbetar eller
 kommer i kontakt med dessa utmaningar i sitt dagliga värv. Detta skall även
 gälla underentreprenörer för att effektivisera bekämpningen i parker och
 allmänna ytor och till kommunen kopplade ytor.
 
-- att kommunen tar fram riktlinjer för samarbete med Trafikverket och
+\- att kommunen tar fram riktlinjer för samarbete med Trafikverket och
 Länsstyrelsen för att effektivt förhindra spridning.
 
 Roger Larsson (Kb) Janne Heimbrand (Kb)

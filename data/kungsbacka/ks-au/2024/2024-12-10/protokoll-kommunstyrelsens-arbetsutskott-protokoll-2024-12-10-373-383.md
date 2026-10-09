@@ -134,7 +134,7 @@ Kommunstyrelsens arbetsutskott godkänner förändringen av ärendelistan.
 Sammanfattning av ärendet
 
 Ordförande Fredrik Hansson (C) anmäler ett extra ärende till dagens sammanträde:
-- Yttrande till Förvaltningsrätten i Göteborg avseende överklagande
+\- Yttrande till Förvaltningsrätten i Göteborg avseende överklagande
 
 (laglighetsprövning enligt kommunallagen) av beslut om införande av tolkavgift
 
@@ -248,12 +248,12 @@ effektivisera reglerna kring osjälvständiga brottsformer, såsom försök, fö
 och stämpling, enligt svensk strafflagstiftning.
 
 Utredaren presenterar bland annat förslag som innebär:
-1. Utvidgat straffansvar för otjänliga försök föreslås införas vilket innebär att även
+1\. Utvidgat straffansvar för otjänliga försök föreslås införas vilket innebär att även
 
 försök där brottet inte kan fullbordas på grund av myndigheters åtgärder (t.ex.
 polisiära insatser) kriminaliseras. Ett undantag föreslås dock för mindre allvarliga
 fall.
-2. Förändringar av reglerna för förberedelse och stämpling:
+2\. Förändringar av reglerna för förberedelse och stämpling:
 
 Bestämmelsen utökas till att även omfatta befattning med hjälpmedel som kan
 användas vid brott. Ytterligare straffbara åtgärder när det gäller betalning och
@@ -261,7 +261,7 @@ täckande av kostnader för ett brott föreslås också.
 Inkludering av informationsinsamling (exempelvis kartläggning) som en del av
 
 förberedelse till brott.
-3. Att en ny möjlighet till frivilligt tillbakaträdande från försök, förberedelse och
+3\. Att en ny möjlighet till frivilligt tillbakaträdande från försök, förberedelse och
 stämpling till ett brott införs.
 
 Bestämmelsen är avsedd att möjliggöra också för de personer som inte har ett
@@ -288,10 +288,10 @@ Kommunstyrelsens arbetsutskott
 Datum
 2024-12-10
 
-4. Strängare regler för gärningsmannaskap, anstiftan och medhjälp, vilket innebär
+4\. Strängare regler för gärningsmannaskap, anstiftan och medhjälp, vilket innebär
 att det föreslås införas tydligare definitioner för gärningsmän och medverkande
 samt nya bestämmelser för när juridiska personer kan hållas ansvariga.
-5. Skärpta regler mot underlåtenhet att avslöja brott. Ansvar för att avslöja eller
+5\. Skärpta regler mot underlåtenhet att avslöja brott. Ansvar för att avslöja eller
 förhindra allvarliga brott föreslås skärpas, särskilt inom organiserad brottslighet.
 
 Straffrihet ska inte längre gälla om brottet kan avslöjas utan fara för den som
@@ -534,7 +534,7 @@ Parkstad och vad de parkeringsutredningar som har genomförts visar.
 
 Utbyggnaden av Kolla Parkstad har pågått i cirka 15 år. Området är i stort sett
 färdigbyggt och alla gator, parker och kommunala parkeringar har byggts klart under
-2024. Totalt finns det fyra obebyggda kvarter kvar.
+2024\. Totalt finns det fyra obebyggda kvarter kvar.
 Parkeringsfrågan i området är den enda avslutade frågan att hantera mellan parterna
 och byggherrarna önskar få ett avslut i den frågan.
 

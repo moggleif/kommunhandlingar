@@ -497,7 +497,7 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Rickard Vidlund informerar om:
--  Kungsbacka vann pris som årets digitaliseringskommun på Kvalitetsmässan
+\-  Kungsbacka vann pris som årets digitaliseringskommun på Kvalitetsmässan
 
 med följande motivering:
 I en tid då kommunerna står inför stora utmaningar kopplat till demografiska
@@ -517,13 +517,13 @@ tjänstepersonsledning har kommunen etablerat ett DNA där förändring och för
 är en självklar del i verksamhetens olika delar och där digitaliseringens möjligheter
 
 utgör grunden.
--  Reflektioner från SMART-mässan 13 november
+\-  Reflektioner från SMART-mässan 13 november
 
 Ledamöterna informerar om:
--  mötesplats näringsliv,
+\-  mötesplats näringsliv,
 
--  senaste mötet med förbundsstyrelsen i GR,
--  Dialog och middag med civilminister Erik Slottner och landshövding Sten
+\-  senaste mötet med förbundsstyrelsen i GR,
+\-  Dialog och middag med civilminister Erik Slottner och landshövding Sten
 Tolgfors på residenset i Göteborg. Inbjudna var presidierna från
 medlemskommunerna i GR och dialogen handlade om kapacitet för att klara
 

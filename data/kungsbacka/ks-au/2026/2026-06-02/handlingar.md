@@ -41,7 +41,7 @@ Kungsbackarummet, Storgatan 37
 
 Val av justerare Johan Tolinsson
 
-1. | Redovisning av kommunalt |KS-2026-00084 |Förslag till beslut i kommunfullmäktige
+1\. | Redovisning av kommunalt |KS-2026-00084 |Förslag till beslut i kommunfullmäktige
 
 partistöd för år 2025 och Kommunfullmäktige beviljar Moderaterna,
 utbetalning av partistöd för år Centerpartiet, Liberalerna, Kristdemokraterna,
@@ -58,7 +58,7 @@ respektive parti besitter i kommunfullmäktige
 efter de allmänna valen 2026. Partistödet betalas
 ut i januari 2027.
 
-2. |Rapport från nämnden för KS-2026-00417 |Förslag till beslut i kommunfullmäktige
+2\. |Rapport från nämnden för KS-2026-00417 |Förslag till beslut i kommunfullmäktige
 
 Individ & Familjeomsorg av Kommunfullmäktige noterar rapport från nämnden
 ej verkställda beslut enligt för Individ & Familjeomsorg av ej verkställda
@@ -106,7 +106,7 @@ Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen förklarar uppdraget att utreda
 möjligheten till etablering av ett utvecklingscenter
 i kommunen, som lämnades av kommunstyrelsen
-den 18 juni 2024, $ 169, för avslutat.
+den 18 juni 2024, \$ 169, för avslutat.
 
 Godkännande av principavtal
 med Tölö Utvecklings AB
@@ -208,7 +208,7 @@ Kommunstyrelsen lämnar besked att kommunen
 inte avser att pröva den begärda åtgärden genom
 planläggning inom Bröndome 1:3 i Vallda.
 
-10.
+10\.
 
 Begäran om planbesked
 Kyvik 2:14
@@ -226,7 +226,7 @@ uppdrag att ta fram en projektbeställning för
 upprättande av detaljplan för friliggande
 enbostadshus inom Kyvik 2:14 i Kullavik.
 
-11.
+11\.
 
 Redovisning av uppdragslista,
 våren 2026 (från årshjul)
@@ -250,7 +250,7 @@ Beteckning
 
 Förslag
 
-12.
+12\.
 
 Information kommunikation
 om vatten, trygghet & frihet
@@ -291,7 +291,7 @@ Förslag till beslut
 Kommunstyrelsens arbetsutskott noterar
 informationen till protokollet.
 
-14.
+14\.
 
 Information om inkomna
 anbud och fortsatt arbete
@@ -340,7 +340,7 @@ KUNGSBACKA KOMMUN
 
 Beteckning Förslag
 
-16.
+16\.
 
 Information om Kungsbacka
 Arena
@@ -467,11 +467,11 @@ också ett granskningsintyg lämnas. Redovisningen och granskningen ska avse per
 december och lämnas in senast sex månader efter räkenskapsårets utgång.
 
 Kommunfullmäktige kan besluta att inte betala ut partistöd till ett parti för nästkommande år om:
-- Redovisningen av partistödet visar att partistödet inte använts för det ändamål som anges i
+\- Redovisningen av partistödet visar att partistödet inte använts för det ändamål som anges i
 4 kap. 29 § första stycket kommunallagen eller på annat sätt inte följer de bestämmelser som
 anges i reglerna för kommunalt partistöd i Kungsbacka kommun.
 
-- Redovisningen och granskningsintyg inte har lämnats in till kommunfullmäktige inom
+\- Redovisningen och granskningsintyg inte har lämnats in till kommunfullmäktige inom
 föreskriven tid enligt 4 kap. 31 § andra stycket kommunallagen, det vill säga senast sex
 månader efter räkenskapsårets utgång.
 
@@ -530,7 +530,7 @@ Partiuppgifter
 
 År 2025
 
-113)
+113\)
 
 Parti
 
@@ -564,7 +564,7 @@ Kvarstående partistöd från föregående period (år)
 
 Beviljat partistöd för perioden
 
-+
+\+
 
 Utgifter under perioden (summa B + C)
 
@@ -599,11 +599,11 @@ C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 
 Granskares anteckningar
 
-213)
+213\)
 
 Överföring ill Motprestation Kronor
 KD partidistrikt Halland + Gemensamma tjänster 92 826
--
+\-
 
 Summa överföringar = 92 826
 Underskrift
@@ -705,10 +705,10 @@ Granskares anteckningar
 
 Miljöpa rtiet Riks utbildning och nätverk 6 880:-
 
-+
+\+
 
-|
-+
+\|
+\+
 Mölnihinö SESSSNT, "vera
 
 Summa överföringar a 6 880:-
@@ -746,7 +746,7 @@ Redovisning av kommunalt partistöd
 
 År 2025
 
-13)
+13\)
 
 Partiuppgifter
 
@@ -797,7 +797,7 @@ Bankkostnader, Minnesgåva vid dödsfall 6048
 
 C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 
-213)
+213\)
 
 Granskares anteckningar
 
@@ -813,10 +813,10 @@ Kronor
 
 Vänsterpartiet Halland
 
-+ Gemensamma aktiviteter 31104
+\+ Gemensamma aktiviteter 31104
 Annonsering
 
-+
+\+
 Summa överföringar = 45804
 Underskrift
 Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
@@ -865,7 +865,7 @@ Partiuppgifter
 HD
 
 KVvetbtr
-PNGÄNNGSbac <A
+PNGÄNNGSbac \<A
 
 +&-postadress
 
@@ -948,7 +948,7 @@ ka bidr
 
 <!-- sida 16 -->
 
-213)
+213\)
 C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 Överföring till Molprestation ä t . ronor fs
 Modirokrua Mim avaett 37 980
@@ -997,7 +997,7 @@ Namniförtlydligande Datum
 
 <!-- sida 17 -->
 
-144)
+144\)
 
 Kungsbacka
 
@@ -1012,15 +1012,15 @@ Annika Hedman, NN
 A Sammanställning Kronor Granskares anteckningar
 Kvarstående partistöd från föregående penod (år) |
 Beviljat partistöd för perinden | + 382 200
-|
+\|
 | Utgifter under perioden (summa B + Cj | - 240 107
-- ]
+\- ]
 | Kvarstående partistöd inför kommande period (summa) | = 142 093
 B Redovisning av hur partistödet använts (aktiviteter) Kronor Granskares anteckningar
 | Aktivitet
 | 29 026
 | Kommunikation — webb
-|
+\|
 Kommunikation — annonsering |
 Annons: 2 111 Förening: 28 750 30 861
 Kommunikation — trycksaker
@@ -1048,7 +1048,7 @@ C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 Granskares anteckningar
 Överföring till Motprestation Kronor
 Centerpartiet Hallands Distr + Administration | 97181
-+
+\+
 | Summa överföringar = 97 181
 Underskrift
 Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
@@ -1092,7 +1092,7 @@ Kungsbacka
 
 Redovisning av kommunalt partistöd
 
-119)
+119\)
 
 År 2025
 
@@ -1143,13 +1143,13 @@ Summa utgifter för aktiviteter under perioden =-644 964
 
 C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 
-213)
+213\)
 
 Granskares anteckningar
 
 Överföring till Motprestation Kronor
-+
-+
+\+
+\+
 Summa överföringar ic
 Underskrift
 Jag intygar riktigheten i de uppgifter som lämnats I redovisningen
@@ -1192,7 +1192,7 @@ ko
 
 <!-- sida 21 -->
 
-13)
+13\)
 
 Kungsbacka
 Redovisning av kommunalt partistöd År 2025
@@ -1228,7 +1228,7 @@ Material (t.ex. IT, kontorsmaterial)
 Försäkring, Bankkostnader, Porto, Möteskostnader 13 016
 Summa utgifter för aktiviteter under perioden = 79 045
 
-= FISKET EE URP Of a RESET VIRA $ visma sign
+= FISKET EE URP Of a RESET VIRA \$ visma sign
 
 <!-- sida 22 -->
 
@@ -1239,8 +1239,8 @@ C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 Granskares anteckningar
 
 Överföring till Motprestation Kronor
-+
-+
+\+
+\+
 
 Summa överföringar =
 
@@ -1290,7 +1290,7 @@ IST
 
 C
 
-$ visma sign
+\$ visma sign
 
 WWW.V Om
 
@@ -1348,7 +1348,7 @@ j I
 ME
 AV -
 I äl
-+
+\+
 Summa överföringar = 52920,00
 Underskrift
 Jag Intygar rktigheten] de uppgifter som lämnats I radovisningen
@@ -1471,8 +1471,8 @@ Härmed intygas att partiet har följt ändamålet för regler för partistöd i
 
 Datum | Ort
 2026-05-07 | Kungsbacka
-|
-|
+\|
+\|
 
 [Tk
 
@@ -1573,46 +1573,46 @@ Beskrivning av ärendet
 
 KUNGSBACKA KOMMUN
 
-Ej verkställda beslut, barn och unga, enligt 11 kap 1 $ och rapportering enligt 34 kap 1-3 $$
+Ej verkställda beslut, barn och unga, enligt 11 kap 1 \$ och rapportering enligt 34 kap 1-3 \$\$
 socialtjänstlagen, SoL.
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
 
-2024-11-27 11 kap 1 $ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2024-11-27 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
-2025-01-18 11 kap 1 $ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2025-01-18 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
-2025-01-18 11 kap 1 $ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2025-01-18 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
-2025-01-18 11 kap 1 $ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2025-01-18 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
-2025-11-07 11 kap I $ SoL kontaktperson | Otydligheter eller brister i den egna organisationen.
+2025-11-07 11 kap I \$ SoL kontaktperson | Otydligheter eller brister i den egna organisationen.
 
-2025-11-14 11 kap 1 $ SoL Saknar plats.
+2025-11-14 11 kap 1 \$ SoL Saknar plats.
 
 öppenvårdsverksamhet
 
-2025-11-20 11 kap 1 $ SoL kontaktperson | Personalrelaterade skäl.
+2025-11-20 11 kap 1 \$ SoL kontaktperson | Personalrelaterade skäl.
 
-2025-11-28 11 kap I $ SoL kontaktfamilj | Personalrelaterade skäl.
+2025-11-28 11 kap I \$ SoL kontaktfamilj | Personalrelaterade skäl.
 
-2025-12-03 11 kap 1 $ SoL kontaktfamilj | Personalrelaterade skäl, första förslag på kontaktfamilj
+2025-12-03 11 kap 1 \$ SoL kontaktfamilj | Personalrelaterade skäl, första förslag på kontaktfamilj
 bedömdes ej lämpligt, nytt förslag är under utredning.
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
 Beslutsdatum | Insats Skäl till att beslutet ej Datum för
 verkställts verkställighet/avslut
-2024-12-27 11 kap 1 $ SoL Saknar plats. Avslutat 2026-03-19.
+2024-12-27 11 kap 1 \$ SoL Saknar plats. Avslutat 2026-03-19.
 öppenvårdsverksamhet Behovet tillgodoses
 genom annan insats
-2025-04-05 11 kap 1 $ SoL Personalrelaterade skäl. Verkställt 2026-04-09.
+2025-04-05 11 kap 1 \$ SoL Personalrelaterade skäl. Verkställt 2026-04-09.
 kontaktperson
-2025-07-04 11 kap I $ SoL Personalrelaterade skäl. Verkställt 2026-02-26.
+2025-07-04 11 kap I \$ SoL Personalrelaterade skäl. Verkställt 2026-02-26.
 kontaktperson
 
 2 09)
@@ -1623,93 +1623,93 @@ KUNGSBACKA KOMMUN
 
 3 (9)
 
-Ej verkställda beslut, funktionsstödsenheten, enligt 9 $ och rapportering enligt 28 f-g $$ lagen om stöd
-och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 $ och rapportering enligt 34 kap 1-3
-$$ socialtjänstlagen, SoL
+Ej verkställda beslut, funktionsstödsenheten, enligt 9 \$ och rapportering enligt 28 f-g \$\$ lagen om stöd
+och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 \$ och rapportering enligt 34 kap 1-3
+\$\$ socialtjänstlagen, SoL
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
 
-2024-12-01 11 kap 1 $ SoL, Den enskilde medverkar inte till verkställighet. Tackat
+2024-12-01 11 kap 1 \$ SoL, Den enskilde medverkar inte till verkställighet. Tackat
 
 kontaktperson nej till erbjudande 2025-06. Går inte få kontakt.
 
-2025-07-04 11 kap 1 $ SoL, boendestöd | Är i behov av lång uppstart, har specifika behov.
+2025-07-04 11 kap 1 \$ SoL, boendestöd | Är i behov av lång uppstart, har specifika behov.
 Planering pågår.
 
-2025-09-17 11 kap I $ SoL, bostad Den enskilde är placerad enligt annan insats.
+2025-09-17 11 kap I \$ SoL, bostad Den enskilde är placerad enligt annan insats.
 
-2025-12-18 11 kap 1 $ SoL, boendestöd | Den enskilde medverkar inte till verkställighet. 1 av 2
+2025-12-18 11 kap 1 \$ SoL, boendestöd | Den enskilde medverkar inte till verkställighet. 1 av 2
 insatser är verkställda. Avbokar möten och svarar inte
 på kontaktförsök.
 
-2025-07-01 9 $4 LSS, kontaktperson Den enskilde medverkar inte till verkställighet.
+2025-07-01 9 \$4 LSS, kontaktperson Den enskilde medverkar inte till verkställighet.
 Rekrytering pågår. Den enskilde vill avvakta med
 uppstart.
 
-2024-06-26 9 $ 6 LSS, korttidsvistelse i | Den enskilde har specifika önskemål. Vill fortsätta med
+2024-06-26 9 \$ 6 LSS, korttidsvistelse i | Den enskilde har specifika önskemål. Vill fortsätta med
 
 form av läger insatsen, svarar inte på kontaktförsök.
 
-2025-02-24 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, arbetsmiljöproblem relaterade
+2025-02-24 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, arbetsmiljöproblem relaterade
 
 form av läger till den enskilde. Har blivit erbjuden anpassad
 verkställighet som den enskilde tackat nej till.
 Den enskilde har specifika önskemål.
 
-2025-06-24 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, hälsoproblem hos den
+2025-06-24 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, hälsoproblem hos den
 
 form av läger enskilde.
 
-2025-06-26 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Tackat nej till sommarvistelse,
+2025-06-26 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Tackat nej till sommarvistelse,
 
 form av läger vill avvakta till hösten.
 
-2025-09-06 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-06 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
 
 form av läger till verkställighet. Den enskilde vill inte ha insatsen
 
-2025-09-06 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde har specifika
+2025-09-06 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde har specifika
 
 form av läger önskemål. Den enskilde medverkar inte till
 verkställighet, vill avvakta med insatsen till hösten
-2026.
+2026\.
 
 <!-- sida 31 -->
 
 KUNGSBACKA KOMMUN
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
-2025-11-21 9 $ 6 LSS, korttidsvistelse i | Den enskilde medverkar inte till verkställighet. Den
+2025-11-21 9 \$ 6 LSS, korttidsvistelse i | Den enskilde medverkar inte till verkställighet. Den
 form av läger enskilde vill inte ha insatsen. Planering pågår, inväntar
 återkoppling.
-2025-12-03 9 $ 6 LSS, korttidsvistelse i | Vårdnadshavarens behov av stöd har varit ett hinder
+2025-12-03 9 \$ 6 LSS, korttidsvistelse i | Vårdnadshavarens behov av stöd har varit ett hinder
 form av läger merparten av väntetiden. Planering pågår.
-2025-12-10 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
+2025-12-10 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
 form av läger till verkställighet.
-2026-01-20 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde vill inte längre
+2026-01-20 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde vill inte längre
 form av läger ha insatsen pga personalförändringar.
 Motivationsarbete pågår.
-2024-10-17 9 $9LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande om köpt plats.
+2024-10-17 9 \$9LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande om köpt plats.
 i form av servicebostad Tacket nej till erbjudande 2025-05 pga för långt från
 centrum. Tackat ja till plats som blir ledig till hösten.
-2025-01-14 9 $ 9 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande i 2025-11. Har
+2025-01-14 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande i 2025-11. Har
 i form av gruppbostad specifika önskemål om boende. Kommer erbjudas köpt
 plats under maj månad.
-2025-03-12 9 $9 LSS, bostad för vuxna | Saknar plats. Planering pågår. Fått erbjudande om köpt
+2025-03-12 9 \$9 LSS, bostad för vuxna | Saknar plats. Planering pågår. Fått erbjudande om köpt
 i form av gruppbostad plats. Tackat nej till erbjudande 2025-11. Planering
 pågår.
-2025-03-14 9 $ 9 LSS, bostad för vuxna | Tackat nej till erbjudande 2025-03-25. Ny planering
+2025-03-14 9 \$ 9 LSS, bostad för vuxna | Tackat nej till erbjudande 2025-03-25. Ny planering
 i form av servicebostad pågår. Tackat ja till plats, inflyttningsdatum inte
 bestämt.
 2025-09-15 9 89 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande 2025-12. Nytt
 i form av gruppbostad erbjudande 2026-04, studiebesök ska genomföras.
-2025-10-16 9 $ 9 LSS, bostad för vuxna | Saknar plats. Planering pågår. Tackat nej till
+2025-10-16 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Planering pågår. Tackat nej till
 1 form av servicebostad erbjudande 2026-03.
-2025-10-27 9 $ 9 LSS, bostad för vuxna | Saknar plats. Den enskilde vistas på korttidshem och
+2025-10-27 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Den enskilde vistas på korttidshem och
 i form av servicebostad vill bo kvar där, planering pågår.
-2025-11-21 9 $ 9 LSS, bostad för vuxna | Saknar plats. Tackat ja till plats 2026-04,
+2025-11-21 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Tackat ja till plats 2026-04,
 i form av gruppbostad inflyttningsdatum inte bestämt.
-2026-01-08 9 $9LSS, bostad för vuxna | Saknar plats. Placerad genom annan insats. Erbjudits
+2026-01-08 9 \$9LSS, bostad för vuxna | Saknar plats. Placerad genom annan insats. Erbjudits
 
 i form av servicebostad
 
@@ -1722,22 +1722,22 @@ köpt plats med inflyttning 2026-05.
 KUNGSBACKA KOMMUN
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
-2026-01-21 9 $ 9 LSS, bostad för vuxna | Saknar plats. Erbjudande skickats ut 2026-04, inväntar
+2026-01-21 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Erbjudande skickats ut 2026-04, inväntar
 i form av servicebostad återkoppling.
-2026-01-21 9 $9LSS, bostad för vuxna | Saknar plats. Planering pågår.
+2026-01-21 9 \$9LSS, bostad för vuxna | Saknar plats. Planering pågår.
 i form av servicebostad
-2022-02-04 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2022-02-04 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet.
-2023-12-18 9 $ 10 LSS, daglig Avbrott i verkställighet, den enskilde medverkar inte
+2023-12-18 9 \$ 10 LSS, daglig Avbrott i verkställighet, den enskilde medverkar inte
 verksamhet till verkställighet. Verksamheten har kontinuerlig
 kontakt.
-2024-08-19 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2024-08-19 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet. Vill pausa/avvakta insatsen pga
 hälsotillstånd. Beslutet kommer avslutas då den
 enskilde vårdas inom annan myndighet.
-2024-09-13 9 $ 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
+2024-09-13 9 \$ 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
 verksamhet
-2024-12-06 9 $ 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
+2024-12-06 9 \$ 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
 verksamhet
 2025-02-20 9 8 10 LSS, daglig Avbrott i verkställighet. Den enskilde valde att avsluta
 verksamhet sin sysselsättning pga mående och miljö. Blivit
@@ -1747,12 +1747,12 @@ vill inte längre ha insatsen.
 verksamhet enskilde har andra önskemål om verkställighet. Fått
 erbjudande om 2 nya verksamheter men inte svarat på
 introduktion. Den enskilde avbokar möten.
-2025-03-13 9 $ 10LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-03-13 9 \$ 10LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet. Den enskilde har specifika önskemål.
-2025-03-19 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-03-19 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga mående och förändringar i
 verksamheten. Erbjudits ny uppstart 2026-04.
-2025-04-08 9 $ 10 LSS, daglig Den enskilde medverkar inte till verkställighet. Vill
+2025-04-08 9 \$ 10 LSS, daglig Den enskilde medverkar inte till verkställighet. Vill
 verksamhet avvakta med uppstart pga hälsoskäl.
 
 5 (9)
@@ -1762,31 +1762,31 @@ verksamhet avvakta med uppstart pga hälsoskäl.
 KUNGSBACKA KOMMUN
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
-2025-06-04 9 $ 10 LSS, daglig Avbrott i verkställighet. Pga hälsoskäl. Verksamheten
+2025-06-04 9 \$ 10 LSS, daglig Avbrott i verkställighet. Pga hälsoskäl. Verksamheten
 verksamhet har kontinuerlig kontakt.
-2025-09-09 9 $ 10LSS, daglig Avbrott i verkställighet. Den enskilde har specifika
+2025-09-09 9 \$ 10LSS, daglig Avbrott i verkställighet. Den enskilde har specifika
 verksamhet önskemål och vill avvakta ny uppstart.
-2025-09-09 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-09 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet. Kontakt och planering pågår för att
 motivera den enskilde.
-2025-09-13 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-13 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga hälsotillstånd.
-2025-09-17 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-17 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet.
-2025-09-22 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-22 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet.
-2025-11-17 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-11-17 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga hälsotillstånd.
-2025-11-25 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-11-25 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga hälsotillstånd.
-2025-12-03 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-12-03 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga hälsotillstånd. Den enskilde vill
 avvakta med insatsen.
-2025-12-04 9 $ 10LSS, daglig Avbrott i verkställighet. Den enskilde pausade insatsen
+2025-12-04 9 \$ 10LSS, daglig Avbrott i verkställighet. Den enskilde pausade insatsen
 verksamhet pga hälsotillstånd. Tackar ja till ny praktikplats,
 praktikplatsen avbokar samarbetet. Planering pågår för
 att hitta ny praktikplats.
-2025-12-10 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-12-10 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 
 verksamhet
 
@@ -1802,38 +1802,38 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 
 Beslutsdatum | Insats Skäl till att beslutet ej Datum för
 verkställts verkställighet/avslut
-2025-01-17 11 kap I $ SoL, bostad Saknar plats, planering pågår. Verkställt 2026-01-17.
+2025-01-17 11 kap I \$ SoL, bostad Saknar plats, planering pågår. Verkställt 2026-01-17.
 Tackat nej till erbjudande 2025-
 05 då det var för långt från
 centrum. Bor på externt
 korttidshem i väntan på BmSS.
-2025-07-17 11 kap 1 $ SoL, Avbrott i verkställighet. Den Verkställt 2026-03-07.
+2025-07-17 11 kap 1 \$ SoL, Avbrott i verkställighet. Den Verkställt 2026-03-07.
 korttidsvistelse enskilde medverkar inte till
 verkställighet.
-2025-08-25 11 kap I $ SoL, Den enskilde medverkar inte till | Avslutat 2026-03-12,
+2025-08-25 11 kap I \$ SoL, Den enskilde medverkar inte till | Avslutat 2026-03-12,
 kontaktfamilj verkställighet. Förslag på på den enskildes
 kontaktperson finns men får inte | begäran.
 tag på den enskilde.
-2025-10-10 11 kap 1 $ SoL, bostad Saknar plats. Verkställt 2026-03-23.
-2025-08-27 9 $4 LSS, kontaktperson | Personalrelaterade skäl. Verkställt 2026-02-02.
-2025-06-01 9 $ 6 LSS, korttidsvistelse | Avbrott i verkställighet, den Verkställt 2026-03-08.
+2025-10-10 11 kap 1 \$ SoL, bostad Saknar plats. Verkställt 2026-03-23.
+2025-08-27 9 \$4 LSS, kontaktperson | Personalrelaterade skäl. Verkställt 2026-02-02.
+2025-06-01 9 \$ 6 LSS, korttidsvistelse | Avbrott i verkställighet, den Verkställt 2026-03-08.
 i form av läger enskilde medverkar inte till
 verkställighet.
-2025-06-14 9 $ 6 LSS, korttidsvistelse | Avbrott i verkställighet, den Avslutat 2026-03-31,
+2025-06-14 9 \$ 6 LSS, korttidsvistelse | Avbrott i verkställighet, den Avslutat 2026-03-31,
 1 form av läger enskilde medverkar inte till på den enskildes
 verkställighet. begäran.
-2025-06-28 9 $ 6 LSS, korttidsvistelse | Avbrott i verkställighet, Avslutat 2026-01-31.
+2025-06-28 9 \$ 6 LSS, korttidsvistelse | Avbrott i verkställighet, Avslutat 2026-01-31.
 
 i form av läger hälsoproblem hos den enskilde. | på den enskildes
 begäran. Beviljats
 annan insats.
 
-2025-10-08 9 $ 6 LSS, korttidsvistelse | Den enskilde har specifika Verkställt 2026-02-27.
+2025-10-08 9 \$ 6 LSS, korttidsvistelse | Den enskilde har specifika Verkställt 2026-02-27.
 
 i form av läger önskemål. Uppstart planerad till
 
 januari 2026.
-2025-10-08 9 $ 6 LSS, korttidsvistelse | Den enskilde har specifika Verkställt 2026-01-24.
+2025-10-08 9 \$ 6 LSS, korttidsvistelse | Den enskilde har specifika Verkställt 2026-01-24.
 
 i form av läger önskemål. Uppstart planerad till
 
@@ -1847,10 +1847,10 @@ KUNGSBACKA KOMMUN
 
 Beslutsdatum | Insats Skäl till att beslutet ej Datum för
 verkställts verkställighet/avslut
-2025-10-19 9 $ 6 LSS, korttidsvistelse | Avbrott i verkställighet. Den Verkställt 2026-02-07.
+2025-10-19 9 \$ 6 LSS, korttidsvistelse | Avbrott i verkställighet. Den Verkställt 2026-02-07.
 i form av läger enskilde medverkar inte till
 verkställighet.
-2025-08-27 9 $9LSS, bostad för Saknar plats. Erbjudande om Verkställt 2026-04-07.
+2025-08-27 9 \$9LSS, bostad för Saknar plats. Erbjudande om Verkställt 2026-04-07.
 vuxna i form av plats kommer gå ut februari
 gruppbostad 2026.
 2024-02-09 9 8 10 LSS, daglig Avbrott i verkställighet, den Avslutat 2026-04-03,
@@ -1858,26 +1858,26 @@ verksamhet enskilde tackat nej till Tä den enskildes
 erbjudande 2024-02-09. Vill SA
 inte avsluta insatsen utan pausa
 på obestämd tid.
-2025-04-17 9 $ 10 LSS, daglig Avbrott i verkställighet. Den Avslutat 2026-02-13,
+2025-04-17 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den Avslutat 2026-02-13,
 verksamhet enskilde medverkar inte till på den enskildes
 verkställighet. Har haft flertalet | begäran.
 möten och blivit erbjuden plats.
 Den enskilde befinner sig nu
 utomlands.
-2025-05-05 9 $ 10 LSS, daglig Avbrott i verkställighet. Den Verkställt 2026-02-09.
+2025-05-05 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den Verkställt 2026-02-09.
 verksamhet enskilde medverkar inte till
 verkställighet. Den enskilde vill
 avvakta med insatsen.
-2025-06-16 9 $ 10 LSS, daglig Avbrott i verkställighet. Den Verkställt 2026-04-14.
+2025-06-16 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den Verkställt 2026-04-14.
 verksamhet enskilde har valt att avsluta sin
 praktik och pausa insatsen. Den
 enskilde önskar nu ny
 praktikplats, planering pågår.
-2025-10-08 9 $ 10 LSS, daglig Den enskilde har specifika Verkställt 2026-02-16.
+2025-10-08 9 \$ 10 LSS, daglig Den enskilde har specifika Verkställt 2026-02-16.
 verksamhet önskemål. Tackat nej till
 erbjudande. Fortsatt planering
 pågår.
-2025-10-21 9 $ 10 LSS, daglig Saknar plats. Tackat ja till Verkställt 2026-02-23.
+2025-10-21 9 \$ 10 LSS, daglig Saknar plats. Tackat ja till Verkställt 2026-02-23.
 
 verksamhet
 
@@ -2142,7 +2142,7 @@ Platsbrist
 
 Platsbrist
 
-24)
+24\)
 
 <!-- sida 40 -->
 
@@ -2337,7 +2337,7 @@ Ann-Helen Svensson
 
 Verksamhetschef
 
-44)
+44\)
 
 <!-- sida 42 -->
 
@@ -2471,20 +2471,20 @@ Kungsbacka kommun » 0300-83 40 00 » infoQkungsbacka.se » kungsbacka.se
 Innehåll
 
 1.Sammanfattning.....................................................................................................................3
-2. Bakgrund och uppdrag........................................................................................................3
-3. Metod och tillvägagångsätt................................................................................................4
+2\. Bakgrund och uppdrag........................................................................................................3
+3\. Metod och tillvägagångsätt................................................................................................4
 
-4. Vad kan ett utvecklingscenter vara?...............................................................................5
-5. Aktörernas behov och möjligheter att bidra.................................................................5
-6. Analys av Kungsbackas förutsättningar för etablering...............................................7
+4\. Vad kan ett utvecklingscenter vara?...............................................................................5
+5\. Aktörernas behov och möjligheter att bidra.................................................................5
+6\. Analys av Kungsbackas förutsättningar för etablering...............................................7
 
-7. Rekommendationer för etablering av ett utvecklingscenter i Kungsbacka..........8
+7\. Rekommendationer för etablering av ett utvecklingscenter i Kungsbacka..........8
 
 Utvecklingscenter med näringslivet Sida 2av 10
 
 <!-- sida 47 -->
 
-1. Sammanfattning
+1\. Sammanfattning
 
 Kommundirektören fick 2024-06-18i uppdrag av Kommunstyrelsen att utreda möjligheten till
 etablering av ett utvecklingscenter som kan stärka kommunens näringsliv och invånare, attrahera
@@ -2552,7 +2552,7 @@ Mot bakgrund av ovan föreslår alliansen att:
 Kommundirektören får i uppdrag att utreda möjligheten till etablering av ett utvecklingscenter i
 kommunen. Utredningen ska belysa intressenter, placering och finansiering.
 
-3. Metod och tillvägagångsätt
+3\. Metod och tillvägagångsätt
 
 Det hari uppdraget inte funnits någragivna förutsättningar eller självklara aktörer/
 samarbetspartners. Tillvägagångsättet har därför varit utforskande, där kunskap och förståelse växt
@@ -2587,7 +2587,7 @@ Utvecklingscenter med näringslivet Sida 4av 10
 
 <!-- sida 49 -->
 
-4. Vad kan ett utvecklingscenter vara?
+4\. Vad kan ett utvecklingscenter vara?
 
 Ett utvecklingscenter ären arena för strategisk samverkan mellanolika samhällssektorer i syfte att
 främja utveckling, nya innovationer, kompetensutvecklingoch forskning som en enskild aktör inte
@@ -2625,7 +2625,7 @@ genombrott, vilket stärker kommunens och näringslivets proaktiva förmåga.
 Det är vanligt att ett utvecklingscenter fokuserar på ett par av ovan exempel och kombinerar de i en
 helhet utifrån intressenternasbehov.
 
-5. Aktörers behov och möjligheter att bidra
+5\. Aktörers behov och möjligheter att bidra
 
 Förutsättningar för ett utvecklingscenter finns när aktörernas behov överlappar varandra och det
 finns vilja och gemensamt intresse av att bidra och skapa något tillsammans. Nedan gesexempel på
@@ -2719,7 +2719,7 @@ engagemang kan de samla in viktiga dataoch identifiera utmaningaroch möjlighete
 De kan bidramed att skapa tillit och engagemangför lokal utvecklinggenom att sprida kunskap om
 gemensamt arbete och projekt.
 
-6. Analys av Kungsbackas förutsättningar för etablering
+6\. Analys av Kungsbackas förutsättningar för etablering
 
 Kungsbacka kommun har ett strategiskt geografiskt läge, ett stabilt och växande näringsliv samt en
 kommunal verksamhet som ligger i framkant. Samtidigt saknas en tydlig behovsbild,ettnaturligt
@@ -2778,7 +2778,7 @@ näringslivet.
 Risk för kortsiktighet -att etablera ett utvecklingscenter är ett långsiktigt arbete där uthållighet,
 långsiktig finansiering och politisk vilja är avgörande faktorer.
 
-7. Rekommendationer för etablering av ett utvecklingscenter i
+7\. Rekommendationer för etablering av ett utvecklingscenter i
 Kungsbacka
 
 För att lyckas med etablering av ett utvecklingscenter krävs en stark förankring hos berörda aktörer,
@@ -3522,7 +3522,7 @@ framtida invånare och bidrar till kommunens långsiktiga välfärd och tillväx
 strategi som positionerar Kungsbacka som en framåtblickande och innovativ kommun.
 
 Mot bakgrund av ovan föreslår alliansen att:
-- Kommundirektören fåri uppdrag att utreda möjligheten till etablering av ett
+\- Kommundirektören fåri uppdrag att utreda möjligheten till etablering av ett
 utvecklingscenter i kommunen. Utredningen ska belysaintressenter, placering och
 finansiering.
 
@@ -3815,7 +3815,7 @@ Sign
 
 9.3
 
-10.
+10\.
 
 10.1
 
@@ -3823,7 +3823,7 @@ Sign
 
 10.3
 
-11.
+11\.
 
 4/7
 
@@ -3888,20 +3888,20 @@ Ad
 
 13:1
 
-14.
+14\.
 14.1
 
 14.2
 
-15.
+15\.
 
 15.1
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 [71
 
@@ -3960,12 +3960,12 @@ Exploatören är vidare skyldig att skriftligen meddela Kommunen vid eventuell
 
 <!-- sida 77 -->
 
-18. — Avtalets giltighet
+18\. — Avtalets giltighet
 
 18.1 — Avtalet är giltigt under förutsättning att det godkänns av kommunstyrelsen i
 Kungsbacka kommun genom beslut som får laga kraft.
 
-19. Tvist
+19\. Tvist
 
 19.1 — Tvist i anledning av Avtalet ska avgöras av allmän domstol.
 
@@ -4159,7 +4159,7 @@ Bakgrund och syfte
 Dotterbolag (WK Norra Åsa AB, 559404-4686) till Bolaget har den 31 mars
 2022 inkommit till samhällsbyggnadskontoret med en begäran om planbesked
 för fastigheten Åsa 3:339. Byggnadsnämndens arbetsutskott beslutade den 1
-december 2023 $318 att ge samhällsbyggnadskontoret i uppdrag att upprätta
+december 2023 \$318 att ge samhällsbyggnadskontoret i uppdrag att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339,
 Detaljplanen.
 
@@ -4171,8 +4171,8 @@ Kläppavägen, ska istället ingå i planområdet, Detaljplanen, för att skapa 
 ändamålsenlig planering.
 
 Reviderad projektbeställning för Detaljplanen, godkändes av Kommunstyrelsen
-den 25 november 2025 $233 och nytt beslut om planuppdrag har fattats av
-Byggnadsnämndens arbetsutskott den 15 december 2025 $ 259, att upprätta
+den 25 november 2025 \$233 och nytt beslut om planuppdrag har fattats av
+Byggnadsnämndens arbetsutskott den 15 december 2025 \$ 259, att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339 och del av
 Åsa 5:246 i Åsa, Detaljplanen.
 
@@ -4189,7 +4189,7 @@ parallellt med Avtalet. .
 
 <!-- sida 83 -->
 
-2.
+2\.
 
 2.2
 
@@ -4209,7 +4209,7 @@ SJ
 
 3.4.3
 
-26)
+26\)
 
 Detaljplan
 
@@ -4337,7 +4337,7 @@ detta fall för sina respektive nedlagda kostnader enligt Avtalet, utan
 
 9.1
 
-10.
+10\.
 
 10.1
 
@@ -4412,7 +4412,7 @@ Bilaga 1: Området
 
 Bilaga 1: Området
 
-|
+\|
 
 NA VA
 Aa ERE NR LIE : :
@@ -4449,7 +4449,7 @@ Uppdrag, politiska beslut, syfte, m.m.
 
 Bolaget har den 31 mars 2022 inkommit till samhällsbyggnadskontoret med en
 begäran om planbesked för fastigheten Åsa 3:339. Byggnadsnämndens
-arbetsutskott beslutade den I december 2023 $318 att ge
+arbetsutskott beslutade den I december 2023 \$318 att ge
 samhällsbyggnadskontoret i uppdrag att upprätta förslag till detaljplan för
 bostäder och verksamheter inom Åsa 3:339, Detaljplanen.
 
@@ -4461,8 +4461,8 @@ ingå i planområdet för Detaljplanen, för att skapa en mer ändamålsenlig
 planering.
 
 Reviderad projektbeställning för Detaljplanen, godkändes av Kommunstyrelsen
-den 25 november 2025 $233 och nytt beslut om planuppdrag har fattats av
-Byggnadsnämndens arbetsutskott den 15 december 2025 $ 259, att upprätta
+den 25 november 2025 \$233 och nytt beslut om planuppdrag har fattats av
+Byggnadsnämndens arbetsutskott den 15 december 2025 \$ 259, att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339 och del av
 Åsa 5:246 i Åsa, Detaljplanen.
 
@@ -4698,12 +4698,12 @@ Sign
 
 Principavtal Åsa 3:339 och del av Åsa 5:246 5/8
 
-10.
+10\.
 10.1
 
 10.2
 
-11.
+11\.
 
 11.1
 
@@ -4711,15 +4711,15 @@ Principavtal Åsa 3:339 och del av Åsa 5:246 5/8
 
 11.3
 
-12.
+12\.
 
 12.1
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 14.1
 
@@ -4786,23 +4786,23 @@ Sign
 
 Principavtal Åsa 3:339 och del av Åsa 5:246 6/8
 
-15.
+15\.
 
 15.1
 
 15.2
 
-16.
+16\.
 
 16.1
 
 16.2
 
-17.
+17\.
 
 17.1
 
-18.
+18\.
 
 18.1
 
@@ -5207,15 +5207,15 @@ Detaljplanen följer kommunens översiktsplan och fördjupad översiktsplan för
 med standardförfarande.
 
 Projektet kommer ha följande leveranser:
-1. Projektbeställning  SBK/KS
-2. Projektplan         Forum för verksamhetschefer
+1\. Projektbeställning  SBK/KS
+2\. Projektplan         Forum för verksamhetschefer
 
-3. Plankostnadsavtal   SBK
-4. Principavtal        KS
+3\. Plankostnadsavtal   SBK
+4\. Principavtal        KS
 
-5. Samrådshandlingar   BN
-6. Granskningshandlingar BN
-7. Antagandehandlingar BN
+5\. Samrådshandlingar   BN
+6\. Granskningshandlingar BN
+7\. Antagandehandlingar BN
 
 BERÖRINGSPUNKTER
 Detaljplanen ligger intill planområdet för detaljplan för Åsa 5:246. Inom Åsa 5:246 ska en damm
@@ -5450,7 +5450,7 @@ Kommunen och Exploatören kallas gemensamt Parterna
 
 A.   BAKGRUND OCH FÖRUTSÄTTNINGAR
 
-1.   Uppdrag, politiska beslut med mera
+1\.   Uppdrag, politiska beslut med mera
 1.1  Samhällsbyggnadskontoret har fått i uppdrag att upprätta förslag till Detaljplan för
 bostäder inom Skörvalla 1:116 i Särö, Kungsbacka kommun, nedan kallad
 Detaljplanen, genom beslut i Byggnadsnämndens arbetsutskott 2024-05-23 § 137.
@@ -5459,14 +5459,14 @@ Detaljplanen, genom beslut i Byggnadsnämndens arbetsutskott 2024-05-23 § 137.
 mellan 2026-08-21 och 2025-09-30. Granskning genomfördes mellan 2026-02-17 och
 2026-03-24.
 
-2.   Exploateringsområde
+2\.   Exploateringsområde
 
 2.1  Det område som är föremål för genomförandet av Detaljplanen är ungefärligt markerat
 med svart linje på karta, bilaga A, Exploateringsområdet.
 Exploateringsområdet utgörs av:
 a) Detaljplanens planområde, Planområdet.
 
-3.   Syfte, innehåll och förutsättningar
+3\.   Syfte, innehåll och förutsättningar
 
 3.1  Avtalet reglerar exploateringen inom Planområdet och genomförandet av åtgärderna
 inom Exploateringsområdet.
@@ -5490,28 +5490,28 @@ Sign.
 a) Uppföra bostäder och andra anläggningar inom kvartersmark,
 
 b) Iordningställa allmän platsmark med enskilt huvudmannaskap.
-4.   Planförhållanden
+4\.   Planförhållanden
 
 4.1  Området är inte tidigare planlagt.
 
-5.   Fastigheter och ägare
+5\.   Fastigheter och ägare
 
 5.1  Exploateringsområdet omfattar endast Exploatörens fastighet Skörvalla 1:116, nedan
 kallad Fastigheten. Exploatören är ensam ägare av Fastigheten.
 
 B.   ÖVERLÅTELSE AV MARK med mera
-6.   Marköverlåtelser och fastighetsbildning
+6\.   Marköverlåtelser och fastighetsbildning
 
 6.1  Exploatören ansvarar för att ansöka om, genomföra och bekosta den fastighetsbildning
 som kan komma att bildas inom Exploateringsområdet.
 
-7.   Gemensamhetsanläggningar
+7\.   Gemensamhetsanläggningar
 
 7.1  Exploatören ansvarar för att ansöka om, bilda och bekosta erforderliga
 gemensamhetsanläggningar för fastigheter som kan komma att bildas inom
 Exploateringsområdet.
 
-8.   Ledningsrätt, nyttjanderätter, servitut
+8\.   Ledningsrätt, nyttjanderätter, servitut
 8.1  Nya ledningar ska projekteras och förläggas i samråd mellan Parterna samt, i
 möjligaste mån, lokaliseras och utföras så att påverkan på exploateringens
 genomförande, planerad bebyggelse, framkomlighet, markanvändning och framtida
@@ -5577,7 +5577,7 @@ för eventuella nybildade fastigheter inom Exploateringsområdet.
 8.4  Nyttjanderätt
 
 Exploateringen medför inget behov av att upprätta nyttjanderätter.
-9.   Lantmäteriförrättning
+9\.   Lantmäteriförrättning
 
 9.1  Exploatören svarar för ansökan och bekostar eventuella fastighetsbildningsåtgärder
 inom Exploateringsområdet, såsom avstyckning, fastighetsreglering, bildande av
@@ -5598,7 +5598,7 @@ Sign.
 
 C.   EXPLOATERING
 
-10.  Byggnader och anläggningar inom kvartersmark
+10\.  Byggnader och anläggningar inom kvartersmark
 
 10.1 Bostäder och byggnation
 Exploatören ansvarar för utförande av byggnader och andra anläggningar inom
@@ -5671,7 +5671,7 @@ Vid all nybyggnation ska god tillgänglighet eftersträvas. Personer med olika
 funktionshinder ska lätt kunna orientera sig samt enkelt, självständigt och utan fara ta
 sig fram till och inom områdena. Markbeläggning, belysning, väghållning och
 skyltning ska underlätta framkomligheten.
-11.  Dagvatten
+11\.  Dagvatten
 
 11.1 Dagvattenhantering inom Exploateringsområdet ska utföras som ett enskilt
 dagvattensystem där Exploatören ansvarar för projektering, funktion, drift och
@@ -5705,14 +5705,14 @@ Sign.
 
 6(12)
 
-12.  Gestaltning
+12\.  Gestaltning
 
 Exploatören förbinder sig att i huvudsak följa de gestaltningsprinciper som framgår av
 Detaljplanens kvalitetsprogram vid uppförande av byggnader och anläggningar inom
 Planområdet. Betydande/större avvikelser från dessa får endast ske i samråd med
 Kommunen. Avstämning av projektets gestaltnings- och kvalitetsnivåer sker i
 samband med bygglovsförfarandet.
-13.  Byggplatsåtgärder, framkomlighet, etableringsytor med mera
+13\.  Byggplatsåtgärder, framkomlighet, etableringsytor med mera
 
 13.1 Exploatören ansvarar för att informera allmänheten i närområdet om sitt byggprojekt
 genom att till exempel sätta upp skyltar med information om vad som byggs, vem som
@@ -5748,7 +5748,7 @@ För bekämpning av befintligt bestånd av parkslide kan avverkning av träd och
 vegetation komma att krävas, för att möjliggöra effektiva bekämpningsåtgärder och
 förhindrar fortsatt spridning.
 
-14.  Besiktning och återställande
+14\.  Besiktning och återställande
 
 14.1 Före byggstart ska Exploatören kalla Kommunen, genom Teknik (gata, park, VA och
 bredband) till förbesiktning i syfte att tillsammans med Kommunen göra en
@@ -5783,7 +5783,7 @@ och Kommunen fakturerar Exploatören efter utfört arbete.
 14.5 Kommunen ansvarar i motsvarande omfattning för eventuella skador som Kommunen
 orsakar på Exploatörens anläggningar inom dennes fastighet.
 
-15.  Tekniska anläggningar inom allmän plats som Exploatören bygger ut
+15\.  Tekniska anläggningar inom allmän plats som Exploatören bygger ut
 15.1 Exploatören ansvarar för att bekosta, projektera och utföra anläggningar inom allmän
 plats (PARK) samt anläggningar utanför Planområdet som är nödvändiga för
 Detaljplanens genomförande.
@@ -5830,12 +5830,12 @@ godkännas av Kommunen genom behörig handläggare innan utförande påbörjas.
 genom egen förvaltning eller genom att driftansvaret överlåts till bostadsrättsförening,
 samfällighetsförening eller annan lämplig juridisk person.
 
-16.  Vatten- och spillvattenanläggningar som Kommunen bygger ut
+16\.  Vatten- och spillvattenanläggningar som Kommunen bygger ut
 
 16.1 Kommunen tillhandahåller anslutningsepunkt för kommunalt vatten och spillvatten i
 anslutning till fastighetsgräns.
 
-17.  Genomförande
+17\.  Genomförande
 
 17.1 Uppstart av projektet och samordning
 Exploatören ansvarar för genomförande och samordning av exploateringen.
@@ -5850,16 +5850,16 @@ av anläggningar på allmän platsmark, nämnda i punkt 15.
 Kommunen genom Teknik ansvarar för utförande av projektering, upphandling och
 utbyggnad av allmänna Va-anläggningar, nämnda i punkt 16.
 
-18.  Exploateringsersättning
+18\.  Exploateringsersättning
 
 18.1 Detaljplanen omfattar ingen kommunal allmän plats varvid exploateringsbidrag inte är
 aktuellt.
 
-19.  Gatukostnadsersättning
+19\.  Gatukostnadsersättning
 19.1 Detaljplanen omfattar ingen kommunal allmän plats varvid gatukostnadsersättning inte
 är aktuellt.
 
-20.  Anläggningsavgifter för vatten och avlopp
+20\.  Anläggningsavgifter för vatten och avlopp
 
 20.1 Exploatören ska erlägga VA-anläggningsavgift till Kommunen enligt vid varje
 betalningstillfälle för kommunen gällande Va-taxa.
@@ -5870,11 +5870,11 @@ Sign.
 
 9(12)
 
-21.  Övriga ledningar
+21\.  Övriga ledningar
 
 21.1 Anslutningsavgifter för el, fjärrvärme, tele och fiber med flera betalas av Exploatören.
 
-22.  Flytt av ledningar, provisoriska ledningar
+22\.  Flytt av ledningar, provisoriska ledningar
 22.1 Exploatören bekostar samtliga ledningsflyttar och provisoriska ledningsdragningar
 som krävs till följd av genomförandet av detaljplanen, såsom vid utbyggnaden av
 bostäder, park och andra anläggningar inom Exploateringsområdet. Följande åtgärder
@@ -5896,7 +5896,7 @@ anslutningspunkt behöver anläggas inom den allmänna VA-anläggningen, ansvara
 Kommunen för projektering och utförande av åtgärden. Efter färdigställande ska
 ledningen ingå i den allmänna VA-anläggningen.
 
-23.  Geoteknik
+23\.  Geoteknik
 23.1 Exploatören ansvarar för och bekostar de tillkommande geotekniska utredningar och
 stabilitetsutredningar som krävs för byggnader och anläggningars grundläggning och
 uppförande samt för de grundförstärkningsåtgärder som erfordras för sin byggnation
@@ -5906,13 +5906,13 @@ inom Exploateringsområdet.
 stabilitetsutredningar som kan krävas för utbyggnad av allmän plats samt för utförande
 av de åtgärder som erfordras inom Exploateringsområdet.
 
-24.  Förorenad mark
+24\.  Förorenad mark
 
 24.1 Exploatören ansvarar för och bekostar eventuella kompletterande provtagningar och
 miljötekniska markmiljöundersökningar samt har kostnadsansvaret för sanering av
 eventuella markföroreningar inom Exploateringsområdet. Exploatören ansvarar för
 anmälan till berörd tillsynsmyndighet.
-25.  Arkeologi
+25\.  Arkeologi
 
 25.1 Inga kända fornlämningar finns inom Exploateringsområdet. Om arkeologiskt fynd
 påträffas i samband med utbyggnad av kvartersmark ansvarar Exploatören för anmälan
@@ -5925,7 +5925,7 @@ Sign.
 
 10(12)
 
-26.  Dispenser och tillstånd
+26\.  Dispenser och tillstånd
 
 26.1 Exploatören ansvarar för och bekostar samtliga tillstånd, anmälningar och dispenser
 som krävs för genomförandet av detaljplanen.
@@ -5935,7 +5935,7 @@ a) Tillstånd för utfart till statlig väg,
 
 b) Anmälan om vattenverksamhet.
 
-27.  Administrativa kostnader
+27\.  Administrativa kostnader
 
 27.1 Kommunen har rätt att debitera Exploatören för Kommunens arbete med samordning,
 granskning och uppföljning av frågor hänförliga till genomförandet av detaljplanen
@@ -5948,7 +5948,7 @@ handläggning av lantmäteriförrättningar samt övriga administrativa och tekn
 27.3 Ersättning ska utgå löpande baserat på faktiskt nedlagd tid. Timpris ska motsvara
 Kommunens vid var tid gällande taxa för aktuell handläggare.
 
-28.  Framtida drift och förvaltning av anläggningar
+28\.  Framtida drift och förvaltning av anläggningar
 
 28.1 Exploatören förbinder sig att säkerställa den långsiktiga driften och underhållet av de
 anläggningar som uppförs inom exploateringsområdet.
@@ -5962,14 +5962,14 @@ motsvarande handlingar, i sådan omfattning att ansvaret är långsiktigt trygga
 
 D.   ÖVRIGA BESTÄMMELSER
 
-29.  Risktagande
+29\.  Risktagande
 
 Om hinder, oavsett vilket, skulle uppstå mot att Detaljplanen kan antas samt vinner
 laga kraft ska vardera parten svara för sina respektive nedlagda kostnader och således
 inte ställa ersättningsanspråk på motparten. Exploatören ska dock alltid ersätta
 Kommunen för nedlagda detaljplanekostnader, vilket regleras i ett separat
 plankostnadsavtal.
-30.  Överlåtelse av avtal och fastigheter
+30\.  Överlåtelse av avtal och fastigheter
 
 30.1 Exploatören är skyldig att skriftligen meddela Kommunen vid eventuell överlåtelse av
 Fastigheten samt vem som förvärvar Fastigheten och den nya ägarens tillträdesdag.
@@ -6012,7 +6012,7 @@ vinner laga kraft
 Byggnadsnämnden i Kungsbacka kommun antar Detaljplanen, genom beslut som
 vinner laga kraft
 
-31.  Tidsplan och utbyggnadstakt
+31\.  Tidsplan och utbyggnadstakt
 
 31.1 Exploatören ska upprätta en övergripande tidplan för exploateringens genomförande,
 inklusive eventuell etappindelning (Huvudtidplan). Huvudtidplanen ska delges
@@ -6022,12 +6022,12 @@ samordning av planering och anläggningsarbeten.
 dröjsmål underrätta Kommunen och övriga berörda parter, i syfte att möjliggöra
 erforderlig samordning av anläggningsarbeten.
 
-32.  Tvist
+32\.  Tvist
 
 32.1 Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
 detta avtal ska avgöras av allmän domstol.
 
-____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Sign.
 
@@ -6040,13 +6040,13 @@ Detta avtal är upprättat i två likalydande exemplar varav parterna tagit ett 
 Göteborg den 2026-
 för Bo Aktivt i Sverige AB
 
-________________________         _______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Jacob Hallberg                   Ulf Spennare
 
 Kungsbacka den 2026-
 för Kungsbacka kommun
 
-________________________        ________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_        \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Lisa Andersson                  Richard Vidlund
 Kommunstyrelsens ordförande     Kommundirektör
 
@@ -6058,9 +6058,9 @@ Bilaga D  Utfart
 Bilaga E  Koppling till Säröbanan
 Avtalet är giltigt utifrån punkt 30.4 när båda beslut enligt nedan har vunnit laga kraft.
 
-Beslut om godkännande av avtal vann laga kraft: ______________
+Beslut om godkännande av avtal vann laga kraft: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Beslut om antagande av detaljplanen vann laga kraft: ______________
+Beslut om antagande av detaljplanen vann laga kraft: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Sign.
 
@@ -6310,7 +6310,7 @@ Grönstruktur
 3 Ej planlagd natur
 4 1 Nyallmän plats
 
-> Oforandrad allmän plats
+\> Oforandrad allmän plats
 
 J. Q Fe Ny SM
 
@@ -7821,7 +7821,7 @@ fa
 (MS
 
 ve
-||
+\||
 
 FAKARL
 a
@@ -7858,7 +7858,7 @@ centrum och till stationen.
 
 Framförallt två tidigare utredningar är av betydelse och beskrivs nedan: Övergripande
 trafikutredning Åsa (ÅF Infrastructure AB, 2017) och Planstudie Åsaberg (Norconsult,
-2016)
+2016\)
 
 2:21 Övergripande trafikutredning Åsa
 
@@ -8036,18 +8036,18 @@ maxlutning och upp till 7,5 meter för förslaget med maxlutning 6 2o, se figur 
 exempel på sektion längs sträckan.
 
 0/260
-32. t t i i 32.0
+32\. t t i i 32.0
 30, Seen —=B0.0
-28. ES ] P8.0
-26. - P6.0
+28\. ES ] P8.0
+26\. - P6.0
 24 På / P4.0
 , RR ik | ,
 22, FL Le — m F2.0
-20. — 20.0
+20\. — 20.0
 18 å 18.0
 . AE + HO:
-16. 16.0
-14. 14.0
+16\. 16.0
+14\. 14.0
 EE to i Ib
 
 Figur 5. Sektion 260 från start vid 5 2 lutning.
@@ -8464,7 +8464,7 @@ m
 
 <!-- sida 217 -->
 
-($) Kungsbacka
+(\$) Kungsbacka
 
 Begära planbesked
 
@@ -8886,7 +8886,7 @@ tillgodoses.
 
 <!-- sida 273 -->
 
-($ Kungsbacka
+(\$ Kungsbacka
 
 Begära planbesked
 

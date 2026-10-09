@@ -266,18 +266,18 @@ Framtidens avloppsrening, FAR, samt ger nämnden för Teknik i uppdrag att
 genomföra projektet.
 
 Kommunfullmäktige utser nämnden för Teknik till ansvarig för
-- att leda, samordna och genomföra projekt Framtidens avloppsrening, FAR, enligt
+\- att leda, samordna och genomföra projekt Framtidens avloppsrening, FAR, enligt
 Förslag till projektbeskrivning Framtidens avloppsrening 2024-04-05 med
 utredningsunderlag, med rätt för nämnden för Teknik att genomföra nödvändiga
 
 anpassningar av projektet som inte är av principiell beskaffenhet eller annars av
 större vikt,
-- projektbudget för Framtidens avloppsrening, FAR, enligt beslutad
+\- projektbudget för Framtidens avloppsrening, FAR, enligt beslutad
 investeringsbudget och kommunens ekonomistyrprinciper för investeringar,
 
-- att genomföra fas 1 av projektet, projektering av systemhandling och andra
+\- att genomföra fas 1 av projektet, projektering av systemhandling och andra
 utredningar som krävs för att komma fram till en riktkostnad inför Fas 2 samt
-- att genomföra byggnation Framtidens avloppsrening, FAR, i Fas 2 och 3 av
+\- att genomföra byggnation Framtidens avloppsrening, FAR, i Fas 2 och 3 av
 projektet om riktkostnaden överensstämmer med beslutad investeringsbudget och
 
 de ekonomiska ramar som anges i Förslag till projektbeskrivning Framtidens
@@ -301,7 +301,7 @@ Nämnden för Teknik redogör i beslut och underlag för behovet av ombyggnad av
 Hammargårds avloppsreningsverk i Kungsbacka. Behoven bygger i huvudsak på
 
 följande faktorer:
-- Avloppsreningsverket har många delar som byggdes på 1960-talet och det har
+\- Avloppsreningsverket har många delar som byggdes på 1960-talet och det har
 därefter byggts om vid olika tillfällen och är i stort behov av modernisering.
 
 Det här dokumentet är digitalt signerat
@@ -315,17 +315,17 @@ Kommunstyrelsens arbetsutskott
 Datum
 2024-05-14
 
-- Kungsbackafjordens ekologiska status behöver förbättras för att
+\- Kungsbackafjordens ekologiska status behöver förbättras för att
 miljökvalitetsnormerna för vatten ska kunna uppnås.
-- Det finns anläggningsdelar som inom kort når sitt kapacitetstak för hur mycket
+\- Det finns anläggningsdelar som inom kort når sitt kapacitetstak för hur mycket
 avloppsvatten som får tas emot och behandlas. Dessutom behöver
 avloppsreningsverkets totala kapacitet ökas för att möjliggöra framtida
 
 befolkningstillväxt.
-- Ett nytt avloppsdirektiv från EU innebär krav på energineutralitet bestående i att
+\- Ett nytt avloppsdirektiv från EU innebär krav på energineutralitet bestående i att
 100 % av energianvändningen till 2045 måste produceras på anläggningen.
 
-- Avloppsreningsverket fick 2023 ett nytt miljötillstånd som medger att
+\- Avloppsreningsverket fick 2023 ett nytt miljötillstånd som medger att
 avloppsvatten fortsatt får släppas till Kungsbackaån. Miljötillståndet har mycket
 stränga utsläppskrav. Dessa krav är ”skall”-krav som styr design och
 processutformning.
@@ -583,9 +583,9 @@ för skydd mot andra olyckor än brand. Handlingsprogrammet ska vara ett
 övergripande politiskt styrdokument som beskriver vilka risker som finns inom
 förbundsområdet samt vilken förmåga som finns för att
 
-1) Minska sannolikheten för att olyckorna inträffar
+1\) Minska sannolikheten för att olyckorna inträffar
 
-2) Minska konsekvenserna av inträffade olyckor.
+2\) Minska konsekvenserna av inträffade olyckor.
 Handlingsprogrammet beskriver även övergripande hur Räddningstjänsten
 Storgöteborg, tillsammans med sina medlemskommuner, ska arbeta för att sträva mot
 de nationella målen i LSO samt, utifrån den riskbild och de behov som finns, utforma
@@ -1100,12 +1100,12 @@ Sammanfattning av ärendet
 Kommunstyrelsens arbetsutskott har dialog med regionstyrelsens arbetsutskott om
 gemensamma frågor. Följande frågor diskuteras:
 
-- Kollektivtrafik
-- Samarbete med Västsvenska Handelskammaren
-- Hemsjukvårdsavtalet
-- Västlänken och Västsvenska paketet
-- Onsalavägen
-- Om- och utbyggnad av Kungsbacka sjukhus
+\- Kollektivtrafik
+\- Samarbete med Västsvenska Handelskammaren
+\- Hemsjukvårdsavtalet
+\- Västlänken och Västsvenska paketet
+\- Onsalavägen
+\- Om- och utbyggnad av Kungsbacka sjukhus
 
 Beslutsgång
 
@@ -1133,19 +1133,19 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Biträdande kommundirektör Anders Johansson lämnar följande information:
-- Inom ramen för Handslag för digitalisering erbjuder Sveriges Kommuner och
+\- Inom ramen för Handslag för digitalisering erbjuder Sveriges Kommuner och
 
 Regioner (SKR) kompetensgemenskap inom digitaliseringsjuridik, Kungsbacka
 kommun kommer att nominera Linnea Princis, kommunjurist till initiativet
-- Kungsbacka kommun har även fått förfrågan om att delta i kompetensgemenskap
+\- Kungsbacka kommun har även fått förfrågan om att delta i kompetensgemenskap
 informationshantering inom ramen för Handslag digitalisering och värderar just
 nu inbjudan.
-- Kungsbacka kommun har betalat avi för borgensåtagande för Vallda tennisklubb
+\- Kungsbacka kommun har betalat avi för borgensåtagande för Vallda tennisklubb
 om 53 963 kronor
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
 
-- Boverket har aviserat att det är möjligt att söka bidrag för småhusplaner. Ett
+\- Boverket har aviserat att det är möjligt att söka bidrag för småhusplaner. Ett
 ärende om att ansöka om medel kommer att anmälas för politisk behandling inom
 kort.
 

@@ -1184,9 +1184,9 @@ Lokalplanen ska följas upp och den kontinuerliga dialogen med kommunstyrelsens
 arbetsutskott är en del av den uppföljningen.
 
 Vid dagens sammanträde fokuseras bl.a. på:
-- uppföljning lokalplan
+\- uppföljning lokalplan
 
-- nystartade projekt
+\- nystartade projekt
 
 Beslutsgång
 
@@ -1249,16 +1249,16 @@ Hållbarhetspriset delas ut till någon eller några som uppfyller någon av de 
 hållbarhetskategorierna: ekonomiskt, socialt och ekologiskt.
 Det kan exempelvis vara någon som:
 
-- Förbättrar hushållning med naturresurser, material, råvaror och energi.
-- Ökar kunskaperna om hållbarhetsfrågor.
+\- Förbättrar hushållning med naturresurser, material, råvaror och energi.
+\- Ökar kunskaperna om hållbarhetsfrågor.
 
-- Ökar kännedom om samt skydda och vårda värdefulla natur- och kulturmiljöer.
-- Bevarar den biologiska mångfalden.
+\- Ökar kännedom om samt skydda och vårda värdefulla natur- och kulturmiljöer.
+\- Bevarar den biologiska mångfalden.
 
-- Främjar människors hälsa.
-- Främjar delaktighet, inkludering och livskvalitet.
+\- Främjar människors hälsa.
+\- Främjar delaktighet, inkludering och livskvalitet.
 
-- Bidrar till att utveckla en miljövänlig produktion och teknik.
+\- Bidrar till att utveckla en miljövänlig produktion och teknik.
 
 Priset är 10 000 kronor. Om priset delas på flera delas även prissumman.
 I år är det ett fåtal nomineringar som kommit in, slutsatsen är att det är för att
@@ -1320,17 +1320,17 @@ Sammanfattning av ärendet
 
 Samhällsbyggnadschef Lovisa Eld informerar om:
 
-- Detaljplan för arenan har överklagats.
+\- Detaljplan för arenan har överklagats.
 Lisa Andersson (M) informerar om:
 
-- SMART-mässan 13 november i stadshuset, "Jobba smartare med digitala verktyg"
-- Prisutdelning på Kvalitetsmässan 11 november. Kungsbacka är 1 av 3 finalister i
+\- SMART-mässan 13 november i stadshuset, "Jobba smartare med digitala verktyg"
+\- Prisutdelning på Kvalitetsmässan 11 november. Kungsbacka är 1 av 3 finalister i
 kategorin årets digitaliseringskommun.
 
 Magdalena Sundqvist (S) informerar om:
-- Medlemssamråd i Räddningstjänstförbundet Storgöteborg
+\- Medlemssamråd i Räddningstjänstförbundet Storgöteborg
 
-- Möte Samordningsförbundet Halland
+\- Möte Samordningsförbundet Halland
 
 Beslutsgång
 
@@ -1368,11 +1368,11 @@ intervjuats vidare av kommundirektör och HR-chef.
 
 Därefter valdes 3 slutkandidater ut. Slutkandidaterna har genomfört erforderliga
 tester och intervjuats av tre grupperingar från Kungsbacka kommun:
-- Kommunstyrelsens arbetsutskotts presidium tillsammans med ordföranden för
+\- Kommunstyrelsens arbetsutskotts presidium tillsammans med ordföranden för
 nämnden för Individ & Familjeomsorg.
 
-- Fackliga organisationer.
-- En arbetsgivargrupp ledd av kommundirektören.
+\- Fackliga organisationer.
+\- En arbetsgivargrupp ledd av kommundirektören.
 
 Rekryteringsprocessen för förvaltningschef är nu avslutad. Det rådde enighet om
 slutkandidaten mellan grupperna.

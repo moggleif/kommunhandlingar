@@ -442,18 +442,18 @@ Målet för regionen föreslås vara: Tillsammans gör vi Västra Götaland till
 föredöme för omställning till ett hållbart och konkurrenskraftigt samhälle.
 De långsiktiga prioriteringarna är:
 
-- Stärka innovationskraften
-- Bygga kompetensen
+\- Stärka innovationskraften
+\- Bygga kompetensen
 
-- Öka inkluderingen
-- Knyta samman Västra Götaland
+\- Öka inkluderingen
+\- Knyta samman Västra Götaland
 
 De områden där regionen behöver kraftsamla de närmaste åren är enligt strategin:
 
-- Industrins gröna omställning
-- Framtidsrusta barn och unga
+\- Industrins gröna omställning
+\- Framtidsrusta barn och unga
 
-- Ökad robusthet genom samverkan i samhällsplaneringen
+\- Ökad robusthet genom samverkan i samhällsplaneringen
 De fyra långsiktiga prioriteringarna har förtydligats och i övrigt liknar nuvarande
 förslag tidigare versioner av strategin.
 
@@ -586,13 +586,13 @@ förmåga att informera äldre om aktuella frågor och möjligheten för äldre 
 synpunkter och förslag.
 Mot bakgrund av detta vill motionären att kommunfullmäktige beslutar:
 
-1. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
+1\. Att inrätta ett kommunalt pensionärsråd för att förbättra dialogen och samverkan
 mellan kommunen och dess äldre invånare.
 
-2. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
+2\. Att kommunstyrelsen ges i uppdrag att ta fram riktlinjer och en modell för hur ett
 kommunalt pensionärsråd ska organiseras och fungera, i dialog med lokala
 pensionärsföreningar och andra berörda intressenter.
-3. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
+3\. Att kommunen arbetar för att stärka äldre invånares möjligheter genom att låta
 dem vara delaktiga i kommunala beslut. Genom detta får kommunen bättre underlag
 för sina beslut genom samverkan med dem man finns till för. Deltagardemokrati
 
@@ -1076,11 +1076,11 @@ Sammanfattning av ärendet
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
 
-- Detaljplanen för Säröhus har fått laga kraft.
-- Etablering i Frillesås-Rya
+\- Detaljplanen för Säröhus har fått laga kraft.
+\- Etablering i Frillesås-Rya
 
-- Överklagandet av detaljplanen för Klovsten
-- Kungsbacka kommun kom på tredje plats i Årets Superkommun, efter Lerum och
+\- Överklagandet av detaljplanen för Klovsten
+\- Kungsbacka kommun kom på tredje plats i Årets Superkommun, efter Lerum och
 Härryda
 
 Vice ordförande Fredrik Hansson (C) lämnar information om det pågående

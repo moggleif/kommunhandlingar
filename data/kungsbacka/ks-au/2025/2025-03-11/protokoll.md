@@ -305,7 +305,7 @@ Regeringen beslutade 22 juni 2023 att tillsätta en särskild utredare med uppdr
 analysera och lämna förslag som stärker den medicinska kompetensen i kommunal
 hälso- och sjukvård (dir. 2023:98). Utredningen överlämnade betänkandet Stärkt
 medicinsk kompetens i kommunal hälso- och sjukvård (SOU 2024:72) i november
-2024.
+2024\.
 
 Utredningens uppdrag var dels att lämna förslag som kan stärka kommunernas
 möjlighet att säkra tillgången till läkare i den egna hälso- och sjukvården, dels att
@@ -315,14 +315,14 @@ I betänkandet föreslås åtgärder för att säkerställa den medicinska kompe
 kommunal hälso- och sjukvård och därigenom höja kvaliteten på vården. Några av
 
 dessa förslag är:
-- Stärkt läkarmedverkan i kommunal hälso- och sjukvård.
+\- Stärkt läkarmedverkan i kommunal hälso- och sjukvård.
 
-- Stärkt medicinsk kompetens på ledningsnivå.
-- Möjlighet till medicinsk bedömning dygnet runt.
+\- Stärkt medicinsk kompetens på ledningsnivå.
+\- Möjlighet till medicinsk bedömning dygnet runt.
 
-- Stärkt kompetensförsörjning genom att göra det attraktivt för legitimerade
+\- Stärkt kompetensförsörjning genom att göra det attraktivt för legitimerade
 yrkesgrupper att arbeta inom kommunal hälso- och sjukvård.
-- Skapande av möjligheter till kompetensutveckling både inom yrkesområdet och
+\- Skapande av möjligheter till kompetensutveckling både inom yrkesområdet och
 inom ledarskap.
 
 Beslutsunderlag
@@ -433,7 +433,7 @@ förbundsstyrelsen bereda medlemskommunerna tillfälle att yttra sig över ett
 samrådsunderlag om budgeten för nästkommande år. Nivån på årsavgiften föreslås
 vara oförändrad till 2026 och uppgår då till 72,62 kronor per invånare. För
 Kungsbacka kommun innebär det en preliminär avgift på 6 219 000 kronor under
-2026. Årsavgiften är preliminär och kommer justeras när de definitiva
+2026\. Årsavgiften är preliminär och kommer justeras när de definitiva
 
 befolkningsuppgifterna per 2024-12- 31 är publicerade. Avgiften ryms inom
 kommunstyrelsens budgetram.
@@ -539,22 +539,22 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Tillförordnad kommundirektör Anders Johansson lämnar följande information:
-- Kommunen beviljades inte investeringsmedel från Energimyndigheten inom
+\- Kommunen beviljades inte investeringsmedel från Energimyndigheten inom
 
 ramen för projektet att minska sårbarheterna i kommunal samhällsviktig
 verksamhet vid störningar eller avbrott i energiförsörjningen.
-- Revisionens granskning av årsredovisningen 2024 är klar och vissa rättelser
+\- Revisionens granskning av årsredovisningen 2024 är klar och vissa rättelser
 kommer att göras i årsredovisningen utifrån vad granskningen visade.
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
-- Förvaltningen för Service och Skanska har kommit överens om en ny bemanning
+\- Förvaltningen för Service och Skanska har kommit överens om en ny bemanning
 i ett av delprojekteten för arenan.
 
-- Detaljplanen för Iseråsskolan har fått laga kraft
-- Inbjudan till Byggbenchen har skickats ut personligt till särskilt inbjudna
+\- Detaljplanen för Iseråsskolan har fått laga kraft
+\- Inbjudan till Byggbenchen har skickats ut personligt till särskilt inbjudna
 
 personer.
-- Planering inför arbetsutskottets sammanträde den 25 mars.
+\- Planering inför arbetsutskottets sammanträde den 25 mars.
 
 Beslutsgång
 Ordförande Lisa Andersson (M) prövar om kommunstyrelsens arbetsutskott kan

@@ -189,12 +189,12 @@ Sammanfattning av ärendet
 Den 16 juni 2025 fastställde kommunfullmäktige kommunövergripande mål som
 utgångspunkt för kommunstyrelsens fortsatta arbete med sin nämndbudget. I
 nämndbudgeten ingår bland annat:
-- Nämndens övergripande inriktning för arbetet i förvaltningen
+\- Nämndens övergripande inriktning för arbetet i förvaltningen
 
-- Verksamhetsmått
+\- Verksamhetsmått
 
-- Personalmått
-- Ramfördelning driftsbudget.
+\- Personalmått
+\- Ramfördelning driftsbudget.
 
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser i arbetet med
 nämndbudget fatta beslut om verksamhetsplan och ramfördelning.
@@ -1001,22 +1001,22 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 Biträdande kommundirektör Anders Johansson informerar om:
 
--  nytt tema i Kungsbacka live, tema Trygghet och frihet
+\-  nytt tema i Kungsbacka live, tema Trygghet och frihet
 Samhällsbyggnadschef Lovisa Eld informerar om:
 
--  kommunen inväntar sökandes svar rörande avsiktsförklaring Samariten inom
+\-  kommunen inväntar sökandes svar rörande avsiktsförklaring Samariten inom
 snar framtid.
--  Kommunens överklagande av länsstyrelsens beslut rörande detaljplan i Särö.
+\-  Kommunens överklagande av länsstyrelsens beslut rörande detaljplan i Särö.
 Ärendet har principiell betydelse vilket är anledningen till överklagandet.
 
 Kommundirektör Rickard Vidlund informerar om:
--  Rekrytering av ny förvaltningschef för Individ och Familjeomsorg är inne i
+\-  Rekrytering av ny förvaltningschef för Individ och Familjeomsorg är inne i
 
 slutskedet och med stor sannolikhet kommer ärendet upp till KSAU för beslut
 inom kort.
 Ordförande Lisa Andersson (M) informerar om:
 
--  Länsstyrelsen Halland bjuder in till att uppmärksamma 250 år av judiskt liv i
+\-  Länsstyrelsen Halland bjuder in till att uppmärksamma 250 år av judiskt liv i
 Halland. KSAU delges anmälningslänk och den som är intresserad anmäler
 sig själv. Arvode utgår ej.
 

@@ -2446,7 +2446,7 @@ Hör av er i så fall.
 Med vänlig hälsning
 Karin Malmsten
 Dataskyddsombud
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 0300-83 40 66
 karin.malmsten@kungsbacka.se

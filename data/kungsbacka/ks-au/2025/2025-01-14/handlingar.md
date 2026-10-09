@@ -174,43 +174,43 @@ avfall ska nås.
 KUNGSBACKA  KOMMUN
 3 (5)
 
-1. Kommunalt ansvar: Kommunerna har ett centralt ansvar för att hantera kommunalt avfall och
+1\. Kommunalt ansvar: Kommunerna har ett centralt ansvar för att hantera kommunalt avfall och
 bidra till målen för återanvändning och materialåtervinning. Detta kan innebära ökade
 
 administrativa kostnader.
-2. Nationell avfallsplan: Förslaget att ta bort kravet på kommunala avfallsplaner minskar de
+2\. Nationell avfallsplan: Förslaget att ta bort kravet på kommunala avfallsplaner minskar de
 administrativa kostnaderna för kommunerna, även om de fortfarande kan välja att ha en egen
 plan.
 
-3. Flytt av ansvar: Förslagen om att flytta ansvaret för vissa typer av avfall (t.ex. från
+3\. Flytt av ansvar: Förslagen om att flytta ansvaret för vissa typer av avfall (t.ex. från
 detaljhandeln med livsmedel) innebär minskat ansvar och kostnader för kommunerna, men
 också minskade intäkter.
 
-4. Insamlingssystem: Förslagen om insamlingssystem för återanvändning och separat insamling
+4\. Insamlingssystem: Förslagen om insamlingssystem för återanvändning och separat insamling
 av olika avfallsfraktioner kan innebära ökade kostnader för kommunerna, beroende på deras
 nuvarande system och servicenivå.
-5. Harmonisering av lagstiftning: Förslagen om att harmonisera lagstiftningen kring
+5\. Harmonisering av lagstiftning: Förslagen om att harmonisera lagstiftningen kring
 fastighetsnära insamling och införa generella undantag istället för dispensförfaranden innebär
 administrativa lättnader och potentiella besparingar för kommunerna.
 
-6. Fastighetsnära insamling: Kraven förtydligas så att all insamling ska ske från en och samma
+6\. Fastighetsnära insamling: Kraven förtydligas så att all insamling ska ske från en och samma
 plats, vilket förenklar för kommunerna. Kommunerna får också befogenhet att samarbeta med
 fastighetsägare om insamlingsplatser.
 
-7. Ytterligare sortering: Förslagen kräver mer sortering för att öka materialåtervinningen, vilket
+7\. Ytterligare sortering: Förslagen kräver mer sortering för att öka materialåtervinningen, vilket
 kan innebära att avtal med avfallsbehandlare behöver justeras.
 
-8. Undantag och dispensrätt: Färre dispensansökningar förväntas, vilket minskar behovet av
+8\. Undantag och dispensrätt: Färre dispensansökningar förväntas, vilket minskar behovet av
 resurser.
 
-9. Tillsynsansvar: Kommunens tillsynsansvar minskar för vissa områden men utökas för andra,
+9\. Tillsynsansvar: Kommunens tillsynsansvar minskar för vissa områden men utökas för andra,
 
 vilket kan kräva ytterligare insatser.
 
-10. Ekonomisk särredovisning: Kommunerna ska särredovisa avfallsverksamheten, vilket kan
+10\. Ekonomisk särredovisning: Kommunerna ska särredovisa avfallsverksamheten, vilket kan
 innebära initiala kostnader men också framtida besparingar.
 
-11. Övriga förslag: Länsstyrelsen ska ansvara för tillsyn över kommunernas avfallshantering,
+11\. Övriga förslag: Länsstyrelsen ska ansvara för tillsyn över kommunernas avfallshantering,
 vilket innebär en kostnad för kommunen. Förslagen påverkar också kommunernas ekonomi och
 självstyre, men bedöms vara nödvändiga för att uppnå målen.
 
@@ -816,7 +816,7 @@ Hur samrådet bedrivits
 
 Kommunstyrelsen beslöt 2024-02-20 § 47 att genomföra samråd kring förslag till fördjupad översiktsplan för
 Kungsbacka stad. Planförslaget syftar till att peka ut en riktning för utvecklingen av Kungsbacka stad fram till
-2050. Förslaget har varit utställt för samråd i stadshuset i Kungsbacka under tiden 7 mars till 7 juni 2024.
+2050\. Förslaget har varit utställt för samråd i stadshuset i Kungsbacka under tiden 7 mars till 7 juni 2024.
 Information om samrådet skickades ut enligt sändlista till remissinstanser. Under samrådet har omkring 180
 yttranden skickats in, varav omkring 120 från privatpersoner. Samhällsbyggnadskontoret har fått in fem
 
@@ -2671,7 +2671,7 @@ vatten genom ökad andel hårdgjord yta och ökade vattenföroreningar. Det är 
 förbättra vattenkvaliteten, särskilt i Kungsbackaån och att åtgärder vidtas för att minska näringsämnen,
 framför allt vid Hammargårds avloppsreningsverk och återställa vattendragen till naturliga förhållanden. - Om
 utsläppen från Hammargård bibehålls på nuvarande nivåer kommer god ekologisk status inte att uppnås till
-2027. ”En stad som ska växa med 12 000 bostäder måste stora mål som god ekologisk status finnas med. Om
+2027\. ”En stad som ska växa med 12 000 bostäder måste stora mål som god ekologisk status finnas med. Om
 målet om god ekologisk status inte finns med kommer det bli svårare ju större staden växer och ju längre tiden
 går för att förbättra MKN.”
 
@@ -3063,11 +3063,11 @@ goda kommunikationer med kommunens orter och omvärld. Välplanerad infrastruktu
 lättillgänglig kollektivtrafik minimerar transporternas miljöpåverkan.
 
 Kommunfullmäktige har tagit fram fem mål för att nå visionen:
-- En attraktiv kommun att bo, verka och vistas i
-- En hållbar utveckling och en hälsosam miljö
-- Bästa företagsklimatet i Västsverige
-- I Kungsbacka utvecklas vi hela livet
-- Ett medskapande samhälle och öppen attityd
+\- En attraktiv kommun att bo, verka och vistas i
+\- En hållbar utveckling och en hälsosam miljö
+\- Bästa företagsklimatet i Västsverige
+\- I Kungsbacka utvecklas vi hela livet
+\- Ett medskapande samhälle och öppen attityd
 
 Kommunövergripande   översiktsplan
 
@@ -3103,15 +3103,15 @@ Strategi 2040, ur översiktsplanen
 Strategi 2040 ur översiktsplanen
 
 För att Kungsbacka ska vara en attraktiv kommun att bo, verka och vistas i ska vi:
-- Fokusera på staden för att skapa förutsättningar för fler invånare, fler arbetstillfällen, större
+\- Fokusera på staden för att skapa förutsättningar för fler invånare, fler arbetstillfällen, större
 utbud, mångfald och puls
-- Fokusera på stationsorterna Anneberg och Åsa
-- Utveckla stark kollektivtrafik och infrastruktur
-- Värna och utveckla landsbygdens näringar och naturresurser
-- Värna och utveckla kustens attraktivitet
-- Värna och utveckla värdefulla naturområden och främja ett attraktivt friluftsliv
+\- Fokusera på stationsorterna Anneberg och Åsa
+\- Utveckla stark kollektivtrafik och infrastruktur
+\- Värna och utveckla landsbygdens näringar och naturresurser
+\- Värna och utveckla kustens attraktivitet
+\- Värna och utveckla värdefulla naturområden och främja ett attraktivt friluftsliv
 
-- Utveckla samhället smart och vara väl rustade för klimatförändringar
+\- Utveckla samhället smart och vara väl rustade för klimatförändringar
 
 6
 
@@ -3163,13 +3163,13 @@ myndighet som har i uppgift att granska hur kommunens planering tar hänsyn till
 förutsättningar.
 
 Delområden inom allmänna intressen styrda i lag
-- Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
-- Riksintressen, 3 kapitlet miljöbalken
-- Riksintressen, 4 kapitlet miljöbalken
-- Miljökvalitetsnormer, 5 kapitlet miljöbalken
-- Skydd av natur, 7 kapitlet miljöbalken
-- Fornminnen, 2 kapitlet kulturmiljölagen
-- Hälsa och säkerhet, plan- och bygglagen
+\- Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
+\- Riksintressen, 3 kapitlet miljöbalken
+\- Riksintressen, 4 kapitlet miljöbalken
+\- Miljökvalitetsnormer, 5 kapitlet miljöbalken
+\- Skydd av natur, 7 kapitlet miljöbalken
+\- Fornminnen, 2 kapitlet kulturmiljölagen
+\- Hälsa och säkerhet, plan- och bygglagen
 
 Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
 
@@ -4396,10 +4396,10 @@ Trafik och översvämning belyses i var sitt strategikapitel eftersom det är tv
 behöver hantera för att kunna växa.
 
 Delområden inom markanvändning i staden
-- Riktlinjer med motiveringar
-- Markanvändningskarta
-- Trafikstrategi - rörelser i staden
-- Översvämningsstrategi
+\- Riktlinjer med motiveringar
+\- Markanvändningskarta
+\- Trafikstrategi - rörelser i staden
+\- Översvämningsstrategi
 
 42
 
@@ -4414,10 +4414,10 @@ utmaningar och planeringsprinciper de berör. Dessutom finns kopplingar till kar
 mer om markanvändningen genom att klicka på relevant information.
 
 Delområden inom riktlinjer med motiveringar
-- Trafiknät
-- Stadsbebyggelse
-- Grönstruktur
-- Tekniska anläggningar
+\- Trafiknät
+\- Stadsbebyggelse
+\- Grönstruktur
+\- Tekniska anläggningar
 
 LÄS MER OM MARKANVÄNDNINGSKARTA
 
@@ -5322,11 +5322,11 @@ informationsklick i kartan. Informationsklick innebär att när du klickar på e
 relevant information i en textruta.
 
 Delområden inom markanvändningskarta
-- Trafiknät
-- Stadsbebyggelse
-- Grönstruktur
-- Tekniska anläggningar
-- Utanför stadsgräns
+\- Trafiknät
+\- Stadsbebyggelse
+\- Grönstruktur
+\- Tekniska anläggningar
+\- Utanför stadsgräns
 
 SE MARKANVÄNDNINGSKARTA
 
@@ -6033,7 +6033,7 @@ zonerna förändras.
 Tabellerna nedan anger min- och maximital för parkering i Kungsbacka stad.
 
 Parkeringstal i Kungsbacka stad, bostäder
-*Ca 5–10 procent av platserna bör vara tillgängliga för besökare
+\*Ca 5–10 procent av platserna bör vara tillgängliga för besökare
 För de exploatörer som vill erbjuda sina boende andra mobilitetslösningar än bilparkering så finns det
 
 möjlighet att sänka parkeringstalen med upp till 0,3 bilplats per lägenhet genom att genomföra
@@ -6044,7 +6044,7 @@ mobilitetsåtgärder.
 <!-- sida 160 -->
 
 Parkeringstal i Kungsbacka stad, verksamheter
-* Minst hälften av platserna för förskola och skola bör ordnas för hämtning och lämning
+\* Minst hälften av platserna för förskola och skola bör ordnas för hämtning och lämning
 
 95
 
@@ -6164,7 +6164,7 @@ figurer nedan.
 
 Högsta beräknade havsvattenstånd från SMHI, 2018 (Höjdsystem RH2000).
 
-Nivåer i havet vid 200-årshändelse från SMHI, 2018 (Höjdsystem RH2000). *Inklusive nutida
+Nivåer i havet vid 200-årshändelse från SMHI, 2018 (Höjdsystem RH2000). \*Inklusive nutida
 medelvattenstånd på ca 0,1 meter.
 
 Nivåer i havet genom att lägga ihop Framtida medelvattenyta (utsläppsscenario SSP5-8.5, 83:e percentilen
@@ -6176,8 +6176,8 @@ föreslås 0,4 meter.
 
 <!-- sida 164 -->
 
-*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier.
-**Rekommenderat av MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag.
+\*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier.
+\*\*Rekommenderat av MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag.
 Skyfallskarteringen för Kungsbacka använder klimatfaktor 1,35.
 
 99
@@ -6375,11 +6375,11 @@ utvecklingsalternativ: planförslaget baserat på fyra planeringsprinciper och e
 motsatta principer.
 
 Delområden inom hållbarhetanalys
-- Samlad bedömning
-- Alternativgranskning
-- Miljökonsekvensbeskrivning enligt miljöbalken
-- Analys utifrån de globala målen
-- Barnkonsekvensanalys
+\- Samlad bedömning
+\- Alternativgranskning
+\- Miljökonsekvensbeskrivning enligt miljöbalken
+\- Analys utifrån de globala målen
+\- Barnkonsekvensanalys
 
 Samlad bedömning
 Den samlade bedömningen är att strategierna i planförslaget medför många positiva och några
@@ -6632,12 +6632,12 @@ planarbetet. Kommunen har genomfört ett avgränsningssamråd enligt 6 kapitlet 
 det framförs vilka möjliga konfliktområden som kommunen avser att särskilt belysa i en MKB.
 
 Delområden inom miljökonsekvensbeskrivning
-- Påverkan på vatten samt miljökvalitetsnormer för vatten
-- Trafikbuller samt miljökvalitetsnormer för omgivningsbuller
-- Luftkvalitet samt miljökvalitetsnormer för luft
-- Förändrat klimat
-- Riksintressen
-- Övriga miljökonsekvenser
+\- Påverkan på vatten samt miljökvalitetsnormer för vatten
+\- Trafikbuller samt miljökvalitetsnormer för omgivningsbuller
+\- Luftkvalitet samt miljökvalitetsnormer för luft
+\- Förändrat klimat
+\- Riksintressen
+\- Övriga miljökonsekvenser
 
 Bakgrund till Miljökonsekvensbeskrivning
 
@@ -6991,7 +6991,7 @@ förorenade områden hanteras frågan i planprocessen och kan leda till att för
 åtgärdas. Vi ska också arbeta vidare med det strategiska arbetet för att uppnå målet om att alla
 
 områden med mycket stor risk eller stor risk för människors hälsa eller miljön ska vara åtgärdade
-2050.
+2050\.
 
 Naturresurser
 De areella näringarna, ibland kallade gröna näringar, har stor betydelse för natur- och kulturvärden,
@@ -7597,18 +7597,18 @@ Barn och unga i olika åldrar har fått tycka till om planen i olika former. Der
 utformningen av planen.
 
 VI har genomfört dessa dialoger:
-- Barn i förskoleålder: dialog med barn på tre förskolor.
+\- Barn i förskoleålder: dialog med barn på tre förskolor.
 
-- Bred kartenkät: fyra respondenter under 12 år (en underrepresentation sett till befolkningen);
+\- Bred kartenkät: fyra respondenter under 12 år (en underrepresentation sett till befolkningen);
 213 respondenter i åldern 13–17 år (en överrepresentation sett till befolkningen).
 
-- Dialog med hyresgäster: fyra respondenter i åldern upp till 13 år samt 21 respondenter i åldern
+\- Dialog med hyresgäster: fyra respondenter i åldern upp till 13 år samt 21 respondenter i åldern
 13–17 år.
 
-- Kommunutvecklarna (sommarjobbare): 64 samtal med tonåringar och unga vuxna om
+\- Kommunutvecklarna (sommarjobbare): 64 samtal med tonåringar och unga vuxna om
 utvecklingen av staden.
 
-- Medskapande rum ”Kungsbacka Live”: drop-in rum i ett köpcentrum i Kungsbacka stad. Rummet
+\- Medskapande rum ”Kungsbacka Live”: drop-in rum i ett köpcentrum i Kungsbacka stad. Rummet
 hade tema Utvecklingen av Kungsbacka stad under tre dagar. Rummet hade inslag av lek och
 interaktivitet som tilltalar barn och några barn kom in och lämnade sina synpunkter.
 
@@ -8745,7 +8745,7 @@ granskning.
 
 Underlag:
 
-1. Fördjupad översiktsplan för Kungsbacka stad, samrådshandling 2024-01-25. PDF-version samt
+1\. Fördjupad översiktsplan för Kungsbacka stad, samrådshandling 2024-01-25. PDF-version samt
 digital version https: //karta.kungsbacka.se/fop-staden/.
 
 Bakgrund och förutsättningar
@@ -8853,10 +8853,10 @@ Besöksadress: Olaus Magnus väg 35 E-post: sgiQMsgi.se Org.nr: 202100-0712
 
 <!-- sida 223 -->
 
-Från:          "Karin Bergdahl" <karin.bergdahl@sgi.se>
+Från:          "Karin Bergdahl" \<karin.bergdahl@sgi.se>
 Skickat:       Mon, 6 May 2024 13:40:50 +0100
-Till:          "N-RB-Plan" <plan.halland@lansstyrelsen.se>
-Cc:            "'Kungsbacka kommun'" <samhallsbyggnadskontoret@kungsbacka.se>
+Till:          "N-RB-Plan" \<plan.halland@lansstyrelsen.se>
+Cc:            "'Kungsbacka kommun'" \<samhallsbyggnadskontoret@kungsbacka.se>
 Ämne:          SGI Yttrande FÖP Kungsbacka LST dnr 2063-2024
 Bilagor:       Yttrande FÖP Kungsbacka.pdf
 
@@ -8879,10 +8879,10 @@ www.sgi.se | Linkedin | Kontakta SGI
 
 <!-- sida 224 -->
 
-Från:          "Gibson Kester" <Kester.Gibson@msb.se>
+Från:          "Gibson Kester" \<Kester.Gibson@msb.se>
 Skickat:       Wed, 8 May 2024 14:50:29 +0100
-Till:          "Länsstyrelsen i Hallands län" <halland@lansstyrelsen.se>
-Cc:            "Salomonsson Jennie" <jennie.salomonsson@lansstyrelsen.se>
+Till:          "Länsstyrelsen i Hallands län" \<halland@lansstyrelsen.se>
+Cc:            "Salomonsson Jennie" \<jennie.salomonsson@lansstyrelsen.se>
 Ämne:          Sv: Begäran om yttrande över samråd om fördjupning av översiktsplan för
 Kungsbacka stad, 2063-2024
 Bilagor:       2024-04746 FÖP Kungsbacka stad.pdf
@@ -8895,7 +8895,7 @@ Med vänliga hälsningar
 
 Kester Gibson
 
-______________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kester Gibson
 
 Handläggare
@@ -9257,11 +9257,11 @@ Detta dokument är digitalt beslutat och därför saknas namnunderskrift
 
 <!-- sida 231 -->
 
-Från:          "elizabeth.devlin@trafikverket.se" <elizabeth.devlin@trafikverket.se>
+Från:          "elizabeth.devlin@trafikverket.se" \<elizabeth.devlin@trafikverket.se>
 Skickat:       Mon, 20 May 2024 11:15:12 +0100
-Till:          "Länsstyrelsen i Hallands län" <halland@lansstyrelsen.se>;
-"samhallsbyggnadskontoret@kungsbacka.se" <samhallsbyggnadskontoret@kungsbacka.se>
-Cc:            "Karlberg Andreas K" <andreas.k.karlberg@lansstyrelsen.se>
+Till:          "Länsstyrelsen i Hallands län" \<halland@lansstyrelsen.se>;
+"samhallsbyggnadskontoret@kungsbacka.se" \<samhallsbyggnadskontoret@kungsbacka.se>
+Cc:            "Karlberg Andreas K" \<andreas.k.karlberg@lansstyrelsen.se>
 Ämne:          TRV 2024/28056 Trafikverkets synpunkter angående fördjupad översiktsplan för
 Kungsbacka stad 2050 i Kungsbacka kommun
 Bilagor:       TRV 2024-28056 Smr ytt v3.pdf
@@ -9311,7 +9311,7 @@ Kungsbacka kommun har översänt rubricerat ärende till Trafikverket för samr�
 
 Kungsbacka stad planera att fram till 2050 utvecklas och bygga uppemot 12 000
 bostäder, möjlighet till fler arbetsplatser och ökar nattbefolkning med 28 800 fram till
-2050. I översiktsplan har kommunen pekat ut ett område där staden kan växa och har
+2050\. I översiktsplan har kommunen pekat ut ett område där staden kan växa och har
 sagt att minst hälften av kommunens befolkningsutveckling ska kunna ske i staden.
 
 Tidigare samråd
@@ -9349,7 +9349,7 @@ v
 utpekade Trans European Transport Network, TEN-T nätet. Banan ingår även i det
 e
 rB   utpekade strategiska godsnätet.
-_
+\_
 lla
 M    Väg E6/20 är utpekad som riksintresse i enlighet med § 3:8 Miljöbalken, primär väg för
 6
@@ -9398,7 +9398,7 @@ att växa från 85 000 till 130 000 invånare år 2050 medan det i Sampers antas
 kommunen har en befolkning på 98 000 år 2045. Detta innebär att det också är stora
 skillnader i trafikökning på (bl.a.) väg E6/20 mellan basprognosen och kommunens
 prognos. Enligt kommunens prognosstyrda scenario blir trafiksystemet överbelastat
-2050. Det hade varit intressant att jämföra detta med hur det hade blivit med
+2050\. Det hade varit intressant att jämföra detta med hur det hade blivit med
 basprognosens trafikflöden.
 Trafikflöde
 
@@ -9427,7 +9427,7 @@ F
 .v
 v
 e rB ” I scenariot prognosstyrd framtid år 2050 beräknas det under eftermiddagens
-_
+\_
 lla  maxtimme bli köer på vägnätet inom hela Kungsbacka stad samt på väg E6/20. Det
 M
 6    beräknas bli för låg kapacitet i nästan alla korsningar och många korsningar beräknas
@@ -9508,7 +9508,7 @@ Utbyggnation vid Hede station (Kungsbacka Norra)
 v
 e
 rB   Trafikverket välkomnar att kommunen prioritera exploatering kring järnvägsstation vid
-_
+\_
 lla
 M    Hede och att ”Kungsbacka norra har en avgörande roll i staden och ska därför
 6 2  utvecklas till attraktiva och gångvänliga områden.” Kommunens planer på höga hus
@@ -9585,7 +9585,7 @@ v
 ett yttre översvämningsskydd som preliminärt antas skyddet vara på plats 2050.
 e
 rB
-_    Fortsatt samråd om utformning om skyddet och lokaliseringen med hänvisningen till
+\_    Fortsatt samråd om utformning om skyddet och lokaliseringen med hänvisningen till
 lla
 M    statliga infrastruktur.
 6
@@ -9650,7 +9650,7 @@ F
 v
 e
 rB
-_
+\_
 lla
 M
 6
@@ -9867,15 +9867,15 @@ Projektledare SBK, Andrea Ericsson, biträdande projektledare Raquel Dias Sandbl
 Projektgruppen består av ett antal nyckelkompetenser.
 •  Ett tiotal personer från kommunstyrelsens förvaltning som täcker in
 ämnesområdena:
--  Hållbarhet och konsekvenser
--  Rörelser i och till staden
--  Bebyggelse & Näringsliv
+\-  Hållbarhet och konsekvenser
+\-  Rörelser i och till staden
+\-  Bebyggelse & Näringsliv
 
--  Dialogarbete & kommunikation
--  Grön- och blåstrategi
--  Riksintressen
--  Hälsa och säkerhet
--  Genomförbarhet
+\-  Dialogarbete & kommunikation
+\-  Grön- och blåstrategi
+\-  Riksintressen
+\-  Hälsa och säkerhet
+\-  Genomförbarhet
 •  GIS-resurser från förvaltningen för Bygg & Miljö
 
 Sakkunniga från samtliga förvaltningar kommer utses som också kan delta i

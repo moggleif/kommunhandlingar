@@ -195,7 +195,7 @@ Sida 4 av 6
 Minigolf, boule, varpa och liknande 2 kr/m²/år.
 14 uthyrningsverksamheter    Minimiavgift 500 kr
 
-\_____
+\_\_\_\_\_
 
 Taxa för upplåtelse av allmän platsmark
 

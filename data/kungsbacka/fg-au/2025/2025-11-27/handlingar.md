@@ -1961,7 +1961,7 @@ info@kungsbacka.se
 
 Tematisk tillsyn om betygssättning genom prövning efter lovskola i årskurs 9 i
 grundskolans lovskola placerad vid Aranäsgymnasiet i Kungsbacka kommun.
-\___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Beslut
 
@@ -4542,7 +4542,7 @@ Bra om vi får in underlagen så fort som möjligt för att vi ska hinna fatta b
 Med vänlig hälsning
 Sarah von Zweigbergk
 Utredare
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 Förskola & Grundskola, Myndighet & Stöd
 0300- 83 55 74

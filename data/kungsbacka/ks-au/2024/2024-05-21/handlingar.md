@@ -388,14 +388,14 @@ Sammanfattning av ärendet
 Utredningen föreslår att miljöbalkens regler gällande strandskydd ändras. Ändringar
 som föreslås i utredningen är att:
 
-- Vattenbruk ska omfattas av undantagen från strandskyddsbestämmelserna.
-- De förvärvsnäringar som omfattas av undantagen ska bedrivas varaktigt antingen
+\- Vattenbruk ska omfattas av undantagen från strandskyddsbestämmelserna.
+\- De förvärvsnäringar som omfattas av undantagen ska bedrivas varaktigt antingen
 som huvud- eller bisyssla.
-- Byggnader, anläggningar, anordningar eller åtgärder (ej bostadsändamål) som
+\- Byggnader, anläggningar, anordningar eller åtgärder (ej bostadsändamål) som
 behövs för jordbruk, fiske, vattenbruk, skogsbruk eller renskötsel skulle kunna
 undantas om de för sin funktion eller för att uppnå ett funktionellt samband och att
 dessa finns eller vidtas inom strandskyddsområdet.
-- Ett ytterligare särskilt skäl för dispens från strandskyddet föreslås också för
+\- Ett ytterligare särskilt skäl för dispens från strandskyddet föreslås också för
 byggnad, anläggning, anordning eller åtgärd (ej för bostadsändamål) om den behövs
 för en småskalig förvärvsverksamhet som bedrivs varaktigt på landsbygden. Det
 
@@ -403,7 +403,7 @@ strandnära läget ska i detta fall innebära en fördel för byggnadens, anläg
 anordningens eller åtgärdens funktion och samma funktionella fördel ska inte kunna
 uppnås utanför området.
 Ändringarna av miljöbalkens strandskyddsregler förslås träda ikraft 1 september
-2025.
+2025\.
 
 Vidare föreslår utredningen att en vägledning om tillämpningen av
 undantagsbestämmelsen tas fram av ansvarig myndighet. I detta fall är det
@@ -1349,7 +1349,7 @@ hus och en skolbyggnad har därmed fått en uppdaterad resurssammanställning
 och ett flerbostadshus har fått uppdaterad BTA och Atemp. Dessa ändringar
 har inneburit att referensvärden för vissa byggnadstyper har behövt justeras.
 KTH publicerade därför en uppdaterad referensvärdesrapport6 i november
-2023.
+2023\.
 
 5 Se mer om metoden att sätta gränsvärde för denna grupp längre fram i dokumentet.
 6 Malmqvist, T., Borgström, S., Brismark, J., & Erlandsson, M. (2023). Referensvärden för klimatpåver-
@@ -1510,7 +1510,7 @@ Räddningstjänstverksamheten finansieras till 85 procent av avgifter från medl
 budgetunderlag för 2025 och plan 2026–2027 framgår att medlemsavgifterna föreslås räknas upp med
 index enligt Prisindex för Kommunal verksamhet (PKV) på 0,6 procent. Utöver det vill RSG ha
 ytterligare uppräkning av medlemsavgiften till en total uppräkning av avgiften på 6,5 procent till år
-2025.
+2025\.
 
 Beslutsunderlag
 Kommunledningskontorets tjänsteskrivelse, 2024-04-09
@@ -1547,7 +1547,7 @@ Räddningstjänstens verksamhet finansieras till 85 procent av avgifter från me
 budgetunderlag för 2025 och plan 2026–2027 framgår att medlemsavgifterna föreslås räknas upp med
 index enligt Prisindex för Kommunal verksamhet (PKV) på 0,6 procent. Utöver det vill RSG ha
 ytterligare uppräkning av medlemsavgiften till en total uppräkning av avgiften på 6,5 procent till år
-2025.
+2025\.
 I kommunens övriga verksamhet sker uppräkning med Prisindex för kommunal verksamhet (PKV)
 exklusive PO-effekt, kommunstyrelsens förvaltning bedömer därför att det är en rimlig
 
@@ -1689,7 +1689,7 @@ Medlemsavgifter för räddningstjänstverksamhet
 Verksamheten finansieras till 85 % av avgifter från medlemskommunerna. Indexuppräkning enligt
 Prisindex för kommunal verksamhet (PKV) redovisas i handlingen tillsammans med övriga punkter för
 en äskad uppräkning av medlemsavgifterna med totalt 6,5 % avseende budget/verksamhetsåret
-2025.
+2025\.
 Medlemskommunernas beslut sammanvägs i framtagandet av handlingen Förslag till Budget 2025
 plan 2026-2027.
 
@@ -1720,15 +1720,15 @@ www.rsgbg.se
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
 Innehåll
-1. INLEDNING ....................................................................................4
+1\. INLEDNING ....................................................................................4
 
-2. BUDGETPROCESSEN ......................................................................4
+2\. BUDGETPROCESSEN ......................................................................4
 
-3. BUDGET 2025 OCH PLAN 2026-2027 ..............................................6
+3\. BUDGET 2025 OCH PLAN 2026-2027 ..............................................6
 
 3.1  Beslutspunkter avseende RSG:s medlemsavgifter 2025 ......................7
 
-4. FÖRUTSÄTTNINGAR FÖR VERKSAMHETEN .....................................8
+4\. FÖRUTSÄTTNINGAR FÖR VERKSAMHETEN .....................................8
 4.1  Från brandkår till räddningstjänstmyndighet ......................................8
 
 4.2  Förbundsutökning ................................................................................8
@@ -1740,12 +1740,12 @@ Innehåll
 
 4.6  Omvärldsläget ....................................................................................11
 
-5. FAKTORER MED VÄSENTLIG EKONOMISK PÅVERKAN ..................12
+5\. FAKTORER MED VÄSENTLIG EKONOMISK PÅVERKAN ..................12
 5.1  Fastighets- och lokalfrågan ................................................................12
 
 5.2  Investeringar – budget för avskrivningskostnader .............................14
 
-6. EKONOMI, EGET KAPITAL och PERSONAL .....................................15
+6\. EKONOMI, EGET KAPITAL och PERSONAL .....................................15
 
 6.1  Ekonomisk utveckling och budgetåret 2024 ......................................15
 6.2  Ekonomiska förväntningar och budgetår 2025 plan 2026-2027 ........16
@@ -1753,7 +1753,7 @@ Innehåll
 6.3  Eget kapital ........................................................................................17
 
 6.1  Personal - statistik och utveckling ......................................................18
-7. MEDLEMSAVGIFTERNA ................................................................20
+7\. MEDLEMSAVGIFTERNA ................................................................20
 
 7.1  Prisindex för kommunal verksamhet (PKV) .......................................20
 
@@ -1767,9 +1767,9 @@ Innehåll
 7.6  Minskade intäkter ..............................................................................21
 7.7  Riktade statsbidrag 2025 ...................................................................22
 
-8. EFFEKTIVISERINGAR ....................................................................23
+8\. EFFEKTIVISERINGAR ....................................................................23
 
-9. BILAGOR ......................................................................................25
+9\. BILAGOR ......................................................................................25
 
 RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                              2(29)
 
@@ -1788,7 +1788,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                              3(29)
 
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
-1. INLEDNING
+1\. INLEDNING
 Räddningstjänstförbundet Storgöteborg (RSG) är ett kommunalförbund med nio
 medlemskommuner; Göteborg, Mölndal, Kungsbacka, Härryda, Partille, Lerum,
 
@@ -1823,7 +1823,7 @@ LSO-verksamheten.
 Finansiering av räddningstjänstverksamheten sker genom medlemsavgifter och övriga
 intäkter.
 
-2. BUDGETPROCESSEN
+2\. BUDGETPROCESSEN
 Budgetprocessen har under ett antal år följt en arbetsordning där underlag för budget
 verksamhetsår och planperiod, utarbetats under inledningen av året, och som i slutet
 
@@ -1883,7 +1883,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                              5(29)
 
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
-3. BUDGET 2025 OCH  PLAN 2026-2027
+3\. BUDGET 2025 OCH  PLAN 2026-2027
 Dokumentet beskriver framför allt verksamhetens grundläggande förutsättningar för
 att utföra sitt uppdrag samt övriga faktorer med särskild ekonomisk påverkan. De
 
@@ -1915,7 +1915,7 @@ större investeringar, är det nu viktigt att inte ekonomin urholkas ytterligare
 De senaste två årens uppräkning av medlemsavgifterna har inte följt löne- och
 kostnadsutvecklingen. Exempelvis för 2024 erhöll inte RSG uppräkning enligt äskande,
 men med en uppräkning på t ex 4,1 % hade RSG kunnat budgetera ett nollresultat för år
-2024. RSG erhöll i stället 2,7 %, vilket resulterade i en underbalanserad budget (-10,9
+2024\. RSG erhöll i stället 2,7 %, vilket resulterade i en underbalanserad budget (-10,9
 mkr). Se avsnitt 6.1 Ekonomisk utveckling och budgetåret 2024.
 
 Äskande för budget 2025 är beräknat för att stoppa det underskott som annars ”rullar
@@ -1957,7 +1957,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                              7(29)
 
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
-4. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
+4\. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
 
 4.1 Från brandkår till räddningstjänstmyndighet
 Förbundet har under ett antal år genomgått en utveckling från brandkår till att bli en
@@ -2019,7 +2019,7 @@ vissa typer av bränder.
 Befolkningen i förbundets nio kommuner fortsätter växa för att enligt
 Statistikmyndighetens (SCB) rapporter för perioden 2021-2040 motsvara nästan 1 040
 000 invånare år 2040, en ökning med drygt 120 000, eller drygt 13 % jämfört med år
-2020. Vid ytterligare utökning av medlemmar i förbundet baserat på inkomna
+2020\. Vid ytterligare utökning av medlemmar i förbundet baserat på inkomna
 ansökningar kan förbundet år 2040 att ha ytterligare drygt 100 000 invånare.
 Räddningstjänstens grundläggande uppgift är enligt Lag (2003:778) om skydd mot
 
@@ -2218,7 +2218,7 @@ vägledningar kopplade till området och hur utfallet av dessa kommer att påver
 omfatta allt från invallning till insamling, omhändertagande och rening av detta vatten,
 en kostnad som för exempelvis en enskild brand år 2021 landade på 1,4 mkr.
 
-5. FAKTORER MED  VÄSENTLIG  EKONOMISK   PÅVERKAN
+5\. FAKTORER MED  VÄSENTLIG  EKONOMISK   PÅVERKAN
 
 Här redogörs för ett antal faktorer med väsentlig påverkar RSG:s ekonomi i stor
 utsträckning. Vissa med akut behov av åtgärd, andra som identifieras ha påverkan på
@@ -2386,7 +2386,7 @@ verksamhet. Budget är beslutad med möjlighet att vid behov utnyttja delar av R
 egna kapital. Investeringarna medför både kostnader för avskrivningar och vissa
 engångsutgifter som krävs för att genomföra projektet och dess investeringar.
 
-6. EKONOMI, EGET  KAPITAL och PERSONAL
+6\. EKONOMI, EGET  KAPITAL och PERSONAL
 Det allmänt svårare ekonomiska läget de senaste åren har påverkat RSG, men tack vare
 åtgärder och ett väl tilltaget eget kapital har RSG haft möjlighet att hantera negativa
 
@@ -2594,12 +2594,12 @@ Personalstatistik
 Uppgifter per 31/12
 2023  2022   2021  2020  2019
 Arbetad tid
-Antal årsarbetare*         797   725   722   728   716
+Antal årsarbetare\*         797   725   722   728   716
 Antal anställda per december
 
 Anställda per december inkl. RIB
 
-*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
+\*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
 t.ex. 100 % sysselsättningsgrad motsvarar 1,0 årsarbetare och 75 procent 0,75.
 
 Tabell 2 Personalstatistik
@@ -2636,7 +2636,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             19(29)
 
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
-7. MEDLEMSAVGIFTERNA
+7\. MEDLEMSAVGIFTERNA
 Samtliga punkter inom avsnitt 7, ingår i RSG:s äskande inför budget/verksamhetsåret
 2025, se avsnitt 3. Budget 2025 och plan 2026-2027.
 
@@ -2664,14 +2664,14 @@ medlemsavgifterna med en högre procent än dagens gällande PKV, se avsnitt 3 B
 PKV
 
 2023  2024  2025 2026 2027
-Arbetskraftskostnad*   7,0   5,2   -0,2 2,2   3,6
+Arbetskraftskostnad\*   7,0   5,2   -0,2 2,2   3,6
 vikt arbetskraftskostnad 68,6% 69,0% 69,1% 68,4% 68,4%
-Övrig förbrukning**    4,0   2,9   2,5  2,5   2,5
+Övrig förbrukning\*\*    4,0   2,9   2,5  2,5   2,5
 vikt övrig förbrukning 31,4% 31,0% 30,9% 31,6% 31,6%
 Prisindex kommunal verksamhet 6,1 4,5 0,6 2,3 3,3
 
-* Lönekostnadsförändring inkl. förändring i arbetsgivaravgifter.
-** 40 % lönekostnadsförändring och 60% KPIF
+\* Lönekostnadsförändring inkl. förändring i arbetsgivaravgifter.
+\*\* 40 % lönekostnadsförändring och 60% KPIF
 
 Prisindex kommunal verksamhet publicerad 2024-02-26
 7.2 Lönekostnader 2023 och 2024
@@ -2697,7 +2697,7 @@ Budgetutrymmet minskar därmed motsvarande 7,0 mkr, vilket i sin tur utgör stö
 delen av underbalanseringen av budget 2024 (-10,9 mkr, varav -2,5 mkr är beviljat
 sedan tidigare). Behovet är en justering med 1,0 % uppräkning av medlemsavgifterna
 för att inte fortsätta föra underskottet vidare, se avsnitt 3 Budget 2025 och plan 2026-
-2027.
+2027\.
 
 7.3 Lönekostnader 2025
 Vid en uppräkning av medlemsavgifterna inför 2025 med endast 0,6 %, som en följd av
@@ -2819,7 +2819,7 @@ kommunalförbunden direkt utan tillställs primärkommunerna. Det är viktigt at
 oklarheter råder kring RSG:s finansering av dessa aktiviteter framöver. Se avsnitt 3.
 Budget 2025 och plan 2026-2027.
 
-8. EFFEKTIVISERINGAR
+8\. EFFEKTIVISERINGAR
 
 Utveckling och effektivisering av förbundets ekonomi och verksamhet, pågår
 kontinuerligt, både genom egen effektivisering och som en följd av pålagda
@@ -2827,7 +2827,7 @@ besparingskrav samt ökade intäkter.
 Det finns en rad exempel sedan längre tillbaka som exempelvis avvecklingen av
 dykskolan Färjenäs 2013, Säve flygplatsbrandkår 2015 samt höjdenheten i Mölndal
 
-2016.
+2016\.
 Ett annat exempel är det strategiskt viktiga arbetet, helt i linje med statsmaktens
 inriktning och alltmer tydliga lagstiftning, avseende införandet och vidareutvecklingen
 av gemensamt räddningsledningssystem. Genom att vara drivande i att ingå i större
@@ -2901,11 +2901,11 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             24(29)
 
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
-9. BILAGOR
+9\. BILAGOR
 
 9.1 Preliminär Resultatbudget 2025 och 2026-2027
 Utfall Budget Budget Budget Budget
-Medlemsavgift uppräkning* 2,9% 2,7% 6,5% 2,3% 3,3%
+Medlemsavgift uppräkning\* 2,9% 2,7% 6,5% 2,3% 3,3%
 2023   2024   2025  2026  2027
 Miljontal kronor
 Verksamhetens intäkter
@@ -2958,7 +2958,7 @@ Rivningskostnad Färjenäs          5,0   1,0
 Avskrivningar, Färjenäsprojekt    1,5   2,5   2,5
 Avskrivningskostnader, Säkerhetsprojekt 1,0 1,5 1,5
 JUSTERAT RESULTAT                - 0,0 - 0,0 - 0,0
-*Medlemsavgift 2025 enligt äskning, medan
+\*Medlemsavgift 2025 enligt äskning, medan
 2026-2027 enligt Prisindex kommunal verksamhet (PKV) 2024-02-26
 RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             25(29)
 
@@ -3022,7 +3022,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             26(29)
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader* 2024 2025 2026 2027
+Medlemsavgift för pensionskostnader\* 2024 2025 2026 2027
 Göteborgs kommun                 138 553 000 92 176 000 78 363 000 80 449 000
 Mölndals kommun                  12 983 000 8 637 000 7 343 000 7 539 000
 Kungsbacka kommun                19 184 000 12 763 000 10 850 000 11 139 000
@@ -3033,7 +3033,7 @@ Tjörns kommun                    4 069 000 2 707 000 2 302 000 2 363 000
 Stenungsunds kommun              10 292 000 6 847 000 5 821 000 5 976 000
 Lilla Edets kommun               4 694 000 3 123 000 2 655 000 2 725 000
 Summa                            215 311 000 143 241 000 121 776 000 125 018 000
-* 2025-2027 enligt KPA Prognos 2023-12-12 inkl avsättning för SAP-R
+\* 2025-2027 enligt KPA Prognos 2023-12-12 inkl avsättning för SAP-R
 2024: Enligt KPA prognos 2022-12-05, den tidpunkt då både RSG och fd SBRF fanns att tillgå.
 Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2024 2025 2026 2027
 Göteborgs kommun                 532 794 000 512 042 665 507 886 598 524 146 877
@@ -3222,7 +3222,7 @@ Avsikten är att Köparen ska uppföra radhusen och upplåta samtliga bostäder 
 hyresrätt. Avtalet reglerar även andra villkor som ska gälla för utbyggnaden inom
 området.
 
-2. Överlåtelseförklaring
+2\. Överlåtelseförklaring
 
 2.1 Kommunen överlåter härmed fastigheten Kungsbacka Frillesås-Rya 2:133 till Köparen
 på de villkor som anges i Avtalet.
@@ -3232,7 +3232,7 @@ Ka Köpeskilling
 3.1 Köpeskillingen för Fastigheten utgör
 TVÅMILJONERETTHUNDRANITTIOTVÅTUSEN (2 192 000) KRONOR.
 
-4. Köpeskillingens erläggande och tilläggsköpeskilling
+4\. Köpeskillingens erläggande och tilläggsköpeskilling
 
 4.1 Den ovan angivna köpeskillingen ska betalas av Köparen på Tillträdesdagen, så som
 den definieras i punkt 5 nedan.
@@ -3330,13 +3330,13 @@ Sign
 
 <!-- sida 79 -->
 
-11.
+11\.
 
 11.2
 
 11.3
 
-12.
+12\.
 
 12,1
 
@@ -3344,7 +3344,7 @@ Sign
 
 12.3
 
-13.
+13\.
 
 13.1
 
@@ -3439,7 +3439,7 @@ att åtgärderna slutförts, annars är möjligheten till ersättning förverkad
 
 B. GENOMFÖRANDE
 
-14.
+14\.
 
 14.1
 
@@ -3501,23 +3501,23 @@ Sign
 
 <!-- sida 81 -->
 
-15.
+15\.
 
 15.1
 
 15.2
 
-16.
+16\.
 
 16.1
 
 16.2
 
-17.
+17\.
 
 17.1
 
-18.
+18\.
 
 18.1
 
@@ -3597,7 +3597,7 @@ Sig
 
 18.7
 
-19.
+19\.
 
 19.1
 
@@ -3671,15 +3671,15 @@ Sin (ÅA
 
 19.5
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
-22.
+22\.
 
 22.1
 
@@ -3709,11 +3709,11 @@ Anslutningsavgifter för el, fjärrvärme, tele, opto med mera betalas av Köpar
 
 C. ÖVRIGA BESTÄMMELSER
 
-23.
+23\.
 
 23.1
 
-24.
+24\.
 
 24.1
 
@@ -3928,7 +3928,7 @@ Kungsbacka Halland SA72737047
 Mellan undertecknad/e, ovan benämnd/a fastighetsägaren respektive ledningsägaren är följande överenskommelse
 träffad till förmån för ledningsägarens fastighet.
 
-$& 1 Upplåtelsens omfattning
+\$& 1 Upplåtelsens omfattning
 
 Fastighetsägaren medger ledningsägaren rätt att
 a) anlägga/nedlägga och för all framtid bibehålla elektrisk starkströmsledning/nätstation med en systemspänning av högst 24kV med tillbehör
@@ -3968,7 +3968,7 @@ skyddsåtgärder vid utförande av nyss nämnda arbeten samt att ersätta fastig
 skyddsåtgärder uppkommer för honom. Ledningsägarens åtaganden enligt detta moment är begränsade till oförändrad markanvändning.
 
 &
-=
+\=
 
 & 3 Tillträde
 Ledningsägaren får omedelbart ta i anspråk de enligt & 1 upplåtna rättigheterna. Rättigheterna anses ha tagits i anspråk då ledningsbyggande
@@ -4030,7 +4030,7 @@ rotstående skogen. Den som svarar för avverkningen vid ledningens framdragande
 med underhållsröjning har att tillse att avverkningsrester icke kvarlämnas så att fara för insektsangrepp i skogsvårdslagens bemärkelse uppstår.
 
 8 8 Ledningsförrättning m m
-Detta avtal får, med undantag av $ 6 och 10, läggas till grund för beslut om ledningsrätt såsom överenskommelse enligt & 14, första stycket,
+Detta avtal får, med undantag av \$ 6 och 10, läggas till grund för beslut om ledningsrätt såsom överenskommelse enligt & 14, första stycket,
 ledningsrättslagen. Avtalet får alternativt inskrivas som servitut. Innan ledningsbeslutet vunnit laga kraft eller avtalet inskrivits är fastighetsägaren
 skyldig att vid överlåtelse eller upplåtelse av egendomen eller av ledningen berörd del därav göra förbehåll om detta avtals bestånd. Därest
 ledningsägaren med stöd av denna bestämmelse ansöker om ledningsrätt biträder fastighetsägaren/arrendatorn ansökan.

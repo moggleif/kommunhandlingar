@@ -141,7 +141,7 @@ Kommunstyrelsen godkänner delårsbokslut per augusti och prognos för 2025.
 
 Sammanfattning av ärendet
 Kommunstyrelsen prognosticerar ett överskott om 14,5 miljoner kronor för helåret
-2025. Överskottet förklaras av att delar av kommunens IT- och
+2025\. Överskottet förklaras av att delar av kommunens IT- och
 digitaliseringssatsningar tar längre tid att genomföra, ofördelade resurser inom
 projektportföljen, lägre driftskostnader än budgeterat för lokalplaneringen samt högre
 intäkter inom samhällsbyggnadsområdet.

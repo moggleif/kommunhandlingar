@@ -13808,7 +13808,7 @@ januari § 21.
 Förvaltningens tjänsteskrivelse den 8 oktober 2025.
 Förslag till Trafikförsörjningsprogram
 Remissvar från nämnderna
-\_____
+\_\_\_\_\_
 
 Beslutet skickas till:
 
@@ -14139,7 +14139,7 @@ och finner att så sker.
 Beslut skickas till
 Region Halland, regionen@regionhalland.se märk med ”RS230670 Marks kommun”
 
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Justerandes signatur           Utdragsbestyrkande
 
@@ -14425,7 +14425,7 @@ Hej,
 2026-2030 (diarienummer RS230670).
 
 Med vänlig hälsning
-\____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Josefine Colliander
 Nämndsekreterare
 Tel. 072-216 07 34

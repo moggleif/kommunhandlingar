@@ -262,12 +262,12 @@ planeringsstimulans som kan sökas från den 2 april 2024 till den 1 oktober 202
 
 Stöd kan ges till en kommun som efter den 31 december 2023 antar en detaljplan
 som gör det möjligt att:
-- bygga småhus, och som för det ändamålet omfattar minst 5 000 kvadratmeters
+\- bygga småhus, och som för det ändamålet omfattar minst 5 000 kvadratmeters
 
 kvartersmark eller,
-- omvandla lokalarea till boarea eller,
+\- omvandla lokalarea till boarea eller,
 
-- både bygga småhus (och som för det ändamålet omfattar minst 5 000
+\- både bygga småhus (och som för det ändamålet omfattar minst 5 000
 kvadratmeter kvartersmark) och omvandla lokalarea till boarea.
 Stödet riktar sig enbart till kommuner. Det innebär att kommunala bolag eller privata
 aktörer inte kan beviljas stöd. Stöd får ges med högst 15 000 kronor för varje nytt
@@ -800,7 +800,7 @@ Klarinettens förskola är lokaliserad inom fastigheterna Fors 1:230 och Fors 1:
 Sedan renoveringen av byggnaden 2018 har Förskola & Grundskola endast bedrivit
 verksamhet i mindre omfattning i lokalerna. Detta fick till följd att byggnaden
 återlämnades till kommunstyrelsens förvaltning av nämnden för Service i december
-2022.
+2022\.
 
 Det innebär att kommunstyrelsen har ansvaret att besluta om fastigheterna och dess
 byggnader när det inte längre finns behov av dem som kommunal verksamhetslokal.
@@ -851,21 +851,21 @@ Sammanfattning av ärendet
 
 Kommundirektör Malin Aronsson lämnar följande information:
 
-- Tillförordnade kommundirektörer under sommaren 2024:
+\- Tillförordnade kommundirektörer under sommaren 2024:
 6–4 juli: Katrina Öryd
 15–21 juli: Julia Tryggvadottir Tollesson
 22–28 juli: Stigert Pettersson
 29 juli–4 augusti: Patrik Hellberg
 
-- Länsstyrelsen i Hallands läns information om bland annat massflyktsdirektivet
+\- Länsstyrelsen i Hallands läns information om bland annat massflyktsdirektivet
 och anvisningar.
 
-- Samordning av mötesplanering för kommungemensamma möten.
+\- Samordning av mötesplanering för kommungemensamma möten.
 
 Samhällsbyggnadschef Lovisa Eld lämnar information om:
 
-- Västtrafiks inbjudan till kollektivtrafikdag 5 september 2024.
-- Uppdatering av kommunens energiplan.
+\- Västtrafiks inbjudan till kollektivtrafikdag 5 september 2024.
+\- Uppdatering av kommunens energiplan.
 
 Beslutsgång
 

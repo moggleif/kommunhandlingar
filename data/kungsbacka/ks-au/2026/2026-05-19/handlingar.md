@@ -272,7 +272,7 @@ ombudget
 Årets resultat, prognos       753   231  286   604     320   508
 Avgår jämförelsestörande poster: -184 52 -75   -57      0   -142
 0
-- varav resultat från exploateringsverksamhet -184 40 23 46  -145
+\- varav resultat från exploateringsverksamhet -184 40 23 46  -145
 ¹ Strukturellt resultat/prognos 569 276  211   548     320   366
 Resultatets andel av skatter & statsbidrag
 Årets resultat (%)            13,1  3,8   4,6  9,5     4,8   7,7
@@ -489,8 +489,8 @@ Sveriges Kommuner och Regioner (SKR) bedömer i cirkulär 26:18 Aktuell ekonomi 
 Planeringsförutsättningar för åren 2026–2029 att den ekonomiska återhämtningen försenas något.
 Samtidigt räknar SKR med att BNP växer mer under 2026 och 2027 än under 2025. Efter en
 minskning under 2025 väntas antalet arbetade timmar öka under 2026 och öka ytterligare under
-2027. SKR bedömer också att skatteintäkterna ökar under 2026 och att de fortsätter att öka under
-2027.
+2027\. SKR bedömer också att skatteintäkterna ökar under 2026 och att de fortsätter att öka under
+2027\.
 
 Det ser ut att bli en svag utveckling för svensk export under 2026. Det beror på kriget i
 Mellanöstern, som påverkar världsekonomin negativt. Leveranser av olja har minskat och
@@ -712,7 +712,7 @@ verksamheter.
 Det pågår flera stora bostadsprojekt i kommunen. Ett av dem är kvarteret Valand, där de första
 husen blev klara 2022. Sedan 2024 har man pausat byggandet av de fem kvarvarande kvarteren på
 grund av det ekonomiska läget. Ett annat område är Gjutaren och Liljan. Där blev detaljplanen klar
-2023. Under 2025 har kommunen byggt ut allmänna ytor och sålt mark till Riksbyggen, som planerar
+2023\. Under 2025 har kommunen byggt ut allmänna ytor och sålt mark till Riksbyggen, som planerar
 att börja bygga under året.
 I Björkris byggs det också mycket. Det pågår utbyggnad av gator och allmänna ytor och de två första
 kvarteren blev färdiga 2025. Samma år började byggandet av ytterligare ett kvarter.
@@ -846,9 +846,9 @@ Preliminär medlemsavgift per kommun   2027 - 2029
 I Budgetunderlaget för 2027 plan 2028 – 2029 (diarienummer 2025/541) har två
 felaktigheter uppmärksammats i tabellen, avsnitt 7.2.
 
-1. Infasningsavgiften för 2028 och 2029 avseende Stenungsund, Tjörn och Lilla Edet.
+1\. Infasningsavgiften för 2028 och 2029 avseende Stenungsund, Tjörn och Lilla Edet.
 
-2. Medlemsavgift för pensionskostnader 2026 avseende Lerum.
+2\. Medlemsavgift för pensionskostnader 2026 avseende Lerum.
 
 Korrigeringarna har markerats med gult i bifogat underlag.
 
@@ -864,7 +864,7 @@ Marie Karlsson
 Ekonomichef
 
 Bilaga:
-- Uppdaterad tabell i avsnitt 7.2 Preliminär medlemsavgift per kommun 2027 - 2029 i
+\- Uppdaterad tabell i avsnitt 7.2 Preliminär medlemsavgift per kommun 2027 - 2029 i
 Budgetunderlaget 2027 plan 2028 - 2029
 
 Räddningstjänstförbundet Telefon, växel: E-post: Postadress: Besöksadress: Bankgiro:
@@ -934,7 +934,7 @@ Forts nästa sida
 3(3)
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader* 2026 2027 2028 2029
+Medlemsavgift för pensionskostnader\* 2026 2027 2028 2029
 Göteborgs kommun                 58 175 000 57 600 000 68 478 000 75 388 000
 Mölndals kommun                  5 451 000 5 397 000 6 417 000 7 064 000
 Kungsbacka kommun                8 055 000 7 975 000 9 482 000 10 438 000
@@ -945,7 +945,7 @@ Tjörns kommun                    1 709 000 1 692 000 2 011 000 2 214 000
 Stenungsunds kommun              4 321 000 4 279 000 5 087 000 5 600 000
 Lilla Edets kommun               1 971 000 1 951 000 2 320 000 2 554 000
 Summa                            90 405 000 89 510 000 106 416 000 117 152 000
-*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
+\*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
 Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2026 2027 2028 2029
 Göteborgs kommun                480 085 410 493 011 543 518 258 124 539 561 088
 Mölndals kommun                  44 952 562 46 162 612 48 527 877 50 522 425
@@ -979,15 +979,15 @@ www.rsgbg.se
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
 Innehåll
-1.  INLEDNING................................................................................. 3
+1\.  INLEDNING................................................................................. 3
 
-2.  BUDGETPROCESSEN ................................................................... 3
+2\.  BUDGETPROCESSEN ................................................................... 3
 
-3.  BUDGET 2027 OCH PLAN 2028 - 2029 ......................................... 4
+3\.  BUDGET 2027 OCH PLAN 2028 - 2029 ......................................... 4
 
 3.1  Beslut om medlemsavgifter 2027 ........................................................ 5
 
-4.  FÖRUTSÄTTNINGAR  FÖR VERKSAMHETEN ................................. 6
+4\.  FÖRUTSÄTTNINGAR  FÖR VERKSAMHETEN ................................. 6
 4.1  Från brandkår till räddningstjänstmyndighet ...................................... 6
 
 4.2  Förbundsutökning ................................................................................ 6
@@ -999,7 +999,7 @@ Innehåll
 
 4.6  Omvärldsläget ...................................................................................... 9
 
-5.  EKONOMI  – EFFEKTIVISERINGAR OCH UTMANINGAR ............... 10
+5\.  EKONOMI  – EFFEKTIVISERINGAR OCH UTMANINGAR ............... 10
 5.1  Kommande kostnadsökningar ........................................................... 10
 
 5.2  Uppbyggnad av civilt försvar, kontinuitet och höjd beredskap ......... 10
@@ -1009,14 +1009,14 @@ Innehåll
 
 5.5  Lönerörelsen och lönekostnaderna ................................................... 12
 
-6.  RESULTAT, EGET KAPITAL och PERSONAL .................................. 13
+6\.  RESULTAT, EGET KAPITAL och PERSONAL .................................. 13
 
 6.1  Resultat ............................................................................................... 13
 6.2  Eget kapital ......................................................................................... 13
 
 6.1  Personal - statistik och utveckling ...................................................... 14
 
-7.  BILAGOR ................................................................................... 15
+7\.  BILAGOR ................................................................................... 15
 
 7.1  Preliminär Resultatbudget 2027 och 2028 - 2029 ............................. 15
 7.2  Preliminär medlemsavgift per kommun 2027 - 2029 ........................ 16
@@ -1029,7 +1029,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             2(19)
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
-1. INLEDNING
+1\. INLEDNING
 Räddningstjänstförbundet Storgöteborg (RSG) är ett kommunalförbund med nio
 medlemskommuner; Göteborg, Mölndal, Kungsbacka, Härryda, Partille, Lerum,
 
@@ -1062,7 +1062,7 @@ LSO-verksamheten.
 Finansiering av räddningstjänstverksamheten sker genom medlemsavgifter och övriga
 intäkter.
 
-2. BUDGETPROCESSEN
+2\. BUDGETPROCESSEN
 Under inledningen av året före den aktuella budgetperioden utarbetas ett underlag för
 budget verksamhetsår och planperiod. Efter förbundsstyrelsens godkännande av
 underlaget informeras medlemssamrådet och underlaget sänds för yttrande till
@@ -1083,7 +1083,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             3(19)
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
-3. BUDGET 2027 OCH  PLAN 2028 - 2029
+3\. BUDGET 2027 OCH  PLAN 2028 - 2029
 Dokumentet beskriver framför allt verksamhetens grundläggande förutsättningar för
 att utföra sitt uppdrag samt faktorer med särskild ekonomisk påverkan. Till
 
@@ -1173,7 +1173,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             5(19)
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
-4. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
+4\. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
 
 4.1 Från brandkår till räddningstjänstmyndighet
 Förbundet har tidigare rättssäkrat myndighetsutövningen och driver sedan snart tio år
@@ -1389,7 +1389,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             9(19)
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
-5. EKONOMI  – EFFEKTIVISERINGAR OCH  UTMANINGAR
+5\. EKONOMI  – EFFEKTIVISERINGAR OCH  UTMANINGAR
 
 5.1 Kommande kostnadsökningar
 Framtagningen av budget 2027 plan 2028–2029 utgår från någorlunda ordinarie
@@ -1454,7 +1454,7 @@ En dialog har inletts med fastighetsägaren Higab, avseende de två hyresavtalen
 gällande Gårda. Fastigheten är närmare 40 år gammal och ansvaret för underhåll kan
 komma att bli kostsamt med den hyreskonstruktion som gällande avtal innebär. Ett
 förslag till nytt hyresavtal är framtaget och hyresnivån kommer att stiga från och med
-2028.
+2028\.
 
 Andra lokalfrågor avser ombyggnation och nybyggnation av brandstationer, föranlett
 av till exempel arbetsmiljöproblematik eller för att berörd kommun har önskemål och
@@ -1501,7 +1501,7 @@ Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
 resurser avgör hur snabbt genomförandet kan ske. Större satsningar har gjorts under
 framför allt 2026 och de beslutade projekten löper även under 2027 och i viss mån
-2028. Beroende på ekonomiska möjligheter kommer beslut om ytterligare
+2028\. Beroende på ekonomiska möjligheter kommer beslut om ytterligare
 digitaliseringsprojekt att fattas allteftersom.
 
 Fartyg och fordon
@@ -1557,7 +1557,7 @@ Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 påverkas med ungefär 0,7 mkr för varje tiondels procent i lönerörelsen.
 Lönekostnaderna uppgår till ca 75 % av RSG:s totala kostnader.
 
-6. RESULTAT, EGET KAPITAL och PERSONAL
+6\. RESULTAT, EGET KAPITAL och PERSONAL
 6.1 Resultat
 
 Resultatet för 2025 har bidragit till goda förutsättningar för kommande år. Det innebar
@@ -1604,12 +1604,12 @@ Uppgifter per 31/12
 
 2025  2024  2023   2022  2021
 Arbetad tid
-Antal årsarbetare*            812   798   797   725   722
+Antal årsarbetare\*            812   798   797   725   722
 Antal anställda per december
 
 Anställda per december inkl. RIB
 
-*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
+\*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
 t.ex. 100 % sysselsättningsgrad motsvarar 1,0 årsarbetare och 75 procent 0,75.
 
 Tabell 2 Personalstatistik
@@ -1646,7 +1646,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            14(19)
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
-7. BILAGOR
+7\. BILAGOR
 
 7.1 Preliminär Resultatbudget 2027 och 2028 - 2029
 Miljontal kronor           2025   2027  2028  2029
@@ -1764,7 +1764,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            16(19)
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader* 2026 2027 2028 2029
+Medlemsavgift för pensionskostnader\* 2026 2027 2028 2029
 Göteborgs kommun                 58 175 000 57 600 000 68 478 000 75 388 000
 Mölndals kommun                   5 451 000 5 397 000 6 417 000 7 064 000
 Kungsbacka kommun                 8 055 000 7 975 000 9 482 000 10 438 000
@@ -1775,7 +1775,7 @@ Tjörns kommun                     1 709 000 1 692 000 2 011 000 2 214 000
 Stenungsunds kommun               4 321 000 4 279 000 5 087 000 5 600 000
 Lilla Edets kommun                1 971 000 1 951 000 2 320 000 2 554 000
 Summa                            92 405 000 89 510 000 106 416 000 117 152 000
-*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
+\*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
 Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2025 2026 2027 2028
 Göteborgs kommun                 480 085 410 493 011 543 518 258 124 539 561 088
 Mölndals kommun                  44 952 562 46 162 612 48 527 877 50 522 425
@@ -1816,12 +1816,12 @@ Sammanträdesdatum 2026-03-11
 Remiss underlag till budget 2027 och plan 2028-2029
 
 Beslut
-1. Förbundsstyrelsen fastställer underlag till budget 2027 och plan 2028-2029.
+1\. Förbundsstyrelsen fastställer underlag till budget 2027 och plan 2028-2029.
 
-2. Förbundsstyrelsen remitterar underlag till budget 2027 och plan 2028-2029 till
+2\. Förbundsstyrelsen remitterar underlag till budget 2027 och plan 2028-2029 till
 medlemskommunerna för yttrande med svar till RSG senast den 31 maj 2026.
 
-3. Förbundsstyrelsen överlämnar underlag till budget 2027 och plan 2028-2029 till Medlemssamrådet
+3\. Förbundsstyrelsen överlämnar underlag till budget 2027 och plan 2028-2029 till Medlemssamrådet
 för information den 27 mars 2026.
 
 Sammanfattning av ärendet
@@ -1924,16 +1924,16 @@ Remiss  underlag   till budget 2027   plan 2028-
 
 2029
 
-1.   Förslag till beslut
+1\.   Förslag till beslut
 
-1. Förbundsstyrelsen fastställer underlag till budget 2027 och plan 2028-2029.
-2. Förbundsstyrelsen remitterar underlag till budget 2027 och plan 2028-2029 till
+1\. Förbundsstyrelsen fastställer underlag till budget 2027 och plan 2028-2029.
+2\. Förbundsstyrelsen remitterar underlag till budget 2027 och plan 2028-2029 till
 medlemskommunerna för yttrande med svar till RSG senast den 31 maj 2026.
 
-3. Förbundsstyrelsen överlämnar underlag till budget 2027 och plan 2028-2029 till
+3\. Förbundsstyrelsen överlämnar underlag till budget 2027 och plan 2028-2029 till
 Medlemssamrådet för information den 27 mars 2026.
 
-2.   Sammanfattning
+2\.   Sammanfattning
 
 Handlingen utgör underlag för budget 2027 plan 2028 - 2029 och beskriver RSG:s
 verksamhet och ekonomi med hänsyn till förbundets uppdrag och förutsättningar samt
@@ -1948,7 +1948,7 @@ för en äskad uppräkning av medlemsavgifterna med 3,2 % avseende budgetåret 2
 Medlemskommunernas yttranden kommer därefter att sammanvägas i framtagandet av
 handlingen Budget 2027 plan 2028 - 2029.
 
-3.   Ärendet
+3\.   Ärendet
 
 Underlag till budget 2027 och plan 2028 – 2029 bygger på ordinarie förutsättningar och
 omständigheter. Tidigare underskott i resultatet, på totalt -9,7 mkr avseende åren 2023
@@ -1988,7 +1988,7 @@ prognostiseras.
 
 .
 
-4.   Samverkan
+4\.   Samverkan
 
 Information MBL 19 § om budget lämnas efter sammanställning av inkomna beslut från
 
@@ -1998,11 +1998,11 @@ Robert Karlsson            Marie Karlsson
 
 Förbundsdirektör           Ekonomichef
 
-5.   Bilagor
+5\.   Bilagor
 
-1. Underlag till budget 2027 plan 2028 - 2029
+1\. Underlag till budget 2027 plan 2028 - 2029
 
-6.   Sändlista
+6\.   Sändlista
 Medlemskommunerna
 
 2 (2)
@@ -2040,10 +2040,10 @@ förutsättningar att minska behovet av parkeringsplatser. Dessutom bör flexibl
 uppmuntras, såsom mobilitetstjänster, bilpooler och cykelinfrastruktur.
 
 Miljöpartiet föreslår kommunfullmäktige besluta att:
-1. Kommunen reviderar parkeringsstrategin så att den stödjer klimatstrategin med sänkta
+1\. Kommunen reviderar parkeringsstrategin så att den stödjer klimatstrategin med sänkta
 p-tal framförallt i områden med god tillgång till kollektivtrafik, gång- och cykelväg.
 
-2. Kommunen möjliggör ytterligare sänkningar av parkeringstal vid byggnation där
+2\. Kommunen möjliggör ytterligare sänkningar av parkeringstal vid byggnation där
 byggherren på ett varaktigt sätt tillhandahåller mobilitetslösningar som t e x bilpool och
 cykelpool.
 

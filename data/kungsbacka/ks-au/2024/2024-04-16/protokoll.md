@@ -653,10 +653,10 @@ Kommunstyrelsens arbetsutskott får information om hur arbetet med Kungsbacka
 Arena fortskrider.
 
 Informationen berör lägesrapport för de olika delprojekten:
-- Förstudie Fas 1
+\- Förstudie Fas 1
 
-- Uthyrningsarbetet
-- Ekonomi
+\- Uthyrningsarbetet
+\- Ekonomi
 
 Informationen berör också utformningen av det underlag som kommunstyrelsen
 kommer att få inför beslut i ärendet under våren, planering av regelbundna

@@ -145,10 +145,10 @@ Efter rådslagsprocessen har en remissversion till ny regional utvecklingsplan
 fram av GR för att skapa ett samstämmigt agerande över tid. Överenskommelserna
 omfattar tre huvudområden:
 
-* Tillväxt och inkludering
-* Samhällsbyggnad
+\* Tillväxt och inkludering
+\* Samhällsbyggnad
 
-* Regional robusthet.
+\* Regional robusthet.
 Den regionala utvecklingsplanen kommer uppdatera den nuvarande Strukturbilden
 inom GR och ersätta styrdokumentet Hållbar tillväxt. Den regionala
 utvecklingsplanen planeras att antas av Göteborgsregionens förbundsfullmäktige
@@ -469,7 +469,7 @@ Beslut om delårsbokslut - uppföljning av kommunen per augusti
 Förslag till beslut i kommunfullmäktige
 
 Kommunfullmäktige godkänner delårsrapport för Kungsbacka kommun per augusti
-2025.
+2025\.
 
 Kommunfullmäktige uppmanar de nämnder som prognostiserar underskott att
 hantera dessa i enlighet med gällande ekonomistyrprinciper.

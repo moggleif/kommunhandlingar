@@ -964,7 +964,7 @@ av respektive nämnd.
 •  Vi har även ett pris – Självständigt liv – som
 ej är i bruk.
 
-*Delas ut vartannat år               **Extern nominering möjlig
+\*Delas ut vartannat år               \*\*Extern nominering möjlig
 
 Delas  ut på Kungsbackagalan
 
@@ -972,10 +972,10 @@ Delas  ut på Kungsbackagalan
 
 | EXTERNT PRIS | INTERNT PRIS |
 | --- | --- |
-| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)** |
+| Kungsbacka kommuns kulturpris | Årets medarbetare (fyra<br>kategorier)\*\* |
 | Kungsbackas mästare | Årets ledare (två kategorier) |
-| Kungsbackas olympier* | Leva livet-priset** |
-| Årets eldsjäl | Lära för livet-priset** |
+| Kungsbackas olympier\* | Leva livet-priset\*\* |
+| Årets eldsjäl | Lära för livet-priset\*\* |
 | Årets förening |  |
 | Årets förnyare |  |
 | Arkitekturpriset |  |
@@ -986,10 +986,10 @@ Delas  ut på Kungsbackagalan
 
 Nuläge
 
-*utdelning under höst
+\*utdelning under höst
 
 Jan       Feb     Mars     April     Maj      Juni    Juli    Aug      Sept      Okt      Nov       Dec
-Leva livet-               Kungsbacka-                                Arkitekturpriset*   Hållbarhets-
+Leva livet-               Kungsbacka-                                Arkitekturpriset\*   Hållbarhets-
 priset                      galan                                                         priset
 Ledardagen
 Medarbetar-
@@ -1077,13 +1077,13 @@ Leva livet-priset VO     KF                                                  KF 
 kompetensutveckling                  1 nov
 Krockar med Årets medarbetare?
 Nämnden utser Hösten, senast
-Lära för livet-priset FG & GA Nämnd* 10 000 kr/pristagare                     KF nov
+Lära för livet-priset FG & GA Nämnd\* 10 000 kr/pristagare                     KF nov
 varsin vinnare    1 okt
 Har tidigare delats ut i juni.
 Ej i bruk, men beslutat i KF 2021-05-04.
 Självständigt liv IF     KF
 (KS-2019-00903 i Ciceron).
-*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
+\*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
 
 <!-- sida 28 -->
 
@@ -1976,7 +1976,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 20 (38)
 Datum
 2014-05-06
-$ 60 KS/2014:159
+\$ 60 KS/2014:159
 
 Mål för bostadsbyggande
 
@@ -1992,7 +1992,7 @@ Sammanfattning
 
 Kommunstyrelsens arbetsutskott har sammanställt förslag till revidering av mål för
 bostadsbyggande 2010-2015. Det nya förslaget sträcker sig mellan perioden 2014-
-2020.
+2020\.
 
 Kommunstyrelsens förvaltning har sammanställt en tabellbilaga till måldokumentet
 som redovisar planering för igångsättning av bostadsområde fram till 2020.
@@ -2002,9 +2002,9 @@ Beslutsunderlag
 Mål för bostadsbyggande 2014-2020 - Förslag kommunstyrelsens arbetsutskott,
 2014-04-08
 
-Kommunstyrelsens arbetsutskott, 2014-04-08, $ 131
+Kommunstyrelsens arbetsutskott, 2014-04-08, \$ 131
 
-Kommunstyrelsen, 2014-04-15, $ 104
+Kommunstyrelsen, 2014-04-15, \$ 104
 
 Anförande
 
@@ -2037,7 +2037,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 21 (38)
 Datum
 2014-05-06
-$ 60 fortsätter KS/2014:159
+\$ 60 fortsätter KS/2014:159
 
 Fredrik Hansson (C), Per Ödman (M), Larry Söder (KD), Stephan Philipsson (KB),
 Niklas Mattsson (KD), Inge Sundberg (MM), Ulf Persson (C), Peter Söderberg (M) och
@@ -2095,7 +2095,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 22 (38)
 Datum
 2014-05-06
-$ 60 fortsätter KS/2014:159
+\$ 60 fortsätter KS/2014:159
 
 Omröstning begärs.
 
@@ -2136,7 +2136,7 @@ sig till förmån för Ulrika Landergren (FP) med fleras yrkande.
 
 Eva Borg (S), Britt Tönnberg (S), Maj-Britt Rane-Andersson (S), Kent Stenhammar
 (S), Alf Olofsson (S), Johan Tolinsson (S), Renée Sylvan (S), Marianne Nilsson (5),
-Elisabeth Lyckevall (S), Ingela Hansson ($S) och Violet Dunér (V) reserverar sig till
+Elisabeth Lyckevall (S), Ingela Hansson (\$S) och Violet Dunér (V) reserverar sig till
 förmån för Eva Borg (S) med fleras yrkande.
 
 Beslutsexpediering
@@ -2157,10 +2157,10 @@ Datum
 
 2014-05-06
 
-$ 60 fortsätter KS/2014:159
+\$ 60 fortsätter KS/2014:159
 Voteringslista nr. 1
 Kungsbacka kommunfullmäktiges sammanträde den 6 maj 2014 klockan 22:13:28.
-$& 60 Mål för bostadsbyggande — Bilaga A
+\$& 60 Mål för bostadsbyggande — Bilaga A
 
 Ledamöter Parti | Kret | Ersättare Ja | Nej | Avst | Frånv | Kvitt
 Marianne Kierkemann (M) Vk X
@@ -2224,7 +2224,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 24 (38)
 Datum
 2014-05-06
-$ 60 fortsätter KS/2014:159
+\$ 60 fortsätter KS/2014:159
 Emma Vildstrand (MP) Vk X
 Harri Lötjönen (MP) | Ök X
 Lars-Anders Lundberg (MP) | Ök X
@@ -2246,11 +2246,11 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (38)
 Datum
 2014-05-06
-$ 60 fortsätter KS/2014:159
+\$ 60 fortsätter KS/2014:159
 Voteringslista nr. 2
 Kungsbacka kommunfullmäktiges sammanträde den 6 maj 2014 klockan 22:14:35.
 
-$& 60 Mål för bostadsbyggande — Bilaga B
+\$& 60 Mål för bostadsbyggande — Bilaga B
 Ledamöter Parti | Kret | Ersättare Ja | Nej | Avst | Frånv | Kvitt
 Marianne Kierkemann (M) Vk Xx
 Lars Stranne (M) Vk Xx
@@ -2315,7 +2315,7 @@ Kommunfullmäktige
 SAMMANTRÄDESPROTOKOLL 26 (38)
 Datum
 2014-05-06
-$ 60 fortsätter KS/2014:159
+\$ 60 fortsätter KS/2014:159
 Harri Lötjönen (MP) | Ök Xx
 Lars-Anders Lundberg (MP) | Ök X
 Conny Jexler (-) Vk X
@@ -2424,7 +2424,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (55)
 Sammanträdesdatum
 2012-04-10
-$ 89 KS08-00179/20
+\$ 89 KS08-00179/20
 
 Antagande av Översiktsplan för vindkraft, tillägg till
 Kungsbacka översiktsplan
@@ -2434,7 +2434,7 @@ Beslut
 Föreliggande förslag, daterat januari 2012, till Översiktsplan för vindkraft, tillägg till
 Kungsbacka översiktsplan 2006 antas.
 
-Riktlinjer för etablering av vindkraftverk i Kungsbacka beslutade 1997-12-11 $ 215
+Riktlinjer för etablering av vindkraftverk i Kungsbacka beslutade 1997-12-11 \$ 215
 upphävs.
 
 Kommunstyrelsen får i uppdrag att ta fram tillämpningar och anvisningar för
@@ -2470,8 +2470,8 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2012-01-16
 Kommunstyrelsens arbetsutskott 2012-01-24, 8 31 — Avstämning
-Kommunstyrelsens arbetsutskott 2012-03-13, $ 72
-Kommunstyrelsen 2012-03-20, $ 74
+Kommunstyrelsens arbetsutskott 2012-03-13, \$ 72
+Kommunstyrelsen 2012-03-20, \$ 74
 Paragrafen fortsätter
 
 Expedierat/bestyrkt
@@ -2484,7 +2484,7 @@ Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 26 (55)
 Sammanträdesdatum
 2012-04-10
 
-$ 89 fortsättning KS08-00179/20
+\$ 89 fortsättning KS08-00179/20
 
 Anförande
 
@@ -2528,7 +2528,7 @@ Thord Brynielsson (SD) reserverar sig mot beslutet, enligt bilaga B till denna
 paragraf.
 
 Beslutsexpediering
-ESF;P&E; BN, MH, Lst
+ESF;P\&E; BN, MH, Lst
 
 Justerare - Expedierat/bestyrkt
 
@@ -2536,7 +2536,7 @@ Justerare - Expedierat/bestyrkt
 
 Kungsbacka kommunfullmäkt
 
-Bilaga Å. till Kommunfullmäktiges protokoll. KF $ 89/12
+Bilaga Å. till Kommunfullmäktiges protokoll. KF \$ 89/12
 Voteringslista nr. 1
 
 Bilaga A
@@ -2680,7 +2680,7 @@ Justeringsmännens signatur:
 
 <!-- sida 63 -->
 
-; KF $ 89/12
+; KF \$ 89/12
 
 ( E
 biz t ;
@@ -2851,7 +2851,7 @@ Sign
 
 <!-- sida 67 -->
 
-24)
+24\)
 
 3 Arrendevillkor
 3.1 Ändamålet
@@ -3075,7 +3075,7 @@ Löftadalens Dragkampsklubb
 Kungsbacka kommun Tfn: 0300-83 40 00
 
 Samhällsbyggnadskontoret
-- nr: 849400-4115
+\- nr: 849400-4115
 
 434 81 KUNGSBACKA
 
@@ -3286,7 +3286,7 @@ Namnteckning
 
 Namnförtydligande
 
-55)
+55\)
 
 <!-- sida 77 -->
 
@@ -3349,7 +3349,7 @@ KUNGSBACKA  KOMMUN
 
 skulle höjas från 57 300 kronor 2024 till 58 800 kronor 2025.
 Vid indexjusteringen för 2025 är utgångspunkten för Prisindex för kommunal verksamhet (PKV)
-2024. Detta eftersom kommunstyrelsen följer byggnadsnämndens basår.
+2024\. Detta eftersom kommunstyrelsen följer byggnadsnämndens basår.
 
 Beslutsunderlag
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-10-17
@@ -3424,27 +3424,27 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 81 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 Taxan tillämpas avseende nedanstående punkter i den utsträckning som närmare
 föreskrivs i nedanstående taxebestämmelser.
-1. beslut om planbesked, förhandsbesked, villkorsbesked, startbesked,
+1\. beslut om planbesked, förhandsbesked, villkorsbesked, startbesked,
 slutbesked och ingripandebesked,
 
-2. beslut om lov
-3. tekniska samråd och slutsamråd,
+2\. beslut om lov
+3\. tekniska samråd och slutsamråd,
 
-4. arbetsplatsbesök och andra tillsynsbesök på byggarbetsplatsen,
-5. upprättande av nybyggnadskartor.
+4\. arbetsplatsbesök och andra tillsynsbesök på byggarbetsplatsen,
+5\. upprättande av nybyggnadskartor.
 
-6. framställning av arkivbeständiga handlingar,
-7. expediering och kungörelse enligt 9 kap. 41-41 b §§ plan- och bygglagen
+6\. framställning av arkivbeständiga handlingar,
+7\. expediering och kungörelse enligt 9 kap. 41-41 b §§ plan- och bygglagen
 (PBL), och
 
-8. andra tids- eller kostnadskrävande åtgärder.
+8\. andra tids- eller kostnadskrävande åtgärder.
 Taxan är beslutad med stöd av 12 kap 8 § plan- och bygglagen (PBL), (2010:900).
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Avgift tas ut enligt de grunder eller principer som framgår av 2 kap 6 §
 kommunallagen (KL) samt i 12 kap 10 § PBL. Kommunen får inte ta ut högre
 
@@ -3552,7 +3552,7 @@ Area (m2): BTA + OPA                           OF
 101 - 1000                                      25
 
 1001 - 5000                                     55
->5001                                          105
+\>5001                                          105
 
 Timdebitering
 
@@ -3627,13 +3627,13 @@ undertecknat av exploatören före detaljplanen antas av byggnadsnämnden eller
 kommunfullmäktige. Detaljplanen antas efter att kommunstyrelsen eller
 kommunfullmäktige godkänt exploateringsavtalet.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Mervärdesskatt tas inte ut på avgifter som baseras på myndighetsutövning.
 
 Mervärdesskatt tas däremot ut på avgifter enligt tabell A16, A22, A23.
 
-4. Ändring av taxan
+4\. Ändring av taxan
 
 Ändringar av taxan beslutas av kommunfullmäktige.
 
@@ -3655,7 +3655,7 @@ Kommunstyrelsen får för varje kalenderår (avgiftsår) därefter besluta att j
 avgiftsbeloppen (fasta avgifter och timavgifter) i tabell B1-3 samt
 handläggningskostnad per timme B.
 
-5. Övriga upplysningar
+5\. Övriga upplysningar
 
 Betalning av avgift
 
@@ -4028,13 +4028,13 @@ samma uppdrag och exploateringsområde
 reduceras avgiften med 30%). Moms
 tillkommer.
 A 16.2                         Finutstakning               9 310 kr
-+ moms
+\+ moms
 A 16.3                         Grov- och finutstakning     13 300 kr
-+ moms
+\+ moms
 A 16.4 Utstakning av enbart komplementbyggnad. Grovutstakning 3 990 kr
 Moms tillkommer.                                      + moms
 A 16.5                         Finutstakning               5 320 kr
-+ moms
+\+ moms
 A 16.6 Utstakning av avstånd till gräns vid tillbyggnad.   4 655 kr
 Moms tillkommer.                                      + moms
 A 16.7 Lägeskontroll (vid lägeskontroll av flera           4 655 kr
@@ -4042,7 +4042,7 @@ likartade byggnader inom samma uppdrag och            + moms
 exploateringsområde reduceras avgiften med
 30%). Moms tillkommer.
 A 16.8 B-fix (byggfix). Moms tillkommer.                   1 995 kr
-+ moms
+\+ moms
 A 16.9 Godkännande av sakkunnig för utstakning i           1 995 kr
 egen regi                                             + moms
 
@@ -4171,8 +4171,8 @@ Arbetskraftskostnad*           5,5     -1,0   3,2    3,1    3,8
 Prisindex kommunal verksamhet  4,6     0,0    3,0   2,9    3,4
 ```
 
-* Lönekostnadsförändring inkl. förändring i arbetsgivaravgifter.
-** 40 % lönekostnadsförändring och 60% KPIF
+\* Lönekostnadsförändring inkl. förändring i arbetsgivaravgifter.
+\*\* 40 % lönekostnadsförändring och 60% KPIF
 
 1 (1)
 

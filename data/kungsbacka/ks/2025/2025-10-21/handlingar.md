@@ -8170,7 +8170,7 @@ sammanställas.
 
 Kungsbacka som ovan
 
-\________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Lisa Andersson
 
@@ -11106,14 +11106,14 @@ Sidor
 Tvist avseende tillämpning eller tolkning av detta avtal ska avgöras av allmän domstol
 enligt svensk lag.
 
-\____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i två (2) likalydande exemplar varav parterna tagit var sitt.
 
-\_________________________       _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum                   Ort och datum
 
-\_________________________       _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Hanna Jonsson Enhetschef       Ulrika Granfors Enhetschef
 Infrastrukturplanering Väg      Förvaltningschef för Teknik
 Trafikverket Västra regionen    Kungsbacka kommun

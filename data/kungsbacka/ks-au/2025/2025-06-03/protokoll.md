@@ -352,7 +352,7 @@ Sverigedemokraterna och Kungsbackaborna partistöd för år 2026.
 
 Kommunfullmäktige fastställer att partistödets storlek för år 2026 baseras på det
 antal mandat respektive parti besitter i kommunfullmäktige efter de allmänna valen
-2022. Partistödet betalas ut i januari 2026.
+2022\. Partistödet betalas ut i januari 2026.
 
 Sammanfattning av ärendet
 
@@ -626,7 +626,7 @@ träning har tidigare identifierats av nämnden för Kultur & Fritid och har sin
 i kommunens befolkningsökning, vilket har lett till att befintliga anläggningar inte
 längre räcker till. Behovet finns i nämndens fastställda lokalbehov för perioden
 2025–2029 samt i lokalplanen i kommunbudget 2025, plan 2026–2027, löpnummer
-145.
+145\.
 
 Syftet med lokaliseringsutredningen är att ge underlag för beslut om lokalisering av
 ny isyta i kommunen. Utredningen har varit avgränsad till de frågor som är
@@ -908,22 +908,22 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Rickard Vidlund lämnar följande information:
--  Kungsbacka kommun är en av tre kommuner som har gått vidare och blivit
+\-  Kungsbacka kommun är en av tre kommuner som har gått vidare och blivit
 
 nominerad till årets digitaliseringskommun 2025. Utöver Kungsbacka är
 Nacka kommun och Ånge kommun bland finalisterna. Vilken av de tre
 kommunerna som vinner presenteras i november.
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
 
--  planering inför dialog med Varbergs kommuns arbetsutskott den 19 augusti.
--  första överklagandet har inkommit av detaljplanen för Klovstens
+\-  planering inför dialog med Varbergs kommuns arbetsutskott den 19 augusti.
+\-  första överklagandet har inkommit av detaljplanen för Klovstens
 verksamhetsområde.
 
 Ordförande Lisa Andersson (M) lämnar följande information:
--  Arbetsutskottets sammanträde den 19 augusti kommer att pågå även efter
+\-  Arbetsutskottets sammanträde den 19 augusti kommer att pågå även efter
 
 lunch.
--  Den 14 oktober kommer krisledningsnämnden delta i en utbildning efter
+\-  Den 14 oktober kommer krisledningsnämnden delta i en utbildning efter
 lunch.
 
 Beslutsgång

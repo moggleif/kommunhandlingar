@@ -532,10 +532,10 @@ planeringen av Kungsbackas deltagande i Almedalen som är tänkt samordnas av
 förvaltningen av Service likt tidigare år.
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
-- Västtrafik har bjudit in kommunstyrelsens ordförande och oppositionsråd till
+\- Västtrafik har bjudit in kommunstyrelsens ordförande och oppositionsråd till
 dialogmöte som kommer äga rum den 2 oktober.
 
-- Uppdatering rörande genomförda utredningar inom ramen för arbetet med
+\- Uppdatering rörande genomförda utredningar inom ramen för arbetet med
 detaljplanen för Hedeleden.
 Ledamoten Magdalena Sundqvist (S) lämnar information inför ett kommande möte
 

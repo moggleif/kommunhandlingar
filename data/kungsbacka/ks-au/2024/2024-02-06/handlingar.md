@@ -348,11 +348,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
 
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Sammanfattning av styrelsens arbete med målet
 Kärnenergiberedskap
@@ -381,13 +381,13 @@ kommun till en mer dynamisk och öppen sådan.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
 
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
 
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 6
 
@@ -438,8 +438,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Sammanfattning av styrelsens arbete med målet
@@ -499,9 +499,9 @@ kommande insatser ingår i det löpande arbetet i våra verksamheter.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 8
 
@@ -516,12 +516,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med kommunen.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med kommunen.
 
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Sammanfattning av styrelsens arbete med målet
 Lätt & Rätt i Kungsbacka
@@ -568,7 +568,7 @@ Kommunstyrelsen                                  Kungsbacka kommun
 Nämndens årsredovisning 2023
 
 planerats för en kompetenshöjande insats med tema "starkt genom klimakteriet" som genomförs i början av januari
-2024. Under året har kommunens rabatter hos olika träningsaktörer uppdaterats och kommunicerats. En del av
+2024\. Under året har kommunens rabatter hos olika träningsaktörer uppdaterats och kommunicerats. En del av
 våra medarbetare har på eget initiativ genomfört olika typer av aktiviteter såsom innebandy, fotboll, kallbad och
 meditation. Dessa har kommunicerats av HR centralt under året.
 
@@ -1278,9 +1278,9 @@ kommunala organisationen är inte möjlig, om det inte finns ett särskilt stöd
 Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan anställd inom kommunen
 att besluta i stället, så kallad vidaredelegering (kommunallagen 7 kap. 6 §). Delegering ska då ske i två
 steg;
-1) Nämndens beslut om delegering till förvaltningschef, med angivelse av rätt att vidaredelegera
+1\) Nämndens beslut om delegering till förvaltningschef, med angivelse av rätt att vidaredelegera
 
-2) Förvaltningschefens beslut om delegering till tjänsteman.
+2\) Förvaltningschefens beslut om delegering till tjänsteman.
 Kommunstyrelsens delegeringsförteckning uppdaterades senast den 23 januari 2024 (enligt plan).
 
 Vidaredelegering av kommundirektören (förvaltningschefen) gjordes senast den 18 oktober 2023 med
@@ -1356,7 +1356,7 @@ Innehåll
 1.8 Efterlevnad och uppföljning ............................................................................. 5
 1.9 Förkortningar .................................................................................................. 6
 
-2. Delegeringsförteckning ......................................................................................... 7
+2\. Delegeringsförteckning ......................................................................................... 7
 2.1 Allmänt ............................................................................................................ 7
 2.2 Ekonomi och inköp ........................................................................................ 10
 2.3 Personal........................................................................................................ 12
@@ -1406,13 +1406,13 @@ Vid förfall för kommundirektören inträder den biträdande kommundirektören,
 anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
 av ärendet och registreras i ärende-/verksamhetssystemet
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -1446,13 +1446,13 @@ vidaredelegera sin beslutanderätt enligt denna delegeringsförteckning till ann
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten
 har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om arbetsutskottet har fått delegation
 undertecknas handling som beslutet avser av arbetsutskottets ordförande och
 kommundirektören.
@@ -1462,9 +1462,9 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
-- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
+\- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
 från kommunstyrelsen.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -1538,7 +1538,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 6 (20)
 
 <!-- sida 39 -->
 
-2. Delegeringsförteckning
+2\. Delegeringsförteckning
 
 2.1 Allmänt
 
@@ -1608,7 +1608,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
 | 2.1.14 | Regler för arvoden<br>till förtroendevalda | Besluta i frågor om tolkning och tillämpningar av<br>reglerna. | Au |  |  |
-| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer<br>för förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e<br>vice<br>ordföranden<br>och vid förfall<br>för denne 2:e<br>vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
+| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer<br>för förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e<br>vice<br>ordföranden<br>och vid förfall<br>för denne 2:e<br>vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>\*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
 | 2.1.16 | Riktlinjer för<br>flaggning | Avvikelser från riktlinjerna för flaggning vid kommunens<br>officiella flaggstänger | Au |  |  |
 
 <!-- sida 42 -->
@@ -1943,14 +1943,14 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 57 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för laddning av elfordon vid publika laddstolpar som ägs av Kungsbacka
 kommun.
 
 Taxan är beslutad med stöd av 2 kap. 5 § kommunallagen (2017:725), KL, och baseras på
 självkostnadsprincipen 2 kap. 6 § KL för att tillhandahålla laddningstjänsten.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Taxan för laddning av elfordon vid Kungsbacka kommuns publika laddstolpar grundar sig på
 kommunens självkostnad per förbrukad kilowattimme för att tillhandahålla tjänsten.
 
@@ -1983,11 +1983,11 @@ kilowattimme.
 I övriga avgifter för att tillhandahålla tjänsten ingår kostnader för att handla med el, kostnader för
 skötsel och underhåll av laddstolpar samt personalkostnader.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 Mervärdesskatt (moms) tas ut med 25 procent.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 
 Avgift för laddning debiteras per kilowattimme inklusive moms enligt aktuell självkostnadsberäkning.
 
@@ -1995,7 +1995,7 @@ Taxa för laddning vid Kungsbacka kommuns publika laddstolpar Sida 2 av 3
 
 <!-- sida 58 -->
 
-5. Justering av avgiftsbelopp
+5\. Justering av avgiftsbelopp
 
 Avgiften justeras löpande vid förändringar av kommunens kostnad per kilowattimme för
 tillhandahållen el.
@@ -2363,18 +2363,18 @@ STYRELSEMÖTE 2023-12-19
 Vallda TK - Vallda Tennishall E F
 
 Närvarande: Mats Olson, Linus Ask, Kristoffer Grankvist, Christian Weidling.
-$1 Mötet öppnades
+\$1 Mötet öppnades
 
 82 Till sekreterare valdes Linus Ask
 
-$3 Till justerare valdes Kristoffer Grankvist & Christian Weidling
+\$3 Till justerare valdes Kristoffer Grankvist & Christian Weidling
 
-$4 Amorteringsfrihet för Vallda Tennis & Vallda Tennihall E F.
+\$4 Amorteringsfrihet för Vallda Tennis & Vallda Tennihall E F.
 
-$5 Mötet beslutade att ansöka hos kommunen om en förlängning av
+\$5 Mötet beslutade att ansöka hos kommunen om en förlängning av
 amorteringsfrihet för bägge föreningarna.
 
-$6 Mötet avslutades.
+\$6 Mötet avslutades.
 
 Vid protokollet:
 
@@ -3468,7 +3468,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (21)
 Kommuntfullmäktige Datum:
 2014-08-12
 
-$95
+\$95
 Vallda Tennisklubb - kommunal borgen
 
 Dnr KS/2014:86
@@ -3501,10 +3501,10 @@ Beslutsunderlag
 
 Tjänsteskrivelse 2014-05-19
 
-Fritid & Folkhälsa, 2014-02-18, $ 18
+Fritid & Folkhälsa, 2014-02-18, \$ 18
 
 Kompletterande uppgifter från Vallda Tennisklubb, daterade 2014-04-27
-Kommunstyrelsen, 2014-06-17, $ 140
+Kommunstyrelsen, 2014-06-17, \$ 140
 
 Anförande
 Anförande hålls av Roger Larsson (KB), Per Ödman (M) och Hans Forsberg (M).
@@ -3530,7 +3530,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 22 (48)
 Sammanträdesdatum
 2006-05-31
-$ II KS06-00033/03
+\$ II KS06-00033/03
 
 Kommunal borgen, Vallda Tennisklubb Ekonomisk Förening
 
@@ -3562,14 +3562,14 @@ ordförande och mark- och bostadschefen eller deras respektive ställföreträda
 för kommunens räkning underteckna borgensåtagande för Vallda Tennishall
 ekonomisk förening avseende 5,415 Mkr. Borgen omfattande 5,925 Mkr beviljades
 ursprungligen Vallda Tennisklubb ekonomisk förening vid kommunfullmäktiges
-sammanträde 1989-10-12, KF $ 233. Vallda Tennishall ek.för. har sedan 2002-04-17
+sammanträde 1989-10-12, KF \$ 233. Vallda Tennishall ek.för. har sedan 2002-04-17
 amorterat ytterligare ca 400.000 kronor på krediten, och amorterar på denna kredit
 90.000 kronor per år i enlighet med villkor vid borgensbeslutet.
 
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2006-05-17
-Kommunstyrelsens arbetsutskott 2006-05-23, $ 224
+Kommunstyrelsens arbetsutskott 2006-05-23, \$ 224
 
 Proposition
 Ordförande ställer proposition på arbetsutskottets förslag och finner det bifallet.
@@ -3616,7 +3616,7 @@ Ordföranden ställer proposition på arbetsutskottets förslag och finner det b
 
 BESLUT
 
-- Kommunstyrelsens ordförande och mark- och bostadschefen eller deras
+\- Kommunstyrelsens ordförande och mark- och bostadschefen eller deras
 ställföreträdare bemyndigas att för kommunens räkning underteckna
 borgensåtagande, avseende 5,415 Mkr, vilket ursprungligen beviljades
 Vallda Tennisklubb ekonomisk förening vid kommunfullmäktiges sammanträde
@@ -3636,11 +3636,11 @@ Kommun fullmäktige | 1989-10-12 51
 Kommunstyrelsen 1989-09-27
 Kommunstyrelsens arbetsutskott i 1989-09-05
 
-KF $ 233
+KF \$ 233
 
-KS $ 367
+KS \$ 367
 
-AU $ 556 0446/87-4535,
+AU \$ 556 0446/87-4535,
 
 Uppförande av fritidslokal och idrottshall i Vallda
 jämte framställan från Vallda Tennisklubb om kommu-
@@ -3656,25 +3656,25 @@ till fritidsnämnden för yttrande varvid nämnden främst
 skulle studera samordningsmöjligheten med den tidigare
 planerade idrottshallen i Vallda.
 
-Fritidsnämnden behandlade ärendet 1988-05-17, $ 66.
+Fritidsnämnden behandlade ärendet 1988-05-17, \$ 66.
 
 Kommun fullmäktige har i investeringsplan 1989-1991 för
 fritidslokal och idrottshall i Vallda avsatt 4.000.000
 kronor år 1989 och 8.000.000 år 1990.
 
 Kommunstyrelsens arbetsutskott beslutade 1989-01-17,
-$ 52, att
+\$ 52, att
 
-- uppdra åt fritidsnämnden att ta fram ett full-
+\- uppdra åt fritidsnämnden att ta fram ett full-
 ständigt beslutsunderlag innebärande ett princip-
 förslag innehållande programhandling, skolans
 inställning, förslag till placering, finansiering
 och drift, samt
 
-- kostnaderna rymmes inom av kommunfullmäktige fast-
+\- kostnaderna rymmes inom av kommunfullmäktige fast-
 ställd ram i budgeten.
 
-Fritidsnämnden beslutade 1989-08-15, $ 107, bl a att
+Fritidsnämnden beslutade 1989-08-15, \$ 107, bl a att
 kommun fullmäktige förslås besluta, ;
 
 ”- att godkänna förslag till avtal med Vallda Tennis-
@@ -3697,28 +3697,28 @@ Kommunfullmäktige | 1989-10-12: ch
 Kommunstyrelsen 1989-09-27
 Kommunstyrelsens arbetsutskott 1989=09=05
 
-KF $ 233 forts
-KS $ 367 forts
-AU $ 556 forts " 0446/87-455
+KF \$ 233 forts
+KS \$ 367 forts
+AU \$ 556 forts " 0446/87-455
 
-- att bemyndiga fritidsnämndens ordförande och
+\- att bemyndiga fritidsnämndens ordförande och
 fritidschefen eller deras respektive ställföre-
 trädare att underteckna avtalet,
 
-- att uppdraga åt fritidsnämnden att enligt avtal
+\- att uppdraga åt fritidsnämnden att enligt avtal
 utse revisor i föreningen,
 
-- att kommunens kostnader för idrottshall utöver
+\- att kommunens kostnader för idrottshall utöver
 anslag i investeringsplanen 1989-1991, som uppgår
 till 12.000.000 miljoner kronor, får finansieras
 genom omprioritering i fritidsnämndens investerings-
 budget 1990,
 
-- att fritidsnämnden ges i uppdrag att utföra en
+\- att fritidsnämnden ges i uppdrag att utföra en
 förstudie avseende fritidslokaler i anslutning
 till -Toråsskolan, samt
 
-- att en eventuell byggnation av fritidslokaler får
+\- att en eventuell byggnation av fritidslokaler får
 finansieras genom prioritering inom fritidsnämndens
 investeringsbudget, anslag för fritidslokaler.
 
@@ -3755,11 +3755,11 @@ Kommun fullmäktige 1989-10-12 53
 Kommunstyrelsen 1989-09-27
 Kommunstyrelsens arbetsutskott 1989=0:9=05
 
-KF $ 233 forts
+KF \$ 233 forts
 
-KS $ 367 forts |
+KS \$ 367 forts |
 
-AU $ 556 forts 0446/87-455
+AU \$ 556 forts 0446/87-455
 
 att kommunens kostnader för idrottshall utöver
 
@@ -3808,9 +3808,9 @@ Kommun fullmäktige
 Kommunstyrelsen
 Kommunstyrelsens arbetsutskott
 
-KF $ 233 forts
-KS $ 367 forts
-AU $ 556 forts
+KF \$ 233 forts
+KS \$ 367 forts
+AU \$ 556 forts
 
 Håkan Cronelid anmäler för Miljöpartiet De Grönas
 
@@ -3914,7 +3914,7 @@ socialtjänstens brottsförebyggande ansvar ska förtydligas i lagen. Regeringen
 den fortsatta beredningen av betänkandet, utan har i stället tagit fram en promemoria med förslag till
 bestämmelser som ska tydliggöra socialnämndens brottsförebyggande ansvar. Promemorian har
 remitterats till berörda instanser, däribland Kungsbacka kommun, för yttrande senast den 28 februari
-2024.
+2024\.
 
 Lagändringarna föreslås träda i kraft samtidigt som eventuella ändringar med anledning av förslagen i
 betänkandet träder i kraft.
@@ -5447,7 +5447,7 @@ främja verksamhetsutveckling och en bättre arbetsmiljö för alla anställda.
 
 Socialdemokraterna föreslår därför kommunfullmäktige:
 
-- att ge kommunstyrelsen i uppdrag att utreda hur en Ledardag kan skapas enligt motionens
+\- att ge kommunstyrelsen i uppdrag att utreda hur en Ledardag kan skapas enligt motionens
 intentioner.
 
 Johan Tolinsson (SS)
@@ -5664,12 +5664,12 @@ Kommundirektör                     Samhällsbyggnadschef
 
 Bukärr 2:28
 
-___________________
-___________________
-___________________
-___________________
-___________________
-___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 0 m 10 m 20 m 30 m 40 m 50 m
 Komplementbyggnader      på  50 kvm
@@ -5930,13 +5930,13 @@ Lagstiftning
 Enligt 7 kap 15 § miljöbalken (MB) får inom ett strandskyddsområde inte: 1.nya byggnader
 uppföras,
 
-2. byggnader eller byggnaders användning ändras eller andra anläggningar eller anordningar
+2\. byggnader eller byggnaders användning ändras eller andra anläggningar eller anordningar
 utföras, om det hindrar eller avhåller allmänheten från att beträda ett område där den annars skulle
 ha fått färdas fritt,
-3. grävningsarbeten eller andra förberedelsearbeten utföras för byggnader, anläggningar eller
+3\. grävningsarbeten eller andra förberedelsearbeten utföras för byggnader, anläggningar eller
 anordningar som avses i 1 och 2, eller
 
-4. åtgärder vidtas som väsentligt förändrar livsvillkoren för djur- eller växtarter.
+4\. åtgärder vidtas som väsentligt förändrar livsvillkoren för djur- eller växtarter.
 Kommunen får enligt 7 kap 18b § MB i det enskilda fallet ge dispens från förbuden i 7 kap 15 §
 MB, om det finns särskilda skäl enligt 7 kap 18 c-d §§ MB. Därutöver får åtgärden enligt 7 kap 26 §
 
@@ -5946,8 +5946,8 @@ på land och i vatten.
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet får man enligt 7 kap.
 18 c § miljöbalken endast beakta om det område som dispensen avser
 
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för strandskyddets syften,
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl avskilt från
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för strandskyddets syften,
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl avskilt från
 området närmast strandlinjen,
 
 Justerare                                   Expedierat/bestyrkt
@@ -5958,15 +5958,15 @@ Kungsbacka kommun              SAMMANTRÄDESPROTOKOLL        22 (52)
 Byggnadsnämnden                Datum
 2023-08-24
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet inte kan
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet inte kan
 tillgodoses utanför området,
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan genomföras utanför
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan genomföras utanför
 området,
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan tillgodoses
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte kan tillgodoses
 utanför området, eller
 
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 Beslutet  kan  överklagas
 
 Detta beslut överklagas genom att en skrivelse skickas till Byggnadsnämnden, Kungsbacka
@@ -5993,10 +5993,10 @@ strandskyddsområdet.
 Förvaltningen har besiktigat den aktuella platsen, se bilder bilaga 2.
 
 Sökande har som skäl till att en dispens ska medges angett följande:
-1. platsen har redan tagits i anspråk på ett sätt som gör att det saknar betydelse för strandskyddets
+1\. platsen har redan tagits i anspråk på ett sätt som gör att det saknar betydelse för strandskyddets
 syften,
 
-2. platsen är väl avskild från området närmast strandlinjen genom en väg, järnväg, bebyggelse,
+2\. platsen är väl avskild från området närmast strandlinjen genom en väg, järnväg, bebyggelse,
 verksamhet eller annan exploatering.
 
 Kommunicering
@@ -6545,7 +6545,7 @@ Kommunen och Köparen kallas nedan gemensamt för Parterna.
 
 Fastighet: Bolsheden 1:76, nedan kallad Fastigheten
 
-1. Bakgrund
+1\. Bakgrund
 
 1.1 Mellan Parterna träffas denna dag, Avtalsdagen, detta köpeavtal, Avtalet.
 
@@ -6570,7 +6570,7 @@ på den tillhörande kartan, bilaga 2, på de villkor som anges i Avtalet.
 3.1 Köpeskillingen för Fastigheten utgör FYRAMILJONERETTHUNDRAFEMTIO-
 TVÅTUSEN (4 152 000) KRONOR.
 
-4. Köpeskillingens erläggande
+4\. Köpeskillingens erläggande
 
 4.1 Den ovan angivna Köpeskillingen ska betalas av Köparen enligt följande:
 
@@ -6661,7 +6661,7 @@ ledningsägare, utan krav på ersättning.
 
 <!-- sida 163 -->
 
-10.
+10\.
 
 10.1
 
@@ -6669,7 +6669,7 @@ ledningsägare, utan krav på ersättning.
 
 10.3
 
-11.
+11\.
 
 11.2
 
@@ -6677,7 +6677,7 @@ ledningsägare, utan krav på ersättning.
 
 11.4
 
-12.
+12\.
 
 12.1
 
@@ -6747,17 +6747,17 @@ beträffande ärendet tillsänds samhällsbyggnadskontoret.
 
 12,5
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 14.1
 
 14.2
 
-15.
+15\.
 
 15.1
 
@@ -6767,7 +6767,7 @@ beträffande ärendet tillsänds samhällsbyggnadskontoret.
 
 15.4
 
-16.
+16\.
 
 16.1
 
@@ -6831,11 +6831,11 @@ detaljplan som ligger till grund för Avtalet.
 
 <!-- sida 165 -->
 
-17.
+17\.
 
 17.1
 
-18.
+18\.
 
 18.1
 
@@ -6845,15 +6845,15 @@ detaljplan som ligger till grund för Avtalet.
 
 18.4
 
-19.
+19\.
 
 19.1
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
@@ -6926,7 +6926,7 @@ pen)
 
 22.4
 
-23.
+23\.
 
 23.1
 
@@ -6942,7 +6942,7 @@ PR
 
 23.7
 
-24.
+24\.
 
 24.1
 
@@ -7005,11 +7005,11 @@ Sign
 
 24.2
 
-25.
+25\.
 
 25.1
 
-26.
+26\.
 
 26.1
 
@@ -7019,7 +7019,7 @@ Za
 
 PAN!
 
-28.
+28\.
 
 28.1
 
@@ -7195,7 +7195,7 @@ LIROS Skandinavia AB (556670-8359), nedan kallat Bolaget
 
 Kommunen och Bolaget kallas gemensamt för Parterna
 
-1. Markanvisning
+1\. Markanvisning
 
 Kommunen anvisar till Bolaget tomt A som framgår av den bilagda kartan,
 bilaga 1, markerade markområdet, Området. Det anvisade Området ligger inom
@@ -7210,12 +7210,12 @@ bolag inom samma koncern.
 Bolaget har tagit del av Kommunens Riktlinjer för markanvisningar och
 exploateringsavtal, beslutad av kommunfullmäktige 2018-03-18.
 
-2. Avsiktsförklaring
+2\. Avsiktsförklaring
 
 Förutsättningarna för markanvisningsavtalet klargörs genom detta
 markanvisningsavtal, Avtalet.
 
-3. Grundläggande och projektspecifika villkor
+3\. Grundläggande och projektspecifika villkor
 För markanvisningen gäller följande för projektet grundläggande villkor:
 
 =» En markanvisningsavgift om 1 000 000 kronor ska erläggas av Bolaget efter
@@ -7342,14 +7342,14 @@ markanvisningen är giltig
 <!-- sida 183 -->
 
 4(6)
-10. Ändringar och tillägg
+10\. Ändringar och tillägg
 Avtalet med bilagor 1-2 utgör Parternas fullständiga reglering av alla frågor som
 Avtalet berör och ersätter Parternas eventuella tidigare muntliga eller skriftliga
 
 överenskommelser. Ändringar och tillägg till Avtalet ska vara skriftliga och
 undertecknade av Parterna för att vara gällande.
 
-1. Tvist
+1\. Tvist
 
 Tvist rörande tolkning av detta avtal ska hänskjutas till allmän domstol.
 
@@ -7365,7 +7365,7 @@ Malin Aronsson
 
 Kommundirektör
 Bilagor:
-1. Karta över det markanvisade området
+1\. Karta över det markanvisade området
 
 2: Skisser på Bolagets tänkta verksamhetslokal
 

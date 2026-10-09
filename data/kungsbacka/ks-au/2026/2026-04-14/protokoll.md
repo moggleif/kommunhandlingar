@@ -502,11 +502,11 @@ identifiera insatsområden och åtgärder samt beskriva vilken uppföljning som 
 årsvis.
 
 Programmet syftar till att stärka tillgänglighet till kommersiell service genom att:
--  Prioritera insatser i serviceglesa områden på landsbygden.
+\-  Prioritera insatser i serviceglesa områden på landsbygden.
 
--  Informera om de olika stödformerna som finns tillgängliga att söka och vad
+\-  Informera om de olika stödformerna som finns tillgängliga att söka och vad
 som prioriteras i det politiska beslutsfattandet vid ansökan om stöd.
--  Öka samsyn och möjlighet att samverka mellan nationella, regionala,
+\-  Öka samsyn och möjlighet att samverka mellan nationella, regionala,
 kommunala och lokala aktörer.
 
 Målet är att det ska finnas en grundläggande nivå av kommersiell service i hela länet.
@@ -660,11 +660,11 @@ Sammanfattning av ärendet
 
 Samhällsbyggnadschef Lovisa Eld informerar om:
 
--  Översiktsplan för Kungsbacka stad har fått laga kraft.
--  förberedelse inför länsstyrelsens besök den 20 april.
+\-  Översiktsplan för Kungsbacka stad har fått laga kraft.
+\-  förberedelse inför länsstyrelsens besök den 20 april.
 
 Kommundirektör Rickard Vidlund
--  inbjudan till Framtidsdagen 25 november och presidiedialoger den 4
+\-  inbjudan till Framtidsdagen 25 november och presidiedialoger den 4
 november.
 
 Beslutsgång

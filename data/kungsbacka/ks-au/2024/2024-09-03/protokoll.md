@@ -475,18 +475,18 @@ Sammanfattning av ärendet
 Kommunstyrelsens arbetsutskott har dialog med trafikverket om aktuella frågor så
 som:
 
-- Diskussion kring Kungsbacka kommuns tillväxt och kapaciteten i de olika
+\- Diskussion kring Kungsbacka kommuns tillväxt och kapaciteten i de olika
 transportstråken
-- Nationell infrastrukturplan (2026 - 2037) senaste informationen.
+\- Nationell infrastrukturplan (2026 - 2037) senaste informationen.
 
-- Fyrspår Västkustbanan: Kungsbacka station – Hede station
-- Kungsbacka C – kort (mittplattformens sättningar) och lång sikt
+\- Fyrspår Västkustbanan: Kungsbacka station – Hede station
+\- Kungsbacka C – kort (mittplattformens sättningar) och lång sikt
 
-- Särömotet åtgärder
-- Onsalamotet – kommunens planerad Åtgärdsvalsstudie / framtida
+\- Särömotet åtgärder
+\- Onsalamotet – kommunens planerad Åtgärdsvalsstudie / framtida
 finansieringsmodell
 
-- Ny Onsalaväg väg 940 - status och tidplan
+\- Ny Onsalaväg väg 940 - status och tidplan
 
 Beslutsgång
 
@@ -547,8 +547,8 @@ mot bakgrunden att klaganden inte är tillräckligt berörd av detaljplanen för
 att överklaga planen.
 
 Kommundirektör Malin de Verdier lämnar information om:
-- planering av workshop rörande nya styrmodellen.
-- bildspel för information om kommunledningsgruppens förslag till hantering av
+\- planering av workshop rörande nya styrmodellen.
+\- bildspel för information om kommunledningsgruppens förslag till hantering av
 SKRs handslag för digitalisering
 
 Biträdande kommundirektör Anders Johansson lämnar information om att det pågår

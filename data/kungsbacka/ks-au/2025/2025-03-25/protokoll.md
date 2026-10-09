@@ -221,7 +221,7 @@ respektive Bostadsenhetsavgift i VA-taxan 2025, i tabellen för anläggningsavgi
 5.1 respektive § 6.1, har felaktiga belopp. De felaktiga beloppen beror på felräkning.
 Tabellen för avgiftsbeloppen förekommer på sidan 5 respektive sidan 7 i VA taxan
 
-2025.
+2025\.
 Nämnden för Teknik uppmärksammade felet innan taxan började gälla och
 debitering år 2025 har i förekommande fall skett enligt de korrekt beräknade lägre
 beloppen. För att få en korrekt taxa med korrekt framräknade belopp krävs ett nytt
@@ -934,7 +934,7 @@ förslaget innan planen utsänds för granskning. När granskningen är genomfö
 
 kommer den slutgiltiga versionen av planen att utformas. Region Halland har som
 ambition att ny regional fysisk plan för Halland ska antas i regionfullmäktige i juni
-2026.
+2026\.
 
 Beslutsgång
 
@@ -962,24 +962,24 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
-- den överklagade detaljplanen för Norra Kyvik- och Ekekullsområdet fått
+\- den överklagade detaljplanen för Norra Kyvik- och Ekekullsområdet fått
 
 prövningstillstånd i Mark- och miljööverdomstolen vid Vänersborgs tingsrätt.
-- den överklagade detaljplanen för Bångsbo 1:30 m.fl. har inte fått
+\- den överklagade detaljplanen för Bångsbo 1:30 m.fl. har inte fått
 prövningstillstånd i Mark- och miljööverdomstolen vid Vänersborgs tingsrätt,
 vilket innebär att detaljplanen kommer få laga kraft.
 
-- Aktuellt detaljplaneärende vid Klaraplan, Gottskär
-- Status för upphandling av driftentreprenör för Kungsbacka Arena.
+\- Aktuellt detaljplaneärende vid Klaraplan, Gottskär
+\- Status för upphandling av driftentreprenör för Kungsbacka Arena.
 
 Ordförande Lisa Andersson (M) lämnar följande information:
-- Ärendelistan på kommande sammanträde med kommun- och
+\- Ärendelistan på kommande sammanträde med kommun- och
 regionledningsforum där bland annat regional fysisk plan och
 
 infrastrukturplanering kommer att behandlas. Information kommer också lämnas
 om befolkningsanalysen 2024, Svesam, totalförsvar och värdlandsstöd samt om
 Halmstad flygplats.
-- Inplanerat demokratitema i Kungsbacka Live under vecka 36.
+\- Inplanerat demokratitema i Kungsbacka Live under vecka 36.
 
 Beslutsgång
 Ordförande Lisa Andersson (M) prövar om kommunstyrelsens arbetsutskott kan

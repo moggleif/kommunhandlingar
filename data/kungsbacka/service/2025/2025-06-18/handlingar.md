@@ -586,7 +586,7 @@ Klicka eller tryck här för att ange text.
 
 <!-- sida 13 -->
 
-\_______________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Denna titel kan laddas ner från: Livsmedelsverkets publikationer
 

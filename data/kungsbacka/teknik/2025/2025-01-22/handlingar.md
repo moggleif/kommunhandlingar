@@ -2151,7 +2151,7 @@ frågeställningen till om det är förvaltningen för Teknik eller privata akt�
 laddningsstationer i kommunen framöver? Syftet med rapporten är att beskriva nuläget, möjliga
 
 Strategi för utbyggnad och förvaltning samt det ekonomiska perspektivet.
-\__________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Figur för begreppsförtydligande
 

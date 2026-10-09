@@ -149,16 +149,16 @@ Sammanfattning av ärendet
 
 Ordförande Fredrik Hansson (C) föreslår att:
 
-- ärende 12. Förvärv av fastigheten Varla 1:5
-- ärende 13. Godkännande av tilläggsavtal till avtal om marköverlåtelse och
+\- ärende 12. Förvärv av fastigheten Varla 1:5
+\- ärende 13. Godkännande av tilläggsavtal till avtal om marköverlåtelse och
 genomförande avseende fastigheten Kolla 5:151 i Kolla Parkstad,
 
-- ärende 16. Överföring av direktanvisning av mark inom fastigheten Skårby 12:1 i
+\- ärende 16. Överföring av direktanvisning av mark inom fastigheten Skårby 12:1 i
 Björkris
-- ärende 17. Godkännande av projektbeställning samt överlämnande för att
+\- ärende 17. Godkännande av projektbeställning samt överlämnande för att
 upprätta detaljplan för bostäder inom Skörvalla 1:116
 
-- ärende 18. Godkännande av projektbeställning samt överlämnande för att
+\- ärende 18. Godkännande av projektbeställning samt överlämnande för att
 upprätta detaljplaner inom Malevik 1:41, Bångsbo 1:30 m .fl. och Vallda 17:17
 m. fl.
 

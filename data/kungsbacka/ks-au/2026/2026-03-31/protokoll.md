@@ -301,7 +301,7 @@ förbundsstyrelsen bereda medlemskommunerna tillfälle att yttra sig över ett
 samrådsunderlag om budgeten för nästkommande år. Nivån på årsavgiften föreslås
 vara oförändrad till 2027 och uppgår då till 72,62 kronor per invånare. För
 Kungsbacka kommun innebär det en preliminär avgift på 6 269 000 kronor under
-2027. Årsavgiften är preliminär och kommer justeras när de definitiva
+2027\. Årsavgiften är preliminär och kommer justeras när de definitiva
 
 befolkningsuppgifterna per 2025-12- 31 är publicerade. Avgiften ryms inom
 kommunstyrelsens budgetram.

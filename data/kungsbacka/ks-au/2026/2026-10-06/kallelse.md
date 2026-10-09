@@ -55,7 +55,7 @@ KUNGSBACKA  KOMMUN
 
 2(8)
 
-2.  Fastställande av skattesats och KS-2025-00785 Förslag till beslut i kommunfullmäktige
+2\.  Fastställande av skattesats och KS-2025-00785 Förslag till beslut i kommunfullmäktige
 Kommunbudget 2027, plan           Kommunbudget 2027, plan 2028–2029, antagen
 2028–2029 med anledning av        av kommunfullmäktige 9 juni 2026, § 105, nedan
 valår                             kallad budgetdokumentet fastställs.

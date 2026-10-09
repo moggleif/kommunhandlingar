@@ -297,7 +297,7 @@ planering och genomförande. Kommunen lämnar därför synpunkter som syftar til
 förutsättningarna för en effektiv tillämpning av föreskrifterna.
 
 Kommunens inställning i detalj
-1. Konsekvensutredning för incidentrapportering och informationsskyldighet
+1\. Konsekvensutredning för incidentrapportering och informationsskyldighet
 1.1 Kommunen anser att resursbehovet är underskattat
 
 Konsekvensutredningen utgår från att många verksamhetsutövare redan har etablerade processer för att
@@ -346,7 +346,7 @@ När konsekvensutredningen tonar ned omfattningen av arbetsinsatser och kostnade
 verksamhetsutövare underskattar det ansvar som följer av cybersäkerhetslagen, vilket i sin tur kan
 påverka resursplaneringen negativt.
 
-2. Konsekvensutredning för utbildning och säkerhetsåtgärder
+2\. Konsekvensutredning för utbildning och säkerhetsåtgärder
 
 2.1 Kommunen anser att slutsatserna om mognad inte baseras på tillgängliga data
 
@@ -416,7 +416,7 @@ resursprioriteringen negativt.
 KUNGSBACKA  KOMMUN
 4 (5)
 
-3. Förslag till föreskrifter om incidentrapportering och informationsskyldighet
+3\. Förslag till föreskrifter om incidentrapportering och informationsskyldighet
 
 3.1 Kommunen anser att kravet på uppgifter om leverantörer behöver förtydligas
 
@@ -453,7 +453,7 @@ att detta riskerar att leda till tekniska beskrivningar av felorsaker som inte �
 eller allmänhet. Fokus bör i stället ligga på hur incidenten påverkar tjänstens funktion och användare,
 vilket bättre stödjer syftet med informationsskyldigheten.
 
-4. Förslag till föreskrifter om utbildning och säkerhetsåtgärder
+4\. Förslag till föreskrifter om utbildning och säkerhetsåtgärder
 4.1 Kommunen anser att begreppet ”viktig samhällsfunktion” behöver förklaras
 
 <!-- sida 13 -->
@@ -504,21 +504,21 @@ informationsskyldighet;
 beslutade den [Fyll i datum].
 
 Myndigheten för samhällsskydd och beredskap föreskriver! följande med
-stöd av XX $ förordningen (2026:XXX) om cybersäkerhet.
+stöd av XX \$ förordningen (2026:XXX) om cybersäkerhet.
 
 1 kap. Inledande bestämmelser
 
 Tillämpningsområde
 18 Dessa föreskrifter innehåller bestämmelser om
 
-- vad som utgör en betydande incident enligt 2 kap. 5 $ andra stycket
+\- vad som utgör en betydande incident enligt 2 kap. 5 \$ andra stycket
 cybersäkerhetslagen (2026:XXX),
 
-- rapportering av betydande incidenter enligt 2 kap. 5—8 $$
+\- rapportering av betydande incidenter enligt 2 kap. 5—8 \$\$
 cybersäkerhetslagen, och
 
-- informationsskyldighet vid betydande incidenter och betydande
-cyberhot enligt 2 kap: 9—10 $$ cybersäkerhetslagen.
+\- informationsskyldighet vid betydande incidenter och betydande
+cyberhot enligt 2 kap: 9—10 \$\$ cybersäkerhetslagen.
 
 Bestämmelser om vad som utgör en betydande incident i 34 kap. samt
 informationsskyldighet vid betydande incidenter och betydande cyberhot i 5
@@ -605,7 +605,7 @@ Upplysning
 28 — När en incident identifierats som betydande ska verksamhetsutövaren
 
 inkomma med en upplysning innehållande följande uppgifter
-1. verksamhetsutövarens namn, kontaktuppgifter och
+1\. verksamhetsutövarens namn, kontaktuppgifter och
 
 organisationsnummer,
 
@@ -623,10 +623,10 @@ information om incidenten har sitt ursprung hos en leverantör,
 
 inklusive namn och organisationsnummer till leverantören,
 
-7. en preliminär bedömning om vilka konsekvenser incidenten medför
+7\. en preliminär bedömning om vilka konsekvenser incidenten medför
 eller riskerar att medföra, och
 
-8. en preliminär bedömning om incidenten har eller riskerar att få
+8\. en preliminär bedömning om incidenten har eller riskerar att få
 gränsöverskridande konsekvenser.
 
 mA RWN
@@ -635,19 +635,19 @@ N
 
 Incidentanmälan
 38 — Incidentanmälan ska innehålla komplettering och uppdatering av
-uppgifter som lämnats enligt 2 $ samt följande uppgifter
-1. hur länge incidenten pågått,
+uppgifter som lämnats enligt 2 \$ samt följande uppgifter
+1\. hur länge incidenten pågått,
 hur incidenten upptäcktes,
 i tillämpliga fall, när incidenten avhjälptes,
 en preliminär bedömning om incidentens orsak,
 i tillämpliga fall, information om angreppsindikatorer,
 påverkan på ett systems förmåga att upprätthålla konfidentialitet,
 riktighet inklusive autenticitet, och tillgänglighet,
-7. 1itillämpliga fall, påverkan på behandlad informations
+7\. 1itillämpliga fall, påverkan på behandlad informations
 konfidentialitet, riktighet inklusive autenticitet, och tillgänglighet,
-8. itillämpliga fall, en detaljerad beskrivning av de konsekvenser som
+8\. itillämpliga fall, en detaljerad beskrivning av de konsekvenser som
 incidenten medfört eller riskerar att medföra, och
-9. information om
+9\. information om
 a) antalet drabbade slutanvändare,
 b) berört geografiskt område,
 c) ekonomisk skada, och
@@ -657,15 +657,15 @@ NAV RBYN
 
 Slutrapport eller lägesrapport
 48 — Slutrapporten ska innehålla en komplettering och uppdatering av
-uppgifter som lämnats enligt 2—3 $$. I tillämpliga fall ska den även
+uppgifter som lämnats enligt 2—3 \$\$. I tillämpliga fall ska den även
 innehålla en beskrivning av vilka tekniska och organisatoriska åtgärder som
 vidtagits eller kommer att vidtas för att
 
-1. hantera incidenten,
+1\. hantera incidenten,
 
-2. hantera och minimera konsekvenserna av incidenten, och
+2\. hantera och minimera konsekvenserna av incidenten, och
 
-3. undvika att liknande incidenter inträffar.
+3\. undvika att liknande incidenter inträffar.
 
 <!-- sida 17 -->
 
@@ -693,7 +693,7 @@ Allvarlig driftstörning för den erbjudna tjänsten
 18 Med betydande incident som har orsakat allvarlig driftstörning för
 den erbjudna tjänsten avses en incident där
 
-1. otillgänglighet eller nedsatt funktionalitet i ett eller flera
+1\. otillgänglighet eller nedsatt funktionalitet i ett eller flera
 sektorskritiska system har inneburit att
 
 a) sektorsverksamhet endast har kunnat bedrivas 1 begränsad
@@ -702,15 +702,15 @@ utsträckning i mer än 12 timmar, eller
 b) personal har behövt använda alternativa arbetssätt för att
 bedriva sektorsverksamhet i mer än 48 timmar,
 
-2. ett eller flera system som verksamhetsutövaren tillhandahåller till
+2\. ett eller flera system som verksamhetsutövaren tillhandahåller till
 andra och som är nödvändiga för annan organisations möjlighet
 att upprätthålla en viktig samhällsfunktion har varit otillgängliga
 eller har haft nedsatt funktionalitet i mer än sex tummar, eller
 
-3. information tillhörande verksamhetsutövaren har blivit tillgänglig
+3\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 $ lagen om
+a) företagshemligheter enligt 2 \$ lagen om
 företagshemligheter (2018:558), eller
 
 b) annan information som vid informationsklassning
@@ -730,16 +730,16 @@ verksamhetsutövarens totala årsomsättning under föregående räkenskapsår.
 
 38 -. Verksamhetsutövaren ska vid bedömning av den ekonomiska skadan
 minst beakta följande typer av direkta och indirekta kostnader
-1. kostnader för återställning av information som förlorats eller
+1\. kostnader för återställning av information som förlorats eller
 förvanskats,
-2. kostnader för utbyte eller återställning av system,
+2\. kostnader för utbyte eller återställning av system,
 
 <!-- sida 18 -->
 
 MSBFS
 [Fyll i nr]
 
-3. rådgivningskostnader för incidenthanteringstjänster, juridisk
+3\. rådgivningskostnader för incidenthanteringstjänster, juridisk
 
 rådgivning, kriminaltekniska tjänster och saneringstjänster,
 
@@ -764,46 +764,46 @@ Betydande skada för andra fysiska eller juridiska personer
 48 Med betydande incident som har påverkat andra fysiska eller
 juridiska personer genom att vålla betydande skada avses en incident som
 inneburit
-1. att information som verksamhetsutövaren behandlar för annan
+1\. att information som verksamhetsutövaren behandlar för annan
 organisation eller minst 500 fysiska personer har blivit tillgänglig för
 obehöriga, förvanskats eller förstörts och utgör
-a) företagshemligheter enligt 2 $ lagen om företagshemligheter
+a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
 (2018:558), eller
 b) annan information som vid informationsklassning bedömts
 ha behov av utökat skydd,
-2. att anmälningsskyldighet inträder enligt 3 kap. 5 $ första stycket
+2\. att anmälningsskyldighet inträder enligt 3 kap. 5 \$ första stycket
 patientsäkerhetslagen (2010:659),
-3. personskada eller sjukdom,
-4. dödsfall, eller
-5. en föroreningsskada enligt 10 kap. 1 $ i miljöbalken (1998:808).
+3\. personskada eller sjukdom,
+4\. dödsfall, eller
+5\. en föroreningsskada enligt 10 kap. 1 \$ i miljöbalken (1998:808).
 
 Andra rapporteringspliktiga incidenter
 58 Med betydande incident som kan orsaka en allvarlig driftstörning för
 den erbjudna tjänsten, ekonomisk skada för verksamhetsutövaren eller vållat
 betydande skada för andra fysiska eller juridiska personer avses en incident
 som
-1. inneburit att ett betydande cyberhot har uppstått inom
+1\. inneburit att ett betydande cyberhot har uppstått inom
 verksamhetsutövarens system,
-2. inneburit att en betydande sårbarhet har uppstått inom
+2\. inneburit att en betydande sårbarhet har uppstått inom
 verksamhetsutövarens system, eller
-3. på annat sätt vid en initial analys bedöms komma att resultera i att
-kriterierna för rapporteringsplikt i enlighet med 3 kap. 14 $$ eller 4
-kap. 1-9 $$ uppfylls då incidenten eller incidentens konsekvenser
+3\. på annat sätt vid en initial analys bedöms komma att resultera i att
+kriterierna för rapporteringsplikt i enlighet med 3 kap. 14 \$\$ eller 4
+kap. 1-9 \$\$ uppfylls då incidenten eller incidentens konsekvenser
 inte kan hanteras i tid.
 
 68 = Incidenter som var för sig inte anses som en betydande incident i den
-mening som avses 1 3 kap. 1-3 $$ eller 4 kap. 1—9 $$ ska anses vara en
+mening som avses 1 3 kap. 1-3 \$\$ eller 4 kap. 1—9 \$\$ ska anses vara en
 betydande incident om de
 
-1. har inträffat minst två gånger inom sex månader,
-2. bedöms ha samma grundorsak, och
+1\. har inträffat minst två gånger inom sex månader,
+2\. bedöms ha samma grundorsak, och
 
 <!-- sida 19 -->
 
 MSBFS
 [Fyll i nr|
 
-3. sammantaget överstiger beloppsgränsen i 3 kap. 2 $.
+3\. sammantaget överstiger beloppsgränsen i 3 kap. 2 \$.
 
 4 kap. Sektorsspecifika kriterier för allvarlig
 driftstörning i den erbjudna tjänsten
@@ -813,7 +813,7 @@ Offentlig förvaltning
 18 Med betydande incident som har orsakat allvarlig driftstörning för
 den erbjudna tjänsten avses en incident där
 
-1. otillgänglighet eller nedsatt funktionalitet i ett eller flera
+1\. otillgänglighet eller nedsatt funktionalitet i ett eller flera
 sektorskritiska system har inneburit att
 
 a) en eller flera av de verksamheter som en kommun, region
@@ -826,15 +826,15 @@ bedriva en eller flera av de verksamheter som en kommun,
 region eller statlig myndighet är skyldig att tillhandahålla
 enligt författning i mer än 12 timmar,
 
-2. ett eller flera system som verksamhetsutövaren tillhandahåller till
+2\. ett eller flera system som verksamhetsutövaren tillhandahåller till
 andra och som är nödvändiga för annan organisations möjlighet att
 upprätthålla en viktig samhällsfunktion har varit otillgängliga eller
 har haft nedsatt funktionalitet i mer än sex timmar, eller
 
-3. information tillhörande verksamhetsutövaren har blivit tillgänglig för
+3\. information tillhörande verksamhetsutövaren har blivit tillgänglig för
 obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 $ lagen om företagshemligheter
+a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
 (2018:558), eller
 
 b) annan information som vid informationsklassning bedömts
@@ -845,7 +845,7 @@ Energi
 Elektricitet och Fjärrvärme eller fjärrkyla
 28 - Med betydande incident som har orsakat allvarlig driftstörning för
 den erbjudna tjänsten avses en incident där
-1. otillgänglighet eller nedsatt funktionalitet i ett eller flera
+1\. otillgänglighet eller nedsatt funktionalitet i ett eller flera
 sektorskritiska system inneburit att
 a) sektorsverksamhet endast kunnat tillhandahållas i begränsad
 utsträckning i mer än två tummar och påverkat minst 2 000
@@ -853,7 +853,7 @@ slutanvändare eller 50 procent av slutanvändarna, eller
 b) personal har behövt använda alternativa arbetssätt för att
 bedriva sektorsverksamhet i mer än sex timmar,
 
-2. system för styrning och övervakning av transmissionsnät, regionnät
+2\. system för styrning och övervakning av transmissionsnät, regionnät
 eller elproduktion har inte kunnat användas på avsett sätt i mer än en
 timme,
 
@@ -862,15 +862,15 @@ timme,
 MSBFS
 [Fyll i nr]
 
-3. ett eller flera system som verksamhetsutövaren tillhandahåller till
+3\. ett eller flera system som verksamhetsutövaren tillhandahåller till
 andra och som är nödvändiga för annan organisations möjlighet att
 upprätthålla en viktig samhällsfunktion har varit otillgängliga eller
 har haft nedsatt funktionalitet i mer än sex timmar, eller
 
-4. information tillhörande verksamhetsutövaren har blivit tillgänglig
+4\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 $ lagen om företagshemligheter
+a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
 (2018:558), eller
 
 b) annan information som vid informationsklassning bedömts
@@ -880,24 +880,24 @@ Gas och Vätgas
 38 Med betydande incident som har orsakat allvarlig driftstörning för
 den erbjudna tjänsten avses en incident där
 
-1. otillgänglighet eller nedsatt funktionalitet i ett eller flera
+1\. otillgänglighet eller nedsatt funktionalitet i ett eller flera
 sektorskritiska system har inneburit att personal har behövt använda
 alternativa arbetssätt för att bedriva sektorsverksamhet i mer än sex
 timmar,
 
-2. system för styrning och övervakning inom ramen för
+2\. system för styrning och övervakning inom ramen för
 systemansvarstjänst inte har kunnat användas på avsett sätt i mer än
 en timme,
 
-3. ett eller flera system som verksamhetsutövaren tillhandahåller till
+3\. ett eller flera system som verksamhetsutövaren tillhandahåller till
 andra och som är nödvändiga för annan organisations möjlighet att
 upprätthålla en viktig samhällsfunktion har varit otillgängliga eller
 har haft nedsatt funktionalitet i mer än sex tummar, eller
 
-4. information tillhörande verksamhetsutövaren har blivit tillgänglig för
+4\. information tillhörande verksamhetsutövaren har blivit tillgänglig för
 obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 $ lagen om företagshemligheter
+a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
 (2018:558), eller
 
 b) annan information som vid informationsklassning bedömts
@@ -907,18 +907,18 @@ Olja
 48 Med betydande incident som har orsakat allvarlig driftstörning för
 den erbjudna tjänsten avses en incident där
 
-1. otillgänglighet eller nedsatt funktionalitet i ett eller flera
+1\. otillgänglighet eller nedsatt funktionalitet i ett eller flera
 sektorskritiska system har inneburit att personal har behövt använda
 alternativa arbetssätt för att bedriva sektorsverksamhet i mer än sex
 timmar,
 
-2. system för styrning och övervakning av ledning, överföring och
+2\. system för styrning och övervakning av ledning, överföring och
 distributionsnätverk, anläggningar för oljeproduktion, raffinaderier,
 bearbetningsanläggningar eller anläggningar för lagring och
 överföring av olja inte har kunnat användas på avsett sätt i mer än
 två tummar, eller
 
-3. ett eller flera system som verksamhetsutövaren tillhandahåller till
+3\. ett eller flera system som verksamhetsutövaren tillhandahåller till
 andra och som är nödvändiga för annan organisations möjlighet att
 upprätthålla en viktig samhällsfunktion har varit otillgängliga eller
 har haft nedsatt funktionalitet i mer än sex timmar, eller
@@ -928,9 +928,9 @@ har haft nedsatt funktionalitet i mer än sex timmar, eller
 MSBFS
 [Fyll i nr|
 
-4. information tillhörande verksamhetsutövaren har blivit tillgänglig
+4\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
-a) företagshemligheter enligt 2 $ lagen om företagshemligheter
+a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
 (2018:558), eller
 b) annan information som vid informationsklassning bedömts
 ha behov av utökat skydd.
@@ -943,7 +943,7 @@ Sjöfart, Lufttransport och Vägtransport
 
 den erbjudna tjänsten avses en incident där
 
-1. otillgänglighet eller nedsatt funktionalitet i ett eller flera
+1\. otillgänglighet eller nedsatt funktionalitet i ett eller flera
 sektorskritiska system har inneburit att
 a) sektorsverksamhet endast kunnat tillhandahållas i begränsad
 
@@ -954,15 +954,15 @@ område om minst 10 000 km?, eller
 b) personal har behövt använda alternativa arbetssätt för att
 bedriva sektorsverksamhet i mer än sex tummar,
 
-2. ett eller flera system som verksamhetsutövaren tillhandahåller till
+2\. ett eller flera system som verksamhetsutövaren tillhandahåller till
 andra och som är nödvändiga för annan organisations möjlighet att
 upprätthålla en viktig samhällsfunktion har varit otillgängliga eller
 har haft nedsatt funktionalitet i mer än sex timmar, eller
 
-3. information tillhörande verksamhetsutövaren har blivit tillgänglig
+3\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 $ lagen om företagshemligheter
+a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
 (2018:558), eller
 
 b) annan information som vid informationsklassning bedömts
@@ -974,7 +974,7 @@ Järnvägstransport och Kollektivtrafik
 
 den erbjudna tjänsten avses en incident där
 
-1. otillgänglighet eller nedsatt funktionalitet i ett eller flera
+1\. otillgänglighet eller nedsatt funktionalitet i ett eller flera
 sektorskritiska system har inneburit att
 a) sektorsverksamhet endast kunnat tillhandahållas i begränsad
 
@@ -986,7 +986,7 @@ område om minst 10 000 km?, eller
 b) personal har behövt använda alternativa arbetssätt för att
 bedriva sektorsverksamhet i mer än sex timmar,
 
-2. ett eller flera system som verksamhetsutövaren tillhandahåller till
+2\. ett eller flera system som verksamhetsutövaren tillhandahåller till
 andra och som är nödvändiga för annan organisations möjlighet att
 upprätthålla en viktig samhällsfunktion har varit otillgängliga eller
 har haft nedsatt funktionalitet i mer än sex tummar, eller
@@ -996,9 +996,9 @@ har haft nedsatt funktionalitet i mer än sex tummar, eller
 MSBFS
 [Fyll i nr]
 
-3. information tillhörande verksamhetsutövaren har blivit tillgänglig
+3\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
-a) företagshemligheter enligt 2 $ lagen om företagshemligheter
+a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
 (2018:558), eller
 b) annan information som vid informationsklassning bedömts
 ha behov av utökat skydd.
@@ -1007,26 +1007,26 @@ Hälso- och sjukvård
 
 78 Med betydande incident som har orsakat allvarlig driftstörning för
 den erbjudna tjänsten avses en incident där
-1. otillgänglighet eller nedsatt funktionalitet i ett eller flera
+1\. otillgänglighet eller nedsatt funktionalitet i ett eller flera
 sektorskritiska system har inneburit att
 a) sektorsverksamhet endast har kunnat bedrivas i begränsad
 omfattning i mer än en timme,
-b) sådan ambulans och ambulanssjukvård som avses i 7 kap. 6 $
+b) sådan ambulans och ambulanssjukvård som avses i 7 kap. 6 \$
 hälso- och sjukvårdslagen (2017:30) inte har kunnat
 tillhandahållas, eller
 
 c) personal har behövt använda alternativa arbetssätt för att
 bedriva sektorsverksamhet i mer än sex tummar,
 
-2. ett eller flera system som verksamhetsutövaren tillhandahåller till
+2\. ett eller flera system som verksamhetsutövaren tillhandahåller till
 andra och som är nödvändiga för annan organisations möjlighet att
 upprätthålla en viktig samhällsfunktion har varit otillgängliga eller
 har haft nedsatt funktionalitet i mer än sex timmar, eller
 
-3. information tillhörande verksamhetsutövaren har blivit tillgänglig
+3\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 $ lagen om företagshemligheter
+a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
 (2018:558), eller
 
 b) annan information som vid informationsklassning bedömts
@@ -1034,24 +1034,24 @@ ha behov av utökat skydd.
 
 Dricksvatten
 
-8$ Med betydande incident som har orsakat allvarlig driftstörning för
+8\$ Med betydande incident som har orsakat allvarlig driftstörning för
 den erbjudna tjänsten avses en incident där
 
-1. sektorskritiska system har varit otillgängliga eller har haft nedsatt
+1\. sektorskritiska system har varit otillgängliga eller har haft nedsatt
 funktionalitet i mer än fyra tummar,
 
-2. personal har behövt använda alternativa arbetssätt för att bedriva
+2\. personal har behövt använda alternativa arbetssätt för att bedriva
 sektorsverksamhet i mer än åtta tummar,
 
-3. ett eller flera system som verksamhetsutövaren tillhandahåller till
+3\. ett eller flera system som verksamhetsutövaren tillhandahåller till
 andra och som är nödvändiga för annan organisations möjlighet att
 upprätthålla en viktig samhällsfunktion har varit otillgängliga eller
 har haft nedsatt funktionalitet i mer än sex tummar, eller
 
-4. information tillhörande verksamhetsutövaren har blivit tillgänglig
+4\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 $ lagen om företagshemligheter
+a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
 (2018:558), eller
 
 <!-- sida 23 -->
@@ -1070,7 +1070,7 @@ Med betydande incident som har orsakat allvarlig driftstörning för
 
 den erbjudna tjänsten avses en incident där
 
-1.
+1\.
 
 sektorskritiska system har varit otillgängliga eller har haft nedsatt
 funktionalitet i mer än fyra timmar,
@@ -1083,7 +1083,7 @@ upprätthålla en viktig samhällsfunktion har varit otillgängliga eller
 har haft nedsatt funktionalitet i mer än sex timmar, eller
 information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
-a. företagshemligheter enligt 2 $ lagen om företagshemligheter
+a. företagshemligheter enligt 2 \$ lagen om företagshemligheter
 (2018:558), eller
 b. annan information som vid informationsklassning bedömts
 ha behov av utökat skydd.
@@ -1097,15 +1097,15 @@ När en verksamhetsutövare informerar om en betydande incident ska
 
 följande uppgifter lämnas
 
-1.
+1\.
 
 vad incidenten består i,
 
-2. hur länge incidenten förväntas pågå,
+2\. hur länge incidenten förväntas pågå,
 
-3.
+3\.
 
-4.
+4\.
 
 vilka konsekvenser som incidenten medför eller att riskerar att
 medföra för mottagare,
@@ -1126,10 +1126,10 @@ bedömer att sådan information kan förvärra incidentens konsekvenser.
 
 När en verksamhetsutövare informerar om ett betydande cyberhot
 
-som inte utgör en betydande incident enligt 3 kap. 5 $ punkt 1 ska följande
+som inte utgör en betydande incident enligt 3 kap. 5 \$ punkt 1 ska följande
 uppgifter lämnas
 
-1.
+1\.
 
 vad cyberhotet består i,
 
@@ -1140,11 +1140,11 @@ vad cyberhotet består i,
 MSBFS
 [Fyll i nr]
 
-2. vilka åtgärder mottagaren av verksamhetsutövarens tjänster behöver
+2\. vilka åtgärder mottagaren av verksamhetsutövarens tjänster behöver
 vidta för att minimera risken för att cyberhotet resulterar i en
 incident, och
 
-3. vad konsekvenserna kan bli om mottagaren av verksamhetsutövarens
+3\. vad konsekvenserna kan bli om mottagaren av verksamhetsutövarens
 tjänster inte vidtar dessa rekommenderade åtgärder.
 
 Om det bedöms olämpligt med hänsyn till att det kan öka risken för att en
@@ -1154,7 +1154,7 @@ incident uppstår behöver verksamhetsutövaren inte informera enligt punkt 1.
 
 <!-- sida 25 -->
 
-1. Dessa föreskrifter träder i kraft [Klicka och skriv tidsangivelse].
+1\. Dessa föreskrifter träder i kraft [Klicka och skriv tidsangivelse].
 
 Myndigheten för samhällsskydd och beredskap
 
@@ -1226,7 +1226,7 @@ Ordförklaring
 3 § Termer och uttryck i dessa föreskrifter och allmänna råd har samma
 betydelse som i lagen (2025:XXX) om cybersäkerhet.
 
-___________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1 Europaparlamentets och rådets direktiv (EU) 2022/2555 av den 14 december 2022 om åtgärder för en hög
 gemensam cybersäkerhetsnivå i hela unionen, om ändring av förordning (EU) nr 910/2014 och direktiv
 (EU) 2018/1972 och om upphävande av direktiv (EU) 2016/1148 (NIS2-direktivet).
@@ -1321,7 +1321,7 @@ myndighet är skyldig att utföra enligt
 författning,
 
 nätverks- och informationssystem enligt 1
-kap. 2 $ p 19 i cybersäkerhetslag (2025:XX),
+kap. 2 \$ p 19 i cybersäkerhetslag (2025:XX),
 
 arbete som bedrivs med stöd av interna regler
 och arbetssätt för att upprätta, genomföra,
@@ -1372,10 +1372,10 @@ cybersäkerhet och integritetsskydd- Informationssäkerhetsåtgärder.
 
 28 — Detsystematiska och riskbaserade arbetet ska minst omfatta att
 
-1.
+1\.
 
 3,
-4.
+4\.
 
 identifiera och analysera externa krav, interna behov och
 risker avseende cybersäkerhet,
@@ -1394,10 +1394,10 @@ säkerhetsåtgärder utifrån ett allriskperspektiv. Interna regler och arbetss�
 ska dokumenteras och hållas uppdaterade. De ska
 
 l.
-2.
-3.
+2\.
+3\.
 
-4.
+4\.
 
 utgå från ledningens mål och inriktning,
 
@@ -1409,9 +1409,9 @@ kommuniceras till berörd egen och inhyrd personal.
 
 48 Interna regler och arbetssätt ska minst innehålla
 
-1.
-2.
-3.
+1\.
+2\.
+3\.
 
 vilken säkerhetsåtgärd som avses,
 vilken målgruppen är,
@@ -1442,7 +1442,7 @@ arbetssätt ska, om inte särskilda hinder identifierats, bevaras i minst 5 år.
 MSBFS
 [Fyll i nr]
 
-Underlag enligt 2 kap. 24 $ och de beslut som ledningen fattar med
+Underlag enligt 2 kap. 24 \$ och de beslut som ledningen fattar med
 anledning av arbetet med övervakning av genomförandet av
 säkerhetsåtgärder ska bevaras i minst 5 år.
 
@@ -1457,7 +1457,7 @@ kapitel 3,
 fysiska säkerhetsåtgärder i enlighet med kapitel 4, och
 
 relevanta sektorsspecifika säkerhetsåtgärder i enlighet med kapitel
-5.
+5\.
 
 Ledningens ansvar för säkerhetsåtgärder
 
@@ -1467,15 +1467,15 @@ Ledningens ansvar att leda och styra arbetet med cybersäkerhet ska
 
 minst omfatta att
 
-1.
-2.
+1\.
+2\.
 
 ne
 
 Sn
-:
+\:
 
->
+\>
 
 H.
 
@@ -1502,7 +1502,7 @@ organisationens verksamheter,
 besluta om prioriteringsordning för återställning av verksamheter,
 besluta om vilka system som är sektorskritiska, och
 
-10. övervaka genomförandet av säkerhetsåtgärder.
+10\. övervaka genomförandet av säkerhetsåtgärder.
 
 78
 
@@ -1511,7 +1511,7 @@ Ledningen ska minst utse roller motsvarande samordnare,
 informationsägare och systemägare.
 Ledningen ska ge
 
-1.
+1\.
 
 samordnaren mandat att samordna och utvärdera arbetet med
 säkerhetsåtgärder som stöd för ledningens arbete med
@@ -1539,17 +1539,17 @@ Allmänna råd
 Ledningen bör utse systemägare för organisationens olika delar i den digitala
 miljön.
 
-8$ — Iledningens arbete med att övervaka genomförandet av
+8\$ — Iledningens arbete med att övervaka genomförandet av
 säkerhetsåtgärder ingår att vid behov men minst årligen informera sig om
 
-1. risker som bedöms som allvarliga för cybersäkerheten,
+1\. risker som bedöms som allvarliga för cybersäkerheten,
 
 status i arbetet med åtgärdsplaner,
 
 betydande incidenter,
 
 bristande cybersäkerhet hos leverantörer och i leveranskedjor,
-samordnarens utvärdering enligt 2 kap. 24 $,
+samordnarens utvärdering enligt 2 kap. 24 \$,
 
 resultat av intern och extern revision,
 
@@ -1564,9 +1564,9 @@ Ledningens utbildning om säkerhetsåtgärder
 
 I. ledningens roll i arbetet med cybersäkerhet,
 
-2. grundläggande terminologi och relevant reglering,
+2\. grundläggande terminologi och relevant reglering,
 
-3. riskhantering och övervakning som ett stöd för att leda och styra
+3\. riskhantering och övervakning som ett stöd för att leda och styra
 arbetet med cybersäkerhet,
 
 4, systematiskt och riskbaserat arbete, samt
@@ -1606,13 +1606,13 @@ kompetens avseende cybersäkerhet för att kunna omhänderta risker vid
 åtkomst till information och system.
 Interna regler ska minst ange
 
-1. vilka informationsinsatser som egen och inhyrd personal ska
+1\. vilka informationsinsatser som egen och inhyrd personal ska
 ta del av,
 
-2. vilka utbildningar och övningar som olika roller ska
+2\. vilka utbildningar och övningar som olika roller ska
 genomföra,
 
-3. när och hur informationsinsatser, utbildningar och övningar
+3\. när och hur informationsinsatser, utbildningar och övningar
 genomförs, och
 
 4, atttillgängliga och genomförda informationsinsatser,
@@ -1643,7 +1643,7 @@ relevanta tillsynsmyndigheter,
 det nationella samordningscentret för forskning och
 innovation inom cybersäkerhet (NCC-SE), samt
 
-8. Europeiska unionens cybersäkerhetsbyrå (ENISA).
+8\. Europeiska unionens cybersäkerhetsbyrå (ENISA).
 
 Uh BB LV bJ
 
@@ -1670,13 +1670,13 @@ Interna regler ska minst ange
 
 MSBFS
 [Fyll i nr|
-1. att informationsägaren ansvarar för att initiera arbetet med och
+1\. att informationsägaren ansvarar för att initiera arbetet med och
 fastställa resultatet av informationsklassning,
-2. vilka kriterier och nivåer som används vid bedömning av
+2\. vilka kriterier och nivåer som används vid bedömning av
 konsekvenser,
-3. att informationsklassning genomförs innan information
+3\. att informationsklassning genomförs innan information
 behandlas i system, samt
-4. attresultatet av informationsklassningen följs upp och
+4\. attresultatet av informationsklassningen följs upp och
 utvärderas vid behov men minst årligen.
 
 Allmänna råd
@@ -1693,32 +1693,32 @@ proportionella säkerhetsåtgärder.
 
 Interna regler ska minst ange
 
-1. attriskanalys genomförs
+1\. attriskanalys genomförs
 a) innan information behandlas i system, och
 b) vid förändrade hot och nya sårbarheter ,
-2. att uppgiften att initiera arbetet med och fastställa resultatet av
+2\. att uppgiften att initiera arbetet med och fastställa resultatet av
 riskanalysen utförs av
 a) informationsägaren avseende den information som
 denne ansvarar för, och
 b) systemägaren avseende de system och de delar av den
 digitala miljön som denne ansvarar för,
 
-3. attresultatet av informationsklassningen och risker som
+3\. attresultatet av informationsklassningen och risker som
 identifierats genom omvärldsbevakning används som ett
 ingångsvärde i riskanalysen,
 
-4. vilka kriterier och nivåer som används vid bedömning av
+4\. vilka kriterier och nivåer som används vid bedömning av
 konsekvenser och sannolikhet, samt
 
-5. att resultatet av riskanalysen följs upp och utvärderas vid
+5\. att resultatet av riskanalysen följs upp och utvärderas vid
 behov men minst årligen.
 
 158 Risker för system, segment och den digitala miljön ska identifieras,
 analyseras och värderas. I detta ingår att identifiera risker med
 
 Il. aggregering och ackumulering av information,
-2. användning av mobila system, och
-3. utkontraktering.
+2\. användning av mobila system, och
+3\. utkontraktering.
 
 <!-- sida 34 -->
 
@@ -1731,7 +1731,7 @@ dokumenteras i en åtgärdsplan eller motsvarande. I åtgärdsplanen ska minst
 anges
 
 -—
-:
+\:
 
 ww ba
 
@@ -1760,21 +1760,21 @@ minimera konsekvenserna av incidenter och tillbud i system.
 
 Interna regler ska minst ange
 
-1.
+1\.
 
 2
-3.
+3\.
 4
 
-10.
+10\.
 
-11.
+11\.
 
-12.
+12\.
 
-13.
+13\.
 
-14.
+14\.
 
 hur information om incidenter och tillbud samlas in,
 
@@ -1842,7 +1842,7 @@ Kontinuitetshantering
 nedsatt funktionalitet eller otillgänglighet i system i produktionsmiljön.
 Interna regler ska minst ange
 
-1.
+1\.
 
 hur konsekvenser av nedsatt funktionalitet och otillgänglighet hos
 system bedöms,
@@ -1870,7 +1870,7 @@ hur kontinuitet ska övas.
 
 198 Verksamhetsutövaren ska
 
-1.
+1\.
 
 identifiera och hantera behovet av redundanta funktioner för
 system i produktionsmiljön,
@@ -1900,16 +1900,16 @@ Interna regler ska minst ange
 I. hur roller, mandat och arbetsuppgifter fördelas vid kriser med
 olika ursprung och konsekvenser för produktionsmiljön,
 
-2. hur samverkan med berörda roller inom incident- och
+2\. hur samverkan med berörda roller inom incident- och
 kontinuitetshantering genomförs,
 
-3. fastställa när och hur roller som ska delta i arbetet vid en kris ska
+3\. fastställa när och hur roller som ska delta i arbetet vid en kris ska
 kontaktas,
 
-4. hur stöd och instruktioner från cyberkrishanteringsmyndigheten
+4\. hur stöd och instruktioner från cyberkrishanteringsmyndigheten
 omhändertas, och
 
-5. hur och när arbetssätt för olika kriser ska övas.
+5\. hur och när arbetssätt för olika kriser ska övas.
 
 Vid en cybersäkerhetskris ska verksamhetsutövaren på begäran av
 
@@ -1925,11 +1925,11 @@ Vid krishantering bör etablerad stabsmetodik och struktur användas.
 I. attteckna avtal med leverantörer om stöd före, under och efter en
 kris,
 
-2. tillgång till system för intern och extern kriskommunikation med
+2\. tillgång till system för intern och extern kriskommunikation med
 höga krav på robusthet och tillgänglighet för informationsdelning
 och samverkan under kriser, samt
 
-3. använda system för kriskommunikation som stöd för extern
+3\. använda system för kriskommunikation som stöd för extern
 informationsdelning och samverkan före, under och efter en kris.
 
 Allmänna råd
@@ -1976,22 +1976,22 @@ till externa krav, interna behov och risk utifrån minst följande underlag
 
 I. ledningens mål och inriktning,
 
-2. genomförda informationsklassningar,
+2\. genomförda informationsklassningar,
 
-3. genomförda riskanalyser,
+3\. genomförda riskanalyser,
 
-4. aktuella åtgärdsplaner,
+4\. aktuella åtgärdsplaner,
 
-5. utvärdering av säkerhetsåtgärder,
+5\. utvärdering av säkerhetsåtgärder,
 
-6. information om inträffade incidenter och tillbud samt
+6\. information om inträffade incidenter och tillbud samt
 
 genomförda grundorsaksanalyser,
 
-7. utvärdering av cybersäkerhet hos leverantörer och i
+7\. utvärdering av cybersäkerhet hos leverantörer och i
 leveranskedjor, samt
 
-3. genomförda interna och externa revisioner.
+3\. genomförda interna och externa revisioner.
 
 3 kap. Tekniska och driftrelaterade
 säkerhetsåtgärder
@@ -2027,7 +2027,7 @@ Innan avtal som innefattar att behandling av information
 
 utkontrakteras tecknas med en leverantör ska verksamhetsutövaren
 
-1.
+1\.
 
 b.
 
@@ -2101,11 +2101,11 @@ etablerade metoder för säker utveckling följs.
 58 — Innan ett beslut om att för första gången driftsätta ett system ska
 fattas, ska systemägaren minst kontrollera att
 
-1.
-2.
+1\.
+2\.
 
-3.
-4.
+3\.
+4\.
 
 5
 
@@ -2126,12 +2126,12 @@ verksamhetsutövarens digitala miljöer.
 68 Innan ett beslut om avveckling av ett system fattas, ska systemägaren
 minst kontrollera att
 
--
-2. åtgärdsplan för avveckling finns,
+\-
+2\. åtgärdsplan för avveckling finns,
 
-3.
+3\.
 
-4. informationsägaren beslutat om att avveckla behandlingen av
+4\. informationsägaren beslutat om att avveckla behandlingen av
 
 Åh
 
@@ -2147,14 +2147,14 @@ Driftrelaterad dokumentation
 över befintlig arkitektur. Dokumentationen ska minst beskriva
 
 I. hur den digitala miljön är indelad,
-2. vad respektive del innhåller avseende
+2\. vad respektive del innhåller avseende
 
 a) segment
 b) system,
 c) hårdvara,
 d) mjukvara, och
 
-3. aktuella informationsflöden
+3\. aktuella informationsflöden
 
 e) mellan olika delar i den digitala miljön,
 f) mellan interna system, samt
@@ -2175,10 +2175,10 @@ Arkitekturen bör visualiseras i en systemkarta.
 88 För varje system som används i produktionsmiljön ska det finnas
 uppdaterad dokumentation över
 
-1.
+1\.
 
 2
-3.
+3\.
 4
 
 fastställd systemägare,
@@ -2191,16 +2191,16 @@ förekomsten av information som vid informationsklassning
 | bedömts ha behov av utökat skydd,
 
 9
-10.
+10\.
 ”-
 
-12.
-13.
-14.
-15.
-16.
+12\.
+13\.
+14\.
+15\.
+16\.
 
-17.
+17\.
 
 vilken egen verksamhet systemet stödjer,
 
@@ -2240,10 +2240,10 @@ ip-adress.
 
 108 Det ska finnas en uppdaterad förteckning över
 
--
-2.
+\-
+2\.
 
-3.
+3\.
 
 vilka system som är sektorskritiska,
 
@@ -2278,12 +2278,12 @@ minst följande placeras i separata segment
 In Bl bI
 
 en
-:
+\:
 
 Sd
 
 De
-9.
+9\.
 
 klienter för användare,
 
@@ -2302,13 +2302,13 @@ system som sammankopplas med system hos leverantör,
 
 externt åtkomliga tjänster, och
 
-10. system som innehåller sårbarheter som inte kan hanteras.
+10\. system som innehåller sårbarheter som inte kan hanteras.
 
 Allmänna råd
 
 Följande centrala säkerhetsfunktioner bör placeras i separata segment
 
-1. filtrering av extern kommunikation,
+1\. filtrering av extern kommunikation,
 behörighetskontroll,
 säkerhetsloggning,
 säkerhetskopiering, och
@@ -2318,7 +2318,7 @@ ARB YN
 
 128 Verksamhetsutövaren ska identifiera och hantera behovet av
 
-1.
+1\.
 
 att placera varje system, ett begränsat antal system eller system
 med liknande funktion, användning eller skyddsbehov i separata
@@ -2371,7 +2371,7 @@ när behörigheter ska ändras eller återkallas,
 hur autentiseringsuppgifter ska utformas avseende längd och
 komplexitet, samt
 
-7. hur autentiseringsuppgifter byts, distribueras och skyddas.
+7\. hur autentiseringsuppgifter byts, distribueras och skyddas.
 
 wN
 
@@ -2384,15 +2384,15 @@ Allmänna råd
 
 Interna regler för behörighetshantering bör ange
 
-1.  atten digital identitet i produktionsmiljön endast får användas av en
+1\.  atten digital identitet i produktionsmiljön endast får användas av en
 användare eller ett system,
 
-2. tidsbegränsningar för tilldelade digitala identiteter och behörigheter,
+2\. tidsbegränsningar för tilldelade digitala identiteter och behörigheter,
 
-3. hur många misslyckade inloggningsförsök som tillåts innan en digital
+3\. hur många misslyckade inloggningsförsök som tillåts innan en digital
 identitets ska låsas, och
 
-4. att kontroll av behörighet ska genomföras innan åtkomst ges till centrala
+4\. att kontroll av behörighet ska genomföras innan åtkomst ges till centrala
 stödfunktioner i form av skrivare, scanner och liknande.
 
 168 Verksamhetsutövaren ska
@@ -2400,10 +2400,10 @@ stödfunktioner i form av skrivare, scanner och liknande.
 Il. säkerställa att varje digital identitet inte tilldelas behörighet till
 mer information eller fler system än nödvändigt,
 
-2. säkerställa att digitala identiteter som används i produktionsmiljön
+2\. säkerställa att digitala identiteter som används i produktionsmiljön
 inte används i utvecklings-, test- och utbildningsmiljö,
 
-3. vid behov men minst årligen kontrollera om tilldelade digitala
+3\. vid behov men minst årligen kontrollera om tilldelade digitala
 identiteter och behörigheter fortfarande ska kunna användas, samt
 
 17
@@ -2412,7 +2412,7 @@ identiteter och behörigheter fortfarande ska kunna användas, samt
 
 MSBFS
 [Fyll i nr]
-4. identifiera och hantera behovet av att använda tekniska system
+4\. identifiera och hantera behovet av att använda tekniska system
 
 som stöd för efterlevnad av interna regler och arbetssätt för
 behörighetshantering och autentisering.
@@ -2436,9 +2436,9 @@ fördela behörigheter i olika kataloger.
 
 Allmänna råd
 I produktionsmiljön bör verksamhetsutövaren använda olika kataloger för
-1. it-segment,
-2. ot-segment, och
-3. publika tjänster som kräver inloggning.
+1\. it-segment,
+2\. ot-segment, och
+3\. publika tjänster som kräver inloggning.
 
 Verksamhetsutövaren bör använda olika kataloger för utvecklings-, test- och
 utbildningsmiljö.
@@ -2450,8 +2450,8 @@ flerfaktorsautentisering användas.
 I produktionsmiljön ska flerfaktorsautentisering användas för
 
 Il. egen och inhyrd personals åtkomst via externt nätverk,
-2. leverantörers åtkomst via externt nätverk, och
-3. systemadministrativ åtkomst till system i nätverk.
+2\. leverantörers åtkomst via externt nätverk, och
+3\. systemadministrativ åtkomst till system i nätverk.
 
 Verksamhetsutövaren ska identifiera och hantera övrigt behov av
 flerfaktorsautentisering i sin digitala miljö.
@@ -2488,19 +2488,19 @@ Säkerhetsloggning och logganalys
 tekniska fel och brister i cybersäkerheten kan upptäckas och utredas.
 Interna regler ska minst ange
 
-1. vilka säkerhetsrelaterade händelser som ska säkerhetsloggas,
+1\. vilka säkerhetsrelaterade händelser som ska säkerhetsloggas,
 
-2. tidpunkt för när säkerhetsloggning ska genomföras,
+2\. tidpunkt för när säkerhetsloggning ska genomföras,
 
-3. hur säkerhetsloggar ska utformas och vilka ytterligare uppgifter
-som säkerhetsloggarna ska innehålla utöver 26 $;
+3\. hur säkerhetsloggar ska utformas och vilka ytterligare uppgifter
+som säkerhetsloggarna ska innehålla utöver 26 \$;
 
-4. hur säkerhetsloggar ska skyddas mot obehörig åtkomst, obehörig
+4\. hur säkerhetsloggar ska skyddas mot obehörig åtkomst, obehörig
 förändring och fysisk skada,
 
-5. var säkerhetsloggar ska lagras och hur länge de ska bevaras, samt
+5\. var säkerhetsloggar ska lagras och hur länge de ska bevaras, samt
 
-6. när och hur säkerhetsloggar ska analyseras och av vem.
+6\. när och hur säkerhetsloggar ska analyseras och av vem.
 
 Allmänna råd
 
@@ -2515,8 +2515,8 @@ loggas
 
 I. åtkomst till produktionsmiljön som förutsätter tilldelad behörighet,
 
-2. åtkomst till system som förutsätter tilldelad behörighet,
-3. försök till obehörig åtkomst och obehörig åtkomst till
+2\. åtkomst till system som förutsätter tilldelad behörighet,
+3\. försök till obehörig åtkomst och obehörig åtkomst till
 
 a) produktionsmiljön,
 b) it- och ot-segment,
@@ -2534,12 +2534,12 @@ LKn
 MSBFS
 [Fyll i nr|
 
-6. förändring av behörighet för användare och system,
+6\. förändring av behörighet för användare och system,
 
-7. åtkomst till information som vid informationsklassning bedömts
+7\. åtkomst till information som vid informationsklassning bedömts
 ha behov av utökat skydd, samt
 
-8. händelser som upptäckts genom övervakning och indikerar brister
+8\. händelser som upptäckts genom övervakning och indikerar brister
 1 cybersäkerheten.
 
 258 Verksamhetsutövaren ska identifiera och hantera behovet av
@@ -2550,11 +2550,11 @@ säkerhetsloggning i utvecklings-, test- och utbildningsmiljö.
 I. vilken användare eller vilket system som givit upphov till
 händelsen,
 
-2. vilken händelse som inträffat,
+2\. vilken händelse som inträffat,
 
-3. vilken information som har påverkats, och
+3\. vilken information som har påverkats, och
 
-4. vid vilken tidpunkt händelsen inträffade.
+4\. vid vilken tidpunkt händelsen inträffade.
 
 Säkerhetsloggarna ska utformas på ett sätt som möjliggör jämförbarhet
 mellan olika loggar. Loggarna ska vara tillgängliga för analys under
@@ -2584,7 +2584,7 @@ skadlig kod för system i it-segment där sådan mjukvara finns tillgänglig.
 Verksamhetsutövaren ska identifiera och hantera
 Il. risker om mjukvara som ger skydd mot skadlig kod inte finns
 tillgänglig, och
-2. behovet av att endast tillåta mjukvara som på förhand godkänts för
+2\. behovet av att endast tillåta mjukvara som på förhand godkänts för
 installation eller användning.
 
 20
@@ -2605,16 +2605,16 @@ obehörig förändring vid överföring och lagring.
 Interna regler ska minst ange
 I. hur nationella rekommendationer från det nationella
 cybersäkerhetscentret (NCSC) gällande kryptering omhändertas,
-2. kriterier för val och godkännande av krypteringsalgoritmer,
+2\. kriterier för val och godkännande av krypteringsalgoritmer,
 krypteringsprotokoll och nyckellängder, samt
-3. när och hur krypteringsnycklar genereras, distribueras, används,
+3\. när och hur krypteringsnycklar genereras, distribueras, används,
 återkallas och förstörs.
 
 318 Kryptering ska användas i verksamhetsutövarens digitala miljö för
 att minst skydda
 
 I. säkerhetsloggar, och
-2. autentiseringsuppgifter.
+2\. autentiseringsuppgifter.
 
 328 Information som vid informationsklassning bedömts ha behov av
 utökat skydd ska skyddas med kryptering vid överföring till system utanför
@@ -2631,8 +2631,8 @@ av säkerhet som identifierats.
 
 Som minst ska
 
-1. förinställda autentiseringsuppgifter bytas ut, och
-2. funktioner som inte behövs tas bort, stängas av eller blockeras.
+1\. förinställda autentiseringsuppgifter bytas ut, och
+2\. funktioner som inte behövs tas bort, stängas av eller blockeras.
 
 Allmänna råd
 
@@ -2661,9 +2661,9 @@ Säkerhetstester ska användas för att minst kontrollera att
 
 Il. systemen är uppdaterade,
 
-2. konfigurationer omhändertar publicerade sårbarheter, samt
+2\. konfigurationer omhändertar publicerade sårbarheter, samt
 
-3. valda tekniska säkerhetsåtgärder för system, segment och digitala
+3\. valda tekniska säkerhetsåtgärder för system, segment och digitala
 miljö är genomförda och möter identifierade behov av
 cybersäkerhet.
 
@@ -2697,7 +2697,7 @@ hur återläsning av säkerhetskopior kontrolleras.
 IA RB lb
 
 en
-:
+\:
 
 Säkerhetskopiorna ska skyddas mot obehörig åtkomst, obehörig
 förändring och fysisk skada. Minst en säkerhetskopia ska skyddas mot
@@ -2707,10 +2707,10 @@ informationen hämtats ifrån.
 Allmänna råd
 Verksamhetsutövaren bör
 
-1. bedöma programvara, konfiguration och information separat
+1\. bedöma programvara, konfiguration och information separat
 avseende vad som ska säkerhetskopieras och hur ofta,
 
-2. använda tekniskt systemstöd för att kontrollera att information på
+2\. använda tekniskt systemstöd för att kontrollera att information på
 säkerhetskopior är korrekt och komplett, samt
 
 22
@@ -2720,7 +2720,7 @@ säkerhetskopior är korrekt och komplett, samt
 MSBFS
 [Fyll i nr]
 
-3. kontrollera att information kan återställas från säkerhetskopior inom
+3\. kontrollera att information kan återställas från säkerhetskopior inom
 acceptabla tider för nedsatt funktionalitet och otillgänglighet vid större
 förändringar av produktionsmiljön men minst årligen.
 
@@ -2750,7 +2750,7 @@ Interna regler ska minst ange
 Il. kriterier för när och hur uppdateringar och uppgraderingar ska
 genomföras i it- och ot-segment, samt
 
-2. hur beslut om att genomföra ändringar fattas så att endast
+2\. hur beslut om att genomföra ändringar fattas så att endast
 godkända ändringar genomförs.
 
 Allmänna råd
@@ -2762,7 +2762,7 @@ genomföras i utvecklings-, test- och utbildningsmiljö.
 säkerheten påverkas när
 |. system, it-segment, ot-segment och olika delar av den digitala
 miljön införs, uppgraderas, uppdateras och avvecklas, samt
-2. uppdatering eller uppgradering inte kan genomföras i enlighet med
+2\. uppdatering eller uppgradering inte kan genomföras i enlighet med
 fastställda kriterier eller pågående ändring behöver avbrytas.
 
 428 Iit-segment ska säkerhetsuppdateringar genomföras utan onödigt
@@ -2793,9 +2793,9 @@ Lokaler
 mot obehörigt tillträde för att undvika obehörig fysisk åtkomst till, förlust av
 och fysisk skada på system genom att minst
 
-1. ha ett för verksamheten anpassat skalskydd, samt
+1\. ha ett för verksamheten anpassat skalskydd, samt
 
-2. dela in sina lokaler i fysiskt separerade sektioner utifrån
+2\. dela in sina lokaler i fysiskt separerade sektioner utifrån
 resultat av informationsklassning och riskanalys avseende den
 information som ska behandlas i lokalerna.
 
@@ -2803,17 +2803,17 @@ information som ska behandlas i lokalerna.
 
 I. tillträdesbegränsning till lokaler och sektioner,
 
-2. övervakning av lokaler och sektioner samt av att agera på larm vid
+2\. övervakning av lokaler och sektioner samt av att agera på larm vid
 obehörigt tillträde,
 
-3. att kontrollera egen och inhyrd personals samt besökares identitet
+3\. att kontrollera egen och inhyrd personals samt besökares identitet
 innan de ges tillträde till lokaler och sektioner,
 
-4. särskild sektion för besökare,
+4\. särskild sektion för besökare,
 
-5. att inrätta sektioner i form av särskilda it-utrymmen, och
+5\. att inrätta sektioner i form av särskilda it-utrymmen, och
 
-6. ytterliga indelning i sektioner inom särskilda it-utrymmen.
+6\. ytterliga indelning i sektioner inom särskilda it-utrymmen.
 
 38 Särskilda it-utrymmen ska förses med övervakning och larm.
 Tillträde till särskilda it-utrymmen ska tilldelas restriktivt och registreras på
@@ -2825,11 +2825,11 @@ lokaler mot
 
 Il. brand,
 
-2. vattenskador,
+2\. vattenskador,
 
-3. onormal luftfuktighet, och
+3\. onormal luftfuktighet, och
 
-4. onormal temperatur.
+4\. onormal temperatur.
 
 24
 
@@ -2855,7 +2855,7 @@ produktionsmiljö avseende
 
 I. elförsörjning,
 
-2. elektroniska kommunikationsnät och elektroniska
+2\. elektroniska kommunikationsnät och elektroniska
 kommunikationstjänster,
 kyla,
 värme, och
@@ -2868,7 +2868,7 @@ bildad
 larm genereras vid otillräcklig funktion vid på förhand fastställda nivåer i
 produktionsmiljön.
 
-8$ :Verksamhetsutövaren ska identifiera och hantera behovet av
+8\$ :Verksamhetsutövaren ska identifiera och hantera behovet av
 
 tillräcklig funktion och redundans hos tekniska försörjningssystem i
 utvecklings-, test- och utbildningsmiljö.
@@ -2899,7 +2899,7 @@ Myndigheten för samhällsskydd och beredskap får i enskilda fall och om
 det finns särskilda skäl medge undantag från tillämpningen av dessa
 föreskrifter.
 
-1. Dessa föreskrifter och allmänna råd träder i kraft
+1\. Dessa föreskrifter och allmänna råd träder i kraft
 [Klicka och skriv tidsangivelse].
 
 Myndigheten för samhällsskydd och beredskap
@@ -2977,7 +2977,7 @@ in
 7
 [+]
 An
-=
+\=
 
 <!-- sida 53 -->
 
@@ -3048,7 +3048,7 @@ medlemmarna i entiteters ledningsorgan är skyldiga att genomgå utbildning.
 Detta krav införs i svensk reglering genom 2 kap. 4 8 cybersäkerhetslagen.
 
 Förslaget till föreskrifter och allmänna råd om säkerhetsåtgärder och
-utbildning avser verksamhetsutövarens skyldighet enligt 2 kap. 3 $
+utbildning avser verksamhetsutövarens skyldighet enligt 2 kap. 3 \$
 cybersäkerhetslagen att vidta säkerhetsåtgärder samt ledningens skyldighet att
 genomgå utbildning om säkerhetsåtgärder enligt 2 kap. 4 8
 cybersäkerhetslagen. Föreskrifterna och tillhörande vägledning syftar till att
@@ -3146,7 +3146,7 @@ tjänster. I SOU 2024:18 — Genomförande av NIS2- och CER-direktiven föreslog
 att ett motsvarande krav även skulle finnas i den nya cybersäkerhetslagen. Det
 framgår dock av propositionen? att kravet på att bedriva ett systematiskt och
 riskbaserat arbete redan bedöms följa av säkerhetskraven som ställs på
-verksamhetsutövarna enligt artikel 21 punkt 1 i NIS2-direktivet och 2 kap. 3 $
+verksamhetsutövarna enligt artikel 21 punkt 1 i NIS2-direktivet och 2 kap. 3 \$
 cybersäkerhetslagen. Införandet av ett separat krav skulle därför enligt
 regeringen innebära dubbelreglering. Föreskrifterna och de allmänna råden
 samt därtill hörande vägledning behöver därför förtydliga att ett systematiskt
@@ -3158,11 +3158,11 @@ Organisationer som omfattas av det första NIS-direktivets tillämpningsområde,
 det vill säga samhällsviktiga och digitala leverantörer omfattas i dag av
 föreskrifter och allmänna råd från MSB. Dessa regler gäller det systematiska
 och riskbaserade informationssäkerhetsarbete som leverantörer av
-samhällsviktiga tjänster ska bedriva enligt 11 $ lagen (2018:1174) om
+samhällsviktiga tjänster ska bedriva enligt 11 \$ lagen (2018:1174) om
 informationssäkerhet för samhällsviktiga och digitala tjänster.
 
 Flera av de utpekade tillsynsmyndigheterna har också utfärdat föreskrifter och
-allmänna råd med krav på säkerhetsåtgärder enligt 12 — 14 $$ i samma lag.
+allmänna råd med krav på säkerhetsåtgärder enligt 12 — 14 \$\$ i samma lag.
 Kraven gäller nätverks- och informationssystem för samhällsviktiga tjänster
 inom följande sektorerna:
 
@@ -3214,7 +3214,7 @@ cyberfysiska system och deras särskilda förutsättning.
 
 Uppföljning av konsekvenser av föreskrifter och allmänna råd
 
-Enligt 7 $ 5 p i förordningen (2024:183) om konsekvensutredningar ska en
+Enligt 7 \$ 5 p i förordningen (2024:183) om konsekvensutredningar ska en
 myndighet följa upp konsekvenser av sina föreskrifter och allmänna råd. En
 första uppföljning kommer att ske så snart det är möjligt att utvärdera
 reglernas effekter och därefter regelbundet.
@@ -3394,7 +3394,7 @@ motsvarar artikel 21 punkt 2 NIS2-direktivet.
 Nedan följer en övergripande redovisning av hur lagkraven förtydligats och
 konkretiserats i föreskrifter och allmänna råd.
 
-Av 2 kap. 3 $ första och andra stycket cybersäkerhetslagen framgår att
+Av 2 kap. 3 \$ första och andra stycket cybersäkerhetslagen framgår att
 verksamhetsutövare ska vidta lämpliga och proportionella tekniska,
 driftsrelaterade och organisatoriska åtgärder för att skydda nätverk och
 informationssystem som de använder för sin verksamhet eller för att
@@ -3427,7 +3427,7 @@ högre behov av säkerhet än de krav som anges i föreskrifter och allmänna r�
 Säkerhetsåtgärderna ska enligt 2 kap. 3 8 andra stycket p. 1—-10
 cybersäkerhetslagen åtminstone avse
 
-1. strategier för riskanalys och för nätverk och informationssystemens säkerhet.
+1\. strategier för riskanalys och för nätverk och informationssystemens säkerhet.
 Omhändertas i föreskrifter och allmänna råd främst genom kraven på
 verksamhetsutövaren avseende riskhantering (2 kap. 14 — 16 88),
 informationsklassning (2 kap. 13 8), och omvärldsbevakning (2 kap. 12
@@ -3435,7 +3435,7 @@ informationsklassning (2 kap. 13 8), och omvärldsbevakning (2 kap. 12
 föreskriften i sin helhet stöd för verksamhetsutövarens utformning av
 det arbetet.
 
-2. incidenthantering,
+2\. incidenthantering,
 
 Omhändertas i föreskrifter och allmänna råd främst genom kraven på
 verksamhetsutövaren avseende incidenthantering (2 kap. 17 8),
@@ -3443,24 +3443,24 @@ omvärldsbevakning (2 kap. 12 8), driftrelaterad dokumentation (3 kap.
 7 — 10 88) och säkerhetsloggning och logganalys (3 kap. 22 - 27 88),
 robust och spårbar tid (3 kap. 28 8).
 
-3. kontinuitetshantering och krishantering,
+3\. kontinuitetshantering och krishantering,
 Omhändertas i föreskrifter och allmänna råd främst genom kraven på
 
 verksamhetsutövaren avseende kontinuitetshantering (2 kap, 18 - 20
 
 88), krishantering (2 kap. 21 och 22 88).
 
-4. säkerhet i leveranskedjan,
+4\. säkerhet i leveranskedjan,
 
 Omhändertas i föreskrifter och allmänna råd främst genom kraven på
 verksamhetsutövaren avseende förvärv, utveckling och underhåll av
 
 <!-- sida 62 -->
 
-system (3 kap. 1-6 88), riskhantering (2 kap. 14-16 $,$, 3 kap. 3 8) och
+system (3 kap. 1-6 88), riskhantering (2 kap. 14-16 \$,\$, 3 kap. 3 8) och
 kontinuitetshantering (2 kap. 18 - 20 88),
 
-5. säkerhet vid förvärv, utveckling och underhåll av nätverk och
+5\. säkerhet vid förvärv, utveckling och underhåll av nätverk och
 informationssystem,
 
 Omhändertas i föreskrifter och allmänna råd främst genom kraven på
@@ -3470,7 +3470,7 @@ system (3 kap. 1-6 88) och uppföljning och utvärdering (2 kap. 23 och
 verksamhetsutövaren behöver ställa på säkerhetsåtgärder i den egna
 organisationen eller som krav på leverantör
 
-6. strategier och förfaranden för att bedöma effektiviteten i
+6\. strategier och förfaranden för att bedöma effektiviteten i
 säkerhetsåtgärderna,
 
 Omhändertas i föreskrifter och allmänna råd främst genom kraven på
@@ -3478,30 +3478,30 @@ verksamhetsutövaren avseende uppföljning och utvärdering (2 kap. 23
 och 24 88) och ledningens arbete med att övervaka genomförandet av
 säkerhetsåtgärder (2 kap. 8 8) och omvärldsbevakning (2 kap. 12 8).
 
-7. grundläggande praxis för cyberhygien och utbildning i cybersäkerhet,
+7\. grundläggande praxis för cyberhygien och utbildning i cybersäkerhet,
 
 Omhändertas i föreskrifter och allmänna råd främst genom kraven på
 verksamhetsutövaren avseende personalsäkerhet rörande kunskap och
 kompetens (2 kap. 11 8).
 
-8. strategier och förfaranden för användning av kryptografi samt, vid behov,
+8\. strategier och förfaranden för användning av kryptografi samt, vid behov,
 
 kryptering,
 
 Omhändertas i föreskrifter och allmänna råd främst genom kraven på
 verksamhetsutövaren avseende kryptering (3 kap. 30 — 33 88).
 
-9. personalsäkerhet, strategier för åtkomstkontroll och tillgångsförvaltning,
+9\. personalsäkerhet, strategier för åtkomstkontroll och tillgångsförvaltning,
 
 Omhändertas i föreskrifter och allmänna råd främst genom kraven på
 verksamhetsutövaren avseende personalsäkerhet (2 kap. 10 och 11 88),
 segmentering och filtrering (3 kap. 11 — 14 88), behörighetshantering
-och autentisering (3 kap. 15 — 21 $$), säkerhetsloggning och logganalys
+och autentisering (3 kap. 15 — 21 \$\$), säkerhetsloggning och logganalys
 (3 kap. 22 — 27 88), robust och spårbar tid (3 kap. 28 8), övervakning av
 system (3 kap. 38 och 39 88) och driftrelaterad dokumentation (3 kap.
 7-10 88).
 
-10. vid behov användning av lösningar för autentisering, säkrade
+10\. vid behov användning av lösningar för autentisering, säkrade
 
 kommunikationer och säkrade nödkommunikationssystem.
 
@@ -3569,14 +3569,14 @@ domännamnsregistrering.
 
 Detsamma gäller
 
-1. verksamhet som är väsentlig för att upprätthålla kritiska funktioner i
+1\. verksamhet som är väsentlig för att upprätthålla kritiska funktioner i
 samhället och ekonomiska funktioner,
 
-2. om en störning i verksamheten kan ha en betydande påverkan på skyddet för
+2\. om en störning i verksamheten kan ha en betydande påverkan på skyddet för
 människors liv och hälsa, allmän säkerhet, folkhälsa eller medföra betydande
 systemrisker särskilt om det får gränsöverskridande konsekvenser, eller
 
-3. verksamhet som är kritisk på grund av sin särskilda betydelse på nationell
+3\. verksamhet som är kritisk på grund av sin särskilda betydelse på nationell
 eller regional nivå för en särskild sektor eller typ av tjänst, eller för andra
 sektorer som är beroende av denna verksamhet.
 
@@ -3683,8 +3683,8 @@ troligen redan är väl insatta i tjänsternas betydelse för samhällets funkti
 Detta gäller särskilt de som bedriver sådan verksamhet som bedöms som
 väsentlig i NIS2-direktivet. De flesta verksamhetsutövare bedöms därför redan,
 med hänsyn till sin storlek och den verksamhet de bedriver,
-- — arbeta med cybersäkerhet utifrån kända hot och identifierade risker
-- redan, helt eller delvis, ha implementerat majoriteten av sådana
+\- — arbeta med cybersäkerhet utifrån kända hot och identifierade risker
+\- redan, helt eller delvis, ha implementerat majoriteten av sådana
 säkerhetsåtgärder som det är allmänt vedertaget att en organisation ska
 ha och således även majoriteten av de säkerhetsåtgärder som regleras i
 föreskrifterna.
@@ -4335,7 +4335,7 @@ in
 7
 [+]
 An
-=
+\=
 
 <!-- sida 79 -->
 
@@ -4385,16 +4385,16 @@ informationsskyldighet
 Förslaget till föreskrifter och allmänna råd om incidentrapportering och
 informationsskyldighet syftar till att förtydliga
 
-- vad som utgör en betydande incident enligt 2 kap. 5 8 andra stycket
+\- vad som utgör en betydande incident enligt 2 kap. 5 8 andra stycket
 cybersäkerhetslagen,
 
-- vilka uppgifter som verksamhetsutövare ska inkomma med vid
-rapportering av en betydande incident enligt 2 kap. 5-8 $$
+\- vilka uppgifter som verksamhetsutövare ska inkomma med vid
+rapportering av en betydande incident enligt 2 kap. 5-8 \$\$
 cybersäkerhetslagen, och
 
 <!-- sida 80 -->
 
-- hur verksamhetsutövaren ska uppfylla informationsskyldigheten
+\- hur verksamhetsutövaren ska uppfylla informationsskyldigheten
 gentemot mottagare av dess tjänster avseende betydande incidenter
 eller betydande cyberhot i enlighet med 2 kap. 9-10 88
 cybersäkerhetslagen.
@@ -4530,7 +4530,7 @@ verksamhetsutövarna vid respektive rapporteringstillfälle. Till detta kommer
 att Kommissionen enligt samma artikel p. 11 får anta
 genomförandeförordningar som närmare anger typen av uppgifter i och
 formatet och förfarandet för incidentrapportering. Rapportering av betydande
-incidenter regleras i 2 kap. 5 — 8 $$ cybersäkerhetslagen. I lagen framgår dock
+incidenter regleras i 2 kap. 5 — 8 \$\$ cybersäkerhetslagen. I lagen framgår dock
 endast att verksamhetsutövaren ska lämna olika typer av rapporter vid
 specificerade tidpunkter och inte vilken information som ska lämnas.
 
@@ -4644,16 +4644,16 @@ toppdomäner, DNS-tjänster eller domännamnsregistrering.
 
 Detsamma gäller
 
-1. verksamhet som är väsentlig för att upprätthålla kritiska funktioner i
+1\. verksamhet som är väsentlig för att upprätthålla kritiska funktioner i
 samhället och ekonomiska funktioner,
 
-2. om en störning i verksamheten kan ha en betydande påverkan på skyddet för
+2\. om en störning i verksamheten kan ha en betydande påverkan på skyddet för
 människors liv och hälsa, allmän säkerhet, folkhälsa eller medföra betydande
 systemrisker särskilt om det får gränsöverskridande konsekvenser, eller
 
 <!-- sida 85 -->
 
-3. verksamhet som är kritisk på grund av sin särskilda betydelse på nationell
+3\. verksamhet som är kritisk på grund av sin särskilda betydelse på nationell
 eller regional nivå för en särskild sektor eller typ av tjänst, eller för andra
 sektorer som är beroende av denna verksamhet.
 
@@ -4729,7 +4729,7 @@ säkerhetsåtgärder och vad som avses med betydande incident för sådana
 verksamhetsutövare som tillhandahåller olika digitala tjänster och
 infrastrukur.?
 
-$ Uppdrag till Myndigheten för samhällsskydd och beredskap att förbereda
+\$ Uppdrag till Myndigheten för samhällsskydd och beredskap att förbereda
 genomförandet av NIS 2-direktivet (Fö2025/01293)
 
 7 Uppdrag till Post- och telestyrelsen att förbereda genomförandet av NIS 2-
@@ -5428,12 +5428,12 @@ kollektivtrafik. I kollektivtrafiklagen som inrättades 2012, regleras den lokal
 regionala kollektivtrafiken. Regional kollektivtrafik definieras i lagen som ”sådan
 kollektivtrafik som äger rum inom ett län eller om den sträcker sig över flera län,
 med avseende på trafikutbudet huvudsakligen är ägnad att tillgodose resenärernas
-behov av arbets- och studiependling eller annat vardagsresande* och som med
+behov av arbets- och studiependling eller annat vardagsresande\* och som med
 
 hänsyn till sitt faktiska nyttjande tillgodoser ett sådant behov”. Beslut om allmän
 trafikplikt gäller regional kollektivtrafik.
 
-*Med arbets- och studieresor samt annat
+\*Med arbets- och studieresor samt annat
 
 vardagsresande avses miljövänliga och
 energieffektiva transportsätt för att nå skolor,
@@ -5665,25 +5665,25 @@ taxiförsörjning i länet.
 Närmare om innehållet i regionala trafikförsörjningsprogram
 10 § Ett regionalt trafikförsörjningsprogram ska innehålla en redovisning av:
 
-1. behovet av regional kollektivtrafik i länet samt mål för
+1\. behovet av regional kollektivtrafik i länet samt mål för
 kollektivtrafikförsörjningen,
 
-2. alla former av regional kollektivtrafik i länet, både trafik som bedöms kunna
+2\. alla former av regional kollektivtrafik i länet, både trafik som bedöms kunna
 utföras på kommersiell grund och trafik som myndigheten avser att ombesörja på
 grundval av allmän trafikplikt,
 
-3. åtgärder för att skydda miljön,
+3\. åtgärder för att skydda miljön,
 
-4. tidsbestämda mål och åtgärder för anpassning av kollektivtrafik med hänsyn till
+4\. tidsbestämda mål och åtgärder för anpassning av kollektivtrafik med hänsyn till
 behov hos personer med funktionsnedsättning,
 
-5. de bytespunkter och linjer som ska vara fullt tillgängliga för alla resenärer, samt
+5\. de bytespunkter och linjer som ska vara fullt tillgängliga för alla resenärer, samt
 
 5
 
 <!-- sida 108 -->
 
-6. omfattningen av trafik enligt lagen (1997:736) om färdtjänst och lagen (1997:735)
+6\. omfattningen av trafik enligt lagen (1997:736) om färdtjänst och lagen (1997:735)
 om riksfärdtjänst och grunderna för prissättningen för resor med sådan trafik, i den
 mån uppgifter enligt dessa lagar har överlåtits till den regionala
 kollektivtrafikmyndigheten.
@@ -6101,10 +6101,10 @@ tillväxt i utvecklingen av kollektivtrafiken säkerställs att kollektivtrafike
 regionens långsiktiga ambitioner inom bland annat näringslivsutveckling, attraktiva
 livsmiljöer och omställningen till ett fossilfritt transportsystem.
 
-Koppling till Regional fysisk plan Halland 2050* (RFP)
+Koppling till Regional fysisk plan Halland 2050\* (RFP)
 
-*Regional fysisk plan för Halland är under framtagande. Beslut om antagande är planerat i juni
-2026. Trafikförsörjningsprogrammet revideras parallellt med att Regional fysisk plan tas fram. I
+\*Regional fysisk plan för Halland är under framtagande. Beslut om antagande är planerat i juni
+2026\. Trafikförsörjningsprogrammet revideras parallellt med att Regional fysisk plan tas fram. I
 
 samband med detta är det viktigt att säkerställa kopplingen mellan de båda dokumenten i
 remissförfarandet.
@@ -6633,7 +6633,7 @@ Tätort-inv.antal
 300-499 5 - -
 500-999 7 - -
 1000-2999 10 6 5
->3000 18 10 6
+\>3000 18 10 6
 
 4.5 Kollektivtrafikens infrastruktur
 
@@ -7239,7 +7239,7 @@ och Fjärås som utvecklingsort i den kommunala översiktsplanen.
 Befolkningsutvecklingen i Fjärås har varit stabil och kommunen planerar för
 
 ytterligare tillväxt, vilket förväntas stärka pendlingsflödena ytterligare fram mot
-2050. Stråket utgör därför en viktig del i regionens ambition att förstärka
+2050\. Stråket utgör därför en viktig del i regionens ambition att förstärka
 kollektivtrafikens roll i vardagsresandet och minska bilberoendet.
 
 Varberg-Kungsbacka-(Göteborg)
@@ -8655,7 +8655,7 @@ Dessutom förväntas tre nya tågstationer i Halland tas i drift före år 2030.
 Tillsammans med nya kapacitetsstarka Öresundståg med högre hastighet skapas
 
 förutsättningar att uppnå visionen om att Halland ska vara den bästa livsplatsen år
-2035.
+2035\.
 
 Nya satsningar på kollektivtrafiken behöver motiveras med hög samhällsnytta. Det
 utbud som myndigheten tar ansvar för är det som bedöms vara regionalt motiverat
@@ -9057,66 +9057,66 @@ Vid eventuella frågor kontakta Ludvig Simonsson på:
 Ludvig.Simonsson@regionhalland.se
 
 Remissinstanser
-1. Falkenbergs kommun
-2. Halmstad kommun
-3. Hylte kommun
-4. Kungsbacka kommun
-5. Laholms kommun
-6. Varbergs kommun
-7. Båstads kommun
-8. Gislaveds kommun
-9. Göteborgs stad
-10. Mölndals stad
-11. Marks kommun
-12. Svenljunga
-13. Ljungby kommun
-14. Örkelljunga kommun
-15. Ängelholms kommun
-16. Värnamo kommun
-17. Markaryds kommun
-18. Länsstyrelsen i Halland
+1\. Falkenbergs kommun
+2\. Halmstad kommun
+3\. Hylte kommun
+4\. Kungsbacka kommun
+5\. Laholms kommun
+6\. Varbergs kommun
+7\. Båstads kommun
+8\. Gislaveds kommun
+9\. Göteborgs stad
+10\. Mölndals stad
+11\. Marks kommun
+12\. Svenljunga
+13\. Ljungby kommun
+14\. Örkelljunga kommun
+15\. Ängelholms kommun
+16\. Värnamo kommun
+17\. Markaryds kommun
+18\. Länsstyrelsen i Halland
 
-19. Trafikverket Region Väst
-20. Region Blekinge
-21. Region Jönköpings län
-22. Region Kronoberg
-23. Region Kalmar län
-24. Region Skåne
-25. Västra Götalandsregionen
-26. Göteborgsregionens kommunalförbund
-27. Sjuhärads kommunalförbund
-28. Hallands bildningsförbund
-29. Halmstad City Airport
-30. Halmstad studentkår
-31. Högskolan i Halmstad
-32. Företagarna i Halland
-33. Västsvenska industri- och handelskammaren
-34. Sydsvenska industri- och handelskammaren
-35. Sveriges kommuner och regioner
-36. Svenskt näringsliv Halland
-37. Svenska pensionärsföreningen Halland
-38. Pensionärernas riksorganisation Halland
-39. Pensionärsförbundets riksorganisation Halland
-40. Delaktighet Handlingskraft Rörelsefrihet Halland
-41. Synskadades riksförbund Halland
+19\. Trafikverket Region Väst
+20\. Region Blekinge
+21\. Region Jönköpings län
+22\. Region Kronoberg
+23\. Region Kalmar län
+24\. Region Skåne
+25\. Västra Götalandsregionen
+26\. Göteborgsregionens kommunalförbund
+27\. Sjuhärads kommunalförbund
+28\. Hallands bildningsförbund
+29\. Halmstad City Airport
+30\. Halmstad studentkår
+31\. Högskolan i Halmstad
+32\. Företagarna i Halland
+33\. Västsvenska industri- och handelskammaren
+34\. Sydsvenska industri- och handelskammaren
+35\. Sveriges kommuner och regioner
+36\. Svenskt näringsliv Halland
+37\. Svenska pensionärsföreningen Halland
+38\. Pensionärernas riksorganisation Halland
+39\. Pensionärsförbundets riksorganisation Halland
+40\. Delaktighet Handlingskraft Rörelsefrihet Halland
+41\. Synskadades riksförbund Halland
 
 <!-- sida 188 -->
 
 4 (4)
 
-42. Regionala funktionshinderrådet
-43. Regionala pensionärsrådet
-44. Bussbranschföreningen Väst
-45. Tågföretagen
-46. Naturskyddsföreningen Halland
-47. Resenärerna
-48. Samtrafiken i Sverige AB
-49. Svensk kollektivtrafik
-50. Svenska Taxiförbundet
-51. Lokalt Ledd Utveckling
-52. Svenska turistföreningen (lokalavdelningar Halland)
-53. Föreningen svenska järnvägsfrämjandet
-54. Pågatåg Nordost
+42\. Regionala funktionshinderrådet
+43\. Regionala pensionärsrådet
+44\. Bussbranschföreningen Väst
+45\. Tågföretagen
+46\. Naturskyddsföreningen Halland
+47\. Resenärerna
+48\. Samtrafiken i Sverige AB
+49\. Svensk kollektivtrafik
+50\. Svenska Taxiförbundet
+51\. Lokalt Ledd Utveckling
+52\. Svenska turistföreningen (lokalavdelningar Halland)
+53\. Föreningen svenska järnvägsfrämjandet
+54\. Pågatåg Nordost
 
 <!-- sida 189 -->
 
@@ -9377,7 +9377,7 @@ kommissionens förslag till en ny förordning om inrättande av ett nytt ramverk
 budgetutgifter och genomförande”.
 
 EU-kommissionen presenterade den 16 juli 2025 ett förslag till flerårig budgetram för perioden 2028–
-2034. EU-kommissionen har också presenterat ett antal nya förordningar för att stödja genomförandet
+2034\. EU-kommissionen har också presenterat ett antal nya förordningar för att stödja genomförandet
 av budgetförslaget. En av dessa förordningar handlar om att upprätta ett nytt ramverk för att följa upp
 budgetutgifter och genomförande.
 
@@ -9674,7 +9674,7 @@ Anvisning
 
 Typ av styrdokument: Strategi
 
-Beslutad av: Kommunfullmäktige, ?? 2? 2026 $ KS 279/2025
+Beslutad av: Kommunfullmäktige, ?? 2? 2026 \$ KS 279/2025
 Gäller från: 202Å-MM-DD
 
 Ansvarig: Strategiska enheten Samhällsbyggnadsförvaltningen
@@ -9713,13 +9713,13 @@ ansvarsfördelningen mellan stadens nämnder och förvaltningar med verksamhetsa
 och hur staden arbetar direkt eller indirekt i olika processer.
 
 Dagvattenstrategin ersätter den tidigare som antogs i kommunfullmäktige den 11
-november 2016 ($ 167, KS 377/16).
+november 2016 (\$ 167, KS 377/16).
 
 <!-- sida 203 -->
 
 <!-- sida 204 -->
 
-1. Inledning och strategi
+1\. Inledning och strategi
 
 Mölndals stad växer och i samband med utveckling och förtätning minskar tillgängliga
 ytor för hantering av dagvatten. För att möta miljökrav, extrema nederbördstillfällen och
@@ -9762,7 +9762,7 @@ inom fysisk planering för mark- och vattenanvändning.
 1.1. Bakgrund
 
 Mölndals stad har sedan 2016 en dagvattenstrategi som antogs i kommunfullmäktige den
-11 november 2016 ($ 167, KS 377/16). Dagvattenstrategin har sedan varit vägledande
+11 november 2016 (\$ 167, KS 377/16). Dagvattenstrategin har sedan varit vägledande
 inom framför allt fysisk planering med nya exploateringar. Det har saknats underliggande
 styrdokument och det arbetet pågår nu parallellt med att dagvattenstrategin revideras.
 
@@ -9826,7 +9826,7 @@ magasinering av dagvatten eller förnyelse av befintligt dagvattensystem.
 Översvämningsdirektivet antogs i EU 2007 och innebär att områden med betydande
 översvämningsrisker pekas ut och att riskhanteringsplaner ska tas fram. Mölndal har en
 
-klimatanpassningsplan som antogs av kommunstyrelsen under 2024 ($311, KS
+klimatanpassningsplan som antogs av kommunstyrelsen under 2024 (\$311, KS
 482/2024).
 
 I Mölndal finns det risk för översvämning från sjöar och vattendrag, inom instängda
@@ -9842,7 +9842,7 @@ kapacitet att omhänderta vattnet.
 
 <!-- sida 207 -->
 
-2. Dagvattenhantering
+2\. Dagvattenhantering
 
 Hantering och avledning av dagvatten och har blivit en allt viktigare fråga i samband med
 stadens expansion och förtätning. Att göra en bra och väl genomarbetad planering för
@@ -9961,7 +9961,7 @@ möjligheter att uppfylla miljökvalitetsnormer för yt- och grundvatten.
 
 <!-- sida 210 -->
 
-3. Ansvarsfördelning
+3\. Ansvarsfördelning
 
 3.1. Avgränsningar
 
@@ -10660,7 +10660,7 @@ Teknisk försörjning
 Platsen för planbeskedet omfattas inte av kommunalt verksamhetsområde för vatten och spillvatten.
 Enligt inlämnat underlag behöver anläggningen vatten till processen, för spolning och rengöring, samt
 för sanitärt behov. Det totala behovet av vatten av dricksvattenkvalitet bedöms uppgå till cirka 20 000
-- 25 000 m³ per år. Samhällsbyggnadskontoret är tveksamt till om detta uttag kan göras ur det
+\- 25 000 m³ per år. Samhällsbyggnadskontoret är tveksamt till om detta uttag kan göras ur det
 kommunala dricksvattensystemet. Om anläggningen blir aktuell måste verksamheten titta på andra
 
 lösningar för tappvatten.
@@ -10698,7 +10698,7 @@ Begära     planbesked
 
 Ärendenummer: #224646 | Inskickat av: MICHAEL PALM | 2025-08-14 16:17
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -10747,7 +10747,7 @@ Michael                           Palm
 Telefon                           E-postadress
 michael.palm@terramater.bio
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -10786,7 +10786,7 @@ Vad beskriver bäst din begäran?
 
 Industri/verksamhet/lager
 
-3. Bilagor
+3\. Bilagor
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -10953,7 +10953,7 @@ Hela ansökan om tillstånd kommer därför att skickas till Mark- och miljödom
 Tingsrätt, för prövning av 9 kap. miljöbalken (1998:808).
 
 Detta samrådsunderlag utgör utgångspunkt för de samråd som ska hållas i tillståndsprocessen, i
-enlighet med 6 kap. miljöbalken och omfattar såväl undersökningssamråd (6 kap. 23-25 $$) och
+enlighet med 6 kap. miljöbalken och omfattar såväl undersökningssamråd (6 kap. 23-25 \$\$) och
 avgränsningssamråd (6 kap. 29-31 88).
 
 2.2 PLANERAD ANSÖKAN
@@ -11795,7 +11795,7 @@ Trafikverket. (2025). Trafikverkets vägtrafikflödeskarta. Hämtat från
 https://vtf.trafikverket.se/SeTrafikfloden (08-08-2025)
 VISS. (2025). Vatteninformationssystem Sverige. Hämtat från https://ext-
 geoportal.lansstyrelsen.se/standard/?appid=3e0dd9145e6e44f298111f47f5b4184d (08-08-
-2025)
+2025\)
 
 Riksantikvarieämbetet. (2025). Fornsök. Hämtat från https://app.raa.se/open/fornsok/ (08-08-25)
 
@@ -11870,7 +11870,7 @@ strategiska.
 
 Nedan en av sammanställning av några av dessa fördelar.
 
-1. Ekonomiska vinster och lokal utveckling i Kungsbacka Kommun
+1\. Ekonomiska vinster och lokal utveckling i Kungsbacka Kommun
 
 Minskade kostnader för avfallshantering
 •  Biogasanläggningar omvandlar organiskt avfall (matavfall, avloppsslam, jordbruksrester) till
@@ -11917,7 +11917,7 @@ skapa nya gröna jobb
 
 <!-- sida 257 -->
 
-2. Miljömässiga fördelar för Kungsbacka Kommun
+2\. Miljömässiga fördelar för Kungsbacka Kommun
 
 Minskade växthusgasutsläpp
 •  Biogasanläggningar fångar in metan från organiskt avfall, som annars skulle släppas ut
@@ -11948,7 +11948,7 @@ lakvattenläckage och förbättrad lokal miljö.
 
 •  Rötningsprocessen minskar även förekomsten av patogener i avfallet, vilket gör hanteringen
 säkrare
-3. Energioberoende och försörjningstrygghet i Kungsbacka Kommun
+3\. Energioberoende och försörjningstrygghet i Kungsbacka Kommun
 
 •  Genom att producera energi lokalt från Kungsbackas och andra Kommuners avfall och
 restprodukter minskar beroendet av importerade fossila bränslen och känsligheten för
@@ -11960,7 +11960,7 @@ eller gasnätet, vilket ökar Kommunens oberoende, motståndskraft och krisbered
 •  Möjligheten att använda lokalproducerad biogas som fordonsbränsle stärker en Kommuns
 självförsörjning och minskar transportsektorns klimatpåverkan
 
-4. Statliga och regionala stöd för en biogasanläggning i Kungsbacka Kommun
+4\. Statliga och regionala stöd för en biogasanläggning i Kungsbacka Kommun
 
 •  I Sverige finns omfattande statliga stöd, investeringsbidrag och skattebefrielser för
 biogasproduktion, vilket gynnar Kommuner som satsar på och stöttar biogasprojekt
@@ -11973,7 +11973,7 @@ landsbygdsKommuner och län som Kungsbacka Kommun och Hallands län.
 
 <!-- sida 258 -->
 
-5. Sociala och samhälleliga vinster för Kungsbacka Kommun
+5\. Sociala och samhälleliga vinster för Kungsbacka Kommun
 
 •  Biogasprojekt kan öka medborgarnas engagemang i avfallssortering och hållbarhetsfrågor,
 vilket stärker den lokala miljömedvetenheten i Kommunen
@@ -11983,7 +11983,7 @@ vilket kan locka nya invånare, företag och investeringar
 •  Biogas som energikälla skulle kunna integreras i skolor, kollektivtrafik och andra Kommunala
 verksamheter, vilket ger pedagogiska och praktiska fördelar.
 
-6. Svenska exempel och erfarenheter
+6\. Svenska exempel och erfarenheter
 
 •  Lund: Kommunen använder biogas för el och fjärrvärme, vilket bidrar till stadens klimatmål
 och återför näringsämnen till jordbruket
@@ -12025,7 +12025,7 @@ Fördelar för det lokala jordbruket av att ha en biogasanläggning i trakten
 Att bygga en biogasanläggning i Kungsbacka Kommun skulle ha flera positiva effekter på det lokala
 jordbruket:
 
-1. Tillgång till biogödsel
+1\. Tillgång till biogödsel
 •  Biogasprocessen omvandlar organiskt material, som gödsel och växtrester, till biogödsel – en
 näringsrik restprodukt. Denna biogödsel kan användas direkt på åkrarna och förbättrar
 
@@ -12033,7 +12033,7 @@ jordens kvalitet, samtidigt som den minskar kväveläckaget från jordbruket
 •  Det är särskilt värdefullt för ekologiskt jordbruk, där efterfrågan på naturliga gödselmedel är
 stor.
 
-2. Minskade växthusgasutsläpp
+2\. Minskade växthusgasutsläpp
 
 •  När Kommunens lantbrukare och hästägare levererar sin husdjursgödsel till en
 biogasanläggning minskar metanutsläppen från gården, eftersom metanet tas tillvara och
@@ -12041,18 +12041,18 @@ omvandlas till energi istället för att släppas ut i atmosfären
 
 •  Detta bidrar till att minska jordbrukets och djurhållningens totala klimatpåverkan
 
-3. Cirkulär ekonomi och resurseffektivitet
+3\. Cirkulär ekonomi och resurseffektivitet
 •  Biogasanläggningen skapar ett kretslopp där avfall och restprodukter från jordbruket både
 
 ger energi och återförs som gödsel till åkrarna. Detta stärker den cirkulära ekonomin och gör
 jordbruket mer hållbart.
-4. Ekonomiska möjligheter
+4\. Ekonomiska möjligheter
 
 •  Lantbrukare kan få ersättning för att leverera gödsel och andra restprodukter till
 biogasanläggningen. Dessutom kan de minska sin negativa miljöpåverkan och sina kostnader
 för inköp av konstgödsel genom att använda biogödsel istället.
 
-5. Lokal energiförsörjning
+5\. Lokal energiförsörjning
 
 •  Biogasanläggningar kan byggas nära där avfallet uppstår, som projektet på Gåsevadholm
 visar som är beläget på landsbygden med närhet till tätorter, vilket minskar
@@ -12077,7 +12077,7 @@ ES un igen
 IV RRs
 
 GÖDESTAD
--
+\-
 
 Biogas
 Össlöv s:3
@@ -12310,14 +12310,14 @@ Nuläge
 utdelning under höst
 
 oh AD Aug ep OÖ O De
-- Frukost- i da so i
+\- Frukost- i da so i
 klubben i
 Kba-galan Arkitekturpriset Kba-galan (sept-jan)
 O Ä Leva livet
 
 KUNGSBACKAGALAN MAJ MEDARBETARDAGEN NOV LEDARDAGEN SEPT ARKITEKTURPRISET
 «  Kulturpriset « Årets nyskapare « Årets utvecklande ledare Delas ut på hösten (2023 på Höstfesten)
-+ Kungsbackas Mästare « Årets leverans « Årets nyskapande ledare
+\+ Kungsbackas Mästare « Årets leverans « Årets nyskapande ledare
 « Kungsbackas Olympier « Årets välkomnare HÅLLBARHETSPRISET
 
 Delas ut på KF i december
@@ -12328,7 +12328,7 @@ Delas ut på KF i december
 « Årets förening
 « Ledarstipendiet
 
-+ Kulturstipendiet LÄRA FÖR LIVET-PRISET
+\+ Kulturstipendiet LÄRA FÖR LIVET-PRISET
 « Idrottsstipendiet
 
 Årets team
@@ -12523,11 +12523,11 @@ Förskola & Grundskola, nämnden för Gymnasium & Arbetsmarknad, nämnden för
 Individ & Familjeomsorg, nämnden för Kultur & Fritid, nämnden för Service,
 nämnden för Teknik och nämnden för Vård & Omsorg för yttrande över förslaget att:
 
-- se över både interna och externa priser för att skapa tydlighet och effektivitet.
+\- se över både interna och externa priser för att skapa tydlighet och effektivitet.
 
-- samla interna utmärkelser och priser rörande medarbetare och ledare till
+\- samla interna utmärkelser och priser rörande medarbetare och ledare till
 Medarbetardagen respektive Ledardagen
-- de förvaltningsspecifika priserna Lära för livet, Leva livet och Självständigt liv
+\- de förvaltningsspecifika priserna Lära för livet, Leva livet och Självständigt liv
 inte längre delas ut i kommunfullmäktige utan överlåtes till berörda nämnder att
 besluta om hur priserna ska se ut framåt.
 
@@ -12639,7 +12639,7 @@ Under de senaste åren har intresset för Lära för livet-priset minskat, vilke
 i det låga antalet nomineringar. Flera år har kännetecknats av få inkomna
 nomineringar, vilket begränsar prisets genomslag och relevans. Mellan åren 2018–
 2024 var antalet nomineringar lågt och den högsta antalet nomineringar var fem år
-2022. Det finns en negativ trend över tid och år 2024 var det endast två nominerade
+2022\. Det finns en negativ trend över tid och år 2024 var det endast två nominerade
 
 vilket även var fallet 2021. Det har varit svårt att uppmärksamma priset samtidigt
 som det medfört stor arbetsbörda för de som är ansvariga för priset. En överföring av
@@ -12719,7 +12719,7 @@ medarbetare och invånare. Dessutom har det varit svårt att skapa uppmärksamhe
 i jämförelse med Årets medarbetare. En minskning av antalet priser skulle därför bidra till att samla
 uppmärksamhet och engagemang kring de utmärkelser som kommunen väljer att behålla.
 
-12)
+12\)
 
 Nämnden för Gymnasium & Arbetsmarknad Kungsbacka kommun
 
@@ -12887,8 +12887,8 @@ Grundskola, nämnden för Gymnasium & Arbetsmarknad, nämnden för Individ &
 Familjeomsorg, nämnden för Kultur & Fritid, nämnden för Service, nämnden för
 Teknik och nämnden för Vård & Omsorg för yttrande över förslaget att:
 
-- Se över både interna och externa priser för att skapa tydlighet och effektivitet
-- Samla interna utmärkelser och priser rörande medarbetare och ledare till
+\- Se över både interna och externa priser för att skapa tydlighet och effektivitet
+\- Samla interna utmärkelser och priser rörande medarbetare och ledare till
 
 Medarbetardagen respektive ledardagen
 De förvaltningsspecifika priserna Lära för livet, Leva livet och Självständigt liv inte

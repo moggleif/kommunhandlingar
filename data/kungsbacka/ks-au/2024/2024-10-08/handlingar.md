@@ -289,10 +289,10 @@ som inte finns i orten idag.
 
 Vårt förslag innehåller en mix av parhus och småvillor.
 
-- I närhet till andra bostadsområden i Åsa ligger denna mycket
+\- I närhet till andra bostadsområden i Åsa ligger denna mycket
 fint belägna tomt omgiven av ett fint naturområde.
 
-- Effektivt planerade boenden med privat trädgård och
+\- Effektivt planerade boenden med privat trädgård och
 uteplats i anslutning till kök och vardagsrum.
 
 Situationsplan Åsa Berg 4:2 samt 4:28
@@ -608,7 +608,7 @@ Begära     planbesked
 
 Ärendenummer: #132183 | Inskickat av: | 2024-05-03 13:38
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -623,7 +623,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -651,7 +651,7 @@ Postort                           Telefon
 Mölndal
 
 E-postadress                      Eventuell fakturareferens
--
+\-
 
 Företagets kontaktperson
 
@@ -664,7 +664,7 @@ l
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -697,7 +697,7 @@ Handel
 Kontor
 Longstay
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -1068,15 +1068,15 @@ Inom projektgruppen har följande projektmålen arbetats fram:
 PROJEKTMÅL                                              1. Vi arbetar med mobilitet inom ramen för programmet och fokuserar på en smidig
 trafiklösning för att skapa gynnsamma effekter för Kungsbacka innerstad.
 
-2. Vi fastställer ett förslag som behåller grönskan på och runt omkring fastigheten
+2\. Vi fastställer ett förslag som behåller grönskan på och runt omkring fastigheten
 genom små rum där naturen får ta plats vilket bidrar både till rekreationsmöjlighet
 för besökaren samtidigt som riksintressen vårdas.
 
-3. Vi skapar ett unikt Longstay som man längtar till och i längden kommer vårt
+3\. Vi skapar ett unikt Longstay som man längtar till och i längden kommer vårt
 trygghetboende att främja bostadsmarknaden inom kommunen.
 
-4. Vi utvecklar Vallda till en plats som är än mer attraktiv att bo, verka och vistas i.
-5. Vi skapar arbetstillfällen och nyttjar Lärande Bygg i tätt samarbete med kommunen
+4\. Vi utvecklar Vallda till en plats som är än mer attraktiv att bo, verka och vistas i.
+5\. Vi skapar arbetstillfällen och nyttjar Lärande Bygg i tätt samarbete med kommunen
 och lokala arbetsgivare.
 
 20
@@ -1399,7 +1399,7 @@ statsbidrag %
 
 Strukturellt resultats andel av 7,1 9,0 9,9 4,6   2,5   5,5   5,6
 skatter & statsbidrag %
-*) Exklusive jämförelsestörande poster
+\*) Exklusive jämförelsestörande poster
 
 Koncernens resultat för perioden till och med den 31 augusti var 245 miljoner kronor, varav
 kommunen står för större delen av resultatet. Periodens resultat är något lägre än förra året, vilket
@@ -1648,7 +1648,7 @@ Skårbyskolan.
 
 Indikator                           2021  2022  2023  2024 Målsättning
 2024
-Bäst att leva, Kungsbackas placering i ranking av 3 - * - * -* < 20
+Bäst att leva, Kungsbackas placering i ranking av 3 - \* - \* -\* < 20
 Sveriges kommuner (tidningen Fokus)
 Antal påbörjade bostäder            216   848   165  141    Öka
 Antal färdigställda bostäder        430   363   319  109    Öka
@@ -1659,18 +1659,18 @@ Kungsbacka kommun          Delårsbokslut 2024                   9
 
 Indikator                           2021  2022  2023  2024 Målsättning
 2024
-Anmälda brott mot brottsbalken per invånare, 5 321 5 691 6 475 *** Minska
+Anmälda brott mot brottsbalken per invånare, 5 321 5 691 6 475 \*\*\* Minska
 antal/100 000 invånare (BRÅ)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn - ** 90 % 91 % *** Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn - \*\* 90 % 91 % \*\*\* Öka
 (Kolada)
 
-Brukarbedömning särskilt boende äldreomsorg, - ** 74 % 76 % *** Öka
+Brukarbedömning särskilt boende äldreomsorg, - \*\* 74 % 76 % \*\*\* Öka
 helhetssyn (Kolada)
-Brukarbedömning individ- och familjeomsorg, totalt – - ** 88 % - ** *** Öka
+Brukarbedömning individ- och familjeomsorg, totalt – - \*\* 88 % - \*\* \*\*\* Öka
 helhetssyn (Kolada)
-*) Rankingen hade ett uppehåll under 2022 och analysmodellen gjordes om 2023. Därav blir resultatet inte jämförbart med tidigare år.
-**) Brukarbedömning har inte gjorts det här året.
-***) Ännu ej publicerad
+\*) Rankingen hade ett uppehåll under 2022 och analysmodellen gjordes om 2023. Därav blir resultatet inte jämförbart med tidigare år.
+\*\*) Brukarbedömning har inte gjorts det här året.
+\*\*\*) Ännu ej publicerad
 
 2.4.2 Mål: En hållbar utveckling och en hälsosam miljö
 
@@ -1695,7 +1695,7 @@ Sommarens översvämningar gör att vi åter fått sätta ljuset på olika typer
 vattenfrågor, som dagvattenhantering, byggnation i lågpunkter och ett välfungerande ledningsnät.
 Syftet är att förebygga att extrema väderhändelser drabbar våra invånare.
 Minskade utsläpp: Kommunens nya avtal för samordnad varudistribution trädde i kraft den 1 juni
-2024. Avtalet ställer krav på fossilfria bilar, varav flera är tunga ellastbilar. Samtidigt tar vi
+2024\. Avtalet ställer krav på fossilfria bilar, varav flera är tunga ellastbilar. Samtidigt tar vi
 
 Kungsbacka kommun          Delårsbokslut 2024                  10
 
@@ -1780,46 +1780,46 @@ Indikator                         2021  2022   2023  2024
 2024
 Energiförbrukning i kommunens lokaler, KWh per 165 157 154 158 Minska
 kvadratmeter
-Utsläpp till luft av växthusgaser totalt, ton CO2- 2,48 2,27 * * Minska
+Utsläpp till luft av växthusgaser totalt, ton CO2- 2,48 2,27 \* \* Minska
 ekv/inv (Kolada)
-Miljöbilar, andel av totalt antal bilar i det ** ** ** **   Öka
+Miljöbilar, andel av totalt antal bilar i det \*\* \*\* \*\* \*\*   Öka
 geografiska området (Kolada)
-Slutanvändning av el inom det geografiska 8 7   *     *    Oförändrad
+Slutanvändning av el inom det geografiska 8 7   \*     \*    Oförändrad
 området, MWh/inv (Kolada)
-Matens klimatpåverkan från de offentliga måltiderna 1,82 1,86 1,69 1,78*** Minska
+Matens klimatpåverkan från de offentliga måltiderna 1,82 1,86 1,69 1,78\*\*\* Minska
 ska minska räknat i kg CO2-ekv/kg livsmedel.
 Målsättningen är 1,0 år 2030.
-Antal kemiska produkter med utfasningsämnen, 124 113 115 133*** Minska
+Antal kemiska produkter med utfasningsämnen, 124 113 115 133\*\*\* Minska
 inklusive hormonstörande ämnen på SIN-listan ska
 minska i kommunens verksamheter. 2021 var
 antalet 124 (KEMgroup PRO)
-Avfall från hushåll ska minska med 30 % per 105 103 92 *   Minska
+Avfall från hushåll ska minska med 30 % per 105 103 92 \*   Minska
 invånare från 2020 till 2030. Startvärde 100,
 målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska minska 98 115 223 * Minska
+Avfall från kommunens verksamheter ska minska 98 115 223 \* Minska
 med 40 % per heltidsanställd. Startvärde 100,
 målvärde 2030 är 60.
 
-Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig * Öka
-Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 % *
-Vattendrag med god ekologisk status, andel 18,5 % 18,5 % * * Öka
+Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig \* Öka
+Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 % \*
+Vattendrag med god ekologisk status, andel 18,5 % 18,5 % \* \* Öka
 (Kolada)
 
-Ungas hälsa i årskurs 4 och 8 – Flickor. Åk 4: 88%, Åk 4: 88%, Åk 4: 85%, * Öka
+Ungas hälsa i årskurs 4 och 8 – Flickor. Åk 4: 88%, Åk 4: 88%, Åk 4: 85%, \* Öka
 Åk 8: 77%, Åk 8: 72%, Åk 8: 79%,
 (Elevhälsan i Kungsbacka utvecklar metod utifrån
 Åk 1  Åk 1    Åk 1
 hälsosamtal med elever)          gymnasiet: gymnasiet: gymnasiet:
 68%   65%     73%
-Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan Åk 4: 93% Åk 4: 90% Åk 4: 91% * Öka
+Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan Åk 4: 93% Åk 4: 90% Åk 4: 91% \* Öka
 Åk 8: 92% Åk 8: 93% Åk 8: 92%
 i Kungsbacka utvecklar metod utifrån hälsosamtal
 Åk 1  Åk 1    Åk 1
 med elever)                      gymnasiet: gymnasiet: gymnasiet:
 88%   85%     86%
-*) Ännu ej publicerad.
-**) Nyckeltalet har tagits bort från Kolada
-***) Data till och med augusti
+\*) Ännu ej publicerad.
+\*\*) Nyckeltalet har tagits bort från Kolada
+\*\*\*) Data till och med augusti
 
 Kungsbacka kommun          Delårsbokslut 2024                  12
 
@@ -1891,7 +1891,7 @@ praktisk erfarenhet och ökat deras entreprenöriella kompetenser.
 Målsättning
 Indikator                           2021  2022 2023  2024
 2024
-Insikt, SKR:s servicemätning av kommunernas 66 70 67  *     Öka
+Insikt, SKR:s servicemätning av kommunernas 66 70 67  \*     Öka
 myndighetsutövning till företag. Nöjd kund-index utifrån
 sammanvägt betygsindex 0–100, för hur företag i
 kommunen bedömer Kungsbacka kommuns
@@ -1900,14 +1900,14 @@ företagsklimatet.
 Svenskt näringslivs attitydundersökning av kommuners 3,5 3,4 3,4 3,8 Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal     27 384 28 485 *   *     Öka
-Andel av sysselsatt dagbefolkning inom 5,1 % 4,9 % *  *     5,0 %
+Sysselsatt dagbefolkning, antal     27 384 28 485 \*   \*     Öka
+Andel av sysselsatt dagbefolkning inom 5,1 % 4,9 % \*  \*     5,0 %
 Göteborgsregionen
 
-Företagsamhet, andel av invånare 16 - 74 år 18 % 18 % * *   Öka
-Antal nystartade företag per 1 000 invånare 16 - 64 år 13,8 12,8 * * Öka
+Företagsamhet, andel av invånare 16 - 74 år 18 % 18 % \* \*   Öka
+Antal nystartade företag per 1 000 invånare 16 - 64 år 13,8 12,8 \* \* Öka
 (etableringsfrekvens)
-*) Ännu ej publicerad.
+\*) Ännu ej publicerad.
 
 2.4.4 Mål: I Kungsbacka utvecklas vi hela livet
 
@@ -1975,24 +1975,24 @@ som varit flera år i Sverige samt personer med psykisk ohälsa.
 Målsättning
 Indikator                           2021 2022  2023 2024
 2024
-Genomsnittligt meritvärde för grundskolans årskurs 9. 239 237 237 * Öka
+Genomsnittligt meritvärde för grundskolans årskurs 9. 239 237 237 \* Öka
 Meritvärdet utgörs av summan av de 17 bästa betygen
 i elevens slutbetyg och kan max vara 340. (Kolada)
-Genomsnittlig betygspoäng för gymnasiets 14,2 14,5 14,3 *   Öka
+Genomsnittlig betygspoäng för gymnasiets 14,2 14,5 14,3 \*   Öka
 avgångselevers betygspoäng som kan vara max 20.
 (Kolada)
-Självkänsla och framtidstro för gymnasieelever år 2, 7,8 ** ** ** Öka
+Självkänsla och framtidstro för gymnasieelever år 2, 7,8 \*\* \*\* \*\* Öka
 index med skala 0–10 enligt Skolinspektionens
 skolenkät.
-Arbetslöshet 16–24 år i kommunen, procent (Kolada) 2,6 1,7 1,7 * Minska
+Arbetslöshet 16–24 år i kommunen, procent (Kolada) 2,6 1,7 1,7 \* Minska
 
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 414 376 325 *
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 414 376 325 \*
 
-Andel vuxna personer som inte återkommer till 67 69 73 *    Öka
+Andel vuxna personer som inte återkommer till 67 69 73 \*    Öka
 försörjningsstöd inom ett år efter avslutat
 försörjningsstöd, procent (Kolada)
-*) Ännu ej publicerad
-**) Frågan finns inte längre med i skolenkäten
+\*) Ännu ej publicerad
+\*\*) Frågan finns inte längre med i skolenkäten
 
 Kungsbacka kommun          Delårsbokslut 2024                  15
 
@@ -2081,15 +2081,15 @@ också organisationer i övrigt.
 Målsättning
 Indikator                        2021  2022  2023 2024
 2024
-Hållbart medarbetarengagemang, ett index för 78 78 76 *    Öka
+Hållbart medarbetarengagemang, ett index för 78 78 76 \*    Öka
 medarbetarnas samlade uppfattning om områdena
 motivation, ledarskap och styrning, skala 1–100
 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 180. 103 114 122 * Öka
+Jämställdhetsindex, Jämix. Antal poäng av max 180. 103 114 122 \* Öka
 Jämix beräknas utifrån nio nyckeltal med skala 1–20
 och visar hur jämställda arbetsvillkor, arbetsmiljö och
 anställningsvillkor är i organisationen
-*) Ännu ej publicerad
+\*) Ännu ej publicerad
 
 2.4.6 Direktiv: Innovation och omställning till nya arbetssätt
 Kommunen står inför stora utmaningar kommande decennier. Vi ska bevara välfärden trots ökade
@@ -2192,10 +2192,10 @@ arbetet på seminarier, studiebesök och genom kontakter från andra kommuner.
 Målsättning
 Indikator                         2023  2024
 2024
-Andel innovationsprojekt som drivits under året ** - * Öka
-Andel av bruttokostnaden som avsätts för - *     Öka
-verksamhetsutveckling och innovation **
-*) Följs upp i årsbokslutet
+Andel innovationsprojekt som drivits under året \*\* - \* Öka
+Andel av bruttokostnaden som avsätts för - \*     Öka
+verksamhetsutveckling och innovation \*\*
+\*) Följs upp i årsbokslutet
 
 2.5 God ekonomisk hushållning och ekonomisk ställning
 God ekonomisk hushållning, definition
@@ -2387,7 +2387,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  22
 
 3.1 Resultaträkning
 
-* Jämförelsetalen för 2023 är justerade med anledning av övergång till finansiell leasing för hyresavtal.
+\* Jämförelsetalen för 2023 är justerade med anledning av övergång till finansiell leasing för hyresavtal.
 
 Kungsbacka kommun          Delårsbokslut 2024                  23
 
@@ -2395,7 +2395,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  23
 
 | Miljoner kronor | Kommunen |  |  |  | Koncernen |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | 2023-08-<br>31* | 2024-08-31 | Budget<br>2024 | Prognos<br>2024 | 2023-08-31 | 2024-08-31 |
+|  | 2023-08-<br>31\* | 2024-08-31 | Budget<br>2024 | Prognos<br>2024 | 2023-08-31 | 2024-08-31 |
 | Verksamhetens<br>intäkter | 880,0 | 874,2 | 1 340,4 | 1 440,2 | 1 047,2 | 1 049,4 |
 | Verksamhetens<br>kostnader | -4 281,4 | -4 282,7 | -6 752,8 | -6 786,6 | -4 212 | -4 360,2 |
 | Avskrivningar | -275,0 | -337,8 | -497,1 | -519,9 | -372,3 | -369,0 |
@@ -2413,7 +2413,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  23
 
 3.2 Balansräkning
 
-* Jämförelsetalen för 2022 är justerade med anledning av övergång till finansiell leasing för hyresavtal samt semesterlöneskuld.
+\* Jämförelsetalen för 2022 är justerade med anledning av övergång till finansiell leasing för hyresavtal samt semesterlöneskuld.
 
 Kungsbacka kommun          Delårsbokslut 2024                  24
 
@@ -2540,8 +2540,8 @@ resultaträkningen
 Verksamhetens intäkter -3 676,3 -3 746,2 -5 637,6 -5 909,5 -5 866,3 43,2 0,7
 och kostnader enligt
 resultaträkningen
-* Jämförelsetalen för 2023 är justerade med anledning av övergång till finansiell leasing för hyror.
-** Service har en budgetavvikelse som i relation till totala budgetomsättningen motsvarar 0,2 procent
+\* Jämförelsetalen för 2023 är justerade med anledning av övergång till finansiell leasing för hyror.
+\*\* Service har en budgetavvikelse som i relation till totala budgetomsättningen motsvarar 0,2 procent
 
 Prognos nämnderna +15,2 miljoner
 Kommunens skattefinansierade verksamheter prognostiserar tillsammans ett överskott på 15,2
@@ -2646,7 +2646,7 @@ Gymnasium &          1,4    0,9    4,6       4,6      0,0       0
 Arbetsmarknad
 
 exploatering
-(anläggningstillgångar)*
+(anläggningstillgångar)\*
 
 (Anläggningstillgångar)
 Summa skattefinansierad 333,8 257,0 874,6  551,6    323,1     36,9
@@ -2671,7 +2671,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  28
 | Individ & Familjeomsorg | 0,4 | 0,2 | 2,7 | 2,0 | 0,7 | 25,9 |
 | Vård & Omsorg | 2,0 | 1,8 | 19,0 | 10,5 | 8,5 | 44,7 |
 | Finansiering lokalplan | 0,0 | 0,0 | 158,8 | 23,3 | 135,5 | 85,3 |
-| Exploateringsverksamhet* | 0,8 | 62,4 | 97,5 | 88,6 | 8,9 | 9,1 |
+| Exploateringsverksamhet\* | 0,8 | 62,4 | 97,5 | 88,6 | 8,9 | 9,1 |
 
 [Tabell 74-3](handlingar.tabeller/74-3.csv)
 
@@ -2689,7 +2689,7 @@ verksamhet
 
 exklusive finansiell leasing
 och gåvor
-*Se beskrivning av exploateringsverksamheten på sid 30-31
+\*Se beskrivning av exploateringsverksamheten på sid 30-31
 
 Investeringar i skattefinansierad verksamhet
 De skattefinansierade bruttoinvesteringarna visar på en avvikelse på 323 miljoner kronor jämfört
@@ -3159,7 +3159,7 @@ Delmodellen IFO
 Under 2024 omfördelar kostnadsutjämningens delmodell för individ och familjeomsorg 6,2 miljarder
 kronor, vilket innebär att den är en av delmodellerna med störst omfördelning. Detta kan sättas i
 relation till kommunernas totala nettokostnader för verksamheten på drygt 51 miljarder kronor under
-2022.
+2022\.
 Delmodellen för individ- och familjeomsorg ändras genom att den delas upp i två nya komponenter, en
 
 för barn- och ungdomsvård och en för övrig individ- och familjeomsorg. Utjämningen för barn- och
@@ -4420,14 +4420,14 @@ May-Louise Flyrin (S) reserveras sig till det av nämnden, tagna beslutet.
 Sammanfattning av ärendet
 
 Stefan Jägnert (SD) har i motion till kommunfullmäktige föreslagit:
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
 egenavgift för tolktjänst efter 3 år i landet kan införas.
 
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
 uteblivit utan att avboka tiden, ska tolkavgiften bekostas av den enskilde även om
 denne haft sin hemvist i landet kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
 uteblivit utan att avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden
 för Gymnasium & Arbetsmarknad för beredning. Förvaltningen bedömer att
@@ -4540,13 +4540,13 @@ hänvisning till att ett införande av tolkavgift strider mot lagstiftningen i s
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till kommunfullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden för Gymnasium &
@@ -4990,7 +4990,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (16)
 Nämnden för Förskola & Grundskola Datum
 2024-06-12
 
-$ 62 Dnr FG-2024-00129
+\$ 62 Dnr FG-2024-00129
 
 Beredning av motion - Införande av tolkavgift i Kungsbacka kommun
 (KS-2024-00131)
@@ -5008,14 +5008,14 @@ Helen Thylin (S) reserverar sig reserverar sig till förmån för eget förslag.
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en
 egenavgift för tolktjänst efter 3 år i landet kan införas.
 
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen
 uteblivit utan att avboka tiden, ska tolkavgiften bekostas av den enskilde även om
 denne haft sin hemvist i landet kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man
 uteblivit utan att avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden
@@ -5032,8 +5032,8 @@ enskilde för att kunna bedriva en effektiv verksamhet. Avgift för tolktjänst 
 Beslutsunderlag
 
 Förvaltningen för Förskola & Grundskola tjänsteskrivelse, 2024-05-20
-Kommunstyrelsens arbetsutskott 2024-02-27 $ 65
-Kommunfullmäktige 2024-02-06 $ 21
+Kommunstyrelsens arbetsutskott 2024-02-27 \$ 65
+Kommunfullmäktige 2024-02-06 \$ 21
 
 Motion från Stefan Jägnert (SD) 2024-01-30
 
@@ -5130,13 +5130,13 @@ till att ett införande av tolkavgift strider mot lagstiftningen i samband med h
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden för Förskola &
@@ -5423,13 +5423,13 @@ ett införande av tolkavgift strider mot lagstiftningen i samband med handläggn
 Sammanfattning av ärendet
 Stefan Jägnert (SD) har i motion till fullmäktige föreslagit:
 
-- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
-- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen bland annat till Nämnden för Vård & Omsorg
@@ -6187,14 +6187,14 @@ vid uteblivet besök som inte avbokats i tid.
 
 Med anledning av ovan yrkar Sverigedemokraterna:
 
-- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Stefan Jägnert / SD Kungsbacka
@@ -6471,7 +6471,7 @@ Kommunen har förståelse för att det inte varit möjligt att ta fram förslag 
 utredningens snäva tidsramar. Utredningen har dock själv identifierat att det finns vissa frågor som inte
 kan utredas förrän kommissionens kompletterande genomförandeakter har antagits den 21 november
 
-2024. Kungsbacka kommun anser att man inom ramen för fortsatt utredningsarbete närmare bör utreda
+2024\. Kungsbacka kommun anser att man inom ramen för fortsatt utredningsarbete närmare bör utreda
 konsekvenserna av förordningen för kommunerna och föreslå en struktur för samordning och stöd.
 Kommunen är också mycket positiv till att man inom ramen för ett fortsatt utredningsarbete utvidgar
 det tidigare lämnade förslaget om en förvaltningsgemensam valideringstjänst för elektroniska

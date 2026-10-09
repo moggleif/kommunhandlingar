@@ -208,7 +208,7 @@ Syftet med uppdateringen av förbundsordningen och nytt avtal om samverkan är a
 med de två kommunerna Kungälv och Ale som båda har ansökt om medlemskap. Den nya
 förbundsordningen och det nya avtalet om samverkan inom RSG föreslås träda i kraft den 1 januari
 
-2027. Det är respektive medlemskommuns kommunfullmäktige som beslutar om ny förbundsordning
+2027\. Det är respektive medlemskommuns kommunfullmäktige som beslutar om ny förbundsordning
 samt nytt samverkansavtal.
 De ändringar som föranleds av Kungälvs och Ales medlemsansökningar gäller huvudsakligen den
 politiska organisationen och de anslutande kommunernas procentuella andel i tillgångar och skulder.
@@ -398,13 +398,13 @@ nytt avtal om   samverkan    inom
 
 Räddningstjänstförbundet      Storgöteborg
 
-1.   Förslag till beslut
+1\.   Förslag till beslut
 
 Förbundsstyrelsen remitterar förslag till ny förbundsordning, förslag till nytt avtal om
 samverkan inom Räddningstjänstförbundet Storgöteborg och upprättat tjänsteutlåtande
 till medlemskommunerna för yttrande, med svar senast den 28 februari 2026.
 
-2.   Sammanfattning
+2\.   Sammanfattning
 
 Räddningstjänstförbundet Storgöteborg (RSG) är ett kommunalförbund bestående av
 
@@ -420,9 +420,9 @@ ställningstagande i RSG översänds därefter förslag till ny förbundsordning
 
 samverkansavtal för fastställande i respektive medlemskommuns fullmäktige.
 Kommunerna Kungälv och Ale föreslås inträda i förbundet från och med den 1 januari
-2027.
+2027\.
 
-3.   Ärendet
+3\.   Ärendet
 
 3.1  Bakgrund
 
@@ -1027,7 +1027,7 @@ I den politiska beredningen av ärendet har det tydligt framgått att revidering
 förbundsordningen och avtal om samverkan inom RSG endast ska avse frågor som
 föranleds av Kungälv och Ales medlemsansökningar.
 
-4.   Ärendets  beredning
+4\.   Ärendets  beredning
 
 Ärendet har beretts av en arbetsgrupp inom RSG. Förslag till ändringar gällande politisk
 
@@ -1045,26 +1045,26 @@ Räddningschef Anders Ekberg, Avdelningschef Carina Björkman, Avdelningschef Ma
 Caldenby, Ekonomichef Marie Karlsson, Kanslichef Sigrun Hreidarsdottir och
 Verksamhetsstrateg Daniel Gillesén.
 
-5.   Information  MBL
+5\.   Information  MBL
 
 Information enligt MBL § 19 har lämnats vid Förbunds-MBL 2025-11-27.
 
 Robert Karlsson            Sigrun Hreidarsdottir
 Förbundsdirektör           Avdelningschef
 
-6.   Bilagor
+6\.   Bilagor
 
-1. Förslag till ny förbundsordning för Räddningstjänstförbundet Storgöteborg
+1\. Förslag till ny förbundsordning för Räddningstjänstförbundet Storgöteborg
 
 (Remissutgåva)
-2. Nu gällande förbundsordning för Räddningstjänstförbundet Storgöteborg antagen
+2\. Nu gällande förbundsordning för Räddningstjänstförbundet Storgöteborg antagen
 2023
-3. Förslag till nytt avtal mellan RSG:s medlemskommuner om samverkan inom
+3\. Förslag till nytt avtal mellan RSG:s medlemskommuner om samverkan inom
 räddningstjänsten genom Räddningstjänstförbundet Storgöteborg (Remissutgåva)
-4. Nu gällande avtal mellan RSG:s medlemskommuner om samverkan inom
+4\. Nu gällande avtal mellan RSG:s medlemskommuner om samverkan inom
 räddningstjänsten genom Räddningstjänstförbundet Storgöteborg
 
-7.   Sändlista
+7\.   Sändlista
 
 RSG:s medlemskommuner
 
@@ -1943,7 +1943,7 @@ belopp.
 Kungälv kommun och Ale kommun ska, var och en för sig och i förhållande till RSG, ansvara för
 samtliga kostnader för skada eller olägenhet för miljön inom respektive kommun som är hänförlig till
 verksamhet som har bedrivits av kommunens organisation för räddningstjänst innan den 1 januari
-2027. Ansvaret inkluderar men är inte begränsat till kostnader för utredning, efterbehandling och
+2027\. Ansvaret inkluderar men är inte begränsat till kostnader för utredning, efterbehandling och
 andra åtgärder för avhjälpande samt kostnader för krav eller anspråk som riktas mot RSG.
 
 2
@@ -2288,13 +2288,13 @@ klimatomställning och robusthet till digital samordning, effektivitet och kompe
 har i stället snävt fokuserat på frågor kopplade till fastighetsbildningsverksamheten, vilken i dagens
 komplexa samhälle inte kan ses som en solitär utan som en del i något mycket större.
 Kommunstyrelsens förvaltning föreslår i stället:
-1. Utredningen bör utgå från samhällsbyggnadsprocessen som den helhet den är – för kommun,
+1\. Utredningen bör utgå från samhällsbyggnadsprocessen som den helhet den är – för kommun,
 företagare och invånare
 
-2. Regelverket bör ändras för att möjliggöra samverkan mellan kommunala
+2\. Regelverket bör ändras för att möjliggöra samverkan mellan kommunala
 lantmäterimyndigheter
 
-3. Regelverket bör ändras så att de kommunala lantmäterimyndigheternas roll stärks och fler
+3\. Regelverket bör ändras så att de kommunala lantmäterimyndigheternas roll stärks och fler
 kommuner har möjlighet att inrätta kommunala lantmäterimyndigheter för att bidra till en
 effektiv och rättssäker samhällsbyggnadsprocess.
 
@@ -2342,13 +2342,13 @@ fokuserat på frågor kopplade till fastighetsbildningsverksamheten, vilken i da
 inte kan ses som en solitär utan som en del i något mycket större.
 
 Kungsbacka kommun föreslår i stället:
-1. Utredningen bör utgå från samhällsbyggnadsprocessen som den helhet den är – för kommun,
+1\. Utredningen bör utgå från samhällsbyggnadsprocessen som den helhet den är – för kommun,
 företagare och invånare
 
-2. Regelverket bör ändras för att möjliggöra samverkan mellan kommunala
+2\. Regelverket bör ändras för att möjliggöra samverkan mellan kommunala
 lantmäterimyndigheter
 
-3. Regelverket bör ändras så att de kommunala lantmäterimyndigheternas roll stärks och fler
+3\. Regelverket bör ändras så att de kommunala lantmäterimyndigheternas roll stärks och fler
 kommuner har möjlighet att inrätta kommunala lantmäterimyndigheter för att bidra till en
 effektiv och rättssäker samhällsbyggnadsprocess.
 
@@ -2366,7 +2366,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-1. Utgå från samhällsbyggnadsprocessen som den helhet det är – för kommun,
+1\. Utgå från samhällsbyggnadsprocessen som den helhet det är – för kommun,
 företagare och invånare
 
 En väl fungerande och effektiv samhällsbyggnadsprocess är av betydelse för hela Sveriges tillväxt och
@@ -2414,7 +2414,7 @@ statens generella linje om mer samverkan inom offentlig sektor.
 KUNGSBACKA  KOMMUN
 3 (3)
 
-2. Regelverket bör ändras för att möjliggöra samverkan mellan kommunala
+2\. Regelverket bör ändras för att möjliggöra samverkan mellan kommunala
 lantmäterimyndigheter
 
 Kommuner samverkar idag inom ett flertal andra myndighetsområden, till exempel serveringstillstånd,
@@ -2436,7 +2436,7 @@ förändringar i regelverket som underlättar samverkan och stärker de kommunal
 samhällsbyggnadsprocessen. En sådan samverkan skulle gynna både fastighetsbildningen och
 samhällsbyggnadsprocessen i stort.
 
-3. Regelverket bör ändras för att möjliggöra fler kommunala lantmäterimyndigheter, inte
+3\. Regelverket bör ändras för att möjliggöra fler kommunala lantmäterimyndigheter, inte
 färre
 Det finns ett flertal tydliga signalerar som pekar på att kommunala lantmäteriet i många fall levererar
 bättre än det statliga Lantmäteriet. Till exempel har kommunala lantmäterimyndigheterna generellt sett
@@ -2467,7 +2467,7 @@ Diarienummer
 KS-2025-00880
 
 Svar på Landsbygds- och infrastrukturdepartementets remiss av - En stärkt hästnäring
-- för företagande, jämställdhet, jämlikhet och folkhälsa SOU 2025:58
+\- för företagande, jämställdhet, jämlikhet och folkhälsa SOU 2025:58
 
 Förslag till beslut i kommunstyrelsen
 
@@ -3476,7 +3476,7 @@ förändrade arbetssätt annars riskerar att genomföras i olika takt och med va
 Risker att hantera i genomförandet
 Nämnden bedömer att följande tre risker är mest centrala för att reformen ska ge avsedd effekt:
 
-1. Risk att lösningen blir teknisk snarare än verksamhetsnära. Om utvecklingen inte tar sin
+1\. Risk att lösningen blir teknisk snarare än verksamhetsnära. Om utvecklingen inte tar sin
 utgångspunkt i tillsynens praktiska behov finns en betydande risk att lösningen inte används som avsett
 eller inte ger den lättillgänglighet och tydlighet som krävs för att stärka likvärdigheten.
 
@@ -3485,12 +3485,12 @@ eller inte ger den lättillgänglighet och tydlighet som krävs för att stärka
 KUNGSBACKA  KOMMUN
 5 (6)
 
-2. Risk att utvecklingen fokuserar på rapportering istället för datainfrastruktur. Om lösningen
+2\. Risk att utvecklingen fokuserar på rapportering istället för datainfrastruktur. Om lösningen
 huvudsakligen utformas för nationell rapportering, utan att säkerställa att data kan användas lokalt för
 
 planering, analys och prioritering, riskerar kommunernas administrativa belastning att öka samtidigt
 som verksamhetsnyttan uteblir.
-3. Risk för bristande samordning mellan myndigheter och parallella statliga initiativ, såsom
+3\. Risk för bristande samordning mellan myndigheter och parallella statliga initiativ, såsom
 FMR (pågående projekt om Företagens miljöinformation och rapportering). Då flera myndigheter
 delar ansvar är tydliga mandat och gemensamma informationsmodeller avgörande. Bristande
 samordning riskerar att leda till dubbelarbete, olika tolkningar och ökade krav på kommunernas system
@@ -3572,25 +3572,25 @@ Redovisning av regeringsuppdrag
 Innehåll
 
 SAMMANFATTNING                                        5
-1.  FÖRSLAG TILL FÖRFATTNINGSÄNDRINGAR                8
+1\.  FÖRSLAG TILL FÖRFATTNINGSÄNDRINGAR                8
 
 1.1 Förslag till lag om ändring i miljöbalken         8
 1.2 Förslag till förordning om ändring i miljötillsynsförordningen 9
-2.  UPPDRAGET OCH DESS GENOMFÖRANDE                  12
+2\.  UPPDRAGET OCH DESS GENOMFÖRANDE                  12
 
 2.1 Uppdraget                                        12
 2.2 Tolkning av uppdraget                            12
 2.3 Organisation                                     13
 
 2.4 Genomförande                                     14
-3.  PROBLEMBESKRIVNING                               16
+3\.  PROBLEMBESKRIVNING                               16
 3.1 Problem med råd och stöd                         16
 
 3.2 Problem med uppföljning och utvärdering          17
 3.3 Problem med samordning för digitalisering av
 tillsynsvägledning                               18
 
-4.  LÖSNINGSALTERNATIV                               19
+4\.  LÖSNINGSALTERNATIV                               19
 4.1 Alternativ för en förbättrad samordning          19
 4.1.1 Alternativ 1 – Naturvårdsverket som ansvarig myndighet 19
 4.1.2 Alternativ 2 – länsstyrelserna som ansvarig myndighet 20
@@ -3606,7 +3606,7 @@ tillsynsvägledning                               18
 4.3.3 Alternativ 3 – central inhämtning med distribuerad hantering 24
 
 4.3.4 Bedömning av alternativ för uppföljning och utvärdering 25
-5.  FÖRSLAG PÅ DIGITALA LÖSNINGAR FÖR
+5\.  FÖRSLAG PÅ DIGITALA LÖSNINGAR FÖR
 TILLSYNSVÄGLEDNING                               26
 5.1 Övergripande utformning av lösning               26
 
@@ -3634,7 +3634,7 @@ TILLSYNSVÄGLEDNING                               26
 5.4.5 En centraliserad digital lösning för uppföljning och utvärdering 42
 5.4.6 Redogörelse för rättsliga förutsättningar      43
 
-6.  FÖRSLAG TILL REGERINGEN                          48
+6\.  FÖRSLAG TILL REGERINGEN                          48
 6.1 Uppdrag att genomföra förslag på digital lösning för
 tillsynsvägledning enligt miljöbalken            48
 6.2 Naturvårdsverket ska tillhandahålla en digital plattform för råd
@@ -3650,7 +3650,7 @@ Naturvårdsverket                                 55
 6.6 Bemyndigande i miljöbalken                       55
 6.7 Övriga bestämmelser om rapportering              58
 
-7.  KONSEKVENSER AV FÖRSLAGEN                        60
+7\.  KONSEKVENSER AV FÖRSLAGEN                        60
 7.1 Övergripande konsekvenser av förslagen           60
 7.1.1 Besparingar och andra övergripande nyttor av förslagen 60
 7.1.2 Övergripande kostnader av förslagen            61
@@ -3681,7 +3681,7 @@ Naturvårdsverket                                 55
 
 7.10 Osäkerheter och utvärderingsbehov               74
 7.11 Behov av särskilda informationsinsatser         74
-8.  KÄLLFÖRTECKNING                                  76
+8\.  KÄLLFÖRTECKNING                                  76
 
 <!-- sida 80 -->
 
@@ -3742,7 +3742,7 @@ tillsynsvägledning enligt miljöbalken. Uppdraget ska vara slutfört och
 6
 
 återrapporteras i Naturvårdsverkets årsredovisning 2029 (för verksamhetsår
-2028) alternativt tre år efter att uppdraget givits. Uppdraget ska genomföras i
+2028\) alternativt tre år efter att uppdraget givits. Uppdraget ska genomföras i
 nära samverkan med kommunerna och länsstyrelsernas deltagande i uppdraget
 ska samordnas av Länsstyrelsen i Västernorrlands län.
 • Det ska införas en bestämmelse i 3 kap. 1 b § miljötillsynsförordning (2011:13)
@@ -3846,7 +3846,7 @@ på marknaden och användning av biocidprodukter
 
 8
 
-1.     Förslag        till
+1\.     Förslag        till
 
 författningsändringar
 
@@ -3959,15 +3959,15 @@ miljöbalken eller utföra kontroll enligt
 förordning (EU) 2017/625 eller
 förordning (EU) 2019/1020.
 Plattformen ska användas för
-1. de tillsynsvägledande myndig-
+1\. de tillsynsvägledande myndig-
 heternas råd och stöd till tillsyns-
 myndigheter enligt 26 kap. 1 a § 2
 miljöbalken,
-2. sådant samarbete mellan tillsyns-
+2\. sådant samarbete mellan tillsyns-
 myndigheter och tillsynsväg-ledande
 myndigheter som avses i 26 kap. 6 §
 miljöbalken, och
-3. sådan samverkan mellan tillsyns-
+3\. sådan samverkan mellan tillsyns-
 vägledande myndigheter som avses i
 3 kap. 1 a § första stycket miljötillsyns-
 förordningen.
@@ -3980,14 +3980,14 @@ enligt förordning (EU) 2017/625 eller
 förordning (EU) 2019/1020, lämnar till
 en tillsynsvägledande myndighet och
 som rör
-1. tillsyn enligt miljöbalken,
-2. kontroll enligt förordning (EU)
+1\. tillsyn enligt miljöbalken,
+2\. kontroll enligt förordning (EU)
 2017/625, och
-3. kontroll enligt förordning (EU)
+3\. kontroll enligt förordning (EU)
 2019/1020.
 Uppgifterna i informationssystemet
 får användas för
-1. de tillsynsvägledande myndig-
+1\. de tillsynsvägledande myndig-
 heternas uppgift vad avser uppföljning
 
 <!-- sida 86 -->
@@ -3996,20 +3996,20 @@ heternas uppgift vad avser uppföljning
 
 och utvärdering som följer av 26 kap.
 1 a § miljöbalken,
-2. rapportering som följer av Sveriges
+2\. rapportering som följer av Sveriges
 medlemskap i Europeiska unionen, och
-3. tillgängliggörande av information
+3\. tillgängliggörande av information
 enligt lagen (2022:818) om den
 offentliga sektorns tillgängliggörande
 av data.
 22 §
 Kemikalieinspektionen ska fullgöra
 Sveriges ansvar för rapportering enligt
-1. artikel 117.1 i förordning (EG) nr
+1\. artikel 117.1 i förordning (EG) nr
 1907/2006,
-2. artikel 46.2 i förordning (EG) nr
+2\. artikel 46.2 i förordning (EG) nr
 1272/2008, och
-3. artikel 65.3 i förordning (EU) nr
+3\. artikel 65.3 i förordning (EU) nr
 528/2012.
 
 23 §
@@ -4027,7 +4027,7 @@ stycket ska lämnas till Livsmedelsverket.
 
 12
 
-2.     Uppdraget           och     dess
+2\.     Uppdraget           och     dess
 
 genomförande
 
@@ -4142,7 +4142,7 @@ lösningar.
 2.4    Genomförande
 
 Regeringsuppdraget har genomförts i olika steg enligt nedan.
-1) Stöd från tidigare processer
+1\) Stöd från tidigare processer
 I planen för ökad digitalisering av tillsynsvägledning5 beskrivs vad myndigheterna
 
 gemensamt vill uppnå och hur de framtagna målbilderna och visionen kan
@@ -4152,7 +4152,7 @@ och Sveriges Kommuner och Regioner. I projektet identifierades och beskrevs
 bland annat att Naturvårdsverket bör ha rollen som ansvarig myndighet för
 digitalisering av tillsynsvägledning.
 
-2) Förslag på digital lösning för tillsynsvägledning
+2\) Förslag på digital lösning för tillsynsvägledning
 I arbetet med regeringsuppdraget har uppdragsmyndigheterna tagit fram förslag på
 digitala lösningar för tillsynsvägledning. Förslaget på digitala lösningar
 konkretiseras i form av två lösningskoncept, ett lösningskoncept för råd och stöd
@@ -4163,7 +4163,7 @@ möts upp av lösningskonceptets förmågor och funktioner. I framtagandet av f�
 på digitala lösningar för tillsynsvägledning ingick att identifiera eventuella hinder,
 möjligheter och förutsättningar som behöver beaktas vid en framtida realisering av
 lösningsförslagen.
-3) Analys utifrån interoperabilitetsperspektiven
+3\) Analys utifrån interoperabilitetsperspektiven
 
 Lösningsförslagen omfattar de fyra interoperabilitetsperspektiven6 nedan. Syftet
 med detta var att identifiera eventuella hinder, möjligheter och förutsättningar som
@@ -4194,7 +4194,7 @@ Inom analysen av det rättsliga perspektivet klargjordes att det behövs
 författningsändringar för att genomföra förslagen på digitala lösningar för
 tillsynsvägledning.
 
-4) Förslag och konsekvensanalys
+4\) Förslag och konsekvensanalys
 Utifrån identifierade behov och målbilder utformades förslag på digitala lösningar
 för tillsynsvägledning. Vid utformningen av förslagen beaktades de resultat som
 redan har tagits fram inom regeringsuppdraget7 och med utgångspunkt från det
@@ -4212,7 +4212,7 @@ om konsekvensutredningar.
 
 16
 
-3.     Problembeskrivning
+3\.     Problembeskrivning
 
 Tillsynsvägledning är en förutsättning för att det decentraliserade tillsynsansvaret i
 kommuner och länsstyrelser ska fungera och att miljöbalken tillämpas likvärdigt
@@ -4364,7 +4364,7 @@ formaliserat ansvarstagande.
 
 19
 
-4.     Lösningsalternativ
+4\.     Lösningsalternativ
 
 Uppdragsmyndigheterna har tillsammans med andra myndigheter identifierat och
 diskuterat olika lösningsalternativ. I detta kapitel beskrivs de lösningar som
@@ -4724,7 +4724,7 @@ hållbara och ändamålsenliga alternativet.
 
 26
 
-5.     Förslag        på   digitala
+5\.     Förslag        på   digitala
 
 lösningar         för
 
@@ -5427,9 +5427,9 @@ tillgängliggörande
 Databearbetning brukar delas in i olika faser med olika syften, men hanteras i
 praktiken på likartade sätt
 
-1) inläsning och rådata
-2) filtrera, rensa och validera
-3) förädla och paketera.
+1\) inläsning och rådata
+2\) filtrera, rensa och validera
+3\) förädla och paketera.
 
 Vilka av dessa bearbetningssteg och tillgängliggörandefunktioner som den digitala
 lösningen för uppföljning och utvärdering ska tillhandahålla behöver utgå från de
@@ -5505,19 +5505,19 @@ bransch- och sakområden, samt samverka vid framtagandet av de gemensamma
 delarna.
 I stora drag innebär det centraliserade lösningsförslaget att:
 
-1) Tillsynsmyndighetens rapportering sker mot en central punkt och någon
+1\) Tillsynsmyndighetens rapportering sker mot en central punkt och någon
 form av gränssnitt. Gränssnittet kan vara både användar- och
 maskingränssnitt, beroende på hur mycket tillsynsmyndigheten vill
 automatisera sin process.
-2) Rapporters innehåll ska svara upp mot överenskomna
+2\) Rapporters innehåll ska svara upp mot överenskomna
 dataproduktspecifikationer.
-3) Lösningen tar emot, validerar och lagrar den inrapporterade
+3\) Lösningen tar emot, validerar och lagrar den inrapporterade
 informationen.
-4) Databearbetningen sker i lösningen och genererar nya och förädlade
+4\) Databearbetningen sker i lösningen och genererar nya och förädlade
 
 dataprodukter utifrån överenskomna specifikationer. Bearbetning av data
 sker via fördefinierade och automatiserade processer.
-5) Lösningen ansvarar för att tillgängliggöra utdata. Det kan ske som öppna
+5\) Lösningen ansvarar för att tillgängliggöra utdata. Det kan ske som öppna
 data eller som data med begränsad åtkomst.
 
 <!-- sida 118 -->
@@ -5734,7 +5734,7 @@ och regleras mellan aktörerna innan systemet tas i drift.
 
 48
 
-6.     Förslag        till  regeringen
+6\.     Förslag        till  regeringen
 
 6.1    Uppdrag    att genomföra   förslag på
 
@@ -6358,7 +6358,7 @@ kontrollmyndigheter; bemyndigande finns i 31 § livsmedelsförordningen
 
 60
 
-7.     Konsekvenser               av
+7\.     Konsekvenser               av
 
 förslagen
 
@@ -7155,7 +7155,7 @@ myndigheternas webbplatser.
 
 76
 
-8.     Källförteckning
+8\.     Källförteckning
 
 Rapporter och redovisningar
 
@@ -7429,7 +7429,7 @@ fördjupning för Norra Kusten, har förklarats inaktuella (Kommunfullmäktige,
 
 Planförslaget var ute på samråd under perioden 1 december 2024 till 31 mars
 
-2025. Under samrådsperioden inkom synpunkter från statliga myndigheter,
+2025\. Under samrådsperioden inkom synpunkter från statliga myndigheter,
 kommunala nämnder och bolag samt från olika typer av organisationer och
 föreningar, exploatörer, fastighetsägare och privatpersoner. Samtliga inkomna
 synpunkter har sammanställts och bemötts i en samrådsredogörelse.
@@ -7699,7 +7699,7 @@ Datum
 
 § 109                      Dnr KFT-2025-00229
 Beredning av motion - Hedra pandemins vardagshjältar (KS-2025-
-00597)
+00597\)
 
 Beslut
 Nämnden föreslår Kommunfullmäktige att avslå motionen.
@@ -8132,7 +8132,7 @@ flera förvaltningar och det kommunala bostadsbolaget Eksta.
 
 Under året har arbetet fortsatt med den fördjupade översiktsplanen för Kungsbacka stad. Förslaget har under året
 varit ute på granskning, därefter sammanställs synpunkter och eventuella justeringar inför antagande i början av
-2026.
+2026\.
 
 Viktiga händelser inom personalområdet
 Under året har en ny kommundirektör och säkerhetschef rekryterats. Kommundirektören tillträdde april och
@@ -8223,11 +8223,11 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
--  I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\-  I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
 
--  Kungsbacka har välkomnande och trygga miljöer.
--  I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
--  I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\-  Kungsbacka har välkomnande och trygga miljöer.
+\-  I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\-  I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Sammanfattning av styrelsens arbete med målet
 Trygghetspunkter
@@ -8279,12 +8279,12 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
--  Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\-  Kungsbacka växer med en långsiktigt hållbar ekonomi.
 
--  Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\-  Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
--  Kungsbacka ska verka för ett socialt hållbart samhälle.
--  Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\-  Kungsbacka ska verka för ett socialt hållbart samhälle.
+\-  Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av styrelsens arbete med målet
 Hållbarhetskriterier vid markanvisning
@@ -8318,8 +8318,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
--  Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
--  I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom
+\-  Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\-  I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom
 samverkan mellan näringsliv och utbildning.
 
 8
@@ -8416,9 +8416,9 @@ Beslutats av
 
 Kommunfullmäktige
 Fokusområden
--  Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\-  Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 
--  I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\-  I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av styrelsens arbete med målet
 Kommunstyrelsen har inte haft några riktade aktiviteter mot detta mål under året.
@@ -8428,7 +8428,7 @@ Kommunstyrelsen har inte haft några riktade aktiviteter mot detta mål under å
 Beslutats av
 Kommunfullmäktige
 Fokusområden
--  I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att
+\-  I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att
 utforma det goda livet.
 
 10
@@ -8438,9 +8438,9 @@ utforma det goda livet.
 Kommunstyrelsen                                  Kungsbacka kommun
 Årsredovisning 2025
 
--  Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\-  Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
--  Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
+\-  Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
 ledare.
 Sammanfattning av styrelsens arbete med målet
 
@@ -8481,19 +8481,19 @@ risktagande. Vi behöver utmana nuvarande arbetssätt och testa saker som vi ald
 misslyckas många gånger innan vi träffar rätt.
 Nämnderna och kommunstyrelsen får i uppdrag att öka tempot med att förnya verksamheten genom att:
 
--  bygga en kultur som inspirerar och tillåter experimenterande och testande, utforskande och
+\-  bygga en kultur som inspirerar och tillåter experimenterande och testande, utforskande och
 medskapande
--  aktivt samverka med invånare, civilsamhälle, näringsliv, akademi samt andra offentliga aktörer för att
+\-  aktivt samverka med invånare, civilsamhälle, näringsliv, akademi samt andra offentliga aktörer för att
 hitta lösningar
 
--  öka andelen målsökande utvecklingsinitiativ med fokus på förnyelse och extern nytta
--  skala upp nya arbetssätt och säkerställa att nyttan realiseras
--  utgå från digitalt först
+\-  öka andelen målsökande utvecklingsinitiativ med fokus på förnyelse och extern nytta
+\-  skala upp nya arbetssätt och säkerställa att nyttan realiseras
+\-  utgå från digitalt först
 
--  kompetensutveckla och förstärka med nya kompetenser
--  skapa ändamålsenliga tekniska förutsättningar
+\-  kompetensutveckla och förstärka med nya kompetenser
+\-  skapa ändamålsenliga tekniska förutsättningar
 
--  säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering
+\-  säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering
 som bidrar till framtidens välfärd
 Kommentar
 Kommunstyrelsens förvaltning har arbetat intensivt med att leda, samordna och stötta arbetet med att öka
@@ -8676,11 +8676,11 @@ vid kris eller krig.
 
 Under 2025 förväntas samtliga nämnder därför:
 
--  Driva ett aktivt arbete med att både planera och investera i civil beredskap utifrån sina behov.
--  Påbörja samverkan med frivilligorganisationer och civilsamhället.
+\-  Driva ett aktivt arbete med att både planera och investera i civil beredskap utifrån sina behov.
+\-  Påbörja samverkan med frivilligorganisationer och civilsamhället.
 
--  I förekommande fall påbörja samverkan med näringslivet.
--  Säkerställa att tillämpliga upphandlingar och nya leverantörsavtal är utformade så att de omhändertar
+\-  I förekommande fall påbörja samverkan med näringslivet.
+\-  Säkerställa att tillämpliga upphandlingar och nya leverantörsavtal är utformade så att de omhändertar
 behovet av lagerhållning och redundans kopplat till en kris- eller krigssituation.
 
 15
@@ -8690,8 +8690,8 @@ behovet av lagerhållning och redundans kopplat till en kris- eller krigssituati
 Kommunstyrelsen                                  Kungsbacka kommun
 Årsredovisning 2025
 
--  I förekommande fall lokalisera, peka ut och påbörja upprustning av trygghetspunkter.
--  För att påskynda arbetet med att höja den civila beredskapen avsätter Alliansen i Kungsbacka tio
+\-  I förekommande fall lokalisera, peka ut och påbörja upprustning av trygghetspunkter.
+\-  För att påskynda arbetet med att höja den civila beredskapen avsätter Alliansen i Kungsbacka tio
 miljoner kronor till kommunens finansverksamhet under budgetåret 2025
 Kommentar
 
@@ -8766,9 +8766,9 @@ medarbetare till gagn, men vara särskilt utformad för de som jobbar i våra yt
 kan vara medarbetare på stödboenden, skolor eller inom hemtjänsten. Satsningen bör utformas i samråd med
 fackliga parter och utvärderas under 2027 med utgångspunkten att det framöver ska utgöra ett varaktigt inslag
 
--  Friskvårdsbidraget höjs med 500 kronor till 2 000 kronor, vilket ska finansieras inom ram.
+\-  Friskvårdsbidraget höjs med 500 kronor till 2 000 kronor, vilket ska finansieras inom ram.
 
--  Kommunstyrelsen får i uppdrag att genomföra en särskild satsning för att möjliggöra träning eller
+\-  Kommunstyrelsen får i uppdrag att genomföra en särskild satsning för att möjliggöra träning eller
 motsvarande friskvårdsaktivitet i anslutning till arbetsdagen. Satsningen ska särskilt utformas för att
 möjliggöra deltagande av de medarbetare som arbetar på obekväma tider och i alla kommunens
 verksamheter. Aktiviteter bör tas fram i samråd med fackliga representanter.
@@ -8870,11 +8870,11 @@ i månader
 Namn                           Utfall  Utfall Utfall Utfall Utfall
 2021    2022    2023   2024   2025
 Antal nystartade företag per 1000 invånare
-13,8   12,8    10,3   12,3   *
+13,8   12,8    10,3   12,3   \*
 16–64 år (etableringsfrekvens)
-Antal arbetsställen           11 603  11 808  11 948 11 987  *
-Sysselsatt dagbefolkning, 15–74 år 28 167 28 494 28 586 28 426 *
-* Ännu ej publicerad
+Antal arbetsställen           11 603  11 808  11 948 11 987  \*
+Sysselsatt dagbefolkning, 15–74 år 28 167 28 494 28 586 28 426 \*
+\* Ännu ej publicerad
 
 19
 
@@ -8921,7 +8921,7 @@ Samtliga anmälningar om tillbud och olycksfall har utretts och åtgärder har v
 6.1.3 Arbetsmiljömål
 
 Kommunens övergripande mål för arbetsmiljöarbetet
-- Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+\- Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
 20
 
@@ -8939,11 +8939,11 @@ Kommunens övergripande mål för arbetsmiljöarbetet
 Kommunstyrelsen                                  Kungsbacka kommun
 Årsredovisning 2025
 
-- Sjukfrånvaron ska minska.
-- Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
-- Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+\- Sjukfrånvaron ska minska.
+\- Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
+\- Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
 
-- Medarbetarna upplever balans mellan krav och resurser i arbetet.
+\- Medarbetarna upplever balans mellan krav och resurser i arbetet.
 Kommunstyrelsens förvaltning anordnar utbildningar för chefer och skyddsombud i kommunen. Dessa
 utbildningar syftar till att säkerställa att vi har den kompetens som krävs för ett effektivt systematiskt
 arbetsmiljöarbete.

@@ -1983,7 +1983,7 @@ Enligt gällande lokalpolicy för Kungsbacka kommun.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja, NYKO 4 (Onsala)
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 51 -->
 
@@ -2131,7 +2131,7 @@ Enligt gällande lokalpolicy för Kungsbacka kommun.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja, NYKO 6 (Åsa)
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 55 -->
 
@@ -2243,7 +2243,7 @@ verksamhetsfunktionen.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 
 Ja, NYKO 1 och specifikt Björkris/Skårby.
-\_______________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 58 -->
 
@@ -2383,7 +2383,7 @@ Enligt gällande lokalpolicy för Kungsbacka kommun.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Idag bedrivs anpassad grundskola på Kollaskolan (NYKO 1). I så stor utsträckning som möjligt vill vi
 att AGR bedrivs på denna plats.
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 62 -->
 

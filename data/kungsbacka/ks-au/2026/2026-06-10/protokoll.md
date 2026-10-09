@@ -234,7 +234,7 @@ Sammanfattning av ärendet
 Västra Götalandsregionen (VGR) har beslutat att revidera Målbild tåg 2035,
 inklusive Västtågsutredningen. Framtagandet av det nya strategiska
 dokumentet, Storkoll 2050, beräknas pågå till och med 2027 med antagande våren
-2028.
+2028\.
 
 För Kungsbacka och pendelstråket mot Göteborg är kapacitet, robusthet och fortsatt
 god tillgänglighet för arbets- och studiependling särskilt viktiga frågor. Behov av

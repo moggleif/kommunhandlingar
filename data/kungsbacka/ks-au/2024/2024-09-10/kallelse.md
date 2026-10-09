@@ -88,7 +88,7 @@ KUNGSBACKA  KOMMUN
 
 4(5)
 
-13. Kungsbacka Arena      2019-00047 Förslag till beslut i kommunstyrelsen
+13\. Kungsbacka Arena      2019-00047 Förslag till beslut i kommunstyrelsen
 genomförandefrågor; förstudie   Kommunstyrelsen godkänner Förstudierapport
 lokalprogram, uthyrning och     Kungsbacka Arena Fas 1, daterad 2024-08-08, med
 driftentreprenad, arenanamn     projektanpassningar enligt alternativ C.

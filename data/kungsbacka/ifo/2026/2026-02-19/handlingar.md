@@ -270,7 +270,7 @@ av offentlig plats m.m.
 
 Avgiften får tas ut enligt de grunder som har beslutats av kommunfullmäktige.
 
-\_____
+\_\_\_\_\_
 
 Kungsbacka kommun föreskriver följande med stöd av förordningen (1993:1632) med bemyndigande för
 
@@ -324,7 +324,7 @@ Bilaga 3 – Förteckning över platser som jämställs med offentlig plats enli
 Bilaga 4 – Information om annan lagstiftning
 Bilaga 5 – Områden där passiv insamling av pengar inte får ske enligt 14 b §.
 
-\____
+\_\_\_\_
 
 Lokala ordning sföreskrifter   Sida 2 av 7
 

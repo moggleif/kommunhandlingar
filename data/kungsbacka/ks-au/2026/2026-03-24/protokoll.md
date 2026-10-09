@@ -1042,10 +1042,10 @@ Spoven) och Kungsbacka sjukhus. Dock har beslutet rörande Kungsbacka sjukhus
 överklagats till nästa instans.
 
 Lisa Andersson (M) lämnar information om:
-- länsstyrelsens uppföljningsbesök rörande arbetet med civil beredskap. Uppföljning
+\- länsstyrelsens uppföljningsbesök rörande arbetet med civil beredskap. Uppföljning
 av kommunens arbete görs två gånger per mandatperiod.
 
-- information inför medlemssamråd för Räddningstjänstförbundet Storgöteborg.
+\- information inför medlemssamråd för Räddningstjänstförbundet Storgöteborg.
 Kommunsekreterare Therese Tanner lämnar information om att det finns ett förslag
 
 till sammanträdestider för 2027 framtaget.

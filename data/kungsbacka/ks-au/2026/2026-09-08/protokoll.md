@@ -594,14 +594,14 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Biträdande kommundirektör Anders Johansson informerar om:
--  delårsbokslut för kommunstyrelsen. Ärendet behandlas i kommunstyrelsen i
+\-  delårsbokslut för kommunstyrelsen. Ärendet behandlas i kommunstyrelsen i
 
 september.
--  Tvist med företaget som vann upphandlingen av kassasystemet som används i
+\-  Tvist med företaget som vann upphandlingen av kassasystemet som används i
 verksamheterna, exempelvis caféer på skolor och kultur och fritid.
 
 Kommunsekreterare Therese Tanner informerar om:
--  förtidsröstningen i framförallt Kungsmässan. Den lokalen är en av de tre som
+\-  förtidsröstningen i framförallt Kungsmässan. Den lokalen är en av de tre som
 tar emot flest röster i Sverige.
 
 Beslutsgång

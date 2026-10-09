@@ -330,8 +330,8 @@ Kommunfullmäktige antog den 4 november 2025 avfallstaxan för 2026. Efter att
 taxan fastställts i kommunfullmäktige har nämnden för Teknik uppmärksammat att
 taxan innehåller felaktiga avgifter i två av taxetabellerna:
 
-* 4.4.4.1 Gångavstånd till kärl
-* 4.7 Slamsugning och tömning av fettavskiljare.
+\* 4.4.4.1 Gångavstånd till kärl
+\* 4.7 Slamsugning och tömning av fettavskiljare.
 
 Med anledning av de felaktiga avgifterna har nämnden för Teknik tagit fram en
 uppdaterad taxa för 2026, som nu översänts till kommunfullmäktige för fastställande.
@@ -491,7 +491,7 @@ Rapporten sker IVO kvartalsvis och på individnivå. Har nämnden inga ej verkst
 beslut att rapportera behöver IVO inte informeras.
 
 Ett ärende gällande avbruten verkställighet rapporteras till IVO under kvartal 4,
-2025.
+2025\.
 
 Beslutsunderlag
 
@@ -593,17 +593,17 @@ Elisabeth Sahlsten (MP) och Maria Losman (MP) har i en motion som anmäldes till
 kommunfullmäktige 6 maj 2025 föreslagit ett antal åtgärder kopplade till minskad
 vattenförbrukning. I motionen föreslås att kommunen ska:
 
-* Uppmuntra enskilda fastighetsägare och byggentreprenörer att installera
+\* Uppmuntra enskilda fastighetsägare och byggentreprenörer att installera
 vattenbesparande utrustning.
 
-* Erbjuda rådgivning och tips till de fastighetsägare som vill installera
+\* Erbjuda rådgivning och tips till de fastighetsägare som vill installera
 vattenbesparande system och cirkulerande system för till exempel regnvatten och
 gråvatten.
-* Uppmuntra innovativ teknik för att använda regnvatten och återcirkulerat
+\* Uppmuntra innovativ teknik för att använda regnvatten och återcirkulerat
 gråvatten.
 
-* Utreda hur källsortering av avloppsvatten kan testas i en pilotanläggning.
-* Lämna uppdrag till Eksta Bostads AB att skissa ett pilotsystem med hållbar
+\* Utreda hur källsortering av avloppsvatten kan testas i en pilotanläggning.
+\* Lämna uppdrag till Eksta Bostads AB att skissa ett pilotsystem med hållbar
 bostadsbebyggelse förslagsvis i Forsbergen.
 
 Det här dokumentet är digitalt signerat

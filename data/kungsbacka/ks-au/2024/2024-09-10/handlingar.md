@@ -88,7 +88,7 @@ KUNGSBACKA  KOMMUN
 
 4(5)
 
-13. Kungsbacka Arena      2020-00547 Förslag till beslut i kommunstyrelsen
+13\. Kungsbacka Arena      2020-00547 Förslag till beslut i kommunstyrelsen
 genomförandefrågor; förstudie
 Kommunstyrelsen godkänner Förstudierapport
 lokalprogram, uthyrning och
@@ -343,7 +343,7 @@ alla nämnder tas planen av KS runt halvårsskiftet för att vara tillgänglig i
 Riskanalysen för 2025 bygger på tidigare års riskinventering och resultat från granskningar samt
 omvärldsanalys. Någon ny risk har identifierats och någon har omformulerats. Riskerna som tas till granskning
 är i stort sett samma som föregående år med tillägg för efterlevnad till inköpsprocessen som återkommer från
-2023.
+2023\.
 
 4
 
@@ -831,31 +831,31 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 27 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för förvaring av cykel i kommunens två olika typer av låst
 cykelförvaring.
 
 Avgifter enligt denna taxa ska betalas till Kungsbacka kommun eller av kommunen avtalad
 leverantör av tjänster för cykelförvaring.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Taxan för de låsta cykelparkeringarna grundar sig på självkostnadsprincipen enligt 2 kap. 6 §
 kommunallagen och är beräknad utifrån kostnader för att sköta ytan samt byggnad där
 parkeringarna finns.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Mervärdesskatt (moms) tas ut med 25 procent.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 Avgift för cykelparkering tas ut som abonnemangstjänst. I cykelgaraget vid Kungsbacka station
 erbjuds även korttidshyra för 24 timmar åt gången utan ytterligare bindningstid. Avgift tas ut per
 påbörjad abonnemangsperiod alternativt påbörjat dygn.
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Avgiftsbeloppen justeras för kommande år enligt förändringen i konsumentprisindex för oktober
 
 månad innevarande år, KPI.
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 
 Berörda förvaltningar ges i uppdrag att årligen justera avgifterna enligt taxans punkt 5.
 Indexjustering av avgiftsbelopp.
@@ -1380,7 +1380,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 42 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -1433,7 +1433,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        2 (15)
 
 <!-- sida 43 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -1560,7 +1560,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter (§§ 5–12)
+3\. Anläggningsavgifter (§§ 5–12)
 
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 
@@ -1591,9 +1591,9 @@ d) Bostadsenhetsavgift                   -       -   50 212 kr
 40%
 60%
 Avgift för Dagvatten utan att
-e)*                       -       -      26 525 kr - 26 525 kr
+e)\*                       -       -      26 525 kr - 26 525 kr
 förbindelsepunkt är upprättad
-*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
+\*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        5 (15)
@@ -1695,9 +1695,9 @@ b) Förbindelsepunktsavgift                      -    85 758 kr
 c) Tomtyteavgift per m2                              117,32 kr
 30%    50%    5%       15%
 Avgift för Dagvatten utan att
-d)*                      -      -      26 525 kr -
+d)\*                      -      -      26 525 kr -
 förbindelsepunkt är upprättad
-*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
+\*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
@@ -1771,7 +1771,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        8 (15)
 Bebyggs Obebyggd fastighet ska resterande avgifter betalas enligt följande:
 
 Avgifterna är uttryckta i procent av full avgift per vattentjänst.
-*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
+\*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
 medger detta.
 
 § 8
@@ -1815,7 +1815,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        9 (15)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
-| Tomtyteavgift | 5.1 c) | *) | 6.1 c) | 30% |
+| Tomtyteavgift | 5.1 c) | \*) | 6.1 c) | 30% |
 | Bostadsenhetsavgift | 5.1 d) | 100% | - |  |
 
 [Tabell 49-2](handlingar.tabeller/49-2.csv)
@@ -1886,7 +1886,7 @@ Avgifter enligt §§ 5–6 är baserade på Entreprenadindex 2011, 50% 311 Jorda
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4. Brukningsavgifter (§§ 14–21)
+4\. Brukningsavgifter (§§ 14–21)
 
 § 14
 
@@ -2090,7 +2090,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -2098,7 +2098,7 @@ Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -2430,7 +2430,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 65 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
 
 avloppsanläggning.
@@ -2483,7 +2483,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        2 (19)
 
 <!-- sida 66 -->
 
-2. Allmänt
+2\. Allmänt
 § 1
 
 För att täcka nödvändiga kostnader för Kungsbacka kommuns allmänna vatten- och
@@ -2610,7 +2610,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3. Anläggningsavgifter (§§ 5–12)
+3\. Anläggningsavgifter (§§ 5–12)
 
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 
@@ -2640,9 +2640,9 @@ d) Bostadsenhetsavgift                   -       -   50 212 kr
 40%
 60%
 Avgift för Dagvatten utan att
-e)*                       -       -      26 525 kr - 26 525 kr
+e)\*                       -       -      26 525 kr - 26 525 kr
 förbindelsepunkt är upprättad
-*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
+\*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        5 (19)
@@ -2670,7 +2670,7 @@ d)  Bostadsenhetsavgift                   -      -    46 220 kr
 50%
 50%
 Avgift för Dagvatten utan att
-e)*                        -       -      16 650 kr - 16 650 kr
+e)\*                        -       -      16 650 kr - 16 650 kr
 förbindelsepunkt är upprättad
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        6 (19)
@@ -2772,9 +2772,9 @@ b) Förbindelsepunktsavgift                      -    85 758 kr
 c) Tomtyteavgift per m2                              117,32 kr
 30%    50%    5%       15%
 Avgift för Dagvatten utan att
-d)*                      -      -      26 525 kr -
+d)\*                      -      -      26 525 kr -
 förbindelsepunkt är upprättad
-*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
+\*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 2024
@@ -2798,7 +2798,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        8 (19)
 c)  Tomtyteavgift per m2                              67,00 kr
 30%    30%    30%     10%
 Avgift för Dagvatten utan att
-d)*                       -      -      22 200kr -
+d)\*                       -      -      22 200kr -
 förbindelsepunkt är upprättad
 6.2
 
@@ -2866,7 +2866,7 @@ enligt 5.1 a), b) och e), jämför 5.3 andra stycket.
 Bebyggs Obebyggd fastighet ska resterande avgifter betalas enligt följande:
 
 Avgifterna är uttryckta i procent av full avgift per vattentjänst.
-*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
+\*Bebyggs Bostadsfastighet tas ytterligare avgift ut enligt 5.1 c) om föreskriften i 5.3 andra stycket
 medger detta.
 
 § 8
@@ -2902,7 +2902,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        10 (19)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
-| Tomtyteavgift | 5.1 c) | *) | 6.1 c) | 30% |
+| Tomtyteavgift | 5.1 c) | \*) | 6.1 c) | 30% |
 | Bostadsenhetsavgift | 5.1 d) | 100% | - |  |
 
 [Tabell 73-2](handlingar.tabeller/73-2.csv)
@@ -2984,7 +2984,7 @@ Avgifter enligt §§ 5–6 är baserade på Entreprenadindex 2011, 50% 311 Jorda
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4. Brukningsavgifter (§§ 14–21)
+4\. Brukningsavgifter (§§ 14–21)
 
 § 14
 
@@ -3234,7 +3234,7 @@ Har fastighet med stöd av 43 § Lag om allmänna vattentjänster (2016:412)
 avstängts från vattentillförsel, påförs fastighetens ägare Kungsbacka kommuns
 kostnader för avstängning och återinkoppling med belopp enligt § 18.
 
-5. Taxans införande
+5\. Taxans införande
 
 § 22
 Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 och
@@ -3242,7 +3242,7 @@ Denna taxa träder i kraft 2025-01-01. De brukningsavgifter enligt 14.1, 14.3 oc
 tillämpas i fråga om den vattenmängd som levereras och den spillvattenmängd som
 släpps ut efter den ovan angivna dagen för taxans ikraftträdande.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+\* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \*
 
 Mål som rör tvist mellan fastighetsägare och huvudmannen beträffande tillämpning
 och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lagen
@@ -3888,7 +3888,7 @@ eventuella synpunkter på process och resultat av arbetet.
 Skriftliga synpunkter ska ha inkommit till Göteborgsregionen senast 23
 september 2024. Synpunkter skickas till cecilia.kvist@goteborgsregionen.se
 med diarium@goteborgsregionen.se på kopia. Ange diarienummer FS2024-
-00061.
+00061\.
 
 Frågor
 
@@ -4201,7 +4201,7 @@ Regional utvecklingsstrategi för Västra Götaland framtagandet av planen. Stra
 utvecklingsarbetet och innehåller prioriteringar beskrivningen som är en del av den regionala
 för att möjliggöra omställningen till ett mer infrastrukturplanen. Slutsatser sammanfattas i
 hållbart och konkurrenskraftigt samhälle till år kapitlet Bedömning av effekter.
-2030. Klimat 2030 och
+2030\. Klimat 2030 och
 Trafikförsörjningsprogrammet är
 regionövergripande styrdokument som den
 regionala infrastrukturplanen ska stödja. Andra
@@ -4226,7 +4226,7 @@ PROGRAM     2030
 STRATEGI
 Vision Västra Götaland är Västra
 Götalandsregionens och de 49
-6. REGIONAL 7.STRATEGI
+6\. REGIONAL 7.STRATEGI
 kommunernas gemensamma vision.    INFRASTRUKTUR- FÖR ÖKAD
 Visionen uttrycker det önskade framtida PLAN CYKLING
 tillståndet – Det goda livet.
@@ -5601,8 +5601,8 @@ plan för åtgärder på kommunalt vägnät.
 
 Trimning och
 effektivisering,
-1. Samordnar
-2. Prioriterar 3. Genomför
+1\. Samordnar
+2\. Prioriterar 3. Genomför
 I stråk och     behov och förslag
 Till stråk
 • Västtrafik och
@@ -5619,7 +5619,7 @@ effektivisering till stråk.
 
 Statlig
 medfinans till
-1. Årlig ansökan till 2. Prioriterar 3. Genomför
+1\. Årlig ansökan till 2. Prioriterar 3. Genomför
 kommunalt
 vägnät
 
@@ -5979,7 +5979,7 @@ Ytterby. Åtgärden möjliggör
 framtida kommunal
 exploatering.
 Väg 161, Rotvik Väg 161 ingår i ett för Befintlig väg har låg standard Mötesfri väg och 270 mnkr 270 mnkr Inget data
-- Bäcken    transporter och pendling viktigt och ett stort antal bostäder GC-bana.
+\- Bäcken    transporter och pendling viktigt och ett stort antal bostäder GC-bana.
 regionalt stråk mellan Lysekil, ligger nära vägen. Vägen är
 Uddevalla, Trollhättan, mycket smal och
 Lidköping, Skövde och vägstandarden har stora
@@ -6016,10 +6016,10 @@ möjliggör utbyggnad av 3 000
 bostäder i Partille kommun.
 Väg 41,                                                                                           Inget data
 Sundholmen
-- Björketorp
+\- Björketorp
 
 Väg 49, Axvall                                                                                    Inget data
-- Varnhem
+\- Varnhem
 
 44
 
@@ -6040,7 +6040,7 @@ Förslag till                             Övrig
 mnkr         mnkr
 Inget data
 Väg 41, Fritsla Väg 41, mellan Varberg och Behov av att öka Mötesfri väg. 80 mnkr 80 mnkr
-- Kråkered   Borås, är ett viktigt trafiksäkerheten och
+\- Kråkered   Borås, är ett viktigt trafiksäkerheten och
 komplement till det nationella framkomligheten i ett viktigt
 vägnätet för såväl   stråk mellan Borås och
 godstransporter som  Varberg.
@@ -6053,7 +6053,7 @@ utpekade sträckan berör den
 norra delen av väg 41
 närmare Borås.
 Väg 49, Skövde                                                                                 Skövde kommun
-- Igelstorp
+\- Igelstorp
 
 Väg 168, Tjuvkil                                                                               Kungälvs
 kommun
@@ -6114,7 +6114,7 @@ mnkr         mnkr
 Inget data
 Väg 49       Väg 49 utgör en del av Sträckan har brister gällande Mötesfri väg, 281 mnkr 281 mnkr
 Varnhem      kopplingen Lidköping - Skara trafiksäkerhet då det bland trafiksäkerhets-
-- Storekullen - Skövde vilket är kopplingen annat finns många höjande åtgärder
+\- Storekullen - Skövde vilket är kopplingen annat finns många höjande åtgärder
 mellan Skaraborgs två största anslutningar. samt GC-väg.
 lokala arbetsområden. Tillgängligheten till
 Sträckan är viktig för busshållplatser och
@@ -6128,7 +6128,7 @@ Backadal-    kommuner: Härryda, Mark, tillgänglighet samt i
 Bonared      Svenljunga och Tranemo. Den trafiksäkerhet för
 aktuella sträckan kopplar ihop personbilstrafik,
 Marks kommun med riksväg kollektivtrafik och
-40. De kommande åren godstransporter samt för
+40\. De kommande åren godstransporter samt för
 planerar Marks kommun för oskyddade trafikanter. Norr
 cirka 740 nya bostäder. För att om Hjorttorp saknas
 kunna realisera detta och viltstängsel.
@@ -6927,15 +6927,15 @@ framförs även att undersökningarna ska redovisas på ett ändamålsenligt sä
 kommunfullmäktiges övergripande arbetsmiljömål.
 
 Målen är följande:
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
-2. Sjukfrånvaron ska minska.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
 tillämpning.
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
 
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 Kommunstyrelsens arbetsutskott remitterade den 9 januari 2024 motionen till nämnden för Individ &
 Familjeomsorg och nämnden för Vård & Omsorg för beredning.
 
@@ -6988,21 +6988,21 @@ Ermin Škorić (S) och Maj-Britt Rane Andersson (S) har den 24 september 2023
 inkommit med en motion om att nämnden för Vård & Omsorg och nämnden för
 Individ & Familjeomsorg ges i uppdrag att utveckla en medarbetarundersökning
 utifrån de fem övergripande målen som kommunfullmäktige antog den 6 oktober
-2020.
+2020\.
 
 I motionen framförs att undersökningarna ska redovisas på ett ändamålsenligt sätt i
 enlighet med kommunfullmäktiges övergripande arbetsmiljömål.
 
 Målen är följande:
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
-2. Sjukfrånvaron ska minska.
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt
+2\. Sjukfrånvaron ska minska.
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt
 dess tillämpning.
 
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under
 arbetsdagen.
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ &
 Familjeomsorg och nämnden för Vård & Omsorg för beredning.
@@ -7124,13 +7124,13 @@ I motionen framförs att undersökningarna ska redovisas på ett ändamålsenlig
 kommunfullmäktiges övergripande arbetsmiljömål.
 Målen är följande:
 
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
-2. Sjukfrånvaron ska minska.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
 
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ & Familjeomsorg
 och nämnden för Vård & Omsorg för beredning.
@@ -7257,16 +7257,16 @@ Familjeomsorg ges i uppdrag att utveckla en medarbetarundersökning utifrån de 
 övergripande målen som kommunfullmäktige antog den 6 oktober 2020. I motionen
 framförs även att undersökningarna ska redovisas på ett ändamålsenligt sätt i enlighet
 med kommunfullmäktiges övergripande arbetsmiljömål. Målen är följande:
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
-2. Sjukfrånvaron ska minska.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt
 dess tillämpning.
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under
 arbetsdagen.
 
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ &
 Familjeomsorg och nämnden för Vård & Omsorg för beredning.
 
@@ -7333,13 +7333,13 @@ medarbetarundersökning utifrån de fem övergripande målen som kommunfullmäkt
 oktober 2020. I motionen framförs även att undersökningarna ska redovisas på ett ändamålsenligt sätt i
 enlighet med kommunfullmäktiges övergripande arbetsmiljömål. Målen är följande:
 
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
-2. Sjukfrånvaron ska minska.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess tillämpning.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
 
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ & Familjeomsorg
 och nämnden för Vård & Omsorg för beredning.
@@ -7531,16 +7531,16 @@ bättre arbetsmiljö.
 Under hösten 2020 antog kommunfullmäktige fem övergripande arbetsmiljömål som ligger i
 fokus för den egna verksamheten i kommunen. Dessa är:
 
-1. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
+1\. Ingen ska drabbas av ohälsa eller skadas på grund av sitt arbete.
 
-2. Sjukfrånvaron ska minska.
+2\. Sjukfrånvaron ska minska.
 
-3. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
+3\. Alla chefer har kunskap om aktuell lagstiftning gällande arbetsmiljöområdet, samt dess
 tillämpning.
 
-4. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
+4\. Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
 
-5. Medarbetarna upplever balans mellan krav och resurser i arbetet.
+5\. Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 Nämnden Individ och Familjeomsorg och nämnden Vård och Omsorg har många
 beröringspunkter inte minst utifrån nuvarande reglementen, lagområden, målgrupper och
@@ -7727,7 +7727,7 @@ Sign
 
 9.1
 
-10.
+10\.
 
 10.1
 
@@ -7796,7 +7796,7 @@ Sign
 
 <!-- sida 183 -->
 
-11.
+11\.
 
 11.2
 
@@ -7804,7 +7804,7 @@ Sign
 
 11.4
 
-12.
+12\.
 
 12.1
 
@@ -7879,17 +7879,17 @@ Sign
 
 <!-- sida 184 -->
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 14.1
 
 14.2
 
-15.
+15\.
 
 IS
 
@@ -7899,11 +7899,11 @@ IS
 
 15.4
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 17.1
 
@@ -7966,7 +7966,7 @@ anslutningsavgift till respektive ledningsägare.
 
 <!-- sida 185 -->
 
-18.
+18\.
 
 18.1
 
@@ -7974,15 +7974,15 @@ anslutningsavgift till respektive ledningsägare.
 
 18.3
 
-19.
+19\.
 
 19.1
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
@@ -7992,7 +7992,7 @@ anslutningsavgift till respektive ledningsägare.
 
 21.4
 
-22.
+22\.
 
 22.1
 
@@ -8070,23 +8070,23 @@ Sign
 
 22.6
 
-23.
+23\.
 
 23.1
 
 23.2
 
-24.
+24\.
 
 24.1
 
-25.
+25\.
 
 25.1
 
 25.2
 
-26.
+26\.
 
 26.1
 
@@ -8154,7 +8154,7 @@ Sign
 
 NT
 
-27. Avtalets giltighet
+27\. Avtalets giltighet
 
 27.1 Avtalet är giltigt under förutsättning att Avtalet senast 2024-12-31 godkänns av
 kommunstyrelsens arbetsutskott, genom beslut som vinner laga kraft och undertecknas av
@@ -8164,7 +8164,7 @@ Kommunen.
 förfaller Avtalet med omedelbar verkan och utan rätt för någondera parten att av den andre
 utfå skadestånd eller annan ersättning eller ställa ytterligare krav på varandra.
 
-28. Tvist
+28\. Tvist
 
 28.1 — Tvist rörande tolkning av Avtalet ska, om inte annat överenskommes mellan Parterna, avgöras
 av allmän domstol.
@@ -8551,14 +8551,14 @@ följa uppsatt budget.
 
 PROJEKTETS  LEVERANSER
 
-1. Projektbeställning      KS
-2. Projektplan             Forum Samhällsbyggnad
+1\. Projektbeställning      KS
+2\. Projektplan             Forum Samhällsbyggnad
 
-3. Samrådshandlingar       BN
-4. Granskningshandlingar   BN
+3\. Samrådshandlingar       BN
+4\. Granskningshandlingar   BN
 
-5. Avtal (princip-, exploaterings-) KS
-6. Antagandehandlingar     BN
+5\. Avtal (princip-, exploaterings-) KS
+6\. Antagandehandlingar     BN
 
 Detaljplanen upprättas med standardförfarande, därav antas detaljplanen av byggnadsnämnden.
 
@@ -8590,27 +8590,27 @@ PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 5 (6)
 
 Projektet kommer att hantera:
-- trafik- och parkeringslösning
-- stråk och kopplingar till målpunkter som skolor, affär och kollektivtrafik.
+\- trafik- och parkeringslösning
+\- stråk och kopplingar till målpunkter som skolor, affär och kollektivtrafik.
 
-- naturvärden och eventuella skyddade arter och biotoper
-- VA och dagvattenhantering inklusive skyfall
-- mängden bostäder och storlek på byggrätt för bostäder
-- placering och gestaltning av byggnader, utemiljöer och gator
+\- naturvärden och eventuella skyddade arter och biotoper
+\- VA och dagvattenhantering inklusive skyfall
+\- mängden bostäder och storlek på byggrätt för bostäder
+\- placering och gestaltning av byggnader, utemiljöer och gator
 
-- ytor för grönstruktur
-- sociala aspekter
-- geotekniska förutsättningar
-- arkeologi
-- markmiljö
+\- ytor för grönstruktur
+\- sociala aspekter
+\- geotekniska förutsättningar
+\- arkeologi
+\- markmiljö
 
-- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
+\- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
 
 Frågor som inte ingår i projektet:
-- etappindelning utifrån behov av kommunal service.
-- Åtgärder på Rörmöstvägen och Valldavägen förutom ev vid korsningspunkter.
+\- etappindelning utifrån behov av kommunal service.
+\- Åtgärder på Rörmöstvägen och Valldavägen förutom ev vid korsningspunkter.
 
-- Skyfallshantering i Vallda som inte beror av planområdet.
+\- Skyfallshantering i Vallda som inte beror av planområdet.
 
 TIDPLAN
 Q4 2024 Uppdragsbeslut BNAU
@@ -9008,7 +9008,7 @@ Begära     planbesked
 
 Ärendenummer: #130408 | Inskickat av:           | 2024-04-23 10:20
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -9023,7 +9023,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -9055,7 +9055,7 @@ Om fastigheten ägs av flera fastighetsägare fyller du i en per rad.
 
 Förnamn   Efternamn   Telefon       E-postadress
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -9093,7 +9093,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -10300,9 +10300,9 @@ Beslut om budget är tagen i kommunfullmäktige 2024-06-13 §34 och uppgår till
 miljoner inklusive indexreglering för planerat färdigställande 2028.
 
 Förstudien har utförts i två delar:
-- hösten 2023 baserat på beskrivna behov och vinnande förslag i projekttävling
+\- hösten 2023 baserat på beskrivna behov och vinnande förslag i projekttävling
 resulterade i alternativ A respektive alternativ B.
-- våren 2024 ytterligare bearbetning resulterade i alternativ C.
+\- våren 2024 ytterligare bearbetning resulterade i alternativ C.
 
 Då alternativ A och B, inte enligt kalkyl nått den beslutade ramen för projektet
 behövdes nödvändiga anpassningar göras inom ramen för KF:s beslut, vilket
@@ -10396,7 +10396,7 @@ totalentreprenad i samverkan har handlats upp.
 Beslut om investeringsbudget om 622 miljoner kronor har fattats av
 kommunfullmäktige 2024-06-13, inklusive indexreglering för planerat slutförande
 
-2028.
+2028\.
 För att säkerställa att projektet uppfyller beslut från kommunstyrelse
 (tävlingsprogram för projekttävling) respektive kommunfullmäktige (funktioner,
 innehåll, behov, budget) har Service Lokalförsörjning genomfört en förstudie baserad
@@ -10419,15 +10419,15 @@ de två som avser projektering respektive byggnation.
 Ett antal styrparametrar fanns vid ingången i förstudien och har under arbetets gång
 reviderats på grund av behovet att anpassa till gällande budget.
 Kvalitet
--  Arenans innehåll baseras på underlag framtaget i utredningsskedet.
+\-  Arenans innehåll baseras på underlag framtaget i utredningsskedet.
 Projekttävling genomfördes därefter med syfte att erhålla en arena med hög
 kvalitet.
 
--  Denna förstudie innehåller omarbetning och anpassning av projekttävlingens
+\-  Denna förstudie innehåller omarbetning och anpassning av projekttävlingens
 vinnande förslag för att hålla beslutad budget.
 
 Tid
--  Den ursprungliga tidplanen i KF-beslutet var att arenan planerades stå klar kv
+\-  Den ursprungliga tidplanen i KF-beslutet var att arenan planerades stå klar kv
 4 2024 men med överklagningar och med de kompletterande utredningar som
 har genomförts planeras nu arenan stå klar kv 2 2028 (Budget 2024-06-13).
 
@@ -10437,26 +10437,26 @@ har genomförts planeras nu arenan stå klar kv 2 2028 (Budget 2024-06-13).
 <!-- sida 256 -->
 
 Ekonomi
--  Kommunfullmäktige har beslutat att budget för projektet är 622 1 miljoner
+\-  Kommunfullmäktige har beslutat att budget för projektet är 622 1 miljoner
 kronor (investering exkl. konst och inventarier) varav 20 miljoner kronor har
 
 avsatts för Fas 1 genom kommunstyrelsens beslut 2023-02-21.
--  Förstudiens förslag håller den totala budgeten, men under Fas 1 har ett antal
+\-  Förstudiens förslag håller den totala budgeten, men under Fas 1 har ett antal
 omarbetningar för att hitta lösning inom budget inneburit en kostnad på 4
 miljoner kronor som inte var budgeterad. Därutöver visar prognosen för Fas 1
 att den ursprungliga kostnadsbedömningen av övriga moment i Fas 1 inte
 överensstämmer med budget. Ytterligare 2 miljoner beräknas för detta arbete.
 
--  Projektets ursprungliga kalkyl byggde på en delbar arena, inte A-hall och B-
+\-  Projektets ursprungliga kalkyl byggde på en delbar arena, inte A-hall och B-
 hall.
 
--  Total budget utökas inte så ökningen inom Fas 1 påverkar tillgängliga medel
+\-  Total budget utökas inte så ökningen inom Fas 1 påverkar tillgängliga medel
 för Fas 2 (riktkostnad).
 Hållbarhet
 
--  Projektet ska ha en tydlig och hög hållbarhetsprofil som utgår från
+\-  Projektet ska ha en tydlig och hög hållbarhetsprofil som utgår från
 projekttävlingens beskrivning av hållbarhetsmål.
--  Hållbarheten i projektet har definierats och specificerats för att inom budget
+\-  Hållbarheten i projektet har definierats och specificerats för att inom budget
 nyttja tillgängliga medel där de gör mest nytta.
 
 1 Budget indexreglerades från 603 till 622 miljoner kronor under förstudiearbetet. Detta beroende på att
@@ -10476,51 +10476,51 @@ Hela området är plant utan några tydliga höjdskillnader.
 
 3.1.2 Tekniska förutsättningar
 
--  Värmesystem planeras via fjärrvärme.
+\-  Värmesystem planeras via fjärrvärme.
 
--  Egenproducerad kyla till kylmaskiner.
+\-  Egenproducerad kyla till kylmaskiner.
 
--  Kommunalt vatten och avlopp ska anslutas till fastigheten.
+\-  Kommunalt vatten och avlopp ska anslutas till fastigheten.
 
--  Fiber ska anslutas till fastigheten.
+\-  Fiber ska anslutas till fastigheten.
 
--  Fett- och oljeavskiljare krävs för storkök och parkering.
+\-  Fett- och oljeavskiljare krävs för storkök och parkering.
 
--  Kraftmatning med ny anslutning.
+\-  Kraftmatning med ny anslutning.
 
--  Ytterligare geotekniska undersökningar i samband med projektering.
+\-  Ytterligare geotekniska undersökningar i samband med projektering.
 
--  Markmiljöndersökning har inte utförts i förstudieskedet.
+\-  Markmiljöndersökning har inte utförts i förstudieskedet.
 
 8/22
 2
 
 <!-- sida 258 -->
 
--  Om beslut tas att lägga utrymningsplats för kärnenergiolycka
+\-  Om beslut tas att lägga utrymningsplats för kärnenergiolycka
 motsvarande fas 2–3 i arenan behövs stationär reservkraft, nödvatten
 och anpassade lösningar på ventilationsanläggning. Förstudie har inte
 inkluderat detta i förslag eller kostnadsbedömning.
 
 3.1.3 Övriga förutsättningar
 
--  Lågriskområde för radon.
+\-  Lågriskområde för radon.
 
--  Servitut öster om fastighetsgränsen för fjärrvärmeledningar.
+\-  Servitut öster om fastighetsgränsen för fjärrvärmeledningar.
 
--  Biotopskyddade träd finns på/i anslutning till tomten.
+\-  Biotopskyddade träd finns på/i anslutning till tomten.
 
--  Inga fornlämningar finns på fastigheten.
+\-  Inga fornlämningar finns på fastigheten.
 
--  Inget strandskydd gäller för fastigheten.
+\-  Inget strandskydd gäller för fastigheten.
 
--  Elnätsområde E.ON Sverige AB
+\-  Elnätsområde E.ON Sverige AB
 
 3.2 Metodik förstudie
 
 Underlag har utgjorts av KF-beslutet med bilagor samt vinnande bidrag i
 projekttävling och rapport kring kommersiella lokaler från Newsec daterad 2023-10-
-31.
+31\.
 Förstudien har genomförts tillsammans med arkitekt, samverkansentreprenör,
 tekniska konsulter, brukare och med delprojekten där de flesta av kommunens
 förvaltningar är representerade.
@@ -10582,18 +10582,18 @@ delprojekt gjordes med hjälp av en extern konsult under hösten 2023 en kartlä
 av vad de kommersiella delarna skulle fyllas med.
 
 Rapport daterad 2023-10-31 (Newsec) redovisar bl a följande:
--  Total kommersiell yta 7000–10 000 kvm bedöms fortfarande vara relevant då
+\-  Total kommersiell yta 7000–10 000 kvm bedöms fortfarande vara relevant då
 ett stort intresse från tillfrågade potentiella hyresgäster har noterats
 
--  Aktörer inom Mat o Dryck respektive Gym är de som i första hand är
+\-  Aktörer inom Mat o Dryck respektive Gym är de som i första hand är
 aktuella. Segmentet Kontor är mer osäkert.
 
--  Aktuellt med boutique-gym (ca 300 kvm) snarare än stora gym.
--  Om restaurangytan delas upp på flera plan eller sprids ut är det mycket viktigt
+\-  Aktuellt med boutique-gym (ca 300 kvm) snarare än stora gym.
+\-  Om restaurangytan delas upp på flera plan eller sprids ut är det mycket viktigt
 att ha fungerande transportlösningar för varm mat och övrig servering.
 
--  Hyresgäster vill ha färdigbyggda lokaler.
--  Ingen nackdel att bygga mindre än behovet - då blir det större konkurrens om
+\-  Hyresgäster vill ha färdigbyggda lokaler.
+\-  Ingen nackdel att bygga mindre än behovet - då blir det större konkurrens om
 de ytor som finns (förutsatt att det är rätt typ av yta).
 
 Under våren 2024 har möten genomförts med kommunens ansvariga för
@@ -10603,10 +10603,10 @@ kommer hanteras under programskedet.
 
 Förstudien har utgått från att “kommersiella lokaler” avser lokaler som innehåller
 följande:
-- café, restaurang
-- gym
-- sjukgymnastik, rehab
-- kontorshotell, konferens, kontor
+\- café, restaurang
+\- gym
+\- sjukgymnastik, rehab
+\- kontorshotell, konferens, kontor
 
 Förstudien har utöver ovanstående gjort överväganden kring vilka ytor som kan
 räknas som kommunala respektive kommersiella. Gemensamma ytor som en
@@ -10702,10 +10702,10 @@ dokument.
 
 I behovsbeskrivningar förekommer behov som bedöms ha tillkommit/utökats sedan
 tidigare skede och beslutad budget. Detta gäller följande:
-- behov av administrativa platser och personalutrymmen för driftpersonal Service
+\- behov av administrativa platser och personalutrymmen för driftpersonal Service
 
 (tidigare har behoven bedömts fyllas av befintliga utrymmen i Ishallen)
-- ytor för eventverksamhet har växt och nivån av anpassning har också ökat -
+\- ytor för eventverksamhet har växt och nivån av anpassning har också ökat -
 omfattar nu t ex greenroom, utökade uppställningsytor, ökade mängd förrådsyta
 (tidigare har antagits att inga specifika ytor krävts). I alternativ C har denna utökning
 minskats jämfört med alternativ A och B.
@@ -10774,7 +10774,7 @@ Logistik, parkering, transporter
 Inom detaljplaneprojektet pågår ett arbete med mobilitetsbehovet2 kopplat till
 Kungsbacka Sportcenter. Arenaprojektet kommer involveras. Avslutas under kv 4
 
-2024.
+2024\.
 
 5.3 Kommersiella lokaler
 En fortsatt utredning av innehåll i de kommersiella delarna av arenan behöver göras.
@@ -10795,7 +10795,7 @@ Ersättningslokaler i form av tillfälliga bodar ska ordnas för perioden mellan
 och färdig arena. Preliminärt handlar detta om perioden kv3 2025 till kv2 2028.
 
 Lösning för ersättningslokaler hanteras som separat lokalbehov i lokalplan 2025–
-2029. Därmed ingår inte budget i förstudiens kostnadsbedömning.
+2029\. Därmed ingår inte budget i förstudiens kostnadsbedömning.
 
 5.5 3D-fastighetsbildning
 Enligt kommunfullmäktiges beslut ska arenan förberedas för en eventuell framtida
@@ -10866,13 +10866,13 @@ delar av fotbollsläktare respektive fotbollsplan med syfte att kunna skjuta på
 investeringsbehovet.
 Utredningen identifierade följande:
 
--  Östra delen av planerad läktare (se Figur 5.1) kan byggas senare. Om denna
+\-  Östra delen av planerad läktare (se Figur 5.1) kan byggas senare. Om denna
 del av läktaren inte byggs direkt får markytan användas till annat under tiden
 – kan ge ökade driftkostnader.
 
--  Rum för kommentatorer, TV-kamera och media (se Figur 5.1) på läktaren kan
+\-  Rum för kommentatorer, TV-kamera och media (se Figur 5.1) på läktaren kan
 byggas senare
--  En enklare modell av belysningsmast kan väljas initialt och senare bytas ut
+\-  En enklare modell av belysningsmast kan väljas initialt och senare bytas ut
 till “Superettanstandard”
 
 Figur 5.1 Fotbollsläktare. Röda markeringar avser delar som kan byggas senare, men som i nuläget är
@@ -10892,8 +10892,8 @@ vidare med alternativ C.
 
 Motivering till detta är att alternativ C:
 
--  uppfyller KF:s beslut inklusive budget
--  gestaltningsmässigt har en tydlig koppling till vinnande tävlingsförslag och
+\-  uppfyller KF:s beslut inklusive budget
+\-  gestaltningsmässigt har en tydlig koppling till vinnande tävlingsförslag och
 därmed anknyter till utfall av projekttävlingen
 
 Byggnaden innehåller en arenahall och en separat sporthall.
@@ -11010,32 +11010,32 @@ Förstudien har identifierats risker (och möjligheter) som behöver hanteras i
 kommande skede - här redovisas ett urval utan inbördes rangordning:
 Förutsättningar projektering
 
--  Fastighetens markförutsättningar (geoteknik, sättningsbenägenhet,
+\-  Fastighetens markförutsättningar (geoteknik, sättningsbenägenhet,
 avstånd till berg, översvämningsrisk m m)
 
--  Osäkerhet kostnads- och tidsmässigt vad gäller kommunens krav på
+\-  Osäkerhet kostnads- och tidsmässigt vad gäller kommunens krav på
 golvnivå +2,3 m innebär för projektet
 
--  Skyddsrum - ej utredda krav kan innebära behov av ändrad
+\-  Skyddsrum - ej utredda krav kan innebära behov av ändrad
 planlösning och ökade ytor
 
--  Risk för att förstudien överskattas och ses som en mer färdig produkt
+\-  Risk för att förstudien överskattas och ses som en mer färdig produkt
 än den är.
 
--  Risk att installationer inte utretts i tillräckligt stor omfattning i
+\-  Risk att installationer inte utretts i tillräckligt stor omfattning i
 förstudien och att detta kommer få inverkan i kommande skeden t ex
 
 vad gäller ökade ytbehov
 
 Budget och tid
 
--  Risker för ökning av kostnad respektive försening kopplat till att
+\-  Risker för ökning av kostnad respektive försening kopplat till att
 innehåll i kommersiella lokaler håller på att utredas och kommersiell
 motpart kommer saknas under Fas 1
 
--  Risk för markföroreningar på tomten
+\-  Risk för markföroreningar på tomten
 
--  Möjlighet att fortsatt projektering under programskedet innebär att
+\-  Möjlighet att fortsatt projektering under programskedet innebär att
 utökad maxkapacitet löses utan tillskjutande medel
 
 21/22
@@ -11045,49 +11045,49 @@ utökad maxkapacitet löses utan tillskjutande medel
 
 Förväntningar, behov i arenabyggnad
 
--  Arenan uppfyller inte projekttävlingens förväntade nivå på gestaltning
+\-  Arenan uppfyller inte projekttävlingens förväntade nivå på gestaltning
 pga den omarbetning som varit nödvändig för att uppnå budget.
 
--  Utformning av VIP-ytor har inte detaljstuderats i förstudien. Risken är
+\-  Utformning av VIP-ytor har inte detaljstuderats i förstudien. Risken är
 att nivån inte hamnat rätt och kräver omtag.
 
--  Eftersom torgyta framför arenabyggnaden inte ingår i projektet finns
+\-  Eftersom torgyta framför arenabyggnaden inte ingår i projektet finns
 risk för att det tidsmässigt och gestaltningsmässigt blir osynkat.
 
--  Behov av stängsel kring Back o House – yta fungerar för
+\-  Behov av stängsel kring Back o House – yta fungerar för
 eventverksamhet men är ett problem för alla andra som behöver
 använda ytan
 
--  Risk att logistik inom byggnaden och även runt byggnaden inte
+\-  Risk att logistik inom byggnaden och även runt byggnaden inte
 fungerar när den börjar studeras i detalj i kommande skede
 
 Politiska beslut, myndigheter
 
--  Överklagan på detaljplan och bygglovsansökan
+\-  Överklagan på detaljplan och bygglovsansökan
 
--  Utökning av isyta kan bli aktuell inom området väster om
+\-  Utökning av isyta kan bli aktuell inom området väster om
 arenatomten. Oklart vilka konsekvenser detta får för arenabyggnaden
 
--  Förslaget godkänns inte vid den politiska behandlingen
+\-  Förslaget godkänns inte vid den politiska behandlingen
 
 Organisation
 
--  Risk att nyckelpersoner försvinner ur projektet vid stopp i väntan på
+\-  Risk att nyckelpersoner försvinner ur projektet vid stopp i väntan på
 politiska beslut.
 
--  Otydlighet kring beslutsfattande vad gäller behov och innehåll i
+\-  Otydlighet kring beslutsfattande vad gäller behov och innehåll i
 
 arenabyggnaden.
 
 Produktion
 
--  Risk att mängden trä som finns i tävlingsförslaget kommer innebära
+\-  Risk att mängden trä som finns i tävlingsförslaget kommer innebära
 behov av väderskydd och/eller etappindelning som påverkar både
 budget och tidplan negativt.
 
--  Möjlighet att korta ner produktionstiden och därmed fasta kostnader
+\-  Möjlighet att korta ner produktionstiden och därmed fasta kostnader
 
--  Möjlighet att handla när marknaden är fördelaktig
+\-  Möjlighet att handla när marknaden är fördelaktig
 
 22/22
 2
@@ -11233,14 +11233,14 @@ N
 Ä
 R
 G
--
+\-
 S
 R
 E
 T
 E
 M
--
+\-
 0
 8
 ISHALL
@@ -12269,14 +12269,14 @@ N
 Ä
 R
 G
--
+\-
 S
 R
 E
 T
 E
 M
--
+\-
 0
 8
 ANNEX
@@ -14044,14 +14044,14 @@ N
 Ä
 R
 G
--
+\-
 S
 R
 E
 T
 E
 M
--
+\-
 0
 8
 ISHALL                                                                   INFART BoH
@@ -14107,7 +14107,7 @@ u
 ts
 rö                                                                                                                                           FÖRSTUDIE
 F
--
+\-
 a                                                                                                                                         KUNGSBACKA ARENA n
 e
 Ar
@@ -14149,16 +14149,16 @@ E
 E
 L
 L
-:
-:
+\:
+\:
 0
 0
 3
 3
 1
 1
--
--
+\-
+\-
 0
 0
 0
@@ -14185,10 +14185,10 @@ A                                                                               
 :0
 1                                                                                                                                      SITUATIONSPLAN
 7 0 Illustrationsplan - Ursprungligt läge                                                                                  0        25       50 m
--
+\-
 6
 0
-- 4 2 SITUATIONSPLAN                                                                                                                   S A KA 1 LA 1:500 A NUM - MER 01-1-001 BET
+\- 4 2 SITUATIONSPLAN                                                                                                                   S A KA 1 LA 1:500 A NUM - MER 01-1-001 BET
 0 2                                                              0 5 10 15 20 25 30 35 40 45 50m                                       A3 1:1000
 SKALA 1:500 I A1 (1:1000 I A3-FORMAT)
 
@@ -14218,14 +14218,14 @@ N
 Ä
 R
 G
--
+\-
 S
 R
 E
 T
 E
 M
--
+\-
 0
 8
 ISHALL                                                                   INFART BoH
@@ -14281,7 +14281,7 @@ u
 ts
 rö                                                                                                                                           FÖRSTUDIE
 F
--
+\-
 a                                                                                                                                         KUNGSBACKA ARENA n
 e
 Ar
@@ -14323,16 +14323,16 @@ E
 E
 L
 L
-:
-:
+\:
+\:
 0
 0
 3
 3
 1
 1
--
--
+\-
+\-
 0
 0
 0
@@ -14359,10 +14359,10 @@ A                                                                               
 :0
 1                                                                                                                                      SITUATIONSPLAN
 7 0 Illustrationsplan - Förslagen flytt hus                                                                                0        25       50 m
--
+\-
 6
 0
-- 4 2 SITUATIONSPLAN                                                                                                                   S A KA 1 LA 1:500 A NUM - MER 01-1-001 BET
+\- 4 2 SITUATIONSPLAN                                                                                                                   S A KA 1 LA 1:500 A NUM - MER 01-1-001 BET
 0 2                                                              0 5 10 15 20 25 30 35 40 45 50m                                       A3 1:1000
 SKALA 1:500 I A1 (1:1000 I A3-FORMAT)
 
@@ -14392,13 +14392,13 @@ N
 Ä
 R
 G
-- S
+\- S
 R
 E
 T
 E
 M
--
+\-
 0
 8
 ISHALL                                                                   INFART BoH
@@ -14464,7 +14464,7 @@ u
 ts
 rö                                                                                                                                           FÖRSTUDIE
 F
-- a                                                                                                                                      KUNGSBACKA ARENA n
+\- a                                                                                                                                      KUNGSBACKA ARENA n
 e
 rA
 a
@@ -14515,7 +14515,7 @@ KA
 LA
 1:500 A
 NUM
--
+\-
 MER
 01-1-001
 BET
@@ -14712,7 +14712,7 @@ t A3 v .0 r
 e id u ts A3
 rö                                                                                             PASSAGE                                       FÖRSTUDIE
 F                                                                                              68,5 m²
-- A2 FRD FRD INNEBANDY PASS a n eAGE                                                     KOM 9 M 7, E 9 R m S ² IELL                      KUNGSBACKA ARENA FÖR2E0,N2 INmG²AR 16,0 m² 4 R ,8 W m C ² 25,4Ar m² 15 W ,0 C m² a FRD SP 2 O 2,6 R T m H ² ALLEN S 6 C ,4 H A m K ² T TR 2 A 3 P ,1 P m H ² US k ca b s g n HISS A2 1 S 4 T ,0 Ä D m² PASSAG 19 E 2 , / 6 M m E ² ZZANIN M PR IN E T S 1 R 0 S 2 A 3 P P E ,1L P V Am H T T² . U S N S E E R D E F Ö P 6 R Å R ,6 W L S Ä m K C K ² R T IV A A R N E D N E FR 8 D , 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A 5 mT E 3 S ²E N , S 8 T A m G ² K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L E L ² RUM FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY A1 e Ar u K / a n A1/6 1 T 7 E 9 K ,7 N m IK ² TR 2 A 3 P ,1 P m H ² US R H 7 W , I 2 S C S m / ² D LOU 50 N ,8 G E m ² YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² REN H IN C GAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US
+\- A2 FRD FRD INNEBANDY PASS a n eAGE                                                     KOM 9 M 7, E 9 R m S ² IELL                      KUNGSBACKA ARENA FÖR2E0,N2 INmG²AR 16,0 m² 4 R ,8 W m C ² 25,4Ar m² 15 W ,0 C m² a FRD SP 2 O 2,6 R T m H ² ALLEN S 6 C ,4 H A m K ² T TR 2 A 3 P ,1 P m H ² US k ca b s g n HISS A2 1 S 4 T ,0 Ä D m² PASSAG 19 E 2 , / 6 M m E ² ZZANIN M PR IN E T S 1 R 0 S 2 A 3 P P E ,1L P V Am H T T² . U S N S E E R D E F Ö P 6 R Å R ,6 W L S Ä m K C K ² R T IV A A R N E D N E FR 8 D , 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A 5 mT E 3 S ²E N , S 8 T A m G ² K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L E L ² RUM FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY A1 e Ar u K / a n A1/6 1 T 7 E 9 K ,7 N m IK ² TR 2 A 3 P ,1 P m H ² US R H 7 W , I 2 S C S m / ² D LOU 50 N ,8 G E m ² YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² REN H IN C GAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US
 A1 a k ca HC            20 PL M. BORD, MEDIA       B C O A. R 1 T 0 A 0 S P U L P A P T O S R E T R
 b s g n u B2 A18 A19 K /A20 A21 B10 B11 B12 B13 B14 B15   B16   A22                                                                    A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 /
 D
@@ -14728,16 +14728,16 @@ E
 E
 L
 L
-:
-:
+\:
+\:
 0
 0
 3
 3
 1
 1
--
--
+\-
+\-
 0
 0
 0
@@ -14825,7 +14825,7 @@ tv 0.r
 e di u ts
 rö                                                                                                                                           FÖRSTUDIE
 F
-- a                                                                                                                                       KUNGSBACKA ARENA n e rA a k ca b s g n u K / a n e Ar
+\- a                                                                                                                                       KUNGSBACKA ARENA n e rA a k ca b s g n u K / a n e Ar
 a k ac
 b s g n u K /                                                                                                                           A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 / s: K ?? TEL: 031-000 00 00 co
 D                                                                                                                                       E ??        TEL: 031-000 00 00 k s V ?? TEL: 031-000 00 00 e d W ?? TEL: 031-000 00 00 o tu L ?? TEL: 031-000 00 00
@@ -14914,12 +14914,12 @@ d u ts rö i A3                  t . v . 2 0 r                                  
 a
 n e rA
 F
--
+\-
 a
 id
 e
 u ts
--
+\-
 rö F A3 15 W ,0 C m²                                     KOM 9 M 7, E 9 R m S ² IELL
 68,5 m²
 PA 68 S , S 5 A m G ² E KUNGSBACKA ARENA      FÖRSTUDIE
@@ -14930,7 +14930,7 @@ tu
 k s e d o
 s co
 D
-:
+\:
 /
 /
 B2     A18    A19
@@ -14974,11 +14974,11 @@ L L
 L
 L
 L
-:
-: :
-:
-:
-:
+\:
+\: :
+\:
+\:
+\:
 0
 0 0
 0
@@ -14994,11 +14994,11 @@ L
 1 1
 1
 1
--
--
-- -
--
--
+\-
+\-
+\- -
+\-
+\-
 7
 0
 0 0
@@ -15046,17 +15046,17 @@ E E
 E
 L L
 L
-: :
-:
+\: :
+\:
 0 0
 0
 3 3
 3
 1 1
 1
--
--
-- 0
+\-
+\-
+\- 0
 0
 74 0
 0
@@ -15075,7 +15075,7 @@ A                               k s         B2     A18    A19    A20    A21    B
 e d                                                                                                    DATUM ANSVARIG                  W ??         TEL: 031-000 00 00
 :2 0
 1 4
-:
+\:
 12
 1
 o t
@@ -15134,7 +15134,7 @@ E
 M N
 L
 D
-:
+\:
 / L Ä
 0
 H G
@@ -15142,7 +15142,7 @@ H G
 G C
 1
 A
--
+\-
 R /
 0
 E R
@@ -15204,7 +15204,7 @@ e
 id
 u ts A3
 rö F UNDE 5 R 1, C 7 E m N ² TRAL                                                              PA 68 S , S 5 A m G ² E                       FÖRSTUDIE
-- A2 a n e                                                                               KOM 9 M 7, E 9 R m S ² IELL                      KUNGSBACKA ARENA
+\- A2 a n e                                                                               KOM 9 M 7, E 9 R m S ² IELL                      KUNGSBACKA ARENA
 Ar                                     WC 15,0 m²
 a
 A1/6                       k ca b s g n KAYL2MEDELSKYLARE 1 S 4 T ,0 Ä D m² PASSAG 19 E 2 , / 6 M m E ² ZZANIN M PR IN E S 10 S P E L V A T T . S N E E R D E F Ö P R Å L S Ä K K R T IV A A R N E D N E FR 8 D , 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A 5 mT E 3 S ²E N , S 8 T A m G ² K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L E L ² RUM FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY A1 e Ar u K / a n A1/6 1 T 7 E 9 K ,7 N m IK ² TR 2 A 3 P ,1 P m H ² US R H 7 W , I 2 S C S m / ² D LOU 50 N ,8 G E m ² YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² RENINGAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US
@@ -15226,16 +15226,16 @@ E
 E
 L
 L
-:
-:
+\:
+\:
 0
 0
 3
 3
 1
 1
--
--
+\-
+\-
 0
 0
 0
@@ -15258,7 +15258,7 @@ o t u                                                                           
 1                                                                                                                                      PLAN 12 -VÅNING 3
 7
 0
--
+\-
 6
 0 - 4 2 PLAN 3                                                                                                                         S A KA 1 LA 1:250 A NUM - MER 40-1-300 BET
 0 2                                                              0   5   10  15 SKAL 2 A 0 1:500 ( 2 fö 5m r A3)                       A3 1:500
@@ -15300,7 +15300,7 @@ e di
 u ts
 rö                                                                                                                                           FÖRSTUDIE
 F
-- a                                                                                                                                       KUNGSBACKA ARENA n e rA
+\- a                                                                                                                                       KUNGSBACKA ARENA n e rA
 a
 k ca
 b s g n
@@ -15322,7 +15322,7 @@ KA
 LA
 1:250 A
 NUM
--
+\-
 MER
 40-1-400
 BET
@@ -15368,7 +15368,7 @@ e di
 u ts
 rö                                                                                                                                           FÖRSTUDIE
 F
--
+\-
 a                                                                                                                                         KUNGSBACKA ARENA
 n
 e
@@ -15425,7 +15425,7 @@ KA
 LA
 1:250 A
 NUM
--
+\-
 MER
 41-1-101
 BET
@@ -15463,7 +15463,7 @@ u
 ts
 rö                                                                                                                                           FÖRSTUDIE
 F
--
+\-
 a                                                                                                                                         KUNGSBACKA ARENA
 n
 e
@@ -15520,13 +15520,13 @@ N
 N
 D
 A
--
+\-
 D
 D ,
 A
 E
 V
--
+\-
 1
 E
 A
@@ -15534,7 +15534,7 @@ A
 4 R
 F
 E/
--
+\-
 N
 F
 2A0BYGGNAD
@@ -15570,7 +15570,7 @@ u
 ts
 rö                                                                                                                                           FÖRSTUDIE
 F
--
+\-
 a                                                                                                                                         KUNGSBACKA ARENA
 n
 e
@@ -15620,7 +15620,7 @@ E
 N
 L
 D
-:
+\:
 L Ä
 0
 G
@@ -15628,7 +15628,7 @@ G
 G
 1
 A
--
+\-
 R
 0
 E
@@ -15651,7 +15651,7 @@ KA
 LA
 1:250 A
 NUM
--
+\-
 MER
 40-2-101
 BET
@@ -15681,7 +15681,7 @@ v
 .2.0 r
 id e
 u ts
--
+\-
 rö F
 id e
 u
@@ -15764,12 +15764,12 @@ L
 L
 L
 L
-:
-:
-:
-:
-:
-:
+\:
+\:
+\:
+\:
+\:
+\:
 0
 0
 0
@@ -15787,11 +15787,11 @@ L
 1
 1
 1
--
--
--
--
--
+\-
+\-
+\-
+\-
+\-
 -0
 0
 0
@@ -15830,8 +15830,8 @@ L
 0
 e d o t A u k s e d o t A u                                                                                             SKALA 1:500 (för A3) U U 0 P P 0 P P D D W L V W L 0 R R A A 0 G G - ? ? ? ? ?N N ? ? ? ? ? 0 R R 0 R D R I I T T M A A D D / A A H V V C/RR/FT D H T T H T T TA A E E E E E M N N L L L L LD D : : : : : / L L Ä Ä 0 0 0 0 0 H G G 3 3 3 3 3G G C 1 1 1 1 1A A - - - - -R R / 0 0 0 0 0E E R 0 0 0 0 0 0 0 0 0 0 R 0 0 0 0 0 / 0 0 0 0 0 F 0 0 0 0 0 T 0 0 0 0 0
 Fasad 7 0 : : 7 8 5 0 5 1 : : 7 8 5 0 5 1 er                                                                                0      10      2 N N D F D F 0A A0 A 0 A Y Y T T U U 0 S S B B M Mm 0 A A Y Y - D D G G 0 0 G GM M N NO O A AT T D D N N A AO O V V A LA D L R R N N Z Z MS S R 1 R A A V V/ / /A A , , 6 R R M M R R HI I S S G G E E L L C / Ö Ö N N / 2 D D A A R E E B B R 0 R R Y Y /F G G T G G N N A A DM D D /HC/RR/FT
-- 6 0 7 0 -
-- 4 2 0 2 6 0 - 4 2                                               0   5  10  15  20  25m                                               S A AS A K K A A 1 31 L L A A 1 11 : :: 2 52 5 05 0 00 A A N N U U M M- - M M E E R R4 4 0 0 - - 3 3 - - 1 1 0 0 1 1 B B E E T T
+\- 6 0 7 0 -
+\- 4 2 0 2 6 0 - 4 2                                               0   5  10  15  20  25m                                               S A AS A K K A A 1 31 L L A A 1 11 : :: 2 52 5 05 0 00 A A N N U U M M- - M M E E R R4 4 0 0 - - 3 3 - - 1 1 0 0 1 1 B B E E T T
 0 2                                                               0   5  10  15  20  25m                                               A3 1:500
 SKALA 1:250 I A1 (1:500 I A3-FORMAT)
 SKALA 1:250 I A1 (1:500 I A3-FORMAT)
@@ -15859,7 +15859,7 @@ u
 ts
 rö                                                                                                                                           FÖRSTUDIE
 F
--
+\-
 a                                                                                                                                         KUNGSBACKA ARENA
 n
 e
@@ -15902,16 +15902,16 @@ E
 E
 L
 L
-:
-:
+\:
+\:
 0
 0
 3
 3
 1
 1
--
--
+\-
+\-
 0
 0
 0
@@ -15954,9 +15954,9 @@ NABYGGNAD
 1                                                                                                                                      FASAD MOT VÄSTER, ÖSTER
 7
 0
--
+\-
 6 0
-- 4 2                                                                                                                                  S A KA 1 LA 1:250 A NUM - MER 40-3-102 BET
+\- 4 2                                                                                                                                  S A KA 1 LA 1:250 A NUM - MER 40-3-102 BET
 0 2                                                               0   5  10  15  20  25m                                               A3 1:500
 SKALA 1:250 I A1 (1:500 I A3-FORMAT)
 
@@ -16884,11 +16884,11 @@ Kommunstyrelsens arbetsutskott får information om hur arbetet fortlöper med
 Kungsbacka Arena.
 
 Informationen berör
-- Återkoppling på frågor från tidigare informationstillfällen
-- Lägesrapport delprojekt
-- Fas 1 – förstudie
-- Lägesrapport – utformning
-- Nästa information i KSAU
+\- Återkoppling på frågor från tidigare informationstillfällen
+\- Lägesrapport delprojekt
+\- Fas 1 – förstudie
+\- Lägesrapport – utformning
+\- Nästa information i KSAU
 
 Beslutsgång
 Ordförande Fredrik Hansson (C) prövar om kommunstyrelsens arbetsutskott kan
@@ -16918,10 +16918,10 @@ Kommunstyrelsens arbetsutskott får information om hur arbetet med Kungsbacka
 Arena fortskrider.
 
 Informationen berör lägesrapport för de olika delprojekten:
-- Förstudie Fas 1
+\- Förstudie Fas 1
 
-- Uthyrningsarbetet
-- Ekonomi
+\- Uthyrningsarbetet
+\- Ekonomi
 
 Informationen berör också utformningen av det underlag som kommunstyrelsen
 kommer att få inför beslut i ärendet under våren, planering av regelbundna
@@ -17007,25 +17007,25 @@ Oktober     2023
 
 Innehållsförteckning
 
-1.  Beskrivning av uppdraget
+1\.  Beskrivning av uppdraget
 
-2.  Kungsbacka  kommun
+2\.  Kungsbacka  kommun
 
-3.  Kungsbacka  Arena
+3\.  Kungsbacka  Arena
 
-4.  Stadsutvecklingsprojekt i närområdet
+4\.  Stadsutvecklingsprojekt i närområdet
 
-5.  Jämförelsereferenser  arenor i Sverige
+5\.  Jämförelsereferenser  arenor i Sverige
 
-6.  Marknadsundersökning
+6\.  Marknadsundersökning
 
-7.  Analys och utvärdering av marknadsundersökning
+7\.  Analys och utvärdering av marknadsundersökning
 
-8.  Unikitet i erbjudandet
+8\.  Unikitet i erbjudandet
 
-9.  Rekommendation    av lokalslag
+9\.  Rekommendation    av lokalslag
 
-10. Slutsats och nästa steg
+10\. Slutsats och nästa steg
 
 <!-- sida 356 -->
 
@@ -17796,11 +17796,11 @@ marknadsundersökning för de kommersiella ytorna som ska tillskapas i Kungsback
 Arena.                                                                       avgränsning
 Marknadsundersökningen har varit uppdelad i tre olika moment:                Lokala                 6
 
--  Telefonsamtal
+\-  Telefonsamtal
 Regionala              2
--  Digitala möten
+\-  Digitala möten
 
--  Skriftlig marknadsundersökning via mail                                   Nationella             35
+\-  Skriftlig marknadsundersökning via mail                                   Nationella             35
 
 Frågorna som  har  ställts via telefonsamtal och digitala möten har varit
 Nordiska               4
@@ -19901,9 +19901,9 @@ Kommunfullmäktiges beslut 2021-04-13 § 51, innehållande även kommunstyrelsen
 beslut 2021-03-23 § 72
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2021-03-02
 Ur Projektbeskrivning 2021-03-02 med utredningsunderlag, bilagor A-H10:
-- H5. Utvärdering av möjliga alternativ till flera gestaltningsförslag, Kungsbacka
+\- H5. Utvärdering av möjliga alternativ till flera gestaltningsförslag, Kungsbacka
 kommun Samhällsbyggnadskontoret
-- H6. Utredning driftformer V 1.9 Kungsbacka kommun Förvaltningen för Kultur
+\- H6. Utredning driftformer V 1.9 Kungsbacka kommun Förvaltningen för Kultur
 och Fritid, 2020-12-18
 
 Förslag till beslut på sammanträdet
@@ -20070,7 +20070,7 @@ Samhällsbyggnadskontoret).
 
 Kommunstyrelsen avsätter medel för genomförande av projekttävling med 1 500 000
 kronor, vilket finansieras ur kommunstyrelsens anslag för oförutsedda utgifter för
-2021.
+2021\.
 
 Kommunstyrelsen uppdrar åt kommundirektören att ta fram förslag till
 genomförande av upphandling av drift av de kommersiella delarna av Kungsbacka
@@ -20766,13 +20766,13 @@ Johansson (M) yrkar bifall till kommunstyrelsens förslag.
 
 Ulrika Landergren (L) yrkar bifall till samhällsbyggnadskontorets förslag.
 Jan Riise (MP) yrkar på återremiss för att bättre utreda:
--  Konkurrenssituationen och möjligheter till samarbeten med grannkommuners
+\-  Konkurrenssituationen och möjligheter till samarbeten med grannkommuners
 arenor. Till exempel är inte Mölndals Åby-arena nämnt i underlaget.
 
--  Djupare analys av risker och möjligheter kring att kommunen ska äga själv.
--  Djupare analys av behovet av övernattningsmöjligheter i anslutning till
+\-  Djupare analys av risker och möjligheter kring att kommunen ska äga själv.
+\-  Djupare analys av behovet av övernattningsmöjligheter i anslutning till
 arenan för att den ska kunna gå runt.
--  Möjligheterna till placering på annat ställe som inte är lika
+\-  Möjligheterna till placering på annat ställe som inte är lika
 
 översvämningskänsligt till följd av klimatförändringarna.
 

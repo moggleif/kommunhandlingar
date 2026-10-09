@@ -961,7 +961,7 @@ av offentlig plats m.m.
 
 Avgiften får tas ut enligt de grunder som har beslutats av kommunfullmäktige.
 
-\_____
+\_\_\_\_\_
 
 Kungsbacka kommun föreskriver följande med stöd av förordningen (1993:1632) med bemyndigande för
 
@@ -1015,7 +1015,7 @@ Bilaga 3 – Förteckning över platser som jämställs med offentlig plats enli
 Bilaga 4 – Information om annan lagstiftning
 Bilaga 5 – Områden där passiv insamling av pengar inte får ske enligt 14 b §.
 
-\____
+\_\_\_\_
 
 Lokala ordning sföreskrifter   Sida 2 av 7
 
@@ -1419,7 +1419,7 @@ Smarholmen
 
 Gottskär Utholmen
 
-\_____
+\_\_\_\_\_
 
 2 (2)
 
@@ -1479,7 +1479,7 @@ Bestämmelser finns i Transportstyrelsens föreskrift TSFS 2013:77.
 
 Se www.transportstyrelsen.se
 
-\_____
+\_\_\_\_\_
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se 2 (2)
 
@@ -1521,7 +1521,7 @@ Länsstyrelsens beslut 2020-03-02, dnr 213-1348-2020
 
 SAKEN
 Tillämpning av ordningslagen
-\___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 FÖRVALTNINGSRÄTTENS  AVGÖRANDE
 
@@ -1531,7 +1531,7 @@ Förvaltningsrätten upphäver Länsstyrelsen i Hallands läns beslut beträffan
 fastställer kommunens beslut i denna del. Till följd därav utgår inte heller
 hänvisningen till 15 § i 22 § av ordningsföreskrifterna.
 
-\___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dok.Id 115489
 Postadress     Besöksadress  Telefon      Telefax       Expeditionstid
@@ -1828,7 +1828,7 @@ Bilaga 2
 
 Hur man  överklagar
 FR-03
-\________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
@@ -6525,7 +6525,7 @@ Parkgatan 49, 401 82, Göteborg, Sweden
 Office: +46767056411 | Fanny.Nilsson@se.ey.com
 Website: http://www.ey.com/se
 
-\___________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 The information contained in this communication is intended solely for the use of the individual
 or entity to whom it is addressed and others authorized to receive it. It may contain confidential
 or legally privileged information. If you are not the intended recipient you are hereby notified
@@ -7590,7 +7590,7 @@ kommun@kungsbacka.se
 
 Tillsyn av gymnasieskolan Elof Lindälvs Gymnasium Enhet 4 i Kungsbacka
 kommun; nu fråga om uppföljning av beslut från den 20 oktober 2025.
-\___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Beslut
 

@@ -1209,7 +1209,7 @@ KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja. Kungsbacka centralort enligt NYKO-indelningen, med god tillgänglighet till kollektivtrafik och
 kommunala noder. Motivering: målgruppernas resmönster, närhet till arbetsgivare/utbildningsaktörer
 samt behov av samordning med kommunala möteslokaler.
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 32 -->
 
@@ -1355,7 +1355,7 @@ KUNGSBACKA  KOMMUN
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 
 Ja, i fastigheten Elof Lindälvs gymnasium
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 35 -->
 
@@ -1499,7 +1499,7 @@ Ja – Aranäsgymnasiet (K-blocket med koppling till L-blocket) med egen, inhäg
 Motivering: befintlig specialanpassad miljö, samlokalisering med LSS och programgemensamma
 funktioner.
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 38 -->
 
@@ -1605,7 +1605,7 @@ Ja, NYKO 1.
 Lokalerna är placerade på Elof Lindälvs gymnasium och ska även fortsättningsvis nyttjas inom
 skolområdet, då de har nära koppling till skolans övriga verksamhet och infrastruktur
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 40 -->
 
@@ -1764,7 +1764,7 @@ Ja, Nyko 1.
 Motivering är att elever och personal även nyttjar andra lokaler på Aranäsgymnasiet och skall fortsätta
 med detta även i framtiden.
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 44 -->
 
@@ -1909,7 +1909,7 @@ Ja, Nyko 1.
 Motivering; är att elever och personal även nyttjar andra lokaler på Elof Lindälvs gymnasium och skall
 fortsätta med detta även i framtiden.
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 47 -->
 
@@ -2143,7 +2143,7 @@ Ja, Nyko 1
 Lokalerna är placerade på Elof Lindälvs gymnasium och ska även fortsättningsvis nyttjas inom
 
 skolområdet, då de har nära koppling till skolans övriga verksamhet och infrastruktur
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 50 -->
 
@@ -2341,7 +2341,7 @@ Internhyra, Gymnasium & Arbetsmarknad.
 KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja, Nyko 1 – inom Elof Lindälvs gymnasium
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 52 -->
 
@@ -2637,7 +2637,7 @@ KRAV AV GEOGRAFISK  LOKALISERING AV VERKSAMHETEN  (JA/NEJ)
 Ja, inom NYKO 1. Lokaliseringen motiveras av behovet av närhet till Elof Lindälvs gymnasium och
 möjligheten att samnyttja resurser och kompetens mellan utbildningarna.
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 56 -->
 

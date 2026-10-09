@@ -4642,7 +4642,7 @@ Kommunen har enligt 27 kap. 1 § miljöbalken (1998:808) rätt att ta ut avgift 
 och dispens, för handläggning av anmälan samt för tillsyn i övrigt enligt dessa föreskrifter
 Avgiften får tas ut enligt de grunder som har beslutats av kommunfullmäktige.
 
-\_____
+\_\_\_\_\_
 Med stöd av 9 kap. 7-8 §§ och 10-13 §§ miljöbalken (1998:808) samt 13, 17, 39-40 och 42-44 §§
 förordningen (1998:899) om miljöfarlig verksamhet och hälsoskydd, meddelar kommunfullmäktige följande
 lokala föreskrifter för att skydda människors hälsa och miljön.

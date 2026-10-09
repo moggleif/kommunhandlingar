@@ -440,28 +440,28 @@ Nya avgifter för parkering- timtaxor, boendekort och nyttokort
 Förslag till beslut i kommunfullmäktige
 
 Kommunfullmäktige fastställer parkeringsavgifter i Kungsbacka kommun:
-- Taxa A för parkering 7 kronor per timme
+\- Taxa A för parkering 7 kronor per timme
 
-- Taxa B för parkering 6 kronor per timme
-- Taxa C för parkering 5 kronor per timme
-- Taxa D för parkering 3 kronor per timme
+\- Taxa B för parkering 6 kronor per timme
+\- Taxa C för parkering 5 kronor per timme
+\- Taxa D för parkering 3 kronor per timme
 
-- Taxa E för parkering 8 kronor per timme
-- Dygnsbiljetter avskaffas på parkeringsplatser inom Kungsbacka stad.
-- Månadsbiljett avskaffas från och med 2024-04-08
-- Boendeparkering 300 kronor per månad för områdena: Björkris, Tingberget,
+\- Taxa E för parkering 8 kronor per timme
+\- Dygnsbiljetter avskaffas på parkeringsplatser inom Kungsbacka stad.
+\- Månadsbiljett avskaffas från och med 2024-04-08
+\- Boendeparkering 300 kronor per månad för områdena: Björkris, Tingberget,
 
 Kolla och Hammerö/Hålabäck
-- Boendeparkering 350 kronor per månad för områdena: Signeskulle, Centrum,
+\- Boendeparkering 350 kronor per månad för områdena: Signeskulle, Centrum,
 Västra Villastaden och Östra Villastaden
-- Nyttokort 3000 kronor per år respektive 375 kronor per månad.
+\- Nyttokort 3000 kronor per år respektive 375 kronor per månad.
 
 Kommunfullmäktige fastställer avgifter för felparkering i Kungsbacka kommun:
 
-- Överskriden tid, ej betalt 300 kronor per tillfälle
-- Förbud att parkera 450 kronor per tillfälle
-- Förbud att stanna 800 kronor per tillfälle
-- Parkering för rörelsehindrad, PRH 800 kronor per tillfälle
+\- Överskriden tid, ej betalt 300 kronor per tillfälle
+\- Förbud att parkera 450 kronor per tillfälle
+\- Förbud att stanna 800 kronor per tillfälle
+\- Parkering för rörelsehindrad, PRH 800 kronor per tillfälle
 
 Nya taxor och avgifter för parkering och felparkering ska gälla från och med 2024-
 
@@ -1144,8 +1144,8 @@ Sammanfattning av ärendet
 
 Biträdande kommundirektör Anders Johansson lämnar följande information:
 
-- Läget har varit lugnt i kommunens verksamheter under jul- och nyårshelgen.
-- En larmövning för kommunledningsgruppen och den kommunövergripande
+\- Läget har varit lugnt i kommunens verksamheter under jul- och nyårshelgen.
+\- En larmövning för kommunledningsgruppen och den kommunövergripande
 krisledningsorganisationen genomfördes den 3 januari med gott resultat.
 
 Beslutsgång

@@ -118,14 +118,14 @@ utvecklas och implementeras på ett framgångsrikt och säkert sätt krävs en b
 som kompletterar varandra och täcker många olika områden. Enligt AI-kommissionen är följande
 
 nödvändiga beståndsdelar i ett svenskt AI-ekosystem:
-1. Elektricitet: Tillgång till stabil och effektiv energi för att driva AI-systemen.
+1\. Elektricitet: Tillgång till stabil och effektiv energi för att driva AI-systemen.
 
-2. Telekom: Utvecklad telekommunikationsinfrastruktur för att möjliggöra snabb och säker
+2\. Telekom: Utvecklad telekommunikationsinfrastruktur för att möjliggöra snabb och säker
 dataöverföring.
-3. Beräkningskraft: Tillgång till avancerad beräkningskapacitet för att hantera komplexa AI-
+3\. Beräkningskraft: Tillgång till avancerad beräkningskapacitet för att hantera komplexa AI-
 beräkningar.
 
-4. Data: Tillgång till relevanta och högkvalitativa data för att träna och utveckla AI-modeller.
+4\. Data: Tillgång till relevanta och högkvalitativa data för att träna och utveckla AI-modeller.
 
 1 (6)
 Kungsbacka kommun                                         Kungsbacka kommun
@@ -141,21 +141,21 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (6)
 
-5. Säkerhet: Effektiva säkerhetsåtgärder för att skydda AI-systemen och data mot cyberhot och
+5\. Säkerhet: Effektiva säkerhetsåtgärder för att skydda AI-systemen och data mot cyberhot och
 
 andra säkerhetsrisker.
-6. Spetsforskning: Kontinuerlig forskning och utveckling inom AI-området för att hålla Sverige i
+6\. Spetsforskning: Kontinuerlig forskning och utveckling inom AI-området för att hålla Sverige i
 framkant.
 
-7. Tillgång till utländska AI-resurser: Möjlighet att samarbeta med och ta del av internationella
+7\. Tillgång till utländska AI-resurser: Möjlighet att samarbeta med och ta del av internationella
 AI-resurser och expertis.
-8. AI-kompetens för alla: Utbildning och kompetensutveckling inom AI för att säkerställa att alla
+8\. AI-kompetens för alla: Utbildning och kompetensutveckling inom AI för att säkerställa att alla
 medarbetare har den kunskap som behövs för att arbeta effektivt med AI.
 
-9. Innovation och riskkapital: Tillgång till riskkapital och innovationsstöd för att främja
+9\. Innovation och riskkapital: Tillgång till riskkapital och innovationsstöd för att främja
 utveckling och implementering av AI-baserade lösningar.
 
-10. Ledarskap: Effektivt ledarskap och styrning för att säkerställa att AI-utvecklingen är strategiskt
+10\. Ledarskap: Effektivt ledarskap och styrning för att säkerställa att AI-utvecklingen är strategiskt
 inriktad och samordnad.
 Genom att säkerställa att dessa beståndsdelar finns på plats kan Sverige skapa ett väl fungerande AI-
 ekosystem som möjliggör en framgångsrik och säker AI-utveckling.
@@ -221,7 +221,7 @@ Förslagens innebörd
 Förslagen i färdplanen är omfattande och spänner över flera sektorer. För Kungsbacka kommun är
 följande områden särskilt relevanta:
 
-1.   AI kräver samordnat arbete med data
+1\.   AI kräver samordnat arbete med data
 Kommunstyrelsens förvaltning delar AI-kommissionens bedömning att data är ett avgörande område
 där Sverige behöver komma i kapp för att skapa en stabil grund för utveckling och användning av AI.
 Det krävs en snabbare omställning inom offentlig sektor för att säkra datakvalitet och etablera
@@ -245,7 +245,7 @@ arbetar nationellt med data som strategisk resurs, såsom Nationell dataverkstad
 Transition Lab, som båda drivs av Internetstiftelsen. De föreslagna åtgärderna är angelägna och bör
 genomföras så snart som möjligt.
 
-2.   Delning av känslig information måste ske med stor försiktighet
+2\.   Delning av känslig information måste ske med stor försiktighet
 Kommunstyrelsens förvaltning instämmer i AI-kommissionens slutsats att ökad tillgång till data är
 viktig för att främja AI-utveckling. Samtidigt instämmer kommunstyrelsens förvaltning inte iförslaget
 om att ändra logiken i offentlighets- och sekretesslagen (OSL) i syfte att delning av sekretessbelagd
@@ -263,7 +263,7 @@ förvaltning anser att eventuella undantag från sekretess bör göras mycket re
 finns tydligt definierade och berättigade syften. Om tilliten till sekretessen urholkas riskerar det att få
 långtgående negativa konsekvenser.
 
-3.   Tydligare lagstiftning krävs för rättssäker AI-användning
+3\.   Tydligare lagstiftning krävs för rättssäker AI-användning
 Kommunstyrelsens förvaltning anser att flera rättsliga oklarheter behöver redas ut för att användningen
 av AI inom offentlig sektor inte ska hämmas. Det gäller särskilt tolkningen av vad som utgör teknisk
 bearbetning eller lagring – en fråga som påverkar de rättsliga förutsättningarna för användning av AI
@@ -288,7 +288,7 @@ därför en rättslig modernisering.
 KUNGSBACKA  KOMMUN
 5 (6)
 
-4.   AI-verkstaden kan spela en avgörande roll för framtidens digitala välfärd
+4\.   AI-verkstaden kan spela en avgörande roll för framtidens digitala välfärd
 Kommunstyrelsens förvaltning ser positivt på förslaget om att etablera en nationell AI-verkstad, men
 understryker att det är viktigt att klargöra hur kommuner förväntas agera under tiden den byggs upp.
 För många kommuner är det inte ett realistiskt alternativ att vänta – samtidigt som det är både
@@ -510,7 +510,7 @@ Sveriges säkerhet mot spioneri, sabotage, terroristbrott och vissa andra hot. S
 säkerhet eller som omfattas av ett för Sverige förpliktande internationellt åtagande om säkerhetsskydd.
 I enlighet med säkerhetskyddsförordningen (2021:955) ska en organisation som bedriver
 säkerhetskänslig verksamhet ha en säkerhetsskyddschef. Uppgifter för säkerhetsskyddschef:
-- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten bedrivs enligt lagen och
+\- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten bedrivs enligt lagen och
 
 de föreskrifter som gäller.
 För att skapa redundans i händelse av att ordinarie Säkerhetsskyddschef inte kan fullfölja sina
@@ -564,7 +564,7 @@ förpliktande internationellt åtagande om säkerhetsskydd. I enlighet med säke
 (2021:955) ska en organisation som bedriver säkerhetskänslig verksamhet ha en säkerhetsskyddschef.
 Uppgifter för säkerhetsskyddschef:
 
-- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten bedrivs enligt lagen och
+\- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten bedrivs enligt lagen och
 de föreskrifter som gäller.
 
 Beslutsunderlag
@@ -1329,7 +1329,7 @@ Samtliga nämnder och bolag, Länsstyrelsen i Hallands län, Polismyndigheten i 
 
 Beskrivning av ärendet
 
-1. Lustgas och dess användningsområden
+1\. Lustgas och dess användningsområden
 Lustgas (N O) är en färglös gas med en sötaktig lukt. Inom vården används lustgas för smärtlindring
 2
 och som narkosmedel. När lustgas används som ett läkemedel omfattas den av krav i läkemedelslagen
@@ -1349,7 +1349,7 @@ Andra användningsområden för lustgas är inom elektronikområdet vid tillverk
 halvledare och LCD-skärmar. Lustgas används också inom förpackningsindustrin som en
 förpackningsgas.
 
-2. Användning av lustgas som berusningsmedel och dess risker
+2\. Användning av lustgas som berusningsmedel och dess risker
 Namnet lustgas syftar på gasens effekt att framkalla eufori. Lustgas orsakar vid inandning ett kort och
 intensivt rus, med lyckorus och fnissighet som följd samt en känsla av att vara avskärmad från
 verkligheten. Ruset kulminerar inom någon minut efter inhalationen för att sedan snabbt avta.
@@ -1399,7 +1399,7 @@ eleverna i årskurs 9 hade provat lustgas någon gång. Bland de äldre eleverna
 uppgick motsvarande andel till 17 procent. I 2024 års undersökning hade lustgasanvändningen minskat
 till 4 procent av eleverna i årskurs 9 och 8 procent i gymnasiet.
 Sammantaget har alltså lustgasanvändningen minskat bland skolelever sedan mätningen påbörjades
-2022. Det går inte att se några könsskillnader i lustgasanvändningen. Det saknas uppgifter om
+2022\. Det går inte att se några könsskillnader i lustgasanvändningen. Det saknas uppgifter om
 användningen av lustgas bland vuxna. Mycket tyder dock på att användning av lustgas är vanligast
 bland unga och unga vuxna. Trots att användningen av lustgas bland skolelever har minskat något
 
@@ -1409,7 +1409,7 @@ inte tillåtet att i alla situationer använda lustgas för berusning och det fi
 som har lagförts till följd av brott begångna efter användning av lustgas, se till exempel Svea hovrätts
 dom den 10 september 2024 (mål nr B 4228-24) angående grov vårdslöshet i trafik och rattfylleri.
 
-3. Statlig utredning om att begränsa tillgången till lustgas
+3\. Statlig utredning om att begränsa tillgången till lustgas
 I juli 2022 gav regeringen en särskild utredare i uppdrag att analysera och ta ställning till hur lustgas
 
 ska regleras. Den särskilda utredaren överlämnade i mars 2024 betänkandet En trygg uppväxt utan
@@ -1417,7 +1417,7 @@ nikotin, alkohol och lustgas (SOU 2024:23). Efter remissförfarandet har en lagr
 Avsikten är att införa en ny lag som begränsar försäljning av lustgas för att motverka användning av
 lustgas som berusningsmedel. Lagen föreslås träda i kraft den 1 juli 2025.
 
-4. Förslaget till ny lag om lustgas
+4\. Förslaget till ny lag om lustgas
 I förslaget till ny lag om lustgas anges att lustgas inte ska få säljas eller på annat sätt lämnas ut i
 näringsverksamhet om det finns särskild anledning att anta att lustgasen ska användas som
 berusningsmedel. Högst 18 gram lustgas ska få säljas eller på annat sätt lämnas ut i näringsverksamhet
@@ -1468,16 +1468,16 @@ Offentlig plats skulle kunna vara en plats där det går att göra regleringar v
 ordningsföreskrifter, i syfte att komma till rätta med eventuella ordningsstörningar kopplade
 till bruk av lustgas.
 
-5. Möjlighet att reglera användningen lustgas i berusningssyfte i lokala
+5\. Möjlighet att reglera användningen lustgas i berusningssyfte i lokala
 ordningsföreskrifter
 Av 3 kap. 8 § ordningslagen (1993:1617) följer att en kommun får meddela de föreskrifter som behövs
 för att upprätthålla den allmänna ordningen på offentlig plats. Med offentlig plats avses enligt 1 kap.
 2 § ordningslagen:
 
-1. allmänna vägar,
-2. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän plats och som har
+1\. allmänna vägar,
+2\. gator, vägar, torg, parker och andra platser som i detaljplan redovisas som allmän plats och som har
 upplåtits för sitt ändamål,
-3. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om de har upplåtits för
+3\. områden som i detaljplan redovisas som kvartersmark för hamnverksamhet, om de har upplåtits för
 detta ändamål och är tillgängliga för allmänheten, samt
 
 2 Länsstyrelserna har till uppgift att pröva om kommunernas lokala ordningsföreskrifter är förenliga med lag, och då dessa anses strida
@@ -1488,7 +1488,7 @@ mot lag, upphäva föreskrifterna.
 KUNGSBACKA  KOMMUN
 6 (9)
 
-4. andra landområden och utrymmen inomhus som stadigvarande används för allmän trafik.
+4\. andra landområden och utrymmen inomhus som stadigvarande används för allmän trafik.
 Kommuner får också föreskriva att anläggningar för lek, idrott, camping eller friluftsliv, badplatser,
 järnvägsområden, begravningsplatser och andra sådana områden, om de inte omfattas av
 bestämmelserna i första stycket, ska jämställas med offentliga platser vid tillämpning av
@@ -1498,13 +1498,13 @@ ordningsföreskrifter för Kungsbacka kommun framgår att:
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och dessa föreskrifter
 tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
-3. Parkområde i anslutning till kulturhuset Fyren
-4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och
+1\. Begravningsplats
+2\. Kyrkogård
+3\. Parkområde i anslutning till kulturhuset Fyren
+4\. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 § punkt 1 c och
 punkt 2
-5. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
-6. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
+5\. Motionsspår enligt bilaga 3 tillämpning av 19-20 §§
+6\. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet som hör till en förskola eller skolas
 verksamhet, jämställs med offentlig plats endast utanför verksamhetstid och vid tillämpning av 21 §
@@ -1558,7 +1558,7 @@ inskränkningar i den enskildes frihet. Lokala föreskrifter måste också ha s�
 utformade med sådan exakthet att möjlighet finns att tillämpa dem och övervaka efterlevnaden av dem
 (RÅ 1992 ref. 75).
 
-6. Nämndernas beredning av motionen
+6\. Nämndernas beredning av motionen
 Motionen har remitterats till nämnden för Teknik och nämnden för Kultur & Fritid för beredning.
 
 6.1. Nämnden för Kultur & Fritids yttrande
@@ -1623,7 +1623,7 @@ del kopplas till ungdomar som befinner sig på andra platser än i krogmiljö el
 Polismyndigheten vill att ett förbud mot användning av lustgas i berusningssyfte ska införas på
 offentlig plats och platser som jämställs med offentlig plats i samtliga tätorter i Kungsbacka kommun.
 
-7. Kommunstyrelsens förvaltnings bedömning
+7\. Kommunstyrelsens förvaltnings bedömning
 Kommunstyrelsens förvaltning kan inledningsvis konstatera att användandet av lustgas i
 berusningssyfte är ett växande problem i Sverige samt att det finns betydande risker med användandet
 av lustgas i berusningssyfte. Detta växande samhällsproblem finns också i Kungsbacka kommun.
@@ -1672,7 +1672,7 @@ Lokala
 
 ordningsföreskrifter
 
--
+\-
 
 Tillägg
 
@@ -1773,15 +1773,15 @@ lokala föreskrifter om torghandel.
 Nedanstående områden jämställs med offentlig plats när 3 kap. i ordningslagen och
 dessa föreskrifter tillämpas:
 
-1. Begravningsplats
-2. Kyrkogård
+1\. Begravningsplats
+2\. Kyrkogård
 
-3. Parkområde i anslutning till kulturhuset Fyren
-4. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 §
+3\. Parkområde i anslutning till kulturhuset Fyren
+4\. Annan anläggning för lek och aktivitet enligt bilaga 3 vid tillämpning av 21 §
 punkt 1 c och punkt 2
 
-5. Motionsspår enligt bilaga 3 tillämpning av 19–20 §§
-6. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
+5\. Motionsspår enligt bilaga 3 tillämpning av 19–20 §§
+6\. Badplats enligt bilaga 3 vid tillämpning av 20 § och 21 § punkt 3
 
 Lekplatser och annan anläggning för lek och aktivitet som hör till en förskola eller
 skolas verksamhet, jämställs med offentlig plats endast utanför verksamhetstid och
@@ -1971,14 +1971,14 @@ områden som jämställs med offentlig plats enligt 3 § i dessa föreskrifter.
 21 § Vistelseförbud för hund
 Hund får inte vistas på
 
-1.
+1\.
 a. Allmän lekplats
 b. Allmän anläggning för lek och aktivitet
 
 c. Annan anläggning för lek och aktivitet som enligt 3 § i dessa
 föreskrifter jämställs med offentlig plats
 
-2. Tingbergsvallen i KungsbackaBadbrygga och badflotte på badplats som
+2\. Tingbergsvallen i KungsbackaBadbrygga och badflotte på badplats som
 enligt 3 § i dessa föreskrifter jämställs med offentlig platsVistelseförbudet
 gäller inte lek- eller aktivitetsyta avsedd för hund såsom hundrastgård eller
 agilitybana.
@@ -2030,36 +2030,36 @@ Varlaberg
 ,r
 e,< ) It'
 <;
-l      Sjukhus (!,, <!! (J 'i)• f (),
-f      a ..., •C/!; ., ~ <) ,;,• • !l~;..
-(!J.i ◊ ~;;.,.
-c ~ - .. < ~ C 6 ':: J - \ ,. b ,: O . , : , : ' t < ' ) s ~ ~ " (! # ) 0 ' (; , .' itl ' . i } ? • [! r ;, - -G " 9 I 3 , ) ; , O
-aC'. !c o [ O i . n~ • I ~ ~ " . ~ ~ O .. stra yiµ , asta .. den J
-0Ro[} I O •   ~
-~ e, C 0 D C ~ ., ' -c & , '< ' ) I ,: . ", $ . '( ) ' <>!> • . i , T ,.. . ◊ / 0
-~:J'5 0 "' ,0 . ,.::. (;,,
-~ [7 < . o P, ' - f I 0 ) /
+l      Sjukhus (!,, \<!! (J 'i)• f (),
+f      a ..., •C/!; ., \~ <) ,;,• • !l\~;..
+(!J.i ◊ \~;;.,.
+c \~ - .. < \~ C 6 ':: J - \ ,. b ,: O . , : , : ' t < ' ) s \~ \~ " (! # ) 0 ' (; , .' itl ' . i } ? • [! r ;, - -G " 9 I 3 , ) ; , O
+aC'. !c o [ O i . n\~ • I \~ \~ " . \~ \~ O .. stra yiµ , asta .. den J
+0Ro[} I O •   \~
+\~ e, C 0 D C \~ ., ' -c & , '< ' ) I ,: . ", \$ . '( ) ' <>!> • . i , T ,.. . ◊ / 0
+\~:J'5 0 "' ,0 . ,.::. (;,,
+\~ [7 < . o P, ' - f I 0 ) /
 0
 0 J l ö : 1 1
 o
 i 0 ' Q O
 c i
--
+\-
 "
 l 1
 i
 . .
-:
+\:
 l ,
-:
--
+\:
+\-
 ,
 j I
-~
-- J l ) L 1
+\~
+\- J l ) L 1
 •
 1 l ,
-~
+\~
 ?' V / . - ) c? (
 <
 ;,
@@ -2068,23 +2068,23 @@ l
 o
 )
 .
-~
+\~
 .
-~
-1 f f l / , ! " 1 1' ~ , IQ 0 " [ • t b !J ~ ~ C ~ " : J G6<r ~ l l!tJ"G ~ G' ~ ~ ~ ,f) t ) - • / ; I I
-Kung.\iac~O•ro ~, a q ~ • ~ .
-. ~ 'ti·,o ~-~ I] • • 'v<v
-<f''oO ,:,'o il 'o 61◊
--
+\~
+1 f f l / , ! " 1 1' \~ , IQ 0 " [ • t b !J \~ \~ C \~ " : J G6\<r \~ l l!tJ"G \~ G' \~ \~ \~ ,f) t ) - • / ; I I
+Kung.\iac\~O•ro \~, a q \~ • \~ .
+. \~ 'ti·,o \~-\~ I] • • 'v\<v
+\<f''oO ,:,'o il 'o 61◊
+\-
 % "
-~
+\~
 ,. "
-~
-: o '? ~ >
+\~
+: o '? \~ >
 ,:
-, ~
+, \~
 ,
-\ \ ' ~
+\ \ ' \~
 . <
 'i
 v
@@ -2092,7 +2092,7 @@ if
 .
 c
 )
-' . ~
+' . \~
 [ Q ]
 D
 ,i C . l o
@@ -2100,42 +2100,42 @@ D
 O < : (
 s
 I
->
+\>
 : lf
 o
 ,
-~• " > < . Ä ·-e ':> ?~ ~-- · . . ,, O ,,, ..,,,. -
+\~• " > < . Ä ·-e ':> ?\~ \~-- · . . ,, O ,,, ..,,,. -
 ,
 / ....-,,. . ,?
 xo ••
 (} (}
-~?
+\~?
 d
 c:;
 0
 0
-~
-~
-0                                                             \
-__
+\~
+\~
+0                                                             \\
+\_\_
 • () O()f0 J
 övrekolla
-c~,
+c\~,
 0
 ,
-~  rv1G,ehus
-g; 1 r _ ,
-Cl~ ~□F " ✓
-·appp ~~~~~~ \ \o
+\~  rv1G,ehus
+g; 1 r \_ ,
+Cl\~ \~□F " ✓
+·appp \~\~\~\~\~\~ \ \o
 .---··
-•\\
-~c
+•\\\\
+\~c
 Kungsbacka kommun            Lokala ordningsföreskrifter       9 (20)
 Teckenförk  laring
 ,'
 , 'G.
 0
-Tillfällig (ambulerande) försäljning ·-~                                       I
+Tillfällig (ambulerande) försäljning ·-\~                                       I
 ) /
 /
 D
@@ -2273,7 +2273,7 @@ I
 .!:I
 l-lede
 
-Vsd~befg
+Vsd\~befg
 .. · ·, .. -
 Graitlä.lr
 "
@@ -2314,12 +2314,12 @@ Il
 
 i) I
 
-~.,,__~
+\~.,,\_\_\~
 /"
-~
-_ _,..,/   S1e11vik
+\~
+\_ \_,..,/   S1e11vik
 .....
-Badplats~     asar1d
+Badplats\~     asar1d
 Sörvik ?•
 Kungsbacka kommun            Lokala ordningsföreskrifter       14 (20)
 
@@ -2344,14 +2344,14 @@ Servicehus
 ..
 /
 1ennjsb. . ()
---=~.,,,,..--~_,-./
+--=\~.,,,,..--\~\_,-./
 r  /
-I     ~
+I     \~
 
 I
-0   -..__f.~      )
+0   -..\_\_f.\~      )
 ,
-'-'•Wltii Gcit~
+'-'•Wltii Gcit\~
 ,
 Backa
 ..............
@@ -2368,15 +2368,15 @@ r.
 .
 Klasberg
 a
-~~.' lllv                                                            D
->
+\~\~.' lllv                                                            D
+\>
 (K)
 ·---
-\; <.,.-----·
+\\; <.,.-----·
 -·
 ,,,...)
 Tröskeberg
-~
+\~
 I
 
 Kungsbacka kommun            Lokala ordningsföreskrifter       15 (20)
@@ -2385,33 +2385,33 @@ Kungsbacka kommun            Lokala ordningsföreskrifter       15 (20)
 
 K ,
 
-~~&:11"'
+\~\~&:11"'
 ♦
 
 (/
 ..
-~
+\~
 R
--
--                (r :, I' )
+\-
+\-                (r :, I' )
 C)                 R
 .r
 I
 l
--r.:. ✓--~L~         'ckebro  ~··
+-r.:. ✓--\~L\~         'ckebro  \~··
 ,r
 ✓
 .
-(~J
+(\~J
 •
 Särög. .,
-~
+\~
 D
 Bukärr
-~             □
+\~             □
 q
 0
-~~
+\~\~
 !J
 "
 ..
@@ -2421,13 +2421,13 @@ D  .
 0
 .. /2
 Lyck
-~✓
-~'--
+\~✓
+\~'--
 
 R
 
 C. •
-tl  \
+tl  \\
 
 Vea
 Kungsbacka kommun            Lokala ordningsföreskrifter       16 (20)
@@ -2445,16 +2445,16 @@ I
 
 Vårdcentral    I
 
-\/
+\\/
 Oro
 FJärås
 0
 Il
-\
+\\
 Il                       0
-\
-'&)               \
-I JÖ'~
+\\
+'&)               \\
+I JÖ'\~
 R
 I
 "
@@ -2472,8 +2472,8 @@ n       D
 -aD ,
 CJ
 •
-\
-•                                                             _.
+\\
+•                                                             \_.
 0                                                     \   ...
 't>
 [I                       tO
@@ -2484,21 +2484,21 @@ f
 J
 c;    ..
 t)
-\\               ~
+\\\               \~
 "''"'D'Gfi, 11<\J
-\
+\\
 •
 Kungsbacka kommun            Lokala ordningsföreskrifter       17 (20)
-$ervice111..
+\$ervice111..
 11
 s•
-0          ""~
+0          ""\~
 OOa
 
 <!-- sida 56 -->
 
-~
-#
+\~
+\#
 i
 
 ,a
@@ -2507,7 +2507,7 @@ I
 
 ' ID
 l.
-/_J
+/\_J
 JQ
 14
 i
@@ -2515,12 +2515,12 @@ i
 u
 tJ
 u
-n                ~
-11.
+n                \~
+11\.
 lt
 I
-\
-~
+\\
+\~
 I
 z
 111
@@ -2528,26 +2528,26 @@ z
 r
 ?
 6
-Tll'.LIV~-d,,JH"'
+Tll'.LIV\~-d,,JH"'
 u
 Q FriUea4s
 Yäxtl}lJ, s-
 4
 \                                            I
 {
-I    ~,                                              -==
+I    \~,                                              -==
 1\1
 i      . t\ (
 •
 u
 •
-}                                1\\\8~~
-4      J   fo                           ~
+}                                1\\\\\8\~\~
+4      J   fo                           \~
 Kung
 FriJ
 ,
 fe s
--
+\-
 1
 i
 e! ,
@@ -2556,24 +2556,24 @@ u
 k
 •
 4               ftl/al.J.s
-~)                                I
+\~)                                I
 CJ                                                       -
-'4,n,g~~
+'4,n,g\~\~
 .,,                      Il,                            C
-\
+\\
 l
 !
-(J             ·,       .~  •
-\
+(J             ·,       .\~  •
+\\
 •    •
 -0
-\
-\
+\\
+\\
 [j
 t
 Kungsb acka kommun           Lokala o0r dningsföreskrifter     18 (20)
 l'
-~                              \
+\~                              \\
 I
 l·                                           i
 ,., f] I! 0
@@ -2587,15 +2587,15 @@ r,
 
 S P_gJt
 • F, b  .
-.....__ Ku >l•lii l!J lllU/J.111
+.....\_\_ Ku >l•lii l!J lllU/J.111
 
 .Kullavik
 
 ·.r   'l,,'CJ  :-... 11 ' ..
--
+\-
 . . . . • • • "9 • I •
 .
-. -~
+. -\~
 .
 Rönnaråcke
 ...
@@ -2621,7 +2621,7 @@ D                                      •,.
 o
 .
 l •
--
+\-
 .
 ..
 I
@@ -2649,22 +2649,22 @@ D
 .
 .
 
-_;:-;;;;.
-~ ~-==
-=-
+\_;:-;;;;.
+\~ \~-==
+\=-
 
 '
-\
+\\
 {?
-\
+\\
 tl
-\
+\\
 t
 ..
 I
 onsa\a
 
-\
+\\
 
 l
 
@@ -2703,7 +2703,7 @@ y      �
 JRubbesjö
 
 C' .
-:
+\:
 .
 .
 Blixered
@@ -2711,7 +2711,7 @@ Blixered
 . .
 .
 
-("\
+("\\
 
 <!-- sida 60 -->
 
@@ -2768,8 +2768,8 @@ Bilaga 6 - Förbud mot användning av lustgas i berusningssyfte:
 Fjärås/Hjälm
 .
 .
-/  li:-/M( \,,- - ..,
-11.
+/  li:-/M( \\,,- - ..,
+11\.
 
 r  )(
 11
@@ -3140,14 +3140,14 @@ berusningssyfte på offentliga platser och platser som jämställs med offentlig
 kommun.
 Förbudet bör gälla inom kommunens samtliga tätorter enligt karta nedan under punkt 5
 
-1. Bakgrund och syfte
+1\. Bakgrund och syfte
 
 Missbruk av lustgas (N2O) har på senare tid blivit ett växande problem i Kungsbacka. Förtäring av
 lustgas i berusningssyfte innebär risker för både hälsa och säkerhet. Förvaltningen bedömer att ett
 förbud mot förtäring av lustgas på offentliga platser skulle kunna bidra till att minska dessa risker och
 förbättra ordningen på de berörda platserna.
 
-2. Hälsorisker och säkerhetsproblem
+2\. Hälsorisker och säkerhetsproblem
 
 Förtäring av lustgas för missbruk kan leda till allvarliga hälsoproblem, inklusive syrebrist,
 medvetslöshet och i vissa fall dödsfall. En ny sort av lustgas, som nyligen påträffades vid
@@ -3156,7 +3156,7 @@ reproduktionsstörande och kan skada fertiliteten.
 Användning av lustgas ökar dessutom risken för olyckor, särskilt om användningen sker nära trafik
 eller andra farliga miljöer. Vi bedömer att ett förbud skulle kunna minska dessa risker.
 
-3. Störningar i allmän ordning
+3\. Störningar i allmän ordning
 
 Risk finns för en ökad oro bland invånare och besökare angående de störningar som missbruk av
 lustgas kan orsaka på platser såsom torg, parker och gator. Förtäring av lustgas leder ibland till
@@ -3177,7 +3177,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (5)
 
-4. Nedskräpning, kostnader och trygghet
+4\. Nedskräpning, kostnader och trygghet
 
 Förvaltningen för Teknik har registrerat en ökad nedskräpning i form av tomma lustgastuber. Tuber
 ligger slängda i naturen och då främst i diken, buskar och på skolgårdar runt om i kommunen. Dessa
@@ -3187,7 +3187,7 @@ för förvaltningen för Teknik, därtill kommer arbetstiden för att samla in d
 Nedskräpning och ovårdad utemiljö bidrar även mycket till otrygghetskänsla. Platserna signalerar brist
 på mänsklig närvaro och omsorg som i sin tur leder till otrygghet.
 
-5. Rättsliga och praktiska överväganden
+5\. Rättsliga och praktiska överväganden
 
 Under samråd med polisen framkom vikten av att förbudet ska gälla så stora områden som möjligt.
 Detta för att undvika ”frizoner” där förbudet inte gäller. Om områdena är för små blir förbudet
@@ -3228,7 +3228,7 @@ utformas så de innefattar dessa tätorter.
 KUNGSBACKA  KOMMUN
 4 (5)
 
-6. Förvaltningens förslag
+6\. Förvaltningens förslag
 
 Förvaltningen föreslår att införa ett förbud mot förtäring av lustgas i berusningssyfte på offentliga
 platser inom Kungsbacka kommun. Förvaltningen anser att ett sådant förbud skulle kunna förbättra
@@ -3240,7 +3240,7 @@ med missbruk av lustgas.
 KUNGSBACKA  KOMMUN
 5 (5)
 
-7. Alternativa beslut
+7\. Alternativa beslut
 
 Att inte införa ett förbud mot lustgas i berusningssyfte skulle behålla dagens situation. Fler och fler
 kommuner i Sverige väljer att införa förbud i frågan och Kungsbacka skulle då välja att inte följa
@@ -4004,7 +4004,7 @@ Länsstyrelsen Hallands län          Yttrande                  10 (11)
 2024-08-20          4027–2024
 
 9 Ikraftträdande och övergångsbestämmelser (1 juli
-2026)
+2026\)
 
 9:2 Övergångsbestämmelser
 

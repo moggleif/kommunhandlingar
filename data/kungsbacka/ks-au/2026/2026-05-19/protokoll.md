@@ -551,7 +551,7 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Samhällsbyggnadschef Lovisa Eld informerar om:
--  Hallandstrafikens marknadsundersökning om kollektivtrafiken publiceras
+\-  Hallandstrafikens marknadsundersökning om kollektivtrafiken publiceras
 
 idag. Kungsbacka kommer informera om undersökningen och få så många
 invånare som möjligt att besvara undersökningen.

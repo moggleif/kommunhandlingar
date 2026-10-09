@@ -6056,7 +6056,7 @@ i mål nr 9710-23, se bilaga A
 SAKEN
 
 Utdömande av vite
-\_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 KAMMARRÄTTENS    AVGÖRANDE
 
@@ -6067,7 +6067,7 @@ prövning av Arbetsmiljöverkets ansökan om utdömande av vite. Vid denna
 prövning ska förvaltningsrätten utgå från att Kungsbacka kommun har
 delgetts Arbetsmiljöverkets vitesföreläggande daterat den 1 juni 2022.
 
-\_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dok.Id 641541
 Postadress   Besöksadress  Telefon      T elefax     Expeditionstid
@@ -6323,7 +6323,7 @@ det sätt som krävs enligt 2 § fjärde stycket viteslagen. Målet ska därför
 åter till förvaltningsrätten för prövning om övriga förutsättningar för
 
 utdömande av vitet är uppfyllda.
-\_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 200 -->
 
@@ -6358,7 +6358,7 @@ Kungsbacka kommun
 
 SAKEN
 Utdömande av vite
-\_____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 FÖRVALTNINGSRÄTTENS  AVGÖRANDE
 
@@ -6478,7 +6478,7 @@ Bilaga 1
 
 Hur man  överklagar
 FR-03
-\________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).

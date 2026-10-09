@@ -415,7 +415,7 @@ Maria Losman (MP) och Elisabeth Sahlsten (MP) yrkar bifall till Miljöpartiets
 
 förslag till kommunbudget 2025.
 Christer Perfjell (KB) yrkar bifall till Kungsbackabornas förslag till kommunbudget
-2025.
+2025\.
 
 Beslutsgång
 Ordförande Thure Sandén (M) finner inledningsvis att det finns sex förslag till beslut
@@ -845,12 +845,12 @@ Humana assistans AB
 Byggnadsnämnd  Förskola & Grundskola
 Vård & Omsorg
 Nämnd för hemsjukvård Gottskärs hemtjänst AB
-Överförmyndarnämnd* Patientnämnd**
-och hjälpmedel*** Olivia Hemtjänst AB
+Överförmyndarnämnd\* Patientnämnd\*\*
+och hjälpmedel\*\*\* Olivia Hemtjänst AB
 Vardaga Äldreomsorg AB
-* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner.
-** Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
-*** G emensam nämnd för hemsjukvård och hjälpmedel. Region Halland är värdkommun.
+\* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner.
+\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
+\*\*\* G emensam nämnd för hemsjukvård och hjälpmedel. Region Halland är värdkommun.
 6 Kommunbudget 2025 och plan 2026–2027
 
 <!-- sida 22 -->
@@ -1018,7 +1018,7 @@ Borgensåtagande, 2 892 3 059 3 283 3 412 3 502 3 493 3 484 3 484 3 484 3 484 3 
 miljoner
 Borgensåtagande, kronor 35 274 36 702 38 900 40 174 41 049 40 710 40 676 40 427 39 982 39 793 39 489
 per invånare
-* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
+\* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
 
@@ -1478,15 +1478,15 @@ Antal färdigställda bostäder       430    363     319         Öka
 
 Anmälda brott mot brottsbalken per invånare, antal/100 000 5 321 5 691 6 475 Minska
 invånare (BRÅ)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn * 90 % 91 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn \* 90 % 91 % Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn * 74 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn \* 74 % 76 % Öka
 (Kolada)
-Brukarbedömning individ­ och familjeomsorg totalt – hel- * 88 % * Öka
+Brukarbedömning individ­ och familjeomsorg totalt – hel- \* 88 % \* Öka
 hetssyn (Kolada)
-Brukarbedömning individ­ och familjeomsorg totalt – hel- 76 % * 88 % Öka
+Brukarbedömning individ­ och familjeomsorg totalt – hel- 76 % \* 88 % Öka
 hetssyn (Kolada)
-*) Brukarbedömning görs vartannat år för individ- och familjeomsorg. Detsamma gällde tidigare även äldreomsorg.
+\*) Brukarbedömning görs vartannat år för individ- och familjeomsorg. Detsamma gällde tidigare även äldreomsorg.
 
 Glass i kiosken vid Badhusparken.
 Foto: Kungsbacka kommun
@@ -1507,27 +1507,27 @@ som också skyddar och främjar biologisk mångfald.
 • Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Indikatorer                            2021   2022   2023 Målsättning 2025
-Kommunens verksamheters elförbrukning, total (kWh) * * *      Minska
+Kommunens verksamheters elförbrukning, total (kWh) \* \* \*      Minska
 
-Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/inv. (Kolada) 2,48 * * Minska
+Utsläpp till luft av växthusgaser totalt, ton CO2-ekv/inv. (Kolada) 2,48 \* \* Minska
 Fossiloberoende personbilar, andel av totalt antal bilar i det geogra- 17,0 21,2 24,1 Öka
 fiska området (%)
 Fossiloberoende personbilar i kommunorganisationen, andel (%) 93,3 94,6 96,2 Öka
-Slutanvändning av energi inom det geografiska området, MWh/invå- 17 15 * Minska
+Slutanvändning av energi inom det geografiska området, MWh/invå- 17 15 \* Minska
 nare
-Matens klimatpåverkan från de offentliga måltiderna ska minska * * * Minska
+Matens klimatpåverkan från de offentliga måltiderna ska minska \* \* \* Minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030.
-Antal kemiska produkter med utfasningsämnen, inklusive hormonstö- * * * Minska
+Antal kemiska produkter med utfasningsämnen, inklusive hormonstö- \* \* \* Minska
 rande ämnen på SIN-listan ska minska i kommunens verksamheter.
 2021 var antalet 124 (KEMgroup PRO)
-Avfall från hushåll ska minska med 30% per invånare från 2020 till * * * Minska
-2030. Startvärde 100, målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska minska med 40 % per hel- 72,1 84,5 * Minska
+Avfall från hushåll ska minska med 30% per invånare från 2020 till \* \* \* Minska
+2030\. Startvärde 100, målvärde 2030 är 70.
+Avfall från kommunens verksamheter ska minska med 40 % per hel- 72,1 84,5 \* Minska
 tidsanställd. Startvärde 100, målvärde 2030 är 60.
-Ekologisk status i Kungsbackafjorden (VISS) *   *      *       Öka
-Skyddad natur totalt, andel (Kolada)   7,4 %  7,4 %    *       Öka
-Vattendrag med god ekologisk status, andel (Kolada) 18,5 % 18,5 % * Öka
-Andelen återbrukade möbler               *      *      *       Öka
+Ekologisk status i Kungsbackafjorden (VISS) \*   \*      \*       Öka
+Skyddad natur totalt, andel (Kolada)   7,4 %  7,4 %    \*       Öka
+Vattendrag med god ekologisk status, andel (Kolada) 18,5 % 18,5 % \* Öka
+Andelen återbrukade möbler               \*      \*      \*       Öka
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 88% Åk 4: 88% Åk 4: 85% Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: Åk 8: Åk 8:
 77%    72%    79%
@@ -1538,7 +1538,7 @@ Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 93%
 92%    93%    92%
 Åk 1 gy: Åk 1 gy: Åk 1 gy:
 88%    85%    86%
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 20 Kommunbudget 2025 och plan 2026–2027
 
@@ -1562,12 +1562,12 @@ viktig del av företagsklimatet.
 Svenskt näringslivs attitydundersökning av kommuners 3,5 3,4 3,4 Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 27 384 27 695 *        Öka
-Andel av sysselsatt dagbefolkning inom Göteborgs regionen 5,1 % 4,9 % * Öka
-Företagsamhet, andel av invånare 16–74 år 18 % 18 % *           Öka
-Antal nystartade företag per 1 000 invånare 16–64 år, etable- 13,8 12,8 * Öka
+Sysselsatt dagbefolkning, antal (Kolada) 27 384 27 695 \*        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgs regionen 5,1 % 4,9 % \* Öka
+Företagsamhet, andel av invånare 16–74 år 18 % 18 % \*           Öka
+Antal nystartade företag per 1 000 invånare 16–64 år, etable- 13,8 12,8 \* Öka
 ringsfrekvens (Kolada)
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 Kommunen ska vara en
 möjliggörare för företag-
@@ -1618,9 +1618,9 @@ Indikator                              2021   2022   2023 Målsättning 2025
 Hållbart medarbetarengagemang, ett index för medarbetarnas sam- 78 78 76 Öka
 lade uppfattning om områdena motivation, ledarskap och styrning,
 skala 1–100 enligt Medarbetarenkäten
-Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix beräknas 103 114 * Öka
+Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix beräknas 103 114 \* Öka
 utifrån nio nyckeltal med skala 1–20
-*Ännu ej publicerad.
+\*Ännu ej publicerad.
 
 Kommunbudget 2025 och plan 2026–2027 23
 
@@ -1829,19 +1829,19 @@ en sammantagen process som vi kan beskriva med fyra
 Ekonomiskt ansvar
 byggstenar:
 Kommunfullmäktige tilldelar nämnder och styrelser en
-1. En robust organisation
+1\. En robust organisation
 nettoram för driften. Inom ramen ska nämnderna ta ett
 självständigt ansvar för sin ekonomi. Nämnderna måste Omfattar exempelvis organisationsstruktur, reglementen,
 själva upprätta rutiner för budgetuppföljning och intern rutiner, verksamhetssystem, kvalitetskontroller, avtal,
 kontroll. Vid befarat underskott ska förvaltningschefen information, kommunikation och kultur.
 utarbeta förslag till åtgärder och presentera dessa för
-2. Riskanalyser som riktar arbetet
+2\. Riskanalyser som riktar arbetet
 nämnden. Nämnden är skyldig att fatta beslut om åtgärder
 för att inte överskrida ramen. Om nämnden trots detta Ett reflekterande och framåtsyftande förhållningssätt.
 inte anser sig klara sig inom tilldelad ram ska nämnden Omvärldsanalys och faktainsamling inom och utom den
 omedelbart rapportera till kommunstyrelsen. Nämnden egna organisationen.
 är skyldig att göra uppföljning med så täta intervaller
-3. Planerade åtgärder och kontroller
+3\. Planerade åtgärder och kontroller
 som krävs för att ha en god kontroll. Efter 30 april och 31
 augusti rapporterar nämnden sin uppföljning och prognos Utgår från riskanalysen och prioriterar och planerar
 till kommunstyrelsen som i sin tur gör en uppföljning uppföljande kontroller.
@@ -1853,10 +1853,10 @@ fullmäktige. Detsamma gäller årsbokslutet efter den 31
 
 EKONOMISTYRPRINCIPER
 
-4. Uppföljning
+4\. Uppföljning
 Vi följer upp och analyserar den interna kontrollen. 1. Nämnden har inte utfört planerad verksamhet.
 Resultatet återkopplar man till ansvarig nämnd. Nämnden ska normalt återredovisa överskottet.
-2. Man har överfört verksamhet till annan nämnd eller
+2\. Man har överfört verksamhet till annan nämnd eller
 Nämndernas ansvar
 styrelse. Normalt gör man ramjustering av budgeten under
 I Kungsbacka arbetar varje nämnd i en årlig process för verksamhetsåret. I undantagsfall kan man återredovisa
@@ -2241,13 +2241,13 @@ Nettokostnadsavvikelse
 visar resultat under noll
 -1,3
 -2,5-2,1-2,3 -2,6                   på lägre kostnadsläge på
-- 5,0                                                grund av lägre ambi-
+\- 5,0                                                grund av lägre ambi-
 -5,1
 -6,4   -6,1                  tionsnivå och/eller hög
-- 10,0                           -9,4                effektivitet.
-- 15,0
+\- 10,0                           -9,4                effektivitet.
+\- 15,0
 -14,7
-- 20,0
+\- 20,0
 Förskola inkl. öppen Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ & LSS Äldreomsorg
 förskola öppen             Familjeomsorg
 fritidsverksamhet
@@ -2752,18 +2752,18 @@ Kommunfullmäktige har antagit följande lokalpolicy: • Vi ska omhänderta lok
 hålla och bibehålla ändamålsenliga och kostnadseffektiva • Vi ska prioritera utifrån den så kallade Prioriterings-
 lokaler över tiden".                principen i fallande ordning:
 
-1. L okalbehov som inte är lagstyrd verksamhet
+1\. L okalbehov som inte är lagstyrd verksamhet
 Varje år beslutar nämnderna om hur de bedömer
 och lokalbehov som utgörs av kvalitets-
 lokalbehovet de kommande fem åren. Behovet är baserat
 höjningar i befintliga lokaler har lägst
 på befolkningsprognoser och lokalprognoser. Det är prioritet.
 kommunens lokalstyrgrupp som sammanställer behoven
-2. Lokalbehov på grund av ny exploatering har
+2\. Lokalbehov på grund av ny exploatering har
 till en lokalbehovsplan som bearbetas vidare till en
 medel prioritet.
 lokalplan. Den ska vara möjlig att genomföra ekonomiskt,
-3. L okalbehov som beror på strukturomvand-
+3\. L okalbehov som beror på strukturomvand-
 tidsmässigt och fysiskt. Lokalplanen är en del av kom-
 lingar och som ger minskade driftskostna-
 munens flerårsbudget. Det är kommunfullmäktige som
@@ -2791,11 +2791,11 @@ INVESTERING OCH EXPLOATERING
 enligt den så kallade Fyrstegsmodellen1. Modellen kronor i investeringsbelopp. För behov som överstiger 25
 innebär att vi ska välja och överväga lokallösningar miljoner kronor eller är av särskild principiell karaktär ska
 enligt följande prioriteringsordning: kommunstyrelsen besluta om igångsättning. Motsvarande
-1. Inte tillgodose behovet alls igångsättningsbeslut krävs för de behov som ska lösas
-2. Leda om ”strömmar” av elever, boende till ledig genom inhyrning enligt lokalplanen där hyran motsvarar
+1\. Inte tillgodose behovet alls igångsättningsbeslut krävs för de behov som ska lösas
+2\. Leda om ”strömmar” av elever, boende till ledig genom inhyrning enligt lokalplanen där hyran motsvarar
 kapacitet i befintliga lokaler en investering av 25 miljoner kronor.
-3. Bygga om eller till befintliga lokaler
-4. Bygga nya lokaler            Nämnden för Service betalar kapitalkostnaden och tar ut
+3\. Bygga om eller till befintliga lokaler
+4\. Bygga nya lokaler            Nämnden för Service betalar kapitalkostnaden och tar ut
 • Vi ska föreslå och välja lokallösningar utifrån att detta som en hyra av hyresgästen. Behovsanalyserna bekos-
 ”Minska behovet av att bygga nytt genom att sam- tar nämnderna inom sin driftsbudget. Investeringsprojekt
 utnyttja och bygga mer flexibelt” vilket innebär att som inte resulterar i en investering går på den beställande
@@ -3463,7 +3463,7 @@ färdigställde kommunen utbyggnaden av infrastrukturen i
 Kommunstyrelsen godkände ett planprogram för sydöstra området och de första företagen etablerade sig. För tillfället
 centrum i januari 2020 och programmet består av fyra har fyra företag etablerat sig och tre företag förbereder
 etapper. Detaljplan för etapp 1 och 2 har påbörjats under byggstart. Under 2024 och 2025 kommer den återstående
-2021. Etapp 1 kommer att innehålla mellan 500–700 marken om totalt cirka 7,5 hektar att säljas, vilket blir cirka
+2021\. Etapp 1 kommer att innehålla mellan 500–700 marken om totalt cirka 7,5 hektar att säljas, vilket blir cirka
 bostäder samt förskola och beräknas kunna antas i början sex tomter.
 av 2025. Den största delen av etapp 1 ägs av en Balder.
 Klovsten
@@ -3520,7 +3520,7 @@ Kommunbudget 2025 och plan 2026–2027 61
 <!-- sida 77 -->
 
 Kungsbacka kommunfullmäktige beslutade i juni 2024 om kommunbudgeten för
-2025. Det här dokumentet innehåller våra övergripande mål med fokusområden
+2025\. Det här dokumentet innehåller våra övergripande mål med fokusområden
 och direktiv, resultat­ och finansieringsbudget och de ekonomiska ramar som våra
 nämnder har att förhålla sig till, en omvärldsanalys, riktlinjer för god
 ekonomisk hushållning, vår investeringsplan, taxor och avgifter och skattesats.
@@ -4000,7 +4000,7 @@ Begära     planbesked
 
 Ärendenummer: #169220 | Inskickat av: | 2024-11-11 14:20
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -4015,7 +4015,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -4056,7 +4056,7 @@ Telefon                           E-postadress
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -4094,7 +4094,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -4536,7 +4536,7 @@ Tillförordnad kommundirektör       Administrativ chef
 
 <!-- sida 106 -->
 
-Från:Kansli Tolkförmedlingväst <kansli@tolkformedlingvast.se>
+Från:Kansli Tolkförmedlingväst \<kansli@tolkformedlingvast.se>
 Skickat:den 7 oktober 202415:15
 Till:
 Ämne:Kommunalförbundet öppnar upp för nya medlemmar
@@ -4569,7 +4569,7 @@ Postadress: Box 113 05, 404 27 Göteborg
 Besöksadress: Johan på Gårdas gata 5A, Göteborg
 www.tolkformedlingvast.se
 
-____________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1
 
@@ -4919,9 +4919,9 @@ Nämnden kan uppdra åt förvaltningschefen att i sin tur uppdra åt en annan an
 att besluta i stället, så kallad vidaredelegering (kommunallagen 7 kap. 6 §). Delegering ska då ske i två
 
 steg:
-1) Nämndens beslut om delegering till förvaltningschef, med angivelse av rätt att vidaredelegera
+1\) Nämndens beslut om delegering till förvaltningschef, med angivelse av rätt att vidaredelegera
 
-2) Förvaltningschefens beslut om delegering till tjänsteman.
+2\) Förvaltningschefens beslut om delegering till tjänsteman.
 Kommunstyrelsens delegeringsförteckning uppdaterades senast den 18 juni 2024 och därefter
 kommundirektörens vidaredelegering den 3 september 2024. Det sker löpande förändringar i
 verksamheten och lagstiftning som påkallar behov av förändringar av delegeringsförteckningen.
@@ -4987,7 +4987,7 @@ Innehåll
 1.8 Efterlevnad och uppföljning ............................................................................. 5
 1.9 Förkortningar .................................................................................................. 6
 
-2. Delegeringsförteckning ......................................................................................... 7
+2\. Delegeringsförteckning ......................................................................................... 7
 2.1 Allmänt ............................................................................................................ 7
 2.2 Ekonomi och inköp ........................................................................................ 10
 2.3 Personal........................................................................................................ 12
@@ -5035,13 +5035,13 @@ Vid förfall för kommundirektören inträder den biträdande kommundirektören,
 anges.
 
 Vid förfall för övriga delegater
-1) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
+1\) annan delegat om det finns flera angivna. Vem som tar över beslutanderätten ska framgå
 av ärendet och registreras i ärende-/verksamhetssystemet
 
-2) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
+2\) vikarie/ställföreträdare, vilket ska framgå av ärendet och registreras i ärende-
 /verksamhetssystemet
 
-3) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
+3\) ordinarie delegatens/vikariens/ställföreträdarens chef, vilket ska framgå av ärendet och
 registreras i ärende-/verksamhetssystemet.
 
 I samtliga fall finns alltid möjligheten att återlämna delegationen till den som givit
@@ -5075,13 +5075,13 @@ vidaredelegera sin beslutanderätt enligt denna delegeringsförteckning till ann
 En delegat har rätt att vidta vissa andra åtgärder som är kopplat till det beslut som delegaten
 har tagit:
 
--  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
+\-  Besluta att överklaga beslut och domar i ett ärende vid en överprövning
 
--  Beslut att avge yttrande till högre instans med anledning av överklagande av
+\-  Beslut att avge yttrande till högre instans med anledning av överklagande av
 delegeringsbeslut samt att besluta att ansöka om inhibition (ett beslut inte får
 genomföras i avvaktan på prövning).
 
--  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
+\-  Delegat som har rätt att fatta beslut i viss typ av ärende har också rätt att
 underteckna handling som beslutet avser. Om arbetsutskottet har fått delegation
 undertecknas handling som beslutet avser av arbetsutskottets ordförande och
 kommundirektören.
@@ -5091,9 +5091,9 @@ Om en tjänsteman av något skäl inte vill utnyttja sin rätt att fatta beslut 
 
 ärendet visar sig falla inom ramen för vad som är föreskrivet i kommunallagen 6 kap 38 § ska
 tjänstemannen överlämna ärendet till
-- förvaltningschef om det är en beslutanderätt som är lämnad genom
+\- förvaltningschef om det är en beslutanderätt som är lämnad genom
 vidaredelegation från förvaltningschefen
-- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
+\- till kommunstyrelsen om beslutanderätten är lämnad genom delegation direkt
 från kommunstyrelsen.
 
 Ett sådant överlämnande ska registreras i ärende-/verksamhetssystemet.
@@ -5169,7 +5169,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 6 (20)
 
 <!-- sida 122 -->
 
-2. Delegeringsförteckning
+2\. Delegeringsförteckning
 
 2.1 Allmänt
 
@@ -5243,7 +5243,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 | 2.1.14 | Riktlinjer för<br>personuppgifts-<br>behandling,<br>GDPR artikel 28 | Ingå personuppgiftsbiträdesavtal för<br>kommungemensamma digitala tjänster och system. | Bitr. kdir |  | Avser kommungemensamma<br>tjänster och system som används<br>av kommunens samtliga nämnder.<br>Kommungemensamma system<br>som stödjer<br>kommungemensamma<br>stödprocesser som utförs av<br>Service eller kommunstyrelsen<br>enligt reglemente omfattas inte. |
 | 2.1.15 | Riktlinjer för<br>personuppgifts-<br>behandling,<br>GDPR artikel 28 | Ge fullmakt att underteckna personuppgiftsbiträdesavtal<br>för digital tjänst eller system som ska användas<br>gemensamt med en eller flera andra nämnder. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till<br>kontorscheferna för<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret och<br>verksamhetschefer. | Fullmakt får ges till tjänsteman<br>som ska vara systemägare för<br>tjänsten eller systemet. |
 | 2.1.16 | Regler för<br>arvoden till<br>förtroendevalda | Besluta i frågor om tolkning och tillämpningar av<br>reglerna. | Au |  |  |
-| 2.1.17 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e vice<br>ordföranden och<br>vid förfall för<br>denne 2:e vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
+| 2.1.17 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e vice<br>ordföranden och<br>vid förfall för<br>denne 2:e vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>\*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
 | 2.1.18 | Riktlinjer för<br>flaggning | Avvikelser från riktlinjerna för flaggning vid kommunens<br>officiella flaggstänger | Au |  |  |
 
 <!-- sida 125 -->

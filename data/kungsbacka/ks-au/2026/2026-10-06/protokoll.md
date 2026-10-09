@@ -203,7 +203,7 @@ Sammanfattning av ärendet
 
 Ordförande Lisa Andersson (M) anmäler följande ärende till dagens sammanträde:
 
--  Initiativ - Strategi för fler ställplatser i Kungsbacka kommun
+\-  Initiativ - Strategi för fler ställplatser i Kungsbacka kommun
 
 Beslutsgång
 Ordförande Lisa Andersson (M) prövar om förändring av ärendelistan kan
@@ -553,16 +553,16 @@ förtroendevalda (OPF-KR 25), antagna av kommunfullmäktige, 2025-10-07, § 195
 Förslag till beslut på sammanträdet
 
 Magdalena Sundqvist (S) yrkar återremiss på ärendet för att göra följande justering:
-1. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att justera avtalet för
+1\. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att justera avtalet för
 omställningsstöd så att avslag av begäran av omställningsstöd ska vara möjlig i de
 fall då förtroendevalda har agerat grovt förtroendeskadligt.
 
-2. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att ta fram etiska
+2\. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att ta fram etiska
 riktlinjer som kan tydliggöra förhållningssätt och stödja förtroendevalda i hur de bör
 uppträda samt föreskriva vad som kan vara grovt förtroendeskadligt beteende inom
 kommunen.
 
-3. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att lämna förslag på
+3\. Kommunfullmäktige ska ge kommunstyrelsen i uppdrag att lämna förslag på
 vilken instans som ska vara beslutfattande när begäran om omställningsstöd ska
 prövas samt förslag på formerna av beslutfattande.
 
@@ -1463,11 +1463,11 @@ Sammanfattning av ärendet
 
 Kommundirektör Rickard Vidlund informerar om:
 
--  Heldag med kommunledningsgruppen
--  Landshövdingen går i pension
+\-  Heldag med kommunledningsgruppen
+\-  Landshövdingen går i pension
 
 Ordförande Lisa Andersson informerar om:
--  KRF-möte förra veckan
+\-  KRF-möte förra veckan
 
 Beslutsgång
 Ordförande Lisa Andersson (M) prövar om kommunstyrelsens arbetsutskott kan

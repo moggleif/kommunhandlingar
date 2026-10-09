@@ -187,7 +187,7 @@ bland annat för Hammargårds reningsverk och för verksamhetsmark i Klovsten. P
 laga kraft, vilket möjliggör utveckling av reningsverket, medan detaljplanen för Klovsten ännu inte trätt i kraft.
 Arbetet med den fördjupade översiktsplanen för Kungsbacka stad pågår också. Förslaget har varit ute på
 granskning under våren 2025 och nu sammanställs synpunkter och eventuella justeringar inför antagande under
-2026.
+2026\.
 
 Under året har ett team jobbat intensivt för att möjliggöra en större etablering i Kungsbacka. Resultatet av det
 arbetet är nu att Dagab planerar att etablera sig i Frillesås. En etablering som beräknas ge cirka 600 nya
@@ -224,11 +224,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
 
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Sammanfattning av styrelsens arbete med målet
 Trygghetspunkter
@@ -246,10 +246,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
 
 4
 
@@ -258,7 +258,7 @@ mångfald.
 Kommunstyrelsen                                  Kungsbacka kommun
 Delårsrapport augusti 2025
 
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av styrelsens arbete med målet
 Hållbarhetskriterier vid markanvisning
@@ -292,8 +292,8 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Sammanfattning av styrelsens arbete med målet
@@ -361,7 +361,7 @@ fler jobb och en större lokal arbetsmarknad.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 
 6
 
@@ -370,21 +370,21 @@ Fokusområden
 Kommunstyrelsen                                  Kungsbacka kommun
 Delårsrapport augusti 2025
 
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 2.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
 
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
 
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 
 Sammanfattning av styrelsens arbete med målet
 Innovativ kompetensförsörjning
@@ -1839,27 +1839,27 @@ rubrik av följande lydelse.
 
 1 § Dessa föreskrifter innehåller bestämmelser om
 
-1. den miljörapport som en utövare av tillståndspliktig verksamhet eller
+1\. den miljörapport som en utövare av tillståndspliktig verksamhet eller
 verksamhet som förelagts att ansöka om tillstånd enligt 9 kap. 6 § eller 6 a §
 miljöbalken, ska lämna varje år till tillsynsmyndigheten enligt 26 kap. 20 §
 första stycket miljöbalken,
-2. vilka uppgifter om produktionen av naturgrus, morän och berg som en
+2\. vilka uppgifter om produktionen av naturgrus, morän och berg som en
 
 verksamhetsutövare, enligt 31 a § förordningen (1998:899) om miljöfarlig
 verksamhet och hälsoskydd ska lämna i en miljörapport om länsstyrelsen
 begär det,
-3. skyldighet för utövare av verksamhet som inte är tillståndspliktig eller
+3\. skyldighet för utövare av verksamhet som inte är tillståndspliktig eller
 förelagts att ansöka om tillstånd, men som omfattas av bilaga 1 till
 Europaparlamentets och rådets förordning (EG) nr 166/2006, att lämna
 miljörapport och vad den ska innehålla,
 
-4. skyldighet för utövare av verksamhet som omfattar avloppsledningsnät
+4\. skyldighet för utövare av verksamhet som omfattar avloppsledningsnät
 som är allmänna enligt lagen (2006:412) om allmänna vattentjänster och
 som är anslutna till en avloppsreningsanläggning som är tillståndspliktig
 enligt miljöprövningsförordningen (2013:251) att lämna miljörapport och
 vad den ska innehålla, och
 
-5. vilka uppgifter som en verksamhetsutövare enligt 31 c § förordningen
+5\. vilka uppgifter som en verksamhetsutövare enligt 31 c § förordningen
 (1998:899) om miljöfarlig verksamhet och hälsoskydd ska lämna i en
 miljörapport.
 
@@ -1868,58 +1868,58 @@ miljörapport.
 5 § Miljörapporter som avser tillståndspliktiga verksamheter eller
 verksamheter som förelagts att ansöka om tillstånd ska dessutom innehålla
 följande uppgifter:
-1. En kortfattad beskrivning av verksamheten samt en översiktlig
+1\. En kortfattad beskrivning av verksamheten samt en översiktlig
 beskrivning av verksamhetens huvudsakliga påverkan på miljön och
 
 människors hälsa. De förändringar som skett under året ska anges.
-2. Datum och tillståndsgivande myndighet för gällande tillståndsbeslut
+2\. Datum och tillståndsgivande myndighet för gällande tillståndsbeslut
 enligt 9 kap. 6 § eller 6 a § miljöbalken eller motsvarande i
 miljöskyddslagen samt en kort beskrivning av vad beslutet eller besluten
 avser.
 
-3. Datum och beslutande myndighet för eventuella andra beslut under året
+3\. Datum och beslutande myndighet för eventuella andra beslut under året
 med anledning av anmälningspliktiga ändringar enligt 1 kap. 10-11 §§
 miljöprövningsförordningen (2013:251) samt en kort redovisning av vad
 beslutet eller besluten avser
-4. Datum och beslutande myndighet för eventuella andra gällande beslut
+4\. Datum och beslutande myndighet för eventuella andra gällande beslut
 
 enligt miljöbalken samt en kort redovisning av vad beslutet eller besluten
 avser.
-5. Tillsynsmyndighet enligt miljöbalken.
+5\. Tillsynsmyndighet enligt miljöbalken.
 
-6. Tillståndsgiven och faktisk produktion eller annat mått på verksamhetens
+6\. Tillståndsgiven och faktisk produktion eller annat mått på verksamhetens
 omfattning.
-7. Redovisning av de villkor som gäller för verksamheten samt hur vart och
+7\. Redovisning av de villkor som gäller för verksamheten samt hur vart och
 ett av dessa villkor har uppfyllts.
 
-8. En kommenterad sammanfattning av resultaten av mätningar, beräkningar
+8\. En kommenterad sammanfattning av resultaten av mätningar, beräkningar
 eller andra undersökningar som utförts under året för att bedöma
 verksamhetens påverkan på miljön och människors hälsa.
-9. Redovisning av de betydande åtgärder som vidtagits under året för att
+9\. Redovisning av de betydande åtgärder som vidtagits under året för att
 
 säkra drift och kontrollfunktioner samt för att förbättra skötsel och underhåll
 av tekniska installationer.
-10. Redovisning av de betydande åtgärder som genomförts med anledning
+10\. Redovisning av de betydande åtgärder som genomförts med anledning
 av eventuella driftstörningar, avbrott, olyckor eller liknande händelser som
 har inträffat under året och som medfört eller hade kunnat medföra
 olägenhet för miljön eller människors hälsa.
 
-11. Redovisning av de betydande åtgärder som genomförts under året med
+11\. Redovisning av de betydande åtgärder som genomförts under året med
 syfte att minska verksamhetens förbrukning av råvaror och energi.
-12. De kemiska produkter och biotekniska organismer som kan befaras
+12\. De kemiska produkter och biotekniska organismer som kan befaras
 medföra risker för miljön eller människors hälsa och som under året ersatts
 
 med sådana som kan antas vara mindre farliga.
-13. Redovisning av de betydande åtgärder som genomförts under året i syfte
+13\. Redovisning av de betydande åtgärder som genomförts under året i syfte
 att minska volymen avfall från verksamheten och avfallets farliga
 egenskaper.
 
 <!-- sida 46 -->
 
-14. Redovisning av de betydande åtgärder som genomförts under året med
+14\. Redovisning av de betydande åtgärder som genomförts under året med
 syfte att minska sådana risker som kan ge upphov till olägenheter för miljön
 eller människors hälsa.
-15. En sammanfattning av resultaten av de undersökningar som genomförts
+15\. En sammanfattning av resultaten av de undersökningar som genomförts
 under året för att klarlägga miljöpåverkan vid användning och
 
 omhändertagande av de varor som verksamheten tillverkar samt vilka
@@ -1929,13 +1929,13 @@ omhändertagande av de varor som verksamheten tillverkar samt vilka
 omfattas av Naturvårdsverkets föreskrifter NFS 2016:6 ska dessutom
 innehålla uppgifter om avloppsslammet avseende
 
-1. producerade och hanterade mängder,
-2. behandlingsmetoder,
+1\. producerade och hanterade mängder,
+2\. behandlingsmetoder,
 
-3. innehåll av kemiska ämnen enligt föreskrivna analyskrav,
-4. hur slammet avsätts, och
+3\. innehåll av kemiska ämnen enligt föreskrivna analyskrav,
+4\. hur slammet avsätts, och
 
-5. platser för avsättning.
+5\. platser för avsättning.
 
 Verksamheter som omfattas av anmälningsplikt C enligt 28 kap. 5 §
 miljöprövningsförordningen (2013:251)
@@ -1956,12 +1956,12 @@ uppgifter som anges i 4 § och 5 a § och högst tre månader med övriga
 uppgifter, om det finns särskilda skäl.
 Bestämmelsen gäller inte miljörapporter som avses i 1 § 2.
 
-1. Dessa föreskrifter träder i kraft den 1 januari 2026.
-2. Bestämmelserna i 5 l §, 6 § och bilaga 6 ska tillämpas första gången på
+1\. Dessa föreskrifter träder i kraft den 1 januari 2026.
+2\. Bestämmelserna i 5 l §, 6 § och bilaga 6 ska tillämpas första gången på
 den miljörapport som ska ges in till tillsynsmyndigheten senast den 31 mars
-2026.
+2026\.
 
-3. Övriga bestämmelser ska tillämpas för första gången på den miljörapport
+3\. Övriga bestämmelser ska tillämpas för första gången på den miljörapport
 som ska ges in till tillsynsmyndigheten senast den 31 mars 2027.
 
 <!-- sida 47 -->
@@ -1984,34 +1984,34 @@ emot bygg- och rivningsavfall.
 Följande uppgifter ska lämnas:
 
 Mottagna avfallstyper
--  Avfallskod
+\-  Avfallskod
 
--  Intern benämning
--  Mängd (förutvarande referensår; förifylld)
--  Mängd (aktuellt referensår)
--  Enhet (förifylld som vikt i ton)
--  Hantering
--  Hanteringskod
--  Intern benämning (för hantering)
--  Intern avfallstyp (specificeras under Internt uppkomna avfallstyper)
+\-  Intern benämning
+\-  Mängd (förutvarande referensår; förifylld)
+\-  Mängd (aktuellt referensår)
+\-  Enhet (förifylld som vikt i ton)
+\-  Hantering
+\-  Hanteringskod
+\-  Intern benämning (för hantering)
+\-  Intern avfallstyp (specificeras under Internt uppkomna avfallstyper)
 
 Internt uppkomna avfallstyper
--  Avfallskod
--  Intern benämning
--  Mängd (förutvarande referensår; förifylld)
--  Mängd (aktuellt referensår)
--  Enhet (förifylld som vikt i ton)
+\-  Avfallskod
+\-  Intern benämning
+\-  Mängd (förutvarande referensår; förifylld)
+\-  Mängd (aktuellt referensår)
+\-  Enhet (förifylld som vikt i ton)
 
 Transportör
--  Företagsnamn
+\-  Företagsnamn
 
 Mottagare
--  Anläggning
--  Organisationsnummer
--  Ort
+\-  Anläggning
+\-  Organisationsnummer
+\-  Ort
 Behandling hos mottagaren
--  Hanteringskod
--  Intern benämning (för hantering)
+\-  Hanteringskod
+\-  Intern benämning (för hantering)
 
 Termerna i tabellen ovan har följande betydelse (presenteras i
 bokstavsordning):
@@ -2075,19 +2075,19 @@ vårdsverkets föreskrifter (NFS 2016:6) om rening och kontroll av utsläpp av
 avloppsvatten från tätbebyggelse ska följande rapporteras:
 
 Anslutning              - Tillståndsgiven anslutning (pe)
-- Dimensionerande kapacitet (pe)
+\- Dimensionerande kapacitet (pe)
 Belastning              - Maximal genomsnittlig veckobelastning
-från tätbebyggelsen (pe)*
+från tätbebyggelsen (pe)\*
 
-- Inkommande maximal genomsnittlig
-veckobelastning för året (pe)*
-- Inkommande belastning beräknat som
+\- Inkommande maximal genomsnittlig
+veckobelastning för året (pe)\*
+\- Inkommande belastning beräknat som
 årsmedelvärde (pe)
 
 Inkommande till         - COD , BOD , totalfosfor och totalkväve
 Cr    7
 avloppsrenings-anläggning i mängd och halt (kg, mg/l)
-- Flöde (1 000 m3)
+\- Flöde (1 000 m3)
 Utgående från avloppseningsan- - COD , BOD , totalfosfor, totalkväve,
 Cr    7
 läggning                NH -N, Hg, Cd, Pb, Cu, Zn, Cr och Ni i
@@ -2098,18 +2098,18 @@ dat i eller vid avloppsreningsanläggningen,
 och sammanvägd utgående mängd och halt
 inklusive bräddning i eller vid avloppse-
 ningsanläggningen
-Efterlevnad av begränsningsvär- - COD (förvalda alternativ anges)**
+Efterlevnad av begränsningsvär- - COD (förvalda alternativ anges)\*\*
 Cr
-den i NFS 2016:6        - BOD (förvalda alternativ anges)**
+den i NFS 2016:6        - BOD (förvalda alternativ anges)\*\*
 7
-- Totalkväve (förvalda alternativ anges)***
-- Totalfosfor (förvalda alternativ anges)
+\- Totalkväve (förvalda alternativ anges)\*\*\*
+\- Totalfosfor (förvalda alternativ anges)
 (NFS 2019:7)
-* Även bedömningsunderlaget ska redovisas.
-** Om efterlevnad sker genom högsta koncentration per mättillfälle eller
+\* Även bedömningsunderlaget ska redovisas.
+\*\* Om efterlevnad sker genom högsta koncentration per mättillfälle eller
 minsta procentuella reduktion per mättillfälle ska samtliga provtagningsdatum
 med analysresultat redovisas.
-*** Om efterlevnad sker genom procentuell reduktion ska beräkning redovisas.
+\*\*\* Om efterlevnad sker genom procentuell reduktion ska beräkning redovisas.
 Beräkningen ska utgå från reduktionen i avloppsreningsanläggningen och
 naturlig kväveretention
 
@@ -2553,7 +2553,7 @@ krävs enligt gällande miljölagstiftning.
 
 3.6
 
-3)
+3\)
 
 3.8
 
@@ -2630,7 +2630,7 @@ detaljplan och exploatering.
 
 Indirekt besittningsskydd
 
-Detta avtal är inte förenat med något besittningsskydd. Bestämmelserna i 11 kap. 5-6a $$
+Detta avtal är inte förenat med något besittningsskydd. Bestämmelserna i 11 kap. 5-6a \$\$
 jordabalken om rätt till ersättning för Arrendatorn med anledning av arrendets upphörande
 gäller alltså inte för detta avtal.
 
@@ -2652,9 +2652,9 @@ För detta arrendeavtal, samtliga villkors giltighet krävs:
 
 I. Undertecknat av Arrendatorn behörig firmatecknare.
 
-2. Kommunstyrelsens arbetsutskotts godkännande.
+2\. Kommunstyrelsens arbetsutskotts godkännande.
 
-3. Arrendenämndens godkännande av punkt 3.14 Jordägarens rätt att återta
+3\. Arrendenämndens godkännande av punkt 3.14 Jordägarens rätt att återta
 
 arrendestället.
 

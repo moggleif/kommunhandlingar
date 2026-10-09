@@ -110,7 +110,7 @@ KUNGSBACKA  KOMMUN
 
 Ärende                Beteckning Förslag
 
-22. Lönekartläggning 2024 och KS-2024- Förslag till beslut i kommunstyrelsen
+22\. Lönekartläggning 2024 och KS-2024- Förslag till beslut i kommunstyrelsen
 lönestruktur 2025     00774     Kommunstyrelsen fastställer lönestrukturen för 2025
 enligt nedan:
 08:50-09:50
@@ -139,7 +139,7 @@ BAS-intervall D, F, H och J.
 Kommunstyrelsen godkänner rapport avseende
 lönekartläggning 2024.
 
-23. Information om fördjupad 2020-00313
+23\. Information om fördjupad 2020-00313
 översiktsplan för Kungsbacka
 stad (FÖP)
 
@@ -148,7 +148,7 @@ stad (FÖP)
 Andrea Ericsson
 Anders Lund
 
-24. Information om årshjul för 2025-00052
+24\. Information om årshjul för 2025-00052
 KSAU 2025
 
 Anders Johansson

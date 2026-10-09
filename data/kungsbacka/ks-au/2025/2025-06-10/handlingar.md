@@ -982,18 +982,18 @@ tiderna, främja samordning mellan myndigheter och höja rättssäkerheten för 
 föreslås inta en mer övervakande & kompletterande roll i systemet.
 
 Förslagen i utredningen avser i huvudsak följande:
-- Inrättande av en ny statlig miljöprövningsmyndighet med ansvar för tillståndsprövning enligt
+\- Inrättande av en ny statlig miljöprövningsmyndighet med ansvar för tillståndsprövning enligt
 miljöbalken för miljöfarliga verksamheter och vattenverksamheter.
 
-- Kommunal överlåtelse av tillståndsprövning för miljöfarliga verksamheter och
+\- Kommunal överlåtelse av tillståndsprövning för miljöfarliga verksamheter och
 vattenverksamheter. Kommuner föreslås behålla tillsynsansvar för verksamheter med lokal
 påverkan.
-- Kommuner ges en formell rådgivande roll i tillståndsprövningen och utökad rätt att överklaga
+\- Kommuner ges en formell rådgivande roll i tillståndsprövningen och utökad rätt att överklaga
 tillståndsbeslut.
 
-- Den nya statliga miljöprövningsmyndigheten får befogenhet att framföra synpunkter på kommunal
+\- Den nya statliga miljöprövningsmyndigheten får befogenhet att framföra synpunkter på kommunal
 planläggning i frågor gällande miljöpåverkan.
-- Förenkling av miljöbedömningsprocessen och tydligare integrering av denna process i
+\- Förenkling av miljöbedömningsprocessen och tydligare integrering av denna process i
 prövningskedjan.
 
 Bygg- och miljöförvaltningen delar utredningens övergripande ambition att förenkla och effektivisera
@@ -1576,13 +1576,13 @@ Kungsbacka kommun ställer sig positiv till många delar av förslaget, men vi v
 synpunkter och kompletterande förslag som vi anser kan förbättra och förtydliga modellen. Nedan
 följer de områden där vi ser behov av ytterligare överväganden eller justeringar.
 
-1. Ökat kommunalt inflytande – positiv utveckling men med behov av skyddsmekanismer
+1\. Ökat kommunalt inflytande – positiv utveckling men med behov av skyddsmekanismer
 Det är positivt att kommunerna ges ett större inflytande i bosättningsförfarandet och att
 fördelningsmodellen beaktar bostadsmarknadens läge samt förekomst av områden med utanförskap.
 Kommunerna har bäst kännedom om sina egna lokala förutsättningar, vilket stärker möjligheten att
 planera mottagande och integration på ett långsiktigt sätt.
 
-2. Kommunens dubbla uppdrag – behov av tydlig ansvarsfördelning
+2\. Kommunens dubbla uppdrag – behov av tydlig ansvarsfördelning
 
 Förslaget innebär att kommunen får både ett stödjande och ett beslutsfattande ansvar i relation till
 individens rätt till etableringsboende. Samtidigt som kommunen ska erbjuda vägledning och stöd i
@@ -1590,7 +1590,7 @@ boendeetableringen, ges den också befogenhet att besluta om att boendet ska upp
 möjliggöra att kommunen tar bättre beslut då man redan har bra insyn på individens ärende, samtidigt
 finns det en risk att detta dubbla uppdrag kan försvåra tilliten mellan individ och myndighet.
 
-3. Nuvarande tidsfrister ska behållas
+3\. Nuvarande tidsfrister ska behållas
 Kommunen anser att de två månader som gäller idag för mottagande av nyanlända är en för kort tid när
 det gäller att planera för bostad och skolgång. Det behöver finnas en längre tidsfrist för att kunna ta
 emot nyanlända med bättre framförhållning särskilt med tanke på barnperspektivet och de begränsade
@@ -1615,14 +1615,14 @@ tillgodose de behoven. Kommunernas förutsättningar för ett gott mottagande ö
 tidsfristen förlängdes. Kommunen är positiv till förslaget att Migrationsverket ges möjlighet att beslut
 om en längre tidsfrist för kvotflyktingar.
 
-4. Jämställdhetsperspektivet och särskilda satsningar för kvinnor
+4\. Jämställdhetsperspektivet och särskilda satsningar för kvinnor
 Vi uppskattar att utredningen lyfter jämställdhetsfrågor, men anser att analysen kan utvecklas
 ytterligare för att bättre fånga kvinnors särskilda behov vid etablering. Det är vanligare att kvinnor tar
 huvudansvaret för barn, vilket gör dem särskilt beroende av trygga och långsiktiga boendelösningar.
 Det är viktigt att modellen tar hänsyn till kvinnors behov när det gäller deras omsorgsansvar och
 främja deras ekonomiska självständighet.
 
-5. Ekonomiska konsekvenser och behov av differentierad ersättningsmodell
+5\. Ekonomiska konsekvenser och behov av differentierad ersättningsmodell
 Vi ser ett behov av att ersättningsmodellen anpassas efter de faktiska förhållandena i kommunerna.
 Kommuner med höga kostnader, särskilt för hyreskostnader och stödinsatser, bör kompenseras för
 
@@ -1723,7 +1723,7 @@ Datum
 
 § 64                       Dnr GA-2025-00075
 Begäran om yttrande - Betänkandet Etableringsboendelagen (KS 2025-
-00330)
+00330\)
 
 Beslut
 Nämnden för Gymnasium & Arbetsmarknad antar yttrandet, daterat 2025-05-09, och
@@ -2499,7 +2499,7 @@ Fastighetsstorlek
 Bestämmelser om fastighetsstorlek ska tillämpas på kvartersmark för att reglera
 största eller minsta fastighetsstorlek.
 
-d1 – Minsta fastighetsstorlek är <angivet> m2. Tomternas minsta storlek är i
+d1 – Minsta fastighetsstorlek är \<angivet> m2. Tomternas minsta storlek är i
 planen reglerade till 1000 m2 och 1200 m2. Motivet till bestämmelsen är att i
 planen reglera en fastighetsstorlek som medger byggnation i kuperad terräng samt
 intrycket av större naturtomter främst i de mest kuperade delarna av planområdet.
@@ -3336,7 +3336,7 @@ diariesystem.
 
 Bullerutredning
 Trafikbullerutredning Löftabro 1:2. Framtagen av Springwell Audio AB (556901-
-9721) och daterad 2025-03-18. Dokumentet är lagrat i stadsbyggnadskontorets
+9721\) och daterad 2025-03-18. Dokumentet är lagrat i stadsbyggnadskontorets
 diariesystem.
 
 Dagvattenutredning
@@ -3345,7 +3345,7 @@ daterad 2025-03-14. Dokumentet är lagrat i stadsbyggnadskontorets diariesystem.
 
 Geoteknisk utredning
 PM Geoteknik, Löftabro 1:2, Strandbackarna. Framtagen av Geotechnica (559093-
-1191) och daterad 2024-08-02. Dokumentet är lagrat i stadsbyggnadskontorets
+1191\) och daterad 2024-08-02. Dokumentet är lagrat i stadsbyggnadskontorets
 diariesystem.
 
 MUR Geoteknik, Löftabro 1:2. Framtagen av Geotechnica (559093-1191) och
@@ -3451,11 +3451,11 @@ erbjuder.
 Det aktuella detaljplaneområdet berörs främst av den första delstrategin ”Vatten,
 vatten, vatten” – med riktlinjerna:
 
--  Planera en kust för alla
--  Utveckla strandlivet och badkulturen
--  Utveckla biologiska värden under ytan och på stranden
--  Gör det möjligt att röra sig längs vattendrag
--  Planera med vatten som en tillgång i bebyggd miljö
+\-  Planera en kust för alla
+\-  Utveckla strandlivet och badkulturen
+\-  Utveckla biologiska värden under ytan och på stranden
+\-  Gör det möjligt att röra sig längs vattendrag
+\-  Planera med vatten som en tillgång i bebyggd miljö
 
 Riktlinjer för ekosystemtjänster
 Riktlinjer för ekosystemtjänster och kompensationsåtgärder är beslutade av
@@ -3477,14 +3477,14 @@ tillgodose sina behov socialt, ekonomiskt och ekologiskt”.
 Riktlinjen bygger på 5 övergripande principer som handlar om att främst bevara och
 utveckla ekosystemtjänster samt vid förlust kompensera för dem.
 
-1. Ekosystemtjänster ska bevaras och utvecklas
+1\. Ekosystemtjänster ska bevaras och utvecklas
 
-2. Negativ påverkan på ekosystemtjänster ska undvikas
+2\. Negativ påverkan på ekosystemtjänster ska undvikas
 
-3. Förlust av ekosystemtjänster ska kompenseras
-4. Helhetssyn och långsiktighet ska prägla arbetet med ekosystemtjänster
+3\. Förlust av ekosystemtjänster ska kompenseras
+4\. Helhetssyn och långsiktighet ska prägla arbetet med ekosystemtjänster
 
-5. Kommunens nämnder och bolag ska vara förebilder i arbetet med
+5\. Kommunens nämnder och bolag ska vara förebilder i arbetet med
 ekosystemtjänster
 
 Planbeskrivning | Varbergs kommun                             35
@@ -4060,7 +4060,7 @@ Planbes P k o riv s n ta in d g r e | V s a s r : b V er a g r s b k e o r m gs 
 
 [Tabell 96-1](handlingar.tabeller/96-1.csv)
 
-| PLANBESTÄMMELSER<br>Följande gäller inom områden med nedanstående beteckningar. Endast angiven användning och utformning är tillåten. Där beteckning<br>saknas gäller bestämmelsen inom hela planområdet.<br>GRÄNSER<br>Planområdesgräns<br>Användningsgräns<br>Illustrationsgräns<br>Sekundär egenskapsgräns<br>Sammanfallande sekundär och egenskapsgräns<br>ANVÄNDNING AV MARK<br>Kvartersmark<br>Bostäder<br>Pumpstation<br>Transformatorstation<br>EGENSKAPSBESTÄMMELSER FÖR KVARTERSMARK<br>Avgränsad via egenskapsgräns och användningsgräns<br>Fastighetsstorlek<br>Minsta fastighetsstorlek är <angivet> m²<br>Höjd på byggnadsverk<br>Högsta nockhöjd på huvudbyggnad är 8 meter<br>Högsta nockhöjd på komplementbyggnad är 4,5 meter<br>Placering<br>Huvudbyggnad ska placeras minst 4,0 meter från fastighetsgräns<br>Komplementbyggnad ska placeras minst 1,0 meter från fastighetsgräns<br>Garage eller carport ska placeras minst 6,0 meter från fastighetsgräns mot den gata som trafikmatar fastigheten<br>Skydd mot störningar<br>Lägsta golvhöjd är +3,5 möh<br>Lägsta golvhöjd är minst 0,5 meter över gatunivån (gäller i förhållande till ny lokalgata)<br>Takvinkel<br>Största takvinkel för huvudbyggnad är 45 grader<br>Minsta takvinkel för huvudbyggnad är 15 grader<br>Upphävande av strandskydd<br>Strandskyddet är upphävt<br>Utformning<br>Endast friliggande villor<br>Huvudbyggnad ska utföras som friliggande suterräng<br>Stödmurar får ej vara högre än 1,2 meter<br>Utnyttjandegrad<br>Största byggnadsarea för huvudbyggnad är 150 kvm per fastighet<br>Största byggnadsarea för komplementbyggnader är 50 kvm per fastighet<br>EGENSKAPSBESTÄMMELSER FÖR KVARTERSMARK<br>Avgränsad via sekundär egenskapsgräns och användningsgräns<br>Begränsning av markens utnyttjande<br>Marken får inte förses med byggnad<br>Marken får endast förses med komplementbyggnad<br>Markens anordnande och vegetation<br>Trädet får endast fällas om det är sjukt eller utgör en säkerhetsrisk<br>Markreservat för allmännyttiga ändamål<br>Markreservat för allmännyttiga underjordiska ledningar<br>Markreservat för gemensamhetsanläggningar<br>Markreservat för gemensamhetsanläggning gata<br>Markreservat för gemensamhetsanläggning avfallshantering<br>Stängsel, utfart och annan utgång<br>Utfart ska anordnas mot ny gemensamhetsanläggning gata<br>Utformning<br>Huvudbyggnad ska utföras som friliggande suterräng<br>Stödmurar får ej vara högre än 1,2 meter<br>GENOMFÖRANDETID<br>Genomförandetiden är 10 år.<br>Plankarta med bestämmelser<br>Samrådshandling<br>Detaljplan för<br>Del av Löftabro 1:2<br>Diarienummer:<br>SBK 2020-000056<br>Godkänd för samråd<br>2025-04-24 § 83<br>Godkänd för granskning<br>20xx-xx-xx § xxx<br>Antagen BN Löftabro, Varbergs kommun<br>20xx-xx-xx § xxx<br>Laga kraft Upprättad av Stadsbyggnadskontoret<br>20xx-xx-xx 2025-04-10 XXX<br>Skala 1:1000 (A1) |  |  |
+| PLANBESTÄMMELSER<br>Följande gäller inom områden med nedanstående beteckningar. Endast angiven användning och utformning är tillåten. Där beteckning<br>saknas gäller bestämmelsen inom hela planområdet.<br>GRÄNSER<br>Planområdesgräns<br>Användningsgräns<br>Illustrationsgräns<br>Sekundär egenskapsgräns<br>Sammanfallande sekundär och egenskapsgräns<br>ANVÄNDNING AV MARK<br>Kvartersmark<br>Bostäder<br>Pumpstation<br>Transformatorstation<br>EGENSKAPSBESTÄMMELSER FÖR KVARTERSMARK<br>Avgränsad via egenskapsgräns och användningsgräns<br>Fastighetsstorlek<br>Minsta fastighetsstorlek är \<angivet> m²<br>Höjd på byggnadsverk<br>Högsta nockhöjd på huvudbyggnad är 8 meter<br>Högsta nockhöjd på komplementbyggnad är 4,5 meter<br>Placering<br>Huvudbyggnad ska placeras minst 4,0 meter från fastighetsgräns<br>Komplementbyggnad ska placeras minst 1,0 meter från fastighetsgräns<br>Garage eller carport ska placeras minst 6,0 meter från fastighetsgräns mot den gata som trafikmatar fastigheten<br>Skydd mot störningar<br>Lägsta golvhöjd är +3,5 möh<br>Lägsta golvhöjd är minst 0,5 meter över gatunivån (gäller i förhållande till ny lokalgata)<br>Takvinkel<br>Största takvinkel för huvudbyggnad är 45 grader<br>Minsta takvinkel för huvudbyggnad är 15 grader<br>Upphävande av strandskydd<br>Strandskyddet är upphävt<br>Utformning<br>Endast friliggande villor<br>Huvudbyggnad ska utföras som friliggande suterräng<br>Stödmurar får ej vara högre än 1,2 meter<br>Utnyttjandegrad<br>Största byggnadsarea för huvudbyggnad är 150 kvm per fastighet<br>Största byggnadsarea för komplementbyggnader är 50 kvm per fastighet<br>EGENSKAPSBESTÄMMELSER FÖR KVARTERSMARK<br>Avgränsad via sekundär egenskapsgräns och användningsgräns<br>Begränsning av markens utnyttjande<br>Marken får inte förses med byggnad<br>Marken får endast förses med komplementbyggnad<br>Markens anordnande och vegetation<br>Trädet får endast fällas om det är sjukt eller utgör en säkerhetsrisk<br>Markreservat för allmännyttiga ändamål<br>Markreservat för allmännyttiga underjordiska ledningar<br>Markreservat för gemensamhetsanläggningar<br>Markreservat för gemensamhetsanläggning gata<br>Markreservat för gemensamhetsanläggning avfallshantering<br>Stängsel, utfart och annan utgång<br>Utfart ska anordnas mot ny gemensamhetsanläggning gata<br>Utformning<br>Huvudbyggnad ska utföras som friliggande suterräng<br>Stödmurar får ej vara högre än 1,2 meter<br>GENOMFÖRANDETID<br>Genomförandetiden är 10 år.<br>Plankarta med bestämmelser<br>Samrådshandling<br>Detaljplan för<br>Del av Löftabro 1:2<br>Diarienummer:<br>SBK 2020-000056<br>Godkänd för samråd<br>2025-04-24 § 83<br>Godkänd för granskning<br>20xx-xx-xx § xxx<br>Antagen BN Löftabro, Varbergs kommun<br>20xx-xx-xx § xxx<br>Laga kraft Upprättad av Stadsbyggnadskontoret<br>20xx-xx-xx 2025-04-10 XXX<br>Skala 1:1000 (A1) |  |  |
 | --- | --- | --- |
 |  | Detaljplan för<br>Del av Löftabro 1:2<br>Löftabro, Varbergs kommun<br>Upprättad av Stadsbyggnadskontoret<br>2025-04-10 XXX |  |
 |  |  | XXX |
@@ -4079,7 +4079,7 @@ I
 I
 
 , '
-' , ,' <-;-----,,c.._                                                                                                 I
+' , ,' <-;-----,,c..\_                                                                                                 I
 ,                                                                                                                     I
 ,
 ,
@@ -4114,9 +4114,9 @@ I
 •               I   I
 I   I
 I  I
----
--
-------
+\---
+\-
+\------
 I
 ,�
 18         20
@@ -4132,7 +4132,7 @@ I
 22:1                  ♦
 "
 ,,,
-(  '\ \
+(  '\ \\
 I I
 
 St
@@ -4143,7 +4143,7 @@ St
 (    -
 "-.
 \                          Atmedal
-\_,     1
+\\\_,     1
 �
 Rågelund
 Detaljplan för
@@ -4536,7 +4536,7 @@ Bygglovsavdelningen
 
 Ärendenummer: #197847 | Inskickat av:             | 2025-04-06 10:03
 
-1. Ärende
+1\. Ärende
 
 Välj ärende
 
@@ -4547,7 +4547,7 @@ granska aktuella ärenden gått ut.
 
 BN 2025-000562 - sista datum för att lämna synpunkter är 2025-04-10
 
-2. Handlingar
+2\. Handlingar
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -4586,7 +4586,7 @@ Verksamhetsbeskrivning Hämta
 Verksamhetsbeskrivning Hämta
 Övrigt            Hämta
 
-3. Svar
+3\. Svar
 
 Har du synpunkter på ansökan?
 
@@ -4736,21 +4736,21 @@ Sida 2 av 5
 
 <!-- sida 114 -->
 
-1. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för strandskyddets syften.
+1\. redan har tagits i anspråk på ett sätt som gör att det saknar betydelse för strandskyddets syften.
 
-2. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
+2\. genom en väg, järnväg, bebyggelse, verksamhet eller annan exploatering är väl
 avskilt från området närmast strandlinjen.
 
-3. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
+3\. behövs för en anläggning som för sin funktion måste ligga vid vattnet och behovet
 inte kan tillgodoses utanför området.
 
-4. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
+4\. behövs för att utvidga en pågående verksamhet och utvidgningen inte kan
 genomföras utanför området.
 
-5. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte
+5\. behöver tas i anspråk för att tillgodose ett angeläget allmänt intresse som inte
 kan tillgodoses utanför området.
 
-6. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
+6\. behöver tas i anspråk för att tillgodose ett annat mycket angeläget intresse.
 
 Som särskilda skäl vid prövningen av en fråga om dispens från strandskyddet inom ett område
 för landsbygdsutveckling i strandnära lägen får man också beakta om ett strandnära läge för en
@@ -4908,7 +4908,7 @@ Förbud | 15 NVL Förbud
 
 ventilatio
 
-Bn $ 218
+Bn \$ 218
 Aus 303 NE .
 
 u 303 Inlämnade konstruktionshandlingar avseende bygg VA/värme
@@ -4921,7 +4921,7 @@ Komplettering beräknas ske med yttrande från brandmyndigheten, yrkes- faslighe
 inspektionen samt berörda grannar före arbetsutskottets sammanträde. MX] Anmälan om ansvarig arbetsledare för bygg rör ventilation
 
 att med hänsyn till tomtplatsens belägenhet söder om allmänna vägen för- NN För godkännande av anmäld ansvarig arbetsledare för bygg rör
-klara att gällandeförbud jämlikt 16 $ naturvårdslagen inte skall utgöra ilati .
+klara att gällandeförbud jämlikt 16 \$ naturvårdslagen inte skall utgöra ilati .
 hinder mot att i huvudsaklig överensstämmelse medföretedda ritningar Ö ventilation erfordras kompetensuppgifter
 
 Vidare kommer besiktning av den föreslagna tomtplatsen att ske före
@@ -4930,7 +4930,7 @@ arbetsutskottets sammanträde.
 i
 
 | i
-och situationsplan uppföra en barnstuga Konstruktionshandlingar —- bygg inkom or 2E ertodras <f
+och situationsplan uppföra en barnstuga Konstruktionshandlingar —- bygg inkom or 2E ertodras \<f
 
 sva AA
 
@@ -4948,7 +4948,7 @@ Godkännande från yrkesinspektionen föreligger.
 
 förslagen sanitärsnlöggning. har den 21 maj 1991 lämnat tillstånd till överlämna ärendet till stadsarkitektkontoret för bygglovgivning i Teknisk beskrivning
 ” delegation, när byggnadens vattenförsörjning, med hänvisning till | Grundundersökning Om arv nat ön berg , Of
-2 kap 3 $ plan- och bygglagen, klarlagts, samt Brandcellsindelning — brandteknisk redovisning
+2 kap 3 \$ plan- och bygglagen, klarlagts, samt Brandcellsindelning — brandteknisk redovisning
 Ventilationsteknisk redovisning
 
 Arbetsutskottet beslöt isni äneri /
@@ -5053,7 +5053,7 @@ MAL er ——  — -
 
 | nn
 Al. d Mikrotjänst ,!'3
-$ år |
+\$ år |
 ) Miksolilmepet em Mikrofilmning
 TEL 038 HP KO HALMSTAD
 
@@ -5487,7 +5487,7 @@ Lekmannarevision     2024
 <!-- sida 136 -->
 
 Innehållsförteckning
-1.  Granskningsinriktning ............................................................................................... 2
+1\.  Granskningsinriktning ............................................................................................... 2
 
 1.1. Bakgrund .................................................................................................................... 2
 
@@ -5498,7 +5498,7 @@ Innehållsförteckning
 1.4. Revisionskriterier ....................................................................................................... 2
 
 1.5. Metod .......................................................................................................................... 2
-2.  Granskningsresultat 2024 .......................................................................................... 3
+2\.  Granskningsresultat 2024 .......................................................................................... 3
 
 2.1. Väsentliga händelser under året ............................................................................... 3
 
@@ -5509,7 +5509,7 @@ Innehållsförteckning
 2.4. Riskanalys och intern kontroll .................................................................................. 5
 
 2.5. Årets resultat .............................................................................................................. 7
-3.  Sammanfattande bedömning och rekommendationer ............................................ 8
+3\.  Sammanfattande bedömning och rekommendationer ............................................ 8
 
 Bilagor:
 Bilaga 1: Revisionskriterier
@@ -5520,7 +5520,7 @@ Bilaga 2: Källförteckning
 
 <!-- sida 137 -->
 
-1. Granskningsinriktning
+1\. Granskningsinriktning
 
 1.1. Bakgrund
 Kommunfullmäktige har antagit stadgar för stiftelsen Tjolöholm. Enligt stadgarna ska
@@ -5563,7 +5563,7 @@ av bilaga 2. Samtliga intervjuade har getts tillfälle att sakfelsgranska rappor
 
 <!-- sida 138 -->
 
-2. Granskningsresultat 2024
+2\. Granskningsresultat 2024
 
 2.1. Väsentliga händelser under året
 
@@ -5598,7 +5598,7 @@ följs upp under 2023
 Inom ramen för 2023 års grundläggande granskning följdes arbetet med rekommendationerna
 upp. Samtliga bedömdes kvarstå och styrelsen rekommenderades att fortsätta arbetet under
 
-2024.
+2024\.
 
 Under 2024 har arbetet med inköp och upphandling samt det systematiska arbetsmiljöarbetet
 granskats i revisionens fördjupade granskning av inköp och arbetsmiljö. Granskningen visade
@@ -5802,7 +5802,7 @@ att stävja underskott kommande år.
 
 <!-- sida 143 -->
 
-3. Sammanfattande  bedömning  och rekommendationer
+3\. Sammanfattande  bedömning  och rekommendationer
 
 Vår sammanfattande bedömning är att det finns brister i säkerställandet av att stiftelsen sköts
 på ett ändamålsenligt tillfredställande sätt. Den fördjupade granskningen som genomförts
@@ -5813,7 +5813,7 @@ delårsrapporter under året.
 
 Vår sammanfattande bedömning är att stiftelsen ur ekonomisk synpunkt delvis sköts på ett
 tillfredställande sätt. Stiftelsen redovisar ett ekonomiskt underskott om 6,9 miljoner kronor för
-2024. Det är väsentligt att stiftelsen bedriver att ändamålsenligt budget- och uppföljningsarbete
+2024\. Det är väsentligt att stiftelsen bedriver att ändamålsenligt budget- och uppföljningsarbete
 tillsammans med eventuella anpassningar i verksamheten för att stävja underskott kommande
 år.
 
@@ -6434,22 +6434,22 @@ undersökningar på aktuell fastighet.
 Utbetalning kommer   att ske efter acceptans av
 
 nedan  angivna villkor
-1. Bidrag ska endast användas för de utredningar och objekt
+1\. Bidrag ska endast användas för de utredningar och objekt
 
 som har beviljats bidrag inom den kostnad som angetts i
 ansökan.
 
-2. Bidraget ska användas och hanteras i enlighet med utgåva 16
+2\. Bidraget ska användas och hanteras i enlighet med utgåva 16
 av Naturvårdsverkets kvalitetsmanual för användning och
 
 hantering av statlig finansiering till avhjälpande av
 föroreningsskador.
 
-3. Huvudmannen ska omedelbart meddela och kommentera
+3\. Huvudmannen ska omedelbart meddela och kommentera
 betydande förändringar i projektet, till exempel ändringar i
 tidsplanen, uppfyllelse av mål eller kostnader.
 
-4. Naturvårdsverket beviljar endast bidrag för utredningsobjekt
+4\. Naturvårdsverket beviljar endast bidrag för utredningsobjekt
 där ansvar saknas. Om det framkommer att någon kan anses
 ansvarig för att bekosta utredningar ska kommunen
 omedelbart meddela Länsstyrelsen. Naturvårdsverket kan då
@@ -6457,7 +6457,7 @@ göra en omprövning av bidragsbeslutet och kan komma att
 
 fatta beslut om att återkräva det beviljade beloppet.
 
-5. Huvudmannen ska senast den 15:e januari 2026 lämna en
+5\. Huvudmannen ska senast den 15:e januari 2026 lämna en
 ekonomisk redovisning för utredningen av föroreningsskadan
 till Länsstyrelsen. Det ska i denna redovisning ingå uppgifter
 
@@ -6466,15 +6466,15 @@ att användas, oförbrukade medel, behov av omfördelning av
 medel till 2026 samt prognos för eventuella övriga framtida
 behov av medel.
 
-6. Ettåriga utredningar som påbörjas 2025 samt redan pågående
+6\. Ettåriga utredningar som påbörjas 2025 samt redan pågående
 
 utredningar 2025 ska avslutas i nära anslutning till årsskiftet
 2025/2026.
 
-7. Om medel behöver förbrukas under kvartal 1 2026, ska dessa
+7\. Om medel behöver förbrukas under kvartal 1 2026, ska dessa
 medel vara uppbundna i avtal senast den 31 december 2025.
 
-8. Rapporter, såsom MIFO-inventeringar, miljötekniska
+8\. Rapporter, såsom MIFO-inventeringar, miljötekniska
 
 undersökningar, riskbedömningar med mera ska så snart de
 är klara skickas digitalt till Länsstyrelsen.
@@ -6486,21 +6486,21 @@ Skickat 2025-02-27
 Länsstyrelsen Hallands län           Delbeslut                 3 (3)
 2025-02-26       1641-2025
 
-9. Verksamheten som har beviljats bidrag ska vara föremål för
+9\. Verksamheten som har beviljats bidrag ska vara föremål för
 samma kontroll och löpande revision som länsstyrelsens
 övriga verksamhet. Naturvårdsverket kan ställa krav på en
 
 extern revisor eller initiera egna revisioner.
 
-10. Eventuellt problem eller frågeställningar i projektet ska
+10\. Eventuellt problem eller frågeställningar i projektet ska
 ges möjlighet att diskuteras i en arbetsgrupp bestående av
 representanter från Kungsbacka kommun, konsult samt
 Länsstyrelsen.
 
-11. Eventuella överblivna oförbrukade medel ska återbetalas till
+11\. Eventuella överblivna oförbrukade medel ska återbetalas till
 Länsstyrelsen.
 
-12. Kungsbacka kommun ska meddela vilket konto, bank, samt
+12\. Kungsbacka kommun ska meddela vilket konto, bank, samt
 referens som ska anges vid utbetalningen av medel.
 
 De som  medverkat  i beslutet
@@ -6557,15 +6557,15 @@ kronor, och för tre utredningar i två län har bidragsbeloppet minskats med
 
 Villkor för bidraget
 
-1. Bidrag ska endast användas för de utredningar och objekt som har
+1\. Bidrag ska endast användas för de utredningar och objekt som har
 beviljats bidrag inom den kostnad som länsstyrelsen angett, samt i övrigt
 i enlighet med vad som angetts i ansökan.
 
-2. Bidraget ska användas och hanteras i enlighet med utgåva 16 av
+2\. Bidraget ska användas och hanteras i enlighet med utgåva 16 av
 Naturvårdsverkets kvalitetsmanual för användning och hantering av
 statlig finansiering till avhjälpande av föroreningsskador.
 
-3. Länsstyrelsen ska omedelbart meddela och kommentera betydande
+3\. Länsstyrelsen ska omedelbart meddela och kommentera betydande
 förändringar i projektet, till exempel ändringar i tidsplanen, uppfyllelse
 av mål eller kostnader.
 
@@ -6582,22 +6582,22 @@ Ankomstdatum 2024-12-13
 Diarienummer MH-2023-2167
 NATURVÅRDSVERKET                                             2(14)
 
-4. Bidraget får inte användas till länsstyrelsens egna kostnader för styrning
+4\. Bidraget får inte användas till länsstyrelsens egna kostnader för styrning
 och administration av bidraget.
 
-5. Länsstyrelsen är ansvarig att utreda om någon kan anses ansvarig för att,
+5\. Länsstyrelsen är ansvarig att utreda om någon kan anses ansvarig för att,
 helt eller delvis, bekosta utredningar. Om det framkommer att någon kan
 anses ansvarig för att bekosta utredningar ska länsstyrelsen omedelbart
 meddela Naturvårdsverket. Naturvårdsverket beviljar bidrag endast för
 utredningsobjekt där ansvar saknas.
 
-6. Länsstyrelsen ska för varje kalenderår lämna en uppdaterad ekonomisk
+6\. Länsstyrelsen ska för varje kalenderår lämna en uppdaterad ekonomisk
 
 redovisning för utredningen av föroreningsskadan till Naturvårdsverket.
 Den ska lämnas senast den 31 januari året efter det kalenderår som den
 avser.
 
-7. Det förorenade områdets status ska vara uppdaterad i EBH-stödet senast
+7\. Det förorenade områdets status ska vara uppdaterad i EBH-stödet senast
 den 31 januari varje år. Slutförda huvudstudierapporter (samtliga delar,
 inklusive riskvärderingsfasen) ska sändas till Naturvårdsverket senast sex
 månader efter avslutad huvudstudie med motivering till vald åtgärd. Om
@@ -6605,20 +6605,20 @@ en huvudstudie inte drivs vidare till åtgärd ska den skriftligen redovisas
 till Naturvårdsverket i samband med att huvudstudien färdigställs, dvs.
 när detta beslut fattats av länsstyrelsen.
 
-8. Verksamheten som har beviljats bidrag ska vara föremål för samma
+8\. Verksamheten som har beviljats bidrag ska vara föremål för samma
 kontroll och löpande revision som länsstyrelsens övriga verksamhet.
 Naturvårdsverket kan ställa krav på en extern revisor eller initiera egna
 revisioner.
 
-9. Ettåriga utredningar som påbörjas 2025 samt redan pågående utredningar
+9\. Ettåriga utredningar som påbörjas 2025 samt redan pågående utredningar
 2025 ska avslutas i nära anslutning till årsskiftet 2025/2026. Tvååriga
 utredningar som påbörjas 2025 ska avslutas i nära anslutning till
 årsskiftet 2026/2027.
 
-10. Länsstyrelserna ska redovisa oförbrukat bidrag till Naturvårdsverket
+10\. Länsstyrelserna ska redovisa oförbrukat bidrag till Naturvårdsverket
 senast den 31 januari 2026 respektive den 31 januari 2027.
 
-11. Länsstyrelsens beslut om eventuell vidarefördelning av bidrag enligt 10 a
+11\. Länsstyrelsens beslut om eventuell vidarefördelning av bidrag enligt 10 a
 § i förordning (2004:100) om statsbidrag för avhjälpande av
 föroreningsskador ska innehålla villkoren ovan i tillämpliga delar samt i
 övrigt de villkor som länsstyrelsen anser behövs.
@@ -6631,7 +6631,7 @@ NATURVÅRDSVERKET                                             3(14)
 
 Tabell 1: Ansökta och beviljade bidrag för utredningar 2025–2026 (belopp i kronor).
 
-* De ansökningar som nu inte beviljas uppfyller inte de uppställda förutsättningarna enligt
+\* De ansökningar som nu inte beviljas uppfyller inte de uppställda förutsättningarna enligt
 instruktionerna för ansökan om statsbidrag för utredningar, se mer i bilaga 3
 
 Bakgrund
@@ -6660,24 +6660,24 @@ avhjälpande av föroreningsskador.
 | Län | Ansökt bidrag<br>för 2025 | Beslutat<br>bidrag för<br>2025 | Ansökt bidrag<br>för 2026 | Beslutat bidrag<br>för 2026 |
 | --- | --- | --- | --- | --- |
 | Blekinge | - | - | - | - |
-| Dalarna | 1 555 000 | 955 000* | - | - |
+| Dalarna | 1 555 000 | 955 000\* | - | - |
 | Gotland | 250 000 | 250 000 | - | - |
 | Gävleborg | 345 000 | 345 000 | - | - |
 | Halland | 550 000 | 550 000 | - | - |
 | Jämtland | - | - | - | - |
-| Jönköping | 1 520 000 | 1 070 000* | 1 025 000 | 600 000* |
-| Kalmar | 4 100 000 | 2 900 000* | 650 000 | 650 000 |
-| Kronoberg | 2 250 000 | 2 000 000* | 1 200 000 | 1 200 000 |
-| Norrbotten | 2 700 000 | 2 100 000* | - | - |
+| Jönköping | 1 520 000 | 1 070 000\* | 1 025 000 | 600 000\* |
+| Kalmar | 4 100 000 | 2 900 000\* | 650 000 | 650 000 |
+| Kronoberg | 2 250 000 | 2 000 000\* | 1 200 000 | 1 200 000 |
+| Norrbotten | 2 700 000 | 2 100 000\* | - | - |
 | Skåne | 900 000 | 900 000 | - | - |
 | Stockholm | 400 000 | 400 000 | - | - |
 | Södermanland | 257 000 | 257 000 | - | - |
-| Uppsala | 1 885 000 | 1 202 000* | - | - |
+| Uppsala | 1 885 000 | 1 202 000\* | - | - |
 | Värmland | 1 050 000 | 1 050 000 | - | - |
-| Västerbotten | 798 500 | 450 500* | - | - |
+| Västerbotten | 798 500 | 450 500\* | - | - |
 | Västernorrland | 1 894 528 | 1 894 528 | - | - |
-| Västmanland | 4 100 000 | 2 225 000* | 500 000 | 370 000* |
-| Västra Götaland | 6 542 000 | 2 502 000* | 1 150 000 | 0* |
+| Västmanland | 4 100 000 | 2 225 000\* | 500 000 | 370 000\* |
+| Västra Götaland | 6 542 000 | 2 502 000\* | 1 150 000 | 0\* |
 | Örebro | - | - | - | - |
 | Östergötland | 800 000 | 800 000 | - | - |
 | Summa: | 31 897 028 | 21 851 028 | 4 525 000 | 2 820 000 |
@@ -6692,11 +6692,11 @@ Av 2 § 3 förordningen följer att i den utsträckning det finns medel får bid
 till den utredning som behövs för att avhjälpandeåtgärder ska kunna genomföras.
 
 Enligt 3 § andra stycket förordningen får bidrag enligt 2 § 3 endast ges om
-1. ansvar enligt miljöbalken eller äldre lagstiftning att utföra eller bekosta
+1\. ansvar enligt miljöbalken eller äldre lagstiftning att utföra eller bekosta
 sådan verksamhet inte kan utkrävas eller endast kan utkrävas delvis,
-2. den eller de som är ansvariga för att bekosta sådan verksamhet inte kan
+2\. den eller de som är ansvariga för att bekosta sådan verksamhet inte kan
 betala, eller
-3. det finns synnerliga skäl.
+3\. det finns synnerliga skäl.
 
 Enligt 4 § förordningen ska det från det bidragsbelopp som följer av 2 och 3 §§
 
@@ -6805,7 +6805,7 @@ Information om överklagande
 Detta beslut får inte överklagas enligt 12 § i förordningen (2004:100) om
 statsbidrag för avhjälpande av föroreningsskador.
 
-__________
+\_\_\_\_\_\_\_\_\_\_
 Beslut om detta bidrag för utredningar har fattats av vikarierande
 
 generaldirektören Maria Ohlman efter föredragning av avdelningschefen Ingela

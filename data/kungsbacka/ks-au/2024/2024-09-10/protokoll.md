@@ -792,7 +792,7 @@ Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen godkänner projektbeställning för detaljplan för bostäder inom
 Vallda-Backa 1:6 i Vallda, daterad 2024-08-21 med följande ändringar:
 
-- Under rubriken "Förväntad nytta" stryks följande stycke:
+\- Under rubriken "Förväntad nytta" stryks följande stycke:
 Med blandade bostads- och upplåtelseformer ökar variationen av bostadsutbudet
 i Vallda som idag mest består av småhus i äganderättsform. Det gör det möjligt
 för fler grupper att bo kvar eller flytta till Vallda vilket stärker kommunen mål
@@ -804,7 +804,7 @@ och ersätts med följande stycke:
 Med en huvudsakligen småskalig bebyggelse bibehålls karaktären i området
 samtidigt som möjligheten till en viss blandning av bostads- och
 upplåtelseformer bidrar till valfrihet på bostadsmarknaden.
-- Under rubriken Hållbarhetsaspekter:
+\- Under rubriken Hållbarhetsaspekter:
 
 stryks meningen Detta projekt kan därför bidra till att minska byggande utanför
 tätorterna som annars är väldigt attraktivt nära kustbandet.
@@ -824,8 +824,8 @@ utsträckning är anpassade efter det omgivande områdets karaktär. En fortsatt
 hög andel bostäder i ägandeform gynnar den sociala hållbarheten och är
 dessutom den boendeform som en majoritet av våra invånare efterfrågar.
 
-- Under rubriken Uppdrag stryks orden med blandade upplåtelseformer.
-- Under rubriken Beröringspunkter stryks meningen:
+\- Under rubriken Uppdrag stryks orden med blandade upplåtelseformer.
+\- Under rubriken Beröringspunkter stryks meningen:
 Detaljplanen påverkar kommunens skolplanering i Vallda då ett ökat
 
 bostadsbyggande kan aktualisera behovet av att bygga skolan i Heberg, för
@@ -873,7 +873,7 @@ Förslag till beslut på sammanträdet
 Emanuel Forsell yrkar att projektbeställningen uppdateras och att arbetsutskottet
 föreslår kommunstyrelsen gör följande ändringar i projektbeställningen:
 
-- Under rubriken "Förväntad nytta" stryks följande stycke:
+\- Under rubriken "Förväntad nytta" stryks följande stycke:
 Med blandade bostads- och upplåtelseformer ökar variationen av bostadsutbudet
 
 i Vallda som idag mest består av småhus i äganderättsform. Det gör det möjligt
@@ -886,7 +886,7 @@ Med en huvudsakligen småskalig bebyggelse bibehålls karaktären i området
 samtidigt som möjligheten till en viss blandning av bostads- och
 upplåtelseformer bidrar till valfrihet på bostadsmarknaden.
 
-- Under rubriken Hållbarhetsaspekter:
+\- Under rubriken Hållbarhetsaspekter:
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 6B3A56FC87BCED8A4D0194158EAAFFEE8769BFCF8F
@@ -917,8 +917,8 @@ utsträckning är anpassade efter det omgivande områdets karaktär. En fortsatt
 hög andel bostäder i ägandeform gynnar den sociala hållbarheten och är
 dessutom den boendeform som en majoritet av våra invånare efterfrågar.
 
-- Under rubriken Uppdrag stryks orden med blandade upplåtelseformer.
-- Under rubriken Beröringspunkter stryks meningen:
+\- Under rubriken Uppdrag stryks orden med blandade upplåtelseformer.
+\- Under rubriken Beröringspunkter stryks meningen:
 Detaljplanen påverkar kommunens skolplanering i Vallda då ett ökat
 bostadsbyggande kan aktualisera behovet av att bygga skolan i Heberg, för
 vilken det finns en färdig detaljplan
@@ -951,23 +951,23 @@ Beslut
 Kommunstyrelsens arbetsutskott återremitterar ärendet för förtydligande och
 komplettering i följande frågor:
 
-- Komplettering med information rörande förslag till placering av arenan och var i
+\- Komplettering med information rörande förslag till placering av arenan och var i
 processen beslut tas gällande arenans placering (ursprunglig, ny och reviderad
 plats).
-- Förtydligande gällande utökningen från 3500 till 5500 kvadratmeter och vad det
+\- Förtydligande gällande utökningen från 3500 till 5500 kvadratmeter och vad det
 innebär i utökade driftkostnader. Driftkostnaden ökar mer än räntekostnaden och
 
 index. Vad står resten av ökningen för? Även intäkter ska redovisas samt en
 tydlig kalkyl och information om vem som får intäkter för reklam.
-- Förtydligande rörande om det går att samutnyttja fler lokalytor exempelvis
+\- Förtydligande rörande om det går att samutnyttja fler lokalytor exempelvis
 personalutrymmen och eventutrymmen som även föreningsliv kan använda? Vad
 ska greenroom användas till när det inte är event?
 
-- Komplettering av uppgifter rörande den minskade läktarkapaciteten från 2500 till
+\- Komplettering av uppgifter rörande den minskade läktarkapaciteten från 2500 till
 2000 åskådare, som innebär att det kan finnas behov av att hyra in en extra
 läktare. Hur ofta kan den behöva hyras in och vad kostar det?
 
-- Komplettering rörande vilken publikkapaciteten är i B-hallen.
+\- Komplettering rörande vilken publikkapaciteten är i B-hallen.
 
 Deltar inte i beslut
 Johan Tolinsson (S) deltar inte i beslutet.
@@ -1067,30 +1067,30 @@ evenemang och 200st fasta åskådarplatser i B-hallen.
 Vi anser också att det inte finns behov att uppnå de fulla kraven för superettan i
 
 fotboll med bland annat uppvärmd plan utan det räcker att uppnå kraven för division
-1.
+1\.
 Då detta inte ryms inom kommunfullmäktiges beslut yrkar jag avslag på förstudien
 och att frågan om kommersiella lokaler i arenan tas upp i KF."
 
 Ordförande Lisa Andersson (M) yrkar att ärendet återremitteras för förtydligande och
 komplettering i följande frågor:
 
-- Komplettering med information rörande förslag till placering av arenan och var i
+\- Komplettering med information rörande förslag till placering av arenan och var i
 processen beslut tas gällande arenans placering (ursprunglig, ny och reviderad
 plats).
 
-- Förtydligande gällande utökningen från 3500 till 5500 kvadratmeter och vad det
+\- Förtydligande gällande utökningen från 3500 till 5500 kvadratmeter och vad det
 innebär i utökade driftkostnader. Driftkostnaden ökar mer än räntekostnaden och
 index. Vad står resten av ökningen för? Även intäkter ska redovisas samt en
 tydlig kalkyl och information om vem som får intäkter för reklam.
-- Förtydligande rörande om det går att samutnyttja fler lokalytor exempelvis
+\- Förtydligande rörande om det går att samutnyttja fler lokalytor exempelvis
 personalutrymmen och eventutrymmen som även föreningsliv kan använda? Vad
 
 ska greenroom användas till när det inte är event?
-- Komplettering av uppgifter rörande den minskade läktarkapaciteten från 2500 till
+\- Komplettering av uppgifter rörande den minskade läktarkapaciteten från 2500 till
 2000 åskådare, som innebär att det kan finnas behov av att hyra in en extra
 läktare. Hur ofta kan den behöva hyras in och vad kostar det?
 
-- Komplettering rörande vilken publikkapaciteten är i B-hallen.
+\- Komplettering rörande vilken publikkapaciteten är i B-hallen.
 Fredrik Hansson (C), Emanuel Forsell (M) och Stefan Jägnert (SD) yrkar bifall till
 ordförandens (M) förslag.
 
@@ -1249,10 +1249,10 @@ Sammanfattning av ärendet
 
 Kommundirektör Malin De Verdier lämnar följande information:
 
-- Informationsfilm från Göteborgsregionens (GR) rådslag är utskickad.
-- Återkoppling rörande utskickad information om handslag för digitalisering.
+\- Informationsfilm från Göteborgsregionens (GR) rådslag är utskickad.
+\- Återkoppling rörande utskickad information om handslag för digitalisering.
 
-- Kommunikation kring ombyggnation av stadshuset har påbörjats. Just nu pågår
+\- Kommunikation kring ombyggnation av stadshuset har påbörjats. Just nu pågår
 kartläggning av möjligheterna att bygga om B-huset i stadshuset. Målsättningen
 är att samla all administrativ personal i centrum i stadshuset på sikt, i den mån
 det är möjligt.

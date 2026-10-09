@@ -327,7 +327,7 @@ Tennisklubb som i sin tur ansvarar för drift, skötsel och underhåll samt att 
 tennisverksamhet.
 Kommunen har gått i borgen för föreningarnas låneskulder och kommunfullmäktige
 beslutade den 11 juni 2019 om amorteringsfrihet för lånen till och med 31 december
-2023.
+2023\.
 
 Vallda Tennishall ekonomisk förening och Vallda Tennisklubb har den 29 december
 2023 inkommit med en gemensam ansökan till kommunen om förlängning av
@@ -593,7 +593,7 @@ stad.
 
 Den fördjupade översiktsplanen för Kungsbacka stad kompletterar den
 kommunövergripande översiktsplanen som antogs av kommunfullmäktige 2021-11-
-09. Planen ska medverka till att uppfylla Kungsbacka Vision 2030 och fullfölja
+09\. Planen ska medverka till att uppfylla Kungsbacka Vision 2030 och fullfölja
 översiktsplanens intentioner genom strategier och riktlinjer för hur utveckling av
 mark- och vattenområden ska ske inom staden. Förslaget ska bidra till att skapa
 förståelse och samsyn, såväl externt som internt, kring utvecklingsinriktning för
@@ -665,7 +665,7 @@ om Särö centrum. Centralt genom området finns en befintlig avrinningsväg. St
 delen av det aktuella området berörs av en fornlämning i form av boplats.
 
 Området som ansökan avser är belägen inom detaljplan S47 som fick laga kraft
-1957. Det aktuella området är i plankartan redovisad som lantbruksområde. Enligt
+1957\. Det aktuella området är i plankartan redovisad som lantbruksområde. Enligt
 kommunens översiktsplan ingår det aktuella området i utvecklingsorten Särö.
 Fastigheten omfattas av riksintresse för högexploaterad kust samt riksintresse för det
 rörliga friluftslivet.
@@ -835,7 +835,7 @@ Beslut
 Kommunstyrelsens arbetsutskott godkänner köpeavtal mellan kommunen och
 LIROSKAND Holding AB, LIROS, genom vilket kommunen överlåter fastigheten
 Bolsheden 1:76, mot en köpeskilling på 4 152 000, undertecknat av bolaget 2023-12-
-20.
+20\.
 
 Kommunstyrelsens ordförande och kommundirektören, eller deras respektive
 ersättare, utses att för kommunens räkning underteckna avtalet och övriga i ärendet
@@ -1001,19 +1001,19 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Malin Aronsson lämnar följande information:
-- Diskussioner pågår med Mölndals stad gällande köp av förvaltaruppdrag för
+\- Diskussioner pågår med Mölndals stad gällande köp av förvaltaruppdrag för
 
 överförmyndare i samverkan.
-- Hallands läns nya landshövding var besök den 1 februari och Kungsbacka
+\- Hallands läns nya landshövding var besök den 1 februari och Kungsbacka
 kommun hade vatten som tema för besöket. Utöver att föra dialoger med
 landshövdingen och berätta om hur Kungsbacka kommun växer och vilka
 utmaningar som finns då, genomfördes ett företagsbesök.
 
-- Den 13-15 maj kommer Svenskt Vatten att arrangera en vattenstämma.
+\- Den 13-15 maj kommer Svenskt Vatten att arrangera en vattenstämma.
 Kungsbacka, Mölndal och Härryda är värdar för arrangemanget.
 
-- Kungsbacka kommun har en ny skogsförvaltare - Skogsutveckling Syd AB.
-- Kommun- och Regionledningsforum (KRF) har möte den 7 februari och vid
+\- Kungsbacka kommun har en ny skogsförvaltare - Skogsutveckling Syd AB.
+\- Kommun- och Regionledningsforum (KRF) har möte den 7 februari och vid
 mötet kommer KRF bland annat få besök av Hallands läns nya
 beredskapsdirektör.
 

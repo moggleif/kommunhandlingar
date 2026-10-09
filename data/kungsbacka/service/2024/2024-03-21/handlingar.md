@@ -1447,7 +1447,7 @@ förtroendevalda representerar det organ denne själv tillhör. Därtill betalas
 och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-\_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
@@ -1660,7 +1660,7 @@ att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst.
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 
 2023–2027.
-\____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 17 (17)
 

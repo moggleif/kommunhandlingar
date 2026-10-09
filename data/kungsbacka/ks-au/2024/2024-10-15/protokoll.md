@@ -596,9 +596,9 @@ Samhällsbyggnadschef Lovisa Eld lämnar information att sökanden till planbesk
 för Bångsbo 4:1 har dragit tillbaka sin ansökan.
 
 Kommunstyrelsens ordförande Lisa Andersson (M) lämnar information inför:
-- Medlemssamråd med Räddningstjänsten Storgöteborg
+\- Medlemssamråd med Räddningstjänsten Storgöteborg
 
-- Konferens om bostadsbyggande som Länsstyrelsen i Halland anordnar.
+\- Konferens om bostadsbyggande som Länsstyrelsen i Halland anordnar.
 
 Beslutsgång
 

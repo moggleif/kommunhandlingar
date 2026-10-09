@@ -681,23 +681,23 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Malin Aronsson lämnar information inför:
-- Dialog med regionstyrelsens arbetsutskott är planerad till den 14 maj. Inspel till
+\- Dialog med regionstyrelsens arbetsutskott är planerad till den 14 maj. Inspel till
 
 dagordning är möjliga att göra.
-- Kommunens deltagande under Almedalsveckan 2024 då totalt 19 tjänstepersoner
+\- Kommunens deltagande under Almedalsveckan 2024 då totalt 19 tjänstepersoner
 kommer att delta på olika sätt under veckan.
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
 
-- Länsstyrelsen har beslutat att upphäva detaljplanen för verksamheter inom del av
+\- Länsstyrelsen har beslutat att upphäva detaljplanen för verksamheter inom del av
 Varla 2:230. Frågan hanteras av Byggnadsnämnden.
-- Arbetet i Gottskär med detaljplanen och vattendom pågår. Fortsatt dialog med
+\- Arbetet i Gottskär med detaljplanen och vattendom pågår. Fortsatt dialog med
 
 fastighetsägare planeras.
-- Länsstyrelsen har fått förlängd svarstid för att inkomma med yttrande över
+\- Länsstyrelsen har fått förlängd svarstid för att inkomma med yttrande över
 detaljplan i Anneberg.
 
-- Kungsbacka kommun var representerade på Bygg- och utvecklingsbenchen av
+\- Kungsbacka kommun var representerade på Bygg- och utvecklingsbenchen av
 samhällsbyggnadschef Lovisa Eld, Näringslivschef Elinor Filipsson, planchef Ida
 Lennartsson samt kommunstyrelsens ordförande Lisa Andersson (M) och
 ledamoten Fredrik Kollberg (KD). Bygg- och utvecklingsbenchen är årligt

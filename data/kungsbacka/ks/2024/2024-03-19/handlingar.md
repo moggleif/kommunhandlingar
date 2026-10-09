@@ -7761,7 +7761,7 @@ Gärna denna veckan för att jag ska kunna avsluta ärendet på kommande möte m
 Hälsningar
 Linda Bergström
 Planarkitekt
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 Samhällsbyggnadskontoret
 0300-83 41 16
@@ -7799,7 +7799,7 @@ Linda Bergström
 <!-- sida 193 -->
 
 Planarkitekt
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 Samhällsbyggnadskontoret
 0300-83 41 16

@@ -221,16 +221,16 @@ förutsättningar för att styra och leda omställningen som säkrar framtidens 
 trots begränsade resurser.
 
 Styrmodellen ska enligt uppdraget ge förutsättningar för att
-- både förbättra befintlig verksamhet och förnya inför morgondagen.
+\- både förbättra befintlig verksamhet och förnya inför morgondagen.
 
-- möta välfärdsutmaningen på ett hållbart sätt.
-- tydligare utgå ifrån invånarnas behov och livssituation och möjliggöra
+\- möta välfärdsutmaningen på ett hållbart sätt.
+\- tydligare utgå ifrån invånarnas behov och livssituation och möjliggöra
 
 flexibilitet, lärande och anpassning i verksamheten.
-- främja samarbete mellan olika aktörer inom och utanför kommunen, för att
+\- främja samarbete mellan olika aktörer inom och utanför kommunen, för att
 nyttja den samlade kompetensen och kraften i samhället.
 
-- möta utmaningar med mod, nytänkande och samarbete.
+\- möta utmaningar med mod, nytänkande och samarbete.
 
 Beslutsunderlag
 
@@ -292,9 +292,9 @@ förslag till en statlig samlad informationsportal för att enklare överblicka 
 statsbidrag.
 
 Syftet med en samlad informationsportal för riktade statsbidrag är att:
--  minska bidragssökande aktörers administrativa kostnader
+\-  minska bidragssökande aktörers administrativa kostnader
 
--  bättre nå de bidragsmottagare som regeringen har avsett
+\-  bättre nå de bidragsmottagare som regeringen har avsett
 Statskontorets förslag innebär en statlig portal som administreras från Skolverket.
 
 Portalen ska vara en enklare webbplats med information om alla riktade statsbidrag
@@ -389,13 +389,13 @@ SCB kräver nu ett formellt beslut om den särskilda avgränsade statistikverksa
 med sekretess enligt 24 kap. 8 § OSL,för att fortsätta leverera statistikpaket.
 Beslutet måste innehålla:
 
-1. Vilken kommun det gäller.
-2. Vilken sekretess som gäller för statistikverksamheten.
+1\. Vilken kommun det gäller.
+2\. Vilken sekretess som gäller för statistikverksamheten.
 
-3. Vilken kommunal myndighet, kommunstyrelsen eller annan nämnd i kommunen
+3\. Vilken kommunal myndighet, kommunstyrelsen eller annan nämnd i kommunen
 som statistikverksamheten är organiserad under.
 
-4. Hur verksamheten är avskild från annan verksamhet vid den aktuella kommunala
+4\. Hur verksamheten är avskild från annan verksamhet vid den aktuella kommunala
 myndigheten, så att sekretessprövning sker och sekretesskyddet fungerar i
 praktiken även gentemot den.
 
@@ -592,17 +592,17 @@ Kommunstyrelsen delegerar till kommunstyrelsens arbetsutskott att fatta beslut o
 upphandlingsdokument (UD).
 
 Kommunstyrelsen delegerar till kommundirektören rätten att fatta beslut om:
-- annonsering av upphandlingen
-- tilldela kontrakt samt
+\- annonsering av upphandlingen
+\- tilldela kontrakt samt
 
-- underteckna kontrakt efter att avtalsspärren löpt ut
+\- underteckna kontrakt efter att avtalsspärren löpt ut
 Kommunstyrelsen ger kommundirektören rätt att vidaredelegera beslutsrätt till
 
 samhällsbyggnadschef samt till upphandlingschef för beslut om:
 
-- annonsering av upphandlingen,
-- tilldela kontrakt samt
-- underteckna kontrakt efter att avtalsspärren löpt ut.
+\- annonsering av upphandlingen,
+\- tilldela kontrakt samt
+\- underteckna kontrakt efter att avtalsspärren löpt ut.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 91FA7D48C3D4938AB47730C830920C5CCFD3A92914
@@ -1302,14 +1302,14 @@ Förslag till beslut på sammanträdet
 
 Ordförande Lisa Andersson (M) yrkar att följande ändringar görs i
 projektbeställningen:
-- på sidan 2 under andra stycket stryks följande meningar: Strax sydost om
+\- på sidan 2 under andra stycket stryks följande meningar: Strax sydost om
 planområdet finns riksintresse för kulturmiljövård samt ett av kommunen utpekat
 kulturmiljöområde, Fjärås bräcka. Gården har stor historisk förankring och
 betydelse för platsen med anknytning till frukt- och bärodling. Enligt
 
 bebyggelseregistret har gården byggnadshistoriskt värde, miljöskapande värde
 samt samhällshistoriskt värde.
-- På sidan 5 under rubrik Kommunala kostnader läggs en mening till efter den
+\- På sidan 5 under rubrik Kommunala kostnader läggs en mening till efter den
 första meningen som lyder: Strävan ska vara att undvika kommunalt
 huvudmannaskap inom planområdet.
 

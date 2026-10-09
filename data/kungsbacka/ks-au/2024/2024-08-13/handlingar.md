@@ -246,7 +246,7 @@ Process
 
 De inspel som kommer till Göteborgsregionen sammanställs till
 beredningsgruppen för miljö och samhällsbyggnads sammanträde 24 oktober
-2024.
+2024\.
 
 Åtgärdsplanering                                           1 (2)
 
@@ -1222,7 +1222,7 @@ kanadensiskt gullris Solidago canadensis, höstgullris Solidago gigantea och min
 
 vison.
 
-1. Urvalet av  de landlevande   arterna
+1\. Urvalet av  de landlevande   arterna
 
 Urvalet utgår från SLU Artdatabankens riskklassificering av främmande arter, som omfattar
 ca 1000 främmande arter som bedöms ha mer eller mindre stor invasionspotential och
@@ -1835,7 +1835,7 @@ landlevande ryggradsdjur längre fram skulle det kunna vara aktuellt att införa
 hanteringsåtgärder för att på ett tydligare sätt prioritera åtgärder i till exempel känsliga
 miljöer.
 
-3. Konsekvensutredning
+3\. Konsekvensutredning
 
 I detta kapitel görs en konsekvensutredning för de arter som föreslås ingå i en nationell
 förteckning, och de aktörer som kan komma att påverkas av att en sådan införs.
@@ -2091,17 +2091,17 @@ av grönytor
 68.20    Förvaltare av egna eller   98 281     10 254
 arrenderade fastigheter
 38.1     Anläggningar för insamling av 373      189
-avfall*
+avfall\*
 
 38.2     Anläggningar för behandling och 152     70
-bortskaffande av avfall*
+bortskaffande av avfall\*
 39.00    Anläggningar för sanering,   150        71
 efterbehandling av jord och vatten
 samt annan verksamhet för
 föroreningsbekämpning
 
 43.12    Firmor för mark- och grundarbeten 16 327 6 207
-Källa: SCB (2022). * inkluderar icke-farligt avfall och farligt avfall.
+Källa: SCB (2022). \* inkluderar icke-farligt avfall och farligt avfall.
 
 3.4.   Blomsterlupin och sandlupin
 
@@ -3363,7 +3363,7 @@ rekreation och fågelskådning (WSP, 2020).
 Sociala konsekvenser
 Att minken regleras bedöms inte ge några större sociala konsekvenser.
 
-4. Sammanfattning    konsekvensutredning
+4\. Sammanfattning    konsekvensutredning
 
 Miljön kommer att påverkas positivt till följd av att arterna tas upp på den nationella
 förteckningen. Detta är starkt kopplat till att invasiva arter idag utgör ett stort hot mot den
@@ -3465,35 +3465,35 @@ Tabell 10. Åtgärdskostnader för utrotning enligt EU-reglering
 
 | Art | Omfattning av åtgärd | Åtgärdskostnad |
 | --- | --- | --- |
-| Blomsterlupin | Engångsåtgärd* | 1,6–2,3 miljarder kr |
+| Blomsterlupin | Engångsåtgärd\* | 1,6–2,3 miljarder kr |
 | Sandlupin | - | - |
-| Parkslide | Upprepade åtgärder under en<br>längre tidsperiod** | 420–580 miljoner nuvärde<br>(2019 års nivå) |
+| Parkslide | Upprepade åtgärder under en<br>längre tidsperiod\*\* | 420–580 miljoner nuvärde<br>(2019 års nivå) |
 | Jätteslide | - | - |
 | Hybridslide | - | - |
-| Vresros | Engångsåtgärd* | 12–94 miljoner kr |
-| Kaukasiskt och sibiriskt fetblad | Engångsåtgärd*** | 35,1 miljoner kr |
+| Vresros | Engångsåtgärd\* | 12–94 miljoner kr |
+| Kaukasiskt och sibiriskt fetblad | Engångsåtgärd\*\*\* | 35,1 miljoner kr |
 | Strandkotula | Upprepande åtgärder under<br>2årsperiod | 224 miljoner kr, nuvärde<br>(2020 års nivå) |
 | Spärroxbär | Upprepande åtgärder under<br>5årsperiod | 850 miljoner kr, nuvärde<br>(2020 års nivå) |
-| Kanadensiskt gullris:<br>infrastrukturmiljöer | Engångsåtgärd* | 6,7–12,8 miljoner kr |
-| Kanadensiskt gullris: övriga<br>naturtyper | Engångsåtgärd* | 4–10 miljoner kr |
+| Kanadensiskt gullris:<br>infrastrukturmiljöer | Engångsåtgärd\* | 6,7–12,8 miljoner kr |
+| Kanadensiskt gullris: övriga<br>naturtyper | Engångsåtgärd\* | 4–10 miljoner kr |
 
 <!-- sida 77 -->
 
-Källa: WSP (2019; 2020). * Upprepade åtgärder alternativt underhåll kommer troligtvis
-behövas utöver detta, men är inte inkluderat i kostnadsuppskattningarna. ** Framgår inte
-hur länge denna tidsperiod är. ***Engångskostnad för utrotning efter 3 år med täckning.
+Källa: WSP (2019; 2020). \* Upprepade åtgärder alternativt underhåll kommer troligtvis
+behövas utöver detta, men är inte inkluderat i kostnadsuppskattningarna. \*\* Framgår inte
+hur länge denna tidsperiod är. \*\*\*Engångskostnad för utrotning efter 3 år med täckning.
 Liknande kostnad uppges för hetvattensbehandling som upprepas under en 2årsperiod. “-”
 
 uppgifter saknas då arterna inte ingick i WSPs uppdrag.
 
-5. Diskussion
+5\. Diskussion
 
 Utifrån den dialog med aktörer som skett inom ramen för konsekvensutredningen
 kan ett antal faktorer identifieras som särskilt betydelsefulla vid ett införande av
 regleringen eftersom de bedöms kunna bidra till en så effektiv implementering som
 
 möjligt.
--  Samverkan: Samverkan är en viktig faktor vid framtida
+\-  Samverkan: Samverkan är en viktig faktor vid framtida
 bekämpningsåtgärder. Detta är något som har lyfts av både länsstyrelser,
 myndighet och kommun. Samverkan är särskilt viktigt i ett tidigt skede när
 åtgärdsmetoder ska tas fram och därefter testas och utvärderas. Idag finns
@@ -3502,7 +3502,7 @@ samverkansytor mellan länsstyrelser men dessa kan förbättras och även
 utvidgas till myndigheter och kommuner. Detta kan på kort sikt medföra
 ytterligare kostnader, men på sikt innebär god samverkan att arbetet kan
 effektiviseras och kostnaderna minska.
--  Kunskap: Kunskapsnivån inom invasiva främmande arter och framför allt
+\-  Kunskap: Kunskapsnivån inom invasiva främmande arter och framför allt
 hantering av dem är mycket varierad. Det finns ett visst kunskapsgap inom
 kommunernas olika förvaltningar som på olika sätt är i kontakt med
 invasiva arter. Det finns även ett kunskapsgap vad gäller hanteringen av
@@ -3515,7 +3515,7 @@ spridning. Utöver detta varierar kunskapsläget beroende på art, då aktörer
 har mer erfarenhet av hantering av vissa arter framför andra. Kostnader för
 informationsinsatser kan därmed variera beroende på såväl art som
 målgrupp.
--  Jordmassor och växtavfall: Dagens avfallshantering och hantering av
+\-  Jordmassor och växtavfall: Dagens avfallshantering och hantering av
 jordmassor bedöms kunna utgöra ett hinder för en effektiv minskning av
 förekomster av invasiva arter då den anses vara bristfällig på flera platser i
 Sverige. Tillsynen på detta område anses vara dålig eftersom den i
@@ -3531,26 +3531,26 @@ innebära ett utökat tillsynsansvar. För kommunerna som ansvarar för
 
 | Höstgullris | - | - |
 | --- | --- | --- |
-| Mink: hela landet | Engångsåtgärd* | 0,2–1,6 miljarder kr |
-| Mink: alla öar i havsvatten | Engångsåtgärd* | 23,2 miljoner kr |
-| Mink: alla öar i fågelskydd | Engångsåtgärd* | 0,39 miljoner kr |
+| Mink: hela landet | Engångsåtgärd\* | 0,2–1,6 miljarder kr |
+| Mink: alla öar i havsvatten | Engångsåtgärd\* | 23,2 miljoner kr |
+| Mink: alla öar i fågelskydd | Engångsåtgärd\* | 0,39 miljoner kr |
 
 <!-- sida 78 -->
 
 avfallshantering är det viktigt att säkerställa att rätt förutsättningar finns,
 både på anläggningarna i form av kärl och dylikt, hos anställda i form av
 kunskap samt vid transporter där spridningsrisken är hög.
--  Vägledning och stöttning: Naturvårdsverket bistår redan med vägledning
+\-  Vägledning och stöttning: Naturvårdsverket bistår redan med vägledning
 i form av en metodkatalog för bekämpning, men ytterligare stöd kan
 behövas för att säkerställa att länsstyrelsen har goda förutsättningar att ta
 fram lämpliga metoder.
 
--  Gradvis utveckling: Invasiva arter ett relativt nytt område för många
+\-  Gradvis utveckling: Invasiva arter ett relativt nytt område för många
 aktörer. Det kan därför tänkas att arbetet med att minska förekomsten av de
 arter som föreslås ingå i den nationella förteckningen till en början sker
 långsamt, för att successivt trappas upp när förutsättningarna för arbetet
 förbättras och arbetet blir mer effektivt.
--  Positiva till förslaget: Utifrån de intervjuer som Ramboll har gjort är
+\-  Positiva till förslaget: Utifrån de intervjuer som Ramboll har gjort är
 företagets generella bild att många aktörer välkomnar förslaget. Det finns
 en viss enighet kring att de arter som föreslås att tas upp i förteckningen är
 problematiska och att det är bra att de ska regleras. En del aktörer menar
@@ -3978,11 +3978,11 @@ arter, fredningstider då fiske efter vissa angivna arter inte får ske och regl
 
 Fisk av viss art som
 
-1. fångas under tid när förbud mot fiske efter arten råder,
+1\. fångas under tid när förbud mot fiske efter arten råder,
 
-2. fångas med redskap eller metod som inte är tillåten för arten, eller
+2\. fångas med redskap eller metod som inte är tillåten för arten, eller
 
-3. inte håller för arten föreskrivet minimimått eller maximimått
+3\. inte håller för arten föreskrivet minimimått eller maximimått
 
 ska genast släppas ut i vattnet, vare sig den är levande eller död. Sådan fisk får inte heller föras in
 i landet, landas eller saluhållas här. (…)
@@ -5031,7 +5031,7 @@ Att undanta vissa av förbuden
 En möjlig alternativ reglering är att inte innefatta alla förbuden som gäller för EU-arterna i EU-
 förordningen, dvs. att exkludera en eller flera av förbuden i artikel 7.
 
--  att undanta förbudet av hållande
+\-  att undanta förbudet av hållande
 En alternativ reglering är att exkludera punkt b i artikel 7 i EU-förordningen, dvs. förbudet mot att
 avsiktligt hålla arterna. Det skulle innebära att personer som i nuläget har en invasiv art inte behöver
 ta bort den. Men enligt uppgifter från de aktuella branscherna är det få som idag avsiktligt håller
@@ -5040,7 +5040,7 @@ någon av de föreslagna arterna. Det har därför bedömts som proportionerligt
 mot att hålla arterna mot bakgrunden av den potentiella spridningsrisken som finns för alla invasiva
 arter och de konsekvenser som kan uppstå då.
 
--  att enbart förbjuda vidare spridning
+\-  att enbart förbjuda vidare spridning
 En annan alternativ reglering är att enbart förbjuda vidare spridning. Ett exkluderande av alla
 punkter förutom h - arter får inte avsiktligt släppas ut i miljön, i artikel 7 i EU-förordningen. Detta
 skulle innebära att personer som har en invasiv art inte behöver ta bort den och att regleringen inte
@@ -5055,7 +5055,7 @@ handeln är obefintligt, förutom amerikansk hummer där undantag föreslagits. 
 är det också tveksamt med den typen av reglering eftersom det kan vara svårt att härleda vart en
 viss art härrör och sålunda vem som har brutit mot spridningsförbudet.
 
--  att reglera med tillståndsförfarande
+\-  att reglera med tillståndsförfarande
 Ett annat alternativ är att istället reglera arterna med ett tillståndsförfarande för att inneha en invasiv
 art. Denna typ av reglering föreslås för amerikansk hummer (alternativa regleringar för amerikansk
 hummer analyseras även i ”Konsekvenser art för art” nedan). Ett tillståndsförfarande med krav på
@@ -5301,7 +5301,7 @@ beskrivet för respektive art under rubriken ”Reglering art för art”.
 
 Referensscenario utan reglering
 Arten är inte etablerad i Sverige, men rymlingar från norra Finland har rapporterats från t.ex. Piteå
-1992. Enligt SLU Artdatabanken kan den om 50 år potentiellt etableras i hela Sverige på en yta om
+1992\. Enligt SLU Artdatabanken kan den om 50 år potentiellt etableras i hela Sverige på en yta om
 10 000 km2. Peledsiken finns etablerad i Polen och Finland där den klassats som invasiv, men
 
 sannolikheten att arten på egen hand via naturlig spridning skulle introduceras i Sverige är liten.
@@ -5471,7 +5471,7 @@ påverkan på inhemska skaldjur, se rubrik ”Reglering art för art”.
 
 Konsekvenser för företag med reglering
 
--  Konsekvenser företag som importerar amerikansk hummer
+\-  Konsekvenser företag som importerar amerikansk hummer
 Amerikansk hummer är en efterfrågad delikatess och säljs internationellt i mycket större kvantiteter
 än europeisk hummer. Den globala hummermarknaden påverkades kraftigt av pandemin med
 minskad efterfrågan och priser. Detta kan komma att vägas upp till viss del av EU:s nya
@@ -5548,7 +5548,7 @@ och inga risker föreligger, exempelvis rymning. Om tillståndet kräver ytterli
 investeringar ökar företagens kostnader. Några sådana investeringar bedöms inte behövas utifrån
 den kunskap som finns idag om företagens hantering av levande hummer.
 
--  Konsekvenser för fiskgrossister, fiskhandlare och restauranger utan egen import eller
+\-  Konsekvenser för fiskgrossister, fiskhandlare och restauranger utan egen import eller
 införsel
 
 I nuläget säljs levande humrarna till vissa restauranger, fiskhandlare och evenemangsföretag.
@@ -5565,7 +5565,7 @@ väntas övergå till färsk, halvkokt hummer eller levande europeisk hummer ist
 företaget påverkas beror på hur väl de kan erbjuda substitutionsprodukterna men en viss minskad
 försäljning är att vänta.
 
--  Konsekvenser företag som hotas av amerikansk hummer
+\-  Konsekvenser företag som hotas av amerikansk hummer
 
 I Sverige bedrivs både kommersiellt fiske och fritidsfiske av europeisk hummer. Under 2021
 fiskades yrkesmässigt 42 ton europeisk hummer och 2021 uppgick fångsten till 35 ton (motsvarar
@@ -5578,7 +5578,7 @@ kan erbjuda levande hummer till kunder. Ökad efterfrågan och priser kan förv�
 hummer. Hummerfiske ingår också i den regionala turismnäringen på svenska västkusten och det
 är uppskattningsvis ca 30 företag som är direkt involverade i hummerturism.
 
--  Konkurrensförhållanden företag med reglering
+\-  Konkurrensförhållanden företag med reglering
 
 Ett konsoliderat importörs/införsel-led kan påverka konkurrensen och även priserna på levande
 amerikansk hummer då färre aktörer har möjlighet att importera levande hummer till Sverige.
@@ -6382,7 +6382,7 @@ Kommundirektör                     Biträdande kommundirektör
 
 @vrakat.se>
 Skickat:den 9 juni 2024 10:09
-Till:Kommun <kommun@kungsbacka.se>
+Till:Kommun \<kommun@kungsbacka.se>
 Ämne:Sponsring Vrakat
 
 Du får inte e-post ofta från gosta.fransehn@vrakat.se. Se varför det här är viktigt.
@@ -6620,11 +6620,11 @@ utomstående, exempelvis till politiker som i studiesyfte besöker ett vårdboen
 Olika typer av verksamhetsbesök
 Riktlinjerna tydliggör även vad som ska gälla vid olika typer av verksamhetsbesök:
 
--  När en nämnd vill göra ett gemensamt studiebesök
--  Hur ett politiskt parti eller en partirepresentant ska gå till väga för att initiera ett studiebesök i
+\-  När en nämnd vill göra ett gemensamt studiebesök
+\-  Hur ett politiskt parti eller en partirepresentant ska gå till väga för att initiera ett studiebesök i
 någon av kommunens verksamheter
 
--  Vad som gäller vid besök till kommunen från någon extern part såsom region, riksdag regering
+\-  Vad som gäller vid besök till kommunen från någon extern part såsom region, riksdag regering
 eller annan kommun.
 
 <!-- sida 141 -->
@@ -6692,32 +6692,32 @@ verksamhet och äger rum i syfte att ge elever information inom ramen
 för det demokratiuppdrag skolan har enligt gällande lagstiftning.
 
 Grundläggande   principer
-1. Ansvarig enhetschef eller annan verksamhetsföreträdare som denne utser
+1\. Ansvarig enhetschef eller annan verksamhetsföreträdare som denne utser
 
 ansvarar för att besöket kan genomföras på ett korrekt sätt och att besöket sker i
 enlighet med dessa riktlinjer.
-2. Verksamhetsföreträdare ska alltid prioritera det ordinarie arbetet och
+2\. Verksamhetsföreträdare ska alltid prioritera det ordinarie arbetet och
 verksamhetsbesök ska enbart genomföras om verksamheten klarar av det utan
 att det får en påverkan på arbetets ordinarie gång.
 
-3. Objektivitetsprincipen gäller och myndigheter ska i sin verksamhet beakta allas
+3\. Objektivitetsprincipen gäller och myndigheter ska i sin verksamhet beakta allas
 likhet inför lagen samt iaktta saklighet och opartiskhet. Det innebär att en
 verksamhet måste behandla alla aktörer som vill besöka dess verksamhet lika
 och att de endast kan neka besök om det finns saklig grund, exempelvis riktlinjer
 som redogör för villkor för studiebesök.
-4. Besöket syftar till att skapa en ökad förståelse för den verksamhet som bedrivs.
+4\. Besöket syftar till att skapa en ökad förståelse för den verksamhet som bedrivs.
 
-5. Under besöken får inte politiska budskap spridas vare sig muntligt eller i skrift.
+5\. Under besöken får inte politiska budskap spridas vare sig muntligt eller i skrift.
 
-6. Var och en i Sverige är genom grundlagen skyddad gentemot det allmänna mot
+6\. Var och en i Sverige är genom grundlagen skyddad gentemot det allmänna mot
 betydande intrång i den personliga integriteten och ingen får av det allmänna
 tvingas att ge till känna sin åskådning i politiskt, religiöst, kulturellt eller annat
 sådant hänseende eller att delta i sammankomst för opinionsbildning eller i
 demonstration eller annan meningsyttring.
-7. Verksamhetsbesök ska genomföras med respekt för medarbetare och för de
+7\. Verksamhetsbesök ska genomföras med respekt för medarbetare och för de
 individer som finns där och för deras personliga integritet.
 
-8. Ansvarig chef ska omedelbart avbryta ett verksamhetsbesök om det innebär fara
+8\. Ansvarig chef ska omedelbart avbryta ett verksamhetsbesök om det innebär fara
 för intrång i den personliga integriteten för medarbetare, vårdtagare, anhöriga,
 eller elever.
 
@@ -6725,9 +6725,9 @@ Kungsbacka kommun  Studiebesök för förtroendevalda politiker i kommunens verk
 
 <!-- sida 144 -->
 
-9. Externa besökare ska inte släppas in i privata bostadsutrymmen eller liknande
+9\. Externa besökare ska inte släppas in i privata bostadsutrymmen eller liknande
 om inte vårdtagaren, den boende själv eller anhörig gett sitt tillstånd.
-10. Den person som på grund sitt hälsotillstånd inte kan ge ett rättsligt relevant
+10\. Den person som på grund sitt hälsotillstånd inte kan ge ett rättsligt relevant
 samtycke till att träffa politiker på besök, ska inte behöva vara delaktiga i
 något studiebesök överhuvudtaget.
 
@@ -7064,8 +7064,8 @@ Behov                                             4    Susanne Calming, Mark- oc
 Bedömningskriterier                               6    Christina Wenander, lokalplanerare
 Övergripande planeringsförutsättningar            7    Avstämningar har även gjorts med representanter från Kultur & Fritid, Håll-
 Alternativ                                        8    bar utveckling, förvaltningen för Service och Trafik.
-1. Skårby 12:1                                    9
-2. Nötegång 1:108                                 11
+1\. Skårby 12:1                                    9
+2\. Nötegång 1:108                                 11
 Rekommendation                                    13
 Konsekvenser                                      13
 Bilaga 1: studerade platser                       15
@@ -7098,7 +7098,7 @@ Syftet med lokaliseringsutredningen är att ge underlag för beslut om lokalise-
 ring av en ny isyta. Utredningen är avgränsad till de frågor som är nödvändi-
 ga för ett lokaliseringsbeslut. Isytan ska enligt beslutad lokalplan 2024–2028 Som fortsatt del av arbetet med lokalisering av isyta kommer frågan kring
 vara färdig för inflyttning år 2028 och behöver därför byggstartas senast år utbyggnad av infrastruktur och parkering behöva utredas vidare av Service i
-2027.                                                  samband med framtagande av förstudie.
+2027\.                                                  samband med framtagande av förstudie.
 
 4
 
@@ -7251,7 +7251,7 @@ väl platserna uppfyller de uppställda parametrarna. Övriga platser som studer
 
 <!-- sida 158 -->
 
-1. Skårby   12:1                                       För närvarande saknas en trafiksäkerpassage över Göteborgsvägen, men
+1\. Skårby   12:1                                       För närvarande saknas en trafiksäkerpassage över Göteborgsvägen, men
 en passage under vägen ska byggas i samband med att Björkris 2 byggs ut.
 • Fastigheten ägs av Kungsbacka
 Dessutom planeras en gång- och cykelbro över Kungsbackaån vilket gör det
@@ -7339,7 +7339,7 @@ ring långt från ån eller i form byggnadstekniska åtgärder.
 
 <!-- sida 160 -->
 
-2. Nötegång    1:108                                   Platsen är centrum/centrumnära enligt översiktsplanen. Inom centrum ska
+2\. Nötegång    1:108                                   Platsen är centrum/centrumnära enligt översiktsplanen. Inom centrum ska
 kommunen möjliggöra för en blandning av näringsliv, varierade boendefor-
 • Fastigheten ägs av Kungsbacka
 mer och rekreation.
@@ -7498,20 +7498,20 @@ färdig 2028. För att effektivisera processen kan vissa moment göras parallell
 Bilaga  1: studerade    platser
 Följande områden har studerats för placering av ishall:
 
-9. Lerberg 5:14>3
+9\. Lerberg 5:14>3
 
-1. Skårby 12:1
-2. Nötegång 1:108
-4. Hede 9:26 och Voxlöv 4:9>2
-5. Voxlöv 2:3>2
-6. Varla 9:55
+1\. Skårby 12:1
+2\. Nötegång 1:108
+4\. Hede 9:26 och Voxlöv 4:9>2
+5\. Voxlöv 2:3>2
+6\. Varla 9:55
 
-3. Kungsbacka 4:65 m.fl.
+3\. Kungsbacka 4:65 m.fl.
 
-7. Nedre Ögärdet 2:13>1
+7\. Nedre Ögärdet 2:13>1
 
-8. Åsa 2:4
-10. Frillesås-Rya 3:78>1
+8\. Åsa 2:4
+10\. Frillesås-Rya 3:78>1
 
 15
 
@@ -7585,7 +7585,7 @@ mans med Hille Melbye Arkitekter vann med sitt förslag "Krona". Det
 vinnande förslaget kommer ligga till grund för utformningen av Kungsbacka
 17
 edårmosgnilväT
-- snärG
+\- snärG
 Flexibel användning av Arenatorget
 Exteriöra perspektiv Vpläartms aa tut phpä nfögra s, tmreöetet sidprloattts,. Parkering Sfoäosdotnrugcskbse,t monaatfdees tmivaarl.knader, Fågelpost morgonterrass Cykelbana Huvudentré Mindre konserter, evenemang.
 Lek, dagvatten, rekreation. Vinteraktiviteter.

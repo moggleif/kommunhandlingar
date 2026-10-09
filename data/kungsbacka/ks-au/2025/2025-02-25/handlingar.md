@@ -704,7 +704,7 @@ hälsa.
 Samverkan        för  att  stärka    barn    & ungas
 
 välmående        och   psykisk     hälsa    genom      rörelse.
-:
+\:
 
 Kungsbacka kommun            Rapportmall                        5
 
@@ -1494,9 +1494,9 @@ avhopp. Den nedåtgående spiralen beror på en kombination av olyckliga omstän
 Varberg vars stora yrkeshögskolor innebär att skolan är ytterst konkurrensutsatt.
 
 Tre alternativa handlingsförslag har utretts:
-1) Satsningar på att utveckla yrkeshögskolan
-2) Beslut om avveckling av yrkeshögskolan i augusti 2022
-3) Beslut om mer successiv avveckling i augusti 2023
+1\) Satsningar på att utveckla yrkeshögskolan
+2\) Beslut om avveckling av yrkeshögskolan i augusti 2022
+3\) Beslut om mer successiv avveckling i augusti 2023
 
 I kapitel 6 finns en genomgång av motiven för respektive förslag, vad dessa rent konkret
 skulle innebära och en uppskattning av kostnader. Vidare beskrivs risker och
@@ -1715,17 +1715,17 @@ organisationer och 94 offentliga. Av de offentliga var det 87 kommuner eller
 kommunförbund, 5 regioner och 2 statliga anordnare.
 
 Följande trender kan ses:
--  Antalet privata anordnare ökar något medan antalet offentliga anordnare minskar.
--  Antalet beslutade platser hos privata anordnare ökar kraftigt. År 2007 hade
+\-  Antalet privata anordnare ökar något medan antalet offentliga anordnare minskar.
+\-  Antalet beslutade platser hos privata anordnare ökar kraftigt. År 2007 hade
 privata anordnare 49% av platserna att jämföra med 2019 då deras andel ökat till
 71 %.
--  De privata anordnarna hade i genomsnitt nästan dubbelt så många platser som de
+\-  De privata anordnarna hade i genomsnitt nästan dubbelt så många platser som de
 offentliga; 412 i snitt för de privata jämfört med 215 platser för de offentliga.
--  Antalet sökande har ökat och ett ökat antal, 41%, söker till mer än en utbildning
+\-  Antalet sökande har ökat och ett ökat antal, 41%, söker till mer än en utbildning
 inom YH.
--  Antalet behöriga sökande per plats låg på 1,9 i Västra Götalands län vilket var
+\-  Antalet behöriga sökande per plats låg på 1,9 i Västra Götalands län vilket var
 näst lägst i landet. I Hallands län är motsvarande siffra 2,4.
--  Antalet personer som påbörjat studier har nästan fördubblats mellan 2007 och
+\-  Antalet personer som påbörjat studier har nästan fördubblats mellan 2007 och
 2019 och den största ökningen skedde mellan 2018 och 2019.
 
 Yrkeshögskolan befinner sig på en konkurrensutsatt marknad på två sätt. Dels ansöker
@@ -1745,14 +1745,14 @@ fram på något enkelt sätt då redovisningen utgår från huvudman och inte fr
 
 Nedanstående kategorisering av yrkesanordnare är utredarens egen efter genomgång av
 myndighetens statistikfil.
-- Stora bolagskoncerner som erbjuder yrkesutbildning på flera orter och dessutom
+\- Stora bolagskoncerner som erbjuder yrkesutbildning på flera orter och dessutom
 kan bedriva förskola, grundskola och/eller gymnasieskola.
-- Stiftelser, studieförbund och folkhögskolor som grundats som en ideell
+\- Stiftelser, studieförbund och folkhögskolor som grundats som en ideell
 organisation och helt eller delvis erbjuder yrkeshögskoleutbildningar
-- Handelsinstitut och kompetensutvecklingsföretag som tidigare sålt utbildningar
+\- Handelsinstitut och kompetensutvecklingsföretag som tidigare sålt utbildningar
 direkt till företag eller privatpersoner men nu också erbjuder
 yrkeshögskoleutbildningar.
-- Ett mindre antal anordnare som har unika koncept och bara erbjuder enstaka
+\- Ett mindre antal anordnare som har unika koncept och bara erbjuder enstaka
 utbildningar
 
 10
@@ -1784,11 +1784,11 @@ yrkeshögskoleutbildningar inom en mängd olika områden.
 De offentligt drivna yrkeshögskolorna har relativt ofta en koppling till kommunens
 basnäringar. Yrkeshögskolan bidrar därmed till att tydliggöra kommunens profil och/eller
 kulturarv. Exempel på detta är:
--  Fisk och skaldjur, Lysekil
--  Trädgårdsanläggning, Båstad
--  Skogsbrukstekniker, Ljusdal
--  Keramisk form och tillverkning, Lidköping
--  Vattenkraft och bergmaterial, Lapplands lärcentra.
+\-  Fisk och skaldjur, Lysekil
+\-  Trädgårdsanläggning, Båstad
+\-  Skogsbrukstekniker, Ljusdal
+\-  Keramisk form och tillverkning, Lidköping
+\-  Vattenkraft och bergmaterial, Lapplands lärcentra.
 I många kommuner är yrkeshögskolan organisatoriskt integrerad med gymnasieskolan.
 Andra samverkar även med högskolor och universitet.
 
@@ -1921,10 +1921,10 @@ intervjusvar från andra kommuner eller organisationer.
 
 Varje rubrik i kapitlet har följande struktur:
 
--  Beskrivning: En beskrivande text som ska vara helt neutral och redovisa fakta.
--  Iakttagelser och intervjusvar: Svar från intervjupersoner men även material som
+\-  Beskrivning: En beskrivande text som ska vara helt neutral och redovisa fakta.
+\-  Iakttagelser och intervjusvar: Svar från intervjupersoner men även material som
 översänts av olika intervjupersoner.
--  Kommentarer: Utredarens reflektioner och bedömningar redovisas direkt under
+\-  Kommentarer: Utredarens reflektioner och bedömningar redovisas direkt under
 varje punkt. I kapitel 7 finns en sammanfattande analys och slutsatser.
 
 5.2 Skolans historia och nuvarande tillhörighet
@@ -1932,7 +1932,7 @@ varje punkt. I kapitel 7 finns en sammanfattande analys och slutsatser.
 Beskrivning
 Yrkeshögskolans historia i Kungsbacka går tillbaka till de s k KY-utbildningarna.
 Kvalificerade Yrkesutbildningar, som var en del av det svenska utbildningssystemet från
-2002. I samband med att Lagen om yrkesutbildningar antogs 2009 fasades KY-
+2002\. I samband med att Lagen om yrkesutbildningar antogs 2009 fasades KY-
 utbildningarna ut och befintliga utbildningar överfördes ofta till yrkeshögskolan.
 Inledningsvis var yrkeshögskolan i Kungsbacka organiserad i en verksamhet tillsammans
 med den kommunala vuxenutbildningen i egen regi.
@@ -2074,10 +2074,10 @@ tekniska investeringar ger högre elevpeng.
 
 Iakttagelser och intervjusvar
 Intervjupersonerna i Kungsbacka beskriver att orsakerna till obesatta platser är flera:
--  Att ansökningarna från potentiella studerande redan från början varit otillräckliga
--  Att studerande tackar ja men även har sökt andra utbildningar - inom YH eller
+\-  Att ansökningarna från potentiella studerande redan från början varit otillräckliga
+\-  Att studerande tackar ja men även har sökt andra utbildningar - inom YH eller
 någon annan utbildningsform - och hoppar av i nära anslutning till terminsstarten
--  Att studerande av olika skäl slutar under utbildningens gång
+\-  Att studerande av olika skäl slutar under utbildningens gång
 
 Att antalet sökande är för få beror enligt flera intervjupersonerna på det geografiska läget
 där det finns många alternativa utbildningar och att insatserna på marknadsföring
@@ -2131,11 +2131,11 @@ Beskrivning
 Att skolans volym har minskat är den huvudsakliga förklaringen till yrkeshögskolans
 ekonomiska underskott. Det har dock inte gått att få fram exakta siffror på volymen över
 tid då begreppet volym innehåller flera beståndsdelar:
--  Antalet tilldelade utbildningar
--  Antalet pågående utbildningar
--  Antalet behöriga sökande
--  Antalet som påbörjar en utbildning
--  Antalet som hoppar av respektive fullföljer utbildningen.
+\-  Antalet tilldelade utbildningar
+\-  Antalet pågående utbildningar
+\-  Antalet behöriga sökande
+\-  Antalet som påbörjar en utbildning
+\-  Antalet som hoppar av respektive fullföljer utbildningen.
 
 Iakttagelser och intervjusvar
 Det förefaller inte vara så att skolan tidigare varit avsevärt mycket större. Men i en så
@@ -2632,19 +2632,19 @@ Beskrivning:
 I förordningen (2009:130) om yrkeshögskolan anges att det hos den ansvariga
 utbildningsanordnaren ska finnas en ledningsgrupp för utbildningen. Ledningsgruppens
 uppgift är att:
-1. Se till att utbildningen genomförs enligt lagen (2019:128) om yrkeshögskolan,
+1\. Se till att utbildningen genomförs enligt lagen (2019:128) om yrkeshögskolan,
 denna och andra förordningar som har meddelats av Myndigheten för
 yrkeshögskolan
-2. Anta sökande till utbildningen
-3. Pröva frågor om tillgodoräknande enligt 2 kap.12 §
-4. Utfärda examens- och utbildningsbevis
-5. Svara för att ett systematiskt kvalitetsarbete bedrivs.
+2\. Anta sökande till utbildningen
+3\. Pröva frågor om tillgodoräknande enligt 2 kap.12 §
+4\. Utfärda examens- och utbildningsbevis
+5\. Svara för att ett systematiskt kvalitetsarbete bedrivs.
 Ledningsgruppen ska bestå av:
 
-1. Företrädare för de delar av arbetslivet som berörs av utbildningen
-2. Minst en företrädare för skolväsendet
-3. Minst en företrädare för de studerande
-4. Den person som är utsedd av utbildningsanordnaren att leda det dagliga arbetet i
+1\. Företrädare för de delar av arbetslivet som berörs av utbildningen
+2\. Minst en företrädare för skolväsendet
+3\. Minst en företrädare för de studerande
+4\. Den person som är utsedd av utbildningsanordnaren att leda det dagliga arbetet i
 verksamheten
 
 MYh kvalitetsgranskar ledningsgruppernas arbete utifrån 4 kvalitetskriterier. 1) att
@@ -2708,14 +2708,14 @@ bredare forum där ett kommunperspektiv kan beaktas.
 Yrkeshögskolans planeringshorisont är flerårig och följande datum har betydelse för
 skolans framtida drift.
 
--  Elevernas ansökningsprocesser till utbildningar i Kungsbacka inleds till 17
+\-  Elevernas ansökningsprocesser till utbildningar i Kungsbacka inleds till 17
 januari och avslutas 17 maj 2021.
--  Resultatet av pågående ansökningsomgång till MYh presenteras 19 januari 2021.
--  MYH tar emot nya ansökningar om korta kurser och kurspaket under perioden
+\-  Resultatet av pågående ansökningsomgång till MYh presenteras 19 januari 2021.
+\-  MYH tar emot nya ansökningar om korta kurser och kurspaket under perioden
 februari 2021 till i mitten av mars 2021.
--  MYh tar emot nya ansökningar om yrkesutbildningar från april och fram till juni.
--  Kungsbackas redan påbörjade utbildningar pågår till och med vårterminen 2022.
--  Två nya utbildningsomgångar är beviljad i juli 2021 och dessa skulle avslutas i
+\-  MYh tar emot nya ansökningar om yrkesutbildningar från april och fram till juni.
+\-  Kungsbackas redan påbörjade utbildningar pågår till och med vårterminen 2022.
+\-  Två nya utbildningsomgångar är beviljad i juli 2021 och dessa skulle avslutas i
 juni 2023 om de fullföljs.
 Den politiska hanteringen av föreliggande rapport torde oavsett inriktning knappast inte
 vara klar före februari eller mars månad 2021.
@@ -2746,10 +2746,10 @@ investeringstunga tekniska utbildningar. Ur ett övergripande samhällsperspekti
 yrkeshögskolor i offentlig regi.
 
 Vad skulle en omstart innebära?
--  Att satsa på att öka volymen. Att uppnå en utökning med två långa
+\-  Att satsa på att öka volymen. Att uppnå en utökning med två långa
 heltidsutbildningar och två till fyra korta utbildningar bedöms vara nödvändigt.
 
--  Att lägga stort fokus på ansökningar rörande fler och rätt utbildningar. Detta
+\-  Att lägga stort fokus på ansökningar rörande fler och rätt utbildningar. Detta
 kräver en gedigen omvärldsanalys. Möjligheterna att söka utbildningar som har
 
 29
@@ -2759,7 +2759,7 @@ kräver en gedigen omvärldsanalys. Möjligheterna att söka utbildningar som ha
 tydlig koppling till Kungsbackas näringsliv och till befintlig kompetens inom
 yrkeshögskolan bör beaktas.
 
--  Att undersöka möjligheten till ett flexibelt utbud med korta kurser, kurspaket och
+\-  Att undersöka möjligheten till ett flexibelt utbud med korta kurser, kurspaket och
 att erbjuda YH-flex (valideringsomgångar) och sprida antagningarna över året.
 
 Ett återupptagande av hissutbildningen är inte beaktat i detta scenario. Om bedömningen
@@ -2781,31 +2781,31 @@ Nedanstående beräkningar har tagits fram i samverkan med förvaltningens contr
 rektorn vid yrkeshögskolan. Beräkningarna finns att tillgå i bilaga 3.
 År 2021: Underskott 1 900 tkr
 Beräkningen är en uppskattning och bygger på följande scenario:
--  Vårterminen: redan tilldelade utbildningar: CAD-konstruktör, CAD-BIM-
+\-  Vårterminen: redan tilldelade utbildningar: CAD-konstruktör, CAD-BIM-
 byggprojektör och Redovisningskonsult .
--  Höstterminen: redan tilldelade utbildningar: CAD-konstruktör och CAD-BIM -
+\-  Höstterminen: redan tilldelade utbildningar: CAD-konstruktör och CAD-BIM -
 buggprojektör.
--  Klasserna fylls till 90%
--  Flyttning till nya dyrare lokaler från ht 2021
--  Utökade kostnader för heltid rektorstjänst, utökning administratör,
+\-  Klasserna fylls till 90%
+\-  Flyttning till nya dyrare lokaler från ht 2021
+\-  Utökade kostnader för heltid rektorstjänst, utökning administratör,
 marknadsföring och ansökningsarbete
 
 År 2022: Underskott 500 tkr
 Bygger på följande scenario:
--  Vårterminen: redan beviljade utbildningar CAD-konstruktör, CAD-BIM
+\-  Vårterminen: redan beviljade utbildningar CAD-konstruktör, CAD-BIM
 byggprojektör med 4 klasser
--  Vårterminen: Redovisningskonsultutbildning beviljas ny start med 1 klass
--  Höstterminen: ovanstående plus två nya utbildningar med vardera 1 klass
--  Dessa sju klasser fylls till 90%
--  Utökade kostnader enligt ovan
+\-  Vårterminen: Redovisningskonsultutbildning beviljas ny start med 1 klass
+\-  Höstterminen: ovanstående plus två nya utbildningar med vardera 1 klass
+\-  Dessa sju klasser fylls till 90%
+\-  Utökade kostnader enligt ovan
 
 År 2023 Överskott med 800 tkr
--  Vårterminen Sju klasser följer med sedan 2022 och redovisningskonsult-
+\-  Vårterminen Sju klasser följer med sedan 2022 och redovisningskonsult-
 utbildningen utökas med en klass
 Höstterminen: Ytterligare 2 klasser inom de utbildningar som startade ht 2022.
--  Detta innebär att verksamheten från hösten drivs med 5 olika utbildningar i 10
+\-  Detta innebär att verksamheten från hösten drivs med 5 olika utbildningar i 10
 klasser
--  Dessa klasser fylls till 90%
+\-  Dessa klasser fylls till 90%
 
 30
 
@@ -2820,10 +2820,10 @@ En konsekvens är att en rad beslut behöver tas omgående och det även i organ
 behöver ske en kraftsamling för att stödja de som skall förverkliga ”omstarten”.
 
 De största riskerna är om yrkeshögskolan:
--  Inte får tilldelning på befintliga utbildningar
--  Inte får några nya utbildningar
--  Inte lyckas fylla platserna till minst 90%.
--  Inte lyckas rekrytera adekvat kompetens för att uppnå den höga kvalitet och det
+\-  Inte får tilldelning på befintliga utbildningar
+\-  Inte får några nya utbildningar
+\-  Inte lyckas fylla platserna till minst 90%.
+\-  Inte lyckas rekrytera adekvat kompetens för att uppnå den höga kvalitet och det
 goda rykte som kommer att krävas i konkurrensen med närliggande
 yrkeshögskolor.
 
@@ -2848,16 +2848,16 @@ En avveckling kan ske på olika sätt och med olika hastighet. Beräkningarna, s
 tillgå i bilaga 3, har utgått från två olika scenarier:
 En snabbare avveckling som är genomförd 1 juli 2022.
 
--  Påbörjade utbildningar finns kvar tills dagens studenter har avslutat sin
+\-  Påbörjade utbildningar finns kvar tills dagens studenter har avslutat sin
 utbildning. Detta innebär att skolan drivs vidare med 5 klasser under vårterminen
 2021 och 3 klasser under läsåret 2021–2022.
--  Beslut fattas om att inte starta hiss- och rulltrappsutbildningen
--  Berörd personal erbjuds från och med augusti 2022 omställning i enlighet med
+\-  Beslut fattas om att inte starta hiss- och rulltrappsutbildningen
+\-  Berörd personal erbjuds från och med augusti 2022 omställning i enlighet med
 kommunens rutiner.
--  Yrkeshögskolan blir kvar i nuvarande lokaler t o m vårterminen 2022.
--  Planeringen för att avyttra inventarier mm påbörjas och genomförs om möjligt
+\-  Yrkeshögskolan blir kvar i nuvarande lokaler t o m vårterminen 2022.
+\-  Planeringen för att avyttra inventarier mm påbörjas och genomförs om möjligt
 under hösten 2022.
--  Kontrakt med inhyrda konsulter förlängs i enlighet med ingångna avtal fram till
+\-  Kontrakt med inhyrda konsulter förlängs i enlighet med ingångna avtal fram till
 dess utbildningarna är avslutade.
 
 En mer successiv avveckling som är genomförd 1 juli 2023.
@@ -2866,10 +2866,10 @@ En mer successiv avveckling som är genomförd 1 juli 2023.
 
 <!-- sida 68 -->
 
--  Skillnaden mot ovanstående är att de utbildningsomgångar till CAD-konstruktör
+\-  Skillnaden mot ovanstående är att de utbildningsomgångar till CAD-konstruktör
 och CAD-BIM byggprojektör som redan är beviljade hösten 2021 startar.
--  Yrkeshögskolan flyttar under perioden från Kyrkskolan till Kompetenscentrum.
--  Personal och konsulter blir kvar ytterligare ett år till 1 juli 2023.
+\-  Yrkeshögskolan flyttar under perioden från Kyrkskolan till Kompetenscentrum.
+\-  Personal och konsulter blir kvar ytterligare ett år till 1 juli 2023.
 
 Vad skulle en avveckling kosta?
 Nedanstående beräkningar har tagits fram i samverkan med controller vid förvaltningen
@@ -2877,13 +2877,13 @@ för Gymnasium & arbetsmarknad samt rektorn vid yrkeshögskolan och finns att ti
 bilaga 3.
 
 Underskottet vid en snabb avveckling uppskattas till totalt 1150 TKR
--  750 tkr under 2021
--  400 tkr under 2022
--
+\-  750 tkr under 2021
+\-  400 tkr under 2022
+\-
 Underskottet vid en successiv avveckling uppskattas till totalt cirka 2 110 tkr
--  670 tkr under 2021
--  820 tkr under 2022
--  620 tkr under 2023
+\-  670 tkr under 2021
+\-  820 tkr under 2022
+\-  620 tkr under 2023
 Konsekvenser och risker med en avveckling
 Ett viktigt motiv för en successiv avveckling är att de politiska beslut som krävs för en
 avveckling inte kan tas innan elevernas ansökningsprocess till utbildningar i Kungsbacka
@@ -3030,10 +3030,10 @@ yrkeshögskolan i Kungsbacka att generera ett underskott de närmaste två åren
 Nedanstående siffror är framtagna i samarbete med förvaltningens controller utifrån
 hypotetiska scenarier. De är alltså en uppskattning.
 
--  En snabb avveckling belastar resultatet 2021 och 2022 med cirka 1150 tkr
--  En långsammare avveckling skulle belasta resultatet 2021, 2022 och 2023 med
+\-  En snabb avveckling belastar resultatet 2021 och 2022 med cirka 1150 tkr
+\-  En långsammare avveckling skulle belasta resultatet 2021, 2022 och 2023 med
 cirka 2100 tkr
--  En satsning på expansion skulle belasta resultatet för 2021 och 2022 med cirka
+\-  En satsning på expansion skulle belasta resultatet för 2021 och 2022 med cirka
 2 400 tkr, men skulle kunna ge ett överskott på 800 tkr år 2023.
 
 Kostnadsaspekten är bara en parameter inför valet av inriktning. En annan parameter
@@ -3799,7 +3799,7 @@ Maria Losman (MP) och Elisabeth Sahlsten (MP) yrkar bifall till Miljöpartiets
 
 förslag till kommunbudget 2025.
 Christer Perfjell (KB) yrkar bifall till Kungsbackabornas förslag till kommunbudget
-2025.
+2025\.
 
 Beslutsgång
 Ordförande Thure Sandén (M) finner inledningsvis att det finns sex förslag till beslut
@@ -4089,7 +4089,7 @@ större övervägande öppet landskapsrum med beteshagar för hästar. I väst a
 Onsalavägen och i norr angränsar området till förhållandevis tät villabebyggelse.
 
 Del av fastigheten Mossen 3:2 skifte 1 och 5 är belägen inom detaljplan O112 som fick laga kraft
-1969. Den aktuella fastigheten är i plankartan redovisad som allmän plats, parkmark och vägmark.
+1969\. Den aktuella fastigheten är i plankartan redovisad som allmän plats, parkmark och vägmark.
 Genom detta område rinner en bäck som omfattas av strandskydd.
 
 Området ligger drygt 800 meter från Onsala kyrkby och närmsta busshållplats ligger på Onsalavägen i
@@ -4176,7 +4176,7 @@ bedömningen att det saknas särskilt skäl för upphävande av strandskyddet.
 
 Gällande detaljplan
 Del av fastigheten Mossen 3:2 skifte 1 och 5 är belägen inom detaljplan O112 som fick laga kraft
-1969. Den aktuella fastigheten har i plankartan användningen allmän plats, parkmark och vägmark.
+1969\. Den aktuella fastigheten har i plankartan användningen allmän plats, parkmark och vägmark.
 
 Kommunens översiktsplan
 
@@ -4299,7 +4299,7 @@ Begära     planbesked
 
 Ärendenummer: #173466 | Inskickat av: | 2024-12-03 08:56
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -4368,7 +4368,7 @@ Förnamn    Efternamn     Telefon       E-postadress
 
 @gmail.com
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -4392,7 +4392,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 

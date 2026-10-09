@@ -499,19 +499,19 @@ Sammanfattning av ärendet
 
 Kommundirektör Rickard Vidlund informerar om:
 
--  utskick av datum för sammanträden och heldagar.
--  lagrådsremiss "Kommuners och regioners grundläggande beredskap inför kris
+\-  utskick av datum för sammanträden och heldagar.
+\-  lagrådsremiss "Kommuners och regioners grundläggande beredskap inför kris
 och krig"
 
 Biträdande kommundirektör Anders Johansson informerar om:
--  Länsstyrelsens tillsyn av Kungsbacka kommuns efterlevnad av
+\-  Länsstyrelsens tillsyn av Kungsbacka kommuns efterlevnad av
 cybersäkerhetslagen
 
 Emanuel Forsell (M) informerar om:
--  invigning av resursskola i september.
+\-  invigning av resursskola i september.
 
 Fredrik Hansson (C) informerar om:
--  Inbjudan från LRF och Södra till debatt.
+\-  Inbjudan från LRF och Södra till debatt.
 
 Kanslichef Sofia Jonsson informerar allmänt om valkansliets arbete samt det arbete
 som gjorts på Individ och familjeomsorg för att underlätta för brukarna att

@@ -1258,7 +1258,7 @@ teknikerinsats. Även restid och inställelsetid debiteras med samma timpris.
 
 \* Pris angivet inklusive moms.
 
-\________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun             Bredbandstaxa 2026                9 (9)
 

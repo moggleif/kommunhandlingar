@@ -609,7 +609,7 @@ Sammanfattning av ärendet
 Maria Losman (MP) och Elisabeth Sahlsten (MP) har inkommit med en motion om
 att komplettera de lokala ordningsföreskrifterna med tydligare regler för användandet
 av pyrotekniska varor. Motionen anmäldes i kommunfullmäktige den 12 december
-2024.
+2024\.
 
 Motionärerna menar att de regler som finns i de lokala ordningsföreskrifterna (att
 den som skjuter av fyrverkerier eller andra pyrotekniska varor ska visa största

@@ -106,11 +106,11 @@ Sammanfattning av ärendet
 Kommunstyrelsens arbetsutskott får information om hur Kommunstyrelsens
 förvaltning arbetar med energifrågor. Informationen berör:
 
-- Ny reglering på området däribland EU:s energieffektiviseringsdirektiv
-- En utblick såväl internationellt som nationellt
-- Regional energiplanering
-- Regional data kopplat till utsläpp och energianvändning
-- Energiplan Kungsbacka
+\- Ny reglering på området däribland EU:s energieffektiviseringsdirektiv
+\- En utblick såväl internationellt som nationellt
+\- Regional energiplanering
+\- Regional data kopplat till utsläpp och energianvändning
+\- Energiplan Kungsbacka
 
 Informationen är en del av kommunstyrelsens arbetsutskotts så kallade årshjul med
 fasta informationer och avstämningar på kommunstyrelsens arbetsutskott.
@@ -264,7 +264,7 @@ stad.
 Den fördjupade översiktsplanen för Kungsbacka stad kompletterar den
 
 kommunövergripande översiktsplanen som antogs av kommunfullmäktige 2021-11-
-09. Planen ska medverka till att uppfylla Kungsbacka Vision 2030 och fullfölja
+09\. Planen ska medverka till att uppfylla Kungsbacka Vision 2030 och fullfölja
 översiktsplanens intentioner genom strategier och riktlinjer för hur utveckling av
 mark- och vattenområden ska ske inom staden. Förslaget ska bidra till att skapa
 förståelse och samsyn, såväl externt som internt, kring utvecklingsinriktning för
@@ -308,39 +308,39 @@ Projektbeställning, 2020-06-30
 Förslag till beslut på sammanträdet
 
 Emanuel Forsell (M) yrkar att:
-1. Förslag på kollektivtrafikkörfält tas bort. Dessa ersätts i kartplanen med uttryckt
+1\. Förslag på kollektivtrafikkörfält tas bort. Dessa ersätts i kartplanen med uttryckt
 behov av kapacitetsökning på motsvarande del av vägnätet.
 
-2. De dokument som anges som underlag i översiktsplanen ska i absolut huvudsak
+2\. De dokument som anges som underlag i översiktsplanen ska i absolut huvudsak
 vara politiskt antagna och nu gällande dokument. Rena tjänstedokument, som till
 exempel hållbarhetsanalys och omvärldsanalys ska i möjligaste mån inte utgöra
 underlag till översiktsplanen.
 
-3. Parkeringsstrategi, innehållande bland annat fördelningsnyckel för P-tal, ska även
+3\. Parkeringsstrategi, innehållande bland annat fördelningsnyckel för P-tal, ska även
 fortsättningsvis hanteras i ett separat styrdokument. Dessa delar ska därmed
 strykas ur översiktsplanen.
-4. Under Mål 1, ingen fattigdom, stryks följande mening; “I ett globalt perspektiv är
+4\. Under Mål 1, ingen fattigdom, stryks följande mening; “I ett globalt perspektiv är
 inte fattigdom ett prioriterat område i kommunen däremot behöver vi hantera
 lokala inkomstskillnader.”
 
-5. Under Mål 10, minskad ojämlikhet, stryks följande mening; “Gällande den
+5\. Under Mål 10, minskad ojämlikhet, stryks följande mening; “Gällande den
 ekonomiska ojämlikheten har Kungsbacka relativt stora inkomstskillnader
 samtidigt som inkomstskillnaderna ökar över tid. Det betyder att planen i sig
 antagligen kommer ha en liten påverkan på att minska inkomstskillnaderna.”
 
-6. Under artikel 2, Barnkonsekvensanalys, stryks följande mening; “Planen skapar
+6\. Under artikel 2, Barnkonsekvensanalys, stryks följande mening; “Planen skapar
 långsiktiga förutsättningar för barn från olika socioekonomiska grupper att träffas
 genom blandningen av upplåtelseformer och boendeformer.”
-7. Under artikel 2, Barnkonsekvensanalys, stryks följande mening; “Lugna platser i
+7\. Under artikel 2, Barnkonsekvensanalys, stryks följande mening; “Lugna platser i
 
 staden säkerställer att barn med kognitiv funktionsnedsättning kan dra sig
 undan.”
-8. Utredningsområde för trafik mellan Fors och Hällingsjövägen ska även inkludera
+8\. Utredningsområde för trafik mellan Fors och Hällingsjövägen ska även inkludera
 ordinarie motortrafik.
 
-9. Den planerade broförbindelsen vid Hamntorget ska utredas för att eventuellt
+9\. Den planerade broförbindelsen vid Hamntorget ska utredas för att eventuellt
 också kunna tillgodose motortrafik.
-10. Vid utredningsområdet i anknytning till Svinholmen anges att Säröbanans spår
+10\. Vid utredningsområdet i anknytning till Svinholmen anges att Säröbanans spår
 ansluter till Västkustbanan. Detta ändras till en mer generell skrivning, som till
 
 exempel ‘Kollektivtrafikreservatets anslutning mot staden’.
@@ -355,51 +355,51 @@ Kommunstyrelsens arbetsutskott
 Datum
 2025-01-14
 
-11. Under “Demografi” tas de två första styckena bort. (Börjar med “Vi riskerar...”
+11\. Under “Demografi” tas de två första styckena bort. (Börjar med “Vi riskerar...”
 och avslutas med “... och besöksmål.”
-12. Riktlinje tre tas bort i sin helhet.
+12\. Riktlinje tre tas bort i sin helhet.
 
-13. Riktlinje sex; ta bort text som berör målgruppsanalyser.
-14. Riktlinje åtta; rubriken ändras från “Vi ska skapa god tillgång...” till “Vi ska
+13\. Riktlinje sex; ta bort text som berör målgruppsanalyser.
+14\. Riktlinje åtta; rubriken ändras från “Vi ska skapa god tillgång...” till “Vi ska
 
 möjliggöra god tillgång...”.
-15. Riktlinje tio; meningen “Vi kan också minska biltrafikmängden och utsläppen i
+15\. Riktlinje tio; meningen “Vi kan också minska biltrafikmängden och utsläppen i
 centrala och stationsnära lägen.” tas bort.
 
-16. Riktlinje tolv; följande text tas bort: “De tekniska lösningarna och kunskapen
+16\. Riktlinje tolv; följande text tas bort: “De tekniska lösningarna och kunskapen
 finns på marknaden men som byggherre och beställare måste kommunen också
 efterfråga flera olika funktioner när vi planerar ett projekt. En större investering
 idag betalar sig för kommunen som helhet på längre sikt.”
-17. Riktlinje tretton; ny rubrik: “Gestaltning och skötsel av utemiljöer ska möjliggöra
+17\. Riktlinje tretton; ny rubrik: “Gestaltning och skötsel av utemiljöer ska möjliggöra
 sociala värden samt livsmiljöer för djur och växtliv.”
 
-18. Riktlinje tretton; de tre sista meningarna stryks. Börjar med “Kol kan bindas...”.
+18\. Riktlinje tretton; de tre sista meningarna stryks. Börjar med “Kol kan bindas...”.
 
-19. Riktlinje tjugotre, sista meningen i rubriken ändras till “När vi bygger nära
+19\. Riktlinje tjugotre, sista meningen i rubriken ändras till “När vi bygger nära
 befintliga områden med småhus anpassar vi höjd och karaktär på de nya husen."
-20. Riktlinje tjugosex; stryk de två sista meningarna, med start “I kartan har...”.
+20\. Riktlinje tjugosex; stryk de två sista meningarna, med start “I kartan har...”.
 
-21. Riktlinje tjugonio skrivs om. Ny rubrik och brödtext:
-22. Vi verkar för hållbara och efterfrågade bostadstyper både när vi skapar nya
+21\. Riktlinje tjugonio skrivs om. Ny rubrik och brödtext:
+22\. Vi verkar för hållbara och efterfrågade bostadstyper både när vi skapar nya
 bostadsområden och när vi utvecklar befintlig stadsmiljö. (29)
 
-23. Grunden till en levande och hållbar stad är att det byggs bostäder som faktiskt
+23\. Grunden till en levande och hållbar stad är att det byggs bostäder som faktiskt
 efterfrågas av människor. Samtidigt kan en viss variation av upplåtelserätter bidra
 till en flexibilitet som möjliggör en bostadsresa genom flera skeden av livet. I
 anslutning till stationslägen kan tätare byggnation prioriteras och i övriga delar av
 staden finns möjlighet även till mer småskalig bebyggelse, som till exempel
 villor, stadsradhus eller mindre flerbostadshus.
 
-24. Riktlinje trettiofyra; inledande mening skrivs om och ordet bostäder läggs till:
+24\. Riktlinje trettiofyra; inledande mening skrivs om och ordet bostäder läggs till:
 “Bottenvåningarna ska planeras utifrån en mix av verksamheter, bostäder och
 mötesplatser som gör stråken i stadskärnan till navet för staden.”
-25. Riktlinje trettiosex; de två sista meningarna stryks: “Alla ärenden avseende höga
+25\. Riktlinje trettiosex; de två sista meningarna stryks: “Alla ärenden avseende höga
 
 objekt behöver skickas på remiss till Försvarsmakten för att säkerställa att ingen
 skada sker på riksintressen som omfattas av sekretess. Samråd bör även ske med
 Myndigheten för samhällsskydd och beredskap (MSB) och Luftfartsverket i
 dessa ärenden.”
-26. Inlag; området ska inte bara vara besöksområde utan också yta för kultur- och
+26\. Inlag; området ska inte bara vara besöksområde utan också yta för kultur- och
 företagsevenemang. Minska ytan som utgör grönområde samt vattenhantering.
 
 Det här dokumentet är digitalt signerat
@@ -503,13 +503,13 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
-- Upphandling av Arenans driftentreprenör pågår och kommunstyrelsens presidium
+\- Upphandling av Arenans driftentreprenör pågår och kommunstyrelsens presidium
 
 kommer att få inbjudan till att delta i utvärderingsgrupp av upphandlingen
-- Konsekvenser för kommunen mot bakgrund av Serneke ABs konkurs. Det är
+\- Konsekvenser för kommunen mot bakgrund av Serneke ABs konkurs. Det är
 entreprenadsidan i bolaget som har ansökt om konkurs vilket kan påverka
 underleverantörer.
-- Uppdatering rörande en företagsetablering i Duvehed.
+\- Uppdatering rörande en företagsetablering i Duvehed.
 
 Beslutsgång
 

@@ -286,7 +286,7 @@ finansieras dels av offentliga medel, dels av avgifter. Avgiften för Kulturskol
 med stöd av kommunallagens 2 kap. 5-6 §§ och utgår från självkostnadsprincipen.
 Avgifterna i Kulturskolan justerades senast 2015. Mot bakgrund av detta lämnar
 nämnden för Kultur & Fritid förslag om en höjning med 20 procent från och med
-2025. I taxan lämnas också förslag att nämnden för Kultur & Fritid årligen har
+2025\. I taxan lämnas också förslag att nämnden för Kultur & Fritid årligen har
 möjlighet indexreglera avgifterna enligt prisindex för kommunal verksamhet (PKV).
 
 Beslutsunderlag
@@ -663,7 +663,7 @@ Projektet omfattar 12 platser och det planeras att vara klart år 2026.
 Kommunstyrelsen beslutade den 23 januari 2024 att genomföra en förstudie och
 tilldelade projektet 1,5 miljoner kronor i investeringsmedel. Syftet med förstudien
 var att ta fram bygglovshandlingar som ska lämnas in senast i slutet av november
-2024. Kommunfullmäktige beslutade i lokalplan 2025–2029 att tillföra budgetmedel
+2024\. Kommunfullmäktige beslutade i lokalplan 2025–2029 att tillföra budgetmedel
 för investering och driftskostnad.
 
 För att kunna genomföra projektet behöver budgetmedel för investering, engångsdrift
@@ -1236,25 +1236,25 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Malin De Verdier lämnar följande information:
-- Under kommundirektörens semester över jul och nyår är följande personer
+\- Under kommundirektörens semester över jul och nyår är följande personer
 
 tillförordnad kommundirektör: 20/12 – 22/12 Anders Johansson, 23/12 – 29/12
 Arian Faily, 30/12 – 12/1 Anders Johansson
-- Kommundirektörens sista arbetsdag blir den 20/12.
+\- Kommundirektörens sista arbetsdag blir den 20/12.
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
-- Anders Lund som har varit tillförordnad verksamhetschef för avdelningen för
+\- Anders Lund som har varit tillförordnad verksamhetschef för avdelningen för
 Hållbar utveckling har fått tjänsten som verksamhetschef permanent.
 
-- Företaget Derome vill ha en dialog och diskutera en revidering av andelen
+\- Företaget Derome vill ha en dialog och diskutera en revidering av andelen
 hyresrätter i bostadsprojektet i Fjärås Må.
-- Samhällsbyggnadskontoret har haft en dialog med Länsstyrelsen i Halland om
+\- Samhällsbyggnadskontoret har haft en dialog med Länsstyrelsen i Halland om
 
 samarbetet i stort. Dialogen är en del av den uppföljning som Sveriges
 Länsstyrelser har i de län de verkar. Inom ramen för dialogen besvarar
 Kungsbacka kommun ett antal frågor som sedan kommer att skickas till
 regeringen.
-- Mark- och Miljööverdomstolen har avslagit överklagandet av JM:s plan i Tölö
+\- Mark- och Miljööverdomstolen har avslagit överklagandet av JM:s plan i Tölö
 vilket innebär att detaljplanen har fått laga kraft.
 
 Ordförande Lisa Andersson (M) lämnar även information om extrainsatt möte med

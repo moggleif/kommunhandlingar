@@ -180,7 +180,7 @@ under mandatperioden 2026–2030.
 
 Kommunfullmäktige fastställer att partistödets storlek för år 2027 baseras på det
 antal mandat respektive parti besitter i kommunfullmäktige efter de allmänna valen
-2026. Partistödet betalas ut i januari 2027.
+2026\. Partistödet betalas ut i januari 2027.
 
 Sammanfattning av ärendet
 

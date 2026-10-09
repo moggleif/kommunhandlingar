@@ -574,11 +574,11 @@ också ett granskningsintyg lämnas. Redovisningen och granskningen ska avse per
 december och lämnas in senast sex månader efter räkenskapsårets utgång.
 Kommunfullmäktige kan besluta att inte betala ut partistöd till ett parti för nästkommande år om:
 
--  Redovisningen av partistödet visar att partistödet inte använts för det ändamål som anges i
+\-  Redovisningen av partistödet visar att partistödet inte använts för det ändamål som anges i
 4 kap. 29 § första stycket kommunallagen eller på annat sätt inte följer de bestämmelser som
 anges i reglerna för kommunalt partistöd i Kungsbacka kommun.
 
--  Redovisningen och granskningsintyg inte har lämnats in till kommunfullmäktige inom
+\-  Redovisningen och granskningsintyg inte har lämnats in till kommunfullmäktige inom
 föreskriven tid enligt 4 kap. 31 § andra stycket kommunallagen, det vill säga senast sex
 månader efter räkenskapsårets utgång.
 
@@ -631,7 +631,7 @@ Kommundirektör                     Biträdande kommundirektör
 
 KUNGSBACK
 
-13)
+13\)
 
 A KOMMUN
 
@@ -707,8 +707,8 @@ Granskares anteckningar
 Summa överföringar
 
 Överföring till Motprestation Kronor
-+ 0
-+ 0)
+\+ 0
+\+ 0)
 = (0)
 
 Underskrift
@@ -888,7 +888,7 @@ Anvisningar till redovisning av kommunalt partistöd
 
 Inledning
 
-Enligt kommunallagens 4 kapitel 29-32 $$ får kommuner ge ekonomiskt bidrag och annat stöd till politiska
+Enligt kommunallagens 4 kapitel 29-32 \$\$ får kommuner ge ekonomiskt bidrag och annat stöd till politiska
 partier för att stärka deras ställning i den kommunala demokratin, så kallat kommunalt partistöd. De partier som
 beviljas partistöd ska årligen lämna en skriftlig redovisning som visar att partistödet har använts till detta
 ändamål.
@@ -920,27 +920,27 @@ använts.
 
 Granskningen ska ge svar på följande frågor:
 
-- - Framgår det av redovisningen att partistödet har använts för att utveckla partiets ställning i den lokala
+\- - Framgår det av redovisningen att partistödet har använts för att utveckla partiets ställning i den lokala
 demokratin?
-- Finns det underlag som styrker de kostnader som framgår av redovisningen?
+\- Finns det underlag som styrker de kostnader som framgår av redovisningen?
 
 Metod
 
 Granska aktiviteterna som framgår av tabell B i redovisningen och bedöm om de motsvarar syftet med
 partistödet. Stödet är avsett för det lokala partiarbetet som riktar sig till kommunmedlemmarna.
 
-- Kontrollera att det finns underlag som styrker kostnaderna för aktiviteterna.
+\- Kontrollera att det finns underlag som styrker kostnaderna för aktiviteterna.
 
-- Kontrollera att beräkningen av summan för kostnaderna i tabell B är korrekt.
+\- Kontrollera att beräkningen av summan för kostnaderna i tabell B är korrekt.
 
-- - Granska eventuella överföringar av partistödet till delar av partiorganisationen utanför kommunen
+\- - Granska eventuella överföringar av partistödet till delar av partiorganisationen utanför kommunen
 (framgår av tabell C) och om motprestationer för dessa motsvarar syftet med partistödet.
 
-- Kontrollera om det finns underlag i partiets bokföring som styrker överföringen.
+\- Kontrollera om det finns underlag i partiets bokföring som styrker överföringen.
 
-- Kontrollera att beräkningen av summan för kostnaderna i tabell C är korrekt.
+\- Kontrollera att beräkningen av summan för kostnaderna i tabell C är korrekt.
 
-- Kontrollera att sammanställningen i tabell A är korrekt.
+\- Kontrollera att sammanställningen i tabell A är korrekt.
 
 Bedömning
 
@@ -1011,8 +1011,8 @@ C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 Granskares anteckningar
 
 Överföring till Motprestation Kronor
-+
-+
+\+
+\+
 
 Summa överföringar =
 
@@ -1135,7 +1135,7 @@ Datum . a Ort )
 
 <!-- sida 29 -->
 
-113)
+113\)
 
 Kungsbacka
 
@@ -1185,7 +1185,7 @@ Granskares anteckningar
 
 Överföring till Motprestation Kronor
 KD partidistrikt Halland + Gemensamma tjänster 94 300
-+
+\+
 Summa överföringar = 94 300
 Underskrift
 Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
@@ -1227,8 +1227,8 @@ C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 ms 2 3 å : Åt ;
 Överföring till Motprestation Kronor
 I Liberalerna Västsverige Administation 146000 RR id)
-+
-+
+\+
+\+
 Summa överföringar - 46000
 
 Underskrift
@@ -1343,7 +1343,7 @@ Granskares anteckningar
 
 Överföring till Motprestation Kronor
 Centerpartiet hallands distrikt — |+ Administration 107 391
-+
+\+
 
 Summa överföringar = 107 391
 Underskrift
@@ -1405,7 +1405,7 @@ IL Åsa I ETT
 
 A Sammanställning Kronor Granskares anteckningar
 Kvarstående partistöd från föregående period (år) 221 929:-
-+ =
+\+ =
 Beviljat partistöd för perioden 125 000
 Utgifter under perioden (summa B + C) -73 650:-
 Kvarstående partistöd inför kommande period (summa) = 29 421:-
@@ -1440,7 +1440,7 @@ Summa överföringar
 Mi ljö pa rtiet de Gröna riks Medlemshantering, organisationsstöd, information, | 6 250:-
 utbildning och nätverk
 4
-+
+\+
 = 6 250:-
 
 Underskrift
@@ -1451,7 +1451,7 @@ Granskningsrapport
 
 Alternativ 1 (använd antingen alternativ 1 eller 2)
 
-|
+\|
 
 i Jag har granskat den skriftliga redovisningen av hur det kommunala partistödet har använts och att det finns underlag som
 i styrker uppgifterna. Min bedömning är att redovisningen ger en rättvisande bild av hur partistödet använts.
@@ -1511,7 +1511,7 @@ använts.
 
 Granskningen ska ge svar på följande frågor:
 
-- Framgår det av redovisningen att partistödet har använts för att utveckla partiets ställning i den
+\- Framgår det av redovisningen att partistödet har använts för att utveckla partiets ställning i den
 kommunala demokratin?
 = Finns underlag som styrker de kostnader som framgår av redovisningen?
 
@@ -1522,9 +1522,9 @@ partistödet. Stödet är avsett för det lokala partiarbetet som riktar sig til
 
 = Kontrollera att det finns underlag som styrker kostnaderna för aktiviteterna.
 
-- Kontrollera att beräkningen av summan för kostnaderna i tabell B är korrekt.
+\- Kontrollera att beräkningen av summan för kostnaderna i tabell B är korrekt.
 
-- Granska eventuella överföringar av partistödet till delar av partiorganisationen utanför kommunen
+\- Granska eventuella överföringar av partistödet till delar av partiorganisationen utanför kommunen
 (framgår av tabell C) och om motprestationer för dessa motsvarar syftet med partistödet.
 
 = Kontrollera om det finns underlag i partiets bokföring som styrker överföringen.
@@ -1843,10 +1843,10 @@ Nämnden för Individ & Familjeomsorgs förslag till Kommunstyrelsen
 
 Kommunstyrelsen beslutar att bevilja avvikelse från regler om maxlängden på 20 timmar för ett
 arbetspass till 24 timmar inom
-1. personlig assistans för situationer då brukare ska företa resor som rekreation eller inom sitt värv
+1\. personlig assistans för situationer då brukare ska företa resor som rekreation eller inom sitt värv
 
 och
-2. lägerverksamheten för barn och unga
+2\. lägerverksamheten för barn och unga
 
 Beslutet gäller under perioden 1 juni 2024–31 maj 2025.
 
@@ -2025,12 +2025,12 @@ Ingela Nord Lindroth
 Ärende Tillämpning av avvikelse inom personlig assistans och
 lägerverksamhet
 
-$ I Förhandling har påkallats av Kungsbacka kommun enligt
+\$ I Förhandling har påkallats av Kungsbacka kommun enligt
 MBL med anledning av behov att tillämpa avvikelse för
 arbetstidsförläggning inom personlig assistans vid resor och för
 läger- och korttidsverksamheten.
 
-$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
+\$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
 arbetstidsförläggning enligt Allmänna Bestämmelser, AB, och
 Bilaga J, identifierat ett behov av att tillämpa avvikelse genom
 att schemalägga arbetspass på upp till 24 timmar.
@@ -2075,9 +2075,9 @@ och personalens arbetsmiljö.
 Uppföljning sker på APT och i lokal samverkansgrupp, LSG,
 där uppföljning läggs in som en stående punkt.
 
-$ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
+\$ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
 
-$ 4 Förhandlingen förklarades avslutad vid dagen datum.
+\$ 4 Förhandlingen förklarades avslutad vid dagen datum.
 
 Justeras den 2024-05-15
 
@@ -2127,18 +2127,18 @@ Tänk på att medarbetare och skyddsombud och elevskyddsombud ska ges möjlighet
 riskbedömning och handlingsplan görs.
 
 Använd checklistan så här:
-1. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
+1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
 
-2. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
+2\. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
 friskfaktorer!
-3. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
+3\. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
 
-4. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
+4\. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
 och datum för när åtgärden ska vara genomförd.
 
 -Tips!
-- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
+\- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
 
 2/4
 2024-748
@@ -2186,7 +2186,7 @@ under och efter resan.
 |  | Identifiera riskkällor som ni tror uppstår efter genomförd förändring och bedöm om dessa kan leda till risker för ohälsa eller<br>olycksfall. Glöm inte att även lyfta friskfaktorer som förändringen kan medföra. Om en risk ska åtgärdas - klicka på<br>skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig och datum. Klicka på pilen längst till vänster för att<br>lägga till en ny rad. |  |  |
 | 2.1 | Friskfaktor- möjlighet att arbeta längre arbetspass vid<br>resor för att inte förlägga assistansbyten under<br>dagen/under aktivitet/utflykt | 0 |  |
 | 2.2 | Friskfaktor- 24h arbetspass skapar förutsättning och<br>möjlighet för att möta assistansanvändarens rätt till ett<br>självständigt liv enligt LSS lagstiftningen. | 0 |  |
-| 2.3 | Riskfaktor- högre arbetsbelastning vid längre<br>arbetspass | 2*1<br>2 | Att följa med som assistent på resa bygger på<br>frivillighet för medarbetare.<br>AG säkerställer att veckovila planeras in före<br>och efter resan, samt att möjlighet till vila och<br>återhämtning finns under arbetspasset. |
+| 2.3 | Riskfaktor- högre arbetsbelastning vid längre<br>arbetspass | 2\*1<br>2 | Att följa med som assistent på resa bygger på<br>frivillighet för medarbetare.<br>AG säkerställer att veckovila planeras in före<br>och efter resan, samt att möjlighet till vila och<br>återhämtning finns under arbetspasset. |
 
 [Tabell 54-2](handlingar.tabeller/54-2.csv)
 
@@ -2253,18 +2253,18 @@ Tänk på att medarbetare och skyddsombud och elevskyddsombud ska ges möjlighet
 riskbedömning och handlingsplan görs.
 
 Använd checklistan så här:
-1. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
+1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
 
-2. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
+2\. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
 friskfaktorer!
-3. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
+3\. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
 
-4. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
+4\. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
 och datum för när åtgärden ska vara genomförd.
 
 -Tips!
-- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
+\- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
 
 1/3
 2024-709
@@ -2317,19 +2317,19 @@ våld från deltagarna.
 | 2 | Risker och friskfaktorer |  |  |
 |  | Identifiera riskkällor som ni tror uppstår efter genomförd förändring och bedöm om dessa kan leda till risker för ohälsa eller<br>olycksfall. Glöm inte att även lyfta friskfaktorer som förändringen kan medföra. Om en risk ska åtgärdas - klicka på<br>skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig och datum. Klicka på pilen längst till vänster för att<br>lägga till en ny rad. |  |  |
 | 2.1 | Attraktiva arbetstider, längre pass vilket våra<br>medarbetare önskar, skapar en attraktiv arbetsplats<br>och låg personalomsättning bibehålls. Lättare att byta<br>arbetspass | 0 | Friskfaktor |
-| 2.2 | En arbetstidsförläggning på kortare arbetspass skulle<br>innebära en högre personalomsättning, mer<br>svårrekryterat och flera personalbyten under<br>helgen/vistelsen för de vi är till för. | 5*3<br>15 | Genom att schemalägga längre arbetspass<br>motverkas riskerna genom färre personalbyten<br>under deltagarnas vistelse |
+| 2.2 | En arbetstidsförläggning på kortare arbetspass skulle<br>innebära en högre personalomsättning, mer<br>svårrekryterat och flera personalbyten under<br>helgen/vistelsen för de vi är till för. | 5\*3<br>15 | Genom att schemalägga längre arbetspass<br>motverkas riskerna genom färre personalbyten<br>under deltagarnas vistelse |
 
 [Tabell 57-2](handlingar.tabeller/57-2.csv)
 
-| 2.3 | Kortare arbetspass och fler personalbyten under<br>vistelsen innebär en arbetsmiljörisk för medarbetarna.<br>Det kan skapa oro och otrygghet för deltagare och visa<br>sig genom hot och våld. | 5*3<br>15 |  |
+| 2.3 | Kortare arbetspass och fler personalbyten under<br>vistelsen innebär en arbetsmiljörisk för medarbetarna.<br>Det kan skapa oro och otrygghet för deltagare och visa<br>sig genom hot och våld. | 5\*3<br>15 |  |
 | --- | --- | --- | --- |
-| 2.4 | Att personalbyten inte behöver ske vid kvälls eller natt<br>rutiner eller mitt i aktivitet.<br>Det skapar risk för oro hos deltagarna och det<br>inskränker på möjligheten till längre aktiviteter utanför<br>enheten vilket kan innebära en brist i verksamhetens<br>uppdrag. | 5*3<br>15 | Friskfaktor;<br>-Vid färre personalbyten minskar risken för oro,<br>hot och våld<br>Riskfaktor;<br>-Hot och våld. |
+| 2.4 | Att personalbyten inte behöver ske vid kvälls eller natt<br>rutiner eller mitt i aktivitet.<br>Det skapar risk för oro hos deltagarna och det<br>inskränker på möjligheten till längre aktiviteter utanför<br>enheten vilket kan innebära en brist i verksamhetens<br>uppdrag. | 5\*3<br>15 | Friskfaktor;<br>-Vid färre personalbyten minskar risken för oro,<br>hot och våld<br>Riskfaktor;<br>-Hot och våld. |
 
 <!-- sida 58 -->
 
 Nr               Fråga              Riskvärderin      Kommentar
 g
-2.5  Det kan även medföra en större risk för händelser och 4*3
+2.5  Det kan även medföra en större risk för händelser och 4\*3
 avvikelser i medicinhantering.  12
 
 Åtgärd
@@ -2368,56 +2368,56 @@ Skyddsombud: ...................................................................
 Uppgifter som ska lämnas i samband med begäran om dispens
 I samband med begäran om dispens ska arbetsgivaren besvara följande frågor.
 
-1. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
+1\. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
 vilken.
 Begäran avser avvikelse från Bilaga J.
 
-2. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
+2\. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
 dispens?
 Begäran avser personlig assistans inom Förvaltningen för Individ & Familjeomsorg i Kungsbacka
 kommun. Begäran avser att tillämpas för de medarbetare som medföljer assistansanvändare vid
 längre resor där ordinarie schemaläggning inte är möjligt.
 
-3. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
+3\. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
 många arbetstagare i dessa grupper skulle beröras?
 Beslutet kommer att beröra de medarbetare som följer med assistansanvändare vid resor och inte
 
 inom den ordinarie schemaläggningen.
 Berörda yrkesgrupper är personliga assistenter och PAN-anställda.
 
-4. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
+4\. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
 saknas specifik kompetens eller dylikt. Om så är fallet vilken/vilka kompetenser
 saknas och vilka konsekvenser får det?
 Vid planerade resor följer personlig assistent med assistansanvändaren för att tillgodose de behov av
 stöd som individen har. Vid längre resor och/eller resor på långt avstånd till hemmet finns inte
 möjlighet till att följa ordinarie schemaläggning enligt AB Bilaga J.
 
-5. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
+5\. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
 brukare, barn, civilsamhälle eller dylikt) som särskilt behöver beaktas när
 verksamheten bemannas.
 Att ha en personlig assistent medföljande på resor är en rättighet för assistansanvändaren och ett
 lagkrav som arbetsgivare har att följa.
 
-6. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
+6\. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
 deltidsarbete, frånvaro, svårigheter att rekrytera eller dylikt?
 
 Begäran avser tillämpning inom personlig assistans vid resor under en begränsad tidsperiod. Vid
 resor planeras i största möjliga mån frivilligt medföljande medarbetare i dialog med
 assistansanvändare.
 
-7. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
+7\. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
 glesbygd med långa pendlingsavstånd eller dylikt?
 Det finns inte alltid möjlighet att följa ordinarie schema vid resor inom personlig assistans då det kan
 röra sig om stora geografiska områden inom Sverige samt till andra länder. Vid längre resor behöver
 antalet assistenter som arbetar minimeras för att möjliggöra resan för assistansanvändaren.
 
-8. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
+8\. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
 yrkesgrupp/yrkesgrupper. Bifoga statistik om sådan finns att tillgå.
 Vi arbetar enligt AB Bilaga J och det finns inga planerade insatser under jourtid.
 
 <!-- sida 60 -->
 
-9. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
+9\. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
 månaderna.
 Förväntad utveckling och belastning är oförändrad under kommande 12 månader.
 Arbetsmiljö och arbetssituation följs upp regelbundet, löpande och på varje arbetsplatsträff för att
@@ -2430,7 +2430,7 @@ självbestämmande och goda levnadsvillkor.
 Det förekommer regelbundet resor inom personlig assistans där assistenter följer med. Varje resa
 planeras individuellt utifrån assistansanvändaren behov.
 
-10. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
+10\. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
 bilaga till AB ska kunna förläggas.
 Risk och konsekvensbedömning har gjorts för att;
 -identifiera behov inom personlig assistans
@@ -2440,7 +2440,7 @@ Risk och konsekvensbedömning har gjorts för att;
 medarbetare innan under och efter resan.
 Arbetstidsförläggning med 24h arbetspass inom personlig assistans är tillämpligt enligt AB Bilaga J.
 
-11. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
+11\. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
 sammantaget uppgår till 20 timmar, inte är tillräckligt för verksamheten. Beskriv
 också vilka konsekvenser en sådan schemaläggning skulle medföra för verksamheten.
 Se punkt 2-7.
@@ -2455,7 +2455,7 @@ en god arbetsmiljö under resan. Att följa med assistansanvändaren på resa by
 medarbetarna och det finns alltid en dialog mellan assistansanvändare, medarbetare och enhetschef
 inför och under planering av resan.
 
-12. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
+12\. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
 Tidsperioden för begärt beslut är 2024-07-01 till och med 2025-06-30.
 Resor inom personlig assistans förekommer ett flertal gånger årligen.
 
@@ -2464,16 +2464,16 @@ Resor inom personlig assistans förekommer ett flertal gånger årligen.
 Uppgifter som ska lämnas i samband med begäran om dispens
 I samband med begäran om dispens ska arbetsgivaren besvara följande frågor.
 
-1. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
+1\. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
 vilken.
 Begäran avser avvikelse från Bilaga J
 
-2. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
+2\. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
 dispens?
 Begäran avser Lägerverksamheten inom Förvaltningen för Individ & Familjeomsorg i Kungsbacka
 kommun
 
-3. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
+3\. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
 många arbetstagare i dessa grupper skulle beröras?
 Berörda yrkesgrupper är timanställd personal inom Lägerverksamheten. Behovet varierar inom
 verksamheten och beroende av hur barn och familjer väljer att barnen är närvarande i
@@ -2483,7 +2483,7 @@ Arbetsgivaren kommer att aktivt arbeta för att antalet 24h pass i verksamheten 
 möjligt utan att det påverkar barnperspektivet på ett negativt sätt. De medarbetare som är
 månadsavlönade kommer arbeta enligt AB och bilaga J max 20h pass.
 
-4. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
+4\. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
 saknas specifik kompetens eller dylikt. Om så är fallet vilken/vilka kompetenser
 saknas och vilka konsekvenser får det?
 Verksamheten har tidigare tillämpat Bilaga L och haft samma personalgrupp i arbete under hela
@@ -2497,14 +2497,14 @@ det inskränker på möjligheten till längre aktiviteter utanför enheten vilke
 verksamheten. Fler personalbyten riskerar också påverka till större andel händelser och
 kommunikationsmissar kring medicinhantering/dokumentationsöverföring för brukarna.
 
-5. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
+5\. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
 brukare, barn, civilsamhälle eller dylikt) som särskilt behöver beaktas när
 verksamheten bemannas.
 Barnperspektivet bör särskilt beaktas samt familjers möjlighet till avlastning. Personalbyten och
 förändring i verksamheten kan bidra till en försämrad trygghet för barnen vilket kan leda till en lägre
 närvaro och vilja att nyttja beslut om korttidsvistelse på lägerverksamhet.
 
-6. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
+6\. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
 
 deltidsarbete, frånvaro, svårigheter att rekrytera eller dylikt?
 Lägerverksamheten bemannas idag av 7 månadsanställda medarbetare som verkar som arbetsledare
@@ -2521,7 +2521,7 @@ nyrekrytering uppgå till ca 50 medarbetare och flertalet av nuvarande medarbeta
 utanför Kungsbacka kommun har aviserat att de förmodligen ej avser att arbeta kvar. Idag har
 verksamheten en låg sjukfrånvaro, en låg personalomsättning och inget övertidsarbete förkommer.
 
-7. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
+7\. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
 
 glesbygd med långa pendlingsavstånd eller dylikt?
 Begäran om beslut grundar sig inte i första hand på geografiska förutsättningar, men enheterna där
@@ -2532,11 +2532,11 @@ genomgång/ rapportering sedan åker man gemensamt med bussen ut till enheten oc
 arbetspassets slut på söndag eftermiddag tar man sig tillbaka till Stadshuset med bussen. De allra
 flesta av dagens medarbetare bor utanför Kungsbacka kommun och saknar bil och/eller körkort.
 
-8. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
+8\. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
 yrkesgrupp/yrkesgrupper. Bifoga statistik om sådan finns att tillgå.
 Vi arbetar enligt AB Bilaga J och finns inga planerade insatser under jourtid.
 
-9. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
+9\. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
 månaderna.
 Förväntad utveckling och belastning är oförändrad under kommande 12 månader.
 Arbetsmiljö och arbetssituationen följs upp regelbundet och löpande på varje arbetsplatsträff för att
@@ -2546,7 +2546,7 @@ Barnens behov följs upp regelbundet utifrån beslut, genomförandeplan och doku
 Dialog planeras med beslutsfattande myndighet för att beslut och verksamhetsplanering säkerställer
 behovet hos barnet.
 
-10. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
+10\. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
 bilaga till AB ska kunna förläggas.
 Risk och konsekvensbedömning har gjorts för att identifiera och säkerställa behov utifrån
 barnperspektivet och enligt LSS och SoL, samt utifrån Arbetsmiljölagen för att säkerställa god
@@ -2555,7 +2555,7 @@ arbetsmiljö för medarbetarna.
 Arbetstidsförläggning med 24h arbetspass inom funktionsstödsverksamhet är tillämpligt enligt AB
 Bilaga J from 2024-04-01.
 
-11. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
+11\. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
 sammantaget uppgår till 20 timmar, inte är tillräckligt för verksamheten. Beskriv
 också vilka konsekvenser en sådan schemaläggning skulle medföra för verksamheten.
 Se punkt 4 och 5.
@@ -2565,7 +2565,7 @@ och innebär en arbetsmiljörisk för medarbetarna då det kan skapa oro och otr
 detta kan visa sig genom hot och våld. Det kan även medföra en större risk för händelser och missar i
 medicinhantering med större omsättning av personal under en vistelse.
 
-12. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
+12\. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
 Tidsperioden för begärt beslut är 2024-07-01 till och med 2025-06-30.
 
 <!-- sida 63 -->
@@ -2771,13 +2771,13 @@ sina egna resurser samt hur de statliga medlen, som fördelas enligt kultursamve
 användas.
 
 Tre strategiska utvecklingsområden lyfts i remissutgåvorna
-1. Ett fritt konst- och kulturliv
+1\. Ett fritt konst- och kulturliv
 Mål: Halland – en dynamisk och modig plats för kultur
 
-2. Engagerande kulturliv för alla
+2\. Engagerande kulturliv för alla
 Mål: Halland – en plats där alla kan delta i kulturlivet
 
-3. Kultur som samhällskraft
+3\. Kultur som samhällskraft
 Mål: Halland – en plats där kultur präglar samhället.
 
 Beslutsunderlag
@@ -3009,13 +3009,13 @@ samt hur de statliga medlen, som fördelas enligt kultursamverkansmodellen, ska
 användas.
 
 Tre strategiska utvecklingsområden lyfts i remissutgåvorna:
-1. Ett fritt konst- och kulturliv
+1\. Ett fritt konst- och kulturliv
 
 Mål: Halland – en dynamisk och modig plats för kultur
-2. Engagerande kulturliv för alla
+2\. Engagerande kulturliv för alla
 
 Mål: Halland – en plats där alla kan delta i kulturlivet
-3. Kultur som samhällskraft
+3\. Kultur som samhällskraft
 
 Mål: Halland – en plats där kultur präglar samhället
 Kommunen anser att de strategiska utvecklingsområdena och prioriteringarna är bra
@@ -3204,11 +3204,11 @@ sina egna resurser samt hur de statliga medlen, som fördelas enligt kultursamve
 användas.
 
 Tre strategiska utvecklingsområden lyfts i remissutgåvorna
-1. Ett fritt konst- och kulturliv
+1\. Ett fritt konst- och kulturliv
 Mål: Halland – en dynamisk och modig plats för kultur
-2. Engagerande kulturliv för alla
+2\. Engagerande kulturliv för alla
 Mål: Halland – en plats där alla kan delta i kulturlivet
-3. Kultur som samhällskraft
+3\. Kultur som samhällskraft
 Mål: Halland – en plats där kultur präglar samhället
 
 Kommunen anser att de strategiska utvecklingsområdena och prioriteringarna är bra och relevanta.
@@ -3322,15 +3322,15 @@ för hållbar tillväxt, Hallands hälso- och sjukvårdsstrategi samt Hallands k
 
 H allands kulturstrategi har tre övergripande kulturpolitiska mål:
 
--  Halland – en dynamisk och modig plats för kultur
--  Halland – en plats där alla kan delta i kulturlivet
--  Halland – en plats där kultur präglar samhället.
+\-  Halland – en dynamisk och modig plats för kultur
+\-  Halland – en plats där alla kan delta i kulturlivet
+\-  Halland – en plats där kultur präglar samhället.
 
 De kulturpolitiska målen är kopplade till varsitt strategiskt utvecklingsområde:
--  Konstnärligt skapande
+\-  Konstnärligt skapande
 
--  Engagerande kulturliv för alla
--  Kultur som samhällskraft
+\-  Engagerande kulturliv för alla
+\-  Kultur som samhällskraft
 
 Kulturstrategin gäller 2025–2032 och konkretiseras i två fyraåriga kulturplaner. Detta är
 den första.
@@ -3565,7 +3565,7 @@ Samverkan mellan politikområden
 Kulturen är en självklar del av samhället. När kulturen samverkar med andra
 politikområden skapas utvecklingskraft som uppfyller mål inom flera områden:
 
--  kulturella och kreativa branscher (KKB) är både en möjlighet för yrkesverksamma
+\-  kulturella och kreativa branscher (KKB) är både en möjlighet för yrkesverksamma
 kulturskapare att försörja sig och en näringslivssatsning som skapar hållbar tillväxt,
 
 15 Centrumbildningarna består just nu av Centrum för dramatik, Centrum för fotografi, Cirkuscentrum, Danscentrum,
@@ -3576,20 +3576,20 @@ Seriefrämjandet, Teatercentrum samt Översättarcentrum.
 
 <!-- sida 88 -->
 
--  kultur och besöksnäring är nära sammanlänkade då kultur ofta utgör en reseanledning
+\-  kultur och besöksnäring är nära sammanlänkade då kultur ofta utgör en reseanledning
 för besökare och gäster, och besöksnäringen genererar publik, besökare och
 intäkter åt kulturen,
--  samarbetet mellan kultur och skola är den enda möjligheten för det offentliga att
+\-  samarbetet mellan kultur och skola är den enda möjligheten för det offentliga att
 garantera att alla barn får möta kultur och nå målen i läroplanen,
--  gestaltad livsmiljö samlar arkitektur, form, design, konst och kulturmiljö för att
+\-  gestaltad livsmiljö samlar arkitektur, form, design, konst och kulturmiljö för att
 tillsammans med samhällsbyggnadsområdet skapa hållbara livsmiljöer med
 människan i centrum.
--  kultur och hälsa är ett tvärvetenskapligt område som visar på kulturens betydelse för
+\-  kultur och hälsa är ett tvärvetenskapligt område som visar på kulturens betydelse för
 människors hälsa. Kultur är centralt för livskvalitet och folkhälsa och kan bidra till
 
 att främja en god och jämlik hälsa genom ökat välmående och välbefinnande samt
 genom att motverka psykisk ohälsa,
--  kulturområdet ska även bidra till det civila försvaret av demokratin och Sverige.
+\-  kulturområdet ska även bidra till det civila försvaret av demokratin och Sverige.
 Kulturlivet är en motståndskraft i sig. Det är viktigt att så långt det är möjligt
 upprätthålla kulturverksamheterna. Detta gäller såväl kulturarv och bibliotek som
 samtida kultur.
@@ -4140,23 +4140,23 @@ arrangörsföreningar som vill presentera professionell scenkonst.
 Grunduppdrag
 
 Teater Halland
--  producera professionell scenkonst för barn, unga och vuxna på en hög konstnärlig
+\-  producera professionell scenkonst för barn, unga och vuxna på en hög konstnärlig
 nivå,
 
 20
 
 <!-- sida 102 -->
 
--  med sin verksamhet utgöra grunden för en stabil, långsiktig och väl förankrad
+\-  med sin verksamhet utgöra grunden för en stabil, långsiktig och väl förankrad
 utveckling av scenkonstproduktionen i Halland,
--  bidra till demokratiutvecklingen i samhället genom att ta aktiv del i
+\-  bidra till demokratiutvecklingen i samhället genom att ta aktiv del i
 samhällsdiskussioner, bjuda in grupper med skilda erfarenheter och våga
 problematisera det komplicerade samt
--  samverka nationellt och fortsätta söka nya internationella samarbetspartners.
+\-  samverka nationellt och fortsätta söka nya internationella samarbetspartners.
 
 Riksteatern Halland
--  Främja arrangörsutveckling med fokus på professionell scenkonst samt
--  stödja, stärka och utveckla arrangörsföreningars arbete genom kompetenshöjande,
+\-  Främja arrangörsutveckling med fokus på professionell scenkonst samt
+\-  stödja, stärka och utveckla arrangörsföreningars arbete genom kompetenshöjande,
 stödjande och samordnande insatser.
 
 Utvecklare
@@ -4187,9 +4187,9 @@ infrastrukturen för dans.
 Grunduppdrag
 
 Rum för Dans
--  Skapa ett dansutbud med bredd och spets genom gästspel, residensverksamhet och
+\-  Skapa ett dansutbud med bredd och spets genom gästspel, residensverksamhet och
 samproduktion samt
--  skapa förutsättningar för delaktighet och kunskapsutveckling kring dansområdet.
+\-  skapa förutsättningar för delaktighet och kunskapsutveckling kring dansområdet.
 
 Rum för Dans har även ett konst- och kulturfrämjande uppdrag. Uppdraget innebär att
 stödja, bevara och utveckla dansområdet samt öka dess tillgänglighet och synlighet för
@@ -4234,7 +4234,7 @@ och nationell nivå.
 Grunduppdrag
 
 Musik Hallandia
--  Verka för musikscenens utveckling och dess tillgänglighet i Halland. I samarbete
+\-  Verka för musikscenens utveckling och dess tillgänglighet i Halland. I samarbete
 och samråd med musiklivets olika aktörer – såväl regionalt som nationellt och
 internationellt – ska de producera, främja och stödja musiklivet i Halland.
 
@@ -4305,15 +4305,15 @@ förväntningar.
 Grunduppdrag
 
 Stiftelsen Hallands länsmuseer
--  Producera utställningar och programverksamhet med hög kvalitet och med ett
+\-  Producera utställningar och programverksamhet med hög kvalitet och med ett
 mångsidigt sammansatt utbud,
--  sträva efter att nå en bred publik och nya publikgrupper, med särskilt fokus på barn
+\-  sträva efter att nå en bred publik och nya publikgrupper, med särskilt fokus på barn
 och unga,
--  förvalta, utveckla och tillgängliggöra samlingarna för hela regionen,
+\-  förvalta, utveckla och tillgängliggöra samlingarna för hela regionen,
 
--  bedriva kulturmiljöverksamhet och värna kulturhistoriska värden i
+\-  bedriva kulturmiljöverksamhet och värna kulturhistoriska värden i
 samhällsutvecklingen samt
--  Hallands resurscentrum för kulturarv.
+\-  Hallands resurscentrum för kulturarv.
 
 Utvecklare
 Region Halland har utvecklare för kulturarvsområdet med ett kulturfrämjande uppdrag.
@@ -4355,9 +4355,9 @@ för Region Halland, kommunerna, företag och det civila samhället.
 Grunduppdrag
 
 Arkiv Halland
--  Ta emot, dokumentera, vårda, bevara och tillgängliggöra enskilda arkiv,
--  vägleda andra enskilda arkiv i länet, som hembygdsföreningar, samt
--  samverka med övrig arkiv- och samlingsverksamhet på Stiftelsen Hallands
+\-  Ta emot, dokumentera, vårda, bevara och tillgängliggöra enskilda arkiv,
+\-  vägleda andra enskilda arkiv i länet, som hembygdsföreningar, samt
+\-  samverka med övrig arkiv- och samlingsverksamhet på Stiftelsen Hallands
 länsmuseer.
 
 25
@@ -4480,9 +4480,9 @@ att förbättra förutsättningarna för filmproduktion i länet.
 Grunduppdrag
 
 Hallands filmresurscentrum, inom Katrinebergs folkhögskola:
--  Låna ut teknik,
--  erbjuda utbildning och nätverksträffar samt
--  erbjuda filmresidens.
+\-  Låna ut teknik,
+\-  erbjuda utbildning och nätverksträffar samt
+\-  erbjuda filmresidens.
 
 Utvecklare
 Region Halland har utvecklare för filmområdet med ett konst- och kulturfrämjande
@@ -4541,29 +4541,29 @@ för konstnärlig gestaltning.
 Grunduppdrag
 
 Hallands Konstmuseum, inom Stiftelsen Hallands Länsmuseer
--  samla, visa och vårda konst,
--  fungera som nav och drivkraft för att stärka och utveckla konstlivet i Halland samt
--  vara en mötesplats där upplevelser varvas med samtal om angelägna frågor i
+\-  samla, visa och vårda konst,
+\-  fungera som nav och drivkraft för att stärka och utveckla konstlivet i Halland samt
+\-  vara en mötesplats där upplevelser varvas med samtal om angelägna frågor i
 samtiden och ge möjlighet till fördjupad kunskap.
 
 Konst i Halland, inom Stiftelsen Hallands länsmuseer
--  samordna och driva nätverk inom bild- och formområdet; kring utställningsplatser,
+\-  samordna och driva nätverk inom bild- och formområdet; kring utställningsplatser,
 offentlig konst och konstpedagogik,
 
 29
 
 <!-- sida 111 -->
 
--  arrangera residensverksamhet och utbytesprogram med nationella och
+\-  arrangera residensverksamhet och utbytesprogram med nationella och
 internationella utblickar,
--  fortbildning för bild- och formkonstnärer samt
--  bedriva konstpedagogiskt utvecklingsarbete.
+\-  fortbildning för bild- och formkonstnärer samt
+\-  bedriva konstpedagogiskt utvecklingsarbete.
 
 Rian designmuseum
--  Innovativ arena för design med regional, nationell och internationell synlighet,
+\-  Innovativ arena för design med regional, nationell och internationell synlighet,
 
--  centrum för kunskap och bildning om design samt
--  huvudman för SPOK Halland - en digital plattform för hållbar produktion och
+\-  centrum för kunskap och bildning om design samt
+\-  huvudman för SPOK Halland - en digital plattform för hållbar produktion och
 konsumtion.
 
 Utvecklare – bild och form
@@ -4682,12 +4682,12 @@ fördelas jämnt mellan kommunerna utifrån deras förutsättningar.
 Grunduppdrag
 
 Art Inside Out
--  Främja och stödja konstnärlig och kulturell utveckling genom att bjuda in nationella
+\-  Främja och stödja konstnärlig och kulturell utveckling genom att bjuda in nationella
 och internationella konstnärer inom olika konstformer med särskilt fokus på
 samtida uttryck,
--  stärka förståelsen för konstens och kulturens roll i samhället,
--  öka tillgängligheten till konst och kultur för invånarna i Halland samt
--  främja samarbete och dialog mellan konstnärer, kulturskapare, lokalsamhället och
+\-  stärka förståelsen för konstens och kulturens roll i samhället,
+\-  öka tillgängligheten till konst och kultur för invånarna i Halland samt
+\-  främja samarbete och dialog mellan konstnärer, kulturskapare, lokalsamhället och
 
 andra kulturinstitutioner och aktörer, både nationellt och internationellt.
 
@@ -4913,68 +4913,68 @@ kulturplan 2025–2028.
 
 Scenkonst
 Teater och cirkus
--  Teater Halland*
--  Riksteatern Halland*
--  Hallands Bildningsförbund – stöd till amatörteaterföreningar
+\-  Teater Halland\*
+\-  Riksteatern Halland\*
+\-  Hallands Bildningsförbund – stöd till amatörteaterföreningar
 
--  Teater Albatross – produktioner
--  Teater Dictat – teaterproduktioner, workshoppar och samtal.
--  Västsvenska turnerande sommarteatern – gatuteater samt kunskapsplattformen Public kring
+\-  Teater Albatross – produktioner
+\-  Teater Dictat – teaterproduktioner, workshoppar och samtal.
+\-  Västsvenska turnerande sommarteatern – gatuteater samt kunskapsplattformen Public kring
 konst och kultur i det offentliga rummet
 
 Musik
--  Hallands spelmansförbund – folkmusikarrangemang, dokumentation av låtar från Halland
+\-  Hallands spelmansförbund – folkmusikarrangemang, dokumentation av låtar från Halland
 samt utbildning och konserter med ungdomsensemblen Hallandsfolk
--  Kulturverket – konserter, workshops och mötesplatser för musikintresserade
--  Solsidans Kulturförening – kulturevenemang inom olika konstformer och genrer
+\-  Kulturverket – konserter, workshops och mötesplatser för musikintresserade
+\-  Solsidans Kulturförening – kulturevenemang inom olika konstformer och genrer
 
 Kulturarv
 
--  Stiftelsen Hallands länsmuseer med Hallands kulturhistoriska museum*
--  Stiftelsen Hallands länsmuseer – resurscentrum för kulturarv
--  Hallands Bildningsförbund – hembygdskonsulent
--  Hallands Militärhistoriska Museum – museiverksamhet inklusive publika arrangemang på
+\-  Stiftelsen Hallands länsmuseer med Hallands kulturhistoriska museum\*
+\-  Stiftelsen Hallands länsmuseer – resurscentrum för kulturarv
+\-  Hallands Bildningsförbund – hembygdskonsulent
+\-  Hallands Militärhistoriska Museum – museiverksamhet inklusive publika arrangemang på
 museet och på krigshistoriskt intressanta platser i länet
--  Tjolöholms slott – centrum för kunskap med inriktning Arts and Craft.
--  Varbergs Fästning – kulturmiljö
+\-  Tjolöholms slott – centrum för kunskap med inriktning Arts and Craft.
+\-  Varbergs Fästning – kulturmiljö
 
--  Världsarvet Grimeton Radiostation – kulturmiljö
+\-  Världsarvet Grimeton Radiostation – kulturmiljö
 
 Arkiv
--  Arkiv Halland*
+\-  Arkiv Halland\*
 
 Bild och form
--  Stiftelsen Hallands Länsmuseer med Hallands Konstmuseum*
--  Konst i Halland vid Stiftelsen Hallands länsmuseer - resurscentrum
--  Rian designmuseum*
--  Konsthallen Hishult – visning av nordisk samtidskonst samt möten mellan konstnärer,
+\-  Stiftelsen Hallands Länsmuseer med Hallands Konstmuseum\*
+\-  Konst i Halland vid Stiftelsen Hallands länsmuseer - resurscentrum
+\-  Rian designmuseum\*
+\-  Konsthallen Hishult – visning av nordisk samtidskonst samt möten mellan konstnärer,
 konstarter och publik.
--  Konstliv Halland – arrangera Konstrundan i Halland
+\-  Konstliv Halland – arrangera Konstrundan i Halland
 
--  Konstnärernas Kollektivverkstad Varberg – erbjuda verkstad och kursverksamhet
--  Mjellby konstmuseum – arena för surrealistisk konst.
+\-  Konstnärernas Kollektivverkstad Varberg – erbjuda verkstad och kursverksamhet
+\-  Mjellby konstmuseum – arena för surrealistisk konst.
 
 38
 
 <!-- sida 120 -->
 
--  Teckningsmuseet i Laholm – arena för teckningskonst.
+\-  Teckningsmuseet i Laholm – arena för teckningskonst.
 
 Film
--  Katrinebergs folkhögskola – resurscentrum för film
--  Southern Sweden Film Commission – filmkommissionsverksamhet
+\-  Katrinebergs folkhögskola – resurscentrum för film
+\-  Southern Sweden Film Commission – filmkommissionsverksamhet
 
 Slöjd
--  Unnaryds Bonadsmuseum – arena för kunskap om bonadsmåleriet.
+\-  Unnaryds Bonadsmuseum – arena för kunskap om bonadsmåleriet.
 
 Distriktsorganisationer
--  Barn- och ungdomsorganisationer,
--  funktionshinderorganisationer,
+\-  Barn- och ungdomsorganisationer,
+\-  funktionshinderorganisationer,
 
--  idrottsorganisationer,
--  nykterhetsorganisationer,
--  pensionärsorganisationer och
--  studieförbund.
+\-  idrottsorganisationer,
+\-  nykterhetsorganisationer,
+\-  pensionärsorganisationer och
+\-  studieförbund.
 o  Arbetarnas Bildningsförbund (ABF),
 o  Studieförbundet Bilda,
 o  Folkuniversitetet,
@@ -4985,9 +4985,9 @@ o  Sensus studieförbund,
 o  Studiefrämjandet,
 o  Studieförbundet Vuxenskolan och
 o  RF-SISU Halland.
--  Samt Hallands Bildningsförbund.
+\-  Samt Hallands Bildningsförbund.
 
-* innebär att verksamheten även får statsbidrag inom ramen för kultursamverkansmodellen.
+\* innebär att verksamheten även får statsbidrag inom ramen för kultursamverkansmodellen.
 
 39
 
@@ -5414,11 +5414,11 @@ sammanhållen region kärnorna och omlandet lång sikt regionala centrum
 Läshänvisning
 Varje målområde redogör för
 
-1. strategiska inriktningar, vad som behöver göras
-2. planeringsförutsättningar, vilket behov som finns
+1\. strategiska inriktningar, vad som behöver göras
+2\. planeringsförutsättningar, vilket behov som finns
 
-3. utmaningar och möjligheter som behöver tas i beaktan vid planeringen
-4. vilka aktörer som tillsammans ska genomföra strategin.
+3\. utmaningar och möjligheter som behöver tas i beaktan vid planeringen
+4\. vilka aktörer som tillsammans ska genomföra strategin.
 
 7
 
@@ -6598,7 +6598,7 @@ främjas. Denna strategi tydliggör även behovet av samplanering mellan aktöre
 ökat bostadsbyggande och optimering av befintlig.
 
 Strategiska inriktningar
-•  Stärk regionala tillväxtmotorer, regionala och lokala kärnor* (under processens
+•  Stärk regionala tillväxtmotorer, regionala och lokala kärnor\* (under processens
 gång kommer dessa pekas ut) genom bebyggelseutveckling.
 
 •  Stärk bebyggelseplaneringen i redan befintliga tätorter för att minska
@@ -7840,13 +7840,13 @@ Utifrån dessa tre grundförmågor pekas sju områden ut som särskilt viktiga f
 den civila motståndskraften. Dessa kallas NATO 7 Baseline Requirements for National
 Resiliens (7NBR) och går att läsa mer om nedan: (MSB)
 
-1. Säkerhetsställande av politiskt beslutsfattande och centrala ledningsfunktioner
-2. Robust energiförsörjning
-3. Effektiv hantering av okontrollerade befolkningsrörelser
-4. Robusta system för livsmedels-och dricksvattenförsörjning
-5. Hantering av masskadeutfall
-6. Motståndskraftiga civila kommunikationssystem
-7. Robust transportsystem
+1\. Säkerhetsställande av politiskt beslutsfattande och centrala ledningsfunktioner
+2\. Robust energiförsörjning
+3\. Effektiv hantering av okontrollerade befolkningsrörelser
+4\. Robusta system för livsmedels-och dricksvattenförsörjning
+5\. Hantering av masskadeutfall
+6\. Motståndskraftiga civila kommunikationssystem
+7\. Robust transportsystem
 
 Riksintressen och allmänna intressen
 
@@ -7865,10 +7865,10 @@ enligt plan och bygglagen (PBL):
 
 <!-- sida 192 -->
 
--  Allmänna intressen enligt 2 kapitlet plan- och bygglagen
+\-  Allmänna intressen enligt 2 kapitlet plan- och bygglagen
 
--  Riksintressen enligt 3 kapitlet miljöbalken
--  Riksintressen enligt 4 kapitlet miljöbalken
+\-  Riksintressen enligt 3 kapitlet miljöbalken
+\-  Riksintressen enligt 4 kapitlet miljöbalken
 
 Allmänna intressen
 Med allmänna intressen menas samhällets gemensamma intressen som ska beaktas och
@@ -7882,15 +7882,15 @@ Med hänsyn till natur- och kulturvärden, miljö- och klimataspekter samt
 mellankommunala och regionala förhållanden ska den regionala fysiska planen enligt 2
 kap PBL främja:
 
-1. en ändamålsenlig struktur och en estetiskt tilltalande utformning av bebyggelse,
+1\. en ändamålsenlig struktur och en estetiskt tilltalande utformning av bebyggelse,
 grönområden och kommunikationsleder,
 
-2. en från social synpunkt god livsmiljö som är tillgänglig och användbar för alla
+2\. en från social synpunkt god livsmiljö som är tillgänglig och användbar för alla
 samhällsgrupper,
-3. en långsiktigt god hushållning med mark, vatten, energi och råvaror samt goda
+3\. en långsiktigt god hushållning med mark, vatten, energi och råvaror samt goda
 miljöförhållanden i övrigt,
-4. en god ekonomisk tillväxt och en effektiv konkurrens, och
-5. bostadsbyggande och utveckling av bostadsbeståndet.
+4\. en god ekonomisk tillväxt och en effektiv konkurrens, och
+5\. bostadsbyggande och utveckling av bostadsbeståndet.
 
 Riksintressen
 Riksintressen är geografiskt utpekade områden som nationellt bedöms ha särskilt viktiga
@@ -8373,11 +8373,11 @@ sömlös kedja med digital infrastruktur
 
 för konnektivitet (end-to-end)
 för data (insamling, lagring, bearbetning)
--
+\-
 för digitala tjänster (applikationer)
--
+\-
 samt för behörighet och autentisering
--
+\-
 Kap-acitet och kapacitetsbrist (elnät) Kapacitet är möjligheten att överföra el från där den
 produceras till där den används. Kapaciteten begränsas av fysiska faktorer såsom ledningarnas
 antal, tjocklek och material. För att en ugn som kräver 1 kW ska kunna drivas behöver
@@ -9158,9 +9158,9 @@ I D - 2.5 Mins
 [= J7.5 - 10 Mins
 Locations
 
-+ Current Station
+\+ Current Station
 
-+  Potentral Station
+\+  Potentral Station
 
 [rometres lBsied uoon Slågt Borr O Mälena >» SEND
 Figur 1. Körtidsanalyser för förslag Klovsten. För stegåtagande är en tillräckligt snabb körtid normalt 7,5 minuter
@@ -9179,7 +9179,7 @@ station och Hällingsjövägen, kan innebära en något förbättrad täckning a
 Kungsbacka. Centrala delarna av Kungsbacka har ungefär likvärdig geografisk täckning från
 förslag Klovsten som från nuvarande brandstationsplacering.
 
-218)
+218\)
 
 <!-- sida 221 -->
 
@@ -9588,7 +9588,7 @@ lokaler inom Klovstens verksamhetsområde.
 Kommunstyrelsen ger kommundirektören i uppdrag att inhämta räddningstjänstens yttrande över
 lokaliseringen.
 Kommunstyrelsen överlämnar till budgetberedningen att inarbeta lokaliseringen i lokalplanen för år
-2023.
+2023\.
 
 Kommunstyrelsen förklarar uppdrag att utreda en lokalisering av lokaler för räddningstjänsten, som
 lämnades 25 maj 2020, som avslutat.
@@ -9672,8 +9672,8 @@ inom rimlig tid är Klovsten att föredra också ur den synvinkeln. Detaljplanen
 vinna laga kraft Q2 2021. Därefter behöver en projektering av de nya lokalerna göras. Denna
 projektering kommer sannolikt att kräva extra lång tid. Lokaler för räddningstjänst är tekniskt
 avancerade att bygga och kräver en byggtid på två år. En inflyttning i nya lokaler bör alltså kunna ske
-2025. I den lokalplan som ska gälla 2022–2025 behöver räddningstjänstenslokaler planeras in för
-2023.
+2025\. I den lokalplan som ska gälla 2022–2025 behöver räddningstjänstenslokaler planeras in för
+2023\.
 Inom ramen för detaljplanearbetet och dess genomförande behöver förutsättningar kring
 räddningstjänstens möjlighet till utryckning, i samband med att Varbergsvägens framkomlighet
 

@@ -8359,7 +8359,7 @@ enligt de grunder som har beslutats av kommunfullmäktige.
 2 – p 7, p 8.1, p 9 – p 11 och p 13.3 – p 14.3 kan dömas till
 penningböter enligt 3 kap. 22 § andra stycket ordningslagen.
 
-\_____
+\_\_\_\_\_
 
 I ordningslagen finns bestämmelser om föreläggande och
 förverkande.

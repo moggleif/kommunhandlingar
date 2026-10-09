@@ -8884,7 +8884,7 @@ gymnasiumocharbetsmarknad@kungsbacka.se
 
 Tillsyn av gymnasieskolan Elof Lindälvs Gymnasium Enhet 4 i Kungsbacka
 kommun.
-\___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Beslut
 

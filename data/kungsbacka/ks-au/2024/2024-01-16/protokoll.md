@@ -281,7 +281,7 @@ Kommuner får lämna ekonomiskt bidrag och annat stöd till politiska partier so
 representerade i kommunfullmäktige. Syftet med stödet är att stärka partiernas
 ställning i den kommunala demokratin.
 Nuvarande regler för kommunalt partistöd antogs av kommunfullmäktige i december
-2014. För att säkerställa att reglerna följer gällande lagstiftning samt kommunens
+2014\. För att säkerställa att reglerna följer gällande lagstiftning samt kommunens
 hantering av det kommunala partistödet har en översyn av reglerna genomförts.
 
 Beslutsunderlag
@@ -327,12 +327,12 @@ inom den statliga förvaltningen till arbete utanför staten.
 
 De förslagna förändringarna är tänkta att omfatta en bredare grupp av
 tjänstepersoner. Det kan inkludera:
-- Högre tjänstepersoner, som har haft betydande beslutsbefogenheter eller tillgång
+\- Högre tjänstepersoner, som har haft betydande beslutsbefogenheter eller tillgång
 till känslig information.
 
-- Specialister: Experter och rådgivare som kan ha unik kunskap som är värdefull
+\- Specialister: Experter och rådgivare som kan ha unik kunskap som är värdefull
 för privata intressen.
-- Politiskt tillsatta tjänstemän, som har utsetts till sina positioner och kan ha
+\- Politiskt tillsatta tjänstemän, som har utsetts till sina positioner och kan ha
 
 inflytande över politiska beslut.
 Förslagen syftar till att säkerställa att övergången från offentlig till privat sektor sker
@@ -566,13 +566,13 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Biträdande kommundirektör Anders Johansson lämnar följande information:
-- Det har förekommit viss oro under veckan som gått efter konferensen Folk och
+\- Det har förekommit viss oro under veckan som gått efter konferensen Folk och
 
 Försvar i Sälen och uttalanden som gjordes då. Frågan är omhändertagen.
-- Dataskyddsombudet har inkommit med årsrapport och det är möjligt att få en
+\- Dataskyddsombudet har inkommit med årsrapport och det är möjligt att få en
 föredragning av rapporten.
 
-- Detaljplanen för verksamheter inom Frillesås-Rya har upphävts av Mark- och
+\- Detaljplanen för verksamheter inom Frillesås-Rya har upphävts av Mark- och
 miljödomstolen och kommunstyrelsens förvaltning analyserar nu domen. Ett
 eventuellt överklagande ska skickas in till domstolen inom tre veckor.
 Ordförande Lisa Andersson (M) informerar om kommande möte om regional fysisk

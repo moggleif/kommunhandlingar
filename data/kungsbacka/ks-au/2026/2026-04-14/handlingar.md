@@ -273,7 +273,7 @@ EY
 Building a better
 working world
 
-1. Granskningsinriktning
+1\. Granskningsinriktning
 
 1.1. Bakgrund
 
@@ -324,7 +324,7 @@ EY
 Building a better
 working world
 
-2. Granskningsresultat 2025
+2\. Granskningsresultat 2025
 
 2.1.1. Väsentliga händelser under året
 
@@ -527,7 +527,7 @@ EY
 Building a better
 working world
 
-3. Sammanfattande bedömning och rekommendationer
+3\. Sammanfattande bedömning och rekommendationer
 
 Vår sammanfattande bedömning är att bolagens verksamhet sköts på ändamålsenligt sätt.
 Vidare är vår bedömning att verksamheten har skötts på ett från ekonomisk synpunkt
@@ -725,7 +725,7 @@ Under året har ett omfattande ROT-projekt på
 Rosengatan 18-44 med 115 lägenheter färdigställts,
 samtidigt som renoveringen av Signeshus vård- och
 omsorgsboende har startat och ska stå klar våren
-2026. Trots hög investeringstakt har soliditeten stärkts
+2026\. Trots hög investeringstakt har soliditeten stärkts
 och ingen nyupplåning krävts. Målsättningen är att
 fortsätta på samma sätt under 2026.
 
@@ -1009,7 +1009,7 @@ Sp handlingsplaner
 
 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
-2)
+2\)
 
 <!-- sida 27 -->
 
@@ -1294,7 +1294,7 @@ Invigning av återbrukshubb i våras
 Aterbrukshubbarna drivs av ett engagerat team inom
 förvaltningen, där medarbetare frivilligt har klivit fram
 
-- :
+\- :
 Aterbruksgruppen
 Iehan, William, David
 & Jchanna
@@ -1304,7 +1304,7 @@ Dokument-ID 09222115557571174859 ==
 
 HÅLLBARHET FÖR EKSTA
 
-- små steg som
+\- små steg som
 
 RMrPatats
 ROYAL REUSERS
@@ -1851,7 +1851,7 @@ Under 2025 valde vi att arbeta med en ettårig målperiod
 för att öka flexibiliteten och bättre kunna möta förändringar.
 Arbetssättet har bidragit till hög delaktighet och tydligare
 mer konkreta mål varför vi kopierar konceptet även under
-2026. Parallellt har värdegrundsarbetet bedrivits genom
+2026\. Parallellt har värdegrundsarbetet bedrivits genom
 gemensamma dialoger och workshops, vilket har stärkt
 medarbetarnas samsyn, engagemang och samarbete i
 organisationen.
@@ -2439,7 +2439,7 @@ av lekplatsen på Frillesås Trädgårdsväg.
 ; Den1julivar ".
 
 : det inflyttning
-+ påRya Ängar
+\+ påRya Ängar
 etapp3 = +
 
 AST VOR
@@ -2719,7 +2719,7 @@ Nya rekord!
 
 Nav Vi har under året producerat 4 miljener KWh solenergi.
 
-> Där cirka 2/3 är solvärme och 1/3 sol-el.
+\> Där cirka 2/3 är solvärme och 1/3 sol-el.
 
 Ye Energianvändningen i hela vårt bestånd blev för 2025
 81 KWh/m2 A-tempsyta normalårskorrigerat.
@@ -3720,7 +3720,7 @@ kostnadsstruktur
 « bedömningar av marknadens och närområdets
 framtida utveckling
 
-+ fastigheternas marknadsförutsättningar och konkurrens-
+\+ fastigheternas marknadsförutsättningar och konkurrens-
 position
 
 » befintliga hyresavtals villkor och löptider
@@ -3906,7 +3906,7 @@ de process vid framtagandet av riskanalysen:
 Beskrivning i text över identifierade och klassificerade
 risker.
 Intern kontrollplan/riskanalys där varje risk ges ett värde
-+ utifrån sannolikhet multiplicerat med konsekvens om
+\+ utifrån sannolikhet multiplicerat med konsekvens om
 
 risken faller ut.
 
@@ -3987,23 +3987,23 @@ PRIORITERINGAR I VERKSAMHETEN
 hyresgäster så att de och besökare trivs och känner
 trygghet i sitt boende.
 
-+ Vi skall tillföra fler nya och attraktiva bostäder med
+\+ Vi skall tillföra fler nya och attraktiva bostäder med
 hyresrätt som upplåtelseform byggda i passivhus-
 teknik.
 
-+ Vi skall ha en aktiv markstrategi för att långsiktigt
+\+ Vi skall ha en aktiv markstrategi för att långsiktigt
 säkerställa möjligheten att själva utveckla nya bo-
 stadsområden.
 
-+ Vi skall pröva standardiserade koncepthus för att
+\+ Vi skall pröva standardiserade koncepthus för att
 möjliggöra rimliga byggkostnader och hyror.
 
-+ Vi skall ta största möjliga miljöhänsyn när vi tillgo-
+\+ Vi skall ta största möjliga miljöhänsyn när vi tillgo-
 doser behovet av bostäder i kommunen. På så vis
 förstör vi inte kommande generationers möjligheter
 att bygga och bo.
 
-+ Vi skall med ett passionerat och nyfiket förhållnings-
+\+ Vi skall med ett passionerat och nyfiket förhållnings-
 sätt hela tiden vidareutveckla Ekstas energikoncept
 
 Dokument-ID 09222115557571174859 =
@@ -4051,24 +4051,24 @@ att vara med och påverka.
 » Vi skall bygga bra hus för denna och kommande
 generationer.
 
-+ Vi skall aktivt verka för rimliga byggproduktionskost-
+\+ Vi skall aktivt verka för rimliga byggproduktionskost-
 nader.
 
 e Vi skall arbeta i samarbetsformer såsom partnering,
 där beställare och entreprenör driver projekt med
 gemensamt ansvar för ekonomi och kvalitet.
 
-+ Vi skall genom byggande av passivhus illustrera
+\+ Vi skall genom byggande av passivhus illustrera
 nödvändigheten och möjligheten att effektivisera
 energianvändningen ur ett LCA-perspektiv.
 
-+ Vi skall ta steget mot ett ökat inslag av träbyggnation
+\+ Vi skall ta steget mot ett ökat inslag av träbyggnation
 även konstruktionsmässigt
 
 » Vi skall lägga vårt fokus på att använda så lite energi
 som möjligt ur ett livskostnadsperspektiv.
 
-+ Vi skall använda de energislag som ger minsta
+\+ Vi skall använda de energislag som ger minsta
 möjliga miljöpåverkan.
 
 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
@@ -5358,14 +5358,14 @@ REVISIONSBERÄTTELSE
 
 REVISIONSBERÄTTELSE
 
-+ utvärderar vi den övergripande presentationen, strukturen
+\+ utvärderar vi den övergripande presentationen, strukturen
 och innehållet i årsredovisningen och koncernredovisning-
 en, däribland upplysningarna, och om årsredovisningen
 och koncernredovisningen återger de underliggande
 transaktionerna och händelserna på ett sätt som ger en
 rättvisande bild.
 
-+ planerar och utför vi koncernrevisionen för att inhämta
+\+ planerar och utför vi koncernrevisionen för att inhämta
 tillräckliga och ändamålsenliga revisionsbevis avseende
 den finansiella informationen för företag eller affärsenhe-
 terna inom koncernen som grund för att göra ett uttalande
@@ -5717,7 +5717,7 @@ nn « un
 
 NN 8 »
 
-|
+\|
 
 LGH M?
 
@@ -6021,7 +6021,7 @@ Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 70
 
-- EEETETI17AR SA Pr ue
+\- EEETETI17AR SA Pr ue
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 88 -->
@@ -6137,7 +6137,7 @@ Styrelsen och Verkställande direktören för Tempo-
 hus Kungsbacka AB, 559151-1349, avger följande
 berättelse för bolagets verksamhet 2025-01-01-2025-
 12-31. Bolaget är helägt av Eksta Bostads AB 556497-
-8293. Tempohus Kungsbacka AB hänvisar till Eksta
+8293\. Tempohus Kungsbacka AB hänvisar till Eksta
 Bostads AB:s hållbarhetsrapport för 2025. Rapporten
 går att ladda ner och läsa på www.eksta.se.
 
@@ -6595,7 +6595,7 @@ Ingående ack. Anskaffningsvärden 529929 529 929 Upplupna driftskostnader 89235
 Nyanskaffning under året 150 000 [0] Upplupna projektkostnader 457 768
 Utgående ack. Anskaffningsvärden 679 929 529 929 Summa 324 136 724 77
 
-- oo Not 13 - Kassaflödesanalys
+\- oo Not 13 - Kassaflödesanalys
 Ingående ack Avskrivning 124557 20724 Kassaflödesanalysen har upprättats enligt indirekt
 Årets avskrivning enligt plan 125 999 -103 832 metod. Redovisat kassaflöde har justerats för ej likvidi-
 tetspåverkande poster för att på så vis ge en rättvisan-
@@ -7155,18 +7155,18 @@ utveckla grunderna för prövningstillstånd och överklagande.
 YRKANDE
 
 Kungsbacka kommun (Kommunen) yrkar att kammarrätten i Göteborg meddelar prövningstillstånd på
-de grunder som anges i 34 a $ andra stycket 1-2 och 3 punkterna förvaltningsprocesslagen (1971:291).
+de grunder som anges i 34 a \$ andra stycket 1-2 och 3 punkterna förvaltningsprocesslagen (1971:291).
 
 Kommunen yrkar att kammarrätten i Göteborg med ändring av förvaltningsrättens dom och
-Länsstyrelsen i Hallands läns beslut ska fastställa 15 a $ (förbud mot användning av lustgas i
-berusningssyfte), tillhörande bilaga 6, den text i bilaga 3 som gäller 15 a $, i lokala
+Länsstyrelsen i Hallands läns beslut ska fastställa 15 a \$ (förbud mot användning av lustgas i
+berusningssyfte), tillhörande bilaga 6, den text i bilaga 3 som gäller 15 a \$, i lokala
 ordningsföreskrifter för Kungsbacka kommun, i enlighet med kommunfullmäktiges beslut den 16 juni
-2025, $ 121.
+2025, \$ 121.
 
 Kommunen yrkar i andra hand att kammarrätten ska fastställa förbudsområdets utbredning och
 överlämna till kommunen att förtydliga föreskriften på så sätt att det överst på varje sida i bilaga 6
-läggs till ”Förbudet gäller på offentliga platser, enligt 15 a $”, samt att en hänvisning till 15 a $ läggs
-till i 3 $ punkt 4 och punkt 6.
+läggs till ”Förbudet gäller på offentliga platser, enligt 15 a \$”, samt att en hänvisning till 15 a \$ läggs
+till i 3 \$ punkt 4 och punkt 6.
 
 GRUNDER
 Kommunen åberopar och vidhåller samma omständigheter om åberopats i förvaltningsrätten.
@@ -7515,7 +7515,7 @@ Länsstyrelsens beslut 2025-07-15, dnr 5072-2025, bilaga 1
 SAKEN
 Upphävande av allmänna lokala ordningsföreskrifter enligt ordningslagen
 (1993:1617), förkortad OL
-_____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 FÖRVALTNINGSRÄTTENS AVGÖRANDE
 Förvaltningsrätten avslår överklagandet.
 Avgörandet är elektroniskt undertecknat
@@ -7858,7 +7858,7 @@ meddela lokala föreskrifter enligt ordningslagen, att detta beslut
 
 anslås på kommunens anslagstavla enligt 8 kap. 9-11 §§ kommunal-
 lagen (2017:725). Beslutet ska vara anslaget till och med den 5 augusti
-2025.
+2025\.
 
 Beskrivning av ärendet
 
@@ -8060,16 +8060,16 @@ och säkerhet på offentliga platser m.m.
 
 Av 1 kap. 2 § OL framgår att med offentlig plats avses:
 
-1. allmänna vägar,
+1\. allmänna vägar,
 
-2. gator, vägar, torg, parker och andra platser som i detaljplan
+2\. gator, vägar, torg, parker och andra platser som i detaljplan
 redovisas som allmän plats och som har upplåtits för sitt ändamål,
 
-3. områden som i detaljplan redovisas som kvartersmark för
+3\. områden som i detaljplan redovisas som kvartersmark för
 hamnverksamhet, om de har upplåtits för detta ändamål och är
 tillgängliga för allmänheten, samt
 
-4. andra landområden och utrymmen inomhus som stadigvarande
+4\. andra landområden och utrymmen inomhus som stadigvarande
 används för allmän trafik.
 
 Enligt bestämmelsens andra stycke får en kommun, efter
@@ -8236,7 +8236,7 @@ va
 tarecudorP
 •
 TP
--
+\-
 v
 3
 ditednagalkrevÖ
@@ -8247,10 +8247,10 @@ röf
 ragninsivnA
 Bilaga 2
 Hur man  överklagar                                      FR-03
-________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3. Tala om vilka bevis du vill hänvisa till.
+3\. Tala om vilka bevis du vill hänvisa till.
 Förklara vad du vill visa med varje bevis.
 Överklaga skriftligt inom 3 veckor
 Skicka med skriftliga bevis som inte redan
@@ -8286,10 +8286,10 @@ förvaltningsrätten överklagandet och alla
 handlingar i målet vidare till kammarrätten.
 Har du tidigare fått brev genom förenklad Så här gör du
 delgivning kan även kammarrätten skicka brev
-1. Skriv förvaltningsrättens namn och
+1\. Skriv förvaltningsrättens namn och
 på detta sätt.
 målnummer.
-2. Förklara varför du tycker att beslutet ska
+2\. Förklara varför du tycker att beslutet ska
 ändras. Tala om vilken ändring du vill ha
 och varför du tycker att kammarrätten ska
 
@@ -8307,7 +8307,7 @@ va
 tarecudorP
 •
 TP
--
+\-
 v
 3
 ditednagalkrevÖ
@@ -8474,29 +8474,29 @@ Kungsbackaborna
 
 Exempel från andra kommuner
 
-- I Hagfors 2024 satte man upp ett mål på 12 025 m? bekämpad yta - invånarna nådde hela
+\- I Hagfors 2024 satte man upp ett mål på 12 025 m? bekämpad yta - invånarna nådde hela
 26 599 m?, alltså 221 946 av målet.
 
-- I Lilla Edet satsades 50 000 kr, varav 18 000 gick direkt till belöningar. Kommunen
+\- I Lilla Edet satsades 50 000 kr, varav 18 000 gick direkt till belöningar. Kommunen
 konstaterar att det var en billig och effektiv satsning som engagerade många fler än man
 kunnat göra med egna resurser.
 
 Fördelar för Kungsbacka
 
-- Arbetet kan göras på sommaren när kommunens personal har semester,
+\- Arbetet kan göras på sommaren när kommunens personal har semester,
 
-- Invånarna får vara med och förbättra sitt närområde.
+\- Invånarna får vara med och förbättra sitt närområde.
 
-- Ungdomar och föreningar får en rolig och meningsfull aktivitet.
+\- Ungdomar och föreningar får en rolig och meningsfull aktivitet.
 
-- Kommunens resurser frigörs till svårare arter som parkslide och jätteloka.
-- Media uppmärksammar det positiva - ett projekt som skapar engagemang,
+\- Kommunens resurser frigörs till svårare arter som parkslide och jätteloka.
+\- Media uppmärksammar det positiva - ett projekt som skapar engagemang,
 gemenskap och stolthet,
 
 Yrkande
 Med stöd av ovanstående yrkar partiet Kungsbackaborna:
 
-- Att Kungsbacka kommun utreder förutsättningarna för att införa Crowdsorsa eller
+\- Att Kungsbacka kommun utreder förutsättningarna för att införa Crowdsorsa eller
 
 liknande som ett komplement i arbetet mot invasiva arter och återkommer till
 fullmäktige med förslag till beslut.
@@ -8670,11 +8670,11 @@ Därutöver styr även nämndernas skolmatsbeställningar samt kommunfullmäktig
 Services tillämpliga mål inom området.
 
 Mål och beslut som berör området är bland annat:
-- Kommunfullmäktiges mål att matens klimatpåverkan från de offentliga måltiderna ska minska
+\- Kommunfullmäktiges mål att matens klimatpåverkan från de offentliga måltiderna ska minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030. I sitt arbete följer nämnden för
 Service bland annat upp nyckeltal rörande matsvinn per portion.
 
-- Nämnden för Förskola & Grundskola beslutade den 17 maj 2023 att ta bort helvegetariska dagar i
+\- Nämnden för Förskola & Grundskola beslutade den 17 maj 2023 att ta bort helvegetariska dagar i
 skolan och förskolan så att elever alltid ska kunna välja på minst en rätt med animaliskt protein,
 företrädelsevis fisk, fågel, kött eller skaldjur.
 
@@ -9019,7 +9019,7 @@ Diarienummer
 2025–00743
 
 Svar på motion - Mera grön och blå mat i Kungsbacka kommun (KS-2025-
-00809)
+00809\)
 
 Förslag till beslut i nämnden för Förskola och Grundskola
 
@@ -10003,17 +10003,17 @@ Stödformer    för dig  som  bedriver   kommersiell
 
 service  på  landsbygd
 
-1. Särskilt driftstöd
+1\. Särskilt driftstöd
 
 Stöd till dig som driver en dagligvarubutik med lägre omsättning i ett
 område där servicen är gles. Stödet kan sökas årligen.
-2. Servicebidrag
+2\. Servicebidrag
 Stöd som kan lämnas till företag med dagligvarubutik eller
 drivmedelstation i områden där servicen är gles. Bidrag lämnas om
 
 företaget har drabbats av tillfälliga problem med lönsamheten och
 andra åtgärder har varit otillräckliga.
-3. Investeringsstöd
+3\. Investeringsstöd
 Stöd till investeringar i syfte att bibehålla och utveckla servicen.
 Detta kan exempelvis användas för ombyggnad av lokaler eller för
 
@@ -10105,12 +10105,12 @@ försäljningsställe.
 Företaget har fasta lokaler.
 Stödet får enbart användas till utgifter för:
 
--  inköp av inredning eller utrustning,
--  anskaffning, ny-, till- eller ombyggnad av lokal och i direkt anslutning
+\-  inköp av inredning eller utrustning,
+\-  anskaffning, ny-, till- eller ombyggnad av lokal och i direkt anslutning
 till lokalen.
--  större reparation av lokal.
--  kompetensinsatser för anställda.
--  och åtgärdsprogram som förbättrar lönsamhet.
+\-  större reparation av lokal.
+\-  kompetensinsatser för anställda.
+\-  och åtgärdsprogram som förbättrar lönsamhet.
 
 Regionala   prioriteringar    vid beslut  för ansökan
 
@@ -10137,9 +10137,9 @@ regionala och nationella långsiktiga mål. strategiska skäl är
 betydelsefulla, ska
 Regionen bedömer:
 prioriteras.
--  Avstånd till närmsta alternativa service
--  Verksamhetens omsättning
--  Investeringens förväntade effekter
+\-  Avstånd till närmsta alternativa service
+\-  Verksamhetens omsättning
+\-  Investeringens förväntade effekter
 Bemannade och obemannade butiker bedöms på olika grunder. Se mer på
 sida 12.
 
@@ -10159,7 +10159,7 @@ ligger i glesare landsbygd.
 5-10 km: lägre prioriterat, endast för dagligvarubutiker,
 drivmedelsstationer ej prioriterade.
 
-> 10 km: högt prioriterat för både dagligvarubutiker och
+\> 10 km: högt prioriterat för både dagligvarubutiker och
 drivmedelsstationer.
 
 Verksamhetens omsättning
@@ -10170,7 +10170,7 @@ resurser att göra investeringar i sin verksamhet utan ett
 investeringsstöd. De verksamheter som har över 40 miljoner kronor i
 omsättning förväntas kunna göra fler investeringar på egen hand.
 
-> 40 miljoner kronor: prioritet låg
+\> 40 miljoner kronor: prioritet låg
 15-40 miljoner kronor: prioritet medel
 
 0-15 miljoner kronor: prioritet hög
@@ -10234,10 +10234,10 @@ bemannade. För att obemannade butiker inte ska konkurrera med
 
 bemannade butiker handläggs ansökningar på följande vis:
 
-- Driver du en obemannad butik kommer avstånd till närmsta
+\- Driver du en obemannad butik kommer avstånd till närmsta
 alternativa butik räknas till närmsta bemannade såväl som
 obemannade  butik
-- Driver du en bemannad butik räknas inte avståndet till
+\- Driver du en bemannad butik räknas inte avståndet till
 
 närliggande obemannade butiker, utan till närmsta alternativa
 bemannade  butik.
@@ -10961,13 +10961,13 @@ Regionalt serviceprogram Halland 2026–2030 29
 
 <!-- sida 205 -->
 
-1. Nyetablering, eller förhindrar eventuell nedläggning av en
+1\. Nyetablering, eller förhindrar eventuell nedläggning av en
 
 butik – En huvudsaklig prioritering eftersom det är grunden i att
 skapa hög tillgänglighet till service. Genom att stötta
 nyetableringar och förhindra nedläggningar blir Halland en
 region med fler servicepunkter.
-2. Nya serviceslag eller stärkt kommersiell service – En
+2\. Nya serviceslag eller stärkt kommersiell service – En
 
 huvudsaklig prioritering eftersom det är grunden i att skapa ett
 bättre utbud av kommersiell service. De butiker som redan är
@@ -10975,28 +10975,28 @@ verksamma ska kunna söka stöd för att ta nästa steg och
 utveckla sitt utbud av service för att gynna kunderna som bor,
 lever och verkar i Halland.
 
-3. Miljömässig hållbarhet – En hög prioritering. Halland ska växa
+3\. Miljömässig hållbarhet – En hög prioritering. Halland ska växa
 hållbart och stöd bör därmed beviljas för investeringar som bland
 annat bidrar till att minska utsläpp av växthusgaser och minskar
 energianvändning.
-4. Social hållbarhet – En hög prioritering. Halland ska växa hållbart
+4\. Social hållbarhet – En hög prioritering. Halland ska växa hållbart
 
 och stöd bör därmed beviljas till investeringar som bidrar till
 social hållbarhet. Bland annat genom att skapa sociala
 mötesplatser samt om särskilda grupper påverkas positivt av
 investeringen.
-5. Besöksnäringssynpunkt – Investeringar som stärker de
+5\. Besöksnäringssynpunkt – Investeringar som stärker de
 
 halländska landsbygderna som besöksdestination prioriteras för
 att gynna samhället och besöksnäringen runtomkring
 servicepunkten.
-6. Beredskapssynpunkt – Investeringar som stärker de halländska
+6\. Beredskapssynpunkt – Investeringar som stärker de halländska
 landsbygderna ur ett beredskapsperspektiv prioriteras för att
 
 bättre kunna möta kriser.
-7. Innovativa lösningar – Investeringar som är kreativa och
+7\. Innovativa lösningar – Investeringar som är kreativa och
 nytänkande prioriteras för att främja innovation.
-8. Kompetens inom verksamheten – Investeringar som bidrar till
+8\. Kompetens inom verksamheten – Investeringar som bidrar till
 att höja kompetensen inom verksamheten prioriteras för att
 
 personal ska kunna utbildas och på så sätt leverera bättre

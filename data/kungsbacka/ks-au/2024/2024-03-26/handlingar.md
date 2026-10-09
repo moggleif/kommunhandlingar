@@ -148,7 +148,7 @@ medlemskommunerna tillfälle att yttra sig över ett samrådsunderlag
 avseende budget för nästkommande år. Inför år 2025 har förslag till
 samrådsunderlag inför beslut kring rambudget tagits fram.
 Medlemskommunernas synpunkter ska vara GR tillhanda senast 17 april
-2024. Beslut fattas i förbundsstyrelsen 24 maj och i förbundsfullmäktige
+2024\. Beslut fattas i förbundsstyrelsen 24 maj och i förbundsfullmäktige
 11 juni.
 Beslutsunderlag
 Tjänsteskrivelse daterad 24 januari 2024.
@@ -1013,7 +1013,7 @@ nr 4810-22
 
 SAKEN                   Antagande av detaljplan för verksamheter inom del av Frillesås-Rya 3:77
 m.fl. i Kungsbacka kommun
-________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Yrkande
 
@@ -1047,7 +1047,7 @@ kallat manusstopp samt därefter behandlas av kommunstyrelsen. Kommunstyrelsen b
 inom en vecka från denna tidpunkt.
 Kungsbacka som ovan
 
-____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Lisa Andersson, kommunstyrelsens ordförande
 Beslut fattat med stöd av delegering. Kommunstyrelsens delegeringsförteckning, Kommunallagen 6
 kap 39 §, punkt 2.1.1, 2023-09-26, § 198
@@ -1100,7 +1100,7 @@ Kommunfullmäktige i Kungsbacka kommuns beslut den 18 oktober 2022 i ärende
 SAKEN
 Antagande av detaljplan för verksamheter inom del av Frillesås-Rya 3:77 m.fl. i
 Kungsbacka kommun
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 DOMSLUT
 
@@ -1108,7 +1108,7 @@ Mark- och miljödomstolen upphäver Kommunfullmäktige i Kungsbacka kommuns
 beslut den 18 oktober 2022 (§ 164, dnr 2020-00131) att anta detaljplan för
 
 verksamheter inom del av Frillesås-Rya 3:77 m.fl.
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dok.Id 606050
 Postadress     Besöksadress Telefon      Telefax       Expeditionstid
@@ -1134,7 +1134,7 @@ vidare att detaljplanen ska vara flexibel för att kunna inrymma både höglager
 ytkrävande, såväl som mindre, verksamheter.
 
 YRKANDEN  M.M.
--          och           (Frillesås-Rya 3:124) har, så som mark-
+\-          och           (Frillesås-Rya 3:124) har, så som mark-
 
 och miljödomstolen uppfattat det, yrkat att domstolen ska upphäva beslutet att anta
 detaljplanen. Till stöd för sin talan har de i huvudsak anfört följande.
@@ -1245,7 +1245,7 @@ nyligen investerat i ett nytt ridhus. Förlorar de intäkter kommer de i en svå
 ekonomisk situation. De skulle vilja veta hur kommunen ska kompensera dem för
 detta. Deras företag räknas tydligen inte när kommunen enligt planbeskrivningen (s.
 
-5) vill uppnå Västsveriges bästa företagsklimat.
+5\) vill uppnå Västsveriges bästa företagsklimat.
 
 Jordbruksmark
 
@@ -1603,7 +1603,7 @@ att tillmötesgå klagandens (Kulla 1:73) möjlighet att fortsatt kunna arrender
 marken för egna behov. Inom användningsområdet Z i söder har byggrätten
 justerats för att byggnaderna bättre ska harmonisera med omgivande miljöer.
 
--          och           överklagande (  -   :
+\-          och           överklagande (  -   :
 Landskapsbilden
 
 Det hänvisas till det inledande avsnittet ovan. Kommunen är medveten om att
@@ -2076,12 +2076,12 @@ De störningar som klagandena har påtalat utöver buller kan inte heller anses 
 en betydande olägenhet i den mening som avses i 2 kap. 9 § plan- och bygglagen.
 
 Dagvattenhantering
--         och           har anfört att de motsätter sig intrång för
+\-         och           har anfört att de motsätter sig intrång för
 
 dagvattenhantering/anläggningar på deras fastighet. Kommunen har inom ramen för
 
 framtagandet av detaljplanen gjort en dagvattenutredning. I planbeskrivningen (s.
-29) anges att det ”[f]ör avledning av skyfall söderut behöver säkras rättighet för
+29\) anges att det ”[f]ör avledning av skyfall söderut behöver säkras rättighet för
 
 avledning över fastigheten Frillesås-Rya 3:124”. Vad klagandena har anfört i denna
 del utgör inte skäl för att upphäva detaljplanen.
@@ -2214,7 +2214,7 @@ Mark- och miljödomstolen
 HUR MAN ÖVERKLAGAR,  se bilaga 2 (MMD-02)
 Överklagande senast den 1 februari 2024
 
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 I domstolens avgörande har deltagit rådmannen ordförande, och
 
 tekniska rådet
@@ -2235,7 +2235,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL
 Kommunfullmäktige Datum
 2022-10-18
 
-Kommunstyrelsens arbetsutskott 2022-09-13, $ 291
+Kommunstyrelsens arbetsutskott 2022-09-13, \$ 291
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-08-24
 Plankarta upprättad december 2021, reviderad augusti 2022
 Planbeskrivning upprättad december 2021, reviderad augusti 2022
@@ -2254,7 +2254,7 @@ Länsstyrelsens granskningsyttrande 2021-09-15
 
 Översiktskarta
 
-Kommunstyrelsen 2016-11-15, $ 229
+Kommunstyrelsen 2016-11-15, \$ 229
 
 Förslag till beslut på sammanträdet
 
@@ -2297,12 +2297,12 @@ för överklagande finns på sista sidan i domen.
 Prövningstillstånd i Mark- och miljö-
 Så här gör du
 överdomstolen
-1. Skriv mark- och miljödomstolens namn och
+1\. Skriv mark- och miljödomstolens namn och
 När överklagandet kommer in till Mark- och
 målnummer.
 miljööverdomstolen tar domstolen först ställning
 till om målet ska tas upp till prövning.
-2. Förklara varför du tycker att domen ska ändras.
+2\. Förklara varför du tycker att domen ska ändras.
 Tala om vilken ändring du vill ha och varför
 Mark- och miljööverdomstolen ger prövnings-
 du tycker att Mark- och miljööverdomstolen
@@ -2311,7 +2311,7 @@ ska ta upp ditt överklagande (läs mer om
 prövningstillstånd längre ner).
  Domstolen bedömer att det finns anledning att
 tvivla på att mark- och miljödomstolen dömt
-3. Tala om vilka bevis du vill hänvisa till. Förklara
+3\. Tala om vilka bevis du vill hänvisa till. Förklara
 rätt.
 ör       vad du vill visa med varje bevis. Skicka med
 d.
@@ -2320,7 +2320,7 @@ skriftliga bevis som inte redan finns i målet.
 A v                                        Domstolen anser att det inte går att bedöma
 ver
 ket,
-4. Lämna namn samt aktuella och fullständiga
+4\. Lämna namn samt aktuella och fullständiga
 om mark- och miljödomstolen har dömt rätt
 mst
 ols
@@ -2400,7 +2400,7 @@ tt
 t
 s
 f
--
+\-
 ör att ge
 o
 Pr       kontaktuppgifter.
@@ -2428,7 +2428,7 @@ i
 m
 o
 D                                         Vill du veta mer?
-- 2    Vad händer sedan?
+\- 2    Vad händer sedan?
 0                                         Ta kontakt med mark- och miljödomstolen om du
 -D
 M      Mark- och miljödomstolen kontrollerar att har frågor. Adress och telefonnummer finns på
@@ -2445,7 +2445,7 @@ ver
 kla ga n
 d
 •
--
+\-
 o
 2
 m
@@ -2679,7 +2679,7 @@ ommunstyrelsen 2016-11-15
 
 Kungsbacka
 
-$ 229
+\$ 229
 
 Utveckling av Rya verksamhetsområde i Frillesås
 KS/2016:135 7.1.2
@@ -2714,7 +2714,7 @@ den nya delen av Rya har en potential på uppemot 250.000 kvm.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott, 2016-11-08, $ 287
+Kommunstyrelsens arbetsutskott, 2016-11-08, \$ 287
 Kommunledningskontorets tjänsteskrivelse, 2016-10-19
 
 Expedierat/bestyrkt
@@ -2930,7 +2930,7 @@ Begära     planbesked
 
 Ärendenummer: #108556 | Inskickat av:   | 2023-12-20 15:33
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -2945,7 +2945,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -2970,7 +2970,7 @@ Ja
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -2989,7 +2989,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -2999,7 +2999,7 @@ Situationskarta
 
 Illustrationskarta 2023-11-02.pdf (741 KB)
 
-2. PLANKARTA ORGINAL.pdf (1,68 MB)
+2\. PLANKARTA ORGINAL.pdf (1,68 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 

@@ -49,8 +49,8 @@ Ordförande
 
 Protokolljusterare
 
-Magdalena Sundqvist (S) $$ 180-188
-Stefan Jägnert (SD) $$ 184-188
+Magdalena Sundqvist (S) \$\$ 180-188
+Stefan Jägnert (SD) \$\$ 184-188
 Fredrik Kollberg (KD)
 
 Tjänstepersoner
@@ -64,28 +64,28 @@ Lovisa Eld, samhällsbyggnadschef
 
 Malin Larsson, controller, 3 184
 
-Christina Hermansson, ekonomichef, $ 185
+Christina Hermansson, ekonomichef, \$ 185
 
-Maria Warg, specialist ekonomi, $ 185
+Maria Warg, specialist ekonomi, \$ 185
 
-Maria Rosenberg, verksamhetschef, Service, $ 186
-Jenny Törn, projektledare bygg, Service, $ 186
+Maria Rosenberg, verksamhetschef, Service, \$ 186
+Jenny Törn, projektledare bygg, Service, \$ 186
 
-Johan Gerremo, verksamhetschef samhällsbyggnadskontoret, $ 186
-Sven Erik Bergström, specialist hållbarhet, $ 187
+Johan Gerremo, verksamhetschef samhällsbyggnadskontoret, \$ 186
+Sven Erik Bergström, specialist hållbarhet, \$ 187
 
-Lena Melvinsdotter, exploateringsingenjör, $ 187
-Ing-Britt Blomberg, specialist budget, $ 187
+Lena Melvinsdotter, exploateringsingenjör, \$ 187
+Ing-Britt Blomberg, specialist budget, \$ 187
 
-Peter Johansson, projektledare bygg, Service, $ 187
-David Dagemark, projektledare, Kultur & Fritid, $ 187
+Peter Johansson, projektledare bygg, Service, \$ 187
+David Dagemark, projektledare, Kultur & Fritid, \$ 187
 Övriga
 
-Jonas Jonsson, projektchef, Skanska, $ 187
+Jonas Jonsson, projektchef, Skanska, \$ 187
 
 Digital justering,
 
-Andrea Egerlundh Paragrafer $ 179-188
+Andrea Egerlundh Paragrafer \$ 179-188
 
 Fredrik Hansson
 
@@ -97,7 +97,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL
 Kommunstyrelsens arbetsutskott Datum
 2024-05-21
 Innehåll
-$ 179 Dnr KS-2024-00168
+\$ 179 Dnr KS-2024-00168
 Svar på Klimat- och näringslivsdepartementets remiss av betänkandet
 Areella näringar Vid Väattelh s...ssmsssssssssssrrrrrrerrrssrrrnrrreerrsnrrrrrrrrerrrrrr rr rr rr rer n nn 3
 
@@ -105,17 +105,17 @@ Areella näringar Vid Väattelh s...ssmsssssssssssrrrrrrerrrssrrrnrrreerrsnrrrrr
 
 3 181
 
-$ 182
+\$ 182
 
-$ 183
+\$ 183
 
-$ 184
+\$ 184
 
 8 185
 
-$ 186
+\$ 186
 
-$ 187
+\$ 187
 
 3 188
 
@@ -163,7 +163,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (15)
 Kommunstyrelsens arbetsutskott Datum
 2024-05-21
 
-$ 179 Dnr KS-2024-00168
+\$ 179 Dnr KS-2024-00168
 
 Svar på Klimat- och näringslivsdepartementets remiss av betänkandet
 Areella näringar vid vatten
@@ -179,7 +179,7 @@ Kungsbacka kommun har lämnats tillfälle att yttra sig över Klimat- och
 näringslivsdepartementets betänkande om Areella näringar vid vatten (SOU
 2023:103). Utredningens uppdrag har varit att föreslå lagändringar och andra
 åtgärder som moderniserar och förtydligar undantagsbestämmelsen från
-strandskyddet som regleras i 7 kap. 16 $ 1 p. miljöbalken. I stora drag är
+strandskyddet som regleras i 7 kap. 16 \$ 1 p. miljöbalken. I stora drag är
 utredningens slutsats att det finns skäl för att vattenbruk ska ingå i de verksamheter
 som ska undantas från strandskydd men att övriga näringar inte bör omfattas av
 undantagsbestämmelsen. I stället föreslås en ny möjlighet till dispens från
@@ -192,11 +192,11 @@ Kommunstyrelsens förvaltnings tjänsteskrivelse, 2024-04-26
 
 Yttrande, 2024-04-24
 
-Nämnden för Miljö & Hälsoskydd 2024-04-11, $ 53
+Nämnden för Miljö & Hälsoskydd 2024-04-11, \$ 53
 
 Nämnden för Miljö & Hälsoskydds yttrande, 2024-04-02
 
-Byggnadsnämnden 2024-04-18, $ 93
+Byggnadsnämnden 2024-04-18, \$ 93
 
 Byggnadsnämndens yttrande, 2024-03-25
 
@@ -221,7 +221,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (15)
 Kommunstyrelsens arbetsutskott Datum
 2024-05-21
 
-$ 180 Dnr KS-2024-00201
+\$ 180 Dnr KS-2024-00201
 
 Svar på Landsbygds- och infrastrukturdepartementets remiss av
 förslag till införande av gränsvärden för klimatdeklarationer av
@@ -261,7 +261,7 @@ Yttrande, 2024-05-06
 
 Eksta AB, 2024-05-03
 
-Nämnden för Service 2024-04-25, $ 38
+Nämnden för Service 2024-04-25, \$ 38
 
 Förvaltningen för Services tjänsteskrivelse, 2024-04-11
 
@@ -303,7 +303,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (15)
 Kommunstyrelsens arbetsutskott Datum
 2024-05-21
 
-$ 181 Dnr KS-2024-00275
+\$ 181 Dnr KS-2024-00275
 
 Svar på Räddningstjänsten i Storgöteborgs (RSG) remiss av underlag
 för budget 2025 och plan 2026-2027 för RSG
@@ -334,7 +334,7 @@ Kommunledningskontorets tjänsteskrivelse, 2024-04-09
 
 Yttrande 2024-05-06
 
-Räddningstjänsten Storgöteborg, förbundsstyrelsen 2024-03-13, $ 21
+Räddningstjänsten Storgöteborg, förbundsstyrelsen 2024-03-13, \$ 21
 Räddningstjänsten Storgöteborgs Budgetunderlag 2025 och plan 2026-2027, 2024-
 03-08
 
@@ -357,7 +357,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7015)
 Kommunstyrelsens arbetsutskott Datum
 2024-05-21
 
-$ 182 Dnr KS-2020-01110
+\$ 182 Dnr KS-2020-01110
 
 Godkännande av avtal om marköverlåtelse och genomförande
 avseende fastigheten Frillesås-Rya 2:133, vid Bostället i Frillesås
@@ -375,7 +375,7 @@ nödvändiga handlingar för avtalens genomförande.
 
 Upplysning
 Beslut fattat med stöd av delegering. Kommunstyrelsens delegeringsförteckning:
-punkt 2.4.14, 2024-02-20, $ 45.
+punkt 2.4.14, 2024-02-20, \$ 45.
 
 Sammanfattning av ärendet
 
@@ -438,7 +438,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (15)
 Kommunstyrelsens arbetsutskott Datum
 2024-05-21
 
-$ 183 Dnr KS-2024-00385
+\$ 183 Dnr KS-2024-00385
 Flaggning med regnbågsflagga under West Pride
 
 Beslut
@@ -449,7 +449,7 @@ perioden 10-16 juni 2024.
 
 Upplysning
 Beslut fattat med stöd av delegering. Kommunstyrelsens delegeringsförteckning:
-punkt 2.1.16, 2024-02-20, $ 45.
+punkt 2.1.16, 2024-02-20, \$ 45.
 
 Sammanfattning av ärendet
 
@@ -517,7 +517,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (15)
 Kommunstyrelsens arbetsutskott Datum
 2024-05-21
 
-$ 184 Dnr KS-2024-00363
+\$ 184 Dnr KS-2024-00363
 Uppföljning och prognos april 2024 för kommunstyrelsen
 
 Förslag till beslut i kommunstyrelsen
@@ -563,7 +563,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (15)
 Kommunstyrelsens arbetsutskott Datum
 2024-05-21
 
-$ 185 Dnr KS-2024-00326
+\$ 185 Dnr KS-2024-00326
 Uppföljning och prognos april 2024 för Kungsbacka kommun
 
 Förslag till beslut i kommunfullmäktige
@@ -616,7 +616,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (15)
 
 Kommunstyrelsens arbetsutskott Datum
 2024-05-21
-$ 186 Dnr KS-2020-00121
+\$ 186 Dnr KS-2020-00121
 Information om arbetet med ny lokalisering av Räddningstjänsten i
 Klovsten
 Beslut
@@ -649,7 +649,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (15)
 Kommunstyrelsens arbetsutskott Datum
 2024-05-21
 
-$ 187 Dnr KS-2020-00547
+\$ 187 Dnr KS-2020-00547
 Information om arbetet med Kungsbacka Arena
 
 Beslut
@@ -663,14 +663,14 @@ Kungsbacka Arena.
 
 Informationen berör
 
-- Återkoppling på frågor från tidigare informationstillfällen
-- - Lägesrapport delprojekt
+\- Återkoppling på frågor från tidigare informationstillfällen
+\- - Lägesrapport delprojekt
 
-- Fas 1 — förstudie
+\- Fas 1 — förstudie
 
-- - Lägesrapport — utformning
+\- - Lägesrapport — utformning
 
-- Nästa information i KSAU
+\- Nästa information i KSAU
 
 Beslutsgång
 
@@ -688,7 +688,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (15)
 Kommunstyrelsens arbetsutskott Datum
 2024-05-21
 
-$ 188 Dnr KS-2024-00025
+\$ 188 Dnr KS-2024-00025
 Information från ledamöter och förvaltning
 
 Beslut
@@ -698,29 +698,29 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 Kommundirektör Malin Aronsson lämnar följande information:
 
-- Kungsbacka kommun är för andra året i rad nominerade till Årets superkommun
+\- Kungsbacka kommun är för andra året i rad nominerade till Årets superkommun
 inom kategorin Storstäder. Prisutdelningen sker i samband med Almedalsveckan.
 Planen är att fira nomineringen med tårta till alla medarbetare.
 
-- Resultatet av Svenskt Näringslivs enkätsvar i undersökningen av kommunernas
+\- Resultatet av Svenskt Näringslivs enkätsvar i undersökningen av kommunernas
 näringslivsklimat har kommit. Kungsbacka kommun har fått det bästa resultatet
 sedan 2003. Det sammanfattande omdömet ligger på 3,77. Snittet i Sverige ligger
 på 3,47.
 
-- Möjligheten för invånare och kommunens egna medarbetare att nominera
+\- Möjligheten för invånare och kommunens egna medarbetare att nominera
 medarbetare i kommunen till de olika kategorierna inom Årets medarbetare är nu
 öppen. Pris i de respektive kategorierna kommer att delas ut på Medarbetardagen
 under hösten 2024.
 
-- - Uppdatering gällande uppdrag om att se över och samordna priser till
+\- - Uppdatering gällande uppdrag om att se över och samordna priser till
 medarbetare.
 
-- Förra veckans chefsdag hade tema säkerhet. Talare var bland annat tidigare
+\- Förra veckans chefsdag hade tema säkerhet. Talare var bland annat tidigare
 arméchef Karl Engelbrektsson, lokalpolisområdeschef Krister Adolfsson,
 beredskapsdirektör i Hallands län Christian Lundin, samt Kungsbacka kommuns
 säkerhets- och beredskapschef, Jonas Lebrand
 
-- Nämnden för Teknik har aviserat att vattentillgången i kommunen är ansträngd
+\- Nämnden för Teknik har aviserat att vattentillgången i kommunen är ansträngd
 mot bakgrund av det varma och torra vädret.
 
 Beslutsgång

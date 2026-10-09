@@ -4166,7 +4166,7 @@ Website: http://www.ey.com
 At EY we work flexibly, so while it may suit me to email you now, I do not expect a response if it is outside your
 preferable working hours.
 
-\___________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 106 -->
 
@@ -5091,7 +5091,7 @@ längst upp på sidan 1. Vår postadress och e-postadress finns längst ner på 
 1\. Reglerna om att vi har rätt att få den information som vi behöver för vår
 tillsyn finns i 7 kap. 3 § arbetsmiljölagen.
 
-\________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Ärendet har prövats vid vårt kontor i Jönköping och har avgjorts av
 arbetsmiljöinspektören Monica Engström i närvaro av juristen Christel
@@ -5467,7 +5467,7 @@ person ska ni skicka oss deras namn, organisationsnummer och adress.
 Reglerna om att vi har rätt att få den information som vi behöver för vår tillsyn
 finns i 7 kap. 3 § arbetsmiljölagen.
 
-\________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Monica Engström
 Arbetsmiljöinspektör
@@ -5929,7 +5929,7 @@ och egenkontroll, ska användas för att systematiskt och fortlöpande utveckla 
 verksamhetens kvalitet vilket framgår av 5 kap. 4 § HSL och 3 kap. 1 och 2 §§ samt 5
 kap. 2 och 3a §§ SOSFS 2011:9.
 
-\__________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Beslut i detta ärende har fattats av enhetschefen Lennart Pettersson. I den slutliga
 handläggningen har inspektörerna Malin Lukinius Ekerby, Gunilla Wivast och Jonas

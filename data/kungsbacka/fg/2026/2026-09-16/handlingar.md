@@ -2373,7 +2373,7 @@ Eva Holmberg
 Kommunarkivarie
 Dataskyddskontakt kommunstyrelsen
 Vik. registrator
-\_____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kommunstyrelsens förvaltning
 Kungsbacka kommun
 0300-83 41 74

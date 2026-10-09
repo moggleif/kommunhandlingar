@@ -7015,16 +7015,16 @@ att vara giltiga.
 Tvist avseende tillämpning eller tolkning av detta avtal ska avgöras av allmän domstol
 enligt svensk lag.
 
-\____________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i två (2) likalydande exemplar varav parterna tagit var sitt.
 
 För Trafikverket               För Kungsbacka kommun
 
-\_________________________      _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum                  Ort och datum
 
-\_________________________      _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Jörgen Einarsson
 Regional direktör
 

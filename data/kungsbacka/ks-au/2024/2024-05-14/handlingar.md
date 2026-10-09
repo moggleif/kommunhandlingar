@@ -617,7 +617,7 @@ Stiftelsen Tjolöholm 9 (12)
 
 Org.nr 849400-4578
 
-- Se 1308
+\- Se 1308
 
 25390 37198
 
@@ -813,7 +813,7 @@ terna kontrollen som vi identifierat.
 <!-- sida 22 -->
 
 | ; : VY
-- Sj
+\- Sj
 AE
 
 Building a better
@@ -826,7 +826,7 @@ Uttalande
 
 Utöver vår revision av årsredovisningen har vi även utfört en
 revision av styrelsens förvaltning av Stiftelsen Tjolöholm för år
-2023.
+2023\.
 
 Enligt vår uppfattning har styrelseledamöterna inte handlat i
 strid med stiftelselagen, stiftelseförordnandet eller årsredovis-
@@ -959,17 +959,17 @@ avloppsrening, FAR, vid Hammargårds avloppsreningsverk och projekt Framtidens a
 FAR, samt ger nämnden för Teknik i uppdrag att genomföra projektet.
 Kommunfullmäktige utser nämnden för Teknik till ansvarig för
 
--  att leda, samordna och genomföra projekt Framtidens avloppsrening, FAR, enligt Förslag till
+\-  att leda, samordna och genomföra projekt Framtidens avloppsrening, FAR, enligt Förslag till
 projektbeskrivning Framtidens avloppsrening 2024-04-05 med utredningsunderlag, med rätt
 för nämnden för Teknik att genomföra nödvändiga anpassningar av projektet som inte är av
 principiell beskaffenhet eller annars av större vikt,
--  projektbudget för Framtidens avloppsrening, FAR, enligt beslutad investeringsbudget och
+\-  projektbudget för Framtidens avloppsrening, FAR, enligt beslutad investeringsbudget och
 
 kommunens ekonomistyrprinciper för investeringar,
--  att genomföra fas 1 av projektet, projektering av systemhandling och andra utredningar som
+\-  att genomföra fas 1 av projektet, projektering av systemhandling och andra utredningar som
 krävs för att komma fram till en riktkostnad inför Fas 2 samt
 
--  att genomföra byggnation Framtidens avloppsrening, FAR, i Fas 2 och 3 av projektet om
+\-  att genomföra byggnation Framtidens avloppsrening, FAR, i Fas 2 och 3 av projektet om
 riktkostnaden överensstämmer med beslutad investeringsbudget och de ekonomiska ramar som
 anges i Förslag till projektbeskrivning Framtidens avloppsrening 2024-04-05.
 
@@ -1003,19 +1003,19 @@ KUNGSBACKA  KOMMUN
 Nämnden för Teknik redogör i beslut och underlag för behovet av ombyggnad av Hammargårds
 
 avloppsreningsverk i Kungsbacka. Behoven bygger i huvudsak på följande faktorer:
-- Avloppsreningsverket har många delar som byggdes på 1960-talet och det har därefter byggts om
+\- Avloppsreningsverket har många delar som byggdes på 1960-talet och det har därefter byggts om
 vid olika tillfällen och är i stort behov av modernisering.
 
-- Kungsbackafjordens ekologiska status behöver förbättras för att miljökvalitetsnormerna för vatten
+\- Kungsbackafjordens ekologiska status behöver förbättras för att miljökvalitetsnormerna för vatten
 ska kunna uppnås.
-- Det finns anläggningsdelar som inom kort når sitt kapacitetstak för hur mycket avloppsvatten som
+\- Det finns anläggningsdelar som inom kort når sitt kapacitetstak för hur mycket avloppsvatten som
 får tas emot och behandlas. Dessutom behöver avloppsreningsverkets totala kapacitet ökas för att
 möjliggöra framtida befolkningstillväxt.
 
-- Ett nytt avloppsdirektiv från EU innebär krav på energineutralitet bestående i att 100 % av
+\- Ett nytt avloppsdirektiv från EU innebär krav på energineutralitet bestående i att 100 % av
 energianvändningen till 2045 måste produceras på anläggningen.
 
-- Avloppsreningsverket fick 2023 ett nytt miljötillstånd som medger att avloppsvatten fortsatt får
+\- Avloppsreningsverket fick 2023 ett nytt miljötillstånd som medger att avloppsvatten fortsatt får
 släppas till Kungsbackaån. Miljötillståndet har mycket stränga utsläppskrav. Dessa krav är ”skall”-
 krav som styr design och processutformning.
 
@@ -2724,8 +2724,8 @@ slambehandlingsalternativen kombinerade med AGS.
 Tabell 5 Resultat från energibalans samt utvärdering (poängsättning) av de fem slambehandlingsalternativen kombinerade
 med AGS. AGS + alt 0 är inget reellt alternativ utan är med för referens.
 
-* Antagen kvalitetsfaktor på kemisk energi (motsvarar uppgraderad biogas) 100%.
-** Antagen kvalitetsfaktor på fjärrvärme 30%.
+\* Antagen kvalitetsfaktor på kemisk energi (motsvarar uppgraderad biogas) 100%.
+\*\* Antagen kvalitetsfaktor på fjärrvärme 30%.
 
 Resultatet visar att slambehandlingsalternativet med lokal rötning och efterföljande pyrolys är mest
 energieffektivt, tätt följd av slambehandlingsalternativet med endast lokal rötning samt
@@ -2747,8 +2747,8 @@ kvalitetsfaktor på 30%. I slambehandlingsalternativen med rötning kan energiti
 | Kylanvändning | 0 | 0 | 0 | 0 | 0 |
 | Total energianvändning | 3 290 | 3 160 | 3 060 | 2 050 | 2 670 |
 | Energiproduktion: |  |  |  |  |  |
-| Uppgraderad gas* | 6 260 | 6 260 | 0 | 0 | 5 700 |
-| Värmeproduktion** | 0 | 550 | 1 900 | 0 | 0 |
+| Uppgraderad gas\* | 6 260 | 6 260 | 0 | 0 | 5 700 |
+| Värmeproduktion\*\* | 0 | 550 | 1 900 | 0 | 0 |
 | Total energitillförsel justerat för kvalité | 6 260 | 6 810 | 1 900 | 0 | 5 700 |
 | Energibalans (Produktion - Användning) | 2 970 | 3 650 | -1 160 | -2 050 | 3 030 |
 | Utvärdering (poäng) | 4,8 | 5,0 | 3,7 | 3,4 | 4,8 |
@@ -3353,16 +3353,16 @@ driften och att identifiera olika scenarier, inklusive hållbarhetsaspekter och 
 
 Preliminär etappindelning innehåller dessa hittills definierade delarna:
 
-1. Projektkontoret etableras samtidigt som tillstånd för bergshållning säkras. Etappen innehåller
+1\. Projektkontoret etableras samtidigt som tillstånd för bergshållning säkras. Etappen innehåller
 bland annat projektering för omläggning av fjärrvärme och rivning av kalksilotorn.
 
-2. Losshållning av berg påbörjas samtidigt som provisorisk högflödesrening installeras för att
+2\. Losshållning av berg påbörjas samtidigt som provisorisk högflödesrening installeras för att
 uppfylla tillståndskraven under ombyggnationen. Omläggning fjärrvärme och renoveringen av
 
 personalbyggnaden/laboratoriet genomförs under etappen samt att kontors- och
 personalplatser flyttas till en provisorisk etablering.
 
-3. Etappen innehåller byggnation av inloppsbyggnaden för grovrening, sandfång och
+3\. Etappen innehåller byggnation av inloppsbyggnaden för grovrening, sandfång och
 högflödesrening samtidigt som arbetet med AGS-anläggningen och slamhanteringsbyggnaden
 för avvattnat slam genomförs.
 
@@ -3370,7 +3370,7 @@ för avvattnat slam genomförs.
 
 <!-- sida 74 -->
 
-4. Inkoppling av inkommande tryckledningar till den nya inloppsbyggnaden påbörjas samtidigt
+4\. Inkoppling av inkommande tryckledningar till den nya inloppsbyggnaden påbörjas samtidigt
 som provisoriskt vatten till den befintliga biologiska processen etableras, med vatten från
 högflödesrening och brädd i den nya inloppsbyggnaden till den befintliga utloppsledningen.
 Driftsättning av den nya inloppsbyggnaden med grovrening, sandfång och högflödesrening
@@ -3378,21 +3378,21 @@ inleds samtidigt som provisorisk högflödesrening flyttas till den nya inloppsb
 Parallellt med detta pågår rivningen av regnbassänger, mellanpumpstation samt
 slamregeneringsbassänger för att göra plats för nybyggnation av försedimenteringen.
 
-5. Byggnation av ny försedimentering inleds samtidigt som ett nytt ledningsstråk läggs till den
+5\. Byggnation av ny försedimentering inleds samtidigt som ett nytt ledningsstråk läggs till den
 nya slamhanteringsbyggnaden och AGS-anläggningen. Rivningen av den befintliga
 elverkstaden utförs. Parallellt med detta sker tillbyggnad av den befintliga
 slamhanteringsbyggnaden och rivning av inlopps- och driftsbyggnaden.
 
-6. Driftsättning av AGS, försedimentering och sandfilter påbörjas samtidigt. Båda linjerna arbetar
+6\. Driftsättning av AGS, försedimentering och sandfilter påbörjas samtidigt. Båda linjerna arbetar
 parallellt under inkörningen av AGS-processen. Slam från försedimentering, AGS och
 sandfiltersteg riktas till den nya slamhanteringsbyggnaden för vidare behandling.
 
-7. Den befintliga byggnaden för sandfilter och övriga funktioner rivs. Samtidigt genomförs
+7\. Den befintliga byggnaden för sandfilter och övriga funktioner rivs. Samtidigt genomförs
 ombyggnation av den befintliga slamhanteringsbyggnaden till nya driftsbyggnad. Under denna
 period tas den befintliga avloppslinjen ur drift och renoveras. Nybyggnation av ett pump- och
 slamhus för att ersätta den befintliga driftsstrukturen.
 
-8. Uppstart av renoverad avloppslinje. Båda avloppslinjerna driftoptimeras.
+8\. Uppstart av renoverad avloppslinje. Båda avloppslinjerna driftoptimeras.
 
 Etappdimensionering
 Ett avloppsreningsverk byggs sällan om i större omfattning och när det väl görs så kommer många
@@ -4183,7 +4183,7 @@ Fas 2                      1 564 650
 Fas 3                         8 000
 1 655 000
 Tabell 22 Investeringsutgifter för projektets olika kommande faser. Investeringsutgifterna är beräknade efter prisnivå januari
-2024.
+2024\.
 
 53
 
@@ -4444,7 +4444,7 @@ utsläppskrav som förväntas.
 
 5.2.1 Befolkning
 Verket föreslås klara av avloppsvatten motsvarande 75000 pe 2035 och 95000 pe
-2050. Det inkludera en överkapacitet om 20 % som marginal för oförutsedd högre
+2050\. Det inkludera en överkapacitet om 20 % som marginal för oförutsedd högre
 
 befolkningsökning.
 
@@ -4645,7 +4645,7 @@ Markberedning
 
 Rivningskostnader
 
-Bräddrening*
+Bräddrening\*
 Summa
 
 Projektering 25 %
@@ -4654,7 +4654,7 @@ Kommunikation
 
 Summa allt                                   Mkr
 
-*Ingår i rivningskostnader
+\*Ingår i rivningskostnader
 
 Tabell 4 Investeringskalkyl
 Kostnaderna för markköp, markberedning och ledningsrätter är beräknade från
@@ -5100,11 +5100,11 @@ processen.
 Villkor
 För tillståndet gäller följande villkor:
 
-1. Om inte annat följer av övriga villkor ska verksamheten bedrivas i huvudsaklig
+1\. Om inte annat följer av övriga villkor ska verksamheten bedrivas i huvudsaklig
 överensstämmelse med vad sökanden har angett i ansökningshandlingarna och i
 övrigt åtagit sig i ärendet.
 
-2. Fram till och med den 31 december 2029 gäller följande för utgående behandlat
+2\. Fram till och med den 31 december 2029 gäller följande för utgående behandlat
 avloppsvatten:
 
 BOD  får som medelvärde under tre år inte överstiga 10 mg/l eller totalt 33 ton per år.
@@ -5131,7 +5131,7 @@ LÄNSSTYRELSEN                    Beslut                   3(42)
 
 2023-04-26        551-1415-2021
 
-3. Buller från verksamheten får inte ge upphov till högre ekvivalent ljudnivå (Leq)
+3\. Buller från verksamheten får inte ge upphov till högre ekvivalent ljudnivå (Leq)
 utomhus vid bostäder än:
 
 50 dB(A) helgfri måndag-fredag     kl. 06.00–18.00
@@ -5150,10 +5150,10 @@ Kontroll ska ske med hjälp av närfältsmätningar och beräkningar alternativt
 missionsmätningar. Mätning och beräkning av ekvivalent ljudnivå ska utföras
 för den tid då den bullrande verksamheten pågår.
 
-4. Införande av nya eller ändringar av processkemikalier får endast ske efter till-
+4\. Införande av nya eller ändringar av processkemikalier får endast ske efter till-
 synsmyndighetens medgivande.
 
-5. Kemiska produkter och farligt avfall ska förvaras och hanteras så att spill och
+5\. Kemiska produkter och farligt avfall ska förvaras och hanteras så att spill och
 läckage inte kan nå avlopp och så att förorening av mark, yt- och grundvatten
 undviks. Ämnen som kan avdunsta ska förvaras så att risken för avdunstning mi-
 nimeras. Förvaring ska ske så att sinsemellan reaktiva ämnen inte kan blandas.
@@ -5165,7 +5165,7 @@ rens volym plus 10 % av volymen av övriga behållare inom samma invallning.
 Behållare ska skyddas mot påkörning och vid förvaring utomhus ska invall-
 ningen vara skyddad mot nederbörd.
 
-6. Sökanden ska fortlöpande se över, underhålla och åtgärda de pumpstationer och
+6\. Sökanden ska fortlöpande se över, underhålla och åtgärda de pumpstationer och
 ledningar och den övriga utrustning på ledningsnätet som verksamhetsutövaren
 
 har rådighet över i syfte att minimera läckaget av tillskottsvatten samt utsläppen
@@ -5174,7 +5174,7 @@ ska en aktuell plan för lämpliga åtgärder finnas och följas. Planen ska lä
 till tillsynsmyndigheten senast sex månader efter att tillståndet vunnit laga kraft
 och därefter uppdateras minst vart femte år.
 
-7. Det ska finnas en beredskapsplan, nödvändiga rutiner och utrustning för riskhan-
+7\. Det ska finnas en beredskapsplan, nödvändiga rutiner och utrustning för riskhan-
 tering vid underhålls- och driftstopp samt vid olyckor, inklusive utrustning för
 
 att minimera risken för läckage vid hantering av kemiska produkter.
@@ -5185,23 +5185,23 @@ LÄNSSTYRELSEN                    Beslut                   4(42)
 
 2023-04-26        551-1415-2021
 
-8. Vid haveri eller omfattande byggnads- eller underhållsarbeten som medför att
+8\. Vid haveri eller omfattande byggnads- eller underhållsarbeten som medför att
 avloppsreningsanläggningen helt eller delvis måste tas ur drift ska åtgärder vid-
 tas för att begränsa föroreningsutsläppen. Tillsynsmyndigheten ska informeras.
 
-9. Verksamheten ska bedrivas så att lukt och andra olägenheter förebyggs eller be-
+9\. Verksamheten ska bedrivas så att lukt och andra olägenheter förebyggs eller be-
 gränsas. Om olägenheter uppstår i omgivningen till följd av verksamheten ska
 
 verksamhetsutövaren vidta nödvändiga åtgärder så att olägenheterna upphör.
 Villkoret gäller reningsverkets verksamhet inklusive pumpstationer och led-
 ningsnät.
 
-10. Sökanden ska i syfte att hushålla med energi utforma, och löpande optimera,
+10\. Sökanden ska i syfte att hushålla med energi utforma, och löpande optimera,
 energianvändningen i verksamheten. Energiaspekten ska beaktas vid val av
 pumpar, fläktar och annan utrustning samt vid översyn av underhålls- och drifts-
 rutiner för verksamheten.
 
-11. Ett aktuellt kontrollprogram ska finnas för verksamheten och ska följas. Kon-
+11\. Ett aktuellt kontrollprogram ska finnas för verksamheten och ska följas. Kon-
 trollprogrammet ska möjliggöra en bedömning av om villkoren följs. Det ska
 ingå periodiska besiktningar vart tredje år. Det ska även ingå provtagning av
 bakterier i utsläppspunkten varje vecka under badsäsong. I kontrollprogrammet
@@ -5209,13 +5209,13 @@ ska anges mätmetoder, mätfrekvens och utvärderingsmetoder. Sökanden ska
 skicka in ett reviderat kontrollprogram för verksamheten till tillsynsmyndig-
 heten inom tre månader från det att detta beslut har tagits i anspråk.
 
-12. Sökanden ska arbeta med en åtgärdsplan för att sänka belastningen av närings-
+12\. Sökanden ska arbeta med en åtgärdsplan för att sänka belastningen av närings-
 ämnen från avrinningsområdet Kungsbackaån och till tillsynsmyndigheten årli-
 gen redovisa hur arbetet enligt åtgärdsplanen fortskrider. Redovisningen ska
 minst omfatta vilka åtgärder som avtalats och i övrigt planeras samt vilka åtgär-
 der som utförts och deras bedömda effekt.
 
-13. Om verksamheten i sin helhet eller i någon del slutligt avvecklas, ska verksam-
+13\. Om verksamheten i sin helhet eller i någon del slutligt avvecklas, ska verksam-
 hetsutövaren senast två år innan upprätta en plan för avvecklingen och efterbe-
 handlingen. Planen ska godkännas av tillsynsmyndigheten.
 
@@ -5354,7 +5354,7 @@ remiss till Vattenmyndigheten för Västerhavets vattendistrikt, Nämnden för M
 Hälsoskydd i Kungsbacka kommun samt till Länsstyrelsen. Yttranden har kommit in.
 
 Sökanden har i sin tur kommenterat yttrandena i en skrivelse som kom in den 24 mars
-2023.
+2023\.
 
 Ansökan och yrkanden
 
@@ -5958,7 +5958,7 @@ tillståndsprövningen 1984/1985.
 
 För området gäller översiktsplan för Kungsbacka kommun, som antogs av kommunfull-
 mäktige 2006. Vidare gäller fördjupad översiktsplan för Kungsbacka stad, som antogs
-2009. Beslut om att översiktsplanen med tillhörande fördjupningsplaner fortfarande är
+2009\. Beslut om att översiktsplanen med tillhörande fördjupningsplaner fortfarande är
 aktuella togs av kommunfullmäktige 2018. För området finns en ny översiktsplan ”Vårt
 framtida Kungsbacka”1. En ny fördjupad översiktsplan för Kungsbacka stad planeras
 
@@ -6289,21 +6289,21 @@ målen för bevarandeplanen även om det inte har uttryckts i siffror i bevarand
 Kungsbackafjorden.
 En livsmiljös bevarandestatus anses gynnsam när:
 
-1. Dess naturliga eller hävdbetingade utbredningsområde och de ytor den täcker inom
+1\. Dess naturliga eller hävdbetingade utbredningsområde och de ytor den täcker inom
 detta område är stabila och ökande
 
-2. Den särskilda struktur och de särskilda funktioner som är nödvändiga för att den skall
+2\. Den särskilda struktur och de särskilda funktioner som är nödvändiga för att den skall
 kunna bibehållas på lång sikt finns och sannolikt kommer att finnas under en överskåd-
 lig framtid, och
 
-3. Bevarandestatusen hos dess typiska arter är gynnsam
+3\. Bevarandestatusen hos dess typiska arter är gynnsam
 Övergödning minskar den biologiska mångfalden bland annat genom att
 
-- förhållandet mellan organismer i vattnet störs,
+\- förhållandet mellan organismer i vattnet störs,
 
-- den växtlighet som utgör skydd och födosöksområden för fiskyngel och andra djur på-
+\- den växtlighet som utgör skydd och födosöksområden för fiskyngel och andra djur på-
 verkas negativt,
-- mängder med växtmaterial som faller till botten och skapar syre-brist som slår ut bot-
+\- mängder med växtmaterial som faller till botten och skapar syre-brist som slår ut bot-
 
 tenlevande djur och fiskar.
 Ovanstående påverkan från övergödning finns redan i Kungsbackafjorden och det på-
@@ -6709,7 +6709,7 @@ LÄNSSTYRELSEN                    Beslut                  33(42)
 
 industri. Kungsbacka kommuns nya översiktsplan vann laga kraft den 26 januari 2022.2
 Det finns även en fördjupad översiktsplan för Kungsbacka stad som antogs den 16 juni
-2009.
+2009\.
 
 Den fördjupade översiktsplanen anger följande: ”Markområde för framtida utbyggnad
 av reningsverket reserveras väster om järnvägen. En tänkbar utveckling är att anlägga
@@ -7019,8 +7019,8 @@ LÄNSSTYRELSEN                    Beslut                  40(42)
 
 Bilaga
 
-1. Karta
-2. Pumpstationer
+1\. Karta
+2\. Pumpstationer
 
 Kopia
 Naturvårdsverket; registrator@naturvardsverket.se
@@ -7368,10 +7368,10 @@ Ver. 01 24 augusti 2023                               Sida 8 av 103
 
 Innehållsförteckning
 
-1. Inledning ...................................................................................................... 10
-2. Metodbeskrivning ............................................................................................ 11
+1\. Inledning ...................................................................................................... 10
+2\. Metodbeskrivning ............................................................................................ 11
 
-3. Målsättning ................................................................................................... 13
+3\. Målsättning ................................................................................................... 13
 3.1  Målsättningar för val av utbyggnadskoncept ...................................................... 13
 
 3.1.1 Energieffektiv ....................................................................................... 13
@@ -7386,8 +7386,8 @@ Innehållsförteckning
 3.1.6 Innovation ........................................................................................... 16
 
 3.2  Utvärderingsmodell ................................................................................... 16
-4. Analys och urval av bästa möjliga teknik ................................................................. 18
-5. Utbyggnadskoncept för vattenlinjen ...................................................................... 19
+4\. Analys och urval av bästa möjliga teknik ................................................................. 18
+5\. Utbyggnadskoncept för vattenlinjen ...................................................................... 19
 
 5.1  Dimensioneringsförutsättningar ..................................................................... 19
 5.1.1 Flöden ................................................................................................ 19
@@ -7404,7 +7404,7 @@ Innehållsförteckning
 5.5  Processdesign .......................................................................................... 31
 
 5.6  Diskussion .............................................................................................. 34
-6. Utbyggnadskoncept för slambehandling .................................................................. 35
+6\. Utbyggnadskoncept för slambehandling .................................................................. 35
 6.1  Dimensioneringsförutsättningar ..................................................................... 35
 
 6.2  Utbyggnadskoncept Rötning ......................................................................... 36
@@ -7412,7 +7412,7 @@ Innehållsförteckning
 
 6.4  Processdesign .......................................................................................... 42
 6.5  Diskussion .............................................................................................. 44
-7. Utbyggnadskoncept för rening av mikroföroreningar ................................................... 46
+7\. Utbyggnadskoncept för rening av mikroföroreningar ................................................... 46
 
 7.1  Dimensioneringsförutsättningar ..................................................................... 46
 7.2  Utbyggnadskoncept Ozon + GAK-filter ............................................................. 47
@@ -7428,7 +7428,7 @@ Ver. 01 24 augusti 2023                               Sida 9 av 103
 7.4  Processdesign .......................................................................................... 57
 7.5  Diskussion .............................................................................................. 58
 
-8. Resultat för utvärderingsparametrar ..................................................................... 60
+8\. Resultat för utvärderingsparametrar ..................................................................... 60
 8.1  Energieffektiv .......................................................................................... 60
 8.2  Klimatpositiv ........................................................................................... 61
 
@@ -7444,15 +7444,15 @@ Ver. 01 24 augusti 2023                               Sida 9 av 103
 8.5  Drift och arbetsmiljö ................................................................................. 81
 
 8.6  Innovation .............................................................................................. 83
-9. Utvärdering av utbyggnadskoncept ....................................................................... 85
+9\. Utvärdering av utbyggnadskoncept ....................................................................... 85
 
 9.1  Utvärdering av utbyggnadskoncept för vatten- och slambehandling .......................... 85
 9.2  Utvärdering av utbyggnadskoncept för vattenlinjen ............................................. 85
 9.3  Utvärdering av utbyggnadskoncept för rening av mikroföroreningar .......................... 86
 
 9.4  Känslighetsanalys ...................................................................................... 87
-10. Slutsats .................................................................................................... 89
-11. Referenser................................................................................................. 90
+10\. Slutsats .................................................................................................... 89
+11\. Referenser................................................................................................. 90
 
 Förteckning över bilagor
 Bilaga 1      Layouter
@@ -7463,7 +7463,7 @@ Mölndalsvägen 91 • SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.env
 
 Ver. 01 24 augusti 2023                               Sida 10 av 103
 
-1.  Inledning
+1\.  Inledning
 
 Hammargårds avloppsreningsverk (ARV) i Kungsbacka står inför en ombyggnad då
 avloppsreningsverket närmar sig sin maximala kapacitet och kommunen behöver möjliggöra
@@ -7488,7 +7488,7 @@ Mölndalsvägen 91 • SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.env
 
 Ver. 01 24 augusti 2023                               Sida 11 av 103
 
-2.  Metodbeskrivning
+2\.  Metodbeskrivning
 
 Arbetet med att ta fram möjliga teknikval för Hammargård ARV har skett i nära samarbete mellan
 Envidan, Kungsbacka kommun och övriga projektgruppen.
@@ -7568,7 +7568,7 @@ Mölndalsvägen 91 • SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.env
 
 Ver. 01 24 augusti 2023                               Sida 13 av 103
 
-3.  Målsättning
+3\.  Målsättning
 
 Målsättningar och utvärderingskriterier för ombyggnaden av Hammargård ARV har tagits fram i
 samarbete mellan Kungsbacka kommun, ByggDialog och Envidan. De syftar till att ge en tydlig och
@@ -7795,7 +7795,7 @@ Mölndalsvägen 91 • SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.env
 
 Ver. 01 24 augusti 2023                               Sida 18 av 103
 
-4.  Analys och urval av bästa möjliga teknik
+4\.  Analys och urval av bästa möjliga teknik
 
 Framtagande av möjliga utbyggnadskoncept för Hammargård ARV har gjorts i samarbete med
 projektgruppen, bestående av representanter från Envidan, Kungsbacka kommun, ByggDialog och
@@ -7826,15 +7826,15 @@ framtida utsläppskrav. Utifrån det fortsatta arbetet med framtagande av proces
 fastställande av slutavskiljningssteg fastställdes vidare utredning av följande utbyggnadskoncept för
 vattenbehandlingen:
 
-1. Försedimentering + aktivslam + kontinuerliga filter (CAS)
-2. Försedimentering + membranbioreaktor    (MBR)
-3. Försedimentering + aeroba granuler + kontinuerliga filter (AGS)
+1\. Försedimentering + aktivslam + kontinuerliga filter (CAS)
+2\. Försedimentering + membranbioreaktor    (MBR)
+3\. Försedimentering + aeroba granuler + kontinuerliga filter (AGS)
 För slambehandlingen hade två huvudspår gällande processlösning identifierats sedan tidigare;
 termofil rötning (SRÖ) och pyrolys (SPY), och är fortsatt de tekniker som kommer att utredas vidare.
 
 Utbyggnadskoncept att utreda vidare för slambehandlingen är därmed:
-1. Rötning
-2. Pyrolys
+1\. Rötning
+2\. Pyrolys
 
 Som option i utredningen finns också avancerad rening av mikroföroreningar med. Kungsbacka
 kommun har gjort utredningar kring rening av mikroföroreningar tidigare och ser ett behov av en
@@ -7842,8 +7842,8 @@ kombination av ozon och aktivt kol som enda tänkbara lösning. Val av teknik f�
 mikroföroreningar har därför fokuserat på den teknikkombinationen.
 Utbyggnadskoncept att utreda vidare för rening av mikroföroreningar är:
 
-1. Ozon + granulärt aktivt kol
-2. Ozon + fluidiserad bädd med aktivt kol
+1\. Ozon + granulärt aktivt kol
+2\. Ozon + fluidiserad bädd med aktivt kol
 
 Mölndalsvägen 91 • SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
 
@@ -7851,7 +7851,7 @@ Mölndalsvägen 91 • SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.env
 
 Ver. 01 24 augusti 2023                               Sida 19 av 103
 
-5.  Utbyggnadskoncept för vattenlinjen
+5\.  Utbyggnadskoncept för vattenlinjen
 
 För vattenlinjen har tre olika utbyggnadskoncept jämförts i förstudien; aktivslam,
 membranbioreaktor och aeroba granuler. Nedan följer de dimensioneringsförutsättningar som
@@ -8240,7 +8240,7 @@ Djup, procesbassänger m         6        6       7        6
 
 Buffertbassänger utlopp, antal st. -     -       1        -
 
-Sidoströmshydrolys, SSH m3     2*445                     300
+Sidoströmshydrolys, SSH m3     2\*445                     300
 Buffertbassänger utlopp, volym m3 -      -      1000      -
 
 SS koncentration     kg SS/m3   4,5      8       8     2,5 – 4,77
@@ -8249,7 +8249,7 @@ Returslampumpning, årsmedel % av Q 58   400      -       60
 adwf
 Total slamålder vid design T d  25      23       -       22
 
-Nitrifikationshast. vid design T gN/(kgVSS*h) 1,02 1,02  1,02
+Nitrifikationshast. vid design T gN/(kgVSS\*h) 1,02 1,02  1,02
 
 Simultanfällning     mol Me/mol 2        3       -        2
 P borttaget
@@ -8319,7 +8319,7 @@ Vid dimensionering av de olika utbyggnadskoncepten för att klara krav enligt Ta
 hänsyn till de reduktioner av BOD, kväve och fosfor som en avskiljning av organiska
 mikroföroreningar innebär.
 Vald nitrifikationshastighet får stor inverkan. Det är valt att använda hastigheten som presenteras i
-avsnitt 0. En vald hastighet om 1,2 g N/(kg VSS*h) reducerar volymbehovet för till exempel
+avsnitt 0. En vald hastighet om 1,2 g N/(kg VSS\*h) reducerar volymbehovet för till exempel
 utbyggnadskonceptet CAS med ca 1400 m3. Vald hastighet bedöms relativ dagens resultat vara ett
 konservativt val men har använts för att få en rättvis jämförelse mellan processerna. Fler
 dimensioneringsparametrar som för rättvis jämförelse skall vara samma framgår av Tabell 5.6.
@@ -8361,7 +8361,7 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 Ver. 01 24 augusti 2023                               Sida 35 av 103
 
-6.   Utbyggnadskoncept för slambehandling
+6\.   Utbyggnadskoncept för slambehandling
 
 För slambehandling har två olika utbyggnadskoncept jämförts i förstudien; termofil rötning och
 pyrolys.
@@ -8683,7 +8683,7 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 Ver. 01 24 augusti 2023                               Sida 46 av 103
 
-7.  Utbyggnadskoncept för rening av mikroföroreningar
+7\.  Utbyggnadskoncept för rening av mikroföroreningar
 
 Konventionell avloppsvattenrening har en begränsad förmåga att rena avloppsvattnet från
 läkemedelsrester och andra organiska mikroföroreningar. För att rena avloppsvattnet från denna typ
@@ -8725,7 +8725,7 @@ tidigare har presenterats (CAS, MBR och AGS).
 3,43 g O /g NO --N och kan vara betydande. En maximal nitritkoncentration på 1 g NO --
 3   2                                           2
 N/m3 anses tillräckligt för en kostnadseffektiv rening av mikroföroreningar (Pistocchi, o.a.,
-2022) men vid välfungerande biologiska processer är nitritkoncentrationen inte så högt.
+2022\) men vid välfungerande biologiska processer är nitritkoncentrationen inte så högt.
 ·  Bromid (Br-): Inget värde har antagits. Risken för bromatbildning anses låg vid de avsedda
 ozondoserna vid normal drift
 
@@ -8971,7 +8971,7 @@ för reduktionsgrad för rening av mikroföroreningar (Böhler, Joss, & McArdell
 designas med mindre yta och tillåta lägre kontakttid vid högre flöden eller när ett filter är ur drift,
 på bekostnad av lägre reduktion vid sådana tillfällen.
 Antal bäddvolymer rekommenderas generellt mellan 20 000 och 30 000 (Böhler, Joss, & McArdell,
-2022) och är avgörande för driftkostnaden som ofta domineras av kolbehovet. En kombination av en
+2022\) och är avgörande för driftkostnaden som ofta domineras av kolbehovet. En kombination av en
 ozondos på ca 0,3 g O /g DOC och 30 000 bäddvolymer har valts till denna design. Genomförda
 3
 studier i Schweiz (Böhler, Joss, & McArdell, 2022) pekar på att det är möjligt att köra en anläggning
@@ -9009,7 +9009,7 @@ drågrammaH
 FLO
 pr6640222
 Ver. 01 24 augusti 2023                               Sida 60 av 103
-8.  Resultat för utvärderingsparametrar
+8\.  Resultat för utvärderingsparametrar
 För att jämföra utbyggnadskoncepten beskrivna i avsnitt 5 till 6 med varandra har
 utvärderingsmodellen beskriven i avsnitt 3.2 använts. Resultatet från de beräkningar och
 bedömningar som är gjorda redovisas i detta kapitel.
@@ -9027,8 +9027,8 @@ I Tabell 8.1 redovisas resultat från energibalansen samt utvärdering, med bety
 kombinerade utbyggnadskoncepten för vatten- och slambehandlingen.
 Tabell 8.1 Resultat från energibalans samt utvärdering (poängsättning) av de sex kombinerade
 utbyggnadskoncepten för vatten- och slambehandling.
-* Antagen kvalitetsfaktor på kemisk energi (motsvarar uppgraderad biogas) 100%.
-** Antagen kvalitetsfaktor på fjärrvärme 30%.
+\* Antagen kvalitetsfaktor på kemisk energi (motsvarar uppgraderad biogas) 100%.
+\*\* Antagen kvalitetsfaktor på fjärrvärme 30%.
 Resultatet visar att utbyggnadskonceptet CAS och rötning är mest energieffektivt och därefter
 kommer utbyggnadskonceptet AGS och rötning. Sammantaget är de utbyggnadskoncept som har
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
@@ -9044,8 +9044,8 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 | Kylanvändning | 310 | 0 | 310 | 0 | 310 | 0 |
 | Total energianvändning | 3 580 | 2 820 | 4 670 | 3 910 | 3 820 | 3 060 |
 | Energiproduktion: |  |  |  |  |  |  |
-| Uppgraderad gas* | 6260 | 0 | 6260 | 0 | 6260 | 0 |
-| Värmeproduktion** | 0 | 1900 | 0 | 1900 | 0 | 1900 |
+| Uppgraderad gas\* | 6260 | 0 | 6260 | 0 | 6260 | 0 |
+| Värmeproduktion\*\* | 0 | 1900 | 0 | 1900 | 0 | 1900 |
 | Total energitillförsel justerat för kvalité | 6260 | 1900 | 6260 | 1900 | 6260 | 1900 |
 | Energibalans (Produktion - Användning) | 2 680 | -920 | 1 580 | -2 010 | 2 430 | -1 160 |
 | Utvärdering (poäng) | 5,0 | 3,7 | 4,6 | 3,2 | 4,9 | 3,6 |
@@ -9119,7 +9119,7 @@ Ver. 01 24 augusti 2023                               Sida 62 av 103
 gCO /kWh (förbränning + transport); samma faktor gäller vid undviken produktion
 2e
 ·  Fjärrkylans miljöpåverkan 2022: antagit samma miljövärden som från transport och
-produktion av fjärrvärme, dvs ~ 8 gCO /kWh
+produktion av fjärrvärme, dvs \~ 8 gCO /kWh
 2e
 ·  Antaget drivmedel vid transport av restprodukter och kemikalier: fossilfritt
 ·  Klimatpåverkan från förbrukad dricksvattenmängd är ej medräknad då emissionsfaktorn för
@@ -9964,7 +9964,7 @@ drågrammaH
 FLO
 pr6640222
 Ver. 01 24 augusti 2023                               Sida 85 av 103
-9.  Utvärdering av utbyggnadskoncept
+9\.  Utvärdering av utbyggnadskoncept
 9.1 Utvärdering av utbyggnadskoncept för vatten- och slambehandling
 En sammanställning av resultaten för samtliga utvärderingsparametrar för utbyggnadskoncepten för
 vatten- och slambehandlingen visas i Tabell 9.1. Utbyggnadskonceptet CAS i kombination med
@@ -10147,7 +10147,7 @@ drågrammaH
 FLO
 pr6640222
 Ver. 01 24 augusti 2023                               Sida 89 av 103
-10. Slutsats
+10\. Slutsats
 Tre vattenreningsprocesser har värderats med en strukturerad metod (kapitel 0) för att
 Hammargård skall klara de mål som sats upp (kapitel 0) och den belastning som prognostiserats för
 år 2050 (kapitel 5). Aktivslam, likt den process som finns idag på Hammargård, är en av dessa tre.
@@ -10202,7 +10202,7 @@ drågrammaH
 FLO
 pr6640222
 Ver. 01 24 augusti 2023                               Sida 90 av 103
-11. Referenser
+11\. Referenser
 Antakyali, D., Herbst, H., Boekels, A., Börgers, A., aus der Beek, T., & Türk, J. (2016). Anleitung
 zur Planung und Dimensionerung von Anlagen zur Mikroschadstoffelimination.
 Kompetenzzentrum Mikroschadstoffe.NRW.
@@ -10212,7 +10212,7 @@ Bengtsson, K. (2022). Methane Emissions During Sludge Storage in Relation to the
 Community Composition of Sludge. Chalmers universitet.
 Böhler, M., Joss, A., & McArdell, C. (2022). GAK-Filter für die Spurenstoffentfernung. Erfahrungen
 und Betriebsergebnisse der Pilotstudien ARA Furt-Bülach und Glarnerland. AQUA & GAS N°
-1.
+1\.
 Ekholm, E. (2021). PM Workshop 2 Hållbarhet Kungsbacka kommun - Projekt FAR. Sweco Sverige AB.
 Engström, S. (2022). Framtida slamhantering och fosforåtervinning på Hammargård ARV,
 Kungsbacka kommun – En översiktlig bedömning av tillgängliga tekniker. Kungsbacka
@@ -10322,14 +10322,14 @@ Processvalsstudien för vattenreningen vid framtida Hammargård resulterade i en
 inte gick gör skillnad mellan processvalen aktvislam (CAS) och aeroba granuler (AGS). För att kunna
 komma fram till vilken process som var bäst lämpad så föreslog styrgruppen på mötet den 1
 september tre tillkommande kriterier som skulle utvärderas:
-1. Byggbarhet, ytor och skalbarhet
+1\. Byggbarhet, ytor och skalbarhet
 
-2. Avtal och Ansvar
-3. Osäkerheter och risker ekonomi
+2\. Avtal och Ansvar
+3\. Osäkerheter och risker ekonomi
 Projketgruppen har sedan september arbetet med att samla in underlag för att göra en objektiv
 
 värdering som möjligt.
-1. Utvärderingsmodell
+1\. Utvärderingsmodell
 
 Modellen för utvärdering har varit lik den som användes i huvudstudien och har fokuserats på
 förhållandes som utgör skillnader mellen de olika teknikerna.
@@ -10349,7 +10349,7 @@ Byggbarhet, ytor och skalbarhet 40%
 Avtal och Ansvar        20%
 Osäkerheter och risker ekonomi 40%
 
-2. Byggbarhet, ytor och skalbarhet
+2\. Byggbarhet, ytor och skalbarhet
 Under ombyggnationen kommer reningsverket behöva leva upp till gällande utsläppsvillkor. För att
 
 detta ska vara möjligt behöver större delen av anläggningen hållas i drift under ombyggnationen.
@@ -10443,7 +10443,7 @@ Byggbarhet, ytor och skalbarhet 3 4
 
 <!-- sida 263 -->
 
-3. Avtal och Ansvar
+3\. Avtal och Ansvar
 Bedömningar har utgått ifrån att belysa de svårigheter och frågeställningar som finns kring att
 upphandla samt samarbeta med RHDHV (Leverantör av AGS-processen) både under genomförande,
 garanti och drift. Även beskriva hur upplägget ser ut för CAS så skillnaderna blir tydliga.
@@ -10471,9 +10471,9 @@ reningsprocessen på ett avloppsreningsverk (Strömstad).
 Upphandling
 Frågeställningar som har utretts:
 
--  Vilken part tecknar avtal med RHDHV?
--  Entreprenadform?
--  Kontraktutformning, jurist(er)?
+\-  Vilken part tecknar avtal med RHDHV?
+\-  Entreprenadform?
+\-  Kontraktutformning, jurist(er)?
 
 RHDHV kan tänka sig att teckna avtal och leverera utrustning antingen via entreprenör eller direkt
 mot slutkund, Kungsbacka kommun. I Strömstad valde man att handla upp AGS-processen på delad
@@ -10489,15 +10489,15 @@ Genomförande
 
 Nedan listas normalt genomförande enligt RHDHV.
 
-1. Design & Engineering (Grundläggande och processdesign – detaljdesigngranskning)
-2. Byggledning, driftsättning & uppstartsstöd
-3. Leverans av Nereda Controller (mjukvara)
+1\. Design & Engineering (Grundläggande och processdesign – detaljdesigngranskning)
+2\. Byggledning, driftsättning & uppstartsstöd
+3\. Leverans av Nereda Controller (mjukvara)
 
 <!-- sida 264 -->
 
-4. Process Performance Test support incl. possible Process Guarantee
-5. Nereda slutanvändarlicens
-6. Driftsstöd under det första 1 året (nivå 'Silver') av Nereda Controller -se ovan-
+4\. Process Performance Test support incl. possible Process Guarantee
+5\. Nereda slutanvändarlicens
+6\. Driftsstöd under det första 1 året (nivå 'Silver') av Nereda Controller -se ovan-
 
 Det går i nuläget inte att bedöma tidsåtgången innan förutsättningarna tydligare definierats.
 
@@ -10566,18 +10566,18 @@ förtroende för fabrikatet om den förväntas bära garantiansvaret.
 Sekretess
 
 Frågeställningar som har utretts:
--  Vad kan man dela med sig av för data till andra aktörer?
+\-  Vad kan man dela med sig av för data till andra aktörer?
 
--  Hur hanteras sekretess vid t ex reparationsarbeten
--  Särskilt skyddade delar i processen?
--  Vilka behöver skriva sekretessavtal t ex studiebesök?
--  Ställs extra krav på skalskydd/bevakning?
+\-  Hur hanteras sekretess vid t ex reparationsarbeten
+\-  Särskilt skyddade delar i processen?
+\-  Vilka behöver skriva sekretessavtal t ex studiebesök?
+\-  Ställs extra krav på skalskydd/bevakning?
 
 I avtalet regleras vad som får delas med andra aktörer och ej. Alla som besöker anläggningen behöver
 skriva på ett sekretessavtal. Det ställs inte några extra krav på skalskydd.
 Drift
 
--  Måste man teckna licens/serviceavtal? Kostnad?
+\-  Måste man teckna licens/serviceavtal? Kostnad?
 
 Nej men för att få processgaranti måste ett serviceavtal / prenumeration på silvernivå tecknas (finns i
 Brons, Silver, Guld). RHDHV uppger att de inte vill ytterligare diskutera priserna för dessa paket innan
@@ -10592,14 +10592,14 @@ uppdateringar av mjukvara och eventuellt stöd som köps in men det är ju samma
 
 för process, enda skillnaden är att det finns fler aktörer man kan vända sig till om man har en
 aktivslamprocess.
--  Språk för kommunikation och dokumentation
+\-  Språk för kommunikation och dokumentation
 
 All kommunikation sker på engelska och all dokumentation överlämnas på engelska.
 
--  Möjlighet att påverka/styra och göra ingrepp i processen, påverkas garantin?
+\-  Möjlighet att påverka/styra och göra ingrepp i processen, påverkas garantin?
 
 Ändringar gällande Nereda processen görs i samförstånd med RHDHV.
--  Integration överordnat styrsystem
+\-  Integration överordnat styrsystem
 
 <!-- sida 266 -->
 
@@ -10607,7 +10607,7 @@ Nereda controller interagerar med överordnat styrsystem. RHDHV tillhandahåller
 funktionsbeskrivning för Nereda processen. Strömstad kommun var mycket nöjda med styrningen och
 uppgav att Nereda mjukvaran låg på en egen server som RHDHV har åtkomst till.
 
--  Vilka krav ställs på verksamhetsutövaren?
+\-  Vilka krav ställs på verksamhetsutövaren?
 Många kontroller och provtagningar, framförallt under intrimningsperioden.
 
 AGS processen erfordrar enligt driftpersonalen på Österröd ett större underhållsbehov (cirka 20h /
@@ -10643,7 +10643,7 @@ Avtal och Ansvar         4     3
 
 <!-- sida 267 -->
 
-4. Osäkerheter och risker ekonomi
+4\. Osäkerheter och risker ekonomi
 Utvärderingen har utgått från att titta på vilka osäkerheter och risker för vattenreningsprocessen som
 finns i grovbudgeten samt i LCC-kalkylerna och om det finns skillnader mellan processförslagen.
 Uppskatta hur stora osäkerheterna och riskerna är för respektive förslag och bedöma dem utifrån
@@ -11111,7 +11111,7 @@ adwf
 årsmedel
 Total slamålder vid 22        22        22          d
 design T
-Nitrifikationshastighet 1,02 1,02       1,02    gN/(kgVSS*h)
+Nitrifikationshastighet 1,02 1,02       1,02    gN/(kgVSS\*h)
 vid design T
 Simultanfällning   2          2          2      Mol Me/mol P
 borttaget
@@ -11491,7 +11491,7 @@ mörhålevägen
 S
 6:27
 KEMTANKAR
-+
+\+
 DOSERING
 P
 ER
@@ -11514,10 +11514,10 @@ G
 SANDFILTERBYGGNAD
 LÄKEMEDELSRENING
 FÖRSEDIMENTERING B
-+
+\+
 I O
 S
--
+\-
 S
 P
 H
@@ -11580,7 +11580,7 @@ m
 +40,0
 BET ÄNDRINGEN AVSER        DATUM  SIGN
 +77,0
--
+\-
 m
 3
 SLAMHANTERINGSBYGGNAD
@@ -11602,7 +11602,7 @@ ORIENTERINGSFIGUR
 HAMMARGÅRD  ARV
 SKALA 1:1000
 ÖVERSIKTSLAYOUT
--
+\-
 0  10  20          50                 100
 METER                                                                                                                                    SITUATIONSPLAN               FAS   0
 A1
@@ -11611,30 +11611,30 @@ P-00-0-003            -
 
 <!-- sida 291 -->
 
-6.
+6\.
 
-4.
-2.
-7.                                                     1. SANDFILTERBYGGNAD
-2. INLOPPSBYGGNAD
-3. EL- OCH VENTRUM
-3.                5.    8.
-4. KEMTANKAR/DOSERING
-1.                                                                                              5. VERKSTAD DRIFT M.M.
-6. PERSONALBYGGNAD
-7. BIO-P+SSH
-8. FÖRSEDIMENTERING
-9. MELLANSEDIMENTERING
-10. QUATRO-DENIPHO
-9.
-11. AGS
-12. SLAMHANTERING
+4\.
+2\.
+7\.                                                     1. SANDFILTERBYGGNAD
+2\. INLOPPSBYGGNAD
+3\. EL- OCH VENTRUM
+3\.                5.    8.
+4\. KEMTANKAR/DOSERING
+1\.                                                                                              5. VERKSTAD DRIFT M.M.
+6\. PERSONALBYGGNAD
+7\. BIO-P+SSH
+8\. FÖRSEDIMENTERING
+9\. MELLANSEDIMENTERING
+10\. QUATRO-DENIPHO
+9\.
+11\. AGS
+12\. SLAMHANTERING
 
-10.
+10\.
 
-11.
+11\.
 
-12.
+12\.
 Visionsbild Hammargårds  ARV
 
 <!-- sida 292 -->
@@ -11722,7 +11722,7 @@ mörhålevägen
 S
 6:27
 KEMTANKAR
-+
+\+
 DOSERING
 P
 ER
@@ -11745,10 +11745,10 @@ G
 SANDFILTERBYGGNAD
 LÄKEMEDELSRENING
 FÖRSEDIMENTERING B
-+
+\+
 I O
 S
--
+\-
 S
 P
 H
@@ -11811,7 +11811,7 @@ m
 +40,0
 BET ÄNDRINGEN AVSER        DATUM  SIGN
 +77,0
--
+\-
 m
 3
 SLAMHANTERINGSBYGGNAD
@@ -11833,7 +11833,7 @@ ORIENTERINGSFIGUR
 HAMMARGÅRD  ARV
 SKALA 1:1000
 ÖVERSIKTSLAYOUT
--
+\-
 0  10  20          50                 100
 METER                                                                                                                                    SITUATIONSPLAN               FAS   0
 A1
@@ -12263,33 +12263,33 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 Innehållsförteckning
 
-1. Bakgrund och uppdrag ....................................................................................... 3
-2. Samarbetsformer mellan kommuner ....................................................................... 4
+1\. Bakgrund och uppdrag ....................................................................................... 3
+2\. Samarbetsformer mellan kommuner ....................................................................... 4
 2.1  Avtalssamverkan ........................................................................................ 4
 
 2.2  Gemensam nämnd ...................................................................................... 5
 2.3  Kommunalt bolag ....................................................................................... 6
 
 2.4  Kommunalförbund ...................................................................................... 7
-3. Påverkande lagstiftning ...................................................................................... 9
+3\. Påverkande lagstiftning ...................................................................................... 9
 3.1  Kommunallagen......................................................................................... 9
 
 3.2  Vattentjänstlagen ...................................................................................... 9
 3.3  Upphandlingslagstiftning ............................................................................. 10
 
 3.4  Konkurrenslagen ....................................................................................... 11
-4. Arbetssätt ..................................................................................................... 12
+4\. Arbetssätt ..................................................................................................... 12
 4.1  SWOT-analys ........................................................................................... 12
 
 4.2  Omvärldspaning ....................................................................................... 13
-5. Resultat ....................................................................................................... 14
+5\. Resultat ....................................................................................................... 14
 
 5.1  Organisationsförändring och samverkan ........................................................... 14
 5.2  Analys och sammanfattning baserad på SWOT .................................................... 14
 5.2.1 Sammanfattning av diskussioner ................................................................. 15
 
 5.3  Slutsatser ............................................................................................... 16
-6. Rekommendation för fortsatt arbete ..................................................................... 17
+6\. Rekommendation för fortsatt arbete ..................................................................... 17
 6.1  Förslag på process för att skapa samverkan ....................................................... 17
 
 6.1.1 Förslag på aktiviteter vid avtalssamverkan ..................................................... 17
@@ -12304,7 +12304,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                        Sida 3 av 22
 
-1.  Bakgrund och uppdrag
+1\.  Bakgrund och uppdrag
 
 Både Kungsbacka och Laholmsbuktens VA AB (LBVA) utreder idag hur deras framtida hantering av
 slam från avloppsreningsverk ska utformas. Båda organisationerna ser en potential i att samverka
@@ -12322,7 +12322,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                        Sida 4 av 22
 
-2.  Samarbetsformer mellan kommuner
+2\.  Samarbetsformer mellan kommuner
 
 Det finns en lång tradition av samarbete mellan kommuner. Det handlar framför allt om informell
 samverkan i olika nätverk eller genom kontakter på tjänstepersonsnivå för utbyte av information
@@ -12569,7 +12569,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                        Sida 9 av 22
 
-3.  Påverkande lagstiftning
+3\.  Påverkande lagstiftning
 
 Detta är en kortfattad genomgång av vissa centrala lagar och undantag som kan vara bra att beakta
 i det fortsatta utredningsarbetet kring en eventuell samverkan mellan kommunerna, val av
@@ -12706,7 +12706,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                       Sida 12 av 22
 
-4.  Arbetssätt
+4\.  Arbetssätt
 
 Utredningen om regionalt samarbete kring en gemensam rötningsanläggning och lämpliga
 samverkansformer bygger på en workshop där SWOT-analys1 och en omvärldsspaning genomfördes.
@@ -12773,7 +12773,7 @@ AB.
 för att arbeta med förbränning av slam från Norrbotten, Västerbotten, Västernorrland och
 Jämtland. Ett flertal kommuner är positiva till gemensamt delägarskap och beslutsprocesser
 pågår nu i dessa kommuner. Den nya monoförbränningsanläggningen planeras vara i drift
-2026.
+2026\.
 
 www.envidan.se • Organisationsnummer 556666-5468
 
@@ -12781,7 +12781,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                       Sida 14 av 22
 
-5.  Resultat
+5\.  Resultat
 
 5.1 Organisationsförändring och samverkan
 All organisationsförändring och samverkan kräver tid och resurser. I första hand är där en period där
@@ -12913,7 +12913,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 
 19 januari 2024                                       Sida 17 av 22
 
-6.  Rekommendation  för fortsatt arbete
+6\.  Rekommendation  för fortsatt arbete
 För att komma vidare i en eventuell samverkan behöver idén förankras i respektive kommuns
 politiska och tjänstemannaorganisation. Genom att besluta om en avsiktsförklaring kring samarbete
 skapas en tydlig grund för vidare utredning och även för eventuell inriktning på denna. En
@@ -13520,20 +13520,20 @@ I SVU-rapporten 2022-3 Juridiska utmaningar när avloppsvatten blir tekniskt vat
 sammanfattades de vanligaste juridiska frågorna som uppkommer när avloppsvatten ska
 användas som tekniskt vatten. I den juridiska analysen som genomfördes som en del i projektet
 kom man fram till följande:
--  De allmänna hänsynsreglerna gäller alltid för all hantering av tekniskt vatten, och särskilt
+\-  De allmänna hänsynsreglerna gäller alltid för all hantering av tekniskt vatten, och särskilt
 viktig är försiktighetsprincipen som medför krav på kvaliteten så att olägenhet för miljö och
 hälsa inte uppkommer.
 
--  Delvis oklart vilka tillståndskrav som gäller utan det beror på det enskilda fallet, eventuellt
+\-  Delvis oklart vilka tillståndskrav som gäller utan det beror på det enskilda fallet, eventuellt
 kan det klassas som miljöfarlig verksamhet
 
--  Tillhandahållande av tekniskt vatten omfattas inte av lagen om allmänna vattentjänster så
+\-  Tillhandahållande av tekniskt vatten omfattas inte av lagen om allmänna vattentjänster så
 som lagstiftningen ser ut idag.
 
--  Tekniskt vatten som används utanför va-verksamheten omfattas det förmodligen av
+\-  Tekniskt vatten som används utanför va-verksamheten omfattas det förmodligen av
 produktansvarslagen, men det är inte prövat hur långt ansvaret sträcker sig.
 
--  I vissa fall kan tekniskt vatten anses vara ett avfall och då tillkommer tillståndskrav för
+\-  I vissa fall kan tekniskt vatten anses vara ett avfall och då tillkommer tillståndskrav för
 hantering och transport av avfallet.
 
 Enligt Naturvårdsverket (2023) klassas produktion av Tekniskt vatten i de flesta fall som miljöfarlig
@@ -13937,8 +13937,8 @@ vattenverksamhet inför anläggandet av våtmarken.
 2.5.1 Riksintressen
 Området omfattas inte av riksintresse enligt 3 eller 4 kap Miljöbalken. Sydväst
 om E6:an finns:
--  Riksintresse för högexploaterad kust 4 kap 4 § MB.
--  Riksintresse för naturvård, Kungsbackafjorden-Södra Onsalahalvön-
+\-  Riksintresse för högexploaterad kust 4 kap 4 § MB.
+\-  Riksintresse för naturvård, Kungsbackafjorden-Södra Onsalahalvön-
 Nidingen.
 
 Natura 2000 är ett nätverk av skyddade områden i hela EU. Syftet är att främja
@@ -13984,8 +13984,8 @@ eller ersätta biotopen. Ingen kartläggning av biotoper finns inom området.
 De delar av området som ligger inom 100 meter från Kungsbackaån, berörs av
 strandskydd.
 Strandskyddet syftar till att långsiktigt
-1. trygga förutsättningarna för allemansrättslig tillgång till strandområden, och
-2. bevara goda livsvillkor för djur- och växtlivet på land och i vatten.
+1\. trygga förutsättningarna för allemansrättslig tillgång till strandområden, och
+2\. bevara goda livsvillkor för djur- och växtlivet på land och i vatten.
 Lag (2009:532).
 
 Inom strandskyddat område får inte anläggningar eller byggnader uppföras som
@@ -14496,10 +14496,10 @@ faunadepåer i närområdet etc,) som i så fall bekostas av skattekollektivet o
 som är möjligt att ansöka om LOVA- och LONA bidrag för.
 För vidare arbete inför anläggande av våtmark bedöms (minst) följande
 utredningar behövas:
-1. Kostnads- och ansvarsfördelning för investering och driftskede av
+1\. Kostnads- och ansvarsfördelning för investering och driftskede av
 våtmarken för de parter som kommer att få nytta av våtmarken
 (Statkraft, VA-kollektivet och skattekollektivet).
-2. Geoteknisk undersökning för utredning av
+2\. Geoteknisk undersökning för utredning av
 a. eventuella stabilitetsproblem längs Kungsbackaån,
 b. anläggningsarbeten och drift av våtmark,
 c. erosionsförmåga och hastigheter,
@@ -14513,15 +14513,15 @@ D okumentreferens Hammargård PM - second opinion SH 240227          24/27
 
 d. erforderligt avstånd till Kungsbackaån,
 e. vägar /stigar för rekreation och skötselarbeten runt våtmarken.
-3. Höjdsättning och avledning av renat spillvatten från Hammargård ARV
+3\. Höjdsättning och avledning av renat spillvatten från Hammargård ARV
 till våtmarken.
-4. Inmätning av diken för att utreda förutsättningar för avledning av vatten
+4\. Inmätning av diken för att utreda förutsättningar för avledning av vatten
 till våtmarken.
-5. Utformning av in- och utlopp till våtmarken för att styra vattennivån.
+5\. Utformning av in- och utlopp till våtmarken för att styra vattennivån.
 Eventuellt vill man kunna sänka våtmarken vid skötselåtgärder.
-6. Utformning för att minska negativa effekter på tekniska anordningar vid
+6\. Utformning för att minska negativa effekter på tekniska anordningar vid
 höga vattenstånd i hav och Kungsbackaån.
-7. Förprojektering och projektering av våtmarken inkl. tekniska delar.
+7\. Förprojektering och projektering av våtmarken inkl. tekniska delar.
 Åtgärden bedöms medföra stora mervärden och det är viktigt att inte låsa in sig
 i ett hörn vid diskussioner kring andra samhällsviktiga projekt som skulle kunna
 störa dessa ”skapade” höga naturvärden.
@@ -14746,18 +14746,18 @@ Om   projektet
 Kungsbacka kommun tillsammans med bland annat Envidan och Inom ramen för denna studie så studeras fyra alternativ för
 ByggDialog utreder ett antal alternativ för att bygga om Hammar- slamhanteringen år 2037:
 gårds avloppsreningsverk så att det skall klara av att rena vatten från
--  Rötning av slam där biogasen uppgraderas till fordonsgas.
+\-  Rötning av slam där biogasen uppgraderas till fordonsgas.
 betydligt fler personer än idag samtidigt som utsläppskraven ökar.
 (benämns även som Grundfall i denna rapport)
 Inom ramen för tidigare analyser har man studerat alternativ och
 förutsättningar både för åren 2037 och 2050. Man räknar med att - Rötning av slam där biogasen förbränns i en gasmotor för
 flöden och belastning gradvis kommer att öka från idag fram till elproduktion.
-2050. Året 2037 speglar förutsättningarna ungefär i mitten av
+2050\. Året 2037 speglar förutsättningarna ungefär i mitten av
 perioden från idag till 2050.                       -  Rötning av slam där biogasen förbränns i en gaspanna för
 värmeproduktion.
 I detta projekt studeras klimatpåverkan från Hammargårds avlopps-
 reningsverk. Utredningen beskriver avloppsreningsverkets
--  Pyrolys av slammet med spridning av biokol på åkermark
+\-  Pyrolys av slammet med spridning av biokol på åkermark
 klimatpåverkan i ett övergripande perspektiv. Detta innebär att
 klimatbokslutet beskriver både direkta utsläpp från den egna
 Utöver detta studeras också ett fall där Grundfallet kombineras med
@@ -15008,7 +15008,7 @@ Summa av tillförda och undvikna utsläpp 2 864
 
 <!-- sida 383 -->
 
--  Rötning av slam där biogasen förbränns i en gasmotor för
+\-  Rötning av slam där biogasen förbränns i en gasmotor för
 Framtidsanalys      2037
 elproduktion. Det rötade slammet sprids på åkermark. Den
 ökade elproduktionen bidrar till att ersätta annan elproduktion i
@@ -15021,14 +15021,14 @@ ByggDialog utreder ett antal alternativ för att bygga om Hammar-
 av slam och nyttor av detta är desamma som i Grundfallet.
 gårds avloppsreningsverk så att det skall klara av att rena vatten från
 betydligt fler personer än idag samtidigt som utsläppskraven ökar.
--  Rötning av slam där biogasen förbränns i en gaspanna för
+\-  Rötning av slam där biogasen förbränns i en gaspanna för
 Inom ramen för tidigare analyser har man studerat alternativ och värmeproduktion. Det rötade slammet sprids på åkermark. Den
 förutsättningar både för åren 2037 och 2050. Man räknar med att ökade värmeproduktionen bidrar till att ersätta annan
 flöden och belastning gradvis kommer att öka från idag fram till värmeproduktion i Kungsbackas fjärrvärmenät och undviker
-2050. Året 2037 speglar förutsättningarna ungefär i mitten av därmed förbränning av biobränsle. Hantering av slam och nyttor
+2050\. Året 2037 speglar förutsättningarna ungefär i mitten av därmed förbränning av biobränsle. Hantering av slam och nyttor
 perioden från idag till 2050.                          av detta är desamma som i Grundfallet.
 I det underlag som Profu tagit del av så förutsätts att AGS2 är vald
--  Pyrolys av slammet som energimässigt drivs av den gas som
+\-  Pyrolys av slammet som energimässigt drivs av den gas som
 vattenreningsprocessteknik och kompletterar befintlig biologisk
 bildas vid pryrolysen och som förbränns. Processen genererar
 rening.
@@ -15038,7 +15038,7 @@ Inom ramen för denna studie så studeras fyra alternativ för
 det lokala fjärrvärmenätet i Kungsbacka och därigenom ersätta
 slamhanteringen:
 förbränning av biobränsle. Pyrolysen generar också ett biokol
--  Rötning av slam där biogasen uppgraderas till fordonsgas. som antas spridas på åkermark. Biokolet förutsätts innehålla lika
+\-  Rötning av slam där biogasen uppgraderas till fordonsgas. som antas spridas på åkermark. Biokolet förutsätts innehålla lika
 Det rötade slammet sprids på åkermark. Fordonsgasen bedöms mycket fosfor som det rötade slammet i fallen med rötning, men
 år 2037 kunna ersätta fossila drivmedel i transportsystemet. innehållet av kväve är lägre på grund av förluster vid pyrolysen.
 Slammet sprids på åkermark och ersätter alternativ kväve- och
@@ -15467,7 +15467,7 @@ nettoklimatpåverkan för varje fall har här slagits ut på hur stor reningsins
 removed
 OCP = Oxygen Consumption Potential är ett mått på belastningen från inkommande avloppsvatten. OCP beräknas med följande formel:
 removed
-OCP    = COD    + 100* Total-P + 18*Total-N – 4,5*NO -N
+OCP    = COD    + 100\* Total-P + 18\*Total-N – 4,5\*NO -N
 removed  removed       removed     removed    3 removed
 I dessa beräkningar har dock den sista termen (nitratkväve) inte inkluderats då det saknats data för denna post.
 Figuren visar tydligt att alla de aktuella fallen för ny/ombyggd anläggning har klart lägre nettoklimatpåverkan än den gamla anläggningen.
@@ -17412,9 +17412,9 @@ Enligt lag (2003:778) om skydd mot olyckor (LSO) är kommuner skyldiga att ha et
 som omfattar både räddningstjänst och förebyggande verksamhet för skydd mot andra olyckor än
 brand. Handlingsprogrammet ska vara ett övergripande politiskt styrdokument som beskriver vilka
 risker som finns inom förbundsområdet samt vilken förmåga som finns för att
-1) Minska sannolikheten för att olyckorna inträffar
+1\) Minska sannolikheten för att olyckorna inträffar
 
-2) Minska konsekvenserna av inträffade olyckor.
+2\) Minska konsekvenserna av inträffade olyckor.
 Handlingsprogrammet beskriver även övergripande hur Räddningstjänsten Storgöteborg, tillsammans
 med sina medlemskommuner, ska arbeta för att sträva mot de nationella målen i LSO samt, utifrån den
 riskbild och de behov som finns, utforma lokalt anpassade mål för både räddningstjänst och
@@ -18103,7 +18103,7 @@ grunden för analysen. Statistiken bygger därmed på de bedömningar som gjorts
 dokumenterats av de befäl som varit involverade i händelsen. Tidsperioden för
 datainsamling är 1 januari 2019 till 31 december 2022. För analys av trender används
 tidsperioden 2019–2022 och för analyser av nuläget används ett medelvärde för 2020–
-2022. Eftersom uppgifter hämtats från räddningstjänstens eget system omfattas endast de
+2022\. Eftersom uppgifter hämtats från räddningstjänstens eget system omfattas endast de
 händelser som kommit till räddningstjänstens kännedom och som har bedömts kräva någon
 
 form av åtgärd eller beslut inom ramen för räddningstjänstens uppdrag.
@@ -18225,12 +18225,12 @@ personer som har haft ekonomiskt bistånd i minst tio månader och/eller har var
 längre än sex månader.
 Det socioekonomiska indexet är utgångspunkten för klassificeringen av områdestyper:
 
-1. områden med stora socioekonomiska utmaningar
-2. områden med socioekonomiska utmaningar
-3. socioekonomiskt blandade områden
-4. områden med goda socioekonomiska förutsättningar
+1\. områden med stora socioekonomiska utmaningar
+2\. områden med socioekonomiska utmaningar
+3\. socioekonomiskt blandade områden
+4\. områden med goda socioekonomiska förutsättningar
 
-5. områden med mycket goda socioekonomiska förutsättningar.
+5\. områden med mycket goda socioekonomiska förutsättningar.
 Områden av typ 1 (röd) och 2 (gul) finns i Göteborgs och Stenungsunds kommun (Figur 4).
 
 27 Statistikmyndigheten (SCB), 2023. Statistikdatabasen: Antal och andel hushåll efter region, boendeform och hushållstyp
@@ -19833,7 +19833,7 @@ Förmåga
 )kes 09 ( 6+1 adnulörF )kes 09 ( 6+1 adråG )kes 09 ( 6+1 aladetroK )kes 09 ( 6+1 deregnA )kes 09 ( 4+1 adnalsroT )kes 09 ( 6+1 ybdnuL )kes 09 ( 4+1 ladnlöM )kes 09 ( 4+1 emodniL )kes 09 ( 4+1 mureL )kes 09 ( 6+1 akcabsgnuK )kes 09 ( 4+1 öjsrejÖ )kes 09 ( 4+1 dnusgnunetS )kes 09 ( 2+1 nröjT )kes 09( 2+1 tedE
 alliL
 )00.81
-- 00.60 ragadrav kes
+\- 00.60 ragadrav kes
 09
 ( 2+0
 Enheternas förmåga, inklusive bemanning och anspänningstid
@@ -20424,12 +20424,12 @@ till tekniska system och insatsstöd i form av exempelvis insatsplaner.
 Tabell 11. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid brand i byggnad.
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att söka efter och rädda personer i tät brandrök,
--  att genomföra utvändig och invändig släckinsats för att bekämpa
+\-  att söka efter och rädda personer i tät brandrök,
+\-  att genomföra utvändig och invändig släckinsats för att bekämpa
 brand,
--  att assistera utrymning av personer från utrymningsplatser ur
+\-  att assistera utrymning av personer från utrymningsplatser ur
 brinnande byggnader,
--  att assistera utrymning av personer ur brinnande byggnad
+\-  att assistera utrymning av personer ur brinnande byggnad
 utvändigt via fönster eller balkong med stegutrustning.
 Förmågan Brand i byggnad förutsätter att brandvatten-
 Brand i byggnad
@@ -20441,12 +20441,12 @@ fönster eller balkong med stegutrustning kan ersätta en
 utrymningsväg hänvisas till Råd och anvisning nr 11084.
 Redovisningen i detta dokument kan inte åberopas som underlag
 för en brandteknisk dimensionering.
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
--  att kunna försörja pågående insats med extra andningsluft,
+\-  att kunna försörja pågående insats med extra andningsluft,
 Depå                -  att försörja pågående insats med dryck och mat,
--  att försörja pågående insats med bränsle och materiel.
+\-  att försörja pågående insats med bränsle och materiel.
 
 8.2.2 Brand utomhus
 
@@ -20456,14 +20456,14 @@ Tabell 12. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid br
 
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att bekämpa gräsbrand på äng, i vägslänter, mindre fält,
+\-  att bekämpa gräsbrand på äng, i vägslänter, mindre fält,
 Brand i skog och mark
--  att genomföra släckning av brand i skog och mark.
--  att släcka brand i personbil, minibuss, arbetsfordon, buss, lastbil,
+\-  att genomföra släckning av brand i skog och mark.
+\-  att släcka brand i personbil, minibuss, arbetsfordon, buss, lastbil,
 spårvagn, järnvägsvagn utomhus, eller annat mindre fristående
 objekt,
 Brand i fordon och andra fristående
--  att, i livräddande syfte, släcka brand i fordon i tunnel,
+\-  att, i livräddande syfte, släcka brand i fordon i tunnel,
 objekt
 undermarksanläggning eller liknande med hänsyn till
 begränsningar och förutsättningar på grund av anläggningens
@@ -20481,18 +20481,18 @@ Handlingsprogram enligt LSO 2024
 
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att släcka brand i mindre fritidsbåt förtöjd vid kaj,
--  att genomföra insats för livräddning av enstaka personer i
+\-  att släcka brand i mindre fritidsbåt förtöjd vid kaj,
+\-  att genomföra insats för livräddning av enstaka personer i
 Brand i fartyg
 brandpåverkat utrymme eller genomföra släckinsats vid brand i
 fartyg förtöjt vid kaj.
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
--  att kunna försörja pågående insats med extra andningsluft,
+\-  att kunna försörja pågående insats med extra andningsluft,
 Depå                -  att försörja pågående insats med dryck och mat,
--  att försörja pågående insats med bränsle och materiel.
--  att genomföra transport av materiel eller personal i väglös
+\-  att försörja pågående insats med bränsle och materiel.
+\-  att genomföra transport av materiel eller personal i väglös
 Terrängtransport       terräng eller på väg med begränsad framkomlighet med MC,
 bandvagn eller annat terrängfordon.
 
@@ -20506,26 +20506,26 @@ Tabell 13. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid tr
 
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att spärra av och säkra olycksplatsen mot följdolyckor och brand,
--  att snabbt frigöra fastklämda personer från fordon (personbil,
+\-  att spärra av och säkra olycksplatsen mot följdolyckor och brand,
+\-  att snabbt frigöra fastklämda personer från fordon (personbil,
 Trafikolycka           buss, lastbil, spårvagn och tåg) för att möjliggöra ett snabbt
 sjukvårdsomhändertagande,
--  att stabilisera/säkra fordon vid instabilitet.
--  att genomföra losstagning, lyft och säkring vid olyckor med buss,
+\-  att stabilisera/säkra fordon vid instabilitet.
+\-  att genomföra losstagning, lyft och säkring vid olyckor med buss,
 Trafikolycka, nivå 3
 tåg, lastbil och andra tunga fordon.
--  att genomföra räddningsinsatser vid trafikolyckor där tunga
+\-  att genomföra räddningsinsatser vid trafikolyckor där tunga
 fordon är inblandade såsom lastbilar, bussar och tåg,
 Resurs för ras och tungräddning
--  att genomföra räddningsinsatser vid byggnadskollapser genom
+\-  att genomföra räddningsinsatser vid byggnadskollapser genom
 (RTR)
 stabiliserande åtgärder och att söka efter personer vid dessa
 händelser.
 Spårvagnslyft       -  att utföra lyft av spårvagn för losstagning av enstaka personer.
--  att vid händelse på anläggningar för tågtrafik kunna spännings-
+\-  att vid händelse på anläggningar för tågtrafik kunna spännings-
 Arbetsjordning
 prova och utföra arbetsjordning på anläggningen.
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
 8.2.4 Olycka med farliga ämnen
@@ -20544,51 +20544,51 @@ Tabell 14. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid ol
 
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att snabbt rädda enstaka personer som befinner sig i fara i
+\-  att snabbt rädda enstaka personer som befinner sig i fara i
 område med brandfarlig vätska eller gas,
--  att släcka brand i spill av olja eller polär produkt från tankbil eller
+\-  att släcka brand i spill av olja eller polär produkt från tankbil eller
 Brand i brandfarlig vätska och gas
 järnvägsvagn,
--  att släcka brand i mindre cistern med olja eller polär produkt,
--  att kyla hotad cistern vid brand i cistern för brandfarlig vara.
--  att snabbt rädda enstaka personer som befinner sig i område
+\-  att släcka brand i mindre cistern med olja eller polär produkt,
+\-  att kyla hotad cistern vid brand i cistern för brandfarlig vara.
+\-  att snabbt rädda enstaka personer som befinner sig i område
 med farliga ämnen,
--  att genomföra livräddande sanering av enstaka personer,
+\-  att genomföra livräddande sanering av enstaka personer,
 Farliga ämnen
--  att indikera brännbar atmosfär och annan farlig miljö,
--  att akut begränsa skadeutbredningen genom övertäckning,
+\-  att indikera brännbar atmosfär och annan farlig miljö,
+\-  att akut begränsa skadeutbredningen genom övertäckning,
 uppsamling, och nedtvättning.
--  att indikera riskområde för vanligt förekommande
+\-  att indikera riskområde för vanligt förekommande
 Farliga ämnen, nivå 2 (indikering)
 industrikemikalier
--  att genomföra insats i område/utrymme med farliga ämnen
--  att begränsa skadeutbredning genom tätning, övertäckning,
+\-  att genomföra insats i område/utrymme med farliga ämnen
+\-  att begränsa skadeutbredning genom tätning, övertäckning,
 Farliga ämnen, nivå 3 (kem 3) uppsamling, impaktering, överpumpning, kylning och
 nedtvättning.
--  att vara en nationell resurs för keminsatser vid olyckor med
+\-  att vara en nationell resurs för keminsatser vid olyckor med
 farliga ämnen med avancerad utrustning och specialutbildad
 personal. De kan bland annat pumpa och samla upp kemikalier,
 impaktera giftiga kondenserade gaser, täta läckage, indikera
 Farliga ämnen, kemenhet
 gaser och vätskor.
 Förmågan regleras genom avtal mellan RSG och MSB.
--  att vara en nationell resurs vid olyckor med farliga ämnen,
+\-  att vara en nationell resurs vid olyckor med farliga ämnen,
 genom att kunna identifiera ett okänt ämne.
 Avancerad Indikering
 Förmågan regleras genom avtal mellan RSG och MSB
--  att vara en nationell resurs för sanering av flera kontaminerade
+\-  att vara en nationell resurs för sanering av flera kontaminerade
 personer vid olyckor med farliga ämnen.
 Sanering
 Förmågan regleras genom avtal mellan RSG och MSB
--  att möjliggöra kylning med vatten och släckförmåga med skum
+\-  att möjliggöra kylning med vatten och släckförmåga med skum
 Förstärkt resurs för brand i för större bränder i brandfarlig vätska med hjälp av skumbilar,
 brandfarlig vätska     storpump, slang och armaturer.
--  att självständigt eller med hjälp av andra SMC-enheter släcka
+\-  att självständigt eller med hjälp av andra SMC-enheter släcka
 större bränder i oljedepåer.
 Storskalig oljebrandsläckning (SMC)
 Förmågan regleras genom avtal mellan RSG och Släckmedelscentralen
 (SMC).
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
 
@@ -20598,10 +20598,10 @@ ovan.
 
 Handlingsprogram enligt LSO 2024
 
--  att med länsa inringa olja runt en båt eller skydda vikar,
+\-  att med länsa inringa olja runt en båt eller skydda vikar,
 Oljeskyddscontainer
 vattendrag och strandområden från oljepåslag.
--  att med en grupp om ett befäl och minst 4 brandmän, som
+\-  att med en grupp om ett befäl och minst 4 brandmän, som
 enskilt eller tillsammans med MIRG-styrkor från andra
 räddningstjänster, bistå Sjöfartsverket eller Kustbevakningen vid
 MIRG (Maritime Incident Response
@@ -20617,24 +20617,24 @@ förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Ta
 Tabell 15. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid naturolyckor.
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att genomföra räddningsinsatser vid naturolyckor där tunga
+\-  att genomföra räddningsinsatser vid naturolyckor där tunga
 fordon är inblandade såsom lastbilar, bussar och tåg,
 Resurs för ras och tung räddning
--  att genomföra räddningsinsatser vid byggnadskollapser vid
+\-  att genomföra räddningsinsatser vid byggnadskollapser vid
 (RTR)
 naturolyckor genom stabiliserande åtgärder och att söka efter
 personer vid dessa händelser
--  att genomföra transport av materiel eller personal i väglös
+\-  att genomföra transport av materiel eller personal i väglös
 Terrängtransport       terräng eller på väg med begränsad framkomlighet med MC,
 bandvagn eller annat terrängfordon.
--  att vara en nationell sök- och räddningsresurs för att söka efter
+\-  att vara en nationell sök- och räddningsresurs för att söka efter
 och rädda människor vid stora komplexa räddningsinsatser med
 kollapsade byggnadskonstruktioner, orsakade av till exempel
 Nationell förstärkningsresurs för
 naturkatastrofer, olyckor, terrordåd eller krig.
 urban sök- och räddning (NUSAR)
 Förmågan regleras genom avtal mellan RSG och MSB
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
 8.2.6 Drunkning
@@ -20644,15 +20644,15 @@ förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Ta
 Tabell 16. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid drunkning.
 Område              Förmåga och nyckeluppgifter som omfattas av
 
--  att rädda enstaka personer i ytläge eller på grunt vatten,
+\-  att rädda enstaka personer i ytläge eller på grunt vatten,
 Vattenlivräddning
--  att rädda enstaka personer ur isvak.
--  att med hjälp av båt med olika storlek bedriva räddningsinsats på
+\-  att rädda enstaka personer ur isvak.
+\-  att med hjälp av båt med olika storlek bedriva räddningsinsats på
 och invid hav, sjöar och vattendrag. Båtarnas
 användningsområde kan sammanfattas till följande:
 Räddningsbåt
--  Livräddning vid hot om hopp från bro.
--  Resursuppbyggnad (personal och material) till Göteborgs södra
+\-  Livräddning vid hot om hopp från bro.
+\-  Resursuppbyggnad (personal och material) till Göteborgs södra
 skärgård vid större händelse.
 60 (70)
 
@@ -20662,13 +20662,13 @@ Handlingsprogram enligt LSO 2024
 
 Område              Förmåga och nyckeluppgifter som omfattas av
 
-- Brandbekämpning vid bränder i fastigheter nära vatten och
+\- Brandbekämpning vid bränder i fastigheter nära vatten och
 vid brand i fartyg.
-- Dykplattform vid insats med vattendykare.
-- Andra räddningsuppdrag på och vid insjöar och vattendrag.
--  att utföra räddningsdykning ner till 40 meters djup för att utföra
+\- Dykplattform vid insats med vattendykare.
+\- Andra räddningsuppdrag på och vid insjöar och vattendrag.
+\-  att utföra räddningsdykning ner till 40 meters djup för att utföra
 Räddningsdykare (vatten) sök och livräddningssinsats.
--  att med hjälp av liten fjärrstyrd flygfarkost samla information för
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
 UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
 ovan.
 
@@ -20684,17 +20684,17 @@ hot om suicid.
 
 Område                   Förmåga och nyckeluppgifter som omfattas av
 
--  att genomföra ett första bemötande av suicidal
+\-  att genomföra ett första bemötande av suicidal
 Hot om suicid
 person.
--  akut omhändertagande vid olika typer av skador och
+\-  akut omhändertagande vid olika typer av skador och
 Prehospitalt akut omhändertagande sjukdomar samt HLR.
--  att rädda person från svårtillgänglig plats (exempelvis
+\-  att rädda person från svårtillgänglig plats (exempelvis
 master, broar, bergssidor, schakt, kranar,
 Hög höjd                    vindkraftverk),
--  att rädda person som fallit ner i brunn, schakt eller
+\-  att rädda person som fallit ner i brunn, schakt eller
 liknande.
--  att med hjälp av liten fjärrstyrd flygfarkost samla
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla
 UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i
 form av bild och film från ovan.
 
@@ -20729,17 +20729,17 @@ Tabell 18. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid an
 
 Område                   Förmåga och nyckeluppgifter som omfattas av
 
--  akut omhändertagande vid olika typer av skador och
+\-  akut omhändertagande vid olika typer av skador och
 Prehospitalt akut omhändertagande
 sjukdomar samt HLR.
--  att genomföra räddningsinsatser vid naturolyckor där
+\-  att genomföra räddningsinsatser vid naturolyckor där
 tunga fordon är inblandade såsom lastbilar, bussar och
 tåg,
 Resurs för ras och tung räddning (RTR) - att genomföra räddningsinsatser vid
 byggnadskollapser vid naturolyckor genom
 stabiliserande åtgärder och att söka efter personer vid
 dessa händelser
--  att vara en nationell sök- och räddningsresurs för att
+\-  att vara en nationell sök- och räddningsresurs för att
 söka efter och rädda människor vid stora komplexa
 räddningsinsatser med kollapsade
 Nationell förstärkningsresurs för urban sök-
@@ -20747,7 +20747,7 @@ byggnadskonstruktioner, orsakade av till exempel
 och räddning (NUSAR)
 naturkatastrofer, olyckor, terrordåd eller krig.
 Förmågan regleras genom avtal mellan RSG och MSB
--  att med hjälp av liten fjärrstyrd flygfarkost samla
+\-  att med hjälp av liten fjärrstyrd flygfarkost samla
 UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i
 form av bild och film från ovan.
 8.3 Ledning i räddningstjänsten
@@ -20827,7 +20827,7 @@ Vakthavande räddningschef (VRC) 1    90 s svarstid,
 Vakthavande befäl (VB)          1    90 s till ledningscentralen
 Larm- och ledningsbefäl, i ledningscentralen 1 90 s till ledningscentralen
 Larm- och ledningsoperatör, i   4    0 s (minst 2 stycken),
-ledningscentralen*                   90 s till ledningscentralen
+ledningscentralen\*                   90 s till ledningscentralen
 
 87 VRR, 2021. Instruktion för Vakthavande räddningschef i Västra Räddningsregionen.
 88 VRR, 2021. Fördelning av beslutanderätt inom gemensamt ledningssystem i Västra Räddningsregionen.
@@ -20840,33 +20840,33 @@ ledningscentralen*                   90 s till ledningscentralen
 
 Handlingsprogram enligt LSO 2024
 
-Myndighets- och stabsresurs (MSR)** 1 90 s svarstid,
+Myndighets- och stabsresurs (MSR)\*\* 1 90 s svarstid,
 60 min till ledningscentralen
-Chefs- och stabsresurs (CSR)*** 1    90 s svarstid,
+Chefs- och stabsresurs (CSR)\*\*\* 1    90 s svarstid,
 45 min till brandstationen i
 Stenungsund
 Ledning av räddningsinsats
 Regional insatsledare (RIL)     1    90 s anspänningstid
-- I utgångsläget placerad vid ledningscentralen
+\- I utgångsläget placerad vid ledningscentralen
 för att kunna ingå med uppgifter i
 övergripande ledning
 Insatsledare (IL)
-- I utgångsläget placerad på brandstation 2 90 s anspänningstid
-- I utgångsläget placerad dagtid på brandstation, 1 90 s anspänningstid
+\- I utgångsläget placerad på brandstation 2 90 s anspänningstid
+\- I utgångsläget placerad dagtid på brandstation, 1 90 s anspänningstid
 övrig tid i beredskap i hemmet
 Styrkeledare (StL)
-- Placerade på heltidsstationer 14   90 s anspänningstid
-- Placerade på täckstyrkor och tillfälliga styrkor 0–2 Varierar
-- Placerade på RiB-stationer****
+\- Placerade på heltidsstationer 14   90 s anspänningstid
+\- Placerade på täckstyrkor och tillfälliga styrkor 0–2 Varierar
+\- Placerade på RiB-stationer\*\*\*\*
 7    300 - 420 s anspänningstid
-* En av operatörerna bemannar ledningsfordon för fältstab (stabsenhet) men kan även användas som operatör inne i
+\* En av operatörerna bemannar ledningsfordon för fältstab (stabsenhet) men kan även användas som operatör inne i
 ledningscentralen.
-** MSR kan agera i stab för både övergripande ledning och stab för ledning av räddningsinsats.
-*** RSG samarbetar med BORF om en gemensam resurs som, utöver att representera linjeorganisationen på icke kontorstid,
+\*\* MSR kan agera i stab för både övergripande ledning och stab för ledning av räddningsinsats.
+\*\*\* RSG samarbetar med BORF om en gemensam resurs som, utöver att representera linjeorganisationen på icke kontorstid,
 kan agera i stab för övergripande ledning, stab för ledning av räddningsinsats samt samverkansperson mot industri och
 kommun. I tabellen anges endast tid till brandstationen i Stenungsund. Krav på tid till brandstationen i Kungälv tas inte upp av
 RSG.
-**** Vid normal riskbild kan upp till fyra styrkeledare RiB tillfälligt ersättas av Gruppledare (GL). Avvikelserutiner finns även för
+\*\*\*\* Vid normal riskbild kan upp till fyra styrkeledare RiB tillfälligt ersättas av Gruppledare (GL). Avvikelserutiner finns även för
 att tillfälligt hantera RiB-organisationen med färre än 7 StL/GL i tjänst.
 I och med samarbetet i Västra Räddningsregionen, där ledningsfunktioner kan användas
 gränslöst, finns utöver RSG:s ledningsresurser tillgång till anslutna räddningstjänsters
@@ -21259,7 +21259,7 @@ Räddningsregionen. 2023-07-01 Förbundsdirektör Lars Klevensparr.
 Referensdokument
 
 Samverkan i Väst (SIV), 2016. Samverkansperson vid stabsarbete, upprättad 2004, reviderad
-2016. Överenskommelse mellan Räddningstjänsten Storgöteborg, Polisregion Väst,
+2016\. Överenskommelse mellan Räddningstjänsten Storgöteborg, Polisregion Väst,
 Sjöfartsverket, Kustbevakningen, Västra Götalandsregionen och SOS Alarm AB.
 
 RSG (2017). Råd och anvisning nr 110 – Räddningstjänstens insatstid och förmåga.
@@ -21852,7 +21852,7 @@ bör fördelas på kommunens olika delar enligt följande:
 Sammantaget bör bostäderna fördelas så att det byggs 90
 bostäder/per år fram till 2030 följt av 170 bostäder/per år fram till
 
-2034.
+2034\.
 
 Mål 2 - Vi har "Mark-nära" bostäder och boendemiljöer
 
@@ -22817,9 +22817,9 @@ Förstudie .....................................................................
 Planerings- och byggprocessen ....................................................................................................... 5
 
 Alternativ ............................................................................................................................................... 6
-1. Kläppa 2:2 .................................................................................................................................................... 7
+1\. Kläppa 2:2 .................................................................................................................................................... 7
 
-2. Åsa 5:246 och Åsa 5:219 ......................................................................................................................... 8
+2\. Åsa 5:246 och Åsa 5:219 ......................................................................................................................... 8
 Rekommendation ................................................................................................................................ 9
 
 Konsekvenser ....................................................................................................................................... 9
@@ -22836,13 +22836,13 @@ Delaktiga ......................................................................
 Bilaga 1: Studerade platser .............................................................................................................. 11
 
 Bilaga 2: Avskrivna lokaliseringar .................................................................................................... 12
-2. Åsa 2:4 ........................................................................................................................................................ 13
+2\. Åsa 2:4 ........................................................................................................................................................ 13
 
-3. Åsa 2:6 och Åsa 3:11 ................................................................................................................................ 14
-4. Kläppa 1:4 - väster om järnvägen ........................................................................................................ 15
+3\. Åsa 2:6 och Åsa 3:11 ................................................................................................................................ 14
+4\. Kläppa 1:4 - väster om järnvägen ........................................................................................................ 15
 
-5. Kläppa 1:4 - öster om järnvägen .......................................................................................................... 16
-6. Ölmanäs 2:7 .............................................................................................................................................. 17
+5\. Kläppa 1:4 - öster om järnvägen .......................................................................................................... 16
+6\. Ölmanäs 2:7 .............................................................................................................................................. 17
 
 Lokaliseringsutredning ny skola i Åsa                  Sida 2 av 17
 
@@ -22866,7 +22866,7 @@ Skolan behöver ha plats för 500-600 elever för att ta höjd för framtida beh
 behöver en yta på totalt ca 20 000 kvm för att inrymma skolbyggnad,
 fullmåttsidrottshall, friyta för elever, parkeringar och angöring. Skolan ska enligt
 beslutad lokalplan 2022-2026 vara färdig 2026 och behöver därför börja byggas senast
-2024.
+2024\.
 
 Befintliga grundskolor i Åsa
 
@@ -22900,7 +22900,7 @@ Lokaliseringsutredning ny skola i Åsa                  Sida 4 av 17
 Förstudie
 
 En förstudie för området norr om Kläppavägen upprättades
-2016.
+2016\.
 
 En tät bebyggelse i form av radhus, parhus och villor
 föreslås tillsammans med områden för företag. Målet är att
@@ -22939,20 +22939,20 @@ samhällsutvecklingen.
 
 Övriga platser som studerats och avskrivits redovisas i dokumentets bilagor.
 
-*Risker kopplade till järnvägen samt risker för störningar kopplade till djurhållning
+\*Risker kopplade till järnvägen samt risker för störningar kopplade till djurhållning
 
 Lokaliseringsutredning ny skola i Åsa                  Sida 6 av 17
 
 [Tabell 572-1](handlingar.tabeller/572-1.csv)
 
-| Område | Trafik/tillgänglighet | Risker* | 20 000 kvm | FÖP och<br>samhällsutveckling | Kommunal<br>mark | Befintlig<br>användning | Tidplan |
+| Område | Trafik/tillgänglighet | Risker\* | 20 000 kvm | FÖP och<br>samhällsutveckling | Kommunal<br>mark | Befintlig<br>användning | Tidplan |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. Kläppa 2:2 |  |  |  |  |  |  |  |
 | 2. Åsa 5:246<br>och Åsa 5:219 |  |  |  |  |  |  |  |
 
 <!-- sida 573 -->
 
-1. Kläppa 2:2
+1\. Kläppa 2:2
 
   Ny detaljplan krävs
 Ca 200 m
@@ -22996,7 +22996,7 @@ Lokaliseringsutredning ny skola i Åsa                  Sida 7 av 17
 
 <!-- sida 574 -->
 
-2. Åsa 5:246 och Åsa 5:219
+2\. Åsa 5:246 och Åsa 5:219
 
   Ny detaljplan skulle kunna samordnas med detaljplan för bostäder
   Utbyggnadsområde i FÖP, stöder intentionen att bygga ihop Åsa centrum och stationen
@@ -23114,18 +23114,18 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 10 av 17
 Bilaga  1: Studerade    platser
 
 Relevanta alternativ
-1. Kläppa 2:2
-2. Åsa 5:246 och Åsa 5:219
+1\. Kläppa 2:2
+2\. Åsa 5:246 och Åsa 5:219
 
 5
 Avskrivna platser
 6
-3. Åsa 2:4
+3\. Åsa 2:4
 1
-4. Åsa 2:6 och Åsa 3:11
-5. Kläppa 1:4 - väster om järnvägen
+4\. Åsa 2:6 och Åsa 3:11
+5\. Kläppa 1:4 - väster om järnvägen
 4
-6. Kläppa 1:4 - öster om järnvägen
+6\. Kläppa 1:4 - öster om järnvägen
 2                          7. Ölmanäs 2:7
 3
 
@@ -23164,7 +23164,7 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 12 av 17
 
 <!-- sida 579 -->
 
-2. Åsa 2:4
+2\. Åsa 2:4
 
   Ny detaljplan behövs
   Utbyggnadsområde i FÖP men stödjer inte ambitionen att bygga ut mellan Åsa centrum och
@@ -23202,7 +23202,7 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 13 av 17
 
 <!-- sida 580 -->
 
-3. Åsa 2:6 och Åsa 3:11
+3\. Åsa 2:6 och Åsa 3:11
 
   Ny detaljplan krävs
   Planuppdrag för bostäder finns. Planarbetet har dock avstannat
@@ -23244,7 +23244,7 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 14 av 17
 
 <!-- sida 581 -->
 
-4. Kläppa 1:4 - väster om järnvägen
+4\. Kläppa 1:4 - väster om järnvägen
 
   Ny detaljplan
   Delvis utbyggnadsområdet i FÖP
@@ -23283,7 +23283,7 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 15 av 17
 
 <!-- sida 582 -->
 
-5. Kläppa 1:4 - öster om järnvägen
+5\. Kläppa 1:4 - öster om järnvägen
   Ny detaljplan
   Utredningsområde i FÖP. Stödjer inte ambitionen att bygga ut mellan Åsa centrum och
 stationen
@@ -23325,7 +23325,7 @@ Lokaliseringsutredning ny skola i Åsa                 Sida 16 av 17
 
 <!-- sida 583 -->
 
-6. Ölmanäs  2:7
+6\. Ölmanäs  2:7
 
   Ny detaljplan
   Utredningsområde i FÖP. Stödjer inte ambitionen att bygga ut mellan Åsa
@@ -23579,9 +23579,9 @@ Till:             Samhällsbyggnadskontoret
 Ämne:             VB: Seniorboende Södra Ebbagården
 Bifogade filer:   Södra Ebbagården Seniorboende_presentation 20240129.pdf
 
-Från: @ebbagarden.com <kent@ebbagarden.com>
+Från: @ebbagarden.com \<kent@ebbagarden.com>
 Skickat: den 30 januari 2024 16:46
-Till: Kommun <kommun@kungsbacka.se>
+Till: Kommun \<kommun@kungsbacka.se>
 Ämne: Seniorboende Södra Ebbagården
 
 Du får inte e-post ofta från @ebbagarden.com. Se varför det här är viktigt.
@@ -25034,7 +25034,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 642 -->
 
-1. Om Kungsbacka    Bredbandsnät
+1\. Om Kungsbacka    Bredbandsnät
 
 Kungsbacka bredbandsnät har genom Nämnden för Teknik sedan oktober 2010 i
 uppdrag av Kommunfullmäktige1 att svara för utbyggnad av kanalisation och
@@ -25063,7 +25063,7 @@ fastighetsägare som slutkunder. Vidare för Kommunen en aktiv dialog och
 informerar näringsliv och medborgare om bredbandsutbyggnadens inverkan på
 samhället samt om hur man får tillgång till bredband via fiber.
 
-2. Grund för uttag av avgift
+2\. Grund för uttag av avgift
 Avgift för bredbandstjänster tas ut enligt de grunder som framgår av
 kommunallagens 2 kap 5-6 §§.
 
@@ -25073,7 +25073,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                2 (9)
 
 <!-- sida 643 -->
 
-3. Tjänster
+3\. Tjänster
 
 I Kungsbacka Bredbandsnät är idag en väsentlig del av anslutningarna till nätet
 relaterade till kommunens verksamhet. Det är ofta mycket kritiska anslutningar
@@ -25163,7 +25163,7 @@ SN 2     Kapacitet: runt alla runt alla Dygnet runt alla Dygnet runt alla
 99,90%    dagar    dagar      dagar       dagar
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
-•  Tillgänglighet = 100*(mätperiod-oplanerade avbrott) / mätperiod.
+•  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
 Servicetid: inom den tid vilken felavhjälpning och service sker.
@@ -25181,7 +25181,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                4 (9)
 
 <!-- sida 645 -->
 
-4.       Avgifter och  taxor
+4\.       Avgifter och  taxor
 
 Samtliga priser är angivna exklusive moms om inget annat anges.
 
@@ -25357,7 +25357,7 @@ fibersatt område där Kungsbacka bredbandsnät tidigare lagt ner tom kanalisati
 
 som planeras årsvis.
 
-*Priser angivna inklusive moms.
+\*Priser angivna inklusive moms.
 
 4.6      Servicenivåer
 Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
@@ -25371,7 +25371,7 @@ Kungsbacka kommun             Bredbandstaxa 2024                8 (9)
 
 [Tabell 648-1](handlingar.tabeller/648-1.csv)
 
-| Beskrivning | Engångsavgift* |
+| Beskrivning | Engångsavgift\* |
 | --- | --- |
 | Fiberanslutning till villa vid byggnation av ett område i tätort | 20 000 kr |
 | Fiberanslutning till villa vid byggnation av ett område på landsbygd | 25 000 kr |
@@ -25402,15 +25402,15 @@ fiberinstallation orsakad av tredje part, arbete i noder, aktivering eller omkop
 Avgiften kan även ligga till grund för riktpris gällande andra åtaganden som kräver
 teknikerinsats. Även restid och inställelsetid debiteras med samma timpris.
 
-* Pris angivet inklusive moms.
+\* Pris angivet inklusive moms.
 
-________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun             Bredbandstaxa 2024                9 (9)
 
 [Tabell 649-1](handlingar.tabeller/649-1.csv)
 
-| Arbete | Pris * | Förklaring |
+| Arbete | Pris \* | Förklaring |
 | --- | --- | --- |
 | Fibertekniker | 800 kr | Per påbörjad timme. Helgfri vardag kl.08-16 |
 
@@ -25433,7 +25433,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 651 -->
 
-1. Om Kungsbacka   Bredbandsnät
+1\. Om Kungsbacka   Bredbandsnät
 
 Kungsbacka bredbandsnät har genom Nämnden för Teknik sedan
 oktober 2010 i uppdrag av Kommunfullmäktige1 att svara för utbyggnad
@@ -25464,12 +25464,12 @@ och informerar näringsliv och medborgare om bredbandsutbyggnadens
 
 inverkan på samhället samt om hur man får tillgång till bredband via fiber.
 
-2. Grund för uttag av avgift
+2\. Grund för uttag av avgift
 Avgift för bredbandstjänster tas ut enligt de grunder som framgår av
 
 kommunallagens 2 kap 5-6 §§.
 
-3. Tjänster
+3\. Tjänster
 I Kungsbacka Bredbandsnät är idag en stor del av anslutningarna till
 
 nätet relaterade till kommunens verksamhet. Det är ofta mycket kritiska
@@ -25583,7 +25583,7 @@ SN 2    Kapacitet: runt alla runt alla Dygnet runt alla Dygnet runt
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på
 årsbasis inom servicetid.
 
-•  Tillgänglighet = 100*(mätperiod-oplanerade avbrott) / mätperiod.
+•  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
 Servicetid: inom den tid vilken felavhjälpning och service sker.
@@ -25598,7 +25598,7 @@ Erbjudna tjänster uppfyller SSNF:s tekniska produktspecifikationer enligt
 
 Avtalspaketet för Cesar2 där så är tillämpligt och avtalat.
 
-4. Avgifter och taxor
+4\. Avgifter och taxor
 
 Samtliga priser är angivna exklusive moms om inget annat anges.
 
@@ -25814,7 +25814,7 @@ debiteras med samma timpris.
 
 Priser angivna inklusive moms.
 
-_______________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun             Bredbandstaxa 2024               10 (10)
 
@@ -26053,11 +26053,11 @@ utomstående, exempelvis till politiker som i studiesyfte besöker ett vårdboen
 Olika typer av verksamhetsbesök
 Riktlinjerna tydliggör även vad som ska gälla vid olika typer av verksamhetsbesök:
 
--  När en nämnd vill göra ett gemensamt studiebesök
--  Hur ett politiskt parti eller en partirepresentant ska gå till väga för att initiera ett studiebesök i
+\-  När en nämnd vill göra ett gemensamt studiebesök
+\-  Hur ett politiskt parti eller en partirepresentant ska gå till väga för att initiera ett studiebesök i
 någon av kommunens verksamheter
 
--  Vad som gäller vid besök till kommunen från någon extern part såsom region, riksdag regering
+\-  Vad som gäller vid besök till kommunen från någon extern part såsom region, riksdag regering
 eller annan kommun.
 
 <!-- sida 665 -->
@@ -26125,32 +26125,32 @@ verksamhet och äger rum i syfte att ge elever information inom ramen
 för det demokratiuppdrag skolan har enligt gällande lagstiftning.
 
 Grundläggande   principer
-1. Ansvarig enhetschef eller annan verksamhetsföreträdare som denne utser
+1\. Ansvarig enhetschef eller annan verksamhetsföreträdare som denne utser
 
 ansvarar för att besöket kan genomföras på ett korrekt sätt och att besöket sker i
 enlighet med dessa riktlinjer.
-2. Verksamhetsföreträdare ska alltid prioritera det ordinarie arbetet och
+2\. Verksamhetsföreträdare ska alltid prioritera det ordinarie arbetet och
 verksamhetsbesök ska enbart genomföras om verksamheten klarar av det utan
 att det får en påverkan på arbetets ordinarie gång.
 
-3. Objektivitetsprincipen gäller och myndigheter ska i sin verksamhet beakta allas
+3\. Objektivitetsprincipen gäller och myndigheter ska i sin verksamhet beakta allas
 likhet inför lagen samt iaktta saklighet och opartiskhet. Det innebär att en
 verksamhet måste behandla alla aktörer som vill besöka dess verksamhet lika
 och att de endast kan neka besök om det finns saklig grund, exempelvis riktlinjer
 som redogör för villkor för studiebesök.
-4. Besöket syftar till att skapa en ökad förståelse för den verksamhet som bedrivs.
+4\. Besöket syftar till att skapa en ökad förståelse för den verksamhet som bedrivs.
 
-5. Under besöken får inte politiska budskap spridas vare sig muntligt eller i skrift.
+5\. Under besöken får inte politiska budskap spridas vare sig muntligt eller i skrift.
 
-6. Var och en i Sverige är genom grundlagen skyddad gentemot det allmänna mot
+6\. Var och en i Sverige är genom grundlagen skyddad gentemot det allmänna mot
 betydande intrång i den personliga integriteten och ingen får av det allmänna
 tvingas att ge till känna sin åskådning i politiskt, religiöst, kulturellt eller annat
 sådant hänseende eller att delta i sammankomst för opinionsbildning eller i
 demonstration eller annan meningsyttring.
-7. Verksamhetsbesök ska genomföras med respekt för medarbetare och för de
+7\. Verksamhetsbesök ska genomföras med respekt för medarbetare och för de
 individer som finns där och för deras personliga integritet.
 
-8. Ansvarig chef ska omedelbart avbryta ett verksamhetsbesök om det innebär fara
+8\. Ansvarig chef ska omedelbart avbryta ett verksamhetsbesök om det innebär fara
 för intrång i den personliga integriteten för medarbetare, vårdtagare, anhöriga,
 eller elever.
 
@@ -26158,9 +26158,9 @@ Kungsbacka kommun  Studiebesök för förtroendevalda politiker i kommunens verk
 
 <!-- sida 668 -->
 
-9. Externa besökare ska inte släppas in i privata bostadsutrymmen eller liknande
+9\. Externa besökare ska inte släppas in i privata bostadsutrymmen eller liknande
 om inte vårdtagaren, den boende själv eller anhörig gett sitt tillstånd.
-10. Den person som på grund sitt hälsotillstånd inte kan ge ett rättsligt relevant
+10\. Den person som på grund sitt hälsotillstånd inte kan ge ett rättsligt relevant
 samtycke till att träffa politiker på besök, ska inte behöva vara delaktiga i
 något studiebesök överhuvudtaget.
 

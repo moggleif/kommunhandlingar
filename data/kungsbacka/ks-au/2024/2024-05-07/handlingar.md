@@ -95,7 +95,7 @@ Antagande av Planeringsstrategi för Kungsbacka kommun 2024–2026
 Förslag till beslut i kommunfullmäktige
 
 Kommunfullmäktige antar Planeringsstrategi för Kungsbacka kommun 2024–2026, daterad 2024-04-
-10.
+10\.
 
 Sammanfattning av ärendet
 
@@ -997,15 +997,15 @@ att hänsyn tas till landskapsbilden. Planarbetet kommer att bedrivas i normal t
 uppsatt tidplan.
 
 PROJEKTETS  LEVERANSER
-1. Projektbeställning SBK/KS
-2. Projektplan SBK/Forum Samhällsbyggnad
+1\. Projektbeställning SBK/KS
+2\. Projektplan SBK/Forum Samhällsbyggnad
 
-3. Samrådshandlingar BN
-4. Granskningshandlingar SBK/BN
+3\. Samrådshandlingar BN
+4\. Granskningshandlingar SBK/BN
 
-5. Exploateringsavtal KS
+5\. Exploateringsavtal KS
 
-6. Antagandehandlingar BN
+6\. Antagandehandlingar BN
 Detaljplanen upprättas med standardförfarande. Ny detaljplan för fastigheterna bedöms ha ett mindre
 allmänt intresse och följer översiktsplanen, därav kan detaljplanen antas av byggnadsnämnden.
 
@@ -1020,29 +1020,29 @@ Planområdet avgränsas mot Lerbergsvägen i väster, i söder mot en privatägd
 mot Lillån och i norr mot befintligt bostadsområde längs Sidensvansvägen.
 Detaljplanen kommer att hantera:
 
-- lämplig storlek på byggrätt för bostäder
+\- lämplig storlek på byggrätt för bostäder
 
-- utformning av byggnader
-- trafiksäkra lösningar
+\- utformning av byggnader
+\- trafiksäkra lösningar
 
-- lämplig angöring mot Lerbergsvägen
-- mobilitet och parkering
+\- lämplig angöring mot Lerbergsvägen
+\- mobilitet och parkering
 
-- geotekniska förutsättningar
-- VA, dagvattenhantering och skyfall
+\- geotekniska förutsättningar
+\- VA, dagvattenhantering och skyfall
 
-- översvämningsrisk
-- strandskydd
+\- översvämningsrisk
+\- strandskydd
 
-- sociala aspekter
-- kopplingar till grönområdet längs Lillån
+\- sociala aspekter
+\- kopplingar till grönområdet längs Lillån
 
 <!-- sida 28 -->
 
 PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 4 (6)
 
-- lokaliseringsprövning
+\- lokaliseringsprövning
 
 TIDPLAN
 Q3 2024 Uppdragsbeslut BNAU

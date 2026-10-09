@@ -304,11 +304,11 @@ Förskola & Grundskola, nämnden för Gymnasium & Arbetsmarknad, nämnden för
 Individ & Familjeomsorg, nämnden för Kultur & Fritid, nämnden för Service,
 nämnden för Teknik, nämnden för Vård & Omsorg för yttrande över förslaget att:
 
-- se över både interna och externa priser för att skapa tydlighet och effektivitet.
-- samla interna utmärkelser och priser rörande medarbetare och ledare till
+\- se över både interna och externa priser för att skapa tydlighet och effektivitet.
+\- samla interna utmärkelser och priser rörande medarbetare och ledare till
 
 Medarbetardagen respektive Ledardagen
-- de förvaltningsspecifika priserna Lära för livet, Leva livet och Självständigt liv
+\- de förvaltningsspecifika priserna Lära för livet, Leva livet och Självständigt liv
 inte längre delas ut i kommunfullmäktige utan överlåtes till berörda nämnder att
 besluta om hur priserna ska se ut framåt.
 
@@ -932,13 +932,13 @@ Hållbarhetspriset delas ut till någon eller några som uppfyller någon av de 
 hållbarhetskategorierna: ekonomiskt, socialt och ekologiskt.
 Det kan exempelvis vara någon som:
 
-- Förbättrar hushållning med naturresurser, material, råvaror och energi.
-- Ökar kunskaperna om hållbarhetsfrågor.
-- Ökar kännedom om samt skydda och vårda värdefulla natur- och kulturmiljöer.
-- Bevarar den biologiska mångfalden.
-- Främjar människors hälsa.
-- Främjar delaktighet, inkludering och livskvalitet.
-- Bidrar till att utveckla en miljövänlig produktion och teknik.
+\- Förbättrar hushållning med naturresurser, material, råvaror och energi.
+\- Ökar kunskaperna om hållbarhetsfrågor.
+\- Ökar kännedom om samt skydda och vårda värdefulla natur- och kulturmiljöer.
+\- Bevarar den biologiska mångfalden.
+\- Främjar människors hälsa.
+\- Främjar delaktighet, inkludering och livskvalitet.
+\- Bidrar till att utveckla en miljövänlig produktion och teknik.
 
 Juryn som består av kommunstyrelsens arbetsutskott utser en eller flera vinnare.
 Priset är 10 000 kronor. Om priset delas på flera delas även prissumman.
@@ -985,31 +985,31 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Malin De Verdier lämnar följande information:
-- rapport som sammanfattar resultaten av en nationell kartläggning av AI-
+\- rapport som sammanfattar resultaten av en nationell kartläggning av AI-
 
 relaterade initiativ i svenska kommuner.
-- Den 14 november ägde Medarbetardagen rum. Medarbetardagen är ett tillfälle då
+\- Den 14 november ägde Medarbetardagen rum. Medarbetardagen är ett tillfälle då
 kommunen hyllar alla engagerade medarbetare och äger rum en gång om året på
 Kungsbacka teater.
 
-- Den 3 december ersätts kommundirektören av biträdande kommundirektör på
+\- Den 3 december ersätts kommundirektören av biträdande kommundirektör på
 kommunstyrelsens arbetsutskott på grund av annat åtagande.
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
 
-- Kungsbacka kommun har fått inbjudan att delta på digitalt möte med Lygnerns
+\- Kungsbacka kommun har fått inbjudan att delta på digitalt möte med Lygnerns
 vattenråd. Ordförande Lisa Andersson och samhällsbyggnadschef kommer att
 delta.
 
-- Det pågår en dialog om VA-kapacitet
+\- Det pågår en dialog om VA-kapacitet
 Ordförande Lisa Andersson (M) lämnar följande information:
 
-- Den 10 december har ordförande blivit inbjuden att tala om politikens roll i
+\- Den 10 december har ordförande blivit inbjuden att tala om politikens roll i
 arbetet med digitalisering och ersätts på kommunstyrelsens arbetsutskott av vice
 ordförande.
-- Återrapportering från Kommun- och regionledningsforum (KRF) där regional
+\- Återrapportering från Kommun- och regionledningsforum (KRF) där regional
 
 fysisk planering diskuterades.
-- 4 december kommer ordförande delta i rundabordssamtal på socialdepartementet
+\- 4 december kommer ordförande delta i rundabordssamtal på socialdepartementet
 om minskad sjukfrånvaro.
 
 Ledamoten Emanuel Forsell informerar om pressmeddelande som förvaltningen för

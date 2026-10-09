@@ -229,7 +229,7 @@ Kostnadsfördelningen sker genom att samtliga samverkanskommuner betalar en fast
 om 150 000 kronor. Resterande del av budgeten fördelas utifrån kommunernas invånarantal
 per den 31 december året före budgetens fastställande. Dessa uppgifter har ännu inte
 publicerats av SCB. I förslaget till nämnd har därför utgåtts från siffrorna per tredje kvartalet
-2025. Detta kommer att uppdateras innan budget fastställs, men bör rimligtvis inte påverka
+2025\. Detta kommer att uppdateras innan budget fastställs, men bör rimligtvis inte påverka
 fördelningen väsentligt.
 
 Den procentuella kostnadsfördelningen för 2027 är preliminärt att kommunerna, utöver den
@@ -833,7 +833,7 @@ fram. I den kommande ansökan och tillhörande
 miljökonsekvensbeskrivning (MKB) redovisas bedömningar av projektets
 miljökonsekvenser. Detta samråd avser möjligheten att placera ledningen
 inom någon av de utredningskorridorer som redovisas i Figur 1 och Figur
-2.
+2\.
 
 7
 
@@ -5033,7 +5033,7 @@ kommuner under detaljprojektering och byggfas.
 
 Miljökonsekvensbeskrivning
 
-- innehåll      och   utformning
+\- innehåll      och   utformning
 
 Svenska kraftnät kommer ta fram två miljökonsekvensbeskrivningar för
 den planerade verksamheten som efter samrådsprocessen bedöms som
@@ -5421,7 +5421,7 @@ Länsstyrelsen Västra Götalands län, 2024, Bevarandeplan för Natura
 
 Länsstyrelsen Västra Götalands län:
 Beskrivning av marina värdetrakter i Västra Götalands län: https://ext-
-dokument.lansstyrelsen.se/VastraGotaland/Naturvard/Gron_Infra/Marina_
+dokument.lansstyrelsen.se/VastraGotaland/Naturvard/Gron_Infra/Marina\_
 vardetrakter_Beskrivning.pdf, 2026-01-30
 
 Mölndals stad, kulturmiljöprogram:
@@ -5553,7 +5553,7 @@ PROJEKTBESTÄLLNING
 Detaljplan
 SAMHÄLLSBYGGNAD
 Kungsbacka
-18)
+18\)
 Projektnamn
 
 Detaljplan för bostäder och centrumverksamhet inom fastigheterna Aranäs 10 och 15 i Kungsbacka
@@ -5728,22 +5728,22 @@ PROJEKTETS LEVERANSER
 Projektet kommer att ha följande leveranser:
 
 Nr [Beskrivning Mottagare
-1. Plankostnadsavtal SBK
+1\. Plankostnadsavtal SBK
 
 p. Projektbeställning SBK/KS
-3. Planuppdra g IBNAU
+3\. Planuppdra g IBNAU
 
-4. Projektplan SBK
+4\. Projektplan SBK
 
-5. — Principavtal KS
+5\. — Principavtal KS
 
-6. - ISamrådshandlingar BN
+6\. - ISamrådshandlingar BN
 
-7.  IGranskningshandlingar BN
+7\.  IGranskningshandlingar BN
 
-8.  JExploateringsavtal KS
+8\.  JExploateringsavtal KS
 
-9.  lAntagandehandlingar BN
+9\.  lAntagandehandlingar BN
 
 <!-- sida 141 -->
 
@@ -5985,7 +5985,7 @@ vilka förutsättningar som gäller.
 
 Kommunfullmäktige beslutar att:
 
-- ge kommunstyrelsen i uppdrag att utreda, eventuellt utifrån det pågående projektet med
+\- ge kommunstyrelsen i uppdrag att utreda, eventuellt utifrån det pågående projektet med
 prislappsmodellen, hur den ekonomiska kompensationen för drift av vård- och
 omsorgsboendeverksamheten kan förbättras så att nya vård- och omsorgsboendeverksamheter tilldelas
 en öronmärkt budget vid start av verksamheten.

@@ -730,7 +730,7 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 Kommundirektör Malin Aronsson informerar om lönesättning för förvaltningschefer
-2024.
+2024\.
 
 Beslut om lönenivåer fattar kommundirektören, men kommunstyrelsens arbetsutskott
 får information om den tänkta lönesättningen.
@@ -758,18 +758,18 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 Kommundirektör Malin Aronsson lämnar information om:
 
-- att SKRs digitala handslag nu är klart.
-- tips att läsa Säkerhetspolisens (SÄPO) årsberättelse 2023-2024.
+\- att SKRs digitala handslag nu är klart.
+\- tips att läsa Säkerhetspolisens (SÄPO) årsberättelse 2023-2024.
 
-- att kommunen och polisen har genomfört strategisk ledningsdialog - ett
+\- att kommunen och polisen har genomfört strategisk ledningsdialog - ett
 informellt möte där kommunen och polisen diskuterar gemensamma aktuella
 frågor.
 Samhällsbyggnadschef Lovisa Eld lämnar information om:
 
-- att kommunen har haft en dialog med Västtrafik rörande gränsavdragsavtal som
+\- att kommunen har haft en dialog med Västtrafik rörande gränsavdragsavtal som
 reglerar kostnaden för kollektivtrafik i länsöverskridande kollektivtrafikområden.
 
-- att kommunen kommer att få möjlighet att ta del av Regional fysisk plan innan
+\- att kommunen kommer att få möjlighet att ta del av Regional fysisk plan innan
 den går ut på formellt samråd.
 Ordförande Lisa Andersson (M) framför önskemål om att få information om
 Hallandstrafikens Trafikplan 2025 utblick 2026-2027.

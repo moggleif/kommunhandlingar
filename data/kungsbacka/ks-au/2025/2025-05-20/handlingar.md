@@ -378,12 +378,12 @@ ombudget
 Årets resultat, prognos       464   753  231   286     261   642
 Avgår jämförelsestörande poster: 301 -184 52   -75      0   -180
 0
-- varav resultat från exploateringsverksamhet -25 -184 40 23 -202
+\- varav resultat från exploateringsverksamhet -25 -184 40 23 -202
 Strukturellt resultat/prognos1 494  569  276   211     261   462
 Resultatets andel av skatter & statsbidrag
 Årets resultat (%)            8,4  13,1   3,8  4,6     4,0  10,0
 Strukturellt resultat (%)     9,0   9,8   4,7  3,4     4,0   7,2
-1) Årets resultat exklusive jämförelsestörande poster
+1\) Årets resultat exklusive jämförelsestörande poster
 Prognosen är att årets resultat blir 642 miljoner kronor. Det är 356 miljoner kronor mer än resultatet
 förra året. Det prognostiserade resultatet motsvarar tio procent av skatteintäkter och statsbidrag,
 jämfört med 4,6 procent förra året. Kommunen har inte med resultatet från
@@ -673,7 +673,7 @@ Kungsbacka kommun         Apriluppföljning 2025                 9
 
 8  Driftredovisning
 
-1) I finansverksamheten ingår bara verksamhetens nettokostnader, det vill säga skatteintäkter och generella
+1\) I finansverksamheten ingår bara verksamhetens nettokostnader, det vill säga skatteintäkter och generella
 statsbidrag samt finansiella poster ingår inte i beloppen.
 
 Nämndernas prognos + 36 miljoner kronor
@@ -860,7 +860,7 @@ VA-verksamhetsområde 2024
 Förslag till beslut i kommunfullmäktige
 Kommunfullmäktige fastställer nya verksamhetsområden i enlighet med bilaga 1-19, daterad 2025-01-
 
-31.
+31\.
 
 Sammanfattning av ärendet
 
@@ -1168,7 +1168,7 @@ Gårdskullavägen, enligt bilaga 11
 
 Benjaminssons Väg, enligt bilaga 12
 •  Verksamhetsområde för dricksvatten och spillvatten för Hanhals - Heavägen, enligt bilaga
-13.
+13\.
 
 •  Verksamhetsområde för dricksvatten och spillvatten för Hanhals - Vårdkaseberg, enligt
 bilaga 14
@@ -1446,7 +1446,7 @@ Bilaga 5. Komplettering av VA-Utbyggnadsområde - Hagryd-Dala
 
 Bilagor 1 – 19 VA-Verksamhetsområde 2024, 2025-01-31 TE-2025-00019
 
-6. VA-Utbyggnadsområde – Altardalsvägen
+6\. VA-Utbyggnadsområde – Altardalsvägen
 Verksamhetsområde för dricksvatten och spillvatten är markerat med rosa.
 
 Syftet med beslut om verksamhetsområde är att genom genomförande av VA-utbyggnadsplanen
@@ -2084,7 +2084,7 @@ MBL med anledning av behov att tillämpa avvikelse för
 arbetstidsförläggning inom bostad med särskild service (BmMSS)
 vid resor och annan utflyttad verksamhet.
 
-$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
+\$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
 arbetstidsförläggning enligt Allmänna Bestämmelser, AB, och
 Bilaga J, identifierat ett behov av att tillämpa avvikelse genom
 att schemalägga arbetspass på upp till 24 timmar inom bostad
@@ -2190,18 +2190,18 @@ Tänk på att medarbetare och skyddsombud och elevskyddsombud ska ges möjlighet
 riskbedömning och handlingsplan görs.
 
 Använd checklistan så här:
-1. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
+1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
 
-2. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
+2\. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
 friskfaktorer!
-3. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
+3\. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
 
-4. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
+4\. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
 och datum för när åtgärden ska vara genomförd.
 
 -Tips!
-- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
+\- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
 
 2/4
 2025-198
@@ -2249,7 +2249,7 @@ under och efter resan.
 |  | Identifiera riskkällor som ni tror uppstår efter genomförd förändring och bedöm om dessa kan leda till risker för ohälsa eller<br>olycksfall. Glöm inte att även lyfta friskfaktorer som förändringen kan medföra. Om en risk ska åtgärdas - klicka på<br>skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig och datum. Klicka på pilen längst till vänster för att<br>lägga till en ny rad. |  |  |
 | 2.1 | Friskfaktor- möjlighet att arbeta längre arbetspass vid<br>resor för att inte förlägga personalbyten under<br>dagen/under aktivitet/utflykt | 0 |  |
 | 2.2 | Friskfaktor- 24h arbetspass skapar förutsättning och<br>möjlighet för att möta brukarens rätt till ett självständigt<br>liv enligt LSS lagstiftningen. | 0 |  |
-| 2.3 | Riskfaktor- högre arbetsbelastning vid längre<br>arbetspass | 2*1<br>2 | Att som medarbetare följa med på resa bygger<br>på frivillighet för medarbetare.<br>AG säkerställer att veckovila planeras in före<br>och efter resan, samt att möjlighet till vila och<br>återhämtning finns under arbetspasset. |
+| 2.3 | Riskfaktor- högre arbetsbelastning vid längre<br>arbetspass | 2\*1<br>2 | Att som medarbetare följa med på resa bygger<br>på frivillighet för medarbetare.<br>AG säkerställer att veckovila planeras in före<br>och efter resan, samt att möjlighet till vila och<br>återhämtning finns under arbetspasset. |
 
 [Tabell 66-2](handlingar.tabeller/66-2.csv)
 
@@ -2284,24 +2284,24 @@ Skyddsombud: ...................................................................
 Uppgifter som ska lämnas i samband med begäran om dispens
 I samband med begäran om dispens ska arbetsgivaren besvara följande frågor.
 
-1. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
+1\. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
 vilken.
 Begäran avser avvikelse från Bilaga J.
 
-2. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
+2\. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
 dispens?
 Begäran avser bostad med särskild service (BmSS) inom Förvaltningen för Individ & Familjeomsorg i
 Kungsbacka kommun. Begäran avser att tillämpas för de medarbetare som medföljer brukare vid
 resor där ordinarie schemaläggning inte är möjligt.
 
-3. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
+3\. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
 många arbetstagare i dessa grupper skulle beröras?
 Beslutet kommer att beröra de medarbetare som följer med brukare vid resor och inte inom den
 
 ordinarie schemaläggningen.
 Berörda yrkesgrupper är stödbiträden, stödassistenter och stödpedagoger.
 
-4. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
+4\. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
 saknas specifik kompetens eller dylikt. Om så är fallet vilken/vilka kompetenser
 saknas och vilka konsekvenser får det?
 Vid planerade resor följer medarbetare med brukaren för att tillgodose de behov av stöd som den
@@ -2309,31 +2309,31 @@ enskilde individen har. Vid längre resor och/eller resor på långt avstånd ti
 
 möjlighet till att följa ordinarie schemaläggning enligt AB Bilaga J.
 
-5. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
+5\. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
 brukare, barn, civilsamhälle eller dylikt) som särskilt behöver beaktas när
 verksamheten bemannas.
 Att ha en personal medföljande på resor är en rättighet för brukaren och ett lagkrav som
 arbetsgivare har att följa.
 
-6. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
+6\. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
 
 deltidsarbete, frånvaro, svårigheter att rekrytera eller dylikt?
 Begäran avser tillämpning inom BmSS vid resor under en begränsad tidsperiod. Vid resor planeras i
 största möjliga mån frivilligt medföljande medarbetare i dialog med brukaren.
 
-7. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
+7\. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
 glesbygd med långa pendlingsavstånd eller dylikt?
 Det finns inte alltid möjlighet att följa ordinarie schema vid resor då det kan röra sig om stora
 geografiska områden inom Sverige samt till andra länder. Vid längre resor behöver antalet personal
 som arbetar minimeras för att möjliggöra resan för brukaren.
 
-8. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
+8\. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
 yrkesgrupp/yrkesgrupper. Bifoga statistik om sådan finns att tillgå.
 Vi arbetar enligt AB Bilaga J och det finns inga planerade insatser under jourtid.
 
 <!-- sida 69 -->
 
-9. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
+9\. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
 månaderna.
 Förväntad utveckling och belastning är oförändrad under kommande 12 månader.
 Arbetsmiljö och arbetssituation följs upp regelbundet, löpande och på varje arbetsplatsträff för att
@@ -2346,7 +2346,7 @@ levnadsvillkor.
 Det förekommer regelbundet resor inom BmSS där personal följer med. Varje resa planeras
 individuellt utifrån brukarens behov.
 
-10. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
+10\. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
 bilaga till AB ska kunna förläggas.
 Risk och konsekvensbedömning har gjorts för att;
 -identifiera brukarens behov
@@ -2358,7 +2358,7 @@ efter resan
 Arbetstidsförläggning med 24h arbetspass inom funktionshinderområdet är tillämpligt enligt AB
 Bilaga J.
 
-11. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
+11\. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
 sammantaget uppgår till 20 timmar, inte är tillräckligt för verksamheten. Beskriv
 
 också vilka konsekvenser en sådan schemaläggning skulle medföra för verksamheten.
@@ -2371,7 +2371,7 @@ dygns- och veckovila enligt AB Bilaga J samt för att säkerställa en god arbet
 följa med brukare på resa bygger på frivillighet för medarbetarna och det finns alltid en dialog mellan
 brukare, medarbetare och enhetschef inför och under planering av resan.
 
-12. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
+12\. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
 Tidsperioden för begärt beslut är 2025-07-01 till och med 2026-01-30, för att sedan ha samma
 tidsperiod som övriga beslut inom förvaltningen.
 
@@ -2388,19 +2388,19 @@ Taxa för sotning och rengöring samt frister för sotning och rengöring
 
 Förslag till beslut i kommunfullmäktige
 
-1. Kommunfullmäktige antar Taxa för sotning och rengöring, i enlighet med bilaga 1, med stöd av
+1\. Kommunfullmäktige antar Taxa för sotning och rengöring, i enlighet med bilaga 1, med stöd av
 3 kap. 6 § lag om skydd mot olyckor
 
-2. Kommunfullmäktige antar Frister sotning och rengöring, i enlighet med bilaga 2, med stöd av
+2\. Kommunfullmäktige antar Frister sotning och rengöring, i enlighet med bilaga 2, med stöd av
 3 kap. 1 § förordning om skydd mot olyckor
-4. Taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2027 för Kungsbacka kommun,
+4\. Taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2027 för Kungsbacka kommun,
 med den justering som sker enligt beslutspunkt 8.
 
-6. Fristerna enligt beslutspunkt 2 gäller från och med den 1 september 2026 för Kungsbacka
+6\. Fristerna enligt beslutspunkt 2 gäller från och med den 1 september 2026 för Kungsbacka
 kommun.
-7. Taxans basår är 2024.
+7\. Taxans basår är 2024.
 
-8. Räddningstjänstförbundet Storgöteborg ska för varje avgiftsår justera taxan i beslutspunkt 1
+8\. Räddningstjänstförbundet Storgöteborg ska för varje avgiftsår justera taxan i beslutspunkt 1
 enligt följande. Taxan revideras årligen enligt Sotningsindex den 1 april 2025 och 1 april 2026.
 Från och med den 1 januari 2027 ska taxan justeras i enlighet med Prisindex för Kommunal
 Verksamhet (PKV), som meddelas av Sveriges Kommuner och Regioner. Vid justeringen
@@ -2490,7 +2490,7 @@ Befintliga avtal med nuvarande sotningsleverantörer för kommunerna Göteborg, 
 Härryda, Lerum och Partille löper ut den 31 december 2026. Avtalen omfattar sotning och rengöring.
 Befintliga avtal med nuvarande sotningsleverantörer för kommunerna Tjörn, Stenungsund och Lilla
 Edet, det vill säga tidigare Södra Bohusläns Räddningstjänst Förbund (SBRF), löper ut den 31 augusti
-2026. Avtalen som följde kommunerna i SBRF in i RSG omfattar både sotning och rengöring samt
+2026\. Avtalen som följde kommunerna i SBRF in i RSG omfattar både sotning och rengöring samt
 brandskyddskontroll.
 
 Arbetet med en ny upphandling av en tjänstekoncession, där taxan för sotning och rengöring på
@@ -2666,23 +2666,23 @@ Sotningstaxa och frister 2026
 Beslut
 Förbundsstyrelsen överlämnar till medlemskommunernas kommunstyrelser och kommunfullmäktige
 att besluta:
-1. att anta Taxa sotning och rengöring, i enlighet med bilaga 1, med stöd av 3 kap. 6 § lag om skydd
+1\. att anta Taxa sotning och rengöring, i enlighet med bilaga 1, med stöd av 3 kap. 6 § lag om skydd
 mot olyckor,
 
-2. att anta Frister sotning och rengöring, i enlighet med bilaga 2, med stöd av 3 kap. 1 § förordning
+2\. att anta Frister sotning och rengöring, i enlighet med bilaga 2, med stöd av 3 kap. 1 § förordning
 om skydd mot olyckor,
-3. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 för kommunerna
+3\. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 för kommunerna
 Tjörn, Stenungsund och Lilla Edet, med den justering som sker enligt beslutspunkt 8,
-4. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2027 för kommunerna
+4\. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2027 för kommunerna
 Göteborg, Mölndal, Kungsbacka, Härryda, Lerum och Partille med den justering som sker enligt
 beslutspunkt 8,
-5. att fristerna enligt beslutspunkt 2 gäller från och med den 1 september 2026 för kommunerna
+5\. att fristerna enligt beslutspunkt 2 gäller från och med den 1 september 2026 för kommunerna
 Tjörn, Stenungsund och Lilla Edet
-6. att fristerna enligt beslutspunkt 2 gäller från och med den 1 januari 2027 för kommunerna
+6\. att fristerna enligt beslutspunkt 2 gäller från och med den 1 januari 2027 för kommunerna
 
 Göteborg, Mölndal, Kungsbacka, Härryda, Lerum och Partille
-7. att taxans basår är 2024 samt
-8. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska justera taxan i beslutspunkt 1
+7\. att taxans basår är 2024 samt
+8\. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska justera taxan i beslutspunkt 1
 enligt följande. Taxan ska årligen justeras enligt Sotningsindex den 1 april 2025 och 1 april 2026.
 Från och med den 1 januari 2027 ska taxan justeras i enlighet med Prisindex för kommunal
 verksamhet (PKV), som meddelas av Sveriges Kommuner och Regioner.
@@ -2747,34 +2747,34 @@ Taxa för sotning och rengöring samt frister för sotning
 
 och rengöring
 
-1.   Förslag till beslut
+1\.   Förslag till beslut
 Förbundsstyrelsen överlämnar till medlemskommunernas kommunstyrelser och
 
 kommunfullmäktige att besluta:
-1. att anta Taxa sotning och rengöring, i enlighet med bilaga 1, med stöd av 3 kap. 6 §
+1\. att anta Taxa sotning och rengöring, i enlighet med bilaga 1, med stöd av 3 kap. 6 §
 lag om skydd mot olyckor,
 
-2. att anta Frister sotning och rengöring, i enlighet med bilaga 2, med stöd av 3 kap.
+2\. att anta Frister sotning och rengöring, i enlighet med bilaga 2, med stöd av 3 kap.
 1 § förordning om skydd mot olyckor,
-3. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 för
+3\. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 för
 kommunerna Tjörn, Stenungsund och Lilla Edet, med den justering som sker enligt
 beslutspunkt 8,
-4. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2027 för
+4\. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2027 för
 kommunerna Göteborg, Mölndal, Kungsbacka, Härryda, Lerum och Partille med den
 justering som sker enligt beslutspunkt 8,
-5. att fristerna enligt beslutspunkt 2 gäller från och med den 1 september 2026 för
+5\. att fristerna enligt beslutspunkt 2 gäller från och med den 1 september 2026 för
 
 kommunerna Tjörn, Stenungsund och Lilla Edet
-6. att fristerna enligt beslutspunkt 2 gäller från och med den 1 januari 2027 för
+6\. att fristerna enligt beslutspunkt 2 gäller från och med den 1 januari 2027 för
 kommunerna Göteborg, Mölndal, Kungsbacka, Härryda, Lerum och Partille
-7. att taxans basår är 2024 samt
-8. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska justera taxan i
+7\. att taxans basår är 2024 samt
+8\. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska justera taxan i
 beslutspunkt 1 enligt följande. Taxan ska årligen justeras enligt Sotningsindex den 1
 april 2025 och 1 april 2026. Från och med den 1 januari 2027 ska taxan justeras i
 enlighet med Prisindex för kommunal verksamhet (PKV), som meddelas av Sveriges
 Kommuner och Regioner.
 
-2.   Sammanfattning
+2\.   Sammanfattning
 
 Då föreskriftsrätt inte kan delegeras från kommun till kommunalförbund behöver
 RSG:s medlemskommuner fatta beslut om de taxor och frister som RSG ska tillämpa i
@@ -2818,7 +2818,7 @@ allmänna råd. Endast mindre språkliga justeringar av fristformuleringar och s
 bestämmelser har nu gjorts för att tydliggöra dessa för fastighetsägare samt
 sotningsleverantörer.
 
-3.   Ärendet
+3\.   Ärendet
 
 Bakgrund
 
@@ -2919,7 +2919,7 @@ Byte av index
 
 Sveriges Kommuner och Regioner (SKR) har meddelat i ett cirkulär (Rekommendation
 om index för justering av sotningstaxor, cirkulär Nr 24:37) att sotningsindex upphör år
-2029. Den nya rekommendationen från SKR är att Prisindex för Kommunal Verksamhet
+2029\. Den nya rekommendationen från SKR är att Prisindex för Kommunal Verksamhet
 (PKV) används för justering av sotningstaxor och att taxorna justeras per den 1 januari.
 
 Av cirkuläret framgår bland annat följande:
@@ -2971,17 +2971,17 @@ Lorentson, enhetschef, Therese Kogler Bennsten, förbundsjurist och Marie Calden
 
 chefsjurist.
 
-4.   Bilagor
+4\.   Bilagor
 
-1. Taxa sotning och rengöring
-2. Frister sotning och rengöring
-3. Nuvarande taxa för sotning och rengöring för Göteborg, Mölndal, Kungsbacka,
+1\. Taxa sotning och rengöring
+2\. Frister sotning och rengöring
+3\. Nuvarande taxa för sotning och rengöring för Göteborg, Mölndal, Kungsbacka,
 Härryda, Lerum och Partille
-4. Nuvarande taxa för sotning och rengöring för Tjörn
+4\. Nuvarande taxa för sotning och rengöring för Tjörn
 
-5. Nuvarande taxa för sotning och rengöring för Stenungsund
-6. Nuvarande taxa för sotning och rengöring för Lilla Edet
-7. Nuvarande frister för sotning och rengöring (för samtliga nio medlemskommuner)
+5\. Nuvarande taxa för sotning och rengöring för Stenungsund
+6\. Nuvarande taxa för sotning och rengöring för Lilla Edet
+7\. Nuvarande frister för sotning och rengöring (för samtliga nio medlemskommuner)
 
 5 (5)
 
@@ -2999,7 +2999,7 @@ Stenungsund och Lilla Edet)
 För utförande av föreskriven sotning/rengöring enligt 3 kap. 4 § lag om skydd mot olyckor (2003:778) utgår ersättning enligt denna
 taxa.
 
-1.
+1\.
 
 1.1
 
@@ -3037,7 +3037,7 @@ taxa.
 
 Diarienummer: 2025/76
 
-2.
+2\.
 2.1
 
 2.2
@@ -3124,35 +3124,35 @@ Exempelvis i restauranger, större kök eller andra kommersiella anläggningar
 
 SÄRSKILDA BESTÄMMELSER
 
-1. Undantag från angiven frist gäller vid följande situationer:
-- Om panna eller lokaleldstad (rumsvärmare) inte använts efter senaste rengöring (sotning) behöver ingen
+1\. Undantag från angiven frist gäller vid följande situationer:
+\- Om panna eller lokaleldstad (rumsvärmare) inte använts efter senaste rengöring (sotning) behöver ingen
 rengöring utföras. Vid bestämmande av nästa rengöringstillfälle, ska rengöring anses gjord enligt gällande
 frister
-- Om storkök för matlagning eller uppvärmning inte genererar fettavsättning, behöver ingen rengöring
+\- Om storkök för matlagning eller uppvärmning inte genererar fettavsättning, behöver ingen rengöring
 utföras
 
-2. Fastighetsägare eller nyttjanderättshavare ska till Räddningstjänsten Storgöteborg anmäla:
-- Byte av förbränningsanordning
-- Byte av bränsleslag
-- Ändrad eldningsfrekvens
-- Om anläggning inte används eller om befintlig anläggning kommer tas i bruk
+2\. Fastighetsägare eller nyttjanderättshavare ska till Räddningstjänsten Storgöteborg anmäla:
+\- Byte av förbränningsanordning
+\- Byte av bränsleslag
+\- Ändrad eldningsfrekvens
+\- Om anläggning inte används eller om befintlig anläggning kommer tas i bruk
 
-3. Tätare sotningsfrist kan tillämpas i enskilda fall när det är betingat av brandskyddsmässiga skäl.
+3\. Tätare sotningsfrist kan tillämpas i enskilda fall när det är betingat av brandskyddsmässiga skäl.
 Beslut fattas av Räddningstjänsten Storgöteborg.
 
-4. I enskilda fall kan sotning utföras på kunds begäran mellan ordinarie sotningstillfällen om behov uppstår
+4\. I enskilda fall kan sotning utföras på kunds begäran mellan ordinarie sotningstillfällen om behov uppstår
 och är betingat av brandskyddsmässiga skäl eller om kund har fått ett föreläggande av Räddningstjänsten
 Storgöteborg om borttagning av brandfarlig beläggning. En förutsättning är att det är fråga om en sotning
 inom ramen för föreskriven sotningstjänst. Vid upprepat behov av sotning ska i stället bestämmelsen om
 förtätning av sotningsfrist tillämpas, se föregående punkt.
 
-5. Vid sammanhang där det kan bli en bedömning om ovan angivna frister eller avvikande bränsleslag.
+5\. Vid sammanhang där det kan bli en bedömning om ovan angivna frister eller avvikande bränsleslag.
 Beslut fattas av Räddningstjänsten Storgöteborg.
 
-6. När en anläggning tagits i drift kan den första sotningen, av planeringsmässiga skäl, behöva göras tidigare
+6\. När en anläggning tagits i drift kan den första sotningen, av planeringsmässiga skäl, behöva göras tidigare
 än den dag då fristen löper ut.
 
-7. Sotning samt rengöring ska fördelas jämnt över året utifrån gällande sotningsfrister.
+7\. Sotning samt rengöring ska fördelas jämnt över året utifrån gällande sotningsfrister.
 
 [Tabell 86-1](handlingar.tabeller/86-1.csv)
 
@@ -3176,7 +3176,7 @@ Lerum)
 För utförande av föreskriven sotning/rengöring enligt 3 kap. 4 § lag om skydd mot olyckor (2003:778) utgår ersättning
 enligt denna taxa.
 
-1.
+1\.
 
 1.1
 
@@ -3214,7 +3214,7 @@ enligt denna taxa.
 
 Dnr A0318/20
 
-2.
+2\.
 
 2.1
 
@@ -3311,9 +3311,9 @@ rengöringstillfälle ska rengöring anses gjord enligt gällande frister.
 
 •  Ägare/brukare av anläggning ska till Räddningstjänsten Storgöteborg anmäla:
 
-- byte av förbränningsanordning
-- byte av bränsleslag
-- ändrad eldningsfrekvens
+\- byte av förbränningsanordning
+\- byte av bränsleslag
+\- ändrad eldningsfrekvens
 
 •  Tätare sotningsfrist kan tillämpas i enskilda fall när det är betingat av brandskyddsmässiga skäl.
 Beslut fattas av Räddningstjänstförbundet Storgöteborg.
@@ -3842,7 +3842,7 @@ gårdsförsäljningstillstånd av alkoholdrycker bör vara samma som tid för pr
 stadigvarande serveringstillstånd för provsmakning vid tillverkningsstället. Förvaltningens förslag är
 att avgiften sätts att motsvara nio timmars arbete. Bygg- och miljöförvaltningen föreslår också att
 avgiften för prövning av ansökan om gårdsförsäljning av alkoholdrycker ska följa taxans bestämmelse
-5. Om Indexjustering av avgiftsbelopp. Vid nämnden för Miljö & Hälsoskydds sammanträde ställdes
+5\. Om Indexjustering av avgiftsbelopp. Vid nämnden för Miljö & Hälsoskydds sammanträde ställdes
 
 flera yrkanden om lägre debitering framför allt för verksamheter som redan har stadigvarande
 serveringstillstånd. Nämnden för Miljö & Hälsoskydd beslutade att föreslå att avgiften för
@@ -4065,7 +4065,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 108 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 1.1 Denna taxa gäller avgifter enligt
 •  Alkohollag (2010:1622) 8 kap. 10 §
@@ -4098,14 +4098,14 @@ Om det finns särskilda skäl får avgiften sättas ned eller helt efterges av n
 
 för Miljö & Hälsoskydd.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Enligt 2 kap. 5 och 6 § i kommunallagen (2017:725) får kommuner ta ut avgifter
 för tjänster och nyttigheter som de tillhandahåller. Kommuner får inte ta ut högre
 avgifter än kostnaden för de tjänster eller nyttigheter som kommunen
 tillhandahåller (självkostnaden). Timavgiften har beräknats utifrån SKR:s
 vägledning och är samma timavgift som fastställs för livsmedelstillsynen.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Avgifterna i denna taxa gäller myndighetsutövning och omfattas därmed inte av
 mervärdesskatt.
 
@@ -4113,7 +4113,7 @@ Taxa för prövni ng och tillsyn Sida 2 av 6
 
 <!-- sida 109 -->
 
-4. Avgiftsbelopp/taxetabeller
+4\. Avgiftsbelopp/taxetabeller
 4.1 Prövningsavgifter serveringstillstånd enligt alkohollagen
 Tabell 1
 
@@ -4239,7 +4239,7 @@ Rörlig tillsynsavgift vid stadigvarande servering till allmänheten per år Ant
 6 000 001 – 8 000 000                                     19
 
 8 000 001 – 12 000 000                                    21
-> 12 000 000                                              23
+\> 12 000 000                                              23
 
 4.4 Tillsynsavgifter folköl, tobak och liknande produkter,
 tobaksfria nikotinprodukter samt vissa receptfria läkemedel
@@ -4277,7 +4277,7 @@ debiteras fast tillsynsavgift inklusive eventuella påminnelseavgifter samt
 maximalt belopp för den rörliga delen i tillsynsavgiften.
 Tabell 5
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Timavgiften i denna taxa är bestämd med utgångspunkt från kostnadsläge och
 Prisindex för kommunal verksamhet (PKV) oktober månad året före det år taxan
 börjar gälla.
@@ -4288,7 +4288,7 @@ Sveriges Kommuner och Regioners webbplats för oktober månad året före
 avgiftsåret. Nu gällande timavgift är beräknad med basår 2022 och därefter
 indexjusterad.
 
-6. Övergångsbestämmelser
+6\. Övergångsbestämmelser
 Denna taxa börjar gälla den 1 juli 2025. Ärenden inkomna före den 1 juli 2025
 debiteras enligt tidigare gällande taxa antagen av kommunfullmäktige den 14 juni
 2023 § 76.
@@ -4462,7 +4462,7 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 117 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 1.1 Denna taxa gäller avgifter enligt
 •  Alkohollag (2010:1622) 8 kap. 10 §
@@ -4490,20 +4490,20 @@ Sådan avgift tas ut för varje påbörjad halvtimme nedlagd handläggningstid.
 Om det finns särskilda skäl får avgiften sättas ned eller helt efterges av nämnden för Miljö &
 Hälsoskydd.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Enligt 2 kap. 5 och 6 § i kommunallagen (2017:725) får kommuner ta ut avgifter för tjänster och
 nyttigheter som de tillhandahåller. Kommuner får inte ta ut högre avgifter än kostnaden för de
 tjänster eller nyttigheter som kommunen tillhandahåller (självkostnaden). Timavgiften har beräknats
 utifrån SKR:s vägledning och är samma timavgift som fastställs för livsmedelstillsynen.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Avgifterna i denna taxa gäller myndighetsutövning och omfattas därmed inte av mervärdesskatt.
 
 Taxa för prövni ng och tillsyn Sida 2 av 6
 
 <!-- sida 118 -->
 
-4. Avgiftsbelopp/taxetabeller
+4\. Avgiftsbelopp/taxetabeller
 
 4.1 Prövningsavgifter serveringstillstånd enligt alkohollagen
 Tabell 1
@@ -4616,7 +4616,7 @@ Taxa för prövni ng och tillsyn Sida 4 av 6
 6 000 001 – 8 000 000                                     19
 
 8 000 001 – 12 000 000                                    21
-> 12 000 000                                              23
+\> 12 000 000                                              23
 
 4.4 Tillsynsavgifter folköl, tobak och liknande produkter, tobaksfria
 
@@ -4654,7 +4654,7 @@ Taxa för prövni ng och tillsyn Sida 5 av 6
 
 Tabell 5
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 Timavgiften i denna taxa är bestämd med utgångspunkt från kostnadsläge och Prisindex för
 kommunal verksamhet (PKV) oktober månad året före det år taxan börjar gälla.
 Nämnden för Miljö & Hälsoskydd får för varje kalenderår (avgiftsår) därefter besluta att justera
@@ -4662,10 +4662,10 @@ timavgiften med den procentsats för PKV som är publicerad på Sveriges Kommune
 
 webbplats för oktober månad året före avgiftsåret.
 
-7. Övergångsbestämmelser
+7\. Övergångsbestämmelser
 Denna taxa börjar gälla 1 juli 2023. Ärenden inkomna före 1 juli 2023 debiteras enligt tidigare
 gällande taxor. Antagna 2018-12-13, KF §§ 258–259 jämte komplettering, antagen 2019-10-08, §
-141.
+141\.
 
 Beslutad av: Kommunfullmäktige 14 juni 2023 § 76, Dnr KS 2023-00205
 Gäller från: 1 juli 2023
@@ -4744,20 +4744,20 @@ dricksvatten. Inspiration kan hämtas från Helsingborgs unika system ”två r�
 
 Vi föreslår därför:
 
-- att kommunen uppmuntrar enskilda fastighetsägare och byggentreprenörer att
+\- att kommunen uppmuntrar enskilda fastighetsägare och byggentreprenörer att
 installera vattenbesparande utrustning
 
-- att kommunen erbjuder rådgivning och tips till de fastighetsägare som vill
+\- att kommunen erbjuder rådgivning och tips till de fastighetsägare som vill
 installera vattenbesparande system och cirkulerande system för till exempel
 regnvatten och gråvatten
 
-- att kommunen uppmuntrar innovativ teknik för att använda regnvatten och
+\- att kommunen uppmuntrar innovativ teknik för att använda regnvatten och
 återcirkulerat gråvatten
 
-- att kommunen uppdrar åt Eksta bostadsbolag att skissa ett pilotsystem med
+\- att kommunen uppdrar åt Eksta bostadsbolag att skissa ett pilotsystem med
 hållbar bostadsbebyggelse förslagsvis i Forsbergen
 
-- att kommunen utreder hur källsortering av avloppsvatten kan testas i en
+\- att kommunen utreder hur källsortering av avloppsvatten kan testas i en
 pilotanläggning
 
 2025-04-25

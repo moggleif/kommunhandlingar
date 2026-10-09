@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 Ärende               Beteckning Förslag
 
-3.  Lönestruktur 2026    KS-2025-00715 Förslag till beslut i kommunstyrelsen
+3\.  Lönestruktur 2026    KS-2025-00715 Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen fastställer lönestrukturen för
 2026 enligt nedan:
 

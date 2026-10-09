@@ -219,45 +219,45 @@ KUNGSBACKA KOMMUN
 
 Beskrivning av ärendet
 
-Ej verkställda beslut, barn och unga, enligt 11 kap 1 $ och rapportering enligt 34 kap 1-3 $$
+Ej verkställda beslut, barn och unga, enligt 11 kap 1 \$ och rapportering enligt 34 kap 1-3 \$\$
 socialtjänstlagen, SoL.
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
 
-2024-11-27 11 kap 1 $ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2024-11-27 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
-2024-12-27 11 kap 1 $ SoL Saknar plats.
+2024-12-27 11 kap 1 \$ SoL Saknar plats.
 
 öppenvårdsverksamhet
 
-2025-01-18 11 kap 1 $ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2025-01-18 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
-2025-01-18 11 kap 1 $ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2025-01-18 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
-2025-01-18 11 kap 1 $ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2025-01-18 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
-2025-04-05 11 kap 1 $ SoL kontaktperson | Personalrelaterade skäl.
+2025-04-05 11 kap 1 \$ SoL kontaktperson | Personalrelaterade skäl.
 
-2025-07-04 11 kap 1 $ SoL kontaktperson | Personalrelaterade skäl.
+2025-07-04 11 kap 1 \$ SoL kontaktperson | Personalrelaterade skäl.
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
 Beslutsdatum | Insats Skäl till att beslutet ej Datum för
 verkställts verkställighet/avslut
-2024-04-08 11 kap 1 $ SoL, Saknar plats Avslutat 2025-10-10.
+2024-04-08 11 kap 1 \$ SoL, Saknar plats Avslutat 2025-10-10.
 öppenvårdsverksamhet Behovet tillgodoses
 genom annan insats.
-2024-10-16 11 kap 1 $ SoL, Saknar plats Avslutat 2026-01-09.
+2024-10-16 11 kap 1 \$ SoL, Saknar plats Avslutat 2026-01-09.
 öppenvårdsverksamhet Behovet tillgodoses
 genom annan insats.
-2025-05-28 11 kap 1 $ SoL Saknar plats Avslutat 2025-12-05.
+2025-05-28 11 kap 1 \$ SoL Saknar plats Avslutat 2025-12-05.
 öppenvårdsverksamhet Insatsen önskas inte
 längre.
-2025-07-01 11 kap 1 $ SoL Rekryteringsbekymmer, finns Avslutat 2026-01-19.
+2025-07-01 11 kap 1 \$ SoL Rekryteringsbekymmer, finns Avslutat 2026-01-19.
 kontaktfamilj ingen kontaktfamilj som Insatsen önskas inte
 matchar behovet. längre.
 
@@ -267,49 +267,49 @@ KUNGSBACKA KOMMUN
 
 Beslutsdatum | Insats Skäl till att beslutet ej Datum för
 verkställts verkställighet/avslut
-2025-07-15 11 kap 1 $ SoL Saknar plats Verkställt 2026-01-12.
+2025-07-15 11 kap 1 \$ SoL Saknar plats Verkställt 2026-01-12.
 öppenvårdsverksamhet
-2025-07-15 11 kap 1 $ SoL Saknar plats Verkställt 2026-01-26.
+2025-07-15 11 kap 1 \$ SoL Saknar plats Verkställt 2026-01-26.
 öppenvårdsverksamhet
 
 3 (8)
 
-Ej verkställda beslut, funktionsstödsenheten, enligt 9 $ och rapportering enligt 28 f-g $$ lagen om stöd
-och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 $ och rapportering enligt 34 kap 1-3
-$$ socialtjänstlagen, SoL
+Ej verkställda beslut, funktionsstödsenheten, enligt 9 \$ och rapportering enligt 28 f-g \$\$ lagen om stöd
+och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 \$ och rapportering enligt 34 kap 1-3
+\$\$ socialtjänstlagen, SoL
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
 
-2024-12-01 11 kap 1 $ SoL, Den enskilde medverkar inte till verkställighet. Tackat
+2024-12-01 11 kap 1 \$ SoL, Den enskilde medverkar inte till verkställighet. Tackat
 
 kontaktperson nej till erbjudande 2025-06. Går inte få kontakt.
 
-2025-01-17 11 kap 1 $ SoL, bostad Saknar plats, planering pågår. Tackat nej till
+2025-01-17 11 kap 1 \$ SoL, bostad Saknar plats, planering pågår. Tackat nej till
 erbjudande 2025-05 då det var för långt från centrum.
 Bor på externt korttidshem i väntan på BmSS.
 
-2025-07-04 11 kap 1 $ SoL, boendestöd | Är i behov av lång uppstart, har specifika behov.
+2025-07-04 11 kap 1 \$ SoL, boendestöd | Är i behov av lång uppstart, har specifika behov.
 Planering och uppstart pågår.
 
-2025-07-17 11 kap 1 $ SoL, Avbrott i verkställighet. Den enskilde medverkar inte
+2025-07-17 11 kap 1 \$ SoL, Avbrott i verkställighet. Den enskilde medverkar inte
 
 korttidsvistelse till verkställighet.
 
-2025-08-25 11 kap 1 $ SoL, Den enskilde medverkar inte till verkställighet. Förslag
+2025-08-25 11 kap 1 \$ SoL, Den enskilde medverkar inte till verkställighet. Förslag
 
 kontaktfamilj på kontaktperson finns men får inte tag på den
 enskilde.
 
-2025-09-17 11 kap 1 $ SoL, bostad Den enskilde är placerad enligt annan lagstiftning.
+2025-09-17 11 kap 1 \$ SoL, bostad Den enskilde är placerad enligt annan lagstiftning.
 
-2025-10-10 11 kap 1 $ SoL, bostad Saknar plats. Planering pågår, kommer få erbjudande
+2025-10-10 11 kap 1 \$ SoL, bostad Saknar plats. Planering pågår, kommer få erbjudande
 om plats på boende under februari.
 
-2025-07-01 9 $4 LSS, kontaktperson Den enskilde medverkar inte till verkställighet.
+2025-07-01 9 \$4 LSS, kontaktperson Den enskilde medverkar inte till verkställighet.
 Rekrytering pågår. Den enskilde vill avvakta med
 uppstart.
 
-2025-08-27 9 $ 4 LSS, kontaktperson Personalrelaterade skäl. Rekrytering pågår.
+2025-08-27 9 \$ 4 LSS, kontaktperson Personalrelaterade skäl. Rekrytering pågår.
 
 <!-- sida 11 -->
 
@@ -317,49 +317,49 @@ KUNGSBACKA KOMMUN
 4 (8)
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
-2025-02-24 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, arbetsmiljöproblem relaterade
+2025-02-24 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, arbetsmiljöproblem relaterade
 form av läger till den enskilde. Har blivit erbjuden anpassad
 
 verkställighet som den enskilde tackat nej till.
 
 Planerad uppstart januari 2026.
 
-2025-06-01 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, hälsoproblem hos den
+2025-06-01 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, hälsoproblem hos den
 form av läger enskilde.
 
-2025-06-01 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde vill pausa
+2025-06-01 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde vill pausa
 form av läger insatsen. Verksamheten har kontinuerlig kontakt.
 
-2025-06-24 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, hälsoproblem hos den
+2025-06-24 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, hälsoproblem hos den
 form av läger enskilde.
 
-2025-06-26 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde vill pausa
+2025-06-26 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde vill pausa
 form av läger insatsen. Den enskilde har synpunkter på utformningen
 
 av insatsen.
 
-2025-06-26 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde vill pausa
+2025-06-26 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde vill pausa
 form av läger insatsen.
 
-2025-06-28 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, hälsoproblem hos den
+2025-06-28 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, hälsoproblem hos den
 form av läger enskilde.
 
-2025-09-06 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-06 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
 form av läger till verkställighet. Den enskilde vill inte ha insatsen
 
-2025-09-06 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde har specifika
+2025-09-06 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde har specifika
 form av läger önskemål. Den enskilde medverkar inte till
 
 verkställighet, vill avvakta med insatsen till hösten
 
-2026.
-2025-10-08 9 $ 6 LSS, korttidsvistelse i | Den enskilde har specifika önskemål. Uppstart
+2026\.
+2025-10-08 9 \$ 6 LSS, korttidsvistelse i | Den enskilde har specifika önskemål. Uppstart
 form av läger planerad till januari 2026.
-2025-10-08 9 $ 6 LSS, korttidsvistelse i | Den enskilde har specifika önskemål. Uppstart
+2025-10-08 9 \$ 6 LSS, korttidsvistelse i | Den enskilde har specifika önskemål. Uppstart
 form av läger planerad till februari 2026.
-2025-10-19 9 $ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
+2025-10-19 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
 form av läger till verkställighet.
-2024-10-17 9 $ 9 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande om köpt plats.
+2024-10-17 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande om köpt plats.
 i form av servicebostad Tacket nej till erbjudande 2025-05 pga för långt från
 
 centrum. Planering pågår.
@@ -371,35 +371,35 @@ KUNGSBACKA KOMMUN
 verksamhet
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
-2025-01-14 9 $ 9 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande i 2025-11. Har
+2025-01-14 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande i 2025-11. Har
 1 form av gruppbostad specifika önskemål om boende.
-2025-03-12 9 $9 LSS, bostad för vuxna | Saknar plats. Planering pågår. Fått erbjudande om köpt
+2025-03-12 9 \$9 LSS, bostad för vuxna | Saknar plats. Planering pågår. Fått erbjudande om köpt
 1 form av gruppbostad plats. Tackat nej till erbjudande 2025-11. Planering
 pågår.
-2025-03-14 9 $ 9 LSS, bostad för vuxna | Tackat nej till erbjudande 2025-03-25. Ny planering
+2025-03-14 9 \$ 9 LSS, bostad för vuxna | Tackat nej till erbjudande 2025-03-25. Ny planering
 1 form av servicebostad pågår.
-2025-08-27 9 $9LSS, bostad för vuxna | Saknar plats. Erbjudande om plats kommer gå ut
+2025-08-27 9 \$9LSS, bostad för vuxna | Saknar plats. Erbjudande om plats kommer gå ut
 1 form av gruppbostad februari 2026.
-2025-09-15 9 $ 9 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande 2025-12.
+2025-09-15 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande 2025-12.
 1 form av gruppbostad
-2025-10-16 9 $ 9 LSS, bostad för vuxna | Saknar plats. Planering pågår, erbjudande om plats
+2025-10-16 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Planering pågår, erbjudande om plats
 i form av servicebostad kommer gå ut februari 2026.
-2025-10-27 9 $ 9 LSS, bostad för vuxna | Saknar plats. Den enskilde vistas på korttidshem,
+2025-10-27 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Den enskilde vistas på korttidshem,
 1 form av servicebostad planering pågår.
-2023-12-18 9 $ 10 LSS, daglig Avbrott i verkställighet, den enskilde medverkar inte
+2023-12-18 9 \$ 10 LSS, daglig Avbrott i verkställighet, den enskilde medverkar inte
 verksamhet till verkställighet. Verksamheten har kontinuerlig
 kontakt.
-2024-02-09 9 $ 10 LSS, daglig Avbrott i verkställighet, den enskilde tackat nej till
+2024-02-09 9 \$ 10 LSS, daglig Avbrott i verkställighet, den enskilde tackat nej till
 verksamhet erbjudande 2024-02-09. Vill inte avsluta insatsen utan
 pausa på obestämd tid.
-2024-08-19 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2024-08-19 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet. Vill pausa/avvakta insatsen pga
 hälsotillstånd.
-2024-09-13 9 $ 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
+2024-09-13 9 \$ 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
 verksamhet
-2024-12-06 9 $ 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
+2024-12-06 9 \$ 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
 verksamhet
-2025-02-20 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde valde att avsluta
+2025-02-20 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde valde att avsluta
 
 sin sysselsättning pga mående och miljö. Återkommer
 när den enskilde vill återuppta insatsen igen.
@@ -411,37 +411,37 @@ när den enskilde vill återuppta insatsen igen.
 KUNGSBACKA KOMMUN
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
-2025-03-07 9 $ 10 LSS, daglig Avbrott i verkställighet. Samverkan pågår. Den
+2025-03-07 9 \$ 10 LSS, daglig Avbrott i verkställighet. Samverkan pågår. Den
 verksamhet enskilde har andra önskemål om verkställighet. Fått
 erbjudande om 2 nya verksamheter men inte svarat på
 introduktion. Planering pågår.
-2025-03-13 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-03-13 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet. Den enskilde har specifika önskemål.
-2025-03-19 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-03-19 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga mående och förändringar i
 verksamheten. Har deltagit vid ett tillfälle under
 hösten, motiveringsarbete pågår.
-2025-04-08 9 $ 10LSS, daglig Den enskilde medverkar inte till verkställighet. Vill
+2025-04-08 9 \$ 10LSS, daglig Den enskilde medverkar inte till verkställighet. Vill
 verksamhet avvakta med uppstart pga hälsoskäl.
-2025-04-17 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-04-17 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet. Har haft flertalet möten och blivit
 erbjuden plats. Den enskilde befinner sig nu utomlands.
-2025-05-05 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-05-05 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet. Den enskilde vill avvakta med
 insatsen.
-2025-06-04 9 $ 10 LSS, daglig Avbrott i verkställighet. Pga hälsoskäl. Verksamheten
+2025-06-04 9 \$ 10 LSS, daglig Avbrott i verkställighet. Pga hälsoskäl. Verksamheten
 verksamhet har kontinuerlig kontakt.
-2025-06-16 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde har valt att
+2025-06-16 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde har valt att
 verksamhet avsluta sin praktik och pausa insatsen. Den enskilde
 önskar nu ny praktikplats, planering pågår.
-2025-09-09 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde har specifika
+2025-09-09 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde har specifika
 verksamhet önskemål och vill avvakta ny uppstart.
-2025-09-09 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-09 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet. Kontakt och planering pågår för att
 motivera den enskilde.
-2025-09-13 9 $ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-13 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga hälsotillstånd.
-2025-10-08 9 $ 10 LSS, daglig Den enskilde har specifika önskemål. Tackat nej till
+2025-10-08 9 \$ 10 LSS, daglig Den enskilde har specifika önskemål. Tackat nej till
 
 verksamhet
 
@@ -456,36 +456,36 @@ KUNGSBACKA KOMMUN
 verksamhet
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
-2025-10-21 9 $ 10 LSS, daglig Saknar plats. Tackat ja till uppstart, planering pågår.
+2025-10-21 9 \$ 10 LSS, daglig Saknar plats. Tackat ja till uppstart, planering pågår.
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
 Beslutsdatum | Insats Skäl till att beslutet ej Datum för
 verkställts verkställighet/avslut
-2025-04-23 11 kap 1 $ SoL, Den enskilde medverkar inte till | Verkställt 2025-11-15.
+2025-04-23 11 kap 1 \$ SoL, Den enskilde medverkar inte till | Verkställt 2025-11-15.
 korttidsvistelse verkställighet.
-2025-07-02 11 kap 1 $ SoL, Den enskilde medverkar inte till | Avslutat 2026-01-07.
+2025-07-02 11 kap 1 \$ SoL, Den enskilde medverkar inte till | Avslutat 2026-01-07.
 kontaktperson verkställighet.
-2025-06-24 9 $4 LSS, kontaktperson | Rekryteringsbekymmer. Verkställt 2025-12-03.
-2025-04-24 9 $ S LSS, avlösarservice i | Avbrott i verkställighet. Tackat | Avslutat 2025-10-31.
+2025-06-24 9 \$4 LSS, kontaktperson | Rekryteringsbekymmer. Verkställt 2025-12-03.
+2025-04-24 9 \$ S LSS, avlösarservice i | Avbrott i verkställighet. Tackat | Avslutat 2025-10-31.
 hemmet nej till erbjudanden om Den enskilde önskar
 nyrekrytering 2025-04-24. annan insats.
 Funderar istället på en annan
 insats.
-2024-11-30 9 $ 6 LSS, korttidsvistelse | Avbrott i verkställighet, den Verkställt 2025-12-13.
+2024-11-30 9 \$ 6 LSS, korttidsvistelse | Avbrott i verkställighet, den Verkställt 2025-12-13.
 i form av läger enskilde medverkar inte till
 verkställighet. Tackat nej till
 erbjudande om sommarläger,
 pga hälsotillstånd hos den
 enskilde.
-2025-06-26 9 $ 6 LSS, korttidsvistelse | Avbrott i verkställighet. Den Avslutat 2025-11-07.
+2025-06-26 9 \$ 6 LSS, korttidsvistelse | Avbrott i verkställighet. Den Avslutat 2025-11-07.
 i form av läger enskilde vill inte ha insatsen.
-2024-09-24 9 $9LSS, bostad för Saknar plats. Den enskilde bor Verkställt 2026-01-02.
+2024-09-24 9 \$9LSS, bostad för Saknar plats. Den enskilde bor Verkställt 2026-01-02.
 vuxna i form av på boende i annan kommun.
 gruppbostad Tackat nej till erbjudande 2025-
 03-26 då boendet inte var
 centralt.
-2024-10-02 9 $ 9 LSS, bostad för Saknar plats. Tackat nej till Verkställt 2026-01-20.
+2024-10-02 9 \$ 9 LSS, bostad för Saknar plats. Tackat nej till Verkställt 2026-01-20.
 vuxna i form av erbjudande 2025-04-11 då
 gruppbostad boendet inte matchar behoven.
 
@@ -505,25 +505,25 @@ enskilde är tveksam till insatsen.
 
 Beslutsdatum | Insats Skäl till att beslutet ej Datum för
 verkställts verkställighet/avslut
-2024-11-29 9 $ 9LSS, bostad för Saknar plats. Arbete med att Verkställt 2026-01-19.
+2024-11-29 9 \$ 9LSS, bostad för Saknar plats. Arbete med att Verkställt 2026-01-19.
 vuxna i form av hitta lämpligt boende pågår.
 gruppbostad
-2025-01-13 9 $9LSS, bostad för Saknar plats. Verkställt 2026-01-22.
+2025-01-13 9 \$9LSS, bostad för Saknar plats. Verkställt 2026-01-22.
 vuxna i form av
 gruppbostad
-2025-03-21 9 $ 9 LSS, bostad för Saknar plats, planering pågår. Verkställt 2026-01-01.
+2025-03-21 9 \$ 9 LSS, bostad för Saknar plats, planering pågår. Verkställt 2026-01-01.
 vuxna
-2025-04-22 9 $9LSS, bostad för Saknar plats. Verkställt 2026-01-19.
+2025-04-22 9 \$9LSS, bostad för Saknar plats. Verkställt 2026-01-19.
 vuxna i form av
 gruppbostad
-2022-12-31 9 $ 10 LSS, daglig Avbrott i verkställighet, pga Avslutat 2025-10-31.
+2022-12-31 9 \$ 10 LSS, daglig Avbrott i verkställighet, pga Avslutat 2025-10-31.
 verksamhet hälsotillstånd. Insatsen är -
 . Avslutat på egen
 pausad. Den enskilde har flyttat H
 : . | begäran.
 in på BmSS och vill landa innan
 uppstart av daglig verksamhet.
-2025-02-18 9 $ 10 LSS, daglig Avbrott i verkställighet. Den Avslutat 2026-01-16.
+2025-02-18 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den Avslutat 2026-01-16.
 
 Avslutat på egen
 begäran.
@@ -594,7 +594,7 @@ socialtjänstlagen, fjärde kvartalet 2025
 Sammanfattning av ärendet
 
 Ej verkställda gynnande beslut enligt socialtjänstlagen (SoL) ska på det vis som anges i
-16 kap. 6 f och h $$ SoL rapporteras till Inspektionen för vård och omsorg, kommunens revisorer och
+16 kap. 6 f och h \$\$ SoL rapporteras till Inspektionen för vård och omsorg, kommunens revisorer och
 kommunfullmäktige.
 
 Beslutsunderlag
@@ -619,7 +619,7 @@ Beslutsdatum = | Insats Skäl till att beslutet ej verkställts
 1(4)
 Förvaltningen för Vård & Omsorg Kungsbacka kommun
 434 81 Kungsbacka
-- = ar . Besöksadress
+\- = ar . Besöksadress
 0 Personer sm sökt särskilt boende från annan Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 
@@ -791,7 +791,7 @@ Platsbrist
 Platsbrist
 Platsbrist
 
-24)
+24\)
 
 <!-- sida 19 -->
 
@@ -1020,14 +1020,14 @@ egendom mot klimatförändringarna.
 
 Miljöpartiet föreslår
 
-1. Att Kungsbacka kommun söker externa medel för att finansiera översvämningsskydd för
+1\. Att Kungsbacka kommun söker externa medel för att finansiera översvämningsskydd för
 Kungsbacka stad och andra lösningar för klimatanpassning.
 
-2. Att Kungsbacka utformar en mer detaljerad strategi för andra områden inom kommunen
+2\. Att Kungsbacka utformar en mer detaljerad strategi för andra områden inom kommunen
 som kommer att drabbas av den pågående havshöjningen, kraftigare stormar och mer frekventa
 skyfall.
 
-3. Att Kungsbacka involverar civilsamhälle, invånare och företag i arbetet med
+3\. Att Kungsbacka involverar civilsamhälle, invånare och företag i arbetet med
 klimatanpassning för att med gemensamma krafter kunna förebygga skador till följd av
 klimatförändringarna.
 
@@ -1368,9 +1368,9 @@ Parkstad    (KS-2025-00630)
 
 Förslag till beslut i Nämnden för Teknik:
 
-1. Nämnden för Teknik föreslår kommunfullmäktige avslå motionen.
+1\. Nämnden för Teknik föreslår kommunfullmäktige avslå motionen.
 
-2. Nämnden för Teknik antar yttrandet som sitt eget och översänder det till
+2\. Nämnden för Teknik antar yttrandet som sitt eget och översänder det till
 kommunstyrelsen.
 
 Bakgrund
@@ -1603,7 +1603,7 @@ KUNGSBACKA  KOMMUN
 2 (2)
 
 Remittering av motion från Mats Ståhlberg (KB) om anläggande av hundrastgård i Kolla. KS 2025-
-00630.
+00630\.
 
 Beslutet skickas till
 
@@ -1732,7 +1732,7 @@ e — bättre förutsättningar för både boende och djur.
 Yrkande
 Med stöd av ovanstående yrkar partiet Kungsbackaborna:
 
-- Att Kungsbacka kommun utreder förutsättningarna för att anlägga en hundrastgård i
+\- Att Kungsbacka kommun utreder förutsättningarna för att anlägga en hundrastgård i
 Kolla Parkstad och återkommer till kommunfullmäktige för beslut.
 
 För Kungsbackaborna
@@ -1857,11 +1857,11 @@ Därutöver styr även nämndernas skolmatsbeställningar samt kommunfullmäktig
 Services tillämpliga mål inom området.
 
 Mål och beslut som berör området är bland annat:
-- Kommunfullmäktiges mål att matens klimatpåverkan från de offentliga måltiderna ska minska
+\- Kommunfullmäktiges mål att matens klimatpåverkan från de offentliga måltiderna ska minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030. I sitt arbete följer nämnden för
 Service bland annat upp nyckeltal rörande matsvinn per portion.
 
-- Nämnden för Förskola & Grundskola beslutade den 17 maj 2023 att ta bort helvegetariska dagar i
+\- Nämnden för Förskola & Grundskola beslutade den 17 maj 2023 att ta bort helvegetariska dagar i
 skolan och förskolan så att elever alltid ska kunna välja på minst en rätt med animaliskt protein,
 företrädelsevis fisk, fågel, kött eller skaldjur.
 Serviceförvaltningen levererar åt Förskola & Grundskola cirka 13 300 luncher per dag, fördelat på
@@ -2524,7 +2524,7 @@ skola.
 
 Tjänsteskrivelse, 2025-10-20. Avskaffa religiöst motiverad specialkost i förskola och skola.
 Sverigedemokraternas motion, Avskaffa religiöst motiverad specialkost i förskola och skola, 2025-05-
-25.
+25\.
 Protokollsutdrag, kommunstyrelsens arbetsutskott 2025-08-12 § 212.
 1 (2)
 Kungsbacka kommun
@@ -2909,13 +2909,13 @@ näringsmässiga behov och hållbarhet, inte religiösa påbud.
 Sverigedemokraterna i Kungsbacka föreslår därför
 kommunfullmäktige besluta att:
 
-- Kommunen ska inte erbjuda religiöst motiverad specialkost i
+\- Kommunen ska inte erbjuda religiöst motiverad specialkost i
 kommunala förskolor och skolor.
 
-- Berörda nämnder får i uppdrag att justera riktlinjerna för specialkost
+\- Berörda nämnder får i uppdrag att justera riktlinjerna för specialkost
 1 enlighet med detta inför kommande läsår.
 
-- Vårdnadshavare informeras om förändringen i god tid.
+\- Vårdnadshavare informeras om förändringen i god tid.
 
 Sverigedemokraterna Kungsbacka genom
 
@@ -2998,7 +2998,7 @@ Beskrivning av ärendet
 
 Christer Perfjell (KB) har inkommit med en motion om att behålla lokala VA-lösningar till dess att
 kommunen säkrat långsiktig VA-försörjning. Motionen anmäldes i kommunfullmäktige den 7 oktober
-2025.
+2025\.
 Kommunstyrelsens arbetsutskott remitterade motionen till nämnden för Teknik och nämnden för Miljö
 
 & Hälsoskydd den 4 november 2025 för beredning.
@@ -3191,7 +3191,7 @@ lagen om allmänna vattentjänster (LAV) och beskrivs därför var för sig neda
 
 Lagstyrd VA-utbyggnad med verksamhetsområde enligt LAV
 
-Det som redovisas 1 detta avsnitt utgår från gällande praxis för tillämpning av LAV 6 $. Enligt praxis
+Det som redovisas 1 detta avsnitt utgår från gällande praxis för tillämpning av LAV 6 \$. Enligt praxis
 bedöms behovet av allmänna vattentjänster utifrån området som helhet (”större sammanhang”) och
 planering av verksamhetsområde och utbyggnad sker därför områdesvis, inte genom att utreda och
 hantera enstaka fastigheter var för sig. När det med hänsyn till skyddet för människors hälsa eller
@@ -3199,7 +3199,7 @@ miljön behöver ordnas vatten och/eller avlopp i ett större sammanhang ska kom
 verksamhetsområde och tillgodose behovet genom en allmän VA-anläggning. Detta innebär att
 samtliga fastigheter i ett sammanhängande område förses med förbindelsepunkt.
 
-Sedan 1 januari 2023 gäller också att kommunen vid bedömningen enligt LAV 6 $ ska ta särskild
+Sedan 1 januari 2023 gäller också att kommunen vid bedömningen enligt LAV 6 \$ ska ta särskild
 hänsyn till förutsättningarna att tillgodose behovet genom en enskild anläggning som kan godtas med
 hänsyn till hälsa och miljö. Teknik arbetar med förnyade och mer noggranna behovsprövningar per
 område, normalt i samband med förstudier. Detta sker både med anledning av lagändringen och
@@ -3209,7 +3209,7 @@ som gjordes i samband med planframtagandet.
 
 Inom ett verksamhetsområde är utrymmet för generella undantag begränsat. LAV medger undantag
 endast i särskilda fall, exempelvis om en fastighet eller bebyggelse uppenbarligen inte behöver
-omfattas och behovet lämpligen kan ordnas genom enskilda anläggningar (LAV 9 $).
+omfattas och behovet lämpligen kan ordnas genom enskilda anläggningar (LAV 9 \$).
 
 Teknik har i januari 2026 beslutat om en tidplan för VA-omvandling 2026-2030 som kompletterar
 VA-utbyggnadsplan 2022-2032. I VA-utbyggnadsplanen anges en ambition om 150-175 fastigheter
@@ -3831,7 +3831,7 @@ Klarinettens förskola är lokaliserad inom fastigheterna Fors 1:230 och Fors 1:
 Sedan renoveringen av byggnaden 2018 har Förskola & Grundskola endast bedrivit
 verksamhet i mindre omfattning i lokalerna. Detta fick till följd att byggnaden
 återlämnades till kommunstyrelsens förvaltning av nämnden för Service i december
-2022.
+2022\.
 
 Det innebär att kommunstyrelsen har ansvaret att besluta om fastigheterna och dess
 byggnader när det inte längre finns behov av dem som kommunal verksamhetslokal.
@@ -4047,11 +4047,11 @@ Kommundirektör                     Samhällsbyggnadschef
 
 <!-- sida 94 -->
 
-Från: Christer Kilersjö <christer@eksta.se>
+Från: Christer Kilersjö \<christer@eksta.se>
 Skickat: den 2 februari 2026 14:53
-Till: Mikaela Ropel <mikaela.ropel@kungsbacka.se>
+Till: Mikaela Ropel \<mikaela.ropel@kungsbacka.se>
 
-Kopia: Mats Niklasson <mats@eksta.se>
+Kopia: Mats Niklasson \<mats@eksta.se>
 Ämne: Förlängning markanvisning Skårby
 
 Hej Mikaela!
@@ -4063,7 +4063,7 @@ Med vänlig hälsning
 
 Christer Kilersjö
 
-_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 VD
 
@@ -4236,7 +4236,7 @@ huvudmannaskap i området eller i direkt anslutning till området.
 
 <!-- sida 98 -->
 
-3.
+3\.
 
 nd
 
@@ -4428,13 +4428,13 @@ förlängning av avtalet.
 
 JM
 
-10.
+10\.
 
 10.1
 
-11.
+11\.
 
-12.
+12\.
 
 12.1
 
@@ -4488,7 +4488,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 102)
 Kommunstyrelsen Datum
 2024-04-23
 
-$ 111 Dnr KS-2021-00907
+\$ 111 Dnr KS-2021-00907
 
 Godkännande av förslag till markanvisningsavtal avseende del av
 Skårby 2:3 i Anneberg
@@ -4507,7 +4507,7 @@ nödvändiga handlingar.
 
 Kommunstyrelsen upphäver tidigare beslut om att förbereda försäljning av
 småhustomter inom fastigheten Skårby 2:3 via mäklare, som lämnades av
-kommunstyrelsen 2019-09-24, $ 231.
+kommunstyrelsen 2019-09-24, \$ 231.
 
 Sammanfattning av ärendet
 
@@ -4553,12 +4553,12 @@ Kommunstyrelsen Datum
 2024-04-23
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2024-04-09, $ 122
+Kommunstyrelsens arbetsutskott 2024-04-09, \$ 122
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-03-20
 Markanvisningsavtal, undertecknat av Eksta Bostads AB, 2024-03-24
 
-Kommunstyrelsen 2019-09-24, $ 231
-Kommunstyrelsen 2019-05-28, $ 133
+Kommunstyrelsen 2019-09-24, \$ 231
+Kommunstyrelsen 2019-05-28, \$ 133
 Översiktskarta
 
 Förslag till beslut på sammanträdet
@@ -4703,8 +4703,8 @@ Bakgrund och syfte .............................................................
 Planerings- och byggprocessen ......................................................................................................... 5
 Alternativ .................................................................................................................................................. 6
 
-1. Kläppa 2:2>1 ................................................................................................................................................ 7
-2. Kläppa 2:2>3 ............................................................................................................................................... 8
+1\. Kläppa 2:2>1 ................................................................................................................................................ 7
+2\. Kläppa 2:2>3 ............................................................................................................................................... 8
 
 Rekommendation ................................................................................................................................... 9
 Konsekvenser ........................................................................................................................................ 10
@@ -4719,13 +4719,13 @@ Delaktiga ......................................................................
 Bilaga 1: Studerade platser ................................................................................................................. 11
 Bilaga 2: Avskrivna lokaliseringar ......................................................................................................12
 
-3. Frillesås-Rya 4:14>1 och 4:149>1 .......................................................................................................... 13
+3\. Frillesås-Rya 4:14>1 och 4:149>1 .......................................................................................................... 13
 
-4. Duvehed 2:14 ............................................................................................................................................ 14
-5. Söder om Benders, Frillesås-Rya 3:77>3 ........................................................................................... 15
-6. Åsa norra entré, Åsa 2:4>1 .................................................................................................................... 16
+4\. Duvehed 2:14 ............................................................................................................................................ 14
+5\. Söder om Benders, Frillesås-Rya 3:77>3 ........................................................................................... 15
+6\. Åsa norra entré, Åsa 2:4>1 .................................................................................................................... 16
 
-7. Fjärås stationssamhälle norra entré, Äskatorp 12:4>1 ................................................................... 17
+7\. Fjärås stationssamhälle norra entré, Äskatorp 12:4>1 ................................................................... 17
 
 2
 
@@ -4827,7 +4827,7 @@ Föreslagen placering av ÅVC syd ligger vid Åsa station.
 
 <!-- sida 114 -->
 
-1. Åsa station söder om Kläppavägen, Kläppa 2:2>1
+1\. Åsa station söder om Kläppavägen, Kläppa 2:2>1
 
 e Platsen söder om Kläppavägen ägs av kommunen.
 
@@ -4848,7 +4848,7 @@ Kartbilden illustrerar permanent placering av ÅVC söder om Kläppavägen.
 Område Geografiskt Kommunägd Lämplig Ytbehov ca 10 000 | Tillgänglighet Ingår i Tidplan
 läge mark verksamhets- kvm för transporter detaljplan
 mark
-1. Åsa station söder
+1\. Åsa station söder
 om Kläppavägen, O O OO OO O
 Kläppa 2:2>1
 Resonemang
@@ -4862,7 +4862,7 @@ med arbetet med planprogramet. Arrendet bedöms vara möjlig att sägas upp när
 
 <!-- sida 115 -->
 
-2. Åsa station norr om Kläppavägen, Kläppa 2:2>3
+2\. Åsa station norr om Kläppavägen, Kläppa 2:2>3
 
 Om det efterfrågas en tillfällig placering av en mindre ÅVC tills det att detaljplan söder om Kläppavägen är
 klar och en ÅVC är etablerad så föreslås den tillfälligt placeras inom Kläppa 2:2>3 vid pendelstationen norr
@@ -4884,7 +4884,7 @@ Område Geografiskt Kommunägd Lämplig Ytbehov ca 10 000 | Tillgänglighet Ing�
 läge mark verksamhets- kvm för transporter detaljplan
 mark
 
-2. Åsa station norr
+2\. Åsa station norr
 
 om Kläppavägen, O e O O O
 Kläppa 2:2>3
@@ -4973,24 +4973,24 @@ Sätinge
 Onsala
 
 Relevanta alternativ (grön markering)
-1. Åsa station söder om Kläppavägen,
+1\. Åsa station söder om Kläppavägen,
 Kläppa 2:2>1
-2. Tillfällig placering vid Åsa station norr
+2\. Tillfällig placering vid Åsa station norr
 om Kläppavägen, Kläppa 2:2>3
 
 Avskrivna platser (röd markering)
 
-3. Frillesås-Rya 4:14>1 och 4:149>1,
+3\. Frillesås-Rya 4:14>1 och 4:149>1,
 Östra Frillesås
 
-4. Duvehed 2:14, Fjärås stationssamhälle
+4\. Duvehed 2:14, Fjärås stationssamhälle
 
-5. Söder om Benders, Frillesås-Rya
+5\. Söder om Benders, Frillesås-Rya
 3:17>3
 
-6. Åsa 2:4>1, Åsa norra entré
+6\. Åsa 2:4>1, Åsa norra entré
 
-7. Äskatorp 12:4>1, Fjärås
+7\. Äskatorp 12:4>1, Fjärås
 stationssamhälle
 
 11
@@ -5009,16 +5009,16 @@ Område Geografiskt läge | Kommunägd Lämplig Ytbehov ca 10 000 | Tillgänglig
 mark verksamhets- kvm för transporter detaljplan
 mark
 
-3. Frillesås-Rya
+3\. Frillesås-Rya
 4:14>1 och O O O
 4:149>1
-4. Duvehed 2:14 oe O O O e [ O
-5. Söder om
+4\. Duvehed 2:14 oe O O O e [ O
+5\. Söder om
 Benders, Frillesås- |) O e O
 Rya 3:77>3 o o
-6. Åsa norra entré, eo
+6\. Åsa norra entré, eo
 Åsa 2:4>1 LJ |) O
-7. Fjärås
+7\. Fjärås
 stationssamhälle
 
 N OO
@@ -5027,7 +5027,7 @@ N OO
 
 <!-- sida 120 -->
 
-3. Frillesås-Rya 4:14>1 och 4:149>1 i Frillesås
+3\. Frillesås-Rya 4:14>1 och 4:149>1 i Frillesås
 
 Platsen norr om Frillesåsvägen i östra delen av Frillesås ägs av
 kommunen.
@@ -5053,7 +5053,7 @@ läge mark verksamhets- kvm för transporter detaljplan
 
 Område mark
 
-3. Frillesås-Rya |) e O
+3\. Frillesås-Rya |) e O
 
 4:14>1 och 4:149>1
 
@@ -5070,7 +5070,7 @@ jordbruksmark.
 
 <!-- sida 121 -->
 
-4. Duvehed 2:14 i Fjärås stationssamhälle
+4\. Duvehed 2:14 i Fjärås stationssamhälle
 
 e Platsen ligger inom Duveheds verksamhetsområde och ägs av kommunen.
 
@@ -5089,7 +5089,7 @@ Kartbilden illustrerar placering av ÅVC i Duveheds verksamhetsområde.
 Område Geografiskt Kommunägd Lämplig Ytbehov ca 10 000 | Tillgänglighet Ingår i Tidplan
 läge mark verksamhets- kvm för transporter detaljplan
 mark
-4. Duvehed 2:14 e e e e ee [ O
+4\. Duvehed 2:14 e e e e ee [ O
 
 Resonemang
 
@@ -5104,7 +5104,7 @@ resor till platsen.
 
 <!-- sida 122 -->
 
-5. Söder om Benders, Frillesås-Rya 3:77>3
+5\. Söder om Benders, Frillesås-Rya 3:77>3
 
 e Platsen söder om Benders ägs av kommunen och berörs inte av någon
 detaljplan idag.
@@ -5130,7 +5130,7 @@ Kartbilden illustrerar placering av ÅVC i söder om Benders i Frillesås.
 Område Geografiskt läge | Kommunägd Lämplig Ytbehov ca 10 000 | Tillgänglighet Ingår i Tidplan
 mark verksamhets- kvm för transporter detaljplan
 mark
-5. Söder om
+5\. Söder om
 TT Frillesås- e O O O O [ I
 ya 3:77>3
 
@@ -5138,7 +5138,7 @@ ya 3:77>3
 
 <!-- sida 123 -->
 
-6. Åsa norra entré, Åsa 2:4>1
+6\. Åsa norra entré, Åsa 2:4>1
 
 e Platsen vid Åsa norr entré av kommunen och berörs inte av någon detaljplan
 idag.
@@ -5161,10 +5161,10 @@ Område Geografiskt läge | Kommunägd Lämplig Ytbehov ca 10 000 | Tillgänglig
 mark verksamhets- kvm för transporter detaljplan
 mark
 
-6. Åsa norra entré,
+6\. Åsa norra entré,
 
 Åsa 2:4>1 O OO eo eo
-7.
+7\.
 
 16
 
@@ -5190,7 +5190,7 @@ Kartbilden illustrerar placering av ÅVC i vid Fjärås stations norra entré.
 Område Geografiskt läge | Kommunägd Lämplig Ytbehov ca 10 000 | Tillgänglighet Ingår i Tidplan
 mark verksamhets- kvm för transporter detaljplan
 mark
-7. Fjärås
+7\. Fjärås
 stationssamhälle
 norra entré, O o
 Äskatorp 12:4>1

@@ -3928,12 +3928,12 @@ Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
 
 Bukärr 2:28
 
-\___________________
-\___________________
-\___________________
-\___________________
-\___________________
-\___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 0 m 10 m 20 m 30 m 40 m 50 m
 Komplementbyggnader      på  50 kvm
@@ -5696,7 +5696,7 @@ De tre vattenförekomsterna Gesebols sjö (WA88909983), Stora Öresjön WA355573
 
 Viaredssjön (WA65290953) har alla en sämre statusklassning än god.
 
-\___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -7504,7 +7504,7 @@ SAKEN
 omprövning av villkor om vattentappning i fiskväg vid Ålgårda kraftverk i Rolfsåns
 vattensystem
 
-\_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 DOMSLUT
 Med bifall till ansökan förordnar Mark- och miljödomstolen att villkor 3 b) enligt
@@ -7524,7 +7524,7 @@ b)  För vattenföringen i omlöpet gäller att:
 
 omlöpet helt öppen.
 
-\_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dok.Id 391699
 Postadress     Besöksadress Telefon       Telefax      Expeditionstid
@@ -7677,7 +7677,7 @@ HUR MAN ÖVERKLAGAR,  se bilaga (DV425)
 
 Göran Stenman              Roger Ödmark
 
-\_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 I domstolens avgörande har deltagit rådmannen Göran Stenman och tekniska rådet
 Roger Ödmark.
@@ -7797,7 +7797,7 @@ Fortsatt handläggning avseende latent villkor att inrätta fiskväg i enlighet 
 stånd att uppföra ett kraftverk vid Ålgårda i Rolfsån, Kungsbacka kommun
 
 Ao: 106           N: 6375140        E: 334580
-\____________
+\_\_\_\_\_\_\_\_\_\_\_\_
 
 DOMSLUT
 
@@ -7891,7 +7891,7 @@ giften för målets prövning.
 kap. 25 § miljöbalken överlåta rätten för tillsynsmyndigheten att omfördela
 tappningarna och yrkandet om verkställighetstillstånd.
 
-\_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 221 -->
 
@@ -11664,7 +11664,7 @@ Bollebygd Forsa 7:1
 Fastigheten Bollebygd Forsa 7:1 ägs av Forssa Fastighets AB, 556469-4205, Forsa
 Företagscenter, 517 91 Bollebygd.
 
-\___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -12331,7 +12331,7 @@ Samtidigt framstod det som tydligt att det med rådande tillrinning inte skulle 
 ständigt tappa 2 m3/s genom dammen. Detta på grund av att MLQ vid nuvarande
 förhållanden inte uppgår till två sek-kbm. Det går inte att magasinera så mycket vatten att det
 
-\___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -13289,7 +13289,7 @@ Därmed når vattenförekomsterna också god ekologisk status. De av Sökanden f
 krävas med hänsyn till skyddet för människors hälsa och miljön. Någon ytterligare åtgärd,
 exempelvis fiskvägar vid Hultaforsdammen och Viaredssjöns regleringsdamm, behövs inte
 
-\___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -14096,7 +14096,7 @@ Bollebygd Forsa 7:1
 Fastigheten Bollebygd Forsa 7:1 ägs av Forssa Fastighets AB, 556469-4205, Forsa
 Företagscenter, 517 91 Bollebygd.
 
-\___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -14800,7 +14800,7 @@ Inledningsvis får Sökanden lämna en sammanställning av villkor samt göra vi
 förtydliganden, preciseringar och kompletteringar avseende yrkandet om inhämtande av
 yttrande enligt 22 kap 13 § miljöbalken.
 
-\___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -16416,7 +16416,7 @@ De tre vattenförekomsterna Gesebols sjö (WA88909983), Stora Öresjön WA355573
 
 Viaredssjön (WA65290953) har alla en sämre statusklassning än god.
 
-\___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30
@@ -24374,7 +24374,7 @@ IWQ0fQJSgeWjusK
 Hälsningar
 KristianEgstedt
 Registrator
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbackakommun
 Kommunstyrelsensförvaltning
 0300-834319
@@ -24516,7 +24516,7 @@ Därmed når vattenförekomsterna också god ekologisk status. De av Sökanden f
 krävas med hänsyn till skyddet för människors hälsa och miljön. Någon ytterligare åtgärd,
 exempelvis fiskvägar vid Hultaforsdammen och Viaredssjöns regleringsdamm, behövs inte
 
-\___________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 advokataktiebolaget nordic law
 göteborg office • p.o. box 5043 • se-402 21 göteborg • phone +46(0)31 81 51 00
 malmö office • skeppsbron 5 • se-211 20 malmö • phone +46(0)40 611 37 30

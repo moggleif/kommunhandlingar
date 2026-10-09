@@ -475,11 +475,11 @@ med en fastställd fördelningsmodell kommer att träffas mellan Kungsbacka komm
 och Mölndals Stad.
 
 Ordförande Lisa Andersson (M) lämnar följande information:
-- initiativ har tagits till en dialog mellan kommunstyrelsens arbetsutskott i
+\- initiativ har tagits till en dialog mellan kommunstyrelsens arbetsutskott i
 Kungsbacka kommun och kommunstyrelsens arbetsutskott i Mölndals Stad. En
 träff kommer att planeras in under hösten.
 
-- Diskussionspunkter på Räddningstjänsten Storgöteborgs medlemsdialog den 26
+\- Diskussionspunkter på Räddningstjänsten Storgöteborgs medlemsdialog den 26
 mars.
 
 Biträdande kommundirektör Anders Johansson lämnar information om att BRÅs

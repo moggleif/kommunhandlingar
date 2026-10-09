@@ -127,7 +127,7 @@ instruktioner avseende ärendegången:
 Hälsningar
 Kristian Egstedt
 Registrator
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 
 Kommunstyrelsens förvaltning
@@ -162,7 +162,7 @@ om när nämnden senast ska inkomma med sitt yttrande till kommunstyrelsen.
 Hälsningar
 Kristian Egstedt
 Registrator
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun
 Kommunledningskontoret

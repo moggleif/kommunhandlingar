@@ -12374,7 +12374,7 @@ Vid höjd beredskap ska folkbiblioteken fortsätta att erbjuda samhällsservice 
 fungera som informationsnav. Det kan bli nödvändigt att anpassa biblioteken i
 Kungsbackas uppdrag och tjänster utifrån de rådande omständigheterna.
 
-\__________
+\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun            Biblioteksplan 2025-2030           9 (9)
 

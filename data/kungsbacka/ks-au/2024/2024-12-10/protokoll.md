@@ -211,23 +211,23 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Malin De Verdier lämnar följande information:
-- Mikael Ivarsson har utsetts till tillförordnad förbundsdirektör för
+\- Mikael Ivarsson har utsetts till tillförordnad förbundsdirektör för
 
 Räddningstjänsten Storgöteborg med anledning av det visselblåsarärende som
 just nu utreds.
-- Ny omgång initiativ inom ramen för SKRs digitala handslag pågår. Den nya
+\- Ny omgång initiativ inom ramen för SKRs digitala handslag pågår. Den nya
 omgången innehåller initiativ inom följande områden:
 
-- Gemensam informationsförsörjning ekonomiskt bistånd
-- Digital betygshantering
-- Övertagande av gymnasieantagningssystemet Indra
-- Standardiseringar av verksamhetssystem inom Socialtjänsten
+\- Gemensam informationsförsörjning ekonomiskt bistånd
+\- Digital betygshantering
+\- Övertagande av gymnasieantagningssystemet Indra
+\- Standardiseringar av verksamhetssystem inom Socialtjänsten
 
-- Länsstyrelsen i Västra Götaland har inom ramen för pågående tillsyn av
+\- Länsstyrelsen i Västra Götaland har inom ramen för pågående tillsyn av
 kommunens säkerhetsskyddsarbete förelagt kommunen att vidta åtgärder senast
 den 25 mars 2025.
 
-- Det är kommundirektörens sista sammanträde med kommunstyrelsens
+\- Det är kommundirektörens sista sammanträde med kommunstyrelsens
 arbetsutskott och med anledning av det tackar Malin De Verdier för ett gott
 samarbete. Ledamöterna tackar genom ordförande Fredrik Hansson (C) för
 kommundirektörens insatser.
@@ -237,10 +237,10 @@ ledamöterna hade när ärendet om kemikalieplanen behandlades på KSAU den 3
 december.
 
 Kommunsekreterare Andrea Egerlundh lämnar följande information:
-- Det har införts en prenumerationsfunktion så att det går att prenumerera på de
+\- Det har införts en prenumerationsfunktion så att det går att prenumerera på de
 kallelser, handlingar och protokoll som publiceras på kungsbacka.se.
 
-- Från och med årsskiftet kommer det endast att vara möjligt att logga in i Ciceron
+\- Från och med årsskiftet kommer det endast att vara möjligt att logga in i Ciceron
 Assistent med e-legitimation vilket betyder att möjligheten att logga in med
 användarnamn och lösenord kommer att tas bort. Förändringen görs av
 säkerhetsskäl.

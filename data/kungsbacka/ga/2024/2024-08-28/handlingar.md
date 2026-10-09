@@ -10461,7 +10461,7 @@ gymnasiumocharbetsmarknad@kungsbacka.se
 Ärendet
 
 Tillsyn av gymnasieskolan Aranäsgymnasiet enhet 4 i Kungsbacka kommun.
-\___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Beslut
 

@@ -338,7 +338,7 @@ Som en del av nämndens handlingsplan för ekonomi i balans föreslås en revide
 taxa från 2027. Förändringarna innebär bland annat ökad flexibilitet i avtalstider, ett
 utökat tjänsteutbud samt att kommunala verksamheter får samma prissättningsmodell
 som externa kunder. Den senare förändringen föreslås införas stegvis under 2027 och
-2028. Avgiftsnivåerna föreslås i huvudsak vara oförändrade 2027. Från och med
+2028\. Avgiftsnivåerna föreslås i huvudsak vara oförändrade 2027. Från och med
 
 2028 föreslås taxan indexjusteras årligen utifrån förändringen i prisbasbeloppet.
 
@@ -398,17 +398,17 @@ regioner - SKR och ett regionalt samarbete i Halland för att skapa mer enhetlig
 avgifter som upplevs som rättvisa.
 
 De viktigaste förändringarna är:
--  Taxan får en ny struktur
+\-  Taxan får en ny struktur
 
--  Fler verksamheter ska debiteras i efterhand utifrån faktisk nedlagd tillsynstid,
+\-  Fler verksamheter ska debiteras i efterhand utifrån faktisk nedlagd tillsynstid,
 i stället för fasta avgifter i förskott
--  Schablontiderna för flera typer av ärenden med fast avgift har setts över och i
+\-  Schablontiderna för flera typer av ärenden med fast avgift har setts över och i
 
 vissa fall sänkts
--  Nämnden föreslår att timavgiften ska vara oförändrad 1 391 kronor per timme
+\-  Nämnden föreslår att timavgiften ska vara oförändrad 1 391 kronor per timme
 2027
 
--  Nämnden önskar fortsatt kunna justera avgifterna årligen utifrån SKR:s
+\-  Nämnden önskar fortsatt kunna justera avgifterna årligen utifrån SKR:s
 prisindex (PKV)
 Syftet är att avgifterna bättre ska spegla den faktiska arbetsinsatsen och därmed
 upplevas som mer rättvisa. För kommunen bedöms förändringen få små ekonomiska
@@ -922,15 +922,15 @@ Sammanfattning av ärendet
 
 Biträdande kommundirektör Anders Johansson informerar om:
 
--  SVT har ställt frågor i ett faktainsamlingssyfte om plattformen SVEA.
--  Ny tf. ekonomichef blir Johan Frisén, ekonomichef på serviceförvaltningen.
+\-  SVT har ställt frågor i ett faktainsamlingssyfte om plattformen SVEA.
+\-  Ny tf. ekonomichef blir Johan Frisén, ekonomichef på serviceförvaltningen.
 Johan påbörjar sitt uppdrag 12 oktober.
 
 Ordförande Lisa Andersson (M) informerar om:
--  dagordning för morgondagens KRF-möte.
+\-  dagordning för morgondagens KRF-möte.
 
 Kanslichef Sofia Jonsson informerar om:
--  kort redogörelse av genomförande av valet 2026.
+\-  kort redogörelse av genomförande av valet 2026.
 
 Beslutsgång
 Ordförande Lisa Andersson (M) prövar om kommunstyrelsens arbetsutskott kan

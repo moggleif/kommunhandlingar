@@ -974,11 +974,11 @@ rättigheter för givet är den generation som kommer förlora dessa värden.
 
 Socialdemokraterna yrkar att:
 
-1. Kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur elevresor till Förintelsens
+1\. Kommunfullmäktige ger berörda nämnder i uppdrag att utreda hur elevresor till Förintelsens
 minnesplatser kan planeras och utföras för grundskoleelever och gymnasieelever i Kungsbacka
 vilket ska genomföras i projektform under en lämplig tidsperiod för att därefter utvärderas.
 
-2. Kommunfullmäktige ger berörda nämnder i uppdrag att skapa möjligheter till fortbildning av
+2\. Kommunfullmäktige ger berörda nämnder i uppdrag att skapa möjligheter till fortbildning av
 lärare och andra professioner genom SKMAS fortbildningssatsning i ett led att utveckla och
 fördjupa arbetet med resor till Förintelsens minnesplatser. Även detta i projektform under en
 lämplig tidsperiod för att därefter utvärderas.
@@ -1393,11 +1393,11 @@ A. Med stöd av 7 kap. 5 § MB, om inskränkningar i rätten att använda mark- 
 vattenområden inom reservat, är det utöver vad som annars gäller förbjudet att inom
 reservatet:
 
-1. anlägga ny väg eller parkeringsplats. Med Länsstyrelsens tillstånd är det dock tillåtet att
+1\. anlägga ny väg eller parkeringsplats. Med Länsstyrelsens tillstånd är det dock tillåtet att
 anlägga vägar och parkeringsplatser i anslutning till byggnader och till skötselintensiva
 områden.
 
-2. uppföra byggnad, anläggning eller anordning samt att flytta eller riva byggnader. Med
+2\. uppföra byggnad, anläggning eller anordning samt att flytta eller riva byggnader. Med
 Länsstyrelsens tillstånd är det dock tillåtet att uppföra nya byggnader, anläggning eller
 anordning i syfte att tillgodose behov, som är nödvändiga för besökare och drift, inom
 
@@ -1405,35 +1405,35 @@ markerat område på karta 1. Med Länsstyrelsens tillstånd är det även till�
 eller flytta ladugården, bygga till eller på annat sätt förändra byggnadernas exteriör och
 i linbastuns interiör.
 
-3. bredda, räta, hårdgöra eller på annat sätt förändra befintlig väg.
-4. uppföra mast eller antenn samt anlägga luft- eller markledning. Med länsstyrelsens
+3\. bredda, räta, hårdgöra eller på annat sätt förändra befintlig väg.
+4\. uppföra mast eller antenn samt anlägga luft- eller markledning. Med länsstyrelsens
 tillstånd är det tillåtet att dra ledning till Äskhult 1:2 samt 2:2.
 
-5. anlägga brygga, båthamn eller fast angöringsplats för båt inom berörda delar av
+5\. anlägga brygga, båthamn eller fast angöringsplats för båt inom berörda delar av
 Svinsjön.
 
-6. anordna upplag, tippa, övertäcka eller fylla ut mark.
-7. borra, spränga, schakta, gräva, markbearbeta eller bedriva täkt.
+6\. anordna upplag, tippa, övertäcka eller fylla ut mark.
+7\. borra, spränga, schakta, gräva, markbearbeta eller bedriva täkt.
 
-8. dika, dämma, dikesrensa eller utföra annan åtgärd som kan påverka områdets hydrologi.
+8\. dika, dämma, dikesrensa eller utföra annan åtgärd som kan påverka områdets hydrologi.
 Med Länsstyrelsen tillstånd är det dock tillåtet att underhålla dike enligt
 bestämmelserna i 11 kap. 17 § miljöbalken under förutsättning att diket är lagligt anlagt.
 
-9. ta bort, skada eller övertäcka stengärdesgård, odlingsröse eller annan kulturhistorisk
+9\. ta bort, skada eller övertäcka stengärdesgård, odlingsröse eller annan kulturhistorisk
 lämning.
 
-10. kalka, gödsla eller sprida bekämpningsmedel.
-11. plöja, harva eller på annat sätt bryta vegetationstäcket.
+10\. kalka, gödsla eller sprida bekämpningsmedel.
+11\. plöja, harva eller på annat sätt bryta vegetationstäcket.
 
-12. så in eller plantera växter.
+12\. så in eller plantera växter.
 
-13. utfodra vilt och använda åtel.
-14. avverka, gallra, röja, föryngra skog eller på annat sätt påverka vegetationen.
+13\. utfodra vilt och använda åtel.
+14\. avverka, gallra, röja, föryngra skog eller på annat sätt påverka vegetationen.
 
-15. Ta bort, eller upparbeta dött träd, vindfälle eller döda grövre grenar.
+15\. Ta bort, eller upparbeta dött träd, vindfälle eller döda grövre grenar.
 
-16. framföra motordrivet fordon annat än på bilväg eller parkera annat än på anvisad plats.
-17. bedriva jakt
+16\. framföra motordrivet fordon annat än på bilväg eller parkera annat än på anvisad plats.
+17\. bedriva jakt
 
 <!-- sida 35 -->
 
@@ -1442,15 +1442,15 @@ LÄNSSTYRELSEN          Förslag till beslut          5 (15)
 2023-12-13              435-1705-21
 
 Dessutom är det förbjudet att utan Länsstyrelsens tillstånd:
-18. utföra undersökningar som innebär markering, insamling, fångst eller annan påverkan
+18\. utföra undersökningar som innebär markering, insamling, fångst eller annan påverkan
 på naturmiljön. Detta krav om tillstånd gäller dock inte vid insamling och dödande av
 ryggradslösa djur om insamlingen krävs för att en säker artbestämning ska kunna ske,
 
 den görs manuellt genom plockning, håvning eller motsvarande (alltså ej med fällor)
 och den görs utan att bark, ved eller andra substrat skadas
-19. uppföra stängsel eller annan hägnad
+19\. uppföra stängsel eller annan hägnad
 
-20. sätta upp tavla, affisch, skylt eller göra inskrift
+20\. sätta upp tavla, affisch, skylt eller göra inskrift
 
 Ovanstående föreskrifter ska inte utgöra hinder för:
 a. förvaltaren av kulturreservatet, eller den som förvaltaren uppdrar åt, att vidta de åtgärder
@@ -1468,9 +1468,9 @@ e. användning av bekämpningsmedel mot skadedjur i byggnader och odlingar.
 
 f. underhåll av den väg som markerats på karta 2, samt de vägar och parkeringsplatser som
 anläggs med stöd av tillståndsmöjligheten i A1, under förutsättning:
-- att det sker med material som till färg, form och funktion liknar naturgrus från trakten
+\- att det sker med material som till färg, form och funktion liknar naturgrus från trakten
 
-- att inget material tillförs området som kan innehålla för området främmande arter eller
+\- att inget material tillförs området som kan innehålla för området främmande arter eller
 förorenande ämnen.
 g. underhåll av brunn och vattenledning som hör till officialservitut 1384-83/29 och
 
@@ -1526,44 +1526,44 @@ B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6
 och innehavare av särskild rätt till fastigheten att tåla åtgärder inom området enligt
 följande:
 
-1. utmärkning av kulturreservatets gränser
+1\. utmärkning av kulturreservatets gränser
 
-2. anläggning och underhåll av friluftslivsanordningar exempelvis vindskydd, toaletter,
+2\. anläggning och underhåll av friluftslivsanordningar exempelvis vindskydd, toaletter,
 markerade stigar och informationsskyltar
 
-3. underhåll av byggnader utifrån byggnadernas kulturhistoriska värden förutom när det
+3\. underhåll av byggnader utifrån byggnadernas kulturhistoriska värden förutom när det
 gäller att riva, flytta, bygga till eller på annat sätt förändra byggnadernas exteriör och i
 linbastuns interiör.
 
-4. återställa och vårda historiska vägar som försvunnit under 1900-talet.
-5. täkt av grus för husbehov.
+4\. återställa och vårda historiska vägar som försvunnit under 1900-talet.
+5\. täkt av grus för husbehov.
 
-6. anläggning och skötsel av köks- och prydnadsträdgårdar samt föryngring av fruktträd
+6\. anläggning och skötsel av köks- och prydnadsträdgårdar samt föryngring av fruktträd
 och bärbuskar
 
-7. sådd och plantering av lövträd/buskar, samt stängsel mot vilt.
-8. betesdrift, stängsling, slåtter, fagning, torkning av hö på plats, tillförsel av hö,
+7\. sådd och plantering av lövträd/buskar, samt stängsel mot vilt.
+8\. betesdrift, stängsling, slåtter, fagning, torkning av hö på plats, tillförsel av hö,
 
 stubbrytning, bränning, hamling, stubbskottsbruk samt grävning och markbearbetning
 vid exempelvis odling i lindor.
-9. natur- och kulturvårdande skötsel i form av fällning, röjning, frihuggning,
+9\. natur- och kulturvårdande skötsel i form av fällning, röjning, frihuggning,
 
 plockhuggning, luck- och blädningshuggning, ringbarkning, veteranisering, katning,
 skapande av död ved.
-10. åkerbruk som innefattar jordbearbetning, gödsling och vid behov kalkning, odling av (i
+10\. åkerbruk som innefattar jordbearbetning, gödsling och vid behov kalkning, odling av (i
 huvudsak) tidstypiska grödor och insådd av traditionella åkerogräs, skörd samt hävd av
 
 åkerrenar och småbiotoper.
-11. hydrologisk återställning.
+11\. hydrologisk återställning.
 
-12. undersökningar och dokumentation av kulturvärden, friluftsliv, mark, vatten samt växt,
+12\. undersökningar och dokumentation av kulturvärden, friluftsliv, mark, vatten samt växt,
 svamp- och djurliv
 
-13. bekämpning av främmande arter
-14. utsättning av hotade arter om det behövs för att stärka artens möjlighet till långsiktig
+13\. bekämpning av främmande arter
+14\. utsättning av hotade arter om det behövs för att stärka artens möjlighet till långsiktig
 
 överlevnad i länet.
-15. naturvårdande jakt.
+15\. naturvårdande jakt.
 
 <!-- sida 39 -->
 
@@ -1582,27 +1582,27 @@ LÄNSSTYRELSEN          Förslag till beslut         10 (15)
 C. Med stöd av 7 kap. 30 § MB, om rätten att färdas och vistas i reservat är det
 utöver vad som annars gäller förbjudet att:
 
-1. framföra motordrivet fordon annat än på bilväg eller parkera annat än på anvisad plats.
+1\. framföra motordrivet fordon annat än på bilväg eller parkera annat än på anvisad plats.
 
-2. cykla annat än på bilväg.
-3. ha husvagn eller husbil parkerad i reservatet kl. 22-06.
+2\. cykla annat än på bilväg.
+3\. ha husvagn eller husbil parkerad i reservatet kl. 22-06.
 
-4. tälta annat än på anvisad plats och då i högst två nätter i följd, se karta 4.
+4\. tälta annat än på anvisad plats och då i högst två nätter i följd, se karta 4.
 
-5. ha hund okopplad.
-6. elda annat än på anvisade platser.
+5\. ha hund okopplad.
+6\. elda annat än på anvisade platser.
 
-7. skada levande eller döda träd, buskar och grenar.
+7\. skada levande eller döda träd, buskar och grenar.
 
-8. skada, plocka eller samla in växter, mossor, lavar eller svampar annat än enstaka
+8\. skada, plocka eller samla in växter, mossor, lavar eller svampar annat än enstaka
 exemplar. Det är dock tillåtet att plocka matsvamp.
-9. sätta upp tavla, affisch, skylt, snitsel eller göra inskrift.
+9\. sätta upp tavla, affisch, skylt, snitsel eller göra inskrift.
 
 Dessutom är det förbjudet att utan Länsstyrelsens tillstånd:
-10. anordna lägerverksamhet, tävlingar eller andra arrangemang.
+10\. anordna lägerverksamhet, tävlingar eller andra arrangemang.
 
-11. inplantera för området främmande arter.
-12. utföra undersökningar som innebär markering, insamling, fångst eller annan påverkan
+11\. inplantera för området främmande arter.
+12\. utföra undersökningar som innebär markering, insamling, fångst eller annan påverkan
 på naturmiljön. Detta krav om tillstånd gäller dock inte vid insamling och dödande av
 
 ryggradslösa djur om insamlingen krävs för att en säker artbestämning ska kunna ske,
@@ -1844,8 +1844,8 @@ enskilds rätt att använda mark och vatten.
 
 Bilagor
 
-1. Karta
-2. Skötselplan
+1\. Karta
+2\. Skötselplan
 
 Så här hanterar vi dina personuppgifter
 Information om hur vi hanterar dessa hittar du på www.lansstyrelsen.se/dataskydd.
@@ -1893,22 +1893,22 @@ hjälp för förvaltaren har därför en prioritering av åtgärderna gjorts.
 
 INNEHÅLLSFÖRTECKNING
 
-1. Syftet med kulturreservatet ......................................................................................................................... 4
+1\. Syftet med kulturreservatet ......................................................................................................................... 4
 
-2. Beskrivning av området ................................................................................................................................ 5
+2\. Beskrivning av området ................................................................................................................................ 5
 2.1 Övergripande ................................................................................................................................................ 5
 
 2.2 Historisk beskrivning..................................................................................................................................... 7
 2.3 De historiska kartorna .................................................................................................................................. 8
 2.4 Biologiskt kulturarv .................................................................................................................................... 11
 
-3. Bevarandevärden ....................................................................................................................................... 13
+3\. Bevarandevärden ....................................................................................................................................... 13
 
 3.1 Kulturhistoriska värden .............................................................................................................................. 13
 3.2 Biologiska värden ....................................................................................................................................... 19
 3.3 Friluftslivets värden .................................................................................................................................... 22
 
-4. Allmänna riktlinjer för vård och förvaltning ............................................................................................... 22
+4\. Allmänna riktlinjer för vård och förvaltning ............................................................................................... 22
 
 4.1 Skötselråd ................................................................................................................................................... 22
 4.2 Vårdplaner, utredningar och expertmedverkan ......................................................................................... 23
@@ -1923,9 +1923,9 @@ INNEHÅLLSFÖRTECKNING
 
 4:10. Äskhult 2:2 ............................................................................................................................................... 28
 
-5. Kulturreservatets byggnader, gamla och nya.............................................................................................. 28
+5\. Kulturreservatets byggnader, gamla och nya.............................................................................................. 28
 
-6. Kulturlandskapets skötselområden. Beskrivning, mål och åtgärder. .......................................................... 31
+6\. Kulturlandskapets skötselområden. Beskrivning, mål och åtgärder. .......................................................... 31
 6.1 Skötselområde A: Åker, äng och gårdsnära ytor. ....................................................................................... 34
 6.3 Skötselområde B. Den gårdsnära lövhagmarken ....................................................................................... 36
 
@@ -1934,8 +1934,8 @@ INNEHÅLLSFÖRTECKNING
 
 6.6 Skötselområde E, den tidigare utmarken ................................................................................................... 41
 
-7. Anordningar för besökare och publik verksamhet ...................................................................................... 44
-8. Sammanfattning och prioritering av planerade skötselåtgärder i markerna ............................................... 45
+7\. Anordningar för besökare och publik verksamhet ...................................................................................... 44
+8\. Sammanfattning och prioritering av planerade skötselåtgärder i markerna ............................................... 45
 
 Referenser ..................................................................................................................................................... 46
 
@@ -1946,7 +1946,7 @@ Referenser .....................................................................
 Skötselplan  för kulturreservatet Lilla Äskhult  i
 Kungsbacka    kommun
 
-1. Syftet med kulturreservatet
+1\. Syftet med kulturreservatet
 Syftet med kulturreservatet är att skydda och vårda Lilla Äskhults
 
 kulturlandskap med sitt biologiska kulturarv, samt levandegöra och
@@ -2020,7 +2020,7 @@ varsamt sätt med hänsyn till de kulturhistoriska värdena.
 •  främja forskning och kunskapsuppbyggnad om det äldre kultur-
 landskapet.
 
-2. Beskrivning av området
+2\. Beskrivning av området
 
 2.1 Övergripande
 
@@ -2125,7 +2125,7 @@ dokument:
 
 8 (46)
 
-”Lilla Eskhult Cronohemman____1/6 Rusthåldh tilldelt, hemmanet blifwit
+”Lilla Eskhult Cronohemman\_\_\_\_1/6 Rusthåldh tilldelt, hemmanet blifwit
 afbrändt för 16 åhr sedan, medlertijd ingen williat antaga och bebyggia för dhes
 
 skarpa och ringa Egendomb, uthan Egendommen warit brukat till Stoora
@@ -2192,7 +2192,7 @@ Fig. 2. Utsnitt ur 1799 års storskifteskarta över "Norra utmarken" i Förlanda
 FÖR-19 i Lantmäterimyndigheternas arkiv.
 
 1859 karterades ”skog och utmark” i Förlanda socken i samband med laga skifte (se fig.
-3) där ett utsnitt från 1859 års laga skifteskoncept återges. I kartbilden framträder bland
+3\) där ett utsnitt från 1859 års laga skifteskoncept återges. I kartbilden framträder bland
 annat inägogränsen, markerad med ett tunt streck som vinklar fram och tillbaka. Den
 följer en ännu stående stengärdesgård. I södra delen av inägogränsen finns en liten
 omsluten yta intill gärdesgården (se blå pil i fig. 3). Denna lilla yta är en kålgård, som
@@ -2317,7 +2317,7 @@ taggtråd. Även dessa trästolpar uppvisar rik påväxt av lavar.
 
 13 (46)
 
-3. Bevarandevärden
+3\. Bevarandevärden
 
 De bevarandevärden som lyfts här utgörs av de kulturhistoriska och biologiska spår som
 fysiskt illustrerar berättelsen om Lilla Äskhult och som huvudsakligen har fokus på den
@@ -2369,7 +2369,7 @@ byggnaderna (Kungsbacka kommun 2023, samt Västkuststiftelsen 2023).
 
 Fig. 6. Linbastun som
 den såg ut hösten
-2020. Foto
+2020\. Foto
 
 Odlingslandskapet
 
@@ -2555,7 +2555,7 @@ friluftslivsaktiviteter.
 
 Fig. 15. På väg mot sjön.
 
-4. Allmänna riktlinjer för vård och förvaltning
+4\. Allmänna riktlinjer för vård och förvaltning
 
 4.1 Skötselråd
 Lilla Äskhults skötselfrågor ska omfattas av och ingå i samma skötselråd som finns för
@@ -2651,7 +2651,7 @@ gynnande av trädslag. Så småningom har dessa hagmarker blivit igenväxningssk
 betade hagmarkerna levde kvar långt in på 1900-talet och var relativt vanliga ännu på
 1960-70-talen. Det är ett skötselmål att öppna upp och åter beta ängshagmarken, men
 inte att återställa slåttermarker annat än på de ytor där slåtter ännu ägde rum kring år
-1900.
+1900\.
 
 Skötsel av träd och död ved
 En viktig del för verksamhetens äkthet är att skogen sköts som en traditionell
@@ -2805,7 +2805,7 @@ samverkan med Västkuststiftelsen, och med tillstånd från Länsstyrelsen. Anle
 
 att ägarna tidigare har haft lov att använda det garage som ska rivas.
 
-5. Kulturreservatets byggnader, gamla och nya
+5\. Kulturreservatets byggnader, gamla och nya
 
 Bebyggelsen i Lilla Äskhult utgörs idag av sammanlagt fem byggnader: boningshuset,
 ladugården, två mindre uthus samt en linbastu strax intill. Husen ligger alla i
@@ -2865,12 +2865,12 @@ konstruktion i mycket dåligt skick. Den kommer att rivas så snart som möjligt
 
 30 (46)
 
-1. Torpet. Torpet utgör mangårdsbyggnaden som sannolikt uppfördes kring
+1\. Torpet. Torpet utgör mangårdsbyggnaden som sannolikt uppfördes kring
 sekelskiftet 1900. Denna är i starkt behov av renovering både in- och utvändigt för
 att kunna användas som personalutrymme. Torpet genomgick en renovering i slutet
 
 av 1960-talet eller möjligen i början av 1970-talet.
-2. Ladan. Ladans äldsta del har en ålderdomlig konstruktion med skiftesverk och
+2\. Ladan. Ladans äldsta del har en ålderdomlig konstruktion med skiftesverk och
 melusastolpar; en byggnadstradition som funnits lokalt ganska länge. Att åtgärda
 ladan är ett omfattande arbete som i princip innebär att större delen av grunden,
 konstruktion med bärande delar och inredning behöver göras om i sin helhet. Den
@@ -2878,13 +2878,13 @@ kommer att plockas ner och sedan byggas upp med modern anpassning för
 djurhållning och maskinpark, men i tidsenlig karaktär. Den kommer sannolikt också
 att få vinkelbyggnader för att kunna inrymma alla behov som förvaltningen av de
 båda kulturreservatet behöver.
-3. Matkällare. Inga större ombyggnader eller ändringar behöver göras. Byggnaden har ett
+3\. Matkällare. Inga större ombyggnader eller ändringar behöver göras. Byggnaden har ett
 stort pedagogiskt värde för kulturmiljön och kan säkert användas för förvaring av t ex
 potatis, lök och frukt.
-4. Snickarbod. Inga större ombyggnader eller förändringar behöver göras utan enkel
+4\. Snickarbod. Inga större ombyggnader eller förändringar behöver göras utan enkel
 renovering. Byggnaden har ett stort pedagogiskt värde för kulturmiljön och kan säkert
 användas för förvaring av ved och som snickarbod ganska omgående.
-5. Linbasta. Behöver omgående restaureras. Byggnaden har både ett högt
+5\. Linbasta. Behöver omgående restaureras. Byggnaden har både ett högt
 kulturhistoriskt värde och ett pedagogiskt värde. Det är en ålderdomlig konstruktion och
 funktion som bidrar till en förståelse för hur markerna brukades, om vardagslivet och
 om hur försörjningen gick till i dåtidens jordbrukssamhällen. Den kanske till och med
@@ -2922,7 +2922,7 @@ sekelskiftet 1900.
 I fig. 19–20) beskrivs övergripande de olika skötselområdena och deras målbilder.
 Fritidshuset som ej ingår i kulturreservatet ligger som ett vitt frimärke.
 
-6. Kulturlandskapets skötselområden. Beskrivning, mål och åtgärder.
+6\. Kulturlandskapets skötselområden. Beskrivning, mål och åtgärder.
 Den övergripande skötseln syftar till att bevara och synliggöra strukturer av den äldre
 markanvändningen och samtidigt gynna och utveckla det biologiska kulturarvet på
 
@@ -3311,7 +3311,7 @@ anläggs.
 
 44 (46)
 
-7. Anordningar för besökare och publik verksamhet
+7\. Anordningar för besökare och publik verksamhet
 
 Beskrivning
 
@@ -3354,7 +3354,7 @@ markerad strövstig till de mer avlägsna delarna av utmarken anläggs inom 5 å
 
 45 (46)
 
-8. Sammanfattning och prioritering av planerade skötselåtgärder i
+8\. Sammanfattning och prioritering av planerade skötselåtgärder i
 
 markerna
 
@@ -3386,10 +3386,10 @@ markerna
 
 Referenser
 
-2013. Odlingslandskapet i Äskhult – en lång historia. I: Helander, Hans
+2013\. Odlingslandskapet i Äskhult – en lång historia. I: Helander, Hans
 (red). Äskhults by. Där historien möter framtiden. Varberg.
 
-2020. Grannstället där hemma intill. Kulturhistorisk utredning på
+2020\. Grannstället där hemma intill. Kulturhistorisk utredning på
 
 fastigheten Äskhult 2:1/Lilla Äskhult. Kungsbacka kommun, Hallands län. Kula B,
 rapport 2020-11-12.
@@ -3397,7 +3397,7 @@ rapport 2020-11-12.
 Kungsbacka kommun/Larsson, Sofia. 2023. Lilla Äskhult, -en skadeanalys och
 kulturhistorisk beskrivning.
 
-2020. Redovisning av inventering av biologiskt kulturarv m.m. Lilla
+2020\. Redovisning av inventering av biologiskt kulturarv m.m. Lilla
 Äskhult. Levande Landskap. Konsulter i natur- och kulturmiljövård.
 
 <!-- sida 93 -->
@@ -3578,7 +3578,7 @@ KUNGSBACKA       KOMMUN
 
 InnehållsförteckningSammanfattning ............................................................................. 4
 
-1.  Inledning .................................................................................................................... 6
+1\.  Inledning .................................................................................................................... 6
 1.1. Bakgrund .................................................................................................................... 6
 
 1.2. Syfte och revisionsfrågor ............................................................................................ 6
@@ -3587,7 +3587,7 @@ InnehållsförteckningSammanfattning ...........................................
 1.4. Metod ......................................................................................................................... 7
 1.5. Avgränsningar och ansvariga nämnder ....................................................................... 7
 
-2.  Kommunövergripande styrning och uppföljning ................................................... 8
+2\.  Kommunövergripande styrning och uppföljning ................................................... 8
 2.1. Vår bedömning ........................................................................................................... 8
 
 2.2. Ansvarsfördelning för kompetensförsörjningsfrågor .................................................... 8
@@ -3599,20 +3599,20 @@ InnehållsförteckningSammanfattning ...........................................
 2.6. Uppföljning av kompetensförsörjningsarbetet ............................................................11
 2.7. Proaktiva insatser för att rekrytera nya medarbetare finns .........................................12
 
-3.  Attraktiv arbetsgivare ..............................................................................................13
+3\.  Attraktiv arbetsgivare ..............................................................................................13
 3.1. Vår bedömning ..........................................................................................................13
 
 3.2. Det finns ingen definition av vad det innebär att vara en attraktiv arbetsgivare ..........13
 3.3. Kommunen ser över möjligheten till kombinationstjänster men det finns hinder .........14
 
-4.  Kompetensförsörjning inom Vård & Omsorgs verksamhetsområden .................16
+4\.  Kompetensförsörjning inom Vård & Omsorgs verksamhetsområden .................16
 4.1. Vår bedömning ..........................................................................................................16
 
 4.2. Styrning och uppföljning av kompetensförsörjningsarbetet ........................................16
 4.3. Analys av rekryteringsbehov och utmaningar för verksamheten finns ........................18
 
 4.4. Det saknas kompetensutvecklingsplaner för medarbetare .........................................19
-5.  Kompetensförsörjning inom Individ & Familjeomsorgs verksamhetsområde ....20
+5\.  Kompetensförsörjning inom Individ & Familjeomsorgs verksamhetsområde ....20
 
 5.1. Vår bedömning ..........................................................................................................20
 5.2. Styrning och uppföljning av kompetensförsörjningsarbetet ........................................20
@@ -3620,7 +3620,7 @@ InnehållsförteckningSammanfattning ...........................................
 5.3. Analys av rekryteringsbehov och utmaningar för verksamheten ................................23
 5.4. Kompetensutveckling för medarbetare behandlas på medarbetarsamtal ...................24
 
-6.  Samlad bedömning ..................................................................................................25
+6\.  Samlad bedömning ..................................................................................................25
 6.1. Bedömning utifrån revisionsfrågorna ..........................................................................25
 
 6.2. Slutsatser ...................................................................................................................26
@@ -3716,7 +3716,7 @@ förvaltningsgränser.
 
 <!-- sida 102 -->
 
-1. Inledning
+1\. Inledning
 
 1.1. Bakgrund
 
@@ -3781,7 +3781,7 @@ för Vård & Omsorg och nämnden för Individ & Familjeomsorg.
 
 <!-- sida 104 -->
 
-2. Kommunövergripande  styrning och uppföljning
+2\. Kommunövergripande  styrning och uppföljning
 
 2.1. Vår bedömning
 
@@ -3912,20 +3912,20 @@ Målbild kompetensförsörjning 2033 är framtagen av kommundirektörens ledning
 inte politiskt beslutad. Målbilden är en vägledning mot framtidens kompetensförsörjning och
 uttrycker i sju punkter en målbild för hur kommunen ska bedriva verksamhet år 2033.
 
-1. Vi har en rimlig personalomsättning
+1\. Vi har en rimlig personalomsättning
 
-2. Vi har automatiserat alla repetitiva processer som inte kräver mänsklig handpåläggning
+2\. Vi har automatiserat alla repetitiva processer som inte kräver mänsklig handpåläggning
 
-3. Våra medarbetare arbetar med relationer och konceptuellt tänkande
+3\. Våra medarbetare arbetar med relationer och konceptuellt tänkande
 
-4. Vi rekryterar kompetensbaserat och letar efter rätt personliga kompetenser som gör
+4\. Vi rekryterar kompetensbaserat och letar efter rätt personliga kompetenser som gör
 våra medarbetare mångfacetterade
 
-5. Vi har sänkt trösklarna för att få anställning i Kungsbacka kommun och utbildar internt
+5\. Vi har sänkt trösklarna för att få anställning i Kungsbacka kommun och utbildar internt
 
-6. Våra medarbetare arbetar heltid och i flera olika verksamheter
+6\. Våra medarbetare arbetar heltid och i flera olika verksamheter
 
-7. Vi har en tydlig arbetsgång för interna karriärvägar
+7\. Vi har en tydlig arbetsgång för interna karriärvägar
 
 10
 
@@ -4009,7 +4009,7 @@ Kungsbacka kommun deltar också på Handelshögskolan i Göteborgs arbetsmarknad
 
 <!-- sida 109 -->
 
-3. Attraktiv arbetsgivare
+3\. Attraktiv arbetsgivare
 
 3.1. Vår bedömning
 
@@ -4122,7 +4122,7 @@ Familjeomsorg deltar i Kultur & Fritids kreativa mötesplats för ungdomar.
 
 <!-- sida 112 -->
 
-4. Kompetensförsörjning inom Vård & Omsorgs verksamhets-
+4\. Kompetensförsörjning inom Vård & Omsorgs verksamhets-
 
 områden
 
@@ -4316,7 +4316,7 @@ olika områden, exempelvis palliativ vård eller diabetes.
 
 <!-- sida 116 -->
 
-5. Kompetensförsörjning inom Individ & Familjeomsorgs
+5\. Kompetensförsörjning inom Individ & Familjeomsorgs
 
 verksamhetsområde
 
@@ -4548,7 +4548,7 @@ kompetensutveckling hos mer erfarna medarbetare begränsas.
 
 <!-- sida 121 -->
 
-6. Samlad bedömning
+6\. Samlad bedömning
 
 6.1. Bedömning utifrån revisionsfrågorna
 
@@ -4682,7 +4682,7 @@ Förmågan för kommuner att rekrytera, behålla och kompetensutveckla personal 
 för en fungerande kommunal verksamhet. Att hitta rätt kompetens anses vara välfärdens
 största utmaning. En analys från Sveriges kommuner och regioner, SKR, visar att det behöver
 anställas 410 000 personer inom region och kommun för att täcka pensioneringar fram till år
-2031. SKR menar att genom att förändra arbetssätt och ta tillvara och utveckla de befintliga
+2031\. SKR menar att genom att förändra arbetssätt och ta tillvara och utveckla de befintliga
 
 medarbetarna kan rekryteringsbehoven minska. Analysen visar vidare att behovet av anställda
 inom välfärden kan minska med en fjärdedel om alla deltidsarbetande skulle arbeta tre timmar
@@ -4957,11 +4957,11 @@ Förslag till åtgärder:
 talarstolen för att skapa en mer professionell och estetiskt tilltalande atmosfär under möten och
 presentationer, både för de som deltar fysiskt men även för de som deltar via webbsändning.
 
-2. Utformning och installation av en mer stilren, representativ och enhetlig bakgrund bakom presidiet
+2\. Utformning och installation av en mer stilren, representativ och enhetlig bakgrund bakom presidiet
 för att skapa en professionell och estetiskt tilltalande atmosfär under möten och presentationer,
 både för de som deltar fysiskt men även för de som deltar via webbsändning.
 
-3. Installation av eluttag vid samtliga bord i salen för att möjliggöra laddning av elektroniska enheter
+3\. Installation av eluttag vid samtliga bord i salen för att möjliggöra laddning av elektroniska enheter
 såsom bärbara datorer och mobiltelefoner, vilket underlättar arbetsprocessen för våra
 representanter.
 
@@ -5164,14 +5164,14 @@ vid uteblivet besök som inte avbokats i tid.
 
 Med anledning av ovan yrkar Sverigedemokraterna:
 
-- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
+\- Att Kommunfullmäktige ger berörda nämnder i uppdrag att se över hur en egenavgift för tolktjänst
 efter 3 år i landet kan införas.
 
-- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök med bokad tolkhjälp där personen uteblivit utan att
 avboka tiden, ska tolkavgiften bekostas av den enskilde även om denne haft sin hemvist i landet
 kortare än tre år.
 
-- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
+\- Att Kommunfullmäktige beslutar att vid besök där teckentolk behövs och där man uteblivit utan att
 avboka tiden, ska teckentolksavgiften bekostas av den enskilde.
 
 Stefan Jägnert / SD Kungsbacka

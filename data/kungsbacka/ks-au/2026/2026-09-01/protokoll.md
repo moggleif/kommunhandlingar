@@ -508,19 +508,19 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Samhällsbyggnadschef Lovisa Eld informerar om:
--  Ändringen i planen där nuvarande Tingbergsskolan ligger har överklagats och
+\-  Ändringen i planen där nuvarande Tingbergsskolan ligger har överklagats och
 
 Mark- och miljööverdomstolen har meddelat prövningstilsstånd.
 Byggnadsnämnden hanterar kommunens yttrande.
--  E-tjänsten för vildsvinspremien är färdigställd inom kort. Avtal med
+\-  E-tjänsten för vildsvinspremien är färdigställd inom kort. Avtal med
 vilthanteringsanläggning är klara. Information går ut på hemsidan så fort e-
 tjänsten är klar.
 
 Kommundirektör Rickard Vidlund informerar om:
--  Pågående rekryteringar
+\-  Pågående rekryteringar
 
 Magdalena Sundqvist (S) informerar om:
--  lokala säkerhetsnämnden och den information som gavs om revision av
+\-  lokala säkerhetsnämnden och den information som gavs om revision av
 
 Ringhals.
 Lisa Andersson (M) informerar om att kommunstyrelsens arbetsutskotts

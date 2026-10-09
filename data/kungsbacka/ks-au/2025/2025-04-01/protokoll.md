@@ -197,7 +197,7 @@ Kommunen följer rekommenderad nivå för arbetsgivaravgifterna enligt Sveriges
 Kommuner och Regioner, SKR, och reglerar till slutlig nivå när denna är fastställd.
 Personalomkostnadspålägget, PO-pålägget, publicerades av SKR den 12 december
 
-2024.
+2024\.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 5B6BB34A047CFB65AF3272D7B0B8D23026CED8BD3A
@@ -211,7 +211,7 @@ Datum
 2025-04-01
 
 För kommunerna justeras nu PO-pålägget ned och fastställs till 40,24 procent för
-2025. I kommunbudget 2025 är PO-pålägget 42,75 procent och ingår i nämndernas
+2025\. I kommunbudget 2025 är PO-pålägget 42,75 procent och ingår i nämndernas
 budgetram.
 Total ramjustering från nämnderna i budget 2025 är beräknad till -60 671 000
 kronor. Kommunstyrelsens förvaltning föreslår att förändringen regleras mot årets
@@ -539,7 +539,7 @@ verksamheter som industri och lager. Syftet är även att möjliggöra en utöka
 pendelparkering inom området.
 
 Planförslaget har varit utställt för granskning under tiden 3 november till 2 december
-2020. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
+2020\. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
 huvudsak miljö, risker och geotekniska frågor, se vidare i granskningsutlåtandet.
 Därefter har kompletterande utredningar för geoteknik gällande bergtäkten, området
 vid bullervallen och sprängstensvallen tagits fram. Nya inmätningar av planområdet
@@ -627,10 +627,10 @@ Under åren 2021–2024 har Samhällsbyggnadskontoret tagit fram och
 byggnadsnämnden antagit sammanlagt 15 detaljplaner som har haft gemensamt att
 de är av enklare karaktär. Den här projektbeställningen gäller uppstart av ytterligare
 tre detaljplaner som har bedömts som lämpliga att samordna:
-- Del av detaljplan S21A för Malevik 1:39
+\- Del av detaljplan S21A för Malevik 1:39
 
-- Detaljplan S53 för Släps-Högås 1:25 m.fl.
-- Del av detaljplan K35 och T16 inom Spoven 1.
+\- Detaljplan S53 för Släps-Högås 1:25 m.fl.
+\- Del av detaljplan K35 och T16 inom Spoven 1.
 
 Beslutsunderlag
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2025-03-12
@@ -768,11 +768,11 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Tillförordnad kommundirektör Anders Johansson lämnar följande information:
-- Industrifacken är överens med arbetsgivare om löneökningar om totalt 6,4
+\- Industrifacken är överens med arbetsgivare om löneökningar om totalt 6,4
 
 procent på två år. Avtalet brukar ses som vägledande för resten av
 arbetsmarknaden.
-- Den 25 mars visades ett reportage om Kungsbacka och innovation i SVTs
+\- Den 25 mars visades ett reportage om Kungsbacka och innovation i SVTs
 Aktuellt. I inslaget, lyfts Kungsbacka fram som den kommun som har flest AI-
 projekt igång.
 

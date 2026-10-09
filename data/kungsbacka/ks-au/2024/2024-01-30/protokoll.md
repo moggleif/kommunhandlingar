@@ -410,9 +410,9 @@ bidra till en tryggare och mer bekväm miljö för alla användare. Särskilt kv
 känna sig obekväma och utsatta när toaletter delas med personer av motsatt kön
 menar motionärerna. Motionärerna föreslår att:
 
-- kommunen tar fram riktlinjer som visar att vid planering av nya offentliga
+\- kommunen tar fram riktlinjer som visar att vid planering av nya offentliga
 toaletter ska separerade dam- och herrtoaletter prioriteras.
-- kommunen tar fram riktlinjer som visar att vid planering inför renovering av
+\- kommunen tar fram riktlinjer som visar att vid planering inför renovering av
 offentliga toaletter ska separerade dam- och herrtoaletter prioriteras.
 
 Beslutsunderlag
@@ -582,45 +582,45 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Malin Aronsson lämnar följande information:
-- Sveriges kommuner och regioner (SKR) har under en tid arbetat med en
+\- Sveriges kommuner och regioner (SKR) har under en tid arbetat med en
 
 handlingsplan inom ramen för projektet Handslag för välfärdsutveckling genom
 digitalisering. I handlingsplanen beskrivs dels ett antal konkreta
 digitaliseringsinitiativ att initialt gå samman kring, dels strukturer och arbetssätt
 för gemensamt fortsatt arbete.
-- Länsstyrelsen i Halland fortsätter sitt arbete med mäns våld mot kvinnor och har
+\- Länsstyrelsen i Halland fortsätter sitt arbete med mäns våld mot kvinnor och har
 bjudit in till ett uppföljande möte. Den här gången är fokus på
 
 arbetsgivarperspektivet.
-- Kommundirektören har fått en inbjudan till att delta i en diskussion ledd av
+\- Kommundirektören har fått en inbjudan till att delta i en diskussion ledd av
 Handelshögskolan i Stockholm. Diskussionsämnet är forskning och
 ledaskapsutbildningars förmåga att möta komplexa, gränsöverskridande
 samhällsutmaningar.
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
-- Mark- och miljödomstolens beslut av att avslå överklagan av detaljplanen för
+\- Mark- och miljödomstolens beslut av att avslå överklagan av detaljplanen för
 Särö 1:504, har överklagats till mark- och miljööverdomstolen (MÖD).
 
-- Svenska Stadskärnor har konferens den 21-22 maj. Den 22 maj äger även den
+\- Svenska Stadskärnor har konferens den 21-22 maj. Den 22 maj äger även den
 halländska konferensen Agenda 2030 i Falkenberg rum.
 
-- Länsstyrelsen har fattat beslut om att upphäva detaljplanen för Varla 3:22 där
+\- Länsstyrelsen har fattat beslut om att upphäva detaljplanen för Varla 3:22 där
 Mediq har verksamhet. Länsstyrelsens beslut påverkar Castellums utbyggnad för
 Mediq. Länsstyrelsen konstaterar i sitt beslut att de anser att planområdet behöver
 höjdsättas och samordnas ur dagvatten- och geoteknisk synvinkel.
-- Länsstyrelsen har ställt krav på inventering av groddjur, fåglar samt fladdermöss
+\- Länsstyrelsen har ställt krav på inventering av groddjur, fåglar samt fladdermöss
 ska genomföras inom ramen för arbetet med detaljplanen för Hedeleden.
 
 Samhällsbyggnadskontoret kommer att ha en dialog med länsstyrelsen om
 omfattningen av kartläggningen. Samhällsbyggnadskontoret har gjort en
 miljöutredning inom ramen för arbetet och gjort bedömningen att något behov av
 ytterligare utredningar inte finns.
-- Nämnden för Kultur & Fritid fick i förra veckan information om
+\- Nämnden för Kultur & Fritid fick i förra veckan information om
 konstevenemanget - Wall Street - och samhällsbyggnadschefen deltog i
 diskussionerna utifrån att evenemanget innebär ett samarbete mellan kommunen
 
 och näringslivet.
-- Mark- och miljööverdomstolen har beslutat att inte bevilja prövningstillstånd i
+\- Mark- och miljööverdomstolen har beslutat att inte bevilja prövningstillstånd i
 dispensmålet rörande Onsalavägen. Mark- och miljödomstolens avgörande från
 
 Expedierat/bestyrkt

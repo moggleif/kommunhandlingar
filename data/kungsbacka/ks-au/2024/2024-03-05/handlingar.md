@@ -1649,7 +1649,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 40 -->
 
-1. Inledning
+1\. Inledning
 Denna taxa gäller uttag av avgifter för särskild kollektivtrafik, Färdtjänst. Färdtjänst
 
 är en anpassad typ av kollektivtrafik för den som har ett beviljat färdtjänsttillstånd
@@ -1664,7 +1664,7 @@ utsträckning som närmare beskrivs i nedanstående taxebestämmelser.
 Färdtjänst gäller inte för resor som bekostas enligt annan lag eller förordning,
 exempelvis skolskjuts och sjukresa.
 
-2. Beräkningsgrund
+2\. Beräkningsgrund
 
 Avgift tas ut efter de grunder som framgår av lagen (1997:736) om färdtjänst.
 Avgifterna ska vara skäliga och får inte överstiga tillståndsgivarens självkostnader, .
@@ -1709,10 +1709,10 @@ Kungsbacka kommun         Taxa för särskild kollektivtrafik - Färdtjänst 2 (
 
 Vid resa nattetid görs ytterligare ett tillägg om 25 kronor per resa för samtliga resor.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 Mervärdesskatt utgår inte för denna taxas avgifter.
 
-4. Avgiftsbelopp/taxetabell
+4\. Avgiftsbelopp/taxetabell
 Nedan följer en sammanställning av egenavgifter för vuxen och ungdom i 2024 års
 nivå. Med ungdom avses person till och med 19 år.
 
@@ -1721,7 +1721,7 @@ respektive 86 kronor (för zon 3). Med ett påslag för service och administrati
 
 ovan ökar avgiften med 10 kr i zon 1, 20 kronor i zon 2 och 21 kronor i zon 3.
 
-*= För zon 2 finns ett flertal kort beroende på geografisk indelning varför dessa inte anges specifikt.
+\*= För zon 2 finns ett flertal kort beroende på geografisk indelning varför dessa inte anges specifikt.
 
 Ej avbokad resa - Bomresor
 
@@ -1757,14 +1757,14 @@ Kungsbacka kommun         Taxa för särskild kollektivtrafik - Färdtjänst 3 (
 |  | Vuxen | Ungdom<br>tom 19 år | Vuxen | Ungdom<br>tom 19 år | Vuxen | Ungdom<br>tom 19 år |
 | Zon 1<br>(tätort) | 53 kr | 39 kr | 78 kr | 64 kr | 1020 kr | 763 kr |
 | Zon 2 | 63 kr | 47 kr | 88 kr | 75 kr | 1 253 kr | 938 kr |
-| Zon 3 | 126 kr | 93 kr | 151 kr | 118 kr | * | * |
+| Zon 3 | 126 kr | 93 kr | 151 kr | 118 kr | \* | \* |
 
 <!-- sida 42 -->
 
 beskrivs i punkten 2 Beräkningsgrunder, det vill säga kollektivtrafikens avgift med
 ett procentbaserat påslag för service.
 
-5. Justering av avgiftsbelopp
+5\. Justering av avgiftsbelopp
 
 Taxans avgiftsbelopp inklusive avgift för periodkort justeras i enlighet med
 Västtrafiks beslutade avgiftsändringar i kollektivtrafiken.
@@ -1772,12 +1772,12 @@ Västtrafiks beslutade avgiftsändringar i kollektivtrafiken.
 Ersättningen för ”Bomresa” justeras med förändringen av konsumentprisindex, KPI,
 varje år och avrundas därefter till närmaste tiotal kronor.
 
-6. Delegering av beslut om justering
+6\. Delegering av beslut om justering
 
 Nämnden för Teknik har i uppdrag att justera avgiftsbeloppen i enlighet med taxans
 bestämmelser § 5.
 
-7. Övergångsbestämmelser
+7\. Övergångsbestämmelser
 
 Denna taxa börjar gälla 2 maj 2024. Resor gjorda före 2 maj 2024 debiteras enligt
 tidigare gällande taxa: –Färdtjänsttaxa, antagen av kommunfullmäktige 2008-10-14,
@@ -2304,7 +2304,7 @@ Förvaltningens förslag
 Förslaget
 
 Förvaltningens förslag är att inte verkställa uppräkningen av egenavgifterna till 2024 års nivå (förslag
-3) utan i stället besluta om en kortsiktig åtgärd genom att kombinera att anta en taxa med höjt påslag
+3\) utan i stället besluta om en kortsiktig åtgärd genom att kombinera att anta en taxa med höjt påslag
 om 50% av Vänstertrafiks avgift för enkelbiljett (förslag 1), med intention att träda i kraft snarast
 möjligt därtill ge förvaltningen i uppdrag att ta fram en ny modell enligt så kallade avståndsbaserade
 egenavgifter, i princip motsvarande taxametermodellen (förslag 4).
@@ -2421,11 +2421,11 @@ Regler för kommunens likvidplanering, krav- och inkassoverksamhet och kontantha
 Kommunfullmäktige reviderar kommunstyrelsens reglemente § 17 Kommunfullmäktiges delegering
 genom tillägg av punkt 15 med följande lydelse:
 
--  Beslut om årliga omprövningar av borgensavgifter för ingångna borgensåtaganden.
+\-  Beslut om årliga omprövningar av borgensavgifter för ingångna borgensåtaganden.
 Kommunfullmäktige reviderar Gemensamt reglemente för kommunstyrelsen och nämnder i
 
 Kungsbacka kommun genom tillägg i § 9 Delegering från kommunfullmäktige med följande lydelse
--  Nämnd får besluta om undantag från huvudregeln att leasing inte är tillåtet för annat än fordon
+\-  Nämnd får besluta om undantag från huvudregeln att leasing inte är tillåtet för annat än fordon
 och arbetsmaskiner, om det finns särskilda skäl och kommunstyrelsen har godkänt det.
 
 Förslag till beslut i kommunstyrelsen under förutsättning av kommunfullmäktiges
@@ -3112,7 +3112,7 @@ Policy     för
 
 borgensåtagande
 
-1. Syfte
+1\. Syfte
 Syftet med borgensåtagandet skall vara att stödja verksamhet, som inte bedrivs
 av kommunen själv, men som ur kommunalpolitisk synpunkt anses angelägen
 och ligger inom ramen för kommunens befogenheter. Det ändamål som
@@ -3121,7 +3121,7 @@ intressen.
 
 För kommunens egna bolag skall borgenslån prioriteras före lån mot pantbrev.
 
-2. Omfattning och ändamål
+2\. Omfattning och ändamål
 Alla ansökningar om kommunal borgen ska behandlas restriktivt. Borgen ska
 lämnas om det är en absolut nödvändighet för genomförandet av de projekt
 eller den verksamhet som kommunen värderar som mycket angelägen.
@@ -3173,7 +3173,7 @@ Ny borgen lämnas inte för egna hem och småhus. Omskrivning av befintlig
 borgen för egna hem och småhus lämnas endast om den som övertar lånet är
 gift/sambo eller barn till den som tidigare haft lånet och om den som övertar
 lånet bedöms ha en sådan ekonomi att kommunens risk inte ökar.
-3. Villkor och säkerheter
+3\. Villkor och säkerheter
 3.1 Säkerheter
 
 Om borgensåtagande ingås bör kommunen ha pantbrev för hela borgens-
@@ -3212,7 +3212,7 @@ på försäkring, erhållandet av annan säkerhet, etc.
 
 » Insyn i låntagarens verksamhet.
 
-4. Beslut
+4\. Beslut
 Formalia
 Beslutet om kommunal borgen ska tydligt ange borgens omfattning avseende;
 
@@ -3222,7 +3222,7 @@ Beslutet om kommunal borgen ska tydligt ange borgens omfattning avseende;
 storleken på den årliga amorteringen av lånet och storleken på
 eventuell avgift anges.
 
-<Vem som undertecknar beslutet-om inte detta framgår på annat håll.
+\<Vem som undertecknar beslutet-om inte detta framgår på annat håll.
 
 Ramborgen för Eksta Bostads AB
 För ramborgen som lämnas till Eksta Bostads AB skall följande besluts-
@@ -3235,7 +3235,7 @@ lånebelopp om xxx kronor jämte därpå löpande ränta och kostnader.
 Ramborgen till Eksta förnyas varje år och anpassas till den nivå som gäller vid
 varje årsskifte.
 
-5. Avgift
+5\. Avgift
 
 För kommunens helägda bolag eller helägda stiftelser, utgår en marknads-
 mässig årlig borgensavgift på utnyttjad borgen, baserad på bolagets/stiftelsens
@@ -3259,7 +3259,7 @@ efterskott.
 Kommunen kan även för andra än de helägda bolagen ta ut en borgensavgift
 som ett sätt att reducera kreditrisk och administrativa kostnader. Detta sker
 efter beslut i varje enskilt ärende.
-6. Redovisning och administration
+6\. Redovisning och administration
 
 Borgensåtaganden administreras av kommunstyrelsens förvaltning.
 
@@ -3269,7 +3269,7 @@ rätt att underteckna nya reverser.
 I årsredovisningen skall kommunstyrelsen till fullmäktige redovisa
 kommunens samlade borgensåtaganden, de infriade borgensförpliktelserna
 samt en analys och riskbedömning av kommunens borgensåtaganden.
-7. Regressrätt
+7\. Regressrätt
 
 I de fall kommunen har infriat ett borgensåtagande skall kommunens
 möjlighet att utnyttja sin regressrätt alltid utnyttjas.
@@ -3289,7 +3289,7 @@ info@kungsbacka.se • www.kungsbacka.se
 REGLER FÖR KOMMUNENS   LIKVIDPLANERING, KRAV- OCH INKASSO-
 VERKSAMHET  OCH KONTANTHANTERING
 Fastställt av kommunfullmäktige 2010-09-07, § 160
-1. Likviditetsplanering
+1\. Likviditetsplanering
 
 Den finansiella planeringen består dels av en finansieringsbudget dels en likviditetsplan.
 
@@ -3304,7 +3304,7 @@ fullmäktige de utgångspunkter som likviditetsplaneringen ska bygga på t ex me
 
 planerad likviditetsnivå.
 
-2. Betalningsströmmar
+2\. Betalningsströmmar
 
 Grundprincip
 
@@ -3347,21 +3347,21 @@ betalningsskyldigt ska faktura adresseras till ”vårdnadshavare för barnets n
 Fakturor ska adresseras till Kungsbacka kommun. Betalningsvillkor ska alltid anges på be-
 ställningar och rekvisitioner.
 
-1. Avtal med leverantör bör endast ske med 30 dagar, kortare betalningsvillkor bör övervägas
+1\. Avtal med leverantör bör endast ske med 30 dagar, kortare betalningsvillkor bör övervägas
 noga och endast ske undantagsvis.
 
-2. Faktureringsavgifter eller liknande bör normalt inte accepteras.
+2\. Faktureringsavgifter eller liknande bör normalt inte accepteras.
 
-3. En faktura per månad bör eftersträvas istället för efter varje leverans.
+3\. En faktura per månad bör eftersträvas istället för efter varje leverans.
 
-4. Betalningsvillkor för driftbidrag beslutas av respektive nämnd. Utbetalning av bidrag till
+4\. Betalningsvillkor för driftbidrag beslutas av respektive nämnd. Utbetalning av bidrag till
 
 föreningar i Kungsbacka kommun sker efter särskild redovisning från föreningen där bi-
 dragsgrundande åtgärder bestyrks.
 
-5. En snabb handläggning av kontering och attester krävs för undvikande av dröjsmålsräntor.
+5\. En snabb handläggning av kontering och attester krävs för undvikande av dröjsmålsräntor.
 
-6. Förtidsutställda fakturor för inte levererade varor och tjänster accepteras inte. Proforma-
+6\. Förtidsutställda fakturor för inte levererade varor och tjänster accepteras inte. Proforma-
 fakturor betalas inte.
 
 2
@@ -3381,7 +3381,7 @@ fakturor betalas inte.
 
 2010-05-10
 
-3. KRAV- OCH  INKASSOVERKSAMHET
+3\. KRAV- OCH  INKASSOVERKSAMHET
 
 3.1 Allmänt
 Kravverksamhet är reglerad i Inkassolagen. Utformning och användande av betalningspåmin-
@@ -3406,25 +3406,25 @@ krav-och inkassoverksamheten. Vid utebliven betalning från kund/gäldenär föl
 som beskrivs nedan.
 
 3.2 Regler för kravverksamheten
-1. Betalningspåminnelse sänds tidigast 7 dagar efter förfallodagen, avgift uttas inte.
+1\. Betalningspåminnelse sänds tidigast 7 dagar efter förfallodagen, avgift uttas inte.
 
-2. Inkassokrav sänds tidigast 20 dagar efter förfallodagen. Inkassoavgift uttas med maximalt
+2\. Inkassokrav sänds tidigast 20 dagar efter förfallodagen. Inkassoavgift uttas med maximalt
 tillåtet belopp.
 
-3. Ränta ska utgår från förfallodagen enligt gällande räntelag.
+3\. Ränta ska utgår från förfallodagen enligt gällande räntelag.
 
-4. Om kommunen inte får betalt för sin fordran efter inkassokravet lämnas ansökan till krono-
+4\. Om kommunen inte får betalt för sin fordran efter inkassokravet lämnas ansökan till krono-
 fogdemyndigheten för att betalningsskyldigheten ska fastställas/prövas. För obetalda faktu-
 ror kan betalningsföreläggande/lagsökning till Kronofogden skickas från och med 35 dagar
 från fakturans förfallodag. Kostnad för betalningsföreläggande tas ut med maximalt tillåtet
 belopp.
 
-5. Efter besked från kronofogdemyndigheten om att utmätningsbar egendom saknas, avskrivs
+5\. Efter besked från kronofogdemyndigheten om att utmätningsbar egendom saknas, avskrivs
 
 fordran i räkenskaperna och lämnas för långtidsbevakning hos inkassobyrå. Beslut om av-
 skrivning i räkenskaperna regleras i kommunstyrelsens delegationsförteckning.
 
-6. Åtgärder efter inkassokrav avseende fakturor till omyndiga/underåriga barn adresserade till
+6\. Åtgärder efter inkassokrav avseende fakturor till omyndiga/underåriga barn adresserade till
 ”vårdnadshavare för” barnets namn vidtas i normalfallet inte. Undantag prövas särskilt av
 kommunstyrelsens arbetsutskott.
 
@@ -3458,11 +3458,11 @@ skrivning om högst ett basbelopp får vidaredelegeras.
 Det är förvaltningens ansvar att fakturafordringarna är korrekta och Service Ekonomi ansva-
 rar för betalningspåminnelser, kravåtgärder och efterbevakning.
 
-1. Respektive förvaltning ska via ekonomisystemet bevaka sina utestående fordringar.
+1\. Respektive förvaltning ska via ekonomisystemet bevaka sina utestående fordringar.
 
-2. SE Ekonomi registrerar kravåtgärder i ekonomisystemet.
+2\. SE Ekonomi registrerar kravåtgärder i ekonomisystemet.
 
-3. Om kravåtgärder uppskjuts, genom att utredning ska ske av räkningsutställande förvalt-
+3\. Om kravåtgärder uppskjuts, genom att utredning ska ske av räkningsutställande förvalt-
 ning, ska Service Ekonomi meddelas om hur länge anstånd ska gälla.
 
 4 SANKTIONSÅTGÄRDER     I SAMBAND   MED  INKASSOVERKSAM-
@@ -3471,19 +3471,19 @@ HET
 
 För att öka trycket på gäldenär vid kravärenden kan följande sanktionsmöjligheter användas:
 
-1. Vid obetalda VA-fakturor kan beslutas om avstängning av vattentillförsel hos gäldenär.
+1\. Vid obetalda VA-fakturor kan beslutas om avstängning av vattentillförsel hos gäldenär.
 Avstängning av vatten sker ca 45 dagar efter förfallodag med iakttagande av tekniska
 nämndens leveransbestämmelser. Särskild avstängningsavgift uttas enligt VA-taxan. Av-
 stängning sker efter av nämnden fastställd rutin.
 
-2. Avstängning från barnomsorg sker enligt av nämnden fastställd rutin.
+2\. Avstängning från barnomsorg sker enligt av nämnden fastställd rutin.
 
 5 BELOPPSGRÄNSER
 
-1. Minsta fakturabelopp är i normalfallet 100 kronor för all debitering/återbetalning förutom
+1\. Minsta fakturabelopp är i normalfallet 100 kronor för all debitering/återbetalning förutom
 för vatten- och renhållningsavgifter.
 
-2. Återbetalning av för högt inbetalda avgifter sker endast en gång. Återbetalning som inte
+2\. Återbetalning av för högt inbetalda avgifter sker endast en gång. Återbetalning som inte
 har lösts ut kan därefter återkrävas av kunden inom tio år.
 
 4
@@ -3492,21 +3492,21 @@ har lösts ut kan därefter återkrävas av kunden inom tio år.
 
 2010-05-10
 
-3. Vatten- och renhållningsavgifter: Restskulder på belopp upp till 100 kronor avskrivs från
+3\. Vatten- och renhållningsavgifter: Restskulder på belopp upp till 100 kronor avskrivs från
 ursprungsfakturan och debiteras på nästkommande faktura. Vid för högt inbetalt belopp el-
 ler vid kreditbelopp i samband med avläsning av vattenförbrukning återbetalas endast be-
 lopp överstigande 1 000 kronor. Belopp under 1 000 kronor avräknas på kommande faktu-
 ra
 
-4. Betalningspåminnelser och inkassokrav skickas i normalfallet inte ut för belopp understi-
+4\. Betalningspåminnelser och inkassokrav skickas i normalfallet inte ut för belopp understi-
 gande 100 kronor.
 
-5. Avstängning eller ansökan om betalningsföreläggande/lagsökning görs i normalfallet inte
+5\. Avstängning eller ansökan om betalningsföreläggande/lagsökning görs i normalfallet inte
 på belopp understigande 500 kronor. Räkningsutställande nämnd beslutar om avskrivning
 
 av fordringar gentemot gäldenär. Avskrivning om högst ett basbelopp får vidaredelegeras.
 
-6. Sammanföring av fordringsbelopp ska ske för att uppnå erforderliga beloppsgränser.
+6\. Sammanföring av fordringsbelopp ska ske för att uppnå erforderliga beloppsgränser.
 
 5
 
@@ -3536,19 +3536,19 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 Finanspolicyn syftar till att i ett sammanhang lägga fast mål och riktlinjer för
 kommunen och de kommunala bolagen/stiftelsen inom följande finansiella områden:
 
-- beslutanderätt, organisation
-- koncernsamordning av finansverksamheten
+\- beslutanderätt, organisation
+\- koncernsamordning av finansverksamheten
 
-- likviditetsplanering
-- placering
+\- likviditetsplanering
+\- placering
 
-- utlåning
+\- utlåning
 
-- upplåning och leasing
-- försäkringsinstrument
+\- upplåning och leasing
+\- försäkringsinstrument
 
-- borgen och garantier
-- styrning och rapportering
+\- borgen och garantier
+\- styrning och rapportering
 
 Policyn inkluderar de föreskrifter för kommunens medelsförvaltning som
 kommunfullmäktige skall fastställa enligt 8 kap 3 § Kommunallagen.
@@ -4113,7 +4113,7 @@ en långsiktigt god avkastning.
 
 2.1 Bakgrund
 
-- Förvaltning av finansiella tillgångar och likvida medel/skulder
+\- Förvaltning av finansiella tillgångar och likvida medel/skulder
 
 2.2 Målformulering
 Kommunen skall förvalta sitt kapital så att kommunens åtagande kan uppfyllas i ett
@@ -4125,10 +4125,10 @@ Placeringsföreskrifterna anger hur finansadministrationen tillåts placera port
 medel utifrån dessa riktlinjers uppställda mål och restriktioner. Föreskrifterna delas
 in i tre delar:
 
-- Strategisk tillgångsfördelning
-- Taktisk tillgångsfördelning
+\- Strategisk tillgångsfördelning
+\- Taktisk tillgångsfördelning
 
-- Val av värdepapper
+\- Val av värdepapper
 
 2.3.1 Strategisk tillgångsfördelning
 Den strategiska fördelningen anger vilka tillgångsslag som är tillåtna i portföljen och
@@ -4140,9 +4140,9 @@ avkastningsmålet skall kunna uppnås.
 2.3.1.1 Tillåtna tillgångsslag
 Kommunens kapital får placeras i följande tillgångsslag:
 
-- Strukturerade instrument
+\- Strukturerade instrument
 
-- Återlån
+\- Återlån
 2.3.1.2 Limiter
 
 Procenttalen i nedanstående tabell anger lägsta och högsta andel, som respektive
@@ -4168,11 +4168,11 @@ på objektiv grund fastställa värdet.
 2.3.2 Motparter
 
 Godkända motparter vid transaktioner med portföljens tillgångar är:
-- Värdepappersbolag som har Finansinspektionens tillstånd för handel med
+\- Värdepappersbolag som har Finansinspektionens tillstånd för handel med
 
 finansiella instrument för annans räkning i eget namn, enligt l kapitel 3 § p.l lagen
 (1991:981) om värdepappersrörelse.
-- Utländska institutioner som har tillstånd motsvarande det som anges i punkt l och
+\- Utländska institutioner som har tillstånd motsvarande det som anges i punkt l och
 
 som står under tillsyn av myndigheter eller annat behörigt organ.
 Transaktioner skall ske enligt principen betalning mot leverans. Undantag från
@@ -4183,9 +4183,9 @@ nyemissioner och köp av fondandelar.
 
 Portföljens tillgångar skall förvaras hos värdepappersbolag som har:
 
-- Finansinspektionens tillstånd att ta emot värdepapper för förvaring, enligt 3 kap 4 §
+\- Finansinspektionens tillstånd att ta emot värdepapper för förvaring, enligt 3 kap 4 §
 p. 2 lagen (1991:981) om värdepappersrörelse.
-- Utländska institutioner som har tillstånd motsvarande det som anges i punkt l och
+\- Utländska institutioner som har tillstånd motsvarande det som anges i punkt l och
 som står under tillsyn av myndigheter eller annat behörigt organ.
 
 2.3.4 Taktisk tillgångsfördelning
@@ -4244,11 +4244,11 @@ värdepapper får användas. Positioner i dessa finansiella instrument kan medf�
 inte avser att kurssäkra en befintlig placering.
 
 Följande typer av derivatinstrument är tillåtna:
-- Optioner
+\- Optioner
 
-- Terminer
+\- Terminer
 
-- Swapavtal
+\- Swapavtal
 
 2.3.7 Förvaltningsstruktur
 Förvaltningen omfattar strukturerade instrument och återlån till kommunens
@@ -4336,13 +4336,13 @@ Uppföljningens syfte blir därmed att löpande informera om portföljens result
 förändringar i sammansättningen av tillgångar samt förändringar i risknivå.
 Uppföljningen bör innehålla uppgifter b l a om:
 
-- Prestation relativt till benchmark och jämförbara konkurrenter
-- Riskjusterade nyckeltal (förutsätter att uppdraget är äldre än 12 månader)
+\- Prestation relativt till benchmark och jämförbara konkurrenter
+\- Riskjusterade nyckeltal (förutsätter att uppdraget är äldre än 12 månader)
 
-- Eventuella justeringar för ändrade förutsättningar för uppdraget
+\- Eventuella justeringar för ändrade förutsättningar för uppdraget
 
-- Förklaring till avkastningsdifferenser
-- Uppgifter om avvikelse från gällande förvaltningsavtal
+\- Förklaring till avkastningsdifferenser
+\- Uppgifter om avvikelse från gällande förvaltningsavtal
 
 3 Skulder
 
@@ -4361,31 +4361,31 @@ Leasing är ett finansieringsalternativ som skall jämställas med upplåning.
 
 Upplåningen skall ske med beaktande av kommunkoncernens likviditetssituation,
 penningmarknadsläge samt planerad investeringstakt.
-- Upplåningen skall ske till lägsta möjliga kostnad.
+\- Upplåningen skall ske till lägsta möjliga kostnad.
 
-- Upplåningen skall ske till betryggande säkerhet och utan spekulativa inslag.
+\- Upplåningen skall ske till betryggande säkerhet och utan spekulativa inslag.
 
 3.3 Tillåtna instrument
 
 Lånefinansieringen får ske enligt nedan:
-- Lån hos kommunen eller företag inom kommunkoncernen
+\- Lån hos kommunen eller företag inom kommunkoncernen
 
-- Lån hos annan svensk kommun eller kommunföretag
+\- Lån hos annan svensk kommun eller kommunföretag
 
 Kungsbacka kommun              Finansverksamhet                17 (31)
 
 <!-- sida 101 -->
 
-- Lån hos Kommuninvest i Sverige AB (publ)
-- Lån hos Europeiska Investerings Banken (EIB)
+\- Lån hos Kommuninvest i Sverige AB (publ)
+\- Lån hos Europeiska Investerings Banken (EIB)
 
-- Lån hos Nordiska Investeringsbanken (NIB)
+\- Lån hos Nordiska Investeringsbanken (NIB)
 
-- Lån hos Europeiska Utvecklingsbanken (CEB)
-- Lån hos Svenska staten, svensk bank eller svenskt finansinstitut/
+\- Lån hos Europeiska Utvecklingsbanken (CEB)
+\- Lån hos Svenska staten, svensk bank eller svenskt finansinstitut/
 försäkringsbolag/pensionsanstalt
 
-- Lån hos Utländsk bank eller finansinstitut om upplåningen sker med tillämpning av
+\- Lån hos Utländsk bank eller finansinstitut om upplåningen sker med tillämpning av
 svensk lag och lånedokumentation. Endast lån i svensk valuta får förekomma. -
 Leasing - Checkräkningskredit (för att täcka det kortfristiga likviditetsbehovet)
 
@@ -4477,26 +4477,26 @@ koncernsamordning, kontrakterade krediter, lånelöften och andra garantier.
 För att tillförsäkra omsättningsbarbeten skall samtliga tillgångar vara placerade i
 likvida instrument som var tidpunkt kan säljas. Följande instrument är tillåtna:
 
-- Kortfristig utlåning, max l år, till kommunägda företag
+\- Kortfristig utlåning, max l år, till kommunägda företag
 
-- Statsskuldväxlar, max l år obegränsat max belopp
-- Certifikat
+\- Statsskuldväxlar, max l år obegränsat max belopp
+\- Certifikat
 
-- Statsobligationer med högst l års återstående löptid
+\- Statsobligationer med högst l års återstående löptid
 
 Kungsbacka kommun              Finansverksamhet                19 (31)
 
 <!-- sida 103 -->
 
-- Kommunobligationer med högst l års återstående löptid
-- Bostadsobligationer med högst l års återstående löptid
+\- Kommunobligationer med högst l års återstående löptid
+\- Bostadsobligationer med högst l års återstående löptid
 
-- Obligationer utgivna under MTN-program med högst l års återstående löptid
+\- Obligationer utgivna under MTN-program med högst l års återstående löptid
 
-- Revers med löptid ej överstigande l år
-- Avistaräkning/specialinlåning i svensk bank
+\- Revers med löptid ej överstigande l år
+\- Avistaräkning/specialinlåning i svensk bank
 
-- Deposition i svensk bank - Kl ratade företag, max 6 månader och max 20 % av den
+\- Deposition i svensk bank - Kl ratade företag, max 6 månader och max 20 % av den
 totala portföljen, med max exponering l 0 % på varje företag
 
 3.4.5 Derivatinstrument
@@ -4506,10 +4506,10 @@ att det finns en koppling till underliggande position. Derivatinstrument får an
 endast för att minska och sprida riskerna inom givna mandat.
 Nedanstående finansiella instrument får användas:
 
-- Ränteterminer, FRA (Future Rate Agreement)
+\- Ränteterminer, FRA (Future Rate Agreement)
 
-- Ränteoptioner, (cap & floor)
-- Ränteswappar
+\- Ränteoptioner, (cap & floor)
+\- Ränteswappar
 
 Externa swappar får endast ske med följande godkända motparter:
 Löptid            Motparten skall minst ha rating enligt nedan:
@@ -4522,14 +4522,14 @@ Upp till 365 dagar Standard & Poor’s: A-1
 Moody’ s: P-1
 
 Dessutom accepteras följande svenska motparter:
-- Skandinaviska Enskilda Banken AB
+\- Skandinaviska Enskilda Banken AB
 
-- FöreningsSparbanken AB
+\- FöreningsSparbanken AB
 
-- Nordea AB
-- Svenska Handelsbanken AB
+\- Nordea AB
+\- Svenska Handelsbanken AB
 
-- Bohusbanken/Den danske bank
+\- Bohusbanken/Den danske bank
 
 Utställande av option får endast göras i kombination med köpt option s k collar eller
 korridor och endast under förutsättning att underliggande värde för den utställda
@@ -4681,15 +4681,15 @@ kupong och slutbetalning, där vikterna är
 nuvärdet vid varje kassaflöde. Durationen
 har följande egenskaper:
 
-- Duration mäts i år.
+\- Duration mäts i år.
 
-- För nollkupongobligationer, som inte
+\- För nollkupongobligationer, som inte
 genererar kassaflöden före slutdatum,
 är durationen lika med löptiden.
 
-- För kupongobligationer är durationen
+\- För kupongobligationer är durationen
 alltid kortare än återstående löptid.
-- Durationen minskar med högre
+\- Durationen minskar med högre
 kupongränta. Resonemanget utifrån
 
 obligationer kan direkt överföras på lån
@@ -4957,17 +4957,17 @@ Risklimit                  En gräns för risktagande.
 
 Ränteförfall               innebär
 
-- att räntan vid ett visst tillfälle sätts om
+\- att räntan vid ett visst tillfälle sätts om
 utifrån en förutbestämd bas, t ex 3
 månaders STIBOR, Reporäntan eller
 Basräntan.
 
-- att räntan vid ett visst tillfälle går över
+\- att räntan vid ett visst tillfälle går över
 från en räntebas till en till exempel fast
 räntebas 360/360 till 3 månaders Stibor
 med kvartalsvisa räntesättningar.
 
-- att ränteförfallet sammanfaller med
+\- att ränteförfallet sammanfaller med
 kreditförfallet
 Ränteoption                Option vars underliggande egendom är en
 
@@ -5163,7 +5163,7 @@ Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen avslutar uppdrag om att utarbeta förslag till planprogram för planändring inom del
 
 av fastigheterna Varla 12:18 och Varla 12:20, som lämnades av kommunstyrelsen den 15 mars 2011, §
-52.
+52\.
 
 Sammanfattning av ärendet
 
@@ -5202,7 +5202,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 14 (43)
 Sammanträdesdatum
 2011-03-15
-$ 52 KS11-00068/21
+\$ 52 KS11-00068/21
 
 Förfrågan om planändring till bostadsändamål inom del av
 fastigheterna Varla 12:18 och Varla 12:20
@@ -5230,7 +5230,7 @@ garageändamål till att även gälla för bostadsändamål.
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2011-02-09
-Kommunstyrelsens arbetsutskott 2011-02-22, $ 65
+Kommunstyrelsens arbetsutskott 2011-02-22, \$ 65
 
 Yrkanden
 Ulrika Landergren (FP) och Fredrik Hansson (C) yrkar bifall till förslaget.
@@ -5245,7 +5245,7 @@ Expedierat/bestyrkt
 
 <!-- sida 117 -->
 
-Från:                   <par.karlsson@aranas.se>
+Från:                   \<par.karlsson@aranas.se>
 Skickat:        den 8 februari 2024 15:04
 Till:           Linda Bergström
 Ämne:           Sv: Avslut av inaktuellt ärende Varla 12:18 och 12:20
@@ -5280,9 +5280,9 @@ https://www.facebook.com/kungsmassan/
 Aranäs nya Kv Valand:
 https://hejvaland.se/
 
-Från: Linda Bergström <linda.bergstrom@kungsbacka.se>
+Från: Linda Bergström \<linda.bergstrom@kungsbacka.se>
 Skickat: den 8 februari 2024 14:43
-Till:     <par.karlsson@aranas.se>
+Till:     \<par.karlsson@aranas.se>
 Ämne: Sv: Avslut av inaktuellt ärende Varla 12:18 och 12:20
 
 <!-- sida 118 -->
@@ -5298,7 +5298,7 @@ Gärna denna veckan för att jag ska kunna avsluta ärendet på kommande möte m
 Hälsningar
 Linda Bergström
 Planarkitekt
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 Samhällsbyggnadskontoret
 0300-83 41 16
@@ -5336,7 +5336,7 @@ Linda Bergström
 <!-- sida 119 -->
 
 Planarkitekt
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 Samhällsbyggnadskontoret
 0300-83 41 16
@@ -5502,13 +5502,13 @@ Uppdrag, politiska beslut och tidigare tecknade avtal
 
 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ” Detaljplan för bostäder och
 utbildningslokaler inom del av Tölö 6:4 m.fl. ”, Detaljplanen, genom beslut i
-Byggnadsnämndens arbetsutskott, 2021-15-06 $ 174.
+Byggnadsnämndens arbetsutskott, 2021-15-06 \$ 174.
 
 Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt för samråd
 under andra kvartalet 2022. Granskning genomfördes under andra kvartalet 2023.
 
-Ett Föravtal (KS 2019-09-24, $ 232), Föravtalet, och ett Principavtal (KS 2022-06-21
-$156), Principavtalet, har tecknats mellan parterna. Föravtalet och Principavtalet
+Ett Föravtal (KS 2019-09-24, \$ 232), Föravtalet, och ett Principavtal (KS 2022-06-21
+\$156), Principavtalet, har tecknats mellan parterna. Föravtalet och Principavtalet
 föreskriver att ett Exploateringsavtal, Avtalet, ska upprättas och godkännas av
 Kommunstyrelsen innan Detaljplanen kan antas av Byggnadsnämnden.
 
@@ -5543,7 +5543,7 @@ en idrottshall.
 
 5.2
 
-218)
+218\)
 
 Kommunen är huvudman för allmän platsmark inom Exploateringsområdet och
 Exploateringsområdet kommer att ingå i verksamhetsområde för vatten, spillvatten
@@ -5789,9 +5789,9 @@ parkeringsnorm för området, som redovisas i Detaljplanens planbeskrivning och 
 
 9.8
 
-10.
+10\.
 
-11.
+11\.
 
 6(18)
 
@@ -5849,15 +5849,15 @@ bygglovsförfarandet.
 
 D
 
-12.
+12\.
 
-13.
+13\.
 
 13.1
 
 13.2
 
-7018)
+7018\)
 
 GENOMFÖRANDE AV ALLMÄN PLATS
 Kommunaltekniska anläggningar som Exploatören bygger ut
@@ -5912,7 +5912,7 @@ påverka lösningen.
 
 13.5
 
-14.
+14\.
 
 14.1
 
@@ -5975,13 +5975,13 @@ Kungsbacka kommun, 2022-10-03
 
 14.3
 
-15.
+15\.
 
 15.1
 
 15.2
 
-9018)
+9018\)
 
 e Regler och anvisningar för schaktning och återfyllnadsarbeten jämte
 återställningsarbeten i allmän platsmark, 2019, 2019-03-26
@@ -6038,7 +6038,7 @@ om upplåtelse av mark.
 
 15.3
 
-16.
+16\.
 16.1
 
 16.2
@@ -6104,11 +6104,11 @@ detta om fastighetsreglering i enlighet med punkt 5.1. Handling upprättad enlig
 
 16.4
 
-17.
+17\.
 
-11018)
+11018\)
 
-kap. 36 $ mervärdesskattelagen (2023:200), ML, enligt punkt 20 lämnas av
+kap. 36 \$ mervärdesskattelagen (2023:200), ML, enligt punkt 20 lämnas av
 Exploatören till Kommunen i samband med Kommunens övertagande av
 anläggningarna.
 
@@ -6166,7 +6166,7 @@ skriftligen underrättat Kommunen om att felet eller bristen inte kommer att avh
 
 <!-- sida 135 -->
 
-18.
+18\.
 
 18.1
 
@@ -6176,7 +6176,7 @@ skriftligen underrättat Kommunen om att felet eller bristen inte kommer att avh
 
 18.4
 
-12018)
+12018\)
 
 får Kommunen låta avhjälpa felet. Ansvarar Exploatören för felet sker avbj älpandet på
 dennes bekostnad. Ansvarar Exploatören inte för felet har denne rätt till skälig
@@ -6234,13 +6234,13 @@ ersättnings- och skadeståndsanspråk från tredje man till följd av Exploatö
 
 <!-- sida 136 -->
 
-19.
+19\.
 
 19.1
 
 19.2
 
-20.
+20\.
 
 13(18)
 
@@ -6268,7 +6268,7 @@ Mervärdesskatt
 
 Den del av Exploatörens kostnader för iordningsställande av allmänna anläggningar
 inom Exploateringsområdet som utgör mervärdesskatt som erlagts till Skatteverket
-enligt mervärdesskattelagens (2023:200), ML, regler i 5 kap. 32 $ om uttagsbeskattning
+enligt mervärdesskattelagens (2023:200), ML, regler i 5 kap. 32 \$ om uttagsbeskattning
 för egen regi-byggnation ska Kommunen ersätta Exploatören för, under förutsättning
 att Kommunen erhåller ersättning enligt Lag (2005:807) om ersättning för viss
 mervärdesskatt för kommuner, regioner, kommunalförbund och samordningsförbund,
@@ -6279,12 +6279,12 @@ anläggningskostnader.
 
 Exploatören ska i samband med äganderättsövergången av allmän plats, se punkt 5,
 inklusive sådan som Exploatören utfört på mark som disponeras med nyttjanderätt
-enligt punkt 7.2, överlämna en handling med stöd av 13 kap. 36 $ ML. Kommunen har
+enligt punkt 7.2, överlämna en handling med stöd av 13 kap. 36 \$ ML. Kommunen har
 med stöd av denna handling rätt att begära ersättning enligt LEMK från Skatteverket
 för mervärdesskatt motsvarande den mervärdesskatt som upptas på handlingen.
 Exploatören har därför enligt detta Avtal rätt att erhålla ersättning från Kommunen
 motsvarande det belopp Kommunen erhållit från Skatteverket. Kommunen åtar sig att
-snarast möjligt, efter erhållen handling upprättad enligt 13 kap. 36 $ ML eller
+snarast möjligt, efter erhållen handling upprättad enligt 13 kap. 36 \$ ML eller
 likvärdigt, begära ersättning enligt LEMK av sådan skatt från Skatteverket och senast
 30 dagar efter det att Skatteverket utbetalat mervärdesskatten oavkortat utbetala belopp
 motsvarande denna mervärdesskatt till Exploatören. Om Kommunen inte skulle erhålla
@@ -6298,14 +6298,14 @@ inte ändras av domstol eller annan myndighet, ska Exploatören ersätta Kommune
 
 <!-- sida 137 -->
 
-21.
+21\.
 21.1
 
 21.2
 
 21.3
 
-22.
+22\.
 
 22.1
 
@@ -6367,26 +6367,26 @@ exploateringsbidrag.
 
 22.3
 
-23.
+23\.
 
 23.1
 
-24.
+24\.
 
 24.1
 
-25.
+25\.
 
 25.1
 
-20.
+20\.
 26.1
 
 26.2
 
 26.3
 
-27.
+27\.
 
 27.1
 
@@ -6451,7 +6451,7 @@ tillsynsmyndighet.
 
 <!-- sida 139 -->
 
-28.
+28\.
 
 28.1
 
@@ -6459,11 +6459,11 @@ tillsynsmyndighet.
 
 28.3
 
-29.
+29\.
 
 29.1
 
-30.
+30\.
 
 30.1
 
@@ -6526,13 +6526,13 @@ andel av säkerhetens belopp som respektive etapp utgör.
 
 <!-- sida 140 -->
 
-31.
+31\.
 
 31.1
 
 31.2
 
-32.
+32\.
 
 33:
 
@@ -6540,11 +6540,11 @@ andel av säkerhetens belopp som respektive etapp utgör.
 
 33.2
 
-34.
+34\.
 
 34.1
 
-35.
+35\.
 
 35.1
 
@@ -6658,10 +6658,10 @@ Uppdragsledaren är den som i uppdrag är Exploatörens kontaktperson och som in
 projektören driver och ansvarar för uppdragets framdrift, ekonomi, tid och kvalitet samt samordnar
 nödvändiga resurser internt och eventuellt även externt.
 
-+  Uppdragsledaren har en bred kunskap inom de aktuella kompetensområdena och är aktivt
+\+  Uppdragsledaren har en bred kunskap inom de aktuella kompetensområdena och är aktivt
 deltagande i arbetet tillsammans med handläggare.
 
-+ - Uppdragsledaren ansvarar för att uppdragen granskas av relevant kompetens och där så
+\+ - Uppdragsledaren ansvarar för att uppdragen granskas av relevant kompetens och där så
 krävs av specialist, innan leverans till beställare.
 
 « — Uppdragsledaren är väl förtrogen med och kan tillämpa gällande lagstiftning, myndighetskrav,
@@ -6696,7 +6696,7 @@ del av upphandlingen avser.
 Alternativt utbildning som Kommunen bedömer som likvärdig samt minst tre (3) års erfarenhet av
 arbeten med motsvarande omfattning och inriktning som denna del av upphandlingen avser.
 
-12)
+12\)
 
 <!-- sida 146 -->
 
@@ -6725,11 +6725,11 @@ b) JM AB, (556045-2103), 169 82 Stockholm, nedan kallat Bolaget
 Kommunen och Bolaget kallas gemensamt nedan Parterna.
 
 ÅA. BAKGRUND OCH FÖRUTSÄTTNINGAR
-1. Uppdrag, politiska beslut m.m.
+1\. Uppdrag, politiska beslut m.m.
 
 1.1 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ” Detaljplan för
 bostäder och utbildningslokaler inom del av Tölö 6:4 m.fl.”, Detaljplanen,
-genom beslut i Byggnadsnämndens arbetsutskott, 2021-05-06, $174.
+genom beslut i Byggnadsnämndens arbetsutskott, 2021-05-06, \$174.
 
 1.2 — För att klargöra förutsättningarna för planläggningen tecknas detta principavtal,
 Avtalet, mellan Parterna och som ska godkänns av kommunstyrelsen. Avtalet
@@ -6897,23 +6897,23 @@ Sign
 
 9.2
 
-10.
+10\.
 
 10.1
 
-11.
+11\.
 
 11.1
 
-12.
+12\.
 
 12.1
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 13.1
 
@@ -6978,17 +6978,17 @@ Sign
 
 13.2
 
-14.
+14\.
 
 14.1
 
-15.
+15\.
 
 15.1
 
 15.2
 
-16.
+16\.
 
 16.1
 
@@ -7049,7 +7049,7 @@ Kommunstyrelsen Datum
 
 2022-06-21
 
-$ 156 Dnr 2022-00419
+\$ 156 Dnr 2022-00419
 
 Principavtal med JM AB avseende detaljplan för bostäder inom
 fastigheten Tölö m.fl. i Kungsbacka
@@ -7081,7 +7081,7 @@ Beslutsunderlag
 Kommunstyrelsens arbetsutskott 2022-06-07, 223
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-05-16
 Principavtal, undertecknat av JM AB 2022-05-13
-Byggnadsnämndens arbetsutskott, 2021-05-06 $ 174
+Byggnadsnämndens arbetsutskott, 2021-05-06 \$ 174
 
 Förslag till beslut på sammanträdet
 
@@ -7238,7 +7238,7 @@ Kommunen och Exploatören kallas gemensamt Parterna
 
 A. - BAKGRUND OCH FÖRUTSÄTTNINGAR
 
-1. Uppdrag, politiska beslut m.m.
+1\. Uppdrag, politiska beslut m.m.
 
 1.1 — Byggnadsnämnden uppdrog 2017-08-10 åt samhällsbyggnadskontoret att upprätta ny
 detaljplan för ändrad markanvändning, från allmänt ändamål till bostäder, inom
@@ -7248,14 +7248,14 @@ Nötegång 1:121, Bukärrsgården, Detaljplanen.
 mellan 2023-05-09 och 2023-05-31. Granskning genomfördes mellan 2024-01-11 och
 2024-01-29.
 
-2. Exploateringsområde
+2\. Exploateringsområde
 
 21 — Det område som är föremål för genomförandet av Detaljplanen är ungefärligt markerat
 med blå linje på karta, bilaga A, Exploateringsområdet.
 
 Exploateringsområdet utgörs av planområdet.
 
-3. Syfte, innehåll och förutsättningar
+3\. Syfte, innehåll och förutsättningar
 
 3.1 Avtalet reglerar exploateringen och genomförandet av åtgärderna inom
 Exploateringsområdet.
@@ -7401,7 +7401,7 @@ Sign.
 
 9.1
 
-10.
+10\.
 
 10.1
 
@@ -7476,7 +7476,7 @@ Sign.
 
 10.8
 
-11.
+11\.
 
 11.2
 
@@ -7540,7 +7540,7 @@ Sign.
 
 <!-- sida 164 -->
 
-12.
+12\.
 
 [2.1
 
@@ -7548,7 +7548,7 @@ Sign.
 
 12.3
 
-13.
+13\.
 
 13.1
 
@@ -7613,29 +7613,29 @@ Sign.
 
 13.2
 
-14.
+14\.
 
 14.1
 
-15.
+15\.
 
 15.1
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 17.1
 
-18.
+18\.
 
 18.1
 
 18.2
 
-19.
+19\.
 
 19.1
 
@@ -7700,17 +7700,17 @@ Sig
 
 <!-- sida 166 -->
 
-20.
+20\.
 
 20.1
 
 20.2
 
-21.
+21\.
 
-22.
+22\.
 
-23.
+23\.
 
 23.1
 
@@ -7774,11 +7774,11 @@ Sign
 
 <!-- sida 167 -->
 
-24.
+24\.
 
 24.1
 
-25.
+25\.
 
 25.1
 
@@ -8038,7 +8038,7 @@ Begära     planbesked
 
 Ärendenummer: #105459 | Inskickat av:      | 2023-12-04 16:03
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -8059,7 +8059,7 @@ Adress                            Postnummer och ort
 Göteborg
 
 Telefon                           E-postadress
-+
+\+
 
 Notifieringar
 E-post
@@ -8089,7 +8089,7 @@ Företagets kontaktperson
 Förnamn                           Efternamn
 
 Telefon                           E-postadress
--                                 -
+\-                                 -
 
 Är du som skickar begäran ägare till fastigheten eller fastigheterna i begäran?
 
@@ -8104,7 +8104,7 @@ Om fastigheten ägs av flera fastighetsägare fyller du i en per rad.
 
 Förnamn   Efternamn    Telefon      E-postadress
 
-2. Fastighet
+2\. Fastighet
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -8123,7 +8123,7 @@ Bostäder
 Handel
 Förskola
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -8335,15 +8335,15 @@ Medgivande om inlämnande av planbesked: Valida Trädgårdsstad
 BRl)l'.OOl.1 €
 ','\P
 
-2200~'5599
+2200\~'5599
 2
 
 Undertecknad medger inlämnande av planbesked som representant för:
 
-1. Fastighet Valida 20:3 genom Valida 20:3 Fastigheter AB
-2. Av planen berörd del av Fastighet Bröndome 1:2 (Förvärvad av Valida 20:3 fastigheter AB,
+1\. Fastighet Valida 20:3 genom Valida 20:3 Fastigheter AB
+2\. Av planen berörd del av Fastighet Bröndome 1:2 (Förvärvad av Valida 20:3 fastigheter AB,
 under handläggning hos Lantmäteriet)
-3. Av planen berörd del av Fastighet Vallda 20:59 (Avtalat förvärv av berörd del av fastighet
+3\. Av planen berörd del av Fastighet Vallda 20:59 (Avtalat förvärv av berörd del av fastighet
 
 genom Vallda 20:3 fastigheter AB under handläggning hos Lantmäteriet)
 
@@ -8544,10 +8544,10 @@ gäller för fristående förskolor och skolor som är egna huvudmän.
 
 Privata aktörer kan bli utförare av en kommunal angelägenhet genom att
 
-1. Vinna en upphandling enligt upphandlingslagarna
-2. Kvalificera sig för att ingå i ett valfrihetssystem
+1\. Vinna en upphandling enligt upphandlingslagarna
+2\. Kvalificera sig för att ingå i ett valfrihetssystem
 
-3. Sälja enstaka tjänster av betydelse för invånarna till kommunen.
+3\. Sälja enstaka tjänster av betydelse för invånarna till kommunen.
 
 Mål och  riktlinjer
 
@@ -8665,9 +8665,9 @@ kommunen ansvarar för.
 Mål
 Varje nämnd ska med utgångspunkt i detta program ansvara för att säkerställa
 att privata utförare inom nämndens ansvarsområde bedriver verksamhet enligt:
--  de lagar, förordningar och föreskrifter som gäller
+\-  de lagar, förordningar och föreskrifter som gäller
 
--  de mål och andra regleringar som kommunfullmäktige och nämnd har
+\-  de mål och andra regleringar som kommunfullmäktige och nämnd har
 fastställt i kommunbudget, nämndbudget eller andra styrdokument.
 
 Uppföljning och samordning
@@ -10264,17 +10264,17 @@ INLEDNING
 
 Året       i  korthet
 
-+    231
+\+    231
 
 mnkr
-+    1  103
+\+    1  103
 Resultat för
 mnkr
 Kungsbacka kommun
 Investeringar för koncernen
 Kungsbacka kommun
 
-+    291
+\+    291
 mnkr
 
 Resultat för koncernen
@@ -10392,11 +10392,11 @@ Humana assistans AB
 Byggnadsnämnd  Förskola & Grundskola
 Vård & Omsorg
 Nämnd för hemsjukvård Gottskärs hemtjänst AB
-Överförmyndarnämnd* Patientnämnd** och hjälpmedel*** Olivia Hemtjänst AB
+Överförmyndarnämnd\* Patientnämnd\*\* och hjälpmedel\*\*\* Olivia Hemtjänst AB
 Vardaga Äldreomsorg AB
-* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner.
-** Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
-*** G emensam nämnd för hemsjukvård och hjälpmedel. Region Halland är värdkommun.
+\* Ö verförmyndarnämnden är gemensam för Öckerö, Härryda, Kungsbacka, Mölndal och Partille kommuner.
+\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun.
+\*\*\* G emensam nämnd för hemsjukvård och hjälpmedel. Region Halland är värdkommun.
 
 8  Kungsbacka kommuns årsredovisning 2023
 
@@ -10770,7 +10770,7 @@ Förvaltade pensionsmedel - -  -
 Valutarisk handlar om risken för att drabbas av ökade Marknadsvärde
 kostnader på grund av valutakursförändringar. Det Totalt pensionsförsäkringskapital - -
 uppstår när inköp, försäljning och upplåning sker i
-- varav överskottsmedel -     -
+\- varav överskottsmedel -     -
 utländsk valuta. Kommunen gör till allra största del
 Totalt kapital pensionsstiftelse - -
 affärer i svenska kronor och handel i annan valuta utgör
@@ -10792,7 +10792,7 @@ kommunen. Sammantaget består kommunens pensions-
 kostnader av två olika delar, en avgiftsbestämd kostnad
 och en förmånsbaserad pension som delas upp i vad som
 tjänats in från och med 1998 och vad som tjänats in före
-1998. Det nya pensionsavtalet AKAP-KR som gäller från
+1998\. Det nya pensionsavtalet AKAP-KR som gäller från
 2023 är ett steg i övergången till ett mer avgiftsfinansierat
 pensionssystem, vilket kommer att ge kommunerna en
 pensionskostnad som är lättare att förutse.
@@ -10893,7 +10893,7 @@ FÖRVALTNINGSBERÄTTELSE
 Frillesås-Rya är ett nytt stort verksamhetsområde öster
 pensionskostnader
 om Frillesås tätort där detaljplanen blev överklagad under
-2023. Den är inriktad på industriändamål i syfte att Skatteintäkterna ökade med nästan sju procent, samtidigt
+2023\. Den är inriktad på industriändamål i syfte att Skatteintäkterna ökade med nästan sju procent, samtidigt
 kunna etablera många olika typer av verksamheter. som statsbidragen minskade med 26 procent. Skattein-
 täkterna ökade till följd av att arbetsmarknaden hittills
 stått emot den försämrade konjunkturen bättre än väntat.
@@ -11193,7 +11193,7 @@ Miljoner kronor 2019 2020 2021 20221 2023
 
 Kommunkoncernen 243 512 530 822 291
 
-1) 2019 samt 2021 års jämförelsetal är justerade med anledning av
+1\) 2019 samt 2021 års jämförelsetal är justerade med anledning av
 ändrad redovisningsprincip avseende investeringsbidrag år 2019
 respektive finansiell leasing år 2021 och 2022. Övriga år är inte
 justerade.
@@ -11220,7 +11220,7 @@ mum Årets resultat
 Strukturellt resultat!
 — Strukturellt resultat i relation till skatter & generella statsbidrag!
 
-1) Årets resultat exklusive jämförelsestörande poster.
+1\) Årets resultat exklusive jämförelsestörande poster.
 800 12,090
 
 700
@@ -11276,7 +11276,7 @@ ny värdering av övertäckning av Barnamossens deponi
 nettokostnader inkl
 innebar en högre kostnad än vi tidigare förväntat i våra finansiella poster (%)
 bedömningar, och vi har därför fått öka avsättningen
-1) 2019 samt 2021 års jämförelsetal är justerade med anledning av
+1\) 2019 samt 2021 års jämförelsetal är justerade med anledning av
 betydligt. Om man tar bort posterna för exploatering och ändrad redovisningsprincip avseende. Övriga år är inte justerade.
 deponi, får man det strukturella resultatet för kommu-
 nens ordinarie verksamhet.        Kommunens intäkter kommer framför allt från skatter
@@ -11332,7 +11332,7 @@ Miljoner kronor 2019 2020 2021 2022 2023
 Kommunkoncer- 1 510 1 192 1 031 1 101 1 088
 nen, nettoinveste-
 ringar1
-1) Inklusive finansiella investeringar
+1\) Inklusive finansiella investeringar
 
 Under året investerade kommunkoncernen för över 1,1
 miljarder kronor, varav kommunen stod för nästan en
@@ -11426,7 +11426,7 @@ Halland.
 Soliditet enligt bland- 33,9 35,2 36,6 37,3 40,7
 Likviditet och låneskuld
 modellen
-1) 2019 samt 2021 års jämförelsetal är justerade med anledning av Likviditetsmått visar kommunens förmåga att betala sina
+1\) 2019 samt 2021 års jämförelsetal är justerade med anledning av Likviditetsmått visar kommunens förmåga att betala sina
 ändrad redovisningsprincip avseende investeringsbidrag år 2019 kortfristiga skulder. Om likviditeten fortsätter att vara
 respektive finansiell leasing år 2021 och 2022. Övriga år är inte juste-
 rade.                             oförändrad eller ökar och soliditeten samtidigt inte blir
@@ -11493,7 +11493,7 @@ störande poster/verksam-
 policyn i samband med omsättning av lån på 200
 hetens kostnader (%)1
 miljoner kronor. Avsteget innebar att kommunen tog ett
-1) Årets budgeterade resultat om 132 miljoner plus beräknade
+1\) Årets budgeterade resultat om 132 miljoner plus beräknade
 rörligt lån med rörlig ränta, i stället för att följa kraven resultat från exploateringsverksamheten i kassaflödesbudget om 75
 på förfallostruktur och då binda räntan på längre sikt till miljoner.
 högre ränta. Konsekvensen av detta är att kreditförfallet
@@ -11537,7 +11537,7 @@ ställning och utveckling
 Bedömningen av Kungsbacka kommuns ekonomi
 med utgångspunkt från den finansiella analysen visar
 i grunden på en stark ekonomi, trots lägre resultat för
-2023. Det är viktigt att fortsätta arbeta för att bibehålla
+2023\. Det är viktigt att fortsätta arbeta för att bibehålla
 en stabil ekonomi, eftersom ett tuffare ekonomiskt läge
 väntar framöver. Bland annat på grund av demografiska
 förändringar och brist på arbetskraft. Förändringar i
@@ -12576,7 +12576,7 @@ Sjukfrånvaron i nivå med föregående år Antal anställda
 Den totala sjukfrånvaron i förvaltningarna är stabil och Den kommunala koncernen, med nämnder och bolag
 något lägre än jämfört med i grannkommunerna. Sjuk- tillsammans, hade 6 784 tillsvidare- och tidsbegränsade
 frånvaron minskade från 7,8 procent 2022 till 7,2 procent anställningar med månadslön under 2023. Det är en
-2023. Likt tidigare år är sjukfrånvaron högst i början och minskning jämfört med året innan. I förvaltningarna
+2023\. Likt tidigare år är sjukfrånvaron högst i början och minskning jämfört med året innan. I förvaltningarna
 slutet av året. Andelen av den totala sjukfrånvaron som minskade antalet medarbetare med 58 anställda medan
 var 60 dagar eller mer har ökat något till 37,1 procent, det kommunala bolaget minskade med en anställd. Totalt
 jämfört med 36,9 procent 2022.    antal anställda i bolaget är 51 personer.
@@ -12744,7 +12744,7 @@ Sveriges kommuner och regioner, SKR, presenterade i och efterfrågan på kredite
 december 2023 sin bedömning av den makroekonomiska som innebär ökad boendekonsumtion. Det har lett till en
 utvecklingen. Det är också denna bedömning som ligger rejäl nedgång för bostadsinvesteringarna, som sannolikt
 till grund för SKR:s prognos för skatteunderlaget 2023– kommer att vara låga en längre tid. Såväl nyproduk-
-2027. Sammanfattningsvis menar SKR att inflationen tion som ombyggnation tyngs även av kraftigt förhöjda
+2027\. Sammanfattningsvis menar SKR att inflationen tion som ombyggnation tyngs även av kraftigt förhöjda
 väntas minska under 2024 såväl i USA som i Europa och produktionskostnader.
 Sverige, vilket ger viss lättnad i konjunkturnedgången.
 Att centralbankerna, inklusive Riksbanken, sänker styr- Bedömningen är att konjunkturen vänder uppåt 2025
@@ -12834,7 +12834,7 @@ Resultat efter finansiella poster      132     753    231     822     291
 
 Extraordinära poster           10
 Årets resultat                         132     753    231     822     291
-1) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
+1\) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
 
 KASSAFLÖDESANALYS                         Kommunen            Koncernen
 Not Budget 2023
@@ -12875,7 +12875,7 @@ Kassaflöde från finansieringsverksamheten 250  336    -151    -39     -181
 
 Bidrag till infrastruktur
 
-1) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
+1\) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
 
 54 Kungsbacka kommuns årsredovisning 2023
 
@@ -12936,7 +12936,7 @@ Teoretiskt värde av förtroendevaldas
 pensionsutfästelser                             5      6       5       6
 Förvaltade stiftelsers kapital                 56      63      56     63
 
-1) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
+1\) Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga externa hyresavtal samt koncerninterna hyresavtal.
 
 Summeringen i de finansiella rapporterna
 påverkas av avrundning till miljontals kronor.
@@ -13251,7 +13251,7 @@ Bolagsskatt                   -16,1 -12,2
 verksamhetskostnader -83,5 -88,5 -99,8 -106,9
 Summa
 verksamhetens kostnader -5 956,5 -6 526,2 -6 069,9 -6 638,8
-1) Jämförelsetalen för år 2022 är justerade med anledning av övergång till
+1\) Jämförelsetalen för år 2022 är justerade med anledning av övergång till
 finansiell leasing för befintliga externa hyresavtal och koncerninterna hyres-
 avtal före 2019.
 Kungsbacka kommuns årsredovisning 2023 59
@@ -13291,7 +13291,7 @@ statsbidrag och utjämning 431,6 319,0 431,6 319,0 poster  150,5 -51,9 150,5 -51
 Övriga upplysningar
 Övriga upplysningar
 Under 2023 redovisas realisationsvinster från exploateringsverksamheten samt
-1) Övriga generella statsbidrag: minskad andel timanställda inom vård och exploateringsersättningar som jämförelsestörande poster. Under 2023 redo-
+1\) Övriga generella statsbidrag: minskad andel timanställda inom vård och exploateringsersättningar som jämförelsestörande poster. Under 2023 redo-
 omsorg 35 (21) miljoner kronor, ökad bemanning på särskilda boenden 5 (5) visas realisationsvinster från exploateringsverksamheten samt exploateringser-
 miljoner kronor, tillfälligt kommunstöd med anledning av kriget i Ukraina 4 sättningar som jämförelsestörande poster samt ökning av avsättning för deponi
 (2) miljoner kronor, samt endast för år 2022 skolmiljarden 14 miljoner kronor, Barnamossen.
@@ -13389,7 +13389,7 @@ Därav finansiell leasing 766,4 1 468,5 389,6 360,7 Därav finansiell leasing 14
 Bedömd genomsnittlig                    Bedömd genomsnittlig nytt-
 nyttjandeperiod, antal år 35,5 20,6 35,5 20,6 jandeperiod, antal år 21,3 9,1 21,3 9,1
 
-1) Jämförelsetalen för år 2022 är justerade med anledning av övergång till Övriga upplysningar
+1\) Jämförelsetalen för år 2022 är justerade med anledning av övergång till Övriga upplysningar
 finansiell leasing för befintliga externa hyresavtal och koncerninterna hyres-
 avtal före 2019.                        Gränsdragning mellan kostnad och investering: Belopp överstigande 50 000
 och varaktighet längre än 3 år.
@@ -13457,15 +13457,15 @@ berg-Kommungränsen4 0,0  19,1  0,0  19,1
 Summa bidrag till statlig
 infrastruktur      28,6  53,9 28,6  53,9
 Övriga upplysningar
-1) Avser byggande av ny tågstation i Åsa. Bidraget upplöses på 25 år med start
+1\) Avser byggande av ny tågstation i Åsa. Bidraget upplöses på 25 år med start
 år 2011.
-2) Avser åtgärder i den statliga infrastrukturen i anslutning till exploatering av
+2\) Avser åtgärder i den statliga infrastrukturen i anslutning till exploatering av
 Må. Bidraget är uppräknat med index år 2023. Bidraget upplöses på 25 år med
 start år 2019.
-3) Avser gång- och cykelväg i Må. Bidraget är uppräknat med index år 2023.
+3\) Avser gång- och cykelväg i Må. Bidraget är uppräknat med index år 2023.
 Bidraget upplöses på 25 år med start år 2019.
-4) Avser gå- och cykelväg i Anneberg. Bidraget upplöses på 25 år med start år
-2023.
+4\) Avser gå- och cykelväg i Anneberg. Bidraget upplöses på 25 år med start år
+2023\.
 62 Kungsbacka kommuns årsredovisning 2023
 
 [Tabell 312-1](handlingar.tabeller/312-1.csv)
@@ -13659,21 +13659,21 @@ Kommunen   Koncernen                    Kommunen   Koncernen
 belopp i miljoner kronor 2022 2023 2022 2023 belopp i miljoner kronor 2022 2023 2022 2023
 Övriga upplysningar                     Genomsnittlig ränta % 0,7% 1,3% 1,0% 1,7%
 Avtal med Trafikverket för bidrag till statlig infrastruktur. Genomsnittlig ränta %
-1) Avtal tecknades år 2023. Bidraget är indexuppräknat 2023. Projektet pågår till exklusive derivat 0,7% 1,3% 0,9% 1,9%
+1\) Avtal tecknades år 2023. Bidraget är indexuppräknat 2023. Projektet pågår till exklusive derivat 0,7% 1,3% 0,9% 1,9%
 år 2027.
 Genomsnittlig kapital-
-2) Bidrag till Trafikverket avser väg i Stockalid. Avtal tecknades år 2023. bindningstid, år 2,1 1,2 2,8 2,8
+2\) Bidrag till Trafikverket avser väg i Stockalid. Avtal tecknades år 2023. bindningstid, år 2,1 1,2 2,8 2,8
 Kommunen svarar för alla kostnadsförändringar för de åtgärder som omfattas i
 avtalet. Projektet förväntas vara färdigt under 2024.
-3) Bidrag till Trafikverket avser cirkulationsplats i Frillesås Rya. Avtal tecknades
+3\) Bidrag till Trafikverket avser cirkulationsplats i Frillesås Rya. Avtal tecknades
 år 2022. Bidraget är indexuppräknat 2023. Projektet pågår till år 2025. Kapitalförfall andel av lån
-4) Bidrag till Trafikverket avser cirkulationsplats i Må. Avtal tecknades år 0-1 år 300,0 550,0 1 608,2 1 313,6
-2018. En ökad avsättning om 1,3 miljoner har bokförts 2023. Må cirkulation är
+4\) Bidrag till Trafikverket avser cirkulationsplats i Må. Avtal tecknades år 0-1 år 300,0 550,0 1 608,2 1 313,6
+2018\. En ökad avsättning om 1,3 miljoner har bokförts 2023. Må cirkulation är
 avslutad per 2023-12-31.               1-2 år            350,0 350,0 609,7 900,3
-5) Avtal tecknades år 2018. Bidraget är indexuppräknat 2023. Projektet pågår till
+5\) Avtal tecknades år 2018. Bidraget är indexuppräknat 2023. Projektet pågår till
 2-3 år            350,0 300,0 858,3 897,2
 år 2024.
-6) Avtal tecknades år 2018. Bidraget är indexuppräknat 2023. Projektet pågår till 3-4 år 300,0 897,2 116,0
+6\) Avtal tecknades år 2018. Bidraget är indexuppräknat 2023. Projektet pågår till 3-4 år 300,0 897,2 116,0
 år 2024.
 4-5 år                       116,0 701,7
 5-6 år                       281,3 448,5
@@ -13857,7 +13857,7 @@ Särredovisning har upprättats för Renhållningsverksamheten.1
 Eget kapital utdrag
 Särredovisning har upprättats för Bredbandsverksamheten.1 Ingående eget kapital
 justering         3 065,0 2 990,7 3 529,9 3 528,1
-1) Särredovisningarna finns tillgänglig på Kungsbacka hemsida/Teknik
+1\) Särredovisningarna finns tillgänglig på Kungsbacka hemsida/Teknik
 Årets resultat    756,4 752,8 821,6 821,7
 Summa eget kapital 3 821,4 3 743,5 4 351,5 4 349,8
 Not 32 Upplysningar om
@@ -14251,7 +14251,7 @@ tre kvarter. Parkeringshuset Linden närmast järnvägen markanvisas till annan 
 Björkris etapp 2
 slutförandet av de tre bostadskvarteren. Inflyttning i det
 första kvarteret är beräknat till 2024 och övriga två under Området ligger nordväst om Hede station i direkt
-2025.                             anslutning till Björkris etapp 1. Planområdet innehåller
+2025\.                             anslutning till Björkris etapp 1. Planområdet innehåller
 cirka 800 bostäder med blandade upplåtelseformer samt
 I Aranäs 4 planerar vi för ytterligare cirka 180 bostäder förskola, skola och idrottshall. Blandade upplåtelseformer
 samt möjlighet till ny skola eller kontor. Detaljplanen vann innebär att man bor i hyresrätt, bostadsrätt eller äger sin
@@ -14285,7 +14285,7 @@ arbete med att ta fram en detaljplan men under 2023 tog samt centrumändamål. V
 kommunen ett omtag för att klara de svåra geotekniska kommer antas i mitten av 2024.
 utmaningarna i området. Det finns nu en lösning och vi
 räknar med att detaljplanen kommer bli antagen under Mark- och miljödomstolen har, via en miljödom,
-2024.                             meddelat tillstånd för deponiverksamhet till sökanden
+2024\.                             meddelat tillstånd för deponiverksamhet till sökanden
 Viavest inom den blivande andra etappen av området.
 Frillesås-Rya 2:1
 Viavest har utfört förberedande markåtgärder under
@@ -14748,7 +14748,7 @@ av lägre intäkter på grund av lägre inflyttning än förväntat, samt högre
 kostnaderna är högre än budget beror framför allt på att indexuppräkningen för de större avtalen har varit högre
 än vad som förväntades när budgeten sattes.
 Efter reglering mot fonden överförs underskottet till det ackumulerade resultatet som var 4,6 miljoner efter
-2022. Detta innebär ett ackumulerat resultat på -1,3 miljoner kronor efter 2023.
+2022\. Detta innebär ett ackumulerat resultat på -1,3 miljoner kronor efter 2023.
 
 Analys och kommentar
 Kommentar till avvikelser mellan åren
@@ -14806,7 +14806,7 @@ driftbudgeten.
 För 2023 uppgår resultatet till -1,3 miljoner kronor. Resultatet i årsbokslutet justeras mot fond "Kortfristig
 fordran bredband" i balansräkningen. Bredbands resultatfond uppgår i bokslutet 2022 till 5,3 miljoner kronor.
 Det negativa resultatet innebär att fonden för Kungsbacka Bredbandsnät är 4,0 miljoner kronor efter bokslutet
-2023.
+2023\.
 
 Analys och kommentar
 Jämförelse med samma period föregående år
@@ -14919,7 +14919,7 @@ framtiden vilket medfört att intäkterna uppgått till 4 miljoner kronor vilket
 budgeterat. Men vi har erhållit bredbandsstod från PTS på 4,2 miljoner som ingår i intäkten för 2023.
 Avvikelsen på investeringarna beror på att vissa stora projekt som tex byggnation av fiber till Förlandaområdet
 är lite försände mot budgeterat och ett område startat inte förrän 2024 vilket medför att de pågår under 2023-
-2026. Projektet med nya noder pågår och slutförs under 2024.
+2026\. Projektet med nya noder pågår och slutförs under 2024.
 
 Ombudgeteringar på 6,2 miljoner kronor av de pengar som vi har erhållit från Post- och Telestyrelsen (PTS)
 kommer att begäras, Förlanda Östra 2,0 miljoner kronor till 2024 och Kungsbacka Landsbygd 4,2 miljoner
@@ -15378,13 +15378,13 @@ Den samverkan Kungsbacka kommun har med andra offentliga verksamheter sker i fö
 nämndssamverkan eller kommunalförbund. Under 2023 ingick Kungsbacka bland annat i nedanstående
 samverkan.
 -Göteborgsregionens kommunalförbund (GR)
-- Räddningstjänsten Storgöteborg
+\- Räddningstjänsten Storgöteborg
 
 -Gemensam nämnd för hemsjukvård och hjälpmedel (Halland)
-- Patientnämnd Halland
+\- Patientnämnd Halland
 
-- Nämnden för överförmyndare i samverkan
-- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
+\- Nämnden för överförmyndare i samverkan
+\- Överenskommelse med regionala kollektivtrafikmyndigheten ("Överenskommelse om ansvar för regional
 kollektivtrafik i Halland enligt lagen om kollektivtrafik, samt skatteväxling, ägarförhållande i Hallandstrafiken
 Ab och former för samverkan mellan Region Halland och länets kommuner i utveckling och planering av den
 regionala kollektivtrafiken").
@@ -15524,7 +15524,7 @@ Alla nämnderna har genomfört självskattningen i förvaltningsledningarna. Ska
 nivå som föregående år utom frågorna kring kännedom om och resultatet av arbetet med intern kontroll, analys
 av risk för ekonomiska oegentligheter, rutiner för att motverka oegentligheter, kontrollaktiviteter i
 verksamhetens processer, system/rutiner för förslag, synpunkter och klagomål där man skattar lägre 2023 än
-2022. Samtliga dessa områden har fått ökad aktualitet såväl i samhällsdebatten som i kommunen och den
+2022\. Samtliga dessa områden har fått ökad aktualitet såväl i samhällsdebatten som i kommunen och den
 strängare skattningen kan mycket väl vara resultatet av ökad insikt om dessa områden.
 
 Nämndernas självskattning

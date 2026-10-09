@@ -6088,7 +6088,7 @@ Omställning         till en   långsiktigt
 
 hållbar     socialtjänst       –  2024
 
-\__________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Överenskommelse        mellan  staten  och
 

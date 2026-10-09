@@ -688,17 +688,17 @@ Kommunstyrelsens arbetsutskott får information om hur arbetet fortskrider inom
 delprojekten i arbetet med Kungsbacka arena.
 
 Informationen berör följande delar:
-- Uthyrning
-- Samråd DP
-- Projektering fas 1
-- Gestaltning -återkoppling
-- Dialog med föreningslivet
+\- Uthyrning
+\- Samråd DP
+\- Projektering fas 1
+\- Gestaltning -återkoppling
+\- Dialog med föreningslivet
 
-- Kommunikation
-- Alternativ finansiering
-- Stöd från fotbollsförbundet
-- Hantering av arenanamn
-- Planerade aktiviteter
+\- Kommunikation
+\- Alternativ finansiering
+\- Stöd från fotbollsförbundet
+\- Hantering av arenanamn
+\- Planerade aktiviteter
 
 Beslutsgång
 
@@ -819,25 +819,25 @@ Tillförordnad kommundirektör Anders Johansson lämnar information inför arbet
 med lönesättning av förvaltningschefer.
 
 Ordförande Lisa Andersson (M) lämnar följande information:
-- Återkoppling från möte om SKRs prislappsmodell. Kungsbacka kommun ansökte
+\- Återkoppling från möte om SKRs prislappsmodell. Kungsbacka kommun ansökte
 under hösten 2024 om att delta i ett projekt rörande utveckling av kommunens
 budgetprocess som kallas prislappsmodellen. Målet med projektet är att
 genomföra en budgetprocess som utgår från en resursfördelningsmodell baserad
 på verksamheters prislappar. Projektet drivs under ett år. Kungsbacka har antagits
 
 till att delta i projektet som kommer att starta under hösten 2025.
-- Återkoppling från presidiemöte där presidiet bland annat diskuterade formerna för
+\- Återkoppling från presidiemöte där presidiet bland annat diskuterade formerna för
 informations- och avstämningsärenden på kommunstyrelsens arbetsutskott samt
 kommunstyrelsens uppsiktsplikt.
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
 
-- Det har kommit en inbjudan till konferensen Regional kustsamverkan Halland
+\- Det har kommit en inbjudan till konferensen Regional kustsamverkan Halland
 och Skåne. Konferensen kommer att äga rum 8-9 maj i Varberg. Inbjudan är
 vänder sig till så väl tjänstepersoner som politiker.
-- Uppdatering rörande Onsalavägen
+\- Uppdatering rörande Onsalavägen
 
-- Aktuellt fastighetsärende
+\- Aktuellt fastighetsärende
 
 Ledamoten Magdalena Sundqvist (S) återkopplar från möte mellan representanter för
 Samordningsförbundet i Halland och Gymnasium & Arbetsmarknad rörande

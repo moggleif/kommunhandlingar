@@ -231,7 +231,7 @@ Sammanfattning av ärendet
 Kommunfullmäktige har avsatt särskilda medel i Kommunbudget 2026, plan 2027–2028 för trygg
 uppväxt. Beslutet grundar sig i den satsning som kommunfullmäktige beslutade om i Kommunbudget
 2026 om att tio miljoner kronor skulle reserveras för detta ändamål varje år under perioden 2026–
-2030.
+2030\.
 Nämnden för Teknik har den 23 februari kommit in med en begäran om att få ta del av 1 000 000
 kronor av dessa medel för att sätta upp belysning för att förstärka trygghetskänslan på flera platser i
 
@@ -596,13 +596,13 @@ Bolaget ska genom en särskild utredning redovisa och motivera behovet av
 <!-- sida 20 -->
 
 (SS
--
+\-
 
 4.1
 
 dal
 
-203)
+203\)
 
 parkeringsplatser för den planerade hotellverksamheten. Utredningen ska
 omfatta bedömningar baserade på hotellets omfattning och inriktning, samt
@@ -832,7 +832,7 @@ vinner laga kraft.
 
 6.1
 
-203)
+203\)
 Grundläggande förutsättningar
 
 Bolaget gör bedömningen att ett hotell i detta läge bör ha minst 180 - 200 rum
@@ -895,13 +895,13 @@ sker till annat helägt bolag ägt av Bolaget. Bolaget ska i god tid innan avsed
 lämnas av Kommunen om inte särskilda skäl föreligger emot ett sådant
 medgivande.
 
-8. Avtalets giltighet
+8\. Avtalets giltighet
 
 8.1 Avsiktsförklaringen är giltigt endast under förutsättning att den senast 2025-03-
 31 godkänns av kommunstyrelsen i Kungsbacka kommun genom beslut som
 vinner laga kraft.
 
-9. Tvist
+9\. Tvist
 
 9.1 Tvist rörande tolkning av denna avsiktsförklaring ska hänskjutas till allmän
 domstol.
@@ -926,7 +926,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (2)
 Kommunstyrelsen Datum
 2024-11-26
 
-$ 262 Dnr KS-2024-00673
+\$ 262 Dnr KS-2024-00673
 Avsiktsförklaring avseende del av kv Samariten
 
 Beslut
@@ -960,7 +960,7 @@ området, som möjliggör projektet, tas fram och får laga kraft.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2024-11-12, $ 330
+Kommunstyrelsens arbetsutskott 2024-11-12, \$ 330
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-10-08
 
@@ -1278,11 +1278,11 @@ Kommundirektör                     Samhällsbyggnadschef
 
 <!-- sida 37 -->
 
-Från: Christer Kilersjö <christer@eksta.se>
+Från: Christer Kilersjö \<christer@eksta.se>
 Skickat: den 2 februari 2026 14:53
-Till: Mikaela Ropel <mikaela.ropel@kungsbacka.se>
+Till: Mikaela Ropel \<mikaela.ropel@kungsbacka.se>
 
-Kopia: Mats Niklasson <mats@eksta.se>
+Kopia: Mats Niklasson \<mats@eksta.se>
 Ämne: Förlängning markanvisning Skårby
 
 Hej Mikaela!
@@ -1294,7 +1294,7 @@ Med vänlig hälsning
 
 Christer Kilersjö
 
-_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 VD
 
@@ -1477,7 +1477,7 @@ dal
 
 4.2
 
-26)
+26\)
 Grundläggande och projektspecifika villkor
 För markanvisningen gäller följande för projektet grundläggande villkor:
 = - Området ska överlåtas till Eksta med äganderätt.
@@ -1661,13 +1661,13 @@ förlängning av avtalet.
 
 9.1
 
-10.
+10\.
 
 10.1
 
-11.
+11\.
 
-12.
+12\.
 
 12.1
 
@@ -1740,7 +1740,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12)
 Kommunstyrelsen Datum
 2024-04-23
 
-$ 111 Dnr KS-2021-00907
+\$ 111 Dnr KS-2021-00907
 
 Godkännande av förslag till markanvisningsavtal avseende del av
 Skårby 2:3 i Anneberg
@@ -1759,7 +1759,7 @@ nödvändiga handlingar.
 
 Kommunstyrelsen upphäver tidigare beslut om att förbereda försäljning av
 småhustomter inom fastigheten Skårby 2:3 via mäklare, som lämnades av
-kommunstyrelsen 2019-09-24, $ 231.
+kommunstyrelsen 2019-09-24, \$ 231.
 
 Sammanfattning av ärendet
 
@@ -1804,12 +1804,12 @@ Kommunstyrelsen Datum
 2024-04-23
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2024-04-09, $ 122
+Kommunstyrelsens arbetsutskott 2024-04-09, \$ 122
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-03-20
 Markanvisningsavtal, undertecknat av Eksta Bostads AB, 2024-03-24
 
-Kommunstyrelsen 2019-09-24, $ 231
-Kommunstyrelsen 2019-05-28, $ 133
+Kommunstyrelsen 2019-09-24, \$ 231
+Kommunstyrelsen 2019-05-28, \$ 133
 Översiktskarta
 
 Förslag till beslut på sammanträdet
@@ -1960,7 +1960,7 @@ Detaljplanen för området har varit ute på samråd under hösten 2020 och gran
 Inför antagande av detaljplanen behöver bland annat geoteknik, vibrationer och trafiklösning utredas
 ytterligare. Arbetet pågår och det påverkar projektets tidplan negativt. Därmed uppkommer det ett
 behov av att på nytt förlänga principavtalet och markanvisningen, som annars upphör den 26 maj
-2026. Doxa Anneberg AB har nu begärt en förlängning och har angivit att de önskar 2 år.
+2026\. Doxa Anneberg AB har nu begärt en förlängning och har angivit att de önskar 2 år.
 
 Beslutsunderlag
 Samhällsbyggnadskontorets tjänsteskrivelse, 2026-02-19
@@ -2208,7 +2208,7 @@ BAKGRUND OCH FÖRUTSÄTTNINGAR
 Uppdrag, politiska beslut m.m.
 
 Kommunstyrelsen godkände planprogram för utveckling av Annebergs centrum
-2016-02-23 $28 samt gav byggnadsnämnden i uppdrag att upprätta förslag till
+2016-02-23 \$28 samt gav byggnadsnämnden i uppdrag att upprätta förslag till
 detaljplan för utbyggnad av Annebergs centrum, Detaljplanen, i enlighet med
 godkänt planprogram daterat juni 2015.
 
@@ -2524,7 +2524,7 @@ tidsplan ska fastställas i kommande genomförandeavtal och överlåtelseavtal. 
 
 <!-- sida 63 -->
 
-10.
+10\.
 
 10.1
 
@@ -2534,7 +2534,7 @@ tidsplan ska fastställas i kommande genomförandeavtal och överlåtelseavtal. 
 
 11.3
 
-12.
+12\.
 
 12.1
 
@@ -2605,13 +2605,13 @@ erforderliga kostnader och att Bolaget betalar en ersättning som delvis bekosta
 
 12.5
 
-13.
+13\.
 
 13.1
 
 13.2
 
-14.
+14\.
 14.1
 
 7/10
@@ -2675,21 +2675,21 @@ ställas i kommande genomförandeavtal.
 
 14.2
 
-15.
+15\.
 
 15.1
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 17.1
 
 17.2
 
-18.
+18\.
 
 18.1
 
@@ -2753,17 +2753,17 @@ c) Bolaget anger sakliga skäl för att få förlängning av avtalet
 
 <!-- sida 66 -->
 
-19.
+19\.
 
 19.1
 
-20.
+20\.
 
 20.1
 
 20.2
 
-21.
+21\.
 
 21.1
 
@@ -2822,14 +2822,14 @@ medgivande.
 
 10/10
 
-22. — Avtalets giltighet
+22\. — Avtalets giltighet
 
 22.1 — Avtalet är giltigt endast under förutsättning att det senast 2020-06-30 godkänns
 av kommunstyrelsen i Kungsbacka kommun genom beslut som vinner laga
 kraft.
 
 222 — Avtalet ersätter tidigare tecknat markanvisningsavtal (201 8-05-28) i sin helhet.
-23. — Tvist
+23\. — Tvist
 
 23.1 Tvist i anledning av Avtalet ska avgöras enligt svensk rätt av den tingsrätt vars
 domsaga Kommunen tillhör.
@@ -2903,30 +2903,30 @@ Kungsbacka kommun, Samhällsbyggnadskontoret, planavdelning, nedan kallad
 Planavdelningen.
 
 Detaljplaneprocessen utgår ifrån beslut i Byggnadsnämndens arbetsutskott
-2016-12-20 $ 551.
+2016-12-20 \$ 551.
 
 Följande utförs av Planavdelningen i samråd med Beställaren
 
-1. Planförslag med plankarta, illustrationskarta, planbeskrivning inklusive
+1\. Planförslag med plankarta, illustrationskarta, planbeskrivning inklusive
 genomförandebeskrivning, eventuellt gestaltningsprogram samt övrigt
 informationsmaterial för samråd och granskning.
 
-2. Grundkarta och fastighetsförteckning.
+2\. Grundkarta och fastighetsförteckning.
 
 3, Skisser och utredningar som fordras vid framtagande av detaljplan.
 
 4, Granskningsutlåtande efter granskning
 
-5. Material beställt av planavdelningen och som fordras vid samråd, granskning
+5\. Material beställt av planavdelningen och som fordras vid samråd, granskning
 och antagande.
 
-6. Övriga arbetsuppgifter som uppkommer i samband med samråd,
+6\. Övriga arbetsuppgifter som uppkommer i samband med samråd,
 underrättelse/granskning, antagande och arkivering.
 
-7. Kostnaderna för utfört arbete från 2016-12-20 enligt punkt 1-6 faktureras
+7\. Kostnaderna för utfört arbete från 2016-12-20 enligt punkt 1-6 faktureras
 Beställaren.
 
-8. Vid planarbetets påbörjande startfaktureras 25940 (tjugofem) av en uppskattad
+8\. Vid planarbetets påbörjande startfaktureras 25940 (tjugofem) av en uppskattad
 plankostnad exklusive utredningar, enligt punkt 1-6.
 
 Summa startfaktura avräknas vid faktureringstillfälle två. Fakturering enligt
@@ -2936,7 +2936,7 @@ specifikation brevledes eller via epost.
 9, Timdebitering sker enligt plantaxa beslutad av kommunfullmäktige.
 
 Kungsbacka
-102)
+102\)
 
 Datum
 
@@ -2948,14 +2948,14 @@ PL/2004:38
 
 KUNGSBACKA KOMMUN
 
-10. Detaljplanen administreras av Planavdelningen fram till och med antagande 2 (2)
+10\. Detaljplanen administreras av Planavdelningen fram till och med antagande 2 (2)
 
 och arkivering.
 
-11. Detta avtal gäller även om planarbetet avbryts och inte resulterar i en antagen
+11\. Detta avtal gäller även om planarbetet avbryts och inte resulterar i en antagen
 lagakraftvunnen detaljplan.
 
-12. Avbryts planarbetet ersätts Planavdelningen för utfört arbete enligt timredo-
+12\. Avbryts planarbetet ersätts Planavdelningen för utfört arbete enligt timredo-
 visning av berörd personal, samt för eventuellt utförda utredningar.
 
 Beställare:
@@ -3049,14 +3049,14 @@ AN
 23 RY
 21 ö
 ÅR
->
+\>
 (ROTE
 [4]
 KR |
 3 TH
 i
 JA
-+
+\+
 7” NR
 
 ((
@@ -3209,7 +3209,7 @@ Kommunstyrelsen Datum
 
 2020-05-26
 
-$ 116 Dnr 2017-00207
+\$ 116 Dnr 2017-00207
 
 Markanvisning i Annebergs centrum för del av Alafors 2:16 och Alafors
 3:3
@@ -3244,7 +3244,7 @@ avseende del av Alafors 2:16 och Alafors 3:3.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2020-05-12, $ 144
+Kommunstyrelsens arbetsutskott 2020-05-12, \$ 144
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2020-04-09
 
@@ -3636,7 +3636,7 @@ Begära     planbesked
 
 Ärendenummer: #256690 | Inskickat av:               | 2026-01-23 10:59
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -3669,16 +3669,16 @@ Utdelningsadress                  Postnummer
 Postort                           Telefon
 
 E-postadress                      Eventuell fakturareferens
--                                 -
+\-                                 -
 
 Företagets kontaktperson
 
 Förnamn                           Efternamn
 
 Telefon                           E-postadress
--                                 -
+\-                                 -
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -3710,7 +3710,7 @@ Vad beskriver bäst din begäran?
 Handel
 Industri/verksamhet/lager
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -3949,8 +3949,8 @@ Bakgrund och syfte .............................................................
 Planerings- och byggprocessen ......................................................................................................... 5
 Alternativ .................................................................................................................................................. 6
 
-1. Kläppa 2:2>1 ................................................................................................................................................ 7
-2. Kläppa 2:2>3 ............................................................................................................................................... 8
+1\. Kläppa 2:2>1 ................................................................................................................................................ 7
+2\. Kläppa 2:2>3 ............................................................................................................................................... 8
 
 Rekommendation ................................................................................................................................... 9
 Konsekvenser ........................................................................................................................................ 10
@@ -3965,13 +3965,13 @@ Delaktiga ......................................................................
 Bilaga 1: Studerade platser ................................................................................................................. 11
 Bilaga 2: Avskrivna lokaliseringar ......................................................................................................12
 
-3. Frillesås-Rya 4:14>1 och 4:149>1 .......................................................................................................... 13
+3\. Frillesås-Rya 4:14>1 och 4:149>1 .......................................................................................................... 13
 
-4. Duvehed 2:14 ............................................................................................................................................ 14
-5. Söder om Benders, Frillesås-Rya 3:77>3 ........................................................................................... 15
-6. Åsa norra entré, Åsa 2:4>1 .................................................................................................................... 16
+4\. Duvehed 2:14 ............................................................................................................................................ 14
+5\. Söder om Benders, Frillesås-Rya 3:77>3 ........................................................................................... 15
+6\. Åsa norra entré, Åsa 2:4>1 .................................................................................................................... 16
 
-7. Fjärås stationssamhälle norra entré, Äskatorp 12:4>1 ................................................................... 17
+7\. Fjärås stationssamhälle norra entré, Äskatorp 12:4>1 ................................................................... 17
 
 2
 
@@ -4076,7 +4076,7 @@ Föreslagen placering av ÅVC syd ligger vid Åsa station.
 
 <!-- sida 113 -->
 
-1. Åsa station söder om Kläppavägen, Kläppa 2:2>1
+1\. Åsa station söder om Kläppavägen, Kläppa 2:2>1
 
 •  Platsen söder om Kläppavägen ägs av kommunen.
 •  I den fördjupade översiktsplanen för Åsa är platsen utpekad som utbyggnadsområde och har god
@@ -4108,7 +4108,7 @@ med arbetet med planprogramet. Arrendet bedöms vara möjlig att sägas upp när
 
 <!-- sida 114 -->
 
-2. Åsa station norr om Kläppavägen, Kläppa 2:2>3
+2\. Åsa station norr om Kläppavägen, Kläppa 2:2>3
 
 Om det efterfrågas en tillfällig placering av en mindre ÅVC tills det att detaljplan söder om Kläppavägen är
 klar och en ÅVC är etablerad så föreslås den tillfälligt placeras inom Kläppa 2:2>3 vid pendelstationen norr
@@ -4208,19 +4208,19 @@ Bilaga  1: Studerade    platser
 Kartbild med alla undersökta platser markerade.
 
 Relevanta alternativ (grön markering)
-1. Åsa station söder om Kläppavägen,
+1\. Åsa station söder om Kläppavägen,
 Kläppa 2:2>1
-2. Tillfällig placering vid Åsa station norr
+2\. Tillfällig placering vid Åsa station norr
 om Kläppavägen, Kläppa 2:2>3
 
 Avskrivna platser (röd markering)
-3. Frillesås-Rya 4:14>1 och 4:149>1,
+3\. Frillesås-Rya 4:14>1 och 4:149>1,
 Östra Frillesås
-4. Duvehed 2:14, Fjärås stationssamhälle
-5. Söder om Benders, Frillesås-Rya
+4\. Duvehed 2:14, Fjärås stationssamhälle
+5\. Söder om Benders, Frillesås-Rya
 3:77>3
-6. Åsa 2:4>1, Åsa norra entré
-7. Äskatorp 12:4>1, Fjärås
+6\. Åsa 2:4>1, Åsa norra entré
+7\. Äskatorp 12:4>1, Fjärås
 stationssamhälle
 
 11
@@ -4246,7 +4246,7 @@ risker och tidplan. Se nedan för mer detaljerad genomgång.
 
 <!-- sida 119 -->
 
-3. Frillesås-Rya 4:14>1 och 4:149>1 i Frillesås
+3\. Frillesås-Rya 4:14>1 och 4:149>1 i Frillesås
 
 •  Platsen norr om Frillesåsvägen i östra delen av Frillesås ägs av
 kommunen.
@@ -4282,7 +4282,7 @@ jordbruksmark.
 
 <!-- sida 120 -->
 
-4. Duvehed  2:14 i Fjärås stationssamhälle
+4\. Duvehed  2:14 i Fjärås stationssamhälle
 
 •  Platsen ligger inom Duveheds verksamhetsområde och ägs av kommunen.
 Platsen bedöms inte ligga i södra delen av Kungsbacka kommun.
@@ -4311,7 +4311,7 @@ resor till platsen.
 
 <!-- sida 121 -->
 
-5. Söder om  Benders, Frillesås-Rya 3:77>3
+5\. Söder om  Benders, Frillesås-Rya 3:77>3
 
 •  Platsen söder om Benders ägs av kommunen och berörs inte av någon
 detaljplan idag.
@@ -4340,7 +4340,7 @@ Kartbilden illustrerar placering av ÅVC i söder om Benders i Frillesås.
 
 <!-- sida 122 -->
 
-6. Åsa norra entré, Åsa 2:4>1
+6\. Åsa norra entré, Åsa 2:4>1
 
 •  Platsen vid Åsa norr entré av kommunen och berörs inte av någon detaljplan
 idag.
@@ -4356,7 +4356,7 @@ jordbruksmark.
 
 Kartbilden illustrerar placering av ÅVC i vid Åsa norra entré. .
 
-7.
+7\.
 
 16
 
@@ -4429,7 +4429,7 @@ aråv
 iv
 retöm
 räh
--
+\-
 eraköseb
 000
 051
@@ -4615,7 +4615,7 @@ nemmokläV
 
 !netsvolK
 tvitkeffetY
--
+\-
 netsvolK
 ayN
 kurbretå
@@ -4627,7 +4627,7 @@ llit
 xfileböm
 nårf
 tlla
--
+\-
 namet
 akilo
 kurbretå
@@ -5234,7 +5234,7 @@ Bolagen benämnda b) och c) kallas gemensamt Exploatören
 Kommunen och Exploatören kallas gemensamt Parterna
 
 ÅA. BAKGRUND OCH FÖRUTSÄTTNINGAR
-1. Uppdrag, politiska beslut m.m.
+1\. Uppdrag, politiska beslut m.m.
 
 1.1 Byggnadsnämnden uppdrog 2016-01-14 åt samhällsbyggnadskontoret att upprätta
 detaljplan för verksamheter och bostäder inom Åsa 5:155 m.fl. Ett förslag till
@@ -5256,7 +5256,7 @@ b) Område för ny gångväg vid Sörviksvägen, med en säker passage över vä
 mellan bostäderna på Åsa 5:156 och parkeringen på Åsa 5:14.
 
 c) Område för förlängning av befintlig trottoar utmed Sörviksvögens östra sida.
-3. Syfte, innehåll och förutsättningar
+3\. Syfte, innehåll och förutsättningar
 
 3.1 — Exploateringsområdet omfattar ett område som har enskilt huvudmannaskap för
 allmän plats, viket innebär att Exploatören har det fulla ansvaret för Detaljplanens
@@ -5355,7 +5355,7 @@ delägare i Åsa ga:8 för att få rätt att använda föreningens vägar och gr
 Ändring av andelstal samt inträde kan ske genom överenskommelse med
 samfällighetsföreningen eller genom lantmäteriförrättning.
 
-8. Ledningsrätt och servitut
+8\. Ledningsrätt och servitut
 
 8.1 Ledningsrätt
 
@@ -5371,7 +5371,7 @@ till Sörviksvägen, om inte en gemensamhetsanläggning bildas för detta ändam
 
 Servituten kan bildas i samband med avstyckning av fastigheten eller genom avtal.
 
-9. Lantmäteriförrättning
+9\. Lantmäteriförrättning
 
 9.1 Exploatören ansvarar för ansökan och bekostar fastighetsbildningsåtgärder inom sin
 kvartersmark, såsom till exempel avstyckning, fastighetsreglering, bildande av
@@ -5383,7 +5383,7 @@ gemensamhetsanläggningen, se punkt 7.1-7.3. Lantmäteriet bestämmer hur
 förrättningskostnaderna ska fördelas mellan berörda fastigheter utmed vägen.
 
 C. EXPLOATERING
-10. - Byggnader och anläggningar inom kvartersmark
+10\. - Byggnader och anläggningar inom kvartersmark
 
 10.1  Exploatören ansvarar för utförande av byggnader och anläggningar inom kvartersmark
 för bostad-, centrum- och parkeringsändamål.
@@ -5461,7 +5461,7 @@ Sign.
 
 10.6
 
-11.
+11\.
 
 11.2
 
@@ -5469,7 +5469,7 @@ Sign.
 
 11.4
 
-12.
+12\.
 
 12.1
 
@@ -5569,7 +5569,7 @@ mot Kommunen ska Kommunen samråda med Exploatören innan Kommunen medger
 eller avtalar om eventuell ersättning till tredje man. Exploatören ansvar inkluderar
 ansvar för skador som orsakas av entreprenör eller annan som Exploatören anlitar.
 
-13. — Besiktning och återställande
+13\. — Besiktning och återställande
 
 13.1 — Före byggstart ska Exploatören kalla Kommunen, genom Teknik (va och bredband)
 till förbesiktning i syfte att tillsammans med Kommunen göra en okulärbesiktning
@@ -5595,11 +5595,11 @@ Sign.
 
 13.5
 
-14.
+14\.
 
 14.1
 
-15.
+15\.
 
 15.1
 
@@ -5607,11 +5607,11 @@ Sign.
 
 15.3
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 17.1
 
@@ -5671,15 +5671,15 @@ Sign]
 
 <!-- sida 142 -->
 
-18.
+18\.
 
 18.1
 
-19.
+19\.
 
 19.1
 
-20.
+20\.
 
 20.1
 
@@ -5687,11 +5687,11 @@ Sign]
 
 20.3
 
-21.
+21\.
 
 21.1
 
-22.
+22\.
 
 22.1
 
@@ -5758,7 +5758,7 @@ Sign.
 
 23.1
 
-24.
+24\.
 
 24.1
 
@@ -5825,13 +5825,13 @@ Sign.
 
 10(11)
 
-26. - Tidsplan
+26\. - Tidsplan
 
 26.1 - Exploatören ska informera Kommunen om huvudtidplan för exploateringen. Om
 avvikelse sker/riskerar att ske mot huvudtidplanen ska övriga parter inomformeras
 
 utan fördröjning.
-27. - Tvist
+27\. - Tvist
 
 27.1 Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
 detta avtal ska avgöras av allmän domstol.
@@ -5919,7 +5919,7 @@ Fastighetsägaren
 
 Kommunen och Fastighetsägaren kallas gemensamt Parterna
 
-1. Bakgrund och syfte
+1\. Bakgrund och syfte
 
 1.1 Denna överenskommelse är ett led i genomförandet av detaljplanen för
 verksamheter och bostäder inom Åsa 5:156 och 5:14 m.fl. i Åsa. Detaljplanen
@@ -5981,7 +5981,7 @@ fastighetsbildningsbeslut enligt punkt 6 vunnit laga kraft.
 
 Ersättningen inbetalas på Kommunens bankgirokonto nummer 426-4610, märk
 inbetalningen med ansvar 9904 och Åsa 5:156. Om betalning sker därefter
-betalas ränta enligt 6 $ räntelagen från sista betalningsdag tills betalning sker.
+betalas ränta enligt 6 \$ räntelagen från sista betalningsdag tills betalning sker.
 
 Lantmäteriförrättning
 
@@ -6002,16 +6002,16 @@ gentemot Kommunen enligt denna överenskommelse.
 Avtalets giltighet
 Detta avtal förutsätter för sin giltighet att:
 
-- Kommunstyrelsen godkänner denna överenskommelse, genom beslut som
+\- Kommunstyrelsen godkänner denna överenskommelse, genom beslut som
 vinner laga kraft
 
-- Byggnadsnämnden antar detaljplanen för verksamheter och bostäder inom
+\- Byggnadsnämnden antar detaljplanen för verksamheter och bostäder inom
 Åsa 5:156 och 5:14 m.fl. i Åsa, genom beslut som vinner laga kraft
 
 Parterna har inte träffat någon överenskommelse eller åtagit sig någon
 förpliktelse utöver vad som ovan angetts.
 
-204)
+204\)
 
 <!-- sida 151 -->
 
@@ -6059,7 +6059,7 @@ förbundsstyrelsen bereda medlemskommunerna tillfälle att yttra sig över ett
 samrådsunderlag om budgeten för nästkommande år. Nivån på årsavgiften föreslås
 vara oförändrad till 2027 och uppgår då till 72,62 kronor per invånare. För
 Kungsbacka kommun innebär det en preliminär avgift på 6 269 000 kronor under
-2027. Årsavgiften är preliminär och kommer justeras när de definitiva
+2027\. Årsavgiften är preliminär och kommer justeras när de definitiva
 
 befolkningsuppgifterna per 2025-12- 31 är publicerade. Avgiften ryms inom
 kommunstyrelsens budgetram.
@@ -6178,7 +6178,7 @@ på befolkningstalen publicerade av SCB per 2025-11-01 och kommer att
 justeras när de definitiva befolkningsuppgifterna per 2025-12-31 är
 publicerade.
 Medlemskommunernas synpunkter ska vara GR tillhanda senast 21 april
-2026. Beslut fattas i förbundsstyrelsen 29 maj och därefter i
+2026\. Beslut fattas i förbundsstyrelsen 29 maj och därefter i
 förbundsfullmäktige den 16 juni.
 Beslutsunderlag
 
@@ -6254,12 +6254,12 @@ på 5 000 tkr, med hänvisning till synnerliga skäl. I samma plan finns angivet
 2027 planeras att underfinansieras. Detta beslutar förbundsfullmäktige om i december 2026 i sam-
 band med att detaljbudgeten för år 2027 beslutas. GR har beslutat att nyttja eget kapital för tre olika
 insatser under de kommande två åren 2026–2027:
-1. Avsluta arbetet med framtagandet av GR:s regionala utvecklingsplan för storstadsregionen
+1\. Avsluta arbetet med framtagandet av GR:s regionala utvecklingsplan för storstadsregionen
 (RUPS) vidare i planeringen mot år 2050. Denna handling planerar vi att förbundsfullmäktige
 ska kunna fatta beslut om under kvartal 1-2026.
-2. Inom ramen för RUPS-arbetet påbörjas omgående ett arbete kring infrastruktur och kollektiv-
+2\. Inom ramen för RUPS-arbetet påbörjas omgående ett arbete kring infrastruktur och kollektiv-
 trafik vilket är en avgörande faktor för Göteborgsregionens tillväxt.
-3. Kommunalförbundet slutför dessutom arbetet med att införa e-arkiv.
+3\. Kommunalförbundet slutför dessutom arbetet med att införa e-arkiv.
 Läs mer om dessa insatser i GR:s plan- och detaljbudget för år 2026 som bifogas detta ärende.
 Efter år 2027 planerar GR att återigen redovisa positiva resultat för verksamhetsåret 2028 och
 framåt. GR:s verksamhet anpassas alltid efter erhållen finansiering. För att skapa stabilitet i verk-
@@ -6880,21 +6880,21 @@ I Energisituationen i Halland identifierades tio regionala utmaningar. Flertalet
 är även relevanta för övriga delar av landet. Oaktat det så behöver dessa utmaningar
 diskuteras och hanteras i Halland.
 
-1. Osäkerhet i tidsplaner och framtida elbehov
-2. Det saknas investeringsbeslut för ny elproduktion
-3. Transportsektorn ställer om – stort behov av laddinfrastruktur
-4. Det finns ett stort behov av en mer flexibel elanvändning
-5. Det finns brister i nätkapaciteten – speciellt i regionnätet i södra Halland
-6. Kraft- och fjärrvärme har många nyttor, men osäkerheten kring framtiden är
+1\. Osäkerhet i tidsplaner och framtida elbehov
+2\. Det saknas investeringsbeslut för ny elproduktion
+3\. Transportsektorn ställer om – stort behov av laddinfrastruktur
+4\. Det finns ett stort behov av en mer flexibel elanvändning
+5\. Det finns brister i nätkapaciteten – speciellt i regionnätet i södra Halland
+6\. Kraft- och fjärrvärme har många nyttor, men osäkerheten kring framtiden är
 stor
 
-7. Robusthet måste säkerställas för att hantera en hög andel väderberoende
+7\. Robusthet måste säkerställas för att hantera en hög andel väderberoende
 produktion och kunna möta antagonistiska och väderrelaterade störningar
-8. Det behövs kompetens för att realisera energiomställningen
-9. Lokal och regional energiplanering kräver resurser och samordning
-10. Det saknas en bred acceptans för energiomställningens nödvändighet
+8\. Det behövs kompetens för att realisera energiomställningen
+9\. Lokal och regional energiplanering kräver resurser och samordning
+10\. Det saknas en bred acceptans för energiomställningens nödvändighet
 
-1. Osäkerhet i tidsplaner och framtida elbehov
+1\. Osäkerhet i tidsplaner och framtida elbehov
 I dagsläget är det omöjligt att bedöma hur mycket el som kommer behövas 2050.
 Mellan 2012 och 2023 minskade den årliga elanvändningen i Halland från 5,3 TWh till
 4,4 TWh. De tre scenarier som presenterades i Energisituationen i Halland pekar
@@ -6905,7 +6905,7 @@ scenarierna åt är vilken betydelse datacenter får i framtidens Halland. Merpa
 den ökade elanvändningen förväntas ske mellan 2030 och 2045.9 För att möjliggöra
 detta krävs åtgärder redan de närmaste åren.
 
-2. Det saknas investeringsbeslut för ny elproduktion
+2\. Det saknas investeringsbeslut för ny elproduktion
 Av Energisituationen i Halland framgår att det finns planer och stor potential för
 utbyggnad av flera kraftslag i Halland. Samtidigt kan det konstateras att det i princip
 saknas konkreta investeringsbeslut som möjliggör ny elproduktion i länet. Detta kan
@@ -6925,7 +6925,7 @@ storskalig elektrifiering (2025), s. 12–14.
 
 REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
 
-3. Transportsektorn ställer om – stort behov av laddinfrastruktur
+3\. Transportsektorn ställer om – stort behov av laddinfrastruktur
 Gemensamt för de tre regionala scenarier som redovisats är att alla pekar på en
 kraftigt ökad elanvändning i den halländska transportsektorn och att denna ökning i
 huvudsak förväntas ske mellan 2025 och 2040. Att transportsektorn står i fokus i länets
@@ -6938,7 +6938,7 @@ laddinfrastruktur för både lätta och tunga fordon. Här ska noteras att laddn
 normalfallet kommer att ske vid bostäder, arbetsplatser och vid godsterminaler. Denna
 laddning behöver dock kompletteras med publik laddning.
 
-4. Det finns ett stort behov av en mer flexibel elanvändning
+4\. Det finns ett stort behov av en mer flexibel elanvändning
 Eftersom elsystemet kräver att det alltid råder balans mellan produktion och använd-
 ning är det av stor vikt att öka flexibiliteten i systemet. Detta kan handla om att anpas-
 sa användning och produktion av el eller olika typer av energilager. Flexibilitet kan
@@ -6970,7 +6970,7 @@ självmant kommer att göra de anpassningar som behövs.
 
 REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
 
-5. Det finns brister i nätkapaciteten – speciellt i regionnätet i södra Halland
+5\. Det finns brister i nätkapaciteten – speciellt i regionnätet i södra Halland
 Analyser av elnätsbolagens nätutvecklingsplaner pekar på vissa brister i det halländska
 elnätet. Framför allt handlar det om flaskhalsar i regionnätet i södra Halland. Detta gör
 att större anläggningar som solcellsparker inte kan anslutas till regionnätet i närtid
@@ -6988,7 +6988,7 @@ marknadsinspektionens statistik visar också att ingen av de halländska kommune
 hade en medelavbrottstid som översteg två timmar. Enligt ellagen får elavbrott inte
 överstiga 24 timmar och en kund ska ha rätt till avbrottsersättning vid
 sammanhängande avbrott på minst 12 timmar.10
-6. Kraft- och fjärrvärme har många nyttor, men osäkerheten kring framtiden är stor
+6\. Kraft- och fjärrvärme har många nyttor, men osäkerheten kring framtiden är stor
 Bostäder och fastigheter som värms med fjärrvärme bidrar till att elnätet avlastas.
 
 Fjärrvärme möjliggör också tillvaratagande av restvärme samt elproduktion i kraft-
@@ -6998,7 +6998,7 @@ an. För närvarande råder dock stor osäkerhet kring kraft- och fjärrvärmens
 förutsättningar. Detta beror bland annat på utfasningen av utsläppsrätter, kraftigt
 ökad konkurrens om biomassa och minskat värmebehov i nybyggda fastigheter.
 
-7. Robusthet måste säkerställas för att hantera en hög andel väderberoende
+7\. Robusthet måste säkerställas för att hantera en hög andel väderberoende
 produktion och kunna möta antagonistiska och väderrelaterade störningar
 I Energisituationen i Halland berördes frågor som rör energiberedskap endast över-
 siktligt. Det är dock tydligt att elsystemets robusthet måste säkerställas utifrån flera
@@ -7017,7 +7017,7 @@ elavbrott (2024).
 
 REGIONAL HANDLINGSPLAN FÖR ELEKTRIFIERING – HALLANDS LÄN: REMISSVERSION
 
-8. Det behövs kompetens för att realisera energiomställningen
+8\. Det behövs kompetens för att realisera energiomställningen
 Energiomställningen kräver stora personella resurser i hela energibranschen. Detta
 berör ett stort antal yrkeskategorier, däribland installatörer, servicepersonal, kon-
 struktörer, projektledare, ingenjörer, analytiker och samhällsplanerare. Halland har
@@ -7030,7 +7030,7 @@ bland annat elektroingenjör och ingenjör i hållbar energi. Högskolan i Halms
 även en av de ledande forskningsnoderna i Sverige kring fjärrvärme och biogas. En
 stark energisektor bidrar dessutom till arbetstillfällen under såväl etablerings- som
 driftsfas.
-9. Lokal och regional energiplanering kräver resurser och samordning
+9\. Lokal och regional energiplanering kräver resurser och samordning
 
 Elnätsbolag, kommuner, Region Halland och Länsstyrelsen i Halland har uppdrag kring
 lokal eller regional energiplanering. Alla dessa uppdrag kräver resurser i form av kun-
@@ -7042,7 +7042,7 @@ statlig nivå. I de aktiviteter som hittills genomförts inom EnergiNav Halland 
 också tydligt att det finns ett behov av fördjupad dialog och av att tydliggöra olika
 aktörers roll i energiomställningen.
 
-10. Det saknas en bred acceptans för energiomställningens nödvändighet
+10\. Det saknas en bred acceptans för energiomställningens nödvändighet
 De nationella energi- och klimatmålen har beslutats av riksdagen och är därmed
 demokratiskt förankrade. Samtidigt finns det ofta ett lokalt motstånd mot enskilda
 projekt, då det finns risk eller oro för störningar och inskränkningar. Detta gäller såväl
@@ -7701,11 +7701,11 @@ Synpunkter kunde lämnas skriftligen under hela samrådsperioden. Detta gjordes
 antingen på samrådsmötena, i Värö kyrka, via brev eller e-post. Totalt inkom 67
 yttranden, fördelat enligt följande:
 
--  Länsstyrelsen (1)
--  Övriga statliga och regionala organ (6)
--  Kommunala nämnder och bolag (10)
--  Privatpersoner (34)
--  Övriga (16)
+\-  Länsstyrelsen (1)
+\-  Övriga statliga och regionala organ (6)
+\-  Kommunala nämnder och bolag (10)
+\-  Privatpersoner (34)
+\-  Övriga (16)
 
 4                                 Samrådsredogörelse FÖP Väröbacka | Varbergs kommun
 
@@ -7716,64 +7716,64 @@ Samrådhandlingar skickades ut till följande remissinstanser:
 
 Statliga och regionala organ
 
--  Länsstyrelsen i Hallands län
--  Trafikverket
--  Region Halland
--  Hallandstrafiken
--  Kulturmiljö Halland
+\-  Länsstyrelsen i Hallands län
+\-  Trafikverket
+\-  Region Halland
+\-  Hallandstrafiken
+\-  Kulturmiljö Halland
 
 Kommunala nämnder och bolag
--  Byggnadsnämnden
--  Förskole- och grundskolenämnden
--  Utbildnings- och arbetsmarknadsnämnden
--  Hamn- och gatunämnden
--  Kultur- och fritidsnämnden
--  Miljö- och hälsoskyddsnämnden
--  Servicenämnden
--  Socialnämnden
--  Räddningstjänsten Väst
--  Varberg Energi AB (VEAB)
--  Varberg Energi AB Fjärrvärme
--  Vatten & Miljö i Väst AB (VIVAB)
--  Varbergs Fastighets AB (VFAB)
--  Varbergs Bostads AB (VBAB)
--  Lantmäterimyndigheten
+\-  Byggnadsnämnden
+\-  Förskole- och grundskolenämnden
+\-  Utbildnings- och arbetsmarknadsnämnden
+\-  Hamn- och gatunämnden
+\-  Kultur- och fritidsnämnden
+\-  Miljö- och hälsoskyddsnämnden
+\-  Servicenämnden
+\-  Socialnämnden
+\-  Räddningstjänsten Väst
+\-  Varberg Energi AB (VEAB)
+\-  Varberg Energi AB Fjärrvärme
+\-  Vatten & Miljö i Väst AB (VIVAB)
+\-  Varbergs Fastighets AB (VFAB)
+\-  Varbergs Bostads AB (VBAB)
+\-  Lantmäterimyndigheten
 
 Teknisk infrastruktur
--  Varbergsortens Elkraft
--  Ellevio
--  Vattenfall
+\-  Varbergsortens Elkraft
+\-  Ellevio
+\-  Vattenfall
 
 Föreningar och intresseorganisationer
--  Limabacka vägförening
--  Väröbacka vägförening
--  Dikningsföretag
--  Hyresgästföreningen region Västra Sverige
--  Naturskyddsföreningen Varberg
--  Värö Stråvalla hembygdsförening
--  Värö/Stråvalla-visionen
--  Buas framtid
--  Veddigevisionen
--  Fastighetsägarna
--  Lantbrukarnas Riksförbund (LRF)
--  Aktionsgruppen för pendeltågstation i Väröbacka (APV)
+\-  Limabacka vägförening
+\-  Väröbacka vägförening
+\-  Dikningsföretag
+\-  Hyresgästföreningen region Västra Sverige
+\-  Naturskyddsföreningen Varberg
+\-  Värö Stråvalla hembygdsförening
+\-  Värö/Stråvalla-visionen
+\-  Buas framtid
+\-  Veddigevisionen
+\-  Fastighetsägarna
+\-  Lantbrukarnas Riksförbund (LRF)
+\-  Aktionsgruppen för pendeltågstation i Väröbacka (APV)
 
 Grannkommuner
--  Kungsbacka kommun
+\-  Kungsbacka kommun
 
 Övrigt
--  Telia Sonera Skanova Access AB
+\-  Telia Sonera Skanova Access AB
 
 Samrådsredogörelse FÖP Väröbacka | Varbergs kommun            5
 
 <!-- sida 196 -->
 
--  Postnord
--  Swedavia AB
--  Värö Stråvalla församling
--  Södra Skogsägarna i Värö
--  Ringhals
--  Derome
+\-  Postnord
+\-  Swedavia AB
+\-  Värö Stråvalla församling
+\-  Södra Skogsägarna i Värö
+\-  Ringhals
+\-  Derome
 
 Sammanfattning
 
@@ -11257,7 +11257,7 @@ användas som fotbollsplaner.
 
 Kommunens kommentarer
 Angående lämpligheten för skolverksamhet på område S6, se svar till privatperson
-8.
+8\.
 
 Som underlag till planförslaget har en bullerutredning tagits fram. Utredningen
 visar att nästan hela område S6 ligger inom godkända riktvärden för buller på
@@ -11300,7 +11300,7 @@ rekreativa promenadstråk i parker och naturområden, bland annat gällande
 belysning, får studeras i den fortsatta planeringen.
 
 Angående lämpligheten för skolverksamhet på område S6, se svar till privatperson
-8.
+8\.
 
 Vilka områden som byggs ut när beror till stor del på den som har rådighet över
 marken. Kommunen kan ta en aktiv roll i utvecklingen av Väröbacka genom att
@@ -12697,16 +12697,16 @@ västerut.
 Sjöströms fastigheter föreslår slutligen tre alternativ för att utvecklingen i Värö inte
 ska hamna i en låsning.
 
-1. Markbyte mot annan fastighet som är detaljplanelagd för bostäder eller
+1\. Markbyte mot annan fastighet som är detaljplanelagd för bostäder eller
 verksamheter inom Varbergs kommun. På så sätt förfogar kommunen över
 hela fastigheten och kan utforma park- och naturområdet på bästa sätt.
 Detta alternativ föredrar Sjöströms fastigheter själva.
-2. Justering av markanvändningskartan där delar av N2 istället pekas ut för
+2\. Justering av markanvändningskartan där delar av N2 istället pekas ut för
 bostäder. Sjöströms fastigheter bedömer att flerfamiljshus på 7–8 våningar
 krävs för att exploateringen ska bli lönsam. En hög exploatering bedöms
 också kunna bidra till en god hushållning av mark och mindre påverkan på
 jordbruksmark. Högre hus bedöms också passa bra intill befintliga träd.
-3. Tillåt även serviceboende, skola och förskola inom markytan som
+3\. Tillåt även serviceboende, skola och förskola inom markytan som
 överlappar med deras fastighet eftersom tillgången till naturområdet skulle
 utgöra en kvalitet för serviceboende, skola eller förskola.
 
@@ -13353,7 +13353,7 @@ men de är inte de dominerande källorna till buller från väg. Då järnvägen
 stort område ställs en del krav på utformningen av Väröbacka. Eventuella förändringar i
 järnvägstrafiken som utbyggnad av spår kan kräva bulleråtgärder för befintliga bostäder.
 Med noggrann planering av utformning avn oemutrråadl ekto gnösresk vi ebnusl lfeörru btruelldenr.i ngen (Efterklang ,
-2023) bedömningen att det ändå finns goda förutsättningar för att riktlinjerna för trafikbuller
+2023\) bedömningen att det ändå finns goda förutsättningar för att riktlinjerna för trafikbuller
 innehålls. Planförslaget bedöms därför ha
 
 6
@@ -13594,7 +13594,7 @@ I verkligheten pågår omvandlingen av området successivt och förutsättningar
 Antagandet har gjorts för att på ett tydligt sätt kunna jämföra planförslaget och
 nollalternativet vid en tidpunkt då området är helt utbyggt. De vägtrafiksimuleringar som
 ligger till grund för bland annat beräkning av trafikflöden och vägbuller avser år 2050 och
-2040. Utredningen vad gäller vattenberäkningar och övrigt buller använder även den år 2050
+2040\. Utredningen vad gäller vattenberäkningar och övrigt buller använder även den år 2050
 och 2040 som horisontår. Av praktiska skäl likställs dessa med horisontår 2050.
 Miljöpåverkan som kan uppstå under byggtiden hanteras inte i aktuell MKB.
 3.4  TEMATISK AVGRÄNSNING
@@ -13937,11 +13937,11 @@ regionen med fokus på Agenda 2030 och de 17 globala hållbarhetsmålen.
 Fem övergripande principer har tagits fram som ska vara ett stöd på vägen till visionen om
 Halland som den bästa livsplatsen 2035:
 
-1. Tillämpa ett helhetsorienterat arbetssätt
-2. Ingen ska lämnas utanför samhällsutvecklingen
-3. Anpassa ekonomiska resurser efter olika behov och långsiktig nytta
-4. Bruka utan att förbruka eller missbruka ekologiska resurser
-5. Samverka för genomförandekraft
+1\. Tillämpa ett helhetsorienterat arbetssätt
+2\. Ingen ska lämnas utanför samhällsutvecklingen
+3\. Anpassa ekonomiska resurser efter olika behov och långsiktig nytta
+4\. Bruka utan att förbruka eller missbruka ekologiska resurser
+5\. Samverka för genomförandekraft
 Inget av Hallands miljömål har en positiv trend. För odlingslandskapet är den fortsatta
 exploateringen av åkermark ett problem. En stor utmaning i Halland är liksom tidigare
 transportsektorn. Klimatgasutsläppen behöver minska betydligt snabbare och det behöver
@@ -14079,7 +14079,7 @@ I ”Planeringsinriktningar för utveckling av Väröbacka” (Varbergs kommun, 
 nedanstående styrdokument av särskild vikt för projektet:
 Varbergs vision – Västkustens kreativa mittpunkt (Antaget av kommunfullmäktige
 •
-2011)
+2011\)
 Hållbarhetsmål 2017-2025 – inriktningar för hållbarhetsarbetet i Varbergs kommun
 •
 (Antaget av kommunfullmäktige 2016)
@@ -14201,7 +14201,7 @@ egenskaper är värdefulla livsmiljöer för hotade djur eller växtarter. Bioto
 viktiga för vanligare arter, samt för omväxling i landskapet
 Vid de naturvärdesinventeringar som utförts i området ( (Calluna AB, 2020), (Calluna AB,
 2023), (MiNA natur AB, 2021)) har ett flertal generella biotopskydd identifierats. Se Bilaga 2-
-4. De utgörs av främst av stenmurar, diken i odlingslandskapet och odlingsrösen. Det kan
+4\. De utgörs av främst av stenmurar, diken i odlingslandskapet och odlingsrösen. Det kan
 finnas fler generella biotopskydd i de områden som inte inventerats och de kommer att
 identifieras och hanteras i kommande detaljplaner och bygglov.
 De objekt som omfattas av generellt biotopskydd är skyddade enligt 7 kapitlet miljöbalken
@@ -14510,14 +14510,14 @@ Historiskt har Värö varit en fördelaktig plats för tidig bosättning med bå
 utloppet och skärgårdslandskapet. Från bronsåldern (1700 f.Kr.) bör området ha blivit
 lämpat för jordbruk. (Stiftelsen Hallands Länsmuseer, 2022)
 I områ det syns tre huvudspår för traktens utveckling:
-1. Jordbruket började förändras i samband med laga skiftet på 1800-talet och
+1\. Jordbruket började förändras i samband med laga skiftet på 1800-talet och
 resulterade i ett storskaligt jordbrukslandskap under 1900-talet. I och med
 rationaliseringen har naturens egna processer till viss del anpassats till människans
 behov.
-2. Bilismen och infrastrukturens utveckling har kraftigt omformat landskapet under
+2\. Bilismen och infrastrukturens utveckling har kraftigt omformat landskapet under
 1900-talets senare del, exempelvis genom motorvägsutbyggnad och järnvägens
 utbyggnad till dubbelspår.
-3. Industrialiseringen i området har sedan slutet av 1960-talet präglat områdets
+3\. Industrialiseringen i området har sedan slutet av 1960-talet präglat områdets
 bebyggelseutveckling och landskapsbilden i området.
 Nummer 2 och 3 samspelar eftersom bebyggelsens utveckling och utbyggnad av vägar och
 gator hänger tätt samman. I Limabacka ser man särskilt hur den ökade trafiken resulterat i
@@ -14599,7 +14599,7 @@ Länsmuseer, 2022)
 <!-- sida 335 -->
 
 Figur 28. Delområde 3 med potentiella fornlämningsytor. Skala 1:5000. (Stiftelsen Hallands Länsmuseer,
-2022)
+2022\)
 
 42
 
@@ -15348,18 +15348,18 @@ för aktiviteter, upplevelser och biologisk mångfald i Varbergs kommun” har V
 kommun (2013) formulerat fem delstrategier för att ta vara på den potential och alla de
 •  Vatten
 möjligheter som landskapet, bebyggelsen och natur- och kulturmiljöerna erbjuder.
-- i Grönstrategin för vatten beskrivs att kusten ska vara tillgänglig för alla
+\- i Grönstrategin för vatten beskrivs att kusten ska vara tillgänglig för alla
 samt strandliv och badkulturen ska utvecklas. Kommunen vill i sin planering se vatten
 som en tillgång och göra det möjligt att röra sig längs vattendrag och utveckla
 •  Förtäta med grönt
 biologiska värden både under ytan och på stranden.
-- kommunen beskriver att de genom förtätning vill utveckla nya
+\- kommunen beskriver att de genom förtätning vill utveckla nya
 grönytor med upplevelser och aktiviteter samt biologiska värden. Dom vill planera för
 nya mötespunkter, platser och områden samt utnyttja befintliga ekosystemtjänster
 och skydda grönområden med höga natur- och rekreationsvärden. Mark som förloras
 •  Variationsrikt landskap
 vid byggnation ska ersättas.
-- kommunen vill bevara och utveckla ett variationsrikt
+\- kommunen vill bevara och utveckla ett variationsrikt
 landskap, med olika landskapstyper, karaktärer och biotoper. Kommunen vill
 utveckla utflyktsområden men samtidigt göra plats för hotade arter och biotoper
 samt anpassa naturvård efter behov.
@@ -15367,11 +15367,11 @@ samt anpassa naturvård efter behov.
 <!-- sida 353 -->
 
 •  Till fots och till rörelse
-- kommunen vill göra utemiljöer mer tillgängliga. De vill
+\- kommunen vill göra utemiljöer mer tillgängliga. De vill
 skapa lekfulla miljöer och arbeta minska barriärer av infrastruktur så att mer natur
 •  Du kan du får du vågar
 tillgängliggörs.
-- Kommunen vill ge invånare möjlighet att vara med och
+\- Kommunen vill ge invånare möjlighet att vara med och
 påverka sin omgivning. Man vill arbeta med att göra utemiljöer mer välkomnande
 blanda aktiviteter för olika målgrupper. Kommunen vill experimentera med att skapa
 tillfällig arkitektur samt ge rum för konst och moderna traditioner i den offentliga
@@ -15501,7 +15501,7 @@ rinner ut i Hallands kustvatten. Se Figur 35.
 har måttlig ekologisk status och uppnår god kemisk status med undantag för
 bromfenyleter, kvicksilver och kvicksilverföreningar. Kvalitetskrav är god ekologisk status till
 Viskan
-2033.
+2033\.
 har god ekologisk status och uppnår god kemisk status med undantag för
 Klosterfjorden
 bromfenyleter, kvicksilver och kvicksilverföreningar.
@@ -15910,7 +15910,7 @@ Västkustbanan se Figur 45 och Tabell 2 (Norconsult AB, 2023)
 <!-- sida 369 -->
 
 Figur 45. Rekommenderade basavstånd för utformning av området kring Västkustbanan. (Norconsult AB,
-2023)
+2023\)
 
 Tabell 2. Redovisning av Basavstånd/reducerat avstånd för respektive typbebyggelse. Avstånd räknas från
 närmaste räls. (Norconsult AB, 2023).
@@ -16055,8 +16055,8 @@ Ljudnivå utomhus vid fasad 601       -
 (frifältsvärde)
 Ljudnivå utomhus vid uteplats i 50   702
 anslutning till bostad
-1) För bostäder om högst 35 m2 är riktvärdet vid fasad 65 dBA.
-2) Värdet får överskridas 5 gånger per timme mellan kl. 06 och 22, dock aldrig med mer än 10 dBA.
+1\) För bostäder om högst 35 m2 är riktvärdet vid fasad 65 dBA.
+2\) Värdet får överskridas 5 gånger per timme mellan kl. 06 och 22, dock aldrig med mer än 10 dBA.
 I de fall då värdet 60 dBA vid fasad ändå överskrids bör minst hälften av en bostads
 bostadsrum vara vända mot en sida där ekvivalent ljudnivån och maximal ljudnivå vid
 Riktvärden befintliga bostäder
@@ -16071,12 +16071,12 @@ följande ljudnivåer underskridas, se Tabell 4.
 Tabell 4 Riktvärden för buller från väg- och spårtrafik utomhus vid befintliga bostäder.
 Bostads fasad Bostads uteplats Bostads uteplats
 (Leq24h)     (Leq24h)       (Lmax)
-Vid väg    55 dBA       ~55 dBA2       70 dBA1
+Vid väg    55 dBA       \~55 dBA2       70 dBA1
 
 Vid spår   60 dBA       55 dBA         70 dBA1
 
-1) Tidsvägning Fast. Får överskridas max 5 gånger per genomsnittlig maxtimme dag och kväll (mellan kl. 06 och 22).
-2) Propositionen har inte någon angivelse för ekvivalent nivå för buller från vägtrafik vid uteplats.
+1\) Tidsvägning Fast. Får överskridas max 5 gånger per genomsnittlig maxtimme dag och kväll (mellan kl. 06 och 22).
+2\) Propositionen har inte någon angivelse för ekvivalent nivå för buller från vägtrafik vid uteplats.
 Riktvärden parker och grönområden
 
 För parker och grönområden finns det inga fastställda rekommendationer eller riktlinjer som
@@ -16249,16 +16249,16 @@ De områden som påverkas av höga havsnivåer ligger främst utanför de områd
 planeras för ny bebyggelse. De är huvudsakligen den befintliga jordbruksmarken och
 naturområden som kan komma att drabbas enligt denna analys från Scalgo Live. Fem olika
 områden har pekats ut som större riskområden.
-1. Befintlig järnvägsräls söderut från nya stationsområdet och vidare över Viskan ligger
+1\. Befintlig järnvägsräls söderut från nya stationsområdet och vidare över Viskan ligger
 under planeringsnivån för höjda havsnivåer.
 
-2. Industrimark där det planeras massupplagg med trä och virke beräknas påverkas av
+2\. Industrimark där det planeras massupplagg med trä och virke beräknas påverkas av
 framtida höjda havsnivåer.
-3. Industriområde i nordvästra delen beräknas bli utsatt område för översvämningar.
+3\. Industriområde i nordvästra delen beräknas bli utsatt område för översvämningar.
 Ska området bebyggas behöver åtgärder göras alternativt anpassa höjdsättning av
 mark här.
 
-4. Västra delarna av de planerade bostadsområdena vid punkt 5 a) och b) beräknas
+4\. Västra delarna av de planerade bostadsområdena vid punkt 5 a) och b) beräknas
 kunna få översvämningsproblematik. Marken bör antingen anpassas genom lämplig
 höjdsättning, alternativt ej bebyggas med bostäder inom rödmarkerade områden i
 figuren. Marken kan istället användas för mindre typ av känslig bebyggelse, såsom en
@@ -16433,16 +16433,16 @@ För Varbergs kommun finns lokala hållbarhetsmål för perioden 2017–2025 (Va
 kommun, 2014). Följande mål har kommunen valt att rikta in sig på och arbeta mer fokuserat
 •  Livskraftiga ekosystem
 med:
-- Naturen med sin fantastiska mångfald och myller av liv ska
+\- Naturen med sin fantastiska mångfald och myller av liv ska
 värnas för sitt egenvärde och för människans skull. Varberg ska långsiktigt bevara och
 stärka de lokala ekosystemen och verka för ett hållbart nyttjande av
 •  Hållbar resursanvändning
 ekosystemtjänster globalt.
-- I Varberg ska vi leva resurssnålt och sträva efter slutna
+\- I Varberg ska vi leva resurssnålt och sträva efter slutna
 kretslopp. Resursanvändning ska ske med minsta möjliga miljöpåverkan i ett
 •  Välmående samhälle
 livscykelperspektiv.
-- I Varberg ska ges förutsättningar för människor att må bra. Vi
+\- I Varberg ska ges förutsättningar för människor att må bra. Vi
 tar ett gemensamt ansvar för att vår välfärd och samhällsutveckling inte sker på
 bekostnad av andra människor eller miljön.
 7.3  PÅVERKAN PÅ MILJÖKVALITETSNORMER
@@ -16917,7 +16917,7 @@ men de är inte de dominerande källorna till buller från väg. Då järnvägen
 stort område ställs en del krav på utformningen av Väröbacka. Eventuella förändringar i
 järnvägstrafiken som utbyggnad av spår kan kräva bulleråtgärder för befintliga bostäder.
 Med noggrann planering och utformning anve oumtrraåld keotn gsöekrsv ei nbsu flölerr buutrlleedr.n ingen (Efterklang ,
-2023) bedömningen att det ändå finns goda förutsättningar för att riktlinjerna för trafikbuller
+2023\) bedömningen att det ändå finns goda förutsättningar för att riktlinjerna för trafikbuller
 iKnlnimehaåtallnsp. Palsasnnfiönrgs laget bedöms därför ha
 Planområdet riskerar att vid skyfall drabbas av översvämningar i de lågpunkter och lågstråk
 som finns i och i områdets närhet. Stora delar av planområdet kommer också påverkas av
@@ -17021,12 +17021,12 @@ Kulturmiljö Halland. (2023).
 Riskanalys av transport av farligt gods i Hallands län.
 Länsstyrelsen Hallands län. (2011).                 Hämtat från
 Grön infrastruktur - Regional handlingsplan för Hallands län,
-https://www.lansstyrelsen.se/publikation?entry=_2011_19&context=24
+https://www.lansstyrelsen.se/publikation?entry=\_2011_19&context=24
 version 1.
 Länsstyrelsen Hallands län. (2018).
 Hämtat från
 Energi- och klimatstrategi för Hallands län.
-https://www.lansstyrelsen.se/publikation?entry=N_2018__1&context=24
+https://www.lansstyrelsen.se/publikation?entry=N_2018\_\_1&context=24
 Länsstyrelsen Hallands län. (2019).           Hämtat från
 Klimat- och sårbarhetsanalys för Hallands län.
 https://www.lansstyrelsen.se/publikation?entry=N_2019_22&context=24
@@ -17038,7 +17038,7 @@ transporter av farligt gods samt bensinstationer.
 Länsstyrelsen Stockholms län. (2000).
 Hämtat från
 Kartor och underlag för planeringsarbete
-https://www.lansstyrelsen.se/publikation?entry=_2000__11&context=39
+https://www.lansstyrelsen.se/publikation?entry=\_2000\_\_11&context=39
 Länsstyrelsen Västra Götaland. (den 15 12 2021).     . Hämtat
 från Länsstyrelsen Västra Götaland: https://www.lansstyrelsen.se/vastra-
 gotaland/samhalle/planering-och-byggande/gron-infrastruktur/kartor-och-underlag-for-
@@ -17206,11 +17206,11 @@ identifiera insatsområden och åtgärder samt beskriva vilken uppföljning som 
 årsvis.
 
 Programmet syftar till att stärka tillgänglighet till kommersiell service genom att:
--  Prioritera insatser i serviceglesa områden på landsbygden.
+\-  Prioritera insatser i serviceglesa områden på landsbygden.
 
--  Informera om de olika stödformerna som finns tillgängliga att söka och vad
+\-  Informera om de olika stödformerna som finns tillgängliga att söka och vad
 som prioriteras i det politiska beslutsfattandet vid ansökan om stöd.
--  Öka samsyn och möjlighet att samverka mellan nationella, regionala,
+\-  Öka samsyn och möjlighet att samverka mellan nationella, regionala,
 kommunala och lokala aktörer.
 
 Målet är att det ska finnas en grundläggande nivå av kommersiell service i hela länet.
@@ -17577,17 +17577,17 @@ Stödformer     för dig  som   bedriver    kommersiell
 
 service  på   landsbygd
 
-1. Särskilt driftstöd
+1\. Särskilt driftstöd
 Stöd till dig som driver en dagligvarubutik med lägre omsättning i ett
 
 område där servicen är gles. Stödet kan sökas årligen.
-2. Servicebidrag
+2\. Servicebidrag
 Stöd som kan lämnas till företag med dagligvarubutik eller
 drivmedelstation i områden där servicen är gles. Bidrag lämnas om
 
 företaget har drabbats av tillfälliga problem med lönsamheten och
 andra åtgärder har varit otillräckliga.
-3. Investeringsstöd
+3\. Investeringsstöd
 
 Stöd till investeringar i syfte att bibehålla och utveckla servicen.
 Detta kan exempelvis användas för ombyggnad av lokaler eller för
@@ -17676,13 +17676,13 @@ försäljningsställe.
 Företaget har fasta lokaler.
 Stödet får enbart användas till utgifter för:
 
-- inköp av inredning eller utrustning,
-- anskaffning, ny-, till- eller ombyggnad av lokal och i direkt anslutning
+\- inköp av inredning eller utrustning,
+\- anskaffning, ny-, till- eller ombyggnad av lokal och i direkt anslutning
 till lokalen.
-- större reparation av lokal.
+\- större reparation av lokal.
 
-- kompetensinsatser för anställda.
-- och åtgärdsprogram som förbättrar lönsamhet.
+\- kompetensinsatser för anställda.
+\- och åtgärdsprogram som förbättrar lönsamhet.
 
 Regionala    prioriteringar     vid beslut   för ansökan
 om   investeringsstöd
@@ -17708,9 +17708,9 @@ regionala och nationella långsiktiga mål.    strategiska skäl är
 betydelsefulla, ska
 Regionen bedömer:
 prioriteras.
-- Avstånd till närmsta alternativa service
-- Verksamhetens omsättning
-- Investeringens förväntade effekter
+\- Avstånd till närmsta alternativa service
+\- Verksamhetens omsättning
+\- Investeringens förväntade effekter
 Bemannade och obemannade butiker bedöms på olika grunder. Se mer på
 sida 12.
 
@@ -17733,7 +17733,7 @@ ligger i glesare landsbygd.
 
 drivmedelsstationer ej prioriterade.
 
-> 10 km: högt prioriterat för både dagligvarubutiker och
+\> 10 km: högt prioriterat för både dagligvarubutiker och
 drivmedelsstationer.
 
 Verksamhetens     omsättning
@@ -17746,7 +17746,7 @@ investeringsstöd. De verksamheter som har över 40 miljoner kronor i
 
 omsättning förväntas kunna göra fler investeringar på egen hand.
 
-> 40 miljoner kronor: prioritet låg
+\> 40 miljoner kronor: prioritet låg
 
 15–40 miljoner kronor: prioritet medel
 
@@ -17813,11 +17813,11 @@ karaktär. Obemannade butiker ses som ett komplement till de
 bemannade. För att obemannade butiker inte ska konkurrera med
 bemannade  butiker handläggs ansökningar på följande vis:
 
--  Driver du en obemannad butik kommer avstånd till närmsta
+\-  Driver du en obemannad butik kommer avstånd till närmsta
 alternativa butik räknas till närmsta bemannade såväl som
 obemannade  butik
 
--  Driver du en bemannad butik räknas inte avståndet till
+\-  Driver du en bemannad butik räknas inte avståndet till
 närliggande obemannade butiker, utan till närmsta alternativa
 bemannade  butik.
 
@@ -18558,13 +18558,13 @@ Regionalt serviceprogram Halland 2026–2030 29
 
 <!-- sida 436 -->
 
-1. Nyetablering, eller förhindrar eventuell nedläggning av en
+1\. Nyetablering, eller förhindrar eventuell nedläggning av en
 butik – En huvudsaklig prioritering eftersom det är grunden i att
 skapa hög tillgänglighet till service. Genom att stötta
 
 nyetableringar och förhindra nedläggningar blir Halland en
 region med fler servicepunkter.
-2. Nya serviceslag eller stärkt kommersiell service – En
+2\. Nya serviceslag eller stärkt kommersiell service – En
 huvudsaklig prioritering eftersom det är grunden i att skapa ett
 
 bättre utbud av kommersiell service. De butiker som redan är
@@ -18572,30 +18572,30 @@ verksamma ska kunna söka stöd för att ta nästa steg och
 utveckla sitt utbud av service för att gynna kunderna som bor,
 
 lever och verkar i Halland.
-3. Miljömässig hållbarhet – En hög prioritering. Halland ska växa
+3\. Miljömässig hållbarhet – En hög prioritering. Halland ska växa
 hållbart och stöd bör därmed beviljas för investeringar som bland
 annat bidrar till att minska utsläpp av växthusgaser och minskar
 
 energianvändning.
-4. Social hållbarhet – En hög prioritering. Halland ska växa hållbart
+4\. Social hållbarhet – En hög prioritering. Halland ska växa hållbart
 och stöd bör därmed beviljas till investeringar som bidrar till
 social hållbarhet. Bland annat genom att skapa sociala
 
 mötesplatser samt om särskilda grupper påverkas positivt av
 investeringen.
-5. Besöksnäringssynpunkt – Investeringar som stärker de
+5\. Besöksnäringssynpunkt – Investeringar som stärker de
 
 halländska landsbygderna som besöksdestination prioriteras för
 att gynna samhället och besöksnäringen runtomkring
 servicepunkten.
-6. Beredskapssynpunkt – Investeringar som stärker de halländska
+6\. Beredskapssynpunkt – Investeringar som stärker de halländska
 
 landsbygderna ur ett beredskapsperspektiv prioriteras för att
 bättre kunna möta kriser.
-7. Innovativa lösningar – Investeringar som är kreativa och
+7\. Innovativa lösningar – Investeringar som är kreativa och
 
 nytänkande prioriteras för att främja innovation.
-8. Kompetens inom  verksamheten – Investeringar som bidrar till
+8\. Kompetens inom  verksamheten – Investeringar som bidrar till
 att höja kompetensen inom verksamheten prioriteras för att
 personal ska kunna utbildas och på så sätt leverera bättre
 
@@ -19246,7 +19246,7 @@ Länsstyrelsens beslut 2025-07-15, dnr 5072-2025, bilaga 1
 SAKEN
 Upphävande av allmänna lokala ordningsföreskrifter enligt ordningslagen
 (1993:1617), förkortad OL
-_____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 FÖRVALTNINGSRÄTTENS  AVGÖRANDE
 
@@ -19618,7 +19618,7 @@ Länsstyrelsen begär, med stöd av 2 § andra stycket förordningen
 meddela lokala föreskrifter enligt ordningslagen, att detta beslut
 anslås på kommunens anslagstavla enligt 8 kap. 9-11 §§ kommunal-
 lagen (2017:725). Beslutet ska vara anslaget till och med den 5 augusti
-2025.
+2025\.
 
 Beskrivning av ärendet
 
@@ -19824,17 +19824,17 @@ och säkerhet på offentliga platser m.m.
 
 Av 1 kap. 2 § OL framgår att med offentlig plats avses:
 
-1. allmänna vägar,
+1\. allmänna vägar,
 
-2. gator, vägar, torg, parker och andra platser som i detaljplan
+2\. gator, vägar, torg, parker och andra platser som i detaljplan
 
 redovisas som allmän plats och som har upplåtits för sitt ändamål,
 
-3. områden som i detaljplan redovisas som kvartersmark för
+3\. områden som i detaljplan redovisas som kvartersmark för
 hamnverksamhet, om de har upplåtits för detta ändamål och är
 tillgängliga för allmänheten, samt
 
-4. andra landområden och utrymmen inomhus som stadigvarande
+4\. andra landområden och utrymmen inomhus som stadigvarande
 
 används för allmän trafik.
 
@@ -19985,7 +19985,7 @@ Kungsbacka stad
 No
 id ZrN
 
-- Lunden
+\- Lunden
 
 <!-- sida 468 -->
 
@@ -20007,11 +20007,11 @@ Bilaga 2
 
 Hur man  överklagar
 FR-03
-________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3. Tala om vilka bevis du vill hänvisa till.
+3\. Tala om vilka bevis du vill hänvisa till.
 Förklara vad du vill visa med varje bevis.
 Överklaga skriftligt inom 3 veckor
 Skicka med skriftliga bevis som inte redan
@@ -20089,7 +20089,7 @@ T
 handlingar i målet vidare till kammarrätten.
 P
 v
--
+\-
 3
 d ite  Så här gör du                      Har du tidigare fått brev genom förenklad
 d n                                       delgivning kan även kammarrätten skicka brev
@@ -20185,7 +20185,7 @@ T
 •
 P
 v
--
+\-
 3
 d
 ite
@@ -21196,7 +21196,7 @@ Nämnden för Kultur & Fritid föreslår att 640 000 kronor avseende tilläggsan
 brottsförebyggande verksamhet ombudgeteras till 2026 då tjänsten som samordnare varit vakant under
 del av året.
 Kommunstyrelsens förvaltning föreslår att det inte ombudgeteras då det är ett engångsanslag under
-2025.
+2025\.
 
 Kommunstyrelsens förvaltning föreslår att allt från lokalplanen återredovisas förutom 1 260 000 kronor
 som ombudgeteras till 2026 för kommande engångskostnader i lokalplanen.
@@ -21247,7 +21247,7 @@ I samband med bokslutet för 2025 finns pågående investeringsprojekt i lokalpl
 under 2026. Nämnden för Service föreslår ombudgetering av pågående lokalprojekt med 208 251 000
 kronor 2026. Dessa består främst av bland annat Arenan och Räddningstjänsten Klovsten. Nämnden för
 Kultur & Fritid önskar ombudgetering av konstnärlig gestaltning i lokaler med 852 000 kronor för år
-2026. Inom lokalplansbudget ingår centralt kvarstående medel om 1 300 000 kronor som avser
+2026\. Inom lokalplansbudget ingår centralt kvarstående medel om 1 300 000 kronor som avser
 Naturum Fjärås Bräcka och tillfälliga medel som avser centralförråd grundutrustning hjälpmedel.
 Total önskad ombudgetering och omplanering för lokaler till år 2026 är därmed 210 403 000 kronor.
 
@@ -21274,7 +21274,7 @@ kronor ombudgeteras till 2027.
 Exploateringar
 Omplanering av exploateringsverksamheten visar en förändrad budget med netto -37 469 000 kronor år
 
-2026. Den största avvikelsen i jämförelse med årsbudgeten 2026 beror på tidsförskjutning i
+2026\. Den största avvikelsen i jämförelse med årsbudgeten 2026 beror på tidsförskjutning i
 genomförandet i projekten Hedeleden, Klovsten, Tölö ängar syd, Frillesås Rya och Björkris etapp 2.
 Kommunstyrelsens förvaltning föreslår en förändrad budget med netto -37 469 000 kronor år 2026.
 
@@ -21304,7 +21304,7 @@ Delsumma  1 343 685  353 172    -4 000  - 156 202 1 540 655 70 622
 Exploateringsinvesteringar
 och omsättningstillgångar 128 362 -37 469                 90 893
 SUMMA    1 472 047  315 703    -4 000   -156 202 1 631 548 70 622
-*Exploateringserättningar redovisas som en intäkt det år de uppkommer i enlighet med gällande redovisningsregler.
+\*Exploateringserättningar redovisas som en intäkt det år de uppkommer i enlighet med gällande redovisningsregler.
 Rickard Vidlund               Anders Johansson
 Kommundirektör                Biträdande kommundirektör
 
@@ -21799,12 +21799,12 @@ S kattefinansierade verksam heter:
 81 Individ & Fam iljeom sorg
 85 V ård & O m sorg
 S um m a skattefinansierat
-A ffärsdrivande verksam heter (*fakt. utfall):
+A ffärsdrivande verksam heter (\*fakt. utfall):
 60 S erviceverksam het-budgetavvikelse
 63 S ervice F astighet
-T eknisk verksam het -V A *
-"  - A vfall återvinning.*
-"  - B redband*
+T eknisk verksam het -V A \*
+"  - A vfall återvinning.\*
+"  - B redband\*
 S um m a affärsdrivande
 91 Finans E xploatering
 95 Finans V erksam het
@@ -22383,7 +22383,7 @@ Kommunfullmäktige beslutar att de laddningsstationer, som i dag finns inom näm
 
 verksamhet, i första hand avyttras, och i andra hand avvecklas.
 Kommunfullmäktige ger nämnden för Teknik i uppdrag att verkställa beslutet före den 1 december
-2026.
+2026\.
 
 Kommunfullmäktige ger nämnden för Teknik i uppdrag att etablera en digital tjänst (e-tjänst) där
 privata aktörer kan ansöka om möjlighet att etablera laddningsstationer på allmänplats med kommunalt
@@ -22675,7 +22675,7 @@ Beskrivning av ärendet
 Bakgrund
 
 Förvaltningen för Teknik fick i uppdrag att etablera laddinfrastruktur i kommunen mellan åren 2016 till
-2018. Därefter har utvecklingen av den publika laddinfrastrukturen bromsat in och under de senaste åren
+2018\. Därefter har utvecklingen av den publika laddinfrastrukturen bromsat in och under de senaste åren
 har enbart ett fåtal publika laddpunkter etablerats i kommunal regi.
 
 Nuläge
@@ -22951,7 +22951,7 @@ frågeställningen till om det är förvaltningen för Teknik eller privata akt�
 laddningsstationer i kommunen framöver? Syftet med rapporten är att beskriva nuläget, möjliga
 
 Strategi för utbyggnad och förvaltning samt det ekonomiska perspektivet.
-__________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Figur för begreppsförtydligande
 
@@ -23084,19 +23084,19 @@ kommun bor ca 67 % av invånarna i eget hus och kan därmed installera en egen l
 till sitt hus1.
 Utvecklingen och etableringen av publik laddinfrastruktur är viktig för:
 
--  De som inte har möjlighet till en egen laddbox vid sitt boende
--  De som laddar under tiden de arbetar
--  Samtliga elbilsägare att kunna stödladda vid behov
+\-  De som inte har möjlighet till en egen laddbox vid sitt boende
+\-  De som laddar under tiden de arbetar
+\-  Samtliga elbilsägare att kunna stödladda vid behov
 
 PUBLIK LADDINFRASTRUKTUR I KUNGSBACKA STAD IDAG
 
--  Orange punkter – 32 stycken. Kommunens publika laddningspunkter med 3,7–22 kW
+\-  Orange punkter – 32 stycken. Kommunens publika laddningspunkter med 3,7–22 kW
 
 laddeffekt. De ljusorangea har låg laddeffekt, 3,7 kW, de orangea har en laddeffekt på 11 kW
 eller 22 kW (AC-laddare).
--  Blå punkt – 1 styck. Kommunens publika snabbladdningsstation med 50 kW laddeffekt (DC-
+\-  Blå punkt – 1 styck. Kommunens publika snabbladdningsstation med 50 kW laddeffekt (DC-
 laddare)
--  Lila punkter – 6 stycken. Snabbladdningsstationer som aktörer anlagt på privata
+\-  Lila punkter – 6 stycken. Snabbladdningsstationer som aktörer anlagt på privata
 fastighetsägares mark, såsom Circle K, Recharge McDonalds Onsalamotet, OKQ8, Allego
 
 Hedebrovägen och Vattenfall Hede Kungsbacka (150–300 kW)
@@ -23142,12 +23142,12 @@ AFIR som är det nya EU-regelverket för publik laddinfrastruktur började skarp
 och innebär bland annat en ambitionshöjning inom EU och kommer att reglera utbyggnaden av
 laddinfrastruktur.
 
-- Krav på en successiv utbyggnad av laddningsstationer för både lätta och tunga fordon längs de stora
+\- Krav på en successiv utbyggnad av laddningsstationer för både lätta och tunga fordon längs de stora
 vägarna
-- Krav på att alla nya publika laddare ska möjliggöra AdHoc-laddning (kunden ska kunna ladda utan att
+\- Krav på att alla nya publika laddare ska möjliggöra AdHoc-laddning (kunden ska kunna ladda utan att
 behöva teckna avtal)
-- Krav på kortbetalning för nya snabbladdare
-- För nya laddningsstationer under 50 kW kan andra elektroniska, säkra betallösningar tillåtas3.
+\- Krav på kortbetalning för nya snabbladdare
+\- För nya laddningsstationer under 50 kW kan andra elektroniska, säkra betallösningar tillåtas3.
 
 PRIVAT MARK
 
@@ -23412,7 +23412,7 @@ KONSEKVENSER
 
 14
 
-- Kan gå i konkurs, avveckla eller på annat sätt
+\- Kan gå i konkurs, avveckla eller på annat sätt
 upphöra med att leverera tjänsten.
 KONSEKVENSER
 
@@ -23585,38 +23585,38 @@ KOMPLETTERANDE     INFORMATION     OM  STRATEGIERNA
 STRATEGI 1
 
 Arbetsuppgifter för Teknik
--  Arbeta med utveckling och förnyelse av den befintliga laddinfrastrukturen
--  Planera utbyggnaden av laddinfrastruktur i kommunen. Utreda strategiska och lämpliga
+\-  Arbeta med utveckling och förnyelse av den befintliga laddinfrastrukturen
+\-  Planera utbyggnaden av laddinfrastruktur i kommunen. Utreda strategiska och lämpliga
 
 platser för ny laddinfrastruktur i kommunen närmare
--  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
--  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
+\-  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
+\-  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
 laddtaxa, höja eller sänka
--  Ansöka om kapacitetsutredning för varje plats där kommunen vill etablera en laddningsstation
+\-  Ansöka om kapacitetsutredning för varje plats där kommunen vill etablera en laddningsstation
 
--  Ansvara för etablering av ny laddinfrastruktur för varje specifik plats
--  Kartportalen, uppdatera med ny laddinfrastruktur
--  Klimatklivet, ansöka om bidrag för ny publik laddinfrastruktur
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Ansvara för etablering av ny laddinfrastruktur för varje specifik plats
+\-  Kartportalen, uppdatera med ny laddinfrastruktur
+\-  Klimatklivet, ansöka om bidrag för ny publik laddinfrastruktur
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet
 
--  Arbetsuppgifter motsvarande 100 % av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 100 % av en heltidstjänst.
 
 STRATEGI 2
 
 Arbetsuppgifter för Teknik
--  Upphandling av befintlig laddinfrastruktur och etablering av ny laddinfrastruktur på strategiska
+\-  Upphandling av befintlig laddinfrastruktur och etablering av ny laddinfrastruktur på strategiska
 och lämpliga platser
--  Utreda strategiska och lämpliga platser närmare
--  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
+\-  Utreda strategiska och lämpliga platser närmare
+\-  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
 
--  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
+\-  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
 ansökningsbara platser för etablering av ny laddinfrastruktur
--  Hantera ansökningarna inkomna ansökningar
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Hantera ansökningarna inkomna ansökningar
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet
 
--  Arbetsuppgifter motsvarande 50 % av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 50 % av en heltidstjänst.
 
 Ny laddinfrastruktur
 Förvaltningen för Tekniken går ut med en upphandling på specifika platser och hur många
@@ -23650,30 +23650,30 @@ Färger i kartan vad som är ledigt och ansökningsbart samt vilka platser som �
 STRATEGI 3
 
 Arbetsuppgifter för Teknik
--  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
--  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
+\-  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
+\-  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
 laddtaxa, höja eller sänka
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet.
--  Arbetsuppgifter motsvarande 30% av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 30% av en heltidstjänst.
 
 STRATEGI 4
 
 Arbetsuppgifter för Teknik
--  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
--  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
+\-  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
+\-  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
 laddtaxa, höja eller sänka
--  Utreda strategiska och lämpliga platser närmare
--  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
--  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
+\-  Utreda strategiska och lämpliga platser närmare
+\-  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
+\-  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
 
 ansökningsbara platser för etablering av ny laddinfrastruktur
--  Hantera ansökningarna och driva processen framåt
--  Koppla ihop aktören med rätt elnätsägare
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Hantera ansökningarna och driva processen framåt
+\-  Koppla ihop aktören med rätt elnätsägare
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet
 
--  Arbetsuppgifter motsvarande 60% av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 60% av en heltidstjänst.
 
 “Stockholmsmodellen”
 I Stockholm kan aktörer ansöka om 30 platser per ansökan för att etablera laddinfrastruktur. Det finns
@@ -23887,14 +23887,14 @@ stiftelsen kan lösas upp med stöd av Stiftelselagen 6 kapitel, 5 §. Kommunen 
 förvaltare, besluta om att förbruka stiftelsens tillgångar för ändamålet om följande kriterier är
 uppfyllda:
 
-1. stiftelsen bildades för mer än 20 år sedan
-2. stiftelsen inte har kunnat främja sitt ändamål under de senaste fem åren,
+1\. stiftelsen bildades för mer än 20 år sedan
+2\. stiftelsen inte har kunnat främja sitt ändamål under de senaste fem åren,
 
-3. värdet av tillgångarna, värderade med tillämpning av 3 kap. 4 §, vid utgången av de tre
+3\. värdet av tillgångarna, värderade med tillämpning av 3 kap. 4 §, vid utgången av de tre
 senaste räkenskapsåren har understigit ett gränsbelopp som motsvarar tio gånger det då
 gällande prisbasbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, samt
 
-4. stiftelsen saknar skulder.
+4\. stiftelsen saknar skulder.
 Gällande stiftelsen Kapten Menns fond så har stiftelsen inte delat ut bidrag sedan 2010 och uppfyller
 även övriga tre kriterier enligt Stiftelselagen 6 kapitlet, 5 §. Fonden har inte delat ut medel trots att det
 funnits löpande avkastning som överstiger förvaltningskostnaderna och att det funnits fritt eget kapital
@@ -24150,10 +24150,10 @@ Policyn har en ny inledande mening som lyder: Kungsbacka kommuns Policy för ink
 dokument som omfattar alla inköp i kommunen och innebär att:
 
 Därefter följer de övergripande principer eller förhållningssätt som ska vägleda verksamheten.
-- I första punkten föreslås en mindre språklig justering som innebär att medverka till att ändras till
+\- I första punkten föreslås en mindre språklig justering som innebär att medverka till att ändras till
 bidrar till att.
 
-- I sista punkten föreslås ett tillägg som innebär att långsiktiga affärsrelationer ändras till
+\- I sista punkten föreslås ett tillägg som innebär att långsiktiga affärsrelationer ändras till
 långsiktiga och sunda affärsrelationer.
 
 <!-- sida 584 -->
@@ -24172,12 +24172,12 @@ inköpsverksamhet.
 
 Ansvarsfördelningen mellan inköpsverksamheten på Service och berörda nämnder och förvaltningar
 har förtydligats på så sätt att dokumentet anger:
--  inköpsverksamhetens samordnande ansvar
+\-  inköpsverksamhetens samordnande ansvar
 
--  nämndernas ansvar för planering, behovsanalys och uppföljning
--  chefers ansvar för att avtal efterlevs
+\-  nämndernas ansvar för planering, behovsanalys och uppföljning
+\-  chefers ansvar för att avtal efterlevs
 
--  medarbetares ansvar att använda gällande avtal
+\-  medarbetares ansvar att använda gällande avtal
 Vidare har skrivningarna om arbete med hållbarhet i inköp utvecklats genom att ekonomiska,
 
 ekologiska och sociala aspekter tydligare lyfts fram som principer i inköpsprocessen.
@@ -24186,13 +24186,13 @@ på planering, behovsanalys och uppföljning av avtal samt nya skrivningar om le
 och uppföljning i syfte att stärka arbetet mot oegentligheter och välfärdsbrott.
 
 Inom dessa områden tydliggörs bland annat:
-- att det är krav på dokumenterad riskanalys inför varje upphandling,
+\- att det är krav på dokumenterad riskanalys inför varje upphandling,
 
-- hur riskanalysen ska vara styrande för kravställning, kontroller och uppföljning,
-- att det ska genomföras systematiska leverantörskontroller i alla inköp för att motverka
+\- hur riskanalysen ska vara styrande för kravställning, kontroller och uppföljning,
+\- att det ska genomföras systematiska leverantörskontroller i alla inköp för att motverka
 oegentligheter och välfärdsbrott,
 
-- att det är ett krav att planera och dokumentera avtalsuppföljning utifrån avtalets risk och betydelse.
+\- att det är ett krav att planera och dokumentera avtalsuppföljning utifrån avtalets risk och betydelse.
 
 Förändringar i Riktlinjer för direktupphandling
 De föreslagna förändringarna i Riktlinjer för direktupphandling innebär framför allt en tydligare
@@ -24494,11 +24494,11 @@ dignitet ge vika för den med högre dignitet.
 
 Om regler eller principer står i konflikt med varandra gäller följande ordning i dignitet:
 
-1. Lagar och andra författningar.
+1\. Lagar och andra författningar.
 
-2. Etiska principer och fackmässighet.
+2\. Etiska principer och fackmässighet.
 
-3. Kommunens organisatoriska värden.
+3\. Kommunens organisatoriska värden.
 
 Kungsbacka kommun              Riktlinjer för inköp            2 (10)
 
@@ -25015,7 +25015,7 @@ föreslagna insatsen bedöms få liten praktisk användning.
 Sammanfattning av ärendet
 Carita Boulwén (SD), Elisabeth Svensson (SD) och Mats Dahl (SD) skickade den 1
 september 2025 in en motion som anmäldes i kommunfullmäktige den 9 september
-2025. Kommunfullmäktige remitterade vid samma sammanträde, motionen till
+2025\. Kommunfullmäktige remitterade vid samma sammanträde, motionen till
 kommunstyrelsen för beredning.
 
 Motionärerna vill att nämnden för Individ & Familjeomsorg ska få i uppdrag att
@@ -25186,13 +25186,13 @@ behov av familjehemsplacering.
 För familjer som saknar tillräckligt stöd i sitt naturliga nätverk finns redan idag möjlighet att söka råd
 och stöd genom civilsamhällets organisationer, kommunens föräldrautbildningar samt socialtjänsten.
 Inom nämndens verksamhet erbjuds ett antal behovsanpassade insatser, däribland:
-- Föräldrarådgivning
-- Familjebehandling
-- Föräldrastöd
+\- Föräldrarådgivning
+\- Familjebehandling
+\- Föräldrastöd
 
-- Samtalsstöd till barn och unga
-- Kontaktperson
-- Kontaktfamilj
+\- Samtalsstöd till barn och unga
+\- Kontaktperson
+\- Kontaktfamilj
 
 Dessa insatser kan tillhandahållas både som frivilliga stödåtgärder utan behovsbedömning och som
 beslutade insatser efter utredning.
@@ -25237,14 +25237,14 @@ att utreda och komma med förslag på hur en verksamhet med Jourhavande föräld
 kan inrättas i Kungsbacka kommun.
 
 För den utredningen föreslås:
-- Att utredningen särskilt ska belysa hur modellen kan fungera som alternativ till
+\- Att utredningen särskilt ska belysa hur modellen kan fungera som alternativ till
 familjehemsplacering, med fokus på att barn ska kunna bo kvar i sin hemmiljö.
 
-- Att utredningen särskilt ska omfatta förslag på hur rekrytering och kvalitetssäkring
+\- Att utredningen särskilt ska omfatta förslag på hur rekrytering och kvalitetssäkring
 kan säkerställas, med rutiner för lämplighetsbedömning, registerkontroller,
 introduktionsutbildning och handledning för jourförälder.
 
-- Att möjligheten till samverkan med civilsamhället och ideella krafter beaktas.
+\- Att möjligheten till samverkan med civilsamhället och ideella krafter beaktas.
 
 Beslutsunderlag
 
@@ -25290,14 +25290,14 @@ beslutar att ge nämnden för Individ & Familjeomsorg i uppdrag att utreda och k
 hur en verksamhet med Jourhavande förälder kan inrättas i Kungsbacka kommun.
 
 För den utredningen föreslås:
--  Att utredningen särskilt ska belysa hur modellen kan fungera som alternativ till
+\-  Att utredningen särskilt ska belysa hur modellen kan fungera som alternativ till
 familjehemsplacering, med fokus på att barn ska kunna bo kvar i sin hemmiljö.
 
--  Att utredningen särskilt ska omfatta förslag på hur rekrytering och kvalitetssäkring kan
+\-  Att utredningen särskilt ska omfatta förslag på hur rekrytering och kvalitetssäkring kan
 säkerställas, med rutiner för lämplighetsbedömning, registerkontroller, introduktionsutbildning
 och handledning för jourförälder.
 
--  Att möjligheten till samverkan med civilsamhället och ideella krafter beaktas.
+\-  Att möjligheten till samverkan med civilsamhället och ideella krafter beaktas.
 
 Beslutsunderlag
 Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2025-11-26
@@ -25908,9 +25908,9 @@ Parkstad    (KS-2025-00630)
 
 Förslag till beslut i Nämnden för Teknik:
 
-1. Nämnden för Teknik föreslår kommunfullmäktige avslå motionen.
+1\. Nämnden för Teknik föreslår kommunfullmäktige avslå motionen.
 
-2. Nämnden för Teknik antar yttrandet som sitt eget och översänder det till
+2\. Nämnden för Teknik antar yttrandet som sitt eget och översänder det till
 kommunstyrelsen.
 
 Bakgrund
@@ -26143,7 +26143,7 @@ KUNGSBACKA  KOMMUN
 2 (2)
 
 Remittering av motion från Mats Ståhlberg (KB) om anläggande av hundrastgård i Kolla. KS 2025-
-00630.
+00630\.
 
 Beslutet skickas till
 
@@ -26274,7 +26274,7 @@ Yrkande
 
 Med stöd av ovanstående yrkar partiet Kungsbackaborna:
 
-- Att Kungsbacka kommun utreder förutsättningarna för att anlägga en hundrastgård i
+\- Att Kungsbacka kommun utreder förutsättningarna för att anlägga en hundrastgård i
 Kolla Parkstad och återkommer till kommunfullmäktige för beslut.
 
 För Kungsbackaborna
@@ -26505,11 +26505,11 @@ Därutöver styr även nämndernas skolmatsbeställningar samt kommunfullmäktig
 Services tillämpliga mål inom området.
 
 Mål och beslut som berör området är bland annat:
-- Kommunfullmäktiges mål att matens klimatpåverkan från de offentliga måltiderna ska minska
+\- Kommunfullmäktiges mål att matens klimatpåverkan från de offentliga måltiderna ska minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030. I sitt arbete följer nämnden för
 Service bland annat upp nyckeltal rörande matsvinn per portion.
 
-- Nämnden för Förskola & Grundskola beslutade den 17 maj 2023 att ta bort helvegetariska dagar i
+\- Nämnden för Förskola & Grundskola beslutade den 17 maj 2023 att ta bort helvegetariska dagar i
 skolan och förskolan så att elever alltid ska kunna välja på minst en rätt med animaliskt protein,
 företrädelsevis fisk, fågel, kött eller skaldjur.
 Förvaltningen för Service levererar åt Förskola & Grundskola cirka 13 300 luncher per dag, fördelat på
@@ -27174,7 +27174,7 @@ skola.
 
 Tjänsteskrivelse, 2025-10-20. Avskaffa religiöst motiverad specialkost i förskola och skola.
 Sverigedemokraternas motion, Avskaffa religiöst motiverad specialkost i förskola och skola, 2025-05-
-25.
+25\.
 Protokollsutdrag, kommunstyrelsens arbetsutskott 2025-08-12 § 212.
 1 (2)
 Kungsbacka kommun
@@ -27562,15 +27562,15 @@ Sverigedemokraterna  i Kungsbacka föreslår därför
 kommunfullmäktige   besluta att:
 
 Kommunen  ska inte erbjuda religiöst motiverad specialkost i
--
+\-
 kommunala förskolor och skolor.
 
 Berörda nämnder får i uppdrag att justera riktlinjerna för specialkost
--
+\-
 i enlighet med detta inför kommande läsår.
 
 Vårdnadshavare informeras om förändringen i god tid.
--
+\-
 
 Sverigedemokraterna Kungsbacka genom
 
@@ -27724,7 +27724,7 @@ Beskrivning av ärendet
 
 Christer Perfjell (KB) har inkommit med en motion om att behålla lokala VA-lösningar till dess att
 kommunen säkrat långsiktig VA-försörjning. Motionen anmäldes i kommunfullmäktige den 7 oktober
-2025.
+2025\.
 Kommunstyrelsens arbetsutskott remitterade motionen till nämnden för Teknik och nämnden för Miljö
 
 & Hälsoskydd den 4 november 2025 för beredning.

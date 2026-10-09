@@ -128,7 +128,7 @@ Sammanfattning av ärendet
 Kommunfullmäktige har avsatt särskilda medel i Kommunbudget 2026, plan 2027–2028 för trygg
 uppväxt. Beslutet grundar sig i den satsning som kommunfullmäktige beslutade om i Kommunbudget
 2026 om att tio miljoner kronor skulle reserveras för detta ändamål varje år under perioden 2026–
-2030.
+2030\.
 Nämnden för Kultur & Fritid har den 18 december 2025 kommit in med en begäran om att få ta del av
 3 000 000 kronor av dessa medel. Satsningen handlar om att nå barn och unga som redan är i, eller
 med risk att hamna i, kriminalitet och utanförskap, förstå och få syn på normbrytande beteenden och
@@ -245,16 +245,16 @@ finansieras genom att nämnden söker 3 000 000 kronor i bidrag från kommunstyr
 för ”En trygg uppväxt”.
 
 Alliansens satsningar för en trygg uppväxt:
-- nå barn och unga som idag inte använder våra verksamheter (1,4 mkr): förvaltningen ges i
+\- nå barn och unga som idag inte använder våra verksamheter (1,4 mkr): förvaltningen ges i
 
 uppdrag att starta ett arbete för att nå unga som redan är i, eller med risk att hamna i,
 kriminalitet eller utanförskap.
-- förstå och få syn på normbrytande beteenden och motverka dessa (500 tkr): förvaltningen ges i
+\- förstå och få syn på normbrytande beteenden och motverka dessa (500 tkr): förvaltningen ges i
 uppdrag att genomföra kompetenshöjande insatser kring normbrytande beteenden för
 
 medarbetare på mötesplatser för barn och ungdomar, samt genomföra kunskapshöjande
 insatser med och för ungdomar kring normbrytande beteenden.
-- minska utanförskapet, oavsett anledning, genom meningsfull sysselsättning (1,1 mkr),
+\- minska utanförskapet, oavsett anledning, genom meningsfull sysselsättning (1,1 mkr),
 
 förvaltningen ges i uppdrag att med Främjande fyran motverka utanförskap, oavsett anledning,
 genom att skapa nya vägar till sysselsättning.
@@ -283,7 +283,7 @@ Sammanfattning av ärendet
 Kommunfullmäktige har avsatt särskilda medel i Kommunbudget 2026, plan 2027–2028 för trygg
 uppväxt. Beslutet grundar sig i den satsning som kommunfullmäktige beslutade om i Kommunbudget
 2026 om att tio miljoner kronor skulle reserveras för detta ändamål varje år under perioden 2026–
-2030.
+2030\.
 Nämnden för Förskola & Grundskola har den 19 december 2025 kommit in med en begäran om att få
 ta del av 2 000 000 kronor av dessa medel för att stärka och utveckla öppen förskola i Kungsbacka.
 Satsningen handlar om att nå fler familjer och att insatserna fördelas över hela kommunen. Vidare är
@@ -462,7 +462,7 @@ Förväntad nytta
 Insatserna av att utveckla öppna förskolan förväntas ge både kortsiktiga och långsiktiga
 effekter för barn och familj, verksamhet och samhälle:
 
-1. För barn och familj
+1\. För barn och familj
 •  Ökad tillgänglighet och längre öppettider gör det möjligt för fler att delta.
 •  Möjlighet till fler sociala möten för barn och föräldrar
 
@@ -479,14 +479,14 @@ kommunikation i en trygg miljö
 •  Ökad medvetenhet hos föräldrar kring hur språk och matematik kan stimuleras
 i hemmet.
 
-2. För verksamheten
+2\. För verksamheten
 •  Kompetensutveckling för pedagogerna kring föräldrastöd, matematiskt lärande
 och språkutveckling bidrar till en högre kvalitet på öppna förskolorna.
 •  Inköp av matematiska och språkutvecklande material skapar djupare förståelse
 och stärker språket genom lek och utforskande.
 •  Stärkt kvalitet i öppna förskolor i kommunen.
 
-3. För samhället
+3\. För samhället
 •  Minskad risk för utanförskap då öppna förskolan är en viktig mötesplats för
 familjer med olika bakgrund.
 •  Ökad satsning på öppna förskolan skulle kunna öka samverkan mellan olika
@@ -561,7 +561,7 @@ Sammanfattning av ärendet
 Kommunfullmäktige har avsatt särskilda medel i Kommunbudget 2026, plan 2027–2028 för trygg
 uppväxt. Beslutet grundar sig i den satsning som kommunfullmäktige beslutade om i Kommunbudget
 2026 om att tio miljoner kronor skulle reserveras för detta ändamål varje år under perioden 2026–
-2030.
+2030\.
 Nämnden för Gymnasium & Arbetsmarknad har den 4 december 2025 kommit in med en begäran om
 att få ta del av 2 000 000 kronor av dessa medel. Satsningen handlar om att tillsätta två skolcoacher i
 samverkan med ett tydligt uppdrag kopplat till elever i riskzonen för skolmisslyckande. Detta är ett
@@ -762,7 +762,7 @@ Sammanfattning av ärendet
 Kommunfullmäktige har avsatt särskilda medel i Kommunbudget 2026, plan 2027–2028 för trygg
 uppväxt. Beslutet grundar sig i den satsning som kommunfullmäktige beslutade om i Kommunbudget
 2026 om att tio miljoner kronor skulle reserveras för detta ändamål varje år under perioden 2026–
-2030.
+2030\.
 Nämnden för Individ & Familjeomsorg har den 17 november 2025 kommit in med en begäran om att
 få ta del av 2 000 000 kronor av dessa medel. Medlen kommer användas till flera satsningar:
 koordinator för att möjliggöra tidiga insatser vid oro, metoder för att motverka normbrytande beteende
@@ -829,7 +829,7 @@ insatser skapa en trygg uppväxt för barn- och unga.
 Moderaterna, Liberalerna, Centerpartiet och Kristdemokraterna i Nämnden för Individ och
 Familjeomsorg har tagit fram förslag som sammanlagt uppgår till två miljoner kronor.
 
-1. Koordinator för att möjliggöra tidiga insatser vid oro
+1\. Koordinator för att möjliggöra tidiga insatser vid oro
 
 Det finns många olika insatser för att främja goda förutsättningar för Kungsbackas
 unga, både inom kommunen och hos andra aktörer. För att dessa ska användas
@@ -845,7 +845,7 @@ som nav.
 
 Koordinator för samarbete och samordning: 750 000 kr
 
-2. Metoder för att motverka normbrytande beteende samt stärka föräldraförmåga
+2\. Metoder för att motverka normbrytande beteende samt stärka föräldraförmåga
 Då förvaltningens bemanning stärkts utifrån statsbidrag i samband med ny
 socialtjänstlag, ser vi med dessa medel möjlighet att stärka verksamheten med
 metoder som Socialstyrelsen rekommenderar för att motverka normbrytande
@@ -893,18 +893,18 @@ Kompetensutveckling, metoder rekommenderade mot normbrytande beteende:
 
 500 000 kr
 
-3. Hjälp till självhjälp för barn, unga och föräldrar vid separation
+3\. Hjälp till självhjälp för barn, unga och föräldrar vid separation
 SES och SES NXT är ett evidensbaserat digitalt verktyg för självhjälp vid egen,
 
 närståendes eller föräldrars separation. Verktyget har funnits i Kungsbacka sedan
-2023. Då verktyget kan användas, och ge stöd, helt utan inblandning av anställd
+2023\. Då verktyget kan användas, och ge stöd, helt utan inblandning av anställd
 personal finns behov av att sprida information till presumtiva målgrupper, med fokus
 
 på barn och unga vars föräldrar eller motsvarande separerar.
 
 Spridning och tillgängliggörande av SES och SES NXT: 250 000 kr
 
-4. Stärkt stöd till familjehem och jourfamiljer
+4\. Stärkt stöd till familjehem och jourfamiljer
 Det finns flera utmaningar med att rekrytera familjehem och jourfamiljer. Det kan
 finnas ett stigma i samhället kopplat till uppdraget, det kan finnas en oro för att
 
@@ -969,11 +969,11 @@ Moderaterna, Liberalerna, Centerpartiet och Kristdemokraterna i Nämnden för
 Individ och Familjeomsorg har tagit fram förslag som sammanlagt uppgår till två
 miljoner kronor.
 
-1. Koordinator för att möjliggöra tidiga insatser vid oro
-2. Metoder för att motverka normbrytande beteende samt stärka föräldraförmåga
+1\. Koordinator för att möjliggöra tidiga insatser vid oro
+2\. Metoder för att motverka normbrytande beteende samt stärka föräldraförmåga
 
-3. Hjälp till självhjälp för barn, unga och föräldrar vid separation
-4. Stärkt stöd till familjehem och jourfamiljer
+3\. Hjälp till självhjälp för barn, unga och föräldrar vid separation
+4\. Stärkt stöd till familjehem och jourfamiljer
 
 Initiativtagarna föreslår att nämnden beslutar:
 Att hos kommunstyrelsen hemställa om att få ta del av två miljoner 2026 ur anslaget
@@ -1235,18 +1235,18 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 
 1.1 Förtroendevalda
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
--  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\-  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
--  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\-  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag
 och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare (leder respektive partigrupp i kommunfullmäktige)
 
--  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\-  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 kommunfullmäktige, nämnder, styrelsen, revisionen, beredningar och andra
 uppdrag enligt särskilt beslut.
--  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\-  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
 1.2 Andra uppdrag
 Dessa riktlinjer och regler gäller även för uppdrag där kommunen enligt särskilda
@@ -1297,10 +1297,10 @@ Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 
 Rätten till ledighet avser
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd och för andra enskilda uppdrag som
 omfattar minst 40%.
@@ -1539,9 +1539,9 @@ bolag och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare.
 Arvode betalas i form av
 
--  Fast arvode för deltidsuppdrag
+\-  Fast arvode för deltidsuppdrag
 
--  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\-  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
 
@@ -1669,9 +1669,9 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 
 <!-- sida 44 -->
 
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 4.3 Vad som ingår i deltidsarvodet för utskottsledamot
 Ledamot i arbetsutskott (eller annan benämning) erhåller ett fast arvode för
@@ -1804,9 +1804,9 @@ har ägt rum.
 
 När en förtroendevald ska begära ersättning
 
--  för andra förmåner än dagarvode, timersättning och reseersättning, i
+\-  för andra förmåner än dagarvode, timersättning och reseersättning, i
 samband med protokollfört sammanträde eller
--  efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\-  efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
@@ -1855,7 +1855,7 @@ kommunstyrelsen.
 Arvodesberedningen bereder generella ärenden om arvoden och ersättningar inför
 beslut i kommunfullmäktige. Arvodesberedningen kan även vara rådgivande till
 kommunstyrelsen i tolkningsfrågor.
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala uppdrag 18 (18)
 
@@ -1947,22 +1947,22 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 
 1.1 Förtroendevalda
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
--  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\-  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
--  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\-  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag
 och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare (leder respektive partigrupp i kommunfullmäktige)
 
--  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\-  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 kommunfullmäktige, nämnder, styrelsen, revisionen, ledamöter och ersättare
 i kommunala bolag- och stiftelser, beredningar och andra uppdrag enligt
 särskilt beslut.
--  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\-  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
--  Kommunens bolag och stiftelser rekommenderas att tillämpa dessa riktlinjer.
--  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
+\-  Kommunens bolag och stiftelser rekommenderas att tillämpa dessa riktlinjer.
+\-  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
 revisionen.
 
 1.2 Andra uppdrag
@@ -2014,10 +2014,10 @@ Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 
 Rätten till ledighet avser
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd och för andra enskilda uppdrag som
 omfattar minst 40%.
@@ -2256,9 +2256,9 @@ bolag och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare.
 Arvode betalas i form av
 
--  Fast arvode för deltidsuppdrag
+\-  Fast arvode för deltidsuppdrag
 
--  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\-  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
 
@@ -2386,9 +2386,9 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 
 <!-- sida 62 -->
 
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 4.3 Vad som ingår i deltidsarvodet för utskottsledamot
 Ledamot i arbetsutskott (eller annan benämning) erhåller ett fast arvode för
@@ -2523,9 +2523,9 @@ har ägt rum.
 
 När en förtroendevald ska begära ersättning
 
--  för andra förmåner än dagarvode, timersättning och reseersättning, i
+\-  för andra förmåner än dagarvode, timersättning och reseersättning, i
 samband med protokollfört sammanträde eller
--  efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\-  efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
@@ -2579,7 +2579,7 @@ att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst.
 
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 2023–2027.
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala uppdrag 18 (18)
 
@@ -3997,7 +3997,7 @@ Sträcka 8: Järnvägsgatan/Hässlehultsgatan i Hyltebruk
 Längd: 900 meter
 Beskrivning: Sträckan ingår i huvudcykelled Rydöbruk
 
-- Hyltebruk i översiktsplanen. Cykelvägen ökar
+\- Hyltebruk i översiktsplanen. Cykelvägen ökar
 tillgängligheten till den prioriterade målpunkten vid
 resecentrum för regionbussarna. Underlättar för arbets-
 och skolpendling för invånare i Hyltebruks södra delar
@@ -5148,23 +5148,23 @@ ska den upphandlande myndigheten begära anbud förefaller vara onormalt låga. 
 att leverantören förklarar det låga priset anbud förefaller vara onormalt lågt, ska den
 eller kostnaden. En sådan begäran om upphandlande myndigheten begära att
 förklaring kan gälla            leverantören förklarar hur kontraktet kan
-1. om leverantören kan utnyttja särskilt fullgöras trots det låga priset eller kostnaden.
+1\. om leverantören kan utnyttja särskilt fullgöras trots det låga priset eller kostnaden.
 kostnadseffektiva metoder för att fullgöra
 kontraktet,                     Om priset eller kostnaden för ett anbud är mer
 
-2. om leverantören kan utnyttja tekniska än 30 procent lägre än det genomsnittliga priset
+2\. om leverantören kan utnyttja tekniska än 30 procent lägre än det genomsnittliga priset
 lösningar eller ovanligt gynnsamma eller den genomsnittliga kostnaden för samtliga
 förhållanden för att fullgöra kontraktet, anbud i upphandlingen ska den upphandlande
-3. egenarten hos de varor, tjänster eller myndigheten begära att leverantören lämnar en
+3\. egenarten hos de varor, tjänster eller myndigheten begära att leverantören lämnar en
 byggentreprenader som föreslås av leverantören, förklaring enligt första stycket.
-4. hur leverantören avser att fullgöra
+4\. hur leverantören avser att fullgöra
 I begäran ska den upphandlande myndigheten
 kontraktet med avseende på tillämpliga miljö-,
 precisera vilka delar av anbudet som den anser
 social- eller arbetsrättsliga skyldigheter,
 medför att anbudet förefaller vara onormalt lågt.
-5. om leverantören kan få statligt stöd, eller
-6. skyldigheterna som avses i 17 kap. 6 eller
+5\. om leverantören kan få statligt stöd, eller
+6\. skyldigheterna som avses i 17 kap. 6 eller
 7 §.
 Myndigheten ska förkasta anbudet om
 leverantören inte på ett tillfredsställande sätt
@@ -5191,21 +5191,21 @@ leverantören har visat att anbudet är trovärdigt
 och seriöst menat.
 
 Leverantörens förklaring kan avse
-1. om leverantören kan utnyttja särskilt
+1\. om leverantören kan utnyttja särskilt
 
 kostnadseffektiva metoder för att fullgöra
 kontraktet,
-2. om leverantören kan utnyttja tekniska
+2\. om leverantören kan utnyttja tekniska
 lösningar eller ovanligt gynnsamma
 förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller
+3\. egenarten hos de varor, tjänster eller
 byggentreprenader som föreslås av leverantören,
 
-4. hur leverantören avser att fullgöra kontraktet
+4\. hur leverantören avser att fullgöra kontraktet
 med avseende på tillämpliga miljö-, social- eller
 arbetsrättsliga skyldigheter,
-5. om leverantören kan få statligt stöd, eller
-6. skyldigheterna som avses i 17 kap. 6 eller 7 §.
+5\. om leverantören kan få statligt stöd, eller
+6\. skyldigheterna som avses i 17 kap. 6 eller 7 §.
 
 7 b §
 
@@ -5284,9 +5284,9 @@ förklaring av ett anbud som leverantören har
 lämnat enligt 16 kap. 7–8 §§ eller 19 kap. 18 §
 beaktas vid en överprövning enligt 20 kap. 4 §.
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 13
@@ -5315,27 +5315,27 @@ begära att leverantören förklarar det ett anbud förefaller vara onormalt lå
 låga priset eller kostnaden. En sådan ska den upphandlande enheten begära
 
 begäran om förklaring kan gälla att leverantören förklarar hur kontraktet
-1. om leverantören kan utnyttja särskilt kan fullgöras trots det låga priset eller
+1\. om leverantören kan utnyttja särskilt kan fullgöras trots det låga priset eller
 kostnadseffektiva metoder för att fullgöra kostnaden.
 kontraktet,
-2. om leverantören kan utnyttja tekniska Om priset eller kostnaden för ett anbud är
+2\. om leverantören kan utnyttja tekniska Om priset eller kostnaden för ett anbud är
 lösningar eller ovanligt gynnsamma mer än 30 procent lägre än det
 förhållanden för att fullgöra kontraktet, genomsnittliga priset eller den
 
-3. egenarten hos de varor, tjänster eller genomsnittliga kostnaden för samtliga
+3\. egenarten hos de varor, tjänster eller genomsnittliga kostnaden för samtliga
 byggentreprenader som föreslås av anbud i upphandlingen ska den
 leverantören,                upphandlande enheten begära att
-4. hur leverantören avser att fullgöra leverantören lämnar en förklaring enligt
+4\. hur leverantören avser att fullgöra leverantören lämnar en förklaring enligt
 kontraktet med avseende på tillämpliga första stycket.
 miljö-, social- och arbetsrättsliga
 I begäran ska den upphandlande enheten
 skyldigheter,
 precisera vilka delar av anbudet som den
-5. om leverantören kan få statligt stöd,
+5\. om leverantören kan få statligt stöd,
 anser medför att anbudet förefaller vara
 eller
 onormalt lågt.
-6. skyldigheterna som avses i 16 kap. 6
+6\. skyldigheterna som avses i 16 kap. 6
 eller 7 §.
 Enheten ska förkasta anbudet om
 leverantören inte på ett tillfredsställande
@@ -5366,24 +5366,24 @@ trovärdigt och seriöst menat.
 
 Leverantörens förklaring kan avse
 
-1. om leverantören kan utnyttja särskilt
+1\. om leverantören kan utnyttja särskilt
 kostnadseffektiva metoder för att fullgöra
 kontraktet,
-2. om leverantören kan utnyttja tekniska
+2\. om leverantören kan utnyttja tekniska
 lösningar eller ovanligt gynnsamma
 förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller
+3\. egenarten hos de varor, tjänster eller
 
 byggentreprenader som föreslås av
 leverantören,
-4. hur leverantören avser att fullgöra
+4\. hur leverantören avser att fullgöra
 kontraktet med avseende på tillämpliga
 miljö-, social- eller arbetsrättsliga
 skyldigheter,
-5. om leverantören kan få statligt stöd,
+5\. om leverantören kan få statligt stöd,
 
 eller
-6. skyldigheterna som avses i 16 kap.
+6\. skyldigheterna som avses i 16 kap.
 6 eller 7 §.
 
 7 b §
@@ -5469,9 +5469,9 @@ leverantören har lämnat enligt 15 kap.
 7–8 §§ eller 19 kap. 18 § beaktas vid en
 överprövning enligt 20 kap. 4 §.
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 4 Senaste lydelse 2021:1111.
@@ -5505,16 +5505,16 @@ anbudet och inte fått ett    anbudet och inte fått ett
 tillfredsställande svar.     tillfredsställande svar.
 
 En begäran om förklaring kan gälla
-1. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder att fullgöra
+1\. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder att fullgöra
 kontraktet,
-2. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt gynnsamma
+2\. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt gynnsamma
 
 förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
+3\. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
 anbudsgivaren,
-4. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
+4\. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
 arbetsförhållanden som gäller på den ort där kontraktet ska fullgöras, och
-5. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
+5\. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
 
 Den upphandlande myndigheten eller enheten ska ge anbudsgivaren tillfälle att
 yttra sig över myndighetens eller enhetens skäl för att förkasta anbudet med
@@ -5568,9 +5568,9 @@ leverantören har lämnat enligt 13 kap. 3–4
 §§ eller 15 kap. 17 § beaktas vid en
 överprövning enligt 16 kap. 4 §.
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 5 Senaste lydelse 2021:1112.
@@ -5619,7 +5619,7 @@ Vid genomförandet av uppdraget ska Konkurrensverket ha en löpande dialog med
 Upphandlingsmyndigheten.
 
 Denna del av uppdraget ska rapporteras till regeringen senast den 30 september
-2025.
+2025\.
 
 6 Regeringsbeslut III:2 2025-01-16, Uppdrag till Konkurrensverket att motverka kriminalitet och osund konkurrens samt
 förbättra konkurrensen med kvalitet i offentliga upphandlingar, Fi2025/00078.
@@ -5702,18 +5702,18 @@ intervjun är om aktören upphandlar enligt någon av de för uppdraget relevant
 lagarna LOU, LUF eller LUFS. Om aktören upphandlar enligt någon, eller flera, av
 dessa lagar har intervjun som huvudregel avsett följande tre delar.
 
-1. Organisationens uppdrag och den intervjuades roll och erfarenhet. Frågorna i
+1\. Organisationens uppdrag och den intervjuades roll och erfarenhet. Frågorna i
 denna del har ställts för att utreda vilka erfarenheter som ligger till grund för
 svaren i intervjun och att möjliggöra jämförelse av om olika typer av organi-
 sationer och roller har olika uppfattning gällande frågorna.
 
-2. Organisationens praktiska arbete med frågor om onormalt låga anbud.
+2\. Organisationens praktiska arbete med frågor om onormalt låga anbud.
 Frågorna i denna del har ställts bland annat för att få en förståelse för den
 praktiska hanteringen av onormalt låga anbud och att möjliggöra identifiering
 av om det är någon del av hanteringen av onormalt låga anbud där det
 föreligger behov av förtydligande i lag.
 
-3. Organisationens uppfattning om bestämmelserna om förkastande av onormalt
+3\. Organisationens uppfattning om bestämmelserna om förkastande av onormalt
 
 låga anbud. Frågorna i denna del har ställts för att ge deltagarna möjlighet att
 lägga fram egna reflektioner och förslag.
@@ -5791,13 +5791,13 @@ direktiven är likalydande, med undantag för att LOU-direktivet hänvisar till
 upphandlande myndighet och LUF-direktivet till upphandlande enhet. Av artikel
 69 i LOU-direktivet respektive artikel 84 i LUF-direktivet framgår följande.
 
-1. Den upphandlande myndigheten/enheten ska begära att de
+1\. Den upphandlande myndigheten/enheten ska begära att de
 ekonomiska aktörerna lämnar förklaringar om de priser eller
 kostnader som föreslås i anbudet, om anbuden förefaller vara
 onormalt låga i förhållande till byggentreprenaderna, varorna
 eller tjänsterna.
 
-2. De förklaringar som avses i punkt 1 kan särskilt beröra
+2\. De förklaringar som avses i punkt 1 kan särskilt beröra
 
 a) besparingar avseende sättet att tillverka varorna, sättet att
 tillhandahålla tjänsterna eller byggmetoderna,
@@ -5820,7 +5820,7 @@ e) efterlevnad av de skyldigheter som avses i artikel 7115/8816,
 
 f) möjligheten för anbudsgivaren att få statligt stöd.
 
-3. Den upphandlande myndigheten/enheten ska bedöma de
+3\. Den upphandlande myndigheten/enheten ska bedöma de
 uppgifter som lämnats efter att ha hört anbudsgivaren. Den får
 endast förkasta anbudet när de ingivna bevisen inte på ett
 tillfredsställande sätt förklarar de låga priser eller kostnader som
@@ -5832,7 +5832,7 @@ när den har fastställt att anbudet är onormalt lågt på grund av att
 det inte uppfyller de tillämpliga skyldigheter som avses i artikel
 18.217/artikel 36.218.
 
-4. Om en upphandlande myndighet/enhet fastställer att ett anbud är
+4\. Om en upphandlande myndighet/enhet fastställer att ett anbud är
 onormalt lågt på grund av att anbudsgivaren har fått statligt stöd,
 får anbudet förkastas enbart av denna anledning först efter
 samråd med anbudsgivaren och om denne inom en rimlig tidsfrist
@@ -5865,7 +5865,7 @@ arbetsrättsliga bestämmelser som anges i bilaga XIV.”.
 
 <!-- sida 152 -->
 
-5. Medlemsstaterna ska på begäran från andra medlemsstater och
+5\. Medlemsstaterna ska på begäran från andra medlemsstater och
 inom ramen för administrativt samarbete lämna all information
 som de förfogar över, såsom lagar, förordningar, allmänt tillämp-
 liga kollektivavtal eller nationella tekniska standarder, om de
@@ -5964,7 +5964,7 @@ EU:C:2001:640, punkt 73 och dom av den 22 juni 1989, Fratelli Costanzo mot Comun
 EU:C:1989:256, punkt 19.
 30 Se exempelvis HFD 2018 ref. 50.
 31 Dom av den 15 maj 2008 i de förenade målen, SECAP och Santorso, C-147/06 och C-148/06, EU:C:2008:277, punkt
-32.
+32\.
 27
 
 <!-- sida 154 -->
@@ -6104,7 +6104,7 @@ i artikel 107 i EUF-fördraget.
 
 Av artikel 49 i LUFS-direktivet framgår följande.
 
-1. Om det för ett visst kontrakt finns anbud som förefaller vara
+1\. Om det för ett visst kontrakt finns anbud som förefaller vara
 onormalt låga i förhållande till varorna, byggentreprenaden eller
 tjänsterna, ska den upphandlande myndigheten eller enheten
 
@@ -6144,11 +6144,11 @@ tillhandahållandet ska ske,
 
 e) möjligheten för anbudsgivaren att få statligt stöd.
 
-2. Den upphandlande organisationen ska i samråd med anbuds-
+2\. Den upphandlande organisationen ska i samråd med anbuds-
 givaren granska detta innehåll med beaktande av de ingivna
 förklaringarna.
 
-3. Om en upphandlande myndighet eller enhet fastställer att ett
+3\. Om en upphandlande myndighet eller enhet fastställer att ett
 anbud är onormalt lågt på grund av att anbudsgivaren har fått
 statligt stöd, får anbudet förkastas enbart av denna anledning
 först efter samråd med anbudsgivaren och om denne inom den
@@ -6195,21 +6195,21 @@ Om ett anbud förefaller vara onormalt lågt, ska den upphandlande
 [myndigheten/enheten] begära att leverantören förklarar det låga priset
 eller kostnaden. En sådan begäran om förklaring kan gälla
 
-1. om leverantören kan utnyttja särskilt kostnadseffektiva metoder
+1\. om leverantören kan utnyttja särskilt kostnadseffektiva metoder
 för att fullgöra kontraktet,
 
-2. om leverantören kan utnyttja tekniska lösningar eller ovanligt
+2\. om leverantören kan utnyttja tekniska lösningar eller ovanligt
 gynnsamma förhållanden för att fullgöra kontraktet,
 
-3. egenarten hos de varor, tjänster eller byggentreprenader som
+3\. egenarten hos de varor, tjänster eller byggentreprenader som
 föreslås av leverantören,
 
-4. hur leverantören avser att fullgöra kontraktet med avseende på
+4\. hur leverantören avser att fullgöra kontraktet med avseende på
 tillämpliga miljö-, social- eller arbetsrättsliga skyldigheter,
 
-5. om leverantören kan få statligt stöd, eller
+5\. om leverantören kan få statligt stöd, eller
 
-6. skyldigheterna som avses i 17 kap. 6 eller 7 §.
+6\. skyldigheterna som avses i 17 kap. 6 eller 7 §.
 
 [Myndigheten/Enheten] ska förkasta anbudet om leverantören inte på
 ett tillfredsställande sätt har förklarat det låga priset eller kostnaden.
@@ -6352,21 +6352,21 @@ låga anbudet och inte fått ett tillfredsställande svar.
 
 En begäran om förklaring kan gälla
 
-1. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder
+1\. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder
 att fullgöra kontraktet,
 
-2. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt
+2\. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt
 gynnsamma förhållanden för att fullgöra kontraktet,
 
-3. egenarten hos de varor, tjänster eller byggentreprenader som
+3\. egenarten hos de varor, tjänster eller byggentreprenader som
 föreslås av anbudsgivaren,
 
-4. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
+4\. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
 
 arbetsförhållanden som gäller på den ort där kontraktet ska
 fullgöras, och
 
-5. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
+5\. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
 
 Den upphandlande myndigheten eller enheten ska ge anbudsgivaren
 tillfälle att yttra sig över organisationens skäl för att förkasta anbudet
@@ -7929,33 +7929,33 @@ besluta om nya eller ändrade lagar och förordningar.
 Enligt 6 § konsekvensutredningsförordningen ska konsekvensutredningen innehålla
 en redogörelse för:
 
-1. det aktuella problemet och vilken förändring som eftersträvas,
+1\. det aktuella problemet och vilken förändring som eftersträvas,
 
-2. vilka konsekvenser som bedöms uppstå om ingen åtgärd vidtas,
+2\. vilka konsekvenser som bedöms uppstå om ingen åtgärd vidtas,
 
-3. de olika alternativ som finns för att uppnå förändringen och de fördelar
+3\. de olika alternativ som finns för att uppnå förändringen och de fördelar
 respektive nackdelar som bedöms finnas med dessa, och
 
-4. det eller de alternativ som bedöms lämpligast och av vilka skäl.
+4\. det eller de alternativ som bedöms lämpligast och av vilka skäl.
 
 Vidare ska konsekvensutredningen enligt 7 § konsekvensutredningsförordningen
 innehålla en analys av de förslag som lämnas. Analysen ska bestå av:
 
-1. en beskrivning och beräkning av förslagets kostnader och intäkter för staten,
+1\. en beskrivning och beräkning av förslagets kostnader och intäkter för staten,
 
 kommuner, regioner, företag och andra enskilda,
 
-2. en beskrivning och, om möjligt, en beräkning av andra relevanta konsekvenser
+2\. en beskrivning och, om möjligt, en beräkning av andra relevanta konsekvenser
 än sådana som anges i 1,
 
-3. en redogörelse för vilka åtgärder som har vidtagits för att förslaget inte ska
+3\. en redogörelse för vilka åtgärder som har vidtagits för att förslaget inte ska
 medföra mer långtgående kostnader eller begränsningar än vad som bedöms
 vara nödvändigt för att uppnå dess syfte,
 
-4. en bedömning av om särskild hänsyn behöver tas när det gäller tidpunkten för
+4\. en bedömning av om särskild hänsyn behöver tas när det gäller tidpunkten för
 ikraftträdande och om det finns behov av speciella informationsinsatser, och
 
-5. en beskrivning av hur och när konsekvenserna av förslaget kan utvärderas.
+5\. en beskrivning av hur och när konsekvenserna av förslaget kan utvärderas.
 
 Slutligen ska konsekvensutredningen enligt 9 § konsekvensutredningsförordningen
 innehålla en bedömning av om förslaget överensstämmer med eller går utöver de
@@ -9238,18 +9238,18 @@ leverantören. Vid bedömningen av om en förklaring är tillfredsställande ska
 hänsyn tas till om leverantören har visat att anbudet är trovärdigt och seriöst menat.
 
 Leverantörens förklaring kan avse
-1. om leverantören kan utnyttja särskilt kostnadseffektiva metoder för att fullgöra
+1\. om leverantören kan utnyttja särskilt kostnadseffektiva metoder för att fullgöra
 
 kontraktet,
-2. om leverantören kan utnyttja tekniska lösningar eller ovanligt gynnsamma
+2\. om leverantören kan utnyttja tekniska lösningar eller ovanligt gynnsamma
 förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
+3\. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
 leverantören,
-4. hur leverantören avser att fullgöra kontraktet med avseende på tillämpliga miljö-,
+4\. hur leverantören avser att fullgöra kontraktet med avseende på tillämpliga miljö-,
 social- eller arbetsrättsliga skyldigheter,
 
-5. om leverantören kan få statligt stöd, eller
-6. skyldigheterna som avses i 16 kap. 6 eller 7 §.
+5\. om leverantören kan få statligt stöd, eller
+6\. skyldigheterna som avses i 16 kap. 6 eller 7 §.
 
 Paragrafen är ny och reglerar den upphandlande myndighetens skyldighet att
 bedöma anbud som förefaller onormalt låga utifrån de förklaringar som leveran-
@@ -9399,9 +9399,9 @@ förfarandet på ett korrekt sätt.
 
 Ikraftträdande- och övergångsbestämmelser
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 Ikraftträdande- och övergångsbestämmelserna behandlas i avsnitt 8.
@@ -9501,17 +9501,17 @@ leverantören. Vid bedömningen av om en förklaring är tillfredsställande ska
 hänsyn tas till om leverantören har visat att anbudet är trovärdigt och seriöst menat.
 
 Leverantörens förklaring kan avse
-1. om leverantören kan utnyttja särskilt kostnadseffektiva metoder för att fullgöra
+1\. om leverantören kan utnyttja särskilt kostnadseffektiva metoder för att fullgöra
 kontraktet,
-2. om leverantören kan utnyttja tekniska lösningar eller ovanligt gynnsamma
+2\. om leverantören kan utnyttja tekniska lösningar eller ovanligt gynnsamma
 
 förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
+3\. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
 leverantören,
-4. hur leverantören avser att fullgöra kontraktet med avseende på tillämpliga miljö-,
+4\. hur leverantören avser att fullgöra kontraktet med avseende på tillämpliga miljö-,
 social- eller arbetsrättsliga skyldigheter,
-5. om leverantören kan få statligt stöd, eller
-6. skyldigheterna som avses i 16 kap. 6 eller 7 §.
+5\. om leverantören kan få statligt stöd, eller
+6\. skyldigheterna som avses i 16 kap. 6 eller 7 §.
 
 Paragrafen är ny och reglerar den upphandlande enhetens skyldighet att bedöma
 anbud som förefaller onormalt låga utifrån de förklaringar som leverantören har
@@ -9660,9 +9660,9 @@ förfarandet på ett korrekt sätt.
 
 Ikraftträdande- och övergångsbestämmelser
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 103
@@ -9702,16 +9702,16 @@ anbudet och inte fått ett tillfredsställande svar.
 
 En begäran om förklaring kan gälla
 
-1. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder att
+1\. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder att
 fullgöra kontraktet,
-2. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt
+2\. om anbudsgivaren kan utnyttja tekniska lösningar eller ovanligt
 gynnsamma förhållanden för att fullgöra kontraktet,
-3. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
+3\. egenarten hos de varor, tjänster eller byggentreprenader som föreslås av
 anbudsgivaren,
-4. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
+4\. om anbudsgivaren iakttar de bestämmelser om arbetarskydd och
 
 arbetsförhållanden som gäller på den ort där kontraktet ska fullgöras, och
-5. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
+5\. om anbudsgivaren fått möjlighet att erhålla statligt stöd.
 
 Den upphandlande myndigheten eller enheten ska ge anbudsgivaren tillfälle
 att yttra sig över myndighetens eller enhetens skäl för att förkasta anbudet
@@ -9797,9 +9797,9 @@ förfarandet på ett korrekt sätt.
 
 Ikraftträdande- och övergångsbestämmelser
 
-1. Denna lag träder i kraft den 1 juli 2026.
+1\. Denna lag träder i kraft den 1 juli 2026.
 
-2. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
+2\. Äldre bestämmelser gäller fortfarande för sådana upphandlingar som har
 påbörjats före ikraftträdandet.
 
 Ikraftträdande- och övergångsbestämmelserna behandlas i avsnitt 8.
@@ -10061,32 +10061,32 @@ Intervjuguide för de intervjuer Konkurrensverket har hållit med aktörer.
 
 Organisationens uppdrag och den intervjuades roll och erfarenhet
 
-1. På vilket sätt kommer er organisation i kontakt med frågor om onormalt låga
+1\. På vilket sätt kommer er organisation i kontakt med frågor om onormalt låga
 anbud?
 
-1. Exempelvis genom upphandling till den egna organisationen,
+1\. Exempelvis genom upphandling till den egna organisationen,
 upphandling till andra organisationer, rådgivning till andra organisationer
 etc.?
 
-2. Vad är din roll i organisationen?
+2\. Vad är din roll i organisationen?
 
-1. Exempelvis upphandlare, beslutsfattare i upphandlingar, rådgivande i
+1\. Exempelvis upphandlare, beslutsfattare i upphandlingar, rådgivande i
 upphandlingar, expert etc.?
 
 Organisationens praktiska arbete med frågor om onormalt låga anbud
 
-3. Vidtar ni i förberedelsen och utformningen av upphandlingar några åtgärder
+3\. Vidtar ni i förberedelsen och utformningen av upphandlingar några åtgärder
 för att undvika att leverantörer lämnar onormalt låga anbud, möjliggöra
 enklare identifiering av onormalt låga anbud respektive möjliggöra enklare
 
 hantering av situationen att leverantörer som tilldelas kontrakt inte presterar i
 enlighet med anbud/avtal?
 
-1. Exempelvis genomförande av förstudie om marknaden och förhållandena
+1\. Exempelvis genomförande av förstudie om marknaden och förhållandena
 på denna, särskild utformning av upphandlingsunderlag och
 utvärderingsmodell, särskild utformning av avtalsutkast etc.?
 
-4. Hur identifierar ni anbud som förefaller onormalt låga och som förutsätter
+4\. Hur identifierar ni anbud som förefaller onormalt låga och som förutsätter
 
 förklaring från leverantören?
 
@@ -10094,17 +10094,17 @@ förklaring från leverantören?
 
 <!-- sida 239 -->
 
-1. Har ni någon särskild metod/tillvägagångssätt för identifiering av
+1\. Har ni någon särskild metod/tillvägagångssätt för identifiering av
 onormalt låga anbud? Finns det några särskilda omständigheter som
 generellt sett föranleder att ni bedömer att ett anbud är onormalt lågt?
 
-5. Har ni någon gång begärt en förklaring av ett onormalt lågt anbud från en
+5\. Har ni någon gång begärt en förklaring av ett onormalt lågt anbud från en
 leverantör?
 
-6. Hur har ni formulerat er begäran om förklaring/hur formulerar ni generellt sett
+6\. Hur har ni formulerat er begäran om förklaring/hur formulerar ni generellt sett
 en begäran om förklaring? (Frågan förutsätter att svaret på fråga fem är ja.
 
-1. Redogör ni för bedömningen, och de omständigheter och skäl som ligger
+1\. Redogör ni för bedömningen, och de omständigheter och skäl som ligger
 till grund för bedömningen, att anbudet förefaller onormalt lågt?
 Specificerar ni vilken information ni önskar från leverantören eller är
 begäran generell i den bemärkelsen att leverantören endast ombeds att
@@ -10112,48 +10112,48 @@ begäran generell i den bemärkelsen att leverantören endast ombeds att
 redogöra för hur/varför den har lämnat ett lågt anbud? Efterfrågar ni
 underlag från leverantören och i sådana fall vad för underlag?
 
-7. Hur har förklaringen sett ut/hur ser förklaringarna generellt sett ut? Anser ni
+7\. Hur har förklaringen sett ut/hur ser förklaringarna generellt sett ut? Anser ni
 att förklaringarna utgör ett tillräckligt underlag för bedömning av om ett anbud
 ska förkastas eller inte? Händer det att ni efterfrågar komplettering och/eller
 förtydliganden av förklaringen? (Frågan förutsätter att svaret på fråga fem är
 
 ja.)
 
-1. Är förklaringarna korta eller långa? Förklarar leverantörerna endast varför
+1\. Är förklaringarna korta eller långa? Förklarar leverantörerna endast varför
 de vill lämna ett lågt anbud (exempelvis att de önskar komma in på en viss
 marknad) eller visar leverantörerna också att de klarar av att leverera i
 enlighet med anbudet (exempelvis genom hänvisning till ekonomisk
 redovisning etc.)?
 
-8. Hur har ni gjort/hur gör ni generellt sett, efter att ha fått en förklaring av
+8\. Hur har ni gjort/hur gör ni generellt sett, efter att ha fått en förklaring av
 anbudet från leverantören, bedömningen av om anbudet ska förkastas eller
 inte? (Frågan förutsätter att svaret på fråga fem är ja.)
 
-1. Har ni någon särskild metod för bedömning av det onormalt låga
+1\. Har ni någon särskild metod för bedömning av det onormalt låga
 anbudet? Finns det några särskilda omständigheter som generellt sett
 föranleder att ni bedömer att ett anbud ska förkastas? Dokumenterar ni er
 bedömning?
 
-9. Har ni någon gång förkastat ett anbud med stöd i bestämmelserna om
+9\. Har ni någon gång förkastat ett anbud med stöd i bestämmelserna om
 onormalt låga anbud? (Frågan förutsätter att svaret på fråga fem är ja.)
 
-10. Vad och hur kommunicerar ni till leverantören när ni förkastar ett onormalt
+10\. Vad och hur kommunicerar ni till leverantören när ni förkastar ett onormalt
 lågt anbud? (Frågan förutsätter att svaret på fråga fem och nio är ja.)
 
 113
 
 <!-- sida 240 -->
 
-1. Redogör ni för de omständigheter och skäl som ligger till grund för
+1\. Redogör ni för de omständigheter och skäl som ligger till grund för
 beslutet? Bemöter ni leverantörens argument? Kommunicerar ni detta
 skriftligen?
 
-11. Har någon av era upphandlingar blivit föremål för överprövning med
+11\. Har någon av era upphandlingar blivit föremål för överprövning med
 hänvisning till bestämmelserna om onormalt låga anbud? Vad har
 
 överprövningen i sådana fall avsett? Vad har överprövningarna resulterat i?
 
-1. Har det exempelvis handlat om att en leverantör ansöker om
+1\. Har det exempelvis handlat om att en leverantör ansöker om
 överprövning med anledning av att leverantörens anbud har förkastats, att
 en leverantör ansöker om överprövning med anledning av att ni inte har
 begärt förklaring av en annan leverantörs anbud, att en leverantör ansöker
@@ -10161,11 +10161,11 @@ om överprövning med anledning av att ni inte har förkastat en annan
 
 leverantörs anbud etc.?
 
-12. Följer ni upp era avtal för att tillse att leverantörerna presterar i enlighet med
+12\. Följer ni upp era avtal för att tillse att leverantörerna presterar i enlighet med
 avtal? Vidtar ni åtgärder för att förmå leverantörer som inte presterar i enlighet
 med avtal, att prestera i enlighet med avtal?
 
-13. Enligt 19 kap. LOU, 19 kap. LUF respektive LUFS föreligger en skyldighet att
+13\. Enligt 19 kap. LOU, 19 kap. LUF respektive LUFS föreligger en skyldighet att
 begära förklaring från leverantörer som lämnat anbud som förefaller onormalt
 
 låga och en möjlighet att förkasta onormalt låga anbud som leverantören inte
@@ -10177,19 +10177,19 @@ bedömningar?
 
 Organisationens uppfattning om bestämmelserna
 
-14. Upplever ni att det finns en problematik med onormalt låga anbud som inte är
+14\. Upplever ni att det finns en problematik med onormalt låga anbud som inte är
 seriöst menade? Upplever ni problematiken vara större i en viss bransch, vid
 upphandling av något särskilt avtalsföremål, i upphandlingar som är
 utformade på något särskilt sätt etc.?
 
-15. Vad anser ni definiera ett onormalt lågt anbud som inte är seriöst menat? Är
+15\. Vad anser ni definiera ett onormalt lågt anbud som inte är seriöst menat? Är
 det lätt/svårt att särskilja ett onormalt lågt anbud som inte är seriöst menat från
 ett onormalt lågt anbud som är seriöst menat? Varför/varför inte?
 
-16. Tycker ni att bestämmelserna om onormalt låga anbud är ett väl fungerande
+16\. Tycker ni att bestämmelserna om onormalt låga anbud är ett väl fungerande
 verktyg för att förkasta onormalt låga anbud som inte är seriöst menade?
 
-1. Varför? Varför inte? Är bestämmelserna tydliga/otydliga? Är rättsläget
+1\. Varför? Varför inte? Är bestämmelserna tydliga/otydliga? Är rättsläget
 klart/oklart? Finns det praktisk problematik kopplad till bestämmelserna,
 exempelvis avseende identifiering av onormalt låga anbud, begäran om
 förklaring, bedömning av onormalt låga anbud, gränserna för vad man får
@@ -10201,11 +10201,11 @@ förklaring, bedömning av onormalt låga anbud, gränserna för vad man får
 begära in, förkastandet av onormalt låga anbud och eventuell
 överprövningsprocess?
 
-17. Anser ni det vara lätt/svårt att förkasta onormalt låga anbud? Finns det något
+17\. Anser ni det vara lätt/svårt att förkasta onormalt låga anbud? Finns det något
 som ni anser hade underlättat förkastande av onormalt låga anbud som inte är
 seriöst menade?
 
-1. Tydligare lagtext? En skyldighet för leverantören att redan i det
+1\. Tydligare lagtext? En skyldighet för leverantören att redan i det
 kontradiktoriska förfarandet presentera samtlig relevant information och
 samtligt relevant underlag? Lagstadgad tidsfrist för leverantören att
 inkomma med förklaring till den upphandlande myndigheten/enheten?
@@ -12551,7 +12551,7 @@ att kommunen kan upphäva äldre outnyttjade byggrätter inom
 översvämningskänsliga områden och att kommunen i
 översiktsplanen ska redovisa åtgärder för klimatanpassning.
 
----
+\---
 
 De som medverkat i beslutet
 Länsstyrelsen har sänt ärendet på remiss internt samt till
@@ -12782,7 +12782,7 @@ bakom Hållbar tillväxt som är GR:s strategidokument.
 GR:s strukturbild till vänster och GR:s fördjupade strukturbild för kustzonen till höger
 
 Region Halland har än så länge inte tagit fram en egen strukturbild men en Tillväxtstrategi 2014–
-2020. Både Region Halland och GR trycker på vikten av effektiva transporter och en hållbar
+2020\. Både Region Halland och GR trycker på vikten av effektiva transporter och en hållbar
 utveckling.
 
 Kommunen deltar aktivt i flera regionala och statliga sammanhang i syfte att tillsammans utveckla
@@ -12825,11 +12825,11 @@ har goda kommunikationer med kommunens orter och omvärld. Välplanerad infrastr
 lättillgänglig kollektivtrafik minimerar transporternas miljöpåverkan.
 
 Kommunfullmäktige har tagit fram fem mål för att nå visionen:
-- En attraktiv kommun att bo, verka och vistas i
-- En hållbar utveckling och en hälsosam miljö
-- Bästa företagsklimatet i Västsverige
-- I Kungsbacka utvecklas vi hela livet
-- Ett medskapande samhälle och öppen attityd
+\- En attraktiv kommun att bo, verka och vistas i
+\- En hållbar utveckling och en hälsosam miljö
+\- Bästa företagsklimatet i Västsverige
+\- I Kungsbacka utvecklas vi hela livet
+\- Ett medskapande samhälle och öppen attityd
 
 Kommunövergripande   översiktsplan
 Den här planen kompletterar till den kommunövergripande översiktsplanen som blev antagen av
@@ -12865,15 +12865,15 @@ Strategi 2040, ur översiktsplanen
 Strategi 2040 ur översiktsplanen
 
 För att Kungsbacka ska vara en attraktiv kommun att bo, verka och vistas i ska vi:
-- Fokusera på staden för att skapa förutsättningar för fler invånare, fler arbetstillfällen, större
+\- Fokusera på staden för att skapa förutsättningar för fler invånare, fler arbetstillfällen, större
 utbud, mångfald och puls
-- Fokusera på stationsorterna Anneberg och Åsa
-- Utveckla stark kollektivtrafik och infrastruktur
+\- Fokusera på stationsorterna Anneberg och Åsa
+\- Utveckla stark kollektivtrafik och infrastruktur
 
-- Värna och utveckla landsbygdens näringar och naturresurser
-- Värna och utveckla kustens attraktivitet
-- Värna och utveckla värdefulla naturområden och främja ett attraktivt friluftsliv
-- Utveckla samhället smart och vara väl rustade för klimatförändringar
+\- Värna och utveckla landsbygdens näringar och naturresurser
+\- Värna och utveckla kustens attraktivitet
+\- Värna och utveckla värdefulla naturområden och främja ett attraktivt friluftsliv
+\- Utveckla samhället smart och vara väl rustade för klimatförändringar
 
 7
 
@@ -13243,10 +13243,10 @@ Kapitlen om markanvändningskarta och riktlinjer delas in på samma sätt så at
 läsas parallellt.
 
 Delområden inom markanvändning i staden
-- Riktlinjer med motiveringar
-- Markanvändningskarta
-- Trafikstrategi - rörelser i staden
-- Översvämningsstrategi
+\- Riktlinjer med motiveringar
+\- Markanvändningskarta
+\- Trafikstrategi - rörelser i staden
+\- Översvämningsstrategi
 
 17
 
@@ -13262,11 +13262,11 @@ utmaningar och planeringsprinciper de berör. Dessutom finns kopplingar till kar
 mer om markanvändningen genom att klicka på relevant information.
 
 Delområden inom riktlinjer med motiveringar
-- Trafiknät
+\- Trafiknät
 
-- Stadsbebyggelse
-- Grön- och blåstruktur
-- Tekniska anläggningar
+\- Stadsbebyggelse
+\- Grön- och blåstruktur
+\- Tekniska anläggningar
 LÄS MER OM MARKANVÄNDNING OMRÅDESVIS
 
 Hela stadens utveckling
@@ -14151,11 +14151,11 @@ informationsklick i kartan. Informationsklick innebär att när du klickar på e
 relevant information i en textruta.
 
 Delområden inom markanvändning områdesvis
-- Trafiknät
-- Stadsbebyggelse
-- Grön- och blåstruktur
-- Tekniska anläggningar
-- Utanför stadsgräns
+\- Trafiknät
+\- Stadsbebyggelse
+\- Grön- och blåstruktur
+\- Tekniska anläggningar
+\- Utanför stadsgräns
 
 SE MARKANVÄNDNINGSKARTA
 
@@ -15085,7 +15085,7 @@ figurer nedan.
 
 Högsta beräknade havsvattenstånd från SMHI, 2018 (Höjdsystem RH2000).
 
-Nivåer i havet vid 200-årshändelse från SMHI, 2018 (Höjdsystem RH2000). *Inklusive nutida
+Nivåer i havet vid 200-årshändelse från SMHI, 2018 (Höjdsystem RH2000). \*Inklusive nutida
 medelvattenstånd på ca 0,1 meter.
 
 Nivåer i havet genom att lägga ihop Framtida medelvattenyta (utsläppsscenario SSP5-8.5, 83:e percentilen
@@ -15097,8 +15097,8 @@ föreslås 0,4 meter.
 
 <!-- sida 364 -->
 
-*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier.
-**Rekommenderat av MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag.
+\*Klimatanpassningen i MSB:s översvämningskartering är inte baserad på RCP- eller SSP-scenarier.
+\*\*Rekommenderat av MSB som spann för klimatfaktor. Ett spann möjliggör att utgå från fler underlag.
 Skyfallskarteringen för Kungsbacka använder klimatfaktor 1,35.
 
 76
@@ -15314,14 +15314,14 @@ myndighet som har i uppgift att granska hur kommunens planering tar hänsyn till
 förutsättningar.
 
 Delområden inom allmänna intressen styrda i lag
-- Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
-- Riksintressen, 3 kapitlet miljöbalken
-- Riksintressen, 4 kapitlet miljöbalken
-- Miljökvalitetsnormer, 5 kapitlet miljöbalken
-- Skydd av natur, 7 kapitlet miljöbalken
+\- Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
+\- Riksintressen, 3 kapitlet miljöbalken
+\- Riksintressen, 4 kapitlet miljöbalken
+\- Miljökvalitetsnormer, 5 kapitlet miljöbalken
+\- Skydd av natur, 7 kapitlet miljöbalken
 
-- Fornminnen, 2 kapitlet kulturmiljölagen
-- Hälsa och säkerhet, plan- och bygglagen
+\- Fornminnen, 2 kapitlet kulturmiljölagen
+\- Hälsa och säkerhet, plan- och bygglagen
 
 Hushållning med mark- och vattenområden, 3 kapitlet miljöbalken
 
@@ -15777,7 +15777,7 @@ klimatförändringen. Att välja det värsta scenariot att förhålla sig till k
 
 också ett sätt att hantera osäkerheter. Att utgå från det kan ses som en säkerhetsmarginal. Det är
 särskilt viktigt då vi förhåller oss till havsnivån som vi vet kommer fortsätta stiga långt bortom år
-2100.
+2100\.
 LÄS MILJÖKONSEKVENSBESKRIVNING, FÖRÄNDRAT KLIMAT
 
 96
@@ -16162,11 +16162,11 @@ utvecklingsalternativ: planen baserat på fyra planeringsprinciper och ett alter
 motsatta principer.
 
 Delområden inom hållbarhetanalys
-- Samlad bedömning
-- Alternativgranskning
-- Miljökonsekvensbeskrivning enligt miljöbalken
-- Analys utifrån de globala målen
-- Barnkonsekvensanalys
+\- Samlad bedömning
+\- Alternativgranskning
+\- Miljökonsekvensbeskrivning enligt miljöbalken
+\- Analys utifrån de globala målen
+\- Barnkonsekvensanalys
 
 Samlad bedömning
 
@@ -16361,12 +16361,12 @@ i planarbetet. Kommunen har genomfört ett avgränsningssamråd enligt 6 kapitle
 
 där det framförs vilka möjliga konfliktområden som kommunen avser att särskilt belysa i en MKB.
 Delområden inom miljökonsekvensbeskrivning
-- Påverkan på vatten samt miljökvalitetsnormer för vatten
-- Trafikbuller samt miljökvalitetsnormer för omgivningsbuller
-- Luftkvalitet samt miljökvalitetsnormer för luft
-- Förändrat klimat
-- Riksintressen
-- Övriga miljökonsekvenser
+\- Påverkan på vatten samt miljökvalitetsnormer för vatten
+\- Trafikbuller samt miljökvalitetsnormer för omgivningsbuller
+\- Luftkvalitet samt miljökvalitetsnormer för luft
+\- Förändrat klimat
+\- Riksintressen
+\- Övriga miljökonsekvenser
 
 Bakgrund till Miljökonsekvensbeskrivning
 Geografisk avgränsning
@@ -16772,7 +16772,7 @@ förorenade områden hanteras frågan i planprocessen och kan leda till att för
 
 åtgärdas. Vi ska också arbeta vidare med det strategiska arbetet för att uppnå målet om att alla
 områden med mycket stor risk eller stor risk för människors hälsa eller miljön ska vara åtgärdade
-2050.
+2050\.
 Naturresurser
 
 De areella näringarna, ibland kallade gröna näringar, har stor betydelse för natur- och kulturvärden,
@@ -17339,18 +17339,18 @@ Barn och unga i olika åldrar har fått tycka till om planen i olika former. Der
 i utformningen av planen.
 
 VI har genomfört dessa dialoger:
-- Barn i förskoleålder: dialog med barn på tre förskolor.
+\- Barn i förskoleålder: dialog med barn på tre förskolor.
 
-- Bred kartenkät: fyra respondenter under 12 år (en underrepresentation sett till befolkningen);
+\- Bred kartenkät: fyra respondenter under 12 år (en underrepresentation sett till befolkningen);
 213 respondenter i åldern 13–17 år (en överrepresentation sett till befolkningen).
 
-- Dialog med hyresgäster: fyra respondenter i åldern upp till 13 år samt 21 respondenter i åldern
+\- Dialog med hyresgäster: fyra respondenter i åldern upp till 13 år samt 21 respondenter i åldern
 13–17 år.
 
-- Kommunutvecklarna (sommarjobbare): 64 samtal med tonåringar och unga vuxna om
+\- Kommunutvecklarna (sommarjobbare): 64 samtal med tonåringar och unga vuxna om
 utvecklingen av staden.
 
-- Medskapande rum ”Kungsbacka Live”: drop-in rum i ett köpcentrum i Kungsbacka stad. Rummet
+\- Medskapande rum ”Kungsbacka Live”: drop-in rum i ett köpcentrum i Kungsbacka stad. Rummet
 hade tema Utvecklingen av Kungsbacka stad under tre dagar. Rummet hade inslag av lek och
 interaktivitet som tilltalar barn och några barn kom in och lämnade sina synpunkter.
 
@@ -17744,7 +17744,7 @@ att kommunen kan upphäva äldre outnyttjade byggrätter inom
 översvämningskänsliga områden och att kommunen i
 översiktsplanen ska redovisa åtgärder för klimatanpassning.
 
----
+\---
 
 De som medverkat i beslutet
 Länsstyrelsen har sänt ärendet på remiss internt samt till
@@ -18946,7 +18946,7 @@ fjorden är generellt dåliga både vad gäller skredrisk och markens risk för 
 ån består till stora delar av gyttja, gyttjig lera eller lera med låg hållfasthet och dåliga sättnings-
 förutsättningar. Jorddjupen utmed de nedre delarna av Kungsbackaån varierar mellan 5-30 m, se
 Figur 2.8. Bedömningen om markens egenskaper och jorddjupen utgår från översiktskartor (SGU
-2020) och tidigare utförda undersökningar inom området. (Norconsult AB, 2011, 2016c, 2017d).
+2020\) och tidigare utförda undersökningar inom området. (Norconsult AB, 2011, 2016c, 2017d).
 Kungsbackafjorden är mycket grund i de inre delarna med ett vattendjup varierande mellan ca 0,5-2
 m. De översta sedimentlagren i fjorden kan antas bestå av lösa sediment med mycket låg hållfasthet.
 Jorddjupen i Kungsbackafjorden är okända.
@@ -19274,9 +19274,9 @@ Beskrivning av tre valda alternativ
 
 I denna förstudie har tre alternativ på placering av ett översvämningsskydd, se Figur 3.8. Dessa är:
 
-1. Skydd längs väg E6
-2. Skydd längs Inlagsleden
-3. Skydd i Kungsbackafjorden
+1\. Skydd längs väg E6
+2\. Skydd längs Inlagsleden
+3\. Skydd i Kungsbackafjorden
 
 N:\106\22\1062265\6 Leverans\04 Färdig handling\2020-12-17 Slutleverans\Huvudrapport.docx | 37(53)
 
@@ -19996,7 +19996,7 @@ Norconsult AB. 2017d: Kungsbacka översvämningsskydd Kolla, Beräknings-PM Geot
 2017-10-06.
 
 Norconsult AB 2018. Miljökonsekvensbeskrivning Kolla översvämningsskydd, Kungsbacka. 2018-06-
-07.
+07\.
 
 Norconsult AB, 2019. Lagunen vid Hammargårdens ARV. Översiktlig miljöteknisk markundersökning.
 Uppdragsnummer 105 40 39.
@@ -20432,7 +20432,7 @@ fjorden är generellt dåliga både vad gäller stabilitet och sättningskänsli
 består till stora delar av gyttja, gyttjig lera eller lera med låg hållfasthet och dåliga sättnings-
 förutsättningar. Jorddjupen utmed de nedre delarna av Kungsbackaån varierar mellan 5-30 m, se
 Figur 2.3. Bedömningen om markens egenskaper och jorddjupen utgår från översiktskartor (SGU
-2020) och tidigare utförda undersökningar inom området. (Norconsult AB, 2011, 2016a).
+2020\) och tidigare utförda undersökningar inom området. (Norconsult AB, 2011, 2016a).
 
 Figur 2.3. Jorddjup utmed Kungsbackaån och Kungsbackafjorden (SGU 2020).
 
@@ -20728,7 +20728,7 @@ Norconsult AB. 2012c. Kungsbacka översvämningsskydd Etapp 1A. PM – PM - Prov
 sediment och ytvatten. 2012-06-11.
 
 Norconsult AB 2018. Miljökonsekvensbeskrivning Kolla översvämningsskydd, Kungsbacka. 2018-06-
-07.
+07\.
 Norconsult AB, 2015. Kungsbacka kommun, Översvämningsskydd för Kungsbackaån Etapp 1a,
 Slutrapport för tillståndspliktiga verksamheter under entreprenaden. Uppdragsnummer 102 17
 76
@@ -20790,7 +20790,7 @@ Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet 
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål. 106 22 65
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 2(21)
 
 [Tabell 507-1](handlingar.tabeller/507-1.csv)
@@ -20847,7 +20847,7 @@ Tillståndsprövning                       19
 
 Litteraturförteckning                        20
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 3(21)
 
 <!-- sida 509 -->
@@ -20870,7 +20870,7 @@ skyddseffekten med ett skydd längs Inlagsleden visas i Figur 1.2.
 
 Figur 1.1 Översiktskarta över placeringen av ett yttre översvämningsskydds längs Inlagsleden.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 4(21)
 
 <!-- sida 510 -->
@@ -20896,7 +20896,7 @@ som under normala nivåer i havet hålls öppen så att båtgenomfart och fiskva
 påverkan. När havsnivåerna stiger och risk för översvämning uppstår, stängs denna port tillfälligt
 varvid en dämning av Kungsbackaån uppstår uppströms skyddet. Vid höga havsnivåer ska flödet
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 5(21)
 
 <!-- sida 511 -->
@@ -20931,7 +20931,7 @@ Inlagsleden. Sektionen visar principen vid högvatten med stängd port.
 kompletterande lokala kantskydd längs med Kungsbackaån att vara en förutsättning för att
 översvämningssäkra staden. Dessa kantskydd kan anläggas etappvis och behövs för att skydda
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 6(21)
 
 <!-- sida 512 -->
@@ -20967,7 +20967,7 @@ osäkerhetspåslagen 0%, 25% och 50%. I detta tidiga skede för projektet anses 
 
 Tabell 1.1. Tabell med översiktliga kostnader som ett översvämningsskydd längs Inlagsleden.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 7(21)
 
 [Tabell 512-1](handlingar.tabeller/512-1.csv)
@@ -21018,7 +21018,7 @@ kan även komma att få acceptera ett högre havsvattenstånd innan skyddet stä
 startar. Kantskydd kommer då att spela en viktig roll som ett komplement till ett yttre
 översvämningsskydd.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 8(21)
 
 <!-- sida 514 -->
@@ -21062,7 +21062,7 @@ påverkar val av pumpar. Tiden det tar att fylla upp denna volym med tillrinning
 under ett framtida 200-årsflöde (68 m3/s) beräknas till ca 13 minuter. Därefter måste man börja pumpa
 vatten över skyddet för att undvika översvämning.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 9(21)
 
 <!-- sida 515 -->
@@ -21114,7 +21114,7 @@ monteras i kolonnrör med diameter 1400 mm.
 Pumparna kan monteras i separata pumpanordningar innefattande en eller flera pumpar, princip enligt
 Figur 2.2, alternativt i en enda stor anordning innefattande alla pumpar.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 10(21)
 )0002HR(
 m
@@ -21161,7 +21161,7 @@ kostnad detta medför beror av avståndet till närmaste anslutningspunkt. I tek
 anläggning för reservkraft till pumpanläggningen för att säkerställa elförsörjningen vid strömavbrott.
 Även tillfartsvägar till teknikhus och pumpanordningar behöver anläggas.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 11(21)
 
 <!-- sida 517 -->
@@ -21190,7 +21190,7 @@ och tidigare utförda undersökningar inom området. (Norconsult AB, 2011, 2016a
 
 Figur 2.3. Jorddjup utmed Kungsbackaån och Kungsbackafjorden (SGI, Kartvisningstjänst, 2020).
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 12(21)
 
 <!-- sida 518 -->
@@ -21231,7 +21231,7 @@ Vid föreslaget skydd längs Inlagsleden utgörs marken väster om ån av brukad
 ån av igenväxande åkermark, gräsytor kring Södra infarten samt ett skogsbevuxet höjdområde
 (Börsåsberget). Inte heller dessa områden hyser några högre naturvärden.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 13(21)
 
 <!-- sida 519 -->
@@ -21265,7 +21265,7 @@ behöva studeras. Vidare bör en undersökning av bottenmiljöerna i berörd del
 Eventuellt krävs även en arkeologisk utredning av berörda delar av fornlämningen på Börsåsberget.
 Dessa utredningar ska utgöra underlag för kommande utredningar och tillståndsprövning.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 14(21)
 
 <!-- sida 520 -->
@@ -21325,7 +21325,7 @@ har glykol, diesel, spilloljor, eldningsolja och bensin hanterats inom området.
 Varvet vid Svinholmens marina byggdes 1973. Vid muddring av Kungsbackaån (1998 och 2002)
 deponerades ca 1000 m³ muddermassor vid Svinholmens marina. Båtbottenfärger har använts inom
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 15(21)
 
 <!-- sida 521 -->
@@ -21356,7 +21356,7 @@ samtliga fyllnadsmassor innehåller halter av föroreningar över Naturvårdsver
 för känslig markanvändning (KM) men under riktvärdet för mindre känslig markanvändning (MKM), se
 Figur 2.8.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 16(21)
 
 <!-- sida 522 -->
@@ -21390,7 +21390,7 @@ samt ytvatten skyddas.
 (Naturvårdsverket 2009)
 Figur 2.8. Faktaruta om Naturvårdsverkets riktvärden för förorenade markområden.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 17(21)
 
 <!-- sida 523 -->
@@ -21449,7 +21449,7 @@ skyddet förutsätter därför bygglov och eventuellt även detaljplan. Själva 
 inte att betrakta som en byggnad, då en byggnad definieras som en varaktig konstruktion som består
 av tak eller av tak och väggar, samt är avsedd för att människor ska kunna uppehålla sig i den.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 18(21)
 
 <!-- sida 524 -->
@@ -21499,7 +21499,7 @@ Beroende på omfattningen av de åtgärder som krävs för att hantera de föror
 i ån samt kring fritidshamnen norr om Inlagsleden kan det i samband med utbyggnaden även behövas
 ett tillstånd alternativt anmälan för miljöfarlig verksamhet.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 19(21)
 
 <!-- sida 525 -->
@@ -21553,7 +21553,7 @@ Norconsult AB. 2012c. Kungsbacka översvämningsskydd Etapp 1A. PM – PM - Prov
 sediment och ytvatten. 2012-06-11.
 
 Norconsult AB 2018. Miljökonsekvensbeskrivning Kolla översvämningsskydd, Kungsbacka. 2018-06-
-07.
+07\.
 
 Norconsult AB, 2015. Kungsbacka kommun, Översvämningsskydd för Kungsbackaån Etapp 1a,
 Slutrapport för tillståndspliktiga verksamheter under entreprenaden. Uppdragsnummer 102 17
@@ -21561,7 +21561,7 @@ Slutrapport för tillståndspliktiga verksamheter under entreprenaden. Uppdragsn
 Norconsult AB, 2016a. Förstudie-Gestaltning av översvämningsskydd, etapp Kolla. Översiktlig
 miljöteknisk markundersökning. Uppdragsnummer 104 14 68.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 20(21)
 
 <!-- sida 526 -->
@@ -21589,7 +21589,7 @@ Vattenmyndigheten. 2020: www.vattenmyndigheterna.se/vattenmyndigheten/ Gis+och+k
 Vattenkartan.html. Databas med geografisk information om sjöar, vattendrag, kust- och
 grundvatten i Sverige. Data hämtad i augusti 2020.
 
-\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
+\\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 21(21)
 
 <!-- sida 527 -->
@@ -21964,7 +21964,7 @@ Jorddjupen i Kungsbackafjorden är okända. Jordlagren i de landområden där sk
 består till stora delar av gyttja, gyttjig lera eller lera med låg hållfasthet och dåliga sättnings-
 förutsättningar. Jorddjupen utmed de nedre delarna av Kungsbackaån varierar mellan 5-30 m, se
 Figur 2.3. Bedömningen om markens egenskaper och jorddjupen utgår från översiktskartor (SGU
-2020) och tidigare utförda undersökningar inom området. (Norconsult AB, 2011, 2016a).
+2020\) och tidigare utförda undersökningar inom området. (Norconsult AB, 2011, 2016a).
 
 Figur 2.3. Jorddjup utmed Kungsbackaån och Kungsbackafjorden (SGU 2020).
 
@@ -22282,7 +22282,7 @@ Uppdragsnr: 106 22 65
 Yttre översvämningsskydd mot höga havsnivåer | Förstudie avseende lokalisering, genomförbarhet och kostnadsbedömning
 
 Norconsult AB 2018. Miljökonsekvensbeskrivning Kolla översvämningsskydd, Kungsbacka. 2018-06-
-07.
+07\.
 Riksantikvarieämbetet. 2020. www.fmis.raa.se/cocoon/fornsok. Fornsök, databas över fornlämningar.
 Data hämtad i mars 2020.
 
@@ -23247,7 +23247,7 @@ Den här pro memorian beskriver förutsättningar för ett högvattenskydd i Kol
 översvämningsskydd mot havet skulle anläggas i Kungsbackaån eller Kungsbackafjorden. Med detta
 avses ett skydd mot höga vattenstånd i havet där pumpar hanterar flödet från Kungsbackaån.
 
-1. Aktuella marknivåer längs ån vid Kolla
+1\. Aktuella marknivåer längs ån vid Kolla
 En terrängmodell framtagen i MSB-projektet ”Översvämningskartering utmed Kungsbackaån” daterad
 2018-11-30 användes för att undersöka marknivåer längs ån vid Kolla. Höjddata kommer från den
 nationella höjddatabasen NNH 2+. Analysen utfördes i GIS-verktyget 3D-analyst i ArcMap. En transekt
@@ -23268,18 +23268,18 @@ Bilaga 7
 Uppdragsgivare: Kungsbacka kommun
 Uppdragsnr: 106 22 65 Version: Slutlig
 
-2. Beräknade vattennivåer i Kungsbackaån med och utan
+2\. Beräknade vattennivåer i Kungsbackaån med och utan
 översvämningsskydd
 Den (tvådimensionella) hydrauliska modell som byggts upp i projektet nämnt ovan användes för att
 undersöka vilka vattennivåer som kan tänkas uppträda längs med ån för två scenarier, med och utan
 översvämningsskydd. De scenarier som beräknats i jämförelsen:
 
-1) Klimatanpassat flöde med 200 års återkomsttid (Q200, 68 m3/s) i kombination med ett
+1\) Klimatanpassat flöde med 200 års återkomsttid (Q200, 68 m3/s) i kombination med ett
 havsvattenstånd på +1,8 (den beräknade årliga medelvattenståndet i havet år 2100). I Figur 2
 visas resultatet med den mörkare blå linjen som beskriver vattenytans lutning i ån. Scenariot
 är identiskt med vad som beskrivits av MSB (2018).
 
-2) Samma flöde som i 1) men med ett översvämningsskydd i fjorden med stora pumpar som
+2\) Samma flöde som i 1) men med ett översvämningsskydd i fjorden med stora pumpar som
 håller ned vattennivån innanför skyddet. Ett antagande är att vattennivån med pumparna
 under ett 200-års flöde inte överstiger höjden +1,0. Den ljusare blå linjen är en längdprofil av
 den beräknade vattenytan för detta fall.
@@ -23302,30 +23302,30 @@ Bilaga 7
 Uppdragsgivare: Kungsbacka kommun
 Uppdragsnr: 106 22 65 Version: Slutlig
 
-3. Slutsatser av jämförelsen
+3\. Slutsatser av jämförelsen
 
 Följande slutsatser kan dras av analysen av markhöjder längs med Kungsbackaån vid Kolla och
 resultat av de beräkningsscenarier med den hydrauliska modellen som redovisas ovan:
--  Kritiska vattennivåer som medför översvämningar vid Kolla är ca +1,0 till +1,5.
+\-  Kritiska vattennivåer som medför översvämningar vid Kolla är ca +1,0 till +1,5.
 
--  Scenario 1 (utan ett yttre översvämningsskydd och med Q200 - 68 m3/s samt för havsnivån
+\-  Scenario 1 (utan ett yttre översvämningsskydd och med Q200 - 68 m3/s samt för havsnivån
 +1,8) innebär överslagsmässigt ett vattenstånd på +1,85 vid södra delen av område Kolla och
 +2,0 vid norra delen av område Kolla.
 
--  Scenario 2 (med ett yttre översvämningsskydd samt med pumpning till vattennivå +1,0)
+\-  Scenario 2 (med ett yttre översvämningsskydd samt med pumpning till vattennivå +1,0)
 sänker den maximala vattennivån utmed ån vid södra delen av område Kolla till ca +1,2 och
 +1,5 i norra delen av område Kolla.
 
--  Med en högre havsvattennivå än +1,8 blir nyttan av översvämningsskyddet större, det vill
+\-  Med en högre havsvattennivå än +1,8 blir nyttan av översvämningsskyddet större, det vill
 säga mer omfattande översvämningar vid Kolla undviks på grund av skyddet.
 
--  Ett lägre översvämningsskydd (lokalt kantskydd) måste anläggas vid Kolla för att skydda mot
+\-  Ett lägre översvämningsskydd (lokalt kantskydd) måste anläggas vid Kolla för att skydda mot
 de förhållanden som beskrivs i scenario 2 (det vill säga trots att ett skydd mot havet byggs).
 
--  Det är möjligt utforma pumparna så att vattennivån hålls lägre än +1,0, vilket skulle innebära
+\-  Det är möjligt utforma pumparna så att vattennivån hålls lägre än +1,0, vilket skulle innebära
 att vattennivåer vid Kolla kan hållas under de kritiska översvämningsnivåerna utan att det
 lokala kantskyddet utmed ån anläggs.
--  Översvämningsskydd i form av lokala kantskydd längs med Kungsbackaån kommer att krävas
+\-  Översvämningsskydd i form av lokala kantskydd längs med Kungsbackaån kommer att krävas
 uppströms i ån (för att hantera flödesberoende översvämningar) även med ett yttre
 översvämningsskydd på plats. Med andra ord räcker det inte att förhindra höga
 havsvattenstånd för att undvika översvämningar i Kungsbackaån, åns flöde orsakar i sig
@@ -23356,7 +23356,7 @@ Den här pro memorian analyserar tänkbara framtida havsnivåer som en förutsä
 förhållanden portar i ett yttre översvämningsskydd mot havet bör stängas och till vilken nivå pumpar
 under dessa tillfällen kan användas för att sänka Kungsbackaåns vattenstånd.
 
-1. Förväntad havsnivåhöjning
+1\. Förväntad havsnivåhöjning
 Det framtida havsvattenståndet påverkas av den förväntade globala havsnivåhöjningen (SLR, Sea
 Level Rise) och landhöjningen (LH). Den förväntade havsnivåhöjningen kan beräknas med
 sambandet:
@@ -23410,7 +23410,7 @@ Figur 2. Förväntad havsnivåhöjning efter SMHI ”Randvillkor till översväm
 havsvattenstånd.” 2018. PÅ uppdrag av MSB.
 De olika scenarierna kan användas för att prognostisera en förväntad havsnivåhöjning. I Tabell 1 visas
 två av scenarierna som valts ut för att visa storleken på en global havsnivåstigning till år 2050 och år
-2100.
+2100\.
 
 Tabell 1. Förväntad global havsnivåhöjning i centimeter.
 
@@ -23497,7 +23497,7 @@ Tabell 4. Karakteristiska havsvattenstånd utifrån uppmätt period 2015-2020 me
 havsnivåhöjning (medeltal enligt RCP8.5) och landhöjning i centimeter (RH2000).
 
 Figur 3. Varaktighet av havsvattenstånd i Kungsbackafjorden uppmätt 2015-2020 och beräknat för 2050 och
-2100.
+2100\.
 
 I Figur 4 visas en uppförstorad bild för de högre havsvattenstånden.
 
@@ -23521,7 +23521,7 @@ Uppdragsgivare: Kungsbacka kommun
 Uppdragsnr: 106 22 65 Version: Slutlig
 
 Figur 4. Varaktighet av havsvattenstånd i Kungsbackafjorden uppmätt 2015-2020 och beräknat för 2050 och
-2100.
+2100\.
 I Figur 3 och 4 kan utläsas att varaktigheten då havsnivån överskrider +50 cm är knappt 4% år 2020,
 ca 17% år 2050 och ca 90% år 2100. Motsvarande siffror för nivån +100 cm är ca 0,1% år 2020, ca
 0,6% år 2050 och ca 9% år 2100. Nivån +150 cm inträffar inte år 2020, för år 2050 överskrids den ca
@@ -23534,7 +23534,7 @@ medelvattenståndet ligger på +73 cm. Varaktigheten är som visas ovan 90% av t
 Tabell 5. Uppmätta och beräknade framtida tillfällen då vattenståndet vid Onsala överskrider nivåerna +50 cm,
 +100 cm och +150 cm baserade på mätserien 2015-2020.
 
-*värdet avser tillfällen då nivån understiger eller överstiger +50 cm. MW är +73 cm så vattenståndet ligger över
+\*värdet avser tillfällen då nivån understiger eller överstiger +50 cm. MW är +73 cm så vattenståndet ligger över
 +50 cm större delen av tiden.
 
 n:\106\22\1062265\5 arbetsmaterial\01 dokument\inför leverans\bilaga 8 pm analys av framtida havsnivåer, skydd och pumpnivåer.docx
@@ -23545,7 +23545,7 @@ n:\106\22\1062265\5 arbetsmaterial\01 dokument\inför leverans\bilaga 8 pm analy
 |  | Antal tillfällen då nivån överskrids per år |  |  |
 | --- | --- | --- | --- |
 |  | 2020 | 2050 | 2100 |
-| >+50 cm (RH2000) | 7 | 7,8 | 8,6* |
+| >+50 cm (RH2000) | 7 | 7,8 | 8,6\* |
 | >+100 cm (RH2000) | 1,4 | 3,2 | 12,4 |
 | >+150 cm (RH2000) | 0 | 1 | 2,4 |
 
@@ -23556,31 +23556,31 @@ Bilaga 8
 Uppdragsgivare: Kungsbacka kommun
 Uppdragsnr: 106 22 65 Version: Slutlig
 
-2. Slutsatser av framtida havsnivåer med avseende på stängning av
+2\. Slutsatser av framtida havsnivåer med avseende på stängning av
 ett yttre översvämningsskydd och pumpning
 
 Följande slutsatser kan dras av analysen av nuvarande och framtida havsnivåer i Kungsbackafjorden
 med avseende på förhållanden när stängning av portar och pumpning av Kungsbackaåns flöde kan bli
 aktuellt.
 
--  De förhållanden då en stängning av portarna till översvämningsskyddet och en pumpning kan
+\-  De förhållanden då en stängning av portarna till översvämningsskyddet och en pumpning kan
 vara aktuell förändras med den stigande havsnivån under perioden mellan åren 2020-2100.
--  Fram till år 2050 då nivån +50 cm förväntas inträffa ca 17% av tiden, kan denna nivå kanske
+\-  Fram till år 2050 då nivån +50 cm förväntas inträffa ca 17% av tiden, kan denna nivå kanske
 vara styrande för när skyddets portar kan stänga. En stängning av portarna behöver då göras
 i genomsnitt 7,8 gånger per år.
 
--  Mot slutet av seklet passerar medelvattenståndet i havet nivån + 50 cm och en närmast
+\-  Mot slutet av seklet passerar medelvattenståndet i havet nivån + 50 cm och en närmast
 kontinuerlig pumpning av Kungsbackaåns vatten krävs då om pumparna ska hålla vattennivån
 på insidan av skyddet vid denna nivå.
 
--  Mot slutet av seklet kan nivån +100 cm vara styrande för när en stängning av portarna till
+\-  Mot slutet av seklet kan nivån +100 cm vara styrande för när en stängning av portarna till
 skyddet och en pumpning kan ske. Denna nivå överskrids ca 9% av tiden år 2100. En
 stängning av portarna behöver då göras i genomsnitt 12,3 gånger per år.
 
--  Mot slutet av seklet behöver översvämningsskyddet mot bakgrund av slutsatsen i föregående
+\-  Mot slutet av seklet behöver översvämningsskyddet mot bakgrund av slutsatsen i föregående
 punkt kompletteras med lokala skydd längs med ån t ex vid bostadsområdet vid Kolla.
 
--  Om ett annat utsläppsscenario (än RCP8.5) blir verklighet kan situationen bli betydligt
+\-  Om ett annat utsläppsscenario (än RCP8.5) blir verklighet kan situationen bli betydligt
 gynnsammare.
 
 Magnus Jewert
@@ -23883,20 +23883,20 @@ PROJEKTETS  LEVERANSER
 Projektet kommer att ha följande leveranser:
 
 Nr  Beskrivning              Mottagare
-1.  Plankostnadsavtal        SBK
+1\.  Plankostnadsavtal        SBK
 
-2.  Projektbeställning       SBK/KS
-3.  Planuppdrag              BNAU
+2\.  Projektbeställning       SBK/KS
+3\.  Planuppdrag              BNAU
 
-4.  Projektplan              SBK
-5.  Principavtal             KS
+4\.  Projektplan              SBK
+5\.  Principavtal             KS
 
-6.  Samrådshandlingar        BN
-7.  Granskningshandlingar    BN
+6\.  Samrådshandlingar        BN
+7\.  Granskningshandlingar    BN
 
-8.  Exploateringsavtal       KS
+8\.  Exploateringsavtal       KS
 
-9.  Antagandehandlingar      BN
+9\.  Antagandehandlingar      BN
 
 Detaljplanen upprättas med standardförfarande. Detaljplanen följer både översiktsplanen och
 fördjupad översiktsplan för Kungsbacka stad. Detaljplanen bedöms dock ha ett visst allmänt
@@ -24700,7 +24700,7 @@ Tabell 2. Sammanställning av belastningsgrader för de studerade scenarierna me
 utformningar i Capcal under eftermiddagens maxtimme.
 
 Utformning Väjningsplikt Väjningsplikt Signalreglering Signalreglering Signalreglering
-+ Extra               + Svängfält + Extra körfält
+\+ Extra               + Svängfält + Extra körfält
 körfält               norrifrån   Tölövägen
 Tölöleden             Söderåleden + Svängfält
 
@@ -25123,74 +25123,74 @@ Gym                     Besök/dag       0Besök/dag 5%
 36
 Kollektivtrafik
 Frågor om lokaltrafik
-1. Turtäthet under högtrafik i om rådet (sam m anlagt för alla linjer)
-2. Avstånd till hållplats (genom snitt i om rådet)
-3. Är tidtabeller i tätorten taktfasta/styva (dvs är det regelbundna m inuttal alla tim m
-4. Hur stor del av tätorten täcks av kollektivtrafiknät?
-5. Vilken standard har de fordon som används för tätortstrafik?
+1\. Turtäthet under högtrafik i om rådet (sam m anlagt för alla linjer)
+2\. Avstånd till hållplats (genom snitt i om rådet)
+3\. Är tidtabeller i tätorten taktfasta/styva (dvs är det regelbundna m inuttal alla tim m
+4\. Hur stor del av tätorten täcks av kollektivtrafiknät?
+5\. Vilken standard har de fordon som används för tätortstrafik?
 Frågor om regionaltrafik
-6. Turtäthet under högtrafik i om rådet (sam m anlagt för alla linjer)
-7. Avstånd till regional busshållplats (genom snitt i om rådet)
-8. Avstånd till station m ed regional tågtrafik (genom snitt i om rådet)
-9. Är tidtabeller i regionaltrafiken taktfasta/styva (dvs är det regelbundna m inuttal
+6\. Turtäthet under högtrafik i om rådet (sam m anlagt för alla linjer)
+7\. Avstånd till regional busshållplats (genom snitt i om rådet)
+8\. Avstånd till station m ed regional tågtrafik (genom snitt i om rådet)
+9\. Är tidtabeller i regionaltrafiken taktfasta/styva (dvs är det regelbundna m inuttal
 alla tim m ar)?
-10. Vilken standard har de fordon som används för regionaltrafik?
+10\. Vilken standard har de fordon som används för regionaltrafik?
 G enerella frågor
-11. Har resenärerna tillgång till realtidsinform ation om kollektivtrafiken?
-12. Prioriteras kollektivtrafiken i kom m unens planering?
-13. Hur ofta ser kom m unen över kollektivtrafiknätet?
-14. Finns m ål och handlingsplan för kollektivtrafiken?
+11\. Har resenärerna tillgång till realtidsinform ation om kollektivtrafiken?
+12\. Prioriteras kollektivtrafiken i kom m unens planering?
+13\. Hur ofta ser kom m unen över kollektivtrafiknätet?
+14\. Finns m ål och handlingsplan för kollektivtrafiken?
 G ång
 Frågor om gångtrafik
-1. Avstånd till lokalt centrum (genom snitt i om rådet)
-2. Hur är gångvägnätet utform at i tätorten?
-3. Hur är standarden på gångvägnätet i tätorten?
-4. Finns problem m ed otrygghet för fotgängare i tätorten?
-5. Hur stor andel av korsningspunkterna m ellan kom m unens gångpassager och
+1\. Avstånd till lokalt centrum (genom snitt i om rådet)
+2\. Hur är gångvägnätet utform at i tätorten?
+3\. Hur är standarden på gångvägnätet i tätorten?
+4\. Finns problem m ed otrygghet för fotgängare i tätorten?
+5\. Hur stor andel av korsningspunkterna m ellan kom m unens gångpassager och
 biltrafikens huvudnät är hastighetssäkrade till 30 km /h? (85-percentil)
-6. Är gångtrafik prioriterat vid drift och underhåll (t.ex. snöröjning)?
-7. Följer kom m unen upp m ängden gångtrafik (t.ex. genom fotgängarräkningar
+6\. Är gångtrafik prioriterat vid drift och underhåll (t.ex. snöröjning)?
+7\. Följer kom m unen upp m ängden gångtrafik (t.ex. genom fotgängarräkningar
 eller resvaneundersökningar)?
-8. Finns m ål och handlingsplan för gångtrafiken?
+8\. Finns m ål och handlingsplan för gångtrafiken?
 Cykel
 Frågor om cykeltrafik
-1. Avstånd till lokalt centrum (genom snitt i om rådet)
-2. Höjdskillnader vid färd till lokalt centrum
-3. Hur stor del av tätorten täcks av cykelvägnät (cykelväg, cykelbana, cykelfält eller
+1\. Avstånd till lokalt centrum (genom snitt i om rådet)
+2\. Höjdskillnader vid färd till lokalt centrum
+3\. Hur stor del av tätorten täcks av cykelvägnät (cykelväg, cykelbana, cykelfält eller
 30 km /h-gator)?
-4. Hur stor andel av kosningspunkterna m ellan kom m unens cykelvägnät och
+4\. Hur stor andel av kosningspunkterna m ellan kom m unens cykelvägnät och
 biltrafikens huvudnät är hastighetssäkrade till 30 km /h? (85-percentil)
-5. Är cykeltrafiken prioriterad vid drift och underhåll (t.ex. snöröjning)?
-6. Följer kom m unen upp m ängden cykeltrafik (t.ex. genom cykelräkningar eller
+5\. Är cykeltrafiken prioriterad vid drift och underhåll (t.ex. snöröjning)?
+6\. Följer kom m unen upp m ängden cykeltrafik (t.ex. genom cykelräkningar eller
 resvaneundersökningar)?
-7. Finns m ål och handlingsplan för cykeltrafiken?
+7\. Finns m ål och handlingsplan för cykeltrafiken?
 Bil
 Frågor om biltrafik
-1. Hur planeras tillgången till bilparkering vid bostäder i om rådet?
-2. Hur planeras tillgången till bilparkering vid arbetsplatser i om rådet?
-3. Hur prioriterat är bilvägnätet i tätorten?
-4. Generell parkeringstillgång i tätorten.
-5. Förväntat bilinnehav i om rådet (M edel i Sverige 2009: 461 bilar/1000 invånare.
+1\. Hur planeras tillgången till bilparkering vid bostäder i om rådet?
+2\. Hur planeras tillgången till bilparkering vid arbetsplatser i om rådet?
+3\. Hur prioriterat är bilvägnätet i tätorten?
+4\. Generell parkeringstillgång i tätorten.
+5\. Förväntat bilinnehav i om rådet (M edel i Sverige 2009: 461 bilar/1000 invånare.
 M in 290. M ax 694)
-6. Hur är inställningen till att bygga nya vägar i kom m unen?
-7. Finns m ål och handlingsplan för att m inska biltrafiken?
+6\. Hur är inställningen till att bygga nya vägar i kom m unen?
+7\. Finns m ål och handlingsplan för att m inska biltrafiken?
 M obility m anagem ent
 Arbetar kom m unen m ed M obility m anagem ent?
-1. Arbetar kom m unen m ed m obility m anagem ent dvs. m juka åtgärder för att
+1\. Arbetar kom m unen m ed m obility m anagem ent dvs. m juka åtgärder för att
 ändra resbeteende?
 Hur arbetar kom m unen m ed…
-1. Grön resplan/m obilitetsplan
-2. Kam panjer för m er m iljövänligt resande
-3. Sam lad reseinform ation för flera färdsätt
-4. Utbildning om hållbart resande
-5. Distansarbete
-6. Resfria m öten
-7. M ålgruppsanpassade kam panjer t.ex. testresenärer, hälsotram pare
-8. Bättre cykelfaciliteter (ej infrastruktur)
-9. Bilpooler
-10. Sparsam körning/Eco-driving
+1\. Grön resplan/m obilitetsplan
+2\. Kam panjer för m er m iljövänligt resande
+3\. Sam lad reseinform ation för flera färdsätt
+4\. Utbildning om hållbart resande
+5\. Distansarbete
+6\. Resfria m öten
+7\. M ålgruppsanpassade kam panjer t.ex. testresenärer, hälsotram pare
+8\. Bättre cykelfaciliteter (ej infrastruktur)
+9\. Bilpooler
+10\. Sparsam körning/Eco-driving
 Kontinuitet
-1. Hur länge har kom m unen arbetat m ed m obility m anagem ent?
+1\. Hur länge har kom m unen arbetat m ed m obility m anagem ent?
 ar)?
 Välj svar i listorna (inget svar = Sverigem edel)
 16-30-m inuterstrafik
@@ -25262,7 +25262,7 @@ med cykel: 15%
 till fots: 30%
 med annat: 2%
 Resor uppdelat efter markanvändning (exkl. nyttotrafik)
-Markanvändningstyp Bil Kollektivtrafik*Cykel Gång Annat Totalt
+Markanvändningstyp Bil Kollektivtrafik\*Cykel Gång Annat Totalt
 
 ```osaker-tabell
 Lägenhet            3 40   125   133  268  2 0  886
@@ -25281,7 +25281,7 @@ Låg/mellanstadium   -      -     -    -    -     -
 Högstadie/gymnasium -      -     -    -    -     -
 Gym                 -      -     -    -    -     -
 Totalt antal resor/dygn 3 78 138 147  297  2 2  982
-* Totalt antal på- och avstigande
+\* Totalt antal på- och avstigande
 Påverkansparametrarnas effekt på färdmedelsandelarna
 Nedanstående tabell visar påverkansparametrarnas effekt på resultatet. Detta är inräknat i samtliga resultattabeller.
 Uppskattat antal bilar
@@ -26369,7 +26369,7 @@ löneutveckling i kommunen. Mäns löner ligger genomgående något högre än k
 år, men skillnaden har minskat något över tid.
 Diagrammet nedan visar att lönespridningen, det vill säga skillnaden mellan de lägsta och högsta
 lönenivåerna (P10–P90), är något större bland män än bland kvinnor under hela perioden 2021–
-2025. Det innebär att män i högre utsträckning återfinns både i de högre och lägre lönenivåerna,
+2025\. Det innebär att män i högre utsträckning återfinns både i de högre och lägre lönenivåerna,
 medan kvinnors löner är mer samlade kring medianen. Detta mönster är vanligt i många
 organisationer och kan bero på flera faktorer, exempelvis skillnader i befattningsnivåer,
 yrkesstruktur eller marknadsdrivna lönespann i manligt dominerade yrken.

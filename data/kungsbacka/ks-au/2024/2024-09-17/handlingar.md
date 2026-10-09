@@ -1109,7 +1109,7 @@ Kommundirektör                     Samhällsbyggnadschef
 
 TILLÄGG 2 TILL KÖPEAVTAL
 
-1. PARTER
+1\. PARTER
 Kungsbacka kommun (212000-1256), 434 81 Kungsbacka, nedan kallad Kommunen.
 
 Fastighets AB Kungsbacka Duvehed 2:56 (559321-4439), c/o Textilia, Box 1544, 70115
@@ -1117,10 +1117,10 @@ Fastighets AB Kungsbacka Duvehed 2:56 (559321-4439), c/o Textilia, Box 1544, 701
 
 Kommunen och Köparen kallas nedan gemensamt för Parterna.
 
-2. BAKGRUND OCH FÖRUTSÄTTNINGAR
+2\. BAKGRUND OCH FÖRUTSÄTTNINGAR
 
 Kommunen sålde genom beslut i kommunstyrelsens arbetsutskott 2022-01-11
-(KS/2021:682, $13) fastigheten Duvehed 2:56 till, fastighetsbolaget Kivi-Tex Properties
+(KS/2021:682, \$13) fastigheten Duvehed 2:56 till, fastighetsbolaget Kivi-Tex Properties
 Sweden AB (namnändrat till Fastighets AB Kungsbacka Duvehed 2:56). På fastigheten
 inom, Duveheds verksamhetsområde, kommer systerbolaget Textilia Tvätt & Textilservice
 AB, som är ett företag inom tvätteribranschen, att bedriva en del av sin verksamhet i en ny
@@ -1149,21 +1149,21 @@ projektet i Duvehed. Företaget kommer vidare att ansöka om ett nytt bygglov, d
 gällande lovet löper ut 2024-10-11. Parterna har därför enats om att träffa detta tillägg 2 till
 köpeavtalet.
 
-3. JUSTERAD TIDPUNKT FÖR BYGGSTART M.M.
+3\. JUSTERAD TIDPUNKT FÖR BYGGSTART M.M.
 Parterna är överens om att:
 
-- Tidpunkten för att påbörja byggnationen, enligt punkt 23.4 i Avtalet, ska ändras från 6
+\- Tidpunkten för att påbörja byggnationen, enligt punkt 23.4 i Avtalet, ska ändras från 6
 månader till 36 månader från datum då bygglov meddelades, vilket innebär att
 byggnation ska påbörjas senast 2025-10-11.
 
-- Tidpunkten för kommunens rätt att häva köpet, enligt punkt 25 a) ska ändras så att den,
+\- Tidpunkten för kommunens rätt att häva köpet, enligt punkt 25 a) ska ändras så att den,
 vad avser frågan om påbörjad byggnation, gäller från 2025-10-11. Avtalet upphör då
 att gälla och erlagd handpenning återbetalas inte. Köparen äger inte heller rätt till
 skadestånd eller annan ersättning från Kommunen.
 
 <!-- sida 19 -->
 
-- — Avtalet ska i övrigt fortsätta att gälla med oförändrade avtalsvillkor.
+\- — Avtalet ska i övrigt fortsätta att gälla med oförändrade avtalsvillkor.
 
 Detta avtal har upprättats i två likalydande exemplar av vilka Parterna tagit varsitt.
 
@@ -1181,7 +1181,7 @@ Kommundirektör
 
 TILLÄGGSAVTAL TILL KÖPEAVTAL
 
-1. PARTER
+1\. PARTER
 Kungsbacka kommun (212000-1256), 434 81 Kungsbacka, nedan kallad Kommunen.
 
 Fastighets AB Kungsbacka Duvehed 2:56 (559321-4439), c/o Textilia, Box 1544, 70115 Örebro
@@ -1189,9 +1189,9 @@ nedan kallat Köparen
 
 Kommunen och Köparen kallas nedan gemensamt för Parterna.
 
-2. BAKGRUND OCH FÖRUTSÄTTNINGAR
+2\. BAKGRUND OCH FÖRUTSÄTTNINGAR
 
-Kommunen sålde genom beslut i kommunstyrelsens arbetsutskott 2022-01-11 (KS/2021:682, $13)
+Kommunen sålde genom beslut i kommunstyrelsens arbetsutskott 2022-01-11 (KS/2021:682, \$13)
 fastigheten Duvehed 2:56 till, fastighetsbolaget Kivi-Tex Properties Sweden AB (namnändrat till
 Fastighets AB Kungsbacka Duvehed 2:56). På fastigheten inom Duveheds verksamhetsområde
 kommer systerbolaget Textilia Tvätt & Textilservice AB, som är ett företag inom tvätteribranschen,
@@ -1206,19 +1206,19 @@ inflation, stigande räntor och kraftigt stigande priser har gjort att en framfl
 byggnationen med ytterligare 6 månader är önskvärd för att skapa flexibilitet och kunna få in bra
 anbud för byggnationen. Parterna har därför enats om att träffa detta tilläggsavtal.
 
-3. JUSTERAD TIDPUNKT FÖR BYGGSTART M.M.
+3\. JUSTERAD TIDPUNKT FÖR BYGGSTART M.M.
 Parterna är överens om att:
 
-- Tidpunkten för att påbörja byggnationen, enligt punkt 23.4 i Avtalet, ska ändras från 6 månader
+\- Tidpunkten för att påbörja byggnationen, enligt punkt 23.4 i Avtalet, ska ändras från 6 månader
 till 12 månader från datum då bygglov meddelades, vilket innebär att byggnation ska påbörjas
 senast 2023-10-11.
 
-- Tidpunkten för kommunens rätt att häva köpet, enligt punkt 25 a) ska ändras så att den, vad
+\- Tidpunkten för kommunens rätt att häva köpet, enligt punkt 25 a) ska ändras så att den, vad
 avser frågan om påbörjad byggnation, gäller från 2023-10-11. Avtalet upphör då att gälla och
 erlagd handpenning återbetalas inte. Köparen äger inte heller rätt till skadestånd eller annan
 ersättning från Kommunen.
 
-- Avtalet ska i övrigt fortsätta att gälla med oförändrade avtalsvillkor.
+\- Avtalet ska i övrigt fortsätta att gälla med oförändrade avtalsvillkor.
 
 Detta avtal har upprättats i två likalydande exemplar av vilka Parterna tagit varsitt.
 
@@ -1236,7 +1236,7 @@ Kommunstyrelsens arbetsutskott Datum
 
 2023-04-04
 
-$ 93 Dnr 2021-00682
+\$ 93 Dnr 2021-00682
 
 Godkännande av tilläggsavtal till köpeavtal avseende försäljning av
 Duvehed 2:56, Duvehed verksamhetsområde
@@ -1254,7 +1254,7 @@ nödvändiga handlingar för avtalets genomförande.
 
 Upplysning
 Beslut fattat med stöd av delegering. Kommunstyrelsens delegeringsförteckning:
-punkt 2.4.13 2022-01-24, $ 7.
+punkt 2.4.13 2022-01-24, \$ 7.
 
 Sammanfattning av ärendet
 
@@ -1287,7 +1287,7 @@ plank, 2022-10-11,
 
 Undertecknat köpeavtal inkl. bilagor, 2022-01-25
 
-Kommunstyrelsens arbetsutskott, 2022-01-11, $ 13
+Kommunstyrelsens arbetsutskott, 2022-01-11, \$ 13
 
 Översiktskarta Duvehed
 
@@ -1616,7 +1616,7 @@ Köpare: Kivi-Tex Properties Sweden AB (org-nr 559321-4439) c/o Textilia, Box 15
 
 Fastighet: Del av Duvehed 2:14 (blivande Duvehed 2:56), nedan kallad Området
 
-1. Bakgrund
+1\. Bakgrund
 
 1.1 Mellan Parterna träffas denna dag, Avtalsdagen, detta köpeavtal, Avtalet.
 
@@ -1630,7 +1630,7 @@ låta uppföra en ny byggnad (genom Köparen) på Området inom Duveheds verksam
 Området kommer att ägas av Köparen som är ett systerbolag till Tvätt & Textilservice AB och
 båda bolagen ägs av det danska moderbolaget KIVI-TEX AS (nedan kallat Moderbolaget).
 
-2. Överlåtelseförklaring
+2\. Överlåtelseförklaring
 
 2.1 Kommunen överlåter härmed till Köparen ett område om ca 13 000 m?, utgörande del av
 fastigheten Duvehed 2:14 (blivande Duvehed 2:56), markerad med blå linje på den tillhörande
@@ -1682,7 +1682,7 @@ Sign
 
 9.1
 
-10.
+10\.
 
 10.1
 
@@ -1752,7 +1752,7 @@ Sign
 
 10.3
 
-11.
+11\.
 
 11.2
 
@@ -1760,7 +1760,7 @@ Sign
 
 11.4
 
-12.
+12\.
 
 12.1
 
@@ -1833,17 +1833,17 @@ Sign
 
 12.5
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 14.1
 
 14.2
 
-15.
+15\.
 
 15.1
 
@@ -1853,11 +1853,11 @@ Sign
 
 15.4
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 17.1
 
@@ -1923,7 +1923,7 @@ Sign
 
 <!-- sida 34 -->
 
-18.
+18\.
 
 18.1
 
@@ -1933,19 +1933,19 @@ Sign
 
 18.4
 
-19.
+19\.
 
 19.1
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
-22.
+22\.
 
 22.1
 
@@ -2015,7 +2015,7 @@ Sign
 
 <!-- sida 35 -->
 
-23.
+23\.
 
 23.1
 
@@ -2029,11 +2029,11 @@ Sign
 
 23.6
 
-24.
+24\.
 
 24.1
 
-25.
+25\.
 
 6/8
 
@@ -2096,17 +2096,17 @@ Sign
 
 <!-- sida 36 -->
 
-26.
+26\.
 
 26.1
 
-27.
+27\.
 
 27.1
 
 21.2
 
-28.
+28\.
 
 28.1
 
@@ -2116,7 +2116,7 @@ Sign
 
 29.2
 
-30.
+30\.
 
 30.1
 
@@ -2283,7 +2283,7 @@ kraft
 
 Genomförandetiden slutar 2031-11-11
 
-+ Skala 12000 IAI, 1:4000 1A3
+\+ Skala 12000 IAI, 1:4000 1A3
 o 2 40 60 80 100 200m
 
 <!-- sida 39 -->
@@ -2383,7 +2383,7 @@ wmww.bolagsverket.se
 Organlsallonsnummer
 559321-4439
 
-- | Objeklets registreringsdatum + + > + Föret i gl
+\- | Objeklets registreringsdatum + + > + Föret i gl
 2021-06-08 2021-09-08
 Dokumenlet skapat Sida
 
@@ -2439,7 +2439,7 @@ nödvändiga handlingar.
 
 Upplysning
 Beslut fattat med stöd av delegering. Kommunstyrelsens delegeringsförteckning:
-punkt 3.4.10, 2020-12-15, $ 294.
+punkt 3.4.10, 2020-12-15, \$ 294.
 
 Sammanfattning av ärendet
 
@@ -3065,21 +3065,21 @@ Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendeval
 1 Förtroendevalda
 
 De grupper av förtroendevalda som omfattas av dessa riktlinjer är
--  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
+\-  Förtroendevalda på heltid (eller betydande del av heltid); kommunalråd
 
--  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
+\-  Förtroendevalda på deltid; ordförande, vice ordförande, 2:e vice ordförande i
 kommunfullmäktige, nämnder, styrelser och revisionen, ledamöter i
 arbetsutskott, utskott, ordförande och vice ordförande i kommunala bolag
 och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare (leder respektive partigrupp i kommunfullmäktige)
--  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
+\-  Förtroendevalda utan hel- eller deltid; ordinarie ledamöter och ersättare i
 
 kommunfullmäktige, nämnder, styrelsen, revisionen, ledamöter och ersättare
 i kommunala bolag- och stiftelser, beredningar och andra uppdrag enligt
 särskilt beslut.
--  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
+\-  Ledamöter och ersättare i utskott beslutade av kommunfullmäktige
 
--  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
+\-  Andra uppdrag efter beslut av kommunfullmäktige, styrelsen, nämnd eller
 revisionen.
 Kommunens bolag och stiftelser rekommenderas att tillämpa dessa riktlinjer.
 
@@ -3102,10 +3102,10 @@ kommunalråd till den del avdraget överstiger timersättningen (se avsnitt 2.6)
 Om avdraget för arbetsinkomst eller annan ekonomisk förmån överstiger
 schablonen, kan den förtroendevalda begära ytterligare ersättning.
 Rätten till ledighet avser
-- möten i kommunala organ
-- andra möten som är nödvändiga för uppdragen,
-- resor till och från mötena,
-- behövlig dygnsvila omedelbart före eller efter mötena.
+\- möten i kommunala organ
+\- andra möten som är nödvändiga för uppdragen,
+\- resor till och från mötena,
+\- behövlig dygnsvila omedelbart före eller efter mötena.
 
 Denna ersättning gäller inte för kommunalråd.
 
@@ -3333,9 +3333,9 @@ bolag och stiftelser, ordförande i kommunfullmäktiges valberedning,
 partigruppledare.
 Arvode betalas i form av
 
--  Fast arvode för deltidsuppdrag
+\-  Fast arvode för deltidsuppdrag
 
--  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
+\-  Dagarvode och timersättning för sammanträde och vissa aktiviteter.
 Utöver arvodet kan förtroendevalda på deltid även begära ersättning för övriga
 förmåner enligt avsnitt 2.
 
@@ -3425,9 +3425,9 @@ förtroendevalda representerar det organ denne själv tillhör. Därtill betalas
 och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1) Numreringen överensstämmer med numreringen i samtliga tabeller.
+1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 11 (17)
 
@@ -3582,9 +3582,9 @@ har ägt rum.
 
 När en förtroendevald ska begära ersättning
 
--  för andra förmåner än dagarvode, timersättning och reseersättning, i
+\-  för andra förmåner än dagarvode, timersättning och reseersättning, i
 samband med protokollfört sammanträde eller
--  efter deltagande på en annan aktivitet än protokollfört sammanträde som
+\-  efter deltagande på en annan aktivitet än protokollfört sammanträde som
 beslutats och som utgör grund för dagarvode enligt dessa regler,
 
 ska ansökan göras i avsedd e-tjänst Tjänster - Kungsbacka kommun Till ansökan
@@ -3638,7 +3638,7 @@ att utvärdera fördelningen mellan ersättning och förlorad arbetsförtjänst.
 
 ska återrapporteras till kommunfullmäktige under andra halvan av mandatperioden
 2023–2027.
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun      Riktlinjer och regler för förmåner till förtroendevalda 17 (17)
 
@@ -3768,11 +3768,11 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
 
-- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 Sammanfattning av styrelsens arbete med målet
 Kungsbacka Live
 
@@ -3806,12 +3806,12 @@ Delårsrapport augusti 2024
 
 Fokusområden
 
-- Kungsbacka växer med en långsiktigt hållbar ekonomi.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
 
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av styrelsens arbete med målet
 Hållbarhetskriterier vid markanvisning
@@ -3862,8 +3862,8 @@ Delårsrapport augusti 2024
 
 Fokusområden
 
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 
 Sammanfattning av styrelsens arbete med målet
@@ -3942,9 +3942,9 @@ tillsammans med regionerna har antagit och verkar för.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Sammanfattning av styrelsens arbete med målet
 Kommunstyrelsen har inga aktiviteter under målet.
@@ -3955,12 +3955,12 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
+\- I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att utforma det
 goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med kommunen.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med kommunen.
 
-- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Sammanfattning av styrelsen arbete med målet
 
 Digitalisering av gamla detaljplaner

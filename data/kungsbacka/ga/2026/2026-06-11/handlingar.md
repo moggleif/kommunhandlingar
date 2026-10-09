@@ -4512,7 +4512,7 @@ Saken           Fordran
 
 Forum           10 kap.1 och 14 andra stycket §§ rättegångsbalken
 
-\__________________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Rågmark & Partners Advokatbyrå KB │ Hornsgatan 24, 118 20 Stockholm │ ragmark.se
 
@@ -8838,7 +8838,7 @@ till tingsrätten (i anledningen av genkäromålet).
 
 Stockholm som ovan
 
-\____________________           ____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Gunnar Svedberg                Rikard Samuelsson
 
 Sida 98 av 101
@@ -8920,7 +8920,7 @@ Sida 101 av 101
 <!-- sida 208 -->
 
 E-tjänst för att signera och skicka handlingar digitalt
-\________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 På domstol.se finns en e-tjänst för att digitalt Dokumenten måste vara av PDF-format och
 signera och skicka in handlingar till domstolar får inte sammanlagt överstiga 20 MB.

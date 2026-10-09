@@ -186,11 +186,11 @@ upphäva kommunfullmäktige i Kungsbackas beslut om lokal ordningsföreskrift.
 YRKANDE
 
 Kungsbacka kommun (kommunen) yrkar att Förvaltningsrätten i Göteborg upphäver Länsstyrelsen i
-Hallands läns beslut om att upphäva 15 a $ (förbud mot användning av lustgas i berusningssyfte),
-tillhörande bilaga 6, den text i bilaga 3 som gäller 15 a $, i lokala ordningsföreskrifter för Kungsbacka
+Hallands läns beslut om att upphäva 15 a \$ (förbud mot användning av lustgas i berusningssyfte),
+tillhörande bilaga 6, den text i bilaga 3 som gäller 15 a \$, i lokala ordningsföreskrifter för Kungsbacka
 kommun, samt att Förvaltningsrätten i Göteborg fastställer kommunfullmäktige i Kungsbacka
 
-kommuns beslut den 16 juni 2025, $ 121.
+kommuns beslut den 16 juni 2025, \$ 121.
 
 GRUND
 
@@ -509,7 +509,7 @@ sammanställas.
 
 Kungsbacka som ovan
 
-________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Lisa Andersson
 
@@ -556,7 +556,7 @@ Länsstyrelsen begär, med stöd av 2 § andra stycket förordningen
 meddela lokala föreskrifter enligt ordningslagen, att detta beslut
 anslås på kommunens anslagstavla enligt 8 kap. 9-11 §§ kommunal-
 lagen (2017:725). Beslutet ska vara anslaget till och med den 5 augusti
-2025.
+2025\.
 
 Beskrivning av ärendet
 
@@ -755,17 +755,17 @@ och säkerhet på offentliga platser m.m.
 
 Av 1 kap. 2 § OL framgår att med offentlig plats avses:
 
-1. allmänna vägar,
+1\. allmänna vägar,
 
-2. gator, vägar, torg, parker och andra platser som i detaljplan
+2\. gator, vägar, torg, parker och andra platser som i detaljplan
 
 redovisas som allmän plats och som har upplåtits för sitt ändamål,
 
-3. områden som i detaljplan redovisas som kvartersmark för
+3\. områden som i detaljplan redovisas som kvartersmark för
 hamnverksamhet, om de har upplåtits för detta ändamål och är
 tillgängliga för allmänheten, samt
 
-4. andra landområden och utrymmen inomhus som stadigvarande
+4\. andra landområden och utrymmen inomhus som stadigvarande
 
 används för allmän trafik.
 
@@ -910,7 +910,7 @@ Kungsbacka stad
 No
 id ZrN
 
-- Lunden
+\- Lunden
 
 <!-- sida 23 -->
 
@@ -1081,7 +1081,7 @@ Beskrivning av ärendet
 Utredningen har sin bakgrund i den tillströmning av personer från andra länder som under 2010-talet
 och framåt kommer till Sverige för att tigga för sin försörjning.
 
-1. Rörlighetsdirektivet (2004/38/EG)
+1\. Rörlighetsdirektivet (2004/38/EG)
 
 Under 2004 antog Europaparlamentet och rådet rörlighetsdirektivet (2004/38/EG) som innehåller
 artiklar om unionsmedborgares och deras familjemedlemmars rätt att fritt röra sig och uppehålla sig
@@ -1101,7 +1101,7 @@ Uppehållsrätt är en rätt att uppehålla sig och vistas i en medlemsstat utan
 KUNGSBACKA  KOMMUN
 3 (7)
 
-2. Samordningsuppdrag för tiggeriet
+2\. Samordningsuppdrag för tiggeriet
 
 Tillströmningen av EU-medborgare påverkade de flesta myndigheter och samhällsfunktioner vilket
 föranledde behov av nationell samordning, först av en statlig utredning 2015–2016 (med en nationell
@@ -1122,7 +1122,7 @@ konstaterade vidare att barnen riskerade fara illa och tvingas tigga likväl som
 människohandel. Det handlade då om oseriösa arbetsgivare med orimliga arbetsförhållanden eller
 koppleri och människohandel.2
 
-3. Tiggeri från 2022 och framåt
+3\. Tiggeri från 2022 och framåt
 
 Antalet tiggare har de senaste åren enligt utredningen minskat i omfattning. Det är den samlade bilden
 från myndigheter, länsstyrelser, och kommuner. Det är dock samma kategorier av grupper som tigger
@@ -1155,7 +1155,7 @@ KUNGSBACKA  KOMMUN
 till en natt på ett härbärge. Det har också tillkommit nya grupper. Främst har antalet äldre personer
 
 med låg pension uppmärksammats.
-4. Statistik över brotten människohandel i tiggeri
+4\. Statistik över brotten människohandel i tiggeri
 
 Brottsförebyggande rådet (Brå) saknar uppgifter om antalet domar specifikt för formen tiggeri. Skälet
 är att statistiken över domar visar brottet människohandel i sin helhet utan att formerna anges. Däremot
@@ -1172,7 +1172,7 @@ perioden 2018–2023. Uppföljningen visar antal anmälningar i kategorin Exploa
 till 385 (varav 7 åtal och 2 domar), medan Exploatering i tiggeri renderade i 42 anmälningar
 
 (varav 10 åtal och 7 domar).
-5. Gällande rätt
+5\. Gällande rätt
 
 5.1. Internationella åtaganden och europeisk reglering
 
@@ -1217,7 +1217,7 @@ platserna som på flera av de andra problemen som utgjort skäl för att införa
 föreskrifterna, det vill säga ordningsstörningar, nedskräpning och sanitära problem, butiksstölder, ökad
 otrygghet bland allmänheten samt indikationer på människohandel eller människoexploatering.
 
-6. Utredningens slutsatser och förslag
+6\. Utredningens slutsatser och förslag
 
 Utredningens slutsats är att det inte finns något behov av att införa ett nationellt förbud mot tiggeri.
 Detta för att tiggeriet numera har minskat i betydande omfattning att det inte längre kan sägas utgöra
@@ -1256,7 +1256,7 @@ Sårbarheten är också tänkt att bedömas utifrån risken för diskriminering.
 vilket främst antas utgöras av sårbara personer, finns också andra skyddsmekanismer som har att göra
 med polisens befogenhet enligt polislagen att ingripa och eventuellt meddela rapporteftergift.
 
-7. Nämndernas yttranden
+7\. Nämndernas yttranden
 Betänkandet har översänts till nämnderna för Individ & Familjeomsorg, Teknik och Kultur & Fritid för
 yttrande.
 
@@ -1279,7 +1279,7 @@ menar att tiggeriet minskat betydligt efter covid-19-pandemin, och att den minsk
 kontanthanteringen i samhället innebär att tiggeri inte kommer vara vare sig omfattande eller ett stort
 problem i Sverige framöver.
 
-8. Kommunstyrelsens förvaltnings bedömning
+8\. Kommunstyrelsens förvaltnings bedömning
 
 Kommunstyrelsens förvaltning anser att utsatthet och fattigdom i det offentliga rummet är viktiga
 frågor som behöver hanteras, liksom den problematik som kan kopplas till tiggeri. Kommunstyrelsens
@@ -2496,17 +2496,17 @@ Regeringen får enligt 1 § KLM-lagen meddela tillstånd för en kommun att inr�
 lantmäterimyndighet och att svara för verksamheten vid myndigheten. För tillstånd krävs enligt 2 §
 att kommunen visar att
 
-1. myndigheten kommer att få hela kommunen som sitt verksamhetsområde,
+1\. myndigheten kommer att få hela kommunen som sitt verksamhetsområde,
 
-2. myndighetens arbetsuppgifter väsentligen kommer att begränsas till förrättningsverksamhet och
+2\. myndighetens arbetsuppgifter väsentligen kommer att begränsas till förrättningsverksamhet och
 myndighetsservice i anslutning till förrättningsverksamheten,
 
-3. myndigheten kommer att få en för ändamålet lämplig organisation och en verksamhet som kan
+3\. myndigheten kommer att få en för ändamålet lämplig organisation och en verksamhet som kan
 beräknas få tillräcklig omfattning för att nödvändig kompetens skall kunna upprätthållas,
-4. minst två tjänstemän inom myndigheten kommer att ha den kompetens och erfarenhet som
+4\. minst två tjänstemän inom myndigheten kommer att ha den kompetens och erfarenhet som
 krävs för att handlägga förrättningar,
 
-5. myndighetens informationssystem kommer att få en sådan teknisk standard som säkerställer det
+5\. myndighetens informationssystem kommer att få en sådan teknisk standard som säkerställer det
 informationsutbyte mellan stat och kommun som behövs inom lantmäteriområdet.
 
 Denna ansökan visar att Kungsbacka kommun uppfyller de krav som ställs för att få inrätta en
@@ -3055,12 +3055,12 @@ förbättra servicen till allmänheten, organisationer och företag.
 3.4 Pågående utredningar
 
 I dagsläget pågår två utredningar som kan påverka framtiden för kommunala lantmäterier.
-1) Den statliga utredningen Förändring genom försök som var ute på remiss till 16 januari
-2024. Utredningen föreslår att kommuner i en försöksverksamhet under vissa
+1\) Den statliga utredningen Förändring genom försök som var ute på remiss till 16 januari
+2024\. Utredningen föreslår att kommuner i en försöksverksamhet under vissa
 förutsättningar ska kunna ges tillstånd av regeringen att inrätta en kommunal
 lantmäterimyndighet i samverkan eller genom avtalssamverkan.3
 
-2) En nyligen påbörjad utredning som ska vara färdig senast 1 oktober 2025. Utredningen ska
+2\) En nyligen påbörjad utredning som ska vara färdig senast 1 oktober 2025. Utredningen ska
 göra en översyn av lantmäterimyndigheternas organisering i syfte att förbättra
 förutsättningarna för både den statliga och de kommunala lantmäterimyndigheterna att
 bedriva en effektiv, enhetlig och rättssäker fastighetsbildning i hela landet. Utredningen ska
@@ -3167,10 +3167,10 @@ till den avdelning som har kunskap inom mät, kart och GIS.
 I sin ansökan räknade Eskilstuna på 170 inkomna ärenden per år vilket skulle ge en intäkt på nio
 miljoner. För att klara ärendemängden bedömdes de behöva vara nio personer. Kostnaderna per
 år uppskattades till 9,2 miljoner där personal var den största kostnaden. Andra jämförelser är:
--  Varberg har cirka 150 ärenden per år, på KLM är 16 anställda. De ser att det blir mer och
+\-  Varberg har cirka 150 ärenden per år, på KLM är 16 anställda. De ser att det blir mer och
 mer komplexa ärenden.
 
--  Göteborg har cirka 340 ärenden per år, på KLM är 14 personer anställda på respektive
+\-  Göteborg har cirka 340 ärenden per år, på KLM är 14 personer anställda på respektive
 KLM-enhet, vilket ger 28 personer totalt.
 Kungbacka har under de fem senaste åren haft ett snitt på 210 ärenden hos Lantmäteriet vilket
 
@@ -3253,19 +3253,19 @@ KLM.pdf
 Beslut från regeringen, samt lantmäteriets yttranden
 Beslut från regeringen angående kommunalt lantmäteri, samt lantmäteriets yttrande i ärendet för:
 
--  Eskilstuna
+\-  Eskilstuna
 
--  Falun
--  Härryda
+\-  Falun
+\-  Härryda
 
--  Höganäs
--  Järfälla
+\-  Höganäs
+\-  Järfälla
 
--  Ljusdal
--  Malung-Sälen
+\-  Ljusdal
+\-  Malung-Sälen
 
--  Vetlanda
--  Ängelholm
+\-  Vetlanda
+\-  Ängelholm
 
 Intervjuer
 Chef för KLM i:
@@ -3320,11 +3320,11 @@ får i uppdrag att utreda förutsättningarna för att ansöka om ett kommunalt 
 
 2 juni 2024
 
-_________________________           __________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Thure Sandén (M)                    Daniel Hognert (M)
 
-__________________________          ____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_          \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Heinrich Kaufmann (C)               Fredrik Kollberg (KD)
 
 2 (2)
@@ -3504,7 +3504,7 @@ för bil skulle tillskapas med 1,2 platser/lägenhet och 1,8 platser/småhus.
 Parkeringsbehovet för bil inom Detaljplanen ordnas genom parkering inom de
 egna kvarteren samt i en gemensam mobilitetshub centralt i området. Till grund
 för bedömningen av parkeringsbehovet vid planering av nybyggnation ligger
-Parkeringsstrategi för Kungsbacka Stad (KS/2017 $210).
+Parkeringsstrategi för Kungsbacka Stad (KS/2017 \$210).
 
 Bolaget tog 2022-02-24 fram en mobilitetsutredning som redovisar förslag på
 mobilitetsåtgärder som, om de genomförs, skulle kunna motivera sänkta
@@ -3827,8 +3827,8 @@ tel 010-456 56 00 · info@trivector.se
 
 Trivector                                                     3:17
 
-1. Bakgrund .............................................................................. 4
-2. Utgångsläge och förutsättningar ................................................ 5
+1\. Bakgrund .............................................................................. 4
+2\. Utgångsläge och förutsättningar ................................................ 5
 2.1. Kollektivtrafik .................................................................................................. 6
 
 2.2. Cykel och gång ................................................................................................. 6
@@ -3837,22 +3837,22 @@ Trivector                                                     3:17
 2.4. Ledig parkeringskapacitet inom gångavstånd från projektområdet .................. 8
 2.5. Förutsättningar för hållbart resande .................................................................. 8
 
-3. Anpassning efter projektets specifika förutsättningar ................... 9
+3\. Anpassning efter projektets specifika förutsättningar ................... 9
 3.1. Lägenhetsfördelning ......................................................................................... 9
 3.2. Potential för samnyttjande ................................................................................ 9
 
-4. Mobilitetsåtgärder ................................................................. 11
+4\. Mobilitetsåtgärder ................................................................. 11
 4.1. Syfte och åtgärdsområden............................................................................... 11
 
 4.2. Förslag på mobilitetspaket .............................................................................. 12
-5. Reviderat antal parkeringsplatser ............................................ 15
+5\. Reviderat antal parkeringsplatser ............................................ 15
 5.1. Riskbedömning av reducerat parkeringstal .................................................... 17
 
 <!-- sida 97 -->
 
 Trivector                                                     4:17
 
-1. Bakgrund
+1\. Bakgrund
 
 Trollängen Bostad AB planerar ett bostadsområde i Kungsbacka, i området Björkris.
 Etableringen är en andra etapp av en tidigare exploatering i samma område, här kallad
@@ -3869,7 +3869,7 @@ området och därigenom om det är möjligt att sänka parkeringstalet för bil.
 
 Trivector                                                     5:17
 
-2. Utgångsläge    och  förutsättningar
+2\. Utgångsläge    och  förutsättningar
 
 Planområdet ligger cirka 3,5 km norr om centrala Kungsbacka och avgränsas av Björkris
 etapp 1 i söder och Göteborgsvägen i väster. I direkt anslutning till planområdet finns en
@@ -4009,7 +4009,7 @@ innebär att många väljer att äga och köra bil till arbete och på fritiden.
 
 Trivector                                                     9:17
 
-3. Anpassning     efter projektets  specifika
+3\. Anpassning     efter projektets  specifika
 
 förutsättningar
 
@@ -4091,7 +4091,7 @@ projektering av exempelvis garagelösningar.
 
 Trivector                                                    11:17
 
-4. Mobilitetsåtgärder
+4\. Mobilitetsåtgärder
 
 Trivector har tagit fram ett förslag till mobilitetspaket för Björkris etapp 2 med ambitionen
 att bilinnehavet ska kunna vara lågt och att de boende i första hand ska resa med andra
@@ -4166,7 +4166,7 @@ av Björkris.
 
 Nedan listas de mobilitetsåtgärder som Trollängen åtar sig att genomföra för Björkris etapp
 
-2. Bedömningen är att dessa åtgärder är viktiga för att skapa ett attraktivt område och se till
+2\. Bedömningen är att dessa åtgärder är viktiga för att skapa ett attraktivt område och se till
 att de boende har förstklassig tillgänglighet för sina vardagsresor. Då området kommer att
 byggas ut inom en 10-årsperiod kommer mobilitetsåtgärderna att erbjudas till nya boende
 successivt och anpassas efter utbyggnad och efterfrågan.
@@ -4256,7 +4256,7 @@ Syftet är att platserna ska utnyttjas effektivare.
 
 Trivector | 15:17
 
-5. Reviderat antal parkeringsplatser
+5\. Reviderat antal parkeringsplatser
 
 Genomgången av utgångsläge, projektets specifika förutsättningar och möjliga
 mobilitetsåtgärder för etappen motiverar samlat en rekommenderad sänkning av det totala
@@ -4318,8 +4318,8 @@ Radhus 1,3 1,4 0,1 1,5
 
 Totalt innebär det reviderade p-talet följande bilparkeringsbehov:
 
-> Flerbostadshus 525 bilparkeringsplatser, varav 65 är avsedda för besöksparkering.
-> Radhusen 75 bilparkeringsplatser, varav 5 platser är avsedda för besökare med bil.
+\> Flerbostadshus 525 bilparkeringsplatser, varav 65 är avsedda för besöksparkering.
+\> Radhusen 75 bilparkeringsplatser, varav 5 platser är avsedda för besökare med bil.
 
 För cykel har cykelparkeringstalet inte justerats i denna utredning, utan utgår från
 Kungsbacka kommuns parkeringsnorm där 1 cykelplats/invånare i förråd ska anordnas
@@ -4329,9 +4329,9 @@ personer/hus utgår cykelparkeringsplatserna från denna statistik. Cykelpoolsfo
 utrymmeskrävande cyklar föreslås inrymmas på dessa cykelparkeringsplatser.
 Sammanfattningsvis bedöms cykelparkeringsbehovet då förhålla sig enligt följande:
 
-> Flerbostadshus: totalt 1755 cykelparkeringsplatser, varav 1105 i förråd, 325 för besök
+\> Flerbostadshus: totalt 1755 cykelparkeringsplatser, varav 1105 i förråd, 325 för besök
 och 325 vid entré.
-> Småhus: totalt 190 cykelparkeringsplatser.
+\> Småhus: totalt 190 cykelparkeringsplatser.
 
 Ytor för angöring med bil tillkommer. Platser för rörelsehindrade ska kunna tillskapas
 inom 25 meter från entré och är en del av de beräknade bilparkeringsplatserna. För
@@ -4348,7 +4348,7 @@ Totalt antal platser Antal platser för rörelsehindrade
 
 6 + 1 per 100 ytterligare bpl. Totalt behov i etapp 2
 
->200 är 10 platser.
+\>200 är 10 platser.
 
 För skolan har ingen revidering av antalet bilparkeringsplatser gjorts i detta skede. En
 dialog med kommunen om parkeringstalet för skolan föreslås.
@@ -4359,7 +4359,7 @@ Denna utredning har visat att det är möjligt att reducera parkeringstalet för
 markant jämfört med i detaljplanen fastslaget bilparkeringstal. Följande faktorer kan ses
 som potentiella risker för olika parter:
 
-> Fastighetsägaren Trollängen: ett lägre bilparkeringstal innebär flera fördelar för
+\> Fastighetsägaren Trollängen: ett lägre bilparkeringstal innebär flera fördelar för
 fastighetsägaren, såsom lägre investeringskostnader och starkare hållbarhetsprofil. Den
 främsta osäkerhetsfaktorn ur ett fastighetsutvecklingsperspektiv brukar anses vara
 möjligheten att sälja planerad etablering till tänkt målgrupp med ett lägre utbud av
@@ -4371,12 +4371,12 @@ det faktiska bilinnehavet redan idag ligger runt dessa nivåer stärker tesen om
 bilparkeringsbehovet inte bör vara högre än så, samt att efterfrågan på bilparkering i
 etapp 1 också bevisligen är låg.
 
-> Boende: eventuell risk med att boende upplever att de saknar parkering i området
+\> Boende: eventuell risk med att boende upplever att de saknar parkering i området
 föreligger om de inte är informerade om förutsättningarna vid inflytt. Samtidigt finns
 en möjlighet att marknadsföra tillgänglighet med hållbar mobilitet som en möjlighet till
 ett mindre bilberoende liv, vilket kan attrahera målgrupper som ser ett värde i detta.
 
-> Kungsbacka kommun: ur ett kommunperspektiv kan ”parkeringsflykt” till
+\> Kungsbacka kommun: ur ett kommunperspektiv kan ”parkeringsflykt” till
 närliggande områden och klagomål om att för få parkeringar att tillgå upplevas som
 risker med att sänka parkeringstalet. Bedömning görs dock att risken för
 parkeringsflykt är liten eftersom det inte finns tillgängliga parkeringar i området som

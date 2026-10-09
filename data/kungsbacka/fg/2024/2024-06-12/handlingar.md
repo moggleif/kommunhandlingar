@@ -545,7 +545,7 @@ handlaggning-av-motioner
 Hälsningar
 Kristian Egstedt
 Registrator
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 16 -->
 
@@ -22211,7 +22211,7 @@ Hälsningar
 
 Kristian Egstedt
 Registrator
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun
 Kommunledningskontoret

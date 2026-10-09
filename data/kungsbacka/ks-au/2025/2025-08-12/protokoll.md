@@ -411,7 +411,7 @@ om dels kompletterande statlig granskning, dels hinder för kommuner och regione
 att anmäla välfärdsbrott. De två förslagen till ändring av kommunallagen är tillägget i
 
 6 kap. 1 § samt den nya paragrafen i 10 kap. 10 §:
-* Styrelsen ska leda och samordna förvaltningen av kommunens eller regionens
+\* Styrelsen ska leda och samordna förvaltningen av kommunens eller regionens
 angelägenheter och ha uppsikt över övriga nämnders och eventuella gemensamma
 nämnders verksamhet, inbegripet deras kontroll och uppföljning av skötseln av
 kommunala angelägenheter som genom avtal lämnats över till privata utförare.
@@ -420,7 +420,7 @@ Styrelsen ska även ha uppsikt över sådan avtalssamverkan som sker enligt 9 ka
 
 kommunal verksamhet som bedrivs i sådana juridiska personer som avses i 10 kap.
 2-6 §§ och sådana kommunalförbund som kommunen eller regionen är medlem i.
-* Styrelsen ska årligen till fullmäktige rapportera om sin uppsikt enligt 6 kap. 1 §
+\* Styrelsen ska årligen till fullmäktige rapportera om sin uppsikt enligt 6 kap. 1 §
 över övriga nämnders och eventuella gemensamma nämnders kontroll och
 uppföljning av verksamhet som genom avtal lämnats över till privata utförare.
 
@@ -460,7 +460,7 @@ Datum
 
 § 211                      Dnr KS-2025-00315
 Svar på Klimat- och näringslivsdepartementets remiss av promemorian
-- Genomförande av bestämmelser i förnybartdirektivet om
+\- Genomförande av bestämmelser i förnybartdirektivet om
 tillståndsförfaranden för förnybar energi
 
 Förslag till beslut i kommunstyrelsen
@@ -672,7 +672,7 @@ Sammanfattning av ärendet
 
 För att möjliggöra utbyggnad av bostäder, verksamhetslokaler, parkeringar, gator och
 parker i Kolla Parkstad antog kommunfullmäktige en detaljplan för området under
-2010. Utbyggnaden av området är nu slutförd, med undantag av tre av Aranäs
+2010\. Utbyggnaden av området är nu slutförd, med undantag av tre av Aranäs
 fastigheter som fortfarande är obebyggda. Parkeringsfrågan är den enda
 gemensamma frågan som återstår att reglera mellan kommunen och byggherrarna i
 projekt Kolla Parkstad: Eksta Bostads AB, JM AB och Nordr Sverige AB och
@@ -888,7 +888,7 @@ Nu påbörjar kommunen arbetet med att klargöra planeringsförutsättningarna i
 
 område i anslutning till stationen, både norr och söder om Kläppavägen. Arbetet
 utförs inom ramen för ett planprogram i enlighet med beslut från kommunstyrelsen
-2016.
+2016\.
 Syftet med planprogrammet är att skapa goda förutsättningar för en utveckling av
 kommunens och andra angränsande fastigheter. Planprogrammet tas fram för att
 underlätta kommande detaljplanearbeten och ge förutsättningar för en effektiv
@@ -1028,15 +1028,15 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Samhällsbyggnadschef Lovisa Eld lämnar följande information:
-- Hantering av skrivelser som kommer in till kommunen och som är adresserade
+\- Hantering av skrivelser som kommer in till kommunen och som är adresserade
 
 till kommunstyrelsen. Dessa registreras alltid som inkomna skrivelser till
 kommunstyrelsen.
-- Regional kustsamverkan Skåne och Halland har skickat en förfrågan till
+\- Regional kustsamverkan Skåne och Halland har skickat en förfrågan till
 Kungsbacka om ett besök i kommunen inom ramen för samverkan.
 
 Biträdande kommundirektör Anders Johansson lämnar följande information:
-- Innan sommaren ställde kommunrevisionen ett antal frågor till
+\- Innan sommaren ställde kommunrevisionen ett antal frågor till
 kommunstyrelsens förvaltning om hur arbetet med att uppfylla
 
 kommunfullmäktiges direktiv rörande innovation och utveckling fortlöper.
@@ -1047,12 +1047,12 @@ om förbud mot användning av lustgas på vissa områden i kommunen som upphävd
 av Länsstyrelsen den 15 juni.
 
 Kommundirektör Rickard Vidlund lämnar följande information:
-- Den 26 augusti kommer det att meddelas vilken av de nominerade kommunerna
+\- Den 26 augusti kommer det att meddelas vilken av de nominerade kommunerna
 som får utmärkelsen Årets superkommun. Kungsbacka representeras av
 
 kommunstyrelsens 1:e vice ordförande Fredrik Hansson och
 samhällsbyggnadschef Lovisa Eld på prisutdelningen.
-- Rapport från sommaren och hur arbetet i kommunen har fungerat. Informationen
+\- Rapport från sommaren och hur arbetet i kommunen har fungerat. Informationen
 berör också hur arbetet med olika händelser under sommaren fungerar och leds.
 
 Ordförande Lisa Andersson lämnar information inför nästa möte med Kommun- och

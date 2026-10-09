@@ -233,7 +233,7 @@ Arvid och Hildur Anderssons donationsfond – 2025
 Nämnden för Individ och Familjeomsorgs förslag till Kommunstyrelsen
 Kommunstyrelsen beslutar att ingen utdelning ur Arvid och Hildur Anderssons donationsfond görs för
 
-2025.
+2025\.
 
 Sammanfattning av ärendet
 
@@ -397,9 +397,9 @@ inskickat.
 
 Vid inträde betalar en ny medlem:
 
--  1 krona per invånare (Kungsbacka 2024-12-31: 85 792 invånare, siffror för 2025 finns ej vid
+\-  1 krona per invånare (Kungsbacka 2024-12-31: 85 792 invånare, siffror för 2025 finns ej vid
 skrivelsens framtagande) som andelskapital
--  25 000 kr i administrativ avgift
+\-  25 000 kr i administrativ avgift
 
 Båda är engångskostnader vilka föreslås belasta kommunstyrelsen.
 Tjänster debiteras enligt självkostnadsprincipen. Kungsbackas nämnder kommer att betala för faktiskt
@@ -541,7 +541,7 @@ socialtjänstlagen, tredje kvartalet 2025
 Sammanfattning av ärendet
 
 Ej verkställda gynnande beslut enligt socialtjänstlagen (SoL) ska på det vis som anges i
-16 kap. 6 f och h $$ SoL, rapporteras till Inspektionen för vård och omsorg, kommunens revisorer och
+16 kap. 6 f och h \$\$ SoL, rapporteras till Inspektionen för vård och omsorg, kommunens revisorer och
 kommunfullmäktige.
 
 Beslutsunderlag
@@ -644,7 +644,7 @@ Växelvård
 Växelvård
 
 KUNGSBACKA KOMMUN
-2)
+2\)
 
 Tackat nej till erbjudande
 Platsbrist
@@ -984,7 +984,7 @@ myndigheten
 
 Remissversion
 
-- 2 -
+\- 2 -
 
 <!-- sida 25 -->
 
@@ -1006,7 +1006,7 @@ ISBN: Ange ISBN nummer. Omslagsfoto: : Eduardo Infantes Oanes (överst t. v.), K
 (överst t. h), Maja Kristin Nylander (nederst t. v) och Pernilla Johansson nederst t. h.)
 Havs- och vattenmyndigheten | Box 11 930 | 404 39 Göteborg | www.havochvatten.se
 
-- 3 -
+\- 3 -
 
 <!-- sida 26 -->
 
@@ -1052,7 +1052,7 @@ Göteborg, 10 december 2025
 
 Thomas Klein
 
-- 5 -
+\- 5 -
 
 <!-- sida 28 -->
 
@@ -1079,7 +1079,7 @@ däggdjur, sjöfåglar, fisk, pelagiska livsmiljöer, bentiska livsmiljöer och 
 behöver mer utveckling innan de kan anses vara tillräckliga. En del av utvecklingen pågår eller
 planeras, vilket presenteras i rapporten.
 
-- 6 -
+\- 6 -
 
 <!-- sida 29 -->
 
@@ -1136,7 +1136,7 @@ Sjöfåglar (Deskriptor 1) .....................................................
 Fisk (Deskriptor 1) ................................................................................................................... 35
 Kommersiellt nyttjade fiskar och skaldjur (Deskriptor 3) ........................................................ 42
 
-- 7 -
+\- 7 -
 
 <!-- sida 30 -->
 
@@ -1188,7 +1188,7 @@ FÖRKORTNINGAR OCH ORDLISTA ....................................................
 
 REFERENSER ............................................................................................................................... 99
 
-- 8 -
+\- 8 -
 
 <!-- sida 31 -->
 
@@ -1239,7 +1239,7 @@ miljökvalitetsnormer med tillhörande indikatorer, övervakningsprogram samt å
 havsmiljön. Dessa verktyg utgör grunden för planering och uppföljning inom respektive
 förvaltningsperiod, se figur 1.
 
-- 9 -
+\- 9 -
 
 <!-- sida 32 -->
 
@@ -1317,10 +1317,10 @@ att bättre tillgodose behoven inom havsmiljöförvaltningen.
 ! Den första förvaltningsperioden genomfördes 2012-2017, följt av den andra perioden 2018-2023.
 
 ? Referens: Havs- och vattenmyndigheten (2014)
-> Referens: Havs- och vattenmyndigheten (2020)
-+ Referens: Havs- och vattenmyndigheten (2024)
+\> Referens: Havs- och vattenmyndigheten (2020)
+\+ Referens: Havs- och vattenmyndigheten (2024)
 
-- 10-
+\- 10-
 
 <!-- sida 33 -->
 
@@ -1377,7 +1377,7 @@ en samlad bild av utsläppens effekter samtidigt som samordningen kan minska kos
 5 Mer information om Länsstyrelsernas arbete med regional miljöövervakning finns på Länsstyrelsernas webbsida:
 https://www.regionalmiljoovervakning.se/
 
-- 11 -
+\- 11 -
 
 <!-- sida 34 -->
 
@@ -1437,7 +1437,7 @@ beräkningsprocesser dokumenteras och förvaltas på ett strukturerat sätt. I d
 stor del förvaltning av sådana uppgifter, vilket innebär en risk för bristande spårbarhet och kvalitet
 i dataanvändningen.
 
-- 12 -
+\- 12 -
 
 <!-- sida 35 -->
 
@@ -1477,7 +1477,7 @@ För att uppnå ett önskvärt miljötillstånd i havet krävs en förståelse f
 miljötillstånd, miljöförändringar och mänsklig påverkan. Övervakningen ska därför enligt
 havsmiljödirektivet tillhandahålla ett kunskapsunderlag som möjliggör bedömning av mänskliga
 
-- 13 -
+\- 13 -
 
 <!-- sida 36 -->
 
@@ -1537,7 +1537,7 @@ havsmiljödirektivet beakta storskaliga och gränsöverskridande effekter. För 
 6 Referens: Elliott m.fl., (2017)
 7 Referens: Havs- och vattenmyndigheten (2021)
 
-- 14 -
+\- 14 -
 
 <!-- sida 37 -->
 
@@ -1596,7 +1596,7 @@ De EU-direktiv som har tydligast koppling till havsmiljön är vattendirektivet 
 (92/43/EEG) som bland annat omfattar marina arter och livsmiljöer. EU:s
 datainsamlingsförordning ((EU) 2017/1004; (EU) 2021/1167; (EU) 2021/1168) som står för stora
 
-- 15 -
+\- 15 -
 
 <!-- sida 38 -->
 
@@ -1656,7 +1656,7 @@ beräkna tillförseln av näringsämnen och farliga ämnen till havet. Motsvaran
 
 8 Referens: Zampoukas m.fl. (2012)
 
-- 16 -
+\- 16 -
 
 <!-- sida 39 -->
 
@@ -1703,8 +1703,8 @@ uppnås för de arter och livsmiljötyper som direktivet omfattar.
 Övervakningens resultat utgör underlag för rapporteringen (artikel 17) till EU-kommissionen vart
 sjätte år och omfattar de parametrar som används för att fastställa bevarandestatus:
 
--  Utbredning, areal och tillstånd (struktur & funktion) för livsmiljötyper
--  Utbredning, populationsfaktorer och kvaliteten på artens livsmiljö för direktivsarter.
+\-  Utbredning, areal och tillstånd (struktur & funktion) för livsmiljötyper
+\-  Utbredning, populationsfaktorer och kvaliteten på artens livsmiljö för direktivsarter.
 
 För detta krävs en nationell övervakning av parametrarna uppbyggd på lämpliga, jämförbara
 metoder som genomförs med tillräcklig geografisk täckning och provtagningsfrekvens.
@@ -1716,7 +1716,7 @@ inom skyddade områden. Naturvårdsverket har det övergripande ansvaret för sa
 9 Handlingsplanen Full koll på våra vatten finns på Havs- och vattenmyndighetens webbsida:
 https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/full-koll-pa-vara-vatten.html
 
-- 17 -
+\- 17 -
 
 <!-- sida 40 -->
 
@@ -1744,7 +1744,7 @@ För att nå de övergripande målen ska minst 30 procent av de livsmiljötyper 
 
 som omfattas av förordningen, däribland marina miljöer, återställas från dåligt till gott tillstånd
 senast år 2030. Målsättningen utökas därefter till 60 procent till år 2040 och till 90 procent till år
-2050.
+2050\.
 
 Från att förordningen trädde i kraft den 18 augusti 2024 har medlemsländerna två år på sig att ta
 fram en nationell restaureringsplan. Denna ska bland annat innehålla information för hur
@@ -1773,7 +1773,7 @@ arter, bifångst och fysisk påverkan på bland annat bottnar. I den gemensamma 
 ska nyttjandet och bevarandet av fisken balanseras. Därför är länderna skyldiga att samla in data
 som kan ge underlag för fiskeriförvaltningen.
 
-- 18 -
+\- 18 -
 
 <!-- sida 41 -->
 
@@ -1831,7 +1831,7 @@ livsmiljöer och om hållbar fiskförvaltning.
 
 10 Referens: Miljödepartementet (2012)
 
-- 19 -
+\- 19 -
 
 <!-- sida 42 -->
 
@@ -1888,7 +1888,7 @@ HaV samverkat med Naturvårdsverket, Livsmedelsverket, Kustbevakningen, SMHI, Sv
 12 Faktasidor som beskriver den marina miljöövervakningen finns på Havs- och vattenmyndighetens webbsida:
 https://www.havochvatten.se/overvakning-i-marin-miljo
 
-- 20 -
+\- 20 -
 
 <!-- sida 43 -->
 
@@ -1946,7 +1946,7 @@ bedömning ska tillgängliggöras.
 webbsida: www.havochvatten.se/remisser
 14 Referens: EU Commission (2013)
 
-- 21 -
+\- 21 -
 
 <!-- sida 44 -->
 
@@ -2006,7 +2006,7 @@ arbetsgrupper där Sverige deltar, exempelvis biodiversitet (WG Biodiv), havsbas
 16 Övervakningshandledningar för Helcoms övervakningsprogram finns på Helcoms webbsida: https://helcom.fi/helcom-at-
 work/publications/manuals-and-guidelines/
 
-- 22 -
+\- 22 -
 
 <!-- sida 45 -->
 
@@ -2065,7 +2065,7 @@ Ices arbets- och expertgrupper deltar Sverige även i andra internationella samm
 
 17 Water Information System for Europe, State of the Environment
 
-- 23 -
+\- 23 -
 
 <!-- sida 46 -->
 
@@ -2074,7 +2074,7 @@ Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 syftar till att identifiera samordningsmöjligheter. Därigenom har Sverige en löpande kontakt med
 representanter för nationell övervakning och bedömning i andra länder.
 
-- 24 -
+\- 24 -
 
 <!-- sida 47 -->
 
@@ -2128,7 +2128,7 @@ Populationens tillstånd (D1C3) ska bedömas i fall det finns risk att detta kri
 status. Därför ingår både späcktjocklek och dräktighetsfrekvens i definitionen av god miljöstatus
 (se Tabell 1).
 
-- 25 -
+\- 25 -
 
 <!-- sida 48 -->
 
@@ -2198,7 +2198,7 @@ artens livscykel
 Underlag för miljökvalitetsnormer och åtgärdsuppföljning
 Det finns två miljökvalitetsnormer i HaV:s föreskrifter HVMFS 2012:18, som har betydelse för
 marina däggdjur.
-- 26 -
+\- 26 -
 
 <!-- sida 49 -->
 
@@ -2269,7 +2269,7 @@ minska uppkomsten av marint skräp
 samt sätta upp målsättningar för ett
 sådant arbete
 18 Referens: Havs- och vattenmyndigheten (2021)
-- 27 -
+\- 27 -
 
 <!-- sida 50 -->
 
@@ -2326,7 +2326,7 @@ detektera förändringar i utbredningsmönster på grund av mänsklig störning.
 Kameraövervakning har genomförts i flera områden, till exempel Utklippan och Stockholms
 skärgård i Östersjön och i Bottenhavet.
 
-- 28 -
+\- 28 -
 
 <!-- sida 51 -->
 
@@ -2384,7 +2384,7 @@ populationsstorlek. Det kommer kunna göras en uppdaterad bedömning till 2030 f
 populationsstorlek, dock är det inte möjligt att etablera en tidsserie med endast två skattningar av
 totalabundans.
 
-- 29 -
+\- 29 -
 
 <!-- sida 52 -->
 
@@ -2422,7 +2422,7 @@ att övervaka minst 5% av det totala garnfisket som sker i svenska vatten. För 
 kompletteras övervakning med hjälp av vetenskapliga observatörer med övervakning med hjälp
 av kamerasystem. Kamerasystemen ökar också möjligheten att provta mindre fartyg där det ofta
 råder platsbrist för observatörer. Övervakningen har sedan 2022 innefattat Ices subdivisioner 21-
-29. Sedan 2025 omfattas även Skagerrak (SD20).
+29\. Sedan 2025 omfattas även Skagerrak (SD20).
 
 Data rörande förekomst av bifångster i garnfisket samlades också in under två pilotprojekt 2017-
 2021; med observatörer (2017-2021) och kamerasystem (2020-2021). Merparten av denna
@@ -2432,7 +2432,7 @@ Data rörande förekomst av bifångster i garnfisket samlades också in under tv
 
 observatörer ombord inom den ordinarie provtagningen. För det demersala fisket startade
 övervakningen 2002 (2008 för räkfisket) och för det pelagiska fisket år 2021 (omfattar endast
-Östersjön). I trålfisket övervakas dock ofta <1% (~2% pelagiska trålar) av den årliga
+Östersjön). I trålfisket övervakas dock ofta <1% (\~2% pelagiska trålar) av den årliga
 fiskeansträngningen.
 
 I dagsläget är det enbart möjligt att bedöma bifångst av tumlare i svenska vatten. Information om
@@ -2441,7 +2441,7 @@ loggböcker. Dock är dessa underlag inte tillräckligt för att kunna bedöma p
 Bedömningsmetoder, inklusive tröskelvärden är tillgängliga. HaV undersöker hur övervakningen
 kan utökas för att bättre uppfylla behoven för bedömning av andra arter utöver tumlare.
 
-- 30 -
+\- 30 -
 
 <!-- sida 53 -->
 
@@ -2498,7 +2498,7 @@ miljökvalitetsnormer och åtgärdsuppföljning. Det pågår utveckling för att
 
 ska kunna komma till större användning i havsmiljöförvaltningen, se Brister och utveckling.
 
-- 31 -
+\- 31 -
 
 <!-- sida 54 -->
 
@@ -2558,7 +2558,7 @@ C.5 Miljökvalitetsnorm
 populationens långsiktiga överlevnad. (HVMFS 2025:12)
 Indikatorer för sjöfåglar saknas till miljökvalitetsnormen C.5.
 
-- 32 -
+\- 32 -
 
 <!-- sida 55 -->
 
@@ -2624,7 +2624,7 @@ Brister och utveckling
 I dagsläget ger övervakningen av sjöfåglar underlag för bedömning av abundans (D1C2) och
 delvis häckningsframgång (D1C3) utifrån fastslagna tröskelvärden. Bedömning av bifångst
 19 Referens: Havs- och vattenmyndigheten (2021)
-- 33 -
+\- 33 -
 
 <!-- sida 56 -->
 
@@ -2683,14 +2683,14 @@ till att skatta den totala bifångstkvoten per art. I övervakningsprogrammet ä
 kompletteras övervakning med hjälp av vetenskapliga observatörer med övervakning med hjälp
 av kamerasystem. Kamerasystemen ökar också möjligheten att provta mindre fartyg där det ofta
 
-- 34 -
+\- 34 -
 
 <!-- sida 57 -->
 
 Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
 råder platsbrist för observatörer. Övervakningen har sedan 2022 innefattat Ices subdivisioner 21-
-29. Sedan 2025 omfattas även Skagerrak (SD20).
+29\. Sedan 2025 omfattas även Skagerrak (SD20).
 
 Data rörande förekomst av bifångster i garnfisket samlades också in under två pilotprojekt 2017-
 2021 med observatörer (2017-2021) och kamerasystem (2020-2021). Merparten av denna
@@ -2700,7 +2700,7 @@ Data rörande förekomst av bifångster i garnfisket samlades också in under tv
 Övervakningen av bifångster från trålfisket (demersalt och pelagiskt) sker med hjälp av
 observatörer ombord inom den ordinarie provtagningen. För det demersala fisket startade
 övervakningen 2002 (2008 för räkfisket) och för det pelagiska 2021 (omfattar endast Östersjön). I
-trålfisket övervakas dock ofta <1% (~2% pelagiska tråkar) av den årliga fiskeansträngningen.
+trålfisket övervakas dock ofta <1% (\~2% pelagiska tråkar) av den årliga fiskeansträngningen.
 
 Även om det ingår i övervakningen att notera bifångst av sjöfågel saknas tillräckliga underlag om
 bifångade sjöfåglar i relevanta fisken. HaV undersöker hur övervakningen kan utökas för att
@@ -2740,7 +2740,7 @@ https://www.havochvatten.se/overvakning-i-marin-miljo
 • Kustfisk
 • Fisk och kräftdjur i utsjön
 
-- 35 -
+\- 35 -
 
 <!-- sida 58 -->
 
@@ -2806,7 +2806,7 @@ reproduktionsförmåga) som tyder på att
 de är friska och inte negativt påverkade
 av mänsklig verksamhet
 D1C4                 Indikator saknas      Kustfisk
-- 36 -
+\- 36 -
 
 <!-- sida 59 -->
 
@@ -2861,7 +2861,7 @@ Tillhörande indikatorer till miljökvalitetsnormen C.4
 •  C.4.2 Storleksstruktur hos nyckelart i kustvatten – torsk
 •  C.4.3 Storleksstruktur hos nyckelart av fisk i kustvatten – abborre
 
-- 37 -
+\- 37 -
 
 <!-- sida 60 -->
 
@@ -2941,7 +2941,7 @@ diadroma arter, med fokus på
 nationella åtgärdsprogram för hotade
 flodnejonöga, havsnejonöga och lax
 20 Referens: Havs- och vattenmyndigheten (2021)
-- 38 -
+\- 38 -
 
 <!-- sida 61 -->
 
@@ -3000,7 +3000,7 @@ tillförlitligheten i dessa bedömningar behöver data från både kustnära yrk
 inkluderas. Begränsningar i geografisk täckning och avsaknad av vissa arter i övervakningen
 påverkar även möjligheten att bedöma storleksfördelning hos kustfisk. För arter som sik, siklöja
 
-- 39 -
+\- 39 -
 
 <!-- sida 62 -->
 
@@ -3056,7 +3056,7 @@ tidigare saknats löpande övervakning utom för kräftpest på flodkräftor och
 (Gyrodactylus salaris) på laxungar. Förutom dessa typer av sjukdomar är det viktigt med en
 långsiktig och rutinmässig övervakning av fiskars och kräft- och blötdjurs hälsa.
 
-- 40 -
+\- 40 -
 
 <!-- sida 63 -->
 
@@ -3091,7 +3091,7 @@ DCF
 observatörer ombord inom den ordinarie provtagningen. För det demersala fisket startade
 
 övervakningen 2002 (2008 för räkfisket) och för det pelagiska 2021 (omfattar endast Östersjön). I
-trålfisket övervakas dock ofta <1% (~2% pelagiska tråkar) av den årliga fiskeansträngningen.
+trålfisket övervakas dock ofta <1% (\~2% pelagiska tråkar) av den årliga fiskeansträngningen.
 
 Data rörande förekomst av bifångster i garnfisket samlades också in under två pilotprojekt 2017-
 2021 med observatörer (2017-2021) och kamerasystem (2020-2021). Merparten av denna
@@ -3113,7 +3113,7 @@ göra en bedömning. HaV undersöker hur övervakningen kan utökas för att bä
 behoven för bedömning av andra arter utöver tumlare. Bedömningen bör ske i samarbete med
 andra länder som fiskar med relevanta redskap i populationernas utbredningsområde.
 
-- 41 -
+\- 41 -
 
 <!-- sida 64 -->
 
@@ -3173,7 +3173,7 @@ D3C1                 3.1A Fiskeridödlighet (F) för alla Kontroll av kommersiel
 kommersiellt nyttjade populationer fiskeriverksamhet
 Fiskeridödligheten för populationer av
 kommersiellt nyttjade arter ligger under
-- 42 -
+\- 42 -
 
 <!-- sida 65 -->
 
@@ -3228,7 +3228,7 @@ på näringsämnen.
 standardiserade metoder för övervakning och bedömning punkt 1.
 22 Referens: Havs- och vattenmyndigheten (2021)
 
-- 43 -
+\- 43 -
 
 <!-- sida 66 -->
 
@@ -3286,7 +3286,7 @@ se Underlag för miljökvalitetsnormer och åtgärdsuppföljning. Det pågår ut
 
 utveckling.
 
-- 44 -
+\- 44 -
 
 <!-- sida 67 -->
 
@@ -3354,7 +3354,7 @@ Det finns två miljökvalitetsnormer (MKN) för bentiska livsmiljöer i HaV:s f�
 2012:18. Data från övervakningen av fysisk påverkan ger underlag till en av
 miljökvalitetsnormernas tillhörande indikatorer. Övervakningen av bentiska livsmiljöer kommer på
 sikt att kunna ge underlag för den MKN som i dagsläget saknar indikatorer.
-- 45 -
+\- 45 -
 
 <!-- sida 68 -->
 
@@ -3417,7 +3417,7 @@ miljö samt samordna arbetet nationellt
 Fysisk påverkan: djupa mjukbottnar och
 sjöpennor i Västerhavet
 23 Referens: Havs- och vattenmyndigheten (2021)
-- 46 -
+\- 46 -
 
 <!-- sida 69 -->
 
@@ -3480,7 +3480,7 @@ Uppskattning av den rumsliga omfattningen av aktiviteter som orsakar förlust (D
 uppskattning av fysisk störning per huvudsaklig livsmiljötyp (D6C3) och fysisk förlust per
 huvudsaklig livsmiljötyp (D6C4). Dessa bygger på information om livsmiljöernas utbredning,
 känslighet och en analys om risk för påverkan. Metoderna för påverkansanalysen finns beskrivna
-- 47 -
+\- 47 -
 
 <!-- sida 70 -->
 
@@ -3538,7 +3538,7 @@ direktiven ska ligga till grund för förordningen, och att utvecklingen av dess
 24 Referens: Nyström Sandman A., m. fl., (2024)
 25 Carambha – Cumulative impact assessment of marine benthic habitats
 
-- 48 -
+\- 48 -
 
 <!-- sida 71 -->
 
@@ -3595,7 +3595,7 @@ näringskedjan kan därmed få konsekvenser för andra nivåer. Exempelvis kan f
 fisk- och sälbestånd indirekt påverka planktonsamhällets sammansättning och funktion, vilket
 behandlas vidare i strategin för marina näringsvävar. Planktonsamhället kan även påverkas direkt
 
-- 49 -
+\- 49 -
 
 <!-- sida 72 -->
 
@@ -3655,13 +3655,13 @@ D1C6                 1.6A Storlek och mängd av djurplankton Djurplankton
 Tillståndet i pelagiska livsmiljöer, 1.6B Artsammansättning av Växtplankton,
 inklusive deras biotiska och abiotiska växtplankton bakterieplankton,
 
-- 50 -
+\- 50 -
 
 <!-- sida 73 -->
 
 Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
-struktur och deras funktioner* är inte 5.2A Biomassa av växtplankton i primärproduktion och
+struktur och deras funktioner\* är inte 5.2A Biomassa av växtplankton i primärproduktion och
 negativt påverkade av mänskliga kustvatten (klorofyll a och biovolym) blomningar
 belastningar
 5.2B Klorofyll a koncentration i
@@ -3715,7 +3715,7 @@ upplösning i tid och rum, vilket har bidragit till låg tillförlitlighet i bed
 
 26 Referens: Havs- och vattenmyndigheten (2021)
 
-- 51 -
+\- 51 -
 
 <!-- sida 74 -->
 
@@ -3772,7 +3772,7 @@ ekosystemtjänsterna. IAS innefattar även arter som orsakar socioekonomiska ska
 
 27 Copernicus marine services: http://marine.copernicus.eu
 
-- 52 -
+\- 52 -
 
 <!-- sida 75 -->
 
@@ -3799,7 +3799,7 @@ Syftet med fokuslistan är att uppmuntra miljöövervakare att rapportera IAS ti
 öka uppmärksamheten om besvärliga arter och förbättra informationsflödet från tidig upptäckt och
 därmed få till effektiva åtgärder. Listan utgjordes år 2020 av totalt 57 arter, varav 24 är marina
 eller eustarina och av dessa är 13 dörrknackararter. Listan kommer att uppdateras under 2025-
-2026.
+2026\.
 
 Främmande arter kan introduceras i nya havsområden genom sjöfart som påväxt på fartygsskrov
 eller genom att de följer med i fartygets barlastvatten. De kan också spridas som fripassagerare
@@ -3819,7 +3819,7 @@ att ta fram ett bindande regelverk. Inom Ospar och Helcom har man dessutom tagit
 regional vägledning för att bättre skydda Östersjöns och Nordsjöns känsliga miljöer genom
 
 åtgärder mot biofouling för fritidsbåtar. En motsvarande vägledning för sjöfarten förväntas bli klar
-2026.
+2026\.
 
 Det är även viktigt att kartlägga riskområden där främmande arter kan slå sig ner och få fäste.
 Risken för att en art ska etablera sig i ett område styrs utöver artens spridningsegenskaper av
@@ -3832,7 +3832,7 @@ substrat. Miljöer som främmande arter ofta introduceras i är ofta starkt påv
 31 Fokuslista https://www.havochvatten.se/hav/fiske--fritid/arter/frammande-arter/frammande-arter/fokuslista-pa-invasiva-
 frammande-arter-for-miljoovervakare.html
 
-- 53 -
+\- 53 -
 
 <!-- sida 76 -->
 
@@ -3894,7 +3894,7 @@ mänsklig verksamhet, per
 Effekter av kylvatten
 bedömningsperiod (sex år), räknat från
 det referensår som rapporteras för den
-- 54 -
+\- 54 -
 
 <!-- sida 77 -->
 
@@ -3957,7 +3957,7 @@ dessa
 ÅPH 33               Minskad nyintroduktion och spridning av Främmande arter
 invasiva främmande arter
 32 Referens: Havs- och vattenmyndigheten (2021)
-- 55 -
+\- 55 -
 
 <!-- sida 78 -->
 
@@ -4016,7 +4016,7 @@ skaldjur inte orsakar spridning av främmande arter och stammar. Utsättningar a
 görs för att främja fisket, främst genom kompensationsutsättningar. Det övergripande syftet med
 en kommande övervakning bör vara att dokumentera nya beviljade utsättningstillstånd av
 
-- 56 -
+\- 56 -
 
 <!-- sida 79 -->
 
@@ -4073,7 +4073,7 @@ https://www.havochvatten.se/overvakning-i-marin-miljo
 • Fisk och kräftdjur i utsjön
 • Kontroll av kommersiell fiskeriverksamhet
 
-- 57 -
+\- 57 -
 
 <!-- sida 80 -->
 
@@ -4132,7 +4132,7 @@ Större djur på havsbotten
 Sedimentlevande makrofauna
 Vegetationsklädda bottnar
 
-- 58 -
+\- 58 -
 
 <!-- sida 81 -->
 
@@ -4193,7 +4193,7 @@ I åtgärdsprogrammet som beslutades av HaV 202133 finns det en åtgärd med dir
 marina näringsvävar (se tabell 14). Åtgärderna ses för närvarande över inför kommande
 33 Referens: Havs- och vattenmyndigheten (2021)
 
-- 59 -
+\- 59 -
 
 <!-- sida 82 -->
 
@@ -4253,7 +4253,7 @@ näringsvävar, varför utvecklingsarbete pågår inom expertgrupper i Helcom oc
 expertgrupper, med aktivt stöd från Sverige, utvecklar för närvarande bedömningsmetoder för att
 uppfylla kraven enligt deskriptor 4. Syftet är att identifiera avvikelser från ett referenstillstånd och
 
-- 60 -
+\- 60 -
 
 <!-- sida 83 -->
 
@@ -4308,7 +4308,7 @@ näringsämnen, två mäter koncentrationer av näringsämnen och sex mäter eff
 
 34 Referenser: Helcom (2023), Ospar (2023)
 
-- 61 -
+\- 61 -
 
 <!-- sida 84 -->
 
@@ -4376,14 +4376,14 @@ näringsberikning minskats till nivåer som
 tyder på negativa effekter på bentiska
 livsmiljöer eller andra
 övergödningseffekter
-- 62 -
+\- 62 -
 
 <!-- sida 85 -->
 
 Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
 D5C5                 5.5A Syrebalans i kustvatten Vattnets kemiska egenskaper
-- syre och pH
+\- syre och pH
 Halten löst syre har inte på grund av 5.5B Syrebalans i Utsjövatten
 näringsberikning minskats till nivåer som
 5.5C Syreskuld i utsjövatten
@@ -4436,7 +4436,7 @@ vatten och minskade   från land och atmosfär.
 övergödningseffekter
 35 Referens: Havs- och vattenmyndigheten (2021)
 
-- 63 -
+\- 63 -
 
 <!-- sida 86 -->
 
@@ -4496,7 +4496,7 @@ makrofytsamhällenas artsammansättning samt relativa abundans, då djuputbredni
 36 Handlingsplanen Full koll på våra vatten finns på Havs- och vattenmyndighetens webbsida:
 https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/full-koll-pa-vara-vatten.html
 
-- 64 -
+\- 64 -
 
 <!-- sida 87 -->
 
@@ -4554,7 +4554,7 @@ möjliggör en tydlig åtskillnad mellan dessa olika typer av effekter. Det är 
 
 37 European Monitoring and Evaluation Programme
 
-- 65 -
+\- 65 -
 
 <!-- sida 88 -->
 
@@ -4617,7 +4617,7 @@ Vattnets fysiska egenskaper
 och associerade biologiska samhällen)
 på grund av en bestående förändring av
 hydrografiska förhållanden
-- 66 -
+\- 66 -
 
 <!-- sida 89 -->
 
@@ -4677,7 +4677,7 @@ analys. Det behövs ytterligare arbete för att kvantifiera olika verksamheters 
 
 38 Referens: Havs- och vattenmyndigheten (2021)
 
-- 67 -
+\- 67 -
 
 <!-- sida 90 -->
 
@@ -4733,7 +4733,7 @@ kan de påverka bottenlevande organismer under lång tid framöver, tills dess a
 överlagrade med renare sediment som är ostört från till exempel muddring och omrörning av
 bottenlevande organismer.
 
-- 68 -
+\- 68 -
 
 <!-- sida 91 -->
 
@@ -4793,7 +4793,7 @@ denna strategi.
 • Tillförsel av föroreningar från atmosfär
 • Kontroll av badvattenkvalitet
 
-- 69 -
+\- 69 -
 
 <!-- sida 92 -->
 
@@ -4855,7 +4855,7 @@ Det finns två miljökvalitetsnormer för farliga ämnen i HaV:s föreskrifter H
 från fem övervakningsprogram ger underlag till miljökvalitetsnormernas tillhörande indikatorer –
 Tillförsel av föroreningar från land respektive atmosfär, utsläpp av olja och andra skadliga ämnen,
 farliga ämnen i biota samt biologiska effekter av tennorganiska föreningar.
-- 70 -
+\- 70 -
 
 <!-- sida 93 -->
 
@@ -4914,7 +4914,7 @@ sediment
 spridning av TBT leder till lägre
 koncentrationer av farliga ämnen och
 39 Referens: Havs- och vattenmyndigheten (2021)
-- 71 -
+\- 71 -
 
 <!-- sida 94 -->
 
@@ -4973,7 +4973,7 @@ ut kemikalier som kan vara relevanta att reglera inom till exempel EU:s kemikali
 
 40 Toxikologiska rådet - Kemikalieinspektionen
 
-- 72 -
+\- 72 -
 
 <!-- sida 95 -->
 
@@ -5032,7 +5032,7 @@ empting-pollution-by-screening-for-possible-risks-preempt/
 45 Handlingsplanen Full koll på våra vatten finns på Havs- och vattenmyndighetens webbsida:
 https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/full-koll-pa-vara-vatten.html
 
-- 73 -
+\- 73 -
 
 <!-- sida 96 -->
 
@@ -5088,11 +5088,11 @@ utökades programmet med analyser av organiska föroreningar. Övervakning av fa
 46 Framtidens miljöövervakning - https://www.naturvardsverket.se/om-miljoarbetet/forskning/miljoforskning/forskningssatsningar-
 samhalle/framtidens-miljoovervakning/
 47 SGEFF - Study Group on developing new guidelines for monitoring of biological EFFects of contaminants (SGEFF; 2024-
-2025)
+2025\)
 48 Referens: Naturvårdsverket (2024a)
 49 Referens: Naturvårdsverket (2025)
 
-- 74 -
+\- 74 -
 
 <!-- sida 97 -->
 
@@ -5151,7 +5151,7 @@ https://www.havochvatten.se/hav/samordning--fakta/miljoovervakning/full-koll-pa-
 https://rib.msb.se/filer/pdf/25589.pdf
 52 Referens: Vattenmyndigheterna (2024)
 
-- 75 -
+\- 75 -
 
 <!-- sida 98 -->
 
@@ -5210,7 +5210,7 @@ halter av farliga ämnen som förhindrar att god miljöstatus upprätthålls ell
 
 Tillhörande indikatorer till miljökvalitetsnormen B.1
 
-- 76 -
+\- 76 -
 
 <!-- sida 99 -->
 
@@ -5264,7 +5264,7 @@ som återfinns i olika storlekar och former. Den största andelen utgörs dock a
 som är mycket beständig och vanligtvis inte bryts ned helt i miljön, utan istället bryts ner till
 mindre och mindre delar i form av mikroplast.
 
-- 77 -
+\- 77 -
 
 <!-- sida 100 -->
 
@@ -5326,7 +5326,7 @@ D10C2                Indikator saknas      Mikroskräp
 Sammansättning, mängd och rumslig
 fördelning för mikroskräp längs kusterna,
 i vattnets ytskikt och i havsbottnens
-- 78 -
+\- 78 -
 
 <!-- sida 101 -->
 
@@ -5386,7 +5386,7 @@ den marina miljön
 Skräp på havsbotten
 53 Referens: Havs- och vattenmyndigheten (2021)
 
-- 79 -
+\- 79 -
 
 <!-- sida 102 -->
 
@@ -5456,7 +5456,7 @@ Utveckling av visuella metoder pågår för att med hjälp av undervattensvideo 
 förekomsten av skräp. Under 2024 finansierade Havs- och vattenmyndigheten ett projekt där
 skräp noterades i samband med filmning av havskräftbon inom övervakningsprogrammet Större
 djur på havsbotten. Resultaten visade att de ytor som täcks in vid filmning inte är tillräckliga för att
-- 80 -
+\- 80 -
 
 <!-- sida 103 -->
 
@@ -5514,7 +5514,7 @@ robusta analytiska verktyg och effektiva dataflöden som kan stödja en långsik
 övervakning av mikroskräp. Planen är att åter testa metoden i samband med att övervakningen
 av farliga ämnen utökas med nya kuststationer 2027. Genom att kombinera övervakning vid
 
-- 81 -
+\- 81 -
 
 <!-- sida 104 -->
 
@@ -5569,7 +5569,7 @@ delvis dessa mål, och en strategi för att utveckla övervakningen behövs för
 
 54 Referens: Naturvårdsverket (2024b)
 
-- 82 -
+\- 82 -
 
 <!-- sida 105 -->
 
@@ -5629,7 +5629,7 @@ tumlare gäller detta på individnivå.
 
 Indikatorer till miljökvalitetsnormen E.2 saknas.
 
-- 83 -
+\- 83 -
 
 <!-- sida 106 -->
 
@@ -5687,7 +5687,7 @@ senaste åren har Havs- och vattenmyndigheten lyft problemet till Regeringskansl
 
 55 Referens: Havs- och vattenmyndigheten (2021)
 
-- 84 -
+\- 84 -
 
 <!-- sida 107 -->
 
@@ -5735,7 +5735,7 @@ dessa källor kan kvantifieras.
 57 Naturvårdsverket (2025) Nytt system för företagens miljörapportering (KN2025/00357) – Redovisning av regeringsuppdrag,
 skrivelse NV-09157-23 - Nytt system för företagens miljörapportering.
 
-- 85 -
+\- 85 -
 
 <!-- sida 108 -->
 
@@ -5774,7 +5774,7 @@ text i tabellerna nedan. Denna utveckling sker parallellt med utvecklingen av ny
 bedömningsstrategier. Den övergripande statusen för övervakningens tillräcklighet indikeras med
 en färgkod.
 
-- 86 -
+\- 86 -
 
 <!-- sida 109 -->
 
@@ -5828,7 +5828,7 @@ D3CA1 — fiskeridödlighet
 D3C2 — lekbeståndens
 biomassa
 
-- 87 -
+\- 87 -
 
 <!-- sida 110 -->
 
@@ -5896,7 +5896,7 @@ Marina näringsvävar (Deskriptor 4)
 Tabell 30 Status för övervakningen per D4-kriterium och djurgrupp. Texten i rutorna beskriver kortfattat det utvecklingsarbete
 som pågår eller planeras. Färgerna indikerar övervakningens tillräcklighet enligt: Ljusgrönt — Övervakning pågår men i
 
-- 88-
+\- 88-
 
 <!-- sida 111 -->
 
@@ -5945,7 +5945,7 @@ Det pågår utveckling av övervakning, vilken sammanfattas i text i tabellerna 
 Utvecklingsarbetet sker parallellt med utvecklingen av nya indikatorer och bedömningsstrategier.
 Den övergripande statusen för övervakningens tillräcklighet indikeras med en färgkod.
 
-- 89-
+\- 89-
 
 <!-- sida 112 -->
 
@@ -6008,7 +6008,7 @@ D5C4 — Siktdjup optiska egenskaper.
 D5C5 —
 Syrekoncentration
 
-- 90 -
+\- 90 -
 
 <!-- sida 113 -->
 
@@ -6135,7 +6135,7 @@ individer som
 påverkas negativt
 av skräp Prioriteras ej.
 
-- 92 -
+\- 92 -
 
 <!-- sida 115 -->
 
@@ -6191,7 +6191,7 @@ uppfylla EU-direktiv, annan EU-lagstiftning och svensk lagstiftning, samt inom r
 Havs- och vattenmyndigheten har internt tagit fram en strategi för akvatisk övervakning. Det
 första steget i detta arbete har varit att identifiera relevanta kunskapsunderlag samt kartlägga
 
-- 93 -
+\- 93 -
 
 <!-- sida 116 -->
 
@@ -6209,7 +6209,7 @@ Parallellt pågår arbete med att utforma en sorterings- och presentationsstrukt
 hela den svenska akvatiska övervakningen och som syftar till att stärka förvaltningen av den
 akvatiska miljön genom ökad överskådlighet och tillgång till data.
 
-- 94 -
+\- 94 -
 
 <!-- sida 117 -->
 
@@ -6266,7 +6266,7 @@ IMO      Internationella fartygsorganisationen (International Maritime Organizat
 
 JAMP     Joint Assessment and Monitoring Programme (Ospar)
 
-- 95 -
+\- 95 -
 
 <!-- sida 118 -->
 
@@ -6302,7 +6302,7 @@ TBT      Tributyltenn
 
 QSR      Quality Status Report (Ospar),
 
-- 96 -
+\- 96 -
 
 <!-- sida 119 -->
 
@@ -6360,7 +6360,7 @@ kommissionens beslut (EU) 2017/848 och fastställs för inledande bedömningen i
 
 Kumulativ påverkan När flera belastningar adderas och ger upphov till en samlad påverkan.
 
-- 97 -
+\- 97 -
 
 <!-- sida 120 -->
 
@@ -6408,7 +6408,7 @@ toppredator.
 Tröskelvärde (för betydande påverkan) Gränsvärde för exempelvis tillförsel av näringsämnen, där
 påverkan anses vara betydande om tröskelvärdet överskrids.
 
-- 98 -
+\- 98 -
 
 <!-- sida 121 -->
 
@@ -6423,7 +6423,7 @@ unifying framework for marine environmental management - ScienceDirect
 
 EU Commission (2013). Monitoring under Marine Strategy Framework Directive.
 Recommendations for implementation and reporting. Final version agreed by MSCG on 7 May
-2013.
+2013\.
 
 EU Commission (2025). Reporting on the 2026 update of Article 11 for the Marine Strategy
 Framework Directive. MSFD Guidance document VERSION – 06 17/10/2025.
@@ -6465,7 +6465,7 @@ https://www.havochvatten.se/download/18.60662d6719060e439995beef/1723711349019/r
 Helcom (2023) Eutrophication. State of the Baltic Sea 2023 – Holistic Assessment HELCOM-
 Thematic-assessment-of-eutrophication-2016-2021.pdf
 
-- 99 -
+\- 99 -
 
 <!-- sida 122 -->
 
@@ -6512,7 +6512,7 @@ Technical Reports. EUR 25187 EN. Publications Office of the European Union. 42 s
 monitoring in the European Union: How to fulfill the requirements for the marine strategy
 framework directive in an efficient and integrated way - ScienceDirect
 
-- 100 -
+\- 100 -
 
 <!-- sida 123 -->
 
@@ -6885,7 +6885,7 @@ Sammanfattning av ärendet
 
 Carita Boulwén (SD) har inkommit om motion om införande av blocktider inom
 hemtjänsten. Motionen anmäldes i Kommunfullmäktige arbetsutskott den 12 augusti
-2025. Den 2 september 2025 har Kommunstyrelsens arbetsutskott remitterat
+2025\. Den 2 september 2025 har Kommunstyrelsens arbetsutskott remitterat
 motionen till Nämnden för Vård & Omsorg för beredning.
 
 Det här dokumentet är digitalt signerat
@@ -7384,7 +7384,7 @@ Detta medför olika grad av komplexitet i verksamheten och möjlighet till att u
 3.1 Erfarenhetsutbyte Arjeplog
 Utvecklingsledare samt biträdande förvaltningschef på Förvaltningen för Vård & omsorg har
 genomfört ett möte med enhetschefen för Arjeplogs hemtjänst, Bitte Westerlund, den 8e oktober
-2025. Mötet syftade till att få veta mer om vad Arjeplog har genomfört för förändringar samt vad
+2025\. Mötet syftade till att få veta mer om vad Arjeplog har genomfört för förändringar samt vad
 arbetssättet innebär för medarbetarna i vardagen. För att efterfölja IBIC processen presenteras
 arbetssättet från Utreda & besluta till Följa upp. 18
 
@@ -7687,7 +7687,7 @@ Planerade besök
 ee € Planerade besök Oo i
 Bertil Testsson—+ ö
 I morgon 08:35 30 m Bild pa hur en . Bertil Tests Bild pa hur en .
-+ Morgonbehov kd. Medarbetare ser sin « morgonoend Medarbetare ser sin
+\+ Morgonbehov kd. Medarbetare ser sin « morgonoend Medarbetare ser sin
 x | planering i mobilen, planering i mobilen,
 & starttid och & utan några
 . . | tidsåtgång för besök Göran Test] tidsangivelser
@@ -7721,12 +7721,12 @@ Efterlevnad Antal ska börja användas inom hemtjänsten och som enheter ska fö
 
 Dessa nyckeltal ger enheterna datadriven information i realtid om:
 
-1) hur mycket av arbetstiden som går till besök hemma hos omsorgstagaren (Effektivitet)
+1\) hur mycket av arbetstiden som går till besök hemma hos omsorgstagaren (Effektivitet)
 
-2) hur vi använder den totala ramtiden och beställd hsl-tid för enheten som planeras ut i
+2\) hur vi använder den totala ramtiden och beställd hsl-tid för enheten som planeras ut i
 planeringen och hur mycket som sedan används till besökstid (Efterlevnad tid) samt
 
-3) säkerställer att vi utför och efterlever de insatser (Sol och HSL-insatser) som omsorgstagaren
+3\) säkerställer att vi utför och efterlever de insatser (Sol och HSL-insatser) som omsorgstagaren
 har rätt till utifrån sina behov (Efterlevnad antal).
 
 26 Styrning av hemtjänsten, Socialstyrelsen, 2025
@@ -8532,7 +8532,7 @@ fördjupade översiktsplanen för Kungsbacka stads intention att komplettera med
 bostäder i centrala delar av staden för en mer hållbar samhällsutveckling.
 Fastigheten är belägen inom detaljplan TP52 som vann laga kraft den 21 september
 
-2001. Den aktuella fastigheten är i plankartan redovisad som kvartersmark för skola.
+2001\. Den aktuella fastigheten är i plankartan redovisad som kvartersmark för skola.
 I dag finns Vittraskolan, Novaskolan och Forsgläntans idrottshall inom fastigheten.
 Mot norr gränsar fastigheten till Forsskogen och i öster till ett mindre grönområde
 mellan skolfastigheten och ett bostadsområde. Sydöst om fastigheten ligger en
@@ -8738,7 +8738,7 @@ VÄG
 
 32
 
-25)
+25\)
 
 Då Bolaget inte avser att vara ägare av Markområdet eller självt ska genomföra
 utbyggnad av byggnader och iordningsställande av mark för sin verksamhet ska
@@ -9049,7 +9049,7 @@ PROJEKTBESTÄLLNING
 
 SAMHÄLLSBYGGNAD
 Kungsbacka
-117)
+117\)
 Projektnamn
 Detaljplan för norra Voxlöv inom Voxlöv 4:9 och Hede 9:26 i Kungsbacka stad
 Beställare
@@ -9184,16 +9184,16 @@ projekt är väl tilltagen då arbetet ska hålla hög kvalitet samt på grund a
 planområde med strategiskt läge.
 
 PROJEKTETS  LEVERANSER
-1. Projektbeställning SBK/KS
-2. Projektplan SBK/Forum Samhällsbyggnad
+1\. Projektbeställning SBK/KS
+2\. Projektplan SBK/Forum Samhällsbyggnad
 
-3. Samrådshandlingar BN
-4. Granskningshandlingar BN
+3\. Samrådshandlingar BN
+4\. Granskningshandlingar BN
 
-5. Exploateringsavtal KS
-6. Antagandehandlingar BN
+5\. Exploateringsavtal KS
+6\. Antagandehandlingar BN
 
-7. Antagandehandlingar KF
+7\. Antagandehandlingar KF
 Detaljplanen upprättas med utökat förfarande då den bedöms ha ett stort allmänt intresse, därav antas
 
 detaljplanen av kommunfullmäktige.
@@ -9226,31 +9226,31 @@ som markerar fastighetsgränsen mot det öppna jordbrukslandskapet i norr.
 Avgränsning av planområdet. Gult området i söder påverkas av Hedeledens avgränsning. Bilden visar ungefärligt område som påverkas.
 
 Projektet kommer att hantera:
-- lämplig storlek på byggrätt för utbildningslokaler och övrig kommunal service
+\- lämplig storlek på byggrätt för utbildningslokaler och övrig kommunal service
 
 <!-- sida 186 -->
 
 PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 5 (7)
 
-- lämplig storlek på byggrätt för bostäder och centrumlokaler
-- utformning av byggnader, gårdar och allmän plats
-- ytor för grönstruktur, park och torg
+\- lämplig storlek på byggrätt för bostäder och centrumlokaler
+\- utformning av byggnader, gårdar och allmän plats
+\- ytor för grönstruktur, park och torg
 
-- sociala aspekter
-- stråk och eventuella kopplingar över/under Västkustbanan
-- trafik- och parkeringslösning
-- antal pendelparkeringar på både östra och västra sidan om Hede station.
-- VA och dagvattenhantering
+\- sociala aspekter
+\- stråk och eventuella kopplingar över/under Västkustbanan
+\- trafik- och parkeringslösning
+\- antal pendelparkeringar på både östra och västra sidan om Hede station.
+\- VA och dagvattenhantering
 
-- geotekniska förutsättningar
-- arkeologi
-- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
+\- geotekniska förutsättningar
+\- arkeologi
+\- inmätning av osäkra fastighetsgränser som gränsar till planområdet.
 
 Frågor som inte ingår i projektet:
-- Utformning och placering av Hedeleden
-- Innehåll och utformning av bebyggelse på västra sidan om Hede station
-- Innehåll och utformning av övriga områden i Voxlöv
+\- Utformning och placering av Hedeleden
+\- Innehåll och utformning av bebyggelse på västra sidan om Hede station
+\- Innehåll och utformning av övriga områden i Voxlöv
 
 TIDPLAN
 
@@ -9344,7 +9344,7 @@ PROJEKTBESTÄLLNING
 
 SAMHÄLLSBYGGNAD
 Kungsbacka
-18)
+18\)
 Projektnamn
 Detaljplan för norra Voxlöv inom Voxlöv 4:9 och Hede 9:26 i Kungsbacka stad
 Beställare
@@ -9518,17 +9518,17 @@ planområde med strategiskt läge.
 
 PROJEKTETS  LEVERANSER
 
-1. Projektbeställning SBK/KS
-2. Projektplan SBK/Forum Samhällsbyggnad
+1\. Projektbeställning SBK/KS
+2\. Projektplan SBK/Forum Samhällsbyggnad
 
 Revidering: 3. Principavtal
-4. Samrådshandlingar BN
+4\. Samrådshandlingar BN
 
-5. Granskningshandlingar BN
-6. Exploateringsavtal KS
+5\. Granskningshandlingar BN
+6\. Exploateringsavtal KS
 
-7. Antagandehandlingar BN
-8. Antagandehandlingar KF
+7\. Antagandehandlingar BN
+8\. Antagandehandlingar KF
 
 Detaljplanen upprättas med utökat förfarande då den bedöms ha ett stort allmänt intresse, därav antas
 detaljplanen av kommunfullmäktige.
@@ -9566,19 +9566,19 @@ Avgränsning av planområdet. Gult området i söder påverkas av Hedeledens avg
 
 Projektet kommer att hantera:
 
-- lämplig storlek på byggrätt för utbildningslokaler och övrig kommunal service
+\- lämplig storlek på byggrätt för utbildningslokaler och övrig kommunal service
 Revidering: kommunal service i form av BMSS.
 
-- lämplig storlek på byggrätt för bostäder och centrumlokaler
+\- lämplig storlek på byggrätt för bostäder och centrumlokaler
 
-- utformning av byggnader, gårdar och allmän plats
-- ytor för grönstruktur, park och torg
-- sociala aspekter
+\- utformning av byggnader, gårdar och allmän plats
+\- ytor för grönstruktur, park och torg
+\- sociala aspekter
 stråk och eventuella kopplingar över/under Västkustbanan
 Revidering: -Utreda förutsättningarna för en koppling över järnvägen och utredningen ska
 även omfatta en kostnadsuppskattning.
 
-- trafik- och parkeringslösning
+\- trafik- och parkeringslösning
 antal pendelparkeringar på både östra och västra sidan om Hede station.
 Revidering: - lämplig storlek på byggrätt som medger uppförande av parkeringshus för
 pendelparkering, med kapacitet att rymma minst lika många pendelparkeringsplatser som
@@ -9586,25 +9586,25 @@ idag finns inom planområdet samt möjlighet till flexibel omfattning och utbygg
 
 pendelparkering.
 
-- VA och dagvattenhantering
+\- VA och dagvattenhantering
 
 <!-- sida 194 -->
 
 PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 6 (8)
 
-- geotekniska förutsättningar
-- arkeologi
+\- geotekniska förutsättningar
+\- arkeologi
 inmätning av osäkra fastighetsgränser som gränsar till planområdet.
 
 Revidering: Bestämning av fastighetsgränser som bedöms vara osäkra som gränsar till
 planområdet.
 
 Frågor som inte ingår i projektet:
-- Utformning och placering av Hedeleden
-- Innehåll och utformning av bebyggelse på västra sidan om Hede station
+\- Utformning och placering av Hedeleden
+\- Innehåll och utformning av bebyggelse på västra sidan om Hede station
 
-- Innehåll och utformning av övriga områden i Voxlöv
+\- Innehåll och utformning av övriga områden i Voxlöv
 
 TIDPLAN
 Q3 2023 Uppdragsbeslut BNAU
@@ -9737,7 +9737,7 @@ Kommunstyrelsen godkänner projektbeställning för detaljplan för bostäder,
 utbildningslokaler samt centrum inom Hede 9:26 och Voxlöv 4:9, daterad
 2023-07-26 med följande ändringar i projektbeställningen:
 
-1. Följande text stryks under rubriken Hållbarhetsaspekter, stycke tre; ”Inom
+1\. Följande text stryks under rubriken Hållbarhetsaspekter, stycke tre; ”Inom
 planområdet planeras för minst en tredjedel hyresrätter vilket innebär att det
 blir en blandning av bostadsupplåtelser som är bra för variationen och den
 sociala hållbarheten.”
@@ -9746,7 +9746,7 @@ Följande text adderas i dess ställe; ”Inom planområdet bör planeras för e
 högre andel bostäder i ägandeform i förhållande till vad som föreslås i
 planprogrammet. Den del av planområdet som ej angränsar mot Hede
 stationsområde bör ha en starkare karaktär av småhusbebyggelse.”
-2. Följande text stryks under rubriken Hållbarhet, stycke tre; ”För att öka
+2\. Följande text stryks under rubriken Hållbarhet, stycke tre; ”För att öka
 tryggheten och den sociala hållbarheten i området bör stationshus på båda
 sidor om spåret utredas samt att stor vikt läggs vid utformning och
 
@@ -9754,12 +9754,12 @@ programmering av stationstorget.”
 Följande text adderas i dess ställe; ”Området som angränsar till järnvägen
 behöver utformas med fokus på hög trygghet.”
 
-3. Följande text stryks under rubriken Hållbarhetsaspekter, stycke fem; ”… samt
+3\. Följande text stryks under rubriken Hållbarhetsaspekter, stycke fem; ”… samt
 att dessa ytor ska ha hög kvalitet.”
-4. Följande text stryks under rubriken Uppdrag underrubrik Prioritering, stycke
+4\. Följande text stryks under rubriken Uppdrag underrubrik Prioritering, stycke
 två; ”… gestaltningsprogram kommer tas fram…”
 
-5. Följande text stryks under rubriken Beslut och rapportering, underrubrik
+5\. Följande text stryks under rubriken Beslut och rapportering, underrubrik
 rapporteringsrutiner, stycke tre; ”Avstämningar med KS görs endast om
 frågeställningen berör de kommunala investeringarna i projektet.”
 

@@ -13954,7 +13954,7 @@ behandlingskostnader föreslås till år 2025. Avfallsindex ligger till grund f�
 Hälsningar
 Sandra Carlström
 Miljöingenjör
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 Avfall & Återvinning
 

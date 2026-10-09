@@ -178,21 +178,21 @@ och säkert sätt krävs en bred uppsättning åtgärder som kompletterar varand
 täcker många olika områden. Enligt AI-kommissionen är följande nödvändiga
 beståndsdelar i ett svenskt AI-ekosystem:
 
-1. Elektricitet: Tillgång till stabil och effektiv energi för att driva AI-systemen.
-2. Telekom: Utvecklad telekommunikationsinfrastruktur för att möjliggöra snabb och
+1\. Elektricitet: Tillgång till stabil och effektiv energi för att driva AI-systemen.
+2\. Telekom: Utvecklad telekommunikationsinfrastruktur för att möjliggöra snabb och
 säker dataöverföring.
 
-3. Beräkningskraft: Tillgång till avancerad beräkningskapacitet för att hantera
+3\. Beräkningskraft: Tillgång till avancerad beräkningskapacitet för att hantera
 komplexa AI-beräkningar.
 
-4. Data: Tillgång till relevanta och högkvalitativa data för att träna och utveckla AI-
+4\. Data: Tillgång till relevanta och högkvalitativa data för att träna och utveckla AI-
 modeller.
-5. Säkerhet: Effektiva säkerhetsåtgärder för att skydda AI-systemen och data mot
+5\. Säkerhet: Effektiva säkerhetsåtgärder för att skydda AI-systemen och data mot
 cyberhot och andra säkerhetsrisker.
 
-6. Spetsforskning: Kontinuerlig forskning och utveckling inom AI-området för att
+6\. Spetsforskning: Kontinuerlig forskning och utveckling inom AI-området för att
 hålla Sverige i framkant.
-7. Tillgång till utländska AI-resurser: Möjlighet att samarbeta med och ta del av
+7\. Tillgång till utländska AI-resurser: Möjlighet att samarbeta med och ta del av
 
 internationella AI-resurser och expertis.
 
@@ -207,13 +207,13 @@ Kommunstyrelsens arbetsutskott
 Datum
 2025-05-13
 
-8. AI-kompetens för alla: Utbildning och kompetensutveckling inom AI för att
+8\. AI-kompetens för alla: Utbildning och kompetensutveckling inom AI för att
 säkerställa att alla medarbetare har den kunskap som behövs för att arbeta effektivt
 med AI.
-9. Innovation och riskkapital: Tillgång till riskkapital och innovationsstöd för att
+9\. Innovation och riskkapital: Tillgång till riskkapital och innovationsstöd för att
 främja utveckling och implementering av AI-baserade lösningar.
 
-10. Ledarskap: Effektivt ledarskap och styrning för att säkerställa att AI-utvecklingen
+10\. Ledarskap: Effektivt ledarskap och styrning för att säkerställa att AI-utvecklingen
 är strategiskt inriktad och samordnad.
 
 Genom att säkerställa att dessa beståndsdelar finns på plats kan Sverige skapa ett väl
@@ -266,7 +266,7 @@ säkerhetskyddsförordningen (2021:955) ska en organisation som bedriver
 säkerhetskänslig verksamhet ha en säkerhetsskyddschef. Uppgifter för
 
 säkerhetsskyddschef:
-- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten
+\- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten
 bedrivs enligt lagen och de föreskrifter som gäller.
 
 För att skapa redundans i händelse av att ordinarie Säkerhetsskyddschef inte kan
@@ -315,7 +315,7 @@ eller som omfattas av ett för Sverige förpliktande internationellt åtagande o
 säkerhetsskydd. I enlighet med säkerhetskyddsförordningen (2021:955) ska en
 organisation som bedriver säkerhetskänslig verksamhet ha en säkerhetsskyddschef.
 Uppgifter för säkerhetsskyddschef:
-- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten
+\- leda och samordna säkerhetsskyddsarbetet samt kontrollera att verksamheten
 bedrivs enligt lagen och de föreskrifter som gäller.
 
 Beslutsunderlag

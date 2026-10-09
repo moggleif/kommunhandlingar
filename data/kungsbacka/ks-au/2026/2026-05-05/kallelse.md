@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 Ärende                 Beteckning Förslag
 
-3.  Sammanträdesdagar 2027 för KS-2026-00240 Förslag till beslut
+3\.  Sammanträdesdagar 2027 för KS-2026-00240 Förslag till beslut
 kommunfullmäktige,                Kommunstyrelsens arbetsutskott sammanträder
 kommunstyrelsen och               följande datum 2027
 kommunstyrelsens arbetsutskott
@@ -93,7 +93,7 @@ datum 2027
 11 maj   9 november
 8 juni   7 december
 
-4.  Svar på Finansdepartementets KS-2026-00194 Förslag till beslut i kommunstyrelsen
+4\.  Svar på Finansdepartementets KS-2026-00194 Förslag till beslut i kommunstyrelsen
 remiss - Betänkandet Belägg för   Kommunstyrelsen antar yttrande daterat 2026-
 broms? Åtgärder för               04-01 och översänder det som sitt svar till
 starkare incitament till lägre    Finansdepartementet.

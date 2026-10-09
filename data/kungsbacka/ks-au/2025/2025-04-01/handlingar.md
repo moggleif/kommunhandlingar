@@ -390,7 +390,7 @@ KUNGSBACKA  KOMMUN
 9 (9)
 
 SUMMA     1 302 676   -11 261   3 140   -190 1 291 226 3 140
-*Exploateringserättningar redovisas som en intäkt det år de uppkommer i enlighet med gällande redovisningsregler.
+\*Exploateringserättningar redovisas som en intäkt det år de uppkommer i enlighet med gällande redovisningsregler.
 
 Ramjustering för minskade arbetsgivaravgifter, personalomkostnadspålägg i budget 2025
 I det sammantagna personalomkostnadspålägget, PO-pålägget, ingår dels de arbetsgivaravgifter som
@@ -398,7 +398,7 @@ bestäms av riksdagen (lagstadgade socialavgifter), dels de avgifter som bestäm
 Sveriges Kommuner och Regioner, SKR, och fackföreningarna inom offentlig sektor
 (avtalsförsäkringar och avtalspensioner). Kommunen följer rekommenderad nivå enligt SKR och
 reglerar till slutlig nivå när denna är fastställd. PO-pålägget publicerades av SKR den 12 december
-2024. För kommunerna justeras nu PO-pålägget ned och fastställs till 40,24 procent för 2025. I
+2024\. För kommunerna justeras nu PO-pålägget ned och fastställs till 40,24 procent för 2025. I
 
 kommunbudget 2025 är PO-pålägget 42,75 procent som ingår i ramen hos nämnderna. När PO-
 pålägget ökade år 2023 blev nämnderna kompenserade med cirka 66 miljoner kronor och då var
@@ -449,7 +449,7 @@ Delsumma   1 082 075 105 013 3 140 - 190   -  1 186 898 3 140
 Exploateringsinvesteringar och
 omsättningstillgångar 220 601 - 116 273             104 328  -
 SUMMA      1 302 676 - 11 261 3 140 - 190  -  1 291 226 3 140
--    11 451  3 140            1 291 226
+\-    11 451  3 140            1 291 226
 1 291 226 3 140
 Ombudget förslag:          2025    2026 2025-2026
 Totalt förslag från nämnderna -11 261 3 140 -8 121
@@ -945,7 +945,7 @@ av stress flera gånger i veckan eller oftare (25 respektive 34 procent av killa
 
 är stress ett ungefär lika vanligt besvär som sömnsvårigheter och att känna sig aggressiv/arg.
 
-#Tryggdigitaluppväxt, Men Seriöst – Barn och ungas utsatthet på nätet
+\#Tryggdigitaluppväxt, Men Seriöst – Barn och ungas utsatthet på nätet
 
 •  Enkätundersökningen ”Men seriöst” (2023) som riktade sig till målgruppen 15 - 20 år och fick
 in 1110 svar visar att utsattheten på nätet är omfattande i Kungsbacka kommun likväl som
@@ -988,14 +988,14 @@ befolkningen. Detta görs på både strategisk och operativ nivå med i linje me
 kommunfullmäktigemålen och vision 2030. Arbetet sker på förvaltningsnivå men även i samverkan
 mellan olika förvaltningar:
 
--  Sociala konsekvensanalyser. Verktyget för sociala konsekvensanalyser (SKA) syftar till att
+\-  Sociala konsekvensanalyser. Verktyget för sociala konsekvensanalyser (SKA) syftar till att
 stärka arbetet med sociala aspekter inom samhällsplaneringen. Kungsbacka kommun arbetar
 med sociala konsekvensanalyser i samhällsplaneringen för att säkerställa
 rekreationsmöjligheter, rörelse, mötesplatser för samvaro samt trygga och inkluderande
 
 miljöer. Detta arbete inkluderar flera förvaltningar.
 
--  PEP kommun 2.0. Flertalet förvaltningar samverkar för att göra Kungsbacka till en PEP
+\-  PEP kommun 2.0. Flertalet förvaltningar samverkar för att göra Kungsbacka till en PEP
 kommun 2.0. Detta arbete bygger på åtta investeringar för att främja fysisk aktivitet. I ett av
 målen arbetar Teknik och Förskola & Grundskola med aktiva transporter till skolan och i ett av
 de andra arbetar Service med hälsofrämjande matmiljöer. Måltider har under året anslutit till
@@ -1007,7 +1007,7 @@ som lanserades 2023 och som kommer ligga till grund för de nya råd för försk
 som Livsmedelsverket planerar lansera under 2025. Arbetet har som mål att alla barn och unga
 i Kungsbacka ska ha möjlighet och vilja att leva ett hälsosamt och aktivt liv.
 
--  Mötesplats idrott, Det är viktigt att barn och unga hittar plattformar att utöva fysisk aktivitet
+\-  Mötesplats idrott, Det är viktigt att barn och unga hittar plattformar att utöva fysisk aktivitet
 på, där de kan få ett socialt sammanhang och en positiv upplevelse kopplad till idrott. Som ett
 komplement till idrottsföreningar erbjuder vi Mötesplats Idrott, en plats där invånaren är
 välkommen att träna, leka, spela och testa på fysiska aktiviteter. Man kan komma ensam eller
@@ -1015,7 +1015,7 @@ välkommen att träna, leka, spela och testa på fysiska aktiviteter. Man kan ko
 med kompisar. Mötesplats Idrott finns på tre ställen i kommunen och riktar sig till barn och
 unga över 12 år som vill idrotta förutsättningslöst tillsammans med sina vänner.
 
--  God och nära vård. Vård & Omsorg ansvarar för att vara sammanhållande
+\-  God och nära vård. Vård & Omsorg ansvarar för att vara sammanhållande
 kommunövergripande i arbetet utifrån reformen "God och nära vård" i Kungsbacka. Reformen
 omfattar och påverkar flera förvaltningar och innebär en omställning av välfärden som mer
 behöver bedrivas med ökat fokus på förebyggande och hälsofrämjande arbete. Det
@@ -1031,7 +1031,7 @@ KUNGSBACKA  KOMMUN
 En god samverkan med andra aktörer både internt och externt, såsom Region Halland och övrig
 primärvård i vårdcentralerna, är av stor vikt för invånarnas hälsa och välbefinnande.
 
--  Samverkan för ökad rörelse. Under 2024 har projektet Samverkan för ökad rörelse fokuserat
+\-  Samverkan för ökad rörelse. Under 2024 har projektet Samverkan för ökad rörelse fokuserat
 på att främja fysisk aktivitet och förbättra hälsan hos barn och ungdomar i Kungsbacka. De har
 föreslagit ökade möjligheter till fysisk aktivitet i skolan för att främja bättre fysisk och psykisk
 hälsa. Arbete genomförs för att förbättra undervisningskvaliteten och skapa en tillgänglig
@@ -1044,7 +1044,7 @@ och förbättra deras koncentration och inlärning. Rektorer beskriver att de se
 kränkningar mellan elever minskar. Genom dessa insatser har skolan strävat efter att skapa en
 mer aktiv och hälsosam miljö för barn och ungdomar i Kungsbacka kommun.
 
--  Senior i Kungsbacka. I Kungsbacka kommun finns verksamheten Senior i Kungsbacka som
+\-  Senior i Kungsbacka. I Kungsbacka kommun finns verksamheten Senior i Kungsbacka som
 har 16 mötesplatser för seniorer runt om i kommunen. På mötesplatserna har seniorer möjlighet
 
 att umgås och delta i aktiviteter utifrån sina intressen och förutsättningar, men det går precis
@@ -1052,7 +1052,7 @@ lika bra att bara komma in på en kopp kaffe. Aktiviteter som gympa, sittgympa, 
 föreläsningar (psykisk hälsa, alkohol m.m), yoga, rörlighetsträning, allsång, promenad med
 mera genomförs varje vecka.
 
--  Stärkt hälsolitteracitet. Hälsolitteracitet handlar om en individs förmåga att få tag på, förstå,
+\-  Stärkt hälsolitteracitet. Hälsolitteracitet handlar om en individs förmåga att få tag på, förstå,
 värdera och använda information för att bibehålla och främja hälsa.
 Hälsolitteracitet har med människors kunskap, motivation och förmåga att få tillgång till,
 
@@ -1068,7 +1068,7 @@ invånare och underlätta möjligheterna för ett besök.
 Utgångspunkten för hälsolitteracitet är att människor själva kan främja sin hälsa och lösa
 hälsoproblem.
 
--  ANDTS (alkohol, narkotika, doping, tobak och spel om pengar). Vi genomförsregelbundet
+\-  ANDTS (alkohol, narkotika, doping, tobak och spel om pengar). Vi genomförsregelbundet
 föreläsningar kring aktuell statistik och berusningsmedel på föräldramöten, på våra
 
 <!-- sida 29 -->
@@ -1086,7 +1086,7 @@ förflyttning när man med gemensamma krafter tillsammans med andra myndigheter 
 krögare arbetar så att våra kommuninnevånare och besökare i Kungsbacka välkomnas av
 trygga krogmiljöer.
 
--  Hälsosatsningen. Hälsosatsningen har genomförts på boenden med särskild service i samarbete
+\-  Hälsosatsningen. Hälsosatsningen har genomförts på boenden med särskild service i samarbete
 med hemsjukvården från Vård & Omsorg. Hälsosatsningen är samlingsnamnet för olika
 
 förebyggande och främjande insatser vars syfte är att förbättra hälsoprognosen för brukare
@@ -1096,14 +1096,14 @@ intellektuell funktionsnedsättning har en särskild utsatthet för ojämlik hä
 utbildning av personal och genomförande av ett antal olika aktiviteter för alla hyresgäster på
 Bmss inom området matvanor, näring, fysisk aktivitet och rörelse.
 
--  Hälsofrämjandeprogram på gymnasiet. Kopplat till Gymnasium & Arbetsmarknads
+\-  Hälsofrämjandeprogram på gymnasiet. Kopplat till Gymnasium & Arbetsmarknads
 nämndmål ”Hälsofrämjande livsstil” har en handlingsplan inom gymnasieskolorna tagits fram
 som man nu arbetar efter.
 Inom ramen för denna handlingsplan utvecklar gymnasieskolorna ett hälsofrämjande program
 för elever. Detta inkluderar en plan för kontinuerlig implementering och integration i skolans
 läroplan.
 
--  Brevutskick. Invånare som är 74 år får ett brev med information om hur de på bästa sätt kan få
+\-  Brevutskick. Invånare som är 74 år får ett brev med information om hur de på bästa sätt kan få
 ett gott åldrande. Invånarna erbjuds uppföljande samtal om vardagsliv och hälsa, säkerhet i
 
 vardagen men även om hur fallolyckor kan förbyggas. I utskicket som går ut till ca 800 - 900
@@ -1276,7 +1276,7 @@ inte läggas på en enskild nämnd. Genom tidiga insatser i skolan såväl som i
 delar av livet kommer våra kommuninvånare leva bättre liv.
 
 Därför yrkar vi på att
-- - Kommunfullmäktige ger berörda nämnder i uppdrag att utforma ett långsiktigt och
+\- - Kommunfullmäktige ger berörda nämnder i uppdrag att utforma ett långsiktigt och
 strategiskt folkhälsoprogram i dialog med politiken för att förbättra folkhälsan i alla åldrar.
 
 Shabnam Zamani (S)
@@ -4443,25 +4443,25 @@ kommun.
 Den kommungemensamma informationshanteringsplanen för ledningsprocesserna omfattar
 verksamhetsområdena:
 
--  ledning av kommunal myndighet
--  styrning
--  organisering och utveckling
--  demokrati och insyn.
+\-  ledning av kommunal myndighet
+\-  styrning
+\-  organisering och utveckling
+\-  demokrati och insyn.
 Den kommungemensamma informationshanteringsplanen för stödprocesserna omfattar
 
 verksamhetsområdena:
--  samordnat verksamhetsstöd
--  informationsförvaltning
--  systemförvaltning och arkitektur
--  HR/personal
--  ekonomi
--  inköp
+\-  samordnat verksamhetsstöd
+\-  informationsförvaltning
+\-  systemförvaltning och arkitektur
+\-  HR/personal
+\-  ekonomi
+\-  inköp
 
--  lokalförsörjning
--  inventariehantering
--  kris och säkerhet
--  information och marknadsföring
--  förvaltningsstöd
+\-  lokalförsörjning
+\-  inventariehantering
+\-  kris och säkerhet
+\-  information och marknadsföring
+\-  förvaltningsstöd
 Kommunstyrelsen äger också ett antal kärnprocesser. Detta är processer där kommunstyrelsen är
 
 utförare av en verksamhet, vilket omfattar verksamhetsområdena:
@@ -4471,12 +4471,12 @@ utförare av en verksamhet, vilket omfattar verksamhetsområdena:
 KUNGSBACKA  KOMMUN
 3 (3)
 
--  bedriva näringsliv
--  infrastruktur och samhällsskydd
+\-  bedriva näringsliv
+\-  infrastruktur och samhällsskydd
 
--  fysisk planering
--  hantera mark och exploatering
--  borglig vigsel
+\-  fysisk planering
+\-  hantera mark och exploatering
+\-  borglig vigsel
 
 Anders Johansson                   Sofia Jonsson
 
@@ -5825,7 +5825,7 @@ Informationshanteringsplan                      Sida 77 av 126
 
 | Motta Inbetalningar<br>från kundfakturor | ISO20022 fil med<br>inbetalningar kundfakturor | Se anm. | Digitalt | 7 år | Inbetalningsfiler från bankgiro och autogiro sparas<br>för:<br>Raindance BG: P:\DFiles\Inbetalningar\BG<br>Inbetalningar<br>Raindance AG:<br>P:\DFiles\Inbetalningar\AG_Inbetalningar Future:<br>P:\EDP Future Filer\BGFiler\Inlästa och P:\EDP<br>Future Filer\AGFiler\BG autogiro\Inlästa |
 | --- | --- | --- | --- | --- | --- |
-|  | Sammanställning samt<br>fellista<br>ISO20022inbetalningar<br>kundfakturor | Se anm. | Se<br>anmärknin<br>g | 7 år | Raindance: Arkiveras digitalt i systemet<br>Future: Bokföringsunderlagen arkiveras digitalt C:\<br>Kungsbacka kommun\KSF Ekonomi KLK -<br>Dokument\Kundteamet\Inbetalningar\åååå\mm\ååmm<br>dd |
+|  | Sammanställning samt<br>fellista<br>ISO20022inbetalningar<br>kundfakturor | Se anm. | Se<br>anmärknin<br>g | 7 år | Raindance: Arkiveras digitalt i systemet<br>Future: Bokföringsunderlagen arkiveras digitalt C:\\<br>Kungsbacka kommun\KSF Ekonomi KLK -<br>Dokument\Kundteamet\Inbetalningar\åååå\mm\ååmm<br>dd |
 |  | Inbetalningsjournal | Se anm. | Digitalt | 7 år | Raindance: Arkiveras i systemet. Går inte att<br>exportera<br>Future: P:\EDP Future filer\BGFiler |
 | Hantera utbetalning<br>från Kundreskontran<br>Raindance | Utbetalningsfil till<br>Swedbank | Se anm. | Digitalt | 7 år | Kundutbetalningar BG (Företag):<br>P:\Dfiles\Utbetalningar\KR\BG\Arkiv<br>Kundutbetalningar SUS (Privatpersoner):<br>P:\Dfiles\Utbetalningar\KR\SUS\Arkiv |
 |  | Utbetalningsjournal | Se anm. | Digitalt | 7 år | I systemet. Går inte att exportera |
@@ -5935,7 +5935,7 @@ Informationshanteringsplan                      Sida 84 av 126
 | Process: | Bokföra och redovisa |  |  |  |  |
 | Processnummer: | 2.4.1.4 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Anläggningsregister | Anläggningsregister | Se anmärkning | Digitalt | Bevaras | Anläggningsregistret före 2007-12-31 finns i<br>kommunens e-arkiv<br>Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>Samarbetsrum \Alla Ekonomi\ Bokslut och<br>delår\Bokslut, delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\ |
+| Anläggningsregister | Anläggningsregister | Se anmärkning | Digitalt | Bevaras | Anläggningsregistret före 2007-12-31 finns i<br>kommunens e-arkiv<br>Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>Samarbetsrum \Alla Ekonomi\ Bokslut och<br>delår\Bokslut, delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\\ |
 |  | Utrangeringar och<br>försäljningar | Närarkiv,<br>Vägmästaren | Papper | 7 år |  |
 |  | Anläggningsregister –<br>integrationslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
 |  | Anläggningsregister –<br>avstämningslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
@@ -5978,7 +5978,7 @@ Informationshanteringsplan                      Sida 87 av 126
 
 | Fakturera internt | Internfakturor | Se anmärkning | Digitalt | 2 år | Internfakturor skapas både i Visma Proceedo<br>och Raindance. Eventuellt underlag på papper<br>förvaras på respektive förvaltning. |
 | --- | --- | --- | --- | --- | --- |
-| Hantera garantier<br>och säkerheter | Garantier | Se anmärkning | Se anmärkning | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\ |
+| Hantera garantier<br>och säkerheter | Garantier | Se anmärkning | Se anmärkning | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anmärkning | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
 | Hantera<br>attestbehörigheter | Attestunderlag | Se anmärkning | Se anmärkning | 7 år efter avslutad<br>attestbehörighet | Attestunderlagen som skickas in digitalt till<br>attester@kungsbacka.se registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anmärkning | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga.<br>Försäkringsbrev arkiveras i<br>samarbetsrummet\KSF Ekonomi<br>KLK\12Försäkringar\Försäkringsbrev |
@@ -6108,8 +6108,8 @@ Informationshanteringsplan                      Sida 95 av 126
 |  | Ansökan om medel med<br>tillhörande underlag | Diarium | Digitalt | Bevaras | Hanteras av respektive förvaltning. |
 | --- | --- | --- | --- | --- | --- |
 |  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
-|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
-|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
+|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
+|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 283 -->
 
@@ -8067,7 +8067,7 @@ Informationshanteringsplan                      Sida 82 av 127
 |  | Fakturafiler från Proceedo<br>till Raindance | Se<br>anmärkning. | Digitalt | 2 år | P:\DFiles\Proceedo\Arkiv<br>Avser A, B och C-filer |
 |  | Kvitton | Se<br>anmärkning. | Papper | Se anmärkning. | Originalkvitton som är underlag för ej specificerade<br>fakturor och där kvittot har scannats in till fakturan i<br>Proceedo arkiveras på respektive enhet och får<br>gallras efter 3 år<br>Originalkvitton som är underlag för ej specificerade<br>fakturor arkiveras på respektive enhet, samt med<br>hänvisning till order/fakturanumret och får gallras<br>efter 7 år. Originalkvitton, som är underlag för ej<br>specificerade fakturor, skannas och bifogas till<br>fakturan i e-handelssystemet. Originalkvittot kan<br>slängas när det finns bifogat. |
 | Betala<br>leverantörsfakturor | Manuella utbetalningar | Se<br>anmärkning. | Papper | 7 år | Manuella utbetalningar registreras i Raindance.<br>Arkiveras hos respektive förvaltning i sju år. |
-|  | Utbetalningsfil till<br>BGC/Swedbank | Se<br>anmärkning. | Digitalt | 7 år | Ekonomi skickar tre olika filer:<br>Leverantörbetalningar BGC:<br>P:\DFiles\Bg\Arkiv\TEIS<br>Utlandsbetalningar Swedbank: P:\DFiles\:<br>Sepa\teis\Arkiv<br>Utbetalningar privatpersoner via Swedbank<br>SUS: P:\DFiles\ Su\Arkiv Leverantörbetalningar:<br>P:\DFiles\Utbetalningar\LR\BG\Arkiv<br>Utlandsbetalningar:<br>P:\DFiles\Utbetalningar\LR\Sepa\Arkiv<br>Utbetalningar privatpersoner via Swedbank SUS: |
+|  | Utbetalningsfil till<br>BGC/Swedbank | Se<br>anmärkning. | Digitalt | 7 år | Ekonomi skickar tre olika filer:<br>Leverantörbetalningar BGC:<br>P:\DFiles\Bg\Arkiv\TEIS<br>Utlandsbetalningar Swedbank: P:\DFiles\\:<br>Sepa\teis\Arkiv<br>Utbetalningar privatpersoner via Swedbank<br>SUS: P:\DFiles\ Su\Arkiv Leverantörbetalningar:<br>P:\DFiles\Utbetalningar\LR\BG\Arkiv<br>Utlandsbetalningar:<br>P:\DFiles\Utbetalningar\LR\Sepa\Arkiv<br>Utbetalningar privatpersoner via Swedbank SUS: |
 
 <!-- sida 396 -->
 
@@ -8115,7 +8115,7 @@ Informationshanteringsplan                      Sida 85 av 127
 | Process: | Bokföra och redovisa |  |  |  |  |
 | Processnummer: | 2.4.1.4 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Anläggningsregister | Anläggningsregister | Se anmärkning. | Digitalt | Bevaras | Anläggningsregistret före 2007-12-31 finns i<br>kommunens e-arkiv<br>Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>G:\KLK\Begränsad\Alla Ekonomi\Bokslut,<br>delårsrapport\Bokslut Fram till och med<br>delårsbokslut 2021:<br>Samarbetsrum \Alla Ekonomi\ Bokslut och<br>delår\Bokslut, delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\ |
+| Anläggningsregister | Anläggningsregister | Se anmärkning. | Digitalt | Bevaras | Anläggningsregistret före 2007-12-31 finns i<br>kommunens e-arkiv<br>Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>G:\KLK\Begränsad\Alla Ekonomi\Bokslut,<br>delårsrapport\Bokslut Fram till och med<br>delårsbokslut 2021:<br>Samarbetsrum \Alla Ekonomi\ Bokslut och<br>delår\Bokslut, delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\\ |
 |  | Utrangeringar och<br>försäljningar | Närarkiv,<br>Vägmästaren | Papper | 7 år |  |
 |  | Anläggningsregister –<br>integrationslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
 |  | Anläggningsregister –<br>avstämningslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
@@ -8160,7 +8160,7 @@ Informationshanteringsplan                      Sida 88 av 127
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Hantera garantier<br>och säkerheter | Garantier | Se anmärkning. | Se<br>anmärkning. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\ |
+| Hantera garantier<br>och säkerheter | Garantier | Se anmärkning. | Se<br>anmärkning. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anmärkning. | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
 | Hantera<br>attestbehörigheter | Attestunderlag | Se anmärkning. | Se<br>anmärkning. | 7 år efter avslutad<br>attestbehörighet | Attestbasen finns på<br>G:\KLK\Begränsad\Attestregister<br>Attestunderlagen som skickas in digitalt till<br>attester@kungsbacka.se registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anmärkning. | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga.<br>Försäkringsbrev arkiveras i<br>samarbetsrummet\KSF Ekonomi<br>KLK\12Försäkringar\Försäkringsbrev |
@@ -8290,8 +8290,8 @@ Informationshanteringsplan                      Sida 96 av 127
 
 |  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
 | --- | --- | --- | --- | --- | --- |
-|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
-|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
+|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
+|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 410 -->
 
@@ -10153,7 +10153,7 @@ Informationshanteringsplan                      Sida 75 av 118
 |  |  |  |  |  | hänvisning till order/fakturanumret och får gallras<br>efter 7 år. |
 | --- | --- | --- | --- | --- | --- |
 | Betala<br>leverantörsfakturor | Manuella utbetalningar | Se anm. | Papper | 7 år | Manuella utbetalningar registreras i Raindance.<br>Arkiveras hos respektive förvaltning i sju år. |
-|  | Utbetalningsfil till<br>BGC/Swedbank | Se anm. | Digitalt | 7 år | Ekonomi skickar tre olika filer:<br>Leverantörbetalningar BGC:<br>P:\DFiles\Bg\Arkiv\TEIS<br>Utlandsbetalningar Swedbank: P:\DFiles\:<br>Sepa\teis\Arkiv<br>Utbetalningar privatpersoner via Swedbank SUS:<br>P:\DFiles\ Su\Arkiv |
+|  | Utbetalningsfil till<br>BGC/Swedbank | Se anm. | Digitalt | 7 år | Ekonomi skickar tre olika filer:<br>Leverantörbetalningar BGC:<br>P:\DFiles\Bg\Arkiv\TEIS<br>Utlandsbetalningar Swedbank: P:\DFiles\\:<br>Sepa\teis\Arkiv<br>Utbetalningar privatpersoner via Swedbank SUS:<br>P:\DFiles\ Su\Arkiv |
 |  | Utbetalningsjournal | Se anm. | Digitalt | 7 år | Utbetalningsjournal skapas i Raindance för alla<br>utbetalningssätten och arkiveras på<br>P:\DFiles\Arkiv\LR\Utbet_journal |
 |  | Återredovisade<br>leverantörsbetalningar | Se anm. | Digitalt | 7 år | Fil från BGC som avser utbetalda<br>leverantörsbetalningar.<br>P:\DFiles\Bg\Kvittens_levbet\Arkiv_kvittens_levbet<br>. |
 |  | Återredovisade<br>leverantörsbetalningar från<br>Raindance till Proceedo | Se anm. | Digitalt | 2 år | P:\DFiles\Arkiv\LR\Aterrapp_betaldag |
@@ -10203,7 +10203,7 @@ Informationshanteringsplan                      Sida 78 av 118
 | Process: | Bokföra och redovisa |  |  |  |  |
 | Processnummer: | 2.4.1.4 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Anläggningsregister | Anläggningsregister | Se anm. | Digitalt | Bevaras | Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>G:\KLK\Begränsad\Alla Ekonomi\Bokslut,<br>delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\ |
+| Anläggningsregister | Anläggningsregister | Se anm. | Digitalt | Bevaras | Anläggningsregister är från och med 2008 en<br>modul i ekonomisystemet.<br>Fram till och med delårsbokslut 2021:<br>G:\KLK\Begränsad\Alla Ekonomi\Bokslut,<br>delårsrapport\Bokslut<br>Från och med årsbokslut 2021<br>Samarbetsrum\KSF Ekonomi KLK<br>\Bokslut/delår\\ |
 |  | Utrangeringar och<br>försäljningar | Närarkiv,<br>Vägmästaren | Papper | 7 år |  |
 |  | Anläggningsregister –<br>integrationslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
 |  | Anläggningsregister –<br>avstämningslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
@@ -10239,7 +10239,7 @@ Informationshanteringsplan                      Sida 80 av 118
 |  |  |  |  |  | finansiella tillgångar och skulder och Offentligt<br>ägda företag.<br>Arkiveras: Samarbetsrum/KSF Ekonomi<br>KLK/8 Statistik |
 | --- | --- | --- | --- | --- | --- |
 | Fakturera internt | Internfakturor | Se anm. | Digitalt | 2 år | Internfakturor skapas både i Visma Proceedo<br>och Raindance. Eventuellt underlag på papper<br>förvaras på respektive förvaltning. |
-| Hantera garantier<br>och säkerheter | Garantier | Se anm. | Se anm. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\ |
+| Hantera garantier<br>och säkerheter | Garantier | Se anm. | Se anm. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anm. | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
 | Hantera<br>attestbehörigheter | Attestunderlag | Se anm. | Se anm. | 7 år efter avslutad<br>attestbehörighet | Attestbasen finns på<br>G:\KLK\Begränsad\Attestregister<br>Attestunderlagen som skickas in digitalt till<br>attester@kungsbacka.se registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anm. | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga. |
@@ -10373,8 +10373,8 @@ Informationshanteringsplan                      Sida 89 av 118
 
 |  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
 | --- | --- | --- | --- | --- | --- |
-|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
-|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
+|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
+|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 530 -->
 
@@ -11078,7 +11078,7 @@ mellan 2019-11-21 och 2019-12-21. Granskning genomfördes mellan 2020-11-03 och
 
 2020-12-03.
 
-Ett Samarbetsavtal (KS 2017-10-17, $239), Samarbetsavtalet, har tecknats mellan
+Ett Samarbetsavtal (KS 2017-10-17, \$239), Samarbetsavtalet, har tecknats mellan
 Parterna samt med Transportcentrum i Kungsbacka AB. Samarbetsavtalet föreskriver
 att ett Exploateringsavtal, Avtalet, ska upprättas innan Detaljplanen kan antas av
 Kommunfullmäktige. Parallellt med Avtalet tecknas också ett exploateringsavtal
@@ -11127,14 +11127,14 @@ Fastigheter och ägare
 
 Exploateringsområdet omfattar följande fastigheter med respektive fastighetsägare;
 
-- Ysby 2:25 vilken ägs av Balder i Kungsbacka AB
+\- Ysby 2:25 vilken ägs av Balder i Kungsbacka AB
 
-- Kungsbacka 2:2, Kungsbacka 2:17 och Ysby 3:26 vilka ägs av Kungsbacka kommun
+\- Kungsbacka 2:2, Kungsbacka 2:17 och Ysby 3:26 vilka ägs av Kungsbacka kommun
 
-- Ysby 1:12 vilken samägs av Kungsbacka kommun och Transportcentrum i
+\- Ysby 1:12 vilken samägs av Kungsbacka kommun och Transportcentrum i
 Kungsbacka AB
 
-- Kungsbacka 4:52 vilken ägs av Kungsbacka Lastbilscentral Fastighets AB i
+\- Kungsbacka 4:52 vilken ägs av Kungsbacka Lastbilscentral Fastighets AB i
 Kungsbacka AB
 
 Inom området finns också Ysby S:5, som påverkas av Detaljplanens genomförande, då
@@ -11353,13 +11353,13 @@ förbindelsepunkt.
 
 9.6
 
-10.
+10\.
 
 10.1
 
 10.2
 
-11.
+11\.
 
 6(15)
 
@@ -11373,7 +11373,7 @@ Exploatören ansvarar för, att inom den egna kvartersmarken, anordna och bekost
 parkering för bil och cykel i den omfattning som krävs för att tillgodose de nya
 fastigheternas parkeringsbehov. Parkeringslösningen för varje fastighets behov ska
 redovisas vid ansökan om bygglov. Parkeringsstrategi för Kungsbacka Stad (KS/2017
-$210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
+\$210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
 
 Tillgänglig utemiljö
 
@@ -11417,9 +11417,9 @@ till områdets exponerade läge. Skyltning får endast ske på fasad och ska
 
 <!-- sida 568 -->
 
-12.
+12\.
 
-13.
+13\.
 
 13.1
 
@@ -11494,7 +11494,7 @@ Exploatörens bekostnad. Tillstånd för öppningstillstånd och/eller TA-plan s
 
 13.8
 
-14.
+14\.
 
 14.1
 
@@ -11562,7 +11562,7 @@ orsakar på Exploatörens anläggningar inom dennes fastighet.
 
 <!-- sida 570 -->
 
-15.
+15\.
 
 15.1
 
@@ -11570,7 +11570,7 @@ orsakar på Exploatörens anläggningar inom dennes fastighet.
 
 15.3
 
-16.
+16\.
 
 16.1
 
@@ -11630,19 +11630,19 @@ dagvattenlösningar).
 
 <!-- sida 571 -->
 
-17.
+17\.
 
 17.1
 
 17.2
 
-18.
+18\.
 
 18.1
 
 18.2
 
-19.
+19\.
 
 19.1
 
@@ -11703,21 +11703,21 @@ Exploateringsbidraget ska delas utifrån i detaljplanen erhållen byggrätt, enl
 
 <!-- sida 572 -->
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
-22.
+22\.
 
 22.1
 
-23.
+23\.
 
-24.
+24\.
 
 24.1
 
@@ -11775,13 +11775,13 @@ kostnaden för iordningställande av allmän plats enligt punkt 18.
 
 <!-- sida 573 -->
 
-25.
+25\.
 
 2541
 
 252
 
-20.
+20\.
 
 26.1
 
@@ -11791,7 +11791,7 @@ kostnaden för iordningställande av allmän plats enligt punkt 18.
 
 26.4
 
-27.
+27\.
 
 12(15)
 
@@ -11852,17 +11852,17 @@ Avtalet godkänns av Kommunstyrelsen. Säkerheten ska återlämnas efter godkän
 
 27.2
 
-28.
+28\.
 28.1
 
-29.
+29\.
 
-30.
+30\.
 30.1
 
 30.2
 
-31.
+31\.
 
 31.1
 
@@ -11924,7 +11924,7 @@ Sign
 
 14(15)
 
-32. Tidsplan
+32\. Tidsplan
 
 32.1 Efter Detaljplanens antagande kommer Kommunen påbörja en förprojektering av
 utbyggnad av allmän plats där lämplig utbyggnadsordning och tidplan kommer att
@@ -11947,7 +11947,7 @@ med Transportcentrum i Kungsbacka AB gemensamt bestämma om förprojektering
 ska påbörjas innan Detaljplanen vinner laga kraft. Om avvikelse sker/riskerar att ske
 mot huvudtidplanen ska övriga parter informeras utan fördröjning.
 
-33. Tvist
+33\. Tvist
 
 33.1 — Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
 Avtalet ska avgöras av allmän domstol.
@@ -12025,7 +12025,7 @@ Y sby 2:25, nedan kallad Balder
 
 Kommunen, Transportcentrum och Balder kallas gemensamt Parterna
 
-1. BAKGRUND OCH SYFTE
+1\. BAKGRUND OCH SYFTE
 
 Denna överenskommelse är ett led i genomförandet av Detaljplan för verksamheter
 inom Klovsten, inom fastigheterna Y sby 1:12 m.fl. i Kungsbacka.
@@ -12038,7 +12038,7 @@ Parterna har utöver denna överenskommelse också undertecknat samarbetsavtal o
 exploateringsavtal som bland annat reglerar Parternas ansvar för utförande och
 kostnader i samband med genomförandet av Detaljplanen.
 
-2. FASTIGHETSREGLERING
+2\. FASTIGHETSREGLERING
 
 De delar av Balders fastighet Y sby 2:25 som enligt detaljplanen utgör allmän plats
 GATA och NATUR ska genom fastighetsreglering överföras till Kommunens
@@ -12153,7 +12153,7 @@ Figur Fastighet Ändamäl Färg
 1 Ysby 2:25 avstår till Kungsbacka 2:2 allmän plats natur | Ljusblå
 2 Ysby 2:25 avstår till Kungsbacka 2:2 allmän plats gata Ljusrosa
 3 Ysby 1:12 avstår till Kungsbacka 2:2 allmän plats natur | Blå
-> Ysby 1:12 avstår till Kungsbacka 2:2 allmän plats gata Rosa
+\> Ysby 1:12 avstår till Kungsbacka 2:2 allmän plats gata Rosa
 5 Ysby S:5 avstår till Kungsbacka 2:2 allmän plats natur | Gul
 6 Ysby 3:26 avstår till Kungsbacka 2:2 allmän plats natur | Orange
 7 Ysby 3:26 avstår till Kungsbacka 2:2 allmän plats gata Grön
@@ -12208,8 +12208,8 @@ Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt
 mellan 2019-11-21 och 2019-12-21. Granskning genomfördes mellan 2020-11-03 och
 2020-12-03.
 
-Parterna har tecknat två tidigare avtal, Samarbetsavtal (KSau 2007-06-19, $192) och
-Ändring och tillägg till samarbetsavtal (KS 2010-11-16, $ 241). Syftet med avtalen är
+Parterna har tecknat två tidigare avtal, Samarbetsavtal (KSau 2007-06-19, \$192) och
+Ändring och tillägg till samarbetsavtal (KS 2010-11-16, \$ 241). Syftet med avtalen är
 att reglera utvecklingen av Klovstensområdet till ett verksamhetsområde. Exploatören
 ska genom deponiverksamhet göra en utfyllnad av inerta massor och marken ska efter
 avslutad deponi ha kvalité att kunna planläggas som verksamhetsmark. Avtalen
@@ -12217,7 +12217,7 @@ reglerar också att Kommunen och Explotören gemensamt ska äga fastigheten Ysby
 1:12 med 7024 respektive 30946. I samband med planläggning av området ska
 fastighetsbildning av Ysby 1:12 ske genom klyvning.
 
-Ett Samarbetsavtal (KS 2017-10-17, $239), Samarbetsavtalet, har tecknats mellan
+Ett Samarbetsavtal (KS 2017-10-17, \$239), Samarbetsavtalet, har tecknats mellan
 Parterna samt med Balder i Kungsbacka AB. Samarbetsavtalet föreskriver att ett
 Exploateringsavtal, Avtalet, ska upprättas innan Detaljplanen kan antas av
 Kommunfullmäktige. Parallellt med Avtalet tecknas också ett exploateringsavtal
@@ -12237,7 +12237,7 @@ mellan Kommunen och Balder i Kungsbacka AB.
 
 6.1
 
-2016)
+2016\)
 
 Exploateringsområde
 
@@ -12266,14 +12266,14 @@ Fastigheter och ägare
 
 Exploateringsområdet omfattar följande fastigheter med respektive fastighetsägare;
 
-- Ysby 2:25 vilken ägs av Balder i Kungsbacka AB
+\- Ysby 2:25 vilken ägs av Balder i Kungsbacka AB
 
-- Kungsbacka 2:2, Kungsbacka 2:17 och Ysby 3:26 vilka ägs av Kungsbacka kommun
+\- Kungsbacka 2:2, Kungsbacka 2:17 och Ysby 3:26 vilka ägs av Kungsbacka kommun
 
-- Ysby 1:12 vilken samägs av Kungsbacka kommun och Transportcentrum i
+\- Ysby 1:12 vilken samägs av Kungsbacka kommun och Transportcentrum i
 Kungsbacka AB
 
-- Kungsbacka 4:52 vilken ägs av Kungsbacka Lastbilcentral Fastighets AB
+\- Kungsbacka 4:52 vilken ägs av Kungsbacka Lastbilcentral Fastighets AB
 
 Inom området finns också Ysby S:5, som påverkas av Detaljplanens genomförande, då
 del av samfälligheten är planlagd som allmän platsmark NATUR.
@@ -12314,7 +12314,7 @@ klyvningslott.
 Kommunen ansvarar för att lantmäteriförrättning söks på Balder i Kungsbacka AB:s
 bekostnad.
 
-7. Klyvning av Ysby 1:12
+7\. Klyvning av Ysby 1:12
 
 8.1
 
@@ -12358,7 +12358,7 @@ utbyggnad ska påbörjas.
 
 9.3
 
-10.
+10\.
 
 10.1
 
@@ -12480,11 +12480,11 @@ Exploatören ska uppföra energieffektiv byggnation som uppfyller Boverkets krav
 
 10.6
 
-11.
+11\.
 
 11.2
 
-12.
+12\.
 
 12.1
 
@@ -12498,7 +12498,7 @@ Exploatören ansvarar för, att inom den egna kvartersmarken, anordna och bekost
 parkering för bil och cykel i den omfattning som krävs för att tillgodose de nya
 fastigheternas parkeringsbehov. Parkeringslösningen för varje fastighets behov ska
 redovisas vid ansökan om bygglov. Parkeringsstrategi för Kungsbacka Stad (KS/2017
-$210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
+\$210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
 
 Tillgänglig utemiljö
 
@@ -12545,7 +12545,7 @@ inverka störande på trafiken på väg E6 får ej anordas.
 
 <!-- sida 593 -->
 
-13.
+13\.
 
 13.1
 
@@ -12553,11 +12553,11 @@ inverka störande på trafiken på väg E6 får ej anordas.
 
 13.3
 
-14.
+14\.
 
 14.1
 
-15.
+15\.
 
 7(16)
 
@@ -12615,7 +12615,7 @@ Exploateringsområdet) måste samordnas med kommunens utbyggnad av allmän plats
 
 <!-- sida 594 -->
 
-16.
+16\.
 
 16.1
 
@@ -12689,7 +12689,7 @@ mot Kommunen ska Kommunen samråda med Exploatören innan Kommunen medger
 
 <!-- sida 595 -->
 
-17.
+17\.
 
 17.1
 
@@ -12703,7 +12703,7 @@ mot Kommunen ska Kommunen samråda med Exploatören innan Kommunen medger
 
 17.6
 
-18.
+18\.
 
 18.1
 
@@ -12766,13 +12766,13 @@ e Ny cirkulation inne i verksamhetsområdet
 
 18.3
 
-19.
+19\.
 
 19.1
 
 19.2
 
-20.
+20\.
 
 20.1
 
@@ -12829,7 +12829,7 @@ anläggningarna.
 
 20.2
 
-21.
+21\.
 
 21.1
 
@@ -12837,7 +12837,7 @@ anläggningarna.
 
 21.3
 
-22.
+22\.
 
 22.1
 
@@ -12897,29 +12897,29 @@ Inom delområde 2 fördelas kostnaderna enligt följande:
 
 <!-- sida 598 -->
 
-23.
+23\.
 
 23.1
 
-24.
+24\.
 
 24.1
 
-25.
+25\.
 25.1
-26.
+26\.
 
 26.1
 
 26.2
 
-27.
+27\.
 
 27.1
 
 27.2
 
-28.
+28\.
 
 28.1
 
@@ -12980,7 +12980,7 @@ fastighet till Kommunens fastighet enligt punkt 6.1 ovan, och det är uppenbart 
 
 <!-- sida 599 -->
 
-29.
+29\.
 
 29.1
 
@@ -12990,7 +12990,7 @@ fastighet till Kommunens fastighet enligt punkt 6.1 ovan, och det är uppenbart 
 
 29.4
 
-30.
+30\.
 
 30.1
 
@@ -13046,22 +13046,22 @@ för Exploatörens återstående skyldigheter.
 
 <!-- sida 600 -->
 
-31.
+31\.
 31.1
 
-32.
+32\.
 
-33.
+33\.
 
 33.1
 
 33.2
 
-34.
+34\.
 
 34.1
 
-35.
+35\.
 
 35.1
 
@@ -13131,7 +13131,7 @@ Balder i Kungsbacka AB gemensamt bestämma om förprojektering ska påbörjas in
 detaljplanen vinner laga kraft. Om avvikelse sker/riskerar att ske mot huvudtidplanen
 ska övriga parter informeras utan fördröjning.
 
-36. — Tvist
+36\. — Tvist
 
 36.1 Tvist mellan Kommunen och Exploatören som gäller tolkningen eller tillämpningen av
 Avtalet ska avgöras av allmän domstol.
@@ -13240,7 +13240,7 @@ Kungsbacka Kungsbacka 4:52, nedan kallad Kungsbacka Lastbilcentral
 Kommunen, Transportcentrum och Kungsbacka Lastbilscentral kallas gemensamt
 Parterna
 
-1.   BAKGRUND  OCH SYFTE
+1\.   BAKGRUND  OCH SYFTE
 
 Denna överenskommelse är ett led i genomförandet av Detaljplan för verksamheter
 inom Klovsten, inom fastigheterna Ysby 1:12 m.fl. i Kungsbacka.
@@ -13252,7 +13252,7 @@ Parterna har utöver denna överenskommelse också undertecknat samarbetsavtal o
 exploateringsavtal som bland annat reglerar Parternas ansvar för utförande och
 kostnader i samband med genomförandet av Detaljplanen.
 
-2.   FASTIGHETSREGLERING
+2\.   FASTIGHETSREGLERING
 
 De delar av Parternas gemensamt ägda fastighet Ysby 1:12 som enligt detaljplanen
 utgör allmän plats GATA och NATUR ska genom fastighetsreglering överföras till
@@ -13273,16 +13273,16 @@ Sign.
 
 2(3)
 
-3.   ERSÄTTNING
+3\.   ERSÄTTNING
 
 Ingen ersättning ska utgå.
 
-4.   TILLTRÄDE
+4\.   TILLTRÄDE
 
 Tillträde till de aktuella markområdena sker när fastighetsbildningsbeslutet vunnit laga
 kraft, eller vid den tidigare tidpunkt som Parterna kommer överens om.
 
-5.   LANTMÄTERIFÖRRÄTTNING
+5\.   LANTMÄTERIFÖRRÄTTNING
 
 Kommunen ska ansöka om lantmäteriförrättning för genomförandet av denna
 överenskommelse. Transportcentrum och Kungsbacka Lastbilcentral biträder härmed
@@ -13298,7 +13298,7 @@ gränser, areal, särskilda rättigheter och dylikt, som inte strider mot syftet
 överenskommelse och som vid lantmäteriförrättningen bedöms erforderliga för att
 åstadkomma en ändamålsenlig fastighetsindelning.
 
-6.   ÖVRIGT
+6\.   ÖVRIGT
 
 Transportcentrum är skyldig att skriftligen meddela Kommunen vid eventuell
 överlåtelse av andelar av Ysby 1:12. Kungsbacka Lastbilcentral är skyldig att
@@ -13308,20 +13308,20 @@ eventuell överlåtelse underrätta förvärvaren om överenskommelsens innehål
 överlåtelsehandlingen förbinda köparen att överta åtagande och skyldigheter gentemot
 Kommunen enligt denna överenskommelse.
 
-7.   GILTIGHET
+7\.   GILTIGHET
 
 Detta avtal förutsätter för sin giltighet att:
 
-- Kommunfullmäktige antar detaljplanen för verksamheter inom Klovsten genom
+\- Kommunfullmäktige antar detaljplanen för verksamheter inom Klovsten genom
 beslut som vinner laga kraft.
-- Kommunfullmäktige godkänner denna överenskommelse om fastighetsreglering
+\- Kommunfullmäktige godkänner denna överenskommelse om fastighetsreglering
 mellan Parterna, genom beslut som vinner laga kraft.
-- Kommunfullmäktige godkänner exploateringsavtal avseende detaljplanen för
+\- Kommunfullmäktige godkänner exploateringsavtal avseende detaljplanen för
 
 verksamheter inom Klovsten, mellan kommunen och Transportcentrum, genom
 beslut som vinner laga kraft.
 
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Sign.
 
@@ -13336,23 +13336,23 @@ Kungsbacka 2025-                Kungsbacka 2025-
 För Transportcentrum i Kungsbacka AB För Kungsbacka Lastbilcentral Fastighets AB
 Ysby 2:17                       Kungsbacka 4:52
 
-_______________________         ________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Namnteckning                     Namnteckning
 
-_______________________         ___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Namnförtydligande                Namnförtydligande
 
-_______________________         ________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Namnteckning                     Namnteckning
 
-_______________________         ___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Namnförtydligande                Namnförtydligande
 
 Kungsbacka 2025-
 För Kungsbacka kommun
 Kungsbacka 2:2 och Ysby 2:17
 
-________________________           ________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_           \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Sign.
 
@@ -13618,7 +13618,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 27 (463)
 Sammanträdesdatum
 2010-11-16
-$ 241 KS10-00206/25
+\$ 241 KS10-00206/25
 
 Förvärv av andel i Ysby 1:12 samt ändring och tillägg i
 samarbetsavtal med Transportcentrum i Kungsbacka AB
@@ -13675,12 +13675,12 @@ Sammanträdesdatum
 
 2010-11-16
 
-$ 241 forts
+\$ 241 forts
 
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2010-11-01
-Kommunstyrelsens arbetsutskott 2010-11-09, $ 358
+Kommunstyrelsens arbetsutskott 2010-11-09, \$ 358
 
 Proposition
 Ordföranden ställer proposition på arbetsutskottets förslag och finner det bifallet.
@@ -13700,7 +13700,7 @@ Kungsbacka Lastbilscentral), nedan kallat bolaget, träffas härmed följande
 
 SAMARBETSAVTAL
 
-1. Bakgrund.
+1\. Bakgrund.
 
 På förfrågan från Kungsbacka Lastbilscentral har kommunstyrelsen vid
 sammanträde 2005-12-14 (KS 8 278 ), beslutat inta en positiv inställning till att
@@ -13727,7 +13727,7 @@ Detta samarbetsavtal träffas för att trygga att ett genomförande kan ske om
 nödvändiga utredningar och tillståndsprövningar ger till resultat att deponi kan
 genomföras och att ett verksamhetsområde kan utvecklas så som planerat.
 
-2. Upplåtelse, Förbindelse.
+2\. Upplåtelse, Förbindelse.
 
 Bolaget har förvärvat delar av Ysby 1:4 och Ysby 2:15. Kommunen äger Ysby
 3:26.
@@ -13790,7 +13790,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsens arbetsutskott SAMMANTRÄDESPROTOKOLL 6 (16)
 Sammanträdescatum
 2007-06-19
-$ 192 KS04-00242/25
+\$ 192 KS04-00242/25
 
 Samarbetsavtal med Kungsbacka Lastbilcentral, område vid
 Klovsten
@@ -13945,7 +13945,7 @@ kommunstyrelsen 2018-06-19 §162. Detaljplanen hanteras med utökat
 planförfarande därav sker beslut om antagande av detaljplanen i
 kommunfullmäktige.
 Planförslaget har varit utställt för granskning under tiden 3 november – 2 december
-2020. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
+2020\. Under granskningstiden inkom 17 skrivelser. Inkomna synpunkter berör i
 huvudsak miljö, risker och geotekniska frågor. Se vidare i granskningsutlåtandet.
 
 Därefter har kompletterande utredningar för geoteknik gällande bergtäkten, området
@@ -14089,7 +14089,7 @@ Område inom vilket bergteknisk åtgärd ska utföras.
 EGENSKAPSBESTÄMMELSER      FÖR ALLMÄN  PLATS
 Ingen markbelastning är tillåten. Marknivåer enligt plankartan ska följas.
 Mark
-Markens höjd över nollplanet ska vara <angivet> meter.
+Markens höjd över nollplanet ska vara \<angivet> meter.
 ADMINISTRATIVA  BESTÄMMELSER    FÖR ALLMÄN  PLATS
 Genomförandetid
 Markens höjd över nollplanet ska vara lägst +37 meter.
@@ -14112,7 +14112,7 @@ Startbesked får inte ges för byggnader förrän avskärande dike för skyfalls
 anlagts.
 Marken får inte förses med byggnad.
 ADMINISTRATIVA  BESTÄMMELSER    FÖR PLANOMRÅDET
-Högsta nockhöjd är <angivet> meter över angivet nollplan .
+Högsta nockhöjd är \<angivet> meter över angivet nollplan .
 Genomförandetid
 Största byggnadsarea är 60 % per fastighet inom användningsområdet. Genomförandetiden är 15 år från den dag planen vinner laga kraft. Gäller inte för område a4.
 Placering
@@ -15076,7 +15076,7 @@ handel och industri uppskattas trafikrörelserna till 9 766 årsdygnstrafik (ÅD
 övervägande andel handel, 60 % och 20% vardera för kontor och industri uppgår prognosen
 för ÅDT till drygt 13 000. Om handeln däremot endast utgör 20% av verksamheterna och
 kontor och industri fördelas jämt över de övriga procenten kommer ÅDT hamna på drygt 8
-000.
+000\.
 Med utgångspunkt i kapacitetsutredningen har ett trafikförslag tagits fram av Ramboll
 2019, tilläggs-PM 2020-05-07 samt 2020-10-06. Trafikförslaget bygger på att den befint-
 liga infartens kapacitet stärks genom trimningsåtgärder samtidigt som en ny östlig infart
@@ -15504,7 +15504,7 @@ backaån.
 Stockaån
 Stockaån är 11 kilometer lång och mynnar i Stallviken. Klassningen för ekologisk status
 i vattenförekomsten är satt till otillfredsställande. Kvalitetskravet är god ekologisk status
-2027.
+2027\.
 Vattenförekomsten uppnår ej god kemisk status. Kvalitetskravet är god kemisk ytvatten-
 status. God kemisk ytvattenstatus uppnås inte till följd av förhöjda kvicksilverhalter samt
 luftdeposition av Hg och PBDE.
@@ -16571,11 +16571,11 @@ www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 683 -->
 
-PLANBESTÄMMELSER                                                           Följande  gäller inom  områden   med  nedanstående    beteckningar.        GRÄNSER                                                                                  Egenskapsgräns.                                               ANVÄNDNING           AV   MARK                                                           Huvudgata.                                                    Kvartersmark                                                                             Drivmedelsförsäljning.                                                     Centrumverksamhet,      ej hotell, vandrarhem  eller handel                 Transformatorstation.                                                      Pendelparkering.                                               EGENSKAPSBESTÄMMELSER                      FÖR    ALLMÄN        PLATS                   Markens   höjd  över nollplanet ska  vara <angivet>  meter.                 Dagvattendamm.                                                EGENSKAPSBESTÄMMELSER                       FÖR                                          Markens   höjd över nollplanet  ska vara 50  meter.                        Markens   höjd över  nollplanet får vara upp  till max +38                  Marken  får inte förses med  byggnad.                                      Största byggnadsarea     är 60 %  per fastighet inom                        Byggnad   ska placeras  minst  4 meter  från                               Transformatorstation   ska  placeras  minst 5 meter  från                   Fasader  som  vetter mot  väg  E6 ska  utformas  i                         För bebyggelse   för centrumändamål     gäller:                            För  bebyggelse   för centrumändamål    gäller:                             Byggnader   och  tekniska  anläggningar  kopplade   till                   Obebyggda     ytor bör utformas  så att de inte uppmuntrar                  Byggnader   som   uppförs inom  40  meter  från                            Stängsel   ska finnas längs  krön vid bergschakt.                           Påfyllningsanslutning  till cisterner ska placeras minst 25   Utfart                                                                      Utformning                                                                              Fasad   mot väg  E6  och väg  158  ska ges  en omsorgsfull                  En pylon  för skyltändamål  får uppföras  på en  plats inom   Utförande                                                                                Ingen markbelastning    är tillåten. Marknivåer enligt        ADMINISTRATIVA           BESTÄMMELSER              FÖR    ALLMÄN                         Genomförandetiden     är 5 år från den dag  planen  vinner    ADMINISTRATIVA           BESTÄMMELSER              FÖR                                   Markreservat   för allmännyttiga underjordiska  ledningar.                 Startbesked   får inte ges för byggnader  för stadigvarande                 Startbesked  får inte ges för byggnader   och parkering  får               Startbesked   får inte ges för byggnader  förrän              ADMINISTRATIVA            BESTÄMMELSER             FÖR                      Genomförandetiden     är 15 år från den  dag  planen  vinner laga kraft.
+PLANBESTÄMMELSER                                                           Följande  gäller inom  områden   med  nedanstående    beteckningar.        GRÄNSER                                                                                  Egenskapsgräns.                                               ANVÄNDNING           AV   MARK                                                           Huvudgata.                                                    Kvartersmark                                                                             Drivmedelsförsäljning.                                                     Centrumverksamhet,      ej hotell, vandrarhem  eller handel                 Transformatorstation.                                                      Pendelparkering.                                               EGENSKAPSBESTÄMMELSER                      FÖR    ALLMÄN        PLATS                   Markens   höjd  över nollplanet ska  vara \<angivet>  meter.                 Dagvattendamm.                                                EGENSKAPSBESTÄMMELSER                       FÖR                                          Markens   höjd över nollplanet  ska vara 50  meter.                        Markens   höjd över  nollplanet får vara upp  till max +38                  Marken  får inte förses med  byggnad.                                      Största byggnadsarea     är 60 %  per fastighet inom                        Byggnad   ska placeras  minst  4 meter  från                               Transformatorstation   ska  placeras  minst 5 meter  från                   Fasader  som  vetter mot  väg  E6 ska  utformas  i                         För bebyggelse   för centrumändamål     gäller:                            För  bebyggelse   för centrumändamål    gäller:                             Byggnader   och  tekniska  anläggningar  kopplade   till                   Obebyggda     ytor bör utformas  så att de inte uppmuntrar                  Byggnader   som   uppförs inom  40  meter  från                            Stängsel   ska finnas längs  krön vid bergschakt.                           Påfyllningsanslutning  till cisterner ska placeras minst 25   Utfart                                                                      Utformning                                                                              Fasad   mot väg  E6  och väg  158  ska ges  en omsorgsfull                  En pylon  för skyltändamål  får uppföras  på en  plats inom   Utförande                                                                                Ingen markbelastning    är tillåten. Marknivåer enligt        ADMINISTRATIVA           BESTÄMMELSER              FÖR    ALLMÄN                         Genomförandetiden     är 5 år från den dag  planen  vinner    ADMINISTRATIVA           BESTÄMMELSER              FÖR                                   Markreservat   för allmännyttiga underjordiska  ledningar.                 Startbesked   får inte ges för byggnader  för stadigvarande                 Startbesked  får inte ges för byggnader   och parkering  får               Startbesked   får inte ges för byggnader  förrän              ADMINISTRATIVA            BESTÄMMELSER             FÖR                      Genomförandetiden     är 15 år från den  dag  planen  vinner laga kraft.
 
 Endast  angiven  användning    och utformning   är tillåten. Där                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             med   livsmedel.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            meter.                                                                                                                                                 användningsområdet.                                                         fastighetsgräns. Bestämmelsen     gäller inte om  byggnder                 angränsande    byggnadsdel.                                                 obrännbart                                                                 Fönster  och  ingående  komponenter    ska  vara                           Luftintag  placeras högt  på byggnad   och  orienteras bort                 hantering  av                                                              till                                                                        kvartersmark   som  omfattas  av                                                                                                                       meter  från övriga byggnader   (ej bensinstation).                                                                                                                                                                                utformning  med   hänsyn  till områdets exponerade    läge.                 egenskapsområdet     med   en högsta  höjd på  12 meter.                                                                                               plankartan  ska följas.                                                                                                                                laga kraft.                                                                                                                                                                                                                       vistelse förrän flytt av kraftledningen har kommit  till                    inte anläggas  förrän flytt av kraftledningen har kommit  till             bergstekniska   åtgärder  har kommit  till stånd.                                                                                         Gäller inte för område  a4.
 KVARTERSMARK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     PLATS                                                                                                                                                  KVARTERSMARK                                                                                                                                                                                                                                                                                                                                                                             PLANOMRÅDET
-Planområdesgräns.                                                           Administrativ  gräns.                                         Allmän    platsmark    med   kommunalt     huvudmannaskap                                Naturområde.                                                   PBL 4 kap, 5 §                                                                          Verksamheter.                                                                                                                                          Pumpstation.                                                               Verksamheter.                                                                                                                                                                                                                      Markens   höjd över nollplanet  får vara högst +38  meter  .                                                                                           Upplag  får inte finnas.                                                                                                                               Högsta  nockhöjd  är <angivet>   meter  över angivet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Bergsäkringsåtgärder    ska  utföras vid sprängning   i                                                                                    PBL 4 kap, 9 §                                                             PBL 4 kap, 16 §                                                                                                                                                                                                                    PBL 4 kap, 16 §
+Planområdesgräns.                                                           Administrativ  gräns.                                         Allmän    platsmark    med   kommunalt     huvudmannaskap                                Naturområde.                                                   PBL 4 kap, 5 §                                                                          Verksamheter.                                                                                                                                          Pumpstation.                                                               Verksamheter.                                                                                                                                                                                                                      Markens   höjd över nollplanet  får vara högst +38  meter  .                                                                                           Upplag  får inte finnas.                                                                                                                               Högsta  nockhöjd  är \<angivet>   meter  över angivet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Bergsäkringsåtgärder    ska  utföras vid sprängning   i                                                                                    PBL 4 kap, 9 §                                                             PBL 4 kap, 16 §                                                                                                                                                                                                                    PBL 4 kap, 16 §
 beteckning  saknas   gäller bestämmelsen    inom  hela området.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             sammanbyggs     i fastighetsgräns. .                                                                                                                   material. Luftintag samt  entréer och  inlastning ska                      motsvarande    brandklass  E  30 vilket innebär att fönster                från väg  E6.                                                               brandfarliga  vätskor får inte anläggas  inom  25 meter                    stadigvarande   vistelse.                                                   användningsbestämmelsen       G  (drivmedelsförsäljning)                                                                                                                                                                                                                                                                                                                                 Skyltning  får endast ske  på fasad  och  ska placeras  lägre               Anordningar   som  kan  inverka störande  på  trafiken på                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       stånd.                                                                      stånd.
 Centrumverksamhet,      ej hotell, vandrarhem  eller handel                                                                                            Återvinningscentral.                                                                                                                                                                                                                                                                                          Markens   höjd  över nollplanet ska  vara lägst +37  meter.                                                                                                                                                                                                                                      Omfattning                                                                                                                                             Placering                                                                                                                                              Störningsskydd                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Avskärande   dike  för skyfallsled får finnas.                             Utfart för utryckningsfordon  får finnas. Utfart för övriga                                                                                                                                                                                                                                                   Område    inom  vilket bergteknisk åtgärd  ska utföras.                                                                                                                                                                                                                                                                                                                      Villkor för startbesked                                                                                                                                                                                                                        Startbesked   får inte ges för byggnader  förrän
 Mark                                                                                                                                                                                                                              Mark                                                                                                                                                                                                                                            nollplan .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        berget.  Åtgärden                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Genomförandetid                                                                                                                                        Markreservat                                                                                                                                                                                                                                                                                                                                                                             Genomförandetid
@@ -16679,7 +16679,7 @@ KUNGSBACKA  KOMMUN
 
 Statliga och regionala myndigheter
 
-1. Länsstyrelsen 2020-01-15
+1\. Länsstyrelsen 2020-01-15
 
 Synpunkter på sådant som kan aktualisera prövning
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap 10 § plan- och bygglagen
@@ -17250,7 +17250,7 @@ Plankartans beteckningar har justerats till granskningen för att öka läsbarhe
 Genomförandefrågor
 Se vidare Lantmäterimyndighetens yttrande.
 
-2. Lantmäteriet 2019-12-20
+2\. Lantmäteriet 2019-12-20
 
 För plangenomförandet viktiga frågor där planen måste förbättras
 Fastighetsgränsernas kvalitet
@@ -17452,7 +17452,7 @@ Kommentar: Genomförandebeskrivningen har uppdaterats och redovisar i övergripa
 drag innehållet i kommande exploateringsavtal. Markanvisningsavtal förväntas inte
 tecknas.
 
-3. Trafikverket 2019-12-18
+3\. Trafikverket 2019-12-18
 
 Trafikutredning
 Trafikverket har tagit del av ”Kapacitetsutredning för Klovsten” (ÅF, 2018-11-19) samt ”PM
@@ -17606,13 +17606,13 @@ handlingarna och få chansen att yttra sig gällande dessa på nytt innan planen
 Kommentar: Trafikverket är remissinstans vid granskningen. Den del av väg 158 som
 trafikverket är huvudman för har utgått ur planen.
 
-4. Statens Geotekniska Institut (SGI) 2019-12-20
+4\. Statens Geotekniska Institut (SGI) 2019-12-20
 Underlag
 
-1. Plankarta och planbeskrivning, daterade oktober 2019.
-2. Geoteknisk utredning för detaljplan, etapp l. Klovsten detaljplan. Upprättad av
+1\. Plankarta och planbeskrivning, daterade oktober 2019.
+2\. Geoteknisk utredning för detaljplan, etapp l. Klovsten detaljplan. Upprättad av
 Norconsult, daterad 2018-10-12.
-3. Markteknisk undersökningsrapport Geoteknik (MUR/Geo). Klovsten detaljplan.
+3\. Markteknisk undersökningsrapport Geoteknik (MUR/Geo). Klovsten detaljplan.
 Upprättad av Norconsult, daterad 2018-10-12.
 
 SGI:s synpunkter
@@ -17682,7 +17682,7 @@ användbar industrimark, vilket innebär att slänterna ska säkras. Detta regle
 kommande exploateringsavtal med vitesföreläggning om åtgärden inte utförs inom en
 viss tid.
 
-5. Räddningstjänsten Storgöteborg 2019-12-19
+5\. Räddningstjänsten Storgöteborg 2019-12-19
 
 Riskhänsyn
 Planområdet ligger inom 150 meter från en rekommenderad transportled för farligt gods.
@@ -17715,7 +17715,7 @@ Bedömning
 Räddningstjänsten Storgöteborg har inget att erinra planen i samrådsskedet.
 
 Kommentar: Noteras.
-6. Kulturmiljö Halland 2019-12-12
+6\. Kulturmiljö Halland 2019-12-12
 
 Kulturmiljö Halland har fått rubricerat ärende på remiss och vi har inga synpunkter på planen
 ur kulturhistorisk synvinkel.
@@ -17723,7 +17723,7 @@ ur kulturhistorisk synvinkel.
 Kommentar: Noteras.
 Sakägare
 
-7. Skanova 2019-12-02
+7\. Skanova 2019-12-02
 
 Skanova AB har tagit del av rubricerat ärende och vill meddela följande;
 Skanovas anläggningar inom och intill aktuellt område är markerade på bifogad lägeskarta. Det
@@ -17739,7 +17739,7 @@ Skanova har för övrigt, inget att invända mot planförslaget.
 
 Kommentar: Noteras.
 
-8. Ellevio 2019-12-20
+8\. Ellevio 2019-12-20
 Inom aktuellt område finns befintliga jordkabelledningar för högspänning l0kV samt
 
 lågspänning 0,4kV. Över området går regionnäts ledning på 130 kV.
@@ -17779,7 +17779,7 @@ Schallengruber, tel. 070-8656255
 Kommentar: Planen möjliggör placering av transformatorstationer inom
 verksamhetskvarteren. Inga särskilda E-områden har skapats för detta ändamål.
 
-9. Veidekke Eiendom AB och Eksta Bostads AB 2019-12-18
+9\. Veidekke Eiendom AB och Eksta Bostads AB 2019-12-18
 Klovsten tillsammans med Kungsbackaskogen och Gräskärr i sydvästra delen av centrala
 Kungsbacka utgör markområden med stor potential, viktiga för Kungsbackas framtida
 utveckling, se bild på följande sida. För att kunna dra nytta av områdets fulla potential anser vi
@@ -17823,7 +17823,7 @@ för både Klovsten och Gräskärr.
 Nivåerna för industribuller kommer att förbättras vid ett genomförande av planen
 jämfört med dagens situation.
 
-10. Fastighetsägare till Ysby 2.2 och Ysby 5, 2019-12-17
+10\. Fastighetsägare till Ysby 2.2 och Ysby 5, 2019-12-17
 Det är ytterst förvånande att våra tidigare insända synpunkter så totalt har saknat betydelse i
 ärendes vidare hantering. Det handlar om det, i den fördjupade översiktsplanen för
 Kungsbacka stad antagen 2009, utpekade framtida bostadsområdet Gräskärr, som gränsar till
@@ -17858,7 +17858,7 @@ Kommentar: Syftet med detaljplanen för Klovsten är att inom avgränsat område
 möjliggöra ett nytt verksamhetsområde, uppdraget omfattar inte att ta ett helhetsgrepp
 för både Klovsten och Gräskärr.
 
-11. Fastighetsägare till Ysby 2.2 och Ysby 5, 2019-12-16
+11\. Fastighetsägare till Ysby 2.2 och Ysby 5, 2019-12-16
 
 Det är ytterst förvånande att våra tidigare insända synpunkter, så totalt har saknat betydelse, i
 detta ärendes vidare hantering. Vi pratar naturligtvis om det, i den fördjupade översiktsplanen
@@ -17888,7 +17888,7 @@ Kommentar: Syftet med detaljplanen för Klovsten är att inom avgränsat område
 möjliggöra ett nytt verksamhetsområde, uppdraget omfattar inte att ta ett helhetsgrepp
 för både Klovsten och Gräskärr.
 
-12. Fastighetsägare till Ysby 2:2 och Ysby s:5, 2019-12-21
+12\. Fastighetsägare till Ysby 2:2 och Ysby s:5, 2019-12-21
 
 <!-- sida 710 -->
 
@@ -17918,7 +17918,7 @@ för både Klovsten och Gräskärr.
 
 Kommunala förvaltningar och nämnder
 
-13. Kultur & Fritid 2019-12-13
+13\. Kultur & Fritid 2019-12-13
 Området ligger mycket exploaterat både mot E6:an och väg 158:an och gränsar till skogs- och
 grönområden med höga natur- och rekreationsvärden för invånarna. Nockhöjder på nya
 byggnader planeras upp till 16–20 meter. I en illustration i samrådshandlingen förhåller sig
@@ -18005,7 +18005,7 @@ Kommentar: Samhällsbyggnadskontoret delar Kultur och fritids synpunkt om att
 trygghetsfrågorna är viktiga för Klovsten. Dock är frågan som rör säkerhets- och
 övervakningsalternativ inte en planfråga.
 
-14. Miljö & Hälsoskydd 2019-12-16
+14\. Miljö & Hälsoskydd 2019-12-16
 
 Föroreningar inom området
 En ”Miljöhistorisk inventering och översiktlig provtagningsstrategi” (Geosigma 2018-11-19)
@@ -18148,7 +18148,7 @@ Kommentar: Detaljplanens intention är att vara flexibel och möjlig för flerta
 lösningar. Det är än inte beslutat om Återvinningscentralen ska finnas inom området
 eller inte, detaljplanen gör dock möjligt för att den ska få finnas.
 
-15. Teknik 2019-12-04
+15\. Teknik 2019-12-04
 
 <!-- sida 715 -->
 
@@ -18190,7 +18190,7 @@ utformning därigenom. Inom användningen NATUR finns möjlighet till utrymmen f
 omhändertagande av dagvatten, så som ett dike.
 Övriga synpunkter beaktas.
 
-16. Socialdemokraterna 2019-12-20
+16\. Socialdemokraterna 2019-12-20
 
 Socialdemokraterna har i ett tidigare skede tagit ställning till den dåvarande planen med
 återvinning och möjlighet till recycling och återbruk samt den möjlighet som kunde ges till
@@ -18272,7 +18272,7 @@ Kommentar: Se Trafikverkets yttrande samt kommunens svar under yttrande
 
 Övriga
 
-17. E.ON Energidistribution AB 2019-11-27
+17\. E.ON Energidistribution AB 2019-11-27
 
 E.ON Energidistribution AB och E.ON Biofor Sverige AB har tagit del av inkomna handlingar
 enligt bifogade filer. Då detaljplanen inte ligger inom E.ON Energidistribution
@@ -18280,7 +18280,7 @@ koncessionsområde för elnätet samt att E.ON Biofor ej har några gasanläggni
 området så har vi inget att erinra över granskningen.
 
 Kommentar: Noteras.
-18. Hallandstrafiken 2019-12-13
+18\. Hallandstrafiken 2019-12-13
 
 Detaljplanen föreslår att en ny hållplats byggs i anslutning till ny cirkulationsplats som
 planeras i korsningen mellan väg 158 och Kobergsgatan. Samma cirkulationsplats
@@ -18296,7 +18296,7 @@ har inga synpunkter på planförslaget.
 
 Kommentar: Noteras.
 
-19. PostNord 2019-12-03
+19\. PostNord 2019-12-03
 PostNord har i uppdrag att tillhandahålla den samhällsomfattande posttjänsten vilket bland
 annat innebär att det är Postnord som ska godkänna placeringen och standarden på
 postmottagningsfunktionen. I denna roll representerar Postnord samtliga postoperatörer som är
@@ -18322,7 +18322,7 @@ En placering som inte är godkänd, leder till att post en inte börjar delas ut
 
 Kommentar: Noteras.
 
-20. Boende på Varlabergsvägen 2019-12-04
+20\. Boende på Varlabergsvägen 2019-12-04
 Angående Detaljplan Klovsten, så protesterar vi mot detta urdåliga förslag. Vi som bor i
 Varlaberg har redan ett Industriområde med allt vad det ställer till, så har ni tänkt ge oss ett till.
 Det fungerar inte att göra så. Vi har idag ett våldsamt problem med buller från motorväg och
@@ -18398,7 +18398,7 @@ synpunkter och brist på underhåll etc. Där finns även en flik med mer inform
 vad som gäller när inte kommunen ansvarar för vägen, vid statliga- eller enskilda vägar
 (www.kungsbacka.se/Gator-trafik-och-utemiljo/Trafik-och-gator/).
 
-21. Boende på Varlabergsvägen 2019-12-04
+21\. Boende på Varlabergsvägen 2019-12-04
 Angående Detaljplan Klovsten, så protesterar vi mot detta urdåliga förslag. Vi som bor i
 Varlaberg har redan ett Industriområde med allt vad det ställer till, så har ni tänkt ge oss ett till.
 
@@ -18446,7 +18446,7 @@ köper husen, de som flyttat härifrån deras hus har barnen tagit över. Husen 
 nåt.
 Kommentar: Se svar under yttrande 20. Boende på Varlabergsvägen.
 
-22. Boende på Kobergsgatan 2019-12-19
+22\. Boende på Kobergsgatan 2019-12-19
 
 ÖVERKLAGANDE  ANGÅENDE DETALJPLAN FÖR KLOVSTEN
 VERKSAMHETSOMRÅDE
@@ -18573,11 +18573,11 @@ LÄNSSTYRELSEN                  SAMRÅDSYTTRANDE        2 (9)
 2020-01-15       402-8346-19
 
 Länsstyrelsen befarar att:
-- miljökvalitetsnormer enligt miljöbalken inte iakttas.
-- Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
+\- miljökvalitetsnormer enligt miljöbalken inte iakttas.
+\- Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
 för olyckor, översvämning och erosion.
 
-- riksintresse enligt miljöbalken påtagligt kommer att skadas.
+\- riksintresse enligt miljöbalken påtagligt kommer att skadas.
 Dagvatten och Miljökvalitetsnormer (MKN) för vatten
 
 Även om bedömningen är att den planerade markanvändningen inte kommer att
@@ -18669,8 +18669,8 @@ eventuella åtgärder i det statliga vägnätet.
 Se vidare Trafikverkets yttrande daterat 2019-12-18
 Länsstyrelsen befarar inte att:
 
-- reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
-- strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
+\- reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\- strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
 
 Råd om tillämpningen av PBL och miljöbalken
 Förorenad mark
@@ -18884,7 +18884,7 @@ Att planera för en god infrastruktur för fossilfria transporter är en viktig 
 med att nå de nationella och regionala klimatmålen. Enligt dessa behöver
 
 klimatgasutsläppen från transportsektorn minska med minst 70 procent mellan 2010 och
-2030. Eftersom de transportrelaterade klimatgasutsläppen i Halland endast minskat med
+2030\. Eftersom de transportrelaterade klimatgasutsläppen i Halland endast minskat med
 15 procent mellan 2010 och 2017, krävs omfattande insatser. I ”Energi- och
 klimatstrategi för Hallands län” (Länsstyrelsens meddelande 2019:22) framhålls att
 fossilfria och effektiva transporter är den största klimatutmaningen i Halland.
@@ -19062,11 +19062,11 @@ LÄNSSTYRELSEN                  SAMRÅDSYTTRANDE        2 (9)
 2020-01-15       402-8346-19
 
 Länsstyrelsen befarar att:
-- miljökvalitetsnormer enligt miljöbalken inte iakttas.
-- Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
+\- miljökvalitetsnormer enligt miljöbalken inte iakttas.
+\- Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
 för olyckor, översvämning och erosion.
 
-- riksintresse enligt miljöbalken påtagligt kommer att skadas.
+\- riksintresse enligt miljöbalken påtagligt kommer att skadas.
 Dagvatten och Miljökvalitetsnormer (MKN) för vatten
 
 Även om bedömningen är att den planerade markanvändningen inte kommer att
@@ -19158,8 +19158,8 @@ eventuella åtgärder i det statliga vägnätet.
 Se vidare Trafikverkets yttrande daterat 2019-12-18
 Länsstyrelsen befarar inte att:
 
-- reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
-- strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
+\- reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\- strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
 
 Råd om tillämpningen av PBL och miljöbalken
 Förorenad mark
@@ -19373,7 +19373,7 @@ Att planera för en god infrastruktur för fossilfria transporter är en viktig 
 med att nå de nationella och regionala klimatmålen. Enligt dessa behöver
 
 klimatgasutsläppen från transportsektorn minska med minst 70 procent mellan 2010 och
-2030. Eftersom de transportrelaterade klimatgasutsläppen i Halland endast minskat med
+2030\. Eftersom de transportrelaterade klimatgasutsläppen i Halland endast minskat med
 15 procent mellan 2010 och 2017, krävs omfattande insatser. I ”Energi- och
 klimatstrategi för Hallands län” (Länsstyrelsens meddelande 2019:22) framhålls att
 fossilfria och effektiva transporter är den största klimatutmaningen i Halland.
@@ -19564,7 +19564,7 @@ Inkomna synpunkter har sammanfattats nedan. Personnamn anges inte. Samtliga synp
 finns tillgängliga på Samhällsbyggnadskontoret. Länsstyrelsens yttrande bifogas.
 
 Statliga och regionala myndigheter
-1. Länsstyrelsen
+1\. Länsstyrelsen
 
 Länsstyrelsen har inkommit med ett yttrande 2020-12-09 under granskningen. Efter en
 avstämning med länsstyrelsen och SGI inför antagande önskade länsstyrelsen inkomma med
@@ -19635,10 +19635,10 @@ uppmuntrar till stadigvarande vistelse” har lagt till inom användningsområde
 drivmedelsstationen. Skyddsbestämmelsen m har uppdaterats enligt yttrandet.
 4
 Länsstyrelsen befarar inte att:
--  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
--  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
--  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
--  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
+\-  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
+\-  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\-  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+\-  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
 Kommentar: Noteras.
 
 <!-- sida 743 -->
@@ -19886,12 +19886,12 @@ Länsstyrelsen kan i annat fall komma att pröva detaljplanen om den antas utan 
 synpunkter beaktas.
 
 Länsstyrelsen befarar inte att:
--  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
+\-  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
 
--  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
--  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+\-  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\-  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
 
--  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
+\-  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande bestämmelser.
 Kommentar: Se kommunens kommentar på SGIs yttrande från 2023-09-22 under punkt 4.
 
 Bestämmelsen b1"Grundläggning ska utföras så att tillfredställande markstabilitet
@@ -19907,7 +19907,7 @@ KUNGSBACKA  KOMMUN
 
 11 (27)
 
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Delar av planen som måste förbättras
 Lantmäteriet beskriver att det finns fastighetsgränser med osäker kvalitet inom området och
@@ -20023,7 +20023,7 @@ har bedömt att det är tydligt nog då det både på plankartan och i planbeskr
 att kommunen handlägger ärendet med ett utökat planförfarande, ett förfarande som
 
 infördes i och med lagstiftningen 2015-01-01.
-3. Trafikverket
+3\. Trafikverket
 
 Gällande de kompletteringar som efterfrågats i tidigare skede anser Trafikverket att den
 kompletterande trafikanalysen med simulering påvisar en liten påverkan från planerat område på
@@ -20047,7 +20047,7 @@ Kommentar: Noteras.
 Avseende geoteknik anser Trafikverket att kommunens hanteringssätt är acceptabel.
 
 Kommentar: Noteras.
-4. Statens Geotekniska Institut, SGI
+4\. Statens Geotekniska Institut, SGI
 
 SGI har inkommit med ett yttrande 2020-12-04 under granskningen. Den geotekniska
 utredningen, plankarta och planbeskrivning har efter det reviderats. Efter en avstämning med
@@ -20261,7 +20261,7 @@ Nedan ges en sammanfattning av de synpunkter som SGI framförde i senaste yttran
 tillsammans med bemötandet av dessa i [3]. SGI ansåg att följande punkter inte var klarlagda:
 
 Risken för att sekundärskred vid torvmossen kan nå södra planområdesgränsen.
-[3]: Säkerhetsfaktorn är som lägst F=1,3 och uppfyller kraven för markanvändning
+\[3]: Säkerhetsfaktorn är som lägst F=1,3 och uppfyller kraven för markanvändning
 o
 Annan mark. Därmed föreligger ingen risk för primärskred och efterföljande
 sekundärskred. Även 3D-effekter förväntas ge högre säkerhet.
@@ -20291,7 +20291,7 @@ Geoteknisk utredning - stabilitet, Norconsult 2024-02-23 för den södra slänte
 
 Stabiliteten för E6 mot dagvattendammen.
 
-[3]: beräkningar i bifogade beräkningar (bilaga 4:2 och 4:4 i [4]) visar på
+\[3]: beräkningar i bifogade beräkningar (bilaga 4:2 och 4:4 i [4]) visar på
 o
 tillfredställande stabilitet. Anläggning av dagvattendammen kommer medföra en
 avlastning ovan släntkrön då den kommer utföras genom schakt. Säkerheten mot
@@ -20306,7 +20306,7 @@ Kommentar: Noteras.
 
 Konflytgränsen för jorden i planområdets södra del.
 
-[3]: valda värden för odränerad skjuvhållfasthet underbyggs av att ursprunglig
+\[3]: valda värden för odränerad skjuvhållfasthet underbyggs av att ursprunglig
 o
 slänt inte erhållit brott även vid beaktande av ändyteeffekter. Säkerhet mot skred
 har genom därefter utförd släntutfyllnad höjts med cirka 40 % för oexploaterad
@@ -20332,7 +20332,7 @@ utredning - stabilitet, Norconsult 2024-02-23.
 
 Om det kommer bedrivas verksamheter söder om planområdesgränsens.
 
-[3]: ingen verksamhet bedrivs eller planeras söder om planområdet. Söder om
+\[3]: ingen verksamhet bedrivs eller planeras söder om planområdet. Söder om
 o
 sprängstensvallen kommer fortsatt utfyllnad ske och när den är klar kommer
 aktuell yta planläggas och upplåtas för verksamhet.
@@ -20348,11 +20348,11 @@ Kommentar: Området söder om den gräns som var aktuell när synpunkten inkom h
 inkluderats i planområdet som naturmark med planbestämmelse som begränsar
 markuppfyllnad. Uppdaterade stabilitetsberäkningar utifrån de förutsättningarna finns i
 kompletterande beräknings-PM, Geoteknisk utredning - stabilitet, Norconsult 2024-02-
-23.
+23\.
 
 Omfattningen av infiltrationen av grundvatten i planområdets södra del.
 
-[3]: i släntfot av utförd utfyllnad har mossen dikats ur varpå grundvattennivån
+\[3]: i släntfot av utförd utfyllnad har mossen dikats ur varpå grundvattennivån
 o
 inom denna del förväntas sänkas något, uppskattningsvis 0,5–1,0 meter.
 Grundvattennivån kan dock förväntas stiga inom det utfyllda området genom
@@ -20390,17 +20390,17 @@ Antingen förstärknings- eller skyddsåtgärder.
 Kommentar: Ingen bristfällig bergstabilitet har noterats utanför de två rödmarkerade
 områdena.
 
-5. Räddningstjänsten Storgöteborg
+5\. Räddningstjänsten Storgöteborg
 Räddningstjänsten Storgöteborg har inget ytterligare att tillägga ärendet.
 
 Kommentar: Noteras.
 
-6. Kulturmiljö Halland
+6\. Kulturmiljö Halland
 Kulturmiljö Halland har fått rubricerat ärende på remiss och har inga synpunkter på planen ur
 kulturhistorisk synvinkel.
 
 Kommentar: Noteras.
-7. Polisen
+7\. Polisen
 
 Polismyndigheten har tagit del av detaljplan för verksamhetsområde inom Ysby 1.12 m.fl. i
 Kungsbacka kommun. Polismyndigheten är positiv till lagd detaljplan. Polismyndigheten ser
@@ -20411,7 +20411,7 @@ Kommentar: Noteras.
 
 Sakägare
 
-8. Ellevio
+8\. Ellevio
 Ellevio har skickat in två yttranden.
 
 Ellevio yttrar att de, i tillägg till deras samrådsyttrande, vill kommentera att befintlig luft- och
@@ -20452,7 +20452,7 @@ Kommentar: Noteras.
 
 Organisationer och föreningar
 
-9. Naturskyddsföreningen
+9\. Naturskyddsföreningen
 Naturskyddsföreningen menar att domen 2019-12-26 Mål nr M4875-17 inte är slutgiltig.
 
 Kommentar: Domen 2019-12-20 i mål nr M 4875-17 har överklagats men Mark- och
@@ -20503,7 +20503,7 @@ att naturtypen alsumpskog och vattenområden generellt har naturvärde. Kommunen
 bedömning är dock att detaljplanens genomförande inte ger en negativ påverkan på
 
 nedströms liggande områden.
-10. Fiskevårdsnätverket
+10\. Fiskevårdsnätverket
 
 Fiskevårdsnätverket menar att domen 2019-12-26 Mål nr M4875-17 inte är slutgiltig.
 Kommentar: Domen 2019-12-20 i mål nr M 4875-17 har överklagats men Mark- och
@@ -20532,7 +20532,7 @@ KUNGSBACKA  KOMMUN
 
 Kommunala förvaltningar och nämnder
 
-11. Förvaltningen för Teknik
+11\. Förvaltningen för Teknik
 Möjlighet att ansluta sig till Kungsbacka bredbandsnät kommer att finnas i området.
 
 Kommentar: Noteras.
@@ -20543,7 +20543,7 @@ Avfall Planförslaget innebär att befintlig återvinningsstation omplaceras ino
 och till Kungsbacka. Nämnden för Teknik förordar en omplacering inom området.
 Kommentar: Noteras.
 
-12. Nämnden för Miljö & Hälsoskydd
+12\. Nämnden för Miljö & Hälsoskydd
 Nämnden anser att deras tidigare yttranden om föroreningar inom området, deponiverksamhet
 samt buller har bemötts i samrådsredogörelsen och, där det varit aktuellt, även arbetats in i
 planbeskrivningen.
@@ -20566,13 +20566,13 @@ området.
 
 Kommentar: Noteras.
 
-13. Förvaltningen för Kultur & Fritid
+13\. Förvaltningen för Kultur & Fritid
 Klovstensområdet gränsar till Kungsbackaskogen som är ett populärt rekreationsområde för
 Kungsbackas invånare att uppleva, promenera och jogga i. Av den anledningen är det viktigt att
 planera verksamheter med mindre bullernivåer närmare skogen.
 
 Kommentar: Noteras.
-14. Nämnden för service
+14\. Nämnden för service
 
 Nämnden menar att placering av räddningstjänstens verksamhet inte har beaktats i detaljplanen
 med hänsyn till dess behov av flera utfartsvägar, ljusreglering och påverkan på trafiken.
@@ -20598,7 +20598,7 @@ också i anslutning till Kungsbackaskogen och planen ska tillgodose god och tryg
 för alla till friluftsområdet.
 Kommentar: Noteras.
 
-15. Socialdemokraterna
+15\. Socialdemokraterna
 Socialdemokraterna anser att flera av deras frågor och farhågor från samrådsskedet har besvarats
 
 i uppdaterade utredningar.
@@ -20623,11 +20623,11 @@ Socialdemokraterna ingen erinran mot utformningen av Klovstens industriområde.
 Kommentar: Noteras.
 
 Övriga
-16. Fastighetsägare till Välås 4:2
+16\. Fastighetsägare till Välås 4:2
 
 Synpunkter är samma som inkom från Naturskyddsföreningen. Se kommentarer under
 Naturskyddsföreningen yttrande 9.
-17. Fastighetsägare till Varla 6:5
+17\. Fastighetsägare till Varla 6:5
 
 <!-- sida 764 -->
 
@@ -20812,7 +20812,7 @@ förslaget kan komma att prövas. Länsstyrelsen önskar att kommunen samråder 
 myndigheten innan detaljplanen antas.
 
 Länsstyrelsen befarar att:
--  Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
+\-  Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
 för olyckor, översvämning och erosion.
 
 Motiv för bedömningen
@@ -20889,11 +20889,11 @@ LÄNSSTYRELSEN                    Yttrande               3(4)
 2020-12-09   402-8151-2020
 
 Länsstyrelsen befarar inte att:
--  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
+\-  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
 
--  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
--  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
--  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande
+\-  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\-  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+\-  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande
 bestämmelser.
 
 Bakgrundsinformation
@@ -20953,12 +20953,12 @@ kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 $ plan- och bygglagen (2010:900), PBL. Detaljplanen
+med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
 handläggs med utökat förfarande.
 
-Enligt 5 kap. 22 $ PBL ska Länsstyrelsen under granskningstiden yttra
+Enligt 5 kap. 22 \$ PBL ska Länsstyrelsen under granskningstiden yttra
 sig över planförslaget, om planförslaget enligt Länsstyrelsens
-bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 $
+bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 \$
 PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
@@ -20980,8 +20980,8 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
-kap. 7 $ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33$ p.5 PBL.
+kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
 
 Postadress:301 86 Halmstad Telefon: 010-224 30 00 E-post: hallandQQlansstyrelsen.se Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
@@ -20996,11 +20996,11 @@ Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Länsstyrelsen befarar att:
-- Det som föreslås blir olämpligt med avseende på hälsa och
+\- Det som föreslås blir olämpligt med avseende på hälsa och
 säkerhet och risken för olyckor, översvämning och erosion.
 
 Risker för ras, skred och erosion
@@ -21029,7 +21029,7 @@ delarna av planområdet. Se vidare yttrande från SGI 2023-06-15.
 Att bestämma att startbesked inte får ges för byggnader förrän
 bergstekniska åtgärder har kommit till stånd, är därmed inte lämpligt av
 ovanstående skäl och att detta är förenat med villkor i startbesked.
-Villkor enligt 4 kap 14 $ p 4 PBL avser åtgärder på tomtmark i
+Villkor enligt 4 kap 14 \$ p 4 PBL avser åtgärder på tomtmark i
 genomförandet av planen. I förarbeten Prop 2013/14:126 s 194 till
 bestämmelsen framgår att ”Statens geotekniska institut menar att det inte
 är lämpligt att bedöma skyddsåtgärder i olika bygglov eftersom riskerna
@@ -21062,33 +21062,33 @@ farligt gods.
 I denna utredning framgår olika skyddsåtgärder som behöver vidtas. Det
 saknas dock några av dessa i plankartan:
 
-- Lägg till ”fasad ska vara i obrännbart material” som information i
+\- Lägg till ”fasad ska vara i obrännbart material” som information i
 bestämmelse mo.
 
-- — Säkerställ höjd på marknivån längs med väg E6 så att vätska
+\- — Säkerställ höjd på marknivån längs med väg E6 så att vätska
 förhindras att rinna in på området vid en eventuell olycka med
 farligt gods.
 
-- - Bestämmelse mg ska finnas inom 40 meter från möjlig placering
+\- - Bestämmelse mg ska finnas inom 40 meter från möjlig placering
 av bensinstation, det vill säga även söder och väster om det
 område i plankartan som tillåter drivmedelsförsäljning.
 
-- Det saknas en bestämmelse för att påfyllningsanslutningen till
+\- Det saknas en bestämmelse för att påfyllningsanslutningen till
 cisterner skall placeras minst 25 meter från övriga byggnader (ej
 bensinstation
 
 Länsstyrelsen befarar inte att:
 
-- — ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
+\- — ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
 följs,
 
-- reglering av mellankommunala frågor inte samordnas på
+\- reglering av mellankommunala frågor inte samordnas på
 ett lämpligt sätt,
 
-- en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
+\- en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
 följs,
 
-- strandskydd enligt 7 kap miljöbalken upphävs i strid
+\- strandskydd enligt 7 kap miljöbalken upphävs i strid
 med gällande bestämmelser.
 
 Övrigt
@@ -21139,11 +21139,11 @@ Klovsten inom Ysby 1:12 m fl, Kungsbacka kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 $ plan- och bygglagen (2010:900), PBL. Detaljplanen
-handläggs med utökat förfarande. Enligt 5 kap. 22 $ PBL ska
+med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
+handläggs med utökat förfarande. Enligt 5 kap. 22 \$ PBL ska
 Länsstyrelsen under granskningstiden yttra sig över planförslaget, om
 planförslaget enligt Länsstyrelsens bedömning innebär att någon av
-överprövningsgrunderna i 11 kap. 10 $ PBL inte följs eller tillgodoses.
+överprövningsgrunderna i 11 kap. 10 \$ PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
 8151-2020 samt 2023-07-07 i ärende 402-3207-2023.
@@ -21164,14 +21164,14 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
 
-kap. 7 $ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33$ p.5 PBL.
+kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
 
 Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 & PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-$ PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$ PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Postadress:301 86 Halmstad Telefon: 010-224 30 00 E-post: hallandQlansstyrelsen.se Webb: lansstyrelsen.se/halland
@@ -21184,7 +21184,7 @@ Länsstyrelsen Hallands län Yttrande 2 (2)
 2023-09-27 402-6377-2023
 
 Länsstyrelsen befarar att:
-- Det som föreslås blir olämpligt med avseende på hälsa och
+\- Det som föreslås blir olämpligt med avseende på hälsa och
 säkerhet och risken för olyckor, översvämning och erosion.
 
 Risker för ras, skred och erosion
@@ -21218,7 +21218,7 @@ Länsstyrelsen befarar inte att:
 = ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
 följs,
 
-- reglering av mellankommunala frågor inte samordnas på
+\- reglering av mellankommunala frågor inte samordnas på
 ett lämpligt sätt,
 
 = en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
@@ -21268,7 +21268,7 @@ förslaget kan komma att prövas. Länsstyrelsen önskar att kommunen samråder 
 myndigheten innan detaljplanen antas.
 
 Länsstyrelsen befarar att:
--  Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
+\-  Det som föreslås blir olämpligt med avseende på hälsa och säkerhet och risken
 för olyckor, översvämning och erosion.
 
 Motiv för bedömningen
@@ -21345,11 +21345,11 @@ LÄNSSTYRELSEN                    Yttrande               3(4)
 2020-12-09   402-8151-2020
 
 Länsstyrelsen befarar inte att:
--  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
+\-  ett riksintresse enligt 3 eller 4 kap. miljöbalken inte följs,
 
--  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
--  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
--  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande
+\-  reglering av mellankommunala frågor inte samordnas på ett lämpligt sätt,
+\-  en miljökvalitetsnorm enligt 5 kap. miljöbalken inte följs,
+\-  strandskydd enligt 7 kap miljöbalken upphävs i strid med gällande
 bestämmelser.
 
 Bakgrundsinformation
@@ -21410,11 +21410,11 @@ Klovsten inom Ysby 1:12 m fl, Kungsbacka kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 $ plan- och bygglagen (2010:900), PBL. Detaljplanen
-handläggs med utökat förfarande. Enligt 5 kap. 22 $ PBL ska
+med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
+handläggs med utökat förfarande. Enligt 5 kap. 22 \$ PBL ska
 Länsstyrelsen under granskningstiden yttra sig över planförslaget, om
 planförslaget enligt Länsstyrelsens bedömning innebär att någon av
-överprövningsgrunderna i 11 kap. 10 $ PBL inte följs eller tillgodoses.
+överprövningsgrunderna i 11 kap. 10 \$ PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
 8151-2020 samt 2023-07-07 i ärende 402-3207-2023.
@@ -21435,8 +21435,8 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
 
-kap. 7 $ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33$ p.5 PBL.
+kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
 
 Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
@@ -21455,7 +21455,7 @@ Länsstyrelsen Hallands län Yttrande 2 (2)
 2023-09-27 402-6377-2023
 
 Länsstyrelsen befarar att:
-- Det som föreslås blir olämpligt med avseende på hälsa och
+\- Det som föreslås blir olämpligt med avseende på hälsa och
 säkerhet och risken för olyckor, översvämning och erosion.
 
 Risker för ras, skred och erosion
@@ -21489,7 +21489,7 @@ Länsstyrelsen befarar inte att:
 = ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
 följs,
 
-- reglering av mellankommunala frågor inte samordnas på
+\- reglering av mellankommunala frågor inte samordnas på
 ett lämpligt sätt,
 
 = en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
@@ -21524,12 +21524,12 @@ kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 $ plan- och bygglagen (2010:900), PBL. Detaljplanen
+med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
 handläggs med utökat förfarande.
 
-Enligt 5 kap. 22 $ PBL ska Länsstyrelsen under granskningstiden yttra
+Enligt 5 kap. 22 \$ PBL ska Länsstyrelsen under granskningstiden yttra
 sig över planförslaget, om planförslaget enligt Länsstyrelsens
-bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 $
+bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 \$
 PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
@@ -21551,8 +21551,8 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
-kap. 7 $ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33$ p.5 PBL.
+kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
 
 Postadress:301 86 Halmstad Telefon: 010-224 30 00 E-post: hallandQQlansstyrelsen.se Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
@@ -21567,11 +21567,11 @@ Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Länsstyrelsen befarar att:
-- Det som föreslås blir olämpligt med avseende på hälsa och
+\- Det som föreslås blir olämpligt med avseende på hälsa och
 säkerhet och risken för olyckor, översvämning och erosion.
 
 Risker för ras, skred och erosion
@@ -21600,7 +21600,7 @@ delarna av planområdet. Se vidare yttrande från SGI 2023-06-15.
 Att bestämma att startbesked inte får ges för byggnader förrän
 bergstekniska åtgärder har kommit till stånd, är därmed inte lämpligt av
 ovanstående skäl och att detta är förenat med villkor i startbesked.
-Villkor enligt 4 kap 14 $ p 4 PBL avser åtgärder på tomtmark i
+Villkor enligt 4 kap 14 \$ p 4 PBL avser åtgärder på tomtmark i
 genomförandet av planen. I förarbeten Prop 2013/14:126 s 194 till
 bestämmelsen framgår att ”Statens geotekniska institut menar att det inte
 är lämpligt att bedöma skyddsåtgärder i olika bygglov eftersom riskerna
@@ -21633,33 +21633,33 @@ farligt gods.
 I denna utredning framgår olika skyddsåtgärder som behöver vidtas. Det
 saknas dock några av dessa i plankartan:
 
-- Lägg till ”fasad ska vara i obrännbart material” som information i
+\- Lägg till ”fasad ska vara i obrännbart material” som information i
 bestämmelse mo.
 
-- — Säkerställ höjd på marknivån längs med väg E6 så att vätska
+\- — Säkerställ höjd på marknivån längs med väg E6 så att vätska
 förhindras att rinna in på området vid en eventuell olycka med
 farligt gods.
 
-- - Bestämmelse mg ska finnas inom 40 meter från möjlig placering
+\- - Bestämmelse mg ska finnas inom 40 meter från möjlig placering
 av bensinstation, det vill säga även söder och väster om det
 område i plankartan som tillåter drivmedelsförsäljning.
 
-- Det saknas en bestämmelse för att påfyllningsanslutningen till
+\- Det saknas en bestämmelse för att påfyllningsanslutningen till
 cisterner skall placeras minst 25 meter från övriga byggnader (ej
 bensinstation
 
 Länsstyrelsen befarar inte att:
 
-- — ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
+\- — ett riksintresse enligt 3 eller 4 kap. miljöbalken inte
 följs,
 
-- reglering av mellankommunala frågor inte samordnas på
+\- reglering av mellankommunala frågor inte samordnas på
 ett lämpligt sätt,
 
-- en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
+\- en miljökvalitetsnorm enligt 5 kap. miljöbalken inte
 följs,
 
-- strandskydd enligt 7 kap miljöbalken upphävs i strid
+\- strandskydd enligt 7 kap miljöbalken upphävs i strid
 med gällande bestämmelser.
 
 Övrigt
@@ -21700,7 +21700,7 @@ Kommunstyrelsen Datum
 
 2018-06-19
 
-$ 162
+\$ 162
 
 Planprogram för verksamheter i Klovsten
 Dnr KS/2017:322
@@ -21744,7 +21744,7 @@ av Klovstenområdet.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott, 2018-06-12, $ 245 Förslag: Kommunstyrelsen
+Kommunstyrelsens arbetsutskott, 2018-06-12, \$ 245 Förslag: Kommunstyrelsen
 beslutar att godkänna Planprogram för verksamheter i Klovsten, daterad december
 2017 och att programmet ska ligga till grund för kommande planläggning av
 Klovstenområdet.
@@ -21765,7 +21765,7 @@ Kommunstyrelsen hemställer till byggnadsnämnden att utarbeta förslag till
 detaljplan för verksamheter i Klovsten för det norra området, etapp 1, i enlighet med
 kommunstyrelsens direktiv.
 
-Kommunstyrelsens arbetsutskott, 2018-06-05, $ 240, Beslut: Kommunstyrelsens
+Kommunstyrelsens arbetsutskott, 2018-06-05, \$ 240, Beslut: Kommunstyrelsens
 arbetsutskott återremitterar ärendet för förtydligande av vilka revideringar som
 tillkommit till planprogrammet daterat december 2017.
 

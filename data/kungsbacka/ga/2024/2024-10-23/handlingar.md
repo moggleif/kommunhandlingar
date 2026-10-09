@@ -2238,7 +2238,7 @@ kommungemensamma NYKO indelningen, för vart funktionen genererar den mest gynns
 
 placeringen.
 2\. Motivera ert uttalade lokaliseringsförslag. Karta med NYKO indelning enligt bilden nedan.
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 60 -->
 
@@ -2587,7 +2587,7 @@ JA – NYKO 1
 kommungemensamma NYKO indelningen, för vart funktionen genererar den mest gynnsamma
 placeringen.
 2\. Motivera ert uttalade lokaliseringsförslag. Karta med NYKO indelning enligt bilden nedan.
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 69 -->
 
@@ -2988,7 +2988,7 @@ Ja
 1\. Kungsbacka centralort.
 2\. Utifrån målgrupp så behöver lokalen var centralt placerad i Kungsbacka centralort, där det är
 tillgänglighetsanpassat med ffa busstrafik. Karta med NYKO indelning enligt bilden nedan.
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 79 -->
 
@@ -3237,7 +3237,7 @@ Ja
 busshållplats samt närhet till tågstation. Ökar attraktionskraften när lokalen är centralt placerad,
 även utifrån samnyttjande (lektionstid) på vissa kurser som sker/kan ske på Elof Lindälvs
 gymnasium.
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 85 -->
 
@@ -5485,7 +5485,7 @@ Kungsbacka den \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Personnummer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\_______________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Underskrift och namnförtydligande
 
 2102

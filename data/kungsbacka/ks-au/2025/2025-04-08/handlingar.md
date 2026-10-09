@@ -249,7 +249,7 @@ Miljökonsekvensbeskrivning, 2024-03-20, rättad 2024-09-30
 Vid sammanträdet redogör samhällsbyggnadskontoret för att en redaktionell ändring
 behöver göras i första beslutsatsen, då dateringen av granskningsutlåtandet och
 antagandehandlingarna är felaktig i arbetsutskottets förslag till beslut (2025-02-25 §
-49) på grund av förbiseende. Dateringen 2024-11-08 ska rätteligen vara 2025-02-11.
+49\) på grund av förbiseende. Dateringen 2024-11-08 ska rätteligen vara 2025-02-11.
 Underlagen i sig är korrekt daterade med 2025-02-11.
 
 Byggnadsnämnden har inget att erinra mot samhällsbyggnadskontorets redogörelse.
@@ -543,18 +543,18 @@ Detaljplan för Kungsbacka 6:27 och Hammargård 1:7   Datum: 2025-02-11
 
 Ärendeinformation
 
-1. Kommunens namn: Kungsbacka kommun
+1\. Kommunens namn: Kungsbacka kommun
 
-2. Detaljplanens namn: Detaljplan för verksamheter inom del av Kungsbacka 6:27 och
+2\. Detaljplanens namn: Detaljplan för verksamheter inom del av Kungsbacka 6:27 och
 Hammargård 1:7 m fl
 
-3. Diarienummer: BN 2021-00017
+3\. Diarienummer: BN 2021-00017
 
-4. Beslut om antagande: informationen kompletteras efter antagande
+4\. Beslut om antagande: informationen kompletteras efter antagande
 
-5. Datum då detaljplanen är påbörjad: 2021-04-29
+5\. Datum då detaljplanen är påbörjad: 2021-04-29
 
-6. Datum för laga kraft: Kompletteras efter laga kraft
+6\. Datum för laga kraft: Kompletteras efter laga kraft
 
 Genomförandetid
 
@@ -1353,7 +1353,7 @@ förekomster av högrisk för markradon. Delar av området är klassat som högr
 markradon.
 
 Enligt den geotekniska utredningen (Norconsult, 2022-05-04, kompletterad 2022-12-
-21) överstiger radiumhalten 60 Bq/kg, gränsvärde för normalradon, i 7 av 13
+21\) överstiger radiumhalten 60 Bq/kg, gränsvärde för normalradon, i 7 av 13
 
 mätpunkter. Berggrunden i området kan i sin helhet bedömas som
 normalriskområde avseende radon. På grund av detta rekommenderas byggnader
@@ -2252,7 +2252,7 @@ totalstabiliteten kontrolleras och beaktas. Därför finns inga belastningsrestr
 begränsningar i plankartan. I utredningen finns även förtydliganden gällande hur schakter ska
 hanteras. Planbeskrivningen uppdateras gällande kompletteringar och förtydliganden från
 utredningen.
-2. Lantmäteriet
+2\. Lantmäteriet
 
 Lantmäteriet har inga synpunkter på de aktuella planhandlingarna.
 Kommentar: Noteras
@@ -2283,7 +2283,7 @@ Kommentar: Skyfallsvatten fördröjs i befintliga diken innan det når järnväg
 Trafikverkets yttrande har skickats till fastighetsägarna för kännedom inför kommande projektering och
 byggnation.
 
-4. SGI
+4\. SGI
 
 SGI:s synpunkter SGI har under samrådsskedet yttrat sig, (2022-10-10 dnr 5.2-2209-0868) och då
 framfört att synpunkter på planhandlingarna.
@@ -2331,19 +2331,19 @@ KUNGSBACKA  KOMMUN
 nuvarande förhållanden och de riktvärden som finns för befintlig verksamhet samt en
 beskrivning av resultatet av de kompletterande beräkningarna.
 
-5. Region Halland
+5\. Region Halland
 Region Halland har inga synpunkter på planförslaget men vill poängtera att västkustbanans funktion
 behöver beaktas och att inte tågtrafiken ska störas.
 Kommentar: Noteras
 
 Sakägare
 
-6. Ellevio
+6\. Ellevio
 
 Ellevio har inget att erinra gentemot planförslaget.
 Kommentar: Noteras
 
-7. E.ON
+7\. E.ON
 E.ON Energidistribution AB (E.ON) har tagit del av inkomna handlingar i ovan rubricerat ärende och
 
 har inga ytterligare synpunkter. Hänvisar till vårt yttrande från 2022/06/10.
@@ -2352,7 +2352,7 @@ omhändertagna genom u-område, ledningsrätt eller avtal.
 
 Kommunala förvaltningar och nämnder
 
-8. Miljö & Hälsoskydd
+8\. Miljö & Hälsoskydd
 
 Vid tidigare yttrande i samråd framfördes synpunkter om dagvattenhantering och förorenad mark.
 Vissa synpunkter har arbetats in i planbeskrivningen som nu är på granskningen, men fortfarande
@@ -2388,7 +2388,7 @@ järnvägen där det fördröjs och renas. Funktionen på detta dike kan förbä
 utformning och skötsel. Miljö & Hälsoskydds yttrande har skickats till fastighetsägarna för
 kännedom inför kommande projektering och byggnation.
 
-9. Räddningstjänsten
+9\. Räddningstjänsten
 
 Räddningstjänsten Storgöteborg (RSG) har inte deltagit vid samråd på grund av registreringsproblem
 efter byte av RSG:s ärendehanteringssystem under 2022.
@@ -2459,7 +2459,7 @@ kommunala brandpost finns vid infarten till området.
 
 Övriga
 
-10. Swedavia Airports
+10\. Swedavia Airports
 
 <!-- sida 57 -->
 
@@ -2583,7 +2583,7 @@ Genomförande
 Byggnadsnämnden beslöt den 2022-08-25 § 227 att genomföra samråd för detaljplaneförslaget.
 Detaljplaneförslagetinklusive tillhörande miljökonsekvensbeskrivning harvarit utställt församråd i
 Stadshuset i Kungsbacka och på biblioteket i Kungsbacka under tiden 13 septembertill 8 oktober
-2022.
+2022\.
 
 Planförslaget och miljökonsekvensbeskrivningen har under samma tid sänts till berörda myndigheter,
 nämnder, föreningar och sakägare för yttrande.
@@ -2855,7 +2855,7 @@ Kommentar: Plankartan har kompletterats med markreservat (u-område).
 KUNGSBACKA KOMMUN
 7 (13)
 
-3. Statens geotekniska institut (SGI)
+3\. Statens geotekniska institut (SGI)
 Geoteknik
 
 Till den marktekniska undersökningsrapporten hör bilagor och ritningar. Dessa saknas i utskicket. SGI
@@ -2890,7 +2890,7 @@ handlingarna ska kunna betraktas som fullständiga.
 Kommentar: Den geotekniska och bergtekniska utredningen har kompletterats med
 resonemang och förtydliganden utifrån inkomna synpunkter.
 
-4. Trafikverket
+4\. Trafikverket
 Avstånd till järnvägen
 
 Generellt bör ny bebyggelse inte tillåtas inom ett område på 30 meter från järnvägen, (räknat från
@@ -2916,12 +2916,12 @@ vistas närmare spåret än 30 meter.
 Dagvattenhantering
 
 Trafikverket inte har någonting att invända mot dagvattenshanteringsförlag under förutsättning att
-- Inte mer hårdgjorda ytor anläggs jämfört med dagens situation samt
+\- Inte mer hårdgjorda ytor anläggs jämfört med dagens situation samt
 
-- Höjdsättningen av marken utformas på ett sådant sätt att ytledes rinnande skyfallsvatten inte direkt
+\- Höjdsättningen av marken utformas på ett sådant sätt att ytledes rinnande skyfallsvatten inte direkt
 leds ner mot järnvägen utan att det först fördröjs vid deras fastighet
 
-- Vattnet som leds ner mot Trafikverkets fastighet inte är förorenat.
+\- Vattnet som leds ner mot Trafikverkets fastighet inte är förorenat.
 Kommentar: De få ytor inom planområdet som idag inte är hårdgjorda har bestämmelsen n1
 ”Marken får inte hårdgöras”.
 
@@ -3048,7 +3048,7 @@ planbeskrivningen som ”Marken får inte hårdgöras” och ”befintligt dike 
 att ytor avsätts för dagvattenhanteringen i detaljplanen.
 
 De befintliga dagvattensystemen beskrivs i en dagvatten- och skyfallsutredning framtagen av Sweco,
-2022. De råd som ges i dagvattenutredningen är att det är viktigt att de båda verksamheterna
+2022\. De råd som ges i dagvattenutredningen är att det är viktigt att de båda verksamheterna
 underhåller sina befintliga reningsanläggningar för dagvatten för att de ska behålla sin funktion. Man
 ska också begränsa den framtida avrinningen och bevara de få grönytor som finns idag. Även ett ev
 biofilter föreslås kunna anläggas med syfte att främja ekosystemtjänster.
@@ -3350,10 +3350,10 @@ Denna handling har godkänts digitalt och saknar därför namnunderskrift.
 
 Bilaga för kännedom:
 Kopia av yttrande till från:
--  Statens geotekniska institut 2022-10-10
+\-  Statens geotekniska institut 2022-10-10
 
--  Trafikverket 2022-10-07
--  Lantmäteriet 2022-10-07
+\-  Trafikverket 2022-10-07
+\-  Lantmäteriet 2022-10-07
 
 Kopia (utan bilaga) till:
 
@@ -3472,7 +3472,7 @@ Den primära miljöpåverkan från värmeverket utgörs huvudsakligen av utsläp
 kväveoxider NOx och stoft. Enligt framtagna utredningar finns ingen risk för att miljökvalitetsnormerna för
 partiklar, kväveoxider och kolmonoxid överskrids med två biobränslepannor. Villkoren vad gäller utsläpp enligt
 tillståndet är uppfyllda vad gäller stoft, CO och NO Vid genomförandet av detaljplanen planeras ingen
-2.
+2\.
 utbyggnad av fler biobränslepannor och därmed bedöms utsläppsmängderna och halterna från värmeverket
 bli oförändrade jämfört med nuläget.
 Enligt kartläggning av luftföroreningssituationen i Kungsbacka 2015 konstateras att alla tre
@@ -4680,7 +4680,7 @@ eller aldrig för övriga ämnen. En sammanställning av gränsvärdena för de 
 Tabell9.1.
 Tabell 9.1. Miljökvalitetsnormer för utomhusluft(Naturvårdsverket 2019).
 
-*  98-percentilvärde ** 90-percentilvärde
+\*  98-percentilvärde \*\* 90-percentilvärde
 
 9.2 Nuvarande förhållanden
 
@@ -4711,8 +4711,8 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 |  | Årsmedelvärde<br>(μg/m3) | Dygnsmedelvärde<br>(μg/m3) | Timmedelvärde<br>(μg/m3) |
 | --- | --- | --- | --- |
-| MKN Kvävedioxid | 40 | 60* | 90* |
-| MKN Partiklar (PM10) | 40 | 50** | - |
+| MKN Kvävedioxid | 40 | 60\* | 90\* |
+| MKN Partiklar (PM10) | 40 | 50\*\* | - |
 
 <!-- sida 111 -->
 
@@ -5403,12 +5403,12 @@ belägna vattenförekomsterna i Kungsbackaån och Inre Kungsbackafjorden.
 Vattenförekomst           Status             Miljökvalitetsnorm
 ID          Namn     Ekologisk Kemisk   Ekologisk Kemisk
 WA82828105  Kungsbackaån - Måttlig Uppnår ej god God  God kemisk
-Mynningen till Lillån status status ekologisk status*
+Mynningen till Lillån status status ekologisk status\*
 status 2033
 WA21723833  Inre           Måttlig Uppnår ej god God  God kemisk
-Kungsbackafjorden status status   ekologisk status*
+Kungsbackafjorden status status   ekologisk status\*
 status 2027
-*Med undantag i form av mindre stränga krav för kvicksilver och bromerad difenyleter samt undantag i form av
+\*Med undantag i form av mindre stränga krav för kvicksilver och bromerad difenyleter samt undantag i form av
 tidsfrist till 2027 för PFOS (Kungsbackaån) och TBT (Inre Kungsbackafjorden)
 
 Figur 11.3. Vattenförekomst Kungsbackaån (Mynningen-Lillån) och röd ring visar planområdet(VISS, 2024a).
@@ -5983,7 +5983,7 @@ Kungsbackaån är även generellt viktig för närrekreation och utgör en vikti
 enligt den fördjupade översiktsplanen för Kungsbacka stad (Kungsbacka kommun, 2009). Ett
 sammanhängande grönstråk löper längs Kungsbackaån genom staden ned till Inlagsleden och i framtaget
 gestaltningsprogram för Kungsbackaån och i grönstrukturplanen för staden (Kungsbacka kommun, 2007;
-2008) föreslås detta grönstråk fortsätta längs med ån ner till Kungsbackafjorden. Längs sträckan mellan
+2008\) föreslås detta grönstråk fortsätta längs med ån ner till Kungsbackafjorden. Längs sträckan mellan
 Inlagsleden och fjorden föreslås åns naturkaraktär i framtiden utvecklas med nya våtmarker och plantering av
 träd utefter ån.
 
@@ -6838,7 +6838,7 @@ Kungsbacka kommun. (1986). Förslag till stadsplan för Stadsäga 450 i Kungsbac
 Kungsbacka kommun. (1993). Naturskyddsprogram för Kungsbacka kommun. Miljö- och hälsoskyddskontoret.
 
 Kungsbacka kommun. (1998 rev 2012). Sjöar och vattendrag i Kungsbacka kommun 1997. Delvis reviderad
-2012.
+2012\.
 Kungsbacka kommun. (2002). Detaljplan för fastigheten Hammargård 1:7 m.fl. i Kungsbacka tätort. Antagen
 2002-06-06.
 
@@ -7312,7 +7312,7 @@ kommunala planer och fokusera på mellankommunala och mellanregionala utmaningar
 möjligheter.
 
 Planens målområden med underliggande strategier är:
-1. En tillgänglig, inkluderande och sammanhållen region
+1\. En tillgänglig, inkluderande och sammanhållen region
 
 (cid:16) Stärk tillgängligheten i det nationellt viktiga Västkuststråket
 (cid:16) Stärk tillgängligheten mellan tillväxtmotorerna och de regionala kärnorna i öst-västlig riktning
@@ -7323,13 +7323,13 @@ Planens målområden med underliggande strategier är:
 (cid:16) Stärk och utveckla elnätskapaciteten och energisystemet
 (cid:16) Stärk och utveckla den digitala infrastrukturen i samhällsplaneringen
 
-2. En flerkärnig region med attraktiva och hållbara livsmiljöer
+2\. En flerkärnig region med attraktiva och hållbara livsmiljöer
 (cid:16) Kollektivtrafikorienterad bebyggelseplanering för ett hållbart och växande Halland
 
 (cid:16) Platsutveckling för attraktiva livsmiljöer i stads- och landsbygd
 (cid:16) Stärk de fysiska förutsättningarna för det halländska näringslivet
 
-3. En robust och resilient region
+3\. En robust och resilient region
 
 (cid:16) Utveckla och bevara naturresurser för ett attraktivt Halland
 (cid:16) Beredskap för ett förändrat klimat
@@ -8370,7 +8370,7 @@ Militärstrategiskt viktiga områden i händelse av en säkerhetspolitisk kris
 eller krig med störst risk för ett väpnat angrepp. Geografiska områden
 som utgörs huvudsakligen av transportnoder. Till exempel:
 
--  Hamnar
+\-  Hamnar
 
 6Fö 2024-01362 ”Uppdrag till MSB och länsstyrelserna att göra en övergripande planering
 av skyddsåtgärderna som stärker skyddet av civilbefolkningen”
@@ -8381,7 +8381,7 @@ av skyddsåtgärderna som stärker skyddet av civilbefolkningen”
 
 Regional strategi för storskalig utrymning och mottagning i Hallands län
 
--  Flygplatser
+\-  Flygplatser
 
 Kategori 2
 Militärstrategiskt viktiga områden i händelse av en säkerhetspolitisk kris
@@ -8390,7 +8390,7 @@ eller krig med stor risk för ett väpnat angrepp. Områden som är viktiga
 bas-och koncentreringsområdenför Försvarsmakten (ej transportnoder).
 Till exempel:
 
--  Lokaler för det militära försvaret(garnisonområden)
+\-  Lokaler för det militära försvaret(garnisonområden)
 
 Kategori 3
 
@@ -8400,18 +8400,18 @@ för ett väpnat angrepp. Geografiska områden som innehar samhällsviktig
 verksamhetsom är av stor nationell betydelse för Sveriges försörjning
 och funktionalitet. Till exempel:
 
--  Viktiga producenter och noder för nationell el-och
+\-  Viktiga producenter och noder för nationell el-och
 energiförsörjning
 
--  Livsmedelsproduktion av nationell betydelse. Antingen
+\-  Livsmedelsproduktion av nationell betydelse. Antingen
 storproducent av viktigt livsmedel eller en av få producenter av
 viktigt livsmedel.
 
--  Stora lager av drivmedel
+\-  Stora lager av drivmedel
 
--  Viktig tillverkning av sjukvårdsutrustning och läkemedel.
+\-  Viktig tillverkning av sjukvårdsutrustning och läkemedel.
 
--  Sårbara noder längs nationellt viktig infrastruktur.
+\-  Sårbara noder längs nationellt viktig infrastruktur.
 
 18
 
@@ -8945,17 +8945,17 @@ utrymning. Processen beskrivs i fem steg och avser hanteringen i
 Länsstyrelsens kris-/krigsorganisation. Denna process bör i grunden se
 likadan ut oavsett händelse i fredstid eller krig.
 
-1. Fastställ beslutsmandat
+1\. Fastställ beslutsmandat
 
-2. Sammanställ lägesbild för
+2\. Sammanställ lägesbild för
 utrymning
 
-3. Inriktning och samordning
+3\. Inriktning och samordning
 
-4. Författa beslutsunderlag och
+4\. Författa beslutsunderlag och
 besluta
 
-5. Genomförande
+5\. Genomförande
 
 30
 
@@ -9231,7 +9231,7 @@ Tabell 3En checklista med vilka funktioner en mottagningsplats bör ha med
 beskrivning.
 
 14Halländsk riktlinje för arbetet med trygghetspunkter, bilaga 4, diarienummer 457-877-
-2023.
+2023\.
 
 37
 
@@ -9661,7 +9661,7 @@ KUNGSBACKA  KOMMUN
 miljökvalitetsnormer tas fram inför förvaltningscykeln 2027–2033. Detta samråd om arbetsprogram
 och väsentliga vattenfrågor är det första av två samråd i processen. Det andra samrådet kommer att äga
 rum under 2026 och rör förslag på förvaltningsplan, åtgärdsprogram och miljökvalitetsnormer 2027–
-2033.
+2033\.
 
 I remissen vill Vattenmyndigheten ha synpunkter och information om hur olika aktörer arbetat med det
 material och aktiviteter som Vattenmyndigheten tagit fram som stöd för vattenförvaltningen och även
@@ -10086,15 +10086,15 @@ Utbildningsdepartementet har utifrån denna bakgrund lagt förslag till ändring
 skollagen samt ett antal ändringar i förordningar. Förslagen kan sammanfattas som
 att:
 
--  Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och
+\-  Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och
 studiero.
--  Alla skolor ska använda skolregler och en konsekvensplan för trygghet och
+\-  Alla skolor ska använda skolregler och en konsekvensplan för trygghet och
 studiero.
 
--  Nolltolerans mot trakasserier, kränkande behandling och mobbning kan
+\-  Nolltolerans mot trakasserier, kränkande behandling och mobbning kan
 säkerställas genom statliga åtgärder.
 
--  Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
+\-  Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
 Föreskrifterna föreslås träda i kraft den 1 juli 2026 utan några
 övergångsbestämmelser.
 
@@ -10174,12 +10174,12 @@ att åstadkomma en varaktigt förbättrad trygghet och studiero i skolan genom f
 Utbildningsdepartementet har utifrån denna bakgrund lagt förslag till ändring i skollagen samt ett antal
 ändringar i förordningar. Förslagen kan sammanfattas som att:
 
-- Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och studiero.
-- Alla skolor ska använda skolregler och en konsekvensplan för trygghet och studiero.
+\- Rektorn och läraren behöver förutsättningar att arbeta med tryggheten och studiero.
+\- Alla skolor ska använda skolregler och en konsekvensplan för trygghet och studiero.
 
-- Nolltolerans mot trakasserier, kränkande behandling och mobbning kan säkerställas genom
+\- Nolltolerans mot trakasserier, kränkande behandling och mobbning kan säkerställas genom
 statliga åtgärder.
-- Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
+\- Frånvaro från skolan ska synliggöras och kartläggas för att kunna motverkas.
 
 Föreskrifterna föreslås träda i kraft den 1 juli 2026 utan några övergångsbestämmelser.
 Nämnden för Förskola & Grundskola har fått möjlighet att på kommunstyrelsens uppdrag svara på
@@ -10691,7 +10691,7 @@ Begära     planbesked
 
 Ärendenummer: #175728 | Inskickat av: | 2024-12-16 17:47
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -10706,7 +10706,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -10732,7 +10732,7 @@ Ja
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -10758,7 +10758,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -10770,7 +10770,7 @@ Ja
 
 Beskrivning
 
-Anso&#776;kan om planbesked fo&#776;r fastigheten Buka&#776;rr 3 86.pdf (7,7 MB)
+Anso\&#776;kan om planbesked fo\&#776;r fastigheten Buka\&#776;rr 3 86.pdf (7,7 MB)
 Illustrationsplan 2024-10-08.pdf (177 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
@@ -10807,19 +10807,19 @@ väg Lon |
 Fastighetsgräns — —
 Nya möjliga fastigheter
 
-- Ca 2360 kvm
+\- Ca 2360 kvm
 
-- Ca 2070 kvm
+\- Ca 2070 kvm
 
-- Ca 1820 kvm
+\- Ca 1820 kvm
 
-- Ca 1780 kvm
+\- Ca 1780 kvm
 
-- Ca 1880 kvm
+\- Ca 1880 kvm
 
 To m Oo Oo mw >
 
-- Ca 2210 kvm
+\- Ca 2210 kvm
 
 Illustrationsplan över förslaget.
 
@@ -10978,7 +10978,7 @@ CH 10-20 m
 d -
 | NS
 Skala 1:2500 Nn NY E-
--
+\-
 +) I N a el
 
 Kartan visar jorddjup. Aktuell fastighets ungefärliga utbredning är markerad med röd rektangel.
@@ -11008,7 +11008,7 @@ längs vägnätet, 1:50 000
 [64 Eu
 r Tomtnii
 skala 1:5000 a Bosh olmen, -
-+
+\+
 = + G& Stora Bosholmen
 
 Kartan visar Förutsättningar för skred i finkornig jordart. Aktuell fastighets ungefärliga utbredning
@@ -11018,7 +11018,7 @@ Kartan visar Förutsättningar för skred i finkornig jordart. Aktuell fastighet
 
 <!-- sida 275 -->
 
-=
+\=
 
 Jordskred
 
@@ -11257,30 +11257,30 @@ B
 mvk
 0632
 aC
-- A
+\- A
 mvk
 0702
 aC
-- B
+\- B
 E
 mvk
 0281
 aC
-- C
+\- C
 mvk
 0871
 aC
-- D
+\- D
 mvk
 0881
 aC
-- E
+\- E
 A
 F
 mvk
 0122
 aC
-- F
+\- F
 1
 va
 1
@@ -11290,7 +11290,7 @@ agaliB
 74:71
 61-21-4202
 :mutaD
-|
+\|
 827571#
 :remmunednerÄ
 
@@ -11605,7 +11605,7 @@ Ja
 Beskrivning
 
 | Bångsbo plan Bolsheden-Sodra-241220.pdf (13,72 MB)
-7) Bångsbo4-1 Trafikanalys Bångsbo.pdf (794 KB)
+7\) Bångsbo4-1 Trafikanalys Bångsbo.pdf (794 KB)
 " Bångsbo 4-1 Trafikbullerutredning.pdf (2,09 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
@@ -11614,7 +11614,7 @@ Medgivande
 
 Du måste bifoga ett medgivande från fastighetsägaren.
 
-7) Fullmakt Håkan Nilsson.pdf (403 KB)
+7\) Fullmakt Håkan Nilsson.pdf (403 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
@@ -11740,8 +11740,8 @@ exploatering med verksamheter kan genomföras utan att
 korsningarnas servicenivå överstigs. Därtill finns en
 felmarginal till följd av den delvis dubbelräknade
 trafikökningen.
-+ nytt verksamhetsområde 0,1
-+ nytt verksamhets- 0,46
+\+ nytt verksamhetsområde 0,1
+\+ nytt verksamhets- 0,46
 område
 27
 0,15
@@ -11848,7 +11848,7 @@ NE Vaage |
 
 Figur 2 Placering av Bångsbo 4:1, Kullavik
 
-|
+\|
 Avd
 
 Nedan följer kortfattat symboler och storheter som används i den här handlingen.
@@ -11886,9 +11886,9 @@ bostadsbyggnader med ändringar tom SFS 2017:359.
 
 Buller från spårtrafik och vägar
 
-3 $ Buller från spårtrafik och vägar bör inte överskrida
+3 \$ Buller från spårtrafik och vägar bör inte överskrida
 
-1. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
+1\. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
 
 2.50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan
 ska anordnas i anslutning till byggnaden.
@@ -11899,10 +11899,10 @@ bostadsbyggnadens fasad.
 
 4 8 Om den ljudnivå som anges i 3 8 första stycket 1 ändå överskrids bör
 
-1. minst hälften av bostadsrummen i en bostad vara vända mot en sida där 55 dBA
+1\. minst hälften av bostadsrummen i en bostad vara vända mot en sida där 55 dBA
 ekvivalent ljudnivå inte överskrids vid fasaden, och
 
-2. minst hälften av bostadsrummen vara vända mot en sida där 70 dBA maximal ljudnivå
+2\. minst hälften av bostadsrummen vara vända mot en sida där 70 dBA maximal ljudnivå
 inte överskrids mellan kl. 22.00 och 06.00 vid fasaden.
 
 Definition uteplats enligt Boverket:
@@ -12060,7 +12060,7 @@ HI < so =E Byggnad
 
 HN > 65
 
-=
+\=
 
 CEDÅS
 AKUSTIK
@@ -12230,7 +12230,7 @@ Ekvivalent ljudnivå Symboler
 i dB(A)
 He ss = Byggnad
 
- < 50 FEN väg
+< 50 FEN väg
 
 NY
 
@@ -12470,7 +12470,7 @@ exploateringen i norr — Studio 77 — och kopplas samman
 med färger och material som kan möta upp och fungera i en
 småskalig bebyggelse.
 
-+
+\+
 
 <!-- sida 321 -->
 
@@ -12659,18 +12659,18 @@ Reducerat effektbehov med 5090
 Tillsammans med ICA Kvantum Hovås skapades Sveriges mest
 energieffektiva ICA-butik. För att nå dit gjordes fyra avgörande åtgärder.
 
-1. Installation av ett koldioxidbaserat kyl- och fryssystem, det första i
+1\. Installation av ett koldioxidbaserat kyl- och fryssystem, det första i
 Sverige. Detta har visat sig minska energianvändningen med ca 2570.
 
-2. Byggnation av en bergvärmeanläggning med totalt 20 borrhål som är
+2\. Byggnation av en bergvärmeanläggning med totalt 20 borrhål som är
 borrade 200 meter ner i marken. All överskottsvärme från ICA:s kylar och
 frysar kopplades därefter ihop med bergvärmesystemet vilket har gett en
 ytterligare energibesparing på ca 2076.
 
-3. Installation av en värmeväxlare som skapar fritt varmvatten i byggnaden
+3\. Installation av en värmeväxlare som skapar fritt varmvatten i byggnaden
 vilket gjorde att vi sammantaget minskade energiåtgången.
 
-4. Montage av en solcellsanläggning på 220 kW som försörjer stora delar av
+4\. Montage av en solcellsanläggning på 220 kW som försörjer stora delar av
 butikens resterande energiförbrukning när solen skiner!
 
 Sammantaget gjorde detta att vi minskade energiåtgången med ca 50940 mot
@@ -12932,7 +12932,7 @@ Begära     planbesked
 
 Ärendenummer: #176473 | Inskickat av:          | 2024-12-20 09:25
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -12947,7 +12947,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -12989,7 +12989,7 @@ Telefon                           E-postadress
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -13022,7 +13022,7 @@ Bostäder
 Kontor
 Skola och Idrottshall
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -13041,7 +13041,7 @@ Ja
 
 Beskrivning
 
-Hede_ 1_53_ansökan om planbesked.pdf (5,09 MB)
+Hede\_ 1_53_ansökan om planbesked.pdf (5,09 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
@@ -13157,7 +13157,7 @@ angränsar området till klipporna och havet.
 
 Gällande detaljplan
 Fastigheterna är belägna inom två detaljplaner: Ö22 och Ö35, som fick laga kraft 1951 respektive
-1957. De aktuella fastigheterna är i plankartan redovisade som kvartersmark för barnkoloni i en
+1957\. De aktuella fastigheterna är i plankartan redovisade som kvartersmark för barnkoloni i en
 respektive två våningar.
 
 I plankartan för detaljplan Ö22 finns ett område inom allmän plats som möjliggör en passage för
@@ -13240,7 +13240,7 @@ Begära     planbesked
 
 Ärendenummer: #163084 | Inskickat av:       | 2024-12-19 14:50
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -13255,7 +13255,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -13299,7 +13299,7 @@ marcus.e.andersson@regionhalland.se
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -13336,7 +13336,7 @@ Vad beskriver bäst din begäran?
 
 Skola och tillfällig vistelse.
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 

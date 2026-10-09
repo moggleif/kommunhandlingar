@@ -390,21 +390,21 @@ och kompetensutveckling inom hästnäringen. Däremot berör det inte några fö
 till författningsändringar eller bedömningar eller åtgärder på skatteområdet.
 
 Utredaren föreslår sammanfattat följande:
-* Stärkta villkor för hästföretagande som innebär, förenklade regler, minskad
+\* Stärkta villkor för hästföretagande som innebär, förenklade regler, minskad
 administrativ börda, bättre tillgång till investeringsstöd och finansiering samt mer
 likvärdiga bygg- och markregler jämfört med andra areella näringar.
 
-* Förbättrad nationell statistik och bättre analysunderlag om hästnäringens
+\* Förbättrad nationell statistik och bättre analysunderlag om hästnäringens
 omfattning, ekonomi och samhällsnytta.
 
-* Utökade och mer ändamålsenliga utbildningar på flera nivåer, inklusive
+\* Utökade och mer ändamålsenliga utbildningar på flera nivåer, inklusive
 yrkesutbildningar, med koppling till företagande och hästvälfärd.
-* Införande av digitala hästpass och ökad digitalisering inom myndighetskontakter
+\* Införande av digitala hästpass och ökad digitalisering inom myndighetskontakter
 och näringsutveckling.
 
-* Åtgärder för att fler, särskilt barn och unga, ska kunna delta i hästverksamhet, med
+\* Åtgärder för att fler, särskilt barn och unga, ska kunna delta i hästverksamhet, med
 betoning på folkhälsa, jämlikhet och social inkludering.
-* Stärkt samverkan mellan lokala och offentliga aktörer. Kommuner och regioner
+\* Stärkt samverkan mellan lokala och offentliga aktörer. Kommuner och regioner
 
 pekas ut som viktiga aktörer i planering, tillgänglighet och stöd till hästverksamhet, i
 samverkan med staten, civilsamhället och näringen.

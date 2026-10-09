@@ -297,10 +297,10 @@ Förslag till beslut i kommunstyrelsen
 
 Kommunstyrelsen beviljar avvikelse från regler om maxlängden på 20 timmar för ett arbetspass till 24
 timmar inom:
-1. personlig assistans för situationer då brukare ska genomföra resor på semester eller inom sitt
+1\. personlig assistans för situationer då brukare ska genomföra resor på semester eller inom sitt
 arbete och
 
-2. lägerverksamheten för barn och unga.
+2\. lägerverksamheten för barn och unga.
 Beslutet gäller under perioden 1 juni 2025–31 maj 2026.
 
 Sammanfattning av ärendet
@@ -464,10 +464,10 @@ Nämnden för Individ & Familjeomsorgs förslag till Kommunstyrelsen
 Kommunstyrelsen beslutar att bevilja avvikelse från regler om maxlängden på 20
 timmar för ett arbetspass till 24 timmar inom:
 
-1. personlig assistans för situationer då brukare ska företa resor som rekreation eller
+1\. personlig assistans för situationer då brukare ska företa resor som rekreation eller
 inom sitt värv
 och
-2. lägerverksamheten för barn och unga
+2\. lägerverksamheten för barn och unga
 
 Beslutet gäller under perioden 1 juni 2025 – 31 maj 2026.
 
@@ -566,10 +566,10 @@ Nämnden för Individ & Familjeomsorgs förslag till Kommunstyrelsen
 
 Kommunstyrelsen beslutar att bevilja avvikelse från regler om maxlängden på 20 timmar för ett
 arbetspass till 24 timmar inom
-1. personlig assistans för situationer då brukare ska företa resor som rekreation eller inom sitt värv
+1\. personlig assistans för situationer då brukare ska företa resor som rekreation eller inom sitt värv
 
 och
-2. lägerverksamheten för barn och unga
+2\. lägerverksamheten för barn och unga
 
 Beslutet gäller under perioden 1 juni 2025–31 maj 2026.
 
@@ -752,7 +752,7 @@ MBL med anledning av behov att tillämpa avvikelse för
 arbetstidsförläggning inom personlig assistans vid resor och för
 läger- och korttidsverksamheten.
 
-$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
+\$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
 arbetstidsförläggning enligt Allmänna Bestämmelser, AB, och
 Bilaga J, identifierat ett behov av att tillämpa avvikelse genom
 att schemalägga arbetspass på upp till 24 timmar.
@@ -797,9 +797,9 @@ och personalens arbetsmiljö.
 Uppföljning sker på APT och i lokal samverkansgrupp, LSG,
 där uppföljning är en stående punkt.
 
-$ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
+\$ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
 
-$ 4 Förhandlingen förklarades avslutad vid dagen datum.
+\$ 4 Förhandlingen förklarades avslutad vid dagen datum.
 
 Justeras den 2025-02-11
 
@@ -854,18 +854,18 @@ Tänk på att medarbetare och skyddsombud och elevskyddsombud ska ges möjlighet
 riskbedömning och handlingsplan görs.
 
 Använd checklistan så här:
-1. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
+1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
 
-2. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
+2\. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
 friskfaktorer!
-3. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
+3\. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
 
-4. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
+4\. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
 och datum för när åtgärden ska vara genomförd.
 
 -Tips!
-- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
+\- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
 
 2/4
 2025-109
@@ -913,7 +913,7 @@ under och efter resan.
 |  | Identifiera riskkällor som ni tror uppstår efter genomförd förändring och bedöm om dessa kan leda till risker för ohälsa eller<br>olycksfall. Glöm inte att även lyfta friskfaktorer som förändringen kan medföra. Om en risk ska åtgärdas - klicka på<br>skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig och datum. Klicka på pilen längst till vänster för att<br>lägga till en ny rad. |  |  |
 | 2.1 | Friskfaktor- möjlighet att arbeta längre arbetspass vid<br>resor för att inte förlägga assistansbyten under<br>dagen/under aktivitet/utflykt | 0 |  |
 | 2.2 | Friskfaktor- 24h arbetspass skapar förutsättning och<br>möjlighet för att möta assistansanvändarens rätt till ett<br>självständigt liv enligt LSS lagstiftningen. | 0 |  |
-| 2.3 | Riskfaktor- högre arbetsbelastning vid längre<br>arbetspass | 2*1<br>2 | Att följa med som assistent på resa bygger på<br>frivillighet för medarbetare.<br>AG säkerställer att veckovila planeras in före<br>och efter resan, samt att möjlighet till vila och<br>återhämtning finns under arbetspasset. |
+| 2.3 | Riskfaktor- högre arbetsbelastning vid längre<br>arbetspass | 2\*1<br>2 | Att följa med som assistent på resa bygger på<br>frivillighet för medarbetare.<br>AG säkerställer att veckovila planeras in före<br>och efter resan, samt att möjlighet till vila och<br>återhämtning finns under arbetspasset. |
 
 [Tabell 22-2](handlingar.tabeller/22-2.csv)
 
@@ -946,23 +946,23 @@ Resor med assistansanvändare
 Uppgifter som ska lämnas i samband med begäran om dispens
 I samband med begäran om dispens ska arbetsgivaren besvara följande frågor.
 
-1. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
+1\. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
 vilken.
 Begäran avser avvikelse från Bilaga J.
 
-2. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
+2\. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
 dispens?
 Begäran avser personlig assistans inom Förvaltningen för Individ & Familjeomsorg i Kungsbacka
 kommun. Begäran avser att tillämpas för de medarbetare som medföljer assistansanvändare vid
 längre resor där ordinarie schemaläggning inte är möjligt.
 
-3. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
+3\. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
 många arbetstagare i dessa grupper skulle beröras?
 Beslutet kommer att beröra de medarbetare som följer med assistansanvändare vid resor och inte
 inom den ordinarie schemaläggningen.
 Berörda yrkesgrupper är personliga assistenter och PAN-anställda.
 
-4. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
+4\. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
 saknas specifik kompetens eller dylikt. Om så är fallet vilken/vilka kompetenser
 
 saknas och vilka konsekvenser får det?
@@ -970,33 +970,33 @@ Vid planerade resor följer personlig assistent med assistansanvändaren för at
 stöd som individen har. Vid längre resor och/eller resor på långt avstånd till hemmet finns inte
 möjlighet till att följa ordinarie schemaläggning enligt AB Bilaga J.
 
-5. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
+5\. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
 brukare, barn, civilsamhälle eller dylikt) som särskilt behöver beaktas när
 verksamheten bemannas.
 Att ha en personlig assistent medföljande på resor är en rättighet för assistansanvändaren och ett
 
 lagkrav som arbetsgivare har att följa.
 
-6. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
+6\. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
 deltidsarbete, frånvaro, svårigheter att rekrytera eller dylikt?
 Begäran avser tillämpning inom personlig assistans vid resor under en begränsad tidsperiod. Vid
 resor planeras i största möjliga mån frivilligt medföljande medarbetare i dialog med
 assistansanvändare.
 
-7. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
+7\. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
 glesbygd med långa pendlingsavstånd eller dylikt?
 Det finns inte alltid möjlighet att följa ordinarie schema vid resor inom personlig assistans då det kan
 röra sig om stora geografiska områden inom Sverige samt till andra länder. Vid längre resor behöver
 antalet assistenter som arbetar minimeras för att möjliggöra resan för assistansanvändaren.
 
-8. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
+8\. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
 yrkesgrupp/yrkesgrupper. Bifoga statistik om sådan finns att tillgå.
 
 <!-- sida 25 -->
 
 Vi arbetar enligt AB Bilaga J och det finns inga planerade insatser under jourtid.
 
-9. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
+9\. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
 månaderna.
 Förväntad utveckling och belastning är oförändrad under kommande 12 månader.
 Arbetsmiljö och arbetssituation följs upp regelbundet, löpande och på varje arbetsplatsträff för att
@@ -1009,7 +1009,7 @@ självbestämmande och goda levnadsvillkor.
 Det förekommer regelbundet resor inom personlig assistans där assistenter följer med. Varje resa
 planeras individuellt utifrån assistansanvändaren behov.
 
-10. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
+10\. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
 bilaga till AB ska kunna förläggas.
 Risk och konsekvensbedömning har gjorts för att;
 
@@ -1019,7 +1019,7 @@ Risk och konsekvensbedömning har gjorts för att;
 medarbetare innan under och efter resan.
 Arbetstidsförläggning med 24h arbetspass inom personlig assistans är tillämpligt enligt AB Bilaga J.
 
-11. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
+11\. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
 sammantaget uppgår till 20 timmar, inte är tillräckligt för verksamheten. Beskriv
 också vilka konsekvenser en sådan schemaläggning skulle medföra för verksamheten.
 
@@ -1035,7 +1035,7 @@ en god arbetsmiljö under resan. Att följa med assistansanvändaren på resa by
 medarbetarna och det finns alltid en dialog mellan assistansanvändare, medarbetare och enhetschef
 inför och under planering av resan.
 
-12. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
+12\. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
 Tidsperioden för begärt beslut är 2025-07-01 till och med 2026-01-30, för att sedan ha samma
 tidsperiod som övriga beslut inom personlig assistans.
 
@@ -1045,16 +1045,16 @@ Lägerverksamheten
 Uppgifter som ska lämnas i samband med begäran om dispens
 I samband med begäran om dispens ska arbetsgivaren besvara följande frågor.
 
-1. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
+1\. Ange om begäran avser avvikelse från AB § 13 mom. 5 eller bilaga till AB och i så fall
 vilken.
 Begäran avser avvikelse från Bilaga J
 
-2. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
+2\. Vilken verksamhet och vilka delar av verksamheten är aktuell/aktuella för begäran av
 dispens?
 Begäran avser Lägerverksamheten inom Förvaltningen för Individ & Familjeomsorg i Kungsbacka
 kommun
 
-3. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
+3\. Vilken/vilka yrkesgrupp/yrkesgrupper är berörda av begäran om dispens och hur
 många arbetstagare i dessa grupper skulle beröras?
 Berörda yrkesgrupper är timanställd personal inom Lägerverksamheten. Behovet varierar inom
 verksamheten och beroende av hur barn och familjer väljer att barnen är närvarande i
@@ -1063,7 +1063,7 @@ Arbetsgivaren kommer att aktivt arbeta för att antalet 24h pass i verksamheten 
 möjligt utan att det påverkar barnperspektivet på ett negativt sätt. De medarbetare som är
 månadsavlönade kommer arbeta enligt AB och bilaga J max 20h pass.
 
-4. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
+4\. Beskriv hur verksamheten är bemannad och hur belastningen ser ut. Ange om det
 saknas specifik kompetens eller dylikt. Om så är fallet vilken/vilka kompetenser
 saknas och vilka konsekvenser får det?
 Verksamheten har tidigare tillämpat Bilaga L och haft samma personalgrupp i arbete under hela
@@ -1077,7 +1077,7 @@ det inskränker på möjligheten till längre aktiviteter utanför enheten vilke
 verksamheten. Fler personalbyten riskerar också påverka till större andel händelser och
 kommunikationsmissar kring medicinhantering/dokumentationsöverföring för brukarna.
 
-5. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
+5\. Beskriv om det finns specifika faktorer kopplade till tredje man (till exempel patient,
 brukare, barn, civilsamhälle eller dylikt) som särskilt behöver beaktas när
 verksamheten bemannas.
 Barnperspektivet bör särskilt beaktas samt familjers möjlighet till avlastning. Personalbyten och
@@ -1085,7 +1085,7 @@ Barnperspektivet bör särskilt beaktas samt familjers möjlighet till avlastnin
 förändring i verksamheten kan bidra till en försämrad trygghet för barnen vilket kan leda till en lägre
 närvaro och vilja att nyttja beslut om korttidsvistelse på lägerverksamhet.
 
-6. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
+6\. Finns det andra faktorer som påverkar möjligheten att bemanna, såsom hög andel
 deltidsarbete, frånvaro, svårigheter att rekrytera eller dylikt?
 Lägerverksamheten bemannas idag av 7 månadsanställda medarbetare som verkar som arbetsledare
 under helgen. Övriga medarbetare är timanställda medarbetare som i regel arbetar en helg i
@@ -1098,7 +1098,7 @@ kön, samt en personalgrupp som känner barnen väl och ger trygghet under viste
 Idag har verksamheten en låg sjukfrånvaro, låg personalomsättning och inget övertidsarbete
 förkommer.
 
-7. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
+7\. Beskriv verksamhetens geografiska förutsättningar, till exempel om det rör sig om
 glesbygd med långa pendlingsavstånd eller dylikt?
 Begäran om beslut grundar sig inte i första hand på geografiska förutsättningar, men enheterna där
 
@@ -1109,12 +1109,12 @@ genomgång/ rapportering sedan åker man gemensamt med bussen ut till enheten oc
 arbetspassets slut på söndag eftermiddag tar man sig tillbaka till Stadshuset med bussen. De allra
 flesta av dagens medarbetare bor utanför Kungsbacka kommun och saknar bil och/eller körkort.
 
-8. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
+8\. Ange genomsnittlig andel aktivt arbete under jour för berörd/berörda
 yrkesgrupp/yrkesgrupper. Bifoga statistik om sådan finns att tillgå.
 
 Vi arbetar enligt AB Bilaga J och finns inga planerade insatser under jourtid.
 
-9. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
+9\. Beskriv förväntad utveckling och belastning på verksamheten under de kommande 12
 månaderna.
 Förväntad utveckling och belastning är oförändrad under perioden.
 Arbetsmiljö och arbetssituationen följs upp regelbundet och löpande på varje arbetsplatsträff för att
@@ -1124,7 +1124,7 @@ Dialog planeras med beslutsfattande myndighet för att beslut och verksamhetspla
 
 behovet hos barnet.
 
-10. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
+10\. Beskriv vilka åtgärder som har vidtagits för att arbetstid enligt AB eller tillämplig
 bilaga till AB ska kunna förläggas.
 Risk och konsekvensbedömning har gjorts för att identifiera och säkerställa behov utifrån
 barnperspektivet enligt Barnkonventionen, LSS och SoL samt utifrån Arbetsmiljölagen för att
@@ -1133,7 +1133,7 @@ Arbetstidsförläggning med 24h arbetspass inom funktionsstödsverksamhet är ti
 
 Bilaga J from 2024-04-01.
 
-11. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
+11\. Beskriv varför det krävs en dispens och utveckla varför arbetstid och jourtid, som
 sammantaget uppgår till 20 timmar, inte är tillräckligt för verksamheten. Beskriv
 också vilka konsekvenser en sådan schemaläggning skulle medföra för verksamheten.
 Se punkt 4 och 5.
@@ -1143,7 +1143,7 @@ detta kan visa sig genom hot och våld. Det kan även medföra en större risk f
 
 medicinhantering med större omsättning av personal under en vistelse.
 
-12. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
+12\. Ange för hur lång tidsperiod dispens krävs, och vad som ligger till grund för detta
 Tidsperioden för begärt beslut är 2025-07-01 till och med 2026-01-30, för att sedan ha samma
 tidsperiod som övriga beslut.
 
@@ -1187,18 +1187,18 @@ riskbedömning och handlingsplan görs.
 
 Använd checklistan så här:
 
-1. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
+1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
-2. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
+2\. Identifiera vilka risker för ohälsa och/eller olycksfall kan förändringen tänkas medföra? Glöm inte att även lyfta
 friskfaktorer!
 
-3. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
+3\. I kolumnen riskbedömning bedömer du sannolikhet att risken inträffar och vilken konsekvens det kan innebära.
 
-4. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
+4\. Om en risk ska åtgärdas klicka på skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig
 och datum för när åtgärden ska vara genomförd.
 
 -Tips!
-- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
+\- Alla åtgärder samlas under rubriken handlingsplan i menyraden.
 
 1/3
 2025-110
@@ -1247,9 +1247,9 @@ i verksamheten veckovis.
 |  | Identifiera riskkällor som ni tror uppstår efter genomförd förändring och bedöm om dessa kan leda till risker för ohälsa eller<br>olycksfall. Glöm inte att även lyfta friskfaktorer som förändringen kan medföra. Om en risk ska åtgärdas - klicka på<br>skiftnyckeln i kolumnen till höger, för att lägga till åtgärd, åtgärdsansvarig och datum. Klicka på pilen längst till vänster för att<br>lägga till en ny rad. |  |  |
 | 2.1 | Attraktiva arbetstider, längre pass vilket våra<br>medarbetare önskar, skapar en attraktiv arbetsplats<br>och låg personalomsättning bibehålls. Lättare att byta<br>arbetspass | 0 | Friskfaktor |
 | 2.2 |  | 0 |  |
-| 2.3 | Kortare arbetspass och fler personalbyten under<br>vistelsen innebär en arbetsmiljörisk för medarbetarna.<br>Det kan skapa oro och otrygghet för deltagare och visa<br>sig genom hot och våld. | 3*2<br>6 | Rapporteringstid mellan personalbyten utifrån<br>framtagna mallar är framtaget av medarbetarna<br>på enheten för att kunna arbeta så likt som<br>möjligt. |
-| 2.4 | Att personalbyten inte behöver ske vid kvälls eller natt<br>rutiner eller mitt i aktivitet.<br>Det skapar risk för oro hos deltagarna och det<br>inskränker på möjligheten till längre aktiviteter utanför<br>enheten vilket kan innebära en brist i verksamhetens<br>uppdrag. | 3*2<br>6 | Friskfaktor;<br>-Vid färre personalbyten minskar risken för oro,<br>hot och våld. Nu mera sker personalbytet på<br>dagen<br>Riskfaktor;<br>-Hot och våld, är minimerad efter ny tid för<br>personalbyte |
-| 2.5 | Det kan även medföra en större risk för händelser och<br>avvikelser i medicinhantering. | 4*3<br>12 |  |
+| 2.3 | Kortare arbetspass och fler personalbyten under<br>vistelsen innebär en arbetsmiljörisk för medarbetarna.<br>Det kan skapa oro och otrygghet för deltagare och visa<br>sig genom hot och våld. | 3\*2<br>6 | Rapporteringstid mellan personalbyten utifrån<br>framtagna mallar är framtaget av medarbetarna<br>på enheten för att kunna arbeta så likt som<br>möjligt. |
+| 2.4 | Att personalbyten inte behöver ske vid kvälls eller natt<br>rutiner eller mitt i aktivitet.<br>Det skapar risk för oro hos deltagarna och det<br>inskränker på möjligheten till längre aktiviteter utanför<br>enheten vilket kan innebära en brist i verksamhetens<br>uppdrag. | 3\*2<br>6 | Friskfaktor;<br>-Vid färre personalbyten minskar risken för oro,<br>hot och våld. Nu mera sker personalbytet på<br>dagen<br>Riskfaktor;<br>-Hot och våld, är minimerad efter ny tid för<br>personalbyte |
+| 2.5 | Det kan även medföra en större risk för händelser och<br>avvikelser i medicinhantering. | 4\*3<br>12 |  |
 
 [Tabell 29-2](handlingar.tabeller/29-2.csv)
 
@@ -1370,10 +1370,10 @@ Lars Klevensparr
 Förbundsdirektör
 
 Bifogade handlingar
--  Förbundsstyrelsens beslut 2025-03-12 § 31
--  Tjänsteutlåtande 2025-02-24 Underlag för budget 2026 och 2027-2028 för
+\-  Förbundsstyrelsens beslut 2025-03-12 § 31
+\-  Tjänsteutlåtande 2025-02-24 Underlag för budget 2026 och 2027-2028 för
 Räddningstjänstförbundet Storgöteborg
--  Budgetunderlag 2026 och plan 2027-2028
+\-  Budgetunderlag 2026 och plan 2027-2028
 
 <!-- sida 34 -->
 
@@ -1446,7 +1446,7 @@ Underlag för budget 2026 och plan 2027-2028 för
 
 Räddningstjänstförbundet Storgöteborg
 
-1.   Förslag till beslut
+1\.   Förslag till beslut
 •
 
 Förbundsstyrelsen godkänner Underlag till budget 2026 och
@@ -1459,7 +1459,7 @@ Förbundsstyrelsen överlämnar Underlag till budget 2026 och plan
 Förbundsstyrelsen överlämnar Underlag till budget 2026 och plan
 2027-2028 till Medlemssamrådet för information den 4 april 2025.
 
-2.   Sammanfattning   av ärendet
+2\.   Sammanfattning   av ärendet
 
 Handlingen utgör underlag för budget 2026 plan 2027-2028 och beskriver RSG:s
 verksamhet och ekonomi med hänsyn till förbundets uppdrag och förutsättningar samt
@@ -1481,10 +1481,10 @@ kommer därefter att sammanvägas i framtagandet av handlingen Förslag till Bud
 
 <!-- sida 37 -->
 
-3.   Ärendet
+3\.   Ärendet
 
 Budget 2026 och plan 2027-2028 utgår från att RSG uppnår en budget i balans för år
-2025. Förutsättningar för att så ska ske är ett pågående arbete med anpassningar där
+2025\. Förutsättningar för att så ska ske är ett pågående arbete med anpassningar där
 samtliga avdelningar gör en översyn inom en rad områden. Detta ska leda till åtgärder
 som får effekt på både kort och lång sikt. RSG har från och med 2025-02-01 en ny
 organisationsstruktur och förväntningarna är att den nya organiseringen ska leda till
@@ -1512,7 +1512,7 @@ Hänsyn har tagits i budget för att återställa eget kapital avseende undersko
 
 från tidigare år 2023 och 2024.
 
-4.   Samverkan
+4\.   Samverkan
 
 Information om budget lämnas i förbundsrådet efter sammanställning av inkomna
 beslut från medlemskommunerna, preliminärt den 28 augusti 2025.
@@ -1520,9 +1520,9 @@ beslut från medlemskommunerna, preliminärt den 28 augusti 2025.
 Lars Klevensparr           Marie Karlsson
 Förbundsdirektör           Handläggare
 
-5.   Bilagor
+5\.   Bilagor
 
-1. Budgetunderlag 2026 plan 2027-2028
+1\. Budgetunderlag 2026 plan 2027-2028
 
 2 (2)
 
@@ -1548,14 +1548,14 @@ Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
 Innehåll
 
-1. INLEDNING ................................................................................... 3
-2. BUDGETPROCESSEN ...................................................................... 3
+1\. INLEDNING ................................................................................... 3
+2\. BUDGETPROCESSEN ...................................................................... 3
 
-3. BUDGET 2026 OCH PLAN 2027-2028 ............................................. 4
+3\. BUDGET 2026 OCH PLAN 2027-2028 ............................................. 4
 
 3.1  Beslut om medlemsavgifter 2026 ........................................................ 5
 
-4. F ÖRUTSÄTTNINGAR FÖR VERKSAMHETEN .................................... 6
+4\. F ÖRUTSÄTTNINGAR FÖR VERKSAMHETEN .................................... 6
 4.1  Från brandkår till räddningstjänstmyndighet ...................................... 6
 
 4.2  Förbundsutökning ................................................................................ 6
@@ -1567,7 +1567,7 @@ Innehåll
 
 4.6  Omvärldsläget ...................................................................................... 8
 
-5. E KONOMI – EFFEKTIVISERINGAR OCH UTMANINGAR ................... 9
+5\. E KONOMI – EFFEKTIVISERINGAR OCH UTMANINGAR ................... 9
 5.1  Omorganisation 2025 ........................................................................... 9
 
 5.2  Anpassningar i ekonomin ................................................................... 10
@@ -1577,14 +1577,14 @@ Innehåll
 5.2  Lokalfrågor.......................................................................................... 10
 5.3  Investeringar ...................................................................................... 11
 
-6. R ESULTAT, EGET KAPITAL och PERSONAL ..................................... 12
+6\. R ESULTAT, EGET KAPITAL och PERSONAL ..................................... 12
 
 6.1  Resultat ............................................................................................... 13
 6.2  Eget kapital ......................................................................................... 13
 
 6.1  Personal - statistik och utveckling ...................................................... 14
 
-7. B ILAGOR ......................................................................................1 5
+7\. B ILAGOR ......................................................................................1 5
 
 7.1  Preliminär Resultatbudget 2026 och 2027-2028 ............................... 15
 7.2  Preliminär medlemsavgift per kommun 2026-2028 .......................... 16
@@ -1597,7 +1597,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             2(19)
 
 Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
-1. INLEDNING
+1\. INLEDNING
 
 Räddningstjänstförbundet Storgöteborg (RSG) är ett kommunalförbund med nio
 medlemskommuner; Göteborg, Mölndal, Kungsbacka, Härryda, Partille, Lerum,
@@ -1630,7 +1630,7 @@ för att kunna genomföra räddningsinsatser. I Handlingsprogrammet redovisas m�
 LSO-verksamheten
 Finansiering av räddningstjänstverksamheten sker genom medlemsavgifter och övriga
 intäkter.
-2. BUDGETPROCESSEN
+2\. BUDGETPROCESSEN
 underlag
 Sedan föregående år har RSG en ny budgetprocess där för budget
 verksamhetsår och planperiod, utarbetats under inledningen av året före den aktuella
@@ -1654,7 +1654,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             3(19)
 
 Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
-3. BUDGET 2026 OCH  PLAN 2027-2028
+3\. BUDGET 2026 OCH  PLAN 2027-2028
 
 Dokumentet beskriver framför allt verksamhetens grundläggande förutsättningar för
 att utföra sitt uppdrag samt faktorer med särskild ekonomisk påverkan. Till
@@ -1749,7 +1749,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                             5(19)
 
 Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
-4. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
+4\. FÖRUTSÄTTNINGAR   FÖR VERKSAMHETEN
 
 4.1 Från brandkår till räddningstjänstmyndighet
 
@@ -1957,7 +1957,7 @@ uttrycksmedel för negativa känslor och psykiskt mående. RSG:s arbete inom ram
 förhindra och begränsa antalet anlagda bränder och olyckor i och runt skolor samt att
 öka elevernas kunskap om att agera på rätt sätt vid brand och att förebygga brand.
 
-5. EKONOMI  – EFFEKTIVISERINGAR OCH  UTMANINGAR
+5\. EKONOMI  – EFFEKTIVISERINGAR OCH  UTMANINGAR
 
 5.1 Omorganisation 2025
 
@@ -2123,7 +2123,7 @@ verksamhet. Budget är beslutad med möjlighet att vid behov utnyttja delar av R
 egna kapital. Investeringarna medför både kostnader för avskrivningar och vissa
 engångsutgifter som krävs för att genomföra projektet och dess investeringar.
 
-6. RESULTAT, EGET KAPITAL och PERSONAL
+6\. RESULTAT, EGET KAPITAL och PERSONAL
 
 Det under senare år, allmänt svårare ekonomiska läget med stigande priser,
 löneökningar som överstiger uppräkning av medlemsavgifterna och ökat tryck på
@@ -2221,12 +2221,12 @@ Personalstatistik
 Uppgifter per 31/12
 2024  2023   2022  2021   2020
 Arbetad tid
-Antal årsarbetare*         798    797   725    722   728
+Antal årsarbetare\*         798    797   725    722   728
 Antal anställda per december
 
 Anställda per december inkl. RIB
 
-*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
+\*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
 t.ex. 100 % sysselsättningsgrad motsvarar 1,0 årsarbetare och 75 procent 0,75.
 Tabell 2 Personalstatistik
 
@@ -2262,7 +2262,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            14(19)
 
 Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
-7. BILAGOR
+7\. BILAGOR
 
 7.1 Preliminär Resultatbudget 2026 och 2027-2028
 Miljontal kronor         2024    2026  2027  2028
@@ -2383,7 +2383,7 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            16(19)
 Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader* 2025 2026 2027 2028
+Medlemsavgift för pensionskostnader\* 2025 2026 2027 2028
 Göteborgs kommun                 75 200 000 58 175 000 64 340 000 69 790 000
 Mölndals kommun                  7 047 000 5 451 000 6 029 000 6 540 000
 Kungsbacka kommun                10 412 000 8 055 000 8 909 000 9 663 000
@@ -2394,7 +2394,7 @@ Tjörns kommun                    2 209 000 1 709 000 1 890 000 2 050 000
 Stenungsunds kommun              5 586 000 4 321 000 4 779 000 5 184 000
 Lilla Edets kommun               2 548 000 1 971 000 2 180 000 2 364 000
 Summa                           116 862 000 90 405 000 99 984 000 108 454 000
-* 2025 enligt KPA Prognos 2024-08-20 och
+\* 2025 enligt KPA Prognos 2024-08-20 och
 2026-2027 enligt KPA Prognos 2024-12-09 inkl avsättning för SAP-R
 Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2025 2026 2027 2028
 Göteborgs kommun                484 027 917 480 085 410 499 751 543 519 134 713
@@ -2497,10 +2497,10 @@ Sammanfattning av ärendet
 
 Nämnden för Individ och Familjeomsorg ska ge förslag åt kommunstyrelsen att
 besluta om utdelning ur Arvid och Hildur Anderssons fond.
-* Till vård av sjuka och invalidiserade personer
+\* Till vård av sjuka och invalidiserade personer
 
-* Från Släps församling
-* För behov som icke kan tillgodoses av allmänna medel eller andra bidrag
+\* Från Släps församling
+\* För behov som icke kan tillgodoses av allmänna medel eller andra bidrag
 
 I år har enbart två ansökningar inkommit för utdelning av medel 2024 per sista
 ansökningsdatum 30 oktober, dessvärre uppfyller ingen av dem villkoret att vara från
@@ -2566,7 +2566,7 @@ Arvid och Hildur Andersson donationsfond - 2024
 Nämnden för Individ och Familjeomsorgs förslag till Kommunstyrelsen
 
 Kommunstyrelsen beslutar att ingen utdelning ur Arvid och Hildur Anderssons donationsfond görs för
-2024.
+2024\.
 
 Sammanfattning av ärendet
 

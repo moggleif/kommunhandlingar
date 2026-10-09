@@ -326,21 +326,21 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 Innehåll
 
-1. Sammanfattning ..................................................................................................................... 3
-2. Bakgrund och uppdrag ........................................................................................................ 3
-3. Metod och tillvägagångsätt ................................................................................................ 4
+1\. Sammanfattning ..................................................................................................................... 3
+2\. Bakgrund och uppdrag ........................................................................................................ 3
+3\. Metod och tillvägagångsätt ................................................................................................ 4
 
-4. Vad kan ett utvecklingscenter vara? ............................................................................... 5
-5. Aktörernas behov och möjligheter att bidra ................................................................. 5
+4\. Vad kan ett utvecklingscenter vara? ............................................................................... 5
+5\. Aktörernas behov och möjligheter att bidra ................................................................. 5
 
-6. Analys av Kungsbackas förutsättningar för etablering ............................................... 7
-7. Rekommendationer för etablering av ett utvecklingscenter i Kungsbacka .......... 8
+6\. Analys av Kungsbackas förutsättningar för etablering ............................................... 7
+7\. Rekommendationer för etablering av ett utvecklingscenter i Kungsbacka .......... 8
 
 Utvecklingscenter med näringslivet Sida 2 av 10
 
 <!-- sida 13 -->
 
-1. Sammanfattning
+1\. Sammanfattning
 
 Kommundirektören fick 2024-06-18 i uppdrag av Kommunstyrelsen att utreda möjligheten till
 etablering av ett utvecklingscenter som kan stärka kommunens näringsliv och invånare, attrahera
@@ -381,7 +381,7 @@ och förstärka det uppsökande och relationsbyggande arbetet med fokus på att 
 samarbetet med fler företag, men med en öppnare ingång än att målet ska vara att skapa ett
 utvecklingscenter.
 
-2. Bakgrund och uppdrag
+2\. Bakgrund och uppdrag
 Uppdrag från kommunstyrelsen KS-2024-00464 - Ett utvecklingscenter för innovation och
 utveckling av näringslivet i Kungsbacka
 
@@ -412,7 +412,7 @@ Mot bakgrund av ovan föreslår alliansen att:
 Kommundirektören får i uppdrag att utreda möjligheten till etablering av ett utvecklingscenter i
 kommunen. Utredningen ska belysa intressenter, placering och finansiering.”
 
-3. Metod och tillvägagångsätt
+3\. Metod och tillvägagångsätt
 
 Det har i uppdraget inte funnits några givna förutsättningar eller självklara aktörer/
 samarbetspartners. Tillvägagångsättet har därför varit utforskande, där kunskap och förståelse växt
@@ -450,7 +450,7 @@ Utvecklingscenter med näringslivet Sida 4 av 10
 
 <!-- sida 15 -->
 
-4. Vad kan ett utvecklingscenter vara?
+4\. Vad kan ett utvecklingscenter vara?
 
 Ett utvecklingscenter är en arena för strategisk samverkan mellan olika samhällssektorer i syfte att
 främja utveckling, nya innovationer, kompetensutveckling och forskning som en enskild aktör inte
@@ -491,7 +491,7 @@ Det är vanligt att ett utvecklingscenter fokuserar på ett par av ovan exempel 
 
 helhet utifrån intressenternas behov.
 
-5. Aktörers behov och möjligheter att bidra
+5\. Aktörers behov och möjligheter att bidra
 Förutsättningar för ett utvecklingscenter finns när aktörernas behov överlappar varandra och det
 finns vilja och gemensamt intresse av att bidra och skapa något tillsammans. Nedan ges exempel på
 behov och möjligheter att bidra som finns för olika aktörer.
@@ -590,7 +590,7 @@ engagemang kan de samla in viktiga data och identifiera utmaningar och möjlighe
 De kan bidra med att skapa tillit och engagemang för lokal utveckling genom att sprida kunskap om
 gemensamt arbete och projekt.
 
-6. Analys av Kungsbackas förutsättningar för etablering
+6\. Analys av Kungsbackas förutsättningar för etablering
 Kungsbacka kommun har ett strategiskt geografiskt läge, ett stabilt och växande näringsliv samt en
 kommunal verksamhet som ligger i framkant. Samtidigt saknas en tydlig behovsbild, ett naturligt
 spetsområde samt högskola/universitet på plats. Nedan följer en fördjupad analys av kommunens
@@ -651,7 +651,7 @@ näringslivet.
 Risk för kortsiktighet - att etablera ett utvecklingscenter är ett långsiktigt arbete där uthållighet,
 långsiktig finansiering och politisk vilja är avgörande faktorer.
 
-7. Rekommendationer  för etablering av ett utvecklingscenter i
+7\. Rekommendationer  för etablering av ett utvecklingscenter i
 Kungsbacka
 
 För att lyckas med etablering av ett utvecklingscenter krävs en stark förankring hos berörda aktörer,
@@ -1434,7 +1434,7 @@ framtida invånare och bidrar till kommunens långsiktiga välfärd och tillväx
 strategi som positionerar Kungsbacka som en framåtblickande och innovativ kommun.
 
 Mot bakgrund av ovan föreslår alliansen att:
--  Kommundirektören får i uppdrag att utreda möjligheten till etablering av ett
+\-  Kommundirektören får i uppdrag att utreda möjligheten till etablering av ett
 utvecklingscenter i kommunen. Utredningen ska belysa intressenter, placering och
 finansiering.
 
@@ -1599,7 +1599,7 @@ totala utbetalda beloppet fick uppgå till maximalt 1 000 000 kronor per år.
 Initiativet bifölls av kommunstyrelsen vid sammanträde 25 november 2025 och ett uppdrag lämnades
 till kommunstyrelsens förvaltning att utreda och föreslå en modell för premie till jägare för fällda
 vildsvin samt förslag till finansiering och genomförande för en testperiod på två år med start under
-2026.
+2026\.
 
 Kommunstyrelsens förvaltnings bedömning
 Kommunstyrelsens förvaltning har utrett en modell för viltpremie inriktad på vildsvin med fokus på att
@@ -1954,12 +1954,12 @@ kassering respektive förädling.
 7.1 Grundvillkor
 
 Följande villkor ska vara uppfyllda för att premie ska utbetalas:
--  Jägaren ska ha rätt att jaga på marken där djuret fällts.
+\-  Jägaren ska ha rätt att jaga på marken där djuret fällts.
 
--  Djuret ska vara fällt inom Kungsbacka kommun.
--  Jägaren ska ha jägarexamen och jaktkort.
--  Sammanlagd utbetald premie kan maximalt uppgå till 50 000 kronor per person och år.
--  Kontot till vilket premien ska utbetalas ska vara registrerat i Sverige.
+\-  Djuret ska vara fällt inom Kungsbacka kommun.
+\-  Jägaren ska ha jägarexamen och jaktkort.
+\-  Sammanlagd utbetald premie kan maximalt uppgå till 50 000 kronor per person och år.
+\-  Kontot till vilket premien ska utbetalas ska vara registrerat i Sverige.
 
 Kungsbacka kommun   Kommunal viltpremie i Kungsbacka kommun     7
 
@@ -1967,13 +1967,13 @@ Kungsbacka kommun   Kommunal viltpremie i Kungsbacka kommun     7
 
 7.2 Skjutning
 I samband med skjutning av vildsvin gäller följande:
--  Skjutning av vildsvin ska ske i enlighet med Jägareförbundets etiska riktlinjer. Kommunen
+\-  Skjutning av vildsvin ska ske i enlighet med Jägareförbundets etiska riktlinjer. Kommunen
 förbehåller sig rätten att neka utbetalning till skjutningar som orsakat uppenbart onödigt
 lidande.
--  Djuret ska vara sotat och urtaget (mage och tarmar) vid leverans till
+\-  Djuret ska vara sotat och urtaget (mage och tarmar) vid leverans till
 vilthanteringsanläggning.
 
--  Röda organ kan tas ut och kasseras av behörig viltundersökare. Om djuret lämnas in av
+\-  Röda organ kan tas ut och kasseras av behörig viltundersökare. Om djuret lämnas in av
 någon annan än den som gjort urtagningen behövs ett skriftligt intyg för att styrka att
 urtagningen gjorts av behörig viltundersökare. I annat fall ska röda organ tas ur och lämnas
 till vilthanteringsanläggningen för veterinärbesiktning.
@@ -2146,40 +2146,40 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 <!-- sida 52 -->
 
 Innehåll
-1. Grunderna för den kommunala verksamheten .......................................... 3
-2. Den allmänna kommunala kompetensen .................................................. 3
+1\. Grunderna för den kommunala verksamheten .......................................... 3
+2\. Den allmänna kommunala kompetensen .................................................. 3
 
 2.1.  Förändringar av den allmänna kompetensen ........................................................... 3
 2.2.  Angelägenheter för staten, kommuner och regioner................................................. 3
 2.3.  Möjligheten att bedriva näringslivsverksamhet ......................................................... 4
 
 2.4.  Förbud mot understöd till enskilda ........................................................................... 4
-3. Ansvaret för naturvård och friluftsliv .......................................................... 4
+3\. Ansvaret för naturvård och friluftsliv .......................................................... 4
 
-4. Ansvaret för viltförvaltningen..................................................................... 5
+4\. Ansvaret för viltförvaltningen..................................................................... 5
 1  Viltet och skyddet för dessa arter .............................................................. 5
 4.1.  Jaktlagstiftningen ..................................................................................................... 5
 
 4.2.  Allmän jakt, licensjakt och skyddsjakt....................................................................... 5
 4.3.  Rätten att jaga ......................................................................................................... 6
-5. Aktörer inom viltförvaltningen.................................................................... 6
+5\. Aktörer inom viltförvaltningen.................................................................... 6
 
 5.1.  Naturvårdsverket ..................................................................................................... 6
 5.2.  Länsstyrelserna ....................................................................................................... 6
 
 5.3.  Övriga aktörer .......................................................................................................... 7
-6. Jakträtt och skottpengar på vilt ................................................................. 7
+6\. Jakträtt och skottpengar på vilt ................................................................. 7
 6.1.  Jakträtten i Sverige .................................................................................................. 7
 
 6.2.  Premier för fällda vilt ................................................................................................ 7
-7. Möjlighet för en kommun att införa premie till jägare för fällda vildsvin ...... 8
+7\. Möjlighet för en kommun att införa premie till jägare för fällda vildsvin ...... 8
 
 Kungsbacka kommun Möjlighet för en kommun att införa premie till jägare för fällda 2
 vildsvin
 
 <!-- sida 53 -->
 
-1. Grunderna för den kommunala verksamheten
+1\. Grunderna för den kommunala verksamheten
 Sveriges kommuner har som grundläggande uppdrag att, på demokratins och den kommunala
 självstyrelsens grund, sköta de angelägenheter som anges i kommunallagen eller annan författning.1
 
@@ -2198,7 +2198,7 @@ reglering som kallas den allmänna kompetensen. Lagrummet klargör att:
 
 Kommuner och regioner får själva ha hand om angelägenheter av allmänt intresse som
 har anknytning till kommunens eller regionens område eller deras medlemmar.
-2. Den allmänna kommunala kompetensen
+2\. Den allmänna kommunala kompetensen
 
 Regleringen om den allmänna kompetensen är bred, och kompetensfrågan ska enligt förarbetena
 bedömas utifrån principerna att det ska finnas ett allmänintresse och att åtgärden ska vara lämplig,
@@ -2273,7 +2273,7 @@ inte som en ”angelägenhet av allmänt intresse”.10 Ett exempel på ett såd
 socialtjänstlagens (2025:400) reglering om att ge ekonomiskt bistånd till enskild som inte själv kan
 tillgodose sina ekonomiska behov och inte heller kan få dem tillgodosedda på annat sätt.11
 
-3. Ansvaret för naturvård och friluftsliv
+3\. Ansvaret för naturvård och friluftsliv
 I den numera upphävda naturvårdslagen (1964:822) fanns en deklaration om att naturvården är en
 såväl statlig som kommunal angelägenhet. Miljöbalken innehåller inte någon motsvarande
 deklaration men ger i fråga om natur- och kulturmiljövård kommunerna en viktigare roll än tidigare,
@@ -2296,7 +2296,7 @@ vildsvin
 
 <!-- sida 55 -->
 
-4. Ansvaret för viltförvaltningen
+4\. Ansvaret för viltförvaltningen
 1 Viltet och skyddet för dessa arter
 
 Med vilt avses i jaktlagen (1987:259) vilda däggdjur och fåglar. I Sverige finns drygt 300 sådana
@@ -2368,7 +2368,7 @@ För att få jaga behövs ett statligt jaktkort som vilket kräver att en årlig
 betalas. Det krävs också godkänd jägarexamen för att få tillstånd från Polismyndigheten att inneha
 
 jaktvapen. Jakten ska genomföras på ett säkert sätt och viltet ska inte utsättas för onödigt lidande.17
-5. Aktörer inom viltförvaltningen
+5\. Aktörer inom viltförvaltningen
 
 Ansvaret för viltförvaltningen i Sverige delas mellan flertalet olika aktörer. Många av dessa aktörer
 återfinns inom statens hägn.
@@ -2444,7 +2444,7 @@ kommunala skyddsjägarna som bland annat kan bedriva jakt på kommunal mark enli
 jakttiderna (om inte jakträtten är utarrenderad), avliva skadade djur och hjälpa till med infångande
 och förflyttning av mindre vilt som gör skada, till exempel grävlingar.
 
-6. Jakträtt och skottpengar på vilt
+6\. Jakträtt och skottpengar på vilt
 6.1. Jakträtten i Sverige
 Jakträtten har sedan urminnes tider varit förenad med markägandet. I mitten av 1500-talet tog dock
 kungamakten och de frälse ett allt större inflytande över jakträtten. Från och med 1664 fick
@@ -2496,7 +2496,7 @@ ersättning för fällda sälar. Stödet syftar till en anpassad sälförvaltnin
 påverkan på fiske och vattenbruk. Ersättningen lämnas för hanteringskostnader av sälar som fällts
 vid skyddsjakt och licensjakt och omfattar 100 procent av utgifterna för hanteringen av sälarna.
 
-7. Möjlighet för en kommun att införa premie till jägare för fällda vildsvin
+7\. Möjlighet för en kommun att införa premie till jägare för fällda vildsvin
 Även om det historiskt sett, och i dagsläget, framför allt är statliga aktörer som erbjuder ersättning
 
 för vilt inom olika projekt finns det inget i jaktlagen, jaktförordningen, myndighetsinstruktioner,
@@ -2600,7 +2600,7 @@ Förslag till beslut:
 
 Att Kommunstyrelsen uppdrar åt förvaltningen att:
 
-1. Utreda och föreslå en modell för premie till jägare om 1 000 kronor per fällt vildsvin,
+1\. Utreda och föreslå en modell för premie till jägare om 1 000 kronor per fällt vildsvin,
 max 50000 kronor per person och år
 
 2.Redovisa förslag till finansiering och genomförande för en 2-års testperiod med start
@@ -2981,7 +2981,7 @@ Sign
 
 9.3
 
-10.
+10\.
 
 10.1
 
@@ -2989,7 +2989,7 @@ Sign
 
 10.3
 
-11.
+11\.
 
 4/7
 
@@ -3048,29 +3048,29 @@ Sign
 
 <!-- sida 70 -->
 
-12.
+12\.
 
 12.1
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 14.1
 
 14.2
 
-15.
+15\.
 
 15.1
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 17.1
 
@@ -3131,12 +3131,12 @@ Exploatören är vidare skyldig att skriftligen meddela Kommunen vid eventuell
 
 6/7
 
-18. Avtalets giltighet
+18\. Avtalets giltighet
 
 18.1 — Avtalet är giltigt under förutsättning att det godkänns av kommunstyrelsen i
 Kungsbacka kommun genom beslut som får laga kraft.
 
-19. Tvist
+19\. Tvist
 
 19.1 — Tvist i anledning av Avtalet ska avgöras av allmän domstol.
 
@@ -3216,7 +3216,7 @@ STYRELSESUPPLEANTER
 
 REVISOR (ER)
 
-1.
+1\.
 
 Anders Emil,
 
@@ -3541,7 +3541,7 @@ Bakgrund och syfte
 Dotterbolag (WK Norra Åsa AB, 559404-4686) till Bolaget har den 31 mars
 2022 inkommit till samhällsbyggnadskontoret med en begäran om planbesked
 för fastigheten Åsa 3:339. Byggnadsnämndens arbetsutskott beslutade den 1
-december 2023 $318 att ge samhällsbyggnadskontoret i uppdrag att upprätta
+december 2023 \$318 att ge samhällsbyggnadskontoret i uppdrag att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339,
 Detaljplanen.
 
@@ -3553,8 +3553,8 @@ Kläppavägen, ska istället ingå i planområdet, Detaljplanen, för att skapa 
 ändamålsenlig planering.
 
 Reviderad projektbeställning för Detaljplanen, godkändes av Kommunstyrelsen
-den 25 november 2025 $233 och nytt beslut om planuppdrag har fattats av
-Byggnadsnämndens arbetsutskott den 15 december 2025 $ 259, att upprätta
+den 25 november 2025 \$233 och nytt beslut om planuppdrag har fattats av
+Byggnadsnämndens arbetsutskott den 15 december 2025 \$ 259, att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339 och del av
 Åsa 5:246 i Åsa, Detaljplanen.
 
@@ -3591,7 +3591,7 @@ parallellt med Avtalet. "
 
 3.4.3
 
-26)
+26\)
 
 Detaljplan
 
@@ -3719,7 +3719,7 @@ detta fall för sina respektive nedlagda kostnader enligt Avtalet, utan
 
 9.1
 
-10.
+10\.
 
 10.1
 
@@ -3795,7 +3795,7 @@ Bilaga 1: Området
 Bilaga 1: Området
 
 : A+
-> vn At
+\> vn At
 
 arkanvisning av del av Åsa
 
@@ -3836,7 +3836,7 @@ Uppdrag, politiska beslut, syfte, m.m.
 
 Bolaget har den 31 mars 2022 inkommit till samhällsbyggnadskontoret med en
 begäran om planbesked för fastigheten Åsa 3:339. Byggnadsnämndens
-arbetsutskott beslutade den I december 2023 $318 att ge
+arbetsutskott beslutade den I december 2023 \$318 att ge
 samhällsbyggnadskontoret i uppdrag att upprätta förslag till detaljplan för
 bostäder och verksamheter inom Åsa 3:339, Detaljplanen.
 
@@ -3848,8 +3848,8 @@ ingå i planområdet för Detaljplanen, för att skapa en mer ändamålsenlig
 planering.
 
 Reviderad projektbeställning för Detaljplanen, godkändes av Kommunstyrelsen
-den 25 november 2025 $233 och nytt beslut om planuppdrag har fattats av
-Byggnadsnämndens arbetsutskott den 15 december 2025 $ 259, att upprätta
+den 25 november 2025 \$233 och nytt beslut om planuppdrag har fattats av
+Byggnadsnämndens arbetsutskott den 15 december 2025 \$ 259, att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339 och del av
 Åsa 5:246 i Åsa, Detaljplanen.
 
@@ -4087,26 +4087,26 @@ Sign
 
 Principavtal Åsa 3:339 och del av Åsa 5:246 5/8
 
-10.
+10\.
 10.1
 
 10.2
 
-11.
+11\.
 
 11.2
 
 LL3
 
-12.
+12\.
 
 12.1
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 14.1
 
@@ -4173,13 +4173,13 @@ Sign
 
 Principavtal Åsa 3:339 och del av Åsa 5:246 6/8
 
-15.
+15\.
 
 15.1
 
 15.2
 
-16.
+16\.
 
 16.1
 
@@ -4189,7 +4189,7 @@ Principavtal Åsa 3:339 och del av Åsa 5:246 6/8
 
 17.1
 
-18.
+18\.
 
 18.1
 
@@ -4595,16 +4595,16 @@ Detaljplanen följer kommunens översiktsplan och fördjupad översiktsplan för
 med standardförfarande.
 
 Projektet kommer ha följande leveranser:
-1. Projektbeställning   SBK/KS
+1\. Projektbeställning   SBK/KS
 
-2. Projektplan          Forum för verksamhetschefer
-3. Plankostnadsavtal    SBK
+2\. Projektplan          Forum för verksamhetschefer
+3\. Plankostnadsavtal    SBK
 
-4. Principavtal         KS
-5. Samrådshandlingar    BN
+4\. Principavtal         KS
+5\. Samrådshandlingar    BN
 
-6. Granskningshandlingar BN
-7. Antagandehandlingar  BN
+6\. Granskningshandlingar BN
+7\. Antagandehandlingar  BN
 
 BERÖRINGSPUNKTER
 Detaljplanen ligger intill planområdet för detaljplan för Åsa 5:246. Inom Åsa 5:246 ska en damm
@@ -4895,11 +4895,11 @@ Göteborg, nedan kallad Exploatören
 
 Kommunen och Exploatören kallas gemensamt Parterna
 A. - BAKGRUND OCH FÖRUTSÄTTNINGAR
-1. Uppdrag, politiska beslut med mera
+1\. Uppdrag, politiska beslut med mera
 
 1.1 Samhällsbyggnadskontoret har fått i uppdrag att upprätta förslag till ”Detaljplan för
 bostäder inom Skörvalla 1:116 i Särö, Kungsbacka kommun”, nedan kallad
-Detaljplanen, genom beslut i Byggnadsnämndens arbetsutskott 2024-05-23 $ 137.
+Detaljplanen, genom beslut i Byggnadsnämndens arbetsutskott 2024-05-23 \$ 137.
 
 1.2 Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt för samråd
 mellan 2026-08-21 och 2025-09-30. Granskning genomfördes mellan 2026-02-17 och
@@ -4912,7 +4912,7 @@ med svart linje på karta, bilaga A, Exploateringsområdet.
 Exploateringsområdet utgörs av:
 
 a) Detaljplanens planområde, Planområdet.
-3. Syfte, innehåll och förutsättningar
+3\. Syfte, innehåll och förutsättningar
 
 Ja Avtalet reglerar exploateringen inom Planområdet och genomförandet av åtgärderna
 inom Exploateringsområdet.
@@ -4930,7 +4930,7 @@ b) Mark för samvaro, rekreation och dagvattenhantering.
 
 4.1
 
-|
+\|
 
 6.1
 
@@ -5065,7 +5065,7 @@ Sign.
 
 <!-- sida 108 -->
 
-10.
+10\.
 
 10.1
 
@@ -5164,12 +5164,12 @@ funktionshinder ska lätt kunna orientera sig samt enkelt, självständigt och u
 sig fram till och inom områdena. Markbeläggning, belysning, väghållning och
 skyltning ska underlätta framkomligheten.
 
-11. Dagvatten
+11\. Dagvatten
 
 11.1 - Dagvattenhantering inom Exploateringsområdet ska utföras som ett enskilt
 dagvattensystem där Exploatören ansvarar för projektering, funktion, drift och
 underhåll av anläggningarna. Särskilda bestämmelser om dagvattendamm inom allmän
-platsmark (PARK) framgår av $ 15.1.
+platsmark (PARK) framgår av \$ 15.1.
 
 11.2 — Exploatören är skyldig att vidta erforderliga åtgärder för avledning av vatten från
 Exploateringsområdet så att skada eller olägenhet inte uppstår på angränsande
@@ -5191,15 +5191,15 @@ renas i enlighet med de principer, tekniska lösningar och den dimensionerande
 kapacitet som redovisas i den till Detaljplanen hörande dagvattenutredningen samt
 med beaktande av de förutsättningar och bedömningar som kan komma att
 aktualiseras i samband med bygglov, marklov eller andra erforderliga tillstånd och
-beslut. Bestämmelser om utförande av dagvattendamm framgår av $ 15.1.
+beslut. Bestämmelser om utförande av dagvattendamm framgår av \$ 15.1.
 
 Sign.
 
 <!-- sida 110 -->
 
-12.
+12\.
 
-13.
+13\.
 
 13.1
 
@@ -5217,7 +5217,7 @@ Sign.
 
 13.8
 
-14.
+14\.
 
 14.1
 
@@ -5288,7 +5288,7 @@ Sign.
 
 14.5
 
-15.
+15\.
 
 IS
 
@@ -5363,25 +5363,25 @@ Sign
 
 15.4.2
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 
 17.1
 
 17.2
 
-18.
+18\.
 
 18.1
 
-19.
+19\.
 
 19.1
 
-20.
+20\.
 
 20.1
 
@@ -5440,25 +5440,25 @@ Sign.
 
 <!-- sida 113 -->
 
-21.
+21\.
 
 21.1
 
-22.
+22\.
 
 22.1
 
-23.
+23\.
 
 23.1
 
 23.2
 
-24.
+24\.
 
 24.1
 
-25.
+25\.
 
 25.1
 
@@ -5521,7 +5521,7 @@ Sign.
 
 <!-- sida 114 -->
 
-20.
+20\.
 
 26.1
 
@@ -5535,7 +5535,7 @@ Za
 
 21.3
 
-28.
+28\.
 
 28.1
 
@@ -5543,9 +5543,9 @@ Za
 
 28.3
 
-29.
+29\.
 
-30.
+30\.
 
 30.1
 
@@ -5613,11 +5613,11 @@ Sign.
 
 30.4
 
-31.
+31\.
 
 31.2
 
-32.
+32\.
 
 32.1
 
@@ -8056,7 +8056,7 @@ centrum och till stationen.
 2.2    Tidigare utredningar
 Framförallt två tidigare utredningar är av betydelse och beskrivs nedan: Övergripande
 trafikutredning Åsa (ÅF Infrastructure AB, 2017) och Planstudie Åsaberg (Norconsult,
-2016)
+2016\)
 
 2.2.1  Övergripande trafikutredning Åsa
 En övergripande trafikutredning för Åsa som syftar till att belysa problem och föreslå
@@ -8489,11 +8489,11 @@ Idrottshallskoncept.............................................................
 Planerings- och byggprocessen ..........................................................................................................6
 Studerade alternativ .............................................................................................................................. 7
 
-1. Kapareskolan ............................................................................................................................................. 8
-2. Fjordskolan ................................................................................................................................................. 9
-3. Presseskolan ............................................................................................................................................. 10
+1\. Kapareskolan ............................................................................................................................................. 8
+2\. Fjordskolan ................................................................................................................................................. 9
+3\. Presseskolan ............................................................................................................................................. 10
 
-4. Iseråsskolan ............................................................................................................................................... 11
+4\. Iseråsskolan ............................................................................................................................................... 11
 Rekommendation ................................................................................................................................. 12
 
 Konsekvenser ........................................................................................................................................ 12
@@ -8626,7 +8626,7 @@ Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 7 av 14
 
 <!-- sida 220 -->
 
-1. Kapareskolan
+1\. Kapareskolan
 
 •  Kapareskolan har elver i åk 7-9 och ligger centralt i Onsala.
 •  Skolan ligger inom centrumnära område enligt översiktsplanen.
@@ -8670,7 +8670,7 @@ Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 8 av 14
 
 <!-- sida 221 -->
 
-2. Fjordskolan
+2\. Fjordskolan
 
 •  Fjordskolan har elver i åk F-6 och ligger i yttre delen av utecklingsorten Onsala.
 •  Vid skolan finns en mindre idrottshall som nyttjas av skolan och till viss del av föreningslivet.
@@ -8705,12 +8705,12 @@ Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 9 av 14
 
 <!-- sida 222 -->
 
-3. Presseskolan
+3\. Presseskolan
 
 •  Presseskolan har elver i åk F-6 och ligger i yttre delen av utecklingsorten Onsala.
 •  Vid skolan finns en fullmåttshall med en fällbar läktare som nyttjas av skolan och föreningslivet.
 •  Skoltomten ligger inom fastigheten Bäcken 1:11 och berörs av detaljplan OP171, laga kraft 2001-10-
-30. Genomförandetiden har gått ut.
+30\. Genomförandetiden har gått ut.
 
 Figur 12 och 13: Förslag på lokalisering A inom skoltomten. Detaljplaner för skola inom Bäcken 1:11 (OP171).
 
@@ -8736,7 +8736,7 @@ Lokaliseringsutrednin g - Ny idrottshall i Onsala Sida 10 av 14
 
 <!-- sida 223 -->
 
-4. Iseråsskolan
+4\. Iseråsskolan
 
 •  Iseråsskolan har elver i åk F-6 och ligger i yttre delen av utecklingsorten Onsala.
 •  Vid skolan finns en mindre idrottshall som nyttjas av skolan och till viss del föreningslivet.
@@ -9210,7 +9210,7 @@ Begära     planbesked
 
 Ärendenummer: #269118 | Inskickat av: JULIA MAGNUSSON | 2026-03-18 15:24
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -9246,7 +9246,7 @@ Postort                           Telefon
 Askim                             0722181020
 
 E-postadress                      Eventuell fakturareferens
--                                 -
+\-                                 -
 
 Företagets kontaktperson
 
@@ -9254,7 +9254,7 @@ Förnamn                           Efternamn
 
 Telefon                           E-postadress
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -9279,7 +9279,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -10304,7 +10304,7 @@ Begära     planbesked
 
 Ärendenummer: #267191 | Inskickat av:          | 2026-03-11 16:26
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -10319,7 +10319,7 @@ Personnummer
 Förnamn                           Efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -10343,7 +10343,7 @@ Ja
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -10355,7 +10355,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -10915,22 +10915,22 @@ vattenområden (7 kap. 5 § miljöbalken)
 
 Inom naturreservatet är det förbjudet att göra följande:
 
-1. uppföra byggnad, anordning eller anläggning,
+1\. uppföra byggnad, anordning eller anläggning,
 
-2. uppföra mast eller antenn samt anlägga luft- eller markledning,
-3. anlägga väg,
+2\. uppföra mast eller antenn samt anlägga luft- eller markledning,
+3\. anlägga väg,
 
-4. borra, spränga, schakta, gräva, markbearbeta eller bedriva täkt,
+4\. borra, spränga, schakta, gräva, markbearbeta eller bedriva täkt,
 
-5. dika, dämma, dikesrensa eller utföra annan åtgärd som kan påverka områdets
+5\. dika, dämma, dikesrensa eller utföra annan åtgärd som kan påverka områdets
 hydrologi. Med Länsstyrelsens tillstånd är det dock tillåtet att underhålla dike
 enligt bestämmelserna i 11 kap. 17 § miljöbalken under förutsättning att diket är
 lagligt anlagt,
 
-6. anordna upplag, tippa eller fylla ut,
-7. kalka, gödsla eller sprida bekämpningsmedel,
+6\. anordna upplag, tippa eller fylla ut,
+7\. kalka, gödsla eller sprida bekämpningsmedel,
 
-8. avverka, gallra, röja, föryngra skog eller på annat sätt påverka vegetationen,
+8\. avverka, gallra, röja, föryngra skog eller på annat sätt påverka vegetationen,
 
 <!-- sida 316 -->
 
@@ -10938,21 +10938,21 @@ LÄNSSTYRELSEN             Förslag till beslut      4 (12)
 
 2026-04-27         511-6648-2011
 
-9. ta bort eller upparbeta dött träd, vindfälle eller döda grövre grenar,
+9\. ta bort eller upparbeta dött träd, vindfälle eller döda grövre grenar,
 
-10. framföra motordrivet fordon.
+10\. framföra motordrivet fordon.
 
 Utan Länsstyrelsens tillstånd är det också förbjudet att göra följande
 
-11. sätta upp tavla, affisch, skylt eller göra inskrift,
-12. anordna lägerverksamhet, tävlingar eller andra arrangemang,
+11\. sätta upp tavla, affisch, skylt eller göra inskrift,
+12\. anordna lägerverksamhet, tävlingar eller andra arrangemang,
 
-13. uppföra jakttorn,
+13\. uppföra jakttorn,
 
-14. utfodra vilt eller använda åtel,
+14\. utfodra vilt eller använda åtel,
 
-15. inplantera för området främmande arter samt att
-16. utföra undersökningar som innebär markering i träd eller sten, borrning i träd,
+15\. inplantera för området främmande arter samt att
+16\. utföra undersökningar som innebär markering i träd eller sten, borrning i träd,
 fångst med dödande fällor eller annan påverkan på naturmiljön. Kravet på
 tillstånd gäller inte vid fångst och dödande av enstaka exemplar av
 ryggradslösa djur under förutsättning att det görs manuellt genom plockning,
@@ -10967,9 +10967,9 @@ de åtgärder som behövs för att tillgodose syftet med naturreservatet och som
 framgår av föreskrifterna B 1-7,
 b) underhåll av väg och led som markerats på karta 1 under förutsättning att:
 
-- inget material tillförs området som kan innehålla främmande arter eller
+\- inget material tillförs området som kan innehålla främmande arter eller
 förorenande ämnen,
-- överskottsmassor och överblivet material forslas ut ur naturreservatet,
+\- överskottsmassor och överblivet material forslas ut ur naturreservatet,
 
 c) akuta reperationsåtgärder på ledningar. Undantaget omfattar inte
 förebyggande röjning av ledningsgator, planerat byte, flytt av ledningar eller
@@ -10979,13 +10979,13 @@ så fort som möjligt,
 
 d) underhåll av ledningar inklusive ledningsgator under förutsättning att:
 
-- markskador minimeras och eventuellt uppkomna skador repareras,
-- inget material tillförs området som kan innehålla för området främmande
+\- markskador minimeras och eventuellt uppkomna skador repareras,
+\- inget material tillförs området som kan innehålla för området främmande
 arter eller förorenande ämnen,
-- överskottsmassor och överblivet material forslas ut ur naturreservatet,
-- åtgärder genomförs under perioden 1 september – 31 mars (såvida
+\- överskottsmassor och överblivet material forslas ut ur naturreservatet,
+\- åtgärder genomförs under perioden 1 september – 31 mars (såvida
 åtgärden inte är akut),
-- en, hassel, nypon, slån, apel och hagtorn ska sparas om de inte utgör
+\- en, hassel, nypon, slån, apel och hagtorn ska sparas om de inte utgör
 hinder för elsäkerheten eller ledningsunderhåll,
 
 <!-- sida 317 -->
@@ -10994,7 +10994,7 @@ LÄNSSTYRELSEN             Förslag till beslut      5 (12)
 
 2026-04-27         511-6648-2011
 
-- framkomligheten på stigar inte har försämrats när arbetet avslutats,
+\- framkomligheten på stigar inte har försämrats när arbetet avslutats,
 
 e) jakträttsinnehavare att använda motordrivet fordon för uttransport av älg,
 hjort och vildsvin i enlighet med 1 § terrängkörningsförordningen (1978:594),
@@ -11017,12 +11017,12 @@ naturreservatet (7 kap. 6 § miljöbalken)
 
 Fastighetsägare och innehavare av särskild rätt ska tåla följande åtgärder:
 
-1. utmärkning av naturreservatets gräns, enligt Naturvårdsverkets anvisningar,
+1\. utmärkning av naturreservatets gräns, enligt Naturvårdsverkets anvisningar,
 
-2. anläggning och underhåll av friluftsanordningar, exempelvis markerade stigar
+2\. anläggning och underhåll av friluftsanordningar, exempelvis markerade stigar
 och informationsskyltar,
 
-3. naturvårdande skötsel av skog, som exempelvis:
+3\. naturvårdande skötsel av skog, som exempelvis:
 a. fällning, röjning, ringbarkning av all gran,
 
 b. fällning, röjning, ringbarkning av bok när de riskerar att hota naturvärden
@@ -11032,15 +11032,15 @@ c. veteranisering, skapande av högstubbar, lågor och hålträd,
 
 d. sådd och plantering av ek, alm, ask, lind och skogslönn och användande av
 stängsel och hägn som skydd för plantor,
-4. uppläggning av död ved i faunadepåer, samt anläggning av mulmholkar,
+4\. uppläggning av död ved i faunadepåer, samt anläggning av mulmholkar,
 ekoxekomposter och liknande konstruktioner för att gynna skyddsvärda arter,
 
-5. bekämpning av främmande arter,
+5\. bekämpning av främmande arter,
 
-6. utsättning av hotade arter där utsättningar krävs för att stärka artens möjlighet
+6\. utsättning av hotade arter där utsättningar krävs för att stärka artens möjlighet
 till långsiktig överlevnad i länet samt,
 
-7. undersökningar och dokumentation av friluftsliv, mark, vatten samt växt-,
+7\. undersökningar och dokumentation av friluftsliv, mark, vatten samt växt-,
 svamp- och djurliv.
 
 C. Ordningsföreskrifter om rätten att färdas och vistas inom
@@ -11051,13 +11051,13 @@ miljöbalken m.m.)
 
 Inom naturreservatet är det förbjudet att göra följande:
 
-1. skada levande eller döda träd, buskar och grenar,
-2. skada, plocka eller samla in mossor, lavar eller svampar annat än enstaka
+1\. skada levande eller döda träd, buskar och grenar,
+2\. skada, plocka eller samla in mossor, lavar eller svampar annat än enstaka
 
 exemplar. Plocka matsvamp är dock tillåtet,
-3. elda annat än på anvisad plats,
+3\. elda annat än på anvisad plats,
 
-4. sätta upp tavla, affisch, skylt, snitsel eller göra inskrift,
+4\. sätta upp tavla, affisch, skylt, snitsel eller göra inskrift,
 
 <!-- sida 319 -->
 
@@ -11065,15 +11065,15 @@ LÄNSSTYRELSEN             Förslag till beslut      7 (12)
 
 2026-04-27         511-6648-2011
 
-5. inplantera för området främmande arter,
+5\. inplantera för området främmande arter,
 
-6. dumpa trädgårdsavfall,
-7. uppföra någon form av anläggning,
+6\. dumpa trädgårdsavfall,
+7\. uppföra någon form av anläggning,
 
 Utan Länsstyrelsens tillstånd är det också förbjudet att göra följande:
-8. anordna lägerverksamhet, tävlingar eller andra arrangemang,
+8\. anordna lägerverksamhet, tävlingar eller andra arrangemang,
 
-9. utföra undersökningar som innebär markering i träd eller sten, borrning i träd,
+9\. utföra undersökningar som innebär markering i träd eller sten, borrning i träd,
 fångst med dödande fällor eller annan påverkan på naturmiljön. Kravet på
 tillstånd gäller inte vid fångst och dödande av enstaka exemplar av
 ryggradslösa djur under förutsättning att det görs manuellt genom plockning,
@@ -11396,12 +11396,12 @@ hjälp för förvaltaren har därför en prioritering av åtgärderna gjorts.
 
 Innehåll
 
-1. BESKRIVNING AV NATURRESERVATET ........................................................................................ 5
+1\. BESKRIVNING AV NATURRESERVATET ........................................................................................ 5
 
 1.1 Allmän beskrivning ...................................................................................................................... 5
 1.2 Bevarandevärden ........................................................................................................................ 7
 
-2. SKÖTSEL AV OMRÅDET ................................................................................................................. 8
+2\. SKÖTSEL AV OMRÅDET ................................................................................................................. 8
 2.1. Generella riktlinjer ...................................................................................................................... 8
 
 2.2 Skötselområden ........................................................................................................................... 9
@@ -11416,7 +11416,7 @@ Skötselområde 4: Sjö och exploaterad mark – Ingen åtgärd ................
 2.4 Tillsyn, dokumentation och uppföljning ................................................................................. 12
 
 2.5. Sammanfattning och prioritering av planerade skötselåtgärder ....................................... 12
-3. KARTOR ........................................................................................................................................ 14
+3\. KARTOR ........................................................................................................................................ 14
 
 3.1 Översiktskarta ............................................................................................................................ 14
 3.2 Skötselkartor .............................................................................................................................. 15
@@ -11427,13 +11427,13 @@ Skötselområde 4: Sjö och exploaterad mark – Ingen åtgärd ................
 3.5 Karta med naturvärden ............................................................................................................ 20
 
 3.6 Karta med friluftslivsanordningar ............................................................................................ 21
-4. REFERENSER ................................................................................................................................. 22
+4\. REFERENSER ................................................................................................................................. 22
 
 4
 
 <!-- sida 329 -->
 
-1. Beskrivning        av  naturreservatet
+1\. Beskrivning        av  naturreservatet
 
 1.1 Allmän   beskrivning
 
@@ -11612,7 +11612,7 @@ bok, fågelbär, ask och andra lövträd samt bokskogen i den södra delen. Det 
 prioriterat att hotade eller sällsynta arter som är knutna till ädellövskog ska ges sådana
 förutsättningar att de kan föryngra sig i långsiktigt livskraftiga populationer.
 
-2. Skötsel     av  området
+2\. Skötsel     av  området
 
 2.1. Generella   riktlinjer
 
@@ -11872,7 +11872,7 @@ Tabell 6. Sammanfattning och prioritering av skötselplanens åtgärder. Priorit
 
 <!-- sida 338 -->
 
-3. Kartor
+3\. Kartor
 
 3.1 Översiktskarta
 
@@ -11922,7 +11922,7 @@ Avdelningar
 
 <!-- sida 346 -->
 
-4. Referenser
+4\. Referenser
 
 Bengtsson, E. och Simonsson, G. 1995 - 2003. Historiskt kartöverlägg. Kulturmiljö-
 enheten, Länsstyrelsen i Hallands län.
@@ -12163,15 +12163,15 @@ resurser och att effektivisera transporterna av massor. Strategin omfattar kommu
 bolag samt när det är möjligt och lämpligt även andra aktörer som verkar inom staden.
 
 Strategin för hållbar masshantering sammanfattas med följande principer:
-1. Integrera hållbar masshantering i den strategiska planeringen
+1\. Integrera hållbar masshantering i den strategiska planeringen
 
-2. Arbeta strategiskt och systematiskt med resurseffektiv masshantering i detaljplaner och projekt
-3. Underlätta för cirkulär masshantering
+2\. Arbeta strategiskt och systematiskt med resurseffektiv masshantering i detaljplaner och projekt
+3\. Underlätta för cirkulär masshantering
 
-4. Verka för att lokalisera ytor för cirkulär hantering av massor
-5. Arbeta innovativt med att utveckla arbetssätt för hållbar masshantering
+4\. Verka för att lokalisera ytor för cirkulär hantering av massor
+5\. Arbeta innovativt med att utveckla arbetssätt för hållbar masshantering
 
-6. Kommunalt samarbete, mellankommunal och regional samverkan inom masshantering
+6\. Kommunalt samarbete, mellankommunal och regional samverkan inom masshantering
 Förklarande text samt exempel på hur respektive princip kan uppnås beskrivs närmare i strategin. När
 det gäller mellankommunal och regional samverkan lyfter strategin som exempel att Mölndal kan
 bidra med samverkan utifrån den kommunalt antagna, regionala avfallsplanen, från Göteborgsregionen
@@ -12272,17 +12272,17 @@ Senast reviderad: 2026-MM- DD
 
 Innehållsförteckning
 
-1. Inledning ........................................................................................................................ 3
+1\. Inledning ........................................................................................................................ 3
 
-2. Mål och syfte .................................................................................................................. 3
-3. Avgränsningar, vilka omfattas av strategin................................................................. 4
+2\. Mål och syfte .................................................................................................................. 3
+3\. Avgränsningar, vilka omfattas av strategin................................................................. 4
 
-4. Markförhållanden i Mölndals stad .............................................................................. 4
+4\. Markförhållanden i Mölndals stad .............................................................................. 4
 4.1 Geologi och geoteknik ............................................................................................... 4
 
 4.2 Förorenade områden .................................................................................................. 5
 
-5. Mål och principer .......................................................................................................... 5
+5\. Mål och principer .......................................................................................................... 5
 5.1 Integrera hållbar masshantering i den strategiska planeringen .................................. 6
 
 5.2 Arbeta strategiskt och systematiskt med resurseffektiv masshantering i detaljplaner
@@ -12295,8 +12295,8 @@ och projekt ....................................................................
 5.6 Kommunalt samarbete, mellankommunal och regional samverkan inom
 masshantering .................................................................................................................. 8
 
-6. Fortsatt arbete för att nå målen i strategin ................................................................. 8
-7. Genomförande och uppföljning ................................................................................... 8
+6\. Fortsatt arbete för att nå målen i strategin ................................................................. 8
+7\. Genomförande och uppföljning ................................................................................... 8
 
 Bilagor
 Bilaga 1. Strategins koppling till lagstiftning, miljömål samt kommunala styrdokument
@@ -12307,7 +12307,7 @@ Mölndals stads   Strategi för hållbar masshantering   2
 
 <!-- sida 357 -->
 
-1. Inledning
+1\. Inledning
 
 Mölndal är en expansiv kommun med hög etablering av bostäder, verksamheter och
 större infrastrukturprojekt som genererar mycket masshantering. En hantering som
@@ -12339,7 +12339,7 @@ projekt. Ett förändringsarbete som behöver stödjas med utbildningsinsatser o
 samverkan mellan kommunens förvaltningar och bolag samt med företag inom
 branschen.
 
-2. Mål och syfte
+2\. Mål och syfte
 
 Strategin är ett viktigt underlag och en viljeinriktning med målet att integrera en hållbar
 masshantering i stadens organisation och arbetssätt och som syftar till att Mölndals stad
@@ -12375,13 +12375,13 @@ ekonomiska fördelar genom minskade material- och transportkostnader samt ett me
 kostnadseffektivt resursutnyttjande genom hela masshanteringskedjan, från planering till
 genomförande.
 
-3. Avgränsningar,  vilka omfattas av strategin
+3\. Avgränsningar,  vilka omfattas av strategin
 
 Strategin omfattar arbeten och projekt inom kommunkoncernen (förvaltningar och bolag)
 som direkt och indirekt genererar masshantering (fysisk planering, exploatering,
 investering och drift). Strategin ska även kunna omfatta exploatörer och andra aktörer.
 
-4. Markförhållanden  i Mölndals  stad
+4\. Markförhållanden  i Mölndals  stad
 
 4.1 Geologi och geoteknik
 
@@ -12437,7 +12437,7 @@ Kända och potentiellt förorenade objekt finns samlade i länsstyrelsernas data
 förorenade områden, den så kallade EBH-listan. Ytterligare information kan finnas hos
 kommunens bygg- och miljöförvaltning.
 
-5. Mål och principer
+5\. Mål och principer
 
 Målet med strategin är en hållbar masshantering som utgår från intentionen i avfalls-
 hierarkin. Det innebär att massor i första hand ska förebyggas så att uppkomsten av
@@ -12462,14 +12462,14 @@ Avfallshierarkin. Från Naturvårdsverket.
 
 Mölndals stads strategi för hållbar masshantering sammanfattas med följande principer:
 
-1. Integrera hållbar masshantering i den strategiska planeringen
-2. Arbeta strategiskt och systematiskt med resurseffektiv masshantering i
+1\. Integrera hållbar masshantering i den strategiska planeringen
+2\. Arbeta strategiskt och systematiskt med resurseffektiv masshantering i
 detaljplaner och projekt
-3. Underlätta för cirkulär masshantering
-4. Verka för att lokalisera ytor för cirkulär hantering av massor
-5. Arbeta innovativt med att utveckla arbetssätt för hållbar masshantering
+3\. Underlätta för cirkulär masshantering
+4\. Verka för att lokalisera ytor för cirkulär hantering av massor
+5\. Arbeta innovativt med att utveckla arbetssätt för hållbar masshantering
 
-6. Kommunalt samarbete, mellankommunal och regional samverkan inom
+6\. Kommunalt samarbete, mellankommunal och regional samverkan inom
 masshantering
 
 5.1 Integrera hållbar masshantering i den strategiska
@@ -12569,7 +12569,7 @@ skapa ett regionalt samarbete för att samordna hantering av schaktmassor och
 
 materialflöden. Mölndals stad kan exempelvis bidra med samverkan i ett sådant arbete.
 
-6. Fortsatt arbete för att nå målen i strategin
+6\. Fortsatt arbete för att nå målen i strategin
 
 En gemensam handlingsplan för att förankra och genomföra strategin ska tas fram för
 kommunkoncernen. Planen ska innehålla konkreta, uppföljningsbara åtgärder och
@@ -12586,7 +12586,7 @@ genom att ta fram gemensamma arbetsprocess(er) och checklistor och att praktiska
 tillämpningar för hållbar masshantering arbetas in i tekniska handböcker och andra
 styrdokument.
 
-7. Genomförande   och  uppföljning
+7\. Genomförande   och  uppföljning
 
 Denna strategi ska ses över och riktlinjer i strategin ska följas upp i slutet av varje
 mandatperiod. Arbetet ska ledas av Samhällsbyggnadsförvaltningen. Finns behov av
@@ -12618,10 +12618,10 @@ insikten att naturen har ett skyddsvärde och att människans rätt att föränd
 förenad med ett ansvar för att förvalta naturen väl.
 
 Miljöbalken skall bl a tillämpas så att:
-- människors hälsa och miljön skyddas mot skador och olägenheter oavsett om dessa orsakas av
+\- människors hälsa och miljön skyddas mot skador och olägenheter oavsett om dessa orsakas av
 föroreningar eller annan påverkan,
 
-- återanvändning och återvinning liksom annan hushållning med material, råvaror och energi främjas
+\- återanvändning och återvinning liksom annan hushållning med material, råvaror och energi främjas
 så att ett kretslopp uppnås.
 
 De kapitel som i första hand omfattar frågor som berör masshantering är: Kap 3. Grundläggande
@@ -12649,7 +12649,7 @@ Generationsmålet – miljöarbete för kommande generationer
 nivåer i samhället. Till Generationsmålet hör sju strecksatser varav en har särskild betydelse för en
 hållbar masshantering:
 
-- Kretsloppen är resurseffektiva och så långt som möjligt fria från farliga ämnen
+\- Kretsloppen är resurseffektiva och så långt som möjligt fria från farliga ämnen
 
 God bebyggd miljö
 Städer, tätorter och annan bebyggd miljö ska utgöra en god och hälsosam livsmiljö samt medverka till
@@ -12664,14 +12664,14 @@ Bilaga 1
 
 hushållning med mark, vatten och andra resurser främjas. Till miljömålet hör sex preciseringar varav
 följande bedöms ha särskild betydelse för en hållbar masshantering:
-- Människor utsätts inte för skadliga luftföroreningar, kemiska ämnen, ljudnivåer och radonhalter eller
+\- Människor utsätts inte för skadliga luftföroreningar, kemiska ämnen, ljudnivåer och radonhalter eller
 andra oacceptabla hälso- eller säkerhetsrisker.
 
-- Avfallshanteringen är effektiv för samhället, enkel att använda för konsumenterna och att avfallet
+\- Avfallshanteringen är effektiv för samhället, enkel att använda för konsumenterna och att avfallet
 förebyggs samtidigt som resurserna i det avfall som uppstår tas till vara i så hög grad som möjligt samt
 att avfallets påverkan på och risker för hälsa och miljö minimeras.
 
-- Användningen av energi, mark, vatten och andra naturresurser sker på ett effektivt, resursbesparande
+\- Användningen av energi, mark, vatten och andra naturresurser sker på ett effektivt, resursbesparande
 och miljöanpassat sätt för att på sikt minska och att främst förnybara energikällor används.
 
 Giftfri miljö
@@ -12682,13 +12682,13 @@ och deras påverkan på människors hälsa och ekosystemen är försumbar. Halte
 förekommande ämnen är nära bakgrundsnivåerna. Till miljömålet Giftfri miljö bedöms följande ha
 särskild betydelse för en hållbar masshantering:
 
-- Den sammanlagda exponeringen för kemiska ämnen via alla exponeringsvägar inte är skadlig för
+\- Den sammanlagda exponeringen för kemiska ämnen via alla exponeringsvägar inte är skadlig för
 människor eller den biologiska mångfalden.
 
-- Information om miljö- och hälsofarliga ämnen i material, kemiska produkter och varor är tillgänglig.
-- Användningen av särskilt farliga ämnen har så långt som möjligt upphört.
+\- Information om miljö- och hälsofarliga ämnen i material, kemiska produkter och varor är tillgänglig.
+\- Användningen av särskilt farliga ämnen har så långt som möjligt upphört.
 
-- Förorenade områden är åtgärdade i så stor utsträckning att de inte utgör något hot mot människors
+\- Förorenade områden är åtgärdade i så stor utsträckning att de inte utgör något hot mot människors
 hälsa eller miljön.
 
 Begränsad klimatpåverkan
@@ -12788,7 +12788,7 @@ Sammanfattning av ärendet
 Västra Götalandsregionen (VGR) har beslutat att revidera Målbild tåg 2035,
 inklusive Västtågsutredningen. Framtagandet av det nya strategiska
 dokumentet, Storkoll 2050, beräknas pågå till och med 2027 med antagande våren
-2028.
+2028\.
 
 För Kungsbacka och pendelstråket mot Göteborg är kapacitet, robusthet och fortsatt
 god tillgänglighet för arbets- och studiependling särskilt viktiga frågor. Behov av
@@ -13080,12 +13080,12 @@ kommunalförbundens direktioner och BHU.
 Processen för framtagande av Storkoll 2050 är indelad i två faser:
 
 a) Strategiska vägval
--  Under våren 2026 sker muntlig politisk dialog i de fyra delregionala
+\-  Under våren 2026 sker muntlig politisk dialog i de fyra delregionala
 kollektivtrafik- och samhällsplaneringsforumen kring vilka frågor
 respektive kommunalförbund anser vara av vikt att beakta i det
 fortsatta arbetet utifrån de givna förutsättningarna och ramarna.
 
--  Möjlighet för kommunalförbunden att inkomma med skriftliga
+\-  Möjlighet för kommunalförbunden att inkomma med skriftliga
 
 inspel fram till sista oktober.
 
@@ -13093,29 +13093,29 @@ inspel fram till sista oktober.
 
 Sida 3
 
--  Beslut i infrastruktur- och kollektivtrafiknämnden om förslag till
+\-  Beslut i infrastruktur- och kollektivtrafiknämnden om förslag till
 strategisk inriktning inför behandling i beredningen för hållbar
 utveckling.
 
--  Ställningstagande i beredningen för hållbar utveckling kring den
+\-  Ställningstagande i beredningen för hållbar utveckling kring den
 strategiska inriktningen för fortsatt arbete med Storkoll 2050. Detta
 sker preliminärt vid beredningens sista sammanträde denna
 
 mandatperiod, 3 december.
 
 b) Det strategiska dokumentet i sin helhet
--  Utifrån den strategiska inriktningen arbetas ett förslag till ny
+\-  Utifrån den strategiska inriktningen arbetas ett förslag till ny
 strategisk plan för storregional kollektivtrafik fram under våren
-2027.
+2027\.
 
--  Dialog kring förslaget under vårens delregionala kollektivtrafik- och
+\-  Dialog kring förslaget under vårens delregionala kollektivtrafik- och
 samhällsplaneringsforum.
 
--  Förslaget skickas på formell remiss under hösten 2027. Remisstid
+\-  Förslaget skickas på formell remiss under hösten 2027. Remisstid
 
 beräknas vara 5-6 månader.
 
--  Preliminärt behandlas förslaget i infrastruktur- och
+\-  Preliminärt behandlas förslaget i infrastruktur- och
 kollektivtrafiknämnden i början av 2028 för vidare beslut i
 regionstyrelsen innan regionfullmäktige fastställer dokumentet
 senare under våren 2028.
@@ -13209,24 +13209,24 @@ en viktig hållpunkt. Redan i samband med uppdraget till förvaltningen att
 påbörja revideringsarbetet identifierade IKN följande viktiga frågor där
 dialog behöver ske med kommunalförbunden.
 
--  Beskrivning av strukturpåverkande förutsättningar och
+\-  Beskrivning av strukturpåverkande förutsättningar och
 storregionala relationers funktioner och samband (exempelvis
 demografi, målpunkter, etableringar, arbetspendling,
 studiependling, godstrafik, besöksnäring, fritidsresande, med
 
 mera).
 
--  Utifrån ovanstående punkt, definiera järnvägsbanornas roll och
+\-  Utifrån ovanstående punkt, definiera järnvägsbanornas roll och
 funktion.
 
 <!-- sida 381 -->
 
 Sida 8
 
--  Ta fram principer för hur och när beslut tas om att börja trafikera
+\-  Ta fram principer för hur och när beslut tas om att börja trafikera
 och sluta trafikera tågstationer.
 
--  Arbeta med strategisk framsyn, för att förstå hur dagens beslut kan
+\-  Arbeta med strategisk framsyn, för att förstå hur dagens beslut kan
 påverka framtiden samt diskutera olika möjliga scenarier och
 framtider.
 
@@ -13326,38 +13326,38 @@ Några av åtgärderna med större påverkan beskrivs nedan.
 
 Sida 10
 
--  Ny växelförbindelse i Håkantorp som möjliggör flexiblare
+\-  Ny växelförbindelse i Håkantorp som möjliggör flexiblare
 trafikering mellan Älvsborgsbanan och Kinnekullebanan kommer
 att stå klar i slutet av 2027.
 
--  Åtgärder för samtidig infart i Vara och Vedum som effektiviserar
+\-  Åtgärder för samtidig infart i Vara och Vedum som effektiviserar
 trafikeringen av järnvägsanläggningen. Åtgärderna i Vedum
 kommer att vara klara under 2027, i Vara längre fram.
 
--  Ombyggnation av Vänersborgs station. Plattformsförlängning som
+\-  Ombyggnation av Vänersborgs station. Plattformsförlängning som
 
 beräknas vara klar senhösten 2027.
 
--  Plattformsförlängningar på Viskadalsbanan för ökad kapacitet.
+\-  Plattformsförlängningar på Viskadalsbanan för ökad kapacitet.
 Arbetena kommer att starta 2028 och banan kommer sedan att
 trafikeras av 80 meter långa tåg.
 
--  Trädsäkring av Norra Bohusbanan för att minska de tillfällen då
+\-  Trädsäkring av Norra Bohusbanan för att minska de tillfällen då
 banan behöver stängas av på grund av väder. Avverkning planeras
 till 2027.
 
--  Planering för ny station i Brålanda enligt Västtågsutredningen
+\-  Planering för ny station i Brålanda enligt Västtågsutredningen
 pågår. Stationen kan öppna för trafik 2031 om alla bitar faller på
 plats.
 
--  Utöver detta pågår en översyn av befintliga plankorsningar på
+\-  Utöver detta pågår en översyn av befintliga plankorsningar på
 
 flertalet av de regionala järnvägarna. Syftet är att minska antalet
 plankorsningar samtidigt som de kvarvarande korsningarna
 uppdateras till nuvarande säkerhetsstandarder. Färre
 plankorsningar kan möjliggöra högre hastigheter.
 
--  I den nyligen beslutade nationella planen för transportinfrastruktur
+\-  I den nyligen beslutade nationella planen för transportinfrastruktur
 2026-2037 anges också att Kinnekullebanan ska rustas upp och
 delvis elektrifieras för bättre pendling och mer godstrafik på
 
@@ -13426,18 +13426,18 @@ infrastrukturen kan bidra till utifrån gemensamma målsättningar.
 
 Kortfattat innehåller arbetet med en systemanalys följande steg:
 
-1. Nuläge - Ta fram nulägesbilder och kartor för att få en gemensam
+1\. Nuläge - Ta fram nulägesbilder och kartor för att få en gemensam
 bild kring nuläget och förutsättningar.
 
-2. Scenarier - Ta fram och testa ett antal utvecklingsscenarier där mål
+2\. Scenarier - Ta fram och testa ett antal utvecklingsscenarier där mål
 eller motsägelser maximeras och testas i respektive scenario för att
 synliggöra möjliga vägval och prioriteringar.
 
-3. Värdering av möjliga åtgärder - Med utgångspunkt i nuläget och test
+3\. Värdering av möjliga åtgärder - Med utgångspunkt i nuläget och test
 av olika scenarier/målbild görs en värdering av möjliga åtgärder
 enligt 4-stegs principen.
 
-4. Politisk dialog om inriktning - Politisk dialog i BHU om inriktning
+4\. Politisk dialog om inriktning - Politisk dialog i BHU om inriktning
 för prioriteringar av brister och behov i transportinfrastrukturen i
 Västra Götaland.
 Systemanalysen ska vara färdigt i inför nästa revidering av den nationella
@@ -13492,10 +13492,10 @@ befintlig forskning och kunskap om effektiva metoder samt en kartläggning
 om var det finns potential för att öka marknadsandelen utifrån olika
 geografiska förutsättningar. Uppdraget ska:
 
--  Dels redovisa hur långt VGR kommer med befintlig budget, mål och
+\-  Dels redovisa hur långt VGR kommer med befintlig budget, mål och
 styrdokument.
 
--  Dels ta fram förslag på åtgärder för att snabbare nå måluppfyllelse.
+\-  Dels ta fram förslag på åtgärder för att snabbare nå måluppfyllelse.
 
 Handlingsplanen utgör inte ett direkt uppdrag till Västtrafik, utan ska
 innehålla en palett av åtgärder som politiskt kan prioriteras och tillämpas
@@ -13520,19 +13520,19 @@ I uppdraget ingår att bryta ner målen till olika delar av regionen och föresl
 
 Uppdraget består av följande delar:
 
--  Beskrivning av ett transporteffektivt samhälle enligt tidigare
+\-  Beskrivning av ett transporteffektivt samhälle enligt tidigare
 framtaget kunskapsunderlag.
 
--  En nulägesanalys om förutsättningarna och potentialer för ett
+\-  En nulägesanalys om förutsättningarna och potentialer för ett
 transporteffektivt samhälle i Västra Götaland.
 
--  Förslag till mål för ett transporteffektivt samhälle - för hela regionen
+\-  Förslag till mål för ett transporteffektivt samhälle - för hela regionen
 
 samt för regionens olika delar.
 
--  Förslag på åtgärder på kort och lång sikt i linje med föreslagna mål.
+\-  Förslag på åtgärder på kort och lång sikt i linje med föreslagna mål.
 
--  Förslag på hur de föreslagna målen kan inkluderas i Västra
+\-  Förslag på hur de föreslagna målen kan inkluderas i Västra
 Götalandsregionens målstruktur.
 
 Uppdraget är av mångfacetterad karaktär och förutsätter ett
@@ -13641,7 +13641,7 @@ och lyfts fram som något att arbeta vidare med. Slutligen råder olika syn på 
 mellan effektivitet och geografisk tillgänglighet.
 
 Utvärderingen har samlat rekommendationer till kommande revidering av målbild tåg
-2035. Rekommendationerna och frågeställningarna berör strukturen på kommande
+2035\. Rekommendationerna och frågeställningarna berör strukturen på kommande
 målbild, vägval att göra, samverkan samt förändrade förutsättningar och nya
 perspektiv att beakta.
 
@@ -13780,7 +13780,7 @@ målet med uppdraget att tydliggöra kostnader för infrastruktur, trafikering o
 
 på resandet. Årtalet 2028 ska i första hand symbolisera ambitionerna att ta vara på
 befintlig och beslutad infrastruktur, vilket är en tidigare beslutad strategi i Målbild tåg
-2035.
+2035\.
 
 <!-- sida 396 -->
 
@@ -13809,7 +13809,7 @@ De lokala arbetsmarknaderna i Västra Götaland och Västsverige har förändrat
 
 Göteborgs lokala arbetsmarknad förstorats fortsatt. Idag består Västsverige av sex
 lokala arbetsmarknader (därutöver tillhör Åmål Karlstad), att jämföra med tolv år
-1990. Förstoring av arbetsmarknaden har gjort det möjligt att kunna ta ett arbete
+1990\. Förstoring av arbetsmarknaden har gjort det möjligt att kunna ta ett arbete
 längre bort från hemmet, men även kunna nå fler utbildningsinstanser längre bort från
 hemmet samt fler fritidsresemål. Målbild tåg 2035 kan utifrån detta antas ha bidragit
 till samhällsmålet, samtidigt som denna trend går att utläsa även innan målbildens
@@ -13915,7 +13915,7 @@ Målbild tåg 2035 redovisar
 hur många dubbelturer
 (turer per riktning) som
 skulle avgå per vardag
-2035. Utvecklingen har
+2035\. Utvecklingen har
 
 sedan 2010 sett olika ut,
 beroende på bana (se figur
@@ -14238,8 +14238,8 @@ utförs med respektive tågslag.
 10%
 0                                                0%
 
-Figur 13 Kostnad per resa* och andel resor för olika tågslag 2024.
-*Exklusive biljettintäkter och tillköp. Källa: Västtrafik.
+Figur 13 Kostnad per resa\* och andel resor för olika tågslag 2024.
+\*Exklusive biljettintäkter och tillköp. Källa: Västtrafik.
 De ekonomiska besparingarna målbilden hade ambitioner om, på grund av reducerad
 
 busstrafik och i samband med utökad tågtrafik, syns inte ännu. Det är bland annat
@@ -14261,7 +14261,7 @@ Den nya zonstrukturen innebär att när biljettintäkterna fördelas mellan linj
 nya zonstrukturen, får de längre resorna en lägre biljettintäkt per resa än tidigare,
 medan korta resor får en högre. Maxpriset blev lägre, eftersom prissättningen maximalt
 aser/ronork
-Kostnad per resa* Andel Resor
+Kostnad per resa\* Andel Resor
 
 <!-- sida 407 -->
 
@@ -14782,7 +14782,7 @@ Götalandsbanan/Kust
 Borås ska ha en hastighet på 250
 till kustbanan: Göteborg 90–140 200–320 90–140
 km/h (dock inte till 2035). Detta
-- Borås
+\- Borås
 förstärktes på grund av regeringens
 beslut i december 2022, om ändrat
 fokus från nya stambanor till fokus på
@@ -15005,14 +15005,14 @@ Historisk            utveckling
 
 Några       utvalda       historiska         händelser
 
-- Rådslaget startas upp
-- Fördubblingsmål                                                 - Västtågs-                - Gradvis återhämtning av
-- Målbild tåg antas
-- Västsvenska paketet                                          utredningen antas                    resandet
-- Trängselskatt i
-- Öresundsbron invigs                                             - Västtrafik ToGo          - Regeringen ändrar inriktning
+\- Rådslaget startas upp
+\- Fördubblingsmål                                                 - Västtågs-                - Gradvis återhämtning av
+\- Målbild tåg antas
+\- Västsvenska paketet                                          utredningen antas                    resandet
+\- Trängselskatt i
+\- Öresundsbron invigs                                             - Västtrafik ToGo          - Regeringen ändrar inriktning
 Göteborg införs, bl.a.
-- Första hyrcykelsystemet                                             lanseras                    från nya stambanor
+\- Första hyrcykelsystemet                                             lanseras                    från nya stambanor
 för finansiering av väg-
 introduceras i Västra                                          - Avgift för cykel på tåg          till underhåll
 och järnvägsåtgärder
@@ -15020,23 +15020,23 @@ Götaland                                                        tas bort       
 introduceras i Västra Götaland
 2000-talet             2010                          2015                          2020                          2025
 
-- Beslut om ny järnväg
-- Ny kollektivtrafiklag
+\- Beslut om ny järnväg
+\- Ny kollektivtrafiklag
 Göteborg – Borås
-- VGR blir Regional
-- SJ beslutar att lägga ner
+\- VGR blir Regional
+\- SJ beslutar att lägga ner
 kollektivtrafikmyndighet
-- Covid-19              nattågstrafiken från
-- SAAB går i konkurs
-- Byggstart Västlänken              - Nytt zonsystem för      Göteborg till Norrland
-- Dubbelspår samt
+\- Covid-19              nattågstrafiken från
+\- SAAB går i konkurs
+\- Byggstart Västlänken              - Nytt zonsystem för      Göteborg till Norrland
+\- Dubbelspår samt
 kollektivtrafiken        - EU beslutar om att nya
 motorväg E45 byggs
 och ombyggda tåg minst
 (Trollhättan – Göteborg)
 ska ha fyra cykelplatser
-- Alependeln invigs
-- ShiftSweden startas upp
+\- Alependeln invigs
+\- ShiftSweden startas upp
 
 <!-- sida 429 -->
 
@@ -15237,7 +15237,7 @@ i högtrafik
 7,5
 
 Station
->120
+\>120
 61-120
 15                                               60
 30
@@ -15262,7 +15262,7 @@ i högtrafik
 7,5
 
 Station
->120
+\>120
 61-120
 15                                               60
 30
@@ -15290,7 +15290,7 @@ i högtrafik
 7,5
 
 Station
->120
+\>120
 61-120
 60
 15
@@ -15810,14 +15810,14 @@ SIDA | 2
 
 INNEHÅLL
 
-1. Inledning .................................................................................................................................................... 4
+1\. Inledning .................................................................................................................................................... 4
 
 1.1 Sammanfattning ................................................................................................................................. 4
 1.2 Hur kollektivtrafiken fungerar i Halland .......................................................................................... 5
 
 1.3 Kollektivtrafikens styrande dokument ............................................................................................. 5
 
-2. Planeringsförutsättningar ....................................................................................................................... 7
+2\. Planeringsförutsättningar ....................................................................................................................... 7
 2.1 Halland växer mitt i ett växande sydvästsverige ............................................................................ 7
 
 2.2 En boenderegion med stor arbetskraftsrörlighet .......................................................................... 8
@@ -15831,7 +15831,7 @@ INNEHÅLL
 2.7 Hallänningarnas tillgång till kollektivtrafik .................................................................................... 11
 2.8 Genomförda trafikförändringar 2015 - 2025, urval ..................................................................... 13
 
-3. Mål för kollektivtrafiken ......................................................................................................................... 14
+3\. Mål för kollektivtrafiken ......................................................................................................................... 14
 3.1 Övergripande mål ............................................................................................................................. 14
 
 3.1.2 Uppföljning och indikatorer ..................................................................................................... 14
@@ -15845,7 +15845,7 @@ INNEHÅLL
 3.2.4 Självfinansieringsgrad ............................................................................................................... 21
 
 3.2.5 Miljö ............................................................................................................................................. 22
-4. Verksamhetsutveckling - vad vi planerar att göra 2025–2027 ......................................................... 23
+4\. Verksamhetsutveckling - vad vi planerar att göra 2025–2027 ......................................................... 23
 
 4.1 Process för upprättande av Kollektivtrafikplan ............................................................................ 23
 4.2 Mobilitetsåtgärder ............................................................................................................................ 23
@@ -15867,7 +15867,7 @@ SIDA | 3
 4.4.2 Behov av fortsatt utbyggd busstrafik ...................................................................................... 37
 
 4.4.3 Planering inför upphandling av busstrafik ............................................................................. 38
-5. Särskild kollektivtrafik ............................................................................................................................ 41
+5\. Särskild kollektivtrafik ............................................................................................................................ 41
 
 5.1 Färdtjänst, sjukresor och skolskjuts med personbil .................................................................... 41
 5.1.1 Planeringsförutsättningar ........................................................................................................ 41
@@ -15882,7 +15882,7 @@ SIDA | 3
 
 5.2.3 Långsiktig plan för tidtabellskiften .......................................................................................... 47
 
-6. Bilagor ...................................................................................................................................................... 48
+6\. Bilagor ...................................................................................................................................................... 48
 6.1 Nyckeltal för den allmänna kollektivtrafiken ................................................................................ 48
 
 6.1.1 Antal resor och produktion per linje 2024 ............................................................................. 48
@@ -15908,7 +15908,7 @@ SIDA | 3
 
 SIDA | 4
 
-1. INLEDNING
+1\. INLEDNING
 
 1.1 SAMMANFATTNING
 
@@ -16025,7 +16025,7 @@ Figur 1. Styrdokument Region Halland
 
 SIDA | 7
 
-2. PLANERINGSFÖRUTSÄTTNINGAR
+2\. PLANERINGSFÖRUTSÄTTNINGAR
 
 2.1 HALLAND VÄXER MITT I ETT VÄXANDE SYDVÄSTSVERIGE
 
@@ -16346,7 +16346,7 @@ justerad linjesträckning linje 2.
 
 SIDA | 14
 
-3. MÅL FÖR KOLLEKTIVTRAFIKEN
+3\. MÅL FÖR KOLLEKTIVTRAFIKEN
 
 3.1 ÖVERGRIPANDE MÅL
 
@@ -16387,7 +16387,7 @@ KOLLEKTIVTRAFIKEN I HALLAND SKA BIDRA TILL HÖG ATTRAKTIVITET OCH EN HÅLLBAR SA
 Mål                      Indikatorer         Följs upp i
 Kollektivtrafikens marknadsandel av Resandestatistik Kollektivtrafikplanen
 totalt resande ska vara minst 30% år
-2030.
+2030\.
 
 Kollektivtrafiken ska bidra till positiv Skattekraft, Uppföljning till
 ekonomisk utveckling genom att bidra till Flyttningsöverskott från Tillväxtstrategin
@@ -16467,8 +16467,8 @@ Nöjdhet (%)
 • Senaste resan 80,5 78,8 78,2 79,2 80,5 76,0 82,7  90,0
 Självfinansieringsgrad 55,9 33,4 37,4 52,9 51,9 53,6 54,0 60,0
 (%)
-Fossilfria bränslen (%)* 99,6 99,8 100 100 100 100 100 100
-*exklusive Krösatåg
+Fossilfria bränslen (%)\* 99,6 99,8 100 100 100 100 100 100
+\*exklusive Krösatåg
 Figur 6. Nyckeltal övergripande måluppfyllnad, utfall 2019 – 2024
 
 3.2.1 MARKNADSANDEL
@@ -16517,7 +16517,7 @@ bussresor jämfört med 2023.
 
 5000 000
 
--
+\-
 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 20202021 2022 2023 2024
 Tåg  Buss Beställningstrafik/Närtrafik
 
@@ -16751,7 +16751,7 @@ Figur 15. Andel körda kilometer med fossilfria bränslen inom stad- och regionb
 
 SIDA | 23
 
-4. VERKSAMHETSUTVECKLING - VAD VI PLANERAR ATT GÖRA 2025–2027
+4\. VERKSAMHETSUTVECKLING - VAD VI PLANERAR ATT GÖRA 2025–2027
 
 4.1 PROCESS FÖR UPPRÄTTANDE AV KOLLEKTIVTRAFIKPLAN
 
@@ -17540,7 +17540,7 @@ linje längs väg 518 kan tillgodose båda dessa behov.
 
 SIDA | 41
 
-5. SÄRSKILD KOLLEKTIVTRAFIK
+5\. SÄRSKILD KOLLEKTIVTRAFIK
 
 5.1 FÄRDTJÄNST, SJUKRESOR OCH SKOLSKJUTS MED PERSONBIL
 
@@ -17623,7 +17623,7 @@ kategori resor står för 60 procent av alla serviceresor och det är även denn
 sannolikt kommer att fortsätta öka i takt med en åldrande befolkning.
 
 Under 2024 togs det emot 520 000 samtal i beställningscentralen, ungefär lika många som under
-2023. Inflödet av samtal under 2024 har dock inte varit förutsägbart i samma utsträckning som
+2023\. Inflödet av samtal under 2024 har dock inte varit förutsägbart i samma utsträckning som
 tidigare, vilket har medfört stora utmaningar för beställningscentralen. Detta har dels inneburit
 svårigheter med att bemanna beställningscentralen i enlighet med inflödet av samtal, vilket
 stundtals har medfört längre svarstider än normalt.
@@ -17844,7 +17844,7 @@ Figur 25. Tider för tidtabellsskiften, 2025 - 2028
 
 SIDA | 48
 
-6. BILAGOR
+6\. BILAGOR
 
 6.1 NYCKELTAL FÖR DEN ALLMÄNNA KOLLEKTIVTRAFIKEN
 
@@ -17913,7 +17913,7 @@ SIDA | 52
 6.2.2 FÖRDELNING PER VÄGHÅLLARANSVAR
 
 Uppdaterad december 2024. Bokstaven efter hållplatsnamnet är lägesbeteckningen.
-* = endast mindre åtgärd krävs för att uppnå tillgänglighetsanpassning, oftast enbart
+\* = endast mindre åtgärd krävs för att uppnå tillgänglighetsanpassning, oftast enbart
 plattläggning.
 
 LAHOLM
@@ -17921,14 +17921,14 @@ LAHOLM
 På Trafikverkets väg:
 Laholm Brandstationen A
 Laholm Brandstationen B
-Veinge station A *
+Veinge station A \*
 
 På kommunal väg:
-Laholm Blåkulla A *
+Laholm Blåkulla A \*
 Laholm Blåkulla B
 
 Laholm Glänninge vårdcentral
-A *
+A \*
 Laholm Industrigatan A
 Laholm Industrigatan B
 Laholm Repslagaregatan A
@@ -17941,7 +17941,7 @@ Laholms bussterminal E
 <!-- sida 518 -->
 
 På enskild väg:
---
+\--
 
 HYLTE
 
@@ -17955,7 +17955,7 @@ Hyltebruk Sjukstugan B
 
 På enskild väg:
 
---
+\--
 
 <!-- sida 519 -->
 
@@ -17973,8 +17973,8 @@ Oskarström Bronsgatan A Halmstad Järnvägsgatan B Halmstad Varpvägen A
 Oskarström Bronsgatan B Halmstad Kardvägen A Halmstad Varpvägen B
 Sennan A              Halmstad Kardvägen B   Halmstad Väktarevägen A
 Sennan B              Halmstad Klackerupsgatan A Halmstad Väktarevägen B
-Skipås A              Halmstad Kolastigen A  Halmstad Åttingsstigen A *
-Trönninge A           Halmstad Kolastigen B  Halmstad Åttingsstigen B *
+Skipås A              Halmstad Kolastigen A  Halmstad Åttingsstigen A \*
+Trönninge A           Halmstad Kolastigen B  Halmstad Åttingsstigen B \*
 Åled Kullavägen A     Halmstad Kvarnbacken A Halmstad Örlogsvägen A
 Åled Kullavägen B     Halmstad Kvarnbacken B Halmstad Örlogsvägen B
 Åled A                Halmstad Kvarnbacken C Halmstad Östergård A
@@ -17983,7 +17983,7 @@ Halmstad Larsfridsvägen A Halmstad Östergårdsskolan A
 På kommunal väg:      Halmstad Larsfridsvägen B Halmstad Östergårdsskolan B
 
 Frösakull A           Halmstad Linehed A     Halmstad Östervägen A
-Frösakull B           Halmstad Linehed B *   Tylöbäck A
+Frösakull B           Halmstad Linehed B \*   Tylöbäck A
 Frösakull Campingstigen A Halmstad Lummervägen B Tylöbäck B
 Frösakull Campingstigen B Halmstad Magnus Stenbocks
 Frösakull Erik Staels väg A väg A            På enskild väg:
@@ -17997,10 +17997,10 @@ Halmstad Byvägen B    Halmstad Norra Utmarken A Trönninge B
 
 Halmstad Cirkusplatsen A Halmstad Pihlgården A
 Halmstad Cirkusplatsen C Halmstad Pihlgården B
-Halmstad Flygaregatan B * Halmstad Pumpvägen A
+Halmstad Flygaregatan B \* Halmstad Pumpvägen A
 Halmstad Flygplats A  Halmstad Skyttevägen A
-Halmstad Flygstaden A * Halmstad Slottsjordsskolan A
-Halmstad Flygstaden B * Halmstad Slottsjordsskolan B
+Halmstad Flygstaden A \* Halmstad Slottsjordsskolan A
+Halmstad Flygstaden B \* Halmstad Slottsjordsskolan B
 Halmstad Frennarp A   Halmstad Slottsparken B
 Halmstad Frennarpsvägen A Halmstad Slupvägen B
 Halmstad Frennarpsvägen B Halmstad Sofieberg A
@@ -18045,7 +18045,7 @@ Agerör B
 Falkenberg Falkagårdsvägen A
 Falkenberg Falkagårdsvägen B
 Falkenberg Hertings kyrka A
-Falkenberg Hjortsberg B *
+Falkenberg Hjortsberg B \*
 Falkenberg Lerhålan A
 Falkenberg Lerhålan B
 Falkenberg Ljungholmen A
@@ -18062,7 +18062,7 @@ Långås A
 Långås B
 Skogstorp Humlevägen A
 Skogstorp Humlevägen B
-Skogstorp Hyacintvägen B *
+Skogstorp Hyacintvägen B \*
 Skogstorp Prästkragevägen A
 
 <!-- sida 521 -->
@@ -18081,20 +18081,20 @@ Lillebacka A          Varberg Håstensskolan B
 Lillebacka B          Varberg Karlbergsvägen A
 Limabacka Brandstation A Varberg Karlbergsvägen B
 Limabacka Brandstation B Varberg Lassabacka södra A
-Ringhals A            Varberg Lindbergsvägen A *
-Ringhals B            Varberg Lindbergsvägen B *
+Ringhals A            Varberg Lindbergsvägen A \*
+Ringhals B            Varberg Lindbergsvägen B \*
 Tvååker Grusvägen A   Varberg Peder Skrivares skola
 Tvååker Grusvägen B   A
 Varberg Peder Skrivares skola
 På kommunal väg       B
-Jonstaka A *          Varberg Peder Skrivares skola
-Jonstaka B *          C
+Jonstaka A \*          Varberg Peder Skrivares skola
+Jonstaka B \*          C
 
 Kuragård A            Varberg Polishuset A
 Kuragård B            Varberg Polishuset B
-Lindbergs skola A *   Varberg S:t Jörgens kapell A
+Lindbergs skola A \*   Varberg S:t Jörgens kapell A
 Strandbackavägen A    Varberg S:t Jörgens kapell B
-Träslövsläge Fiskebåtsvägen A Varberg Sjukhuset A *
+Träslövsläge Fiskebåtsvägen A Varberg Sjukhuset A \*
 Träslövsläge Fiskebåtsvägen B På enskild väg:
 Träslövsläge Jungmansvägen Ringhals, Vakten A
 C                     Ringhals, Vakten B
@@ -18122,7 +18122,7 @@ B
 
 SIDA | 57
 
-KUNGSBACKA            Kungsbacka station B   Åsaskolan C *
+KUNGSBACKA            Kungsbacka station B   Åsaskolan C \*
 Kungsbacka station C   Älskogsbräcka B
 På Trafikverkets väg: Kungsbacka station D   Älvsåkers skola A
 Anneberg station A    Kungsbacka station E   Älvsåkers skola B
@@ -18137,18 +18137,18 @@ Hjälms bro A          Kungsbacka station M
 Hjälms bro B          Kungsbacka Stora Bäcksleden
 Karsegården A         A
 Karsegården B         Kungsbacka Stora Bäcksleden
-Kobbavik A            B *
-Kobbavik B            Kungsbacka Tölö kyrka C *
-Leksandsgården A *    Kungsbacka Varlaskolan C *
-Leksandsgården B *
-Onsala kyrka A *      På enskild väg:
+Kobbavik A            B \*
+Kobbavik B            Kungsbacka Tölö kyrka C \*
+Leksandsgården A \*    Kungsbacka Varlaskolan C \*
+Leksandsgården B \*
+Onsala kyrka A \*      På enskild väg:
 
-Onsala kyrka B *      Fjärås Bräckaskolan A *
-Onsala kyrka C *      Fjärås Bräckaskolan B *
-Presseskolan A        Fjärås Bräckaskolan C *
-Presseskolan B        Fjärås Bräckaskolan D *
-Tallbacken A          Fjärås Bräckaskolan E *
-Tallbacken B          Fjärås Bräckaskolan F *
+Onsala kyrka B \*      Fjärås Bräckaskolan A \*
+Onsala kyrka C \*      Fjärås Bräckaskolan B \*
+Presseskolan A        Fjärås Bräckaskolan C \*
+Presseskolan B        Fjärås Bräckaskolan D \*
+Tallbacken A          Fjärås Bräckaskolan E \*
+Tallbacken B          Fjärås Bräckaskolan F \*
 Vallda kyrka A        Fjärås Smedingeskolan A
 Vallda kyrka B        Fjärås Smedingeskolan B
 Vickan A              Fjärås Smedingeskolan C
@@ -18163,13 +18163,13 @@ Bengtsgårdsgatan B    Fjärås station C
 Kungsbacka Fors A     Gottskär A
 Kungsbacka Gårdskulla A Gällingeskolan A
 Kungsbacka Hedebrovägen A Kullaviks hamn A
-*                     Toråsskolan A
+\*                     Toråsskolan A
 Kungsbacka Hedebrovägen B Toråsskolan B
-*                     Toråsskolan C
+\*                     Toråsskolan C
 Kungsbacka Kungsmässan A Toråsskolan D
-Kungsbacka Smeagatan A Åsaskolan A *
+Kungsbacka Smeagatan A Åsaskolan A \*
 
-Kungsbacka station A  Åsaskolan B *
+Kungsbacka station A  Åsaskolan B \*
 
 <!-- sida 523 -->
 
@@ -19123,25 +19123,25 @@ Bilaga 4. Social konsekvensanalys
 
 Innehåll
 
-1. Bakgrund och syfte . . . . . . . . . . . . . . . . . . . . . . . . . . .5 11. Fordon och miljö . . . . . . . . . . . . . . . . . . . . . . . . . . . .67
+1\. Bakgrund och syfte . . . . . . . . . . . . . . . . . . . . . . . . . . .5 11. Fordon och miljö . . . . . . . . . . . . . . . . . . . . . . . . . . . .67
 
-2. Dagens trafik och affär. . . . . . . . . . . . . . . . . . . . . . . . 11 12. Ytterligare medskick till upphandling. . . . . . . . . . . . . .72
+2\. Dagens trafik och affär. . . . . . . . . . . . . . . . . . . . . . . . 11 12. Ytterligare medskick till upphandling. . . . . . . . . . . . . .72
 
-3. Infrastrukturella förutsättningar . . . . . . . . . . . . . . . . .23
+3\. Infrastrukturella förutsättningar . . . . . . . . . . . . . . . . .23
 
-4. Marknadsanalys Kungsbacka kommun . . . . . . . . . . . . 31
+4\. Marknadsanalys Kungsbacka kommun . . . . . . . . . . . . 31
 
-5. Kundsynpunkter . . . . . . . . . . . . . . . . . . . . . . . . . . . .42
+5\. Kundsynpunkter . . . . . . . . . . . . . . . . . . . . . . . . . . . .42
 
-6. Kommunens inspel . . . . . . . . . . . . . . . . . . . . . . . . . .44
+6\. Kommunens inspel . . . . . . . . . . . . . . . . . . . . . . . . . .44
 
-7. Beskrivning av trafikeringsförslaget . . . . . . . . . . . . . .47
+7\. Beskrivning av trafikeringsförslaget . . . . . . . . . . . . . .47
 
-8. Konsekvenser och risker . . . . . . . . . . . . . . . . . . . . . .58
+8\. Konsekvenser och risker . . . . . . . . . . . . . . . . . . . . . .58
 
-9. Jämförelse mellan dagens linjenät och förslaget . . . . . .62
+9\. Jämförelse mellan dagens linjenät och förslaget . . . . . .62
 
-10. Genomgång av förslagets sociala konsekvenser . . . . . .65
+10\. Genomgång av förslagets sociala konsekvenser . . . . . .65
 
 <!-- sida 549 -->
 
@@ -19182,7 +19182,7 @@ trafikupphandling.                                Karta 1. Karta över dagens li
 
 <!-- sida 551 -->
 
-1. BAKGRUND OCH# .S TYIFTTEEL || 6
+1\. BAKGRUND OCH# .S TYIFTTEEL || 6
 
 Karta 2. Karta över dagens linjenät, Kungsbacka
 tätort. Stadsbusstrafiken i Kungsbacka utgörs
@@ -19191,7 +19191,7 @@ kartan. Gröna linjer avser regionbusslinjer.
 
 <!-- sida 552 -->
 
-1. BAKGRUND OCH# .S TYIFTTEEL || 7
+1\. BAKGRUND OCH# .S TYIFTTEEL || 7
 
 Karta 3. Zonstruktur inom
 Västtrafik trafikområde. Kungsbacka
@@ -19199,7 +19199,7 @@ ingår i zon B.
 
 <!-- sida 553 -->
 
-1. BAKGRUND OCH# .S TYIFTTEEL || 8
+1\. BAKGRUND OCH# .S TYIFTTEEL || 8
 
 Styrande  målbilder, strategier och               till stora delar vara färdigställt och en remissversion skickades ut i
 oktober 2025.
@@ -19239,7 +19239,7 @@ kommun.                                           riktningar och vändmöjlighet
 
 <!-- sida 554 -->
 
-1. BAKGRUND OCH# .S TYIFTTEEL || 9
+1\. BAKGRUND OCH# .S TYIFTTEEL || 9
 
 Tätort, invånarantal Mån - fre    Lör Sön
 < 300       Närtrafik/anropsstyrd trafik - -
@@ -19247,7 +19247,7 @@ Tätort, invånarantal Mån - fre    Lör Sön
 500 – 999           7           -   -
 
 1 000 – 2 999       10          6    5
-> 3 000           18          10   6
+\> 3 000           18          10   6
 Tabell 1. Basutbud för orter baserat på invånarantal. Utbud i antal dubbelturer per dygn. Från Region
 Hallands trafikförsörjningsprogram 2026-2030, remissversion.
 
@@ -19278,7 +19278,7 @@ remissversion oktober 2025.
 
 <!-- sida 555 -->
 
-1. BAKGRUND OCH# .S TYIFTTEEL || 10
+1\. BAKGRUND OCH# .S TYIFTTEEL || 10
 
 Kungsbacka – Göteborg), regiontåg (Hallandståg, Varberg – vardagarnas morgnar och eftermiddagar. Detta innebär två avgångar
 Göteborg) och storregiontåg (Öresundståg Köpenhamn – Skåne – per timme och riktning i högtrafik. Detta är också den långsiktiga
@@ -19316,7 +19316,7 @@ ha en avgång per timme och riktning, med förstärkt utbud under
 
 <!-- sida 556 -->
 
-2.
+2\.
 
 Dagens trafik
 och affär
@@ -19350,13 +19350,13 @@ Kungsbackapendeln (lokaltåg), Hallandståg (regiontåg) och
 Öresundståg (storregionala tåg).
 Resandet med Västtåg mellan Kungsbacka och Göteborg
 (Kungsbackapendeln) har mätts med kundräkningssystem sedan
-2017. Kundräkningssystemet innebär att sensorer i varje dörrpar
+2017\. Kundräkningssystemet innebär att sensorer i varje dörrpar
 räknar antalet på- och avstigande. Under 2024 genomfördes 2,4
 miljoner resor med Västtågen mellan Kungsbacka och Göteborg.
 
 <!-- sida 557 -->
 
-2. DAGENS TRAFIK OCH# A. TFIFTÄERL || 12
+2\. DAGENS TRAFIK OCH# A. TFIFTÄERL || 12
 
 Majoriteten av linjerna och turerna ansluter till och från Planerade linjeförändringar
 Kungsbackapendeln vilket skapar snabba, hållbara och
@@ -19392,12 +19392,12 @@ resor per år görs med respektive linje.
 • Fullt utbyggd tågtrafik, enligt fastställd målbild för tågtrafiken,
 när Västlänken är färdigställd. Detta beräknas ske i december
 I de östra delarna av Kungsbacka kommun finns även en
-2030.
+2030\.
 beställningslinje, 705 Fjärås station-Fjärås centrum. Denna har ett
 mycket lågt nyttjande. Det görs 8 resor per år med beställningslinje • Trafikstart för en eventuell ny expressbusslinje längs väg 158.
-705.                                                  Trafikstart för det avtal som innefattar busstrafik i Göteborg,
+705\.                                                  Trafikstart för det avtal som innefattar busstrafik i Göteborg,
 Mölndal, Partille och nuvarande X-linjer 1–4 sker i december
-2030. Om det införs någon ny expressbusslinje längs väg 158,
+2030\. Om det införs någon ny expressbusslinje längs väg 158,
 I söder ansluter linje 615, som ligger i avtal med Hallandstrafiken, till
 som går in i Kungsbacka kommun, så kommer den att starta
 tågen i Åsa. Åsa station är en viktig knutpunkt för den hela resan.
@@ -19405,7 +19405,7 @@ inom det avtalet med trafikstart december 2030.
 
 <!-- sida 558 -->
 
-2. DAGENS TRAFIK OCH# A. TFIFTÄERL || 13
+2\. DAGENS TRAFIK OCH# A. TFIFTÄERL || 13
 
 Notera att avtalsperioden kan vara antingen tio år likt nuvarande
 avtal eller elva år. Läs mer om detta i kapitel 10 Ytterligare medskick
@@ -19418,7 +19418,7 @@ Figur 3. Tidslinje trafikeringsperioder inom avtalstiden. Notera att avtalstiden
 
 <!-- sida 559 -->
 
-2. DAGENS TRAFIK OCH# A. TFIFTÄERL || 14
+2\. DAGENS TRAFIK OCH# A. TFIFTÄERL || 14
 
 Resande                                           De linjer och stråk som uppvisar ett högt resande på vardagar har
 generellt även ett starkt resande under helgerna, dock medför inte
@@ -19462,7 +19462,7 @@ lågtrafik är resandet relativt begränsat i jämförelse med linje 731.
 
 <!-- sida 560 -->
 
-2. DAGENS TRAFIK OCH AFFÄR | 15
+2\. DAGENS TRAFIK OCH AFFÄR | 15
 
 Linje 733 uppvisar samma mönster med ett högre resande under en Särö och Kullavik
 begränsad period på morgonen och eftermiddagen, övriga tider är I stråket mellan Kullavik/Särö och Kungsbacka trafikförsörjer linje
@@ -19479,7 +19479,7 @@ Karta 5. Linjenät Särö och Kullavik
 
 <!-- sida 561 -->
 
-2. DAGENS TRAFIK OCH# A. TFIFTÄERL || 16
+2\. DAGENS TRAFIK OCH# A. TFIFTÄERL || 16
 
 Frillesås och Åsa                                 Fjärås
 I riktning mot Åsa och Frillesås trafikerar huvudsakligen linje 732 Mellan Fjärås och Kungsbacka är linje 742 (Förlanda-Öxared-
@@ -19503,7 +19503,7 @@ Karta 6. Linjenät Frillesås och Åsa.
 
 <!-- sida 562 -->
 
-2. DAGENS TRAFIK OCH# A. TFIFTÄERL || 17
+2\. DAGENS TRAFIK OCH# A. TFIFTÄERL || 17
 
 Sydost                                            Nordost
 Linjer som trafikerar i det sydostliga inlandet (743 (Litserhult- I det nordostliga inlandet trafikerar linje 717 (Röshult-Anneberg-
@@ -19524,7 +19524,7 @@ Karta 9. Linjenät nordost.
 
 <!-- sida 563 -->
 
-2. DAGENS TRAFIK OCH# A. TFIFTÄERL || 18
+2\. DAGENS TRAFIK OCH# A. TFIFTÄERL || 18
 
 Stadsbusstrafiken
 Linje 1-5 täcker in större del av Kungsbacka tätort med få
@@ -19537,7 +19537,7 @@ Karta 10. Linjenät stadbusstrafiken
 
 <!-- sida 564 -->
 
-2. DAGENS TRAFIK OCH# A. TFIFTÄERL || 19
+2\. DAGENS TRAFIK OCH# A. TFIFTÄERL || 19
 
 [Tabell 564-1](handlingar.tabeller/564-1.csv)
 
@@ -19578,7 +19578,7 @@ Karta 10. Linjenät stadbusstrafiken
 
 <!-- sida 565 -->
 
-2. DAGENS TRAFIK OCH# A. TFIFTÄERL || 20
+2\. DAGENS TRAFIK OCH# A. TFIFTÄERL || 20
 
 Resande  med   skolkort
 
@@ -19651,7 +19651,7 @@ Tabell 3. Andel skolkort per linje, Kungsbacka Tätort
 
 <!-- sida 566 -->
 
-2. DAGENS TRAFIK OCH# A. TFIFTÄERL || 21
+2\. DAGENS TRAFIK OCH# A. TFIFTÄERL || 21
 
 Dagens  affär                                     Befintligt trafikbolag har idag 3 depåer och kör på en kombination av
 diesel RME och el. En begränsning utifrån dagens avtalsstruktur är
@@ -19705,7 +19705,7 @@ Tabell 6. Rast- och pauslokaler i området.
 
 <!-- sida 567 -->
 
-2. DAGENS TRAFIK OCH# A. TFIFTÄERL || 22
+2\. DAGENS TRAFIK OCH# A. TFIFTÄERL || 22
 
 Förstärkningstrafik                               avses fritidsladdningar, tillfälliga skolkort, biljett för hemresa och
 Under 2023, 2024 och fram till i september 2025 har KE:s förstärkt skolstartskort.
@@ -19738,7 +19738,7 @@ Under 2025 har Kungsbacka kommun beställt totalt 4 834 skolkort.
 Av dessa var det 4 481 stycken som beställdes under perioden
 juni-september, och kan antas vara aktiva under höstterminen
 
-2025. Utöver detta har kommunen beställt 10 685 övriga biljetter
+2025\. Utöver detta har kommunen beställt 10 685 övriga biljetter
 under 2025, fram till mitten av september. Med övriga biljetter
 
 [Tabell 567-1](handlingar.tabeller/567-1.csv)
@@ -19769,7 +19769,7 @@ allmänna busstrafiken. Invånare inom ofärgade ytor är berättigade Närtrafi
 
 <!-- sida 569 -->
 
-3. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 24
+3\. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 24
 
 Det har gjorts testkörning med ledbuss längs linje 731. Majoriteten av Planerade infrastrukturåtgärder
 hållplatserna kan trafikeras med ledbuss med nuvarande utformning,
@@ -19813,14 +19813,14 @@ Onsalavägen, nybyggnad - www.trafikverket.se
 
 <!-- sida 570 -->
 
-3. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 25
+3\. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 25
 
 Karta 12. Till vänster: Översiktsbild för ny väg 940, Onsalavägen. Källa: Trafikverket. Till höger: den planerade vägen i förhållande till nuvarande linjenät.
 Ungefärlig sträckning markerad på Hallandstrafikens linjenätskarta.
 
 <!-- sida 571 -->
 
-3. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 26
+3\. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 26
 
 Karta 13. Till vänster:
 Illustrationsplan Hedeleden.
@@ -19839,7 +19839,7 @@ En detaljplan för detta har varit ute på granskning. Den nya
 
 <!-- sida 572 -->
 
-3. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 27
+3\. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 27
 
 En annan planerad åtgärd inom det kommunala vägnätet, är Även i den södra änden av Varlavägen genomförs breddning till fyra
 breddning av Varlavägen för ökad framkomlighet. Varlavägen förses körfält, i samband med ett exploateringsprojekt4.
@@ -19860,7 +19860,7 @@ Hallandstrafikens linjenätskarta.
 
 <!-- sida 573 -->
 
-3. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 28
+3\. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 28
 
 Det finns även planer på att bredda Arendalsleden, mellan Kollektivtrafikens framkomlighet inom
 Varlavägen och Göteborgsvägen, till fyra körfält5. Åtgärden är i
@@ -19898,7 +19898,7 @@ Kungsgatan och Borgmästaregatan samt del av Vallgatan, Storgatan
 
 <!-- sida 574 -->
 
-3. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 29
+3\. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 29
 
 och Varlavägen6. Utredningen konstaterade att kollektivtrafiken åtgärder för ökad trafiksäkerhet, är hållplatslägena vid Kungsbacka
 påverkas av rusningstrafiken, och att restiderna varierar mycket station.
@@ -19947,7 +19947,7 @@ Kungsbacka stad 2050
 
 <!-- sida 575 -->
 
-3. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 30
+3\. INFRASTRUKTURELLA FÖRUTSÄTTN#I.N TGITAERL || 30
 
 Tabell 9. Information om pendelparkeringar i Kungsbacka kommun.
 
@@ -20015,7 +20015,7 @@ av Region Halland.
 
 <!-- sida 577 -->
 
-4. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 32
+4\. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 32
 
 I Kungsbacka kommun är medelåldern 42,7 år vilket ligger nära
 genomsnittet i Sverige på 42,2 år. Könsfördelningen i Kungsbacka
@@ -20055,7 +20055,7 @@ kommun
 
 <!-- sida 578 -->
 
-4. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 33
+4\. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 33
 
 Socioekonomi                                      tider då många är beroende av kollektivtrafiken, såsom kvällar och
 helger.
@@ -20086,7 +20086,7 @@ Boverkets segregationsbarometer.
 
 <!-- sida 579 -->
 
-4. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 34
+4\. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 34
 
 bistånd. Indelningen sker i fem områdestyper:     som områdestyp 3, vilket innebär ett område med blandade
 socioekonomiska förhållanden. Övriga delar av kommunen
@@ -20127,7 +20127,7 @@ Endast ett område i centrala Kungsbacka är klassificerat
 
 <!-- sida 580 -->
 
-4. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 35
+4\. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 35
 
 Tabell 10. In- och utpendling över kommungräns, de största relationerna. Informationen
 hämtad från SCB och avser år 2023.
@@ -20170,7 +20170,7 @@ Halland | Region Halland
 
 <!-- sida 581 -->
 
-4. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 36
+4\. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 36
 
 Figur 9. Andel (%) som kan cykla till sin arbetsplats, inom viss tid. Källa: Cykelpotentialstudie, Region Halland.
 
@@ -20188,7 +20188,7 @@ vårdcentral och dagligvaruhandel.
 
 <!-- sida 582 -->
 
-4. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 37
+4\. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 37
 
 Bisnode från 2020 karaktäriseras Kungsbackas näringsliv av små,
 lönsamma bolag.
@@ -20224,7 +20224,7 @@ museer och teatrar som finns redovisade i kommunens karttjänst.
 
 <!-- sida 583 -->
 
-4. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 38
+4\. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 38
 
 Det finns också ett antal fritidsgårdar, som kan vara viktiga
 målpunkter för kollektivtrafikresenärer.
@@ -20235,14 +20235,14 @@ Karta 20. Fritidsgårdar. Källa: Kungsbacka kommun
 
 <!-- sida 584 -->
 
-4. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 39
+4\. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 39
 
 Utbyggnadsplaner                                  Detta är också tydligt i den befolkningsprognos som är framtagen för
 kommunen9.
 Enligt kommunens översiktsplan ska ny bebyggelse koncentreras till
 staden samt stationsorterna Anneberg och Åsa.
 Område        Antal invånare (dec Förändring till 2034,
-2024)         prognos
+2024\)         prognos
 Kungsbacka stad 23 986      + 4 039
 Onsala        14 118        - 862
 
@@ -20266,14 +20266,14 @@ stad, Anneberg och Åsa.
 
 <!-- sida 585 -->
 
-4. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 40
+4\. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 40
 
 Figur 11. Från Fördjupad översiktsplan för
 Kungsbacka stad, 2026.
 
 <!-- sida 586 -->
 
-4. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 41
+4\. MARKNADSANALYS KUNGSBACKA KO#M. MTITUENL || 41
 
 Sammanfattning    av                              att öka, och det kan finnas ytterligare potential i busslinjer som
 
@@ -20354,7 +20354,7 @@ hållplats och Förare.
 
 <!-- sida 588 -->
 
-5. KUNDSYNPU#N. TKITTEERL || 43
+5\. KUNDSYNPU#N. TKITTEERL || 43
 
 Linje 743: Har för få kundsynpunkter för att kunna analyseras. Linje 732: På linje 732 finns det några förslag om andra körvägar,
 passningar till tåg och önskemål om ökade öppettider på helgen.
@@ -20429,7 +20429,7 @@ kommun                                             helhet.
 
 <!-- sida 590 -->
 
-6. KOMMUNENS #IN. TSIPTEELL || 45
+6\. KOMMUNENS #IN. TSIPTEELL || 45
 
 • Hur en ny expressbusslinje längs väg 158 påverkar behöver Samordning skoltrafik och allmän trafik
 tydliggöras. Hur påverkas övriga linjer i området? Kvarstår • Det är positivt med samordning mellan skoltrafik och allmän
@@ -20475,7 +20475,7 @@ resande i stadsbusstrafiken.
 
 <!-- sida 591 -->
 
-6. KOMMUNENS #IN. TSIPTEELL || 46
+6\. KOMMUNENS #IN. TSIPTEELL || 46
 
 genomföra åtgärder. Grundtanken är att biltrafik prioriteras på • Vändplats Ölmanäs (ej kommunalt vägnät, men hänger ihop
 den nya vägen, medan gång, cykel och kollektivtrafik prioriteras med bebyggelseplanering) – fortsatt dialog, möjliga lösningar
@@ -20564,7 +20564,7 @@ passningar, viktiga målpunkter och huvudsakligt syfte, finns i bilaga 1.
 
 <!-- sida 593 -->
 
-7. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 48
+7\. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 48
 
 Trafikeringsstrategi                              Förarperspektivet
 
@@ -20609,17 +20609,17 @@ med hjälp av tydliga trafikkoncept.
 
 <!-- sida 594 -->
 
-7. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 49
+7\. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 49
 
 Figur 12. Övergripande tidslinje - förstudie, trafikstart och trafikeringsperiod 1. Denna förstudie, för busstrafik inom Kungsbacka, ska vara klar under första halvåret av
-2026. Expressbusslinje längs väg 158 utreds i en annan förstudie.
+2026\. Expressbusslinje längs väg 158 utreds i en annan förstudie.
 Beskrivningen av trafikeringsförslaget utgår främst från trafikeringsperiod
 2, men där det finns skillnader mellan trafikeringsperiod 1 och 2 finns detta
 beskrivet.
 
 <!-- sida 595 -->
 
-7. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 50
+7\. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 50
 
 Trafikeringsförslag                               Eftersom beslut om en ny expressbusslinje inte ligger inom denna förstudie,
 hanteras olika scenarier:
@@ -20640,14 +20640,14 @@ en eventuell ny expressbusslinje X7 kan starta först i december 2030,
 station. I övriga scenarier påverkas linje 720 respektive 731, vilket beskrivs i
 kommer ett scenario utan X7 att gälla åtminstone under trafikeringsperiod
 samband med dessa linjer.
-1.
+1\.
 
 Karta 22. Översikt av de tre scenarier som hanteras inom denna förstudie. Från vänster ”Utan X7”, i mitten ”Med X7 till Kungsbacka” och höger ”Med X7
 till Onsala”. Notera att det första scenariot, utan X7, kommer att gälla för trafikeringsperiod 1 oavsett vad som beslutas angående ny expressbusslinje.
 
 <!-- sida 596 -->
 
-7. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 51
+7\. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 51
 
 Karta 21. Översikt trafikeringsförslag, illustrerat ovanpå nuvarande
 linjekarta. Gröna linjer motsvarar sträckor som ingår i befintligt
@@ -20656,7 +20656,7 @@ till Kungsbacka station.
 
 <!-- sida 597 -->
 
-7. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 52
+7\. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 52
 
 För att få en attraktiv expressbusslinje X7 behöver framkomligheten för
 kollektivtrafiken säkerställas. Här behövs ett fortsatt samarbete med
@@ -20688,7 +20688,7 @@ Karta 23. Trafikeringsförslag för Kungsbacka stad.
 
 <!-- sida 598 -->
 
-7. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 53
+7\. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 53
 
 Trafikeringsförslag västra Kungsbacka – Kullavik, Särö, Onsala
 Trafikeringsupplägget i västra Kungsbacka påverkas av eventuell ny
@@ -20712,7 +20712,7 @@ Kungsbacka
 
 <!-- sida 599 -->
 
-7. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 54
+7\. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 54
 
 Trafikeringsförslag östra Kungsbacka – Fjärås, Anneberg, Gällinge
 I de östra delarna av Kungsbacka kommun föreslås ett trafikeringsupplägg
@@ -20733,7 +20733,7 @@ Karta 25. Trafikeringsförslag östra Kungsbacka
 
 <!-- sida 600 -->
 
-7. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 55
+7\. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 55
 
 Trafikeringsförslag södra Kungsbacka – Åsa, Frillesås
 I de södra delarna av Kungsbacka ger det föreslagna trafikeringsupplägget
@@ -20755,7 +20755,7 @@ södra Kungsbacka
 
 <!-- sida 601 -->
 
-7. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 56
+7\. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 56
 
 Kort sammanställning   över  föreslagna
 
@@ -20800,7 +20800,7 @@ Beställningslinjerna 703, 704 och 705 läggs ner.
 
 <!-- sida 602 -->
 
-7. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 57
+7\. BESKRIVNING AV TRAFIKERINGSFÖRS#.L ATIGTEETL || 57
 
 [Tabell 602-1](handlingar.tabeller/602-1.csv)
 
@@ -20848,9 +20848,9 @@ regionbussarna trafikerar ”nedanför” vilket är fullgott utifrån (boggi) i
 
 <!-- sida 604 -->
 
-8. KONSEKVENSER OCH #R.I STIKTEERL || 59
+8\. KONSEKVENSER OCH #R.I STIKTEERL || 59
 
-158. För resor mellan Särö och Kungsbacka blir X7 ett mer attraktivt Linje 732 Åsa – Kungsbacka
+158\. För resor mellan Särö och Kungsbacka blir X7 ett mer attraktivt Linje 732 Åsa – Kungsbacka
 alternativ. Boende i Särö får då kliva på i Särö centrum. I ett scenario Minskad parallellkörning. Resenärer mellan Åsa och Kungsbacka
 
 utan X7, eller där X7 inte går till Kungsbacka, behålls nuvarande hänvisas till tåg i högre utsträckning. De som bor mellan orterna får
@@ -20891,7 +20891,7 @@ I ett scenario där X7 går till Onsala behålls nuvarande fordonstyp.
 
 <!-- sida 605 -->
 
-8. KONSEKVENSER OCH #R.I STIKTEERL || 60
+8\. KONSEKVENSER OCH #R.I STIKTEERL || 60
 
 Linje 735 Kungsbacka – Lindome                    741 Sätila – Nåkälla – Fjärås
 Bättre pendlingsmöjlighet för arbete och studier. Lättare att förstå Förslaget kommer upplevas negativt för de resande som ska till
@@ -20927,7 +20927,7 @@ betydelsen av det är liten.
 
 <!-- sida 606 -->
 
-8. KONSEKVENSER OCH #R.I STIKTEERL || 61
+8\. KONSEKVENSER OCH #R.I STIKTEERL || 61
 
 Linje 745 Gällinge – Åsa
 Positivt är att det blir ett mer renodlat upplägg med koppling i
@@ -21008,7 +21008,7 @@ av Göteborgsvägen mellan Tölö tvärled och Hedestation som
 
 <!-- sida 608 -->
 
-9. JÄMFÖRELSE MELLAN DAGENS LINJENÄT OCH FÖRS#.L ATIGTEETL || 63
+9\. JÄMFÖRELSE MELLAN DAGENS LINJENÄT OCH FÖRS#.L ATIGTEETL || 63
 
 Linje 733 kommer att vända i Lerkil och på så sätt minskas tillgänglighet och skapar ett mer logiskt och användarvänligt linjenät i
 parallelltrafikeringen på Valldavägen.            södra kommunen.
@@ -21059,7 +21059,7 @@ och från Kungsbacka. Dessa åtgärder förbättrar kapacitet, ökar
 
 <!-- sida 609 -->
 
-9. JÄMFÖRELSE MELLAN DAGENS LINJENÄT OCH FÖRS#.L ATIGTEETL || 64
+9\. JÄMFÖRELSE MELLAN DAGENS LINJENÄT OCH FÖRS#.L ATIGTEETL || 64
 
 Kungsbacka kommuns generösa tilldelning av skolkort innebär att Diskussion ekonomiska konsekvenser
 en betydande andel skolelever reser i den allmänna kollektivtrafiken,
@@ -21125,7 +21125,7 @@ För barn och unga bedöms effekterna över lag vara positiva. drabba denna grup
 
 <!-- sida 611 -->
 
-10. GENOMGÅNG AV FÖRSLAGETS SOCIALA KONSEKV#E. NTISTEERL || 66
+10\. GENOMGÅNG AV FÖRSLAGETS SOCIALA KONSEKV#E. NTISTEERL || 66
 
 De föreslagna förändringarna kan bidra till ökad jämlikhet i de stråk
 där efterfrågan är hög och resbehovet störst. Barn och äldre, som
@@ -21189,7 +21189,7 @@ bör undvikas.
 
 <!-- sida 613 -->
 
-11. FORDON OCH# M. TIILTJEÖL || 68
+11\. FORDON OCH# M. TIILTJEÖL || 68
 
 Definitioner av fordonsklasser:                   Av tabellen nedan framgår en sammanställning över fordonstyper
 per linje, beräknat antal tursatta fordon samt tillhörande drivmedel:
@@ -21221,7 +21221,7 @@ och LB2L.
 | 1 | Hede - Fors | CN1L | El | VT-Blå | 5 |
 | 2 | Hede - Kolla | CN1L | El | VT-Blå | 5 |
 | 3 | Kungsbacka<br>– Britta-<br>Lena | CN1L | El | VT-Blå | 3 |
-| 731 | Kungsbacka-<br>Onsala-<br>Gottskär-<br>Mariedal | CL1L/<br>CN1L*1) | El | VT-Blå | 5 |
+| 731 | Kungsbacka-<br>Onsala-<br>Gottskär-<br>Mariedal | CL1L/<br>CN1L\*1) | El | VT-Blå | 5 |
 |  |  |  |  |  |  |
 | 717 | Kungsbacka<br>– Anneberg<br>– Röshult | LN2L | Fossilfritt | VT-Blå | 2 |
 | 735 | Kungsbacka<br>– Lindome | LN2L | Fossilfritt | VT-Blå | 2 |
@@ -21242,7 +21242,7 @@ och LB2L.
 
 <!-- sida 614 -->
 
-11. FORDON OCH# M. TIILTJEÖL || 69
+11\. FORDON OCH# M. TIILTJEÖL || 69
 
 Trafikering med  ledbussar
 
@@ -21269,13 +21269,13 @@ Hallandstrafiken gör bedömningen att inga förstärkningsreserver
 behövs inom ramen för trafikuppdraget.
 
 Tekniska  reserver
-*1) Dagtrafik. Turer som startar från Kungsbacka station från kl. 04:00 till och med kl. 17:59.
-*1) Kvälls- och nattrafik. Turer som startar från Kungsbacka station från och med kl. 18:00. Tekniska reserver finns i avtalet för att täcka upp för olika typer av
-*2) Linjen kan behöva 3 tursatta under perioden jun 2029 – dec 2030 innan ny expresslinje mot Gbg
+\*1) Dagtrafik. Turer som startar från Kungsbacka station från kl. 04:00 till och med kl. 17:59.
+\*1) Kvälls- och nattrafik. Turer som startar från Kungsbacka station från och med kl. 18:00. Tekniska reserver finns i avtalet för att täcka upp för olika typer av
+\*2) Linjen kan behöva 3 tursatta under perioden jun 2029 – dec 2030 innan ny expresslinje mot Gbg
 stillestånd, så som förebyggande underhåll, service, verkstadsbesök
 startar.
 och större insatser i fordonsvården. Tekniska reserver uppfyller
-*3) Linjen kan behöva 2 tursatta under perioden jun 2029 – dec 2030 pga. förändringar i tågtrafiken.
+\*3) Linjen kan behöva 2 tursatta under perioden jun 2029 – dec 2030 pga. förändringar i tågtrafiken.
 gällande fordonskrav likt övriga fordon och ska uppgå till minst 15,0%
 per fordonstyp baserat på tursatta fordon. Förstärkningsreserver
 räknas som tursatta fordon.
@@ -21285,8 +21285,8 @@ räknas som tursatta fordon.
 | Linje | Sträckning | Fordonstyp | Drivmedel | Fordons-<br>design | Ca antal<br>fordon |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
-| 720 | Kungsbacka<br>– Särö –<br>Kullavik | LB2L | Fossilfritt | VT-Blå | 2*2) |
-| 732 | Kungsbacka<br>– Åsa | LB2L | Fossilfritt | VT-Blå | 1*3) |
+| 720 | Kungsbacka<br>– Särö –<br>Kullavik | LB2L | Fossilfritt | VT-Blå | 2\*2) |
+| 732 | Kungsbacka<br>– Åsa | LB2L | Fossilfritt | VT-Blå | 1\*3) |
 | 733 | Kungsbacka<br>– Vallda – V<br>Hagen | LB2L | Fossilfritt | VT-Blå | 2 (+1 fst) |
 | 734 | Kungsbacka<br>– Vallda –<br>Mariedal | LB2L | Fossilfritt | VT-Blå | 2 (+3 fst) |
 | 742 | Kungsbacka<br>– Fjärås | LB2L | Fossilfritt | VT-Blå | 3 |
@@ -21297,7 +21297,7 @@ räknas som tursatta fordon.
 
 <!-- sida 615 -->
 
-11. FORDON OCH# M. TIILTJEÖL || 70
+11\. FORDON OCH# M. TIILTJEÖL || 70
 
 I de fall Trafikföretaget väljer att ha flera stationeringsorter för Fordonsmarknaden
 fordon inom avtalet ska det på varje enskild stationeringsort finnas
@@ -21341,7 +21341,7 @@ med fossilfritt drivmedel och i stadstrafiken föredras eldrift. finns nedan ant
 
 <!-- sida 616 -->
 
-11. FORDON OCH# M. TIILTJEÖL || 71
+11\. FORDON OCH# M. TIILTJEÖL || 71
 
 Eldrift:                                          potentiella Trafikföretag när dom räknar på sina anbud så att
 spekulationer om elbusspremie kommer erhållas eller ej risk
@@ -21429,7 +21429,7 @@ kostnadsoptimering.                               Skoltrafiken fungerar i prakti
 
 <!-- sida 618 -->
 
-12. YTTERLIGARE MEDSKICK TILL UPPHAN#.D TLIITNEGL || 73
+12\. YTTERLIGARE MEDSKICK TILL UPPHAN#.D TLIITNEGL || 73
 
 allmänna kollektivtrafiken, dels genom en generös tilldelning av x-pressbusstrafik för att om möjligt kunna ge sena inspel till
 skolkort och dels genom att allmänresenärer tillåts resa med den Upphandlingsunderlaget för kommande trafik i Kungsbacka.
@@ -21477,7 +21477,7 @@ klargöra förutsättningarna för en eventuell linje X7 samt övrig att Västl�
 
 <!-- sida 619 -->
 
-12. YTTERLIGARE MEDSKICK TILL UPPHAN#.D TLIITNEGL || 74
+12\. YTTERLIGARE MEDSKICK TILL UPPHAN#.D TLIITNEGL || 74
 
 volymer. Kostnadsökningen är främst kopplad till investeringar attraktivitet och tillgänglighet. Innan upphandlingen genomförs
 i fordon för linjerna 720 och 732, vilka krävs för att upprätthålla behövs en avstämning mellan Hallandstrafiken och Västtrafik,
@@ -21653,7 +21653,7 @@ påverkan bedöms bli liten.
 Elever från Axtorp bör vara inne i Gällinge strax innan klockan 8. Samtidigt kan det finnas behov
 
 av att linje 743 är inne i Fjärås vid liknande tid, och det kan finnas behov av att passa mot linje
-744. Linje 743 kommer inte kunna matcha skoltid i både Fjärås och Gällinge, detta behöver
+744\. Linje 743 kommer inte kunna matcha skoltid i både Fjärås och Gällinge, detta behöver
 studeras närmare.
 
 Behov
@@ -21814,7 +21814,7 @@ SIDA | 2
 
 INFRASTRUKTURÅTGÄRDER STATLIGT VÄGNÄT
 
-1. VÄG 158, ANPASSNINGAR FÖR EXPRESSBUSS
+1\. VÄG 158, ANPASSNINGAR FÖR EXPRESSBUSS
 
 Bakgrund
 
@@ -21900,7 +21900,7 @@ kollektivtrafikresenärer i någon nämnvärd utsträckning, kan inte motiveras.
 
 SIDA | 4
 
-2. VALLDA TREKANT, UTVECKLING SOM KNUTPUNKT
+2\. VALLDA TREKANT, UTVECKLING SOM KNUTPUNKT
 
 Bakgrund
 
@@ -21939,7 +21939,7 @@ bytespunkt för resenärerna, och att byten upplevs som större hinder än det a
 
 SIDA | 5
 
-3. LERKIL, NY VÄNDPLATS
+3\. LERKIL, NY VÄNDPLATS
 
 Bakgrund
 
@@ -21973,7 +21973,7 @@ tillskapas någon vändmöjlighet i Lerkil.
 
 SIDA | 6
 
-4. HÅLLPLATS VÄSTRA HAGEN, NYTT LÄGE
+4\. HÅLLPLATS VÄSTRA HAGEN, NYTT LÄGE
 
 Bakgrund
 
@@ -22007,7 +22007,7 @@ problematik kommer då kvarstå, med risk för frånåkta resenärer och extra s
 
 SIDA | 7
 
-5. MARIEDAL, NY VÄNDPLATS
+5\. MARIEDAL, NY VÄNDPLATS
 
 Bakgrund
 
@@ -22062,7 +22062,7 @@ med boggibuss per år. Om det inte anläggs någon ny vändplats, och vändning 
 
 SIDA | 9
 
-6. ÖLMANÄS, VÄNDPLATS OCH HÅLLPLATSLÄGEN
+6\. ÖLMANÄS, VÄNDPLATS OCH HÅLLPLATSLÄGEN
 
 Bakgrund
 
@@ -22120,7 +22120,7 @@ SIDA | 11
 
 INFRASTRUKTURÅTGÄRDER KOMMUNALT/ENSKILT VÄGNÄT
 
-7. VARLAPLATÅN, MÖJLIGGÖRA DUBBELRIKTAD BUSSTRAFIK
+7\. VARLAPLATÅN, MÖJLIGGÖRA DUBBELRIKTAD BUSSTRAFIK
 
 Bakgrund
 
@@ -22154,7 +22154,7 @@ slinga. Detta innebär ett fortsatt otydligt upplägg och sämre tillgänglighet
 
 SIDA | 12
 
-8. KUNGSGATAN, KOLLEKTIVTRAFIKKÖRFÄLT
+8\. KUNGSGATAN, KOLLEKTIVTRAFIKKÖRFÄLT
 
 Bakgrund
 
@@ -22204,7 +22204,7 @@ trafikmängderna ökar i enlighet med prognoser. Om åtgärden inte genomförs, 
 
 SIDA | 13
 
-9. INLAGSLEDEN, NY HÅLLPLATS
+9\. INLAGSLEDEN, NY HÅLLPLATS
 
 Bakgrund
 
@@ -22237,7 +22237,7 @@ att ersättas med ny hållplats. Det blir ett stort avstånd mellan hållplatser
 
 SIDA | 14
 
-10. ONSALAVÄGEN, ANPASSNING AV HÅLLPLATSER
+10\. ONSALAVÄGEN, ANPASSNING AV HÅLLPLATSER
 
 Bakgrund
 
@@ -22246,11 +22246,11 @@ mellan Mariedal och Kungsbacka station, för att minska trängsel och på ett b�
 
 det resbehov som finns. En provkörning med ledbuss har gjorts år 2023, se tabell.
 
-*genomsnittligt antal påstigande per vardag, oktober 2023
+\*genomsnittligt antal påstigande per vardag, oktober 2023
 
 [Tabell 641-1](handlingar.tabeller/641-1.csv)
 
-| Hållplats | Påst* | Läge A | Läge B | Läge C | Kommentar |
+| Hållplats | Påst\* | Läge A | Läge B | Läge C | Kommentar |
 | --- | --- | --- | --- | --- | --- |
 | Mariedal | 20 | x | x |  |  |
 | Strävliden | 28 | x | x |  | Läge A: inte ok idag, "lastkaj" halva hållplats |
@@ -22324,7 +22324,7 @@ skulle innebära att nuvarande kapacitetsbrister och trängsel kvarstår.
 
 SIDA | 16
 
-11. HEDELEDEN, NY VÄG
+11\. HEDELEDEN, NY VÄG
 
 Bakgrund
 
@@ -22357,7 +22357,7 @@ Björkris.
 
 SIDA | 17
 
-12. KUNGSBACKA STATION, HÅLLPLATS FÖR LEDBUSS
+12\. KUNGSBACKA STATION, HÅLLPLATS FÖR LEDBUSS
 
 Bakgrund
 
@@ -22399,7 +22399,7 @@ ledbuss på linje 731, vilket skulle innebära att nuvarande kapacitetsbrister o
 
 SIDA | 18
 
-13. FJÄRÅS CENTRUM, UTVECKLING SOM KNUTPUNKT
+13\. FJÄRÅS CENTRUM, UTVECKLING SOM KNUTPUNKT
 
 Bakgrund
 
@@ -22443,7 +22443,7 @@ upplevelse av sin resa och att stärka kollektivtrafikens attraktivitet.
 
 SIDA | 20
 
-14. ÅSA STATION, UTVECKLING SOM KNUTPUNKT
+14\. ÅSA STATION, UTVECKLING SOM KNUTPUNKT
 
 Bakgrund
 
@@ -22486,14 +22486,14 @@ DNKT250060
 
 Beslut
 
-1. Driftnämnden godkänner att projektet går vidare för upphandling i enlighet
+1\. Driftnämnden godkänner att projektet går vidare för upphandling i enlighet
 med förstudie Trafik 2029 Kungsbacka.
 
-2. Driftnämnden ger förvaltningen i uppdrag att medverka i upphandling samt att
+2\. Driftnämnden ger förvaltningen i uppdrag att medverka i upphandling samt att
 fastställa tilldelningsbeslut och teckna avtal med trafikföretag, med förbehåll
 att upphandlingsvärdet är inom ram för beslutad budget.
 
-3. Driftnämnden ger förvaltningen i uppdrag att föra dialog med Kungsbacka
+3\. Driftnämnden ger förvaltningen i uppdrag att föra dialog med Kungsbacka
 kommun gällande kollektivtrafikens förutsättningar i vägnätet, i enlighet med
 Region Hallands samplaneringsmodell.
 
@@ -22536,14 +22536,14 @@ bedömningen är att de positiva effekterna överväger.
 
 Förslag till beslut
 
-1. Driftnämnden godkänner att projektet går vidare för upphandling i enlighet
+1\. Driftnämnden godkänner att projektet går vidare för upphandling i enlighet
 med förstudie Trafik 2029 Kungsbacka.
 
-2. Driftnämnden ger förvaltningen i uppdrag att medverka i upphandling samt att
+2\. Driftnämnden ger förvaltningen i uppdrag att medverka i upphandling samt att
 fastställa tilldelningsbeslut och teckna avtal med trafikföretag, med förbehåll
 att upphandlingsvärdet är inom ram för beslutad budget.
 
-3. Driftnämnden ger förvaltningen i uppdrag att föra dialog med Kungsbacka
+3\. Driftnämnden ger förvaltningen i uppdrag att föra dialog med Kungsbacka
 kommun gällande kollektivtrafikens förutsättningar i vägnätet, i enlighet med
 
 Region Hallands samplaneringsmodell.
@@ -23148,7 +23148,7 @@ under mandatperioden 2026–2030.
 
 Kommunfullmäktige fastställer att partistödets storlek för år 2027 baseras på det
 antal mandat respektive parti besitter i kommunfullmäktige efter de allmänna valen
-2026. Partistödet betalas ut i januari 2027.
+2026\. Partistödet betalas ut i januari 2027.
 
 Sammanfattning av ärendet
 
@@ -23296,11 +23296,11 @@ också ett granskningsintyg lämnas. Redovisningen och granskningen ska avse per
 december och lämnas in senast sex månader efter räkenskapsårets utgång.
 
 Kommunfullmäktige kan besluta att inte betala ut partistöd till ett parti för nästkommande år om:
--  Redovisningen av partistödet visar att partistödet inte använts för det ändamål som anges i
+\-  Redovisningen av partistödet visar att partistödet inte använts för det ändamål som anges i
 
 4 kap. 29 § första stycket kommunallagen eller på annat sätt inte följer de bestämmelser som
 anges i reglerna för kommunalt partistöd i Kungsbacka kommun.
--  Redovisningen och granskningsintyg inte har lämnats in till kommunfullmäktige inom
+\-  Redovisningen och granskningsintyg inte har lämnats in till kommunfullmäktige inom
 föreskriven tid enligt 4 kap. 31 § andra stycket kommunallagen, det vill säga senast sex
 månader efter räkenskapsårets utgång.
 
@@ -23358,7 +23358,7 @@ Partiuppgifter
 
 År 2025
 
-113)
+113\)
 
 Parti
 
@@ -23392,7 +23392,7 @@ Kvarstående partistöd från föregående period (år)
 
 Beviljat partistöd för perioden
 
-+
+\+
 
 Utgifter under perioden (summa B + C)
 
@@ -23427,11 +23427,11 @@ C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 
 Granskares anteckningar
 
-213)
+213\)
 
 Överföring ill Motprestation Kronor
 KD partidistrikt Halland + Gemensamma tjänster 92 826
--
+\-
 
 Summa överföringar = 92 826
 Underskrift
@@ -23533,10 +23533,10 @@ Granskares anteckningar
 
 Miljöpa rtiet Riks utbildning och nätverk 6 880:-
 
-+
+\+
 
-|
-+
+\|
+\+
 Mölnihinö SESSSNT, "vera
 
 Summa överföringar a 6 880:-
@@ -23574,7 +23574,7 @@ Redovisning av kommunalt partistöd
 
 År 2025
 
-13)
+13\)
 
 Partiuppgifter
 
@@ -23625,7 +23625,7 @@ Bankkostnader, Minnesgåva vid dödsfall 6048
 
 C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 
-213)
+213\)
 
 Granskares anteckningar
 
@@ -23641,10 +23641,10 @@ Kronor
 
 Vänsterpartiet Halland
 
-+ Gemensamma aktiviteter 31104
+\+ Gemensamma aktiviteter 31104
 Annonsering
 
-+
+\+
 Summa överföringar = 45804
 Underskrift
 Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
@@ -23693,7 +23693,7 @@ Partiuppgifter
 HD
 
 KVvetbtr
-PNGÄNNGSbac <A
+PNGÄNNGSbac \<A
 
 +&-postadress
 
@@ -23776,7 +23776,7 @@ ka bidr
 
 <!-- sida 679 -->
 
-213)
+213\)
 C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 Överföring till Molprestation ä t . ronor fs
 Modirokrua Mim avaett 37 980
@@ -23825,7 +23825,7 @@ Namniförtlydligande Datum
 
 <!-- sida 680 -->
 
-144)
+144\)
 
 Kungsbacka
 
@@ -23840,15 +23840,15 @@ Annika Hedman, NN
 A Sammanställning Kronor Granskares anteckningar
 Kvarstående partistöd från föregående penod (år) |
 Beviljat partistöd för perinden | + 382 200
-|
+\|
 | Utgifter under perioden (summa B + Cj | - 240 107
-- ]
+\- ]
 | Kvarstående partistöd inför kommande period (summa) | = 142 093
 B Redovisning av hur partistödet använts (aktiviteter) Kronor Granskares anteckningar
 | Aktivitet
 | 29 026
 | Kommunikation — webb
-|
+\|
 Kommunikation — annonsering |
 Annons: 2 111 Förening: 28 750 30 861
 Kommunikation — trycksaker
@@ -23876,7 +23876,7 @@ C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 Granskares anteckningar
 Överföring till Motprestation Kronor
 Centerpartiet Hallands Distr + Administration | 97181
-+
+\+
 | Summa överföringar = 97 181
 Underskrift
 Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
@@ -23920,7 +23920,7 @@ Kungsbacka
 
 Redovisning av kommunalt partistöd
 
-119)
+119\)
 
 År 2025
 
@@ -23971,13 +23971,13 @@ Summa utgifter för aktiviteter under perioden =-644 964
 
 C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 
-213)
+213\)
 
 Granskares anteckningar
 
 Överföring till Motprestation Kronor
-+
-+
+\+
+\+
 Summa överföringar ic
 Underskrift
 Jag intygar riktigheten i de uppgifter som lämnats I redovisningen
@@ -24020,7 +24020,7 @@ ko
 
 <!-- sida 684 -->
 
-13)
+13\)
 
 Kungsbacka
 Redovisning av kommunalt partistöd År 2025
@@ -24056,7 +24056,7 @@ Material (t.ex. IT, kontorsmaterial)
 Försäkring, Bankkostnader, Porto, Möteskostnader 13 016
 Summa utgifter för aktiviteter under perioden = 79 045
 
-= FISKET EE URP Of a RESET VIRA $ visma sign
+= FISKET EE URP Of a RESET VIRA \$ visma sign
 
 <!-- sida 685 -->
 
@@ -24067,8 +24067,8 @@ C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 Granskares anteckningar
 
 Överföring till Motprestation Kronor
-+
-+
+\+
+\+
 
 Summa överföringar =
 
@@ -24118,7 +24118,7 @@ IST
 
 C
 
-$ visma sign
+\$ visma sign
 
 WWW.V Om
 
@@ -24176,7 +24176,7 @@ j I
 ME
 AV -
 I äl
-+
+\+
 Summa överföringar = 52920,00
 Underskrift
 Jag Intygar rktigheten] de uppgifter som lämnats I radovisningen
@@ -24299,7 +24299,7 @@ Härmed intygas att partiet har följt ändamålet för regler för partistöd i
 
 Datum | Ort
 2026-05-07 | Kungsbacka
-|
-|
+\|
+\|
 
 [Tk

@@ -630,19 +630,19 @@ aktuella detaljplaneområdet ingår i första etappen.
 
 Revideringen av projektbeställningen, som antogs av kommunstyrelsen den 26
 september 2023, innebär att:
-- Planområdesgränsen ändras
+\- Planområdesgränsen ändras
 
-- Planens innehåll av kommunal service ändras från skola för 700 elever inklusive
+\- Planens innehåll av kommunal service ändras från skola för 700 elever inklusive
 fullmåttshall till en flexibel byggrätt för utbildningslokaler alternativt BMSS
 (boende med särskilt stöd och service)
 
-- Detaljplanearbetet ska utreda förutsättningar för en övergång över Västkustbanan
+\- Detaljplanearbetet ska utreda förutsättningar för en övergång över Västkustbanan
 samt ta fram en kostnadsuppskattning och därefter få ett inriktningsbeslut om
 fortsatt arbete med övergången
-- Förtydligande gällande pendelparkeringen och att planen ska möjliggöra för en
+\- Förtydligande gällande pendelparkeringen och att planen ska möjliggöra för en
 flexibel utbyggnad av parkeringshus för pendlare
 
-- Förändring av uppskattade tidplan och budget.
+\- Förändring av uppskattade tidplan och budget.
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: DF64E9E586FB24A50268777F8F12E363B564704A01
@@ -666,18 +666,18 @@ Projektbeställning, 2023-07-26, reviderad 2023-09-26
 Förslag till beslut på sammanträdet
 
 Stefan Jägnert (SD) yrkar att projektbeställningen revideras enligt följande:
-1. Formuleringar som anger att hög täthet är att föredra i det stationsnära läget ska
+1\. Formuleringar som anger att hög täthet är att föredra i det stationsnära läget ska
 strykas.
 
-2. Formuleringar som möjliggör bebyggelse mellan 4 och 7 våningar samt
+2\. Formuleringar som möjliggör bebyggelse mellan 4 och 7 våningar samt
 skrivningen om eventuell högre uppstickare ska strykas.
-3. Det ska tydligt anges att byggnadshöjd inom planområdet inte får överstiga fem
+3\. Det ska tydligt anges att byggnadshöjd inom planområdet inte får överstiga fem
 våningar.
 
-4. Det ska införas en skrivning om att planområdet ska utformas med blandad
+4\. Det ska införas en skrivning om att planområdet ska utformas med blandad
 bebyggelse, med variation av flerbostadshus, radhus och småhus.
 
-5. Det ska framgå att bebyggelsen mot det öppna landskapet ska trappas ned i skala
+5\. Det ska framgå att bebyggelsen mot det öppna landskapet ska trappas ned i skala
 och huvudsakligen bestå av två till fyra våningar samt inslag av
 småhusbebyggelse.
 Magdalena Sundqvist (S) yrkar att det ska vara 50 procent hyresrätter.
@@ -828,10 +828,10 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Biträdande kommundirektör Anders Johansson lämnar information om:
-- befolkningsstatistik. År 2025 ökade antalet invånare i Kungsbacka med 540
+\- befolkningsstatistik. År 2025 ökade antalet invånare i Kungsbacka med 540
 
 personer.
-- att kommunens valsamordnare har sagt upp sig och att planering för en alternativ
+\- att kommunens valsamordnare har sagt upp sig och att planering för en alternativ
 lösning pågår.
 
 Samhällsbyggnadschef Lovisa Eld lämnar information om detaljplanearbetet rörande

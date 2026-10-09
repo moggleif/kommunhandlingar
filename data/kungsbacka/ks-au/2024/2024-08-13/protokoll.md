@@ -574,10 +574,10 @@ Förslag till beslut på sammanträdet
 Emanuel Forsell (M) yrkar på följande ändringar samt att kommunstyrelsens
 arbetsutskott antar en ny version av dokumentet daterat 2024-08-13.
 
--  Under avsnittet Grundläggande principer punkt 5 läggs en mening till som
+\-  Under avsnittet Grundläggande principer punkt 5 läggs en mening till som
 lyder: Om så sker ska ansvarig chef avbryta besöket.
 
--  Under avsnittet Grundläggande principer punkt 7 läggs en mening till som
+\-  Under avsnittet Grundläggande principer punkt 7 läggs en mening till som
 lyder: Om bilder ska publiceras från besöket krävs aktivt samtycke från
 ansvarig chef samt de som eventuellt medverkar på bilderna.
 Det här dokumentet är digitalt signerat
@@ -591,14 +591,14 @@ Kommunstyrelsens arbetsutskott
 Datum
 2024-08-13
 
--  Under avsnittet Grundläggande principer läggs en punkt till som punkt 11,
+\-  Under avsnittet Grundläggande principer läggs en punkt till som punkt 11,
 som lyder: Av respekt för verksamheternas tid och resurser bör en allmän
 restriktivitet gällande verksamhetsbesök av extern part råda.
--  Under avsnittet Politiska partiers eller partirepresentanters
+\-  Under avsnittet Politiska partiers eller partirepresentanters
 verksamhetsbesök, läggs till i stycke två att kontakt, förutom med
 förvaltningschef även ska tas med nämndens ordförande.
 
--  Under avsnittet Politiska partiers eller partirepresentanters
+\-  Under avsnittet Politiska partiers eller partirepresentanters
 verksamhetsbesök i sista stycket ändras enhetschef till förvaltningschef.
 Magdalena Sundqvist (S) yrkar att ärendet bordläggs.
 
@@ -784,29 +784,29 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Malin de Verdier lämnar information om:
-- Bostadsmarknadsanalys för Halland 2024. Enligt förordningen (2011:160) om
+\- Bostadsmarknadsanalys för Halland 2024. Enligt förordningen (2011:160) om
 
 regionala bostadsmarknadsanalyser och kommunernas bostadsförsörjningsansvar
 ska länsstyrelsen i en skriftlig rapport analysera bostadsmarknaden i länet.
 Länsstyrelsen har redovisat uppdraget till Boverket.
-- 17 juni trädde nya bosättningsförordningen i kraft som möjliggör anvisning av
+\- 17 juni trädde nya bosättningsförordningen i kraft som möjliggör anvisning av
 skyddsbehövande personer enligt massflyktsdirektivet det vill säga flyktingar
 från Ukraina.20 juni fastställde regeringen Migrationsverkets förslag på
 reviderade länstal för 2024. För Hallands del blev det nya talet 639 personer och
 
 för Kungsbacka kommuns del är det nya beräknade kommuntalet för 2024 är
-222.
-- Sanktionsavgift som kommunen har fått av Länsstyrelsen i Västra Götaland i ett
+222\.
+\- Sanktionsavgift som kommunen har fått av Länsstyrelsen i Västra Götaland i ett
 tillsynsärende rörande kommunens säkerhetsskyddsarbete
 
-- Nytt erbjudande om deltagande i delprojekt inom ramen för SKRs arbete
+\- Nytt erbjudande om deltagande i delprojekt inom ramen för SKRs arbete
 Handslag för välfärdsutveckling genom digitalisering
-- Kommunen har blivit anmält intresse för att delta i och blivit invalda i två av
+\- Kommunen har blivit anmält intresse för att delta i och blivit invalda i två av
 SKRs projekt inom ramen för Handslag för välfärdsutveckling genom
 
 digitalisering. Det ena rör digitaliseringsjuridik och det andra
 informationshantering
-- Kommunerna i Göteborgsregionens kommunalförbund (GR) har enats om att
+\- Kommunerna i Göteborgsregionens kommunalförbund (GR) har enats om att
 inrätta en digital innovationsarena för AI. Beslut om att inrätta arenan har fattats
 av alla kommundirektörer inom GR.
 
@@ -817,10 +817,10 @@ mars 2024 om 54 000 kronor och en avi per den 30 juni 2024 om 109 000 kronor
 vilket innebär att kommunen totalt har betalat 163 000 kronor.
 
 Samhällsbyggnadschef Lovisa Eld informerar om att:
-- detaljplan för Fors är överklagad och att samhällsbyggnadskontoret arbetar på
+\- detaljplan för Fors är överklagad och att samhällsbyggnadskontoret arbetar på
 förslag till yttrande över överklagandet.
 
-- kommunen har fått krav på 25 miljoner kronor från en fastighetsägare i Särö och
+\- kommunen har fått krav på 25 miljoner kronor från en fastighetsägare i Särö och
 arbete pågår med att bemöta kravet.
 
 Det här dokumentet är digitalt signerat
@@ -834,7 +834,7 @@ Kommunstyrelsens arbetsutskott
 Datum
 2024-08-13
 
-- agendan till dialogen med kommunstyrelsens arbetsutskott i Varbergs kommun.
+\- agendan till dialogen med kommunstyrelsens arbetsutskott i Varbergs kommun.
 
 Beslutsgång
 

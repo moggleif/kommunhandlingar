@@ -102,7 +102,7 @@ KUNGSBACKA  KOMMUN
 
 5(5)
 
-16. Information från ledamöter och 2024-00025 -
+16\. Information från ledamöter och 2024-00025 -
 förvaltning
 
 Lisa Andersson                    Andrea Egerlundh
@@ -1312,7 +1312,7 @@ bakom SIN-listan.
 CLP-förordningen - Europaparlamentets och rådets förordning (EG) nr 1272/2008
 av den 16 december 2008 om klassificering, märkning och förpackning av ämnen
 och blandningar. Förordningen ersätter det gamla systemet (KIFS 2005:7) fr.o.m.
-2015.
+2015\.
 
 CMR-ämnen - Ämnen som klassificeras som cancerogena, mutagena eller
 reproduktionsstörande ämnen enligt CLP-förordningen.
@@ -5285,11 +5285,11 @@ Förslag till åtgärder:
 talarstolen för att skapa en mer professionell och estetiskt tilltalande atmosfär under möten och
 presentationer, både för de som deltar fysiskt men även för de som deltar via webbsändning.
 
-2. Utformning och installation av en mer stilren, representativ och enhetlig bakgrund bakom presidiet
+2\. Utformning och installation av en mer stilren, representativ och enhetlig bakgrund bakom presidiet
 för att skapa en professionell och estetiskt tilltalande atmosfär under möten och presentationer,
 både för de som deltar fysiskt men även för de som deltar via webbsändning.
 
-3. Installation av eluttag vid samtliga bord i salen för att möjliggöra laddning av elektroniska enheter
+3\. Installation av eluttag vid samtliga bord i salen för att möjliggöra laddning av elektroniska enheter
 såsom bärbara datorer och mobiltelefoner, vilket underlättar arbetsprocessen för våra
 representanter.
 
@@ -5494,29 +5494,29 @@ bidra till jämlika förutsättningar.
 Västra Götalandsregionen har sammanställt nedanstående frågor och har önskat att remissinstanserna
 svarar utifrån dem.
 
-1. Hur ser ni på planens möjligheter att bidra till trafikförsörjningsprogrammets mål om att
+1\. Hur ser ni på planens möjligheter att bidra till trafikförsörjningsprogrammets mål om att
 kollektivtrafiken ska bidra till jämlika förutsättningar?
 Väldigt tydligt och väl genomarbetad plan och de prioriterade åtgärdsområdena är väl beskrivna
 utifrån nuläge, utvecklingsbehov och vilka prioriterade insatser som föreslås vilket i sin
 förlängning ger goda förutsättningar att nå de uppsatta målen.
 
-2. Upplever ni att det som beskrivs kring gruppers och individers förutsättningar att ta del av
+2\. Upplever ni att det som beskrivs kring gruppers och individers förutsättningar att ta del av
 kollektivtrafiken på jämlika villkor stämmer överens med era erfarenheter?
 
 Mycket fokus hamnar på de fysiska funktionsnedsättningarna för hela resan men vi saknar något
 utifrån de psykiska funktionsnedsättningarna. I övrigt stämmer beskrivningen med våra
 erfarenheter.
 
-3. Upplever ni att de aktiviteter/insatser som beskrivs i planen kopplat till grupper och individer med
+3\. Upplever ni att de aktiviteter/insatser som beskrivs i planen kopplat till grupper och individer med
 svagt skydd, stämmer med era erfarenheter?
 Kommunstyrelsens förvaltning delar Västra Götalandsregionens uppfattning.
 
-4. Är någon/några av de prioriterade insatserna som ni anser är särskilt angelägna att arbeta med?
+4\. Är någon/några av de prioriterade insatserna som ni anser är särskilt angelägna att arbeta med?
 
 Att arbeta med sociala analyser och arbeta in det som ett arbetssätt kommer att bidra till de övriga
 prioriterade områdena.
 
-5. Är det något som bör förtydligas/saknas?
+5\. Är det något som bör förtydligas/saknas?
 Nej.
 
 <!-- sida 132 -->
@@ -5524,11 +5524,11 @@ Nej.
 KUNGSBACKA  KOMMUN
 3 (3)
 
-6. Är det något som bör tas bort?
+6\. Är det något som bör tas bort?
 
 Nej.
 
-7. Övriga synpunkter
+7\. Övriga synpunkter
 Nej.
 
 Malin de Verdier                   Lovisa Eld
@@ -5564,20 +5564,20 @@ Kommunens inställning i detalj
 Västra Götalandsregionen har sammanställd nedanstående frågor och har önskat att remissinstanserna
 svarar utifrån dem.
 
-1. Hur ser ni på planens möjligheter att bidra till trafikförsörjningsprogrammets mål om att
+1\. Hur ser ni på planens möjligheter att bidra till trafikförsörjningsprogrammets mål om att
 kollektivtrafiken ska bidra till jämlika förutsättningar?
 Väldigt tydligt och väl genomarbetad plan och de prioriterade åtgärdsområdena är väl beskrivna
 utifrån nuläge, utvecklingsbehov och vilka prioriterade insatser som föreslås vilket i sin
 förlängning ges goda förutsättningar att nå de uppsatta målen.
 
-2. Upplever ni att det som beskrivs kring gruppers och individers förutsättningar att ta del av
+2\. Upplever ni att det som beskrivs kring gruppers och individers förutsättningar att ta del av
 kollektivtrafiken på jämlika villkor stämmer överens med era erfarenheter?
 
 Mycket fokus hamnar på de fysiska funktionsnedsättningarna för hela resan men kommunen
 saknar något utifrån de med psykiska funktionsnedsättningarna. I övrigt stämmer det med
 kommunens erfarenheter.
 
-3. Upplever ni att de aktiviteter/insatser som beskrivs i planen kopplat till grupper och individer med
+3\. Upplever ni att de aktiviteter/insatser som beskrivs i planen kopplat till grupper och individer med
 svagt skydd, stämmer med era erfarenheter?
 Kungsbacka kommun delar Västra Götalandsregionens uppfattning.
 
@@ -5595,18 +5595,18 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-4. Är någon/några av de prioriterade insatserna som ni anser är särskilt angelägna att arbeta med?
+4\. Är någon/några av de prioriterade insatserna som ni anser är särskilt angelägna att arbeta med?
 
 Att arbeta med sociala analyser och arbeta in det som ett arbetssätt kommer att bidra till de övriga
 prioriterade områdena.
 
-5. Är det något som bör förtydligas/saknas?
+5\. Är det något som bör förtydligas/saknas?
 Nej.
 
-6. Är det något som bör tas bort?
+6\. Är det något som bör tas bort?
 Nej.
 
-7. Övriga synpunkter
+7\. Övriga synpunkter
 
 Nej.
 
@@ -5629,21 +5629,21 @@ En      del        av     trafikförsörjningsprogrammet
 
 Innehåll
 
-Sammanfattning        ____________________________________________________________________________________________________________            3
+Sammanfattning        \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_            3
 
-Bakgrund     ____________________________________________________________________________________________________________________5
+Bakgrund     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_5
 
-Utgångspunkter      – mål  och  lagar _____________________________________________________________________________________________8
+Utgångspunkter      – mål  och  lagar \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_8
 
-Åtgärdsområden       och  prioriterade   insatser   _________________________________________________________________________________11
+Åtgärdsområden       och  prioriterade   insatser   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_11
 
-Sociala   analyser  –  systematiskt   i planering  och  genomförande      _______________________________________________                13
+Sociala   analyser  –  systematiskt   i planering  och  genomförande      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                13
 
-Delaktighet    – utveckla   dialog  med  särskilt  fokus  på barn  och  unga  ____________________________________________               14
+Delaktighet    – utveckla   dialog  med  särskilt  fokus  på barn  och  unga  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_               14
 
-Hela   resan  fungerar   – med   fokus  på personer   med   funktionsnedsättning,      barn  och  äldre  ________________________        15
+Hela   resan  fungerar   – med   fokus  på personer   med   funktionsnedsättning,      barn  och  äldre  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_        15
 
-Trygghet    – kollektivtrafiken  ska  kännas   trygg  och  vara  säker  _________________________________________________                 17
+Trygghet    – kollektivtrafiken  ska  kännas   trygg  och  vara  säker  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                 17
 
 <!-- sida 137 -->
 
@@ -5766,10 +5766,10 @@ transporter och den  är därmed  ett viktigt verktyg för att skapa            
 jämlika förutsättningar i Västra Götaland.                                      det vill säga den som är öppen  för alla och inte kräver särskilda
 tillstånd.
 
-1. Jämställdhet brukar definieras som att kvinnor och män, flickor och pojkar ska ha samma möjligheter, rättigheter och skyldigheter. Jämlikhet är ett vidare begrepp som även omfattar lika möjligheter,
+1\. Jämställdhet brukar definieras som att kvinnor och män, flickor och pojkar ska ha samma möjligheter, rättigheter och skyldigheter. Jämlikhet är ett vidare begrepp som även omfattar lika möjligheter,
 
 rättigheter och skyldigheter i fler aspekter än två kön. I dokumentet används huvudsakligen begreppet jämlikhet som också inkluderar jämställdhet som en viktig del.
-2. Västra Götalandsregionen (2020). Mål för social hållbarhet 2030 för Västra Götalandsregionen och de verksamheter som finansieras av Västra Götalandsregionen.
+2\. Västra Götalandsregionen (2020). Mål för social hållbarhet 2030 för Västra Götalandsregionen och de verksamheter som finansieras av Västra Götalandsregionen.
 
 <!-- sida 141 -->
 
@@ -6529,7 +6529,7 @@ regionfullmäktige, infrastruktur- och                                          
 kollektivtrafiknämnden respektive                                                       nämnd
 Västtrafiks styrelse. Giltighetstider                           1 år                                    1 år                                     1 år
 och framtagande varierar.
-1. Kollektivtrafiklagen (2010:1065) anger att varje regional kollektivtrafikmyndighet ska
+1\. Kollektivtrafiklagen (2010:1065) anger att varje regional kollektivtrafikmyndighet ska
 fastställa mål för kollektivtrafiken i ett trafikförsörjningsprogram som ska uppdateras
 vid behov.
 
@@ -6656,7 +6656,7 @@ Kungsbacka      Mark                                      30–39  %
 40–49  %
 Svenljunga
 50–59  %
->  60 %
+\>  60 %
 Marknadsandel   för hållbart resande
 41        %
 Figur 4. Andel arbetspendlare per kommun (vänster) respektive alla
@@ -6765,26 +6765,26 @@ byggas  ut, med fler spårdragningar  och fler spårfordon. Västra             
 åtgärder:
 Götalandsregionen   och Västtrafik har också behov  av nya depåer                barnets bästa. Rapporterna   finns att läsa på VGR:s webb2.
 för både buss  och spårfordon  för att kunna utveckla  kollektiv­
-1. Dubbelspårig    järnväg Göteborg–Borås
+1\. Dubbelspårig    järnväg Göteborg–Borås
 trafiken på ett konkurrensneutralt  och  kostnadseffektivt sätt.                 Med  stöd i kunskaper  och slutsatser från arbetet ovan  togs en
 
 strategisk inriktning fram, där Västra  Götalandsregionen   till­
-2. Fler spår på  Västra stambanan
+2\. Fler spår på  Västra stambanan
 En god  infrastruktur för gång och cykel är viktig för att öka andelen           sammans   med  kommunalförbunden      kom  överens  om  principiellt
 Göteborg–Alingsås
 hållbart resande, samt  för att möjliggöra kombinationsresor   med               innehåll och ramar  för programmet.
 
-3. Dubbelspår    Göteborg–Oslo                                             dessa färdmedel   och kollektivtrafik. För att skapa en samman­
+3\. Dubbelspår    Göteborg–Oslo                                             dessa färdmedel   och kollektivtrafik. För att skapa en samman­
 
 hängande   helhet samt för att främja kombinationsresande   mellan               Utifrån inriktningen har trafikförsörjningsprogrammet   arbetats fram.
-4. Satsningar   på samtliga  regionala järnvägar.                          cykel och kollektivtrafik krävs diverse åtgärder kring kollektiv­
+4\. Satsningar   på samtliga  regionala järnvägar.                          cykel och kollektivtrafik krävs diverse åtgärder kring kollektiv­
 
 trafiken såsom  pendelparkering   för cykel, cykelgarage och
 
 anslutande  cykelvägar. För  att tillgängliggöra kollektivtrafiken för
 
 fler behöver fler hållplatser och vägen dit tillgänglighetsanpassas.
-2. www.vgregion.se
+2\. www.vgregion.se
 
 <!-- sida 164 -->
 
@@ -6831,7 +6831,7 @@ studieresor 49%  (44%  2023)
 på att de kommer  fram  i tid ska öka till 45%,      ska öka  (mätetal tas fram under remisstiden)
 • Utsläppen av koldioxid per personkilometer
 (39%  2023)
-ska minska med  89%*   jmf med år 2006
+ska minska med  89%\*   jmf med år 2006
 • Andel invånare som kan nå en  kommun-                                                                     (71%  2023)
 huvudort  med kollektivtrafiken inom 30 minuter
 ska vara Y%  (tas fram under remissperioden)
@@ -6853,7 +6853,7 @@ kollektivtrafikens framkomlighet
 hållplats
 • Utveckla och samverka  kring trafiksäkerhet
 och brottsförebyggande  arbete
-*) Siffran kan komma att påverkas av ny EU-lagstiftning
+\*) Siffran kan komma att påverkas av ny EU-lagstiftning
 som kan kräva ändrad beräkningsfaktor för el, men                    Prioriterad åtgärd:  Verka för och genomföra forskning, innovation och utveckling som bidrar till att uppsatta mål nås
 ambitionsnivån är i enlighet med miljö- och klimatstrategin.
 
@@ -7218,7 +7218,7 @@ För att kollektivtrafiken ska vara hållbar över tid behöver den vara        
 klimatsmart,  resurseffektiv och robust. Det innebär  att satsningar            satsningar, investeringar  och resandeutveckling.  De  senaste årens
 • Utsläppen av koldioxid per person-
 och omställning  behöver  göras utifrån den aktualiserade  Miljö-               utveckling där  kostnaderna  ökat i snabbare  takt än intäkterna
-kilometer ska minska med  89%*
+kilometer ska minska med  89%\*
 och klimatstrategi  för kollektivtrafiken i Västra Götaland,  men               motiverar  åtgärder för att få en bättre balans mellan kostnader                                           jmf med  år 2006 (71%  2023)
 
 även att befintlig kollektivtrafik är så resurseffektiv som möjligt.            och intäkter. Detta för att möjliggöra framtida  satsningar på
@@ -7286,7 +7286,7 @@ innovation och utveckling som bidrar
 
 till att uppsatta mål nås
 
-3. I Strategisk plan för ökad cykling beskrivs och konkretiseras hur detta ska ske.
+3\. I Strategisk plan för ökad cykling beskrivs och konkretiseras hur detta ska ske.
 
 Se www.vgregion.se för mer information.
 
@@ -7576,7 +7576,7 @@ Inom  regionala kärnor och större tätorter     Utbud i enlighet med kollektiv
 
 riktlinjer för trafikering
 
-* Utveckling av utbudet sker succesivt under programperioden utifrån ekonomiska förutsättningar.
+\* Utveckling av utbudet sker succesivt under programperioden utifrån ekonomiska förutsättningar.
 För länsgränsöverskridande relationer är inriktningen för utbudet 10 turer per riktning/vardag samt 5 turer per riktning /helgdag.
 
 [Tabell 179-1](handlingar.tabeller/179-1.csv)
@@ -7585,7 +7585,7 @@ För länsgränsöverskridande relationer är inriktningen för utbudet 10 turer
 | --- | --- |
 | 5 turer per riktning mån–fre | Linjelagd trafik, kan vara anropsstyrd |
 | 10 turer per riktning mån–fre<br>5 turer per riktning lör–sön | Linjelagd trafik, kan vara anropsstyrd |
-| 16 turer per riktning* mån–fre, 06–22<br>8 turer per riktning* lör–sön, 06–22 | Linjelagd trafik, kan vara anropsstyrd |
+| 16 turer per riktning\* mån–fre, 06–22<br>8 turer per riktning\* lör–sön, 06–22 | Linjelagd trafik, kan vara anropsstyrd |
 
 <!-- sida 180 -->
 
@@ -7634,7 +7634,7 @@ att värdera samhällsnytta  och beslutar om  vilken kollektivtrafik            
 
 som  ska handlas upp  och därmed   kunna  skattefinansieras. Inför
 
-4. Se www.vgregion.se.
+4\. Se www.vgregion.se.
 
 <!-- sida 182 -->
 
@@ -7684,7 +7684,7 @@ seniorkort. Dessa tillköp är skattefinansierade och  den totala
 2024       2025      2026      2027       2028      2029
 regionbidraget  beaktas.                                                        Västtrafiks prognos  till 2029. Trafikförsörjningsprogrammets
 
-5. Tas fram under remissperioden.
+5\. Tas fram under remissperioden.
 tnecorP
 År
 Prognos 2024                Mål trafikförsörjningsprogram
@@ -8557,38 +8557,38 @@ Viktiga processteg och hantering i
 hållbarhetsintegreringen
 I revideringsarbetet har viktiga processteg för hållbarhetsintegrering identifierats:
 
--  Avgränsning och urval av hållbarhetsaspekter
--  Framtagande av förutsättningsrapporten (nulägesbeskrivning)
+\-  Avgränsning och urval av hållbarhetsaspekter
+\-  Framtagande av förutsättningsrapporten (nulägesbeskrivning)
 Hållbarhet har varit en utgångspunkt för vilka frågeställningar som
 o
 belystes i förutsättningsrapporten
--  De största ”gapen” mellan nuläget och hållbarhetsaspekterna identifierades
+\-  De största ”gapen” mellan nuläget och hållbarhetsaspekterna identifierades
 (knäckfrågor)
 Trafiksäkerhet, jämlikhet, tillgänglighet, delaktighet, långsiktig ekonomi i
 o
 balans. Klimat ansågs vara tillräckligt omhändertaget i och med den
 aktualiserade miljö- och klimatstrategin samt det övergripande målet om
 ökat hållbart resande med ambitionen att alla resor ska vara hållbara.
--  Samråd med berörda parter (exempelvis berörda myndigheter, civilsamhället,
+\-  Samråd med berörda parter (exempelvis berörda myndigheter, civilsamhället,
 angränsande län med flera)
 Möjlighet för samrådsaktörer att lämna inspel kring vad de ser är av vikt
 o
 gällande hållbarhet kopplat till revideringen av
 trafikförsörjningsprogrammet
--  Framtagande av förslag till strategisk inriktning
+\-  Framtagande av förslag till strategisk inriktning
 Knäckfrågorna inarbetade
 o
--  Beslut i IKN och BHU om strategisk inriktning, som beskriver intentionerna/
+\-  Beslut i IKN och BHU om strategisk inriktning, som beskriver intentionerna/
 viljeinriktningen för trafikförsörjningsprogrammet
 Hållbarhetsbedömning utförd av Koncernkontoret, daterad 20240301
 o
--  Framtagande av remissversion av trafikförsörjningsprogrammet
+\-  Framtagande av remissversion av trafikförsörjningsprogrammet
 Knäckfrågorna inarbetade
 o
--  Beslut i IKN om remissversion av trafikförsörjningsprogrammet
+\-  Beslut i IKN om remissversion av trafikförsörjningsprogrammet
 Hållbarhetsbedömning utförs av Koncernkontoret, daterad 20240916
 o
--  Framtagande av förslag till trafikförsörjningsprogram efter remiss (kommande
+\-  Framtagande av förslag till trafikförsörjningsprogram efter remiss (kommande
 aktivitet)
 
 <!-- sida 205 -->
@@ -8607,11 +8607,11 @@ kliv i en positiv riktning eller riskerar att bidra negativt, i förhållande ti
 trafikförsörjningsprogram (se tabell 1). Bedömningen på hållbarhetsaspekterna har gjorts
 
 utifrån en tregradig skala:
--  (+) → Möjlighet för positiv påverkan
+\-  (+) → Möjlighet för positiv påverkan
 
--  (0) → Ingen påverkan
+\-  (0) → Ingen påverkan
 
--  (-) → Risk för negativ påverkan
+\-  (-) → Risk för negativ påverkan
 
 Tabell 1: Hållbarhetsbedömning av trafikförsörjningsprogrammets remissutgåva.
 Bedömningen gjord av hur remissversionen påverkar hållbarhetsaspekterna i förhållande
@@ -8886,7 +8886,7 @@ styr utvecklingen av kollektivtrafiken. Västra Götalandsregionens budget
 
 avgör sedan takten på genomförandet.
 
-1. Hållbar  och   förbättrad   tillgänglighet
+1\. Hållbar  och   förbättrad   tillgänglighet
 nytt övergripande      mål
 
 Den regionala utvecklingsstrategin (RUS) syftar till att göra Västra Götaland
@@ -8935,7 +8935,7 @@ visar på att en investerad krona i kollektivtrafiken ger cirka 1,75 kr tillbaka
 samhällsnytta.
 .
 
-2. Kollektivtrafikens    utbud   bidrar   till
+2\. Kollektivtrafikens    utbud   bidrar   till
 
 regional   utveckling   och  tillväxt
 
@@ -9056,7 +9056,7 @@ kollektivtrafiklösningar för alla gymnasieelever på individnivå.
 
 Strategisk inriktning                                         Sida 6
 
-3. Värna   och  utveckla   kollektivtrafikens
+3\. Värna   och  utveckla   kollektivtrafikens
 
 attraktivitet  och   kvalitet
 
@@ -9130,7 +9130,7 @@ genomföras i mindre skala tills en bra lösning finns på plats och kan
 
 implementeras i större skala.
 
-4. Samverkan     för  god  samhällsplanering
+4\. Samverkan     för  god  samhällsplanering
 
 och  hållbart  resande
 
@@ -9163,7 +9163,7 @@ Exempel på detta är åtgärder för bättre framkomlighet för kollektivtrafik
 påverkansarbete kring institutionella förändringar i form av lagstiftning,
 finansieringsformer av kollektivtrafik, parkeringspolicy etcetera.
 
-5. Strategier   och  målbilder    som  stödjer
+5\. Strategier   och  målbilder    som  stödjer
 
 genomförande      av  programmet
 
@@ -9495,40 +9495,40 @@ politiker träffar representanter för organisationer i det civila samhället.
 
 Följande intressenter har deltagit på samråd:
 
-- Delregionalt kollektivtrafikråd Boråsregionen 2023-10-20
-- Delregionalt kollektivtrafikråd Fyrbodal 2023-10-26
-- Delregionalt kollektivtrafikråd Göteborgsregionen 2023-10-26
+\- Delregionalt kollektivtrafikråd Boråsregionen 2023-10-20
+\- Delregionalt kollektivtrafikråd Fyrbodal 2023-10-26
+\- Delregionalt kollektivtrafikråd Göteborgsregionen 2023-10-26
 
-- Delregionalt kollektivtrafikråd Skaraborg 2023-12-08
-- Länsstyrelsen Västra Götaland 2023-11-22
+\- Delregionalt kollektivtrafikråd Skaraborg 2023-12-08
+\- Länsstyrelsen Västra Götaland 2023-11-22
 
-- Mobilitetsaktörer 2024-01-16
-- Regionala Pensionärsrådet 2024-01-16
-- Region Jönköpings län 2023-11-24
+\- Mobilitetsaktörer 2024-01-16
+\- Regionala Pensionärsrådet 2024-01-16
+\- Region Jönköpings län 2023-11-24
 
-- Region Halland 2023-11-22
-- Region Värmland 2023-11-08
+\- Region Halland 2023-11-22
+\- Region Värmland 2023-11-08
 
-- Region Örebro län 2023-11-21
-- Samråd barnrätt 2023-12-05
+\- Region Örebro län 2023-11-21
+\- Samråd barnrätt 2023-12-05
 
-- Samråd funktionshinder 2023-12-05
-- Samråd HBTQI 2023-12-07
-- Samråd mänskliga rättigheter 2023-11-30
+\- Samråd funktionshinder 2023-12-05
+\- Samråd HBTQI 2023-12-07
+\- Samråd mänskliga rättigheter 2023-11-30
 
-- Trafikföretagen - Bivab, Connect Bus Sandarna AB, Keolis, Nobina, SJ AB,
+\- Trafikföretagen - Bivab, Connect Bus Sandarna AB, Keolis, Nobina, SJ AB,
 SJ Götalandståg, Skärgårdsredarna, Styrsöbolaget, Svenska Taxiförbundet,
 Tågföretagen, VY Buss AB 2023-12-12
-- Trafikverket 2023-12-15
+\- Trafikverket 2023-12-15
 
-- Turistrådet Västsverige 2024-01-09
-- Västsvenska handelskammaren 2023-11-15
+\- Turistrådet Västsverige 2024-01-09
+\- Västsvenska handelskammaren 2023-11-15
 
 <!-- sida 229 -->
 
 Sammanställning samråd                                    Sida 9
 
-- Östfold Fylkeskommun 2024-01-23
+\- Östfold Fylkeskommun 2024-01-23
 
 Sammanställning             av  inspel
 
@@ -10304,7 +10304,7 @@ Taxa för Kungsbacka Teater och konsertsalen Snäckan
 Förslag till beslut i kommunfullmäktige
 Kommunfullmäktige antar Taxa för Kungsbacka Teater och konsertsalen Snäckan, daterad 2024-09-
 
-27.
+27\.
 Kommunfullmäktige beslutar att taxan får justeras i enlighet med taxans bestämmelse §§ 5-6 om årlig
 indexjustering och delegation. Taxan träder i kraft den 1 januari 2025.
 
@@ -10415,14 +10415,14 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 248 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 Denna taxa gäller avgifter för uthyrning av nedanstående lokaler med tillhörande tjänster till
 organisationer och enskilda invånare.
 • Kungsbacka Teaters teatersal, foajé och loger
 • Konsertsalen Snäckan i Kulturhuset Fyren
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 2.1. Avgifter tas ut enligt de grunder och principer som framgår av kommunallagen (2017:725), 2 kap. 5-
 6 §§.
 2.2. Den lägre avgiftsnivån ”hyra ideell” tillämpas vid uthyrning till ideella föreningar.
@@ -10436,11 +10436,11 @@ kommunen inte enligt sina mål och styrdokument ska stödja, betalar en marknads
 Även vid långtidsuthyrning, då hyra tas ut enligt offert, gäller principen om marknadsmässiga
 avgifter.
 
-3. Offert tillämpas när kombinationen av lokaler, inkl. teknik och material, och tjänster som erbjuds inte
+3\. Offert tillämpas när kombinationen av lokaler, inkl. teknik och material, och tjänster som erbjuds inte
 följer gängse modell som framgår av tabellerna i detta dokument. Offert baseras på beräkning av
 lokalkostnad samt kostnad för övriga resurser, bland annat personal, lokalvård och marknadsföring.
 
-4. Mervärdesskatt
+4\. Mervärdesskatt
 
 Momsfrihet gäller för lokalhyra enligt mervärdesskattelagen (2023:200).
 För tjänster gäller 25 procent moms, förutom när personal ingår som en obligatorisk del av lokalhyran.
@@ -10449,7 +10449,7 @@ Taxa för Kungsbacka Teater o ch konsertlokalen Snäckan Sida 2 av 5
 
 <!-- sida 249 -->
 
-5. Avgiftsbelopp/taxetabell Kungsbacka Teater
+5\. Avgiftsbelopp/taxetabell Kungsbacka Teater
 
 5.1. Endast hela timmar debiteras. Arrangören betalar för iordningställande före och efter arrangemanget.
 Teatern går endast att boka med behörig personal. Vid större evenemang krävs två tekniker.
@@ -10475,25 +10475,25 @@ Taxa för Kungsbacka Teater o ch konsertlokalen Snäckan Sida 3 av 5
 
 <!-- sida 250 -->
 
-6. Avgiftsbelopp/taxetabell, konsertsalen Snäckan
+6\. Avgiftsbelopp/taxetabell, konsertsalen Snäckan
 
 6.1. Avancerad teknisk utrustning är endast tillgänglig med behörig personal.
 6.2. De merkostnader som ett arrangemang har i form av extra teknik, personal eller marknadsföring
 
 bekostas av respektive arrangör.
 
-7. Indexjustering av avgiftsbelopp
+7\. Indexjustering av avgiftsbelopp
 Avgiftsbeloppen får justeras årligen i enlighet med utvecklingen av Prisindex för kommunal verksamhet
 
 (PKV).
 
-8. Delegering av beslut om justering efter index
+8\. Delegering av beslut om justering efter index
 
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller
 inte, och i förekommande fall räkna om beloppen i taxan.
 Outnyttjad indexreglering får inte tillgodoräknas retroaktivt.
 
-9. Övergångsbestämmelse
+9\. Övergångsbestämmelse
 
 Avgift debiteras utifrån den taxa som är beslutad att gälla vid bokningstillfället. Om det vid det datum
 bokningen görs inte har tagits något nytt taxebeslut för det datum bokningen gäller, används den taxa
@@ -10542,13 +10542,13 @@ Beslut
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
 
-1. Biblioteken i Kungsbacka
-2. Kungsbacka Konsthall
+1\. Biblioteken i Kungsbacka
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
-4. Naturum Fjärås Bräcka och Äskhult By
+3\. Kungsbacka Kulturskola
+4\. Naturum Fjärås Bräcka och Äskhult By
 
-5. Kungsbacka Teater och Konsertsalen Snäckan
+5\. Kungsbacka Teater och Konsertsalen Snäckan
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att besluta att taxorna ska
 börja gälla från och med 1 januari 2025.
@@ -10570,13 +10570,13 @@ allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
 
-1. Biblioteken i Kungsbacka, 2014
-2. Kungsbacka Konsthall, 2014
+1\. Biblioteken i Kungsbacka, 2014
+2\. Kungsbacka Konsthall, 2014
 
-3. Kungsbacka Kulturskola, 2015
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
-5. Kungsbacka Teater och Konsertsalen Snäckan, 2021
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
+5\. Kungsbacka Teater och Konsertsalen Snäckan, 2021
 
 Avgifterna justeras för att uppnå en större grad av tydlighet och för att uppnå en
 avgiftsnivå i paritet med vad som gäller för andra kommuner som Kungsbacka
@@ -10646,13 +10646,13 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
 
-1. Biblioteken i Kungsbacka
-2. Kungsbacka Konsthall
+1\. Biblioteken i Kungsbacka
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
-4. Naturum Fjärås Bräcka och Äskhult By
+3\. Kungsbacka Kulturskola
+4\. Naturum Fjärås Bräcka och Äskhult By
 
-5. Kungsbacka Teater och Konsertsalen Snäckan
+5\. Kungsbacka Teater och Konsertsalen Snäckan
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att besluta att taxorna ska börja gälla från
 och med 1 januari 2025.
@@ -10664,13 +10664,13 @@ offentliga medel dels av avgifter som tas ut med stöd i Bibliotekslagen (2013:8
 Kommunallagen (2017:900), 2 kap. 5 - 6 §§ - allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
-1. Biblioteken i Kungsbacka, 2014
+1\. Biblioteken i Kungsbacka, 2014
 
-2. Kungsbacka Konsthall, 2014
-3. Kungsbacka Kulturskola, 2015
+2\. Kungsbacka Konsthall, 2014
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
-5. Kungsbacka Teater och Konsertsalen Snäckan, 2021
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
+5\. Kungsbacka Teater och Konsertsalen Snäckan, 2021
 
 Avgifterna justeras för att uppnå en större grad av tydlighet och för att uppnå en avgiftsnivå i paritet
 med vad som gäller för andra kommuner som Kungsbacka naturligt kan jämföras med.
@@ -10775,22 +10775,22 @@ Kungsbacka    Teater  och  konsertlokalen    Snäckan
 Taxa  2025
 
 Innehåll
-1. Inledande bestämmelser ....................................................................................................................... 2
+1\. Inledande bestämmelser ....................................................................................................................... 2
 
-2. Beräkningsgrunder ............................................................................................................................... 2
-3. Mervärdesskatt ..................................................................................................................................... 2
+2\. Beräkningsgrunder ............................................................................................................................... 2
+3\. Mervärdesskatt ..................................................................................................................................... 2
 
-4. Avgiftsbelopp/taxetabell Kungsbacka Teater ........................................................................................ 3
-5. Avgiftsbelopp/taxetabell, konsertsalen Snäckan.................................................................................... 4
+4\. Avgiftsbelopp/taxetabell Kungsbacka Teater ........................................................................................ 3
+5\. Avgiftsbelopp/taxetabell, konsertsalen Snäckan.................................................................................... 4
 
-8. Övergångsbestämmelse ........................................................................................................................ 4
-9. Ikraftträdande....................................................................................................................................... 5
+8\. Övergångsbestämmelse ........................................................................................................................ 4
+9\. Ikraftträdande....................................................................................................................................... 5
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 258 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 1.1. Denna taxa gäller avgifter för uthyrning av lokaler med tillhörande tjänster till organisationer och
 enskilda invånare inom nämnden för Kultur & Fritids ansvarsområde.
@@ -10800,7 +10800,7 @@ enskilda invånare inom nämnden för Kultur & Fritids ansvarsområde.
 1.3. För uthyrningar av övriga lokaler i Kungsbacka Teater sätts hyra från fall till fall utifrån
 självkostnadsprincipen.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 2.1. Avgifter tas ut enligt de grunder och principer som framgår av Kommunallagen (2017:725), 2 kap.
 5–6 §§.
 2.2. Lika behandling av liknande hyrestagare, likställighetsprincipen, innebär i denna taxa att
@@ -10820,7 +10820,7 @@ avgifter.
 2.6. Vid samarrangemang, dvs där förvaltningen för Kultur & Fritid medverkar som en av flera
 arrangörer, kan reducering av lokalhyra utgöra förvaltningens bidrag i samarbetet.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 3.1. Momsfrihet gäller för lokalhyra enligt mervärdesskattelagen (2023:200).
 3.2. För hyra av personal gäller 25 % moms, förutom när personal ingår som en obligatorisk del av
 lokalhyran.
@@ -10829,7 +10829,7 @@ Kungsbacka Teater och k onsertlokalen Snäckan Sida 2 av 5
 
 <!-- sida 259 -->
 
-4. Avgiftsbelopp/taxetabell Kungsbacka Teater
+4\. Avgiftsbelopp/taxetabell Kungsbacka Teater
 
 Avgift                     Beräkningssätt    Belopp 2021 Belopp 2025
 
@@ -10881,7 +10881,7 @@ Kungsbacka Teater och k onsertlokalen Snäckan Sida 3 av 5
 
 <!-- sida 260 -->
 
-5. Avgiftsbelopp/taxetabell, konsertsalen Snäckan
+5\. Avgiftsbelopp/taxetabell, konsertsalen Snäckan
 
 Avgift         Beräkningssätt     Belopp 2019     Belopp 2025
 Snäckan, hyra  Per tre timmar.         2 600 kr
@@ -10915,18 +10915,18 @@ politiska partier, samt privatpersoner när det gäller icke-kommersiell verksam
 5.3. De merkostnader som ett arrangemang har i form av extra teknik, personal eller marknadsföring
 bekostas av respektive arrangör.
 
-6. Indexjustering av avgiftsbelopp
+6\. Indexjustering av avgiftsbelopp
 
 6.1. Avgiftsbeloppen får justeras årligen med höjningar motsvarande utveckling av Prisindex för
 kommunal verksamhet (PKV).
 6.2. Outnyttjad indexreglering får inte tillgodoräknas retroaktivt.
 
-7. Delegering av beslut om justering efter index
+7\. Delegering av beslut om justering efter index
 7.1. Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske
 eller inte, och i förekommande fall räkna upp beloppen i taxan.
 7.2. Outnyttjad indexreglering får inte tillgodoräknas retroaktivt.
 
-8. Övergångsbestämmelse
+8\. Övergångsbestämmelse
 
 8.1. Pris sätts utifrån den taxa som är beslutad att gälla för bokningstillfället.
 8.2. Om det vid det datum bokningen görs inte har tagits något nytt taxebeslut för det datum bokningen
@@ -10936,7 +10936,7 @@ Kungsbacka Teater och k onsertlokalen Snäckan Sida 4 av 5
 
 <!-- sida 261 -->
 
-9. Ikraftträdande
+9\. Ikraftträdande
 9.1. Denna taxa träder i kraft 1 jan 2025. Samtidigt upphävs alla tidigare beslut om taxa och avgifter för
 de lokaler och verksamheter som omfattas av denna taxa.
 
@@ -11036,32 +11036,32 @@ Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 265 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 Denna taxa gäller avgifter för verksamhet som drivs gentemot organisationer och enskilda invånare av
 Kungsbacka Konsthall i Kulturhuset Fyren, inom nämnden för Kultur & Fritids ansvarsområde.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 Avgifter tas ut enligt de grunder som framgår av kommunallagen (2017:900), 2 kap. 6 § –
 självkostnadsprincipen.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 
 För tjänster gäller 25 procent moms.
 
-4. Avgiftsbelopp/taxetabeller, Kungsbacka Konsthall
+4\. Avgiftsbelopp/taxetabeller, Kungsbacka Konsthall
 Likställighetsprincipen uppfylls genom att besökare grupperas in i två kategorier utifrån hur stor
 anledning kommunen har att subventionera utifrån politiskt fastställda mål och styrdokument. Den lägre
 
 avgiftsnivån ”Avgift ideell” gäller för övriga kommunala förvaltningar och skolor, ideella föreningar,
 studieförbund och andra ideella organisationer, ”Avgift kommersiell” i övriga fall.
 
-5. Indexjustering av avgiftsbelopp
+5\. Indexjustering av avgiftsbelopp
 
 Avgiftsbeloppen får justeras årligen i enlighet med utveckling av Prisindex för kommunal verksamhet
 (PKV).
 
-6. Delegering av beslut om justering efter index
+6\. Delegering av beslut om justering efter index
 
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller
 inte, och i förekommande fall räkna om beloppen i taxan. Outnyttjad indexreglering får inte
@@ -11112,13 +11112,13 @@ Beslut
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
 
-1. Biblioteken i Kungsbacka
-2. Kungsbacka Konsthall
+1\. Biblioteken i Kungsbacka
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
-4. Naturum Fjärås Bräcka och Äskhult By
+3\. Kungsbacka Kulturskola
+4\. Naturum Fjärås Bräcka och Äskhult By
 
-5. Kungsbacka Teater och Konsertsalen Snäckan
+5\. Kungsbacka Teater och Konsertsalen Snäckan
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att besluta att taxorna ska
 börja gälla från och med 1 januari 2025.
@@ -11140,13 +11140,13 @@ allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
 
-1. Biblioteken i Kungsbacka, 2014
-2. Kungsbacka Konsthall, 2014
+1\. Biblioteken i Kungsbacka, 2014
+2\. Kungsbacka Konsthall, 2014
 
-3. Kungsbacka Kulturskola, 2015
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
-5. Kungsbacka Teater och Konsertsalen Snäckan, 2021
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
+5\. Kungsbacka Teater och Konsertsalen Snäckan, 2021
 
 Avgifterna justeras för att uppnå en större grad av tydlighet och för att uppnå en
 avgiftsnivå i paritet med vad som gäller för andra kommuner som Kungsbacka
@@ -11216,13 +11216,13 @@ Förslag till beslut i nämnden för Kultur & Fritid
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att anta nya taxor för:
 
-1. Biblioteken i Kungsbacka
-2. Kungsbacka Konsthall
+1\. Biblioteken i Kungsbacka
+2\. Kungsbacka Konsthall
 
-3. Kungsbacka Kulturskola
-4. Naturum Fjärås Bräcka och Äskhult By
+3\. Kungsbacka Kulturskola
+4\. Naturum Fjärås Bräcka och Äskhult By
 
-5. Kungsbacka Teater och Konsertsalen Snäckan
+5\. Kungsbacka Teater och Konsertsalen Snäckan
 
 Nämnden för Kultur & Fritid föreslår Kommunfullmäktige att besluta att taxorna ska börja gälla från
 och med 1 januari 2025.
@@ -11234,13 +11234,13 @@ offentliga medel dels av avgifter som tas ut med stöd i Bibliotekslagen (2013:8
 Kommunallagen (2017:900), 2 kap. 5 - 6 §§ - allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
-1. Biblioteken i Kungsbacka, 2014
+1\. Biblioteken i Kungsbacka, 2014
 
-2. Kungsbacka Konsthall, 2014
-3. Kungsbacka Kulturskola, 2015
+2\. Kungsbacka Konsthall, 2014
+3\. Kungsbacka Kulturskola, 2015
 
-4. Naturum Fjärås Bräcka och Äskhult By, 2014
-5. Kungsbacka Teater och Konsertsalen Snäckan, 2021
+4\. Naturum Fjärås Bräcka och Äskhult By, 2014
+5\. Kungsbacka Teater och Konsertsalen Snäckan, 2021
 
 Avgifterna justeras för att uppnå en större grad av tydlighet och för att uppnå en avgiftsnivå i paritet
 med vad som gäller för andra kommuner som Kungsbacka naturligt kan jämföras med.
@@ -11342,7 +11342,7 @@ Förvaltningschef
 
 Kungsbacka         Konsthall,      Taxa    2025
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 a. Denna taxa gäller avgifter för verksamhet som drivs gentemot organisationer och enskilda
 invånare av Kungsbacka Konsthall i Kulturhuset Fyren, inom nämnden för Kultur & Fritids
@@ -11352,19 +11352,19 @@ kompetensen.
 
 c. Uthyrning av lokaler omfattas inte av denna taxa.
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 Avgifter tas ut enligt de grunder som framgår av Kommunallagen (2017:900), 2 kap. 6 § -
 
 självkostnadsprincipen.
 
-3. Mervärdesskatt
+3\. Mervärdesskatt
 För avgifter som omfattar uthyrning av personal gäller 25 % moms.
 
 Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
 
 <!-- sida 273 -->
 
-4. Avgiftsbelopp/taxetabeller, Kungsbacka Konsthall
+4\. Avgiftsbelopp/taxetabeller, Kungsbacka Konsthall
 
 Likställighetsprincipen följs genom att besökare grupperas in i två kategorier utifrån hur stor anledning
 kommunen har att subventionera utifrån politiskt fastställda mål och styrdokument. Den lägre
@@ -11407,20 +11407,20 @@ Kungsbacka Kons thall, Taxa 2025 Sida 2 av 3
 
 <!-- sida 274 -->
 
-5. Andra aktiviteter
+5\. Andra aktiviteter
 Förvaltningschef får besluta om taxa för eventuellt tillkommande former för programverksamhet/
 evenemangsformer.
 
-6. Indexjustering av avgiftsbelopp
+6\. Indexjustering av avgiftsbelopp
 Avgiftsbeloppen får justeras årligen med höjningar motsvarande utveckling av Prisindex för kommunal
 verksamhet (PKV).
 
-7. Delegering av beslut om justering efter index
+7\. Delegering av beslut om justering efter index
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida indexjustering ska ske eller
 inte, och i förekommande fall räkna upp beloppen i taxan. Outnyttjad indexreglering får inte
 
 tillgodoräknas retroaktivt.
-8. Ikraftträdande
+8\. Ikraftträdande
 
 Denna taxa träder i kraft 1 januari 2025. Samtidigt upphävs alla tidigare beslut om taxa och avgifter för
 verksamhet som omfattas av denna taxa.
@@ -11527,7 +11527,7 @@ Köparen och Kommunen kallas nedan gemensamt för Parterna
 
 Fastighet: Två områden av fastigheten Kungsbacka Skårby 2:3, nedan kallad Området.
 
-1. Bakgrund
+1\. Bakgrund
 1.1 Mellan Parterna träffas denna dag, Avtalsdagen, detta köpeavtal, Avtalet.
 
 1.2 Avtalet avser överlåtelse av två markområden inom detaljplan för bostäder inom Skårby
@@ -11651,7 +11651,7 @@ betalas av Köparen.
 
 9.3
 
-10.
+10\.
 
 10.1
 
@@ -11659,7 +11659,7 @@ betalas av Köparen.
 
 10.3
 
-11.
+11\.
 
 11:22
 
@@ -11736,7 +11736,7 @@ Sign
 Köpeskillingen har även bestämts med hänsyn tagen till de åtgärder som Köparen måste
 utföra på byggnader och mark för att få slutbevis enligt villkoren i det permanenta
 bygglovet samt för att åtgärda kända skador och brister på Modulhuset. Se punkt I och
-13.
+13\.
 
 11.3 Med undantag för de åtaganden och garantier som framgår av Avtalet friskriver
 Köparen Kommunen från allt ansvar för samtliga eventuella fel och/eller brister i
@@ -11744,7 +11744,7 @@ Området, såvitt det avser dess fysiska och rättsliga egenskaper som fastighet
 möjlighet att råda över Området. Köparen avstår från alla anspråk mot Kommunen på
 grund av fel eller brister i Området.
 
-12. Fastighetsbildning
+12\. Fastighetsbildning
 
 12.1 - Kommunen har ansökt om förrättning hos lantmäterimyndigheten, för genomförande av
 Avtalet (ärende N24524). Området ska avstyckas till en egen registerfastighet. Köparen
@@ -11753,7 +11753,7 @@ biträder härmed ansökan. Kommunen ska betala förrättningskostnaden.
 12.2 — Parterna är överens om att den avstyckade fastigheten ska befrias från inteckningar som
 belastar stamfastigheten Skårby 2:3 (inteckningsfri avstyckning).
 
-13. Övriga bestämmelser
+13\. Övriga bestämmelser
 
 13.1 — Parterna är överens om att gällande avtal om anläggningsarrende avseende del av
 Skårby 2:3/Området (undertecknat 2019-06-03 respektive 2019-09-06) upphör på
@@ -11800,7 +11800,7 @@ den angränsande marken bebyggs. Arbete med att ta fram en ny detaljplan pågår
 till dess får Köparens ledningar ligga kvar i Kommunens mark. Parterna är överens om
 att något servitut för de tillfälliga ledningarna inte ska bildas.
 
-14. Avtalets giltighet
+14\. Avtalets giltighet
 14.1 — Förutsättningar för detta avtals giltighet är att villkoren nedan är uppfyllda:
 
 e Avtalet godkänns av kommunstyrelsen i Kungsbacka kommun genom beslut
@@ -12572,7 +12572,7 @@ Område som överlåts till
 Tempohus Kungsbacka AB
 
 /
-> /
+\> /
 
 /
 
@@ -12659,7 +12659,7 @@ Kommundirektör                Samhällsbyggnadschef
 rron. BIR sju so
 
 Sent on: Tuesday, November 12, 2024 9:57:11 AM
-To: Anna Wibling <anna.wibling(Qkungsbacka.se>
+To: Anna Wibling \<anna.wibling(Qkungsbacka.se>
 
 Subject: Principavtal
 
@@ -12963,10 +12963,10 @@ kommunala behov.
 
 Kommunstyrelsen beslutade 2018-10-23:
 
-- Att ge samhällsbyggnadskontoret i uppdrag att planlägga fastigheten Alafors
+\- Att ge samhällsbyggnadskontoret i uppdrag att planlägga fastigheten Alafors
 3:3 för kommunal service och bostäder.
 
-- Att ge byggnadsnämnden i uppdrag att inkludera Alafors 3:3 i detaljplanen
+\- Att ge byggnadsnämnden i uppdrag att inkludera Alafors 3:3 i detaljplanen
 för utveckling av Annebergs centrum.
 
 Kommunstyrelsen beslutade 2019-11-26:
@@ -12991,7 +12991,7 @@ som framkommer under planarbetet, avtalsförhandlingar och genomförbarhet.
 
 Uppdaterad 191206 2/7
 
-3.
+3\.
 
 3.1
 
@@ -13155,7 +13155,7 @@ Uppdaterad 191206 4/7
 
 I;2
 
-10.
+10\.
 
 10.1
 
@@ -13197,7 +13197,7 @@ kommunfullmäktige.
 
 exploateringsavtal i samband med antagandet av Detaljplanen.
 
-|
+\|
 Parterna är överens om att principerna i Avtalet även ska gälla i kommande |
 Exploateringsavtalet ska bland annat reglera: |
 
@@ -13224,7 +13224,7 @@ Uppdaterad 191206 5/7
 
 10.3
 
-12.
+12\.
 
 12.1
 
@@ -13232,11 +13232,11 @@ Uppdaterad 191206 5/7
 
 12.3
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 14.1
 
 Parterna ska vidare kontinuerligt behandla frågor kring Detaljplanen och
@@ -13300,24 +13300,24 @@ Uppdaterad 191206 6/7
 
 14.2
 
-15.
+15\.
 
 15.1
 
-16.
+16\.
 
 16.1
 
-17.
+17\.
 17.1
 
-18.
+18\.
 
 18.1
 
 18.2
 
-19.
+19\.
 
 19.1
 
@@ -13379,13 +13379,13 @@ Bolaget är vidare skyldiga att skriftligen meddela Kommunen vid eventuell
 
 Uppdaterad 191206 HI
 
-20. — Avtalets giltighet
+20\. — Avtalets giltighet
 
 20.1 — Avtalet är giltigt endast under förutsättning att det senast 2020-06-30 godkänns
 av kommunstyrelsen i Kungsbacka kommun genom beslut som vinner laga
 kraft.
 
-21. — Tvist
+21\. — Tvist
 
 21.1 = Tvist rörande tolkning av Avtalet ska hänskjutas till allmän domstol.
 
@@ -13448,34 +13448,34 @@ Samhällsbyggnadskontorets planavdelning, nedan kallad Planavdelningen.
 Information
 På kommunstyrelsens sammanträde 2019-11-26 avses följande att beslutas:
 
-- Kommunstyrelsen beslutar att inleda en planeringsprocess för fastigheterna Alafors
+\- Kommunstyrelsen beslutar att inleda en planeringsprocess för fastigheterna Alafors
 2:49 och Skårby 22:5 med syfte att genom detaljplan möjliggöra för verksamhets- och
 bostadsändamål.
 
-- Kommunstyrelsen överlämnar till byggnadsnämnden att inkludera Alafors 2:49 och
+\- Kommunstyrelsen överlämnar till byggnadsnämnden att inkludera Alafors 2:49 och
 Skårby 22:5 i detaljplanen för utveckling av Annebergs centrum.
 
-- Kommunstyrelsen ger kommundirektören i uppdrag att upprätta ett förslag till
+\- Kommunstyrelsen ger kommundirektören i uppdrag att upprätta ett förslag till
 principavtal med fastighetsägaren till Alafors 2:49 och Skårby 22:5.
 
 Följande utförs av Samhällsbyggnadskontoret, Planavdelningen i samråd med Beställaren
-1. Planförslag med plankarta, illustrationskarta, planbeskrivning inklusive
+1\. Planförslag med plankarta, illustrationskarta, planbeskrivning inklusive
 genomförandebeskrivning, eventuellt gestaltningsprogram samt övrigt
 informationsmaterial för samråd och granskning.
-2. Grundkarta och fastighetsförteckning.
-3. Skisser och utredningar som fordras vid framtagande av detaljplan,
+2\. Grundkarta och fastighetsförteckning.
+3\. Skisser och utredningar som fordras vid framtagande av detaljplan,
 
 4, Samrådsredogörelse efter samråd och ett granskningsutlåtande efter granskning
 
-5. Material beställt av Planavdelningen och som fordras vid samråd, granskning och
+5\. Material beställt av Planavdelningen och som fordras vid samråd, granskning och
 antagande.
 
 6, Övriga arbetsuppgifter som uppkommer i samband med samråd,
 underrättelse/granskning, antagande och arkivering.
 
-7. Kostnaderna för utfört arbete enligt punkt 1-6 faktureras Beställaren,
+7\. Kostnaderna för utfört arbete enligt punkt 1-6 faktureras Beställaren,
 
-8. Vid planarbetets påbörjande startfaktureras 2594 (tjugofem) av en uppskattad
+8\. Vid planarbetets påbörjande startfaktureras 2594 (tjugofem) av en uppskattad
 plankostnad exklusive utredningar, enligt punkt 1-6.
 
 <!-- sida 313 -->
@@ -13492,13 +13492,13 @@ principavtal pkt 8.
 
 9, Timdebitering sker enligt plantaxa beslutad av kommunfullmäktige.
 
-10. Detaljplanen administreras av Planavdelningen fram till och med antagande
+10\. Detaljplanen administreras av Planavdelningen fram till och med antagande
 och arkivering.
 
-11. Detta avtal gäller även om planarbetet avbryts och inte resulterar i en antagen
+11\. Detta avtal gäller även om planarbetet avbryts och inte resulterar i en antagen
 lagakraftvunnen detaljplan.
 
-12. Avbryts planarbetet ersätts Planavdelningen för utfört arbete enligt timredo-
+12\. Avbryts planarbetet ersätts Planavdelningen för utfört arbete enligt timredo-
 visning av berörd personal, samt för eventuellt utförda utredningar.
 
 Ort och datt smslissersrsrssersreserssssrrr renarna nr rn AKS N KARE AKAN RA AA AAA AREA ARE AA RANA RA RAR
@@ -13539,7 +13539,7 @@ Kommunstyrelsen ; Datum
 
 2020-01-21
 
-$9 Dnr 2019-00771
+\$9 Dnr 2019-00771
 Principavtal för detaljplan för utveckling av Annebergs centrum
 
 Beslut
@@ -13577,7 +13577,7 @@ godkännas innan detaljplanen antas.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2020-01-13, $ 19
+Kommunstyrelsens arbetsutskott 2020-01-13, \$ 19
 Samhällsbyggnadskontorets tjänsteskrivelse, 2019-12-16
 Principavtal, undertecknat av SW fastigheter KB 2019-12-09
 
@@ -13691,19 +13691,19 @@ kommunala behov.
 
 Kommunstyrelsen beslutade 2018-10-23:
 
-- Att ge samhällsbyggnadskontoret i uppdrag att planlägga fastigheten Alafors
+\- Att ge samhällsbyggnadskontoret i uppdrag att planlägga fastigheten Alafors
 3:3 för kommunal service och bostäder.
 
-- Att ge byggnadsnämnden i uppdrag att inkludera Alafors 3:3 i detaljplanen
+\- Att ge byggnadsnämnden i uppdrag att inkludera Alafors 3:3 i detaljplanen
 för utveckling av Annebergs centrum.
 
 Kommunstyrelsen beslutade 2019-11-26:
 
-- Att inleda en planeringsprocess för fastigheterna Alafors 2:49 och Skårby
+\- Att inleda en planeringsprocess för fastigheterna Alafors 2:49 och Skårby
 22:5 med syfte att genom detaljplan möjliggöra för verksamhets- och
 bostadsändamål.
 
-- Att överlämna till byggnadsnämnden att inkludera Alafors 2:49 och Skårby
+\- Att överlämna till byggnadsnämnden att inkludera Alafors 2:49 och Skårby
 22:5 i detaljplanen för utveckling av Annebergs centrum.
 
 Planområde och Projektområde
@@ -13887,7 +13887,7 @@ Uppdaterad 191206 4/7
 
 IL
 
-10.
+10\.
 
 10.1
 
@@ -13954,7 +13954,7 @@ Uppdaterad 191206 5/7
 
 10.3
 
-12.
+12\.
 
 12.1
 
@@ -13962,11 +13962,11 @@ Uppdaterad 191206 5/7
 
 12.3
 
-13.
+13\.
 
 13.1
 
-14.
+14\.
 
 14.1
 
@@ -14033,13 +14033,13 @@ Detaljplanen. Ett gestaltningsprogram för allmän platsmark och kvartersmark
 ska tas fram där Parterna och Serneke Projektstyrning AB har enats om
 gestaltnings- och kvalitetsnivåer.
 
-15. - Va-anslutningsavgift m.m.
+15\. - Va-anslutningsavgift m.m.
 
 15.1 — Bolaget upplyses om att va-anslutningsavgift kommer att debiteras, för den
 byggrätt som medges i Detaljplanen, enligt vid debiteringstillfället gällande va-
 taxa.
 
-16. Säkerhet
+16\. Säkerhet
 
 16.1 — För rätta fullgörandet av Bolagets åtaganden i kommande exploateringsavtal ska
 Bolaget till Kommunen överlämna en bankgaranti eller annan av Kommunen
@@ -14047,14 +14047,14 @@ godkänd säkerhet.
 
 D. ÖVRIGA BESTÄMMELSER
 
-17. Avtalstid
+17\. Avtalstid
 
 17.1 — Avtalet löper från och med dagen för Kommunstyrelsens godkännande till den
 dag då giltigt exploateringsavtal föreligger, dock längst till och med 2021-12-31,
 Avtalstiden. Avtalet upphör då att gälla om inte Parterna överenskommer om
 annat.
 
-18.  Avbrutet planarbete - upphörande av avtal och kostnader
+18\.  Avbrutet planarbete - upphörande av avtal och kostnader
 
 18.1 Om formella hinder skulle uppstå emot att Detaljplanen slutligen vinner laga
 kraft, ska samarbetet avbrytas och Avtalet upphöra att gälla. Parterna svarar i
@@ -14070,7 +14070,7 @@ Bolaget svarar i detta fall för sina kostnader samt ska ersätta Kommunen för
 dess nedlagda kostnader för arbete och utredningar med avseende på
 Detaljplanen i enlighet med punkt 8 ovan.
 
-19. Överlåtelse av avtal och fastigheter
+19\. Överlåtelse av avtal och fastigheter
 
 19.1 — Bolaget äger ej rätt att, utan kommunstyrelsens skriftliga medgivande, överlåta
 Avtalet på annan.
@@ -14086,13 +14086,13 @@ ce
 
 Uppdaterad 191206 NI
 
-20. Avtalets giltighet
+20\. Avtalets giltighet
 
 20.1 — Avtalet är giltigt endast under förutsättning att det senast 2020-06-30 godkänns
 av kommunstyrelsen i Kungsbacka kommun genom beslut som vinner laga
 kraft.
 
-21. Tvist
+21\. Tvist
 
 21.1 — Tvist rörande tolkning av Avtalet ska hänskjutas till allmän domstol.
 
@@ -14158,35 +14158,35 @@ Samhällsbyggnadskontorets planavdelning, nedan kallad Planavdelningen.
 Information
 På kommunstyrelsens sammanträde 2019-11-26 avses följande att beslutas:
 
-- Kommunstyrelsen beslutar att inleda en planeringsprocess för fastigheterna Alafors
+\- Kommunstyrelsen beslutar att inleda en planeringsprocess för fastigheterna Alafors
 2:49 och Skårby 22:5 med syfte att genom detaljplan möjliggöra för verksamhets- och
 
 bostadsändamål.
 
-- Kommunstyrelsen överlämnar till byggnadsnämnden att inkludera Alafors 2:49 och
+\- Kommunstyrelsen överlämnar till byggnadsnämnden att inkludera Alafors 2:49 och
 Skårby 22:5 i detaljplanen för utveckling av Annebergs centrum.
 
-- Kommunstyrelsen ger kommundirektören i uppdrag att upprätta ett förslag till
+\- Kommunstyrelsen ger kommundirektören i uppdrag att upprätta ett förslag till
 principavtal med fastighetsägaren till Alafors 2:49 och Skårby 22:5.
 
 Följande utförs av Samhällsbyggnadskontoret, Planavdelningen i samråd med Beställaren
-1. Planförslag med plankarta, illustrationskarta, planbeskrivning inklusive
+1\. Planförslag med plankarta, illustrationskarta, planbeskrivning inklusive
 genomförandebeskrivning, eventuellt gestaltningsprogram samt övrigt
 informationsmaterial för samråd och granskning.
-2. Grundkarta och fastighetsförteckning.
+2\. Grundkarta och fastighetsförteckning.
 3, Skisser och utredningar som fordras vid framtagande av detaljplan.
 
 4, Samrådsredogörelse efter samråd och ett granskningsutlåtande efter granskning
 
-5. Material beställt av Planavdelningen och som fordras vid samråd, granskning och
+5\. Material beställt av Planavdelningen och som fordras vid samråd, granskning och
 antagande.
 
-6. Övriga arbetsuppgifter som uppkommer i samband med samråd,
+6\. Övriga arbetsuppgifter som uppkommer i samband med samråd,
 underrättelse/granskning, antagande och arkivering.
 
-7. Kostnaderna för utfört arbete enligt punkt 1-6 faktureras Beställaren.
+7\. Kostnaderna för utfört arbete enligt punkt 1-6 faktureras Beställaren.
 
-8. Vid planarbetets påbörjande startfaktureras 2594 (tjugofem) av en uppskattad
+8\. Vid planarbetets påbörjande startfaktureras 2594 (tjugofem) av en uppskattad
 plankostnad exklusive utredningar, enligt punkt 1-6.
 
 <!-- sida 326 -->
@@ -14201,15 +14201,15 @@ eller via epost.
 Inför avslutande slutfakturering görs en slutavstämning med hänsyn till innehåll i
 principavtal pkt 8.
 
-9. Timdebitering sker enligt plantaxa beslutad av kommunfullmäktige.
+9\. Timdebitering sker enligt plantaxa beslutad av kommunfullmäktige.
 
-10. Detaljplanen administreras av Planavdelningen fram till och med antagande
+10\. Detaljplanen administreras av Planavdelningen fram till och med antagande
 och arkivering.
 
-11. Detta avtal gäller även om planarbetet avbryts och inte resulterar i en antagen
+11\. Detta avtal gäller även om planarbetet avbryts och inte resulterar i en antagen
 lagakraftvunnen detaljplan.
 
-12. Avbryts planarbetet ersätts Planavdelningen för utfört arbete enligt timredo-
+12\. Avbryts planarbetet ersätts Planavdelningen för utfört arbete enligt timredo-
 visning av berörd personal, samt för eventuellt utförda utredningar.
 
 Ort och datUtn sdsossvsrrrersererrssssoorerersesrsnrsressss enes ers r GRS KRAN NANNA RSK AKAN R KARNA NHR RANK NRA
@@ -14249,7 +14249,7 @@ Kommunstyrelsen Datum
 
 2020-01-21
 
-$9 Dnr 2019-00771
+\$9 Dnr 2019-00771
 Principavtal för detaljplan för utveckling av Annebergs centrum
 
 Beslut
@@ -14287,7 +14287,7 @@ godkännas innan detaljplanen antas.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2020-01-13, $ 19
+Kommunstyrelsens arbetsutskott 2020-01-13, \$ 19
 Samhällsbyggnadskontorets tjänsteskrivelse, 2019-12-16
 Principavtal, undertecknat av SW fastigheter KB 2019-12-09
 
@@ -14608,12 +14608,12 @@ PROJEKTBESTÄLLNING                                KUNGSBACKA  KOMMUN
 PROJEKTETS  LEVERANSER
 Projektet kommer att ha följande leveranser:
 
-1. Projektbeställning
-2. Projektplan
-3. Samrådshandlingar
-4. Granskningshandlingar
-5. Avtal (plankostnadsavtal, principavtal, exploateringsavtal)
-6. Antagandehandlingar
+1\. Projektbeställning
+2\. Projektplan
+3\. Samrådshandlingar
+4\. Granskningshandlingar
+5\. Avtal (plankostnadsavtal, principavtal, exploateringsavtal)
+6\. Antagandehandlingar
 
 Detaljplanen upprättas med standardförfarande, därav antas detaljplanen av byggnadsnämnden (BN).
 

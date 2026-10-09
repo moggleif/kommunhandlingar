@@ -401,7 +401,7 @@ remisser-och-skriva-fram-yttranden
 Hälsningar
 Kristian Egstedt
 Registrator
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 12 -->
 

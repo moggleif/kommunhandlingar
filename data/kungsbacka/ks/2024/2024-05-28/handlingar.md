@@ -32859,7 +32859,7 @@ teknikerinsats. Även restid och inställelsetid debiteras med samma timpris.
 
 \* Pris angivet inklusive moms.
 
-\________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun             Bredbandstaxa 2024                9 (9)
 
@@ -33261,7 +33261,7 @@ debiteras med samma timpris.
 
 Priser angivna inklusive moms.
 
-\_______________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun             Bredbandstaxa 2024               10 (10)
 

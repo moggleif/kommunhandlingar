@@ -1543,7 +1543,7 @@ Information om överklagande
 Detta beslut får inte överklagas enligt 12 § i förordningen (2004:100) om
 statsbidrag för avhjälpande av föroreningsskador.
 
-\__________
+\_\_\_\_\_\_\_\_\_\_
 Beslut om detta bidrag för utredningar har fattats av vikarierande
 
 generaldirektören Maria Ohlman efter föredragning av avdelningschefen Ingela

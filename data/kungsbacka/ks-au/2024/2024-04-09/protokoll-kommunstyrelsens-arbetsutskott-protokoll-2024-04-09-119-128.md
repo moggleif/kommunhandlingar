@@ -642,21 +642,21 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Kommundirektör Malin Aronsson lämnar följande information:
-- Tio kommuner har anmält sitt intresse för att delta i arbetet med cybersäkerhet
+\- Tio kommuner har anmält sitt intresse för att delta i arbetet med cybersäkerhet
 
 som Sveriges kommuner och regioner (SKR) har initierat inom ramen för
 Handslag för digitalisering. Kungsbacka avstod från att delta i projektet den här
 gången.
-- Det har inkommit ett varsel från Kommunal om strejk. Tolv arbetsställen i
+\- Det har inkommit ett varsel från Kommunal om strejk. Tolv arbetsställen i
 Kungsbacka berörs av varslet i Kungsbacka kommun och det rör sig om
 måltidspersonal och eller lokalvårdare. Strejken kommer att träda i kraft den 18
 
 april om inte parterna har kommit överens innan dess.
-- Fredagen den 12 april kommer Kungsbacka kommun genom kommundirektören
+\- Fredagen den 12 april kommer Kungsbacka kommun genom kommundirektören
 att delta i avtackning av länsråd Jörgen Peters som går vidare till en ny tjänst på
 Länsstyrelsen i Västra Götaland.
 
-- Återkoppling från senaste ledningsdialogen med polisen i Kungsbacka. Alla
+\- Återkoppling från senaste ledningsdialogen med polisen i Kungsbacka. Alla
 förvaltningschefer deltar numera i ledningsdialogen. Vid mötet diskuterades
 bland annat det fortsatt oroliga läget i södra delarna av Göteborg och hur det
 påverkar Kungsbacka.

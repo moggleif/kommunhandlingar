@@ -354,7 +354,7 @@ Norge.
 välfärdsbrottslighet
 
 Hur arbetar nämnden med att
-1. Förbättra bemötande
+1\. Förbättra bemötande
 
 Det är viktigt att företagen upplever fullt stöd från kommunen och alltid får en service som präglas av positivt
 bemötande och ett lösningsorienterat förhållningssätt med hög rättssäkerhet och effektivitet. Lika viktigt är att
@@ -370,7 +370,7 @@ professionellt agerande i våra olika ärenden.
 Kommunstyrelsen                                  Kungsbacka kommun
 Underlag till Kommunbudget 2027
 
-2. Förbättra företagsklimatet
+2\. Förbättra företagsklimatet
 
 Kommunstyrelsen kommer att fortsätta att leda, samordna och utveckla näringslivsprocessen samt utveckla
 kommunens insatser för att främja utveckling och tillväxt av näringslivet inklusive besöksnäringen. Det innebär
@@ -379,7 +379,7 @@ företag, externa partners eller andra offentliga organisationer. För att stär
 till fler och växande företag kommer kommunstyrelsen, tillsammans med förvaltningarna, stärka våra arbetssätt
 för att systematiskt kunna stödja förvaltningarna i att ta ytterligare steg mot Västsveriges bästa företagsklimat.
 
-3. Kommunstyrelsens arbete mot välfärdsbrottslighet – fokus kommande år
+3\. Kommunstyrelsens arbete mot välfärdsbrottslighet – fokus kommande år
 Kommunstyrelsen fortsätter att ta en aktiv roll i arbetet mot välfärdsbrott, både på kommunövergripande nivå
 och inom den egna förvaltningen. Arbetet sker i nära samverkan med nationella och regionala nätverk samt
 genom deltagande i utbildningar för att stärka kompetensen inom området.
@@ -427,7 +427,7 @@ Indikator A,B,C | (ökalminska) förslag
 
 Antal påbörjade bostäder
 
->I>I 0
+\>I>I 0
 
 Antal färdigställda bostäder
 
@@ -630,7 +630,7 @@ Genomsnittlig betygspoäng gymnasieelever
 
 med examen (hemkommun) som kan vara max A
 
-20.
+20\.
 
 Arbetslöshet för ungdomar 16-24 år i
 
@@ -674,7 +674,7 @@ Mätningen görs vartannat år.
 
 Jämställdhetsindex, Jämix. Antal poäng av max
 
-180. Jämix beräknas utifrån nio nyckeltal med A
+180\. Jämix beräknas utifrån nio nyckeltal med A
 
 skala 1—20.
 
@@ -732,7 +732,7 @@ www.kungsbacka.se
 <!-- sida 20 -->
 
 KUNGSBACKA KOMMUN
-202)
+202\)
 
 Beskrivning av ärendet
 
@@ -792,7 +792,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 22 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 Denna taxa gäller avgifter för uthyrning av nedanstående lokaler med tillhörande
 tjänster till organisationer och enskilda invånare.
@@ -800,7 +800,7 @@ tjänster till organisationer och enskilda invånare.
 
 • Konsertsalen Snäckan i Kulturhuset Fyren
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 2.1 Avgifter tas ut enligt de grunder och principer som framgår av kommunallagen
 (2017:725), 2 kap. 5-6 §§.
@@ -817,14 +817,14 @@ och styrdokument ska stödja, betalar en marknadsmässig avgift. Även vid
 långtidsuthyrning, då hyra tas ut enligt offert, gäller principen om marknadsmässiga
 avgifter.
 
-3. Offert
+3\. Offert
 
 Offert tillämpas när kombinationen av lokaler, inkl. teknik och material, och tjänster
 som erbjuds inte följer gängse modell som framgår av tabellerna i detta dokument.
 Offert baseras på beräkning av lokalkostnad samt kostnad för övriga resurser, bland
 annat personal, lokalvård och marknadsföring.
 
-4. Mervärdeskatt
+4\. Mervärdeskatt
 
 Moms tillkommer enligt gällande lagstiftning. Tabellen anger om moms är inkluderat
 i beloppen eller inte.
@@ -838,7 +838,7 @@ Kungsbacka kommun       Kungsbacka teater och konsertsalen Snäckan 2 (4)
 
 <!-- sida 23 -->
 
-5. Avgiftsbelopp/taxetabell Kungsbacka Teater
+5\. Avgiftsbelopp/taxetabell Kungsbacka Teater
 
 5.1 Endast hela timmar debiteras. Arrangören betalar för iordningställande före
 och efter arrangemanget. Teatern går endast att boka med behörig personal.
@@ -864,19 +864,19 @@ Kungsbacka kommun       Kungsbacka teater och konsertsalen Snäckan 3 (4)
 
 <!-- sida 24 -->
 
-6. Avgiftsbelopp/taxetabell konsertsalen Snäckan
+6\. Avgiftsbelopp/taxetabell konsertsalen Snäckan
 
 6.1 Avancerad teknisk utrustning är endast tillgänglig med behörig personal.
 
 6.2 De merkostnader som ett arrangemang har i form av extra teknik, personal eller
 marknadsföring bekostas av respektive arrangör
 
-7. Indexjustering av avgiftsbelopp
+7\. Indexjustering av avgiftsbelopp
 
 Avgiftsbeloppen får justeras årligen i enlighet med utvecklingen av Prisindex för
 kommunal verksamhet (PKV).
 
-8. Övergångsbestämmelse
+8\. Övergångsbestämmelse
 
 Avgift debiteras utifrån den taxa som är beslutad att gälla vid bokningstillfället. Om
 det vid det datum som bokningen görs inte har tagits något nytt taxebeslut för det
@@ -914,7 +914,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 26 -->
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 Denna taxa gäller avgifter för uthyrning av nedanstående lokaler med tillhörande
 tjänster till organisationer och enskilda invånare.
@@ -922,7 +922,7 @@ tjänster till organisationer och enskilda invånare.
 
 • Konsertsalen Snäckan i Kulturhuset Fyren
 
-2. Beräkningsgrunder
+2\. Beräkningsgrunder
 
 2.1 Avgifter tas ut enligt de grunder och principer som framgår av kommunallagen
 (2017:725), 2 kap. 5-6 §§.
@@ -939,14 +939,14 @@ och styrdokument ska stödja, betalar en marknadsmässig avgift. Även vid
 långtidsuthyrning, då hyra tas ut enligt offert, gäller principen om marknadsmässiga
 avgifter.
 
-3. Offert
+3\. Offert
 
 Offert tillämpas när kombinationen av lokaler, inkl. teknik och material, och tjänster
 som erbjuds inte följer gängse modell som framgår av tabellerna i detta dokument.
 Offert baseras på beräkning av lokalkostnad samt kostnad för övriga resurser, bland
 annat personal, lokalvård och marknadsföring.
 
-4. Mervärdeskatt
+4\. Mervärdeskatt
 
 Moms tillkommer enligt gällande lagstiftning. Tabellen anger om moms är inkluderat
 i beloppen eller inte.
@@ -960,7 +960,7 @@ Kungsbacka kommun       Kungsbacka teater och konsertsalen Snäckan 2 (5)
 
 <!-- sida 27 -->
 
-5. Avgiftsbelopp/taxetabell Kungsbacka Teater
+5\. Avgiftsbelopp/taxetabell Kungsbacka Teater
 
 Kungsbacka kommun       Kungsbacka teater och konsertsalen Snäckan 3 (5)
 
@@ -994,7 +994,7 @@ dagar.
 och efter arrangemanget. Teatern går endast att boka med behörig personal.
 Vid större evenemang krävs två tekniker.
 
-6. Avgiftsbelopp/taxetabell konsertsalen Snäckan
+6\. Avgiftsbelopp/taxetabell konsertsalen Snäckan
 
 6.1 Avancerad teknisk utrustning är endast tillgänglig med behörig personal.
 
@@ -1013,18 +1013,18 @@ Kungsbacka kommun       Kungsbacka teater och konsertsalen Snäckan 4 (5)
 6.2 De merkostnader som ett arrangemang har i form av extra teknik, personal eller
 marknadsföring bekostas av respektive arrangör
 
-7. Indexjustering av avgiftsbelopp
+7\. Indexjustering av avgiftsbelopp
 
 Avgiftsbeloppen får justeras årligen i enlighet med utvecklingen av Prisindex för
 kommunal verksamhet (PKV).
 
-8. Delegering av beslut om justering efter index
+8\. Delegering av beslut om justering efter index
 
 Nämnden för Kultur & Fritid ansvarar för att årligen ta beslut om huruvida
 indexjustering ska ske eller inte, och i förekommande fall räkna om beloppen i
 taxan. Outnyttjad indexreglering får inte tillgodoräknas retroaktivt.
 
-9. Övergångsbestämmelse
+9\. Övergångsbestämmelse
 
 Avgift debiteras utifrån den taxa som är beslutad att gälla vid bokningstillfället. Om
 det vid det datum som bokningen görs inte har tagits något nytt taxebeslut för det
@@ -1137,7 +1137,7 @@ biljettsystemet för arrangör.
 
 En jämförelse visar:
 
-*När arrangören tar ut fribiljetter
+\*När arrangören tar ut fribiljetter
 
 Karl Persson
 Förvaltningschef
@@ -1153,7 +1153,7 @@ Förvaltningschef
 
 |  | Sara kulturhus,<br>Skellefteå | Jönköping Konsert<br>& Kongress | Uppsala Konsert &<br>Kongress | Halmstad Teater |
 | --- | --- | --- | --- | --- |
-| Serviceavgift | 12,5 kr | 0 kr | 10 kr/fri<br>arrangörsbiljett, i<br>övrigt 0 kr.* | 8 kr/fri<br>arrangörsbiljett, i<br>övrigt 0 kr.* |
+| Serviceavgift | 12,5 kr | 0 kr | 10 kr/fri<br>arrangörsbiljett, i<br>övrigt 0 kr.\* | 8 kr/fri<br>arrangörsbiljett, i<br>övrigt 0 kr.\* |
 | Biljettuppläggningsavgift | Ingår i avtalet | Ingår i avtalet | Ingår i avtalet | 1600 kr |
 
 <!-- sida 33 -->
@@ -1212,7 +1212,7 @@ välmående och motverka psykisk ohälsa. Nämndernas ansökningar hittills avse
 sammanlagt till 5 000 000 kronor, varav 1 500 000 kronor sedan tidigare har beviljats av
 
 KUNGSBACKA KOMMUN
-26)
+26\)
 
 kommunstyrelsen.
 Nämnd Område Begärt belopp, kronor | Beviljat belopp, kronor
@@ -1363,7 +1363,7 @@ välmående och motverka psykisk ohälsa. Nämndernas ansökningar hittills avse
 sammanlagt till 5 000 000 kronor, varav 1 500 000 kronor sedan tidigare har beviljats av
 
 KUNGSBACKA KOMMUN
-26)
+26\)
 
 kommunstyrelsen.
 Nämnd Område Begärt belopp, kronor | Beviljat belopp, kronor
@@ -1575,7 +1575,7 @@ sammanlagt till 5 000 000 kronor, varav 1 500 000 kronor sedan tidigare har bevi
 
 KUNGSBACKA KOMMUN
 
-23)
+23\)
 
 kommunstyrelsen.
 Nämnd Område Begärt belopp, kronor | Beviljat belopp, kronor
@@ -1770,7 +1770,7 @@ skola.
 Förväntad nytta
 Insatserna inom konceptet “Välkommen in!” förväntas ge både kortsiktiga och långsiktiga effekter för
 elever, verksamhet och samhälle:
-1. För eleverna
+1\. För eleverna
 •  Ökad livskvalitet och självkänsla genom meningsfulla aktiviteter som stärker känslan av
 kompetens och självständighet.
 •  Förbättrad känsla av delaktighet och inkludering i samhället genom möten med lokala aktörer
@@ -1778,12 +1778,12 @@ kompetens och självständighet.
 och praktisk träning i demokratiska processer.
 •  Stärkt framtidstro genom erfarenheter som kopplar lärande till verkliga livssituationer,
 exempelvis boende, ekonomi och socialt samspel.
-2. För verksamheten
+2\. För verksamheten
 •  Utvecklade lärmiljöer som ger personalen nya verktyg för att arbeta med livskunskap och
 medborgarskap i linje med läroplanens mål.
 •  Förbättrad samverkan mellan skola, arbetsliv, individ- och familjeomsorg samt civilsamhälle,
 vilket skapar hållbara strukturer för stöd och inkludering.
-3. För samhället
+3\. För samhället
 •  Ökat demokratiskt deltagande på sikt genom att elever får erfarenheter av inflytande och
 kontakt med samhällsaktörer.
 •  Minskad risk för utanförskap genom tidiga insatser som stärker elevernas nätverk och förmåga
@@ -1894,7 +1894,7 @@ välmående och motverka psykisk ohälsa. Nämndernas ansökningar hittills avse
 sammanlagt till 5 000 000 kronor, varav 1 500 000 kronor sedan tidigare har beviljats av
 
 KUNGSBACKA KOMMUN
-26)
+26\)
 
 kommunstyrelsen.
 Nämnd Område Begärt belopp, kronor | Beviljat belopp, kronor
@@ -2057,7 +2057,7 @@ Under sommaren 2025 genomfördes Sommarkulturskolan som en del av Kulturskolans 
 och unga mellan 7–13 år fick möjlighet att prova på teater, cirkus, konst, musik och LEGO. Totalt deltog 56
 barn i fyra grupper – med mycket positiva resultat och stort engagemang.
 Alliansen vill bygga vidare på denna framgång genom att utöka Sommarkulturskolan inför sommaren
-2026. Därutöver vill vi avsätta extra medel till föreningslivet för att möjliggöra ännu fler aktiviteter för
+2026\. Därutöver vill vi avsätta extra medel till föreningslivet för att möjliggöra ännu fler aktiviteter för
 sommarlovslediga barn och unga.
 
 Kungsbackas föreningar är en nyckelaktör i arbetet för att stärka barns och ungas psykiska och fysiska
@@ -2071,8 +2071,8 @@ Att
 
 nämnden för Kultur och Fritid ger förvaltningen i uppdrag att:
 
-- utöka Sommarkulturskolan inför sommaren 2026, samt
-- i samarbete med föreningslivet skapa fler sommarlovsaktiviteter för barn och unga i kommunen.
+\- utöka Sommarkulturskolan inför sommaren 2026, samt
+\- i samarbete med föreningslivet skapa fler sommarlovsaktiviteter för barn och unga i kommunen.
 
 Annika Hedman Maria Gathendahl Birgitta Gustafsson Helene Engstrand
 
@@ -2136,7 +2136,7 @@ välmående och motverka psykisk ohälsa. Nämndernas ansökningar hittills avse
 sammanlagt till 5 000 000 kronor, varav 1 500 000 kronor sedan tidigare har beviljats av
 
 KUNGSBACKA KOMMUN
-26)
+26\)
 
 kommunstyrelsen.
 Nämnd Område Begärt belopp, kronor | Beviljat belopp, kronor
@@ -2376,7 +2376,7 @@ välmående och motverka psykisk ohälsa. Nämndernas ansökningar hittills avse
 sammanlagt till 5 000 000 kronor, varav 1 500 000 kronor sedan tidigare har beviljats av
 
 KUNGSBACKA KOMMUN
-23)
+23\)
 
 kommunstyrelsen.
 Nämnd Område Begärt belopp, kronor | Beviljat belopp, kronor
@@ -2630,10 +2630,10 @@ främja välmående. Dessa pengar är sökbara av nämnderna.
 Alliansen har tagit fram två initiativ för främjande av välmående med fokus på
 gymnasieskolorna:
 
-1) Förstärkt individuellt psykosocialt stöd för elever inom gymnasieskolan. Förslaget
+1\) Förstärkt individuellt psykosocialt stöd för elever inom gymnasieskolan. Förslaget
 innebär att ta fram en ansökan om 700 000kr.
 
-2) Praktikinsatser inom anpassad gymnasieskola. Förslaget innebär att ta fram en
+2\) Praktikinsatser inom anpassad gymnasieskola. Förslaget innebär att ta fram en
 ansökan om 500 000kr.
 
 Beslutsgång
@@ -2704,21 +2704,21 @@ Kommunallagens och vallagens reglering av arbetsordning och antalet ersättare
 
 I kommunallagens 5 kap. 71 § framgår att kommunfullmäktiges arbetsordningen måste innehålla
 uppgifter om:
-1. antalet ledamöter i fullmäktige,
+1\. antalet ledamöter i fullmäktige,
 
-2. när sammanträden ska hållas,
-3. anmälan av hinder att delta i sammanträden,
+2\. när sammanträden ska hållas,
+3\. anmälan av hinder att delta i sammanträden,
 
-4. inkallande av ersättare och deras tjänstgöring,
-5. vem som ska föra ordet tills ordförande utsetts,
+4\. inkallande av ersättare och deras tjänstgöring,
+5\. vem som ska föra ordet tills ordförande utsetts,
 
-6. rätten att delta i fullmäktiges överläggningar,
-7. förfarandet vid omröstningar,
+6\. rätten att delta i fullmäktiges överläggningar,
+7\. förfarandet vid omröstningar,
 
-8. handläggningen av motioner, interpellationer och frågor,
-9. formerna för justeringen av protokollet, och
+8\. handläggningen av motioner, interpellationer och frågor,
+9\. formerna för justeringen av protokollet, och
 
-10. fullmäktigepresidiets arbetsuppgifter.
+10\. fullmäktigepresidiets arbetsuppgifter.
 Vidare framgår det i 5 kap. 8 § kommunallagen att det för ledamöterna i kommunfullmäktige ska
 finnas ersättare samt att kommunfullmäktige bestämmer hur många ersättarna ska vara. Antalet ska
 
@@ -3137,16 +3137,16 @@ anvisats dem.
 
 Vissa förtroendevalda som inte är ledamöter i kommunfullmäktige, kan kallas för att delta i
 kommunfullmäktiges överläggningar men inte i besluten. Detta gäller:
--  kommunalråd
--  ordförande eller vice ordförande i kommunstyrelsen,
--  ordföranden eller vice ordförande i en nämnd eller fullmäktigeberedning när ärende som beretts av
+\-  kommunalråd
+\-  ordförande eller vice ordförande i kommunstyrelsen,
+\-  ordföranden eller vice ordförande i en nämnd eller fullmäktigeberedning när ärende som beretts av
 nämnden eller fullmäktigeberedningen behandlas och när interpellation eller fråga som ställts till
 ordföranden i nämnden eller fullmäktigeberedningen besvaras,
--  ledamot i kommunstyrelsen och sådan ledamot i styrelse för aktiebolag eller stiftelse som väljs av
+\-  ledamot i kommunstyrelsen och sådan ledamot i styrelse för aktiebolag eller stiftelse som väljs av
 
 kommunfullmäktige som svarar på interpellation eller fråga, som överlämnats till denne för
 besvarande,
--  revisor hos kommunen vid behandling av revisionsberättelsen för den verksamhet uppdraget avser
+\-  revisor hos kommunen vid behandling av revisionsberättelsen för den verksamhet uppdraget avser
 och i ärenden som de själva väckt.
 Sakkunnigt biträde ska ges tillfälle att yttra sig vid kommunfullmäktiges behandling av revisionsberättelsen
 för nämnder och fullmäktigeberedningar.
@@ -3412,9 +3412,9 @@ Arvodesberedningen består av fem ledamöter och fem ersättare.
 Bland ledamöterna väljer kommunfullmäktige vid samma tillfälle en ordförande för den tid som de har valts
 att vara ledamöter.
 Arvodesberedningen ska:
--  Bereda ärenden inför kommunfullmäktiges beslut som berör förtroendevaldas pensionsavtal.
+\-  Bereda ärenden inför kommunfullmäktiges beslut som berör förtroendevaldas pensionsavtal.
 
--  Bereda ärenden inför kommunfullmäktiges beslut som berör regler för förtroendevaldas arvoden.
+\-  Bereda ärenden inför kommunfullmäktiges beslut som berör regler för förtroendevaldas arvoden.
 Arvodesberedningen sammanträder på kallelse av ordföranden.
 
 I övrigt bestämmer arvodesberedningen själv sina arbetsformer.
@@ -3608,15 +3608,15 @@ anvisats dem.
 Vissa förtroendevalda som inte är ledamöter i kommunfullmäktige, kan kallas för att delta i
 kommunfullmäktiges överläggningar men inte i besluten. Detta gäller:
 
--  kommunalråd
--  ordförande eller vice ordförande i kommunstyrelsen,
--  ordföranden eller vice ordförande i en nämnd eller fullmäktigeberedning när ärende som beretts av
+\-  kommunalråd
+\-  ordförande eller vice ordförande i kommunstyrelsen,
+\-  ordföranden eller vice ordförande i en nämnd eller fullmäktigeberedning när ärende som beretts av
 nämnden eller fullmäktigeberedningen behandlas och när interpellation eller fråga som ställts till
 ordföranden i nämnden eller fullmäktigeberedningen besvaras,
--  ledamot i kommunstyrelsen och sådan ledamot i styrelse för aktiebolag eller stiftelse som väljs av
+\-  ledamot i kommunstyrelsen och sådan ledamot i styrelse för aktiebolag eller stiftelse som väljs av
 kommunfullmäktige som svarar på interpellation eller fråga, som överlämnats till denne för
 besvarande,
--  revisor hos kommunen vid behandling av revisionsberättelsen för den verksamhet uppdraget avser
+\-  revisor hos kommunen vid behandling av revisionsberättelsen för den verksamhet uppdraget avser
 och i ärenden som de själva väckt.
 
 Sakkunnigt biträde ska ges tillfälle att yttra sig vid kommunfullmäktiges behandling av revisionsberättelsen
@@ -3883,9 +3883,9 @@ Arvodesberedningen består av fem ledamöter och fem ersättare.
 Bland ledamöterna väljer kommunfullmäktige vid samma tillfälle en ordförande för den tid som de har valts
 att vara ledamöter.
 Arvodesberedningen ska:
--  Bereda ärenden inför kommunfullmäktiges beslut som berör förtroendevaldas pensionsavtal.
+\-  Bereda ärenden inför kommunfullmäktiges beslut som berör förtroendevaldas pensionsavtal.
 
--  Bereda ärenden inför kommunfullmäktiges beslut som berör regler för förtroendevaldas arvoden.
+\-  Bereda ärenden inför kommunfullmäktiges beslut som berör regler för förtroendevaldas arvoden.
 Beredningen Arvodesberedningen sammanträder på kallelse av ordföranden.
 
 I övrigt bestämmer arvodesberedningen själv sina arbetsformer.
@@ -4037,29 +4037,29 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 <!-- sida 102 -->
 
 Innehåll
-1 $ Inledande bestämmelser
+1 \$ Inledande bestämmelser
 
-2 $ Avloppsanordningar
+2 \$ Avloppsanordningar
 
-3 $ Annan toalett än WC
+3 \$ Annan toalett än WC
 
-4 $ Att ha djur
+4 \$ Att ha djur
 
-5 $ Tomgångskörning med förbränningsmotor
-6 $ Spridning av gödsel
+5 \$ Tomgångskörning med förbränningsmotor
+6 \$ Spridning av gödsel
 
-7 $ Värmepumpar
+7 \$ Värmepumpar
 
-8 —9 $ Eldning av fastbränsle i kamin samt skötsel och tillsyn m.m.
-10 $ Gatumusik
+8 —9 \$ Eldning av fastbränsle i kamin samt skötsel och tillsyn m.m.
+10 \$ Gatumusik
 
-11 $ Ansökan och anmälan
+11 \$ Ansökan och anmälan
 
-12 $ Dispens
+12 \$ Dispens
 
-13 $ Sanktioner
+13 \$ Sanktioner
 
-14 $ Övergångsbestämmelser
+14 \$ Övergångsbestämmelser
 
 Kartbilagor 1-6
 
@@ -4078,7 +4078,7 @@ hälsoskydd (1998:899), gäller följande lokala föreskrifter för att skydda m
 Avloppsanordning
 28
 
-Enligt 13 $ förordningen om miljöfarlig verksamhet och hälsoskydd krävs det tillstånd av nämnden för Miljö
+Enligt 13 \$ förordningen om miljöfarlig verksamhet och hälsoskydd krävs det tillstånd av nämnden för Miljö
 & Hälsoskydd för att
 
 a. Inrätta en avloppsanordning som en eller flera vattentoaletter ska anslutas till
@@ -4089,15 +4089,15 @@ genom kommunen samt inom vattenskyddsområden som har märkts ut på kartbilaga 
 
 Tillstånd eller anmälan enligt dessa föreskrifter krävs inte för dagvattenanordningar.
 
-Enligt 13 och 14 $$ förordningen om miljöfarlig verksamhet och hälsoskydd krävs anmälan till nämnden för
+Enligt 13 och 14 \$\$ förordningen om miljöfarlig verksamhet och hälsoskydd krävs anmälan till nämnden för
 Miljö & Hälsoskydd för att
 
-1. Inrätta en annan avloppsanordning än som anges i punkterna 1—2
-2. Ändra en avloppsanordning, om åtgärden kan medföra väsentlig ändring av avloppsvattnets mängd
+1\. Inrätta en annan avloppsanordning än som anges i punkterna 1—2
+2\. Ändra en avloppsanordning, om åtgärden kan medföra väsentlig ändring av avloppsvattnets mängd
 eller sammansättning.
 
 Anmälan eller tillstånd enligt dessa bestämmelser krävs inte för avlopps-anordning som kräver tillstånd
-enligt 5 $ förordningen om miljöfarlig verksamhet och hälsoskydd eller om avloppsanordningen är avsedd
+enligt 5 \$ förordningen om miljöfarlig verksamhet och hälsoskydd eller om avloppsanordningen är avsedd
 att föra avloppsvattnet till enbart en allmän avloppsanordning.
 
 För vattenskyddsområden finns länsstyrelsens föreskrifter i Hallands läns författningssamling.
@@ -4106,16 +4106,16 @@ Annan toalett än WC
 38
 Det krävs tillstånd hos nämnden för Miljö & Hälsoskydd för att inrätta
 
-1. Förmultningstoalett
-2. Eltoalett
-3. Torrtoalett med latrinkompostering
+1\. Förmultningstoalett
+2\. Eltoalett
+3\. Torrtoalett med latrinkompostering
 
 Att ha djur
 48
 Det krävs tillstånd från nämnden för Miljö & Hälsoskydd för att hålla
 
-1. nötkreatur, häst, get, får eller svin
-2. pälsdjur eller fjäderfä som inte är sällskapsdjur
+1\. nötkreatur, häst, get, får eller svin
+2\. pälsdjur eller fjäderfä som inte är sällskapsdjur
 
 inom område med detaljplan, se kartbilaga 1.
 
@@ -4128,9 +4128,9 @@ Tomgångskörning med förbränningsmotor
 586
 
 En förbränningsmotor i stillastående motordrivet fordon får hållas i gång högst en minut. Detta gäller inte
-1. Om trafikförhållandena föranlett fordonet att stanna, t.ex. trafikkö
+1\. Om trafikförhållandena föranlett fordonet att stanna, t.ex. trafikkö
 
-2. Om motorn hålls igång för att — i den mån det behövs för fordonets ändamålsenliga brukande — driva
+2\. Om motorn hålls igång för att — i den mån det behövs för fordonets ändamålsenliga brukande — driva
 annan anordning (på fordonet) än sådan som avser uppvärmning
 
 Spridning av gödsel
@@ -4139,13 +4139,13 @@ Spridning av gödsel
 Vid spridning av naturlig gödsel, slam eller annan orenlighet inom eller intill område med detaljplan, se
 kartbilaga 1, gäller följande:
 
-1. Tidpunkten för spridning ska anpassas till sådana väder- och vindförhållanden som minskar risken
+1\. Tidpunkten för spridning ska anpassas till sådana väder- och vindförhållanden som minskar risken
 för luktolägenheter.
 
-2. Nedbrukning ska ske inom fyra timmar efter spridningen. Spridning i växande gröda ska jämställas
+2\. Nedbrukning ska ske inom fyra timmar efter spridningen. Spridning i växande gröda ska jämställas
 med nedbrukning.
 
-3. Spridning får inte ske närmare än tio meter från sjö eller annat vattendrag
+3\. Spridning får inte ske närmare än tio meter från sjö eller annat vattendrag
 
 Värmepumpar
 
@@ -4158,7 +4158,7 @@ Inom de vattenskyddsområden som har märkts ut på kartbilaga 2—5 krävs till
 Hälsa för att inrätta en sådan anläggning.
 
 Anmälan eller tillstånd enligt denna paragraf krävs inte för värmepumpsanläggning som kräver tillstånd
-enligt 5 $ förordningen och miljöfarlig verksamhet och hälsoskydd.
+enligt 5 \$ förordningen och miljöfarlig verksamhet och hälsoskydd.
 
 Eldning av fastbränsle i kamin m.m. samt skötsel och tillsyn
 8s
@@ -4198,7 +4198,7 @@ Ansökan och anmälan
 118
 
 En ansökan eller anmälan till nämnden för Miljö & Hälsoskydd ska vara skriftlig och uppfylla föreskrivna krav
-i 25 och 46 $$ förordningen om miljöfarlig verksamhet och 19 kap. 5 $ respektive 22 kap.1 $ miljöbalken.
+i 25 och 46 \$\$ förordningen om miljöfarlig verksamhet och 19 kap. 5 \$ respektive 22 kap.1 \$ miljöbalken.
 
 Dispens
 128
@@ -4918,7 +4918,7 @@ Regional fysisk plan Halland 2050 är Hallands första regionala fysiska plan. D
 målområden med tillhörande strategier och inriktningar som anger inriktningen för utvecklingen mot
 
 år 2050. Målområdena är följande:
-1. En tillgänglig, inkluderande och sammanhållen region
+1\. En tillgänglig, inkluderande och sammanhållen region
 • Stärk tillgängligheten i det nationellt viktiga Västkuststråket.
 • Stärk tillgängligheten mellan tillväxtmotorerna och de regionala kärnorna i öst-västlig riktning.
 
@@ -4942,12 +4942,12 @@ KUNGSBACKA  KOMMUN
 • Stärk och utveckla den digitala infrastrukturen i samhällsplaneringen.
 
 • Stärk och utveckla elnätskapaciteten och energisystemet.
-2. En flerkärnig region med attraktiva och hållbara livsmiljöer
+2\. En flerkärnig region med attraktiva och hållbara livsmiljöer
 • Kollektivtrafikorienterad bebyggelseplanering för ett hållbart och växande Halland.
 • Platsutveckling för attraktiva livsmiljöer i stads- och landsbygd.
 • Stärk de fysiska förutsättningarna för det halländska näringslivet.
 
-3. En robust och resilient region
+3\. En robust och resilient region
 • Utveckla och bevara naturresurser för ett attraktivt Halland.
 • Beredskap för ett förändrat klimat.
 • Hållbar och säker vattenhantering.
@@ -5016,7 +5016,7 @@ som strategiskt styrdokument för Halland och sydvästra Sverige.
 
 Kommunens inställning i detalj
 
-1. Storregionala samband och behovet av en bredare utblick
+1\. Storregionala samband och behovet av en bredare utblick
 
 Halland utvecklas i nära samspel med ett större geografiskt sammanhang, där rörelser av människor,
 kompetens, utbildning och gods sträcker sig från Oslo via Halland till Malmö och Köpenhamn. Dessa
@@ -5039,7 +5039,7 @@ samverkan med angränsande regioner och med staten, särskilt i frågor som rör
 infrastruktursatsningar, kapacitet i de stora stråken och utvecklingen av ett sammanhållet
 arbetsmarknadsområde i sydvästra Sverige.
 
-12)
+12\)
 
 Kommunstyrelsens förvaltning Kungsbacka kommun
 
@@ -5057,7 +5057,7 @@ www kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-2. Transportinfrastruktur och helhetsperspektiv i Västkuststråket
+2\. Transportinfrastruktur och helhetsperspektiv i Västkuststråket
 
 Kungsbacka kommun instämmer i planens utgångspunkt att Västkuststråket är av nationell betydelse
 och att det utgör en av de mest avgörande strukturerna för Hallands utveckling. Det är positivt att
@@ -5071,7 +5071,7 @@ och skapa bättre förutsättningar för långsiktig planering av kapacitet i b�
 Kommunen anser att strukturbilden även fortsättningsvis behöver utvecklas för att på ett tydligare sätt
 spegla dessa flöden och peka ut de stråk som är centrala för Hallands utveckling.
 
-3. Rollfördelning och genomförande
+3\. Rollfördelning och genomförande
 
 Kommunen välkomnar att regionens samordnande roll beskrivs tydligare i denna version av planen.
 För att underlätta genomförandet anser vi att det behöver tydliggöras ytterligare vilken aktör som
@@ -6927,7 +6927,7 @@ AJ
 å Så
 , Ad
 9 re dj
-+
+\+
 Ö Ö Örkelljunga
 
 Ängelholm
@@ -7059,7 +7059,7 @@ I|:ö>2 0: 0
 Nationellt &
 regionalt cykelstråk
 
-- Vandringsled
+\- Vandringsled
 Farled/sjötrafikstråk
 
 av riksintresse
@@ -7103,7 +7103,7 @@ JY dt
 
 SY
 
-+
+\+
 
 Glommen ()
 Falkenberg
@@ -7135,7 +7135,7 @@ Mot Karlskrona
 
 Hässleholm (=)
 S ka är lä é Mot Kristianstad
-- Möt Malmö/Köpenhamn - flygplats
+\- Möt Malmö/Köpenhamn - flygplats
 
 47
 
@@ -8629,7 +8629,7 @@ risker på mellankommunal nivå. Det är
 Risker
 och hänsyn
 
-|
+\|
 Risker och hänsyn
 Teckenförklaring (källa)
 
@@ -8802,7 +8802,7 @@ Trafikstart/
 Avtal Genomförande = inflyttningsklart
 
 å ud
-- Nn
+\- Nn
 
 GENOMFÖRANDE
 
@@ -9283,7 +9283,7 @@ totalförsvarsperspektiv. Företräde ska ges
 till försvarsintresset om ett område eller del
 av ett område behövs för en anläggning för
 totalförsvaret, enligt miljöbalken 3 kap. 10
-8. Det innebär att ett riksintresse för total-
+8\. Det innebär att ett riksintresse för total-
 försvaret ska väga tyngre i bedömningen
 
 inkluderande Oc
@@ -10421,7 +10421,7 @@ Programmet beskriver på ett klargörande sätt hur markpolitik, allmännytta, p
 exploateringsavtal ska användas och hur arbetet ska följas upp genom indikatorer.
 Synsättet att bostadsförsörjningsfrågorna behöver hanteras i ett regionalt sammanhang delas, och
 
-12)
+12\)
 
 Kommunstyrelsen Kungsbacka kommun
 
@@ -10476,7 +10476,7 @@ Senast reviderad: 202Å-MM- DD
 
 Innehållsförteckning
 
-1. Inledning och syfte ........................................................................................................ 3
+1\. Inledning och syfte ........................................................................................................ 3
 
 1.1. Syfte och lagstiftning ................................................................................................ 3
 1.2. Stadens mål och vision ............................................................................................. 3
@@ -10484,13 +10484,13 @@ Innehållsförteckning
 1.3. Översiktsplanens mål och strategier ......................................................................... 4
 1.4. Hänsyn till nationella och regionala mål .................................................................. 4
 
-2. Programmet i korthet – fokusområden för bostadsförsörjningen ............................ 5
+2\. Programmet i korthet – fokusområden för bostadsförsörjningen ............................ 5
 
-3. Riktlinjer för bostadsförsörjning ................................................................................. 6
-4. Underlag till riktlinjerna .............................................................................................. 8
+3\. Riktlinjer för bostadsförsörjning ................................................................................. 6
+4\. Underlag till riktlinjerna .............................................................................................. 8
 
 4.1. Sammanfattning av bostadsmarknadsanalysen, bilaga 1 .......................................... 8
-5. Genomförande, måluppfyllelse och uppföljning ........................................................ 9
+5\. Genomförande, måluppfyllelse och uppföljning ........................................................ 9
 
 5.1. Syfte och lagstöd ...................................................................................................... 9
 5.2. Styrning och ansvar .................................................................................................. 9
@@ -10501,13 +10501,13 @@ Innehållsförteckning
 5.5. Uppföljningsrutiner och ansvar .............................................................................. 13
 
 5.6. Koppling till översiktsplanen och kommunfullmäktigemål ................................... 14
-6. Källförteckning ............................................................................................................ 16
+6\. Källförteckning ............................................................................................................ 16
 
 Mölndals stad     Bostadsförsörjningsprogram          2
 
 <!-- sida 243 -->
 
-1. Inledning och syfte
+1\. Inledning och syfte
 
 1.1. Syfte och lagstiftning
 
@@ -10582,11 +10582,11 @@ stadsbyggnadsstrategier ligger till grund för riktlinjerna i bostadsförsörjni
 
 Stadsbyggnadsstrategierna är:
 
-1. Kommunen bidrar till en växande region
-2. Mölndal, Kållered, Lindome och Hällesåker utvecklas utifrån sina förutsättningar
+1\. Kommunen bidrar till en växande region
+2\. Mölndal, Kållered, Lindome och Hällesåker utvecklas utifrån sina förutsättningar
 och kvaliteter
-3. Kommunen främjar möjligheten till ett gott liv
-4. Kommunen värnar om de värdefulla gröna miljöerna
+3\. Kommunen främjar möjligheten till ett gott liv
+4\. Kommunen värnar om de värdefulla gröna miljöerna
 
 Översiktsplanen redogör för att kommunen bidrar till regionens bostadsförsörjning
 genom att möjliggöra en variation av bostäder på bostadsmarknaden. Översiktsplanen
@@ -10646,7 +10646,7 @@ mellan byggande och hållbara pendlingsmöjligheter. Mölndals riktlinjer om
 planberedskap för 400–500 bostäder per år, prioritering av stationsnära lägen och
 mellankommunal samverkan bidrar till att förverkliga regionens mål.
 
-2. Programmet   i korthet – fokusområden   för
+2\. Programmet   i korthet – fokusområden   för
 
 bostadsförsörjningen
 
@@ -10676,7 +10676,7 @@ och anpassas till framtidens klimat.
 
 Riktlinjerna beskrivs utförligt i kapitel 3.
 
-3. Riktlinjer för bostadsförsörjning
+3\. Riktlinjer för bostadsförsörjning
 
 Mölndals stad har tagit fram riktlinjer för bostadsförsörjningen enligt Lag (2000:1383)
 om kommunernas bostadsförsörjningsansvar. Lagstiftningen innebär att kommunen ska
@@ -10784,7 +10784,7 @@ förändrat klimat. Kommunen ska samordna klimatanpassningsarbetet med
 
 värmeböljor i nya bostadsområden.
 
-4. Underlag till riktlinjerna
+4\. Underlag till riktlinjerna
 
 Riktlinjerna för bostadsförsörjning bygger på flera olika underlag på nationell, regional
 och lokal nivå. Syftet är att säkerställa att riktlinjerna är väl förankrade i lagstiftning,
@@ -10836,19 +10836,19 @@ vuxna, nyanlända och personer med funktionsnedsättning. Dessa grupper drabbas 
 av bristen på prisvärda bostäder och långa kötider till hyresrätter.
 
 Sammantaget bedöms kommunen stå inför tre huvudutmaningar:
-1. Att säkerställa planberedskap även i svagare konjunkturer.
+1\. Att säkerställa planberedskap även i svagare konjunkturer.
 
-2. Att möjliggöra fler prisvärda och tillgängliga bostäder för hushåll i olika
+2\. Att möjliggöra fler prisvärda och tillgängliga bostäder för hushåll i olika
 livsskeden.
 
-3. Att motverka ökad boendesegregation genom blandning av upplåtelseformer och
+3\. Att motverka ökad boendesegregation genom blandning av upplåtelseformer och
 samverkan inom Göteborgsregionen.
 
 För att möta dessa utmaningar ska Mölndals stad använda sina huvudsakliga verktyg –
 markpolitik, allmännyttan och planberedskap – och samtidigt stärka den regionala
 samverkan.
 
-5. Genomförande,   måluppfyllelse  och  uppföljning
+5\. Genomförande,   måluppfyllelse  och  uppföljning
 
 5.1. Syfte och lagstöd
 
@@ -11070,7 +11070,7 @@ och personer med och inkluderande gott och aktivt
 funktionsnedsättning. boendemiljöer. liv för alla
 åldrar.
 Planberedskap och genomförande | Planeringsprinciper - Stärka Visionen betonar Mölndal som en
-- Långsiktig beredskap och Genomförande: Kommunen = | förutsättningar | innovativ del av regionen där
+\- Långsiktig beredskap och Genomförande: Kommunen = | förutsättningar | innovativ del av regionen där
 samverkan med aktörer. ska ha beredskap för na för växande | utvecklingen sker i samspel med
 bostadsförsörjning i olika näringsliv och | näringsliv och omgivning.
 konjunkturlägen. arbetsmarknad.
@@ -11085,7 +11085,7 @@ Mölndals stad Bostadsförsörjningsprogram ES
 
 <!-- sida 256 -->
 
-6. Källförteckning
+6\. Källförteckning
 
 Lag (2000:1383) om kommunernas bostadsförsörjningsansvar.
 
@@ -11354,7 +11354,7 @@ TE-2025-00049
 Yttrande från förvaltningen för Teknik – gällande Motion från Maria Losman (MP) m.fl.
 om tydligare regler i lokala ordningsföreskrifter för användandet av pyrotekniska varor
 
-- KS-2024-00826
+\- KS-2024-00826
 
 Förvaltningen för Teknik har tagit del av motionen att genom införande av tydligare regler i
 Kungsbackas lokala ordningsföreskrifter begränsa användande av pyrotekniska varor i syfte att skydda
@@ -11440,7 +11440,7 @@ Sammanfattning av ärendet
 Maria Losman (MP) och Elisabeth Sahlsten (MP) har inkommit med en motion om
 att komplettera de lokala ordningsföreskrifterna med tydligare regler för användandet
 av pyrotekniska varor. Motionen anmäldes i kommunfullmäktige den 12 december
-2024.
+2024\.
 Motionärerna menar att de regler som finns i de lokala ordningsföreskrifterna (att
 den som skjuter av fyrverkerier eller andra pyrotekniska varor ska visa största
 
@@ -11581,14 +11581,14 @@ Köpeskilling
 
 Tillträdesdag
 
-$1 Betalning av
+\$1 Betalning av
 köpeskilling
 
-$ 2 Inget villkor om
+\$ 2 Inget villkor om
 
 finansiering
 
-$ 3 Inteckningar och
+\$ 3 Inteckningar och
 pantbrev
 
 30018 MC
@@ -11667,19 +11667,19 @@ E
 
 <!-- sida 271 -->
 
-$ 4 Rättigheter och
+\$ 4 Rättigheter och
 belastningar
 
-$ 5 Fastighetens skick
+\$ 5 Fastighetens skick
 
-$6 Ansvar för skada
+\$6 Ansvar för skada
 
-$7 Äganderättens
+\$7 Äganderättens
 övergång samt
 fördelning av intäkter
 och kostnader
 
-$ 8 Myndighets beslut,
+\$ 8 Myndighets beslut,
 rådighetsinskränkning,
 anslutningsavgifter
 
@@ -11745,14 +11745,14 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 <!-- sida 272 -->
 
-$ 9 Lagfarts- och
+\$ 9 Lagfarts- och
 lånekostnader
 
-$ 10 Kontraktsbrott
+\$ 10 Kontraktsbrott
 
-$ 11 Energideklaration
+\$ 11 Energideklaration
 
-$ 12 Städning och
+\$ 12 Städning och
 kvarglömd egendom
 
 30018 MC
@@ -11785,7 +11785,7 @@ köparens kontraktsbrott ska ersättningen till säljaren även innefatta sälja
 för mäklarprovision i samband med försäljningen av fastigheten.
 
 Det är av väsentlig betydelse för säljaren att köparen betalar handpenningen i
-enlighet med vad som stadgas i $ 1. Betalar inte köparen handpenningen i rätt tid
+enlighet med vad som stadgas i \$ 1. Betalar inte köparen handpenningen i rätt tid
 har säljaren rätt att häva köpet fram till dess att handpenningen betalats i sin helhet.
 Är köparen sen med betalningen av handpenningen kan detta leda till
 skadeståndsskyldighet för köparen.
@@ -11813,17 +11813,17 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 <!-- sida 273 -->
 
-$ 13 Överlämnande av
+\$ 13 Överlämnande av
 handlingar samt nycklar
 
-$ 14 Pantförskrivning
+\$ 14 Pantförskrivning
 
-$ 15 Skriftliga
+\$ 15 Skriftliga
 meddelanden
 
-$ 16 Friskrivning
+\$ 16 Friskrivning
 
-$ 17 Kommunstyrelsens
+\$ 17 Kommunstyrelsens
 arbetsutskotts
 godkännande
 
@@ -11835,7 +11835,7 @@ Fastighetsbyrån Norra Halland AB
 Fastighetsbyrån ör ]
 
 4(5)
-Sedan köpeskilling betalats enligt de i 1 $ angivna villkoren, ska säljaren till köparen
+Sedan köpeskilling betalats enligt de i 1 \$ angivna villkoren, ska säljaren till köparen
 
 överlämna bevittnat kvitterat köpebrev avseende fastigheten och övriga handlingar
 som behövs för att köparen ska få lagfart. Säljaren ska även till köparen överlämna
@@ -12007,7 +12007,7 @@ Summastandardpoäng 28 Underbyggnad Nej
 Inskrivningsdag Aktnr Lagfart
 1994-01-14 94/1179 MANDAB AKTIEBOLAG Exekutiv försäljning: 1994-01-11
 
-1) Källa: Lantmäteriet 2025-10-22
+1\) Källa: Lantmäteriet 2025-10-22
 
 Köpeskilling: 3 900 000 SEK
 
@@ -12126,9 +12126,9 @@ I det följande kallad fastigheten
 Köpeskilling Överlåtelsen sker mot en överenskommen köpeskilling om
 ex PTREMILJONERFEMHUNDRATUSEN "295 3 500 000 kronor
 Tillträdesdag 2026-02-23, eller annat datum enligt överenskommelse
-$1 Betalning av Köparen betalar köpeskillingen till säljaren på följande sätt:
+\$1 Betalning av Köparen betalar köpeskillingen till säljaren på följande sätt:
 köpeskilling
-+ Betalar handpenning senast den 18 december 2025 350 000 kronor
+\+ Betalar handpenning senast den 18 december 2025 350 000 kronor
 
 genom insättning på fastighetsmäklarens klientmedelskonto ( bg 825-5382 ).
 Märk insättningen med nr: Bä Handpenningen ska i enlighet med
@@ -12141,7 +12141,7 @@ Total summa köpeskilling 3 500 000 kronor
 På tillträdesdagen ska likvidavräkning upprättas. Om lån som ska övertas minskat på
 grund av amortering ska kontantlikviden ökas i motsvarande mån.
 
-$ 2 Inget villkor om Parterna är medvetna om möjligheten att ta in ett villkor i köpekontraktet att detta
+\$ 2 Inget villkor om Parterna är medvetna om möjligheten att ta in ett villkor i köpekontraktet att detta
 finansiering köp kan återgå om köparen inte ordnat sin finansiering av köpet senast en viss dag,
 exempelvis genom upptagande av lån och/eller försäljning av sin nuvarande bostad.
 
@@ -12162,7 +12162,7 @@ Fastighetsbyrån
 
 3 (5)
 
-$9 Lagfarts- och Köparen ska betala alla lagfarts- och inteckningskostnader i anledning av köparens
+\$9 Lagfarts- och Köparen ska betala alla lagfarts- och inteckningskostnader i anledning av köparens
 lånekostnader förvärv. Kostnader aviserade från säljarens bank vid lösen av säljarens lån ska betalas
 av säljaren.
 
@@ -12171,7 +12171,7 @@ köpeskillingen, och i förekommande fall lösen av säljarens lån, är partern
 om att köparen ska betala denna. En sådan avgift kan bland annat bli aktuell när
 köparen inte tar några lån för att finansiera köpet.
 
-$10 Kontraktsbrott Skulle någon part inte fullgöra sina skyldigheter enligt detta kontrakt, har motparten
+\$10 Kontraktsbrott Skulle någon part inte fullgöra sina skyldigheter enligt detta kontrakt, har motparten
 rätt till skälig ersättning. Är kontraktsbrottet av väsentlig betydelse för part har
 denne dessutom rätt att häva köpet. Omedelbar hävningsrätt föreligger inte om
 köparen är privatperson och kan hänvisa till sådana extraordinära omständigheter
@@ -12185,12 +12185,12 @@ köparens kontraktsbrott ska ersättningen till säljaren även innefatta sälja
 för mäklarprovision i samband med försäljningen av fastigheten.
 
 Der är av väsentlig betydelse för säljaren att köparen betalar handpenningen i
-enlighet med vad som stadgas i $1. Betalar inte köparen handpenningen i rätt tid
+enlighet med vad som stadgas i \$1. Betalar inte köparen handpenningen i rätt tid
 har säljaren rätt att häva köpet fram till dess att handpenningen beralats i sin helhet.
 Är köparen sen med betalningen av handpenningen kan detta leda till
 skadeståndsskyldighet för köparen.
 
-$ 11 Överlämnande av — Sedan köpeskilling betalats enligt de i 1 $ angivna villkoren, ska säljaren till köparen
+\$ 11 Överlämnande av — Sedan köpeskilling betalats enligt de i 1 \$ angivna villkoren, ska säljaren till köparen
 
 handlingar överlämna bevittnat kvitterat köpebrev avseende fastigheten och övriga handlingar
 som behövs för att köparen ska få lagfart. Säljaren ska även till köparen överlämna
@@ -12198,11 +12198,11 @@ aktuellt utdrag ur fastighetsregistret, obelånade pantbrev, gällande tomtkarta
 sådan finns och andra handlingar rörande fastigheten, vilka är av betydelse för
 köparen som ägare av denna.
 
-$12 Pantförskrivning — Om det krävs för köparens finansiering av köpet, förbinder sig säljaren att på
+\$12 Pantförskrivning — Om det krävs för köparens finansiering av köpet, förbinder sig säljaren att på
 köparens bekostnad ansöka om nya inteckningar och hjälpa till vid köparens
 pantförskrivning av pantbrev avseende fastigheten innan köparen beviljats lagfart.
 
-$13 Skriftliga Skriftliga meddelanden med anledning av detta kontrakt ska ske genom e-post till
+\$13 Skriftliga Skriftliga meddelanden med anledning av detta kontrakt ska ske genom e-post till
 meddelanden den adress som angetts för motparten på kontraktets första sida samt med
 kännedomskopia till ansvarig mäklare.
 
@@ -12411,7 +12411,7 @@ anmäler detta så snart som möjligt till säljaren eller Anticimex. Du har då
 Anticimex ska kunna göra en korrekt bedömning av ditt krav måste du beskriva felet så utförligt som möjligt i din
 skadeanmälan. Om du kan så ange även ditt ersättningskrav i kronor. Har du som köpare anmält ett fel direkt till Anticimex och
 säljaren köpt Fastighetsbyråns besiktigadpaket, anses anmälan vara ett meddelande om fel (reklamation) till säljaren och
-reklamationen anses då avsänts på det sätt som jordabalken föreskriver enligt 4 kap 19 a $ jordabalken. Notera act en köpare inte
+reklamationen anses då avsänts på det sätt som jordabalken föreskriver enligt 4 kap 19 a \$ jordabalken. Notera act en köpare inte
 befrias från sin undersökningsplikt även om säljaren köpt Fastighetsbyråns besiktigadpaket. Skadeanmälan gör du på
 www.anticimexforsakringar.se Vid frågor om skadeanmälan eller försäkringen når du Anticimex på
 skadorQanticimexforsakringar.se eller tel 020-170 90 90. Reklamation av själva besiktningen görs till det företag som utfört
@@ -12557,7 +12557,7 @@ Kommundirektör                              Samhällsbyggnadschef
 
 <!-- sida 293 -->
 
-16)
+16\)
 
 Avtal om Anläggningsarrende
 
@@ -12647,13 +12647,13 @@ Förtida tillträde har gjorts
 
 3.4
 
-26)
+26\)
 
 Bakgrund och syfte
 
 Åsagrillen har haft ett anläggningsarrende för en gatukiosk sedan 2010. Eftersom det tidigare
 beviljade tidsbegränsade bygglovet löpt ut så har verksamhetsutövaren ansökt och fått beviljat
-permanent bygglov för nybyggnad av en gatukiosk, BN $ D 2025-1259, 2025-06-02.
+permanent bygglov för nybyggnad av en gatukiosk, BN \$ D 2025-1259, 2025-06-02.
 
 Överenskommelse om att tidigare arrendeavtal ska upphöra tecknas separat.
 
@@ -12708,7 +12708,7 @@ sige SE Å | I
 LJ + 12 pp SD - 4 4å L
 a | | |
 an I | I
-- > I | |
+\- > I | |
 || 1 || |
 | I | | I q |
 | I HH - SÅ - i
@@ -12725,13 +12725,13 @@ NY KORV- OCH GLASSKIOSK Å |
 22 Parkeringsplatsen, A - 49 | |
 Å jJ | I
 Gamla kiosken rives | ]
-— —<$:149 d |
+— —<\$:149 d |
 t- RR
 NN TÅ” [TTT SE |
 ww SS —— a j. i ” + 44
 ( — | | | | |
 
-Karta tillhörande beviljat bygglov, BN $ D 2025-1259,2025-06-02
+Karta tillhörande beviljat bygglov, BN \$ D 2025-1259,2025-06-02
 
 3:5 Dagvatten
 
@@ -12822,14 +12822,14 @@ på arrendatorns bekostnad och utan dennes hörande vidta för detta nödvändig
 
 Indirekt besittningsskydd
 
-Detta avtal är inte förenat med något besittningsskydd. Bestämmelserna i 11 kap. 5-6a $$
+Detta avtal är inte förenat med något besittningsskydd. Bestämmelserna i 11 kap. 5-6a \$\$
 jordabalken om rätt till ersättning för arrendatorn med anledning av arrendets upphörande
 
 gäller alltså inte för detta avtal.
 Konkurs
 
 Detta avtal är inte förenat med ersättning för arrenderättens värde enligt bestämmelserna i 8
-kap. 18 $ jordabalken om arrendatorn försätts i konkurs.
+kap. 18 \$ jordabalken om arrendatorn försätts i konkurs.
 
 Särskilda arrendevillkor
 
@@ -12850,9 +12850,9 @@ post- och fakturaadress under avtalstiden.
 4.3 Avtalets giltighet
 
 För detta arrendeavtal och samtliga villkors giltighet krävs:
-1. Undertecknat av arrendatorn behörig firmatecknare.
-2. Kommunstyrelsens arbetsutskotts godkännande.
-3. Arrendenämndens godkännande av punkt 4.1 Jordägarens rätt att återta arrendestället.
+1\. Undertecknat av arrendatorn behörig firmatecknare.
+2\. Kommunstyrelsens arbetsutskotts godkännande.
+3\. Arrendenämndens godkännande av punkt 4.1 Jordägarens rätt att återta arrendestället.
 
 Detta avtal är upprättat i två (2) exemplar varav parterna tagit var sitt.
 
@@ -13093,17 +13093,17 @@ https://infogram.com/1p2x1pw3zmjyn3b09e9vk7r9l3frkxrelj7
 
 Därför vill vi att kommunen utreder:
 
-- Hur stor energiproduktion vi behöver i vår kommun 2030 respektive 2045.
+\- Hur stor energiproduktion vi behöver i vår kommun 2030 respektive 2045.
 
-- Hur stora solenergins möjligheter är att täcka energibehovet 2030 respektive
-2045.
+\- Hur stora solenergins möjligheter är att täcka energibehovet 2030 respektive
+2045\.
 
-- Hur solenergin kan lagras för att täcka behovet året runt.
+\- Hur solenergin kan lagras för att täcka behovet året runt.
 
-- Vilka möjligheter det finns att kombinera solenergiproduktion med annan
+\- Vilka möjligheter det finns att kombinera solenergiproduktion med annan
 verksamhet.
 
-- Hur vi, i vår kommun, kan använda mer yta för solenergiproduktion.
+\- Hur vi, i vår kommun, kan använda mer yta för solenergiproduktion.
 
 <!-- sida 304 -->
 

@@ -795,7 +795,7 @@ teknikerinsats. Även restid och inställelsetid debiteras med samma timpris.
 
 \* Pris angivet inklusive moms.
 
-\________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun             Bredbandstaxa 2024                9 (9)
 
@@ -2217,7 +2217,7 @@ I samband med att detta avtal undertecknas upphör ”Avtal om sammankoppling av
 vattenledningsnäten i Mölndals stad och Kungsbacka kommun” (Mölndal: 2014-03-03,
 TEN 946/09; Kungsbacka Handlingsnr 2014:245), att gälla.
 
-\_________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal har upprättats i två exemplar, varav parterna har tagit var sitt.
 
@@ -2225,12 +2225,12 @@ Mölndal 2024- \_\_\_\_\_\_        Kungsbacka 2024- \_\_\_\_\_\_
 
 Mölndals stad               Kungsbacka kommun
 
-\________________________________ ________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Göran Isacsson              Monica Neptun
 Ordförande Tekniska nämnden Ordförande Nämnden för Teknik
 
-\________________________________ ________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Elin Rosenberg Elebring     Ulrika Granfors
 Teknisk chef                Teknisk chef

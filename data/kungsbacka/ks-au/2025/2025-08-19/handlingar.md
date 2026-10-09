@@ -428,7 +428,7 @@ Kommunfullmäktiges sammanträden
 Förslag till beslut:
 Vi föreslår att kommunfullmäktige beslutar:
 
-- Att ändra arbetsordningen för kommunfullmäktige så att ersättare som inte tjänstgör ges
+\- Att ändra arbetsordningen för kommunfullmäktige så att ersättare som inte tjänstgör ges
 rätt att delta i överläggningarna vid fullmäktiges sammanträden men inte i beslutet.
 
 Motivering:
@@ -1384,12 +1384,12 @@ p) att stiftelsen anlägger en barnaktivitetsyta mellan Manegen och berget i ös
 
 q) underhåll av ledningar inkl. ledningsgator under förutsättning att:
 
-- inget material tillförs området som kan innehålla för området främmande arter eller
+\- inget material tillförs området som kan innehålla för området främmande arter eller
 förorenande ämnen,
-- framkomlighet på stigar inte har försämrats när arbetet har avslutats,
-- all ved lämnas inom reservatet men ska tas bort från stigar och betesmarker,
+\- framkomlighet på stigar inte har försämrats när arbetet har avslutats,
+\- all ved lämnas inom reservatet men ska tas bort från stigar och betesmarker,
 
-- hänsyn tas till betesdjur, stängsel och friluftsanordningar.
+\- hänsyn tas till betesdjur, stängsel och friluftsanordningar.
 
 <!-- sida 33 -->
 
@@ -1417,12 +1417,12 @@ B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6
 
 ägare och innehavare av särskild rätt till fastigheten att tåla åtgärder inom området
 enligt följande:
-1. utmärkning av naturreservatets gräns enligt Naturvårdsverkets anvisningar,
+1\. utmärkning av naturreservatets gräns enligt Naturvårdsverkets anvisningar,
 
-2. anläggning och underhåll av friluftslivsanordningar, exempelvis parkeringsplats,
+2\. anläggning och underhåll av friluftslivsanordningar, exempelvis parkeringsplats,
 toaletter, markerade stigar och informationsskyltar,
 
-3. naturvårdande trädmarksskötsel:
+3\. naturvårdande trädmarksskötsel:
 a. omställning av åkermark (områden med rött rutmönster i karta 1) och
 produktionsskog med låga biologiska värden till ädellövskog och
 
@@ -1435,7 +1435,7 @@ bevara naturtypen ekskog och för att gynna hotade och skyddsvärda arter i
 c. uppläggning av död ved i faunadepåer, samt anläggning av mulmholkar,
 ekoxekomposter och liknande konstruktioner.
 
-d. ringbarkning, skapande av högstubbar och lågor samt veteranisering* av träd.
+d. ringbarkning, skapande av högstubbar och lågor samt veteranisering\* av träd.
 
 e. hamling och stubbskottsbruk.
 f. röjning i bryn.
@@ -1443,23 +1443,23 @@ f. röjning i bryn.
 g. sådd/plantering av buskar och träd som gynnar de naturtyper som prioriteras i
 reservatets syfte.
 
-4. betesdrift i skog, hagmarker, strandängar och övriga gräsmarker. Dessa marker
+4\. betesdrift i skog, hagmarker, strandängar och övriga gräsmarker. Dessa marker
 kan också skötas med slåtter, grovslåtter, röjning och vårbränning i de fall det
 gynnar naturtyperna. Förvaltaren får också lägga upp organiskt material från
 slåtter och röjning i högar.
 
-5. anläggning av ogödslade slåtterängar, naturbetesmarker, trädor samt andra typer
+5\. anläggning av ogödslade slåtterängar, naturbetesmarker, trädor samt andra typer
 av öppna gräsmarker som gynnar pollinatörer och biologisk mångfald.
 
-6. jakt på grågås, kanadagås, vitkindad gås, kråka, skata, kaja, korp, havstrut, trana,
+6\. jakt på grågås, kanadagås, vitkindad gås, kråka, skata, kaja, korp, havstrut, trana,
 grävling, mink, iller, räv, vildsvin och mård samt bekämpning av främmande
 arter i syfte att gynna inom reservatet prioriterade naturtyper och arter, till
 exempel strandängsfåglar,
 
-7. utsättning av hotade arter där utsättningar krävs för att stärka artens möjlighet till
+7\. utsättning av hotade arter där utsättningar krävs för att stärka artens möjlighet till
 långsiktig överlevnad i länet,
 
-8. undersökningar och dokumentation av friluftsliv, kulturlämningar, mark, vatten
+8\. undersökningar och dokumentation av friluftsliv, kulturlämningar, mark, vatten
 
 <!-- sida 36 -->
 
@@ -1469,15 +1469,15 @@ LÄNSSTYRELSEN          Förslag till beslut         10 (21)
 
 samt växt-, svamp- och djurliv,
 
-9. vård av kulturlämningar och kulturmiljöer i enlighet med reservatets syfte samt
+9\. vård av kulturlämningar och kulturmiljöer i enlighet med reservatets syfte samt
 
-10. rensning av befintliga dammar.
-11. hydrologiska återställningsåtgärder som t.ex. igenläggning av diken och
+10\. rensning av befintliga dammar.
+11\. hydrologiska återställningsåtgärder som t.ex. igenläggning av diken och
 
 borttagande av anlagd damm för hästtävling vid Fasankullen
-12. markstörning och skapande av sandblottor i betesmarker öster om halvön.
+12\. markstörning och skapande av sandblottor i betesmarker öster om halvön.
 
-*Veteranisering: mekanisk åverkan eller bearbetning på träd för att påskynda åldrande och skapande
+\*Veteranisering: mekanisk åverkan eller bearbetning på träd för att påskynda åldrande och skapande
 av sådana trädstrukturer som främst uppträder på gamla träd.
 
 C. Ordningsföreskrifter om rätten att färdas och vistas inom naturreservat samt om
@@ -1733,7 +1733,7 @@ godset på halvön uppfördes på 1200-talet. Nuvarande slott uppfördes under �
 1898-1904 och anses vara en av Nordens finaste Arts & Crafts-anläggningar.
 Slottet ritades av arkitekten Lars Israel Wahlman som var en företrädare för Arts
 & Crafts i Sverige och som deltog i en arkitekttävling utlyst av makarna Dickson
-1897. Wahlman ritade också parken, grindstugan och arbetarbyn. Tjolöholm var
+1897\. Wahlman ritade också parken, grindstugan och arbetarbyn. Tjolöholm var
 ett av de sista slotten som byggdes i Sverige.
 
 Tjolöholmsegendomen köptes 1892 av makarna James Fredrik och Blanche
@@ -2032,9 +2032,9 @@ utplacerade. Kartan finns längst bak i skötselplanen, kapitel 7.9.
 
 INNEHÅLLSFÖRTECKNING
 
-1. SYFTE MED NATURRESERVATET ................................................................................................... 3
+1\. SYFTE MED NATURRESERVATET ................................................................................................... 3
 
-2. BESKRIVNING AV OMRÅDET ......................................................................................................... 5
+2\. BESKRIVNING AV OMRÅDET ......................................................................................................... 5
 
 2.1 Markslag, naturtyper och arter ...................................................................................................... 5
 2.2 Historisk och nuvarande markanvändning samt naturförhållanden ............................................. 8
@@ -2042,17 +2042,17 @@ INNEHÅLLSFÖRTECKNING
 
 2.4 Referenser .................................................................................................................................... 19
 
-3. SKÖTSEL AV OMRÅDET ............................................................................................................... 20
+3\. SKÖTSEL AV OMRÅDET ............................................................................................................... 20
 3.1. Generella riktlinjer ....................................................................................................................... 20
 3.2 Skötselområden............................................................................................................................ 32
 
-4. FRILUFTSLIV OCH TURISM ........................................................................................................... 59
+4\. FRILUFTSLIV OCH TURISM ........................................................................................................... 59
 
-5. TILLSYN, DOKUMENTATION OCH UPPFÖLJNING ......................................................................... 61
+5\. TILLSYN, DOKUMENTATION OCH UPPFÖLJNING ......................................................................... 61
 
-6. SAMMANFATTNING OCH PRIORITERING AV PLANERADE SKÖTSELÅTGÄRDER ........................... 61
+6\. SAMMANFATTNING OCH PRIORITERING AV PLANERADE SKÖTSELÅTGÄRDER ........................... 61
 
-7. KARTOR ...................................................................................................................................... 66
+7\. KARTOR ...................................................................................................................................... 66
 
 <!-- sida 52 -->
 
@@ -2062,7 +2062,7 @@ Skötselplan  för naturreservatet  Tjolöholm  i
 
 Kungsbacka    kommun
 
-1. SYFTE MED NATURRESERVATET
+1\. SYFTE MED NATURRESERVATET
 Det övergripande syftet med reservatet är att bevara den biologiska mångfald som
 är knuten till områdets äldre, artrika ädellövskogar, hällmarker, trädklädda
 
@@ -2126,7 +2126,7 @@ reservatet.
 
 5 (78)
 
-2. BESKRIVNING  AV OMRÅDET
+2\. BESKRIVNING  AV OMRÅDET
 
 2.1 Markslag, naturtyper och arter
 
@@ -2136,7 +2136,7 @@ Kvalitetsförbättringar i indelningen har dock gjorts genom fältobservationer.
 
 Tabell 1. Arealen av olika naturtyper enligt marktäckedata.
 
-* Summan för den totala arealen i denna tabell anger ett högre värde än det korrekta
+\* Summan för den totala arealen i denna tabell anger ett högre värde än det korrekta
 värdet på 445,4 hektar som anges i beslutet. Detta är en artefakt som uppstår när
 GIS-programvaran beräknar arealen av de olika delområdena med naturtyper inom
 de 445,4 hektaren. Tabellen ovan samt diagrammen nedan ger detta till trots en god
@@ -2161,7 +2161,7 @@ bild av fördelningen av olika naturtyper.
 | Hav | Saknar värde | Saknar värde | 0,12 |
 | Totalt skogsmark | Saknar värde | Saknar värde | 248 |
 | Totalt produktiv skogsmark | Saknar värde | Saknar värde | 248 |
-| Totalt all mark | Saknar värde | Saknar värde | 448* |
+| Totalt all mark | Saknar värde | Saknar värde | 448\* |
 
 <!-- sida 55 -->
 
@@ -2780,7 +2780,7 @@ Utsikts- och rastplats i Storeskog.
 
 20 (78)
 
-3. SKÖTSEL AV OMRÅDET
+3\. SKÖTSEL AV OMRÅDET
 
 3.1. Generella riktlinjer
 
@@ -2797,7 +2797,7 @@ skötselmetoder beskrivs.
 Tjolöholm omnämns redan i Kung Valdemars jordebok från 1200-talets förra del
 och var sannolikt någon form av sätesgård redan under medeltid. Kartgenomgångar
 från 1600-talet och framåt, samt kulturhistoriska inventeringar (Connelid 2017;
-2021) har dock påvisat att merparten av de kulturhistoriska spår som finns bevarade i
+2021\) har dock påvisat att merparten av de kulturhistoriska spår som finns bevarade i
 Tjolöholms landskap formades kring förra sekelskiftet, sannolikt genom paret
 Dicksons försorg. En stor del av det biologiska kulturarvet i form av slåtterängar,
 beskurna träd och betesmarker kan dock ha betydligt äldre rötter och har sannolikt
@@ -2809,21 +2809,21 @@ Ett viktigt övergripande mål är att utveckla, tillgängliggöra och informera
 stora landskapshistoriska och tillika mycket höga biologiska värdena på Tjolöholm.
 För att nå dit krävs:
 
-- att skötselplanen och förvaltningen hämtar inspiration från det godslandskap som
+\- att skötselplanen och förvaltningen hämtar inspiration från det godslandskap som
 präglade Tjolöholm för lite drygt hundra år sedan, med bland annat olika typer av
 betade ekhagmarker och ädellövskogar, det vill säga det landskap som har
 genererat de höga biologiska värden som karaktäriserar denna kulturmiljö idag.
 Återskapande av en naturliknande parkmiljö kring byggnadsminnet och längs
 många av de stensatta stigarna.
 
-- skötselåtgärder för att värna och utveckla strövvänliga kustnära ädellövskogar
+\- skötselåtgärder för att värna och utveckla strövvänliga kustnära ädellövskogar
 och strandängar med höga biologiska värden.
 
-- att även andra kulturhistoriska miljöer med hög biologisk mångfald som också
+\- att även andra kulturhistoriska miljöer med hög biologisk mångfald som också
 berättar om landskapets historia och utveckling lyfts fram, till exempel
 Kvarntorpet, fiskdammarna, bytomten och Strand.
 
-- att utveckla ett rikt besöksmål för friluftslivet och turismen, där besökaren ska
+\- att utveckla ett rikt besöksmål för friluftslivet och turismen, där besökaren ska
 kunna uppleva en röd tråd mellan slottet, trädgårdarna och omkringliggande
 landskap. Vandringsleder och övriga faciliteter för friluftslivet ska hålla god
 
@@ -2844,15 +2844,15 @@ miljöer.
 3.1.3.1 Skogens målbild
 För att de höga, skogsanknutna naturvärden som beskrivits i kapitel 2.3.1.1 ska
 bevaras och utvecklas krävs att skogarna utvecklas i nedanstående riktning.
-- skogarna är ljusöppna så att gammelekar och deras efterträdare får tillräckligt med
+\- skogarna är ljusöppna så att gammelekar och deras efterträdare får tillräckligt med
 ljus för att breda ut sina kronor och bli så gamla som möjligt. Även andra ädellövträd
 samt tallar ska ges förutsättningar att bli gamla.
-- det finns gott om död ved i olika dimensioner och nedbrytningsstadier.
-- det finns gott om nektargivande, insektsskyltande växter i skogen, i synnerhet i
+\- det finns gott om död ved i olika dimensioner och nedbrytningsstadier.
+\- det finns gott om nektargivande, insektsskyltande växter i skogen, i synnerhet i
 brynen.
-- diken har som högst en försumbar påverkan på skogarnas hydrologi.
-- andelen ekdominerad ädellövskog ökar.
-- inslaget av olika arter av ädellövträd bevaras.
+\- diken har som högst en försumbar påverkan på skogarnas hydrologi.
+\- andelen ekdominerad ädellövskog ökar.
+\- inslaget av olika arter av ädellövträd bevaras.
 
 3.1.3.2 Vilka trädarter som ska gynnas i ädellövbestånden
 Generellt sett är det eken som är det viktigaste trädet för den biologiska
@@ -3252,16 +3252,16 @@ döda träden är redan utförd. I detta område ska mängden död ved vara lite
 Mängden död ved bör också begränsas vid gården Strands inägor.
 
 Generellt gäller för hantering av död ved på Tjolöholm:
-- ingen ved av lövträd eller tall får föras ut från reservatet, utan den ska lämnas så att
+\- ingen ved av lövträd eller tall får föras ut från reservatet, utan den ska lämnas så att
 mängden stående och liggande död och döende ved ökar.
-- om den döda veden behöver flyttas till annan plats i reservatet på grund av hänsyn
+\- om den döda veden behöver flyttas till annan plats i reservatet på grund av hänsyn
 
 till kulturmiljöer ska den inte flyttas längre än vad som krävs för att uppnå syftet med
 flytten.
-- den döda veden ska flyttas till skogsområden som påminner om skogsområdet som
+\- den döda veden ska flyttas till skogsområden som påminner om skogsområdet som
 den flyttades ifrån och som i beståndet innehåller det trädslag som den döda veden
 utgörs av. T.ex. ska död ved av ask inte flyttas till ett bestånd som saknar ask.
-- stiftelsen Tjolöholm har när förvaltaren genomför röjning/fällning av träd möjlighet
+\- stiftelsen Tjolöholm har när förvaltaren genomför röjning/fällning av träd möjlighet
 
 att tillgodogöra sig en liten del virke för husbehovssnickerier.
 
@@ -3290,14 +3290,14 @@ reservatsförvaltaren och stiftelsen, och skötseln ska ske med vägledning frå
 skötselplan samt vårdprogrammet för byggnadsminnet. Nedan följer en lista med
 exempel på sådana lämningar som behöver vårdas och i vissa fall restaureras.
 
-- stensatta stigar och trappor
-- murar
-- husgrunder, torpmiljöer, brunnar och jordkällare
-- gravar
-- vägar, t.ex. hålvägen vid Storeskog och den äldre vägen mellan slottet och
+\- stensatta stigar och trappor
+\- murar
+\- husgrunder, torpmiljöer, brunnar och jordkällare
+\- gravar
+\- vägar, t.ex. hålvägen vid Storeskog och den äldre vägen mellan slottet och
 
 grindstugan som nyligen restaurerats
-- dammar
+\- dammar
 
 De stensatta stigarna är på vissa ställen övertorvade, trasiga eller fläkta av trädens
 rotben, och behöver då restaureras. Stenmurar kan delvis ha rasat och därmed behöva
@@ -3427,15 +3427,15 @@ skötselområdet ska kunna upplevas.
 • Röjning (inklusive fällning av träd) är en viktig skötselåtgärd i skötselområdet.
 
 Röjning ska ske i syfte att:
-- friställa och gynna gamla ädellövträd, tallar och deras efterträdare
-- gynna nektarrika, insektsskyltande träd och buskar
-- gynna solinstrålning och blomrikedom i bryn samt för att skapa ljusluckor i
+\- friställa och gynna gamla ädellövträd, tallar och deras efterträdare
+\- gynna nektarrika, insektsskyltande träd och buskar
+\- gynna solinstrålning och blomrikedom i bryn samt för att skapa ljusluckor i
 bestånden
-- säkerställa framkomligheten på stigar
-- för att behålla och skapa vyer vid utsiktsplatsen
+\- säkerställa framkomligheten på stigar
+\- för att behålla och skapa vyer vid utsiktsplatsen
 
-- för att skapa insyn från asfaltsvägen mot kyrkan
-- för att få bort vedvegetation från stensatta stigar och trappor
+\- för att skapa insyn från asfaltsvägen mot kyrkan
+\- för att få bort vedvegetation från stensatta stigar och trappor
 • Öster om Janusstatyn bör ytan öppnas upp något genom borttagande av ett urval
 träd och andra vedväxter. Inga äldre ekar ska dock tas ned. Åtgärden sker via
 samråd mellan reservatsförvaltaren, Länsstyrelsens kulturmiljöfunktion och
@@ -3605,13 +3605,13 @@ och hotas ej av igenväxning.
 Åtgärder:
 • Röjning (inklusive fällning av träd) är en viktig skötselåtgärd i skötselområdet.
 Röjning ska ske i syfte att:
-- friställa och gynna gamla ädellövträd och deras efterträdare
-- gynna nektarrika, insektsskyltande träd och buskar
+\- friställa och gynna gamla ädellövträd och deras efterträdare
+\- gynna nektarrika, insektsskyltande träd och buskar
 
-- gynna solinstrålning och blomrikedom i bryn samt för att skapa ljusluckor i
+\- gynna solinstrålning och blomrikedom i bryn samt för att skapa ljusluckor i
 bestånden
-- säkerställa framkomligheten på stigar
-- för att få bort vedvegetation från stensatta stigar och trappor
+\- säkerställa framkomligheten på stigar
+\- för att få bort vedvegetation från stensatta stigar och trappor
 • Om möjligt bete.
 • Fällning av ung-medelålders, planterad bok i brynen. Placering av den döda
 veden sker med vägledning av de generella riktlinjerna (kapitel 3.1).
@@ -3654,14 +3654,14 @@ lämpliga ställen som en del av ledsystemet. Stenmurarna framträder i terräng
 Åtgärder:
 • Röjning (inklusive fällning av träd) är en viktig skötselåtgärd i skötselområdet.
 Röjning ska ske i syfte att:
-- friställa och gynna gamla ädellövträd och deras efterträdare
-- öka ädellövinslaget i bestånden
-- gynna nektarrika, insektsskyltande träd och buskar
+\- friställa och gynna gamla ädellövträd och deras efterträdare
+\- öka ädellövinslaget i bestånden
+\- gynna nektarrika, insektsskyltande träd och buskar
 
-- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
+\- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
 ljusluckor i bestånden
-- säkerställa framkomligheten på stigar.
-- för att få bort vedvegetation från stensatta stigar, trappor och murar.
+\- säkerställa framkomligheten på stigar.
+\- för att få bort vedvegetation från stensatta stigar, trappor och murar.
 • Om möjligt bete.
 • Skogen öppnas upp på den tidigare slåtterytan genom att medelålders träd av
 
@@ -3867,20 +3867,20 @@ vid de mest frekventerade friluftsstråken.
 • Röjning (inklusive fällning av träd) är en viktig skötselåtgärd i skötselområdet.
 Röjning ska ske i syfte att:
 
-- friställa och gynna gamla ädellövträd och deras efterträdare
-- öka ädellövinslaget i bestånden
-- gynna nektarrika, insektsskyltande träd och buskar
-- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
+\- friställa och gynna gamla ädellövträd och deras efterträdare
+\- öka ädellövinslaget i bestånden
+\- gynna nektarrika, insektsskyltande träd och buskar
+\- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
 ljusluckor i bestånden
-- säkerställa framkomligheten på stigar.
+\- säkerställa framkomligheten på stigar.
 
-- bevara och utveckla ljunghedsfragment samt för att gynna
+\- bevara och utveckla ljunghedsfragment samt för att gynna
 utsiktsmöjligheterna – något som kan kombineras. Se karta med föreslagna
 platser för utveckling av ljunghed och hällmarkstorräng nedan. Vid Hällenabb
 skapas ett lite större ljunghedsområde.
-- öppna upp sikten från stigen ut mot havet i avdelningarna 6, 22, 23 och 50.
-- decimera enbuskar på havsklippor i söder.
-- för att få bort vedvegetation från stensatta stigar, trappor, murar, hålväg, grav
+\- öppna upp sikten från stigen ut mot havet i avdelningarna 6, 22, 23 och 50.
+\- decimera enbuskar på havsklippor i söder.
+\- för att få bort vedvegetation från stensatta stigar, trappor, murar, hålväg, grav
 
 och husgrund.
 • Eventuellt plantering av nektarrika, insektsskyltande träd och buskar som t.ex.
@@ -3898,7 +3898,7 @@ intressanta stamformationer och göra bestånden mer ljusöppna och heterogena.
 46 (78)
 
 Platser som märkts med
-asterisk (*) är lämpliga att
+asterisk (\*) är lämpliga att
 utveckla ljunghed och
 hällmarkstorräng på.
 Detta sker främst genom
@@ -3993,15 +3993,15 @@ sportkörning med häst är borttaget och endast en naturligt gestaltad damm åt
 Åtgärder:
 • Röjning (inklusive fällning av träd) är en viktig skötselåtgärd i skötselområdet.
 Röjning ska ske i syfte att:
-- friställa och gynna gamla ädellövträd och deras efterträdare. Det är mycket
+\- friställa och gynna gamla ädellövträd och deras efterträdare. Det är mycket
 angeläget att komma igång med röjningen av enbuskar i de höglänta delarna
 samt röjningen av unga lövträd i de östra ekhagmarkerna.
 
-- gynna nektarrika, insektsskyltande träd och buskar
-- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
+\- gynna nektarrika, insektsskyltande träd och buskar
+\- gynna solinstrålning, död ved och blomrikedom i bryn samt för att skapa
 ljusluckor i bestånden
-- för att få bort vedvegetation från stensatta stigar och trappor
-- för att skapa utsikt åt nordväst från den dös-liknande formationen i avdelning
+\- för att få bort vedvegetation från stensatta stigar och trappor
+\- för att skapa utsikt åt nordväst från den dös-liknande formationen i avdelning
 106
 
 • Om möjligt bete i hela området. Viktigast är att få till bete i de delar som har
@@ -4139,7 +4139,7 @@ som är högst prioriterade att få betesdjur till.
 lövskogar.
 
 Vid omställning till skog:
-- Selektiv röjning för att gynna föryngringen av ek och andra ädellövträd samt
+\- Selektiv röjning för att gynna föryngringen av ek och andra ädellövträd samt
 insektsskyltande, nektargivande träd och buskar som apel/vildapel, rönn, lind,
 hagtorn, slån, hägg och körsbär. Plantering av ovan nämnda arter samt
 
@@ -4147,15 +4147,15 @@ användande av hägn är lämpligt. Kvarstående solitära lövträd och tallar 
 hyggena gynnas i föryngringen.
 
 Vid omställning till öppna gräs- och ljunghedar av utmarkskaraktär:
-- Prioritering av bete på dessa ytor (läs mer i kapitel 3.1.3.3).
-- Röjning av uppväxande lövsly, hallon etc. i syfte att på sikt skapa en
+\- Prioritering av bete på dessa ytor (läs mer i kapitel 3.1.3.3).
+\- Röjning av uppväxande lövsly, hallon etc. i syfte att på sikt skapa en
 hävdgynnad hedvegetation. Kvarstående solitära lövträd och tallar på hyggena
 sparas liksom insektsskyltande, nektargivande buskar. Dessa arter kan också
 selektivt gynnas vid röjning eller planteras. Målbilden är öppna hedar med inslag
 av solitära träd och buskar.
-- Brandhävd är lämplig att använda, antingen i kombination med bete eller genom
+\- Brandhävd är lämplig att använda, antingen i kombination med bete eller genom
 att vissa ytor stängslas bort för att endast skötas med brand.
-- Markstörning för att skapa bar sand och jord.
+\- Markstörning för att skapa bar sand och jord.
 
 • Friställning av solitära ekar, andra ädellövträd och tallar, samt röjning/fällning för
 
@@ -4252,7 +4252,7 @@ bebyggelselämningarna och den tidigare odlade markens konturer.
 
 En mindre del nuvarande åkermark, mellan det mittersta och det östligaste
 gårdsläget, ingår också i skötselområdet. Denna del ställs om till betesmark efter
-2030.
+2030\.
 
 Mål: Betesmark med gamla hagmarksträd, hamlade träd, blommande buskar och
 blomrika bryn. Floran är hävdgynnad och karakteristisk för naturbetesmarker. Spåren
@@ -4330,7 +4330,7 @@ brukningsmetoder inom skötselområdet.
 
 59 (78)
 
-4. FRILUFTSLIV OCH  TURISM
+4\. FRILUFTSLIV OCH  TURISM
 
 Beskrivning
 Friluftslivet på Tjolöholm har beskrivits i kapitel 2.3.4.
@@ -4378,7 +4378,7 @@ denna kan naturlekplatserna anläggas om Länsstyrelsen först meddelat tillstå
 till detta.
 
 • Anläggande av nya vandringsleder enligt nedanstående:
-- Mellan Hällenabb och Strands västra gårdsläge bör en ny led på sikt anläggas så
+\- Mellan Hällenabb och Strands västra gårdsläge bör en ny led på sikt anläggas så
 att reservatets besökare kan vandra utmed halvöns norra strand. Denna sträcka är
 
 intressant ur ett besökarperspektiv då den passerar förbi strandängar, fossil
@@ -4390,7 +4390,7 @@ intressant ur ett besökarperspektiv då den passerar förbi strandängar, fossi
 åkermark, ekhagmarker, den dösliknande formationen på Fasankullen, stensatta
 stigar och till sist Strands västra gårdsläge.
 
-- Stigsystemet bör också utvecklas från Jägarparkeringen, som förhoppningsvis
+\- Stigsystemet bör också utvecklas från Jägarparkeringen, som förhoppningsvis
 kan bli en mer attraktiv angöringspunkt till ledsystemet i framtiden. Den andra
 kartan i kapitel 7.8 visar översiktligt hur nya leder bör dras. Sträckan från
 Jägarparkeringen till den östra av de tre planerade övernattningsplatserna bör
@@ -4406,13 +4406,13 @@ Vindskyddet och grillplatsen ligger vackert intill Hålldammet vid Stuteribergen
 
 61 (78)
 
-5. TILLSYN, DOKUMENTATION    OCH  UPPFÖLJNING
+5\. TILLSYN, DOKUMENTATION    OCH  UPPFÖLJNING
 
 Länsstyrelsen ansvarar för att uppföljning av bevarandemål genomförs.
 Uppföljningen ska ske enligt de manualer för skyddade områden som har tagits fram
 av Naturvårdsverket. Länsstyrelsen ansvarar för regelbunden tillsyn av reservatet.
 
-6. SAMMANFATTNING    OCH  PRIORITERING   AV
+6\. SAMMANFATTNING    OCH  PRIORITERING   AV
 PLANERADE   SKÖTSELÅTGÄRDER
 
 Kolumnen Prioritet anger hur reservatsförvaltaren prioriterar åtgärderna inom
@@ -4484,7 +4484,7 @@ Plantering av träd Inom 10 år Sk.omr. 11 2    Vårdanslaget
 och buskar på          (avd. 176, 181,
 granhyggen             185, 186, 189,
 205, 207, 215,
-218)
+218\)
 Stängsling och Inom 5 år Alla utom 4 Prio 1.  Vårdanslaget eller
 betesdrift             och 8       Högst      EU:s Life-fond
 prioritet i
@@ -4497,7 +4497,7 @@ Röjning av träd och Inom 10 år Sk.omr. 11 2   Vårdanslaget eller
 buskar på öppna        (avd. 176, 181,        EU:s Life-fond
 hedytor                185, 186, 189,
 205, 207, 215,
-218)
+218\)
 Sk.omr. 7 (avd.
 2, 3, 42, 79)
 
@@ -4505,7 +4505,7 @@ Naturvårdsbränning Inom 15 år Sk.omr. 11 3    Vårdanslaget eller
 (avd. 176, 181,        EU:s Life-fond
 185, 186, 189,
 205, 207, 215,
-218)
+218\)
 Sk.omr. 7 (avd.
 2, 3)
 Betesputsning  Vid behov 7, 9, 10, 13. På 3   Vårdanslaget
@@ -4517,9 +4517,9 @@ Ruddammen)             kulturmiljö-
 Sk.omr. 7 (avd. Prio 3 för funktion eller
 32, 51)     övriga     stiftelsen
 Sk.omr. 5 (avd.
-118)
+118\)
 Sk.omr 9 (avd.
-116)
+116\)
 
 <!-- sida 113 -->
 
@@ -4554,7 +4554,7 @@ Sk.omr 9 (avd.
 
 66 (78)
 
-7. KARTOR
+7\. KARTOR
 
 7.1 Översiktskarta
 
@@ -4632,7 +4632,7 @@ Stuteribergen
 
 Framtida ledutveckling
 
-|
+\|
 
 » KKojlänsstyrels
 Lantmäterie

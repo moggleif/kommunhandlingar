@@ -16090,7 +16090,7 @@ Med vänliga hälsningar
 
 Kester Gibson
 
-\______________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kester Gibson
 
 Handläggare
@@ -17352,7 +17352,7 @@ Postadress: Box 113 05, 404 27 Göteborg
 Besöksadress: Johan på Gårdas gata 5A, Göteborg
 www.tolkformedlingvast.se
 
-\____________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1
 
@@ -27020,16 +27020,16 @@ att vara giltiga.
 Tvist avseende tillämpning eller tolkning av detta avtal ska avgöras av allmän domstol
 enligt svensk lag.
 
-\____________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i två (2) likalydande exemplar varav parterna tagit var sitt.
 
 För Trafikverket               För Kungsbacka kommun
 
-\_________________________      _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum                  Ort och datum
 
-\_________________________      _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Jörgen Einarsson
 Regional direktör
 

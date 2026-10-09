@@ -743,21 +743,21 @@ Hållbarhetspriset delas ut till någon eller några som uppfyller någon av de 
 hållbarhetskategorierna: ekonomiskt, socialt och ekologiskt.
 
 Det kan exempelvis vara någon som:
-- Förbättrar hushållning med naturresurser, material, råvaror och energi.
+\- Förbättrar hushållning med naturresurser, material, råvaror och energi.
 
-- Ökar kunskaperna om hållbarhetsfrågor.
-- Ökar kännedom om samt skydda och vårda värdefulla natur- och kulturmiljöer.
+\- Ökar kunskaperna om hållbarhetsfrågor.
+\- Ökar kännedom om samt skydda och vårda värdefulla natur- och kulturmiljöer.
 
-- Bevarar den biologiska mångfalden.
-- Främjar människors hälsa.
+\- Bevarar den biologiska mångfalden.
+\- Främjar människors hälsa.
 
-- Främjar delaktighet, inkludering och livskvalitet.
-- Bidrar till att utveckla en miljövänlig produktion och teknik.
+\- Främjar delaktighet, inkludering och livskvalitet.
+\- Bidrar till att utveckla en miljövänlig produktion och teknik.
 
 Priset är 10 000 kronor.
 Kommunstyrelsens arbetsutskott har i uppdrag att utse vinnare av Hållbarhetspriset
 
-2025. Nomineringarna diskuterades vid tidigare sammanträde, 2025-11-11, och vid
+2025\. Nomineringarna diskuterades vid tidigare sammanträde, 2025-11-11, och vid
 dagens sammanträde utses vinnaren. Priset delas ut vid fullmäktiges sammanträde
 den 11 december.
 Kungsbacka Sportfiskeklubb tilldelas Hållbarhetspriset 2025 med följande

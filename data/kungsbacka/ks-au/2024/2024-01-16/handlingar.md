@@ -220,7 +220,7 @@ HALLANDS LÄN
 Bildande av Särö Nordanskogs naturreservat i Kungsbacka
 kommun.
 
-+ = brett
+\+ = brett
 . Särö Nordanskogs
 
 naturreservat
@@ -236,7 +236,7 @@ rr NK
 
 Beslut
 
-Länsstyrelsen i Hallands län beslutar med stöd av 7 kap. 4 $ miljöbalken (MB) att
+Länsstyrelsen i Hallands län beslutar med stöd av 7 kap. 4 \$ miljöbalken (MB) att
 förklara det område som avgränsas av blå heldragen linje på ovanstående karta som
 naturreservat, med syfte, skäl och föreskrifter enligt nedan.
 
@@ -318,7 +318,7 @@ träd med höga bevarandevärden.
 
 Föreskrifter
 
-A. Med stöd av 7 kap. 5 $ MB, om inskränkningar i rätten att använda mark- och
+A. Med stöd av 7 kap. 5 \$ MB, om inskränkningar i rätten att använda mark- och
 vattenområden inom reservat, är det utöver vad som annars gäller förbjudet att inom
 området:
 
@@ -334,37 +334,37 @@ dika, dimma, dikesrensa eller utföra annan åtgärd som kan påverka områdets
 
 hydrologi. Med Länsstyrelsen tillstånd är det dock tillåtet att underhålla dike
 
-enligt bestämmelserna i 11 kap. 17 $ miljöbalken under förutsättning att diket är
+enligt bestämmelserna i 11 kap. 17 \$ miljöbalken under förutsättning att diket är
 
 lagligt anlagt,
 
-6. anordna upplag, tippa eller fylla ut,
+6\. anordna upplag, tippa eller fylla ut,
 
 kalka, gödsla eller sprida bekämpningsmedel,
 
-8. bedriva skogsbruk eller i annat syfte avverka, gallra, röja, föryngra skog eller på
+8\. bedriva skogsbruk eller i annat syfte avverka, gallra, röja, föryngra skog eller på
 annat sätt påverka vegetationen,
 
-9. ta bort eller upparbeta dött träd, vindfälle eller döda grövre grenar,
+9\. ta bort eller upparbeta dött träd, vindfälle eller döda grövre grenar,
 
-10. inplantera för området främmande arter,
+10\. inplantera för området främmande arter,
 
-11. framföra motordrivet fordon annat än på bilväg,
+11\. framföra motordrivet fordon annat än på bilväg,
 
-12. sätta upp tavla, affisch, skylt eller göra inskrift,
+12\. sätta upp tavla, affisch, skylt eller göra inskrift,
 
-13. utfodra vilt och använda åtel, samt
+13\. utfodra vilt och använda åtel, samt
 
-14. bedriva jakt.
+14\. bedriva jakt.
 
 ARR Rr
 
 Sr
 
 Dessutom är det förbjudet att utan Länsstyrelsens tillstånd:
-15. anordna lägerverksamhet, tävlingar eller andra arrangemang, samt att
+15\. anordna lägerverksamhet, tävlingar eller andra arrangemang, samt att
 
-16. utföra undersökningar som innebär markering, insamling, fångst eller annan
+16\. utföra undersökningar som innebär markering, insamling, fångst eller annan
 påverkan på naturmiljön. Detta krav om tillstånd gäller dock inte vid
 insamling och dödande av ryggradslösa djur om insamlingen krävs för att en
 säker artbestämning ska kunna ske, den görs manuellt genom plockning,
@@ -447,14 +447,14 @@ LÄNSSTYRELSEN Förslag till beslut 6 (12)
 
 2023-10-13 511-2413-16
 
-B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6 $ MB ägare
+B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6 \$ MB ägare
 och innehavare av särskild rätt till fastigheten att tåla åtgärder inom området enligt
 
 följande:
 
 I:
 
-2.
+2\.
 
 utmärkning av naturreservatets gräns enligt Naturvårdsverkets anvisningar,
 anläggning och underhåll av friluftslivsanordningar exempelvis markerade stigar
@@ -478,11 +478,11 @@ långsiktig överlevnad i länet samt
 undersökningar och dokumentation av friluftsliv, mark, vatten samt växt-,
 svamp- och djurliv.
 
-C. Med stöd av 7 kap. 30 $ MB, om rätten att färdas och vistas i reservat är det
+C. Med stöd av 7 kap. 30 \$ MB, om rätten att färdas och vistas i reservat är det
 utöver vad som annars gäller förbjudet att:
 
 I.
-2.
+2\.
 
 NAMNBPW
 
@@ -503,8 +503,8 @@ elda.
 
 Dessutom är det förbjudet att utan Länsstyrelsens tillstånd:
 
-8. anordna lägerverksamhet, tävlingar eller andra arrangemang,
-9.
+8\. anordna lägerverksamhet, tävlingar eller andra arrangemang,
+9\.
 
 inplantera för området främmande arter samt att
 utföra undersökningar som innebär markering, insamling, fångst eller annan
@@ -540,7 +540,7 @@ C-föreskrifterna gäller för allmänheten. Föreskrifterna riktar sig även ti
 och andra med särskild rätt till fastigheten då dessa utövar aktivitet som inte är knutet
 till dessa rättigheter.
 
-Länsstyrelsen vill upplysa om att föreskrifterna enligt 7 kap. 30 $ miljöbalken (C-
+Länsstyrelsen vill upplysa om att föreskrifterna enligt 7 kap. 30 \$ miljöbalken (C-
 föreskrifterna) träder i kraft tre veckor efter beslutet publiceras oavsett om beslutet
 överklagas.
 
@@ -561,7 +561,7 @@ Länsstyrelsen erinrar även om att andra lagar, förordningar och föreskrifter
 reservatsföreskrifterna gäller för området. Av särskild betydelse för syftet med
 reservatet, eller som ett komplement till föreskrifterna är bland andra:
 
-16 $ lag (2007:1150) om tillsyn över hundar och katter
+16 \$ lag (2007:1150) om tillsyn över hundar och katter
 
 <!-- sida 14 -->
 
@@ -574,13 +574,13 @@ hindras från att springa lösa i marker där det finns vilt. Under den övriga 
 skall hundar hållas under sådan tillsyn att de hindras från att driva eller förfölja vilt,
 när de inte används vid jakt.
 
-2 kap. 1, 6-8 $$ kulturmiljölagen (1988:950), fornlämningar
+2 kap. 1, 6-8 \$\$ kulturmiljölagen (1988:950), fornlämningar
 
 De fornlämningar som återfinns inom reservatet är skyddade enligt lag. Det är
 förbjudet att utan tillstånd rubba, ta bort, gräva ut, täcka över eller genom
 bebyggelse, plantering eller på annat sätt ändra eller skada en fornlämning.
 Riksantikvarieämbetet och Länsstyrelsen får vidta de åtgärder som behövs för att
-skydda, vårda och undersöka en fornlämning. 7 kap. 13-18h $$ miljöbalken,
+skydda, vårda och undersöka en fornlämning. 7 kap. 13-18h \$\$ miljöbalken,
 strandskyddsbestämmelser
 
 Strandskyddsområde berör de delar av reservatet som ligger inom 300 meter från
@@ -589,14 +589,14 @@ allmänhetens friluftsliv samt att bevara goda livsvillkor på land och i vatten
 och växtlivet. Åtgärder som kan skada eller motverka syftet med strandskyddet är
 förbjudna.
 
-4-9 $$ artskyddsförordningen (2007:845), fridlysta arter
+4-9 \$\$ artskyddsförordningen (2007:845), fridlysta arter
 
 Många arter är fridlysta. Det innebär att djuren och växterna inte får skadas eller
 störas, och i många fall även att fortplantningsområden och viloplatser är skyddade.
 Alla fåglar, groddjur, kräldjur, fladdermöss samt orkidéer är fridlysta, och dessutom
 ett urval av andra organismer.
 
-12 kap. 6$ miljöbalken
+12 kap. 6\$ miljöbalken
 
 För verksamheter och åtgärder som kan ändra naturmiljön väsentligt krävs samråd
 med Länsstyrelsen, i de fall verksamheten eller åtgärden inte omfattas av
@@ -753,7 +753,7 @@ och ”Hav i balans och levande kust och skärgård”.
 Beslutets förenlighet med riksintressen, planer och områdesbestämmelser
 
 Särö Nordanskog är angivet som riksintresse för naturvård, friluftsliv och kultur-
-miljövård (MB 3 kap.6 $), samt rörligt friluftsliv (MB 4 kap. 2$). Reservatsbeslutet
+miljövård (MB 3 kap.6 \$), samt rörligt friluftsliv (MB 4 kap. 2\$). Reservatsbeslutet
 är förenligt med hushållningsbestämmelserna i 3 och 4 kap. MB.
 
 Reservatsområdet ingår i den kommunala byggnadsplanen för Särön (S88, 1983) där
@@ -772,7 +772,7 @@ lämplig användning av mark- och vattenresurser samt med den för området gäl
 
 Intresseprövning
 
-Länsstyrelsen anser, vid en intresseprövning enligt 7 kap. 25 $ miljöbalken, att
+Länsstyrelsen anser, vid en intresseprövning enligt 7 kap. 25 \$ miljöbalken, att
 avgränsningen av området, reservatets omfång och föreskrifternas utformning i detta
 beslut innebär en rimlig balans mellan de värden som skall skyddas och det intrång
 detta innebär för enskilds rätt att använda mark och vatten.
@@ -827,7 +827,7 @@ prioritering av åtgärderna gjorts.
 
 <!-- sida 23 -->
 
-1. Syfte med säkerställande och skötsel
+1\. Syfte med säkerställande och skötsel
 
 Syftet med naturreservatet är att bevara biologisk mångfald, att vårda och bevara värdefulla
 naturmiljöer. Ek- och tallskogen, samt arter kopplade till den ska gynnas i naturreservatet.
@@ -868,7 +868,7 @@ skötseln av reservatet.
 
 <!-- sida 24 -->
 
-2. Beskrivning av området
+2\. Beskrivning av området
 
 2.1 Markslag, naturtyper och arter
 
@@ -1007,7 +1007,7 @@ vägsamfällighet styckades av. Planen fullföljdes dock ej. I samband med antag
 byggnadsplan från 1976 för området gavs berörda fastighetsägare möjlighet att exploatera
 delar av planområdet för ny bebyggelse, som motprestation avsattes parkmark utan
 ersättning vilket innebär att alla förväntningsvärden för reservatsområdet är utsläckta sedan
-1976. Ett utökat strandskydd inbegriper delar av reservatsområdet. Idag är Nordanskog ett
+1976\. Ett utökat strandskydd inbegriper delar av reservatsområdet. Idag är Nordanskog ett
 populärt promenadområde för Särös lokalbefolkning i synnerhet. Skogen är genomkorsad
 av flertalet stigar. En mobilmast finns anlagd i områdets södra del.
 
@@ -1093,7 +1093,7 @@ Malmström, C. 1939. Hallands skogar under de 300 senaste åren. Meddelande frå
 Skogsförsöksanstalt volym 31, sidorna 171 - 300.
 
 Naturvårdsverket 2018. NV Nationell Marktäckedata (NMD) (WMS-tjänst) Rev. 2020-08-
-27. https://geodata.naturvardsverket.se/NMD2018/wms.
+27\. https://geodata.naturvardsverket.se/NMD2018/wms.
 
 Nielsen, O. 1873. Valdemar Den Andens Jordebog. G.E.C. Gads Forlag.
 
@@ -1103,8 +1103,8 @@ och Släps socken. Göteborg. 163 s. II. prtr. Kart.
 ! ra 5 :
 Vd KM Y p
 
-- ME ce
->
+\- ME ce
+\>
 k | j
 
 Figur 4 Arter som har hittats inom reservatet: Kattuggla, ädelkronlav & tallticka. Foto: Patrik Olofsson, Viveka Strand,
@@ -1112,7 +1112,7 @@ Jonas Sundell
 
 <!-- sida 30 -->
 
-3. Skötsel av området
+3\. Skötsel av området
 
 3.1. Generella riktlinjer
 
@@ -1235,7 +1235,7 @@ Figur 5 Miljöer i Särö Nordanskog. Foto: Jonas Sundell.
 
 <!-- sida 33 -->
 
-4. Friluftsliv och turism
+4\. Friluftsliv och turism
 
 Beskrivning
 
@@ -1272,13 +1272,13 @@ förvaltarens bedömning hållas öppna.
 
 o Minnesstenen hålls framröjd och underhållen.
 
-5. Tillsyn, dokumentation och uppföljning
+5\. Tillsyn, dokumentation och uppföljning
 
 Länsstyrelsen ansvarar för att uppföljning av bevarandemål genomförs. Uppföljningen ska
 ske enligt de manualer för skyddade områden som har tagits fram av Naturvårdsverket.
 Länsstyrelsen ansvarar för regelbunden tillsyn av reservatet.
 
-6. Sammanfattning och prioritering av
+6\. Sammanfattning och prioritering av
 planerade skötselåtgärder
 
 Skötselåtgärd När Skötselområde Prioritet Finansiering
@@ -1394,7 +1394,7 @@ Ask Fraxinus excelsior | Kärlväxter | 2008
 Kraterorangelav Caloplaca Lavar 2022
 ulcerosa
 Stiftkvistlav Fellhaneropsis Lavar 2022
-- vezdae
+\- vezdae
 Adellav Megalaria grossa | Lavar 1999
 Sårbar (VU)
 Hussvala Delichon urbicum Fåglar Par i lämplig
@@ -1811,7 +1811,7 @@ Säröhusv 12
 
 | Säröhus Hotell & Restaurang AB
 
- Säröhusv 12
+Säröhusv 12
 
 429 43 Särö
 
@@ -1857,10 +1857,10 @@ Beteckning | Ägare/innehavare, adress Ändamål
 1 13884-02/414 ee Röjning
 Till förmån för a a
 Särö ga:5 Särö Vägförening (Kungsbacka)
-| .</O '
+| .\</O '
 fon
 —  — ML...
- Belastar |
+Belastar |
 | Särö 1:83 | Säröhus Hotell & Restaurang AB
 | | Säröhusv 12
 | 1429 43 Särö
@@ -1868,7 +1868,7 @@ Särö 1:86 ee | Säröhus Hotell & Restaurang AB
 Säröhusv 12
 a | | SEASSRG a
 | Särö 1:88 ee | Säröhus Hotell & Restaurang AB
- Säröhusv 12
+Säröhusv 12
 429 43 Särö
 Särö 1:273 Staten Naturvårdsverket
 106 48 Stockholm
@@ -1906,7 +1906,7 @@ C/O Vertex
 Linneplatsen 1
 413 10 Göteborg
 Särö 1:505 fen
- Belastar
+Belastar
 Särö 1:273 Staten Naturvårdsverket
 106 48 Stockholm
 Övrigt
@@ -1927,7 +1927,7 @@ VIC Natur ID nr 1002073
 
 ' Särö s:2
 
--
+\-
 
 | Beteckning | Ägare/innehavare, adress ee
 | 13-SLÄ-495 |
@@ -1972,7 +1972,7 @@ Säröns Samfällighetsförening
 
 (Kungsbacka)
 
-</
+\</
 
 jos
 
@@ -2045,7 +2045,7 @@ Särö 1:431
 
 —
 
- Belastar
+Belastar
 
 Särö s:2
 
@@ -2073,7 +2073,7 @@ Belastar
 
 LANTMÄTERIET
 
-=
+\=
 
 | Säröns Samfällighetsförening
 (Kungsbacka)
@@ -2090,8 +2090,8 @@ Box 353
 | Säröns Samfällighetsförening
 
 | (Kungsbacka)
-</OMm
-Lo o$(”1U
+\</OMm
+Lo o\$(”1U
 
 | Ägare/innehavare, adress
 
@@ -2244,7 +2244,7 @@ Företrädare/förening adress Anmärkning
 : Företrädare/förening adress Anmärkning
 
 | Säröhus Hotell & Restaurang AB
- Säröhusv 12
+Säröhusv 12
 1429 43 Särö
 Säröhus Hotell & Restaurang AB
 . Säröhusv 12
@@ -3507,9 +3507,9 @@ kalenderårsvis efter allmänt val.
 
 2 § Grundstöd och mandatstöd
 Partistödet består av
-- ett grundstöd,: som uppgår till 20 000 kronor ett halvt prisbasbelopp per parti
+\- ett grundstöd,: som uppgår till 20 000 kronor ett halvt prisbasbelopp per parti
 och år, för det år som stödet avser, samt
-- ett mandatstöd,: som uppgår till ett basbelopp per mandat och år, för det
+\- ett mandatstöd,: som uppgår till ett basbelopp per mandat och år, för det
 år stödet avser.
 Partier som är representerade i kommunfullmäktige får även boka och använda
 kommunens administrativa lokaler kostnadsfritt.
@@ -3815,10 +3815,10 @@ starkt förtroende för de offentliga institutionerna. Ingreppet i den enskildes
 anställning bedömer kommunen därför som proportionerligt.
 Kungsbacka kommun har dock ett antal synpunkter som rör:
 
--  att kommuner, regioner och kommunalförbund själva får avgöra om lagstiftningen ska
+\-  att kommuner, regioner och kommunalförbund själva får avgöra om lagstiftningen ska
 tillämpas eller inte
 
--  att förtroendevalda i kommuner, regioner och kommunalförbund inte föreslås omfattas av
+\-  att förtroendevalda i kommuner, regioner och kommunalförbund inte föreslås omfattas av
 regleringen.
 
 Avsnitt 9.2.4. Förtroendeuppdrag kan innebära risk för intressekonflikt
@@ -3907,7 +3907,7 @@ kommunfullmäktige. Renhållningsordningen ska innehålla en avfallsplan och fö
 beskriver hur avfall under kommunens ansvar ska hanteras och regleras med stöd av de
 bemyndiganden som ges till kommunen genom miljöbalken och avfallsförordningen.
 De senast reviderade avfallsföreskrifterna för Kungsbacka kommun antogs av kommunfullmäktige
-2022. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
+2022\. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
 
 föreskrifterna. Regeringen har beslutat om kommunalt insamlingsansvar av förpackningsavfall från
 hushåll samt för verksamheter samlokaliserade med hushåll när dessa har valt kommunal insamling.
@@ -3962,7 +3962,7 @@ nyttjanderättshavare och innehåller bestämmelser om godkända behållare, hä
 sorteringskrav.
 
 De senast reviderade avfallsföreskrifterna för Kungsbacka kommun antogs av kommunfullmäktige
-2022. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
+2022\. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
 föreskrifterna. Regeringen har beslutat om kommunalt insamlingsansvar av förpackningsavfall från
 hushåll samt för verksamheter samlokaliserade med hushåll när dessa har valt kommunal insamling.
 Kommunens ansvar för insamling av förpackningsavfall träder i kraft den 1 januari 2024 och kravet på
@@ -4168,7 +4168,7 @@ gälla.
 Sammanfattning av ärendet
 
 De senast reviderade avfallsföreskrifterna för Kungsbacka kommun antogs av Kommunfullmäktige
-2022. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
+2022\. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
 föreskrifterna.
 Förslaget till reviderade avfallsföreskrifter omfattar huvudsakligen anpassningar i ovan nämnda
 förändringar och ytterligare förändringar:
@@ -4224,7 +4224,7 @@ beskriver hur avfall under kommunens ansvar ska hanteras och regleras med stöd 
 bemyndiganden som ges till kommunen genom miljöbalken och avfallsförordningen.
 
 De senast reviderade avfallsföreskrifterna för Kungsbacka kommun antogs av Kommunfullmäktige
-2022. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
+2022\. Efter detta har ytterligare lagändringar och en dom medfört behov av föreliggande justering av
 föreskrifterna. Regeringen har beslutat om kommunalt insamlingsansvar av förpackningsavfall från
 hushåll samt verksamheter samlokaliserade med hushåll när dessa har valt kommunal insamling.
 Kommunens ansvar för insamling av förpackningsavfall träder i kraft den 1 januari 2024 och kravet på
@@ -4384,7 +4384,7 @@ avfall i enlighet med 15 kap. 3 § miljöbalken.
 
 e. Med farligt avfall avses avfall som i bilaga 3 till
 avfallsförordningen (2020:614) beskrivs med en avfallskod
-markerad med en asterisk (*).
+markerad med en asterisk (\*).
 
 f. Med konsumentelavfall avses detsamma som i 13 §
 förordningen (2014:1075) om producentansvar för elutrustning.
@@ -4424,21 +4424,21 @@ l. Med bygg- och rivningsavfall som inte producerats i en
 yrkesmässig verksamhet avses detsamma som i 15 kap. 20 § 4
 punkten miljöbalken.
 
-2. Med fastighetsinnehavare avses den som är fastighetsägare
+2\. Med fastighetsinnehavare avses den som är fastighetsägare
 eller den som enligt 1 kap. 5 § fastighetstaxeringslagen
 (1979:1152) ska anses som fastighetsägare.
 
-3. Med nyttjanderättshavare avses den som, utan att omfattas av
+3\. Med nyttjanderättshavare avses den som, utan att omfattas av
 begreppet fastighetsinnehavare, har rätt att bruka eller nyttja
 fastighet.
 
-4. Med den avfallsansvariga nämnden avses nämnden för Teknik,
+4\. Med den avfallsansvariga nämnden avses nämnden för Teknik,
 Kungsbacka kommun.
 
-5. Med den tillsynsansvariga nämnden avses nämnden för Miljö &
+5\. Med den tillsynsansvariga nämnden avses nämnden för Miljö &
 Hälsoskydd, Kungsbacka kommun.
 
-6. Med behållare avses kärl, container, underjordsbehållare, säck,
+6\. Med behållare avses kärl, container, underjordsbehållare, säck,
 latrinbehållare, fosforfälla, slamavskiljare, fettavskiljare eller
 annan anordning för uppsamling av avfall under kommunalt
 ansvar.
@@ -4447,7 +4447,7 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       5 (34)
 
 <!-- sida 119 -->
 
-7. I enlighet med avgränsningen av kommunens ansvar enligt 15
+7\. I enlighet med avgränsningen av kommunens ansvar enligt 15
 kap. 20 § 2 miljöbalken, avses med enskilda avloppsanläggningar
 slutna tankar, slamavskiljare, fosforfällor, minireningsverk och
 andra motsvarande anläggningar som inte är allmänna enligt lag
@@ -4456,10 +4456,10 @@ för högst 25 personekvivalenter och endast används för
 hushållspillvatten eller spillvatten som till sin art och
 sammansättning liknar hushållsspillvatten.
 
-8. Med latrin avses latrin från torrtoaletter och andra jämförliga
+8\. Med latrin avses latrin från torrtoaletter och andra jämförliga
 lösningar, i enlighet med 15 kap. 20 § 3 miljöbalken.
 
-9. Med avloppsfraktioner från enskilda avloppsanläggningar
+9\. Med avloppsfraktioner från enskilda avloppsanläggningar
 menas avloppsslam, toalettvatten, urin, fekalier och innehåll i
 slutna tankar. Med filtermaterial avses ett förbrukat material
 tillhörande en enskild avloppsanläggning, så som torv, leca, träflis
@@ -4474,7 +4474,7 @@ avloppsanläggningar som nämns i punkt 7 ovan.
 Bestämmelsen omfattar både enskilda anläggningar som betjänar
 en fastighet och samfällda anläggningar.
 
-10. Så länge inte annat framgår i gällande lagstiftning innebär med
+10\. Så länge inte annat framgår i gällande lagstiftning innebär med
 yrkesmässig verksamhet i dessa föreskrifter att någon regelbundet
 utför tjänster mot betalning. Tillfälliga arbeten och kortare uppdrag
 av obetydlig omfattning räknas här inte som yrkesmässig
@@ -4527,13 +4527,13 @@ av fettavskiljare utanför det kommunala ledningsnätet
 Betalning och information.
 8§. Avgift ska betalas för:
 
-1. de åtgärder som kommunen vidtar i syfte att informera hushåll
+1\. de åtgärder som kommunen vidtar i syfte att informera hushåll
 
 och verksamhetsutövare som producerar avfall som
 kommunen ansvarar för enligt 15 kap. 20 § miljöbalken om
 avfallshantering och avfallsförebyggande åtgärder.
 
-2. de åtgärder som kommunen vidtar för att underlätta insamling
+2\. de åtgärder som kommunen vidtar för att underlätta insamling
 och sortering av återanvändbara produkter från hushåll och
 verksamhetsutövare som producerar avfall som kommunen
 ansvarar för enligt 15 kap. 20 § miljöbalken.
@@ -4542,7 +4542,7 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       7 (34)
 
 <!-- sida 121 -->
 
-3. den insamling, transport, behandling i form av återvinning och
+3\. den insamling, transport, behandling i form av återvinning och
 bortskaffande av avfall som utförs genom kommunens försorg
 och i enlighet med föreskrifter som kommunen har antagit med
 stöd av 27 kap. 4 § miljöbalken.
@@ -4593,13 +4593,13 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       8 (34)
 <!-- sida 122 -->
 
 13a§. Förpackningsavfall i form av
-1. papper och kartong,
-2. plast
-3. metall,
-4. färgat glas,
-5. ofärgat glas,
-6. trä, och
-7. material som inte avses i 1–6 (övrigt förpackningsmaterial) ska
+1\. papper och kartong,
+2\. plast
+3\. metall,
+4\. färgat glas,
+5\. ofärgat glas,
+6\. trä, och
+7\. material som inte avses i 1–6 (övrigt förpackningsmaterial) ska
 enligt 3 kap. 4 § avfallsförordningen (2020:614) sorteras ut från
 annat avfall.
 
@@ -5418,32 +5418,32 @@ Ku ngsbacka kommun            Lokala avfallsföreskrifter       31 (34)
 <!-- sida 145 -->
 
 BILAGA 2. HÄMTNINGSINTERVALL  (Standardintervaller)
-1. Från flerbostadshus och verksamheter sker hämtning av kärl- och
+1\. Från flerbostadshus och verksamheter sker hämtning av kärl- och
 säckavfall normalt en gång i veckan. Renhållaren tillhandahåller även
 
 hämtning en gång varannan vecka eller två gånger per vecka.
-2. Från en- eller tvåbostadshus för permanentboende sker hämtning av kärl-
+2\. Från en- eller tvåbostadshus för permanentboende sker hämtning av kärl-
 och säckavfall normalt en gång varannan vecka. Renhållaren tillhandahåller
 även hämtning en gång var fjärde vecka.
 
-3. Från en- eller tvåbostadshus för fritidsboende sker hämtning av kommunalt
+3\. Från en- eller tvåbostadshus för fritidsboende sker hämtning av kommunalt
 avfall normalt en gång varannan vecka under perioden mitten av maj – mitten
 av september.
 
-4. Efter beställning utför renhållaren hämtning av trädgårdsavfall i kärl en
+4\. Efter beställning utför renhållaren hämtning av trädgårdsavfall i kärl en
 gång varannan vecka under vår, sommar och höst enligt kommunens
 avfallstaxa.
-5. Hämtning av latrin sker på budning.
+5\. Hämtning av latrin sker på budning.
 
-6. Fosforfällor och minireningsverk ska tömmas i enlighet med leverantörens
+6\. Fosforfällor och minireningsverk ska tömmas i enlighet med leverantörens
 anvisningar om det inte framgår något annat i tillståndet eller godkännandet
 meddelat av kommunens tillsynsmyndighet för enskilda avloppsanläggningar. I
 annat fall sker tömning minst en gång per år för enskilda avloppsanläggningar
 och vartannat år för fosforfällor.
 
-7. Tömning av andra små avloppsanläggningar sker minst en gång per år.
+7\. Tömning av andra små avloppsanläggningar sker minst en gång per år.
 
-8. Tömning av fettavskiljare som genererar kommunalt avfall under
+8\. Tömning av fettavskiljare som genererar kommunalt avfall under
 kommunalt ansvar utförs minst 4 gånger per år eller oftare om det krävs för
 att säkerställa anläggningens funktion.
 

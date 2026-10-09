@@ -8417,7 +8417,7 @@ personal från Kungsbacka Bredbandsnät.
 
 \* Pris angivet inklusive moms.
 
-\________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun             Bredbandstaxa 2027                9 (9)
 

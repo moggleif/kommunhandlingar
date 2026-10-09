@@ -2227,7 +2227,7 @@ kommun@kungsbacka.se
 Ärendet
 
 Tillsyn av grundskolan Toråsskolan 4–6 i Kungsbacka kommun.
-\___________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Beslut
 

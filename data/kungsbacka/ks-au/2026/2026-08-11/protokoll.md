@@ -163,9 +163,9 @@ allmän platsmark. För att nyttja allmän platsmark krävs tillstånd från
 Polismyndigheten, som tar ut avgift för sin handläggning.
 
 Översynen har haft inriktningen att:
-- samla flera tidigare taxedokument till ett gemensamt och tydligare taxedokument
+\- samla flera tidigare taxedokument till ett gemensamt och tydligare taxedokument
 
-- erbjuda konkurrenskraftiga och förutsebara avgifter.
+\- erbjuda konkurrenskraftiga och förutsebara avgifter.
 
 Beslutsunderlag
 
@@ -332,18 +332,18 @@ enligt LSS. Utöver det har Socialstyrelsen sett ett behov av en tydligare och m
 enhetlig reglering.
 
 Förslagen innebär i korthet:
-- tydligare krav på kvalitet, ledningssystem och systematiskt kvalitetsarbete,
+\- tydligare krav på kvalitet, ledningssystem och systematiskt kvalitetsarbete,
 
-- skärpta kompetenskrav för personal och föreståndare,
-- förtydligade krav på bemanning och uppföljning,
+\- skärpta kompetenskrav för personal och föreståndare,
+\- förtydligade krav på bemanning och uppföljning,
 
-- stärkt fokus på den enskildes delaktighet, självbestämmande och kommunikativa
+\- stärkt fokus på den enskildes delaktighet, självbestämmande och kommunikativa
 stöd,
-- tydligare krav på trygg och säker omvårdnad,
+\- tydligare krav på trygg och säker omvårdnad,
 
-- tydligare regler om bostädernas utformning och förebyggande arbete mot
+\- tydligare regler om bostädernas utformning och förebyggande arbete mot
 olycksrisker,
-- åtgärder för att motverka tvångs- och begränsningsåtgärder och institutionsliknande
+\- åtgärder för att motverka tvångs- och begränsningsåtgärder och institutionsliknande
 
 miljöer.
 
@@ -464,10 +464,10 @@ tillgodoses på den lokala bostadsmarknaden.
 
 I handlingsplanen anges tre målområden för Varbergs kommuns arbete med
 bostadsförsörjning:
-1. Varberg växer i takt
+1\. Varberg växer i takt
 
-2. Det erbjuds ett varierat bostadsutbud i hela kommunen efter invånarnas behov
-3. Dialog, samverkan och kunskapsunderlag ska stärkas.
+2\. Det erbjuds ett varierat bostadsutbud i hela kommunen efter invånarnas behov
+3\. Dialog, samverkan och kunskapsunderlag ska stärkas.
 
 Handlingsplanen innehåller även en genomförandelista med planerade insatser.
 Insatserna avser bland annat strategisk planering, planberedskap, aktiv markpolitik,
@@ -719,30 +719,30 @@ Kommunstyrelsens arbetsutskott noterar informationen till protokollet.
 Sammanfattning av ärendet
 Biträdande kommundirektör Anders Johansson informerar om:
 
-- lugn sommar i kommunövergripande perspektiv
+\- lugn sommar i kommunövergripande perspektiv
 Samhällsbyggnadschef Lovisa Eld informerar om:
 
-- Byggnadsnämnden handlägger ett tillsynsärende rörande Mannaviken.
-- skyltar på stranden i Åsa och att fastighetsägaren begär ersättning från kommunen.
+\- Byggnadsnämnden handlägger ett tillsynsärende rörande Mannaviken.
+\- skyltar på stranden i Åsa och att fastighetsägaren begär ersättning från kommunen.
 
-- Mark- och miljödomstolens beslut att inte medge prövningstillstånd avseende
+\- Mark- och miljödomstolens beslut att inte medge prövningstillstånd avseende
 planen Säröhus. Därmed står underinstansens beslut fast.
-- Avseende planen för Rågelund så har länsstyrelsen inte upphävt den men planen är
+\- Avseende planen för Rågelund så har länsstyrelsen inte upphävt den men planen är
 överklagad av andra och där inväntas rättens avgörande.
 
-- revideringar av startplanen.
+\- revideringar av startplanen.
 
-- Regionens beslut om förstudie Trafik 2029 innehöll ett uppdrag till förvaltningen
+\- Regionens beslut om förstudie Trafik 2029 innehöll ett uppdrag till förvaltningen
 att föra dialog med Kungsbacka gällande kollektivtrafikens förutsättningar i
 vägnätet. Arbete pågår att hitta arbetsformerna för detta.
-- Avseende Frillesås Rya har det under sommaren påbörjats en artskyddsutredning.
+\- Avseende Frillesås Rya har det under sommaren påbörjats en artskyddsutredning.
 
-- Rörande plan för Sydöstra centrum inväntas länsstyrelsens beslut.
-- Upphandlingen av vilthanteringsanläggning är nu i slutskedet och inom kort
+\- Rörande plan för Sydöstra centrum inväntas länsstyrelsens beslut.
+\- Upphandlingen av vilthanteringsanläggning är nu i slutskedet och inom kort
 beräknas e-tjänsten vara klar.
 
 Kommundirektör Rickard Vidlund informerar om:
-- pågående rekrytering av tillförordnad förvaltningschef för Teknik.
+\- pågående rekrytering av tillförordnad förvaltningschef för Teknik.
 
 Beslutsgång
 Ordförande Lisa Andersson (M) prövar om kommunstyrelsens arbetsutskott kan

@@ -14453,7 +14453,7 @@ förtroendevalda representerar det organ denne själv tillhör.
 Därtill betalas dagarvode och timersättning för nedan specificerade aktiviteter:
 
 B= beslut krävs av nämnden.
-\_____________
+\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\) Numreringen överensstämmer med numreringen i samtliga tabeller.
 
@@ -14673,7 +14673,7 @@ Arvodesberedningen bereder generella ärenden om arvoden och ersättningar infö
 beslut i kommunfullmäktige. Arvodesberedningen kan även vara rådgivande till
 kommunstyrelsen i tolkningsfrågor.
 
-\____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala 18 (18)
 

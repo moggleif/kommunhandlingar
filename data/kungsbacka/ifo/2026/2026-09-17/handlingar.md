@@ -2279,7 +2279,7 @@ BESLUT
 fr o m 2004-02-01.
 
 \- Avgiften anpassas årligen i enlighet med prisbasbeloppets förändringar.
-\_______
+\_\_\_\_\_\_\_
 
 Utdrag:
 NHO

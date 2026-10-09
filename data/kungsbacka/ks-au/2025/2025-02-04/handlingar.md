@@ -317,11 +317,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
--  I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
--  Kungsbacka har välkomnande och trygga miljöer.
+\-  I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\-  Kungsbacka har välkomnande och trygga miljöer.
 
--  I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
--  I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
+\-  I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\-  I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
 
 Sammanfattning av styrelsens arbete med målet
 Kungsbacka Live
@@ -355,7 +355,7 @@ bor, verkar och vistas i kommunen.
 Beslutats av
 Kommunfullmäktige
 Fokusområden
--  Kungsbacka växer med en långsiktigt hållbar ekonomi.
+\-  Kungsbacka växer med en långsiktigt hållbar ekonomi.
 
 6
 
@@ -364,11 +364,11 @@ Fokusområden
 Kommunstyrelsen                                  Kungsbacka kommun
 Årsredovisning 2024
 
--  Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
+\-  Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
 som också skyddar och främjar biologisk mångfald.
 
--  Kungsbacka ska verka för ett socialt hållbart samhälle.
--  Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\-  Kungsbacka ska verka för ett socialt hållbart samhälle.
+\-  Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Sammanfattning av styrelsens arbete med målet
 Hållbarhetskriterier vid markanvisning
@@ -424,8 +424,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
--  Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
--  I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom
+\-  Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\-  I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom
 samverkan mellan näringsliv och utbildning.
 
 Sammanfattning av styrelsens arbete med målet
@@ -522,8 +522,8 @@ skapa en starkare och mer innovativ region som kan dra nytta av den senaste tekn
 Beslutats av
 Kommunfullmäktige
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 9
 
@@ -541,14 +541,14 @@ Kommunstyrelsen har inte haft några riktade aktiviteter mot detta mål under å
 Beslutats av
 Kommunfullmäktige
 Fokusområden
--  I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att
+\-  I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara medskapande i att
 utforma det goda livet.
 
--  Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\-  Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
--  Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+\-  Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
 
--  Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
+\-  Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
 ledare.
 Sammanfattning av styrelsens arbete med målet
 Digitalisering av gamla detaljplaner
@@ -899,12 +899,12 @@ i sig kommer nyföretagandet i Kungsbacka att öka jämfört med 2023.
 
 Namn                             Utfall  Utfall Utfall Utfall Utfall
 2020   2021  2022    2023   2024
-Digital mognadsgrad                54 %  51,9 %  53,4 %   57 %     *
+Digital mognadsgrad                54 %  51,9 %  53,4 %   57 %     \*
 
 Ledtid detaljplan från projektstart till antagande,
 23     25      27     31      28
 anges i månader
-* Vi valde att sluta med dessa mätningar 2024 då resultatet inte gett värde för verksamheterna.
+\* Vi valde att sluta med dessa mätningar 2024 då resultatet inte gett värde för verksamheterna.
 5.3 Prestationsmått
 
 Namn                           Utfall  Utfall Utfall  Utfall  Utfall
@@ -936,13 +936,13 @@ Kommunikation vid större förändringar i kommunen,
 48,7   48,3
 exempelvis stadsplanering, byggnationer
 Antal nystartade företag per tusen invånare
-13,1   13,8   12,8   10,3   *
+13,1   13,8   12,8   10,3   \*
 (etableringsfrekvens)
-Antal arbetsställen                 11 384 11 603 11 808 11 948   *
-Sysselsatt dagbefolkning, 15–74 år  27 384 28 167 28 494 28 586   *
+Antal arbetsställen                 11 384 11 603 11 808 11 948   \*
+Sysselsatt dagbefolkning, 15–74 år  27 384 28 167 28 494 28 586   \*
 De tre översta måtten är ifrån SCB:s medborgarundersökning. Vi har inte deltagit i undersökningen sedan 2022, måttet utgår ur
 uppföljningen 2025.
-* Ännu ej publicerad
+\* Ännu ej publicerad
 
 17
 
@@ -1694,21 +1694,21 @@ Naturvårdsverkets skrivelse med förslagna författningsändringar bedöms samm
 följande konsekvenser för bygg- och miljöförvaltningens verksamhet:
 
 Ökat tillsynsansvar:
-- Ny lagstiftning att tolka och tillämpa: förvaltningen kommer behöva sätta sig in i de nya
+\- Ny lagstiftning att tolka och tillämpa: förvaltningen kommer behöva sätta sig in i de nya
 reglerna för att korrekt kunna utöva tillsyn över hantering av fluorerade växthusgaser (f-gaser)
 och ozonnedbrytande ämnen (ODS).
-- Anmälningsplikt vid rivning och renovering: Yrkesmässiga renoverings- och rivningsprojekt
+\- Anmälningsplikt vid rivning och renovering: Yrkesmässiga renoverings- och rivningsprojekt
 med byggmaterial innehållande f-gaser och ODS omfattas av en ny anmälningsplikt. Detta
 kan medföra fler ärenden att hantera.
-- Fler områden omfattas av miljösanktionsavgifter: förvaltningen kan behöva granska fler
+\- Fler områden omfattas av miljösanktionsavgifter: förvaltningen kan behöva granska fler
 verksamheter som riskerar att bryta mot regler för f-gas- och ODS-hantering, vilket kan öka
 arbetsbelastningen.
 
 Ökad arbetsbörda
-- Fler komplexa ärenden: Nya regler kring avfallshantering, exempelvis destruktion av gaser i
+\- Fler komplexa ärenden: Nya regler kring avfallshantering, exempelvis destruktion av gaser i
 byggmaterial, kan leda till fler och mer tidskrävande ärenden, särskilt om aktörer inte har full
 kännedom om sina skyldigheter.
-- Fler aktörer att övervaka: Tillkomsten av nya aktörer och fler rapporteringskrav kan öka
+\- Fler aktörer att övervaka: Tillkomsten av nya aktörer och fler rapporteringskrav kan öka
 antalet tillsynsobjekt.
 
 Naturvårdsverkets skrivelse
@@ -1806,12 +1806,12 @@ miljörapportering. Vidare föreslås en vidare utredning om stärkande av byggb
 rörande f-gaser och ODS i skumplast. Naturvårdsverket har vidare identifierat fyra åtgärder som
 skulle kunna bidra till att snabba på utfasningen av f-gaser i Sverige och bidra till klimatmålen
 samt att Sveriges åtaganden gentemot EU nås:
-- Stöd för att öka antalet certifierade tekniker.
+\- Stöd för att öka antalet certifierade tekniker.
 
-- Statligt stöd för utbyte av gammal utrustning.
-- Utredning av om kväveoxidavgiften även bör omfatta dikväveoxid (lustgas).
+\- Statligt stöd för utbyte av gammal utrustning.
+\- Utredning av om kväveoxidavgiften även bör omfatta dikväveoxid (lustgas).
 
-- Incitament för att öka insamlingen av f-gas i avfallsleden
+\- Incitament för att öka insamlingen av f-gas i avfallsleden
 
 Nämnden för miljö- och hälsoskydd ställningstagande
 
@@ -1913,22 +1913,22 @@ följande konsekvenser för bygg- och miljöförvaltningens verksamhet:
 <!-- sida 44 -->
 
 Ökat tillsynsansvar:
-- Ny lagstiftning att tolka och tillämpa: förvaltningen kommer behöva sätta sig in i de nya
+\- Ny lagstiftning att tolka och tillämpa: förvaltningen kommer behöva sätta sig in i de nya
 reglerna för att korrekt kunna utöva tillsyn över hantering av fluorerade växthusgaser (f-gaser)
 och ozonnedbrytande ämnen (ODS).
-- Anmälningsplikt vid rivning och renovering: Yrkesmässiga renoverings- och rivningsprojekt
+\- Anmälningsplikt vid rivning och renovering: Yrkesmässiga renoverings- och rivningsprojekt
 
 med byggmaterial innehållande f-gaser och ODS omfattas av en ny anmälningsplikt. Detta
 kan medföra fler ärenden att hantera.
-- Fler områden omfattas av miljösanktionsavgifter: förvaltningen kan behöva granska fler
+\- Fler områden omfattas av miljösanktionsavgifter: förvaltningen kan behöva granska fler
 verksamheter som riskerar att bryta mot regler för f-gas- och ODS-hantering, vilket kan öka
 arbetsbelastningen.
 Ökad arbetsbörda
-- Fler komplexa ärenden: Nya regler kring avfallshantering, exempelvis destruktion av gaser i
+\- Fler komplexa ärenden: Nya regler kring avfallshantering, exempelvis destruktion av gaser i
 
 byggmaterial, kan leda till fler och mer tidskrävande ärenden, särskilt om aktörer inte har full
 kännedom om sina skyldigheter.
-- Fler aktörer att övervaka: Tillkomsten av nya aktörer och fler rapporteringskrav kan öka
+\- Fler aktörer att övervaka: Tillkomsten av nya aktörer och fler rapporteringskrav kan öka
 antalet tillsynsobjekt.
 
 Nämnden för miljö- och hälsoskydd har i övrigt inga synpunkter på Naturvårdsverkets förslag till
@@ -2031,27 +2031,27 @@ kring hantering av material och tekniska system som innehåller dessa ämnen.
 
 Nämndens ställningstagande i detalj
 
-1. Anmälningsplikten vid renovering och rivning
-- Ställningstagande: Nämnden stödjer införandet av en anmälningsplikt för yrkesmässig
+1\. Anmälningsplikten vid renovering och rivning
+\- Ställningstagande: Nämnden stödjer införandet av en anmälningsplikt för yrkesmässig
 renovering och rivning av byggnader som innehåller f-gaser eller ODS. Detta är en viktig
 åtgärd för att säkerställa korrekt hantering av dessa ämnen och minska klimatpåverkan.
-- Påverkan: Kommunens fastighetsrenoveringar kommer att påverkas av de administrativa
+\- Påverkan: Kommunens fastighetsrenoveringar kommer att påverkas av de administrativa
 kraven på anmälan. Förslaget är dock tydligt och genomförbart, och vi har inget att erinra
 mot anmälningsplikten i sin helhet.
 
-2. Hantering av bygg- och rivningsavfall
-- Ställningstagande: Nämnden har inget att invända mot kravet att material med f-gaser eller
+2\. Hantering av bygg- och rivningsavfall
+\- Ställningstagande: Nämnden har inget att invända mot kravet att material med f-gaser eller
 ODS ska hanteras och destrueras på ett korrekt sätt. Det är en nödvändig åtgärd för att
 minimera utsläpp.
-- Påverkan: Kraven kan komma innebära ökade kostnader för avfallshantering, särskilt vid
+\- Påverkan: Kraven kan komma innebära ökade kostnader för avfallshantering, särskilt vid
 
 rivnings- och renoveringsprojekt i äldre fastigheter.
 Vi noterar att dessa kostnader är svåra att undvika och anser att förslaget är rimligt.
 
-3. Rapporteringskrav för f-gas-utrustning
-- Ställningstagande: Nämnden ser värdet i att stärka kontrollen av f-gas-utrustning genom
+3\. Rapporteringskrav för f-gas-utrustning
+\- Ställningstagande: Nämnden ser värdet i att stärka kontrollen av f-gas-utrustning genom
 regelbunden rapportering. Vi har inga invändningar mot detta krav.
-- Påverkan: Kravet innebär att vi behöver uppdatera våra drift- och underhållsrutiner samt
+\- Påverkan: Kravet innebär att vi behöver uppdatera våra drift- och underhållsrutiner samt
 hantera mer administration. Detta är dock genomförbart med befintliga resurser.
 
 1 (2)
@@ -2068,24 +2068,24 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (2)
 
-4. Utbildning och certifiering
-- Ställningstagande: Vi har inget att invända mot kravet att personal som hanterar f-gaser
+4\. Utbildning och certifiering
+\- Ställningstagande: Vi har inget att invända mot kravet att personal som hanterar f-gaser
 
 måste vara certifierad. Detta är en nödvändig åtgärd för att säkerställa korrekt hantering.
-- Påverkan: Kraven kan leda till behov av utbildning för ramavtalsentreprenörer vi har ingen
+\- Påverkan: Kraven kan leda till behov av utbildning för ramavtalsentreprenörer vi har ingen
 egen personal som hanterar dessa gaser. Vi bedömer dock att detta är hanterbart.
 
-5. Miljösanktionsavgifter
-- Ställningstagande: Förslaget om miljösanktionsavgifter är tydligt och vi har inget att
+5\. Miljösanktionsavgifter
+\- Ställningstagande: Förslaget om miljösanktionsavgifter är tydligt och vi har inget att
 invända mot dess införande.
-- Påverkan: Fastighetsförvaltningen påverkas indirekt genom behovet av att säkerställa full
+\- Påverkan: Fastighetsförvaltningen påverkas indirekt genom behovet av att säkerställa full
 efterlevnad för att undvika avgifter. Vi bedömer dock att detta är rimligt och en del av vårt
 miljöansvar.
 
-6. Övergångsregler och ikraftträdande
-- Ställningstagande: Vi har inget att invända mot att förslaget implementeras i etapper för att
+6\. Övergångsregler och ikraftträdande
+\- Ställningstagande: Vi har inget att invända mot att förslaget implementeras i etapper för att
 ge berörda aktörer tid att anpassa sig.
-- Påverkan: En stegvis övergång minskar risken för störningar i verksamheten, och vi ser
+\- Påverkan: En stegvis övergång minskar risken för störningar i verksamheten, och vi ser
 positivt på en gradvis implementering.
 
 <!-- sida 49 -->
@@ -2199,11 +2199,11 @@ Innehåll
 
 SAMMANFATTNING                                    4
 
-1.  FÖRFATTNINGSFÖRSLAG                           8
+1\.  FÖRFATTNINGSFÖRSLAG                           8
 1.1 Ändringar med anledning av EU-förordningar    8
 1.2 Författningsförslag enligt Regeringskansliets promemoria 29
 
-2.  INLEDNING                                    39
+2\.  INLEDNING                                    39
 2.1 Uppdraget                                    39
 
 2.2 Utgångspunkter och avgränsningar             39
@@ -2211,18 +2211,18 @@ SAMMANFATTNING                                    4
 2.4 Genomförande                                 41
 2.5 Dialog med aktörer                           41
 
-3.  BAKGRUND                                     43
+3\.  BAKGRUND                                     43
 3.1 ODS och f-gaser i Sverige                    43
 
 3.2 De nya EU-förordningarna                     47
-4.  FÖRSLAG TILL ÄNDRINGAR AV MILJÖBALKEN        53
+4\.  FÖRSLAG TILL ÄNDRINGAR AV MILJÖBALKEN        53
 
 4.1 Tillsyn enligt 26 kap. miljöbalken           53
 4.2 Straffbestämmelser och förverkande i 29 kap. miljöbalken 54
 4.3 Ändrade hänvisningar i 29 kap. 3 § miljöbalken 60
 4.4 Miljösanktionsavgifter enligt 30 kap. miljöbalken 62
 
-5.  FÖRSLAG TILL ÄNDRINGAR AV FÖRORDNINGAR UNDER
+5\.  FÖRSLAG TILL ÄNDRINGAR AV FÖRORDNINGAR UNDER
 MILJÖBALKEN                                  64
 5.1 Förordningen om fluorerade växthusgaser      64
 5.2 Förordningen om ozonnedbrytande ämnen        72
@@ -2236,11 +2236,11 @@ miljöbalken                                  90
 5.7 Förordningen om verksamhetsutövares egenkontroll 95
 5.8 Avfallsförordningen                          95
 
-6.  FÖRSLAG TILL ÄNDRINGAR AV FÖRORDNINGAR UTANFÖR
+6\.  FÖRSLAG TILL ÄNDRINGAR AV FÖRORDNINGAR UTANFÖR
 MILJÖBALKEN                                 100
 6.1 Förordning om skydd för personer som rapporterar om
 missförhållanden                            100
-7.  REGELFÖRENKLANDE FÖRSLAG                    102
+7\.  REGELFÖRENKLANDE FÖRSLAG                    102
 
 7.1 Urval av och motivering till fortsatt relevanta författningsförslag 102
 
@@ -2252,13 +2252,13 @@ NATURVÅRDSVERKET
 
 7.2 Föreslagna författningsändringar utifrån Regeringskansliets
 promemoria                                  103
-8.  KOMPLETTERANDE ÅTGÄRDER                     106
+8\.  KOMPLETTERANDE ÅTGÄRDER                     106
 
 8.1 Ett nationellt rapporteringssystem för f-gaser bör införlivas i det
 kommande systemet för företagens miljörapportering 106
 8.2 Det behöver utredas om byggbestämmelserna kan stärkas
 rörande f-gaser och ODS i skumplast         107
-9.  YTTERLIGARE, MÖJLIGA ÅTGÄRDER SOM KAN SNABBA PÅ
+9\.  YTTERLIGARE, MÖJLIGA ÅTGÄRDER SOM KAN SNABBA PÅ
 UTFASNINGEN AV F-GASER I SVERIGE            109
 
 9.1 Behov av stöd för att öka antalet certifierade tekniker 109
@@ -2268,7 +2268,7 @@ UTFASNINGEN AV F-GASER I SVERIGE            109
 9.4 Skapa incitament för att öka insamlingen av f-gas och ODS i
 avfallsleden                                112
 
-10. KONSEKVENSUTREDNING                         114
+10\. KONSEKVENSUTREDNING                         114
 10.1 Problem och eftersträvad förändring        114
 10.2 Referensalternativ – om inga åtgärder vidtas 114
 
@@ -2289,7 +2289,7 @@ begränsningar än nödvändigt                 122
 10.13 Behov av informationsinsatser             123
 10.14 Utvärdering                               123
 
-11. KÄLLFÖRTECKNING                             124
+11\. KÄLLFÖRTECKNING                             124
 
 BILAGA 1                                        126
 
@@ -2494,7 +2494,7 @@ uppdraget. Åtgärderna som kan snabba på utfasningen av f-gaser är:
 
 NATURVÅRDSVERKET
 
-1.     Författningsförslag
+1\.     Författningsförslag
 
 1.1    Ändringar   med   anledning   av EU-
 
@@ -2519,19 +2519,19 @@ Tillsynen ska säkerställa syftet med denna balk och föreskrifter som har medd
 av balken.
 Med tillsyn avses att tillsynsmyndigheten ska
 
-1. på eget initiativ eller efter anmälan i nödvändig utsträckning kontrollera att miljöbalken
+1\. på eget initiativ eller efter anmälan i nödvändig utsträckning kontrollera att miljöbalken
 samt föreskrifter, domar och andra beslut som har meddelats med stöd av balken följs samt
 vidta de åtgärder som behövs för att åstadkomma rättelse,
-2. underlätta för en enskild att fullgöra sina 2. underlätta för en enskild att fullgöra sina
+2\. underlätta för en enskild att fullgöra sina 2. underlätta för en enskild att fullgöra sina
 skyldigheter enligt de handlingsregler som skyldigheter enligt de handlingsregler som
 avses i 1 genom information och liknande avses i 1 genom information och liknande
 verksamhet, och           verksamhet,
-3. fortlöpande bedöma om villkor för 3. fortlöpande bedöma om villkor för
+3\. fortlöpande bedöma om villkor för 3. fortlöpande bedöma om villkor för
 miljöfarlig verksamhet eller miljöfarlig verksamhet eller
 vattenverksamhet som omfattas av tillstånd vattenverksamhet som omfattas av tillstånd
 är tillräckliga.          är tillräckliga, och
 
-4. besluta om miljösanktionsavgift och bestämma
+4\. besluta om miljösanktionsavgift och bestämma
 avgiftens storlek i de fall det behövs till följd av att
 beloppet inte bestämts i föreskrifter samt upprätta
 anmälan om överträdelse enligt 2 §.
@@ -2561,33 +2561,33 @@ förordningar inom balkens tillämpningsområde att
 lämna de uppgifter som behövs för att
 tillsynsmyndigheten ska kunna bestämma storleken
 på
-1. miljösanktionsavgifter enligt 30 kap. 1 § andra
+1\. miljösanktionsavgifter enligt 30 kap. 1 § andra
 stycket 2, och
-2. vite.
+2\. vite.
 
 29 kap.
 3 §
-6. i fråga om åtgärder för att hindra eller 6. i fråga om åtgärder för att hindra eller
+6\. i fråga om åtgärder för att hindra eller 6. i fråga om åtgärder för att hindra eller
 åtgärda läckage av fluorerade växthusgaser åtgärda läckage av fluorerade växthusgaser
 bryter mot bestämmelserna i artikel 3.2 eller bryter mot bestämmelserna i artikel 4.1, 4.2,
 3.3 första stycket i Europaparlamentets och 4.3 eller 4.5 första stycket i Europaparlamentets
 rådets förordning (EU) nr 517/2014 av den 16 och rådets förordning (EU) 2024/573 av den
 april 2014 om fluorerade växthusgaser, 7 februari 2024 om fluorerade växthusgaser,
-7. i fråga om att återvinning av fluorerade 7. i fråga om att återvinning av fluorerade
+7\. i fråga om att återvinning av fluorerade 7. i fråga om att återvinning av fluorerade
 växthusgaser ska utföras av certifierad växthusgaser ska utföras av certifierad
 personal eller personal med lämplig personal eller personal med lämplig
 utbildning bryter mot en bestämmelse i artikel utbildning bryter mot en bestämmelse i artikel
 8.1 eller 8.3 i förordning (EU) nr 517/2014, 8.1, 8.2, 8.3, 8.4 eller 8.10 i förordning (EU)
 2024/573,
 
-8. släpper ut en fluorerad växthusgas på 8. bryter mot ett förbud eller en begränsning för att
+8\. släpper ut en fluorerad växthusgas på 8. bryter mot ett förbud eller en begränsning för att
 marknaden eller använder en sådan gas och använda, importera, exportera eller på marknaden
 därigenom bryter mot ett förbud i artikel 11.1 släppa ut en fluorerad växthusgas, en produkt eller
 eller 13 i förordning (EU) nr 517/2014, en utrustning enligt artikel 11.1 första stycket, 13.1,
 13.2, 13.3, 13.4, 13.5, 13.7, 13.9, 13.11, 13.12,
 13.18, 13.19, 13.20, 22.1 eller 22.3 i förordning
 (EU) 2024/573,
-12. bryter mot ett förbud eller en 12. bryter mot ett förbud eller en
+12\. bryter mot ett förbud eller en 12. bryter mot ett förbud eller en
 begränsning för att producera, använda, begränsning för att producera, använda,
 importera, exportera eller på marknaden importera, exportera, återexportera, på
 släppa ut ett ämne, en produkt eller en marknaden släppa ut eller annars tillhandahålla
@@ -2603,17 +2603,17 @@ ozonskiktet,              ämnen som bryter ned ozonskiktet,
 
 NATURVÅRDSVERKET
 
-13. i fråga om åtgärder för återvinning och 13. i fråga om åtgärder för återvinning och
+13\. i fråga om åtgärder för återvinning och 13. i fråga om åtgärder för återvinning och
 destruktion av ozonnedbrytande ämnen destruktion av ozonnedbrytande ämnen
 bryter mot artikel 22.1, 22.2 eller 22.4 i bryter mot artikel 20.1, 20.5 eller 20.6 i
 förordning (EG) nr 1005/2009, förordning (EU) 2024/590,
-14. i fråga om åtgärder för att hindra eller 14. i fråga om åtgärder för att hindra eller
+14\. i fråga om åtgärder för att hindra eller 14. i fråga om åtgärder för att hindra eller
 minska läckage av ozonnedbrytande ämnen minska läckage av ozonnedbrytande ämnen
 bryter mot artikel 23.1, 23.5 eller 23.6 i bryter mot artikel 21.2 i förordning (EU)
 förordning (EG) nr 1005/2009, 2024/590,
 6 §
 
-4. i fråga om produkter och utrustning som 4. i fråga om produkter och utrustning som
+4\. i fråga om produkter och utrustning som 4. i fråga om produkter och utrustning som
 innehåller fluorerade växthusgaser bryter innehåller fluorerade växthusgaser bryter
 mot förordning (EU) nr 517/2014 genom att mot förordning (EU) 2024/573 genom att inte
 inte märka produkter och utrustning enligt märka produkter och utrustning enligt vad
@@ -2621,7 +2621,7 @@ vad som krävs i förordningens artikel 12, som krävs i förordningens artikel 
 12 §
 Egendom får förklaras förverkad, om det inte är uppenbart oskäligt och egendomen
 
-1. har varit föremål för brott enligt 1, 2, 2 b, 2 c, 3, 4, 4 a, 4 b, 5, 6 eller 8 § och är
+1\. har varit föremål för brott enligt 1, 2, 2 b, 2 c, 3, 4, 4 a, 4 b, 5, 6 eller 8 § och är
 a. ett djur, en växt eller en annan organism eller en produkt som utvunnits av ett djur eller
 en växt,
 b. en sådan genetisk resurs som avses i förordning (EU) nr 511/2014,
@@ -2659,19 +2659,19 @@ Miljösanktionsavgifter
 Regeringen får meddela föreskrifter om att en särskild avgift (miljösanktionsavgift) ska betalas
 av den som
 
-1. påbörjar en verksamhet som är tillståndspliktig eller anmälningspliktig enligt denna
+1\. påbörjar en verksamhet som är tillståndspliktig eller anmälningspliktig enligt denna
 balk eller enligt föreskrifter som har meddelats med stöd av balken, utan att tillstånd
 har getts eller anmälan har gjorts,
 
-2. åsidosätter villkor eller andra bestämmelser i ett tillstånd som har beslutats med stöd
+2\. åsidosätter villkor eller andra bestämmelser i ett tillstånd som har beslutats med stöd
 av denna balk eller med stöd av föreskrifter som har meddelats med stöd av balken,
 eller
-3. åsidosätter andra bestämmelser i denna balk, föreskrifter som har meddelats med stöd
+3\. åsidosätter andra bestämmelser i denna balk, föreskrifter som har meddelats med stöd
 av balken eller bestämmelser i EU-förordningar inom balkens tillämpningsområde.
 
 Avgiftens storlek ska framgå av föreskrifterna. Avgiftens storlek ska antingen
 Avgiften ska uppgå till minst 1 000 kronor och högst
-1. framgå av föreskrifterna och uppgå till minst
+1\. framgå av föreskrifterna och uppgå till minst
 1 000 000 kronor. När avgiftens storlek bestäms,
 1 000 kr och högst 1 000 000 kronor, eller
 ska hänsyn tas till överträdelsens allvar och betydelsen
@@ -2701,7 +2701,7 @@ Det är förbjudet för yrkesmässiga verksamheter som renoverar
 och river fastigheter att utan anmälan till tillsynsmyndigheten
 påbörja en renovering eller rivning av fastigheter som
 innefattar avlägsnande av
-1. skumpaneler som innehåller skumplast med sådana
+1\. skumpaneler som innehåller skumplast med sådana
 fluorerade växthusgaser som förtecknats i bilaga 1 och avsnitt
 1 till bilaga 2 till Europaparlamentets och Rådets förordning
 (EU) 2024/573 om fluorerade växthusgaser,
@@ -2709,30 +2709,30 @@ Europaparlamentets och rådets förordning (EU) 2024/573
 av den 7 februari 2024 om fluorerade växthusgaser, om
 ändring av direktiv (EU) 2019/1937 och om upphävande
 av förordning (EU) nr 517/2014,
-2. skumplast i laminerade skivor som installerats i hålrum
+2\. skumplast i laminerade skivor som installerats i hålrum
 eller uppbyggda strukturer som innehåller fluorerade
 växthusgaser som förtecknats i bilaga 1 och avsnitt 1 till
 bilaga 2 i (EU) 2024/573 om fluorerade växthusgaser,
-3. skumpaneler som innehåller skumplast med
+3\. skumpaneler som innehåller skumplast med
 ozonnedbrytande ämnen som förtecknats i bilaga 1 till
 Europaparlamentets och Rådets förordning (EU)
 2024/590 om ämnen som bryter ner ozonskiktet, eller
-4. skumplast i laminerade skivor som installerats i hålrum
+4\. skumplast i laminerade skivor som installerats i hålrum
 eller uppbyggda strukturer som innehåller ozonnedbrytande
 som förtecknats i bilaga 1 till (EU) 2024/590 om ämnen
 som bryter ner ozonskiktet.
 En anmälan ska innehålla uppgifter om
 
-1. en bedömning av huruvida det avfall som uppkommer
+1\. en bedömning av huruvida det avfall som uppkommer
 är farligt avfall,
-2. avfallskod
-3. mängd avfall,
-4. hur materialet avses att transporteras och i övrigt
+2\. avfallskod
+3\. mängd avfall,
+4\. hur materialet avses att transporteras och i övrigt
 hanteras i kedjan för att säkerställa att gaserna inte
 i något led avges före slutlig destruktion av gaserna,
 
 och
-5. uppgift om vilken behörig återvinningsanläggning som
+5\. uppgift om vilken behörig återvinningsanläggning som
 materialet avses att överlämnas till för slutlig
 destruktion av gaserna.
 
@@ -2753,23 +2753,23 @@ Nuvarande lydelse        Föreslagen lydelse
 1 a §
 Bestämmelserna i 26 kap. 19 § miljöbalken ska tillämpas i fråga om
 
-1. Europaparlamentets och rådets förordning (EG) nr 850/2004 av den 29 april 2004 om
+1\. Europaparlamentets och rådets förordning (EG) nr 850/2004 av den 29 april 2004 om
 långlivade organiska föroreningar och om ändring av direktiv 79/117/EEG
-2. Europaparlamentets och rådets 2. Europaparlamentets och rådets
+2\. Europaparlamentets och rådets 2. Europaparlamentets och rådets
 förordning (EU) nr 517/2014 av den 16 april förordning (EU) 2024/573 av den 7 februari
 2014 om fluorerade växthusgaser och om 2024 om fluorerade växthusgaser, om ändring av
 upphävande av förordning (EG) nr 842/2006, direktiv (EU) 2019/1937 och om upphävande av
 förordning (EU) nr 517/2014,
-3. Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18 december
+3\. Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18 december
 2006 om registrering, utvärdering, godkännande och begränsning av kemikalier (Reach),
 inrättande av en europeisk kemikaliemyndighet, ändring av direktiv 1999/45/EG och
 upphävande av rådets förordning (EEG) nr 793/93 och kommissionens förordning (EG) nr
 1488/94 samt rådets direktiv 76/769/EEG och kommissionens direktiv 91/155/EEG,
 93/67/EEG, 93/105/EG/ 105/EG och 2000/21/EG,
 
-4. Europaparlamentets och rådets förordning (EG) nr 689/2008 av den 17 juni 2008 om
+4\. Europaparlamentets och rådets förordning (EG) nr 689/2008 av den 17 juni 2008 om
 export och import av farliga kemikalier, och
-5. Europaparlamentets och rådets 5. Europaparlamentets och rådets
+5\. Europaparlamentets och rådets 5. Europaparlamentets och rådets
 förordning (EG) nr 1005/2009 av den 16 förordning (EU) 2024/590 av den 7 februari
 september 2009 om ämnen som bryter ned 2024 om ämnen som bryter ned ozonskiktet
 ozonskiktet.             och om upphävande av förordning (EG) nr
@@ -2813,34 +2813,34 @@ Nuvarande lydelse        Föreslagen lydelse
 
 I 20–35 §§ fördelas ansvaret för tillsynen enligt miljöbalken, kontrollen enligt förordning (EU)
 2017/625 och kontrollen enligt förordning (EU) 2019/1020 i fråga om
-1. miljöfarliga verksamheter enligt 9 kap. miljöbalken,
+1\. miljöfarliga verksamheter enligt 9 kap. miljöbalken,
 
-2. föroreningsskador och miljöskador enligt 10 kap. miljöbalken,
-3. vattenverksamheter enligt 11 kap. miljöbalken,
-4. jordbruk och andra verksamheter enligt 12 kap. 10 § miljöbalken,
-5. kemiska produkter, biotekniska organismer och varor enligt 14 kap. miljöbalken samt
+2\. föroreningsskador och miljöskador enligt 10 kap. miljöbalken,
+3\. vattenverksamheter enligt 11 kap. miljöbalken,
+4\. jordbruk och andra verksamheter enligt 12 kap. 10 § miljöbalken,
+5\. kemiska produkter, biotekniska organismer och varor enligt 14 kap. miljöbalken samt
 utrustning avsedd för hantering av växtskyddsmedel,
-6. avfall och avfallsförebyggande åtgärder enligt 15 kap. miljöbalken,
-7. Europaparlamentets och rådets förordning (EG) nr 648/2004 av den 31 mars 2004 om
+6\. avfall och avfallsförebyggande åtgärder enligt 15 kap. miljöbalken,
+7\. Europaparlamentets och rådets förordning (EG) nr 648/2004 av den 31 mars 2004 om
 tvätt- och rengöringsmedel,
-8. Europaparlamentets och rådets förordning (EU) 2019/1021 av den 20 juni 2019 om
+8\. Europaparlamentets och rådets förordning (EU) 2019/1021 av den 20 juni 2019 om
 
 långlivade organiska föroreningar,
-9. Europaparlamentets och rådets 9. Europaparlamentets och rådets
+9\. Europaparlamentets och rådets 9. Europaparlamentets och rådets
 förordning (EU) nr 517/2014 av den 16 april förordning (EU) 2024/573 av den 7 februari
 2014 om fluorerade växthusgaser och om upphävande 2024 om fluorerade växthusgaser, om ändring av
 av förordning (EG) nr 842/2006, direktiv (EU) 2019/1937 och om upphävande av
 förordning (EU) nr 517/2014,
 
-10. Europaparlamentets och rådets förordning (EG) nr 1013/2006 av den 14 juni 2006 om
+10\. Europaparlamentets och rådets förordning (EG) nr 1013/2006 av den 14 juni 2006 om
 transport av avfall,
-11. Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18 december 2006
+11\. Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18 december 2006
 om registrering, utvärdering, godkännande och begränsning av kemikalier (Reach), inrättande
 av en europeisk kemikaliemyndighet, ändring av direktiv 1999/45/EG och upphävande av
 rådets förordning (EEG) nr 793/93 och kommissionens förordning (EG) nr 1488/94 samt
 rådets direktiv 76/769/EEG och kommissionens direktiv 91/155/EEG, 93/67/EEG,
 93/105/EG och 2000/21/EG,
-12. Europaparlamentets och rådets förordning (EG) nr 1272/2008 av den 16 december 2008
+12\. Europaparlamentets och rådets förordning (EG) nr 1272/2008 av den 16 december 2008
 om klassificering, märkning och förpackning av ämnen och blandningar, ändring och
 upphävande av direktiven 67/548/EEG och 1999/45/EG samt ändring av förordning (EG)
 nr 1907/2006,
@@ -2851,30 +2851,30 @@ nr 1907/2006,
 
 NATURVÅRDSVERKET
 
-13. Europaparlamentets och rådets 13. Europaparlamentets och rådets
+13\. Europaparlamentets och rådets 13. Europaparlamentets och rådets
 förordning (EG) nr 1005/2009 av den 16 förordning (EU) 2024/590 av den 7 februari
 september 2009 om ämnen som bryter ned 2024 om ämnen som bryter ned ozonskiktet och om
 ozonskiktet,             upphävande av förordning (EG) nr 1005/2009,
-14. Europaparlamentets och rådets förordning (EG) nr 1107/2009 av den 21 oktober 2009
+14\. Europaparlamentets och rådets förordning (EG) nr 1107/2009 av den 21 oktober 2009
 om utsläppande av växtskyddsmedel på marknaden och om upphävande av rådets direktiv
 79/117/EEG och 91/414/EEG,
-15. förordning (EG) nr 1223/2009,
-16. Europaparlamentets och rådets förordning (EU) nr 528/2012 av den 22 maj 2012 om
+15\. förordning (EG) nr 1223/2009,
+16\. Europaparlamentets och rådets förordning (EU) nr 528/2012 av den 22 maj 2012 om
 tillhandahållande på marknaden och användning av biocidprodukter,
-17. Europaparlamentets och rådets förordning (EU) nr 649/2012 av den 4 juli 2012 om
+17\. Europaparlamentets och rådets förordning (EU) nr 649/2012 av den 4 juli 2012 om
 export och import av farliga kemikalier,
-18. Europaparlamentets och rådets förordning (EU) nr 1257/2013 av den 20 november 2013
+18\. Europaparlamentets och rådets förordning (EU) nr 1257/2013 av den 20 november 2013
 om återvinning av fartyg och om ändring av förordning (EG) nr 1013/2006 och direktiv
 2009/16/EG,
-19. Europaparlamentets och rådets förordning (EU) 2017/852 av den 17 maj 2017 om
+19\. Europaparlamentets och rådets förordning (EU) 2017/852 av den 17 maj 2017 om
 kvicksilver och om upphävande av förordning (EG) nr 1102/2008, och
-20. Europaparlamentets och rådets förordning (EU) 2023/1542 av den 12 juli 2023 om
+20\. Europaparlamentets och rådets förordning (EU) 2023/1542 av den 12 juli 2023 om
 batterier och förbrukade batterier, om ändring av direktiv 2008/98/EG och förordning (EU)
 2019/1020 och om upphävande av direktiv 2006/66/EG.
 27 §
 
 Transportstyrelsen
-1. har ansvar för tillsynen enligt miljöbalken i fråga om
+1\. har ansvar för tillsynen enligt miljöbalken i fråga om
 a. användningen av marina bränslen i fartyg enligt svavelförordningen (2014:509),
 
 b. utrustning i fartyg som innehåller b. utrustning i fartyg, luftfartyg och tåg som
@@ -2883,7 +2883,7 @@ kontrollerade ämnen enligt förordning (EU) nr innehåller kontrollerade ämnen
 och                      (EU) 2024/590, och
 c. de skyldigheter i fråga om fartyg som följer av artiklarna 4–12 i förordning (EU) nr
 1257/2013, och
-2. är marknadskontrollmyndighet och utövar 2. är marknadskontrollmyndighet och utövar
+2\. är marknadskontrollmyndighet och utövar 2. är marknadskontrollmyndighet och utövar
 kontroll enligt förordning (EU) 2019/1020 kontroll enligt förordning (EU) 2019/1020
 över att produkter överensstämmer med över att produkter överensstämmer med
 kraven i förordning (EU) nr 517/2014 eller kraven i förordning (EU) 2024/573 eller
@@ -2894,12 +2894,12 @@ kontrollerade ämnen.     innehåller kontrollerade ämnen.
 31 §
 Den kommunala nämnden har, utöver det som följer av 26 kap. 3 § tredje stycket miljöbalken,
 ansvar för tillsynen i fråga om
-1. tillståndspliktiga miljöfarliga verksamheter enligt 9 kap. miljöbalken, som inte särskilt anges
+1\. tillståndspliktiga miljöfarliga verksamheter enligt 9 kap. miljöbalken, som inte särskilt anges
 i miljöprövningsförordningen (2013:251) eller bilagan till förordningen (1998:899) om
 miljöfarlig verksamhet och hälsoskydd,
-2. vattentäkter som omfattas av tillståndsplikt som kommunen har föreskrivit enligt 9 kap.
+2\. vattentäkter som omfattas av tillståndsplikt som kommunen har föreskrivit enligt 9 kap.
 10 § miljöbalken,
-3. föroreningsskador som inte omfattas av länsstyrelsens ansvar enligt 29 § första stycket 3,
+3\. föroreningsskador som inte omfattas av länsstyrelsens ansvar enligt 29 § första stycket 3,
 
 15
 
@@ -2907,18 +2907,18 @@ miljöfarlig verksamhet och hälsoskydd,
 
 NATURVÅRDSVERKET
 
-4. andra miljöskador enligt 10 kap. 1 § miljöbalken, om skadorna har orsakats av en
+4\. andra miljöskador enligt 10 kap. 1 § miljöbalken, om skadorna har orsakats av en
 verksamhet eller åtgärd som den kommunala nämnden har tillsynsansvaret för,
-5. hantering av kemiska produkter, biotekniska organismer och varor i andra verksamheter
+5\. hantering av kemiska produkter, biotekniska organismer och varor i andra verksamheter
 än miljöfarliga verksamheter enligt 9 kap. miljöbalken, utom den tillsyn över
 primärleverantörers utsläppande på marknaden som Kemikalieinspektionen utövar enligt 21 §
 första stycket 1 a,
-6. utrustning i motorfordon, flyg och tåg som 6. utrustning i motorfordon som innehåller
+6\. utrustning i motorfordon, flyg och tåg som 6. utrustning i motorfordon som innehåller
 innehåller kontrollerade ämnen enligt förordning kontrollerade ämnen enligt förordning (EU)
 (EU) nr 517/2014 eller förordning (EG) nr 2024/573 eller förordning (EU) 2024/590, och
 1005/2009, och
 
-7. hur 17–22 och 28 §§ förordningen (2021:996) om engångsprodukter uppfylls lokalt.
+7\. hur 17–22 och 28 §§ förordningen (2021:996) om engångsprodukter uppfylls lokalt.
 32 e §
 Inspektionen för vård och omsorg har ansvar för
 tillsynen i fråga om användning av desfluran som
@@ -2944,19 +2944,19 @@ detta kapitel
 1 §
 Detta kapitel reglerar miljösanktionsavgifter för
 överträdelser av
-1. Europaparlamentets och rådets förordning
+1\. Europaparlamentets och rådets förordning
 (EU) 2024/573 av den 7 februari 2024 om
 fluorerade växthusgaser, om ändring av direktiv
 (EU) 2019/1937 och om upphävande av
 förordning (EU) nr 517/2014,
-2. Europaparlamentets och rådets förordning (EU)
+2\. Europaparlamentets och rådets förordning (EU)
 2024/590 av den 7 februari 2024 om ämnen som
 bryter ned ozonskiktet,
-3. förordningen (2016:1128) om fluorerade
+3\. förordningen (2016:1128) om fluorerade
 växthusgaser,
-4. förordningen (2016:1129) om ozonnedbrytande
+4\. förordningen (2016:1129) om ozonnedbrytande
 ämnen, och
-5. förordningen (1998:899) om miljöfarlig
+5\. förordningen (1998:899) om miljöfarlig
 verksamhet och hälsoskydd.
 Avgiften för överträdelse av förordning enligt första
 stycket 1 och 2 utgörs av ett belopp som beräknas i
@@ -3120,10 +3120,10 @@ För en överträdelse av 17 eller 18 § förordningen
 (2016:1128) om fluorerade växthusgaser genom att
 inte uppfylla föreskrivna krav på certifiering ska en
 miljösanktionsavgift betalas
-1. med 3 000 kronor, om den som är skyldig att
+1\. med 3 000 kronor, om den som är skyldig att
 betala avgiften är en fysisk person eller en ideell
 förening, och
-2. med 10 000 kronor, om den som är skyldig att
+2\. med 10 000 kronor, om den som är skyldig att
 betala avgiften är en juridisk person som inte är en
 ideell förening.
 Förordningen om ozonnedbrytande
@@ -3147,8 +3147,8 @@ Att bestämma sanktion
 När miljösanktionsavgiftens storlek ska fastställas
 för överträdelse av 2–18 §§, ska särskild hänsyn tas
 till
-1. överträdelsens art och allvarlighetsgrad,
-2. överträdelsens påverkan på den befolkning eller
+1\. överträdelsens art och allvarlighetsgrad,
+2\. överträdelsens påverkan på den befolkning eller
 miljö som påverkas av den,
 19
 
@@ -3156,10 +3156,10 @@ miljö som påverkas av den,
 
 NATURVÅRDSVERKET
 
-3. eventuella tidigare överträdelser av förordning
+3\. eventuella tidigare överträdelser av förordning
 (EU) 2024/573 eller EU (2024/590) som
 företaget gjort sig skyldigt till,
-4. och företagets ekonomiska situation.
+4\. och företagets ekonomiska situation.
 27 §
 Utöver det som anges i 26 § ska
 miljösanktionsavgiften stå i proportion till
@@ -3175,9 +3175,9 @@ användning av fluorerade växthusgaser, eller
 produkter och utrustning som innehåller dessa gaser
 eller vars funktion är beroende av dessa gaser, ska
 miljösanktionsavgiften som högst fastställas till
-1. minst fem gånger marknadsvärdet av berörda
+1\. minst fem gånger marknadsvärdet av berörda
 gaser eller produkter och utrustning,
-2. minst åtta gånger marknadsvärdet av berörda
+2\. minst åtta gånger marknadsvärdet av berörda
 gaser eller produkter och utrustning om det sker
 upprepade sådana överträdelser inom en
 femårsperiod.
@@ -3338,10 +3338,10 @@ En underrättelse ska lämnas i så god tid att samråd om åtgärdens utformnin
 miljöpåverkan kan hållas med tillsynsmyndigheten.
 
 Första stycket gäller inte
-1. för en installation eller en konvertering till följd av ett oförutsett haveri om omedelbara
+1\. för en installation eller en konvertering till följd av ett oförutsett haveri om omedelbara
 åtgärder krävs för att undvika olägenhet för människors hälsa eller miljön eller betydande
 ekonomisk skada, eller
-2. om valet av utrustning och köldmedium behandlas inom ramen för en ansökan om tillstånd
+2\. om valet av utrustning och köldmedium behandlas inom ramen för en ansökan om tillstånd
 eller en anmälan enligt 9 kap. miljöbalken.
 15 §
 Den som är operatör ska lämna en rapport till Den som är operatör för en utrustning eller
@@ -3359,9 +3359,9 @@ utrustning och anläggning som omfattas av krav på
 läckagekontroll enligt 11 § eller enligt artikel 4.5
 andra stycket och 5.1, 5.2, 5.3 och 5.6, och under
 någon del av ett kalenderår innehåller
-1. minst 14 ton koldioxidekvivalenter för ämnen i
+1\. minst 14 ton koldioxidekvivalenter för ämnen i
 bilaga I, eller
-2. mer än 3 kg av ämnen i avsnitt 1 i bilaga II i
+2\. mer än 3 kg av ämnen i avsnitt 1 i bilaga II i
 EU-förordningen om f-gaser.
 Rapporteringskravet enligt första stycket gäller inte
 brandskyddsutrustning, organiska rankinecykler och
@@ -3371,11 +3371,11 @@ Rapporten ska lämnas in senast den 31 mars året efter kalenderåret och vara u
 operatören eller försedd med dennes elektroniska underskrift.
 
 Rapporten ska innehålla  Rapporten ska innehålla
-1. resultatet av de läckagekontroller som 1. datum för och resultatet av de
+1\. resultatet av de läckagekontroller som 1. datum för och resultatet av de
 gjorts under kalenderåret, läckagekontroller som gjorts under
-2. information om utrustning som skrotats kalenderåret,
+2\. information om utrustning som skrotats kalenderåret,
 under kalenderåret,       2. information om utrustning som skrotats
-3. de uppgifter som anges i artikel 6.1 i under kalenderåret,
+3\. de uppgifter som anges i artikel 6.1 i under kalenderåret,
 förordningen om f-gaser,
 
 23
@@ -3384,15 +3384,15 @@ förordningen om f-gaser,
 
 NATURVÅRDSVERKET
 
-4. operatörens organisationsnummer, 3. de uppgifter som anges i artikel 7.1 i
+4\. operatörens organisationsnummer, 3. de uppgifter som anges i artikel 7.1 i
 postadress och faktureringsadress, förordningen om f-gaser,
-5. adress till och fastighetsbeteckning på den 4. operatörens organisationsnummer,
+5\. adress till och fastighetsbeteckning på den 4. operatörens organisationsnummer,
 fastighet där utrustningen finns, om postadress och faktureringsadress,
 utrustningen är stationär, 5. adress till och fastighetsbeteckning på den
-6. en förteckning över utrustningen, och fastighet där utrustningen finns, om
-7. i fråga om utrustning på ett fartyg, utrustningen är stationär,
+6\. en förteckning över utrustningen, och fastighet där utrustningen finns, om
+7\. i fråga om utrustning på ett fartyg, utrustningen är stationär,
 fartygets namn, signalbokstäver eller liknande. 6. en förteckning över utrustningen, och
-7. i fråga om utrustning på ett fartyg,
+7\. i fråga om utrustning på ett fartyg,
 fartygets namn, signalbokstäver eller liknande.
 Behörig myndighet   Myndigheter med uppgifter enligt f-
 gasförordningen
@@ -3577,11 +3577,11 @@ avfallet i enlighet med bestämmelserna i förordning
 13 §
 
 Naturvårdsverket får meddela föreskrifter om undantag från kraven på
-1. utsortering i 1, 4 och 10 §§ och 12 § första stycket,
-2. att skilja förpackningarna från deras innehåll i 4 a §,
-3. separat insamling i 1 a och 4 g §§,
-4. fastighetsnära insamling i 1 b §, och
-5. skild förvaring i 12 § första stycket.
+1\. utsortering i 1, 4 och 10 §§ och 12 § första stycket,
+2\. att skilja förpackningarna från deras innehåll i 4 a §,
+3\. separat insamling i 1 a och 4 g §§,
+4\. fastighetsnära insamling i 1 b §, och
+5\. skild förvaring i 12 § första stycket.
 Sådana föreskrifter får endast avse avfall där Sådana föreskrifter får endast avse avfall där
 hanteringen annars inte är genomförbar eller hanteringen annars inte är genomförbar eller
 inte ger fördelar som överväger nackdelarna inte ger fördelar som överväger nackdelarna
@@ -3599,10 +3599,10 @@ Naturvårdsverket får
 
 NATURVÅRDSVERKET
 
-1. meddela föreskrifter om sådan yrkesmässig verksamhet som syftar till att genom
+1\. meddela föreskrifter om sådan yrkesmässig verksamhet som syftar till att genom
 demontering, sortering eller andra behandlingsåtgärder säkerställa att elavfall kan behandlas på
 ett sätt som är lämpligt från hälso- och miljösynpunkt, och
-2. i fråga om behandling av elavfall, 2. i fråga om behandling av elavfall, meddela
+2\. i fråga om behandling av elavfall, 2. i fråga om behandling av elavfall, meddela
 meddela de föreskrifter som behövs till följd de föreskrifter som behövs till följd av bilaga
 av bilaga VII till direktiv 2012/19/EU. VII till direktiv 2012/19/EU samt artikel 9 och
 bilagorna I och II till förordning (EU) 2024/573 om
@@ -3633,12 +3633,12 @@ krav på kunskap och utbildning avseende
 återvinningsanläggningar enligt 4 a § andra stycket.
 Naturvårdsverket får meddela ytterligare föreskrifter
 om
-1. den certifiering och utbildning som personer ska
+1\. den certifiering och utbildning som personer ska
 ha som destruerar eller återvinner fluorerade
 växthusgaser från utrustning och vissa material, i
 enlighet med artikel 10 förordning 2024/573/EU,
 och
-2. de kvalifikationer som personer ska ha som
+2\. de kvalifikationer som personer ska ha som
 destruerar eller återvinner ozonnedbrytande ämnen, i
 enlighet med artikel 20 i förordning 2024/590/EU.
 
@@ -3705,9 +3705,9 @@ NATURVÅRDSVERKET
 För en överträdelse av 7 § förordningen (2016:1128)
 om fluorerade växthusgaser genom att köpa fluorerad
 växthusgas ska en miljösanktionsavgift betalas
-1. med 3 000 kr, om den som är skyldig att betala
+1\. med 3 000 kr, om den som är skyldig att betala
 avgiften är en fysisk person eller en ideell förening, och
-2. med 5 000 kronor, om den som är skyldig att
+2\. med 5 000 kronor, om den som är skyldig att
 betala avgiften är en juridisk person som inte är en
 ideell förening.
 17 c §
@@ -3723,9 +3723,9 @@ förordningen (2016:1128) om fluorerade förordningen (2016:1128) om fluorerade
 växthusgaser genom att inte växthusgaser genom att inte
 uppfylla föreskrivna krav på certifiering inneha ett föreskrivet certifikat ska en
 ska en miljösanktionsavgift betalas miljösanktionsavgift betalas
-1. med 3 000 kronor, om den som är skyldig att betala avgiften är en
+1\. med 3 000 kronor, om den som är skyldig att betala avgiften är en
 fysisk person eller en ideell förening, och
-2. med 10 000 kronor, om den som är skyldig att betala avgiften är en
+2\. med 10 000 kronor, om den som är skyldig att betala avgiften är en
 juridisk person som inte är en ideell förening.
 1.2.2  Promemorians  förslag till förordning om ändring
 av förordningen (2016:1128) om fluorerade
@@ -3740,13 +3740,13 @@ Nuvarande lydelse        Föreslagen lydelse
 1 §
 
 Denna förordning är meddelad med stöd av
-- 14 kap. 8 § miljöbalken i fråga om 7–11, - 14 kap. 8 § miljöbalken i fråga om 7–11 a,
+\- 14 kap. 8 § miljöbalken i fråga om 7–11, - 14 kap. 8 § miljöbalken i fråga om 7–11 a,
 13–43 och 45 §§,         12 a–43 och 45 §§,
 
-- 15 kap. 6 § miljöbalken i fråga om 12 §, - 15 kap. 39 § miljöbalken i fråga om 12 §,
+\- 15 kap. 6 § miljöbalken i fråga om 12 §, - 15 kap. 39 § miljöbalken i fråga om 12 §,
 och                      och
 
--  8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+\-  8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
 
 2 De föreslagna lydelserna har i detta avsnitt uppdaterats i förhållande till Regeringskansliets PM på så
 sätt att hänvisningar till den upphävda förordningen (EU) 517/2014 har ersatts med motsvarande
@@ -3771,11 +3771,11 @@ kommissionens standard för bedömning av kommissionens standard för bedömning
 organ som certifierar personer (SS-EN organ som certifierar personer (SS-EN
 ISO/IEC 17024:2003)      ISO/IEC 17024:2012)
 
-1. är ackrediterad enligt Europaparlamentets och rådets förordning (EG) nr 765/2008 av den
+1\. är ackrediterad enligt Europaparlamentets och rådets förordning (EG) nr 765/2008 av den
 9 juli 2008 om krav för ackreditering och marknadskontroll i samband med saluföring av
 produkter och upphävande av förordning (EEG) nr 339/93 och lagen (2011:791) om
 ackreditering och teknisk kontroll, eller
-2. i ett annat land i Europeiska unionen eller Europeiska ekonomiska samarbetsområdet eller
+2\. i ett annat land i Europeiska unionen eller Europeiska ekonomiska samarbetsområdet eller
 i Turkiet är ett certifieringsorgan som
 a) har ackrediterats av ett a) har ackrediterats av ett
 ackrediteringsorgan som uppfyller kraven i ackrediteringsorgan som uppfyller kraven i
@@ -3801,11 +3801,11 @@ strid mot EU-förordningen om f-gaser.
 
 Det är förbjudet att leverera köldmedium till andra F-gas för användning i en verksamhet enligt 17 eller
 mottagare än             18 § får endast säljas till och köpas av företag som
-1. den som enligt denna förordning får fylla på f-gaser har
+1\. den som enligt denna förordning får fylla på f-gaser har
 i kyl-, luftkonditionerings- och värmepumpsutrustning, 1. ett certifikat enligt kraven i artikel 6 i
-2. den som tillverkar kyl-, luftkonditionerings- och genomförandeförordningen om certifiering för kyl- och
+2\. den som tillverkar kyl-, luftkonditionerings- och genomförandeförordningen om certifiering för kyl- och
 värmepumpsutrustning som innehåller f-gaser, och värmeutrustning,
-3. den som bedriver verksamhet för rening eller 2. en anställd som har ett certifikat enligt kraven i
+3\. den som bedriver verksamhet för rening eller 2. en anställd som har ett certifikat enligt kraven i
 destruktion av f-gaser.  artiklarna 3 och 4 i genomförandeförordningen om
 certifiering för kyl- och värmeutrustning, eller
 
@@ -3815,7 +3815,7 @@ certifiering för kyl- och värmeutrustning, eller
 
 NATURVÅRDSVERKET
 
-3. en anställd som har ett intyg enligt
+3\. en anställd som har ett intyg enligt
 bestämmelserna i EU-förordningen om utbildning för
 luftkonditionering i motorfordon.
 Trots första stycket får köldmedium som är avsett för
@@ -3843,12 +3843,12 @@ dokumentera det bevis för att installationen kommer
 att utföras av ett certifierat företag som krävs enligt
 artikel 11.74 i EU-förordningen om f-gaser.
 Dokumentationen ska innehålla
-1. köparens namn,
-2. installationsadress,
-3. datum för försäljningen,
-4.  installationsföretagets namn och
+1\. köparens namn,
+2\. installationsadress,
+3\. datum för försäljningen,
+4\.  installationsföretagets namn och
 certifieringsnummer, och
-5. ett skriftligt åtagande av installationsföretaget om
+5\. ett skriftligt åtagande av installationsföretaget om
 att utföra installationen, eller en kopia av ett sådant.
 
 Dokumentationen ska sparas i minst fem år och
@@ -3938,10 +3938,10 @@ luftkonditioneringsutrustning i fordon är det luftkonditioneringsutrustning i f
 trots 18 § tillräckligt att innehåller mindre än 20 ton koldioxidekvivalenter för
 ämnen i bilaga I eller 4 kg av ämnen i bilaga II7, är
 det trots 17 § tillräckligt att
-1. certifieringen avser de minimikrav på färdigheter och kunskaper enligt kategori I och II i
+1\. certifieringen avser de minimikrav på färdigheter och kunskaper enligt kategori I och II i
 bilaga I till genomförandeförordningen om certifiering för kyl- och värmeutrustning som är
 relevanta för arbetet, eller
-2. arbetet leds av någon som är certifierad 2. i fråga om utrustning som innehåller mindre än 5
+2\. arbetet leds av någon som är certifierad 2. i fråga om utrustning som innehåller mindre än 5
 och det finns tillgång till nödvändiga verktyg ton koldioxidekvivalenter köldmedier,
 och rutiner, om utrustningen innehåller mindre än 5 a) arbetet leds av någon som är certifierad enligt
 ton koldioxidekvivalenter köldmedier. kraven i artiklarna 3 och 4 i genomförande-
@@ -3961,7 +3961,7 @@ utfärdat av ett certifieringsorgan som är innehåller f-gas ska vara utfärdat
 ackrediterat för de uppgifter som certifikatet certifieringsorgan som
 gäller och har sin certifieringsverksamhet 1. är ackrediterat för de uppgifter som
 anmäld hos Naturvårdsverket. certifikatet gäller, och
-2. har anmält sin certifieringsverksamhet hos
+2\. har anmält sin certifieringsverksamhet hos
 Naturvårdsverket.
 23 §
 
@@ -3969,7 +3969,7 @@ Ett personalcertifikat enligt artikel 4 i
 genomförandeförordningen om certifiering för kyl- och
 värmeutrustning ska vara utfärdat av någon enligt 22
 § som har
-1. rutiner för att fortlöpande bevaka att
+1\. rutiner för att fortlöpande bevaka att
 förutsättningarna för certifikatet är uppfyllda och vidta
 åtgärder enligt artikel 7 i genomförandeförordningen,
 och
@@ -3985,7 +3985,7 @@ artikel 5.1 nämnda förordning.
 
 NATURVÅRDSVERKET
 
-2. utsett ett sådant bedömningsorgan som avses i
+2\. utsett ett sådant bedömningsorgan som avses i
 artiklarna 4.1 och 4.4 i genomförandeförordningen för
 den kompetens som certifikatet gäller.
 24 §
@@ -3994,11 +3994,11 @@ Ett företagscertifikat enligt artikel 6 i
 genomförandeförordningen om certifiering för kyl- och
 värmeutrustning ska vara utfärdat av någon enligt 22
 § som har
-1. rutiner för att fortlöpande bevaka att
+1\. rutiner för att fortlöpande bevaka att
 förutsättningarna för certifikatet är uppfyllda och
 vidta åtgärder enligt artikel 7 i
 genomförandeförordningen, och
-2. utsett ett sådant bedömningsorgan som avses i
+2\. utsett ett sådant bedömningsorgan som avses i
 artikel 8 i genomförandeförordningen för den
 kompetens som certifikatet gäller.
 25 §
@@ -4006,11 +4006,11 @@ Ett personalcertifikat enligt artikel 5 och ett
 företagscertifikat enligt artikel 8 i EU-förordningen
 om certifiering för brandskyddssystem ska vara
 utfärdat av någon enligt 22 § som har
-1. rutiner för att fortlöpande bevaka att
+1\. rutiner för att fortlöpande bevaka att
 förutsättningarna för certifikatet är uppfyllda och
 vidta åtgärder enligt artikel 10 i EU-förordningen,
 och
-2. utsett ett sådant utvärderingsorgan som avses i
+2\. utsett ett sådant utvärderingsorgan som avses i
 artiklarna 5.1 och 5.4 i EU-förordningen för den
 kompetens som certifikatet gäller.
 
@@ -4020,12 +4020,12 @@ som  avses i  artikel 3 i genomförandeförordningen om certifiering
 genomförandeförordningen om certifiering för elektriska brytare får trots 22 § 1 utfärdas av
 för elektriska brytare ska vara utfärdat av någon någon som får utfärda personalcertifikat enligt artikel
 enligt 22 § som          4 i genomförandeförordningen om certifiering för kyl-
-1. uppfyller kraven på opartiskhet i artikel 4.1 i och värmeutrustning.
+1\. uppfyller kraven på opartiskhet i artikel 4.1 i och värmeutrustning.
 genomförandeförordningen,
-2. har kontrollerat att de förutsättningar som anges Certifieringsorganet ska utse det bedömningsorgan
+2\. har kontrollerat att de förutsättningar som anges Certifieringsorganet ska utse det bedömningsorgan
 i artikel 3 i genomförandeförordningen är uppfyllda, som ska anordna prov för certifieringen.
 och
-3. har rutiner för att fortlöpande bevaka att
+3\. har rutiner för att fortlöpande bevaka att
 förutsättningarna för certifikatet är uppfyllda och vidta
 åtgärder enligt artikel 4.2 i genomförandeförordningen.
 27 §
@@ -4066,7 +4066,7 @@ c) enligt de krav som avses i 19 § första stycket 1,
 eller
 d) enligt artikel 5 i EU-förordningen om certifiering
 för brandskyddssystem, och
-2. har anmält sin intygsverksamhet hos
+2\. har anmält sin intygsverksamhet hos
 Naturvårdsverket.
 30 §
 
@@ -4100,10 +4100,10 @@ NATURVÅRDSVERKET
 
 Bestämmelserna i 22–30 §§ gäller inte om Bestämmelserna i 22–29 §§ gäller inte om
 certifikatet eller intyget certifikatet eller intyget
-1. har utfärdats i ett annat land i Europeiska unionen eller Europeiska ekonomiska
+1\. har utfärdats i ett annat land i Europeiska unionen eller Europeiska ekonomiska
 samarbetsområdet och enligt det landets bestämmelser uppfyller kraven i de angivna EU-
 förordningarna eller genomförandeförordningarna, och
-2. visas upp i översättning till svenska.
+2\. visas upp i översättning till svenska.
 
 43 §
 Kravet på drift- och skötselinstruktioner i 8 § Kravet på drift- och skötselinstruktioner i 8 §
@@ -4132,12 +4132,12 @@ Härigenom föreskrivs att 1, 7 och 10 §§ förordningen (2016:1129) om ozonned
 Nuvarande lydelse         Föreslagen lydelse
 
 1 §
-- 14 kap. 8 § miljöbalken i fråga om 7–11, - 14 kap. 8 § miljöbalken i fråga om 7–11 a,
+\- 14 kap. 8 § miljöbalken i fråga om 7–11, - 14 kap. 8 § miljöbalken i fråga om 7–11 a,
 13–43 och 45 §§,          12 a–43 och 45 §§,
-- 15 kap. 6 § miljöbalken i fråga om 12 §, - 15 kap. 39 § miljöbalken i fråga om 12 §,
+\- 15 kap. 6 § miljöbalken i fråga om 12 §, - 15 kap. 39 § miljöbalken i fråga om 12 §,
 och                       och
 
-- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+\- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
 7 §
 Det är förbjudet att leverera köldmedier som Det är förbjudet att lämna köldmedier som
 utgörs av CFC, övrig CFC eller HCFC till utgörs av CFC, övrig CFC eller HCFC till
@@ -4149,9 +4149,9 @@ köldmedier.
 Haloner får trots 7 § användas i eller vid Haloner får trots 6 § användas i eller vid
 installation av brandsläckningsanordningar installation av brandsläckningsanordningar
 som är placerade i        som är placerade i
-1. militära luftfartyg eller ubåtar, eller 1. luftfartyg eller ubåtar, eller
+1\. militära luftfartyg eller ubåtar, eller 1. luftfartyg eller ubåtar, eller
 
-2. militära fordon eller sådana stridsledningscentraler som finns i fartyg eller under jord,
+2\. militära fordon eller sådana stridsledningscentraler som finns i fartyg eller under jord,
 om halonerna inte kan ersättas med något annat ämne eller ny teknik.
 För användning av haloner enligt första stycket finns det bestämmelser om särskilda
 avslutnings- och slutdatum i EU-förordningen om ozonnedbrytande ämnen.
@@ -4162,7 +4162,7 @@ avslutnings- och slutdatum i EU-förordningen om ozonnedbrytande ämnen.
 
 NATURVÅRDSVERKET
 
-2.     Inledning
+2\.     Inledning
 
 2.1    Uppdraget
 
@@ -4357,7 +4357,7 @@ underlag till Regeringskansliet.
 
 NATURVÅRDSVERKET
 
-3.     Bakgrund
+3\.     Bakgrund
 
 I detta kapitel ges en övergripande beskrivning av användningen av ämnen som
 
@@ -4380,7 +4380,7 @@ växthusgasutsläpp.12 Användningen av köldmedier inom kommersiell kylning och
 
 luftkonditionering orsakade högst utsläpp.
 Utsläppstrenden för f-gaser i Sverige har varit ökande från 1990-talet och fram till
-2006. Efter införandet av EU-regler som begränsade användningen av f-gaser har
+2006\. Efter införandet av EU-regler som begränsade användningen av f-gaser har
 utsläppen visat en nedgående trend.
 
 3.1.1  Användningsområden  och miljöproblemet
@@ -4479,7 +4479,7 @@ koldioxidekvivalenter (kton CO2ekv) uppdelat på användningsområden
 Källa: Uppgifter baserat på Sveriges klimatrapportering för utsläppsår 2022.
 
 Utsläppen från HFC, PFC respektive SF6 har förändrats en hel del över tid, se figur
-2. HFC började användas under 1990-talet och ökade stadigt fram till och med
+2\. HFC började användas under 1990-talet och ökade stadigt fram till och med
 2008 med anledning av att Montrealprotokollets ikraftträdande 1989, vilket innebar
 en utfasning av ozonnedbrytande ämnen. Ozonnedbrytande ämnen (CFC och
 HCFC) ersattes med HFC-gaser. Det ökade antalet värmepumpar, kylsystem och
@@ -4693,8 +4693,8 @@ I EU:s nya f-gasförordning bibehålls kontrollsystemen från den upphävda f-
 gasförordningen. Till kontrollsystemen hör bestämmelser om begränsning,
 användning, återvinning och destruktion av fluorerade växthusgaser i form av
 
-- krav på certifiering och utbildning,
-- villkor för särskild användning av dessa gaser,
+\- krav på certifiering och utbildning,
+\- villkor för särskild användning av dessa gaser,
 
 49
 
@@ -4702,10 +4702,10 @@ användning, återvinning och destruktion av fluorerade växthusgaser i form av
 
 NATURVÅRDSVERKET
 
-- villkor för utsläppande på marknaden av särskilda produkter och utrustning
+\- villkor för utsläppande på marknaden av särskilda produkter och utrustning
 som innehåller, eller vilkas funktion kräver, fluorerade växthusgaser,
-- kvantitativa begränsningar för utsläppande på marknaden av fluorkolväten och
-- regler för rapportering.
+\- kvantitativa begränsningar för utsläppande på marknaden av fluorkolväten och
+\- regler för rapportering.
 
 Skärpta krav i den nya f-gasförordningen
 EU har i nya EU-förordningen höjt ambitionsnivån avsevärt från en stegvis
@@ -4838,7 +4838,7 @@ fartyg.
 
 NATURVÅRDSVERKET
 
-4.     Förslag        till  ändringar         av
+4\.     Förslag        till  ändringar         av
 
 miljöbalken
 
@@ -5395,7 +5395,7 @@ sanktionsavgifter.
 
 NATURVÅRDSVERKET
 
-5.     Förslag        till  ändringar         av
+5\.     Förslag        till  ändringar         av
 
 förordningar            under
 
@@ -7315,7 +7315,7 @@ följd av Sveriges medlemskap i Europeiska unionen (15 kap. 40 § 1).
 
 NATURVÅRDSVERKET
 
-6.     Förslag        till  ändringar         av
+6\.     Förslag        till  ändringar         av
 
 förordningar            utanför
 
@@ -7380,7 +7380,7 @@ läggas till som behöriga myndigheter på området miljöskydd.
 
 NATURVÅRDSVERKET
 
-7.     Regelförenklande
+7\.     Regelförenklande
 
 förslag
 
@@ -7466,14 +7466,14 @@ promemorian.
 7.2.1  Ändring av förordningen om
 miljösanktionsavgifter
 
-- Ny beteckning av bestämmelse (9 kap. 17 b §)
-- En miljösanktionsavgift ska införas för överträdelse av begränsningar när det
+\- Ny beteckning av bestämmelse (9 kap. 17 b §)
+\- En miljösanktionsavgift ska införas för överträdelse av begränsningar när det
 gäller rätten enligt f-gasförordningen att sälja och köpa f-gas (9 kap. 17 och nya
 17 a §§)
-- Miljösanktionsavgift införs för överträdelse av ett nytt krav på att läckage har
+\- Miljösanktionsavgift införs för överträdelse av ett nytt krav på att läckage har
 
 åtgärdats innan luftkonditioneringsutrustning i fordon fylls på (9 kap. 17 c §)
-- Redaktionell ändring i bestämmelse om sanktion för överträdelse av
+\- Redaktionell ändring i bestämmelse om sanktion för överträdelse av
 certifieringskrav (21 §)
 
 103
@@ -7485,40 +7485,40 @@ NATURVÅRDSVERKET
 7.2.2  Ändring av förordningen om fluorerade
 växthusgaser
 
-- Upplysning om bemyndigande justeras (1 §)
-- Ändrad hänvisning i bestämmelse med ordförklaringar (3 §)
-- Ett förbud mot leverans av köldmedium anpassas till EU-förordningen om f-
+\- Upplysning om bemyndigande justeras (1 §)
+\- Ändrad hänvisning i bestämmelse med ordförklaringar (3 §)
+\- Ett förbud mot leverans av köldmedium anpassas till EU-förordningen om f-
 gaser (6 och 7 §§)
--  Servicetekniker ska se till att läckage har åtgärdats innan
+\-  Servicetekniker ska se till att läckage har åtgärdats innan
 luftkonditioneringsutrustning i fordon fylls på (nya 11 a §)34
 
--  Dokumentation av bevis för att installation kommer att utföras av ett certifierat
+\-  Dokumentation av bevis för att installation kommer att utföras av ett certifierat
 företag vid försäljning av icke-hermetiskt tillsluten utrustning till slutanvändare
 (nya 12 a §)35
--  Skyldighet för företag som tillhandahåller f-gaser avsedda för viss mobil
+\-  Skyldighet för företag som tillhandahåller f-gaser avsedda för viss mobil
 utrustning att föra register förtydligas och flyttas till en separat bestämmelse (13
 § och nya 13 a)36
--  Bestämmelser om krav på certifikat som motsvarar krav i andra bestämmelser
+\-  Bestämmelser om krav på certifikat som motsvarar krav i andra bestämmelser
 tas bort (16 §)
--  Nationella krav på certifiering vid arbete med mobil f-gasutrustning förtydligas
+\-  Nationella krav på certifiering vid arbete med mobil f-gasutrustning förtydligas
 
 (17 §)
--  Krav på företag (18 §)
--  Kunskapskraven för arbete med luftkonditioneringsutrustning i fordon
+\-  Krav på företag (18 §)
+\-  Kunskapskraven för arbete med luftkonditioneringsutrustning i fordon
 förtydligas (19 § och nya 19 a §)37
--  Kravet på certifieringsorgan att vara ackrediterade förtydligas (22 §)
--  Upphörande av överflödiga bestämmelser och förtydligat ansvar för
+\-  Kravet på certifieringsorgan att vara ackrediterade förtydligas (22 §)
+\-  Upphörande av överflödiga bestämmelser och förtydligat ansvar för
 certifieringsorgan att utse bedömningsorgan (23–25 §§ som tas bort, nya 30 §
 samt ändrade hänvisningar i 26–27 §§)
--  Ytterligare certifieringsorgan för arbete med elektriska brytare utses och krav
+\-  Ytterligare certifieringsorgan för arbete med elektriska brytare utses och krav
 
 som dubblerar andra bestämmelser tas bort (26 §)
--  Ändrad hänvisning i bestämmelse om certifikats giltighetstid (28 §)
--  En bestämmelse om intyg förtydligas (29 §)
--  En överflödig bestämmelse om vem som får utfärda intyg om utbildning för
+\-  Ändrad hänvisning i bestämmelse om certifikats giltighetstid (28 §)
+\-  En bestämmelse om intyg förtydligas (29 §)
+\-  En överflödig bestämmelse om vem som får utfärda intyg om utbildning för
 luftkonditionering i motorfordon tas bort (30 §)
--  Ändrad hänvisning i bestämmelse om organ för ackreditering (31 §)
--  Ändrad hänvisning i bestämmelse om undantag för utländska certifikat och
+\-  Ändrad hänvisning i bestämmelse om organ för ackreditering (31 §)
+\-  Ändrad hänvisning i bestämmelse om undantag för utländska certifikat och
 intyg (34 §)
 
 34 Författningsförslaget har en uppdaterad hänvisning i förhållande till Regeringskansliets promemoria,
@@ -7538,16 +7538,16 @@ mängdgräns till i 19 §. Resonemanget om detta följer vad som anges i artikel
 
 NATURVÅRDSVERKET
 
--  Redaktionell ändring och ändrad hänvisning i undantag för drift- och
+\-  Redaktionell ändring och ändrad hänvisning i undantag för drift- och
 skötselinstruktioner (43 §)
 
 7.2.3  Ändring av förordningen om ozonnedbrytande
 ämnen
 
-- Upplysning om bemyndigande justeras (1 §)
-- En begränsning av rätten att lämna köldmedier till insamling eller bortskaffande
+\- Upplysning om bemyndigande justeras (1 §)
+\- En begränsning av rätten att lämna köldmedier till insamling eller bortskaffande
 förtydligas (7 §)
-- Haloner ska få användas i brandsläckare även i andra luftfartyg än militära (10
+\- Haloner ska få användas i brandsläckare även i andra luftfartyg än militära (10
 §)
 
 105
@@ -7556,7 +7556,7 @@ förtydligas (7 §)
 
 NATURVÅRDSVERKET
 
-8.     Kompletterande
+8\.     Kompletterande
 
 åtgärder
 
@@ -7690,7 +7690,7 @@ byggbestämmelser.
 
 NATURVÅRDSVERKET
 
-9.     Ytterligare,          möjliga
+9\.     Ytterligare,          möjliga
 
 åtgärder        som     kan
 
@@ -7946,7 +7946,7 @@ tillsyn, som även den kan initieras av informationsinsatser.
 
 NATURVÅRDSVERKET
 
-10.    Konsekvensutredning
+10\.    Konsekvensutredning
 
 Nedan beskrivs konsekvenser av Naturvårdsverkets författningsförslag i enlighet
 
@@ -8503,7 +8503,7 @@ enligt artikel 35 i f-gasförordningen och artikel 30 i ODS-förordningen.
 
 NATURVÅRDSVERKET
 
-11.    Källförteckning
+11\.    Källförteckning
 
 Arbetsmiljöverket (2024). Tillstånd, anmälan och blanketter för asbest,
 
@@ -8550,7 +8550,7 @@ anlaggning/?lan=0&underbransch=1.(c)&sid=478&limit=0-m, hämtad 2024-08-23.
 Naturvårdsverket med flera (2024). Delredovisning av regeringsuppdrag om att
 
 utveckla den myndighetsgemensamma satsningen mot avfallsbrottslighet. 2024-02-
-29. NV-06554-22.
+29\. NV-06554-22.
 
 124
 
@@ -8670,7 +8670,7 @@ som bryter ned ozonskiktet) föreslås förtydligas.
 
 <!-- sida 179 -->
 
-1. Författningsförslag
+1\. Författningsförslag
 
 1.1 Förslag till förordning om ändring i förordningen (2016:1128) om
 
@@ -8708,13 +8708,13 @@ standard för bedömning av över- standard för bedömning av över-
 ensstämmelse med allmänna krav ensstämmelse med allmänna krav
 på organ som certifierar personer på organ som certifierar personer
 (SS-EN ISO/IEC 17024:2003) (SS-EN ISO/IEC 17024:2012)
-1. är ackrediterad enligt Europaparlamentets och rådets förordning
+1\. är ackrediterad enligt Europaparlamentets och rådets förordning
 
 (EG) nr 765/2008 av den 9 juli 2008 om krav för ackreditering och
 marknadskontroll i samband med saluföring av produkter och upphäv-
 ande av förordning (EEG) nr 339/93 och lagen (2011:791) om ackredi-
 tering och teknisk kontroll, eller
-2. i ett annat land i Europeiska unionen eller Europeiska ekonomiska
+2\. i ett annat land i Europeiska unionen eller Europeiska ekonomiska
 samarbetsområdet eller i Turkiet är ett certifieringsorgan som
 
 3 (80)
@@ -8799,13 +8799,13 @@ EU-förordningen om f-gaser.
 
 Det är förbjudet att leverera köldmedium F-gas för användning i en verksamhet
 till andra mottagare än  enligt 17 eller 18 § får endast säljas till
-1. den som enligt denna förordning får och köpas av företag som har
+1\. den som enligt denna förordning får och köpas av företag som har
 fylla på f-gaser i kyl-, luftkonditionerings- 1. ett certifikat enligt kraven i artikel
 och värmepumpsutrustning, 6 i genomförandeförordningen om
-2. den som tillverkar kyl-, luftkondi- certifiering för kyl- och värmeutrustning,
+2\. den som tillverkar kyl-, luftkondi- certifiering för kyl- och värmeutrustning,
 tionerings- och värmepumpsutrustning som 2. en anställd som har ett certifikat
 innehåller f-gaser, och  enligt kraven i artiklarna 3 och 4 i
-3. den som bedriver verksamhet för genomförandeförordningen om certifiering
+3\. den som bedriver verksamhet för genomförandeförordningen om certifiering
 rening eller destruktion av f-gaser. för kyl- och värmeutrustning, eller
 Trots första stycket får köldmedium 3. en anställd som har ett intyg enligt
 
@@ -8879,13 +8879,13 @@ för att installationen kommer att utföras
 av ett certifierat företag som krävs enligt
 artikel 11.5 i EU-förordningen om
 f-gaser. Dokumentationen ska innehålla
-1. köparens namn,
-2. installationsadressen,
-3. datum för försäljningen,
-4. installationsföretagets namn och cer-
+1\. köparens namn,
+2\. installationsadressen,
+3\. datum för försäljningen,
+4\. installationsföretagets namn och cer-
 
 tifieringsnummer, och
-5. ett skriftligt åtagande av installa-
+5\. ett skriftligt åtagande av installa-
 tionsföretaget om att utföra installationen,
 eller en kopia av ett sådant.
 Dokumentationen ska sparas i minst
@@ -8935,19 +8935,19 @@ Rapporten ska lämnas in senast den 31 mars året efter kalenderåret och
 vara undertecknad av operatören eller försedd med dennes elektroniska
 underskrift.
 Rapporten ska innehålla  Rapporten ska innehålla
-1. resultatet av de      1. datum för och resultatet av de
+1\. resultatet av de      1. datum för och resultatet av de
 
 läckagekontroller som gjorts under läckagekontroller som gjorts under
 kalenderåret,            kalenderåret,
-2. information om utrustning som skrotats under kalenderåret,
-3. de uppgifter som anges i arti- 3. de uppgifter som anges i arti-
+2\. information om utrustning som skrotats under kalenderåret,
+3\. de uppgifter som anges i arti- 3. de uppgifter som anges i arti-
 kel 6.1 i förordningen om f-gaser, kel 6.1 i EU-förordningen om f-gaser,
-4. operatörens organisationsnummer, postadress och fakturerings-
+4\. operatörens organisationsnummer, postadress och fakturerings-
 adress,
-5. adress till och fastighetsbeteckning på den fastighet där utrustningen
+5\. adress till och fastighetsbeteckning på den fastighet där utrustningen
 finns, om utrustningen är stationär,
-6. en förteckning över utrustningen, och
-7. i fråga om utrustning på ett fartyg, fartygets namn, signalbokstäver
+6\. en förteckning över utrustningen, och
+7\. i fråga om utrustning på ett fartyg, fartygets namn, signalbokstäver
 eller liknande.
 
 16 §
@@ -9011,10 +9011,10 @@ håll av mobil luftkonditioneringsut- håll av luftkonditioneringsutrust-
 rustning i fordon är det trots 18 § ning i fordon som innehåller mindre än
 tillräckligt att         20 ton koldioxidekvivalenter f-gas, är det
 trots 17 § tillräckligt att
-1. certifieringen avser de minimikrav på färdigheter och kunskaper
+1\. certifieringen avser de minimikrav på färdigheter och kunskaper
 enligt kategori I och II i bilaga I till genomförandeförordningen om
 certifiering för kyl- och värmeutrustning som är relevanta för arbetet, eller
-2. arbetet leds av någon som är 2. i fråga om utrustning som innehål-
+2\. arbetet leds av någon som är 2. i fråga om utrustning som innehål-
 
 certifierad och det finns tillgång till ler mindre än 5 ton koldioxidekvivalenter
 nödvändiga verktyg och rutiner, om köldmedier,
@@ -9053,11 +9053,11 @@ Ett personalcertifikat enligt artikel 4 i
 genomförandeförordningen om certifiering
 för kyl- och värmeutrustning ska vara
 utfärdat av någon enligt 22 § som har
-1. rutiner för att fortlöpande bevaka
+1\. rutiner för att fortlöpande bevaka
 att förutsättningarna för certifikatet är
 uppfyllda och vidta åtgärder enligt artikel
 7 i genomförandeförordningen, och
-2. utsett ett sådant bedömningsorgan
+2\. utsett ett sådant bedömningsorgan
 som avses i artiklarna 4.1 och 4.4 i
 genomförandeförordningen för den
 
@@ -9069,11 +9069,11 @@ genomförandeförordningen om certifiering
 för kyl- och värmeutrustning ska vara
 
 utfärdat av någon enligt 22 § som har
-1. rutiner för att fortlöpande bevaka
+1\. rutiner för att fortlöpande bevaka
 att förutsättningarna för certifikatet är
 uppfyllda och vidta åtgärder enligt artikel
 7 i genomförandeförordningen, och
-2. utsett ett sådant bedömningsorgan
+2\. utsett ett sådant bedömningsorgan
 som avses i artikel 8 i
 genomförandeförordningen för den
 kompetens som certifikatet gäller.
@@ -9089,11 +9089,11 @@ ett företagscertifikat enligt artikel 8 i EU-
 förordningen om certifiering för brand-
 skyddssystem ska vara utfärdat av någon
 enligt 22 § som har
-1. rutiner för att fortlöpande bevaka
+1\. rutiner för att fortlöpande bevaka
 att förutsättningarna för certifikatet är
 uppfyllda och vidta åtgärder enligt artikel
 10 i EU-förordningen, och
-2. utsett ett sådant utvärderingsorgan
+2\. utsett ett sådant utvärderingsorgan
 som avses i artiklarna 5.1 och 5.4 i EU-
 förordningen för den kompetens som
 
@@ -9106,12 +9106,12 @@ i genomförandeförordningen om certifiering för elektriska brytare
 certifiering för elektriska brytare ska får trots 22 § 1 utfärdas av någon som
 
 vara utfärdat av någon enligt 22 § som får utfärda personalcertifikat enligt
-1. uppfyller kraven på opartiskhet i artikel 4 i genomförandeförordningen
+1\. uppfyller kraven på opartiskhet i artikel 4 i genomförandeförordningen
 artikel 4.1 i genomförandeförordningen, om certifiering för kyl- och värmeutrust-
-2. har kontrollerat att de förutsätt- ning.
+2\. har kontrollerat att de förutsätt- ning.
 ningar som anges i artikel 3 i genomför-
 andeförordningen är uppfyllda, och
-3. har rutiner för att fortlöpande
+3\. har rutiner för att fortlöpande
 bevaka att förutsättningarna för
 certifikatet är uppfyllda och vidta åtgärder
 enligt artikel 4.2 i
@@ -9165,7 +9165,7 @@ c) enligt de krav som avses i 19 §
 första stycket 1, eller
 d) enligt artikel 5 i EU-förordningen
 om certifiering för brandskyddssystem, och
-2. har anmält sin intygsverksamhet
+2\. har anmält sin intygsverksamhet
 hos Naturvårdsverket.
 
 30 §
@@ -9203,12 +9203,12 @@ ackreditering och teknisk kontroll. teknisk kontroll.
 34 §
 Bestämmelserna i 22–30 §§ gäller Bestämmelserna i 22–29 §§ gäller
 inte om certifikatet eller intyget inte om certifikatet eller intyget
-1. har utfärdats i ett annat land i Europeiska unionen eller Europeiska
+1\. har utfärdats i ett annat land i Europeiska unionen eller Europeiska
 ekonomiska samarbetsområdet och enligt det landets bestämmelser
 
 uppfyller kraven i de angivna EU-förordningarna eller
 genomförandeförordningarna, och
-2. visas upp i översättning till svenska.
+2\. visas upp i översättning till svenska.
 
 43 §
 Kravet på drift- och skötselinstruk- Kravet på drift- och skötselinstruk-
@@ -9262,9 +9262,9 @@ bortskaffande av sådana köldmedier.
 Haloner får trots 7 § användas i Haloner får trots 6 § användas i
 eller vid installation av brandsläck- eller vid installation av brandsläck-
 ningsanordningar som är placerade i ningsanordningar som är placerade i
-1. militära luftfartyg eller ubåtar, 1. luftfartyg eller ubåtar, eller
+1\. militära luftfartyg eller ubåtar, 1. luftfartyg eller ubåtar, eller
 eller
-2. militära fordon eller sådana stridsledningscentraler som finns i fartyg
+2\. militära fordon eller sådana stridsledningscentraler som finns i fartyg
 eller under jord, om halonerna inte kan ersättas med något annat ämne
 
 eller ny teknik.
@@ -9299,10 +9299,10 @@ ning (EU) nr 517/2014 genom att inte
 inneha ett föreskrivet certifikat ska en
 
 miljösanktionsavgift betalas
-1. med 3 000 kronor, om den som är
+1\. med 3 000 kronor, om den som är
 skyldig att betala avgiften är en fysisk
 person eller en ideell förening, och
-2. med 10 000 kronor, om den som
+2\. med 10 000 kronor, om den som
 är skyldig att betala avgiften är en
 juridisk person som inte är en ideell
 förening.
@@ -9331,10 +9331,10 @@ förordning (EU) nr 517/2014 genom att
 
 köpa fluorerad växthusgas ska en
 miljösanktionsavgift betalas
-1. med 3000 kr, om den som är
+1\. med 3000 kr, om den som är
 skyldig att betala avgiften är en fysisk
 person eller en ideell förening, och
-2. med 5 000 kronor, om den som är
+2\. med 5 000 kronor, om den som är
 skyldig att betala avgiften är en juridisk
 
 person som inte är en ideell förening.
@@ -9386,10 +9386,10 @@ För en överträdelse av 7 § förordningen
 (2016:1128) om fluorerade växthusgaser
 genom att köpa fluorerad växthusgas ska
 en miljösanktionsavgift betalas
-1. med 3 000 kr, om den som är
+1\. med 3 000 kr, om den som är
 skyldig att betala avgiften är en fysisk
 person eller en ideell förening, och
-2. med 5 000 kronor, om den som är
+2\. med 5 000 kronor, om den som är
 skyldig att betala avgiften är en juridisk
 person som inte är en ideell förening.
 
@@ -9410,9 +9410,9 @@ erade växthusgaser genom att inte erade växthusgaser genom att inte
 uppfylla föreskrivna krav på certifiering inneha ett föreskrivet certifikat ska en
 ska en miljösanktionsavgift betalas miljösanktionsavgift betalas
 
-1. med 3 000 kronor, om den som är skyldig att betala avgiften är en
+1\. med 3 000 kronor, om den som är skyldig att betala avgiften är en
 fysisk person eller en ideell förening, och
-2. med 10 000 kronor, om den som är skyldig att betala avgiften är en
+2\. med 10 000 kronor, om den som är skyldig att betala avgiften är en
 juridisk person som inte är en ideell förening.
 
 Denna förordning träder i kraft den 1 juli 2022.
@@ -9436,24 +9436,24 @@ Nuvarande lydelse        Föreslagen lydelse
 31 §4
 Den kommunala nämnden har, utöver det som följer av 26 kap. 3 § tredje
 stycket miljöbalken, ansvar för tillsynen i fråga om
-1. tillståndspliktiga miljöfarliga verksamheter enligt 9 kap. miljöbalken,
+1\. tillståndspliktiga miljöfarliga verksamheter enligt 9 kap. miljöbalken,
 
 som inte särskilt anges i miljöprövningsförordningen (2013:251) eller
 bilagan till förordningen (1998:899) om miljöfarlig verksamhet och
 hälsoskydd,
-2. vattentäkter som omfattas av tillståndsplikt som kommunen har
+2\. vattentäkter som omfattas av tillståndsplikt som kommunen har
 föreskrivit enligt 9 kap. 10 § miljöbalken,
-3. föroreningsskador som inte omfattas av länsstyrelsens ansvar enligt
+3\. föroreningsskador som inte omfattas av länsstyrelsens ansvar enligt
 29 § första stycket 3,
-4. andra miljöskador enligt 10 kap. 1 § miljöbalken, om skadorna har
+4\. andra miljöskador enligt 10 kap. 1 § miljöbalken, om skadorna har
 orsakats av en verksamhet eller åtgärd som den kommunala nämnden har
 tillsynsansvaret för,
-5. hantering av kemiska produkter, biotekniska organismer och varor i
+5\. hantering av kemiska produkter, biotekniska organismer och varor i
 andra verksamheter än miljöfarliga verksamheter enligt 9 kap. miljöbalken,
 
 utom den tillsyn som Kemikalieinspektionen utövar över primär-
 leverantörers utsläppande på marknaden enligt 21 § första stycket, och
-6. utrustning i motorfordon, flyg och 6. utrustning som innehåller
+6\. utrustning i motorfordon, flyg och 6. utrustning som innehåller
 tåg som innehåller kontrollerade kontrollerade ämnen enligt förord-
 ämnen enligt förordning (EU) nr ning (EU) nr 517/2014 eller förord-
 517/2014 eller förordning (EG) nr ning (EG) nr 1005/2009, utom den
@@ -9474,7 +9474,7 @@ Denna förordning träder i kraft den 1 juli 2022.
 
 <!-- sida 195 -->
 
-2. Nuvarande reglering
+2\. Nuvarande reglering
 
 2.1 Regelverket för fluorerade växthusgaser
 
@@ -10266,7 +10266,7 @@ på området för ämnen som bryter ner ozonskiktet rör överträdelser av
 
 bestämmelser i EU-förordningen om ozonnedbrytande ämnen.
 
-3. Förslag till ändringar i f-gasförordningen
+3\. Förslag till ändringar i f-gasförordningen
 
 3.1 En upplysning om ett bemyndigande justeras
 Förslag: Upplysningen om bemyndigandet för en bestämmelse om
@@ -11503,7 +11503,7 @@ Förtydligandet av bestämmelsen 29 § innebär att bestämmelsen i 30 § blir
 Bestämmelsens placering
 Bestämmelsen finns i 30 § f-gasförordningen och tas bort.
 
-4. Förslag till ändringar i förordningen om ozonnedbrytande ämnen
+4\. Förslag till ändringar i förordningen om ozonnedbrytande ämnen
 
 4.1 En upplysning om ett bemyndigande justeras
 
@@ -11706,7 +11706,7 @@ luftfartyg.
 Bestämmelsens placering
 Bestämmelsen finns i 10 § förordningen om ozonnedbrytande ämnen.
 
-5. Förslag till ändringar i förordningen om miljösanktionsavgifter
+5\. Förslag till ändringar i förordningen om miljösanktionsavgifter
 
 5.1 Miljösanktionsavgifter införs för överträdelse av krav på certifikat
 enligt EU-förordningen om f-gaser
@@ -12034,7 +12034,7 @@ miljösanktionsavgifter.
 
 <!-- sida 246 -->
 
-6. Förtydligande av kommunernas ansvar för tillsyn över utrustning
+6\. Förtydligande av kommunernas ansvar för tillsyn över utrustning
 som innehåller f-gaser eller ozonnedbrytande ämnen
 
 Förslag: Kommunernas ansvar för tillsyn i fråga om viss f-gasutrustning
@@ -12123,7 +12123,7 @@ marknaden enligt 2 kap. 21 § första stycket, den tillsyn som Transportstyrel-
 sen utövar enligt 2 kap. 27 § 2 och den tillsyn som länsstyrelsen utövar enligt
 2 kap. 30 §.
 
-7. Producentansvar
+7\. Producentansvar
 
 Förslag: Regleringen om producentansvar i f-gasförordningen bör stärkas.
 Det är dock lämpligt att avvakta kommissionens pågående översyn av EU-
@@ -12173,7 +12173,7 @@ producentansvar bör införas till dess resultatet av översynen kan tas i
 
 beaktande.
 
-8. Ikraftträdande
+8\. Ikraftträdande
 
 Förslag: Bestämmelserna ska träda i kraft den 1 juli 2022.
 
@@ -12187,7 +12187,7 @@ träda i kraft samtidigt, den 1 juli 2022. Det finns inte behov av några
 
 <!-- sida 249 -->
 
-9. Konsekvenser
+9\. Konsekvenser
 
 9.1 Konsekvenser för enskilda individer
 
@@ -12599,12 +12599,12 @@ elsystemet.
 
 Det reviderade förslaget till strategi har två övergripande energi- och klimatmål samt fyra
 fokusområden med mål och insatser. Strategins fokusområden är:
-1. Ett effektivt och fossilfritt transportsystem
+1\. Ett effektivt och fossilfritt transportsystem
 
-2. Ett effektivt och fossilfritt energisystem
+2\. Ett effektivt och fossilfritt energisystem
 
-3. Klimatsmart markanvändning
-4. Hela vägen till nettonoll.
+3\. Klimatsmart markanvändning
+4\. Hela vägen till nettonoll.
 
 Beslutsunderlag
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2025-01-16
@@ -12948,7 +12948,7 @@ Fyra fokusområden med mål och insatser
 1 – ETT EFFEKTIVT OCH FOSSILFRITT TRANSPORTSYSTEM
 
 MÅL
-1. År 2030 är de halländska klimatgasutsläppen från
+1\. År 2030 är de halländska klimatgasutsläppen från
 transportsektorn minst 70 procent lägre än 2010.
 
 INSATSOMRÅDEN
@@ -12967,8 +12967,8 @@ Energi- och klimatstrategi för Hallands län - Remissversion november 2024
 2 – ETT EFFEKTIVT OCH FOSSILFRITT ENERGISYSTEM
 MÅL
 
-2. Hallands produktion av fossilfri el ökar.
-3. Elanvändningen i bostäder och lokaler ska minska.
+2\. Hallands produktion av fossilfri el ökar.
+3\. Elanvändningen i bostäder och lokaler ska minska.
 
 INSATSOMRÅDEN
 • Ökat energiperspektiv i samhällsplaneringen
@@ -12981,11 +12981,11 @@ INSATSOMRÅDEN
 3 – KLIMATSMART MARKANVÄNDNING
 
 MÅL
-4. Kolinlagringen i skog och mark ökar.
-5. Resurseffektiv livsmedelsproduktion som bidrar till
+4\. Kolinlagringen i skog och mark ökar.
+5\. Resurseffektiv livsmedelsproduktion som bidrar till
 
 ökad självförsörjning.
-6. Lantbrukets utsläpp av klimatgaser minskar.
+6\. Lantbrukets utsläpp av klimatgaser minskar.
 
 INSATSOMRÅDEN
 • Skogs- och markförvaltning som bidrar till en ökad
@@ -12999,9 +12999,9 @@ klimatgaser.
 4 – HELA VÄGEN TILL NETTONOLL
 
 MÅL
-7. Halland har en växande bioekonomi.
+7\. Halland har en växande bioekonomi.
 
-8. I Halland finns en plan för hur länet ska nå
+8\. I Halland finns en plan för hur länet ska nå
 nettonollutsläpp.
 
 INSATSOMRÅDEN
@@ -13202,7 +13202,7 @@ strategi, men kommer att beskrivas mer utförligt i en regional
 
 handlingsplan för elektrifiering. Handlingsplanen kommer att tas fram
 under 2025 i dialog med relevanta aktörer och ska beslutas senast mars
-2026.
+2026\.
 
 8 Beräkna framtida efterfrågan på el i ditt län Prognoserna bygger på kända planerade
 etableringar i länet.
@@ -13304,7 +13304,7 @@ med minst 70 procent senast år 2030 jämfört med 2010. Halland är långt
 ifrån att nå det målet och de närmaste åren ser utsläppen ut att öka.10
 
 MÅL
-1. År 2030 är de halländska klimatgasutsläppen från
+1\. År 2030 är de halländska klimatgasutsläppen från
 transportsektorn minst 70 procent lägre än 2010.
 
 Till skillnad från det nationella målet så inkluderar det regionala målet även utsläpp
@@ -13571,9 +13571,9 @@ energiplanering – EnergiNav Halland, vilket startar i januari 2025.
 Energi- och klimatstrategi för Hallands län - Remissversion november 2024
 
 MÅL
-7. Hallands produktion av fossilfri el ökar.
+7\. Hallands produktion av fossilfri el ökar.
 
-8. Elanvändningen i bostäder och lokaler ska minska.
+8\. Elanvändningen i bostäder och lokaler ska minska.
 
 INSATSOMRÅDEN
 • Ökat energiperspektiv i samhällsplaneringen
@@ -13825,12 +13825,12 @@ klimatrapporteringen, innefattar utsläpp som uppstår från djurens
 fodersmältning, gödselhantering och kväveflöden i jordbruksmark.27
 
 MÅL
-4. Kolinlagringen i skog och mark ökar.
+4\. Kolinlagringen i skog och mark ökar.
 
-5. Resurseffektiv livsmedelsproduktion som bidrar till ökad
+5\. Resurseffektiv livsmedelsproduktion som bidrar till ökad
 självförsörjning.
 
-6. Lantbrukets utsläpp av klimatgaser minskar.
+6\. Lantbrukets utsläpp av klimatgaser minskar.
 
 INSATSOMRÅDEN
 • Skogs- och markförvaltning som bidrar till en ökad
@@ -14090,8 +14090,8 @@ minskningar, men också så kallade kompletterade åtgärder som in-
 fångning, avskiljning och lagring av koldioxid.
 
 MÅL
-7. Halland har en växande bioekonomi.
-8. I Halland finns en plan för hur länet ska nå
+7\. Halland har en växande bioekonomi.
+8\. I Halland finns en plan för hur länet ska nå
 nettonollutsläpp.
 
 INSATSOMRÅDEN
@@ -14292,7 +14292,7 @@ Energi- och klimatstrategi för Hallands län - Remissversion november 2024
 
 åtgärder. Sådana åtgärder får användas för att klara högst åtta respektive
 två procentenheter av utsläppsminskningsmålen år 2030 respektive
-2040.
+2040\.
 Vid beräkning av utsläppen från verksamheter inom svenskt territorium
 omfattas inte utsläpp och upptag från markanvändning, förändrad
 
@@ -14438,7 +14438,7 @@ Sträckan längs Göteborgsvägen (väg 845) mellan Södra Rågelundsvägen och 
 prioriterat objekt i Region Hallands Regional cykelplan 2020–2029. Det innebär att Region Halland
 finansierar 50 procent av kostnaden för en gång- och cykelväg längs sträckan. I kommunens gång- och
 cykelplan är sträckan ett projekt som planeras att genomföras eller påbörjas under perioden 2023–
-2027. Åtgärden bidrar till målet om ökad andel gång- och cykelresor. Fler gång- och cykelvägar ökar
+2027\. Åtgärden bidrar till målet om ökad andel gång- och cykelresor. Fler gång- och cykelvägar ökar
 
 <!-- sida 303 -->
 
@@ -14917,7 +14917,7 @@ t lig
 v g c
 a
 o
--
+\-
 a n lä g
 j e k t e r
 v ä g l ä
@@ -15007,23 +15007,23 @@ Grundutförande och Tillägg
 Parterna beslutar självständigt i genomförandet av sina respektive anläggningar enligt §
 5 om det inte påverkar förutsättningarna för hela projektet. För övrigt gäller följande:
 Trafikverkets ansvar
-1. Trafikverket ska utföra åtgärden inom det statliga åtagandet som omfattas av detta
+1\. Trafikverket ska utföra åtgärden inom det statliga åtagandet som omfattas av detta
 avtal § 5 och § 6.
-2. Trafikverket ansvarar för att tillämpliga lagar och andra författningar samt
+2\. Trafikverket ansvarar för att tillämpliga lagar och andra författningar samt
 myndighetsbeslut iakttas för åtgärden som Trafikverket ansvarar för.
-3. Trafikverket blir efter färdigställandet väghållare och sköter och bekostar framtida
+3\. Trafikverket blir efter färdigställandet väghållare och sköter och bekostar framtida
 drift och underhåll samt eventuell förnyelse av gång- och cykelvägen och för den nya
 belysningsanläggningen.
-4. Trafikverket ansvarar för att dialog förs med Hallandstrafiken och Västtrafik.
-5. Trafikverket ansvarar för att vägnätsförändringen införs i NVDB.
+4\. Trafikverket ansvarar för att dialog förs med Hallandstrafiken och Västtrafik.
+5\. Trafikverket ansvarar för att vägnätsförändringen införs i NVDB.
 Kommunens ansvar
-1. Kommunen tillhandahåller utan ersättning den kommunala mark som behövs för
+1\. Kommunen tillhandahåller utan ersättning den kommunala mark som behövs för
 genomförandet av gång- och cykelvägen.
-2. Kommunen genomför och bekostar eventuellt erforderliga ändringar och/eller
+2\. Kommunen genomför och bekostar eventuellt erforderliga ändringar och/eller
 framtagande av detaljplaner för genomförande av åtgärder knutna till detta avtal.
-3. Kommunen ska bistå projektet med befintliga handlingar som behövs för arbetet
+3\. Kommunen ska bistå projektet med befintliga handlingar som behövs för arbetet
 med planläggning och bygghandling, såsom exempelvis kartunderlag.
-4. Kommunen ansvarar för att utse en kontaktperson i syfte att bistå projektet vid
+4\. Kommunen ansvarar för att utse en kontaktperson i syfte att bistå projektet vid
 eventuella frågor samt att bevaka Kommunens intressen, se § 10, avseende
 åtgärden.
 
@@ -15099,16 +15099,16 @@ att vara giltiga.
 Tvist avseende tillämpning eller tolkning av detta avtal ska avgöras av allmän domstol
 enligt svensk lag.
 
-____________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i två (2) likalydande exemplar varav parterna tagit var sitt.
 
 För Trafikverket               För Kungsbacka kommun
 
-_________________________      _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum                  Ort och datum
 
-_________________________      _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Jörgen Einarsson
 Regional direktör
 
@@ -15229,7 +15229,7 @@ Villkorsbilagan är ett av underlagen i kommande upphandling.
 Kommunstyrelsens förvaltning har i sin beredning av ärendet gjort några mindre justeringar för att
 förtydliga i prisbilagan. Begreppet avgift är ändrat till pris i enlighet med gällande definitioner.
 Samtliga ändringar framgår av dokumentet som jämför avtalsbilagan 2025 med avtalsbilagan från
-2019.
+2019\.
 
 Nämnden för Kultur & Fritid föreslår att kommunfullmäktige delegerar till nämnden att årligen få
 justera priserna i enlighet med villkorsbilagans punkt 5.2. Delegationsbeslut om indexreglering ska
@@ -15290,23 +15290,23 @@ Kungsbacka     badhus    och  Fjärås  simhall
 Villkor till förfrågningsunderlag vid upphandling av drift av badhus, Bilaga 3.
 
 Beslutade i Kommunfullmäktige 2025-03-xx Gäller avtalsperioden 2026-07-01 – 2033-06-30 (inkl. optionsperiod).
-1. Vid beräkning av högsta tillåtna priser gällande från 2026-07-01 skall indexregleringar som görs
+1\. Vid beräkning av högsta tillåtna priser gällande från 2026-07-01 skall indexregleringar som görs
 november 2025 gällande priser för 2026 inräknas.
 
-2. Priserna baseras på högsta tillåtna prisnivå 2025, enligt dessa tabeller:
+2\. Priserna baseras på högsta tillåtna prisnivå 2025, enligt dessa tabeller:
 
 Tabell 1, Priser för allmänhetens bad, Kungsbacka badhus
 Tabell 2, Priser för allmänhetens bad, Fjärås simhall
 Tabell 3, Priser för skolor, föreningar m.fl., båda anläggningarna
 
-3. Övriga priser
+3\. Övriga priser
 3.1 Driftoperatören får anordna simskoleverksamhet som egen verksamhet. Maximal pris för
 deltagare är 150 kr/tillfälle.
 3.2 Folkhälsoarbete på beställning av Kungsbacka kommun. Ersättning enligt pris för
 skolbad/simskoleverksamhet för skolelever erlägges om driftoperatör eller förening utför den
 specifika aktiviteten.
 
-4. Särskilt om föreningar
+4\. Särskilt om föreningar
 4.1 Med förening menas bidragsberättigad förening i Kungsbacka kommun.
 
 4.2 Förening får hyra förråd i anläggningarna samt kontorsutrymme i plan ett i Kungsbacka Badhus.
@@ -15316,14 +15316,14 @@ kommunen under perioden. Andrahandshyresavtal skrivs med förvaltningen för Kul
 prisen omfattar de timmar som en tävlingsaktivitet pågår, samt tiden för förberedelse- och
 efterarbetet som har direkt anknytning till tävlingen.
 
-5. Villkor för priserna
+5\. Villkor för priserna
 5.1 Priserna ska tas ut av operatör och får inte överstiga nivåerna i denna villkorsbilaga. Operatör får
 underskrida dessa belopp, samt erbjuda ytterligare rabatter.
 5.2 Priserna får indexregleras årligen med höjningar motsvarande KPI/AKI. Indexregleringar görs i
 samarbete mellan beställare och operatör, på sätt som preciseras i avtalet.
 5.3 Priserna gäller från 2026-07-01– 2033-06-30, se dock regler för indexreglering.
 
-6. Övriga villkor för badhusverksamheten
+6\. Övriga villkor för badhusverksamheten
 6.1 Klippkort och årskort för Kungsbacka badhus gäller även i Fjärås simhall.
 6.2 Årskort och klippkort skall gälla ett år från och med inköpsdatum.
 6.3 Årskort ska vara personliga, för klippkort gäller inte detta krav.
@@ -15389,7 +15389,7 @@ KUNGSBACKA  KOMMUN
 
 Tabell 3
 
-*Gäller simsportsföreningar med verksamhet i anläggningarna.
+\*Gäller simsportsföreningar med verksamhet i anläggningarna.
 
 [Tabell 323-1](handlingar.tabeller/323-1.csv)
 
@@ -15405,8 +15405,8 @@ Tabell 3
 | Tävlingar, timpris i 25m-bassäng om delar av<br>anläggningen kan vara öppen. Gäller Fjärås<br>Simhall. | 346 kr/timma. |
 | Tävlingar, timpris i 50m-bassäng om delar av<br>anläggningen kan vara öppen. Gäller Kungsbacka<br>Badhus. | 577 kr/timma. |
 | Tävlingar, timpris om hela anläggningen måste<br>vara stängd. Gäller Kungsbacka Badhus. | 924 kr/timma. |
-| Föreningsmedlemmar*, 7- 20 år. | Betalar inte inträde till anläggning under<br>träningstid vid träning som anordnas av<br>förening. |
-| Årskort för föreningsmedlemmar* upp t.o.m. 17<br>år. | 1 613 kr för de som tränar 4ggr/vecka eller<br>mer, 1 041 kr för de som tränar mindre än<br>4ggr/vecka. |
+| Föreningsmedlemmar\*, 7- 20 år. | Betalar inte inträde till anläggning under<br>träningstid vid träning som anordnas av<br>förening. |
+| Årskort för föreningsmedlemmar\* upp t.o.m. 17<br>år. | 1 613 kr för de som tränar 4ggr/vecka eller<br>mer, 1 041 kr för de som tränar mindre än<br>4ggr/vecka. |
 | Kommersiell taxa |  |
 | Hyra halva 50m-bassängen. | 809 kr/timme + ordinarie entrépris. |
 | Hyra hel undervisningsbassäng. | 1 385 kr/timme + ordinarie entrépris. |
@@ -15800,23 +15800,23 @@ Kungsbacka     badhus    och  Fjärås  simhall
 Villkor till förfrågningsunderlag vid upphandling av drift av badhus, Bilaga 3.
 
 Beslutade i Kommunfullmäktige 2025-03-xx Gäller avtalsperioden 2026-07-01 – 2033-06-30 (inkl. optionsperiod).
-1. Vid beräkning av högsta tillåtna avgifter gällande från 2026-07-01 skall indexregleringar som görs
+1\. Vid beräkning av högsta tillåtna avgifter gällande från 2026-07-01 skall indexregleringar som görs
 november 2025 gällande avgifter för 2026 inräknas.
 
-2. Avgifterna baseras på högsta tillåtna avgiftsnivå 2025, enligt dessa tabeller:
+2\. Avgifterna baseras på högsta tillåtna avgiftsnivå 2025, enligt dessa tabeller:
 
 Tabell 1, Avgifter för allmänhetens bad, Kungsbacka badhus
 Tabell 2, Avgifter för allmänhetens bad, Fjärås simhall
 Tabell 3, Avgifter för skolor, föreningar m.fl., båda anläggningarna
 
-3. Övriga avgifter
+3\. Övriga avgifter
 3.1 Driftoperatören får anordna simskoleverksamhet som egen verksamhet. Maximal avgift för
 deltagare är 150 kr/tillfälle.
 3.2 Folkhälsoarbete på beställning av Kungsbacka kommun. Ersättning enligt avgift för
 skolbad/simskoleverksamhet för skolelever erlägges om driftoperatör eller förening utför den
 specifika aktiviteten.
 
-4. Särskilt om föreningar
+4\. Särskilt om föreningar
 4.1 Med förening menas bidragsberättigad förening i Kungsbacka kommun.
 
 4.2 Förening får hyra förråd i anläggningarna samt kontorsutrymme i plan ett i Kungsbacka Badhus.
@@ -15826,14 +15826,14 @@ kommunen under perioden. Andrahandshyresavtal skrivs med förvaltningen för Kul
 avgiften omfattar de timmar som en tävlingsaktivitet pågår, samt tiden för förberedelse- och
 efterarbetet som har direkt anknytning till tävlingen.
 
-5. Villkor för avgifterna
+5\. Villkor för avgifterna
 5.1 Avgifterna ska tas ut av operatör och får inte överstiga nivåerna i denna villkorsbilaga. Operatör
 får underskrida dessa belopp, samt erbjuda ytterligare rabatter.
 5.2 Avgifterna får indexregleras årligen med höjningar motsvarande KPI/AKI. Indexregleringar görs i
 samarbete mellan beställare och operatör, på sätt som preciseras i avtalet.
 5.3 Avgifterna gäller från 2026-07-01– 2033-06-30, se dock regler för indexreglering.
 
-6. Övriga villkor för badhusverksamheten
+6\. Övriga villkor för badhusverksamheten
 6.1 Klippkort och årskort för Kungsbacka badhus gäller även i Fjärås simhall.
 6.2 Årskort och klippkort skall gälla ett år från och med inköpsdatum.
 6.3 Årskort ska vara personliga, för klippkort gäller inte detta krav.
@@ -16050,7 +16050,7 @@ Simhall som driftoperatören får ta ut.
 Priserna gäller inklusive mervärdesskatt från 2020-01-01 dock tidigast då det nya
 badhuset tas i bruk till och med 2026-06-30.
 
-1. 1 Priser för allmänhetens bad
+1\. 1 Priser för allmänhetens bad
 
 Expedierat/bestyrkt
 
@@ -16080,7 +16080,7 @@ Kommunfullmäktige               Datum
 priser gälla i båda anläggningarna tills det nya badhuset tas i bruk.”
 Priserna för gymbesök regleras separat och ingår inte i de allmänna priserna för bad.
 
-1. 2 Priser för skolor, föreningar m.fl.
+1\. 2 Priser för skolor, föreningar m.fl.
 Gäller båda anläggningarna
 
 Expedierat/bestyrkt
@@ -16120,10 +16120,10 @@ Kommunfullmäktige               Datum
 2019-06-11
 
 1.3 Övriga priser
-1. Driftoperatören får anordna simskoleverksamhet som egen verksamhet.
+1\. Driftoperatören får anordna simskoleverksamhet som egen verksamhet.
 Maximala priser för deltagare får vara motsvarande 130 kr/tillfälle.
 
-2. Friskvård, folkhälsoarbete, på beställning av Kungsbacka kommun.
+2\. Friskvård, folkhälsoarbete, på beställning av Kungsbacka kommun.
 Ersättning enligt priser för skolbad/simskoleverksamhet för skolelever
 utgår då driftoperatör eller förening utför den specifika aktiviteten.
 
@@ -16153,37 +16153,37 @@ Kommunfullmäktige               Datum
 2019-06-11
 
 1.4      Särskilt om föreningar
-1. Med förening menas bidragsberättigad förening i Kungsbacka kommun.
+1\. Med förening menas bidragsberättigad förening i Kungsbacka kommun.
 
-2. Förening får nyttja förråd i anläggningarna mot hyra (2018) 71 kr/m²/år,
+2\. Förening får nyttja förråd i anläggningarna mot hyra (2018) 71 kr/m²/år,
 samt har tillgång till eget kontorsutrymme i plan 1 i Kungsbacka Badhus
 mot hyra (2018) 400 kr/m²/år. Dessa hyror följer Kungsbacka kommuns
 fasta avgifter för idrottsföreningar och får justeras av kommunen under
 perioden. Andrahandshyresavtal skrivs med förvaltningen för Kultur &
 Fritid.
 
-3. Tävlingsarrangör ska betala ett pris till driftoperatören i samband med
+3\. Tävlingsarrangör ska betala ett pris till driftoperatören i samband med
 tävlingar. Beräkningen av priset omfattar de timmar som en
 tävlingsaktivitet pågår, samt tiden för förberedelse- och efterarbetet som
 har direkt anknytning till tävlingen.
 
 1.5      Prisvillkor
-1. Priserna ska tas ut av operatör och får inte överstiga nivåerna i denna
+1\. Priserna ska tas ut av operatör och får inte överstiga nivåerna i denna
 villkorsbilaga. Operatör får underskrida dessa beloppen, samt erbjuda
 ytterligare rabatter.
 
-2. Priserna indexregleras årligen med höjningar motsvarande KPI/AKI.
+2\. Priserna indexregleras årligen med höjningar motsvarande KPI/AKI.
 Detta sker för första gången 2022-01-01.
-3. Priserna gäller från 2020-01-01 till och med 2026-06-30. Dock ska
+3\. Priserna gäller från 2020-01-01 till och med 2026-06-30. Dock ska
 förutvarande priser gälla i båda anläggningarna tills det nya badhuset tas i
 bruk.
 
-2.  Övriga villkor för badhusverksamheten
-1. Klippkort och årskort för Kungsbacka badhus gäller även i Fjärås simhall.
+2\.  Övriga villkor för badhusverksamheten
+1\. Klippkort och årskort för Kungsbacka badhus gäller även i Fjärås simhall.
 
-2. Årskort och klippkort skall gälla ett år från och med inköpsdatum och
+2\. Årskort och klippkort skall gälla ett år från och med inköpsdatum och
 vara personliga.
-3. Åldersgräns för relaxavdelningen är normalt 18 år. Dock ska viss del av
+3\. Åldersgräns för relaxavdelningen är normalt 18 år. Dock ska viss del av
 öppettiden vara familjerelax där det inte finns någon åldersgräns för barn
 
 i vuxens sällskap.

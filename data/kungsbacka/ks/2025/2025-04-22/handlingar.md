@@ -21873,7 +21873,7 @@ Kungsbacka kommun Bestämmelser om omställningsstöd och pension för förtroen
 förtroendevaldes död. Omständigheterna ska vara sådana som anges i 12 kap. 8 §
 första stycket FAL.
 
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Bestämmelser om omställningsstöd och pension för förtroendevalda (OPF-KL 22) 13 (13)
 
@@ -22146,7 +22146,7 @@ Utbetalning av förmåner
 pensionshandläggare som ansökan om familjeskydd för efterlevande vuxen
 och familjeskydd för efterlevande barn.
 
-\__________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Lokalt regelverk för bestämmelser om omställningsstöd, pension och familjeskydd för 6 (6)
 förtroendevalda, OPF-KL 22

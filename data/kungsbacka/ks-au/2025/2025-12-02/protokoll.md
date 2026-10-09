@@ -351,11 +351,11 @@ Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen godkänner följande anvisningar för fördelning av särskilda medel
 som reserverats i kommunbudget 2026, plan 2027–2028 för Trygg uppväxt:
 
--  Nämnd ska begära att få ta del av medlen.
--  Medlen kan endast användas till det beskrivna syftet med insatsen och ska
+\-  Nämnd ska begära att få ta del av medlen.
+\-  Medlen kan endast användas till det beskrivna syftet med insatsen och ska
 användas under innevarande år.
 
--  Uppföljning av nämndens satsning som finansierats av de särskilda medlen
+\-  Uppföljning av nämndens satsning som finansierats av de särskilda medlen
 ska göras i nämndens årsbokslut.
 
 Sammanfattning av ärendet
@@ -428,9 +428,9 @@ utgångspunkt från prisbasbelopp(PBB). Tabell B1-B2 (planavgift vid bygglov) ä
 kopplad till milliprisbasbelopp (mpBB) och beräknas med en formel. Regeringen
 
 beslutade i september 2025 om att prisbasbeloppet skulle höjas till 59 200 kronor för
-2026.
+2026\.
 Utgångsår för indexjustering enligt Prisindex för kommunal verksamhet (PKV) är
-2024.
+2024\.
 
 Beslutsunderlag
 Samhällsbyggnadskontorets tjänsteskrivelse, 2025-11-04
@@ -486,13 +486,13 @@ förbättringsmöjligheter och utfärdar tre rekommendationer där man önskar a
 kommunstyrelsen svarar senast den 17 december 2025. Kommunrevisionen
 rekommenderar kommunstyrelsen att:
 
--  Överväga att besluta om riktlinjer för kommunstyrelsens uppsikt som
+\-  Överväga att besluta om riktlinjer för kommunstyrelsens uppsikt som
 tydliggör uppsiktens inriktning, omfattning och genomförande i syfte att
 skapa en transparens och överskådlighet av uppsiktsplikten i dess helhet.
--  Säkerställa årligt ärende i enlighet med 6 kap. 9 § KL, det vill säga den
+\-  Säkerställa årligt ärende i enlighet med 6 kap. 9 § KL, det vill säga den
 utökade uppsiktsplikten över kommunens bolag.
 
--  Säkerställa transparens och tydlighet kring årligt ärende om avtalssamverkan
+\-  Säkerställa transparens och tydlighet kring årligt ärende om avtalssamverkan
 i enlighet med 9 kap. 38 § KL.
 
 Beslutsunderlag
@@ -584,11 +584,11 @@ direktivet om civilt försvar skulle fördelas, såväl för innevarande år som
 I kommunens budget/plan 2025–2027 har totalt 50 miljoner kronor avsatts för
 investeringar inom civil beredskap:
 
--  driftsmedel om 10 mnkr år 2025, vilka till stor del redan har använts för
+\-  driftsmedel om 10 mnkr år 2025, vilka till stor del redan har använts för
 förstudier och inköp av materiel som säkerställer att samhällsviktiga
 verksamheter klarar minst 48 timmar utan vatten och el,
 
--  samt 20 mnkr per år 2026 och 2027 för fortsatta investeringar i robusta
+\-  samt 20 mnkr per år 2026 och 2027 för fortsatta investeringar i robusta
 lokaler och trygghetspunkter.
 Verksamheterna, däribland kommunstyrelsens förvaltning, avsätter upp till 2
 miljoner kronor för 2026 för driftsändamål som projektledning, planeringsstöd,

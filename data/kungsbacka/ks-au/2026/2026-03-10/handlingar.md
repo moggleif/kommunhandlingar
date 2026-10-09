@@ -97,7 +97,7 @@ Kommunfullmäktige beslutar att de laddningsstationer, som i dag finns inom näm
 
 verksamhet, i första hand avyttras, och i andra hand avvecklas.
 Kommunfullmäktige ger nämnden för Teknik i uppdrag att verkställa beslutet före den 1 december
-2026.
+2026\.
 
 Kommunfullmäktige ger nämnden för Teknik i uppdrag att etablera en digital tjänst (e-tjänst) där
 privata aktörer kan ansöka om möjlighet att etablera laddningsstationer på allmänplats med kommunalt
@@ -382,13 +382,13 @@ www.kungsbacka.se
 <!-- sida 10 -->
 
 KUNGSBACKA KOMMUN
-20)
+20\)
 
 Beskrivning av ärendet
 
 Bakgrund
 Förvaltningen för Teknik fick i uppdrag att etablera laddinfrastruktur i kommunen mellan åren 2016 till
-2018. Därefter har utvecklingen av den publika laddinfrastrukturen bromsat in och under de senaste åren
+2018\. Därefter har utvecklingen av den publika laddinfrastrukturen bromsat in och under de senaste åren
 har enbart ett fåtal publika laddpunkter etablerats i kommunal regi.
 
 SL SSR Laddningspool
@@ -403,9 +403,9 @@ Feb TE
 =>)
 
 Tr
--
+\-
 
-- Rom -
+\- Rom -
 3ladäni kt a ER
 a . BIDSSPUN er VY - j 2 laddningspunkter
 AR SEN foå LT
@@ -619,7 +619,7 @@ KUNGSBACKA KOMMUN
 <!-- sida 15 -->
 
 KUNGSBACKA KOMMUN
-70)
+70\)
 
 Ska kommunen fortsätta äga och driva publika
 laddpunkter?
@@ -636,7 +636,7 @@ Strategi 3 strategierna
 
 Ska privata aktörer driva publika
 laddpunkter på kommunal mark?
-|
+\|
 å
 
 Identifierade strategier
@@ -753,7 +753,7 @@ frågeställningen till om det är förvaltningen för Teknik eller privata akt�
 laddningsstationer i kommunen framöver? Syftet med rapporten är att beskriva nuläget, möjliga
 
 Strategi för utbyggnad och förvaltning samt det ekonomiska perspektivet.
-__________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Figur för begreppsförtydligande
 
@@ -886,19 +886,19 @@ kommun bor ca 67 % av invånarna i eget hus och kan därmed installera en egen l
 till sitt hus1.
 Utvecklingen och etableringen av publik laddinfrastruktur är viktig för:
 
--  De som inte har möjlighet till en egen laddbox vid sitt boende
--  De som laddar under tiden de arbetar
--  Samtliga elbilsägare att kunna stödladda vid behov
+\-  De som inte har möjlighet till en egen laddbox vid sitt boende
+\-  De som laddar under tiden de arbetar
+\-  Samtliga elbilsägare att kunna stödladda vid behov
 
 PUBLIK LADDINFRASTRUKTUR I KUNGSBACKA STAD IDAG
 
--  Orange punkter – 32 stycken. Kommunens publika laddningspunkter med 3,7–22 kW
+\-  Orange punkter – 32 stycken. Kommunens publika laddningspunkter med 3,7–22 kW
 
 laddeffekt. De ljusorangea har låg laddeffekt, 3,7 kW, de orangea har en laddeffekt på 11 kW
 eller 22 kW (AC-laddare).
--  Blå punkt – 1 styck. Kommunens publika snabbladdningsstation med 50 kW laddeffekt (DC-
+\-  Blå punkt – 1 styck. Kommunens publika snabbladdningsstation med 50 kW laddeffekt (DC-
 laddare)
--  Lila punkter – 6 stycken. Snabbladdningsstationer som aktörer anlagt på privata
+\-  Lila punkter – 6 stycken. Snabbladdningsstationer som aktörer anlagt på privata
 fastighetsägares mark, såsom Circle K, Recharge McDonalds Onsalamotet, OKQ8, Allego
 
 Hedebrovägen och Vattenfall Hede Kungsbacka (150–300 kW)
@@ -944,12 +944,12 @@ AFIR som är det nya EU-regelverket för publik laddinfrastruktur började skarp
 och innebär bland annat en ambitionshöjning inom EU och kommer att reglera utbyggnaden av
 laddinfrastruktur.
 
-- Krav på en successiv utbyggnad av laddningsstationer för både lätta och tunga fordon längs de stora
+\- Krav på en successiv utbyggnad av laddningsstationer för både lätta och tunga fordon längs de stora
 vägarna
-- Krav på att alla nya publika laddare ska möjliggöra AdHoc-laddning (kunden ska kunna ladda utan att
+\- Krav på att alla nya publika laddare ska möjliggöra AdHoc-laddning (kunden ska kunna ladda utan att
 behöva teckna avtal)
-- Krav på kortbetalning för nya snabbladdare
-- För nya laddningsstationer under 50 kW kan andra elektroniska, säkra betallösningar tillåtas3.
+\- Krav på kortbetalning för nya snabbladdare
+\- För nya laddningsstationer under 50 kW kan andra elektroniska, säkra betallösningar tillåtas3.
 
 PRIVAT MARK
 
@@ -1215,28 +1215,28 @@ Privata aktör etablerar ny laddinfrastruktur.
 Äger, drift & underhåller ny/befintlig
 laddinfrastruktur
 
-- Teknik äger de 52 befintliga
+\- Teknik äger de 52 befintliga
 laddningsstationerna
 
-- Teknik etablerar ny laddinfrastruktur, äger och
+\- Teknik etablerar ny laddinfrastruktur, äger och
 står för drift och underhåll av de nya
 laddningsstationerna
 
-- Låg erfarenhet av etablering från kommunalt
+\- Låg erfarenhet av etablering från kommunalt
 håll
 
-- Utbyggnaden tar längre tid på grund av
+\- Utbyggnaden tar längre tid på grund av
 bristande kompetens kring etablering av
 laddinfrastruktur
 
-- Kommunen kan dra nytta av aktörens
+\- Kommunen kan dra nytta av aktörens
 erfarenhet av drift och underhåll
 (mobilitetstjänst)
 
-- Högkvalitativa tjänster med fokus på
+\- Högkvalitativa tjänster med fokus på
 effektivitet och tillförlitlighet
 
-- Upphandling med ett antal utpekade platser
+\- Upphandling med ett antal utpekade platser
 för att etablera ny laddinfrastruktur samt överta
 ägandet av befintlig laddinfrastruktur (52
 laddningsstationer)
@@ -1244,36 +1244,36 @@ laddningsstationer)
 -Teknik tar fram platser där behov bedöms
 föreligga av ny laddinfrastruktur
 
-- Nyetablering av laddinfrastruktur likt
+\- Nyetablering av laddinfrastruktur likt
 ”Stockholmsmodellen” skapas kartfunktion på
 kommunens hemsida
 
-- Flera aktörer på marknaden
+\- Flera aktörer på marknaden
 
-- Flera aktörer får chans att etablera
+\- Flera aktörer får chans att etablera
 laddinfrastruktur i kommunen
 
-- Olika märken på laddningsstationerna
+\- Olika märken på laddningsstationerna
 
-- Snabb och effektiv utbyggnad av
+\- Snabb och effektiv utbyggnad av
 laddinfrastruktur
 
-- God erfarenhet av etablering, drift, underhåll,
+\- God erfarenhet av etablering, drift, underhåll,
 service
 
-- Håller teknologi och utrustning uppdaterat
+\- Håller teknologi och utrustning uppdaterat
 
-- Innovation och skräddarsydda lösningar inom
+\- Innovation och skräddarsydda lösningar inom
 laddinfrastruktur
 
-- Kan fokusera på vinstdrivande områden
+\- Kan fokusera på vinstdrivande områden
 
-- Kan sätta höga priser för laddning
+\- Kan sätta höga priser för laddning
 
-- Kan skära ner på kvalitet för att minska
+\- Kan skära ner på kvalitet för att minska
 kostnader
 
-- Minskar den kommunala belastningen då
+\- Minskar den kommunala belastningen då
 aktören finansierar etablering och
 laddutrustning
 
@@ -1281,7 +1281,7 @@ laddutrustning
 
 14
 
-- Kan gå i konkurs, avveckla eller på annat sätt
+\- Kan gå i konkurs, avveckla eller på annat sätt
 upphöra med att leverera tjänsten.
 KONSEKVENSER
 
@@ -1454,38 +1454,38 @@ KOMPLETTERANDE     INFORMATION     OM  STRATEGIERNA
 STRATEGI 1
 
 Arbetsuppgifter för Teknik
--  Arbeta med utveckling och förnyelse av den befintliga laddinfrastrukturen
--  Planera utbyggnaden av laddinfrastruktur i kommunen. Utreda strategiska och lämpliga
+\-  Arbeta med utveckling och förnyelse av den befintliga laddinfrastrukturen
+\-  Planera utbyggnaden av laddinfrastruktur i kommunen. Utreda strategiska och lämpliga
 
 platser för ny laddinfrastruktur i kommunen närmare
--  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
--  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
+\-  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
+\-  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
 laddtaxa, höja eller sänka
--  Ansöka om kapacitetsutredning för varje plats där kommunen vill etablera en laddningsstation
+\-  Ansöka om kapacitetsutredning för varje plats där kommunen vill etablera en laddningsstation
 
--  Ansvara för etablering av ny laddinfrastruktur för varje specifik plats
--  Kartportalen, uppdatera med ny laddinfrastruktur
--  Klimatklivet, ansöka om bidrag för ny publik laddinfrastruktur
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Ansvara för etablering av ny laddinfrastruktur för varje specifik plats
+\-  Kartportalen, uppdatera med ny laddinfrastruktur
+\-  Klimatklivet, ansöka om bidrag för ny publik laddinfrastruktur
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet
 
--  Arbetsuppgifter motsvarande 100 % av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 100 % av en heltidstjänst.
 
 STRATEGI 2
 
 Arbetsuppgifter för Teknik
--  Upphandling av befintlig laddinfrastruktur och etablering av ny laddinfrastruktur på strategiska
+\-  Upphandling av befintlig laddinfrastruktur och etablering av ny laddinfrastruktur på strategiska
 och lämpliga platser
--  Utreda strategiska och lämpliga platser närmare
--  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
+\-  Utreda strategiska och lämpliga platser närmare
+\-  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
 
--  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
+\-  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
 ansökningsbara platser för etablering av ny laddinfrastruktur
--  Hantera ansökningarna inkomna ansökningar
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Hantera ansökningarna inkomna ansökningar
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet
 
--  Arbetsuppgifter motsvarande 50 % av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 50 % av en heltidstjänst.
 
 Ny laddinfrastruktur
 Förvaltningen för Tekniken går ut med en upphandling på specifika platser och hur många
@@ -1519,30 +1519,30 @@ Färger i kartan vad som är ledigt och ansökningsbart samt vilka platser som �
 STRATEGI 3
 
 Arbetsuppgifter för Teknik
--  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
--  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
+\-  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
+\-  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
 laddtaxa, höja eller sänka
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet.
--  Arbetsuppgifter motsvarande 30% av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 30% av en heltidstjänst.
 
 STRATEGI 4
 
 Arbetsuppgifter för Teknik
--  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
--  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
+\-  Vissa arbetsuppgifter kring drift och underhåll av laddningsstationerna
+\-  Avstämningsmöte med Tekniks ekonom en gång per kvartal (fyra gånger per år) för att beräkna
 laddtaxa, höja eller sänka
--  Utreda strategiska och lämpliga platser närmare
--  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
--  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
+\-  Utreda strategiska och lämpliga platser närmare
+\-  Ta fram platsspecifika- och utseendekriterier för etablering av laddningsstationer
+\-  Skapa en ansökningssida på kommunens hemsida med kartfunktion för lediga och
 
 ansökningsbara platser för etablering av ny laddinfrastruktur
--  Hantera ansökningarna och driva processen framåt
--  Koppla ihop aktören med rätt elnätsägare
--  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
+\-  Hantera ansökningarna och driva processen framåt
+\-  Koppla ihop aktören med rätt elnätsägare
+\-  Informera bostadsrättsföreningar, fastighetsbolag och företag om hur de kan etablera
 laddinfrastruktur samt nyttan av det. Att det finns bidrag att söka via Klimatklivet
 
--  Arbetsuppgifter motsvarande 60% av en heltidstjänst.
+\-  Arbetsuppgifter motsvarande 60% av en heltidstjänst.
 
 “Stockholmsmodellen”
 I Stockholm kan aktörer ansöka om 30 platser per ansökan för att etablera laddinfrastruktur. Det finns
@@ -1931,7 +1931,7 @@ sker till annat helägt bolag ägt av Bolaget. Bolaget ska i god tid innan avsed
 lämnas av Kommunen om inte särskilda skäl föreligger emot ett sådant
 medgivande.
 
-8. Avtalets giltighet
+8\. Avtalets giltighet
 8.1 Avsiktsförklaringen är giltigt endast under förutsättning att den senast 2025-03-
 
 31 godkänns av kommunstyrelsen i Kungsbacka kommun genom beslut som
@@ -1966,7 +1966,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (2)
 Kommunstyrelsen Datum
 2024-11-26
 
-$ 262 Dnr KS-2024-00673
+\$ 262 Dnr KS-2024-00673
 Avsiktsförklaring avseende del av kv Samariten
 
 Beslut
@@ -2000,7 +2000,7 @@ området, som möjliggör projektet, tas fram och får laga kraft.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2024-11-12, $ 330
+Kommunstyrelsens arbetsutskott 2024-11-12, \$ 330
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-10-08
 
@@ -2195,13 +2195,13 @@ behov av familjehemsplacering.
 För familjer som saknar tillräckligt stöd i sitt naturliga nätverk finns redan idag möjlighet att söka råd
 och stöd genom civilsamhällets organisationer, kommunens föräldrautbildningar samt socialtjänsten.
 Inom nämndens verksamhet erbjuds ett antal behovsanpassade insatser, däribland:
-- Föräldrarådgivning
-- Familjebehandling
-- Föräldrastöd
+\- Föräldrarådgivning
+\- Familjebehandling
+\- Föräldrastöd
 
-- Samtalsstöd till barn och unga
-- Kontaktperson
-- Kontaktfamilj
+\- Samtalsstöd till barn och unga
+\- Kontaktperson
+\- Kontaktfamilj
 
 Dessa insatser kan tillhandahållas både som frivilliga stödåtgärder utan behovsbedömning och som
 beslutade insatser efter utredning.
@@ -2246,14 +2246,14 @@ att utreda och komma med förslag på hur en verksamhet med Jourhavande föräld
 kan inrättas i Kungsbacka kommun.
 
 För den utredningen föreslås:
-- Att utredningen särskilt ska belysa hur modellen kan fungera som alternativ till
+\- Att utredningen särskilt ska belysa hur modellen kan fungera som alternativ till
 familjehemsplacering, med fokus på att barn ska kunna bo kvar i sin hemmiljö.
 
-- Att utredningen särskilt ska omfatta förslag på hur rekrytering och kvalitetssäkring
+\- Att utredningen särskilt ska omfatta förslag på hur rekrytering och kvalitetssäkring
 kan säkerställas, med rutiner för lämplighetsbedömning, registerkontroller,
 introduktionsutbildning och handledning för jourförälder.
 
-- Att möjligheten till samverkan med civilsamhället och ideella krafter beaktas.
+\- Att möjligheten till samverkan med civilsamhället och ideella krafter beaktas.
 
 Beslutsunderlag
 
@@ -2299,14 +2299,14 @@ beslutar att ge nämnden för Individ & Familjeomsorg i uppdrag att utreda och k
 hur en verksamhet med Jourhavande förälder kan inrättas i Kungsbacka kommun.
 
 För den utredningen föreslås:
--  Att utredningen särskilt ska belysa hur modellen kan fungera som alternativ till
+\-  Att utredningen särskilt ska belysa hur modellen kan fungera som alternativ till
 familjehemsplacering, med fokus på att barn ska kunna bo kvar i sin hemmiljö.
 
--  Att utredningen särskilt ska omfatta förslag på hur rekrytering och kvalitetssäkring kan
+\-  Att utredningen särskilt ska omfatta förslag på hur rekrytering och kvalitetssäkring kan
 säkerställas, med rutiner för lämplighetsbedömning, registerkontroller, introduktionsutbildning
 och handledning för jourförälder.
 
--  Att möjligheten till samverkan med civilsamhället och ideella krafter beaktas.
+\-  Att möjligheten till samverkan med civilsamhället och ideella krafter beaktas.
 
 Beslutsunderlag
 Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2025-11-26

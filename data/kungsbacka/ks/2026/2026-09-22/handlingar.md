@@ -254,10 +254,10 @@ Beslutats av
 Kommunfullmäktige
 Fokusområden
 
-- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
-- Kungsbacka har välkomnande och trygga miljöer.
-- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
-- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
+\- I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar.
+\- Kungsbacka har välkomnande och trygga miljöer.
+\- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
+\- I Kungsbacka är vi trygga och får en god vård och omsorg när vi behöver stöd för att få livet att fungera.
 Sammanfattning av styrelsens arbete med målet
 Utveckla arbetssätt i planeringsskedet
 
@@ -283,11 +283,11 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kungsbackas ekonomi ska vara långsiktigt hållbar.
-- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
+\- Kungsbackas ekonomi ska vara långsiktigt hållbar.
+\- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
 mångfald.
-- Kungsbacka ska verka för ett socialt hållbart samhälle.
-- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+\- Kungsbacka ska verka för ett socialt hållbart samhälle.
+\- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 Sammanfattning av styrelsens arbete med målet
 
 Utbyggnadsplan för Kungsbacka
@@ -314,8 +314,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
+\- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+\- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom samverkan
 mellan näringsliv och utbildning.
 Sammanfattning av styrelsens arbete med målet
 
@@ -422,8 +422,8 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
-- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
+\- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
+\- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 Sammanfattning av styrelsens arbete med målet
 
 Kommunstyrelsen har ingen egen aktivitet kopplat till målet, varför ingen redovisning här sker.
@@ -441,10 +441,10 @@ Beslutats av
 Kommunfullmäktige
 
 Fokusområden
-- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
-- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+\- I Kungsbacka är invånare, kunder och företag medskapande i att utforma det goda livet.
+\- Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
-- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+\- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
 Sammanfattning av styrelsens arbete med målet
 
 Bakgrundskontroller och utdrag ur belastningsregister
@@ -1880,7 +1880,7 @@ större vikt, innan de fattas.
 
 1.6  I övrigt ska huvudavtalet gälla med oförändrade villkor.
 
-_______________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i två likalydande exemplar varav parterna tagit ett vardera.
 
@@ -1907,7 +1907,7 @@ Meddelande om ändrade föreskrifter
 
 e Länsstyrelsen Västra Götalands län godtar inte Stiftelsen
 Tjolöholms ändring av stiftelsens föreskrifter på så sätt att
-det läggs till en ny 3 $ med följande lydelse:
+det läggs till en ny 3 \$ med följande lydelse:
 
 ”Kommunfullmäktige i Kungsbacka kommun ska ta
 ställning till beslut i verksamheten som är av principiell
@@ -1920,7 +1920,7 @@ konsekvensnumreras.
 e Länsstyrelsen godtar följande ändringar av Stiftelsen
 Tjolöholms stadgar:
 
-3 $ första meningen ändras på nedan vis:
+3 \$ första meningen ändras på nedan vis:
 
 Tidigare lydelse:
 
@@ -1932,7 +1932,7 @@ Ny lydelse:
 ”Huvudman för stiftelsen skall tillskjuta årligt bidrag för
 stiftelsens verksamhet.”
 
-9 $ ändras på nedan vis:
+9 \$ ändras på nedan vis:
 
 Tidigare lydelse:
 
@@ -1942,7 +1942,7 @@ styrelse, utsedda revisorer.”
 
 Diarienummer
 
-16)
+16\)
 
 Postadress: 403 40 Göteborg = Telefon: 010-224 40 00 E-post: vastragotalandQlansstyrelsen.se Webb: lansstyrelsen.se/vastra-gotaland
 
@@ -2023,7 +2023,7 @@ revisionsberättelse till Länsstyrelsen senast den 30 juni.
 Ansvarsfrihet för styrelsens förvaltning prövas av
 huvudmannen.”
 
-11 $ ändras på nedan vis:
+11 \$ ändras på nedan vis:
 
 Tidigare lydelse:
 
@@ -2063,7 +2063,7 @@ Stiftelsen Tjolöholm (Stiftelsen) bildades 1991. I stadgarna finns ett
 avseende stiftelsens ändamål, om huvudmannen godkänner (12 8 i
 Stiftelsens stadgar).
 
-En underrättelse om tillstånd att få lägga till 3 $ i föreskrifterna för
+En underrättelse om tillstånd att få lägga till 3 \$ i föreskrifterna för
 Stiftelsen och konsekvensnumrera stadgarna samt att ändra det som
 tidigare var 3, 9, 10, 1188 har kommit in till Länsstyrelsen.
 
@@ -2080,11 +2080,11 @@ stiftelselagen trädde i kraft) och bedöms ha ett giltigt
 Det är följaktligen möjligt för Stiftelsen att ändra, upphäva eller i
 särskilt fall åsidosätta en föreskrift som inte avser ändamålet. Det är
 däremot inte möjligt för Stiftelsen att göra ett tillägg till
-föreskrifterna. Tillägget av en ny 3 $, med efterföljande
+föreskrifterna. Tillägget av en ny 3 \$, med efterföljande
 konsekvensnumrering av övriga paragrafer, kan därför inte godtas.
 
 Länsstyrelsen bedömer att de beslutade ändringarna i övrigt av 3, 9,
-10, 11 $$ kan godtas.
+10, 11 \$\$ kan godtas.
 
 Bestämmelser som beslutet grundas på
 
@@ -2114,9 +2114,9 @@ Stiftelselagen (1994:1220)
 
 » Anmälan för registrering i stiftelseregistret ska genast göras
 
-1. när en föreskrift i stiftelseförordnandet har ändrats eller
+1\. när en föreskrift i stiftelseförordnandet har ändrats eller
 upphävts enligt bestämmelserna i 6 kap. eller med stöd av en
-sådan bestämmelse som avses i 10 $ lagen (1994:1221) om
+sådan bestämmelse som avses i 10 \$ lagen (1994:1221) om
 införande av stiftelselagen (1994:1220),
 
 [...] (10 kap. 3 8).
@@ -2273,7 +2273,7 @@ Kommunen och Stiftelsen kallas gemensamt Parterna
 
 A.   BAKGRUND  OCH FÖRUTSÄTTNINGAR
 
-1. Inledning
+1\. Inledning
 
 1.1  Stiftelsen bildades år 1987 av Kommunen och Västkuststiftelsen. Västkuststiftelsen
 har numera frånträtt och kommunen är ensam huvudman. Stiftelsen bildades innan
@@ -2291,7 +2291,7 @@ huvudman.
 
 B.   KOMMUNAL   STIFTELSE
 
-2. Klargörande och överenskommelse
+2\. Klargörande och överenskommelse
 
 2.1  Parterna är överens om att stiftelsen ska vara en kommunal stiftelse som utför
 överlämnad kommunal verksamhet för huvudmannens räkning enligt kommunallagen.
@@ -2301,9 +2301,9 @@ uppfylla kraven som numera ställs på överlämnad kommunal verksamhet.
 
 2.3  Kraven som ställs enligt kommunallagens 10 kapitel är att fullmäktige ska
 
-1. Fastställa det kommunala ändamålet med verksamheten,
+1\. Fastställa det kommunala ändamålet med verksamheten,
 
-2. Se till att det fastställda kommunala ändamålet och de kommunala
+2\. Se till att det fastställda kommunala ändamålet och de kommunala
 befogenheterna som utgör ram för verksamheten anges i stiftelseurkunden
 
 Sign.
@@ -2312,20 +2312,20 @@ Sign.
 
 2(3)
 
-3. Utse samtliga styrelseledamöter,
+3\. Utse samtliga styrelseledamöter,
 
-4. Se till att det anges i stiftelseurkunden att fullmäktige får ta ställning till sådana
+4\. Se till att det anges i stiftelseurkunden att fullmäktige får ta ställning till sådana
 beslut i verksamheten som är av principiell beskaffenhet eller annars av större
 vikt innan de fattas,
 
-5. Utse minst en av kommunens revisorer som revisor för stiftelsen,
+5\. Utse minst en av kommunens revisorer som revisor för stiftelsen,
 
 2.4  Parterna är överens om att villkoren i punkt 4 och 5 saknas och behöver kompletteras i
 stiftelsens stadgar. Parterna är också överens om att punkt 2, det kommunala
 ändamålet och de kommunala befogenheterna som utgör ram för verksamheten, kan
 behöva förtydligas.
 
-3. Ändring av stiftelsens stadgar
+3\. Ändring av stiftelsens stadgar
 
 3.1  Parterna är överens om att genomföra stadgeändringar som avser följande.
 
@@ -2345,7 +2345,7 @@ med eller direktiv till Stiftelsen.
 stiftelsen av revisorernas reglemente. Kommunen avser att ändra dessa i
 överensstämmelse med den kommande regleringen i stiftelsens stadgar.
 
-4.   Ramar för stiftelsens verksamhet
+4\.   Ramar för stiftelsens verksamhet
 
 4.1  I syfte att förtydliga det som framgår av stiftelsens stadgar gällande ramarna för
 verksamheten är parterna överens om följande.
@@ -2378,7 +2378,7 @@ som i 10 kap 3 § 2 punkten kommunallagen.
 
 C.   PLANERING  OCH UPPFÖLJNING
 
-5. Ekonomisk planering och uppföljning
+5\. Ekonomisk planering och uppföljning
 
 5.1  Parterna är överens om att verka för att genomföra stadgeändringar som innebär att
 Stiftelsen följer och deltar i kommunens planeringsprocess på samma sätt som
@@ -2392,7 +2392,7 @@ särskilt i sin ordinarie uppföljning.
 5.3  För det fall att stadgeändringarna inte kan genomföras förbinder sig stiftelsen att ändå
 följa kommunens planerings- och uppföljningsprocesser enligt ovan.
 
-_______________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i två likalydande exemplar varav parterna tagit ett vardera.
 
@@ -2516,14 +2516,14 @@ I kommunallagen finns bestämmelser om överlämnad kommunal verksamhet. Kommuna
 
 kan överlämnas till en stiftelse. En stiftelse som bildats ensam av kommunen omfattas av ett antal
 regler i kommunallagen.1 De regler som är relevanta i det här fallet är att fullmäktige ska
-1. Fastställa det kommunala ändamålet med verksamheten.
-2. Se till att det fastställda kommunala ändamålet och de kommunala befogenheterna som utgör ram
+1\. Fastställa det kommunala ändamålet med verksamheten.
+2\. Se till att det fastställda kommunala ändamålet och de kommunala befogenheterna som utgör ram
 för verksamheten anges i stiftelseurkunden.
-3. Utse samtliga styrelseledamöter.
-4. Se till att det anges i stiftelseurkunden att fullmäktige får ta ställning till sådana beslut i
+3\. Utse samtliga styrelseledamöter.
+4\. Se till att det anges i stiftelseurkunden att fullmäktige får ta ställning till sådana beslut i
 
 verksamheten som är av principiell beskaffenhet eller annars av större vikt innan de fattas.
-5. Utse minst en av de kommunala revisorerna som revisor för stiftelsen.
+5\. Utse minst en av de kommunala revisorerna som revisor för stiftelsen.
 När en stiftelse bildas gemensamt med någon annan ska bildarna i stället se till så att Stiftelsen i skälig
 omfattning blir bunden av motsvarande villkor.2
 
@@ -3380,7 +3380,7 @@ Transaktionsidentitet: 8D760D41A662612E9E7BD5D25DC0484F5D73B18503
 
 <!-- sida 83 -->
 
----
+\---
 
 Initiativ
 
@@ -3932,7 +3932,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 11 (37)
 Datum
 2014-03-18
-$ 47 KS/2011:197
+\$ 47 KS/2011:197
 
 Planbesked Ölmanäs 6:80, Åsa
 
@@ -3953,10 +3953,10 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2014-02-12
 
-Kommunstyrelsens arbetsutskott, 2014-02-25, $ 56; ärendet bordläggs till nästa
+Kommunstyrelsens arbetsutskott, 2014-02-25, \$ 56; ärendet bordläggs till nästa
 sammanträde
 
-Kommunstyrelsens arbetsutskott, 2013-03-04, $ 70
+Kommunstyrelsens arbetsutskott, 2013-03-04, \$ 70
 
 Proposition
 
@@ -3967,7 +3967,7 @@ Sökanden, KSF;JS
 
 Expedierat/bestyrkt
 
-- =
+\- =
 
 <!-- sida 97 -->
 
@@ -4387,7 +4387,7 @@ Götalands län ska vara robust även i framtiden.
 
 Innehåll
 
-1. Inledning .............................................................................................................................................. 8
+1\. Inledning .............................................................................................................................................. 8
 Regional vattenförsörjningsplanering för robust dricksvattenförsörjning ....................................... 10
 
 Vem ansvarar för dricksvattenförsörjningen? ................................................................................... 11
@@ -4402,7 +4402,7 @@ Uppdatering och uppföljning av planen .........................................
 Fyra delregioner ................................................................................................................................ 16
 Hur ska vattenförsörjningsplanen användas? ................................................................................... 18
 
-2. Vattenresurser och behov idag ........................................................................................................ 19
+2\. Vattenresurser och behov idag ........................................................................................................ 19
 Vattenresurser i Västra Götaland ...................................................................................................... 19
 
 Vattenkvalitet .................................................................................................................................... 21
@@ -4411,19 +4411,19 @@ Vattenskyddsområden ...........................................................
 Vattenanvändning ............................................................................................................................. 24
 Erfarenheter av torka från 2018–2025 .............................................................................................. 32
 
-3. Tillgång och behov år 2100................................................................................................................ 33
+3\. Tillgång och behov år 2100................................................................................................................ 33
 Länets vattenresurser i ett förändrat klimat ..................................................................................... 34
 
 Klimatrisker för vattenförsörjningen ................................................................................................. 41
 Länets framtida vattenbehov ............................................................................................................ 47
 
-4. Länets dricksvattenresurser .............................................................................................................. 51
+4\. Länets dricksvattenresurser .............................................................................................................. 51
 Nationellt viktiga dricksvattenresurser ............................................................................................. 52
 
 Regionalt viktiga dricksvattenresurser .............................................................................................. 52
 Vattenresurser av betydelse för andra län ........................................................................................ 54
 
-5. Åtgärder för robust dricksvattenförsörjning ..................................................................................... 55
+5\. Åtgärder för robust dricksvattenförsörjning ..................................................................................... 55
 Säkerställa tillgång till råvatten av god kvalitet och tillräcklig mängd .............................................. 56
 
 Tillse tillräckliga kunskapsunderlag ................................................................................................... 58
@@ -4433,7 +4433,7 @@ Skapa robusta tekniska system ..................................................
 Beakta sekretess och säkerhetsskydd ............................................................................................... 60
 
 Föreslagna åtgärder........................................................................................................................... 60
-6. Referenser ......................................................................................................................................... 66
+6\. Referenser ......................................................................................................................................... 66
 
 Copyrightförteckning av kartor ......................................................................................................... 69
 
@@ -4441,18 +4441,18 @@ Copyrightförteckning av kartor ................................................
 
 Bilagor
 
-1. Nationellt och regionalt viktiga dricksvattenresurser
+1\. Nationellt och regionalt viktiga dricksvattenresurser
 
-2. Översikt av regionalt viktiga vattenresurser samt vattenskyddsområden i Västra Götaland per
+2\. Översikt av regionalt viktiga vattenresurser samt vattenskyddsområden i Västra Götaland per
 delregion
-3. Metodbeskrivning urval av regionalt viktiga dricksvattenresurser
+3\. Metodbeskrivning urval av regionalt viktiga dricksvattenresurser
 
-4. Metodbeskrivning vattenbehov
-5. Sammanfattning från kommundialoger
+4\. Metodbeskrivning vattenbehov
+5\. Sammanfattning från kommundialoger
 
 <!-- sida 113 -->
 
-1.   Inledning
+1\.   Inledning
 
 Den här vattenförsörjningsplanen är ett led i Länsstyrelsens arbete för robust dricksvattenförsörjning
 i ett flergenerationsperspektiv. En viktig del i det arbetet är att skapa nödvändigt skydd för regionalt
@@ -4933,7 +4933,7 @@ geologiska undersökning, SMHI samt länsstyrelser i angränsande län.
 
 <!-- sida 124 -->
 
-2.  Vattenresurser               och     behov       idag
+2\.  Vattenresurser               och     behov       idag
 
 Vattenresurser i Västra Götaland
 
@@ -5472,7 +5472,7 @@ ansträngt läge för dricksvatten och uppmaningar om sparsamhet.
 
 <!-- sida 138 -->
 
-3.   Tillgång       och     behov       år   2100
+3\.   Tillgång       och     behov       år   2100
 
 Klimat-och samhällsförändringar kommer att påverka vattenbehovet och tillgången till vatten. I detta
 
@@ -6280,7 +6280,7 @@ användas för human konsumtion.
 
 <!-- sida 156 -->
 
-4.   Länets       dricksvattenresurser
+4\.   Länets       dricksvattenresurser
 
 För att en vattenresurs ska anses som en robust dricksvattenresurs för flera generationer framåt
 behöver flera kriterier vara uppfyllda. Vattentillgången behöver kunna täcka det behov som finns
@@ -6369,33 +6369,33 @@ Tabell 3. Nationellt och regionalt viktiga dricksvattenresurser i länet med ID-
 
 Nationellt viktiga dricksvattenresurser
 
-1. Göta Älv    2. Vänern       3. Vättern
+1\. Göta Älv    2. Vänern       3. Vättern
 
 Regionalt viktiga dricksvattenresurser – grundvatten
-13. Fänneslunda- 22. Magasinsgrupp Rösjön
-4. Algutstorp-Horla                                 31. Ödskölts moar
+13\. Fänneslunda- 22. Magasinsgrupp Rösjön
+4\. Algutstorp-Horla                                 31. Ödskölts moar
 Rångedala       Hornborga Valle Timmersdala
-5. Backen      14. Gråbodeltat 23. Rådaåsen         32. Örbydeltat
-6. Blidsberg-Ulricehamn 15. Göjeholm 24. Sandhem-Hömb norr 33. Östadsdeltat
-7. Nolåns dalgång 16. Hagelberg 25. Sandhem-Hömb söder 34. Östra Frölunda
+5\. Backen      14. Gråbodeltat 23. Rådaåsen         32. Örbydeltat
+6\. Blidsberg-Ulricehamn 15. Göjeholm 24. Sandhem-Hömb norr 33. Östadsdeltat
+7\. Nolåns dalgång 16. Hagelberg 25. Sandhem-Hömb söder 34. Östra Frölunda
 
-8. Bullarebygden 17. Hökensås  26. Svenljunga
-9. Dalsjöfors  18. Kinnarumma-Fritsla 27. Tibro
+8\. Bullarebygden 17. Hökensås  26. Svenljunga
+9\. Dalsjöfors  18. Kinnarumma-Fritsla 27. Tibro
 
-10. Nittorp    19. Kolarp      28. Tranemo
+10\. Nittorp    19. Kolarp      28. Tranemo
 
-11. Diseröd Norra 20. Töreboda 29. Ambjörnarp
-12. Diseröd Södra 21. Hova     30. Sjötofta
+11\. Diseröd Norra 20. Töreboda 29. Ambjörnarp
+12\. Diseröd Södra 21. Hova     30. Sjötofta
 
 Regionalt viktiga dricksvattenresurser – ytvatten
 
-35. Kärnsjön   40. Rådasjön    45. Västra Nedsjön   50. Öresjö Viskan
-36. Lelång     41. Stora Hällungen 46. Åsunden      51. Östra Nedsjön
+35\. Kärnsjön   40. Rådasjön    45. Västra Nedsjön   50. Öresjö Viskan
+36\. Lelång     41. Stora Hällungen 46. Åsunden      51. Östra Nedsjön
 
-37. Lygnern    42. Säven       47. Yttre Åsunden    52. Östra Öresjön
-38. Mjörn      43. Södra Bullaresjön 48. Ömmern
+37\. Lygnern    42. Säven       47. Yttre Åsunden    52. Östra Öresjön
+38\. Mjörn      43. Södra Bullaresjön 48. Ömmern
 
-39. Norra Bullaresjön 44. Tolken (Ulricehamn) 49. Öresjö Bäveån
+39\. Norra Bullaresjön 44. Tolken (Ulricehamn) 49. Öresjö Bäveån
 
 53
 
@@ -6417,7 +6417,7 @@ och hur de behöver förvaltas framgår av respektive läns vattenförsörjnings
 
 <!-- sida 160 -->
 
-5.   Åtgärder         för   robust
+5\.   Åtgärder         för   robust
 
 dricksvattenförsörjning
 
@@ -6859,7 +6859,7 @@ Tabell 7. Åtgärder riktade till Länsstyrelsen.
 
 <!-- sida 171 -->
 
-6.   Referenser
+6\.   Referenser
 
 Anna Eklund, 1998. SMHI Nr 74. Vattentemperaturer i sjöar, sommar och vinter. Resultat från SMHI:s
 mätningar.
@@ -6917,7 +6917,7 @@ livsmedelsstrategi-for-jobb-och-hallbar-tillvaxt-i-hela-landet/ , senast ändrad
 Miljösamverkan Skaraborg, 2025. https://www.miljoskaraborg.se/privatperson/vatten/vatten-till-
 miljon/vattenskyddsomraden/vatterns-vattenskyddsomrade/. Besökt 2026-01-15.
 MSB, 2025. Konsekvenser vid höga och låga vattennivåer i Vänern. Publikationsnummer: MSB2612 - Oktober
-2025. https://rib.msb.se/filer/pdf/31151.pdf
+2025\. https://rib.msb.se/filer/pdf/31151.pdf
 
 Rhode, A., Lindström, G., Rosberg, J. & Pers, C., 2006. Grundvattenbildning i svenska typjordar - översiktlig
 beräkning med en vattenbalansmodell. Uppsala Universitet: Report Series A, No. 66.
@@ -6925,7 +6925,7 @@ Rhode, A., Lindström, G., Dahnée, J., 2009. Grundvattennivåer i ett förändr
 nr 60–1642/2007.
 
 SCB, 2025, Folkmängd, antalet födda, döda och flyttningar efter region, kön och ålder. År 2024–2070,
-https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__BE__BE0401__BE0401A/BefProgOsiktRegN/.
+https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_BE\_\_BE0401\_\_BE0401A/BefProgOsiktRegN/.
 SCB, 2025a, Total vattenanvändning per användargrupp, efter region. Vart femte år 1990 – 2020. Total
 vattenanvändning per användargrupp, efter region. Vart femte år 1990 - 2020. PxWeb
 
@@ -6934,15 +6934,15 @@ https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/vattenanvandning/v
 vattenanvandning-i-sverige/
 SCB, 2025c, Statistiska centralbyråns statistikdatabas, Befolkningens anslutning till kommunalt vatten och
 avlopp. År 1960–2022.
-https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902C/MI0902T05/
+https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_MI\_\_MI0902\_\_MI0902C/MI0902T05/
 
 SCB, 2025d, Antal småhusfastigheter efter region, fastighetstyp, och vattenanslutning. Vart femte år 2000–
-2020, https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902C/MI0902T04/
+2020, https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_MI\_\_MI0902\_\_MI0902C/MI0902T04/
 SCB, 2025e. Jordbrukets vattenanvändning per typ av användning, efter region, Vart femte år 1995–2020.
-https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902E/VattenAnvJord/.
+https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_MI\_\_MI0902\_\_MI0902E/VattenAnvJord/.
 
 SCB, 2025f, Industrins vattenanvändning efter region och typ av vatten. År 2005 – 2020.
-https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__MI__MI0902__MI0902E/VattenAnv/
+https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START\_\_MI\_\_MI0902\_\_MI0902E/VattenAnv/
 SCB, 2022. Vattenanvändningen i Sverige 2020. Stockholm: Statistiska centralbyrån.
 https://www.scb.se/contentassets/54f765e90041445397b0fdc85aa04424/mi0902_2020a01_br_mi27br2201.p
 df
@@ -7748,7 +7748,7 @@ och förhandsbeskedsärenden utom plan. Många gånger har krav på bullerutredn
 
 med hänvisning till att det går att lösa med hälften av bostadsrummen mot ljuddämpad sida. Det har
 ofta varit lättare och billigare för enskilda husbyggare - att föreslå en planlösning med ljuddämpad sida
-- än att ta fram en bullerutredning. Detta förfarande har bygglovshandläggarna vid Kungsbacka
+\- än att ta fram en bullerutredning. Detta förfarande har bygglovshandläggarna vid Kungsbacka
 kommun främst använts sig av vid placering intill medelstora landsvägar där det är gränsfall om
 bullervärdena kommer överskridas vid någon sida.
 Att ta bort kravet på hälften av bostadsrummen ska ligga mot den ljuddämpade sidan, kommer
@@ -7869,17 +7869,17 @@ bostadsbyggnader (trafikbullerförordningen) återges nedan.
 
 Nuvarande lydelse:
 3 § Buller från spårtrafik och vägar bör inte överskrida
-1. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
-2. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan ska
+1\. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
+2\. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan ska
 anordnas i anslutning till byggnaden.
 
 För en bostad om högst 35 kvadrat meter gäller i stället för vad som anges i första stycket 1 att bullret
 inte bör överskrida 65 dBA ekvivalent ljudnivå vid bostadsbyggnadens fasad.
 
 4 § Om den ljudnivå som anges i 3 § första stycket 1 ändå överskrids bör
-1. minst hälften av bostadsrummen i en bostad vara vända mot en sida där 55 dBA ekvivalent ljudnivå
+1\. minst hälften av bostadsrummen i en bostad vara vända mot en sida där 55 dBA ekvivalent ljudnivå
 inte överskrids vid fasaden, och
-2. minst hälften av bostadsrummen vara vända mot en sida där 70 dBA maximal ljudnivå vid fasaden
+2\. minst hälften av bostadsrummen vara vända mot en sida där 70 dBA maximal ljudnivå vid fasaden
 inte överskrids mellan kl. 22.00 och 06.00.
 
 <!-- sida 196 -->
@@ -7894,16 +7894,16 @@ sida där 55 dBA ekvivalent ljudnivå inte överskrids vid fasaden.
 
 Föreslagen lydelse:
 3 § Buller från spårtrafik och vägar bör inte överskrida
-1. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
-2. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan ska
+1\. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
+2\. 50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan ska
 anordnas i anslutning till byggnaden.
 
 4 § Om den ljudnivå som anges i 3 § första stycket 1 ändå överskrids bör det finnas minst en
 ljuddämpad sida som skapar förutsättningar för en god utemiljö i anslutning till byggnaden.
 
 Vid en ljuddämpad sida bör:
-1. 55 dBA ekvivalent ljudnivå inte överskridas vid hela fasaden, och
-2. 70 dBA maximal ljudnivå vid hela fasaden inte överskridas mellan 22.00 och 06.00.
+1\. 55 dBA ekvivalent ljudnivå inte överskridas vid hela fasaden, och
+2\. 70 dBA maximal ljudnivå vid hela fasaden inte överskridas mellan 22.00 och 06.00.
 
 Om byggnaden vid tillämpning av första stycket har olika långa sidor bör i första hand en längre sida
 
@@ -7913,9 +7913,9 @@ Annan lagstiftning
 Plan och bygglagen förändras ej. Omgivningsbuller behandlas i
 PBL 2 kap 6 a § Vid planläggning och i ärenden om bygglov enligt denna lag ska bostadsbyggnader
 
-1. lokaliseras till mark som är lämpad för ändamålet med hänsyn till möjligheterna att förebygga
+1\. lokaliseras till mark som är lämpad för ändamålet med hänsyn till möjligheterna att förebygga
 olägenhet för människors hälsa i fråga om omgivningsbuller, och
-2. utformas och placeras på den avsedda marken på ett sätt som är lämpligt med hänsyn till
+2\. utformas och placeras på den avsedda marken på ett sätt som är lämpligt med hänsyn till
 
 möjligheterna att förebygga olägenhet för människors hälsa i fråga om omgivningsbuller.
 Med olägenhet för människors hälsa avses en störning som enligt medicinsk eller hygienisk
@@ -8008,7 +8008,7 @@ och förhandsbeskedsärenden utom plan. Många gånger har krav på bullerutredn
 
 med hänvisning till att det går att lösa med hälften av bostadsrummen mot ljuddämpad sida. Det har
 ofta varit lättare och billigare för enskilda husbyggare - att föreslå en planlösning med ljuddämpad sida
-- än att ta fram en bullerutredning. Detta förfarande har bygglovshandläggarna vid Kungsbacka
+\- än att ta fram en bullerutredning. Detta förfarande har bygglovshandläggarna vid Kungsbacka
 kommun främst använts sig av vid placering intill medelstora landsvägar där det är gränsfall om
 bullervärdena kommer överskridas vid någon sida.
 Att ta bort kravet på hälften av bostadsrummen ska ligga mot den ljuddämpade sidan, kommer
@@ -8336,7 +8336,7 @@ Dåvarande MSB investerade i en förtätning av utomhusvarning och utdelning av
 inomhusvarningsmottagare samt att fyra länsstyrelser försågs med luftprovtagare. Denna
 investering skrivs av med cirka 12 miljoner kronor per år, på avskrivningarna tillkom en
 räntekostnad som har varierat men som högst legat på cirka 4,8 miljoner kronor under
-2024. Avskrivningar för investeringarna för inom- och utomhusvarning kommer att pågå
+2024\. Avskrivningar för investeringarna för inom- och utomhusvarning kommer att pågå
 mellan åren 2024 — 2034. Kostnader direkt relaterade till avskrivning av dessa
 investeringar sjunker efter 2034. Det behöver dock inte medföra att beredskapsavgiften
 kan sänkas då det finns ett antal initiativ om ny kärnkraft som kan driva andra behov av
@@ -8440,7 +8440,7 @@ Avgift för nukleär icke-spridning: kärnämneskontroll
 
 Förslag på justerad avgiftsnivå
 
-SSM föreslår att avgifterna enligt 13 $ höjs med 14 procent inför 2027 och ytterligare en
+SSM föreslår att avgifterna enligt 13 \$ höjs med 14 procent inför 2027 och ytterligare en
 höjning med 14 procent inför 2028. Utöver det ser SSM behov av en mindre höjning med
 cirka 5 procent från och med 2029 så att myndigheten når en balans mellan intäkter och
 kostnader.
@@ -8448,7 +8448,7 @@ kostnader.
 ä
 
 SSM föreslår även att begreppet ”tillsyn som utövas” ersätts av ”verksamhet som bedrivs”
-i förordningstexten till 13 $ första stycket. Förordningstexten är i nuläget begränsad till
+i förordningstexten till 13 \$ första stycket. Förordningstexten är i nuläget begränsad till
 tillsyn som utövas av SSM enligt de internationella överenskommelserna i syfte att
 förhindra spridning av kärnvapen. Bestämmelsen är meddelad med stöd av lagen (1984:3)
 om kärnteknisk verksamhet (kärntekniklagen). SSM utför uppgifter som inte är direkta
@@ -8457,7 +8457,7 @@ området nukleär icke-spridning enligt kärntekniklagen.
 
 Konsekvensanalys
 
-I avgiftskollektivet i 13 $ ingår den som har tillstånd till kärnteknisk verksamhet. Det
+I avgiftskollektivet i 13 \$ ingår den som har tillstånd till kärnteknisk verksamhet. Det
 omfattar bland annat kärnkraftverk, bränslefabriken, mellanlagringsanläggningarna och
 övriga kärntekniska anläggningar. Den föreslagna avgiftshöjningen är förhållandevis liten
 i kronor för de enskilda tillståndshavarna. Förslaget på justerad avgiftsnivå beror i
@@ -8470,7 +8470,7 @@ kärnämnesinnehavare kommer därmed bli tydligare.
 
 Höjningen bedöms inte slå oproportionerligt hårt mot vissa aktörer eller påverka
 konkurrensen eftersom samtliga aktörerna på marknaden får samma avgiftsjustering.
-Enligt 13 $ kommer nya aktörer enbart att omfattas av avgiften efter att man har fått sitt
+Enligt 13 \$ kommer nya aktörer enbart att omfattas av avgiften efter att man har fått sitt
 KTL-tillstånd beviljat.
 
 Den föreslagna höjningen av kärnämneskontrollavgifter innebär en 14 procent högre
@@ -8483,12 +8483,12 @@ avgift avgift 2027 anläggningar per ökning 2027 per kvartal
 Ringhals (138 3) 270 000 308 000 2 14240 76 000
 OKG (138 3) 270 000 308 000 il 14240 38 000
 FKA (138 3) 270 000 308 000 3 14240 114 000
-Clab (13$ 4) 265 000 302 000 il 14240 37 000
+Clab (13\$ 4) 265 000 302 000 il 14240 37 000
 WSE (138 1) 512 000 584 000 il 14240 72 000
 Studsvik (138 5 13 000 14 800 il 14240 1800
 och 138 6) 10 000 11 400 I 14240 1400
-Chalmers (13$ 10 000 11 400 id 14240 1400
-6)
+Chalmers (13\$ 10 000 11 400 id 14240 1400
+6\)
 SVAFO (138 5 13 000 14 800 1 14240 1800
 och 138 6) 10 000 11 400 1 14240 1400
 Cyclife (138 5 13 000 14 800 1 14240 1800
@@ -8546,10 +8546,10 @@ Avgift för tillståndsprövning av ansökningar om tillstånd i 5 a 8
 
 Förslag på justerad avgiftsnivå
 
-SSM föreslår höjning med cirka 14 procent för 5 a $ 4-22 från och med 2027. För 2028
-föreslås en avgiftsjustering på ytterligare 12 procent för 5 a $ 1-22 och för 2029 samt 2030
+SSM föreslår höjning med cirka 14 procent för 5 a \$ 4-22 från och med 2027. För 2028
+föreslås en avgiftsjustering på ytterligare 12 procent för 5 a \$ 1-22 och för 2029 samt 2030
 ytterligare justering om 3 procent för respektive år. Myndigheten föreslår även en
-justering av inbördes avgiftsnivåer för tillståndspliktig laser i 5 a $ 1-3.
+justering av inbördes avgiftsnivåer för tillståndspliktig laser i 5 a \$ 1-3.
 
 Konsekvensanalys
 
@@ -8563,7 +8563,7 @@ V Sida 6 (10)
 
 Dokumentnr: 26-806
 
-Avgifterna för tillståndsprövning enligt 5a $ är idag differentierade genom att
+Avgifterna för tillståndsprövning enligt 5a \$ är idag differentierade genom att
 avgiftsnivåerna utgår från vilken utrustning/strålkälla som efterfrågat tillstånd gäller. Detta
 för att bättre spegla förväntad motprestation kopplat till nedlagd tid och risker. Detta
 förväntas ge tillståndshavarna en skälig avgiftsnivå.
@@ -8587,7 +8587,7 @@ giltighetstid = giltighetstid + giltighetstid
 Sår- 5år- Sår-
 förnyelse förnyelse förnyelse
 2027 2028 2029
-Tandvård En 5a$ 5 11b$ 1500 kronor 3 000 kronor 3 500 kronor
+Tandvård En 5a\$ 5 11b\$ 1500 kronor 3 000 kronor 3 500 kronor
 röntgen- per 5 år eller = per 5 år eller = per 5 år eller
 utrustning i 300 kronor 600 kronor 700 kronor
 en per år under = perårunder = per år under
@@ -8607,13 +8607,13 @@ Anmälningspliktig verksamhet
 
 Förslag på justerad avgiftsnivå
 Myndigheten föreslår en justering med cirka 10 procent, det vill säga en avgift på 2 040
-kronor i 16 $, 4 080 kronor i 17 $ och 38 590 kronor i 18 $.
+kronor i 16 \$, 4 080 kronor i 17 \$ och 38 590 kronor i 18 \$.
 
 Då myndigheten har tagit fram en ny föreskrift om anmälningsplikt för estetiska
 behandlingar som förväntas träda i kraft under 2026 behöver avgiftsförordningen
 kompletteras med följande punkt:
 
-13. anmälningspliktig verksamhet med behandlingar med icke-joniserande strålning.
+13\. anmälningspliktig verksamhet med behandlingar med icke-joniserande strålning.
 Vidare föreslår myndigheten att anmälningspliktig verksamhet får ett justerat ekonomiskt
 mål, från full kostnadstäckning till upp till full kostnadstäckning.
 
@@ -8627,14 +8627,14 @@ Dokumentnr: 26-806
 
 Konsekvensanalys
 
-Avgifterna för anmälningspliktig verksamhet i 16 $, 17 $ samt 18 $ behöver justeras på
+Avgifterna för anmälningspliktig verksamhet i 16 \$, 17 \$ samt 18 \$ behöver justeras på
 grund av ökade gemensamma kostnader på myndigheten i enlighet med tidigare justerad
 timtaxa?. Avgiften för anmälningsplikt ska täcka handläggning, tillsyn samt andra åtgärder
 kopplade till anmälningsplikt. Myndigheten har redan effektiviserat hanteringen av
 anmälningar genom att utveckla en webbaserad tjänst för snabb och effektiv elektronisk
 anmälan. Även om e-tjänsten fortsätter att utvecklas bedöms det inte.
 
-SSM har föreslagit att 16 $ kompletteras med ny punkt 13, anmälningspliktig
+SSM har föreslagit att 16 \$ kompletteras med ny punkt 13, anmälningspliktig
 
 verksamhet med behandlingar med icke-joniserande strålning. SSM har bedömt att den
 ekonomiska konsekvensen för mindre verksamheter inom estetiska behandlingar skulle
@@ -8654,7 +8654,7 @@ många utövare önskar. Att en stor andel av verksamhetsutövarna utför sin an
 är viktigt och SSM har därför föreslaget ett ändrat ekonomiskt mål från full
 kostnadstäckning till upp till full kostnadstäckning.
 
-Föreslagen nivåhöjning med cirka 1020 till 2 040 kronor för 16 $ är avvägd för att justera i
+Föreslagen nivåhöjning med cirka 1020 till 2 040 kronor för 16 \$ är avvägd för att justera i
 enlighet med de generella kostnadsökningarna utan att syftet motverkas med att införa ny
 punkt 13 med behandlingar med icke-joniserande strålning.
 
@@ -8666,7 +8666,7 @@ och stora aktörer samt olika geografiska områden inom samma bransch inte berä
 påverkas.
 
 Föreslagen höjning bedöms vara förhållandevis liten i kronor räknat för
-verksamhetsutövarna inom 16 $ och bedöms inte innebära ökad risk för att
+verksamhetsutövarna inom 16 \$ och bedöms inte innebära ökad risk för att
 verksamhetsutövare inte anmäler.. För verksamheter med arbetsställen med högre nivå av
 radon har avgiften haft en positiv effekt, man har vidtagit åtgärder för att sänka
 radonhalten.
@@ -8768,8 +8768,8 @@ dock begränsas på olika sätt, bland annat genom att föreslå ett maximalt be
 tilläggsfakturering och i god tid informera tillståndshavaren om en eventuell kommande
 tilläggsfakturering.
 
-Ytterligare ett alternativ är att uppdatera 9 $ med mer differentierat avgiftsuttag kopplat
-till de olika kategorierna av kärntekniska anläggningar som beskrivs i 3 $. Genom att dela
+Ytterligare ett alternativ är att uppdatera 9 \$ med mer differentierat avgiftsuttag kopplat
+till de olika kategorierna av kärntekniska anläggningar som beskrivs i 3 \$. Genom att dela
 upp avgiftsnivåerna kan anläggningar i kategori loch 3 (som tillverkning och
 mellanlagring av kärnbränsle) skiljas från verksamheter av annan karaktär. En sådan
 ändring kan motiveras både utifrån strålsäkerhetssynpunkt. En nackdel med ett sådant
@@ -8783,10 +8783,10 @@ Förslag om separation av 5a 8 och 11b 8
 
 Förslag på justerad avgiftsnivå
 
-Myndigheten föreslår en separation av avgiftsnivåerna i 5 a $ och 11 b 3.
+Myndigheten föreslår en separation av avgiftsnivåerna i 5 a \$ och 11 b 3.
 
 Myndigheten föreslår även att förordningstexten justeras så att avgift inom ramen för 11 b
-$ kan tas ut från det år tillstånd ges.
+\$ kan tas ut från det år tillstånd ges.
 
 Bakgrund
 
@@ -8795,14 +8795,14 @@ beroende på året för intäkten (det vill säga år 1, 2 ,3, 4 eller 5) så an
 verksamhet och kan både disponeras och inte disponeras av myndigheten. Detta medför
 att det är svårt att beräkna rimliga avgifter baserat på den verksamhet som ska bedrivas.
 Dessa svårigheter har påverkat att avgifterna under tid ackumulerat stora underskott. För
-avgifterna som disponeras (5 a $) fanns i slutet av 2025 ett ackumulerat underskott på
-cirka 10 miljoner kronor och för de avgifter som inte disponeras (11 b $) fanns i slutet av
+avgifterna som disponeras (5 a \$) fanns i slutet av 2025 ett ackumulerat underskott på
+cirka 10 miljoner kronor och för de avgifter som inte disponeras (11 b \$) fanns i slutet av
 2025 ett ackumulerat underskott på cirka 42 miljoner kronor. Den nuvarande
 avgiftskonstruktionen bygger på en antagen fördelning mellan kostnaderna att handlägga
 en ansökan och kostnaden för den löpande tillsynen av samma verksamhet.
 
-Underskottet inom 11 b $ på 42 mkr har myndigheten ansökt om att få avskrivet. Om
-avgifterna inom 11 b $ framöver ska kunna baseras på faktiska tillsynskostnader är det av
+Underskottet inom 11 b \$ på 42 mkr har myndigheten ansökt om att få avskrivet. Om
+avgifterna inom 11 b \$ framöver ska kunna baseras på faktiska tillsynskostnader är det av
 stor vikt att detta underskott skrivs av så att befintliga/nya aktörer/tillståndshavare endast
 
 <!-- sida 214 -->
@@ -8828,10 +8828,10 @@ tillsynsavgift varje år istället för att vara avgiftsfria det år tillstånde
 resurser kommer öka för tillsyn är det fortfarande lägre än den tillsyn som bedöms
 nödvändig, vilket även har påtalats som en brist i internationella granskningar.
 
-Myndigheten har tidigare i underlaget föreslagit justerade avgifter för 5a $ vilket med
+Myndigheten har tidigare i underlaget föreslagit justerade avgifter för 5a \$ vilket med
 nuvarande avgiftskonstruktion innebär att även avgifterna för 11b 83 justeras i likhet. Vid
-ett beslut om separation så kommer därför befintliga avgifter för 5a $ (vid ikraftträdandet)
-gälla även för 11b $. Myndigheten kan inte utesluta att avgifterna för 11b $ kommer
+ett beslut om separation så kommer därför befintliga avgifter för 5a \$ (vid ikraftträdandet)
+gälla även för 11b \$. Myndigheten kan inte utesluta att avgifterna för 11b \$ kommer
 behöva ses över ytterligare framöver och justeringar föreslås.
 
 Avgifterna är redan idag differentierade genom att avgiftsnivåerna utgår från
@@ -8900,26 +8900,26 @@ Dokumentnr: SSM2026-1060-2
 
 Innehållsförteckning
 
-1. Beredskapsavgift 12 §...................................................................................................3
-2. Avgift för nukleär icke-spridning: kärnämneskontroll 13 §.........................................5
-3. Avgift för tillståndsprövning av ansökningar om tillstånd i 5 a § 4-22........................9
+1\. Beredskapsavgift 12 §...................................................................................................3
+2\. Avgift för nukleär icke-spridning: kärnämneskontroll 13 §.........................................5
+3\. Avgift för tillståndsprövning av ansökningar om tillstånd i 5 a § 4-22........................9
 
-4. Avgift för tillståndsprövning av ansökningar om tillstånd i 5 a § 1-3........................10
-5. Anmälningspliktig verksamhet 16 §, 17 § och 18 §...................................................12
+4\. Avgift för tillståndsprövning av ansökningar om tillstånd i 5 a § 1-3........................10
+5\. Anmälningspliktig verksamhet 16 §, 17 § och 18 §...................................................12
 
-6. Ny anmälningspliktig verksamhet i 16 §....................................................................13
-7. Återkommande helhetsbedömning 9 §.......................................................................14
-8. Förslag om separation av 5 a § och 11 b §..................................................................16
+6\. Ny anmälningspliktig verksamhet i 16 §....................................................................13
+7\. Återkommande helhetsbedömning 9 §.......................................................................14
+8\. Förslag om separation av 5 a § och 11 b §..................................................................16
 
-9. Förslag på justerade avgiftsnivåer och förordningstext..............................................18
-10. Tabell över avgifter och föreslagna förändringar...................................................22
+9\. Förslag på justerade avgiftsnivåer och förordningstext..............................................18
+10\. Tabell över avgifter och föreslagna förändringar...................................................22
 
 <!-- sida 217 -->
 
 Sida 3 (23)
 Dokumentnr: SSM2026-1060-2
 
-1. Beredskapsavgift 12 §
+1\. Beredskapsavgift 12 §
 
 Förslag på justerad avgiftsnivå
 Myndigheten föreslår att beredskapsavgiften höjs med 22 procent.
@@ -9039,7 +9039,7 @@ visar hur olika tillståndshavare påverkas av den föreslagna justeringen.
 
 Tabell 2. Hur tillståndshavare påverkas av föreslagen justering (kr)
 
-2. Avgift för nukleär icke-spridning: kärnämneskontroll 13 §
+2\. Avgift för nukleär icke-spridning: kärnämneskontroll 13 §
 
 Förslag på justerad avgiftsnivå och justering av förordningstext
 SSM föreslår att avgifterna enligt 13 § höjs med 14 procent4 inför 2027 och ytterligare en
@@ -9257,7 +9257,7 @@ finansieras av avgiften, cirka 3,8 miljoner kronor.
 Sida 9 (23)
 Dokumentnr: SSM2026-1060-2
 
-3. Avgift för tillståndsprövning av ansökningar om tillstånd i
+3\. Avgift för tillståndsprövning av ansökningar om tillstånd i
 
 5 a § 4-22
 
@@ -9342,7 +9342,7 @@ industri och veterinärer.
 Förslaget innebär en ökad kostnad för de som lämnar in tillståndsansökan som ska prövas
 av myndigheten.
 
-4. Avgift för tillståndsprövning av ansökningar om tillstånd i
+4\. Avgift för tillståndsprövning av ansökningar om tillstånd i
 5 a § 1-3
 
 Förslag på justering
@@ -9431,7 +9431,7 @@ avgiftsjusteringarna beror på vilken effekt på lasern som tillståndet gäller
 Sida 12 (23)
 Dokumentnr: SSM2026-1060-2
 
-5. Anmälningspliktig verksamhet 16 §, 17 § och 18 §
+5\. Anmälningspliktig verksamhet 16 §, 17 § och 18 §
 
 Förslag på justerad avgiftsnivå
 Myndigheten föreslår en justering med cirka 10 procent, det vill säga en avgift på 2 040
@@ -9492,13 +9492,13 @@ Alla verksamheter som omfattas av anmälningsplikten påverkas. Anmälningsplikt
 omfattar ett relativt stort avgiftskollektiv. Förslaget innebär en kostnadsökning för
 anmälningspliktiga verksamheter.
 
-6. Ny anmälningspliktig verksamhet i 16 §
+6\. Ny anmälningspliktig verksamhet i 16 §
 
 Förslag på justering av 16 §
 Då myndigheten har tagit fram en ny föreskrift om anmälningsplikt för estetiska
 behandlingar som förväntas träda i kraft under 2026 behöver avgiftsförordningen
 kompletteras med följande punkt:
-13. anmälningspliktig verksamhet med behandlingar med icke-joniserande strålning.
+13\. anmälningspliktig verksamhet med behandlingar med icke-joniserande strålning.
 
 Vidare föreslår myndigheten att anmälningspliktig verksamhet får ett justerat ekonomiskt
 mål, från full kostnadstäckning till upp till full kostnadstäckning. Vid ett ändrat
@@ -9570,7 +9570,7 @@ förväntas förslaget ge?
 De verksamheter som ska betala den nya avgiften för estetiska behandlingar kommer få
 ökade kostnader.
 
-7. Återkommande helhetsbedömning 9 §
+7\. Återkommande helhetsbedömning 9 §
 
 Förslag på justerad avgiftsnivå
 För avgiften föreslås en höjning med 10 procent som innebär att avgiften för en kärn-
@@ -9664,7 +9664,7 @@ förväntas förslaget ge?
 De tillståndshavare som ska göra systematiska helhetsbedömningar påverkas av de
 justerade avgifterna.
 
-8. Förslag om separation av 5 a § och 11 b §
+8\. Förslag om separation av 5 a § och 11 b §
 
 Förslag på justering
 Myndigheten föreslår en separation av avgiftsnivåerna i 5 a § och 11 b §.
@@ -9738,53 +9738,53 @@ strålsäkerhet för människor och miljö.
 Sida 18 (23)
 Dokumentnr: SSM2026-1060-2
 
-9. Förslag på justerade avgiftsnivåer och förordningstext
+9\. Förslag på justerade avgiftsnivåer och förordningstext
 5 a § Avgift enligt 4 § 2 ska betalas till Strålsäkerhetsmyndigheten när ansökan ges in
-1. med 1 590 kronor per tillstånd för starka laserpekare med uteffekt som inte över-
+1\. med 1 590 kronor per tillstånd för starka laserpekare med uteffekt som inte över-
 skrider 30 milliwatt,
-2. med 7 500 kronor per tillstånd för starka laserpekare med uteffekt som överskrider 30
+2\. med 7 500 kronor per tillstånd för starka laserpekare med uteffekt som överskrider 30
 milliwatt,
-3. med 4 000 kronor per tillstånd för andra tillståndspliktiga lasrar än de som avses i 1
+3\. med 4 000 kronor per tillstånd för andra tillståndspliktiga lasrar än de som avses i 1
 och 2,
-4. med 6 800 kronor per generator för medicinsk röntgendiagnostik,
-5. med 2 600 kronor per generator för odontologisk röntgendiagnostik,
-6. med 4 200 kronor per generator för veterinärmedicinsk röntgendiagnostik,
-7. med 2 700 kronor för verksamhet med öppna strålkällor med en aktivitet som är högst
+4\. med 6 800 kronor per generator för medicinsk röntgendiagnostik,
+5\. med 2 600 kronor per generator för odontologisk röntgendiagnostik,
+6\. med 4 200 kronor per generator för veterinärmedicinsk röntgendiagnostik,
+7\. med 2 700 kronor för verksamhet med öppna strålkällor med en aktivitet som är högst
 100 megabecquerel,
-8. med 8 200 kronor för verksamhet med öppna strålkällor med en aktivitet som över-
+8\. med 8 200 kronor för verksamhet med öppna strålkällor med en aktivitet som över-
 stiger 100 megabecquerel men inte 10 gigabecquerel,
-9. med 46 500 kronor för verksamhet med öppna strålkällor med en aktivitet som över-
+9\. med 46 500 kronor för verksamhet med öppna strålkällor med en aktivitet som över-
 stiger 10 gigabecquerel,
-10. med 8 200 kronor per accelerator som överstiger 1 megaelektronvolt men inte
+10\. med 8 200 kronor per accelerator som överstiger 1 megaelektronvolt men inte
 100 megaelektronvolt,
-11. med 31 200 kronor per accelerator som överstiger 100 megaelektronvolt,
-12. med 4 200 kronor per utrustning för radiografering,
-13. med 2 700 kronor per sluten strålkälla som inte är en sluten strålkälla med hög
+11\. med 31 200 kronor per accelerator som överstiger 100 megaelektronvolt,
+12\. med 4 200 kronor per utrustning för radiografering,
+13\. med 2 700 kronor per sluten strålkälla som inte är en sluten strålkälla med hög
 aktivitet,
-14. med 13 800 kronor per utrustning som innehåller en eller flera slutna strålkällor
+14\. med 13 800 kronor per utrustning som innehåller en eller flera slutna strålkällor
 med hög aktivitet,
-15. med 13 700 kronor per tillstånd för installation och underhåll av strålkällor,
-16. med 16 800 kronor per utrustning för acceleratorer och koboltapparater för extern
+15\. med 13 700 kronor per tillstånd för installation och underhåll av strålkällor,
+16\. med 16 800 kronor per utrustning för acceleratorer och koboltapparater för extern
 strålterapi,
-17. med 5 700 kronor per utrustning för röntgenterapiutrustning för extern strålterapi,
-18. med 16 800 kronor per efterladdningsutrustning för brachyterapi,
-19. med 25 300 kronor per tillstånd för annan sluten strålkälla för brachyterapi med en
+17\. med 5 700 kronor per utrustning för röntgenterapiutrustning för extern strålterapi,
+18\. med 16 800 kronor per efterladdningsutrustning för brachyterapi,
+19\. med 25 300 kronor per tillstånd för annan sluten strålkälla för brachyterapi med en
 aktivitet som överstiger 100 gigabecquerel,
-20. med 102 600 kronor per tillstånd för nuklearmedicin med en aktivitet som är högst
+20\. med 102 600 kronor per tillstånd för nuklearmedicin med en aktivitet som är högst
 100 gigabecquerel,
-21. med 165 900 kronor per tillstånd för nuklearmedicin med en aktivitet som överstiger
+21\. med 165 900 kronor per tillstånd för nuklearmedicin med en aktivitet som överstiger
 100 gigabecquerel,
-22. med 4 200 kronor per teknisk anordning som kan alstra joniserande strålning som
+22\. med 4 200 kronor per teknisk anordning som kan alstra joniserande strålning som
 inte överstiger 1 megaelektronvolt,
-23. med 7 283 000 kronor per anläggning för acceleratorbaserad spallation för neutron-
+23\. med 7 283 000 kronor per anläggning för acceleratorbaserad spallation för neutron-
 forskningsändamål med en stråleffekt som överstiger 1 megawatt,
-24. med 353 000 kronor för verksamhet med elektronacceleratorbaserade synkrotron-
+24\. med 353 000 kronor för verksamhet med elektronacceleratorbaserade synkrotron-
 ljusanläggningar,
-25. med 43 000 kronor per tillstånd för gränsöverskridande transport av radioaktivt
+25\. med 43 000 kronor per tillstånd för gränsöverskridande transport av radioaktivt
 avfall,
-26. med 16 800 kronor per sådant transporttillstånd för radioaktivt avfall som avses i
+26\. med 16 800 kronor per sådant transporttillstånd för radioaktivt avfall som avses i
 direktiv 2006/117/Euratom, i den ursprungliga lydelsen,
-27. med 18 500 kronor, om ansökan avser transport av ett radioaktivt ämne som inte
+27\. med 18 500 kronor, om ansökan avser transport av ett radioaktivt ämne som inte
 omfattas av en ansökan enligt 7-9, 13, 14, 16, 18-21, 25 eller 26 § eller av 5 § andra stycket
 1-15.
 
@@ -9803,8 +9803,8 @@ kärnavfall enligt 5 § första stycket 13 ska avgift endast betalas enligt 5 §
 avgift för Strålsäkerhetsmyndighetens granskning av en sådan helhetsbedömning som
 avses i 10 a § lagen (1984:3) om kärnteknisk verksamhet. Avgiften ska efter särskild
 debitering betalas till Strålsäkerhetsmyndigheten
-1. med 6 020 000 kronor för en kärnkraftsreaktor under normaldrift, och
-2. med 2 550 000 kronor för övriga kärntekniska anläggningar.
+1\. med 6 020 000 kronor för en kärnkraftsreaktor under normaldrift, och
+2\. med 2 550 000 kronor för övriga kärntekniska anläggningar.
 11 b § Den som har tillstånd till verksamhet med joniserande eller icke-joniserande
 strålning ska betala avgift för Strålsäkerhetsmyndighetens kostnader för tillsyn över att
 strålskyddslagen (2018:396) och strålskyddsförordningen (2018:506) jämte villkor och
@@ -9812,37 +9812,37 @@ föreskrifter som har meddelats med stöd av dessa författningar följs samt f�
 åtgärder med anknytning till tillståndet. Avgiften ska, efter särskild debitering av Strål-
 säkerhetsmyndigheten, betalas för varje kalenderår från och med det år då beslut om
 tillstånd har getts
-1. med 1 590 kronor per tillstånd för starka laserpekare med uteffekt som inte över-
+1\. med 1 590 kronor per tillstånd för starka laserpekare med uteffekt som inte över-
 skrider 30 milliwatt,
-2. med 7 500 kronor per tillstånd för starka laserpekare med uteffekt som överskrider 30
+2\. med 7 500 kronor per tillstånd för starka laserpekare med uteffekt som överskrider 30
 milliwatt,
-3. med 4 000 kronor per tillstånd för andra tillståndspliktiga lasrar än de som avses i 1
+3\. med 4 000 kronor per tillstånd för andra tillståndspliktiga lasrar än de som avses i 1
 och 2,
-4. med 6 800 kronor per generator för medicinsk röntgendiagnostik,
-5. med 2 600 kronor per generator för odontologisk röntgendiagnostik,
-6. med 4 200 kronor per generator för veterinärmedicinsk röntgendiagnostik,
-7. med 2 700 kronor för verksamhet med öppna strålkällor med en aktivitet som är högst
+4\. med 6 800 kronor per generator för medicinsk röntgendiagnostik,
+5\. med 2 600 kronor per generator för odontologisk röntgendiagnostik,
+6\. med 4 200 kronor per generator för veterinärmedicinsk röntgendiagnostik,
+7\. med 2 700 kronor för verksamhet med öppna strålkällor med en aktivitet som är högst
 100 megabecquerel,
-8. med 8 200 kronor för verksamhet med öppna strålkällor med en aktivitet som över-
+8\. med 8 200 kronor för verksamhet med öppna strålkällor med en aktivitet som över-
 stiger 100 megabecquerel men inte 10 gigabecquerel,
-9. med 46 500 kronor för verksamhet med öppna strålkällor med en aktivitet som över-
+9\. med 46 500 kronor för verksamhet med öppna strålkällor med en aktivitet som över-
 stiger 10 gigabecquerel,
-10. med 8 200 kronor per accelerator som överstiger 1 megaelektronvolt men inte
+10\. med 8 200 kronor per accelerator som överstiger 1 megaelektronvolt men inte
 100 megaelektronvolt,
-11. med 31 200 kronor per accelerator som överstiger 100 megaelektronvolt,
-12. med 4 200 kronor per utrustning för radiografering,
-13. med 2 700 kronor per sluten strålkälla som inte är en sluten strålkälla med hög
+11\. med 31 200 kronor per accelerator som överstiger 100 megaelektronvolt,
+12\. med 4 200 kronor per utrustning för radiografering,
+13\. med 2 700 kronor per sluten strålkälla som inte är en sluten strålkälla med hög
 aktivitet,
-14. med 13 800 kronor per utrustning som innehåller en eller flera slutna strålkällor
+14\. med 13 800 kronor per utrustning som innehåller en eller flera slutna strålkällor
 med hög aktivitet,
-15. med 13 700 kronor per tillstånd för installation och underhåll av strålkällor,
-16. med 16 800 kronor per utrustning för acceleratorer och koboltapparater för extern
+15\. med 13 700 kronor per tillstånd för installation och underhåll av strålkällor,
+16\. med 16 800 kronor per utrustning för acceleratorer och koboltapparater för extern
 strålterapi,
-17. med 5 700 kronor per utrustning för röntgenterapiutrustning för extern strålterapi,
-18. med 16 800 kronor per efterladdningsutrustning för brachyterapi,
-19. med 25 300 kronor per tillstånd för annan sluten strålkälla för brachyterapi med en
+17\. med 5 700 kronor per utrustning för röntgenterapiutrustning för extern strålterapi,
+18\. med 16 800 kronor per efterladdningsutrustning för brachyterapi,
+19\. med 25 300 kronor per tillstånd för annan sluten strålkälla för brachyterapi med en
 aktivitet som överstiger 100 gigabecquerel,
-20. med 102 600 kronor per tillstånd för nuklearmedicin med en aktivitet som är högst
+20\. med 102 600 kronor per tillstånd för nuklearmedicin med en aktivitet som är högst
 100 gigabecquerel,
 
 <!-- sida 234 -->
@@ -9850,11 +9850,11 @@ aktivitet som överstiger 100 gigabecquerel,
 Sida 20 (23)
 Dokumentnr: SSM2026-1060-2
 
-21. med 165 900 kronor per tillstånd för nuklearmedicin med en aktivitet som överstiger
+21\. med 165 900 kronor per tillstånd för nuklearmedicin med en aktivitet som överstiger
 100 gigabecquerel,
-22. med 4 200 kronor per teknisk anordning som kan alstra joniserande strålning som
+22\. med 4 200 kronor per teknisk anordning som kan alstra joniserande strålning som
 inte överstiger 1 megaelektronvolt,
-23. med 353 000 kronor för verk-samhet med elektronacceleratorbaserade synkrotron-
+23\. med 353 000 kronor för verk-samhet med elektronacceleratorbaserade synkrotron-
 ljusanläggningar.
 
 Avgift enligt första stycket ska betalas för varje påbörjat kalenderår från och med det år
@@ -9872,13 +9872,13 @@ någon av beredskapskategorierna 1 a-2 enligt den klassificering som följer av 
 som Strålsäkerhetsmyndigheten har meddelat med stöd av 4 kap. 9 § strålskydds-
 förordningen (2018:506), ska betala beredskapsavgift. Avgiften ska efter särskild
 debitering av Strålsäkerhetsmyndigheten betalas förskottsvis för varje kalenderkvartal
-1. med 10 250 000 kronor per tillståndshavare med en eller flera verksamheter i
+1\. med 10 250 000 kronor per tillståndshavare med en eller flera verksamheter i
 beredskapskategori 1 a inom samma anläggningsområde,
-2. med 7 700 000 kronor per tillståndshavare med en eller flera verksamheter i
+2\. med 7 700 000 kronor per tillståndshavare med en eller flera verksamheter i
 beredskapskategori 1 b eller 1 c inom samma anläggningsområde,
-3. med 330 000 kronor för en kärnteknisk verksamhet i beredskapskategori 2, och
-4. med 330 000 kronor för en annan verksamhet i beredskapskategori 2 än som avses i
-3.
+3\. med 330 000 kronor för en kärnteknisk verksamhet i beredskapskategori 2, och
+4\. med 330 000 kronor för en annan verksamhet i beredskapskategori 2 än som avses i
+3\.
 
 Om en tillståndshavare har flera verksamheter som omfattas av en avgift enligt första
 stycket inom ett och samma anläggningsområde, ska avgift betalas med det belopp som är
@@ -9892,13 +9892,13 @@ beredskapskategorierna.
 samhet som bedrivs av Strålsäkerhetsmyndigheten enligt de internationella överens-
 kommelser i syfte att förhindra spridning av kärnvapen som Sverige tillträtt. Avgiften ska,
 efter debitering av Strålsäkerhetsmyndigheten, betalas för varje kalenderkvartal
-1. med 584 000 kronor för en anläggning för framställning av bränsle för kärnkrafts-
+1\. med 584 000 kronor för en anläggning för framställning av bränsle för kärnkrafts-
 reaktorer,
-2. med 249 000 kronor för en forsknings- och materialprovningsreaktor,
-3. med 308 000 kronor för en kärnkraftsreaktor,
-4. med 302 000 kronor för en anläggning för mellanlagring av använt kärnbränsle med
+2\. med 249 000 kronor för en forsknings- och materialprovningsreaktor,
+3\. med 308 000 kronor för en kärnkraftsreaktor,
+4\. med 302 000 kronor för en anläggning för mellanlagring av använt kärnbränsle med
 en bränslemängd som överstiger 1 000 ton,
-5. med 14 800 kronor för en anläggning för mellanlagring av använt kärnbränsle med
+5\. med 14 800 kronor för en anläggning för mellanlagring av använt kärnbränsle med
 en bränslemängd som inte överstiger 1 000 ton, och
 
 <!-- sida 235 -->
@@ -9906,7 +9906,7 @@ en bränslemängd som inte överstiger 1 000 ton, och
 Sida 21 (23)
 Dokumentnr: SSM2026-1060-2
 
-6. med 11 400 kronor för en anläggning för annan behandling av kärnämne än fram-
+6\. med 11 400 kronor för en anläggning för annan behandling av kärnämne än fram-
 ställning av bränsle.
 
 Avgiften ska betalas från och med kalenderkvartalet efter det att tillståndet gavs till och
@@ -9922,26 +9922,26 @@ förordningen (2018:506), ska betala avgift för Strålsäkerhetsmyndighetens ko
 handläggning av anmälan samt för tillsyn och andra åtgärder med anknytning till verk-
 samheten. Avgiften ska betalas till Strålsäkerhetsmyndigheten när anmälan ges in.
 Avgiften är 2 040 kronor för varje
-1. anmälningspliktig verksamhet med laser,
-2. anmälningspliktig verksamhet med mikrovågstorkning,
-3. teknisk anordning som kan alstra joniserande strålning i en anmälningspliktig
+1\. anmälningspliktig verksamhet med laser,
+2\. anmälningspliktig verksamhet med mikrovågstorkning,
+3\. teknisk anordning som kan alstra joniserande strålning i en anmälningspliktig
 verksamhet,
-4. anmälningspliktig verksamhet med komponenter som är tillverkade för att ingå i
+4\. anmälningspliktig verksamhet med komponenter som är tillverkade för att ingå i
 tekniska anordningar som kan alstra joniserande strålning,
-5. anmälningspliktig verksamhet med öppna strålkällor,
-6. anmälningspliktig verksamhet med handel med radioaktiva ämnen eller tekniska
+5\. anmälningspliktig verksamhet med öppna strålkällor,
+6\. anmälningspliktig verksamhet med handel med radioaktiva ämnen eller tekniska
 anordningar som kan alstra joniserande strålning,
-7. sluten strålkälla i en anmälningspliktig verksamhet,
-8. anmälningspliktig verksamhet med ett eller flera medicinska solarier,
-9. anmälningspliktig verksamhet med hantering av naturligt förekommande radioaktivt
+7\. sluten strålkälla i en anmälningspliktig verksamhet,
+8\. anmälningspliktig verksamhet med ett eller flera medicinska solarier,
+9\. anmälningspliktig verksamhet med hantering av naturligt förekommande radioaktivt
 material,
-10. anmälningspliktig verksamhet med detektorer med elektroninfångning (EC-
+10\. anmälningspliktig verksamhet med detektorer med elektroninfångning (EC-
 detektorer) som har en aktivitet som är högst 2 gigabecquerel,
-11. anmälningspliktig verksamhet med jonisatorer som har en aktivitet som är högst 2
+11\. anmälningspliktig verksamhet med jonisatorer som har en aktivitet som är högst 2
 gigabecquerel,
-12. anmälningspliktig verksamhet med kalibreringsstrålkällor som har en aktivitet som
+12\. anmälningspliktig verksamhet med kalibreringsstrålkällor som har en aktivitet som
 är högst 100 kilobecquerel eller slutna strålkällor som används för nuklearmedicin, och
-13. anmälningspliktig verksamhet med behandlingar med icke-joniserande strålning.
+13\. anmälningspliktig verksamhet med behandlingar med icke-joniserande strålning.
 17 § Den som enligt föreskrifter som Strålsäkerhetsmyndigheten har meddelat med stöd
 av 5 kap. 7 § strålskyddsförordningen (2018:506) ansvarar för att anmäla en verksamhet
 med arbetsplatser, där aktivitetskoncentrationen för radon överstiger referensnivån 200
@@ -9962,7 +9962,7 @@ och med det år då anmälan ges in.
 Sida 22 (23)
 Dokumentnr: SSM2026-1060-2
 
-10.    Tabell över avgifter och föreslagna förändringar
+10\.    Tabell över avgifter och föreslagna förändringar
 Tabellen visar en samlad bild över gällande avgifter och myndighetens förslag på
 justeringar. Avrundningar medför variationer i procentsatsen.
 
@@ -10384,18 +10384,18 @@ Dokumentnr: SSM2025-5769-5
 Sammanfattning....................................................................................................................2
 1In. nFeöhrsålalgl stifllö förrtoerdcnkinng ionmg ändring i förordningen (2003:789) om skydd mot olyckor4
 
-2. Uppdrag och genomförande..........................................................................................5
-3. Bakgrund.......................................................................................................................8
-4. Betydelsen av jodtabletter för skydd av allmänheten.................................................11
+2\. Uppdrag och genomförande..........................................................................................5
+3\. Bakgrund.......................................................................................................................8
+4\. Betydelsen av jodtabletter för skydd av allmänheten.................................................11
 
-5. Metoder i andra relevanta länder................................................................................14
-6. Enkätundersökning om täckningsgrad för förhandsutdelade jodtabletter...................19
+5\. Metoder i andra relevanta länder................................................................................14
+6\. Enkätundersökning om täckningsgrad för förhandsutdelade jodtabletter...................19
 
-7. Beskrivning och utvärdering av dagens metoder för utdelning av jodtabletter..........20
-8. Analys och förslag......................................................................................................23
-9. Kostnadsuppskattningar..............................................................................................31
+7\. Beskrivning och utvärdering av dagens metoder för utdelning av jodtabletter..........20
+8\. Analys och förslag......................................................................................................23
+9\. Kostnadsuppskattningar..............................................................................................31
 
-10. Behov av författningsändring..................................................................................33
+10\. Behov av författningsändring..................................................................................33
 Bilaga – Synpunkter från samverkande myndigheter.........................................................34
 
 <!-- sida 246 -->
@@ -10403,7 +10403,7 @@ Bilaga – Synpunkter från samverkande myndigheter.............................
 Sida 4 (35)
 Dokumentnr: SSM2025-5769-5
 
-1. Förslag till förordning om ändring i förordningen (2003:789)
+1\. Förslag till förordning om ändring i förordningen (2003:789)
 om skydd mot olyckor
 Härigenom föreskrivs i fråga om förordningen (2003:789) om skydd mot olyckor att
 4 kap. 27 § ska ha följande lydelse.
@@ -10416,9 +10416,9 @@ Nuvarande lydelse         Föreslagen lydelse
 Inom beredskapszonerna för kärn- Inom beredskaps- och planerings-
 kraftverken i Forsmark, Ringhals och zonerna för kärnkraftverken i Fors-
 Simpevarp ska             mark, Ringhals och Simpevarp ska jod-
-1. jodtabletter delas ut till allmän- tabletter delas ut till allmänheten i för-
+1\. jodtabletter delas ut till allmän- tabletter delas ut till allmänheten i för-
 heten i förhand, och  hand.
-2. en kompletterande utdelning av
+2\. en kompletterande utdelning av
 jodtabletter förberedas.
 
 Inom planeringszonerna för kärn- Inom beredskapszonerna för kärn-
@@ -10427,7 +10427,7 @@ Simpevarp ska en begränsad extraut- Simpevarp ska en kompletterande ut-
 delning av jodtabletter till allmänheten delning av jodtabletter till allmänheten
 förberedas.               förberedas.
 
-________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Denna förordning träder i kraft den 1 oktober 2026.
 
 <!-- sida 247 -->
@@ -10435,7 +10435,7 @@ Denna förordning träder i kraft den 1 oktober 2026.
 Sida 5 (35)
 Dokumentnr: SSM2025-5769-5
 
-2. Uppdrag och genomförande
+2\. Uppdrag och genomförande
 Strålsäkerhetsmyndigheten (SSM) har i sitt regleringsbrev för 20251 fått i uppdrag att ana-
 lysera och utvärdera olika metoder för förhands-, kompletterings- och extrautdelning av
 jodtabletter till allmänheten samt lämna förslag på hur den svenska metoden bör vara
@@ -10617,7 +10617,7 @@ Dokumentnr: SSM2025-5769-5
 Konsekvensutredning med anledning av den föreslagna förändringen i förordningen om
 skydd mot olyckor bifogas rapporten.
 
-3. Bakgrund
+3\. Bakgrund
 
 3.1      Beredskapszoner och planeringszoner
 Beredskapszoner och planeringszoner är områden kring verksamheter med joniserande
@@ -10805,7 +10805,7 @@ Planeringszon Många, inklusive Kalmar, Västervik, Många, inklusive
 (ca 100 km)   Uppsala, Gävle och Visby, Vetlanda, Storgöteborg, Borås
 norra Storstockholm Nybro och Eksjö och Halmstad
 
-4. Betydelsen av jodtabletter för skydd av allmänheten
+4\. Betydelsen av jodtabletter för skydd av allmänheten
 I detta avsnitt sammanfattas de av SSM:s konsekvensanalyser och ställningstaganden av-
 seende behov av jodtabletter inom kärnenergiberedskapen som ligger inom ramen för
 detta uppdrag. Resultaten sammanställs i en numrerad lista som sammanfattas i tre slut-
@@ -10855,11 +10855,11 @@ verksamheter med joniserande strålning”.21
 
 Förslag i rapporten som har bäring på planeringen för utdelning och intag av jodtabletter
 kan sammanfattas enligt följande:
-1. Det ska finnas en planering för utdelning av jodtabletter ut till 25 km från kärnkraft-
+1\. Det ska finnas en planering för utdelning av jodtabletter ut till 25 km från kärnkraft-
 verken.
-2. Det ska finnas en planering för en begränsad extrautdelning av jodtabletter ut till
+2\. Det ska finnas en planering för en begränsad extrautdelning av jodtabletter ut till
 100 km från kärnkraftverken.
-3. En detaljerad plan för inomhusvistelse i kombination med jodtabletter kan under vissa
+3\. En detaljerad plan för inomhusvistelse i kombination med jodtabletter kan under vissa
 omständigheter utgöra ett alternativ till utrymning.
 
 SSM för i rapporten (s. 40–41) ett resonemang om avvägning i beredskapsplaneringen
@@ -10898,7 +10898,7 @@ Dokumentnr: SSM2025-5769-5
 
 Resultat med bäring på utdelning och intag av jodtabletter inom ramen för detta uppdrag
 kan sammanfattas enligt följande:
-4. Utdelning och intag av jodtabletter kan vara motiverad för alla åldersgrupper ut till
+4\. Utdelning och intag av jodtabletter kan vara motiverad för alla åldersgrupper ut till
 100 km.
 Detta bekräftar slutsatserna från SSM Rapport 2017:27 om att det behövs en planering för
 utdelning (begränsad extrautdelning föreslås) och intag av jodtabletter inom plan-
@@ -10923,7 +10923,7 @@ tätorter är belägna i denna yttre del av de yttre beredskapszonerna (se tabel
 stråldoser efter skyddsåtgärder ska underskrida referensnivån behövs intag av jodtabletter
 på avstånd mellan ca 15 km och ca 25 km i yttre beredskapszonen. Detta kan samman-
 fattas enligt följande:
-5. Utdelning och intag av jodtabletter i yttre beredskapszonen är en förutsättning för att
+5\. Utdelning och intag av jodtabletter i yttre beredskapszonen är en förutsättning för att
 underskrida fastställda referensnivåer i strålskyddsförordningen och samtidigt be-
 gränsa behovet av utrymning till 15 km från kärnkraftverket.
 
@@ -10932,9 +10932,9 @@ höger i tabellen är den händelse och källterm som nämns i avsnitt 4.1. Övr
 representerar ett tio (mitten) respektive hundra (vänster) gånger så litet utsläpp.
 Skyddsåtgärd  Upp till FILTRA Mellan FILTRA och Större än
 10xFILTRA     10xFILTRA
-Utrymning     ~5 km         ~5 (~15)1 km  ~15 (~25)1 km
-Inomhusvistelse ~15 (~25)2 km ~25 (~50)2,4 km ~1004 km
-Jodtabletter  ~15 (~25)3 km ~25 (~50)3,4,5 km ~1004,5 km
+Utrymning     \~5 km         \~5 (\~15)1 km  \~15 (\~25)1 km
+Inomhusvistelse \~15 (\~25)2 km \~25 (\~50)2,4 km \~1004 km
+Jodtabletter  \~15 (\~25)3 km \~25 (\~50)3,4,5 km \~1004,5 km
 1 Det längre avståndet kan övervägas om intag av förhandsutdelade jodtabletter inte kan tillgodoräknas, om
 inomhusvistelse pågått mer än 1–2 dygn och i riktningar som saknar tätbefolkade områden.
 2 För barn och gravida kan inomhusvistelse vara motiverat ut till det längre avståndet.
@@ -10966,7 +10966,7 @@ ovan.
 Även om promemorian handlar om planeringen för sköldkörtelmätningar är analysen av
 möjliga sköldkörteldoser och möjliga hälsoeffekter på sköldkörteln relevant för förelig-
 gande uppdrag. Sammanfattningsvis visar promemorian att
-6. sköldkörtelrubbningar skulle kunna uppstå för oskyddade personer utanför yttre be-
+6\. sköldkörtelrubbningar skulle kunna uppstå för oskyddade personer utanför yttre be-
 redskapszonen (ca 35 km för ettåriga barn och foster) och för personer som vistas
 inomhus inom yttre beredskapszonen (ca 25 km för ettårigt barn och foster).
 
@@ -10995,7 +10995,7 @@ Slutsatsen sammanfattar punkterna 2 och 4, och behovet omhändertas med befint-
 lig planering under förutsättning att extrautdelning kan genomföras i berörda om-
 råden i planeringszonen.
 
-5. Metoder i andra relevanta länder
+5\. Metoder i andra relevanta länder
 SSM har inhämtat information om metoder för utdelning av jodtabletter till allmänheten i
 andra europeiska länder med kärnkraftverk i drift. Med två länder har möten med företräd-
 are för relevanta myndigheter kunnat genomföras. Respektive lands system för utdelning
@@ -11039,9 +11039,9 @@ et gäller i hela landet.
 
 Systemet med särskild upphandling och utdelning av jodtabletter inom barnhälsovården
 införs av flera skäl:
-1. Handeln i Finland tillhandahåller i dagsläget inte tabletter av lämplig storlek för att
+1\. Handeln i Finland tillhandahåller i dagsläget inte tabletter av lämplig storlek för att
 kunna delas till lämplig dosering för små barn.
-2. Apoteksbranschen bedömer att det finns risk att försäljningen av jodtabletter till all-
+2\. Apoteksbranschen bedömer att det finns risk att försäljningen av jodtabletter till all-
 mänheten (se nedan) i viss utsträckning inte primärt går till de grupper som framför
 allt behöver jodtabletter vid en olycka (dvs. barn, unga, och gravida), utan i högre
 grad till t.ex. äldre som är mer benägna att handla läkemedel på apotek.
@@ -11243,7 +11243,7 @@ tabletter till allmänheten varsomhelst i landet.
 Sida 19 (35)
 Dokumentnr: SSM2025-5769-5
 
-6. Enkätundersökning om täckningsgrad för förhandsutdelade
+6\. Enkätundersökning om täckningsgrad för förhandsutdelade
 jodtabletter
 Själva utdelningen av jodtabletter genom direktutskick med post når rimligen en hög andel
 av befolkningen i berörda områden. En viktig faktor för effekten av skyddsåtgärden intag
@@ -11280,16 +11280,16 @@ förhandsutdelade jodtabletter. Därför ber vi dig svara på fem enkla frågor.
 
 Därefter ställdes nedanstående fem frågor med angivna svarsalternativ:
 ”Har ditt hushåll idag utskickade jodtabletter hemma?”
-1. Ja
-2. Nej
-3. Vet ej
+1\. Ja
+2\. Nej
+3\. Vet ej
 ”Finns det ett eller flera barn under 18 år i hushållet?”
-1. Ja
-2. Nej
-3. Ej svar
+1\. Ja
+2\. Nej
+3\. Ej svar
 ”Är någon i hushållet gravid?”
-1. Ja
-2. Nej
+1\. Ja
+2\. Nej
 
 29 SSM2025-5722-17
 30 Postnummerområden som ligger delvis inom, delvis utanför en beredskapszon uteslöts ur under-
@@ -11303,14 +11303,14 @@ adress i beredskapszonerna vid Oskarshamn och Forsmark ingått i basen för urva
 Sida 20 (35)
 Dokumentnr: SSM2025-5769-5
 
-3. Ej svar
+3\. Ej svar
 ”Är du...”
-1. Man?
-2. Kvinna?
-3. Ej svar
+1\. Man?
+2\. Kvinna?
+3\. Ej svar
 ”Din ålder...”
-1. ... år
-2. Ej svar
+1\. ... år
+2\. Ej svar
 Senast ett större utskick av jodtabletter genomfördes var 2021 och 2022. Resultaten från
 enkäten visar att 3–4 år senare har totalt drygt sex av tio (63 %) utskickade jodtabletter
 hemma, och omkring en av tio (11 %) är osäkra på om de har utskickade jodtabletter hem-
@@ -11339,7 +11339,7 @@ jodtabletter. Detta ska tolkas med stor försiktighet eftersom underlaget endast
 personer. Verian rekommenderar ändå i sin analys att resultatet noteras, då det indikerar
 en tydligt lägre täckningsgrad bland hushåll med gravida jämfört med genomsnittet.
 
-7. Beskrivning och utvärdering av dagens metoder för utdelning
+7\. Beskrivning och utvärdering av dagens metoder för utdelning
 av jodtabletter
 I det här avsnittet beskrivs och utvärderas dagens metoder för förhands-, kompletterings-,
 och extrautdelning av jodtabletter i Sverige. Analysen omfattar systemet som det ser ut
@@ -11502,7 +11502,7 @@ till jodtabletter i planeringszonerna. Givet svårigheterna med dagens system f�
 delning redan i fredstid (se ovan) riskerar genomförbarheten att bli mycket låg under för-
 svårande omständigheter, inklusive höjd beredskap.
 
-8. Analys och förslag
+8\. Analys och förslag
 I detta avsnitt presenteras SSM:s analys och resulterande förslag avseende vilka metoder
 för utdelning av jodtabletter som ska användas i den svenska kärnenergiberedskapen.
 
@@ -11518,10 +11518,10 @@ på andra platser än idag (8.6).
 8.1      Allmänna utgångspunkter
 Oavsett hur utdelningen av jodtabletter genomförs i praktiken, finns olika metoder som
 kan övervägas. Tre huvudsakliga metoder kan identifieras:
-1. Jodtabletter skickas ut direkt till hushåll och verksamheter
-2. Hushåll och verksamheter erbjuds att hämta ut jodtabletter (gratis, till reducerat pris
+1\. Jodtabletter skickas ut direkt till hushåll och verksamheter
+2\. Hushåll och verksamheter erbjuds att hämta ut jodtabletter (gratis, till reducerat pris
 eller till fullkostnadspris)
-3. Jodtabletter lagerhålls och i händelse av en kärnkraftsolycka erbjuds hushåll och
+3\. Jodtabletter lagerhålls och i händelse av en kärnkraftsolycka erbjuds hushåll och
 verksamheter att hämta ut dem på utpekade platser
 
 I Sverige tillämpas i dag den första metoden i beredskapszonerna och den tredje metoden i
@@ -11959,7 +11959,7 @@ Sammantaget är det SSM:s bedömning att den kärnenergiberedskap avseende jodta
 som uppnås med de föreslagna metoderna för förhands- och kompletteringsutdelning utan
 väsentlig förändring kan tillämpas på eventuella andra platser än idag.
 
-9. Kostnadsuppskattningar
+9\. Kostnadsuppskattningar
 
 9.1      Jodtabletter i beredskapszonerna
 SSM föreslår inga förändringar i nuvarande system för förhands- och kompletteringsut-
@@ -12045,7 +12045,7 @@ dagens system för extrautdelning i planeringszonerna skulle kunna beräknas til
 2,5 miljoner kronor per år under en sjuårsperiod.
 
 39 Uppskattningen utgår från kostnaden för de tabletter som upphandlades inför utdelningen 2021–
-2022.
+2022\.
 40 Uppskattningen utgår främst från de kostnader som länsstyrelserna haft för utskick av jodtablet-
 ter till privatpersoner.
 
@@ -12062,7 +12062,7 @@ en för att fortsätta med beredskap för begränsad extrautdelning i planerings
 2,5 miljoner kronor per år) innebär att merkostnaden för den föreslagna förändringen upp-
 skattas till omkring 4 miljoner kronor per år.
 
-10.   Behov av författningsändring
+10\.   Behov av författningsändring
 Med anledning av SSM:s förslag att ersätta beredskapen för begränsad extrautdelning i
 planeringszoner med förhandsutdelning finns behov av ändring i 4 kap. 27 § förordningen
 om skydd mot olyckor. Det författningsförslag som SSM lämnar framgår av avsnitt 1. I bi-
@@ -14160,7 +14160,7 @@ tänka göra nytt, samarbeta och välkomna skapar vi tillsammans en god arbetspl
 
 f
 
-_________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1 Utdrag ur Kungsbacka kommuns vision som politiken fastställt ska gälla fram till år 2030.
 
 <!-- sida 324 -->

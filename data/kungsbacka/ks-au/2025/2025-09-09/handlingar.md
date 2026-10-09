@@ -138,7 +138,7 @@ pension och familjeskydd efter att uppdraget avslutats.
 
 Den 18 oktober 2024 beslutade styrelsen för Sveriges Kommuner och Regioner (SKR) att anta
 reglerna i OPF-KL § 5 om pensionsavgifter. I samband med detta bytte regelverket namn till OPF-KR
-25.
+25\.
 De nya bestämmelserna har anpassats så långt som möjligt till de pensions- och omställningsavtal som
 gäller för anställda i kommuner, regioner och kommunalförbund. I OPF-KR 25 § 5 har
 
@@ -225,8 +225,8 @@ andra eventuella förändringar. Översynen ska ske i dialog med medlemmarna.
 Kommunfullmäktige beslutade vid sammanträde att genom minoritetsåterremiss, återremittera ärendet
 för:
 
-1. Utredning av möjligheten att avslå omställningsstöd vid grovt förtroendeskadligt beteende, och
-2. Utformning av etiska riktlinjer för hur förtroendevalda bör uppträda och vad som utgör
+1\. Utredning av möjligheten att avslå omställningsstöd vid grovt förtroendeskadligt beteende, och
+2\. Utformning av etiska riktlinjer för hur förtroendevalda bör uppträda och vad som utgör
 oacceptabelt beteende.
 
 Kommunstyrelsens förvaltning har genomfört en omvärldsanalys av tillämpningen i andra kommuner.
@@ -238,12 +238,12 @@ I Kungsbacka kommun har det funnits ett lokalt regelverk som utgått från OPF-K
 tillägg. Detta regelverk har benämnts OPF-KL 22 och antogs i kommunfullmäktige den 15 juni 2022.
 Nedan följer de lokala tilläggen:
 
-1. Förtydligande av skrivningen om hur 40-procentsregeln ska tolkas (kap 2, § 1, st)
+1\. Förtydligande av skrivningen om hur 40-procentsregeln ska tolkas (kap 2, § 1, st)
 
-2. Förverkad rätt till omställningsstöd för förtroendevald som dömts till brott (kap 2, § 1, st 3)
+2\. Förverkad rätt till omställningsstöd för förtroendevald som dömts till brott (kap 2, § 1, st 3)
 
-3. Samordna inkomster från första dagen (kap 2, § 6, st 4 och 5)
-4. Egen aktivitet från första dagen (kap 2, § 7, st 2 och 3)
+3\. Samordna inkomster från första dagen (kap 2, § 6, st 4 och 5)
+4\. Egen aktivitet från första dagen (kap 2, § 7, st 2 och 3)
 
 De lokala tilläggen föreslås överföras till de nya bestämmelserna i OPF-KR 25, i de paragrafer där de
 tidigare sorterats, se förslag till Bestämmelser om omställningsstöd, pension och familjeskydd för
@@ -266,19 +266,19 @@ omställningsersättning inom ramen för OPF-regelverket.
 
 Att försöka reglera frågor om uppförande eller etik medför flera principiella och praktiska problem:
 
-- Rättsosäkerhet: Det är svårt att på ett rättssäkert sätt fastställa vad som utgör ”grovt
+\- Rättsosäkerhet: Det är svårt att på ett rättssäkert sätt fastställa vad som utgör ”grovt
 förtroendeskadligt beteende” eller ”oacceptabelt uppträdande”, särskilt om det inte rör sig om
 lagstadgade brottsliga handlingar. Att knyta ekonomiska sanktioner till sådana bedömningar
 riskerar att leda till godtycke.
-- Tolkningssvårigheter: Etiska riktlinjer som ska ligga till grund för beslut om ekonomisk
+\- Tolkningssvårigheter: Etiska riktlinjer som ska ligga till grund för beslut om ekonomisk
 ersättning kräver tydliga definitioner och objektiva tillämpningskriterier. Sådana är svåra att
 formulera och en utmaning att praktiskt tillämpa utan att hamna i bedömningar av personliga
 värderingar eller politiska hänsyn.
-- Partiernas ansvar: Det är i första hand respektive politiskt partis ansvar att ställa krav på sina
+\- Partiernas ansvar: Det är i första hand respektive politiskt partis ansvar att ställa krav på sina
 
 förtroendevalda vad gäller uppträdande, moral och efterlevnad av partiets värderingar. Eventuella
 sanktioner vid oacceptabelt uppträdande bör hanteras inom ramen för partiets egna strukturer.
-- Reglering i lag: Förtroendevaldas skyldigheter och ansvar regleras redan i flera lagar. Bland annat
+\- Reglering i lag: Förtroendevaldas skyldigheter och ansvar regleras redan i flera lagar. Bland annat
 anger kommunallagen (2017:725) att ett uppdrag som förtroendevald ska utföras med integritet
 och i enlighet med det allmännas bästa (1 kap. 7 §). Vidare gäller förvaltningslagens (2017:900)
 krav på objektivitet, saklighet och god förvaltningssed även när förtroendevalda agerar i rollen som
@@ -688,25 +688,25 @@ inom kommun, region eller kommunalförbund.
 
 OPF-KR25 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 •  Lokal pensionsmyndighet
 
 •  Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 •  Aktiva omställningsinsatser
 
 •  Ekonomiskt omställningsstöd
 •  Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
 •  Avgiftsbestämd pensionsbehållning
 •  Sjukpension
 
 •  Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 <!-- sida 19 -->
 
@@ -1032,9 +1032,9 @@ upphör också rätten till sjukpension.
 
 Anmärkningar
 
-1. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i
+1\. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i
 uppdraget (uppdragen).
-2. Sjukpensionen ska värdesäkras på motsvarande sätt som i de
+2\. Sjukpensionen ska värdesäkras på motsvarande sätt som i de
 bestämmelser som gäller för utbetalning av månadsersättning
 enligt AGS-KL.
 
@@ -1247,13 +1247,13 @@ kommunalförbund.
 
 OPF-KR25 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 •  Lokal pensionsmyndighet
 
 •  Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 
 •  Aktiva omställningsinsatser
 
@@ -1261,7 +1261,7 @@ OPF-KR25 indelas i fyra kapitel:
 
 •  Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
 •  Avgiftsbestämd pensionsbehållning
 
@@ -1269,7 +1269,7 @@ OPF-KR25 indelas i fyra kapitel:
 
 •  Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 <!-- sida 31 -->
 
@@ -1612,10 +1612,10 @@ upphör också rätten till sjukpension.
 
 Anmärkningar
 
-1. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i uppdraget
+1\. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i uppdraget
 (uppdragen).
 
-2. Sjukpensionen ska värdesäkras på motsvarande sätt som i de bestämmelser som
+2\. Sjukpensionen ska värdesäkras på motsvarande sätt som i de bestämmelser som
 gäller för utbetalning av månadsersättning enligt AGS-KL.
 
 Förtroendevald som befrias/frånträder sitt uppdrag p g a sjukdom har rätt till
@@ -1872,26 +1872,26 @@ för förtroendevalda som avses i 4 kap. § 1 kommunallagen. OPF-KL18 antas loka
 av fullmäktige inom kommun, landsting/region eller kommunalförbund.
 OPF-KL18 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
   Pensionsmyndighet
 
   Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 
   Aktiva omställningsinsatser
 
   Ekonomiskt omställningsstöd
   Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
   Avgiftsbestämd pensionsbehållning
   Sjukpension
 
   Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 Kapitel 1
 
@@ -2421,7 +2421,7 @@ Kungsbacka kommun Bestämmelser om omställningsstöd och pension för förtroen
 förtroendevaldes död. Omständigheterna ska vara sådana som anges i 12 kap. 8 §
 första stycket FAL.
 
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Bestämmelser om omställningsstöd och pension för förtroendevalda (OPF-KL 22) 13 (13)
 
@@ -2694,7 +2694,7 @@ Utbetalning av förmåner
 pensionshandläggare som ansökan om familjeskydd för efterlevande vuxen
 och familjeskydd för efterlevande barn.
 
-__________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Lokalt regelverk för bestämmelser om omställningsstöd, pension och familjeskydd för 6 (6)
 förtroendevalda, OPF-KL 22
@@ -2712,13 +2712,13 @@ Taxa för brandskyddskontroll 2026–2031
 
 Förslag till beslut i kommunfullmäktige
 
-1. Kommunfullmäktige antar taxa i enlighet med bilaga 1.
-2. Kommunfullmäktige antar taxebestämmelserna i enlighet med bilaga 2.
+1\. Kommunfullmäktige antar taxa i enlighet med bilaga 1.
+2\. Kommunfullmäktige antar taxebestämmelserna i enlighet med bilaga 2.
 
-4. Kommunfullmäktige beslutar att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026
+4\. Kommunfullmäktige beslutar att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026
 till och med den 31 december 2031 för Kungsbacka kommun med den justering som sker enligt
 beslutspunkt 5.
-5. Kommunfullmäktige beslutar att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska
+5\. Kommunfullmäktige beslutar att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska
 årligen justera taxorna enligt beslutspunkt 1 enligt Sveriges kommuner och regioners (SKR) Prisindex
 för kommunal verksamhet (PKV). Vid justeringen tillämpas det PKV som SKR årligen publicerar i
 februari, i samband med cirkuläret som omfattar budgetförutsättningar och skatteprognos. Taxan
@@ -2825,16 +2825,16 @@ Beslut
 Förbundsstyrelsen överlämnar till medlemskommunernas kommunstyrelser och kommunfullmäktige
 att besluta:
 
-1. att anta taxa i enlighet med bilaga 1
-2. att anta taxebestämmelserna i enlighet med bilaga 2,
+1\. att anta taxa i enlighet med bilaga 1
+2\. att anta taxebestämmelserna i enlighet med bilaga 2,
 
-3. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 till och med den 31
+3\. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 till och med den 31
 december 2031 för kommunerna Tjörn, Stenungsund och Lilla Edet, med den justering som sker
 enligt beslutspunkt 5,
-4. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026 till och med den 31
+4\. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026 till och med den 31
 december 2031 för kommunerna Göteborg, Mölndal, Kungsbacka, Härryda, Lerum och Partille
 med den justering som sker enligt beslutspunkt 5,
-5. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska årligen justera taxorna enligt
+5\. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska årligen justera taxorna enligt
 beslutspunkt 1 enligt Sveriges kommuner och regioners (SKR) Prisindex för kommunal
 verksamhet (PKV). Vid justeringen tillämpas det PKV som SKR årligen publicerar i februari, i
 samband med cirkuläret som omfattar budgetförutsättningar och skatteprognos. Taxan beräknas
@@ -2876,21 +2876,21 @@ Taxa  brandskyddskontroll     inom
 
 Räddningstjänsten     Storgöteborg
 
-1.   Förslag till beslut
+1\.   Förslag till beslut
 
 Förbundsstyrelsen överlämnar till medlemskommunernas kommunstyrelser och
 kommunfullmäktige att besluta:
 
-1. att anta taxa i enlighet med bilaga 1
-2. att anta taxebestämmelserna i enlighet med bilaga 2,
-3. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 till och
+1\. att anta taxa i enlighet med bilaga 1
+2\. att anta taxebestämmelserna i enlighet med bilaga 2,
+3\. att taxan enligt beslutspunkt 1 gäller från och med den 1 september 2026 till och
 med den 31 december 2031 för kommunerna Tjörn, Stenungsund och Lilla Edet,
 med den justering som sker enligt beslutspunkt 5,
-4. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026 till och med
+4\. att taxan enligt beslutspunkt 1 gäller från och med den 1 januari 2026 till och med
 den 31 december 2031 för kommunerna Göteborg, Mölndal, Kungsbacka, Härryda,
 Lerum och Partille med den justering som sker enligt beslutspunkt 5,
 
-5. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska årligen justera
+5\. att Räddningstjänstförbundet Storgöteborg för varje avgiftsår ska årligen justera
 taxorna enligt beslutspunkt 1 enligt Sveriges kommuner och regioners (SKR)
 Prisindex för kommunal verksamhet (PKV). Vid justeringen tillämpas det PKV som
 SKR årligen publicerar i februari, i samband med cirkuläret som omfattar
@@ -2898,7 +2898,7 @@ budgetförutsättningar och skatteprognos. Taxan beräknas enligt PKV för två 
 det år som taxebeloppet ska gälla. Justeringen görs med PKV enligt det cirkulär som
 publiceras året före det år taxebeloppet ska gälla.
 
-2.   Sammanfattning
+2\.   Sammanfattning
 
 Då föreskriftsrätt inte kan delegeras från kommun till kommunalförbund behöver
 RSG:s medlemskommuner fatta beslut om de taxor och frister som RSG ska tillämpa i
@@ -2923,7 +2923,7 @@ januari 2026.
 
 För Stenungssund, Tjörn och Lilla Edets kommuner från 1 september 2026.
 
-3.   Ärendet
+3\.   Ärendet
 
 Bakgrund
 RSG ansvarar enligt LSO för brandskyddskontroll. Avgifter för denna verksamhet får tas
@@ -2981,13 +2981,13 @@ med tidigare taxa.
 Lars Klevensparr           Joakim Ögren
 Förbundsdirektör           Handläggare
 
-4.   Bilagor
+4\.   Bilagor
 
-1. Taxa för brandskyddskontroll 2026
-2. Taxebestämmelser
-3. Redogörelse taxa brandskyddskontroll
+1\. Taxa för brandskyddskontroll 2026
+2\. Taxebestämmelser
+3\. Redogörelse taxa brandskyddskontroll
 
-4. BSK-taxa_2026 TU-
+4\. BSK-taxa_2026 TU-
 
 3 (3)
 
@@ -3002,7 +3002,7 @@ För Göteborg, Mölndal, Kungsbacka, Härryda, Partille och Lerums kommuner
 gäller från 1 januari 2026.
 För Stenungsund, Tjörn och Lilla Edets kommuner gäller taxan från 1 september
 
-2026.
+2026\.
 För utförande av föreskriven brandskyddskontroll enligt 3 kap. 4 § lag om skydd
 mot olyckor (2003:778) utgår ersättning enligt denna taxa.
 
@@ -3088,10 +3088,10 @@ Inledande bestämmelse
 1 §
 Enligt denna taxa utgår avgift för brandskyddskontroll avseende
 
-1. Objekt i småhus
+1\. Objekt i småhus
 
-2. Övriga objekt
-3. Särskilda bestämmelser
+2\. Övriga objekt
+3\. Särskilda bestämmelser
 
 Allmänna bestämmelser
 2 §
@@ -3743,7 +3743,7 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 88 -->
 
-1. Om Kungsbacka    Bredbandsnät
+1\. Om Kungsbacka    Bredbandsnät
 Kungsbacka bredbandsnät har genom Nämnden för Teknik sedan oktober 2010 i
 
 uppdrag av Kommunfullmäktige1 att svara för utbyggnad av kanalisation och
@@ -3778,7 +3778,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                2 (9)
 
 <!-- sida 89 -->
 
-2. Tjänster
+2\. Tjänster
 I Kungsbacka Bredbandsnät är idag en väsentlig del av anslutningarna till nätet
 
 relaterade till kommunens verksamhet. Det är ofta mycket kritiska anslutningar
@@ -3872,7 +3872,7 @@ SN 2     Kapacitet: runt alla runt alla Dygnet runt alla Dygnet runt alla
 99,90%    dagar    dagar      dagar       dagar
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
-•  Tillgänglighet = 100*(mätperiod-oplanerade avbrott) / mätperiod.
+•  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
 Servicetid: inom den tid vilken felavhjälpning och service sker.
@@ -3890,7 +3890,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                4 (9)
 Erbjudna tjänster uppfyller SSNF:s tekniska produktspecifikationer enligt
 Avtalspaketet för Cesar2 där så är tillämpligt och avtalat.
 
-3.       Avgifter och  taxor
+3\.       Avgifter och  taxor
 
 Samtliga priser är angivna exklusive moms om inget annat anges.
 
@@ -4063,7 +4063,7 @@ fibersatt område där Kungsbacka bredbandsnät tidigare lagt ner tom kanalisati
 (rör) vid tomtgräns. Byggnation av efteranslutningar sker under fastställda perioder
 som planeras årsvis.
 
-*Priser angivna inklusive moms.
+\*Priser angivna inklusive moms.
 
 3.6      Servicenivåer
 Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
@@ -4083,7 +4083,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                8 (9)
 
 [Tabell 94-2](handlingar.tabeller/94-2.csv)
 
-| Beskrivning | Engångsavgift* |
+| Beskrivning | Engångsavgift\* |
 | --- | --- |
 | Fiberanslutning till villa vid byggnation av ett område i tätort | 20 000 kr |
 | Fiberanslutning till villa vid byggnation av ett område på landsbygd | 25 000 kr |
@@ -4107,9 +4107,9 @@ fiberinstallation orsakad av tredje part, arbete i noder, aktivering eller omkop
 Avgiften kan även ligga till grund för riktpris gällande andra åtaganden som kräver
 teknikerinsats. Även restid och inställelsetid debiteras med samma timpris.
 
-* Pris angivet inklusive moms.
+\* Pris angivet inklusive moms.
 
-________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun             Bredbandstaxa 2026                9 (9)
 
@@ -4123,7 +4123,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                9 (9)
 
 [Tabell 95-2](handlingar.tabeller/95-2.csv)
 
-| Arbete | Pris * | Förklaring |
+| Arbete | Pris \* | Förklaring |
 | --- | --- | --- |
 | Fibertekniker | 800 kr | Per påbörjad timme. Helgfri vardag kl.08-16 |
 
@@ -4374,14 +4374,14 @@ Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
 <!-- sida 102 -->
 
-1. Inledning
+1\. Inledning
 
 Detta dokument innehåller alla taxor som innebär kostnader kopplat till
 parkering för motorfordon. I respektive avsnitt beskrivs taxorna för
 parkeringsavgifter, boendeparkeringsavgifter, nyttokort samt
 felparkeringsavgifter och kontrollavgifter.
 
-2. Inledande bestämmelser    för parkeringsavgifter
+2\. Inledande bestämmelser    för parkeringsavgifter
 
 Möjligheten att reglera parkering med avgift styrs av Lag (1957:259) om rätt för
 kommun att ta ut avgift för vissa upplåtelser av offentlig plats, m. m. I lagen anges
@@ -4443,7 +4443,7 @@ Kungsbacka kommun      Taxa för parkeringsavgifter och felparkeringsavgifter 3 
 
 <!-- sida 104 -->
 
-3. Boendeparkering
+3\. Boendeparkering
 
 Enligt 2 § i Lag (1957:259) om rätt för kommun att ta ut avgift för vissa upplåtelser
 av offentlig plats, m. m. får parkeringsavgifter tas ut efter särskilda grunder för de
@@ -4477,7 +4477,7 @@ Kungsbacka kommun      Taxa för parkeringsavgifter och felparkeringsavgifter 4 
 
 <!-- sida 105 -->
 
-4. Nyttoparkering
+4\. Nyttoparkering
 
 Enligt 2 § i Lag (1957:259) om rätt för kommun att ta ut avgift för vissa upplåtelser
 av offentlig plats, m. m. får parkeringsavgifter tas ut på särskilda grunder för
@@ -4507,7 +4507,7 @@ Kungsbacka kommun      Taxa för parkeringsavgifter och felparkeringsavgifter 5 
 
 <!-- sida 106 -->
 
-5. Felparkeringsavgifter och  kontrollavgifter
+5\. Felparkeringsavgifter och  kontrollavgifter
 
 Möjligheten att ta ut en felparkeringsavgift styrs av Lag (1976:206) om
 felparkeringsavgift där det anges att regeringen beslutar om det högsta och lägsta
@@ -6851,7 +6851,7 @@ R
 centrum och fylla de tomrum som finns idag          VERKSAMHETER P A
 med stadsmässig bebyggelse. Genom områdets          P H - O H T U E S LL 1. 3.
 nordöstra del kopplar centrumstråket (1) sam-               TORG
-2.         4.
+2\.         4.
 man innerstaden med stadsdelen Valand och 7.
 FÖRSKOLA    BOSTÄDER
 Kungsmässan. Längs stråket ska bebyggelsen
@@ -6859,15 +6859,15 @@ LEKPLATS    KONTOR
 ha publika funktioner i bottenvåningarna med       CENTRUM-
 VERKSAMHETER
 entréer mot stråket.                               HOTELL
-6.
-5.
+6\.
+5\.
 Bilgatan vid Sjöallén frigörs från biltrafik ge-
 nom att gatan flyttar väster ut (2) och ansluter
 till den nybyggda cirkulationen vid Kungsga-
 tan. Platsen och stråket längs Kungsbackaån
 blir då ett viktigt offentligt rum för fotgängare
 och cyklister att vistas i (3).
-8.
+8\.
 4 Planprogram                                                                                                                    Planprogram 5
 
 <!-- sida 163 -->
@@ -7284,15 +7284,15 @@ tan angränsar området till flerbostadshus som är tegelhus uppförda i tre vå
 
 <!-- sida 172 -->
 
-1. Alléskolan används idag som boendelokaler för 2. Grundens förskola längs Bissmarksgatan.
+1\. Alléskolan används idag som boendelokaler för 2. Grundens förskola längs Bissmarksgatan.
 nyanlända.
 
-3. Skogsalléns lekpark i programområdets västa del. 4. Återvinningsstation centralt placerad i området.
+3\. Skogsalléns lekpark i programområdets västa del. 4. Återvinningsstation centralt placerad i området.
 
 5 Parkeringshus i stadsdelen Valand 6. Bostäder längs Bissmarksgatan.
 
-8. Innerstaden gränsar i östra delen.
-7. Västra Villastaden i södra programområdet.
+8\. Innerstaden gränsar i östra delen.
+7\. Västra Villastaden i södra programområdet.
 
 14 Planprogram                                                                                                                   Planprogram 15
 
@@ -7731,7 +7731,7 @@ Bostads- och centrumkvarter, verksamhetslo-
 kaler i bottenvåningen och flerbostadshus i upp
 Grönområde/park- och vattenområde
 till sex våningar, hotell. Integrerat parkeringshus.
-3.
+3\.
 Bostads- och centrumkvarter, verksamhets-
 Utvecklingsområde, bostäder
 lokaler i bottenvåningen och flerbostadshus i tre
@@ -7742,10 +7742,10 @@ lokaler och parkeringshus.  Utbildningslokaler (ex förskola). Byggnader i
 upp till tre våningar föreslås att placeras mot ny
 gata genom kvarteret Ejdern.
 Utvecklingsområde, utbildningslokaler
-5.
+5\.
 Utveckling av park- och vattenområde längs
 Programområde             Kungsbackaån.
-6.
+6\.
 Lekpark och Skogsallén bevaras.
 Ny gata mellan Kungsgatan och Skogsallén
 genom kvarteret Ejdern samt utmed Skogsallén a. Centrumstråk - länk mellan Kungsmässan och

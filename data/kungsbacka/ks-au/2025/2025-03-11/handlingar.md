@@ -187,11 +187,11 @@ tillägg. Detta regelverk har benämnts OPF-KL 22 och antogs i kommunfullmäktig
 
 Nedan följer de lokala tilläggen:
 
-1. Förtydligande av skrivningen om hur 40-procentsregeln ska tolkas (kap 2, § 1, st)
-2. Förverkad rätt till omställningsstöd för förtroendevald som dömts till brott (kap 2, § 1, st 3)
+1\. Förtydligande av skrivningen om hur 40-procentsregeln ska tolkas (kap 2, § 1, st)
+2\. Förverkad rätt till omställningsstöd för förtroendevald som dömts till brott (kap 2, § 1, st 3)
 
-3. Samordna inkomster från första dagen (kap 2, § 6, st 4 och 5)
-4. Egen aktivitet från första dagen (kap 2, § 7, st 2 och 3)
+3\. Samordna inkomster från första dagen (kap 2, § 6, st 4 och 5)
+4\. Egen aktivitet från första dagen (kap 2, § 7, st 2 och 3)
 
 De lokala tilläggen föreslås överföras till de nya bestämmelserna i OPF-KR 25, i de paragrafer där de
 tidigare sorterats, se förslag till Bestämmelser om omställningsstöd, pension och familjeskydd för
@@ -240,25 +240,25 @@ inom kommun, region eller kommunalförbund.
 
 OPF-KR25 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 •  Lokal pensionsmyndighet
 
 •  Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 •  Aktiva omställningsinsatser
 
 •  Ekonomiskt omställningsstöd
 •  Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
 •  Avgiftsbestämd pensionsbehållning
 •  Sjukpension
 
 •  Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 <!-- sida 9 -->
 
@@ -584,9 +584,9 @@ upphör också rätten till sjukpension.
 
 Anmärkningar
 
-1. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i
+1\. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i
 uppdraget (uppdragen).
-2. Sjukpensionen ska värdesäkras på motsvarande sätt som i de
+2\. Sjukpensionen ska värdesäkras på motsvarande sätt som i de
 bestämmelser som gäller för utbetalning av månadsersättning
 enligt AGS-KL.
 
@@ -799,13 +799,13 @@ kommunalförbund.
 
 OPF-KR25 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
 
 •  Lokal pensionsmyndighet
 
 •  Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 
 •  Aktiva omställningsinsatser
 
@@ -813,7 +813,7 @@ OPF-KR25 indelas i fyra kapitel:
 
 •  Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
 •  Avgiftsbestämd pensionsbehållning
 
@@ -821,7 +821,7 @@ OPF-KR25 indelas i fyra kapitel:
 
 •  Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 <!-- sida 21 -->
 
@@ -1164,10 +1164,10 @@ upphör också rätten till sjukpension.
 
 Anmärkningar
 
-1. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i uppdraget
+1\. Sjukpensionen utges i förhållande till nedsatt arbetsförmåga i uppdraget
 (uppdragen).
 
-2. Sjukpensionen ska värdesäkras på motsvarande sätt som i de bestämmelser som
+2\. Sjukpensionen ska värdesäkras på motsvarande sätt som i de bestämmelser som
 gäller för utbetalning av månadsersättning enligt AGS-KL.
 
 Förtroendevald som befrias/frånträder sitt uppdrag p g a sjukdom har rätt till
@@ -1424,26 +1424,26 @@ för förtroendevalda som avses i 4 kap. § 1 kommunallagen. OPF-KL18 antas loka
 av fullmäktige inom kommun, landsting/region eller kommunalförbund.
 OPF-KL18 indelas i fyra kapitel:
 
-1. Inledande bestämmelser
+1\. Inledande bestämmelser
   Pensionsmyndighet
 
   Ändringar av och tillägg till bestämmelserna
 
-2. Omställningsstöd
+2\. Omställningsstöd
 
   Aktiva omställningsinsatser
 
   Ekonomiskt omställningsstöd
   Förlängt ekonomiskt omställningsstöd
 
-3. Pensionsbestämmelser
+3\. Pensionsbestämmelser
 
   Avgiftsbestämd pensionsbehållning
   Sjukpension
 
   Efterlevandeskydd
 
-4. Familjeskydd
+4\. Familjeskydd
 
 Kapitel 1
 
@@ -1973,7 +1973,7 @@ Kungsbacka kommun Bestämmelser om omställningsstöd och pension för förtroen
 förtroendevaldes död. Omständigheterna ska vara sådana som anges i 12 kap. 8 §
 första stycket FAL.
 
-______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Bestämmelser om omställningsstöd och pension för förtroendevalda (OPF-KL 22) 13 (13)
 
@@ -2246,7 +2246,7 @@ Utbetalning av förmåner
 pensionshandläggare som ansökan om familjeskydd för efterlevande vuxen
 och familjeskydd för efterlevande barn.
 
-__________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Kungsbacka kommun Lokalt regelverk för bestämmelser om omställningsstöd, pension och familjeskydd för 6 (6)
 förtroendevalda, OPF-KL 22
@@ -2394,7 +2394,7 @@ Kommunfullmäktige antar Regler och riktlinjer för förmåner till förtroendev
 daterade 2020-03-23, att gälla från och med 1 januari 2023, med den ändringen att
 det görs ett tillägg i tabellen under rubrik 4.3 Vad som ingår i deltidsarvodet för
 utskottsledamot, som innebär att det läggs till en rad 13 som lyder:
--  Enskild ledamot i individutskottet kan inträda för att fatta beslut om
+\-  Enskild ledamot i individutskottet kan inträda för att fatta beslut om
 
 omedelbart omhändertagande enligt tjänstgöringslista
 För aktiviteten betalas dagarvode och timersättning efter beslut i nämnden.
@@ -2461,7 +2461,7 @@ Johan Tolinsson (S) yrkar att reglerna ska börja gälla från 1 augusti 2020.
 Maria Losman (MP) yrkar att ärendet ska återremitteras till arvodesberedningen med
 
 motiveringen:
--  Vi ser inte att Arvodesberedningens uppdrag är fullföljt när det gäller att göra
+\-  Vi ser inte att Arvodesberedningens uppdrag är fullföljt när det gäller att göra
 en översyn som skapar förutsättningar för invånare att ta politiska uppdrag.
 Någonstans på vägen bestämdes att kommunalrådens arvoden inte skulle
 röras. Det är bra att beredningen kommit fram till att vi ska följa
@@ -2835,7 +2835,7 @@ manifestation till minnet av Förintelsens offer. Vi anser givetvis att det ska 
 Internationella minnesdagen den 27 januari varje år.
 
 Socialdemokraterna yrkar att kommunfullmäktige beslutar att:
-- Inrätta en årlig minnesdag för Förintelsens offer i samband med den internationella
+\- Inrätta en årlig minnesdag för Förintelsens offer i samband med den internationella
 
 minnesdagen.
 
@@ -3038,9 +3038,9 @@ Nämnden för Vård & Omsorg anser att den nuvarande lagstiftningen i kombinatio
 mellan region och kommuner (utvecklas ytterligare under punkt 4.2 ) tillräckligt tydliggör kraven på
 medicinsk bedömning dygnet runt.
 
-- Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
+\- Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
 läkarresurser som behövs till kommunerna för att kunna erbjuda god hälso- och sjukvård.
-- Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en god
+\- Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en god
 hälso- och sjukvård till de som vistas på Särskilda boenden eller Bostad med Särskild service.
 
 <!-- sida 69 -->
@@ -3048,7 +3048,7 @@ hälso- och sjukvård till de som vistas på Särskilda boenden eller Bostad med
 KUNGSBACKA  KOMMUN
 5 (8)
 
-- Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
+\- Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
 regionen överlåta skyldighet att erbjuda hälso- och sjukvård i hemmet (hemsjukvård). Undantaget
 
 hälso- och sjukvård som ges av läkare.
@@ -3246,9 +3246,9 @@ Kommunen anser att den nuvarande lagstiftningen i kombination med tecknade avtal
 
 och kommuner (utvecklas ytterligare under punkt 4.2 i detta yttrande) tillräckligt tydliggör kraven på
 medicinsk bedömning dygnet runt.
-- Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
+\- Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
 läkarresurser som behövs till kommunerna för att kunna erbjuda god hälso- och sjukvård.
-- Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en god
+\- Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en god
 hälso- och sjukvård till de som vistas på Särskilda boenden eller Bostad med Särskild service.
 
 1 (5)
@@ -3265,7 +3265,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (5)
 
-- Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
+\- Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
 regionen överlåta skyldighet att erbjuda hälso- och sjukvård i hemmet (hemsjukvård). Undantaget
 
 hälso- och sjukvård som ges av läkare.
@@ -3479,12 +3479,12 @@ mellan region och kommuner (utvecklas ytterligare under punkt 4.2 i detta yttran
 
 tydliggör kraven på medicinsk bedömning dygnet runt.
 
--  Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
+\-  Hälso- och sjukvårdslagen (2017:30) 16 kap. 1 § beskriver regionens krav på att avsätta de
 läkarresurser som behövs till kommunerna för att kunna erbjuda god hälso- och sjukvård.
--  Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en
+\-  Hälso- och sjukvårdslagen (2017:30) 12 kap. 1§ beskriver kommunens ansvar att erbjuda en
 god hälso- och sjukvård till de som vistas på Särskilda boenden eller Bostad med Särskild
 service.
--  Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
+\-  Hälso- och sjukvårdslagen (2017:30) 14 kap. 1§ beskriver att regionen får till en kommun inom
 regionen överlåta skyldighet att erbjuda hälso- och sjukvård i hemmet (hemsjukvård).
 Undantaget hälso- och sjukvård som ges av läkare.
 
@@ -3665,7 +3665,7 @@ Regeringen beslutade 22 juni 2023 att tillsätta en särskild utredare med uppdr
 analysera och lämna förslag som stärker den medicinska kompetensen i kommunal
 hälso- och sjukvård (dir. 2023:98). Utredningen överlämnade betänkandet Stärkt
 medicinsk kompetens i kommunal hälso- och sjukvård (SOU 2024:72) i november
-2024.
+2024\.
 
 Utredningen föreslår åtgärder för att säkerställa den medicinska kompetensen inom
 kommunal hälso- och sjukvård och därigenom höja kvaliteten på vården. Några av
@@ -4610,7 +4610,7 @@ grundar sig på befolkningstalen publicerade av SCB per 2024-11-01 och
 kommer att justeras när de definitiva befolkningsuppgifterna per 2024-12-
 31 är publicerade.
 Medlemskommunernas synpunkter ska vara GR tillhanda senast 7 april
-2025. Beslut fattas i förbundsstyrelsen 9 maj och därefter i förbunds-
+2025\. Beslut fattas i förbundsstyrelsen 9 maj och därefter i förbunds-
 fullmäktige den 10 juni.
 
 Beslutsunderlag

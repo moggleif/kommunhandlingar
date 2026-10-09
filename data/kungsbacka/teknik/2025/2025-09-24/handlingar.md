@@ -11754,7 +11754,7 @@ enligt de grunder som har beslutats av kommunfullmäktige.
 2 – p 7, p 8.1, p 9 – p 11 och p 13.3 – p 14.3 kan dömas till
 penningböter enligt 3 kap. 22 § andra stycket ordningslagen.
 
-\_____
+\_\_\_\_\_
 
 I ordningslagen finns bestämmelser om föreläggande och
 förverkande.
@@ -17830,14 +17830,14 @@ Sidor
 Tvist avseende tillämpning eller tolkning av detta avtal ska avgöras av allmän domstol
 enligt svensk lag.
 
-\____________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Detta avtal är upprättat i två (2) likalydande exemplar varav parterna tagit var sitt.
 
-\_________________________       _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum                   Ort och datum
 
-\_________________________       _________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Hanna Jonsson Enhetschef       Ulrika Granfors Enhetschef
 Infrastrukturplanering Väg      Förvaltningschef för Teknik
 Trafikverket Västra regionen    Kungsbacka kommun

@@ -1254,7 +1254,7 @@ Parkgatan 49, 401 82, Göteborg, Sweden
 Office: +46767056411 | Fanny.Nilsson@se.ey.com
 Website: http://www.ey.com/se
 
-\___________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 The information contained in this communication is intended solely for the use of the individual or entity
 to whom it is addressed and others authorized to receive it. It may contain confidential or legally
 privileged information. If you are not the intended recipient you are hereby notified that any disclosure,

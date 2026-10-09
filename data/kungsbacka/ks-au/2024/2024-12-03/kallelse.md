@@ -102,7 +102,7 @@ KUNGSBACKA  KOMMUN
 
 5(5)
 
-16. Information från ledamöter och 2024-00025 -
+16\. Information från ledamöter och 2024-00025 -
 förvaltning
 
 Lisa Andersson                    Andrea Egerlundh

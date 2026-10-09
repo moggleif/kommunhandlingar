@@ -193,18 +193,18 @@ Kommunfullmäktige har antagit följande lokalpolicy: • Vi ska omhänderta lok
 hålla och bibehålla ändamålsenliga och kostnadseffektiva • Vi ska prioritera utifrån den så kallade Prioriterings-
 lokaler över tiden".                principen i fallande ordning:
 
-1. L okalbehov som inte är lagstyrd verksamhet
+1\. L okalbehov som inte är lagstyrd verksamhet
 Varje år beslutar nämnderna om hur de bedömer
 och lokalbehov som utgörs av kvalitets-
 lokalbehovet de kommande fem åren. Behovet är baserat
 höjningar i befintliga lokaler har lägst
 på befolkningsprognoser och lokalprognoser. Det är prioritet.
 kommunens lokalstyrgrupp som sammanställer behoven
-2. Lokalbehov på grund av ny exploatering har
+2\. Lokalbehov på grund av ny exploatering har
 till en lokalbehovsplan som bearbetas vidare till en
 medel prioritet.
 lokalplan. Den ska vara möjlig att genomföra ekonomiskt,
-3. L okalbehov som beror på strukturomvand-
+3\. L okalbehov som beror på strukturomvand-
 tidsmässigt och fysiskt. Lokalplanen är en del av kom-
 lingar och som ger minskade driftskostna-
 munens flerårsbudget. Det är kommunfullmäktige som
@@ -232,11 +232,11 @@ INVESTERING OCH EXPLOATERING
 enligt den så kallade Fyrstegsmodellen1. Modellen kronor i investeringsbelopp. För behov som överstiger 25
 innebär att vi ska välja och överväga lokallösningar miljoner kronor eller är av särskild principiell karaktär ska
 enligt följande prioriteringsordning: kommunstyrelsen besluta om igångsättning. Motsvarande
-1. Inte tillgodose behovet alls igångsättningsbeslut krävs för de behov som ska lösas
-2. Leda om ”strömmar” av elever, boende till ledig genom inhyrning enligt lokalplanen där hyran motsvarar
+1\. Inte tillgodose behovet alls igångsättningsbeslut krävs för de behov som ska lösas
+2\. Leda om ”strömmar” av elever, boende till ledig genom inhyrning enligt lokalplanen där hyran motsvarar
 kapacitet i befintliga lokaler en investering av 25 miljoner kronor.
-3. Bygga om eller till befintliga lokaler
-4. Bygga nya lokaler            Nämnden för Service betalar kapitalkostnaden och tar ut
+3\. Bygga om eller till befintliga lokaler
+4\. Bygga nya lokaler            Nämnden för Service betalar kapitalkostnaden och tar ut
 • Vi ska föreslå och välja lokallösningar utifrån att detta som en hyra av hyresgästen. Behovsanalyserna bekos-
 ”Minska behovet av att bygga nytt genom att sam- tar nämnderna inom sin driftsbudget. Investeringsprojekt
 utnyttja och bygga mer flexibelt” vilket innebär att som inte resulterar i en investering går på den beställande
@@ -809,7 +809,7 @@ Begära     planbesked
 
 Ärendenummer: #133358 | Inskickat av:  | 2024-05-12 12:07
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -824,7 +824,7 @@ Personnummer
 För- och efternamn
 
 c/o
--
+\-
 
 Adress                            Postnummer och ort
 
@@ -865,7 +865,7 @@ info@gilu.se
 
 Ja
 
-2. Fastighet
+2\. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
@@ -920,7 +920,7 @@ Handel
 
 Lekyta/allmän plats för att tillgodose barnperspektivet i samhällsutvecklingen av Åsa.
 
-3. Bilagor
+3\. Bilagor
 
 Vill du bifoga en situationskarta?
 
@@ -967,7 +967,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (48)
 Kommunstyrelsen Datum
 2022-09-27
 
-$ 210 Dnr 2022-00501
+\$ 210 Dnr 2022-00501
 Ansökan om planbesked för Åsa 5:153 och 5:89
 
 Beslut
@@ -1014,7 +1014,7 @@ våningar men att anpassning till befintlig bebyggelse krävs.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2022-09-13, $ 287
+Kommunstyrelsens arbetsutskott 2022-09-13, \$ 287
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-08-24
 Karta, Åsa 5:153 och 5:89, 2022-08-24
 
@@ -1487,9 +1487,9 @@ bostadsbyggnader med ändringar tom SFS 2017:359.
 
 Buller från spårtrafik och vägar
 
-3 $ Buller från spårtrafik och vägar bör inte överskrida
+3 \$ Buller från spårtrafik och vägar bör inte överskrida
 
-1. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
+1\. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
 
 2.50 dBA ekvivalent ljudnivå samt 70 dBA maximal ljudnivå vid en uteplats om en sådan
 ska anordnas i anslutning till byggnaden.
@@ -1500,10 +1500,10 @@ bostadsbyggnadens fasad.
 
 4 8 Om den ljudnivå som anges i 3 8 första stycket 1 ändå överskrids bör
 
-1. minst hälften av bostadsrummen i en bostad vara vända mot en sida där 55 dBA
+1\. minst hälften av bostadsrummen i en bostad vara vända mot en sida där 55 dBA
 ekvivalent ljudnivå inte överskrids vid fasaden, och
 
-2. minst hälften av bostadsrummen vara vända mot en sida där 70 dBA maximal ljudnivå
+2\. minst hälften av bostadsrummen vara vända mot en sida där 70 dBA maximal ljudnivå
 inte överskrids mellan kl. 22.00 och 06.00 vid fasaden.
 
 Definition uteplats enligt Boverket:
@@ -1512,7 +1512,7 @@ Definition uteplats enligt Boverket:
 innebär att uteplatsen eller uteplatserna är direkt hänförliga till byggnadsverket eller
 tomten och således anordnas på kvartersmark.”
 
-HIAPT[NY T:y oqssued | $z-TO-7Z0Z
+HIAPT[NY T:y oqssued | \$z-TO-7Z0Z
 
 Sutupatnto[ngqAgel]
 
@@ -2119,7 +2119,7 @@ bostadskvartet i Bångsbo.
 Rent konkret innebär det att vi skapar samarbete mellan flera fastigheter
 genom installation av solpaneler på taken, energilagring och styrning av
 elförbrukningen. Vi har sen 2023 ett separat energibolag - Buddy Energy
-- delägt av Broods, Investors fastighetsbolag Vectura och BRA Bygg där
+\- delägt av Broods, Investors fastighetsbolag Vectura och BRA Bygg där
 vi redan idag har och distribuerar en färdig lösning för detta.
 
 Den stora vinningen är den energioptimering som skapas via lagring och
@@ -2313,7 +2313,7 @@ Köpeskilling
 
 Tillträdesdag
 
-$ 1 Betalning av
+\$ 1 Betalning av
 köpeskilling
 
 28344 LÖ
@@ -2329,7 +2329,7 @@ SS
 
 Fastighetsbyrån (
 
-117)
+117\)
 
 KUNGSBACKA KOMMUN = med 1 / 1 -del 212000-1256
 
@@ -2376,7 +2376,7 @@ i
 
 2 (7)
 
-$ 2 Inget villkor om Parterna är medvetna om möjligheten att ta in ett villkor i köpekontraktet att detta
+\$ 2 Inget villkor om Parterna är medvetna om möjligheten att ta in ett villkor i köpekontraktet att detta
 finansiering köp kan återgå om köparen inte ordnat sin finansiering av köpet senast en viss dag,
 exempelvis genom upptagande av lån och/eller försäljning av sin nuvarande bostad.
 
@@ -2385,14 +2385,14 @@ köpet därför inte kan återgå, även om köparen inte har sin finansiering k
 tillträdesdagen, och att utebliven betalning kan medföra att säljaren kan häva köpet
 och kräva skadestånd.
 
-$ 3 Inteckningar och Säljaren garanterar
+\$ 3 Inteckningar och Säljaren garanterar
 
 pantbrev . . . .
 « att fastigheten på tillträdesdagen är intecknad till: 3 775 000 kronor
 
 « att fastigheten på tillträdesdagen inte är pantsatt.
 
-$4 Rättigheter och Säljaren garanterar
+\$4 Rättigheter och Säljaren garanterar
 belastningar
 « att fastigheten endast belastas eller har förmån av följande servitut,
 
@@ -2402,18 +2402,18 @@ gemensamhetsanläggningar:
 
 Andel i samfällighet/GA:
 KUNGSBACKA KULLA S:3
-KUNGSBACKA KULLA $S:6
+KUNGSBACKA KULLA \$S:6
 KUNGSBACKA KULLA S:1
 KUNGSBACKA FRILLESÅS-RYA S:6
 KUNGSBACKA FRILLESÅS-RYA S:4
-KUNGSBACKA KULLA $S:2
+KUNGSBACKA KULLA \$S:2
 KUNGSBACKA FRILLESÅS-RYA S:3
 KUNGSBACKA LURENDAL S:1
 KUNGSBACKA LURENDAL S:2
 KUNGSBACKA FRILLESÅS-RYA S:2
-KUNGSBACKA KULLA $S:7
+KUNGSBACKA KULLA \$S:7
 KUNGSBACKA FRILLESÅS-RYA S:5
-KUNGSBACKA KULLA $S:4
+KUNGSBACKA KULLA \$S:4
 KUNGSBACKA KULLA GA:2
 KUNGSBACKA KULLA GA:3
 
@@ -2426,7 +2426,7 @@ last, officialservitut: Väg
 last, avtalsservitut: Kraftledning, Nätstation
 förmån, avtalsservitut: Väg
 
-$ 5 Fastighetens skick — Fastigheten överlåts i det skick den är på kontraktsdagen om inte annat
+\$ 5 Fastighetens skick — Fastigheten överlåts i det skick den är på kontraktsdagen om inte annat
 överenskommits.
 
 28344 LÖ
@@ -2437,14 +2437,14 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 <!-- sida 80 -->
 
-$ 6 Ansvar för skada
+\$ 6 Ansvar för skada
 
-$7 Äganderättens
+\$7 Äganderättens
 övergång samt
 fördelning av intäkter
 och kostnader
 
-$ 8 Myndighets beslut,
+\$ 8 Myndighets beslut,
 rådighetsinskränkning,
 anslutningsavgifter
 
@@ -2506,14 +2506,14 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 <!-- sida 81 -->
 
-$ 9 Lagfarts- och
+\$ 9 Lagfarts- och
 lånekostnader
 
-$ 10 Kontraktsbrott
+\$ 10 Kontraktsbrott
 
-$ 11 Energideklaration
+\$ 11 Energideklaration
 
-$ 12 Städning och
+\$ 12 Städning och
 
 kvarglömd egendom
 
@@ -2545,7 +2545,7 @@ köparens kontraktsbrott ska ersättningen till säljaren även innefatta sälja
 för mäklarprovision i samband med försäljningen av fastigheten.
 
 Det är av väsentlig betydelse för säljaren att köparen betalar handpenningen i
-enlighet med vad som stadgas i $ 1. Betalar inte köparen handpenningen i rätt tid
+enlighet med vad som stadgas i \$ 1. Betalar inte köparen handpenningen i rätt tid
 har säljaren rätt att häva köpet fram till dess att handpenningen betalats i sin helhet.
 Är köparen sen med betalningen av handpenningen kan detta leda till
 skadeståndsskyldighet för köparen.
@@ -2581,7 +2581,7 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 Fastighetsbyrån &
 
-$ 13 Överlämnande av — Sedan köpeskilling betalats enligt de i 1 $ angivna villkoren, ska säljaren till köparen
+\$ 13 Överlämnande av — Sedan köpeskilling betalats enligt de i 1 \$ angivna villkoren, ska säljaren till köparen
 
 handlingar samt nycklar överlämna bevittnat kvitterat köpebrev avseende fastigheten och övriga handlingar
 som behövs för att köparen ska få lagfart. Säljaren ska även till köparen överlämna
@@ -2589,11 +2589,11 @@ de nycklar säljaren har samt aktuellt utdrag ur fastighetsregistret, obelånade
 pantbrev, gällande tomtkarta om sådan finns och andra handlingar rörande
 fastigheten, vilka är av betydelse för köparen som ägare av denna.
 
-$ 14 Pantförskrivning Om det krävs för köparens finansiering av köpet, förbinder sig säljaren att på
+\$ 14 Pantförskrivning Om det krävs för köparens finansiering av köpet, förbinder sig säljaren att på
 köparens bekostnad ansöka om nya inteckningar och hjälpa till vid köparens
 pantförskrivning av pantbrev avseende fastigheten innan köparen beviljats lagfart.
 
-$ 15 Skriftliga Skriftliga meddelanden med anledning av detta kontrakt ska ske genom personligt
+\$ 15 Skriftliga Skriftliga meddelanden med anledning av detta kontrakt ska ske genom personligt
 
 meddelanden överlämnande/överlämnande genom bud, brev, rekommenderat brev eller e-post till
 den adress som angetts för motparten på kontraktets första sida samt med
@@ -2608,26 +2608,26 @@ Meddelande ska anses ha kommit mottagaren tillhanda:
 « om avsänt med rekommenderat brev: sex arbetsdagar efter avlämnande för
 
 postbefordran.
-$ 16 oo Köparen har uppmanats att undersöka fastigheten. Köparen godtar fastighetens
+\$ 16 oo Köparen har uppmanats att undersöka fastigheten. Köparen godtar fastighetens
 Friskrivningsklausul skick och avstår härmed med bindande verkan från alla anspråk mot säljaren på
 
 grund av fel eller brister i fastigheten.
 
-$ 17 Förvärvstillstånd Parterna är medvetna om att det för köpets giltighet krävs att Köparen erhåller
+\$ 17 Förvärvstillstånd Parterna är medvetna om att det för köpets giltighet krävs att Köparen erhåller
 förvärvstillstånd för Fastigheten. Köparen förbinder sig att omgående ansöka om
 sådant förvärvstillstånd och ensam betala tillhörande ansökningsavgift. Köparen har
 inte rätt överklaga eventuellt avslag om förvärvstillstånd utan särskilt godkännande
 från Säljaren
 
-$18 Arrende > Jordbruksmarken är upplåten till Stockens Grönsaker AB, 556418-2813,
+\$18 Arrende > Jordbruksmarken är upplåten till Stockens Grönsaker AB, 556418-2813,
 Lillestocksvägen 23, 439 63 Frillesås. Skriftligt arrendeavtal bilaga: Jordbruksarrende
 Frillesås-Rya 4:14
 Arrendatorn söker bidrag från Jordbruksverket.
 
-> Ingen fiskerätt föreligger på fastigheten idag.
-> Jakträtt innehas av ägaren själv.
+\> Ingen fiskerätt föreligger på fastigheten idag.
+\> Jakträtt innehas av ägaren själv.
 
-$ 19 Arealersättning, Säljaren har upplyst att det för fastigheten inte föreligger arealersättning, miljöstöd
+\$ 19 Arealersättning, Säljaren har upplyst att det för fastigheten inte föreligger arealersättning, miljöstöd
 miljöstöd och bidrag eller annat bidrag av något slag
 
 28344 LÖ
@@ -2640,11 +2640,11 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 Fastighetsbyrån
 
-$ 20 Fastighetsbildning — Parterna är överens om att avtalet, om köpare så önskar, kan ligga till grund för en
+\$ 20 Fastighetsbildning — Parterna är överens om att avtalet, om köpare så önskar, kan ligga till grund för en
 ansökan till lantmäterimyndigheten om att genomföra förvärvet som
 fastighetsreglering till kommunens angränsande fastighet.
 
-$ 21 Avtalets giltighet Avtalet är giltigt under förutsättning att det godkänns av Kommunstyrelsens
+\$ 21 Avtalets giltighet Avtalet är giltigt under förutsättning att det godkänns av Kommunstyrelsens
 arbetsutskott, genom beslut som vinner laga kraft samt att avtalet undertecknas av
 Kommunen.
 
@@ -2660,7 +2660,7 @@ eller andra krav gentemot varandra. För den händelse Kommunstyrelsens
 arbetsutskott inte tagit beslut om att godkänna avtalet med upprättat och justerat
 protokoll senast den 31 december 2024 äger säljaren rätt att begära köpets återgång
 
-$22 Tvist Tvist rörande tolkning av avtalet ska, om inte annat överenskommes mellan
+\$22 Tvist Tvist rörande tolkning av avtalet ska, om inte annat överenskommes mellan
 parterna, avgöras av allmän domstol.
 
 Handlingar Köparen har tagit del av, och är Säljaren har tagit del av, och är införstådd
@@ -3439,16 +3439,16 @@ i Bakgrund
 
 1.1 Mellan Parterna träffas denna dag, Avtalsdagen, detta köpekontrakt, Avtalet.
 
-2. Överlåtelseförklaring
+2\. Överlåtelseförklaring
 
 2.1 Säljaren överlåter härmed Fastigheten till Köparen på de villkor som anges i Avtalet.
 
-3. Köpeskilling
+3\. Köpeskilling
 
 ad Överlåtelsen av Fastigheten sker mot en överenskommen köpeskilling om TRE
 MILJONER TREHUNDRA TUSEN (3 300 000) KRONOR.
 
-4. Tillträdesdag
+4\. Tillträdesdag
 
 4.1 Tillträde sker 2024-12-02, eller annat datum som skriftligen överenskommits mellan
 Parterna, samt då köpeskillingen till sin helhet erlagts, Tillträdesdagen.
@@ -3487,17 +3487,17 @@ Tal
 
 9.1
 
-10.
+10\.
 
 10.2
 
-11.
+11\.
 
-12.
+12\.
 
 12.1
 
-13.
+13\.
 
 13.1
 
@@ -3567,29 +3567,29 @@ Sign
 
 13.3
 
-14.
+14\.
 
 14.1
 
 14.2
 
-15.
+15\.
 
 15.1
 
 15.2
 
-16.
+16\.
 
 16.1
 
 16.2
 
-17.
+17\.
 
 17.1
 
-18.
+18\.
 
 18.1
 
@@ -3659,17 +3659,17 @@ Sign
 
 19.1
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
 212
 
-22.
+22\.
 
 22.1
 
@@ -3681,11 +3681,11 @@ Sign
 
 psi
 
-23.
+23\.
 
 23.1
 
-24.
+24\.
 
 24.1
 
@@ -3770,12 +3770,12 @@ Bevittnas:
 
 Bilagor:
 
-1. Utdrag ur fastighetsregistret, 2024-08-21
-2. Upplysningslista, 2024-09-04
+1\. Utdrag ur fastighetsregistret, 2024-08-21
+2\. Upplysningslista, 2024-09-04
 
-3. Försäkringsbevis
+3\. Försäkringsbevis
 
-4. Energideklaration, 2023-03-07
+4\. Energideklaration, 2023-03-07
 
 Kungsbacka 2024- OJ -t (
 för Säljaren
@@ -3850,7 +3850,7 @@ Energideklarationen är giltig till:
 <!-- sida 105 -->
 
 Ö
-af$tar Energideklaration Version: 2.8
+af\$tar Energideklaration Version: 2.8
 
 Boverket Dekl.id: 1360676
 
@@ -4250,7 +4250,7 @@ Säljaren och Köparen kallas nedan gemensamt för Parterna.
 
 Fastighet: Frillesås-Rya 4:149, nedan kallad Fastigheten
 
-1. Bakgrund
+1\. Bakgrund
 
 LJ Mellan Parterna träffas denna dag, Avtalsdagen, detta köpekontrakt, Avtalet.
 
@@ -4262,7 +4262,7 @@ jä Köpeskilling
 3.1 Överlåtelsen av Fastigheten sker mot en överenskommen köpeskilling om SEX
 MILJONER (6 000 000) KRONOR.
 
-4. Tillträdesdag
+4\. Tillträdesdag
 
 4.1 Tillträde sker 2025-02-28, eller annat datum som skriftligen överenskommits mellan
 Parterna, samt då köpeskillingen till sin helhet erlagts, Tillträdesdagen.
@@ -4299,17 +4299,17 @@ Vol
 
 9.1
 
-10.
+10\.
 
 10.2
 
-11.
+11\.
 
-12.
+12\.
 
 12.1
 
-13.
+13\.
 
 13.1
 
@@ -4375,7 +4375,7 @@ Sign
 
 <!-- sida 118 -->
 
-14.
+14\.
 
 14.1
 
@@ -4389,19 +4389,19 @@ Sign
 
 15.2
 
-16.
+16\.
 
 16.1
 
 16.2
 
-17.
+17\.
 
 17.1
 
 IJ:2
 
-18.
+18\.
 
 18.1
 
@@ -4465,25 +4465,25 @@ Sign
 
 <!-- sida 119 -->
 
-19.
+19\.
 
 19.1
 
-20.
+20\.
 
 20.1
 
-21.
+21\.
 
 21.1
 
-22.
+22\.
 
 22.1
 
 2252
 
-23.
+23\.
 
 23.1
 
@@ -4559,7 +4559,7 @@ Sign
 
 5/5
 
-24. Ändringar och tillägg efter Avtalslagen
+24\. Ändringar och tillägg efter Avtalslagen
 
 24.1 — Ändringar i och tillägg till Avtalet ska för att vara bindande överenskommas skriftligen
 och undertecknads av Parterna
@@ -4585,14 +4585,14 @@ Bevittnas: Bevittnas:
 
 Bilagor:
 
-1. Utdrag ur fastighetsregistret, 2024-08-21
-2. Arrendeavtal jordbruksmarken
+1\. Utdrag ur fastighetsregistret, 2024-08-21
+2\. Arrendeavtal jordbruksmarken
 
-3. Lista över fel och brister, 2024-09-04
+3\. Lista över fel och brister, 2024-09-04
 
-4. Försäkringsbevis
+4\. Försäkringsbevis
 
-5. Energideklaration, 2024-08-16
+5\. Energideklaration, 2024-08-16
 
 Sign
 
@@ -4662,7 +4662,7 @@ Finns bygglov? Ja
 
 Har energideklaration gjorts
 
-- Ja, 2024-08-16
+\- Ja, 2024-08-16
 Oo när?
 
 Har ny o tillbyggnad gjorts
@@ -4824,7 +4824,7 @@ Beräknad energianvändning vid normalt brukande och ett normalår
 anges för byggnader där det inte går att få fram uppgifter om den
 uppmätta energianvändningen.
 
--
+\-
 
 Hur mycket energi har använts för värme och varmvatten angiven mätperiod?
 Värdena ska vara korrigerade för normalt bruk. (BFS 2016:12)
@@ -5085,7 +5085,7 @@ Frillesås-rya 4:149 2024-08-16
 
 Adress
 
-- [”]
+\- [”]
 
 Information om byggnadens energiprestanda och verifiering av energikrav
 
@@ -6912,14 +6912,14 @@ Lagens syfte och tillämpningsområde
 militära eller civila försvaret.
 
 2 § Förköpsrätt enligt 1 § gäller överlåtelse
-1. genom köp, byte eller gåva av fast egendom enligt 4 kap. jorda-
+1\. genom köp, byte eller gåva av fast egendom enligt 4 kap. jorda-
 balken,
-2. genom överföring av äganderätten till fast egendom enligt fastig-
+2\. genom överföring av äganderätten till fast egendom enligt fastig-
 hetsbildningslagen (1970:988),
-3. av aktier i privat aktiebolag och andelar i handelsbolag eller för-
+3\. av aktier i privat aktiebolag och andelar i handelsbolag eller för-
 ening som äger fast egendom, om förvärvaren genom förvärvet får
 ett bestämmande inflytande över bolaget eller föreningen, eller
-4. vid exekutiv försäljning av fast egendom enligt utsökningsbal-
+4\. vid exekutiv försäljning av fast egendom enligt utsökningsbal-
 ken (1981:774)
 Med fast egendom jämställs tomträtt i denna lag.
 
@@ -7006,12 +7006,12 @@ verka med de statliga myndigheter som regeringen bestämmer.
 Administrativa sanktionsavgifter
 12 § Beslutsmyndigheten får besluta att ta ut en sanktionsavgift av
 den som
-1. inte har gjort en anmälan till beslutsmyndigheten trots att en
+1\. inte har gjort en anmälan till beslutsmyndigheten trots att en
 anmälningsskyldighet har förelegat enligt 4 §,
-2. har lämnat oriktiga uppgifter i samband med sin anmälan enligt
+2\. har lämnat oriktiga uppgifter i samband med sin anmälan enligt
 4 § eller vid fullgörandet av sin uppgiftsskyldighet enligt 8 §, eller
 
-3. inte har fullgjort sin uppgiftsskyldighet enligt 8 §.
+3\. inte har fullgjort sin uppgiftsskyldighet enligt 8 §.
 
 Förköpets fullbordande och innebörd
 13 § Ett förköp är fullbordat när beslut om utövande av förköp har
@@ -7107,8 +7107,8 @@ rätt svarar staten, med tillämpning av 18 kap. rättegångsbalken, för
 sina egna kostnader och motpartens kostnader om inte annat föran-
 leds av 18 kap. 6 och 8 §§ rättegångsbalken.
 
-1. Denna lag träder i kraft den 1 juli 2026.
-2. Lagen ska inte tillämpas på överlåtelser före ikraftträdandet.
+1\. Denna lag träder i kraft den 1 juli 2026.
+2\. Lagen ska inte tillämpas på överlåtelser före ikraftträdandet.
 
 45
 
@@ -7126,15 +7126,15 @@ Lagens syfte och tillämpningsområde
 dom för att motverka organiserad brottslighet.
 
 2 § Förköpsrätt enligt 1 § gäller överlåtelse
-1. genom köp, byte eller gåva av fast egendom enligt 4 kap. jorda-
+1\. genom köp, byte eller gåva av fast egendom enligt 4 kap. jorda-
 balken,
-2. genom överföring av äganderätten till fast egendom enligt fastig-
+2\. genom överföring av äganderätten till fast egendom enligt fastig-
 hetsbildningslagen (1970:988),
-3. av aktier i privat aktiebolag och andelar i handelsbolag eller för-
+3\. av aktier i privat aktiebolag och andelar i handelsbolag eller för-
 ening som äger fast egendom, om förvärvaren genom förvärvet får
 ett bestämmande inflytande över bolaget eller föreningen, eller
 
-4. vid exekutiv försäljning av fast egendom enligt utsökningsbal-
+4\. vid exekutiv försäljning av fast egendom enligt utsökningsbal-
 ken (1981:774)
 Med fast egendom jämställs tomträtt i denna lag.
 
@@ -7145,9 +7145,9 @@ mun inom vars område den största delen av egendomens samman-
 lagda areal ligger utöva förköpsrätt.
 
 4 § Förköpsrätt föreligger inte om
-1. staten är förvärvare eller överlåtare,
-2. region är förvärvare, eller
-3. staten har beslutat att utöva förköpsrätt enligt 7 § statlig för-
+1\. staten är förvärvare eller överlåtare,
+2\. region är förvärvare, eller
+3\. staten har beslutat att utöva förköpsrätt enligt 7 § statlig för-
 köpslag.
 
 Anmälnings- och upplysningsskyldighet
@@ -7230,11 +7230,11 @@ Administrativa sanktionsavgifter
 
 13 § Beslutsmyndigheten får besluta att ta ut en sanktionsavgift av
 den som
-1. inte har gjort en anmälan till beslutsmyndigheten trots att en
+1\. inte har gjort en anmälan till beslutsmyndigheten trots att en
 anmälningsskyldighet har förelegat enligt 4 §,
-2. har lämnat oriktiga uppgifter i samband med sin anmälan enligt
+2\. har lämnat oriktiga uppgifter i samband med sin anmälan enligt
 4 § eller vid fullgörandet av sin uppgiftsskyldighet enligt 8 §, eller
-3. inte har fullgjort sin uppgiftsskyldighet enligt 8 §.
+3\. inte har fullgjort sin uppgiftsskyldighet enligt 8 §.
 
 Förköpets fullbordande och innebörd
 
@@ -7330,8 +7330,8 @@ talan till högre rätt svarar kommunen, med tillämpning av 18 kap.
 rättegångsbalken, för sina egna kostnader och motpartens kostnader
 om inte annat föranleds av 18 kap. 6 och 8 §§ rättegångsbalken.
 
-1. Denna lag träder i kraft den 1 juli 2026.
-2. Lagen ska inte tillämpas på överlåtelser före ikraftträdandet.
+1\. Denna lag träder i kraft den 1 juli 2026.
+2\. Lagen ska inte tillämpas på överlåtelser före ikraftträdandet.
 
 50
 
@@ -7494,33 +7494,33 @@ stämmer får meddela.
 7 §
 Förekommer inte omständigheter som avses i 6 §, ska lagfartsan-
 sökan förklaras vilande, om
-1. vid köp, byte eller gåva över- 1. vid köp, byte eller gåva över-
+1\. vid köp, byte eller gåva över- 1. vid köp, byte eller gåva över-
 låtarens underskrift på fånges- låtarens underskrift på fånges-
 handlingen inte är styrkt av två handlingen inte är styrkt av två
 vittnen och överlåtelsen inte vittnen och köpehandlingen inte
 skett genom statlig myndighet, har upprättats elektroniskt eller
 överlåtelsen inte skett genom
 statlig myndighet,
-2. fångesmannen inte har lag- 2. fångesmannen inte har lag-
+2\. fångesmannen inte har lag- 2. fångesmannen inte har lag-
 fart och fall som avses i 9 § inte fart och fall som avses i 9 § inte
 föreligger,           föreligger,
-3. rättegång pågår om häv- 3. rättegång pågår om häv-
+3\. rättegång pågår om häv- 3. rättegång pågår om häv-
 ning eller återgång av förvärv av ning eller återgång av förvärv av
 fastigheten eller om bättre rätt fastigheten eller om bättre rätt
 till denna,           till denna,
-4. lagfart söks på grund av 4. lagfart söks på grund av
+4\. lagfart söks på grund av 4. lagfart söks på grund av
 testamente, dom eller förrätt- testamente, dom eller förrätt-
 ning som ännu inte vunnit laga ning som ännu inte vunnit laga
 kraft,                kraft,
-5. vid förvärv genom legat 5. vid förvärv genom legat
+5\. vid förvärv genom legat 5. vid förvärv genom legat
 detta inte utgivits,  detta inte utgivits,
 
-6. vid förvärv på exekutiv för- 6. vid förvärv på exekutiv för-
+6\. vid förvärv på exekutiv för- 6. vid förvärv på exekutiv för-
 säljning köpebrev inte utfärdats säljning köpebrev inte utfärdats
 eller vid expropriation eller lik- eller vid expropriation eller lik-
 nande tvångsförvärv inlösen inte nande tvångsförvärv inlösen inte
 fullbordats,          fullbordats,
-7. vid överlåtelse överlåtaren 7. vid överlåtelse överlåtaren
+7\. vid överlåtelse överlåtaren 7. vid överlåtelse överlåtaren
 är gift och förvärvet enligt äkten- är gift och förvärvet enligt äkten-
 skapsbalkens bestämmelser är be- skapsbalkens bestämmelser är be-
 
@@ -7533,7 +7533,7 @@ SOU 2024:38                              Författningsförslag
 roende av den andre makens roende av den andre makens sam-
 samtycke,             tycke,
 
-8. vid överlåtelse överlåtaren 8. vid överlåtelse överlåtaren
+8\. vid överlåtelse överlåtaren 8. vid överlåtelse överlåtaren
 är sambo och förvärvet enligt är sambo och förvärvet enligt
 bestämmelserna i sambolagen bestämmelserna i sambolagen
 (2003:376) är beroende av den (2003:376) är beroende av den
@@ -7544,29 +7544,29 @@ skrivningsdel av anmälan enligt skrivningsdel av anmälan enligt
 5 § andra stycket den lagen var 5 § andra stycket den lagen var
 upptaget på inskrivningsdag när upptaget på inskrivningsdag när
 överlåtelsen skedde,  överlåtelsen skedde,
-9. vid överlåtelse genom bo- 9. vid överlåtelse genom bo-
+9\. vid överlåtelse genom bo- 9. vid överlåtelse genom bo-
 utredningsman förvärvet enligt utredningsman förvärvet enligt
 ärvdabalkens bestämmelser är be- ärvdabalkens bestämmelser är be-
 roende av dödsbodelägares sam- roende av dödsbodelägares sam-
 tycke,                tycke,
-10. förvärvet har skett genom 10. förvärvet har skett genom
+10\. förvärvet har skett genom 10. förvärvet har skett genom
 en sådan gåva mellan makar som en sådan gåva mellan makar som
 inte har registrerats enligt inte har registrerats enligt
 16 kap. äktenskapsbalken, 16 kap. äktenskapsbalken,
-11. förvärvet avser del av fas- 11. förvärvet avser del av fas-
+11\. förvärvet avser del av fas- 11. förvärvet avser del av fas-
 tighet och är beroende av fastig- tighet och är beroende av fastig-
 hetsbildning,         hetsbildning,
-12. förvärvet omfattas av stat-
+12\. förvärvet omfattas av stat-
 
 lig eller kommunal förköpsrätt och
 är beroende av att förköp inte ut-
 övas eller vid utövande av förköp
 att detta inte är fullbordat,
-12. förvärvet i annat fall en- 13. förvärvet i annat fall en-
+12\. förvärvet i annat fall en- 13. förvärvet i annat fall en-
 ligt lag är beroende av domstols ligt lag är beroende av domstols
 eller annan myndighets tillstånd, eller annan myndighets tillstånd,
 eller                 eller
-13. förvärvet är beroende av 14. förvärvet är beroende av
+13\. förvärvet är beroende av 14. förvärvet är beroende av
 villkor och, i fråga om gåva, vill- villkor och, i fråga om gåva, vill-
 koret avser viss tid som inte koret avser viss tid som inte
 överstiger två är från den dag då överstiger två är från den dag då
@@ -7582,18 +7582,18 @@ Författningsförslag                        SOU 2024:38
 3 §
 
 Ansökan om inteckning ska avslås, om
-1. föreskrifterna i 2 § inte iakttagits,
-2. på grund av särskild föreskrift eller enligt anteckning i fastig-
+1\. föreskrifterna i 2 § inte iakttagits,
+2\. på grund av särskild föreskrift eller enligt anteckning i fastig-
 hetsregistrets inskrivningsdel inteckning inte får beviljas i fastig-
 heten,
-3. inskrivning av tomträtt i fastigheten är beviljad eller sökt,
-4. fastigheten frångått sökanden på grund av exekutiv försäljning
+3\. inskrivning av tomträtt i fastigheten är beviljad eller sökt,
+4\. fastigheten frångått sökanden på grund av exekutiv försäljning
 eller genom expropriation eller liknande tvångsförvärv,
-5. sökanden är i konkurs eller 5. sökanden är i konkurs eller
+5\. sökanden är i konkurs eller 5. sökanden är i konkurs eller
 försätts i konkurs den dag då in- försätts i konkurs den dag då in-
 teckningen söks samt fastighe- teckningen söks samt fastighe-
 ten hör till konkursboet, eller ten hör till konkursboet,
-6. en del av fastigheten har 6. en del av fastigheten har
+6\. en del av fastigheten har 6. en del av fastigheten har
 utmätts eller tagits i anspråk utmätts eller tagits i anspråk
 genom betalningssäkring eller genom betalningssäkring eller
 fastigheten eller en del av fastig- fastigheten eller en del av fastig-
@@ -7606,7 +7606,7 @@ sökts, om inte ansökningen har sökts, om inte ansökningen har
 medgetts av Kronofogdemyn- medgetts av Kronofogdemyn-
 digheten.             digheten, eller
 
-7. ärende angående anteckning
+7\. ärende angående anteckning
 om att stat eller kommun beslutat
 att utöva förköpsrätt i fråga om
 egendomen upptagits på inskriv-
@@ -7633,30 +7633,30 @@ Nuvarande lydelse     Föreslagen lydelse
 
 3 §
 Lagen gäller inte
-1. om egendomen förvärvas från staten genom, länsstyrelsen eller
+1\. om egendomen förvärvas från staten genom, länsstyrelsen eller
 Statens jordbruksverk,
-2. om staten förvärvar egen- 2. om staten förvärvar egen-
+2\. om staten förvärvar egen- 2. om staten förvärvar egen-
 domen genom någon annan myn- domen genom någon annan myn-
 dighet än statens affärsdrivande dighet än statens affärsdrivande
 verk,                 verk eller utövar förköpsrätt enligt
 statlig förköpslag,
-3. om en kommun förvärvar 3. om en kommun förvärvar
+3\. om en kommun förvärvar 3. om en kommun förvärvar
 egendomen från staten, egendomen från staten eller ut-
 övar förköpsrätt enligt kommunal
 förköpslag,
-4. om egendomen förvärvas av en kreditinsättning som enligt lag
+4\. om egendomen förvärvas av en kreditinsättning som enligt lag
 eller reglemente eller bolagsordning som regeringen har fastställt, är
 skyldig att avyttra,
-5. om förvärvaren är gift med överlåtaren och inte heller för-
+5\. om förvärvaren är gift med överlåtaren och inte heller för-
 värvaren eller, när makar förvärvar gemensamt, någon av den är över-
 låtarens avkomling, allt under förutsättning att överlåtaren inte är
 skyldig att avyttra egendomen enligt 13 §,
-6. om egendomen enligt detaljplan eller områdesbestämmelser är
+6\. om egendomen enligt detaljplan eller områdesbestämmelser är
 
 avsedd för annat ändamål än jordbruk eller skogsbruk,
-7. om förvärvet omfattar ett område som är avsett för annat ända-
+7\. om förvärvet omfattar ett område som är avsett för annat ända-
 mål än jordbruk eller skogsbruk, eller
-8. om en andel i en fastighet förvärvas av någon som redan äger
+8\. om en andel i en fastighet förvärvas av någon som redan äger
 en andel i fastigheten som hör till samma taxeringsenhet och för-
 värvaren inte är skyldig att avyttra sistnämnda andel enligt 13 §.
 
@@ -7784,23 +7784,23 @@ Nuvarande lydelse     Föreslagen lydelse
 I följande inskrivningsären-
 den får en ansökan ges in i form
 av ett elektroniskt dokument:
-1. lagfart enligt 20 kap. 1 §
+1\. lagfart enligt 20 kap. 1 §
 och lagfartssammanträde enligt
 20 kap. 10 § jordabalken,
-2. inskrivning eller andra åt-
+2\. inskrivning eller andra åt-
 gärder avseende tomträtt enligt
 21 kap. jordabalken,
-3. inteckning enligt 22 kap.
+3\. inteckning enligt 22 kap.
 2 § jordabalken,
-4. inteckningsåtgärder enligt
+4\. inteckningsåtgärder enligt
 22 kap. 7–11 §§ jordabalken, om
 inteckningen motsvaras av ett
 datapantbrev,
-5. anteckning om innehav och
+5\. anteckning om innehav och
 borttagande av sådan anteckning
 enligt 22 kap. 12 § jordabalken,
 och
-6. inskrivning eller andra åt-
+6\. inskrivning eller andra åt-
 
 gärder avseende annan nyttjande-
 rätt än tomträtt samt avseende
@@ -8920,7 +8920,7 @@ ningen eIDAS. En betrodd tjänst kan kortfattat beskrivas som en
 elektronisk tjänst som antingen skapar, kontrollerar, validerar eller
 bevarar elektroniska underskrifter.
 
-1. Enkel elektronisk underskrift är en underskrift som ofta sker vid
+1\. Enkel elektronisk underskrift är en underskrift som ofta sker vid
 varje tillfälle som en användare skriver under ett elektroniskt med-
 delande. Det kan t.ex. vara när användaren skriver under med sitt
 namn i ett vanlig e-postmeddelande. Utmärkande för den här
@@ -8928,7 +8928,7 @@ typen av enklare elektroniska underskrifter är att det ställs få eller
 inga säkerhetskrav på dem. Det går inte t.ex. att låsa dokumentets
 innehåll till underskriften till ett säkert sätt.
 
-2. Avancerad elektronisk underskrift är den typen av underskrifter
+2\. Avancerad elektronisk underskrift är den typen av underskrifter
 som i dagligt tal hänvisas till vid elektronisk underskrift, som t.ex.
 BankID eller Freja eID Plus. Det är en underskrift i elektronisk
 form som med kryptografiska tekniker knyter identiteten på en
@@ -8936,7 +8936,7 @@ undertecknare till det undertecknade dokumentet. Detta innebär
 att det i efterhand går att verifiera vem som skrivit under och vad
 som har skrivits under. Det finns ingen förteckning över aktörer
 som tillhandahåller avancerade elektroniska underskrifter.
-3. Kvalificerad elektronisk underskrift ställer höga krav på säkerhet och
+3\. Kvalificerad elektronisk underskrift ställer höga krav på säkerhet och
 
 tillförlitlighet. En kvalificerad underskrift är en avancerad under-
 skrift med särskilda krav på hur undertecknaren ska kunna identi-
@@ -9055,12 +9055,12 @@ underskrifter.15 Utredningen beskriver tre olika sätta på vilka kvali-
 ficerade elektroniska underskrifter kan skapas med en statlig e-legi-
 
 timation. Dessa är följande.
-1. Den statliga e-legitimationen används för identifiering i en kom-
+1\. Den statliga e-legitimationen används för identifiering i en kom-
 mersiell tjänst för kvalificerade elektroniska underskrifter.
 
-2. Den statliga e-legitimationen är även en anordning för att kunna
+2\. Den statliga e-legitimationen är även en anordning för att kunna
 skapa kvalificerade elektroniska underskrifter.
-3. Den statliga e-legitimationen används för att identifiera använ-
+3\. Den statliga e-legitimationen används för att identifiera använ-
 dare till en fristående kvalificerad statlig underskrifttjänst.
 
 4.4.5 Elektronisk signering vid överlåtelse av fast egendom
@@ -9293,16 +9293,16 @@ legitimationen, utan det räcker med att t.ex. ange namn och e-post-
 adress. Nivåerna 2 till 4 ställer högre krav på att användaren verifierar
 sin identitet, t.ex. genom tvåfaktorsautentisering.21 Nedan följer en
 kort beskrivning av vad som menas med de olika tillitsnivåerna.
-1. Tillitsnivå 1: Användarens identitet styrks inte alls. Användaren
+1\. Tillitsnivå 1: Användarens identitet styrks inte alls. Användaren
 identifieras genom t.ex. e-postadress och lösenord.
 
-2. Tillitsnivå 2: Användarens identitet verifieras genom att bevisa
+2\. Tillitsnivå 2: Användarens identitet verifieras genom att bevisa
 innehav av en tillhörighet som bara användaren kan antas förfoga
 över. Det kan t.ex. vara en kod som skickats i kodkuvert till sök-
 andes folkbokföringsadress. Användaren identifieras genom t.ex.
 engångslösenord från dosa eller mobiltelefon. Det finns en viss
 tillit till identiteten och krav på tvåfaktorsautentisering.
-3. Tillitsnivå 3: Användarens identitet verifieras på likvärdigt sätt som
+3\. Tillitsnivå 3: Användarens identitet verifieras på likvärdigt sätt som
 vid utgivning av en fullgod svensk legitimationshandling. E-legi-
 timationen kan utfärdas på distans om utfärdaren redan har identi-
 fierat mottagaren, t.ex. i samband med öppnandet av ett bankkonto
@@ -9310,7 +9310,7 @@ fierat mottagaren, t.ex. i samband med öppnandet av ett bankkonto
 eller vid en anställning. Användaren identifieras genom t.ex. en
 skyddad app i en smarttelefon. Det finns en hög tillit till identiteten
 och krav på tvåfaktorsautentisering.
-4. Tillitsnivå 4: Användarens identitet verifieras vid personligt besök
+4\. Tillitsnivå 4: Användarens identitet verifieras vid personligt besök
 genom en fullgod svensk legitimationshandling, både första gången
 och vid förnyelse vart femte år. Användarens identifieras genom en
 e-legitimation som skyddas i ett särskilt chip, som kan finnas på
@@ -13414,23 +13414,23 @@ vara uppfyllda för att det ska röra sig om organiserad brottslighet.
 Dessutom måste just punkterna 1, 3, 5 och 11 vara uppfyllda för att
 
 det ska klassas som organiserad brottslighet:
-1. Samarbete mellan fler än två personer.
+1\. Samarbete mellan fler än två personer.
 
-2. Egna tilldelade uppgifter åt var och en.
-3. Lång eller obegränsad utsträckning i tiden.
+2\. Egna tilldelade uppgifter åt var och en.
+3\. Lång eller obegränsad utsträckning i tiden.
 
-4. Någon form av disciplin och kontroll.
-5. Misstanke om allvarliga kriminella handlingar.
+4\. Någon form av disciplin och kontroll.
+5\. Misstanke om allvarliga kriminella handlingar.
 
-6. Verksamhet på lokal nivå.
-7. Användning av våld eller andra metoder för hot.
+6\. Verksamhet på lokal nivå.
+7\. Användning av våld eller andra metoder för hot.
 
-8. Användning av kommersiella eller affärsmässiga strukturer.
-9. Deltagande i penningtvätt.
+8\. Användning av kommersiella eller affärsmässiga strukturer.
+9\. Deltagande i penningtvätt.
 
-10. Otillbörlig påverkan på politik, medier, offentlig förvaltning, rätts-
+10\. Otillbörlig påverkan på politik, medier, offentlig förvaltning, rätts-
 liga myndigheter eller ekonomi.
-11. Strävan efter vinning och/eller makt.2
+11\. Strävan efter vinning och/eller makt.2
 
 1 Gunnarsson (2023) Den sårbara staten, s. 19.
 2 https://polisen.se/om-polisen/polisens-arbete/organiserad-brottslighet/.
@@ -13445,21 +13445,21 @@ Polismyndigheten har utifrån en svensk kontext kategoriserat orga-
 niserad brottlighet, såsom den förekommer i Sverige. De fem kate-
 
 gorierna som Polismyndigheten har identifierat är:
-1. Nätverk som består av individer som inte har någon känd grupp-
+1\. Nätverk som består av individer som inte har någon känd grupp-
 tillhörighet. Det kan t.ex. handla om brottsaktiva individer i
 socialt utsatta områden.
 
-2. Partiella organisationer som består av individer som har begått
+2\. Partiella organisationer som består av individer som har begått
 tillfälliga brott tillsammans med andra, som t.ex. rån, eller grup-
 per som saknar formell organisation, men som har ett dokumen-
 terat brottsligt samarbete över tid.
-3. Gatugäng som är tydliga subgrupper i marginaliserade bostads-
+3\. Gatugäng som är tydliga subgrupper i marginaliserade bostads-
 områden med sina egna koder och värderingar.
 
-4. Mc-gäng där Hells Angels och Bandidos är exempel på mc-gäng
+4\. Mc-gäng där Hells Angels och Bandidos är exempel på mc-gäng
 som är självmarkerande eftersom de använder sig av västar, tröjor
 eller tatueringar för att visa och stärka sin grupptillhörighet.
-5. Maffia används som begrepp för grupperingar som besitter för-
+5\. Maffia används som begrepp för grupperingar som besitter för-
 måga att påverka politiska, kulturella och ekonomiska strukturer
 i samhället, t.ex. Södertäljenätverket och kriminella klaner.3
 
@@ -22994,13 +22994,13 @@ kan det tala för att förköp bör avstås.
 Övervägandena finns i kapitel 8 och 9.
 
 2 § Förköpsrätt enligt 1 § gäller överlåtelse
-1. genom köp, byte eller gåva av fast egendom enligt 4 kap. jordabalken,
-2. genom överföring av äganderätten till fast egendom enligt fastighets-
+1\. genom köp, byte eller gåva av fast egendom enligt 4 kap. jordabalken,
+2\. genom överföring av äganderätten till fast egendom enligt fastighets-
 bildningslagen (1970:988),
-3. av aktier i privat aktiebolag och andelar i handelsbolag eller förening
+3\. av aktier i privat aktiebolag och andelar i handelsbolag eller förening
 som äger fast egendom, om förvärvaren genom förvärvet får ett bestäm-
 mande inflytande över bolaget eller föreningen, eller
-4. vid exekutiv försäljning av fast egendom enligt utsökningsbalken
+4\. vid exekutiv försäljning av fast egendom enligt utsökningsbalken
 (1981:774).
 Med fast egendom jämställs tomträtt i denna lag.
 I paragrafen anges lagens tillämpningsområde, dvs. vilka överlåtelser
@@ -23337,11 +23337,11 @@ Administrativa sanktionsavgifter
 
 12 § Beslutsmyndigheten får besluta att ta ut en sanktionsavgift av den
 som
-1. inte har gjort en anmälan till beslutsmyndigheten trots att en anmäl-
+1\. inte har gjort en anmälan till beslutsmyndigheten trots att en anmäl-
 ningsskyldighet har förelegat enligt 4 §,
-2. har lämnat oriktiga uppgifter i samband med sin anmälan enligt 4 §
+2\. har lämnat oriktiga uppgifter i samband med sin anmälan enligt 4 §
 eller vid fullgörandet av sin uppgiftsskyldighet enligt 8 §, eller
-3. inte har fullgjort sin uppgiftsskyldighet enligt 8 §.
+3\. inte har fullgjort sin uppgiftsskyldighet enligt 8 §.
 
 419
 
@@ -23657,8 +23657,8 @@ I andra stycket regleras frågan om rättegångskostnader.
 
 Ikraftträdande och övergångsbestämmelser
 
-1. Denna lag träder i kraft den 1 juli 2026.
-2. Lagen ska inte tillämpas på överlåtelser före ikraftträdandet.
+1\. Denna lag träder i kraft den 1 juli 2026.
+2\. Lagen ska inte tillämpas på överlåtelser före ikraftträdandet.
 
 Ö vervägandena finns i kapitel 2 4.
 
@@ -23724,13 +23724,13 @@ väsentligt negativa konsekvenser för säljare och ursprunglig köpare.
 Övervägandena finns i kapitel 10.
 
 2 § Förköpsrätt enligt 1 § gäller överlåtelse
-1. genom köp, byte eller gåva av fast egendom enligt 4kap. jordabalken,
-2. genom överföring av äganderätten till fast egendom enligt fastig-
+1\. genom köp, byte eller gåva av fast egendom enligt 4kap. jordabalken,
+2\. genom överföring av äganderätten till fast egendom enligt fastig-
 hetsbildningslagen (1970:988),
-3. av aktier i privat aktiebolag och andelar i handelsbolag eller förening
+3\. av aktier i privat aktiebolag och andelar i handelsbolag eller förening
 som äger fast egendom, om förvärvaren genom förvärvet får ett bestäm-
 mande inflytande över bolaget eller föreningen, eller
-4. vid exekutiv försäljning av fast egendom enligt utsökningsbalken
+4\. vid exekutiv försäljning av fast egendom enligt utsökningsbalken
 (1981:774).
 Med fast egendom jämställs tomträtt i denna lag.
 I paragrafen anges lagens tillämpningsområde, dvs. vilka överlåtelser
@@ -23774,9 +23774,9 @@ med har förköpsrätt, om egendom ligger i två eller flera kommuner.
 Övervägandena finns i kapitel 16.
 
 4 § Förköpsrätt föreligger inte om
-1. staten är förvärvare eller överlåtare,
-2. region är förvärvare, eller
-3. staten har beslutat att utöva förköpsrätt enligt 7 § statlig förköpslag.
+1\. staten är förvärvare eller överlåtare,
+2\. region är förvärvare, eller
+3\. staten har beslutat att utöva förköpsrätt enligt 7 § statlig förköpslag.
 
 Av paragrafen framgår i vilka situationer kommunal förköpsrätt inte
 kan utövas. Eftersom det i tredje punkten anges att förköpsrätt inte
@@ -24074,11 +24074,11 @@ Administrativa sanktionsavgifter
 
 13 § Beslutsmyndigheten får besluta att ta ut en sanktionsavgift av den
 som
-1. inte har gjort en anmälan till beslutsmyndigheten trots att en anmäl-
+1\. inte har gjort en anmälan till beslutsmyndigheten trots att en anmäl-
 ningsskyldighet har förelegat enligt 4 §,
-2. har lämnat oriktiga uppgifter i samband med sin anmälan enligt 4 §
+2\. har lämnat oriktiga uppgifter i samband med sin anmälan enligt 4 §
 eller vid fullgörandet av sin uppgiftsskyldighet enligt 8 §, eller
-3. inte har fullgjort sin uppgiftsskyldighet enligt 8 §.
+3\. inte har fullgjort sin uppgiftsskyldighet enligt 8 §.
 Paragrafen innebär att kommunen vid sin utredning får ta ut en
 sanktionsavgift. Ett exempel på när sanktionsavgift bör kunna tas ut
 är när det har lämnats oriktiga uppgifter som har påverkat kommu-
@@ -24397,8 +24397,8 @@ I andra stycket regleras frågan om rättegångskostnader.
 
 Ikraftträdande och övergångsbestämmelser
 
-1. Denna lag träder i kraft den 1 juli 2026.
-2. Lagen ska inte tillämpas på överlåtelser före ikraftträdandet.
+1\. Denna lag träder i kraft den 1 juli 2026.
+2\. Lagen ska inte tillämpas på överlåtelser före ikraftträdandet.
 
 Överväganden finns i kapitel 24.
 
@@ -24467,35 +24467,35 @@ Författningskommentar                      SOU 2024:38
 20 kap. Lagfart
 7 § Förekommer inte omständigheter som avses i 6 §, ska lagfartsansökan
 förklaras vilande, om
-1. vid köp, byte eller gåva överlåtarens underskrift på fångeshandlingen
+1\. vid köp, byte eller gåva överlåtarens underskrift på fångeshandlingen
 inte är styrkt av två vittnen och köpehandlingen inte har upprättats elek-
 troniskt eller överlåtelsen inte skett genom statlig myndighet,
-2. fångesmannen inte har lagfart och fall som avses i 9 § inte föreligger,
-3. rättegång pågår om hävning eller återgång av förvärv av fastigheten
+2\. fångesmannen inte har lagfart och fall som avses i 9 § inte föreligger,
+3\. rättegång pågår om hävning eller återgång av förvärv av fastigheten
 eller om bättre rätt till denna,
-4. lagfart söks på grund av testamente, dom eller förrättning som ännu
+4\. lagfart söks på grund av testamente, dom eller förrättning som ännu
 inte vunnit laga kraft,
-5. vid förvärv genom legat detta inte utgivits,
-6. vid förvärv på exekutiv försäljning köpebrev inte utfärdats eller vid
+5\. vid förvärv genom legat detta inte utgivits,
+6\. vid förvärv på exekutiv försäljning köpebrev inte utfärdats eller vid
 expropriation eller liknande tvångsförvärv inlösen inte fullbordats,
-7. vid överlåtelse överlåtaren är gift och förvärvet enligt äktenskaps-
+7\. vid överlåtelse överlåtaren är gift och förvärvet enligt äktenskaps-
 balkens bestämmelser är beroende av den andre makens samtycke,
-8. vid överlåtelse överlåtaren är sambo och förvärvet enligt bestämmel-
+8\. vid överlåtelse överlåtaren är sambo och förvärvet enligt bestämmel-
 serna i sambolagen (2003:376) är beroende av den andra sambons samtycke,
 dock endast om ärende om anteckning i fastighetsregistrets inskrivningsdel
 av anmälan enligt 5 § andra stycket den lagen var upptaget på inskrivnings-
 dag när överlåtelsen skedde,
-9. vid överlåtelse genom boutredningsman förvärvet enligt ärvdabalkens
+9\. vid överlåtelse genom boutredningsman förvärvet enligt ärvdabalkens
 bestämmelser är beroende av dödsbodelägares samtycke,
-10. förvärvet har skett genom en sådan gåva mellan makar som inte har
+10\. förvärvet har skett genom en sådan gåva mellan makar som inte har
 registrerats enligt 16 kap. äktenskapsbalken,
-11. förvärvet avser del av fastighet och är beroende av fastighetsbildning,
-12. förvärvet omfattas av statlig eller kommunal förköpsrätt och är
+11\. förvärvet avser del av fastighet och är beroende av fastighetsbildning,
+12\. förvärvet omfattas av statlig eller kommunal förköpsrätt och är
 beroende av att förköp inte utövas eller vid utövande av förköp att detta
 inte är fullbordat,
-13. förvärvet i annat fall enligt lag är beroende av domstols eller annan
+13\. förvärvet i annat fall enligt lag är beroende av domstols eller annan
 myndighets tillstånd, eller
-14. förvärvet är beroende av villkor och, i fråga om gåva, villkoret avser
+14\. förvärvet är beroende av villkor och, i fråga om gåva, villkoret avser
 viss tid som inte överstiger två är från den dag då gåvohandlingen upp-
 rättades.
 Den föreslagna ändringen i paragrafens punkt 1 innebär att en fånges-
@@ -25275,7 +25275,7 @@ ningsärenden.
 
 De kommunala förköpsgrunderna i det ursprungliga direktivet utgår.
 Utredningstiden förlängs. Uppdraget ska redovisas senast den 1 april
-2024.
+2024\.
 
 465
 
@@ -25698,55 +25698,55 @@ Statens offentliga utredningar  2024
 
 Kronologisk förteckning
 
-1. Ett starkare skydd för offentlig- 19. En ny beredskapssektor
+1\. Ett starkare skydd för offentlig- 19. En ny beredskapssektor
 anställda mot våld, hot och trakas- – för ökad försörjningsberedskap. KN.
 serier. Ju.          20. Maskinellt värde för vissa industri-
-2. Ett samordnat vaccinationsarbete byggnader – ett undantag från fastig-
+2\. Ett samordnat vaccinationsarbete byggnader – ett undantag från fastig-
 – för effektivare hantering av kom- hetsskatt. Fi.
 mande vacciner. Del 1 och 2. S. 21. Ett inkluderande jämställdhets-
-3. Ett starkt judiskt liv för framtida politiskt delmål mot våld. A.
+3\. Ett starkt judiskt liv för framtida politiskt delmål mot våld. A.
 generationer. Nationell strategi för att 22. En ny organisation för förvaltning
 stärka judiskt liv i Sverige 2025–2034. av EU-medel. Fi.
 Ku.
-23. En trygg uppväxt utan
-4. Inskränkningarna i upphovsrätten. Ju. nikotin, alkohol och lustgas. S.
-5. Förbättrad ordning och säkerhet 24. Ett effektivt straffrättsligt skydd för
+23\. En trygg uppväxt utan
+4\. Inskränkningarna i upphovsrätten. Ju. nikotin, alkohol och lustgas. S.
+5\. Förbättrad ordning och säkerhet 24. Ett effektivt straffrättsligt skydd för
 vid förvar. Ju.        statliga stöd till företag. Fi.
-6. Steg mot stärkt kapacitet. Fi. 25. En mer effektiv tillsyn över
-7. Ett säkrare och mer tillgängligt socialtjänsten. S.
+6\. Steg mot stärkt kapacitet. Fi. 25. En mer effektiv tillsyn över
+7\. Ett säkrare och mer tillgängligt socialtjänsten. S.
 fastighetsregister. Ju. 26. En utvärdering av förändringar
-8. Livsmedelsberedskap för en ny tid. LI. i sjukförsäkringens regelverk
-9. Utvecklat samarbete för verksamhets- under 2021 och 2022. S.
+8\. Livsmedelsberedskap för en ny tid. LI. i sjukförsäkringens regelverk
+9\. Utvecklat samarbete för verksamhets- under 2021 och 2022. S.
 förlagd utbildning – långsiktiga åtgär- 27. Kamerabevakning i offentlig
 der för sjuksköterskeprogrammen. U. verksamhet – lättnader och utökade
-10. Preskription av avlägsnandebeslut och möjligheter. Ju.
+10\. Preskription av avlägsnandebeslut och möjligheter. Ju.
 vissa frågor om återreseförbud. Ju. 28. Offentlighetsprincipen eller insyns-
-11. Rätt frågor på regeringens bord – lag. Allmänhetens insyn i enskilda
+11\. Rätt frågor på regeringens bord – lag. Allmänhetens insyn i enskilda
 en ändamålsenlig regeringsprövning aktörer inom skolväsendet. U.
 på miljöområdet. KN. 29. Goda möjligheter till ökat välstånd.
-12. Mål och mening med integration. A. Fi.
-13. En effektivare kontaktförbuds- 30. En statlig ordning med
+12\. Mål och mening med integration. A. Fi.
+13\. En effektivare kontaktförbuds- 30. En statlig ordning med
 lagstiftning – ett utökat skydd brottsförebyggande åtgärder
 för utsatta personer. Ju. för barn och unga. S.
-14. Arbetslivskriminalitet – myndighets- 31. En ändamålsenlig vapenlagstiftning.
+14\. Arbetslivskriminalitet – myndighets- 31. En ändamålsenlig vapenlagstiftning.
 samverkan, en gemensam tipsfunk- Del 1 och 2. Ju.
 tion, lärdomar från Belgien och 32. Åtgärder mot mervärdesskatte-
 gränsöverskridande arbete. A. bedrägerier. Fi.
-15. Nya regler för     33. Delad hälsodata – dubbel nytta.
+15\. Nya regler för     33. Delad hälsodata – dubbel nytta.
 arbetskraftsinvandring m.m. Ju. Regler för ökad interoperabilitet
-16. Växla yrke som vuxen – en reformerad i hälso- och sjukvården. S.
+16\. Växla yrke som vuxen – en reformerad i hälso- och sjukvården. S.
 vuxenutbildning och en ny yrkesskola 34. Ansvar och oberoende
 för vuxna. U.          – public service i oroliga tider. Ku.
-17. Skolor mot brott. U. 35. En framtid för alm och ask
-18. Nya regler om cybersäkerhet. Fö. – förädling, forskning och
+17\. Skolor mot brott. U. 35. En framtid för alm och ask
+18\. Nya regler om cybersäkerhet. Fö. – förädling, forskning och
 finansiering. LI.
 
 <!-- sida 616 -->
 
-36. Förenkla och förbättra! Fi.
-37. Förbättrade ränteavdragsregler för
+36\. Förenkla och förbättra! Fi.
+37\. Förbättrade ränteavdragsregler för
 företag. Fi.
-38. Digitala fastighetsköp & Förköpsrätt
+38\. Digitala fastighetsköp & Förköpsrätt
 vid fastighetstransaktioner. LI.
 
 <!-- sida 617 -->
@@ -26651,15 +26651,15 @@ ska uppfylla höga krav på säkerhet.
 18 §3
 Från nedan angivna bestämmelser i detta kapitel till skydd för enskilt intresse
 får avsteg göras i följande avseenden
-1. 4 § första stycket och 5 § första 1. 4 § första stycket och 5 § första
+1\. 4 § första stycket och 5 § första 1. 4 § första stycket och 5 § första
 stycket, om ägarna av de fastigheter stycket, om ägarna av de fastigheter
 som beröres av regleringen medger som berörs av regleringen medger det,
 det,
-2. 6 § andra stycket, 7 och 10–12 §§ samt 15 § tredje stycket, om de sakägare
+2\. 6 § andra stycket, 7 och 10–12 §§ samt 15 § tredje stycket, om de sakägare
 vilkas rätt är beroende av åtgärden samtycker till det,
-3. 8 §, om fastighetens ägare och, om fastigheten är upplåten med tomträtt,
+3\. 8 §, om fastighetens ägare och, om fastigheten är upplåten med tomträtt,
 även tomträttshavaren medger det,
-4. 13 och 14 §§, om det medges av 4. 13 och 14 §§, om det medges av
+4\. 13 och 14 §§, om det medges av 4. 13 och 14 §§, om det medges av
 den som ålägges att betala mer än han den som åläggs att betala mer än han
 annars skulle ha varit skyldig att betala eller hon annars skulle ha varit skyldig
 och om avvikelsen från bestämmel- att betala och om avvikelsen från
@@ -28364,10 +28364,10 @@ ges in elektroniskt.
 Lantmäteriet får dessutom lämna tillstånd för en ingivare att ge in handlin-
 gar i form av ett elektroniskt dokument på annat sätt än enligt de meddelade
 föreskrifterna. Vid prövningen ska Lantmäteriet beakta:
-1. att sökanden har tillgång till den tekniska utrustning och den tekniska
+1\. att sökanden har tillgång till den tekniska utrustning och den tekniska
 sakkunskap som krävs för elektronisk ingivning, och
 
-2. att sökanden även i övrigt uppfyller de krav på lämplighet som bör
+2\. att sökanden även i övrigt uppfyller de krav på lämplighet som bör
 ställas med hänsyn till det elektroniska förfarandets uppbyggnad och
 funktion.
 
@@ -28456,13 +28456,13 @@ fastighetsbildningslagen (1970:988).
 Bedömning: Följande rättshandlingar kan ligga till grund för en överföring
 av äganderätten till fast egendom enligt fastighetsbildningslagen, och måste
 enligt gällande rätt upprättas med penna på papper:
-- Medgivande eller överenskommelse om avsteg från fastighetsskyddet vid
+\- Medgivande eller överenskommelse om avsteg från fastighetsskyddet vid
 
 fastighetsreglering eller tilldelning vid klyvning.
-- Överenskommelse om avstyckning.
+\- Överenskommelse om avstyckning.
 
-- Avtal om sammanläggning av makars fastigheter.
-- Överenskommelse om fastighetsbestämning.
+\- Avtal om sammanläggning av makars fastigheter.
+\- Överenskommelse om fastighetsbestämning.
 
 Enligt uppdragsbeskrivningen ska Lantmäteriet bedöma förutsättningarna
 för elektroniska rutiner vid medgivanden och överenskommelser som ligger
@@ -30970,10 +30970,10 @@ som vid tillståndsprövningen särskilt ska beakta:
 
 ”1. att sökanden har tillgång till den tekniska utrustning och den tekniska
 sakkunskap som fordras för pantbrevssystemets funktion,
-2. att det finns tillfredsställande former för betalning av stämpelskatt,
+2\. att det finns tillfredsställande former för betalning av stämpelskatt,
 expeditionsavgifter och registreringsavgifter, och
 
-3. att sökanden även i övrigt uppfyller de krav på lämplighet som bör ställas
+3\. att sökanden även i övrigt uppfyller de krav på lämplighet som bör ställas
 med hänsyn till pantbrevssystemets uppbyggnad och funktion.”250
 Tillstånd får återkallas om tillståndshavaren inte längre uppfyller de upp-
 ställda kraven i 14 § andra stycket.251
@@ -32190,10 +32190,10 @@ detta från Lantmäteriet. Vid prövningen ska Lantmäteriet beakta
 
 LANTMÄTERIET
 
-1. att sökanden har tillgång till den tekniska utrustning och den tekniska
+1\. att sökanden har tillgång till den tekniska utrustning och den tekniska
 sakkunskap som krävs för att upprätta sådana elektroniska rättshandlingar som
 avses i 1 § och ombesörja elektronisk ingivning, och
-2. att sökanden även i övrigt uppfyller de krav på lämplighet som bör ställas
+2\. att sökanden även i övrigt uppfyller de krav på lämplighet som bör ställas
 med hänsyn till det elektroniska förfarandets uppbyggnad och funktion.
 Lantmäteriet får återkalla tillståndet, om det finns skäl för det.
 
@@ -33548,7 +33548,7 @@ vilket var 21 procent lägre jämfört med år 2022, som kan sägas ge en mer
 rättvis bild av det normala ärendeflödet. En ansökan om inskrivning kan
 omfatta mer än en begäran och därmed generera flera beslut. Totalt medde-
 lade inskrivningsmyndigheten 627 728 beslut i inskrivningsärenden under
-2023. Besluten fördelade sig på följande ärendetyper, där siffran som anges
+2023\. Besluten fördelade sig på följande ärendetyper, där siffran som anges
 
 inom parentes visar ändring i procent jämfört med år 2022:
 −  Lagfarter 311 546 (-13 %)
@@ -34614,7 +34614,7 @@ EU-rätten.
 informationsinsatser
 
 Lantmäteriet bedömer att lagförslagen kan träda i kraft tidigast den 1 juli
-2026. Att lagförslagen trätt i kraft är emellertid inte tillräckligt för att det
+2026\. Att lagförslagen trätt i kraft är emellertid inte tillräckligt för att det
 ska vara möjligt att använda sig av elektroniska rättshandlingar. För att detta
 ska vara möjligt behöver även förordningar och föreskrifter tas fram och
 antas, samt tekniska system utvecklas och anpassas. Lantmäteriet bedömer
@@ -34924,13 +34924,13 @@ motsvarande e-tjänster och därmed sammanhängande krav.
 5 KAP. ALLMÄNNA BESTÄMMELSER
 18 § Från nedan angivna bestämmelser i detta kapitel till skydd för enskilt
 intresse får avsteg göras i följande avseenden
-1. 4 § första stycket och 5 § första stycket, om ägarna av de fastigheter som
+1\. 4 § första stycket och 5 § första stycket, om ägarna av de fastigheter som
 berörs av regleringen medger det,
-2. 6 § andra stycket, 7 och 10–12 §§ samt 15 § tredje stycket, om de sakägare
+2\. 6 § andra stycket, 7 och 10–12 §§ samt 15 § tredje stycket, om de sakägare
 vilkas rätt är beroende av åtgärden samtycker till det,
-3. 8 §, om fastighetens ägare och, om fastigheten är upplåten med tomträtt, även
+3\. 8 §, om fastighetens ägare och, om fastigheten är upplåten med tomträtt, även
 tomträttshavaren medger det,
-4. 13 och 14 §§, om det medges av den som åläggs att betala mer än han eller
+4\. 13 och 14 §§, om det medges av den som åläggs att betala mer än han eller
 hon annars skulle ha varit skyldig att betala och om avvikelsen från
 bestämmelserna icke sker i otillbörligt syfte.
 

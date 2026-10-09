@@ -6672,7 +6672,7 @@ Rektor
 Aranäsgymnasiet Enhet 1
 Anpassad gymnasieskola Individuella programmet
 Nationell godkänd idrottsutbildning (NIU)
-\______________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 Gymnasium & Arbetsmarknad
 0300-83 34 50
@@ -6701,7 +6701,7 @@ Maria Lennvik
 
 <!-- sida 198 -->
 
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Microsoft   Teams
 Behöver du hjälp?
@@ -6716,7 +6716,7 @@ För organisatörer: Mötesalternativ
 För bästa möjliga upplevelse under mötet; använd strömkabel och Teams-certifierad ljud- och
 
 bildutrustning.
-\________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 <!-- sida 199 -->
 
@@ -7388,7 +7388,7 @@ Kungsbacka kommun
 
 SAKEN
 Utdömande av vite
-\_____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 FÖRVALTNINGSRÄTTENS  AVGÖRANDE
 
@@ -7945,7 +7945,7 @@ längst upp på sidan 1. Vår postadress och e-postadress finns längst ner på 
 1\. Reglerna om att vi har rätt att få den information som vi behöver för vår
 tillsyn finns i 7 kap. 3 § arbetsmiljölagen.
 
-\________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 nossreP
 akinnA
 va
@@ -7993,7 +7993,7 @@ Bilaga 2
 
 Hur man  överklagar
 FR-03
-\________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
@@ -8807,7 +8807,7 @@ Beslutet bifogas.
 Beslutet skickas även till huvudmannen per post.
 
 Enligt uppdrag
-\_________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Region Söder
 Skolinspektionen

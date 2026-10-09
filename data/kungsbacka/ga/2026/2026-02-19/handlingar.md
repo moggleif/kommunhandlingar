@@ -7984,7 +7984,7 @@ Box 161 19
 Forum:        10 kap. 1 § rättegångsbalken
 
 Saken:        Fordran
-\_________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Advokatfirman Lindahl KB Box 11911, 404 39 Göteborg. Södra Hamngatan 37-41, tel 031 799 10 00, fax 031 799 10 99, www.lindahl.se
 

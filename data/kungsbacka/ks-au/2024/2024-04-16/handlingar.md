@@ -520,7 +520,7 @@ Kungsbacka kommun ser det som positivt att statligt stöd och ersättning erbjud
 huvudmannen att inkorporera kompetensutvecklande insatser i det systematiska kvalitetsarbetet.
 Däremot bedömer Kungsbacka kommun att de ekonomiska förutsättningarna för
 kompetensförstärkning som föreslås, behöver tydliggöras ytterligare.
-13)
+13\)
 Kommunstyrelsen Kungsbacka kommun
 434 81 Kungsbacka
 
@@ -1204,7 +1204,7 @@ Datum
 
 § 28                       Dnr KFT-2024-00030
 Begäran om yttrande - Betänkande från Narkotikautredningen (KS 2024-
-00081)
+00081\)
 
 Beslut
 Nämnden för Kultur & Fritid avger yttrande på remiss av Socialdepartementets
@@ -2421,7 +2421,7 @@ Utifrån ett initiativärende sökte förvaltningen medel hos Kommunstyrelsen oc
 påbörjat ett arbete för att främja välmående och motverka psykisk ohälsa bland elever på Kungsbackas
 kommunala gymnasieskolor. Evalotta Magnusson har ansvar för projektet och har tillsammans med
 processgrupp tagit fram en metod som ska testas mot olika personal- och elevgrupper under våren
-2024. För att kunna fortsätta arbetet önskar förvaltningen söka om ytterligare medel för 2024 samt
+2024\. För att kunna fortsätta arbetet önskar förvaltningen söka om ytterligare medel för 2024 samt
 vårterminen 2025. Tanken är att kunna anställa en samordnare på 60 %, implementera metoden under
 vårterminen 2024 samt fullfölja under höstterminen 2024 och vårterminen 2025. Kostnaden för år
 2024 uppgår till 600 000 kr och för vårterminen 2025 uppgår kostnaden till 300 000 kr.
@@ -2732,7 +2732,7 @@ Att stärka   barn   och   ungas    välmående      och
 
 psykiska    hälsa   med    fysisk  aktivitet.
 
--  Underlag ansökan ”Samverkan för ökad rörelse” 2024
+\-  Underlag ansökan ”Samverkan för ökad rörelse” 2024
 
 Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
 
@@ -2771,7 +2771,7 @@ Kungsbacka kommun            Rapportmall                        2
 
 <!-- sida 69 -->
 
-2. Vart är vi idag?
+2\. Vart är vi idag?
 
 Självskattad hälsa hos flickor minskar successivt i alla åldersgrupperna –
 LUPP
@@ -2806,7 +2806,7 @@ Kungsbacka kommun            Rapportmall                        3
 
 <!-- sida 70 -->
 
-3. Vart vill vi?
+3\. Vart vill vi?
 
 Öka andelen barn och unga som rör sig enligt rekommendationerna!
 
@@ -2824,7 +2824,7 @@ Kungsbacka kommun            Rapportmall                        4
 
 <!-- sida 71 -->
 
-4. Vad vill vi göra?
+4\. Vad vill vi göra?
 
 Bakgrund för prioriteringar för FG:
 Inom barn och ungdomsidrotten, och framför allt inom idrott och hälsa i skolan,
@@ -3060,7 +3060,7 @@ Inte aktuellt
 
 Utvecklande av light sports communities
 
-2024: *
+2024: \*
 Mötesplatsidrott, i övrigt på vänt.
 
 Budget          Kostnad

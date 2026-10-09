@@ -349,7 +349,7 @@ Delårsrapport 2024 för Kungsbacka kommun
 Förslag till beslut i kommunfullmäktige
 
 Kommunfullmäktige godkänner delårsrapport för Kungsbacka kommun per augusti
-2024.
+2024\.
 
 Kommunfullmäktige uppmanar de nämnder som prognostiserar underskott att
 hantera dessa i enlighet med gällande ekonomistyrprinciper.
@@ -658,24 +658,24 @@ Sammanfattning av ärendet
 
 Kommundirektör Malin De Verdier lämnar följande information:
 
-- Uppdatering rörande händelsen på Kungsmässan i söndags eftermiddag.
-- Uppdatering rörande digitalt handslag för Sverige.
+\- Uppdatering rörande händelsen på Kungsmässan i söndags eftermiddag.
+\- Uppdatering rörande digitalt handslag för Sverige.
 
-- Prototyp till förslag på styrmodell kommer att delges ledamöterna i
+\- Prototyp till förslag på styrmodell kommer att delges ledamöterna i
 arbetsutskottet inför workshop rörande ny styrmodell.
-- Nyttjandegradsmätning pågår just nu i alla administrativa lokaler.
+\- Nyttjandegradsmätning pågår just nu i alla administrativa lokaler.
 
 Samhällsbyggnadschef Lovisa Eld lämnar uppdatering rörande pågående dialog med
 Västtrafik angående stationshusets öppettider. Samhällsbyggnadskontoret har haft
 möte med Lena Johansson fastighetschef på Västtrafik.
 Ordförande Lisa Andersson (M) lämnar följande information:
 
-- Kungsbacka kommun är representerade på konferensen Var rädd om läget i länet
+\- Kungsbacka kommun är representerade på konferensen Var rädd om läget i länet
 som har temat brottsförebyggande arbete i Hallands län. Deltagande aktörer
 representanter för kommuner i Halland, region Halland och Länsstyrelsen i
 Hallands län.
 
-- Justitieminister Gunnar Strömmer (M) kommer att besöka Kungsbacka kommun
+\- Justitieminister Gunnar Strömmer (M) kommer att besöka Kungsbacka kommun
 med anledning av händelsen i söndags.
 
 Beslutsgång

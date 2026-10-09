@@ -161,7 +161,7 @@ serås 22:1 i Onsala, Kungsbac
 FÅ jörsö | SÅ KOSS
 
 Pa
-$
+\$
 
 Mariedal<, ”
 skrysset. =”
@@ -185,7 +185,7 @@ Begära     planbesked
 
 Ärendenummer: #223823 | Inskickat av:      2025-08-12 08:56
 
-1. Kontaktuppgifter
+1\. Kontaktuppgifter
 
 Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt planering.
 
@@ -194,10 +194,10 @@ Jag är medveten om att en avgift tas ut både vid ja och nej till fortsatt plan
 Representant för företag
 
 Dina kontaktuppgifter
--
+\-
 Förnamn                           Efternamn
 
--
+\-
 E-postadress                      Mobiltelefon
 
 Notifieringar
@@ -265,7 +265,7 @@ Markera fastigheten eller fastigheterna du begär planbesked för
 Du kan välja att bifoga en situationskarta med tydliga markeringar istället för att markera fastigheten eller
 fastigheterna på denna kartan.
 
-\
+\\
 
 '
 
@@ -288,7 +288,7 @@ Vad beskriver bäst din begäran?
 
 Bostäder
 
-3. Bilagor
+3\. Bilagor
 
 Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
@@ -391,7 +391,7 @@ I
 111
 
 •
-I,_-..-_ __.._■                                                                                                     •       •                              ■,_-..,. __ _.._I
+I,\_-..-\_ \_\_..\_■                                                                                                     •       •                              ■,\_-..,. \_\_ \_..\_I
 I
 D
 I ..•
@@ -779,7 +779,7 @@ Kommunerna föreslås även fortsättningsvis få pröva verksamheter som kan an
 miljöpåverkan, men alla övriga tillståndsärenden ska samlas hos den nya myndigheten.
 
 Förslagen innebär att miljöbalkens 9, 11, 19, 21 och 24 kapitel ändras, bland annat genom att en ny
-bestämmelse införs i 19 kap. 2 a $ som ger Miljöprövningsmyndigheten möjlighet att handlägga
+bestämmelse införs i 19 kap. 2 a \$ som ger Miljöprövningsmyndigheten möjlighet att handlägga
 ärenden som annars skulle ha prövats av kommun eller annan myndighet om dessa har samband med
 ett pågående tillståndsärende. Vidare ändras lagen om mark- och miljödomstolar så att beslut från
 Miljöprövningsmyndigheten som överklagas prövas av mark- och miljödomstolarna. Därtill föreslås
