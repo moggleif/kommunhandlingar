@@ -355,8 +355,8 @@ plattformarna låg parallellt en tid.
 - Ärenden har diarienummer `<ORGAN>-<ÅR>-<NR>` (t.ex. `KS 2023-00686`,
   `GA-2024-00194`), och handlingarna i ärendet kan ibland laddas ned.
 
-Åtkomst, API, handlingstyper, anslagstavlan och e-arkivet kontrolleras i
-#23.
+Åtkomst, API, handlingstyper, anslagstavlan och e-arkivet kontrolleras
+i #23.
 
 ## 4. Övrigt
 

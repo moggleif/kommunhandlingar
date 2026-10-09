@@ -69,6 +69,14 @@ kunna läggas till utan kodändring.
   kom, vilket original det var, när det hämtades och konverterades, med
   vilka verktyg och med vilken kvalitet – och PDF:en raderas. Fälten står
   i [Front matter](03-ARKITEKTUR.md#front-matter).
+- **Givet** text i PDF:en som Markdown annars läser som struktur, till
+  exempel en rad som börjar med `1.`, `- ` eller `#`, eller en adress
+  inom `<…>`
+- **När** dokumentet konverteras
+- **Så** visar en Markdown-läsare (CommonMark med GFM:s tabeller) texten
+  som den stod, utan listor, rubriker, länkar eller HTML som inte kommer
+  från konverteringen, och varje `.md` som når `main` klarar
+  Markdown-lint ([#65](https://github.com/moggleif/kommunhandlingar/issues/65)).
 
 ## K5 — Tabeller blir CSV
 

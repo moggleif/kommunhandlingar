@@ -89,7 +89,7 @@ Beslutet i detalj:
 
 Sökvägen blir
 
-```
+```text
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 ```
 
@@ -134,7 +134,7 @@ När koden kommer:
 
 ### A – Platsen i modellen: organ, datum och typ, med löpnummer vid krock
 
-```
+```text
 data/kungsbacka/ga/2025/2025-10-16/protokoll.md
 data/kungsbacka/ga/2025/2025-10-16/bilaga-1.md
 ```
@@ -155,7 +155,7 @@ data/kungsbacka/ga/2025/2025-10-16/bilaga-1.md
 
 ### C – Innehållet (sha256) är identiteten
 
-```
+```text
 data/kungsbacka/3f9a….md      + ett index som kopplar till sammanträdet
 ```
 
@@ -167,7 +167,7 @@ data/kungsbacka/3f9a….md      + ett index som kopplar till sammanträdet
 
 ### D – Ärendet (diarienummer) är grundenheten
 
-```
+```text
 data/kungsbacka/arenden/KS-2019-00123/tjansteskrivelse.md
 ```
 

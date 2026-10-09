@@ -1,0 +1,14 @@
+// Markdown-lint (ADR-0021). Poolens text är PDF:ens rader som de står, så
+// regler om stil, radlängd och tabellernas spaltbredd gäller inte; <br> är
+// radbrytningen i en tabellcell, och en adress står som den stod.
+{
+  "config": {
+    "default": true,
+    "MD013": false,
+    "MD033": { "allowed_elements": ["br"] },
+    "MD024": { "siblings_only": true },
+    "MD034": false,
+    "MD041": false,
+    "MD060": false
+  }
+}

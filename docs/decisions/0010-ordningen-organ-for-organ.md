@@ -10,8 +10,8 @@ consulted: AI-agenten
 ## Context and Problem Statement
 
 Kungsbackas 17 mötessidor hade 2026-10-07 1 672 filer på 13,2 GB (en
-fil mer än när källan kartlades samma dag), och Wayback och diariet (#23,
-#24) kommer att lägga till mer. En körning har en tidsbudget på fem
+fil mer än när källan kartlades samma dag), och Wayback och diariet (#23
+och #24) kommer att lägga till mer. En körning har en tidsbudget på fem
 timmar (ADR-0006), så poolen fylls natt för natt
 ([#27](https://github.com/moggleif/kommunhandlingar/issues/27)).
 
