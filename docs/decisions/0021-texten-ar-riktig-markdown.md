@@ -74,7 +74,8 @@ en enda ägare av formatet. Den exakta regeln står i
 * **Markdown-lint** (markdownlint-cli2, MIT) körs i CI på varje
   `.md` som en pull request lägger till eller ändrar. Reglerna står i
   `.markdownlint-cli2.jsonc`; regler om stil och radlängd är avstängda,
-  eftersom texten är PDF:ens rader.
+  eftersom texten är PDF:ens rader, liksom regeln om omvända länkar,
+  som läser `(1)[3237]` ur en PDF som ett skrivfel.
 
 ### Consequences
 
@@ -93,7 +94,7 @@ en enda ägare av formatet. Den exakta regeln står i
   lista: den ser en riktig lista. Det prövar testerna, som renderar
   escapad text och kräver att den visas som den stod.
 * Neutralt, eftersom CI behöver Node för lint. Det finns redan på
-  GitHubs maskiner, och lint körs med `npx` på en låst version.
+  GitHubs maskiner, och lint installeras i en låst version.
 
 ### Confirmation
 

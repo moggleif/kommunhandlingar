@@ -40,6 +40,7 @@ RADER = [
     "DSO årsrapport Kungsbacka_20250205",
     "[länk](https://example.se) och ![bild](a.png)",
     "[1]: https://example.se",
+    "[9][10][11] och [PE5][AM6]",
     "---|---",
     "| a | b |",
     ":--|--:",

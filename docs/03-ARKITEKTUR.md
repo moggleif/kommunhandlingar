@@ -739,7 +739,7 @@ GitHubs formler med `$`. Efter front matter följer sidorna i ordning. Varje sid
     `\` först, och i övrigt escapas bara `*`;
   - var som helst: `\` före ett skiljetecken eller i radslutet, `` ` ``,
     `*`, `~`, `$`, `<` före en bokstav, `/`, `!` eller `?`, `&` i
-    något som liknar en entitet (`&amp;`, `&#776;`), `]` före `(`, och `_`
+    något som liknar en entitet (`&amp;`, `&#776;`), `]` före `(` eller `[`, och `_`
     som inte står mellan två bokstäver eller siffror.
 - **En OCR-sida** escapas på samma sätt, och raderna skrivs utan indrag.
 - **En osäker tabell** står där den står på sidan, som ett kodblock märkt

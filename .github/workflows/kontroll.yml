@@ -31,9 +31,10 @@ jobs:
       - name: Markdown-lint på ändrade filer (ADR-0021)
         if: github.event_name == 'pull_request'
         run: |
+          npm install --global markdownlint-cli2@0.23.3
           git fetch --no-tags --depth=1 origin "$GITHUB_BASE_REF"
           git diff -z --name-only --diff-filter=AMR FETCH_HEAD HEAD -- '*.md' \
-            | xargs -0 -r npx --yes markdownlint-cli2@0.23.3
+            | xargs -0 -r -P 4 -n 25 markdownlint-cli2
       - name: Datakontrollerna (K11)
         run: python -m kommunhandlingar.datakontroll data
       - name: Kända sårbarheter i projektets beroenden

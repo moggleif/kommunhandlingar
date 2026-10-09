@@ -33,7 +33,7 @@ ruff check .
 ruff format --check .
 python3 scripts/kontrollera_storlek.py
 python3 -m unittest discover -s tests -t .
-npx --yes markdownlint-cli2@0.23.3 <ändrade .md-filer>
+npx markdownlint-cli2@0.23.3 <ändrade .md-filer>
 pip-audit .
 ```
 
