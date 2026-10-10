@@ -741,20 +741,22 @@ gäller:
    text när siffrorna inte räknas, på samma höjd (avrundad till hela
    punkter) på minst tre av dokumentets sidor: `Exempelby kommun 3(4)`,
    `Sida 4 av 7` och ett ensamt sidnummer. En rubrik, en fotnot, en
-   summa eller ett datum mellan tabellerna gör att de förblir två. En
-   numrerad rubrik i marginalen på samma höjd på tre sidor räknas dock
-   som sidhuvud, och i ett dokument på två sidor känns inget sidhuvud
-   igen.
+   summa eller ett datum i sidans text mellan tabellerna gör att de
+   förblir två. Varje rad i marginalen som uppfyller villkoret räknas
+   dock som sidhuvud eller sidfot, också en rubrik, en summa eller en
+   fotnot som bara skiljer i sina siffror, och i ett dokument på två
+   sidor känns inget sidhuvud igen.
 
 Tabellerna slås ihop sida för sida, så att en tabell kan gå över många
 sidor. Fortsättningens första rad tas bort när den är exakt lika med
 tabellens första rad, en upprepad rubrik. Inga celler slås ihop: en rad
 som brutits vid sidslutet står kvar som två rader. Maskningen av
 personuppgifter görs på varje sida innan tabellerna slås ihop, och
-sammanslagningen ändrar ingen cell. En rubrik i två rader upprepas inte
-exakt i sin första rad och står därför kvar i fortsättningen, och numren
-på fortsättningens sida räknas utan den, så att en tabell som hette
-`2-2.csv` heter `2-1.csv` efter omkonverteringen.
+sammanslagningen ändrar ingen cell. Bara rubrikens första rad jämförs,
+så när en rubrik i två rader upprepas tas den första raden bort och den
+andra står kvar i fortsättningen. Numren på fortsättningens sida räknas
+utan den, så att en tabell som hette `2-2.csv` heter `2-1.csv` efter
+omkonverteringen.
 
 ### Markdown-texten
 
@@ -897,8 +899,8 @@ tabeller har ingen tabellkatalog.
 - **Datakontrollen** prövar att varje CSV heter så, att numren på en
   sida följer på varandra utan lucka, och att sidan finns och är `ok`
   eller `tabell-osaker`. För en tabell över flera sidor gäller det varje
-  sida i spannet, och ingen annan tabell får börja inne i spannet. För
-  en tolkad CSV prövar den i stället att sidan står i `tolkade` och att
+  sida i spannet, och ingen annan tabell får börja inne i spannet eller
+  ha samma sida och nummer. För en tolkad CSV prövar den i stället att sidan står i `tolkade` och att
   talen står i sidans text ([Tolkade figurer](#tolkade-figurer)).
 
 ## Tolkade figurer

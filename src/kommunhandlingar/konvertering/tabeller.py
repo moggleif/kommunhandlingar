@@ -1,4 +1,4 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0005, ADR-0009 och ADR-0016.
+"""Krav: K5 och K19 i docs/02-KRAV.md, ADR-0005, ADR-0009, ADR-0016 och ADR-0024.
 Test: tests/test_konvertering.py och tests/test_celler.py.
 
 En säker tabell är avgränsad av ritade linjer: streck och fyllda

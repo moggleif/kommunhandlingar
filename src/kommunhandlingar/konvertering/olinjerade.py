@@ -1,4 +1,5 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0016. Test: tests/test_olinjerade.py.
+"""Krav: K5 och K19 i docs/02-KRAV.md, ADR-0016 och ADR-0024.
+Test: tests/test_olinjerade.py och tests/test_skarvar.py.
 
 En tabell utan lodräta linjer läses ur textlagrets ord, rad för rad, och blir
 säker bara när varje rad är en etikett följd av tal och talen står i linje i

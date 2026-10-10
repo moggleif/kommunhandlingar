@@ -8,13 +8,12 @@ sidfot med sidnumret.
 2. Fortsättningen, med rubriken upprepad, som fyller sidan.
 3. Fortsättningen utan rubrik, en rubrik i texten och en ny tabell som
    slutar mitt på sidan: ingen fortsättning.
-4. En rubrik ovanför en tabell som fyller sidan.
-5. Samma rubrik på samma höjd med en annan siffra: ingen fortsättning.
-   Under tabellen står ett datum.
-6. En tabell direkt under sidhuvudet, men datumet på sidan 5 skiljer.
-7. Samma yttermått men andra kolumner: ingen fortsättning.
-8. En tabell utan lodräta linjer som fyller sidan.
-9. Fortsättningen.
+4. En tabell direkt under sidhuvudet som fyller sidan.
+5–7. En rubrik i sidans text, på samma höjd med en annan siffra på varje
+   sida, ovanför en tabell som fyller sidan: ingen fortsättning.
+8. Samma yttermått men andra kolumner: ingen fortsättning.
+9. En tabell utan lodräta linjer som fyller sidan.
+10. Fortsättningen.
 """
 
 from collections.abc import Iterator
@@ -24,7 +23,7 @@ from reportlab.pdfgen.canvas import Canvas
 
 HAR = Path(__file__).parent
 B, H = 595, 842
-SIDOR = 9
+SIDOR = 10
 KOLUMNER = [60, 120, 400, 535]
 RUBRIK = ("Nr", "Ärende", "Delegat")
 
@@ -76,16 +75,13 @@ def sidor(c: Canvas) -> Iterator[None]:
     c.drawString(60, botten - 30, "Avsnitt 4 Ekonomi")
     tabell(c, botten - 50, [RUBRIK, *arenden(4, 2)], KOLUMNER)
     yield
-    c.drawString(60, 780, "Avsnitt 5 Ekonomi")
-    tabell(c, 760, [RUBRIK, *arenden(5, 30)], KOLUMNER)
+    tabell(c, 800, [RUBRIK, *arenden(5, 31)], KOLUMNER)
     yield
-    c.drawString(60, 780, "Avsnitt 6 Ekonomi")
-    botten = tabell(c, 760, [RUBRIK, *arenden(6, 30)], KOLUMNER)
-    c.drawString(60, botten - 20, "2026-10-10")
-    yield
-    tabell(c, 800, [RUBRIK, *arenden(7, 31)], KOLUMNER)
-    yield
-    tabell(c, 800, [RUBRIK, *arenden(8, 31)], [60, 300, 450, 535])
+    for avsnitt in (6, 7, 8):
+        c.drawString(60, 740, f"Avsnitt {avsnitt} Ekonomi")
+        tabell(c, 720, [RUBRIK, *arenden(avsnitt, 27)], KOLUMNER)
+        yield
+    tabell(c, 800, [RUBRIK, *arenden(9, 31)], [60, 300, 450, 535])
     yield
     poster(c, 790, 1, 33)
     yield

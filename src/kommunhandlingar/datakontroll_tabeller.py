@@ -6,7 +6,7 @@ namnet, att katalogen har sin `.md`, att sidan är läst ur textlagret eller
 tolkad, att numren på sidan följer på varandra och att filen är CSV med
 radslut LF. Varje tal i en tolkad CSV ska stå i sidans text. En tabell över
 flera sidor (K19) har varje sida läst ur textlagret, och ingen annan tabell
-börjar inne i den.
+börjar inne i den eller har samma sida och nummer.
 """
 
 import csv
@@ -46,10 +46,17 @@ def delar(namn: str) -> tuple[int, int, int, str] | None:
 
 
 def spannfel(fil: Path, sida: int, nr: int) -> list[str]:
-    """En tabell över flera sidor som den här tabellen börjar inne i."""
-    for annan in sorted(fil.parent.glob("*-*-*.csv")):
+    """En annan tabell med samma sida och nummer, eller en tabell över
+    flera sidor som den här tabellen börjar inne i."""
+    for annan in sorted(fil.parent.glob("*.csv")):
         span = delar(annan.name)
-        if span and not span[3] and (span[0], span[2]) < (sida, nr) < (span[1], 0):
+        if annan == fil or not span or span[3]:
+            continue
+        # Numret 0 på sista sidan ligger före varje tabell som börjar där.
+        borjan, slut = (span[0], span[2]), (span[1], 0)
+        if borjan == (sida, nr):
+            return [f"samma sida och nummer som {annan.name}"]
+        if borjan < (sida, nr) < slut:
             return [f"börjar inne i {annan.name}"]
     return []
 

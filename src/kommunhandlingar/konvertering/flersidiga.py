@@ -62,7 +62,7 @@ def hor_ihop(fore: Sida, efter: Sida, marginal: set[Rad]) -> bool:
 
 
 def fortsatter(fore: Skarv | None, efter: Skarv | None, marginal: set[Rad]) -> bool:
-    if fore is None or efter is None or not fore.sista_nederst or not efter.forsta:
+    if fore is None or efter is None or not fore.sista_nederst:
         return False
     return samma_kolumner(fore.sista, efter.forsta) and marginal.issuperset(
         fore.nedanfor + efter.ovanfor

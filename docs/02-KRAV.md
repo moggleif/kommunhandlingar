@@ -542,12 +542,19 @@ Vad som räknas som en fortsättning står i
 - **När** delarna slås ihop
 - **Så** står delarna kvar som två rader; inga celler slås ihop.
 - **Givet** två tabeller på varsin sida med löptext, en rubrik, en
-  fotnot eller en summa emellan, med olika kolumner, där den första
-  slutar mitt på sidan, där någon av sidorna är läst med OCR, eller där
-  bara den ena sidans tal är obekräftade
+  fotnot eller en summa emellan i sidans text, med olika kolumner, där
+  den första slutar mitt på sidan, där någon av sidorna är läst med OCR,
+  eller där bara den ena sidans tal är obekräftade
 - **När** dokumentet konverteras
 - **Så** förblir de två tabeller, som förut.
+- **Givet** en rad i sidans översta eller nedersta tiondel som står på
+  samma höjd på minst tre sidor, med samma text när siffrorna inte
+  räknas
+- **När** dokumentet konverteras
+- **Så** räknas den som sidhuvud eller sidfot och skiljer inte två
+  tabeller åt, också när den är en rubrik, en summa eller en fotnot.
 - **Givet** en tabell som slagits ihop
 - **När** datakontrollen körs (K11)
 - **Så** prövas att varje sida i spannet finns och är läst ur textlagret,
-  och att ingen annan tabell börjar inne i spannet.
+  och att ingen annan tabell börjar inne i spannet eller har samma
+  första sida och nummer.

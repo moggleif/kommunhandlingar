@@ -34,17 +34,9 @@ class TestSkarvar(unittest.TestCase):
         cls.filer = skrivning.tabellfiler(cls.sidor)
 
     def test_filerna(self):
+        enkla = [f"{sida}-1.csv" for sida in range(3, 9)]
         self.assertEqual(
-            sorted(self.filer),
-            [
-                "1-3-1.csv",
-                "3-1.csv",
-                "4-1.csv",
-                "5-1.csv",
-                "6-1.csv",
-                "7-1.csv",
-                "8-9-1.csv",
-            ],
+            sorted(self.filer), sorted(["1-3-1.csv", *enkla, "9-10-1.csv"])
         )
 
     def test_sammanslagen_tabell_har_rubriken_en_gang(self):
@@ -56,15 +48,15 @@ class TestSkarvar(unittest.TestCase):
         self.assertEqual([rad[0] for rad in tabell[1:]], forvantat)
 
     def test_text_emellan_eller_andra_kolumner_skiljer(self):
-        """Tabellen slutar mitt på sidan (4), rubrik med en annan siffra på
-        samma höjd (5), ett datum under tabellen (6) och andra kolumner (7)."""
-        for sida, avsnitt in ((3, 4), (4, 5), (5, 6), (6, 7), (7, 8)):
+        """Tabellen slutar mitt på sidan (3), rubrik i sidans text med en
+        annan siffra på samma höjd (4–7) och andra kolumner (8)."""
+        for sida in range(3, 9):
             with self.subTest(sida):
                 tabell = rader(self.filer[f"{sida}-1.csv"])
-                self.assertEqual(tabell[1][0], f"{avsnitt}.1")
+                self.assertEqual(tabell[1][0], f"{sida + 1}.1")
 
     def test_tabell_utan_lodrata_linjer(self):
-        tabell = rader(self.filer["8-9-1.csv"])
+        tabell = rader(self.filer["9-10-1.csv"])
         self.assertEqual(
             (len(tabell), tabell[0][0], tabell[-1][0]), (36, "Post ab", "Post bk")
         )

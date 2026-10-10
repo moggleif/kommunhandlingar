@@ -81,9 +81,11 @@ uppställning, och det bara finns medan PDF:en är öppen.
 * Dåligt, eftersom en rad som brutits vid sidslutet står kvar som två
   rader.
 * Dåligt, eftersom ett dokument på två sidor inte har något sidhuvud som
-  känns igen, och en numrerad rubrik i marginalen på samma höjd på tre
-  sidor räknas som sidhuvud.
-* Dåligt, eftersom en rubrik i två rader står kvar i fortsättningen, och
+  känns igen, och varje rad i marginalen som står på samma höjd på tre
+  sidor räknas som sidhuvud eller sidfot, också en rubrik, en summa
+  eller en fotnot som bara skiljer i sina siffror.
+* Dåligt, eftersom bara rubrikens första rad tas bort ur fortsättningen,
+  så att den andra raden i en rubrik i två rader står kvar, och
   numren på fortsättningens sida ändras: `2-2.csv` kan bli `2-1.csv` när
   dokumentet konverteras om.
 * Dåligt, eftersom dokumenten i poolen har kvar en tabell per sida tills
@@ -94,11 +96,11 @@ uppställning, och det bara finns medan PDF:en är öppen.
 
 Tester mot en PDF i `tests/fixtures/pdf/` med en tabell över tre sidor,
 med sidhuvud, sidfot och upprepad rubrik, och med tabeller som inte ska
-slås ihop: en tabell som slutar mitt på sidan, en rubrik som bara
-skiljer i en siffra, ett datum under tabellen och samma yttermått med
-andra kolumner. Fixturen har också en tabell utan lodräta linjer över två
-sidor.
-Datakontrollen prövar namnet och spannet.
+slås ihop: en tabell som slutar mitt på sidan, en rubrik i sidans text
+som bara skiljer i en siffra, på samma höjd på tre sidor, och samma
+yttermått med andra kolumner. Fixturen har också en tabell utan lodräta
+linjer över två sidor. Datakontrollen prövar namnet, spannet och att
+ingen sida och inget nummer förekommer två gånger.
 
 ## Pros and Cons of the Options
 
@@ -151,10 +153,19 @@ Datakontrollen prövar namnet och spannet.
    höjd på varje sida, och en summarad på samma höjd under varje tabell.
    Två villkor lades till: tabellen ska sluta i sidans nedersta fjärdedel,
    som den gör när sidan tog slut, och sidhuvud och sidfot ska stå i
-   sidans översta eller nedersta tiondel. Granskningen påpekade också att
+   sidans översta eller nedersta tiondel. Det löser rubriker och summor i
+   sidans text, men inte en summa eller fotnot i marginalen, som
+   fortfarande räknas som sidfot (punkt 6). Granskningen påpekade också att
    en sida med obekräftade tal skulle få den första sidans märkning; sådana
    sidor slås inte ihop med sidor vars tal är bekräftade.
-6. **Utanför:** en rad som brutits vid sidslutet fogas inte ihop, och
+6. **Den tredje granskningen** visade att texten lovade mer än regeln
+   håller: en summa eller fotnot i sidans nedersta tiondel, på samma höjd
+   på tre sidor, räknas som sidfot. Agenten valde att skriva in det i
+   kravet i stället för att göra regeln mer invecklad, eftersom en sådan
+   rad oftast är en sidfot, och en felaktig sammanslagning inte ändrar
+   några tal. Den lade också till en kontroll av att ingen sida och inget
+   nummer förekommer två gånger i tabellkatalogen.
+7. **Utanför:** en rad som brutits vid sidslutet fogas inte ihop, och
    tabeller på OCR-sidor slås inte ihop.
-7. **Omprövas** om det visar sig vanligt att en tabell har en rubrik
+8. **Omprövas** om det visar sig vanligt att en tabell har en rubrik
    eller fotnot mellan delarna.

@@ -167,6 +167,16 @@ class TestTabellkontroll(Pool):
             ],
         )
 
+    def test_samma_sida_och_nummer_tva_ganger(self):
+        (self.katalog / "2-3-1.csv").write_text("a\n")
+        self.assertEqual(
+            self.fel(),
+            [
+                f"{self.relativ}/2-1.csv: samma sida och nummer som 2-3-1.csv",
+                f"{self.relativ}/2-3-1.csv: samma sida och nummer som 2-1.csv",
+            ],
+        )
+
     def test_ingen_tabell_borjar_inne_i_spannet(self):
         (self.katalog / "1-3-1.csv").write_text("a\n")
         self.assertEqual(
