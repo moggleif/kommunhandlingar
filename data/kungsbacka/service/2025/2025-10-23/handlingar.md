@@ -3913,7 +3913,7 @@ Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan - Kungsbacka
 kommun, du hittar den även på www.kungsbacka.se, sök på aktuella
 
 projekt.
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81
 Kungsbacka.
 
@@ -3927,7 +3927,7 @@ kommun, kulturhuset Fyren, Åsa bibliotek (läsex
 planhandlingar) eller i Stadshusets entré, Kungsbacka (Läsex
 planhandlingar)
 Vid frågor om aktuellt planförslag är du välkommen att kontakta ansvarig
-planarkitekt Johan Stenson via mail: johan.stenson@kungsbacka.se.
+planarkitekt Johan Stenson via mail: (e-post borttagen).
 
 Skanna QR-koden
 med din mobilkamera
@@ -4074,8 +4074,8 @@ Välkommen          med     dina    synpunkter!
 
 Ändring    av  detaljplan    för Tingbergsskolan
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 130 -->
 
@@ -4217,8 +4217,8 @@ Informationsträff:
 Torsdag 11 september klockan 16:00 – 18:00 finns tjänstepersoner på plats
 vid planområde vid Bukärrsvägen för att svara på frågor.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 135 -->
 
@@ -4231,7 +4231,7 @@ ha dina synpunkter.
 Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan - Kungsbacka
 kommun, du hittar den även på www.kungsbacka.se, sök på aktuella
 projekt.
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81
 Kungsbacka.

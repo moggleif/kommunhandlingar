@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -134,7 +134,7 @@ Länsstyrelsen i Hallands län
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -284,7 +284,7 @@ Med stöd av 7 kap. 7 § första stycket miljöbalken, upphäver Länsstyrelsen 
 om förordnande om landskapsbildskydd enligt 19 § naturvårdslagen daterat den 7
 augusti 1972 (dnr. 11.126-2259-71) för den del av det landskapsbildsskyddade området
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 
 www.lansstyrelsen.se/halland/personuppgifter
 
@@ -1501,30 +1501,30 @@ Ellevio, RES.ElleviofysiskplaneringQellevio.se
 Lars Tommy Eliasson & Berit Ingeborg Halvordsson, Peder Skrivares väg
 18A Igh 1102, 432 44 Varberg
 
-Sara & John Swartling Hogsten, Murkelvägen 208, 184 34 Åkersberga
-Jan Sigvardsson, Drängseredsvägen 46, 448 35 Floda
+Sara & John Swartling Hogsten, (adress borttagen), 184 34 Åkersberga
+Jan Sigvardsson, (adress borttagen), 448 35 Floda
 
-Gudrun Andersson, Boatorpsvägen 80, 439 63 Frillesås
+Gudrun Andersson, (adress borttagen), 439 63 Frillesås
 
-Malou Johansson, Skrotta Glamsjövägen 309, 439 64 Frillesås
+Malou Johansson, Skrotta (adress borttagen), 439 64 Frillesås
 
-Irene Christensen & Andreas Fritiofsson, Flögetvägen 20, 439 64 Frillesås
-Lena Sidestam, Ängsäters gränd 3 lgh 1403, 436 57 Hovås
+Irene Christensen & Andreas Fritiofsson, (adress borttagen), 439 64 Frillesås
+Lena Sidestam, (adress borttagen), 436 57 Hovås
 
-Monika & Lars Svensson, Tärneskärsgatan 32, 421 57 Västra Frölunda
-Pia Andersson, Flögetvägen 14, 439 64 Frillesås
+Monika & Lars Svensson, (adress borttagen), 421 57 Västra Frölunda
+Pia Andersson, (adress borttagen), 439 64 Frillesås
 
 Marie & Bo Johansson, Sikelgatan 8 Igh 1102, 414 81 Göteborg
 
-Hans & Carina Johansson, Johan Oscars väg 8, 439 62 Frillesås
+Hans & Carina Johansson, Johan (adress borttagen), 439 62 Frillesås
 Fastigheten Frillesås 4:10 AB, Box 9252, 400 96 Göteborg
 
-Erik Linder & Marita Börjesson, Fringshultsvägen 8, 439 63 Frillesås
-Antoinette Johansson, Trutvägen 2, 432 66 Veddige
+Erik Linder & Marita Börjesson, (adress borttagen), 439 63 Frillesås
+Antoinette Johansson, (adress borttagen), 432 66 Veddige
 
-Martin Johansson, Fringshultsvägen 152, 439 63 Frillesås
+Martin Johansson, (adress borttagen), 439 63 Frillesås
 
-Victorssons Fastigheter AB, Almedalsvägen 182, 439 63 Frillesås
+Victorssons Fastigheter AB, (adress borttagen), 439 63 Frillesås
 
 Postadress Besöksadress E-post Telefon
 301 86 HALMSTAD Slottsgatan 2 halland(Qlansstyrelsen.se 010 - 224 30 00
@@ -13830,7 +13830,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Mårten Västerdal       Patrik Johansson
 Samhällsplanerare      Kommunsekreterare                      Besöksadress
 Stadshuset, Storgatan 37
-marten.vasterdal@kungsbacka.se patrik.johansson2@kungsbacka.se
+(e-post borttagen) (e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -13906,7 +13906,7 @@ omhändertagande
 
 2026-05-29
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 360 -->
 
@@ -14407,7 +14407,7 @@ April 2026
 Patrik Johansson
 Kommunsekreterare
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 370 -->
 
@@ -14963,7 +14963,7 @@ Ny    idrottshall           i Onsala
 
 Upprättad 2026-05-27
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 383 -->
 

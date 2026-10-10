@@ -111,7 +111,7 @@ svikt    på    Signeshus
 
 Utredning
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 10 september, 2024
 
 <!-- sida 4 -->
@@ -599,7 +599,7 @@ Enligt Kungsbacka kommuns riktlinjer för arkivvård och informationsförvaltnin
 myndighet upprätta en informationshanteringsplan som antas av myndigheten.
 Ändringar ska samrådas med arkivmyndigheten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 16 -->
 
@@ -1262,11 +1262,11 @@ Gäller från: 2024-xx-xx
 
 Ansvarig förvaltning: Förvaltningen för Vård & Omsorg
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 54 -->
 
@@ -1452,7 +1452,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 47 04
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 57 -->

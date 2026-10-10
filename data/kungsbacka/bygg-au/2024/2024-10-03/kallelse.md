@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Amanda Toresson                                              Kungsbacka kommun
 434 81 Kungsbacka
 Direkt
-amanda.toresson@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

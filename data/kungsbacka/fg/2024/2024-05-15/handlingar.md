@@ -39,7 +39,7 @@ Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -124,7 +124,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -400,7 +400,7 @@ Ansökan, 1999-04-19
 
 Beslutet skickas till
 Föräldrakooperativet Kottar och Barr
-Gamla Älvsåkersvägen 39
+Gamla (adress borttagen)
 
 434 96 Kungsbacka
 
@@ -514,7 +514,7 @@ vill säga liggande förslag och att arbetsutskottet bifaller det.
 
 Beslutet skickas till
 Föräldrakooperativet Kottar och Barr
-Gamla Älvsåkersvägen 39, 434 96 Kungsbacka
+Gamla (adress borttagen), 434 96 Kungsbacka
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9DAC986FEB45FDDC1AF240BAA15BFA12CAC23EAA8F
@@ -557,7 +557,7 @@ Delegationsbeslut, 2000-03-22
 
 Beslutet skickas till
 Förskolekooperativet Myrstacken
-Kumlabacken 9
+(adress borttagen)
 439 53 Åsa
 
 Beskrivning av ärendet
@@ -668,7 +668,7 @@ vill säga liggande förslag och att arbetsutskottet bifaller det.
 Beslutet skickas till
 
 Förskolekooperativet Myrstacken
-Kumlabacken 9, 439 53 Åsa
+(adress borttagen), 439 53 Åsa
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9DAC986FEB45FDDC1AF240BAA15BFA12CAC23EAA8F
@@ -711,7 +711,7 @@ Delegationsbeslut, 2000-03-22
 
 Beslutet skickas till
 Förskolekooperativet Myrstacken
-Kumlabacken 9
+(adress borttagen)
 439 53 Åsa
 
 Beskrivning av ärendet
@@ -835,7 +835,7 @@ vill säga liggande förslag och att arbetsutskottet bifaller det.
 
 Beslutet skickas till
 Förskolekooperativet Myrstacken
-Kumlabacken 9, 439 53 Åsa
+(adress borttagen), 439 53 Åsa
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9DAC986FEB45FDDC1AF240BAA15BFA12CAC23EAA8F
@@ -1039,7 +1039,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 434 81 Kungsbacka
 Kungsbacka Kommun
 Besöksadress
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1249,7 +1249,7 @@ väsentliga att uppmärksamma. En detaljerad redogörelse ges i rapporten.
 & Fritid, Miljö & Hälsoskydd, Teknik, byggnadsnämnden, valnämnden samt Eksta och Tempohus AB, Stiftelsen Tjolöholm slott,
 kommunrevisionen samt kommunstyrelsen
 2 Undantaget verksamheter med mycket begränsad personuppgiftsbehandling.
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 35 -->
 
@@ -2371,7 +2371,7 @@ Under året har jag noterat två (2) begäran om registerutdrag, en begäran om 
 om begränsning.
 
 1 DSO årsrapport 2023, 2023-01-09, dnr KS 2023-00867
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 59 -->
 
@@ -2449,7 +2449,7 @@ Dataskyddsombud
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Kungsbacka kommun
 0300-83 40 66
-karin.malmsten@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 61 -->

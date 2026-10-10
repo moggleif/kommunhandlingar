@@ -40,7 +40,7 @@ Paus 18:40-19:00
 Alexandra Cameron                                            Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-alexandra.cameron@kungsbacka.se                                 Besöksadress
+(e-post borttagen)                                 Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1632,7 +1632,7 @@ Datum             Diarienummer
 2025-06-24        ATN-2025-00010
 Avdelning Utbildning
 Theresa Björnström,
-theresa.bjornstrom@goteborgsregionen.se
+(e-post borttagen)
 Antagningsnämnden
 
 Interkommunal      ersättning   inom
@@ -2815,7 +2815,7 @@ Datum
 2025-08-21
 Avdelning Stab och Konferens
 Therese Tanner, förbundssekreterare Diarienummer
-therese.tanner@goteborgsregionen.se GRFS-2025-00202
+(e-post borttagen) GRFS-2025-00202
 Förbundsstyrelsen
 
 Interkommunal      ersättning   (IKE) 2026
@@ -2953,7 +2953,7 @@ Datum
 2025-08-21
 Avdelning Stab och Konferens
 Therese Tanner, förbundssekreterare Diarienummer
-therese.tanner@goteborgsregionen.se GRFS-2025-00203
+(e-post borttagen) GRFS-2025-00203
 Förbundsstyrelsen
 
 Interkommunal      ersättning   (IKE) 2026
@@ -3192,7 +3192,7 @@ Datum             Diarienummer
 2025-06-24        ATN-2025-00011
 Avdelning Utbildning
 Theresa Björnström,
-theresa.bjornstrom@goteborgsregionen.se
+(e-post borttagen)
 Antagningsnämnden
 
 Interkommunal      ersättning   inom
@@ -3418,7 +3418,7 @@ och Arbetsmiljönämnd
 Adress: Sundbybergsvägen 1,
 Box 1826, 171 26 Solna.
 Tel: 08-734 52 00. Fax: 08-734 52 02.
-E-post: info@tya.se. www.tya.se
+E-post: (e-post borttagen). www.tya.se
 
 Innehållsförteckning
 
@@ -6323,7 +6323,7 @@ skolans hälsofrämjande och förebyggande uppdrag.
 Patrik Hellberg
 Förvaltningschef Gymnasium & Arbetsmarknad
 
-patrik.hellberg@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 156 -->
 
@@ -6393,7 +6393,7 @@ Patrik Hellberg
 
 Förvaltningschef Gymnasium & Arbetsmarknad
 
-patrik.hellberg@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 158 -->
 
@@ -6472,7 +6472,7 @@ mycket mer.
 Trevlig läsning!
 Björn       Elmqvist
 
-bjorn@werket.nu | 070-888 26 01
+(e-post borttagen) | (mobilnummer borttaget)
 
 2
 
@@ -7368,7 +7368,7 @@ kande och den försämrade etableringen bland unga på
 arbetsmarknaden samt mycket mer.
 Trevlig läsning!
 Björn       Elmqvist
-bjorn@werket.nu | 070-888 26 01
+(e-post borttagen) | (mobilnummer borttaget)
 2
 
 <!-- sida 172 -->
@@ -8878,7 +8878,7 @@ Beslut
 Datum 2025-10-20
 Huvudman                             Dnr SI 2025:5870
 Kungsbacka kommun                    Sida 1 (10)
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 
 Ärendet
 
@@ -8964,7 +8964,7 @@ frånvaro.
 Redovisning av åtgärder
 
 Redovisningen av de vidtagna åtgärderna skickas via e-post till
-dokument.goteborg@skolinspektionen.se, eller per post till
+(e-post borttagen), eller per post till
 Skolinspektionen, Box 2320, 403 15 Göteborg. Hänvisa till
 Skolinspektionens diarienummer för ärendet (dnr 2025:5870) i de
 handlingar som sänds in.
@@ -9345,7 +9345,7 @@ Kungsbacka       kommun
 
 Version till Ksau 2025-10-07
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 206 -->
 
@@ -11467,7 +11467,7 @@ kommuns gymnasieskolor, 2024-10-07
 Patrik Johansson                                          Kungsbacka kommun
 Kommunsekreterare                                          434 81 Kungsbacka
 Kommunstyrelsens förvaltning                                  Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -11649,7 +11649,7 @@ Datum         Vår beteckning Sid
 Avdelningen för inspektion
 Sabiha Hajdarevic,           KUNGSBACKA KOMMUN
 010-730 98 37
-arbetsmiljoverket@av.se      434 81 KUNGSBACKA
+(e-post borttagen)      434 81 KUNGSBACKA
 
 Resultatet av inspektionen 23 oktober 2025
 
@@ -11682,7 +11682,7 @@ inspektionen.
 
 Postadress: Box 9082, 171 09 Solna
 Telefon: 010-730 90 00 • Telefax: 08-730 19 67
-E-post: arbetsmiljoverket@av.se • Webbplats: av.se
+E-post: (e-post borttagen) • Webbplats: av.se
 Organisationsnummer: 202100-2148
 
 <!-- sida 253 -->
@@ -11789,7 +11789,7 @@ Datum         Vår beteckning Sid
 2025-11-10    2025/062879    4 (4)
 
 Kopia till
-karin.zetterman@kungsbacka.se
-kristina.rosenkvist@kungsbacka.se
-linnea.soderman@kungsbacka.se
-pernilla.borjesson@kungsbacka.se
+(e-post borttagen)
+(e-post borttagen)
+(e-post borttagen)
+(e-post borttagen)

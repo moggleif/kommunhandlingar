@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -203,7 +203,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1903,7 +1903,7 @@ Lantmäteriet 2022-07-01
 VIC Natur ID nr 1002073 Sida 7
 Särö 1:52 | Znep AB
 C/O Vertex
-Linneplatsen 1
+(adress borttagen)
 413 10 Göteborg
 Särö 1:505 fen
 Belastar
@@ -1958,7 +1958,7 @@ bh
 13-SLÄ-516 | | |
 Till förmån för
 Särö 1:405 Lesley Invest AB
-' Alfagatan 1
+' (adress borttagen)
 431 49 Mölndal
 Belastar ös
 
@@ -2356,7 +2356,7 @@ Nämnden för Teknik
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -3013,7 +3013,7 @@ Kent Stenhammar
 Ledamot i
 Kommunfullmäktige
 
-Kungsbacka Socialdemokratiska Arbetarekommun, Verkstadsgatan 14, 43442 Kungsbacka Tel: 073 811 98 00
+Kungsbacka Socialdemokratiska Arbetarekommun, (adress borttagen), 43442 Kungsbacka Tel: (mobilnummer borttaget)
 kbasoc.nu
 
 <!-- sida 83 -->
@@ -3075,7 +3075,7 @@ Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Eva Böhnke
 Kommunledningssekreterare                                     Besöksadress
-eva.bohnke@kungsbacka.se                                 Stadshuset, Storgatan 37
+(e-post borttagen)                                 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -3240,7 +3240,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -3420,11 +3420,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 94 -->
 
@@ -3552,7 +3552,7 @@ utbetalas inget stöd för nästkommande år.
 
 Beslutad av: Kommunfullmäktige i protokoll KF § 214/14
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 <!-- sida 97 -->
 
@@ -3838,7 +3838,7 @@ Ett uppdrag som ordförande i nämnd innebär sällan ett uppdrag på mer än 40
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -4280,7 +4280,7 @@ Gäller från:          2024-01-01
 
 Ansvarig förvaltning: Teknik
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 115 -->
 

@@ -359,11 +359,11 @@ Beslutad av:    Kommunfullmäktige 5 mars 2024 § 33, KS-2023-00815
 
 Gäller från:    2024-03-05
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 9 -->
 

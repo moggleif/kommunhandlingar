@@ -37,7 +37,7 @@ Sammanträde onsdagen den 18 juni 2025 kl. 17:00 Elof Lindälvs gymnasium sal A 
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

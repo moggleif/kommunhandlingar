@@ -621,11 +621,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    2024-04-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 15 -->
 
@@ -781,7 +781,7 @@ Kungsbacka kommun         Taxa för särskild kollektivtrafik - Färdtjänst 5 (
 
 Färdtjänsttaxa             2024
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 20 -->
 
@@ -971,7 +971,7 @@ Beslutad av: [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 
 Ansvarig förvaltning: [Klicka och skriv]
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -2111,11 +2111,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    2024-04-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 51 -->
 
@@ -2256,11 +2256,11 @@ Dokumentegenskaper: Titel: Information om egenavgifter för särskild kollektivt
 Gäller från:    2024-01-01
 Ansvarig förvaltning: Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 55 -->
 
@@ -2378,7 +2378,7 @@ enligt tidigare gällande taxa.
 
 Frågor om innehållet på fakturan
 
-Telefon 0771-750 600 eller e-post ftjfaktura@hlt.se
+Telefon 0771-750 600 eller e-post (e-post borttagen)
 Frågor om betalning eller autogiro
 
 Visma Collector, telefon 0771-232 400
@@ -2386,13 +2386,13 @@ Visma Collector, telefon 0771-232 400
 Synpunkter och klagomål på resan samt tillståndets innehåll och
 giltighet
 
-Telefon 0774-411 000 eller e-post: kundtjanst.kungsbacka@samres.se
+Telefon 0774-411 000 eller e-post: (e-post borttagen)
 Frågor om reglerna kring färdtjänst
 
 Du kan alltid kontakta oss via kommunens kundcenter: 0300-83 40 00 eller via
-info@kungsbacka.se så hjälper vi dig vidare.
+(e-post borttagen) så hjälper vi dig vidare.
 Har du frågor om handläggningen kan du även maila oss direkt på
-teknik.fardtjanst@kungsbacka.se. Kom ihåg att lämna ett telefonnummer som vi kan
+(e-post borttagen). Kom ihåg att lämna ett telefonnummer som vi kan
 
 nå dig på om du frågor som rör en specifik person, detta är för att vi inte besvarar
 personfrågor via e-post på grund av sekretess.
@@ -2662,11 +2662,11 @@ Beslutad av:    Nämnden för Teknik 2023-12-13 dn xx
 Gäller från:    2024-04-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 65 -->
 
@@ -3446,14 +3446,14 @@ hallandstrafiken.se/fardtjanst eller mobilappen "Hallandstrafiken Serviceresan".
 
 Frågor om innehållet på fakturan
 
-Telefon 0771-750 600 eller e-post ftjfaktura@hlt.se
+Telefon 0771-750 600 eller e-post (e-post borttagen)
 Frågor om betalning eller autogiro
 
 Visma Collector, telefon 0771-232 400
 
 Synpunkter och klagomål på resan
 
-Telefon 0774- 411 000 eller e-post: kundtjanst.kungsbacka@samres.se
+Telefon 0774- 411 000 eller e-post: (e-post borttagen)
 
 Länkar
 
@@ -3545,11 +3545,11 @@ Beslutad av:    Kommunfullmäktige 10 december 2019 § 183, KS 2019-00632
 Gäller från:    2019-12-10
 Ansvarig förvaltning: Samhällsbyggnadskontoret
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 82 -->
 
@@ -5063,7 +5063,7 @@ Verksamhetschef Trafik & Utemiljö
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5154,7 +5154,7 @@ godtagbar bullernivå.
 1 (3)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6013,11 +6013,11 @@ Beslutad av:   Nämnden för Teknik – 2023-10-18 § 116
 Gäller från:   2024-01-23
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 140 -->
 

@@ -1115,12 +1115,12 @@ Sven Erik Bergström
 Stadshuset, Storgatan 37
 Specialist Hållbarhet
 Samhällsbyggnadskontoret                                 Telefon 0300-83 40 00
-sven-erik.bergstrom@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 Anna Rehnberg
 Kommunjurist
 Kommunledningskontoret
-anna.rehnberg@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 23 -->
 
@@ -2448,7 +2448,7 @@ Förstudie
 
 2023|12|22
 
-info@semren-mansson.se | semren-mansson.se
+(e-post borttagen) | semren-mansson.se
 3202
 nossnåM
 &
@@ -4977,7 +4977,7 @@ Förstudie             2.0
 
 2024/06/19
 
-info@semren-mansson.se | semren-mansson.se
+(e-post borttagen) | semren-mansson.se
 4202
 nossnåM
 &
@@ -7026,7 +7026,7 @@ för flera mindre företag. Denna aktör ska erbjuda möjligheter till konferens
 bidrar till en flexibilitet för evenemang i arenan då många eventarrangörer
 efterfrågar konferensmöjligheter/extralokaler vid genomförande av event.
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 125 -->
 
@@ -7949,7 +7949,7 @@ radmedskick.
 
 Friends          Arena                                                    Basfakta
 
-Adress                RåstaStrandväg 1, 169 56 Solna
+Adress                (adress borttagen), 169 56 Solna
 Stockholm
 Fastighetsbeteckning  NATIONALARENAN 1
 Ägare                 Fabege och Svenska Fotbollsförbundet
@@ -8066,7 +8066,7 @@ Källa: Newsec
 
 Kristinehamn                  Arena                                       Basfakta
 
-Adress                Arenavägen 3, 681 54 Kristinehamn
+Adress                (adress borttagen), 681 54 Kristinehamn
 Kristinehamn
 Fastighetsbeteckning  SKÖLDPADDAN 15
 Ägare                 Kunskapsporten
@@ -8101,7 +8101,7 @@ Källa: Newsec
 
 Partille        Arena                                                     Basfakta
 
-Adress                Gamla Kronvägen 2, 433 33 Partille
+Adress                Gamla (adress borttagen), 433 33 Partille
 Partille
 Fastighetsbeteckning  PARTILLE 11:11
 Ägare                 Partille kommun
@@ -8140,7 +8140,7 @@ Källa: Newsec
 
 Husqvarna               Garden          (HV71)                            Basfakta
 
-Adress                Elmiavägen 18, 554 54 Jönköping
+Adress                (adress borttagen), 554 54 Jönköping
 Jönköping
 Fastighetsbeteckning  ÅNGAN 1
 Ägare                 HV71 Fastighets AB

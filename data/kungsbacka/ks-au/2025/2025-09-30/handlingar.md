@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                           Kungsbacka kommun
 Kommunstyrelsens förvaltning                              434 81 Kungsbacka
 Direkt
-therese.tanner@kungsbacka.se                                 Besöksadress
+(e-post borttagen)                                 Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -4047,7 +4047,7 @@ Mellan nedanstående parter träffas härmed avtal om samverkan enligt följande
 
 Trafikverket, Västra Regionen, 202100-6297, 781 89 Borlänge, nedan Trafikverket
 
-Kungsbacka Kommun, 212000-1256, Stadshuset, Storgatan 37, 434 81 Kungsbacka
+Kungsbacka Kommun, 212000-1256, Stadshuset, (adress borttagen), 434 81 Kungsbacka
 
 82 Definitioner och begrepp
 Följande definitioner och begrepp används i detta avtal:
@@ -4222,7 +4222,7 @@ snanifmaS-eslemmoksnerevÖ
 LLAMT
 underentreprenör vara klar på vilka krav som gäller för trafikens framkomlighet.
 Kontakt ska tas med regionens trafikingenjör. Mail skickas till:
-trafikmiljo.vastra@trafikverket.se ange Västra Regionen, Trafikingenjör Ta-planer
+(e-post borttagen) ange Västra Regionen, Trafikingenjör Ta-planer
 vid avtal. Tillstånd för att börja arbeta efter en trafikanordningsplan kan erhållas
 när kommunen eller kommunens entreprenör har egenregistrerat efterfrågade
 uppgifter i det webbaserade programmet (FIFA), se www.trafikverket.se/apv, och
@@ -5362,7 +5362,7 @@ Adress
 
 Adress
 
-Kullaviks Trädgårdsväg 11
+Kullaviks (adress borttagen)
 429 33 Kullavik
 
 Areal

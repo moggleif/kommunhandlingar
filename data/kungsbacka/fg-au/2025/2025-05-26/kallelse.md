@@ -39,7 +39,7 @@ Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 
@@ -66,7 +66,7 @@ KUNGSBACKA  KOMMUN
 | 8. | Redovisning klagomålsärenden<br>Kl 14:45-15:05<br>Tove Bender, utredare<br>Bertil Ljungblad,<br>utvecklingsledare | FG-2025-00257 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 | 9. | Redovisning kränkningar<br>Kl 15:05-15:30<br>Tove Bender, utredare<br>Bertil Ljungblad,<br>utvecklingsledare | FG-2025-00256 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 | 10. | Årsrapport dataskyddsarbete<br>2024-2025 | FG-2025-00320 | Nämnden för Förskola & Grundskola har tagit<br>del av rapporten och förvaltningens redovisning<br>med anledning av denna. |
-| 11. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening gällande permanent<br>utökning av barnantal. | FG-2025-00307 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening, Lars Runebergs gata 78,<br>434 42 Kungsbacka, om permanent utökning till<br>totalt 51 barn. |
+| 11. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening gällande permanent<br>utökning av barnantal. | FG-2025-00307 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening, Lars (adress borttagen),<br>434 42 Kungsbacka, om permanent utökning till<br>totalt 51 barn. |
 
 <!-- sida 3 -->
 

@@ -58,7 +58,7 @@ beslutsåret eller att fördela (dvs. upplösa) kostnaden med enhetliga belopp u
 Teknik Stöd & Styrning                                    Kungsbacka kommun
 434 81 Kungsbacka
 Fillitsa Grönberg
-0733216293                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -2411,8 +2411,8 @@ Sverige LUND
 Sverige
 Kontaktperson Kontaktperson
 Amanda Bjurström Dan Nilsson
-0300-835372 (tel) +46704190200 (tel)
-amanda.bjurstrom(Mkungsbacka.se +46704190200 (mob)
+0300-835372 (tel) (mobilnummer borttaget) (tel)
+amanda.bjurstrom(Mkungsbacka.se (mobilnummer borttaget) (mob)
 
 dan.nilssonQsamres.se
 
@@ -3217,11 +3217,11 @@ Beslutad av:   [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 65 -->
 
@@ -3531,7 +3531,7 @@ Antecknat av
 
 Pauline Martinius
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 70 -->
 
@@ -3539,7 +3539,7 @@ KUNGSBACKA KOMMUN
 2 (2)
 
 Direkt +46300835939
-pauline.martinius@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 71 -->
 
@@ -4280,7 +4280,7 @@ Datum            Diarienummer
 2024-02-27       7557-2023
 
 Kommunstyrelsen Kungsbacka kommun
-kommun@kungsbacka.se
+(e-post borttagen)
 
 Fråga  om  kommunalt    vatten  och  avlopp  (dagvatten)
 
@@ -4325,7 +4325,7 @@ har fått, till vilken förvaltning dessa inkommit, när det
 
 inkommit samt hur kommunen hanterat frågan.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 94 -->
@@ -9542,7 +9542,7 @@ belysning på statlig väg
 
 Trafikverket
 Postadress: Trafikverket, 781 89 Borlänge
-E-post: trafikverket@trafikverket.se
+E-post: (e-post borttagen)
 Telefon: 0771-921 921
 
 Dokumenttitel: Pilotprojekt Övertagande av kommunal belysning på statlig väg
@@ -13906,11 +13906,11 @@ Beslutad av:    Bereds
 Gäller från:    Bereds
 Ansvarig förvaltning: Förvaltningen för Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 330 -->
 
@@ -15651,8 +15651,8 @@ SMHI har tagit del av rubricerade granskningshandlingar. Myndigheten anser att d
 synpunkter som lämnades i SMHIs yttrande 2024-01-25 har tagits väl om hand, och
 har inga ytterligare synpunkter i detta skede.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 366 -->
 
@@ -15721,8 +15721,8 @@ Inkomna synpunkter och förvaltningens kommentarer
 Inkomna synpunkter redovisas nedan med kommunens svar efter respektive
 synpunkt. Personnamn anges inte.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 368 -->
 
@@ -17689,7 +17689,7 @@ Caroline Andersson
 
 Caroline.anderssonQ&hlt.se
 
-Besöksadress: Holgersgatan 29, 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
+Besöksadress: (adress borttagen), 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
 Växel: 0346-712 500 Trafikupplysning: 0771-33 10 30 Email: hallandstrafikenQhlt.se
 
 <!-- sida 413 -->
@@ -17956,7 +17956,7 @@ Caroline Andersson
 
 Caroline.anderssonQ&hlt.se
 
-Besöksadress: Holgersgatan 29, 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
+Besöksadress: (adress borttagen), 311 34 Falkenberg Postadress: Box 269, 311 23 Falkenberg
 Växel: 0346-712 500 Trafikupplysning: 0771-33 10 30 Email: hallandstrafikenQhlt.se
 
 <!-- sida 425 -->

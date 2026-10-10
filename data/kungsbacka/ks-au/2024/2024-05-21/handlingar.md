@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -248,7 +248,7 @@ bland annat genomgå en lokaliseringsprövning enligt 2 kap. miljöbalken. Därm
 1 (4)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -490,7 +490,7 @@ Kungsbacka kommun                                        434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 14 -->
@@ -996,7 +996,7 @@ Kungsbacka kommun
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1036,9 +1036,9 @@ Med vänlig hälsning
 Eksta Bostads AB
 
 Christer Kilersjö, vd
-0300–35609, christer@eksta.se
+0300–35609, (e-post borttagen)
 
-Eksta Bostads AB telefon: 0300-356 00 e-post: info@eksta.se www.eksta.se
+Eksta Bostads AB telefon: 0300-356 00 e-post: (e-post borttagen) www.eksta.se
 Box 10400
 434 24 Kungsbacka
 
@@ -1236,7 +1236,7 @@ information som ser ut att variera i innehåll.
 1 (2)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1303,7 +1303,7 @@ rnd
 :dllätstsaF
 
 Boverket, Box 534, 371 23 Karlskrona | Telefon: 0455-35 30 00
-E-post: registraturen@boverket.se | Webbplats: www.boverket.se
+E-post: (e-post borttagen) | Webbplats: www.boverket.se
 
 <!-- sida 34 -->
 
@@ -1645,7 +1645,7 @@ Kungsbacka kommun
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -3108,7 +3108,7 @@ Medlemskommunernas beslut sammanvägs i framtagandet av handlingen Förslag till
 Budget 2025 plan 2026-2027.
 
 Räddningstjänstförbundet Telefon, växel: E-post: Postadress: Besöksadress: Bankgiro:
-Storgöteborg   031-335 26 00 raddningstjansten@rsgbg.se Box 5204 Åvägen 2 5853-4009
+Storgöteborg   031-335 26 00 (e-post borttagen) Box 5204 Åvägen 2 5853-4009
 Telefax:   Hemsida:        402 24 GÖTEBORG Org. nr
 031-335 27 71 www.rsgbg.se            222000-0752
 
@@ -4114,7 +4114,7 @@ Kommunledningskontoret Styrning & Ekonomi
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-344265                                                  Besöksadress
+(mobilnummer borttaget)                                                  Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

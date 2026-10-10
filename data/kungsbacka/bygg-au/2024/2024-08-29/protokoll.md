@@ -486,7 +486,7 @@ Datum
 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Beskrivning av ärendet
 Ansökan kom in 2024-03-27 och gäller nylokalisering av två enbostadshus inom
@@ -879,7 +879,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
 
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Beskrivning av ärendet
 
@@ -1387,7 +1387,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Beskrivning av ärendet
 Ansökan registrerades 2024-07-08.
@@ -1565,7 +1565,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
 
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Beskrivning av ärendet
 
@@ -1851,7 +1851,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Beskrivning av ärendet
 Ansökan inkom 2021-07-15 och avser bygglov för ändrad användning av
@@ -2098,7 +2098,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
 
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 34B736A19E4CE2D49EB9CF61A7CAAF3EBA57D84560

@@ -39,7 +39,7 @@ Plats: Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -82,7 +82,7 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- |
 | 11. | Redovisning av samverkan för<br>ökad rörelse 2025<br>Kl 15:05-15:35<br>Pauline Brinck, lärare<br>Maria Grantham, lärare | FG-2025-00567 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
 | 12. | Ansökan från Föreningen<br>Montessoriskolan Majblomman<br>gällande permanent utökning av<br>barnantal | FG-2025-00352 | Nämnden för Förskola & Grundskola avslår<br>ansökan från föreningen Montessoriskolan<br>Majblomman, om permanent utökning av<br>barnantal på förskolan till totalt 36 barn.<br>Nämnden för Förskola & Grundskola godkänner<br>ansökan från föreningen Montessoriskolan<br>Majblomman, Gottskärsvägen 119, 439 94<br>Onsala, om permanent utökning till totalt 35<br>barn. |
-| 13. | Ansökan från Regnbågens<br>Förskola i Fjärås AB gällande<br>permanent utökning av<br>barnantal | FG-2025-00534 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Regnbågens Förskola i Fjärås AB,<br>Rajgräsvägen 3, 439 71 Fjärås, om permanent<br>utökning till totalt 30 barn. |
+| 13. | Ansökan från Regnbågens<br>Förskola i Fjärås AB gällande<br>permanent utökning av<br>barnantal | FG-2025-00534 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Regnbågens Förskola i Fjärås AB,<br>(adress borttagen), 439 71 Fjärås, om permanent<br>utökning till totalt 30 barn. |
 | 14. | Rapportering olycksfall och<br>tillbud 2<br>Kl 15:35-16:05<br>Helena Hellman, personalchef | FG-2025-00568 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
 | 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:05-16:35<br>Helena Hellman, personalchef<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
 

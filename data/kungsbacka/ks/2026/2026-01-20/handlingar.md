@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Besöksadress
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Storgatan 37, Stadshuset
 www.kungsbacka.se
 
@@ -2317,7 +2317,7 @@ Patrik Hellberg
 
 Förvaltningschef Gymnasium & Arbetsmarknad
 
-patrik.hellberg@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 65 -->
 
@@ -2644,7 +2644,7 @@ skolans hälsofrämjande och förebyggande uppdrag.
 Patrik Hellberg
 Förvaltningschef Gymnasium & Arbetsmarknad
 
-patrik.hellberg@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 73 -->
 
@@ -3387,8 +3387,8 @@ E-postadress                      Mobiltelefon
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #224646 | Inskickat av: | Datum: 2025-08-14 16:17 Sida 1 av 4
 
@@ -3419,8 +3419,8 @@ Fastighetsbeteckning Fastighetens adress
 
 Kungsbacka Össlöv 2:3
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #224646 | Inskickat av: | Datum: 2025-08-14 16:17 Sida 2 av 4
 
@@ -3452,8 +3452,8 @@ Industri/verksamhet/lager
 
 3\. Bilagor
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #224646 | Inskickat av: | Datum: 2025-08-14 16:17 Sida 3 av 4
 
@@ -3473,8 +3473,8 @@ Bifogar du en beskrivning om varför du begär planbesked?
 
 Nej, jag har gjort min beskrivning i e-tjänsten
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #224646 | Inskickat av: | Datum: 2025-08-14 16:17 Sida 4 av 4
 
@@ -3591,12 +3591,12 @@ mm.
 
 [Tabell 97-1](handlingar.tabeller/97-1.csv)
 
-| Sökande | Terra Mater Biogas 1 AB, Genetor Raffinaderiet,<br>Fabriksgatan 2, 222 35 Lund |
+| Sökande | Terra Mater Biogas 1 AB, Genetor Raffinaderiet,<br>(adress borttagen), 222 35 Lund |
 | --- | --- |
 | Organisationsnummer | 559522-6811 |
 | Kommun och län | Kungsbacka kommun, Halland |
 | Fastighetsbeteckning | Kungsbacka Össlöv och Kungsbacka Össlöv 2:3 |
-| Kontaktperson<br>Telefon<br>Epost | Michael Palm<br>Tel: 070 – 209 0074<br>E-post: michael.palm@terramater.bio |
+| Kontaktperson<br>Telefon<br>Epost | Michael Palm<br>Tel: 070 – 209 0074<br>E-post: (e-post borttagen) |
 | Miljöfarlig verksamhet<br>enligt 9 kap. miljöbalken<br>och verksamhetskoder<br>enligt miljöprövnings-<br>förordningen<br>(SFS 2013:251) | 90.406-i B: Återvinna eller återvinna och bortskaffa mer<br>än 25 000 ton icke-farligt avfall/år, genom anaerob<br>biologisk nedbrytning.<br>40.15 B: Produktion av mer än 1 500 megawattimmar<br>gas eller vätskeformigt bränsle per kalenderår.<br>40.60 C: Biobränslepanna på maximalt 20 MW<br>installerad tillförd effekt. |
 
 <!-- sida 98 -->
@@ -8890,7 +8890,7 @@ Baksida
 
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 <!-- sida 240 -->
@@ -10216,7 +10216,7 @@ kommunfullmäktige om föredragningsordning och regler för budgetdebatt.
 
 Presidiet företräder kommunfullmäktige gentemot kommunrevisionen.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 274 -->
 
@@ -10635,7 +10635,7 @@ Beslutad av: Kommunfullmäktige, ÅÅÅÅ-MM-DD § X,
 Gäller från: ÅÅÅÅ-MM-DD
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300–83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300–83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -10684,7 +10684,7 @@ kommunfullmäktige om föredragningsordning och regler för budgetdebatt.
 
 Presidiet företräder kommunfullmäktige gentemot revisorerna kommunrevisionen.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 283 -->
 
@@ -11106,7 +11106,7 @@ Beslutad av: Kommunfullmäktige, 2019-04-09 § 44, KS/2017:356
 Gäller från: 2019-04-09
 
 Ansvarig förvaltning: Kommunledningskontoret
-Kontakt: Kungsbacka direkt 0300–83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300–83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -12015,7 +12015,7 @@ Självständig liv ska delas ut av nämnden själva och har inga ytterliga synpu
 1 (1)
 Nämnden för Individ & Familjeomsorg                       Kungsbacka kommun
 434 81 Kungsbacka
-individochfamiljeomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -12265,7 +12265,7 @@ ska delas ut av nämnden själva och har inga ytterliga synpunkter.
 1 (1)
 Nämnden för Vård & Omsorg                                 Kungsbacka kommun
 434 81 Kungsbacka
-vardochomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -12476,11 +12476,11 @@ Beslutad av:   Kommunfullmäktige 2026-02-03 § XX
 Gäller från:   2026-02-03
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 328 -->
 
@@ -12903,8 +12903,8 @@ lokala föreskrifter till skydd för människors hälsa och miljön. Dessa före
 kompletterar miljöbalkens regler och används som ett verktyg för att förebygga och
 motverka olägenheter för människors hälsa och miljö i Kungsbacka kommun.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 342 -->
 
@@ -13236,11 +13236,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    2026-03-01
 
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 350 -->
 
@@ -13358,11 +13358,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    2026-03-01
 
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 354 -->
 
@@ -13707,7 +13707,7 @@ Nämnden för Teknik
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -13966,7 +13966,7 @@ ut varför dessa krav införs. Detta för att få en djupare förståelse från 
 1 (2)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00

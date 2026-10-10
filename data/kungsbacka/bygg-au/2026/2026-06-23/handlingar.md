@@ -444,7 +444,7 @@ KartbEarbEtning:
 Erica Folkesson
 
 inFOrmatiOn Om KaraKtär KungsbacKa
-kan fås via plan.bygg@kungsbacka.se
+kan fås via (e-post borttagen)
 
 trycK:
 
@@ -5439,7 +5439,7 @@ kan förvalta och utveckla dessa när staden växer och förändras. !
 !
 !
 ! !      Kungsbacka kommun • Plan & Bygg • 434 81 Kungsbacka • 0300-83 40 00
-! !               plan.bygg@kungsbacka.se • www.kungsbacka.se ! ! ! !
+! !               (e-post borttagen) • www.kungsbacka.se ! ! ! !
 ! !
 ! 84 ! !
 ! !
@@ -5731,7 +5731,7 @@ Detaljplan för bostäder och centrumverksamhet inom fastigheterna Aranäs 10 oc
 
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld, samhällsbyggnadschef lovisa.eld@kungsbacka.se 0300-83 77 83
+Lovisa Eld, samhällsbyggnadschef (e-post borttagen) 0300-83 77 83
 
 Status
 Beställningen är                 Datum
@@ -6148,7 +6148,7 @@ Detaljplan för bostäder och service inom fastigheten Vallda 20:3 med flera i V
 
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld, samhällsbyggnadschef Lovisa.eld@kungsbacka.se 0300-83 77 83
+Lovisa Eld, samhällsbyggnadschef (e-post borttagen) 0300-83 77 83
 
 Status
 Beställningen är                 Datum
@@ -6767,7 +6767,7 @@ Projektnamn
 Detaljplan för bostäder i Vallda-Backa 1:6
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld, samhällsbyggnadschef lovisa.eld@kungsbacka.se 0300-83 77 83
+Lovisa Eld, samhällsbyggnadschef (e-post borttagen) 0300-83 77 83
 
 Status
 Beställningen är                 Datum

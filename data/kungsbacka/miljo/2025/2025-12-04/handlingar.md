@@ -148,7 +148,7 @@ Beslutad av:    Nämnden för Miljö & Hälsoskydd 2025-12-04 § XX
 
 Gäller från:    2026-01-01
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
@@ -2589,7 +2589,7 @@ Beslutad av:    Nämnden för Miljö & Hälsoskydd, 2025-11-13 § 136
 Gäller från:    2026-01-01
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -5719,7 +5719,7 @@ Beslutad av:    Nämnden för Miljö & Hälsoskydd, 2025-12-04 § X
 Gäller från:    2026-01-01
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 

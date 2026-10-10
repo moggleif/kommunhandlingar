@@ -36,8 +36,8 @@ Sammanträde torsdagen den 15 maj 2025 kl. 17:00 Elof Lindälvs gymnasium Sal A 
 
 Zhale Rashid                                                 Kungsbacka kommun
 434 81 Kungsbacka
-Direkt 0728899682
-zhale.rashid@kungsbacka.se                                      Besöksadress
+Direkt (mobilnummer borttaget)
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1081,7 +1081,7 @@ det gäller att planera för bostad och skolgång. Det behöver finnas en längr
 1 (2)
 Nämnden för Gymnasium & Arbetsmarknad                     Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1172,7 +1172,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-411 36 16           Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: a.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 40 -->
 
@@ -1319,9 +1319,9 @@ Webb: www.regeringen.se     E-post: a.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Arbetsmarknadsdepartementet senast
 den 4 augusti 2025. Svaren bör lämnas per e-post till
-a.remissvar@regeringskansliet.se och med kopia till
+(e-post borttagen) och med kopia till
 
-a.iu@regeringskansliet.se. Ange diarienummer A2025/00455 och
+(e-post borttagen). Ange diarienummer A2025/00455 och
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -1364,7 +1364,7 @@ Rättschef
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 5 (5)
 
@@ -3516,9 +3516,9 @@ lokalerna för HRB om RL-programmet läggs ner?
 Välkomna!
 
 Eva Tingström
-070-081 84 53
+(mobilnummer borttaget)
 
-Eva.tingstrom@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 99 -->
 

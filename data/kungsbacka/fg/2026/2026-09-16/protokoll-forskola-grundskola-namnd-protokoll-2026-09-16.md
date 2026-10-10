@@ -419,7 +419,7 @@ gällande permanent utökning av barnantal
 Beslut
 Nämnden för Förskola & Grundskola godkänner ansökan från Örtagårdens
 kooperativa förskola ekonomisk förening om permanent utökning av barnantalet vid
-Örtagårdens förskola, Lars Runebergs gata 78, 437 42 Kungsbacka, från 51 till totalt
+Örtagårdens förskola, Lars (adress borttagen), 437 42 Kungsbacka, från 51 till totalt
 53 barn.
 
 Sammanfattning av ärendet

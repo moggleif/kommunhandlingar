@@ -876,7 +876,7 @@ Diarienummer
 7148-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för ändring  av del av
 
@@ -920,7 +920,7 @@ Länsstyrelsen har inget att tillägga i fråga om hur planförslaget
 tillgodoser statliga eller andra allmänna intressen och bedömer, med
 hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 25 -->
@@ -948,7 +948,7 @@ Diarienummer
 4699-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samråd   om  detaljplan  för Ändring  av del av S21A
 
@@ -992,7 +992,7 @@ Syftet med detaljplanen
 Syftet med planändringen är att ändra byggrätten för att möjliggöra
 nybyggnad av enbostadshus inom annan del av fastigheten.
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 27 -->
@@ -1209,7 +1209,7 @@ Kontrollera fastighetsgränser
 Kungsbacka Malevik 1:39 har lägesosäkerhet (0,3 meter).
 
 Lantmäteriet uppmanar kommunen att kontrollmäta sådana gränser. Om ni kontrollmäter gränspunkter,
-se till att kommunen gör en så kallad DRK-leverans till ajourhållning-DRK@lm.se i överensstämmelse
+se till att kommunen gör en så kallad DRK-leverans till (e-post borttagen) i överensstämmelse
 med DRK-avtalet. Då kommer det att framgå av fastighetsgränsernas redovisning i den digitala
 registerkartan att lägesosäkerheten är kontrollerad samt vilka punkter som har mätts in och vilka
 punkter som är transformerade utifrån inmätningarna.
@@ -1466,8 +1466,8 @@ Planbeskrivning
 
 allmänt    ändamål     inom    Spoven     1 i Kungsbacka
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 39 -->
 
@@ -2056,7 +2056,7 @@ Diarienummer
 6091-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samråd   om  ändring  av detaljplan  K35  och T16  inom
 
@@ -2102,7 +2102,7 @@ bebyggelse. Detta görs genom att ersätta nuvarande reglering av
 högsta byggnadshöjd med reglering av högsta nockhöjd.
 Planändringen syftar också till att möjliggöra en annan placering av
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 51 -->
@@ -2388,7 +2388,7 @@ Vi vill härmed lämna synpunkter på reviderat förslag till ändring av detalj
 
 Kungsbacka kommun.
 Redan den 12 september 2025 lämnade vi via mail in synpunkter på "Ändring av detaljplan för Spoven
-1 (K35/T16) till: samhallsbyggnadskontoret@Kungsbacka.se. Detta mejl, har vi fått veta, kom inte
+1 (K35/T16) till: (e-post borttagen). Detta mejl, har vi fått veta, kom inte
 fram/hittades inte (av någon anledning) så därför bifogar vi detta igen (Bilaga 1).
 
 <!-- sida 57 -->
@@ -2626,7 +2626,7 @@ Diarienummer
 7181-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för Ändring  av del av
 
@@ -2670,7 +2670,7 @@ Länsstyrelsen har inget att tillägga i fråga om hur planförslaget
 tillgodoser statliga eller andra allmänna intressen och bedömer med
 hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 64 -->
@@ -3132,9 +3132,9 @@ Diarienummer: BN 2022-00005
 
 Påbörjad 2022-01-20
 
-Handläggare: Johan Stenson, planarkitekt, johan.stenson@kungsbacka.se
+Handläggare: Johan Stenson, planarkitekt, (e-post borttagen)
 
-Handläggare: Petter Martinsson, exploateringsingenjör, petter.martinsson@kungsbacka.se
+Handläggare: Petter Martinsson, exploateringsingenjör, (e-post borttagen)
 
 Detaljplanen är upprättad med standardförfarande enligt PBL 2009:500 samt Boverkets
 föreskrifter och allmänna råd BFS 2020:5, 2020:6 och 2020:8.
@@ -5303,7 +5303,7 @@ Diarienummer
 5916-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för skola inom  del av Åsa
 
@@ -5344,7 +5344,7 @@ Detaljplanens överensstämmelse    med
 Länsstyrelsen bedömer att detaljplaneförslaget överensstämmer
 med översiktsplanen enligt 4 kap. 33 § p.5 PBL.
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 131 -->
@@ -7191,7 +7191,7 @@ Datum            Diarienummer
 2025-03-27       1844-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samråd   om  detaljplan  för skola inom  del av Åsa
 
@@ -7231,7 +7231,7 @@ tillämpningen av 2 kap. PBL. Länsstyrelsen ska dessutom ge råd i
 
 behövs från allmän synpunkt.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 180 -->
@@ -7456,8 +7456,8 @@ Påbörjad 2021-09-14
 
 Upprättad 2025-05-06
 
-Handläggare: Emma Johansson, planarkitekt, emma.johansson@kungsbacka.se, 0300 83 40 19
-Handläggare: Susanne Calming, exploateringsingenjör, susanne.calming@kungsbacka.se,
+Handläggare: Emma Johansson, planarkitekt, (e-post borttagen), 0300 83 40 19
+Handläggare: Susanne Calming, exploateringsingenjör, (e-post borttagen),
 
 0300 83 40 33
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
@@ -10807,7 +10807,7 @@ Diarienummer
 3821-2025
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskning   av detaljplan  för sjukhus  inom  Tölöberg
 
@@ -10853,7 +10853,7 @@ Länsstyrelsen har inget att tillägga i fråga om hur planförslaget
 tillgodoser statliga eller andra allmänna intressen och bedömer, med
 hänsyn till prövningsgrunderna i 11 kap. 10 § PBL och nu kända
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 257 -->
@@ -12165,7 +12165,7 @@ Datum            Diarienummer
 2024-10-04       6312-2024
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samråd   om  detaljplan  för sjukhus  inom  Tölöberg  2
 
@@ -12210,7 +12210,7 @@ Uppdraget innebär att möjliggöra utveckling av sjukhuset i
 
 Kungsbacka. Syftet är att sjukhuset ska kunna byggas ut och byggas
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 288 -->
@@ -12533,7 +12533,7 @@ Samhällsbyggnadschef               Verksamhetschef plan
 Kungsbacka kommun
 434 81 Kungsbacka
 Linda Bergström
-0734696299                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Planarkitekt                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -12604,9 +12604,9 @@ Detaljplan för bostäder inom Bolsheden 1:9 och 1:39
 
 Diarienummer BN 2021-00028
 
-Planarkitekt Linda Bergström, linda,bergstrom@kungsbacka.se
+Planarkitekt Linda Bergström, linda,(e-post borttagen)
 
-Exploateringsingenjör Fortesa Bytyqi, fortesa.bytyqi@kungsbacka.se
+Exploateringsingenjör Fortesa Bytyqi, (e-post borttagen)
 
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
 föreskrifter och allmänna råd BFS 2020:5, 2020:6 och 2020:8.
@@ -14447,7 +14447,7 @@ Diarienummer
 2021-09-15     402-6248-21
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Granskningsyttrande   över  förslag till detaljplan för
 
@@ -14484,7 +14484,7 @@ E6 som är av riksintresse för kommunikationer. Ett avtal med alla kommande vä
 behöver vara klart innan planen antas. Se vidare yttrande från Trafikverket.
 
 Postadress     Besöksadress  E-post          Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 - 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 - 224 30 00
 
 <!-- sida 349 -->
 
@@ -14752,7 +14752,7 @@ Information om hur vi hanterar dessa finns på www.lansstyrelsen.se/dataskydd.
 
 Kopia (utan bilaga) till:
 
-Trafikverket, trafikverket@trafikverket.se
+Trafikverket, (e-post borttagen)
 
 <!-- sida 355 -->
 
@@ -14762,7 +14762,7 @@ Diarienummer
 2021-01-11     402-8133-20
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Reviderat samrådsyttrande    över förslag till detaljplan
 
@@ -14804,7 +14804,7 @@ längst i söder föreslås vara ”ej störande industri”,
 Programområdet omfattade ett mindre område än nu föreliggande detaljplaneförslag.
 
 Postadress     Besöksadress  E-post          Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 - 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 - 224 30 00
 
 <!-- sida 356 -->
 
@@ -15303,7 +15303,7 @@ Information om hur vi hanterar dessa finns på www.lansstyrelsen.se/dataskydd.
 
 Kopia (utan bilaga) till:
 
-SGI, sgi@swedgeo.se
-Trafikverket, trafikverket@trafikverket.se
+SGI, (e-post borttagen)
+Trafikverket, (e-post borttagen)
 
-Lantmäteriet, lantmateriet@lm.se
+Lantmäteriet, (e-post borttagen)

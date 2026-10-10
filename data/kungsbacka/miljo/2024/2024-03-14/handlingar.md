@@ -180,10 +180,10 @@ YTTRANDE
 Miljö & Hälsoskydd                                           Kungsbacka kommun
 Annika Ekvall                                                 434 81 Kungsbacka
 Direkt 0300-83 41 31                                             Besöksadress
-annika.ekvall@kungsbacka.se                                 Stadshuset, Storgatan 37
+(e-post borttagen)                                 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 49 34
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 52-11-5002
 ,0.1
@@ -350,10 +350,10 @@ Teresia Holmberg                                              434 81 Kungsbacka
 Direkt 0300 - 83 49 73
 Besöksadress
 Stadshuset, Storgatan 37
-teresia.holmberg@kungsbacka.se
+(e-post borttagen)
 Telefon vx 0300-83 40 00
 Fax 0300-83 49 34
-miljo.halsoskydd@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 20-01-6002
 ,0.1
@@ -666,10 +666,10 @@ YTTRANDE
 Miljö & Hälsoskydd                                           Kungsbacka kommun
 Annika Ekvall                                                 434 81 Kungsbacka
 Direkt 0300-83 41 31                                             Besöksadress
-annika.ekvall@kungsbacka.se                                 Stadshuset, Storgatan 37
+(e-post borttagen)                                 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 49 34
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 52-11-5002
 ,0.1
@@ -925,10 +925,10 @@ TJÄNSTESKRIVELSE
 Miljö & Hälsoskydd                                           Kungsbacka kommun
 Annika Ekvall                                                 434 81 Kungsbacka
 Direkt 0300-83 41 31                                             Besöksadress
-annika.ekvall@kungsbacka.se                                 Stadshuset, Storgatan 37
+(e-post borttagen)                                 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 49 34
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 52-11-5002
 ,0.1
@@ -1120,11 +1120,11 @@ Nämnden som utövar tillsyn enligt Miljöbalken för avloppsanläggningar.
 
 Förvaltningen för Bygg & Miljö                          Kungsbacka kommun
 Mats Holstein                                            434 81 Kungsbacka
-mats.holstein@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 28 -->
@@ -1579,11 +1579,11 @@ YTTRANDE
 
 Miljö & Hälsoskydd                                           Kungsbacka kommun
 Mohammed Issa                                                 434 81 Kungsbacka
-Direkt mohammed.issa@kungsbacka.se                               Besöksadress
+Direkt (e-post borttagen)                               Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 49 34
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 52-11-5002
 ,0.1
@@ -1790,7 +1790,7 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 49 34
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 52-11-5002
 ,0.1
@@ -2077,11 +2077,11 @@ Miljö&Hälsoskydd                                             Kungsbackakommun
 KajJensen                                                     43481Kungsbacka
 Direkt0300-834136
 Besöksadress
-kaj.jensen@kungsbacka.se
+(e-post borttagen)
 Stadshuset,Storgatan37
 Telefon0300-834000
 Fax0300-834934
-miljo.halsoskydd@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 47 -->
@@ -2293,10 +2293,10 @@ hell |
 Miljö & Hälsoskydd                                           Kungsbacka kommun
 Bodil Forsberg                                                434 81 Kungsbacka
 Direkt 0300-83 41 40                                             Besöksadress
-bodil.forsberg@kungsbacka.se                                Stadshuset, Storgatan 37
+(e-post borttagen)                                Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 Fax 0300-83 49 34
-miljo.halsoskydd@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 52-11-5002
 ,0.1

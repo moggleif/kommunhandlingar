@@ -3463,7 +3463,7 @@ Beslutad av: Kommunfullmäktige 2024-12-12 § 165, KS-2024-00300
 Gäller från: 2025-01-01
 Ansvarig förvaltning: Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -5552,7 +5552,7 @@ att behålla ordning och skapa tryggare miljöer för alla.
 1 (5)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -9102,7 +9102,7 @@ t
 U                                                                  Fax 0300-83 47 04
 K
 m
-roF                                                          kommunrevision@kungsbacka.se
+roF                                                          (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 <!-- sida 227 -->
@@ -9450,7 +9450,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 
@@ -9801,7 +9801,7 @@ denna sida kan komma att upplevas som sluten. Det är därför av stor vikt att 
 1 (3)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -10056,10 +10056,10 @@ Diarienummer 2019-00020
 Detaljplanen upprättas med utökat förfarande i enlighet med plan- och bygglagen 2010:900.
 
 Handläggare:
-Magnus Björned, planarkitekt 0300-83 45 87, magnus.bjorned@kungsbacka.se
-Maria Brink, planarkitekt 0300-83 43 98, maria.brink@kungsbacka.se
+Magnus Björned, planarkitekt 0300-83 45 87, (e-post borttagen)
+Maria Brink, planarkitekt 0300-83 43 98, (e-post borttagen)
 
-Lena Melvinsdotter, exploateringsingenjör 0300-83 42 68, lena.melvinsdotter@kungsbacka.se
+Lena Melvinsdotter, exploateringsingenjör 0300-83 42 68, (e-post borttagen)
 
 Handlingar:
 • Planbeskrivning, denna handling
@@ -12257,7 +12257,7 @@ Samhällsbyggnadskontoret
 Kungsbacka kommun
 
 0300-83 40 00
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/aktuellaprojekt
 48 Planbeskrivning                                      Planbeskrivning 49
 
@@ -12280,7 +12280,7 @@ Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan - Kungsbacka
 kommun, du hittar den även på www.kungsbacka.se, sök på aktuella
 projekt.
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81
 Kungsbacka.
@@ -12294,7 +12294,7 @@ samt kl 18 i Kungsbacka Live. Ingen föranmälan krävs.
 Vid frågor om aktuellt planförslag är du välkommen att kontakta ansvarig
 
 planarkitekt Magnus Björned på 0300-83 45 87 alternativt via mail till
-magnus.bjorned@kungsbacka.se.
+(e-post borttagen).
 
 Skanna qr-koden med
 din mobilkamera för att
@@ -12303,8 +12303,8 @@ hemsida!
 
 Illustration över Kungsbackas framtida arena. (Semrén+Månsson, Hille Melbye arkitekter)
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 300 -->
 
@@ -12357,11 +12357,11 @@ Skapat av: Delprojektgrupp inom detaljplanen för arenan, januari 2025.
 Beslutad av:    Xxxxx, Xxxx, Information i BNAU/KSAU 2024-12-03
 Gäller från:    2025-XX-XX
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 302 -->
 
@@ -13718,7 +13718,7 @@ Kungsbacka kommun      Mobilitet- och parkering för Kungsbacka sportcenter 37 (
 
 Figur 21 Översikt över åtgärder kopplade till typsituation och åtgärdskategori
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 339 -->
 
@@ -13774,7 +13774,7 @@ för alla. Guiderna ska bland annat innehålla kartor. Informationen anpassas f�
 målgrupper och är tillgänglig för alla. Syftet är att informationen till besökare och
 verksamma är aktuell och enhetlig.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 340 -->
 
@@ -14285,7 +14285,7 @@ Kungsbacka kommun      Mobilitet- och parkering för Kungsbacka sportcenter 48 (
 
 Bilaga  1 – Stråkkarta
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 350 -->
 
@@ -15994,7 +15994,7 @@ Påverkan   på statligt vägnät
 
 Januari 2025
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 420 -->
 
@@ -16475,7 +16475,7 @@ Arena inom Kungsbacka sportcenter | Riskutredning avseende transport av farligt 
 Uppdragsgivare:      Kungsbacka Kommun
 Uppdragsgivarens     Magnus Björned
 kontaktperson:
-Konsult:             Norconsult AB, Theres Svenssons gata 11, 417 55 Göteborg
+Konsult:             Norconsult AB, Theres (adress borttagen), 417 55 Göteborg
 
 Uppdragsledare:      Johan Hultman
 Handläggare:         Robert Kallin

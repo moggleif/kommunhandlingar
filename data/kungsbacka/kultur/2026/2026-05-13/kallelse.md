@@ -37,7 +37,7 @@ Sammanträde onsdagen den 13 maj 2026 kl. 17:00 på Kungsbacka Badhus
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

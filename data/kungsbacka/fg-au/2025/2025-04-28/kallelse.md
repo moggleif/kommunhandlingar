@@ -39,7 +39,7 @@ Plats: Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 
@@ -132,7 +132,7 @@ ordförande                        sekreterare
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
-| 8. | Ansökan från Särö pastorat,<br>Lyktans fritidshem gällande<br>permanent utökning av<br>barnantal<br>Kl 15:20-15:25<br>Sarah von Zweibergk, utredare<br>svarar på frågor | FG-2025-00184 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande Lyktans<br>fritidshem, Vallda Kyrkbyväg 8, 434 90 Vallda,<br>om permanent utökning till totalt 24 barn. |
-| 9. | Ansökan från Onsala<br>småbarnsskola, gällande<br>permanent utökning av<br>barnantal<br>Kl 15:25-15:30<br>Sarah von Zweibergk, utredare<br>svarar på frågor |  | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Onsala småbarnsskola ekonomiska<br>förening, Landstormsvägen 34, 439 94 Onsala,<br>om permanent utökning till totalt 26 barn. |
+| 8. | Ansökan från Särö pastorat,<br>Lyktans fritidshem gällande<br>permanent utökning av<br>barnantal<br>Kl 15:20-15:25<br>Sarah von Zweibergk, utredare<br>svarar på frågor | FG-2025-00184 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande Lyktans<br>fritidshem, Vallda (adress borttagen), 434 90 Vallda,<br>om permanent utökning till totalt 24 barn. |
+| 9. | Ansökan från Onsala<br>småbarnsskola, gällande<br>permanent utökning av<br>barnantal<br>Kl 15:25-15:30<br>Sarah von Zweibergk, utredare<br>svarar på frågor |  | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Onsala småbarnsskola ekonomiska<br>förening, (adress borttagen), 439 94 Onsala,<br>om permanent utökning till totalt 26 barn. |
 | 10. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025 | FG-2025-00005 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
 | 11. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 15:30-15:50<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |

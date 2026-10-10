@@ -260,7 +260,7 @@ Miljö och samhällsbyggnad
 har myndighetsuppdrag, forskar, ordnar utbildningar och
 Box 5073, 402 22 Göteborg
 är storstadsregionens röst i Västsverige, bland mycket
-gr@goteborgsregionen.se
+(e-post borttagen)
 annat. I våra nätverk träffas politiker och tjänstepersoner
 www.goteborgsregionen.se
 för att utbyta erfarenheter, bolla idéer och besluta om
@@ -1747,11 +1747,11 @@ Beslutad av:    Nämnden för Teknik 2026-05-13 § XX
 Gäller från:    2026-07-01
 Ansvarig förvaltning: Teknik
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 52 -->
 
@@ -2053,7 +2053,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -2109,7 +2109,7 @@ Måvägen och Sanders väg. Arbetsutskottet delar bedömningen att
 
 en sänkt hastighetsbegränsning riskerar att inte efterlevas fullt ut.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 63 -->
@@ -2327,9 +2327,9 @@ skrifter.
 Sändlista
 
 Trafikverket västra regionen, (TRV 2025/142310);
-trafikverket@trafikverket.se
+(e-post borttagen)
 Kungsbacka kommun, Nämnden för Tekniks arbetsutskott (1384
-2026:00068); teknik@kungsbacka.se
+2026:00068); (e-post borttagen)
 
 <!-- sida 67 -->
 
@@ -2345,7 +2345,7 @@ Så här överklagar ni beslutet
 Länsstyrelsen måste pröva att överklagandet har kommit in i rätt tid, innan det
 skickas vidare tillsammans med handlingarna i ärendet. Därför ska ni lämna
 eller skicka er skriftliga överklagan till Länsstyrelsen Hallands län antingen via
-e-post; halland@lansstyrelsen.se, eller med post; Länsstyrelsen Hallands län,
+e-post; (e-post borttagen), eller med post; Länsstyrelsen Hallands län,
 301 86 Halmstad.
 
 Tiden för överklagande
@@ -2375,7 +2375,7 @@ sitt namn, adress och telefonnummer. Ombudet bör också bifoga en fullmakt.
 
 Behöver ni veta mer?
 Har ni ytterligare frågor kan ni kontakta Länsstyrelsen via e-post,
-halland@lansstyrelsen.se, eller via växeltelefonnummer 010-224 30 00. Ange
+(e-post borttagen), eller via växeltelefonnummer 010-224 30 00. Ange
 diarienummer 2248-2026.
 
 <!-- sida 68 -->
@@ -2392,7 +2392,7 @@ Teknik,   daterad    2025-09-01
 
 <!-- sida 69 -->
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 70 -->
 
@@ -2441,7 +2441,7 @@ Förordning (1982:198) Förordning (1982:198) om flyttning av fordon i vissa fal
 
 Lag (1982:129)        Lag (1982:129) om flyttning av fordon i vissa fall
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 71 -->
 
@@ -2493,7 +2493,7 @@ kommunstyrelsen och övriga nämnder i
 daterat 2026-04-22, TE-2026-00356
 Kungsbacka kommun
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 73 -->
 

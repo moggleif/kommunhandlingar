@@ -891,10 +891,10 @@ Beslutad av:
 Gäller från:   2026-01-01
 Ansvarig förvaltning: Teknik
 
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 22 -->
 
@@ -1328,7 +1328,7 @@ fördjupar sig i hur till exempel dricksvattenförsörjningen ska säkras. Efter
 1 (4)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -3627,7 +3627,7 @@ Datum            Diarienummer
 2024-06-10       2063-2024
 
 Kungsbacka kommun
-info@kungsbacka.se
+(e-post borttagen)
 
 Samrådsyttrande     enligt 3 kap 10 § plan och
 
@@ -3672,7 +3672,7 @@ I rollen att ta tillvara och samordna statens intressen har
 Länsstyrelsen inhämtat synpunkter på förslaget till översiktsplan
 från berörda myndigheter. Yttranden över planförslaget har
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 83 -->
@@ -4710,11 +4710,11 @@ Trafikverket, daterat 2024-05-20, dnr TRV 2024/28056
 SGI, daterat 2024-05-06, dnr 4.3.1-2403-0400
 
 Kopia till:
-SGI: sgi@sgi.se
-Trafikverket: trafikverket@trafikverket.se
-Luftfartsverket: lfv@lfv.se
+SGI: (e-post borttagen)
+Trafikverket: (e-post borttagen)
+Luftfartsverket: (e-post borttagen)
 
-Myndigheten för samhällsskydd och beredskap: registrator@msb.se
+Myndigheten för samhällsskydd och beredskap: (e-post borttagen)
 
 Så här hanterar Länsstyrelsen personuppgifter
 
@@ -9882,7 +9882,7 @@ Beslutad av:    Nämnden för Teknik
 Gäller från:    Aktualiserad i nämnden för Teknik den
 
 Ansvarig förvaltning: Förvaltningen för Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -9901,7 +9901,7 @@ av växtnäring samt för att hantera riskerna på vägen dit. Med kvalitetssäk
 alla aktörer öppen och transparent information om hur slammet producerats och om
 dess sammansättning, i varje slamparti.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 249 -->
 

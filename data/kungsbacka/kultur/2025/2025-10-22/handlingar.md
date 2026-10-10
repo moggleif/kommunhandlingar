@@ -494,7 +494,7 @@ Verksamhetsnära analys och samordnat utvecklingsarbete för ungas hälsa i Kung
 
 Göteborgsregionen (GR) består av 13 kommuner som har Göteborgsregionen
 valt att jobba tillsammans. Vi driver utvecklingsprojekt, Box 5073, 402 22 Göteborg
-har myndighetsuppdrag, forskar, ordnar utbildningar och gr@goteborgsregionen.se
+har myndighetsuppdrag, forskar, ordnar utbildningar och (e-post borttagen)
 är storstadsregionens röst i Västsverige, bland mycket www.goteborgsregionen.se
 annat. I våra nätverk träffas politiker och tjänstepersoner
 för att utbyta erfarenheter, bolla idéer och besluta om
@@ -934,14 +934,14 @@ Kostnaden kommer att faktureras vid två tillfällen, enligt nedan förslag:
 Besked om  deltagande
 
 Ett besked om deltagande önskas senast 20 december 2024.
-Beskedet meddelas per epost till Åsa Nilsson: asa.bf.nilsson@goteborgsregionen.se.
+Beskedet meddelas per epost till Åsa Nilsson: (e-post borttagen).
 Välkomna med eventuella frågor!
 
 Kontaktuppgifter
 
 Åsa Nilsson, analytiker vid Göteborgsregionen, FoU i Väst
 tfn: 031-335 51 98;
-epost: asa.bf.nilsson@goteborgsregionen.se
+epost: (e-post borttagen)
 
 10 (10)
 
@@ -2255,11 +2255,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 51 -->
 
@@ -2527,7 +2527,7 @@ Avser   korttidsuthyrning     i Kungsbacka      kommun
 
 Regler
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 57 -->
 
@@ -2909,8 +2909,8 @@ påverkar Kungsbackas barns möjlighet till att ta del av ett välfungerande och
 
 föreningsliv.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #168297 | Inskickat av: Sarah Lowry | Datum: 2024-10-31 10:34 Sida 1 av 8
 
@@ -2953,7 +2953,7 @@ indirekt förbättra barns sociala miljö och engagemang i aktiviteter.
 Fyll i dina kontaktuppgifter
 
 För- och efternamn                E-postadress
-Sarah Lowry                       sarah.lowry@kungsbacka.se
+Sarah Lowry                       (e-post borttagen)
 
 Telefon                           Organisation
 +46300834934                      Kultur & Fritid
@@ -2962,8 +2962,8 @@ Avdelning                         Tjänstetitel
 
 Kvalitet & social hållbarhet      Utvecklare
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #168297 | Inskickat av: Sarah Lowry | Datum: 2024-10-31 10:34 Sida 2 av 8
 
@@ -2975,8 +2975,8 @@ Nämnden för Kultur och Fritid
 
 2\. Kartläggning
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #168297 | Inskickat av: Sarah Lowry | Datum: 2024-10-31 10:34 Sida 3 av 8
 
@@ -3028,8 +3028,8 @@ innefattas.
 
 Artikel 33 Barn ska skyddas från narkotika
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #168297 | Inskickat av: Sarah Lowry | Datum: 2024-10-31 10:34 Sida 4 av 8
 
@@ -3074,8 +3074,8 @@ utifrån beslutet i fråga.
 
 KORT SIKT
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #168297 | Inskickat av: Sarah Lowry | Datum: 2024-10-31 10:34 Sida 5 av 8
 
@@ -3134,8 +3134,8 @@ skapa en mer jämlik resursfördelning så att fler barn får lika möjligheter 
 till högre kostnader för kommunen i framtiden, särskilt genom ökat behov av socialt stöd och
 hälsovård om barnens tillgång till idrottsliv minskar.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #168297 | Inskickat av: Sarah Lowry | Datum: 2024-10-31 10:34 Sida 6 av 8
 
@@ -3190,8 +3190,8 @@ unga, istället för andra ändamål inom föreningen. Detta bidrar till en mer 
 målinriktad användning av medel, vilket i sin tur stärker förtroendet för föreningsstödets
 effektivitet och träffsäkerhet.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #168297 | Inskickat av: Sarah Lowry | Datum: 2024-10-31 10:34 Sida 7 av 8
 
@@ -3220,8 +3220,8 @@ inkludering av olika målgrupper innebär i praktiken. Definition av målgrupper
 inkluderas (t.ex. barn och unga från olika socioekonomiska bakgrunder, olika kulturella grupper,
 personer med funktionsnedsättningar etc.).
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #168297 | Inskickat av: Sarah Lowry | Datum: 2024-10-31 10:34 Sida 8 av 8
 
@@ -3317,11 +3317,11 @@ Beslutad av:    Kommunfullmäktige 12 december 2024 § 162, KS-2024-00568
 Gäller från:    2025-01-01
 
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 77 -->
 
@@ -3421,7 +3421,7 @@ kulturskolans verksamhet kunna utvecklas inom musik, dans, konst, film och teate
 
 3\. Avgiftsbelopp/taxetabeller
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 79-1](handlingar.tabeller/79-1.csv)
 
@@ -3484,7 +3484,7 @@ Beslutad av: Nämnden för Kultur & Fritid, 2024-08-21
 Gäller från: 2025-01-01
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -4894,7 +4894,7 @@ Kungsbacka        kommun
 
 Harald Tjelle                                                Kungsbacka kommun
 Kultur & Fritid                                                 Kultur & Fritid
-harald.tjelle@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 120 -->
 
@@ -5011,11 +5011,11 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 2025-08-14       Servicebyggnad, Skårby aktivitetsområde
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Karl Persson             karl.persson@kungsbacka.se 0300–834805
+Karl Persson             (e-post borttagen) 0300–834805
 
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Harald Tjelle            harald.tjelle@kungsbacka.se 0300–838096
+Harald Tjelle            (e-post borttagen) 0300–838096
 
 VERKSAMHETSBESKRIVNING AV NULÄGET
 Utkastet till Fördjupad översiktsplan för Kungsbacka stad innehåller att det i den norra delen av
@@ -5380,12 +5380,12 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 2025-08-22       Lokaler för Kulturskoleverksamhet i Åsa
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Malin Lönegren-Mikulic,  malin.lonegren-mikulic@kungsbacka.se 0300-834181
-Malin Svarfvar, kulturskolan malin.svarfvar@kungsbacka.se 0300-834184
+Malin Lönegren-Mikulic,  (e-post borttagen) 0300-834181
+Malin Svarfvar, kulturskolan (e-post borttagen) 0300-834184
 
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Harald Tjelle, Kultur & Fritid harald.tjelle@kungsbacka.se 0300-838096
+Harald Tjelle, Kultur & Fritid (e-post borttagen) 0300-838096
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 
@@ -5423,7 +5423,7 @@ VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION? SE EXEMPEL
 Kungsbacka kommun
 Ekonomi
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -5588,7 +5588,7 @@ Nu kan du lämna synpunkter på förslaget. Senast 21 oktober 2025 vill vi ha di
 punkter. Kom ihåg att ange ditt namn, adress och fastighetsbeteckning.
 
 Lämna dina synpunkter via vår e-tjänst: www.kungsbacka.se/aktuellaprojekt
-via e-post till: samhallsbyggnadskontoret@kungsbacka.se
+via e-post till: (e-post borttagen)
 
 e
 
@@ -5672,12 +5672,12 @@ Kontaktuppgifter              Mer information!
 Kontakta gärna:               www.kungsbacka.se/aktuellaprojekt
 (Alla planhandlingar inklusive utredningar)
 Maria Brink, planarkitekt
-maria.brink@kungsbacka.se
+(e-post borttagen)
 Stadshusets entré,
 KungsbSaccakna na QR-koden
 (Läsex planhandlingar)
 Fortesa Bytyqi, exploateringsingengör och läs mer på
-fortesa.bytyqi@kungsbacka.se     projektets websida!
+(e-post borttagen)     projektets websida!
 Scanna QR-koden
 och läs mer på
 projektets webbsida!
@@ -5692,8 +5692,8 @@ Detaljplan    för  idrottsändamål        inom   Skårby
 
 3:4  i Kungsbacka
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 139 -->
 
@@ -5742,8 +5742,8 @@ Påbörjad 2023-01-30
 
 Upprättad 2025-08-12
 
-Maria Brink, planarkitekt, maria.brink@kungsbacka.se,
-Fortesa Bytyqi, exploateringsingenjör, fortesa.bytyqi@kungsbacka.se
+Maria Brink, planarkitekt, (e-post borttagen),
+Fortesa Bytyqi, exploateringsingenjör, (e-post borttagen)
 
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
 föreskrifter och allmänna råd BFS 2020:5, 2020:6 och 2020:8.
@@ -7305,11 +7305,11 @@ Beslutad av:    Nämnden för Kultur & Fritid, 2025-10-22, KFT 2025-00211
 Giltig från:    2025-10-23
 
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 173 -->
 
@@ -7473,7 +7473,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 
 2.1 Allmänt
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 176-1](handlingar.tabeller/176-1.csv)
 

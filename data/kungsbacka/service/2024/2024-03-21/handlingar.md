@@ -67,7 +67,7 @@ bidra till att göra Kungsbacka till en attraktiv plats att leva, bo, utvecklas 
 Förvaltningen för Service                                 Kungsbacka kommun
 434 81 Kungsbacka
 Camilla Pålsson
-0729-953544                                                   Besöksadress
+(mobilnummer borttaget)                                                   Besöksadress
 Verksamhetschef                                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -883,11 +883,11 @@ Beslutad av:    Nämnden för Service 2024-xx § xx
 Gäller från:    2024 – xx-xx
 
 Ansvarig förvaltning: Förvaltningen för Service
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 22 -->
 
@@ -1029,11 +1029,11 @@ Beslutad av:    Kommunfullmäktige 4 april 2023 § 46, KS 2022-00291
 Gäller från:    2023-04-04
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 26 -->
 
@@ -2035,11 +2035,11 @@ Beslutad av: Nämnden för Service 2024-03-21 § xx
 Uppdaterad:
 Ansvarig förvaltning: Förvaltningen för Service
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 56 -->
 

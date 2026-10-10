@@ -7353,7 +7353,7 @@ RS230670
 
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 Dokumentinformation
 
@@ -11051,11 +11051,11 @@ Sida 181 av 290
 
 Handläggare
 Ludvig Simonsson
-Ludvig.simonsson@regionhalland.se
+(e-post borttagen)
 RS230670
 Region Halland
 Box 517, 301 80 Halmstad
-regionen@regionhalland.se
+(e-post borttagen)
 regionhalland.se
 
 Sida 182 av 290
@@ -11222,8 +11222,8 @@ understödjas av en mer sömlös och tillgänglig kollektivtrafik mellan
 kommunerna. Hade regionbusstrafiken trafikerat mellan och inom
 bostadsområden och målpunkter på respektive sida gränsen, är vår uppfattning
 
-Båstads kommun, Vångavägen 2, 269 80 Båstad
-0431-770 00, bastads.kommun@bastad.se                bastad.se
+Båstads kommun, (adress borttagen), 269 80 Båstad
+0431-770 00, (e-post borttagen)                bastad.se
 
 Sida 185 av 290
 
@@ -11271,8 +11271,8 @@ Klara Harmark-Peters
 Planchef
 Samhällsbyggnad
 
-Båstads kommun, Vångavägen 2, 269 80 Båstad
-0431-770 00, bastads.kommun@bastad.se                bastad.se
+Båstads kommun, (adress borttagen), 269 80 Båstad
+0431-770 00, (e-post borttagen)                bastad.se
 
 Sida 186 av 290
 
@@ -11522,7 +11522,7 @@ Skrivelse     Vår referens      2025.4845
 Kommunstyrelseförvaltningen
 Samhällsutvecklingsavdelningen, Plan- & strategienheten
 Marik Alwerud
-marik.alwerud@falkenberg.se
+(e-post borttagen)
 
 Förslag till yttrande gällande Trafikförsörjningsprogram  2026-
 2030
@@ -11559,7 +11559,7 @@ långsiktiga investeringsöverväganden.
 
 Falkenbergs kommun
 311 80 Falkenberg. Kontaktcenter: 0346-88 60 00
-e-post: kommun@falkenberg.se
+e-post: (e-post borttagen)
 Besöksadress: Rådhustorget 3 C
 kommun.falkenberg.se                                             1 (5)
 
@@ -11615,7 +11615,7 @@ ett systematiskt sätt.
 
 Falkenbergs kommun
 311 80 Falkenberg. Kontaktcenter: 0346-88 60 00
-e-post: kommun@falkenberg.se
+e-post: (e-post borttagen)
 Besöksadress: Rådhustorget 3 C
 kommun.falkenberg.se                                             2 (5)
 
@@ -11669,7 +11669,7 @@ både regional och kommunal planering.
 
 Falkenbergs kommun
 311 80 Falkenberg. Kontaktcenter: 0346-88 60 00
-e-post: kommun@falkenberg.se
+e-post: (e-post borttagen)
 Besöksadress: Rådhustorget 3 C
 kommun.falkenberg.se                                             3 (5)
 
@@ -11725,7 +11725,7 @@ mellan regionerna och bidra till mer hållbara reskedjor för både boende och
 
 Falkenbergs kommun
 311 80 Falkenberg. Kontaktcenter: 0346-88 60 00
-e-post: kommun@falkenberg.se
+e-post: (e-post borttagen)
 Besöksadress: Rådhustorget 3 C
 kommun.falkenberg.se                                             4 (5)
 
@@ -11776,7 +11776,7 @@ Trafik- och mobilitetsstrateg
 
 Falkenbergs kommun
 311 80 Falkenberg. Kontaktcenter: 0346-88 60 00
-e-post: kommun@falkenberg.se
+e-post: (e-post borttagen)
 Besöksadress: Rådhustorget 3 C
 kommun.falkenberg.se                                             5 (5)
 
@@ -11819,9 +11819,9 @@ lyfta vikten av en kollektivtrafikkoppling mellan Smålandsstenar och Ullared, o
 Falkenberg samt Varberg.
 
 KOMMUNSTYRELSEN
-Stortorget 1 332 80 GISLAVED
+(adress borttagen) 332 80 GISLAVED
 Tel. 0371-810 00 Fax 0371-812 43
-kommunen@gislaved.se
+(e-post borttagen)
 Sida 198 av 290
 
 <!-- sida 240 -->
@@ -11893,7 +11893,7 @@ Stadsbyggnadsförvaltningen
 Tjänstemannayttrande              Handläggare
 Utfärdat 2026-01-13               Kajsa Högenå
 Ärendenummer SBF-2025-01158       E-post:
-kajsa.hogena@stadsbyggnad.goteborg.se
+(e-post borttagen)
 
 Remiss   avseende    Trafikförsörjningsprogram
 2026-2030   för Region   Halland
@@ -11996,7 +11996,7 @@ Datum             Diarienummer
 2025-10-17        GRFS-2025-00261
 Avdelning Miljö och samhällsbyggnad
 Anna Cesarini,
-anna.cesarini@goteborgsregionen.se
+(e-post borttagen)
 Region Halland
 
 Trafikförsörjningsprogram      Region   Halland
@@ -12052,7 +12052,7 @@ Datum
 2025-10-17
 Avdelning Miljö och samhällsbyggnad
 Anna Cesarini,                      Diarienummer
-anna.cesarini@goteborgsregionen.se  GRFS-2025-00261
+(e-post borttagen)  GRFS-2025-00261
 Beredningsgruppen för miljö och samhällsbyggnad
 
 Remiss   trafikförsörjningsprogram      region
@@ -12150,7 +12150,7 @@ Avdelningschef
 Skickas till
 
 Region Halland, diarienummer RS230670
-regionen@halland.se
+(e-post borttagen)
 
 Sida 205 av 290
 
@@ -12200,7 +12200,7 @@ sker.
 
 Skickas till
 
-Region Halland regionen@regionhalland.se
+Region Halland (e-post borttagen)
 
 Justerandes signatur                Utdragsbestyrkande
 
@@ -12210,13 +12210,13 @@ Sida 206 av 290
 
 Joki Malin RK STAB
 
-Från:        diarium@goteborgsregionen.se
+Från:        (e-post borttagen)
 Skickat:     den 12 december 2025 12:15
 Till:        REGION HALLAND officiell e-post
 Ämne:        Remissvar TFP RS230670 Göteborgsregionens kommunalförbund
 Bifogade filer: Beslut - 202500261 - GRFS - § 112.pdf; Yttrande grundmall.pdf; Tjänsteskrivelse grundmall.pdf
 
-Du får inte ofta e-post från diarium@goteborgsregionen.se. Läs om varför det här är viktigt
+Du får inte ofta e-post från (e-post borttagen). Läs om varför det här är viktigt
 Hej!
 Bifogar Förbundsstyrelsens i GR:s yttrande i rubricerade ärende.
 
@@ -12246,7 +12246,7 @@ KS-2025/00437
 
 Myndighetens namn                Datum
 2025-12-09
-regionen@regionhalland.se
+(e-post borttagen)
 Diarienummer (myndighetens)
 RS230670
 
@@ -12286,7 +12286,7 @@ anser inte att de genomsyras helt för de äldre då de i de nya Principerna fö
 från barn och ungdomar liksom studenter, inte är en kategori utan jämställs prismässigt med vuxna,
 
 Halmstads kommun, kommunledningsförvaltningen, Box 153, 301 05 Halmstad
-035-13 70 00 • direkt@halmstad.se • www.halmstad.se  Sida 1(4)
+035-13 70 00 • (e-post borttagen) • www.halmstad.se  Sida 1(4)
 
 Sida 208 av 290
 
@@ -12343,7 +12343,7 @@ flygtrafiken.
 Mycket starka kollektivtrafikstråk
 Halmstad-Hyltebruk-(Gislaved)
 Halmstads kommun, kommunledningsförvaltningen, Box 153, 301 05 Halmstad
-035-13 70 00 • direkt@halmstad.se • www.halmstad.se  Sida 2(4)
+035-13 70 00 • (e-post borttagen) • www.halmstad.se  Sida 2(4)
 
 Sida 209 av 290
 
@@ -12401,7 +12401,7 @@ målen gällande självfinansieringsgrad/kostnadstäckningsgrad kunna delas upp 
 stadsbuss, regionbuss och tåg?
 
 Halmstads kommun, kommunledningsförvaltningen, Box 153, 301 05 Halmstad
-035-13 70 00 • direkt@halmstad.se • www.halmstad.se  Sida 3(4)
+035-13 70 00 • (e-post borttagen) • www.halmstad.se  Sida 3(4)
 
 Sida 210 av 290
 
@@ -12418,7 +12418,7 @@ Stefan Pålsson, kommunstyrelsens ordförande
 Mattias Rossköld, kommundirektör
 
 Halmstads kommun, kommunledningsförvaltningen, Box 153, 301 05 Halmstad
-035-13 70 00 • direkt@halmstad.se • www.halmstad.se  Sida 4(4)
+035-13 70 00 • (e-post borttagen) • www.halmstad.se  Sida 4(4)
 
 Sida 211 av 290
 
@@ -12474,9 +12474,9 @@ HALLANDS BILDNINGSFÖRBUND
 Björn Lind
 länsbildningskonsulent
 
-Hallands bildningsförbund – Kungsgatan 1, 302 45 Halmstad – Tel vx 035 177770
+Hallands bildningsförbund – (adress borttagen), 302 45 Halmstad – Tel vx 035 177770
 Sida 213 av 290
-www.hbf.se – info@hbf.se
+www.hbf.se – (e-post borttagen)
 
 <!-- sida 255 -->
 
@@ -13823,7 +13823,7 @@ Datum             Diarienummer
 2025-12-16        7191-2025
 
 Region Halland
-regionen@regionhalland.se
+(e-post borttagen)
 
 Begäran   om  yttrande  över
 
@@ -13867,7 +13867,7 @@ länsgränser (s. 25). Det vore dock önskvärt om planen hade redovisat
 vilka konkreta utmaningar som behöver hanteras i Halland för att
 kunna uppnå detta.
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 Sida 242 av 290
@@ -13999,7 +13999,7 @@ Remissversion - Trafikförsörjningsprogram för Halland 2026-2030, 2025-
 Enhetschef gata/parkenhetens tjänsteskrivelse, 2025-10-28
 
 Beslutet expedieras till:
-regionen@regionhalland.se
+(e-post borttagen)
 Enhetschef Gata/Parkenheten
 Enhetschef miljö- och byggenheten
 
@@ -14011,7 +14011,7 @@ Sida 245 av 290
 
 Sida 1(1)
 
-Marks Kommun, Kommunstyrelsen ,511 80 Kinna, Telefon: +46 320 21 70 00, E-post: ks@mark.se www.mark.se, Orgnr: 212000–1504
+Marks Kommun, Kommunstyrelsen ,511 80 Kinna, Telefon: +46 320 21 70 00, E-post: (e-post borttagen) www.mark.se, Orgnr: 212000–1504
 KS 2025-490-3
 2025-12-01
 
@@ -14059,7 +14059,7 @@ Kommundirektör
 Marks kommun           www.mark.se
 Kommunstyrelsen        Telefon: +46 320 21 70 00
 511 80 Kinna           Orgnr: 212000–1504
-E-post: ks@mark.se
+E-post: (e-post borttagen)
 
 Sida 246 av 290
 
@@ -14137,7 +14137,7 @@ Ordföranden frågar om arbetsutskottet kan anta Lena Ferm Hanssons (C) förslag
 och finner att så sker.
 
 Beslut skickas till
-Region Halland, regionen@regionhalland.se märk med ”RS230670 Marks kommun”
+Region Halland, (e-post borttagen) märk med ”RS230670 Marks kommun”
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -14156,7 +14156,7 @@ Er beteckning
 RS230670
 Lina Forsgren
 Region Halland via
-regionen@regionhalland.se
+(e-post borttagen)
 
 Yttrande Trafikförsörjningsprogram för Halland
 
@@ -14177,7 +14177,7 @@ Stefan Gustafsson (S)               Mio Saba Sjösten
 Kommunstyrelsen ordförande          Stadsdirektör
 
 Besöksadress: Stadshuset, Göteborgsvägen 11–17 Postadress: Mölndals stad, 431 82 Mölndal
-Telefon: 031-315 10 00 E-post: kontakt@molndal.se
+Telefon: 031-315 10 00 E-post: (e-post borttagen)
 Sida 249 av 290
 
 <!-- sida 291 -->
@@ -14226,7 +14226,7 @@ timmestrafik fullt ut och med taktidtabell, dvs att tågens avgång sker vid
 samma minuttal. Det har visat sig vara en stor framgångsfaktor när det gäller
 resandeutvecklingen för pågatågstrafiken i Skåne.
 
-Göran Svärd   telefon 070-261 71 11 epost goran@kraftmaklaren.se
+Göran Svärd   telefon (mobilnummer borttaget) epost (e-post borttagen)
 
 Projektledare                     Sida 250 av 290
 280 23
@@ -14302,7 +14302,7 @@ interregionala förbindelser mellan länen, riksväg 26 och särskilt HNJ-banan.
 Regionen ser HNJ-banan som en strategisk länk mellan Halland, Kronoberg och
 
 Regionledningskontoret Telefon: 010-241 00 00           Organisationsuppgifter
-Box 1024               E-post: regionen@rjl.se          Bankgiro: 5216-2849
+Box 1024               E-post: (e-post borttagen)          Bankgiro: 5216-2849
 551 11 Jönköping       Hemsida: www.rjl.se              Orgnr: 232100-0057
 bd2da469b8eb-bda8-e244-005b-6644ec0a
 :ecnerefer
@@ -14411,7 +14411,7 @@ Sida 255 av 290
 
 Joki Malin RK STAB
 
-Från:        Colliander Josefine \<josefine.colliander@rjl.se>
+Från:        Colliander Josefine \<(e-post borttagen)>
 Skickat:     den 15 december 2025 08:41
 Till:        REGION HALLAND officiell e-post
 Ämne:        Diarienummer RS230670 - Region Jönköpings län
@@ -14428,8 +14428,8 @@ Med vänlig hälsning
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Josefine Colliander
 Nämndsekreterare
-Tel. 072-216 07 34
-josefine.colliander@rjl.se
+Tel. (mobilnummer borttaget)
+(e-post borttagen)
 Regionledningskontoret
 Region Jönköpings län
 www.rjl.se
@@ -14446,7 +14446,7 @@ Handläggare: Agneta Carlsson,
 Datum: 2025-12-12
 
 Region Halland
-regionen@regionhalland.se
+(e-post borttagen)
 
 Remissyttrande – Trafikförsörjningsprogram 2026-2030
 Region Halland
@@ -14488,7 +14488,7 @@ En tydligare beskrivning av vilken helgtrafik som avses under perioden 2028-2034
 på Markarydsbanan vore önskvärt.
 
 Postadress         Besöksadress   Telefon           E-post
-Region Kronoberg   Nygatan 20     0470-58 80 00 vx  region@kronoberg.se
+Region Kronoberg   Nygatan 20     0470-58 80 00 vx  (e-post borttagen)
 351 88 Växjö       Växjö
 Sida 257 av 290
 
@@ -14547,7 +14547,7 @@ kortare.”
 men för att öka attraktiviteten behöver restiderna minskas. Kortare
 
 Postadress         Besöksadress   Telefon           E-post
-Region Kronoberg   Nygatan 20     0470-58 80 00 vx  region@kronoberg.se
+Region Kronoberg   Nygatan 20     0470-58 80 00 vx  (e-post borttagen)
 351 88 Växjö       Växjö
 Sida 258 av 290
 
@@ -14607,7 +14607,7 @@ berörd kommun arbeta vidare med etableringen av en eventuellt ny station.
 Kriterierna beskriv på rubriknivå nedan.
 
 Postadress         Besöksadress   Telefon           E-post
-Region Kronoberg   Nygatan 20     0470-58 80 00 vx  region@kronoberg.se
+Region Kronoberg   Nygatan 20     0470-58 80 00 vx  (e-post borttagen)
 351 88 Växjö       Växjö
 Sida 259 av 290
 
@@ -14651,7 +14651,7 @@ Barnrättsperspektiv
 Det framgår inte av remissen om en prövning av barnets bästa har genomförts.
 
 Postadress         Besöksadress   Telefon           E-post
-Region Kronoberg   Nygatan 20     0470-58 80 00 vx  region@kronoberg.se
+Region Kronoberg   Nygatan 20     0470-58 80 00 vx  (e-post borttagen)
 351 88 Växjö       Växjö
 Sida 260 av 290
 
@@ -14725,14 +14725,14 @@ Sida 262 av 290
 
 Joki Malin RK STAB
 
-Från:        emma.wallin@kronoberg.se
+Från:        (e-post borttagen)
 Skickat:     den 22 januari 2026 12:35
 Till:        REGION HALLAND officiell e-post
 Ämne:        RS230670 Region Kronoberg
 Bifogade filer: §8 RS Remissyttrande – Trafikförsörjningsprogram 2026-2030 för Region
 Halland(25RS1004-9).pdf; Remissvar TFP RS230670 Region Kronoberg.pdf
 
-Du får inte ofta e-post från emma.wallin@kronoberg.se. Läs om varför det här är viktigt
+Du får inte ofta e-post från (e-post borttagen). Läs om varför det här är viktigt
 Hej!
 
 Se bifogat beslut från Region Kronoberg.
@@ -14740,8 +14740,8 @@ Se bifogat beslut från Region Kronoberg.
 Med vänlig hälsning
 Emma Wallin
 Utredare | Nämndsekreterare | Kansliavdelningen
-0470-58 30 09 | 0709-84 43 52
-emma.wallin@kronoberg.se
+0470-58 30 09 | (mobilnummer borttaget)
+(e-post borttagen)
 www.regionkronoberg.se
 
 1
@@ -14825,7 +14825,7 @@ RS230670
 
 Trafikverket           Texttelefon: 010-123 50 50
 405 33 Göteborg        Telefon: 0771 - 921 921
-Besöksadress: Vikingsgatan 2 trafikverket@trafikverket.se
+Besöksadress: Vikingsgatan 2 (e-post borttagen)
 www.trafikverket.se
 0.4
 verB
@@ -14874,7 +14874,7 @@ RS2023-00074
 
 Trafikverket           Texttelefon: 010-123 50 50
 405 33 Göteborg        Telefon: 0771 - 921 921
-Besöksadress: Vikingsgatan 2 trafikverket@trafikverket.se
+Besöksadress: Vikingsgatan 2 (e-post borttagen)
 www.trafikverket.se
 0.4
 verB
@@ -15296,7 +15296,7 @@ Sida 275 av 290
 
 Joki Malin RK STAB
 
-Från:        Kommunkansli \<kommunkansli@varberg.se>
+Från:        Kommunkansli \<(e-post borttagen)>
 Skickat:     den 29 januari 2026 14:23
 Till:        REGION HALLAND officiell e-post
 Ämne:        RS230670 Varbergs kommun - KS 260127, § 11 - Svar på remiss - Trafikförsörjningsprogram för
@@ -15315,7 +15315,7 @@ Kansliadministratör
 Kommunkansliet
 
 Telefon: 0340-881 04
-E-post: sara.bengtsson1@varberg.se
+E-post: (e-post borttagen)
 
 Varbergs kommun
 Kommunstyrelsens förvaltning
@@ -15375,7 +15375,7 @@ Nässjö (HNJ) är strategiskt viktig då den knyter ihop region
 Jönköping med hamnen i Halmstad. HNJ är också viktig för
 
 Postadress         Kontaktcenter        E-post            Organisationsnummer
-Kommunledningsförvaltningen Stadshuset, Kyrktorget 1, Värnamo kontaktcenter@varnamo.se 212000-0555
+Kommunledningsförvaltningen Stadshuset, Kyrktorget 1, Värnamo (e-post borttagen) 212000-0555
 Värnamo kommun     Telefon: 0370-37 70 00 Webbplats       Bankgiro
 331 83 Värnamo     Telefax: 0370-37 77 11 kommun.varnamo.se 141-7195
 Sida 277 av 290
@@ -15502,7 +15502,7 @@ Postadress:  Besöksadress:   Telefon:               Webbplats:
 Regionens hus Residensgatan 16H 010-441 00 00       www.vgregion.se
 462 80 Vänersborg 462 33 Vänersborg E-post:
 infrastruktur-
-och.kollektivtrafiknamnd@vgregion.se
+(e-post borttagen)
 Sida 280 av 290
 
 <!-- sida 322 -->
@@ -15561,9 +15561,9 @@ Beslutsunderlag
 •  Tjänsteutlåtande daterat 2025-11-17
 
 Skickas till
-• Region Halland, regionen@regionhalland.se, ange diarienummer RS230670
+• Region Halland, (e-post borttagen), ange diarienummer RS230670
 
-• Västtrafik för kännedom, vasttrafik@vasttrafik.se
+• Västtrafik för kännedom, (e-post borttagen)
 
 Justerare: Justerare: Justerare: Rätt utdraget intygar:
 
@@ -15577,9 +15577,9 @@ Tjänsteutlåtande              Västra Götalandsregionen
 Datum 2025-11-17              Koncernkontoret
 
 Diarienummer IKN 2025-00290   Handläggare: Adrien Moysset
-Telefon: 0722-306587
+Telefon: (mobilnummer borttaget)
 
-E-post: adrien.moysset@vgregion.se
+E-post: (e-post borttagen)
 
 Till infrastruktur- och kollektivtrafiknämnden
 
@@ -15621,7 +15621,7 @@ Postadress:  Besöksadress:   Telefon:               Webbplats:
 Regionens hus Residensgatan 16H 010-441 00 00       www.vgregion.se
 462 80 Vänersborg 462 33 Vänersborg E-post:
 infrastruktur-
-och.kollektivtrafiknamnd@vgregion.se
+(e-post borttagen)
 
 Sida 283 av 290
 
@@ -15647,8 +15647,8 @@ Region Halland
 
 Besluten  skickas  till
 
-• Region Halland, regionen@regionhalland.se, ange diarienummer RS230670
-• Västtrafik för kännedom, vasttrafik@vasttrafik.se
+• Region Halland, (e-post borttagen), ange diarienummer RS230670
+• Västtrafik för kännedom, (e-post borttagen)
 
 Sida 284 av 290
 
@@ -15969,7 +15969,7 @@ systemet. Göteborg utgör kärnan i det regionala kollektivtrafiksystemet, där
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -16110,11 +16110,11 @@ Beslutad av:   Kommunfullmäktige 12 december 2024 § 161, KS 2024-00478
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 336 -->
 
@@ -16466,11 +16466,11 @@ Beslutad av:    KF §x
 Gäller från:    2026-mm-dd
 
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 343 -->
 
@@ -16504,7 +16504,7 @@ Planeringsförutsättningar
 Kungsbacka har under år 2026 den lägsta andelen färdtjänsttillstånd i Halland, cirka
 30,4 tillstånd per 1 000 invånare, jämfört med cirka 39,4 per 1 000 invånare i
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 344 -->
 
@@ -17012,7 +17012,7 @@ Verksamhetschef
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -17078,7 +17078,7 @@ Teknik,   daterad    2025-09-01
 
 <!-- sida 360 -->
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 361 -->
 
@@ -17127,7 +17127,7 @@ Förordning (1982:198) Förordning (1982:198) om flyttning av fordon i vissa fal
 
 Lag (1982:129)        Lag (1982:129) om flyttning av fordon i vissa fall
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 362 -->
 

@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Besöksadress
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Storgatan 37, Stadshuset
 www.kungsbacka.se
 
@@ -3036,7 +3036,7 @@ jämförelse                 av    fem        modeller
 
 2025-04-23
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 73 -->
 
@@ -3700,7 +3700,7 @@ Ansökan om verksamhetsstöd
 
 Sökande och initiativtagare:
 Ung Företagsamhet i Hallands län
-Tre Hjärtans väg 2,302 41 Halmstad
+Tre (adress borttagen),302 41 Halmstad
 Org. Nr: 849201-7960
 
 BG: 5873-4047
@@ -3896,7 +3896,7 @@ Halmstad 2024-12-12
 Ida Thorén Olsson
 Regionchef
 Ung Företagsamhet i Hallands län
-0708 633 437
+(mobilnummer borttaget)
 
 <!-- sida 92 -->
 
@@ -4380,7 +4380,7 @@ reinvesteringsåtgärder behöver genomföras för att sörja för detta ansvar.
 föreligger alltjämt behov att anpassa lokaler genom verksamhetsanpassningar för
 att bättre stödja partnerförvaltningar i lokalerna.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 103 -->
 
@@ -5970,8 +5970,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #191549 | Inskickat av: | Datum: 2025-03-13 14:38 Sida 1 av 3
 
@@ -5998,8 +5998,8 @@ Markera fastigheten eller fastigheterna du begär planbesked för
 Du kan välja att bifoga en situationskarta med tydliga markeringar istället för att markera
 fastigheten eller fastigheterna på denna kartan.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #191549 | Inskickat av: | Datum: 2025-03-13 14:38 Sida 2 av 3
 
@@ -6030,8 +6030,8 @@ Beskrivning
 Ansökan om planbesked Kyvik 3.147.pdf (92 KB)
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #191549 | Inskickat av: | Datum: 2025-03-13 14:38 Sida 3 av 3
 
@@ -6184,7 +6184,7 @@ av kommunen väljer flertalet att köra bil då reskvoten jämfört med kollekti
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6391,7 +6391,7 @@ måste omhändertagas och synliggöras i revideringen av Region Hallands Trafikf
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -8832,7 +8832,7 @@ Länsstyrelsen i Hallands län
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -8908,7 +8908,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -8927,7 +8927,7 @@ Fig.1. Naturreservatet är markerat med blå helstreckad linje. Den röda cirkel
 Fälareds naturreservats ungefärliga läge.
 
 Postadress  Besöksadress E-post           Telefon
-301 86 HALMSTAD Slottsgatan 2 Halland@lansstyrelsen.se 010 – 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 – 224 30 00
 
 <!-- sida 219 -->
 
@@ -10364,7 +10364,7 @@ risken för oklar ansvarsfördelning och tolkningskonflikter när flera olika kr
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -10910,7 +10910,7 @@ prövningskedjan.
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -11122,7 +11122,7 @@ betydande miljöpåverkan, inte hanteras effektivt utan kommunens direkta insyn 
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -11773,7 +11773,7 @@ förutsättningar som en stor del av kvotflyktingar kommer med. Utredningen ange
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -11988,7 +11988,7 @@ kommunerna att omhänderta kvotflyktingar och behöver därmed längre förbered
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -12076,7 +12076,7 @@ kommunerna att omhänderta kvotflyktingar och behöver därmed längre förbered
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -12170,7 +12170,7 @@ samtidigt finns det en risk att detta dubbla uppdrag kan försvåra tilliten mel
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -12343,7 +12343,7 @@ det gäller att planera för bostad och skolgång. Det behöver finnas en längr
 1 (2)
 Nämnden för Gymnasium & Arbetsmarknad                     Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -12641,7 +12641,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -14678,7 +14678,7 @@ närhet till Åsa station i Kungsbacka kommun.
 
 <!-- sida 360 -->
 
-Telefon: Varberg direkt: 0340-880 00. E-post: varbergdirekt@varberg.se. Webbplats: varberg.se
+Telefon: Varberg direkt: 0340-880 00. E-post: (e-post borttagen). Webbplats: varberg.se
 
 Planbes P k o riv s n ta in d g r e | V s a s r : b V er a g r s b k e o r m gs m u k n o mmun, 432 80 Varberg. Besöksadress: Varberg direkt, Norra Vallgatan 14 47
 
@@ -15850,7 +15850,7 @@ medlemskommunerna i enlighet med lag (2003:778) om skydd mot olyckor. Detta inne
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-34 42 65                                                Besöksadress
+(mobilnummer borttaget)                                                Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -17786,7 +17786,7 @@ Summa överföringar = 97 181
 
 Telefon
 
-0705434519
+(mobilnummer borttaget)
 
 Namnförtydligande
 
@@ -17802,7 +17802,7 @@ iSningen ger en rättvisande bild av hur partistödet använts.
 
 Telefon
 
-0708245962
+(mobilnummer borttaget)
 
 Erlånd Andersson
 

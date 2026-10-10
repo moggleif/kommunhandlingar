@@ -39,7 +39,7 @@ Plats: Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -83,7 +83,7 @@ KUNGSBACKA  KOMMUN
 | 11. | Intern kontrollplan 2026<br>Kl 18:40-19:05<br>Frida Byrsten, verksamhetschef | FG-2025-00716 | Nämnden för Förskola & Grundskola godkänner<br>internkontrollplan 2026. |
 | 12. | Samverkansavtal för förskola<br>och pedagogisk omsorg i<br>Göteborgsregionen 2026-01-01<br>- 2029-12-31<br>Kl 19:05-19:15<br>Frida Byrsten, verksamhetschef | FG-2025-00585 | Nämnden för Förskola & Grundskola ställer sig<br>bakom Samverkansavtal för förskola och<br>pedagogisk omsorg i Göteborgsregionen 2026-<br>2029 och överlämnar detta som sitt yttrande till<br>kommunstyrelsen. |
 | 13. | Ansökan om godkännande av<br>fristående pedagogisk omsorg<br>med anledning av<br>verksamhetsförändring - Ek o<br>lek barnomsorg AB | FG-2025-00591 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ek o lek barnomsorg AB med en ny<br>dagbarnvårdare på Friskmans lycka 11, 439 63<br>Frillesås. Godkännandet omfattar 6 barn. Har<br>verksamheten inte startat inom två år behöver<br>den enskilde ansöka om nytt godkännande. |
-| 14. | Ansökan från<br>Föräldrakooperativet<br>Karamellen ekonomisk förening<br>gällande permanent utökning av<br>barnantal | FG-2025-00683 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Karamellen ekonomisk förening,<br>Kumlabacken 7, 439 53 Åsa, om permanent<br>utökning till totalt 20 barn. |
+| 14. | Ansökan från<br>Föräldrakooperativet<br>Karamellen ekonomisk förening<br>gällande permanent utökning av<br>barnantal | FG-2025-00683 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Karamellen ekonomisk förening,<br>(adress borttagen), 439 53 Åsa, om permanent<br>utökning till totalt 20 barn. |
 | 15. | Namnförslag Allmogevägens<br>förskola | FG-2025-00710 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Resursskolan Ängen för den nya<br>resursskolan i Kungsbacka kommun. |
 | 16. | Namnförslag Resursskolan<br>Ängen | FG-2025-00709 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Resursskolan Ängen för den nya<br>resursskolan i Kungsbacka kommun. |
 

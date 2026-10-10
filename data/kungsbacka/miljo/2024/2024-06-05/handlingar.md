@@ -393,8 +393,8 @@ Syftet med den fördjupande översiktsplanen för Kungsbacka stad är att skapa 
 förutsättningar för att utveckla Kungsbacka till en hållbar stad som är livfull,
 grönskande och nyskapande. Fler människor ska bo, arbeta och vilja besöka
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 9 -->
 
@@ -496,7 +496,7 @@ Kungsbacka kommun                                        434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 11 -->

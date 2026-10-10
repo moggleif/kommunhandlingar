@@ -39,7 +39,7 @@ Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -126,7 +126,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -462,7 +462,7 @@ resursskola
 
 2025-02-24
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 14 -->
 
@@ -2839,7 +2839,7 @@ Ledamöter i kommunfullmäktige
 
 <!-- sida 73 -->
 
-Från:             kommun@kungsbacka.se
+Från:             (e-post borttagen)
 Skickat:          den 15 november 2024 10:56
 Till:             Kultur & Fritid; Förskola Grundskola; Gymnasium & Arbetsmarknad;
 Individ & Familjeomsorg
@@ -2888,7 +2888,7 @@ Kommunledningskontoret
 <!-- sida 74 -->
 
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 www.kungsbacka.se
 www.facebook.com/kungsbackakommun
@@ -3152,7 +3152,7 @@ Detta är den beslutade informationshanteringsplanen för Förskola & Grundskola
 kommuns riktlinjer för arkivvård och informationsförvaltning ska varje myndighet upprätta en
 informationshanteringsplan som antas av myndigheten. Samråd har skett med arkivmyndigheten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 82 -->
 
@@ -4332,7 +4332,7 @@ Beslutad av: Nämnden för Förskola & Grundskola, §+ datum
 Gäller från:
 Ansvarig förvaltning: Förskola & Grundskola
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka www.kungsbacka.se
 
@@ -4353,7 +4353,7 @@ Kungsbacka kommuns riktlinjer för informationsförvaltning ska varje myndighet 
 en klassificeringsstruktur som antas av myndigheten. Samråd har skett med
 arkivmyndigheten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 153 -->
 
@@ -4496,12 +4496,12 @@ Beslutad av: Nämnden för Förskola och grundskola xxx
 Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 
 Ansvarig förvaltning: Förvaltningen för Förskola och Grundskola
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 160 -->
 
@@ -5994,7 +5994,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 239-1](handlingar.tabeller/239-1.csv)

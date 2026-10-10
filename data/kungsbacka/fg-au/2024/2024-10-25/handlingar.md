@@ -39,7 +39,7 @@ Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -150,7 +150,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -444,8 +444,8 @@ därefter medvetet arbeta med extra anpassningar och särskilt stöd.
 förebyggande arbetet mot kränkningar.
 •  Fortsatt högt tempo i arbetet med innovation och omställning.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 14 -->
 
@@ -1972,7 +1972,7 @@ verksamhetsformer på sin enhet utifrån förutsättningar och behov.
 
 Ramfördelning 2025
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 50 -->
 
@@ -2327,7 +2327,7 @@ Förvaltningschef
 Beslut
 
 KUNGSBACKA KOMMUN                                 2024-03-25
-kommun@kungsbacka.se
+(e-post borttagen)
 1 (21)
 Dnr- SI 2023:8427
 
@@ -2427,7 +2427,7 @@ Uppföljning
 Huvudmannen ska senast den 1 november 2024 redovisa till Skolinspektionen vilka
 förbättringsåtgärder som vidtagits utifrån de identifierade utvecklingsområdena.
 
-Redovisningen skickas via e-post, till dokument.goteborg@skolinspektionen.se eller
+Redovisningen skickas via e-post, till (e-post borttagen) eller
 per post till Skolinspektionen, Box 2320, 403 15 Göteborg. Hänvisa till
 Skolinspektionens diarienummer för granskningen (dnr SI 2023:8425) i de
 
@@ -3183,7 +3183,7 @@ Beskriv eventuella ytterligare åtgärder som planeras:
 Beslut
 
 Kungsbacka kommun                                2024-03-25
-info@kungsbacka.se                                   1 (5)
+(e-post borttagen)                                   1 (5)
 
 Dnr- SI 2023:8427
 
@@ -3679,8 +3679,8 @@ Permanent
 
 2\. Utökning
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #157576 | Inskickat av: Timm Jällbrink | Datum: 2024-09-03 12:49 Sida 1 av 4
 
@@ -3706,8 +3706,8 @@ Från vilket datum gäller utökningen
 Datum
 2024-12-02
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #157576 | Inskickat av: Timm Jällbrink | Datum: 2024-09-03 12:49 Sida 2 av 4
 
@@ -3752,8 +3752,8 @@ Efter utökning med 3 personer, 2 barn och en personal är totalt behov 567 l/s 
 
 tillgängliga flödet.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #157576 | Inskickat av: Timm Jällbrink | Datum: 2024-09-03 12:49 Sida 3 av 4
 
@@ -3804,8 +3804,8 @@ CCE_000140(1)[3237].pdf (1,23 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #157576 | Inskickat av: Timm Jällbrink | Datum: 2024-09-03 12:49 Sida 4 av 4
 
@@ -4005,7 +4005,7 @@ samverkan mellan arbetsgivare och fackliga förbund.
 FG HR & Kommunikation                                     Kungsbacka kommun
 434 81 Kungsbacka
 Helena Hellman
-0729953381                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Personalchef förvaltning                                 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -5703,7 +5703,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 151-1](handlingar.tabeller/151-1.csv)

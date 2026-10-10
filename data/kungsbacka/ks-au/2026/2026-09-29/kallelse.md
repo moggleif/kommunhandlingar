@@ -37,8 +37,8 @@ Kungsbackarummet, Storgatan 37
 
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
-Direkt +46733536041
-therese.tanner@kungsbacka.se                                    Besöksadress
+Direkt (mobilnummer borttaget)
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 

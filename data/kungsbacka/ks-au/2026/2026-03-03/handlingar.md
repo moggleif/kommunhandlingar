@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Besöksadress
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Storgatan 37, Stadshuset
 www.kungsbacka.se
 
@@ -10705,7 +10705,7 @@ BESÖK: STOCKHOLM – VIRKESVÄGEN 2
 ÖSTERSUND – FORSKARENS VÄG 5, HUS UB
 POST: 106 48 STOCKHOLM
 TEL: 010-698 10 00
-E-POST: REGISTRATOR@NATURVARDSVERKET.SE
+E-POST: (e-post borttagen)
 INTERNET: WWW.NATURVARDSVERKET.SE
 
 <!-- sida 187 -->
@@ -25608,9 +25608,9 @@ Med vänlig hälsning
 Eksta Bostads AB
 
 Christer Kilersjö, vd
-0300–35609, christer@eksta.se
+0300–35609, (e-post borttagen)
 
-Eksta Bostads AB telefon: 0300-356 00 e-post: info@eksta.se www.eksta.se
+Eksta Bostads AB telefon: 0300-356 00 e-post: (e-post borttagen) www.eksta.se
 Box 10400
 434 24 Kungsbacka
 
@@ -25747,7 +25747,7 @@ kan ligga till grund för att genomföra ett testområde.
 1 (2)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -26035,7 +26035,7 @@ Notifieringar
 
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4249722 | Inskickat av: Karl Gustav Persson | Datum: 2025-12-10 14:56 Sida 1av3
@@ -26065,14 +26065,14 @@ Karl Persson
 
 Telefon E-postadress
 
-0708935050 karlQastoriafastigheter.se
+(mobilnummer borttaget) karlQastoriafastigheter.se
 
 Y2. Fastighet
 
 För vilken eller vilka fastigheter begär du planbesked?
 
 Fastighetsbeteckning Fastighetens adress
-Särö 1:320 Stallbacken 19
+Särö 1:320 (adress borttagen)
 429 43 Särö
 
 Vad beskriver bäst din begäran?
@@ -26085,7 +26085,7 @@ Vill du bifoga en situationskarta?
 
 Ja
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4249722 | Inskickat av: Karl Gustav Persson | Datum: 2025-12-10 14:56 Sida 2 av3
@@ -26109,7 +26109,7 @@ Hj Ansokan andring detaljplan Saro 1 320.docx (27 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4249722 | Inskickat av: Karl Gustav Persson | Datum: 2025-12-10 14:56 Sida 3 av3
@@ -26236,14 +26236,14 @@ Fastigheten Varla 6:19, Kungsbacka kommun
 Sökande:
 
 G Mattsson Fastigheter AB (556565-0545)
-Kabelgatan 4
+(adress borttagen)
 
 434 37 Kungsbacka
 
 Betalningsansvarig/fakturamottagare:
 
 G Mattsson Fastigheter AB (556565-0545)
-Kabelgatan 4
+(adress borttagen)
 
 434 37 Kungsbacka
 
@@ -26257,7 +26257,7 @@ E-post: marcusQgmfastigheter.se
 Fastigheten:
 Fastigheten som berörs av begäran om planbesked är Kungsbacka Varla 6:19 med
 
-adress Kabelgatan 6, 434 37 Kungsbacka
+adress (adress borttagen), 434 37 Kungsbacka
 
 Beskrivning över varför planbesked begärs:
 

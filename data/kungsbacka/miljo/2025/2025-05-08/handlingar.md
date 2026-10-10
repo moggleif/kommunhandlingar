@@ -69,7 +69,7 @@ Kungsbacka kommun                                        434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 2 -->
@@ -264,8 +264,8 @@ Kommunstyrelsens förvaltning, samhällsbyggnadskontoret
 Camilla Hansson Ahlbom     Tobias Engström
 Miljö- och hälsoskyddsinspektör Miljö- och hälsoskyddsinspektör
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 6 -->
 

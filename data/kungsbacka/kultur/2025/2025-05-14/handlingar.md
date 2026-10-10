@@ -106,7 +106,7 @@ Förvaltningschef Controller
 
 Kungsbacka kommun Kungsbacka kommun
 Malin Fjellström 434 81 Kungsbacka
-0703834534 Besöksadress
+(mobilnummer borttaget) Besöksadress
 Controller Förvaltning Stadshuset, Storgatan 37
 
 Telefon 0300-83 40 00
@@ -704,7 +704,7 @@ hemsida!
 
 Illustration av föreslagen bebyggelse inom området (Arkitektbyrån Design)
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
 Telefon 0300-83 40 00 » infoMkungsbacka.se » kungsbacka.se
 
 Kungsbacka
@@ -1273,7 +1273,7 @@ För att planen ska kunna genomföras krävs eventuellt ombyggnad av delar av E.
 E.ON fastslår att det är av yttersta vikt att ett nära samarbete etableras tidigt mellan kommunen och
 E.ON i den fortlöpande detaljplansprocessen för att kunna komma fram till en möjlig lösning.
 Ledningssamordning och panering gällande E.Ons anläggningar kontaktas Alfred Johansson E.ON
-Energidistribution AB, tfn 0722-169365 e-post alfred.johansson(Qeon.se. Alfred är tillbaka från sin
+Energidistribution AB, tfn (mobilnummer borttaget) e-post alfred.johansson(Qeon.se. Alfred är tillbaka från sin
 semester den 15/8 om kontakt önskas innan dess går det bra att maila PBL(Qeon.se
 
 EON Noterar att det i planbeskrivningen/Fastighetsrättsliga konsekvenser under stycket ledningsrätt

@@ -1041,7 +1041,7 @@ Förutsättningar             för   att   ansöka        om
 
 kommunalt            lantmäteri         i Kungsbacka
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 23 -->
 

@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
-patrik.johansson2@kungsbacka.se                                  Storgatan 37
+(e-post borttagen)                                  Storgatan 37
 Stadshuset
 www.kungsbacka.se
 
@@ -267,7 +267,7 @@ Kommundirektör                     Biträdande kommundirektör
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-344265                                                  Besöksadress
+(mobilnummer borttaget)                                                  Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -588,7 +588,7 @@ vägledning för befattningarnas lönenivåer.
 Kommunstyrelsens förvaltning               1 (4)
 AnvNamn                                                   Kungsbacka kommun
 Förhandlingschef                                           434 81 Kungsbacka
-072 995 33 94
+(mobilnummer borttaget)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -2149,11 +2149,11 @@ Beslutad av:   Kommunstyrelsen xx nnnnnn 2024 § XXX, Dnr KS 2023-00461, Försla
 12-18
 Giltigt från:  2024-xx-xx
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 61 -->
 
@@ -2589,11 +2589,11 @@ Beslutad av:   Kommunstyrelsen 26 september 2023 § 198, Dnr KS 2023-00461
 Giltigt från:  2023-09-26
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 81 -->
 
@@ -3737,7 +3737,7 @@ pe 15 FÖRORDNANDE Heddi
 : 2023-06-30 EEgENen
 Advokat Lars Andersson
 Advokätfirrhan Sanrier & Brink KB
-Energigatan 12
+(adress borttagen)
 434 37 Kungsbacka
 
 Konkutsgäldernär
@@ -3767,7 +3767,7 @@ Besöksadress Öppettider Postadress E-pöst |
 Forsgårdens Golfklubb
 
 Org nr: 8494 004 461
-Gamla Forsvägen 1
+Gamla (adress borttagen)
 434 47 Kungsbacka
 Kontaktperson: Karolina Bohlin
 
@@ -3794,7 +3794,7 @@ Ikano Bank AB
 Christian Snögren
 
 Ikano Bank AB (publ), Landsvägen 52, Box 1007, 172 21 Sundbyberg. 08 – 514 203 30. Bankgiro 478-3593
-Organisationsnummer 516406-0922. www.ikanobank.se/foretag ibf.info@ikano.se
+Organisationsnummer 516406-0922. www.ikanobank.se/foretag (e-post borttagen)
 SWIFT: HANDSESS
 BIC: SE 736000 0000 0002 5003 8358
 
@@ -3971,7 +3971,7 @@ Anna Hamrin
 Besöksadress
 Controller
 Stadshuset, Storgatan 37
-anna.hamrin@kungsbacka.se
+(e-post borttagen)
 0300-83 50 55                                            Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -4852,7 +4852,7 @@ Kungsbacka kommun                                         Kungsbacka kommun
 434 81 Kungsbacka
 Anna Hamrin
 Controller                                                    Besöksadress
-anna.hamrin@kungsbacka.se                                Stadshuset, Storgatan 37
+(e-post borttagen)                                Stadshuset, Storgatan 37
 0300-83 50 55
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -7492,7 +7492,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7678,7 +7678,7 @@ säkerhetsincidenter till samtliga medarbetare.
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -9284,7 +9284,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -10769,11 +10769,11 @@ I Stagvägen 3
 | Helmerson, Elin Beata Louise
 Leifsdotter
 
-| Rörstrandsgatan 33 B lgh 1101
+| (adress borttagen)
 113 41 Stockholm
 
 | Janson, Barbara Leifsdotter Susanne i
-Karlbergsvägen 9 lgh 1101
+(adress borttagen)
 113 27 Stockholm
 
 Broms, Gustaf Axel Stigsson
@@ -10786,7 +10786,7 @@ Starrängsringen 16 lgh 1401
 
 Broms, Ingrid Margareta Stigsdotter |
 
-Torsgatan 19
+(adress borttagen)
 195 58 Märsta
 
 Ehrensvärd, Sigyn Catherine
@@ -10851,7 +10851,7 @@ on — sade oe |
 
 von Sydow, Henrik August
 
-i Askimsgatan 4
+i (adress borttagen)
 413 19 Göteborg
 
 | von Sydow, Emily Matilda
@@ -10962,7 +10962,7 @@ rättigheter mineral / torv)
 Till förmån för | . oo - - ee od ee
 Särö ga:d | Särö Vägförening (Kungsbacka)
 | C/O Niklas Dahlgren
-Drottningvägen 4
+(adress borttagen)
 429 43 Särö
 
 LANTMÄTERIET
@@ -11133,7 +11133,7 @@ LANTMÄTERIET
 1413 10 Göteborg a
 | Hammarvid, Paul Richard Einar
 
-' Åleviksvägen 34
+' (adress borttagen)
 
 429 43 Särö
 
@@ -11236,7 +11236,7 @@ fa 1
 ' Säröns Samfällighetsförening
 : (Kungsbacka)
 i C/O Axel Broms
-| Riddargatan 45
+| (adress borttagen)
 114 57 Stockholm
 
 | Ägare/innehavare, adress
@@ -11247,7 +11247,7 @@ i 434 22 Kungsbacka |
 Säröns Samfällighetsförening
 | (Kungsbacka)
 : C/O Axel Broms
-Riddargatan 45
+(adress borttagen)
 
 114 57 Stockholm
 
@@ -11267,7 +11267,7 @@ Säröns Samfällighetsförening
 | Ägare/innehavare, adress
 
 I Lesley Invest AB
-' Alfagatan 1
+' (adress borttagen)
 431 49 Mölndal
 
 Sida 8
@@ -11334,7 +11334,7 @@ LANTMÄTERIET
 
 (Kungsbacka)
 C/O Axel Broms
-| Riddargatan 45
+| (adress borttagen)
 
 11457 Stockholm
 
@@ -11476,7 +11476,7 @@ Säröns Samfällighetsförening
 
 (Kungsbacka)
 C/O Axel Broms
-Riddargatan 45
+(adress borttagen)
 114 57 Stockholm
 
 ; Ägare/innehavare, adress
@@ -11946,7 +11946,7 @@ Ett uppdrag som ordförande i nämnd innebär sällan ett uppdrag på mer än 40
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -12681,11 +12681,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 316 -->
 
@@ -13044,7 +13044,7 @@ personalföreträdare i nämnder. Förutsättningarna för personalföreträdare
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Ulrica Furby
-ulrica.furby@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -13118,7 +13118,7 @@ Innehåll ......................................................................
 
 8\. Ersättning ........................................................................................................................................ 4
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 327 -->
 
@@ -13241,7 +13241,7 @@ Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -14059,11 +14059,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 349 -->
 
@@ -14355,7 +14355,7 @@ Säkerhets-        och   beredskapspolicy
 
 Kungsbacka    kommun
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 357 -->
 
@@ -14402,7 +14402,7 @@ och rapportera risker och problem samt följa riktlinjer och övriga bestämmels
 Beslutad av: Kommunfullmäktige 10 december 2019, § 189, KS/2019:706
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka kungsbacka.se
 
 Säkerhets- och be redskapspolicy Sida 2 av 2
@@ -14446,7 +14446,7 @@ Syftet med civilt försvar är att inför och under höjd beredskap värna civil
 viktigaste samhällsfunktionerna samt bidra till Försvarsmaktens förmåga att möta ett väpnat angrepp.
 Kommunens arbete med civilt försvar bygger på krisberedskapen.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 359 -->
 
@@ -14541,7 +14541,7 @@ verksamhet under höjd beredskap. Arbetet kommer genomföras enligt överenskomm
 Beslutad av: Kommunfullmäktige 10 december 2019, § 190, KS/2019:683
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -16205,11 +16205,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 400 -->
 
@@ -16327,7 +16327,7 @@ När förhållandena medger det ska krisledningsnämnden besluta att de uppgifte
 andra nämnder ska återgå till ordinarie nämnd. Även kommunstyrelsen och kommunfullmäktige får besluta
 att krisledningsnämndens verksamhet ska upphöra.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 403 -->
 
@@ -16349,7 +16349,7 @@ Vid övning och utbildning ges också ersättarna möjlighet att delta.
 Beslutad av: Kommunfullmäktige 10 december 2019, § 188, KS/2019:707
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -18911,7 +18911,7 @@ Gäller från:          2024-01-01
 
 Ansvarig förvaltning: Teknik
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 468 -->
 

@@ -39,7 +39,7 @@ Kommunfullmäktigesalen, Storgatan 37
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -171,7 +171,7 @@ Datum 2025-02-06
 Huvudman                             Dnr SI 2025:5873
 Sida 1 (19)
 KUNGSBACKA KOMMUN
-kommun@kungsbacka.se
+(e-post borttagen)
 
 Beslut
 
@@ -254,7 +254,7 @@ Huvudmannen ska senast den 4 september 2026 redovisa till
 Skolinspektionen vilka förbättringsåtgärder som vidtagits utifrån de
 identifierade utvecklingsområdena.
 Redovisningen skickas via e-post, till
-dokument.goteborg@skolinspektionen.se. Hänvisa till Skolinspektionens
+(e-post borttagen). Hänvisa till Skolinspektionens
 diarienummer för granskningen (dnr SI 2025:5873 i de handlingar som
 sänds in.
 
@@ -954,7 +954,7 @@ En introduktion till Skolinspektionens uppdrag och funktion, för att skapa
 förståelse för myndighetens roll
 En sammanfattning av de identifierade utvecklingsområdena
 Skriftligen redovisa till Skolinspektionen via e-post på följande adress:
-dokument.goteborg@skolinspektionen.se Märk redovisningen med
+(e-post borttagen) Märk redovisningen med
 aktuellt diarienummer: SI 2025:5873
 
 Utvecklingsområde 1: Rektorns ledarskap
@@ -1400,7 +1400,7 @@ föra beslutade åtgärder med anledning av de rekommendationer som redovi-
 sas i rapporten?
 
 Svaret på ovanstående frågor önskas elektroniskt till
-kommunrevision@kungsbacka.se senast den 20 augusti 2026.
+(e-post borttagen) senast den 20 augusti 2026.
 
 För revisorerna i Kungsbacka kommun
 
@@ -1475,7 +1475,7 @@ t
 U                                                                  Fax 0300-83 47 04
 K
 m
-roF                                                          kommunrevision@kungsbacka.se
+roF                                                          (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 <!-- sida 41 -->
@@ -2302,7 +2302,7 @@ likvärdig  skola
 
 Förskola    &  Grundskola
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 61 -->
 
@@ -2682,7 +2682,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 72 -->
 

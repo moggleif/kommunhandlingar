@@ -2367,7 +2367,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Webb: www.regeringen.se     Besöksadress: Herkulesgatan 17
-E-post: kn.registrator@regeringskansliet.se
+E-post: (e-post borttagen)
 
 <!-- sida 52 -->
 
@@ -2536,8 +2536,8 @@ E-post: kn.registrator@regeringskansliet.se
 
 Remissvaren ska ha kommit in till Klimat- och näringslivsdepartementet
 senast den 30 oktober 2026. Svaren bör lämnas per e-post till
-kn.remissvar@regeringskansliet.se och med kopia till
-kn.kl@regeringskansliet.se. Ange diarienummer KN2026/01175 och
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer KN2026/01175 och
 
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
@@ -2580,7 +2580,7 @@ Viktoria Ingman
 
 Kopia till
 
-Multiply Solutions, e-postadress: regeringskansliet@multiplysolutions.se
+Multiply Solutions, e-postadress: (e-post borttagen)
 
 6 (6)
 
@@ -36891,9 +36891,9 @@ Box 10071
 434 21 Kungsbacka
 Besöksadress: Kulturhuset Fyren
 0300 – 834662
-Sms 0706341942
+Sms (mobilnummer borttaget)
 
-jessica.wibeck@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 www.facebook.com/kungsbackakommun
 
@@ -37060,11 +37060,11 @@ Beslutad av:    Kommunfullmäktige 2026-03-03 § 29
 Gäller från:    2026-03-03
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 835 -->
 

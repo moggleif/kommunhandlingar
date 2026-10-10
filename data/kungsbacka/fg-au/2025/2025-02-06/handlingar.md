@@ -39,7 +39,7 @@ Plats: Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -128,7 +128,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -172,7 +172,7 @@ Kommunal instämmer med Sveriges Lärare
 Beslut: Att anteckna informationen.
 
 SVERIGES SKOLLEDARE VASAGATAN 48 BOX 3266 103 65 STOCKHOLM TELEFON 08-567 062 00ORG.NR. 802540-9601 STYRELSENS SÄTE
-STOCKHOLM INFO@SVERIGESSKOLLEDARE.SE WWW.SVERIGESSKOLLEDARE.SE
+STOCKHOLM (e-post borttagen) WWW.SVERIGESSKOLLEDARE.SE
 
 <!-- sida 6 -->
 
@@ -218,7 +218,7 @@ förvaltningsledningsgruppen.
 Beslut: Information/Dialog
 
 SVERIGES SKOLLEDARE VASAGATAN 48 BOX 3266 103 65 STOCKHOLM TELEFON 08-567 062 00ORG.NR. 802540-9601 STYRELSENS SÄTE
-STOCKHOLM INFO@SVERIGESSKOLLEDARE.SE WWW.SVERIGESSKOLLEDARE.SE
+STOCKHOLM (e-post borttagen) WWW.SVERIGESSKOLLEDARE.SE
 
 <!-- sida 7 -->
 
@@ -262,7 +262,7 @@ Justeras:
 För arbetsgivaren:
 
 SVERIGES SKOLLEDARE VASAGATAN 48 BOX 3266 103 65 STOCKHOLM TELEFON 08-567 062 00ORG.NR. 802540-9601 STYRELSENS SÄTE
-STOCKHOLM INFO@SVERIGESSKOLLEDARE.SE WWW.SVERIGESSKOLLEDARE.SE
+STOCKHOLM (e-post borttagen) WWW.SVERIGESSKOLLEDARE.SE
 
 <!-- sida 8 -->
 
@@ -292,7 +292,7 @@ Vision                              Vårdförbundet
 Elise Holmberg                      Anne Melin
 
 SVERIGES SKOLLEDARE VASAGATAN 48 BOX 3266 103 65 STOCKHOLM TELEFON 08-567 062 00ORG.NR. 802540-9601 STYRELSENS SÄTE
-STOCKHOLM INFO@SVERIGESSKOLLEDARE.SE WWW.SVERIGESSKOLLEDARE.SE
+STOCKHOLM (e-post borttagen) WWW.SVERIGESSKOLLEDARE.SE
 
 <!-- sida 9 -->
 
@@ -333,7 +333,7 @@ uppdrag, undervisning? Detta är frågor till den styrande politiken. Hur vill n
 Kungsbacka 250115
 
 SVERIGES SKOLLEDARE VASAGATAN 48 BOX 3266 103 65 STOCKHOLM TELEFON 08-567 062 00ORG.NR. 802540-9601 STYRELSENS SÄTE
-STOCKHOLM INFO@SVERIGESSKOLLEDARE.SE WWW.SVERIGESSKOLLEDARE.SE
+STOCKHOLM (e-post borttagen) WWW.SVERIGESSKOLLEDARE.SE
 
 <!-- sida 10 -->
 
@@ -370,7 +370,7 @@ Kristin Arplöw
 Ordförande i Kungsbacka
 
 SVERIGES SKOLLEDARE VASAGATAN 48 BOX 3266 103 65 STOCKHOLM TELEFON 08-567 062 00ORG.NR. 802540-9601 STYRELSENS SÄTE
-STOCKHOLM INFO@SVERIGESSKOLLEDARE.SE WWW.SVERIGESSKOLLEDARE.SE
+STOCKHOLM (e-post borttagen) WWW.SVERIGESSKOLLEDARE.SE
 
 <!-- sida 11 -->
 
@@ -3942,7 +3942,7 @@ vidaredelegation. Detta möjliggör snabbare anpassningar vid exempelvis inre
 FG Myndighet & Stöd                                       Kungsbacka kommun
 434 81 Kungsbacka
 Frida Byrsten
-070-265 59 66                                                 Besöksadress
+(mobilnummer borttaget)                                                 Besöksadress
 Verksamhetschef                                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -4025,7 +4025,7 @@ Delegeringsförteckning
 
 Nämnden       för Förskola     &  Grundskola
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 98 -->
 
@@ -4643,7 +4643,7 @@ Beslutad av: Nämnden för Förskola och grundskola, § 18
 Gäller från: 2024-02-26, uppdaterad 2024-04-17 § 36
 
 Ansvarig förvaltning: Förskola och grundskola
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -4734,7 +4734,7 @@ Analys    av handlingsalternativ
 
 2025-01-29
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 125 -->
 
@@ -4975,7 +4975,7 @@ Fyll i dina kontaktuppgifter
 
 För- och efternamn                  E-postadress
 
-Jessica Fogelblad                   jessica.fogelblad@kungsbacka.se
+Jessica Fogelblad                   (e-post borttagen)
 
 Telefon                             Organisation
 
@@ -4985,8 +4985,8 @@ Avdelning                           Tjänstetitel
 
 Adm Centrum pedagogiskt omr         Rektor
 
-Kungsbacka kommun Stadshuset, Storgatan 37, 434 81 Kungsbacka 0300-83 40 00
-Organisationsnummer: 212000-1256 info@kungsbacka.se kungsbacka.se
+Kungsbacka kommun Stadshuset, (adress borttagen), 434 81 Kungsbacka 0300-83 40 00
+Organisationsnummer: 212000-1256 (e-post borttagen) kungsbacka.se
 
 Ärendenummer: #182765 Inskickat av: Jessica Fogelblad Datum: 2025-01-27 15:12
 
@@ -5041,8 +5041,8 @@ densamma då det är inom samma enhet med samma rektor. Rektor,
 
 kompetensutveckling är samma och lika som innan. En inarbetad organisation.
 
-Kungsbacka kommun Stadshuset, Storgatan 37, 434 81 Kungsbacka 0300-83 40 00
-Organisationsnummer: 212000-1256 info@kungsbacka.se kungsbacka.se
+Kungsbacka kommun Stadshuset, (adress borttagen), 434 81 Kungsbacka 0300-83 40 00
+Organisationsnummer: 212000-1256 (e-post borttagen) kungsbacka.se
 
 Ärendenummer: #182765 Inskickat av: Jessica Fogelblad Datum: 2025-01-27 15:12
 
@@ -5135,7 +5135,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 134-1](handlingar.tabeller/134-1.csv)

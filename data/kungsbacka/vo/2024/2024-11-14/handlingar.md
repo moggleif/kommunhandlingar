@@ -112,8 +112,8 @@ Senast uppföljd: 20xx-xx-xx
 
 Ansvarig förvaltning: Vård & Omsorg
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -314,7 +314,7 @@ Senast reviderad: 20xx-xx-xx
 Senast uppföljd: 20xx-xx-xx
 Gäller för:     Vård & Omsorg
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 10 -->
 
@@ -499,8 +499,8 @@ Gäller för:     [Nämnden för Vård & Omsorg
 
 Ansvarig förvaltning: Vård & Omsorg
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 15 -->
 
@@ -709,8 +709,8 @@ Senast uppföljd: 2024-xx-xx
 Gäller för:     Vård & Omsorg, Individ & Familjeomsorg, Privata utförare
 Ansvarig förvaltning: Vård &Omsorg
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 21 -->
 
@@ -871,8 +871,8 @@ Senast reviderad: 20xx-xx-xx
 Senast uppföljd: 20xx-xx-xx
 Ansvarig förvaltning: Vård & Omsorg
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 26 -->
 
@@ -1140,7 +1140,7 @@ inom         särskilt          boende
 
 VO-2024-00410
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 33 -->
 

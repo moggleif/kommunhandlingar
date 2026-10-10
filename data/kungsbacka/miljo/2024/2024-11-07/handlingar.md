@@ -138,7 +138,7 @@ kontroll.
 År 2015 delegerar kommunfullmäktige tillsynen om sprängämnesprekursorer till nämnden
 för Miljö & Hälsoskydd.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -498,7 +498,7 @@ Beslutad av: Nämnden för Miljö & Hälsoskydd, 2024-11-07, x §, MH-2024-05595
 Gäller från: 2025-01-01
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka kungsbacka.se
 
@@ -587,7 +587,7 @@ Enligt Kungsbacka kommuns riktlinjer för informationsförvaltning ska varje myn
 upprätta en klassificeringsstruktur som antas av myndigheten. Ändringar ska samrådas
 med arkivmyndigheten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 14 -->
 
@@ -814,11 +814,11 @@ Beslutad av: Nämnden för Miljö & Hälsoskydd, 2024-11-07, § x, MH-2024-
 Gäller från: 2025-01-01
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 25 -->
 
@@ -900,7 +900,7 @@ en informationshanteringsplan som antas av myndigheten. Ändringar
 
 ska samrådas med arkivmyndigheten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 28 -->
 
@@ -5038,12 +5038,12 @@ MH 2024–05593
 Gäller från: 2025-01-01
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 209 -->
 
@@ -7422,7 +7422,7 @@ Beslutad av:    Nämnden för Miljö & Hälsoskydd, 2024-10-09 § 127
 Gäller från:    2024-10-09
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -9754,11 +9754,11 @@ Beslutad av:    Kommunfullmäktige 4 april 2023 § 46, KS 2022-00291
 Gäller från:    2023-04-04
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 314 -->
 

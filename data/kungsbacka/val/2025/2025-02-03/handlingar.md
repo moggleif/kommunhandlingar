@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Kristina Gudmundson                                          Kungsbacka kommun
 Kungsbacka kommun                                             434 81 Kungsbacka
 Direkt 0300-83 44 99
-kristina.gudmundson@kungsbacka.se                               Besöksadress
+(e-post borttagen)                               Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -856,7 +856,7 @@ Valnämnden har inget att rapportera.
 
 <!-- sida 30 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 12 december 2024 10:00
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v.50
@@ -902,7 +902,7 @@ www.val.se
 
 <!-- sida 32 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 27 november 2024 16:28
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsutskick v. 48
@@ -941,7 +941,7 @@ Valmyndigheten
 
 <!-- sida 33 -->
 
-Från:                  Brev: Val ValAdm \<valadm@val.se>
+Från:                  Brev: Val ValAdm \<(e-post borttagen)>
 Skickat:               den 8 januari 2025 13:15
 Till:                  Brev: Val ValAdm
 Ämne:                  Valmyndighetens nyhetsbrev v. 2

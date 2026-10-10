@@ -39,7 +39,7 @@ Kungsbackarummet, Storgatan 37
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -287,7 +287,7 @@ Utvecklingsledare
 FG HR & Kommunikation                                     Kungsbacka kommun
 434 81 Kungsbacka
 Helena Hellman
-0729953381                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Personalchef förvaltning                                 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1131,7 +1131,7 @@ Beslut
 Datum 2025-12-05
 Huvudman                             Dnr SI 2025:10487
 Kungsbacka kommun                    Sida 1 (11)
-kommun@kungsbacka.se
+(e-post borttagen)
 
 Ärendet
 
@@ -1203,7 +1203,7 @@ Beslutet om anmärkning får enligt 28 kap. 2 och 18 §§ skollagen inte
 Redovisning av åtgärder
 
 Redovisningen av de vidtagna åtgärderna skickas via e-post till
-dokument.goteborg@skolinspektionen.se, eller per post till
+(e-post borttagen), eller per post till
 Skolinspektionen, Box 2320, 403 15 Göteborg. Hänvisa till
 Skolinspektionens diarienummer för ärendet (dnr 2025:10487) i de
 handlingar som sänds in.
@@ -3101,7 +3101,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 90 -->
 

@@ -1687,7 +1687,7 @@ Gäller från: Dag-månad-2026
 Dokumentegenskaper: Avfallstaxa 2026, daterad 2026-01-05
 Ansvarig förvaltning: Förvaltningen för Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
 kungsbacka.se
@@ -3250,7 +3250,7 @@ Delegeringsförteckning         nämnden      för
 
 Teknik,   daterad    2025-09-01
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 79 -->
 
@@ -3299,7 +3299,7 @@ Förordning (1982:198) Förordning (1982:198) om flyttning av fordon i vissa fal
 
 Lag (1982:129)        Lag (1982:129) om flyttning av fordon i vissa fall
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 80 -->
 

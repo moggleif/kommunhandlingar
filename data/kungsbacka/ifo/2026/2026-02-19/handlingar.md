@@ -276,7 +276,7 @@ Kungsbacka kommun föreskriver följande med stöd av förordningen (1993:1632) 
 
 kommuner och länsstyrelser att meddela lokala föreskrifter enligt ordningslagen (1993:1617).
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 8 -->
 
@@ -567,7 +567,7 @@ Beslutad av: Kommunfullmäktige 4 februari 2020 § 8, Länsstyrelsens beslut
 Gäller från och med: §§ 1-14, 16-22 från 1 april 2020,
 
 Ansvarig nämnd: Nämnden för Teknik
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -1182,7 +1182,7 @@ Där finns även ett omvärldsavsnitt samt ett avsnitt som anger min planerade i
 1 Nämnden för Förskola & Grundskola, Gymnasium & Arbetsmarknad, Service, Individ & Familjeomsorg, Vård & Omsorg, Kultur
 & Fritid, Miljö & Hälsoskydd, Teknik, Byggnadsnämnden, valnämnden samt Eksta och Tempohus AB, Stiftelsen Tjolöholm slott,
 kommunrevisionen samt kommunstyrelsen
-Kungsbacka kommun • 0300 -83 4 0 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300 -83 4 0 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 31 -->
 
@@ -3186,8 +3186,8 @@ Senast reviderad: Januari 2026
 Senast uppföljd: Januari 2026
 Gäller för:     Individ & Familjeomsorg
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 79 -->
 
@@ -3626,7 +3626,7 @@ Tillförordnad förvaltningschef              Enhetschef Kansli & stöd
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Enhetschef                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

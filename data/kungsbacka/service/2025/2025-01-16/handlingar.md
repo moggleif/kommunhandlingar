@@ -465,7 +465,7 @@ reinvesteringsåtgärder behöver genomföras för att sörja för detta ansvar.
 föreligger alltjämt behov att anpassa lokaler genom verksamhetsanpassningar för
 att bättre stödja partnerförvaltningar i lokalerna.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 12 -->
 
@@ -823,7 +823,7 @@ och reinvesteringar. För Service är två investeringskategorier (I) Löpande �
 investeringar som är verksamheternas reinvesteringar och (II) Övriga investeringar
 som är mer av engångskaraktär.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 20-1](handlingar.tabeller/20-1.csv)
 

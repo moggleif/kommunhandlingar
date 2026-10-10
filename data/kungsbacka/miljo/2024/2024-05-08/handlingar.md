@@ -74,8 +74,8 @@ Beslutet skickas till
 
 Förvaltningen för Teknik, Planering VA
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 2 -->
 
@@ -94,7 +94,7 @@ Kungsbacka kommun
 434 81 Kungsbacka
 
 1 (2)                                 Förvaltningen för Teknik
-Datum                                 teknik.vaplanering@kungsbacka.se
+Datum                                 (e-post borttagen)
 2024-04-26
 Diarienummer
 2024/2503-2
@@ -133,7 +133,7 @@ Kungsbacka kommun                                        434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 4 -->

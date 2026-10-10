@@ -38,7 +38,7 @@ Kommunfullmäktigesalen, Storgatan 37
 Vera Lagerström                                              Kungsbacka kommun
 Förvaltningen för Vård & Omsorg                               434 81 Kungsbacka
 Direkt 0300-83 48 39
-vera.lagerstrom@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

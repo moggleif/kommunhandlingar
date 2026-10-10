@@ -40,7 +40,7 @@ Paus 18:40-19:00
 Alexandra Cameron                                            Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-alexandra.cameron@kungsbacka.se                                 Besöksadress
+(e-post borttagen)                                 Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

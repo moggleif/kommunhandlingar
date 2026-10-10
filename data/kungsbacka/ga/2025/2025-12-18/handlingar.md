@@ -40,7 +40,7 @@ Paus 19.00-19.20.
 Alexandra Cameron                                            Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-alexandra.cameron@kungsbacka.se                                 Besöksadress
+(e-post borttagen)                                 Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -5662,7 +5662,7 @@ Samtliga nämnder
 KLK HR                                                    Kungsbacka kommun
 434 81 Kungsbacka
 Ulrica Furby
-0729953394                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -5871,8 +5871,8 @@ Nationell samordnare för arbetet med frivillig
 Ju 2025:14
 Nationell samordnare
 Teresa Zetterblad
-+46765345186
-teresa.zetterblad@regeringskansliet.se
+(mobilnummer borttaget)
+(e-post borttagen)
 
 Hej,
 
@@ -5902,7 +5902,7 @@ Terésa Zetterblad
 Nationell samordnare
 Ju 2025:14
 Tfn 08-4058693
-teresa.zetterblad@regeringskansliet.se
+(e-post borttagen)
 www.regeringen.se
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
@@ -6137,7 +6137,7 @@ b) Val av Firmatecknare för perioden 260101-261231
 
 Styrelsen beslutar att ordförande, vice ordförande och förbundschef utses som
 firmatecknare var för sig under perioden 260101-261231. Helene Andersson,
-590818-4608, Linda Biltmark, 760825-4848 och Samuel Grahn, 690617-2512.
+(personnummer borttaget), Linda Biltmark, (personnummer borttaget) och Samuel Grahn, (personnummer borttaget).
 
 § 8      Presidiets förslag till struktur på AU i styrelsen 2026
 

@@ -40,7 +40,7 @@ Paus: 18.50-19.10
 Alexandra Cameron                                            Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-alexandra.cameron@kungsbacka.se                                 Besöksadress
+(e-post borttagen)                                 Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -2011,7 +2011,7 @@ Bostad            Först
 
 En  sammanfattning        av  pilotprojekt
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 52 -->
 
@@ -2173,7 +2173,7 @@ Beslutad av: Nämnden för Gymnasium & Arbetsmarknad 2026-02-19 §
 
 Gäller från: 2026-02-20
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 57 -->
 
@@ -4515,7 +4515,7 @@ Beslutad av: Nämnden för Gymnasium & Arbetsmarknad
 Gäller från: 2025-02-20
 
 Ansvarig förvaltning: Gymnasium & Arbetsmarknad
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -7954,9 +7954,9 @@ Org.nr. 212000-1256
 434 81 Kungsbacka
 
 Ombud:        Advokaterna Lars Arrhed, Pontus Etéus och Reid Lindell
-0703-20 10 47, 0731-47 27 86, 0733-06 10 11
-lars.arrhed@lindahl.se, pontus.eteus@lindahl.se och
-reid.lindell@lindahl.se
+(mobilnummer borttaget), (mobilnummer borttaget), (mobilnummer borttaget)
+(e-post borttagen), (e-post borttagen) och
+(e-post borttagen)
 Advokatfirman Lindahl KB
 Box 11911
 404 39 Göteborg
@@ -7967,16 +7967,16 @@ Första Långgatan 17, 5 TR
 413 29 Göteborg
 
 Uppgivet ombud: Advokat Gunnar Svedberg
-0739-96 93 11
-gunnar.svedberg@ragmark.se
+(mobilnummer borttaget)
+(e-post borttagen)
 Rågmark & Partners Advokatbyrå KB
-Hornsgatan 24
+(adress borttagen)
 118 20 Stockholm
 
 Advokaterna Kristian Pedersen och Christian Hybbinette
-0720-50 92 22, 0725-88 85 86
-kristian.pedersen@kahnpedersen.se,
-christian.hybbinette@kahnpedersen.se
+(mobilnummer borttaget), (mobilnummer borttaget)
+(e-post borttagen),
+(e-post borttagen)
 Advokatfirman Kahn Pedersen KB
 Box 161 19
 103 23 Stockholm
@@ -10475,17 +10475,17 @@ Initierare
 
 Staffan Malmgren (SM)
 Advokatfirman Kahn Pedersen AB
-Personnummer 197509230137
-staffan.malmgren@kahnpedersen.se
-+46 720-50 92 40
+Personnummer (personnummer borttaget)
+(e-post borttagen)
+(mobilnummer borttaget)
 
 Signerare
 
 Stigert Pettersson (SP)             Jörgen Rönning (JR)
 Kungsbacka kommun                   Göteborgs IT Konsult Gotit AB
-Personnummer 630613-4732            Personnummer 651217-5693
-stigert.pettersson@kungsbacka.se    jorgen.ronning@gotit.se
-+46 72-995 70 30                    +4670-576 60 20
+Personnummer (personnummer borttaget)            Personnummer (personnummer borttaget)
+(e-post borttagen)    (e-post borttagen)
+(mobilnummer borttaget)                    (mobilnummer borttaget)
 
 Namnet som returnerades från svenskt BankID var Namnet som returnerades från svenskt BankID var
 "STIGERT PETTERSSON"                "JÖRGEN RÖNNING"
@@ -11013,7 +11013,7 @@ Datum: 2026-01-15
 
 Praktisk information
 Remissvaren ska vara GR tillhanda senast den 25 mars 2026 till e-post
-gr@goteborgsregionen.se
+(e-post borttagen)
 
 De kommuner som inte har några synpunkter eller förslag att lämna,
 
@@ -11030,9 +11030,9 @@ Ange i remissvaret vem som är kontaktperson i kommunen vid eventuella
 frågor från GR.
 
 Frågor besvaras av:
-Niklas Svensson, niklas.svensson@goteborgsregionen.se för
+Niklas Svensson, (e-post borttagen) för
 samverkansavtalen för gymnasieskola och anpassad gymnasieskola
-Marie Egerstad, marie.egerstad@goteborgsregionen.se för samverkansavtalet
+Marie Egerstad, (e-post borttagen) för samverkansavtalet
 om yrkesutbildningar för vuxna
 
 Remisshandlingar
@@ -13547,7 +13547,7 @@ Datum: 2026-01-15
 
 Praktisk information
 Remissvaren ska vara GR tillhanda senast den 25 mars 2026 till e-post
-gr@goteborgsregionen.se
+(e-post borttagen)
 
 De kommuner som inte har några synpunkter eller förslag att lämna,
 
@@ -13564,9 +13564,9 @@ Ange i remissvaret vem som är kontaktperson i kommunen vid eventuella
 frågor från GR.
 
 Frågor besvaras av:
-Niklas Svensson, niklas.svensson@goteborgsregionen.se för
+Niklas Svensson, (e-post borttagen) för
 samverkansavtalen för gymnasieskola och anpassad gymnasieskola
-Marie Egerstad, marie.egerstad@goteborgsregionen.se för samverkansavtalet
+Marie Egerstad, (e-post borttagen) för samverkansavtalet
 om yrkesutbildningar för vuxna
 
 Remisshandlingar
@@ -15392,7 +15392,7 @@ Datum: 2026-01-15
 
 Praktisk information
 Remissvaren ska vara GR tillhanda senast den 25 mars 2026 till e-post
-gr@goteborgsregionen.se
+(e-post borttagen)
 
 De kommuner som inte har några synpunkter eller förslag att lämna,
 
@@ -15409,9 +15409,9 @@ Ange i remissvaret vem som är kontaktperson i kommunen vid eventuella
 frågor från GR.
 
 Frågor besvaras av:
-Niklas Svensson, niklas.svensson@goteborgsregionen.se för
+Niklas Svensson, (e-post borttagen) för
 samverkansavtalen för gymnasieskola och anpassad gymnasieskola
-Marie Egerstad, marie.egerstad@goteborgsregionen.se för samverkansavtalet
+Marie Egerstad, (e-post borttagen) för samverkansavtalet
 om yrkesutbildningar för vuxna
 
 Remisshandlingar
@@ -15758,7 +15758,7 @@ Göteborgsregionen        (GR)
 
 GRvux,    Vuxenutbildningssamverkan
 
-Epost:    marie.egerstad@goteborgsregionen.se
+Epost:    (e-post borttagen)
 
 Telefon:     031-335   52  58
 
@@ -16451,7 +16451,7 @@ Nämnden     för Gymnasium      & Arbetsmarknad
 
 Rev. 2026-01-19
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 405 -->
 
@@ -16461,7 +16461,7 @@ Skapad av:      Förvaltningen för Gymnasium & Arbetsmarknad
 Gäller från:    2025-07-01
 Ansvarig förvaltning: Förvaltningen för Gymnasium & Arbetsmarknad
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -16671,7 +16671,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 2 Delegeringsförteckning
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 410-1](handlingar.tabeller/410-1.csv)
 
@@ -18871,7 +18871,7 @@ Gymnasie & Vuxenutbildning Kungsbacka kommun
 Aranäsgymnasiet Aranäsgymnasiet
 Besöksadress
 
-Gymnasiegatan 44
+(adress borttagen)
 434 42 Kungsbacka
 
 Telefon 0300-83 33 00
@@ -19316,7 +19316,7 @@ Där finns även ett omvärldsavsnitt samt ett avsnitt som anger min planerade i
 1 Nämnden för Förskola & Grundskola, Gymnasium & Arbetsmarknad, Service, Individ & Familjeomsorg, Vård & Omsorg, Kultur
 & Fritid, Miljö & Hälsoskydd, Teknik, Byggnadsnämnden, valnämnden samt Eksta och Tempohus AB, Stiftelsen Tjolöholm slott,
 kommunrevisionen samt kommunstyrelsen
-Kungsbacka kommun • 0300 -83 4 0 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300 -83 4 0 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 486 -->
 

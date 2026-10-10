@@ -39,7 +39,7 @@ Paus 18.15-18.35
 Adam Greveby                                                 Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-adam.greveby2@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1584,7 +1584,7 @@ www.kungsbacka.se
 Katrin Löfqvist
 Dataskyddskontakt GA
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 43-1](handlingar.tabeller/43-1.csv)
 
@@ -3618,7 +3618,7 @@ gymnasieskola i det individuella valet. Dessutom får ämnena läsas som utökat
 Postadress: Box 4002, 171 04 Solna
 Besöksadress: Svetsarvägen 16
 Telefon 08-527 332 00 vx Fax: 08-24 44 20
-skolverket@skolverket.se www.skolverket.se
+(e-post borttagen) www.skolverket.se
 
 <!-- sida 91 -->
 
@@ -3647,7 +3647,7 @@ Skolverkets beslut får enligt 14 kap. 1 § gymnasieförordningen (2010:2039) in
 Postadress: Box 4002, 171 04 Solna
 Besöksadress: Svetsarvägen 16
 Telefon 08-527 332 00 vx Fax: 08-24 44 20
-skolverket@skolverket.se www.skolverket.se
+(e-post borttagen) www.skolverket.se
 
 <!-- sida 92 -->
 
@@ -3774,7 +3774,7 @@ k s
 0
 4
 a s
-K                                                      gymnasie.vuxenutbildning@kungsbacka.se
+K                                                      (e-post borttagen)
 m
 roF                                                               www.kungsbacka.se
 inu
@@ -4331,7 +4331,7 @@ Besöksadress   Postadress      Telefon      Fax         Öppettider
 Ullevigatan 15                 031-743 60 00            måndag–fredag
 404 83 Göteborg                          08:00–16:00
 Webbplats                      E-post
-www.goteborgstingsratt.domstol.se avdelning2tgg@dom.se
+www.goteborgstingsratt.domstol.se (e-post borttagen)
 
 <!-- sida 105 -->
 
@@ -4376,7 +4376,7 @@ Har ni frågor?
 På följande sidor finns viktig information. Ni kan läsa mer om domstolen och hand-
 
 läggningen på webbplatsen. Kontakta oss gärna vid frågor – ni når oss via e-post
-avdelning2tgg@dom.se eller per telefon 031-7436002(gruppnr).
+(e-post borttagen) eller per telefon 031-7436002(gruppnr).
 
 Lena Eriksson
 
@@ -4390,7 +4390,7 @@ Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. 
 9
 7 5    Besöksadress    Öppettider  Postadress     E-post
 3
-3      Ullevigatan 15  måndag–fredag              avdelning2tgg@dom.se
+3      Ullevigatan 15  måndag–fredag              (e-post borttagen)
 d
 I                      08:00–16:00 404 83 Göteborg
 k.     Telefon                                    Webbplats
@@ -4485,7 +4485,7 @@ INKOM: 2026-05-06
 Avdelning 2                                          MÅLNR: T 627-26
 404 83 Göteborg                                      AKTBIL: 165
 Kopia per mejl:
-avdelning2tgg@dom.se
+(e-post borttagen)
 
 Svaromål    och  genkäromål
 
@@ -4493,20 +4493,20 @@ Mål nr T 627-26
 
 Kärandeoch      Kungsbacka kommun
 gensvarande     212000-1256
-Storgatan 37, 434 32 Kungsbacka
+(adress borttagen), 434 32 Kungsbacka
 
 Ombud           Advokaterna Lars Arrhed, Pontus Etéus och Reid Lindell
 
 Svarandeoch     Göteborgs IT Konsult Gotit AB
 genkärande      Org.nr 556523-7913
-Första Långgatan 17, 413 29 Göteborg
+Första (adress borttagen), 413 29 Göteborg
 
 Ombud           AdvokaternaGunnar Svedberg och Rikard Samuelsson
 Rågmark & Partners Advokatbyrå KB
-Hornsgatan 24, 118 20 Stockholm
-gunnar.svedberg@ragmark.se och
-rikard.samuelsson@ragmark.se
-0739-969311 och 0707-663791
+(adress borttagen), 118 20 Stockholm
+(e-post borttagen) och
+(e-post borttagen)
+(mobilnummer borttaget) och (mobilnummer borttaget)
 
 Saken           Fordran
 
@@ -4514,7 +4514,7 @@ Forum           10 kap.1 och 14 andra stycket §§ rättegångsbalken
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Rågmark & Partners Advokatbyrå KB │ Hornsgatan 24, 118 20 Stockholm │ ragmark.se
+Rågmark & Partners Advokatbyrå KB │ (adress borttagen), 118 20 Stockholm │ ragmark.se
 
 <!-- sida 108 -->
 

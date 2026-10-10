@@ -688,7 +688,7 @@ felaktigt och hur du vill att det ska ändras. Ange ditt namn, postadress,
 
 telefonnummer och gärna e-postadress, samt underteckna överklagan. Om det finns
 handlingar som stöd för överklagan ska du bifoga dem.
-Skicka gärna överklagandet per e-post till info@kungsbacka.se.
+Skicka gärna överklagandet per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 Ansökan registrerades 2025-03-05. Ansökan var komplett 2025-03-05.

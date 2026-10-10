@@ -41,7 +41,7 @@ Lunch: Hedeskolan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -383,7 +383,7 @@ Delegeringsförteckning
 
 Nämnden       för Förskola     &  Grundskola
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 12 -->
 
@@ -1024,7 +1024,7 @@ Beslutad av: Nämnden för Förskola och grundskola, § xx
 Gäller från: 2024-xx-xx
 
 Ansvarig förvaltning: Förskola och grundskola
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -1037,7 +1037,7 @@ Delegeringsförteckning
 
 Nämnden       för Förskola     &  Grundskola
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 37 -->
 
@@ -1672,7 +1672,7 @@ Beslutad av: Nämnden för Förskola och grundskola, § xx
 Gäller från: 2024-xx-xx
 
 Ansvarig förvaltning: Förskola och grundskola
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -1769,7 +1769,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 61-1](handlingar.tabeller/61-1.csv)

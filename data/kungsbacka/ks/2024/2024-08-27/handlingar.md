@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Storgatan 37
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Stadshuset
 www.kungsbacka.se
 
@@ -243,7 +243,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -260,7 +260,7 @@ Kommundirektör                     Biträdande kommundirektör
 
 Från:
 Skickat:den 9 juni 2024 10:09
-Till:Kommun \<kommun@kungsbacka.se>
+Till:Kommun \<(e-post borttagen)>
 Ämne:Sponsring Vrakat
 
 Du får inte e-post ofta från
@@ -474,7 +474,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -543,8 +543,8 @@ arbetet med planrevideringen.
 Formalia
 För skriftliga inspel gäller följande:
 
-• Inspel mailas till anna.gustafsson@goteborgsregionen.se med kopia till
-diarium@goteborgsregionen.se
+• Inspel mailas till (e-post borttagen) med kopia till
+(e-post borttagen)
 • Inspel ska inkomma till GR senast 2024-09-13.
 
 • Markera tydligt att ärendet tillhör GR:s diarienummer FS2023–00311.
@@ -553,7 +553,7 @@ Frågor
 
 Vid eventuella frågor är ni välkomna att kontakta Björn Sundén
 (bjorn.sunden@goteborgsregionen) och/eller Anna Gustafsson
-(anna.gustafsson@goteborgsregionen.se).
+((e-post borttagen)).
 
 Med vänliga hälsningar
 
@@ -704,7 +704,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -785,7 +785,7 @@ Nämnden har inga invändningar mot de förslagna formuleringarna.
 1 (1)
 Valnämnden                                                Kungsbacka kommun
 434 81 Kungsbacka
-valnamnden@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1104,7 +1104,7 @@ påverka den demokratiska processen.
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1291,7 +1291,7 @@ Förslag till ändrade havsplaner för Bottniska viken, Östersjön och Västerh
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1427,7 +1427,7 @@ med bevarandet av våra historiska och kulturella värden.
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1568,7 +1568,7 @@ Klimat- och näringslivsdepartementet
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1653,7 +1653,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7224,7 +7224,7 @@ alkohol och lustgas.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7793,8 +7793,8 @@ till konsumenter (styckförpackning) ska innehålla minst 20 portioner,
 •  den högsta tillåtna nikotinhalten för snus ska bestämmas till 12 mg per gram,
 •  ett förbud mot langning ska införas,
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 {name:”MH-2024-2866 ORDFÖRANDEBESLUT”, destination:”einbox: ”,
 subject:”Beslut från Miljö & Hälsoskydd”, template:”mall-1”}
 
@@ -7979,7 +7979,7 @@ använda dem.
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -8062,7 +8062,7 @@ mindre om tobak och nikotin kostar mer.2
 1 (3)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -8603,7 +8603,7 @@ inte minst vad gäller barn och ungas ökade användning av lustgas som berusnin
 1 (1)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-individochfamiljeomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -9298,7 +9298,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -9584,7 +9584,7 @@ Underskrift ordfö =
 
 Telefon
 
-0720856106
+(mobilnummer borttaget)
 
 Namnförtydligandd
 Axel Storckenfeldt
@@ -10432,11 +10432,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 232 -->
 

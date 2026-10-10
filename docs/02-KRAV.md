@@ -317,8 +317,9 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
   har, för att kommunen tagit bort det eller för att källan inte visar så
   långt bakåt
 - **När** en ny körning är klar
-- **Så** står dokumentets `.md` och tabeller kvar orörda, också när
-  dokumentet har kvalitet `ej-hamtad`.
+- **Så** står dokumentets `.md` och tabeller kvar, också när dokumentet
+  har kvalitet `ej-hamtad`, och de ändras bara när personuppgifter i dem
+  maskas (K17).
 
 ## K13 — Kandidaterna hämtas i en bestämd ordning
 
@@ -456,6 +457,36 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** ett `ej-hamtad` från en levande källa
 - **När** arkivets kopia av samma källnyckel inte heller går att hämta
 - **Så** lämnas dokumentets `.md` orörd.
+
+## K17 — Personuppgifter maskas
+
+Issue: [#63](https://github.com/moggleif/kommunhandlingar/issues/63).
+Vilka mönster som räknas står i
+[Personuppgifter](03-ARKITEKTUR.md#personuppgifter).
+
+- **Givet** ett personnummer, ett mobilnummer, en e-postadress eller en
+  gatuadress med postnummer i ett dokuments text eller tabeller
+- **När** dokumentet konverteras
+- **Så** står en markör i dess ställe, till exempel
+  `(personnummer borttaget)`, i både `.md` och CSV, och resten av raden
+  och cellen står som förut.
+- **Givet** ett tal i en tabell eller i löptext som inte är någon av
+  uppgifterna ovan, till exempel ett belopp, ett diarienummer, ett datum
+  eller ett organisationsnummer
+- **När** dokumentet konverteras
+- **Så** står talet kvar som det stod.
+- **Givet** förtroendevaldas, tjänstepersoners och enskildas namn, och
+  fasta telefonnummer
+- **När** dokumentet konverteras
+- **Så** står de kvar.
+- **Givet** ett dokument i poolen som skrivits av en äldre version
+- **När** maskningen körs på poolen
+- **Så** maskas texten och tabellerna på samma sätt utan att PDF:en
+  hämtas, och en andra körning ändrar ingenting.
+- **Givet** en fil i `data/` som innehåller en uppgift som skulle ha
+  maskats
+- **När** datakontrollen körs (K11)
+- **Så** faller den och anger filen, så att uppgiften inte når `main`.
 
 ## K18 — Poolens dokument går att läsa på webbplatsen
 

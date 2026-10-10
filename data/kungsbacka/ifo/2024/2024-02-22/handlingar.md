@@ -194,11 +194,11 @@ Jag som prövar
 
 För och efternamn: Mehdi Razavi
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 5 -->
 
-E-postadress: mehdi.razavi@kungsbacka.se
+E-postadress: (e-post borttagen)
 Telefon: 0300-838585
 
 Organisation: Individ & Familjeomsorg
@@ -209,8 +209,8 @@ Tjänstetitel: Enhetschef
 Vilka ingår i gruppen som gör prövningen?
 Mehdi Razavi, enhetschef, Individ & Familjeomsorg, Lilla Grönkulla
 
-Marita Ittner, metodutvecklare, marita.ittner@kungsbacka.se, Individ & Familjeomsorg, Lilla Grönkulla
-Helena Nilsson, socialt ansvarig samordnare, helena.nilsson@kungsbacka.se, Individ & Familjeomsorg,
+Marita Ittner, metodutvecklare, (e-post borttagen), Individ & Familjeomsorg, Lilla Grönkulla
+Helena Nilsson, socialt ansvarig samordnare, (e-post borttagen), Individ & Familjeomsorg,
 Utveckling IF
 
 Elin Forsne, dataskyddskontakt, Individ & Familjeomsorg, Ekonomi & Kansli
@@ -773,7 +773,7 @@ Denna publikation skyddas av upphovsrättslagen. Vid citat ska källan uppges. F
 att återge bilder, fotografier och illustrationer krävs upphovsmannens tillstånd.
 Publikationen finns som pdf på Socialstyrelsens webbplats. Publikationen kan också
 tas fram i alternativt format på begäran. Frågor om alternativa format skickas till
-alternativaformat@socialstyrelsen.se
+(e-post borttagen)
 
 Artikelnummer 2023-9-8764
 Publicerad www.socialstyrelsen.se, oktober 2023
@@ -8359,7 +8359,7 @@ Kommunledningskontoret, Styrning & Ekonomi
 Förvaltningen för Individ & Familjeomsorg                 Kungsbacka kommun
 434 81 Kungsbacka
 Emelie Sandberg
-0734696358                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Ekonomichef Förvaltning                                  Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -9855,7 +9855,7 @@ genomförda?
 
 beslutade åtgärder med anledning av de rekommendationer som redovisas i rapporten?
 
-Svaret på ovanstående frågor önskas elektroniskt till kommunrevision@kungsbacka.se.
+Svaret på ovanstående frågor önskas elektroniskt till (e-post borttagen).
 För revisorerna i Kungsbacka kommun
 
 Birgitta Litsegård
@@ -11302,7 +11302,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   individochfamiljeomsorg@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 

@@ -39,7 +39,7 @@ Paus 18.15-18.35
 Adam Greveby                                                 Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-adam.greveby2@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

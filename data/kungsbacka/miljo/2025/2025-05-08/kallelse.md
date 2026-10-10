@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Sofia Johansson                                              Kungsbacka kommun
 Bygg- och miljöförvaltningen                                  434 81 Kungsbacka
 Direkt
-sofia.johansson@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

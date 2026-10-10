@@ -178,7 +178,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   valnamnden@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -255,13 +255,13 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   valnamnden@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
 <!-- sida 10 -->
 
-Från:                  Valmyndigheten \<no-reply@val.se>
+Från:                  Valmyndigheten \<(e-post borttagen)>
 Skickat:               den 27 augusti 2026 12:54
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 35.2
@@ -378,7 +378,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 14 -->
 
-Från:                  Valmyndigheten \<no-reply@val.se>
+Från:                  Valmyndigheten \<(e-post borttagen)>
 Skickat:               den 24 augusti 2026 16:51
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 35
@@ -498,7 +498,7 @@ Fler kontaktuppgifter och öppettider >               Avregistrera >
 
 <!-- sida 18 -->
 
-Från:                  Valmyndigheten \<no-reply@val.se>
+Från:                  Valmyndigheten \<(e-post borttagen)>
 Skickat:               den 19 augusti 2026 17:04
 Till:                  Valnämnden
 Ämne:                  Nyhetsbrev kommuner vecka 34

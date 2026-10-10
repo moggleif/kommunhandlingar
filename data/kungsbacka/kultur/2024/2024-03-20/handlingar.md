@@ -37,7 +37,7 @@ Sammanträde onsdagen den 20 mars 2024 kl. 17:00 på naturum Fjärås Bräcka
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -311,7 +311,7 @@ förvaltning av ANDTS-förebyggande metoder välkomnas särskilt.
 1 (4)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -478,7 +478,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 15 -->
 
@@ -819,8 +819,8 @@ drogforskning
 207\. Överkalix kommun
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 22 april
-2024\. Svaren bör lämnas per e-post till s.remissvar@regeringskansliet.se och
-med kopia till s.hc@regeringskansliet.se. Ange diarienummer S2024/00085
+2024\. Svaren bör lämnas per e-post till (e-post borttagen) och
+med kopia till (e-post borttagen). Ange diarienummer S2024/00085
 och remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -864,7 +864,7 @@ Enhetschef
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 9 (9)
 
@@ -46835,7 +46835,7 @@ sentatives from relevant authorities and research representatives.
 
 <!-- sida 1059 -->
 
-Från:           kommun@kungsbacka.se
+Från:           (e-post borttagen)
 Skickat:        den 30 januari 2024 13:14
 Till:           Individ & Familjeomsorg; Kultur & Fritid
 Ämne:           Begäran om yttrande - Betänkande från Narkotikautredningen (KS 2024-
@@ -46869,7 +46869,7 @@ Registrator
 Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 1060 -->
 
@@ -46981,7 +46981,7 @@ förvaltningen behandlar personuppgifter. Det har också inkommit en (1) begära
 av behandling.
 
 1 DSO årsrapport 2023, 2023-01-09, dnr KS 2023-00867
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 1063 -->
 
@@ -47166,7 +47166,7 @@ Med mästerskap eller större framgång räknas:
 
 Med vinst som avser innevarande år
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 1068 -->
 
@@ -47190,7 +47190,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -47300,7 +47300,7 @@ Prissumman förväntas användas till vidareutveckling inom pristagarens område
 
 Priset finansieras och delas ut på uppdrag av nämnden för Kultur & Fritid.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 1072 -->
 
@@ -47309,7 +47309,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -47416,7 +47416,7 @@ nomineringsperioden.
 Nämnden för Kultur & Fritid ansvarar för att bereda och besluta om vem som ska tilldelas priset. Beredning
 och beslut hålls hemligt till dess att Kultur & Fritids prisceremoni äger rum.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 1076 -->
 
@@ -47431,7 +47431,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, KS Dnr 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -47537,7 +47537,7 @@ plats, datum.
 Nämnden för Kultur & Fritid ansvarar för att bereda och besluta om vem som ska tilldelas priset. Beredning
 och beslut hålls hemligt till dess att Kultur & Fritids prisceremoni äger rum.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 1080 -->
 
@@ -47552,7 +47552,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -47769,7 +47769,7 @@ Beredning och beslut hålls hemligt till dess att Kultur & Fritids prisceremoni 
 Övriga villkor
 Stipendiet utgår med 10 000 kronor och utdelas i samband med att den ideella ledaren uppmärksammas.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 1086 -->
 
@@ -47778,7 +47778,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -47873,7 +47873,7 @@ innehålla:
 • Telefonnummer och/eller e-postadress
 • CV med uppgifter om insatser och erfarenheter inom idrotten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 1089 -->
 
@@ -47897,7 +47897,7 @@ Beslutad av: Kommunfullmäktige 7 september 2021 § 115, Dnr KS 2021-
 Gäller från: 7 september 2021
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -48164,7 +48164,7 @@ se hitta gemensamma förutsättningar för att starta upp ett aktivitetshus med 
 Kungsbacka kommun                                         Kungsbacka kommun
 434 81 Kungsbacka
 Marie Persson
-0706-447515                                                   Besöksadress
+(mobilnummer borttaget)                                                   Besöksadress
 Verksamhetschef                                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

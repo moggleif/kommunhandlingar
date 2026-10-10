@@ -104,7 +104,7 @@ Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan - Kungsbacka
 kommun, du hittar den även på www.kungsbacka.se, sök på aktuella
 projekt.
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81
 Kungsbacka.
@@ -118,7 +118,7 @@ samt kl 18 i Kungsbacka Live. Ingen föranmälan krävs.
 Vid frågor om aktuellt planförslag är du välkommen att kontakta ansvarig
 
 planarkitekt Magnus Björned på 0300-83 45 87 alternativt via mail till
-magnus.bjorned@kungsbacka.se.
+(e-post borttagen).
 
 Skanna qr-koden med
 din mobilkamera för att
@@ -127,8 +127,8 @@ hemsida!
 
 Illustration över Kungsbackas framtida arena. (Semrén+Månsson, Hille Melbye arkitekter)
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -225,7 +225,7 @@ Nu kan du lämna synpunkter på förslaget. Senast 25 februari 2025 vill vi ha d
 synpunkter.
 Svara helst via vår e-tjänst: www.kungsbacka.se/aktuellaprojekt
 
-Du kan även svara via e-post: samhallsbyggnadskontoret@kungsbacka.se
+Du kan även svara via e-post: (e-post borttagen)
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81 Kungsbacka
 
 K
@@ -373,7 +373,7 @@ Frillesås
 Kontaktuppgifter
 
 Stina Wikström, planarkitekt Anna Wibling, exploateringsingenjör
-stina.wikstrom@kungsbacka.se anna.wibling@kungsbacka.se
+(e-post borttagen) (e-post borttagen)
 
 Detaljplaneprocessen
 Arbetet med att göra en ny detaljplan är styrt av Plan- och bygglagen för att alla som påverkas ska
@@ -489,11 +489,11 @@ Beslutad av:    Kommunfullmäktige 4 april 2023 § 46, KS 2022-00291
 
 Gäller från:    2023-04-04
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 11 -->
 
@@ -1417,6 +1417,6 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   service@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting

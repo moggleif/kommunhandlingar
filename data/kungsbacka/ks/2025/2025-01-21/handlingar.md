@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Besöksadress
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Storgatan 37, Stadshuset
 www.kungsbacka.se
 
@@ -281,7 +281,7 @@ Kommundirektör                     Biträdande kommundirektör
 Kommunledningskontoret                                    Kungsbacka kommun
 434 81 Kungsbacka
 Malin Larsson
-0734-344265                                                  Besöksadress
+(mobilnummer borttaget)                                                  Besöksadress
 Controller                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1823,7 +1823,7 @@ förslag till ett eller flera styrdokument för klädkoder.
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Jesper Edlind
-jesper.edlind@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 0300–83 42 34                                            Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -2416,7 +2416,7 @@ alla anställda inklusive enhetschefer och vissa verksamhetschefer.
 KLK HR                                                    Kungsbacka kommun
 434 81 Kungsbacka
 Ulrica Furby
-0729953394                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -2581,7 +2581,7 @@ Handlingsplan
 
 Kungsbacka       kommun      2024
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 67 -->
 
@@ -6139,8 +6139,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #143876 | Inskickat av: Ingvar Datum: 2024-09-20 11:21 Sida 1 av 4
 
@@ -6170,8 +6170,8 @@ Fastighetsbeteckning              Fastighetens adress
 
 Särö 1:325
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #143876 | Inskickat av: | Datum: 2024-09-20 11:21 Sida 2 av 4
 
@@ -6661,8 +6661,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #163409 | Inskickat av: | Datum: 2024-10-02 21:45 Sida 1 av 3
 
@@ -6711,8 +6711,8 @@ Vill du bifoga en situationskarta?
 
 Ja
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #163409 | Inskickat av: | Datum: 2024-10-02 21:45 Sida 2 av 3
 
@@ -6728,8 +6728,8 @@ Bifogar du en beskrivning om varför du begär planbesked?
 
 Nej, jag har gjort min beskrivning i e-tjänsten
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #163409 | Inskickat av: | Datum: 2024-10-02 21:45 Sida 3 av 3
 
@@ -6932,7 +6932,7 @@ Nämnden för Miljö & hälsoskydd
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -7162,7 +7162,7 @@ kommunala avfallsuppdraget.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se«OrgEpost»
+(e-post borttagen)«OrgEpost»
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7321,7 +7321,7 @@ uppdraget på ett effektivt sätt. En kommentar är att undantaget från FNI bli
 1 (2)
 Nämnden för Teknik                                        Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -9154,7 +9154,7 @@ Avfallstransportör Ej utsedd ännu, anges innan arbete påbörjas
 Organisationsnummer
 Avfallsmottagare Ej utsedd ännu, anges innan arbete påbörjas
 Miljökontrollant Kodeda Konsulter
-Kontaktperson / tel Camilla Jenefeldt / 0708-537700
+Kontaktperson / tel Camilla Jenefeldt / (mobilnummer borttaget)
 Bakgrund
 
 Områdesbeskrivning, historisk bakgrund, mm. framgår av rapport Översiktlig miljöteknisk
@@ -10626,7 +10626,7 @@ Socken: Kungsbacka
 Adress
 
 Adress
-Guldgubbegatan 2
+(adress borttagen)
 434 33 Kungsbacka
 
 Klovstensvägen 1-3, 9
@@ -11364,10 +11364,10 @@ Taxeringsvärde
 Taxeringsår Taxeringsvärde
 2022 422.000 SEK
 Taxerad Ägare Andel Juridisk form Ägandetyp
-620430-8255 1/1 Fysisk person Ägare till byggnad å
+(personnummer borttaget) 1/1 Fysisk person Ägare till byggnad å
 
 Vurucu, Orhan
-Termometergatan 10
+(adress borttagen)
 418 41 Göteborg
 
 Taxeringsenhet
@@ -11468,7 +11468,7 @@ Taxerad Ägare Andel Juridisk form Ägandetyp
 559233-9914 1/1 Aktiebolag Ägare till byggnad å
 
 On Tower Sweden AB
-Solna Strandväg 84
+Solna (adress borttagen)
 171 54 Solna
 
 Taxeringsenhet
@@ -11986,11 +11986,11 @@ Beslutad av:    Kommunfullmäktige 12 december 2024 § xxx, KS-2024-00745,
 förslag 2024-12-09
 Gäller från:    [Klicka eller tryck här för att ange datum]
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 264 -->
 
@@ -12558,11 +12558,11 @@ Beslutad av:    Kommunfullmäktige 13 april 2021 § 68, Dnr KS 2020-01064
 
 Gäller från:    2021-04-13
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 276 -->
 

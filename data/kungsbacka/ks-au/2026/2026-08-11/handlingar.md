@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -443,7 +443,7 @@ Denna taxa är beslutad med stöd av avgiftslagen (1957:259) som ger
 kommunen rätt att ta ut avgifter för användning av offentlig plats som
 står under kommunens förvaltning.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 12 -->
 
@@ -606,7 +606,7 @@ Beslutad av: Kommunfullmäktige 2026-MM-DD § xx, KS 2026-00123
 Gäller från: 1 januari 2027
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -636,7 +636,7 @@ Denna taxa är beslutad med stöd av avgiftslagen (1957:259) som ger
 kommunen rätt att ta ut avgifter för användning av offentlig plats som
 står under kommunens förvaltning.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 17 -->
 
@@ -818,7 +818,7 @@ Beslutad av: Kommunfullmäktige 2026-MM-DD § xx, KS 2026-00123
 Gäller från: 1 januari 2027
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -928,11 +928,11 @@ Beslutad av:    Kommunfullmäktige 7 maj 2024 § 82, Dnr KS 2022-00696
 
 Giltigt från:   2024-05-07
 Ansvarig förvaltning: Förvaltningen för Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 25 -->
 
@@ -1110,7 +1110,7 @@ Giltighetstid alt B: Tillståndet gäller under hel säsong
 Tillståndet är giltigt för uppställning på angivna platser i mån av plats. Sökande erhåller ett digitalt tillstånd.
 Tillståndet ger i övrigt inte rätt att bryta mot gällande trafik- och parkeringsregler. Om det finns behov av att
 uppställa/parkera eller framföra fordon på platser eller tider utöver vad som ovan anges ska en
-dispensansökan skickas in till teknik@kungsbacka.se senast tre veckor i förväg. För att ansökan ska
+dispensansökan skickas in till (e-post borttagen) senast tre veckor i förväg. För att ansökan ska
 behandlas ska sökande bifoga registerutdrag från Skatteverket F-skattesedel samt registreringsnummer på
 fordonet. Innan verksamheten påbörjas ska företaget vara registrerat som livsmedelsanläggning.
 
@@ -1130,7 +1130,7 @@ Giltighetstid A: Tillstånd 1 månad, 500 kr.
 
 Giltighetstid B: Tillstånd hel sommarsäsong (7 månader), 3500 kr.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 30 -->
 
@@ -1188,7 +1188,7 @@ Den som driver ett företag måste enligt lag ha ett avfallsabonnemang på hush�
 Hushållsavfall är det avfall som uppkommer i sopkorgar och på toaletter. Det finns olika abonnemang för
 sorterat och osorterat avfall. Vatten och avlopp. Ingen anslutning till allmän VA-anläggning får ske. Inget
 fett får slängas i gatubrunnar. För mer information om hantering av avfall och vatten kontakta:
-info@Kungsbacka.se
+(e-post borttagen)
 
 Riktlinjer för foodt rucks och matvagnar Sida 2 av 4
 
@@ -1206,7 +1206,7 @@ Beslutad av: Nämnden för Teknik 2021-04-21 §45
 Gäller från: 26 04 2021
 Ansvarig förvaltning: Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -10835,7 +10835,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Raquel Sandblad – samhällsplanerare
 Besöksadress
-raquel.sandblad@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -13278,7 +13278,7 @@ stenmurar skyddas för att bevara platsens natur- och kulturvärden.
 1 (2)
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 Raquel Sandblad - samhällsplanerare                        434 81 Kungsbacka
-raquel.sandblad@kungsbacka.se                                 Besöksadress
+(e-post borttagen)                                 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -13394,7 +13394,7 @@ kommuns översiktsplanering (beslutad i kommunfullmäktige 2024-06-18
 § 98).
 
 POSTADRESS   BESÖKSADRESS TELEFON      ORGANISATIONSNUMMER E-POSTADRESS
-Varbergs kommun Norra Vallgatan 14 0340-880 00 212000-1249 bn@varberg.se
+Varbergs kommun Norra Vallgatan 14 0340-880 00 212000-1249 (e-post borttagen)
 432 80 Varberg Varberg                                WEBBPLATS
 varberg.se
 
@@ -13420,7 +13420,7 @@ efternamn, adress, postnummer och ort. För fastighetsägare även
 fastighetsbeteckning. Synpunkter lämnas till byggnadsnämnden på något
 av följande sätt:
 
-E-post: bn@varberg.se
+E-post: (e-post borttagen)
 Webbplats: www.varberg.se - Pågående detaljplaner och program
 Postadress: Byggnadsnämnden, Varbergs kommun, 432 80 Varberg
 
@@ -13431,9 +13431,9 @@ Du är också välkommen att delta i ett offentligt möte den 2 juni 2026 kl.
 Stråvalla.
 
 Du kan kontakta handläggare Ebba Nilsson Lövehed på mejladress
-ebba.nilsson.lovehed@varberg.se eller på telefonnummer 0340–886 47 för
+(e-post borttagen) eller på telefonnummer 0340–886 47 för
 att ställa frågor kring förslaget. Du kan även kontakta handläggare Lena
-Alström på mejadress lena.alstrom@varberg.se eller telefonnummer 0340-
+Alström på mejadress (e-post borttagen) eller telefonnummer 0340-
 881 16 eller Varberg Direkt på telefonnummer 0340–88 000.
 
 Om du inte senast under granskningstiden har lämnat någon skriftlig
@@ -13492,7 +13492,7 @@ förvaltning                                               Kungsbacka kommun
 Anna Hamrin
 Controller                                                    Besöksadress
 Stadshuset, Storgatan 37
-anna.hamrin@kungsbacka.se
+(e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 

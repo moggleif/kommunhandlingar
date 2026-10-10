@@ -39,7 +39,7 @@ Lokal: Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -119,7 +119,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -341,7 +341,7 @@ utökning av barnantal
 Förslag till beslut
 
 Nämnden för Förskola & Grundskola godkänner ansökan från Personalkooperativet Hagen Ekonomisk
-förening, Mariedalsvägen 2, 439 30 Onsala, om permanent utökning till totalt 54 barn.
+förening, (adress borttagen), 439 30 Onsala, om permanent utökning till totalt 54 barn.
 
 Sammanfattning av ärendet
 
@@ -461,8 +461,8 @@ Uppgifter om företaget
 Hämta delar av mina företagsuppgifter från Bolagsverket, SCB och Skatteverket. (Kräver att du
 är registrerad ägare).
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #204132 | Inskickat av: Lena Tenlén | Datum: 2025-05-20 11:02 Sida 1 av 4
 
@@ -498,7 +498,7 @@ ledamöterna
 Kontaktuppgifter
 
 Företagets telefonnummer
-0721819197
+(mobilnummer borttaget)
 
 Namn på den enhet som tillsynen gäller
 Personalkooperativet Förskolan Hagen
@@ -511,8 +511,8 @@ Ange godkänt antal platser idag   Ange lokalens kvadratmeter (kvm)
 Ange kvadratmeter yta som barnen får nyttja Ange barnens tillgängliga friyta utomhus
 ca 634                            3368
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #204132 | Inskickat av: Lena Tenlén | Datum: 2025-05-20 11:02 Sida 2 av 4
 
@@ -555,8 +555,8 @@ Ritning Hagen (1).pdf med markeringar och text.pdf (535 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #204132 | Inskickat av: Lena Tenlén | Datum: 2025-05-20 11:02 Sida 3 av 4
 
@@ -569,8 +569,8 @@ Ritning Hagen 2.pdf (1,75 MB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #204132 | Inskickat av: Lena Tenlén | Datum: 2025-05-20 11:02 Sida 4 av 4
 
@@ -748,7 +748,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)

@@ -269,7 +269,7 @@ Denna nya version av dokumentet innebär en uppdatering utifrån nya begrepp i V
 2023 och ett förtydligande avseende att inköp och övertagande av LTA-stationer är nödvändiga åtgärder vid
 övertagande av VA-anläggning och därigenom påverkar ersättningen till VA-föreningen.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 7 -->
 
@@ -419,7 +419,7 @@ Beslutad av: Nämnden för Teknik § 127 Dnr TE-2023-00916
 Gäller från: 2023-11-15
 Ansvarig förvaltning: Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -526,7 +526,7 @@ VA-anläggningen. VA-föreningen har erbjudits möjligheten att fortsätta äga 
 VA-anläggningen som en samfällighetsförening under förutsättning att de två fastigheterna i
 området som idag inte är medlemmar ansluter sig till VA-föreningen med delägande i Lerberg
 
-Förvaltningen för Teknik, Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Förvaltningen för Teknik, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 14 -->
 

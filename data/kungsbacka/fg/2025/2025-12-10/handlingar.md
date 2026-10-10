@@ -39,7 +39,7 @@ Plats: Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -83,7 +83,7 @@ KUNGSBACKA  KOMMUN
 | 11. | Intern kontrollplan 2026<br>Kl 18:40-19:05<br>Frida Byrsten, verksamhetschef | FG-2025-00716 | Nämnden för Förskola & Grundskola godkänner<br>internkontrollplan 2026. |
 | 12. | Samverkansavtal för förskola<br>och pedagogisk omsorg i<br>Göteborgsregionen 2026-01-01<br>- 2029-12-31<br>Kl 19:05-19:15<br>Frida Byrsten, verksamhetschef | FG-2025-00585 | Nämnden för Förskola & Grundskola ställer sig<br>bakom Samverkansavtal för förskola och<br>pedagogisk omsorg i Göteborgsregionen 2026-<br>2029 och överlämnar detta som sitt yttrande till<br>kommunstyrelsen. |
 | 13. | Ansökan om godkännande av<br>fristående pedagogisk omsorg<br>med anledning av<br>verksamhetsförändring - Ek o<br>lek barnomsorg AB | FG-2025-00591 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ek o lek barnomsorg AB med en ny<br>dagbarnvårdare på Friskmans lycka 11, 439 63<br>Frillesås. Godkännandet omfattar 6 barn. Har<br>verksamheten inte startat inom två år behöver<br>den enskilde ansöka om nytt godkännande. |
-| 14. | Ansökan från<br>Föräldrakooperativet<br>Karamellen ekonomisk förening<br>gällande permanent utökning av<br>barnantal | FG-2025-00683 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Karamellen ekonomisk förening,<br>Kumlabacken 7, 439 53 Åsa, om permanent<br>utökning till totalt 20 barn. |
+| 14. | Ansökan från<br>Föräldrakooperativet<br>Karamellen ekonomisk förening<br>gällande permanent utökning av<br>barnantal | FG-2025-00683 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Karamellen ekonomisk förening,<br>(adress borttagen), 439 53 Åsa, om permanent<br>utökning till totalt 20 barn. |
 | 15. | Namnförslag Allmogevägens<br>förskola | FG-2025-00710 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Resursskolan Ängen för den nya<br>resursskolan i Kungsbacka kommun. |
 | 16. | Namnförslag Resursskolan<br>Ängen | FG-2025-00709 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Resursskolan Ängen för den nya<br>resursskolan i Kungsbacka kommun. |
 
@@ -990,7 +990,7 @@ säga det liggande förslaget och att nämnden för Förskola & Grundskola bifal
 Beslutet skickas till
 
 Ek o lek barnsomsorg AB
-Gamla Riksvägen 81C, 428 38 Kållered
+Gamla (adress borttagen), 428 38 Kållered
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
@@ -1009,7 +1009,7 @@ gällande permanent utökning av barnantal
 
 Beslut
 Nämnden för Förskola & Grundskola godkänner ansökan från Karamellen
-ekonomisk förening, Kumlabacken 7, 439 53 Åsa, om permanent utökning till totalt
+ekonomisk förening, (adress borttagen), 439 53 Åsa, om permanent utökning till totalt
 20 barn.
 
 Sammanfattning av ärendet
@@ -1301,7 +1301,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1514,7 +1514,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -4471,7 +4471,7 @@ Datum             Diarienummer
 2025-06-24        ATN-2025-00009
 Avdelning Utbildning
 Theresa Björnström,
-theresa.bjornstrom@goteborgsregionen.se
+(e-post borttagen)
 Antagningsnämnden
 
 Interkommunal      ersättning   inom  förskola,
@@ -5580,7 +5580,7 @@ I skollagen framgår att när en elev byter skola ska den lämnande skolenheten 
 den mottagande skolenheten överlämna sådana uppgifter om eleven som behövs
 för att underlätta övergången för eleven. Detta gäller både elev som övergår från en
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 143 -->
 
@@ -5947,7 +5947,7 @@ Datum             Diarienummer
 2025-05-22        ATN-2025-00021
 Avdelning Utbildning
 Theresa Björnström,
-theresa.bjornstrom@goteborgsregionen.se
+(e-post borttagen)
 Antagningsnämnden
 
 Samverkansavtal      för förskola  och
@@ -6000,7 +6000,7 @@ Datum
 2025-08-21
 Avdelning Stab och Konferens
 Therese Tanner, förbundssekreterare Diarienummer
-therese.tanner@goteborgsregionen.se GRFS-2025-00123
+(e-post borttagen) GRFS-2025-00123
 Förbundsstyrelsen
 
 Samverkansavtal      för förskola  och
@@ -6495,7 +6495,7 @@ Delegationsbeslut, 2017-12-07
 Beslutet skickas till
 
 Ek o lek barnsomsorg AB
-Gamla Riksvägen 81C, 428 38 Kållered
+Gamla (adress borttagen), 428 38 Kållered
 
 1 (3)
 Kungsbacka kommun
@@ -6717,7 +6717,7 @@ Antal egna barn i verksamhet av totalt antal barn
 
 Adress där verksamheten bedrivs ange adress, postnummer, ort samt i förekommande fall våning i flerfamiljshus
 
-Nordgårdsvägen 103, 429 34 Kullavik
+(adress borttagen), 429 34 Kullavik
 
 Familjedaghem 3
 
@@ -6827,7 +6827,7 @@ vill säga det liggande förslaget och att arbetsutskottet bifaller det.
 Beslutet skickas till
 
 Ek o lek barnsomsorg AB
-Gamla Riksvägen 81C, 428 38 Kållered
+Gamla (adress borttagen), 428 38 Kållered
 
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 0E6D86CAD35547FB66C87495358E511D0A48AE180A
@@ -6846,7 +6846,7 @@ Ansökan från Föräldrakooperativet Karamellen ekonomisk förening gällande
 permanent utökning av barnantal
 
 Nämnden för Förskola & Grundskola godkänner ansökan från Karamellen ekonomisk förening,
-Kumlabacken 7, 439 53 Åsa, om permanent utökning till totalt 20 barn.
+(adress borttagen), 439 53 Åsa, om permanent utökning till totalt 20 barn.
 
 Sammanfattning av ärendet
 Karamellen ekonomisk förening har inkommit med en ansökan om utökning av barnantal på förskolan
@@ -6965,8 +6965,8 @@ Uppgifter om företaget
 Hämta delar av mina företagsuppgifter från Bolagsverket, SCB och Skatteverket. (Kräver att du
 är registrerad ägare).
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #235984 | Inskickat av: Anna Josefine Grundius | Datum: 2025-10-24 16:09 Sida 1 av 3
 
@@ -7014,8 +7014,8 @@ Ange godkänt antal platser idag   Ange lokalens kvadratmeter (kvm)
 Ange kvadratmeter yta som barnen får nyttja Ange barnens tillgängliga friyta utomhus
 163                               1800
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #235984 | Inskickat av: Anna Josefine Grundius | Datum: 2025-10-24 16:09 Sida 2 av 3
 
@@ -7064,8 +7064,8 @@ Barnkonsekvensanalys_20 barn i barngruppen.docx (44 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #235984 | Inskickat av: Anna Josefine Grundius | Datum: 2025-10-24 16:09 Sida 3 av 3
 
@@ -7082,7 +7082,7 @@ gällande permanent utökning av barnantal
 
 Förslag till beslut
 Nämnden för Förskola & Grundskola godkänner ansökan från Karamellen
-ekonomisk förening, Kumlabacken 7, 439 53 Åsa, om permanent utökning till totalt
+ekonomisk förening, (adress borttagen), 439 53 Åsa, om permanent utökning till totalt
 20 barn.
 
 Sammanfattning av ärendet
@@ -7165,7 +7165,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 434 81 Kungsbacka
 Kungsbacka Kommun
 Besöksadress
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -7275,7 +7275,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 434 81 Kungsbacka
 Kungsbacka Kommun
 Besöksadress
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -7521,7 +7521,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 190 -->
 

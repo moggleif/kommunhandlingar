@@ -80,7 +80,7 @@ dataskydd            delårsberättelse                2026
 
 Diarienummer        VO-2026-00240
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 3 -->
 
@@ -368,7 +368,7 @@ Nämnden         för   Vård    &   Omsorg
 
 Diarienummer     VO-2026-00239
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 10 -->
 
@@ -1987,7 +1987,7 @@ stämmer, meddelar avvikelser och returnerar rapporteringsunderlagen, med skrift
 uppgifterna stämmer. Rapporteringsunderlagen ska skickas in månadsvis.
 
 I Kungsbacka kommun tillämpas e-fakturering. Service direkt på Kungsbacka kommun bistår med råd och
-handledning i e-fakturering, servicedirekt@kungsbacka.se.
+handledning i e-fakturering, (e-post borttagen).
 
 Elektroniska fakturor till Vård & Omsorg ska skickas till:
 
@@ -3568,14 +3568,14 @@ bakgrundskontroller)?
 
 Tidplan
 Vi ber er inkomma med underlaget senast 31 aug 2026.
-Svarsadress: regionen@regionhalland.se
+Svarsadress: (e-post borttagen)
 
 Befintliga riktlinjer eller mallar får gärna bifogas
 Underlagen kommer att sammanställas av Regionkontoret i Region Halland och
 återredovisas till GNHH.
 
 Kontakt
-Vid frågor, kontakta: sandra.s.johansson@regionhalland.se
+Vid frågor, kontakta: (e-post borttagen)
 
 Tack på förhand!
 

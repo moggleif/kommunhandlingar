@@ -77,7 +77,7 @@ Dataskyddsarbete        2025
 2025-12-04
 BN-2025-00285
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 3 -->
 
@@ -3131,7 +3131,7 @@ YTTRANDE
 
 Nämnden för Teknik                                               Datum
 
-teknik@kungsbacka.se                                         2026-01-09
+(e-post borttagen)                                         2026-01-09
 Dnr
 2025-00297
 
@@ -3200,7 +3200,7 @@ m
 Stadshuset, Storgatan 37
 roF
 inu                                                                 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 72 -->
@@ -3304,7 +3304,7 @@ Kungsbacka kommun föreskriver följande med stöd av förordningen (1993:1632) 
 
 kommuner och länsstyrelser att meddela lokala föreskrifter enligt ordningslagen (1993:1617).
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 75 -->
 
@@ -3595,7 +3595,7 @@ Beslutad av: Kommunfullmäktige 4 februari 2020 § 8, Länsstyrelsens beslut
 Gäller från och med: §§ 1-14, 16-22 från 1 april 2020,
 
 Ansvarig nämnd: Nämnden för Teknik
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -3969,10 +3969,10 @@ Diarienummer KS-2021-00532
 Påbörjad 2024-11-26
 
 Upprättad 2026-01-20
-Handläggare: Emma Johansson, planarkitekt emma.johansson@kungsbacka.se, 0300–83 40
+Handläggare: Emma Johansson, planarkitekt (e-post borttagen), 0300–83 40
 19
 
-Handläggare: Mikaela Ropel, exploateringsingenjör, mikaela.ropel@kungsbacka.se, 0300 83
+Handläggare: Mikaela Ropel, exploateringsingenjör, (e-post borttagen), 0300 83
 40 34
 Detaljplanen är upprättad med standardförfarande enligt PBL 2010:900 samt Boverkets
 

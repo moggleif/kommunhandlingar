@@ -73,7 +73,7 @@ Direkt: 010-123 44 13
 
 Trafikverket           Texttelefon: 010-123 50 00
 Box 810                Telefon: 0771 - 921 921
-781 28 Borlänge        trafikverket@trafikverket.se
+781 28 Borlänge        (e-post borttagen)
 www.trafikverket.se
 
 <!-- sida 2 -->
@@ -94,7 +94,7 @@ Dokumentegenskaper, Ärendenummer TRV 2025/142310, Motpartens ärendenummer 2025
 
 Trafikverket           Texttelefon: 010-123 50 00
 Box 810                Telefon: 0771 - 921 921
-781 28 Borlänge        trafikverket@trafikverket.se
+781 28 Borlänge        (e-post borttagen)
 www.trafikverket.se
 
 <!-- sida 3 -->
@@ -148,8 +148,8 @@ tunneln finns det även flera gång- och cykelvänliga stråk i samhället kring
 
 Trafikverket         Texttelefon: 010-123 50 00 Jenny Julin
 Box 810              Telefon: 0771 - 921 921  Trafikmiljö
-781 28 Borlänge      trafikverket@trafikverket.se Direkt: 010-123 92 09
-Besöksadress: Vikingsgatan 2-4, www.trafikverket.se jenny.julin@trafikverket.se
+781 28 Borlänge      (e-post borttagen) Direkt: 010-123 92 09
+Besöksadress: Vikingsgatan 2-4, www.trafikverket.se (e-post borttagen)
 Göteborg
 
 <!-- sida 4 -->
@@ -184,8 +184,8 @@ Gåsevadholmsvägen på ett säkert sätt.
 
 Trafikverket         Texttelefon: 010-123 50 00 Jenny Julin
 Box 810              Telefon: 0771 - 921 921  Trafikmiljö
-781 28 Borlänge      trafikverket@trafikverket.se Direkt: 010-123 92 09
-Besöksadress: Vikingsgatan 2-4, www.trafikverket.se jenny.julin@trafikverket.se
+781 28 Borlänge      (e-post borttagen) Direkt: 010-123 92 09
+Besöksadress: Vikingsgatan 2-4, www.trafikverket.se (e-post borttagen)
 Göteborg
 
 <!-- sida 5 -->
@@ -204,8 +204,8 @@ Trafikingenjör
 
 Trafikverket         Texttelefon: 010-123 50 00 Jenny Julin
 Box 810              Telefon: 0771 - 921 921  Trafikmiljö
-781 28 Borlänge      trafikverket@trafikverket.se Direkt: 010-123 92 09
-Besöksadress: Vikingsgatan 2-4, www.trafikverket.se jenny.julin@trafikverket.se
+781 28 Borlänge      (e-post borttagen) Direkt: 010-123 92 09
+Besöksadress: Vikingsgatan 2-4, www.trafikverket.se (e-post borttagen)
 Göteborg
 
 <!-- sida 6 -->
@@ -251,7 +251,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -360,7 +360,7 @@ Transaktionsidentitet: C5CE062E73FAC4CE0F5EE250A0437B465A31F23C25
 
 <!-- sida 11 -->
 
-Från:           elliot.brandeby@trafikverket.se
+Från:           (e-post borttagen)
 Skickat:        den 21 januari 2026 08:59
 Till:           Teknik
 Ämne:           Yttrande i ärende 2025-00817
@@ -415,7 +415,7 @@ Med vänliga hälsningar
 Elliot Brandeby
 Trafikingenjör
 
-elliot.brandeby@trafikverket.se
+(e-post borttagen)
 Direkt: 010-1234413
 
 Västra regionen
@@ -432,7 +432,7 @@ Diarienummer
 2248-2026
 
 Nämnden för Teknik
-teknik@kungsbacka.se
+(e-post borttagen)
 
 Angående    Kungsbacka   kommuns     beslut  om  lokal
 
@@ -450,7 +450,7 @@ Bilaga
 
 Överklagan, hk 2
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 14 -->
@@ -503,7 +503,7 @@ Direkt: 010-123 44 13
 
 Trafikverket           Texttelefon: 010-123 50 00
 Box 810                Telefon: 0771 - 921 921
-781 28 Borlänge        trafikverket@trafikverket.se
+781 28 Borlänge        (e-post borttagen)
 www.trafikverket.se
 
 <!-- sida 15 -->
@@ -524,7 +524,7 @@ Dokumentegenskaper, Ärendenummer TRV 2025/142310, Motpartens ärendenummer 2025
 
 Trafikverket           Texttelefon: 010-123 50 00
 Box 810                Telefon: 0771 - 921 921
-781 28 Borlänge        trafikverket@trafikverket.se
+781 28 Borlänge        (e-post borttagen)
 www.trafikverket.se
 
 <!-- sida 16 -->
@@ -578,8 +578,8 @@ tunneln finns det även flera gång- och cykelvänliga stråk i samhället kring
 
 Trafikverket         Texttelefon: 010-123 50 00 Jenny Julin
 Box 810              Telefon: 0771 - 921 921  Trafikmiljö
-781 28 Borlänge      trafikverket@trafikverket.se Direkt: 010-123 92 09
-Besöksadress: Vikingsgatan 2-4, www.trafikverket.se jenny.julin@trafikverket.se
+781 28 Borlänge      (e-post borttagen) Direkt: 010-123 92 09
+Besöksadress: Vikingsgatan 2-4, www.trafikverket.se (e-post borttagen)
 Göteborg
 
 <!-- sida 17 -->
@@ -614,8 +614,8 @@ Gåsevadholmsvägen på ett säkert sätt.
 
 Trafikverket         Texttelefon: 010-123 50 00 Jenny Julin
 Box 810              Telefon: 0771 - 921 921  Trafikmiljö
-781 28 Borlänge      trafikverket@trafikverket.se Direkt: 010-123 92 09
-Besöksadress: Vikingsgatan 2-4, www.trafikverket.se jenny.julin@trafikverket.se
+781 28 Borlänge      (e-post borttagen) Direkt: 010-123 92 09
+Besöksadress: Vikingsgatan 2-4, www.trafikverket.se (e-post borttagen)
 Göteborg
 
 <!-- sida 18 -->
@@ -634,8 +634,8 @@ Trafikingenjör
 
 Trafikverket         Texttelefon: 010-123 50 00 Jenny Julin
 Box 810              Telefon: 0771 - 921 921  Trafikmiljö
-781 28 Borlänge      trafikverket@trafikverket.se Direkt: 010-123 92 09
-Besöksadress: Vikingsgatan 2-4, www.trafikverket.se jenny.julin@trafikverket.se
+781 28 Borlänge      (e-post borttagen) Direkt: 010-123 92 09
+Besöksadress: Vikingsgatan 2-4, www.trafikverket.se (e-post borttagen)
 Göteborg
 
 <!-- sida 19 -->
@@ -690,7 +690,7 @@ Måvägen och Sanders väg. Arbetsutskottet delar bedömningen att
 
 en sänkt hastighetsbegränsning riskerar att inte efterlevas fullt ut.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 20 -->
@@ -908,9 +908,9 @@ skrifter.
 Sändlista
 
 Trafikverket västra regionen, (TRV 2025/142310);
-trafikverket@trafikverket.se
+(e-post borttagen)
 Kungsbacka kommun, Nämnden för Tekniks arbetsutskott (1384
-2026:00068); teknik@kungsbacka.se
+2026:00068); (e-post borttagen)
 
 <!-- sida 24 -->
 
@@ -926,7 +926,7 @@ Så här överklagar ni beslutet
 Länsstyrelsen måste pröva att överklagandet har kommit in i rätt tid, innan det
 skickas vidare tillsammans med handlingarna i ärendet. Därför ska ni lämna
 eller skicka er skriftliga överklagan till Länsstyrelsen Hallands län antingen via
-e-post; halland@lansstyrelsen.se, eller med post; Länsstyrelsen Hallands län,
+e-post; (e-post borttagen), eller med post; Länsstyrelsen Hallands län,
 301 86 Halmstad.
 
 Tiden för överklagande
@@ -956,7 +956,7 @@ sitt namn, adress och telefonnummer. Ombudet bör också bifoga en fullmakt.
 
 Behöver ni veta mer?
 Har ni ytterligare frågor kan ni kontakta Länsstyrelsen via e-post,
-halland@lansstyrelsen.se, eller via växeltelefonnummer 010-224 30 00. Ange
+(e-post borttagen), eller via växeltelefonnummer 010-224 30 00. Ange
 diarienummer 2248-2026.
 
 <!-- sida 25 -->
@@ -1036,7 +1036,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -1049,7 +1049,7 @@ Diarienummer
 3207-2026
 
 Transportstyrelsen
-vag@transportstyrelsen.se
+(e-post borttagen)
 
 Överklagande    av Länsstyrelsens   beslut
 
@@ -1077,10 +1077,10 @@ Handlingar i ärende 2248-26
 Kopia:
 
 Kungsbacka kommun, Nämnden för Tekniks arbetsutskott;
-teknik@kungsbacka.se
-Trafikverket västra regionen; trafikverket@trafikverket.se
+(e-post borttagen)
+Trafikverket västra regionen; (e-post borttagen)
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 30 -->
@@ -1121,7 +1121,7 @@ Magnus Sjönnebring
 5 7 0 1 - -
 S
 T    Transportstyrelsen  transportstyrelsen.se    Telefon     0771-503 503
-Väg och järnväg     vag@transportstyrelsen.se Telefax    0243-152 74
+Väg och järnväg     (e-post borttagen) Telefax    0243-152 74
 Box 267, 781 23 Borlänge
 Besöksadress
 Jussi Björlings väg 19, Borlänge
@@ -1132,7 +1132,7 @@ Gåsevadholmsvägen
 
 Konsekvensutredning
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 32 -->
 
@@ -2768,7 +2768,7 @@ lossning att nuvarande reglering inte bedöms behöva kvarstå.
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Hesham Miab
-0733535788                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -2873,7 +2873,7 @@ anlagts är i dagsläget reglerade genom tillfälliga lokala trafikföreskrifter
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

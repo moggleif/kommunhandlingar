@@ -94,11 +94,11 @@ Beslutad av:    Nämnden för Gymnasium & Arbetsmarknad 2026-05-12 § xx
 Gäller från:    2026-05-12
 Ansvarig förvaltning: Gymnasium & Arbetsmarknad
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 3 -->
 
@@ -2914,7 +2914,7 @@ www.kungsbacka.se
 Katrin Löfqvist
 Dataskyddskontakt GA
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 80-1](handlingar.tabeller/80-1.csv)
 
@@ -3050,7 +3050,7 @@ Gymnasie & Vuxenutbildning Kungsbacka kommun
 Aranäsgymnasiet Aranäsgymnasiet
 Besöksadress
 
-Gymnasiegatan 44
+(adress borttagen)
 
 434 42 Kungsbacka
 
@@ -3238,7 +3238,7 @@ redogörelse               för     2025
 
 2026-03-23
 
-Kungsbacka kommun | 0300-83 40 00 | kommunrevision@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 88 -->
 
@@ -3734,7 +3734,7 @@ Huvudman
 Dnr SI 2025:3033
 Praktiska Sverige AB                  Sida 1 (6)
 org.nr 556257-5786
-anna.andersson@academedia.se
+(e-post borttagen)
 
 Ärendet
 
@@ -3952,7 +3952,7 @@ Bilaga:   Överklagande       av  beslut
 Skolinspektionens beslut om återkallelse får överklagas hos allmän
 förvaltningsdomstol. Överklagandet ställs till Förvaltningsrätten i
 Stockholm, men skicka det till Skolinspektionen via e-post
-skolinspektionen@skolinspektionen.se eller post Box 230 69, 104 35
+(e-post borttagen) eller post Box 230 69, 104 35
 Stockholm.
 
 Ange följande i överklagandet:
@@ -4027,7 +4027,7 @@ gymnasieskola i det individuella valet. Dessutom får ämnena läsas som utökat
 Postadress: Box 4002, 171 04 Solna
 Besöksadress: Svetsarvägen 16
 Telefon 08-527 332 00 vx Fax: 08-24 44 20
-skolverket@skolverket.se www.skolverket.se
+(e-post borttagen) www.skolverket.se
 
 <!-- sida 107 -->
 
@@ -4056,7 +4056,7 @@ Skolverkets beslut får enligt 14 kap. 1 § gymnasieförordningen (2010:2039) in
 Postadress: Box 4002, 171 04 Solna
 Besöksadress: Svetsarvägen 16
 Telefon 08-527 332 00 vx Fax: 08-24 44 20
-skolverket@skolverket.se www.skolverket.se
+(e-post borttagen) www.skolverket.se
 
 <!-- sida 108 -->
 
@@ -4116,7 +4116,7 @@ Gymnasie & Vuxenutbildning Kungsbacka kommun
 Aranäsgymnasiet Aranäsgymnasiet
 Besöksadress
 
-Gymnasiegatan 44
+(adress borttagen)
 
 434 42 Kungsbacka
 
@@ -4375,21 +4375,21 @@ Transaktionsidentitet: 39739583FD41AA65DE60580BE23801F5079D4004CB
 
 <!-- sida 114 -->
 
-Från:                  RES-Tillstånd \<tillstand@skolinspektionen.se>
+Från:                  RES-Tillstånd \<(e-post borttagen)>
 Skickat:               den 19 februari 2026 13:00
-Till:                  'info@educ.goteborg.se'; 'grundskola@grundskola.goteborg.se';
-'forskoleforvaltningen@forskola.goteborg.se'; 'kommun@ale.se';
-'kultur.utbildning@alingsas.se'; 'utbildning@harryda.se';
-Gymnasium & Arbetsmarknad; 'kommun@kungalv.se';
-'kommun@lerum.se'; 'kommunen@lillaedet.se';
-'kontakt@molndal.se'; 'kundcenter@partille.se';
-'kommun@stenungsund.se'; 'barn.utbildning@tjorn.se';
-'kommun@ockero.se'
+Till:                  '(e-post borttagen)'; '(e-post borttagen)';
+'(e-post borttagen)'; '(e-post borttagen)';
+'(e-post borttagen)'; '(e-post borttagen)';
+Gymnasium & Arbetsmarknad; '(e-post borttagen)';
+'(e-post borttagen)'; '(e-post borttagen)';
+'(e-post borttagen)'; '(e-post borttagen)';
+'(e-post borttagen)'; '(e-post borttagen)';
+'(e-post borttagen)'
 Kopia:                 'Karin Bolin'
 Ämne:                  Remiss: Dnr: SI 2026:1400 Ansökan från Magelungen Utveckling AB
 Bifogade filer:        Ansökan 2026-1400.pdf
 
-Du får inte ofta e-post från tillstand@skolinspektionen.se. Läs om varför det här är viktigt
+Du får inte ofta e-post från (e-post borttagen). Läs om varför det här är viktigt
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -4469,7 +4469,7 @@ Remissvar
 Kommunens remissvar i form av inscannad kopia på justerat protokoll från beslutande organ ska vara
 Skolinspektionen tillhanda senast den 22 maj 2026.
 
-E-postadress: tillstand@skolinspektionen.se.
+E-postadress: (e-post borttagen).
 
 Vänligen ange ansökans dnr SI 2026:1400 i yttrandet. Avser yttrandet flera ansökningar hos
 Skolinspektionen ska ett yttrande per ansökan skickas in. Varje yttrande ska då vara märkt med aktuell
@@ -5014,7 +5014,7 @@ t
 U                                                                  Fax 0300-83 47 04
 K
 m
-roF                                                          kommunrevision@kungsbacka.se
+roF                                                          (e-post borttagen)
 inu                                                                www.kungsbacka.se
 
 <!-- sida 128 -->

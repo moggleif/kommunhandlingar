@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -124,7 +124,7 @@ dess långsiktiga bevarande.
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -200,7 +200,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -226,12 +226,12 @@ skyddet, avgränsning, föreskrifter samt skötselplan. Förslaget bifogas.
 Förslaget översänds för eventuella synpunkter som ska vara inkomna till Länsstyrelsen
 
 senast 2 september 2024. Yttrandet skickas till Länsstyrelsen, 301 86 Halmstad eller till
-halland@lansstyrelsen.se.
+(e-post borttagen).
 
 Ange ärendets diarienummer 5992–2023 i ditt yttrande.
 
 Om du har frågor eller vill ha ytterligare information om ärendet är du välkommen att
-kontakta Jonas Sundell 010-224 34 22, jonas.sundell@lansstyrelsen.se.
+kontakta Jonas Sundell 010-224 34 22, (e-post borttagen).
 
 Så här hanterar Länsstyrelsen personuppgifter
 
@@ -270,7 +270,7 @@ naturreservat ska utvidgas i vattenområdet enligt karta 1.
 
 Karta 1. Utvidgning av naturreservatet Vallda Sandö.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrePlseang.see /3h aollfa n1d1/p2ersonuppgifter
 
 <!-- sida 11 -->
@@ -1386,7 +1386,7 @@ bevaras
 
 •
 
-Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad Telefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 3
 Page 31 of 112
@@ -2822,7 +2822,7 @@ Karta över planerade och befintliga anordningar för friluftslivet
 <!-- sida 75 -->
 
 Länsstyrelsen i Hallands län • Postadress: 301 86 Halmstad • Besöksadress: Slottsgatan 2
-010- 224 30 00 • halland@lansstyrelsen.se • www.lansstyrelsen.se/halland
+010- 224 30 00 • (e-post borttagen) • www.lansstyrelsen.se/halland
 
 Page 68 of 112
 
@@ -4650,7 +4650,7 @@ sandödla           Lacerta agilis     Grod- och kräldjur 2020
 sandmålla          Atriplex laciniata Kärlväxter     2021
 saltmålla          Halimione pedunculata Kärlväxter  2022
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 Page 110 of 112
 
@@ -4935,7 +4935,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -6836,7 +6836,7 @@ avrinningsområden. Området består av villa-fastigheter och områden med natur
 1 (17)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7501,7 +7501,7 @@ Datum            Diarienummer
 2024-02-27       7557-2023
 
 Kommunstyrelsen Kungsbacka kommun
-kommun@kungsbacka.se
+(e-post borttagen)
 
 Fråga  om  kommunalt    vatten  och  avlopp  (dagvatten)
 
@@ -7546,7 +7546,7 @@ har fått, till vilken förvaltning dessa inkommit, när det
 
 inkommit samt hur kommunen hanterat frågan.
 
-Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: halland@lansstyrelsen.se Webb: lansstyrelsen.se/halland
+Postadress: 301 86 Halmstad T elefon: 010-224 30 00 E-post: (e-post borttagen) Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
 
 <!-- sida 205 -->
@@ -7803,11 +7803,11 @@ Beslutad av:
 
 Gäller från:
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 212 -->
 
@@ -8722,7 +8722,7 @@ Kungsbacka            kommun          2025–2029
 Del 2: Bilagor
 Remissversion
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 235 -->
 
@@ -12872,7 +12872,7 @@ olagligt på det sätt som anges i 13 kap. 8 § kap KL. Det saknas därför för
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -12914,14 +12914,14 @@ lämnas på annat sätt. På www.domstol.se/skickadigitalt finns information om 
 lämna in handlingar digitalt.
 Har ni frågor?
 På webbplatsen finns information om domstolen och om handläggningen. Kontakta oss
-gärna vid frågor – ni når oss via e-post forvaltningsrattenigoteborg@dom.se eller per telefon
+gärna vid frågor – ni når oss via e-post (e-post borttagen) eller per telefon
 031-732 70 00.
 Ewa Malmberg Törner
 Bifogade handlingar: aktbilaga 1-2
 Sida 1 (av 1)
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
 Besöksadress    Öppettider  Postadress     E-post
-Sten Sturegatan 14 måndag–fredag Box 53197 forvaltningsrattenigoteborg@dom.se
+Sten Sturegatan 14 måndag–fredag Box 53197 (e-post borttagen)
 08:00–16:00 400 15 Göteborg
 Telefon                                    Webbplats
 031 - 732 70 00                            www.forvaltningsrattenigoteborg.domstol.se
@@ -14589,7 +14589,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   kommun@kungsbacka.se
+E-post:   (e-post borttagen)
 Hemsida:  www.kungsbacka.se
 
 © Visma Consulting

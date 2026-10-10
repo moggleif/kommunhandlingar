@@ -180,7 +180,7 @@ parkeringsövervakare. Förvaltningen för Teknik ser att det finns möjligheter
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Samordnare                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -231,7 +231,7 @@ Till:             Teknik
 
 Från:
 Skickat: den 5 september 2024 16:26
-Till: Linda Sövgren \<linda.sovgren@kungsbacka.se>
+Till: Linda Sövgren \<(e-post borttagen)>
 Kopia:
 Ämne: Förfrågan o P-förbud på delar av Pölagårdsvägen
 

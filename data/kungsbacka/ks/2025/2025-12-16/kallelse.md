@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Storgatan 37,Stadshuset
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)

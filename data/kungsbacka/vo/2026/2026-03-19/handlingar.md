@@ -202,7 +202,7 @@ Utvecklingsledare  HR                                       Titel
 
 Vård &  Omsorg                                              Förvaltning
 
-Katrin.wiklund@kungsbacka.se                                fornamn.efternamn@kungsbacka.se
+(e-post borttagen)                                (e-post borttagen)
 
 0300  - 83 81 77                                            0300  - 83 XX XX
 
@@ -348,7 +348,7 @@ Utvecklingsledare  HR                                       Titel
 
 Vård &  Omsorg                                              Förvaltning
 
-Katrin.wiklund@kungsbacka.se                                fornamn.efternamn@kungsbacka.se
+(e-post borttagen)                                (e-post borttagen)
 
 0300  - 83 81 77                                            0300  - 83 XX XX
 

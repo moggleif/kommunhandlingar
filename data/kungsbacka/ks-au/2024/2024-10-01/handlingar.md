@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -148,7 +148,7 @@ Ing-Britt Blomberg
 Besöksadress
 Enhetschef Styrning & Ekonomi
 Stadshuset, Storgatan 37
-ing-britt.blomberg@kungsbacka.se
+(e-post borttagen)
 0300-83 50 55                                            Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -833,8 +833,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #133358 | Inskickat av: | Datum: 2024-05-12 12:07 Sida 1 av 4
 
@@ -852,14 +852,14 @@ Postort                           Telefon
 Askim
 
 E-postadress                      Eventuell fakturareferens
-Info@gilu.se
+(e-post borttagen)
 
 Företagets kontaktperson
 
 Förnamn                           Efternamn
 
 Telefon                           E-postadress
-info@gilu.se
+(e-post borttagen)
 
 Är du som skickar begäran ägare till fastigheten eller fastigheterna i begäran?
 
@@ -872,8 +872,8 @@ För vilken eller vilka fastigheter begär du planbesked?
 Fastighetsbeteckning               Fastighetens adress
 Åsa 5:96                           Åsa stationsväg 7
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #133358 | Inskickat av: | Datum: 2024-05-12 12:07 Sida 2 av 4
 
@@ -906,8 +906,8 @@ Alternativ två innefattar endast Åsa 5:96 och då med färre antal lägenheter
 
 yta och sämre möjligheter till allmänna ytor.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #133358 | Inskickat av: Klas Johan Gille | Datum: 2024-05-12 12:07 Sida 3 av 4
 
@@ -938,8 +938,8 @@ Beskrivning
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #133358 | Inskickat av: Klas Johan Gille | Datum: 2024-05-12 12:07 Sida 4 av 4
 
@@ -1253,7 +1253,7 @@ Telefon E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoMkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4141456 | Inskickat a BN |Datum: 2024-06-13 14:55 Sida 1 av4
@@ -1315,7 +1315,7 @@ Kungsbacka Bångsbo 4:1
 
 Fastighetens adress
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoMkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4141456 | Inskickat av BN | Datum: 2024-06-13 14:55 Sida 2 av4
@@ -1350,7 +1350,7 @@ Industri/verksamhet/lager
 
 Y3. Bilagor
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoMkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4141456 | Inskickat a BN |Datum: 2024-06-13 14:55 Sida 3 av4
@@ -1379,7 +1379,7 @@ Du måste bifoga ett medgivande från fastighetsägaren.
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoMkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4141456 | Inskickat av BNI |Datum: 2024-06-13 14:55
@@ -2322,7 +2322,7 @@ Fastighetsbyrån Norra Halland AB
 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungs
 Vallgatan 4 Org nr 556693-1316
 
-Vallgatan 4
+(adress borttagen)
 43430 Kungsbacka
 
 SS
@@ -2620,7 +2620,7 @@ inte rätt överklaga eventuellt avslag om förvärvstillstånd utan särskilt g
 från Säljaren
 
 \$18 Arrende > Jordbruksmarken är upplåten till Stockens Grönsaker AB, 556418-2813,
-Lillestocksvägen 23, 439 63 Frillesås. Skriftligt arrendeavtal bilaga: Jordbruksarrende
+(adress borttagen), 439 63 Frillesås. Skriftligt arrendeavtal bilaga: Jordbruksarrende
 Frillesås-Rya 4:14
 Arrendatorn söker bidrag från Jordbruksverket.
 
@@ -3043,7 +3043,7 @@ het/data
 Kamerabevakning
 
 Swedbank Fastighetsbyrå AB är personuppgiftsansvarig för kamerabevakning av
-huvudkontoret med adress Västra Järnvägsgatan 7, 111 64 STOCKHOLM.
+huvudkontoret med adress Västra (adress borttagen), 111 64 STOCKHOLM.
 Respektive mäklarkontor är personuppgiftsansvarig för sin eventuella kamerabevak-
 ning av kontorslokalen. I syfte att undvika missförstånd är Swedbank Fastighets-
 byrå AB inte personuppgiftsansvarig gemensamt med mäklarkontoren för kamera-
@@ -3179,7 +3179,7 @@ välkommen att kontakta oss på Fastighetsbyrån via integritetOfastighetsbyran.
 Personuppgiftsansvariges kontaktuppgifter:
 Personuppgiftsansvarig är SNEDBANK FASTIGHETSBYRÅ AB
 
-(orgnr. 556090-2115) med besöksadress Västra Järnvägsgatan 7,
+(orgnr. 556090-2115) med besöksadress Västra (adress borttagen),
 
 111 64 STOCKHOLM och postadress Box 644, 101 32 STOCKHOLM,
 Tel: 08-54 54 55 00,
@@ -4711,7 +4711,7 @@ Produktnamn: Gårdsförsäkring Betalningsperiod: Per år
 Vv.  Försäkringstagare A Bonus & rabatter
 =S Namn: Hans Johansson 902 kr
 
-Personnummer: 194904084631
+Personnummer: (personnummer borttaget)
 
 <!-- sida 125 -->
 
@@ -4721,7 +4721,7 @@ bi AGA 5
 
 ENERGIDEKLARATION
 
-Gustafs väg 29, 439 63 Frillesås
+(adress borttagen), 439 63 Frillesås
 
 Kungsbacka kommun
 
@@ -5326,7 +5326,7 @@ kompensation för den utökade administrationen.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -25848,7 +25848,7 @@ Digitala rättshandlingar  på fastighetsrättens
 
 område
 
-Lantmäteriet, TELEFON 0771-63 63 63 E-POST lantmateriet@lm.se WEBBPLATS www.lantmateriet.se
+Lantmäteriet, TELEFON 0771-63 63 63 E-POST (e-post borttagen) WEBBPLATS www.lantmateriet.se
 
 <!-- sida 621 -->
 

@@ -37,7 +37,7 @@ Sammanträde onsdagen den 23 oktober 2024 kl. 17:00
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -168,7 +168,7 @@ Kungsbacka kommuns riktlinjer för informationsförvaltning ska varje myndighet 
 en klassificeringsstruktur som antas av myndigheten. Ändringar ska samrådas med
 arkivmyndigheten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 8 -->
 
@@ -298,11 +298,11 @@ Beslutad av: [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 Ansvarig förvaltning: [Klicka och skriv]
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 17 -->
 
@@ -942,7 +942,7 @@ för  Kungsbacka       kommuns       folk-   och
 
 skolbibliotek
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 33 -->
 
@@ -1028,7 +1028,7 @@ Beslutad av: Kommunfullmäktige 13 april 2021 § 68, Dnr KS 2020-01064
 Gäller från: 13 april 2021
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
 kungsbacka.se
@@ -3498,11 +3498,11 @@ Datum            Namn på funktionsbehovet (Max 30 tecken)
 2024-10-14       Lokal för utlåning av fritidsutrustning
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Marie Persson            marie.persson@kungsbacka.se 0300-83 48 00
+Marie Persson            (e-post borttagen) 0300-83 48 00
 
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Harald Tjelle, Kultur & Fritid harald.tjelle@kungsbacka.se 0300-83 80 96
+Harald Tjelle, Kultur & Fritid (e-post borttagen) 0300-83 80 96
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 
 Verksamhet för utlån av fritidsutrustning har inte startat upp än, men KFT planerar att göra detta under
@@ -3577,7 +3577,7 @@ n
 h a e v te e n r k p s g a a m . h a e tt t d s e k t a i p n e te r m fi a n n n e s n n ta å s g , o s n å l ä ä r m d p e l t i g a v lo s k to al r . v E ik tt t s a å t d t a d n e t t a in v t b e r o b t l t i r s k n u åg ll o e t k l u än n g n r a e s töra
 U K  434 81 Kungsbacka
 0300-83 40 00
-Info@kungsbacka.se                            www.kungsbacka.se
+(e-post borttagen)                            www.kungsbacka.se
 
 <!-- sida 99 -->
 
@@ -3686,11 +3686,11 @@ Datum            Namn på funktionsbehovet (Max 30 tecken)
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Sofia Rosén, Kultur & Demokrati sofia.rosen@kungsbacka.se 0300-83 81 35
+Sofia Rosén, Kultur & Demokrati (e-post borttagen) 0300-83 81 35
 
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Harald Tjelle, Kultur & Fritid harald.tjelle@kungsbacka.se 0300-83 80 96
+Harald Tjelle, Kultur & Fritid (e-post borttagen) 0300-83 80 96
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 
@@ -3964,10 +3964,10 @@ Datum            Namn på funktionsbehovet (Max 30 tecken)
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Peter Rudvall, Kultur & Besöksmål peter.rudvall@kungsbacka.se 0300-83 80 95
+Peter Rudvall, Kultur & Besöksmål (e-post borttagen) 0300-83 80 95
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Harald Tjelle, Kultur & Fritid harald.tjelle@kungsbacka.se 0300-83 80 96
+Harald Tjelle, Kultur & Fritid (e-post borttagen) 0300-83 80 96
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Förvaltningen Kultur & Fritid lagrar de av kommunens konstverk som inte för tillfället har en tilldelad
@@ -7065,7 +7065,7 @@ Förvaltningschef
 
 Kultur & Fritid
 
-karl.persson@kungsbacka.se
+(e-post borttagen)
 
 0300-83   48 05
 

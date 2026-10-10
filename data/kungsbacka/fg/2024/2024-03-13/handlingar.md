@@ -39,7 +39,7 @@ Stadshuset, Kungsbackarummet
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1226,7 +1226,7 @@ närvarande har begränsningar för mobil- och/eller smartwatchanvändning under
 FG Myndighet & Stöd                                       Kungsbacka kommun
 434 81 Kungsbacka
 Frida Byrsten
-070-265 59 66                                                 Besöksadress
+(mobilnummer borttaget)                                                 Besöksadress
 Verksamhetschef                                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

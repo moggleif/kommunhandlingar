@@ -167,7 +167,7 @@ Planförslaget 2022.Utbredning av den detaljplan Ö 6. Utbredning av det
 som var föremål för det antagandebeslut som detaljplaneförslaget. Svart markering visar tillkommande
 upphävdes av mark- och miljödomstolen år 2024. områden, röd visar borttaget område.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
 Telefon 0300-83 40 00 » info(Mkungsbacka.se » kungsbacka.se
 
 <!-- sida 5 -->

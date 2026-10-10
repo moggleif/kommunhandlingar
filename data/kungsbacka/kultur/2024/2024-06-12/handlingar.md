@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -261,7 +261,7 @@ mindre om tobak och nikotin kostar mer.2
 1 (3)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kulturochfritid@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -358,7 +358,7 @@ Kungsbacka kommun
 
 <!-- sida 11 -->
 
-Från:           kommun@kungsbacka.se
+Från:           (e-post borttagen)
 Skickat:        den 17 maj 2024 14:05
 Till:           Miljö & Hälsoskydd admin; Kultur & Fritid; Individ & Familjeomsorg; Förskola
 Grundskola; Gymnasium & Arbetsmarknad
@@ -408,7 +408,7 @@ Registrator
 Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 www.kungsbacka.se
 www.facebook.com/kungsbackakommun
@@ -462,7 +462,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Fredsgatan 8
-Webb: www.regeringen.se     E-post: s.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 14 -->
 
@@ -719,8 +719,8 @@ Svensk förening för beroendemedicin
 
 Remissvaren ska ha kommit in till Socialdepartementet senast den 30
 augusti 2024. Svaren bör lämnas per e-post till
-s.remissvar@regeringskansliet.se och med kopia till
-s.hc.delning@regeringskansliet.se. Ange diarienummer S2024/00726 och
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer S2024/00726 och
 
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
@@ -772,7 +772,7 @@ Departementsråd
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 8 (8)
 

@@ -77,7 +77,7 @@ Dataskyddsarbete        2025
 2025-12-04
 BN-2025-00285
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 3 -->
 

@@ -495,7 +495,7 @@ näringslivet på platsen.
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Trafikingenjör                                           Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

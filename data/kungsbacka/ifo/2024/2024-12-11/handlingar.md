@@ -218,7 +218,7 @@ Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2024-11-27
 
 Beslutet skickas till
 
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Ivan Stipic                        Märta Lycken
 
@@ -266,17 +266,17 @@ Denna del består av underlagsmaterial som utgör basen för bostadsförsörjnin
 presenteras en statistisk analys, en redovisning av hur relevanta styrdokument har
 beaktats, en hållbarhetsbedömning samt redovisning av invånardialog.
 
-Svar önskas senast den 14 december 2024 till samhallsbyggnadskontoret@kungsbacka.se
+Svar önskas senast den 14 december 2024 till (e-post borttagen)
 
 Vi frågor kontakta oss gärna:
 Planarkitekt:
-Raquel Sandblad, 0300-83 40 72, raquel.sandblad@kungsbacka.se eller
+Raquel Sandblad, 0300-83 40 72, (e-post borttagen) eller
 
 Specialist Hållbarhet:
-Margit de Boer, 0300-83 42 63, margit.de.boer@kungsbacka.se
+Margit de Boer, 0300-83 42 63, (e-post borttagen)
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 7 -->
 
@@ -292,11 +292,11 @@ Beslutad av:
 
 Gäller från:
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 8 -->
 
@@ -1211,7 +1211,7 @@ Kungsbacka            kommun          2025–2029
 Del 2: Bilagor
 Remissversion
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 31 -->
 
@@ -5455,7 +5455,7 @@ Förvaltningschef                   Utvecklingsledare
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Utvecklingsledare                                        Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -5950,7 +5950,7 @@ Förvaltningschef              Utvecklingsledare
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Utvecklingsledare                                        Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -6601,7 +6601,7 @@ om  de politiska mål som ligger till grund för vår verksamhet.
 Kontaktuppgifter:
 
 Ivan Stipic                    Kamilla Julin                 Caroline Storm
-ivan.stipic@kungsbacka.se      kamilla.julin@kungsbacka.se   caroline.storm@kungsbacka.se
+(e-post borttagen)      (e-post borttagen)   (e-post borttagen)
 0300-83 48 70                  0300-83 75 45
 0300-837416
 

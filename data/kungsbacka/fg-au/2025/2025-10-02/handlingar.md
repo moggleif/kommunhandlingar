@@ -39,7 +39,7 @@ Plats: Vägmästaren, Lagan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -82,7 +82,7 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- |
 | 11. | Redovisning av samverkan för<br>ökad rörelse 2025<br>Kl 15:05-15:35<br>Pauline Brinck, lärare<br>Maria Grantham, lärare | FG-2025-00567 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
 | 12. | Ansökan från Föreningen<br>Montessoriskolan Majblomman<br>gällande permanent utökning av<br>barnantal | FG-2025-00352 | Nämnden för Förskola & Grundskola avslår<br>ansökan från föreningen Montessoriskolan<br>Majblomman, om permanent utökning av<br>barnantal på förskolan till totalt 36 barn.<br>Nämnden för Förskola & Grundskola godkänner<br>ansökan från föreningen Montessoriskolan<br>Majblomman, Gottskärsvägen 119, 439 94<br>Onsala, om permanent utökning till totalt 35<br>barn. |
-| 13. | Ansökan från Regnbågens<br>Förskola i Fjärås AB gällande<br>permanent utökning av<br>barnantal | FG-2025-00534 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Regnbågens Förskola i Fjärås AB,<br>Rajgräsvägen 3, 439 71 Fjärås, om permanent<br>utökning till totalt 30 barn. |
+| 13. | Ansökan från Regnbågens<br>Förskola i Fjärås AB gällande<br>permanent utökning av<br>barnantal | FG-2025-00534 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Regnbågens Förskola i Fjärås AB,<br>(adress borttagen), 439 71 Fjärås, om permanent<br>utökning till totalt 30 barn. |
 | 14. | Rapportering olycksfall och<br>tillbud 2<br>Kl 15:35-16:05<br>Helena Hellman, personalchef | FG-2025-00568 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
 | 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:05-16:35<br>Helena Hellman, personalchef<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet |
 
@@ -140,7 +140,7 @@ Förskola & Grundskola                                     Kungsbacka kommun
 Lars Sundbom                                               434 81 Kungsbacka
 0300-835240
 Besöksadress
-lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -603,7 +603,7 @@ Kommunen får regelbundet uppdaterad information om folkbokförda barn i
 skolpliktsålder. Det sker en kontinuerlig kontroll av de barn som faller ut på en
 särskild lista för att de inte har någon registrerad skolplacering.
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 17 -->
 
@@ -839,7 +839,7 @@ n
 a
 s
 U K                                                                 Fax 0300-83 41 64
-forskola.grundskola@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 [Tabell 20-1](handlingar.tabeller/20-1.csv)
@@ -1856,12 +1856,12 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 I Onsalaområdet finns idag åtta kommunala förskolor, varav tre i Presseområdet, två i Iseråsområdet och
@@ -1902,7 +1902,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -2001,12 +2001,12 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Åsaskolan är idag en F-9 skola med en kapacitet på 750 elever. Verksamheten bedrivs i flera byggnader
@@ -2051,7 +2051,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -2143,12 +2143,12 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Björkris i norra Kungsbacka är ett område under utveckling med successivt bostadsbyggande av både
@@ -2181,7 +2181,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -2261,12 +2261,12 @@ Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att 
 
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
-Anna Flinck              anna.flinck@kungsbacka.se  0300-835318
-Helen Stenum             helen.stenum@kungsbacka.se 0300-833647
+Anna Flinck              (e-post borttagen)  0300-835318
+Helen Stenum             (e-post borttagen) 0300-833647
 
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 I Kungsbacka kommun finns en skolenhet för anpassad grundskola (AGR) årskurs 1-9. Denna enhet ska
@@ -2295,7 +2295,7 @@ Kungsbacka kommun
 U    Ekonomi
 K
 Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 info@kungsbacka.se
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
 Fax
 0300-83 47 04 www.kungsbacka.se
 
@@ -6063,7 +6063,7 @@ Nämnden för Förskola & Grundskola avslår ansökan från föreningen Montesso
 om permanent utökning av barnantal på förskolan till totalt 36 barn.
 
 Nämnden för Förskola & Grundskola godkänner ansökan från föreningen Montessoriskolan
-Majblomman, Gottskärsvägen 119, 439 94 Onsala, om permanent utökning till totalt 35 barn.
+Majblomman, (adress borttagen), 439 94 Onsala, om permanent utökning till totalt 35 barn.
 
 Sammanfattning av ärendet
 
@@ -6289,8 +6289,8 @@ Jag vill fylla i företagsuppgifter manuellt.
 Namn på den enhet som tillsynen gäller
 Föreningen Montessoriskolan Majblomman
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #206237 | Inskickat av: EMILIE STEEN | Datum: 2025-06-09 16:07 Sida 1 av 3
 
@@ -6339,8 +6339,8 @@ Antal årsarbetande efter
 0,5      3,3                  3,8
 utökning
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #206237 | Inskickat av: EMILIE STEEN | Datum: 2025-06-09 16:07 Sida 2 av 3
 
@@ -6380,8 +6380,8 @@ Barnkonsekvensanalys utifrån tillfällig eller permanent utökning
 Barnkonsekvensanalys Barnantal Majblomman.pdf (89 KB)
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #206237 | Inskickat av: EMILIE STEEN | Datum: 2025-06-09 16:07 Sida 3 av 3
 
@@ -6429,7 +6429,7 @@ barnantal
 Förslag till beslut
 
 Nämnden för Förskola & Grundskola godkänner ansökan från Regnbågens Förskola i Fjärås AB,
-Rajgräsvägen 3, 439 71 Fjärås, om permanent utökning till totalt 30 barn.
+(adress borttagen), 439 71 Fjärås, om permanent utökning till totalt 30 barn.
 
 Sammanfattning av ärendet
 
@@ -6552,8 +6552,8 @@ Uppgifter om företaget
 Hämta delar av mina företagsuppgifter från Bolagsverket, SCB och Skatteverket. (Kräver att du
 är registrerad ägare).
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #204877 | Inskickat av: MONICA ELKEN | Datum: 2025-08-26 09:24 Sida 1 av 5
 
@@ -6587,13 +6587,13 @@ Kontaktuppgifter
 
 Företagets telefonnummer
 
-0702748009
+(mobilnummer borttaget)
 
 Namn på den enhet som tillsynen gäller
 Regnbågens förskola i Fjärås AB
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #204877 | Inskickat av: MONICA ELKEN | Datum: 2025-08-26 09:24 Sida 2 av 5
 
@@ -6632,8 +6632,8 @@ Vi ansöker om godkännande för utökning av antal platser
 Ange total antal platser
 30
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #204877 | Inskickat av: MONICA ELKEN | Datum: 2025-08-26 09:24 Sida 3 av 5
 
@@ -6686,15 +6686,15 @@ Riskanalys.docx (12 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #204877 | Inskickat av: MONICA ELKEN | Datum: 2025-08-26 09:24 Sida 4 av 5
 
 <!-- sida 198 -->
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #204877 | Inskickat av: MONICA ELKEN | Datum: 2025-08-26 09:24 Sida 5 av 5
 

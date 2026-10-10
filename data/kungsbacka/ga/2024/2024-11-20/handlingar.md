@@ -43,7 +43,7 @@ Paus 19:00-19:10
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -153,7 +153,7 @@ HANDLINGSPLAN
 
 Visselblåsarärende 2024
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 7 -->
 
@@ -1456,7 +1456,7 @@ mer heltäckande bild över hur barn påverkas av bostadsförsörjningsplanen.
 1 (1)
 Nämnden för Gymnasium & Arbetsmarknad                     Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1624,7 +1624,7 @@ Kungsbacka            kommun          2025–2029
 Del 2: Bilagor
 Remissversion
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 47 -->
 
@@ -5628,11 +5628,11 @@ Beslutad av:
 
 Gäller från:
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 151 -->
 
@@ -6571,17 +6571,17 @@ Denna del består av underlagsmaterial som utgör basen för bostadsförsörjnin
 presenteras en statistisk analys, en redovisning av hur relevanta styrdokument har
 beaktats, en hållbarhetsbedömning samt redovisning av invånardialog.
 
-Svar önskas senast den 14 december 2024 till samhallsbyggnadskontoret@kungsbacka.se
+Svar önskas senast den 14 december 2024 till (e-post borttagen)
 
 Vi frågor kontakta oss gärna:
 Planarkitekt:
-Raquel Sandblad, 0300-83 40 72, raquel.sandblad@kungsbacka.se eller
+Raquel Sandblad, 0300-83 40 72, (e-post borttagen) eller
 
 Specialist Hållbarhet:
-Margit de Boer, 0300-83 42 63, margit.de.boer@kungsbacka.se
+Margit de Boer, 0300-83 42 63, (e-post borttagen)
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 174 -->
 
@@ -7489,7 +7489,7 @@ Datum             Diarienummer
 2024-06-25        ATN-2024-00062
 Avdelning Utbildning
 Theresa Björnström,
-theresa.bjornstrom@goteborgsregionen.se
+(e-post borttagen)
 Antagningsnämnden
 
 Interkommunal      ersättning   inom
@@ -7693,7 +7693,7 @@ Datum             Diarienummer
 2024-06-25        ATN 2024–00063
 Avdelning Utbildning
 Theresa Björnström,
-theresa.bjornstrom@goteborgsregionen.se
+(e-post borttagen)
 Antagningsnämnden
 
 Interkommunal      ersättning   inom
@@ -9905,7 +9905,7 @@ Gymnasie & Vuxenutbildning Kungsbacka kommun
 Aranäsgymnasiet Aranäsgymnasiet
 Besöksadress
 
-Gymnasiegatan 44
+(adress borttagen)
 
 434 42 Kungsbacka
 
@@ -10206,7 +10206,7 @@ utsedd samordnare för nyanländas lärande att anmäla intresse för att
 delta.
 
 Vid frågor, eller anmälan av ny samordnare:
-samordnare@skolverket.se
+(e-post borttagen)
 
 Ulrika Dahl och Camilla Holmberg
 Undervisningsråd på Skolverket
@@ -10500,7 +10500,7 @@ lämna in handlingar digitalt.
 Har ni frågor?
 
 På webbplatsen finns information om domstolen och om handläggningen. Kontakta oss
-gärna vid frågor – ni når oss via e-post forvaltningsrattenigoteborg@dom.se eller per telefon
+gärna vid frågor – ni når oss via e-post (e-post borttagen) eller per telefon
 031-732 70 00.
 
 Daniela Quinonez
@@ -10515,7 +10515,7 @@ Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. 
 5
 3 4    Besöksadress    Öppettider  Postadress     E-post
 0
-1      Sten Sturegatan 14 måndag–fredag Box 53197 forvaltningsrattenigoteborg@dom.se
+1      Sten Sturegatan 14 måndag–fredag Box 53197 (e-post borttagen)
 d
 I                      08:00–16:00 400 15 Göteborg
 k.     Telefon                                    Webbplats
@@ -10574,20 +10574,20 @@ Vi som önskar begära laglighetsprövning är samtliga anställda som rektorer 
 gymnasieskolor. Fem av oss är dessutom invånare i Kungsbacka kommun.
 
 Anna Ahlqvist (tf rektor skolenhet 2, Elof Lindälvs gymnasium)
-anna.ahlqvist@kungsbacka.se
+(e-post borttagen)
 
 Marie Andersson (rektor skolenhet 1, Elof Lindälvs gymnasium)
-marie.andersson14@kungsbacka.se
+(e-post borttagen)
 Lisa Jönsson (rektor skolenhet 4, Elof Lindälvs gymnasium)
 
-lisa.jonsson@kungsbacka.se
+(e-post borttagen)
 Stina Petersson (rektor skolenhet 6, Aranäsgymnasiet & skolenhet 3, Elof Lindälvs gymnasium)
-stina.petersson@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 265 -->
 
 Hannah Tengelin (rektor skolenhet 2, Aranäs gymnasiet)
-hannah.tengelin@kungsbacka.se
+(e-post borttagen)
 
 Rektorer på Kungsbackas gymnasieskolor, men inte invånare i Kungsbacka kommun:
 
@@ -10601,10 +10601,10 @@ Dan Sadé (rektor skolenhet 4, Aranäsgymnasiet)
 
 genom
 
-Hannah Tengelin 750819-5505
-Skäddegarnsvägen 23, 434 92 Vallda
-0702-71 84 90 (hem), 0300-83 36 03 (arbete)
-hannah.tengelin@kungsbacka.se
+Hannah Tengelin (personnummer borttaget)
+(adress borttagen), 434 92 Vallda
+(mobilnummer borttaget) (hem), 0300-83 36 03 (arbete)
+(e-post borttagen)
 
 <!-- sida 266 -->
 

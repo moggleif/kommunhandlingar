@@ -39,7 +39,7 @@ Kommunfullmäktigesalen, Storgatan 37
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -1082,7 +1082,7 @@ elevombudet (BEO) och fyra inkommit från Diskrimineringsombudsmannen
 (DO). Därtill ingår ett ärende som inkommit från Skolinspektionen (SI) och ett
 som inkommit från Lärarnas ansvarsnämnd (LAN).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 28 -->
 
@@ -1475,7 +1475,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 38 -->
 

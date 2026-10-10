@@ -135,7 +135,7 @@ Dataskyddsarbete        2024
 2024-12-05
 MH-2024-06411
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 5 -->
 

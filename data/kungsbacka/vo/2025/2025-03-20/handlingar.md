@@ -3432,8 +3432,8 @@ Sverige SOLNA
 Sverige
 Kontaktperson Kontaktperson
 Rebecca Granat Ida Vallin
-0300-834414 (tel) +46760300123 (tel)
-rebecca.granatMkungsbacka.se 0760-30 01 23 (mob)
+0300-834414 (tel) (mobilnummer borttaget) (tel)
+rebecca.granatMkungsbacka.se (mobilnummer borttaget) (mob)
 
 ida.vallinQambea.se
 
@@ -6848,8 +6848,8 @@ Sverige SOLNA
 Sverige
 Kontaktperson Kontaktperson
 Rebecca Granat Ida Vallin
-0300-834414 (tel) +46760300123 (tel)
-rebecca.granatMkungsbacka.se 0760-30 01 23 (mob)
+0300-834414 (tel) (mobilnummer borttaget) (tel)
+rebecca.granatMkungsbacka.se (mobilnummer borttaget) (mob)
 
 ida.vallinQambea.se
 
@@ -8757,7 +8757,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   vardochomsorg@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 

@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Besöksadress
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Stadshuset
 www.kungsbacka.se
 
@@ -7503,7 +7503,7 @@ Projektnamn
 Projektbeställning för Fors 1:387 med flera
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       lovisa.eld@kungsbacka.se 0300-83 77 83
+Lovisa Eld                       (e-post borttagen) 0300-83 77 83
 
 Status
 Beställningen är                 Datum
@@ -8031,7 +8031,7 @@ Projektnamn
 Detaljplan för norra Voxlöv inom Voxlöv 4:9 och Hede 9:26 i Kungsbacka stad
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       lovisa.eld@kungsbacka.se 0300-837783
+Lovisa Eld                       (e-post borttagen) 0300-837783
 
 Status
 Beställningen är                 Datum
@@ -8591,7 +8591,7 @@ Projektnamn
 Detaljplan för norra Voxlöv inom Voxlöv 4:9 och Hede 9:26 i Kungsbacka stad
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       lovisa.eld@kungsbacka.se 0300-837783
+Lovisa Eld                       (e-post borttagen) 0300-837783
 
 Status
 Beställningen är                 Datum
@@ -9533,7 +9533,7 @@ Representant för företag
 
 Dina kontaktuppgifter
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoÅMkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4249722 | Inskickat av: Datum: 2025-12-10 14:56
@@ -9561,7 +9561,7 @@ Vill du bifoga en situationskarta?
 
 Ja
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoÅMkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4249722 | Inskickat Moo KE 2025-12-10 14:56 Sida2 av3
@@ -9585,7 +9585,7 @@ H:] Ansokan andring detaljplan Saro 1 320.docx (27 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoÅMkungsbacka.se | kungsbacka.se
 
 Ärendenummer: 4249722 | Inskickat av: Datum: 2025-12-10 14:56
@@ -9787,7 +9787,7 @@ Skala: 1:10 000 (vid A4 stående)
 Kommunstyrelsens förvaltning
 
 Kungsbacka Kommun
-Stadshuset, Storgatan 37
+Stadshuset, (adress borttagen)
 434 81 Kungsbacka
 
 2025 -12- 02
@@ -9798,7 +9798,7 @@ Fastigheten Varla 6:19, Kungsbacka kommun
 Fastigheten:
 Fastigheten som berörs av begäran om planbesked är Kungsbacka Varla 6:19 med
 
-adress Kabelgatan 6, 434 37 Kungsbacka
+adress (adress borttagen), 434 37 Kungsbacka
 
 Beskrivning över varför planbesked begärs:
 
@@ -10276,7 +10276,7 @@ Havs- och vattenmyndigheten
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -10377,7 +10377,7 @@ medlem i samt kustvattenkontrollen som kommun medfinansierar. Dessa insatser är
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -15990,7 +15990,7 @@ frågor redan bearbetats och planen ska i stort sett vara klar för antagande. F
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -16243,7 +16243,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -17392,7 +17392,7 @@ Gäller från: 1 maj 2026
 Dokumentegenskaper: Avfallstaxa 2026, daterad 2026-01-05
 Ansvarig förvaltning: Förvaltningen för Teknik
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -19008,9 +19008,9 @@ Med vänlig hälsning
 Eksta Bostads AB
 
 Christer Kilersjö, vd
-0300–35609, christer@eksta.se
+0300–35609, (e-post borttagen)
 
-Eksta Bostads AB telefon: 0300-356 00 e-post: info@eksta.se www.eksta.se
+Eksta Bostads AB telefon: 0300-356 00 e-post: (e-post borttagen) www.eksta.se
 Box 10400
 434 24 Kungsbacka
 
@@ -19147,7 +19147,7 @@ kan ligga till grund för att genomföra ett testområde.
 1 (2)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -19946,7 +19946,7 @@ blocktider              inom         hemtjänsten
 
 VO   2025-00378,      KS   2025-00563
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 444 -->
 

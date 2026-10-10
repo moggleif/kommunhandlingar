@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Sofie Axelsson                                              Kungsbacka kommun
 Bygg- och miljöförvaltningen                                 434 81 Kungsbacka
 Direkt 0300-834028
-sofie.axelsson@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

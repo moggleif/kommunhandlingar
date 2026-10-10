@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Erik Norinder                                                Kungsbacka kommun
 Förvaltningen för Kultur & Fritid                             434 81 Kungsbacka
 Direkt 0300-834883
-erik.norinder@kungsbacka.se                                     Besöksadress
+(e-post borttagen)                                     Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1073,7 +1073,7 @@ Transaktionsidentitet: E6A13A724AB589D291A6163B8A3F7D66EAE1231301
 
 <!-- sida 29 -->
 
-Från:           kommun@kungsbacka.se
+Från:           (e-post borttagen)
 Skickat:        den 15 november 2024 10:56
 Till:           Kultur & Fritid; Förskola Grundskola; Gymnasium & Arbetsmarknad; Individ &
 Familjeomsorg
@@ -1117,7 +1117,7 @@ Registrator
 Kungsbacka kommun
 Kommunledningskontoret
 0300-83 43 19
-kristian.egstedt@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 30 -->
 
@@ -3463,9 +3463,9 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (10)
 
-kontakta simon.wallengren@kungsbacka.se, och vid frågor om ANDTS kontakta
+kontakta (e-post borttagen), och vid frågor om ANDTS kontakta
 
-karin.lovgren@kungsbacka.se.
+(e-post borttagen).
 
 Ungdomskriminalitet och utanförskap -
 Förhindra att ungdomar begår brott eller blir utsatta för brott
@@ -3505,7 +3505,7 @@ Mål: Fö rhindra att ungdömar bega r brött öch blir utsatta fö r brött.
 KUNGSBACKA  KOMMUN
 3 (10)
 
-Kontakt: simon.wallengren@kungsbacka.se
+Kontakt: (e-post borttagen)
 
 [Tabell 78-1](handlingar.tabeller/78-1.csv)
 
@@ -3556,7 +3556,7 @@ Mål: Bevara läget genom att motverka en etablering och att förhindra rekryter
 KUNGSBACKA  KOMMUN
 5 (10)
 
-Kontakt: simon.wallengren@kungsbacka.se
+Kontakt: (e-post borttagen)
 
 ETT Kungsbacka – Stärkt civilkurage och tillit till samhället för ökad trygghet i
 Kungsbacka
@@ -3589,7 +3589,7 @@ tryggheten samt öka anmälningsbenägenhet
 KUNGSBACKA  KOMMUN
 6 (10)
 
-Kontakt: simon.wallengren@kungsbacka.se
+Kontakt: (e-post borttagen)
 
 [Tabell 81-1](handlingar.tabeller/81-1.csv)
 
@@ -3658,7 +3658,7 @@ KUNGSBACKA  KOMMUN
 procent av fallen blev kontrollköparna tillfrågade att visa
 legitimation.
 
-Kontakt: karin.lovgren@kungsbacka.se
+Kontakt: (e-post borttagen)
 
 Sammanfattning     och  reflektion  kring förflyttningar
 
@@ -4279,7 +4279,7 @@ Kulturbarometern
 
 2024
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 107 -->
 
@@ -5087,7 +5087,7 @@ Med mästerskap eller större framgång räknas:
 
 Med vinst som avser innevarande år
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 125 -->
 
@@ -5111,7 +5111,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -5221,7 +5221,7 @@ Prissumman förväntas användas till vidareutveckling inom pristagarens område
 
 Priset finansieras och delas ut på uppdrag av nämnden för Kultur & Fritid.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 129 -->
 
@@ -5230,7 +5230,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -5337,7 +5337,7 @@ nomineringsperioden.
 Nämnden för Kultur & Fritid ansvarar för att bereda och besluta om vem som ska tilldelas priset. Beredning
 och beslut hålls hemligt till dess att Kultur & Fritids prisceremoni äger rum.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 133 -->
 
@@ -5352,7 +5352,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, KS Dnr 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -5456,7 +5456,7 @@ plats, datum.
 Nämnden för Kultur & Fritid ansvarar för att bereda och besluta om vem som ska tilldelas priset. Beredning
 och beslut hålls hemligt till dess att Kultur & Fritids prisceremoni äger rum.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 137 -->
 
@@ -5471,7 +5471,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -5684,7 +5684,7 @@ Beredning och beslut hålls hemligt till dess att Kultur & Fritids prisceremoni 
 Övriga villkor
 Stipendiet utgår med 10 000 kronor och utdelas i samband med att den ideella ledaren uppmärksammas.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 143 -->
 
@@ -5693,7 +5693,7 @@ Beslutad av: Kommunfullmäktige 2021-09-07 § 115, Dnr KS 2021-00279
 Gäller från: 2021-09-07
 Ansvarig förvaltning: Förvaltningen för Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -5787,7 +5787,7 @@ innehålla:
 • Telefonnummer och/eller e-postadress
 • CV med uppgifter om insatser och erfarenheter inom idrotten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 146 -->
 
@@ -5811,7 +5811,7 @@ Beslutad av: Kommunfullmäktige 7 september 2021 § 115, Dnr KS 2021-
 Gäller från: 7 september 2021
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 

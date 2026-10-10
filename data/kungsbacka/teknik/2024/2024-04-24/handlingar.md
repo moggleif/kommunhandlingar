@@ -1030,7 +1030,7 @@ med totalt 25 medarbetare.
 
 Mer information om företaget Profu och klimatbokslut ges på www.profu.se. Eller
 kontakta:
-Johan.Sundberg@profu.se (070-6210081), Mattias.Bisaillon@profu.se (070-364 93 50)
+(e-post borttagen) ((mobilnummer borttaget)), (e-post borttagen) ((mobilnummer borttaget))
 1
 
 <!-- sida 28 -->
@@ -2913,7 +2913,7 @@ potentialen    för  återanvändning       av  renat
 
 avloppsvatten      i Kungsbacka       kommun
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 78 -->
 
@@ -3477,7 +3477,7 @@ PM
 Framtagen till:                      Framtagen av:
 Laholmsbuktens VA AB/Kungsbacka kommun Envidan AB
 Magnus Brom
-E-mail: mag@envidan.se
+E-mail: (e-post borttagen)
 Telefonnr (direkt): 0738–044865
 Projektnamn: Utredning av regional
 rötningsanläggning
@@ -4353,7 +4353,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 | --- | --- |
 |  |  |
 | Saturnusgatan 3, |  |
-| 591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>info@elvaab.se |  |
+| 591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
 |  |  |
 |  |  |
 
@@ -4366,7 +4366,7 @@ www.envidan.se • Organisationsnummer 556666-5468
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| Saturnusgatan 3,<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>info@elvaab.se |  |  |  |
+| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -4570,7 +4570,7 @@ P-40-2-104            -
 |  |  |
 | --- | --- |
 |  |  |
-| Saturnusgatan 3,<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>info@elvaab.se |  |
+| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
 |  |  |
 |  |  |
 
@@ -4580,7 +4580,7 @@ P-40-2-104            -
 
 |  |  |
 | --- | --- |
-| Saturnusgatan 3,<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>info@elvaab.se |  |
+| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
 |  |  |
 |  |  |
 |  |  |
@@ -4593,7 +4593,7 @@ P-40-2-104            -
 | --- | --- | --- | --- |
 |  |  |  |  |
 |  |  |  |  |
-| Saturnusgatan 3,<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>info@elvaab.se |  |  |  |
+| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -4601,7 +4601,7 @@ P-40-2-104            -
 
 [Tabell 123-1](handlingar.tabeller/123-1.csv)
 
-| Saturnusgatan 3,<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>info@elvaab.se |  |
+| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
 | --- | --- |
 |  |  |
 |  |  |
@@ -4619,7 +4619,7 @@ P-40-2-104            -
 
 |  |  |
 | --- | --- |
-| Saturnusgatan 3,<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>info@elvaab.se |  |
+| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
 |  |  |
 |  |  |
 |  |  |
@@ -4630,7 +4630,7 @@ P-40-2-104            -
 
 |  |  |
 | --- | --- |
-| Saturnusgatan 3,<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>info@elvaab.se |  |
+| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
 |  |  |
 |  |  |
 
@@ -4643,7 +4643,7 @@ P-40-2-104            -
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-| Saturnusgatan 3,<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>info@elvaab.se |  |  |  |
+| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -6241,7 +6241,7 @@ Anl nr
 
 Miljöprövningsdelegationen     Kungsbacka kommun
 Ombud: Peter Näsström
-peter@swlaw.se
+(e-post borttagen)
 
 Ansökan  om  tillstånd enligt 9 kap. miljöbalken till Hammar-
 gårds avloppsreningsverk på  fastigheten Kungsbacka  6:27 i
@@ -6484,7 +6484,7 @@ Beslutet hålls tillgängligt hos aktförvararen på Förvaltningen för Teknik 
 kommun samt hos Länsstyrelsen, Slottsgatan 2 i Halmstad.
 
 Eventuellt överklagande skickas till Länsstyrelsen, 301 86 Halmstad eller till e-posta-
-dress halland@lansstyrelsen.se. Ange vilket beslut som överklagandet gäller genom att
+dress (e-post borttagen). Ange vilket beslut som överklagandet gäller genom att
 ange diarienumret 551-1415-2021. Skriv också vilken ändring som begärs. För att över-
 klagandet ska kunna prövas, måste det vara inkommet till Länsstyrelsen senast den 31
 maj 2023.
@@ -6498,7 +6498,7 @@ LÄNSSTYRELSEN                    Beslut                   6(42)
 
 2023-04-26        551-1415-2021
 
-Kontakta Länsstyrelsen på tfn 010-224 30 00 eller halland@lansstyrelsen.se, om något
+Kontakta Länsstyrelsen på tfn 010-224 30 00 eller (e-post borttagen), om något
 är oklart.
 
 Verksamhetskod och tillståndsplikt
@@ -8234,18 +8234,18 @@ Bilaga
 2\. Pumpstationer
 
 Kopia
-Naturvårdsverket; registrator@naturvardsverket.se
-Havs- och vattenmyndigheten; havochvatten@havochvatten.se
-Nämnden för Miljö & Hälsoskydd i Kungsbacka kommun; info@kungsbacka.se
+Naturvårdsverket; (e-post borttagen)
+Havs- och vattenmyndigheten; (e-post borttagen)
+Nämnden för Miljö & Hälsoskydd i Kungsbacka kommun; (e-post borttagen)
 
-Nämnden för Teknik i Kungsbacka kommun; info@kungsbacka.se
-Johan Bergelin, johan@swlaw.se
-Anders Fermheden, anders.fermheden@gmail.com
-Trafikverket Region Väst, trafikverket@trafikverket.se
+Nämnden för Teknik i Kungsbacka kommun; (e-post borttagen)
+Johan Bergelin, (e-post borttagen)
+Anders Fermheden, (e-post borttagen)
+Trafikverket Region Väst, (e-post borttagen)
 Vattenmyndigheten för Västerhavets vattendistrikt, vattenmyndigheten.vastragotal-
-and@lansstyrelsen.se
+(e-post borttagen)
 
-Miljöpartiet de gröna i Kungsbacka, elisabeth.sahlsten@gmail.com
+Miljöpartiet de gröna i Kungsbacka, (e-post borttagen)
 Aktförvararen, Kungsbacka kommun, Att: Joakim Ekberg, Tekniks expedition, 434 81
 KUNGSBACKA
 
@@ -8457,7 +8457,7 @@ Invånardialog                    FNI
 
 Inför val av  insamlingssystem       2027
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 210 -->
 
@@ -9136,7 +9136,7 @@ Beslutad av: [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från: 1 januari 2025
 Ansvarig förvaltning: [Klicka och skriv]
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
@@ -10563,11 +10563,11 @@ Beslutad av:   Kommunfullmäktige 2024-XX-XX § XXX, KS-2024-XXXXX
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se33
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 265 -->
 
@@ -11297,10 +11297,10 @@ Beslutad av:   Kommunfullmäktige …., KS ….      www.kungsbacka.se
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 280 -->
 
@@ -12035,7 +12035,7 @@ Taxa      för   låst     cykelparkering
 
 Daterad 2024-04-03
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 300 -->
 
@@ -12094,7 +12094,7 @@ Gäller från: Öppning av det nya cykelgaraget (beräknas till hösten 2024)
 samt 2025-01-01 för befintliga anläggningar
 
 Ansvarig förvaltning: Förvaltningen för Teknik
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -14310,7 +14310,7 @@ VALLENTUNA KOMMUN                         TJÄNSTESKRIVELSE
 DNR KS 2022.293
 PER TOVERUD                                    SID 1/3
 
-PER.TOVERUD@VALLENTUNA.SE
+(e-post borttagen)
 
 Tjänsteskrivelse
 
@@ -14352,7 +14352,7 @@ behöver beaktas i kommande kommunplan.
 VALLENTUNA KOMMUN
 186 86 VALLENTUNA
 TFN 08-587 850 00 · FAX 08-587 850 88
-KOMMUN@VALLENTUNA.SE
+(e-post borttagen)
 WWW.VALLENTUNA.SE
 
 <!-- sida 348 -->
@@ -15686,7 +15686,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 
@@ -15959,7 +15959,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 
@@ -16086,7 +16086,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © Visma Consulting
 

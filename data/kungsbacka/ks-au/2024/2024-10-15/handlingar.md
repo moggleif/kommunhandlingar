@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -468,7 +468,7 @@ med EU:s dataskyddsförordning i stort.
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -637,7 +637,7 @@ arbete med att utöka den strukturerade delen av dokumentationen i kommunerna ko
 1 (2)
 Nämnden för Vård & Omsorg                                 Kungsbacka kommun
 434 81 Kungsbacka
-vardochomsorg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -857,7 +857,7 @@ kunskapsbaserad utveckling av kommunens socialtjänst.
 1 (1)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1035,7 +1035,7 @@ det kan uppstå utmaningar med att utveckla arbetssätt och verksamhetssystem f�
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-gymnasiumocharbetsmarknad@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1285,7 +1285,7 @@ vilka läkemedel som ska få säljas i den receptfria detaljhandeln välkomnar k
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1368,7 +1368,7 @@ Kungsbacka kommun                                        434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
-info@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se
 
 <!-- sida 34 -->
@@ -1634,8 +1634,8 @@ problem anser nämnden bör kunna åtgärdas genom föreslagna ändringar gälla
 införande av tillståndsplikt för bedrivande av detaljhandel samt att Läkemedelsverket
 ska besluta om tillstånd. Nämnden är följaktligen positiv till införande av
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 39 -->
 
@@ -1748,7 +1748,7 @@ en samrådshandling för prövning av en solcellsanläggning på fastighet Myra 
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -1818,7 +1818,7 @@ det generella biotopskyddet som inte kommer påverkas Ytterligare ett dike finns
 1 (2)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -1842,7 +1842,7 @@ SOLCELLSANLÄGGNING
 
 Länsstyrelsen Hallands län
 
-st@turnenergy.com
+(e-post borttagen)
 
 Turn Energy AB
 2024-08-23

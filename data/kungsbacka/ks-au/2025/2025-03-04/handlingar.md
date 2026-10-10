@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -5160,7 +5160,7 @@ som det får den motsatta effekten i de kommuner som inte har etableringar.
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5374,7 +5374,7 @@ nérmeS
 ©
 Kungsbacka                           Lyngås                3:3
 Ansökan             om      planbesked                2024.11.22
-info@semren-mansson.se            | semren-mansson.se
+(e-post borttagen)            | semren-mansson.se
 
 <!-- sida 113 -->
 

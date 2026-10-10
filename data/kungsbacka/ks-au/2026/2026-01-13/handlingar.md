@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -784,11 +784,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    2026-03-01
 
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 22 -->
 
@@ -906,11 +906,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:    2026-03-01
 
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 26 -->
 
@@ -2314,7 +2314,7 @@ Patrik Hellberg
 
 Förvaltningschef Gymnasium & Arbetsmarknad
 
-patrik.hellberg@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 65 -->
 
@@ -2594,7 +2594,7 @@ skolans hälsofrämjande och förebyggande uppdrag.
 Patrik Hellberg
 Förvaltningschef Gymnasium & Arbetsmarknad
 
-patrik.hellberg@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 72 -->
 
@@ -3004,7 +3004,7 @@ kommunfullmäktige om föredragningsordning och regler för budgetdebatt.
 
 Presidiet företräder kommunfullmäktige gentemot kommunrevisionen.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 81 -->
 
@@ -3423,7 +3423,7 @@ Beslutad av: Kommunfullmäktige, ÅÅÅÅ-MM-DD § X,
 Gäller från: ÅÅÅÅ-MM-DD
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300–83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300–83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -3472,7 +3472,7 @@ kommunfullmäktige om föredragningsordning och regler för budgetdebatt.
 
 Presidiet företräder kommunfullmäktige gentemot revisorerna kommunrevisionen.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 90 -->
 
@@ -3894,7 +3894,7 @@ Beslutad av: Kommunfullmäktige, 2019-04-09 § 44, KS/2017:356
 Gäller från: 2019-04-09
 
 Ansvarig förvaltning: Kommunledningskontoret
-Kontakt: Kungsbacka direkt 0300–83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300–83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -4028,11 +4028,11 @@ Beslutad av:   Kommunfullmäktige 2026-02-03 § XX
 Gäller från:   2026-02-03
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 102 -->
 
@@ -4527,8 +4527,8 @@ lokala föreskrifter till skydd för människors hälsa och miljön. Dessa före
 kompletterar miljöbalkens regler och används som ett verktyg för att förebygga och
 motverka olägenheter för människors hälsa och miljö i Kungsbacka kommun.
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 116 -->
 
@@ -11171,7 +11171,7 @@ Nämnden för Teknik
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -11390,7 +11390,7 @@ ut varför dessa krav införs. Detta för att få en djupare förståelse från 
 1 (2)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -11594,7 +11594,7 @@ pantbrev
 30018 MC
 Fastighetsbyrån Norra Halland AB
 
-Vallgatan 4
+(adress borttagen)
 43430 Kungsbacka
 
 Besöksadress
@@ -11610,7 +11610,7 @@ Box 3078
 
 35033 Växjö
 
-Fastigheten Kungsbacka Karsjö 1:22 med adress Karsjövägen 4, 43497 Kungsbacka
+Fastigheten Kungsbacka Karsjö 1:22 med adress (adress borttagen), 43497 Kungsbacka
 I det följande kallad fastigheten
 
 Säljaren överlåter härmed fastigheten till köparen
@@ -12249,7 +12249,7 @@ Ekonomi
 
 Fastighetsbyrån Norra Halland AB
 
-Vallgatan 4
+(adress borttagen)
 43430 Kungsbacka
 
 Fastighetsbyrån (Cr
@@ -12443,7 +12443,7 @@ Godkännande - eftermarknadsföring 1 (1)
 
 Samtycke Undertecknande köpare och säljare samtycker till att Fastighetsbyrån vid marknadsföring
 får använda uppgifter, bilder och rörligt material som inhämtats i samband med
-förmedlingen av Fastigheten Kungsbacka Släps-Hagen 1:136 med adress Hagenvägen 18,
+förmedlingen av Fastigheten Kungsbacka Släps-Hagen 1:136 med adress (adress borttagen),
 42935 Kullavik. Marknadsföring kan komma att ske på Fastighetsbyråns hemsida, på
 sociala medier, vid kundbesök, genom utskick (fysiska och digitala) etc.
 

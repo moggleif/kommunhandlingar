@@ -38,7 +38,7 @@ Paus 18:15-18:30
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -1028,7 +1028,7 @@ finansiering av stöd för en kunskapsbaserad socialtjänst och kommunal hälso-
 Beslutet skickas till
 
 Efter samordning av besluten i nämnderna Individ & Familjeomsorg, Vård & Omsorg samt
-Gymnasium & Arbetsmarknad skickas besluten till SKR registrator@skr.se med hänvisning till
+Gymnasium & Arbetsmarknad skickas besluten till SKR (e-post borttagen) med hänvisning till
 ärendenummer SKR2024/00089.
 
 Beskrivning av ärendet.
@@ -1127,7 +1127,7 @@ Varje kommun behöver meddela SKR sitt ställningstagande. Beslutet fattas i rel
 
 instans i respektive kommun och meddelas skriftligen till SKR senast den 30:e juni
 2024\.
-Skicka kommunens ställningstagande till registrator@skr.se med hänvisning till
+Skicka kommunens ställningstagande till (e-post borttagen) med hänvisning till
 
 ärendenummer SKR2024/00089.
 
@@ -1137,7 +1137,7 @@ utmaningar. Att samarbeta nationellt är ett sätt att möta dessa utmaningar. A
 nationellt samla stöd för en kunskapsbaserad socialtjänst och kommunal hälso- och
 
 Sveriges Kommuner och Regioner
-info@skr.se, www.skr.se
+(e-post borttagen), www.skr.se
 Post: 118 82 Stockholm Besök: Hornsgatan 20
 Tfn: 08-452 70 00 Org nr: 222000-0315
 
@@ -1235,7 +1235,7 @@ oktober och november
 • Information på ”Aktuellt i socialtjänsten” 31 oktober.
 
 Sveriges Kommuner och Regioner
-info@skr.se, www.skr.se
+(e-post borttagen), www.skr.se
 Post: 118 82 Stockholm Besök: Hornsgatan 20
 Tfn: 08-452 70 00 Org nr: 222000-0315
 
@@ -1636,7 +1636,7 @@ Sedan hösten 2020 pågår ett arbete för att möjliggöra automatiserad
 informationsförsörjning till de fem nationella kvalitetsregistren. Under
 
 Sveriges Kommuner och Regioner
-info@skr.se, www.skr.se
+(e-post borttagen), www.skr.se
 Post: 118 82 Stockholm Besök: Hornsgatan 20
 Tfn: 08-452 70 00 Org nr: 222000-0315
 
@@ -2152,11 +2152,11 @@ Beslutad av:    Kommunfullmäktige 9 april 2024 § 58, KS 2023-00666
 Gäller från:    2024-05-02
 
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 62 -->
 
@@ -7005,7 +7005,7 @@ IP: 213.113.xxx.xxx                  IP: 82.99.xxx.xxx
 2024-03-28 06:24:07 UTC              2024-03-28 07:18:18 UTC
 
 Detta dokument är digitalt signerat genom Penneo.com. Den digitala dokumentet i Adobe Reader bör du se att dokumentet är certifierat
-signeringsdatan i dokumentet är säkrad och validerad genom det med Penneo e-signature service \<penneo@penneo.com> Detta
+signeringsdatan i dokumentet är säkrad och validerad genom det med Penneo e-signature service \<(e-post borttagen)> Detta
 datorgenererade hashvärdet hos det originella dokumentet. Dokumentet är låst garanterar att dokumentets innehåll inte har ändrats.
 och tidsstämplat med ett certifikat från en betrodd tredje part. All kryptografisk
 information är innesluten i denna PDF, för framtida validering om så krävs. Du kan verifiera den kryptografiska informationen i dokumentet genom
@@ -7031,7 +7031,7 @@ IP: 83.227.xxx.xxx
 2024-03-28 10:22:45 UTC
 
 Detta dokument är digitalt signerat genom Penneo.com. Den digitala dokumentet i Adobe Reader bör du se att dokumentet är certifierat
-signeringsdatan i dokumentet är säkrad och validerad genom det med Penneo e-signature service \<penneo@penneo.com> Detta
+signeringsdatan i dokumentet är säkrad och validerad genom det med Penneo e-signature service \<(e-post borttagen)> Detta
 datorgenererade hashvärdet hos det originella dokumentet. Dokumentet är låst garanterar att dokumentets innehåll inte har ändrats.
 och tidsstämplat med ett certifikat från en betrodd tredje part. All kryptografisk
 information är innesluten i denna PDF, för framtida validering om så krävs. Du kan verifiera den kryptografiska informationen i dokumentet genom
@@ -7050,7 +7050,7 @@ redogörelse               för    2023
 
 2024-03-27
 
-Kungsbacka kommun | 0300-83 40 00 | kommunrevision@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 155 -->
 
@@ -7569,11 +7569,11 @@ Beslutad av:    Kommunfullmäktige 9 april 2024 § 59, KS 2023-00627
 Gäller från:    2024-04-09
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 170 -->
 
@@ -7614,11 +7614,11 @@ Beslutad av:    Kommunfullmäktige 9 april 2024, KS 2023-00627
 Gäller från:    2024-04-09
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 172 -->
 
@@ -7907,11 +7907,11 @@ Beslutad av:    Kommunfullmäktige 9 april 2024 § 59, KS 2023-00627
 Gäller från:    2024-04-09
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 179 -->
 
@@ -8242,11 +8242,11 @@ Dokumentegenskaper: Titel: Gemensamt reglemente för kommunstyrelsen och nämnde
 Beslutad av:    Kommunfullmäktige 9 april 2024 § 59, KS-2023-00627
 Ansvarig förvaltning: Kommunstyrelsens förvaltning, Kansli
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 186 -->
 
@@ -8761,11 +8761,11 @@ Beslutad av:    Kommunfullmäktige 2024-04-09 § 59, Kommunstyrelsen 2024-03-19 
 Gäller från:    2024-04-09
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 197 -->
 
@@ -9314,11 +9314,11 @@ Beslutad av:    Kommunfullmäktige, 9 april 2024 § 60, KS 2023-00851
 Gäller från:    2024-04-09
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 210 -->
 
@@ -9519,7 +9519,7 @@ Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 Patrik Johansson
 Kommunsekreterare                                             Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 

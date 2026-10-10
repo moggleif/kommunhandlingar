@@ -1117,7 +1117,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
 
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 
@@ -1204,7 +1204,7 @@ vidare till Länsstyrelsen i Hallands län, som prövar det överklagade beslute
 hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter i form
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 Ansökan avser förhandsbesked för att bygga två tillkommande bostadshus med
@@ -1531,7 +1531,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
 
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 
@@ -1860,7 +1860,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 Ansökan
@@ -2237,7 +2237,7 @@ vidare till Länsstyrelsen i Hallands län, som prövar det överklagade beslute
 hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter i form
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 Historik
@@ -2510,7 +2510,7 @@ vidare till Länsstyrelsen i Hallands län, som prövar det överklagade beslute
 hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter i form
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 Ansökan registrerades 2023-11-09.
@@ -2677,7 +2677,7 @@ vidare till Länsstyrelsen i Hallands län, som prövar det överklagade beslute
 hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter i form
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 Ansökan registrerades 2023-12-28.
@@ -2926,7 +2926,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 Ansökan kom 2022-05-23
@@ -3522,7 +3522,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 form av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
 
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 
@@ -3739,7 +3739,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
 
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 
@@ -4061,7 +4061,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 Ansökan gäller nybyggnad av ett enbostadshus i två våningar och ett garage. Totalt
@@ -4319,7 +4319,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Expedierat/bestyrkt
 

@@ -39,7 +39,7 @@ Patrik Johansson                                             Kungsbacka kommun
 Kommunsekreterare                                             434 81 Kungsbacka
 Kommunstyrelsens förvaltning
 Besöksadress
-patrik.johansson2@kungsbacka.se
+(e-post borttagen)
 Stadshuset, Storgatan 37
 www.kungsbacka.se
 
@@ -4019,8 +4019,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #146706 | Inskickat av: | Datum: 2024-07-08 13:17 Sida 1 av 3
 
@@ -4062,8 +4062,8 @@ För vilken eller vilka fastigheter begär du planbesked?
 Fastighetsbeteckning               Fastighetens adress
 Alafors 4:12
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #146706 | Inskickat av: Datum: 2024-07-08 13:17 Sida 2 av 3
 
@@ -4109,8 +4109,8 @@ Medgivande planansökan.pdf (25 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #146706 | Inskickat av: | Datum: 2024-07-08 13:17 Sida 3 av 3
 
@@ -4816,7 +4816,7 @@ Projektnamn
 Detaljplan för bostäder inom Må 3:15 i Fjärås
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       Lovisa.eld@kungsbacka.se
+Lovisa Eld                       (e-post borttagen)
 
 Status
 Beställningen är                 Datum
@@ -5266,7 +5266,7 @@ P-O Cristenson
 
 Bif: Skiss Förskola
 
-Fastighets AB Mönster Gathes väg 80 43936 Onsala Telefon 0300-56 40 50 Fax 0300-56 40 51
+Fastighets AB Mönster (adress borttagen) 43936 Onsala Telefon 0300-56 40 50 Fax 0300-56 40 51
 Organisationsnummer 556351-1053 www.minvard.se infoQminvard.se
 
 <!-- sida 139 -->
@@ -5309,7 +5309,7 @@ Mönster AB
 
 P-O Cristenson
 
-Fastighets AB Mönster Gathes väg 80 43936 Onsala Telefon 0300-56 40 50 Fax 0300-56 40 51
+Fastighets AB Mönster (adress borttagen) 43936 Onsala Telefon 0300-56 40 50 Fax 0300-56 40 51
 Organisationsnummer 556351-1053 www.minvard.se infoeminvard.se
 
 <!-- sida 142 -->
@@ -6335,10 +6335,10 @@ Lägst: 1.000
 Högst: 4.000
 
 Styrelseledamot, ordförande
-700517-4672 Fritzson, Sven Peter, Fritz väg 33, 434 97 KUNGSBACKA
+(personnummer borttaget) Fritzson, Sven Peter, (adress borttagen), 434 97 KUNGSBACKA
 
 Styrelseledamöter
-950912-0276 Erlandsson, Christian Erik Natanael, Åleviksvägen 60,
+(personnummer borttaget) Erlandsson, Christian Erik Natanael, Åleviksvägen 60,
 
 <!-- sida 165 -->
 
@@ -6356,10 +6356,10 @@ bolagsverket.se
 
 429 43 SÄRÖ
 
-551028-4614 Erlandsson, Erik Tryggve Mikael, Åleviksvägen 60,
+(personnummer borttaget) Erlandsson, Erik Tryggve Mikael, (adress borttagen),
 429 43 SÄRÖ
 
-550517-4614 Mattsson, Glenn Osborne, Badhusvägen 4, 429 43 SÄRÖ
+(personnummer borttaget) Mattsson, Glenn Osborne, (adress borttagen), 429 43 SÄRÖ
 
 Firmateckning
 
@@ -6804,7 +6804,7 @@ Semrén & Månsson
 Vasagatan 40. 111 20 Stockholm. +46 8-459 37 00
 Polhemsplatsen 5. 411 11 Göteborg. +46 31 743 02 00
 Stortorget 13B. 211 22 Malmö. +46 31 743 02 00
-kontoret@semren-mansson.se
+(e-post borttagen)
 semren-mansson.se
 
 <!-- sida 181 -->
@@ -6854,7 +6854,7 @@ Semrén & Månsson
 Vasagatan 40. 111 20 Stockholm. +46 8-459 37 00
 Polhemsplatsen 5. 411 11 Göteborg. +46 31 743 02 00
 Stortorget 13B. 211 22 Malmö. +46 31 743 02 00
-kontoret@semren-mansson.se
+(e-post borttagen)
 semren-mansson.se
 
 <!-- sida 182 -->
@@ -6870,7 +6870,7 @@ Semrén & Månsson
 Vasagatan 40. 111 20 Stockholm. +46 8-459 37 00
 Polhemsplatsen 5. 411 11 Göteborg. +46 31 743 02 00
 Stortorget 13B. 211 22 Malmö. +46 31 743 02 00
-kontoret@semren-mansson.se
+(e-post borttagen)
 semren-mansson.se
 
 <!-- sida 183 -->
@@ -7341,7 +7341,7 @@ rapportens konstaterande om att en informationsportal inte löser det grundlägg
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -7553,7 +7553,7 @@ samverkansregion ska samverka i en gemensam nämnd eller genom ett kommunalförb
 Patrik Johansson                                          Kungsbacka kommun
 Kommunsekreterare                                          434 81 Kungsbacka
 Kommunstyrelsens förvaltning                                  Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -8099,7 +8099,7 @@ Att landshövdingen dessutom ska vara ordförande och utse representanterna för
 1 (3)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -9011,11 +9011,11 @@ Kommundirektör                     Biträdande kommundirektör
 
 <!-- sida 235 -->
 
-Från: uppdrag@scb.se \<uppdrag@scb.se>
+Från: (e-post borttagen) \<(e-post borttagen)>
 Skickat: den 17 juni 2024 08:51
 Ämne: Särskild statistikverksamhet
 
-Du får inte e-post ofta från uppdrag@scb.se. Se varför det här är viktigt.
+Du får inte e-post ofta från (e-post borttagen). Se varför det här är viktigt.
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller öppna
 bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -9064,9 +9064,9 @@ scb.se
 
 <!-- sida 236 -->
 
-Från: Karin Månsson \<karin.mansson@kungsbacka.se>
+Från: Karin Månsson \<(e-post borttagen)>
 Skickat: den 20 juni 2024 08:55
-Till: \*Uppdragstjänst \<uppdrag@scb.se>
+Till: \*Uppdragstjänst \<(e-post borttagen)>
 Ämne: Särskild statistikverksamhet
 
 Hej Caroline,
@@ -9082,12 +9082,12 @@ Kungsbacka Kommun
 Kommunledningskontoret
 434 81 KUNGSBACKA
 
-Från: uppdrag@scb.se \<uppdrag@scb.se>
+Från: (e-post borttagen) \<(e-post borttagen)>
 Skickat: den 20 juni 2024 10:15
-Till: Karin Månsson \<karin.mansson@kungsbacka.se>
+Till: Karin Månsson \<(e-post borttagen)>
 Ämne: Sv: Särskild statistikverksamhet
 
-Du får inte e-post ofta från uppdrag@scb.se. Se varför det här är viktigt.
+Du får inte e-post ofta från (e-post borttagen). Se varför det här är viktigt.
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller öppna
 bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -9121,11 +9121,11 @@ scb.se
 
 <!-- sida 238 -->
 
-Från: uppdrag@scb.se \<uppdrag@scb.se>
+Från: (e-post borttagen) \<(e-post borttagen)>
 Skickat: den 6 mars 2024 10:37
 Ämne: Statistikpaketen - information om särskild statistikverksamhet
 
-Du får inte e-post ofta från uppdrag@scb.se. Se varför det här är viktigt.
+Du får inte e-post ofta från (e-post borttagen). Se varför det här är viktigt.
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
@@ -9543,11 +9543,11 @@ Beslutad av:   [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 249 -->
 
@@ -9827,7 +9827,7 @@ Antecknat av
 
 Pauline Martinius
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 254 -->
 
@@ -9835,7 +9835,7 @@ KUNGSBACKA KOMMUN
 2 (2)
 
 Direkt +46300835939
-pauline.martinius@kungsbacka.se
+(e-post borttagen)
 
 <!-- sida 255 -->
 
@@ -9859,11 +9859,11 @@ Dokumentegenskaper: Titel: Trafikförsörjningsprogram
 Beslutad av:   Kommunfullmäktige 9 maj § 62, KS 2021-01242
 Gäller från:   2023-05-09 2025-01-01
 Ansvarig förvaltning: Teknik
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 256 -->
 
@@ -10577,7 +10577,7 @@ kan ansöka om plats. Kulturskolan riktar sig till barn som bor i kommunen, men 
 Fyll i dina kontaktuppgifter
 
 För- och efternamn                E-postadress
-Harald Tjelle                     harald.tjelle@kungsbacka.se
+Harald Tjelle                     (e-post borttagen)
 
 Telefon                           Organisation
 +46300838096                      Kultur & Fritid
@@ -10585,8 +10585,8 @@ Telefon                           Organisation
 Avdelning                         Tjänstetitel
 Kvalitet & social hållbarhet      Utvecklingsledare
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #163460 | Inskickat av: Harald Tjelle | Datum: 2024-10-14 09:32 Sida 1 av 3
 
@@ -10627,8 +10627,8 @@ kompensatoriska åtgärder vara viktiga för att säkerställa tillgång.
 
 4\. Barnkonsekvensanalys
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #163460 | Inskickat av: Harald Tjelle | Datum: 2024-10-14 09:32 Sida 2 av 3
 
@@ -10670,8 +10670,8 @@ barn med funktionsvariation. Dessa medel ger också verksamheten möjlighet till
 förebyggande och agila insatser i områden där barn och unga behöver fritidsaktiviteter och
 vuxenengagemang.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #163460 | Inskickat av: Harald Tjelle | Datum: 2024-10-14 09:32 Sida 3 av 3
 
@@ -10681,7 +10681,7 @@ Taxa    för  Kungsbacka         Kulturskola
 
 Denna taxa är beslutad med stöd av kommunallagen (2017:900), 2 kap. 5-6 §§
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 276 -->
 
@@ -10755,7 +10755,7 @@ Gäller från: 2025-01-01
 
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -10888,7 +10888,7 @@ kulturskolans verksamhet kunna utvecklas inom musik, dans, konst, film och teate
 
 3\. Avgiftsbelopp/taxetabeller
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 280-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/280-1.csv)
 
@@ -10951,7 +10951,7 @@ Beslutad av: Nämnden för Kultur & Fritid, 2024-08-21
 Gäller från: 2025-01-01
 Ansvarig förvaltning: Kultur & Fritid
 
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
@@ -11209,7 +11209,7 @@ kravrutiner gäller.
 Taxan börjar gälla: 1 juli 2015
 Beslutad av: Kommunfullmäktige § 91 2015-06-09
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 <!-- sida 288 -->
 
@@ -11400,7 +11400,7 @@ Taxa    för  Biblioteken       i Kungsbacka
 
 Denna taxa är beslutad med stöd av bibliotekslagen (2013:801) 9 §
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 294 -->
 
@@ -11462,7 +11462,7 @@ Gäller från: 2025-01-01
 
 Ansvarig förvaltning:
 Kultur & Fritid
-info@kungsbacka.se
+(e-post borttagen)
 0300-83 40 00
 Kungsbacka kommun
 434 81 Kungsbacka
@@ -11747,7 +11747,7 @@ material.
 
 3\. Avgiftsbelopp/taxetabell
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 301-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/301-1.csv)
 
@@ -11811,7 +11811,7 @@ Biblioteken i Kungs backa, taxa 2025 Sida 2 av 3
 Gäller från: 2025-01-01
 Ansvarig förvaltning:
 Kultur & Fritid
-info@kungsbacka.se
+(e-post borttagen)
 0300-83 40 00
 
 Kungsbacka kommun
@@ -11988,7 +11988,7 @@ Taxa   för  Naturum       Fjärås    Bräcka     och
 
 Taxan är beslutad med stöd av kommunallagen (2017:900), 2 kap. 5-6 §§
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 308 -->
 
@@ -12080,7 +12080,7 @@ Beslutad av:   [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från:   2025-01-01
 
 Ansvarig förvaltning: Kultur & Fritid
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -13869,7 +13869,7 @@ auktorisationssystem och maxtaxa
 
 2024-09-04
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 361 -->
 
@@ -13959,7 +13959,7 @@ Kungsbacka kommun
 Avfall & Återvinning
 
 0300-83 43 29
-sandra.carlstrom@kungsbacka.se
+(e-post borttagen)
 
 Kungsbacka kommun Fastighetsnära insamling av bygg- och rivningsavfall under 3
 kommunalt ansvar
@@ -14252,11 +14252,11 @@ Beslutad av:    Kommunfullmäktige 14 december 2023 § 194, KS 2023-00300
 Gäller från:    2024-01-01
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 371 -->
 

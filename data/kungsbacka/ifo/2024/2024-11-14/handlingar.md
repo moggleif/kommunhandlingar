@@ -450,7 +450,7 @@ Förvaltningschef                   Utvecklingsledare kvalitet
 Kungsbacka kommun
 434 81 Kungsbacka
 Kamilla Julin
-0729953315                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Utvecklingsledare                                        Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

@@ -980,7 +980,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 Ansökan registrerades 2023-08-31.
@@ -1209,7 +1209,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Reservation
 Stefan Vilumsons (SD) reserverar sig mot beslutet till förmån för eget
@@ -1528,7 +1528,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
 
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 
@@ -1728,7 +1728,7 @@ hur det ska ändras. Den som överklagar ska också uppge sina kontaktuppgifter 
 av namn, postadress, telefonnummer och gärna e-postadress, samt underteckna
 överklagan. Om det finns handlingar som stöd för överklagan ska dessa bifogas.
 
-Överklagandet får gärna skickas per e-post till info@kungsbacka.se.
+Överklagandet får gärna skickas per e-post till (e-post borttagen).
 
 Sammanfattning av ärendet
 

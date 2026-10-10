@@ -19,7 +19,8 @@ kommuner/<kommun>.toml
 2. hämta och konvertera, ett dokument i taget
              jämför med front matter →  hoppa över, eller:
              artig HTTP-klient        →  PDF i en temporär fil utanför repot
-             konvertering             →  .md + tabeller som .csv, PDF:en raderas
+             konvertering             →  .md + tabeller som .csv, personuppgifter
+                                         maskade, PDF:en raderas
         │
         ▼
 3. indexera                            →  index över alla dokument och versioner
@@ -140,6 +141,8 @@ Datakontrollerna, i körningen och i CI
   som är `ocr` eller `ej-konverterad` står i `tal_obekraftade`.
 - Figurerna och tolkningarna hänger ihop, och varje tal i en tolkad CSV
   står i sidans text, enligt [Tolkade figurer](#tolkade-figurer).
+- Ingen text eller tabell har personuppgifter som maskningen skulle ta
+  bort, enligt [Personuppgifter](#personuppgifter).
 
 Bara i körningen, eftersom en vanlig PR ändrar kod och dokument: att
 körningen bara har ändrat filer under `data/`.
@@ -759,6 +762,43 @@ Varje sida börjar med kommentaren `<!-- sida N -->`, så att en sida i
 - **Dokument från före version 0.4.0** rättades en gång med samma regel
   utan att hämtas igen, och har kvar sin äldre version i `pipeline` tills
   de konverteras om.
+
+### Personuppgifter
+
+Varför står i
+[ADR-0022](decisions/0022-personuppgifter-maskas-vid-konverteringen.md).
+Konverteringen maskar fyra slags uppgifter i sidans text och i varje
+tabellcell, innan något skrivs. Uppgiften byts mot en markör inom
+parentes; resten av raden står kvar.
+
+| Uppgift      | Känns igen som                                                       | Markör                       |
+| ------------ | -------------------------------------------------------------------- | ---------------------------- |
+| Personnummer | `ÅÅMMDD-NNNN`, `ÅÅMMDD+NNNN`, `ÅÅÅÅMMDD-NNNN` eller `ÅÅÅÅMMDDNNNN` med århundradet 19 eller 20, där månaden och dagen finns (dag 61–91 för samordningsnummer) och kontrollsiffran stämmer | `(personnummer borttaget)` |
+| Mobilnummer  | `07` följt av 0, 2, 3, 6 eller 9 och sju siffror, eller samma nummer med `+46` i stället för nollan, i svenska grupperingar (`070-123 45 67`, `0701234567`, `+46 70 123 45 67`) som inte står mitt i en följd av korta talgrupper, också direkt efter `.` eller `,` och bredvid ett annat nummer | `(mobilnummer borttaget)` |
+| E-postadress | något`@`domän`.`toppdomän                                              | `(e-post borttagen)`         |
+| Gatuadress   | ett gatunamn som slutar på väg, gata, gränd, stig, backe, torg, allé, led, lid eller plats (i grundform eller bestämd form, också som eget ord: `Exempels väg`), med nummer och ibland lägenhetsnummer, följt av postnummer och ort på samma eller nästa rad | `(adress borttagen)`         |
+
+- **Talen runt omkring** rörs inte. Ett personnummer utan bindestreck
+  med tio siffror känns inte igen, eftersom samma form finns bland
+  beloppen; ett mobilnummer omgivet av fler talgrupper är en del av en
+  tabell, inte ett nummer.
+- **Postnummer och ort** står kvar efter en maskad gatuadress. Ett ord
+  med samma efterled följt av tal som liknar gatunummer och postnummer
+  (`Parkeringsplats 2 345 67 Totalt`) maskas också.
+- **Namn och fasta telefonnummer** maskas inte.
+- **Escapad text.** Mönstren tål `\` före `_` i en e-postadress och `<br>`
+  mellan gatuadress och postnummer i en tabellcell, så att samma regel
+  gäller text som redan escapats (ADR-0021).
+- **Poolen** maskas med `python -m kommunhandlingar.maska_poolen data`, som
+  skriver om varje `.md` och CSV där något maskas, utan att hämta PDF:en.
+  `pipeline` rörs inte. En andra körning ändrar ingenting.
+- **Datakontrollen** faller på en fil där maskningen skulle ändra något.
+- **Det som inte känns igen** står kvar: ett nummer som OCR läst fel, som
+  delats av en radbrytning eller skrivits med tankstreck, `(+46)` eller
+  `0046`, en adress utan postnummer, och ett gatunamn med ett annat
+  efterled (`Hamnvägen` maskas, `Hamnen 3` inte).
+- **Koden** står i `src/kommunhandlingar/personuppgifter.py`, som
+  konverteringen, poolkommandot och datakontrollen delar.
 
 ## Steg 2: hämta och konvertera
 

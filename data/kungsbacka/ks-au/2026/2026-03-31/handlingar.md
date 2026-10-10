@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Therese Tanner                                               Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834235
-therese.tanner@kungsbacka.se                                    Besöksadress
+(e-post borttagen)                                    Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -2349,11 +2349,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Giltig från:    [Klicka eller tryck här för att ange datum]
 Datum:          2026-02-06
 Ansvarig förvaltning: Förvaltningen för Service
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 66 -->
 
@@ -2390,11 +2390,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Giltig från:    [Klicka eller tryck här för att ange datum]
 Datum:          2026-02-06
 Ansvarig förvaltning: Förvaltningen för Service
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 68 -->
 
@@ -2813,11 +2813,11 @@ Beslutad av:    [Klicka och skriv beslutsinstans, datum och paragraf]
 Giltig från:    [Klicka eller tryck här för att ange datum]
 Datum:          2026-02-06
 Ansvarig förvaltning: Förvaltningen för Service
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 78 -->
 
@@ -13718,7 +13718,7 @@ Varbergs kommun. (2022).
 
 <!-- sida 315 -->
 
-Hemsida: www.calluna.se • E-post: info@calluna.se • Telefon växel: 013-12 25 75
+Hemsida: www.calluna.se • E-post: (e-post borttagen) • Telefon växel: 013-12 25 75
 Huvudkontor: Calluna AB, Linköpings slott, 582 28 Linköping
 
 <!-- sida 316 -->
@@ -15147,7 +15147,7 @@ Susanne Calming
 Besöksadress
 Specialist mark och exploatering
 Stadshuset, Storgatan 37
-susanne.calming@kungsbacka.se
+(e-post borttagen)
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -16294,13 +16294,13 @@ PER OLOF                          ANDERSSON MOSTRÖM
 
 E-postadress                      Mobiltelefon
 
-per.andersson@kynningsrud.se
+(e-post borttagen)
 
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #256690 | Inskickat av: PER OLOF ANDERSSON MOSTRÖM | Datum: 2026-01-23 10:59 Sida 1 av 4
 
@@ -16315,7 +16315,7 @@ Utdelningsadress                  Postnummer
 Hälle-Lider 2B                    45931
 
 Postort                           Telefon
-Ljungskile                        0706330045
+Ljungskile                        (mobilnummer borttaget)
 
 E-postadress                      Eventuell fakturareferens
 \-                                 -
@@ -16336,8 +16336,8 @@ Fastighetsbeteckning               Fastighetens adress
 
 Kolla 5:2
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #256690 | Inskickat av: PER OLOF ANDERSSON MOSTRÖM | Datum: 2026-01-23 10:59 Sida 2 av 4
 
@@ -16366,8 +16366,8 @@ Vill du bifoga en situationskarta?
 
 Ja
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #256690 | Inskickat av: PER OLOF ANDERSSON MOSTRÖM | Datum: 2026-01-23 10:59 Sida 3 av 4
 
@@ -16390,8 +16390,8 @@ Medgivande.pdf (399 KB)
 
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #256690 | Inskickat av: PER OLOF ANDERSSON MOSTRÖM | Datum: 2026-01-23 10:59 Sida 4 av 4
 

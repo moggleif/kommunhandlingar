@@ -149,11 +149,11 @@ Skapat av: Katarina Öryd
 Beslutad av:   Byggnadsnämnden
 Gäller från:   2024-04-18
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:       Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:       Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 5 -->
 
@@ -844,7 +844,7 @@ I förvaltningens förslag finns inga ställningstaganden i detalj från nämnde
 1 (1)
 Nämnd                                                     Kungsbacka kommun
 434 81 Kungsbacka
-nämnd@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00

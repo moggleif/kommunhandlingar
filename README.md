@@ -19,6 +19,8 @@ PDF:en hämtas tillfälligt, konverteras och raderas. Kvar blir texten, och
 överst i varje Markdown-fil står varifrån den kom och hur väl
 konverteringen lyckades ([fälten](docs/03-ARKITEKTUR.md#front-matter)).
 Bakgrunden står i [ADR-0001](docs/decisions/0001-ett-repo-bara-text.md).
+Personnummer, mobilnummer, e-postadresser och gatuadresser maskas i texten
+([ADR-0022](docs/decisions/0022-personuppgifter-maskas-vid-konverteringen.md)).
 
 ## Dokumentation
 

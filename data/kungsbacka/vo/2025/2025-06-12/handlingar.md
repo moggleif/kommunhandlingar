@@ -894,7 +894,7 @@ Beslutad av: Nämnden för Vård & Omsorg, 2025-06-12, §
 
 Gäller från: 2025-07-01
 Ansvarig förvaltning: Förvaltningen för Vård & Omsorg
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka kungsbacka.se
 
@@ -990,7 +990,7 @@ Beslutad av:    Förvaltningschef Arian Faily, 2025-06-04
 Gäller från:    2025-06-04
 
 Ansvarig förvaltning: Vård & Omsorg, myndighet
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
@@ -1444,7 +1444,7 @@ Strategisk   plan  för kompetensförsörjning       inom
 
 förvaltningen   för Vård   &  Omsorg    (UTKAST      version  2)
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 52 -->
 
@@ -4451,8 +4451,8 @@ Senast uppföljd: 20xx-xx-xx
 
 Ansvarig förvaltning: Vård & Omsorg
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 125 -->
 
@@ -4653,7 +4653,7 @@ Senast reviderad: 20xx-xx-xx
 Senast uppföljd: 20xx-xx-xx
 Gäller för:     Vård & Omsorg
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 131 -->
 
@@ -4838,8 +4838,8 @@ Gäller för:     [Nämnden för Vård & Omsorg
 
 Ansvarig förvaltning: Vård & Omsorg
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 136 -->
 
@@ -5048,8 +5048,8 @@ Senast uppföljd: 2024-xx-xx
 Gäller för:     Vård & Omsorg, Individ & Familjeomsorg, Privata utförare
 Ansvarig förvaltning: Vård &Omsorg
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 142 -->
 
@@ -5210,8 +5210,8 @@ Senast reviderad: 20xx-xx-xx
 Senast uppföljd: 20xx-xx-xx
 Ansvarig förvaltning: Vård & Omsorg
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
-Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
+Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 147 -->
 
@@ -5479,7 +5479,7 @@ inom         särskilt          boende
 
 VO-2024-00410
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 154 -->
 
@@ -8745,7 +8745,7 @@ www.kungsbacka.se
 
 Utredning                      Handläggare
 Diarienummer 2025-00064        Rebecca Apelvi
-Rebecca.apelvi@kungsbacka.se
+(e-post borttagen)
 
 Utredning med anledning av rapporterad händelse enligt lex
 Sarah gällande Vallda hemtjänst.
@@ -8781,7 +8781,7 @@ Bakgrund
 Inkommer ett samtal från närstående till omsorgstagare som besöker bostaden kl 8.30
 den 10 februari och märker att det saknas VAK-personal som är ordinerat av
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 231 -->
 

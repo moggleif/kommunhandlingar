@@ -162,7 +162,7 @@ gällande permanent utökning av barnantal
 
 Förslag till beslut
 Nämnden för Förskola & Grundskola godkänner ansökan från Personalkooperativet
-Hagen Ekonomisk förening, Mariedalsvägen 2, 439 30 Onsala, om permanent
+Hagen Ekonomisk förening, (adress borttagen), 439 30 Onsala, om permanent
 utökning till totalt 54 barn.
 
 Sammanfattning av ärendet
@@ -440,6 +440,6 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   forskola.grundskola@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday

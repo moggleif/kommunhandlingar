@@ -64,7 +64,7 @@ Verksamhetschef                    Trafiksamordnare
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Samordnare                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -139,7 +139,7 @@ Verksamhetschef                    Trafiksamordnare
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Samordnare                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -215,7 +215,7 @@ Verksamhetschef                    Trafiksamordnare
 Trafik & Utemiljö                                         Kungsbacka kommun
 434 81 Kungsbacka
 Linda Sövgren
-0700815270                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Samordnare                                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se

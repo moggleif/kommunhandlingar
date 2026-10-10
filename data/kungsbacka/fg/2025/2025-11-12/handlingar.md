@@ -39,7 +39,7 @@ Plats: Måseskär, Varlaskolan
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -168,7 +168,7 @@ Tjänsteskrivelse Kvalitet & Utveckling, 2025-10-20
 FG Myndighet & Stöd                                       Kungsbacka kommun
 434 81 Kungsbacka
 Frida Byrsten
-070-265 59 66                                                 Besöksadress
+(mobilnummer borttaget)                                                 Besöksadress
 Verksamhetschef                                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -5049,7 +5049,7 @@ För verksamhet som avses i 25 kap. och för fritidshem som inte är integrerade
 en skolenhet eller förskoleenhet gäller första och andra styckena för den personal
 som huvudmannen utser. Lag (2018:1303).
 
-Kungsbacka kommun • Telefon 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 131 -->
 

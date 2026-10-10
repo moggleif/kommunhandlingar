@@ -282,10 +282,10 @@ Dokumentegenskaper: Titel: Vatten och avlopp Taxa 2026
 Beslutad av:    Kommunfullmäktige 2026-XX-XX § XXX, KS-2026-XXXXX
 Gäller från:    2026-01-01
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se33
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 9 -->
 
@@ -1020,10 +1020,10 @@ Dokumentegenskaper: Titel: Vatten och avlopp Taxa 2026
 Beslutad av:    Kommunfullmäktige 2026-XX-XX § XXX, KS-2026-XXXXX
 Gäller från:    2026-01-01
 Ansvarig förvaltning: Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se33
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 24 -->
 
@@ -3595,7 +3595,7 @@ Verksamhetschef
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -10998,7 +10998,7 @@ Vi är tacksamma om ni kan medverka genom att besvara enkäten senast den
 10 december.
 Kontaktuppgifter
 Välkommen att kontakta mig, Jonas Melinder, för frågor på telefon 010-223
-14 59 eller via e-post jonas.melinder@lansstyrelsen.se.
+14 59 eller via e-post (e-post borttagen).
 Vänlig hälsning, Jonas Melinder
 Bilagor: Enkät i pdf-format.
 
@@ -11032,7 +11032,7 @@ Vi är tacksamma om ni kan medverka genom att besvara enkäten senast den 10 dec
 
 Kontaktuppgifter
 Välkommen att kontakta mig, Jonas Melinder, för frågor på telefon 010-2231459 eller via e-post
-Jonas.Melinder@lansstyrelsen.se.
+(e-post borttagen).
 Det går även bra att ringa till Länsstyrelsens växel. Telefonnummer finns längst ner på första sidan.
 
 Vänlig hälsning, Jonas Melinder
@@ -12266,7 +12266,7 @@ Remissinstanser
 
 Telefonväxel: 08-405 10 00  Postadress: 103 33 Stockholm
 Fax: 08-24 46 31            Besöksadress: Herkulesgatan 17
-Webb: www.regeringen.se     E-post: ju.registrator@regeringskansliet.se
+Webb: www.regeringen.se     E-post: (e-post borttagen)
 
 <!-- sida 293 -->
 
@@ -12386,8 +12386,8 @@ för mänskliga rättigheter och humanitär rätt)
 Remissvaren ska ha kommit in till Justitiedepartementet senast den 3
 november 2025. Svaren bör lämnas per e-post till
 
-ju.remissvar@regeringskansliet.se och med kopia till
-ju.L4@regeringskansliet.se. Ange diarienummer Ju2025/01510 och
+(e-post borttagen) och med kopia till
+(e-post borttagen). Ange diarienummer Ju2025/01510 och
 remissinstansens namn i ämnesraden på e-postmeddelandet.
 
 Svaret bör lämnas i två versioner: den ena i ett bearbetningsbart format (t.ex.
@@ -12429,7 +12429,7 @@ Kansliråd
 
 Kopia till
 
-Elanders Sverige AB, e-postadress: betankande@elanders.com
+Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 5 (5)
 
@@ -12555,7 +12555,7 @@ kan ligga till grund för att genomföra ett testområde.
 1 (2)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -12902,12 +12902,12 @@ Dokumentegenskaper: Titel: Lokala avfallsföreskrifter
 Beslutad av:        Kommunfullmäktige
 Gäller från:        2026-01-01
 Ansvarig förvaltning: Teknik
-Kontakt:            Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:            Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 311 -->
 
@@ -14120,7 +14120,7 @@ Beslutad av: Kommunfullmäktige
 Gäller från: 2026-01-01
 Ansvarig förvaltning: Teknik
 
-Kontakt:Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 Kungsbacka kommun            Lokala avfallsföreskrifter        33 (33)
@@ -14319,11 +14319,11 @@ Beslutad av:    Nämnden för Teknik, 2025-09-24, TE-2025-00504
 Giltig från:    2025-10-20
 
 Ansvarig förvaltning: Förvaltningen för Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 349 -->
 
@@ -14551,7 +14551,7 @@ Förordning (1982:198)  Förordning (1982:198) om flyttning av fordon i vissa fa
 
 Lag (1982:129)         Lag (1982:129) om flyttning av fordon i vissa fall
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 354 -->
 
@@ -14594,7 +14594,7 @@ Kungsbacka kommun      Delegering av beslutanderätt för nämnden för Teknik 7
 2.1.5 OSL 6 kap 1 a §          Avgift ska betalas helt eller delvis innan avskriften eller kopia av Fc
 allmän handling lämnas ut.           Nämnd-
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 355-1](handlingar.tabeller/355-1.csv)
 
@@ -15121,7 +15121,7 @@ Förvaltningschef                   Verksamhetschef
 1 (1)
 Hannes Rydberg                                            Kungsbacka kommun
 434 81 Kungsbacka
-0700833460
+(mobilnummer borttaget)
 Projektledare                                                 Besöksadress
 Stadshuset, Storgatan 37
 Vatten Avfall och Bredband
@@ -15148,7 +15148,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -15175,7 +15175,7 @@ Biträdande verksamhetschef
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -15254,7 +15254,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -15697,13 +15697,13 @@ bifogade konsekvensutredningen.
 
 Ni ges härmed möjlighet att lämna synpunkter på förslagen och
 konsekvensutredningen senast den 30 september 2025.
-Synpunkterna ska skickas till registrator@naturvardsverket.se. Ange
+Synpunkterna ska skickas till (e-post borttagen). Ange
 ärendenummer NV-25-030074 i ämnesraden.
 
 Den som har frågor om remissen kan vända sig till någon i arbetsgruppen:
-marianne.kangstrom@naturvardsverket.se,
-nathalie.sylvander@naturvardsverket.se, eller
-emelie.jonsson@naturvardsverket.se.
+(e-post borttagen),
+(e-post borttagen), eller
+(e-post borttagen).
 
 För Naturvårdsverket
 
@@ -15719,7 +15719,7 @@ BESÖK: STOCKHOLM – VIRKESVÄGEN 2
 ÖSTERSUND – FORSKARENS VÄG 5, HUS UB
 POST: 106 48 STOCKHOLM
 TEL: 010-698 10 00
-E-POST: REGISTRATOR@NATURVARDSVERKET.SE
+E-POST: (e-post borttagen)
 INTERNET: WWW.NATURVARDSVERKET.SE
 
 <!-- sida 401 -->
@@ -15862,7 +15862,7 @@ BESÖK: STOCKHOLM – VALHALLAVÄGEN 195
 POST: 106 48 STOCKHOLM
 TEL: 010-698 10 00
 FAX: 010-698 16 00
-E-POST: REGISTRATOR@NATURVARDSVERKET.SE
+E-POST: (e-post borttagen)
 INTERNET: WWW.NATURVARDSVERKET.SE
 
 <!-- sida 404 -->
@@ -17384,7 +17384,7 @@ Mellan nedanstående parter träffas härmed avtal om samverkan enligt följande
 §1 Parter
 Trafikverket, Västra Regionen, 202100-6297, 781 89 Borlänge, nedan Trafikverket
 
-Kungsbacka Kommun, 212000-1256, Stadshuset, Storgatan 37, 434 81 Kungsbacka
+Kungsbacka Kommun, 212000-1256, Stadshuset, (adress borttagen), 434 81 Kungsbacka
 
 §2 Definitioner och begrepp
 Följande definitioner och begrepp används i detta avtal:
@@ -17668,7 +17668,7 @@ Sidor
 6(8)
 underentreprenör vara klar på vilka krav som gäller för trafikens framkomlighet.
 Kontakt ska tas med regionens trafikingenjör. Mail skickas till:
-trafikmiljo.vastra@trafikverket.se ange Västra Regionen, Trafikingenjör Ta-planer
+(e-post borttagen) ange Västra Regionen, Trafikingenjör Ta-planer
 vid avtal. Tillstånd för att börja arbeta efter en trafikanordningsplan kan erhållas
 när kommunen eller kommunens entreprenör har egenregistrerat efterfrågade
 uppgifter i det webbaserade programmet (FIFA), se www.trafikverket.se/apv, och
@@ -17962,7 +17962,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 
@@ -18013,7 +18013,7 @@ hållbara transportlösningar och vara flexibla över tid.
 1 (2)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -20553,10 +20553,10 @@ bygglagen 2010:900.
 
 Handläggare
 
-Sofia Wiman, Planarkitekt, sofia.wiman@kungsbacka.se
+Sofia Wiman, Planarkitekt, (e-post borttagen)
 0300-83 49 24
 
-Lena Melvinsdotter, Exploateringsingenjör, lena.melvinsdotter@kungsbacka.se
+Lena Melvinsdotter, Exploateringsingenjör, (e-post borttagen)
 0300-83 42 68
 
 Handlingar:
@@ -23310,7 +23310,7 @@ Samhällsbyggnadskontoret
 Kungsbacka kommun
 
 0300-83 40 00
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/aktuellaprojekt
 62 Planbeskrivning                                      Planbeskrivning 63
 
@@ -23983,8 +23983,8 @@ E.ON fastslår att det är av yttersta vikt att ett nära samarbete etableras ti
 
 E.ON i den fortlöpande detaljplansprocessen för att kunna komma fram till en möjlig lösning.
 Ledningssamordning och panering gällande E.Ons anläggningar kontaktas Alfred Johansson E.ON
-Energidistribution AB, tfn 0722-169365 e-post alfred.johansson@eon.se. Alfred är tillbaka från sin
-semester den 15/8 om kontakt önskas innan dess går det bra att maila PBL@eon.se
+Energidistribution AB, tfn (mobilnummer borttaget) e-post (e-post borttagen). Alfred är tillbaka från sin
+semester den 15/8 om kontakt önskas innan dess går det bra att maila (e-post borttagen)
 
 EON Noterar att det i planbeskrivningen/Fastighetsrättsliga konsekvenser under stycket ledningsrätt
 och ansökan om lantmäteriförrättning framgår att respektive ledningsägare för allmänna ledningar
@@ -24365,7 +24365,7 @@ Organisation
 
 Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post:   teknik@kungsbacka.se
+E-post:   (e-post borttagen)
 
 © twoday
 

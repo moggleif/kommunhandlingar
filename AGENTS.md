@@ -95,7 +95,9 @@ Skriv aldrig om ett annat dokuments fakta – länka till dem.
   issuetexter. Den som deltar skrivs med sin roll: projektägaren,
   AI-agenten, granskaren. Kontonamn i repoadresser och länkar och
   upphovsrättsraden i `LICENSE` är undantagna, utom ett konto- eller
-  organisationsnamn som innehåller ett personnamn.
+  organisationsnamn som innehåller ett personnamn. Poolens innehåll under
+  `data/` återger källan och är också undantaget; där maskas bara
+  identifierare (ADR-0022).
 
 ## Arbetsflöde
 

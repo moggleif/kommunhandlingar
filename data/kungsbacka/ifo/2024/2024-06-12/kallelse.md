@@ -38,7 +38,7 @@ Kyrkskolan
 Josefine Jönsson                                             Kungsbacka kommun
 434 81 Kungsbacka
 Direkt 0300-838345
-josefine.jonsson@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)
 

@@ -139,11 +139,11 @@ Beslutad av:    Byggnadsnämnden, 2026-03-19 § 49, BN-2026-00026
 Giltig från:    2026-03-19
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 4 -->
 
@@ -356,7 +356,7 @@ Kungsbacka kommun      Delegering av beslutanderätt Byggnadsnämnden 6 (31)
 2.1 Allmänt
 0B
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 9-1](handlingar.tabeller/9-1.csv)
 
@@ -775,11 +775,11 @@ Beslutad av:    Byggnadsnämnden, XXXX-XX-XX §, BN-2026-00111
 Giltig från:    2026-06-25
 
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 35 -->
 
@@ -990,7 +990,7 @@ Kungsbacka kommun      Delegering av beslutanderätt Byggnadsnämnden 5 (30)
 2.1 Allmänt
 0B
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 39-1](handlingar.tabeller/39-1.csv)
 
@@ -1668,11 +1668,11 @@ Beslutad av:    Byggnadsnämnden 2026-06-25 § XX
 Gäller från:    2026-06-25
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 72 -->
 

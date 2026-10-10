@@ -37,7 +37,7 @@ Teknikens hus, Utholmen
 
 Hannah Lundborg                                              Kungsbacka kommun
 Förvaltningen för Service                                     434 81 Kungsbacka
-hannah.lundborg@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 
 [Tabell 1-1](kallelse.tabeller/1-1.csv)

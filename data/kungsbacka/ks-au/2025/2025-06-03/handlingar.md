@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 020-751 751
 www.kungsbacka.se
@@ -449,7 +449,7 @@ måste omhändertagas och synliggöras i revideringen av Region Hallands Trafikf
 1 (2)
 Nämndens namn                                             Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -3610,7 +3610,7 @@ jämförelse                 av    fem        modeller
 
 2025-04-23
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 90 -->
 
@@ -4437,7 +4437,7 @@ Summa överföringar = 97 181
 
 Telefon
 
-0705434519
+(mobilnummer borttaget)
 
 Namnförtydligande
 
@@ -4453,7 +4453,7 @@ iSningen ger en rättvisande bild av hur partistödet använts.
 
 Telefon
 
-0708245962
+(mobilnummer borttaget)
 
 Erlånd Andersson
 
@@ -5410,7 +5410,7 @@ Summa 3 år                                 1 155 720 kr
 
 Sökande och initiativtagare:
 Ung Företagsamhet i Hallands län
-Tre Hjärtans väg 2,302 41 Halmstad
+Tre (adress borttagen),302 41 Halmstad
 Org. Nr: 849201-7960
 
 BG: 5873-4047
@@ -5646,7 +5646,7 @@ Länsstyrelsen i Hallands län
 Kommunstyrelsens förvaltning                              Kungsbacka kommun
 434 81 Kungsbacka
 John Borlid
-0734696289                                                    Besöksadress
+(mobilnummer borttaget)                                                    Besöksadress
 Kommunekolog                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -5722,7 +5722,7 @@ Kungsbacka kommun
 1 (1)
 Kommunstyrelsen                                           Kungsbacka kommun
 434 81 Kungsbacka
-kommun@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
@@ -5741,7 +5741,7 @@ Fig.1. Naturreservatet är markerat med blå helstreckad linje. Den röda cirkel
 Fälareds naturreservats ungefärliga läge.
 
 Postadress  Besöksadress E-post           Telefon
-301 86 HALMSTAD Slottsgatan 2 Halland@lansstyrelsen.se 010 – 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 – 224 30 00
 
 <!-- sida 134 -->
 
@@ -7102,8 +7102,8 @@ Telefon                           E-postadress
 Notifieringar
 E-post
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #191549 | Inskickat av: Datum: 2025-03-13 14:38 Sida 1 av 3
 
@@ -7130,8 +7130,8 @@ Markera fastigheten eller fastigheterna du begär planbesked för
 Du kan välja att bifoga en situationskarta med tydliga markeringar istället för att markera
 fastigheten eller fastigheterna på denna kartan.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #191549 | Inskickat av: | Datum: 2025-03-13 14:38 Sida 2 av 3
 
@@ -7162,8 +7162,8 @@ Beskrivning
 Ansökan om planbesked Kyvik 3.147.pdf (92 KB)
 Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 
-Kungsbacka kommun | Stadshuset, Storgatan 37, 434 81 Kungsbacka | 0300-83 40 00
-Organisationsnummer: 212000-1256 | info@kungsbacka.se | kungsbacka.se
+Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
+Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #191549 | Inskickat av: | Datum: 2025-03-13 14:38 Sida 3 av 3
 
@@ -8194,7 +8194,7 @@ reinvesteringsåtgärder behöver genomföras för att sörja för detta ansvar.
 föreligger alltjämt behov att anpassa lokaler genom verksamhetsanpassningar för
 att bättre stödja partnerförvaltningar i lokalerna.
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 206 -->
 

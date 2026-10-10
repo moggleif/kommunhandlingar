@@ -37,7 +37,7 @@ Lokal: Lagan, Vägmästaren
 
 Lars Sundbom                                                 Kungsbacka kommun
 434 81 Kungsbacka
-Lars.sundbom@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stationsgatan 9
 020-751 751

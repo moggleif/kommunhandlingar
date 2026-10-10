@@ -38,7 +38,7 @@ Kungsbackarummet, Storgatan 37
 Andrea Egerlundh                                             Kungsbacka kommun
 Kommunstyrelsens förvaltning                                  434 81 Kungsbacka
 Direkt 0300-834272
-andrea.egerlundh@kungsbacka.se                                  Besöksadress
+(e-post borttagen)                                  Besöksadress
 Stadshuset
 www.kungsbacka.se
 
@@ -1408,7 +1408,7 @@ gemensamma ledningsprocesser. Enligt Kungsbacka kommuns riktlinjer för arkivvå
 och informationsförvaltning ska även varje myndighet upprätta en egen
 informationshanteringsplan.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 38 -->
 
@@ -2377,12 +2377,12 @@ Beslutad av: [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 86 -->
 
@@ -2398,7 +2398,7 @@ gemensamma ledningsprocesser. Enligt Kungsbacka kommuns riktlinjer för arkivvå
 och informationsförvaltning ska även varje myndighet upprätta en egen
 informationshanteringsplan.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 87 -->
 
@@ -3367,12 +3367,12 @@ Beslutad av: [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 135 -->
 
@@ -3388,7 +3388,7 @@ gemensamma ledningsprocesser. Enligt Kungsbacka kommuns riktlinjer för arkivvå
 och informationsförvaltning ska även varje myndighet upprätta en egen
 informationshanteringsplan.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 136 -->
 
@@ -4356,12 +4356,12 @@ Beslutad av: [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 
 Ansvarig förvaltning: Kommunstyrelsens förvaltning
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 184 -->
 
@@ -4496,7 +4496,7 @@ stödprocesser. Enligt Kungsbacka kommuns riktlinjer för informationsförvaltni
 varje myndighet upprätta en informationshanteringsplan som antas av myndigheten.
 Ändringar ska samrådas med arkivmyndigheten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 188 -->
 
@@ -5701,9 +5701,9 @@ Informationshanteringsplan                      Sida 69 av 126
 | Process: | Hantera uppsägning från arbetsgivaren |  |  |  |  |
 | Processnummer: | 2.3.9.2 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Informera | Kopia på varsel om<br>uppsägning | Se anmärkning | Papper | Se anmärkning | Original skickas till fack. Varsel som resulterar i<br>avslut bevaras i Novi.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
-|  | Kopia på<br>underättelse om<br>uppsägning | Se anmärkning | Digitalt | Se anmärkning | Original skickas till medarbetare. Underättelse som<br>resulterar i avslut bevaras i Novi.<br>Underrättelse som inte resulterar i avslut e-postas<br>till personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
-|  | Kopia på varsel om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Varsel som resulterar i<br>avslut bevaras i Novi.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
+| Informera | Kopia på varsel om<br>uppsägning | Se anmärkning | Papper | Se anmärkning | Original skickas till fack. Varsel som resulterar i<br>avslut bevaras i Novi.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
+|  | Kopia på<br>underättelse om<br>uppsägning | Se anmärkning | Digitalt | Se anmärkning | Original skickas till medarbetare. Underättelse som<br>resulterar i avslut bevaras i Novi.<br>Underrättelse som inte resulterar i avslut e-postas<br>till personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
+|  | Kopia på varsel om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Varsel som resulterar i<br>avslut bevaras i Novi.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
 |  | Kopia på<br>underättelse om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Underättelse som<br>resulterar i avslut bevaras i Novi. |
 | Besluta | Besked om avslut<br>av anställning | Personakt | Papper | Bevaras |  |
 
@@ -5980,7 +5980,7 @@ Informationshanteringsplan                      Sida 87 av 126
 | --- | --- | --- | --- | --- | --- |
 | Hantera garantier<br>och säkerheter | Garantier | Se anmärkning | Se anmärkning | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anmärkning | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
-| Hantera<br>attestbehörigheter | Attestunderlag | Se anmärkning | Se anmärkning | 7 år efter avslutad<br>attestbehörighet | Attestunderlagen som skickas in digitalt till<br>attester@kungsbacka.se registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
+| Hantera<br>attestbehörigheter | Attestunderlag | Se anmärkning | Se anmärkning | 7 år efter avslutad<br>attestbehörighet | Attestunderlagen som skickas in digitalt till<br>(e-post borttagen) registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anmärkning | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga.<br>Försäkringsbrev arkiveras i<br>samarbetsrummet\KSF Ekonomi<br>KLK\12Försäkringar\Försäkringsbrev |
 
 <!-- sida 275 -->
@@ -6623,12 +6623,12 @@ Beslutad av: [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 
 Ansvarig förvaltning: [Klicka och skriv]
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 313 -->
 
@@ -6644,7 +6644,7 @@ stödprocesser. Enligt Kungsbacka kommuns riktlinjer för informationsförvaltni
 varje myndighet upprätta en informationshanteringsplan som antas av myndigheten.
 Ändringar ska samrådas med arkivmyndigheten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 314 -->
 
@@ -7254,8 +7254,8 @@ Informationshanteringsplan                      Sida 35 av 127
 | Process: | Hantera LAS |  |  |  |  |
 | Processnummer: | 2.3.1.2 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Meddela fack om<br>varsel | Kopia på varsel om<br>uppsägning | Se anmärkning | Papper | Se anmärkning | Original skickas till fack. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
-|  | Kopia på varsel om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
+| Meddela fack om<br>varsel | Kopia på varsel om<br>uppsägning | Se anmärkning | Papper | Se anmärkning | Original skickas till fack. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
+|  | Kopia på varsel om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
 |  | Varselbrev av<br>tidsbegränsad<br>anställning | HR-administratör<br>för LAS/Winlas | Papper | 2 år |  |
 
 <!-- sida 349 -->
@@ -7382,7 +7382,7 @@ Informationshanteringsplan                      Sida 42 av 127
 | Utbilda internt | Guide | KLOK | Digitalt | Vid inaktualitet | Kan även kallas kurs eller utbildning. |
 |  | Korrespondens | Se anmärkning | Digitalt | Vid inaktualitet | Outlook och Teams. Exempelvis<br>kursinbjudningar. |
 |  | Film | Stream | Digitalt | Vid inaktualitet |  |
-| Gå utbildning | Ansökan om<br>fritidsstudiebidrag | Personakt | Se<br>anm.Digitalt | BevarasSe<br>anmärkning | Skannas och e-postas till personalarkivet<br>personalarkivet@kungsbacka.se där den förvaras<br>digitalt. Godkänd ansökan bevaras i personakt.<br>Avslagen ansökan gallras efter 14 månader.<br>Bilagor till ansökan gallras efter 14 månader. |
+| Gå utbildning | Ansökan om<br>fritidsstudiebidrag | Personakt | Se<br>anm.Digitalt | BevarasSe<br>anmärkning | Skannas och e-postas till personalarkivet<br>(e-post borttagen) där den förvaras<br>digitalt. Godkänd ansökan bevaras i personakt.<br>Avslagen ansökan gallras efter 14 månader.<br>Bilagor till ansökan gallras efter 14 månader. |
 |  | Överenskommelse om<br>studier | Personakt | Papper | Bevaras |  |
 |  | Kopia på intyg om<br>genomgången<br>utbildning | Se anmärkning | Se<br>anmärkning | Bevaras | Kan även kallas utbildningsbevis och<br>kompetensbevis.<br>Papper förvaras i personakt.<br>Digitalt bevaras i Winlas eller KLOK. |
 
@@ -7884,9 +7884,9 @@ Informationshanteringsplan                      Sida 70 av 127
 | Process: | Hantera uppsägning från arbetsgivaren |  |  |  |  |
 | Processnummer: | 2.3.9.2 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Meddela fack om<br>varselInformera | Kopia på varsel om<br>uppsägning | Se anmärkning | Papper | Se anmärkning | Original skickas till fack. Varsel som resulterar i<br>avslut bevaras och läggs i personaktNovi.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
-|  | Kopia på<br>underättelse om<br>uppsägning | Se anmärkning | Digitalt | Se anmärkning | Original skickas till medarbetare. Underättelse som<br>resulterar i avslut bevaras i Novi.<br>Underrättelse som inte resulterar i avslut e-postas<br>till personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
-|  | Kopia på varsel om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Varsel som resulterar i<br>avslut bevaras och läggs i personakt Novi.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
+| Meddela fack om<br>varselInformera | Kopia på varsel om<br>uppsägning | Se anmärkning | Papper | Se anmärkning | Original skickas till fack. Varsel som resulterar i<br>avslut bevaras och läggs i personaktNovi.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
+|  | Kopia på<br>underättelse om<br>uppsägning | Se anmärkning | Digitalt | Se anmärkning | Original skickas till medarbetare. Underättelse som<br>resulterar i avslut bevaras i Novi.<br>Underrättelse som inte resulterar i avslut e-postas<br>till personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
+|  | Kopia på varsel om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Varsel som resulterar i<br>avslut bevaras och läggs i personakt Novi.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
 |  | Kopia på<br>underättelse om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Underättelse som<br>resulterar i avslut bevaras i Novi. |
 | Besluta | Besked om avslut<br>av anställning | Personakt | Papper | Bevaras |  |
 |  | Beslut om varaktig<br>sjukersättning | Personakt | Papper | Bevaras | Utifrån underlag från Försäkringskassan. |
@@ -8162,7 +8162,7 @@ Informationshanteringsplan                      Sida 88 av 127
 | --- | --- | --- | --- | --- | --- |
 | Hantera garantier<br>och säkerheter | Garantier | Se anmärkning. | Se<br>anmärkning. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anmärkning. | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
-| Hantera<br>attestbehörigheter | Attestunderlag | Se anmärkning. | Se<br>anmärkning. | 7 år efter avslutad<br>attestbehörighet | Attestbasen finns på<br>G:\KLK\Begränsad\Attestregister<br>Attestunderlagen som skickas in digitalt till<br>attester@kungsbacka.se registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
+| Hantera<br>attestbehörigheter | Attestunderlag | Se anmärkning. | Se<br>anmärkning. | 7 år efter avslutad<br>attestbehörighet | Attestbasen finns på<br>G:\KLK\Begränsad\Attestregister<br>Attestunderlagen som skickas in digitalt till<br>(e-post borttagen) registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anmärkning. | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga.<br>Försäkringsbrev arkiveras i<br>samarbetsrummet\KSF Ekonomi<br>KLK\12Försäkringar\Försäkringsbrev |
 
 <!-- sida 402 -->
@@ -8825,12 +8825,12 @@ Beslutad av: [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 
 Ansvarig förvaltning: [Klicka och skriv]
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 440 -->
 
@@ -8846,7 +8846,7 @@ stödprocesser. Enligt Kungsbacka kommuns riktlinjer för informationsförvaltni
 varje myndighet upprätta en informationshanteringsplan som antas av myndigheten.
 Ändringar ska samrådas med arkivmyndigheten.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 441 -->
 
@@ -9395,7 +9395,7 @@ Informationshanteringsplan                      Sida 30 av 118
 <!-- sida 471 -->
 
 Underlag anmälan Samarbetsrum ”Facklig Digitalt Vid inaktualitet Skickas av fack till funktionsbrevlåda
-facklig förtroendevald företrädare anmälan”               fackligtfortroendevald@kungsbacka.se
+facklig förtroendevald företrädare anmälan”               (e-post borttagen)
 
 Informationshanteringsplan                      Sida 31 av 118
 
@@ -9412,8 +9412,8 @@ Informationshanteringsplan                      Sida 32 av 118
 | Process: | Hantera LAS |  |  |  |  |
 | Processnummer: | 2.3.1.2 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Meddela fack om<br>varsel | Kopia på varsel om<br>uppsägning | Se anmärkning | Papper | Se anmärkning | Original skickas till fack. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
-|  | Kopia på varsel om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
+| Meddela fack om<br>varsel | Kopia på varsel om<br>uppsägning | Se anmärkning | Papper | Se anmärkning | Original skickas till fack. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
+|  | Kopia på varsel om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
 |  | Varselbrev av<br>tidsbegränsad<br>anställning | HR-administratör<br>för LAS/Winlas | Papper | 2 år |  |
 
 <!-- sida 473 -->
@@ -9532,7 +9532,7 @@ Informationshanteringsplan                      Sida 39 av 118
 | Utbilda internt | Guide | KLOK | Digitalt | Vid inaktualitet | Kan även kallas kurs eller utbildning. |
 |  | Korrespondens | Se anmärkning | Digitalt | Vid inaktualitet | Outlook och Teams. Exempelvis<br>kursinbjudningar. |
 |  | Film | Stream | Digitalt | Vid inaktualitet |  |
-| Gå utbildning | Ansökan om<br>fritidsstudiebidrag | Personakt | Se anm. | Bevaras | Skannas och e-postas till personalarkivet<br>personalarkivet@kungsbacka.se där den förvaras<br>digitalt. |
+| Gå utbildning | Ansökan om<br>fritidsstudiebidrag | Personakt | Se anm. | Bevaras | Skannas och e-postas till personalarkivet<br>(e-post borttagen) där den förvaras<br>digitalt. |
 |  | Överenskommelse om<br>studier | Personakt | Papper | Bevaras |  |
 |  | Kopia på intyg om<br>genomgången<br>utbildning | Se anmärkning | Se<br>anmärkning | Bevaras | Kan även kallas utbildningsbevis och<br>kompetensbevis.<br>Papper förvaras i personakt.<br>Digitalt bevaras i Winlas eller KLOK. |
 
@@ -9988,8 +9988,8 @@ Informationshanteringsplan                      Sida 65 av 118
 | Process: | Hantera uppsägning från arbetsgivaren |  |  |  |  |
 | Processnummer: | 2.3.9.2 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Meddela fack om<br>varsel | Kopia på varsel om<br>uppsägning | Se anmärkning | Papper | Se anmärkning | Original skickas till fack. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
-|  | Kopia på varsel om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>personalarkivet@kungsbacka.se |
+| Meddela fack om<br>varsel | Kopia på varsel om<br>uppsägning | Se anmärkning | Papper | Se anmärkning | Original skickas till fack. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
+|  | Kopia på varsel om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Varsel som resulterar i<br>avslut bevaras och läggs i personakt.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
 | Besluta | Besked om avslut<br>av anställning | Personakt | Papper | Bevaras |  |
 |  | Skriftlig grund för<br>uppsägning | Personakt | Papper | Bevaras |  |
 |  | Överenskommelse<br>om arbetsbefrielse | Personakt | Papper | Bevaras |  |
@@ -10241,7 +10241,7 @@ Informationshanteringsplan                      Sida 80 av 118
 | Fakturera internt | Internfakturor | Se anm. | Digitalt | 2 år | Internfakturor skapas både i Visma Proceedo<br>och Raindance. Eventuellt underlag på papper<br>förvaras på respektive förvaltning. |
 | Hantera garantier<br>och säkerheter | Garantier | Se anm. | Se anm. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anm. | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
-| Hantera<br>attestbehörigheter | Attestunderlag | Se anm. | Se anm. | 7 år efter avslutad<br>attestbehörighet | Attestbasen finns på<br>G:\KLK\Begränsad\Attestregister<br>Attestunderlagen som skickas in digitalt till<br>attester@kungsbacka.se registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
+| Hantera<br>attestbehörigheter | Attestunderlag | Se anm. | Se anm. | 7 år efter avslutad<br>attestbehörighet | Attestbasen finns på<br>G:\KLK\Begränsad\Attestregister<br>Attestunderlagen som skickas in digitalt till<br>(e-post borttagen) registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anm. | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga. |
 
 <!-- sida 521 -->
@@ -10853,12 +10853,12 @@ Beslutad av: [Klicka och skriv beslutsinstans, datum och paragraf]
 Gäller från: [Klicka och skriv datum: DD månad ÅÅÅÅ]
 
 Ansvarig förvaltning: [Klicka och skriv]
-Kontakt: Kungsbacka direkt 0300-83 40 00, info@kungsbacka.se
+Kontakt: Kungsbacka direkt 0300-83 40 00, (e-post borttagen)
 
 Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 558 -->
 
@@ -14174,9 +14174,9 @@ Detaljplanen upprättas med utökat förfarande i enlighet med plan- och bygglag
 Enligt Boverkets allmänna råd (2014:5) om planbestämmelser för detaljplan.
 
 Handläggare
-Maria Malone, Planarkitekt 0300-83 40 41 maria.malone@kungsbacka.se
+Maria Malone, Planarkitekt 0300-83 40 41 (e-post borttagen)
 
-Lena Melvinsdotter, Exploateringsingenjör 0300-83 42 68, lena.melvinsdotter@kungsbacka.se
+Lena Melvinsdotter, Exploateringsingenjör 0300-83 42 68, (e-post borttagen)
 
 Handlingar:
 • Planbeskrivning, denna handling
@@ -16566,7 +16566,7 @@ Samhällsbyggnadskontoret
 Kungsbacka kommun
 
 0300-83 40 00
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 683 -->
@@ -16666,7 +16666,7 @@ finns tillgängliga på Samhällsbyggnadskontoret. Länsstyrelsens yttrande bifo
 
 /Samhällsbyggnadskontoret                                    Kungsbacka kommun
 /Elin Kajander/                                               434 81 Kungsbacka
-samhallsbyggnadskontoret@kungsbacka.se                           Besöksadress
+(e-post borttagen)                           Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -17731,7 +17731,7 @@ Skanovas anläggningar inom och intill aktuellt område är markerade på bifoga
 området.
 
 För diskussion om eventuell undanflyttning skall Skanova kontaktas via e-post: skanova-
-remisser-goteborg@skanova.se. Detta skall ske i god tid innan eventuell åtgärd krävs.
+(e-post borttagen). Detta skall ske i god tid innan eventuell åtgärd krävs.
 Eventuella undanflyttningar bekostas av exploatören. För digitala kartor samt utsättning
 hänvisas till www.ledningskollen.se
 
@@ -17774,7 +17774,7 @@ Man har beaktat Ellevios yttrande i plansamrådet under Tekniska frågor 2019–
 har vi inte något att erinra mot det upprättade planförslaget.
 
 Vid frågor angående detta ärende är Ni välkommen att kontakta handläggaren: Peter
-Schallengruber, tel. 070-8656255
+Schallengruber, tel. (mobilnummer borttaget)
 
 Kommentar: Planen möjliggör placering av transformatorstationer inom
 verksamhetskvarteren. Inga särskilda E-områden har skapats för detta ändamål.
@@ -18309,7 +18309,7 @@ standardiseras.
 
 Vid nybyggnation av villor/radhus och industriområden placeras postlådan i en lådsamling vid
 infarten till området. I flerfamiljshus ska man ta emot sin post i en fastighetsbox på entréplan.
-Kontakta PostNord i god tid på utdelningsforbattringar@postnord.com för dialog gällande
+Kontakta PostNord i god tid på (e-post borttagen) för dialog gällande
 godkännande av postmottagning i samband med nybyggnation.
 
 <!-- sida 718 -->
@@ -18519,7 +18519,7 @@ SAMRÅDSYTTRANDE        1 (9)
 
 Samhällsbyggnadskontoret
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samrådsyttrande över förslag till detaljplan gällande verksamhetsområde
 i Klovsten inom Ysby 1:12 m fl, Kungsbackas kommun.
@@ -18564,7 +18564,7 @@ bygglagen (PBL) och nu kända förhållanden att ett antagande av en detaljplan 
 förslaget kan komma att prövas.
 
 Postadress     Besöksadress E-post          Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 – 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 – 224 30 00
 
 <!-- sida 723 -->
 
@@ -19008,7 +19008,7 @@ SAMRÅDSYTTRANDE        1 (9)
 
 Samhällsbyggnadskontoret
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Samrådsyttrande över förslag till detaljplan gällande verksamhetsområde
 i Klovsten inom Ysby 1:12 m fl, Kungsbackas kommun.
@@ -19053,7 +19053,7 @@ bygglagen (PBL) och nu kända förhållanden att ett antagande av en detaljplan 
 förslaget kan komma att prövas.
 
 Postadress     Besöksadress E-post          Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 – 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 – 224 30 00
 
 <!-- sida 732 -->
 
@@ -19535,7 +19535,7 @@ Kontoret har bedömt att planförslaget ska revideras genom ändringar i plankar
 planbeskrivningen. Revideringarna innebär att planbeskrivningen och plankartan ändras efter den
 Samhällsbyggnadskontoret                                     Kungsbacka kommun
 434 81 Kungsbacka
-samhallsbyggnadskontoret@kungsbacka.se                           Besöksadress
+(e-post borttagen)                           Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
@@ -20786,7 +20786,7 @@ Diarienummer
 2020-12-09     402-8151-2020
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Yttrande över  granskning  av detaljplan gällande
 verksamhetsområde     Klovsten  inom  Ysby 1:12  m fl
@@ -20827,7 +20827,7 @@ byggnation ska kunna klarläggas i planskedet behöver dessa förhållanden vara
 SGI anser att stabiliteten för permanenta jord- och bergslänter behöver klarläggas fullt
 
 Postadress     Besöksadress  E-post          Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 - 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 - 224 30 00
 
 <!-- sida 768 -->
 
@@ -21242,7 +21242,7 @@ Diarienummer
 2020-12-09     402-8151-2020
 
 Kungsbacka kommun
-samhallsbyggnadskontoret@kungsbacka.se
+(e-post borttagen)
 
 Yttrande över  granskning  av detaljplan gällande
 verksamhetsområde     Klovsten  inom  Ysby 1:12  m fl
@@ -21283,7 +21283,7 @@ byggnation ska kunna klarläggas i planskedet behöver dessa förhållanden vara
 SGI anser att stabiliteten för permanenta jord- och bergslänter behöver klarläggas fullt
 
 Postadress     Besöksadress  E-post          Telefon
-301 86 HALMSTAD Slottsgatan 2 halland@lansstyrelsen.se 010 - 224 30 00
+301 86 HALMSTAD Slottsgatan 2 (e-post borttagen) 010 - 224 30 00
 
 <!-- sida 778 -->
 
@@ -21904,7 +21904,7 @@ Startpaket småplaner 2025 – Del av detaljplan S21A för Malevik 1:39, Detaljp
 Del av detaljplan K35 och T16 inom Spoven 1
 Beställare
 Namn och roll                    E-postadress        Telefon
-Lovisa Eld                       lovisa.eld@kungsbacka.se 0300–837783
+Lovisa Eld                       (e-post borttagen) 0300–837783
 
 Status
 Beställningen är                 Datum

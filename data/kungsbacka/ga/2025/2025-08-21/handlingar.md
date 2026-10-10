@@ -38,7 +38,7 @@ Sammanträde torsdagen den 21 augusti 2025 kl. 17:00 Elof Lindälvs gymnasium Sa
 Karin Möglebust                                              Kungsbacka kommun
 Förvaltningen för Gymnasium & Arbetsmarknad                   434 81 Kungsbacka
 Direkt
-karin.moglebust@kungsbacka.se                                   Besöksadress
+(e-post borttagen)                                   Besöksadress
 
 [Tabell 1-1](handlingar.tabeller/1-1.csv)
 
@@ -4909,7 +4909,7 @@ ICA påfart, där vi tillsammans ska ge möjlighet för två invånare att jobba
 under sommaren. I Kungsbacka gick dessa platser till två KAA ungdomar vilka matchades
 väl.
 
-Kungsbacka kommun • 0300-83 40 00 • info@kungsbacka.se • kungsbacka.se
+Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 <!-- sida 122 -->
 
@@ -5097,11 +5097,11 @@ Beslutad av:    Kommunfullmäktige 16 juni 2025 § 121
 
 Gäller från:    2025-06-16
 Ansvarig förvaltning: Nämnden för Teknik
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
-Kungsbacka kommun | 0300-83 40 00 | info@kungsbacka.se | www.kungsbacka.se
+Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 127 -->
 
@@ -6286,7 +6286,7 @@ Motionärerna menar att användningen av lustgas i berusningssyfte har ökat kra
 Patrik Johansson                                          Kungsbacka kommun
 Kommunsekreterare                                          434 81 Kungsbacka
 Kommunstyrelsens förvaltning                                  Besöksadress
-patrik.johansson2@kungsbacka.se                          Stadshuset, Storgatan 37
+(e-post borttagen)                          Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 

@@ -101,7 +101,7 @@ Beslutad av:    Byggnadsnämnden 2026-04-15 § xx
 Gäller från:    xxxx-xx-xx
 Ansvarig förvaltning: Bygg- och miljöförvaltningen
 
-Kontakt:        Kungsbacka direkt 0300-83 40 00 | info@kungsbacka.se
+Kontakt:        Kungsbacka direkt 0300-83 40 00 | (e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se
 
@@ -1402,13 +1402,13 @@ Byggnadsförvaltningen
 
 Kungsbacka kommun 2026 -02- 24
 
-Storgatan 37
+(adress borttagen)
 434 81 Kungsbacka
 
 Diarienr
 
 Sven-Olof Börjesson
-Vättnevägen 8
+(adress borttagen)
 429 33 KULLAVIK
 
 Remiss gällande vägnamnsförslag: Lilla Hagenvägen
@@ -1462,7 +1462,7 @@ www.kungsbacka.se
 
 Telefon: 0300-83 40 00
 
-Kungsbacka kommun, Storgatan 37, 434 81 Kungsbacka
+Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
 Telefon 0300-83 40 00 « infoQMkungsbacka.se » kungsbacka.se
 
 <!-- sida 31 -->
@@ -1494,7 +1494,7 @@ Enhetschef Planering & Utformning
 1 (1)
 Förvaltningen för Teknik                                  Kungsbacka kommun
 434 81 Kungsbacka
-teknik@kungsbacka.se
+(e-post borttagen)
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00

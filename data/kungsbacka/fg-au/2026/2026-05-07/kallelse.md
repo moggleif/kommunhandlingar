@@ -39,7 +39,7 @@ Kollaskolan, Gult konferensrum
 Lars Sundbom                                                 Kungsbacka kommun
 FG Myndighet & Stöd                                           434 81 Kungsbacka
 Direkt 0300-835240
-lars.sundbom@kungsbacka.se                                      Besöksadress
+(e-post borttagen)                                      Besöksadress
 Stationsgatan 9
 020-751 751
 
@@ -81,7 +81,7 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- |
 | 8. | Revidering av regler för<br>skolskjuts<br>Kl 12:20-12:40<br>Frida Byrsten, verksamhetschef | FG-2026-00260 | Nämnden för Förskola och Grundskola antar<br>reviderade Regler för skolskjuts för inom<br>Förskola & Grundskola, 2026-04-24. |
 | 8. | Tillsyn Särö Skola 6-9 -<br>Skolinspektionen Dnr: SI-<br>2025:10268<br>Kl 12:40-12:55<br>Frida Byrsten, verksamhetschef | FG-2025-00723 | Arbetsutskottet antar dokumentet<br>”Huvudmannens redovisning av vidtagna<br>åtgärder till Skolinspektionen Särö 6-9, SI<br>2025:10268” som yttrande och översänder det<br>till Skolinspektionen. |
-| 9. | Ansökan från Särö pastorat<br>gällande permanent utökning av<br>barnantal på förskolan<br>Prästkragen | FG-2026-00130 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande ansökan om<br>utökning på förskolan Prästkragen, Östra<br>Särövägen 339, 429 44 Särö om permanent<br>utökning till totalt 20 barn. |
+| 9. | Ansökan från Särö pastorat<br>gällande permanent utökning av<br>barnantal på förskolan<br>Prästkragen | FG-2026-00130 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande ansökan om<br>utökning på förskolan Prästkragen, Östra<br>(adress borttagen), 429 44 Särö om permanent<br>utökning till totalt 20 barn. |
 | 10. | Ansökan från<br>Förskolekooperativet<br>Myrstacken i Åsa Ekonomisk<br>förening gällande permanent<br>utökning av barnantal på<br>förskolan Myrstacken | FG-2026-00232 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Förskolekooperativet Myrstacken i<br>Åsa Ekonomisk förening gällande ansökan om<br>utökning på förskolan Myrstacken, Kumlabacken<br>9, 439 53 Åsa om permanent utökning till totalt<br>22 barn. |
 | 11. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2026<br>Kl 12:55-13:20<br>Frida Byrsten, verksamhetschef<br>Tove Bender, utredare | FG-2026-00015 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
 
