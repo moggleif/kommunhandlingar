@@ -1,4 +1,5 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0016. Test: tests/test_olinjerade.py.
+"""Krav: K5 och K19 i docs/02-KRAV.md, ADR-0016 och ADR-0024.
+Test: tests/test_olinjerade.py och tests/test_skarvar.py.
 
 En tabell utan lodräta linjer läses ur textlagrets ord, rad för rad, och blir
 säker bara när varje rad är en etikett följd av tal och talen står i linje i
@@ -37,6 +38,8 @@ class Tabell:
     bbox: tuple[float, float, float, float]
     rader: list[list[str]]
     antal_ord: int
+    # Etiketternas vänsterkant och kolumnernas högerkanter (K19).
+    kanter: tuple[float, ...]
 
 
 def tabeller(sida: Page, upptagna: list[tuple]) -> list[Tabell]:
@@ -102,7 +105,9 @@ def tabell(rader_: list[Rad], foljd: tuple[int, int]) -> Tabell | None:
         return None  # en etikettkolumn, och etiketterna till vänster är annan text
     huvud = huvudet(rader_[: borjan + 1], kolumner_, etiketternas_slut)
     ord_ = [o for r in rader_[borjan - len(huvud) : slut] for o in r.ord]
-    return Tabell(ram(ord_), huvud + kropp, len(ord_))
+    ruta = ram(ord_)
+    kanter = (ruta[0], *(x1 for _, x1 in kolumner_))
+    return Tabell(ruta, huvud + kropp, len(ord_), kanter)
 
 
 def kolumner(tal: list[Falt]) -> list[tuple[float, float]] | None:

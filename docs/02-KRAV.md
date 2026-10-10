@@ -520,3 +520,41 @@ Vilka mönster som räknas står i
 - **Givet** text ur poolen som ser ut som HTML
 - **När** webbplatsen byggs
 - **Så** visas den som text och blir aldrig markup.
+
+## K19 — En tabell som fortsätter på nästa sida blir en tabell
+
+Issue: [#62](https://github.com/moggleif/kommunhandlingar/issues/62).
+Vad som räknas som en fortsättning står i
+[Tabeller över flera sidor](03-ARKITEKTUR.md#tabeller-över-flera-sidor).
+
+- **Givet** en säker tabell sist på en sida, som slutar längst ner och
+  fortsätter först på nästa sida, med samma kolumner och bara sidhuvud,
+  sidfot eller sidnummer emellan
+- **När** dokumentet konverteras
+- **Så** blir delarna en CSV, vars namn anger första och sista sidan, och
+  tabellen står en gång i Markdown-texten, efter första sidans text.
+- **Givet** en fortsättning vars första rad är exakt lika med tabellens
+  första rad
+- **När** delarna slås ihop
+- **Så** står raden bara en gång, överst.
+- **Givet** en rad som brutits vid sidslutet, så att en del står på
+  vardera sidan
+- **När** delarna slås ihop
+- **Så** står delarna kvar som två rader; inga celler slås ihop.
+- **Givet** två tabeller på varsin sida med löptext, en rubrik, en
+  fotnot eller en summa emellan i sidans text, med olika kolumner, där
+  den första slutar mitt på sidan, där någon av sidorna är läst med OCR,
+  eller där bara den ena sidans tal är obekräftade
+- **När** dokumentet konverteras
+- **Så** förblir de två tabeller, som förut.
+- **Givet** en rad i sidans översta eller nedersta tiondel som står på
+  samma höjd på minst tre sidor, med samma text när siffrorna inte
+  räknas
+- **När** dokumentet konverteras
+- **Så** räknas den som sidhuvud eller sidfot och skiljer inte två
+  tabeller åt, också när den är en rubrik, en summa eller en fotnot.
+- **Givet** en tabell som slagits ihop
+- **När** datakontrollen körs (K11)
+- **Så** prövas att varje sida i spannet finns och är läst ur textlagret,
+  och att ingen annan tabell börjar inne i spannet eller har samma
+  första sida och nummer.

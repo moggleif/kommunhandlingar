@@ -4,7 +4,9 @@ Test: tests/test_datakontroll.py och tests/test_datakontroll_tolkning.py.
 Datakontrollen av en CSV i en tabellkatalog (docs/03-ARKITEKTUR.md#tabeller):
 namnet, att katalogen har sin `.md`, att sidan är läst ur textlagret eller
 tolkad, att numren på sidan följer på varandra och att filen är CSV med
-radslut LF. Varje tal i en tolkad CSV ska stå i sidans text.
+radslut LF. Varje tal i en tolkad CSV ska stå i sidans text. En tabell över
+flera sidor (K19) har varje sida läst ur textlagret, och ingen annan tabell
+börjar inne i den eller har samma sida och nummer.
 """
 
 import csv
@@ -14,23 +16,49 @@ from pathlib import Path
 from kommunhandlingar import frontmatter
 from kommunhandlingar.datakontroll_tolkning import talfel
 
-NAMN = re.compile(r"([1-9]\d*)-([1-9]\d*)(\.tolkad)?\.csv")
+NAMN = re.compile(r"([1-9]\d*)-(?:([1-9]\d*)-)?([1-9]\d*)(\.tolkad)?\.csv")
+NAMNEN = "<sida>-<nr>.csv, <sida>-<sista sida>-<nr>.csv eller <sida>-<nr>.tolkad.csv"
 TEXTLAGER = {"ok", "tabell-osaker"}
 
 
 def tabellfel(fil: Path) -> list[str]:
-    namn = NAMN.fullmatch(fil.name)
+    namn = delar(fil.name)
     if not namn:
-        return ["heter inte <sida>-<nr>.csv eller <sida>-<nr>.tolkad.csv"]
+        return [f"heter inte {NAMNEN}"]
     md = fil.parent.with_suffix(".md")
     if not md.is_file():
         return [f"tabellkatalogen har ingen {md.name}"]
-    sida, nr, tolkad = int(namn[1]), int(namn[2]), namn[3] or ""
+    sida, sista, nr, tolkad = namn
     formfel = formatfel(fil)
     fel = luckfel(fil, f"{sida}-{nr - 1}{tolkad}.csv", nr) + formfel
     if not tolkad:
-        return sidfel(md, sida) + fel
+        return sidfel(md, range(sida, sista + 1)) + spannfel(fil, sida, nr) + fel
     return tolkningsfel(md, sida) + fel + ([] if formfel else talfel(fil, md, sida))
+
+
+def delar(namn: str) -> tuple[int, int, int, str] | None:
+    """Första sidan, sista sidan, numret och `.tolkad`, eller None."""
+    traff = NAMN.fullmatch(namn)
+    if not traff or (traff[2] and (traff[4] or int(traff[2]) <= int(traff[1]))):
+        return None
+    sida = int(traff[1])
+    return sida, int(traff[2] or sida), int(traff[3]), traff[4] or ""
+
+
+def spannfel(fil: Path, sida: int, nr: int) -> list[str]:
+    """En annan tabell med samma sida och nummer, eller en tabell över
+    flera sidor som den här tabellen börjar inne i."""
+    for annan in sorted(fil.parent.glob("*.csv")):
+        span = delar(annan.name)
+        if annan == fil or not span or span[3]:
+            continue
+        # Numret 0 på sista sidan ligger före varje tabell som börjar där.
+        borjan, slut = (span[0], span[2]), (span[1], 0)
+        if borjan == (sida, nr):
+            return [f"samma sida och nummer som {annan.name}"]
+        if borjan < (sida, nr) < slut:
+            return [f"börjar inne i {annan.name}"]
+    return []
 
 
 def las_lista(md: Path, namn: str) -> list[str] | None:
@@ -41,11 +69,15 @@ def las_lista(md: Path, namn: str) -> list[str] | None:
         return None  # felet i front matter rapporteras för `.md`
 
 
-def sidfel(md: Path, sida: int) -> list[str]:
-    sidor = las_lista(md, "kvalitet_per_sida")
-    if sidor is not None and (sida > len(sidor) or sidor[sida - 1] not in TEXTLAGER):
-        return [f"sidan {sida} finns inte eller är inte läst ur textlagret"]
-    return []
+def sidfel(md: Path, sidor: range) -> list[str]:
+    kvalitet = las_lista(md, "kvalitet_per_sida")
+    if kvalitet is None:
+        return []
+    return [
+        f"sidan {sida} finns inte eller är inte läst ur textlagret"
+        for sida in sidor
+        if sida > len(kvalitet) or kvalitet[sida - 1] not in TEXTLAGER
+    ]
 
 
 def tolkningsfel(md: Path, sida: int) -> list[str]:

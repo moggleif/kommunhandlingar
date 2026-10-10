@@ -1,10 +1,12 @@
-"""Krav: K5, K6, K15 och K17 i docs/02-KRAV.md, ADR-0005, ADR-0016,
-ADR-0017 och ADR-0022. Test: tests/test_konvertering.py, tests/test_maska_poolen.py.
+"""Krav: K5, K6, K15, K17 och K19 i docs/02-KRAV.md, ADR-0005, ADR-0016,
+ADR-0017, ADR-0022 och ADR-0024. Test: tests/test_konvertering.py,
+tests/test_maska_poolen.py och tests/test_skarvar.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
 får inga tabeller, och dess tal är aldrig bekräftade. En sida som inte är
 tom prövas för figurer. Personuppgifterna maskas i text och celler innan
-sidan lämnas vidare.
+sidan lämnas vidare. En sida ur textlagret får en skarv för K19, vars rader
+bara jämförs och aldrig skrivs.
 """
 
 from dataclasses import dataclass, field, replace
@@ -13,6 +15,7 @@ import pypdfium2 as pdfium
 from pdfplumber.page import Page
 
 from kommunhandlingar.konvertering import figurer, markdown, ocr, olinjerade, tabeller
+from kommunhandlingar.konvertering.skarv import Skarv, skarv
 from kommunhandlingar.konvertering.text import komprimera, stycken
 from kommunhandlingar.konvertering.vag import olasliga, vag
 from kommunhandlingar.personuppgifter import maska
@@ -27,6 +30,7 @@ class Sida:
     text: str = ""
     tabeller: list[list[list[str]]] = field(default_factory=list)
     figur: bool = False
+    skarv: Skarv | None = None
 
 
 def las_sida(sida: Page, rendering: pdfium.PdfPage) -> Sida:
@@ -67,15 +71,16 @@ def textsida(sida: Page) -> Sida:
     utanfor = sida.filter(lambda o: not i_tabell(o, rutor))
     text, osaker = stycken(utanfor.extract_text(layout=True))
     osaker = osaker or any(olast_siffra(c, fallda, rutor) for c in sida.chars)
-    hittade = [(t.bbox, tabeller.rader(t)) for t in linjerade]
-    hittade += [(t.bbox, t.rader) for t in utan_linjer]
+    hittade = [(t.bbox, tabeller.rader(t), tabeller.kanter(t)) for t in linjerade]
+    hittade += [(t.bbox, t.rader, t.kanter) for t in utan_linjer]
     hittade.sort(key=lambda t: (round(t[0][1]), t[0][0]))
     return Sida(
         "tabell-osaker" if osaker else "ok",
         olasliga(sida) > 0,
         text,
-        [rader for _, rader in hittade],
+        [rader for _, rader, _ in hittade],
         figurer.har_figur(sida, rutor),
+        skarv(utanfor, [(ruta, kanter) for ruta, _, kanter in hittade]),
     )
 
 

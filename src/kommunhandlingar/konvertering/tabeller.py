@@ -1,4 +1,4 @@
-"""Krav: K5 i docs/02-KRAV.md, ADR-0005, ADR-0009 och ADR-0016.
+"""Krav: K5 och K19 i docs/02-KRAV.md, ADR-0005, ADR-0009, ADR-0016 och ADR-0024.
 Test: tests/test_konvertering.py och tests/test_celler.py.
 
 En säker tabell är avgränsad av ritade linjer: streck och fyllda
@@ -102,6 +102,11 @@ def mitt(objekt: dict) -> tuple[float, float]:
 
 def inom(punkt: tuple[float, float], ruta: tuple) -> bool:
     return ruta[0] <= punkt[0] <= ruta[2] and ruta[1] <= punkt[1] <= ruta[3]
+
+
+def kanter(tabell: Table) -> tuple[float, ...]:
+    """Kolumnernas vänsterkanter och tabellens högerkant."""
+    return (*(k.bbox[0] for k in tabell.columns), tabell.bbox[2])
 
 
 def rader(tabell: Table) -> list[list[str]]:
